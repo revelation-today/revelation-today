@@ -3,18 +3,11 @@ title: About
 toc: false
 ---
 
-Hextra is designed to be a simple, fast, and flexible theme for building modern static websites. It is especially well-suited for documentation websites but can also be used for various types of sites, such as blogs, portfolios, and more.
-
-Hugo, like Jekyll, is a static site generator. What sets Hugo apart is that it is a single binary, making it easy to install and run on various platforms. It is also extremely fast and reliable, capable of rendering a site with thousands of pages in milliseconds.
-
-Hextra is built with a mindset focused on having a minimal footprint. To get started, no extra dependencies like Node.js packages are required; all you need is a single YAML configuration file, along with your Markdown content. Thus, we can focus on writing quality content instead of setting up tooling.
+The book of Revelation is a page to understand better this specific book in the Bible.
 
 ## Credits
 
-Hextra cannot be built without the following tools and inspirations:
-
-- [Hugo](https://gohugo.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Heroicons](https://heroicons.com/)
-- [Nextra](https://nextra.vercel.app/)
-- [Next.js](https://nextjs.org/)
+This page was build based on many inspirations from [theologians](../docs/gen/background/ressources/how-to-study-the-book-of-revelation/index.html) and the following tools
+- [Medium](https://medium.com/) for starting to write
+- [Hekstra](https://themes.gohugo.io/themes/hextra/) for html framework
+- [Deepl](https://www.deepl.com/translator) for suport with translations

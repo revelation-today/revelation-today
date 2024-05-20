@@ -1,0 +1,146 @@
+---
+title: "Kilisenin nesi var?"
+---
+
+
+Kilisenin dünyaya bir lütuf olması ve inanmayanların da ilgisini çekecek bir yaşam sürmesi amaçlanmıştır. Ancak uzun bir haçlı seferleri, engizisyon, istismar ve ikiyüzlülük tarihinden sonra kendinize neyin yanlış gittiğini sorabilirsiniz. Öyleyse bir göz atalım
+
+
+## İnsanlık sorunu
+
+<a name="7d3d"></a>
+Daha derin bir düzeyde, biz insanlar çok basitiz: [Maslows piramidini](https://www.medicalnewstoday.com/articles/maslows-hierarchy-of-needs#summary) takip ediyoruz. Bir şey almadan bir şey vermeyiz. Özverili davransak bile bunu iyi bir vicdan, toplumsal onay ya da bize anlam veren daha büyük bir amaç için yaparız. Bu aynı zamanda İncil’de de yansıtılır.
+
+[Kutsal Kitap erkek ve kadının (Adem ve Havva) Tanrı’nın suretinde yaratıldığını](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F1%3A27), yani O’nun yerine geçtiklerini anlatır. Tüm özgürlüğe ve doyuma sahiptiler, [ancak en önemli konuda başarısız oldular: Tanrı’nın onlara verdiği armağan, armağanı verenden daha önemli hale geldi, başka bir deyişle adam Tanrı’nın kendisine](../../../bible/creation/expl/the-creation/index.html) verdiği eşi ve onun sözünü Tanrı’ya ve onun sözüne tercih etti.
+
+Tanrı’yla paydaşlıklarını kaybedip kendi başlarına kalmaya başladılar ve bu durum bir [sonraki bölümde](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F4) kıskançlık, cinayet ve diğer insanların yaşamına saygı duymama şeklinde devam etti.
+
+Nuh dışındaki tüm kötü insanları yok etmek hiçbir etki yaratmadı, [Nuh’un kendisi de büyük oğlu Kenan’ı lanetlerken sorun oldu](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F9%3A18-27). Sömürgeciler bunu Tanrı’nın Afrikalıların köle olmasına izin verdiğini kanıtlamak için kullandılar — bunun mantığını hiç anlamadım.
+
+Her neyse, yolculuk devam eder ve insanoğlu kendilerine bir isim yapmaya çalışır, bu da [bir felaketle sonuçlanır](../../../bible/keyword/expl/the-origin-of-babel/index.html) ve Tanrı İbrahim’den bir isim yaratır. O, İsrail’in atası oldu. Tanrı İsrail ile bir antlaşma yaptı, böylece onlar çevrelerindeki insanlara iyi bir yaşam örneği olacaklardı. Ama onlar çevrelerindeki insanlardan daha kötüydüler ve Tanrı onları sürgüne gönderdi ve bu aşağı yukarı Kutsal Kitap’ın ilk bölümünün, Eski Ahit’in konusudur. Tam olarak değil. Daha sonra bakacağımız bazı iyi örnekler vardır.
+
+Peki aslında sorun nedir? En başta açıklanmıştı: Hediyeyi verenden daha çok sevmek. Bu açgözlülüğün bir türüdür ve genellikle yetersiz kalma korkusuyla eşleştirilir (tedarik, onaylanma, güvenlik, her türlü fomo, …). Bununla bir şeyler elde etmek için insanları ve ilişkileri kötüye kullanırız (para, onay veya değerlendirme, sosyal medya statüsü, iyi vicdan, amaç, …).
+
+
+## Daha derin sorun
+
+<a name="968b"></a>
+Bu derin köklere sahiptir ve bir kiliseye katılmak ya da bir programı takip etmek bunu değiştirmez. Çünkü bu genellikle sadece semptomlara yaklaşmaktır.
+
+Basit bir örneğe bakalım. Sigara içmek iyi bir şey değildir. Sağlığınız için kötüdür ve bağımlılık yaptığı için özgürlüğünüzü kısıtlar (biraz fazla basitleştirdim ama ne demek istediğimi anladınız). Bu yüzden bazı kiliseler şöyle der: Bırakın ve her şey yoluna girsin. Burada kişi pek çok sorunla karşı karşıya kalır:
+
+- Sigara içmek iyi olmayabilir, ancak kişinin en kötü sorunu olmayabilir, hatta belki görünür bile olmayabilir.
+- [Diğer kişiye talepte bulunan kişinin daha da derin bir ahlaki sorunu olabilir.](https://www.bibleserver.com/TR/Matta7%3A3)
+- Davranışı durdurmak o kadar kolay olmayabilir (bağımlılık durumunda) ve her zaman bir nüksetme durumu vardır (sürekli korku)
+- Kötü davranışlardan kaçınmak iyi davranış değildir
+- Sigara içmek başka bir sorunu örtüyor olabilir (stresle başa çıkamama, örneğin insanlardan korktuğu için beklentileri karşılayamama)
+- Daha derindeki sorunu bilmek bile yardımcı olmuyor çünkü
+- Başka bir şeyi (travmatik deneyim, kötü etkiler, genetik, …) suçlamak için iyi bir yol bulursunuz, bu da size böyle kalmak için bir bahane verir veya
+- bunalmış durumdasınız çünkü bu sorunlardan birçoğuna sahip olabilirsiniz
+- Kendi sorununuzun üstesinden gelmek, sizinkine benzer sorunlarının üstesinden gelemeyen insanlara karşı muhtemelen yargılayıcı olmanıza neden olur ve bu da bizi tahtaya geri [getirir](https://www.bibleserver.com/TR/Matta7%3A3).
+- Her sistemin (dünyevi ya da ruhani) neyin iyi olmadığına dair bir filtresi vardır ve geri kalanı normalde her iki yönde de yanlış olan iyi gibi görünür (bazı iyi olmayan durumlar aslında iyidir ve bunun tersi de geçerlidir).
+
+
+Ve çoğu zaman kilise (hepsinin kendi sorunları olan) ve kötü eylemleri kontrol etmeye çalışan insanlardan oluşur. Ancak bu yine de yol göstermez.
+
+[Bu, basitçe değiştiremeyeceğiniz bir paradigmadır.](../../../topics/hero/short/a-real-hero/index.html)
+
+
+## İleriye doğru bir yol
+
+<a name="a726"></a>
+[İsa bunu iyi ve kötü ağaç sorunu olarak tanımlar](https://www.bibleserver.com/TR/Matta7%3A17-18). Yani içimiz yanlış olduğunda iyi eylemlerde bulunmaya çalışmak işe yaramaz. İçimizdeki nedir?
+
+Bu geniş bir konudur ve burada Dallas Willard’a yer veriyorum, eğer biraz zaman ayırırsanız bunu açıklıyor (25 yıldan daha eski ama hala çok alakalı). Onlarca yıl önce kiliseye giden insanların neden davranışlarını değiştirmediklerini merak ediyordu
+
+<li id="f5a0">[Dallas Willard — Human Beings as Spiritual Beings](https://www.youtube.com/watch?v=rqib-BIEijM) veya</li>- benzer şekilde okumayı tercih ediyorsanız “[Spiritual Disciplines and the Restoration of the Soul](https://dwillard.org/articles/spiritual-disciplines-spiritual-formation-and-the-restoration-of-the-soul)” veya
+- [Michael Goremans view on the new covenant](https://www.reddit.com/r/cruciformity/comments/st85s5/free_ebook_the_death_of_the_messiah_and_the_birth/)
+
+
+Özü şu şekilde söylenebilir:
+
+- Tanrı iyidir ve ona güvenmeyi öğrenmek bizi bağlayan şeyleri bırakmamızı sağlar (“Ben … olmadan yaşayamam”, “Benim …’ya ihtiyacım var”, “Bu … olmalı”, …)
+- Tanrı’yla ilişkinizi geliştirmek, davranışlarınızı düzeltmekten daha önemlidir. Bu kulağa biraz sert gelebilir ama bizi Adem ve Havva’ya geri götürecektir (davranışlarımızı iyileştirmek için Tanrı’yı kullanmak)
+- Duygular kötü bir rehberdir, irade bize seçebileceğimiz seçenekler sunduğu için çok daha iyidir. Farklı seçenekler hakkında düşünmek bile müzakere etmek olabilir.
+- Disiplinler, farklı duygusal tepkilere yol açacak olan irade seçimimizin etkisini deneyimlememize yardımcı olur.
+- İnancınızı korkuyla değil, Tanrı’ya güvenerek yerine getirin. Korku çoğu zaman inançlarımızı sarsabilecekleri için insanlara ya da fikirlere baskı yapmaya yol açar. Ancak iyi bir sarsıntı iyidir çünkü inancımızda sağlam olmayan bazı sütunlar olup olmadığını gösterir ve bunlardan kurtulmak iyidir.
+- Utanç duymayın. Utanç, sende yanlış bir şeyler olduğunu söyler. Bu doğru değil. Eyleminizde üzerinde çalışılabilecek yanlış bir şeyler var.
+
+
+
+## Yanlış fikirler
+
+<a name="4bfe"></a>
+Yani yanlış davranışlarımız yanlış düşünmemizden kaynaklanır. Şimdi birkaç yanlış kavrama örneğini ele alalım:
+
+Eğer Hıristiyansanız daha iyi bir hayatınız olacaktır. Tanrı sizi kutsayacak ve sizinle ilgilenecektir. Dua, tüm isteklerinizin yerine getirilmesinin bir yoludur. Kulağa tanıdık geliyor. Güzel ama İncil’e uygun değil.
+
+Bu izlenimi veren bazı örnekler vardır:
+
+- İbrahim Tanrı’nın bereketiyle zengin oldu, ama kendi kültüründe daha da önemli olan [bir varis vaadinden](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F17%3A16-21) [vazgeçebildi](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F22). Tanrı’yla olan ilişkisi onun bereketinden daha önemliydi.
+- Eyüp Tanrı’yı kabul ettikten sonra tüm servetini geri aldı. Pek sayılmaz. [Tanrı’yı tanıdıktan sonra mutlu oldu](https://www.bibleserver.com/TR/Ey%C3%BCp42%3A5), [arkadaşlarını bağışladıktan sonra servetini geri aldı](https://www.bibleserver.com/TR/Ey%C3%BCp42%3A6-17).
+- Süleyman’ın yaşamı, [bilgeliğini](https://www.bibleserver.com/TR/1.Krallar3) [zengin olmak için](https://www.bibleserver.com/TR/1.Krallar10%3A14-29) kullanarak mahvoldu ve bu da [Tanrı’yla olan ilişkisini yok etti](https://www.bibleserver.com/TR/1.Krallar11%3A1-13)
+- [İsa genç adamdan her şeyini satmasını istedi, çünkü bu onu durdurmuştu.](https://www.bibleserver.com/TR/Markos10%3A17-23)
+- [Pavlus hem fakir hem de zengindi](https://www.bibleserver.com/TR/Filipililer4%3A11-13)
+
+
+Eğer dualarınız kabul olmuyorsa, sizde bir sorun var demektir — belki daha az inanç ya da yanlış teknik. Yanlış.
+
+Tanrı sizin her dileğinizi yerine getirecek bir hizmet sağlayıcınız değildir. Çocuklarınıza bunu yapmalarına izin verirseniz siz de kötü bir ebeveyn olursunuz. Tanrı sizinle olan ilişkisiyle ilgilenir ve sizinle ilgilenir ama en önemli nokta bu değildir.
+
+Bir Hıristiyan olarak başkalarına iyi davranmalısın. Çok yanlış. İsa’yı örnek alın: Dini liderlerle yüzleşti ve onlara hakaret etti, tapınakta şiddet uyguladı.. Çok yanlış. İsa’yı örnek alın: [Dini liderlerle yüzleşti ve onlara hakaret etti](https://www.bibleserver.com/TR/Matta23%3A13-36), [tapınakta şiddet uyguladı.](https://www.bibleserver.com/TR/Yuhanna2%3A13-16)
+
+Konuları ele almalı ve herkesi memnun etmeye çalışmamalıyız.
+
+Bir Hıristiyan olarak başkalarını kiliseye getirmeli ve onları Hıristiyan olmaya ikna etmelisiniz. Neden? Sizin gibi olsunlar diye mi? Bunun yerine bir tanık olun ve [tanıklığınızla dikkat çekin](../../../content/witnesses/expl/the-two-witnesses/index.html).
+
+İnsanlar günahkâr olduklarını ya da zor durumda olduklarını anladıklarında Hıristiyan olurlar. Yine çok yanlış.
+
+Kimseye asla suçluluk duygusuyla yaklaşmamalıyız, bu manipülasyondur veya korkuyla çalışmaktır —[ ilişkilendirilmek isteyeceğiniz bir şey değildir](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html).
+
+Hayatta zor zamanlar geçiren insanlar [herhangi bir şeye yönelebilir](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html) ya [da öfke içinde acı çekebilirler](../../../content/bowls/expl/the-bowls-of-wrath/index.html). [Eğer akla yatkın bir alternatif](../../../content/scroll/expl/the-little-scroll/index.html) (sizin tanıklığınız) yoksa, Hıristiyan olmalarının hiçbir yolu yoktur. Ve yine lütfen Hıristiyan olduğunuzda tüm sorunların ortadan kalkacağını söylemeyin. Bu bir yalandır!
+
+İsa dünyaya geldi ve çarmıhta öldü, böylece günahlarım affedildi ve cennete gidebileceğim. Bu teknik olarak yanlış değildir, ancak gerçeğin yarısından daha azıdır. Adım adım ilerleyelim.
+
+Evet, günahlarınız ne olursa olsun bağışlanır ve [aynı şey için bile tekrar bağışlanacaktır](https://www.bibleserver.com/TR/Matta18%3A21-22). Ancak bu, [başkaları size yanlış yaptığında da affedileceğiniz anlamına gelir](https://www.bibleserver.com/TR/Matta18%3A23-35). Aynı [zamanda günahımızla yok ettiğimiz ](https://www.bibleserver.com/TR/Matta5%3A23-24)şeyi onarmamız için uzlaşma anlamına da gelir.
+
+İsa bize nasıl yaşamamız gerektiğini göstermek için dünyaya geldi ve [biz de öğrenciler olarak onun örneğini izlemeliyiz](https://www.bibleserver.com/TR/Matta28%3A19-20). Ama bu ne anlama geliyor? Öğretmeniniz İsa gibi olmaktan başka bir şey değil. [Bu yüksek bir hırs](https://www.bibleserver.com/TR/Matta5) ama [ciddi bir taleptir](https://www.bibleserver.com/TR/1.Yuhanna2%3A3-11). Eğer sevmezsek, müjdeyi kaçırırız. Ve [sevgi Kutsal Kitap bağlamında bir duygu değil](https://www.bibleserver.com/TR/1.Korintliler13%3A4-8), [pratik etkisi olan bir niyettir](https://www.bibleserver.com/TR/Yakup2%3A14-19).
+
+Bu, kötü davranışlardan kaçınmak için bir yöntem değil, yaşam boyu sürecek bir yolculuk ve Tanrı ile ilişkide büyümektir. Unutmayın, büyümeyi durduran her şey ölür.
+
+Değişme niyeti ve değişmeye istekli olmak cennete gidebilmemizin ön koşuludur, çünkü bu İsa ile ilişki anlamına gelir ve her ilişkide ilişkideki karşı tarafınıza uyum sağlamanız gerekir.
+
+Yani İsa biz cennete gidelim diye değil, uzun vadede İsa’yla ilişki içinde bir yaşama geçebilelim diye ölmüştür.
+
+Beni İsa’dan ayırabilecek şeyler var. Endişelenme.
+
+[Bu pasajda Mesih’ten uzaklaştıktan sonra ona geri dönmenin bir yolu olmadığını düşünebilirsiniz](https://www.bibleserver.com/TR/%C4%B0braniler6%3A4-6). Bu, geri dönmeye niyeti olmayan bir vicdan adımından ve başkalarına onları tövbeye geri getirmek için çaba harcamamaları için bir talimattan bahseder. [Petrus Mesih’i inkâr etti](https://www.bibleserver.com/TR/Luka22%3A54-62) ve ona geri döndü, ama [İsa’nın onunla konuşması gerekiyordu](https://www.bibleserver.com/TR/Yuhanna21%3A15-19).
+
+[Ama ya Kutsal Ruh’a karşı günah işlersem](https://www.bibleserver.com/TR/Matta12%3A31-32)? O zaman daha derin bir bakış atalım. Her şeyden önce, [Kutsal Ruh’un görevi bizi günahtan ikna etmektir](https://www.bibleserver.com/TR/Yuhanna16%3A7-8), böylece onları itiraf ederiz. [Eğer onları itiraf edersek bağışlanacağız, bu her ne ise](https://www.bibleserver.com/TR/1.Yuhanna1%3A8-9). Peki Kutsal Ruh’a karşı işlenen günah nedir? Ferisilerin yaptığı gibi, Tanrı’dan geldiğini inkâr ederek bize günahlarımızı gösterip bizi ikna etmesini inkâr etmektir.
+
+
+## Uygulamaya koymak
+
+<a name="458a"></a>
+Marjınız olsun. Günlerinizi iş veya eğlence ile doldurmayın ama hiçbir şey yapmamak için alan bırakın. Kendinizi hissedebileceğiniz ve bir şeylerin kabarmasına izin verebileceğiniz bir yer.
+
+Tam bir kabullenme içine girin. Tanrı sizi seviyor ve sizinle ilgileniyor. Sevincinizi ya da doyumunuzu elinizden almak gibi bir niyeti yoktur, ancak bunları daha derinlere götürmek için geciktirebilir.
+
+Keşfetmekle başlayın. Farklı bir bakış açısı edinin. Kendi baloncuğunuza sıkışıp kalmayın ve tek şeyin bu olduğunu düşünmeyin. Bilge bir adam şöyle demiş: “Hayat bir tanrı köpeği ve bir kötü köpek gibidir ve kavga ederler. Kazanan, en iyi beslediğiniz köpektir.”
+
+Neye maruz kaldığınızın farkında olun ve size ne yaptığını kontrol edin. Korku, açgözlülük, üstünlük, … yaratıyor mu? Bu şeyler üzerine meditasyon yapın ve onlar hakkında dürüst olun.
+
+Tanrı’ya şu anda üzerinde çalışılması gereken şeyin ne olduğunu sorun. Bunun her gün farklı bir şey olup olmadığı konusunda şüpheci olun, daha ziyade sürekli çalışabileceğiniz bir şey olmalıdır.
+
+Bunu bir eyleme dönüştürerek içine dalın. Bu, oruç, yalnızlık gibi davranışlarınızı doğrudan etkilemeyen bir disiplin olabilir.
+
+Dostluğu asla ihmal etmeyin çünkü birlikte daha iyiyiz.
+
+Kilise bu şekilde büyürse ve herkes bunu takip etme cesaretine ve önceliğine sahip olursa, dünya çok farklı görünecektir.
+
+
+
+
+
+
+[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/church/appl/what-is-wrong-with-the-church.tr.md)

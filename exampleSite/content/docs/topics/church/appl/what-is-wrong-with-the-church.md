@@ -1,0 +1,103 @@
+---
+title: "What is wrong with the church"
+---
+
+
+The Church is supposed to be a blessing to the world and a way of life that attracts unbelievers. But after a long history of crusades, inquisitions, abuse, and hypocrisy, you may be wondering what went wrong. So let’s take a look.
+
+
+## The problem of humankind
+
+<a name="2f6a"></a>
+On a deeper level we as humans are very simple: We are following [Maslow’s pyramid](https://www.medicalnewstoday.com/articles/maslows-hierarchy-of-needs#summary). We do not give without receiving. Even when we act selflessly, we do so for a clear conscience, for social approval, or for a greater purpose that gives us meaning. This is also reflected in the Bible.
+
+The Bible describes [man and woman (Adam and Eve) as being made in the image of God](https://www.bibleserver.com/NIV/Genesis1%3A27), which means they are His substitutes. They had all the freedom and fulfillment, but[ they failed in the most important aspect: God’s gift to them became more important than the giver, in other words, the man chose the woman God gave him and her word over God and His word](../../../bible/creation/expl/the-creation/index.html).
+
+They lost the fellowship with God and started on their own which continued in the [next chapter](https://www.bibleserver.com/NIV/Genesis4) in jealousy, murder and lack of respect for other people’s lives.
+
+Wiping out all the bad people except Noah had no effect, Noah himself became a problem [when he cursed his grandson Canaan](https://www.bibleserver.com/NIV/Genesis9%3A18-27). Colonialist used this to prove that God allowed Africans to be slaves — they never understood the logic of it.
+
+Anyway, the journey continues and mankind tries to make a name for itself, [which ends in a disaster](../../../bible/keyword/expl/the-origin-of-babel/index.html) and God makes a name out of Abraham. He became the progenitor of Israel. God made a covenant with Israel so that they would be a good example of life for the people around them. But they were worse than the people around them and God sent them into exile and that is more or less the point of the first part of the Bible, the Old Testament. Well, not quite. There are some good examples that we will look at later.
+
+So what is the problem? It was explained in the beginning: Loving the gift more than the giver. It is a form of greed, often coupled with a fear of coming up short (provision, recognition, security, all kinds of fomo, …). We abuse people and relationships to get things (money, approval or recognition, social media status, good conscience, purpose, etc.).
+
+
+## The deeper problem
+
+<a name="67ea"></a>
+This is deeply rooted, and joining a church and following a program will not change this. For this is often only an approach to the symptoms.Let’s look at a simple example. Smoking is not good. It is bad for your health and it limits your freedom because it is addictive (a bit oversimplified, but you get the point). So some churches say: Stop it and all will be well. Here the person faces a lot of problems:
+
+- Smoking may not be good, but it may not be the person’s worst problem, which may not even be visible.
+- [The person who is asking the other person may have even a deeper moral problem](https://www.bibleserver.com/NIV/Matthew7%3A3).
+<li id="57bf">It may not be so easy to stop the behavior (in case of addiction) and there is always a case of relapse (constant fear).<br/>Avoiding bad behavior is not good behavior.<br/>Smoking may be a cover for another problem (no way to deal with stress, e.g. not meeting expectations because of fear of people).<br/>Even knowing the deeper problem does not help because <br/>You find a good way to blame something else (traumatic experience, bad influences, genetics, …), which gives you an excuse to stay like this, or<br/>You are overwhelmed because you may have many of these problems.<br/>Overcoming your own problem makes you likely to be judgmental of people who cannot overcome their problems similar to yours, which brings us back to the [plank](https://www.bibleserver.com/NIV/Matthew7%3A3).</li>- Every system (worldly or spiritual) has a filter of what is not ok and the rest seems ok, which is usually wrong in both directions (some not ok are actually ok in situations and vice versa).
+
+
+And often the church consists of people (all with their own problems) trying to control bad actions. But this does not lead anyway.
+
+[This is a paradigm that you can not simply change.](../../../topics/hero/short/a-real-hero/index.html)
+
+
+## A way forward
+
+<a name="f861"></a>
+Jesus describes this as the [problem of the good tree and the bad tree.](https://www.bibleserver.com/NIV/Matthew7%3A17-18) So trying to give good actions will not work if the inside is wrong. What is the inside?
+
+This is a big topic, so I will leave the space here for Dallas Willard to explain it if you spend some time (more than 25 years old, but still very relevant). He was wondering several decades ago why people who attend church do not change their behavior.
+
+<li id="b7f2">[Dallas Willard — Human Beings as Spiritual Beings](https://www.youtube.com/watch?v=rqib-BIEijM) or</li>- if you prefer reading similarly “[Spiritual Disciplines and the Restoration of the Soul](https://dwillard.org/articles/spiritual-disciplines-spiritual-formation-and-the-restoration-of-the-soul)” or
+- [Michael Goremans view on the new covenant](https://www.reddit.com/r/cruciformity/comments/st85s5/free_ebook_the_death_of_the_messiah_and_the_birth/)
+
+
+The essence can be said like this:
+
+- God is good and learning to trust Him enables us to let go of things that bind us (“I cannot live without …”, “I must have …”, “It must be …”, …).
+- It is more important to grow in your relationship with God than to fix your behavior. This sounds a bit harsh, but it would bring us back to Adam and Eve (using God to improve our behavior).
+- Emotions are a bad guide, the will is much better because it gives us options to choose from. Even thinking about different options can be deliberation.
+- Disciplines help us to experience the effect of our will choices, which will result in different emotional responses.
+- Don’t exercise your faith out of fear, but out of confidence in God. Fear often leads us to suppress people or opinions because they might shake our faith. But a good shake is good because it shows if we have some unstable pillars in our faith and it is good to get rid of them.
+- Don’t be ashamed. Shame says there is something wrong with you. It is not right. There is something wrong with your action that you can work on.
+
+
+
+## Wrong ideas
+
+<a name="8c73"></a>
+So our wrong action come from wrong thinking. So let us take some examples of misconception:
+
+If you are a Christian, you will have a better life. God will bless you and take care of you. Prayer is a way to get all your wishes fulfilled. Sounds familiar. Well, it is nice, but not biblical.
+
+There are some examples where this seems to be the case:
+
+- Abraham became rich through God’s blessing, but he was [able to give up](https://www.bibleserver.com/NIV/Genesis22) his [promise of an heir](https://www.bibleserver.com/NIV/Genesis17%3A16-21) which was even more important in his culture. His relationship with God was more important than his blessing.
+- Job got all his riches back after he acknowledged God. Not really. He was [was content after he knew God](https://www.bibleserver.com/NIV/Job42%3A5), he [got his riches back after he forgave his friends](https://www.bibleserver.com/NIV/Job42%3A6-17).
+- Solomon’s life was ruined by [using his wisdom](https://www.bibleserver.com/NIV/1%20Kings3) to [get rich](https://www.bibleserver.com/NIV/1%20Kings10%3A14-29) which [destroyed his relationship with God](https://www.bibleserver.com/NIV/1%20Kings11%3A1-13).
+- [Jesus asked the young man to sell everything because this washolding him back](https://www.bibleserver.com/NIV/Mark10%3A17-23).
+- [Paul was content to be both poor and rich](https://www.bibleserver.com/NIV/Philippians4%3A11-13).
+
+
+
+
+If your prayers are not answered, there is something wrong with you — maybe too little faith or the wrong technique. Wrong.God is not your service provider to fulfill every wish you have. You would be a bad parent if you allowed that to happen to your children. God is interested in a relationship with you and cares for you, but that is not the most important thing.
+
+
+
+As a Christian you have to be nice to others. So wrong. Take Jesus as an example: He [confronted and insulted the religious leaders](https://www.bibleserver.com/NIV/Matthew23%3A13-36), He [was violent in the temple](https://www.bibleserver.com/NIV/John2%3A13-16).We should address issues and not try to please everyone.
+
+
+
+As a Christian, you should bring others to church and convince them to be Christians. Why? So that they can become like you? Rather, be a witness and [attract with your testimony](../../../content/witnesses/expl/the-two-witnesses/index.html).
+
+
+
+People become Christians when they understand that they are sinners or are in a difficult situation. Again, so wrong.We should never guilt trip anybody, this is manipulation or working with fear — [not something you want to be associated with](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html).When people are having a hard time in life they may [turn to anything](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html) or [suffer in anger](../../../content/bowls/expl/the-bowls-of-wrath/index.html). If there is [no plausible alternative](../../../content/scroll/expl/the-little-scroll/index.html) (your testimony), there is no way they will become Christians. And again, please don’t tell them that all problems will disappear if they become Christians. This is a lie!
+
+
+
+Jesus came to earth and died on the cross, so that my sins would be forgiven and I could go to heaven. This is not technically wrong, but it is less than half the truth. Let’s take it step by step.Yes, your sins are forgiven whatever they are and [will be forgiven again even for the same thing](https://www.bibleserver.com/NIV/Matthew18%3A21-22). But this also implies that [you forgive if others do wrong to you](https://www.bibleserver.com/NIV/Matthew18%3A23-35). It also [implies reconciliation](https://www.bibleserver.com/NIV/Matthew5%3A23-24) so that we repair what we have destroyed by our sin.Jesus came to earth to show us how to live [and we should follow his example as disciples](https://www.bibleserver.com/NIV/Matthew28%3A19-20). But what does it mean: Nothing less than to be like Jesus, your teacher. This is a [high ambition](https://www.bibleserver.com/NIV/Matthew5) but [seriously requested](https://www.bibleserver.com/NIV/1%20John2%3A3-11). If we don’t love, we miss the Gospel. And love, [in the context of the Bible, is not an emotion, but an intention](https://www.bibleserver.com/NIV/1%20Corinthians13%3A4-8) with [practical impact](https://www.bibleserver.com/NIV/James2%3A14-19).This is a lifelong journey and a growth in relationship with God, not a method to avoid bad behavior. Remember, everything that stops growing dies.The intention to change and the willingness to be changed is a prerequisite for us to go to heaven, because that means a relationship with Jesus, and in every relationship you have to adapt to your counterpart in the relationship.So Jesus did not die so that we can go to heaven, but so that we can change to a life in a relationship with Jesus for the long term.
+
+
+
+There are things that can separate me from Jesus. Don’t worry.You may think from this passage that there is [no way to come back to Christ after you went away from him](https://www.bibleserver.com/NIV/Hebrews6%3A4-6). It talks about a conscience step away with no intention of going back, and an instruction to others to not spend effort to bring them back to repentance. Well, [Peter denied Christ](https://www.bibleserver.com/NIV/Luke22%3A54-62) and came back to him, but [Jesus had to have a talk to him](https://www.bibleserver.com/NIV/John21%3A15-19).But what if I do [the sin against the Holy Spirit](https://www.bibleserver.com/NIV/Matthew12%3A31-32). Well, let’s take a closer look. First of all, the task of the Holy Spirit is to [convince us of sin](https://www.bibleserver.com/NIV/John16%3A7-8) so that we confess it. When we [confess it, whatever it is, we will be forgiven](https://www.bibleserver.com/NIV/1%20John1%3A8-9). So what is the sin against the Holy Spirit? It is when we deny Him to show us and convict us of our sins, as the Pharisees did by denying that He comes from God.Putting it in practiceHave margin. Don’t fill your days with work or entertainment, but leave space to do nothing. Where you can feel yourself and let things flow.Come to a place of full acceptance. God loves you and cares for you. He does not intend to rob you of joy or fulfillment, but He may delay it to deepen it.Begin to explore. Get a different perspective. Don’t get stuck in your bubble thinking this is the only thing. A wise man said: “Life is like a good dog and a bad dog fighting. The one that wins is the one you feed the best”.Be aware of what you are exposed to and see what it does to you. Does it create fear, greed, superiority? Meditate on these things and be honest about them.Ask God what is currently to be worked on. Be suspicious if it is something different every day, it should be something you can work on continuously.Dive into it by putting it into action. It could be a discipline that does not directly affect your behavior, such as fasting, solitude, …Never neglect fellowship because we are better together.If the church would grow like this and everyone would have the courage and priority to follow this, the world would look very different.
+
+
+[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/church/appl/what-is-wrong-with-the-church.md)

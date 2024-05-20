@@ -1,0 +1,62 @@
+---
+title: "Vahiy Okuması: Büyük Sıkıntı ve Kıyamet"
+---
+
+
+Bazı insanlar Büyük Sıkıntı ve Kıyameti Kutsal Kitap’ın temel öğretilerinden biri olarak görürken, bazıları da bunları tamamen inkâr etmektedir. Gerçek nedir?
+
+
+## Fikir
+
+<a name="5d45"></a>
+Kıyamet fikri şu düşünceden kaynaklanmaktadır: İsa geri gelmeden kısa bir süre önce, yoğun bir zulüm dönemi ve aynı zamanda hiç kimsenin dayanamayacağı dramatik felaketler yaşanacaktır.
+
+Bu zaman Büyük Sıkıntı olarak adlandırılır ve 3,5 yılın iki katı kadar sürer, ikincisi ise daha da kötüdür.
+
+Bu nedenle Tanrı tüm bunlar olmadan önce kiliseyi yeniden diriltecek ve kilise buna katlanmak zorunda kalmayacaktır. Bu birçok Hıristiyan için büyük bir umuttur.
+
+Daha derin bir anlayışa sahip olabilmek için bu Büyük Sıkıntı’ya daha yakından bakmamız gerekmektedir.
+
+
+## Büyük Sıkıntı
+
+<a name="fd59"></a>
+Bu konunun ne kadar çok internet ya da kamu literatürünün bir parçası olduğunu gördüğünüzde, bu konunun Kutsal Kitap’ın her yerinde olduğunu düşünebilirsiniz ama aslında öyle değildir. Bu terimden [Vahiy’in 7. bölümünde daha fazla açıklama yapılmadan bahsedilir](https://www.bibleserver.com/TR/Vahiy7%3A14).
+
+Ama aslında bazı bağlamlar vardır. Eski Ahit’te Tanrılar, Tanrı’yla yapılan antlaşmayı ihlal ettiklerinde, örneğin yoksulları sömürdüklerinde ya da başka Tanrıların peşinden gittiklerinde acı çekmek zorundaydılar ve Tanrı’ya itaat ettiklerinde kutsanıyorlardı (elbette bazı istisnalar vardı).
+
+Fakat İsa geldiğinde bu durum dramatik bir şekilde değişti. Artık Hıristiyanlar sadece İsa’ya inandıkları için acı çekiyorlardı. [Vahiy bize bunun nedenini açıklar: İsa çarmıhta öldüğünde, Şeytan cennetteki konumunu kaybetti ve mümkün olduğunca çok yok etmeye çalıştı. Artık kaybedecek hiçbir şeyi yoktu.](https://www.bibleserver.com/TR/Vahiy12%3A1-12) Vahiy kitabının yazıldığı dönemde, en büyük sıkıntılar (Roma imparatorluğunda) hala devam ediyordu.
+
+“Büyük Sıkıntı” ile kastedilen muhtemelen budur. Bu, günümüzde batı dünyasındaki Hıristiyanlar için bir deneyim olmayan, ancak dünyanın birçok yerinde yaşanmış ve yaşanmakta olan günlük bir gerçekliktir.
+
+
+## Yeniden anlatılan hikaye
+
+<a name="6818"></a>
+Peki Büyük Sıkıntı gelmiyorsa, Kıyamet ne olacak? Kutsal Kitap’ta Kıyamet’ten bahsedilmediği gibi, Kıyamet’le ilgili tartışmaların da sağlam bir temeli yoktur. Bu konuda öğretiş veren tek bir bölüm yoktur, sadece Kıyamet’e göre yorumlanan bazı ayetler vardır.
+
+İşte gerçek hikaye: İsa yeryüzüne ilk kez geldiğinde sıkıntı başladı ve kilise sadece buna katlanmakla kalmadı, aynı zamanda kilisenin Tanrı’nın planını nasıl izlediğini de gösterdi. İsa tekrar geri gelip yeni bir gök ve yeni bir yer kurana kadar bu durum değişmeyecektir.
+
+Önümüzdeki bölümlerde bunun ne anlama geldiğini çok göreceğiz. Ve orada epeyce sürpriz olacak.
+
+Hıristiyanların umudu, sıkıntılarımızdan kurtulmamız değil, sıkıntılarımızın bu dünyada bir fark yaratması olmalıdır.
+
+
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+
+## Daha derine inmek
+
+<a name="113f"></a>
+- [İsa’nın hikayesi](../../../content/jesus/expl/a-different-christmas-story/index.html)
+- [Büyük Sıkıntı](../../../content/army/expl/the-end-time-and-the-great-tribulation/index.html)
+- [Kıyamet](../../../topics/others/expl/the-rapture/index.html)
+
+
+
+
+
+
+
+[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture.tr.md)

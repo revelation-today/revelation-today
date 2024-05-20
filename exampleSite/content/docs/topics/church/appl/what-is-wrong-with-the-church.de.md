@@ -1,0 +1,150 @@
+---
+title: "Was ist das Problem der Gemeinde?"
+---
+
+
+Die Gemeinde soll ein Segen für die Welt sein und ein Leben führen, das auch für Nicht-Gläubige attraktiv ist. Aber nach einer langen Geschichte von Kreuzzügen, Inquisition, Missbrauch und Heuchelei fragst du dich vielleicht, was schief gelaufen ist. Lass uns einen Blick darauf werfen.
+
+
+## Das Problem der Menschheit
+
+<a name="ca59"></a>
+Auf einem tieferen Level sind wir relativ einfach: Wir folgen der [Maslows Pyramide](https://de.wikipedia.org/wiki/Maslowsche_Bed%C3%BCrfnishierarchie). Wir geben nichts, wenn wir nichts dafür bekommen. Sogar selbstlose Taten machen wir meist nur für ein gutes Gewissen oder soziale Anerkennung oder für etwas größeres, das der Tat Bedeutung gibt. Das wird auch in der Bibel reflektiert.
+
+Die Bibel beschreibt[ Mann und Frau (Adam und Eva) waren im Bild Gottes modelliert](https://www.bibleserver.com/SLT/1.Mose1%2C27), was heißt, sie waren seine Stellvertreter. Sie hatten alle Freiheit und Erfüllung, die man sich denken konnte, aber sie haben in dem [wichtigsten Aspekt versagt: Gottes Gabe an sie bekam wichtiger als der Geber, mit anderen Worten wählte der Mann die Frau, die Gott ihm gab anstelle Gott und gehorchte ihrem Wort](../../../bible/creation/expl/the-creation/index.html).
+
+Sie verloren die Beziehung zu Gott und mussten auf sich selbst gestellt [weitermachen](https://www.bibleserver.com/SLT/1.Mose4), was geprägt war durch Neid, Mord und fehlendem Respekt vor dem Leben anderer.
+
+Alle bösen Menschen zu vernichten (außer Noah) hatten keinen Effekt, da Noahs Familie selbst Teil des Probleme wurde und [Noah seinen Enkel Kanaan verflucht hat](https://www.bibleserver.com/SLT/1.Mose9%2C18-27). Später haben Kolonialisten diese Stelle (völlig falsch) benutzt, um den Sklavenhanel zu begründen.
+
+Die Reise geht weiter und die Menschheit versucht sich einen Namen zu machen, was in [dem Gegenteil resultiert](../../../bible/keyword/expl/the-origin-of-babel/index.html) und Gott macht dafür aus Abraham einen Namen. Er wurde der Stammvater von Israel. Gott machte einen Bund mit Israel mit dem Gedanken, dass sie ein gutes Vorbild für die Völker um sie herum sind und sie damit inspirieren, auch Teil des Bundes mit Gott zu werden. Doch Israel war schlimmer als die Völker um sie herum und Gott sendete sie ins Exil und damit schließt der erste Teil der Bibel, das Alte Testament, ab.
+
+Was ist dann das eigentliche Problem? Es ist, was am Anfang erklärt wurde: Die Gabe mehr als den Geber lieben. Es ist eine Form von Gier kombiniert mit Angst, zu kurz zu kommen (Versorgung, Anerkennung, Sicherheit, Angst ausgeschlossen zu sein oder etwa zu verpassen, …). Deshalb missbrauchen wir Menschen und Beziehungen, um diese Dinge zu bekommen (Geld, Anerkennung, soziale Media Status, ein gutes Gewissen, Sinn im Leben, …).
+
+
+## Das tiefergehende Problem
+
+<a name="0f69"></a>
+Dies sind tiefliegende Themen und das Besuchen einer Gemeinde oder die Teilnahme an einem Programm ändert das nicht einfach so. Denn damit werden oft nur die Symptome angegangen.
+
+Lass uns ein einfaches Beispiel nehmen. Rauchen ist schlecht. Es zerstört die Gesundheit und schränkt die Freiheit ein, da es abhängig macht (sehr vereinfacht, aber der Punkt ist klar). So manche Gemeinden sagen: Höre einfach auf und alles ist gut. Und damit gibt es eine ganze Reihe von Problemen:
+
+- Rauchen mag nicht gut sein, aber es ist vielleicht nicht das größte Problem, denn das eigentliche Problem ist nicht direkt am Verhalten sichtbar.
+- [Die Person, die eine andere anklagt, hat oft selbst ein tieferliegendes Problem](https://www.bibleserver.com/SLT/Matth%C3%A4us7%2C3).
+- Es mag nicht so einfach sein, mit diesem Verhalten aufzuhören (wenn es eine Sucht ist) und es gibt immer die Gefahr eines Rückfalls (ständige Angst)
+- Das Vermeiden von schlechtem Verhalten ist noch kein gutes Verhalten.
+- Rauchen ist vielleicht ein Symptom für ein anderes Problem (keine Alternative, um mit Stress umzugehen, da man immer die Erwartungen anderer erfüllen muss aus Angst vor Ablehnung von Menschen)
+- Selbst wenn das tiefere Problem bekannt ist, ist immer noch sehr viel Mut und Vertrauen nötig, um es anzugehen, und es ist meistens einfacher, jemand/etwas anderes die Schild zu geben (traumatisches Erlebnis, schlechter Einfluss, genetische Gründe, …), was wiederum eine Ausrede gibt, so zu bleiben oder einfach nur überwältigend ist, da es viele dieser Probleme gibt.
+- Unsere eigenen Problem zu überwinden macht uns richtend gegenüber anderen Menschen, die es nicht geschafft habem und damit sind wir wieder beim [Splitter und Balken](https://www.bibleserver.com/SLT/Matth%C3%A4us7%2C3).
+- Jedes System (weltlich oder geistlich) hat einen Filter, was ok und was nicht ok ist. Doch diese Filter sind falsch, manche Dinge, die nicht ok sind, sind in manchen Situationen ok und andersrum.
+
+
+Und Gemeinden bestehen aus Menschen, die mit ihren eigenen Problemen kommen und versuchen, sie in den Griff zu bekommen ohne aufzufallen. Und das hilft auch keinem.
+
+[Das ist ein Kontext, den man nicht mal so eben ändern kann](../../../topics/hero/short/a-real-hero/index.html).
+
+
+## Ein Weg aus dieser Situation
+
+<a name="53a1"></a>
+Jesus beschreibt dies mit dem Problem [des guten und schlechten Baumes](https://www.bibleserver.com/SLT/Matth%C3%A4us7%2C17-18). Wenn man versucht, gute Taten zu machen und es funktioniert nicht, liegt es vielleicht daran, dass im Menschen selbst etwas nicht ok ist. Was ist aber im Menschen?
+
+Das ist ein großes Thema, das ich Dallas Willard überlassen (Links sind leider alle auf englisch). Die Vorträge sind 25 Jahre alt aber immer noch relevant. Er hat sich zu seiner Zeit gefragt, warum Menschen die Gemeinde besuchen, aber ihr Verhalten sich nicht ändert.
+
+<li id="7692">[Dallas Willard — Human Beings as Spiritual Beings](https://www.youtube.com/watch?v=rqib-BIEijM) oder</li>- wenn du etwas lesen willst “[Spiritual Disciplines and the Restoration of the Soul](https://dwillard.org/articles/spiritual-disciplines-spiritual-formation-and-the-restoration-of-the-soul)” oder
+- [Michael Goremans view on the new covenant](https://www.reddit.com/r/cruciformity/comments/st85s5/free_ebook_the_death_of_the_messiah_and_the_birth/)
+
+
+Die Grundaussage ist folgende:
+
+- Gott ist gut und lernen, ihm zu vertrauen, ermöglicht es uns, Dinge anzugehen, die uns binden (“Ich kann nicht ohne …”, “Ich muss haben …”, “Ich muss sein …”, …)
+- Es ist wichtiger in der Beziehung zu Gott zu wachsen, als unser Verhalten zu „reparieren“. Das klingt ein wenig hart, aber bringt uns sonst wieder zum Sündenfall (Gott nutzen, um unser Verhalten zu verbessern – Mittel zum Zweck).
+- Emotionen sind ein schlechter Führer, der Wille ist besser dazu geeignet und gibt uns Optionen, aus denen wir wählen können. Selbst das Denken über verschiedene Optionen kann und ein Stück freisetzen.
+- Disziplinen helfen uns, den Effekt unserer Wahl zu erfahren, was dann wieder unsere Emotionen beeinflusst.
+- Lebe deinen Glauben nicht basierend auf Angst, sondern im Vertrauen auf Gott. Angst leitet oft dazu, dass wir Menschen oder Meinungen unterdrücken, wenn sie unseren Glauben im Frage stellen. Denn eine gute Erschütterung unseres Glaubens ist gut, denn es zeigt, womenswear Fundament nicht gut ist und wir Ausbesserungen vornehmen müssen.
+- Vorsicht mit Scham. Scham sagt, dass etwas mit dir falsch ist. Das ist nicht wahr. Es ist etwas falsch mit deinen Taten und daran kann man arbeiten.
+
+
+
+## Falsche Vorstellungen
+
+<a name="9c2b"></a>
+Viele unsere falschen Taten stammen von einem falschen Denken. Lass uns einige Missverständnisse ausräumen:
+
+Wenn du ein Christ bist, führst du ein besseres Leben. Gott wird dich segnen und immer auf dich achtgeben. Gebet ist der Weg, damit du alles bekommst, was du willst.
+
+Klingt irgendwie vertraut. So haben sich viele belehrt. Klingt nett, ist aber nicht biblisch.
+
+Es gibt einige Beispiele, die diesen Eindruck geben:
+
+- Abraham bekam reich durch Gottes Segen, aber er war [bereit](https://www.bibleserver.com/SLT/1.Mose22), diese [Verheißung auf einen Erben ](https://www.bibleserver.com/SLT/1.Mose17%2C16-21)aufzugeben, was in dieser Kultur etwas gewaltiges ist. Aber die Beziehung zu Gott war ihm wichtiger.
+- Hiob bekam allen Reichtum zurück, nachdem er Gott akzeptiert hat. Nicht wirklich! Er war [zufrieden, als er Gott erkannt hatte](https://www.bibleserver.com/SLT/Hiob42%2C5), aber er [bekam seinen Reichtum zurück, nachdem er seinen Freunden vergeben hatte](https://www.bibleserver.com/SLT/Hiob42%2C6-17).
+- Solomon’s Leben wurde ruiniert dadurch, das er seine [Weisheit genutzt ](https://www.bibleserver.com/SLT/1.K%C3%B6nige3)hatte, um [reich zu werden](https://www.bibleserver.com/SLT/1.K%C3%B6nige10%2C14-29), was [seine Beziehung zu Gott zerstörte](https://www.bibleserver.com/SLT/1.K%C3%B6nige11%2C1-13).
+- [Jesus bat den jungen Mann, alles zu verkaufen, aber das war zu viel für ihn](https://www.bibleserver.com/SLT/Markus10%2C17-23)
+- [Paulus war zufrieden in Reichtum als auch in Armut](https://www.bibleserver.com/SLT/Philipper4%2C11-13)
+
+
+Wenn deine Gebete nicht beantwortet werden, liegt es an dir – vielleicht zu wenig Glauben oder die falsche Technik.
+
+Falsch. Gott ist nicht dein Dienstleister, der dir jeden Wunsch erfüllt.Du wärst auch ein schlechtes Elternteil, wenn du deinem Kind jeden Wunsch erfüllst. Gott ist an einer Beziehung mit uns interessiert und sorgt für uns, aber das ist nicht das wichtigste.
+
+Als Christ muss ich immer nett zu anderen sein. So falsch. Nimm Jesus als Beispiel: Er [hat die religiösen Leiter konfrontiert und sogar beleidigt](https://www.bibleserver.com/SLT/Matth%C3%A4us23%2C13-36), er [war gewalttätig im Tempel](https://www.bibleserver.com/SLT/Johannes2%2C13-16).
+
+Wir sollen auch schwierige Themen ansprechen und nicht versuchen, jedem zu gefallen.
+
+Als Christ mußt du andere in die Gemeinde bringen und sie dazu bringen, auch Christen zu werden. Warum? Damit sie werden wie du? Versuche ein [Zeuge zu sein und ziehe sie dadurch an](../../../content/witnesses/expl/the-two-witnesses/index.html).
+
+Menschen werden Christen, wenn sie verstehen, dass sie Sünder sind oder wenn sie einer schwierigen Situation sind.
+
+Ja, es gibt solche Fälle, aber das geht in die falsche Richtung.
+
+Wir sollten nie mit Schuldgefühle arbeiten, dass ist Manipulation und Arbeit mit Angst — [etwas, womit wir besser nicht assoziiert werden wollen](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html).
+
+Wenn Menschen ein harte Zeit im Leben haben, mag es sein, dass sie zu [allem möglichen gehen](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html) oder im [Ärger leiden](../../../content/bowls/expl/the-bowls-of-wrath/index.html). Wenn es für sie keine [plausible Alternative gibt (dein Zeugnis)](../../../content/witnesses/expl/the-two-witnesses/index.html), dann gibt es keinen Grund für sie Christen zu werden. Und wieder, erzähl nicht, das alle deine Probleme verschwinden, wenn du Christ wirst. Das ist eine Lüge!
+
+Jesus kam auf die Erde und starb für meine Sünde, damit ich in dem Himmel komme.
+
+Das ist nicht wirklich falsch, aber nur die halbe Wahrheit. Schauen wir es uns Schritt für Schritt an.
+
+Ja, deine Sünden sind dir vergeben, was auch immer sie sind und [werden dir immer wieder neu vergebe](https://www.bibleserver.com/SLT/Matth%C3%A4us18%2C21-22)n. Aber das setzt voraus, das du auch [anderen vergibst](https://www.bibleserver.com/SLT/Matth%C3%A4us18%2C23-35) und dass du [wiederherstellst, was du durch deine Sünde zerstört hast](https://www.bibleserver.com/SLT/Matth%C3%A4us5%2C23-24).
+
+Jesus kam auf die Erde, um uns zu zeigen, sie [wir leben sollen und wir sollen seinem Beispiel folgen](https://www.bibleserver.com/SLT/Matth%C3%A4us28%2C19-20). Aber was heißt das: Nicht anderes, als Jesus nachzuahmen. Das ist eine [hohe Anforderung](https://www.bibleserver.com/SLT/Matth%C3%A4us5) und eine [sehr ernsthafte Sache](https://www.bibleserver.com/SLT/1.Johannes2%2C3-11). Wenn wir nicht lieben, haben wir den Kern des Evangeliums verpasst. Und Liebe ist [keine Emotion in der Bibel, sondern eine Absicht ](https://www.bibleserver.com/SLT/1.Korinther13%2C4-8)mit [praktischen Folgen](https://www.bibleserver.com/SLT/Jakobus2%2C14-19).
+
+Das ist eine lebenslange Reise und das Wachsen in die Beziehung mit Gott, keine Methode, um schlechte Gewohnheiten loszuwerden. Denke daran: Alles was nicht wächst, stirbt.
+
+Der Wille zur Veränderung ist die Voraussetzung, um in den Himmel zu kommen, da die Beziehung mit Jesus heißt, dass man sich wie in jede Beziehung auf den anderen einlässt und breit ist, sich zu ändern.
+
+Jesus starb also nicht, damit wir in den Himmel kommen, sondern, das wir uns ändern, damit wir im Himmel eine gute Beziehung zu ihm leben können.
+
+Es gibt Dinge, die mich dauerhaft von Jesus trennen können.
+
+Keine Sorge.
+
+Du denkst wahrscheinlich in dieser [Passage, dass du nicht wieder zu Jesus kommen kannst, wenn du ihn einmal verlassen hast](https://www.bibleserver.com/SLT/Hebr%C3%A4er6%2C4-6). Aber an dieser Stelle geht es um Menschen, die sich bewußt entschieden haben von Jesus zu gehen und die Anweisung ist an die anderen, keine Aufwände verschwenden, diese zur Reue zu bringen. [Petrus hat Jesus verleugnet ](https://www.bibleserver.com/SLT/Lukas22%2C54-62)und kam zurück zu ihm, aber [Jesus musste auch ein paar ernste Worte darauf him mit ihm reden](https://www.bibleserver.com/SLT/Johannes21%2C15-19).
+
+Aber was ist mit der [Sünde gegen den Heiligen Geist](https://www.bibleserver.com/SLT/Matth%C3%A4us12%2C31-32)? Nun, lass uns die Stelle anschauen. Zunähst einmal ist es die [Aufgabe des Heiligen Geistes, uns von Sünde zu überzeugen](https://www.bibleserver.com/SLT/Johannes16%2C7-8), so dass wir sie bekennen. Aber [wenn wir sie bekennen, wird sie uns auch vergeben](https://www.bibleserver.com/SLT/1.Johannes1%2C8-9). Also was ist dann die Sünde gegen den Heiligen Geist? Es ist, wenn wir uns weigern, unsere Sünde zu zeigen, so wie die Pharisäer, die gesagt haben, dass Jesus nicht von Gott kommt.
+
+
+## Es in die Praxis umsetzen
+
+<a name="5b7c"></a>
+Habe Platz in deinem Leben. Packe deine Tage nicht mit Arbeit und Unterhaltung voll, sondern lasse Platz zum Nichtstun. Dann nimm dich einfach nur wahr.
+
+Gehe zu dem Ort der völligen Annahme: Gott liebt dich und er sorgt für dich. Er hat nicht vor, dir Freude und Erfüllung zu rauben, sondern hat manchmal einen Umweg, um erst die Beziehung zu ihn ihm zu vertiefen oder dich reifen zu lassen.
+
+Fange an zu entdecken. Hole dir eine andere Sicht auf die Dinge. Bleib nicht in deiner Blase und denke, dass das alles ist.
+
+Ein weiser Mann hat einmal gesagt: „Das Leben ist wie ein guter und ein böser Hund und die beiden kämpfen. Derjenige, den du besser fütterst ist derjenige, der gewinnt.“ Sei bewusst, was du dich aussetzt und was es mit dir tut (Medien, Personen, …). Erzeugt es Angst, Gier, Überlegenheit, …? Reflektiere darüber und sei ehrlich zu dir.
+
+Frage Gott, woran er gerade an dir arbeitet. Sei misstrauisch, wenn es jeden Tag etwas anderes ist, normalerweise nimmt sich Gott die Zeit, etwas kontinuierlich zu bearbeiten.
+
+Tauche ein, indem du diese Dinge umsetzt. Es kann durch eine Disziplin oder Übung sein wie Fasten, Einsamkeit, … aber gehe es ruhig an. Es ist keine Hilfe, wenn du mit jeden Tag von drei Stunden Gebet anfängst, es aber nach drei Tagen aufgibst.
+
+Vernachlässige Gemeinschaft nicht, denn zusammen geht es besser.
+
+Denke daran: Wenn die Gemeinde so wachsen würde und jeder da die Priorität und den Mut hat, das anzugehen, wäre die Welt ein besserer Ort.
+
+
+
+
+[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/church/appl/what-is-wrong-with-the-church.de.md)
