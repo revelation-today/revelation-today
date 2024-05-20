@@ -1,5 +1,5 @@
 ---
-title: Hextra Theme
+title: Das Buch Offenbarung
 layout: hextra-home
 ---
 
@@ -11,66 +11,71 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Build modern websites&nbsp;<br class="sm:hx-block hx-hidden" />with Markdown and Hugo
+  Das Buch der Offenbarung aus der Bibel&nbsp;<br class="sm:hx-block hx-hidden" />keine beängstigende Sammlung von Katastrophen&nbsp;<br class="sm:hx-block hx-hidden" />sondern ein Leitfaden für kompromisslose Nachfolge
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Fast, batteries-included Hugo theme&nbsp;<br class="sm:hx-block hx-hidden" />for creating beautiful static websites
+  Ein Führer durch dieses faszinierende Buch&nbsp;<br class="sm:hx-block hx-hidden" />mit Übersichten, Anwendungen und detaillierten Erklärungen&nbsp;<br class="sm:hx-block hx-hidden" />basierend auf deiner Geschwindigkeit und deinen Interessen
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Get Started" link="docs" >}}
+{{< hextra/hero-button text="Los geht's" link="story" >}}
 </div>
 
 <div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="Fast and Full-featured"
-    subtitle="Simple and easy to use, yet powerful and feature-rich."
+    title="Einführung"
+    link="gen"
+    subtitle="Ein erster Einblick"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/hextra-doc.webp"
+    image="/images/heart.jpg"
+    source="https://pixabay.com/photos/heart-crown-sweetheart-structure-2943576/"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Markdown is All You Need"
-    subtitle="Compose with just Markdown. Enrich with Shortcode components."
+    title="Etwas Hintergrundinformation"
+    link="background"
+    subtitle="Es ist gut, ein wenig Hintergrundwissen zu haben, bevor es losgeht"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="images/hextra-markdown.webp"
+    image="/images/old-book.jpg"
+    source="https://pixabay.com/photos/old-book-book-daisy-flower-6362421/"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Full Text Search"
-    subtitle="Built-in full text search with FlexSearch, no extra setup required."
+    title="Bibel"
+    link="bible"
+    subtitle="Es gibt einige wichtige Passagen in der Bibel, die wichtig sind, zu verstehen"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/hextra-search.webp"
+    image="/images/bible.jpg"
+    source="https://pixabay.com/photos/bible-open-book-pages-open-bible-1846174/"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Lightweight as a Feather"
-    subtitle="No dependency or Node.js is needed to use Hextra. Powered by Hugo, one of *the fastest* static site generators, building your site in just seconds with a single binary."
+    title="Inhalt des Buches"
+    link="content"
+    subtitle="Hier gehen wir Kapitel für Kapitel durch"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/lamp.jpg"
+    source="https://pixabay.com/photos/lamp-shadow-light-lantern-glow-4942111/"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
-    title="Responsive with Dark Mode Included"
-    subtitle="Looks great on different screen sizes. Built-in dark mode support, with auto-switching based on user's system preference."
-  >}}
-  {{< hextra/feature-card
-    title="Build and Host for Free"
-    subtitle="Build with GitHub Actions, and host for free on GitHub Pages. Alternatively it can be hosted on any static hosting service."
-  >}}
-  {{< hextra/feature-card
-    title="Multi-Language Made Easy"
-    subtitle="Create multi-language pages by just adding locales suffix to the Markdown file. Adding i18n support to your site is intuitive."
-  >}}
-  {{< hextra/feature-card
-    title="And Much More..."
-    icon="sparkles"
-    subtitle="Syntax highlighting / Table of contents / SEO / RSS / LaTeX / Mermaid / Customizable / and more..."
+    title="Übergreifende Themene"
+    link="topics"
+    subtitle="Es gibt ein paar übergreifende Themen, die wir uns anschauen"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/arc.jpg"
+    source="https://pixabay.com/photos/arc-beach-sunset-brown-beach-642360/"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
