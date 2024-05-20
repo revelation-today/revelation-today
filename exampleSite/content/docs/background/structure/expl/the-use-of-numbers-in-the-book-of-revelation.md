@@ -104,8 +104,9 @@ A.Y. Collins argues that the numbers 4, 7, and 12 are a cosmic order in apocalyp
 
 <a name="6395"></a>
 There is another aspect which shows the arithmetic beauty of the usage of numbers
-<figure>
-</figure>
+
+![](/images/Numbers_en.jpg)
+
 This picture illustrates [triangular](https://en.wikipedia.org/wiki/Triangular_number), [square](https://elementarymath.edc.org/resources/square-number/) and [rectangular](https://www.geeksforgeeks.org/rectangular-numbers/) numbers and the very rare [square triangular](https://en.wikipedia.org/wiki/Square_triangular_number) numbers.
 
 Lets take a few observations:
@@ -129,11 +130,13 @@ But the next smallest (and maybe the only other one that was known at Johns time
 
 
 The reality is that Gods kingdom is far above Satan’s kingdom which is a massive parody. Lets take the equivalent of the 666 (based on the 1225) which is 750.925. Lets assume this to be a 2 m tall person, than Satan’s strength would be compared to a less than 2 mm tall insect!
-<figure>
-</figure>
+
+![](/images/Numbers2_en1.jpg)
+
 But we often see the distorted reality, where Satan is always a bit stronger.
-<figure>
-</figure>
+
+![](/images/Numbers2_en2.jpg)
+
 
 ## Further digging
 

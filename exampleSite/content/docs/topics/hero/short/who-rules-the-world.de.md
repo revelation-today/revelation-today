@@ -32,9 +32,10 @@ Aber das was nicht der Fall, als Jesus kam. Er hat in [Markus](https://www.bible
 Aber die [Kraft des kommenden Zeitalters ist schon da](https://www.bibleserver.com/SLT/Hebr%C3%A4er6%2C5), [verfügbar im Heiligen Geist](https://www.bibleserver.com/SLT/2.Korinther1%2C22) und [erfahrbar im Leben mit dem Heiligen Geist](https://www.bibleserver.com/SLT/R%C3%B6mer8%2C14-39). Das [kommende Reich ist verborgen und macht uns erbärmlich aussehen](https://www.bibleserver.com/SLT/2.Korinther4%2C3-18).
 
 Wir können es uns das wie in diesem Bild vorstellen.
-<figure>
-</figure>
-Es gibt zwei parallele Reiche zwischen dem ersten und dem zweiten Kommen Jesu. Sie existieren nebeneinander. Das Reich Gottes ist schon da, aber noch nicht in seiner Fülle. Man kann es ausdrücken als „schon, aber noch nicht”.Eine Überbewertung des “schon” führt zu
+
+![](/images/era_de.jpg)
+
+Es gibt zwei parallele Reiche zwischen dem ersten und dem zweiten Kommen Jesu. Sie existieren nebeneinander. Das Reich Gottes ist schon da, aber noch nicht in seiner Fülle. Man kann es ausdrücken als „schon, aber noch nicht”. Eine Überbewertung des “schon” führt zu
 
 - Ablehnung von Medizin, Seelsorge, Vergangenheitsbewältigung, …
 - darauf zu bestehen, dass jeder gesund und wohlhabend wird, wenn er nur genug glaubt und verkündet

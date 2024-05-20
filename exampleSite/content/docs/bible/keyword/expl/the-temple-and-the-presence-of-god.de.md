@@ -6,8 +6,6 @@ title: "Der Tempel und die Gegenwart Gottes"
 Wenn wir das Thema Tempel in der Bibel betrachten, denken wir vielleicht, dass es mit Salomo (oder der Stiftshütte des Mose) begann und mit der Zerstörung durch die Römer im Jahre 70 v. Chr. oder bereits durch die Babylonier im Jahre 587 v. Chr. endete.
 
 Das Thema taucht aber schon in der Schöpfungsgeschichte auf und reicht bis in die Offenbarung.
-<figure>
-<figcaption>Foto von [Arno Smit](https://unsplash.com/@_entreprenerd?utm_source=medium&amp;utm_medium=referral) auf [Unsplash](https://unsplash.com/?utm_source=medium&amp;utm_medium=referral)</figcaption></figure>
 
 ## Der Garten Eden als Ort der Gemeinschaft mit Gott
 
@@ -23,8 +21,7 @@ Es war hart für Kain, aber Gott entschloss sich, [ein Zeichen zu machen und ihn
 Adam hat einen weiteren Sohn und [von da an suchen die Menschen wieder die Gemeinschaft mit Gott](https://www.bibleserver.com/SLT/1.Mose4%2C25-26). Aber die [Stadt ist immer noch ein wichtiges Element](https://www.bibleserver.com/SLT/1.Mose10%2C8-12), was in dem [Desaster von Babel endete](https://www.bibleserver.com/SLT/1.Mose11%2C1-9).
 
 Die Menschen wollten einen Namen für sich machen, aber [Gott erwählte Abraham und machte aus ihm einen Namen](https://www.bibleserver.com/SLT/1.Mose12%2C1-3), aus dem später Israel hervorging.
-<figure>
-<figcaption>Quelle: [https://en.wikipedia.org/wiki/Second_Temple#/media/File:Second_Temple.jpg](https://en.wikipedia.org/wiki/Second_Temple#/media/File:Second_Temple.jpg)</figcaption></figure>
+
 
 ## Gott kommt in die Stadt
 

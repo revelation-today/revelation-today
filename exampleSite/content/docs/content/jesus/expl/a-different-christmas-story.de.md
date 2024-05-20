@@ -14,8 +14,9 @@ Wir haben die Weihnachtsgeschichte so oft gehört, dass wir sie gar nicht mehr r
 “[Und ein großes Zeichen erschien im Himmel: eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füßen, und auf ihrem Haupt eine Krone mit zwölf Sternen. 2 Und sie war schwanger und schrie in Wehen und Schmerzen der Geburt. 3 Und es erschien ein anderes Zeichen im Himmel: siehe, ein großer, feuerroter Drache, der hatte sieben Köpfe und zehn Hörner und auf seinen Köpfen sieben Kronen; 4 und sein Schwanz zog den dritten Teil der Sterne des Himmels nach sich und warf sie auf die Erde. Und der Drache stand vor der Frau, die gebären sollte, um ihr Kind zu verschlingen, wenn sie geboren hätte. 5 Und sie gebar einen Sohn, einen männlichen, der alle Heidenvölker mit eisernem Stab weiden wird; und ihr Kind wurde entrückt zu Gott und seinem Thron.](https://www.bibleserver.com/SLT/Offenbarung12%2C1-5)”
 
 Auf den ersten Blick denkst du wahrscheinlich eher an so etwas:
-<figure>
-<figcaption>Quelle: [https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg](https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg)</figcaption></figure>
+
+{{< figure src="/images/Dragon-and-woman-revelation-luther-bibel.jpg" title="Src: https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" >}}
+
 Diese Geschichte ist so voll von geheimnisvollen Figuren, dass es zunächst verwirrend ist. Aber lassen wir die Geschichte auf uns wirken.
 
 Wir haben eine Frau, die trotz ihrer himmlischen Attribute vor allem eines ist: schwanger und im Begriff zu gebären. Und, um das Offensichtliche zu sagen, unfähig zu kämpfen.

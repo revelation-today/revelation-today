@@ -34,8 +34,9 @@ Aber Philadelphia ist ohne Tadel. Allerdings nicht die Gemeinde, der man beitret
 Bleibt noch Laodizea, das als einziges von Jesus gelobt wird, obwohl die Gemeinde von sich selbst sehr beeindruckt ist.
 
 Aber Jesus gibt sie nicht auf, er gibt ihnen individuelle Ratschläge, Warnungen und Verheißungen.
-<figure>
-<figcaption>Quelle: [https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg](https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg)</figcaption></figure>
+
+{{< figure src="/images/Churches_de.jpg" title="Src: https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" >}}
+
 
 ### Hilfe naht ([Chapter 4–5](https://www.bibleserver.com/SLT/Offenbarung4))
 

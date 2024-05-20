@@ -130,8 +130,9 @@ The intention is to force everyone to choose a side — there is no neutral grou
 Symbolic language is used to make the (dual) reality clearer and is not meant to describe the future reality but to give a spiritual insight.
 
 The closest comparison to an apocalypse might be a political cartoon.
-<figure>
-<figcaption>Source: [https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon?fsrc=scn%2Ffb%2Fte%2Fbl%2Fed%2Fkalscartoontheworldthisweek&amp;fbclid=IwAR1-xYyFLYX5_gJXnkkBJFznyI4YZoJt3yW0atnutHga09wkXESkbCP6xVQ](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon?fsrc=scn%2Ffb%2Fte%2Fbl%2Fed%2Fkalscartoontheworldthisweek&amp;fbclid=IwAR1-xYyFLYX5_gJXnkkBJFznyI4YZoJt3yW0atnutHga09wkXESkbCP6xVQ)</figcaption></figure>
+
+{{< figure src="/images/20200620_WWD000.avif" title="Src: https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" >}}
+
 When we see this picture, we get the message without assuming that dragons are doing yoga or that they even exist.When we look at the book of Revelation, we see these elements.
 
 - There is clearly an evil ruler (again, people of God), but a better time is coming with the new creation in chapter 21.

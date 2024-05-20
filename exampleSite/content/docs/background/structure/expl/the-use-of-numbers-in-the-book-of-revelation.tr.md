@@ -102,8 +102,9 @@ Bazı isim sayıları tesadüfi olsa bile, sıklık burada da sayılar üzerinde
 
 <a name="bc16"></a>
 Sayıların kullanımının aritmetik güzelliğini gösteren bir başka husus daha vardır
-<figure>
-</figure>
+
+![](/images/Numbers_tr.jpg)
+
 Bu resim [üçgen](https://bilimgenc.tubitak.gov.tr/makale/ucgensel-sayi-nedir), [kare](https://tr.wikipedia.org/wiki/Tam_kare) ve [dikdörtgen](http://aymematematikailesi.blogspot.com/2017/09/dikdortgensel-sayilar.html) sayıları ve çok nadir görülen kare üçgen sayıları göstermektedir.
 
 Birkaç gözlem yapalım:
@@ -127,11 +128,12 @@ Ancak bir sonraki en küçük (ve belki de Johns zamanında bilinen tek diğer) 
 
 
 Gerçek şu ki, Tanrı’nın krallığı Şeytan’ın devasa bir parodi olan krallığından çok daha üstündür. 666'nın (1225'e göre) 750.925 olan eşdeğerini ele alalım. Bunun 2 m boyunda bir insan olduğunu varsayalım, Şeytan’ın gücü 2 mm’den daha kısa bir böcekle kıyaslanacaktır!
-<figure>
-</figure>
+
+![](/images/Numbers2_tr1.jpg)
+
 Ancak biz genellikle Şeytan’ın her zaman biraz daha güçlü olduğu çarpıtılmış gerçekliği görürüz.
-<figure>
-</figure>
+
+![](/images/Numbers2_tr2.jpg)
 
 ## Daha fazla kazma
 

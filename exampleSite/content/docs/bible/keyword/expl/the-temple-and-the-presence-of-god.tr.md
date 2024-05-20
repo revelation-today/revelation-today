@@ -6,8 +6,6 @@ title: "“Tapınak” ve Tanrı’nın varlığı"
 Kutsal Kitap’ta tapınak konusuna baktığımızda, bunun Salomon’la (ya da Buluşma Çadırı’nı düşünürsek Mose’yle) başladığını ve MS 70 yılında Romalılar tarafından yıkılmasıyla, hatta MÖ 587'de Babil’e sürülmesiyle sona erdiğini düşünürüz.
 
 Ancak hikaye Yaratılış’ta başlar ve Vahiy kitabına kadar uzanır ve çok daha geniştir.
-<figure>
-<figcaption>Photo by [Arno Smit](https://unsplash.com/@_entreprenerd?utm_source=medium&amp;utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&amp;utm_medium=referral)</figcaption></figure>
 
 ## Tanrı ile paydaşlık yeri olarak Aden bahçesi
 
@@ -21,8 +19,7 @@ Bu ona çok zor geldi ve Tanrı merhamet ederek [onu korumak için bir işaret y
 
 <a name="ca70"></a>
 Adem’in yeni bir oğlu olur ve [bu andan itibaren insanlar Tanrı ile bağlantı kurmaya başlar](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F4%3A25-26). [Ancak şehir hala önemli bir özellikti](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F10%3A8-12) ve [Babil kulesinde felaketle](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F11%3A1-9) sonuçlandı. Bu insanlar kendilerine bir isim yapmak istediler, ancak [Tanrı sonunda İsrail’in geldiği İbrahim’den bir isim yapmaya karar verdi](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F12%3A1-3).
-<figure>
-<figcaption>Kaynak: [https://en.wikipedia.org/wiki/Second_Temple#/media/File:Second_Temple.jpg](https://en.wikipedia.org/wiki/Second_Temple#/media/File:Second_Temple.jpg)</figcaption></figure>
+
 
 ## God comes to the town
 

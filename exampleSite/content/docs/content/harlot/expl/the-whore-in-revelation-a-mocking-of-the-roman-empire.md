@@ -10,8 +10,9 @@ The story of the harlot Babel in the book of Revelation in the Bible is one of t
 
 <a name="55d4"></a>
 Let us take a look at a popular coin that was available around this time.
-<figure>
-<figcaption>[https://www.britishmuseum.org/collection/object/C_1872-0709-477](https://www.britishmuseum.org/collection/object/C_1872-0709-477)</figcaption></figure>
+
+{{< figure src="/images/coin.png" title="Src: https://www.britishmuseum.org/collection/object/C_1872-0709-477" >}}
+
 On the obverse you can see Emperor Vespasian (reigned from 69 to 79) and the inscription “Imp Ceasar Vespasianus Aug PM TP PP COS III” which means “Emperor Ceasar Vespasian Augustus Pontifex Maximus (Greatest Priest), Tribunicia Potestas (Tribunal Power), Pater Patriae (Father of the Fatherland), Consul for the third time” which is a praise of the power and achievement of the emperor.
 
 On the reverse side is the goddess Roma in military dress, sitting on the seven hills of Rome. She has a small sword on her knee, symbolizing the military power of Rome. To the left and right of her is SC (Senatus Consultum = by decree of the Senate).

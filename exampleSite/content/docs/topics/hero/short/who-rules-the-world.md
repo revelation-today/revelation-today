@@ -32,8 +32,9 @@ But this did not happen when Jesus came. He made more statements about the prese
 But the [power of the coming age is already available](https://www.bibleserver.com/NIV/Hebrews6%3A5), identified by the [giving of the Holy Spirit](https://www.bibleserver.com/NIV/2%20Corinthians1%3A22) and [working out by living in the Holy Spirit](https://www.bibleserver.com/NIV/Romans8%3A14-39). This [coming age is hidden, making its owner and us miserable](https://www.bibleserver.com/NIV/2%20Corinthians4%3A3-18).
 
 We can look at it in the following way.
-<figure>
-</figure>
+
+![](/images/era_en.jpg)
+
 There are two parallel realms between the first and second coming of Jesus. They coexist. God’s kingdom is there, but not fully.
 
 Overemphasizing the “already” of the coming leads to

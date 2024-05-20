@@ -14,8 +14,9 @@ Bu hikâye Noel’in belli bir yönünü gösteriyor ve biz bu hikâyeyi o kadar
 [Gökte olağanüstü bir belirti, güneşe sarınmış bir kadın göründü. Ay ayaklarının altındaydı, başında on iki yıldızdan oluşan bir taç vardı. Kadın gebeydi. Doğum sancıları içinde kıvranıyor, feryat ediyordu. Ardından gökte başka bir belirti göründü: Yedi başlı, on boynuzlu, kızıl renkli büyük bir ejderhaydı bu. Yedi başında yedi taç vardı. Kuyruğuyla gökteki yıldızların üçte birini sürükleyip yeryüzüne attı. Sonra doğum yapmak üzere olan kadının önünde durdu; kadın doğurur doğurmaz ejderha çocuğu yutacaktı. Kadın bir oğul, bütün ulusları demir çomakla güdecek bir erkek çocuk doğurdu. Çocuk hemen alınıp Tanrı’ya, Tanrı’nın tahtına götürüldü.](https://www.bibleserver.com/TR/Vahiy12%3A1-5)
 
 İlk başta bunu şöyle bir şey olarak düşünebilirsiniz
-<figure>
-<figcaption>Kaynak: [https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg](https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg)</figcaption></figure>
+
+{{< figure src="/images/Dragon-and-woman-revelation-luther-bibel.jpg" title="Src: https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" >}}
+
 Bu sahnede birçok gizemli figür var, ancak kimin kim olduğunu anlamaya çalışmadan önce bu sahneyi biraz oturtalım.
 
 Bazı ilahi niteliklere rağmen bir kadın var: hamile ve doğum yapmak üzere. En hafif deyimiyle, büyük bir savaşa hazır durumda değil.

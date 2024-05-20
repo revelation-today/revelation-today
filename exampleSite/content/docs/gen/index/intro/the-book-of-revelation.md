@@ -34,8 +34,9 @@ But Philadelphia is without blame. However, not the church you want to join, bec
 Which leaves us with Laodicea which is the only one that does now receive any kind of praise from Jesus even the church is very impressed by itself.
 
 But Jesus does not give up on them, he gives individual advice, warnings and promises.
-<figure>
-<figcaption>Source: [https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg](https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg)</figcaption></figure>
+
+{{< figure src="/images/Churches_en.jpg" title="Src: https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" >}}
+
 
 ### Guidance is ahead ([Chapter 4–5](https://www.bibleserver.com/NIV/Revelation4))
 

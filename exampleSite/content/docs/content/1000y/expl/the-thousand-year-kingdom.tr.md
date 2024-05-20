@@ -12,8 +12,6 @@ Bin yıllık krallıkla ilgili pek çok tartışma vardır ve bu da pek çok teo
 - Kutsal Kitap’ta 1000 yıllık krallık kavramını bu [tek bir ayet](https://www.bibleserver.com/TR/Vahiy20%3A4) dışında başka nerede görüyoruz?
 - Varsaydığımız 1000 yıl içinde ne tür bir [yönetim](https://www.bibleserver.com/TR/Vahiy20%3A4) olacak?
 
-<figure>
-</figure>
 1000 yıllık krallık, öğeleri doğrusal değil simetrik olarak sıralayan ve chiasm olarak adlandırılan daha büyük bir bağlamın parçasıdır. Yani eski bir konu farklı bir perspektiften tekrarlanabilir.
 
 

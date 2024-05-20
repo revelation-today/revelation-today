@@ -10,8 +10,9 @@ Kutsal Kitap’taki Vahiy Kitabı’nda yer alan fahişe Babil’in hikâyesi en
 
 <a name="cbea"></a>
 Bu dönemde mevcut olan popüler bir madeni paraya göz atalım
-<figure>
-<figcaption>[https://www.britishmuseum.org/collection/object/C_1872-0709-477](https://www.britishmuseum.org/collection/object/C_1872-0709-477)</figcaption></figure>
+
+{{< figure src="/images/coin.png" title="Src: https://www.britishmuseum.org/collection/object/C_1872-0709-477" >}}
+
 Ön sayfada İmparator Vespasianus’u (69–79 yılları arasında hüküm sürmüştür) ve “İmparator Ceasar Vespasianus Aug PM TP PP COS III” yani “İmparator Ceasar Vespasian Augustus Pontifex Maximus (en büyük rahip), Tribunicia Potestas (mahkeme gücü), Pater Patriae (anavatanın babası), üçüncü kez Konsül” yazısını görebilirsiniz ki bu imparatorun gücüne ve başarısına bir övgüdür.
 
 Arka sayfada Roma’nın yedi tepesinde oturan askeri kıyafetli tanrıça Roma’yı görüyorsunuz. Dizinde Roma’nın askeri gücünü simgeleyen küçük bir kılıç vardır. Bunun sağında ve solunda SC (Senatus Consultum = Senato kararı ile) yazmaktadır.

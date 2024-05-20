@@ -106,8 +106,9 @@ A. Y. Collins argumentiert, dass die Zahlen 4, 7 und 12 die kosmische Ordnung in
 
 <a name="f042"></a>
 Es gibt noch einen weiteren Aspekt, der die arithmetische Eleganz bei der Verwendung von Zahlen zeigt
-<figure>
-</figure>
+
+![](/images/Numbers_de.jpg)
+
 Dieses Bild zeigt [Dreieckszahlen](https://adi.dzlm.de/figurierte-zahlen/dreieckszahlen), quadratische Zahlen und [Rechteckszahlen](https://adi.dzlm.de/figurierte-zahlen/rechteckszahlen) sowie die sehr seltenen [Quadrat-Dreieckszahlen](https://de.wikipedia.org/wiki/Dreieckszahl#Quadrat-Dreieckszahlen).
 
 Machen wir ein paar Beobachtungen:
@@ -129,13 +130,14 @@ Aber die nächstkleinere (und vielleicht die einzige andere, die zu Johannes’ 
 - Sie ist die 35. rechteckige Zahl ist 1260 und beschreibt die [Zeit der Aktivitäten der beiden Zeugen](https://www.bibleserver.com/SLT/Offenbarung11%2C3).
 - Sie ist die 49. dreieckige Zahl, während 49 das Quadrat von 7 ist und die Totalität oder Vollständigkeit beschreibt.
 
-
 Die Realität ist, dass das Reich Gottes weit über dem Reich Satans steht, das eine massive Parodie ist. Nehmen wir das Äquivalent der 666 (basierend auf der 1225), das 750.925 beträgt. Nehmen wir an, dies sei eine 2 m große Person, dann wäre Satans Stärke mit der eines weniger als 2 mm großen Insekts zu vergleichen!
-<figure>
-</figure>
+
+![](/images/Numbers2_de1.jpg)
+
 Aber wir sehen oft die verzerrte Realität, in der Satan immer ein bisschen stärker ist.
-<figure>
-</figure>
+
+![](/images/Numbers2_de2.jpg)
+
 
 ## Zur Vertiefung
 

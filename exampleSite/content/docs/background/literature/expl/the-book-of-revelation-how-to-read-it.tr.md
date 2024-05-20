@@ -130,8 +130,9 @@ Amaç herkesin bir taraf seçmeye zorlanmasıdır — tarafsız bir zemin yoktur
 (İkili) gerçekliği daha açık hale getirmesi gereken sembolik bir dil kullanımı vardır ve gelecekteki gerçekliği tanımlamayı değil, ruhani bir içgörü vermeyi amaçlamaktadır.
 
 Kıyamete en yakın benzetme siyasi bir karikatür olabilir
-<figure>
-<figcaption>kaynak: [https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon?fsrc=scn%2Ffb%2Fte%2Fbl%2Fed%2Fkalscartoontheworldthisweek&amp;fbclid=IwAR1-xYyFLYX5_gJXnkkBJFznyI4YZoJt3yW0atnutHga09wkXESkbCP6xVQ](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon?fsrc=scn%2Ffb%2Fte%2Fbl%2Fed%2Fkalscartoontheworldthisweek&amp;fbclid=IwAR1-xYyFLYX5_gJXnkkBJFznyI4YZoJt3yW0atnutHga09wkXESkbCP6xVQ)</figcaption></figure>
+
+{{< figure src="/images/20200620_WWD000.avif" title="Src: https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" >}}
+
 Bu resmi gördüğümüzde, ejderhaların Yoga yaptığını ya da hatta var olduklarını varsaymadan mesajı kavrıyoruz.
 
 Vahiy kitabına baktığımızda bu unsurları görürüz.

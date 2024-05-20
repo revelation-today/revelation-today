@@ -32,8 +32,9 @@ Ancak İsa geldiğinde bu gerçekleşmemiştir. [Markos](https://www.bibleserver
 [Ancak gelecek çağın gücü zaten mevcuttur](https://www.bibleserver.com/TR/%C4%B0braniler6%3A5), [Kutsal Ruh’un verilmesiyle tanımlanmıştır](https://www.bibleserver.com/TR/2.Korintliler1%3A22) ve [Kutsal Ruh’ta yaşayarak işlemektedir](https://www.bibleserver.com/TR/Romal%C4%B1lar8%3A14-38). Bu [gelecek çağ gizlidir, sahibini ve bizi sefil gösterir](https://www.bibleserver.com/TR/2.Korintliler4%3A3-18).
 
 Buna aşağıdaki şekilde bakabiliriz.
-<figure>
-</figure>
+
+![](/images/era_tr.jpg)
+
 İsa’nın birinci ve ikinci gelişi arasında iki paralel âlem vardır. Bunlar bir arada var olurlar. Tanrı’nın krallığı oradadır ama tam olarak değil.
 
 Gelecek olanın “zaten” olduğunun aşırı vurgulanması şu sonuçları doğurur

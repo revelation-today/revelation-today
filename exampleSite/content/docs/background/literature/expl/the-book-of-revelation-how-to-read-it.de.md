@@ -130,8 +130,9 @@ Im Klartext heißt das, jeder muss sich für eine Seite entscheiden, es gibt kei
 Es wird viel Symbolsprache verwendet, um auf die (duale) Realität aufmerksam zu machen und den Unterschied zwischen diesen beiden Realitäten zu verdeutlichen. Es geht nicht so sehr um eine Beschreibung der Zukunft, sondern um ein spirituelles Verständnis der gegenwärtigen Realität, in der Handeln notwendig ist.
 
 Die heute am ehesten vergleichbare literarische Form wäre der politische Cartoon.
-<figure>
-<figcaption>Quelle: [https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon?fsrc=scn%2Ffb%2Fte%2Fbl%2Fed%2Fkalscartoontheworldthisweek&amp;fbclid=IwAR1-xYyFLYX5_gJXnkkBJFznyI4YZoJt3yW0atnutHga09wkXESkbCP6xVQ](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon?fsrc=scn%2Ffb%2Fte%2Fbl%2Fed%2Fkalscartoontheworldthisweek&amp;fbclid=IwAR1-xYyFLYX5_gJXnkkBJFznyI4YZoJt3yW0atnutHga09wkXESkbCP6xVQ)</figcaption></figure>
+
+{{< figure src="/images/20200620_WWD000.avif" title="Src: https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" >}}
+
 Wenn du dieses Bild siehst, wirst du seine Botschaft verstehen, ohne an die Existenz von Drachen zu glauben oder daran, dass sie jemals Yoga praktizieren.
 
 In der Offenbarung haben wir ähnliche Elemente:
