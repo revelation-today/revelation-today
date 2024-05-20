@@ -1,5 +1,6 @@
 ---
 title: "The weapons of the church and the fate of the nations"
+weight: 1
 ---
 
 

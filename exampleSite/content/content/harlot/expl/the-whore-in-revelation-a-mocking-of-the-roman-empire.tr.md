@@ -1,5 +1,6 @@
 ---
 title: "Vahiy’deki fahişe: Roma İmparatorluğu ile alay ediliyor"
+weight: 5
 ---
 
 

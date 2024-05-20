@@ -1,5 +1,6 @@
 ---
 title: "Dört Atlının Gizemi"
+weight: 3
 ---
 
 

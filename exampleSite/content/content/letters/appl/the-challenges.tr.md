@@ -1,5 +1,6 @@
 ---
 title: "Zorluklar"
+weight: 1
 ---
 
 

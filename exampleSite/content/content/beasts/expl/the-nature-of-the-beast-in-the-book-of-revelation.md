@@ -1,5 +1,6 @@
 ---
 title: "The nature of the beast in the book of revelation"
+weight: 5
 ---
 
 

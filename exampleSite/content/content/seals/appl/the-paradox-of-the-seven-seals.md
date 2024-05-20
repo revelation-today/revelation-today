@@ -1,5 +1,6 @@
 ---
 title: "The paradox of the seven seals"
+weight: 1
 ---
 
 

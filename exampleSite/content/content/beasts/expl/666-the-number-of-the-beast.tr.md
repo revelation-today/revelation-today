@@ -1,5 +1,6 @@
 ---
 title: "666: Canavarın numarası"
+weight: 4
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Dua ve sarsılmazlık"
+weight: 1
 ---
 
 

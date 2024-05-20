@@ -1,5 +1,6 @@
 ---
 title: "Der Charakter und das Gericht über die Hure"
+weight: 4
 ---
 
 

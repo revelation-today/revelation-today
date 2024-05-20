@@ -1,5 +1,6 @@
 ---
 title: "Who is the Whore Babel: Part 1"
+weight: 2
 ---
 
 

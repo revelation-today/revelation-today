@@ -1,5 +1,6 @@
 ---
 title: "Die Macht, die die Welt verändert"
+weight: 1
 ---
 
 

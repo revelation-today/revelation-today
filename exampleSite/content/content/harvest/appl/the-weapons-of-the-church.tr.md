@@ -1,5 +1,6 @@
 ---
 title: "Tanrı’nın ordusu ve ulusların kaderi: İşte böyle sona eriyor"
+weight: 1
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Anbetung im Thronsaal Gottes"
+weight: 2
 ---
 
 

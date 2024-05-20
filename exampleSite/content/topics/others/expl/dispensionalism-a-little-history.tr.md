@@ -1,5 +1,6 @@
 ---
-title: "Dispansionalizm — Küçük bir tarihçe"
+title: "Dispansionalizm — Küçük bir tarihçe"
+weight: 1
 ---
 
 

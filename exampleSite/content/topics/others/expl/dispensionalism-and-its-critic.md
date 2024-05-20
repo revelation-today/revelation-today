@@ -1,5 +1,6 @@
 ---
 title: "Dispensionalism and its critic"
+weight: 2
 ---
 
 

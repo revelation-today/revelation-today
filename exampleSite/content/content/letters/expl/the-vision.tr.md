@@ -1,5 +1,6 @@
 ---
 title: "Vizyon"
+weight: 3
 ---
 
 

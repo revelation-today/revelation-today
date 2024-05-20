@@ -1,5 +1,6 @@
 ---
 title: "Cennet ve cehennem ne hakkında?"
+weight: 1
 ---
 
 

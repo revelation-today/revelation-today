@@ -1,5 +1,6 @@
 ---
 title: "Kıyamet"
+weight: 3
 ---
 
 

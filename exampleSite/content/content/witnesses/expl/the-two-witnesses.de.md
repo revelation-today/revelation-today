@@ -1,5 +1,6 @@
 ---
 title: "Die Identität der beiden Zeugen in der Offenbarung"
+weight: 2
 ---
 
 

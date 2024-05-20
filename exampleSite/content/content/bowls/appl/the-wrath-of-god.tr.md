@@ -1,5 +1,6 @@
 ---
 title: "Tanrı’nın gazabı"
+weight: 1
 ---
 
 

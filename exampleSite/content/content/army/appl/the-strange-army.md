@@ -1,5 +1,6 @@
 ---
 title: "The strange army"
+weight: 1
 ---
 
 

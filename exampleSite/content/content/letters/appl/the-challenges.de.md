@@ -1,5 +1,6 @@
 ---
 title: "Die Herausforderung"
+weight: 1
 ---
 
 

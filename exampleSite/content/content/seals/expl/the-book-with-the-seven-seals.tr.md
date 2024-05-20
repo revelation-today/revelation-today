@@ -1,5 +1,6 @@
 ---
 title: "Yedi Mühürlü Kitap"
+weight: 2
 ---
 
 

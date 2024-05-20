@@ -1,5 +1,6 @@
 ---
 title: "Das kleine Büchlein in der Offenbarung"
+weight: 2
 ---
 
 

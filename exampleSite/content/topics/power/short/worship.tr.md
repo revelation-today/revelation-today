@@ -1,5 +1,6 @@
 ---
 title: "İbadet"
+weight: 1
 ---
 
 

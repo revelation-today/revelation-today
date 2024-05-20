@@ -1,5 +1,6 @@
 ---
 title: "Tanrı’nın ordusu ve yedi melek"
+weight: 2
 ---
 
 

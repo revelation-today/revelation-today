@@ -1,5 +1,6 @@
 ---
 title: "1000 yıllık krallık"
+weight: 2
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Kıyametin anahtarı"
+weight: 3
 ---
 
 

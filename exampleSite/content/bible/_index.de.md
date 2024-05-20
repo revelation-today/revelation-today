@@ -1,7 +1,7 @@
 ---
 linkTitle: "Bibel"
 title: "Biblischer Hintergrund"
-weight: 3
+weight: 5
 ---
 
 Welcome to the Book of Revelation!

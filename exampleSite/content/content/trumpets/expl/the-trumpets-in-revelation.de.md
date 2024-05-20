@@ -1,5 +1,6 @@
 ---
 title: "Die sieben Posaunen"
+weight: 2
 ---
 
 

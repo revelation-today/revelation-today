@@ -1,5 +1,6 @@
 ---
 title: "Garip ordu"
+weight: 1
 ---
 
 

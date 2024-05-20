@@ -1,5 +1,6 @@
 ---
 title: "Kritik am Dispensionalismus"
+weight: 2
 ---
 
 

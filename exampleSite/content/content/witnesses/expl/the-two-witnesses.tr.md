@@ -1,5 +1,6 @@
 ---
 title: "İki Tanık"
+weight: 2
 ---
 
 

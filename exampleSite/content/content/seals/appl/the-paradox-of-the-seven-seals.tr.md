@@ -1,5 +1,6 @@
 ---
 title: "Yedi mühür paradoksu"
+weight: 1
 ---
 
 

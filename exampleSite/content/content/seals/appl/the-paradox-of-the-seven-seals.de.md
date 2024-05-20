@@ -1,5 +1,6 @@
 ---
 title: "Das Paradox der sieben Siegel"
+weight: 1
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "1000 yıllık cennet mi?"
+weight: 1
 ---
 
 

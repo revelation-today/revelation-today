@@ -1,5 +1,6 @@
 ---
 title: "Tüm soruların cevabı"
+weight: 1
 ---
 
 

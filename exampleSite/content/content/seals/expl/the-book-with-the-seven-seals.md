@@ -1,5 +1,6 @@
 ---
 title: "The book with the seven seals"
+weight: 2
 ---
 
 

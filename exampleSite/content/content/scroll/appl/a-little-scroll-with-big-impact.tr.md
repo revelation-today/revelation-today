@@ -1,5 +1,6 @@
 ---
 title: "Büyük etkisi olan küçük bir kaydırma"
+weight: 1
 ---
 
 

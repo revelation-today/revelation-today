@@ -1,5 +1,6 @@
 ---
 title: "666: The number of the beast"
+weight: 4
 ---
 
 

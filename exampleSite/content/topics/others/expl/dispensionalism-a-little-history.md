@@ -1,5 +1,6 @@
 ---
-title: "Dispensionalism — A little history"
+title: "Dispensionalism — A little history"
+weight: 1
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "The nature of the beast"
+weight: 2
 ---
 
 

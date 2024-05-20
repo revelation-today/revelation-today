@@ -1,5 +1,6 @@
 ---
 title: "Tarihsel bağlamda canavarlar ve 666"
+weight: 3
 ---
 
 

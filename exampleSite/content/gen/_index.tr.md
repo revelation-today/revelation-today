@@ -1,7 +1,7 @@
 ---
-linkTitle: Genel konular
-title: Genel konular
-weight: 1
+linkTitle: Giriş
+title: Giriş
+weight: 3
 ---
 
 

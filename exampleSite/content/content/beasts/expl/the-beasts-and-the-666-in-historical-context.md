@@ -1,5 +1,6 @@
 ---
 title: "The beasts and the 666 in historical context"
+weight: 3
 ---
 
 

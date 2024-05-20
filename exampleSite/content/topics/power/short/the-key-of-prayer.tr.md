@@ -1,5 +1,6 @@
 ---
 title: "Duanın anahtarı"
+weight: 3
 ---
 
 

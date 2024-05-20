@@ -1,5 +1,6 @@
 ---
 title: "Dispensionalizm ve Eleştirisi"
+weight: 2
 ---
 
 

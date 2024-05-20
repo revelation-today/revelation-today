@@ -1,5 +1,6 @@
 ---
 title: "The angel of the churches"
+weight: 4
 ---
 
 

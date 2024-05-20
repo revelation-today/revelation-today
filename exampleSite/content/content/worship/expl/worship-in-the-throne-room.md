@@ -1,5 +1,6 @@
 ---
 title: "Worship in the throne room"
+weight: 2
 ---
 
 

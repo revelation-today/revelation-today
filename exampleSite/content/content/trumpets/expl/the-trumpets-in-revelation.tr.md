@@ -1,5 +1,6 @@
 ---
 title: "Vahiy’deki trompetler"
+weight: 2
 ---
 
 

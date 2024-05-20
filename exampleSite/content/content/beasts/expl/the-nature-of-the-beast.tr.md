@@ -1,5 +1,6 @@
 ---
 title: "Canavarın doğası"
+weight: 2
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "1000 Jahre Paradies?"
+weight: 1
 ---
 
 

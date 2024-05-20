@@ -1,5 +1,6 @@
 ---
 title: "Tanıklığın gücü"
+weight: 2
 ---
 
 

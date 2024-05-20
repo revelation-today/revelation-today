@@ -1,5 +1,6 @@
 ---
 title: "İsa ve şeytanın düşüşü"
+weight: 1
 ---
 
 

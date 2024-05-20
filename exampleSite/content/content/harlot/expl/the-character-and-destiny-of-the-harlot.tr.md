@@ -1,5 +1,6 @@
 ---
 title: "Fahişenin karakteri ve kaderi"
+weight: 4
 ---
 
 

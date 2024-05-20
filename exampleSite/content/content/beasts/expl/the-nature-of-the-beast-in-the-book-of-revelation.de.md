@@ -1,5 +1,6 @@
 ---
 title: "Die beiden Tiere in der Offenbarung"
+weight: 5
 ---
 
 

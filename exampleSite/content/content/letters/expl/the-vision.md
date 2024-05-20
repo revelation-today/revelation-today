@@ -1,5 +1,6 @@
 ---
 title: "The vision"
+weight: 3
 ---
 
 

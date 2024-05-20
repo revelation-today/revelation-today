@@ -1,5 +1,6 @@
 ---
 title: "Dünyayı değiştiren güç"
+weight: 1
 ---
 
 

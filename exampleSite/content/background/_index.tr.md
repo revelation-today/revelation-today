@@ -1,7 +1,7 @@
 ---
 linkTitle: Arka plan
 title: Arka plan
-weight: 2
+weight: 4
 ---
 
 

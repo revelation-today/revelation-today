@@ -1,5 +1,6 @@
 ---
 title: "Vahiy kitabındaki canavarın doğası"
+weight: 5
 ---
 
 

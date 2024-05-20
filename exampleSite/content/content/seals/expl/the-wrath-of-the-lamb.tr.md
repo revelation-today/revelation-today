@@ -1,5 +1,6 @@
 ---
 title: "Kuzu’nun Gazabı"
+weight: 4
 ---
 
 

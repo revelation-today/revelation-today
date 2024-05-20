@@ -1,7 +1,7 @@
 ---
 linkTitle: "İçerik"
 title: "Kitabın içeriği"
-weight: 4
+weight: 6
 ---
 
 Welcome to the Book of Revelation!

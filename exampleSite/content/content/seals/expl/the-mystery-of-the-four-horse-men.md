@@ -1,5 +1,6 @@
 ---
 title: "The mystery of the four horse men"
+weight: 3
 ---
 
 

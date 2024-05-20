@@ -1,5 +1,6 @@
 ---
 title: "Taht odasında ibadet"
+weight: 2
 ---
 
 

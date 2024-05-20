@@ -1,5 +1,6 @@
 ---
 title: "Die Waffen der Gemeinde und das Schicksal der Nationen"
+weight: 1
 ---
 
 

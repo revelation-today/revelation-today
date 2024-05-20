@@ -1,5 +1,6 @@
 ---
 title: "Temelin oluşturulması"
+weight: 2
 ---
 
 

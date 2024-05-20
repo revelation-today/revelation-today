@@ -1,5 +1,6 @@
 ---
 title: "Die Tiere in der Offenbarung"
+weight: 2
 ---
 
 

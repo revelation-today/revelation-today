@@ -1,5 +1,6 @@
 ---
 title: "Armageddon ve Karkamış Savaşı"
+weight: 4
 ---
 
 

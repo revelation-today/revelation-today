@@ -1,5 +1,6 @@
 ---
 title: "666 im historischen Kontext"
+weight: 3
 ---
 
 

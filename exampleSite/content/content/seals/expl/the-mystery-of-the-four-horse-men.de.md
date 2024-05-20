@@ -1,5 +1,6 @@
 ---
 title: "Das Geheimnis der vier apokalyptischen Reiter"
+weight: 3
 ---
 
 

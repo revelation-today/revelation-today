@@ -1,5 +1,6 @@
 ---
 title: "Ein kleines Buch mit großer Wirkung"
+weight: 1
 ---
 
 

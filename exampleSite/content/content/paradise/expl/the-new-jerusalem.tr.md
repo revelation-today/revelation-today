@@ -1,5 +1,6 @@
 ---
 title: "Yeni Kudüs"
+weight: 2
 ---
 
 

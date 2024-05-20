@@ -1,5 +1,6 @@
 ---
 title: "Die sonderbare Armee"
+weight: 1
 ---
 
 

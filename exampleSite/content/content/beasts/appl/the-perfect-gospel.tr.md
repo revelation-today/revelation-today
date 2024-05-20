@@ -1,5 +1,6 @@
 ---
 title: "Mükemmel “müjde”"
+weight: 1
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Farklı bir Noel hikayesi"
+weight: 2
 ---
 
 

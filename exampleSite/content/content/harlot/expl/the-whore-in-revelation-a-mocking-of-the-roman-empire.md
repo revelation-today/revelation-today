@@ -1,5 +1,6 @@
 ---
 title: "The whore in Revelation: A mocking of the Roman Empire"
+weight: 5
 ---
 
 

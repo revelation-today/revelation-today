@@ -1,5 +1,6 @@
 ---
 title: "Ein Buch mit sieben Siegeln"
+weight: 2
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Son zaman ve büyük sıkıntı"
+weight: 3
 ---
 
 

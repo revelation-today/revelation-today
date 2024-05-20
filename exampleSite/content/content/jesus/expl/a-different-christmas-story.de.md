@@ -1,5 +1,6 @@
 ---
 title: "Die Geburt Jesu in der Offenbarung"
+weight: 2
 ---
 
 
