@@ -49,7 +49,11 @@ Wir können uns schwach und hilflos fühlen (und diese Gefühle sind in Ordnung,
 ### Reflektion
 
 <a name="c450"></a>
-<li id="3815">Kannst du dir einen Moment Zeit nehmen und diese Geschichte auf dich wirken lassen? Versuche, sie dir vorzustellen. Fühle mit allen Personen mit.</li><li id="3b99">Kennst du ähnliche Geschichten aus der Bibel, in denen die Schwachen siegen?</li><li id="d3c4">Was bedeutet es für dich, wenn du siehst, wie Satan aus dem Himmel geworfen wird, aber so viel Unheil wie möglich anrichtet, weil er so wenig Zeit hat? Wie beeinflusst das dein Leben als Christ?</li><li id="65bb">Kannst du Satan als den ständigen Verlierer in der Welt um dich herum sehen?</li>
+- Kannst du dir einen Moment Zeit nehmen und diese Geschichte auf dich wirken lassen? Versuche, sie dir vorzustellen. Fühle mit allen Personen mit.
+- Kennst du ähnliche Geschichten aus der Bibel, in denen die Schwachen siegen?
+- Was bedeutet es für dich, wenn du siehst, wie Satan aus dem Himmel geworfen wird, aber so viel Unheil wie möglich anrichtet, weil er so wenig Zeit hat? Wie beeinflusst das dein Leben als Christ?
+- Kannst du Satan als den ständigen Verlierer in der Welt um dich herum sehen?
+
 
 
 
@@ -59,14 +63,14 @@ Wir können uns schwach und hilflos fühlen (und diese Gefühle sind in Ordnung,
 ## Zur Vertiefung
 
 <a name="cde3"></a>
-- [Überblick über das Buch Daniel](../../../bible/daniel/expl/the-book-of-daniel/index.html)
-- [Die vier Königreiche bei Daniel](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html)
-- [Die 70 Jahrwochen](../../../bible/daniel/expl/the-70-year-weeks/index.html)
-- [Die 3,5 Jahre](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
-- [Weihnachten in der Offenbarung](../../../content/jesus/expl/a-different-christmas-story/index.html)
+- [Überblick über das Buch Daniel](../../../bible/daniel/expl/the-book-of-daniel)
+- [Die vier Königreiche bei Daniel](../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
+- [Die 70 Jahrwochen](../../../bible/daniel/expl/the-70-year-weeks)
+- [Die 3,5 Jahre](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+- [Weihnachten in der Offenbarung](../../../content/jesus/expl/a-different-christmas-story)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/appl/jesus-and-the-fall-of-the-devil.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/appl/jesus-and-the-fall-of-the-devil.de.md)

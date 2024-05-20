@@ -43,7 +43,20 @@ The two witnesses are modeled after Moses (water to blood) and Elijah (no rain, 
 ### Reflection
 
 <a name="06e1"></a>
-<li id="5ae6">Why do you have time with God? What do you expect from it?</li><li id="125b">How much time do you spend with God when it is about you and the people around you? How much time is it? God, do with me what you want, where do you want to send me, how can I glorify you?</li><li id="7490">How do you feel when people mock Jesus? What do you do? How do you respond?</li><li id="31f3">Can you be humble and admit your mistakes as a Christian when the world mocks Jesus and the church? How can you be stronger in such a situation?</li><li id="2aa5">Do you still believe in God’s power and supernatural intervention? Have you seen it make a difference?</li><li id="8d46">Have you experienced healing and restoration that came not through prayer or preaching, but in an unspectacular way?</li><li id="d815">How far would you go for Jesus? What would happen if you were killed for your faith?</li><li id="d3a0">Do you think your witness is complete when you die? What part of the Church depends on you alone?</li><li id="61be">The blood of the martyrs is the seed of the Church. Do you believe this?</li><li id="c094">Can you think of examples where this has happened?</li><li id="45d3">Can you see a parallel between the two witnesses and how the early church functioned?</li><li id="0fe9">What is more important to you than your own life?</li><li id="63f5">Do you believe that the Church has the potential to change the world?</li>
+- Why do you have time with God? What do you expect from it?
+- How much time do you spend with God when it is about you and the people around you? How much time is it? God, do with me what you want, where do you want to send me, how can I glorify you?
+- How do you feel when people mock Jesus? What do you do? How do you respond?
+- Can you be humble and admit your mistakes as a Christian when the world mocks Jesus and the church? How can you be stronger in such a situation?
+- Do you still believe in God’s power and supernatural intervention? Have you seen it make a difference?
+- Have you experienced healing and restoration that came not through prayer or preaching, but in an unspectacular way?
+- How far would you go for Jesus? What would happen if you were killed for your faith?
+- Do you think your witness is complete when you die? What part of the Church depends on you alone?
+- The blood of the martyrs is the seed of the Church. Do you believe this?
+- Can you think of examples where this has happened?
+- Can you see a parallel between the two witnesses and how the early church functioned?
+- What is more important to you than your own life?
+- Do you believe that the Church has the potential to change the world?
+
 
 
 
@@ -53,9 +66,9 @@ The two witnesses are modeled after Moses (water to blood) and Elijah (no rain, 
 ## Digging deeper
 
 <a name="7f53"></a>
-- [The temple](../../../bible/keyword/expl/the-temple-and-the-presence-of-god/index.html)
-- [The power of testimony](../../../topics/power/short/the-power-of-testimony/index.html)
-- [The two witnesses](../../../content/witnesses/expl/the-two-witnesses/index.html)
+- [The temple](../../../bible/keyword/expl/the-temple-and-the-presence-of-god)
+- [The power of testimony](../../../topics/power/short/the-power-of-testimony)
+- [The two witnesses](../../../content/witnesses/expl/the-two-witnesses)
 
 
 
@@ -63,4 +76,4 @@ The two witnesses are modeled after Moses (water to blood) and Elijah (no rain, 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/appl/the-force-that-changes-the-world.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/appl/the-force-that-changes-the-world.md)

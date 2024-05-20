@@ -96,4 +96,4 @@ Tanrı baba olarak, İsa ise diğerleriyle ilgilenen ilk doğan olarak resmedili
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-role-of-family-in-the-bible.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-role-of-family-in-the-bible.tr.md)

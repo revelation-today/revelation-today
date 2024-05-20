@@ -12,9 +12,9 @@ The book of Revelation gives us a very mixed picture of who rules the world. On 
 When Jesus died on the cross, the devil was defeated. So we were told. But it seems that nothing has changed. [You might say it got worse.](https://www.bibleserver.com/NIV/Revelation12%3A12)
 
 - Jesus’ teachings looked like unattainable ideals.
-- Evil empires still rule the world, contrary to [prophecy](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html).
+- Evil empires still rule the world, contrary to [prophecy](../../../bible/daniel/expl/the-four-kingdoms-in-daniel).
 - The world has not become more Christian, but Christians have become more worldly.
-- [The church often doesn’t look like the solution, but rather the problem.](../../../topics/church/appl/what-is-wrong-with-the-church/index.html)
+- [The church often doesn’t look like the solution, but rather the problem.](../../../topics/church/appl/what-is-wrong-with-the-church)
 
 
 So what is going on? Has something gone terribly wrong? Well, we need to take a closer look.
@@ -56,17 +56,17 @@ We must hold the tension.
 ## The working out
 
 <a name="959b"></a>
-This tension is described in the book of Revelation in the parallel account of the description of the [believers as kings](https://www.bibleserver.com/NIV/Revelation1%3A6) and the [ultimate power of the two witnesses](../../../content/witnesses/expl/the-two-witnesses/index.html), while on the other hand [the beasts rule unchallenged and even overcome the church](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html).
+This tension is described in the book of Revelation in the parallel account of the description of the [believers as kings](https://www.bibleserver.com/NIV/Revelation1%3A6) and the [ultimate power of the two witnesses](../../../content/witnesses/expl/the-two-witnesses), while on the other hand [the beasts rule unchallenged and even overcome the church](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
 
 The key element is that they rule differently. The devil and the beasts rule with oppression, while the witnesses rule with their testimony, even to the point of death.
 
 The devil forces people to submit, the witnesses influence people to change their lives deeply.
 
-This is clearly stated in [the 1,000-year kingdom that the Witnesses are the ones who actually rule](../../../content/1000y/expl/the-thousand-year-kingdom/index.html).
+This is clearly stated in [the 1,000-year kingdom that the Witnesses are the ones who actually rule](../../../content/1000y/expl/the-thousand-year-kingdom).
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/who-rules-the-world.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/who-rules-the-world.md)

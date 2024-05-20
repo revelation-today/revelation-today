@@ -45,7 +45,12 @@ He comes with a sword out of His mouth and He judges each one alone (the angels 
 ### Reflection
 
 <a name="72a4"></a>
-<li id="12c4">How would you describe Babel today?</li><li id="9d74">How can the church be different from Babel? What can the church offer that Babel cannot?</li><li id="e7b2">When do you see yourself in Babel? How do you leave it?</li><li id="8b2c">What attitude of today reflects the attitude of the harlot?</li><li id="bb51">What things would you mourn if Babel fell?</li>
+- How would you describe Babel today?
+- How can the church be different from Babel? What can the church offer that Babel cannot?
+- When do you see yourself in Babel? How do you leave it?
+- What attitude of today reflects the attitude of the harlot?
+- What things would you mourn if Babel fell?
+
 
 
 
@@ -55,10 +60,10 @@ He comes with a sword out of His mouth and He judges each one alone (the angels 
 ## Digging deeper
 
 <a name="aa59"></a>
-- [Who is the harlot: Part 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1/index.html)
-- [Who is the harlot: Part 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2/index.html)
-- [The harlot as a mocking of the time](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire/index.html)
-- [The character and destiny of the harlot](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot/index.html)
+- [Who is the harlot: Part 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
+- [Who is the harlot: Part 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
+- [The harlot as a mocking of the time](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire)
+- [The character and destiny of the harlot](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
 
 
@@ -66,4 +71,4 @@ He comes with a sword out of His mouth and He judges each one alone (the angels 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/appl/the-harlot-the-complexity-of-evil.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/appl/the-harlot-the-complexity-of-evil.md)

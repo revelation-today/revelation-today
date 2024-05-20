@@ -58,4 +58,4 @@ Yeni Ahit’te [İsa tapınaktır](https://www.bibleserver.com/TR/Yuhanna2%3A19-
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-temple-and-the-presence-of-god.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-temple-and-the-presence-of-god.tr.md)

@@ -9,7 +9,7 @@ Die Entrückung ist ein faszinierendes Thema, das die Phantasie der einen beflü
 ## Einleitung
 
 <a name="ae33"></a>
-Die Entrückung ist die Überzeugung, dass eine sogenannte [Große Trübsal ](../../../content/army/expl/the-end-time-and-the-great-tribulation/index.html)kommt, bei der alle Gläubigen vorher in den Himmel entrückt werden und das Gericht aus der Ferne sehen. Das klingt etwas seltsam, weil es ein neues Konzept wäre und[ Jesus etwas ganz anderes sagt](https://www.bibleserver.com/SLT/Matth%C3%A4us13%2C36-42). Und es ist nicht biblisch. Also keine Angst, wenn du denkst, dass die Entrückung schon stattgefunden hat und du zurückgelassen wurdest.
+Die Entrückung ist die Überzeugung, dass eine sogenannte [Große Trübsal ](../../../content/army/expl/the-end-time-and-the-great-tribulation)kommt, bei der alle Gläubigen vorher in den Himmel entrückt werden und das Gericht aus der Ferne sehen. Das klingt etwas seltsam, weil es ein neues Konzept wäre und[ Jesus etwas ganz anderes sagt](https://www.bibleserver.com/SLT/Matth%C3%A4us13%2C36-42). Und es ist nicht biblisch. Also keine Angst, wenn du denkst, dass die Entrückung schon stattgefunden hat und du zurückgelassen wurdest.
 
 Manche halten die Entrückung für eine der wichtigsten Aussagen der Bibel und untermauern dies mit einigen Bibelstellen, die den Eindruck erwecken, dass es dafür eine solide biblische Grundlage gibt.
 
@@ -99,7 +99,7 @@ Auch Matthäus [24](https://www.bibleserver.com/SLT/Matth%C3%A4us24) und [25](ht
 
 Das Thema, das hier behandelt wird, ist die Zerstörung des Tempels mit all den traumatischen Folgen des jüdischen Krieges von 66–73, und es ist eine Vorbereitung auf kommende Verfolgungen und andere Schwierigkeiten, um darin treu zu sein. Alle diese Gleichnisse beziehen sich nicht auf eine bestimmte Zeit, sondern sind eine ständige Ermutigung Jesu. Die Moral des Gleichnisses von den Böcken und den Schafen ist kein Thema der Endzeit, sondern schon im Alten Testament ein wesentliches Kriterium für die Erfüllung der Gebote Gottes.
 
-Die Interpretation des [Gleichnisses vom Ölbaum](https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C32) auf die Ereignisse von 1948 und der Gründung Israels zu beziehen, ist eine sehr weitgehende Interpretation, die an keiner anderen Stelle in der Bibel bestätigt wird. Der Ölbaum ist auch nicht zwingenderweise ein Bild für Israel, sondern ist im [Neuen Testament ein Bild für die Gemeinde](../../../background/israel/expl/the-church-is-part-of-israel/index.html).
+Die Interpretation des [Gleichnisses vom Ölbaum](https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C32) auf die Ereignisse von 1948 und der Gründung Israels zu beziehen, ist eine sehr weitgehende Interpretation, die an keiner anderen Stelle in der Bibel bestätigt wird. Der Ölbaum ist auch nicht zwingenderweise ein Bild für Israel, sondern ist im [Neuen Testament ein Bild für die Gemeinde](../../../background/israel/expl/the-church-is-part-of-israel).
 
 
 ## Ein Platz für uns
@@ -135,9 +135,9 @@ Die Argumentation für die Entrückung stützt sich auf Bibelstellen, die versch
 ### Zur Vertiefung
 
 <a name="e902"></a>
-[Rossing: The rapture exposed](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#268a)
+[Rossing: The rapture exposed](../../../gen/background/ressources/how-to-study-the-book-of-revelation#268a)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/the-rapture.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/the-rapture.de.md)

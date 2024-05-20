@@ -9,7 +9,7 @@ Die Zornesschalen in der Offenbarung erwecken den Eindruck, dass Gott über die 
 ## Gut, vorher zu lesen
 
 <a name="e7c9"></a>
-- [Die Posaunen](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html)
+- [Die Posaunen](../../../content/trumpets/expl/the-trumpets-in-revelation)
 
 
 
@@ -20,17 +20,17 @@ Die Schalen haben wie die anderen Serien ihren Ursprung auch im [Thronsaal](http
 
 “Der Zorn Gottes wird in ihnen vollendet werden.” Was ist der Zorn Gottes?[ Es ist das leidenschaftliche Bestreben, das Problem der Welt zu lösen und nicht aufzuhören, bis es getan ist](https://moodyaudio.com/products/good-and-beautiful-god-part-6).
 
-Vielleicht ist dir schon aufgefallen, dass die sieben Schalen und die [sieben Posaunen](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html) viel gemeinsam haben und beide mit dem [Auszug aus Ägypten](../../../bible/exodus/expl/the-plagues-in-egypt/index.html) zu tun haben. Der Zorn Gottes ist also mit den Gebeten der Heiligen verbunden. Was für ein Gedanke! [Gottes Plan wird durch unsere Gebete beeinflusst](https://www.bibleserver.com/SLT/1.Mose18%2C20-33).
+Vielleicht ist dir schon aufgefallen, dass die sieben Schalen und die [sieben Posaunen](../../../content/trumpets/expl/the-trumpets-in-revelation) viel gemeinsam haben und beide mit dem [Auszug aus Ägypten](../../../bible/exodus/expl/the-plagues-in-egypt) zu tun haben. Der Zorn Gottes ist also mit den Gebeten der Heiligen verbunden. Was für ein Gedanke! [Gottes Plan wird durch unsere Gebete beeinflusst](https://www.bibleserver.com/SLT/1.Mose18%2C20-33).
 
 
 ## Die Schalen
 
 <a name="9855"></a>
-[Die erste Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C2) richtet sich gegen alle, die das [Zeichen des Tieres](https://www.bibleserver.com/SLT/Offenbarung12%2C16-17) ([Symbol für Loyalität](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)) angenommen haben. Das ist es, worauf Gott am meisten fokussiert ist: [Wie können Menschen auf etwas vertrauen, das sie doch am Ende zerstört?](https://www.bibleserver.com/SLT/Offenbarung6%2C1-11) Besonders die Gemeinde, die sich verführen lässt, obwohl sie doch das Schicksal Satans kennt.
+[Die erste Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C2) richtet sich gegen alle, die das [Zeichen des Tieres](https://www.bibleserver.com/SLT/Offenbarung12%2C16-17) ([Symbol für Loyalität](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)) angenommen haben. Das ist es, worauf Gott am meisten fokussiert ist: [Wie können Menschen auf etwas vertrauen, das sie doch am Ende zerstört?](https://www.bibleserver.com/SLT/Offenbarung6%2C1-11) Besonders die Gemeinde, die sich verführen lässt, obwohl sie doch das Schicksal Satans kennt.
 
-[Die zweite und dritte Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C3-7) sind Gottes Reaktion gegenüber denen, die seine Zeugen zum Schweigen gebracht haben (uns). Gott schweigt nicht. Er vergilt nicht mit dem Tod, sondern zwingt zum Nachdenken. Die zweite Schale könnte sich auf die [erste Plage in Ägypten](https://www.bibleserver.com/SLT/2.Mose7%2C17) beziehen ([Tötung der ägyptischen Götter](../../../bible/exodus/expl/the-plagues-in-egypt/index.html)) und zeigt, dass Satan als hilflos und zerstörerisch entlarvt wurde.
+[Die zweite und dritte Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C3-7) sind Gottes Reaktion gegenüber denen, die seine Zeugen zum Schweigen gebracht haben (uns). Gott schweigt nicht. Er vergilt nicht mit dem Tod, sondern zwingt zum Nachdenken. Die zweite Schale könnte sich auf die [erste Plage in Ägypten](https://www.bibleserver.com/SLT/2.Mose7%2C17) beziehen ([Tötung der ägyptischen Götter](../../../bible/exodus/expl/the-plagues-in-egypt)) und zeigt, dass Satan als hilflos und zerstörerisch entlarvt wurde.
 
-[Die vierte und fünfte Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C8-11) behandeln ein ähnliches Thema: [Die Verhärtung des menschlichen Herzens](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart/index.html). Die Menschen leiden lieber, als Gott die Ehre zu geben. Das ist ihre Entscheidung. [Sie lassen sich lieber von Satan täuschen und gehen mit ihm unter, als dass sie sich vor Gott zu demütigen](https://www.bibleserver.com/SLT/Offenbarung16%2C13-16).
+[Die vierte und fünfte Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C8-11) behandeln ein ähnliches Thema: [Die Verhärtung des menschlichen Herzens](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart). Die Menschen leiden lieber, als Gott die Ehre zu geben. Das ist ihre Entscheidung. [Sie lassen sich lieber von Satan täuschen und gehen mit ihm unter, als dass sie sich vor Gott zu demütigen](https://www.bibleserver.com/SLT/Offenbarung16%2C13-16).
 
 [Die sechste und siebente Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C12-21) beschreiben schließlich die Zerstörung des Reiches Satans und seiner Verbündeten. Dies ist die letzte, nachdem Gott alles versucht hat, damit sie
 
@@ -56,9 +56,9 @@ Auch [die drei Frösche aus dem Maul des Drachens](https://www.bibleserver.com/S
 ## Zum Weiterlesen
 
 <a name="0ffa"></a>
-- [Harmagedon](../../../content/bowls/expl/the-key-to-armageddon/index.html)
+- [Harmagedon](../../../content/bowls/expl/the-key-to-armageddon)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-bowls-of-wrath.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-bowls-of-wrath.de.md)

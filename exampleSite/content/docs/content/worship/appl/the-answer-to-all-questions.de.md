@@ -42,7 +42,12 @@ Lass uns schauen, was es damit auf sich hat.
 ## Reflektion
 
 <a name="b295"></a>
-<li id="83bd">Warum betest du Gott an?</li><li id="f627">Siehst du Gottes Güte in dieser Welt? Wo siehst du sie?</li><li id="a2c4">Siehst du Anbetung als Antwort auf die Probleme unserer Zeit oder einfach als etwas, das wir tun sollten?</li><li id="5ddc">Wie hat dich Anbetung verändert?</li><li id="a542">Wie betest du an? Wie sieht Anbetung in deinem Alltag aus?</li>
+- Warum betest du Gott an?
+- Siehst du Gottes Güte in dieser Welt? Wo siehst du sie?
+- Siehst du Anbetung als Antwort auf die Probleme unserer Zeit oder einfach als etwas, das wir tun sollten?
+- Wie hat dich Anbetung verändert?
+- Wie betest du an? Wie sieht Anbetung in deinem Alltag aus?
+
 
 
 
@@ -52,10 +57,11 @@ Lass uns schauen, was es damit auf sich hat.
 ## Zur Vertiefung
 
 <a name="cfb1"></a>
-- [Die Anbetung im Thronsaal](../../../content/worship/expl/worship-in-the-throne-room/index.html)
-<li id="d132">[Was ist Anbetung?](../../../topics/power/short/worship/index.html)</li>
+- [Die Anbetung im Thronsaal](../../../content/worship/expl/worship-in-the-throne-room)
+- [Was ist Anbetung?](../../../topics/power/short/worship)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/appl/the-answer-to-all-questions.de.md)
+
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/appl/the-answer-to-all-questions.de.md)

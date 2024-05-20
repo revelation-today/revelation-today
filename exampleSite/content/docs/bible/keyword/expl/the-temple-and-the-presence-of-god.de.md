@@ -58,4 +58,4 @@ Als Jesus starb, [wurde die Gemeinde zum Tempel, denn die Gemeinde ist der Leib 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-temple-and-the-presence-of-god.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-temple-and-the-presence-of-god.de.md)

@@ -9,7 +9,7 @@ Taht odasındaki tapınma, kiliselerin mektuplarına verilen yanıttır. Neden? 
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="8b6b"></a>
-- [Kiliseler için mektup](../../../content/letters/expl/the-letters-to-the-seven-churches/index.html)
+- [Kiliseler için mektup](../../../content/letters/expl/the-letters-to-the-seven-churches)
 
 
 
@@ -18,7 +18,15 @@ Taht odasındaki tapınma, kiliselerin mektuplarına verilen yanıttır. Neden? 
 <a name="3e33"></a>
 Bu bölümden önceki son ayette zaten Tanrı’nın taht odasından söz edilmişti, ancak kilisenin durumunu ele alan ilk üç bölümle başka bağlantılar da vardır. Kilise için kullanılan ortak ifadeler şunlardır
 
-<li id="90d6">Thyatira’da üstün gelenlerin [sabah yıldızını](https://www.bibleserver.com/TR/Vahiy2%3A28), kuzunun da [tomarı](https://www.bibleserver.com/TR/Vahiy5%3A9), [onur ve yüceliği](https://www.bibleserver.com/TR/Vahiy5%3A12) alacağı vaadindeki yetkinin [alınması](https://biblehub.com/greek/2983.htm)<strong>.</strong></li><li id="6dde">[Laodikya’da tahta oturmak için](https://www.bibleserver.com/TR/Vahiy3%3A21) <strong>galip gelen</strong> kişi ve [kuzunun galip geldiği ve tomarı açmaya layık olduğu gibi](https://www.bibleserver.com/TR/Vahiy5%3A5)</li><li id="0289">[Sardeis’e hitapta](https://www.bibleserver.com/TR/Vahiy3%3A1) <strong>Tanrı’nın yedi ruhunun</strong> yanı [sıra tahtın önündeki tasvir ](https://www.bibleserver.com/TR/Vahiy4%3A5)ve [kuzunun gözlerinin tasviri](https://www.bibleserver.com/TR/Vahiy5%3A6)</li><li id="ff57">[Sardis’teki fatihlerle birlikte](https://www.bibleserver.com/TR/Vahiy3%3A5) <strong>azizlerin beyaz giysileri</strong>, [İsa’nın Laodikya’ya teklifi](https://www.bibleserver.com/TR/Vahiy3%3A18) ve [24 ihtiyarın davetleri](https://www.bibleserver.com/TR/Vahiy4%3A4)</li><li id="5040">[Laodikya’da üstün gelenler](https://www.bibleserver.com/TR/Vahiy3%3A21) ve [24 ihtiyar için](https://www.bibleserver.com/TR/Vahiy4%3A4) <strong>tahtlara oturan azizler</strong></li><li id="5fad">[İzmir’de vaat edilen](https://www.bibleserver.com/TR/Vahiy2%3A10) ve [Philadelphia’da gerçek](https://www.bibleserver.com/TR/Vahiy3%3A11) <strong>olan taçlara sahip azizlerin</strong> yanı [sıra 24 ihtiyarın resminde de](https://www.bibleserver.com/TR/Vahiy4%3A4)</li><li id="2789">[Philadelphia’daki gerçeklikte](https://www.bibleserver.com/TR/Vahiy3%3A8) ve [Laodikya’daki dilekte](https://www.bibleserver.com/TR/Vahiy3%3A20) <strong>açık kapı imgesinin</strong> yanı sıra [taht odasına giriş](https://www.bibleserver.com/TR/Vahiy4%3A1)</li><li id="a3ad"><strong>Ruhun kendinden geçmesiyle birlikte trompet gibi bir ses</strong> [burada vizyonu başlatır](https://www.bibleserver.com/TR/Vahiy4%3A1-2) ama aynı zamanda [kiliselerle ilgili vizyonu](https://www.bibleserver.com/TR/Vahiy1%3A10-12) da başlatır</li>
+- Thyatira’da üstün gelenlerin [sabah yıldızını](https://www.bibleserver.com/TR/Vahiy2%3A28), kuzunun da [tomarı](https://www.bibleserver.com/TR/Vahiy5%3A9), [onur ve yüceliği](https://www.bibleserver.com/TR/Vahiy5%3A12) alacağı vaadindeki yetkinin [alınması](https://biblehub.com/greek/2983.htm).
+- [Laodikya’da tahta oturmak için](https://www.bibleserver.com/TR/Vahiy3%3A21) galip gelen kişi ve [kuzunun galip geldiği ve tomarı açmaya layık olduğu gibi](https://www.bibleserver.com/TR/Vahiy5%3A5)
+- [Sardeis’e hitapta](https://www.bibleserver.com/TR/Vahiy3%3A1) Tanrı’nın yedi ruhunun yanı [sıra tahtın önündeki tasvir ](https://www.bibleserver.com/TR/Vahiy4%3A5)ve [kuzunun gözlerinin tasviri](https://www.bibleserver.com/TR/Vahiy5%3A6)
+- [Sardis’teki fatihlerle birlikte](https://www.bibleserver.com/TR/Vahiy3%3A5) azizlerin beyaz giysileri, [İsa’nın Laodikya’ya teklifi](https://www.bibleserver.com/TR/Vahiy3%3A18) ve [24 ihtiyarın davetleri](https://www.bibleserver.com/TR/Vahiy4%3A4)
+- [Laodikya’da üstün gelenler](https://www.bibleserver.com/TR/Vahiy3%3A21) ve [24 ihtiyar için](https://www.bibleserver.com/TR/Vahiy4%3A4) tahtlara oturan azizler
+- [İzmir’de vaat edilen](https://www.bibleserver.com/TR/Vahiy2%3A10) ve [Philadelphia’da gerçek](https://www.bibleserver.com/TR/Vahiy3%3A11) olan taçlara sahip azizlerin yanı [sıra 24 ihtiyarın resminde de](https://www.bibleserver.com/TR/Vahiy4%3A4)
+- [Philadelphia’daki gerçeklikte](https://www.bibleserver.com/TR/Vahiy3%3A8) ve [Laodikya’daki dilekte](https://www.bibleserver.com/TR/Vahiy3%3A20) açık kapı imgesinin yanı sıra [taht odasına giriş](https://www.bibleserver.com/TR/Vahiy4%3A1)
+- Ruhun kendinden geçmesiyle birlikte trompet gibi bir ses [burada vizyonu başlatır](https://www.bibleserver.com/TR/Vahiy4%3A1-2) ama aynı zamanda [kiliselerle ilgili vizyonu](https://www.bibleserver.com/TR/Vahiy1%3A10-12) da başlatır
+
 
 Bu ilişkiler kiliseye ruhsal gerçeklikleriyle ilgili bir vizyon vermeli ve aynı zamanda Mesih’in örneğini izlemelidir. Bu vizyonda gösterilen gerçeklik, kilisenin üzerinde hareket etmesi gereken gerçekliğin bir parçasıdır.
 
@@ -89,9 +97,9 @@ Göreceğiniz gibi buradaki tema da budur: Her bela ya da duyuru dizisi taht oda
 
 Yaklaşan olaylara baktığımızda şunu görürüz
 
-- [Mühürlerde çok büyük sıkıntılar vardır, ancak Şeytan’ın kötülüğünü açığa çıkarmak, mümkün olduğunca çok kişiyi kurtarmak ve hızlı bir sonla gelmek için oradadırlar.](../../../content/seals/expl/the-mystery-of-the-four-horse-men/index.html)
-- [Borazanlar insanların güvendiği yanlış şeyleri açığa çıkarır ve beşinci ve altıncı borazanlarda belanın nedeni insanların güvendiği iblislerdir.](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html)
-- [Çanaklar, Tanrı’nın insanların aldanmaması ve altıncı ve yedinci çanaklarda canavarla birlikte batmaması için her şeyi koyduğu yerdir.](../../../content/bowls/expl/the-bowls-of-wrath/index.html)
+- [Mühürlerde çok büyük sıkıntılar vardır, ancak Şeytan’ın kötülüğünü açığa çıkarmak, mümkün olduğunca çok kişiyi kurtarmak ve hızlı bir sonla gelmek için oradadırlar.](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [Borazanlar insanların güvendiği yanlış şeyleri açığa çıkarır ve beşinci ve altıncı borazanlarda belanın nedeni insanların güvendiği iblislerdir.](../../../content/trumpets/expl/the-trumpets-in-revelation)
+- [Çanaklar, Tanrı’nın insanların aldanmaması ve altıncı ve yedinci çanaklarda canavarla birlikte batmaması için her şeyi koyduğu yerdir.](../../../content/bowls/expl/the-bowls-of-wrath)
 
 
 
@@ -114,12 +122,13 @@ Onlara, Davut’un tanıttığı [24 kâhin](https://www.bibleserver.com/TR/1.Ta
 ## Daha fazla okuma
 
 <a name="622f"></a>
-- [Yedi mühür](../../../content/seals/expl/the-book-with-the-seven-seals/index.html)
-<li id="7f3d">[İbadet nedir?](../../../topics/power/short/worship/index.html)</li>
+- [Yedi mühür](../../../content/seals/expl/the-book-with-the-seven-seals)
+- [İbadet nedir?](../../../topics/power/short/worship)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/expl/worship-in-the-throne-room.tr.md)
+
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/expl/worship-in-the-throne-room.tr.md)

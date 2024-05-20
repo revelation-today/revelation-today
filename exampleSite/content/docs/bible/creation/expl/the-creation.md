@@ -101,16 +101,18 @@ Cain’s descendants continue to grow and find refuge in cities and innovations.
 
 - He is the first who is reported to have two wives and he mocks God’s sign on his ancestor Cain.
 - He has already killed someone, God’s sign was to avoid further killing.
-<li id="6c9c">Lamech’s consequences will be much greater than God’s consequences, is he greater than God?</li>
+- Lamech’s consequences will be much greater than God’s consequences, is he greater than God?
+
 
 But they are also a laughing stock.
 
 - He does not tell this to the whole world, but only has the courage to boast in front of his wife.
-<li id="a4eb">And who exactly will avenge Lamech when he is killed? His wives?</li>
+- And who exactly will avenge Lamech when he is killed? His wives?
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/creation/expl/the-creation.md)
+
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/creation/expl/the-creation.md)

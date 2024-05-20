@@ -31,4 +31,4 @@ Yusuf’un Hiksoslar zamanında yaşamış olması muhtemeldir.
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-story-before-the-exodus.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-story-before-the-exodus.tr.md)

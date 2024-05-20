@@ -99,4 +99,4 @@ Müjde, Mesih’e iman eden İsrail’in restorasyonu ile diğer ulusların kurt
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-second-exodus.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-second-exodus.tr.md)

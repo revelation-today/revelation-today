@@ -66,14 +66,14 @@ Ve kilise ne yapılabileceğini sorabilir. Vahiy kitabı bu konuda yardımcı ol
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="1425"></a>
-- [Tarihsel arka plan](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation/index.html)
-- [İsrail ve kilise](../../../background/israel/expl/israel-and-the-church/index.html)
+- [Tarihsel arka plan](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [İsrail ve kilise](../../../background/israel/expl/israel-and-the-church)
 
 
 
@@ -81,4 +81,4 @@ Ve kilise ne yapılabileceğini sorabilir. Vahiy kitabı bu konuda yardımcı ol
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/appl/some-things-never-change.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/appl/some-things-never-change.tr.md)

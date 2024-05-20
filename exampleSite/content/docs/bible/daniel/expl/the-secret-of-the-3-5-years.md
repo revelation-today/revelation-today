@@ -9,9 +9,9 @@ The book of Revelation in the Bible is full of strange time periods like 1260 da
 ## You may want to read before
 
 <a name="c871"></a>
-- [The book of Daniel](../../../bible/daniel/expl/the-book-of-daniel/index.html)
-- [The four kingdoms in Daniel](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html)
-- [The 70 years](../../../bible/daniel/expl/the-70-year-weeks/index.html)
+- [The book of Daniel](../../../bible/daniel/expl/the-book-of-daniel)
+- [The four kingdoms in Daniel](../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
+- [The 70 years](../../../bible/daniel/expl/the-70-year-weeks)
 
 
 
@@ -57,7 +57,7 @@ The battle and the question here is, “Who is the true God?”.
 ## The year week in Daniel
 
 <a name="96cb"></a>
-In Daniel there are the [70 weeks which result in two half-weeks of 3.5 years each](../../../bible/daniel/expl/the-70-year-weeks/index.html). The first half-week describes the time of Jesus on earth and the second perhaps the work of the church. The covenant of Jesus is also [described as being in this week](https://www.bibleserver.com/NIV/Daniel9%3A27).
+In Daniel there are the [70 weeks which result in two half-weeks of 3.5 years each](../../../bible/daniel/expl/the-70-year-weeks). The first half-week describes the time of Jesus on earth and the second perhaps the work of the church. The covenant of Jesus is also [described as being in this week](https://www.bibleserver.com/NIV/Daniel9%3A27).
 
 These 3.5 years are what God is building up in the background that will overthrow the kingdoms of this world.
 
@@ -65,7 +65,7 @@ These 3.5 years are what God is building up in the background that will overthro
 ## What are the 3,5 years in Revelation
 
 <a name="df73"></a>
-Let’s go through and start with chapter 13. [This is the devil’s deception](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html). When does it start? According to chapter 12, it happens after Jesus’ death on the cross, when he realizes that he cannot destroy Israel, which is protected by God, so pretty much after his death.
+Let’s go through and start with chapter 13. [This is the devil’s deception](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). When does it start? According to chapter 12, it happens after Jesus’ death on the cross, when he realizes that he cannot destroy Israel, which is protected by God, so pretty much after his death.
 
 When does he stop? Never if he doesn’t have to, so until Jesus comes back.
 
@@ -86,4 +86,4 @@ That leaves the [1260 days of the two witnesses](https://www.bibleserver.com/NIV
 So why are different units (days, months, …) used? The days are used when it comes to the reign of the witnesses and the provision of Israel, while the months are used for the reign of the devil and the destruction of the outskirts of the temple, and the 3.5 years/times are used for the hidden work of God. Perhaps the use is done to show the abundance of the 1260 days of the Church compared to the only 42 months of the devil. But this is a bit of a guess. I have no real idea.What does it mean?The rule of the devil and the absolute rule of the Church are parallel. Even though the world seems to be ruled by the devil, the Church is still in charge.
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-secret-of-the-3-5-years.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-secret-of-the-3-5-years.md)

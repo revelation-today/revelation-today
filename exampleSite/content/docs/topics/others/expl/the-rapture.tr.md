@@ -76,7 +76,9 @@ Ancak eylemi tanımlayan kelime [apensis](https://biblehub.com/greek/529.htm) ol
 
 Ayrıca bu pasaj kendinden geçmeyi savunmak için de kullanılır: Biri kendinden geçerken diğeri geride kalır.
 
-<li id="06a5">“Varsayımlar”: Götürülme iyi bir şey, geride bırakılma ise kötü bir şeydir, ancak ilgili sözcükler bunu yansıtmaz,[ örneğin şeytan İsa’yı ayartıldıktan sonra terk etmiştir](https://www.bibleserver.com/TR/Matta4%3A11). Burada oğlun gelişi Nuh zamanındaki tufanla karşılaştırılmaktadır. Tufanla birlikte anılan “götürülmek” sözcüğü “yargı için götürülmek” anlamına gelir. İnsanoğlu’nun gelişi de bu şekilde olacaktır. Dolayısıyla bu bağlamda götürülmenin şu anlama gelmesi muhtemeldir: Bu kötü adamlar içindir, iyiler geride kalır!!!<br/>Ve nereye doğru götürüldüklerinden söz edilmemektedir. Bu, Roma İmparatorluğu’ndaki gizli polisin imanlıları inançlarından dolayı yakalamasının resmi olabilir.</li><li id="3e19">“Bağlam”: Hikâye ne hakkında? Alınan ve bırakılan insanların özel kaderinin ne olduğu çok belirsizdir (Matta kelimelerin belirsizliğini kasıtlı olarak kullanıyor bile olabilir). Önemli olan, bir [önceki ayette ](https://www.bibleserver.com/TR/Matta24%3A36)söylendiği gibi hazır olmamız gerektiğidir, çünkü ayrım işimizin ortasında olabilir (hazırlanmak için zaman yok)</li>
+- “Varsayımlar”: Götürülme iyi bir şey, geride bırakılma ise kötü bir şeydir, ancak ilgili sözcükler bunu yansıtmaz,[ örneğin şeytan İsa’yı ayartıldıktan sonra terk etmiştir](https://www.bibleserver.com/TR/Matta4%3A11). Burada oğlun gelişi Nuh zamanındaki tufanla karşılaştırılmaktadır. Tufanla birlikte anılan “götürülmek” sözcüğü “yargı için götürülmek” anlamına gelir. İnsanoğlu’nun gelişi de bu şekilde olacaktır. Dolayısıyla bu bağlamda götürülmenin şu anlama gelmesi muhtemeldir: Bu kötü adamlar içindir, iyiler geride kalır!!!Ve nereye doğru götürüldüklerinden söz edilmemektedir. Bu, Roma İmparatorluğu’ndaki gizli polisin imanlıları inançlarından dolayı yakalamasının resmi olabilir.
+- “Bağlam”: Hikâye ne hakkında? Alınan ve bırakılan insanların özel kaderinin ne olduğu çok belirsizdir (Matta kelimelerin belirsizliğini kasıtlı olarak kullanıyor bile olabilir). Önemli olan, bir [önceki ayette ](https://www.bibleserver.com/TR/Matta24%3A36)söylendiği gibi hazır olmamız gerektiğidir, çünkü ayrım işimizin ortasında olabilir (hazırlanmak için zaman yok)
+
 
 
 ## Zeytin ağacına bakış açısı
@@ -86,7 +88,7 @@ Matta [24](https://www.bibleserver.com/TR/Matta24) ve [25](https://www.bibleserv
 
 Burada değinilen konular, 66–73 yıllarındaki Yahudi savaşının tüm travmatik etkisiyle tapınağın yıkılışını anlatır ve gelecek zulümler ve zorluklar için sadık kalmaya yönelik bir öğüttür. Tüm bu benzetmeler belirli bir zamana gönderme yapmaz, İsa’yla sürekli bir ilişki içindedir. Keçi ve koyun etiği bir son zaman gerekliliği değil, Eski Antlaşma boyunca bile imanlıların Tanrı’nın buyruğunu yerine getirmeleri için önemli bir kriterdir.
 
-[Zeytin ağacı benzetmesinin](https://www.bibleserver.com/TR/Matta24%3A32) 1948'de İsrail’in kuruluşuyla ilgili olaylar olarak yorumlanması çok ileri bir yorumdur ve Kutsal Kitap’ta başka bir desteği yoktur. Bu kıssa yeni İsrail devletine işaret etmemektedir, [ancak Yeni Ahit’te İsrail’e yapılan diğer birçok atıf gibi kilise için bir resimdir.](../../../background/israel/expl/the-church-is-part-of-israel/index.html)
+[Zeytin ağacı benzetmesinin](https://www.bibleserver.com/TR/Matta24%3A32) 1948'de İsrail’in kuruluşuyla ilgili olaylar olarak yorumlanması çok ileri bir yorumdur ve Kutsal Kitap’ta başka bir desteği yoktur. Bu kıssa yeni İsrail devletine işaret etmemektedir, [ancak Yeni Ahit’te İsrail’e yapılan diğer birçok atıf gibi kilise için bir resimdir.](../../../background/israel/expl/the-church-is-part-of-israel)
 
 
 ## Bizim için bir yer
@@ -122,11 +124,11 @@ Göğe alınma argümanı, farklı durumları tanımlayan, yanlış bir şekilde
 ### Daha fazla kazma
 
 <a name="7bf2"></a>
-[Rossing: The rapture exposed](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#8c07)
+[Rossing: The rapture exposed](../../../gen/background/ressources/how-to-study-the-book-of-revelation#8c07)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/the-rapture.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/the-rapture.tr.md)

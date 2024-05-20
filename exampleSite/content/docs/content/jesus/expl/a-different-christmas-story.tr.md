@@ -38,7 +38,10 @@ Tanımlanması gereken ilk kişi kolaydır: ejderha. 9. ayette “İblis ya da �
 <a name="8ae1"></a>
 Çocuğa bir göz atalım. Çok fazla açıklama yok ama çok göze çarpan bir özelliği var: demir asa. Kutsal Kitap’a bakalım ve ne bulabileceğimizi görelim; birkaç referans var:
 
-<li id="5456">[Mezmur 2](https://www.bibleserver.com/TR/Mezmur2), tüm kralların Tanrı’ya isyan ettiği bir sahneyi anlatır, ancak <strong>Tanrı </strong>onları, kendilerini <strong>demir bir asayla</strong> yönetecek olan <strong>oğlundan</strong> korkmaları gerektiği konusunda tehdit eder</li><li id="d9d8">[Isa.11/4](https://www.bibleserver.com/TR/Ye%C5%9Faya11%3A4), <strong>ağzının </strong>değneğiyle <strong>yeryüzüne vuracak</strong> olan <strong>Mesih’in</strong> gelişini anlatır</li><li id="1329">[Vahiy 2/27'de](https://www.bibleserver.com/TR/Vahiy2%3A27) İsa’nın kendisinden <strong>demir bir asayla hüküm</strong> süren kişi olarak söz edilir</li>
+- [Mezmur 2](https://www.bibleserver.com/TR/Mezmur2), tüm kralların Tanrı’ya isyan ettiği bir sahneyi anlatır, ancak Tanrı onları, kendilerini demir bir asayla yönetecek olan oğlundan korkmaları gerektiği konusunda tehdit eder
+- [Isa.11/4](https://www.bibleserver.com/TR/Ye%C5%9Faya11%3A4), ağzının değneğiyle yeryüzüne vuracak olan Mesih’in gelişini anlatır
+- [Vahiy 2/27'de](https://www.bibleserver.com/TR/Vahiy2%3A27) İsa’nın kendisinden demir bir asayla hüküm süren kişi olarak söz edilir
+
 
 Bu referanslar öykünün İsa’dan ve onun doğumundan bahsettiğini açıkça ortaya koymaktadır.
 
@@ -92,8 +95,8 @@ Bu dönemde İsa doğdu ve [Kral Hirodes onu öldürmek üzereyken](https://www.
 ## Diğer okumalar
 
 <a name="59b6"></a>
-- [Kutsal olmayan üçlünün hikayesi](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)
-- [Vahiy kitabının yapısı](../../../background/structure/expl/the-structure-of-the-book-of-revelation/index.html)
+- [Kutsal olmayan üçlünün hikayesi](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [Vahiy kitabının yapısı](../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
 
 
@@ -101,4 +104,4 @@ Bu dönemde İsa doğdu ve [Kral Hirodes onu öldürmek üzereyken](https://www.
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/expl/a-different-christmas-story.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/expl/a-different-christmas-story.tr.md)

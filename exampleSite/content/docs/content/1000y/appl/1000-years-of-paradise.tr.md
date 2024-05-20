@@ -19,7 +19,8 @@ Bu harika 1000 yıllık krallık hakkında pek çok şey duymuş olabilirsiniz. 
 
 - Bu 1000 yıllık krallıktan daha önce Kutsal Kitap’ın hiçbir yerinde bu isimle söz edilmemiştir.
 - Bundan söz eden tek bir ayetimiz var (4. ayet)
-<li id="90d3">Bu çok belirsizdir: İsa’ya inanan kafası kesilmiş insanlar (nasıl?) kimin üzerinde (yaratılış, birbirleri üzerinde, o kadar da iyi olmayan Hıristiyanlar?) hüküm sürecekler.</li>- Yeni cennetin ve dünyanın başlamaması için hiçbir neden yoktur, çünkü bu bir dezavantaj değildir
+- Bu çok belirsizdir: İsa’ya inanan kafası kesilmiş insanlar (nasıl?) kimin üzerinde (yaratılış, birbirleri üzerinde, o kadar da iyi olmayan Hıristiyanlar?) hüküm sürecekler.
+- Yeni cennetin ve dünyanın başlamaması için hiçbir neden yoktur, çünkü bu bir dezavantaj değildir
 
 
 Gördüğünüz gibi, bu kısa pasajdan sonuç çıkarmak zordur ve burada daha önce sunulmuş olan bir şeyin ifade edildiğini varsaymak daha güvenlidir.
@@ -43,17 +44,21 @@ Bu bölüm mesajın özünün kısa bir özetini vermektedir: Kilise, tanıklık
 ### Yansıma
 
 <a name="579c"></a>
-<li id="db48">Tarihte ve hatta günümüzde kilisenin (olumlu anlamda) nereleri yönettiğini gördünüz?</li><li id="fc3e">İyi yönetim somut olarak nasıl görünüyor?</li><li id="afde">Mesih’e inandığınız için (bilinçaltında bile olsa) kral muamelesi gördüğünüzü nerede gördünüz?</li><li id="9a6e">Dayanmak için size ne umut veriyor?</li>
+- Tarihte ve hatta günümüzde kilisenin (olumlu anlamda) nereleri yönettiğini gördünüz?
+- İyi yönetim somut olarak nasıl görünüyor?
+- Mesih’e inandığınız için (bilinçaltında bile olsa) kral muamelesi gördüğünüzü nerede gördünüz?
+- Dayanmak için size ne umut veriyor?
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="e1c1"></a>
-- [1000 yıllık krallık](../../../content/1000y/expl/the-thousand-year-kingdom/index.html)
+- [1000 yıllık krallık](../../../content/1000y/expl/the-thousand-year-kingdom)
 
 
 
@@ -61,4 +66,4 @@ Bu bölüm mesajın özünün kısa bir özetini vermektedir: Kilise, tanıklık
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/appl/1000-years-of-paradise.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/appl/1000-years-of-paradise.tr.md)

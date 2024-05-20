@@ -33,7 +33,14 @@ We are described as an army — soldiers who always worry if they might get hurt
 ### Reflection
 
 <a name="8e53"></a>
-<li id="2736">In this chapter, worship is related to warfare? What does that mean?</li><li id="dceb">What weapons do you use to fight for this world?</li><li id="5a66">Are you fighting for this world or are you waiting (maybe telling some people about Jesus) and waiting for your salvation?</li><li id="c4ce">Do you care about environmental destruction, global exploitation, human trafficking, and so many others, or do you just wait for Jesus to come back (hopefully soon) and fix it? Or, on the contrary, do you think it is good that things are getting worse because then Jesus will come sooner?</li><li id="7916">How does it make you feel to be part of God’s army?</li><li id="3299">Being counted means that you will not get lost. What does that mean to you?</li><li id="42ed">God’s army comes from the Great Tribulation. What will happen to your faith when you are tested? Will it grow stronger or will it crumble? Do you believe that God can strengthen your faith when it is tested? What is your faith based on?</li>
+- In this chapter, worship is related to warfare? What does that mean?
+- What weapons do you use to fight for this world?
+- Are you fighting for this world or are you waiting (maybe telling some people about Jesus) and waiting for your salvation?
+- Do you care about environmental destruction, global exploitation, human trafficking, and so many others, or do you just wait for Jesus to come back (hopefully soon) and fix it? Or, on the contrary, do you think it is good that things are getting worse because then Jesus will come sooner?
+- How does it make you feel to be part of God’s army?
+- Being counted means that you will not get lost. What does that mean to you?
+- God’s army comes from the Great Tribulation. What will happen to your faith when you are tested? Will it grow stronger or will it crumble? Do you believe that God can strengthen your faith when it is tested? What is your faith based on?
+
 
 
 
@@ -43,8 +50,8 @@ We are described as an army — soldiers who always worry if they might get hurt
 ## Digging deeper
 
 <a name="06f1"></a>
-- [The 144.000](../../../content/army/expl/the-144000/index.html)
-- [The big tribulation](../../../content/army/expl/the-end-time-and-the-great-tribulation/index.html)
+- [The 144.000](../../../content/army/expl/the-144000)
+- [The big tribulation](../../../content/army/expl/the-end-time-and-the-great-tribulation)
 
 
 
@@ -52,4 +59,4 @@ We are described as an army — soldiers who always worry if they might get hurt
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/appl/the-strange-army.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/appl/the-strange-army.md)

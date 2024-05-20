@@ -73,20 +73,20 @@ Ihre Herausforderungen sind so individuell wie ihre Stärken, so dass wir manche
 ## Zur Vertiefung
 
 <a name="f541"></a>
-- [Der Auftakt des Buches](../../../content/letters/expl/setting-the-foundation/index.html)
-- [Die Vision des Menschensohnes](../../../content/letters/expl/the-vision/index.html)
-- [Die Engel der Gemeinden](../../../content/letters/expl/the-angel-of-the-churches/index.html)
-- [Die Sendschreiben](../../../content/letters/expl/the-letters-to-the-seven-churches/index.html)
-- [Der Brief an Ephesus](../../../content/letters/expl/the-letter-to-the-church-in-ephesus/index.html)
-- [Der Brief an Smyrna](../../../content/letters/expl/the-letter-to-the-church-in-smyrna/index.html)
-- [Der Brief an Pergamon](../../../content/letters/expl/the-letter-to-the-church-in-pergamon/index.html)
-- [Der Brief an Thyatira](../../../content/letters/expl/the-letter-to-the-church-in-thyatira/index.html)
-- [Der Brief an Sardis](../../../content/letters/expl/the-letter-to-the-church-in-sardis/index.html)
-- [Der Brief an Philadelphia](../../../content/letters/expl/the-letter-to-the-church-in-philadelphia/index.html)
-- [Der Brief an Laodizäa](../../../content/letters/expl/the-letter-to-the-church-in-laodicea/index.html)
+- [Der Auftakt des Buches](../../../content/letters/expl/setting-the-foundation)
+- [Die Vision des Menschensohnes](../../../content/letters/expl/the-vision)
+- [Die Engel der Gemeinden](../../../content/letters/expl/the-angel-of-the-churches)
+- [Die Sendschreiben](../../../content/letters/expl/the-letters-to-the-seven-churches)
+- [Der Brief an Ephesus](../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
+- [Der Brief an Smyrna](../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
+- [Der Brief an Pergamon](../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
+- [Der Brief an Thyatira](../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
+- [Der Brief an Sardis](../../../content/letters/expl/the-letter-to-the-church-in-sardis)
+- [Der Brief an Philadelphia](../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
+- [Der Brief an Laodizäa](../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/appl/the-challenges.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/appl/the-challenges.de.md)

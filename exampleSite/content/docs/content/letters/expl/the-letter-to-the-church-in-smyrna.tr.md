@@ -35,11 +35,11 @@ Kilisenin kökeni hakkında çok az şey bilinmektedir, belki de Pavlus tarafın
 <a name="a1e3"></a>
 İsa söz veriyor: Tahammül ettiklerinde ikinci ölümden zarar görmeyecekler. [İsa ölümden dirilişe geçerek üstesinden geldi ve hafta gibi görünüyor](https://www.bibleserver.com/TR/Vahiy5%3A5-6), bu [yüzden onlarla birlikte hükmedecek](https://www.bibleserver.com/TR/Vahiy20%3A4-6). Bu bir paradokstur. Bu nasıl olmalıdır?
 
-Biz ne kadar çok şey yapamazsak, İsa o kadar çok çalışabilir. [Ancak çaresizlikten bunalıp pes etme tehlikesi vardır](../../../content/beasts/expl/666-the-number-of-the-beast/index.html). Durumu çözmemiz değil, O’nunla birlikte dayanmamız gerekir.
+Biz ne kadar çok şey yapamazsak, İsa o kadar çok çalışabilir. [Ancak çaresizlikten bunalıp pes etme tehlikesi vardır](../../../content/beasts/expl/666-the-number-of-the-beast). Durumu çözmemiz değil, O’nunla birlikte dayanmamız gerekir.
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-smyrna.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-smyrna.tr.md)

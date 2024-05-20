@@ -69,9 +69,9 @@ Andererseits ist der Übergang der Herrschaft nicht so offensichtlich, denn sein
 
 Das Römische Reich war das letzte Reich, das über Israel herrschte. Durch den Neuen Bund ist das Volk Gottes über die ganze Erde verstreut, und es gibt kein einziges Reich, das sie einschließt.
 
-Es gibt auch Diskussionen darüber, wer die zehn Könige und die drei Hörner in Kapitel 7 sind, aber wir müssen diese Themen im Zusammenhang mit der Offenbarung betrachten, wo wir die [Dreieinigkeit](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html) und die zehn Könige wieder sehen.
+Es gibt auch Diskussionen darüber, wer die zehn Könige und die drei Hörner in Kapitel 7 sind, aber wir müssen diese Themen im Zusammenhang mit der Offenbarung betrachten, wo wir die [Dreieinigkeit](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) und die zehn Könige wieder sehen.
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-four-kingdoms-in-daniel.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-four-kingdoms-in-daniel.de.md)

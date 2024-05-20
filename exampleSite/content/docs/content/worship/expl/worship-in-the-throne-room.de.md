@@ -9,7 +9,7 @@ Die Anbetung im Thronsaal ist die Antwort auf die Probleme der Gemeinden. Aber w
 ## Gut, davor zu lesen
 
 <a name="ef77"></a>
-- [Die Sendschreiben](../../../content/letters/expl/the-letters-to-the-seven-churches/index.html)
+- [Die Sendschreiben](../../../content/letters/expl/the-letters-to-the-seven-churches)
 
 
 
@@ -18,7 +18,15 @@ Die Anbetung im Thronsaal ist die Antwort auf die Probleme der Gemeinden. Aber w
 <a name="e638"></a>
 Der letzte Vers vor diesem Kapitel erwähnte bereits den Thronsaal Gottes, aber es gibt weitere Verbindungen zu den ersten drei Kapiteln, die sich mit der Situation der Kirche befassen. Es gibt die Verwendung von allgemeinen Ausdrücken für
 
-<li id="962d">[Empfang](https://biblehub.com/greek/2983.htm)<strong> von Vollmacht</strong> in der Verheißung für die Überwinder in Thyatira, den [Morgenstern zu bekommen](https://www.bibleserver.com/SLT/Offenbarung2%2C28), sowie für das Lamm, die [Schriftrolle](https://www.bibleserver.com/SLT/Offenbarung5%2C9) sowie [Ehre und Herrlichkeit](https://www.bibleserver.com/SLT/Offenbarung5%2C12) zu empfangen</li><li id="8913">die <strong>Überwinder </strong>in [Laodizea, die auf dem Thron sitzen werden](https://www.bibleserver.com/SLT/Offenbarung3%2C21), wie auch das [Lamm, das überwunden hat und würdig ist, die Schriftrolle zu öffnen](https://www.bibleserver.com/SLT/Offenbarung5%2C5)</li><li id="c29f">die <strong>sieben Geister Gottes</strong> in der [Ansprache an Sardes](https://www.bibleserver.com/SLT/Offenbarung3%2C1) sowie die [Beschreibung vor dem Thron](https://www.bibleserver.com/SLT/Offenbarung4%2C5) und als [Beschreibung der Augen des Lammes](https://www.bibleserver.com/SLT/Offenbarung5%2C6)</li><li id="8820">die <strong>weiße Kleidung der Heiligen</strong> bei den [Überwindern in Sardes](https://www.bibleserver.com/SLT/Offenbarung3%2C5) und [das Angebot Jesu an Laodizea](https://www.bibleserver.com/SLT/Offenbarung3%2C18) sowie die[ Kleidung der 24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4)</li><li id="081e"><strong>Heilige, die auf Thronen sitzen</strong>, für die [Überwinder in Laodizea](https://www.bibleserver.com/SLT/Offenbarung3%2C21) und die [24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4)</li><li id="ddf8"><strong>Heilige mit Kronen</strong> als [Verheißung in Smyrna](https://www.bibleserver.com/SLT/Offenbarung2%2C10) und [Realität in Philadelphia](https://www.bibleserver.com/SLT/Offenbarung3%2C11) sowie im [Bild der 24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4)</li><li id="2ce0"><strong>Bild einer offenen Tür</strong> in der [Realität in Philadelphia](https://www.bibleserver.com/SLT/Offenbarung3%2C8) und [dem Wunsch in Laodizea](https://www.bibleserver.com/SLT/Offenbarung3%2C20) sowie der [Einführung in den Thronsaal](https://www.bibleserver.com/SLT/Offenbarung4%2C1)</li><li id="415c"><strong>Stimme wie eine Posaune mit Entrückung im Geist</strong> [leitet hier die Vision ein](https://www.bibleserver.com/SLT/Offenbarung4%2C1-2), aber auch die [Vision bezüglich der Gemeinden](https://www.bibleserver.com/SLT/Offenbarung1%2C10-12)</li>
+- [Empfang](https://biblehub.com/greek/2983.htm) von Vollmacht in der Verheißung für die Überwinder in Thyatira, den [Morgenstern zu bekommen](https://www.bibleserver.com/SLT/Offenbarung2%2C28), sowie für das Lamm, die [Schriftrolle](https://www.bibleserver.com/SLT/Offenbarung5%2C9) sowie [Ehre und Herrlichkeit](https://www.bibleserver.com/SLT/Offenbarung5%2C12) zu empfangen
+- die Überwinder in [Laodizea, die auf dem Thron sitzen werden](https://www.bibleserver.com/SLT/Offenbarung3%2C21), wie auch das [Lamm, das überwunden hat und würdig ist, die Schriftrolle zu öffnen](https://www.bibleserver.com/SLT/Offenbarung5%2C5)
+- die sieben Geister Gottes in der [Ansprache an Sardes](https://www.bibleserver.com/SLT/Offenbarung3%2C1) sowie die [Beschreibung vor dem Thron](https://www.bibleserver.com/SLT/Offenbarung4%2C5) und als [Beschreibung der Augen des Lammes](https://www.bibleserver.com/SLT/Offenbarung5%2C6)
+- die weiße Kleidung der Heiligen bei den [Überwindern in Sardes](https://www.bibleserver.com/SLT/Offenbarung3%2C5) und [das Angebot Jesu an Laodizea](https://www.bibleserver.com/SLT/Offenbarung3%2C18) sowie die[ Kleidung der 24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4)
+- Heilige, die auf Thronen sitzen, für die [Überwinder in Laodizea](https://www.bibleserver.com/SLT/Offenbarung3%2C21) und die [24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4)
+- Heilige mit Kronen als [Verheißung in Smyrna](https://www.bibleserver.com/SLT/Offenbarung2%2C10) und [Realität in Philadelphia](https://www.bibleserver.com/SLT/Offenbarung3%2C11) sowie im [Bild der 24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4)
+- Bild einer offenen Tür in der [Realität in Philadelphia](https://www.bibleserver.com/SLT/Offenbarung3%2C8) und [dem Wunsch in Laodizea](https://www.bibleserver.com/SLT/Offenbarung3%2C20) sowie der [Einführung in den Thronsaal](https://www.bibleserver.com/SLT/Offenbarung4%2C1)
+- Stimme wie eine Posaune mit Entrückung im Geist [leitet hier die Vision ein](https://www.bibleserver.com/SLT/Offenbarung4%2C1-2), aber auch die [Vision bezüglich der Gemeinden](https://www.bibleserver.com/SLT/Offenbarung1%2C10-12)
+
 
 Diese Beziehungen sollten der Kirche eine Vision für ihre geistliche Realität geben, aber auch dem Beispiel Christi folgen. Die Realität, die in dieser Vision gezeigt wird, ist Teil der Realität, nach der die Kirche handeln sollte.
 
@@ -89,9 +97,9 @@ Wie wir sehen werden, gibt es noch eine weitere Besonderheit: Jede der Plagen ha
 
 Wenn wir die Reihen betrachten, sehen wir
 
-- [Die Siegel beschreiben eine sehr harte Zeit, aber sie entlarven die Bosheit Satans und seinen Wunsch, so viele Menschen wie möglich zu retten, bevor das Ende schnell kommt.](../../../content/seals/expl/the-mystery-of-the-four-horse-men/index.html)
-- [Die Posaunen zeigen die falschen Dinge, auf die die Menschen ihr Vertrauen setzen, und in der fünften und sechsten Posaune zeigen sie, dass die Ursache ihrer Probleme die Dämonen sind, an die sie sich klammern.](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html)
-- [Die Schalen sind der Ort, wo Gott alles hineinlegt, damit die Menschen sich nicht täuschen lassen und mit Satan untergehen.](../../../content/bowls/expl/the-bowls-of-wrath/index.html)
+- [Die Siegel beschreiben eine sehr harte Zeit, aber sie entlarven die Bosheit Satans und seinen Wunsch, so viele Menschen wie möglich zu retten, bevor das Ende schnell kommt.](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [Die Posaunen zeigen die falschen Dinge, auf die die Menschen ihr Vertrauen setzen, und in der fünften und sechsten Posaune zeigen sie, dass die Ursache ihrer Probleme die Dämonen sind, an die sie sich klammern.](../../../content/trumpets/expl/the-trumpets-in-revelation)
+- [Die Schalen sind der Ort, wo Gott alles hineinlegt, damit die Menschen sich nicht täuschen lassen und mit Satan untergehen.](../../../content/bowls/expl/the-bowls-of-wrath)
 
 
 
@@ -114,9 +122,10 @@ Dazu kommen die [24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4)
 ## Zum Weiterlesen
 
 <a name="0062"></a>
-- [Die sieben Siegel](../../../content/seals/expl/the-book-with-the-seven-seals/index.html)
-<li id="6072">[Was ist Anbetung?](../../../topics/power/short/worship/index.html)</li>
+- [Die sieben Siegel](../../../content/seals/expl/the-book-with-the-seven-seals)
+- [Was ist Anbetung?](../../../topics/power/short/worship)
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/expl/worship-in-the-throne-room.de.md)
+
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/expl/worship-in-the-throne-room.de.md)

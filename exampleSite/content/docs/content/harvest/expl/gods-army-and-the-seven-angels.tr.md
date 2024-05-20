@@ -9,7 +9,7 @@ Vahiy Kitabı’ndaki 14. bölüm Kutsal Kitap’taki en şaşırtıcı bölüml
 ## 144.000
 
 <a name="181d"></a>
-Bölüm, tomarı almaya layık görülen [kuzunun ayakta durduğu 5. bölümden](../../../content/seals/expl/the-book-with-the-seven-seals/index.html) devam eder ve [bunu 144.000 kişiden bahsedilen 7. bölümle birleştirir](../../../content/army/expl/the-144000/index.html). Şimdi tahtın önünde birleşmişlerdir (1. ayette Siyon Dağı’ndan söz edilmesi göksel Yeruşalim’e bir gönderme olabilir).
+Bölüm, tomarı almaya layık görülen [kuzunun ayakta durduğu 5. bölümden](../../../content/seals/expl/the-book-with-the-seven-seals) devam eder ve [bunu 144.000 kişiden bahsedilen 7. bölümle birleştirir](../../../content/army/expl/the-144000). Şimdi tahtın önünde birleşmişlerdir (1. ayette Siyon Dağı’ndan söz edilmesi göksel Yeruşalim’e bir gönderme olabilir).
 
 144.000 kişinin alınlarında kimliklerini ve aidiyetlerini (Tanrı’ya ait olduklarını) tanımlayan kuzu ve Tanrı’nın adı vardır, bu nedenle 7. bölümdeki mühürlemenin farklı bir yansımasıdır.
 
@@ -22,11 +22,11 @@ Bu çok korkutucu bir durumdur ama Tanrı’nın halkı hâlâ ayaktadır. Tüm 
 - [çocuğu yok etmekte başarısız olur](https://www.bibleserver.com/TR/Vahiy12%3A1-6)
 - [cennetteki konumunu kaybeder](https://www.bibleserver.com/TR/Vahiy12%3A7-12)
 - [kadını yok etmeyi başaramadı](https://www.bibleserver.com/TR/Vahiy12%3A13-17)
-- [iki canavarla olan algısı ve baskısı](https://www.bibleserver.com/TR/Vahiy13) [bir felakettir](../../../content/beasts/expl/666-the-number-of-the-beast/index.html)
-- [ve azizlere karşı kazandığı zafer geri tepti](../../../content/witnesses/expl/the-two-witnesses/index.html)
+- [iki canavarla olan algısı ve baskısı](https://www.bibleserver.com/TR/Vahiy13) [bir felakettir](../../../content/beasts/expl/666-the-number-of-the-beast)
+- [ve azizlere karşı kazandığı zafer geri tepti](../../../content/witnesses/expl/the-two-witnesses)
 
 
-Sadece bu da değil, [küçük parşömenle ilgili kaderlerini de yerine getirdiler](../../../content/scroll/expl/the-little-scroll/index.html). Ama onların sırrı nedir? Burada yazıyor:
+Sadece bu da değil, [küçük parşömenle ilgili kaderlerini de yerine getirdiler](../../../content/scroll/expl/the-little-scroll). Ama onların sırrı nedir? Burada yazıyor:
 
 “[Kendilerini kadınlarla lekelememiş olanlar bunlardır. Pak kişilerdir. Kuzu nereye giderse ardısıra giderler. Tanrı’ya ve Kuzu’ya ait olacakların ilk bölümü olmak üzere insanlar arasından satın alınmışlardır. Ağızlarından hiç yalan çıkmamıştır. Kusursuzdurlar.](https://www.bibleserver.com/TR/Vahiy14%3A4-5)”
 
@@ -60,7 +60,7 @@ Mezmur, Tanrı’nın kral olduğunu ve tüm ulusların ona tapınmaya DAVET ED�
 
 İkinci melek Babil’e karşı kazanılan zaferi ilan ederken, üçüncü melek canavara boyun eğen herkes için şiddetli bir yargı uyarısı getirir. Bu aynı zamanda iki tanığın [tövbe çağrısını](https://www.bibleserver.com/TR/Vahiy11%3A3) ve [uyarı yargılarını](https://www.bibleserver.com/TR/Vahiy11%3A5) da yansıtır.
 
-Asıl soru şu: Sonuç ne olacak? Uluslar bizi dinleyecek mi? Tanıklarla ilgili hikayeden biliyoruz: [Dinleyecekler](../../../content/witnesses/expl/the-two-witnesses/index.html)
+Asıl soru şu: Sonuç ne olacak? Uluslar bizi dinleyecek mi? Tanıklarla ilgili hikayeden biliyoruz: [Dinleyecekler](../../../content/witnesses/expl/the-two-witnesses)
 
 
 ## İki hasat
@@ -72,7 +72,8 @@ Her ikisi de Yoel’de yargıya, özellikle de Vahiy’de [Yeşaya’daki intika
 
 Ancak tahıl hasadına doğru büyük bir farklılık var:
 
-<li id="aafb">144.000 kişi ilk meyve olarak adlandırılır ve bu meyve [normalde tahıldan (kuzu sunusu da dahil) alınır](https://www.bibleserver.com/TR/Levililer23%3A9-14). İlk meyve normalde [tüm hasadın ](https://www.bibleserver.com/TR/Romal%C4%B1lar11%3A16)bir rehinidir, bu nedenle tüm uluslardan kurtarılan 144.000 kişi tüm uluslardan bir ilktir.<br/> İlk meyve [teknik olarak üzümden de olabilirdi](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F22%3A29) ama bu garip bir yorum olurdu (Tanrı’nın intikamının ilk meyvesi olarak şehitler?)</li>- Bağbozumu hem toplamayı hem de ezmeyi içerirken, tahıl hasadında SADECE biçme vardır. Çünkü tahıl ya [harmanlanmayı](https://www.bibleserver.com/TR/Yeremya51%3A33), ya [değneğin yakılmasını](https://www.bibleserver.com/TR/Matta3%3A12) ya [da savrulmayı izlerken](https://www.bibleserver.com/TR/Mezmur1%3A4), [biçmek insanları Tanrı’nın Egemenliği’ne getirmenin simgesidir](https://www.bibleserver.com/TR/Markos4%3A29).
+- 144.000 kişi ilk meyve olarak adlandırılır ve bu meyve [normalde tahıldan (kuzu sunusu da dahil) alınır](https://www.bibleserver.com/TR/Levililer23%3A9-14). İlk meyve normalde [tüm hasadın ](https://www.bibleserver.com/TR/Romal%C4%B1lar11%3A16)bir rehinidir, bu nedenle tüm uluslardan kurtarılan 144.000 kişi tüm uluslardan bir ilktir. İlk meyve [teknik olarak üzümden de olabilirdi](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F22%3A29) ama bu garip bir yorum olurdu (Tanrı’nın intikamının ilk meyvesi olarak şehitler?)
+- Bağbozumu hem toplamayı hem de ezmeyi içerirken, tahıl hasadında SADECE biçme vardır. Çünkü tahıl ya [harmanlanmayı](https://www.bibleserver.com/TR/Yeremya51%3A33), ya [değneğin yakılmasını](https://www.bibleserver.com/TR/Matta3%3A12) ya [da savrulmayı izlerken](https://www.bibleserver.com/TR/Mezmur1%3A4), [biçmek insanları Tanrı’nın Egemenliği’ne getirmenin simgesidir](https://www.bibleserver.com/TR/Markos4%3A29).
 - Tahıl hasadı “bulutun üzerinde oturan ve taç giyen insanoğluna benzer biri” tarafından yapılır. Bu, [tüm ulusların kendisine tapındığı ebedi krallığı aldığı Daniel’e bir göndermedir.](https://www.bibleserver.com/TR/Daniel7%3A13-14)
 
 
@@ -82,7 +83,7 @@ Yani sonuçta uluslar için iki seçenek vardır: Yargı ya da Kurtuluş. İki t
 ## Musa’nın şarkısı
 
 <a name="e8d4"></a>
-Bir sonraki sahne bizi camdan denizin ([Kızıldeniz’in yarılması](https://www.bibleserver.com/TR/Mezmur78%3A13)), Musa’nın şarkısının ve Kuzu’nun şarkısının işaret ettiği [yeni göçün](../../../background/israel/expl/the-second-exodus/index.html) içine davet eder.
+Bir sonraki sahne bizi camdan denizin ([Kızıldeniz’in yarılması](https://www.bibleserver.com/TR/Mezmur78%3A13)), Musa’nın şarkısının ve Kuzu’nun şarkısının işaret ettiği [yeni göçün](../../../background/israel/expl/the-second-exodus) içine davet eder.
 
 “[‘Tanrı kulu Musa’nın ve Kuzu’nun ezgisini söylüyorlardı: ‹‹Her Şeye Gücü Yeten Rab Tanrı, Senin işlerin büyük ve şaşılası işlerdir. Ey ulusların kralı, Senin yolların doğru ve adildir. Ya Rab, senden kim korkmaz, Adını kim yüceltmez? Çünkü kutsal olan yalnız sensin. Bütün uluslar gelip sana tapınacaklar. Çünkü adil işlerin açıkça görüldü.](https://www.bibleserver.com/TR/Vahiy15%3A3-4)“
 
@@ -94,7 +95,8 @@ Ancak Musa’nın şarkısının 11. ayetine daha fazla baktığımızda, bunun 
 
 Tüm bu bağlantılar birlikte Mose ve Kuzu’nun Şarkısı’nın içeriğini oluşturur. Öykü şu şekilde sunulmuştur
 
-<li id="cac5">Tanrılar arasında senin gibi kim var ya RAB?</li>- Kurtuluş eylemi olarak harikalar yaratmada gösterilen
+- Tanrılar arasında senin gibi kim var ya RAB?
+- Kurtuluş eylemi olarak harikalar yaratmada gösterilen
 - onun tek Tanrı olduğunu göstererek
 - bu nedenle tüm ulusları kendisine tapınmaya getirir
 
@@ -108,4 +110,4 @@ Gazap kaseleriyle Tanrı’nın, tapınmayı reddeden ve ejderhayla canavarlara 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/expl/gods-army-and-the-seven-angels.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/expl/gods-army-and-the-seven-angels.tr.md)

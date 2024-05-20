@@ -33,7 +33,14 @@ Wir werden wie eine Armee beschrieben: Soldaten, die sich ständig Sorgen machen
 ### Reflektion
 
 <a name="7031"></a>
-<li id="d36e">In diesem Kapitel wird der Gottesdienst mit dem Krieg in Verbindung gebracht? Was bedeutet das? Mit welchen Waffen kämpfst du für diese Welt?</li><li id="b51a">Kämpfst du für diese Welt oder wartest du (vielleicht erzählst du anderen von Jesus) und wartest auf deine Erlösung?</li><li id="77d3">Kümmerst du dich um Umweltzerstörung, globale Ausbeutung, Menschenhandel und vieles mehr oder wartest du einfach darauf, dass Jesus (hoffentlich bald) wiederkommt und alles in Ordnung bringt?</li><li id="54f7">Oder meinst du im Gegenteil, es ist gut, dass es immer schlimmer wird, damit Jesus früher kommt?</li><li id="b479">Wie fühlt es sich an, ein Teil von Gottes Armee zu sein?</li><li id="4687">Gezählt zu sein bedeutet, nicht verloren zu gehen. Was bedeutet das für dich?</li><li id="b33c">Gottes Heer kommt aus der Großen Trübsal. Was wird mit deinem Glauben geschehen, wenn du herausgefordert wirst? Wird er stärker oder bröckelt er? Glaubst du, dass Gott deinen Glauben stärken kann, wenn er auf die Probe gestellt wird? Worauf stützt sich dein Glaube?</li>
+- In diesem Kapitel wird der Gottesdienst mit dem Krieg in Verbindung gebracht? Was bedeutet das? Mit welchen Waffen kämpfst du für diese Welt?
+- Kämpfst du für diese Welt oder wartest du (vielleicht erzählst du anderen von Jesus) und wartest auf deine Erlösung?
+- Kümmerst du dich um Umweltzerstörung, globale Ausbeutung, Menschenhandel und vieles mehr oder wartest du einfach darauf, dass Jesus (hoffentlich bald) wiederkommt und alles in Ordnung bringt?
+- Oder meinst du im Gegenteil, es ist gut, dass es immer schlimmer wird, damit Jesus früher kommt?
+- Wie fühlt es sich an, ein Teil von Gottes Armee zu sein?
+- Gezählt zu sein bedeutet, nicht verloren zu gehen. Was bedeutet das für dich?
+- Gottes Heer kommt aus der Großen Trübsal. Was wird mit deinem Glauben geschehen, wenn du herausgefordert wirst? Wird er stärker oder bröckelt er? Glaubst du, dass Gott deinen Glauben stärken kann, wenn er auf die Probe gestellt wird? Worauf stützt sich dein Glaube?
+
 
 
 
@@ -43,11 +50,11 @@ Wir werden wie eine Armee beschrieben: Soldaten, die sich ständig Sorgen machen
 ## Digging deeper
 
 <a name="df15"></a>
-- [Die 144.000](../../../content/army/expl/the-144000/index.html)
-- [Die große Trübsal](../../../content/army/expl/the-end-time-and-the-great-tribulation/index.html)
+- [Die 144.000](../../../content/army/expl/the-144000)
+- [Die große Trübsal](../../../content/army/expl/the-end-time-and-the-great-tribulation)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/appl/the-strange-army.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/appl/the-strange-army.de.md)

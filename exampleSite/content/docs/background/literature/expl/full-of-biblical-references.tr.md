@@ -31,11 +31,11 @@ The early readers were very well able to grasp these information as
 ## Daha fazla kazma
 
 <a name="e510"></a>
-[Beale, Revelation, sayfalar 82–83](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#1b3a)
+[Beale, Revelation, sayfalar 82–83](../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/full-of-biblical-references.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/full-of-biblical-references.tr.md)

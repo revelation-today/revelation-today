@@ -31,7 +31,7 @@ Aber es gibt ein Problem, das ihnen zum Verhängnis wird: [Bileam und die Nikola
 ## Das Problem
 
 <a name="7e5f"></a>
-Die Geschichte von [Bileam zeigt das völlige Versagen von Leiterschaf](../../../bible/keyword/expl/the-story-of-balaam/index.html)t. Das Problem der Nikolaiten ist wahrscheinlich ähnlich.
+Die Geschichte von [Bileam zeigt das völlige Versagen von Leiterschaf](../../../bible/keyword/expl/the-story-of-balaam)t. Das Problem der Nikolaiten ist wahrscheinlich ähnlich.
 
 Es gibt kein Eingreifen der Leitung in Bezug auf die falsche Lehre. Wenn man sich die Verheißungen Jesu ansieht, dann war das Problem ihr mangelnder Glaube, und auf der Suche nach Stärkung waren sie empfänglich für Lehren, die ein Leben in Glaubenskompromissen anboten.
 
@@ -57,9 +57,9 @@ Gott bietet der Gemeinde eine neue Identität an, wenn sie es will. Wenn [nicht,
 ## Zum Weiterlesen
 
 <a name="52ab"></a>
-- [Die Geschichte von Bileam](../../../content/beasts/expl/666-the-number-of-the-beast/index.html)
+- [Die Geschichte von Bileam](../../../content/beasts/expl/666-the-number-of-the-beast)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-pergamon.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-pergamon.de.md)

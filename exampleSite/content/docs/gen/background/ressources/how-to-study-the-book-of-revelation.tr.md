@@ -31,7 +31,7 @@ Daha karmaşık Kutsal Kitap referansları, satın almanız gereken literatürde
 
 Her kitap için sadece bir örnek kullandım, ancak tercih ettiğiniz yerden satın almaktan çekinmeyin.
 
-[Referans makalelerinde](../../../gen/index/expl/overview-on-the-book-of-revelation/index.html) ilgili kaynaklara bağlantılar bulacaksınız. Benim işim sadece bunları okumak, doğru materyale karar vermek ve okunması kolay bir özet yapmaktı.
+[Referans makalelerinde](../../../gen/index/expl/overview-on-the-book-of-revelation) ilgili kaynaklara bağlantılar bulacaksınız. Benim işim sadece bunları okumak, doğru materyale karar vermek ve okunması kolay bir özet yapmaktı.
 
 
 ## Anahtar kitaplar
@@ -121,8 +121,8 @@ Ayrıca bazı çevrimiçi sunumlar da var:
 ## Daha fazla okuma
 
 <a name="d89c"></a>
-- [Bazı ilgi çekici sorular ve konular var](../../../gen/index/keywords/big-topics-in-the-book-of-revelation/index.html)
-- [Malzemeye genel bir bakış elde edin](../../../gen/index/expl/overview-on-the-book-of-revelation/index.html)
+- [Bazı ilgi çekici sorular ve konular var](../../../gen/index/keywords/big-topics-in-the-book-of-revelation)
+- [Malzemeye genel bir bakış elde edin](../../../gen/index/expl/overview-on-the-book-of-revelation)
 
 
 
@@ -130,4 +130,4 @@ Ayrıca bazı çevrimiçi sunumlar da var:
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/background/ressources/how-to-study-the-book-of-revelation.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/background/ressources/how-to-study-the-book-of-revelation.tr.md)

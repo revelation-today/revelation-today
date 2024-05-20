@@ -79,13 +79,13 @@ Ancak önemli bir ayrıntı vardır: İsa yaklaşmakta olan kiliseden bahsederke
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="4ac9"></a>
-- [İsrail](../../../background/israel/expl/who-is-israel/index.html)
+- [İsrail](../../../background/israel/expl/who-is-israel)
 
 
 
@@ -93,4 +93,4 @@ Ancak önemli bir ayrıntı vardır: İsa yaklaşmakta olan kiliseden bahsederke
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/overview/appl/the-day-of-the-lord.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/overview/appl/the-day-of-the-lord.tr.md)

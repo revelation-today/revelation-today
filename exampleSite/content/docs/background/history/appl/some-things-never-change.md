@@ -72,8 +72,8 @@ And the church may wonder what can be done. And the book of Revelation gives som
 ## Digging deeper
 
 <a name="0773"></a>
-- [The historical background](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation/index.html)
-- [Israel and the church](../../../background/israel/expl/israel-and-the-church/index.html)
+- [The historical background](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [Israel and the church](../../../background/israel/expl/israel-and-the-church)
 
 
 
@@ -81,4 +81,4 @@ And the church may wonder what can be done. And the book of Revelation gives som
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/appl/some-things-never-change.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/appl/some-things-never-change.md)

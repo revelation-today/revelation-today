@@ -31,7 +31,7 @@ Ausführliche Argumentationen finden sich in der hier aufgelisteten Literatur, d
 
 Ich habe nur einen Link für jedes Buch verwendet, aber du kannst es kaufen, wo du willst.
 
-[In den Referenzartikeln](../../../gen/index/expl/overview-on-the-book-of-revelation/index.html) gehe ich in die Tiefe. Bei diesen habe ich versucht, soweit es mir möglich war, eine Referenz anzugeben, die meisten anderen Artikel sind entweder Zusammenfassungen oder Texte, bei denen ich mir nicht sicher bin, wo ich den Inhalt schon einmal gehört habe, oder Teile meines eigenen Studiums. Meine Aufgabe war es, die Bücher zu lesen, mich für die überzeugende Version zu entscheiden und hier eine leicht lesbare Zusammenfassung zu geben.
+[In den Referenzartikeln](../../../gen/index/expl/overview-on-the-book-of-revelation) gehe ich in die Tiefe. Bei diesen habe ich versucht, soweit es mir möglich war, eine Referenz anzugeben, die meisten anderen Artikel sind entweder Zusammenfassungen oder Texte, bei denen ich mir nicht sicher bin, wo ich den Inhalt schon einmal gehört habe, oder Teile meines eigenen Studiums. Meine Aufgabe war es, die Bücher zu lesen, mich für die überzeugende Version zu entscheiden und hier eine leicht lesbare Zusammenfassung zu geben.
 
 Leider ist die gesamte Literatur in englischer Sprache.
 
@@ -123,10 +123,10 @@ Und noch ein paar Online-Presentationen:
 ## Zur Vertiefung
 
 <a name="2c80"></a>
-- [Es gibt einige interessante Fragen](../../../gen/index/keywords/big-topics-in-the-book-of-revelation/index.html)
-- [Ein Überblick über das gesamte Material](../../../gen/index/expl/overview-on-the-book-of-revelation/index.html)
+- [Es gibt einige interessante Fragen](../../../gen/index/keywords/big-topics-in-the-book-of-revelation)
+- [Ein Überblick über das gesamte Material](../../../gen/index/expl/overview-on-the-book-of-revelation)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/background/ressources/how-to-study-the-book-of-revelation.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/background/ressources/how-to-study-the-book-of-revelation.de.md)

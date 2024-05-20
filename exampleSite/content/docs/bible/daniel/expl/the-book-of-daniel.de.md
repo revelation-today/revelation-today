@@ -27,7 +27,7 @@ Das Buch Daniel in der Bibel scheint aus zwei Teilen zu bestehen: Die ersten sec
 ## Der Chiasmus
 
 <a name="ef82"></a>
-Vielleicht hast du es schon selbst bemerkt: Wir haben hier einen [Chiasmus](../../../background/literature/expl/literary-tools-in-the-book-of-revelation/index.html), der die Kapitel 2 und 7, 3 und 6 und 4 und 5 mit ähnlichen Themen, aber gewissen Unterschieden verbindet.
+Vielleicht hast du es schon selbst bemerkt: Wir haben hier einen [Chiasmus](../../../background/literature/expl/literary-tools-in-the-book-of-revelation), der die Kapitel 2 und 7, 3 und 6 und 4 und 5 mit ähnlichen Themen, aber gewissen Unterschieden verbindet.
 
 Kapitel 2 und 7 beschreiben beide vier Königreiche, wobei Kapitel 2 sie in absteigender Reihenfolge beschreibt, wie sie nacheinander von einem Stein zerstört werden, während Kapitel 7 sie als Tiere beschreibt, die von Gott im Himmel unterworfen und gerichtet werden, wobei hier der Schwerpunkt auf ihrer Feindschaft gegenüber dem Volk Gottes liegt.
 
@@ -69,4 +69,4 @@ Wenn wir all dies zusammenfassen, sehen wir, wie wichtig der Glaube (jedes) Einz
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-book-of-daniel.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-book-of-daniel.de.md)

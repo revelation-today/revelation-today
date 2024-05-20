@@ -102,12 +102,15 @@ Kains Nachkommen vermehren sich und finden Zuflucht in Städten und Erfindungen.
 Er ist der erste, von dem berichtet wird, dass er zwei Frauen hat, und er macht sich über Gottes Zeichen an Kain lustig:
 
 - Er hat schon jemanden getötet, das Zeichen an Kain sollte ihn davor bewahren, jemanden zu töten.
-<li id="482e">Lamech droht mit viel größeren Konsequenzen als Gott. Ist er denn größer als Gott?</li>
+- Lamech droht mit viel größeren Konsequenzen als Gott. Ist er denn größer als Gott?
+
 
 Andererseits macht er sich lächerlich.
 
-<li id="9d02">Er prahlt nicht vor der ganzen Welt, sondern hat nur den Mut, vor seinen beiden <strong>Frauen </strong>anzugeben</li><li id="ea12">Und wer wird Lamech rächen, wenn er getötet wird? Seine Frauen?</li>
+- Er prahlt nicht vor der ganzen Welt, sondern hat nur den Mut, vor seinen beiden Frauen anzugeben
+- Und wer wird Lamech rächen, wenn er getötet wird? Seine Frauen?
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/creation/expl/the-creation.de.md)
+
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/creation/expl/the-creation.de.md)

@@ -41,7 +41,12 @@ So let’s see how this works.
 ## Reflection
 
 <a name="a821"></a>
-<li id="7383">Why do you worship God?</li><li id="a428">Can you see God’s goodness in this world? Where?</li><li id="a39c">Do you see worship as the answer to the problems of our time or something we should do?</li><li id="b1e6">How has worship changed you?</li><li id="b495">How do you worship? What does worship look like in your daily life?</li>
+- Why do you worship God?
+- Can you see God’s goodness in this world? Where?
+- Do you see worship as the answer to the problems of our time or something we should do?
+- How has worship changed you?
+- How do you worship? What does worship look like in your daily life?
+
 
 
 
@@ -51,12 +56,13 @@ So let’s see how this works.
 ## Digging deeper
 
 <a name="06f1"></a>
-- [Worship at the throne](../../../content/worship/expl/worship-in-the-throne-room/index.html)
-<li id="e42e">[What is worship?](../../../topics/power/short/worship/index.html)</li>
+- [Worship at the throne](../../../content/worship/expl/worship-in-the-throne-room)
+- [What is worship?](../../../topics/power/short/worship)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/appl/the-answer-to-all-questions.md)
+
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/appl/the-answer-to-all-questions.md)

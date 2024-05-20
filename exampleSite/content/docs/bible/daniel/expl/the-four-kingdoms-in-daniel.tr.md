@@ -75,11 +75,11 @@ Hikaye İsa’nın dünyaya gelişiyle sona ermedi, ancak bu dünya tarihinde b�
 
 Roma İmparatorluğu, İsrail üzerinde doğrudan egemenliği olan dört imparatorluğun sonuncusudur. İsa’yla yapılan yeni antlaşmadan sonra Tanrı’nın halkı tüm dünyaya yayılmıştır ve hepsini kapsayan bir imparatorluk yoktur.
 
-Daniel’in 7. bölümde daha fazlasını sorduğu 10 kral ve 3 boynuz hakkında çok fazla tartışma vardır, ancak bunları [şeytani üçlüyü](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html) ve on kralı tekrar gördüğümüz Vahiy Kitabı bağlamında tartışmalıyız.
+Daniel’in 7. bölümde daha fazlasını sorduğu 10 kral ve 3 boynuz hakkında çok fazla tartışma vardır, ancak bunları [şeytani üçlüyü](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) ve on kralı tekrar gördüğümüz Vahiy Kitabı bağlamında tartışmalıyız.
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-four-kingdoms-in-daniel.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-four-kingdoms-in-daniel.tr.md)

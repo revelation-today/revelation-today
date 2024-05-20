@@ -128,7 +128,8 @@ Diese Vorgehensweise hat mehrere Vorteile
 - Kohärenz: Symmetrie verstärkt die Einheitlichkeit
 - Vollständigkeit: der Betrachter sieht, wann sich der Kreis schließt
 - Gegenläufiger Drehpunkt: Bei einer ungeraden Anzahl von Einheiten (siehe oben) gibt es einen Drehpunkt, zu dem beide Seiten hinstreben und den sie zu einem natürlichen Brennpunkt machen. Im obigen Beispiel ist die Geschichte von Gideon der Wendepunkt.
-<li id="bccc">Gedächtnisstütze: Die Zuhörer können sich die aufeinander folgenden Punkte leichter merken (normalerweise lernen sie sie auswendig).<br/>Möglichkeit, Wiederholungen zu nutzen: Hinzufügen von Gelegenheiten zum Vergleichen, Wiederholen, Hervorheben, Erklären oder Veranschaulichen.</li>
+- Gedächtnisstütze: Die Zuhörer können sich die aufeinander folgenden Punkte leichter merken (normalerweise lernen sie sie auswendig).Möglichkeit, Wiederholungen zu nutzen: Hinzufügen von Gelegenheiten zum Vergleichen, Wiederholen, Hervorheben, Erklären oder Veranschaulichen.
+
 
 Das hat auch Nachteile:
 
@@ -197,7 +198,8 @@ Die Bedeutung könnte sein
 - Wendepunkt: Das Zentrum ist der Wendepunkt in der Geschichte, z.B. Ehud ( Judg. 3/12–30), wo der Wendepunkt darin besteht, dass er den König tötet. Auch die Gesamtstruktur der Richterbücher hat Gideon als Wendepunkt
 - Höhepunkt: dies ist auch in Ehuds Geschichte der Fall, der Punkt mit der größten Spannung
 - Mittelstück: stellt den Höhepunkt dar, z.B. Lieder 3/6–5/1 ist die Hochzeit, Chr. Zentrum ist Salomo, der Erbauer des Tempels (2.Chr.1–9)
-<li id="52ea">bedeutsame Pause (oder Zwischenspiel): bemerkenswerte Pause in der Handlung oder in der Argumentation der Komposition, um einen höchst bedeutsamen Punkt zu machen.<br/>2.Könige 2/1–8/6 ist eine Pause in der unerbittlichen, fast ununterbrochenen Aufzählung der Sünden der Könige, die durch das Wirken Elisas unterbrochen wird.<br/>Lam.3/21–32: unterbricht die unerbittliche tragische Lobrede, um über die tiefe Liebe Gottes nachzudenken.</li>
+- bedeutsame Pause (oder Zwischenspiel): bemerkenswerte Pause in der Handlung oder in der Argumentation der Komposition, um einen höchst bedeutsamen Punkt zu machen.2.Könige 2/1–8/6 ist eine Pause in der unerbittlichen, fast ununterbrochenen Aufzählung der Sünden der Könige, die durch das Wirken Elisas unterbrochen wird.Lam.3/21–32: unterbricht die unerbittliche tragische Lobrede, um über die tiefe Liebe Gottes nachzudenken.
+
 
 
 ## Wert der Strukturanalyse
@@ -208,7 +210,8 @@ Dafür gibt es viele Gründe:
 - Anerkennung der literarischen Kunstfertigkeit: Wir können das Geschick und die Sorgfalt anerkennen, die in den Text eingeflossen sind, und ein auf den ersten Blick chaotischer Text kann sich als elegantes Arrangement entpuppen.
 - Die Grenzen von Einheiten erkennen: Wir können Texte besser interpretieren, wenn wir sie strukturieren können, z.B. ist 1. Könige 1–2 das Ende von Sam. und nicht die Einleitung zum Rest des Buches Könige. Auch die 5 Bücher Mose und Josua sind eine Einheit — es war nie beabsichtigt, dass die Bücher Mose mit Israel enden, das fast zu Hause ist und die Geschichte fast abgeschlossen hat.
 - Die Entdeckung des Grundgedankens hinter der Gesamtkonstruktion einer Einheit ermöglicht ein besseres Verständnis des Textflusses, z.B. sind die beiden Geschichten von Abraham, der seine Frau belügt, mit den beiden Verheißungen an Ismael und den Wanderungen von Lots Familie verbunden. Auch im Hohelied steht die Hochzeit aus poetischen Gründen im Mittelpunkt, und die Intimität davor deutet nicht auf vorehelichen Geschlechtsverkehr hin, sondern zeigt die Anordnung als Chiasmus. Auch die Berufung Jesajas in Jes 6 scheint falsch zu sein (da dies der Anfang sein sollte), ist aber der Mittelteil von Jes 1–12.
-<li id="a101">Klärung des Verhältnisses der Teile zum Ganzen: vor allem bei längeren Einheiten kann dies helfen, den Text zu gliedern, z.B. Jes 26–35 und 40–48 erläutern ihre wechselseitige Funktion, wobei Jes 36–39 als thematisches Zentrum dazwischen gesehen wird.<br/>Wiederholungen: Wiederholungen verwirren den modernen Leser, helfen aber dem Hörer, die Struktur des Textes zu erkennen, z.B. Morgen und Abend und der x-te Tag zeigt den Abschluss eines jeden Tages in Gen.1</li>- Berücksichtigung von scheinbar unpassenden Einheiten: Einige Passagen scheinen falsch platziert zu sein, aber die strukturelle Analyse hilft, ihre Position zu verstehen, z.B. Gen 38 scheint die Geschichte Josephs zu unterbrechen, wird aber verwendet, um sein Verhalten an der Stelle Potifars zu kontrastieren. Diese ungerechte Behandlung Josephs, während Juda ungestraft davonkommt, wird im Parallelkapitel dazu führen, dass Juda verleugnet und Joseph das Erstgeburtsrecht zugesprochen wird.
+- Klärung des Verhältnisses der Teile zum Ganzen: vor allem bei längeren Einheiten kann dies helfen, den Text zu gliedern, z.B. Jes 26–35 und 40–48 erläutern ihre wechselseitige Funktion, wobei Jes 36–39 als thematisches Zentrum dazwischen gesehen wird.Wiederholungen: Wiederholungen verwirren den modernen Leser, helfen aber dem Hörer, die Struktur des Textes zu erkennen, z.B. Morgen und Abend und der x-te Tag zeigt den Abschluss eines jeden Tages in Gen.1
+- Berücksichtigung von scheinbar unpassenden Einheiten: Einige Passagen scheinen falsch platziert zu sein, aber die strukturelle Analyse hilft, ihre Position zu verstehen, z.B. Gen 38 scheint die Geschichte Josephs zu unterbrechen, wird aber verwendet, um sein Verhalten an der Stelle Potifars zu kontrastieren. Diese ungerechte Behandlung Josephs, während Juda ungestraft davonkommt, wird im Parallelkapitel dazu führen, dass Juda verleugnet und Joseph das Erstgeburtsrecht zugesprochen wird.
 - Klärung einer Einheit durch Vergleich mit ihrem Gegenstück: Die Bedeutung einer Funktion einer Einheit kann durch Vergleich mit ihrem Gegenstück verdeutlicht werden, z.B. das Dankgebet in Jona 2 für die Befreiung im Gegensatz zu seinem zornigen und nachtragenden Gebet in Jona 4 für die Befreiung des Volkes von Ninive, das Jona in Kapitel 2 als egozentrisch entlarvt.
 - Entdeckung des zentralen Punktes einer Einheit: Wenn wir den zentralen Punkt der Struktur finden, finden wir leicht die zentrale Botschaft eines Buches oder eines längeren Abschnitts.
 - Entdeckung des Themas der Komposition: Das Hauptthema wird durch die Gesamtstruktur entwickelt, z.B. das starke Thema des Götzendienstes im Vertrag am Sinai in Ex 19/3–4.Mo 10/10 oder die Gegenseitigkeit im Hohelied der Liebe.
@@ -216,4 +219,4 @@ Dafür gibt es viele Gründe:
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literary-tools-in-the-book-of-revelation.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literary-tools-in-the-book-of-revelation.de.md)

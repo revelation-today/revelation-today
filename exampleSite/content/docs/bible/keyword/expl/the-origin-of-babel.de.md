@@ -44,4 +44,4 @@ In der Offenbarung hat Babel starke Verbindungen zum Buch Babel.
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-origin-of-babel.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-origin-of-babel.de.md)

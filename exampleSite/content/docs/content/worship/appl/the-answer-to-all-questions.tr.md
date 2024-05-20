@@ -41,22 +41,28 @@ Bakalım nasıl çalışacak.
 ### Yansıma
 
 <a name="36a8"></a>
-<li id="d366">Tanrı’ya neden ibadet ediyorsunuz?</li><li id="02f9">Bu dünyada Tanrı’nın iyiliğini görebiliyor musunuz? Nerede?</li><li id="c34a">İbadeti zamanımızın sorunlarına bir cevap olarak mı yoksa yapmamız gereken bir şey olarak mı görüyorsunuz?</li><li id="1d5e">İbadet sizi nasıl değiştirdi?</li><li id="7099">Siz nasıl ibadet ediyorsunuz? İbadet günlük yaşamınızda nasıl görünüyor?</li>
+- Tanrı’ya neden ibadet ediyorsunuz?
+- Bu dünyada Tanrı’nın iyiliğini görebiliyor musunuz? Nerede?
+- İbadeti zamanımızın sorunlarına bir cevap olarak mı yoksa yapmamız gereken bir şey olarak mı görüyorsunuz?
+- İbadet sizi nasıl değiştirdi?
+- Siz nasıl ibadet ediyorsunuz? İbadet günlük yaşamınızda nasıl görünüyor?
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="3254"></a>
-- [Tahtta ibadet](../../../content/worship/expl/worship-in-the-throne-room/index.html)
-<li id="7872">[İbadet nedir?](../../../topics/power/short/worship/index.html)</li>
+- [Tahtta ibadet](../../../content/worship/expl/worship-in-the-throne-room)
+- [İbadet nedir?](../../../topics/power/short/worship)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/appl/the-answer-to-all-questions.tr.md)
+
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/appl/the-answer-to-all-questions.tr.md)

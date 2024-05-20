@@ -23,7 +23,8 @@ Gott hat den Menschen als Beziehungswesen geschaffen. Jeder von uns ist direkt o
 
 - Zeit mit uns verbringen,
 - ermutigen, loben, trösten, lieben, vertrauen, Orientierung geben, …,
-<li id="a397">uns motivieren, unser Bestes zu geben (Kinder, Partner, …),<br/>…</li>
+- uns motivieren, unser Bestes zu geben (Kinder, Partner, …),…
+
 
 Selbst egoistische und böse Menschen brauchen Beziehungen, und sei es nur, um gefürchtet, beneidet oder gehasst zu werden.
 
@@ -130,7 +131,9 @@ Aber lass dich nicht täuschen. In diesem Szenario halten wir die Götzen für G
 Wenn du wissen willst, ob du einen Götzen hast, hier eine kleine Checkliste:
 
 - Worauf setzt du deine Hoffnung, wenn es schwierig wird — ehrlich!
-<li id="898e">In was investierst du die meiste Zeit, das meiste Geld und andere Ressourcen und was erwartest du dir davon?</li><li id="dbb7">Wofür würdest du deine Gesundheit, deinen Schlaf, dein Wohlbefinden oder sogar dein Leben riskieren oder sogar aufgeben, wenn es kritisch wird?</li>
+- In was investierst du die meiste Zeit, das meiste Geld und andere Ressourcen und was erwartest du dir davon?
+- Wofür würdest du deine Gesundheit, deinen Schlaf, dein Wohlbefinden oder sogar dein Leben riskieren oder sogar aufgeben, wenn es kritisch wird?
+
 
 Nun, wenn die Antwort “Für eine tiefere Beziehung zu Gott” lautet, dann bist du auf dem richtigen Weg. Wenn nicht, dann bist du vielleicht einfach nur kompromisslos ehrlich und das ist der erste Schritt in die richtige Richtung.
 
@@ -139,4 +142,4 @@ Wenn die Beziehung zu Gott das Wichtigste ist und nicht das Werkzeug, um seinen 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/worship.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/worship.de.md)

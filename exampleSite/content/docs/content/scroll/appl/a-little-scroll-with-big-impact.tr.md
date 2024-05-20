@@ -22,7 +22,8 @@ Burada, elinde bir tomarla (“küçük” terimi kafanızı karıştırmasın) 
 Bu plana bakmadan önce, bazı önemli gözlemler var:
 
 - Meleğin bir ayağı denizde, bir ayağı da yeryüzündedir: bu alanlar üzerindeki hakimiyetini ve kontrolünü gösterir. Buralar şeytanın iki canavarı çağırdığı ve kilisenin korkmasına gerek olmayan, canavarın bile nüfuz edemediği iki yerdir.
-<li id="8ef5">Tanrı’nın gizemi açığa çıkar. Bölüm 1'deki kilisenin gizeminden sonra, şimdi de 17. bölümde şeytanın gizemini görüyoruz. Tanrı’nın gizemi nedir ve kiliseyi nasıl etkiler?</li>- Yuhanna’nın tomarı yemesi gerekir ve tomar ağızda tatlı ama midede acıdır: Sonuçta tomar iyi haberdir, bunu birazdan göreceğiz, ama aynı zamanda acı ile bağlantılı olduğu için acıdır. Ancak acı yiyecekler iyi bir sindirim için yararlıdır: Yani kiliseden sadece bir şey yapması istenmiyor, aynı zamanda bu kilisenin kendi yararına da olacaktır.
+- Tanrı’nın gizemi açığa çıkar. Bölüm 1'deki kilisenin gizeminden sonra, şimdi de 17. bölümde şeytanın gizemini görüyoruz. Tanrı’nın gizemi nedir ve kiliseyi nasıl etkiler?
+- Yuhanna’nın tomarı yemesi gerekir ve tomar ağızda tatlı ama midede acıdır: Sonuçta tomar iyi haberdir, bunu birazdan göreceğiz, ama aynı zamanda acı ile bağlantılı olduğu için acıdır. Ancak acı yiyecekler iyi bir sindirim için yararlıdır: Yani kiliseden sadece bir şey yapması istenmiyor, aynı zamanda bu kilisenin kendi yararına da olacaktır.
 
 
 
@@ -37,17 +38,21 @@ Bu kilisenin tanıklığıdır. Tanıklıktan kastım iyi bir yaşam tarzı değ
 ### Yansıma
 
 <a name="4b6d"></a>
-<li id="23f8">Acı çekmeye hazır olmayan kilisenin üstesinden gelebileceğini düşünüyor musunuz?</li><li id="c316">Bu dünyanın güçleri sizi bunaltıyor mu yoksa haberlerde bildirilenler ve dünyada olup bitenler ne olursa olsun Tanrı’ya güveniyor musunuz?</li><li id="9ace">Hayatınızda daha fazlası olduğunu ve öne çıkma zamanınızın geldiğini düşünüyor musunuz?</li><li id="fe51">Hayatınızda bir çağrı var ama emin değil misiniz ve bunun için gerçekten hiç gitmediniz mi?</li>
+- Acı çekmeye hazır olmayan kilisenin üstesinden gelebileceğini düşünüyor musunuz?
+- Bu dünyanın güçleri sizi bunaltıyor mu yoksa haberlerde bildirilenler ve dünyada olup bitenler ne olursa olsun Tanrı’ya güveniyor musunuz?
+- Hayatınızda daha fazlası olduğunu ve öne çıkma zamanınızın geldiğini düşünüyor musunuz?
+- Hayatınızda bir çağrı var ama emin değil misiniz ve bunun için gerçekten hiç gitmediniz mi?
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="9655"></a>
-- [Küçük parşömen](../../../content/scroll/expl/the-little-scroll/index.html)
+- [Küçük parşömen](../../../content/scroll/expl/the-little-scroll)
 
 
 
@@ -55,4 +60,4 @@ Bu kilisenin tanıklığıdır. Tanıklıktan kastım iyi bir yaşam tarzı değ
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/appl/a-little-scroll-with-big-impact.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/appl/a-little-scroll-with-big-impact.tr.md)

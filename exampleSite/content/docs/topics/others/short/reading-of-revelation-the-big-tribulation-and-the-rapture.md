@@ -49,9 +49,9 @@ The hope of Christians should not be that we will be relieved of our tribulation
 ## Digging deeper
 
 <a name="ac9e"></a>
-- [The story of Jesus](../../../content/jesus/expl/a-different-christmas-story/index.html)
-- [The Big Tribulation](../../../content/army/expl/the-end-time-and-the-great-tribulation/index.html)
-- [The Rapture](../../../topics/others/expl/the-rapture/index.html)
+- [The story of Jesus](../../../content/jesus/expl/a-different-christmas-story)
+- [The Big Tribulation](../../../content/army/expl/the-end-time-and-the-great-tribulation)
+- [The Rapture](../../../topics/others/expl/the-rapture)
 
 
 
@@ -59,4 +59,4 @@ The hope of Christians should not be that we will be relieved of our tribulation
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture.md)

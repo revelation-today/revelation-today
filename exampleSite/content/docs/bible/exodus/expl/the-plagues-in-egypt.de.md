@@ -163,11 +163,11 @@ Doch davor wurde
 ## Tur Vertiefung
 
 <a name="2578"></a>
-- [Wie alles begann](../../../bible/exodus/expl/the-story-before-the-exodus/index.html)
-- [Ein anderer Held](../../../bible/exodus/expl/the-birth-of-moses/index.html)
-- [Die Verhärtung des Herzen](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart/index.html)
+- [Wie alles begann](../../../bible/exodus/expl/the-story-before-the-exodus)
+- [Ein anderer Held](../../../bible/exodus/expl/the-birth-of-moses)
+- [Die Verhärtung des Herzen](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-plagues-in-egypt.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-plagues-in-egypt.de.md)

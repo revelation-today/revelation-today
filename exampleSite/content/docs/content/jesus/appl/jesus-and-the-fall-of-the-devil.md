@@ -51,7 +51,11 @@ We can be weak and feel helpless (and it’s okay to allow those feelings), but 
 ### Reflection
 
 <a name="e9a1"></a>
-<li id="1000">Can you take some time and let this story play out? Try to imagine it! Feel with all the characters!</li><li id="220a">Do you know similar stories in the Bible where the weak overcome?</li><li id="526a">What does it mean to you to see Satan thrown out of heaven, but creating as much chaos as possible because he has so little time? How does this affect your life as a Christian?</li><li id="70fa">Can you see Satan as the perpetual loser in the world around you?</li>
+- Can you take some time and let this story play out? Try to imagine it! Feel with all the characters!
+- Do you know similar stories in the Bible where the weak overcome?
+- What does it mean to you to see Satan thrown out of heaven, but creating as much chaos as possible because he has so little time? How does this affect your life as a Christian?
+- Can you see Satan as the perpetual loser in the world around you?
+
 
 
 
@@ -61,11 +65,11 @@ We can be weak and feel helpless (and it’s okay to allow those feelings), but 
 ## Digging deeper
 
 <a name="06f1"></a>
-- [Overview in Daniel](../../../bible/daniel/expl/the-book-of-daniel/index.html)
-- [The four kingdoms](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html)
-- [The 70 years](../../../bible/daniel/expl/the-70-year-weeks/index.html)
-- [The 3,5 years](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
-- [Christ is born](../../../content/jesus/expl/a-different-christmas-story/index.html)
+- [Overview in Daniel](../../../bible/daniel/expl/the-book-of-daniel)
+- [The four kingdoms](../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
+- [The 70 years](../../../bible/daniel/expl/the-70-year-weeks)
+- [The 3,5 years](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+- [Christ is born](../../../content/jesus/expl/a-different-christmas-story)
 
 
 
@@ -73,4 +77,4 @@ We can be weak and feel helpless (and it’s okay to allow those feelings), but 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/appl/jesus-and-the-fall-of-the-devil.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/appl/jesus-and-the-fall-of-the-devil.md)

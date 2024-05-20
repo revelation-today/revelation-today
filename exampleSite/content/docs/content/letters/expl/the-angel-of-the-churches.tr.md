@@ -51,8 +51,8 @@ Ayrıca
 ## Daha fazla okuma
 
 <a name="cbe4"></a>
-- [Kiliseler için mektup](../../../content/letters/expl/the-letters-to-the-seven-churches/index.html)
-- [Bir kahraman nedir](../../../topics/hero/short/a-real-hero/index.html)
+- [Kiliseler için mektup](../../../content/letters/expl/the-letters-to-the-seven-churches)
+- [Bir kahraman nedir](../../../topics/hero/short/a-real-hero)
 
 
 
@@ -60,4 +60,4 @@ Ayrıca
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-angel-of-the-churches.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-angel-of-the-churches.tr.md)

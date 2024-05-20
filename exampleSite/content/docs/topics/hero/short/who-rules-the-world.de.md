@@ -12,9 +12,9 @@ Die Offenbarung gibt uns ein sehr verwirrendes Bild davon, wer eigentlich die We
 Als Jesus am Kreuz starb, war Satan besiegt. Das wurde uns gesagt, aber es scheint, das sich nichts geändert hat. [Vielleicht ist es sogar schlimmer geworden](https://www.bibleserver.com/SLT/Offenbarung12%2C12).
 
 - Jesu Lehre klingt nach nicht erreichbaren Idealen.
-- Böse Reiche regieren immer noch trotz [Prophetien](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html).
+- Böse Reiche regieren immer noch trotz [Prophetien](../../../bible/daniel/expl/the-four-kingdoms-in-daniel).
 - Die Welt ist nicht christlicher geworden, aber die Christen sind weltlicher geworden.
-- [Die Gemeinde scheint oft nicht die Lösung, sondern Teil des Problems zu sein](../../../topics/church/appl/what-is-wrong-with-the-church/index.html)
+- [Die Gemeinde scheint oft nicht die Lösung, sondern Teil des Problems zu sein](../../../topics/church/appl/what-is-wrong-with-the-church)
 
 
 Was ist also los? Ist etwas völlig schief gelaufen? Wir müssen genauer hinschauen.
@@ -54,15 +54,15 @@ Deshalb müssen wir diese Spannung aushalten.
 ## Die Spannung aushalten
 
 <a name="25a9"></a>
-Diese Spannung zeigt sich in der Offenbarung in der gleichzeitigen Beschreibung von [uns als Könige](https://www.bibleserver.com/SLT/Offenbarung1%2C6)n und der [uneingeschränkten Autorität der Zeugen](../../../content/witnesses/expl/the-two-witnesses/index.html) einerseits und der [unbestrittenen Herrschaft des Tieres andererseits, das selbst die Gemeinde überwindet](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html).
+Diese Spannung zeigt sich in der Offenbarung in der gleichzeitigen Beschreibung von [uns als Könige](https://www.bibleserver.com/SLT/Offenbarung1%2C6)n und der [uneingeschränkten Autorität der Zeugen](../../../content/witnesses/expl/the-two-witnesses) einerseits und der [unbestrittenen Herrschaft des Tieres andererseits, das selbst die Gemeinde überwindet](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
 
 Der Schlüssel zum Verständnis ist, dass beide unterschiedlich regieren. Satan mit den Tieren regiert durch Unterdrückung, die Zeugen durch ihr Zeugnis und ihre Treue bis in den Tod.
 
 Satan zwingt die Menschen zur Unterwerfung, die Zeugen beeinflussen die Menschen tief, um ihr Leben zu verändern.
 
-Das wird deutlich im [Tausendjährigen Reich und in der Tatsache, dass es die Zeugen sind, die darin regieren](../../../content/1000y/expl/the-thousand-year-kingdom/index.html).
+Das wird deutlich im [Tausendjährigen Reich und in der Tatsache, dass es die Zeugen sind, die darin regieren](../../../content/1000y/expl/the-thousand-year-kingdom).
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/who-rules-the-world.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/who-rules-the-world.de.md)

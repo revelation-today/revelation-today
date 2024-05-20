@@ -37,4 +37,4 @@ Nahum Sarna, Exodus, pages 15–26
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-story-before-the-exodus.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-story-before-the-exodus.md)

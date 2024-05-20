@@ -159,17 +159,19 @@ The book is not
 ## Further reading
 
 <a name="253e"></a>
-<li id="0810">[Is all literal or symbolic or what?](../../../background/literature/expl/literally-or-symbolic/index.html)</li><li id="1d4c">[What is the historic background?](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation/index.html)</li>
+- [Is all literal or symbolic or what?](../../../background/literature/expl/literally-or-symbolic)
+- [What is the historic background?](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+
 
 
 ## Digging deeper
 
 <a name="4529"></a>
-[Goreman, Reading Revelation Responsibly, pages 10–56](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#1f44)
+[Goreman, Reading Revelation Responsibly, pages 10–56](../../../gen/background/ressources/how-to-study-the-book-of-revelation#1f44)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/the-book-of-revelation-how-to-read-it.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/the-book-of-revelation-how-to-read-it.md)

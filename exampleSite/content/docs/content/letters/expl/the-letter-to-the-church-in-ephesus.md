@@ -66,4 +66,4 @@ Gordon Fee, Revelation, page 24
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-ephesus.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-ephesus.md)

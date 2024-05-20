@@ -3,7 +3,7 @@ title: "Der Bund Gottes"
 ---
 
 
-Damals war es [notwendig, Teil einer Familie zu sein (Versorgung Schutz, …) und in einer einflußreichen Familie zu sein war noch besser](../../../background/israel/expl/the-role-of-family-in-the-bible/index.html).
+Damals war es [notwendig, Teil einer Familie zu sein (Versorgung Schutz, …) und in einer einflußreichen Familie zu sein war noch besser](../../../background/israel/expl/the-role-of-family-in-the-bible).
 
 Doch wie wird man Teil einer Familie? Durch Heirat, Geburt, Adoption oder durch einen BUND.
 
@@ -88,4 +88,4 @@ Die Bibel verwendet das Wort “heset” = “Bundestreue“, was ein Wort ist d
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/gods-covenant.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/gods-covenant.de.md)

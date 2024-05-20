@@ -62,4 +62,4 @@ He has the potential to heal and restore evil people as he is not afraid to get 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/a-real-hero.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/a-real-hero.md)

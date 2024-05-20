@@ -9,8 +9,8 @@ In [Revelation chapter 11](https://www.bibleserver.com/NIV/Revelation11) of the 
 ## You may want to read before
 
 <a name="0926"></a>
-- [The 3,5 years](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
-- [The two beasts](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)
+- [The 3,5 years](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+- [The two beasts](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 
 
 
@@ -34,7 +34,7 @@ There is much dispute as to who the witnesses are: They could be
 
 The text itself gives us the clue. [“ They are ‘the two olive trees’ and the two lampstands, and ‘they stand before the Lord of the earth](https://www.bibleserver.com/NIV/Revelation11%3A4)’”. This is a reference to the [prophet Zechariah](https://www.bibleserver.com/NIV/Zechariah4%3A2-14) (where it is identified with the high priest Joshua and the descendant of David: Zerubbabel), but also a reference [to the seven churches which are identified with the lampstands](https://www.bibleserver.com/NIV/Revelation1%3A20).
 
-This is further confirmed by our discussion of the [3.5 years](https://www.bibleserver.com/NIV/Revelation11%3A3), which [refers to the entire time between Jesus first and second coming](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html), so we have to assume that these are not people, but the Church itself.
+This is further confirmed by our discussion of the [3.5 years](https://www.bibleserver.com/NIV/Revelation11%3A3), which [refers to the entire time between Jesus first and second coming](../../../bible/daniel/expl/the-secret-of-the-3-5-years), so we have to assume that these are not people, but the Church itself.
 
 There are many ways to associate them with specific persons, but the best match is Moses and Elijah, as they reflect well the miracles, [letting fire fall from heaven on their enemies](https://www.bibleserver.com/NIV/Revelation11%3A5) is very typical of [Elijah](https://www.bibleserver.com/NIV/1%20Kings1), as well as [stopping the rain](https://www.bibleserver.com/NIV/Revelation11%3A6) which [reflects Elijah’s ministry](https://www.bibleserver.com/NIV/James5%3A17), while turning [water into blood](https://www.bibleserver.com/NIV/Revelation11%3A6) reflects [the first plague under Moses](https://www.bibleserver.com/NIV/Exodus7%3A14-24).
 
@@ -62,7 +62,7 @@ origin
 
 
 Identity (with Daniel)
-[Animal with seven horns](https://www.bibleserver.com/NIV/Revelation13%2C1) -> continuation and power of the realms
+[Animal with seven horns](https://www.bibleserver.com/NIV/Revelation13%2C1) -&gt; continuation and power of the realms
 [Animal with two horns like lamb/son of man](https://www.bibleserver.com/NIV/Revelation13%2C11)
 
 
@@ -86,7 +86,7 @@ Signs and worship.
 <td>[Who is like the beast(strong like it)](https://www.bibleserver.com/NIV/Revelation13%2C4)</td></tr>
 [great blasphemies against God and His people](https://www.bibleserver.com/NIV/Revelation13%2C5-6).
 			
-<td>[Power image of the beast](https://www.bibleserver.com/NIV/Revelation13%2C14) (man is made in the image of God -> man is representative of God)</td>
+<td>[Power image of the beast](https://www.bibleserver.com/NIV/Revelation13%2C14) (man is made in the image of God -&gt; man is representative of God)</td>
 [Can give life so animal can speak](https://www.bibleserver.com/NIV/Revelation13%2C14-15) <span style="color:green;">but only God can give life</span>. 
 			
 
@@ -151,7 +151,7 @@ So when you look at your life as a believer, which category do you fall into? Ar
 ## Further readings
 
 <a name="19be"></a>
-- [The power of testimony](../../../topics/power/short/the-power-of-testimony/index.html)
+- [The power of testimony](../../../topics/power/short/the-power-of-testimony)
 
 
 
@@ -169,4 +169,4 @@ Bauckham, The climax of Prophecy, pages 266–283
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/expl/the-two-witnesses.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/expl/the-two-witnesses.md)

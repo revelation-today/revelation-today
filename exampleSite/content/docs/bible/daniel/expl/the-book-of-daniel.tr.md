@@ -62,7 +62,8 @@ Bu da kitabın merkezinin bu 6 bölüm olduğu perspektifini vermektedir (1. bö
 Hikâyenin birbiriyle örtüşen birkaç boyutu var:
 
 - Daniel ve arkadaşlarının iman öyküsü ve kurtuluşları, İsrail’in öyküsü ve varislerinin kurtuluşu
-<li id="09e7">dünyevi güçler ve onların çöküşü, <br/>Babil kralının ve imparatorluğunun ([altının başı](https://www.bibleserver.com/TR/Daniel2%3A38)) ya da Tanrı’nın yönetimindeki diğer tüm krallıkların (bölüm [2](https://www.bibleserver.com/TR/Daniel2%3A45) ve [7](https://www.bibleserver.com/TR/Daniel7)) çöküşü olsun ya da<br/>Deccal’den (Makabe savaşıyla IV. Antiochus Epiphanes) dünyevi kurtuluş, daha sonra Roma imparatorluğu tarafından boyun eğmeye yol açar</li>- Tüm dünyanın tanrısal kurtuluşu ve [Tanrı’nın sonsuza dek tutan gizemli yolundaki](https://www.bibleserver.com/TR/Daniel2%3A45) [imparatorlukları](https://www.bibleserver.com/TR/Daniel2%3A45)
+- dünyevi güçler ve onların çöküşü, Babil kralının ve imparatorluğunun ([altının başı](https://www.bibleserver.com/TR/Daniel2%3A38)) ya da Tanrı’nın yönetimindeki diğer tüm krallıkların (bölüm [2](https://www.bibleserver.com/TR/Daniel2%3A45) ve [7](https://www.bibleserver.com/TR/Daniel7)) çöküşü olsun ya daDeccal’den (Makabe savaşıyla IV. Antiochus Epiphanes) dünyevi kurtuluş, daha sonra Roma imparatorluğu tarafından boyun eğmeye yol açar
+- Tüm dünyanın tanrısal kurtuluşu ve [Tanrı’nın sonsuza dek tutan gizemli yolundaki](https://www.bibleserver.com/TR/Daniel2%3A45) [imparatorlukları](https://www.bibleserver.com/TR/Daniel2%3A45)
 
 
 Tüm bunları bir araya getirmek, dünyanın ebedi kaderinde (her bir) tek kişinin inancının önemini gösterir. Tanrı, bireylerin ince eylemleriyle hareket eder ve yenilmez bir krallık ortaya çıkarır.
@@ -72,4 +73,4 @@ Tüm bunları bir araya getirmek, dünyanın ebedi kaderinde (her bir) tek kişi
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-book-of-daniel.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-book-of-daniel.tr.md)

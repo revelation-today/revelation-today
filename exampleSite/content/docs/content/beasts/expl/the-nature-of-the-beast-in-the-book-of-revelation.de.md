@@ -19,11 +19,12 @@ Eines der ersten Dinge, die den Menschen durch den Kopf gehen, wenn sie vom Buch
 ## Ein Sack voller Referenzen
 
 <a name="78d1"></a>
-In den vorhergehenden Versen wird der Angriff des Drachen auf [das Kind (Jesus) ](../../../content/jesus/expl/a-different-christmas-story/index.html)und seine Mutter beschrieben, und als er an beiden scheitert, ruft er zwei Tiere herbei, die noch näher beschrieben werden.
+In den vorhergehenden Versen wird der Angriff des Drachen auf [das Kind (Jesus) ](../../../content/jesus/expl/a-different-christmas-story)und seine Mutter beschrieben, und als er an beiden scheitert, ruft er zwei Tiere herbei, die noch näher beschrieben werden.
 
 - Der erste Bezug geht auf das Buch Hiob zurück und beschreibt die Ungeheuer [Behemoth](https://www.bibleserver.com/SLT/Hiob40%2C15-24) und [Leviathan](https://www.bibleserver.com/SLT/Hiob41%2C1-26), die Tiere vom Land und der See (ebenso wie in diesem Kapitel). Sie sind für die Menschen unbesiegbar, [nicht aber für Gott](https://www.bibleserver.com/SLT/Jesaja27%2C1). Außerdem ist [Leviathan für Gott nur ein Spielzeug](https://www.bibleserver.com/SLT/Psalm104%2C26).
 - Eine vergleichbare Szene findet sich in der Offenbarung, wo [der Engel seinen Fuß auf Land und Meer setzt](https://www.bibleserver.com/SLT/Offenbarung10%2C3) und damit seine Souveränität über beide ausdrückt.
-<li id="bd18">Das erste Tier lehnt sich an die Beschreibung von [Daniels](https://www.bibleserver.com/SLT/Daniel7) an: das erste wie ein Löwe, das zweite wie ein Bär, das dritte wie ein Panther. Alle zusammen haben 7 Köpfe (das dritte hat 4, die anderen je einen). Das vierte hat 10 Kronen, das sind [10 Könige](https://www.bibleserver.com/SLT/Daniel7%2C24), was diese Beschreibung mit der [Hure](https://www.bibleserver.com/SLT/Offenbarung17%2C12) verbindet. Aber warum wird das Tier mit dem von Danel beschrieben? Wenn man den Text dort zu Ende liest, sieht man, dass dieses unbesiegbare Tier am Ende doch besiegt wird.</li>- Die nächste Parallele findet sich ebenfalls in Daniel, in der [Geschichte von seinen Freunden im Feuerofen](https://www.bibleserver.com/SLT/Daniel3). Dort wird die Geschichte von dem zweiten Tier erzählt. Dort gibt es auch ein Standbild, das angebetet werden muss, und die Menschen werden bestraft, wenn sie das nicht tun und mit Feuer getötet, und wir haben sogar eine [666](https://www.bibleserver.com/SLT/Daniel3%2C1) in dieser Geschichte. Am Ende werden [Daniels Freunde gerettet und der König erkennt Gott an und befördert die Freunde](https://www.bibleserver.com/SLT/Daniel3%2C28-30).
+- Das erste Tier lehnt sich an die Beschreibung von [Daniels](https://www.bibleserver.com/SLT/Daniel7) an: das erste wie ein Löwe, das zweite wie ein Bär, das dritte wie ein Panther. Alle zusammen haben 7 Köpfe (das dritte hat 4, die anderen je einen). Das vierte hat 10 Kronen, das sind [10 Könige](https://www.bibleserver.com/SLT/Daniel7%2C24), was diese Beschreibung mit der [Hure](https://www.bibleserver.com/SLT/Offenbarung17%2C12) verbindet. Aber warum wird das Tier mit dem von Danel beschrieben? Wenn man den Text dort zu Ende liest, sieht man, dass dieses unbesiegbare Tier am Ende doch besiegt wird.
+- Die nächste Parallele findet sich ebenfalls in Daniel, in der [Geschichte von seinen Freunden im Feuerofen](https://www.bibleserver.com/SLT/Daniel3). Dort wird die Geschichte von dem zweiten Tier erzählt. Dort gibt es auch ein Standbild, das angebetet werden muss, und die Menschen werden bestraft, wenn sie das nicht tun und mit Feuer getötet, und wir haben sogar eine [666](https://www.bibleserver.com/SLT/Daniel3%2C1) in dieser Geschichte. Am Ende werden [Daniels Freunde gerettet und der König erkennt Gott an und befördert die Freunde](https://www.bibleserver.com/SLT/Daniel3%2C28-30).
 
 
 Auf den ersten Blick scheinen der Drache und die Tiere unbesiegbar zu sein, aber alle Verweise deuten darauf hin, dass der Drache verlieren wird, wenn er auf Gott und sein Volk trifft.
@@ -53,29 +54,14 @@ Das erste Tier repräsentiert die [Gesamtheit aller Reiche aus Daniel](https://w
 Wenn wir den Kontext betrachten, sehen wir, dass diese Geschichte nach dem fehlgeschlagenen Angriff Satans auf das Kind und die Frau (Jesus und Israel) und seinem Sturz aus dem Himmel spielt. Jetzt ist er wütend und versammelt zwei Tiere, um die Nachkommen Jesu, die Gemeinde, zu vernichten.
 
 Schauen wir uns die beiden Tiere genauer an. Sie wirken zusammen und ergänzen sich gegenseitig.
-<table style="table-layout: fixed; width: 100%">
-<thead>
-<th>Thema</th><th>Erstes Tier</th><th>Zweites Tier</th>
-</thead>
-<tbody>
-<tr>
-<td style="width:20%;">Ursprung</td>
-<td style="width:40%;">[Aus der See](https://www.bibleserver.com/SLT/Offenbarung13%2C1)</td>
-<td style="width:40%;">[Von der Erde](https://www.bibleserver.com/SLT/Offenbarung13%2C11)</td>
-</tr>
-<tr>
-<td>Identität (mit Daniel)</td>
-<td>[Tier mit sieben Hörnern](https://www.bibleserver.com/SLT/Offenbarung13%2C1) -> Fortsetzung und Macht der Reiche</td>
-<td>[Tier mit zwei Hörnern wie Lamm/Menschensohn](https://www.bibleserver.com/SLT/Offenbarung13%2C11)</td>
-</tr>
-<tr>
-<td>Macht</td>
-<td>[Drache gibt Macht und Thron](https://www.bibleserver.com/SLT/Offenbarung13%2C2)</td>
-<td>[Regiert in Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C12)</td>
-</tr>
-<tr>
-<td>Zeichen und Anbetung</td>
-<td>[Tödliche Wunde ist geheilt](https://www.bibleserver.com/SLT/Offenbarung13%2C3)</td></tr></tbody></table>
+
+
+| Thema | Erstes Tier | Zweites Tier |
+|-------|-------------|--------------|
+| Ursprung | [Aus der See](https://www.bibleserver.com/SLT/Offenbarung13%2C1) | [Von der Erde](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
+| Identität (mit Daniel) | [Tier mit sieben Hörnern](https://www.bibleserver.com/SLT/Offenbarung13%2C1) -> Fortsetzung und Macht der Reiche | [Tier mit zwei Hörnern wie Lamm/Menschensohn](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
+| Macht | [Drache gibt Macht und Thron](https://www.bibleserver.com/SLT/Offenbarung13%2C2) | [Regiert in Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C12) |
+| Zeichen und Anbetung | [Tödliche Wunde ist geheilt](https://www.bibleserver.com/SLT/Offenbarung13%2C3) |
 [Ganze Erde ist erstaunt](https://www.bibleserver.com/SLT/Offenbarung13%2C3)
 [Beten Drache an, der Macht dem Tier gegeben hat](https://www.bibleserver.com/SLT/Offenbarung13%2C4)
 
@@ -89,7 +75,7 @@ Schauen wir uns die beiden Tiere genauer an. Sie wirken zusammen und ergänzen s
 <td>[Wer ist wie das Tier(stark wie es)](https://www.bibleserver.com/SLT/Offenbarung13%2C4)</td></tr>
 [große Lästerungen gegen Gott und sein Volk](https://www.bibleserver.com/SLT/Offenbarung13%2C5-6)
 
-<td>[Macht Bild des Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14) (Mensch ist im Bilde Gottes gemacht -> Mensch ist Stellvertreter Gottes)</td>
+<td>[Macht Bild des Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14) (Mensch ist im Bilde Gottes gemacht -&gt; Mensch ist Stellvertreter Gottes)</td>
 [Kann Leben geben, so dass Tier sprechen kann](https://www.bibleserver.com/SLT/Offenbarung13%2C14-15) <span style="color:green;">, aber nur Gott kann Leben geben</span>
 <tr>
 <td>Überwindet Heilige</td>
@@ -135,7 +121,10 @@ Zunächst einige Beobachtungen
 
 In all dem sehen wir, dass Satan eine böse Dreieinigkeit aufbaut mit
 
-<li id="907c">dem <strong>Drachen</strong>, der Gott den <strong>Vater </strong>nachahmt, der alle Macht hat</li><li id="b013">dem <strong>ersten Tier</strong>, das eine Auferstehung erlebt und Macht über alle Völker hat, wie <strong>Jesus</strong>, und das unterstützt wird von</li><li id="a98d">dem <strong>zweiten Tier</strong>, das alle dazu bringt, das erste Tier anzubeten, so wie der <strong>Heilige Geist </strong>alle dazu bringen will, Jesus anzubeten. Das Tier tut auch Zeichen und Wunder, die nur durch den Heiligen Geist geschehen können, z.B. Tote zum Leben erwecken.</li>
+- dem Drachen, der Gott den Vater nachahmt, der alle Macht hat
+- dem ersten Tier, das eine Auferstehung erlebt und Macht über alle Völker hat, wie Jesus, und das unterstützt wird von
+- dem zweiten Tier, das alle dazu bringt, das erste Tier anzubeten, so wie der Heilige Geist alle dazu bringen will, Jesus anzubeten. Das Tier tut auch Zeichen und Wunder, die nur durch den Heiligen Geist geschehen können, z.B. Tote zum Leben erwecken.
+
 
 
 | Der Drache und die beiden Tiere | Vater, Sohn und Heiliger Geist |
@@ -154,7 +143,13 @@ In all dem sehen wir, dass Satan eine böse Dreieinigkeit aufbaut mit
 <a name="247e"></a>
 Auf den ersten Blick sieht das natürlich alles böse aus, aber auf den zweiten Blick klingt es ja eigentlich verlockend:
 
-<li id="76c5">Ein so starker Glaube, dass die [Menschen überwältigt sind, wenn sie die Kraft Gottes sehen](https://www.bibleserver.com/SLT/Offenbarung13%2C4)? Wünschst du dir nicht, dass die Menschen nicht mehr denken sollten, dein [Glaube wäre einfältig](https://www.bibleserver.com/SLT/1.Korinther1%2C22-23)? Oder dass Gebete nicht mächtig sind?</li><li id="e3b0">Oder eine [weltweite Erweckung und dass alle zum Glauben kommen](https://www.bibleserver.com/SLT/Offenbarung13%2C8), weil du es satt hast, Leute zum Glauben einzuladen und nur abgelehnt oder sogar verfolgt wirst?</li><li id="464e">Oder [willst du lieber Wunder sehen](https://www.bibleserver.com/SLT/Offenbarung13%2C14), weil du manchmal zweifelst, ob es Gott wirklich gibt?</li><li id="e39d">Oder willst du, dass [deine Liebsten geheilt werden](https://www.bibleserver.com/SLT/Offenbarung13%2C15), für die deine Gebete bisher nichts bewirkt haben?</li><li id="c2cd">Oder willst du, dass [Gott alle Feinde und das Böse vernichtet](https://www.bibleserver.com/SLT/Offenbarung13%2C15) — eine Antwort auf die Frage: Wenn es Gott gibt, warum beendet er dann nicht alles Böse, vielleicht auch gerade in deinem Leben?</li><li id="20b5">Oder willst du, dass [alle Menschen das christliche Wertesystem übernehmen](https://www.bibleserver.com/SLT/Offenbarung13%2C16-17)?</li>
+- Ein so starker Glaube, dass die [Menschen überwältigt sind, wenn sie die Kraft Gottes sehen](https://www.bibleserver.com/SLT/Offenbarung13%2C4)? Wünschst du dir nicht, dass die Menschen nicht mehr denken sollten, dein [Glaube wäre einfältig](https://www.bibleserver.com/SLT/1.Korinther1%2C22-23)? Oder dass Gebete nicht mächtig sind?
+- Oder eine [weltweite Erweckung und dass alle zum Glauben kommen](https://www.bibleserver.com/SLT/Offenbarung13%2C8), weil du es satt hast, Leute zum Glauben einzuladen und nur abgelehnt oder sogar verfolgt wirst?
+- Oder [willst du lieber Wunder sehen](https://www.bibleserver.com/SLT/Offenbarung13%2C14), weil du manchmal zweifelst, ob es Gott wirklich gibt?
+- Oder willst du, dass [deine Liebsten geheilt werden](https://www.bibleserver.com/SLT/Offenbarung13%2C15), für die deine Gebete bisher nichts bewirkt haben?
+- Oder willst du, dass [Gott alle Feinde und das Böse vernichtet](https://www.bibleserver.com/SLT/Offenbarung13%2C15) — eine Antwort auf die Frage: Wenn es Gott gibt, warum beendet er dann nicht alles Böse, vielleicht auch gerade in deinem Leben?
+- Oder willst du, dass [alle Menschen das christliche Wertesystem übernehmen](https://www.bibleserver.com/SLT/Offenbarung13%2C16-17)?
+
 
 Diese Dreifaltigkeit gibt alles, was wir oft vermissen, aber etwas stimmt nicht:
 
@@ -198,11 +193,11 @@ Das ist überhaupt nicht der Fall, denn Satan würde einen sehr schlechten Job m
 ## Zum Weiterlesen
 
 <a name="7195"></a>
-- [Die Tiere im historischen Kontext](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context/index.html)
-- [Die Zahl 666](../../../content/beasts/expl/666-the-number-of-the-beast/index.html)
-- [Die 3,5, Jahre](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
+- [Die Tiere im historischen Kontext](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
+- [Die Zahl 666](../../../content/beasts/expl/666-the-number-of-the-beast)
+- [Die 3,5, Jahre](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation.de.md)

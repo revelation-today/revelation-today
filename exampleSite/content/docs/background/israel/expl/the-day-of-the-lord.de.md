@@ -9,7 +9,7 @@ Wenn man den Begriff “Tag des Herrn” hört, denkt man vielleicht an den Unte
 ## Ursprung des Tages des Herrn
 
 <a name="4fec"></a>
-Israel hatte einen [Bund mit Gott](../../../background/israel/expl/gods-covenant/index.html). Der Grund für diesen Bundes war, [ein Segen für die Nationen zu sein](https://www.bibleserver.com/SLT/1.Mose12%2C2-3), denn dieser Bund basierte auf [dem Bund mit Abraham gegründet](https://www.bibleserver.com/SLT/2.Mose3%2C6).
+Israel hatte einen [Bund mit Gott](../../../background/israel/expl/gods-covenant). Der Grund für diesen Bundes war, [ein Segen für die Nationen zu sein](https://www.bibleserver.com/SLT/1.Mose12%2C2-3), denn dieser Bund basierte auf [dem Bund mit Abraham gegründet](https://www.bibleserver.com/SLT/2.Mose3%2C6).
 
 Als Israel aus Ägypten auszog, [nahm es viele andere Menschen mit, die dadurch auch Teil Israels wurden.](https://www.bibleserver.com/SLT/2.Mose12%2C38)
 
@@ -70,9 +70,9 @@ Der Tag des Herrn wird bringen
 - Gott erfüllt die Verheißung des Ausgießens des Heiligen Geistes.
 
 
-Dies geschieht aber nur für den [Überrest Israels](../../../background/israel/expl/the-remnant-of-israel/index.html).
+Dies geschieht aber nur für den [Überrest Israels](../../../background/israel/expl/the-remnant-of-israel).
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-day-of-the-lord.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-day-of-the-lord.de.md)

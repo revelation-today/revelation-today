@@ -50,8 +50,9 @@ Warum aber sollten Gemeinden als Engel bezeichnet werden?
 ## Zum Weiterlesen
 
 <a name="b241"></a>
-- [Die Sendschreiben](../../../content/letters/expl/the-letters-to-the-seven-churches/index.html)
-<li id="83f5">[Was ist ein Held?](../../../topics/hero/short/a-real-hero/index.html)</li>
+- [Die Sendschreiben](../../../content/letters/expl/the-letters-to-the-seven-churches)
+- [Was ist ein Held?](../../../topics/hero/short/a-real-hero)
+
 
 
 ## Zur Vertiefung
@@ -62,4 +63,4 @@ Aune, Revelation, Seite 108–112
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-angel-of-the-churches.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-angel-of-the-churches.de.md)

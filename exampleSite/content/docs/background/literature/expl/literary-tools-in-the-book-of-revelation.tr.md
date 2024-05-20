@@ -225,4 +225,4 @@ Birçok değer vardır
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literary-tools-in-the-book-of-revelation.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literary-tools-in-the-book-of-revelation.tr.md)

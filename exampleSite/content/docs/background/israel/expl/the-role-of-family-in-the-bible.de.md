@@ -95,4 +95,4 @@ Gott wird als Vater dargestellt, Jesus als Erstgeborener, der sich um seine Gesc
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-role-of-family-in-the-bible.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-role-of-family-in-the-bible.de.md)

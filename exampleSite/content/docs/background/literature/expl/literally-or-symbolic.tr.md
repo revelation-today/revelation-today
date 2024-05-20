@@ -19,7 +19,7 @@ Bu makalede Vahiy Kitabı’nın nasıl okunması ve yorumlanması gerektiğine 
 ## Kitabın kapsamı
 
 <a name="1fc1"></a>
-Bunun için, bu kitabın dikkate almamız gereken farklı edebiyat türlerini yansıttığını anlamamız gerekir: [kıyamet, peygamberlik, mektup](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html).
+Bunun için, bu kitabın dikkate almamız gereken farklı edebiyat türlerini yansıttığını anlamamız gerekir: [kıyamet, peygamberlik, mektup](../../../background/literature/expl/the-book-of-revelation-how-to-read-it).
 
 Kitabın kapsamını göz önünde bulundurmamız gerekiyor:
 
@@ -34,7 +34,7 @@ Ancak metnin kendisine daha yakından bakalım.
 ## Daniel çerçevesi
 
 <a name="6075"></a>
-Vahiy kitabında [Daniel 2. bölümdeki kehanetle](https://www.bibleserver.com/TR/Daniel2%3A28-45) güçlü bir bağlantısı olan ve kitabı daha iyi anlamamıza yardımcı olacak bazı önemli bölümler vardır. Bu bölüm, Vahiy kitabında pek çok referansı olan [Daniel 7. bölümle](https://www.bibleserver.com/TR/Daniel7) [paraleldir](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html).
+Vahiy kitabında [Daniel 2. bölümdeki kehanetle](https://www.bibleserver.com/TR/Daniel2%3A28-45) güçlü bir bağlantısı olan ve kitabı daha iyi anlamamıza yardımcı olacak bazı önemli bölümler vardır. Bu bölüm, Vahiy kitabında pek çok referansı olan [Daniel 7. bölümle](https://www.bibleserver.com/TR/Daniel7) [paraleldir](../../../bible/daniel/expl/the-four-kingdoms-in-daniel).
 
 Bu bölüm, peygamberlik kitaplarında Vahiy’de üç kez geçen “gizem” kelimesini kullanan tek bölümdür ([kilisenin](https://www.bibleserver.com/TR/Vahiy1%3A20), [Tanrı’nın](https://www.bibleserver.com/TR/Vahiy10%3A7) ve [canavarın](https://www.bibleserver.com/TR/Vahiy17%3A5) gizemi).
 
@@ -105,11 +105,11 @@ Ayrıca kitabın açıkça sembol olan öğelerle dolu olduğunu göreceksiniz: 
 ## Daha fazla kazma
 
 <a name="554a"></a>
-[Beale, Revelation, sayfalar 50–69](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#1b3a)
+[Beale, Revelation, sayfalar 50–69](../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literally-or-symbolic.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literally-or-symbolic.tr.md)

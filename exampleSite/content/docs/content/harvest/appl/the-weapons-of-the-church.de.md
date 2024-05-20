@@ -32,7 +32,12 @@ Die Antwort ist einfach:
 <a name="cba9"></a>
 Nachdem wir einen Blick auf das Heer geworfen haben, können wir nun seine Wirkung betrachten. Sie wird durch sieben Engel veranschaulicht:
 
-<li id="2131">Der <strong>erste </strong>kommt und lädt die Völker ein, Gott anzubeten (das ewige Evangelium).</li><li id="cb31">Der <strong>zweite </strong>kommt und spricht Gericht über Babel, das die Völker täuschen wollte (Babel hat eine starke Ähnlichkeit mit dem zweiten Tier).</li><li id="c349">Der <strong>dritte </strong>warnt die Völker, dem Satan nicht die Treue zu halten.</li><li id="f6e5">Das <strong>vierte </strong>(Jesus ähnlich) kündigt die Ernte an, die der <strong>fünfte </strong>einbringt — die Sammlung der Nationen, die Jesus angenommen haben.</li><li id="f899">Der <strong>sechste </strong>kündigt die Weinlese an, die der <strong>siebente </strong>durchführt — das Gericht über die Nationen, die Jesus abgelehnt haben.</li>
+- Der erste kommt und lädt die Völker ein, Gott anzubeten (das ewige Evangelium).
+- Der zweite kommt und spricht Gericht über Babel, das die Völker täuschen wollte (Babel hat eine starke Ähnlichkeit mit dem zweiten Tier).
+- Der dritte warnt die Völker, dem Satan nicht die Treue zu halten.
+- Das vierte (Jesus ähnlich) kündigt die Ernte an, die der fünfte einbringt — die Sammlung der Nationen, die Jesus angenommen haben.
+- Der sechste kündigt die Weinlese an, die der siebente durchführt — das Gericht über die Nationen, die Jesus abgelehnt haben.
+
 
 Das ganze Kapitel handelt von den Völkern und den Bemühungen der Kirche, sie zu Jesus zu führen. Es ist an den Nationen zu reagieren, einige nehmen Jesus an, andere nicht. Es ist nicht die Aufgabe der Gemeinde, dafür zu sorgen, dass alle Nationen Jesus annehmen, sondern ihre Aufgabe ist es, ein treuer Zeuge zu sein. Aber dazu mehr im nächsten Kapitel.
 
@@ -40,7 +45,11 @@ Das ganze Kapitel handelt von den Völkern und den Bemühungen der Kirche, sie z
 ### Reflektion
 
 <a name="83c3"></a>
-<li id="5329">Der Schlüssel zur Armee Gottes ist, Jesus treu zu sein. Wann denkst du, dass das nicht genug ist und warum?</li><li id="3c2a">Was bedeutet es, Jesus immer treu zu sein?</li><li id="66e5">Was wäre das Lied von Mose und Jesus, das du in deinem Leben singen würdest?</li><li id="e814">Weißt du, dass nicht alle Menschen gerettet werden? Was macht das mit dir?</li>
+- Der Schlüssel zur Armee Gottes ist, Jesus treu zu sein. Wann denkst du, dass das nicht genug ist und warum?
+- Was bedeutet es, Jesus immer treu zu sein?
+- Was wäre das Lied von Mose und Jesus, das du in deinem Leben singen würdest?
+- Weißt du, dass nicht alle Menschen gerettet werden? Was macht das mit dir?
+
 
 
 
@@ -50,10 +59,10 @@ Das ganze Kapitel handelt von den Völkern und den Bemühungen der Kirche, sie z
 ## Zur Vertiefung
 
 <a name="1142"></a>
-- [Gottes Armee und die sieben Engel](../../../content/harvest/expl/gods-army-and-the-seven-angels/index.html)
+- [Gottes Armee und die sieben Engel](../../../content/harvest/expl/gods-army-and-the-seven-angels)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/appl/the-weapons-of-the-church.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/appl/the-weapons-of-the-church.de.md)

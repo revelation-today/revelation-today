@@ -29,7 +29,7 @@ My desire is that you be able to have this as a self-study. Therefore, I have tr
 
 More complex Bible references are found in literature that you need to buy, where I have tried to keep this to a minimum so that you can afford to buy them.
 
-In the [reference articles](../../../gen/index/expl/overview-on-the-book-of-revelation/index.html) you will find links to the respective sources. My job was just to read through them, choose the right material, and make an easy-to-read summary.
+In the [reference articles](../../../gen/index/expl/overview-on-the-book-of-revelation) you will find links to the respective sources. My job was just to read through them, choose the right material, and make an easy-to-read summary.
 
 
 ## Key books
@@ -119,8 +119,8 @@ And there are also some online presentations:
 ## Further reading
 
 <a name="20d4"></a>
-- [There are some intriguing questions and topics](../../../gen/index/keywords/big-topics-in-the-book-of-revelation/index.html)
-- [Get an overview of the material](../../../gen/index/expl/overview-on-the-book-of-revelation/index.html)
+- [There are some intriguing questions and topics](../../../gen/index/keywords/big-topics-in-the-book-of-revelation)
+- [Get an overview of the material](../../../gen/index/expl/overview-on-the-book-of-revelation)
 
 
 
@@ -128,4 +128,4 @@ And there are also some online presentations:
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/background/ressources/how-to-study-the-book-of-revelation.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/background/ressources/how-to-study-the-book-of-revelation.md)

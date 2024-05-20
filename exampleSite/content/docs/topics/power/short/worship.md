@@ -45,7 +45,10 @@ And here we come to the point of what worship is.
 <a name="f7b0"></a>
 [Psalm 100](https://biblehub.com/interlinear/psalms/100-4.htm) teaches us the way of worship in three stages:
 
-<li id="3bfb">It begins with [thanksgiving](https://biblehub.com/hebrew/8426.htm): We thank God for a <strong>specific </strong>thing He has done.</li><li id="1071">We continue to [praise](https://biblehub.com/hebrew/8416.htm): After we have experienced all the things for which we give thanks, we realize that God is good and praise His <strong>character</strong>.</li><li id="6361">Finally, we come to [worship ](https://biblehub.com/hebrew/1288.htm)(kneeling): where we <strong>trust </strong>God.</li>
+- It begins with [thanksgiving](https://biblehub.com/hebrew/8426.htm): We thank God for a specific thing He has done.
+- We continue to [praise](https://biblehub.com/hebrew/8416.htm): After we have experienced all the things for which we give thanks, we realize that God is good and praise His character.
+- Finally, we come to [worship ](https://biblehub.com/hebrew/1288.htm)(kneeling): where we trust God.
+
 
 The word for worship (kneeling) comes from the Assyrian background, where worship means to lie flat on the ground. This was a gesture that was done after a king lost a war and he would lie flat on the ground and the victorious king would put his foot on his neck to symbolize: I can do whatever I want to you.
 
@@ -126,7 +129,10 @@ Don’t be deceived. A good father does not give his children what they want, bu
 
 If you want to know if you have an idol, here is a little checklist:
 
-<li id="6d45">Where do you put your hope when things go wrong — honestly?</li><li id="6b96">What do you spend most of your time, money, and resources on, and what do you expect to get out of it?</li><li id="51c0">What do you risk or sacrifice your health, your sleep, your well-being and even your life for when things go wrong?</li>
+- Where do you put your hope when things go wrong — honestly?
+- What do you spend most of your time, money, and resources on, and what do you expect to get out of it?
+- What do you risk or sacrifice your health, your sleep, your well-being and even your life for when things go wrong?
+
 
 Well, if the honest answer is, “To get a deeper relationship with God,” then you are on the right track. If it is not, maybe because you are really being honest, which is the first step and going in the right direction.
 
@@ -137,4 +143,4 @@ If the relationship with God is the main thing and He is not the tool to get all
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/worship.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/worship.md)

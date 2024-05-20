@@ -66,7 +66,12 @@ Aber: Schwierigkeiten allein reichen nicht aus, um das Herz zu verändern. Es br
 ### Reflektion
 
 <a name="85b8"></a>
-<li id="75b3">Was ist der Inhalt deiner Gebete?</li><li id="5916">Wie würdest du beten, dass falsche Sicherheiten weggenommen werden? Was glaubst du, wie Gott dieses Gebet beantworten würde?</li><li id="493a">Was würde passieren, wenn deine falschen Sicherheiten weggenommen würden? Welche sind das? Bist du bereit, sie aufzugeben?</li><li id="2bc4">Welche unerschütterlichen Sicherheiten hast du in deinem Leben?</li><li id="101b">Welche Sicherheiten kannst du nicht aufgeben? Würdest du sie auch nicht aufgeben, wenn du deine Beziehung zu Gott verlieren würdest?</li>
+- Was ist der Inhalt deiner Gebete?
+- Wie würdest du beten, dass falsche Sicherheiten weggenommen werden? Was glaubst du, wie Gott dieses Gebet beantworten würde?
+- Was würde passieren, wenn deine falschen Sicherheiten weggenommen würden? Welche sind das? Bist du bereit, sie aufzugeben?
+- Welche unerschütterlichen Sicherheiten hast du in deinem Leben?
+- Welche Sicherheiten kannst du nicht aufgeben? Würdest du sie auch nicht aufgeben, wenn du deine Beziehung zu Gott verlieren würdest?
+
 
 
 
@@ -76,15 +81,15 @@ Aber: Schwierigkeiten allein reichen nicht aus, um das Herz zu verändern. Es br
 ## Digging deeper
 
 <a name="89d1"></a>
-- [Die Kraft des Gebets](../../../topics/power/short/the-key-of-prayer/index.html)
-- [Die Vorgeschichte des Auszugs aus Ägypten](../../../bible/exodus/expl/the-story-before-the-exodus/index.html)
-- [Die Geburt von Mose](../../../bible/exodus/expl/the-birth-of-moses/index.html)
-- [Die Verhärtung des Herzens des Pharao](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart/index.html)
-- [Die Plagen in Ägypten](../../../bible/exodus/expl/the-plagues-in-egypt/index.html)
-- [Die sieben Posaunen](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html)
+- [Die Kraft des Gebets](../../../topics/power/short/the-key-of-prayer)
+- [Die Vorgeschichte des Auszugs aus Ägypten](../../../bible/exodus/expl/the-story-before-the-exodus)
+- [Die Geburt von Mose](../../../bible/exodus/expl/the-birth-of-moses)
+- [Die Verhärtung des Herzens des Pharao](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
+- [Die Plagen in Ägypten](../../../bible/exodus/expl/the-plagues-in-egypt)
+- [Die sieben Posaunen](../../../content/trumpets/expl/the-trumpets-in-revelation)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/appl/prayer-and-the-unshakeable.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/appl/prayer-and-the-unshakeable.de.md)

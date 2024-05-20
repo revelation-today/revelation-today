@@ -66,7 +66,7 @@ Son özne Tanrı olduğu için, [İsa’nın yeni antlaşması](https://www.bibl
 
 “Yedi “nin ortasında, kurbanlara artık ihtiyaç kalmadığı için kurban ve [sunulara son verecektir](https://www.bibleserver.com/TR/%C4%B0braniler10%3A1-18).
 
-O iğrençliği kuracak ([orijinalde o değil, “ıssızlaştıran” ifadesi kullanılmıştır](https://biblehub.com/interlinear/daniel/9-27.htm)), dolayısıyla burada konu değişiyor ve Tiberius’a geri dönüyoruz. Orijinalde Romalıların Lejyon Kartalı’na atıfta bulunan iğrençlik kanatlarından söz edilir. Hüküm onun üzerine dökülünceye kadar daha iyi bir şekilde şöyle tercüme edilebilir: “Hükmedilen son ıssızlaştırıcının üzerine konuncaya kadar” Roma İmparatorluğu yıkılıncaya kadar anlamına gelir ki bu da bizi [Daniel 7. bölüme](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html) geri götürür.
+O iğrençliği kuracak ([orijinalde o değil, “ıssızlaştıran” ifadesi kullanılmıştır](https://biblehub.com/interlinear/daniel/9-27.htm)), dolayısıyla burada konu değişiyor ve Tiberius’a geri dönüyoruz. Orijinalde Romalıların Lejyon Kartalı’na atıfta bulunan iğrençlik kanatlarından söz edilir. Hüküm onun üzerine dökülünceye kadar daha iyi bir şekilde şöyle tercüme edilebilir: “Hükmedilen son ıssızlaştırıcının üzerine konuncaya kadar” Roma İmparatorluğu yıkılıncaya kadar anlamına gelir ki bu da bizi [Daniel 7. bölüme](../../../bible/daniel/expl/the-four-kingdoms-in-daniel) geri götürür.
 
 
 ## Geçen hafta
@@ -106,4 +106,4 @@ Yedi yılın sonunda ne var? Ne zaman bitiyor? Diğer her şey edebi olduğu iç
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-70-year-weeks.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-70-year-weeks.tr.md)

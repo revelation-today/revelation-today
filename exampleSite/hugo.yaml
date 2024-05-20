@@ -21,13 +21,13 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: Hextra
+    title: The book of Revelation
   de:
     languageName: Deutsch
     weight: 2
-    title: Hextra
+    title: Das Buch Offenbarung
   tr:
-    languageName: Turkiye
+    languageName: Türkçe
     weight: 3
     title: Vihay
 
@@ -55,14 +55,6 @@ menu:
       name: Documentation
       pageRef: /docs
       weight: 1
-    - identifier: showcase
-      name: Showcase
-      pageRef: /showcase
-      weight: 2
-    - identifier: blog
-      name: Blog
-      pageRef: /blog
-      weight: 3
     - identifier: about
       name: About
       pageRef: /about
@@ -87,10 +79,6 @@ menu:
       name: "About"
       pageRef: "/about"
       weight: 2
-    - identifier: hugoDocs
-      name: "Hugo Docs ↗"
-      url: "https://gohugo.io/documentation/"
-      weight: 3
 
 params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
@@ -117,8 +105,8 @@ params:
 
   footer:
     enable: true
-    displayCopyright: true
-    displayPoweredBy: true
+    displayCopyright: false
+    displayPoweredBy: false
     width: normal
 
   displayUpdatedDate: true
@@ -139,7 +127,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+    base: "https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content"
 
   blog:
     list:
@@ -149,12 +137,12 @@ params:
       sortOrder: desc # or "asc"
 
   comments:
-    enable: false
+    enable: true
     type: giscus
 
     # https://giscus.app/
     giscus:
-      repo: imfing/hextra
+      repo: revelation-today
       repoId: R_kgDOJ9fJag
       category: General
       categoryId: DIC_kwDOJ9fJas4CY7gW

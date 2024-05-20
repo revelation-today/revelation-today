@@ -52,4 +52,4 @@ Es war wohl Bileams Stolz, der ihn vernichtete, aber Mose als inkonsequenter Fü
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-story-of-balaam.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-story-of-balaam.de.md)

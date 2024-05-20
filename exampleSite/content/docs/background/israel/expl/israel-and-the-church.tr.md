@@ -48,4 +48,4 @@ Bence kitaptan, farklı kilise adaylıklarında veya Yahudilerle birbirimize nas
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/israel-and-the-church.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/israel-and-the-church.tr.md)

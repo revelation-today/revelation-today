@@ -58,4 +58,4 @@ Baskı zamanlarında farklı davranan üç kralımız var ve hepsi de Tanrı’n
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/armageddon-and-the-battle-of-karkemish.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/armageddon-and-the-battle-of-karkemish.tr.md)

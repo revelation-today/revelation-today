@@ -41,7 +41,7 @@ Ama şimdi tomar nedir? Bir sonraki bölüm(ler)e baktığımızda, kilisenin so
 ## Diğer okumalar
 
 <a name="b1dc"></a>
-- [İki tanık](../../../content/witnesses/expl/the-two-witnesses/index.html)
+- [İki tanık](../../../content/witnesses/expl/the-two-witnesses)
 
 
 
@@ -49,4 +49,4 @@ Ama şimdi tomar nedir? Bir sonraki bölüm(ler)e baktığımızda, kilisenin so
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.tr.md)

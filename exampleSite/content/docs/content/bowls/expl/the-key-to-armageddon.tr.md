@@ -44,7 +44,7 @@ Arka plan olarak: İsrail kralı Ahab, karısı Jesebel ile birlikte Sidon’dan
 ## Josiah
 
 <a name="9ad1"></a>
-[Bunun için ayrı bir giriş vardır](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish/index.html). Bir kral, Babil İmparatorluğu’na karşı Asurluları desteklemek için yola çıkan Mısır Kralı’yla savaşırken canını verir. Sadece birkaç not:
+[Bunun için ayrı bir giriş vardır](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish). Bir kral, Babil İmparatorluğu’na karşı Asurluları desteklemek için yola çıkan Mısır Kralı’yla savaşırken canını verir. Sadece birkaç not:
 
 - Assur o dönemde İsrail’e sürekli baskı yapıyordu ve Babil sorun çıkardığı için bunu durduruyordu
 - Mısır bir yandan İsrail’in kölelikten kurtulduğu yerdi, ama her zaman İsrail için bir [yedek plandı ve normalde İsrail’i hayal kırıklığına uğrattı](https://www.bibleserver.com/TR/2.Krallar18%3A21). Görünüşe göre Yoşiya İsrail’in Mısır’a karşı savaşan ilk kralıydı.
@@ -67,7 +67,7 @@ Armagedon, Yeni Ahit’in tamamında, özellikle de Vahiy kitabında gördüğü
 ## Daha fazla okuma
 
 <a name="1244"></a>
-- [Karkamış Savaşı](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish/index.html)
+- [Karkamış Savaşı](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
 
 
@@ -75,4 +75,4 @@ Armagedon, Yeni Ahit’in tamamında, özellikle de Vahiy kitabında gördüğü
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-key-to-armageddon.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-key-to-armageddon.tr.md)

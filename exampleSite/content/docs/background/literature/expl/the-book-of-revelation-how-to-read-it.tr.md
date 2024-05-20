@@ -161,17 +161,19 @@ Kitap değil
 ## Daha fazla okuma
 
 <a name="453f"></a>
-<li id="4c55">[Hepsi gerçek mi yoksa sembolik mi?](../../../background/literature/expl/literally-or-symbolic/index.html)</li><li id="98f5">[Tarihsel arka plan nedir?](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation/index.html)</li>
+- [Hepsi gerçek mi yoksa sembolik mi?](../../../background/literature/expl/literally-or-symbolic)
+- [Tarihsel arka plan nedir?](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+
 
 
 ## Daha derine inmek
 
 <a name="676f"></a>
-[Goreman, Reading Revelation Responsibly, sayfalar 10–56](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#272d)
+[Goreman, Reading Revelation Responsibly, sayfalar 10–56](../../../gen/background/ressources/how-to-study-the-book-of-revelation#272d)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/the-book-of-revelation-how-to-read-it.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/the-book-of-revelation-how-to-read-it.tr.md)

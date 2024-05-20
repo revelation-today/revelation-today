@@ -24,12 +24,16 @@ Hikaye aslında dört bölümden oluşuyor:
 
 - Bölüm 1: Tanrı’nın kiliseden beklentisi: dünyaya ışık olmak, ama O’na bağımlı olmak
 - Bölüm 2–3: Kilisenin durumu ve mücadeleleri
-<li id="2a41">Bölüm 4–20: Tanrı bu durumun üstesinden nasıl gelmeyi amaçlar?</li><li id="8069">Bölüm 21–22: Hedeflediğimiz amaç nedir?</li>
+- Bölüm 4–20: Tanrı bu durumun üstesinden nasıl gelmeyi amaçlar?
+- Bölüm 21–22: Hedeflediğimiz amaç nedir?
+
 
 Üçüncü bölüm biraz daha uzun, o yüzden bu yapıya bir göz atalım
 
 - Bölüm 4: Tanrı’nın tahtı ve tapınma — Tüm eylemlerin temeli
-<li id="155a">Bölüm 5–7: Mühürler: İsa’nın çarmıhtaki ölümü neye neden oldu?</li><li id="54f9">Bölüm 8–14: Trompetler ve sonrası: Dualarımız neye neden olur?</li>- Bölüm 15–20: Gazap kaseleri: Tanrı’nın son eylemleri
+- Bölüm 5–7: Mühürler: İsa’nın çarmıhtaki ölümü neye neden oldu?
+- Bölüm 8–14: Trompetler ve sonrası: Dualarımız neye neden olur?
+- Bölüm 15–20: Gazap kaseleri: Tanrı’nın son eylemleri
 
 
 Soru şudur: Tanrı kurtuluş planını nasıl gerçekleştirecektir ve kilisenin bu plan içindeki rolü nedir?
@@ -103,9 +107,12 @@ Ama bu sadece dış görünüştür. Ancak daha yakından bakıldığında bunun
 
 Kitapta kıyametle ilgili unsurlar olsa da, bu düşünceye meydan okuyor.
 
-<li id="1ff9">İsa sadece kısa bir süre önce [delinmiş](https://www.bibleserver.com/TR/Vahiy1%3A7)<strong> </strong>olan kişi olarak değil, [dünyayı yargılayan insanoğlu olarak da görünür](https://www.bibleserver.com/TR/Vahiy1%3A12-16)</li><li id="0d61">Tanrı’nın taht odası [gökkuşağı](https://www.bibleserver.com/TR/Vahiy4%3A3) gibi açıkça <strong>lütuf </strong>unsurundan bahseder</li>- Yahuda’nın aslanı aslında Tanrı’nın [kuzusudur](https://www.bibleserver.com/TR/Vahiy5%3A5-6).
-<li id="cf38">[144.000 kişilik ordu](https://www.bibleserver.com/TR/Vahiy7%3A4-8), Tanrı’ya [ibadet](https://www.bibleserver.com/TR/Vahiy7%3A9-10)<strong> </strong>eden insanlar olarak ve daha sonra kuzuyu takip eden ve [sadık](https://www.bibleserver.com/TR/Vahiy14%3A1-5)<strong> </strong>olanlar olarak açıklanır.</li>- i̇ki̇ taniğin zaferi̇ onlarin [ölümüdür](https://www.bibleserver.com/TR/Vahiy11%3A7-13)
-- gizemli yer [Armageddon](https://www.bibleserver.com/TR/Vahiy16%3A14), [güçlülerin yenilgisini ve mutlak zayıfların zaferini anlatır](../../../content/bowls/expl/the-key-to-armageddon/index.html)
+- İsa sadece kısa bir süre önce [delinmiş](https://www.bibleserver.com/TR/Vahiy1%3A7) olan kişi olarak değil, [dünyayı yargılayan insanoğlu olarak da görünür](https://www.bibleserver.com/TR/Vahiy1%3A12-16)
+- Tanrı’nın taht odası [gökkuşağı](https://www.bibleserver.com/TR/Vahiy4%3A3) gibi açıkça lütuf unsurundan bahseder
+- Yahuda’nın aslanı aslında Tanrı’nın [kuzusudur](https://www.bibleserver.com/TR/Vahiy5%3A5-6).
+- [144.000 kişilik ordu](https://www.bibleserver.com/TR/Vahiy7%3A4-8), Tanrı’ya [ibadet](https://www.bibleserver.com/TR/Vahiy7%3A9-10) eden insanlar olarak ve daha sonra kuzuyu takip eden ve [sadık](https://www.bibleserver.com/TR/Vahiy14%3A1-5) olanlar olarak açıklanır.
+- i̇ki̇ taniğin zaferi̇ onlarin [ölümüdür](https://www.bibleserver.com/TR/Vahiy11%3A7-13)
+- gizemli yer [Armageddon](https://www.bibleserver.com/TR/Vahiy16%3A14), [güçlülerin yenilgisini ve mutlak zayıfların zaferini anlatır](../../../content/bowls/expl/the-key-to-armageddon)
 - fahişe, üzerinde [oturduğu](https://www.bibleserver.com/TR/Vahiy17%3A3) [canavar tarafından yok edilir](https://www.bibleserver.com/TR/Vahiy17%3A16)
 - İsa gelir ve [ağzının kılıcıyla orduları öldürür](https://www.bibleserver.com/TR/Vahiy19%3A21).
 
@@ -153,4 +160,4 @@ Bu dünyayı daha iyi bir yer haline getirmek için neler yapılabileceğine dai
 Ama bu kitap felaketlerin listelenmesi ve Tanrı’nın gazabının yeryüzüne inmesi ile ilgili değil mi? İnsanları harekete geçirmek için kullanılan pek çok resim var. Bu kitap kışkırtmak isteyen bir kitaptır.
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/overview/appl/the-main-topics.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/overview/appl/the-main-topics.tr.md)

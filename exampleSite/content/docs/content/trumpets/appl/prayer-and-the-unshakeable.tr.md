@@ -66,22 +66,27 @@ Diğer yandan: Zor zamanlar bir kalbi değiştirmek için yeterli değildir. Dah
 ### Yansıma
 
 <a name="9660"></a>
-<li id="9ce8">Dualarınızın içeriği nedir?</li><li id="2aa3">Yanlış güvencelerin ortadan kalkması için nasıl dua edersiniz? Sizce Tanrı bu duaya nasıl cevap verir?</li><li id="c401">Yanlış güvenceleriniz elinizden alınırsa ne olur? Nedir bunlar? Onlardan vazgeçmeye istekli misiniz?</li><li id="03bd">Yaşamınızdaki sarsılmaz güvenceler nelerdir?</li><li id="5ca0">Hangi güvencenizden vazgeçemezsiniz? Tanrı’yla ilişkinizi kaybettiğinizde de vazgeçmez miydiniz?</li>
+- Dualarınızın içeriği nedir?
+- Yanlış güvencelerin ortadan kalkması için nasıl dua edersiniz? Sizce Tanrı bu duaya nasıl cevap verir?
+- Yanlış güvenceleriniz elinizden alınırsa ne olur? Nedir bunlar? Onlardan vazgeçmeye istekli misiniz?
+- Yaşamınızdaki sarsılmaz güvenceler nelerdir?
+- Hangi güvencenizden vazgeçemezsiniz? Tanrı’yla ilişkinizi kaybettiğinizde de vazgeçmez miydiniz?
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="2c6d"></a>
-- [Duanın gücü](../../../topics/power/short/the-key-of-prayer/index.html)
-- [Göçten önceki hikaye](../../../bible/exodus/expl/the-story-before-the-exodus/index.html)
-- [Musa’nın doğumu](../../../bible/exodus/expl/the-birth-of-moses/index.html)
-- [Firavun’un yüreğinin katılaşması](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart/index.html)
-- [Mısır’daki belalar](../../../bible/exodus/expl/the-plagues-in-egypt/index.html)
-- [Yedi trompet](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html)
+- [Duanın gücü](../../../topics/power/short/the-key-of-prayer)
+- [Göçten önceki hikaye](../../../bible/exodus/expl/the-story-before-the-exodus)
+- [Musa’nın doğumu](../../../bible/exodus/expl/the-birth-of-moses)
+- [Firavun’un yüreğinin katılaşması](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
+- [Mısır’daki belalar](../../../bible/exodus/expl/the-plagues-in-egypt)
+- [Yedi trompet](../../../content/trumpets/expl/the-trumpets-in-revelation)
 
 
 
@@ -89,4 +94,4 @@ Diğer yandan: Zor zamanlar bir kalbi değiştirmek için yeterli değildir. Dah
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/appl/prayer-and-the-unshakeable.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/appl/prayer-and-the-unshakeable.tr.md)

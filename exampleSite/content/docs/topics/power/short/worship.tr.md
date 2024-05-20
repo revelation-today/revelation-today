@@ -132,7 +132,9 @@ Sakın aldanmayın. İyi bir baba, çocuklarının kendisinden talep ettiklerini
 Eğer bir idolünüz olup olmadığını öğrenmek istiyorsanız, işte size küçük bir kontrol listesi:
 
 - işler yolunda gitmediğinde umudunuzu nereye bağlıyorsunuz — dürüstçe!
-<li id="0862">en çok neye zaman, para ve kaynak harcıyorsunuz ve bundan ne bekliyorsunuz?</li><li id="d66c">İşler yolunda gitmezse sağlığınızı, uykunuzu, refahınızı ve hatta hayatınızı ne için riske atıyor veya feda ediyorsunuz?</li>
+- en çok neye zaman, para ve kaynak harcıyorsunuz ve bundan ne bekliyorsunuz?
+- İşler yolunda gitmezse sağlığınızı, uykunuzu, refahınızı ve hatta hayatınızı ne için riske atıyor veya feda ediyorsunuz?
+
 
 Eğer dürüst cevabınız “Tanrı ile daha derin bir ilişki kurmak” ise doğru yoldasınız demektir. Eğer değilse, belki de ilk adım olan gerçekten dürüst olduğunuz ve doğru yöne gittiğiniz içindir.
 
@@ -143,4 +145,4 @@ Eğer Tanrı’yla olan ilişkiniz esas ise ve Tanrı tüm kutsamalarını elde 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/worship.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/worship.tr.md)

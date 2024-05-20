@@ -27,4 +27,4 @@ But here are all the details
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-timeline-in-the-book-of-revelation.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-timeline-in-the-book-of-revelation.md)

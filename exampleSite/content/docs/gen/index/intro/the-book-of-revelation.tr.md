@@ -123,4 +123,4 @@ Hikayeyi anladınız mı? Öyleyse devam edin ve günlük hayatınızda buna gö
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/index/intro/the-book-of-revelation.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/index/intro/the-book-of-revelation.tr.md)

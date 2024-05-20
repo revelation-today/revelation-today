@@ -52,4 +52,4 @@ Onu alaşağı eden Balam’ın gururuydu, ama İsrailliler’in ölümüne nede
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-story-of-balaam.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-story-of-balaam.tr.md)

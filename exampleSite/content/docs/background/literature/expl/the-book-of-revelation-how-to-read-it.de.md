@@ -121,7 +121,8 @@ durch
 
 Das geschieht durch einen [Dualismus](https://www.dwds.de/wb/Dualismus)
 
-<li id="e441">In Bezug auf die Zeit: Es gibt eine <strong>gegenwärtige </strong>böse Zeit, aber es wird eine <strong>zukünftige</strong> gute Zeit kommen, und nur Gott kann diese Veränderung herbeiführen.</li>- In Bezug auf den Charakter: es gibt einen geistlichen Dualismus (Gott vs. Satan, Engel vs. Dämonen, Himmel vs. Hölle), der einen Dualismus im Nichtgeistlichen nach sich zieht (Gut vs. Böse durch das Bündnis mit Gott oder Satan und ihren Verbündeten)
+- In Bezug auf die Zeit: Es gibt eine gegenwärtige böse Zeit, aber es wird eine zukünftige gute Zeit kommen, und nur Gott kann diese Veränderung herbeiführen.
+- In Bezug auf den Charakter: es gibt einen geistlichen Dualismus (Gott vs. Satan, Engel vs. Dämonen, Himmel vs. Hölle), der einen Dualismus im Nichtgeistlichen nach sich zieht (Gut vs. Böse durch das Bündnis mit Gott oder Satan und ihren Verbündeten)
 
 
 Im Klartext heißt das, jeder muss sich für eine Seite entscheiden, es gibt keinen neutralen Boden.
@@ -160,15 +161,17 @@ Mit anderen Worten, das Buch ist nicht
 ## Zum Weiterlesen
 
 <a name="b8ec"></a>
-<li id="bdee">[Ist die Offenbarung wörtlich oder symbolisch zu verstehen?](../../../background/literature/expl/literally-or-symbolic/index.html)</li><li id="9851">[Was ist der historische Hintergrund?](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation/index.html)</li>
+- [Ist die Offenbarung wörtlich oder symbolisch zu verstehen?](../../../background/literature/expl/literally-or-symbolic)
+- [Was ist der historische Hintergrund?](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+
 
 
 ## Zur Vertiefung
 
 <a name="efae"></a>
-[Goreman, Reading Revelation Responsibly, Seiten 10–56](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#45e4)
+[Goreman, Reading Revelation Responsibly, Seiten 10–56](../../../gen/background/ressources/how-to-study-the-book-of-revelation#45e4)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/the-book-of-revelation-how-to-read-it.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/the-book-of-revelation-how-to-read-it.de.md)

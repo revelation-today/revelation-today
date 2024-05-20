@@ -65,7 +65,7 @@ Sonuç olarak üç seçeneğiniz vardı
 - dışarıdan itaat eder (imparatoru ağzıyla itiraf eder) ama İsa’ya sadık kalır (onu kalbiyle itiraf eder), bu da inançlarını ikiyüzlü yapar
 
 
-Üçüncü seçenek birçok insan için çok zorlayıcıdır ve Vahiy Kitabı’nın ana konusudur: [Kıyamet açısından sadece iki seçenek vardır — tamamen Tanrı’nın yanında ya da tamamen ona karşı](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html). Böylece kitap Pax Romana’ya karşı bir karşı propaganda yaratır.
+Üçüncü seçenek birçok insan için çok zorlayıcıdır ve Vahiy Kitabı’nın ana konusudur: [Kıyamet açısından sadece iki seçenek vardır — tamamen Tanrı’nın yanında ya da tamamen ona karşı](../../../background/literature/expl/the-book-of-revelation-how-to-read-it). Böylece kitap Pax Romana’ya karşı bir karşı propaganda yaratır.
 
 
 ## Götürün
@@ -73,13 +73,19 @@ Sonuç olarak üç seçeneğiniz vardı
 <a name="9eaf"></a>
 Bunlar üzerinde düşünmeniz gereken birkaç soru:
 
-<li id="ea50">Pax Romana bugün nasıl formüle ediliyor? Birisi aynı fikirde değilse ne olur?</li><li id="2750">İyi yaşamınızın kaynağı olarak kimi/neyi görüyorsunuz? Yaşamınızdaki sorunların çözümünü ya da yaşamınızdaki yönelimleri kimden/neden bekliyorsunuz?</li><li id="7d4f">Bu “politik doğruculuk” ile çelişiyorsa nasıl tepki veriyorsunuz? Sizinle aynı fikirde olmayan diğer insanları nasıl tehdit ediyorsunuz?</li><li id="6325">Hayatınızın belirli alanlarında rol yapma ihtiyacı hissediyor musunuz? Neden? Rol yapmazsanız ne olur?</li><li id="a598">Kişisel görüşünüzün/inancınızın size çok pahalıya mal olacağı bir durumla karşılaşsaydınız? Yine de bunu savunur muydunuz? Hangi dereceye kadar? Pratikte ne yapardınız?</li>
+- Pax Romana bugün nasıl formüle ediliyor? Birisi aynı fikirde değilse ne olur?
+- İyi yaşamınızın kaynağı olarak kimi/neyi görüyorsunuz? Yaşamınızdaki sorunların çözümünü ya da yaşamınızdaki yönelimleri kimden/neden bekliyorsunuz?
+- Bu “politik doğruculuk” ile çelişiyorsa nasıl tepki veriyorsunuz? Sizinle aynı fikirde olmayan diğer insanları nasıl tehdit ediyorsunuz?
+- Hayatınızın belirli alanlarında rol yapma ihtiyacı hissediyor musunuz? Neden? Rol yapmazsanız ne olur?
+- Kişisel görüşünüzün/inancınızın size çok pahalıya mal olacağı bir durumla karşılaşsaydınız? Yine de bunu savunur muydunuz? Hangi dereceye kadar? Pratikte ne yapardınız?
+
 
 
 ## Diğer okumalar
 
 <a name="debc"></a>
-<li id="0ad7">[Ne tür bir kitap bu?](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html)</li>- [Kitabın Yapısı](../../../background/structure/expl/the-structure-of-the-book-of-revelation/index.html)
+- [Ne tür bir kitap bu?](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [Kitabın Yapısı](../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
 
 
@@ -87,4 +93,4 @@ Bunlar üzerinde düşünmeniz gereken birkaç soru:
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation.tr.md)

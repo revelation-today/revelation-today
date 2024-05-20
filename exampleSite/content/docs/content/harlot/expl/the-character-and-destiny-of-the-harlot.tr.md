@@ -9,7 +9,9 @@ Fahişenin kim olduğunu anladıktan sonra, Kutsal Kitap’ın yanıtladığı h
 ## Daha önce okumak için faydalı
 
 <a name="093a"></a>
-<li id="0a3f">[Fahişe kimdir? Bölüm 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1/index.html)</li><li id="8341">[Fahişe kimdir? Bölüm 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2/index.html)</li>
+- [Fahişe kimdir? Bölüm 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
+- [Fahişe kimdir? Bölüm 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
+
 
 
 ## Fahişenin karakteri
@@ -38,7 +40,8 @@ Babil’in sonu çok ilgi çekicidir. [Canavarın üzerinde oturuyor](https://ww
 - İnsanlar fikirlerini değiştirir (bugün dostum, yarın düşmanım), ama Tanrı değişmez. Babil burada yöneticilerin desteğine güveniyordu, ama bu aldatıcı bir şeydi. Çünkü sonuçta bu dünyada herkes kendi çıkarını gözetir.
 - Bu, kötülüğün kutsalları yendiği ama Tanrı’nın onlara zafer kazandırdığı [Daniel](https://www.bibleserver.com/TR/Daniel7%3A21-22)’in gerçekleşmesidir (tanıklarla ya da 1000 yıllık krallıkla ilgili olarak kitaba yayılmış bir konudur). Kötülüğün kazanmış gibi göründüğü ve yüzünü gösterdiği zamanda, Tanrı durumu tersine çevirir.
 - Canavar ve krallar kutsallara saldırır, ama İsa onları yener. Kilise saldırıya uğradığında İsa devreye girer.
-<li id="bea6">Fahişe dışarıdan gelin gibi görünür ve ikinci canavarın (kuzu gibi iki boynuzlu) aldatmacasına bakarken bu amaçlanmıştır. Öyleyse burada söz konusu olan, Şeytan’ın kendi aldatmacasına kanması olabilir mi? Krallar kutsalları yok etmek isterler ([belli nedenlerden dolayı](https://www.bibleserver.com/TR/Vahiy11%3A6-10)) ama kutsalları fahişeyle karıştırırlar ve onu yok ederler! Ama bu nasıl olabilir? [Batı toplumunun ve başarılı ekonomisinin ana parçaları, aynı zamanda dünya çapında Hıristiyan temelleri ve değerleri üzerine inşa edilmiştir](https://www.pdfdrive.com/the-book-that-made-your-world-how-the-bible-created-the-soul-of-western-civilization-e200370906.html).</li>
+- Fahişe dışarıdan gelin gibi görünür ve ikinci canavarın (kuzu gibi iki boynuzlu) aldatmacasına bakarken bu amaçlanmıştır. Öyleyse burada söz konusu olan, Şeytan’ın kendi aldatmacasına kanması olabilir mi? Krallar kutsalları yok etmek isterler ([belli nedenlerden dolayı](https://www.bibleserver.com/TR/Vahiy11%3A6-10)) ama kutsalları fahişeyle karıştırırlar ve onu yok ederler! Ama bu nasıl olabilir? [Batı toplumunun ve başarılı ekonomisinin ana parçaları, aynı zamanda dünya çapında Hıristiyan temelleri ve değerleri üzerine inşa edilmiştir](https://www.pdfdrive.com/the-book-that-made-your-world-how-the-bible-created-the-soul-of-western-civilization-e200370906.html).
+
 
 
 ## Karar
@@ -46,7 +49,7 @@ Babil’in sonu çok ilgi çekicidir. [Canavarın üzerinde oturuyor](https://ww
 <a name="0414"></a>
 Yargılama onun eylemleri temelinde yapılır:
 
-- kendini dokunulmaz gördü -> bir saat içinde düşecek (çok kısa bir süre)
+- kendini dokunulmaz gördü -&gt; bir saat içinde düşecek (çok kısa bir süre)
 - [başkalarına uyguladığı](https://www.bibleserver.com/TR/Vahiy18%3A22-24) [aynı ölçülerle](https://www.bibleserver.com/TR/Vahiy18%3A6) yargılanır ([çifte ölçü, eşdeğer demenin farklı bir yoludur](https://meredithkline.com/klines-works/articles-and-essays/double-trouble/))
 - Bir rahibin kızının zina yapması durumunda verilen hüküm olan ateş tarafından tüketilir, Babil’den uzak durmak ve çekilmemek için bir başka güçlü uyarı
 
@@ -56,4 +59,4 @@ Yargılama onun eylemleri temelinde yapılır:
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.tr.md)

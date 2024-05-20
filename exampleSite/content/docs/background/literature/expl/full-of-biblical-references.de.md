@@ -36,4 +36,4 @@ Beale, Revelation, page 82–83
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/full-of-biblical-references.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/full-of-biblical-references.de.md)

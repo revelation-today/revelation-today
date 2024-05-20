@@ -19,7 +19,12 @@ Yeni cennetin tasvirine baktığımızda muhtemelen acı ve kederin sona erdiği
 
 Ancak dikkatleri diğer bazı kilit noktalara çekmek istiyorum:
 
-<li id="cad5">Yeni Kudüs <strong>yeryüzüne </strong>iner: Bu yeryüzünde bir gerçeklik olacak, soyut bir varoluş değil, Pater Noster’de dua ettiğimiz gibi yeni bir beden olacak (“gökte olduğu gibi yerde de” gerçek olacak).</li><li id="ab04">Yaşam ağacı: Cennetin tasvirinin sonunda insanlar yaşam ağacına erişebilirler, bu da Tanrı ile insan arasındaki ayrılığın çözüldüğü ve <strong>ilişkinin </strong>yeniden kurulduğu anlamına gelir.</li><li id="d4ba"><strong>Tapınak</strong>: Bu bölümde tapınakla ilgili pek çok terim kullanılır. Ancak bir tapınak olmayacaktır. Bunun yerine Yeni Yeruşalim Kutsalların Kutsalı şeklindedir. Bu, Tanrı’yla en <strong>yakın ilişki </strong>içinde olmanın bir resmidir ve <strong>tam bağlılığımızın </strong>bir başka örneğidir, çünkü hemen etrafı cehennemdir (ya hep içeride ya hep dışarıda).</li><li id="7c10">Uluslar: <strong>Ulusların </strong>içeri gireceği söylenir.</li><li id="94b0"><strong>Yahudiler </strong>ve kilise: Kilise ve İsrail’i tanımlayan ve bir <strong>uzlaşmayı </strong>(daha önce gerçekleşmesi gereken ;-)) tarif eden unsurlar vardır.</li>
+- Yeni Kudüs yeryüzüne iner: Bu yeryüzünde bir gerçeklik olacak, soyut bir varoluş değil, Pater Noster’de dua ettiğimiz gibi yeni bir beden olacak (“gökte olduğu gibi yerde de” gerçek olacak).
+- Yaşam ağacı: Cennetin tasvirinin sonunda insanlar yaşam ağacına erişebilirler, bu da Tanrı ile insan arasındaki ayrılığın çözüldüğü ve ilişkinin yeniden kurulduğu anlamına gelir.
+- Tapınak: Bu bölümde tapınakla ilgili pek çok terim kullanılır. Ancak bir tapınak olmayacaktır. Bunun yerine Yeni Yeruşalim Kutsalların Kutsalı şeklindedir. Bu, Tanrı’yla en yakın ilişki içinde olmanın bir resmidir ve tam bağlılığımızın bir başka örneğidir, çünkü hemen etrafı cehennemdir (ya hep içeride ya hep dışarıda).
+- Uluslar: Ulusların içeri gireceği söylenir.
+- Yahudiler ve kilise: Kilise ve İsrail’i tanımlayan ve bir uzlaşmayı (daha önce gerçekleşmesi gereken ;-)) tarif eden unsurlar vardır.
+
 
 Yeni Yeruşalim’in amacı, herkesin düşüşten önce olduğu gibi Tanrı’yla yakın bir ilişkiye sahip olmasıdır.
 
@@ -35,18 +40,22 @@ Tüm bunları duyduktan sonra iyi karar verin. Ne yapacaksınız? Şimdi nasıl 
 ### Yansıma
 
 <a name="5010"></a>
-<li id="0df2">Neden cennete gitmek istiyorsunuz?</li><li id="1e41">Diğer faydaların hiçbiri olmasa bile (sürekli acı, zulüm, hastalık, …) sonsuzluğu Tanrı ile geçirmek ister miydiniz? Eğer istemiyorsanız, neden?</li><li id="e5f3">Tüm sıkıntılarınız ortadan kalkacak olsa bile katlanamadığınız ya da umursamadığınız bir kişiyle sonsuza kadar yaşar mıydınız?</li><li id="e185">Bu cennet vizyonu şu anda dünyadaki yaşamınızı nasıl şekillendiriyor?</li>
+- Neden cennete gitmek istiyorsunuz?
+- Diğer faydaların hiçbiri olmasa bile (sürekli acı, zulüm, hastalık, …) sonsuzluğu Tanrı ile geçirmek ister miydiniz? Eğer istemiyorsanız, neden?
+- Tüm sıkıntılarınız ortadan kalkacak olsa bile katlanamadığınız ya da umursamadığınız bir kişiyle sonsuza kadar yaşar mıydınız?
+- Bu cennet vizyonu şu anda dünyadaki yaşamınızı nasıl şekillendiriyor?
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="7425"></a>
-- [Yeni Kudüs](../../../content/paradise/expl/the-new-jerusalem/index.html)
-- [Cennet ve Cehennem](../../../content/paradise/expl/heaven-and-hell/index.html)
+- [Yeni Kudüs](../../../content/paradise/expl/the-new-jerusalem)
+- [Cennet ve Cehennem](../../../content/paradise/expl/heaven-and-hell)
 
 
 
@@ -54,4 +63,4 @@ Tüm bunları duyduktan sonra iyi karar verin. Ne yapacaksınız? Şimdi nasıl 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/appl/what-is-heaven-and-hell-about.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/appl/what-is-heaven-and-hell-about.tr.md)

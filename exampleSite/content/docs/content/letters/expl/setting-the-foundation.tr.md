@@ -13,7 +13,7 @@ Vahiy kitabı, kolayca gözden kaçabilen ancak kitabın anlaşılması için ki
 
 Kitap yoğun bir şekilde “İsa Mesih’in Vahyi” (Yunanca Apokalypsis Iesou Christou) olarak başlar, “Tanrı’nın kullarına yakında gerçekleşmesi gerekenleri göstermek için ona verdiği”.
 
-Bu kitap bir kıyamet olarak tanımlanmaktadır, bu da kafanızda bazı imgeler uyandırabilir, ancak kastedilen bu değildir. Ayrıca “İsa’nın Vahyi” şeklindeki birebir doğru çeviri de soruları açıkta bırakmaktadır. [Kıyamet, bu kitabın nasıl okunacağını tarif eden bir edebi türdür](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html) — kışkırtan ve eylem talep eden bir kitaptır.
+Bu kitap bir kıyamet olarak tanımlanmaktadır, bu da kafanızda bazı imgeler uyandırabilir, ancak kastedilen bu değildir. Ayrıca “İsa’nın Vahyi” şeklindeki birebir doğru çeviri de soruları açıkta bırakmaktadır. [Kıyamet, bu kitabın nasıl okunacağını tarif eden bir edebi türdür](../../../background/literature/expl/the-book-of-revelation-how-to-read-it) — kışkırtan ve eylem talep eden bir kitaptır.
 
 Ama her şeyden önce bunun İsa’yla ilgili olduğunu, merkezde O’nun bulunduğunu unutmamalıyız. “İsa Mesih’in” ifadesini tercüme etmenin iki yolu vardır:
 
@@ -23,13 +23,16 @@ Ama her şeyden önce bunun İsa’yla ilgili olduğunu, merkezde O’nun bulund
 
 Yunanca her ikisini de destekler ve niyet de bu olabilir. Vahiy İsa’dan gelir, ama niyet İsa hakkında daha fazla şey açıklamaktır. Hizmetkârlar, Yuhanna’nın bunu yazdığı imanlılardır ve bu kitabın hitap ettiği kişiler de onlardır.
 
-Ayrıca “yakında gerçekleşmesi gereken” terimi bilinçli olarak seçilmiştir ve dünya imparatorluklarının sonunu ve Tanrı’nın egemenliğini anlatan [Daniel 2'nin vizyonuna](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html) atıfta bulunur. Daniel’den farkı, bunun artık gelecekte değil, gelmiş olmasıdır.
+Ayrıca “yakında gerçekleşmesi gereken” terimi bilinçli olarak seçilmiştir ve dünya imparatorluklarının sonunu ve Tanrı’nın egemenliğini anlatan [Daniel 2'nin vizyonuna](../../../bible/daniel/expl/the-four-kingdoms-in-daniel) atıfta bulunur. Daniel’den farkı, bunun artık gelecekte değil, gelmiş olmasıdır.
 
-[Bir sonraki ayet](https://www.bibleserver.com/TR/Vahiy1%3A2) İsa’nın tanıklığından söz ederek bunu daha da yoğunlaştırır.[ Bunun tüm kitapta merkezi bir konu olduğunu göreceğiz](../../../topics/power/short/the-power-of-testimony/index.html). İsa bu konuda sadece konuşmuyor, o yaşayan bir tanıktır — ve biz de öyle yapmalıyız.
+[Bir sonraki ayet](https://www.bibleserver.com/TR/Vahiy1%3A2) İsa’nın tanıklığından söz ederek bunu daha da yoğunlaştırır.[ Bunun tüm kitapta merkezi bir konu olduğunu göreceğiz](../../../topics/power/short/the-power-of-testimony). İsa bu konuda sadece konuşmuyor, o yaşayan bir tanıktır — ve biz de öyle yapmalıyız.
 
 Bir sonraki ayette bu daha açık bir şekilde ifade edilmektedir: “Ne mutlu bu peygamberlik sözlerini yüksek sesle okuyanlara ve ne mutlu onu işitip içinde yazılanları yürekten benimseyenlere, çünkü zaman yakındır.”
 
-<li id="0450">Bunu incelemeliyiz (bu zamanlarda herkesin bir kopyası olmadığı için kitap yüksek sesle okunuyordu), ama daha da önemlisi bunu <strong>uygulamalıyız</strong>.</li><li id="adda">Zaman yaklaşıyor. <strong>Fazla zamanımız yok, şimdi harekete geçmeliyiz</strong>. Son 2000 yılda bu konuda hiçbir şey değişmedi.</li><li id="5ac2">Bu bir kehanettir: Kiliseyi harekete geçmeye <strong>çağıran </strong>bir hatırlatmadır.</li>
+- Bunu incelemeliyiz (bu zamanlarda herkesin bir kopyası olmadığı için kitap yüksek sesle okunuyordu), ama daha da önemlisi bunu uygulamalıyız.
+- Zaman yaklaşıyor. Fazla zamanımız yok, şimdi harekete geçmeliyiz. Son 2000 yılda bu konuda hiçbir şey değişmedi.
+- Bu bir kehanettir: Kiliseyi harekete geçmeye çağıran bir hatırlatmadır.
+
 
 Zamanın yakın olması her an gerçekleşebileceği anlamına gelmez, ancak [Markos’ta](https://www.bibleserver.com/TR/Markos1%3A15) [aynı ifadenin](https://biblehub.com/interlinear/mark/1-15.htm) kullanıldığı ancak Tanrı’nın krallığının geldiğini anlatan abartılı bir yakınlık ifadesidir.
 
@@ -39,7 +42,11 @@ Zamanın yakın olması her an gerçekleşebileceği anlamına gelmez, ancak [Ma
 <a name="8853"></a>
 Şimdi Yeni Antlaşma mektubunun girişini yansıtan bir pasaj geliyor; burada normal olarak yazılanlar daha sonra gelecek her şeyin temelini oluşturur. [Burada da durum aynıdır](https://www.bibleserver.com/TR/Vahiy1%3A4)
 
-<li id="ebae">Onlara <strong>lütuf ve huzur</strong> verilir çünkü zorluklarla kendi başlarına başa çıkamayacakları için buna ihtiyaçları olacaktır.</li><li id="07dc">İsa sonsuz “<strong>olan, var olan ve var olacak olandır</strong>” (4. ve 8. ayetlerde). O zamanların hükümdarıdır, Her Şeye Gücü Yetendir. Bu aynı zamanda Alfa ve Omega (Yunan alfabesindeki ilk ve son harf) ile de ifade edilir — O başlangıç ve sondur. O değişmez.</li><li id="833e">“<strong>Tahtın önündeki yedi ruh</strong>” kulağa biraz tuhaf gelmektedir. [Zekeriya peygamberde kandiller Kutsal Ruh’la özdeşleştirilir](https://www.bibleserver.com/TR/Zekeriya4%3A6). Bu lambaların [kiliseleri tanımlayan yedi lamba standında](https://www.bibleserver.com/TR/Vahiy1%3A20) yanması amaçlanmış olabilir. “Tahtın önünde” ifadesi [4. bölümden](https://www.bibleserver.com/TR/Vahiy4%3A5) gelmektedir. Kutsal Ruh Tanrı’nın planını yerine getirmek için Tanrı’nın tahtından gelir.</li><li id="4043">İsa’nın <strong>sadık bir tanık</strong> olması konusunu ele aldık. Bu konu çok önemli olduğu için tekrar tekrar ele alınmıştır. “Sadık tanık”, “ilk doğan” ve “kralların hükümdarı” arasındaki bağlantı, Davut’un oğlu olarak [Mezmur 89'dan](https://www.bibleserver.com/TR/Mezmur89%3A19-32) gelmektedir.</li>- Ölüler arasından ilk doğan, ölene kadar sadık kalmak için bir teşviktir, çünkü bu bir son değildir.
+- Onlara lütuf ve huzur verilir çünkü zorluklarla kendi başlarına başa çıkamayacakları için buna ihtiyaçları olacaktır.
+- İsa sonsuz “olan, var olan ve var olacak olandır” (4. ve 8. ayetlerde). O zamanların hükümdarıdır, Her Şeye Gücü Yetendir. Bu aynı zamanda Alfa ve Omega (Yunan alfabesindeki ilk ve son harf) ile de ifade edilir — O başlangıç ve sondur. O değişmez.
+- “Tahtın önündeki yedi ruh” kulağa biraz tuhaf gelmektedir. [Zekeriya peygamberde kandiller Kutsal Ruh’la özdeşleştirilir](https://www.bibleserver.com/TR/Zekeriya4%3A6). Bu lambaların [kiliseleri tanımlayan yedi lamba standında](https://www.bibleserver.com/TR/Vahiy1%3A20) yanması amaçlanmış olabilir. “Tahtın önünde” ifadesi [4. bölümden](https://www.bibleserver.com/TR/Vahiy4%3A5) gelmektedir. Kutsal Ruh Tanrı’nın planını yerine getirmek için Tanrı’nın tahtından gelir.
+- İsa’nın sadık bir tanık olması konusunu ele aldık. Bu konu çok önemli olduğu için tekrar tekrar ele alınmıştır. “Sadık tanık”, “ilk doğan” ve “kralların hükümdarı” arasındaki bağlantı, Davut’un oğlu olarak [Mezmur 89'dan](https://www.bibleserver.com/TR/Mezmur89%3A19-32) gelmektedir.
+- Ölüler arasından ilk doğan, ölene kadar sadık kalmak için bir teşviktir, çünkü bu bir son değildir.
 - “O bizi seviyor ve bizi günahlarımızdan kurtardı” ifadesi İsa’nın bizim için olduğunu hatırlatır.
 - Bizi krallar ve kâhinler olarak yarattı. Bizler zaten kralız ama bunu uygulamamız gerekiyor — dünyanın yönettiği şekilde değil.
 
@@ -84,11 +91,11 @@ Zaman yakındır ve kilise harekete geçmelidir. İsa’nın her şeyi yaptığ�
 ## Daha derine inmek
 
 <a name="cd36"></a>
-[Beale, Relevation, sayfalar 181–222](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#1b3a)
+[Beale, Relevation, sayfalar 181–222](../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/setting-the-foundation.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/setting-the-foundation.tr.md)

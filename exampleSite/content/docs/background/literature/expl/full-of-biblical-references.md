@@ -31,11 +31,11 @@ The early readers were able to grasp this information very well because
 ## Further digging
 
 <a name="9730"></a>
-[Beale, Revelation, page 82–83](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#7557)
+[Beale, Revelation, page 82–83](../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/full-of-biblical-references.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/full-of-biblical-references.md)

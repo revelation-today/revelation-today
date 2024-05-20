@@ -7,26 +7,21 @@ There are many disputes about the 1000 year kingdom, which has spawned many theo
 
 First, let’s start with some questions about the text and what we think the text says:
 
-<li id="6376">[Who will reign over whom and where?](https://www.bibleserver.com/NIV/Revelation20%3A4)</li><li id="4f5f">Why not just a new heaven and a new earth? Because in the New Heaven and New Earth we are all sitting on clouds and playing harps?</li><li id="91c3">Where else in the Bible do we see the concept of a 1000 year kingdom except in this [one verse](https://www.bibleserver.com/NIV/Revelation20%3A4)?</li><li id="9c96">What kind of [reigning](https://www.bibleserver.com/NIV/Matthew20%3A20-28) in the 1000 years are we assuming?</li>
+- [Who will reign over whom and where?](https://www.bibleserver.com/NIV/Revelation20%3A4)
+- Why not just a new heaven and a new earth? Because in the New Heaven and New Earth we are all sitting on clouds and playing harps?
+- Where else in the Bible do we see the concept of a 1000 year kingdom except in this [one verse](https://www.bibleserver.com/NIV/Revelation20%3A4)?
+- What kind of [reigning](https://www.bibleserver.com/NIV/Matthew20%3A20-28) in the 1000 years are we assuming?
+
 <p>Chapter 17-22 is a chiasmus with <span style="color:red;">Difference</span>, <span style="color:green;">Common</span> und <span style="color:blue;">Identification</span></p>
-<ul>
-<li>[17/1-19/10](https://www.bibleserver.com/NIV/Revelation17): <span style="color:red;">Judgment</span> over the <span style="color:red;">harlot</span></li>
-<ul>
-<li>[19/11-16](https://www.bibleserver.com/NIV/Revelation19%2C11-16): the <span style="color:green;">godly judge</span></li>
-<ul>
-<li>[19/17-21](https://www.bibleserver.com/NIV/Revelation19%2C17-21): <span style="color:green;">Judgment</span> over the <span style="color:blue;">beasts and the false prophet</span> (see [Ez.39](https://www.bibleserver.com/NIV/Ezekiel9%2C39))</li>
-<ul>
-<li>[20/1-3](https://www.bibleserver.com/NIV/Revelation20%2C1-3): <span style="color:red;">Satan imprisoned</span> for <span style="color:green;">1000 years</span></li>
-<li>[20/4-6](https://www.bibleserver.com/NIV/Revelation20%2C4-6): <span style="color:red;">Satan reigns</span> after <span style="color:green;">1000 years</span></li>
 
-
-<li>[20/7-10](https://www.bibleserver.com/NIV/Revelation20%2C7-10): <span style="color:green;">Judgment</span> over <span style="color:blue;">Gog and Magog</span></li>
-
-
-<li>[20/11-15](https://www.bibleserver.com/NIV/Revelation20%2C11-15): the <span style="color:green;">godle judge</span></li>
-
-
-<li>[21/1-22/5](https://www.bibleserver.com/NIV/Revelation21): <span style="color:red;">justification</span> of the <span style="color:red;">bride</span></li>
+- [17/1-19/10](https://www.bibleserver.com/NIV/Revelation17): Judgment over the harlot
+- [19/11-16](https://www.bibleserver.com/NIV/Revelation19%2C11-16): the godly judge
+- [19/17-21](https://www.bibleserver.com/NIV/Revelation19%2C17-21): Judgment over the beasts and the false prophet (see [Ez.39](https://www.bibleserver.com/NIV/Ezekiel9%2C39))
+- [20/1-3](https://www.bibleserver.com/NIV/Revelation20%2C1-3): Satan imprisoned for 1000 years
+- [20/4-6](https://www.bibleserver.com/NIV/Revelation20%2C4-6): Satan reigns after 1000 years
+- [20/7-10](https://www.bibleserver.com/NIV/Revelation20%2C7-10): Judgment over Gog and Magog
+- [20/11-15](https://www.bibleserver.com/NIV/Revelation20%2C11-15): the godle judge
+- [21/1-22/5](https://www.bibleserver.com/NIV/Revelation21): justification of the bride
 
  
 The 1000 year kingdom is part of a larger context called a chiasm, which organizes things not linearly but symmetrically. So an old theme could be repeated from a different perspective.
@@ -73,14 +68,15 @@ Or could it be that these are two different battles? Well, there are some concer
 
 - Chapter 19 (destruction by [sword](https://www.bibleserver.com/NIV/Revelation19%3A15)) and chapter 20 (destruction by [fire](https://www.bibleserver.com/NIV/Revelation20%3A9)) seem to point to different battles because God uses different weapons, but exactly the same we have in both visions in Ezekiel, where both are used in both visions: the [sword](https://www.bibleserver.com/NIV/Ezekiel38%3A21) and the [fire](https://www.bibleserver.com/NIV/Ezekiel38%3A22) in chapter 38, and the [sword](https://www.bibleserver.com/NIV/Ezekiel39%3A17-21) and the [fire](https://www.bibleserver.com/NIV/Ezekiel39%3A6) in chapter 39.
 - Chapters 19 and chapter 20 could be different degrees of fulfillment, but in both chapters there is a similar description, similar to the end-time battles in [Ezekiel](https://www.bibleserver.com/NIV/Ezekiel38), [Zechariah](https://www.bibleserver.com/NIV/Zechariah12) and [Zephaniah](https://www.bibleserver.com/NIV/Zephaniah3) — all are final.
-<li id="1465">While chapter 19 describes [human armies](https://www.bibleserver.com/NIV/Revelation19%3A19), chapter 20 describes [demonic armies](https://www.bibleserver.com/NIV/Revelation20%3A8), but where it is written that the armies in chapter 20 are demonic? In both chapters we have Satan leading human armies, read those verse again carefully and [check the sixth seal](https://www.bibleserver.com/NIV/Revelation16%3A14).</li>- Could you conclude from the order of events in Daniel [chapter 7](https://www.bibleserver.com/NIV/Daniel7), that there are several battles as the devil is defeated after the reign of the saints, but Daniel is very repetitive (the reign of the saints is in verses [8](https://www.bibleserver.com/NIV/Daniel7%3A8), [13–14](https://www.bibleserver.com/NIV/Daniel7%3A14), [19–22](https://www.bibleserver.com/NIV/Daniel7%3A19-22), [23–25](https://www.bibleserver.com/NIV/Daniel7%3A23-25) and [27](https://www.bibleserver.com/NIV/Daniel7%3A27), while the judgment of the beast is in verses [9–11](https://www.bibleserver.com/NIV/Daniel7%3A9-11) and [26](https://www.bibleserver.com/NIV/Daniel7%3A26)). Also, the [opening of the book](https://www.bibleserver.com/NIV/Daniel7%3A10) comes before everything else.
+- While chapter 19 describes [human armies](https://www.bibleserver.com/NIV/Revelation19%3A19), chapter 20 describes [demonic armies](https://www.bibleserver.com/NIV/Revelation20%3A8), but where it is written that the armies in chapter 20 are demonic? In both chapters we have Satan leading human armies, read those verse again carefully and [check the sixth seal](https://www.bibleserver.com/NIV/Revelation16%3A14).
+- Could you conclude from the order of events in Daniel [chapter 7](https://www.bibleserver.com/NIV/Daniel7), that there are several battles as the devil is defeated after the reign of the saints, but Daniel is very repetitive (the reign of the saints is in verses [8](https://www.bibleserver.com/NIV/Daniel7%3A8), [13–14](https://www.bibleserver.com/NIV/Daniel7%3A14), [19–22](https://www.bibleserver.com/NIV/Daniel7%3A19-22), [23–25](https://www.bibleserver.com/NIV/Daniel7%3A23-25) and [27](https://www.bibleserver.com/NIV/Daniel7%3A27), while the judgment of the beast is in verses [9–11](https://www.bibleserver.com/NIV/Daniel7%3A9-11) and [26](https://www.bibleserver.com/NIV/Daniel7%3A26)). Also, the [opening of the book](https://www.bibleserver.com/NIV/Daniel7%3A10) comes before everything else.
 
 
 
 ## Further arguments for one battle
 
 <a name="ba8d"></a>
-- During the actions of the sixth seal the armies are gathered (at [Armageddon which refers to a mountain](../../../content/bowls/expl/the-key-to-armageddon/index.html)), so the battle is yet to happen. In the seventh bowl the defeat is announced (which is followed by a detailed description of the defeat of the harlot Babel and as a counter action the wedding of the bride), where the battle is described in detail in [chapter 19](https://www.bibleserver.com/NIV/Revelation19%3A17-21).
+- During the actions of the sixth seal the armies are gathered (at [Armageddon which refers to a mountain](../../../content/bowls/expl/the-key-to-armageddon)), so the battle is yet to happen. In the seventh bowl the defeat is announced (which is followed by a detailed description of the defeat of the harlot Babel and as a counter action the wedding of the bride), where the battle is described in detail in [chapter 19](https://www.bibleserver.com/NIV/Revelation19%3A17-21).
 - At the [beginning of the bowls it is stated that these are the final plagues](https://www.bibleserver.com/NIV/Revelation15%3A1) which would be the [destruction of the devil’s kingdom](https://www.bibleserver.com/NIV/Revelation16%3A18-20) which is done in [chapter 19](https://www.bibleserver.com/NIV/Revelation19%3A17-21), any further battle after that must be a recapitulation of chapter 19.
 
 
@@ -107,4 +103,4 @@ But aren’t there also differences?In chapter 12 Satan is thrown to the [earth]
 So only people who that die for their faith will rule? Not really.Because also in the book we have different kinds of witnesses and their suffering:[John in exile](https://www.bibleserver.com/NIV/Revelation1%3A9),[overcomers as did not love their life (did not consider it that precious)](https://www.bibleserver.com/NIV/Revelation12%3A10),[faithful in the face of death](https://www.bibleserver.com/NIV/Revelation2%3A10),[faithful to Jesus](https://www.bibleserver.com/NIV/Revelation14%3A1-5).[And we are all called kings (and priests)](https://www.bibleserver.com/NIV/Revelation1%3A6) who [rule](https://www.bibleserver.com/NIV/Revelation5%3A9-10).So anyone who is loyal to God will rule, even [if it is (only) economic or social pressure](https://www.bibleserver.com/NIV/Revelation13%3A15-17)So what is the second death?“[Blessed and holy are those who share in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ and will reign with him for a thousand years.](https://www.bibleserver.com/NIV/Revelation20%3A6)”When we are born we have our “first life” in the old creation. When [we are born again we have our “second life”](https://www.bibleserver.com/NIV/John3) which we could call the first resurrection. The second death is that of not having the second life which means they are spiritually dead in God.Dig DeeperBeale, Revelation, pages 972–1031Aune, Revelation, pages 1084–1090
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/expl/the-thousand-year-kingdom.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/expl/the-thousand-year-kingdom.md)

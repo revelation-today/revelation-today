@@ -47,4 +47,4 @@ Vahiy kitabındaki Babil, Daniel’in Babil’i ile de güçlü bağlara sahipti
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-origin-of-babel.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-origin-of-babel.tr.md)

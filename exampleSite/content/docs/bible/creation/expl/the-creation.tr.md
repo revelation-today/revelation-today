@@ -102,16 +102,18 @@ Kain’in soyu daha da büyür ve şehirlere ve yeniliklere sığınır. Adem’
 İki karısı olduğu bildirilen ilk kişidir ve atası Kabil’in üzerindeki Tanrı işaretiyle alay eder.
 
 - Zaten birini öldürmüştü, Tanrı’nın işareti başka bir cinayetten kaçınmaktı.
-<li id="222e">Lamech’in sonuçları Tanrı’nın sonuçlarından çok daha büyük olacak, o Tanrı’dan daha mı büyük?</li>
+- Lamech’in sonuçları Tanrı’nın sonuçlarından çok daha büyük olacak, o Tanrı’dan daha mı büyük?
+
 
 Ama aynı zamanda gülünç durumdalar
 
 - Bunu tüm dünyaya söylemiyor ama sadece karısının önünde övünme cesaretini gösteriyor.
-<li id="e5e3">Peki Lamech öldürüldüğünde intikamını tam olarak kim alacak? Karısı mı?</li>
+- Peki Lamech öldürüldüğünde intikamını tam olarak kim alacak? Karısı mı?
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/creation/expl/the-creation.tr.md)
+
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/creation/expl/the-creation.tr.md)

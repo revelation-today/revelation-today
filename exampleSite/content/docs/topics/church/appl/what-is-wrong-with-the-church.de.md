@@ -11,13 +11,13 @@ Die Gemeinde soll ein Segen für die Welt sein und ein Leben führen, das auch f
 <a name="ca59"></a>
 Auf einem tieferen Level sind wir relativ einfach: Wir folgen der [Maslows Pyramide](https://de.wikipedia.org/wiki/Maslowsche_Bed%C3%BCrfnishierarchie). Wir geben nichts, wenn wir nichts dafür bekommen. Sogar selbstlose Taten machen wir meist nur für ein gutes Gewissen oder soziale Anerkennung oder für etwas größeres, das der Tat Bedeutung gibt. Das wird auch in der Bibel reflektiert.
 
-Die Bibel beschreibt[ Mann und Frau (Adam und Eva) waren im Bild Gottes modelliert](https://www.bibleserver.com/SLT/1.Mose1%2C27), was heißt, sie waren seine Stellvertreter. Sie hatten alle Freiheit und Erfüllung, die man sich denken konnte, aber sie haben in dem [wichtigsten Aspekt versagt: Gottes Gabe an sie bekam wichtiger als der Geber, mit anderen Worten wählte der Mann die Frau, die Gott ihm gab anstelle Gott und gehorchte ihrem Wort](../../../bible/creation/expl/the-creation/index.html).
+Die Bibel beschreibt[ Mann und Frau (Adam und Eva) waren im Bild Gottes modelliert](https://www.bibleserver.com/SLT/1.Mose1%2C27), was heißt, sie waren seine Stellvertreter. Sie hatten alle Freiheit und Erfüllung, die man sich denken konnte, aber sie haben in dem [wichtigsten Aspekt versagt: Gottes Gabe an sie bekam wichtiger als der Geber, mit anderen Worten wählte der Mann die Frau, die Gott ihm gab anstelle Gott und gehorchte ihrem Wort](../../../bible/creation/expl/the-creation).
 
 Sie verloren die Beziehung zu Gott und mussten auf sich selbst gestellt [weitermachen](https://www.bibleserver.com/SLT/1.Mose4), was geprägt war durch Neid, Mord und fehlendem Respekt vor dem Leben anderer.
 
 Alle bösen Menschen zu vernichten (außer Noah) hatten keinen Effekt, da Noahs Familie selbst Teil des Probleme wurde und [Noah seinen Enkel Kanaan verflucht hat](https://www.bibleserver.com/SLT/1.Mose9%2C18-27). Später haben Kolonialisten diese Stelle (völlig falsch) benutzt, um den Sklavenhanel zu begründen.
 
-Die Reise geht weiter und die Menschheit versucht sich einen Namen zu machen, was in [dem Gegenteil resultiert](../../../bible/keyword/expl/the-origin-of-babel/index.html) und Gott macht dafür aus Abraham einen Namen. Er wurde der Stammvater von Israel. Gott machte einen Bund mit Israel mit dem Gedanken, dass sie ein gutes Vorbild für die Völker um sie herum sind und sie damit inspirieren, auch Teil des Bundes mit Gott zu werden. Doch Israel war schlimmer als die Völker um sie herum und Gott sendete sie ins Exil und damit schließt der erste Teil der Bibel, das Alte Testament, ab.
+Die Reise geht weiter und die Menschheit versucht sich einen Namen zu machen, was in [dem Gegenteil resultiert](../../../bible/keyword/expl/the-origin-of-babel) und Gott macht dafür aus Abraham einen Namen. Er wurde der Stammvater von Israel. Gott machte einen Bund mit Israel mit dem Gedanken, dass sie ein gutes Vorbild für die Völker um sie herum sind und sie damit inspirieren, auch Teil des Bundes mit Gott zu werden. Doch Israel war schlimmer als die Völker um sie herum und Gott sendete sie ins Exil und damit schließt der erste Teil der Bibel, das Alte Testament, ab.
 
 Was ist dann das eigentliche Problem? Es ist, was am Anfang erklärt wurde: Die Gabe mehr als den Geber lieben. Es ist eine Form von Gier kombiniert mit Angst, zu kurz zu kommen (Versorgung, Anerkennung, Sicherheit, Angst ausgeschlossen zu sein oder etwa zu verpassen, …). Deshalb missbrauchen wir Menschen und Beziehungen, um diese Dinge zu bekommen (Geld, Anerkennung, soziale Media Status, ein gutes Gewissen, Sinn im Leben, …).
 
@@ -41,7 +41,7 @@ Lass uns ein einfaches Beispiel nehmen. Rauchen ist schlecht. Es zerstört die G
 
 Und Gemeinden bestehen aus Menschen, die mit ihren eigenen Problemen kommen und versuchen, sie in den Griff zu bekommen ohne aufzufallen. Und das hilft auch keinem.
 
-[Das ist ein Kontext, den man nicht mal so eben ändern kann](../../../topics/hero/short/a-real-hero/index.html).
+[Das ist ein Kontext, den man nicht mal so eben ändern kann](../../../topics/hero/short/a-real-hero).
 
 
 ## Ein Weg aus dieser Situation
@@ -51,7 +51,8 @@ Jesus beschreibt dies mit dem Problem [des guten und schlechten Baumes](https://
 
 Das ist ein großes Thema, das ich Dallas Willard überlassen (Links sind leider alle auf englisch). Die Vorträge sind 25 Jahre alt aber immer noch relevant. Er hat sich zu seiner Zeit gefragt, warum Menschen die Gemeinde besuchen, aber ihr Verhalten sich nicht ändert.
 
-<li id="7692">[Dallas Willard — Human Beings as Spiritual Beings](https://www.youtube.com/watch?v=rqib-BIEijM) oder</li>- wenn du etwas lesen willst “[Spiritual Disciplines and the Restoration of the Soul](https://dwillard.org/articles/spiritual-disciplines-spiritual-formation-and-the-restoration-of-the-soul)” oder
+- [Dallas Willard — Human Beings as Spiritual Beings](https://www.youtube.com/watch?v=rqib-BIEijM) oder
+- wenn du etwas lesen willst “[Spiritual Disciplines and the Restoration of the Soul](https://dwillard.org/articles/spiritual-disciplines-spiritual-formation-and-the-restoration-of-the-soul)” oder
 - [Michael Goremans view on the new covenant](https://www.reddit.com/r/cruciformity/comments/st85s5/free_ebook_the_death_of_the_messiah_and_the_birth/)
 
 
@@ -92,15 +93,15 @@ Als Christ muss ich immer nett zu anderen sein. So falsch. Nimm Jesus als Beispi
 
 Wir sollen auch schwierige Themen ansprechen und nicht versuchen, jedem zu gefallen.
 
-Als Christ mußt du andere in die Gemeinde bringen und sie dazu bringen, auch Christen zu werden. Warum? Damit sie werden wie du? Versuche ein [Zeuge zu sein und ziehe sie dadurch an](../../../content/witnesses/expl/the-two-witnesses/index.html).
+Als Christ mußt du andere in die Gemeinde bringen und sie dazu bringen, auch Christen zu werden. Warum? Damit sie werden wie du? Versuche ein [Zeuge zu sein und ziehe sie dadurch an](../../../content/witnesses/expl/the-two-witnesses).
 
 Menschen werden Christen, wenn sie verstehen, dass sie Sünder sind oder wenn sie einer schwierigen Situation sind.
 
 Ja, es gibt solche Fälle, aber das geht in die falsche Richtung.
 
-Wir sollten nie mit Schuldgefühle arbeiten, dass ist Manipulation und Arbeit mit Angst — [etwas, womit wir besser nicht assoziiert werden wollen](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html).
+Wir sollten nie mit Schuldgefühle arbeiten, dass ist Manipulation und Arbeit mit Angst — [etwas, womit wir besser nicht assoziiert werden wollen](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
 
-Wenn Menschen ein harte Zeit im Leben haben, mag es sein, dass sie zu [allem möglichen gehen](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html) oder im [Ärger leiden](../../../content/bowls/expl/the-bowls-of-wrath/index.html). Wenn es für sie keine [plausible Alternative gibt (dein Zeugnis)](../../../content/witnesses/expl/the-two-witnesses/index.html), dann gibt es keinen Grund für sie Christen zu werden. Und wieder, erzähl nicht, das alle deine Probleme verschwinden, wenn du Christ wirst. Das ist eine Lüge!
+Wenn Menschen ein harte Zeit im Leben haben, mag es sein, dass sie zu [allem möglichen gehen](../../../content/trumpets/expl/the-trumpets-in-revelation) oder im [Ärger leiden](../../../content/bowls/expl/the-bowls-of-wrath). Wenn es für sie keine [plausible Alternative gibt (dein Zeugnis)](../../../content/witnesses/expl/the-two-witnesses), dann gibt es keinen Grund für sie Christen zu werden. Und wieder, erzähl nicht, das alle deine Probleme verschwinden, wenn du Christ wirst. Das ist eine Lüge!
 
 Jesus kam auf die Erde und starb für meine Sünde, damit ich in dem Himmel komme.
 
@@ -147,4 +148,4 @@ Denke daran: Wenn die Gemeinde so wachsen würde und jeder da die Priorität und
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/church/appl/what-is-wrong-with-the-church.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/church/appl/what-is-wrong-with-the-church.de.md)

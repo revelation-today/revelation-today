@@ -50,4 +50,4 @@ Dass ihr Name nicht aus dem Buch des Lebens gestrichen wird, bedeutet, dass sie 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-sardis.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-sardis.de.md)

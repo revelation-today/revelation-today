@@ -9,8 +9,8 @@ In the book of Revelation in the Bible we see four horsemen or apocalyptic rider
 ## You may want to read before
 
 <a name="11a6"></a>
-- [Historical background of the book](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation/index.html)
-- [What type of book is this](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html)
+- [Historical background of the book](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [What type of book is this](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 
 
 
@@ -60,7 +60,7 @@ When we look at the horseman, we see similarities between them, but also differe
 To understand this, we need a little background:
 
 - Food was often rationed (e.g. in the Bible describing a coming famine, the state of a concrete famine, prophetic view of a famine).
-- For reference: one measure of wheat is enough for one person for one day, 3 measures of barley is enough for a family for three days (barley is used as animal food) -> so prices have gone up by a number of 8–16.
+- For reference: one measure of wheat is enough for one person for one day, 3 measures of barley is enough for a family for three days (barley is used as animal food) -&gt; so prices have gone up by a number of 8–16.
 - Wine and oil are used as luxury goods in the context of Revelation (no relation in this book to anointing and the Lord’s Supper).
 
 
@@ -104,7 +104,7 @@ So the first horseman is the one who is evil but pretends to be good and like Je
 
 Now also the reference to [God’s plagues](https://www.bibleserver.com/NIV/Ezekiel14%3A12-23) (wild beasts, sword, famine, and pestilence) makes sense. We can map them
 
-- The first horseman represents the wild beasts, as he [calls the two beasts](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html) in [chapter 13](https://www.bibleserver.com/NIV/Revelation13) and represents [deception](https://www.bibleserver.com/NIV/2%20Corinthians11%3A14) — he makes many promises.
+- The first horseman represents the wild beasts, as he [calls the two beasts](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) in [chapter 13](https://www.bibleserver.com/NIV/Revelation13) and represents [deception](https://www.bibleserver.com/NIV/2%20Corinthians11%3A14) — he makes many promises.
 - The second horseman represents the sword given to him — he attacks anyone who does not buy into the promises, like the first beast in chapter 13.
 - The third horseman represents hunger as the poor will suffer — he puts economic pressure on the nonconformists as the second beast in chapter 13, which is related to the harlot in in [chapter 17](https://www.bibleserver.com/NIV/Revelation17).
 - The last horseman sums up the effect of the trinity shown.
@@ -112,7 +112,7 @@ Now also the reference to [God’s plagues](https://www.bibleserver.com/NIV/Ezek
 
 
 
-So no matter how attractive the devil’s offer may be and how much it may look like Jesus. Don’t go for it, because it will end in disaster.Further reading[The 144 000](../../../content/army/expl/the-144000/index.html)[The trumpets](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html)Dig DeeperBeale, Revelation, pages 370–395
+So no matter how attractive the devil’s offer may be and how much it may look like Jesus. Don’t go for it, because it will end in disaster.Further reading[The 144 000](../../../content/army/expl/the-144000)[The trumpets](../../../content/trumpets/expl/the-trumpets-in-revelation)Dig DeeperBeale, Revelation, pages 370–395
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-mystery-of-the-four-horse-men.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-mystery-of-the-four-horse-men.md)

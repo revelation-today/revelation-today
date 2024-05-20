@@ -5,7 +5,7 @@ title: "The story of Moses"
 
 The story of Moses is against the script of every hero story known in the ancient world, but it is a success story.
 
-The story is only two chapters long in the Bible and is worth reading in advance. It is first the [story of keeping the Israelites](https://www.bibleserver.com/NIV/Exodus1) small to avoid a second [Hyksos](../../../bible/exodus/expl/the-story-before-the-exodus/index.html) and then the [story of Moses](https://www.bibleserver.com/NIV/Exodus2).
+The story is only two chapters long in the Bible and is worth reading in advance. It is first the [story of keeping the Israelites](https://www.bibleserver.com/NIV/Exodus1) small to avoid a second [Hyksos](../../../bible/exodus/expl/the-story-before-the-exodus) and then the [story of Moses](https://www.bibleserver.com/NIV/Exodus2).
 
 
 ## The fight against a second Hyksos
@@ -13,7 +13,12 @@ The story is only two chapters long in the Bible and is worth reading in advance
 <a name="f92d"></a>
 The Pharaoh does everything to prevent the Israelites from becoming a great people, but whatever he does, he fails. It is a kind of parody.
 
-<li id="06fd"><strong>The Pharaoh sees himself as representative of the gods.<br/></strong><em>He is not a key character in the story. He is not even mentioned by name. He is treated like a background actor, like the gods he represents — none of them are mentioned by name.<br/>But the main heroes are named and they are mostly women and all non-Egyptians (</em>[Schifra and Pua, the names of the midwives](https://www.bibleserver.com/NIV/Exodus1%3A15)<em> are Semitic).</em></li><li id="4fc4"><strong>Pharaoh make the Israelite slave work so hard that they die.</strong><br/><em>The people increase in number more and more and finally they are loaded with riches </em>[when they leave Egypt](https://www.bibleserver.com/NIV/Exodus12%3A35-36)<em>. They are finally not only free but also restored in their dignity.</em></li><li id="197b"><strong>The midwives are supposed to kill the newborn babies.</strong><br/><em>They refuse to the Pharaoh (as Asian foreigners) and are not punished but </em>[blessed by God with children](https://www.bibleserver.com/NIV/Exodus1%3A21)</li><li id="690b"><strong>Newborn babies should be thrown into the Nile.</strong><br/><em>Moses is put into the Nile in a basket, which is </em>[the same word](https://biblehub.com/hebrew/strongs_8392.htm)<em> as Noah’s Ark, he is saved.</em></li><li id="9244"><strong>Moses is the key in the story and the one who will bring down the Pharaoh.</strong><br/><em>He is </em>[raised by the Pharaoh’s daughter and his mother is paid to raise him](https://www.bibleserver.com/NIV/Exodus2%3A5-10)<em>.</em></li>
+- The Pharaoh sees himself as representative of the gods.He is not a key character in the story. He is not even mentioned by name. He is treated like a background actor, like the gods he represents — none of them are mentioned by name.But the main heroes are named and they are mostly women and all non-Egyptians ([Schifra and Pua, the names of the midwives](https://www.bibleserver.com/NIV/Exodus1%3A15) are Semitic).
+- Pharaoh make the Israelite slave work so hard that they die.The people increase in number more and more and finally they are loaded with riches [when they leave Egypt](https://www.bibleserver.com/NIV/Exodus12%3A35-36). They are finally not only free but also restored in their dignity.
+- The midwives are supposed to kill the newborn babies.They refuse to the Pharaoh (as Asian foreigners) and are not punished but [blessed by God with children](https://www.bibleserver.com/NIV/Exodus1%3A21)
+- Newborn babies should be thrown into the Nile.Moses is put into the Nile in a basket, which is [the same word](https://biblehub.com/hebrew/strongs_8392.htm) as Noah’s Ark, he is saved.
+- Moses is the key in the story and the one who will bring down the Pharaoh.He is [raised by the Pharaoh’s daughter and his mother is paid to raise him](https://www.bibleserver.com/NIV/Exodus2%3A5-10).
+
 
 
 ## The story of Moses
@@ -21,7 +26,12 @@ The Pharaoh does everything to prevent the Israelites from becoming a great peop
 <a name="6f9c"></a>
 The story of Moses is the complete opposite of a hero story in ancient times. I will write the normal story in bold and the Moses story below it in italics.
 
-<li id="501d"><strong>The story begins when the hero is abandoned as a baby (Hercules, Oedipus, Romulus and Remus, Cyros, …).</strong><br/><em>Moses was hidden by his loving mother and monitors carefully watched until he is in good hands.</em></li><li id="f450"><strong>The finder of the child is usually of low status.</strong><br/><em>Moses was raised by the Pharaoh’s daughter and nursed by his own mother.</em></li><li id="4f1f"><strong>The identity of the child is unknown and is not revealed until the end.</strong><br/><em>Moses’ identity is </em>[known from the very beginning by Pharaoh’s daughter](https://www.bibleserver.com/NIV/Exodus2%3A6)<em>.</em></li><li id="edc9"><strong>The discovery of his true identity is the turning point and gives him the status he deserves.</strong><br/><em>Moses’ true identity gets him into trouble and he has to run away to survive.</em></li><li id="d970"><strong>The reason for the story is to show the hero’s claim to power.</strong><br/><em>The story does not show Moses claim, but God’s provision and control.</em></li>
+- The story begins when the hero is abandoned as a baby (Hercules, Oedipus, Romulus and Remus, Cyros, …).Moses was hidden by his loving mother and monitors carefully watched until he is in good hands.
+- The finder of the child is usually of low status.Moses was raised by the Pharaoh’s daughter and nursed by his own mother.
+- The identity of the child is unknown and is not revealed until the end.Moses’ identity is [known from the very beginning by Pharaoh’s daughter](https://www.bibleserver.com/NIV/Exodus2%3A6).
+- The discovery of his true identity is the turning point and gives him the status he deserves.Moses’ true identity gets him into trouble and he has to run away to survive.
+- The reason for the story is to show the hero’s claim to power.The story does not show Moses claim, but God’s provision and control.
+
 
 
 ## The further story of Moses
@@ -50,4 +60,4 @@ Nahum Sarna, Exodus, pages 27–37
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-birth-of-moses.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-birth-of-moses.md)

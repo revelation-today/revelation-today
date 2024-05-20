@@ -55,7 +55,13 @@ So everything depends on the good witness of the Church.
 ### Reflection
 
 <a name="8333"></a>
-<li id="bd8f">Why do you think that Jesus and his death and resurrection are the answer to the problems of this world?</li><li id="bdf7">What would the world look like if Jesus intervened with power and strength against every evil?</li><li id="bddf">What would the world look like if the church acted like Jesus, a church that heals and reconciles and encourages but also sets boundaries, a church that does not work with fear and violence, prejudice and condemnation?</li><li id="2675">Do you think a world without Jesus is fixable?</li><li id="14ab">How do you respond when people speak ill of the church?</li><li id="c724">Can you think of a promise made by an organization or government that ended up causing more pain? What initiative really made a difference, even when it seemed hopeless? What was the difference?</li>
+- Why do you think that Jesus and his death and resurrection are the answer to the problems of this world?
+- What would the world look like if Jesus intervened with power and strength against every evil?
+- What would the world look like if the church acted like Jesus, a church that heals and reconciles and encourages but also sets boundaries, a church that does not work with fear and violence, prejudice and condemnation?
+- Do you think a world without Jesus is fixable?
+- How do you respond when people speak ill of the church?
+- Can you think of a promise made by an organization or government that ended up causing more pain? What initiative really made a difference, even when it seemed hopeless? What was the difference?
+
 
 
 
@@ -65,10 +71,11 @@ So everything depends on the good witness of the Church.
 ## Digging deeper
 
 <a name="06f1"></a>
-- [A real hero](../../../topics/hero/short/a-real-hero/index.html)
-<li id="dff8">[Who rules the world?](../../../topics/hero/short/who-rules-the-world/index.html)</li>- [The book with the seven seals](../../../content/seals/expl/the-book-with-the-seven-seals/index.html)
-- [The mystery of the four horsemen](../../../content/seals/expl/the-mystery-of-the-four-horse-men/index.html)
-- [The wrath of the lamb](../../../content/seals/expl/the-wrath-of-the-lamb/index.html)
+- [A real hero](../../../topics/hero/short/a-real-hero)
+- [Who rules the world?](../../../topics/hero/short/who-rules-the-world)
+- [The book with the seven seals](../../../content/seals/expl/the-book-with-the-seven-seals)
+- [The mystery of the four horsemen](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [The wrath of the lamb](../../../content/seals/expl/the-wrath-of-the-lamb)
 
 
 
@@ -76,4 +83,4 @@ So everything depends on the good witness of the Church.
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/appl/the-paradox-of-the-seven-seals.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/appl/the-paradox-of-the-seven-seals.md)

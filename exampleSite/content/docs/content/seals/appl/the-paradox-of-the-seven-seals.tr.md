@@ -51,16 +51,17 @@ Yani her şey kilisenin iyi tanıklığına bağlıdır.
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="a799"></a>
-- [Gerçek bir kahraman](../../../topics/hero/short/a-real-hero/index.html)
-<li id="ed69">[Dünyayı kim yönetiyor?](../../../topics/hero/short/who-rules-the-world/index.html)</li>- [Yedi mühürlü kitap](../../../content/seals/expl/the-book-with-the-seven-seals/index.html)
-- [Dört atlının gizemi](../../../content/seals/expl/the-mystery-of-the-four-horse-men/index.html)
-- [Kuzunun gazabı](../../../content/seals/expl/the-wrath-of-the-lamb/index.html)
+- [Gerçek bir kahraman](../../../topics/hero/short/a-real-hero)
+- [Dünyayı kim yönetiyor?](../../../topics/hero/short/who-rules-the-world)
+- [Yedi mühürlü kitap](../../../content/seals/expl/the-book-with-the-seven-seals)
+- [Dört atlının gizemi](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [Kuzunun gazabı](../../../content/seals/expl/the-wrath-of-the-lamb)
 
 
 
@@ -68,4 +69,4 @@ Yani her şey kilisenin iyi tanıklığına bağlıdır.
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/appl/the-paradox-of-the-seven-seals.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/appl/the-paradox-of-the-seven-seals.tr.md)

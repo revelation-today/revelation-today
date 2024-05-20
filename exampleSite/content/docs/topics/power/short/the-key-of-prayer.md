@@ -54,4 +54,4 @@ But the prayers here are an alignment with God’s will so that they will be.
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/the-key-of-prayer.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/the-key-of-prayer.md)

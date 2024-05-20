@@ -117,4 +117,4 @@ Bu sahne evlenen Yahudi olmayanları anlatmaktadır. Toprakların çoğuna sahip
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-remnant-of-israel.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-remnant-of-israel.tr.md)

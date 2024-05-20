@@ -56,4 +56,4 @@ Yok edilmekten korkmadığı için kötü insanları iyileştirme ve onarma pota
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/a-real-hero.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/a-real-hero.tr.md)

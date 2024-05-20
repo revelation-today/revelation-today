@@ -56,4 +56,4 @@ Und sie haben eine [Verheißung im Neuen Jerusalem](https://www.bibleserver.com/
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-ephesus.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-ephesus.de.md)

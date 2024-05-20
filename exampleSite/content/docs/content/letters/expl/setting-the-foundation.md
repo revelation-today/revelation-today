@@ -13,7 +13,7 @@ The book of Revelation begins with some statements that are easy to overlook, bu
 
 The book begins intensely as the “Revelation of Jesus Christ” (Apokalypsis Iesou Christou in Greek), “which God gave him to show his servants what must soon take place”.
 
-This book is described as an apocalypse, which may trigger certain images in your mind, but that is not what it means. Even the literal correct translation as “Revelation of Jesus” leaves questions open. [Apocalypse is a literary genre that describes how to read this book](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html) — it is a book that provokes and demands action.
+This book is described as an apocalypse, which may trigger certain images in your mind, but that is not what it means. Even the literal correct translation as “Revelation of Jesus” leaves questions open. [Apocalypse is a literary genre that describes how to read this book](../../../background/literature/expl/the-book-of-revelation-how-to-read-it) — it is a book that provokes and demands action.
 
 But in all of this we should not forget that it is about Jesus, he is in the center. There are two ways to translate “of Jesus Christ”:
 
@@ -23,13 +23,16 @@ But in all of this we should not forget that it is about Jesus, he is in the cen
 
 The Greek supports both, and that may be the intention. The revelation comes from Jesus, but the intention is to reveal more about Jesus. The servants are the believers to whom John is writing, and they are the ones to whom this book is addressed.
 
-The phrase “what must soon take place” is also deliberately chosen and refers to the [vision of Daniel 2](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html) which describes the end of the world’s kingdoms and the reign of God. The difference with Daniel is that this is no longer in the future, but has already happened.
+The phrase “what must soon take place” is also deliberately chosen and refers to the [vision of Daniel 2](../../../bible/daniel/expl/the-four-kingdoms-in-daniel) which describes the end of the world’s kingdoms and the reign of God. The difference with Daniel is that this is no longer in the future, but has already happened.
 
-[The next verse](https://www.bibleserver.com/NIV/Revelation1%3A2) reinforces this by talking about the testimony of Jesus. [We will see that this is a central theme throughout the book](../../../topics/power/short/the-power-of-testimony/index.html). Jesus does not just talk about it, he is a living testimony— and so should we.
+[The next verse](https://www.bibleserver.com/NIV/Revelation1%3A2) reinforces this by talking about the testimony of Jesus. [We will see that this is a central theme throughout the book](../../../topics/power/short/the-power-of-testimony). Jesus does not just talk about it, he is a living testimony— and so should we.
 
 The next verse makes this even clearer: “Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear it and take to heart what is written in it, because the time is near.”
 
-<li id="2170">We should study this (in those days the book was read aloud because not everyone had a copy), but more importantly, we should <strong>apply </strong>this.</li><li id="f0e4">The time is near. There is <strong>not much time, we should act now</strong>. Nothing has changed about this in the last 2000 years.</li><li id="9cd7">It is a prophecy: The <strong>urgent </strong>reminder to the Church to act.</li>
+- We should study this (in those days the book was read aloud because not everyone had a copy), but more importantly, we should apply this.
+- The time is near. There is not much time, we should act now. Nothing has changed about this in the last 2000 years.
+- It is a prophecy: The urgent reminder to the Church to act.
+
 
 The time is near does not mean that it can happen at any time, but is an exaggerated expression of imminence, as in [Mark](https://www.bibleserver.com/NIV/Mark1%3A15) where the [same phrase](https://biblehub.com/interlinear/mark/1-15.htm) is used but describing that the kingdom of God has come.
 
@@ -41,11 +44,15 @@ Now comes a passage that is very much like the beginning of a New Testament lett
 
 “[John, To the seven churches in the province of Asia: Grace and peace to you from him who is, and who was, and who is to come, and from the seven spirits before his throne,](https://www.bibleserver.com/NIV/Revelation1%3A4)”
 
-<li id="aa34"><strong>Grace and peace </strong>are given to them because they will need it, because they cannot meet the challenges on their own.</li><li id="24a9">Jesus is the eternal “<strong>who is, who was, and who is to come</strong>” (verses 4 and 8). He is the Ruler of time, the Almighty. This is also expressed in Alpha and Omega (the first and last letters of the Greek alphabet) — He is the beginning and the end. He does not change.</li><li id="cc3c">The “<strong>seven spirits in front of the throne</strong>” sounds a little strange. [In the prophet Zechariah, the lamps are identified with the Holy Spirit](https://www.bibleserver.com/NIV/Zechariah4%3A6). It is likely that these lamps are meant to burn on the [seven lampstands that identify the churches](https://www.bibleserver.com/NIV/Revelation1%3A20). The phrase “in front of the throne” comes from [chapter 4](https://www.bibleserver.com/NIV/Revelation4%3A5). The Holy Spirit comes from the throne of God to fulfill God’s plan.</li>
+- Grace and peace are given to them because they will need it, because they cannot meet the challenges on their own.
+- Jesus is the eternal “who is, who was, and who is to come” (verses 4 and 8). He is the Ruler of time, the Almighty. This is also expressed in Alpha and Omega (the first and last letters of the Greek alphabet) — He is the beginning and the end. He does not change.
+- The “seven spirits in front of the throne” sounds a little strange. [In the prophet Zechariah, the lamps are identified with the Holy Spirit](https://www.bibleserver.com/NIV/Zechariah4%3A6). It is likely that these lamps are meant to burn on the [seven lampstands that identify the churches](https://www.bibleserver.com/NIV/Revelation1%3A20). The phrase “in front of the throne” comes from [chapter 4](https://www.bibleserver.com/NIV/Revelation4%3A5). The Holy Spirit comes from the throne of God to fulfill God’s plan.
+
 
 “[and from Jesus Christ, who is the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth. To him who loves us and has freed us from our sins by his blood,](https://www.bibleserver.com/NIV/Revelation1%3A5)”
 
-<li id="80b6">We had the theme of Jesus being the<strong> faithful witness.</strong> It comes up again and again because this is the key. The connection of “faithful witness”, “firstborn” and “ruler of kings” comes from [Psalm 89](https://www.bibleserver.com/NIV/Psalm89%3A19-32) as the son of David.</li>- The firstborn from the dead is an encouragement to be faithful until death, for that is not the end.
+- We had the theme of Jesus being the faithful witness. It comes up again and again because this is the key. The connection of “faithful witness”, “firstborn” and “ruler of kings” comes from [Psalm 89](https://www.bibleserver.com/NIV/Psalm89%3A19-32) as the son of David.
+- The firstborn from the dead is an encouragement to be faithful until death, for that is not the end.
 - “He loves us and has freed us from our sins” is a reminder that Jesus is for us.
 
 
@@ -94,11 +101,11 @@ The time is near and the Church should act. As Jesus did everything, the Church 
 ## Digging deeper
 
 <a name="c849"></a>
-[Beale, Relevation, pages 181–222](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#7557)
+[Beale, Relevation, pages 181–222](../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/setting-the-foundation.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/setting-the-foundation.md)

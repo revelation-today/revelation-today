@@ -51,8 +51,8 @@ So why should the churches be addressed as angels?
 ## Further reading
 
 <a name="eec4"></a>
-- [The letter to the churches](../../../content/letters/expl/the-letters-to-the-seven-churches/index.html)
-- [What is a hero](../../../topics/hero/short/a-real-hero/index.html)
+- [The letter to the churches](../../../content/letters/expl/the-letters-to-the-seven-churches)
+- [What is a hero](../../../topics/hero/short/a-real-hero)
 
 
 
@@ -66,4 +66,4 @@ Aune, Revelation, pages 108–112
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-angel-of-the-churches.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-angel-of-the-churches.md)

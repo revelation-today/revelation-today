@@ -110,7 +110,8 @@ Tüm bunlarda önemli olan nokta, onların perde arkasındaki ejderhanın kuklal
 
 Peki neden başarısız oluyor? Üçlemenin her bir kişisinde karar verici unsur eksikti
 
-<li id="b0e4">Tanrı hükümdardır, ancak bunu dayatmaz, aksi takdirde kimse “Sevgi dolu bir Tanrı nasıl olur da tüm bu kötülüğe izin verir?” diye sormaz. Şeytan kendisiyle uyumlu olmayan her şeyi parçalar</li>- İsa bizim için sevgisinden öldü, ilk canavar sadece insanları korkutuyordu. İsa tam olarak öldü, ilk canavar sadece yaralandı.
+- Tanrı hükümdardır, ancak bunu dayatmaz, aksi takdirde kimse “Sevgi dolu bir Tanrı nasıl olur da tüm bu kötülüğe izin verir?” diye sormaz. Şeytan kendisiyle uyumlu olmayan her şeyi parçalar
+- İsa bizim için sevgisinden öldü, ilk canavar sadece insanları korkutuyordu. İsa tam olarak öldü, ilk canavar sadece yaralandı.
 - Kutsal Ruh insanları zorlamaz ve gösterileri kullanır, ikinci canavar bunu manipüle etmek için kullanır.
 
 
@@ -120,20 +121,27 @@ Yani Şeytan ve İsa gibi davrananlar arasındaki ayırt edici nokta güç ya da
 ### Yansıma
 
 <a name="c3f7"></a>
-<li id="4263">Yukarıdaki rüyaya siz de kapıldınız mı? Hangi açıdan?</li><li id="20fb">Hiç canavarın silahlarını (güç, korku, manipülasyon, …) kullandınız mı ve bunun sonucu ne oldu?</li><li id="aca4">Kilisenin aldatmacası ile gerçekliği arasındaki farkı açıkça görebiliyor musunuz? Bunu toplumumuzda görebiliyor musunuz?</li><li id="f4f6">Çevrenizdeki birinci ve ikinci canavar nedir? Nasıl sadık kalabilirsiniz?</li><li id="4562">Bugün insanlar canavara bağlılıklarını hangi yollarla (üstü kapalı bile olsa) gösteriyor?</li><li id="ce2d">Eğer itaat etmezseniz günümüz canavarlarının sonuçları nelerdir?</li><li id="983b">Nerede teslim olmaya zorlanıyorsunuz (çaresizlikten, inançtan, ayartılmaktan)?</li>
+- Yukarıdaki rüyaya siz de kapıldınız mı? Hangi açıdan?
+- Hiç canavarın silahlarını (güç, korku, manipülasyon, …) kullandınız mı ve bunun sonucu ne oldu?
+- Kilisenin aldatmacası ile gerçekliği arasındaki farkı açıkça görebiliyor musunuz? Bunu toplumumuzda görebiliyor musunuz?
+- Çevrenizdeki birinci ve ikinci canavar nedir? Nasıl sadık kalabilirsiniz?
+- Bugün insanlar canavara bağlılıklarını hangi yollarla (üstü kapalı bile olsa) gösteriyor?
+- Eğer itaat etmezseniz günümüz canavarlarının sonuçları nelerdir?
+- Nerede teslim olmaya zorlanıyorsunuz (çaresizlikten, inançtan, ayartılmaktan)?
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="8458"></a>
-- [İki canavar](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)
-- [Canavarın sayısı](../../../content/beasts/expl/666-the-number-of-the-beast/index.html)
-- [Orijinal bağlamda canavar](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context/index.html)
-- [Canavarın doğası](../../../content/beasts/expl/the-nature-of-the-beast/index.html)
+- [İki canavar](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [Canavarın sayısı](../../../content/beasts/expl/666-the-number-of-the-beast)
+- [Orijinal bağlamda canavar](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
+- [Canavarın doğası](../../../content/beasts/expl/the-nature-of-the-beast)
 
 
 
@@ -141,4 +149,4 @@ Yani Şeytan ve İsa gibi davrananlar arasındaki ayırt edici nokta güç ya da
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/appl/the-perfect-gospel.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/appl/the-perfect-gospel.tr.md)

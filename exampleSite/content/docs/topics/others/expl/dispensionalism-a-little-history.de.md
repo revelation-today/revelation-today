@@ -44,9 +44,9 @@ Da sich der Dispensionalismus stark verbreitet hat, gibt es eine große Vielzahl
 ## Zum Weiterlesen
 
 <a name="1467"></a>
-- [Kritik am Dispensionalismus](../../../topics/others/expl/dispensionalism-and-its-critic/index.html)
+- [Kritik am Dispensionalismus](../../../topics/others/expl/dispensionalism-and-its-critic)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-a-little-history.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-a-little-history.de.md)

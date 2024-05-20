@@ -15,7 +15,7 @@ The book of Revelation describes heaven with different metaphors: In chapter [se
 
 Furthermore the [New Jerusalem is described as the Bride of Christ](https://www.bibleserver.com/NIV/Revelation21%3A2) which gives even a more intimate aspect to the subject.
 
-In addition, the language in chapter 21 is very much related to the temple, [the place where Israel had fellowship with God](../../../bible/keyword/expl/the-temple-and-the-presence-of-god/index.html). The temple, on the other hand, is a reflection of Eden. Not only that, but the shape of the New Jerusalem is a [cube](https://www.bibleserver.com/NIV/Revelation21%3A16). The [only object in the Old Testament that has this shape is the Holy of Holies](https://www.bibleserver.com/NIV/2%20Chronicles3%3A8), the place where God lives. A place so intensely filled with God’s presence that only the high priest was allowed to enter this place once a year.
+In addition, the language in chapter 21 is very much related to the temple, [the place where Israel had fellowship with God](../../../bible/keyword/expl/the-temple-and-the-presence-of-god). The temple, on the other hand, is a reflection of Eden. Not only that, but the shape of the New Jerusalem is a [cube](https://www.bibleserver.com/NIV/Revelation21%3A16). The [only object in the Old Testament that has this shape is the Holy of Holies](https://www.bibleserver.com/NIV/2%20Chronicles3%3A8), the place where God lives. A place so intensely filled with God’s presence that only the high priest was allowed to enter this place once a year.
 
 So the New Jerusalem or Heaven is described as the place of most intimacy with God.
 
@@ -41,11 +41,11 @@ Without God there will be a downward spiral or unforgiveness, bitterness, hopele
 
 God will not force anyone to have fellowship with Him. If we don’t want to be fully with him, he will let us go. But the consequence is a life without Him and therefore without His gifts, which leaves our life in the realm of hell.
 
-Hell is often used as a thread to create fear: If you do not repent and become a Christian, you will go to hell. Well, according to what we have seen above, this is not really wrong, but the point is [that fear and manipulation are attributes of the beast (in Revelation)](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html), but the attribute of the church is mainly her [testimony](../../../topics/power/short/the-power-of-testimony/index.html) as [witness](../../../content/witnesses/expl/the-two-witnesses/index.html).
+Hell is often used as a thread to create fear: If you do not repent and become a Christian, you will go to hell. Well, according to what we have seen above, this is not really wrong, but the point is [that fear and manipulation are attributes of the beast (in Revelation)](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation), but the attribute of the church is mainly her [testimony](../../../topics/power/short/the-power-of-testimony) as [witness](../../../content/witnesses/expl/the-two-witnesses).
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/heaven-and-hell.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/heaven-and-hell.md)

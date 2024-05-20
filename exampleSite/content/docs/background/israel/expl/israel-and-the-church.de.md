@@ -46,4 +46,4 @@ Ich denke, wir können viel von der Art und Weise lernen, wie wir mit anderen Ko
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/israel-and-the-church.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/israel-and-the-church.de.md)

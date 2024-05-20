@@ -115,4 +115,4 @@ Diese Szenen beschreiben Nichtjuden, die eingeheiratet haben. Die Tatsache, dass
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-remnant-of-israel.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-remnant-of-israel.de.md)

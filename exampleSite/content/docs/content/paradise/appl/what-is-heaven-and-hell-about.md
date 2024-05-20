@@ -19,7 +19,12 @@ When we look at the description of the New Heaven, we probably think of the end 
 
 But I would like to draw attention to some other important aspects:
 
-<li id="650d">The New Jerusalem is coming <strong>down</strong>: This will be a reality on [earth](https://www.bibleserver.com/NIV/Revelation22), not an abstract existence, but a new body as we pray in the Pater Noster (“as in heaven so on earth” becomes a reality).</li><li id="7c22">The Tree of Life: At the end of the description of heaven, people have access to the Tree of Life, which means that the separation between God and man is dissolved and the <strong>relationship </strong>is restored.</li><li id="758d">The Temple: This passage uses a lot of temple terminology. But there will be no temple. Instead, the New Jerusalem is in the form of the Holy of Holies. This is a picture of being in the most <strong>intimate relationship</strong> with God, and another example of our <strong>total devotion</strong>, because right around it is hell (all in or all out).</li><li id="cbfa">The nations: It is said that the <strong>nations </strong>will come in.</li><li id="9cca"><strong>Jews </strong>and the Church: There are elements that describe the Church and Israel and describe a <strong>reconciliation </strong>(that should happen before ;-)).</li>
+- The New Jerusalem is coming down: This will be a reality on [earth](https://www.bibleserver.com/NIV/Revelation22), not an abstract existence, but a new body as we pray in the Pater Noster (“as in heaven so on earth” becomes a reality).
+- The Tree of Life: At the end of the description of heaven, people have access to the Tree of Life, which means that the separation between God and man is dissolved and the relationship is restored.
+- The Temple: This passage uses a lot of temple terminology. But there will be no temple. Instead, the New Jerusalem is in the form of the Holy of Holies. This is a picture of being in the most intimate relationship with God, and another example of our total devotion, because right around it is hell (all in or all out).
+- The nations: It is said that the nations will come in.
+- Jews and the Church: There are elements that describe the Church and Israel and describe a reconciliation (that should happen before ;-)).
+
 
 The point of the New Jerusalem is for all to have an intimate relationship with God as they did before the fall.
 
@@ -35,7 +40,11 @@ So decide well after you have heard all this. What are you going to do? How will
 ### Reflection
 
 <a name="27f7"></a>
-<li id="6f29">Why do you want to go to heaven?</li><li id="c029">Would you want to spend eternity with God even if none of the other benefits were there (continued suffering, persecution, sickness, …)? If not, why not?</li><li id="3833">Would you spend eternity with a person you couldn’t stand or didn’t care about, even if all your problems were gone?</li><li id="d5b5">How does this vision of heaven shape the way you live your life now on earth?</li>
+- Why do you want to go to heaven?
+- Would you want to spend eternity with God even if none of the other benefits were there (continued suffering, persecution, sickness, …)? If not, why not?
+- Would you spend eternity with a person you couldn’t stand or didn’t care about, even if all your problems were gone?
+- How does this vision of heaven shape the way you live your life now on earth?
+
 
 
 
@@ -45,8 +54,8 @@ So decide well after you have heard all this. What are you going to do? How will
 ## Digging deeper
 
 <a name="9282"></a>
-- [The new Jerusalem](../../../content/paradise/expl/the-new-jerusalem/index.html)
-- [Heaven and hell](../../../content/paradise/expl/heaven-and-hell/index.html)
+- [The new Jerusalem](../../../content/paradise/expl/the-new-jerusalem)
+- [Heaven and hell](../../../content/paradise/expl/heaven-and-hell)
 
 
 
@@ -54,4 +63,4 @@ So decide well after you have heard all this. What are you going to do? How will
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/appl/what-is-heaven-and-hell-about.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/appl/what-is-heaven-and-hell-about.md)

@@ -33,18 +33,25 @@ Bizler bir ordu olarak tanımlanırız — her zaman yaralanabileceklerinden ya 
 ### Yansıma
 
 <a name="86de"></a>
-<li id="85d8">Bu bölümde ibadet savaşla ilişkilendiriliyor? Bu ne anlama geliyor? Bu dünya için savaşırken hangi silahları kullanıyorsunuz?</li><li id="d90b">Bu dünya için savaşıyor musunuz yoksa bekleyip (belki bazı insanlara İsa’yı anlatıp) kurtuluşunuzu mu bekliyorsunuz?</li><li id="1e47">Çevrenin tahrip edilmesi, küresel sömürü, insan kaçakçılığı ve daha pek çok şey umurunuzda mı yoksa İsa geri gelip (umarım yakında) bunları düzeltene kadar bekleyecek misiniz? Ya da tam tersi, işlerin daha kötüye gitmesinin iyi olduğunu çünkü İsa’nın daha erken geleceğini mi düşünüyorsunuz?</li><li id="0eac">Tanrı’nın ordusunun bir parçası olmak size nasıl hissettiriyor?</li><li id="2d72">Sayılmak, kaybolmamak anlamına gelir. Bu sizin için ne anlama geliyor?</li><li id="ead8">Tanrı’nın ordusu Büyük Sıkıntı’dan geliyor. Size meydan okunduğunda imanınıza ne olacak? Daha mı güçlü olacak yoksa parçalanacak mı? Sınandığınızda Tanrı’nın imanınızı güçlendirebileceğine inanıyor musunuz? İnancınız neye dayanıyor?</li><li id="b0e7">[Translated with DeepL](https://www.deepl.com/translator?utm_source=windows&amp;utm_medium=app&amp;utm_campaign=windows-share)</li>
+- Bu bölümde ibadet savaşla ilişkilendiriliyor? Bu ne anlama geliyor? Bu dünya için savaşırken hangi silahları kullanıyorsunuz?
+- Bu dünya için savaşıyor musunuz yoksa bekleyip (belki bazı insanlara İsa’yı anlatıp) kurtuluşunuzu mu bekliyorsunuz?
+- Çevrenin tahrip edilmesi, küresel sömürü, insan kaçakçılığı ve daha pek çok şey umurunuzda mı yoksa İsa geri gelip (umarım yakında) bunları düzeltene kadar bekleyecek misiniz? Ya da tam tersi, işlerin daha kötüye gitmesinin iyi olduğunu çünkü İsa’nın daha erken geleceğini mi düşünüyorsunuz?
+- Tanrı’nın ordusunun bir parçası olmak size nasıl hissettiriyor?
+- Sayılmak, kaybolmamak anlamına gelir. Bu sizin için ne anlama geliyor?
+- Tanrı’nın ordusu Büyük Sıkıntı’dan geliyor. Size meydan okunduğunda imanınıza ne olacak? Daha mı güçlü olacak yoksa parçalanacak mı? Sınandığınızda Tanrı’nın imanınızı güçlendirebileceğine inanıyor musunuz? İnancınız neye dayanıyor?
+- [Translated with DeepL](https://www.deepl.com/translator?utm_source=windows&amp;utm_medium=app&amp;utm_campaign=windows-share)
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="d583"></a>
-- [144.000](../../../content/army/expl/the-144000/index.html)
-- [Büyük sıkıntı](../../../content/army/expl/the-end-time-and-the-great-tribulation/index.html)
+- [144.000](../../../content/army/expl/the-144000)
+- [Büyük sıkıntı](../../../content/army/expl/the-end-time-and-the-great-tribulation)
 
 
 
@@ -52,4 +59,4 @@ Bizler bir ordu olarak tanımlanırız — her zaman yaralanabileceklerinden ya 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/appl/the-strange-army.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/appl/the-strange-army.tr.md)

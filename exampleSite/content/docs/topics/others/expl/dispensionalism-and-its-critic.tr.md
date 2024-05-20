@@ -55,13 +55,13 @@ Bu yaklaşımın çeşitli kusurları vardır:
 ## Kıyamet yok
 
 <a name="039a"></a>
-[Kıyamet falan yok.](../../../topics/others/expl/the-rapture/index.html)
+[Kıyamet falan yok.](../../../topics/others/expl/the-rapture)
 
 
 ## Üçüncü tapınak
 
 <a name="1e67"></a>
-Teori Kudüs’te yeni bir tapınak inşa edileceğinden bahseder ki bu da [tapınağın Vahiy’de Yahudi olmayanlara verilmesine dayanır](https://www.bibleserver.com/TR/Vahiy11%3A1-2). Şu anda bina olarak bir tapınak mevcut olmadığından, inşa edilmesi gerekir. [Bu yorum, tapınağın bir bina değil](../../../bible/keyword/expl/the-temple-and-the-presence-of-god/index.html), Tanrı’nın varlığının bir tasviri olduğunu dikkate almaz.
+Teori Kudüs’te yeni bir tapınak inşa edileceğinden bahseder ki bu da [tapınağın Vahiy’de Yahudi olmayanlara verilmesine dayanır](https://www.bibleserver.com/TR/Vahiy11%3A1-2). Şu anda bina olarak bir tapınak mevcut olmadığından, inşa edilmesi gerekir. [Bu yorum, tapınağın bir bina değil](../../../bible/keyword/expl/the-temple-and-the-presence-of-god), Tanrı’nın varlığının bir tasviri olduğunu dikkate almaz.
 
 Bu nedenle yeni bir tapınak binasının inşa edileceğine dair bir ifade vardır.
 
@@ -69,7 +69,7 @@ Bu nedenle yeni bir tapınak binasının inşa edileceğine dair bir ifade vard�
 ## Sıkıntı
 
 <a name="baa3"></a>
-[Bu daha uzun bir hikaye](../../../content/army/expl/the-end-time-and-the-great-tribulation/index.html)
+[Bu daha uzun bir hikaye](../../../content/army/expl/the-end-time-and-the-great-tribulation)
 
 
 ## Kilise ve İsrail
@@ -81,7 +81,7 @@ Bu konuda yanlış olan birçok şey vardır. Ancak bu konuya gelmeden önce, bu
 
 Peki sorun ne?
 
-- [kilise, İsrail’in orijinal](../../../background/israel/expl/the-church-is-part-of-israel/index.html) çağrısının yerine getirilmesi ve [kilisenin İsrail’in bir parçası](https://www.bibleserver.com/TR/Romal%C4%B1lar11%3A13-24) olması yoluyla İsrail ile özdeşleştirilir
+- [kilise, İsrail’in orijinal](../../../background/israel/expl/the-church-is-part-of-israel) çağrısının yerine getirilmesi ve [kilisenin İsrail’in bir parçası](https://www.bibleserver.com/TR/Romal%C4%B1lar11%3A13-24) olması yoluyla İsrail ile özdeşleştirilir
 - [İsrail ile diğer uluslar arasında artık bir duvar/ayrım yoktur](https://www.bibleserver.com/TR/Efesliler2%3A11-22)
 - [Kilise geçici değil, Sina’daki antlaşmadır](https://www.bibleserver.com/TR/Galatyal%C4%B1lar3%3A15-29); Mesih’e iman ise İbrahim’le yapılan antlaşmanın yerine gelmesidir
 - kilise ortadan kalkmaz çünkü terim ortadan kalkar
@@ -98,7 +98,7 @@ En önemlileri, her ikisinden de bir kez bahsedilen kendinden geçme ve sıkınt
 ## İnancın sebebi
 
 <a name="d9ea"></a>
-İmanın nedeni bu teoride korkudur — eğer inanmazsanız kendinden geçmenin bir parçası olmayacak ve geride bırakılacaksınız. [Korku kilisenin değil, canavarın bir özelliğidir](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html). Ayrıca iman sadece kurtarılmaya indirgenmiştir, Mesih gibi olmaya, komşunuzu sevmeye ya da toplumu etkilemeye değil.
+İmanın nedeni bu teoride korkudur — eğer inanmazsanız kendinden geçmenin bir parçası olmayacak ve geride bırakılacaksınız. [Korku kilisenin değil, canavarın bir özelliğidir](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Ayrıca iman sadece kurtarılmaya indirgenmiştir, Mesih gibi olmaya, komşunuzu sevmeye ya da toplumu etkilemeye değil.
 
 
 ## Savaş silahları
@@ -128,4 +128,4 @@ Eğer çok daha fazla ayrıntıya girmek isterseniz, “[The rapture exposed](ht
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-and-its-critic.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-and-its-critic.tr.md)

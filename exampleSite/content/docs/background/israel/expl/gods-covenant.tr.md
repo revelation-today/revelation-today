@@ -3,7 +3,7 @@ title: "Tanrı’nın antlaşması"
 ---
 
 
-[Eski zamanlarda bir ailede olmak hayatta kalmak için gerekliydi](../../../background/israel/expl/the-role-of-family-in-the-bible/index.html) (tedarik, koruma, …) ve önemli bir ailede olmak daha da iyiydi.
+[Eski zamanlarda bir ailede olmak hayatta kalmak için gerekliydi](../../../background/israel/expl/the-role-of-family-in-the-bible) (tedarik, koruma, …) ve önemli bir ailede olmak daha da iyiydi.
 
 Ama bir aileye nasıl katılırsınız? Evlilikle, orada doğarak, evlat edinilerek ve bir SÖZLEŞME ile.
 
@@ -91,4 +91,4 @@ Kutsal Kitap, “sevgi”, “iyilik”, “merhamet” veya “sadakat” ile t
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/gods-covenant.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/gods-covenant.tr.md)

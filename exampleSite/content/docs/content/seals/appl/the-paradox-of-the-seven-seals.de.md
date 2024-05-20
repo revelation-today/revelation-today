@@ -60,7 +60,13 @@ Doch alles hängt davon ab, dass die Gemeinde ein gutes Zeugnis hat.
 ### Reflektion
 
 <a name="2420"></a>
-<li id="4c87">Warum glaubst du, dass Jesus und sein Tod und seine Auferstehung die Antwort auf die Probleme dieser Welt sind?</li><li id="4ca4">Wie sähe die Welt aus, wenn Jesus bei jedem Übel mit Macht und Stärke eingreifen würde?</li><li id="8277">Wie sähe die Welt aus, wenn die Kirche wie Jesus handeln würde, eine Kirche, die heilt und versöhnt und ermutigt, aber auch Grenzen setzt, eine Kirche, die nicht mit Angst und Gewalt, Vorurteilen und Verurteilung arbeitet?</li><li id="ed73">Glaubst du, dass eine Welt ohne Jesus in Ordnung gebracht werden kann?</li><li id="d85a">Wie reagierst du, wenn Menschen schlecht über die Kirche sprechen?</li><li id="af6a">An welches Versprechen, das eine Organisation oder eine Regierung gegeben hat, kannst du dich erinnern, das am Ende mehr Schmerz verursacht hat? Welche Initiative hat wirklich etwas bewirkt, obwohl es aussichtslos schien? Was war der Unterschied?</li>
+- Warum glaubst du, dass Jesus und sein Tod und seine Auferstehung die Antwort auf die Probleme dieser Welt sind?
+- Wie sähe die Welt aus, wenn Jesus bei jedem Übel mit Macht und Stärke eingreifen würde?
+- Wie sähe die Welt aus, wenn die Kirche wie Jesus handeln würde, eine Kirche, die heilt und versöhnt und ermutigt, aber auch Grenzen setzt, eine Kirche, die nicht mit Angst und Gewalt, Vorurteilen und Verurteilung arbeitet?
+- Glaubst du, dass eine Welt ohne Jesus in Ordnung gebracht werden kann?
+- Wie reagierst du, wenn Menschen schlecht über die Kirche sprechen?
+- An welches Versprechen, das eine Organisation oder eine Regierung gegeben hat, kannst du dich erinnern, das am Ende mehr Schmerz verursacht hat? Welche Initiative hat wirklich etwas bewirkt, obwohl es aussichtslos schien? Was war der Unterschied?
+
 
 
 
@@ -70,13 +76,14 @@ Doch alles hängt davon ab, dass die Gemeinde ein gutes Zeugnis hat.
 ## Zur Vertiefung
 
 <a name="5f8a"></a>
-- [Ein echter Held](../../../topics/hero/short/a-real-hero/index.html)
-<li id="333f">[Wer regiert die Welt?](../../../topics/hero/short/who-rules-the-world/index.html)</li>- [Das Buch mit den sieben Siegeln](../../../content/seals/expl/the-book-with-the-seven-seals/index.html)
-- [Das Geheimnis der vier Reiter](../../../content/seals/expl/the-mystery-of-the-four-horse-men/index.html)
-- [Der Zorn des Lammes](../../../content/seals/expl/the-wrath-of-the-lamb/index.html)
+- [Ein echter Held](../../../topics/hero/short/a-real-hero)
+- [Wer regiert die Welt?](../../../topics/hero/short/who-rules-the-world)
+- [Das Buch mit den sieben Siegeln](../../../content/seals/expl/the-book-with-the-seven-seals)
+- [Das Geheimnis der vier Reiter](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [Der Zorn des Lammes](../../../content/seals/expl/the-wrath-of-the-lamb)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/appl/the-paradox-of-the-seven-seals.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/appl/the-paradox-of-the-seven-seals.de.md)

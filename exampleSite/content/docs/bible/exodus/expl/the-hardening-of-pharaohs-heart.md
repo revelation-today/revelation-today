@@ -25,4 +25,4 @@ Pharaoh’s active rule is revealed during the first devastating plague of the h
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-hardening-of-pharaohs-heart.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-hardening-of-pharaohs-heart.md)

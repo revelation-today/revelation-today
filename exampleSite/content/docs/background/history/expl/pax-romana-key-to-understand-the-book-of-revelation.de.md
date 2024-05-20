@@ -62,7 +62,7 @@ Daraus ergaben sich drei Möglichkeiten:
 - Du spielst äußerlich mit (bekennst dich mit dem Mund zum Kaiser), bleibst aber mit dem Herzen Jesus treu, was Heuchelei wäre.
 
 
-Die dritte Option war für viele attraktiv und ein wichtiges Thema in der Offenbarung: [Mit dem Stil der Offenbarung als Apokalypse werden diese Menschen aber vor die Wahl gestellt: Ganz mit Gott oder ganz ohne ihn](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html). In der Konsequenz beschreibt die Offenbarung eine Gegenpropaganda zur römischen Kaiserpropaganda - der Pax Romana.
+Die dritte Option war für viele attraktiv und ein wichtiges Thema in der Offenbarung: [Mit dem Stil der Offenbarung als Apokalypse werden diese Menschen aber vor die Wahl gestellt: Ganz mit Gott oder ganz ohne ihn](../../../background/literature/expl/the-book-of-revelation-how-to-read-it). In der Konsequenz beschreibt die Offenbarung eine Gegenpropaganda zur römischen Kaiserpropaganda - der Pax Romana.
 
 
 ## Betrachtungen
@@ -70,15 +70,21 @@ Die dritte Option war für viele attraktiv und ein wichtiges Thema in der Offenb
 <a name="bb8d"></a>
 Hier einige Fragen zum Nachdenken:
 
-<li id="5e85">Wie würde der Römische Friede heute formuliert sein? Was passiert, wenn jemand nicht mit dem Strom schwimmt?</li><li id="fcdc">Wen/was siehst du als Quelle für ein gutes Leben? Von wem/was erwartest du Lösungen für Probleme und Orientierung in deinem Leben?</li><li id="88ce">Wie reagierst du, wenn du in Konflikt mit der „politischen Korrektheit” gerätst? Wie gehst du mit anderen um, die anderer Meinung sind als du?</li><li id="57b5">Hast du das Gefühl, dass du anderen in bestimmten Bereichen deines Lebens etwas vormachen musst? Warum? Was würde passieren, wenn du es nicht tust?</li><li id="94ce">Was wäre, wenn du in eine Situation gerätst, in der deine persönliche Meinung/dein Glaube dich sehr viel kosten würde? Würdest du treu bleiben? Würdest du nachgeben? Wie würde das praktisch aussehen?</li>
+- Wie würde der Römische Friede heute formuliert sein? Was passiert, wenn jemand nicht mit dem Strom schwimmt?
+- Wen/was siehst du als Quelle für ein gutes Leben? Von wem/was erwartest du Lösungen für Probleme und Orientierung in deinem Leben?
+- Wie reagierst du, wenn du in Konflikt mit der „politischen Korrektheit” gerätst? Wie gehst du mit anderen um, die anderer Meinung sind als du?
+- Hast du das Gefühl, dass du anderen in bestimmten Bereichen deines Lebens etwas vormachen musst? Warum? Was würde passieren, wenn du es nicht tust?
+- Was wäre, wenn du in eine Situation gerätst, in der deine persönliche Meinung/dein Glaube dich sehr viel kosten würde? Würdest du treu bleiben? Würdest du nachgeben? Wie würde das praktisch aussehen?
+
 
 
 ## Zum Weiterlesen
 
 <a name="5287"></a>
-<li id="9d41">[Was für ein Buch ist das?](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html)</li>- [Struktur des Buches](../../../background/structure/expl/the-structure-of-the-book-of-revelation/index.html)
+- [Was für ein Buch ist das?](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [Struktur des Buches](../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation.de.md)

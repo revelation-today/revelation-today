@@ -32,7 +32,12 @@ Cevap basit:
 <a name="4301"></a>
 Tanrı’nın ordusuna baktıktan sonra, etkisini göreceğiz. Yedi melek gelip bildiride bulunacak ya da harekete geçecek:
 
-<li id="85a9"><strong>ilk </strong>gelen ve ulusları Tanrı’ya tapınmaya davet eden konuşmayı yapar</li><li id="7d4c"><strong>ikincisi </strong>gelir ve ulusları kandırmaya çalışan Babil’i yargılar (Babil’in ikinci canavarla güçlü bir bağlantısı vardır)</li><li id="c735"><strong>Üçüncüsü</strong>, ulusa sadakatlerini Şeytan’a teslim etmemeleri için açık bir uyarıda bulunur</li><li id="2e2b"><strong>Dördüncüsü </strong>İsa’nın hasadı duyurmasına, <strong>beşincisi </strong>ise hasadı gerçekleştirmesine benziyor — bu, Mesih’i kabul eden ulusların toplanmasıdır</li><li id="e05b"><strong>altıncı </strong>melek <strong>yedinci </strong>meleğin yaptığı üzüm hasadını duyurur — bu Mesih’i reddeden ulusun yargılanmasıdır</li>
+- ilk gelen ve ulusları Tanrı’ya tapınmaya davet eden konuşmayı yapar
+- ikincisi gelir ve ulusları kandırmaya çalışan Babil’i yargılar (Babil’in ikinci canavarla güçlü bir bağlantısı vardır)
+- Üçüncüsü, ulusa sadakatlerini Şeytan’a teslim etmemeleri için açık bir uyarıda bulunur
+- Dördüncüsü İsa’nın hasadı duyurmasına, beşincisi ise hasadı gerçekleştirmesine benziyor — bu, Mesih’i kabul eden ulusların toplanmasıdır
+- altıncı melek yedinci meleğin yaptığı üzüm hasadını duyurur — bu Mesih’i reddeden ulusun yargılanmasıdır
+
 
 Bütün bölüm ulus ve kilisenin ulusları İsa’ya yönlendirmek için gösterdiği çaba hakkındadır. Yanıt vermek uluslara düşer, bazıları yanıt verecektir, bazıları ise vermeyecektir. Ulusların inanmasını sağlamak değil, tanıklık etmek kilisenin görevidir. Ama bir sonraki bölümde daha fazlasını göreceğiz.
 
@@ -40,17 +45,21 @@ Bütün bölüm ulus ve kilisenin ulusları İsa’ya yönlendirmek için göste
 ### Yansıma
 
 <a name="a458"></a>
-<li id="d956">Tanrı’nın ordusunun anahtarı İsa’ya sadık olmaktır. Sizce bu ne zaman yeterli değildir ve neden?</li><li id="5ec5">İsa’ya her zaman sadık olmak ne anlama gelir?</li><li id="71bf">Yaşamınızda söyleyeceğiniz Musa ve İsa’nın şarkısı ne olurdu?</li><li id="e53b">Bütün ulusların kurtulmadığının farkında mısınız? Bu sizin için ne ifade ediyor?</li>
+- Tanrı’nın ordusunun anahtarı İsa’ya sadık olmaktır. Sizce bu ne zaman yeterli değildir ve neden?
+- İsa’ya her zaman sadık olmak ne anlama gelir?
+- Yaşamınızda söyleyeceğiniz Musa ve İsa’nın şarkısı ne olurdu?
+- Bütün ulusların kurtulmadığının farkında mısınız? Bu sizin için ne ifade ediyor?
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="d6d6"></a>
-- [Tanrı’nın ordusu ve yedi melek](../../../content/harvest/expl/gods-army-and-the-seven-angels/index.html)
+- [Tanrı’nın ordusu ve yedi melek](../../../content/harvest/expl/gods-army-and-the-seven-angels)
 
 
 
@@ -58,4 +67,4 @@ Bütün bölüm ulus ve kilisenin ulusları İsa’ya yönlendirmek için göste
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/appl/the-weapons-of-the-church.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/appl/the-weapons-of-the-church.tr.md)

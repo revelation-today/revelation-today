@@ -22,7 +22,8 @@ Nun, wir haben hier eine Person, die auf den Wolken reitet, wie der Menschensohn
 Bevor wir uns das Büchlein anschauen, noch ein paar Anmerkungen:
 
 - Der Engel hat einen Fuß im Meer und einen Fuß auf der Erde: Er zeigt Macht über diese Gebiete, aus denen später die Tiere kommen, damit die Gemeinde noch einmal weiß, dass sie sie nicht zu fürchten braucht.
-<li id="9fb3">Das Geheimnis Gottes wird enthüllt. Nach dem Geheimnis der Gemeinde in Kapitel 1 und dem Geheimnis des Tieres in Kapitel 17 wird nun das Geheimnis Gottes geoffenbart. Was ist es und was bedeutet es für die Gemeinde?</li>- Johannes muss dieses Buch essen und es ist süß im Mund und bitter im Magen. Natürlich ist das Buch etwas Gutes, aber wie wir sehen werden, ist es mit viel Leid verbunden. Andererseits hilft das Bittere bei der Verdauung. So helfen die Schwierigkeiten, die die Gemeinde durchmachen wird, ihr auch, das Evangelium besser zu verstehen.
+- Das Geheimnis Gottes wird enthüllt. Nach dem Geheimnis der Gemeinde in Kapitel 1 und dem Geheimnis des Tieres in Kapitel 17 wird nun das Geheimnis Gottes geoffenbart. Was ist es und was bedeutet es für die Gemeinde?
+- Johannes muss dieses Buch essen und es ist süß im Mund und bitter im Magen. Natürlich ist das Buch etwas Gutes, aber wie wir sehen werden, ist es mit viel Leid verbunden. Andererseits hilft das Bittere bei der Verdauung. So helfen die Schwierigkeiten, die die Gemeinde durchmachen wird, ihr auch, das Evangelium besser zu verstehen.
 
 
 
@@ -37,7 +38,11 @@ Der Schlüssel dazu ist das Zeugnis der Kirche. Und mit Zeugnis ist nicht nur ei
 ### Reflektion
 
 <a name="a716"></a>
-<li id="be27">Glaubst du, dass die Kirche überwinden kann, wenn sie nicht bereit ist zu leiden?</li><li id="1b2a">Bist du überwältigt von den Mächten dieser Welt oder vertraust du auf Gott, egal was in den Nachrichten berichtet wird und was in der Welt geschieht?</li><li id="87b0">Glaubst du, dass es mehr in deinem Leben gibt und dass es Zeit ist, sich zu engagieren?</li><li id="4871">Hast du eine Berufung in deinem Leben, bist dir aber unsicher und hast sie nie wirklich verfolgt?</li>
+- Glaubst du, dass die Kirche überwinden kann, wenn sie nicht bereit ist zu leiden?
+- Bist du überwältigt von den Mächten dieser Welt oder vertraust du auf Gott, egal was in den Nachrichten berichtet wird und was in der Welt geschieht?
+- Glaubst du, dass es mehr in deinem Leben gibt und dass es Zeit ist, sich zu engagieren?
+- Hast du eine Berufung in deinem Leben, bist dir aber unsicher und hast sie nie wirklich verfolgt?
+
 
 
 
@@ -47,10 +52,10 @@ Der Schlüssel dazu ist das Zeugnis der Kirche. Und mit Zeugnis ist nicht nur ei
 ## Zur Vertiefung
 
 <a name="d451"></a>
-- [Das kleine Büchlein](../../../content/scroll/expl/the-little-scroll/index.html)
+- [Das kleine Büchlein](../../../content/scroll/expl/the-little-scroll)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/appl/a-little-scroll-with-big-impact.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/appl/a-little-scroll-with-big-impact.de.md)

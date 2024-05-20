@@ -29,7 +29,7 @@ Vahiy’deki bütünlüğün diğer örnekleri, Tanrı’nın yargısının büt
 ## Sayı 3,5
 
 <a name="832f"></a>
-[Burada kendi makalemiz var](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
+[Burada kendi makalemiz var](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
 
 ## 4 numara
@@ -93,7 +93,7 @@ On iki havari Yeni Antlaşma’da bunun ayna görüntüsüdür.
 ## Diğer düşünceler
 
 <a name="975c"></a>
-Kitabın sonuna doğru temanın yoğunlaştığını göstermek için bazı kelimeler daha sık tekrarlanır (12 -> Tanrı’nın kiliseyle birleşmesi, “Alfa ve Omega” ve hikayenin sonucu olarak İsa’nın eşdeğerleri).
+Kitabın sonuna doğru temanın yoğunlaştığını göstermek için bazı kelimeler daha sık tekrarlanır (12 -&gt; Tanrı’nın kiliseyle birleşmesi, “Alfa ve Omega” ve hikayenin sonucu olarak İsa’nın eşdeğerleri).
 
 Bazı isim sayıları tesadüfi olsa bile, sıklık burada da sayılar üzerinden vurgular yapıldığını/ifadelerde bulunulduğunu göstermektedir. A.Y.Collins 4,7 ve 12 sayılarının apokaliptik edebiyatta, özellikle de Vahiy kitabında kozmik bir düzen olduğunu savunur. Yuhanna bunu her şeyin arkasında Tanrı’nın olduğunu ve kontrolü elinde tuttuğunu göstermek için kullanır, sayılar Şeytan’ın ve Şeytan’ın yakalandığı ağı temsil eder, böylece Tanrı’nın nihai zaferi kesin ve görünür olur.
 
@@ -136,7 +136,7 @@ Ancak biz genellikle Şeytan’ın her zaman biraz daha güçlü olduğu çarpı
 ## Daha fazla kazma
 
 <a name="52da"></a>
-[Beale, Revelation, sayfalar 60–64](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#1b3a)
+[Beale, Revelation, sayfalar 60–64](../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
 
 Bauckham, The climax of prophecy, sayfalar 384–407
 
@@ -145,4 +145,4 @@ Bauckham, The climax of prophecy, sayfalar 384–407
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation.tr.md)

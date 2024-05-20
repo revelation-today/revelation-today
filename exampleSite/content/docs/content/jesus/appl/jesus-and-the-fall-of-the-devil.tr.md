@@ -51,21 +51,25 @@ Zayıf olabilir ve kendimizi çaresiz hissedebiliriz (ve bu duygulara izin verme
 ### Yansıma
 
 <a name="2f40"></a>
-<li id="eae8">Biraz zaman ayırıp bu hikayenin yerleşmesine izin verebilir misiniz? Bunu hayal etmeye çalışın. Tüm karakterlerle birlikte hissedin.</li><li id="09e7">Kutsal Kitap’ta zayıfların galip geldiği benzer hikâyeler biliyor musunuz?</li><li id="1017">Şeytan’ın cennetten kovulduğunu ama çok az zamanı olduğu için mümkün olduğunca çok tahribat yarattığını görmek sizin için ne anlama geliyor? Bir Hıristiyan olarak bu sizin yaşamınızı nasıl etkiliyor?</li><li id="616a">Şeytan’ı etrafınızdaki dünyada sürekli kaybeden olarak görebiliyor musunuz?</li>
+- Biraz zaman ayırıp bu hikayenin yerleşmesine izin verebilir misiniz? Bunu hayal etmeye çalışın. Tüm karakterlerle birlikte hissedin.
+- Kutsal Kitap’ta zayıfların galip geldiği benzer hikâyeler biliyor musunuz?
+- Şeytan’ın cennetten kovulduğunu ama çok az zamanı olduğu için mümkün olduğunca çok tahribat yarattığını görmek sizin için ne anlama geliyor? Bir Hıristiyan olarak bu sizin yaşamınızı nasıl etkiliyor?
+- Şeytan’ı etrafınızdaki dünyada sürekli kaybeden olarak görebiliyor musunuz?
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="458a"></a>
-- [Daniel’de Genel Bakış](../../../bible/daniel/expl/the-book-of-daniel/index.html)
-- [Dört Krallık](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html)
-- [70 yıl](../../../bible/daniel/expl/the-70-year-weeks/index.html)
-- [3,5 yıl](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
-- [İsa doğdu](../../../content/jesus/expl/a-different-christmas-story/index.html)
+- [Daniel’de Genel Bakış](../../../bible/daniel/expl/the-book-of-daniel)
+- [Dört Krallık](../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
+- [70 yıl](../../../bible/daniel/expl/the-70-year-weeks)
+- [3,5 yıl](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+- [İsa doğdu](../../../content/jesus/expl/a-different-christmas-story)
 
 
 
@@ -73,4 +77,4 @@ Zayıf olabilir ve kendimizi çaresiz hissedebiliriz (ve bu duygulara izin verme
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/appl/jesus-and-the-fall-of-the-devil.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/appl/jesus-and-the-fall-of-the-devil.tr.md)

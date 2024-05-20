@@ -9,28 +9,28 @@ The book of Revelation speaks of three mysteries: the mystery of the Church, the
 ## The mystery
 
 <a name="e458"></a>
-The [word mystery](https://www.bibleserver.com/search/NIV/mystery) appears only once in the Old Testament prophets: In the book of Daniel, where the [destruction of the world’s powers is described by something set up by God](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html) that looks very small and weak. It is not a secret, but something that is unbelievable.
+The [word mystery](https://www.bibleserver.com/search/NIV/mystery) appears only once in the Old Testament prophets: In the book of Daniel, where the [destruction of the world’s powers is described by something set up by God](../../../bible/daniel/expl/the-four-kingdoms-in-daniel) that looks very small and weak. It is not a secret, but something that is unbelievable.
 
 Also in the New Testament, this term speaks of God’s plan, that [is now revealed](https://www.bibleserver.com/NIV/Colossians1%3A26): It is Christ on the cross, not in defeat but conquest of the world.
 
-This mystery is described in detail in the book of Daniel. This book shows how God is restoring the world and destroying evil with the church as a key partner in there (see [the little book in chapter 11](../../../content/scroll/expl/the-little-scroll/index.html)). But when we look at the Church as God’s army, we may be surprised by the means of battle:
+This mystery is described in detail in the book of Daniel. This book shows how God is restoring the world and destroying evil with the church as a key partner in there (see [the little book in chapter 11](../../../content/scroll/expl/the-little-scroll)). But when we look at the Church as God’s army, we may be surprised by the means of battle:
 
 - Their key strength and qualification seems to be [their faithfulness to God](https://www.bibleserver.com/NIV/Revelation14%3A4) (virgins).
 - Their keys to success are worship, testimony, perseverance, and prayer, which will bring down the evil rulers.
-- They seem to have a [different view of conquering and being victorious](../../../topics/hero/short/a-real-hero/index.html).
+- They seem to have a [different view of conquering and being victorious](../../../topics/hero/short/a-real-hero).
 
 
 
 ## The mystery of the church
 
 <a name="f192"></a>
-The [mystery of the church](https://www.bibleserver.com/NIV/Revelation1%3A20) is to be [light to the world in dependence on Jesus](../../../content/letters/expl/the-angel-of-the-churches/index.html). This is worked out in chapters 1–9.
+The [mystery of the church](https://www.bibleserver.com/NIV/Revelation1%3A20) is to be [light to the world in dependence on Jesus](../../../content/letters/expl/the-angel-of-the-churches). This is worked out in chapters 1–9.
 
-These are the criteria by which the churches are measured in the [letters](../../../content/letters/expl/the-letters-to-the-seven-churches/index.html). And the answer to grow in strength is in the next chapter, [which describes worship](../../../content/worship/expl/worship-in-the-throne-room/index.html).
+These are the criteria by which the churches are measured in the [letters](../../../content/letters/expl/the-letters-to-the-seven-churches). And the answer to grow in strength is in the next chapter, [which describes worship](../../../content/worship/expl/worship-in-the-throne-room).
 
-The church needs to look at Jesus, who was obedient ([worship is the expression of loyalty even to death](../../../topics/power/short/worship/index.html)) and now exposes the devil’s deception that [leads to the suffering of the church](https://www.bibleserver.com/NIV/Revelation6%3A9-11). Before [Jesus ends all this and reveals Himself](https://www.bibleserver.com/NIV/Revelation6%3A12-17), the church must understand that [it is His army](../../../content/army/expl/the-144000/index.html) which [also finds rest in Him](https://www.bibleserver.com/NIV/Revelation7%3A9-17).
+The church needs to look at Jesus, who was obedient ([worship is the expression of loyalty even to death](../../../topics/power/short/worship)) and now exposes the devil’s deception that [leads to the suffering of the church](https://www.bibleserver.com/NIV/Revelation6%3A9-11). Before [Jesus ends all this and reveals Himself](https://www.bibleserver.com/NIV/Revelation6%3A12-17), the church must understand that [it is His army](../../../content/army/expl/the-144000) which [also finds rest in Him](https://www.bibleserver.com/NIV/Revelation7%3A9-17).
 
-Now the Church [can go out in prayer and shake the earth](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html). But prayer alone is not enough! It needs more: The revelation of God. This is revealed through worship as the essence of the relationship with God.
+Now the Church [can go out in prayer and shake the earth](../../../content/trumpets/expl/the-trumpets-in-revelation). But prayer alone is not enough! It needs more: The revelation of God. This is revealed through worship as the essence of the relationship with God.
 
 
 ## The mystery of God
@@ -44,13 +44,13 @@ The [mystery of God](https://www.bibleserver.com/NIV/Revelation10%3A7) can be se
 
 It starts with the temple: The place of God’s presence is for worship.
 
-The [Church will not be effective if it doesn’t imitate Jesus](../../../content/witnesses/expl/the-two-witnesses/index.html).
+The [Church will not be effective if it doesn’t imitate Jesus](../../../content/witnesses/expl/the-two-witnesses).
 
-This is shown in the life of [Jesus how He was victorious](../../../content/jesus/expl/a-different-christmas-story/index.html). The Church should not be [worried by the deception of the beasts and learn from it](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html).
+This is shown in the life of [Jesus how He was victorious](../../../content/jesus/expl/a-different-christmas-story). The Church should not be [worried by the deception of the beasts and learn from it](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
 
 [God will be with His people](https://www.bibleserver.com/NIV/Revelation14%3A1-5) and [give everyone the rewards of their lives](https://www.bibleserver.com/NIV/Revelation14%3A6-20).
 
-[Now God is going into action and fighting for the hearts of the peoples and bringing down the kingdom of the devil](../../../content/bowls/expl/the-bowls-of-wrath/index.html), which brings us to the last topic.
+[Now God is going into action and fighting for the hearts of the peoples and bringing down the kingdom of the devil](../../../content/bowls/expl/the-bowls-of-wrath), which brings us to the last topic.
 
 
 ## The mystery of the whore
@@ -87,4 +87,4 @@ This is the first attempt to give it some structure.
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-three-mysteries.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-three-mysteries.md)

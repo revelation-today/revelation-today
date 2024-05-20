@@ -7,26 +7,21 @@ title: "Das 1000-jährige Reich"
 
 Zunächst einige Fragen an den Text:
 
-<li id="a136">[Wer wird wo über wen herrschen?](https://www.bibleserver.com/SLT/Offenbarung20%2C4)</li><li id="b2fc">Warum gibt es nicht gleich einen neuen Himmel und eine neue Erde? Oder sitzen wir dann alle auf Wolken und spielen Harfe?</li><li id="fb48">Wo sonst sehen wir ein Tausendjähriges Reich, außer in diesem[ einen Vers](https://www.bibleserver.com/SLT/Offenbarung20%2C4)?</li><li id="512d">Welche [Art von Herrschaf](https://www.bibleserver.com/SLT/Matth%C3%A4us20%2C20-28)t ist hier in den 1000 Jahren gemeint ?</li>
+- [Wer wird wo über wen herrschen?](https://www.bibleserver.com/SLT/Offenbarung20%2C4)
+- Warum gibt es nicht gleich einen neuen Himmel und eine neue Erde? Oder sitzen wir dann alle auf Wolken und spielen Harfe?
+- Wo sonst sehen wir ein Tausendjähriges Reich, außer in diesem[ einen Vers](https://www.bibleserver.com/SLT/Offenbarung20%2C4)?
+- Welche [Art von Herrschaf](https://www.bibleserver.com/SLT/Matth%C3%A4us20%2C20-28)t ist hier in den 1000 Jahren gemeint ?
+
 <p>Kapitel 17-22 ist ein Chiasmus mit <span style="color:red;">Unterschied</span>, <span style="color:green;">Gemeinsamkeiten</span> und <span style="color:blue;">Identifikation</span></p>
-<ul>
-<li>[17/1-19/10](https://www.bibleserver.com/SLT/Offenbarung17): <span style="color:red;">Gericht</span> an der <span style="color:red;">Hure</span></li>
-<ul>
-<li>[19/11-16](https://www.bibleserver.com/SLT/Offenbarung19%2C11-16): der <span style="color:green;">göttliche Richter</span></li>
-<ul>
-<li>[19/17-21](https://www.bibleserver.com/SLT/Offenbarung19%2C17-21): <span style="color:green;">Gericht</span> über die <span style="color:blue;">Tiere und den falschen Propheten</span> (siehe [Hes.39](https://www.bibleserver.com/SLT/Hesekiel9%2C39))</li>
-<ul>
-<li>[20/1-3](https://www.bibleserver.com/SLT/Offenbarung20%2C1-3): <span style="color:red;">Satan eingesperrt</span> für <span style="color:green;">1000 Jahre</span></li>
-<li>[20/4-6](https://www.bibleserver.com/SLT/Offenbarung20%2C4-6): <span style="color:red;">Satan regiert</span> nach <span style="color:green;">1000 Jahren</span></li>
 
-
-<li>[20/7-10](https://www.bibleserver.com/SLT/Offenbarung20%2C7-10): <span style="color:green;">Gericht</span> über <span style="color:blue;">Gog und Magog</span></li>
-
-
-<li>[20/11-15](https://www.bibleserver.com/SLT/Offenbarung20%2C11-15): der <span style="color:green;">göttliche Richter</span></li>
-
-
-<li>[21/1-22/5](https://www.bibleserver.com/SLT/Offenbarung21): <span style="color:red;">Rechtfertigung</span> der <span style="color:red;">Braut</span></li>
+- [17/1-19/10](https://www.bibleserver.com/SLT/Offenbarung17): Gericht an der Hure
+- [19/11-16](https://www.bibleserver.com/SLT/Offenbarung19%2C11-16): der göttliche Richter
+- [19/17-21](https://www.bibleserver.com/SLT/Offenbarung19%2C17-21): Gericht über die Tiere und den falschen Propheten (siehe [Hes.39](https://www.bibleserver.com/SLT/Hesekiel9%2C39))
+- [20/1-3](https://www.bibleserver.com/SLT/Offenbarung20%2C1-3): Satan eingesperrt für 1000 Jahre
+- [20/4-6](https://www.bibleserver.com/SLT/Offenbarung20%2C4-6): Satan regiert nach 1000 Jahren
+- [20/7-10](https://www.bibleserver.com/SLT/Offenbarung20%2C7-10): Gericht über Gog und Magog
+- [20/11-15](https://www.bibleserver.com/SLT/Offenbarung20%2C11-15): der göttliche Richter
+- [21/1-22/5](https://www.bibleserver.com/SLT/Offenbarung21): Rechtfertigung der Braut
 
  
 Das Tausendjährige Reich ist Teil eines größeren Kontextes, der einen Chiasmus bildet, der den Inhalt nicht linear, sondern symmetrisch anordnet. Deshalb gibt es hier keine klare Chronologie, und was später berichtet wird, kann dasselbe Ereignis beschreiben, nur aus einer anderen Perspektive.
@@ -73,13 +68,15 @@ Oder handelt es sich doch um zwei verschiedene Schlachten? Nun, es gibt einige P
 
 - Kapitel 19 (Vernichtung durch das[ Schwert](https://www.bibleserver.com/SLT/Offenbarung19%2C15)) und Kapitel 20 (Vernichtung durch [Feuer](https://www.bibleserver.com/SLT/Offenbarung20%2C9)) scheinen auf unterschiedliche Schlachten hinzuweisen, da unterschiedliche Waffen verwendet werden, aber genau dasselbe geschieht in den Visionen Hesekiels, wo BEIDE in BEIDEN Visionen verwendet werden: [Schwert](https://www.bibleserver.com/SLT/Hesekiel38%2C21) und [Feuer](https://www.bibleserver.com/SLT/Hesekiel38%2C22) in Kapitel 38, und [Schwert](https://www.bibleserver.com/SLT/Hesekiel39%2C17-21) und [Feuer](https://www.bibleserver.com/SLT/Hesekiel39%2C6) in Kapitel 39.
 - Kapitel 19 und Kapitel 20 könnten verschiedene Grade der Erfüllung sein, aber in beiden Kapiteln gibt es eine ähnliche Beschreibung, wie auch in den Endzeitkriegen in [Hesekiel](https://www.bibleserver.com/SLT/Hesekiel38), [Sacharja](https://www.bibleserver.com/SLT/Sacharja12) und [Zefanja ](https://www.bibleserver.com/SLT/Zefanja3)— alle sind endgültig.
-<li id="894c">Während in Kapitel 19 [menschliche Armeen](https://www.bibleserver.com/SLT/Offenbarung19%2C19) beschrieben werden, sind es in Kapitel 20 [dämonische Armeen](https://www.bibleserver.com/SLT/Offenbarung20%2C8), aber wo genau wird in Kapitel 20 gesagt, dass diese Armeen dämonisch sind? In beiden Kapiteln führt Satan menschliche Armeen und, wenn wir die Beschreibung des [sechsten Siegels sorgfältig lesen](https://www.bibleserver.com/SLT/Offenbarung16%2C14).</li><li id="eaa2">Kann man von der Abfolge der Ereignisse in [Daniel](https://www.bibleserver.com/SLT/Daniel7) erkennen, dass es mehrere Schlachten gibt, in denen Satan nach der Herrschaft der Heiligen mehrmals besiegt wird? Das ist nicht der Fall, denn Daniel wiederholt sich oft (die Herrschaft der Heiligen geschieht in den Versen [8](https://www.bibleserver.com/SLT/Daniel7%2C8), [13–14](https://www.bibleserver.com/SLT/Daniel7%2C13-14), [19–22](https://www.bibleserver.com/SLT/Daniel7%2C19-22), [23–25](https://www.bibleserver.com/SLT/Daniel7%2C23-25) und [27](https://www.bibleserver.com/SLT/Daniel7%2C27), während das Gericht über das Tier in den Versen [9–11](https://www.bibleserver.com/SLT/Daniel7%2C9-11) und [26 ](https://www.bibleserver.com/SLT/Daniel7%2C26)berichtet wird). Auch das [Öffnen der Bücher](https://www.bibleserver.com/SLT/Daniel7%2C10) geschieht vor allem anderen.</li>
+- Während in Kapitel 19 [menschliche Armeen](https://www.bibleserver.com/SLT/Offenbarung19%2C19) beschrieben werden, sind es in Kapitel 20 [dämonische Armeen](https://www.bibleserver.com/SLT/Offenbarung20%2C8), aber wo genau wird in Kapitel 20 gesagt, dass diese Armeen dämonisch sind? In beiden Kapiteln führt Satan menschliche Armeen und, wenn wir die Beschreibung des [sechsten Siegels sorgfältig lesen](https://www.bibleserver.com/SLT/Offenbarung16%2C14).
+- Kann man von der Abfolge der Ereignisse in [Daniel](https://www.bibleserver.com/SLT/Daniel7) erkennen, dass es mehrere Schlachten gibt, in denen Satan nach der Herrschaft der Heiligen mehrmals besiegt wird? Das ist nicht der Fall, denn Daniel wiederholt sich oft (die Herrschaft der Heiligen geschieht in den Versen [8](https://www.bibleserver.com/SLT/Daniel7%2C8), [13–14](https://www.bibleserver.com/SLT/Daniel7%2C13-14), [19–22](https://www.bibleserver.com/SLT/Daniel7%2C19-22), [23–25](https://www.bibleserver.com/SLT/Daniel7%2C23-25) und [27](https://www.bibleserver.com/SLT/Daniel7%2C27), während das Gericht über das Tier in den Versen [9–11](https://www.bibleserver.com/SLT/Daniel7%2C9-11) und [26 ](https://www.bibleserver.com/SLT/Daniel7%2C26)berichtet wird). Auch das [Öffnen der Bücher](https://www.bibleserver.com/SLT/Daniel7%2C10) geschieht vor allem anderen.
+
 
 
 ## Weitere Argumente für eine Schlacht
 
 <a name="6a0c"></a>
-- Nach der Aktion des sechsten Siegels werden die Armeen versammelt (da [Harmagedon sich auf einen Berg bezieht](../../../content/bowls/expl/the-key-to-armageddon/index.html)), so dass die Schlacht bevorsteht. Die siebente Schale kündigt die Zerstörung des Reiches Satans an (gefolgt von einer ausführlichen Beschreibung der Zerstörung der Hure Babel als Reaktion auf die Hochzeit der Braut), und die Schlacht wird in [Kapitel 19](https://www.bibleserver.com/SLT/Offenbarung19%2C17-21) ausführlich beschrieben.
+- Nach der Aktion des sechsten Siegels werden die Armeen versammelt (da [Harmagedon sich auf einen Berg bezieht](../../../content/bowls/expl/the-key-to-armageddon)), so dass die Schlacht bevorsteht. Die siebente Schale kündigt die Zerstörung des Reiches Satans an (gefolgt von einer ausführlichen Beschreibung der Zerstörung der Hure Babel als Reaktion auf die Hochzeit der Braut), und die Schlacht wird in [Kapitel 19](https://www.bibleserver.com/SLT/Offenbarung19%2C17-21) ausführlich beschrieben.
 - [Zu Beginn der Schalen wird gesagt, dass dies die letzten Plagen sind](https://www.bibleserver.com/SLT/Offenbarung15%2C1), was die [Zerstörung des Königreichs Satans ist](https://www.bibleserver.com/SLT/Offenbarung16%2C18-20), was in [Kapitel 19 ](https://www.bibleserver.com/SLT/Offenbarung19%2C17-21)geschieht, alle weitere Schlachten nach Kapitel 19 müssen demnach Rückblicke sein.
 
 
@@ -123,7 +120,11 @@ Diese Prophezeiungen sind offensichtlich noch nicht erfüllt und werden es auf d
 
 Dies ist ein klarer Hinweis auf den neuen Himmel und die neue Erde, wie sie in Offenbarung 21 beschrieben werden. Das wirft einige Fragen auf:
 
-<li id="99c7">Was ist das Bild des neuen Himmels und der neuen Erde oder des Neuen Jerusalems?</li><li id="8757">Welche anderen Prophezeiungen können im Neuen Jerusalem nicht erfüllt werden und warum?</li><li id="81f3">Wo wird in der Bibel von einem “vor-neuen Himmel” und einer “vor-neuen Erde” gesprochen? Wie wird das geistlich begründet?</li><li id="57d8">Ist das Tausendjährige Reich besser als der neue Himmel und die neue Erde? Wenn ja, in welcher Hinsicht? Wenn nein, warum sollten die Menschen 1000 Jahre warten und nicht schon jetzt die große Verheißung empfangen?</li>
+- Was ist das Bild des neuen Himmels und der neuen Erde oder des Neuen Jerusalems?
+- Welche anderen Prophezeiungen können im Neuen Jerusalem nicht erfüllt werden und warum?
+- Wo wird in der Bibel von einem “vor-neuen Himmel” und einer “vor-neuen Erde” gesprochen? Wie wird das geistlich begründet?
+- Ist das Tausendjährige Reich besser als der neue Himmel und die neue Erde? Wenn ja, in welcher Hinsicht? Wenn nein, warum sollten die Menschen 1000 Jahre warten und nicht schon jetzt die große Verheißung empfangen?
+
 
 
 ## Was ist die Erzählschiene?
@@ -198,4 +199,4 @@ Wenn wir geboren werden, haben wir unser “erstes Leben” in der ersten, alten
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/expl/the-thousand-year-kingdom.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/expl/the-thousand-year-kingdom.de.md)

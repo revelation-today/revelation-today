@@ -25,12 +25,14 @@ Die Geschichte ist in vier Teile gegliedert:
 - Kap.1: Gottes Erwartungen an die Gemeinde: Licht in der Welt zu sein, aber dabei ganz von ihm abhängig zu sein.
 - Kap.2–3: Die Situation und die Herausforderungen der Gemeinde
 - Kap.4–20: Wie Gott die Probleme lösen will
-<li id="ee58">Kap.21–22: Was ist das Ziel, auf das wir hinarbeiten?</li>
+- Kap.21–22: Was ist das Ziel, auf das wir hinarbeiten?
+
 
 Der dritte Teil ist etwas länger und braucht etwas mehr Struktur.
 
 - Kap.4: Der Thron Gottes und die Anbetung: Der Ausgangspunkt aller Handlungen
-<li id="d24c">Kap.5–7: Die Siegel: Was hat der Tod Jesu am Kreuz bewirkt?</li>- Kap.8–14: Die Posaunen und ihre Folgen: Das Gebet bewirkt
+- Kap.5–7: Die Siegel: Was hat der Tod Jesu am Kreuz bewirkt?
+- Kap.8–14: Die Posaunen und ihre Folgen: Das Gebet bewirkt
 - Kap.15–20: Die Zornesschalen: Gottes letztes Handeln
 
 
@@ -86,7 +88,7 @@ Die beiden Zeugen in [Kapitel 11](https://www.bibleserver.com/SLT/Offenbarung11)
 
 Die beiden Zeugen symbolisieren die Gemeinde, die nur erfolgreich sein kann, wenn sie Jesus kompromisslos nachfolgt.
 
-Andererseits sehen wir in [Kapitel 13](../../../content/beasts/appl/the-perfect-gospel/index.html), wie Satan eine Gegen-Dreieinigkeit erschafft, die alles symbolisiert, was wir uns von Gemeinschaft erträumen:
+Andererseits sehen wir in [Kapitel 13](../../../content/beasts/appl/the-perfect-gospel), wie Satan eine Gegen-Dreieinigkeit erschafft, die alles symbolisiert, was wir uns von Gemeinschaft erträumen:
 
 - Alle sind überwältigt.
 - Alle Feinde sind besiegt.
@@ -105,8 +107,15 @@ Wenn du an die Endzeit und die Wiederkunft Jesu denkst, kommen dir wahrscheinlic
 
 Obwohl das Buch starke Züge einer Apokalypse trägt, wird der Grundgedanke immer wieder in Frage gestellt.
 
-<li id="76d7">Jesus wird als der [Durchbohrte](https://www.bibleserver.com/SLT/Offenbarung1%2C7)<strong> </strong>dargestellt, bevor er als [der Richter der die Welt gezeigt wird](https://www.bibleserver.com/SLT/Offenbarung1%2C12-16).</li><li id="d60b">Der Thronsaal Gottes zeigt Element der <strong>Gnade </strong>wie den [Regenbogen](https://www.bibleserver.com/SLT/Offenbarung4%2C3).</li><li id="36f4">Der Löwe von Juda ist in Wirklichkeit das [Lamm](https://www.bibleserver.com/SLT/Offenbarung5%2C5-6)<strong> </strong>Gottes.</li><li id="b973">Das [Heer der 144.000](https://www.bibleserver.com/SLT/Offenbarung7%2C4-8) wird erklärt als die Menschen, die Gott [anbeten](https://www.bibleserver.com/SLT/Offenbarung7%2C9-10), später als die, die [dem Lamm folgen und glauben](https://www.bibleserver.com/SLT/Offenbarung14%2C1-5)<strong>.</strong></li><li id="0dce">Der <strong>Sieg </strong>der zwei Zeugen ist ihr [Tod](https://www.bibleserver.com/SLT/Offenbarung11%2C7-13)<strong>.</strong></li><li id="d460">Der geheimnisvolle Ort [Harmageddon](https://www.bibleserver.com/SLT/Offenbarung16%2C14) beschreibt die [Niederlage der Starken und den Sieg der absolut Schwachen](../../../content/bowls/expl/the-key-to-armageddon/index.html)<strong>.</strong></li>- Die [Hure wird von dem Tier vernichtet](https://www.bibleserver.com/SLT/Offenbarung17%2C16), auf dem sie [sitzt](https://www.bibleserver.com/SLT/Offenbarung17%2C3).
-<li id="0b91">Jesus kommt und [vernichtet alle Feinde durch das Schwert seines Mundes](https://www.bibleserver.com/SLT/Offenbarung19%2C21)<strong>.</strong></li>
+- Jesus wird als der [Durchbohrte](https://www.bibleserver.com/SLT/Offenbarung1%2C7) dargestellt, bevor er als [der Richter der die Welt gezeigt wird](https://www.bibleserver.com/SLT/Offenbarung1%2C12-16).
+- Der Thronsaal Gottes zeigt Element der Gnade wie den [Regenbogen](https://www.bibleserver.com/SLT/Offenbarung4%2C3).
+- Der Löwe von Juda ist in Wirklichkeit das [Lamm](https://www.bibleserver.com/SLT/Offenbarung5%2C5-6) Gottes.
+- Das [Heer der 144.000](https://www.bibleserver.com/SLT/Offenbarung7%2C4-8) wird erklärt als die Menschen, die Gott [anbeten](https://www.bibleserver.com/SLT/Offenbarung7%2C9-10), später als die, die [dem Lamm folgen und glauben](https://www.bibleserver.com/SLT/Offenbarung14%2C1-5).
+- Der Sieg der zwei Zeugen ist ihr [Tod](https://www.bibleserver.com/SLT/Offenbarung11%2C7-13).
+- Der geheimnisvolle Ort [Harmageddon](https://www.bibleserver.com/SLT/Offenbarung16%2C14) beschreibt die [Niederlage der Starken und den Sieg der absolut Schwachen](../../../content/bowls/expl/the-key-to-armageddon).
+- Die [Hure wird von dem Tier vernichtet](https://www.bibleserver.com/SLT/Offenbarung17%2C16), auf dem sie [sitzt](https://www.bibleserver.com/SLT/Offenbarung17%2C3).
+- Jesus kommt und [vernichtet alle Feinde durch das Schwert seines Mundes](https://www.bibleserver.com/SLT/Offenbarung19%2C21).
+
 
 Das bedeutet, dass die “apokalyptischen Ereignisse” wahrscheinlich ganz anders sind, als wir denken. Auch die Beschreibung anderer Stellen erweckt den Eindruck, dass Krieg und Zerstörung nicht das Hauptthema des Buches sind.
 
@@ -123,7 +132,8 @@ Er kommt als der Erlöser als [erster apokalyptischer Reiter](https://www.bibles
 Diese Kapitel führen uns vor Augen, was geschieht, wenn die Gemeinde die Vision aus den Augen verliert:
 
 - Wunder sind gut, aber die Menschen sollten nicht von unserer Macht beeindruckt sein, sondern von unserer Liebe und Hingabe.
-<li id="5400">Es ist wichtig, die Menschen zu über<strong>zeugen</strong>, nicht zu über<strong>reden</strong>, aber auf keinen Fall zu manipulieren oder mit Angst zu arbeiten.</li>- Obwohl es so aussieht, als ob die Tiere die Kontrolle haben, sind es die Heiligen, die die Welt regieren — hier und jetzt.
+- Es ist wichtig, die Menschen zu überzeugen, nicht zu überreden, aber auf keinen Fall zu manipulieren oder mit Angst zu arbeiten.
+- Obwohl es so aussieht, als ob die Tiere die Kontrolle haben, sind es die Heiligen, die die Welt regieren — hier und jetzt.
 - Es gibt zwei verschiedene Wörter für überwinden, eines für das Tier und eines für die Gemeinde, die unterschiedliche Bedeutungen haben.
 
 
@@ -148,4 +158,4 @@ Denn die Waffen der Kirche sind andere und verfolgen ein ganz anderes Ziel. Es g
 Es gibt viele Gedanken darüber, wie diese Welt ein besserer Ort werden kann. Das Buch gibt konkrete Hoffnung und Handlungsanweisungen, wie wir uns konkret in dieser Welt verhalten können.Aber geht es in dem Buch nicht um Katastrophen und darum, wie Gottes Zorn auf die Erde kommt? Nun, es gibt viele Bilder, die das andeuten. Aber wir sollten das nicht vergessen.
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/overview/appl/the-main-topics.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/overview/appl/the-main-topics.de.md)

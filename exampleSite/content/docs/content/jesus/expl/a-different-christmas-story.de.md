@@ -38,7 +38,10 @@ Er ist am leichtesten zu identifizieren: Der Drache. In [Vers 9](https://www.bib
 <a name="a89c"></a>
 Werfen wir einen Blick auf das Kind. Es gibt nicht viele Einzelheiten, aber eine Besonderheit: ein eisernes Zepter. Schauen wir, wo das in der Bibel vorkommt:
 
-<li id="abf5">[Psalm 2](https://www.bibleserver.com/SLT/Psalm2) beschreibt eine Szene, in der sich alle Könige der Erde gegen Gott auflehnen, aber <strong>Gott </strong>droht ihnen, dass sie seinen <strong>Sohn </strong>fürchten sollen, denn er wird sie mit <strong>eisernem Zepter</strong> regieren</li><li id="62df">[Jesaja](https://www.bibleserver.com/SLT/Jesaja11%2C4) beschreibt den kommenden <strong>Messias</strong>, der die Erde mit dem <strong>Stab</strong> seines Mundes <strong>schlagen </strong>wird</li><li id="bb5b">In der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung2%2C27) beschreibt sich Jesus selbst als denjenigen, der mit einem <strong>eisernem Zepter regiert.</strong></li>
+- [Psalm 2](https://www.bibleserver.com/SLT/Psalm2) beschreibt eine Szene, in der sich alle Könige der Erde gegen Gott auflehnen, aber Gott droht ihnen, dass sie seinen Sohn fürchten sollen, denn er wird sie mit eisernem Zepter regieren
+- [Jesaja](https://www.bibleserver.com/SLT/Jesaja11%2C4) beschreibt den kommenden Messias, der die Erde mit dem Stab seines Mundes schlagen wird
+- In der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung2%2C27) beschreibt sich Jesus selbst als denjenigen, der mit einem eisernem Zepter regiert.
+
 
 Diese Referenzen machen es sehr deutlich, dass es hier um Jesus und seine Geburt geht.
 
@@ -92,10 +95,10 @@ Wie genau Jesus überwindet, wird hier nicht beschrieben, aber das Thema der Spa
 ## Zum Weiterlesen
 
 <a name="fe9e"></a>
-- [Die Geschichte der unheiligen Dreieinigkeit](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)
-- [Die Struktur der Offenbarung](../../../background/structure/expl/the-structure-of-the-book-of-revelation/index.html)
+- [Die Geschichte der unheiligen Dreieinigkeit](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [Die Struktur der Offenbarung](../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/expl/a-different-christmas-story.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/expl/a-different-christmas-story.de.md)

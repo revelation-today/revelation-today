@@ -22,7 +22,12 @@ Johannes (wahrscheinlich der Apostel) wird als jemand dargestellt, der die [Kons
 <a name="7855"></a>
 In der Vision gibt es einige Elemente, die wir uns zuerst ansehen müssen:
 
-<li id="35ac"><strong>Die Leuchter</strong>: Das erste, was Johannes sieht, sind sieben Leuchter. Sie stammen wahrscheinlich aus dem Buch Sacharja (falls du dieses Buch nicht kennst, [hier ein kurzer Überblick](https://www.youtube.com/watch?v=_106IfO6Kc0)). Sacharja sieht hier sieben Leuchter, die den Heiligen Geist darstellen. Ihre Identität ist hier noch unklar und wird erst in der Deutung der Vision gegeben.</li><li id="d47e"><strong>Der Menschensohn</strong>: In der Mitte der Leuchter steht der Menschensohn. Dies ist ein [bekanntes Bild des Propheten Daniel](https://www.bibleserver.com/SLT/Daniel7%2C13), das [Jesus auf sich selbst bezieht](https://www.bibleserver.com/search/SLT/Menschensohn). <br/>[Jesus tritt hier auch in der Rolle eines Priesters](https://www.bibleserver.com/SLT/Hebr%C3%A4er7%2C11-28) auf, dessen [Aufgabe es ist, sich um die Leuchter (im Tempel) zu kümmern (Dochte trimmen, …)](https://www.bibleserver.com/SLT/2.Mose30%2C7)</li><li id="a8c4"><strong>Gewand mit goldenem Gürtel: </strong>Dies könnte ein priesterliches oder königliches Gewand sein und ist wahrscheinlich absichtlich zweideutig, da Jesus sowohl Priester als auch König ist.</li><li id="fb9d"><strong>Weißes Haar</strong>: Das spiegelt die Vision in Daniel 7 wieder.</li><li id="72ec"><strong>Augen wie Feuer, Füße wie Bronze, laute Stimme: </strong>Dies sind alles Eigenschaften aus [Daniel 10](https://www.bibleserver.com/SLT/Daniel10%2C7), wo Johannes auf die letzte seiner Vision vorbereitet wird, die [von einem Mann mit dem Aussehen eines Krieger gegeben wird](https://www.bibleserver.com/SLT/Daniel10%2C20).</li>
+- Die Leuchter: Das erste, was Johannes sieht, sind sieben Leuchter. Sie stammen wahrscheinlich aus dem Buch Sacharja (falls du dieses Buch nicht kennst, [hier ein kurzer Überblick](https://www.youtube.com/watch?v=_106IfO6Kc0)). Sacharja sieht hier sieben Leuchter, die den Heiligen Geist darstellen. Ihre Identität ist hier noch unklar und wird erst in der Deutung der Vision gegeben.
+- Der Menschensohn: In der Mitte der Leuchter steht der Menschensohn. Dies ist ein [bekanntes Bild des Propheten Daniel](https://www.bibleserver.com/SLT/Daniel7%2C13), das [Jesus auf sich selbst bezieht](https://www.bibleserver.com/search/SLT/Menschensohn). [Jesus tritt hier auch in der Rolle eines Priesters](https://www.bibleserver.com/SLT/Hebr%C3%A4er7%2C11-28) auf, dessen [Aufgabe es ist, sich um die Leuchter (im Tempel) zu kümmern (Dochte trimmen, …)](https://www.bibleserver.com/SLT/2.Mose30%2C7)
+- Gewand mit goldenem Gürtel: Dies könnte ein priesterliches oder königliches Gewand sein und ist wahrscheinlich absichtlich zweideutig, da Jesus sowohl Priester als auch König ist.
+- Weißes Haar: Das spiegelt die Vision in Daniel 7 wieder.
+- Augen wie Feuer, Füße wie Bronze, laute Stimme: Dies sind alles Eigenschaften aus [Daniel 10](https://www.bibleserver.com/SLT/Daniel10%2C7), wo Johannes auf die letzte seiner Vision vorbereitet wird, die [von einem Mann mit dem Aussehen eines Krieger gegeben wird](https://www.bibleserver.com/SLT/Daniel10%2C20).
+
 
 Hier wird der Menschensohn mit dem “alten an Tagen (Gott)” aus Daniel 7 kombiniert.
 
@@ -38,7 +43,7 @@ Johannes bricht wie [Daniel](https://www.bibleserver.com/SLT/Daniel10%2C8-19) zu
 <a name="4bd0"></a>
 Jesus bestätigt alle Aussagen, die [wir schon zu Beginn des Kapitels gesehen haben](https://www.bibleserver.com/SLT/Offenbarung1%2C5).
 
-Schließlich wird das [Geheimnis der Leuchter und Sterne gelüftet](https://www.bibleserver.com/SLT/Offenbarung1%2C20). Sie stellen [verschiedene Beschreibungen der Erwartungen an die Gemeinde](../../../content/letters/expl/the-angel-of-the-churches/index.html) dar.
+Schließlich wird das [Geheimnis der Leuchter und Sterne gelüftet](https://www.bibleserver.com/SLT/Offenbarung1%2C20). Sie stellen [verschiedene Beschreibungen der Erwartungen an die Gemeinde](../../../content/letters/expl/the-angel-of-the-churches) dar.
 
 Die Gemeinde wird durch zwei Bilder beschrieben, die auch zwei Elemente gemeinsam haben:
 
@@ -51,4 +56,4 @@ Die Aussage ist also, dass die Gemeinde Licht in der Welt sein soll, damit die W
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-vision.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-vision.de.md)

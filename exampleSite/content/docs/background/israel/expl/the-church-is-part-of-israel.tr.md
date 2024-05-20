@@ -162,4 +162,4 @@ Ruhun dökülmesi [son günlerde](https://www.bibleserver.com/TR/El%C3%A7ilerin%
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-church-is-part-of-israel.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-church-is-part-of-israel.tr.md)

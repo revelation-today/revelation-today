@@ -75,9 +75,10 @@ Would you be willing to see this with fresh eyes? You might be surprised like in
 <a name="06f1"></a>
 If you want to get more details on this topic:
 
-- [More on the genre](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html)
-- [The Old Testament, an important key to understand the pictures](../../../background/literature/expl/full-of-biblical-references/index.html)
-<li id="be06">[Are these all symbols?](../../../background/literature/expl/literally-or-symbolic/index.html)</li>- [What does all the numbers mean and the beauty of poetry](../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation/index.html)
+- [More on the genre](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [The Old Testament, an important key to understand the pictures](../../../background/literature/expl/full-of-biblical-references)
+- [Are these all symbols?](../../../background/literature/expl/literally-or-symbolic)
+- [What does all the numbers mean and the beauty of poetry](../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
 
 
 
@@ -85,4 +86,4 @@ If you want to get more details on this topic:
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/appl/what-are-we-reading.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/appl/what-are-we-reading.md)

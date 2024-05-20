@@ -25,4 +25,4 @@ Firavunun aktif bir rolü olduğu, [günah işlediğini kabul ettiği](https://w
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-hardening-of-pharaohs-heart.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-hardening-of-pharaohs-heart.tr.md)

@@ -9,7 +9,9 @@ After understanding who the harlot is, there are still open questions that the B
 ## Helpful to read before
 
 <a name="5c2e"></a>
-<li id="8bd5">[Who is the harlot? Part 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1/index.html)</li><li id="d79d">[Who is the harlot? Part 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2/index.html)</li>
+- [Who is the harlot? Part 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
+- [Who is the harlot? Part 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
+
 
 
 ## The character of the harlot
@@ -40,7 +42,8 @@ The end of Babel is very fascinating. She [sits on the beast](https://www.bibles
 - People change their minds (today my friend, tomorrow my enemy), but God does not change. Babel relied on the support of the rulers, but this was deceptive. For in the end, everyone in this world looks out for his own advantage.
 - This is a fulfillment of [Daniel](https://www.bibleserver.com/NIV/Daniel7%3A21-22), where evil defeats the saints, but God gives them the victory (a theme that runs throughout the book, such as with the witnesses or in the millennial kingdom). At the time when evil seems to be winning and showing its face, God turns the tables.
 - The beast and the kings attack the saints, but Jesus defeats them. Jesus intervenes when the Church is attacked.
-<li id="8814">The harlot looks like the bride from the outside, and this is intended when we look at the deception of the second beast (two horns like a lamb). So this could be the case of Satan falling for his own deception. The kings want to destroy the saints ([for obvious reasons](https://www.bibleserver.com/NIV/Revelation11%3A6-10)) but they confuse the saints with the harlot and destroy her! But how can this be? [Major parts of the Western society and the successful economy (also worldwide) are built on christian foundations and values](https://www.pdfdrive.com/the-book-that-made-your-world-how-the-bible-created-the-soul-of-western-civilization-e200370906.html).</li>
+- The harlot looks like the bride from the outside, and this is intended when we look at the deception of the second beast (two horns like a lamb). So this could be the case of Satan falling for his own deception. The kings want to destroy the saints ([for obvious reasons](https://www.bibleserver.com/NIV/Revelation11%3A6-10)) but they confuse the saints with the harlot and destroy her! But how can this be? [Major parts of the Western society and the successful economy (also worldwide) are built on christian foundations and values](https://www.pdfdrive.com/the-book-that-made-your-world-how-the-bible-created-the-soul-of-western-civilization-e200370906.html).
+
 
 
 ## The judgment
@@ -48,7 +51,7 @@ The end of Babel is very fascinating. She [sits on the beast](https://www.bibles
 <a name="3d3b"></a>
 The judgment is based on her actions:
 
-- She considered herself untouchable -> She will fall in an hour (very short time).
+- She considered herself untouchable -&gt; She will fall in an hour (very short time).
 - She will be judged [with the same measure](https://www.bibleserver.com/NIV/Revelation18%3A6) that [she inflicted on others](https://www.bibleserver.com/NIV/Revelation18%3A22-24) ([the double measure is another way of saying the equivalent](https://meredithkline.com/klines-works/articles-and-essays/double-trouble/))
 - She will be consumed by fire, which was the judgment when the daughter of a priest committed adultery, another strong warning to stay away from Babel and not to be attracted to it.
 
@@ -66,4 +69,4 @@ Bauckham, The climax of Prophecy, pages 338–384
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.md)

@@ -9,8 +9,8 @@ Nachdem wir verstanden haben, wer die Hure ist, bleiben noch einige Fragen, die 
 ## Gut, vorher zu lesen
 
 <a name="6a87"></a>
-- [Wer ist die Hure: Teil 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1/index.html)
-- [Wer ist die Hure: Teil 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2/index.html)
+- [Wer ist die Hure: Teil 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
+- [Wer ist die Hure: Teil 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
 
 
 
@@ -40,7 +40,8 @@ Die einfache Antwort ist: [Weil Gott es in ihr Herz gegeben hat](https://www.bib
 - Menschen ändern ihre Meinung (heute mein Freund, morgen mein Feind), aber Gott ändert sich nicht. Babel hat sich auf die Unterstützung der Herrscher verlassen, aber das war trügerisch. Denn am Ende des Tages denken die meisten Menschen nur an ihren eigenen Vorteil.
 - Es ist die Erfüllung von [Daniel](https://www.bibleserver.com/SLT/Daniel7%2C21-22), wo das Böse die Heiligen besiegt, aber Gott den Heiligen den Sieg gibt (ein Thema, das sich durch die ganze Offenbarung zieht, z.B. die zwei Zeugen oder das Tausendjährige Reich). Wenn das Böse zu siegen scheint und sein wahres Gesicht zeigt, stellt Gott alles auf den Kopf.
 - Das Tier und die Könige greifen die Heiligen an, aber Jesus verteidigt sie. Jesus schreitet ein, wenn die Gemeinde angegriffen wird.
-<li id="024f">Die Hure gleicht äußerlich der Braut und das ist auch beabsichtigt, wenn man die Täuschung des zweiten Tieres betrachtet (zwei Hörner wie ein Lamm). Kann es also sein, dass Satans Diener auf seine eigene Täuschung hereinfallen? Die Könige wollen die Heiligen vernichten ([aus offensichtlichen Gründen](https://www.bibleserver.com/SLT/Offenbarung11%2C6-10)), aber sie verwechseln sie mit der Hure und zerstören sie stattdessen. Aber wie soll das praktsich geschehen? [Nun, ein großer Teil der westlichen Gesellschaft und der erfolgreichen Wirtschaft basiert auch auf christlichen Werten](https://www.pdfdrive.com/the-book-that-made-your-world-how-the-bible-created-the-soul-of-western-civilization-e200370906.html).</li>
+- Die Hure gleicht äußerlich der Braut und das ist auch beabsichtigt, wenn man die Täuschung des zweiten Tieres betrachtet (zwei Hörner wie ein Lamm). Kann es also sein, dass Satans Diener auf seine eigene Täuschung hereinfallen? Die Könige wollen die Heiligen vernichten ([aus offensichtlichen Gründen](https://www.bibleserver.com/SLT/Offenbarung11%2C6-10)), aber sie verwechseln sie mit der Hure und zerstören sie stattdessen. Aber wie soll das praktsich geschehen? [Nun, ein großer Teil der westlichen Gesellschaft und der erfolgreichen Wirtschaft basiert auch auf christlichen Werten](https://www.pdfdrive.com/the-book-that-made-your-world-how-the-bible-created-the-soul-of-western-civilization-e200370906.html).
+
 
 
 ## Das Gericht über die Hure
@@ -48,11 +49,11 @@ Die einfache Antwort ist: [Weil Gott es in ihr Herz gegeben hat](https://www.bib
 <a name="db66"></a>
 Das Gericht wird aufgrund ihrer Taten gefällt:
 
-- Sie hat sich für unangreifbar gehalten -> das Unglück wird plötzlich über sie kommen (sehr kurze Zeit).
+- Sie hat sich für unangreifbar gehalten -&gt; das Unglück wird plötzlich über sie kommen (sehr kurze Zeit).
 - Sie wird [mit dem gleichen Maß bestraft](https://www.bibleserver.com/SLT/Offenbarung18%2C6), mit [dem sie anderen Böses angetan hat](https://www.bibleserver.com/SLT/Offenbarung18%2C22-24) ([das doppelte Maß ist eine andere Art, eine gleichwertige Strafe auszudrücken](https://meredithkline.com/klines-works/articles-and-essays/double-trouble/)).
 - Sie wird mit Feuer verzehrt werden, wie das Gericht über eine Tochter eines Priesters, die Unzucht getrieben hat — eine weitere Warnung, sich von Babel fernzuhalten und sich nicht zu ihr hingezogen zu fühlen.
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.de.md)

@@ -49,18 +49,25 @@ Ağzından çıkan bir kılıçla gelir ve herkesi tek başına yargılar (melek
 ### Yansıma
 
 <a name="b3d7"></a>
-<li id="244d">Babil’i bugün nasıl tanımlarsınız?</li><li id="423a">Kilise Babil’den nasıl farklı olabilir? Kilise Babil’in sunamadığı neyi sunabilir?</li><li id="f473">Kendinizi ne zaman Babil’de görüyorsunuz? Onu nasıl terk edersiniz?</li><li id="7199">Günümüzün hangi zihniyeti fahişenin zihniyetini yansıtıyor?</li><li id="9cbb">Babil düştüğünde hangi şeyler için yas tutarsınız?</li>
+- Babil’i bugün nasıl tanımlarsınız?
+- Kilise Babil’den nasıl farklı olabilir? Kilise Babil’in sunamadığı neyi sunabilir?
+- Kendinizi ne zaman Babil’de görüyorsunuz? Onu nasıl terk edersiniz?
+- Günümüzün hangi zihniyeti fahişenin zihniyetini yansıtıyor?
+- Babil düştüğünde hangi şeyler için yas tutarsınız?
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="052e"></a>
-<li id="32a8">[Fahişe kimdir? Bölüm 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1/index.html)</li><li id="2f99">[Fahişe kimdir? Bölüm 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2/index.html)</li>- [Zamanın alay konusu olarak fahişe](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire/index.html)
-- [Fahişenin karakteri ve kaderi](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot/index.html)
+- [Fahişe kimdir? Bölüm 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
+- [Fahişe kimdir? Bölüm 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
+- [Zamanın alay konusu olarak fahişe](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire)
+- [Fahişenin karakteri ve kaderi](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
 
 
@@ -68,4 +75,4 @@ Ağzından çıkan bir kılıçla gelir ve herkesi tek başına yargılar (melek
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/appl/the-harlot-the-complexity-of-evil.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/appl/the-harlot-the-complexity-of-evil.tr.md)

@@ -112,7 +112,8 @@ Obwohl die Kopie der Dreifaltigkeit so überzeugend ist, wird sie mit 666 bewert
 
 Was ist noch einmal der Grund für das Scheitern Satans? In jeder Person der Dreieinigkeit fehlte etwas Entscheidendes:
 
-<li id="776c">Gott ist der allmächtige Herrscher, aber er zwingt das niemandem auf, sonst würde kaum jemand fragen: “Wie kann Gott all das Böse zulassen?” Satan auf der anderen Seite zermalmt alles, was nicht seinen Vorstellungen entspricht.</li>- Jesus starb aus Liebe zu uns, aber das erste Tier schüchtert die Menschen nur ein.
+- Gott ist der allmächtige Herrscher, aber er zwingt das niemandem auf, sonst würde kaum jemand fragen: “Wie kann Gott all das Böse zulassen?” Satan auf der anderen Seite zermalmt alles, was nicht seinen Vorstellungen entspricht.
+- Jesus starb aus Liebe zu uns, aber das erste Tier schüchtert die Menschen nur ein.
 - Während Jesus ganz starb, wurde das erste Tier nur verwundet.
 - Der Heilige Geist zwingt die Menschen nicht und führt sie nicht vor, aber das zweite Tier tut genau das und benutzt Manipulation und Einschüchterung.
 
@@ -123,7 +124,14 @@ So der entscheidende Unterschied zwischen Satan und Jesus ist in dieser Zeit nic
 ### Reflektion
 
 <a name="1f8a"></a>
-<li id="3109">Bist du diesem Traum verfallen? In welcher Hinsicht?</li><li id="72af">Hast du schon einmal die Waffen der Tiere eingesetzt (Gewalt, Angst, Manipulation, Einschüchterung, …) und was war das Ergebnis?</li><li id="27d1">Siehst du deutlich den Unterschied zwischen Täuschung und Realität in der Kirche? Kannst du ihn in unserer Gesellschaft erkennen?</li><li id="44f0">Welches ist das erste und welches das zweite Tier in deiner Umgebung? Wie kannst du treu bleiben?</li><li id="d7c8">Auf welche (auch subtile) Weise zeigen Menschen heute ihre Treue zum Tier?</li><li id="af74">Welche Konsequenzen haben die heutigen Bestien, wenn du nicht nachgibst?</li><li id="2904">Wo wirst du zum Nachgeben herausgefordert (aus Verzweiflung, aus Überzeugung, aus Verlockung)?</li>
+- Bist du diesem Traum verfallen? In welcher Hinsicht?
+- Hast du schon einmal die Waffen der Tiere eingesetzt (Gewalt, Angst, Manipulation, Einschüchterung, …) und was war das Ergebnis?
+- Siehst du deutlich den Unterschied zwischen Täuschung und Realität in der Kirche? Kannst du ihn in unserer Gesellschaft erkennen?
+- Welches ist das erste und welches das zweite Tier in deiner Umgebung? Wie kannst du treu bleiben?
+- Auf welche (auch subtile) Weise zeigen Menschen heute ihre Treue zum Tier?
+- Welche Konsequenzen haben die heutigen Bestien, wenn du nicht nachgibst?
+- Wo wirst du zum Nachgeben herausgefordert (aus Verzweiflung, aus Überzeugung, aus Verlockung)?
+
 
 
 
@@ -133,13 +141,13 @@ So der entscheidende Unterschied zwischen Satan und Jesus ist in dieser Zeit nic
 ## Zur Vertiefung
 
 <a name="83ad"></a>
-- [Die beiden Tiere](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)
-- [Die Zahl des Tieres](../../../content/beasts/expl/666-the-number-of-the-beast/index.html)
-- [Die beiden Tiere im historischen Kontext](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context/index.html)
-- [Die Natur der beiden Tiere](../../../content/beasts/expl/the-nature-of-the-beast/index.html)
+- [Die beiden Tiere](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [Die Zahl des Tieres](../../../content/beasts/expl/666-the-number-of-the-beast)
+- [Die beiden Tiere im historischen Kontext](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
+- [Die Natur der beiden Tiere](../../../content/beasts/expl/the-nature-of-the-beast)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/appl/the-perfect-gospel.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/appl/the-perfect-gospel.de.md)

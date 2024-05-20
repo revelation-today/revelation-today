@@ -32,7 +32,12 @@ The answer is simple:
 <a name="8213"></a>
 Having looked at God’s army, we will see the impact. Seven angels will come and proclaim or act:
 
-<li id="2530">The <strong>first </strong>comes and speaks an invitation to the nations to worship God.</li><li id="17a7">The <strong>second </strong>comes and speaks judgment on Babel for trying to deceive the nations (Babel has a strong connection to the second beast).</li><li id="8c61">The <strong>third </strong>gives a clear warning to the nations not to give their allegiance to Satan.</li><li id="efd5">The <strong>fourth </strong>looks like Jesus announcing a harvest, while the <strong>fifth</strong> performs it — this is the gathering of the nations that have accepted Christ.</li><li id="47f0">The <strong>sixth </strong>announces the harvest that the <strong>seventh </strong>angel does — this is the judgment on the nation that has rejected Christ.</li>
+- The first comes and speaks an invitation to the nations to worship God.
+- The second comes and speaks judgment on Babel for trying to deceive the nations (Babel has a strong connection to the second beast).
+- The third gives a clear warning to the nations not to give their allegiance to Satan.
+- The fourth looks like Jesus announcing a harvest, while the fifth performs it — this is the gathering of the nations that have accepted Christ.
+- The sixth announces the harvest that the seventh angel does — this is the judgment on the nation that has rejected Christ.
+
 
 The whole chapter is about the nation and the church’s efforts to bring the nations to Jesus. It is up to the nations to respond, some will and some will not. It is not up to the Church to make the nations believe, but to be a witness. But we will see more about this in the next chapter.
 
@@ -40,17 +45,21 @@ The whole chapter is about the nation and the church’s efforts to bring the na
 ### Reflection
 
 <a name="a5ea"></a>
-<li id="b673">The key to God’s army is being faithful to Jesus. When do you think that is not enough and why?</li><li id="3877">What does it mean to always be faithful to Jesus?</li><li id="f60f">What would be the song of Moses and Jesus that you would sing in your life?</li><li id="faf5">Do you know that not all nations are saved? What does that mean to you?</li>
+- The key to God’s army is being faithful to Jesus. When do you think that is not enough and why?
+- What does it mean to always be faithful to Jesus?
+- What would be the song of Moses and Jesus that you would sing in your life?
+- Do you know that not all nations are saved? What does that mean to you?
 
 
 
-[The biggest context](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[The biggest context](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Digging deeper
 
 <a name="06f1"></a>
-- [Gods army and the seven angels](../../../content/harvest/expl/gods-army-and-the-seven-angels/index.html)
+- [Gods army and the seven angels](../../../content/harvest/expl/gods-army-and-the-seven-angels)
 
 
 
@@ -58,4 +67,4 @@ The whole chapter is about the nation and the church’s efforts to bring the na
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/appl/the-weapons-of-the-church.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/appl/the-weapons-of-the-church.md)

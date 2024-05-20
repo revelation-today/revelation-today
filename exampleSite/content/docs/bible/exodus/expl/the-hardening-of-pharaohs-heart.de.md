@@ -23,4 +23,4 @@ Dass der Pharao eine sehr aktiven Rolle spielt, sieht man bei der ersten wirklic
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-hardening-of-pharaohs-heart.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-hardening-of-pharaohs-heart.de.md)

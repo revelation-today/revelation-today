@@ -66,7 +66,12 @@ On the other hand: Hard times are not enough to change a heart. It needs more, a
 ### Reflection
 
 <a name="8774"></a>
-<li id="f05f">What is the content of your prayers?</li><li id="69ec">How would you pray for false securities to be taken away? How do you think God would answer that prayer?</li><li id="dc4a">What would happen if your false securities were taken away? What are they? Are you willing to give them up?</li><li id="c65d">What are the unshakable securities in your life?</li><li id="f00f">What security cannot you give up? Would you not give them up if you lost your relationship with God?</li>
+- What is the content of your prayers?
+- How would you pray for false securities to be taken away? How do you think God would answer that prayer?
+- What would happen if your false securities were taken away? What are they? Are you willing to give them up?
+- What are the unshakable securities in your life?
+- What security cannot you give up? Would you not give them up if you lost your relationship with God?
+
 
 
 
@@ -76,12 +81,12 @@ On the other hand: Hard times are not enough to change a heart. It needs more, a
 ## Digging deeper
 
 <a name="71f2"></a>
-- [The power of prayer](../../../topics/power/short/the-key-of-prayer/index.html)
-- [The story before the exodus](../../../bible/exodus/expl/the-story-before-the-exodus/index.html)
-- [The birth of Moses](../../../bible/exodus/expl/the-birth-of-moses/index.html)
-- [The hardening of Pharao’s heart](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart/index.html)
-- [The plagues in Egypt](../../../bible/exodus/expl/the-plagues-in-egypt/index.html)
-- [The seven trumpets](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html)
+- [The power of prayer](../../../topics/power/short/the-key-of-prayer)
+- [The story before the exodus](../../../bible/exodus/expl/the-story-before-the-exodus)
+- [The birth of Moses](../../../bible/exodus/expl/the-birth-of-moses)
+- [The hardening of Pharao’s heart](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
+- [The plagues in Egypt](../../../bible/exodus/expl/the-plagues-in-egypt)
+- [The seven trumpets](../../../content/trumpets/expl/the-trumpets-in-revelation)
 
 
 
@@ -89,4 +94,4 @@ On the other hand: Hard times are not enough to change a heart. It needs more, a
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/appl/prayer-and-the-unshakeable.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/appl/prayer-and-the-unshakeable.md)

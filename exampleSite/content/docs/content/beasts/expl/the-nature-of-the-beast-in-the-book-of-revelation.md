@@ -23,7 +23,8 @@ The previous verses describe the dragon’s attack on the child (Jesus) and his 
 
 - The first reference goes back to the book of [Job 40/15–41/37](https://www.bibleserver.com/NIV/Job40%3A15). It is a long story describing Behemoth and Leviathan, the two beasts from the sea and from the land (the beasts in Rev.13 also come from the sea and from the land). They are invincible to man, but not to God ([Isa.27/1](https://www.bibleserver.com/NIV/Isaiah27)). [Ps.104](https://www.bibleserver.com/NIV/Psalm104%3A26) gives the impression that Leviathan is no more than a toy compared to God.
 - A similar hint is given in [Rev.10/3](https://www.bibleserver.com/NIV/Revelation10%3A3), where the angle sets his foot on land and sea (claiming ownership of them).
-<li id="beb9">The first beast takes its description from [Dan.7](https://www.bibleserver.com/NIV/Daniel7), which describes four beasts: the first like a lion, the second like a bear, the third like a panther. All together they have 7 heads (each one has 1, but the third has 4). The fourth has 10 crowns, [which are ten kings](https://www.bibleserver.com/NIV/Daniel7%3A24), which even connects Rev.10 with the harlot in [Rev.17](https://www.bibleserver.com/NIV/Revelation17%3A12). So what is the point of the reference in Dan.7? If you read this text to the end, you will see that the point of this chapter is to show that the beast is defeated.</li>- The next major parallel is [Dan.3](https://www.bibleserver.com/NIV/Daniel3), the well-known story of Daniel’s friends in the fiery furnace. This describes the situation of the second beast. We have here a statue to be worshiped, people to be punished if they don't and to be killed by fire and we even have 666 in [Dan.3](https://www.bibleserver.com/NIV/Daniel3%3A1) looking at the measurements of the statue. The end of the story in Dan.3 is that Daniel’s friends are saved and [the king acknowledges and praises God and promotes the friends](https://www.bibleserver.com/NIV/Daniel3%3A28-30).
+- The first beast takes its description from [Dan.7](https://www.bibleserver.com/NIV/Daniel7), which describes four beasts: the first like a lion, the second like a bear, the third like a panther. All together they have 7 heads (each one has 1, but the third has 4). The fourth has 10 crowns, [which are ten kings](https://www.bibleserver.com/NIV/Daniel7%3A24), which even connects Rev.10 with the harlot in [Rev.17](https://www.bibleserver.com/NIV/Revelation17%3A12). So what is the point of the reference in Dan.7? If you read this text to the end, you will see that the point of this chapter is to show that the beast is defeated.
+- The next major parallel is [Dan.3](https://www.bibleserver.com/NIV/Daniel3), the well-known story of Daniel’s friends in the fiery furnace. This describes the situation of the second beast. We have here a statue to be worshiped, people to be punished if they don't and to be killed by fire and we even have 666 in [Dan.3](https://www.bibleserver.com/NIV/Daniel3%3A1) looking at the measurements of the statue. The end of the story in Dan.3 is that Daniel’s friends are saved and [the king acknowledges and praises God and promotes the friends](https://www.bibleserver.com/NIV/Daniel3%3A28-30).
 
 
 At first glance, this chapter gives the impression of the dragon and his beasts as unbeatable rulers and oppressors, but the evidence screams “loser” when they face God and His people.
@@ -53,29 +54,14 @@ But the first appearance does not look like the first beast representing the all
 Looking at the context, we see that this passage follows Satan’s failed attempt to destroy Jesus and Israel. Now he is angry and gathers two beasts to attack the descendants of Jesus — the Church.
 
 Let us take a closer look at these two beasts. They act together and support each other. They are also described in a parallel pattern
-<table style="table-layout: fixed; width: 100%">
-<thead>
-<th>Topic</th><th>First animal</th><th>Second animal</th>.
-	</thead>
-<tbody>
-<tr>
-<td style="width:20%;">origin</td>
-<td style="width:40%;">[From the sea](https://www.bibleserver.com/NIV/Revelation13%2C1)</td>
-<td style="width:40%;">[From the Earth](https://www.bibleserver.com/NIV/Revelation13%2C11)</td>
-</tr>
-<tr>
-<td>Identity (with Daniel)</td>
-<td>[Animal with seven horns](https://www.bibleserver.com/NIV/Revelation13%2C1) -> continuation and power of the realms</td>
-<td>[Animal with two horns like lamb/son of man](https://www.bibleserver.com/NIV/Revelation13%2C11)</td>
-</tr>
-<tr>
-<td>power</td>
-<td>[Dragon gives power and throne](https://www.bibleserver.com/NIV/Revelation13%2C2)</td>
-<td>[Rules in power of the first beast](https://www.bibleserver.com/NIV/Revelation13%2C12)</td>
-</tr>
-<tr>
-<td>Signs and worship</td>.
-			<td>[Deadly wound is healed](https://www.bibleserver.com/NIV/Revelation13%2C3)</td></tr></tbody></table>
+
+
+| Topic | First animal | Second animal |
+|-------|--------------|---------------|
+| origin | [From the sea](https://www.bibleserver.com/NIV/Revelation13%2C1) | [From the Earth](https://www.bibleserver.com/NIV/Revelation13%2C11) |
+| Identity (with Daniel) | [Animal with seven horns](https://www.bibleserver.com/NIV/Revelation13%2C1) -> continuation and power of the realms | [Animal with two horns like lamb/son of man](https://www.bibleserver.com/NIV/Revelation13%2C11) |
+| power | [Dragon gives power and throne](https://www.bibleserver.com/NIV/Revelation13%2C2) | [Rules in power of the first beast](https://www.bibleserver.com/NIV/Revelation13%2C12) |
+| Signs and worship | [Deadly wound is healed](https://www.bibleserver.com/NIV/Revelation13%2C3) |
 [The whole earth is amazed](https://www.bibleserver.com/NIV/Revelation13%2C3)
 [Pray dragon to who gave power](https://www.bibleserver.com/NIV/Revelation13%2C4) to beast <span style="color:green;"></span>
 <td>[Forces all to worship the first beast whose wound was healed](https://www.bibleserver.com/NIV/Revelation13%2C12).
@@ -88,7 +74,7 @@ Let us take a closer look at these two beasts. They act together and support eac
 <td>[Who is like the beast(strong like it)](https://www.bibleserver.com/NIV/Revelation13%2C4)</td></tr>
 [great blasphemies against God and His people](https://www.bibleserver.com/NIV/Revelation13%2C5-6).
 			
-<td>[Power image of the beast](https://www.bibleserver.com/NIV/Revelation13%2C14) (man is made in the image of God -> man is representative of God)</td>
+<td>[Power image of the beast](https://www.bibleserver.com/NIV/Revelation13%2C14) (man is made in the image of God -&gt; man is representative of God)</td>
 [Can give life so animal can speak](https://www.bibleserver.com/NIV/Revelation13%2C14-15) <span style="color:green;">but only God can give life</span>. 
 			
 
@@ -182,7 +168,13 @@ When we see all this, it becomes clear that Satan forms an evil trinity with the
 <a name="896a"></a>
 Your first reaction might be that this is just evil. But on a second thought, it might look appealing.
 
-<li id="a031">There is a faith that they people will be astonished when [they see the strength of the beast](https://www.bibleserver.com/NIV/Revelation13%3A4). Don’t we sometimes wish that people wouldn’t think [our faith is silly](https://www.bibleserver.com/NIV/1%20Corinthians1%3A22-23)? Or that our prayers are powerful?</li><li id="09e0">Or a [worldwide spread of the gospel](https://www.bibleserver.com/NIV/Revelation13%3A8) that people will accept Jesus because you are tired of inviting people to God only to get rejections?</li><li id="2e9e">Or do you want to [see more signs and wonders](https://www.bibleserver.com/NIV/Revelation13%3A14) because you are beginning to doubt that God is really after all?</li><li id="e2e1">Or are you [looking for healing for loved ones](https://www.bibleserver.com/NIV/Revelation13%3A15) that no prayer helped?</li><li id="4e4e">Or you want a [God who destroys his enemies and evildoers](https://www.bibleserver.com/NIV/Revelation13%3A15) — an answer to the question: If there is a good God, why does He not stops evil?</li><li id="da50">Or do you want [all people to submit to our value system](https://www.bibleserver.com/NIV/Revelation13%3A16-17)?</li>
+- There is a faith that they people will be astonished when [they see the strength of the beast](https://www.bibleserver.com/NIV/Revelation13%3A4). Don’t we sometimes wish that people wouldn’t think [our faith is silly](https://www.bibleserver.com/NIV/1%20Corinthians1%3A22-23)? Or that our prayers are powerful?
+- Or a [worldwide spread of the gospel](https://www.bibleserver.com/NIV/Revelation13%3A8) that people will accept Jesus because you are tired of inviting people to God only to get rejections?
+- Or do you want to [see more signs and wonders](https://www.bibleserver.com/NIV/Revelation13%3A14) because you are beginning to doubt that God is really after all?
+- Or are you [looking for healing for loved ones](https://www.bibleserver.com/NIV/Revelation13%3A15) that no prayer helped?
+- Or you want a [God who destroys his enemies and evildoers](https://www.bibleserver.com/NIV/Revelation13%3A15) — an answer to the question: If there is a good God, why does He not stops evil?
+- Or do you want [all people to submit to our value system](https://www.bibleserver.com/NIV/Revelation13%3A16-17)?
+
 
 This Trinity provides all the things that we may miss from time to time, but something is not right.
 
@@ -224,9 +216,9 @@ God comes in love and cares for people, even if it does not always look so victo
 ## Further readings
 
 <a name="99fc"></a>
-- [The beasts in historical context](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context/index.html)
-- [The number 666](../../../content/beasts/expl/666-the-number-of-the-beast/index.html)
-- [The 3,5 years](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
+- [The beasts in historical context](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
+- [The number 666](../../../content/beasts/expl/666-the-number-of-the-beast)
+- [The 3,5 years](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
 
 
@@ -242,4 +234,4 @@ Bauckham, Revelation, pages 88–94
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation.md)

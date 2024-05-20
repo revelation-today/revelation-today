@@ -29,13 +29,22 @@ Bowls of wrath sounds like God throwing a tantrum and punishing everyone who doe
 
 And this is what the bowls are about
 
-<li id="4300">The <strong>first </strong>bowl creates trouble for the people who give their allegiance to Satan and picks up the theme of the first four trumpets (catastrophes on the securities of men).</li><li id="6557">The <strong>second </strong>AND <strong>third </strong>bowls (this seems to be an important issue) confront the people who have attacked the witnessing Church.</li><li id="a14f">The <strong>fourth </strong>AND <strong>fifth </strong>bowls challenge the stubbornness of people’s hearts and the unreachability of the church’s testimony — after this there are only people left who are stiff in their decision after the trouble and the testimony.</li><li id="3e68">So during the <strong>sixth </strong>bowl, God gives these people according to their deception and they gather at Armageddon. Armageddon is not a place of battle, but the place of the defeat of the strong against the obviously weak. It is the place of judgment for the devil.</li><li id="38b9">And in the <strong>seventh </strong>bowl, Satan’s kingdom is finally destroyed.</li>
+- The first bowl creates trouble for the people who give their allegiance to Satan and picks up the theme of the first four trumpets (catastrophes on the securities of men).
+- The second AND third bowls (this seems to be an important issue) confront the people who have attacked the witnessing Church.
+- The fourth AND fifth bowls challenge the stubbornness of people’s hearts and the unreachability of the church’s testimony — after this there are only people left who are stiff in their decision after the trouble and the testimony.
+- So during the sixth bowl, God gives these people according to their deception and they gather at Armageddon. Armageddon is not a place of battle, but the place of the defeat of the strong against the obviously weak. It is the place of judgment for the devil.
+- And in the seventh bowl, Satan’s kingdom is finally destroyed.
+
 
 
 ### Reflection
 
 <a name="d5ac"></a>
-<li id="b0b2">How long can God wait? Do you think God has given up on you?</li><li id="88bb">What have been your issues where you have followed the beast, rejected God’s leading, or hardened your heart?</li><li id="5eb5">What are your hopes for how specific situations in this world might change for the better? Do you believe these are God’s ways?</li><li id="d738">Do a study on Armageddon below. What could that be today?</li>
+- How long can God wait? Do you think God has given up on you?
+- What have been your issues where you have followed the beast, rejected God’s leading, or hardened your heart?
+- What are your hopes for how specific situations in this world might change for the better? Do you believe these are God’s ways?
+- Do a study on Armageddon below. What could that be today?
+
 
 
 
@@ -45,9 +54,9 @@ And this is what the bowls are about
 ## Digging deeper
 
 <a name="06f1"></a>
-- [The bowls of wrath](../../../content/bowls/expl/the-bowls-of-wrath/index.html)
-- [The meaning of Armageddon](../../../content/bowls/expl/the-key-to-armageddon/index.html)
-- [Armageddon and the battle of Karkemish](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish/index.html)
+- [The bowls of wrath](../../../content/bowls/expl/the-bowls-of-wrath)
+- [The meaning of Armageddon](../../../content/bowls/expl/the-key-to-armageddon)
+- [Armageddon and the battle of Karkemish](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
 
 
@@ -55,4 +64,4 @@ And this is what the bowls are about
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/appl/the-wrath-of-god.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/appl/the-wrath-of-god.md)

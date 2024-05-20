@@ -75,11 +75,13 @@ Bist du bereit, das Buch mit neuen Augen zu sehen? Vielleicht wirst du wie in di
 ## Zur Vertiefung
 
 <a name="6869"></a>
-- [Mehr zum Genre](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html)
-- [Warum das Alte Testament wichtig ist](../../../background/literature/expl/full-of-biblical-references/index.html)
-<li id="59ba">[Wörtlich oder symbolisch?](../../../background/literature/expl/literally-or-symbolic/index.html)</li><li id="efe9">[Was bedeuten die Zahlen?](../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation/index.html)</li>
+- [Mehr zum Genre](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [Warum das Alte Testament wichtig ist](../../../background/literature/expl/full-of-biblical-references)
+- [Wörtlich oder symbolisch?](../../../background/literature/expl/literally-or-symbolic)
+- [Was bedeuten die Zahlen?](../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/appl/what-are-we-reading.de.md)
+
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/appl/what-are-we-reading.de.md)

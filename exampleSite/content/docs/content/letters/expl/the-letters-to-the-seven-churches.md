@@ -9,17 +9,17 @@ The book of Revelation shows seven letters to seven specific churches. What is t
 ## You may want to read before
 
 <a name="4e37"></a>
-- [Historical background of the book](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation/index.html)
-- [What type of book is this](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html)
-- [The vision](../../../content/letters/expl/the-vision/index.html)
-- [The angels of the churches](../../../content/letters/expl/the-angel-of-the-churches/index.html)
+- [Historical background of the book](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [What type of book is this](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [The vision](../../../content/letters/expl/the-vision)
+- [The angels of the churches](../../../content/letters/expl/the-angel-of-the-churches)
 
 
 
 ## The vision
 
 <a name="4c46"></a>
-Before the letter, John writes down a vision of [how God envisions the church](../../../content/letters/expl/the-vision/index.html).
+Before the letter, John writes down a vision of [how God envisions the church](../../../content/letters/expl/the-vision).
 
 The message is this: The church, reflected as stars and lampstands, should be light (lampstands within the church and stars to the world), but they must do it in dependence on Jesus and not without Him.
 
@@ -50,20 +50,21 @@ When we compare the pairs, we find interesting points:
 
 - Ephesus and Laodicea: Ephesus does everything right but has just lost its first love, while Laodicea doesn’t do anything right but lives in a world of self-deception. But without love, you can do everything right and still be no better than Laodicea and lose your purpose.
 - Smyrna and Philadelphia: Both churches face persecution: Smyrna fears prison and Philadelphia is poor. Both have Jewish opposition. Philadelphia has the promise that the Jews will convert, Smyrna does not. But whatever the situation, both churches should keep the faith to continue their work. The promise is that Jesus will see them through, not that all their activities will be successful.
-<li id="91dd">Pergamon and Sardis: It seems hard to compare the fornication of Pergamon with the lack of the Spirit in Sardis. Could it be that the problem exists in both churches because the leadership allows wrong influences (perhaps in the form of teaching)? That’s why the leadership should be especially careful to give the Holy Spirit freedom, but not freedom from everyone’s teaching.</li>- Thyatira: This is the central message and the main point is an evil leadership and Jesus will judge this church so that everyone will be a witness. Perhaps the main point is to emphasize the importance of the leaders’ witness to the church.
+- Pergamon and Sardis: It seems hard to compare the fornication of Pergamon with the lack of the Spirit in Sardis. Could it be that the problem exists in both churches because the leadership allows wrong influences (perhaps in the form of teaching)? That’s why the leadership should be especially careful to give the Holy Spirit freedom, but not freedom from everyone’s teaching.
+- Thyatira: This is the central message and the main point is an evil leadership and Jesus will judge this church so that everyone will be a witness. Perhaps the main point is to emphasize the importance of the leaders’ witness to the church.
 
 
 
 ## Further reading
 
 <a name="ccde"></a>
-- [The church in Ephesus](../../../content/letters/expl/the-letter-to-the-church-in-ephesus/index.html)
-- [The church in Smyrna](../../../content/letters/expl/the-letter-to-the-church-in-smyrna/index.html)
-- [The church in Pergamon](../../../content/letters/expl/the-letter-to-the-church-in-pergamon/index.html)
-- [The church in Thyatira](../../../content/letters/expl/the-letter-to-the-church-in-thyatira/index.html)
-- [The church in Sardis](../../../content/letters/expl/the-letter-to-the-church-in-sardis/index.html)
-- [The church in Philadelphia](../../../content/letters/expl/the-letter-to-the-church-in-philadelphia/index.html)
-- [The church in Laodicea](../../../content/letters/expl/the-letter-to-the-church-in-laodicea/index.html)
+- [The church in Ephesus](../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
+- [The church in Smyrna](../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
+- [The church in Pergamon](../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
+- [The church in Thyatira](../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
+- [The church in Sardis](../../../content/letters/expl/the-letter-to-the-church-in-sardis)
+- [The church in Philadelphia](../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
+- [The church in Laodicea](../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
 
 
 
@@ -77,4 +78,4 @@ Beale, Revelation, pages 223–228
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letters-to-the-seven-churches.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letters-to-the-seven-churches.md)

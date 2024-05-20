@@ -29,7 +29,7 @@ Weitere Beispiele sind die 7 Siegel, die 7 Posaunen und die 7 Zornesschalen, um 
 ## Die Zahl 3,5
 
 <a name="20fe"></a>
-[Dafür gibt es einen eigenen Artikel.](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
+[Dafür gibt es einen eigenen Artikel.](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
 
 ## Die Zahl 4
@@ -140,11 +140,11 @@ Aber wir sehen oft die verzerrte Realität, in der Satan immer ein bisschen stä
 ## Zur Vertiefung
 
 <a name="c1b8"></a>
-[Beale, Revelation, Seiten 60–64](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#06a2)
+[Beale, Revelation, Seiten 60–64](../../../gen/background/ressources/how-to-study-the-book-of-revelation#06a2)
 
 Bauckham, The climax of prophecy, Seiten 384–407
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation.de.md)

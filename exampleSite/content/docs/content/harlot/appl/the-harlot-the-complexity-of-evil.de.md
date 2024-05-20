@@ -49,7 +49,12 @@ Er kommt mit dem Schwert seines Mundes und bringt das Gericht ganz allein (die E
 ### Reflektion
 
 <a name="7dcc"></a>
-<li id="430c">Wie würdest du Babel heute beschreiben?</li><li id="bba7">Wie kann die Gemeinde anders sein als Babel? Was kann die Gemeinde bieten, was Babel nicht kann?</li><li id="79e1">Wann siehst du dich selbst in Babel? Wie kannst du es verlassen?</li><li id="6a37">Welche Denkweise von heute spiegelt die Denkweise der Hure wider?</li><li id="b2ad">Worüber würdest du trauern, wenn Babel fallen würde?</li>
+- Wie würdest du Babel heute beschreiben?
+- Wie kann die Gemeinde anders sein als Babel? Was kann die Gemeinde bieten, was Babel nicht kann?
+- Wann siehst du dich selbst in Babel? Wie kannst du es verlassen?
+- Welche Denkweise von heute spiegelt die Denkweise der Hure wider?
+- Worüber würdest du trauern, wenn Babel fallen würde?
+
 
 
 
@@ -59,13 +64,13 @@ Er kommt mit dem Schwert seines Mundes und bringt das Gericht ganz allein (die E
 ## Zur Vertiefung
 
 <a name="e2a7"></a>
-- [Wer ist die Hure: Teil 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1/index.html)
-- [Wer ist die Hure: Teil 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2/index.html)
-- [Die Hure als Satire der damaligen Zeit](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire/index.html)
-- [Der Charakter und das Schicksal der Hure](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot/index.html)
+- [Wer ist die Hure: Teil 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
+- [Wer ist die Hure: Teil 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
+- [Die Hure als Satire der damaligen Zeit](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire)
+- [Der Charakter und das Schicksal der Hure](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/appl/the-harlot-the-complexity-of-evil.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/appl/the-harlot-the-complexity-of-evil.de.md)

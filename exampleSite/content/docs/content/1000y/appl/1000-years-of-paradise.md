@@ -19,7 +19,8 @@ You may have heard a lot about this wonderful 1000 year kingdom. But before we s
 
 - This millennial kingdom has never been mentioned by that name anywhere in the Bible.
 - We only have one verse that talks about it (verse 4).
-<li id="44b1">It is very vague: beheaded people who believe in Jesus will rule (how?) over who (the creation, each other, not so good Christians?).</li>- There is no reason given why the New Heaven and Earth could not begin, since this is not a disadvantage.
+- It is very vague: beheaded people who believe in Jesus will rule (how?) over who (the creation, each other, not so good Christians?).
+- There is no reason given why the New Heaven and Earth could not begin, since this is not a disadvantage.
 
 
 As you can see, it is difficult to draw conclusions from this short passage, and it is safer to assume that something is stated here that has been presented before.
@@ -43,7 +44,11 @@ Even in her death she reigns (in former times only kings and other high people h
 ### Reflection
 
 <a name="ae6c"></a>
-<li id="538a">Where in history and even today do you see the church ruling (in a positive sense)?</li><li id="982e">What does good lordship look like?</li><li id="670d">Where have you seen yourself (even unconsciously) treated as a king because you believe in Christ?</li><li id="eacf">What gives you hope to persevere?</li>
+- Where in history and even today do you see the church ruling (in a positive sense)?
+- What does good lordship look like?
+- Where have you seen yourself (even unconsciously) treated as a king because you believe in Christ?
+- What gives you hope to persevere?
+
 
 
 
@@ -53,7 +58,7 @@ Even in her death she reigns (in former times only kings and other high people h
 ## Digging deeper
 
 <a name="569b"></a>
-- [The 1000 year kingdom](../../../content/1000y/expl/the-thousand-year-kingdom/index.html)
+- [The 1000 year kingdom](../../../content/1000y/expl/the-thousand-year-kingdom)
 
 
 
@@ -61,4 +66,4 @@ Even in her death she reigns (in former times only kings and other high people h
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/appl/1000-years-of-paradise.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/appl/1000-years-of-paradise.md)

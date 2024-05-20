@@ -9,7 +9,7 @@ Chapter 14 of the book of Revelation is one of the most puzzling chapters in the
 ## The 144.000
 
 <a name="6c9d"></a>
-The chapter picks up the [Lamb standing from chapter 5](../../../content/seals/expl/the-book-with-the-seven-seals/index.html), where it was worthy to receive the scroll and combines it with [chapter 7, where the 144,000 are mentioned](../../../content/army/expl/the-144000/index.html). Now they are gathered before the throne (the mention of Mount Zion in verse 1 could be a reference to the heavenly Jerusalem).
+The chapter picks up the [Lamb standing from chapter 5](../../../content/seals/expl/the-book-with-the-seven-seals), where it was worthy to receive the scroll and combines it with [chapter 7, where the 144,000 are mentioned](../../../content/army/expl/the-144000). Now they are gathered before the throne (the mention of Mount Zion in verse 1 could be a reference to the heavenly Jerusalem).
 
 The 144,000 have the name of the Lamb and of God on their foreheads, which defines their identity and their belonging (belonging to God), so it is a different reflection of the sealing in chapter 7.
 
@@ -22,11 +22,11 @@ This is very intimidating, but God’s people are still standing. They have a so
 - [He fails to destroy the child](https://www.bibleserver.com/NIV/Revelation12%3A1-6).
 - [He loses his position in heaven](https://www.bibleserver.com/NIV/Revelation12%3A7-12).
 - [He fails to destroy the woman](https://www.bibleserver.com/NIV/Revelation12%3A13-17).
-- [His perception and suppression with the two beasts](https://www.bibleserver.com/NIV/Revelation13) is a [disaster](../../../content/beasts/expl/666-the-number-of-the-beast/index.html).
-- [And his victory over the saints backfires](../../../content/witnesses/expl/the-two-witnesses/index.html).
+- [His perception and suppression with the two beasts](https://www.bibleserver.com/NIV/Revelation13) is a [disaster](../../../content/beasts/expl/666-the-number-of-the-beast).
+- [And his victory over the saints backfires](../../../content/witnesses/expl/the-two-witnesses).
 
 
-Not only that, but they fulfilled the [destiny of the little scroll](../../../content/scroll/expl/the-little-scroll/index.html). But what is their secret? It is written here:
+Not only that, but they fulfilled the [destiny of the little scroll](../../../content/scroll/expl/the-little-scroll). But what is their secret? It is written here:
 
 “[These are those who did not defile themselves with women, for they remained virgins. They follow the Lamb wherever he goes. They were purchased from among mankind and offered as first fruits to God and the Lamb. No lie was found in their mouths; they are blameless.](https://www.bibleserver.com/NIV/Revelation14%3A4-5)”
 
@@ -60,7 +60,7 @@ The Psalm asserts that God is king and all nations are INVITED to worship Him.
 
 The second angel proclaims the victory over Babel while the third angel brings a stern warning of judgment for anyone who gives in to the beast. This also mirrors the [call to repentance](https://www.bibleserver.com/NIV/Revelation11%3A3) and the [warning judgments](https://www.bibleserver.com/NIV/Revelation11%3A5) of the two witnesses.
 
-The question is: What will be the result? Will the nations listen? We know from the story of the witnesses: [They will](../../../content/witnesses/expl/the-two-witnesses/index.html).
+The question is: What will be the result? Will the nations listen? We know from the story of the witnesses: [They will](../../../content/witnesses/expl/the-two-witnesses).
 
 
 ## The two harvests
@@ -74,7 +74,8 @@ Both to judgment refer in Joel, especially the wine press, which in Revelation i
 
 But there is a big differences with the grain harvest:
 
-<li id="8757">The 144.000 are called the first fruits, which are [normally taken from grain](https://www.bibleserver.com/NIV/Leviticus23%3A9-14) (including a <em>lamb </em>offering). A first fruit was normally are a [pledge of the full harvest](https://www.bibleserver.com/NIV/Romans11%3A16), so the 144.000 redeemed <em>from </em>all the nations are a first from <em>of </em>all the nations. <br/>A first fruit [could technically also be from grapes](https://www.bibleserver.com/NIV/Exodus22%3A29) but that would be a strange interpretation (martyrs as the first fruit of God’s vengeance?).</li>- While the wine press includes the gathering AND the crushing, the grain harvest has ONLY the reaping. For the grain follows either the [threshing](https://www.bibleserver.com/NIV/Jeremiah51%3A33), [the burning of the staff](https://www.bibleserver.com/NIV/Matthew3:12) or the [blowing away](https://www.bibleserver.com/NIV/Psalm1%3A4), while the [reaping is a symbol of bringing people into the Kingdom of God](https://www.bibleserver.com/NIV/Mark4%3A29).
+- The 144.000 are called the first fruits, which are [normally taken from grain](https://www.bibleserver.com/NIV/Leviticus23%3A9-14) (including a lamb offering). A first fruit was normally are a [pledge of the full harvest](https://www.bibleserver.com/NIV/Romans11%3A16), so the 144.000 redeemed from all the nations are a first from of all the nations. A first fruit [could technically also be from grapes](https://www.bibleserver.com/NIV/Exodus22%3A29) but that would be a strange interpretation (martyrs as the first fruit of God’s vengeance?).
+- While the wine press includes the gathering AND the crushing, the grain harvest has ONLY the reaping. For the grain follows either the [threshing](https://www.bibleserver.com/NIV/Jeremiah51%3A33), [the burning of the staff](https://www.bibleserver.com/NIV/Matthew3:12) or the [blowing away](https://www.bibleserver.com/NIV/Psalm1%3A4), while the [reaping is a symbol of bringing people into the Kingdom of God](https://www.bibleserver.com/NIV/Mark4%3A29).
 - The grain harvest is done by “one like the Son of Man seated on a cloud wearing a crown”. This is a reference to [Daniel where he receives the eternal kingdom with all the nations worshiping him](https://www.bibleserver.com/NIV/Daniel7%3A13-14).
 
 
@@ -96,7 +97,8 @@ But if you look more closely at verse 11 of the Song of Moses, it also links to 
 
 All these links together span the content for the song of Mose and the Lamb. So the story presents it this way
 
-<li id="4809">Who is like you, O Lord, among the gods?</li>- It is shown by doing miracles as an act of deliverance.
+- Who is like you, O Lord, among the gods?
+- It is shown by doing miracles as an act of deliverance.
 - It is demonstrating that he is the one God.
 - It brings all nations to worship him.
 
@@ -120,4 +122,4 @@ Bauckham, The climax of Prophecy, pages 283–307
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/expl/gods-army-and-the-seven-angels.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/expl/gods-army-and-the-seven-angels.md)

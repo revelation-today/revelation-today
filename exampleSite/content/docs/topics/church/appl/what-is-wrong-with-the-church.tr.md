@@ -11,13 +11,13 @@ Kilisenin dünyaya bir lütuf olması ve inanmayanların da ilgisini çekecek bi
 <a name="7d3d"></a>
 Daha derin bir düzeyde, biz insanlar çok basitiz: [Maslows piramidini](https://www.medicalnewstoday.com/articles/maslows-hierarchy-of-needs#summary) takip ediyoruz. Bir şey almadan bir şey vermeyiz. Özverili davransak bile bunu iyi bir vicdan, toplumsal onay ya da bize anlam veren daha büyük bir amaç için yaparız. Bu aynı zamanda İncil’de de yansıtılır.
 
-[Kutsal Kitap erkek ve kadının (Adem ve Havva) Tanrı’nın suretinde yaratıldığını](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F1%3A27), yani O’nun yerine geçtiklerini anlatır. Tüm özgürlüğe ve doyuma sahiptiler, [ancak en önemli konuda başarısız oldular: Tanrı’nın onlara verdiği armağan, armağanı verenden daha önemli hale geldi, başka bir deyişle adam Tanrı’nın kendisine](../../../bible/creation/expl/the-creation/index.html) verdiği eşi ve onun sözünü Tanrı’ya ve onun sözüne tercih etti.
+[Kutsal Kitap erkek ve kadının (Adem ve Havva) Tanrı’nın suretinde yaratıldığını](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F1%3A27), yani O’nun yerine geçtiklerini anlatır. Tüm özgürlüğe ve doyuma sahiptiler, [ancak en önemli konuda başarısız oldular: Tanrı’nın onlara verdiği armağan, armağanı verenden daha önemli hale geldi, başka bir deyişle adam Tanrı’nın kendisine](../../../bible/creation/expl/the-creation) verdiği eşi ve onun sözünü Tanrı’ya ve onun sözüne tercih etti.
 
 Tanrı’yla paydaşlıklarını kaybedip kendi başlarına kalmaya başladılar ve bu durum bir [sonraki bölümde](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F4) kıskançlık, cinayet ve diğer insanların yaşamına saygı duymama şeklinde devam etti.
 
 Nuh dışındaki tüm kötü insanları yok etmek hiçbir etki yaratmadı, [Nuh’un kendisi de büyük oğlu Kenan’ı lanetlerken sorun oldu](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F9%3A18-27). Sömürgeciler bunu Tanrı’nın Afrikalıların köle olmasına izin verdiğini kanıtlamak için kullandılar — bunun mantığını hiç anlamadım.
 
-Her neyse, yolculuk devam eder ve insanoğlu kendilerine bir isim yapmaya çalışır, bu da [bir felaketle sonuçlanır](../../../bible/keyword/expl/the-origin-of-babel/index.html) ve Tanrı İbrahim’den bir isim yaratır. O, İsrail’in atası oldu. Tanrı İsrail ile bir antlaşma yaptı, böylece onlar çevrelerindeki insanlara iyi bir yaşam örneği olacaklardı. Ama onlar çevrelerindeki insanlardan daha kötüydüler ve Tanrı onları sürgüne gönderdi ve bu aşağı yukarı Kutsal Kitap’ın ilk bölümünün, Eski Ahit’in konusudur. Tam olarak değil. Daha sonra bakacağımız bazı iyi örnekler vardır.
+Her neyse, yolculuk devam eder ve insanoğlu kendilerine bir isim yapmaya çalışır, bu da [bir felaketle sonuçlanır](../../../bible/keyword/expl/the-origin-of-babel) ve Tanrı İbrahim’den bir isim yaratır. O, İsrail’in atası oldu. Tanrı İsrail ile bir antlaşma yaptı, böylece onlar çevrelerindeki insanlara iyi bir yaşam örneği olacaklardı. Ama onlar çevrelerindeki insanlardan daha kötüydüler ve Tanrı onları sürgüne gönderdi ve bu aşağı yukarı Kutsal Kitap’ın ilk bölümünün, Eski Ahit’in konusudur. Tam olarak değil. Daha sonra bakacağımız bazı iyi örnekler vardır.
 
 Peki aslında sorun nedir? En başta açıklanmıştı: Hediyeyi verenden daha çok sevmek. Bu açgözlülüğün bir türüdür ve genellikle yetersiz kalma korkusuyla eşleştirilir (tedarik, onaylanma, güvenlik, her türlü fomo, …). Bununla bir şeyler elde etmek için insanları ve ilişkileri kötüye kullanırız (para, onay veya değerlendirme, sosyal medya statüsü, iyi vicdan, amaç, …).
 
@@ -43,7 +43,7 @@ Basit bir örneğe bakalım. Sigara içmek iyi bir şey değildir. Sağlığın�
 
 Ve çoğu zaman kilise (hepsinin kendi sorunları olan) ve kötü eylemleri kontrol etmeye çalışan insanlardan oluşur. Ancak bu yine de yol göstermez.
 
-[Bu, basitçe değiştiremeyeceğiniz bir paradigmadır.](../../../topics/hero/short/a-real-hero/index.html)
+[Bu, basitçe değiştiremeyeceğiniz bir paradigmadır.](../../../topics/hero/short/a-real-hero)
 
 
 ## İleriye doğru bir yol
@@ -53,7 +53,8 @@ Ve çoğu zaman kilise (hepsinin kendi sorunları olan) ve kötü eylemleri kont
 
 Bu geniş bir konudur ve burada Dallas Willard’a yer veriyorum, eğer biraz zaman ayırırsanız bunu açıklıyor (25 yıldan daha eski ama hala çok alakalı). Onlarca yıl önce kiliseye giden insanların neden davranışlarını değiştirmediklerini merak ediyordu
 
-<li id="f5a0">[Dallas Willard — Human Beings as Spiritual Beings](https://www.youtube.com/watch?v=rqib-BIEijM) veya</li>- benzer şekilde okumayı tercih ediyorsanız “[Spiritual Disciplines and the Restoration of the Soul](https://dwillard.org/articles/spiritual-disciplines-spiritual-formation-and-the-restoration-of-the-soul)” veya
+- [Dallas Willard — Human Beings as Spiritual Beings](https://www.youtube.com/watch?v=rqib-BIEijM) veya
+- benzer şekilde okumayı tercih ediyorsanız “[Spiritual Disciplines and the Restoration of the Soul](https://dwillard.org/articles/spiritual-disciplines-spiritual-formation-and-the-restoration-of-the-soul)” veya
 - [Michael Goremans view on the new covenant](https://www.reddit.com/r/cruciformity/comments/st85s5/free_ebook_the_death_of_the_messiah_and_the_birth/)
 
 
@@ -92,13 +93,13 @@ Bir Hıristiyan olarak başkalarına iyi davranmalısın. Çok yanlış. İsa’
 
 Konuları ele almalı ve herkesi memnun etmeye çalışmamalıyız.
 
-Bir Hıristiyan olarak başkalarını kiliseye getirmeli ve onları Hıristiyan olmaya ikna etmelisiniz. Neden? Sizin gibi olsunlar diye mi? Bunun yerine bir tanık olun ve [tanıklığınızla dikkat çekin](../../../content/witnesses/expl/the-two-witnesses/index.html).
+Bir Hıristiyan olarak başkalarını kiliseye getirmeli ve onları Hıristiyan olmaya ikna etmelisiniz. Neden? Sizin gibi olsunlar diye mi? Bunun yerine bir tanık olun ve [tanıklığınızla dikkat çekin](../../../content/witnesses/expl/the-two-witnesses).
 
 İnsanlar günahkâr olduklarını ya da zor durumda olduklarını anladıklarında Hıristiyan olurlar. Yine çok yanlış.
 
-Kimseye asla suçluluk duygusuyla yaklaşmamalıyız, bu manipülasyondur veya korkuyla çalışmaktır —[ ilişkilendirilmek isteyeceğiniz bir şey değildir](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html).
+Kimseye asla suçluluk duygusuyla yaklaşmamalıyız, bu manipülasyondur veya korkuyla çalışmaktır —[ ilişkilendirilmek isteyeceğiniz bir şey değildir](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
 
-Hayatta zor zamanlar geçiren insanlar [herhangi bir şeye yönelebilir](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html) ya [da öfke içinde acı çekebilirler](../../../content/bowls/expl/the-bowls-of-wrath/index.html). [Eğer akla yatkın bir alternatif](../../../content/scroll/expl/the-little-scroll/index.html) (sizin tanıklığınız) yoksa, Hıristiyan olmalarının hiçbir yolu yoktur. Ve yine lütfen Hıristiyan olduğunuzda tüm sorunların ortadan kalkacağını söylemeyin. Bu bir yalandır!
+Hayatta zor zamanlar geçiren insanlar [herhangi bir şeye yönelebilir](../../../content/trumpets/expl/the-trumpets-in-revelation) ya [da öfke içinde acı çekebilirler](../../../content/bowls/expl/the-bowls-of-wrath). [Eğer akla yatkın bir alternatif](../../../content/scroll/expl/the-little-scroll) (sizin tanıklığınız) yoksa, Hıristiyan olmalarının hiçbir yolu yoktur. Ve yine lütfen Hıristiyan olduğunuzda tüm sorunların ortadan kalkacağını söylemeyin. Bu bir yalandır!
 
 İsa dünyaya geldi ve çarmıhta öldü, böylece günahlarım affedildi ve cennete gidebileceğim. Bu teknik olarak yanlış değildir, ancak gerçeğin yarısından daha azıdır. Adım adım ilerleyelim.
 
@@ -143,4 +144,4 @@ Kilise bu şekilde büyürse ve herkes bunu takip etme cesaretine ve önceliğin
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/church/appl/what-is-wrong-with-the-church.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/church/appl/what-is-wrong-with-the-church.tr.md)

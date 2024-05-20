@@ -9,8 +9,8 @@ In [Kapitel 11](https://www.bibleserver.com/SLT/Offenbarung11) in der Offenbarun
 ## Was du davor lesen solltest
 
 <a name="df8e"></a>
-- [Die 3,5 Jahre](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
-- [Die beiden Tiere](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)
+- [Die 3,5 Jahre](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+- [Die beiden Tiere](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 
 
 
@@ -34,7 +34,7 @@ In dieser Vision werden einige Teile des Tempels gemessen (Gott betrachtet sie a
 
 Der Text selbst gibt uns die entscheidenden Hinweise: “[Das sind die zwei Ölbäume und die zwei Leuchter, die vor dem Gott der Erde stehen](https://www.bibleserver.com/SLT/Offenbarung11%2C4).”. Das ist ein Hinweis auf den [Propheten Sacharja](https://www.bibleserver.com/SLT/Sacharja4%2C2-14) (der mit dem Hohepriester Joshua und dem Nachfolger Davids: Serubbabel, identifiziert wird), aber vor allem wird es durch die [sieben Gemeinden deutlich, die mit den Leuchtern identifiziert werden](https://www.bibleserver.com/SLT/Offenbarung1%2C20).
 
-Dies wird durch die Diskussion über die [dreieinhalb Jahre](https://www.bibleserver.com/SLT/Offenbarung11%2C3), die [die Zeit zwischen Jesu erstem und zweitem Kommen](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html) ist, bestätigt, so dass wir davon ausgehen müssen, dass es sich hier nicht um Personen, sondern um die Gemeinde handelt.
+Dies wird durch die Diskussion über die [dreieinhalb Jahre](https://www.bibleserver.com/SLT/Offenbarung11%2C3), die [die Zeit zwischen Jesu erstem und zweitem Kommen](../../../bible/daniel/expl/the-secret-of-the-3-5-years) ist, bestätigt, so dass wir davon ausgehen müssen, dass es sich hier nicht um Personen, sondern um die Gemeinde handelt.
 
 Es gibt verschiedene Möglichkeiten, sie mit bestimmten Personen in Verbindung zu bringen, aber der einfachste Ansatz ist, sie mit Mose und Elija zu identifizieren, da das [Feuer vom Himmel auf ihre Feinde](https://www.bibleserver.com/SLT/Offenbarung11%2C5) für [Elija](https://www.bibleserver.com/SLT/1.K%C3%B6nige1) charakteristisch ist, ebenso wie das [Stoppen des Regens](https://www.bibleserver.com/SLT/Offenbarung11%2C6), während das [Wasser zu Blut](https://www.bibleserver.com/SLT/Offenbarung11%2C6) wird, für [Mose](https://www.bibleserver.com/SLT/2.Mose7%2C14-24) charakteristisch ist.
 
@@ -70,7 +70,7 @@ Sie sind in [Sacktuch gekleidet](https://www.bibleserver.com/SLT/Offenbarung11%2
 
 Sie kommen, um in einer gefallenen Welt zur Umkehr aufzurufen.
 
-Sie können Zeichen und Wunder tun. Im Alten Testament wurden sie eingesetzt, um die Menschen zu lehren, dass es nur einen Gott gibt (und dass es keinen Sinn hat, einem anderen zu vertrauen, [wie die Posaunen lehren](../../../content/trumpets/expl/the-trumpets-in-revelation/index.html)).
+Sie können Zeichen und Wunder tun. Im Alten Testament wurden sie eingesetzt, um die Menschen zu lehren, dass es nur einen Gott gibt (und dass es keinen Sinn hat, einem anderen zu vertrauen, [wie die Posaunen lehren](../../../content/trumpets/expl/the-trumpets-in-revelation)).
 
 Das einzige, was sie gegen ihre Feinde einsetzen können, ist Feuer vom Himmel, wie in der Geschichte von Elija. Doch am Ende werden sie [vom Tier überwunden](https://www.bibleserver.com/SLT/Offenbarung11%2C7).
 
@@ -95,29 +95,14 @@ Die ganze Geschichte steckt voller Überraschungen:
 
 <a name="3cd4"></a>
 Wenn wir uns die Tiere anschauen, folgt ihr Verhalten einem Muster und sie ergänzen sich gegenseitig, ebenso wie die Zeugen.
-<table style="table-layout: fixed; width: 100%">
-<thead>
-<th>Thema</th><th>Erstes Tier</th><th>Zweites Tier</th>
-</thead>
-<tbody>
-<tr>
-<td style="width:20%;">Ursprung</td>
-<td style="width:40%;">[Aus der See](https://www.bibleserver.com/SLT/Offenbarung13%2C1)</td>
-<td style="width:40%;">[Von der Erde](https://www.bibleserver.com/SLT/Offenbarung13%2C11)</td>
-</tr>
-<tr>
-<td>Identität (mit Daniel)</td>
-<td>[Tier mit sieben Hörnern](https://www.bibleserver.com/SLT/Offenbarung13%2C1) -> Fortsetzung und Macht der Reiche</td>
-<td>[Tier mit zwei Hörnern wie Lamm/Menschensohn](https://www.bibleserver.com/SLT/Offenbarung13%2C11)</td>
-</tr>
-<tr>
-<td>Macht</td>
-<td>[Drache gibt Macht und Thron](https://www.bibleserver.com/SLT/Offenbarung13%2C2)</td>
-<td>[Regiert in Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C12)</td>
-</tr>
-<tr>
-<td>Zeichen und Anbetung</td>
-<td>[Tödliche Wunde ist geheilt](https://www.bibleserver.com/SLT/Offenbarung13%2C3)</td></tr></tbody></table>
+
+
+| Thema | Erstes Tier | Zweites Tier |
+|-------|-------------|--------------|
+| Ursprung | [Aus der See](https://www.bibleserver.com/SLT/Offenbarung13%2C1) | [Von der Erde](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
+| Identität (mit Daniel) | [Tier mit sieben Hörnern](https://www.bibleserver.com/SLT/Offenbarung13%2C1) -> Fortsetzung und Macht der Reiche | [Tier mit zwei Hörnern wie Lamm/Menschensohn](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
+| Macht | [Drache gibt Macht und Thron](https://www.bibleserver.com/SLT/Offenbarung13%2C2) | [Regiert in Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C12) |
+| Zeichen und Anbetung | [Tödliche Wunde ist geheilt](https://www.bibleserver.com/SLT/Offenbarung13%2C3) |
 [Ganze Erde ist erstaunt](https://www.bibleserver.com/SLT/Offenbarung13%2C3)
 [Beten Drache an, der Macht dem Tier gegeben hat](https://www.bibleserver.com/SLT/Offenbarung13%2C4)
 
@@ -131,7 +116,7 @@ Wenn wir uns die Tiere anschauen, folgt ihr Verhalten einem Muster und sie ergä
 <td>[Wer ist wie das Tier(stark wie es)](https://www.bibleserver.com/SLT/Offenbarung13%2C4)</td></tr>
 [große Lästerungen gegen Gott und sein Volk](https://www.bibleserver.com/SLT/Offenbarung13%2C5-6)
 
-<td>[Macht Bild des Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14) (Mensch ist im Bilde Gottes gemacht -> Mensch ist Stellvertreter Gottes)</td>
+<td>[Macht Bild des Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14) (Mensch ist im Bilde Gottes gemacht -&gt; Mensch ist Stellvertreter Gottes)</td>
 [Kann Leben geben, so dass Tier sprechen kann](https://www.bibleserver.com/SLT/Offenbarung13%2C14-15) <span style="color:green;">, aber nur Gott kann Leben geben</span>
 <tr>
 <td>Überwindet Heilige</td>
@@ -194,9 +179,9 @@ Wenn du nun auf dein Leben mit Jesus schaust, in welche Kategorie gehörst du? B
 ## Further readings
 
 <a name="31a1"></a>
-- [Die Kraft des Zeugnisses](../../../topics/power/short/the-power-of-testimony/index.html)
+- [Die Kraft des Zeugnisses](../../../topics/power/short/the-power-of-testimony)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/expl/the-two-witnesses.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/expl/the-two-witnesses.de.md)

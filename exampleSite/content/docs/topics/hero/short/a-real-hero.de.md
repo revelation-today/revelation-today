@@ -54,4 +54,4 @@ Er kann heilen und wiederherstellen, weil er keine Angst haben muss, überwälti
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/a-real-hero.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/a-real-hero.de.md)

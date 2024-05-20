@@ -58,4 +58,4 @@ We have three kings who acted differently in times of pressure, and they all kne
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/armageddon-and-the-battle-of-karkemish.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/armageddon-and-the-battle-of-karkemish.md)

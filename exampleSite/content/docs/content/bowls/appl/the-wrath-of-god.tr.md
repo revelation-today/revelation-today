@@ -29,25 +29,34 @@ Gazap kaseleri kulağa sanki Tanrı öfke nöbeti geçiriyormuş ve kendisini ka
 
 Ve bu da kaselerin ne hakkında olduğu
 
-<li id="c7db"><strong>İlk </strong>kâse, Şeytan’a sadakatlerini sunan insanlar için sorun yaratır ve ilk dört borazanın konusunu (insanların güvenliğine ilişkin felaketler) ele alır.</li><li id="b7bf"><strong>İkinci </strong>ve <strong>üçüncü </strong>kâse (bu önemli bir konu gibi görünüyor) tanıklık eden kiliseye saldıran insanlarla yüzleşir.</li><li id="5212"><strong>Dördüncü </strong>ve <strong>beşinci </strong>kâse insanların yüreğinin inatçılığına ve kilisenin tanıklığına ulaşılmazlığına meydan okur — bundan sonra sadece sıkıntı ve tanıklıktan sonra kararlarında katı olan insanlar kalır.</li><li id="59ef">Bu yüzden <strong>altıncı </strong>kâse sırasında Tanrı bu insanlara aldatmacalarına göre verir ve onlar Armagedon’da toplanırlar. Armagedon bir savaş yeri değil, güçlülerin açıkça zayıf olanlara karşı yenilgi yeridir. Şeytan için bir yargı yeridir.</li><li id="307e">Ve <strong>yedinci </strong>kâsede Şeytan’ın krallığı sonunda yok edilir.</li>
+- İlk kâse, Şeytan’a sadakatlerini sunan insanlar için sorun yaratır ve ilk dört borazanın konusunu (insanların güvenliğine ilişkin felaketler) ele alır.
+- İkinci ve üçüncü kâse (bu önemli bir konu gibi görünüyor) tanıklık eden kiliseye saldıran insanlarla yüzleşir.
+- Dördüncü ve beşinci kâse insanların yüreğinin inatçılığına ve kilisenin tanıklığına ulaşılmazlığına meydan okur — bundan sonra sadece sıkıntı ve tanıklıktan sonra kararlarında katı olan insanlar kalır.
+- Bu yüzden altıncı kâse sırasında Tanrı bu insanlara aldatmacalarına göre verir ve onlar Armagedon’da toplanırlar. Armagedon bir savaş yeri değil, güçlülerin açıkça zayıf olanlara karşı yenilgi yeridir. Şeytan için bir yargı yeridir.
+- Ve yedinci kâsede Şeytan’ın krallığı sonunda yok edilir.
+
 
 
 ### Yansıma
 
 <a name="3fce"></a>
-<li id="bf61">Tanrı ne kadar bekleyebilir? Tanrı’nın sizden vazgeçtiğini düşünüyor musunuz?</li><li id="b485">Canavarın peşinden gittiğiniz, Tanrı’nın rehberliğini reddettiğiniz ya da kalbinizi katılaştırdığınız konular nelerdi?</li><li id="1e7e">Bu dünyadaki somut durumların daha iyiye doğru nasıl değişebileceğine dair umutlarınız nelerdir? Bunların Tanrı’nın yolları olduğunu düşünüyor musunuz?</li><li id="39a9">Aşağıda Armagedon hakkında bir çalışma yapın. Bu bugün ne olabilir?</li>
+- Tanrı ne kadar bekleyebilir? Tanrı’nın sizden vazgeçtiğini düşünüyor musunuz?
+- Canavarın peşinden gittiğiniz, Tanrı’nın rehberliğini reddettiğiniz ya da kalbinizi katılaştırdığınız konular nelerdi?
+- Bu dünyadaki somut durumların daha iyiye doğru nasıl değişebileceğine dair umutlarınız nelerdir? Bunların Tanrı’nın yolları olduğunu düşünüyor musunuz?
+- Aşağıda Armagedon hakkında bir çalışma yapın. Bu bugün ne olabilir?
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="d4d4"></a>
-- [Gazap kaseleri](../../../content/bowls/expl/the-bowls-of-wrath/index.html)
-- [Armageddon’un anlamı](../../../content/bowls/expl/the-key-to-armageddon/index.html)
-- [Armageddon ve Karkamış Savaşı](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish/index.html)
+- [Gazap kaseleri](../../../content/bowls/expl/the-bowls-of-wrath)
+- [Armageddon’un anlamı](../../../content/bowls/expl/the-key-to-armageddon)
+- [Armageddon ve Karkamış Savaşı](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
 
 
@@ -55,4 +64,4 @@ Ve bu da kaselerin ne hakkında olduğu
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/appl/the-wrath-of-god.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/appl/the-wrath-of-god.tr.md)

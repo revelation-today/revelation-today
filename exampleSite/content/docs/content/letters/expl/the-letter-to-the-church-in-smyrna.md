@@ -35,7 +35,7 @@ The reference [to 10 days](https://www.bibleserver.com/NIV/Revelation2%3A10) is 
 <a name="1a16"></a>
 Jesus promises: When they endure they will not be harmed by the second death. Jesus overcame by [going through death into resurrection and seeming to be week](https://www.bibleserver.com/NIV/Revelation5%3A5-6), so [he will reign with them](https://www.bibleserver.com/NIV/Revelation20%3A4-6). This is a paradox. How should this work?
 
-The more we are unable to do anything, the more Jesus can work. But there is a [danger of being so overwhelmed by despair that we give up](../../../content/beasts/expl/666-the-number-of-the-beast/index.html). We don’t have to solve the situation, but we have to endure with him.
+The more we are unable to do anything, the more Jesus can work. But there is a [danger of being so overwhelmed by despair that we give up](../../../content/beasts/expl/666-the-number-of-the-beast). We don’t have to solve the situation, but we have to endure with him.
 
 
 ## Dig Deeper
@@ -50,4 +50,4 @@ Gordon Fee, Revelation, pages 29–30
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-smyrna.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-smyrna.md)

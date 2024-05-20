@@ -85,11 +85,11 @@ When Jesus returns, the intent is for all nations to be saved and all to have a 
 ## Digging deeper
 
 <a name="06f1"></a>
-[Israel](../../../background/israel/expl/who-is-israel/index.html)
+[Israel](../../../background/israel/expl/who-is-israel)
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/overview/appl/the-day-of-the-lord.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/overview/appl/the-day-of-the-lord.md)

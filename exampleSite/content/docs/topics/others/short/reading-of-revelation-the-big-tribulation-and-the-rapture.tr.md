@@ -43,15 +43,15 @@ Hıristiyanların umudu, sıkıntılarımızdan kurtulmamız değil, sıkıntıl
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation/index.html)
+[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="113f"></a>
-- [İsa’nın hikayesi](../../../content/jesus/expl/a-different-christmas-story/index.html)
-- [Büyük Sıkıntı](../../../content/army/expl/the-end-time-and-the-great-tribulation/index.html)
-- [Kıyamet](../../../topics/others/expl/the-rapture/index.html)
+- [İsa’nın hikayesi](../../../content/jesus/expl/a-different-christmas-story)
+- [Büyük Sıkıntı](../../../content/army/expl/the-end-time-and-the-great-tribulation)
+- [Kıyamet](../../../topics/others/expl/the-rapture)
 
 
 
@@ -59,4 +59,4 @@ Hıristiyanların umudu, sıkıntılarımızdan kurtulmamız değil, sıkıntıl
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture.tr.md)

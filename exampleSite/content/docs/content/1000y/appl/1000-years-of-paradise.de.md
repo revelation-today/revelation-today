@@ -19,7 +19,8 @@ Du hast vielleicht schon viel darüber gehört, aber lass uns doch einmal sehen,
 
 - Das Tausendjährige Reich wird vorher in der Bibel nicht als solches erwähnt.
 - Es gibt nur einen Vers, der davon spricht (Vers 4).
-<li id="27a8">Es ist alles sehr vage: enthauptete Menschen, die um Jesu willen gestorben sind, werden (wie?) (über wen [die Schöpfung, nicht so gute Christen, über sich selbst?]) herrschen.</li>- Es gibt keinen wirklichen Grund, warum der neue Himmel und die neue Erde nicht sofort beginnen sollten. Es ist kein Vorteil des Tausendjährigen Reiches ersichtlich.
+- Es ist alles sehr vage: enthauptete Menschen, die um Jesu willen gestorben sind, werden (wie?) (über wen [die Schöpfung, nicht so gute Christen, über sich selbst?]) herrschen.
+- Es gibt keinen wirklichen Grund, warum der neue Himmel und die neue Erde nicht sofort beginnen sollten. Es ist kein Vorteil des Tausendjährigen Reiches ersichtlich.
 
 
 Wie man sieht, ist es schwierig, in einer so kurzen Passage wirklich Schlussfolgerungen zu finden, und es ist wohl besser anzunehmen, dass es sich um ein Thema handelt, das im Buch bereits angesprochen wurde.
@@ -43,7 +44,11 @@ Sogar im Tod regiert sie (damals wurden nur Könige und andere einflussreiche Pe
 ### Reflektion
 
 <a name="5f46"></a>
-<li id="7547">Wo hast du in der Geschichte und heute gesehen, dass die Gemeinde (im positiven Sinne) regiert?</li><li id="6ac3">Wie sieht gutes Regieren konkret aus?</li><li id="6f99">Wo hast du erlebt, dass du (auch unbewusst) als König behandelt wirst, weil du an Christus glaubst?</li><li id="39e8">Was gibt dir Hoffnung durchzuhalten?</li>
+- Wo hast du in der Geschichte und heute gesehen, dass die Gemeinde (im positiven Sinne) regiert?
+- Wie sieht gutes Regieren konkret aus?
+- Wo hast du erlebt, dass du (auch unbewusst) als König behandelt wirst, weil du an Christus glaubst?
+- Was gibt dir Hoffnung durchzuhalten?
+
 
 
 
@@ -53,10 +58,10 @@ Sogar im Tod regiert sie (damals wurden nur Könige und andere einflussreiche Pe
 ## Zur Vertiefung
 
 <a name="d194"></a>
-- [Das Tausendjährige Reich](../../../content/1000y/expl/the-thousand-year-kingdom/index.html)
+- [Das Tausendjährige Reich](../../../content/1000y/expl/the-thousand-year-kingdom)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/appl/1000-years-of-paradise.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/appl/1000-years-of-paradise.de.md)

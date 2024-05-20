@@ -97,4 +97,4 @@ Das Evangelium zeigt die Spannung zwischen der Wiederherstellung Israels, das an
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-second-exodus.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-second-exodus.de.md)

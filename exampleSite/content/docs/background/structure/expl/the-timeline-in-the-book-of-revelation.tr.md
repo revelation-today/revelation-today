@@ -25,4 +25,4 @@ Ama işte tüm detaylar
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-timeline-in-the-book-of-revelation.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-timeline-in-the-book-of-revelation.tr.md)

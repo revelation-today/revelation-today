@@ -41,7 +41,7 @@ But what is the scroll now? Looking at the next chapter(s), it is the testimony 
 ## Further readings
 
 <a name="b216"></a>
-- [The two witnesses](../../../content/witnesses/expl/the-two-witnesses/index.html)
+- [The two witnesses](../../../content/witnesses/expl/the-two-witnesses)
 
 
 
@@ -55,4 +55,4 @@ Beale, Revelation, pages 520–555
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.md)

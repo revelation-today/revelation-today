@@ -3,7 +3,7 @@ title: "Gods covenant"
 ---
 
 
-In ancient times [being in a family was essential for survival](../../../background/israel/expl/the-role-of-family-in-the-bible/index.html) (provision, protection, …), and being in an important family was even better.
+In ancient times [being in a family was essential for survival](../../../background/israel/expl/the-role-of-family-in-the-bible) (provision, protection, …), and being in an important family was even better.
 
 But how do you join a family? By marriage, by birth, by adoption and by COVENANT.
 
@@ -97,4 +97,4 @@ Sandra Richter, The Epic of Eden, pages 69
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/gods-covenant.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/gods-covenant.md)

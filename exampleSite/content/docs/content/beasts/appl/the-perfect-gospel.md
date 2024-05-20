@@ -110,7 +110,8 @@ Even though this copy of the Trinity sounds so convincing, it is rated with 666.
 
 So why does he fail? In each of the persons of the Trinity, the crucial element was missing.
 
-<li id="a377">God is the ruler, but He does not dictate, otherwise no one would ask, “How can a loving God allow all this evil? Satan destroys everything that does not agree with him.</li>- Jesus died out of love for us, the first beast only frightens people. Jesus died completely, the first beast was only wounded.
+- God is the ruler, but He does not dictate, otherwise no one would ask, “How can a loving God allow all this evil? Satan destroys everything that does not agree with him.
+- Jesus died out of love for us, the first beast only frightens people. Jesus died completely, the first beast was only wounded.
 - The Holy Spirit does not force people and uses shows, the second beast uses this to manipulate.
 
 
@@ -120,7 +121,14 @@ So the difference between the alleged Satan and Jesus is not power or success, b
 ### Reflection
 
 <a name="4fac"></a>
-<li id="b184">Did you fall for this dream above? In what aspect?</li><li id="f15c">Have you ever used the weapons of the beast (violence, fear, manipulation, …) and what was the result?</li><li id="788a">Do you clearly see the difference between the deception and the reality of the Church? Can you see it in our society?</li><li id="967a">What are the first and second beasts in your environment? How can you remain faithful?</li><li id="1dbe">In what ways (even subtle ones) do people today show their allegiance to the beast?</li><li id="4d38">What are the consequences of today’s beasts if you don’t submit?</li><li id="ceba">Where are you being challenged to give in (out of desperation, conviction, temptation)?</li>
+- Did you fall for this dream above? In what aspect?
+- Have you ever used the weapons of the beast (violence, fear, manipulation, …) and what was the result?
+- Do you clearly see the difference between the deception and the reality of the Church? Can you see it in our society?
+- What are the first and second beasts in your environment? How can you remain faithful?
+- In what ways (even subtle ones) do people today show their allegiance to the beast?
+- What are the consequences of today’s beasts if you don’t submit?
+- Where are you being challenged to give in (out of desperation, conviction, temptation)?
+
 
 
 
@@ -130,10 +138,10 @@ So the difference between the alleged Satan and Jesus is not power or success, b
 ## Digging deeper
 
 <a name="06f1"></a>
-- [The two beasts](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)
-- [The number of the beast](../../../content/beasts/expl/666-the-number-of-the-beast/index.html)
-- [The beast in the original context](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context/index.html)
-- [The nature of the beast](../../../content/beasts/expl/the-nature-of-the-beast/index.html)
+- [The two beasts](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [The number of the beast](../../../content/beasts/expl/666-the-number-of-the-beast)
+- [The beast in the original context](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
+- [The nature of the beast](../../../content/beasts/expl/the-nature-of-the-beast)
 
 
 
@@ -141,4 +149,4 @@ So the difference between the alleged Satan and Jesus is not power or success, b
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/appl/the-perfect-gospel.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/appl/the-perfect-gospel.md)

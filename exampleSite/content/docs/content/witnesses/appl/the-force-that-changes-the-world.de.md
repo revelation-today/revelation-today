@@ -23,7 +23,7 @@ Laut unserem Text ist Gott an Anbetern interessiert, d.h. es geht um unsere bedi
 ## Die Zeugen
 
 <a name="3f6b"></a>
-Ich mache es hier kurz: [Die beiden Zeugen sind die Gemeinde](../../../content/witnesses/expl/the-two-witnesses/index.html).
+Ich mache es hier kurz: [Die beiden Zeugen sind die Gemeinde](../../../content/witnesses/expl/the-two-witnesses).
 
 Die beiden Zeugen folgen in ihrem Leben ganz Jesus nach:
 
@@ -47,7 +47,19 @@ Heißt das, dass Gott alle Christen auferweckt, nachdem sie gestorben sind und i
 ### Reflektion
 
 <a name="e32a"></a>
-<li id="6885">Warum hast du Zeit mit Gott? Was erwartest du dir davon?</li><li id="f4e1">Wie viel Zeit verbringst du mit Gott, wenn es um dich und deine Nächsten geht? In wieviel Zeit ist das Thema: Gott, mach mit mir, was du willst, wohin willst du mich schicken, wie kann ich dich verherrlichen?</li><li id="b2a7">Wie fühlst du dich, wenn Menschen Jesus verspotten? Was machst du dann? Wie reagierst du?</li><li id="7c07">Kannst du demütig sein und deine Fehler als Christ zugeben, wenn die Welt Jesus und die Kirche verspottet? Wie kannst du in solchen Situationen stärker werden?</li><li id="995a">Glaubst du heute noch an Gottes Macht und übernatürliches Eingreifen? Hast du erlebt, dass das einen Unterschied macht?</li><li id="3ce5">Hast du Heilung und Wiederherstellung erlebt, die nicht durch Gebet oder Verkündigung, sondern auf unspektakuläre Weise geschehen sind?</li><li id="610d">Wie weit würdest du für Jesus gehen? Was wäre, wenn du für deinen Glauben getötet würdest?</li><li id="0e0b">Glaubst du, dass dein Zeugnis vollständig ist, wenn du stirbst? Welcher Teil der Kirche hängt nur von dir ab?</li><li id="b72b">Das Blut der Märtyrer ist der Samen der Kirche. Glaubst du das? Kennst du Beispiele, wo das geschehen ist?</li><li id="2856">Siehst du eine Parallele zwischen den beiden Zeugen und dem Wirken der Urgemeinde?</li><li id="459f">Was ist dir wichtiger als dein eigenes Leben?</li><li id="14e0">Glaubst du, dass die Kirche das Potential hat, die Welt zu verändern?</li>
+- Warum hast du Zeit mit Gott? Was erwartest du dir davon?
+- Wie viel Zeit verbringst du mit Gott, wenn es um dich und deine Nächsten geht? In wieviel Zeit ist das Thema: Gott, mach mit mir, was du willst, wohin willst du mich schicken, wie kann ich dich verherrlichen?
+- Wie fühlst du dich, wenn Menschen Jesus verspotten? Was machst du dann? Wie reagierst du?
+- Kannst du demütig sein und deine Fehler als Christ zugeben, wenn die Welt Jesus und die Kirche verspottet? Wie kannst du in solchen Situationen stärker werden?
+- Glaubst du heute noch an Gottes Macht und übernatürliches Eingreifen? Hast du erlebt, dass das einen Unterschied macht?
+- Hast du Heilung und Wiederherstellung erlebt, die nicht durch Gebet oder Verkündigung, sondern auf unspektakuläre Weise geschehen sind?
+- Wie weit würdest du für Jesus gehen? Was wäre, wenn du für deinen Glauben getötet würdest?
+- Glaubst du, dass dein Zeugnis vollständig ist, wenn du stirbst? Welcher Teil der Kirche hängt nur von dir ab?
+- Das Blut der Märtyrer ist der Samen der Kirche. Glaubst du das? Kennst du Beispiele, wo das geschehen ist?
+- Siehst du eine Parallele zwischen den beiden Zeugen und dem Wirken der Urgemeinde?
+- Was ist dir wichtiger als dein eigenes Leben?
+- Glaubst du, dass die Kirche das Potential hat, die Welt zu verändern?
+
 
 
 
@@ -57,12 +69,12 @@ Heißt das, dass Gott alle Christen auferweckt, nachdem sie gestorben sind und i
 ## Zur Vertiefung
 
 <a name="6f23"></a>
-- [Der Tempel](../../../bible/keyword/expl/the-temple-and-the-presence-of-god/index.html)
-- [Die Kraft des Zeugnisses](../../../topics/power/short/the-power-of-testimony/index.html)
-- [Die beiden Zeugen](../../../content/witnesses/expl/the-two-witnesses/index.html)
+- [Der Tempel](../../../bible/keyword/expl/the-temple-and-the-presence-of-god)
+- [Die Kraft des Zeugnisses](../../../topics/power/short/the-power-of-testimony)
+- [Die beiden Zeugen](../../../content/witnesses/expl/the-two-witnesses)
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/appl/the-force-that-changes-the-world.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/appl/the-force-that-changes-the-world.de.md)

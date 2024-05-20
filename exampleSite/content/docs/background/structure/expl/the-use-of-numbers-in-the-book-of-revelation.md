@@ -29,7 +29,7 @@ Other examples of completeness in Revelation are the 7 seals, the 7 trumpets, an
 ## The number 3,5
 
 <a name="a9fe"></a>
-[We have an own article here](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
+[We have an own article here](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
 
 ## The number 4
@@ -93,7 +93,7 @@ The twelve apostles are the mirror image of this in the New Testament.
 ## Further thoughts
 
 <a name="c5d5"></a>
-Some words are repeated more often towards the end of the book to indicate the intensification of the theme (12 -> communion of God with the Church, “Alpha and Omega” and equivalents like Jesus as the conclusion of the story).
+Some words are repeated more often towards the end of the book to indicate the intensification of the theme (12 -&gt; communion of God with the Church, “Alpha and Omega” and equivalents like Jesus as the conclusion of the story).
 
 Even if some of the numbers of names are coincidental, the frequency shows that here, too, accents/statements were made through numbers.
 
@@ -138,7 +138,7 @@ But we often see the distorted reality, where Satan is always a bit stronger.
 ## Further digging
 
 <a name="098d"></a>
-[Beale, Revelation, pages 60–64](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#7557)
+[Beale, Revelation, pages 60–64](../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
 
 Bauckham, The climax of prophecy, pages 384–407
 
@@ -147,4 +147,4 @@ Bauckham, The climax of prophecy, pages 384–407
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation.md)

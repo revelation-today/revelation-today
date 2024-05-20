@@ -41,9 +41,9 @@ Aber was genau sagt das Büchlein? Dazu müssen wir die nächsten Kapitel lesen.
 ## Zum Weiterlesen
 
 <a name="dfe1"></a>
-- [Die beiden Zeugen](../../../content/witnesses/expl/the-two-witnesses/index.html)
+- [Die beiden Zeugen](../../../content/witnesses/expl/the-two-witnesses)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.de.md)

@@ -17,10 +17,10 @@ Der Abschnitt läßt sich wie folgt einteilen:
 
 21/1–8: Einführung in das neue Jerusalem, das eine Zusammenfassung des darauffolgenden Abschnitts ist (ähnlich wie Jes. 60)
 
-- 21/2 -> 21/9–11
-- 21/3 -> 21/22–24; 22/3
-- 21/6 -> 22/1
-- 21/8 -> 21/27a
+- 21/2 -&gt; 21/9–11
+- 21/3 -&gt; 21/22–24; 22/3
+- 21/6 -&gt; 22/1
+- 21/8 -&gt; 21/27a
 
 
 22/9–22/5: Das neue Jerusalem
@@ -171,11 +171,15 @@ Der [ultimative Lügner ist Satan](https://www.bibleserver.com/SLT/Johannes8%2C4
 ## [Der erste Eindruck](https://www.bibleserver.com/SLT/Offenbarung21%2C9-14)
 
 <a name="c99e"></a>
-Das neue Jerusalem ist das Gegenstück zu Babel, wenn wir den [größeren Zusammenhang betrachten](../../../content/1000y/expl/the-thousand-year-kingdom/index.html). Das [neue Jerusalem stellt eine Frau (die Braut) dar](https://www.bibleserver.com/SLT/Offenbarung21%2C2), so wie Babel eine Frau (die Hure) darstellt, was auch in [Jesaja](https://www.bibleserver.com/SLT/Jesaja62%2C1-5) zum Ausdruck kommt.
+Das neue Jerusalem ist das Gegenstück zu Babel, wenn wir den [größeren Zusammenhang betrachten](../../../content/1000y/expl/the-thousand-year-kingdom). Das [neue Jerusalem stellt eine Frau (die Braut) dar](https://www.bibleserver.com/SLT/Offenbarung21%2C2), so wie Babel eine Frau (die Hure) darstellt, was auch in [Jesaja](https://www.bibleserver.com/SLT/Jesaja62%2C1-5) zum Ausdruck kommt.
 
-<li id="1b5d">Babel ist das <em>Wirtschaftssystem, das mit der Macht des Herrschers verteilt wird, und Unmoral wird mit Götzendienst</em> (<strong>Untreue</strong>) betrieben, aber das <em>Volk Gottes ist ihm</em> <strong>treu</strong>.</li><li id="5f0e">Babel <strong>verursacht </strong><em>Leid</em>, während Jerusalem das <em>Leid </em><strong>beseitigt</strong></li><li id="39ab">Babel <strong>zerstört sich selbst</strong> und Jerusalem <strong>bleibt für immer</strong></li><li id="d8c9">Babel <em>wird reich</em> <strong>durch Ausbeutung und Verfolgung</strong>, Jerusalem aber <em>ist reich</em> <strong>als Gottes Geschenk</strong></li>
+- Babel ist das Wirtschaftssystem, das mit der Macht des Herrschers verteilt wird, und Unmoral wird mit Götzendienst (Untreue) betrieben, aber das Volk Gottes ist ihm treu.
+- Babel verursacht Leid, während Jerusalem das Leid beseitigt
+- Babel zerstört sich selbst und Jerusalem bleibt für immer
+- Babel wird reich durch Ausbeutung und Verfolgung, Jerusalem aber ist reich als Gottes Geschenk
 
-Die zwölf Tore beziehen sich auf die 12 Stämme und die 12 Grundsteine auf die 12 Apostel. Die [2 mal 12 spiegeln die ewige Anbetung im Himmel wider](https://www.bibleserver.com/SLT/Offenbarung4%2C4), sind aber auch eine Mahnung, nach Versöhnung zwischen Juden und Nicht-Juden zu suchen, [deren Konflikt im ganzen Buch beschrieben wird](../../../background/israel/expl/israel-and-the-church/index.html).
+
+Die zwölf Tore beziehen sich auf die 12 Stämme und die 12 Grundsteine auf die 12 Apostel. Die [2 mal 12 spiegeln die ewige Anbetung im Himmel wider](https://www.bibleserver.com/SLT/Offenbarung4%2C4), sind aber auch eine Mahnung, nach Versöhnung zwischen Juden und Nicht-Juden zu suchen, [deren Konflikt im ganzen Buch beschrieben wird](../../../background/israel/expl/israel-and-the-church).
 
 Das Seltsame ist, dass die Apostel das Fundament der Stämme sind (Kirchenfundament für Israel), aber [das macht Sinn, wenn man bedenkt, dass Jesus die Erfüllung Israels ist, die von der Kirche vollbracht wird](https://www.bibleserver.com/SLT/Epheser2%2C20). [Juda wird in dem Buch auch als der erste der Stämme aufgeführt, was Jesus widerspiegelt.](https://www.bibleserver.com/SLT/Offenbarung7%2C4-8)
 
@@ -279,4 +283,4 @@ Der [Name auf der Stirn](https://www.bibleserver.com/SLT/Offenbarung22%2C4) war 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/the-new-jerusalem.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/the-new-jerusalem.de.md)

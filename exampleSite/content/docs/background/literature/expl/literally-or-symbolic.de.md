@@ -23,7 +23,8 @@ Schauen wir uns zunächst an, was für ein Buch wir vor uns haben: Es ist apokal
 
 Das müssen wir beim Lesen berücksichtigen:
 
-<li id="fb27">historischer Kontext für die ersten Leser (in Form eines Briefes) — wir erwarten einige klare historische Bezüge, die <strong>für die ersten Leser</strong> Sinn machen, z.B. einige Plagen oder Bilder aus ihrer Zeit.</li>- den geistlichen Kontext (z.B. in Form einer Apokalypse): Das Buch will den Leser provozieren, damit er eine Entscheidung trifft. Deshalb werden starke emotionale Bilder und eine symbolische Sprache verwendet, um die geistige Realität zu beschreiben, die nicht direkt sichtbar ist.
+- historischer Kontext für die ersten Leser (in Form eines Briefes) — wir erwarten einige klare historische Bezüge, die für die ersten Leser Sinn machen, z.B. einige Plagen oder Bilder aus ihrer Zeit.
+- den geistlichen Kontext (z.B. in Form einer Apokalypse): Das Buch will den Leser provozieren, damit er eine Entscheidung trifft. Deshalb werden starke emotionale Bilder und eine symbolische Sprache verwendet, um die geistige Realität zu beschreiben, die nicht direkt sichtbar ist.
 - die langfristige Perspektive (als Prophetie): Das Buch soll die Menschen motivieren und ermutigen, gegen das Böse aufzustehen, das sich in 2000 Jahren sehr verändert hat. Die Ereignisse können nicht wörtlich alle Ereignisse dieser Zeit beschreiben, sondern eher prototypische Ereignisse, die durch Symbole beschrieben werden.
 
 
@@ -122,4 +123,4 @@ Beale, Revelation, pages 50–69
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literally-or-symbolic.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literally-or-symbolic.de.md)

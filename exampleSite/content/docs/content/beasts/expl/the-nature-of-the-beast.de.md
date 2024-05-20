@@ -9,9 +9,9 @@ Satan und seine Helfer nehmen nicht nur in der Offenbarung, sondern auch in dies
 ## Gut vorher zu lesen
 
 <a name="10b3"></a>
-- [Die apokalyptischen Reiter](../../../content/seals/expl/the-mystery-of-the-four-horse-men/index.html)
-- [Der Charakter der Tiere](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)
-- [Der Charakter der Hure](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot/index.html)
+- [Die apokalyptischen Reiter](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [Der Charakter der Tiere](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [Der Charakter der Hure](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
 
 
@@ -35,7 +35,7 @@ Das zweite Mal erscheint es wieder im [Kontrast zum Sieg Jesu](https://www.bible
 - [Er versucht das Kind zu töten — und versagt](https://www.bibleserver.com/SLT/Offenbarung12%2C1-6).
 - [Er kämpft gegen Michael — und wird aus dem Himmel geworfen](https://www.bibleserver.com/SLT/Offenbarung12%2C7-12).
 - [Er versucht die Frau zu vernichten — und hat scheitert](https://www.bibleserver.com/SLT/Offenbarung12%2C13-17).
-- Er versucht, die [Nachkommen Jesu, die Gemeinde, zu zerstören — und versagt auch hier](https://www.bibleserver.com/SLT/Offenbarung13), was [man an der Zahl 666 sehen kann](../../../content/beasts/expl/666-the-number-of-the-beast/index.html).
+- Er versucht, die [Nachkommen Jesu, die Gemeinde, zu zerstören — und versagt auch hier](https://www.bibleserver.com/SLT/Offenbarung13), was [man an der Zahl 666 sehen kann](../../../content/beasts/expl/666-the-number-of-the-beast).
 
 
 Satan taucht bei der [sechsten Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C13) wieder auf und wird in den Kapiteln [19](https://www.bibleserver.com/SLT/Offenbarung19%2C20) und [20](https://www.bibleserver.com/SLT/Offenbarung20%2C10) gerichtet. Dies rahmt die Geschichte der Hure ein, in der auch das Tier und die Hure selbst erscheinen.
@@ -48,11 +48,11 @@ Diese drei Sichten werden miteinander verbunden, um die Taten Satans zu beschrei
 <a name="ae7b"></a>
 Um das Wirken Satans besser zu verstehen, müssen wir uns die [zweite Geschichte mit dem Drachen und den beiden Tieren ](https://www.bibleserver.com/SLT/Offenbarung13)genauer ansehen.
 
-Satan [baut eine Dreieinigkeit](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html) auf, um die Gemeinde (und die Welt) zu täuschen, aber [ohne Erfolg](../../../content/beasts/expl/666-the-number-of-the-beast/index.html).
+Satan [baut eine Dreieinigkeit](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) auf, um die Gemeinde (und die Welt) zu täuschen, aber [ohne Erfolg](../../../content/beasts/expl/666-the-number-of-the-beast).
 
-Der [Drache und die Tiere arbeiten zusammen,](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html) um ihr Ziel zu erreichen, gehen aber unterschiedlich vor. Das erste Tier wendet Gewalt an, während das zweite Zeichen, Wunder, Einschüchterung und wirtschaftlichen Druck einsetzt, [siehe auch der historische Kontex](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context/index.html)t.
+Der [Drache und die Tiere arbeiten zusammen,](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) um ihr Ziel zu erreichen, gehen aber unterschiedlich vor. Das erste Tier wendet Gewalt an, während das zweite Zeichen, Wunder, Einschüchterung und wirtschaftlichen Druck einsetzt, [siehe auch der historische Kontex](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)t.
 
-Wenn wir uns das Thema bei den [apokalyptischen Reitern](../../../content/seals/expl/the-mystery-of-the-four-horse-men/index.html) betrachten, sehen wir das gleiche Muster:
+Wenn wir uns das Thema bei den [apokalyptischen Reitern](../../../content/seals/expl/the-mystery-of-the-four-horse-men) betrachten, sehen wir das gleiche Muster:
 
 - Zuerst kommt der Täuschende,
 - dann der Gewalttätige(bringt Krieg),
@@ -99,21 +99,21 @@ Genaus gibt es aber auch sehr große Parallelen zwischen dem zweiten Tier und de
 <p>Die Macht der Hure wird hier auch ins umgekehrt: Während sie in Kapitel 13 Feuer vom Himmel fallen lassen hat, wird sie nun durch Feuer vernichtet, während sie ein Zeichen an die Stirn macht, wird sie hier selbst an der Stirn gebrandmarkt (wie ein Sklave)</p>
 Aber wo ist der dritte Teil? Er bleibt im Hintergrund wie in Kapitel 13 und macht auch bei den Reitern nichts. Aber man sieht ihn bei der [sechsten Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C13) und in Kapitel [20](https://www.bibleserver.com/SLT/Offenbarung20%2C10).
 
-[Das war auch im historischen Kontext zu sehen](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context/index.html): Zwei der Tiere sind deutlich sichtbar, aber Satan ist nicht direkt zu sehen.
+[Das war auch im historischen Kontext zu sehen](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context): Zwei der Tiere sind deutlich sichtbar, aber Satan ist nicht direkt zu sehen.
 
 
 ## Die Entwicklung des Bildes
 
 <a name="02d8"></a>
-Wenn wir uns die Entwicklung des Bildes Satans ansieht, sehen wir ihn zunächst im ersten Reiter. Diese Szene folgt unmittelbar auf die Erklärung Jesu, dass er würdig sei, das Buch zu öffnen und [der Welt das Heil zu bringen](../../../content/seals/expl/the-book-with-the-seven-seals/index.html). Satan ist nun bloßgestellt, denn Jesus hat den Platz eingenommen, den er haben wollte.
+Wenn wir uns die Entwicklung des Bildes Satans ansieht, sehen wir ihn zunächst im ersten Reiter. Diese Szene folgt unmittelbar auf die Erklärung Jesu, dass er würdig sei, das Buch zu öffnen und [der Welt das Heil zu bringen](../../../content/seals/expl/the-book-with-the-seven-seals). Satan ist nun bloßgestellt, denn Jesus hat den Platz eingenommen, den er haben wollte.
 
 Er erscheint siegreich, aber es wird immer deutlicher, dass er nur Zerstörung hinterlässt. Er bringt das Gegenteil von dem, was Jesus bringt. Aber was ist das?
 
-Diese Frage steht im Mittelpunkt der Geschichte vom Drachen und den beiden Tieren. Satan bietet [einige verlockende Dinge an](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html). Aber das Scheitern ist besonders deutlich in der Alternative: [den beiden Zeugen, die einen Lebensstil der Anbetung führen und ihr Zeugnis in Treue bis in den Tod geben](../../../content/witnesses/expl/the-two-witnesses/index.html).
+Diese Frage steht im Mittelpunkt der Geschichte vom Drachen und den beiden Tieren. Satan bietet [einige verlockende Dinge an](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Aber das Scheitern ist besonders deutlich in der Alternative: [den beiden Zeugen, die einen Lebensstil der Anbetung führen und ihr Zeugnis in Treue bis in den Tod geben](../../../content/witnesses/expl/the-two-witnesses).
 
 All dies wird noch deutlicher, wenn Babel als das Gegenteil des Neuen Jerusalem beschrieben wird.
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast.de.md)

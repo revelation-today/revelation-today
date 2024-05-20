@@ -126,11 +126,11 @@ After this the bride meets the groom and join him for all eternity.
 
 And, have you understood the story. Than go ahead and live accordingly in your daily life.
 
-[Do you want to know more? Then follow me](../../../gen/index/appl/the-book-of-revelation/index.html).
+[Do you want to know more? Then follow me](../../../gen/index/appl/the-book-of-revelation).
 
 
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/index/intro/the-book-of-revelation.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/index/intro/the-book-of-revelation.md)

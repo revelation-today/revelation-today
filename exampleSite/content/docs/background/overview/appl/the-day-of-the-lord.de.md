@@ -85,9 +85,9 @@ Wenn Jesus wiederkommt, werden alle Völker gerettet sein und alle werden eine B
 ## Zum Vertiefen
 
 <a name="6992"></a>
-[Israel](../../../background/israel/expl/who-is-israel/index.html)
+[Israel](../../../background/israel/expl/who-is-israel)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/overview/appl/the-day-of-the-lord.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/overview/appl/the-day-of-the-lord.de.md)

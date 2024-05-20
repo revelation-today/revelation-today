@@ -31,7 +31,9 @@ There are actually four parts to the story:
 Well the third part is a bit longer, so lets have a look at this structure
 
 - Ch.4: The throne of God and the worship — The base of all actions
-<li id="a47d">Ch.5–7: The seals: What did Jesus death on the cross cause?</li><li id="454a">Ch.8–14: The trumpets and its aftermath: What do our prayers cause?</li>- Ch.15–20: The bowls of wrath: Gods final actions
+- Ch.5–7: The seals: What did Jesus death on the cross cause?
+- Ch.8–14: The trumpets and its aftermath: What do our prayers cause?
+- Ch.15–20: The bowls of wrath: Gods final actions
 
 
 The question is: How is God going to fulfill his plan of salvation, and what is the role of the church in that?
@@ -105,7 +107,15 @@ When you think of the “end times,” when Jesus returns, you think of catastro
 
 Even though the book has apocalyptic elements, it challenges that idea.
 
-<li id="035a">Jesus appears as the one who was [pierced](https://www.bibleserver.com/NIV/Revelation1%3A7)<strong> </strong>just before being introduced [as the Son of Man who will judge the world](https://www.bibleserver.com/NIV/Revelation1%3A12-16).</li><li id="e44e">The throne room of God mentions elements of <strong>grace </strong>like the [rainbow](https://www.bibleserver.com/NIV/Revelation4%3A3).</li><li id="6624">The Lion of Judah is actually the [Lamb](https://www.bibleserver.com/NIV/Revelation5%3A5-6)<strong> </strong>of God</li><li id="dd3c">The [army of the 144.000](https://www.bibleserver.com/NIV/Revelation7%3A4-8) is explained as people wh<strong>o </strong>[worship](https://www.bibleserver.com/NIV/Revelation7%3A9-10) God and later as those who follow the lamb and the [faithful](https://www.bibleserver.com/NIV/Revelation14%3A1-5)<strong> </strong>who come out of the Great Tribulation.</li><li id="724e">The <strong>victory </strong>of the two witnesses is their [death](https://www.bibleserver.com/NIV/Revelation11%3A7-13)<strong>.</strong></li><li id="c4ff">The mysterious place of [Armageddon](https://www.bibleserver.com/NIV/Revelation16%3A14) describes the [defeat of the strong and the victory of the absolute weak](../../../content/bowls/expl/the-key-to-armageddon/index.html)<strong>.</strong></li><li id="a6d1">The harlot is [destroyed by the beast](https://www.bibleserver.com/NIV/Revelation17%3A16)<strong> </strong>on which she [sat](https://www.bibleserver.com/NIV/Revelation17%3A3).</li><li id="49b8">Jesus comes and [kills the armies with the sword of his mouth](https://www.bibleserver.com/NIV/Revelation19%3A21)<strong>.</strong></li>
+- Jesus appears as the one who was [pierced](https://www.bibleserver.com/NIV/Revelation1%3A7) just before being introduced [as the Son of Man who will judge the world](https://www.bibleserver.com/NIV/Revelation1%3A12-16).
+- The throne room of God mentions elements of grace like the [rainbow](https://www.bibleserver.com/NIV/Revelation4%3A3).
+- The Lion of Judah is actually the [Lamb](https://www.bibleserver.com/NIV/Revelation5%3A5-6) of God
+- The [army of the 144.000](https://www.bibleserver.com/NIV/Revelation7%3A4-8) is explained as people who [worship](https://www.bibleserver.com/NIV/Revelation7%3A9-10) God and later as those who follow the lamb and the [faithful](https://www.bibleserver.com/NIV/Revelation14%3A1-5) who come out of the Great Tribulation.
+- The victory of the two witnesses is their [death](https://www.bibleserver.com/NIV/Revelation11%3A7-13).
+- The mysterious place of [Armageddon](https://www.bibleserver.com/NIV/Revelation16%3A14) describes the [defeat of the strong and the victory of the absolute weak](../../../content/bowls/expl/the-key-to-armageddon).
+- The harlot is [destroyed by the beast](https://www.bibleserver.com/NIV/Revelation17%3A16) on which she [sat](https://www.bibleserver.com/NIV/Revelation17%3A3).
+- Jesus comes and [kills the armies with the sword of his mouth](https://www.bibleserver.com/NIV/Revelation19%3A21).
+
 
 This means that the “apocalyptic events” are probably very different than we think. The wording of other passages also casts doubt on war and disaster being the main theme of the book.
 
@@ -154,4 +164,4 @@ But is this book not about listing disasters and God’s wrath coming down on ea
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/overview/appl/the-main-topics.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/overview/appl/the-main-topics.md)

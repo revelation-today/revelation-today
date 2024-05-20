@@ -66,7 +66,7 @@ Als letztes wird Gott [mit vielen einen Bund schließen](https://www.bibleserver
 
 In der Mitte der “Sieben” wird er dem Opferdienstes ein Ende setzen, weil [dieser nicht mehr nötig ist](https://www.bibleserver.com/SLT/Hebr%C3%A4er10%2C1-18).
 
-Er wird Gräuel der Verwüstung aufrichten ([im Original heißt es “er wird aufrichten](https://biblehub.com/interlinear/daniel/9-27.htm)), wir haben also immer noch Tiberius. Es handelt sich um “[Flügel der Verwüstung](https://biblehub.com/interlinear/daniel/9-27.htm)”, die sich auf den Reichsadler der Römer beziehen. “Bis die Vernichtung ausgeschüttet ist” kann man besser übersetzen mit “bis das beschlossene Ende auf den Zerstörer gestzt ist” und meint, also bis das Römische Reich fällt, was uns wieder [zu Daniel 7 zurückbringt](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html).
+Er wird Gräuel der Verwüstung aufrichten ([im Original heißt es “er wird aufrichten](https://biblehub.com/interlinear/daniel/9-27.htm)), wir haben also immer noch Tiberius. Es handelt sich um “[Flügel der Verwüstung](https://biblehub.com/interlinear/daniel/9-27.htm)”, die sich auf den Reichsadler der Römer beziehen. “Bis die Vernichtung ausgeschüttet ist” kann man besser übersetzen mit “bis das beschlossene Ende auf den Zerstörer gestzt ist” und meint, also bis das Römische Reich fällt, was uns wieder [zu Daniel 7 zurückbringt](../../../bible/daniel/expl/the-four-kingdoms-in-daniel).
 
 
 ## Die letzte Woche
@@ -103,4 +103,4 @@ Ich denke, dass die letzten 3,5 Jahre aus folgenden Gründen symbolisch sind:
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-70-year-weeks.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-70-year-weeks.de.md)

@@ -7,7 +7,11 @@ Bin yıllık krallıkla ilgili pek çok tartışma vardır ve bu da pek çok teo
 
 Öncelikle metne ve metinde ne olduğunu düşündüğümüze dair birkaç soruyla başlayalım:
 
-<li id="6705">[Kim kime ve nereye hükmedecek?](https://www.bibleserver.com/TR/Vahiy20%3A4)</li><li id="dbe4">Neden doğrudan yeni bir cennet ve yeni bir dünya değil? Çünkü yeni cennet ve yeni dünyada hepimiz bulutların üzerinde oturuyor ve arp çalıyoruz?</li><li id="9ccc">Kutsal Kitap’ta 1000 yıllık krallık kavramını bu [tek bir ayet](https://www.bibleserver.com/TR/Vahiy20%3A4) dışında başka nerede görüyoruz?</li><li id="568d">Varsaydığımız 1000 yıl içinde ne tür bir [yönetim](https://www.bibleserver.com/TR/Vahiy20%3A4) olacak?</li>
+- [Kim kime ve nereye hükmedecek?](https://www.bibleserver.com/TR/Vahiy20%3A4)
+- Neden doğrudan yeni bir cennet ve yeni bir dünya değil? Çünkü yeni cennet ve yeni dünyada hepimiz bulutların üzerinde oturuyor ve arp çalıyoruz?
+- Kutsal Kitap’ta 1000 yıllık krallık kavramını bu [tek bir ayet](https://www.bibleserver.com/TR/Vahiy20%3A4) dışında başka nerede görüyoruz?
+- Varsaydığımız 1000 yıl içinde ne tür bir [yönetim](https://www.bibleserver.com/TR/Vahiy20%3A4) olacak?
+
 <figure>
 </figure>
 1000 yıllık krallık, öğeleri doğrusal değil simetrik olarak sıralayan ve chiasm olarak adlandırılan daha büyük bir bağlamın parçasıdır. Yani eski bir konu farklı bir perspektiften tekrarlanabilir.
@@ -54,14 +58,15 @@ Yoksa bunlar iki farklı savaş olabilir mi? Cevaplanması gereken birkaç endi�
 
 - 19. bölüm ([kılıçla](https://www.bibleserver.com/TR/Vahiy19%3A15) yıkım) ve 20. bölüm ([ateşle](https://www.bibleserver.com/TR/Vahiy20%3A9) yıkım) Tanrı farklı silahlar kullandığı için farklı savaşlara işaret ediyor gibi görünmektedir, ancak Hezekiel’deki her iki görümde de aynı silahlar kullanılmıştır: 38. bölümde [kılıç](https://www.bibleserver.com/TR/Hezekiel38%3A21) ve [ateş](https://www.bibleserver.com/TR/Hezekiel38%3A22), 39. bölümde [kılıç](https://www.bibleserver.com/TR/Hezekiel39%3A17-21) ve [ateş](https://www.bibleserver.com/TR/Hezekiel39%3A6)
 - 19. ve 20. bölümler farklı gerçekleşme derecelerine sahip olabilir, ancak her iki bölümde de [Hezekiel](https://www.bibleserver.com/TR/Hezekiel38), [Zekeriya](https://www.bibleserver.com/TR/Zekeriya12) ve [Zefanya](https://www.bibleserver.com/TR/Sefanya3)’daki bitiş zamanı savaşlarına benzer bir açıklama vardır — hepsi nihaidir
-<li id="f4e8">19. bölümde [insan orduları](https://www.bibleserver.com/TR/Vahiy19%3A19) tanımlanırken, 20. bölümde bunlar [şeytani ordulardır](https://www.bibleserver.com/TR/Vahiy20%3A8), ama 20. bölümdeki orduların şeytani olduğu nerede yazıyor? Her iki bölümde de insan ordularını yöneten Şeytan var, bu iki ayeti tekrar dikkatle okuyun ve [altıncı mührü kontrol edin](https://www.bibleserver.com/TR/Vahiy16%3A14)</li>- [Daniel 7. bölümdeki](https://www.bibleserver.com/TR/Daniel7) olayların sırasından, kutsalların egemenliğinden sonra şeytan yenildiği için birkaç savaş olduğu sonucuna varabilir misiniz, ancak Daniel çok tekrarlayıcıdır (kutsalların egemenliği [8](https://www.bibleserver.com/TR/Daniel7%3A8), [13–14](https://www.bibleserver.com/TR/Daniel7%3A13-14), [19–22](https://www.bibleserver.com/TR/Daniel7%3A19-22), [23–25](https://www.bibleserver.com/TR/Daniel7%3A23-25) ve [27](https://www.bibleserver.com/TR/Daniel7%3A27). ayetlerde yer alırken, canavar üzerindeki yargı [9–11](https://www.bibleserver.com/TR/Daniel7%3A9-11) ve [26](https://www.bibleserver.com/TR/Daniel7%3A26). ayetlerde yer alır). [Ayrıca kitabın açılışı her şeyden önce gerçekleşir](https://www.bibleserver.com/TR/Daniel7%3A10).
+- 19. bölümde [insan orduları](https://www.bibleserver.com/TR/Vahiy19%3A19) tanımlanırken, 20. bölümde bunlar [şeytani ordulardır](https://www.bibleserver.com/TR/Vahiy20%3A8), ama 20. bölümdeki orduların şeytani olduğu nerede yazıyor? Her iki bölümde de insan ordularını yöneten Şeytan var, bu iki ayeti tekrar dikkatle okuyun ve [altıncı mührü kontrol edin](https://www.bibleserver.com/TR/Vahiy16%3A14)
+- [Daniel 7. bölümdeki](https://www.bibleserver.com/TR/Daniel7) olayların sırasından, kutsalların egemenliğinden sonra şeytan yenildiği için birkaç savaş olduğu sonucuna varabilir misiniz, ancak Daniel çok tekrarlayıcıdır (kutsalların egemenliği [8](https://www.bibleserver.com/TR/Daniel7%3A8), [13–14](https://www.bibleserver.com/TR/Daniel7%3A13-14), [19–22](https://www.bibleserver.com/TR/Daniel7%3A19-22), [23–25](https://www.bibleserver.com/TR/Daniel7%3A23-25) ve [27](https://www.bibleserver.com/TR/Daniel7%3A27). ayetlerde yer alırken, canavar üzerindeki yargı [9–11](https://www.bibleserver.com/TR/Daniel7%3A9-11) ve [26](https://www.bibleserver.com/TR/Daniel7%3A26). ayetlerde yer alır). [Ayrıca kitabın açılışı her şeyden önce gerçekleşir](https://www.bibleserver.com/TR/Daniel7%3A10).
 
 
 
 ## Bir savaş için daha fazla argüman
 
 <a name="a205"></a>
-- Altıncı mührün eylemleri sırasında ordular ([bir dağa atıfta bulunan Armagedon’da](../../../content/bowls/expl/the-key-to-armageddon/index.html)) toplanır, dolayısıyla savaş göze çarpar. Yedinci kasede yenilgi ilan edilir (fahişe Babil’in yenilgisinin ve karşı eylem olarak gelinin düğününün ayrıntılı bir tanımını takip eder) ve savaş [19. bölümde](https://www.bibleserver.com/TR/Vahiy19%3A17-21) ayrıntılı olarak anlatılır.
+- Altıncı mührün eylemleri sırasında ordular ([bir dağa atıfta bulunan Armagedon’da](../../../content/bowls/expl/the-key-to-armageddon)) toplanır, dolayısıyla savaş göze çarpar. Yedinci kasede yenilgi ilan edilir (fahişe Babil’in yenilgisinin ve karşı eylem olarak gelinin düğününün ayrıntılı bir tanımını takip eder) ve savaş [19. bölümde](https://www.bibleserver.com/TR/Vahiy19%3A17-21) ayrıntılı olarak anlatılır.
 - [Kaselerin başında, bunların son belalar olduğu](https://www.bibleserver.com/TR/Vahiy15%3A1) ve [19. bölümde yapılan ](https://www.bibleserver.com/TR/Vahiy19%3A17-21)[şeytanların krallığının yıkımı olacağı belirtilir](https://www.bibleserver.com/TR/Vahiy16%3A18-20), bundan sonraki herhangi bir savaşın 19. bölümün bir özeti olması gerekir
 
 
@@ -105,7 +110,11 @@ Bu peygamberlikler henüz gerçekleşmedi ve bu dünyada gerçekleşmeyecek, bu 
 
 Bu açıkça Vahiy 21. bölümde anlatılan yeni gök ve yeni yeryüzüne atıfta bulunmaktadır. Bu da birkaç soruyu gündeme getirmektedir:
 
-<li id="ffa0">Yeni cennet, yeni dünya ya da yeni Yeruşalim hakkında nasıl bir resme sahipsiniz?</li><li id="fade">Yeni Yeruşalim’de hangi peygamberlik sözleri yerine gelemez ve neden?</li><li id="9eba">Kutsal Kitap’ın neresinde “yeni cennet ve yeni dünya öncesi” duyurulmuştur? Bunun ruhsal nedeni nedir?</li><li id="1428">Sizce 1000 yıllık krallık yeni cennet ve yeni dünyadan daha mı iyi olacak? Eğer evet ise, hangi açıdan? Hayırsa, insanlar neden 1000 yıl beklemeli ve gerçek anlaşmayı hemen almamalı?</li>
+- Yeni cennet, yeni dünya ya da yeni Yeruşalim hakkında nasıl bir resme sahipsiniz?
+- Yeni Yeruşalim’de hangi peygamberlik sözleri yerine gelemez ve neden?
+- Kutsal Kitap’ın neresinde “yeni cennet ve yeni dünya öncesi” duyurulmuştur? Bunun ruhsal nedeni nedir?
+- Sizce 1000 yıllık krallık yeni cennet ve yeni dünyadan daha mı iyi olacak? Eğer evet ise, hangi açıdan? Hayırsa, insanlar neden 1000 yıl beklemeli ve gerçek anlaşmayı hemen almamalı?
+
 
 
 ## Hikayenin konusu nedir?
@@ -182,4 +191,4 @@ Doğduğumuzda eski yaratılıştaki “ilk yaşamımıza” sahip oluruz. [Yeni
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/expl/the-thousand-year-kingdom.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/expl/the-thousand-year-kingdom.tr.md)

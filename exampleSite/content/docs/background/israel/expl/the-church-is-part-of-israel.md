@@ -168,4 +168,4 @@ Beale, A New Testament biblical theology, pages 669–679
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-church-is-part-of-israel.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-church-is-part-of-israel.md)

@@ -129,4 +129,4 @@ Und, hast du die Geschichte verstanden? Dann geh voran und lebe entsprechend in 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/index/intro/the-book-of-revelation.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/index/intro/the-book-of-revelation.de.md)

@@ -13,7 +13,7 @@ Die Offenbarung beginnt mit einigen Aussagen, die man leicht überliest, die abe
 
 Das Buch beginnt mit “Offenbarung Jesu Christi” (griechisch „Apokalypsis Iesou Christou”), „die Gott ihm gab, um seinen Knechten zu zeigen, was bald geschehen muss”.
 
-Dieses Buch wird als Apokalypse bezeichnet, was sicherlich einige Assoziationen weckt, aber wahrscheinlich die falschen. Auch die direkte Übersetzung “Offenbarung” lässt Fragen offen. [Eine Apokalypse ist eine ganz besondere Art von Literatur](../../../background/literature/expl/the-book-of-revelation-how-to-read-it/index.html) — sie will provozieren und erwartet eine Reaktion.
+Dieses Buch wird als Apokalypse bezeichnet, was sicherlich einige Assoziationen weckt, aber wahrscheinlich die falschen. Auch die direkte Übersetzung “Offenbarung” lässt Fragen offen. [Eine Apokalypse ist eine ganz besondere Art von Literatur](../../../background/literature/expl/the-book-of-revelation-how-to-read-it) — sie will provozieren und erwartet eine Reaktion.
 
 Aber wir dürfen nicht vergessen, dass es in diesem Buch um Jesus geht, er steht im Mittelpunkt. „Jesu Christi” kann auf zweierlei Weise übersetzt werden:
 
@@ -23,14 +23,16 @@ Aber wir dürfen nicht vergessen, dass es in diesem Buch um Jesus geht, er steht
 
 Im Griechischen ist beides möglich und wohl auch gemeint: Die Offenbarung kommt von Jesus, aber sie soll ihn auch offenbaren.Die Knechte sind die Gläubigen, an die Johannes schreibt und an die das Buch gerichtet ist.
 
-Auch die Formulierung “was bald geschehen muss” ist bewusst gewählt und bezieht sich auf eine [Prophezeichung aus Daniel](../../../bible/daniel/expl/the-four-kingdoms-in-daniel/index.html), die das Ende der Weltreiche und das Kommen des Reiches Gottes beschreibt. Im Gegensatz zur Zeit Daniels liegt dies nicht mehr in der Zukunft, sondern ist schon da.
+Auch die Formulierung “was bald geschehen muss” ist bewusst gewählt und bezieht sich auf eine [Prophezeichung aus Daniel](../../../bible/daniel/expl/the-four-kingdoms-in-daniel), die das Ende der Weltreiche und das Kommen des Reiches Gottes beschreibt. Im Gegensatz zur Zeit Daniels liegt dies nicht mehr in der Zukunft, sondern ist schon da.
 
-Der [nächste Vers](https://www.bibleserver.com/SLT/Offenbarung1%2C2) versträrkt dies, indem er vom Zeugnis Jesu spricht. Wie wir sehen werden, ist [dies eines der zentralen Themen des ganzen Buches](../../../topics/power/short/the-power-of-testimony/index.html). Jesus redet nicht nur darüber, er lebt sein Zeugnis, und so sollten wir es auch tun.
+Der [nächste Vers](https://www.bibleserver.com/SLT/Offenbarung1%2C2) versträrkt dies, indem er vom Zeugnis Jesu spricht. Wie wir sehen werden, ist [dies eines der zentralen Themen des ganzen Buches](../../../topics/power/short/the-power-of-testimony). Jesus redet nicht nur darüber, er lebt sein Zeugnis, und so sollten wir es auch tun.
 
 Dies wird im nächsten Vers noch deutlicher: “Glückselig ist, der die Worte der Weissagung liest, und die sie hören und bewahren, was darin geschrieben steht! Denn die Zeit ist nahe.”
 
 - Wir sollen dieses Buch studieren (damals wurde es vorgelesen, denn nicht jeder hatte ein Exemplar), aber vor allem sollen wir es anwenden.
-<li id="bfee">Die Zeit ist nah. Es gibt <strong>nicht viel Zeit, wir müssen jetzt handeln</strong>. Daran hat sich in dem letzten 2000 Jahren nichts geändert.</li><li id="6668">Es ist eine Prophetie: Eine <strong>eindringliche</strong> Erinnerung an die Gemeinde zu handeln.</li>
+- Die Zeit ist nah. Es gibt nicht viel Zeit, wir müssen jetzt handeln. Daran hat sich in dem letzten 2000 Jahren nichts geändert.
+- Es ist eine Prophetie: Eine eindringliche Erinnerung an die Gemeinde zu handeln.
+
 
 Die Zeit ist nahe, bedeutet nicht, dass es jederzeit geschehen kann, sondern dass es unmittelbar bevorsteht. Diese [Wortwahl](https://biblehub.com/interlinear/mark/1-15.htm) wird auch bei [Markus](https://www.bibleserver.com/SLT/Markus1%2C15) verwendet, wo es heißt, dass das Reich Gottes bereits gekommen ist.
 
@@ -42,8 +44,10 @@ Jetzt kommt der Abschnitt, der in jedem Brief des Neuen Testaments vorkommt, in 
 
 “[Johannes an die sieben Gemeinden, die in Asia sind: Gnade sei mit euch und Friede von dem, der ist und der war und der kommt, und von den sieben Geistern, die vor seinem Thron sind](https://www.bibleserver.com/SLT/Offenbarung1%2C4)”
 
-<li id="7629"><strong>Gnade und Friede </strong>werden ihnen gegeben, was sie auch brauchen, um alle Herausforderungen zu meistern.</li>- Jesus ist der Ewige, der „ist und war und kommen wird“ (Verse 4 und 8). Er regiertüber alle Zeiten und ist allmächtig. Dies wird auch durch Alpha und Omega (erster und letzter Buchstabe des griechischen Alphabets) ausgedrückt. Er verändert sich nicht.
-<li id="1229">Die “<strong>sieben Geister vor dem Thron</strong>” klingen etwas merkwürdig. [Im Propheten Sacharja werden sie mit dem Heiligen Geist identifiziert](https://www.bibleserver.com/SLT/Sacharja4%2C6). Es ist naheliegend, dass [sie auf den sieben Leuchtern brennen, die die Gemeinden bezeichnen](https://www.bibleserver.com/SLT/Offenbarung1%2C20). Der Ausdruck “vor dem Thron” stammt aus [Kapitel 4](https://www.bibleserver.com/SLT/Offenbarung4%2C5): Der Heilige Geist kommt von Gottes Thron, um Gottes Plan auszuführen.</li>
+- Gnade und Friede werden ihnen gegeben, was sie auch brauchen, um alle Herausforderungen zu meistern.
+- Jesus ist der Ewige, der „ist und war und kommen wird“ (Verse 4 und 8). Er regiertüber alle Zeiten und ist allmächtig. Dies wird auch durch Alpha und Omega (erster und letzter Buchstabe des griechischen Alphabets) ausgedrückt. Er verändert sich nicht.
+- Die “sieben Geister vor dem Thron” klingen etwas merkwürdig. [Im Propheten Sacharja werden sie mit dem Heiligen Geist identifiziert](https://www.bibleserver.com/SLT/Sacharja4%2C6). Es ist naheliegend, dass [sie auf den sieben Leuchtern brennen, die die Gemeinden bezeichnen](https://www.bibleserver.com/SLT/Offenbarung1%2C20). Der Ausdruck “vor dem Thron” stammt aus [Kapitel 4](https://www.bibleserver.com/SLT/Offenbarung4%2C5): Der Heilige Geist kommt von Gottes Thron, um Gottes Plan auszuführen.
+
 
 “[und von Jesus Christus, dem treuen Zeugen, dem Erstgeborenen aus den Toten und dem Fürsten über die Könige der Erde. Ihm, der uns geliebt hat und uns von unseren Sünden gewaschen hat durch sein Blut](https://www.bibleserver.com/SLT/Offenbarung1%2C5)”
 
@@ -97,9 +101,9 @@ Die Zeit ist nahe und die Gemeinde hat die Aufgabe, aktiv zu werden. So wie Jesu
 ## Zur Vertiefung
 
 <a name="e362"></a>
-[Beale, Relevation, Seiten 181–222](../../../gen/background/ressources/how-to-study-the-book-of-revelation/index.html#06a2)
+[Beale, Relevation, Seiten 181–222](../../../gen/background/ressources/how-to-study-the-book-of-revelation#06a2)
 
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/setting-the-foundation.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/setting-the-foundation.de.md)

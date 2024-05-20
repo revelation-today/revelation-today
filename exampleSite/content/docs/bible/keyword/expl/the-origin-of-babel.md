@@ -47,4 +47,4 @@ In the book of Revelation, the Babel was also strongly linked to the Babel of Da
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-origin-of-babel.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-origin-of-babel.md)

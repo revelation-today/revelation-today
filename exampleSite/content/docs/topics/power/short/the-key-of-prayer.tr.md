@@ -54,4 +54,4 @@ Ama buradaki dualar Tanrı’nın isteğine uygun olduğu için
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/the-key-of-prayer.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/the-key-of-prayer.tr.md)

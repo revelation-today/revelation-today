@@ -28,4 +28,4 @@ Es ist wahrscheinlich, dass Joseph während der Hyksoszeit lebte, da
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-story-before-the-exodus.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-story-before-the-exodus.de.md)

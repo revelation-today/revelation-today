@@ -9,9 +9,9 @@ title: "Canavarın doğası"
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="f2fd"></a>
-- [Dört atlı](../../../content/seals/expl/the-mystery-of-the-four-horse-men/index.html)
-- [Canavarların karakteri](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)
-- [Fahişenin karakteri](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot/index.html)
+- [Dört atlı](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [Canavarların karakteri](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [Fahişenin karakteri](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
 
 
@@ -35,7 +35,7 @@ Tanrı üç olduğu için şeytan her zaman üçleme şeklinde ortaya çıkar.
 - [Çocuğu yok etmeye çalıştı — ve başarısız oldu](https://www.bibleserver.com/TR/Vahiy12%3A1-6)
 - [Mikail’e karşı savaştı — ve cennetten kovuldu](https://www.bibleserver.com/TR/Vahiy12%3A7-12)
 - [Kadını yok etmeye çalışır ama başarılı olamaz.](https://www.bibleserver.com/TR/Vahiy12%3A13-17)
-- [İsa’nın soyundan gelenleri, kiliseyi yok etmeye çalışır](https://www.bibleserver.com/TR/Vahiy13) ve [666 sayısında ](../../../content/beasts/expl/666-the-number-of-the-beast/index.html)da gördüğümüz gibi başarısız olur
+- [İsa’nın soyundan gelenleri, kiliseyi yok etmeye çalışır](https://www.bibleserver.com/TR/Vahiy13) ve [666 sayısında ](../../../content/beasts/expl/666-the-number-of-the-beast)da gördüğümüz gibi başarısız olur
 
 
 Şeytan, [19.](https://www.bibleserver.com/TR/Vahiy19%3A20) ve [20. bölümlerde](https://www.bibleserver.com/TR/Vahiy20%3A10) yargılanan [altıncı kasede yine bir üçlü olarak ](https://www.bibleserver.com/TR/Vahiy16%3A13)gösterilir. Bu bölümler aynı zamanda bir canavar ve fahişenin de bulunduğu fahişe öyküsünü çerçeveler.
@@ -48,11 +48,11 @@ Bu üç görüş şeytanın eylemlerini tanımlamakla bağlantılıdır.
 <a name="1e70"></a>
 Şeytanın nasıl tanımlandığını daha iyi anlamak için,[ ejderha ve iki canavarın ikinci öyküsüne bakmamız gerekir](https://www.bibleserver.com/TR/Vahiy13).
 
-Kiliseyi kandırmak için [şeytani bir üçlü oluşturur](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html#6999) ama [başarılı olamaz](../../../content/beasts/expl/666-the-number-of-the-beast/index.html#9a7b).
+Kiliseyi kandırmak için [şeytani bir üçlü oluşturur](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#6999) ama [başarılı olamaz](../../../content/beasts/expl/666-the-number-of-the-beast#9a7b).
 
-[Ejderha ve canavarlar amaçlarına ulaşmak için birlik içinde tarif edilmişlerdir](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html) ancak farklı davranmışlardır. İlk canavar güç kullanarak, [ikincisi ise işaretler](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context/index.html), mucizeler ve ekonomik baskı kullanarak hareket ediyordu.
+[Ejderha ve canavarlar amaçlarına ulaşmak için birlik içinde tarif edilmişlerdir](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) ancak farklı davranmışlardır. İlk canavar güç kullanarak, [ikincisi ise işaretler](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context), mucizeler ve ekonomik baskı kullanarak hareket ediyordu.
 
-[Şimdi üç atlıya baktığımızda da aynı modeli görürüz:](../../../content/seals/expl/the-mystery-of-the-four-horse-men/index.html)
+[Şimdi üç atlıya baktığımızda da aynı modeli görürüz:](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
 
 - Önce aldatıcı gelir,
 - ardından güç kullanan (savaş getiren) gelir,
@@ -100,17 +100,17 @@ Ancak 13. bölümdeki ikinci canavar ile fahişe arasında da güçlü bir bağ 
 <p>Burada fahişenin gücü de tersine çevrilmiştir: 13. bölümde gökten ateş düşmesine izin verirken, şimdi ateşle yok edilir, alnına işaret koyarken, burada kendisi (bir köle gibi) alnına damgalanır.</p>
 Peki üçüncü bölüm nerede? Bölüm 13'te olduğu gibi arka planda kalıyor ve atlı adam tanımında olduğu gibi hiçbir şey yapmıyor. Ama onu [altıncı kasede](https://www.bibleserver.com/TR/Vahiy16%3A13) ve [20. bölümde](https://www.bibleserver.com/TR/Vahiy20%3A10) göreceksiniz.
 
-[Bu durum tarihsel bağlamda da geçerliydi](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context/index.html): İki canavarla yüzleşirsiniz ama şeytanı doğrudan görmezsiniz.
+[Bu durum tarihsel bağlamda da geçerliydi](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context): İki canavarla yüzleşirsiniz ama şeytanı doğrudan görmezsiniz.
 
 
 ## Resmin gelişimi
 
 <a name="5eae"></a>
-Resmin gelişimine baktığımızda ilk atlı adamların içinde Şeytan’la karşılaşırız. Bu sahne, İsa’nın dünyaya kurtuluş getiren tomarı açmaya layık kişi [olarak ilan edilmesinin hemen ardından gelir](../../../content/seals/expl/the-book-with-the-seven-seals/index.html). Şeytan bunun hemen ardından açığa çıkar. Çünkü ilk atlı adamlarda iddia ettiği şey budur.
+Resmin gelişimine baktığımızda ilk atlı adamların içinde Şeytan’la karşılaşırız. Bu sahne, İsa’nın dünyaya kurtuluş getiren tomarı açmaya layık kişi [olarak ilan edilmesinin hemen ardından gelir](../../../content/seals/expl/the-book-with-the-seven-seals). Şeytan bunun hemen ardından açığa çıkar. Çünkü ilk atlı adamlarda iddia ettiği şey budur.
 
 Galip gelen kendisidir, ama sonunda her yerde yıkım ve ölümle sonuçlanır. İsa’nın getirdiğinin tam tersini getirdiği ortaya çıkmıştır. Ama bu nedir?
 
-Ejderha ve iki canavarın öyküsünde işlenen konu budur. [Şeytan’ın sunduğu bazı cazip şeyler vardır](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html#b8ad). Ancak alternatifini de açıkça gösterir: [Tapınmaya dayalı bir yaşam tarzı sürdüren ve tanıklıklarında ölene kadar sadık kalan iki tanık](../../../content/witnesses/expl/the-two-witnesses/index.html).
+Ejderha ve iki canavarın öyküsünde işlenen konu budur. [Şeytan’ın sunduğu bazı cazip şeyler vardır](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#b8ad). Ancak alternatifini de açıkça gösterir: [Tapınmaya dayalı bir yaşam tarzı sürdüren ve tanıklıklarında ölene kadar sadık kalan iki tanık](../../../content/witnesses/expl/the-two-witnesses).
 
 Bu, Babil’in tüm ayrıntılarıyla Yeni Yeruşalim’in bir karşılığı olarak tanımlandığı son görüşte nihayet ortaya konur.
 
@@ -119,4 +119,4 @@ Bu, Babil’in tüm ayrıntılarıyla Yeni Yeruşalim’in bir karşılığı ol
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast.tr.md)

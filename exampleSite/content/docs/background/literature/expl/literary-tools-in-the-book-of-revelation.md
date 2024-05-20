@@ -205,7 +205,8 @@ This can be done in several ways in the Hebrew language:
 - To emphasize a pattern: to draw attention to a particular pattern, especially a pattern of behavior, e.g., Jonah’s case with the Gentiles. Jonah is reluctant to obey God, but the heathen readily accept and plead for mercy.
 - Compare: Two or more units can be compared to show the similarity between two things that do not seem similar, e.g. Amos 1–2 when Israel was judged the same as the foreign nations.
 - Contrast: may also show the difference between two things that seem the same but are not, e.g. Genesis 38 and 39 shows two sons of Jacob confronted with an illicit sexual invitation by a woman, and in both stories the temptress keeps a mark of the man to later use as evidence against him, but the rest is all different, how Judah fails completely and prospers while Joseph is faithful and punished.
-<li id="a90f">Reversal: can show the reversal of something (1 Kings 3–11: establishment of Solomon’s reign and building of the temple, 2 Kings 18–25: end of Solomon’s reign and destruction of the temple).<br/>Reciprocity: Shows reciprocal action in matching units (Songs 2/8–17: young man’s invitation to young woman to join him, 7/11–8/4: she invites him to join her in the country).</li>- Resolution (or fulfillment): Emphasizes the close connection between the story’s opening tension, suspense, or prediction and its closing resolution or fulfillment (Gen 12/1–9: Abram and Sarah’s childlessness, 21/1–7: Isaac’s birth).
+- Reversal: can show the reversal of something (1 Kings 3–11: establishment of Solomon’s reign and building of the temple, 2 Kings 18–25: end of Solomon’s reign and destruction of the temple).Reciprocity: Shows reciprocal action in matching units (Songs 2/8–17: young man’s invitation to young woman to join him, 7/11–8/4: she invites him to join her in the country).
+- Resolution (or fulfillment): Emphasizes the close connection between the story’s opening tension, suspense, or prediction and its closing resolution or fulfillment (Gen 12/1–9: Abram and Sarah’s childlessness, 21/1–7: Isaac’s birth).
 - Totality: to show the totality of a phenomenon by showing both halves of a merism (day and night, man and woman) (Isa.2/10–22: future humiliation of proud man, 3/16–17: future humiliation of proud woman).
 
 
@@ -226,7 +227,8 @@ The meaning could be
 - Turning Point: The center is the turning point in the story, e.g. Ehud (Jugd. 3/12–30) where the turning point is when he kills the king. Also the whole structure of Judges has Gideon as a turning point.
 - Climax: This is also the case in Ehud’s story, the point of highest tension.
 - Centerpiece: represents the climax, e.g., Songs 3/6–5/1 is the wedding, Chr. Center is Solomon, the builder of the temple (2 Chr. 1–9).
-<li id="1878">Significant Pause (or Interlude): A notable pause in the action or argument of the composition to make a highly significant point.<br/>2 Kings 2/1–8/6 is a pause in the relentless, almost uninterrupted parade of the sins of the kings, broken by the ministry of Elisha.<br/>2 Kings 3/21–32: pauses in relentless tragic eulogy to reflect on the profound love of God.</li>
+- Significant Pause (or Interlude): A notable pause in the action or argument of the composition to make a highly significant point.2 Kings 2/1–8/6 is a pause in the relentless, almost uninterrupted parade of the sins of the kings, broken by the ministry of Elisha.2 Kings 3/21–32: pauses in relentless tragic eulogy to reflect on the profound love of God.
+
 
 
 ## Value of structural analysis
@@ -256,4 +258,4 @@ Jerome T. Walsh, Biblical Hebrew Narrative, pages 7–11
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literary-tools-in-the-book-of-revelation.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literary-tools-in-the-book-of-revelation.md)

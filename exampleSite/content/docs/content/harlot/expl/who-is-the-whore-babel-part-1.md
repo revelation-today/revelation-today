@@ -7,7 +7,7 @@ It is not the Pope. It is not the economy. It could be anyone, even the Church.
 
 The chapter about the harlot Babel is hard to understand because there are so [many players interacting with each other](https://www.bibleserver.com/NIV/Revelation17). Let us have a look at them.
 
-It begins with the great harlot who intoxicates the kings and the whole earth, and now her secret is revealed. The first clue is that she sits on a beast ([from chapter 13](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation/index.html)) that has 7 heads and 10 horns. The woman is identified as Babel. The 7 heads are 7 hills as well as 7 kings who rule one after the other while the beast is the 8th king. The 10 horns are 10 kings who rule at the same time and give all their power to the beast.
+It begins with the great harlot who intoxicates the kings and the whole earth, and now her secret is revealed. The first clue is that she sits on a beast ([from chapter 13](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)) that has 7 heads and 10 horns. The woman is identified as Babel. The 7 heads are 7 hills as well as 7 kings who rule one after the other while the beast is the 8th king. The 10 horns are 10 kings who rule at the same time and give all their power to the beast.
 
 Now the beast fights against the saints, but Jesus will take up the fight and it ends with the beast and the kings hating and destroying the harlot.
 
@@ -180,8 +180,8 @@ While the first beast supports the harlot in chapter 17, the second beast suppor
 ## Further reading
 
 <a name="efa5"></a>
-- [The whore part 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2/index.html)
-- [The origin of Babel](../../../bible/keyword/expl/the-origin-of-babel/index.html)
+- [The whore part 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
+- [The origin of Babel](../../../bible/keyword/expl/the-origin-of-babel)
 
 
 
@@ -195,4 +195,4 @@ Beale, Revelation, pages 847–890
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-whore-babel-part-1.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-whore-babel-part-1.md)

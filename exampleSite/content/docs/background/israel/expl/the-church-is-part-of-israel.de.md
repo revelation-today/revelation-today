@@ -156,4 +156,4 @@ Als [Kornelius und sein Haus den Heiligen Geist empfingen](https://www.bibleserv
 			</td>
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-church-is-part-of-israel.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-church-is-part-of-israel.de.md)

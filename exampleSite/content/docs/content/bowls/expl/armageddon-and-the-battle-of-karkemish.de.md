@@ -56,4 +56,4 @@ Wir haben drei Könige, die, obwohl sie Gott an ihrer Seite wussten, völlig unt
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/armageddon-and-the-battle-of-karkemish.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/armageddon-and-the-battle-of-karkemish.de.md)

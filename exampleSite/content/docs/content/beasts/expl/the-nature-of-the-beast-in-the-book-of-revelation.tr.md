@@ -15,11 +15,12 @@ title: "Vahiy kitabındaki canavarın doğası"
 ## Referanslarla dolu bir çanta
 
 <a name="042c"></a>
-Bundan önceki ayetlerde ejderhanın [çocuğa (İsa’ya)](../../../content/jesus/expl/a-different-christmas-story/index.html) ve annesine saldırısı anlatılmaktadır. Her ikisinde de tamamen başarısız olur, bu yüzden şimdi ayrıntılı olarak açıklanan iki canavarı daha bir araya getiriyor.
+Bundan önceki ayetlerde ejderhanın [çocuğa (İsa’ya)](../../../content/jesus/expl/a-different-christmas-story) ve annesine saldırısı anlatılmaktadır. Her ikisinde de tamamen başarısız olur, bu yüzden şimdi ayrıntılı olarak açıklanan iki canavarı daha bir araya getiriyor.
 
 - İlk referans [Eyüp 40/15–41/37](https://www.bibleserver.com/TR/Ey%C3%BCp40%3A15) kitaplarına kadar gider. Denizden ve karadan gelen iki canavar olan Behemoth ve Leviathan’ı anlatan uzun bir öyküdür (Rev.13'teki canavarlar da denizden ve karadan gelir). İnsan tarafından yenilmezler ama Tanrı için yenilmezler ([Yeş.27/1](https://www.bibleserver.com/TR/Ye%C5%9Faya27)). [Mez.104](https://www.bibleserver.com/TR/Mezmur104%3A26), Leviathan’ın Tanrı’yla karşılaştırıldığında bir oyuncaktan daha fazlası olmadığı izlenimini verir.
 - Benzer bir referans, açının ayağını karaya ve denize koyduğu (bunun üzerinde sahiplik iddiasında bulunduğu) [Rev.10/3'ü](https://www.bibleserver.com/TR/Vahiy10%3A3) verir
-<li id="bce6">İlk canavar, tanımını [Dan.7'deki](https://www.bibleserver.com/TR/Daniel7) dört canavardan alır: Birincisi aslan, ikincisi ayı, üçüncüsü panter gibidir. Hepsinin birlikte 7 başı vardır (her birinin 1, ama üçüncüsünün 4 başı vardır). Dördüncünün 10 tacı vardır [ki bunlar on kraldır](https://www.bibleserver.com/TR/Daniel7%3A24) ve Rev.10'u [Rev.17](https://www.bibleserver.com/TR/Vahiy17%3A12)'deki fahişeye bile bağlar. Peki Dan.7'deki referansın amacı nedir? Bu metni sonuna kadar okuduğunuzda, bu bölümün amacının canavarın yenildiğini göstermek olduğunu görürsünüz.</li>- Bir sonraki ana paralel [Dan.3](https://www.bibleserver.com/TR/Daniel3)'tür, Daniels’ın ateş fırınındaki arkadaşlarının iyi bilinen öyküsü. Bu ikinci canavarın durumunu açıklamaktadır. Burada tapınılması gereken bir heykel, tapınmazlarsa cezalandırılacak ve ateşle öldürülecek insanlar ve hatta [Dan.3'](https://www.bibleserver.com/TR/Daniel3%3A1)te heykelin ölçülerine bakarak 666'ya sahibiz. Dan.3'teki öykünün sonu Daniel’in arkadaşlarının kurtarılması ve [kralın Tanrı’yı kabul edip övmesi ve arkadaşlarını desteklemesidir](https://www.bibleserver.com/TR/Daniel3%3A28-30).
+- İlk canavar, tanımını [Dan.7'deki](https://www.bibleserver.com/TR/Daniel7) dört canavardan alır: Birincisi aslan, ikincisi ayı, üçüncüsü panter gibidir. Hepsinin birlikte 7 başı vardır (her birinin 1, ama üçüncüsünün 4 başı vardır). Dördüncünün 10 tacı vardır [ki bunlar on kraldır](https://www.bibleserver.com/TR/Daniel7%3A24) ve Rev.10'u [Rev.17](https://www.bibleserver.com/TR/Vahiy17%3A12)'deki fahişeye bile bağlar. Peki Dan.7'deki referansın amacı nedir? Bu metni sonuna kadar okuduğunuzda, bu bölümün amacının canavarın yenildiğini göstermek olduğunu görürsünüz.
+- Bir sonraki ana paralel [Dan.3](https://www.bibleserver.com/TR/Daniel3)'tür, Daniels’ın ateş fırınındaki arkadaşlarının iyi bilinen öyküsü. Bu ikinci canavarın durumunu açıklamaktadır. Burada tapınılması gereken bir heykel, tapınmazlarsa cezalandırılacak ve ateşle öldürülecek insanlar ve hatta [Dan.3'](https://www.bibleserver.com/TR/Daniel3%3A1)te heykelin ölçülerine bakarak 666'ya sahibiz. Dan.3'teki öykünün sonu Daniel’in arkadaşlarının kurtarılması ve [kralın Tanrı’yı kabul edip övmesi ve arkadaşlarını desteklemesidir](https://www.bibleserver.com/TR/Daniel3%3A28-30).
 
 
 Bu bölüm ilk bakışta ejderha ve canavarlarının yenilmez bir hükümdar ve zalim olduğu izlenimini verir, ancak Tanrı ve halkıyla karşılaştıklarında referanslar yüksek sesle “Kaybeden” diye bağırır.
@@ -139,7 +140,13 @@ Tüm bunlar göz önüne alındığında, Şeytan’ın şeytani bir Üçlü Bir
 <a name="b8ad"></a>
 Bu konudaki ilk tepkiniz bunun şeytani bir şey olduğu yönünde olabilir. Ama bir kez daha düşününce çekici gelebilir.
 
-<li id="bdd5">Öyle bir inanç var ki, insanlar [canavarın gücünü gördüklerinde](https://www.bibleserver.com/TR/Vahiy13%3A4) hayrete düşüyorlar. Zaman zaman insanların [inancımızın aptalca](https://www.bibleserver.com/TR/1.Korintliler1%3A22-23) olduğunu düşünmemesini istemez miyiz? Ya da dualarımızın güçlü olduğunu söylemelerini?</li><li id="bc2d">Ya da insanları Tanrı’ya davet etmekten ama sadece reddedilmekten bıktığınız için insanların kabul ettiği [müjdenin dünya çapında yayılması mı](https://www.bibleserver.com/TR/Vahiy13%3A8)?</li><li id="0e12">[Ya da daha fazla belirti ve mucize görmek istiyorsunuz](https://www.bibleserver.com/TR/Vahiy13%3A14) çünkü Tanrı’nın gerçekten var olup olmadığından şüphe ediyor olabilirsiniz?</li><li id="9eaa">Ya da hiçbir duanın yardım etmediği [sevdikleriniz için şifa mı arıyorsunuz](https://www.bibleserver.com/TR/Vahiy13%3A15)?</li><li id="bcf4">[Ya da düşmanını ve kötülük yapanları yok eden bir Tanrı istiyorsunuz](https://www.bibleserver.com/TR/Vahiy13%3A15) — soruya bir cevap: Eğer iyi bir Tanrı varsa, neden kötülüğü durdurmuyor?</li><li id="ce29">[Yoksa tüm insanların bizim değer sistemimize boyun eğmesini mi istiyorsunuz?](https://www.bibleserver.com/TR/Vahiy13%3A16-17)</li>
+- Öyle bir inanç var ki, insanlar [canavarın gücünü gördüklerinde](https://www.bibleserver.com/TR/Vahiy13%3A4) hayrete düşüyorlar. Zaman zaman insanların [inancımızın aptalca](https://www.bibleserver.com/TR/1.Korintliler1%3A22-23) olduğunu düşünmemesini istemez miyiz? Ya da dualarımızın güçlü olduğunu söylemelerini?
+- Ya da insanları Tanrı’ya davet etmekten ama sadece reddedilmekten bıktığınız için insanların kabul ettiği [müjdenin dünya çapında yayılması mı](https://www.bibleserver.com/TR/Vahiy13%3A8)?
+- [Ya da daha fazla belirti ve mucize görmek istiyorsunuz](https://www.bibleserver.com/TR/Vahiy13%3A14) çünkü Tanrı’nın gerçekten var olup olmadığından şüphe ediyor olabilirsiniz?
+- Ya da hiçbir duanın yardım etmediği [sevdikleriniz için şifa mı arıyorsunuz](https://www.bibleserver.com/TR/Vahiy13%3A15)?
+- [Ya da düşmanını ve kötülük yapanları yok eden bir Tanrı istiyorsunuz](https://www.bibleserver.com/TR/Vahiy13%3A15) — soruya bir cevap: Eğer iyi bir Tanrı varsa, neden kötülüğü durdurmuyor?
+- [Yoksa tüm insanların bizim değer sistemimize boyun eğmesini mi istiyorsunuz?](https://www.bibleserver.com/TR/Vahiy13%3A16-17)
+
 
 Bu üçlü, zaman zaman özleyebileceğimiz her şeyi sağlıyor ama bu işte bir terslik var.
 
@@ -187,9 +194,9 @@ Tanrı, her zaman çok muzaffer görünmese bile, insanlarla ilgilenerek sevgiyl
 ## Diğer okumalar
 
 <a name="cdf4"></a>
-- [Tarihsel bağlamda canavarlar](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context/index.html)
-- [666 sayısı](../../../content/beasts/expl/666-the-number-of-the-beast/index.html)
-- [3,5 yıl](../../../bible/daniel/expl/the-secret-of-the-3-5-years/index.html)
+- [Tarihsel bağlamda canavarlar](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
+- [666 sayısı](../../../content/beasts/expl/666-the-number-of-the-beast)
+- [3,5 yıl](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
 
 
@@ -197,4 +204,4 @@ Tanrı, her zaman çok muzaffer görünmese bile, insanlarla ilgilenerek sevgiyl
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation.tr.md)

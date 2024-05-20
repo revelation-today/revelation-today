@@ -51,4 +51,4 @@ sondern mehr als ein Gebet mit Gott:
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/the-key-of-prayer.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/the-key-of-prayer.de.md)

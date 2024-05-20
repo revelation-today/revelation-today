@@ -102,4 +102,4 @@ Sandra Richter, The Epic of Eden, pages 21–46
 
 
 
-[github](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-role-of-family-in-the-bible.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-role-of-family-in-the-bible.md)
