@@ -1,5 +1,6 @@
 ---
 title: "Balam’ın öyküsü"
+weight: 30
 ---
 
 

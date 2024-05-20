@@ -1,5 +1,6 @@
 ---
 title: "Full of biblical references"
+weight: 30
 ---
 
 

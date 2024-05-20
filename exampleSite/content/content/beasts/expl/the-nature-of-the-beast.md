@@ -75,7 +75,7 @@ There is a strong parallel between the beast in chapter 17 and the first beast i
 | [Speech of blasphemy](https://www.bibleserver.com/NIV/Revelation13%2C5-6) | [Blasphemous name](https://www.bibleserver.com/NIV/Revelation17%2C3) |
 | [Fight against saints and defeat them](https://www.bibleserver.com/NIV/Revelation13%2C7) | 
 [Fights against Lamb and is overcome](https://www.bibleserver.com/NIV/Revelation17%2C14) |
-[Fight against whore and destroy](https://www.bibleserver.com/NIV/Revelation17%2C16).
+[Fight against Harlot and destroy](https://www.bibleserver.com/NIV/Revelation17%2C16).
 			
 
 <tr>
@@ -83,11 +83,11 @@ There is a strong parallel between the beast in chapter 17 and the first beast i
 <td>[All who are not written in the book of life are overwhelmed](https://www.bibleserver.com/NIV/Revelation17%2C8)</td>
 </tr>
 
-But there is also a strong connection between the second beast in chapter 13 and the harlot
-<p>The whore and the second beast</p>
+But there is also a strong connection between the Second Beast in chapter 13 and the Harlot
+<p>The Harlot and the Second Beast</p>
 
 
-| The second beast of Revelation 13 | The harlot |
+| The Second Beast of Revelation 13 | The Harlot |
 |-----------------------------------|------------|
 | [Comes from Earth](https://www.bibleserver.com/NIV/Revelation13%2C11) | [Sits in desert](https://www.bibleserver.com/NIV/Revelation17%2C3) |
 | [Has two horns like a lamb](https://www.bibleserver.com/NIV/Revelation13%2C11) | [Is dressed like the bride of the lamb](https://www.bibleserver.com/NIV/Revelation17%2C4) |

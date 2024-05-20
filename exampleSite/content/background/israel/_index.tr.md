@@ -5,10 +5,8 @@ weight: 5
 ---
 
 
-<!--more-->
+İsrail nedir ve kimler İsrail'e aittir?
 
-{{< cards >}}
-  {{< card link="multi-language" title="Multi-language" icon="translate" >}}
-  {{< card link="customization" title="Customization" icon="pencil" >}}
-  {{< card link="comments" title="Comments System" icon="chat-alt" >}}
-{{< /cards >}}
+Bu çok ilginç bir konudur ve Eski Ahit'te bile düşündüğünüz gibi değildir.
+
+Doğulu aile ve antlaşma anlayışından İsa'nın zamanına kadar bunu keşfetmek için biraz zaman ayıracağız.

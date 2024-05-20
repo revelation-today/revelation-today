@@ -4,11 +4,5 @@ title: Der Aufbau des Buches
 weight: 4
 ---
 
-
-<!--more-->
-
-{{< cards >}}
-  {{< card link="multi-language" title="Multi-language" icon="translate" >}}
-  {{< card link="customization" title="Customization" icon="pencil" >}}
-  {{< card link="comments" title="Comments System" icon="chat-alt" >}}
-{{< /cards >}}
+Das Buch sieht sehr chaotisch aus und eilt von einer Katastrophe zur nächsten. Doch das Gegenteil ist der Fall. Das Buch ist sehr gut organisiert und absichtlich geordnet.
+Wir werden in diesen Artikeln einen besseren Blick darauf werfen.

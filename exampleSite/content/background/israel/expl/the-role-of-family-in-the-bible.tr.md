@@ -1,5 +1,6 @@
 ---
 title: "Kutsal Kitapta ailenin rolü"
+weight: 1
 ---
 
 

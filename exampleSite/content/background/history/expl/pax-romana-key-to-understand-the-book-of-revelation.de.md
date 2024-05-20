@@ -1,5 +1,6 @@
 ---
-title: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
+title: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
+weight: 2
 ---
 
 

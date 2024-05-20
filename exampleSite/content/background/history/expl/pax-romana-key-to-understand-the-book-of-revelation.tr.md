@@ -1,5 +1,6 @@
 ---
-title: "Pax Romana — vahiy kitabını anlamak için anahtar"
+title: "Pax Romana — vahiy kitabını anlamak için anahtar"
+weight: 2
 ---
 
 

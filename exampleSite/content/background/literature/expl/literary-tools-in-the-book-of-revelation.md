@@ -1,5 +1,6 @@
 ---
 title: "Literary tools in the Book of Revelation"
+weight: 40
 ---
 
 

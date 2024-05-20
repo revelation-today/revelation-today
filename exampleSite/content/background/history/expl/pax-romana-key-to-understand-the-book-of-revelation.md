@@ -1,5 +1,6 @@
 ---
-title: "Pax Romana — key to understand the book of revelation"
+title: "Pax Romana — key to understand the book of revelation"
+weight: 2
 ---
 
 

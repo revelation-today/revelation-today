@@ -5,10 +5,8 @@ weight: 5
 ---
 
 
-<!--more-->
+Was ist Israel und wer gehört zu Israel?
 
-{{< cards >}}
-  {{< card link="multi-language" title="Multi-language" icon="translate" >}}
-  {{< card link="customization" title="Customization" icon="pencil" >}}
-  {{< card link="comments" title="Comments System" icon="chat-alt" >}}
-{{< /cards >}}
+Das ist ein sehr interessantes Thema und selbst im Alten Testament nicht so, wie man denken könnte.
+
+Wir werden uns etwas Zeit nehmen, um dies vom orientalischen Verständnis von Familie und Bund bis zur Zeit Jesu zu entdecken.

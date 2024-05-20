@@ -1,5 +1,5 @@
 ---
-title: "The whore in Revelation: A mocking of the Roman Empire"
+title: "The Harlot in Revelation: A mocking of the Roman Empire"
 weight: 5
 ---
 
@@ -23,7 +23,7 @@ On the right side you see the male representation of the river Tiber (surroundin
 So the reverse side of the coin praises the power and permanence of Rome.What does the text in Revelation say about this?
 
 - When a woman is described as a wolf, it means that she is a prostitute (even in normal Latin), the secret name Amor makes it even worse.
-- The goddess of Rome is described here as a whore, not only that, but as the mother of all whores.
+- The goddess of Rome is described here as a harlot, not only that, but as the mother of all harlots.
 - The hills of Rome represent the beast and the kings who will destroy Roma (the prostitute) — Roma is the victim of the city she protects.
 - Roma does not protect herself from enemies with the sword, but she is covered with the blood of the saints.
 

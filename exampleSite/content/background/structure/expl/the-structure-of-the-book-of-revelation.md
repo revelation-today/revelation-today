@@ -1,5 +1,6 @@
 ---
 title: "The structure of the Book of Revelation"
+weight: 10
 ---
 
 
@@ -90,7 +91,7 @@ The book now closes with some final warnings to remind the reader how serious th
 - Ch 13: [The unholy trinity](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 - Ch 14: [The seven angels](../../../content/harvest/expl/gods-army-and-the-seven-angels)
 - Ch 16: [The bowls](../../../content/bowls/expl/the-bowls-of-wrath)
-- Ch 17: [The whore](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
+- Ch 17: [The Harlot](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
 - Ch 20: [The 1000 year kingdom](../../../content/1000y/expl/the-thousand-year-kingdom)
 - Ch 21: [The New Jerusalem](../../../content/paradise/expl/the-new-jerusalem)
 

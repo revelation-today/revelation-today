@@ -1,5 +1,6 @@
 ---
 title: "Bazı şeyler asla değişmez"
+weight: 1
 ---
 
 

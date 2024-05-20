@@ -1,6 +1,5 @@
 ---
 title: "The main topics"
-prev: /gen
 ---
 
 
@@ -159,10 +158,6 @@ The weapons are very different and have a different purpose than the beast. It i
 There are many thoughts about what can be done to make this world a better place. But this book actually gives a concrete hope and guideline even in today’s world how to move forward.
 
 But is this book not about listing disasters and God’s wrath coming down on earth? Well, there are a lot of pictures used to spur people into action. This is a book designed to provoke.
-
-
-
-
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/overview/appl/the-main-topics.md)

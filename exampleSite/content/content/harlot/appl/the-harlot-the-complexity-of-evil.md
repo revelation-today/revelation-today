@@ -1,5 +1,5 @@
 ---
-title: "The harlot: The complexity of evil"
+title: "The Harlot: The complexity of evil"
 weight: 1
 ---
 

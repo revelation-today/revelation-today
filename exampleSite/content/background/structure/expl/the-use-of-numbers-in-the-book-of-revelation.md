@@ -1,5 +1,6 @@
 ---
 title: "The use of numbers in the Book of Revelation"
+weight: 40
 ---
 
 

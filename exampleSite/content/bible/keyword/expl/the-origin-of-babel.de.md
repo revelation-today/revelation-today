@@ -1,5 +1,6 @@
 ---
 title: "Der Ursprung Babels"
+weight: 20
 ---
 
 

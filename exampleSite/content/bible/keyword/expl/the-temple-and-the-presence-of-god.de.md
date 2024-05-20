@@ -1,5 +1,6 @@
 ---
 title: "Der Tempel und die Gegenwart Gottes"
+weight: 10
 ---
 
 

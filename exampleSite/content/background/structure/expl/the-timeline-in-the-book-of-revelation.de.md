@@ -1,5 +1,6 @@
 ---
 title: "Die Zeitschiene in der Offenbarung"
+weight: 30
 ---
 
 

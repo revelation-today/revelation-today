@@ -1,5 +1,6 @@
 ---
 title: "İsrail’in kalıntıları"
+weight: 4
 ---
 
 

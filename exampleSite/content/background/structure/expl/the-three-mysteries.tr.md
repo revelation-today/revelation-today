@@ -1,5 +1,6 @@
 ---
 title: "Üç gizem"
+weight: 20
 ---
 
 

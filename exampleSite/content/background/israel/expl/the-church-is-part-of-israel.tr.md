@@ -1,5 +1,6 @@
 ---
 title: "Kilise İsrail’in bir parçasıdır"
+weight: 6
 ---
 
 

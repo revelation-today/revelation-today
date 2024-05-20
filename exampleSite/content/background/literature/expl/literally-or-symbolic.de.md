@@ -1,5 +1,6 @@
 ---
 title: "Wörtlich oder symbolisch?"
+weight: 20
 ---
 
 

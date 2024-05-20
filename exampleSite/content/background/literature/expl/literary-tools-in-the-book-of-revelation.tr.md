@@ -1,5 +1,6 @@
 ---
 title: "Vahiy Kitabındaki Edebi Araçlar"
+weight: 40
 ---
 
 

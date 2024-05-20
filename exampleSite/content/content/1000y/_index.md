@@ -4,6 +4,8 @@ title: "The millenium (Ch.20)"
 weight: 16
 ---
 
-Welcome to the Book of Revelation!
+After all the up and down in the book, here is the confirmation (again) that the church is ruling even in the midst of suffering and helplessness.
 
-<!--more-->
+The 1000 years are the time between Jesus first coming 2000 years ago and his second coming when we will from then on join eternity with him.
+
+![](/images/1000_en.jpg)

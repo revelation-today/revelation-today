@@ -4,6 +4,8 @@ title: "Weitere wichtige Geschichten"
 weight: 3
 ---
 
-Welcome to the Book of Revelation!
 
-<!--more-->
+Es gibt noch einige weitere wichtige Geschichten, die einige Fragen beantworten
+- Was ist die Bedeutung von Babel?
+- Was hat Bileam mit Götzendienst zu tun?
+- Was ist gemeint, wenn wir über den Tempel sprechen?

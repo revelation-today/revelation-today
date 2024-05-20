@@ -1,5 +1,6 @@
 ---
 title: "Der Überrest von Israel"
+weight: 4
 ---
 
 

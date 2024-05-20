@@ -1,5 +1,6 @@
 ---
 title: "Die Benutzung von Zahlen in der Offenbarung"
+weight: 40
 ---
 
 

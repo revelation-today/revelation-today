@@ -1,5 +1,6 @@
 ---
 title: "İsa ve antlaşma"
+weight: 5
 ---
 
 

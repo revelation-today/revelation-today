@@ -4,11 +4,16 @@ title: Hintergrund
 weight: 4
 ---
 
-
-<!--more-->
-
-{{< cards >}}
-  {{< card link="multi-language" title="Multi-language" icon="translate" >}}
-  {{< card link="customization" title="Customization" icon="pencil" >}}
-  {{< card link="comments" title="Comments System" icon="chat-alt" >}}
-{{< /cards >}}
+Als gute Grundlage für unsere Arbeit müssen wir ein besseres Verständnis für die folgenden Themen entwickeln:
+- Was war die historische Situation der ersten Leser? 
+    - Welche Themen könnten angesprochen werden?
+    - Wie würden sie sie lesen?
+- Welche Art von Literatur lesen wir?
+    - Müssen wir alles wörtlich nehmen?
+    - Oder eher symbolisch?
+    - Wie hilft es uns, den Schwerpunkt des Autors zu verstehen?
+- Wie ist das Buch aufgebaut?
+    - Wann beginnt ein neuer Abschnitt?
+    - Was ist die Kernaussage eines Abschnitts?
+- Als Topper:
+    - Wir brauchen ein besseres Verständnis für die Rolle Israels

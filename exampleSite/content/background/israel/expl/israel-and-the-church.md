@@ -1,5 +1,6 @@
 ---
 title: "Israel and the church"
+weight: 7
 ---
 
 

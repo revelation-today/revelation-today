@@ -1,5 +1,6 @@
 ---
 title: "The “temple” and the presence of God"
+weight: 10
 ---
 
 

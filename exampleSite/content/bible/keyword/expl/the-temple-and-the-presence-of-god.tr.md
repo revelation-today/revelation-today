@@ -1,5 +1,6 @@
 ---
 title: "“Tapınak” ve Tanrı’nın varlığı"
+weight: 10
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Israel und die Gemeinde"
+weight: 7
 ---
 
 

@@ -1,45 +1,45 @@
 ---
-title: "Who is the Whore Babel: Part 1"
+title: "Part 1: Who is the Harlot Babylon?"
 weight: 2
 ---
 
 
-It is not the Pope. It is not the economy. It could be anyone, even the Church.
+Some people say, it is the Pope; some people say it is the economy. It could be anyone, even the Church. So who is the Harlot Babylon?
 
-The chapter about the harlot Babel is hard to understand because there are so [many players interacting with each other](https://www.bibleserver.com/NIV/Revelation17). Let us have a look at them.
+## Overview
 
-It begins with the great harlot who intoxicates the kings and the whole earth, and now her secret is revealed. The first clue is that she sits on a beast ([from chapter 13](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)) that has 7 heads and 10 horns. The woman is identified as Babel. The 7 heads are 7 hills as well as 7 kings who rule one after the other while the beast is the 8th king. The 10 horns are 10 kings who rule at the same time and give all their power to the beast.
+Chapter 17 is about the Harlot Babylon but it is difficult to identify who she is, because there are [many characters in this chapter interacting with each other](https://www.bibleserver.com/NIV/Revelation17). Let us have a look at them.
+
+It begins with the Great Harlot with whom the kings commit adultery and she intoxicates the whole earth. Then the angel starts to reveal the mystery surrounding her. The first clue we get is that she sits on a beast ([from chapter 13](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)) that has 7 heads and 10 horns and the woman is identified as Babylon. The 7 heads are 7 hills or 7 kings who rule consequetively while the beast is the 8th king. The 10 horns are 10 kings who rule at the same time and give all their power to the beast.
 
 Now the beast fights against the saints, but Jesus will take up the fight and it ends with the beast and the kings hating and destroying the harlot.
 
-There are too many players, but they are all needed to describe the prostitute. This chapter is a build up and now fully describes the devil. So let us break it down.
+There are too many players, but they are all needed to describe the Harlot. This chapter is a build up and now fully describes the devil. So let us break it down.
 
 
-## The scarlet beast
+## The scarlet Beast
 
 <a name="9621"></a>
-The beast has many parallels to the first beast in chapter 13.
+This beast has many parallels to the First Beast in chapter 13.
 
 
-| The first beast of Revelation 13 | The beast on Revelation 17 |
+| The First Beast of Revelation 13 | The Beast of Revelation 17 |
 |----------------------------------|----------------------------|
-| [Has 7 heads and 10 horns](https://www.bibleserver.com/NIV/Revelation13%2C1) | [Has 7 heads and 10 horns](https://www.bibleserver.com/NIV/Revelation17%2C3) |
-| [Head as if slaughtered, grows back](https://www.bibleserver.com/NIV/Revelation13%2C3) | [5 kings fallen, the seventh yet to come](https://www.bibleserver.com/NIV/Revelation17%2C10) |
-| [Who can fight against the beast](https://www.bibleserver.com/NIV/Revelation13%2C4) | [Beast makes war on King of Kings](https://www.bibleserver.com/NIV/Revelation17%2C14) |
-| [Speech of blasphemy](https://www.bibleserver.com/NIV/Revelation13%2C5-6) | [Blasphemous name](https://www.bibleserver.com/NIV/Revelation17%2C3) |
-| [Fight against saints and defeat them](https://www.bibleserver.com/NIV/Revelation13%2C7) | 
-[Fights against Lamb and is overcome](https://www.bibleserver.com/NIV/Revelation17%2C14) |
-[Fight against whore and destroy](https://www.bibleserver.com/NIV/Revelation17%2C16).
-			
+| [Has <span style="color:green;">7 heads and 10 horns</span>](https://www.bibleserver.com/NIV/Revelation13%2C1) | [Has <span style="color:green;">7 heads and 10 horns</span>](https://www.bibleserver.com/NIV/Revelation17%2C3) |
+| [<span style="color:green;">Head as if slaughtered, grows back</span>](https://www.bibleserver.com/NIV/Revelation13%2C3) | [<span style="color:green;">5 kings fallen, the seventh yet to come</span>](https://www.bibleserver.com/NIV/Revelation17%2C10) |
+| [<span style="color:green;">Beast seems unrivalled</span>](https://www.bibleserver.com/NIV/Revelation13%2C4) | [<span style="color:green;">Beast makes war against the King of Kings</span>](https://www.bibleserver.com/NIV/Revelation17%2C14) |
+| [<span style="color:green>;">Blasphemous</span> speech](https://www.bibleserver.com/NIV/Revelation13%2C5-6) | [<span style="color:green>;">Blasphemous</span> name](https://www.bibleserver.com/NIV/Revelation17%2C3) |
+| [<span style="color:green;">Fights against</span> <span style="color:red;">saints and defeats them</span>](https://www.bibleserver.com/NIV/Revelation13%2C7) | [<span style="color:green;">Fights against</span> <span style="color:red;">Lamb and is overcome</span>](https://www.bibleserver.com/NIV/Revelation17%2C14) </br> [<span style="color:green;">Fights against</span> the <span style="color:red;">Harlot and destroys her</span>](https://www.bibleserver.com/NIV/Revelation17%2C16) |
+| [<span style="color:green;">All who are not written in the book of life</span> <span style="color:red;">worship the beast</span>](https://www.bibleserver.com/NIV/Revelation13%2C8) | [<span style="color:green;">All who are not written in the book of life</span> <span style="color:red;">are overwhelmed</span>](https://www.bibleserver.com/NIV/Revelation17%2C8) |
 
-<tr>
-<td>[All who are not written in the book of life worship the beast](https://www.bibleserver.com/NIV/Revelation13%2C8)</td>
-<td>[All who are not written in the book of life are overwhelmed](https://www.bibleserver.com/NIV/Revelation17%2C8)</td>
-</tr>
+This beast is also a picture of the Emperor including his military power. The scarlet color refers to royalty.
 
-This beast reflects the emperor with his military strength (perhaps even referring to [the second horseman who is waging war](https://www.bibleserver.com/NIV/Revelation6%3A3-4)). The scarlet color also describes the royal clothing.
+The beast is described three times in verses 8 and 11 as the one who
+- [once was, now is not, and yet will come up out of the Abyss and go to its destruction](https://www.bibleserver.com/NIV/Revelation17%3A8)
+- [once was, now is not, and yet will come](https://www.bibleserver.com/NIV/Revelation17%3A8)
+- [once was, and now is not, ... is going to his destruction](https://www.bibleserver.com/NIV/Revelation17%3A11)
 
-The beast is described as “[once was, now is not, and yet will come up out of the Abyss and go to its destruction, … once was, now is not, and yet will come](https://www.bibleserver.com/NIV/Revelation17%3A8)” and “[once was, and now is not, …. and is going to his destruction](https://www.bibleserver.com/NIV/Revelation17%3A11)” is a mockery of God [who was and is and is to come](https://www.bibleserver.com/NIV/Revelation1%3A8) — the Eternal One.
+which is a parody on the description of God as the Eternal One who is described in Rev.1:8 as the One [who was and is and is to come](https://www.bibleserver.com/NIV/Revelation1%3A8).
 
 
 ## The seven hills and seven kings
@@ -47,7 +47,7 @@ The beast is described as “[once was, now is not, and yet will come up out of 
 <a name="2d9d"></a>
 The seven hills on which the woman sits are the [seven hills](https://www.bibleserver.com/NIV/Revelation17%3A9) that describe Rome. Rome, in the view of the first readers, is the place of the emperor, who is praised as Lord of lords and King of kings as being equal to God. It is not the pope or anyone else who later lived in Rome!
 
-On the other hand, hills can also mean kingdoms (since they are also interpreted as king, these would be the associated kingdoms). This is supported by the description of the greatest kingdom in [Isaiah](https://www.bibleserver.com/NIV/Isaiah2%3A2), the description of [Babel as a mountain](https://www.bibleserver.com/NIV/Jeremiah51%3A25), the description of [Edom as its mountain,](https://www.bibleserver.com/NIV/Ezekiel35%3A3) or the [mountain that filled the earth in Daniel as the new godly kingdom](https://www.bibleserver.com/NIV/Daniel2%3A35).
+On the other hand, hills can also mean kingdoms (since they are also interpreted as king, these would be the associated kingdoms). This is supported by the description of the greatest kingdom in [Isaiah](https://www.bibleserver.com/NIV/Isaiah2%3A2), the description of [Babylon as a mountain](https://www.bibleserver.com/NIV/Jeremiah51%3A25), the description of [Edom as its mountain,](https://www.bibleserver.com/NIV/Ezekiel35%3A3) or the [mountain that filled the earth in Daniel as the new godly kingdom](https://www.bibleserver.com/NIV/Daniel2%3A35).
 
 [Who are the seven kings?](https://www.bibleserver.com/NIV/Revelation17%3A10) 5 were gone, one is now, and a seventh is still to come, but will reign only for a short time? They describe a chronological sequence and show that during this time the kings will support the beast. It is not necessarily tied to a strict count, but shows that the final countdown is not far away [to keep us alert](https://www.bibleserver.com/NIV/Revelation16%3A15).
 
@@ -62,7 +62,7 @@ Now the beast itself [comes as the 8th king which is one of the seven](https://w
 Their purpose is to wage war against the Lamb, but things work out differently as we will see.
 
 
-## The whore
+## The Harlot
 
 <a name="1947"></a>
 She has many parallels as a contrast to the bride in chapter 21 and the woman in chapter 12
@@ -70,76 +70,16 @@ She has many parallels as a contrast to the bride in chapter 21 and the woman in
 
 | Wife in chapter 12 | Whore in chapter 17 | Bride in ch.19 and 21 |
 |--------------------|---------------------|-----------------------|
-| [Hidden in the desert](https://www.bibleserver.com/NIV/Revelation23%2C6) | 
-[Sheltered in desert](https://www.bibleserver.com/NIV/Revelation17%2C3) |
-[Whore is city Babel](https://www.bibleserver.com/NIV/Revelation17%2C5)
-
-<td style="width:40%;">[Is city](https://www.bibleserver.com/NIV/Revelation21%2C9-21)</td>
-<tr>
-<td></td>
-<td><span style="color:red;">Undivine</span> <span style="color:green;">capital</span></td>
-<td><span style="color:green;">City</span> <span style="color:red;">God</span></td>
-</tr>
-<tr>
-<td><span style="color:red;">Mother</span> of legitimate children</td>.
-			<td><span style="color:red;">Whore</span></td>
-<td><span style="color:red;">bride</span></td>
-</tr>
-<tr>
-<td>[Pursued mother](https://www.bibleserver.com/NIV/Revelation12)</td>
-<td>[Persecuted Mother](https://www.bibleserver.com/NIV/Revelation17%2C5) ([Offb.17/16](https://www.bibleserver.com/NIV/Revelation17%2C16))</td>
-<td></td>
-</tr>
-<tr>
-<td>[Rescued Mother](https://www.bibleserver.com/NIV/Revelation12)</td>
-<td>[Destroyed woman](https://www.bibleserver.com/NIV/Revelation17)</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>
-[Angel announces court](https://www.bibleserver.com/NIV/Revelation17%2C1)</td></tr>
-[is certain](https://www.bibleserver.com/NIV/Revelation19%2C9-10)
-
-<td>
-[Angel announces bride](https://www.bibleserver.com/NIV/Revelation21%2C9-10)</td>
-[is certain](https://www.bibleserver.com/NIV/Revelation22%2C6)
-
-
-<tr>
-<td><span style="color:red;">Faithfulness</span> <span style="color:green;">Children</span></td>
-<td><span style="color:red;">Faithfulness</span> <span style="color:green;">Children</span></td>
-<td></td>
-</tr>
-<tr>
-<td>Gives <span style="color:red;">birth</span> to the <span style="color:green;">community</span></td>.
-			<td>Attempts <span style="color:green;">community</span> <span style="color:red;">destruction</span></td>.
-			<td><span style="color:red;">Is</span> <span style="color:green;">community</span></td>
-</tr>
-<tr>
-<td>
-[Has security in heaven](https://www.bibleserver.com/NIV/Revelation12%2C1).
-			</td>
-<td>
-[Has security in nations and kings](https://www.bibleserver.com/NIV/Revelation17%2C15) ([Offb.17/18](https://www.bibleserver.com/NIV/Revelation17%2C18))
-			</td>
-<td></td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-				Covered in <span style="color:green;">jewels</span> </td></tr>.
-				[Dressed in canvas](https://www.bibleserver.com/NIV/Revelation17%2C4) ([Offb.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16))
-				which <span style="color:red;">covers</span> your corruption.
-			
-<td>
-[Covered with precious jewels](https://www.bibleserver.com/NIV/Revelation21%2C2) ([Offb.21/9-23](https://www.bibleserver.com/NIV/Revelation21%2C9-23)) </td>
-[Dressed in pure white canvas](https://www.bibleserver.com/NIV/Revelation19%2C8) ([Offb.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16))
-				which reflects <span style="color:red;">God's glory and righteous deeds of the saints</span>.
-			
-
-
+| [Hidden in the <span style="color:green;">desert</span>](https://www.bibleserver.com/NIV/Revelation23%2C6) | [Sheltered in <span style="color:green;">desert</span>](https://www.bibleserver.com/NIV/Revelation17%2C3) </br> [Whore is <span style="color:green;">city</span> Babylon](https://www.bibleserver.com/NIV/Revelation17%2C5) | [Is <span style="color:green;">city</span>](https://www.bibleserver.com/NIV/Revelation21%2C9-21) |
+| | <span style="color:red;">Undivine</span> <span style="color:green;">capital</span> | <span style="color:green;">City</span> <span style="color:red;">God</span> |
+| <span style="color:red;">Mother</span> of legitimate children | <span style="color:red;">Whore</span> | <span style="color:red;">bride</span> |
+| [<span style="color:green;">Pursued mother</span>](https://www.bibleserver.com/NIV/Revelation12) | [<span style="color:green;">Persecuted Mother</span>](https://www.bibleserver.com/NIV/Revelation17%2C5) ([Rev.17/16](https://www.bibleserver.com/NIV/Revelation17%2C16)) | |
+| [<span style="color:red;">Rescued Mother</span>](https://www.bibleserver.com/NIV/Revelation12) | [<span style="color:red;">Destroyed woman</span>](https://www.bibleserver.com/NIV/Revelation17) | |
+| | [<span style="color:green;">Angel announces court</span>](https://www.bibleserver.com/NIV/Revelation17%2C1) [<span style="color:green;">is certain</span>](https://www.bibleserver.com/NIV/Revelation19%2C9-10) | [<span style="color:green;">Angel announces bride</span>](https://www.bibleserver.com/NIV/Revelation21%2C9-10) [<span style="color:green;">is certain</span>](https://www.bibleserver.com/NIV/Revelation22%2C6) |
+| <span style="color:red;">Faithfulness</span> <span style="color:green;">Children</span> | <span style="color:red;">Faithfulness</span> <span style="color:green;">Children</span> | |
+| Gives <span style="color:red;">birth</span> to the <span style="color:green;">community</span> | Attempts <span style="color:green;">community</span> <span style="color:red;">destruction</span> | <span style="color:red;">Is</span> <span style="color:green;">community</span> |
+| [Has security in heaven](https://www.bibleserver.com/NIV/Revelation12%2C1) | [Has security in nations and kings](https://www.bibleserver.com/NIV/Revelation17%2C15) ([Rev.17/18](https://www.bibleserver.com/NIV/Revelation17%2C18)) | |
+| | Covered in <span style="color:green;">jewels</span> </br> [Dressed in canvas](https://www.bibleserver.com/NIV/Revelation17%2C4) ([Rev.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16)) </br>which <span style="color:red;">covers</span> your corruption | [Covered with precious jewels](https://www.bibleserver.com/NIV/Revelation21%2C2) ([Rev.21/9-23](https://www.bibleserver.com/NIV/Revelation21%2C9-23)) </br> [Dressed in pure white canvas](https://www.bibleserver.com/NIV/Revelation19%2C8) ([Rev.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16)) </br> which reflects <span style="color:red;">God's glory and righteous deeds of the saints</span> |
 
 
 and a lot of similarities with Jezebel, who causes also trouble in [Thyatira](https://www.bibleserver.com/NIV/Revelation2%3A20)
@@ -171,7 +111,7 @@ and finally many parallels with the second beast in chapter 13
 | [Acts in power of the (first) beast](https://www.bibleserver.com/NIV/Revelation13%2C12) | [Sits on the (first) beast](https://www.bibleserver.com/NIV/Revelation17%2C3) |
 | [Can make fire fall from the sky](https://www.bibleserver.com/NIV/Revelation13%2C13) | [Will be directed by fire ](https://www.bibleserver.com/NIV/Revelation17%2C16) ([Offb.18/9](https://www.bibleserver.com/NIV/Revelation18%2C9)) |
 | [All who do not worship it will be killed](https://www.bibleserver.com/NIV/Revelation13%2C15) | [Drink blood of the saints](https://www.bibleserver.com/NIV/Revelation17%2C6) |
-| [Make a sign on forehead and hand](https://www.bibleserver.com/NIV/Revelation13%2C16) | [Has sign on forehead: Babel](https://www.bibleserver.com/NIV/Revelation17%2C5) |
+| [Make a sign on forehead and hand](https://www.bibleserver.com/NIV/Revelation13%2C16) | [Has sign on forehead: Babylon](https://www.bibleserver.com/NIV/Revelation17%2C5) |
 | [Cannot buy or sell without characters](https://www.bibleserver.com/NIV/Revelation13%2C17) | [Cannot buy or sell without sign](https://www.bibleserver.com/NIV/Revelation18%2C3) ([Offb.18/11-17](https://www.bibleserver.com/NIV/Revelation18%2C11-17)) |
 | [Requires wisdom](https://www.bibleserver.com/NIV/Revelation13%2C18) | [Requires wisdom](https://www.bibleserver.com/NIV/Revelation17%2C9) |
 <p>The power of the harlot is also reversed here into: while in chapter 13 she dropped fire from heaven, now she is destroyed by fire; while she makes a mark on her forehead, here she herself is branded on the forehead (like a slave)</p>
@@ -182,7 +122,7 @@ While the first beast supports the harlot in chapter 17, the second beast suppor
 
 <a name="efa5"></a>
 - [The whore part 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
-- [The origin of Babel](../../../bible/keyword/expl/the-origin-of-babel)
+- [The origin of Babylon](../../../bible/keyword/expl/the-origin-of-babel)
 
 
 

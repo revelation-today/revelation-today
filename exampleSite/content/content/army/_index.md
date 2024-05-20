@@ -4,6 +4,8 @@ title: "Army of God (Ch.7)"
 weight: 7
 ---
 
-Welcome to the Book of Revelation!
+This chapter talks about how we Christian should act in the middle of all the chaos and describes us as an army.
 
-<!--more-->
+But this army is quite strange: 
+- It is taken in connection with Israel
+- After we hear the numbers, we see that these are actually worshipppers that come out of tribulations

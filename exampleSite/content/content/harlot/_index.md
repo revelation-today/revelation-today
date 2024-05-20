@@ -1,6 +1,6 @@
 ---
-linkTitle: "The harlot (Ch.17-19)"
-title: "The harlot (Ch.17-19)"
+linkTitle: "The Harlot (Ch.17-19)"
+title: "The Harlot (Ch.17-19)"
 weight: 15
 ---
 

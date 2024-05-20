@@ -1,5 +1,6 @@
 ---
 title: "Jesus and the covenant"
+weight: 5
 ---
 
 

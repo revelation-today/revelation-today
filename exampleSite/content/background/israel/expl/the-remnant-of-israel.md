@@ -1,5 +1,6 @@
 ---
 title: "The remnant of Israel"
+weight: 4
 ---
 
 

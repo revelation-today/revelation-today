@@ -1,5 +1,6 @@
 ---
 title: "Die Gemeinde als Teil von Israel"
+weight: 6
 ---
 
 

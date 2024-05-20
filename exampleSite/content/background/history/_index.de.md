@@ -4,11 +4,6 @@ title: Geschichtlicher Hintergrund
 weight: 1
 ---
 
-
-<!--more-->
-
-{{< cards >}}
-  {{< card link="multi-language" title="Multi-language" icon="translate" >}}
-  {{< card link="customization" title="Customization" icon="pencil" >}}
-  {{< card link="comments" title="Comments System" icon="chat-alt" >}}
-{{< /cards >}}
+Die größten Herausforderungen für die Christen waren
+- der Römische Frieden - eine Herausforderung, den Glauben zu kompromittieren und eine große Propagandamaschine
+- die Beziehung zu Israel, wo die Kirche einerseits ein Teil Israels ist und andererseits die Juden eine der größten Herausforderungen für die Kirche darstellen

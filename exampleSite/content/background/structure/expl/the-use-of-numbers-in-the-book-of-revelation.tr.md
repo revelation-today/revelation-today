@@ -1,5 +1,6 @@
 ---
 title: "Vahiy Kitabı’nda sayıların kullanımı"
+weight: 40
 ---
 
 

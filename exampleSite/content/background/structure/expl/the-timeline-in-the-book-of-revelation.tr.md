@@ -1,5 +1,6 @@
 ---
 title: "Vahiy Kitabı’ndaki zaman çizelgesi"
+weight: 30
 ---
 
 

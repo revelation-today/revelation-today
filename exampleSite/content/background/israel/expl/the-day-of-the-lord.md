@@ -1,5 +1,6 @@
 ---
 title: "The day of the Lord and the remnant"
+weight: 3
 ---
 
 

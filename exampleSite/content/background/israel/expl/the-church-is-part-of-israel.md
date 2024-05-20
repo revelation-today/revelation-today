@@ -1,5 +1,6 @@
 ---
 title: "The church is part of Israel"
+weight: 6
 ---
 
 

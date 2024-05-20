@@ -1,5 +1,6 @@
 ---
 title: "Gerçek veya sembolik"
+weight: 20
 ---
 
 

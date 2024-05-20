@@ -1,5 +1,6 @@
 ---
 title: "Tanrı’nın antlaşması"
+weight: 2
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Der Aufbau der Offenbarung"
+weight: 10
 ---
 
 

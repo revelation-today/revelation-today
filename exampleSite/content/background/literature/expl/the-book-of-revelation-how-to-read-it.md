@@ -1,5 +1,6 @@
 ---
 title: "The book of revelation: How to read it?"
+weight: 10
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Voller biblischer Querverweise"
+weight: 30
 ---
 
 

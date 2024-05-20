@@ -1,5 +1,6 @@
 ---
 title: "The story of Balaam"
+weight: 30
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Der Tag des Herrn"
+weight: 3
 ---
 
 

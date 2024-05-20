@@ -1,5 +1,6 @@
 ---
 title: "İsrail ve kilise"
+weight: 7
 ---
 
 

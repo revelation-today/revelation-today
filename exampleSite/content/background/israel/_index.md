@@ -4,11 +4,8 @@ title: Israel
 weight: 5
 ---
 
+What is Israel and who belongs to Israel?
 
-<!--more-->
+This is a very interesting topic and even in the Old Testament not as you might think.
 
-{{< cards >}}
-  {{< card link="multi-language" title="Multi-language" icon="translate" >}}
-  {{< card link="customization" title="Customization" icon="pencil" >}}
-  {{< card link="comments" title="Comments System" icon="chat-alt" >}}
-{{< /cards >}}
+We will take some time to discover this from the oriental understanding of family and covenant up to the time of Jesus.

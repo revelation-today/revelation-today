@@ -1,5 +1,6 @@
 ---
 title: "Die Geschichte von Bileam"
+weight: 30
 ---
 
 

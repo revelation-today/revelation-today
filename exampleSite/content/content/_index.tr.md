@@ -4,6 +4,4 @@ title: "Kitabın içeriği"
 weight: 6
 ---
 
-Welcome to the Book of Revelation!
-
-<!--more-->
+Her bir ayete tek tek bakmayacağız, ancak ortaya çıkan ana konularda size rehberlik edeceğim.

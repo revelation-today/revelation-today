@@ -4,11 +4,5 @@ title: The structure of the book
 weight: 4
 ---
 
-
-<!--more-->
-
-{{< cards >}}
-  {{< card link="multi-language" title="Multi-language" icon="translate" >}}
-  {{< card link="customization" title="Customization" icon="pencil" >}}
-  {{< card link="comments" title="Comments System" icon="chat-alt" >}}
-{{< /cards >}}
+The book looks very chaotic and drives from one desaster straight to the next. But the opposite is the case. The book is very well organized and intentionally arranged.
+We will get a better look on this in these articles.

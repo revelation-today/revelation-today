@@ -1,5 +1,6 @@
 ---
 title: "İncil’den referanslarla dolu"
+weight: 30
 ---
 
 

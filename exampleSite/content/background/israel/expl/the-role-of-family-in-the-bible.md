@@ -1,5 +1,6 @@
 ---
 title: "The role of family in the Bible"
+weight: 1
 ---
 
 

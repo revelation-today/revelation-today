@@ -1,5 +1,6 @@
 ---
 title: "Der Bund Gottes"
+weight: 2
 ---
 
 

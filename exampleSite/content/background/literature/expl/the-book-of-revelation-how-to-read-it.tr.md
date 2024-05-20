@@ -1,5 +1,6 @@
 ---
 title: "Vahiy kitabı: Nasıl okunmalı?"
+weight: 10
 ---
 
 

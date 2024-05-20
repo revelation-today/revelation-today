@@ -1,5 +1,6 @@
 ---
 title: "Literarische Mittel in der Offenbarung"
+weight: 40
 ---
 
 

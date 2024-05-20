@@ -1,5 +1,6 @@
 ---
 title: "Gods covenant"
+weight: 2
 ---
 
 

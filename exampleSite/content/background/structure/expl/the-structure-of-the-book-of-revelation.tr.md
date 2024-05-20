@@ -1,5 +1,6 @@
 ---
 title: "Vahiy Kitabı’nın yapısı"
+weight: 10
 ---
 
 

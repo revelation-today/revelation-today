@@ -1,5 +1,6 @@
 ---
 title: "The three mysteries"
+weight: 20
 ---
 
 
@@ -53,7 +54,7 @@ This is shown in the life of [Jesus how He was victorious](../../../content/jesu
 [Now God is going into action and fighting for the hearts of the peoples and bringing down the kingdom of the devil](../../../content/bowls/expl/the-bowls-of-wrath), which brings us to the last topic.
 
 
-## The mystery of the whore
+## The mystery of the Harlot
 
 <a name="3f20"></a>
 The [last mystery](https://www.bibleserver.com/NIV/Revelation17%3A5) describes the church in the perfect state as the total opposite of the devil. There are several important points here:
@@ -70,7 +71,7 @@ The [last mystery](https://www.bibleserver.com/NIV/Revelation17%3A5) describes t
 This is the first attempt to give it some structure.
 
 
-| Topic | Church: back to Jesus | God: role model for the church | Whore: what the church should not be |
+| Topic | Church: back to Jesus | God: role model for the church | Harlot: what the church should not be |
 |-------|-----------------------|--------------------------------|--------------------------------------|
 | The Secret | [Secret of the church: light to world and depending on Jesus](https://www.bibleserver.com/NIV/Revelation1) (Rev. 1) | [Secret of God: God reigns](https://www.bibleserver.com/NIV/Revelation10) (Rev. 10-11/14) | [Secret of the harlot: enemy of God and the church, will perish](https://www.bibleserver.com/NIV/Revelation17) (Rev. 17) |
 | The Instruction | [Reality of the church: not following the vision](https://www.bibleserver.com/NIV/Revelation2) (Rev. 2-3) | [Solution for the church: Worship and be like Jesus](https://www.bibleserver.com/NIV/Revelation11%2C1-14) (Rev. 11/1-14) | [Warning to the church: be not like Babel](https://www.bibleserver.com/NIV/Revelation18) (Rev. 18) |

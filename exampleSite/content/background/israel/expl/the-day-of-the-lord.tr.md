@@ -1,5 +1,6 @@
 ---
 title: "Rab’bin günü ve kalanlar"
+weight: 3
 ---
 
 
