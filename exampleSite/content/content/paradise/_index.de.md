@@ -4,6 +4,9 @@ title: "Der neue Himmel und die neue Erde (Kap.21-22)"
 weight: 17
 ---
 
-Welcome to the Book of Revelation!
 
-<!--more-->
+Wie werden der neue Himmel und die neue Erde aussehen?
+
+Es wird ein großartiger Ort sein, aber das Schlüsselelement dieses Ortes ist die volle Gemeinschaft mit Gott und ein Leben in voller Hingabe an ihn.
+
+Das ist der Grund, warum der Himmel nicht für jeden ist ...
