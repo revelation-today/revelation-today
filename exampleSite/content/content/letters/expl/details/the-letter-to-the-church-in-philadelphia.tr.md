@@ -48,9 +48,10 @@ Mektupta ilginç bir ifade vardır: “[Sabırla dayanma buyruğumu yerine getir
 
 Tüm dünyanın üzerine gelen iz saati nedir? Ve İsa bizi bundan nasıl uzak tutmak istiyor? “[Sakınmak](https://biblehub.com/interlinear/revelation/3-10.htm)” kelimesi başka bir yerde sadece [Yuhanna İncili’nde](https://biblehub.com/interlinear/john/17-15.htm), havarileri için ettiği duada geçer: “[Duam onları dünyadan çıkarman değil, onları kötü olandan korumandır.](https://www.bibleserver.com/TR/Yuhanna17%3A15)”. İsa onları dünyadan çıkarmaktan değil, [Atasözleri](https://www.bibleserver.com/TR/%C3%96zdeyi%C5%9Fler7%3A5) ya da [Yakup’un Mektubu’nda](https://www.bibleserver.com/TR/Yakup1%3A27) olduğu gibi dünyadan korumaktan söz eder. Dolayısıyla, bu ifade temelde [Büyük Sıkıntı ](../../../../content/army/expl/the-end-time-and-the-great-tribulation)ile aynı durumu anlatmaktadır.
 
+## Daha derine inmek
 
+[Beale, Revelation, sayfalar 283–296](../../../../../about/ressources/index.html#beale_rev)
 
-
-
+[Gordon Fee, Revelation, sayfalar 50–51](../../../../../about/ressources/index.html#fee_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-philadelphia.tr.md)

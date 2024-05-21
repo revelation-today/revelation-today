@@ -60,18 +60,10 @@ God offers a new beginning if the church wants it. But [if they do not, Jesus wi
 <a name="3197"></a>
 - [The story of Balaam](../../../../bible/keyword/expl/the-story-of-balaam)
 
-
-
 ## Dig Deeper
 
-<a name="ea0e"></a>
-Beale, Revelation, pages 245–258
+[Beale, Revelation, pages 245–258](../../../../../about/ressources/index.html#beale_rev)
 
-Gordon Fee, Revelation, pages 33
-
-
-
-
-
+[Gordon Fee, Revelation, pages 33](../../../../../about/ressources/index.html#fee_rev)
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-pergamon.md)

@@ -54,10 +54,11 @@ Yargılama onun eylemleri temelinde yapılır:
 - [başkalarına uyguladığı](https://www.bibleserver.com/TR/Vahiy18%3A22-24) [aynı ölçülerle](https://www.bibleserver.com/TR/Vahiy18%3A6) yargılanır ([çifte ölçü, eşdeğer demenin farklı bir yoludur](https://meredithkline.com/klines-works/articles-and-essays/double-trouble/))
 - Bir rahibin kızının zina yapması durumunda verilen hüküm olan ateş tarafından tüketilir, Babil’den uzak durmak ve çekilmemek için bir başka güçlü uyarı
 
+## Daha fazla kazma
 
+[Beale, Revelation, sayfalar 890–948](../../../../about/ressources/index.html#beale_rev)
 
-
-
+[Bauckham, The climax of Prophecy, sayfalar 338–384](../../../../about/ressources/index.html#bauckham_climax)
 
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.tr.md)

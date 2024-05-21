@@ -85,11 +85,45 @@ John’s first impression is the glory of God, which even makes it impossible to
 
 
 
-The second point is the [rainbow](https://www.bibleserver.com/NIV/Revelation4%3A3). [This is a reminder of the covenant with Noah, where God put his bow there as a promise never to flood the earth again and to keep the seasons — no demands on Noah in this covenant](https://www.bibleserver.com/NIV/Genesis9%3A8-11). This throws another light on the character in the throne room. There are judgments, but they are limited.The last one is the [sea of glass](https://www.bibleserver.com/NIV/Revelation4%3A6). This has three associations:[Gods glory in heaven](https://www.bibleserver.com/NIV/Ezekiel1%3A22) and [during the the Exodus](https://www.bibleserver.com/NIV/Exodus24%3A10),the [bronze sea of the Temple of Solomon](https://www.bibleserver.com/NIV/2%20Kings25%3A13) and[Israel’s crossing of the Red Sea in the Exodus](https://www.bibleserver.com/NIV/Exodus15%3A8) (The sea is the [place of evil](https://www.bibleserver.com/NIV/Psalm74%3A10-17) including [evil people ](https://www.bibleserver.com/NIV/Isaiah57%3A20)and the sea of glass is a picture of congealed evil.)This indicates that God is close to His people and protects them. The saints will also be there during the plagues, but God will protect them.This is also the theme here, as you will see: Every series of plagues or announcement originates in the throne room. This is the central place in the book. Therefore, it is important to understand this place.
+The second point is the [rainbow](https://www.bibleserver.com/NIV/Revelation4%3A3). [This is a reminder of the covenant with Noah, where God put his bow there as a promise never to flood the earth again and to keep the seasons — no demands on Noah in this covenant](https://www.bibleserver.com/NIV/Genesis9%3A8-11). This throws another light on the character in the throne room. There are judgments, but they are limited.
 
+The last one is the [sea of glass](https://www.bibleserver.com/NIV/Revelation4%3A6). This has three associations:
+- [Gods glory in heaven](https://www.bibleserver.com/NIV/Ezekiel1%3A22) and [during the the Exodus](https://www.bibleserver.com/NIV/Exodus24%3A10),
+- the [bronze sea of the Temple of Solomon](https://www.bibleserver.com/NIV/2%20Kings25%3A13) and
+- [Israel’s crossing of the Red Sea in the Exodus](https://www.bibleserver.com/NIV/Exodus15%3A8) 
 
+The sea is the [place of evil](https://www.bibleserver.com/NIV/Psalm74%3A10-17) including [evil people ](https://www.bibleserver.com/NIV/Isaiah57%3A20) and the sea of glass is a picture of congealed evil.
 
-When we look at the coming events, we see this[The seals have tremendous trouble, but they are there to expose Satan’s wickedness](../../../../content/seals/expl/the-mystery-of-the-four-horse-men), to save as many as possible, and to come with a quick end.[The trumpets expose the false things that people rely on, and in the fifth and sixth trumpets, the cause of the trouble is the demons that people rely on](../../../../content/trumpets/expl/the-trumpets-in-revelation).[The bowls are the place where God puts everything so that the people will not be deceived and go down with the beast in the sixth and seventh bowls.](../../../../content/bowls/expl/the-bowls-of-wrath)The worshipIn ancient times, the temple (which is a reflection of the heavenly throne room) is a representation of the world. God is in the center, and everything around him finds its place in relation to him.We have the creation represented by [the four creatures](https://www.bibleserver.com/NIV/Revelation4%3A7) inspired by [Ezekiel](https://www.bibleserver.com/NIV/Ezekiel1%3A5-21)Lion, the ruler of the land animalsOx, the strongest of the domesticated animalsMan as the ruler of creationEagle as ruler of the airThey are joined by the [24 elders](https://www.bibleserver.com/NIV/Revelation4%3A4), reflecting the [24 orders of priests](https://www.bibleserver.com/NIV/1%20Chronicles24%3A3-19), [24 Levithical gatekeepers](https://www.bibleserver.com/NIV/1%20Chronicles26%3A17-19) and [24 permanent worshipers](https://www.bibleserver.com/NIV/1%20Chronicles25) introduced by David, but also the 12 tribes of Israel and the 12 apostles as the foundation of the church. This means that Israel and the Church are to be understood as one in spite of all the conflicts. The church is defined as a church of worship.Further reading[The seven seals](../../../../content/seals/expl/the-book-with-the-seven-seals)[What is worship?](../../../../topics/power/short/worship)Dig DeeperBeale, Revelation, pages 311–337
+This indicates that God is close to His people and protects them. The saints will also be there during the plagues, but God will protect them.
+
+This is also the theme here, as you will see: Every series of plagues or announcement originates in the throne room. This is the central place in the book. Therefore, it is important to understand this place.
+
+When we look at the coming events, we see this
+- [The seals have tremendous trouble, but they are there to expose Satan’s wickedness](../../../../content/seals/expl/the-mystery-of-the-four-horse-men), to save as many as possible, and to come with a quick end.
+- [The trumpets expose the false things that people rely on, and in the fifth and sixth trumpets, the cause of the trouble is the demons that people rely on](../../../../content/trumpets/expl/the-trumpets-in-revelation).
+- [The bowls are the place where God puts everything so that the people will not be deceived and go down with the beast in the sixth and seventh bowls.](../../../../content/bowls/expl/the-bowls-of-wrath)
+
+## The worship
+
+In ancient times, the temple (which is a reflection of the heavenly throne room) is a representation of the world. God is in the center, and everything around him finds its place in relation to him.
+
+We have the creation represented by [the four creatures](https://www.bibleserver.com/NIV/Revelation4%3A7) inspired by [Ezekiel](https://www.bibleserver.com/NIV/Ezekiel1%3A5-21)
+- Lion, the ruler of the land animals
+- Ox, the strongest of the domesticated animals
+- Man as the ruler of creation
+- Eagle as ruler of the air
+
+They are joined by the [24 elders](https://www.bibleserver.com/NIV/Revelation4%3A4), reflecting the [24 orders of priests](https://www.bibleserver.com/NIV/1%20Chronicles24%3A3-19), [24 Levithical gatekeepers](https://www.bibleserver.com/NIV/1%20Chronicles26%3A17-19) and [24 permanent worshipers](https://www.bibleserver.com/NIV/1%20Chronicles25) introduced by David, but also the 12 tribes of Israel and the 12 apostles as the foundation of the church. This means that Israel and the Church are to be understood as one in spite of all the conflicts. The church is defined as a church of worship.
+
+## Further reading
+
+[The seven seals](../../../../content/seals/expl/the-book-with-the-seven-seals)
+
+[What is worship?](../../../../topics/power/short/worship)
+
+## Dig Deeper
+
+[Beale, Revelation, pages 311–337](../../../../about/ressources/index.html#beale_rev)
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/expl/worship-in-the-throne-room.md)

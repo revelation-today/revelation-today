@@ -48,9 +48,10 @@ Beyaz elbiseler mahkemede aklanmanın bir işaretidir.
 
 Yaşam kitabından isimlerin silinmemesi, cennetteki vatandaşlıklarını kaybetmedikleri anlamına gelir. Ama sadece tövbe ederlerse. Bu bir uyandırma çağrısıdır! Şok etme amaçlı.
 
+## Daha derine inmek
 
+[Beale, Revelation, sayfalar 272–282](../../../../../about/ressources/index.html#beale_rev)
 
-
-
+[Gordon Fee, Revelation, sayfalar 44–45](../../../../../about/ressources/index.html#fee_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-sardis.tr.md)

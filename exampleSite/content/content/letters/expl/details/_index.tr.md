@@ -69,10 +69,8 @@ Thyatira: Ana mesaj budur ve ana nokta kötü bir önderliktir ve İsa herkesin 
 - [Philadelphia’daki kilise](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
 - [Laodikya’daki kilise](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
 
+## Daha derine inmek
 
-
-
-
-
+[Beale, Revelation, sayfalar 223–228](../../../../about/ressources/index.html#aune_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letters-to-the-seven-churches.tr.md)

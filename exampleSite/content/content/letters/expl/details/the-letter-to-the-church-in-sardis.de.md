@@ -48,7 +48,11 @@ Die weißen Gewänder sind ein Zeichen des Freispruchs vor Gericht.
 
 Dass ihr Name nicht aus dem Buch des Lebens gestrichen wird, bedeutet, dass sie ihr Bürgerrecht im Himmel nicht verlieren. Aber nur, wenn sie Buße tun. Das ist ein Weckruf! Die Absicht ist, die Gemeinde aufzurütteln und zu erschüttern.
 
+## Zur Vertiefung
 
 
+[Beale, Revelation, Seiten 272–282](../../../../../about/ressources/index.html#beale_rev)
+
+[Gordon Fee, Revelation, Seiten 44–45](../../../../../about/ressources/index.html#fee_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-sardis.de.md)

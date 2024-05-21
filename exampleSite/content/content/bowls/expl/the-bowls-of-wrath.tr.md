@@ -58,8 +58,10 @@ Altıncı kaseye biraz daha yakından bakmamız gerekiyor.
 <a name="d877"></a>
 - [Armageddon](../../../../content/bowls/expl/the-key-to-armageddon)
 
+## Daha fazla kazma
 
 
+[Beale, Revelation, sayfalar 681–730](../../../../about/ressources/index.html#beale_rev)
 
 
 

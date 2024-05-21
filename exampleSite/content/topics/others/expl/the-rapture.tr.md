@@ -124,12 +124,6 @@ Göğe alınma argümanı, farklı durumları tanımlayan, yanlış bir şekilde
 
 ### Daha fazla kazma
 
-<a name="7bf2"></a>
-[Rossing: The rapture exposed](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#8c07)
-
-
-
-
-
+[Barabara Rossing, The rapture exposed, sayfalar 173-186](../../../../about/ressources/index.html#rossing)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/the-rapture.tr.md)

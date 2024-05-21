@@ -91,10 +91,8 @@ Dolayısıyla dehşete düşmüş kelimesi “bunalmış” olarak daha iyi terc
 <a name="0922"></a>
 - [Küçük parşömen](../../../../content/scroll/expl/the-little-scroll)
 
+## Daha derine inmek
 
-
-
-
-
+[Beale, Revelation, sayfalar 445–520](../../../../about/ressources/index.html#beale_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/expl/the-trumpets-in-revelation.tr.md)

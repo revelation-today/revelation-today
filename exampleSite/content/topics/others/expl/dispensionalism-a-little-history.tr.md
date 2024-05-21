@@ -49,10 +49,8 @@ Since then Dispensionalism has spread and has a wide variety but has some core [
 <a name="f0c3"></a>
 - [Dispensionalizm Üzerine Eleştiri](../../../../topics/others/expl/dispensionalism-and-its-critic)
 
+## Daha derine inmek
 
-
-
-
-
+[Köster, Revelation and the end of all things, sayfalar 11–67](../../../../about/ressources/index.html#koester_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-a-little-history.tr.md)

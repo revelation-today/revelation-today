@@ -176,10 +176,12 @@ Her ikisi de [üstün gelen İsa’yı](https://www.bibleserver.com/TR/Vahiy12%3
 <a name="3d34"></a>
 - [Tanıklığın gücü](../../../../topics/power/short/the-power-of-testimony)
 
+## Daha derine inmek
 
+[Beale, Revelation, sayfalar 556–620](../../../../about/ressources/index.html#beale_rev)
 
+[Bauckham , Revelation, sayfalar 84–88](../../../../about/ressources/index.html#bauckham_rev)
 
-
-
+[Bauckham, The climax of Prophecy, sayfalar 266–283](../../../../about/ressources/index.html#bauckham_climax)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/expl/the-two-witnesses.tr.md)

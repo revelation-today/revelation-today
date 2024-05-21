@@ -54,9 +54,8 @@ Kilise, aynı zamanda iki ana ortak noktası olan iki farklı resimle tanımlanm
 
 Kilisenin amacı dünyaya ışık olmaları, dünyanın kurtulmasıdır. Kitabın amacı budur ve kilisenin sınandığı şey de budur: Kilise ulusları ikna eden bir tanıklık mı?
 
+## Daha derine inmek
 
-
-
-
+[Beale, Revelation, sayfalar 205–222](../../../../about/ressources/index.html#aune_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-vision.tr.md)

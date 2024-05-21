@@ -124,6 +124,12 @@ Teori, siyaset hakkında Kutsal Kitap’a dayanmayan ve hatta çelişen açıkla
 <a name="b176"></a>
 Eğer çok daha fazla ayrıntıya girmek isterseniz, “[The rapture exposed](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143)” başlıklı makaleye bir göz atın.
 
+## Daha derine inmek
+
+
+[Barabara Rossing, The rapture exposed, sayfalar 173-186](../../../../about/ressources/index.html#rossing)
+
+[Michael Goreman, Reading reveleation resposnsibly, sayfalar 69–73](../../../../about/ressources/index.html#goreman)
 
 
 

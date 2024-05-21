@@ -53,9 +53,10 @@ Durun bir dakika: Taht Odasında kimse oturmuyor, herkes ayakta duruyor!
 
 Peki bu Laodikya için ne anlama geliyor? Bu motivasyon onlar için yeterli mi?
 
+## Daha derine inmek
 
+[Beale, Revelation, sayfalar 296–310](../../../../../about/ressources/index.html#beale_rev)
 
-
-
+[Gordon Fee, Revelation, sayfalar 57](../../../../../about/ressources/index.html#fee_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-laodicea.tr.md)

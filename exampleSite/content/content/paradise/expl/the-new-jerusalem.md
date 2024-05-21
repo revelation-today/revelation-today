@@ -284,12 +284,7 @@ The [name on the forehead](https://www.bibleserver.com/NIV/Revelation22%3A4) was
 
 ## Dig Deeper
 
-<a name="af1d"></a>
-Beale, Revelation, pages 1039–1121
-
-
-
-
+[Beale, Revelation, pages 1039–1121](../../../../about/ressources/index.html#beale_rev)
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/the-new-jerusalem.md)

@@ -73,6 +73,11 @@ In the [reference articles](../../../../gen/index/expl/overview-on-the-book-of-r
 
 [A good book](https://www.perlego.com/book/878981/revelation-pdf), but not really a main source of content for me.
 
+<a name="koester_rev"></a>
+
+### Köster, Revelation and the end of all things
+
+[An easy book to read](https://www.amazon.de/Revelation-End-Things-Craig-Koester/dp/0802846602)
 
 ## Complementing topics
 

@@ -57,12 +57,7 @@ The point of the church is to be light for the world, for the world to be saved.
 
 ### Dig Deeper
 
-<a name="afaf"></a>
-Beale, Revelation, pages 205–222
-
-
-
-
+[Beale, Revelation, pages 205–222](../../../../about/ressources/index.html#aune_rev)
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-vision.md)

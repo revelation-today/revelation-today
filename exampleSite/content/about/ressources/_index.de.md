@@ -79,6 +79,11 @@ Es ist ein [kompromiertes und sehr interessantes Buch,](https://www.wob.com/en-g
 
 [Ein gutes Buch](https://www.perlego.com/book/878981/revelation-pdf), aber nicht wirklich eine Quelle für mich.
 
+<a name="koester_rev"></a>
+
+### Köster, Revelation and the end of all things
+
+[Einfach zu lesen](https://www.amazon.de/Revelation-End-Things-Craig-Koester/dp/0802846602)
 
 ## Weitere Themen
 

@@ -117,8 +117,9 @@ Die Theorie macht Aussagen über die Welt, die nicht in der Bibel stehen oder ih
 
 ## Zum Weiterlesen
 
-<a name="3fe4"></a>
-“[The rapture exposed](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143)”
+[Barabara Rossing, The rapture exposed, Seiten 173-186](../../../../about/ressources/index.html#rossing)
+
+[Michael Goreman, Reading reveleation resposnsibly, Seiten 69–73](../../../../about/ressources/index.html#goreman)
 
 
 

@@ -51,14 +51,8 @@ The fact that names are not blotted out of the Book of Life means that they do n
 
 ## Dig Deeper
 
-<a name="658d"></a>
-Beale, Revelation, pages 272–282
+[Beale, Revelation, pages 272–282](../../../../../about/ressources/index.html#beale_rev)
 
-Gordon Fee, Revelation, pages 44–45
-
-
-
-
-
+[Gordon Fee, Revelation, pages 44–45](../../../../../about/ressources/index.html#fee_rev)
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-sardis.md)

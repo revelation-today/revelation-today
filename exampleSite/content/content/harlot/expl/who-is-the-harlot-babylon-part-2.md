@@ -57,7 +57,7 @@ This could be compelling and attractive for the church when it is in persecution
 
 ## Dig Deeper
 
-Beale, Revelation, pages 847–890
+[Beale, Revelation, pages 847–890](../../../../about/ressources/index.html#beale_rev)
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-2.md)

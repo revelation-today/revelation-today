@@ -281,7 +281,8 @@ Alles Böse ist verschwunden, und wir können uns ganz auf den Dienst an Gott ko
 
 Der [Name auf der Stirn](https://www.bibleserver.com/SLT/Offenbarung22%2C4) war ursprünglich [auf der Stirn der Priester](https://www.bibleserver.com/SLT/2.Mose28%2C36-38) und zeigt, dass [der Charakter Gottes in ihnen und nun uns eingeprägt ist](https://www.bibleserver.com/SLT/1.Johannes3%2C2).
 
+## Zur Vertiefung
 
-
+[Beale, Revelation, Seiten 1039–1121](../../../../about/ressources/index.html#beale_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/the-new-jerusalem.de.md)

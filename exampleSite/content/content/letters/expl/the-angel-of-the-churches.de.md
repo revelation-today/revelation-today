@@ -58,8 +58,7 @@ Warum aber sollten Gemeinden als Engel bezeichnet werden?
 
 ## Zur Vertiefung
 
-<a name="61f6"></a>
-Aune, Revelation, Seite 108–112
+[Aune, Revelation, Seiten 108–112](../../../../about/ressources/index.html#aune_rev)
 
 
 

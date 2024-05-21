@@ -102,7 +102,7 @@ The time is near and the Church should act. As Jesus did everything, the Church 
 ## Digging deeper
 
 <a name="c849"></a>
-[Beale, Relevation, pages 181–222](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
+[Beale, Relevation, pages 181–222](../../../../about/ressources/index.html#beale_rev)
 
 
 

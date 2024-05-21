@@ -70,8 +70,11 @@ Armagedon, Yeni Ahit’in tamamında, özellikle de Vahiy kitabında gördüğü
 <a name="1244"></a>
 - [Karkamış Savaşı](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
+## Daha fazla kazma
 
+[Beale, Revelation, sayfalar 838-841](../../../../about/ressources/index.html#beale_rev)
 
+[Fee, Revelation, sayfalar 224-225](../../../../about/ressources/index.html#fee_rev)
 
 
 

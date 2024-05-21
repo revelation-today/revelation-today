@@ -51,9 +51,8 @@ Ve Tanrı acı çekenler adına hareket ederek haklılığını ortaya koyar.
 
 Başkalarına yaşattığımız acılardan sorumluyuz. Haksızlığımız tek bir duayla silinip gitmez. Tanrı taştan yüreğimizin değişmesini ister.
 
+## Daha derine inmek
 
-
-
-
+[Beale, Revelation, sayfalar 395–404](../../../../about/ressources/index.html#beale_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-wrath-of-the-lamb.tr.md)

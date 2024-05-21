@@ -44,7 +44,8 @@ Aber was genau sagt das Büchlein? Dazu müssen wir die nächsten Kapitel lesen.
 <a name="dfe1"></a>
 - [Die beiden Zeugen](../../../../content/witnesses/expl/the-two-witnesses)
 
+## Zur Vertiefung
 
-
+[Beale, Revelation, Seiten 520–555](../../../../about/ressources/index.html#beale_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.de.md)

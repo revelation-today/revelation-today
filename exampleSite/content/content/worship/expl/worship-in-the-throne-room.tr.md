@@ -126,10 +126,8 @@ Onlara, Davut’un tanıttığı [24 kâhin](https://www.bibleserver.com/TR/1.Ta
 - [Yedi mühür](../../../../content/seals/expl/the-book-with-the-seven-seals)
 - [İbadet nedir?](../../../../topics/power/short/worship)
 
+## Daha derine inmek
 
-
-
-
-
+[Beale, Revelation, sayfalar 311–337](../../../../about/ressources/index.html#beale_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/expl/worship-in-the-throne-room.tr.md)

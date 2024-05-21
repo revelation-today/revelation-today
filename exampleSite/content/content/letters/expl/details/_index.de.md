@@ -67,6 +67,9 @@ Und hier im Einzelnen:
 - [Der Brief an Philadelphia](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
 - [Der Brief an Laodizea](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
 
+## Zur Vertiefung
+
+[Beale, Revelation, Seiten 223–228](../../../../about/ressources/index.html#aune_rev)
 
 
 

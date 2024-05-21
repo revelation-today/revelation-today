@@ -54,7 +54,11 @@ Yaşam ağacından yeme vaadi onları bahçede Tanrı’yla olan sorunsuz ilişk
 
 [Ve Yeni Yeruşalim’de bir vaatleri vardır](https://www.bibleserver.com/TR/Vahiy22%3A1-5).
 
+## Daha derine inmek
 
+[Beale, Revelation, sayfalar 228–239](../../../../../about/ressources/index.html#beale_rev)
+
+[Gordon Fee, Revelation, sayfalar 24](../../../../../about/ressources/index.html#fee_rev)
 
 
 

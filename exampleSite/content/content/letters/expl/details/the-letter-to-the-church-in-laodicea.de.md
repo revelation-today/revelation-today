@@ -53,7 +53,11 @@ Moment mal: Im Thronsaal sitzt niemand, alle stehen!
 
 Was bedeutet das nun für Laodizea? Ist das Motivation genug für sie?
 
+## Zur Vertiefung
 
+[Beale, Revelation, Seiten 296–310](../../../../../about/ressources/index.html#beale_rev)
+
+[Gordon Fee, Revelation, Seiten 57](../../../../../about/ressources/index.html#fee_rev)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-laodicea.de.md)

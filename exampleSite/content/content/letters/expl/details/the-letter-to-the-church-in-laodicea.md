@@ -27,11 +27,32 @@ Jesus comes to this church as the “True Witness” and the “Amen” because 
 ## The Problem
 
 <a name="d6b2"></a>
-So Jesus approaches them at eye level. He comes as a merchant and offers them free goods. The same goods they think they already have the best version of. They have the idea that living a “good” life is enough to be a great church (no big sins, tithing, reading the Bible, …).
+So Jesus approaches them at eye level. He comes as a merchant and offers them free goods. The same goods they think they already have the best version of. They have the idea that living a “good” life is enough to be a great church (no big sins, tithing, reading the Bible, ...).
 
 
+The problem is that they are lukewarm. Let me explain this a little bit: It does not refer to being on fire for Jesus or being a hardcore atheist, but it actually has to do with water.
 
-The problem is that they are lukewarm. Let me explain this a little bit: It does not refer to being on fire for Jesus or being a hardcore atheist, but it actually has to do with water.In those days, water was good in two states:Hot: so it could be used like hot springs for healing purposes.Cold: so it was refreshing to drinkBut Laodicea had neither — only lukewarm water that you spit out when you drank it.There are many ways to be an effective church, such as evangelism, prayer, healing, ministering to the poor, or other ministries. They have a purpose, but Laodicea had none of these things and therefore was of no use, like lukewarm water.The solutionJesus calls them out of their complacency and knocks at their door. This is not the altar call of the unbeliever, but [the call of the lover to the beloved](https://www.bibleserver.com/NIV/Song%20of%20Solomon5%3A1-5).And IF they listen, they will SIT with Him on the throne in the throne room of God.Now wait a minute: No one sits in the throne room, everyone stands!So what does that mean for Laodicea? Is this motivation enough for them?Dig DeeperBeale, Revelation, pages 296–310Gordon Fee, Revelation, pages 57
+In those days, water was good in two states:
+- Hot: so it could be used like hot springs for healing purposes.
+- Cold: so it was refreshing to drink
+
+But Laodicea had neither — only lukewarm water that you spit out when you drank it.
+
+There are many ways to be an effective church, such as evangelism, prayer, healing, ministering to the poor, or other ministries. They have a purpose, but Laodicea had none of these things and therefore was of no use, like lukewarm water.
+
+## The solution
+
+Jesus calls them out of their complacency and knocks at their door. This is not the altar call of the unbeliever, but [the call of the lover to the beloved](https://www.bibleserver.com/NIV/Song%20of%20Solomon5%3A1-5).
+
+And IF they listen, they will SIT with Him on the throne in the throne room of God.
+
+Now wait a minute: No one sits in the throne room, everyone stands!So what does that mean for Laodicea? Is this motivation enough for them?
+
+## Dig Deeper
+
+[Beale, Revelation, pages 296–310](../../../../../about/ressources/index.html#beale_rev)
+
+[Gordon Fee, Revelation, pages 57](../../../../../about/ressources/index.html#fee_rev)
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-laodicea.md)

@@ -47,7 +47,9 @@ Da sich der Dispensionalismus stark verbreitet hat, gibt es eine große Vielzahl
 <a name="1467"></a>
 - [Kritik am Dispensionalismus](../../../../topics/others/expl/dispensionalism-and-its-critic)
 
+## Zur Vertiefung
 
+[Köster, Revelation and the end of all things, Seiten 11–67](../../../../about/ressources/index.html#koester_rev)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-a-little-history.de.md)

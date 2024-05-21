@@ -70,8 +70,11 @@ Armageddon represents a paradox that we see throughout the New Testament, especi
 <a name="840b"></a>
 - [The battle of Karkemish](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
+## Dig deeper
 
+[Beale, Revelation, pages 838-841](../../../../about/ressources/index.html#beale_rev)
 
+[Fee, Revelation, pages 224-225](../../../../about/ressources/index.html#fee_rev)
 
 
 

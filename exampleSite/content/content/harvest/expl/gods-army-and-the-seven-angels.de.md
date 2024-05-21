@@ -104,7 +104,13 @@ Das alles ist der Inhalt des Liedes von Mose und dem Lamm. Die Geschichte lautet
 
 Dieses Lied ist eine Proklamation, dass alle Völker kommen, um Gott anzubeten. Er tut dies, indem er ihre Feinde richtet. Der Jubel gilt nicht der Rettung der Märtyrer, sondern der Rettung der Völker durch Gott.In den folgenden Schalen sehen wir, wie Gott mit den Völkern umgeht, die sich weigern, ihn anzubeten und stattdessen dem Tier treu sind.
 
+## Zur Vertiefung
 
+[Beale, Revelation, Seiten 730–784](../../../../about/ressources/index.html#beale_rev)
+
+[Bauckham, Revelation, Seiten 98–104](../../../../about/ressources/index.html#bauckham_rev)
+
+[Bauckham, The climax of Prophecy, Seiten 283–307](../../../../about/ressources/index.html#bauckham_climax)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/expl/gods-army-and-the-seven-angels.de.md)

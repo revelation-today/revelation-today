@@ -100,8 +100,9 @@ Bu dönemde İsa doğdu ve [Kral Hirodes onu öldürmek üzereyken](https://www.
 - [Kutsal olmayan üçlünün hikayesi](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 - [Vahiy kitabının yapısı](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
+## Daha fazla kazma
 
-
+[Beale, Revelation, sayfalar 621–681](../../../../about/ressources/index.html#beale_rev)
 
 
 

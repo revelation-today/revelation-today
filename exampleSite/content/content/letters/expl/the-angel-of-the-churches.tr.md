@@ -55,10 +55,9 @@ Ayrıca
 - [Kiliseler için mektup](../../../../content/letters/expl/the-letters-to-the-seven-churches)
 - [Bir kahraman nedir](../../../../topics/hero/short/a-real-hero)
 
+## Daha derine inmek
 
-
-
-
+[Aune, Revelation, sayfalar 108–112](../../../../about/ressources/index.html#aune_rev)
 
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-angel-of-the-churches.tr.md)

@@ -58,7 +58,9 @@ Die Botschaft dieser Ekfrasis ist es zu zeigen, dass
 - Wenn du von Rom getäuscht wirst, gibt es wenig Hoffnung für dich.
 - Die Täuschung ist so groß, dass es schwer ist, sie zu übersehen. Wer sie einmal gesehen hat, kann sie nicht mehr übersehen.
 
+## Zur Vertiefung
 
+[Aune, Revelation, Seiten 919–928](../../../../about/ressources/index.html#aune_rev)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire.de.md)

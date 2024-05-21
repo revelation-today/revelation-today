@@ -99,6 +99,9 @@ Für die Gemeinschaft ist es eine Versuchung
 <a name="296c"></a>
 - [Babel als Spottlied auf das Römische Reich](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
 
+## Zur Vertiefung
+
+[Beale, Revelation, Seiten 847–890](../../../../about/ressources/index.html#beale_rev)
 
 
 

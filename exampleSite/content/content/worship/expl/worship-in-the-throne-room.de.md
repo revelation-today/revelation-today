@@ -126,7 +126,8 @@ Dazu kommen die [24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4)
 - [Die sieben Siegel](../../../../content/seals/expl/the-book-with-the-seven-seals)
 - [Was ist Anbetung?](../../../../topics/power/short/worship)
 
+## Zur Vertiefung
 
-
+[Beale, Revelation, Seiten 311–337](../../../../about/ressources/index.html#beale_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/expl/worship-in-the-throne-room.de.md)

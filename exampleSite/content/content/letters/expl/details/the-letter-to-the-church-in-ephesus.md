@@ -57,10 +57,9 @@ And they have a [promise in the New Jerusalem](https://www.bibleserver.com/NIV/R
 
 ## Dig Deeper
 
-<a name="68f0"></a>
-Beale, Revelation, pages 228–239
+[Beale, Revelation, pages 228–239](../../../../../about/ressources/index.html#beale_rev)
 
-Gordon Fee, Revelation, page 24
+[Gordon Fee, Revelation, page 24](../../../../../about/ressources/index.html#fee_rev)
 
 
 

@@ -97,7 +97,9 @@ Bu, zulüm ya da yoksulluk içindeyken ve daha fazla zenginlik ve insani değer 
 - [İmparatorlukla alay eder gibi Babil](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
 
 
+## Daha fazla kazma
 
+[Beale, Revelation, sayfalar 847–890](../../../../about/ressources/index.html#beale_rev)
 
 
 

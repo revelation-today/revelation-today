@@ -59,8 +59,7 @@ So why should the churches be addressed as angels?
 
 ## Dig Deeper
 
-<a name="945a"></a>
-Aune, Revelation, pages 108–112
+[Aune, Revelation, pages 108–112](../../../../about/ressources/index.html#aune_rev)
 
 
 

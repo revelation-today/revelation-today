@@ -121,14 +121,8 @@ The theory makes statements about politics that are unsupported by the Bible and
 
 ## Dig Deeper
 
-<a name="bd40"></a>
-Barabara Rossing, [The rapture exposed](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143)”
+[Barabara Rossing, The rapture exposed, pages 173-186](../../../../about/ressources/index.html#rossing)
 
-Michael Goreman, Reading reveleation resposnsibly, pages 69–73
-
-
-
-
-
+[Michael Goreman, Reading reveleation resposnsibly, pages 69–73](../../../../about/ressources/index.html#goreman)
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-and-its-critic.md)

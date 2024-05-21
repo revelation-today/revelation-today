@@ -49,7 +49,8 @@ Und Gott wirkt für die Leidenden und gibt ihnen Ruhe.
 
 Wir sind verantwortlich für das Leid, das wir anderen zufügen. Unsere Ungerechtigkeit wird nicht durch ein paar Gebete weggewischt. Gott will unser steinernes Herz verwandeln.
 
+## Zur Vertiefung
 
-
+[Beale, Revelation, pages 395–404](../../../../about/ressources/index.html#beale_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-wrath-of-the-lamb.de.md)

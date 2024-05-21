@@ -54,12 +54,6 @@ We are responsible for the suffering we cause others. Our wickedness is not just
 
 ## Dig Deeper
 
-<a name="1a29"></a>
-Beale, Revelation, pages 395–404
-
-
-
-
-
+[Beale, Revelation, pages 395–404](../../../../about/ressources/index.html#beale_rev)
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-wrath-of-the-lamb.md)

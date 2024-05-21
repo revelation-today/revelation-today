@@ -120,10 +120,8 @@ Yani şeytanın cazip teklifi ne olursa olsun ve ne kadar İsa’ya benziyor olu
 - [144 000](../../../../content/army/expl/the-144000)
 - [Trompetler](../../../../content/trumpets/expl/the-trumpets-in-revelation)
 
+## Daha derine inmek
 
-
-
-
-
+[Beale, Revelation, sayfalar 370–395](../../../../about/ressources/index.html#beale_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-mystery-of-the-four-horse-men.tr.md)

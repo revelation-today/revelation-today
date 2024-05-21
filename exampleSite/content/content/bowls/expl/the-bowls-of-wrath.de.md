@@ -60,6 +60,10 @@ Auch [die drei Frösche aus dem Maul des Drachens](https://www.bibleserver.com/S
 - [Harmagedon](../../../../content/bowls/expl/the-key-to-armageddon)
 
 
+## Zur Vertiefung
+
+[Beale, Revelation, Seiten 681–730](../../../../about/ressources/index.html#beale_rev)
+
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-bowls-of-wrath.de.md)

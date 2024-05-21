@@ -58,10 +58,9 @@ Yani ekphrasis’in amacı şunu göstermektir
 - Roma tarafından kandırılırsanız sizin için çok az umut vardır
 - bu aldatmaca o kadar büyük ki, gözden kaçırmak zor
 
+## Daha fazla kazma
 
-
-
-
+[Aune, Revelation, sayfalar 919–928](../../../../about/ressources/index.html#aune_rev)
 
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire.tr.md)

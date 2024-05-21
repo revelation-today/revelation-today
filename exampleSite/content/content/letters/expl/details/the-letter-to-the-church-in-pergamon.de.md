@@ -60,7 +60,10 @@ Gott bietet der Gemeinde eine neue Identität an, wenn sie es will. Wenn [nicht,
 <a name="52ab"></a>
 - [Die Geschichte von Bileam](../../../../content/beasts/expl/666-the-number-of-the-beast)
 
+## Zur Vertiefung
 
+[Beale, Revelation, Seiten 245–258](../../../../../about/ressources/index.html#beale_rev)
 
+[Gordon Fee, Revelation, Seiten 33](../../../../../about/ressources/index.html#fee_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-pergamon.de.md)

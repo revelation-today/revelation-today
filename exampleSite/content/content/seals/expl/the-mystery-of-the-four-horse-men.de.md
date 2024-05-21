@@ -118,7 +118,8 @@ So verlockend das Angebot Satans auch sein mag, so sehr es auch nach Jesus kling
 - [Die 144 000](../../../../content/army/expl/the-144000)
 - [Die Posaunen](../../../../content/trumpets/expl/the-trumpets-in-revelation)
 
+## Zur Vertiefung
 
-
+[Beale, Revelation, Seiten 370–395](../../../../about/ressources/index.html#beale_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-mystery-of-the-four-horse-men.de.md)

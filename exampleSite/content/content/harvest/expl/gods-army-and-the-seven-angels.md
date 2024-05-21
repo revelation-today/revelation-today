@@ -111,12 +111,11 @@ So, with the bowls of wrath, we see God dealing with the nations that refuse to 
 
 ## Dig Deeper
 
-<a name="3032"></a>
-Beale, Revelation, pages 730–784
+[Beale, Revelation, pages 730–784](../../../../about/ressources/index.html#beale_rev)
 
-Bauckham, Revelation, pages 98–104
+[Bauckham, Revelation, pages 98–104](../../../../about/ressources/index.html#bauckham_rev)
 
-Bauckham, The climax of Prophecy, pages 283–307
+[Bauckham, The climax of Prophecy, pages 283–307](../../../../about/ressources/index.html#bauckham_climax)
 
 
 

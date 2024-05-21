@@ -54,7 +54,8 @@ Die Gemeinde wird durch zwei Bilder beschrieben, die auch zwei Elemente gemeinsa
 
 Die Aussage ist also, dass die Gemeinde Licht in der Welt sein soll, damit die Welt gerettet wird, aber die Gemeinde muss auch ganz von Jesus abhängig sein. Und das ist der Punkt, an dem die Gemeinde geprüft wird: Ist sie ein Zeugnis, das in völliger Abhängigkeit von Jesus die Völker überzeugt?
 
+## Zur Vertiefung
 
-
+[Beale, Revelation, Seiten 205–222](../../../../about/ressources/index.html#aune_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-vision.de.md)

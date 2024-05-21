@@ -60,10 +60,10 @@ Kilise isterse Tanrı yeni bir başlangıç sunar. [Ama istemezlerse, İsa onlar
 <a name="e4dd"></a>
 - [Balam’ın öyküsü](../../../../bible/keyword/expl/the-story-of-balaam)
 
+## Daha derine inmek
 
+[Beale, Revelation, sayfalar 245–258](../../../../../about/ressources/index.html#beale_rev)
 
-
-
-
+[Gordon Fee, Revelation, sayfalar 33](../../../../../about/ressources/index.html#fee_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-pergamon.tr.md)

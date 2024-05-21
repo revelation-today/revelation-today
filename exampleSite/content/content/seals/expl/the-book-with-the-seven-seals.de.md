@@ -40,7 +40,8 @@ Nach einem Einschub über die [144.000](../../../../content/army/expl/the-144000
 <a name="87c6"></a>
 - [Die apokalyptischen Reiter](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
 
+## Zur Vertiefung
 
-
+[Beale, Revelation, Seiten 337–369](../../../../about/ressources/index.html#beale_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-book-with-the-seven-seals.de.md)

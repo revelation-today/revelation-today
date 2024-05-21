@@ -51,10 +51,9 @@ What is the hour of trail that will come upon the whole earth? And how will Jesu
 
 ## Dig Deeper
 
-<a name="1087"></a>
-Beale, Revelation, pages 283–296
+[Beale, Revelation, pages 283–296](../../../../../about/ressources/index.html#beale_rev)
 
-Gordon Fee, Revelation, pages 50–51
+[Gordon Fee, Revelation, pages 50–51](../../../../../about/ressources/index.html#fee_rev)
 
 
 

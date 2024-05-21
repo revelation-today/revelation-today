@@ -281,9 +281,8 @@ Tüm kötülükler ortadan kalkmıştır ve artık tamamen Tanrı’ya hizmet et
 
 [Alındaki isim](https://www.bibleserver.com/TR/Vahiy22%3A4) başlangıçta [kâhinlerin alnındaydı](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F28%3A36-38) ve [Tanrı’nın karakterinin onların ve şimdi de bizim üzerimize basıldığını gösterir](https://www.bibleserver.com/TR/1.Yuhanna3%3A2).
 
+## Daha derine inmek
 
-
-
-
+[Beale, Revelation, sayfalar 1039–1121](../../../../about/ressources/index.html#beale_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/the-new-jerusalem.tr.md)

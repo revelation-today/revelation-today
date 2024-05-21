@@ -54,6 +54,12 @@ Die Verheißung, vom Baum des Lebens zu essen, führt sie zurück in die ungetr�
 
 Und sie haben eine [Verheißung im Neuen Jerusalem](https://www.bibleserver.com/SLT/Offenbarung22%2C1-5).
 
+## Zur Vertiefung
+
+
+[Beale, Revelation, Seiten 228–239](../../../../../about/ressources/index.html#beale_rev)
+
+[Gordon Fee, Revelation, Seiten 24](../../../../../about/ressources/index.html#fee_rev)
 
 
 

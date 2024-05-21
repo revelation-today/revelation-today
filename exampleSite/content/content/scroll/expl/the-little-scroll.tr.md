@@ -44,10 +44,8 @@ Ama şimdi tomar nedir? Bir sonraki bölüm(ler)e baktığımızda, kilisenin so
 <a name="b1dc"></a>
 - [İki tanık](../../../../content/witnesses/expl/the-two-witnesses)
 
+## Daha derine inmek
 
-
-
-
-
+[Beale, Revelation, sayfalar 520–555](../../../../about/ressources/index.html#beale_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.tr.md)

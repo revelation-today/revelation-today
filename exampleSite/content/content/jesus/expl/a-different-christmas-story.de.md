@@ -100,7 +100,9 @@ Wie genau Jesus überwindet, wird hier nicht beschrieben, aber das Thema der Spa
 - [Die Geschichte der unheiligen Dreieinigkeit](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 - [Die Struktur der Offenbarung](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
+## Zur Vertiefung
 
+[Beale, Revelation, Seiten 621–681](../../../../about/ressources/index.html#beale_rev)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/expl/a-different-christmas-story.de.md)

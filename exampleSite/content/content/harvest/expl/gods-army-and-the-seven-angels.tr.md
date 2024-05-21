@@ -106,9 +106,13 @@ Tüm bu bağlantılar birlikte Mose ve Kuzu’nun Şarkısı’nın içeriğini 
 
 Gazap kaseleriyle Tanrı’nın, tapınmayı reddeden ve ejderhayla canavarlara sadık kalan uluslara nasıl davrandığını görürüz.
 
+## Daha fazla kazma
 
+[Beale, Revelation, sayfalar 730–784](../../../../about/ressources/index.html#beale_rev)
 
+[Bauckham, Revelation, sayfalar 98–104](../../../../about/ressources/index.html#bauckham_rev)
 
+[Bauckham, The climax of Prophecy, sayfalar 283–307](../../../../about/ressources/index.html#bauckham_climax)
 
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/expl/gods-army-and-the-seven-angels.tr.md)

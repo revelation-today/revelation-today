@@ -53,13 +53,9 @@ The [morning star](https://www.bibleserver.com/NIV/Revelation2%3A28) could refer
 
 ## Dig Deeper
 
-<a name="5e33"></a>
-Beale, Revelation, pages 259–272
+[Beale, Revelation, pages 259–272](../../../../../about/ressources/index.html#beale_rev)
 
-Gordon Fee, Revelation, pages 37–38
-
-
-
+[Gordon Fee, Revelation, pages 37–38](../../../../../about/ressources/index.html#fee_rev)
 
 
 

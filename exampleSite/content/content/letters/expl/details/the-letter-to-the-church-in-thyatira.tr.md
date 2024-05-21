@@ -50,9 +50,10 @@ Tahammül edenlere İsa, yanlış otorite altında tahammül ettikleri ve sadık
 
 [Sabah yıldızı](https://www.bibleserver.com/TR/Vahiy2%3A28), [sabah yıldızı olan İsa’yla](https://www.bibleserver.com/TR/Vahiy22%3A16) ilgili [yeni bir umudun doğuşuyla ](https://www.bibleserver.com/TR/2.Petrus1%3A19)ilgili olabilir.
 
+## Daha derine inmek
 
+[Beale, Revelation, sayfalar 259–272](../../../../../about/ressources/index.html#beale_rev)
 
-
-
+[Gordon Fee, Revelation, sayfalar 37–38](../../../../../about/ressources/index.html#fee_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-thyatira.tr.md)

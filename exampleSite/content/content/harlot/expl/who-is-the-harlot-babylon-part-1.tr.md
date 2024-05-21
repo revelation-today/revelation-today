@@ -124,10 +124,10 @@ Bölüm 17'deki ilk canavar fahişeyi desteklerken, bölüm 13'te ikinci canavar
 - [Fahişe 2. bölüm](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
 - [Babil’in kökeni](../../../../bible/keyword/expl/the-origin-of-babel)
 
+## Daha fazla kazma
 
 
-
-
+[Beale, Revelation, sayfalar 847–890](../../../../about/ressources/index.html#beale_rev)
 
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-1.tr.md)

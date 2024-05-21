@@ -40,10 +40,8 @@ Kutsallar orada dışlanmadığı için, bunu borazanlar sırasında göreceğiz
 <a name="4db0"></a>
 - [Dört atlı](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
 
+## Daha derine inmek
 
-
-
-
-
+[Beale, Revelation, sayfalar 337–369](../../../../about/ressources/index.html#beale_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-book-with-the-seven-seals.tr.md)

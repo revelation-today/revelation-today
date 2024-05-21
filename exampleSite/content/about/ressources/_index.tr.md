@@ -75,6 +75,11 @@ Bu, kitabın edebiyat türünü anlamak için [iyi bir kaynaktır](https://www.l
 
 [İyi bir kitap](https://www.perlego.com/book/878981/revelation-pdf) ama benim için ana içerik kaynağı değil.
 
+<a name="koester_rev"></a>
+
+### Köster, Revelation and the end of all things
+
+[Okuması kolay bir kitap](https://www.amazon.de/Revelation-End-Things-Craig-Koester/dp/0802846602)
 
 ## Tamamlayıcı konular
 

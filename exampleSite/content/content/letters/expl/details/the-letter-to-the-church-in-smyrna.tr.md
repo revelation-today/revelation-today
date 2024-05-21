@@ -38,9 +38,10 @@ Kilisenin kökeni hakkında çok az şey bilinmektedir, belki de Pavlus tarafın
 
 Biz ne kadar çok şey yapamazsak, İsa o kadar çok çalışabilir. [Ancak çaresizlikten bunalıp pes etme tehlikesi vardır](../../../../content/beasts/expl/666-the-number-of-the-beast). Durumu çözmemiz değil, O’nunla birlikte dayanmamız gerekir.
 
+## Daha derine inmek
 
+[Beale, Revelation, sayfalar 239–245](../../../../../about/ressources/index.html#beale_rev)
 
-
-
+[Gordon Fee, Revelation, sayfalar 29–30](../../../../../about/ressources/index.html#fee_rev)
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-smyrna.tr.md)

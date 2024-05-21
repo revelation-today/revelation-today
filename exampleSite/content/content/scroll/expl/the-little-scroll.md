@@ -48,12 +48,6 @@ But what is the scroll now? Looking at the next chapter(s), it is the testimony 
 
 ## Dig Deeper
 
-<a name="2d38"></a>
-Beale, Revelation, pages 520–555
-
-
-
-
-
+[Beale, Revelation, pages 520–555](../../../../about/ressources/index.html#beale_rev)
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.md)

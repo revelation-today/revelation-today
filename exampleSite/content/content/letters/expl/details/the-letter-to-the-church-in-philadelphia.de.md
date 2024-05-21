@@ -48,7 +48,11 @@ Hier im Text heißt es: “[Weil du das Wort vom standhaften Ausharren auf mich 
 
 Was ist die Stunde der Versuchung, die über die ganze Erde kommt? Und wie will Jesus sie davor bewahren? Das Wort “[bewahren vo](https://biblehub.com/interlinear/revelation/3-10.htm)r” kommt sonst nur im [Johannesevangelium](https://biblehub.com/interlinear/john/17-15.htm) vor, wo das Gebet Jesu für seine Jünger beschrieben wird: “[dass Gott sie nicht aus der Welt nehme, sondern sie bewahre vor dem Bösen](https://www.bibleserver.com/SLT/Johannes17%2C15)”. Hier spricht Jesus von der Herausnahme aus der Welt, sondern von der Bewahrung in der Welt, ähnlich wie in den [Sprüchen](https://www.bibleserver.com/SLT/Spr%C3%BCche7%2C5) oder im [Jakobusbrief](https://www.bibleserver.com/SLT/Jakobus1%2C27). Diese Aussage bezieht sich auf die gleiche Situation wie die [Große Trübsal](../../../../content/army/expl/the-end-time-and-the-great-tribulation).
 
+## zur Vertiefung
 
 
+[Beale, Revelation, Seiten 283–296](../../../../../about/ressources/index.html#beale_rev)
+
+[Gordon Fee, Revelation, Seiten 50–51](../../../../../about/ressources/index.html#fee_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-philadelphia.de.md)

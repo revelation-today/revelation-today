@@ -158,12 +158,11 @@ So when you look at your life as a believer, which category do you fall into? Ar
 
 ## Dig Deeper
 
-<a name="67ea"></a>
-Beale, Revelation, pages 556–620
+[Beale, Revelation, pages 556–620](../../../../about/ressources/index.html#beale_rev)
 
-Bauckham , Revelation, pages 84–88
+[Bauckham , Revelation, pages 84–88](../../../../about/ressources/index.html#bauckham_rev)
 
-Bauckham, The climax of Prophecy, pages 266–283
+[Bauckham, The climax of Prophecy, pages 266–283](../../../../about/ressources/index.html#bauckham_climax)
 
 
 

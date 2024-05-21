@@ -113,7 +113,17 @@ Now also the reference to [God’s plagues](https://www.bibleserver.com/NIV/Ezek
 
 
 
-So no matter how attractive the devil’s offer may be and how much it may look like Jesus. Don’t go for it, because it will end in disaster.Further reading[The 144 000](../../../../content/army/expl/the-144000)[The trumpets](../../../../content/trumpets/expl/the-trumpets-in-revelation)Dig DeeperBeale, Revelation, pages 370–395
+So no matter how attractive the devil’s offer may be and how much it may look like Jesus. Don’t go for it, because it will end in disaster.
+
+## Further reading
+
+[The 144 000](../../../../content/army/expl/the-144000)
+
+[The trumpets](../../../../content/trumpets/expl/the-trumpets-in-revelation)
+
+## Dig Deeper
+
+[Beale, Revelation, pages 370–395](../../../../about/ressources/index.html#beale_rev)
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-mystery-of-the-four-horse-men.md)

@@ -54,7 +54,11 @@ Another parallel to Revelation 17 could be the [Ode of Salomon](https://en.wikip
 
 
 
-So the point of the ekphrasis is to show thatUnderstanding this deception is the first step toward God’s kingdom.If you are deceived by Rome, there is little hope for you.This deception is so great that it is hard to miss.Dig DeeperAune, Revelation, pages 919–928
+So the point of the ekphrasis is to show thatUnderstanding this deception is the first step toward God’s kingdom.If you are deceived by Rome, there is little hope for you.This deception is so great that it is hard to miss.
+
+## Dig Deeper
+
+[Aune, Revelation, pages 919–928](../../../../about/ressources/index.html#aune_rev)
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire.md)

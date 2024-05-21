@@ -41,14 +41,8 @@ The more we are unable to do anything, the more Jesus can work. But there is a [
 
 ## Dig Deeper
 
-<a name="1ee2"></a>
-Beale, Revelation, pages 239–245
+[Beale, Revelation, pages 239–245](../../../../../about/ressources/index.html#beale_rev)
 
-Gordon Fee, Revelation, pages 29–30
-
-
-
-
-
+[Gordon Fee, Revelation, pages 29–30](../../../../../about/ressources/index.html#fee_rev)
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-smyrna.md)

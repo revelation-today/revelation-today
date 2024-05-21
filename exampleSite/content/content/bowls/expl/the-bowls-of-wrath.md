@@ -62,8 +62,7 @@ The gathering of the armies at Armageddon is mirrored by the gathering of the bi
 
 ## Dig Deeper
 
-<a name="ed77"></a>
-Beale, Revelation, pages 801–846
+[Beale, Revelation, pages 681–730](../../../../about/ressources/index.html#beale_rev)
 
 
 

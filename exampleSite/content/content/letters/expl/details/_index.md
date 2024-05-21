@@ -70,8 +70,7 @@ When we compare the pairs, we find interesting points:
 
 ## Dig Deeper
 
-<a name="174f"></a>
-Beale, Revelation, pages 223–228
+[Beale, Revelation, pages 223–228](../../../../about/ressources/index.html#aune_rev)
 
 
 

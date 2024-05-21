@@ -60,14 +60,9 @@ The judgment is based on her actions:
 
 ## Dig Deeper
 
-<a name="34a8"></a>
-Beale, Revelation, pages 890–948
+[Beale, Revelation, pages 890–948](../../../../about/ressources/index.html#beale_rev)
 
-Bauckham, The climax of Prophecy, pages 338–384
-
-
-
-
+[Bauckham, The climax of Prophecy, pages 338–384](../../../../about/ressources/index.html#bauckham_climax)
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.md)

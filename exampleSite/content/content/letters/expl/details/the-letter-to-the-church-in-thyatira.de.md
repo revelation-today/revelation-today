@@ -50,7 +50,10 @@ Denen, die ausharren und treu bleiben, verheißt Jesus Vollmacht, wie er sie unt
 
 Der [Morgenstern](https://www.bibleserver.com/SLT/Offenbarung2%2C28) kann sich auf die [neue Hoffnung in Jesus beziehen](https://www.bibleserver.com/SLT/2.Petrus1%2C19), der der [Morgenstern](https://www.bibleserver.com/SLT/Offenbarung22%2C16) ist.
 
+## Zur Vertiefung
 
+[Beale, Revelation, Seiten 259–272](../../../../../about/ressources/index.html#beale_rev)
 
+[Gordon Fee, Revelation, Seiten 37–38](../../../../../about/ressources/index.html#fee_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-thyatira.de.md)

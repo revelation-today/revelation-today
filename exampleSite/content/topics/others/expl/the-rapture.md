@@ -137,8 +137,7 @@ The argument for the rapture is based on passages describing different situation
 
 ### Further digging
 
-<a name="419f"></a>
-[Rossing: The rapture exposed](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#c781), pages 173–186
+[Barabara Rossing, The rapture exposed, pages 173-186](../../../../about/ressources/index.html#rossing)
 
 
 

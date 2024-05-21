@@ -91,9 +91,7 @@ Zaman yakındır ve kilise harekete geçmelidir. İsa’nın her şeyi yaptığ�
 
 ## Daha derine inmek
 
-<a name="cd36"></a>
-[Beale, Relevation, sayfalar 181–222](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
-
+[Beale, Relevation, sayfalar 181–222](../../../../about/ressources/index.html#beale_rev)
 
 
 

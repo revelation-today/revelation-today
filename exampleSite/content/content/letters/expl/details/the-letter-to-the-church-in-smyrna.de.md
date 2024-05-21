@@ -38,7 +38,10 @@ Jesus verheißt: Wenn sie standhalten, wird ihnen der zweite Tod nicht schaden. 
 
 Je mehr wir versagen, desto mehr kann Jesus wirken. Es besteht die Gefahr, dass wir [von der Verzweiflung so überwältigt werden, dass wir aufgeben](../../../../content/beasts/expl/666-the-number-of-the-beast). Wir sollen die Situationen nicht lösen, sondern sie mit ihm aushalten.
 
+## Zur Vertiefung
 
+[Beale, Revelation, Seiten 239–245](../../../../../about/ressources/index.html#beale_rev)
 
+[Gordon Fee, Revelation, Seiten 29–30](../../../../../about/ressources/index.html#fee_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-smyrna.de.md)

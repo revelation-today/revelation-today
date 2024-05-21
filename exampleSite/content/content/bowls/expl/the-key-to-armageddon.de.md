@@ -70,6 +70,11 @@ Harmagedon steht für das Paradox, das wir im gesamten Neuen Testament, vor alle
 <a name="ea65"></a>
 - [Die Schlacht von Karkemisch](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
+## Zur Vertiefung
+ 
+[Beale, Revelation, Seiten 838-841](../../../../about/ressources/index.html#beale_rev)
+
+[Fee, Revelation, Seiten 224-225](../../../../about/ressources/index.html#fee_rev)
 
 
 

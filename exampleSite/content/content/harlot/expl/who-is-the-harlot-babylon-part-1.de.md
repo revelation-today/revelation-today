@@ -118,10 +118,12 @@ Während das erste Tier die Hure in Kapitel 17 unterstützt, ist es in Kapitel 1
 
 ## Zum Weiterlesen
 
-<a name="2e7a"></a>
 - [Wer ist die Hure: Teil 2](../../../../content/harlot/expl/who-is-the-harlot-babel-part-2)
 - [Der Ursprung Babels](../../../../bible/keyword/expl/the-origin-of-babel)
 
+## Zur Vertiefung
+
+[Beale, Revelation, Seiten 847–890](../../../../about/ressources/index.html#beale_rev)
 
 
 

@@ -135,8 +135,7 @@ Die Argumentation für die Entrückung stützt sich auf Bibelstellen, die versch
 
 ### Zur Vertiefung
 
-<a name="e902"></a>
-[Rossing: The rapture exposed](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#268a)
+[Barabara Rossing, The rapture exposed, Seiten 173-186](../../../../about/ressources/index.html#rossing)
 
 
 

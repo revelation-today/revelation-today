@@ -102,8 +102,8 @@ Die Zeit ist nahe und die Gemeinde hat die Aufgabe, aktiv zu werden. So wie Jesu
 ## Zur Vertiefung
 
 <a name="e362"></a>
-[Beale, Relevation, Seiten 181–222](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#06a2)
 
+[Beale, Relevation, Seiten 181–222](../../../../about/ressources/index.html#beale_rev)
 
 
 

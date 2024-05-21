@@ -40,12 +40,9 @@ After the interruption of the [144,000](../../../../content/army/expl/the-144000
 <a name="324d"></a>
 - [The four horsemen](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
 
-
-
 ## Dig Deeper
 
-<a name="3317"></a>
-Beale, Revelation, pages 337–369
+[Beale, Revelation, pages 337–369](../../../../about/ressources/index.html#beale_rev)
 
 
 

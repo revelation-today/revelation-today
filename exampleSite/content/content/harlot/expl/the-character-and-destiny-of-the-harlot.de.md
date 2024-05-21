@@ -53,7 +53,11 @@ Das Gericht wird aufgrund ihrer Taten gefällt:
 - Sie wird [mit dem gleichen Maß bestraft](https://www.bibleserver.com/SLT/Offenbarung18%2C6), mit [dem sie anderen Böses angetan hat](https://www.bibleserver.com/SLT/Offenbarung18%2C22-24) ([das doppelte Maß ist eine andere Art, eine gleichwertige Strafe auszudrücken](https://meredithkline.com/klines-works/articles-and-essays/double-trouble/)).
 - Sie wird mit Feuer verzehrt werden, wie das Gericht über eine Tochter eines Priesters, die Unzucht getrieben hat — eine weitere Warnung, sich von Babel fernzuhalten und sich nicht zu ihr hingezogen zu fühlen.
 
+## Zur Vertiefung
 
+[Beale, Revelation, Seiten 890–948](../../../../about/ressources/index.html#beale_rev)
+
+[Bauckham, The climax of Prophecy, Seiten 338–384](../../../../about/ressources/index.html#bauckham_climax)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.de.md)

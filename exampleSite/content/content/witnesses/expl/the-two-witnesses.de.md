@@ -182,7 +182,12 @@ Wenn du nun auf dein Leben mit Jesus schaust, in welche Kategorie gehörst du? B
 <a name="31a1"></a>
 - [Die Kraft des Zeugnisses](../../../../topics/power/short/the-power-of-testimony)
 
+## Zur Vertiefung
 
+[Beale, Revelation, Seiten 556–620](../../../../about/ressources/index.html#beale_rev)
 
+[Bauckham , Revelation, Seiten 84–88](../../../../about/ressources/index.html#bauckham_rev)
+
+[Bauckham, The climax of Prophecy, Seiten 266–283](../../../../about/ressources/index.html#bauckham_climax)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/expl/the-two-witnesses.de.md)

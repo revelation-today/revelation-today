@@ -91,7 +91,8 @@ Das Wort Furcht kann hier besser mit “waren überwältigt” übersetzt werden
 <a name="b9f6"></a>
 - [Das kleine Buch](../../../../content/scroll/expl/the-little-scroll)
 
+## Zur Vertiefung
 
-
+[Beale, Revelation, Seiten 445–520](../../../../about/ressources/index.html#beale_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/expl/the-trumpets-in-revelation.de.md)
