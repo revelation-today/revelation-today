@@ -1,5 +1,6 @@
 ---
 title: "3,5 yıl"
+weight: 50
 ---
 
 

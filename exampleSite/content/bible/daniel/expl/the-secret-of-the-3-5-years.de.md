@@ -1,5 +1,6 @@
 ---
 title: "Die dreieinhalb Jahre der Endzeit"
+weight: 50
 ---
 
 

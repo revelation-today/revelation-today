@@ -1,5 +1,6 @@
 ---
 title: "Die vier Königreiche in Daniel"
+weight: 20
 ---
 
 

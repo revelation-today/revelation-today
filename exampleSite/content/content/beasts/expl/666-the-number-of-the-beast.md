@@ -127,12 +127,6 @@ If you think the 666 is a computer chip that is planted, then ask yourself. But 
 
 ## Dig Deeper
 
-<a name="dc25"></a>
-Bauckham, The climax of Prophecy, pages 384–452
-
-
-
-
-
+[Bauckham, The climax of Prophecy, pages 384–452](../../../../about/ressources/index.html#bauckham_climax)
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/666-the-number-of-the-beast.md)

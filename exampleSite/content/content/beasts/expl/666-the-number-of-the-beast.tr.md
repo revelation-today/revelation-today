@@ -111,10 +111,9 @@ Eğer 666'nın yerleştirilmiş bir bilgisayar çipi olduğunu düşünüyorsan�
 - Kredi veya banka kartı kullanımı
 - Tonlarca sosyal medya kaydı mı?
 
+## Daha fazla kazma
 
-
-
-
+[Bauckham, The climax of Prophecy, sayfalar 384–452](../../../../about/ressources/index.html#bauckham_climax)
 
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/666-the-number-of-the-beast.tr.md)

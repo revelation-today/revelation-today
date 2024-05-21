@@ -1,5 +1,6 @@
 ---
 title: "Die zehn Plagen in Ägypten"
+weight: 40
 ---
 
 
@@ -160,13 +161,16 @@ Doch davor wurde
 
 
 
-## Tur Vertiefung
+## Zur Vertiefung
 
 <a name="2578"></a>
 - [Wie alles begann](../../../../bible/exodus/expl/the-story-before-the-exodus)
 - [Ein anderer Held](../../../../bible/exodus/expl/the-birth-of-moses)
 - [Die Verhärtung des Herzen](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
 
+## Zum Weiterleen
+
+[Nahum Sarna, Exodus, Seiten 38–80](../../../../about/ressources/index.html#sarna_exo)
 
 
 

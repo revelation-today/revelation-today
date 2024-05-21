@@ -186,6 +186,11 @@ Dolayısıyla, [(sadece) ekonomik veya sosyal baskı olsa bile](https://www.bibl
 Doğduğumuzda eski yaratılıştaki “ilk yaşamımıza” sahip oluruz. [Yeniden doğduğumuzda ise ilk diriliş olarak adlandırabileceğimiz “ikinci yaşamımıza” sahip oluruz](https://www.bibleserver.com/TR/Yuhanna3). İkinci ölüm, ikinci yaşama sahip olmamaktan daha fazlasıdır, bu da Tanrı’da ruhsal olarak öldükleri anlamına gelir.
 
 
+## Daha fazla kazma
+
+[Beale, Revelation, sayfalar 972–1031](../../../../about/ressources/index.html#beale_rev)
+
+[Aune, Revelation, sayfalar 1084–1090](../../../../about/ressources/index.html#aune_rev)
 
 
 

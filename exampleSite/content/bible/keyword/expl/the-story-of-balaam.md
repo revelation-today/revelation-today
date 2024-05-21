@@ -51,8 +51,7 @@ It was Balaam’s pride that brought him down, but it was Moses’ leadership th
 
 ### Dig deeper
 
-<a name="e834"></a>
-Beale, Revelation, page 249
+[Beale, Revelation, page 249](../../../../about/ressources/index.html#beale_rev)
 
 
 

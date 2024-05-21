@@ -1,5 +1,6 @@
 ---
 title: "The book of Daniel"
+weight: 10
 ---
 
 

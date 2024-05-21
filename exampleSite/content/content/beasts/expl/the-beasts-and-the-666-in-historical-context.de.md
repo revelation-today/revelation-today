@@ -65,6 +65,9 @@ Was kann man gegen dieses System unternehmen? Die Antwort wird z.B. in Kapitel 1
 Und über allem: [Ausharren](https://www.bibleserver.com/SLT/Offenbarung13%2C10) und [Weisheit, um zu erkennen, was Gott ist und was nicht](https://www.bibleserver.com/SLT/Offenbarung13%2C18).
 
 
+## Zur Vertiefung
+
+[Beale, Revelation, Seiten 682–684](../../../../about/ressources/index.html#beale_rev)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-beasts-and-the-666-in-historical-context.de.md)

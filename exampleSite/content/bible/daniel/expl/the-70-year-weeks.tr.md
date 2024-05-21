@@ -1,5 +1,6 @@
 ---
 title: "70 yıllık haftalar"
+weight: 40
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Mısır’dan Çıkıştan Önceki Hikaye"
+weight: 10
 ---
 
 
@@ -26,8 +27,10 @@ Yusuf’un Hiksoslar zamanında yaşamış olması muhtemeldir.
 - Ramses’in babası I. Sethos Avaris (eski Hiksos başkenti) yakınlarında bir yazlık saray inşa ettirir; bu da Musa’nın prenses tarafından neden bu kadar çabuk bulunduğunu açıklar, çünkü burası hâlâ Goşen yakınlarındadır
 
 
+## Daha fazla kazma
 
 
+[Nahum Sarna, Exodus, sayfalar 15–26](../../../../about/ressources/index.html#sarna_exo)
 
 
 

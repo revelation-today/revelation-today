@@ -41,12 +41,8 @@ Das erste Tier repräsentiert die [Gesamtheit aller Reiche aus Daniel](https://w
 | [Das dritte Tier ist wie ein Leopard](https://www.bibleserver.com/SLT/Daniel7%2C6) | [Tier wie ein Leopard](https://www.bibleserver.com/SLT/Offenbarung13%2C2) |
 | [Das vierte Tier hat 10 Hörner](https://www.bibleserver.com/SLT/Daniel7%2C7) | [es hat 10 Hörner](https://www.bibleserver.com/SLT/Offenbarung13%2C1) |
 | [Das dritte Tier hat 4 Köpfe, die andere jeweils einen](https://www.bibleserver.com/SLT/Daniel7%2C6) | [hat 7 Köpfe](https://www.bibleserver.com/SLT/Offenbarung13%2C1) |
-| [Das Horn spricht große Dinge](https://www.bibleserver.com/SLT/Daniel7%2C8) |[spricht gegen den Höchsten](https://www.bibleserver.com/SLT/Daniel7%2C25)
-<td>[Tier lästert Gott](https://www.bibleserver.com/SLT/Offenbarung13%2C6)</td>
-<tr>
-<td>[Die 10 Hörner sind 10 Könige](https://www.bibleserver.com/SLT/Daniel7%2C24)</td>
-<td>[10 Kronen](https://www.bibleserver.com/SLT/Offenbarung13%2C1)</td>
-</tr>
+| [Das Horn spricht große Dinge](https://www.bibleserver.com/SLT/Daniel7%2C8) </br> [spricht gegen den Höchsten](https://www.bibleserver.com/SLT/Daniel7%2C25) | [Tier lästert Gott](https://www.bibleserver.com/SLT/Offenbarung13%2C6) |
+| [Die 10 Hörner sind 10 Könige](https://www.bibleserver.com/SLT/Daniel7%2C24) | [10 Kronen](https://www.bibleserver.com/SLT/Offenbarung13%2C1) |
 
 
 ## Der zweifache Angriff
@@ -59,48 +55,18 @@ Schauen wir uns die beiden Tiere genauer an. Sie wirken zusammen und ergänzen s
 
 | Thema | Erstes Tier | Zweites Tier |
 |-------|-------------|--------------|
-| Ursprung | [Aus der See](https://www.bibleserver.com/SLT/Offenbarung13%2C1) | [Von der Erde](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
-| Identität (mit Daniel) | [Tier mit sieben Hörnern](https://www.bibleserver.com/SLT/Offenbarung13%2C1) -> Fortsetzung und Macht der Reiche | [Tier mit zwei Hörnern wie Lamm/Menschensohn](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
-| Macht | [Drache gibt Macht und Thron](https://www.bibleserver.com/SLT/Offenbarung13%2C2) | [Regiert in Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C12) |
-| Zeichen und Anbetung | [Tödliche Wunde ist geheilt](https://www.bibleserver.com/SLT/Offenbarung13%2C3) |
-[Ganze Erde ist erstaunt](https://www.bibleserver.com/SLT/Offenbarung13%2C3)
-[Beten Drache an, der Macht dem Tier gegeben hat](https://www.bibleserver.com/SLT/Offenbarung13%2C4)
-
-<td>[Zwingt alle, das erste Tier anzubeten, dessen Wunde geheilt wurde](https://www.bibleserver.com/SLT/Offenbarung13%2C12)
-[Tut große Zeichen, läßt Feuer vom Himmel fallen, täuscht durch Zeichen](https://www.bibleserver.com/SLT/Offenbarung13%2C13-14)</td>
-[bekommt Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14)
+| Ursprung | [Aus dem Meer](https://www.bibleserver.com/SLT/Offenbarung13%2C1) | [Aus der Erde](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
+| Identität (mit Daniel) | [Tier mit sieben Hörnern](https://www.bibleserver.com/SLT/Offenbarung13%2C1) -> Fortbestand und Macht der Reiche | [Tier mit zwei Hörnern wie Lamm/Menschensohn](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
+| Macht | [Drache gibt Macht und Thron](https://www.bibleserver.com/SLT/Offenbarung13%2C2) | [herrscht in der Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C12) |
+| Zeichen und Anbetung | [Tödliche Wunde ist geheilt](https://www.bibleserver.com/SLT/Offenbarung13%2C3) </br> [Die ganze Erde ist erstaunt](https://www.bibleserver.com/SLT/Offenbarung13%2C3)
+[Betet den Drachen an, der dem Tier die Macht](https://www.bibleserver.com/SLT/Offenbarung13%2C4) <span style="color:green;"></span> | [Zwingt alle, das erste Tier anzubeten, dessen Wunde geheilt wurde](https://www.bibleserver.com/SLT/Offenbarung13%2C12). </br> [Tut große Zeichen, lässt Feuer vom Himmel fallen, täuscht durch Zeichen](https://www.bibleserver.com/SLT/Offenbarung13%2C13-14) </br> [Erhält die Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14). |
+| Prahlerei | [Wer ist wie das Tier (stark wie es)](https://www.bibleserver.com/SLT/Offenbarung13%2C4) </br> [große Lästerungen gegen Gott und sein Volk](https://www.bibleserver.com/SLT/Offenbarung13%2C5-6). | [Machtbild des Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14) (der Mensch ist nach dem Bilde Gottes geschaffen -&gt; der Mensch ist Stellvertreter Gottes)</br> [Kann Leben geben, damit das Tier sprechen kann](https://www.bibleserver.com/SLT/Offenbarung13%2C14-15) <span style="color:green;">aber nur Gott kann Leben geben</span>.  |
+|Überwindet Heilige | [Kämpft gegen Heilige und besiegt sie](https://www.bibleserver.com/SLT/Offenbarung13%2C7). </br> [Hat Macht über Stämme, Sprachen und Nationen](https://www.bibleserver.com/SLT/Offenbarung13%2C7) </br> [Alle auf Erden beten das Tier an, die nicht im Buch des Lebens geschrieben stehen](https://www.bibleserver.com/SLT/Offenbarung13%2C8).| [Tötet alle, die das Bild nicht anbeten](https://www.bibleserver.com/SLT/Offenbarung13%2C15).</br> [Macht Zeichen für alle ](https://www.bibleserver.com/SLT/Offenbarung13%2C16) </br> [Niemand kann kaufen oder verkaufen, es sei denn, er hat das Zeichen des Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C17). |
+| Wer Ohren hat, der höre!](https://www.bibleserver.com/SLT/Offenbarung13%2C9)</br> [Hier ist die Geduld und der Glaube der Heiligen](https://www.bibleserver.com/SLT/Offenbarung13%2C10). | [Hier ist Weisheit](https://www.bibleserver.com/SLT/Offenbarung13%2C18)</br> [Wenn jemand Verstand hat: Zählt](https://www.bibleserver.com/SLT/Offenbarung13%2C18) |
 
 
-<tr>
-<td>Prahlerei</td>
-<td>[Wer ist wie das Tier(stark wie es)](https://www.bibleserver.com/SLT/Offenbarung13%2C4)</td></tr>
-[große Lästerungen gegen Gott und sein Volk](https://www.bibleserver.com/SLT/Offenbarung13%2C5-6)
+Am Ende ist noch ein interessanter Chiasmus zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", d.h. das Wissen soll zu Taten leiten (hören=gehorchen im Hebräischen) und "Weisheit" mit "Geduld und Glaube der Heiligen", was zeigt, dass die Weishiet in Geduld und Glauben resultieren soll.
 
-<td>[Macht Bild des Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14) (Mensch ist im Bilde Gottes gemacht -&gt; Mensch ist Stellvertreter Gottes)</td>
-[Kann Leben geben, so dass Tier sprechen kann](https://www.bibleserver.com/SLT/Offenbarung13%2C14-15) <span style="color:green;">, aber nur Gott kann Leben geben</span>
-<tr>
-<td>Überwindet Heilige</td>
-<td>[Kämpft gegen Heilige und besiegt sie](https://www.bibleserver.com/SLT/Offenbarung13%2C7)</td></tr>
-[Hat Macht über Stämme, Sprachen und Nationen](https://www.bibleserver.com/SLT/Offenbarung13%2C7)
-[Alle auf der Erde beten des Tier an, die nicht im Buch des Lebens geschrieben sind](https://www.bibleserver.com/SLT/Offenbarung13%2C8)
-
-<td>[Tötet alle, die nicht Bild anbeten](https://www.bibleserver.com/SLT/Offenbarung13%2C15)</td>
-[Macht  Zeichen an alle ](https://www.bibleserver.com/SLT/Offenbarung13%2C16) 
-[Niemand kann kaufen oder verkaufen, wenn er nicht das Zeichen des Tieres hat](https://www.bibleserver.com/SLT/Offenbarung13%2C17)
-
-
-<tr>
-<td>Achtung</td>
-<td>[Wenn jemand Ohren hat, höre!](https://www.bibleserver.com/SLT/Offenbarung13%2C9)</td></tr>
-[Hier ist Geduld und Glaube der Heiligen](https://www.bibleserver.com/SLT/Offenbarung13%2C10)
-
-<td>[Hier istWeisheit](https://www.bibleserver.com/SLT/Offenbarung13%2C18)</td>
-[Wenn jemandVerständnis hat: Zähle](https://www.bibleserver.com/SLT/Offenbarung13%2C18)
-
-
-
-
-<p>Am Ende ist noch ein interessanter Chiasmus zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", d.h. das Wissen soll zu Taten leiten (hören=gehorchen im Hebräischen) und "Weisheit" mit "Geduld und Glaube der Heiligen", was zeigt, dass die Weishiet in Geduld und Glauben resultieren soll.</p>
 Dies geschieht auf zweierlei Weise:
 
 - durch Gewalt und Einschüchterung ([besiegt die Heiligen](https://www.bibleserver.com/SLT/Offenbarung13%2C7), [vernichtet jeden Widerstand](https://www.bibleserver.com/SLT/Offenbarung13%2C10) oder [Menschen, die nicht folgen](https://www.bibleserver.com/SLT/Offenbarung13%2C15)),
@@ -199,6 +165,11 @@ Das ist überhaupt nicht der Fall, denn Satan würde einen sehr schlechten Job m
 - [Die 3,5, Jahre](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
 
+## Zur Vertiefung
+
+[Beale, Revelation, Seiten 681–730](../../../../about/ressources/index.html#beale_rev)
+
+[Bauckham, Revelation, Seiten 88–94](../../../../about/ressources/index.html#bauckham_rev)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation.de.md)

@@ -71,7 +71,9 @@ Die Große Trübsal sind alle Verfolgungen, die die Gemeinde seit ihrer Gründun
 - [Der Überrest Israels](../../../../background/israel/expl/the-remnant-of-israel)
 - [Die Gemeinde und Israel](../../../../background/israel/expl/the-church-is-part-of-israel)
 
+## Zur Vertiefung
 
+[Beale, Revelation, Seiten 433–445](../../../../about/ressources/index.html#beale_rev)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/expl/the-end-time-and-the-great-tribulation.de.md)

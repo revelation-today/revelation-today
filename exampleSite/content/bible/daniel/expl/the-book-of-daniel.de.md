@@ -1,5 +1,6 @@
 ---
 title: "Überblick über das Buch Daniel"
+weight: 10
 ---
 
 

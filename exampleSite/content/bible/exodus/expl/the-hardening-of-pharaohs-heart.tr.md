@@ -1,5 +1,6 @@
 ---
 title: "Firavun’un yüreğinin katılaşması"
+weight: 30
 ---
 
 

@@ -48,6 +48,9 @@ Böylece bir parti düzenler ve İsrail’i Tanrı’dan Midyanlıların karıla
 
 Onu alaşağı eden Balam’ın gururuydu, ama İsrailliler’in ölümüne neden olan Musa’nın liderliği oldu.
 
+## Daha fazla kazma
+
+[Beale, Revelation, sayfalar 249](../../../../about/ressources/index.html#beale_rev)
 
 
 

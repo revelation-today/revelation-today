@@ -50,6 +50,9 @@ Also macht er ein Fest und führt die Israeliten von Gott weg zu den midianitisc
 
 Es war wohl Bileams Stolz, der ihn vernichtete, aber Mose als inkonsequenter Führer brachte den Tod über die Israeliten.
 
+## Zur Vertiefung
+
+[Beale, Revelation, Seite 249](../../../../about/ressources/index.html#beale_rev)
 
 
 

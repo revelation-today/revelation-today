@@ -67,8 +67,7 @@ And in all of this: [Perseverance](https://www.bibleserver.com/NIV/Revelation13%
 
 ## Dig Deeper
 
-<a name="22ae"></a>
-Beale, Revelation, pages 682–684
+[Beale, Revelation, pages 682–684](../../../../about/ressources/index.html#beale_rev)
 
 
 

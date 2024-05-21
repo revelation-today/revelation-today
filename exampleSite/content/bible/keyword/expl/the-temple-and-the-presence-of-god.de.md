@@ -50,8 +50,7 @@ Als Jesus starb, [wurde die Gemeinde zum Tempel, denn die Gemeinde ist der Leib 
 
 ## Zur Vertiefung
 
-<a name="f7f2"></a>
-[Beale, Kim: God dwells among us](https://www.pdfdrive.com/god-dwells-among-us-expanding-eden-to-the-ends-of-the-earth-d157792027.html)
+[Beale, Kim: God dwells among us](../../../../about/ressources/index.html#beale_dwell)
 
 
 

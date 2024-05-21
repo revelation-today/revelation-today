@@ -1,5 +1,6 @@
 ---
 title: "Der Auszug aus Ägypten: Die Vorgeschichte"
+weight: 10
 ---
 
 
@@ -26,6 +27,9 @@ Es ist wahrscheinlich, dass Joseph während der Hyksoszeit lebte, da
 - Ramses’ Vater Sethos I baute einen Sommerpalast in der Nähe von Avaris (der damaligen Hauptstadt der Hyksos), was auch erklärt, warum Moses so schnell von der Prinzessin in der Nähe von Goschen gefunden wurde.
 
 
+## Zur Vertiefung
+
+[Nahum Sarna, Exodus, Seiten 15–26](../../../../about/ressources/index.html#sarna_exo)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-story-before-the-exodus.de.md)

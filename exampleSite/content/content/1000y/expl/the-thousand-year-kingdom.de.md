@@ -198,6 +198,11 @@ Also, jeder der Gott treu ist, wird regieren, selbst wenn [er (nur) finanziellen
 Wenn wir geboren werden, haben wir unser “erstes Leben” in der ersten, alten Schöpfung. Wenn[ wir aber wiedergeboren werden (Leben mit Gott), haben wir unser “zweites Leben”](https://www.bibleserver.com/SLT/Johannes3) in der neuen Schöpfung, was die erste Auferstehung ist. Der zweite Tod ist nichts anderes, als nicht Teil der neuen Schöpfung zu sein und demzufolge geistlich tot zu sein.
 
 
+## Zur Vertiefung
+
+[Beale, Revelation, Seiten 972–1031](../../../../about/ressources/index.html#beale_rev)
+
+[Aune, Revelation, Seiten 1084–1090](../../../../about/ressources/index.html#aune_rev)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/expl/the-thousand-year-kingdom.de.md)

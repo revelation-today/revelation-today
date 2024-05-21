@@ -1,5 +1,6 @@
 ---
 title: "Daniel’in kitabı"
+weight: 10
 ---
 
 

@@ -48,8 +48,7 @@ Yeni Ahit’te [İsa tapınaktır](https://www.bibleserver.com/TR/Yuhanna2%3A19-
 
 ## Eğer daha derine inmek istiyorsanız
 
-<a name="c61f"></a>
-[Beale, Kim: God dwells among us](https://www.pdfdrive.com/god-dwells-among-us-expanding-eden-to-the-ends-of-the-earth-d157792027.html)
+[Beale, Kim: God dwells among us](../../../../about/ressources/index.html#beale_dwell)
 
 
 

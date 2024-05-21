@@ -1,5 +1,6 @@
 ---
 title: "Mısır’ın Başına Gelen Belalar"
+weight: 40
 ---
 
 
@@ -164,6 +165,9 @@ Bundan önce
 - [Kalbin katılaşması](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
 
 
+## Daha fazla kazma
+
+[Nahum Sarna, Exodus, sayfalar 38–80](../../../../about/ressources/index.html#sarna_exo)
 
 
 

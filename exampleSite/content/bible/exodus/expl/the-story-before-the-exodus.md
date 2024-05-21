@@ -1,5 +1,6 @@
 ---
 title: "The story before the Exodus"
+weight: 10
 ---
 
 
@@ -29,8 +30,7 @@ It is likely that Joseph lived during the time of the Hyksos as
 
 ### Dig deeper
 
-<a name="b333"></a>
-Nahum Sarna, Exodus, pages 15–26
+[Nahum Sarna, Exodus, pages 15–26](../../../../about/ressources/index.html#sarna_exo)
 
 
 

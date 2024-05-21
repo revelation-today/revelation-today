@@ -41,12 +41,8 @@ But the first appearance does not look like the first beast representing the all
 | [The third animal is like a leopard](https://www.bibleserver.com/NIV/Daniel7%2C6) | [Animal like a leopard](https://www.bibleserver.com/NIV/Revelation13%2C2) |
 | [The fourth animal has 10 horns](https://www.bibleserver.com/NIV/Daniel7%2C7) | [It has 10 horns](https://www.bibleserver.com/NIV/Revelation13%2C1) |
 | [The third animal has 4 heads, the other one each](https://www.bibleserver.com/NIV/Daniel7%2C6) | [Has 7 heads](https://www.bibleserver.com/NIV/Revelation13%2C1) |
-| [The horn speaks great things](https://www.bibleserver.com/NIV/Daniel7%2C8) |[speaks against the Most High](https://www.bibleserver.com/NIV/Daniel7%2C25)
-<td>[Animal blasphemes God](https://www.bibleserver.com/NIV/Revelation13%2C6)</td>
-<tr>
-<td>[The 10 horns are 10 kings](https://www.bibleserver.com/NIV/Daniel7%2C24)</td>
-<td>[10 crowns](https://www.bibleserver.com/NIV/Revelation13%2C1)</td>
-</tr>
+| [The horn speaks great things](https://www.bibleserver.com/NIV/Daniel7%2C8) </br> [speaks against the Most High](https://www.bibleserver.com/NIV/Daniel7%2C25) | [Animal blasphemes God](https://www.bibleserver.com/NIV/Revelation13%2C6) |
+| [The 10 horns are 10 kings](https://www.bibleserver.com/NIV/Daniel7%2C24) | [10 crowns](https://www.bibleserver.com/NIV/Revelation13%2C1) |
 
 
 ## The twofold attack
@@ -62,46 +58,15 @@ Let us take a closer look at these two beasts. They act together and support eac
 | origin | [From the sea](https://www.bibleserver.com/NIV/Revelation13%2C1) | [From the Earth](https://www.bibleserver.com/NIV/Revelation13%2C11) |
 | Identity (with Daniel) | [Animal with seven horns](https://www.bibleserver.com/NIV/Revelation13%2C1) -> continuation and power of the realms | [Animal with two horns like lamb/son of man](https://www.bibleserver.com/NIV/Revelation13%2C11) |
 | power | [Dragon gives power and throne](https://www.bibleserver.com/NIV/Revelation13%2C2) | [Rules in power of the first beast](https://www.bibleserver.com/NIV/Revelation13%2C12) |
-| Signs and worship | [Deadly wound is healed](https://www.bibleserver.com/NIV/Revelation13%2C3) |
-[The whole earth is amazed](https://www.bibleserver.com/NIV/Revelation13%2C3)
-[Pray dragon to who gave power](https://www.bibleserver.com/NIV/Revelation13%2C4) to beast <span style="color:green;"></span>
-<td>[Forces all to worship the first beast whose wound was healed](https://www.bibleserver.com/NIV/Revelation13%2C12).
-				[Does great signs, makes fire fall from heaven, deceives by signs](https://www.bibleserver.com/NIV/Revelation13%2C13-14)</td>.
-				[Gets power of the first beast](https://www.bibleserver.com/NIV/Revelation13%2C14).
-			
-
-<tr>
-<td>Bragging</td>
-<td>[Who is like the beast(strong like it)](https://www.bibleserver.com/NIV/Revelation13%2C4)</td></tr>
-[great blasphemies against God and His people](https://www.bibleserver.com/NIV/Revelation13%2C5-6).
-			
-<td>[Power image of the beast](https://www.bibleserver.com/NIV/Revelation13%2C14) (man is made in the image of God -&gt; man is representative of God)</td>
-[Can give life so animal can speak](https://www.bibleserver.com/NIV/Revelation13%2C14-15) <span style="color:green;">but only God can give life</span>. 
-			
-
-<tr>
-<td>Overcome saints</td>.
-			<td>[Fight saints and defeat them](https://www.bibleserver.com/NIV/Revelation13%2C7)</td></tr>.
-				[Has power over tribes, languages, and nations](https://www.bibleserver.com/NIV/Revelation13%2C7)
-[All on earth worship the beast who are not written in the book of life](https://www.bibleserver.com/NIV/Revelation13%2C8).
-			
-<td>[Kill all who do not worship image](https://www.bibleserver.com/NIV/Revelation13%2C15)</td>.
-				[Make signs to all ](https://www.bibleserver.com/NIV/Revelation13%2C16) 
-[No one can buy or sell, unless they have the mark of the beast](https://www.bibleserver.com/NIV/Revelation13%2C17).
-			
-
-<tr>
-<td>caution</td>
-<td>[If anyone has ears, listen!](https://www.bibleserver.com/NIV/Revelation13%2C9)</td></tr>
-[Here is patience and faith of the saints](https://www.bibleserver.com/NIV/Revelation13%2C10).
-			
-<td>[Here iswisdom](https://www.bibleserver.com/NIV/Revelation13%2C18)</td>
-[If anyonehas understanding: Count](https://www.bibleserver.com/NIV/Revelation13%2C18)
+| Signs and worship | [Deadly wound is healed](https://www.bibleserver.com/NIV/Revelation13%2C3) </br> [The whole earth is amazed](https://www.bibleserver.com/NIV/Revelation13%2C3)
+[Worship dragon who gave power](https://www.bibleserver.com/NIV/Revelation13%2C4) to beast <span style="color:green;"></span> | [Forces all to worship the first beast whose wound was healed](https://www.bibleserver.com/NIV/Revelation13%2C12). </br> [Does great signs, makes fire fall from heaven, deceives by signs](https://www.bibleserver.com/NIV/Revelation13%2C13-14) </br> [Gets power of the first beast](https://www.bibleserver.com/NIV/Revelation13%2C14). |
+| Bragging | [Who is like the beast(strong like it)](https://www.bibleserver.com/NIV/Revelation13%2C4) </br> [great blasphemies against God and His people](https://www.bibleserver.com/NIV/Revelation13%2C5-6). | [Power image of the beast](https://www.bibleserver.com/NIV/Revelation13%2C14) (man is made in the image of God -&gt; man is representative of God)</br> [Can give life so animal can speak](https://www.bibleserver.com/NIV/Revelation13%2C14-15) <span style="color:green;">but only God can give life</span>.  |
+| Overcome saints | [Fight saints and defeat them](https://www.bibleserver.com/NIV/Revelation13%2C7). </br> [Has power over tribes, languages, and nations](https://www.bibleserver.com/NIV/Revelation13%2C7) </br> [All on earth worship the beast who are not written in the book of life](https://www.bibleserver.com/NIV/Revelation13%2C8).| [Kill all who do not worship image](https://www.bibleserver.com/NIV/Revelation13%2C15).</br> [Make signs to all ](https://www.bibleserver.com/NIV/Revelation13%2C16) </br> [No one can buy or sell, unless they have the mark of the beast](https://www.bibleserver.com/NIV/Revelation13%2C17). |
+| caution | [If anyone has ears, listen!](https://www.bibleserver.com/NIV/Revelation13%2C9)</br>[Here is patience and faith of the saints](https://www.bibleserver.com/NIV/Revelation13%2C10). | [Here iswisdom](https://www.bibleserver.com/NIV/Revelation13%2C18)</br> [If anyonehas understanding: Count](https://www.bibleserver.com/NIV/Revelation13%2C18) |
 
 
+At the end there is another interesting chiasmus: "Here is" and "If someone" shows an equivalence between "Who has understanding: Count" and "He who has ears, let him hear", i.e. knowledge should lead to action (hear=obey in Hebrew) and "wisdom" with "patience and faith of the saints", showing that the Weisheit should result in patience and faith.
 
-
-<p>At the end there is another interesting chiasmus: "Here is" and "If someone" shows an equivalence between "Who has understanding: Count" and "He who has ears, let him hear", i.e. knowledge should lead to action (hear=obey in Hebrew) and "wisdom" with "patience and faith of the saints", showing that the Weishiet should result in patience and faith.</p>
 He does this in two ways:
 
 - By force and intimidation ([conquering the saints](https://www.bibleserver.com/NIV/Revelation13%3A7), [killing any resistance](https://www.bibleserver.com/NIV/Revelation13%3A10) or [people who don’t want to follow](https://www.bibleserver.com/NIV/Revelation13%3A15)).
@@ -127,41 +92,15 @@ When we see all this, it becomes clear that Satan forms an evil trinity with the
 - the first beast, who resurrects and has power over all nations, representing Jesus, who is worshipped by the second beast,
 - the second beast, to make all worship him as the Holy Spirit does, and to perform signs and wonders, and to cause the dead to live.
 
-<table style="table-layout: fixed; width: 100%">
-<thead>
-<th>The dragon and the two beasts</th><th>Father, Son and Holy Spirit</th>
-</thead>
-<tbody>
-<tr>
-<td style="width:50%;">[Represents kingdoms of this world](https://www.bibleserver.com/NIV/Revelation13%2C1)</td>
-<td style="width:50%;">[Jesus' kingdom is not of this world](https://www.bibleserver.com/NIV/John18%2C36)</td>
-</tr>
-<tr>
-<td>[His resurrections creates fear ("Who can fight with him?")](https://www.bibleserver.com/NIV/Revelation13%2C3)</td>
-<td>[Nobody has more love as the one that gives his live for his friends.](https://www.bibleserver.com/NIV/John15%2C13)</td>
-</tr>
-<tr>
-<td>[One of his heads is deadly wounded.](https://www.bibleserver.com/NIV/Revelation13%2C3)</td>
-<td>Jesus died fully and resurrected</td>
-</tr>
-<tr>
-<td>[Has power only for 42 months](https://www.bibleserver.com/NIV/Revelation13%2C5)</td>
-<td>[Jesus rules in eternity](https://www.bibleserver.com/NIV/Revelation1%2C18) ([Hebr.6/20](https://www.bibleserver.com/NIV/Hebrews6%2C20))</td>
-</tr>
-<tr>
-<td>[Second beast speaks like a dragon](https://www.bibleserver.com/NIV/Revelation13%2C11)</td>
-<td></td>
-</tr>
-<tr>
-<td>[Does great things in front of people](https://www.bibleserver.com/NIV/Revelation13%2C13-14)</td>
-<td>[Jesus acts often in the hidden](https://www.bibleserver.com/NIV/Matthew4%2C5-7) ([Mt.9/30](https://www.bibleserver.com/NIV/Matthew9%2C30), [Mk.5/43](https://www.bibleserver.com/NIV/Mark5%2C43))</td>
-</tr>
-<tr>
-<td>[Kills all that not worship him](https://www.bibleserver.com/NIV/Revelation13%2C15)</td>
-<td>[Holy Spirit can be afflicted](https://www.bibleserver.com/NIV/Ephesians4%2C30) and [does not force](https://www.bibleserver.com/NIV/2.Corinthians3%2C17)</td>
-</tr>
-</tbody>
-</table>
+| The dragon and the two beasts | Father, Son and Holy Spirit |
+|-------------------------------|-----------------------------|
+| [Represents kingdoms of this world](https://www.bibleserver.com/NIV/Revelation13%2C1) | [Jesus' kingdom is not of this world](https://www.bibleserver.com/NIV/John18%2C36) |
+| [His resurrections creates fear ("Who can fight with him?")](https://www.bibleserver.com/NIV/Revelation13%2C3) | [Nobody has more love as the one that gives his live for his friends.](https://www.bibleserver.com/NIV/John15%2C13) |
+| [One of his heads is deadly wounded.](https://www.bibleserver.com/NIV/Revelation13%2C3) | Jesus died fully and resurrected |
+| [Has power only for 42 months](https://www.bibleserver.com/NIV/Revelation13%2C5) | [Jesus rules in eternity](https://www.bibleserver.com/NIV/Revelation1%2C18) ([Hebr.6/20](https://www.bibleserver.com/NIV/Hebrews6%2C20)) |
+| [Second beast speaks like a dragon](https://www.bibleserver.com/NIV/Revelation13%2C11) | |
+| [Does great things in front of people](https://www.bibleserver.com/NIV/Revelation13%2C13-14) | [Jesus acts often in the hidden](https://www.bibleserver.com/NIV/Matthew4%2C5-7) ([Mt.9/30](https://www.bibleserver.com/NIV/Matthew9%2C30), [Mk.5/43](https://www.bibleserver.com/NIV/Mark5%2C43)) |
+| [Kills all that not worship him](https://www.bibleserver.com/NIV/Revelation13%2C15) | [Holy Spirit can be afflicted](https://www.bibleserver.com/NIV/Ephesians4%2C30) and [does not force](https://www.bibleserver.com/NIV/2.Corinthians3%2C17) |
 
 
 ## The dark side
@@ -225,10 +164,9 @@ God comes in love and cares for people, even if it does not always look so victo
 
 ## Dig Deeper
 
-<a name="dc83"></a>
-Beale, Revelation, pages 681–730
+[Beale, Revelation, pages 681–730](../../../../about/ressources/index.html#beale_rev)
 
-Bauckham, Revelation, pages 88–94
+[Bauckham, Revelation, pages 88–94](../../../../about/ressources/index.html#bauckham_rev)
 
 
 

@@ -123,6 +123,9 @@ Frage dich nach diesem, ob du noch glaubst, dass die 666 und das Zeichen auf Han
 - Nutzung von Kredit- oder Debitkarten,
 - Tonnen von Social-Media-Einträgen?
 
+## Zur Vertiefung
+
+[Bauckham, The climax of Prophecy, Seiten 384–452](../../../../about/ressources/index.html#bauckham_climax)
 
 
 

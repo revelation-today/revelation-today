@@ -64,10 +64,9 @@ Yani büyük sıkıntı, kilise olarak karşı karşıya olduğumuz tüm sıkın
 - [İsrail’in kalıntıları](../../../../background/israel/expl/the-remnant-of-israel)
 - [Kilise ve İsrail](../../../../background/israel/expl/the-church-is-part-of-israel)
 
+## Daha fazla kazma
 
-
-
-
+[Beale, Revelation, sayfalar 433–445](../../../../about/ressources/index.html#beale_rev)
 
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/expl/the-end-time-and-the-great-tribulation.tr.md)

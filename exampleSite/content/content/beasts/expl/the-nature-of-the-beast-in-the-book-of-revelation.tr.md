@@ -27,7 +27,8 @@ Bundan önceki ayetlerde ejderhanın [çocuğa (İsa’ya)](../../../../content/
 Bu bölüm ilk bakışta ejderha ve canavarlarının yenilmez bir hükümdar ve zalim olduğu izlenimini verir, ancak Tanrı ve halkıyla karşılaştıklarında referanslar yüksek sesle “Kaybeden” diye bağırır.
 
 Ancak ilk görünüm, ilk canavarın [Daniel’deki dört krallığın](https://www.bibleserver.com/TR/Daniel7%3A1-8) tümünü temsil ettiği gibi görünmez:
-<p>İlk canavar ve Daniel'deki canavarlar</p>
+
+İlk canavar ve Daniel'deki canavarlar
 
 
 | Daniel 7 | Vahiy 13 |
@@ -37,12 +38,8 @@ Ancak ilk görünüm, ilk canavarın [Daniel’deki dört krallığın](https://
 | [Üçüncü hayvan bir leopar gibidir](https://www.bibleserver.com/TR/Daniel7%2C6) | [Leopar gibi bir hayvan](https://www.bibleserver.com/TR/Vahiy13%2C2) |
 | [Dördüncü hayvanın 10 boynuzu vardır](https://www.bibleserver.com/TR/Daniel7%2C7) | [10 boynuzu var](https://www.bibleserver.com/TR/Vahiy13%2C1) |
 | [Üçüncü hayvanın 4, diğerlerinin birer başı vardır](https://www.bibleserver.com/TR/Daniel7%2C6) | [7 kafası var](https://www.bibleserver.com/TR/Vahiy13%2C1) |
-| [Boynuz büyük şeyler söylüyor](https://www.bibleserver.com/TR/Daniel7%2C8) |[En Yüce Olan'a karşı konuşuyor](https://www.bibleserver.com/TR/Daniel7%2C25)
-<td>[Hayvan Tanrı'ya küfrediyor](https://www.bibleserver.com/TR/Vahiy13%2C6)</td>
-<tr>
-<td>[10 boynuz 10 kraldır](https://www.bibleserver.com/TR/Daniel7%2C24)</td>
-<td>[10 kron](https://www.bibleserver.com/TR/Vahiy13%2C1)</td>
-</tr>
+| [Boynuz büyük şeyler söylüyor](https://www.bibleserver.com/TR/Daniel7%2C8) </br> [En Yüce Olan'a karşı konuşuyor](https://www.bibleserver.com/TR/Daniel7%2C25) | [Hayvan Tanrı'ya küfrediyor](https://www.bibleserver.com/TR/Vahiy13%2C6) |
+| [10 boynuz 10 kraldır](https://www.bibleserver.com/TR/Daniel7%2C24) | [10 kron](https://www.bibleserver.com/TR/Vahiy13%2C1) |
 
 
 ## İki yönlü saldırı
@@ -52,28 +49,19 @@ Bağlama biraz baktığımızda, bu ayetin Şeytan’ın İsa’yı ve İsrail�
 
 Bunun için bu iki canavara daha yakından bakalım. Birlikte hareket ediyorlar ve birbirlerini destekliyorlar. Aynı zamanda paralel bir düzen içinde tanımlanırlar
 
-
 | Konu | İlk hayvan | İkinci hayvan |
-|------|------------|---------------|
-| Köken | [ Denizden](https://www.bibleserver.com/TR/Vahiy13%3A1) | [ Topraktan](https://www.bibleserver.com/TR/Vahiy13%3A11) |
-| Kimlik (Daniel ile) | [Yedi Boynuzlu Canavar](https://www.bibleserver.com/TR/Vahiy13%3A1) -&gt; Devam ve Diyarların Gücü | [Kuzu gibi iki boynuzu olan hayvan/insanoğlu](https://www.bibleserver.com/TR/Vahiy13%3A11) |
-| Güç | [Ejderha güç ve tahtverir](https://www.bibleserver.com/TR/Vahiy13%3A2) | [ İlk canavarın gücüyle hüküm sürer](https://www.bibleserver.com/TR/Vahiy13%3A12) |
-| İşaretler ve ibadet | [Ölümcül yara iyileşti](https://www.bibleserver.com/TR/Vahiy13%3A3)
-[Tüm dünya hayretler içinde](https://www.bibleserver.com/TR/Vahiy13%3A3)
-[Canavara güç verenejderhaya tapınmak](https://www.bibleserver.com/TR/Vahiy13%3A4) | [Herkesi yarası iyileşmiş olan ilk canavara tapmaya zorlar](https://www.bibleserver.com/TR/Vahiy13%3A12)[ Büyük işaret](https://www.bibleserver.com/TR/Vahiy13%3A13-14)ler[yapar , gökten ateş yağmasına neden olur, işaretlerle kandırır](https://www.bibleserver.com/TR/Vahiy13%3A13-14)
-[ İlk canavarın gücünü alır](https://www.bibleserver.com/TR/Vahiy13%3A14) |
-| Övünmek | [Kim canavar gibi(onun gibi güçlü)](https://www.bibleserver.com/TR/Vahiy13%3A4)
-[Tanrı'ya ve halkına karşı büyük küfürler](https://www.bibleserver.com/TR/Vahiy13%3A5-6) | [ Hayvanın](https://www.bibleserver.com/TR/Vahiy13%3A14) suretini [yapar](https://www.bibleserver.com/TR/Vahiy13%3A14) (insan Tanrı'nın suretinde yaratılmıştır -&gt; insan Tanrı'nın temsilcisidir).
-				Hayvanın[konuşabilmesi için hayat verebilir](https://www.bibleserver.com/TR/Vahiy13%3A14-15),  ancak sadece Tanrı hayat verebilir |
-| Azizlerin üstesinden gelir | [ Azizlere karşı savaşır ve onları yener](https://www.bibleserver.com/TR/Vahiy13%3A17)
-[Kabileler, diller ve uluslar üzerinde gücü vardır](https://www.bibleserver.com/TR/Vahiy13%3A7)
-[Yeryüzündeki herkes Yaşam Kitabı'nda yazılı olmayan Canavar'a tapar](https://www.bibleserver.com/TR/Vahiy13%3A8). | [Surete tapmayan herkesi öldürün](https://www.bibleserver.com/TR/Vahiy13%3A15)
-[ Herkese işaret ](https://www.bibleserver.com/TR/Vahiy13%3A16) verin  
-[ Canavarın işaretine sahip olmayanhiç kimse alım satım yap](https://www.bibleserver.com/TR/Vahiy13%3A17)amaz. |
-| Dikkat | [ Kulağı olanvarsa duysun!](https://www.bibleserver.com/TR/Vahiy13%3A9)
-[İşte azizlerin sabrı ve imanı](https://www.bibleserver.com/TR/Vahiy13%3A10) | [İştebilgelik](https://www.bibleserver.com/TR/Vahiy13%3A18)
-[Anlayışı olan varsa:Saymak](https://www.bibleserver.com/TR/Vahiy13%3A18)  |
-<p>Sonunda ilginç bir chiasmus daha vardır: "İşte" ve "Eğer biri varsa", "Anlayışı olan saysın" ile "Kulağı olan işitsin" arasında bir denklik olduğunu gösterir: Say" ve "Kulağı olan işitsin", yani bilgi eyleme yol açmalıdır (İbranice'de işitmek=itaat etmek) ve "bilgelik" ile "azizlerin sabrı ve imanı", Weishiet'in sabır ve imanla sonuçlanması gerektiğini gösterir.</p>
+|-------|-----------|---------------|
+| Kökeni | [Denizden](https://www.bibleserver.com/TR/Vahiy13%2C1) | [Topraktan](https://www.bibleserver.com/TR/Vahiy13%2C11) |
+| Kimlik (Daniel ile) | [Yedi boynuzlu hayvan](https://www.bibleserver.com/TR/Vahiy13%2C1) -> alemlerin devamı ve gücü | [Kuzu gibi iki boynuzlu hayvan/insanoğlu](https://www.bibleserver.com/TR/Vahiy13%2C11) |
+| güç | [Ejderha güç ve taht verir](https://www.bibleserver.com/TR/Vahiy13%2C2) | [İlk canavarın gücüne hükmeder](https://www.bibleserver.com/TR/Vahiy13%2C12) |
+| İşaretler ve ibadet | [Ölümcül yara iyileşir](https://www.bibleserver.com/TR/Vahiy13%2C3) </br> [Tüm dünya hayrete düşer](https://www.bibleserver.com/TR/Vahiy13%2C3)
+Canavara <span style="color:green;"></span> [Güç veren ejderhaya tapınır](https://www.bibleserver.com/TR/Vahiy13%2C4) | [Herkesi yarası iyileştirilen ilk canavara tapınmaya zorlar](https://www.bibleserver.com/TR/Vahiy13%2C12). </br> [Büyük işaretler yapar, gökten ateş yağdırır, işaretlerle kandırır](https://www.bibleserver.com/TR/Vahiy13%2C13-14) </br> [İlk canavarın gücünü alır](https://www.bibleserver.com/TR/Vahiy13%2C14). |
+| Övünme | [Canavar gibi olan (onun gibi güçlü olan)](https://www.bibleserver.com/TR/Vahiy13%2C4) </br> [Tanrı'ya ve halkına karşı büyük küfürler](https://www.bibleserver.com/TR/Vahiy13%2C5-6). | [Canavarın güç görüntüsü](https://www.bibleserver.com/TR/Vahiy13%2C14) (insan Tanrı'nın suretinde yaratılmıştır -&gt; insan Tanrı'nın temsilcisidir)</br> [Can verebilir, böylece hayvan konuşabilir](https://www.bibleserver.com/TR/Vahiy13%2C14-15) <span style="color:green;">ancak yalnızca Tanrı can verebilir</span>.  |
+| Azizlerin üstesinden gelir] [Azizlerle savaşır ve onları yener](https://www.bibleserver.com/TR/Vahiy13%2C7). </br> [Kabileler, diller ve uluslar üzerinde gücü vardır](https://www.bibleserver.com/TR/Vahiy13%2C7) </br> [Yeryüzünde yaşam kitabında yazılı olmayan herkes canavara tapar](https://www.bibleserver.com/TR/Vahiy13%2C8).| [Surete tapmayan herkesi öldürün](https://www.bibleserver.com/TR/Vahiy13%2C15).</br> [Herkese işaretler yapın](https://www.bibleserver.com/TR/Vahiy13%2C16) </br> [Canavarın işaretine sahip olmayan hiç kimse alıp satamaz](https://www.bibleserver.com/TR/Vahiy13%2C17). |
+| Dikkat edin, [Kulağı olan varsa dinlesin!](https://www.bibleserver.com/TR/Vahiy13%2C9)</br>[İşte azizlerin sabrı ve imanı](https://www.bibleserver.com/TR/Vahiy13%2C10). | [İşte bilgelik](https://www.bibleserver.com/TR/Vahiy13%2C18)</br> [Anlayışı olan varsa: saysın](https://www.bibleserver.com/TR/Vahiy13%2C18) |
+
+Sonunda ilginç bir chiasmus daha vardır: "İşte" ve "Eğer biri varsa", "Anlayışı olan saysın" ile "Kulağı olan işitsin" arasında bir denklik olduğunu gösterir: Say" ve "Kulağı olan işitsin", yani bilgi eyleme yol açmalıdır (İbranice'de işitmek=itaat etmek) ve "bilgelik" ile "azizlerin sabrı ve imanı", Weishiet'in sabır ve imanla sonuçlanması gerektiğini gösterir.
+
 Bunu iki şekilde yapar:
 
 - zorla ve korkutarak ([azizleri fetheder](https://www.bibleserver.com/TR/Vahiy13%3A7), [direnenleri veya takip](https://www.bibleserver.com/TR/Vahiy13%3A15) etmek [istemeyenleri öldürür](https://www.bibleserver.com/TR/Vahiy13%3A10))
@@ -99,41 +87,15 @@ Tüm bunlar göz önüne alındığında, Şeytan’ın şeytani bir Üçlü Bir
 - tarafından sunulan İsa’yı temsil eden, dirilen ve tüm ulusların gücüne sahip olan ilk canavar
 - İkinci canavar Kutsal Ruh’un yaptığı gibi herkesi kendisine taptıracak, işaretler ve mucizeler yapabilecek ve ölüyü diriltebilecek
 
-<table style="table-layout: fixed; width: 100%">
-<thead>
-<th>Ejderha ve iki canavar</th><th>Baba, Oğul ve Kutsal Ruh</th>.
-	</thead>
-<tbody>
-<tr>
-<td style="width:50%;">[Bu dünyanın krallıklarını temsil eder](https://www.bibleserver.com/TR/Vahiy13%2C1)</td>
-<td style="width:50%;">[İsa'nın krallığı bu dünyaya ait değildir](https://www.bibleserver.com/TR/Yuhanna18%2C36)</td>
-</tr>
-<tr>
-<td>[Dirilişi korku yaratır ("Onunla kim savaşabilir?")](https://www.bibleserver.com/TR/Vahiy13%2C3)</td>
-<td>[Dostları için canını verenden daha büyük sevgiye sahip kimse yoktur.](https://www.bibleserver.com/TR/Yuhanna15%2C13)</td>
-</tr>
-<tr>
-<td>[Başlarından birinde ölümcül bir yara vardı](https://www.bibleserver.com/TR/Vahiy13%2C3)</td>
-<td>İsa öldü ve tamamen dirildi</td>.
-		</tr>
-<tr>
-<td>[Güç sadece 42 ay içindir](https://www.bibleserver.com/TR/Vahiy13%2C5)</td>
-<td>[İsa sonsuza dek hüküm sürer](https://www.bibleserver.com/TR/Vahiy1%2C18) ([Heb.6/20](https://www.bibleserver.com/TR/%C4%B0braniler6%2C20))</td>
-</tr>
-<tr>
-<td>[İkinci Canavar bir ejderha gibi konuşuyor](https://www.bibleserver.com/TR/Vahiy13%2C11)</td>
-<td></td>
-</tr>
-<tr>
-<td>[İnsanların önünde büyük işler yapar](https://www.bibleserver.com/TR/Vahiy13%2C13-14)</td>
-<td>[İsa genellikle gizli çalışır](https://www.bibleserver.com/TR/Matta4%2C5-7) ([Mt.9/30](https://www.bibleserver.com/TR/Matta9%2C30), [Mk.5/43](https://www.bibleserver.com/TR/Markos5%2C43))</td>
-</tr>
-<tr>
-<td>[Ona tapmayan herkesi öldür](https://www.bibleserver.com/TR/Vahiy13%2C15)</td>
-<td>[Kutsal Ruh kederlendirilebilir](https://www.bibleserver.com/TR/Efesliler4%2C30) ve [baskı uygulamayın](https://www.bibleserver.com/TR/2.Korintliler3%2C17)</td>
-</tr>
-</tbody>
-</table>
+| Ejderha ve iki canavar | Baba, Oğul ve Kutsal Ruh |
+|------------------------|--------------------------|
+| [Bu dünyanın krallıklarını temsil eder] (https://www.bibleserver.com/TR/Vahiy13%2C1) | [İsa'nın krallığı bu dünyadan değildir] (https://www.bibleserver.com/TR/Yuhanna18%2C36) |
+| [Onun dirilişi korku yaratır ("Onunla kim savaşabilir?")](https://www.bibleserver.com/TR/Vahiy13%2C3) | [Hiç kimse dostları için canını veren biri kadar sevgiye sahip olamaz](https://www.bibleserver.com/TR/Yuhanna15%2C13) |
+| [Başlarından biri ölümcül şekilde yaralanmıştır.] (https://www.bibleserver.com/TR/Vahiy13%2C3) | İsa tamamen öldü ve dirildi |
+| [Sadece 42 ay boyunca gücü vardır](https://www.bibleserver.com/TR/Vahiy13%2C5) | [İsa sonsuzlukta hüküm sürer](https://www.bibleserver.com/TR/Vahiy1%2C18) ([Ibr.6/20](https://www.bibleserver.com/TR/%C4%B0braniler6%2C20)) |
+| [İkinci canavar ejderha gibi konuşuyor] (https://www.bibleserver.com/TR/Vahiy13%2C11) | |
+| [İnsanların önünde büyük işler yapar](https://www.bibleserver.com/TR/Vahiy13%2C13-14) | [İsa sık sık gizli işler yapar](https://www.bibleserver.com/TR/Matta4%2C5-7) ([Mt.9/30](https://www.bibleserver.com/TR/Matta9%2C30), [Mk.5/43](https://www.bibleserver.com/TR/Markos5%2C43)) |
+| [Kendisine ibadet etmeyen herkesi öldürür](https://www.bibleserver.com/TR/Vahiy13%2C15) | [Kutsal Ruh etkilenebilir](https://www.bibleserver.com/TR/Efesliler4%2C30) ve [zorlamaz](https://www.bibleserver.com/TR/2.Korintliler3%2C17) |
 
 
 ## Karanlık taraf
@@ -199,6 +161,11 @@ Tanrı, her zaman çok muzaffer görünmese bile, insanlarla ilgilenerek sevgiyl
 - [666 sayısı](../../../../content/beasts/expl/666-the-number-of-the-beast)
 - [3,5 yıl](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
+## Daha fazla kazma
+
+[Beale, Revelation, sayfalar 681–730](../../../../about/ressources/index.html#beale_rev)
+
+[Bauckham, Revelation, sayfalar 88–94](../../../../about/ressources/index.html#bauckham_rev)
 
 
 

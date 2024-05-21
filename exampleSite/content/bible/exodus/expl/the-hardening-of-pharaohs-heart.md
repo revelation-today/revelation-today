@@ -1,5 +1,6 @@
 ---
 title: "The hardening of Pharaoh’s heart"
+weight: 30
 ---
 
 

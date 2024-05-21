@@ -1,5 +1,6 @@
 ---
 title: "Die Geschichte von Moses"
+weight: 20
 ---
 
 
@@ -13,11 +14,13 @@ Die Geschichte selbst hat nur zwei Kapitel und ist es wert, vorher gelesen zu we
 <a name="4472"></a>
 Der Pharao versucht alles, um zu verhindern, dass Israel ein großes Volk wird. Aber was er auch versucht, es funktioniert nicht und bewirkt manchmal sogar das Gegenteil. Es ist eine Parodie auf die Mächtigen.
 
-- Der Pharao versteht sich als Repräsentant der Götter.Aber er ist keine Schlüsselperson in der Geschichte. Er wird nicht einmal namentlich erwähnt. Er wirkt wie ein Statist wie die Götter, die er repräsentiert — keiner von ihnen wird in der Geschichte namentlich genannt.Aber die Helden der Geschichte haben Namen und sind all Nicht-Ägypter und meist Frauen ([Schifra und Pua, die Namen der Hebammen, sind übrigens semitisch](https://www.bibleserver.com/SLT/2.Mose1%2C15), also Ausländer)
-- Der Pharao läßt die Israeliten harte Arbeit verrichten, so dass sie sterben.Doch das Volk wächst, und am [Ende verlassen sie Ägypten voller Reichtümer](https://www.bibleserver.com/SLT/2.Mose12%2C35-36). Sie sind nicht nur frei, sondern auch in ihrer Würde wiederhergestellt.
-- Die Hebammen sollen die Neugeborenen töten.Sie widersetzen sich dem Pharao (als Ausländer), aber werden nicht dafür bestraft, sondern [von Gott mit eigenen Kindern gesegnet](https://www.bibleserver.com/SLT/2.Mose1%2C21).
-- Die Neugeborenen sollen in den Nil geworfen werden.Als Moses in den Nil geworfen wird, wird die Kiste mit [demselben Wort ](https://biblehub.com/hebrew/strongs_8392.htm)bezeichnet wie die Arche Noah’s, ein Ort der Rettung.
-- Moses ist die Schlüsselfigur in der Geschichte und er ist derjenige, der den Pharao besiegt.Er wird von der [Tochter ebendiesen Pharaos aufgezogen und er bezahlt seine leibliche Mutter, um ihn die ersten Jahre seines Lebens zu begleiten](https://www.bibleserver.com/SLT/2.Mose2%2C5-10).
+| Sicht des Pharao | Realität |
+|------------------|----------|
+| Der Pharao versteht sich als Repräsentant der Götter. | Aber er ist keine Schlüsselperson in der Geschichte. Er wird nicht einmal namentlich erwähnt. Er wirkt wie ein Statist wie die Götter, die er repräsentiert — keiner von ihnen wird in der Geschichte namentlich genannt.Aber die Helden der Geschichte haben Namen und sind all Nicht-Ägypter und meist Frauen ([Schifra und Pua, die Namen der Hebammen, sind übrigens semitisch](https://www.bibleserver.com/SLT/2.Mose1%2C15), also Ausländer). |
+| Der Pharao läßt die Israeliten harte Arbeit verrichten, so dass sie sterben. | Doch das Volk wächst, und am [Ende verlassen sie Ägypten voller Reichtümer](https://www.bibleserver.com/SLT/2.Mose12%2C35-36). Sie sind nicht nur frei, sondern auch in ihrer Würde wiederhergestellt. |
+| Die Hebammen sollen die Neugeborenen töten. | Sie widersetzen sich dem Pharao (als Ausländer), aber werden nicht dafür bestraft, sondern [von Gott mit eigenen Kindern gesegnet](https://www.bibleserver.com/SLT/2.Mose1%2C21). |
+| Die Neugeborenen sollen in den Nil geworfen werden. | Als Moses in den Nil geworfen wird, wird die Kiste mit [demselben Wort ](https://biblehub.com/hebrew/strongs_8392.htm)bezeichnet wie die Arche Noah’s, ein Ort der Rettung. |
+| Moses ist die Schlüsselfigur in der Geschichte und er ist derjenige, der den Pharao besiegt. | Er wird von der [Tochter ebendiesen Pharaos aufgezogen und er bezahlt seine leibliche Mutter, um ihn die ersten Jahre seines Lebens zu begleiten](https://www.bibleserver.com/SLT/2.Mose2%2C5-10). |
 
 
 
@@ -26,11 +29,13 @@ Der Pharao versucht alles, um zu verhindern, dass Israel ein großes Volk wird. 
 <a name="659b"></a>
 Die Geschichte des Mose ist die Umkehrung der Heldengeschichten jener Zeit. Ich schreibe hier die normale Geschichte und darunter die Geschichte des Mose.
 
-- Die Geschichte beginnt normalerweise damit, dass der Held bei seiner Geburt ausgesetzt wird (Herkules, Ödipus, Romulus und Remus, Kyros, …) Mose wurde von seiner liebeneden Mutter verborgen und sie hat gut auf ihn geachtet und könnten ihn die ersten Jahre sogar begleiten.
-- Der Finder des Kinder ist normalerweise von geringem Status.Mose wuchs am Hofe der Tochter des Pharao’s auf.
-- Die Identität des Kindes ist unbekannt und wird nur am Ende der Geschichte wirklich bekannt.Mose’s Identität ist [schon zu Beginn von der Tochter des Pharao’s bekannt](https://www.bibleserver.com/SLT/2.Mose2%2C6).
-- Die Entdeckung seiner wahren Identität ist der Wendepunkt in der Geschichte und gibt ihm den entsprechenden Status.Mose’s wahre Identität bring ihn in Schwierigkeiten und er muss fliehen, um zu überleben.
-- Der Grund für die Geschichte ist, zu zeigen, warum dem Helden am Ende die Macht zusteht.Die Geschichte zeigt nicht, was Mose zusteht, sondern wie Gott versorgt und in Kontrolle über die Situation ist.
+| Normale Heldengeschichte | Die Geschichte von Mose |
+|--------------------------|-------------------------|
+| Die Geschichte beginnt normalerweise damit, dass der Held bei seiner Geburt ausgesetzt wird (Herkules, Ödipus, Romulus und Remus, Kyros, ...). | Mose wurde von seiner liebeneden Mutter verborgen und sie hat gut auf ihn geachtet und könnten ihn die ersten Jahre sogar begleiten. |
+| Der Finder des Kinder ist normalerweise von geringem Status. | Mose wuchs am Hofe der Tochter des Pharao’s auf. |
+| Die Identität des Kindes ist unbekannt und wird nur am Ende der Geschichte wirklich bekannt. | Mose’s Identität ist [schon zu Beginn von der Tochter des Pharao’s bekannt](https://www.bibleserver.com/SLT/2.Mose2%2C6). |
+| Die Entdeckung seiner wahren Identität ist der Wendepunkt in der Geschichte und gibt ihm den entsprechenden Status. | Mose’s wahre Identität bring ihn in Schwierigkeiten und er muss fliehen, um zu überleben. |
+| Der Grund für die Geschichte ist, zu zeigen, warum dem Helden am Ende die Macht zusteht. | Die Geschichte zeigt nicht, was Mose zusteht, sondern wie Gott versorgt und in Kontrolle über die Situation ist. |
 
 
 
@@ -49,6 +54,9 @@ Was er wirklich lernen musste (und was ihn zum Helden machten), war, Gott zu ver
 
 Doch am Ende geht alles gut aus, denn der wahre Held ist nicht Mose, sondern Gott.
 
+## Zur Vertiefung
+
+[Nahum Sarna, Exodus, Seiten 27–37](../../../../about/ressources/index.html#sarna_exo)
 
 
 

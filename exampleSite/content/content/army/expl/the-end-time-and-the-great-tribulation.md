@@ -50,7 +50,33 @@ We see the tribulation already foretold by [Jesus to the disciples](https://www.
 
 
 
-This makes the Great Tribulation something that happens the whole time between Jesus first and second coming. But how is this possible?Let us look again at the passage in Daniel. “Michael, the protector of Israel, will arise”. This is taken up in the Book of Revelation in connection with the [first coming of Christ](../../../../content/jesus/expl/a-different-christmas-story) in chapter 12. [Michael will fight with the dragon](https://www.bibleserver.com/NIV/Revelation12%3A7) ([devil](https://www.bibleserver.com/NIV/Revelation12%3A9)) and defeat him and cast him out of heaven. [But because of his defeat, he is ruthless because he has only little time](https://www.bibleserver.com/NIV/Revelation12%3A12) and tries to do as much damage as possible, [first against Israel](https://www.bibleserver.com/NIV/Revelation12%3A13-17) and at this didn’t work, [against the church](https://www.bibleserver.com/NIV/Revelation13).So the Great Tribulation refers to all the tribulations that we as the Church are facing.Further reading[The day of the Lord](../../../../background/israel/expl/the-day-of-the-lord)[Who rules the world](../../../../topics/hero/short/who-rules-the-world)[Jesus and the Day of the Lord](../../../../background/israel/expl/jesus-and-the-covenant)[The second exodus](../../../../background/israel/expl/the-second-exodus)[The son of man](../../../../bible/daniel/expl/the-son-of-man-and-the-remnant)[The remnant of Israel](../../../../background/israel/expl/the-remnant-of-israel)[The church and Israel](../../../../background/israel/expl/the-church-is-part-of-israel)Dig DeeperBeale, Revelation, pages 433–445
+This makes the Great Tribulation something that happens the whole time between Jesus first and second coming. But how is this possible?
+
+Let us look again at the passage in Daniel. “Michael, the protector of Israel, will arise”. This is taken up in the Book of Revelation in connection with the [first coming of Christ](../../../../content/jesus/expl/a-different-christmas-story) in chapter 12. [Michael will fight with the dragon](https://www.bibleserver.com/NIV/Revelation12%3A7) ([devil](https://www.bibleserver.com/NIV/Revelation12%3A9)) and defeat him and cast him out of heaven. 
+
+[But because of his defeat, he is ruthless because he has only little time](https://www.bibleserver.com/NIV/Revelation12%3A12) and tries to do as much damage as possible, [first against Israel](https://www.bibleserver.com/NIV/Revelation12%3A13-17) and at this didn’t work, [against the church](https://www.bibleserver.com/NIV/Revelation13).
+
+So the Great Tribulation refers to all the tribulations that we as the Church are facing.
+
+## Further reading
+
+[The day of the Lord](../../../../background/israel/expl/the-day-of-the-lord)
+
+[Who rules the world](../../../../topics/hero/short/who-rules-the-world)
+
+[Jesus and the Day of the Lord](../../../../background/israel/expl/jesus-and-the-covenant)
+
+[The second exodus](../../../../background/israel/expl/the-second-exodus)
+
+[The son of man](../../../../bible/daniel/expl/the-son-of-man-and-the-remnant)
+
+[The remnant of Israel](../../../../background/israel/expl/the-remnant-of-israel)
+
+[The church and Israel](../../../../background/israel/expl/the-church-is-part-of-israel)
+
+## Dig Deeper
+
+[Beale, Revelation, pages 433–445](../../../../about/ressources/index.html#beale_rev)
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/expl/the-end-time-and-the-great-tribulation.md)

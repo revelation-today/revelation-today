@@ -1,5 +1,6 @@
 ---
 title: "Das Geheimnis der 70 Jahrwochen"
+weight: 40
 ---
 
 

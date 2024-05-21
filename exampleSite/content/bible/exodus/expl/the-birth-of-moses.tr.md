@@ -1,5 +1,6 @@
 ---
 title: "Musa’nın hikayesi"
+weight: 20
 ---
 
 
@@ -13,11 +14,13 @@ Bu hikâye Kutsal Kitap’ta sadece iki bölüm uzunluğundadır ve daha önce o
 <a name="e6bc"></a>
 Firavun İsraillilerin büyük bir halk olmasını engellemek için her şeyi yapıyor ama ne yaparsa yapsın başarısız oluyor. Bu bir tür parodidir.
 
-- Firavun kendisini Tanrıların temsilcisi olarak görürHikayede kilit bir kişi değil. İsmiyle bile anılmıyor. Temsil ettiği tanrılar gibi ona da bir arka plan aktörü gibi davranılıyor — hiçbirinin adı geçmiyor.Ancak ana kahramanlar isimdir ve çoğunlukla kadındırlar ve hepsi Mısırlı değildir ([Schifra ve Pua, ebelerin](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1%3A15) adı semitiktir)
-- Firavun İsrailli kölelerin ölmesi için onlara ağır işler yükledi.Hatta halk giderek daha da zenginleşir ve sonunda [Mısır’dan ayrıldıklarında ](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F12%3A35-36)zenginliklerle doludurlar. Sonunda sadece özgür olmakla kalmazlar, aynı zamanda itibarları da iade edilir.
-- ebeler yeni doğan bebekleri öldürmeliFiravunu (Asyalı yabancılar olarak) reddederler ve cezalandırılmayıp [Tanrı tarafından çocuklarla kutsanırlar](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1%3A21)
-- yeni doğan bebekler Nil’e atılmalıMusa, Nuh’un Gemisi ile [aynı anlama](https://biblehub.com/hebrew/strongs_8392.htm) gelen bir sepetin içinde Nil nehrine bırakılır ve kurtarılır.
-- Musa hikâyenin anahtarıdır ve Firavun’u alaşağı edecek kişidir[Firavunun kızı tarafından büyütülür ve annesine onu büyütmesi için para ödenir](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2%3A5-10)
+| Pharao'nun Görünümü | Gerçeklik |
+|---------------------|-----------|
+| Firavun kendisini Tanrıların temsilcisi olarak görürHikayede kilit bir kişi değil. | İsmiyle bile anılmıyor. Temsil ettiği tanrılar gibi ona da bir arka plan aktörü gibi davranılıyor — hiçbirinin adı geçmiyor.Ancak ana kahramanlar isimdir ve çoğunlukla kadındırlar ve hepsi Mısırlı değildir ([Schifra ve Pua, ebelerin](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1%3A15) adı semitiktir). |
+| Firavun İsrailli kölelerin ölmesi için onlara ağır işler yükledi. | Hatta halk giderek daha da zenginleşir ve sonunda [Mısır’dan ayrıldıklarında ](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F12%3A35-36)zenginliklerle doludurlar. Sonunda sadece özgür olmakla kalmazlar, aynı zamanda itibarları da iade edilir. |
+| ebeler yeni doğan bebekleri öldürmeli | Firavunu (Asyalı yabancılar olarak) reddederler ve cezalandırılmayıp [Tanrı tarafından çocuklarla kutsanırlar](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1%3A21) |
+| yeni doğan bebekler Nil’e atılmalı | Musa, Nuh’un Gemisi ile [aynı anlama](https://biblehub.com/hebrew/strongs_8392.htm) gelen bir sepetin içinde Nil nehrine bırakılır ve kurtarılır. |
+| Musa hikâyenin anahtarıdır | Firavun’u alaşağı edecek kişidir[Firavunun kızı tarafından büyütülür ve annesine onu büyütmesi için para ödenir](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2%3A5-10) |
 
 
 
@@ -26,11 +29,13 @@ Firavun İsraillilerin büyük bir halk olmasını engellemek için her şeyi ya
 <a name="ae0c"></a>
 Musa’nın hikayesi, eski çağlardaki bir kahramanlık hikayesinin tam tersidir. Normal hikayeyi kalın, Musa’nın hikayesini ise italik olarak yazacağım.
 
-- hikaye kahramanın bebekken terk edilmesiyle başlar (Herkül, Oedipus, Romulus ve Remus, Cyros, …)Moses sevgi dolu annesi tarafından saklandı ve iyi bakılana kadar dikkatle izlendi
-- çocuğu bulan kişi normalde düşük statüdedirMusa Firavun’un kızı tarafından büyütüldü ve kendi annesi tarafından emzirildi
-- Çocuğun kimliği bilinmiyor ve ancak sonunda ortaya çıkıyorMusa’nın kimliği [en başından beri Firavun’un kızı tarafından bilinmektedir](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2%3A6)
-- gerçek kimliğinin keşfi bir dönüm noktasıdır ve ona ilgili statüyü sağlarMusa’nın gerçek kimliği başını belaya sokar ve hayatta kalmak için kaçması gerekir
-- hikayenin nedeni kahramanın güç iddiasını göstermektirÖykü Musa’nın iddiasını değil, Tanrı’nın sağlayışını ve kontrolünü gösterir
+| Bir kahramanın normal hikayesi | Musa'nın hikayesi |
+|--------------------------------|-------------------|
+| hikaye kahramanın bebekken terk edilmesiyle başlar (Herkül, Oedipus, Romulus ve Remus, Cyros, ...) | Moses sevgi dolu annesi tarafından saklandı ve iyi bakılana kadar dikkatle izlendi. |
+| çocuğu bulan kişi normalde düşük statüdedir | Musa Firavun’un kızı tarafından büyütüldü ve kendi annesi tarafından emzirildi. |
+| Çocuğun kimliği bilinmiyor ve ancak sonunda ortaya çıkıyor | Musa’nın kimliği [en başından beri Firavun’un kızı tarafından bilinmektedir](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2%3A6). |
+| gerçek kimliğinin keşfi bir dönüm noktasıdır ve ona ilgili statüyü sağlar | Musa’nın gerçek kimliği başını belaya sokar ve hayatta kalmak için kaçması gerekir. |
+| hikayenin nedeni kahramanın güç iddiasını göstermektir | Öykü Musa’nın iddiasını değil, Tanrı’nın sağlayışını ve kontrolünü gösterir. |
 
 
 
@@ -49,7 +54,9 @@ Tanrı’nın halkıyla yaptığı antlaşma gereği İsrail halkını kurtarmas
 
 Sonunda her şey yoluna girer çünkü hikâyenin gerçek kahramanı Musa değil Tanrı’dır.
 
+## Daha fazla kazma
 
+[Nahum Sarna, Exodus, sayfalar 27–37](../../../../about/ressources/index.html#sarna_exo)
 
 
 

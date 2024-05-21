@@ -64,8 +64,9 @@ Hıristiyanlar bu sistemle yüzleşmek için ne yapabilirler? Örneğin 14. böl
 
 Ve tüm bunların içinde: [Dayanıklılık](https://www.bibleserver.com/TR/Vahiy13%3A10) ve [bilgelik Tanrı nedir ve ne değildir](https://www.bibleserver.com/TR/Vahiy13%3A18).
 
+## Daha fazla kazma
 
-
+[Beale, Revelation, sayfalar 682–684](../../../../about/ressources/index.html#beale_rev)
 
 
 

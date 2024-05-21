@@ -1,5 +1,6 @@
 ---
 title: "İnsanoğlu"
+weight: 30
 ---
 
 
