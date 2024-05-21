@@ -9,17 +9,17 @@ Vahiy Kitabı, belirlenmiş yedi kiliseye gönderilen yedi mektubu gösterir. Am
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="cf1d"></a>
-- [Kitabın tarihsel arka planı](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [Ne tür bir kitap bu?](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Vizyon](../../../content/letters/expl/the-vision)
-- [Kiliselerin melekleri](../../../content/letters/expl/the-angel-of-the-churches)
+- [Kitabın tarihsel arka planı](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [Ne tür bir kitap bu?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [Vizyon](../../../../content/letters/expl/the-vision)
+- [Kiliselerin melekleri](../../../../content/letters/expl/the-angel-of-the-churches)
 
 
 
 ## Vizyon
 
 <a name="12bf"></a>
-Johannes mektuptan önce [Tanrı’nın kiliseyi nasıl hayal ettiğini yazar](../../../content/letters/expl/the-vision).
+Johannes mektuptan önce [Tanrı’nın kiliseyi nasıl hayal ettiğini yazar](../../../../content/letters/expl/the-vision).
 
 Mesaj şudur: Yıldızlar ve kuzu duruşları olarak yansıtılan kilise ışık olmalıdır (kuzu kilisenin içinde durur ve yıldızlar dünyaya doğru), ancak bunu İsa’ya bağlı olarak yapmalıdırlar, onsuz değil.
 
@@ -61,13 +61,13 @@ Thyatira: Ana mesaj budur ve ana nokta kötü bir önderliktir ve İsa herkesin 
 ## Daha fazla okuma
 
 <a name="f6db"></a>
-- [Efes’teki kilise](../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
-- [İzmir’deki kilise](../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
-- [Pergamon’daki kilise](../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
-- [Thyatira’daki kilise](../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
-- [Sardis’teki kilise](../../../content/letters/expl/the-letter-to-the-church-in-sardis)
-- [Philadelphia’daki kilise](../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
-- [Laodikya’daki kilise](../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
+- [Efes’teki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
+- [İzmir’deki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
+- [Pergamon’daki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
+- [Thyatira’daki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
+- [Sardis’teki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-sardis)
+- [Philadelphia’daki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
+- [Laodikya’daki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
 
 
 

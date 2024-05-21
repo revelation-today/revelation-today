@@ -133,16 +133,16 @@ Yani Şeytan ve İsa gibi davrananlar arasındaki ayırt edici nokta güç ya da
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="8458"></a>
-- [İki canavar](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [Canavarın sayısı](../../../content/beasts/expl/666-the-number-of-the-beast)
-- [Orijinal bağlamda canavar](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
-- [Canavarın doğası](../../../content/beasts/expl/the-nature-of-the-beast)
+- [İki canavar](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [Canavarın sayısı](../../../../content/beasts/expl/666-the-number-of-the-beast)
+- [Orijinal bağlamda canavar](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
+- [Canavarın doğası](../../../../content/beasts/expl/the-nature-of-the-beast)
 
 
 

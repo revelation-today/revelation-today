@@ -42,7 +42,7 @@ But what is the scroll now? Looking at the next chapter(s), it is the testimony 
 ## Further readings
 
 <a name="b216"></a>
-- [The two witnesses](../../../content/witnesses/expl/the-two-witnesses)
+- [The two witnesses](../../../../content/witnesses/expl/the-two-witnesses)
 
 
 

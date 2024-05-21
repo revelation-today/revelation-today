@@ -60,7 +60,7 @@ Das ganze Kapitel handelt von den Völkern und den Bemühungen der Kirche, sie z
 ## Zur Vertiefung
 
 <a name="1142"></a>
-- [Gottes Armee und die sieben Engel](../../../content/harvest/expl/gods-army-and-the-seven-angels)
+- [Gottes Armee und die sieben Engel](../../../../content/harvest/expl/gods-army-and-the-seven-angels)
 
 
 

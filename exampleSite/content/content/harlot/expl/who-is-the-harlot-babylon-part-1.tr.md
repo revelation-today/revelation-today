@@ -8,7 +8,7 @@ Sorun Papa değil. Ekonomi de değil. Herkes olabilir, hatta kilise bile.
 
 Fahişe Babil’le ilgili bölümü anlamak zor çünkü [birbiriyle etkileşim halinde olan çok sayıda oyuncu var](https://www.bibleserver.com/TR/Vahiy17). Onlara bir göz atalım.
 
-Kralları ve tüm dünyayı sarhoş eden büyük fahişe ile başlar ve şimdi onun sırları açığa çıkar. İlk ipucu, kadının 7 başlı ve 10 boynuzlu bir canavarın ([13. bölümden](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)) üzerinde oturmasıdır. Kadın Babil olarak tanımlanır. Canavar 8. kral iken, 7 baş 7 tepenin yanı sıra birbiri ardına hüküm süren 7 kraldır. 10 boynuz aynı anda hüküm süren ve tüm güçlerini canavara veren 10 kraldır.
+Kralları ve tüm dünyayı sarhoş eden büyük fahişe ile başlar ve şimdi onun sırları açığa çıkar. İlk ipucu, kadının 7 başlı ve 10 boynuzlu bir canavarın ([13. bölümden](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)) üzerinde oturmasıdır. Kadın Babil olarak tanımlanır. Canavar 8. kral iken, 7 baş 7 tepenin yanı sıra birbiri ardına hüküm süren 7 kraldır. 10 boynuz aynı anda hüküm süren ve tüm güçlerini canavara veren 10 kraldır.
 
 Şimdi canavar azizlere karşı savaşır, ama İsa kavgaya devam eder ve sonunda canavar ve krallar fahişeden nefret eder ve onu yok ederler.
 
@@ -121,8 +121,8 @@ Bölüm 17'deki ilk canavar fahişeyi desteklerken, bölüm 13'te ikinci canavar
 ## Daha fazla okuma
 
 <a name="7688"></a>
-- [Fahişe 2. bölüm](../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
-- [Babil’in kökeni](../../../bible/keyword/expl/the-origin-of-babel)
+- [Fahişe 2. bölüm](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
+- [Babil’in kökeni](../../../../bible/keyword/expl/the-origin-of-babel)
 
 
 

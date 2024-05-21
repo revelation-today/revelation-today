@@ -53,7 +53,7 @@ Der Schlüssel dazu ist das Zeugnis der Kirche. Und mit Zeugnis ist nicht nur ei
 ## Zur Vertiefung
 
 <a name="d451"></a>
-- [Das kleine Büchlein](../../../content/scroll/expl/the-little-scroll)
+- [Das kleine Büchlein](../../../../content/scroll/expl/the-little-scroll)
 
 
 

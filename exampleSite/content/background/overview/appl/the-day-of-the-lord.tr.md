@@ -79,13 +79,13 @@ Ancak önemli bir ayrıntı vardır: İsa yaklaşmakta olan kiliseden bahsederke
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="4ac9"></a>
-- [İsrail](../../../background/israel/expl/who-is-israel)
+- [İsrail](../../../../background/israel/expl/who-is-israel)
 
 
 

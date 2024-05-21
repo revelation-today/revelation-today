@@ -76,18 +76,18 @@ Diğer yandan: Zor zamanlar bir kalbi değiştirmek için yeterli değildir. Dah
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="2c6d"></a>
-- [Duanın gücü](../../../topics/power/short/the-key-of-prayer)
-- [Göçten önceki hikaye](../../../bible/exodus/expl/the-story-before-the-exodus)
-- [Musa’nın doğumu](../../../bible/exodus/expl/the-birth-of-moses)
-- [Firavun’un yüreğinin katılaşması](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
-- [Mısır’daki belalar](../../../bible/exodus/expl/the-plagues-in-egypt)
-- [Yedi trompet](../../../content/trumpets/expl/the-trumpets-in-revelation)
+- [Duanın gücü](../../../../topics/power/short/the-key-of-prayer)
+- [Göçten önceki hikaye](../../../../bible/exodus/expl/the-story-before-the-exodus)
+- [Musa’nın doğumu](../../../../bible/exodus/expl/the-birth-of-moses)
+- [Firavun’un yüreğinin katılaşması](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
+- [Mısır’daki belalar](../../../../bible/exodus/expl/the-plagues-in-egypt)
+- [Yedi trompet](../../../../content/trumpets/expl/the-trumpets-in-revelation)
 
 
 

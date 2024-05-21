@@ -68,23 +68,23 @@ Zorlukları da güçlü yanları gibi bireyseldir, bu nedenle bazı kiliselerin 
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="9c08"></a>
-- [Kitap nasıl başlıyor](../../../content/letters/expl/setting-the-foundation)
-- [İsa’nın vizyonu](../../../content/letters/expl/the-vision)
-- [Kiliselerin melekleri](../../../content/letters/expl/the-angel-of-the-churches)
-- [Kiliseler için mektup](../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [Efes’e mektup](../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
-- [İzmir’e mektup](../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
-- [Pergamon’a mektup](../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
-- [Thyatira’ya mektup](../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
-- [Sardes’e mektup](../../../content/letters/expl/the-letter-to-the-church-in-sardis)
-- [Philadelphia’ya mektup](../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
-- [Laodikya’ya mektup](../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
+- [Kitap nasıl başlıyor](../../../../content/letters/expl/setting-the-foundation)
+- [İsa’nın vizyonu](../../../../content/letters/expl/the-vision)
+- [Kiliselerin melekleri](../../../../content/letters/expl/the-angel-of-the-churches)
+- [Kiliseler için mektup](../../../../content/letters/expl/the-letters-to-the-seven-churches)
+- [Efes’e mektup](../../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
+- [İzmir’e mektup](../../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
+- [Pergamon’a mektup](../../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
+- [Thyatira’ya mektup](../../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
+- [Sardes’e mektup](../../../../content/letters/expl/the-letter-to-the-church-in-sardis)
+- [Philadelphia’ya mektup](../../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
+- [Laodikya’ya mektup](../../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
 
 
 

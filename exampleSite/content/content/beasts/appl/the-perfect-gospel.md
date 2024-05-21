@@ -139,10 +139,10 @@ So the difference between the alleged Satan and Jesus is not power or success, b
 ## Digging deeper
 
 <a name="06f1"></a>
-- [The two beasts](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [The number of the beast](../../../content/beasts/expl/666-the-number-of-the-beast)
-- [The beast in the original context](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
-- [The nature of the beast](../../../content/beasts/expl/the-nature-of-the-beast)
+- [The two beasts](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [The number of the beast](../../../../content/beasts/expl/666-the-number-of-the-beast)
+- [The beast in the original context](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
+- [The nature of the beast](../../../../content/beasts/expl/the-nature-of-the-beast)
 
 
 

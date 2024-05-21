@@ -75,10 +75,10 @@ Would you be willing to see this with fresh eyes? You might be surprised like in
 <a name="06f1"></a>
 If you want to get more details on this topic:
 
-- [More on the genre](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [The Old Testament, an important key to understand the pictures](../../../background/literature/expl/full-of-biblical-references)
-- [Are these all symbols?](../../../background/literature/expl/literally-or-symbolic)
-- [What does all the numbers mean and the beauty of poetry](../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
+- [More on the genre](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [The Old Testament, an important key to understand the pictures](../../../../background/literature/expl/full-of-biblical-references)
+- [Are these all symbols?](../../../../background/literature/expl/literally-or-symbolic)
+- [What does all the numbers mean and the beauty of poetry](../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
 
 
 

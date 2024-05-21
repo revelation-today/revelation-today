@@ -32,7 +32,7 @@ The early readers were able to grasp this information very well because
 ## Further digging
 
 <a name="9730"></a>
-[Beale, Revelation, page 82–83](../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
+[Beale, Revelation, page 82–83](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
 
 
 

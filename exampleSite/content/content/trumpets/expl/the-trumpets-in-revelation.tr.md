@@ -4,7 +4,7 @@ weight: 2
 ---
 
 
-Vahiy kitabının 8, 9 ve 11. bölümlerinde yer alan trompetler birçok insan için modern zamanlardaki bazı felaketleri yansıtsa da aslında [Mısır’daki belaları](../../../bible/exodus/expl/the-plagues-in-egypt) yansıtmaktadır.
+Vahiy kitabının 8, 9 ve 11. bölümlerinde yer alan trompetler birçok insan için modern zamanlardaki bazı felaketleri yansıtsa da aslında [Mısır’daki belaları](../../../../bible/exodus/expl/the-plagues-in-egypt) yansıtmaktadır.
 
 Trompetler kitapta bildirilen yedi eylemin ikinci serisidir. Bunların başlangıcı mühürlerin sonuyla iç içedir ve buna daha yakından bakmaya değer.
 
@@ -12,9 +12,9 @@ Trompetler kitapta bildirilen yedi eylemin ikinci serisidir. Bunların başlang�
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="b75f"></a>
-- [Kitabın tarihsel arka planı](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [Ne tür bir kitap bu?](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Mısır’daki belalar](../../../bible/exodus/expl/the-plagues-in-egypt)
+- [Kitabın tarihsel arka planı](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [Ne tür bir kitap bu?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [Mısır’daki belalar](../../../../bible/exodus/expl/the-plagues-in-egypt)
 
 
 
@@ -37,7 +37,7 @@ Ama ikinci olarak: Dualarınızın trompetlerin neden olduğu dramaya neden olma
 ## İlk dört borazan
 
 <a name="c8ff"></a>
-[Mısır’daki belalar](../../../bible/exodus/expl/the-plagues-in-egypt) Firavun ve tanrılarına güvenilemeyeceğini gösterdi. Onların bir geleceği yoktur ve hiç kimse onlara güvenmemelidir.
+[Mısır’daki belalar](../../../../bible/exodus/expl/the-plagues-in-egypt) Firavun ve tanrılarına güvenilemeyeceğini gösterdi. Onların bir geleceği yoktur ve hiç kimse onlara güvenmemelidir.
 
 [İbranilere yazılan mektupta](https://www.bibleserver.com/TR/%C4%B0braniler12%3A26-28) da belirtildiği gibi, buradaki trompetler insanların sahip olduğu tüm güvenceleri ortadan kaldırır. İnsanlar, Tanrı’nın Egemenliği’nin sahip olduklarından daha iyi bir güvence olduğuna yaşamlarında tanıklık etmelidirler.
 
@@ -49,7 +49,7 @@ Ama ikinci olarak: Dualarınızın trompetlerin neden olduğu dramaya neden olma
 
 [Dördüncü borazan](https://www.bibleserver.com/TR/Vahiy8%3A12-13) ışığın ve yönelimin (denize açılmak için) önemli bir bölümünü ortadan kaldırır. Mısır’da yıkıcı bir etkisi olan ve İsrail ile [Mısırlılar arasındaki farkı gösteren dokuzuncu bela](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F10%3A22-23) ile ilgilidir.
 
-Neden tüm borazanların sadece üçte biri etkili olmuştur? Evet, borazanlar Tanrı’nın yarattıklarına (altıncı borazandaki insan da dahil) karşı yapılır, ama günahın etkisi altında kalmıştır. [Yıldızların (meleklerin) üçte biri Şeytan’la birlikte düştüğü gibi](../../../content/jesus/expl/a-different-christmas-story), yaratılışın üçte biri de yok edilir.
+Neden tüm borazanların sadece üçte biri etkili olmuştur? Evet, borazanlar Tanrı’nın yarattıklarına (altıncı borazandaki insan da dahil) karşı yapılır, ama günahın etkisi altında kalmıştır. [Yıldızların (meleklerin) üçte biri Şeytan’la birlikte düştüğü gibi](../../../../content/jesus/expl/a-different-christmas-story), yaratılışın üçte biri de yok edilir.
 
 
 ## Beşinci ve altıncı trompet
@@ -65,7 +65,7 @@ Tanrı’nın halkı koruma altındadır, belki [acı çekmekten değil ama ölm
 
 Mısır’daki bela, [Firavun’un günah işlediğini kabul etmesine](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F10%3A13-17) ve [görevlilerinin de Tanrı’ya boyun eğmeye hazır](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F10%3A7) olmalarına neden olmuştur.
 
-[Altıncı borazan](https://www.bibleserver.com/TR/Vahiy9%3A13-21) bir adım daha atarak insanların yaşamına saldırır. [Armagedon](../../../content/bowls/expl/the-key-to-armageddon) için toplanan [altıncı kâse](https://www.bibleserver.com/TR/Vahiy16%3A12-14) ile güçlü paralellikler gösteren bu özel zaman için Fırat’tan ([Babil’in bulunduğu yer](https://en.wikipedia.org/wiki/Babylon)) [dört melek salınmıştır](https://www.bibleserver.com/TR/Vahiy9%3A14).
+[Altıncı borazan](https://www.bibleserver.com/TR/Vahiy9%3A13-21) bir adım daha atarak insanların yaşamına saldırır. [Armagedon](../../../../content/bowls/expl/the-key-to-armageddon) için toplanan [altıncı kâse](https://www.bibleserver.com/TR/Vahiy16%3A12-14) ile güçlü paralellikler gösteren bu özel zaman için Fırat’tan ([Babil’in bulunduğu yer](https://en.wikipedia.org/wiki/Babylon)) [dört melek salınmıştır](https://www.bibleserver.com/TR/Vahiy9%3A14).
 
 Bu 2*10.000*10.000'lik bir ordudur ([10.000 Yunan sisteminin yazabildiği en büyük sayıdır](https://simple.wikipedia.org/wiki/Greek_numerals)), yani sınırsız bir sayı gibidir.
 
@@ -89,7 +89,7 @@ Dolayısıyla dehşete düşmüş kelimesi “bunalmış” olarak daha iyi terc
 ## Daha fazla okuma
 
 <a name="0922"></a>
-- [Küçük parşömen](../../../content/scroll/expl/the-little-scroll)
+- [Küçük parşömen](../../../../content/scroll/expl/the-little-scroll)
 
 
 

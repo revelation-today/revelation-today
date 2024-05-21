@@ -82,12 +82,12 @@ Aber: Schwierigkeiten allein reichen nicht aus, um das Herz zu verändern. Es br
 ## Digging deeper
 
 <a name="89d1"></a>
-- [Die Kraft des Gebets](../../../topics/power/short/the-key-of-prayer)
-- [Die Vorgeschichte des Auszugs aus Ägypten](../../../bible/exodus/expl/the-story-before-the-exodus)
-- [Die Geburt von Mose](../../../bible/exodus/expl/the-birth-of-moses)
-- [Die Verhärtung des Herzens des Pharao](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
-- [Die Plagen in Ägypten](../../../bible/exodus/expl/the-plagues-in-egypt)
-- [Die sieben Posaunen](../../../content/trumpets/expl/the-trumpets-in-revelation)
+- [Die Kraft des Gebets](../../../../topics/power/short/the-key-of-prayer)
+- [Die Vorgeschichte des Auszugs aus Ägypten](../../../../bible/exodus/expl/the-story-before-the-exodus)
+- [Die Geburt von Mose](../../../../bible/exodus/expl/the-birth-of-moses)
+- [Die Verhärtung des Herzens des Pharao](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
+- [Die Plagen in Ägypten](../../../../bible/exodus/expl/the-plagues-in-egypt)
+- [Die sieben Posaunen](../../../../content/trumpets/expl/the-trumpets-in-revelation)
 
 
 

@@ -66,11 +66,11 @@ We can be weak and feel helpless (and it’s okay to allow those feelings), but 
 ## Digging deeper
 
 <a name="06f1"></a>
-- [Overview in Daniel](../../../bible/daniel/expl/the-book-of-daniel)
-- [The four kingdoms](../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
-- [The 70 years](../../../bible/daniel/expl/the-70-year-weeks)
-- [The 3,5 years](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-- [Christ is born](../../../content/jesus/expl/a-different-christmas-story)
+- [Overview in Daniel](../../../../bible/daniel/expl/the-book-of-daniel)
+- [The four kingdoms](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
+- [The 70 years](../../../../bible/daniel/expl/the-70-year-weeks)
+- [The 3,5 years](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+- [Christ is born](../../../../content/jesus/expl/a-different-christmas-story)
 
 
 

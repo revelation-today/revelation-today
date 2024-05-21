@@ -172,7 +172,7 @@ Der [ultimative Lügner ist Satan](https://www.bibleserver.com/SLT/Johannes8%2C4
 ## [Der erste Eindruck](https://www.bibleserver.com/SLT/Offenbarung21%2C9-14)
 
 <a name="c99e"></a>
-Das neue Jerusalem ist das Gegenstück zu Babel, wenn wir den [größeren Zusammenhang betrachten](../../../content/1000y/expl/the-thousand-year-kingdom). Das [neue Jerusalem stellt eine Frau (die Braut) dar](https://www.bibleserver.com/SLT/Offenbarung21%2C2), so wie Babel eine Frau (die Hure) darstellt, was auch in [Jesaja](https://www.bibleserver.com/SLT/Jesaja62%2C1-5) zum Ausdruck kommt.
+Das neue Jerusalem ist das Gegenstück zu Babel, wenn wir den [größeren Zusammenhang betrachten](../../../../content/1000y/expl/the-thousand-year-kingdom). Das [neue Jerusalem stellt eine Frau (die Braut) dar](https://www.bibleserver.com/SLT/Offenbarung21%2C2), so wie Babel eine Frau (die Hure) darstellt, was auch in [Jesaja](https://www.bibleserver.com/SLT/Jesaja62%2C1-5) zum Ausdruck kommt.
 
 - Babel ist das Wirtschaftssystem, das mit der Macht des Herrschers verteilt wird, und Unmoral wird mit Götzendienst (Untreue) betrieben, aber das Volk Gottes ist ihm treu.
 - Babel verursacht Leid, während Jerusalem das Leid beseitigt
@@ -180,7 +180,7 @@ Das neue Jerusalem ist das Gegenstück zu Babel, wenn wir den [größeren Zusamm
 - Babel wird reich durch Ausbeutung und Verfolgung, Jerusalem aber ist reich als Gottes Geschenk
 
 
-Die zwölf Tore beziehen sich auf die 12 Stämme und die 12 Grundsteine auf die 12 Apostel. Die [2 mal 12 spiegeln die ewige Anbetung im Himmel wider](https://www.bibleserver.com/SLT/Offenbarung4%2C4), sind aber auch eine Mahnung, nach Versöhnung zwischen Juden und Nicht-Juden zu suchen, [deren Konflikt im ganzen Buch beschrieben wird](../../../background/israel/expl/israel-and-the-church).
+Die zwölf Tore beziehen sich auf die 12 Stämme und die 12 Grundsteine auf die 12 Apostel. Die [2 mal 12 spiegeln die ewige Anbetung im Himmel wider](https://www.bibleserver.com/SLT/Offenbarung4%2C4), sind aber auch eine Mahnung, nach Versöhnung zwischen Juden und Nicht-Juden zu suchen, [deren Konflikt im ganzen Buch beschrieben wird](../../../../background/israel/expl/israel-and-the-church).
 
 Das Seltsame ist, dass die Apostel das Fundament der Stämme sind (Kirchenfundament für Israel), aber [das macht Sinn, wenn man bedenkt, dass Jesus die Erfüllung Israels ist, die von der Kirche vollbracht wird](https://www.bibleserver.com/SLT/Epheser2%2C20). [Juda wird in dem Buch auch als der erste der Stämme aufgeführt, was Jesus widerspiegelt.](https://www.bibleserver.com/SLT/Offenbarung7%2C4-8)
 

@@ -45,7 +45,7 @@ When Jehu, [the commander of the army, was finally annointed](https://www.bibles
 ## Josiah
 
 <a name="a257"></a>
-[There is a separate entry for this](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish).A king gives his life fighting the king of Egypt who was on his way to help the Assyrians against the Babylonian Empire. Just a few notes:
+[There is a separate entry for this](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish).A king gives his life fighting the king of Egypt who was on his way to help the Assyrians against the Babylonian Empire. Just a few notes:
 
 - Assur was constantly oppressing Israel at this time and stopped because Babel was causing them trouble.
 - Egypt was on the one hand the place where Israel came out of slavery, but was always the [backup plan for Israel which usually disappointed Israel](https://www.bibleserver.com/NIV/2%20Kings18%3A21). It seems that Josiah was the first king of Israel to ever fight against Egypt.
@@ -68,7 +68,7 @@ Armageddon represents a paradox that we see throughout the New Testament, especi
 ## Further reading
 
 <a name="840b"></a>
-- [The battle of Karkemish](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
+- [The battle of Karkemish](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
 
 

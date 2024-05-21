@@ -59,7 +59,7 @@ Sogar im Tod regiert sie (damals wurden nur Könige und andere einflussreiche Pe
 ## Zur Vertiefung
 
 <a name="d194"></a>
-- [Das Tausendjährige Reich](../../../content/1000y/expl/the-thousand-year-kingdom)
+- [Das Tausendjährige Reich](../../../../content/1000y/expl/the-thousand-year-kingdom)
 
 
 

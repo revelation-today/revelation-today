@@ -51,14 +51,14 @@ Bakalım nasıl çalışacak.
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="3254"></a>
-- [Tahtta ibadet](../../../content/worship/expl/worship-in-the-throne-room)
-- [İbadet nedir?](../../../topics/power/short/worship)
+- [Tahtta ibadet](../../../../content/worship/expl/worship-in-the-throne-room)
+- [İbadet nedir?](../../../../topics/power/short/worship)
 
 
 

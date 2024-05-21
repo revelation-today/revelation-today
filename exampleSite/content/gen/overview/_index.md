@@ -112,7 +112,7 @@ Even though the book has apocalyptic elements, it challenges that idea.
 - The Lion of Judah is actually the [Lamb](https://www.bibleserver.com/NIV/Revelation5%3A5-6) of God
 - The [army of the 144.000](https://www.bibleserver.com/NIV/Revelation7%3A4-8) is explained as people who [worship](https://www.bibleserver.com/NIV/Revelation7%3A9-10) God and later as those who follow the lamb and the [faithful](https://www.bibleserver.com/NIV/Revelation14%3A1-5) who come out of the Great Tribulation.
 - The victory of the two witnesses is their [death](https://www.bibleserver.com/NIV/Revelation11%3A7-13).
-- The mysterious place of [Armageddon](https://www.bibleserver.com/NIV/Revelation16%3A14) describes the [defeat of the strong and the victory of the absolute weak](../../../content/bowls/expl/the-key-to-armageddon).
+- The mysterious place of [Armageddon](https://www.bibleserver.com/NIV/Revelation16%3A14) describes the [defeat of the strong and the victory of the absolute weak](../../../../content/bowls/expl/the-key-to-armageddon).
 - The harlot is [destroyed by the beast](https://www.bibleserver.com/NIV/Revelation17%3A16) on which she [sat](https://www.bibleserver.com/NIV/Revelation17%3A3).
 - Jesus comes and [kills the armies with the sword of his mouth](https://www.bibleserver.com/NIV/Revelation19%3A21).
 

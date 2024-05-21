@@ -54,13 +54,13 @@ Bütün bölüm ulus ve kilisenin ulusları İsa’ya yönlendirmek için göste
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="d6d6"></a>
-- [Tanrı’nın ordusu ve yedi melek](../../../content/harvest/expl/gods-army-and-the-seven-angels)
+- [Tanrı’nın ordusu ve yedi melek](../../../../content/harvest/expl/gods-army-and-the-seven-angels)
 
 
 

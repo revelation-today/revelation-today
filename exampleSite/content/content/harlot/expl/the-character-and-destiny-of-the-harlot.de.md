@@ -10,8 +10,8 @@ Nachdem wir verstanden haben, wer die Hure ist, bleiben noch einige Fragen, die 
 ## Gut, vorher zu lesen
 
 <a name="6a87"></a>
-- [Wer ist die Hure: Teil 1](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
-- [Wer ist die Hure: Teil 2](../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
+- [Wer ist die Hure: Teil 1](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
+- [Wer ist die Hure: Teil 2](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
 
 
 ## Der Charakter der Hure

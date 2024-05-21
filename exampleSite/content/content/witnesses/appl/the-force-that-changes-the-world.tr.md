@@ -22,7 +22,7 @@ Hızla ilerliyoruz ve [11. bölüme](https://www.bibleserver.com/TR/Vahiy11) ula
 ## Tanıklar
 
 <a name="2470"></a>
-Bunu kısa kesiyorum: [İki tanık kilisedir](../../../content/witnesses/expl/the-two-witnesses).
+Bunu kısa kesiyorum: [İki tanık kilisedir](../../../../content/witnesses/expl/the-two-witnesses).
 
 İsa’nın yaşam tarzını izleyen iki tanık:
 
@@ -62,15 +62,15 @@ Bu, Tanrı’nın tüm insanları zulümle öldüklerinde dirilteceği ve onlar�
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="4a52"></a>
-- [Tapınak](../../../bible/keyword/expl/the-temple-and-the-presence-of-god)
-- [Tanıklığın gücü](../../../topics/power/short/the-power-of-testimony)
-- [İki tanık](../../../content/witnesses/expl/the-two-witnesses)
+- [Tapınak](../../../../bible/keyword/expl/the-temple-and-the-presence-of-god)
+- [Tanıklığın gücü](../../../../topics/power/short/the-power-of-testimony)
+- [İki tanık](../../../../content/witnesses/expl/the-two-witnesses)
 
 
 

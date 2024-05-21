@@ -10,7 +10,7 @@ weight: 5
 ## Rab’bin Günü beklentisi
 
 <a name="b6b5"></a>
-İsa’nın zamanında Yahudiler [Rab’bin Günü’nü](../../../background/israel/expl/the-day-of-the-lord) bekliyorlardı ve bu günün nasıl gerçekleşeceğine dair çeşitli yorumlar vardı:
+İsa’nın zamanında Yahudiler [Rab’bin Günü’nü](../../../../background/israel/expl/the-day-of-the-lord) bekliyorlardı ve bu günün nasıl gerçekleşeceğine dair çeşitli yorumlar vardı:
 
 - (kısmen) toplumdan çekilme ve yasaya itaati yoğunlaştırma (Kumran)
 - toplumda yasaya itaatin yoğunlaştırılması (Ferisiler)
@@ -68,7 +68,7 @@ Ayrıca güzel sözlerin açıklaması İsrail için bir meydan okumadır — ç
 ## Yeni bir düşünce
 
 <a name="177b"></a>
-İsa geldiğinde insanlar onun gelişini fark etmediler. Başka bir şey bekliyorlardı. [Rab’bin Günü’ne](../../../background/israel/expl/the-day-of-the-lord) göre o
+İsa geldiğinde insanlar onun gelişini fark etmediler. Başka bir şey bekliyorlardı. [Rab’bin Günü’ne](../../../../background/israel/expl/the-day-of-the-lord) göre o
 
 - İsrail’in düşmanlarını yok etmek ve
 - İsrail’in kalıntılarını geri getirin ki
@@ -86,7 +86,7 @@ Her şeyden önce İsa çok farklı bir yönetim anlayışını temsil ediyordu.
 
 İkinci olarak İsa, düşmanlarının o dönemde İsrail’e baskı yapan Romalılar olmadığını, [düşmanlarının birçok kez kovduğu cinler olduğunu](https://www.bibleserver.com/TR/Markos3%3A22-27) çok açık bir şekilde ifade etmiştir. [Onları kovmak Rab’bin Günü’nün geldiğini gösteren bir işarettir](https://www.bibleserver.com/TR/Matta12%3A28). [Bu durum özellikle onun ölümü için geçerliydi](https://www.bibleserver.com/TR/Yuhanna12%3A31-33)
 
-Son olarak kalanlar dindar insanlar değil, [sadece İsa’nın kendisi](../../../bible/daniel/expl/the-son-of-man-and-the-remnant) olan Tanrı’nın antlaşmasına uyanlardır. Diğerleri kalanlar kapsamına girmez ve İsrail’in de içinde bulunduğu yargıya tabi olurlar.
+Son olarak kalanlar dindar insanlar değil, [sadece İsa’nın kendisi](../../../../bible/daniel/expl/the-son-of-man-and-the-remnant) olan Tanrı’nın antlaşmasına uyanlardır. Diğerleri kalanlar kapsamına girmez ve İsrail’in de içinde bulunduğu yargıya tabi olurlar.
 
 
 ## Zaten ama henüz değil

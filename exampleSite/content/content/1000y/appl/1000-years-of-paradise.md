@@ -59,7 +59,7 @@ Even in her death she reigns (in former times only kings and other high people h
 ## Digging deeper
 
 <a name="569b"></a>
-- [The 1000 year kingdom](../../../content/1000y/expl/the-thousand-year-kingdom)
+- [The 1000 year kingdom](../../../../content/1000y/expl/the-thousand-year-kingdom)
 
 
 

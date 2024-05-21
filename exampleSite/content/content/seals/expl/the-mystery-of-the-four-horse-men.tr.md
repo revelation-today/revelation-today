@@ -10,8 +10,8 @@ weight: 3
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="7ecb"></a>
-- [Kitabın tarihsel arka planı](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [Ne tür bir kitap bu?](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [Kitabın tarihsel arka planı](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [Ne tür bir kitap bu?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 
 
 
@@ -105,7 +105,7 @@ Yani ilk atlı kötü olan ama iyi ve İsa gibi davranandır. Bağlama baktığ�
 
 Şimdi [Tanrı’nın belalarına](https://www.bibleserver.com/TR/Hezekiel14%3A12-23) (vahşi hayvanlar, kılıç, açlık ve salgın hastalık) yapılan gönderme de anlam kazanmaktadır. Bunları haritalayabiliriz
 
-- ilk binici, [13. bölümd](https://www.bibleserver.com/TR/Vahiy13)e iki [canavar olarak adlandırdığı vahşi hayvanları temsil eder](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) ve [aldatmayı](https://www.bibleserver.com/TR/2.Korintliler11%3A14) temsil eder — birçok vaatte bulunur
+- ilk binici, [13. bölümd](https://www.bibleserver.com/TR/Vahiy13)e iki [canavar olarak adlandırdığı vahşi hayvanları temsil eder](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) ve [aldatmayı](https://www.bibleserver.com/TR/2.Korintliler11%3A14) temsil eder — birçok vaatte bulunur
 - ikinci binici kendisine verilen kılıcı temsil eder — 13. bölümdeki ilk canavar gibi vaatlere inanmayan herkese saldırır
 - üçüncü binici açlığı temsil eder çünkü yoksullar bundan zarar görecektir — 13. bölümdeki ikinci canavar gibi uyumsuzlara ekonomik baskı uygular ki bu da [17. bölümdeki](https://www.bibleserver.com/TR/Vahiy17) fahişe ile ilgilidir
 - son sürücü gösterilen üçlünün etkisini özetlemektedir
@@ -117,8 +117,8 @@ Yani şeytanın cazip teklifi ne olursa olsun ve ne kadar İsa’ya benziyor olu
 ## Daha fazla okuma
 
 <a name="9cea"></a>
-- [144 000](../../../content/army/expl/the-144000)
-- [Trompetler](../../../content/trumpets/expl/the-trumpets-in-revelation)
+- [144 000](../../../../content/army/expl/the-144000)
+- [Trompetler](../../../../content/trumpets/expl/the-trumpets-in-revelation)
 
 
 

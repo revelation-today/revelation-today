@@ -51,8 +51,8 @@ Warum aber sollten Gemeinden als Engel bezeichnet werden?
 ## Zum Weiterlesen
 
 <a name="b241"></a>
-- [Die Sendschreiben](../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [Was ist ein Held?](../../../topics/hero/short/a-real-hero)
+- [Die Sendschreiben](../../../../content/letters/expl/the-letters-to-the-seven-churches)
+- [Was ist ein Held?](../../../../topics/hero/short/a-real-hero)
 
 
 

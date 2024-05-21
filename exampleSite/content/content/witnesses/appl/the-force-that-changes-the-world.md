@@ -67,9 +67,9 @@ The two witnesses are modeled after Moses (water to blood) and Elijah (no rain, 
 ## Digging deeper
 
 <a name="7f53"></a>
-- [The temple](../../../bible/keyword/expl/the-temple-and-the-presence-of-god)
-- [The power of testimony](../../../topics/power/short/the-power-of-testimony)
-- [The two witnesses](../../../content/witnesses/expl/the-two-witnesses)
+- [The temple](../../../../bible/keyword/expl/the-temple-and-the-presence-of-god)
+- [The power of testimony](../../../../topics/power/short/the-power-of-testimony)
+- [The two witnesses](../../../../content/witnesses/expl/the-two-witnesses)
 
 
 

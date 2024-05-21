@@ -163,9 +163,9 @@ Doch davor wurde
 ## Tur Vertiefung
 
 <a name="2578"></a>
-- [Wie alles begann](../../../bible/exodus/expl/the-story-before-the-exodus)
-- [Ein anderer Held](../../../bible/exodus/expl/the-birth-of-moses)
-- [Die Verhärtung des Herzen](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
+- [Wie alles begann](../../../../bible/exodus/expl/the-story-before-the-exodus)
+- [Ein anderer Held](../../../../bible/exodus/expl/the-birth-of-moses)
+- [Die Verhärtung des Herzen](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
 
 
 

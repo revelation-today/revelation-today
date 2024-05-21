@@ -38,7 +38,7 @@ Kutsallar orada dışlanmadığı için, bunu borazanlar sırasında göreceğiz
 ## Daha fazla okuma
 
 <a name="4db0"></a>
-- [Dört atlı](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [Dört atlı](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
 
 
 

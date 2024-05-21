@@ -67,7 +67,7 @@ Bunu yeni gözlerle görmek ister misiniz? [Oyuncuların birbirlerine ne sıklı
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
@@ -75,10 +75,10 @@ Bunu yeni gözlerle görmek ister misiniz? [Oyuncuların birbirlerine ne sıklı
 <a name="ad38"></a>
 If you want to get more details on this topic:
 
-- [Tür hakkında daha fazlası](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Eski Ahit, resimleri anlamak için önemli bir anahtar](../../../background/literature/expl/full-of-biblical-references)
-- [Bunların hepsi sembol mü?](../../../background/literature/expl/literally-or-symbolic)
-- [Tüm bu sayılar ne anlama geliyor ve şiirin güzelliği](../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
+- [Tür hakkında daha fazlası](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [Eski Ahit, resimleri anlamak için önemli bir anahtar](../../../../background/literature/expl/full-of-biblical-references)
+- [Bunların hepsi sembol mü?](../../../../background/literature/expl/literally-or-symbolic)
+- [Tüm bu sayılar ne anlama geliyor ve şiirin güzelliği](../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
 
 
 

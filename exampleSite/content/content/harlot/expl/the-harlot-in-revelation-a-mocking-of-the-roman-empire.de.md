@@ -30,7 +30,7 @@ Was hat der Text der Apokalypse mit dieser Münze zu tun?
 - Das Schwert Roms schützt nicht vor Feinden, sondern ist mit dem Blut der Heiligen getränkt.
 
 
-Die Münze zeigt, wie der [Römische Friede](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) in ein Bild des Ekels und des Abscheus verwandelt wird, das jeden Gläubigen, der die Münze sieht, daran erinnert, dass man Rom nicht trauen kann — eine wirksame Gegenpropaganda.
+Die Münze zeigt, wie der [Römische Friede](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) in ein Bild des Ekels und des Abscheus verwandelt wird, das jeden Gläubigen, der die Münze sieht, daran erinnert, dass man Rom nicht trauen kann — eine wirksame Gegenpropaganda.
 
 
 ## Die [Ekphrasis](https://de.wikipedia.org/wiki/Ekphrasis)

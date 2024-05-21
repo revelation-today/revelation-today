@@ -217,9 +217,9 @@ God comes in love and cares for people, even if it does not always look so victo
 ## Further readings
 
 <a name="99fc"></a>
-- [The beasts in historical context](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
-- [The number 666](../../../content/beasts/expl/666-the-number-of-the-beast)
-- [The 3,5 years](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+- [The beasts in historical context](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
+- [The number 666](../../../../content/beasts/expl/666-the-number-of-the-beast)
+- [The 3,5 years](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
 
 

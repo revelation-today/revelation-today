@@ -4,7 +4,7 @@ weight: 2
 ---
 
 
-The trumpets in the Revelation chapters 8, 9 and 11 reflect to many people some catastrophes in modern times, but it actually reflects [the plagues in Egypt](../../../bible/exodus/expl/the-plagues-in-egypt).
+The trumpets in the Revelation chapters 8, 9 and 11 reflect to many people some catastrophes in modern times, but it actually reflects [the plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt).
 
 The trumpets are the second series of seven events reported in the book. Their beginning is intertwined with the end of the seals, and it is worth taking a closer look at them.
 
@@ -12,9 +12,9 @@ The trumpets are the second series of seven events reported in the book. Their b
 ## You may want to read before
 
 <a name="bced"></a>
-- [Historical background of the book](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [What type of book is this](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [The plagues in Egypt](../../../bible/exodus/expl/the-plagues-in-egypt)
+- [Historical background of the book](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [What type of book is this](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [The plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt)
 
 
 
@@ -37,7 +37,7 @@ But secondly: Do you really want your prayer to cause the drama caused by the tr
 ## The first four trumpets
 
 <a name="8718"></a>
-The [plagues in Egypt](../../../bible/exodus/expl/the-plagues-in-egypt) showed that Pharaoh and his gods cannot be trusted. They have no future and no one should put their trust in them.
+The [plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt) showed that Pharaoh and his gods cannot be trusted. They have no future and no one should put their trust in them.
 
 The trumpets here take away all the securities that people have, [as the letter to the Hebrews says](https://www.bibleserver.com/NIV/Hebrews12%3A26-28). The people should testify by their lives that the kingdom of God is a better security than what they rely on.
 
@@ -49,7 +49,7 @@ The trumpets here take away all the securities that people have, [as the letter 
 
 [The fourth trumpet](https://www.bibleserver.com/NIV/Revelation8%3A12-13) takes away a significant part of the light and orientation (for sailing) away. It relates to the [ninth plague in Egypt](https://www.bibleserver.com/NIV/Exodus10%3A22-23) which had a devastating effect and showed a difference between Israel and the Egyptians.
 
-Why is only a third of all the trumpets affected? Well, the trumpets are sounded against God’s creation (including man in the sixth trumpet), but fell under the influence of sin. Just as one-third of the [stars (angels) fell with Satan](../../../content/jesus/expl/a-different-christmas-story), one-third of the creation is destroyed.
+Why is only a third of all the trumpets affected? Well, the trumpets are sounded against God’s creation (including man in the sixth trumpet), but fell under the influence of sin. Just as one-third of the [stars (angels) fell with Satan](../../../../content/jesus/expl/a-different-christmas-story), one-third of the creation is destroyed.
 
 
 ## The fifth and sixth trumpet
@@ -67,11 +67,11 @@ This plague is the plague in Egypt that [caused the Pharaoh to admit that he had
 
 
 
-[The sixth trumpet](https://www.bibleserver.com/NIV/Revelation9%3A13-21) goes on step further and attacks the lives of people. Four [angels were released from the Euphrates](https://www.bibleserver.com/NIV/Revelation9%3A14) ([where Babel was located](https://en.wikipedia.org/wiki/Babylon)) for this specific time, which has [strong parallels to the sixth bowl](https://www.bibleserver.com/NIV/Revelation16%3A12-14) gathering everybody for [Armageddon](../../../content/bowls/expl/the-key-to-armageddon).This is an army of 2*10.000*10.000 ([10.000 is the largest number that the Greek system can write](https://simple.wikipedia.org/wiki/Greek_numerals)), so like an unlimited number.As a result of this plague an (or all the other plagues of the trumpets?) [the people did not repent](https://www.bibleserver.com/NIV/Revelation9%3A20-21). So the purpose of the plagues was not only to bring judgment, but also to good reasons to go with God. But the people held on to their idols which (do not!) provide for them, which is in line with the [fourth and fifth bowls of the people, who instead of repenting](https://www.bibleserver.com/NIV/Revelation16%3A8-11), [curse God and thus join the dragon and the beasts](https://www.bibleserver.com/NIV/Revelation13%3A5-6).
+[The sixth trumpet](https://www.bibleserver.com/NIV/Revelation9%3A13-21) goes on step further and attacks the lives of people. Four [angels were released from the Euphrates](https://www.bibleserver.com/NIV/Revelation9%3A14) ([where Babel was located](https://en.wikipedia.org/wiki/Babylon)) for this specific time, which has [strong parallels to the sixth bowl](https://www.bibleserver.com/NIV/Revelation16%3A12-14) gathering everybody for [Armageddon](../../../../content/bowls/expl/the-key-to-armageddon).This is an army of 2*10.000*10.000 ([10.000 is the largest number that the Greek system can write](https://simple.wikipedia.org/wiki/Greek_numerals)), so like an unlimited number.As a result of this plague an (or all the other plagues of the trumpets?) [the people did not repent](https://www.bibleserver.com/NIV/Revelation9%3A20-21). So the purpose of the plagues was not only to bring judgment, but also to good reasons to go with God. But the people held on to their idols which (do not!) provide for them, which is in line with the [fourth and fifth bowls of the people, who instead of repenting](https://www.bibleserver.com/NIV/Revelation16%3A8-11), [curse God and thus join the dragon and the beasts](https://www.bibleserver.com/NIV/Revelation13%3A5-6).
 
 
 
-[The seventh trumpet](https://www.bibleserver.com/NIV/Revelation11%3A15-19) comes after a longer interlude and brings forth the kingdom of God, parallel to the [seventh bowl where the kingdom of the devil is destroyed](https://www.bibleserver.com/NIV/Revelation16%3A17-20). But what comes before is interesting:Since the people do not change their hearts because of the tribulation, God calls out [for our testimony](https://www.bibleserver.com/NIV/Revelation11%3A3-12) based [on our worship of God](https://www.bibleserver.com/NIV/Revelation11%3A1-2). As these witnesses are killed, God brings [judgment on 10% of the people while the rest reveres His name](https://www.bibleserver.com/NIV/Revelation11%3A13). Wait a minute: 90% revered his name after the witness? That is quite a success![This verse](https://www.bibleserver.com/NIV/Revelation11%3A13) uses the word “terrified” is used (which I used as revered), [which is rarely used in the Bible](https://biblehub.com/greek/1719.htm) and is used in the meaning “overwhelming” whenThe [women saw the empty tomb](https://www.bibleserver.com/NIV/Luke24%3A5),[Jesus first appeared to the disciples](https://www.bibleserver.com/NIV/Luke24%3A5),[Cornelius saw an angel who told him that his prayers had been heard](https://www.bibleserver.com/NIV/Acts10%3A4),The [Roman commander Felix heard the consequences of the gospel](https://www.bibleserver.com/NIV/Acts24%3A25) and asked Paul to stop speaking.So the word “terrified” can better be translated as “overwhelmed”.Further reading[The little scroll](../../../content/scroll/expl/the-little-scroll)Dig DeeperBeale, Revelation, pages 445–520
+[The seventh trumpet](https://www.bibleserver.com/NIV/Revelation11%3A15-19) comes after a longer interlude and brings forth the kingdom of God, parallel to the [seventh bowl where the kingdom of the devil is destroyed](https://www.bibleserver.com/NIV/Revelation16%3A17-20). But what comes before is interesting:Since the people do not change their hearts because of the tribulation, God calls out [for our testimony](https://www.bibleserver.com/NIV/Revelation11%3A3-12) based [on our worship of God](https://www.bibleserver.com/NIV/Revelation11%3A1-2). As these witnesses are killed, God brings [judgment on 10% of the people while the rest reveres His name](https://www.bibleserver.com/NIV/Revelation11%3A13). Wait a minute: 90% revered his name after the witness? That is quite a success![This verse](https://www.bibleserver.com/NIV/Revelation11%3A13) uses the word “terrified” is used (which I used as revered), [which is rarely used in the Bible](https://biblehub.com/greek/1719.htm) and is used in the meaning “overwhelming” whenThe [women saw the empty tomb](https://www.bibleserver.com/NIV/Luke24%3A5),[Jesus first appeared to the disciples](https://www.bibleserver.com/NIV/Luke24%3A5),[Cornelius saw an angel who told him that his prayers had been heard](https://www.bibleserver.com/NIV/Acts10%3A4),The [Roman commander Felix heard the consequences of the gospel](https://www.bibleserver.com/NIV/Acts24%3A25) and asked Paul to stop speaking.So the word “terrified” can better be translated as “overwhelmed”.Further reading[The little scroll](../../../../content/scroll/expl/the-little-scroll)Dig DeeperBeale, Revelation, pages 445–520
 
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/expl/the-trumpets-in-revelation.md)

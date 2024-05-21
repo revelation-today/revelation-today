@@ -55,9 +55,9 @@ And this is what the bowls are about
 ## Digging deeper
 
 <a name="06f1"></a>
-- [The bowls of wrath](../../../content/bowls/expl/the-bowls-of-wrath)
-- [The meaning of Armageddon](../../../content/bowls/expl/the-key-to-armageddon)
-- [Armageddon and the battle of Karkemish](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
+- [The bowls of wrath](../../../../content/bowls/expl/the-bowls-of-wrath)
+- [The meaning of Armageddon](../../../../content/bowls/expl/the-key-to-armageddon)
+- [Armageddon and the battle of Karkemish](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
 
 

@@ -28,7 +28,7 @@ So the reverse side of the coin praises the power and permanence of Rome.What do
 - Roma does not protect herself from enemies with the sword, but she is covered with the blood of the saints.
 
 
-The coin depicting the [Pax Romana](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) is transformed into an image of contempt and disgust, reminding every believer who sees it in everyday life that Rome cannot be trusted — a very effective counter-propaganda.
+The coin depicting the [Pax Romana](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) is transformed into an image of contempt and disgust, reminding every believer who sees it in everyday life that Rome cannot be trusted — a very effective counter-propaganda.
 
 
 ## The Ekphrasis
@@ -57,4 +57,4 @@ Another parallel to Revelation 17 could be the [Ode of Salomon](https://en.wikip
 So the point of the ekphrasis is to show thatUnderstanding this deception is the first step toward God’s kingdom.If you are deceived by Rome, there is little hope for you.This deception is so great that it is hard to miss.Dig DeeperAune, Revelation, pages 919–928
 
 
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire.md)

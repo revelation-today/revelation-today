@@ -53,13 +53,13 @@ Bu bölüm mesajın özünün kısa bir özetini vermektedir: Kilise, tanıklık
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="e1c1"></a>
-- [1000 yıllık krallık](../../../content/1000y/expl/the-thousand-year-kingdom)
+- [1000 yıllık krallık](../../../../content/1000y/expl/the-thousand-year-kingdom)
 
 
 

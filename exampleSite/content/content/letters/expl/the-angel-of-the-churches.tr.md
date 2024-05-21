@@ -52,8 +52,8 @@ Ayrıca
 ## Daha fazla okuma
 
 <a name="cbe4"></a>
-- [Kiliseler için mektup](../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [Bir kahraman nedir](../../../topics/hero/short/a-real-hero)
+- [Kiliseler için mektup](../../../../content/letters/expl/the-letters-to-the-seven-churches)
+- [Bir kahraman nedir](../../../../topics/hero/short/a-real-hero)
 
 
 

@@ -13,15 +13,15 @@ weight: 4
 First, we need some background to look at this in more detail:
 
 - [Gematria](https://en.wikipedia.org/wiki/Gematria): This is the most common way of understanding the number 666. Each value of the alphabet is associated with a numerical value, and if the number of values adds up to 666, he is the evil one. If this does not fit, use variants of the name or different languages like Hebrew, Latin, Greek or address this as a triple six (so Ronald Wilson Reagan was considered as the beast because his three names consist of 6 letters). As with a little patience you [can map many names in history and present time to 666](https://en.wikipedia.org/wiki/Number_of_the_beast), this method has been very much abused, because “a lock that fits every key is not worth much”.
-- Numbers: In the Bible numbers are often associated with events, e.g., [Moses fasted for 40 days when he received the Law at Mount Sinai](https://www.bibleserver.com/NIV/Exodus34%3A28), [the people checked out the new land in 40 days](https://www.bibleserver.com/search/NIV/40 days) and [because of their unbelief they had to wander in the desert for 40 years](https://www.bibleserver.com/NIV/Numbers14%3A34). Do you think it was a coincidence that [Jesus fasted for 40 days in the desert facing the challenges](https://www.bibleserver.com/NIV/Matthew4%3A1-11) that Israel has to face in their 40 years of wandering? You could say that the number 40 is related to [acts of faith](https://www.bibleserver.com/search/NIV/40%20days). In the same way the number 7 refers to completion and to God [as He completed the world in 7 day](https://www.bibleserver.com/NIV/Genesis2%3A1-3)s. On the other hand the number 6 refers to man and the man’s imperfect actions as he was created on the 6th day. [See more about numbers.](../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
-- A letter: We have seen, that [we should always look out for clues that are relevant to the original readers](../../../background/literature/expl/the-book-of-revelation-how-to-read-it). So what would 666 mean at the time of the early church?
+- Numbers: In the Bible numbers are often associated with events, e.g., [Moses fasted for 40 days when he received the Law at Mount Sinai](https://www.bibleserver.com/NIV/Exodus34%3A28), [the people checked out the new land in 40 days](https://www.bibleserver.com/search/NIV/40 days) and [because of their unbelief they had to wander in the desert for 40 years](https://www.bibleserver.com/NIV/Numbers14%3A34). Do you think it was a coincidence that [Jesus fasted for 40 days in the desert facing the challenges](https://www.bibleserver.com/NIV/Matthew4%3A1-11) that Israel has to face in their 40 years of wandering? You could say that the number 40 is related to [acts of faith](https://www.bibleserver.com/search/NIV/40%20days). In the same way the number 7 refers to completion and to God [as He completed the world in 7 day](https://www.bibleserver.com/NIV/Genesis2%3A1-3)s. On the other hand the number 6 refers to man and the man’s imperfect actions as he was created on the 6th day. [See more about numbers.](../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
+- A letter: We have seen, that [we should always look out for clues that are relevant to the original readers](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it). So what would 666 mean at the time of the early church?
 
 
 
 ## 6–6–6: The failure of the evil trinity
 
 <a name="69b0"></a>
-The first understanding comes from the story in [Rev. 13](https://www.bibleserver.com/NIV/Revelation13) itself, which is explained in [another article](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). It describes the beast’s attempt to imitate the Holy Trinity of God, Jesus, and the Holy Spirit.
+The first understanding comes from the story in [Rev. 13](https://www.bibleserver.com/NIV/Revelation13) itself, which is explained in [another article](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). It describes the beast’s attempt to imitate the Holy Trinity of God, Jesus, and the Holy Spirit.
 
 But for the believers, the deception does not work. Each element is assigned by a number that “classified” the effect of the imitation:
 
@@ -36,7 +36,7 @@ So if you have counted with me, you get 6–6–6. The number of the beast. If y
 ## The 666 in context
 
 <a name="2def"></a>
-The number 666 has some very interesting [arithmetic properties](../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation#6395) and links inside the book of Revelation
+The number 666 has some very interesting [arithmetic properties](../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation#6395) and links inside the book of Revelation
 
 - 666 is related to the number 8 which is the number related to resurrection (Jesus rose on the 8th day — one after the Sabbat, so on the first day of the new week or better say the first day of the new creation!!). The topic of resurrection is also prominent in the [description of the first beast](https://www.bibleserver.com/NIV/Revelation13%3A3), but also in [the sixth bowl ](https://www.bibleserver.com/NIV/Revelation16%3A13)(frogs represent the Egyptian Goddess of birth and resurrection) and in the [description of the beast on which the harlot sits](https://www.bibleserver.com/NIV/Revelation18%3A11). There is a strong similarity between [this passage describing this as need for wisdom](https://biblehub.com/interlinear/revelation/13-18.htm) and the [need for wisdom about the beast on which the harlot sits](https://biblehub.com/interlinear/revelation/17-9.htm) which is later [described as one of the seven heads (=kings) but also the 8th (king)!!](https://www.bibleserver.com/NIV/Revelation17%3A11)
 - The statement identifies this as a [number of a man](https://www.bibleserver.com/NIV/Revelation13%3A18) and comes directly before the [mention of the 144,000](https://www.bibleserver.com/NIV/Revelation14%3A1) which again links forward to the New Jerusalem (the place of them to be) where [the wall is measured as 12*12=144(!) units of an angel](https://biblehub.com/interlinear/revelation/21-17.htm) which the [NIV](https://www.bibleserver.com/NIV/Revelation21%3A17) does not translate so well, but the ESV. Even it is not really clear what this means but is shows again the difference between the beast (humanity debased) and the witnesses (exalted to position of angels)
@@ -44,7 +44,7 @@ The number 666 has some very interesting [arithmetic properties](../../../backgr
 
 This shows us two aspects
 
-- This is a similar topic as [Armageddon](../../../content/bowls/expl/the-key-to-armageddon), where something impressive is shown as absolutely weak while the weak is shown as superior.
+- This is a similar topic as [Armageddon](../../../../content/bowls/expl/the-key-to-armageddon), where something impressive is shown as absolutely weak while the weak is shown as superior.
 - The passage here points forward to the resolution of the secret of the 666 as the eighth king.
 
 
@@ -67,7 +67,7 @@ His unclear end (if he is dead or not) makes the [first beast appearance a perfe
 Since we talked about gematria at the beginning of this section, I will start with an aspect that falls into this category for the following reasons:
 
 - It is relevant to the first readers because he lived in that time.
-- He [reflects the dual attack of the beast](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
+- He [reflects the dual attack of the beast](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
 
 
 The person who fits the description is the Emperor [Trajan](https://en.wikipedia.org/wiki/Trajan), who
@@ -109,7 +109,7 @@ So what is the takeaway for the first listeners and for us?
 - This was illustrated in the case of Trajan in their time, who seems to bring wealth and security, but had the blood of Christians on his hands.
 
 
-So today, let’s take a look at how we see the [principles of the 666](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) and judge whether they
+So today, let’s take a look at how we see the [principles of the 666](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) and judge whether they
 
 - follow God’s principles and will remain, or
 - follow the principles of the devil, which may look tempting but will end in disaster and draw us away from God.

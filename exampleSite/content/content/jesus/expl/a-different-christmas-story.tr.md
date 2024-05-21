@@ -97,8 +97,8 @@ Bu dönemde İsa doğdu ve [Kral Hirodes onu öldürmek üzereyken](https://www.
 ## Diğer okumalar
 
 <a name="59b6"></a>
-- [Kutsal olmayan üçlünün hikayesi](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [Vahiy kitabının yapısı](../../../background/structure/expl/the-structure-of-the-book-of-revelation)
+- [Kutsal olmayan üçlünün hikayesi](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [Vahiy kitabının yapısı](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
 
 

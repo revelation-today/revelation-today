@@ -49,14 +49,14 @@ Tüm bunları duyduktan sonra iyi karar verin. Ne yapacaksınız? Şimdi nasıl 
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="7425"></a>
-- [Yeni Kudüs](../../../content/paradise/expl/the-new-jerusalem)
-- [Cennet ve Cehennem](../../../content/paradise/expl/heaven-and-hell)
+- [Yeni Kudüs](../../../../content/paradise/expl/the-new-jerusalem)
+- [Cennet ve Cehennem](../../../../content/paradise/expl/heaven-and-hell)
 
 
 

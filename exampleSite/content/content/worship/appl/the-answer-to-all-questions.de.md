@@ -58,8 +58,8 @@ Lass uns schauen, was es damit auf sich hat.
 ## Zur Vertiefung
 
 <a name="cfb1"></a>
-- [Die Anbetung im Thronsaal](../../../content/worship/expl/worship-in-the-throne-room)
-- [Was ist Anbetung?](../../../topics/power/short/worship)
+- [Die Anbetung im Thronsaal](../../../../content/worship/expl/worship-in-the-throne-room)
+- [Was ist Anbetung?](../../../../topics/power/short/worship)
 
 
 

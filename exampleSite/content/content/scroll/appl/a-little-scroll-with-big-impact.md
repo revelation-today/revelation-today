@@ -53,7 +53,7 @@ It is the witness of the Church. And by witness I do not mean a good lifestyle. 
 ## Digging deeper
 
 <a name="06f1"></a>
-- [The little scroll](../../../content/scroll/expl/the-little-scroll)
+- [The little scroll](../../../../content/scroll/expl/the-little-scroll)
 
 
 

@@ -57,8 +57,8 @@ So let’s see how this works.
 ## Digging deeper
 
 <a name="06f1"></a>
-- [Worship at the throne](../../../content/worship/expl/worship-in-the-throne-room)
-- [What is worship?](../../../topics/power/short/worship)
+- [Worship at the throne](../../../../content/worship/expl/worship-in-the-throne-room)
+- [What is worship?](../../../../topics/power/short/worship)
 
 
 

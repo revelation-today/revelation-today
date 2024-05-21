@@ -49,15 +49,15 @@ Ve bu da kaselerin ne hakkında olduğu
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="d4d4"></a>
-- [Gazap kaseleri](../../../content/bowls/expl/the-bowls-of-wrath)
-- [Armageddon’un anlamı](../../../content/bowls/expl/the-key-to-armageddon)
-- [Armageddon ve Karkamış Savaşı](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
+- [Gazap kaseleri](../../../../content/bowls/expl/the-bowls-of-wrath)
+- [Armageddon’un anlamı](../../../../content/bowls/expl/the-key-to-armageddon)
+- [Armageddon ve Karkamış Savaşı](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
 
 

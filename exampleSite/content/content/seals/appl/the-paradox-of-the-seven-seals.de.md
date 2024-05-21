@@ -77,11 +77,11 @@ Doch alles hängt davon ab, dass die Gemeinde ein gutes Zeugnis hat.
 ## Zur Vertiefung
 
 <a name="5f8a"></a>
-- [Ein echter Held](../../../topics/hero/short/a-real-hero)
-- [Wer regiert die Welt?](../../../topics/hero/short/who-rules-the-world)
-- [Das Buch mit den sieben Siegeln](../../../content/seals/expl/the-book-with-the-seven-seals)
-- [Das Geheimnis der vier Reiter](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
-- [Der Zorn des Lammes](../../../content/seals/expl/the-wrath-of-the-lamb)
+- [Ein echter Held](../../../../topics/hero/short/a-real-hero)
+- [Wer regiert die Welt?](../../../../topics/hero/short/who-rules-the-world)
+- [Das Buch mit den sieben Siegeln](../../../../content/seals/expl/the-book-with-the-seven-seals)
+- [Das Geheimnis der vier Reiter](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [Der Zorn des Lammes](../../../../content/seals/expl/the-wrath-of-the-lamb)
 
 
 

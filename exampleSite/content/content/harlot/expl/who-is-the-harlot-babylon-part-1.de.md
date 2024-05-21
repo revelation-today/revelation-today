@@ -8,7 +8,7 @@ Es ist nicht der Papst. Es sind nicht die Wirtschaftsbosse. Es kann jeder sein, 
 
 Das Kapitel über die Hure Babel ist schwer zu verstehen, [weil es so viele Charaktere darin gibt](https://www.bibleserver.com/SLT/Offenbarung17). Machen wir uns einen kleinen Überblick.
 
-Es beginnt mit der Hure, die die Könige der Erde und die ganze Erde betrunken macht, aber jetzt wird ihr Geheimnis offenbart. Sie wird als die Stadt Babel identifiziert und sitzt auf einem [Tier](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) mit 7 Köpfen und 10 Hörnern. Die 7 Köpfe sind 7 Hügel und auch 7 Könige, die nacheinander regieren, aber das Tier ist der achte König. Die 10 Hörner sind 10 Könige, die alle gleichzeitig regieren und ihre Macht dem Tier geben.
+Es beginnt mit der Hure, die die Könige der Erde und die ganze Erde betrunken macht, aber jetzt wird ihr Geheimnis offenbart. Sie wird als die Stadt Babel identifiziert und sitzt auf einem [Tier](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) mit 7 Köpfen und 10 Hörnern. Die 7 Köpfe sind 7 Hügel und auch 7 Könige, die nacheinander regieren, aber das Tier ist der achte König. Die 10 Hörner sind 10 Könige, die alle gleichzeitig regieren und ihre Macht dem Tier geben.
 
 Das Tier kämpft gegen die Heiligen, aber Jesus kämpft an deren Stelle und am Ende hassen das Tier und die Könige die Hure und vernichten sie.
 
@@ -43,13 +43,13 @@ was eine beißende Ironie des Tieres ist, denn es ist das Gegenstück zu dem ewi
 ## Die sieben Hügel und die sieben Könige
 
 <a name="09b7"></a>
-[Die sieben Hügel, auf denen die Hure sitzt](https://www.bibleserver.com/SLT/Offenbarung17%2C9), sind die [sieben Hügel, die Rom beschreiben](https://de.wikipedia.org/wiki/Sieben_H%C3%BCgel_Roms). Rom ist aus der Sicht der ersten Leser der [Kaiser, der als Herr der Herren und König der Könige im Gegensatz zu Jesus gepriesen werden will](../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire). Es ist nicht der Papst oderjemand, der später in Rom gelebt hat.
+[Die sieben Hügel, auf denen die Hure sitzt](https://www.bibleserver.com/SLT/Offenbarung17%2C9), sind die [sieben Hügel, die Rom beschreiben](https://de.wikipedia.org/wiki/Sieben_H%C3%BCgel_Roms). Rom ist aus der Sicht der ersten Leser der [Kaiser, der als Herr der Herren und König der Könige im Gegensatz zu Jesus gepriesen werden will](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire). Es ist nicht der Papst oderjemand, der später in Rom gelebt hat.
 
 Hügel können aber auch als Königreiche bedeuten (und da die Hügel als Könige interpretiert wurden, wären dies die entsprechenden Königreiche). Deutlich wird dies in der Beschreibung des Königsreichs bei [Jesaja](https://www.bibleserver.com/SLT/Jesaja2%2C2), der [Stadt Babel als Berg](https://www.bibleserver.com/SLT/Jeremia51%2C25), [Edom als Berg](https://www.bibleserver.com/SLT/Hesekiel35%2C3) oder dem [Berg, der die ganze Welt erfüllt und das Reich Gottes darstellt](https://www.bibleserver.com/SLT/Daniel2%2C35).
 
 [Wer aber sind die Könige?](https://www.bibleserver.com/SLT/Offenbarung17%2C10) 5 sind schon vergangen, einer ist gerade an der Macht und ein siebenter wird bald kommen, aber wird nur für kurze Zeit herrschen. Sie zeigen, dass durch die ganze Zeit hindurch die Herrscher dieser Welt das Tier unterstützen. Es geht nicht um eine genaue Zählung der Könige, sondern darum, ein Bild zu zeigen, dass es [jederzeit vorbei sein kann und wir wachsam sein sollen](https://www.bibleserver.com/SLT/Offenbarung16%2C15).
 
-[Das Tier hingegen kommt als das Achte und ist einer der Sieben](https://www.bibleserver.com/SLT/Offenbarung17%2C11). Es ist ein Beispiel dafür, dass das erste Tier menschlich ist (wie der Kaiser). Da Jesus am achten Tag auferstanden ist (ein Tag nach dem Sabbat) und wir das Thema der Auferstehung in Verbindung mit dem Tier bereits in Kapitel [13](https://www.bibleserver.com/SLT/Offenbarung13%2C3-4) und [16](https://www.bibleserver.com/SLT/Offenbarung16%2C13) behandelt haben ([Frösche sind Zeichen für die Auferstehung](../../../content/bowls/expl/the-bowls-of-wrath)), ist es klar, warum das Tier als der achte König erscheint: Es ist das Zeichen der Unbesiegbarkeit. Aber das stimmt nicht, denn das Tier wurde bereits als das identifiziert [“das war und nicht ist und ins Verderben läuft“, mit anderen Worten, das Tier ist eines der Sieben](https://www.bibleserver.com/SLT/Offenbarung17%2C11) — kein Superheld.
+[Das Tier hingegen kommt als das Achte und ist einer der Sieben](https://www.bibleserver.com/SLT/Offenbarung17%2C11). Es ist ein Beispiel dafür, dass das erste Tier menschlich ist (wie der Kaiser). Da Jesus am achten Tag auferstanden ist (ein Tag nach dem Sabbat) und wir das Thema der Auferstehung in Verbindung mit dem Tier bereits in Kapitel [13](https://www.bibleserver.com/SLT/Offenbarung13%2C3-4) und [16](https://www.bibleserver.com/SLT/Offenbarung16%2C13) behandelt haben ([Frösche sind Zeichen für die Auferstehung](../../../../content/bowls/expl/the-bowls-of-wrath)), ist es klar, warum das Tier als der achte König erscheint: Es ist das Zeichen der Unbesiegbarkeit. Aber das stimmt nicht, denn das Tier wurde bereits als das identifiziert [“das war und nicht ist und ins Verderben läuft“, mit anderen Worten, das Tier ist eines der Sieben](https://www.bibleserver.com/SLT/Offenbarung17%2C11) — kein Superheld.
 
 
 ## Die 10 Könige
@@ -119,8 +119,8 @@ Während das erste Tier die Hure in Kapitel 17 unterstützt, ist es in Kapitel 1
 ## Zum Weiterlesen
 
 <a name="2e7a"></a>
-- [Wer ist die Hure: Teil 2](../../../content/harlot/expl/who-is-the-harlot-babel-part-2)
-- [Der Ursprung Babels](../../../bible/keyword/expl/the-origin-of-babel)
+- [Wer ist die Hure: Teil 2](../../../../content/harlot/expl/who-is-the-harlot-babel-part-2)
+- [Der Ursprung Babels](../../../../bible/keyword/expl/the-origin-of-babel)
 
 
 

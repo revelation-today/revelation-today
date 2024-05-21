@@ -55,8 +55,8 @@ So entscheide dich gut, nachdem du das alles gehört hast. Was wirst du tun? Wie
 ## Zur Vertiefung
 
 <a name="65a5"></a>
-- [Das Neue Jersusalem](../../../content/paradise/expl/the-new-jerusalem)
-- [Himmel und Hölle](../../../content/paradise/expl/heaven-and-hell)
+- [Das Neue Jersusalem](../../../../content/paradise/expl/the-new-jerusalem)
+- [Himmel und Hölle](../../../../content/paradise/expl/heaven-and-hell)
 
 
 

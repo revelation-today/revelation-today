@@ -5,7 +5,7 @@ title: "The story of Moses"
 
 The story of Moses is against the script of every hero story known in the ancient world, but it is a success story.
 
-The story is only two chapters long in the Bible and is worth reading in advance. It is first the [story of keeping the Israelites](https://www.bibleserver.com/NIV/Exodus1) small to avoid a second [Hyksos](../../../bible/exodus/expl/the-story-before-the-exodus) and then the [story of Moses](https://www.bibleserver.com/NIV/Exodus2).
+The story is only two chapters long in the Bible and is worth reading in advance. It is first the [story of keeping the Israelites](https://www.bibleserver.com/NIV/Exodus1) small to avoid a second [Hyksos](../../../../bible/exodus/expl/the-story-before-the-exodus) and then the [story of Moses](https://www.bibleserver.com/NIV/Exodus2).
 
 
 ## The fight against a second Hyksos

@@ -73,8 +73,8 @@ And the church may wonder what can be done. And the book of Revelation gives som
 ## Digging deeper
 
 <a name="0773"></a>
-- [The historical background](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [Israel and the church](../../../background/israel/expl/israel-and-the-church)
+- [The historical background](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [Israel and the church](../../../../background/israel/expl/israel-and-the-church)
 
 
 

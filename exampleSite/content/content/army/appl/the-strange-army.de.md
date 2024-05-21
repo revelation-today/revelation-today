@@ -51,8 +51,8 @@ Wir werden wie eine Armee beschrieben: Soldaten, die sich ständig Sorgen machen
 ## Digging deeper
 
 <a name="df15"></a>
-- [Die 144.000](../../../content/army/expl/the-144000)
-- [Die große Trübsal](../../../content/army/expl/the-end-time-and-the-great-tribulation)
+- [Die 144.000](../../../../content/army/expl/the-144000)
+- [Die große Trübsal](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
 
 
 

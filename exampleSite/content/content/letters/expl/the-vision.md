@@ -44,7 +44,7 @@ John collapses similar to the [visions of Daniel](https://www.bibleserver.com/NI
 <a name="b723"></a>
 Jesus confirms all the statements we saw a[t the beginning of the chapter](https://www.bibleserver.com/NIV/Revelation1%3A5).
 
-Finally, the [mystery of the lampstands and stars is solved](https://www.bibleserver.com/NIV/Revelation1%3A20). They are represent a [different descriptions of the church](../../../content/letters/expl/the-angel-of-the-churches). So what does it mean?
+Finally, the [mystery of the lampstands and stars is solved](https://www.bibleserver.com/NIV/Revelation1%3A20). They are represent a [different descriptions of the church](../../../../content/letters/expl/the-angel-of-the-churches). So what does it mean?
 
 The church is described by two different images, which also have two main things in common:
 

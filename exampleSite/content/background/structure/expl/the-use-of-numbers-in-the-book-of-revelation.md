@@ -30,7 +30,7 @@ Other examples of completeness in Revelation are the 7 seals, the 7 trumpets, an
 ## The number 3,5
 
 <a name="a9fe"></a>
-[We have an own article here](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+[We have an own article here](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
 
 ## The number 4
@@ -142,7 +142,7 @@ But we often see the distorted reality, where Satan is always a bit stronger.
 ## Further digging
 
 <a name="098d"></a>
-[Beale, Revelation, pages 60–64](../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
+[Beale, Revelation, pages 60–64](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
 
 Bauckham, The climax of prophecy, pages 384–407
 

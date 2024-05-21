@@ -14,7 +14,7 @@ Vahiy kitabı, kolayca gözden kaçabilen ancak kitabın anlaşılması için ki
 
 Kitap yoğun bir şekilde “İsa Mesih’in Vahyi” (Yunanca Apokalypsis Iesou Christou) olarak başlar, “Tanrı’nın kullarına yakında gerçekleşmesi gerekenleri göstermek için ona verdiği”.
 
-Bu kitap bir kıyamet olarak tanımlanmaktadır, bu da kafanızda bazı imgeler uyandırabilir, ancak kastedilen bu değildir. Ayrıca “İsa’nın Vahyi” şeklindeki birebir doğru çeviri de soruları açıkta bırakmaktadır. [Kıyamet, bu kitabın nasıl okunacağını tarif eden bir edebi türdür](../../../background/literature/expl/the-book-of-revelation-how-to-read-it) — kışkırtan ve eylem talep eden bir kitaptır.
+Bu kitap bir kıyamet olarak tanımlanmaktadır, bu da kafanızda bazı imgeler uyandırabilir, ancak kastedilen bu değildir. Ayrıca “İsa’nın Vahyi” şeklindeki birebir doğru çeviri de soruları açıkta bırakmaktadır. [Kıyamet, bu kitabın nasıl okunacağını tarif eden bir edebi türdür](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it) — kışkırtan ve eylem talep eden bir kitaptır.
 
 Ama her şeyden önce bunun İsa’yla ilgili olduğunu, merkezde O’nun bulunduğunu unutmamalıyız. “İsa Mesih’in” ifadesini tercüme etmenin iki yolu vardır:
 
@@ -24,9 +24,9 @@ Ama her şeyden önce bunun İsa’yla ilgili olduğunu, merkezde O’nun bulund
 
 Yunanca her ikisini de destekler ve niyet de bu olabilir. Vahiy İsa’dan gelir, ama niyet İsa hakkında daha fazla şey açıklamaktır. Hizmetkârlar, Yuhanna’nın bunu yazdığı imanlılardır ve bu kitabın hitap ettiği kişiler de onlardır.
 
-Ayrıca “yakında gerçekleşmesi gereken” terimi bilinçli olarak seçilmiştir ve dünya imparatorluklarının sonunu ve Tanrı’nın egemenliğini anlatan [Daniel 2'nin vizyonuna](../../../bible/daniel/expl/the-four-kingdoms-in-daniel) atıfta bulunur. Daniel’den farkı, bunun artık gelecekte değil, gelmiş olmasıdır.
+Ayrıca “yakında gerçekleşmesi gereken” terimi bilinçli olarak seçilmiştir ve dünya imparatorluklarının sonunu ve Tanrı’nın egemenliğini anlatan [Daniel 2'nin vizyonuna](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel) atıfta bulunur. Daniel’den farkı, bunun artık gelecekte değil, gelmiş olmasıdır.
 
-[Bir sonraki ayet](https://www.bibleserver.com/TR/Vahiy1%3A2) İsa’nın tanıklığından söz ederek bunu daha da yoğunlaştırır.[ Bunun tüm kitapta merkezi bir konu olduğunu göreceğiz](../../../topics/power/short/the-power-of-testimony). İsa bu konuda sadece konuşmuyor, o yaşayan bir tanıktır — ve biz de öyle yapmalıyız.
+[Bir sonraki ayet](https://www.bibleserver.com/TR/Vahiy1%3A2) İsa’nın tanıklığından söz ederek bunu daha da yoğunlaştırır.[ Bunun tüm kitapta merkezi bir konu olduğunu göreceğiz](../../../../topics/power/short/the-power-of-testimony). İsa bu konuda sadece konuşmuyor, o yaşayan bir tanıktır — ve biz de öyle yapmalıyız.
 
 Bir sonraki ayette bu daha açık bir şekilde ifade edilmektedir: “Ne mutlu bu peygamberlik sözlerini yüksek sesle okuyanlara ve ne mutlu onu işitip içinde yazılanları yürekten benimseyenlere, çünkü zaman yakındır.”
 
@@ -92,7 +92,7 @@ Zaman yakındır ve kilise harekete geçmelidir. İsa’nın her şeyi yaptığ�
 ## Daha derine inmek
 
 <a name="cd36"></a>
-[Beale, Relevation, sayfalar 181–222](../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
+[Beale, Relevation, sayfalar 181–222](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
 
 
 

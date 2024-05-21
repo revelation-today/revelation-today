@@ -75,10 +75,10 @@ Bist du bereit, das Buch mit neuen Augen zu sehen? Vielleicht wirst du wie in di
 ## Zur Vertiefung
 
 <a name="6869"></a>
-- [Mehr zum Genre](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Warum das Alte Testament wichtig ist](../../../background/literature/expl/full-of-biblical-references)
-- [Wörtlich oder symbolisch?](../../../background/literature/expl/literally-or-symbolic)
-- [Was bedeuten die Zahlen?](../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
+- [Mehr zum Genre](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [Warum das Alte Testament wichtig ist](../../../../background/literature/expl/full-of-biblical-references)
+- [Wörtlich oder symbolisch?](../../../../background/literature/expl/literally-or-symbolic)
+- [Was bedeuten die Zahlen?](../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
 
 
 

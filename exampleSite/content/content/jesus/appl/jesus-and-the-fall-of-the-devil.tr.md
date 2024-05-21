@@ -60,17 +60,17 @@ Zayıf olabilir ve kendimizi çaresiz hissedebiliriz (ve bu duygulara izin verme
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="458a"></a>
-- [Daniel’de Genel Bakış](../../../bible/daniel/expl/the-book-of-daniel)
-- [Dört Krallık](../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
-- [70 yıl](../../../bible/daniel/expl/the-70-year-weeks)
-- [3,5 yıl](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-- [İsa doğdu](../../../content/jesus/expl/a-different-christmas-story)
+- [Daniel’de Genel Bakış](../../../../bible/daniel/expl/the-book-of-daniel)
+- [Dört Krallık](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
+- [70 yıl](../../../../bible/daniel/expl/the-70-year-weeks)
+- [3,5 yıl](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+- [İsa doğdu](../../../../content/jesus/expl/a-different-christmas-story)
 
 
 

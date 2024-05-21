@@ -72,11 +72,11 @@ So everything depends on the good witness of the Church.
 ## Digging deeper
 
 <a name="06f1"></a>
-- [A real hero](../../../topics/hero/short/a-real-hero)
-- [Who rules the world?](../../../topics/hero/short/who-rules-the-world)
-- [The book with the seven seals](../../../content/seals/expl/the-book-with-the-seven-seals)
-- [The mystery of the four horsemen](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
-- [The wrath of the lamb](../../../content/seals/expl/the-wrath-of-the-lamb)
+- [A real hero](../../../../topics/hero/short/a-real-hero)
+- [Who rules the world?](../../../../topics/hero/short/who-rules-the-world)
+- [The book with the seven seals](../../../../content/seals/expl/the-book-with-the-seven-seals)
+- [The mystery of the four horsemen](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [The wrath of the lamb](../../../../content/seals/expl/the-wrath-of-the-lamb)
 
 
 

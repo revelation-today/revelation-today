@@ -9,9 +9,9 @@ The book of Revelation in the Bible is full of strange time periods like 1260 da
 ## You may want to read before
 
 <a name="c871"></a>
-- [The book of Daniel](../../../bible/daniel/expl/the-book-of-daniel)
-- [The four kingdoms in Daniel](../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
-- [The 70 years](../../../bible/daniel/expl/the-70-year-weeks)
+- [The book of Daniel](../../../../bible/daniel/expl/the-book-of-daniel)
+- [The four kingdoms in Daniel](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
+- [The 70 years](../../../../bible/daniel/expl/the-70-year-weeks)
 
 
 
@@ -57,7 +57,7 @@ The battle and the question here is, “Who is the true God?”.
 ## The year week in Daniel
 
 <a name="96cb"></a>
-In Daniel there are the [70 weeks which result in two half-weeks of 3.5 years each](../../../bible/daniel/expl/the-70-year-weeks). The first half-week describes the time of Jesus on earth and the second perhaps the work of the church. The covenant of Jesus is also [described as being in this week](https://www.bibleserver.com/NIV/Daniel9%3A27).
+In Daniel there are the [70 weeks which result in two half-weeks of 3.5 years each](../../../../bible/daniel/expl/the-70-year-weeks). The first half-week describes the time of Jesus on earth and the second perhaps the work of the church. The covenant of Jesus is also [described as being in this week](https://www.bibleserver.com/NIV/Daniel9%3A27).
 
 These 3.5 years are what God is building up in the background that will overthrow the kingdoms of this world.
 
@@ -65,7 +65,7 @@ These 3.5 years are what God is building up in the background that will overthro
 ## What are the 3,5 years in Revelation
 
 <a name="df73"></a>
-Let’s go through and start with chapter 13. [This is the devil’s deception](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). When does it start? According to chapter 12, it happens after Jesus’ death on the cross, when he realizes that he cannot destroy Israel, which is protected by God, so pretty much after his death.
+Let’s go through and start with chapter 13. [This is the devil’s deception](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). When does it start? According to chapter 12, it happens after Jesus’ death on the cross, when he realizes that he cannot destroy Israel, which is protected by God, so pretty much after his death.
 
 When does he stop? Never if he doesn’t have to, so until Jesus comes back.
 

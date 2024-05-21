@@ -10,8 +10,8 @@ After understanding who the harlot is, there are still open questions that the B
 ## Helpful to read before
 
 <a name="5c2e"></a>
-- [Who is the harlot? Part 1](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
-- [Who is the harlot? Part 2](../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
+- [Who is the harlot? Part 1](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
+- [Who is the harlot? Part 2](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
 
 
 

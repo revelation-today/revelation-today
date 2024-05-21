@@ -47,7 +47,7 @@ Since then Dispensionalism has spread and has a wide variety but has some core [
 ## Daha fazla okuma
 
 <a name="f0c3"></a>
-- [Dispensionalizm Üzerine Eleştiri](../../../topics/others/expl/dispensionalism-and-its-critic)
+- [Dispensionalizm Üzerine Eleştiri](../../../../topics/others/expl/dispensionalism-and-its-critic)
 
 
 

@@ -45,7 +45,7 @@ Da sich der Dispensionalismus stark verbreitet hat, gibt es eine große Vielzahl
 ## Zum Weiterlesen
 
 <a name="1467"></a>
-- [Kritik am Dispensionalismus](../../../topics/others/expl/dispensionalism-and-its-critic)
+- [Kritik am Dispensionalismus](../../../../topics/others/expl/dispensionalism-and-its-critic)
 
 
 

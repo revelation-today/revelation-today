@@ -159,9 +159,9 @@ Bundan önce
 ## Diğer okumalar
 
 <a name="b14e"></a>
-- [Her şey nasıl başladı](../../../bible/exodus/expl/the-story-before-the-exodus)
-- [Farklı kahraman](../../../bible/exodus/expl/the-birth-of-moses)
-- [Kalbin katılaşması](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
+- [Her şey nasıl başladı](../../../../bible/exodus/expl/the-story-before-the-exodus)
+- [Farklı kahraman](../../../../bible/exodus/expl/the-birth-of-moses)
+- [Kalbin katılaşması](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
 
 
 

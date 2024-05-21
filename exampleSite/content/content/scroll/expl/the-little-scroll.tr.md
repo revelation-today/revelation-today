@@ -42,7 +42,7 @@ Ama şimdi tomar nedir? Bir sonraki bölüm(ler)e baktığımızda, kilisenin so
 ## Diğer okumalar
 
 <a name="b1dc"></a>
-- [İki tanık](../../../content/witnesses/expl/the-two-witnesses)
+- [İki tanık](../../../../content/witnesses/expl/the-two-witnesses)
 
 
 

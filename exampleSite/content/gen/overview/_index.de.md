@@ -89,7 +89,7 @@ Die beiden Zeugen in [Kapitel 11](https://www.bibleserver.com/SLT/Offenbarung11)
 
 Die beiden Zeugen symbolisieren die Gemeinde, die nur erfolgreich sein kann, wenn sie Jesus kompromisslos nachfolgt.
 
-Andererseits sehen wir in [Kapitel 13](../../../content/beasts/appl/the-perfect-gospel), wie Satan eine Gegen-Dreieinigkeit erschafft, die alles symbolisiert, was wir uns von Gemeinschaft erträumen:
+Andererseits sehen wir in [Kapitel 13](../../../../content/beasts/appl/the-perfect-gospel), wie Satan eine Gegen-Dreieinigkeit erschafft, die alles symbolisiert, was wir uns von Gemeinschaft erträumen:
 
 - Alle sind überwältigt.
 - Alle Feinde sind besiegt.
@@ -113,7 +113,7 @@ Obwohl das Buch starke Züge einer Apokalypse trägt, wird der Grundgedanke imme
 - Der Löwe von Juda ist in Wirklichkeit das [Lamm](https://www.bibleserver.com/SLT/Offenbarung5%2C5-6) Gottes.
 - Das [Heer der 144.000](https://www.bibleserver.com/SLT/Offenbarung7%2C4-8) wird erklärt als die Menschen, die Gott [anbeten](https://www.bibleserver.com/SLT/Offenbarung7%2C9-10), später als die, die [dem Lamm folgen und glauben](https://www.bibleserver.com/SLT/Offenbarung14%2C1-5).
 - Der Sieg der zwei Zeugen ist ihr [Tod](https://www.bibleserver.com/SLT/Offenbarung11%2C7-13).
-- Der geheimnisvolle Ort [Harmageddon](https://www.bibleserver.com/SLT/Offenbarung16%2C14) beschreibt die [Niederlage der Starken und den Sieg der absolut Schwachen](../../../content/bowls/expl/the-key-to-armageddon).
+- Der geheimnisvolle Ort [Harmageddon](https://www.bibleserver.com/SLT/Offenbarung16%2C14) beschreibt die [Niederlage der Starken und den Sieg der absolut Schwachen](../../../../content/bowls/expl/the-key-to-armageddon).
 - Die [Hure wird von dem Tier vernichtet](https://www.bibleserver.com/SLT/Offenbarung17%2C16), auf dem sie [sitzt](https://www.bibleserver.com/SLT/Offenbarung17%2C3).
 - Jesus kommt und [vernichtet alle Feinde durch das Schwert seines Mundes](https://www.bibleserver.com/SLT/Offenbarung19%2C21).
 

@@ -59,7 +59,7 @@ As a result, you had three choices
 - live your faith fully and risk social and economic isolation and ruin, imprisonment and even death, or
 - outwardly conform (confess the emperor with the mouth) but remain faithful to Jesus (confess him with the heart), making their faith hypocritical.
 
-The third option has been very compelling to many people and is a major theme in the book of Revelation: [With the aspect of an apocalypse there are only two options — all for God or all against him](../../../background/literature/expl/the-book-of-revelation-how-to-read-it). So the book creates a counter-propaganda against the Pax Romana.
+The third option has been very compelling to many people and is a major theme in the book of Revelation: [With the aspect of an apocalypse there are only two options — all for God or all against him](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it). So the book creates a counter-propaganda against the Pax Romana.
 
 ## Christians and Jews
 
@@ -107,8 +107,8 @@ Here are some questions for reflection:
 
 ## Further readings
 
-[What kind of book is this?](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-[Structure of the book](../../../background/structure/expl/the-structure-of-the-book-of-revelation)
+[What kind of book is this?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+[Structure of the book](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
 ## Dig Deeper
 

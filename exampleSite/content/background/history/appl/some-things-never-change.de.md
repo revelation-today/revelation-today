@@ -71,8 +71,8 @@ Und die Gemeinde fragt sich vielleicht, was sie tun kann. Und das Buch Offenbaru
 ## Zur Vertiefung
 
 <a name="afb0"></a>
-- [Der historische Hintergrund](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [Israel und die Gemeinde](../../../background/israel/expl/israel-and-the-church)
+- [Der historische Hintergrund](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [Israel und die Gemeinde](../../../../background/israel/expl/israel-and-the-church)
 
 
 

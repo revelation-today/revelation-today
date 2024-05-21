@@ -42,7 +42,7 @@ Aber was genau sagt das Büchlein? Dazu müssen wir die nächsten Kapitel lesen.
 ## Zum Weiterlesen
 
 <a name="dfe1"></a>
-- [Die beiden Zeugen](../../../content/witnesses/expl/the-two-witnesses)
+- [Die beiden Zeugen](../../../../content/witnesses/expl/the-two-witnesses)
 
 
 

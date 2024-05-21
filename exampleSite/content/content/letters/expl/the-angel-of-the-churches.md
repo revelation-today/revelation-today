@@ -52,8 +52,8 @@ So why should the churches be addressed as angels?
 ## Further reading
 
 <a name="eec4"></a>
-- [The letter to the churches](../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [What is a hero](../../../topics/hero/short/a-real-hero)
+- [The letter to the churches](../../../../content/letters/expl/the-letters-to-the-seven-churches)
+- [What is a hero](../../../../topics/hero/short/a-real-hero)
 
 
 

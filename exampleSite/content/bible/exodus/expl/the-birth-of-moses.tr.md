@@ -5,7 +5,7 @@ title: "Musa’nın hikayesi"
 
 Musa’nın hikayesi antik dünyada bilinen tüm kahramanlık hikayelerinin senaryosuna aykırıdır, ancak bu bir başarı hikayesidir.
 
-Bu hikâye Kutsal Kitap’ta sadece iki bölüm uzunluğundadır ve daha önce okunmaya değerdir. İlk olarak, [ikinci bir Hiksos’tan](../../../bible/exodus/expl/the-story-before-the-exodus) kaçınmak için [İsrailoğullarını küçük tutmanın hikâyesi](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1) ve daha sonra [Musa’nın hikâyesi](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2)
+Bu hikâye Kutsal Kitap’ta sadece iki bölüm uzunluğundadır ve daha önce okunmaya değerdir. İlk olarak, [ikinci bir Hiksos’tan](../../../../bible/exodus/expl/the-story-before-the-exodus) kaçınmak için [İsrailoğullarını küçük tutmanın hikâyesi](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1) ve daha sonra [Musa’nın hikâyesi](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2)
 
 
 ## İkinci bir Hyksos’a karşı mücadele

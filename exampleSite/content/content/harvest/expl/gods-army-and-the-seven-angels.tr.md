@@ -10,7 +10,7 @@ Vahiy Kitabı’ndaki 14. bölüm Kutsal Kitap’taki en şaşırtıcı bölüml
 ## 144.000
 
 <a name="181d"></a>
-Bölüm, tomarı almaya layık görülen [kuzunun ayakta durduğu 5. bölümden](../../../content/seals/expl/the-book-with-the-seven-seals) devam eder ve [bunu 144.000 kişiden bahsedilen 7. bölümle birleştirir](../../../content/army/expl/the-144000). Şimdi tahtın önünde birleşmişlerdir (1. ayette Siyon Dağı’ndan söz edilmesi göksel Yeruşalim’e bir gönderme olabilir).
+Bölüm, tomarı almaya layık görülen [kuzunun ayakta durduğu 5. bölümden](../../../../content/seals/expl/the-book-with-the-seven-seals) devam eder ve [bunu 144.000 kişiden bahsedilen 7. bölümle birleştirir](../../../../content/army/expl/the-144000). Şimdi tahtın önünde birleşmişlerdir (1. ayette Siyon Dağı’ndan söz edilmesi göksel Yeruşalim’e bir gönderme olabilir).
 
 144.000 kişinin alınlarında kimliklerini ve aidiyetlerini (Tanrı’ya ait olduklarını) tanımlayan kuzu ve Tanrı’nın adı vardır, bu nedenle 7. bölümdeki mühürlemenin farklı bir yansımasıdır.
 
@@ -23,11 +23,11 @@ Bu çok korkutucu bir durumdur ama Tanrı’nın halkı hâlâ ayaktadır. Tüm 
 - [çocuğu yok etmekte başarısız olur](https://www.bibleserver.com/TR/Vahiy12%3A1-6)
 - [cennetteki konumunu kaybeder](https://www.bibleserver.com/TR/Vahiy12%3A7-12)
 - [kadını yok etmeyi başaramadı](https://www.bibleserver.com/TR/Vahiy12%3A13-17)
-- [iki canavarla olan algısı ve baskısı](https://www.bibleserver.com/TR/Vahiy13) [bir felakettir](../../../content/beasts/expl/666-the-number-of-the-beast)
-- [ve azizlere karşı kazandığı zafer geri tepti](../../../content/witnesses/expl/the-two-witnesses)
+- [iki canavarla olan algısı ve baskısı](https://www.bibleserver.com/TR/Vahiy13) [bir felakettir](../../../../content/beasts/expl/666-the-number-of-the-beast)
+- [ve azizlere karşı kazandığı zafer geri tepti](../../../../content/witnesses/expl/the-two-witnesses)
 
 
-Sadece bu da değil, [küçük parşömenle ilgili kaderlerini de yerine getirdiler](../../../content/scroll/expl/the-little-scroll). Ama onların sırrı nedir? Burada yazıyor:
+Sadece bu da değil, [küçük parşömenle ilgili kaderlerini de yerine getirdiler](../../../../content/scroll/expl/the-little-scroll). Ama onların sırrı nedir? Burada yazıyor:
 
 “[Kendilerini kadınlarla lekelememiş olanlar bunlardır. Pak kişilerdir. Kuzu nereye giderse ardısıra giderler. Tanrı’ya ve Kuzu’ya ait olacakların ilk bölümü olmak üzere insanlar arasından satın alınmışlardır. Ağızlarından hiç yalan çıkmamıştır. Kusursuzdurlar.](https://www.bibleserver.com/TR/Vahiy14%3A4-5)”
 
@@ -61,7 +61,7 @@ Mezmur, Tanrı’nın kral olduğunu ve tüm ulusların ona tapınmaya DAVET ED�
 
 İkinci melek Babil’e karşı kazanılan zaferi ilan ederken, üçüncü melek canavara boyun eğen herkes için şiddetli bir yargı uyarısı getirir. Bu aynı zamanda iki tanığın [tövbe çağrısını](https://www.bibleserver.com/TR/Vahiy11%3A3) ve [uyarı yargılarını](https://www.bibleserver.com/TR/Vahiy11%3A5) da yansıtır.
 
-Asıl soru şu: Sonuç ne olacak? Uluslar bizi dinleyecek mi? Tanıklarla ilgili hikayeden biliyoruz: [Dinleyecekler](../../../content/witnesses/expl/the-two-witnesses)
+Asıl soru şu: Sonuç ne olacak? Uluslar bizi dinleyecek mi? Tanıklarla ilgili hikayeden biliyoruz: [Dinleyecekler](../../../../content/witnesses/expl/the-two-witnesses)
 
 
 ## İki hasat
@@ -84,7 +84,7 @@ Yani sonuçta uluslar için iki seçenek vardır: Yargı ya da Kurtuluş. İki t
 ## Musa’nın şarkısı
 
 <a name="e8d4"></a>
-Bir sonraki sahne bizi camdan denizin ([Kızıldeniz’in yarılması](https://www.bibleserver.com/TR/Mezmur78%3A13)), Musa’nın şarkısının ve Kuzu’nun şarkısının işaret ettiği [yeni göçün](../../../background/israel/expl/the-second-exodus) içine davet eder.
+Bir sonraki sahne bizi camdan denizin ([Kızıldeniz’in yarılması](https://www.bibleserver.com/TR/Mezmur78%3A13)), Musa’nın şarkısının ve Kuzu’nun şarkısının işaret ettiği [yeni göçün](../../../../background/israel/expl/the-second-exodus) içine davet eder.
 
 “[‘Tanrı kulu Musa’nın ve Kuzu’nun ezgisini söylüyorlardı: ‹‹Her Şeye Gücü Yeten Rab Tanrı, Senin işlerin büyük ve şaşılası işlerdir. Ey ulusların kralı, Senin yolların doğru ve adildir. Ya Rab, senden kim korkmaz, Adını kim yüceltmez? Çünkü kutsal olan yalnız sensin. Bütün uluslar gelip sana tapınacaklar. Çünkü adil işlerin açıkça görüldü.](https://www.bibleserver.com/TR/Vahiy15%3A3-4)“
 

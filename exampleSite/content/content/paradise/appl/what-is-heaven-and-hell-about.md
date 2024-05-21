@@ -55,8 +55,8 @@ So decide well after you have heard all this. What are you going to do? How will
 ## Digging deeper
 
 <a name="9282"></a>
-- [The new Jerusalem](../../../content/paradise/expl/the-new-jerusalem)
-- [Heaven and hell](../../../content/paradise/expl/heaven-and-hell)
+- [The new Jerusalem](../../../../content/paradise/expl/the-new-jerusalem)
+- [Heaven and hell](../../../../content/paradise/expl/heaven-and-hell)
 
 
 

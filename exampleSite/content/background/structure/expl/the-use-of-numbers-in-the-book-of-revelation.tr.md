@@ -30,7 +30,7 @@ Vahiy’deki bütünlüğün diğer örnekleri, Tanrı’nın yargısının büt
 ## Sayı 3,5
 
 <a name="832f"></a>
-[Burada kendi makalemiz var](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+[Burada kendi makalemiz var](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 
 
 ## 4 numara
@@ -139,7 +139,7 @@ Ancak biz genellikle Şeytan’ın her zaman biraz daha güçlü olduğu çarpı
 ## Daha fazla kazma
 
 <a name="52da"></a>
-[Beale, Revelation, sayfalar 60–64](../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
+[Beale, Revelation, sayfalar 60–64](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
 
 Bauckham, The climax of prophecy, sayfalar 384–407
 

@@ -14,7 +14,7 @@ The book of Revelation begins with some statements that are easy to overlook, bu
 
 The book begins intensely as the “Revelation of Jesus Christ” (Apokalypsis Iesou Christou in Greek), “which God gave him to show his servants what must soon take place”.
 
-This book is described as an apocalypse, which may trigger certain images in your mind, but that is not what it means. Even the literal correct translation as “Revelation of Jesus” leaves questions open. [Apocalypse is a literary genre that describes how to read this book](../../../background/literature/expl/the-book-of-revelation-how-to-read-it) — it is a book that provokes and demands action.
+This book is described as an apocalypse, which may trigger certain images in your mind, but that is not what it means. Even the literal correct translation as “Revelation of Jesus” leaves questions open. [Apocalypse is a literary genre that describes how to read this book](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it) — it is a book that provokes and demands action.
 
 But in all of this we should not forget that it is about Jesus, he is in the center. There are two ways to translate “of Jesus Christ”:
 
@@ -24,9 +24,9 @@ But in all of this we should not forget that it is about Jesus, he is in the cen
 
 The Greek supports both, and that may be the intention. The revelation comes from Jesus, but the intention is to reveal more about Jesus. The servants are the believers to whom John is writing, and they are the ones to whom this book is addressed.
 
-The phrase “what must soon take place” is also deliberately chosen and refers to the [vision of Daniel 2](../../../bible/daniel/expl/the-four-kingdoms-in-daniel) which describes the end of the world’s kingdoms and the reign of God. The difference with Daniel is that this is no longer in the future, but has already happened.
+The phrase “what must soon take place” is also deliberately chosen and refers to the [vision of Daniel 2](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel) which describes the end of the world’s kingdoms and the reign of God. The difference with Daniel is that this is no longer in the future, but has already happened.
 
-[The next verse](https://www.bibleserver.com/NIV/Revelation1%3A2) reinforces this by talking about the testimony of Jesus. [We will see that this is a central theme throughout the book](../../../topics/power/short/the-power-of-testimony). Jesus does not just talk about it, he is a living testimony— and so should we.
+[The next verse](https://www.bibleserver.com/NIV/Revelation1%3A2) reinforces this by talking about the testimony of Jesus. [We will see that this is a central theme throughout the book](../../../../topics/power/short/the-power-of-testimony). Jesus does not just talk about it, he is a living testimony— and so should we.
 
 The next verse makes this even clearer: “Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear it and take to heart what is written in it, because the time is near.”
 
@@ -102,7 +102,7 @@ The time is near and the Church should act. As Jesus did everything, the Church 
 ## Digging deeper
 
 <a name="c849"></a>
-[Beale, Relevation, pages 181–222](../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
+[Beale, Relevation, pages 181–222](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
 
 
 

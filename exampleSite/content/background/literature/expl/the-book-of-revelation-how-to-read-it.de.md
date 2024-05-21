@@ -1,5 +1,6 @@
 ---
 title: "Wie lese ich die Offenbarung?"
+weight: 10
 ---
 
 
@@ -162,15 +163,15 @@ Mit anderen Worten, das Buch ist nicht
 ## Zum Weiterlesen
 
 <a name="b8ec"></a>
-- [Ist die Offenbarung wörtlich oder symbolisch zu verstehen?](../../../background/literature/expl/literally-or-symbolic)
-- [Was ist der historische Hintergrund?](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [Ist die Offenbarung wörtlich oder symbolisch zu verstehen?](../../../../background/literature/expl/literally-or-symbolic)
+- [Was ist der historische Hintergrund?](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 
 
 
 ## Zur Vertiefung
 
 <a name="efae"></a>
-[Goreman, Reading Revelation Responsibly, Seiten 10–56](../../../gen/background/ressources/how-to-study-the-book-of-revelation#45e4)
+[Goreman, Reading Revelation Responsibly, Seiten 10–56](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#45e4)
 
 
 

@@ -55,9 +55,9 @@ Doch worum geht es bei den Zornesschalen?
 ## Zur Vertiefung
 
 <a name="467a"></a>
-- [Die Zornesschalen](../../../content/bowls/expl/the-bowls-of-wrath)
-- [Die Bedeutung von Harmageddon](../../../content/bowls/expl/the-key-to-armageddon)
-- [Harmageddon und die Schlacht von Karkemish](../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
+- [Die Zornesschalen](../../../../content/bowls/expl/the-bowls-of-wrath)
+- [Die Bedeutung von Harmageddon](../../../../content/bowls/expl/the-key-to-armageddon)
+- [Harmageddon und die Schlacht von Karkemish](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
 
 

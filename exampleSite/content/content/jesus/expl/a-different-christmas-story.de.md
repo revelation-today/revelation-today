@@ -97,8 +97,8 @@ Wie genau Jesus überwindet, wird hier nicht beschrieben, aber das Thema der Spa
 ## Zum Weiterlesen
 
 <a name="fe9e"></a>
-- [Die Geschichte der unheiligen Dreieinigkeit](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [Die Struktur der Offenbarung](../../../background/structure/expl/the-structure-of-the-book-of-revelation)
+- [Die Geschichte der unheiligen Dreieinigkeit](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [Die Struktur der Offenbarung](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
 
 

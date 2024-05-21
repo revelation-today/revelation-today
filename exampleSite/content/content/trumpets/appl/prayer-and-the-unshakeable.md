@@ -82,12 +82,12 @@ On the other hand: Hard times are not enough to change a heart. It needs more, a
 ## Digging deeper
 
 <a name="71f2"></a>
-- [The power of prayer](../../../topics/power/short/the-key-of-prayer)
-- [The story before the exodus](../../../bible/exodus/expl/the-story-before-the-exodus)
-- [The birth of Moses](../../../bible/exodus/expl/the-birth-of-moses)
-- [The hardening of Pharao’s heart](../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
-- [The plagues in Egypt](../../../bible/exodus/expl/the-plagues-in-egypt)
-- [The seven trumpets](../../../content/trumpets/expl/the-trumpets-in-revelation)
+- [The power of prayer](../../../../topics/power/short/the-key-of-prayer)
+- [The story before the exodus](../../../../bible/exodus/expl/the-story-before-the-exodus)
+- [The birth of Moses](../../../../bible/exodus/expl/the-birth-of-moses)
+- [The hardening of Pharao’s heart](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
+- [The plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt)
+- [The seven trumpets](../../../../content/trumpets/expl/the-trumpets-in-revelation)
 
 
 

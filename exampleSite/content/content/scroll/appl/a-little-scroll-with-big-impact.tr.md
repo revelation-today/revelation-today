@@ -47,13 +47,13 @@ Bu kilisenin tanıklığıdır. Tanıklıktan kastım iyi bir yaşam tarzı değ
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="9655"></a>
-- [Küçük parşömen](../../../content/scroll/expl/the-little-scroll)
+- [Küçük parşömen](../../../../content/scroll/expl/the-little-scroll)
 
 
 

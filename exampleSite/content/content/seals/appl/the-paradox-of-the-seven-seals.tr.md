@@ -52,17 +52,17 @@ Yani her şey kilisenin iyi tanıklığına bağlıdır.
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="a799"></a>
-- [Gerçek bir kahraman](../../../topics/hero/short/a-real-hero)
-- [Dünyayı kim yönetiyor?](../../../topics/hero/short/who-rules-the-world)
-- [Yedi mühürlü kitap](../../../content/seals/expl/the-book-with-the-seven-seals)
-- [Dört atlının gizemi](../../../content/seals/expl/the-mystery-of-the-four-horse-men)
-- [Kuzunun gazabı](../../../content/seals/expl/the-wrath-of-the-lamb)
+- [Gerçek bir kahraman](../../../../topics/hero/short/a-real-hero)
+- [Dünyayı kim yönetiyor?](../../../../topics/hero/short/who-rules-the-world)
+- [Yedi mühürlü kitap](../../../../content/seals/expl/the-book-with-the-seven-seals)
+- [Dört atlının gizemi](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
+- [Kuzunun gazabı](../../../../content/seals/expl/the-wrath-of-the-lamb)
 
 
 

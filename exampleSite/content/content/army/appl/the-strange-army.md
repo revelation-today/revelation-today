@@ -10,7 +10,7 @@ The 144,000 is a statement that many have heard. Who are they? And why are they 
 ## Our text
 
 <a name="c775"></a>
-We are moving quickly forward and have already rEA[chapter 7](https://www.bibleserver.com/NIV/Revelation7).
+We are moving quickly forward and have already in [chapter 7](https://www.bibleserver.com/NIV/Revelation7).
 
 
 ## The army of God
@@ -51,8 +51,8 @@ We are described as an army — soldiers who always worry if they might get hurt
 ## Digging deeper
 
 <a name="06f1"></a>
-- [The 144.000](../../../content/army/expl/the-144000)
-- [The big tribulation](../../../content/army/expl/the-end-time-and-the-great-tribulation)
+- [The 144.000](../../../../content/army/expl/the-144000)
+- [The big tribulation](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
 
 
 

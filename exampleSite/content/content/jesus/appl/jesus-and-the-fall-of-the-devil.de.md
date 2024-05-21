@@ -64,11 +64,11 @@ Wir können uns schwach und hilflos fühlen (und diese Gefühle sind in Ordnung,
 ## Zur Vertiefung
 
 <a name="cde3"></a>
-- [Überblick über das Buch Daniel](../../../bible/daniel/expl/the-book-of-daniel)
-- [Die vier Königreiche bei Daniel](../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
-- [Die 70 Jahrwochen](../../../bible/daniel/expl/the-70-year-weeks)
-- [Die 3,5 Jahre](../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-- [Weihnachten in der Offenbarung](../../../content/jesus/expl/a-different-christmas-story)
+- [Überblick über das Buch Daniel](../../../../bible/daniel/expl/the-book-of-daniel)
+- [Die vier Königreiche bei Daniel](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
+- [Die 70 Jahrwochen](../../../../bible/daniel/expl/the-70-year-weeks)
+- [Die 3,5 Jahre](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+- [Weihnachten in der Offenbarung](../../../../content/jesus/expl/a-different-christmas-story)
 
 
 

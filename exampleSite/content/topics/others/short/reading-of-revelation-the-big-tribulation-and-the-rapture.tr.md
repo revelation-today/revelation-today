@@ -43,15 +43,15 @@ Hıristiyanların umudu, sıkıntılarımızdan kurtulmamız değil, sıkıntıl
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="113f"></a>
-- [İsa’nın hikayesi](../../../content/jesus/expl/a-different-christmas-story)
-- [Büyük Sıkıntı](../../../content/army/expl/the-end-time-and-the-great-tribulation)
-- [Kıyamet](../../../topics/others/expl/the-rapture)
+- [İsa’nın hikayesi](../../../../content/jesus/expl/a-different-christmas-story)
+- [Büyük Sıkıntı](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
+- [Kıyamet](../../../../topics/others/expl/the-rapture)
 
 
 

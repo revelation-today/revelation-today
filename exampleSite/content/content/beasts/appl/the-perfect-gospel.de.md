@@ -142,10 +142,10 @@ So der entscheidende Unterschied zwischen Satan und Jesus ist in dieser Zeit nic
 ## Zur Vertiefung
 
 <a name="83ad"></a>
-- [Die beiden Tiere](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [Die Zahl des Tieres](../../../content/beasts/expl/666-the-number-of-the-beast)
-- [Die beiden Tiere im historischen Kontext](../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
-- [Die Natur der beiden Tiere](../../../content/beasts/expl/the-nature-of-the-beast)
+- [Die beiden Tiere](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [Die Zahl des Tieres](../../../../content/beasts/expl/666-the-number-of-the-beast)
+- [Die beiden Tiere im historischen Kontext](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
+- [Die Natur der beiden Tiere](../../../../content/beasts/expl/the-nature-of-the-beast)
 
 
 

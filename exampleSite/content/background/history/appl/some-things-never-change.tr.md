@@ -67,14 +67,14 @@ Ve kilise ne yapılabileceğini sorabilir. Vahiy kitabı bu konuda yardımcı ol
 
 
 
-[Daha büyük bağlam](../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
 
 ## Daha derine inmek
 
 <a name="1425"></a>
-- [Tarihsel arka plan](../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [İsrail ve kilise](../../../background/israel/expl/israel-and-the-church)
+- [Tarihsel arka plan](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [İsrail ve kilise](../../../../background/israel/expl/israel-and-the-church)
 
 
 

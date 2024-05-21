@@ -4,7 +4,7 @@ weight: 2
 ---
 
 
-In ancient times [being in a family was essential for survival](../../../background/israel/expl/the-role-of-family-in-the-bible) (provision, protection, …), and being in an important family was even better.
+In ancient times [being in a family was essential for survival](../../../../background/israel/expl/the-role-of-family-in-the-bible) (provision, protection, …), and being in an important family was even better.
 
 But how do you join a family? By marriage, by birth, by adoption and by COVENANT.
 
