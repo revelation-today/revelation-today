@@ -69,7 +69,7 @@ She has many parallels as a contrast to the bride in chapter 21 and the woman in
 
 
 | Wife in chapter 12 | Harlot in chapter 17 | Bride in ch.19 and 21 |
-|--------------------|---------------------|-----------------------|
+|--------------------|----------------------|-----------------------|
 | [Hidden in the <span style="color:green;">desert</span>](https://www.bibleserver.com/NIV/Revelation23%2C6) | [Sheltered in <span style="color:green;">desert</span>](https://www.bibleserver.com/NIV/Revelation17%2C3) </br> [Harlot is <span style="color:green;">city</span> Babylon](https://www.bibleserver.com/NIV/Revelation17%2C5) | [Is <span style="color:green;">city</span>](https://www.bibleserver.com/NIV/Revelation21%2C9-21) |
 | | <span style="color:red;">Undivine</span> <span style="color:green;">capital</span> | <span style="color:green;">City</span> <span style="color:red;">God</span> |
 | <span style="color:red;">Mother</span> of legitimate children | <span style="color:red;">Harlot</span> | <span style="color:red;">bride</span> |
@@ -82,25 +82,25 @@ She has many parallels as a contrast to the bride in chapter 21 and the woman in
 | | Covered in <span style="color:green;">jewels</span> </br> [Dressed in canvas](https://www.bibleserver.com/NIV/Revelation17%2C4) ([Rev.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16)) </br>which <span style="color:red;">covers</span> her <span style="color:red;">corruption</span> | [Covered with precious jewels](https://www.bibleserver.com/NIV/Revelation21%2C2) ([Rev.21/9-23](https://www.bibleserver.com/NIV/Revelation21%2C9-23)) </br> [Dressed in pure white canvas](https://www.bibleserver.com/NIV/Revelation19%2C8) ([Rev.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16)) </br> which <span style="color:red;">reflects</span> God's glory and <span style="color:red;">righteous deeds of the saints</span> |
 
 
-and a lot of similarities with Jezebel, who causes also trouble in [Thyatira](https://www.bibleserver.com/NIV/Revelation2%3A20)
+and a lot of similarities with Jezebel, who causes also trouble in [Thyatira](https://www.bibleserver.com/NIV/Revelation2%3A20).
 
 
 | The Harlot | Jesebel |
 |------------|--------|
 | [<span style="color:green;">God led this</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C36) | [<span style="color:green;">God has put in heart</span> to destroy the harlot](https://www.bibleserver.com/NIV/Revelation17%2C17) |
 | [Before death Jezebel <span style="color:green;">dyed eyes and made head pretty</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C30) | [Harlot is <span style="color:green;">adorned with gold, purple, scarlet</span>](https://www.bibleserver.com/NIV/Revelation17%2C4) |
-| [Isebel is <span style="color:green;">queen</span>](https://www.bibleserver.com/NIV/1%20Kings16%2C31) | [Harlot is <span style="color:green;">queen</span>](https://www.bibleserver.com/NIV/Revelation17%2C1-2) ([Offb.17/18](https://www.bibleserver.com/NIV/Revelation17%2C18), [Offb.18/7](https://www.bibleserver.com/NIV/Revelation18%2C7)) |
-| [<span style="color:green;">fools people</span>](https://www.bibleserver.com/NIV/1%20Kings21%2C25) | [<span style="color:green;">fools people</span>](https://www.bibleserver.com/NIV/Revelation17%2C2) ([Offb.2/20](https://www.bibleserver.com/NIV/Revelation2%2C20)) |
-| [<span style="color:green;">Prostitution</span> through <span style="color:red;">Idolatry</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C22) ([2 Chr.21/13](https://www.bibleserver.com/NIV/2%20Chronicles21%2C13)) | [<span style="color:green;">Prostition</span> through <span style="color:red;">cooperation with the beast</span>](https://www.bibleserver.com/NIV/Revelation17%2C1-2) ([Offb.17/5](https://www.bibleserver.com/NIV/Revelation17%2C5), [Offb.2/20-22](https://www.bibleserver.com/NIV/Revelation2%2C20-22)) |
+| [Isebel is <span style="color:green;">queen</span>](https://www.bibleserver.com/NIV/1%20Kings16%2C31) | [Harlot is <span style="color:green;">queen</span>](https://www.bibleserver.com/NIV/Revelation17%2C1-2) ([Rev.17/18](https://www.bibleserver.com/NIV/Revelation17%2C18), [Rev.18/7](https://www.bibleserver.com/NIV/Revelation18%2C7)) |
+| [<span style="color:green;">fools people</span>](https://www.bibleserver.com/NIV/1%20Kings21%2C25) | [<span style="color:green;">fools people</span>](https://www.bibleserver.com/NIV/Revelation17%2C2) ([Rev.2/20](https://www.bibleserver.com/NIV/Revelation2%2C20)) |
+| [<span style="color:green;">Prostitution</span> through <span style="color:red;">Idolatry</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C22) ([2 Chr.21/13](https://www.bibleserver.com/NIV/2%20Chronicles21%2C13)) | [<span style="color:green;">Prostition</span> through <span style="color:red;">cooperation with the beast</span>](https://www.bibleserver.com/NIV/Revelation17%2C1-2) ([Rev.17/5](https://www.bibleserver.com/NIV/Revelation17%2C5), [Rev.2/20-22](https://www.bibleserver.com/NIV/Revelation2%2C20-22)) |
 | [<span style="color:green;">Use Wizard</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C22) | [<span style="color:green;">Uses wizardry</span>](https://www.bibleserver.com/NIV/Revelation18%2C23) |
 | [<span style="color:green;">Seeks economic advantage</span>](https://www.bibleserver.com/NIV/1%20Kings21) | [<span style="color:green;">Addiction to economic wealth</span>](https://www.bibleserver.com/NIV/Revelation18%2C11-19) |
 | [<span style="color:green;">Persecutes and kills saints</span>](https://www.bibleserver.com/NIV/1%20Kings18%2C4) ([1 Kings.19/2](https://www.bibleserver.com/NIV/1%20Kings19%2C2) | [<span style="color:green;">Persecutes and kills saints</span>](https://www.bibleserver.com/NIV/Revelation17%2C6) |
 | [<span style="color:green;">Remnant resists</span>](https://www.bibleserver.com/NIV/1%20Kings18%2C18) ([1 Kings 19/18](https://www.bibleserver.com/NIV/1%20Kings19%2C18), [2 Kings 9/22](https://www.bibleserver.com/NIV/2%20Kings9%2C22)) | [<span style="color:green;">Remnant resists</span>](https://www.bibleserver.com/NIV/Revelation17%2C14) |
 | [<span style="color:green;">God atones for blood of witnesses</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C7) | [<span style="color:green;">God atones blood of witnesses</span>](https://www.bibleserver.com/NIV/Revelation19%2C2) |
-| [<span style="color:green;">Judgement comes quickly</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C33-35) | [<span style="color:green;">Court comes quickly</span>](https://www.bibleserver.com/NIV/Revelation18%2C10) ([Offb.18/17](https://www.bibleserver.com/NIV/Revelation18%2C17), [Offb.18/19](https://www.bibleserver.com/NIV/Revelation18%2C19)) |
-| [<span style="color:green;">God judges successors</span>](https://www.bibleserver.com/NIV/1%20Kings18%2C40) ([2.Kön.10/19](https://www.bibleserver.com/NIV/2%20Kings10%2C19)) | [<span style="color:green;">God judges successors</span>](https://www.bibleserver.com/NIV/Revelation18%2C9-11) ([Offb.2/23](https://www.bibleserver.com/NIV/Revelation2%2C23)) |
+| [<span style="color:green;">Judgement comes quickly</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C33-35) | [<span style="color:green;">Court comes quickly</span>](https://www.bibleserver.com/NIV/Revelation18%2C10) ([Rev.18/17](https://www.bibleserver.com/NIV/Revelation18%2C17), [Rev.18/19](https://www.bibleserver.com/NIV/Revelation18%2C19)) |
+| [<span style="color:green;">God judges successors</span>](https://www.bibleserver.com/NIV/1%20Kings18%2C40) ([2.Kön.10/19](https://www.bibleserver.com/NIV/2%20Kings10%2C19)) | [<span style="color:green;">God judges successors</span>](https://www.bibleserver.com/NIV/Revelation18%2C9-11) ([Rev.2/23](https://www.bibleserver.com/NIV/Revelation2%2C23)) |
 
-and finally many parallels with the Second Beast in chapter 13
+and finally many parallels with the Second Beast in chapter 13.
 
 ## The Harlot and the second beast
 
@@ -110,13 +110,14 @@ and finally many parallels with the Second Beast in chapter 13
 | [<span style="color:green;">Comes from Earth</span>](https://www.bibleserver.com/NIV/Revelation13%2C11) | [<span style="color:green;">Sits in desert</span>](https://www.bibleserver.com/NIV/Revelation17%2C3) |
 | [<span style="color:green;">Has two horns like a lamb</span>](https://www.bibleserver.com/NIV/Revelation13%2C11) | [<span style="color:green;">Is dressed like the bride of the lamb</span>](https://www.bibleserver.com/NIV/Revelation17%2C4) |
 | [<span style="color:green;">Acts in power of the (first) beast</span>](https://www.bibleserver.com/NIV/Revelation13%2C12) | [<span style="color:green;">Sits on the (first) beast</span>](https://www.bibleserver.com/NIV/Revelation17%2C3) |
-| [<span style="color:red;">Can make</span> <span style="color:green;">fire fall from the sky</span>](https://www.bibleserver.com/NIV/Revelation13%2C13) | [<span style="color:red;">Will be judged</span> <span style="color:green;">by fire</span>](https://www.bibleserver.com/NIV/Revelation17%2C16) ([Offb.18/9](https://www.bibleserver.com/NIV/Revelation18%2C9)) |
+| [<span style="color:red;">Can make</span> <span style="color:green;">fire fall from the sky</span>](https://www.bibleserver.com/NIV/Revelation13%2C13) | [<span style="color:red;">Will be judged</span> <span style="color:green;">by fire</span>](https://www.bibleserver.com/NIV/Revelation17%2C16) ([Rev.18/9](https://www.bibleserver.com/NIV/Revelation18%2C9)) |
 | [<span style="color:green;">All who do not worship it will be killed</span>](https://www.bibleserver.com/NIV/Revelation13%2C15) | [<span style="color:green;">Drink blood of the saints</span>](https://www.bibleserver.com/NIV/Revelation17%2C6) |
 | [<span style="color:red;">Makes</span> <span style="color:green;">a sign on forehead and hand</span>](https://www.bibleserver.com/NIV/Revelation13%2C16) | [<span style="color:red;">Has</span> <span style="color:green;">sign on forehead: Babylon</span>](https://www.bibleserver.com/NIV/Revelation17%2C5) |
-| [<span style="color:green;">Cannot buy or sell without mark</span>](https://www.bibleserver.com/NIV/Revelation13%2C17) | [<span style="color:green;">Cannot buy or sell without sign</span>](https://www.bibleserver.com/NIV/Revelation18%2C3) ([Offb.18/11-17](https://www.bibleserver.com/NIV/Revelation18%2C11-17)) |
+| [<span style="color:green;">Cannot buy or sell without mark</span>](https://www.bibleserver.com/NIV/Revelation13%2C17) | [<span style="color:green;">Cannot buy or sell without sign</span>](https://www.bibleserver.com/NIV/Revelation18%2C3) ([Rev.18/11-17](https://www.bibleserver.com/NIV/Revelation18%2C11-17)) |
 | [<span style="color:green;">Requires wisdom</span>](https://www.bibleserver.com/NIV/Revelation13%2C18) | [<span style="color:green;">Requires wisdom</span>](https://www.bibleserver.com/NIV/Revelation17%2C9) |
 
-The power of the harlot is also reversed here into: while in chapter 13 she dropped fire from heaven, now she is destroyed by fire; while she makes a mark on her forehead, here she herself is branded on the forehead (like a slave)
+The power of the harlot is also reversed here into: while in chapter 13 she dropped fire from heaven, now she is destroyed by fire; while she makes a mark on her forehead, here she herself is branded on the forehead (like a slave).
+
 While the first beast supports the harlot in chapter 17, the second beast supports the first beast in chapter 13.
 
 

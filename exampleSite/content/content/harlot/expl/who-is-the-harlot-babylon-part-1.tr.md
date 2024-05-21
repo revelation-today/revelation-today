@@ -19,28 +19,25 @@ Kralları ve tüm dünyayı sarhoş eden büyük fahişe ile başlar ve şimdi o
 
 <a name="87f4"></a>
 Canavarın 13. bölümdeki ilk canavarla birçok paralelliği vardır
+TR/Vahiy
 
-
-| Vahiy 13'teki ilk canavar | Vahiy 17'deki canavar |
-|---------------------------|-----------------------|
-| [Has 7 baş ve 10 boynuz](https://www.bibleserver.com/TR/Vahiy13%2C1) | [Has 7 baş ve 10 boynuz](https://www.bibleserver.com/TR/Vahiy17%2C3) |
-| [Kafa kesilmiş gibi, tekrar büyüyor](https://www.bibleserver.com/TR/Vahiy13%2C3) | [5 kral öldü, yedincisi henüz gelmedi](https://www.bibleserver.com/TR/Vahiy17%2C10) |
-| [Canavarla kim savaşabilir](https://www.bibleserver.com/TR/Vahiy13%2C4) | [Canavar Kralların Kralına savaş açtı](https://www.bibleserver.com/TR/Vahiy17%2C14) |
-| [Küfür konuşması](https://www.bibleserver.com/TR/Vahiy13%2C5-6) | [Küfürlü isim](https://www.bibleserver.com/TR/Vahiy17%2C3) |
-| [Kutsallara karşı savaşın](https://www.bibleserver.com/TR/Vahiy13%2C7) | ve <span style="color:red;">onları yenin</span>
-<td>
-[Lamb'a karşı savaşır](https://www.bibleserver.com/TR/Vahiy17%2C14)</td> ve <span style="color:red;">üstesinden gelir</span>
-[Fight against harlot and destroy](https://www.bibleserver.com/TR/Vahiy17%2C16).
-			
-
-<tr>
-<td>[Yaşam kitabında yazılı olmayan herkes canavara tapar](https://www.bibleserver.com/TR/Vahiy13%2C8)</td>
-<td>[Hayat kitabında yazılı olmayan herkes bunalıma uğrar](https://www.bibleserver.com/TR/Vahiy17%2C8)</td>.
-		</tr>
+| Vahiy 13'teki İlk Canavar        | Vahiy 17'deki Canavar      |
+|----------------------------------|----------------------------|
+| [Has <span style="color:green;">7 baş ve 10 boynuz</span>](https://www.bibleserver.com/TR/Vahiy13%2C1) | [Has <span style="color:green;">7 baş ve 10 boynuz</span>](https://www.bibleserver.com/TR/Vahiy17%2C3) |
+| [<span style="color:green;">Kafa kesilmiş gibi, tekrar büyüyor</span>](https://www.bibleserver.com/TR/Vahiy13%2C3) | [<span style="color:green;">5 kral düştü, yedincisi henüz gelmedi</span>](https://www.bibleserver.com/TR/Vahiy17%2C10) |
+| [<span style="color:green;">Canavar rakipsiz görünüyor</span>](https://www.bibleserver.com/TR/Vahiy13%2C4) | [<span style="color:green;">Canavar Kralların Kralına karşı savaş açıyor</span>](https://www.bibleserver.com/TR/Vahiy17%2C14) |
+| [<span style="color:green>;">Küfürlü</span> konuşma](https://www.bibleserver.com/TR/Vahiy13%2C5-6) | [<span style="color:green>;">Küfürlü</span> isim](https://www.bibleserver.com/TR/Vahiy17%2C3) |
+| [<span style="color:green;">Kutsallara</span> <span style="color:red;">karşı savaşır ve onları yener</span>](https://www.bibleserver.com/TR/Vahiy13%2C7) | [<span style="color:green;">Kuzu</span> <span style="color:red;">ya karşı savaşır ve yenilir</span>](https://www.bibleserver.com/TR/Vahiy17%2C14) </br> [<span style="color:green;">Karşı savaşır</span> <span style="color:red;">fahişe ve onu yok eder</span>](https://www.bibleserver.com/TR/Vahiy17%2C16) |
+| [<span style="color:green;">Yaşam kitabında yazılı olmayan herkes</span> <span style="color:red;">canavara tapar</span>](https://www.bibleserver.com/TR/Vahiy13%2C8) | [<span style="color:green;">Yaşam kitabında yazılı olmayan herkes</span> <span style="color:red;">boğulur</span>](https://www.bibleserver.com/TR/Vahiy17%2C8) |
 
 Bu canavar askeri gücüyle imparatoru yansıtır ([hatta savaşı kızıştıran ikinci atlıyla da ilgili olabilir](https://www.bibleserver.com/TR/Vahiy6%3A3-4)). Kırmızı renk aynı zamanda kraliyet giysilerini de tanımlar.
 
-Canavar, “[bir zamanlar vardı, şimdi yok ve yine de Uçurum’dan çıkacak ve yıkımına gidecek, … bir zamanlar vardı, şimdi yok ve yine de gelecek](https://www.bibleserver.com/TR/Vahiy17%3A8)” ve “[bir zamanlar vardı ve şimdi yok, …. ve yıkımına gidiyo](https://www.bibleserver.com/TR/Vahiy17%3A11)r” olarak tanımlanır — [ebedi olan, var olan ve gelecek olan](https://www.bibleserver.com/TR/Vahiy1%3A8) Tanrı ile alay etmektir
+Canavar 8. ve 11. ayetlerde üç kez şu şekilde tanımlanır
+- [bir zamanlar vardı, şimdi yok ve yine de Uçurum’dan çıkacak ve yıkımına gidecek](https://www.bibleserver.com/TR/Vahiy17%3A8)
+- [bir zamanlar vardı, şimdi yok ve yine de gelecek](https://www.bibleserver.com/TR/Vahiy17%3A8)
+- [bir zamanlar vardı ve şimdi yok, …. ve yıkımına gidiyo](https://www.bibleserver.com/TR/Vahiy17%3A11)r” 
+
+Bu da Tanrı'nın Rev.1:8'de [var olan ve gelecek olan](https://www.bibleserver.com/TR/Vahiy1%3A8) Ebedi Kişi olarak tanımlanmasının bir parodisidir.
 
 
 ## Yedi tepe ve yedi kral
@@ -68,114 +65,56 @@ Amaçları Kuzu’ya karşı savaş açmaktır ama göreceğimiz gibi işler far
 <a name="b45d"></a>
 Bölüm 21'deki gelin ve Bölüm 12'deki kadınla sözleşme olarak birçok benzerliği vardır
 
-
-| 12. bölümdeki eş | 17. bölümdeki fahişe | 19. ve 21. bölümlerdeki gelin |
-|------------------|----------------------|-------------------------------|
-| [ çölde saklı](https://www.bibleserver.com/TR/Vahiy23%2C6) | 
-[ çölde](https://www.bibleserver.com/TR/Vahiy17%2C3) | oturur
-				[Fahişe Şehir Babel](https://www.bibleserver.com/TR/Vahiy17%2C5)'dir
-			
-<td style="width:40%;">[Şehir](https://www.bibleserver.com/TR/Vahiy21%2C9-21)</td>
-<tr>
-<td></td>
-<td><span style="color:red;">Undivine</span> <span style="color:green;">Sermaye</span></td>
-<td><span style="color:green;">Şehir</span> <span style="color:red;">Tanrı'nın</span></td>
-</tr>
-<tr>
-<td><span style="color:red;">Meşru çocukların</span> annesi</td>.
-			<td><span style="color:red;">Fahişe</span></td>
-<td><span style="color:red;">gelin</span></td>
-</tr>
-<tr>
-<td>[Peşine düşülen anne](https://www.bibleserver.com/TR/Vahiy12)</td>
-<td>[Zulüm Gören Anne](https://www.bibleserver.com/TR/Vahiy17%2C5) ([Vih.17/16](https://www.bibleserver.com/TR/Vahiy17%2C16))</td>
-<td></td>
-</tr>
-<tr>
-<td>[Kurtarılan Anne](https://www.bibleserver.com/TR/Vahiy12)</td>
-<td>[Yok edilen kadın](https://www.bibleserver.com/TR/Vahiy17)</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>
-[Melek sahayı](https://www.bibleserver.com/TR/Vahiy17%2C1)</td></tr> duyurdu
-				[kesin](https://www.bibleserver.com/TR/Vahiy19%2C9-10)
-
-<td>
-[Melek duyurdu gelin](https://www.bibleserver.com/TR/Vahiy21%2C9-10)</td>
-[Kesindir](https://www.bibleserver.com/TR/Vahiy22%2C6)
+| Bölüm 12'de eş | Bölüm 17'de fahişe | Bölüm 19 ve 21'de gelin |
+|----------------|--------------------|-------------------------|
+| [<span style="color:green;">çölde</span> saklı](https://www.bibleserver.com/TR/Vahiy23%2C6) | [<span style="color:green;">çölde</span> korunaklı](https://www.bibleserver.com/TR/Vahiy17%2C3) </br> [Fahişe <span style="color:green;">şehir</span> Babil'dir](https://www.bibleserver.com/TR/Vahiy17%2C5) | [<span style="color:green;">şehir</span>dir](https://www.bibleserver.com/TR/Vahiy21%2C9-21) |
+| <span style="color:red;">İlahi</span> <span style="color:green;">Başkent</span> | <span style="color:green;">Şehir</span> <span style="color:red;">Tanrı</span> |
+| <span style="color:red;">Meşru çocukların annesi</span> | <span style="color:red;">Fahişe</span> | <span style="color:red;">gelin</span> |
+| [<span style="color:green;">Peşine düşülen anne</span>](https://www.bibleserver.com/TR/Vahiy12) | [<span style="color:green;">Zulüm Gören Anne</span>](https://www.bibleserver.com/TR/Vahiy17%2C5) ([Vih.17/16](https://www.bibleserver.com/TR/Vahiy17%2C16)) | |
+| [<span style="color:red;">Kurtarılan Anne</span>](https://www.bibleserver.com/TR/Vahiy12) | [<span style="color:red;">Yok edilen kadın</span>](https://www.bibleserver.com/TR/Vahiy17) | |
+| [<span style="color:green;">mahkemeyi açıkladı</span>](https://www.bibleserver.com/TR/Vahiy17%2C1) [<span style="color:green;">kesindir</span>](https://www.bibleserver.com/TR/Vahiy19%2C9-10) | [<span style="color:green;">Melek gelini duyuruyor</span>](https://www.bibleserver.com/TR/Vahiy21%2C9-10) [<span style="color:green;">kesindir</span>](https://www.bibleserver.com/TR/Vahiy22%2C6) |
+| <span style="color:red;">Sadakat</span> <span style="color:green;">Çocuklar</span> | <span style="color:red;">Sadakat</span> <span style="color:green;">Çocuklar</span> |
+| <span style="color:red;">topluluğa</span> <span style="color:green;">doğum</span> verir | <span style="color:green;">topluluğu</span> <span style="color:red;">yok etmeye</span> çalışır | <span style="color:red;">Olur</span> <span style="color:green;">topluluk</span> |
+| [Cennette güvenliği vardır](https://www.bibleserver.com/TR/Vahiy12%2C1) | [Uluslarda ve krallarda güvenliği vardır](https://www.bibleserver.com/TR/Vahiy17%2C15) ([Vih.17/18](https://www.bibleserver.com/TR/Vahiy17%2C18)) | |
+| | <span style="color:green;">mücevherlerle kaplı</span> </br> [Tuval giymiş](https://www.bibleserver.com/TR/Vahiy17%2C4) ([Vih.18/16](https://www.bibleserver.com/TR/Vahiy18%2C16)) </br>which <span style="color:red;">kapakları</span> onu <span style="color:red;">YOLSUZLUK</span> | [Değerli mücevherlerle kaplı](https://www.bibleserver.com/TR/Vahiy21%2C2) ([Vih.21 9-23](https://www.bibleserver.com/TR/Vahiy21%2C9-23)) </br> [Saf beyaz kanvas giysiler içinde](https://www.bibleserver.com/TR/Vahiy19%2C8) ([Vih.18/16](https://www.bibleserver.com/TR/Vahiy18%2C16)) </br> ki <span style="color:red;">Tanrı'nın görkemini ve <span style="color:red;">azizlerin salih amellerini</span> yansıtır.
 
 
-<tr>
-<td><span style="color:red;">Sadakat</span> <span style="color:green;">Çocuklar</span></td>
-<td><span style="color:red;">İnançsız</span> <span style="color:green;">Çocuklar</span></td>
-<td></td>
-</tr>
-<tr>
-<td> <span style="color:red;">topluluğa</span></td> <span style="color:green;">doğum</span> verir.
-			<td>Topluluğu</td></tr> <span style="color:green;">yok etmeye</span> çalışır.
-			<td><span style="color:red;">Bir</span> <span style="color:green;">topluluk</span></td>tur.
-		
-<tr>
-<td>
-[Güvenlik  var in Cennet](https://www.bibleserver.com/TR/Vahiy12%2C1).
-			</td>
-<td>
-[Güvenlik  var in uluslar ve krallar](https://www.bibleserver.com/TR/Vahiy17%2C15) ([Vih.17/18](https://www.bibleserver.com/TR/Vahiy17%2C18))
-			</td>
-<td></td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-<span style="color:green;">mücevherlerle</span> </td></tr>kaplıdır.
-				[ kanvas](https://www.bibleserver.com/TR/Vahiy17%2C4) giymiş ([Vih.18/16](https://www.bibleserver.com/TR/Vahiy18%2C16))
-				Bu da <span style="color:red;">onların yolsuzluklarını</span> örtüyor.
-			
-<td>
-[Değerli mücevherlerle kaplı](https://www.bibleserver.com/TR/Vahiy21%2C2) ([Vih.21/9-23](https://www.bibleserver.com/TR/Vahiy21%2C9-23)) </td>
-[Saf beyaz kanvas](https://www.bibleserver.com/TR/Vahiy19%2C8) giysili ([Vih.18/16](https://www.bibleserver.com/TR/Vahiy18%2C16))
-<span style="color:red;">Tanrı'nın görkemini ve azizlerin doğru eylemlerini</span> yansıtır.
-			
+ve [Thyatira'da](https://www.bibleserver.com/TR/Vahiy2%3A20) da sorun çıkaran İzebel'le pek çok benzerliği vardır.
 
 
-
-
-ve [Thyatira](https://www.bibleserver.com/TR/Vahiy2%3A20)’da da sorun yaratan İzebel ile pek çok benzerliği vardır.
-
-
-| Fahişe | İsebel |
+| Fahişe | İzebel |
 |--------|--------|
-| [Tanrı bunu yönetti](https://www.bibleserver.com/TR/2.Krallar9%2C36) | [Tanrı fahişeyi yok etmeyi yüreğine koymuştur](https://www.bibleserver.com/TR/Vahiy17%2C17) |
-| [Yezebel ölmeden önce gözlerini boyadı ve başını güzelleştirdi](https://www.bibleserver.com/TR/2.Krallar9%2C30) | [Fahişe altın, mor, kırmızı](https://www.bibleserver.com/TR/Vahiy17%2C4) |
-| [Isebel kraliçe](https://www.bibleserver.com/TR/1.Krallar16%2C31) | [Fahişe kraliçedir](https://www.bibleserver.com/TR/Vahiy17%2C1-2) ([Vih.17/18](https://www.bibleserver.com/TR/Vahiy17%2C18), [Vih.18/7](https://www.bibleserver.com/TR/Vahiy18%2C7)) |
-| [Aptal insanlar](https://www.bibleserver.com/TR/1.Krallar21%2C25) | [Aptal insanlar](https://www.bibleserver.com/TR/Vahiy17%2C2) ([Vih.2/20](https://www.bibleserver.com/TR/Vahiy2%2C20)) |
-| [Fuhuş ile İdolatlık](https://www.bibleserver.com/TR/2.Krallar9%2C22) ([2 Chr.21/13](https://www.bibleserver.com/TR/2.Tarihler21%2C13)) | [Fahişelik aracılığıyla canavarla i̇şbi̇rli̇ği̇](https://www.bibleserver.com/TR/Vahiy17%2C1-2) ([Vih.17/5](https://www.bibleserver.com/TR/Vahiy17%2C5), [Vih.2/20-22](https://www.bibleserver.com/TR/Vahiy2%2C20-22)) |
-| [Sihirbazı kullan](https://www.bibleserver.com/TR/2.Krallar9%2C22) | [Büyücülük kullanır](https://www.bibleserver.com/TR/Vahiy18%2C23) |
-| [Ekonomik avantaj arıyor](https://www.bibleserver.com/TR/1.Krallar21) | [Ekonomik zenginliğe bağımlılık](https://www.bibleserver.com/TR/Vahiy18%2C11-19) |
-| [Kutsallara zulmeder ve onları öldürür](https://www.bibleserver.com/TR/1.Krallar18%2C4) ([1 Krallar.19/2](https://www.bibleserver.com/TR/1.Krallar19%2C2) | [Azizlere zulmeder ve onları öldürür](https://www.bibleserver.com/TR/Vahiy17%2C6) |
-| [Remnant direnir](https://www.bibleserver.com/TR/1.Krallar18%2C18) ([1 Krallar 19/18](https://www.bibleserver.com/TR/1.Krallar19%2C18), [2 Krallar 9/22](https://www.bibleserver.com/TR/2.Krallar9%2C22)) | [Remnant dirençleri](https://www.bibleserver.com/TR/Vahiy17%2C14) |
-| [Tanrı tanıkların kanının kefaretini öder](https://www.bibleserver.com/TR/2.Krallar9%2C7) | [Tanrı tanıkların kanının kefaretini öder](https://www.bibleserver.com/TR/Vahiy19%2C2) |
-| [Yargı çabuk gelir](https://www.bibleserver.com/TR/2.Krallar9%2C33-35) | [Mahkeme çabuk gelir](https://www.bibleserver.com/TR/Vahiy18%2C10) ([Vih.18/17](https://www.bibleserver.com/TR/Vahiy18%2C17), [Vih.18/19](https://www.bibleserver.com/TR/Vahiy18%2C19)) |
-| [Tanrı halefleri yargılar](https://www.bibleserver.com/TR/1.Krallar18%2C40) ([2 Krallar 10/19](https://www.bibleserver.com/TR/2.Krallar10%2C19)) | [Tanrı halefleri yargılar](https://www.bibleserver.com/TR/Vahiy18%2C9-11) ([Vih.2/23](https://www.bibleserver.com/TR/Vahiy2%2C23)) |
+| [<span style="color:green;">Tanrı buna öncülük etti</span>](https://www.bibleserver.com/TR/2.Krallar9%2C36) | [<span style="color:green;">Tanrı fahişeyi yok etmeyi yüreğine koydu</span>](https://www.bibleserver.com/TR/Vahiy17%2C17) |
+| [Ölmeden önce Jezebel <span style="color:green;">gözlerini boyadı ve başını güzelleştirdi</span>](https://www.bibleserver.com/TR/2.Krallar9%2C30) | [Fahişe <span style="color:green;">altın, mor, kırmızı</span>](https://www.bibleserver.com/TR/Vahiy17%2C4) ile süslendi.
+| [İzebel <span style="color:green;">kraliçe</span>](https://www.bibleserver.com/TR/1.Krallar16%2C31) | [Fahişe <span style="color:green;">kraliçe</span>](https://www.bibleserver.com/TR/Vahiy17%2C1-2) ([Vih.17/18](https://www.bibleserver.com/TR/Vahiy17%2C18), [Vih.18/7](https://www.bibleserver.com/TR/Vahiy18%2C7)) |
+| [<span style="color:green;">aptal insanlar</span>](https://www.bibleserver.com/TR/1.Krallar21%2C25) | [<span style="color:green;">aptal insanlar</span>](https://www.bibleserver.com/TR/Vahiy17%2C2) ([Vih.2/20](https://www.bibleserver.com/TR/Vahiy2%2C20)) |
+| [<span style="color:green;">Fuhuş</span> ile <span style="color:red;">İdolatlık</span>](https://www.bibleserver.com/TR/2.Krallar9%2C22) ([2 Chr.21/13](https://www.bibleserver.com/NIV/2%20Chronicles21%2C13)) | [<span style="color:green;">Fuhuş</span> <span style="color:red;">canavarla işbirliği yaparak</span>](https://www.bibleserver.com/TR/Vahiy17%2C1-2) ([Vih.17/5](https://www.bibleserver.com/TR/Vahiy17%2C5), [Vih.2/20-22](https://www.bibleserver.com/TR/Vahiy2%2C20-22)) |
+| [<span style="color:green;">Sihirbaz Kullan</span>](https://www.bibleserver.com/TR/2.Krallar9%2C22) | [<span style="color:green;">Sihirbazlık Kullanır</span>](https://www.bibleserver.com/TR/Vahiy18%2C23) |
+| [<span style="color:green;">Ekonomik avantaj arar</span>](https://www.bibleserver.com/TR/1.Krallar21) | [<span style="color:green;">Ekonomik zenginliğe bağımlılık</span>](https://www.bibleserver.com/TR/Vahiy18%2C11-19) |
+| [<span style="color:green;">Kutsallara zulmeder ve onları öldürür</span>](https://www.bibleserver.com/TR/1.Krallar18%2C4) ([1 Krallar.19/2](https://www.bibleserver.com/TR/1.Krallar19%2C2) | [<span style="color:green;">Kutsallara zulmeder ve onları öldürür</span>](https://www.bibleserver.com/TR/Vahiy17%2C6) |
+| [<span style="color:green;">Kalıntı direnir</span>](https://www.bibleserver.com/TR/1.Krallar18%2C18) ([1 Krallar 19/18](https://www.bibleserver.com/TR/1.Krallar19%2C18), [2 Krallar 9/22](https://www.bibleserver.com/TR/2.Krallar9%2C22)) | [<span style="color:green;">Kalıntı direniyor</span>](https://www.bibleserver.com/TR/Vahiy17%2C14) |
+| [<span style="color:green;">Tanrı tanıkların kanının kefaretini öder</span>](https://www.bibleserver.com/TR/2.Krallar9%2C7) | [<span style="color:green;">Tanrı tanıkların kanının kefaretini öder</span>](https://www.bibleserver.com/TR/Vahiy19%2C2) |
+| [<span style="color:green;">Yargı çabuk gelir</span>](https://www.bibleserver.com/TR/2.Krallar9%2C33-35) | [<span style="color:green;">Mahkeme çabuk gelir</span>](https://www.bibleserver.com/TR/Vahiy18%2C10) ([Vih.18/17](https://www.bibleserver.com/TR/Vahiy18%2C17), [Vih.18/19](https://www.bibleserver.com/TR/Vahiy18%2C19)) |
+| [<span style="color:green;">Tanrı halefleri yargılar</span>](https://www.bibleserver.com/TR/1.Krallar18%2C40) ([2.Kön.10/19](https://www.bibleserver.com/TR/2.Krallar10%2C19)) | [<span style="color:green;">Tanrı halefleri yargılar</span>](https://www.bibleserver.com/TR/Vahiy18%2C9-11) ([Vih.2/23](https://www.bibleserver.com/TR/Vahiy2%2C23)) |
 
-ve son olarak 13. bölümdeki ikinci canavarla birçok paralellik
-<p>Fahişe ve İkinci Canavar</p>
+ve son olarak 13. bölümdeki İkinci Canavar ile birçok paralellik.
+
+## Fahişe ve İkinci Canavar
 
 
-| Vahiy 13'teki ikinci canavar | Fahişe |
-|------------------------------|--------|
-| [Dünya'dan geliyor](https://www.bibleserver.com/TR/Vahiy13%2C11) | [çölde oturuyor](https://www.bibleserver.com/TR/Vahiy17%2C3) |
-| [İki boynuzu vardır  kuzu gibi](https://www.bibleserver.com/TR/Vahiy13%2C11) | [kuzu gelin gibi giyinmiştir.](https://www.bibleserver.com/TR/Vahiy17%2C4) |
-| [(İlk) hayvanın  gücünde hareket eder](https://www.bibleserver.com/TR/Vahiy13%2C12) | [(ilk) hayvanın üzerine oturur](https://www.bibleserver.com/TR/Vahiy17%2C3) |
-| [ateş gökten düşebilir](https://www.bibleserver.com/TR/Vahiy13%2C13) | [ateş tarafından yönlendirilir](https://www.bibleserver.com/TR/Vahiy17%2C16) ([Vah.18/9](https://www.bibleserver.com/TR/Vahiy18%2C9)) |
-| [Ona tapmayan herkes öldürülecektir](https://www.bibleserver.com/TR/Vahiy13%2C15) | [İçki Azizlerin Kanı](https://www.bibleserver.com/TR/Vahiy17%2C6) |
-| [Alnınıza bir işaret yapın ve herkese](https://www.bibleserver.com/TR/Vahiy13%2C16) | [Alnında işaret var: Babel](https://www.bibleserver.com/TR/Vahiy17%2C5) |
-| [Karakterler olmadan alınamaz veya satılamaz](https://www.bibleserver.com/TR/Vahiy13%2C17) | [Fahişe olmadan alım satım mümkün değil ](https://www.bibleserver.com/TR/Vahiy18%2C3) ([Vah.18/11-17](https://www.bibleserver.com/TR/Vahiy18%2C11-17)) |
-| [Gerekli Bilgelik](https://www.bibleserver.com/TR/Vahiy13%2C18) | [Gerekli Bilgelik](https://www.bibleserver.com/TR/Vahiy17%2C9) |
-<p>Burada fahişenin gücü de tersine çevrilmiştir: 13. bölümde gökten ateş düşmesine izin verirken, şimdi ateşle yok edilir, alnına işaret koyarken, burada kendisi (bir köle gibi) alnına damgalanır.</p>
+| Vahiy 13'teki İkinci Canavar | Fahişe |
+|-----------------------------------|------------|
+| [<span style="color:green;">Dünya'dan geliyor</span>](https://www.bibleserver.com/TR/Vahiy13%2C11) | [<span style="color:green;">Çölde oturuyor</span>](https://www.bibleserver.com/TR/Vahiy17%2C3) |
+| [<span style="color:green;">Kuzu gibi iki boynuzu var</span>](https://www.bibleserver.com/TR/Vahiy13%2C11) | [<span style="color:green;">Kuzu gelini gibi giyinmiş</span>](https://www.bibleserver.com/TR/Vahiy17%2C4) |
+| [<span style="color:green;">(İlk) canavarın gücüyle hareket eder</span>](https://www.bibleserver.com/TR/Vahiy13%2C12) | [<span style="color:green;">(İlk) canavarın üzerine oturur</span>](https://www.bibleserver.com/TR/Vahiy17%2C3) |
+| [<span style="color:red;">Yapabilir</span> <span style="color:green;">gökten ateş düşürebilir</span>](https://www.bibleserver.com/TR/Vahiy13%2C13) | [<span style="color:red;">Yargılanacak</span> <span style="color:green;">ateşle</span>](https://www.bibleserver.com/TR/Vahiy17%2C16) ([Vih.18/9](https://www.bibleserver.com/TR/Vahiy18%2C9)) |
+| [<span style="color:green;">Buna tapmayan herkes öldürülecek</span>](https://www.bibleserver.com/TR/Vahiy13%2C15) | [<span style="color:green;">Azizlerin kanını iç</span>](https://www.bibleserver.com/TR/Vahiy17%2C6) |
+| [<span style="color:green;">alında ve elde işaret</span> <span style="color:red;">yapar</span> ](https://www.bibleserver.com/TR/Vahiy13%2C16) | [ <span style="color:green;">alnında işaret </span><span style="color:red;">var</span>: Babil](https://www.bibleserver.com/TR/Vahiy17%2C5) |
+| [<span style="color:green;">İşaretsiz alım ve satım yapılamaz</span>](https://www.bibleserver.com/TR/Vahiy13%2C17) | [<span style="color:green;">İşaretsiz alım ve satım yapılamaz</span>](https://www.bibleserver.com/TR/Vahiy18%2C3) ([Vih.18/11-17](https://www.bibleserver.com/TR/Vahiy18%2C11-17)) |
+| [<span style="color:green;">Bilgelik Gerektirir</span>](https://www.bibleserver.com/TR/Vahiy13%2C18) | [<span style="color:green;">Bilgelik Gerektirir</span>](https://www.bibleserver.com/TR/Vahiy17%2C9) |
+
+Burada fahişenin gücü de tersine çevrilmiştir: 13. bölümde gökten ateş düşmesine izin verirken, şimdi ateşle yok edilir, alnına işaret koyarken, burada kendisi (bir köle gibi) alnına damgalanır.
+
 Bölüm 17'deki ilk canavar fahişeyi desteklerken, bölüm 13'te ikinci canavar birincisini destekler.
 
 

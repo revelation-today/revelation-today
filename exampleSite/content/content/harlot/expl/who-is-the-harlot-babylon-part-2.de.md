@@ -65,7 +65,7 @@ Tyrus war der [Hafen der Welt und machte alle reich, während sie in Naturalien 
 Auch in der Offenbarung gibt es diesen Zusammenhang zwischen den Königen, [die mit Babel huren](https://www.bibleserver.com/SLT/Offenbarung18%2C3) und dadurch [reich werden](https://www.bibleserver.com/SLT/Offenbarung18%2C9). Die Kleider und der Schmuck (der Hure) auf der [Güterliste in der Offenbarung](https://www.bibleserver.com/SLT/Offenbarung18%2C12-13) sind Symbole für Wohlstand. Die Hure übt ihre [Anziehungskraft durch Wohlstand](https://www.bibleserver.com/SLT/Jeremia4%2C30) aus, ebenso wie [Isebel](https://www.bibleserver.com/SLT/2.K%C3%B6nige9%2C30).
 
 
-## Ist Babel die abgefallen Gemeinde?
+## Ist Babel die abgefallene Gemeinde?
 
 <a name="738a"></a>
 Könnte Babel dann eine Beschreibung der abgefallenen Kirche sein? Nicht wirklich, obwohl die Gemeinde immer in der Gefahr ist, ein Teil von Babel zu werden.
@@ -88,7 +88,10 @@ In all dem scheint sie eine bessere Welt zu schaffen als Jesus durch
 
 Da Babel viele [Parallelen zu Isebel hat](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1), ist es eine besondere Warnung für [Gemeindeleiter](../../../content/letters/expl/the-letter-to-the-church-in-thyatira). Aber der Aufruf zur Selbstprüfung richtet sich an alle. Vielleicht ist das der Grund, warum es so schwer ist, Babel wirklich zu fassen, so [dass wir uns selbst immer wieder hinterfragen und Babel jeden Tag aufs Neue verlassen](https://www.bibleserver.com/SLT/Offenbarung18%2C4). Denn Babel ist überall!
 
-Für die Gemeinschaft ist es eine Versuchung, wenn sie verfolgt wird, oder wenn sie arm ist und reich werden will, oder wenn sie menschliche Anerkennung sucht.
+Für die Gemeinschaft ist es eine Versuchung
+- wenn sie verfolgt wird oder 
+- wenn sie arm ist und reich werden will oder 
+- wenn sie menschliche Anerkennung sucht.
 
 
 ## Zum Weiterlesen

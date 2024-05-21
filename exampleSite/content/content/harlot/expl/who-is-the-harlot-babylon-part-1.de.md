@@ -23,23 +23,21 @@ Das Tier hat viele Parallelen zu dem ersten Tier in Kapitel 13
 
 | Das erste Tier aus Offenbarung 13 | Das Tier auf Offenbarung 17 |
 |-----------------------------------|-----------------------------|
-| [Hat 7 Köpfe und 10 Hörner](https://www.bibleserver.com/SLT/Offenbarung13%2C1) | [Hat 7 Köpfe und 10 Hörner](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
-| [Kopf wie geschlachtet, wächst nach](https://www.bibleserver.com/SLT/Offenbarung13%2C3) | [5 Könige gefallen, der siebente kommt noch](https://www.bibleserver.com/SLT/Offenbarung17%2C10) |
-| [Wer kann gegen das Tier kämpfen](https://www.bibleserver.com/SLT/Offenbarung13%2C4) | [Tier macht Krieg gegen König der Könige](https://www.bibleserver.com/SLT/Offenbarung17%2C14) |
-| [Gotteslästerliche Reden](https://www.bibleserver.com/SLT/Offenbarung13%2C5-6) | [Gotteslästerliche Name](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
-| [Kämpft gegen Heilige und besiegt sie](https://www.bibleserver.com/SLT/Offenbarung13%2C7) | 
-[Kämpft gegen Lamm und wird überwunden](https://www.bibleserver.com/SLT/Offenbarung17%2C14) |
-[Kämpft gegen Hure und vernichtet sie](https://www.bibleserver.com/SLT/Offenbarung17%2C16)
+| [<span style="color:green;">Hat 7 Köpfe und 10 Hörner</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C1) | [<span style="color:green;">Hat 7 Köpfe und 10 Hörner</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
+| [<span style="color:green;">Kopf wie geschlachtet, wächst nach</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C3) | [<span style="color:green;">5 Könige gefallen, der siebente kommt noch</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C10) |
+| [<span style="color:green;">Tier ist unbesiegbar</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C4) | [<span style="color:green;">Tier macht Krieg gegen König der Könige</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C14) |
+| [<span style="color:green;">Gotteslästerliche Reden</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C5-6) | [<span style="color:green;">Gotteslästerliche Name</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
+| [<span style="color:green;">Kämpft</span> gegen <span style="color:red;">Heilige und besiegt sie</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C7) | [<span style="color:green;">Kämpft</span> gegen <span style="color:red;">Lamm und wird überwunden</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C14) </br> [<span style="color:green;">Kämpft</span> gegen <span style="color:red;">Hure und vernichtet sie</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C16)
+| [<span style="color:green;">Alle, die nicht im Buch des Lebens geschrieben sind</span> beten das Tier an](https://www.bibleserver.com/SLT/Offenbarung13%2C8) | [<span style="color:green;">Alle, die nicht im Buch des Lebens geschrieben sind</span>, sind überwältigt](https://www.bibleserver.com/SLT/Offenbarung17%2C8) |
 
+Das Tier stellt den Kaiser mit seiner militärischen Macht dar. Die Farbe Scharlach wird für königliche Gewänder verwendet.
 
-<tr>
-<td>[Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an](https://www.bibleserver.com/SLT/Offenbarung13%2C8)</td>
-<td>[Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt](https://www.bibleserver.com/SLT/Offenbarung17%2C8)</td>
-</tr>
+Das Tier wird in Vers 8 und 11 beschrieben als das, was 
+- [war und ist nicht mehr, und es wird aus dem Abgrund heraufkommen und ins Verderben laufen](https://www.bibleserver.com/SLT/Offenbarung17%2C8)
+- [war und nicht ist und doch ist]
+- [war und nicht ist, …, und es läuft ins Verderben](https://www.bibleserver.com/SLT/Offenbarung17%2C11)
 
-Das Tier stellt den Kaiser mit seiner militärischen Macht dar ([wie der zweite Reiter, der zum Krieg ruf](https://www.bibleserver.com/SLT/Offenbarung6%2C3-4)t). Die Farbe Scharlach wird für königliche Gewänder verwendet.
-
-Das Tier wird beschrieben als das “[war und ist nicht mehr, und es wird aus dem Abgrund heraufkommen und ins Verderben laufen, … das war und nicht ist und doch ist](https://www.bibleserver.com/SLT/Offenbarung17%2C8)” und “[das war und nicht ist, …, und es läuft ins Verderben](https://www.bibleserver.com/SLT/Offenbarung17%2C11)” ist eine beißende Ironie, denn Gott ist der, “[der ist und der war und der kommt, der Allmächtige](https://www.bibleserver.com/SLT/Offenbarung1%2C8)”.
+was eine beißende Ironie des Tieres ist, denn es ist das Gegenstück zu dem ewigen unveränderlichen Gott aus Offb.1/8, “[der ist und der war und der kommt, der Allmächtige](https://www.bibleserver.com/SLT/Offenbarung1%2C8)”.
 
 
 ## Die sieben Hügel und die sieben Könige
@@ -66,108 +64,55 @@ Hügel können aber auch als Königreiche bedeuten (und da die Hügel als König
 Sie hat viele Parallelen zur Braut und zeigt den Unterschied zu ihr (Kapitel 21) aber auch zu der Frau in Kapitel 12
 
 
-| Frau in Kapitel 12 | Hure in Kapitel 17 | Braut in Kap.19 und 21 |
-|--------------------|--------------------|------------------------|
-| [Verborgen in der Wüste](https://www.bibleserver.com/SLT/Offenbarung23%2C6) | 
-[Sitzt in Wüste](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
-[Hure ist  Stadt Babel](https://www.bibleserver.com/SLT/Offenbarung17%2C5)
+| Ehefrau in Kapitel 12 | Hure in Kapitel 17 | Braut in Kap.19 und 21 |
+|--------------------|---------------------|-----------------------|
+| [Verborgen in der <span style="color:green;">Wüste</span>](https://www.bibleserver.com/SLT/Offenbarung23%2C6) | [Behütet in der <span style="color:green;">Wüste</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C3) </br> [Hure ist <span style="color:green;">Stadt</span> Babylon](https://www.bibleserver.com/SLT/Offenbarung17%2C5) | [Ist <span style="color:green;">Stadt</span>](https://www.bibleserver.com/SLT/Offenbarung21%2C9-21) |
+| <span style="color:red;">Undivine</span> <span style="color:green;">capital</span> | <span style="color:green;">City</span> <span style="color:red;">God</span> |
+| <span style="color:red;">Mutter</span> von ehelichen Kindern | <span style="color:red;">Harlot</span> | <span style="color:red;">Braut</span> |
+| [<span style="color:green;">Verfolgte Mutter</span>](https://www.bibleserver.com/SLT/Offenbarung12) | [<span style="color:green;">Verfolgte Mutter</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C5) ([Rev.17/16](https://www.bibleserver.com/SLT/Offenbarung17%2C16)) | |
+| [<span style="color:red;">Rettete Mutter</span>](https://www.bibleserver.com/SLT/Offenbarung12) | [<span style="color:red;">Zerstörte Frau</span>](https://www.bibleserver.com/SLT/Offenbarung17) | |
+| [<span style="color:green;">Engel kündigt Gericht an</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C1) [<span style="color:green;">ist sicher</span>](https://www.bibleserver.com/SLT/Offenbarung19%2C9-10) | [<span style="color:green;">Engel kündigt Braut an</span>](https://www.bibleserver.com/SLT/Offenbarung21%2C9-10) [<span style="color:green;">ist sicher</span>](https://www.bibleserver.com/SLT/Offenbarung22%2C6) |
+| <span style="color:red;">Treue</span> <span style="color:green;">Kinder</span> | <span style="color:red;">Treue</span> <span style="color:green;">Kinder</span> | |
+| Gibt <span style="color:red;">Geburt</span> der <span style="color:green;">Gemeinschaft</span> | Versucht <span style="color:green;">Gemeinschaft</span> <span style="color:red;">Zerstörung</span> | <span style="color:red;">ist</span> <span style="color:green;">Gemeinschaft</span> |
+| [Hat Sicherheit im Himmel](https://www.bibleserver.com/SLT/Offenbarung12%2C1) | [Hat Sicherheit in Nationen und Königen](https://www.bibleserver.com/SLT/Offenbarung17%2C15) ([Off.17/18](https://www.bibleserver.com/SLT/Offenbarung17%2C18)) | |
+| | Bedeckt mit <span style="color:green;">Juwelen</span> </br> [Bekleidet mit Leinwand](https://www.bibleserver.com/SLT/Offenbarung17%2C4) ([Rev.18/16](https://www.bibleserver.com/SLT/Offenbarung18%2C16)) </br>die <span style="color:red;">ihre <span style="color:red;">Korruption</span> bedeckt | [Bedeckt mit kostbaren Juwelen](https://www.bibleserver.com/SLT/Offenbarung21%2C2) ([Rev.21 /9-23](https://www.bibleserver.com/SLT/Offenbarung21%2C9-23)) </br> [Bekleidet mit reinem weißen Tuch](https://www.bibleserver.com/SLT/Offenbarung19%2C8) ([Off.18/16](https://www.bibleserver.com/SLT/Offenbarung18%2C16)) </br> das <span style="color:red;">Gottes Herrlichkeit und <span style="color:red;">Gerechtigkeit der Heiligen</span> widerspiegelt |
 
-<td style="width:40%;">[Ist Stadt](https://www.bibleserver.com/SLT/Offenbarung21%2C9-21)</td>
-<tr>
-<td></td>
-<td><span style="color:red;">Ungöttliche</span> <span style="color:green;">Hauptstadt</span></td>
-<td><span style="color:green;">Stadt</span> <span style="color:red;">Gottes</span></td>
-</tr>
-<tr>
-<td><span style="color:red;">Mutter</span> legitimer Kinder</td>
-<td><span style="color:red;">Hure</span></td>
-<td><span style="color:red;">Braut</span></td>
-</tr>
-<tr>
-<td>[Verfolgte Mutter](https://www.bibleserver.com/SLT/Offenbarung12)</td>
-<td>[Verfolgte Mutter](https://www.bibleserver.com/SLT/Offenbarung17%2C5) ([Offb.17/16](https://www.bibleserver.com/SLT/Offenbarung17%2C16))</td>
-<td></td>
-</tr>
-<tr>
-<td>[Gerettete Mutter](https://www.bibleserver.com/SLT/Offenbarung12)</td>
-<td>[Zerstörte Frau](https://www.bibleserver.com/SLT/Offenbarung17)</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>
-[Engel kündigt Gericht an](https://www.bibleserver.com/SLT/Offenbarung17%2C1)</td></tr>
-[ist gewiß](https://www.bibleserver.com/SLT/Offenbarung19%2C9-10)
-
-<td>
-[Engel kündigt Braut an](https://www.bibleserver.com/SLT/Offenbarung21%2C9-10)</td>
-[ist gewiß](https://www.bibleserver.com/SLT/Offenbarung22%2C6)
+und viele Gemeinsamkeiten mit Isebel, die auch Probleme in [Thyatira](https://www.bibleserver.com/SLT/Offenbarung2%2C20) gemacht hatte.
 
 
-<tr>
-<td><span style="color:red;">Treue</span> <span style="color:green;">Kinder</span></td>
-<td><span style="color:red;">Treulose</span> <span style="color:green;">Kinder</span></td>
-<td></td>
-</tr>
-<tr>
-<td>Gibt <span style="color:red;">Geburt</span> für die <span style="color:green;">Gemeinde</span></td>
-<td>Versucht <span style="color:green;">Gemeinde</span> <span style="color:red;">zu zerstören</span></td>
-<td><span style="color:red;">Ist</span> <span style="color:green;">Gemeinde</span></td>
-</tr>
-<tr>
-<td>
-[Hat Sicherheit im Himmel](https://www.bibleserver.com/SLT/Offenbarung12%2C1)
-</td>
-<td>
-[Hat Sicherheit in Nationen und Königen](https://www.bibleserver.com/SLT/Offenbarung17%2C15) ([Offb.17/18](https://www.bibleserver.com/SLT/Offenbarung17%2C18))
-			</td>
-<td></td>
-</tr>
-<tr>
-<td>
-</td>
-<td>
-				Bedeckt mit <span style="color:green;">Juwelen</span> </td></tr>
-[Gekleidet in Leinwand](https://www.bibleserver.com/SLT/Offenbarung17%2C4) ([Offb.18/16](https://www.bibleserver.com/SLT/Offenbarung18%2C16))
-				die <span style="color:red;">ihre Korruption bedeckt</span>
-<td>
-[Bedeckt mit kostbaren Juwelen](https://www.bibleserver.com/SLT/Offenbarung21%2C2) ([Offb.21/9-23](https://www.bibleserver.com/SLT/Offenbarung21%2C9-23)) </td>
-[Gekleidet in reiner, weißer Leinwand](https://www.bibleserver.com/SLT/Offenbarung19%2C8) ([Offb.18/16](https://www.bibleserver.com/SLT/Offenbarung18%2C16))
-				die <span style="color:red;">Gottes Herrlichkeit und gerechten Taten der Heiligen wiederspiegelt</span>
+| Die Hure   | Isebel |
+|------------|--------|
+| [<span style="color:green;">Gott führte dies</span>](https://www.bibleserver.com/SLT/2.Könige9%2C36) | [<span style="color:green;">Gott hat ins Herz gelegt</span>, die Hure zu vernichten](https://www.bibleserver.com/SLT/Offenbarung17%2C17) |
+| [Vor dem Tod hat Isebel <span style="color:green;">die Augen gefärbt und das Haupt schön gemacht</span>](https://www.bibleserver.com/SLT/2.Könige9%2C30) | [Die Hure ist <span style="color:green;">geschmückt mit Gold, Purpur, Scharlach</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C4) |
+| [Isebel ist <span style="color:green;">Königin</span>](https://www.bibleserver.com/SLT/1.Könige16%2C31) | [Hure ist <span style="color:green;">Königin</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C1-2) ([Off.17/18](https://www.bibleserver.com/SLT/Offenbarung17%2C18), [Off.18/7](https://www.bibleserver.com/SLT/Offenbarung18%2C7)) |
+| [<span style="color:green;">Narrenvolk</span>](https://www.bibleserver.com/SLT/1.Könige21%2C25) | [<span style="color:green;">Narrenvolk</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C2) ([Offb.2/20](https://www.bibleserver.com/SLT/Offenbarung2%2C20)) |
+| [<span style="color:green;">Prostitution</span> durch <span style="color:red;">Götzendienst</span>](https://www.bibleserver.com/SLT/2.Könige9%2C22) ([2 Chr.21/13](https://www.bibleserver.com/NIV/2%20Chronicles21%2C13)) | [<span style="color:green;">Prostitution</span> durch <span style="color:red;">Zusammenarbeit mit dem Tier</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C1-2) ([Off.17/5](https://www.bibleserver.com/SLT/Offenbarung17%2C5), [Off.2/20-22](https://www.bibleserver.com/SLT/Offenbarung2%2C20-22)) |
+| [<span style="color:green;">Zauberei benutzen</span>](https://www.bibleserver.com/SLT/2.Könige9%2C22) | [<span style="color:green;">Zauberei benutzen</span>](https://www.bibleserver.com/SLT/Offenbarung18%2C23) |
+| [<span style="color:green;">Sucht wirtschaftlichen Vorteil</span>](https://www.bibleserver.com/SLT/1.Könige21) | [<span style="color:green;">Sucht nach wirtschaftlichem Reichtum</span>](https://www.bibleserver.com/SLT/Offenbarung18%2C11-19) |
+| [<span style="color:green;">Verfolgt und tötet Heilige</span>](https://www.bibleserver.com/SLT/1.Könige18%2C4) ([1 Könige.19/2](https://www.bibleserver.com/SLT/1.Könige19%2C2) | [<span style="color:green;">Verfolgt und tötet Heilige</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C6) |
+| [<span style="color:green;">Überrest widersetzt sich</span>](https://www.bibleserver.com/SLT/1.Könige18%2C18) ([1 Könige 19/18](https://www.bibleserver.com/SLT/1.Könige19%2C18), [2 Könige 9/22](https://www.bibleserver.com/SLT/2.Könige9%2C22)) | [<span style="color:green;">Überrest widersteht</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C14) |
+| [<span style="color:green;">Gott sühnt das Blut der Zeugen</span>](https://www.bibleserver.com/SLT/2.Könige9%2C7) | [<span style="color:green;">Gott sühnt das Blut der Zeugen</span>](https://www.bibleserver.com/SLT/Offenbarung19%2C2) |
+| [<span style="color:green;">Gericht kommt schnell</span>](https://www.bibleserver.com/SLT/2.Könige9%2C33-35) | [<span style="color:green;">Gericht kommt schnell</span>](https://www.bibleserver.com/SLT/Offenbarung18%2C10) ([Off.18/17](https://www.bibleserver.com/SLT/Offenbarung18%2C17), [Off.18/19](https://www.bibleserver.com/SLT/Offenbarung18%2C19)) |
+| [<span style="color:green;">Gott richtet Nachfolger</span>](https://www.bibleserver.com/SLT/1.Könige18%2C40) ([2.Kön.10/19](https://www.bibleserver.com/SLT/2.Könige10%2C19)) | [<span style="color:green;">Gott richtet Nachfolger</span>](https://www.bibleserver.com/SLT/Offenbarung18%2C9-11) ([Offb.2/23](https://www.bibleserver.com/SLT/Offenbarung2%2C23)) |
 
-und viele Gemeinsamkeiten mit Isebel, die auch Probleme in [Thyatira](https://www.bibleserver.com/SLT/Offenbarung2%2C20) gemacht hatte
+und viele Gemeinsamkeiten mit dem zweiten Tier in Kapitel 13.
+
+## Die Hure und das zweite Tier
 
 
-| Die Hure | Isebel |
-|----------|--------|
-| [Gott hat das geführt](https://www.bibleserver.com/SLT/2.Könige9%2C36) | [Gott hat in Herz gelegt, die Hure zu zerstören](https://www.bibleserver.com/SLT/Offenbarung17%2C17) |
-| [Vor Tod hat Isebel Augen gefärbt und Kopf hübsch gemacht](https://www.bibleserver.com/SLT/2.Könige9%2C30) | [Hure ist geschmückt mit Gold, Purpur, Scharlach](https://www.bibleserver.com/SLT/Offenbarung17%2C4) |
-| [Isebel ist Königin](https://www.bibleserver.com/SLT/1.Könige16%2C31) | [Hure ist Königin](https://www.bibleserver.com/SLT/Offenbarung17%2C1-2) ([Offb.17/18](https://www.bibleserver.com/SLT/Offenbarung17%2C18), [Offb.18/7](https://www.bibleserver.com/SLT/Offenbarung18%2C7)) |
-| [täuscht Menschen](https://www.bibleserver.com/SLT/1.Könige21%2C25) | [täuscht Menschen](https://www.bibleserver.com/SLT/Offenbarung17%2C2) ([Offb.2/20](https://www.bibleserver.com/SLT/Offenbarung2%2C20)) |
-| [Prostitution durch Götzendienst](https://www.bibleserver.com/SLT/2.Könige9%2C22) ([2.Chr.21/13](https://www.bibleserver.com/SLT/2.Chronik21%2C13)) | [Prostition durch Zusammenarbeit mit dem Tier](https://www.bibleserver.com/SLT/Offenbarung17%2C1-2) ([Offb.17/5](https://www.bibleserver.com/SLT/Offenbarung17%2C5), [Offb.2/20-22](https://www.bibleserver.com/SLT/Offenbarung2%2C20-22)) |
-| [Nutzt Zauberer](https://www.bibleserver.com/SLT/2.Könige9%2C22) | [Nutzt Zauberei](https://www.bibleserver.com/SLT/Offenbarung18%2C23) |
-| [Sucht nach wirtschaftlichem Vorteil](https://www.bibleserver.com/SLT/1.Könige21) | [Sucht nach wirtschaftlichem Reichtum](https://www.bibleserver.com/SLT/Offenbarung18%2C11-19) |
-| [Verfolgt und tötet Heiligen](https://www.bibleserver.com/SLT/1.Könige18%2C4) ([1.Kön.19/2](https://www.bibleserver.com/SLT/1.Könige19%2C2) | [Verfolgt und tötet Heilige](https://www.bibleserver.com/SLT/Offenbarung17%2C6) |
-| [Überrest widersetzt sich](https://www.bibleserver.com/SLT/1.Könige18%2C18) ([1.Kön.19/18](https://www.bibleserver.com/SLT/1.Könige19%2C18), [2.Kön.9/22](https://www.bibleserver.com/SLT/2.Könige9%2C22)) | [Überrest widersetzt sich](https://www.bibleserver.com/SLT/Offenbarung17%2C14) |
-| [Gott sühnt Blut der Zeugen](https://www.bibleserver.com/SLT/2.Könige9%2C7) | [Gott sühnt Blut der Zeugen](https://www.bibleserver.com/SLT/Offenbarung19%2C2) |
-| [Gericht kommt schnell](https://www.bibleserver.com/SLT/2.Könige9%2C33-35) | [Gericht kommt schnell](https://www.bibleserver.com/SLT/Offenbarung18%2C10) ([Offb.18/17](https://www.bibleserver.com/SLT/Offenbarung18%2C17), [Offb.18/19](https://www.bibleserver.com/SLT/Offenbarung18%2C19)) |
-| [Gott richtet Nachfolger](https://www.bibleserver.com/SLT/1.Könige18%2C40) ([2.Kön.10/19](https://www.bibleserver.com/SLT/2.Könige10%2C19)) | [Gott richtet Nachfolger](https://www.bibleserver.com/SLT/Offenbarung18%2C9-11) ([Offb.2/23](https://www.bibleserver.com/SLT/Offenbarung2%2C23)) |
+| Das zweite Tier aus Offenbarung 13 | Die Hure   |
+|------------------------------------|------------|
+| [<span style="color:green;">Kommt von der Erde</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C11) | [<span style="color:green;">Sitzt in der Wüste</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
+| [<span style="color:green;">Hat zwei Hörner wie ein Lamm</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C11) | [<span style="color:green;">Ist gekleidet wie die Braut des Lammes</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C4) |
+| [<span style="color:green;">handelt in der Macht des (ersten) Tieres</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C12) | [<span style="color:green;">Sitzt auf dem (ersten) Tier</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
+| [<span style="color:red;">Kann</span> <span style="color:green;">Feuer vom Himmel fallen lassen</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C13) | [<span style="color:red;">Wird gerichtet</span> <span style="color:green;">durch Feuer</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C16) ([Off.18/9](https://www.bibleserver.com/SLT/Offenbarung18%2C9)) |
+| [<span style="color:green;">Alle, die ihn nicht anbeten, werden getötet</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C15) | [<span style="color:green;">Trink das Blut der Heiligen</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C6) |
+| [<span style="color:red;">Macht</span> <span style="color:green;">ein Zeichen auf Stirn und Hand</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C16) | [<span style="color:red;">Hat</span> <span style="color:green;">Zeichen auf der Stirn: Babylon</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C5) |
+| [<span style="color:green;">Kann nicht kaufen oder verkaufen ohne Zeichen</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C17) | [<span style="color:green;">Kann nicht kaufen oder verkaufen ohne Zeichen</span>](https://www.bibleserver.com/SLT/Offenbarung18%2C3) ([Offb.18/11-17](https://www.bibleserver.com/SLT/Offenbarung18%2C11-17)) |
+| [<span style="color:green;">Erfordert Weisheit</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C18) | [<span style="color:green;">Erfordert Weisheit</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C9) |
 
-und viele Gemeinsamkeiten mit dem zwiten Tier in Kapitel 13.
-<p>Die Hure und das zweite Tier</p>
+Die Macht der Hure wird hier auch ins umgekehrt: Während sie in Kapitel 13 Feuer vom Himmel fallen lassen hat, wird sie nun durch Feuer vernichtet, während sie ein Zeichen an die Stirn macht, wird sie hier selbst an der Stirn gebrandmarkt (wie ein Sklave).
 
-
-| Das zweite Tier aus Offenbarung 13 | Die Hure |
-|------------------------------------|----------|
-| [Kommt aus Erde](https://www.bibleserver.com/SLT/Offenbarung13%2C11) | [Sitzt in Wüste](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
-| [Hat zwei Hörner wie ein Lamm](https://www.bibleserver.com/SLT/Offenbarung13%2C11) | [Ist gekleidet wie die Braut des Lammes](https://www.bibleserver.com/SLT/Offenbarung17%2C4) |
-| [Agiert in Macht des (ersten) Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C12) | [Sitzt auf dem (ersten) Tier](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
-| [Kann Feuer vom Himmel fallen lassen](https://www.bibleserver.com/SLT/Offenbarung13%2C13) | [Wird durch Feuer gerichtet](https://www.bibleserver.com/SLT/Offenbarung17%2C16) ([Offb.18/9](https://www.bibleserver.com/SLT/Offenbarung18%2C9)) |
-| [Alle, die es nicht anbeten werden getötet](https://www.bibleserver.com/SLT/Offenbarung13%2C15) | [Trinkt Blut der Heiligen](https://www.bibleserver.com/SLT/Offenbarung17%2C6) |
-| [Macht allen ein Zeichen an Stirn und Hand](https://www.bibleserver.com/SLT/Offenbarung13%2C16) | [Hat Zeichen auf Stirn: Babel](https://www.bibleserver.com/SLT/Offenbarung17%2C5) |
-| [Kann nicht kaufen oder verkaufen ohne Zeichen](https://www.bibleserver.com/SLT/Offenbarung13%2C17) | [Kaufen und verkaufen nicht möglich ohne Hure](https://www.bibleserver.com/SLT/Offenbarung18%2C3) ([Offb.18/11-17](https://www.bibleserver.com/SLT/Offenbarung18%2C11-17)) |
-| [Benötigt Weisheit](https://www.bibleserver.com/SLT/Offenbarung13%2C18) | [Benötigt Weisheit](https://www.bibleserver.com/SLT/Offenbarung17%2C9) |
-<p>Die Macht der Hure wird hier auch ins umgekehrt: Während sie in Kapitel 13 Feuer vom Himmel fallen lassen hat, wird sie nun durch Feuer vernichtet, während sie ein Zeichen an die Stirn macht, wird sie hier selbst an der Stirn gebrandmarkt (wie ein Sklave)</p>
 Während das erste Tier die Hure in Kapitel 17 unterstützt, ist es in Kapitel 13, das zweite, dass das erste Tier unterstützt.
 
 
