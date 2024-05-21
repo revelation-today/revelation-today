@@ -4,6 +4,6 @@ title: "Others"
 weight: 4
 ---
 
-Welcome to the Book of Revelation!
+This is some other overarching topics which is to clarify some missunderstanding.
 
-<!--more-->
+One topic is regarding the rapture and the tribulation. Mayn people ehar about it or believe it, but this should give a little overview and reflection on this theology.

@@ -4,6 +4,4 @@ title: "Overarching topics"
 weight: 7
 ---
 
-Welcome to the Book of Revelation!
-
-<!--more-->
+There are some topics that we will show and discuss here as they are not tight to a chapter but going through the whole book.

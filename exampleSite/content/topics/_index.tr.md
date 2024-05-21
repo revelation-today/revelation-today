@@ -4,6 +4,5 @@ title: "Kapsayıcı konular"
 weight: 7
 ---
 
-Welcome to the Book of Revelation!
 
-<!--more-->
+Burada göstereceğimiz ve tartışacağımız bazı konular var çünkü bunlar bir bölümle sınırlı değil, tüm kitap boyunca devam ediyor.

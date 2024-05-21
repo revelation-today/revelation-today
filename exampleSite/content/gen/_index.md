@@ -4,5 +4,4 @@ title: Introduction
 weight: 3
 ---
 
-
-<!--more-->
+Welcome to the Book of Revelation. This part gives you a short introduction.

@@ -4,6 +4,7 @@ title: "Gerçek güç"
 weight: 3
 ---
 
-Welcome to the Book of Revelation!
 
-<!--more-->
+Kilisenin silahları nelerdir ve nasıl savaşırız?
+
+İbadet, tanıklık ve dua ne fark yaratır?

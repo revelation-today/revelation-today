@@ -4,6 +4,5 @@ title: Spezielle Themen
 weight: 7
 ---
 
-Welcome to the Book of Revelation!
 
-<!--more-->
+Es gibt einige Themen, die wir hier zeigen und diskutieren werden, da sie nicht an ein Kapitel gebunden sind, sondern sich durch das ganze Buch ziehen.

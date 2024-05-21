@@ -4,6 +4,6 @@ title: "True power"
 weight: 3
 ---
 
-Welcome to the Book of Revelation!
+What are the weapons of the church and how do we fight?
 
-<!--more-->
+What difference makes worship, testimony and prayer?

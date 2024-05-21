@@ -4,6 +4,6 @@ title: "Heros"
 weight: 2
 ---
 
-Welcome to the Book of Revelation!
+What is actually a hero in a christian sense? How are we victorious?
 
-<!--more-->
+What does it mean to be strong in our weakness? Is this not a contradiction?
