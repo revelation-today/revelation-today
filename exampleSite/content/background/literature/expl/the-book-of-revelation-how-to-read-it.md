@@ -168,8 +168,7 @@ The book is not
 
 ## Digging deeper
 
-<a name="4529"></a>
-[Goreman, Reading Revelation Responsibly, pages 10–56](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#1f44)
+[Goreman, Reading Revelation Responsibly, pages 10–56](../../../../about/ressources/index.html#goreman)
 
 
 

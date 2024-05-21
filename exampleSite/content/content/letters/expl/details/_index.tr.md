@@ -61,13 +61,13 @@ Thyatira: Ana mesaj budur ve ana nokta kötü bir önderliktir ve İsa herkesin 
 ## Daha fazla okuma
 
 <a name="f6db"></a>
-- [Efes’teki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
-- [İzmir’deki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
-- [Pergamon’daki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
-- [Thyatira’daki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
-- [Sardis’teki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-sardis)
-- [Philadelphia’daki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
-- [Laodikya’daki kilise](../../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
+- [Efes’teki kilise](../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus)
+- [İzmir’deki kilise](../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna)
+- [Pergamon’daki kilise](../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon)
+- [Thyatira’daki kilise](../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira)
+- [Sardis’teki kilise](../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis)
+- [Philadelphia’daki kilise](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
+- [Laodikya’daki kilise](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
 
 
 

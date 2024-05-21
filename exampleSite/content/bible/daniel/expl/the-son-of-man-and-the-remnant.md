@@ -107,8 +107,7 @@ The witnesses are identified as the Son of Man because they live the life of Jes
 
 ### Dig deeper
 
-<a name="301a"></a>
-Beale, A New Testament Biblical Theology, pages 393–428
+[Beale, A New Testament Biblical Theology, pages 393–428](../../../../about/ressources/index.html#beale_theo)
 
 
 

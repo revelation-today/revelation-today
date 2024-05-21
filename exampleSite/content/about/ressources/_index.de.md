@@ -88,6 +88,12 @@ Es ist ein [kompromiertes und sehr interessantes Buch,](https://www.wob.com/en-g
 
 [Ein großartiges Buch](https://www.logos.com/product/39605/the-literary-structure-of-the-old-testament-a-commentary-on-genesis-malachi), wenn es darum geht, wie man hebräische Literatur lesen muss.
 
+<a name="walsh"></a>
+
+### Jerome T. Walsh, Biblical Hebrew Narrative
+
+[Ein detailierteres Buch, wenn es um die Technik geht, biblische Literatur zu lesen.](https://www.amazon.de/Style-Structure-Biblical-Hebrew-Narrative/dp/0814658970)
+
 <a name="beale_dwell"></a>
 
 ### G.K.Beale, Kim Mitchell: God dwells among us
@@ -117,6 +123,18 @@ Wenn du mehr über die Schöpfungsgeschichte wissen willst, solltest du [dieser 
 ### Nahum Sarna: Exodus
 
 Wenn du mehr zum Auszug aus Ägypten wissen willst, wird [dieses Buch](https://www.amazon.de/-/en/Nahum-M-Sarna/dp/0805210636) für dich sicher interessant sein.
+
+<a name="daniel"></a>
+
+### Wuppertaler Studienbibel: Der Prophet Daniel
+
+[Eine gute Grundlage für mein Verständnis des Buches Daniel](https://www.amazon.de/Wuppertaler-Studienbibel-Sonderausgabe-Prophet-Daniel/dp/3417252091)
+
+<a name="dabar_daniel"></a>
+
+### Dabarlines, The book Daniel
+
+[Eine gute Quelle, um verschiedene Zugänge zum Buch Daniel zu finden](https://www.dkonos.org/from-the-bible-1.html)
 
 <a name="rossing"></a>
 

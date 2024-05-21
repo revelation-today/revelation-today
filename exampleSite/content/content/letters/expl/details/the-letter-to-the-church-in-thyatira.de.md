@@ -53,4 +53,4 @@ Der [Morgenstern](https://www.bibleserver.com/SLT/Offenbarung2%2C28) kann sich a
 
 
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-thyatira.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-thyatira.de.md)

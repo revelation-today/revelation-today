@@ -43,4 +43,4 @@ Biz ne kadar çok şey yapamazsak, İsa o kadar çok çalışabilir. [Ancak çar
 
 
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-smyrna.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-smyrna.tr.md)

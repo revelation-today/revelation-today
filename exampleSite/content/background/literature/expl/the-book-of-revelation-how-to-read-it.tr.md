@@ -171,7 +171,7 @@ Kitap değil
 ## Daha derine inmek
 
 <a name="676f"></a>
-[Goreman, Reading Revelation Responsibly, sayfalar 10–56](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#272d)
+[Goreman, Reading Revelation Responsibly, sayfalar 10–56](../../../../about/ressources/index.html#goreman)
 
 
 

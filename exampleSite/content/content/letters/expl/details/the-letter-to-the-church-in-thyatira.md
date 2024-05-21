@@ -63,4 +63,4 @@ Gordon Fee, Revelation, pages 37–38
 
 
 
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-thyatira.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-thyatira.md)

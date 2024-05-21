@@ -59,13 +59,13 @@ Und hier im Einzelnen:
 ## Zum Weiterlesen
 
 <a name="7efd"></a>
-- [Der Brief an Ephesus](../../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
-- [Der Brief an Smyrna](../../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
-- [Der Brief an Pergamon](../../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
-- [Der Brief an Thyatira](../../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
-- [Der Brief an Sardes](../../../../content/letters/expl/the-letter-to-the-church-in-sardis)
-- [Der Brief an Philadelphia](../../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
-- [Der Brief an Laodizea](../../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
+- [Der Brief an Ephesus](../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus)
+- [Der Brief an Smyrna](../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna)
+- [Der Brief an Pergamon](../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon)
+- [Der Brief an Thyatira](../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira)
+- [Der Brief an Sardes](../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis)
+- [Der Brief an Philadelphia](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
+- [Der Brief an Laodizea](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
 
 
 

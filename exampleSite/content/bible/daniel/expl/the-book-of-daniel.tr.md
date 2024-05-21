@@ -69,6 +69,10 @@ Hikâyenin birbiriyle örtüşen birkaç boyutu var:
 Tüm bunları bir araya getirmek, dünyanın ebedi kaderinde (her bir) tek kişinin inancının önemini gösterir. Tanrı, bireylerin ince eylemleriyle hareket eder ve yenilmez bir krallık ortaya çıkarır.
 
 
+## Daha fazla kazma
+
+[Wuppertaler Studienbibel, Der Prophet Daniel](../../../../about/ressources/index.html#daniel)
+
 
 
 

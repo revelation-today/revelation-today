@@ -59,4 +59,4 @@ Yaşam ağacından yeme vaadi onları bahçede Tanrı’yla olan sorunsuz ilişk
 
 
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-ephesus.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-ephesus.tr.md)

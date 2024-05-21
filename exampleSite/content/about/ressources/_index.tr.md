@@ -84,6 +84,12 @@ Bu, kitabın edebiyat türünü anlamak için [iyi bir kaynaktır](https://www.l
 
 İbranice edebiyatın nasıl okunacağına dair [harika bir kitap](https://www.logos.com/product/39605/the-literary-structure-of-the-old-testament-a-commentary-on-genesis-malachi).
 
+<a name="walsh"></a>
+
+### Jerome T. Walsh, Biblical Hebrew Narrative
+
+[Kutsal Kitap edebiyatını okuma tekniği söz konusu olduğunda daha ayrıntılı bir kitap.](https://www.amazon.de/Style-Structure-Biblical-Hebrew-Narrative/dp/0814658970)
+
 <a name="beale_dwell"></a>
 
 ### G.K.Beale, Kim Mitchell: God dwells among us
@@ -113,6 +119,18 @@ Tapınak konusu hakkında [harika bir kitap](https://www.amazon.de/-/en/G-K-Beal
 ### Nahum Sarna: Exodus
 
 Eğer Çıkış’ı daha derinlemesine anlamak istiyorsanız. [Ücretsiz e-kitap olarak mevcut olan ilginç bir kitap yazdı](https://www.amazon.de/-/en/Nahum-M-Sarna/dp/0805210636).
+
+<a name="daniel"></a>
+
+### Wuppertaler Studienbibel: Der Prophet Daniel
+
+[Daniel kitabını anlamam için iyi bir temel](https://www.amazon.de/Wuppertaler-Studienbibel-Sonderausgabe-Prophet-Daniel/dp/3417252091)
+
+<a name="dabar_daniel"></a>
+
+### Dabarlines, The book Daniel
+
+[Daniel kitabına farklı yaklaşımlar bulmak için iyi bir kaynak](https://www.dkonos.org/from-the-bible-1.html)
 
 <a name="rossing"></a>
 

@@ -99,8 +99,7 @@ Das Buch schließt mit einigen Mahnungen, die den Leser ermahnen, das Ganze erns
 
 ## Zur Vertiefung
 
-<a name="04c5"></a>
-[Beale, Revelation, pages 108–170](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#06a2)
+[Beale, Revelation, Seiten 108–170](../../../../about/ressources/index.html#bealy_rev)
 
 
 

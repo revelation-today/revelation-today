@@ -170,8 +170,7 @@ Mit anderen Worten, das Buch ist nicht
 
 ## Zur Vertiefung
 
-<a name="efae"></a>
-[Goreman, Reading Revelation Responsibly, Seiten 10–56](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#45e4)
+[Goreman, Reading Revelation Responsibly, Seiten 10–56](../../../../about/ressources/index.html#goreman)
 
 
 

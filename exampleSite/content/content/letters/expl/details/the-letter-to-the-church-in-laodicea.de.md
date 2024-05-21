@@ -56,4 +56,4 @@ Was bedeutet das nun für Laodizea? Ist das Motivation genug für sie?
 
 
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-laodicea.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-laodicea.de.md)

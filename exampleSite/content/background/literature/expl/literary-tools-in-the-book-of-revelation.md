@@ -249,14 +249,8 @@ There are many values
 
 ## Dig deeper
 
-<a name="4c80"></a>
-David A. Dorsey, The literary structure of the Old Testament, pages 15–44
+[David A. Dorsey, The literary structure of the Old Testament, pages 15–44](../../../../about/ressources/index.html#dorsey)
 
-Jerome T. Walsh, Biblical Hebrew Narrative, pages 7–11
-
-
-
-
-
+[Jerome T. Walsh, Biblical Hebrew Narrative, pages 7–11](../../../../about/ressources/index.html#walsh)
 
 [Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literary-tools-in-the-book-of-revelation.md)

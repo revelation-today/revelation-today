@@ -78,13 +78,13 @@ Zorlukları da güçlü yanları gibi bireyseldir, bu nedenle bazı kiliselerin 
 - [İsa’nın vizyonu](../../../../content/letters/expl/the-vision)
 - [Kiliselerin melekleri](../../../../content/letters/expl/the-angel-of-the-churches)
 - [Kiliseler için mektup](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [Efes’e mektup](../../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
-- [İzmir’e mektup](../../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
-- [Pergamon’a mektup](../../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
-- [Thyatira’ya mektup](../../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
-- [Sardes’e mektup](../../../../content/letters/expl/the-letter-to-the-church-in-sardis)
-- [Philadelphia’ya mektup](../../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
-- [Laodikya’ya mektup](../../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
+- [Efes’e mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus)
+- [İzmir’e mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna)
+- [Pergamon’a mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon)
+- [Thyatira’ya mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira)
+- [Sardes’e mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis)
+- [Philadelphia’ya mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
+- [Laodikya’ya mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
 
 
 

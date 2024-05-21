@@ -101,7 +101,9 @@ Die Zeugen werden als der Menschensohn identifiziert, weil sie das Leben Jesu na
 - [Aber es ist nicht ihre Niederlage, denn sie werden auferweckt wie Jesus](https://www.bibleserver.com/SLT/Offenbarung11%2C8-11)
 - [und erhöht werden wie Jesus](https://www.bibleserver.com/SLT/Offenbarung11%2C12).
 
+## Zur Vertiefung
 
+[Beale, A New Testament Biblical Theology, Seiten 393–428](../../../../about/ressources/index.html#beale_theo)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-son-of-man-and-the-remnant.de.md)

@@ -53,4 +53,4 @@ Tüm dünyanın üzerine gelen iz saati nedir? Ve İsa bizi bundan nasıl uzak t
 
 
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-philadelphia.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-philadelphia.tr.md)

@@ -58,13 +58,13 @@ When we compare the pairs, we find interesting points:
 ## Further reading
 
 <a name="ccde"></a>
-- [The church in Ephesus](../../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
-- [The church in Smyrna](../../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
-- [The church in Pergamon](../../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
-- [The church in Thyatira](../../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
-- [The church in Sardis](../../../../content/letters/expl/the-letter-to-the-church-in-sardis)
-- [The church in Philadelphia](../../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
-- [The church in Laodicea](../../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
+- [The church in Ephesus](../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus)
+- [The church in Smyrna](../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna)
+- [The church in Pergamon](../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon)
+- [The church in Thyatira](../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira)
+- [The church in Sardis](../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis)
+- [The church in Philadelphia](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
+- [The church in Laodicea](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
 
 
 

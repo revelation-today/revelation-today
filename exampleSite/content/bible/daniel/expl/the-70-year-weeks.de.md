@@ -101,6 +101,8 @@ Ich denke, dass die letzten 3,5 Jahre aus folgenden Gründen symbolisch sind:
 - Die Gemeinde soll Jesus in allem folgen, was er tut. Da Jesus 3,5 Jahre gewirkt hat, soll die Gemeinde dasselbe tun und deshalb wird auch die gleiche Zeitspanne verwendet.
 
 
+## Zur Vertiefung
 
+[Wuppertaler Studienbibel, Der Prophet Daniel, Seiten 334–354](../../../../about/ressources/index.html#daniel)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-70-year-weeks.de.md)

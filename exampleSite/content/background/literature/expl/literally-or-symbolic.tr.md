@@ -105,8 +105,7 @@ Ayrıca kitabın açıkça sembol olan öğelerle dolu olduğunu göreceksiniz: 
 
 ## Daha fazla kazma
 
-<a name="554a"></a>
-[Beale, Revelation, sayfalar 50–69](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
+[Beale, Revelation, sayfalar 50–69](../../../../about/ressources/index.html#beale_rev)
 
 
 

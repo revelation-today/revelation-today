@@ -142,10 +142,12 @@ Aber wir sehen oft die verzerrte Realität, in der Satan immer ein bisschen stä
 
 ## Zur Vertiefung
 
-<a name="c1b8"></a>
-[Beale, Revelation, Seiten 60–64](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#06a2)
 
-Bauckham, The climax of prophecy, Seiten 384–407
+[Beale, Revelation, Seiten 60–64](../../../../about/ressources/index.html#bealy_rev)
+
+[Bauckham, The climax of prophecy, Seiten 384–407](../../../../about/ressources/index.html#bauckham_climax)
+
+
 
 
 

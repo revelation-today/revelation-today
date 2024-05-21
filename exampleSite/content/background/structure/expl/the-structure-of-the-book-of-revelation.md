@@ -99,8 +99,7 @@ The book now closes with some final warnings to remind the reader how serious th
 
 ## Further digging
 
-<a name="fb90"></a>
-[Beale, Revelation, pages 108–170](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
+[Beale, Revelation, pages 108–170](../../../../about/ressources/index.html#bealy_rev)
 
 
 

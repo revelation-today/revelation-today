@@ -105,8 +105,9 @@ Tanıklar İsa’nın hayatını yaşadıkları için insanoğlu olarak tanımla
 
 
 
+## Daha fazla kazma
 
-
+[Beale, A New Testament Biblical Theology, sayfalar 393–428](../../../../about/ressources/index.html#beale_theo)
 
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-son-of-man-and-the-remnant.tr.md)

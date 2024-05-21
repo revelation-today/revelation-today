@@ -66,6 +66,10 @@ Hier überschneiden sich mehrere Aspekte der Geschichte:
 
 Wenn wir all dies zusammenfassen, sehen wir, wie wichtig der Glaube (jedes) Einzelnen für das Schicksal der Welt ist. Gott wirkt in den unscheinbaren Taten Einzelner, um ein unzerstörbares Reich zu schaffen.
 
+## Zur Vertiefung
+
+[Wuppertaler Studienbibel, Der Prophet Daniel](../../../../about/ressources/index.html#daniel)
+
 
 
 

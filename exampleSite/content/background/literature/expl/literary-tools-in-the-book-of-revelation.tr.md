@@ -220,6 +220,11 @@ Birçok değer vardır
 - Bir birimin ana noktasının keşfi: Yapının merkezi noktasını bulursak, bir kitabın veya daha uzun bir pasajın merkezi mesajını kolayca bulabiliriz
 - Kompozisyon temasının keşfi: Ana tema genel yapı aracılığıyla geliştirilir, örneğin Çıkış 19/3-Num-10/10'da Sina’daki antlaşmada güçlü putperestlik karşıtı tema veya Şarkılar’da sevginin karşılıklılığı.
 
+## Daha fazla kazma
+
+[David A. Dorsey, The literary structure of the Old Testament, sayfalar 15–44](../../../../about/ressources/index.html#dorsey)
+
+[Jerome T. Walsh, Biblical Hebrew Narrative, sayfalar 7–11](../../../../about/ressources/index.html#walsh)
 
 
 

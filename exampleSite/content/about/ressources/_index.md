@@ -82,6 +82,12 @@ In the [reference articles](../../../../gen/index/expl/overview-on-the-book-of-r
 
 [A great book](https://www.logos.com/product/39605/the-literary-structure-of-the-old-testament-a-commentary-on-genesis-malachi) about how to read literature in Hebrew.
 
+<a name="walsh"></a>
+
+### Jerome T. Walsh, Biblical Hebrew Narrative
+
+[A more detailed book on the techniques](https://www.amazon.de/Style-Structure-Biblical-Hebrew-Narrative/dp/0814658970) about how to read literature in Hebrew.
+
 <a name="beale_dwell"></a>
 
 ### G.K.Beale, Kim Mitchell: God dwells among us
@@ -111,6 +117,18 @@ If you want to know more about the creation story. [He wrote a good book with lo
 ### Nahum Sarna: Exodus
 
 If you want to step deeper into the understanding of Exodus. [He wrote an interesting book](https://www.amazon.com/Understanding-Genesis-Heritage-Biblical-Israel/dp/0805202536).
+
+<a name="daniel"></a>
+
+### Wuppertaler Studienbibel: Der Prophet Daniel
+
+[A good base for my understanding of the book of Daniel](https://www.amazon.de/Wuppertaler-Studienbibel-Sonderausgabe-Prophet-Daniel/dp/3417252091)
+
+<a name="dabar_daniel"></a>
+
+### Dabarlines, The book Daniel
+
+[A good ressource to see different approaches to the book of Daniel](https://www.dkonos.org/from-the-bible-1.html)
 
 <a name="rossing"></a>
 

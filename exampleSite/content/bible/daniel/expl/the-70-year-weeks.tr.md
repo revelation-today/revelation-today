@@ -101,7 +101,9 @@ Yedi yılın sonunda ne var? Ne zaman bitiyor? Diğer her şey edebi olduğu iç
 - Kilise İsa’yı yaptığı her şeyde takip etmelidir, bu yüzden İsa 3,5 yıl boyunca orada olduğu için kilise de aynısını yapmalıdır ve bu nedenle aynı zaman dilimi kullanılır
 
 
+## Daha fazla kazma
 
+[Wuppertaler Studienbibel, Der Prophet Daniel, sayfalar 334–354](../../../../about/ressources/index.html#daniel)
 
 
 

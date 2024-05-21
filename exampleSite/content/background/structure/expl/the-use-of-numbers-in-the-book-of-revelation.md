@@ -141,10 +141,11 @@ But we often see the distorted reality, where Satan is always a bit stronger.
 
 ## Further digging
 
-<a name="098d"></a>
-[Beale, Revelation, pages 60–64](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
 
-Bauckham, The climax of prophecy, pages 384–407
+[Beale, Revelation, pages 60–64](../../../../about/ressources/index.html#bealy_rev)
+
+[Bauckham, The climax of prophecy, pages 384–407](../../../../about/ressources/index.html#bauckham_climax)
+
 
 
 

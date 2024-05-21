@@ -62,12 +62,17 @@ This gives the perspective that these 6 chapters are the center of the book (whi
 There are several dimensions of the story that overlap:
 
 - The story of the faith of Daniel and his friends and their deliverance, the story of Israel and the deliverance of their heirs.
-- The secular powers and their downfall.May it be the overthrow of the Babylonian king and his empire ([the head of gold](https://www.bibleserver.com/NIV/Daniel2%3A38)) or all other kingdoms under God (chapters[ 2](https://www.bibleserver.com/NIV/Daniel2%3A45) and [7](https://www.bibleserver.com/NIV/Daniel7)), orthe secular deliverance from the Antichrist (Antiochus Epiphanes IV through the Maccabean War), leading to the later subjugation by the Roman Empire.
+- The secular powers and their downfall.
+    - May it be the overthrow of the Babylonian king and his empire ([the head of gold](https://www.bibleserver.com/NIV/Daniel2%3A38)) or all other kingdoms under God (chapters[ 2](https://www.bibleserver.com/NIV/Daniel2%3A45) and [7](https://www.bibleserver.com/NIV/Daniel7)), or
+    - the secular deliverance from the Antichrist (Antiochus Epiphanes IV through the Maccabean War), leading to the later subjugation by the Roman Empire.
 - The divine deliverance [of the whole world and its empires](https://www.bibleserver.com/NIV/Daniel2%3A45) in [God’s mysterious way](https://www.bibleserver.com/NIV/Daniel9%3A24-27) that lasts forever.
 
 
 All this together shows the importance of each person’s faith in the eternal destiny of the world. God acts in the subtle acts of individuals and brings forth an unbeatable kingdom.
 
+## Dig deeper
+
+[Wuppertaler Studienbibel, Der Prophet Daniel](../../../../about/ressources/index.html#daniel)
 
 
 

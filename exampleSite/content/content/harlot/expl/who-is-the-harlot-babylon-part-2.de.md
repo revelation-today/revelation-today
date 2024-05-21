@@ -86,7 +86,7 @@ In all dem scheint sie eine bessere Welt zu schaffen als Jesus durch
 - [Verstummen lassen unbequemer Stimmen](https://www.bibleserver.com/SLT/Offenbarung17%2C6).
 
 
-Da Babel viele [Parallelen zu Isebel hat](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1), ist es eine besondere Warnung für [Gemeindeleiter](../../../../content/letters/expl/the-letter-to-the-church-in-thyatira). Aber der Aufruf zur Selbstprüfung richtet sich an alle. Vielleicht ist das der Grund, warum es so schwer ist, Babel wirklich zu fassen, so [dass wir uns selbst immer wieder hinterfragen und Babel jeden Tag aufs Neue verlassen](https://www.bibleserver.com/SLT/Offenbarung18%2C4). Denn Babel ist überall!
+Da Babel viele [Parallelen zu Isebel hat](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1), ist es eine besondere Warnung für [Gemeindeleiter](../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira). Aber der Aufruf zur Selbstprüfung richtet sich an alle. Vielleicht ist das der Grund, warum es so schwer ist, Babel wirklich zu fassen, so [dass wir uns selbst immer wieder hinterfragen und Babel jeden Tag aufs Neue verlassen](https://www.bibleserver.com/SLT/Offenbarung18%2C4). Denn Babel ist überall!
 
 Für die Gemeinschaft ist es eine Versuchung
 - wenn sie verfolgt wird oder 

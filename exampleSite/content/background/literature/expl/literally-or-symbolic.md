@@ -103,8 +103,7 @@ You will also see that the book is full of things that are obviously symbols: th
 
 ## Further digging
 
-<a name="5181"></a>
-[Beale, Revelation, pages 50–69](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#7557)
+[Beale, Revelation, pages 50–69](../../../../about/ressources/index.html#beale_rev)
 
 
 

@@ -118,8 +118,7 @@ Darüber hinaus gibt es in der Offenbarung viele Dinge, die eindeutig symbolisch
 
 ## Zur Vertiefung
 
-<a name="a595"></a>
-Beale, Revelation, pages 50–69
+[Beale, Revelation, Seiten 50–69](../../../../about/ressources/index.html#beale_rev)
 
 
 

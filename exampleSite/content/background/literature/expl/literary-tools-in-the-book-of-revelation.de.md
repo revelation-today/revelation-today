@@ -217,6 +217,11 @@ Dafür gibt es viele Gründe:
 - Entdeckung des zentralen Punktes einer Einheit: Wenn wir den zentralen Punkt der Struktur finden, finden wir leicht die zentrale Botschaft eines Buches oder eines längeren Abschnitts.
 - Entdeckung des Themas der Komposition: Das Hauptthema wird durch die Gesamtstruktur entwickelt, z.B. das starke Thema des Götzendienstes im Vertrag am Sinai in Ex 19/3–4.Mo 10/10 oder die Gegenseitigkeit im Hohelied der Liebe.
 
+## Zur Vertiefung
+
+[David A. Dorsey, The literary structure of the Old Testament, Seiten 15–44](../../../../about/ressources/index.html#dorsey)
+
+[Jerome T. Walsh, Biblical Hebrew Narrative, Seiten 7–11](../../../../about/ressources/index.html#walsh)
 
 
 

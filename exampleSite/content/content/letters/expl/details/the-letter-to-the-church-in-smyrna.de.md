@@ -41,4 +41,4 @@ Je mehr wir versagen, desto mehr kann Jesus wirken. Es besteht die Gefahr, dass 
 
 
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-smyrna.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-smyrna.de.md)

@@ -55,4 +55,4 @@ Tahammül edenlere İsa, yanlış otorite altında tahammül ettikleri ve sadık
 
 
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-thyatira.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-thyatira.tr.md)

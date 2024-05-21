@@ -99,8 +99,7 @@ Kitap, okuyucuya bu konunun ne kadar ciddi olduğunu hatırlatmak için bazı so
 
 ## Daha fazla kazma
 
-<a name="2078"></a>
-[Beale, Revelation, sayfalar 108–170](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
+[Beale, Revelation, sayfalar 108–170](../../../../about/ressources/index.html#bealy_rev)
 
 
 

@@ -77,7 +77,9 @@ Roma İmparatorluğu, İsrail üzerinde doğrudan egemenliği olan dört imparat
 
 Daniel’in 7. bölümde daha fazlasını sorduğu 10 kral ve 3 boynuz hakkında çok fazla tartışma vardır, ancak bunları [şeytani üçlüyü](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) ve on kralı tekrar gördüğümüz Vahiy Kitabı bağlamında tartışmalıyız.
 
+## Daha fazla kazma
 
+[Dabarlines, The book of Daniel, sayfalar 38–46](../../../../about/ressources/index.html#dabar_daniel)
 
 
 

@@ -79,13 +79,13 @@ Their challenges are as individual as their strengths, so some of the strengths 
 - [The vision of Jesus](../../../../content/letters/expl/the-vision)
 - [The angels of the churches](../../../../content/letters/expl/the-angel-of-the-churches)
 - [The letter to the churches](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [The letter to Ephesus](../../../../content/letters/expl/the-letter-to-the-church-in-ephesus)
-- [The letter to Smyrna](../../../../content/letters/expl/the-letter-to-the-church-in-smyrna)
-- [The letter to Pergamon](../../../../content/letters/expl/the-letter-to-the-church-in-pergamon)
-- [The letter to Thyatira](../../../../content/letters/expl/the-letter-to-the-church-in-thyatira)
-- [The letter to Sardes](../../../../content/letters/expl/the-letter-to-the-church-in-sardis)
-- [The letter to Philadelphia](../../../../content/letters/expl/the-letter-to-the-church-in-philadelphia)
-- [The letter to Laodicea](../../../../content/letters/expl/the-letter-to-the-church-in-laodicea)
+- [The letter to Ephesus](../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus)
+- [The letter to Smyrna](../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna)
+- [The letter to Pergamon](../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon)
+- [The letter to Thyatira](../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira)
+- [The letter to Sardes](../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis)
+- [The letter to Philadelphia](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
+- [The letter to Laodicea](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
 
 
 

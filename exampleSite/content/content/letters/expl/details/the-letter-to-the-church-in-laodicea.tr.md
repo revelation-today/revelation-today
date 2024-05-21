@@ -58,4 +58,4 @@ Peki bu Laodikya için ne anlama geliyor? Bu motivasyon onlar için yeterli mi?
 
 
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-laodicea.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-laodicea.tr.md)

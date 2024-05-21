@@ -66,4 +66,4 @@ Kilise isterse Tanrı yeni bir başlangıç sunar. [Ama istemezlerse, İsa onlar
 
 
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-pergamon.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-pergamon.tr.md)

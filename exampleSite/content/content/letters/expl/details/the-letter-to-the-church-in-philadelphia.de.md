@@ -51,4 +51,4 @@ Was ist die Stunde der Versuchung, die über die ganze Erde kommt? Und wie will 
 
 
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letter-to-the-church-in-philadelphia.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-philadelphia.de.md)

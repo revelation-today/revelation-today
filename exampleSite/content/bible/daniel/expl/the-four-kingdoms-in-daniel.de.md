@@ -71,7 +71,9 @@ Das Römische Reich war das letzte Reich, das über Israel herrschte. Durch den 
 
 Es gibt auch Diskussionen darüber, wer die zehn Könige und die drei Hörner in Kapitel 7 sind, aber wir müssen diese Themen im Zusammenhang mit der Offenbarung betrachten, wo wir die [Dreieinigkeit](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) und die zehn Könige wieder sehen.
 
+## Zur Vertiefung
 
+[Dabarlines, The book of Daniel, Seiten 38–46](../../../../about/ressources/index.html#dabar_daniel)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-four-kingdoms-in-daniel.de.md)

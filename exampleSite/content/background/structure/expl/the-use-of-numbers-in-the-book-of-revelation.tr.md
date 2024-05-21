@@ -138,10 +138,11 @@ Ancak biz genellikle Şeytan’ın her zaman biraz daha güçlü olduğu çarpı
 
 ## Daha fazla kazma
 
-<a name="52da"></a>
-[Beale, Revelation, sayfalar 60–64](../../../../gen/background/ressources/how-to-study-the-book-of-revelation#1b3a)
 
-Bauckham, The climax of prophecy, sayfalar 384–407
+[Beale, Revelation, sayfalar 60–64](../../../../about/ressources/index.html#bealy_rev)
+
+[Bauckham, The climax of prophecy, sayfalar 384–407](../../../../about/ressources/index.html#bauckham_climax)
+
 
 
 
