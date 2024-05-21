@@ -75,7 +75,7 @@ Babil, Gelin/Yeni Yeruşalim’in karşılığıdır ve kendisi de bir sistemdir
 - ekonomi ([zenginlik verir veya fakirleştirir](https://www.bibleserver.com/TR/Vahiy13%3A16-17))
 - [etkileyici tapınak hizmetlerine](https://www.bibleserver.com/TR/Vahiy13%3A13-15) sahip kültür
 - [İdeoloji](https://www.bibleserver.com/TR/Vahiy13%3A12)
-- [madeni paralar](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire), resmi tatiller gibi günlük yaşamın diğer yönleri
+- [madeni paralar](../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire), resmi tatiller gibi günlük yaşamın diğer yönleri
 
 
 Tüm bunlarla İsa’dan daha iyi bir müjde getirmeyi amaçlamaktadır.
@@ -86,7 +86,7 @@ Tüm bunlarla İsa’dan daha iyi bir müjde getirmeyi amaçlamaktadır.
 - [uygunsuz sesleri susturmak](https://www.bibleserver.com/TR/Vahiy17%3A6)
 
 
-[Babil’in İzebel ile pek çok benzerliği olduğundan](../../../content/harlot/expl/who-is-the-whore-babel-part-1), bu kilise liderleri için özel bir uyarı olabilir. Ancak farkındalık ve düşünme çağrısı herkes için geçerlidir. Belki de Babil’in bu kadar net olmamasının nedeni budur, [böylece her gün yeniden düşünür ve ondan uzaklaşırsınız](https://www.bibleserver.com/TR/Vahiy18%3A4). Babil her yerde olduğu gibi!
+[Babil’in İzebel ile pek çok benzerliği olduğundan](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1), bu kilise liderleri için özel bir uyarı olabilir. Ancak farkındalık ve düşünme çağrısı herkes için geçerlidir. Belki de Babil’in bu kadar net olmamasının nedeni budur, [böylece her gün yeniden düşünür ve ondan uzaklaşırsınız](https://www.bibleserver.com/TR/Vahiy18%3A4). Babil her yerde olduğu gibi!
 
 Bu, zulüm ya da yoksulluk içindeyken ve daha fazla zenginlik ve insani değer biçme yolunda ilerlerken kilise için zorlayıcı ve çekici olabilir.
 
@@ -94,7 +94,7 @@ Bu, zulüm ya da yoksulluk içindeyken ve daha fazla zenginlik ve insani değer 
 ## Daha fazla okuma
 
 <a name="432c"></a>
-- [İmparatorlukla alay eder gibi Babil](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire)
+- [İmparatorlukla alay eder gibi Babil](../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
 
 
 
@@ -102,4 +102,4 @@ Bu, zulüm ya da yoksulluk içindeyken ve daha fazla zenginlik ve insani değer 
 
 
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-whore-babel-part-2.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-2.tr.md)

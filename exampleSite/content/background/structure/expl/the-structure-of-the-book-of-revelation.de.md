@@ -66,7 +66,7 @@ Der letzte Teil ist [Gottes unaufhaltsames Wirken gewidmet, die Menschheit in se
 
 Aber im Anhang wird das Thema noch einmal vertieft.
 
-- Das Hauptziel des Handelns Gottes ist die geheimnisvolle [Hure Babel](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
+- Das Hauptziel des Handelns Gottes ist die geheimnisvolle [Hure Babel](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
 - Nach dem Gericht über die Hure ist Raum für die Braut Christus, ihren Geliebten zu heiraten.
 - Nach der Schilderung der völligen Zerstörung des Reiches Satans, in das das Bild des Tausendjährigen Reiches eingebettet ist, ist es vollbracht.
 - Schließlich, als Gegenstück zur Hure Babel, kommt die Braut Jerusalem in all ihrer Pracht auf die Erde.
@@ -91,7 +91,7 @@ Das Buch schließt mit einigen Mahnungen, die den Leser ermahnen, das Ganze erns
 - Kap 13: [Die unheilige Dreieinigkeit](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 - Kap 14: [Die sieben Engel](../../../content/harvest/expl/gods-army-and-the-seven-angels)
 - Kap 16: [Die Schalen](../../../content/bowls/expl/the-bowls-of-wrath)
-- Kap 17: [Die Hure](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
+- Kap 17: [Die Hure](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
 - Kap 20: [Das 1000-jährige Reich](../../../content/1000y/expl/the-thousand-year-kingdom)
 - Kap 21: [Das Neue Jerusalem](../../../content/paradise/expl/the-new-jerusalem)
 

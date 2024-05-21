@@ -61,4 +61,4 @@ Die Botschaft dieser Ekfrasis ist es zu zeigen, dass
 
 
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire.de.md)

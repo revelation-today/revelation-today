@@ -68,60 +68,62 @@ Their purpose is to wage war against the Lamb, but things work out differently a
 She has many parallels as a contrast to the bride in chapter 21 and the woman in chapter 12
 
 
-| Wife in chapter 12 | Whore in chapter 17 | Bride in ch.19 and 21 |
+| Wife in chapter 12 | Harlot in chapter 17 | Bride in ch.19 and 21 |
 |--------------------|---------------------|-----------------------|
-| [Hidden in the <span style="color:green;">desert</span>](https://www.bibleserver.com/NIV/Revelation23%2C6) | [Sheltered in <span style="color:green;">desert</span>](https://www.bibleserver.com/NIV/Revelation17%2C3) </br> [Whore is <span style="color:green;">city</span> Babylon](https://www.bibleserver.com/NIV/Revelation17%2C5) | [Is <span style="color:green;">city</span>](https://www.bibleserver.com/NIV/Revelation21%2C9-21) |
+| [Hidden in the <span style="color:green;">desert</span>](https://www.bibleserver.com/NIV/Revelation23%2C6) | [Sheltered in <span style="color:green;">desert</span>](https://www.bibleserver.com/NIV/Revelation17%2C3) </br> [Harlot is <span style="color:green;">city</span> Babylon](https://www.bibleserver.com/NIV/Revelation17%2C5) | [Is <span style="color:green;">city</span>](https://www.bibleserver.com/NIV/Revelation21%2C9-21) |
 | | <span style="color:red;">Undivine</span> <span style="color:green;">capital</span> | <span style="color:green;">City</span> <span style="color:red;">God</span> |
-| <span style="color:red;">Mother</span> of legitimate children | <span style="color:red;">Whore</span> | <span style="color:red;">bride</span> |
+| <span style="color:red;">Mother</span> of legitimate children | <span style="color:red;">Harlot</span> | <span style="color:red;">bride</span> |
 | [<span style="color:green;">Pursued mother</span>](https://www.bibleserver.com/NIV/Revelation12) | [<span style="color:green;">Persecuted Mother</span>](https://www.bibleserver.com/NIV/Revelation17%2C5) ([Rev.17/16](https://www.bibleserver.com/NIV/Revelation17%2C16)) | |
 | [<span style="color:red;">Rescued Mother</span>](https://www.bibleserver.com/NIV/Revelation12) | [<span style="color:red;">Destroyed woman</span>](https://www.bibleserver.com/NIV/Revelation17) | |
 | | [<span style="color:green;">Angel announces court</span>](https://www.bibleserver.com/NIV/Revelation17%2C1) [<span style="color:green;">is certain</span>](https://www.bibleserver.com/NIV/Revelation19%2C9-10) | [<span style="color:green;">Angel announces bride</span>](https://www.bibleserver.com/NIV/Revelation21%2C9-10) [<span style="color:green;">is certain</span>](https://www.bibleserver.com/NIV/Revelation22%2C6) |
 | <span style="color:red;">Faithfulness</span> <span style="color:green;">Children</span> | <span style="color:red;">Faithfulness</span> <span style="color:green;">Children</span> | |
 | Gives <span style="color:red;">birth</span> to the <span style="color:green;">community</span> | Attempts <span style="color:green;">community</span> <span style="color:red;">destruction</span> | <span style="color:red;">Is</span> <span style="color:green;">community</span> |
 | [Has security in heaven](https://www.bibleserver.com/NIV/Revelation12%2C1) | [Has security in nations and kings](https://www.bibleserver.com/NIV/Revelation17%2C15) ([Rev.17/18](https://www.bibleserver.com/NIV/Revelation17%2C18)) | |
-| | Covered in <span style="color:green;">jewels</span> </br> [Dressed in canvas](https://www.bibleserver.com/NIV/Revelation17%2C4) ([Rev.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16)) </br>which <span style="color:red;">covers</span> your corruption | [Covered with precious jewels](https://www.bibleserver.com/NIV/Revelation21%2C2) ([Rev.21/9-23](https://www.bibleserver.com/NIV/Revelation21%2C9-23)) </br> [Dressed in pure white canvas](https://www.bibleserver.com/NIV/Revelation19%2C8) ([Rev.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16)) </br> which reflects <span style="color:red;">God's glory and righteous deeds of the saints</span> |
+| | Covered in <span style="color:green;">jewels</span> </br> [Dressed in canvas](https://www.bibleserver.com/NIV/Revelation17%2C4) ([Rev.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16)) </br>which <span style="color:red;">covers</span> her <span style="color:red;">corruption</span> | [Covered with precious jewels](https://www.bibleserver.com/NIV/Revelation21%2C2) ([Rev.21/9-23](https://www.bibleserver.com/NIV/Revelation21%2C9-23)) </br> [Dressed in pure white canvas](https://www.bibleserver.com/NIV/Revelation19%2C8) ([Rev.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16)) </br> which <span style="color:red;">reflects</span> God's glory and <span style="color:red;">righteous deeds of the saints</span> |
 
 
 and a lot of similarities with Jezebel, who causes also trouble in [Thyatira](https://www.bibleserver.com/NIV/Revelation2%3A20)
 
 
-| The Harlot | Isebel |
+| The Harlot | Jesebel |
 |------------|--------|
-| [God led this](https://www.bibleserver.com/NIV/2 Kings9%2C36) | [God has put in heart to destroy the harlot](https://www.bibleserver.com/NIV/Revelation17%2C17) |
-| [Before death Jezebel dyed eyes and made head pretty](https://www.bibleserver.com/NIV/2 Kings9%2C30) | [Whore is adorned with gold, purple, scarlet](https://www.bibleserver.com/NIV/Revelation17%2C4) |
-| [Isebel is queen](https://www.bibleserver.com/NIV/1 Kings16%2C31) | [Whore is queen](https://www.bibleserver.com/NIV/Revelation17%2C1-2) ([Offb.17/18](https://www.bibleserver.com/NIV/Revelation17%2C18), [Offb.18/7](https://www.bibleserver.com/NIV/Revelation18%2C7)) |
-| [fools people](https://www.bibleserver.com/NIV/1 Kings21%2C25) | [fools people](https://www.bibleserver.com/NIV/Revelation17%2C2) ([Offb.2/20](https://www.bibleserver.com/NIV/Revelation2%2C20)) |
-| [Prostitution through Idolatry](https://www.bibleserver.com/NIV/2 Kings9%2C22) ([2 Chr.21/13](https://www.bibleserver.com/NIV/2 Chronicles21%2C13)) | [Prostition through cooperation with the beast](https://www.bibleserver.com/NIV/Revelation17%2C1-2) ([Offb.17/5](https://www.bibleserver.com/NIV/Revelation17%2C5), [Offb.2/20-22](https://www.bibleserver.com/NIV/Revelation2%2C20-22)) |
-| [Use Wizard](https://www.bibleserver.com/NIV/2 Kings9%2C22) | [Uses wizardry](https://www.bibleserver.com/NIV/Revelation18%2C23) |
-| [Seeks economic advantage](https://www.bibleserver.com/NIV/1 Kings21) | [Addiction to economic wealth](https://www.bibleserver.com/NIV/Revelation18%2C11-19) |
-| [Persecutes and kills saints](https://www.bibleserver.com/NIV/1 Kings18%2C4) ([1 Kings.19/2](https://www.bibleserver.com/NIV/1 Kings19%2C2) | [Persecutes and kills saints](https://www.bibleserver.com/NIV/Revelation17%2C6) |
-| [Remnant resists](https://www.bibleserver.com/NIV/1 Kings18%2C18) ([1 Kings 19/18](https://www.bibleserver.com/NIV/1 Kings19%2C18), [2 Kings 9/22](https://www.bibleserver.com/NIV/2 Kings9%2C22)) | [Remnant resists](https://www.bibleserver.com/NIV/Revelation17%2C14) |
-| [God atones for blood of witnesses](https://www.bibleserver.com/NIV/2 Kings9%2C7) | [God atones blood of witnesses](https://www.bibleserver.com/NIV/Revelation19%2C2) |
-| [Judgement comes quickly](https://www.bibleserver.com/NIV/2 Kings9%2C33-35) | [Court comes quickly](https://www.bibleserver.com/NIV/Revelation18%2C10) ([Offb.18/17](https://www.bibleserver.com/NIV/Revelation18%2C17), [Offb.18/19](https://www.bibleserver.com/NIV/Revelation18%2C19)) |
-| [God judges successors](https://www.bibleserver.com/NIV/1 Kings18%2C40) ([2.Kön.10/19](https://www.bibleserver.com/NIV/2 Kings10%2C19)) | [God judges successors](https://www.bibleserver.com/NIV/Revelation18%2C9-11) ([Offb.2/23](https://www.bibleserver.com/NIV/Revelation2%2C23)) |
+| [<span style="color:green;">God led this</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C36) | [<span style="color:green;">God has put in heart</span> to destroy the harlot](https://www.bibleserver.com/NIV/Revelation17%2C17) |
+| [Before death Jezebel <span style="color:green;">dyed eyes and made head pretty</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C30) | [Harlot is <span style="color:green;">adorned with gold, purple, scarlet</span>](https://www.bibleserver.com/NIV/Revelation17%2C4) |
+| [Isebel is <span style="color:green;">queen</span>](https://www.bibleserver.com/NIV/1%20Kings16%2C31) | [Harlot is <span style="color:green;">queen</span>](https://www.bibleserver.com/NIV/Revelation17%2C1-2) ([Offb.17/18](https://www.bibleserver.com/NIV/Revelation17%2C18), [Offb.18/7](https://www.bibleserver.com/NIV/Revelation18%2C7)) |
+| [<span style="color:green;">fools people</span>](https://www.bibleserver.com/NIV/1%20Kings21%2C25) | [<span style="color:green;">fools people</span>](https://www.bibleserver.com/NIV/Revelation17%2C2) ([Offb.2/20](https://www.bibleserver.com/NIV/Revelation2%2C20)) |
+| [<span style="color:green;">Prostitution</span> through <span style="color:red;">Idolatry</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C22) ([2 Chr.21/13](https://www.bibleserver.com/NIV/2%20Chronicles21%2C13)) | [<span style="color:green;">Prostition</span> through <span style="color:red;">cooperation with the beast</span>](https://www.bibleserver.com/NIV/Revelation17%2C1-2) ([Offb.17/5](https://www.bibleserver.com/NIV/Revelation17%2C5), [Offb.2/20-22](https://www.bibleserver.com/NIV/Revelation2%2C20-22)) |
+| [<span style="color:green;">Use Wizard</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C22) | [<span style="color:green;">Uses wizardry</span>](https://www.bibleserver.com/NIV/Revelation18%2C23) |
+| [<span style="color:green;">Seeks economic advantage</span>](https://www.bibleserver.com/NIV/1%20Kings21) | [<span style="color:green;">Addiction to economic wealth</span>](https://www.bibleserver.com/NIV/Revelation18%2C11-19) |
+| [<span style="color:green;">Persecutes and kills saints</span>](https://www.bibleserver.com/NIV/1%20Kings18%2C4) ([1 Kings.19/2](https://www.bibleserver.com/NIV/1%20Kings19%2C2) | [<span style="color:green;">Persecutes and kills saints</span>](https://www.bibleserver.com/NIV/Revelation17%2C6) |
+| [<span style="color:green;">Remnant resists</span>](https://www.bibleserver.com/NIV/1%20Kings18%2C18) ([1 Kings 19/18](https://www.bibleserver.com/NIV/1%20Kings19%2C18), [2 Kings 9/22](https://www.bibleserver.com/NIV/2%20Kings9%2C22)) | [<span style="color:green;">Remnant resists</span>](https://www.bibleserver.com/NIV/Revelation17%2C14) |
+| [<span style="color:green;">God atones for blood of witnesses</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C7) | [<span style="color:green;">God atones blood of witnesses</span>](https://www.bibleserver.com/NIV/Revelation19%2C2) |
+| [<span style="color:green;">Judgement comes quickly</span>](https://www.bibleserver.com/NIV/2%20Kings9%2C33-35) | [<span style="color:green;">Court comes quickly</span>](https://www.bibleserver.com/NIV/Revelation18%2C10) ([Offb.18/17](https://www.bibleserver.com/NIV/Revelation18%2C17), [Offb.18/19](https://www.bibleserver.com/NIV/Revelation18%2C19)) |
+| [<span style="color:green;">God judges successors</span>](https://www.bibleserver.com/NIV/1%20Kings18%2C40) ([2.Kön.10/19](https://www.bibleserver.com/NIV/2%20Kings10%2C19)) | [<span style="color:green;">God judges successors</span>](https://www.bibleserver.com/NIV/Revelation18%2C9-11) ([Offb.2/23](https://www.bibleserver.com/NIV/Revelation2%2C23)) |
 
-and finally many parallels with the second beast in chapter 13
-<p>The whore and the second beast</p>
+and finally many parallels with the Second Beast in chapter 13
+
+## The Harlot and the second beast
 
 
-| The second beast of Revelation 13 | The harlot |
+| The Second Beast of Revelation 13 | The Harlot |
 |-----------------------------------|------------|
-| [Comes from Earth](https://www.bibleserver.com/NIV/Revelation13%2C11) | [Sits in desert](https://www.bibleserver.com/NIV/Revelation17%2C3) |
-| [Has two horns like a lamb](https://www.bibleserver.com/NIV/Revelation13%2C11) | [Is dressed like the bride of the lamb](https://www.bibleserver.com/NIV/Revelation17%2C4) |
-| [Acts in power of the (first) beast](https://www.bibleserver.com/NIV/Revelation13%2C12) | [Sits on the (first) beast](https://www.bibleserver.com/NIV/Revelation17%2C3) |
-| [Can make fire fall from the sky](https://www.bibleserver.com/NIV/Revelation13%2C13) | [Will be directed by fire ](https://www.bibleserver.com/NIV/Revelation17%2C16) ([Offb.18/9](https://www.bibleserver.com/NIV/Revelation18%2C9)) |
-| [All who do not worship it will be killed](https://www.bibleserver.com/NIV/Revelation13%2C15) | [Drink blood of the saints](https://www.bibleserver.com/NIV/Revelation17%2C6) |
-| [Make a sign on forehead and hand](https://www.bibleserver.com/NIV/Revelation13%2C16) | [Has sign on forehead: Babylon](https://www.bibleserver.com/NIV/Revelation17%2C5) |
-| [Cannot buy or sell without characters](https://www.bibleserver.com/NIV/Revelation13%2C17) | [Cannot buy or sell without sign](https://www.bibleserver.com/NIV/Revelation18%2C3) ([Offb.18/11-17](https://www.bibleserver.com/NIV/Revelation18%2C11-17)) |
-| [Requires wisdom](https://www.bibleserver.com/NIV/Revelation13%2C18) | [Requires wisdom](https://www.bibleserver.com/NIV/Revelation17%2C9) |
-<p>The power of the harlot is also reversed here into: while in chapter 13 she dropped fire from heaven, now she is destroyed by fire; while she makes a mark on her forehead, here she herself is branded on the forehead (like a slave)</p>
+| [<span style="color:green;">Comes from Earth</span>](https://www.bibleserver.com/NIV/Revelation13%2C11) | [<span style="color:green;">Sits in desert</span>](https://www.bibleserver.com/NIV/Revelation17%2C3) |
+| [<span style="color:green;">Has two horns like a lamb</span>](https://www.bibleserver.com/NIV/Revelation13%2C11) | [<span style="color:green;">Is dressed like the bride of the lamb</span>](https://www.bibleserver.com/NIV/Revelation17%2C4) |
+| [<span style="color:green;">Acts in power of the (first) beast</span>](https://www.bibleserver.com/NIV/Revelation13%2C12) | [<span style="color:green;">Sits on the (first) beast</span>](https://www.bibleserver.com/NIV/Revelation17%2C3) |
+| [<span style="color:red;">Can make</span> <span style="color:green;">fire fall from the sky</span>](https://www.bibleserver.com/NIV/Revelation13%2C13) | [<span style="color:red;">Will be judged</span> <span style="color:green;">by fire</span>](https://www.bibleserver.com/NIV/Revelation17%2C16) ([Offb.18/9](https://www.bibleserver.com/NIV/Revelation18%2C9)) |
+| [<span style="color:green;">All who do not worship it will be killed</span>](https://www.bibleserver.com/NIV/Revelation13%2C15) | [<span style="color:green;">Drink blood of the saints</span>](https://www.bibleserver.com/NIV/Revelation17%2C6) |
+| [<span style="color:red;">Makes</span> <span style="color:green;">a sign on forehead and hand</span>](https://www.bibleserver.com/NIV/Revelation13%2C16) | [<span style="color:red;">Has</span> <span style="color:green;">sign on forehead: Babylon</span>](https://www.bibleserver.com/NIV/Revelation17%2C5) |
+| [<span style="color:green;">Cannot buy or sell without mark</span>](https://www.bibleserver.com/NIV/Revelation13%2C17) | [<span style="color:green;">Cannot buy or sell without sign</span>](https://www.bibleserver.com/NIV/Revelation18%2C3) ([Offb.18/11-17](https://www.bibleserver.com/NIV/Revelation18%2C11-17)) |
+| [<span style="color:green;">Requires wisdom</span>](https://www.bibleserver.com/NIV/Revelation13%2C18) | [<span style="color:green;">Requires wisdom</span>](https://www.bibleserver.com/NIV/Revelation17%2C9) |
+
+The power of the harlot is also reversed here into: while in chapter 13 she dropped fire from heaven, now she is destroyed by fire; while she makes a mark on her forehead, here she herself is branded on the forehead (like a slave)
 While the first beast supports the harlot in chapter 17, the second beast supports the first beast in chapter 13.
 
 
 ## Further reading
 
 <a name="efa5"></a>
-- [The whore part 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
+- [The Harlot part 2](../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
 - [The origin of Babylon](../../../bible/keyword/expl/the-origin-of-babel)
 
 
@@ -136,4 +138,4 @@ Beale, Revelation, pages 847–890
 
 
 
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-whore-babel-part-1.md)
+[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-1.md)

@@ -66,7 +66,7 @@ Son bölüm, [Tanrı’nın, krallığının gelmesi için insanlığa duyduğu 
 
 Ancak buradaki ekte bu konu çok daha ayrıntılı olarak ele alınmaktadır:
 
-- Tanrıların ana hedefi gizemli [fahişe Babel’dir](../../../content/harlot/expl/who-is-the-whore-babel-part-1).
+- Tanrıların ana hedefi gizemli [fahişe Babel’dir](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1).
 - Fahişe yargılandıktan sonra, Mesih’in gelini olan kilisenin düğünü yapılabilir
 - Şeytanların krallığının yıkılışı 19. ve 20. bölümlerde 1000 yıllık krallıkla çevrili olarak iki kez bildirilir.
 - Son olarak fahişenin karşıtı olarak gelin — fahişenin karşıtı — tüm görkemiyle sunulur.
@@ -91,7 +91,7 @@ Kitap, okuyucuya bu konunun ne kadar ciddi olduğunu hatırlatmak için bazı so
 - Bölüm13: [Kutsal olmayan üçlü](../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 - Bölüm 14: [Yedi melek](../../../content/harvest/expl/gods-army-and-the-seven-angels)
 - Bölüm 16: [Kaseler](../../../content/bowls/expl/the-bowls-of-wrath)
-- Bölüm 17: [Fahişe](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
+- Bölüm 17: [Fahişe](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
 - Bölüm 20: [1000 yıllık krallık](../../../content/1000y/expl/the-thousand-year-kingdom)
 - Bölüm 21: [Yeni Kudüs](../../../content/paradise/expl/the-new-jerusalem)
 

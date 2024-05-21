@@ -30,7 +30,7 @@ Canavarın 13. bölümdeki ilk canavarla birçok paralelliği vardır
 | [Kutsallara karşı savaşın](https://www.bibleserver.com/TR/Vahiy13%2C7) | ve <span style="color:red;">onları yenin</span>
 <td>
 [Lamb'a karşı savaşır](https://www.bibleserver.com/TR/Vahiy17%2C14)</td> ve <span style="color:red;">üstesinden gelir</span>
-[Fight against whore and destroy](https://www.bibleserver.com/TR/Vahiy17%2C16).
+[Fight against harlot and destroy](https://www.bibleserver.com/TR/Vahiy17%2C16).
 			
 
 <tr>
@@ -182,7 +182,7 @@ Bölüm 17'deki ilk canavar fahişeyi desteklerken, bölüm 13'te ikinci canavar
 ## Daha fazla okuma
 
 <a name="7688"></a>
-- [Fahişe 2. bölüm](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
+- [Fahişe 2. bölüm](../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
 - [Babil’in kökeni](../../../bible/keyword/expl/the-origin-of-babel)
 
 
@@ -191,4 +191,4 @@ Bölüm 17'deki ilk canavar fahişeyi desteklerken, bölüm 13'te ikinci canavar
 
 
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-whore-babel-part-1.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-1.tr.md)

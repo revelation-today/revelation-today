@@ -65,9 +65,9 @@ Ağzından çıkan bir kılıçla gelir ve herkesi tek başına yargılar (melek
 ## Daha derine inmek
 
 <a name="052e"></a>
-- [Fahişe kimdir? Bölüm 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
-- [Fahişe kimdir? Bölüm 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
-- [Zamanın alay konusu olarak fahişe](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire)
+- [Fahişe kimdir? Bölüm 1](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
+- [Fahişe kimdir? Bölüm 2](../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
+- [Zamanın alay konusu olarak fahişe](../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
 - [Fahişenin karakteri ve kaderi](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
 

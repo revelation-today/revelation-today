@@ -61,9 +61,9 @@ He comes with a sword out of His mouth and He judges each one alone (the angels 
 ## Digging deeper
 
 <a name="aa59"></a>
-- [Who is the harlot: Part 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
-- [Who is the harlot: Part 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
-- [The harlot as a mocking of the time](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire)
+- [Who is the harlot: Part 1](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
+- [Who is the harlot: Part 2](../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
+- [The harlot as a mocking of the time](../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
 - [The character and destiny of the harlot](../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
 

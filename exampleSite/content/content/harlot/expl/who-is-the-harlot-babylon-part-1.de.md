@@ -45,7 +45,7 @@ Das Tier wird beschrieben als das “[war und ist nicht mehr, und es wird aus de
 ## Die sieben Hügel und die sieben Könige
 
 <a name="09b7"></a>
-[Die sieben Hügel, auf denen die Hure sitzt](https://www.bibleserver.com/SLT/Offenbarung17%2C9), sind die [sieben Hügel, die Rom beschreiben](https://de.wikipedia.org/wiki/Sieben_H%C3%BCgel_Roms). Rom ist aus der Sicht der ersten Leser der [Kaiser, der als Herr der Herren und König der Könige im Gegensatz zu Jesus gepriesen werden will](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire). Es ist nicht der Papst oderjemand, der später in Rom gelebt hat.
+[Die sieben Hügel, auf denen die Hure sitzt](https://www.bibleserver.com/SLT/Offenbarung17%2C9), sind die [sieben Hügel, die Rom beschreiben](https://de.wikipedia.org/wiki/Sieben_H%C3%BCgel_Roms). Rom ist aus der Sicht der ersten Leser der [Kaiser, der als Herr der Herren und König der Könige im Gegensatz zu Jesus gepriesen werden will](../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire). Es ist nicht der Papst oderjemand, der später in Rom gelebt hat.
 
 Hügel können aber auch als Königreiche bedeuten (und da die Hügel als Könige interpretiert wurden, wären dies die entsprechenden Königreiche). Deutlich wird dies in der Beschreibung des Königsreichs bei [Jesaja](https://www.bibleserver.com/SLT/Jesaja2%2C2), der [Stadt Babel als Berg](https://www.bibleserver.com/SLT/Jeremia51%2C25), [Edom als Berg](https://www.bibleserver.com/SLT/Hesekiel35%2C3) oder dem [Berg, der die ganze Welt erfüllt und das Reich Gottes darstellt](https://www.bibleserver.com/SLT/Daniel2%2C35).
 
@@ -174,10 +174,10 @@ Während das erste Tier die Hure in Kapitel 17 unterstützt, ist es in Kapitel 1
 ## Zum Weiterlesen
 
 <a name="2e7a"></a>
-- [Wer ist die Hure: Teil 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
+- [Wer ist die Hure: Teil 2](../../../content/harlot/expl/who-is-the-harlot-babel-part-2)
 - [Der Ursprung Babels](../../../bible/keyword/expl/the-origin-of-babel)
 
 
 
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-whore-babel-part-1.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-1.de.md)

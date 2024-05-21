@@ -1,6 +1,6 @@
 # Configuration
-baseURL: "https://example.com/"
-title: "Hextra"
+baseURL: "https://hugo.revelation-today.net/"
+title: "The Book of Revelation"
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -21,7 +21,7 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: The book of Revelation
+    title: The Book of Revelation
   de:
     languageName: Deutsch
     weight: 2

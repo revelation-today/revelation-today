@@ -64,4 +64,4 @@ Yani ekphrasis’in amacı şunu göstermektir
 
 
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire.tr.md)
+[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire.tr.md)

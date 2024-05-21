@@ -10,8 +10,8 @@ Fahişenin kim olduğunu anladıktan sonra, Kutsal Kitap’ın yanıtladığı h
 ## Daha önce okumak için faydalı
 
 <a name="093a"></a>
-- [Fahişe kimdir? Bölüm 1](../../../content/harlot/expl/who-is-the-whore-babel-part-1)
-- [Fahişe kimdir? Bölüm 2](../../../content/harlot/expl/who-is-the-whore-babel-part-2)
+- [Fahişe kimdir? Bölüm 1](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
+- [Fahişe kimdir? Bölüm 2](../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
 
 
 

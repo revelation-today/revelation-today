@@ -75,7 +75,7 @@ Babel ist das Gegenstück zur Braut (dem Neuen Jerusalem) und in sich auch ein e
 - Wirtschaft ([macht reich oder arm](https://www.bibleserver.com/SLT/Offenbarung13%2C16-17)),
 - Kultur mit [beeindruckendem Tempeldienst](https://www.bibleserver.com/SLT/Offenbarung13%2C13-15),
 - [Ideologie](https://www.bibleserver.com/SLT/Offenbarung13%2C12),
-- andere Aspekte des täglichen Lebens wie [Münzen](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire), öffentliche Feiertage, …
+- andere Aspekte des täglichen Lebens wie [Münzen](../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire), öffentliche Feiertage, …
 
 
 In all dem scheint sie eine bessere Welt zu schaffen als Jesus durch
@@ -86,7 +86,7 @@ In all dem scheint sie eine bessere Welt zu schaffen als Jesus durch
 - [Verstummen lassen unbequemer Stimmen](https://www.bibleserver.com/SLT/Offenbarung17%2C6).
 
 
-Da Babel viele [Parallelen zu Isebel hat](../../../content/harlot/expl/who-is-the-whore-babel-part-1), ist es eine besondere Warnung für [Gemeindeleiter](../../../content/letters/expl/the-letter-to-the-church-in-thyatira). Aber der Aufruf zur Selbstprüfung richtet sich an alle. Vielleicht ist das der Grund, warum es so schwer ist, Babel wirklich zu fassen, so [dass wir uns selbst immer wieder hinterfragen und Babel jeden Tag aufs Neue verlassen](https://www.bibleserver.com/SLT/Offenbarung18%2C4). Denn Babel ist überall!
+Da Babel viele [Parallelen zu Isebel hat](../../../content/harlot/expl/who-is-the-harlot-babylon-part-1), ist es eine besondere Warnung für [Gemeindeleiter](../../../content/letters/expl/the-letter-to-the-church-in-thyatira). Aber der Aufruf zur Selbstprüfung richtet sich an alle. Vielleicht ist das der Grund, warum es so schwer ist, Babel wirklich zu fassen, so [dass wir uns selbst immer wieder hinterfragen und Babel jeden Tag aufs Neue verlassen](https://www.bibleserver.com/SLT/Offenbarung18%2C4). Denn Babel ist überall!
 
 Für die Gemeinschaft ist es eine Versuchung, wenn sie verfolgt wird, oder wenn sie arm ist und reich werden will, oder wenn sie menschliche Anerkennung sucht.
 
@@ -94,9 +94,9 @@ Für die Gemeinschaft ist es eine Versuchung, wenn sie verfolgt wird, oder wenn 
 ## Zum Weiterlesen
 
 <a name="296c"></a>
-- [Babel als Spottlied auf das Römische Reich](../../../content/harlot/expl/the-whore-in-revelation-a-mocking-of-the-roman-empire)
+- [Babel als Spottlied auf das Römische Reich](../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
 
 
 
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-whore-babel-part-2.de.md)
+[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-2.de.md)
