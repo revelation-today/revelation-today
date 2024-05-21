@@ -87,6 +87,9 @@ Bu model Tanrı’nın İsrail’le yaptığı antlaşmada da görülür:
 
 Kutsal Kitap, “sevgi”, “iyilik”, “merhamet” veya “sadakat” ile tanımlanabilecek bir kelime olan “heset” = “antlaşma sadakati” kelimesini kullanır.
 
+## Derinleştirmek için
+
+[Sandra Richter, The Epic of Eden, sayfalar 69-](../../../../about/ressources/index.html#richter)
 
 
 

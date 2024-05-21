@@ -86,6 +86,9 @@ Außerdem nennt sich Gott selbst auch [der Vater Israels](https://www.bibleserve
 
 Die Bibel verwendet das Wort “heset” = “Bundestreue“, was ein Wort ist das auch mit “Liebe”, “Güte”, “Gnade” oder “Treue” übersetzt werden kann.
 
+## Zum Vertiefen
+
+[Sandra Richter, The Epic of Eden, Seiten 69-](../../../../about/ressources/index.html#richter)
 
 
 

@@ -86,6 +86,8 @@ Hier einige Fragen zum Nachdenken:
 - [Struktur des Buches](../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
 
+## Zum Vertiefen
 
+[Beale, Revelation, Seiten 28–33](../../../../about/ressources/index.html#beale_rev)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation.de.md)

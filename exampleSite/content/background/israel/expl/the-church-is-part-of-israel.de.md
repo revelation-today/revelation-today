@@ -107,28 +107,11 @@ Von aller Gesetzlosigkeit zu erlösen ist eine Referenz zu den [Psalmen, wo Isra
 
 ## Der Dienst
 
-<a name="05d4"></a><p>[Jesaja 49](https://www.bibleserver.com/SLT/Hesekiel9%2C39) ist erfüllt in der Gemeinde</p>
+<a name="05d4"></a>[Jesaja 49](https://www.bibleserver.com/SLT/Hesekiel9%2C39) ist erfüllt in der Gemeinde.
 
-
-| Jesaja 49 | Jesus | Gemeinde |
-|-----------|-------|----------|
-| 
-[Und er sprach zu mir: Du bist mein Knecht, bist Israel, durch den ich mich verherrliche.](https://www.bibleserver.com/SLT/Jesaja49%2C3) |
-[Und nun spricht der HERR, der mich von Mutterleib an zu seinem Knecht gebildet hat, um Jakob zu ihm zurückzubringen — Israel nicht gesammelt, und doch wurde ich geehrt in den Augen des HERRN, und mein Gott war meine Stärke —, ja, er spricht: »Es ist gering, dass du mein Knecht bist, um die Stämme Jakobs aufzurichten und die Bewahrten aus Israel zu wiederzubringen; sondern ich habe dich auch zum Licht für die Heiden gesetzt, damit du mein Heil seist bis an das Ende der Erde!«](https://www.bibleserver.com/SLT/Jesaja49%2C5-6)
-[und ich will dich behüten und dich zum Bund für das Volk setzen, zum Licht  für die Heiden; dass du die Augen der Blinden öffnest, die Gebundenen aus dem Gefängnis führst  und aus dem Kerker die, welche in der Finsternis sitzen.](https://www.bibleserver.com/SLT/Jesaja42%2C6-7)
-[Ich will die Blinden auf einem Weg führen, den sie nicht kennen, und auf Pfaden leiten, die ihnen unbekannt sind; ich werde die Finsternis vor ihnen zum Licht machen und das Hügelige zur Ebene. Diese Worte werde ich erfüllen und nicht davon lassen.](https://www.bibleserver.com/SLT/Jesaja42%2C16)
-
-<td style="width:25%;">
-[ein Licht  zur Offenbarung für die Heiden  und zur Verherrlichung  deines Volkes Israel !](https://www.bibleserver.com/SLT/Lukas2%2C32)</td>
-[nämlich, dass der Christus leiden müsse und dass er als der Erstling aus der Auferstehung der Toten Licht  verkündigen werde dem Volk  und auch den Heiden .](https://www.bibleserver.com/SLT/Apostelgeschichte26%2C23)
-
-<td style="width:25%;">
-[Denn so hat uns der Herr geboten: »Ich habe dich zum Licht  für die Heiden  gesetzt, damit du zum Heil seist bis an das Ende der Erde !«](https://www.bibleserver.com/SLT/Offenbarung17%2C3)</td>
-[um ihnen die Augen zu öffnen , damit sie sich bekehren von der Finsternis zum Licht  und von der Herrschaft des Satans zu Gott , damit sie Vergebung der Sünden empfangen und ein Erbteil unter denen, die durch den Glauben an mich geheiligt sind!](https://www.bibleserver.com/SLT/Apostelgeschichte26%2C18)
-
-
-
-
+| Jesaja 49 | Jesus | ist erfüllt in der Gemeinde |
+|-----------|-------|-----------------------------|
+| [Und er sprach zu mir: Du bist mein Knecht, du bist Israel, durch <span style="color:red;">den ich verherrliche</span>.](https://www.bibleserver.com/SLT/Jesaja49%2C3) </br> [Und nun der HERR, der mich vom Mutterleib an gebildet hat, um sein Knecht zu sein, um Jakob zu ihm zurückzubringen - Israel war nicht versammelt, und doch war ich geehrt in den Augen des HERRN, und mein Gott war meine Stärke - ja, er sagt, "Es <span style="color: rot;">ist gering</span>, dass du mein Knecht bist, um die Stämme Jakobs aufzurichten und die Bewahrten aus <span style="color:brown;">Israel</span> wiederzubringen; aber ich habe dich auch für <span style="color: grün;">Licht</span> für die <span style="color:brown;">Nichtjuden</span> gesetzt, damit <span style="color:black;">du mein Heil seiest bis an das Ende der Erde</span>! "] (https://www.bibleserver.com/SLT/Jesaja49%2C5-6) </br>[und ich will dich bewahren und dich zum Bund für die Völker setzen, zum <span style="color:green;">Licht</span> für die Heiden, damit du nicht die <span style="color: grün;">die Augen der Blinden öffnest</span>, die <span style="color:red;">Gefesselten aus dem Gefängnis führst</span> und aus dem Kerker die, die in <span style="color:green;">Dunkelheit</span> sitzen. (https://www.bibleserver.com/SLT/Jesaja42%2C6-7) </br> [Ich werde die Blinden auf einem Weg führen, den sie nicht kennen, und sie auf Pfaden leiten, die ihnen unbekannt sind; ich werde das <span style="color:green;">Dunkel vor ihnen hell</span> machen und das Hügelige zur Ebene. Diese Worte werde ich erfüllen und nicht von ihnen ablassen.](https://www.bibleserver.com/SLT/Jesaja42%2C16) | [ein <span style="color:green;">Licht</span> zur Offenbarung für die <span style="color:brown;">Paganen</span> und zur <span style="color:red;">Verherrlichung</span> deines Volkes <span style="color:brown;">Israel</span>!](https://www.bibleserver.com/SLT/Lukas2%2C32) </br> [nämlich, dass der Christus leiden muss, und dass er als Erstling aus der Auferstehung der Toten das <span style="color:green;">Licht</span> <span style="color:brown;">den Menschen</span> und auch den <span style="color:brown;">Nichtjuden</span> predigen wird.](https://www.bibleserver.com/SLT/Apostelgeschichte26%2C23) | [Denn so hat uns der Herr geboten: "Ich habe euch als <span style="color:green;">Licht</span> für die <span style="color:brown;">Nichtjuden</span> eingesetzt, damit ihr <span style="color:brown;">Heil für die Enden der Erde</span> seid!"](https://www.bibleserver.com/SLT/Offenbarung17%2C3) </br> [Um ihre <span style="color:green;">Augen</span> zu öffnen, damit sie sich bekehren von der <span style="color:green;">Dunkelheit zum Licht</span> und von der <span style="color:red;">Herrschaft des Satans zu Gott</span>, damit sie Vergebung der Sünden empfangen und ein Erbe unter denen, die durch den Glauben an mich geheiligt sind!](https://www.bibleserver.com/SLT/Apostelgeschichte26%2C18) |
 
 
 ## Das Ausgießen des Geistes
@@ -144,17 +127,14 @@ Als [Kornelius und sein Haus den Heiligen Geist empfingen](https://www.bibleserv
 <p>Apostelgeschichte 2 ist Erfüllung von Apostelgeschichte 1 (erfüllt mit dem Heiligen Geist. Apostelgeschichte 1/8 ist die Erfüllung von Jesaja</p>
 
 
-| Jesaja | [Apg.1/8](https://www.bibleserver.com/SLT/Apostelgeschichte1%2C8) |
-|--------|-------------------------------------------------------------------|
-| 
-[so lange, bis der Geist aus der Höhe über uns ausgegossen wird. Dann wird die Wüste zum Fruchtgarten, und der Fruchtgarten wird wie Wald geachtet werden.](https://www.bibleserver.com/SLT/Jesaja32%2C15) |
-[Ihr seid meine Zeugen, spricht der HERR, und mein Knecht, den ich erwählt habe, damit ihr erkennt und mir glaubt und einseht, dass ich es bin; vor mir ist kein Gott gebildet worden, und nach mir wird es keinen geben](https://www.bibleserver.com/SLT/Jesaja43%2C10)
-[und ihr seid meine Zeugen, spricht der HERR, dass ich Gott bin](https://www.bibleserver.com/SLT/Jesaja43%2C12)
-[sondern ich habe dich auch zum Licht für die Heiden gesetzt, damit du mein Heil seist bis an das Ende der Erde!](https://www.bibleserver.com/SLT/Jesaja49%2C6)
+| Jesaja | Apostelgeschichte 1:8 |
+|--------|----------|
+| [bis der <span style="color:red;">Geist aus der Höhe über uns ausgegossen wird</span>. Dann wird die Wüste zu einem Garten der Früchte werden, und der Garten der Früchte wird geschätzt werden wie ein Wald](https://www.bibleserver.com/SLT/Jesaja32%2C15) </br> [<span style="color:green;">Ihr seid meine Zeugen</span>, spricht der Herr, und mein Knecht, den ich erwählt habe, damit ihr erkennt und mir glaubt und seht, dass ich es bin; vor mir ist kein Gott gewesen, und nach mir wird keiner sein](https://www.bibleserver.com/SLT/Jesaja43%2C10). </br> [<span style="color:green;">Und ihr seid meine Zeugen</span>, spricht der Herr, dass ich Gott bin](https://www.bibleserver.com/SLT/Jesaja43%2C12). </br> [<span style="color:brown;">Aber ich habe euch auch dazu bestimmt, den Heiden ein Licht zu sein, damit ihr <span style="color:brown;">meine Rettung seid bis an die Enden der Erde</span>](https://www.bibleserver.com/SLT/Jesaja49%2C6) | aber ihr werdet Macht empfangen (Erfüllung von [Lukas](https://www.bibleserver.com/SLT/Lukas24%2C49)), wenn der <span style="color:red;">Heilige Geist auf euch gekommen ist</span>, und ihr werdet <span style="color:green;">meine Zeugen</span> sein in Jerusalem und in ganz Judäa und Samarien und <span style="color:brown;">bis an die Enden der Erde</span>! (Siehe [Geschichte der Apostel](https://www.bibleserver.com/SLT/Apostelgeschichte13%2C47), die sich auf [Jesaja](https://www.bibleserver.com/SLT/Jesaja49%2C6) bezieht). |
 
-<td style="width:50%;">
-			sondern ihr werdet Kraft empfangen (Erfüllung von [Lukas](https://www.bibleserver.com/SLT/Lukas24%2C49)), wenn der <span style="color:red;">Heilige Geist auf euch gekommen ist</span>, und ihr werdet <span style="color:green;">meine Zeugen sein</span> in Jerusalem und in ganz Judäa und Samaria und <span style="color:blue;">bis an das Ende der Erde</span>! (siehe [Aposelgeschichte](https://www.bibleserver.com/SLT/Apostelgeschichte13%2C47), die sich auf [Jesaja](https://www.bibleserver.com/SLT/Jesaja49%2C6) bezieht)
-			</td>
+## Zur Vertiefung
+
+<a name="9150"></a>
+[Beale, A New Testament biblical theology, Seiten 669–679](../../../../about/ressources/index.html#beale_theo)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-church-is-part-of-israel.de.md)

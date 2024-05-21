@@ -23,26 +23,9 @@ The beginning of the gospel of Mark has many references to the Exodus:
 
 | Mark | Isaiah 40-66 | Explanation |
 |------|--------------|-------------|
-| Jesus' ministry in Galilee and beyond (1/16-8/21:26) |
-			People are set free by demons.
-			[rejection of Jesus (Beelzebub)](https://www.bibleserver.com/NIV/Mark3%2C22-30) results [in hardening of hearts](https://www.bibleserver.com/NIV/Mark4%2C11-13).
-			
-<td style="width:30%;">Israel sit freed from slavery by God the Warrior and Healer</td>.
-			Israel is freed from Babel
-[Rejecting God: God becomes their enemy](https://www.bibleserver.com/NIV/Isaiah63%2C10)
-<td style="width:30%;">Deliverance from demons zegit authority of Jesus, referring to God as the warrior who releases people from prison</td>.
-			People are held captive by demons.
-		
-<tr>
-<td>Mk.8/22,27-10/15,52: Jesus leads the "blind" disciples on the "way"</td></tr>.
-			Healing the blind and deaf, disciples are also blind at first, but see again.
-			<td>[God guides the "blind" on the "way"](https://www.bibleserver.com/NIV/Isaiah42%2C16)</td>
-<td>Jesus suffering is the way in which the exodus happens (Is.53: servant goes the way through his death (Mk.10/45))</td>
-<tr>
-<td>Mk.10/46;11/1-16/8: Jesus eventual arrival in Jerusalem</td>.
-			<td>Israel's eventual arrival in Jerusalem</td>.
-			<td>Jesus veils the fig tree: reference to beginning: [judgment or promise, only if bears fruit](https://www.bibleserver.com/NIV/Revelation17%2C14)</td>
-</tr>
+| Jesus' ministry in Galilee and beyond (1/16-8/21:26) </br> People are set free by demons. </br> [Rejection of Jesus (Beelzebub)](https://www.bibleserver.com/NIV/Mark3%2C22-30) results [in hardening of hearts](https://www.bibleserver.com/NIV/Mark4%2C11-13). | Israel set freed from slavery by God the Warrior and Healer</br> Israel is freed from Babel </br> [Rejecting God: God becomes their enemy](https://www.bibleserver.com/NIV/Isaiah63%2C10) | Deliverance from demons shows authority of Jesus, referring to God as the warrior who releases people from prison.</br> People are held captive by demons. |
+| Mk.8/22,27-10/15,52: Jesus leads the "blind" disciples on the "way" </br> Healing the blind and deaf, disciples are also blind at first, but see again. | [God guides the "blind" on the "way"](https://www.bibleserver.com/NIV/Isaiah42%2C16) | Jesus suffering is the way in which the exodus happens (Is.53: servant goes the way through his death (Mk.10/45)) |
+| Mk.10/46;11/1-16/8: Jesus eventual arrival in Jerusalem | Israel's eventual arrival in Jerusalem | Jesus veils the fig tree: reference to beginning: [judgment or promise, only if bears fruit](https://www.bibleserver.com/NIV/Revelation17%2C14) |
 
 
 ## The new Exodus in Luke
@@ -97,8 +80,7 @@ The Gospel shows the tension between the restoration of Israel who believe in Ch
 
 ## Dig Deeper
 
-<a name="4108"></a>
-Beale, A New Testament biblical theology, pages 694–703
+[Beale, A New Testament biblical theology, pages 694–703](../../../../about/ressources/index.html#beale_theo)
 
 
 

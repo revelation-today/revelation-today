@@ -54,7 +54,7 @@ Das Kommen des Reiches Gottes (Israel wird herrschen) kommt auf versteckte Weise
 - [der verborgene Schatz und die Perle](https://www.bibleserver.com/SLT/Matth%C3%A4us13%2C44-46) — der Schatz muss gesucht werden, wenn gefunden, gibt man alles auf
 
 
-Auch die Beschreibung der Seligpreisungen sind eine Herausforderung für Israel —denn es fordert Israel heraus, das wahre Israel zu sein, denn alle Verheißungen gelten den Treuen in Israel:
+Auch die Beschreibung der Seligpreisungen sind eine Herausforderung für Israel — denn es fordert Israel heraus, das wahre Israel zu sein, denn alle Verheißungen gelten den Treuen in Israel:
 
 - [Die Armen im Geist erben das Königreich](https://www.bibleserver.com/SLT/Matth%C3%A4us5%2C3).
 - [Die, die trauern, werden getröstet (mit Neugeburt von Israel)](https://www.bibleserver.com/SLT/Matth%C3%A4us5%2C4).

@@ -20,30 +20,11 @@ Der Anfang des Markusevangeliums enthält einige Hinweise auf den verheißenen A
 
 <p>Die Struktur im Evangelium von Markus reflektiert die Struktur von Jesaja</p>
 
-
-| Markus | Jesaja 40-66 | Erklärung |
-|--------|--------------|-----------|
-| Jesu Dienst in Galiläa und darüber hinaus (1/16-8/21,26) |
-			Menschen werden von Dämonen freigesetzt
-[Ablehnung Jesu (Beelzebub)](https://www.bibleserver.com/SLT/Markus3%2C22-30) resultiert [in Verhärtung der Herzen](https://www.bibleserver.com/SLT/Markus4%2C11-13)
-
-<td style="width:30%;">Israel sit von Sklaverei befreit durch Gott den Krieger und Heiler</td>
-			Israel ist von Babel befreit
-[Ablehnung Gott: Gott wird ihr Feind](https://www.bibleserver.com/SLT/Jesaja63%2C10)
-<td style="width:30%;">Befreiung von Dämonen zegit Autoritt Jesu, wobei sich Jesus auf Gott als den Krieger bezieht, der Menschen aus dem Gefngnis entläßt</td>
-			Menschen werden von Dämonen gefangen gehalten
-
-<tr>
-<td>Mk.8/22,27-10/15,52: Jesus leitet die "blinden" Jünger auf den "Weg"</td></tr>
-			Heilen von Blinden und Tauben, Jünger sind am Anfang auch blind, aber sehen wieder
-<td>[Gott leitet die "Blinden" auf dem "Weg"](https://www.bibleserver.com/SLT/Jesaja42%2C16)</td>
-<td>Jesu Leiden ist der Weg, auf dem der Auszug passiert (Jes.53: Knecht geht den Weg durch seinen Tod (Mk.10/45))</td>
-<tr>
-<td>Mk.10/46;11/1-16/8: Jesus schließliche Ankunft in Jerusalem</td>
-<td>Israel kommt schließliche in Jerusalem an</td>
-<td>Jesus veflucht den Feigenbaum: Referenz zum Anfang: [Gericht oder Verheißung, nur wenn Frucht bringt](https://www.bibleserver.com/SLT/Offenbarung17%2C14)</td>
-</tr>
-
+| Markus | Jesaja 40-66 | Erläuterung |
+|--------|--------------|-------------|
+| Jesu Wirken in Galiläa und darüber hinaus (1/16-8/21:26) </br> Menschen werden von Dämonen befreit. </br> [Ablehnung von Jesus (Beelzebub)](https://www.bibleserver.com/SLT/Markus3%2C22-30) führt [zur Verhärtung der Herzen](https://www.bibleserver.com/SLT/Markus4%2C11-13). | Israel wird von Gott, dem Krieger und Heiler, aus der Sklaverei befreit</br> Israel wird aus Babel befreit</br> [Ablehnung Gottes: Gott wird zu ihrem Feind](https://www.bibleserver.com/SLT/Jesaja63%2C10) | Die Befreiung von Dämonen zeigt die Autorität Jesu und verweist auf Gott als den Krieger, der Menschen aus dem Gefängnis befreit.</br> Menschen werden von Dämonen gefangen gehalten. |
+| Mk.8/22,27-10/15,52: Jesus führt die "blinden" Jünger auf den "Weg" </br> Heilung der Blinden und Tauben, Jünger sind zunächst auch blind, sehen aber wieder. | [Gott führt die "Blinden" auf den "Weg"](https://www.bibleserver.com/SLT/Jesaja42%2C16) | Jesu Leiden ist der Weg, auf dem der Exodus geschieht (Jes.53: Knecht geht den Weg durch seinen Tod (Mk.10/45)) |
+| Mk.10/46;11/1-16/8: Jesu letztendliche Ankunft in Jerusalem | Israels letztendliche Ankunft in Jerusalem | Jesus verhüllt den Feigenbaum: Hinweis auf den Anfang: [Gericht oder Verheißung, nur wenn er Früchte trägt](https://www.bibleserver.com/SLT/Offenbarung17%2C14) |
 
 ## Der zweite Auszug in Lukas
 
@@ -95,6 +76,9 @@ Der zweite Auszug, auf den Israel so lange gewartet hat, ist mit Jesus verbunden
 Das Evangelium zeigt die Spannung zwischen der Wiederherstellung Israels, das an Jesus glaubt, und der Rettung der Völker, die miteinander verbunden sind.
 
 
+## Zur Vertiefung
+
+[Beale, A New Testament biblical theology, Seiten 694–703](../../../../about/ressources/index.html#beale_theo)
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-second-exodus.de.md)

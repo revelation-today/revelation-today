@@ -153,7 +153,7 @@ params:
       sortOrder: desc # or "asc"
 
   comments:
-    enable: true
+    enable: false
     type: giscus
 
     # https://giscus.app/

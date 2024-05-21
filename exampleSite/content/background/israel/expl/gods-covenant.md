@@ -91,7 +91,7 @@ The Bible uses the word “heset” = “covenant loyalty” which is a word tha
 ## Dig Deeper
 
 <a name="7138"></a>
-Sandra Richter, The Epic of Eden, pages 69
+[Sandra Richter, The Epic of Eden, pages 69-](../../../../about/ressources/index.html#richter)
 
 
 

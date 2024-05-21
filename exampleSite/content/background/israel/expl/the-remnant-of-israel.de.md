@@ -114,6 +114,10 @@ Sie sind in Israel integriert mit den gleichen Rechten wie die in Israel Geboren
 Diese Szenen beschreiben Nichtjuden, die eingeheiratet haben. Die Tatsache, dass sie eigenes Land bekommen haben, macht sie zu Israeliten, denn [nur Israeliten können Land bekommen](https://www.bibleserver.com/SLT/3.Mose25%2C23).
 
 
+## Zur Vertiefung
+
+[Beale, A New Testament biblical theology, Seiten 658–669](../../../../about/ressources/index.html#beale_theo)
+
 
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-remnant-of-israel.de.md)

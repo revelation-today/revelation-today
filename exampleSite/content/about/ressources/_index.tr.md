@@ -36,79 +36,88 @@ Her kitap için sadece bir örnek kullandım, ancak tercih ettiğiniz yerden sat
 
 ## Anahtar kitaplar
 
-<a name="cd56"></a>
+<a name="beale_rev"></a>
 
 ### G. K. Beale: Revelation
 
-<a name="1b3a"></a>
 [Bu bir ana referans ama 1000 sayfalık bir kitap](https://www.logos.com/product/3467/the-book-of-revelation). Orada benim atıfta bulunduğumdan çok daha fazlası var. Her şeye katılmıyorum ama esas olarak onun argümanlarını takip ediyorum. Dilbilgisi ve diğer metinlere derinlemesine giriyor. Eğer bu çok detaylı geldiyse, [pdf ](https://www.pdfdrive.com/revelation-a-shorter-commentary-e194689538.html)olarak da mevcut olan daha küçük versiyonu da tercih edebilirsiniz.
 
+<a name="bauckham_rev"></a>
 
 ### Richard Bauckham: The theology of the book of Revelation
 
-<a name="3fe8"></a>
 Bu çok yoğun ve faydalı bir referans. Okuması oldukça kolay ve içgörülerle dolu ve [pdf olarak ücretsiz temin edilebilir](https://www.pdfdrive.com/the-theology-of-the-book-of-revelation-new-testament-theology-e156641822.html).
 
 
 ## Ek olarak okumak güzel
 
-<a name="b044"></a>
+<a name="aune_rev"></a>
 
 ### David Aune: Revelation
 
-<a name="a493"></a>
 Bu çok [büyük bir](https://www.logos.com/product/208586/revelation-3-vols) eserdir ve ucuz da değildir, ancak çok fazla tarihsel arka plan, birçok teolojik pozisyon ve kapsamlı gramer analizi verir. Okuması bazen zor olabiliyor ve zor pasajlarda her zaman bir cevap bulunmuyor ama cevabı açık bırakıyor. Kesinlikle başlangıç için değil ama kapsamlı bir kütüphane.
 
+<a name="goreman"></a>
 
 ### Michael Goreman: Reading Revelation Responsible
 
-<a name="272d"></a>
 Bu, kitabın edebiyat türünü anlamak için [iyi bir kaynaktır](https://www.logos.com/product/121427/reading-revelation-responsibly-uncivil-worship-and-witness?campaignid=18467614226&amp;adgroupid=142254630185&amp;keyword=&amp;device=m&amp;utm_source=google&amp;utm_medium=advertising_cpc&amp;utm_campaign=google_search-keyword_dsa_logos_de_en&amp;gclid=CjwKCAiA8OmdBhAgEiwAShr406IHCnZ9JreBUdDWS8tQrGegLBhyy8dgabdZmygZ4DCZb_yOlogPpxoCW9YQAvD_BwE).
 
+<a name="bauckham_climax"></a>
 
 ### Richard Bauckham: The climax of prophecy
 
-<a name="a59a"></a>
 [Çok iyi bir okuma](https://www.logos.com/product/168132/climax-of-prophecy-studies-on-the-book-of-revelation) ama yine de başlangıç kitabı olarak değil. Vahiy boyunca farklı konulara bakıyor ve çok fazla arka plan bilgisi getiriyor.
 
+<a name="fee_rev"></a>
 
 ### Gordon Fee: Revelation
 
-<a name="b6aa"></a>
 [İyi bir kitap](https://www.perlego.com/book/878981/revelation-pdf) ama benim için ana içerik kaynağı değil.
 
 
 ## Tamamlayıcı konular
 
-<a name="67ac"></a>
+<a name="dorsey"></a>
 
 ### David Dorsey: The literary structure of the Old Testament
 
-<a name="a323"></a>
 İbranice edebiyatın nasıl okunacağına dair [harika bir kitap](https://www.logos.com/product/39605/the-literary-structure-of-the-old-testament-a-commentary-on-genesis-malachi).
 
+<a name="beale_dwell"></a>
 
 ### G.K.Beale, Kim Mitchell: God dwells among us
 
-<a name="4874"></a>
 Tapınak konusu hakkında [harika bir kitap](https://www.amazon.de/-/en/G-K-Beale-ebook/dp/B095BL9G66)
 
+<a name="richter"></a>
+
+### Sandra L. Richter: The epic of Eden
+
+[Antlaşma kavramını çok net bir şekilde açıklayan harika bir kitap](https://www.thalia.de/shop/home/artikeldetails/A1060694253).
+
+<a name="beale_theo"></a>
+
+## G.K.Beale: A New Testament Biblical Theology
+
+[Temaların Kutsal Kitap boyunca nasıl işlediğini gösteren mükemmel bir kitap](https://www.amazon.co.uk/New-Testament-Biblical-Theology-Unfolding/dp/0801026970).
+
+<a name="sarna_gen"></a>
 
 ### Nahum Sarna: Understanding Genesis
 
-<a name="668c"></a>
 Çıkış’ı daha derinlemesine anlamak istiyorsanız. [İlginç bir kitap yazmış.](https://www.amazon.com/Understanding-Genesis-Heritage-Biblical-Israel/dp/0805202536)
 
+<a name="sarna_exo"></a>
 
 ### Nahum Sarna: Exodus
 
-<a name="23b8"></a>
 Eğer Çıkış’ı daha derinlemesine anlamak istiyorsanız. [Ücretsiz e-kitap olarak mevcut olan ilginç bir kitap yazdı](https://www.amazon.de/-/en/Nahum-M-Sarna/dp/0805210636).
 
+<a name="rossing"></a>
 
 ### Barbara R. Rossing: The Rapture Exposed
 
-<a name="8c07"></a>
 [Bu, kendinden geçişin eleştirel bir değerlendirmesi ve sonuçlarının bir yansımasıdır](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143).
 
 Ayrıca bazı çevrimiçi sunumlar da var:
@@ -117,12 +126,6 @@ Ayrıca bazı çevrimiçi sunumlar da var:
 
 [A good theological summary on some revelation related topics](https://youtube.com/playlist?list=PLfLXMeX_cyNp_YNAlwTdpQVJrrTmuBsU1)
 
-
-## Daha fazla okuma
-
-<a name="d89c"></a>
-- [Bazı ilgi çekici sorular ve konular var](../../../gen/index/keywords/big-topics-in-the-book-of-revelation)
-- [Malzemeye genel bir bakış elde edin](../../../gen/index/expl/overview-on-the-book-of-revelation)
 
 
 

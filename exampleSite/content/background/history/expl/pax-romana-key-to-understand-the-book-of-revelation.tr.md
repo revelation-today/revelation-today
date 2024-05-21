@@ -88,9 +88,9 @@ Bunlar üzerinde düşünmeniz gereken birkaç soru:
 - [Ne tür bir kitap bu?](../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 - [Kitabın Yapısı](../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
+## Derinleştirmek için
 
-
-
+[Beale, Revelation, sayfalar 28–33](../../../../about/ressources/index.html#beale_rev)
 
 
 

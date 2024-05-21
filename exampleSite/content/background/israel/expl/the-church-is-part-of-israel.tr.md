@@ -107,28 +107,13 @@ Tüm kötülüklerden kurtarmak, [İsrail’in tüm kötülüklerden kurtarılac
 
 ## Bakanlık
 
-<a name="d3e5"></a><p>[Isaiah 49](https://www.bibleserver.com/TR/Hezekiel9%2C39) kilisede yerine gelir</p>.
+<a name="d3e5"></a>
 
+[Isaiah 49](https://www.bibleserver.com/TR/Hezekiel9%2C39) kilisede yerine gelir.
 
-| İsaiah 49 | İsa |  kilisede yerine gelir |
-|-----------|-----|------------------------|
-| 
-[Ve bana dedi ki, kendisini yücelttiğim kulum, İsrail'im sensin.](https://www.bibleserver.com/TR/Ye%C5%9Faya49%2C3) |.
-			[Ve şimdi, Yakup'u kendisine geri getirmek için beni kulu olarak ana rahminden yaratan RAB -İsrail toplanmadı, yine de RAB'bin gözünde onurlandırıldım ve Tanrım gücüm oldu- evet, diyor ki, "Bu Yakup'un oymaklarını diriltmek ve İsrail'den korunanları geri getirmek için kulum olman küçük; ama seni aynı zamanda Gentiles'e ışık olarak koydum, öyle ki dünyanın sonuna kadar benim kurtuluşum olasın! "](https://www.bibleserver.com/TR/Ye%C5%9Faya49%2C5-6)
-[ve seni koruyacağım ve seni halk için bir antlaşma, uluslar için bir ışık yapacağım; öyle ki körlerin gözlerini açarsın, zindandan bağlı olanları çıkarırsın](https://www.bibleserver.com/TR/Ye%C5%9Faya42%2C6-7) ve <span style="color:green;">karanlıkta</span> oturanları zindandan çıkarırsın. 
-[Körleri bilmedikleri bir yoldan götüreceğim, onlara bilmedikleri yollardan kılavuzluk edeceğim; karanlığı önlerinde aydınlık, engebeyi düzlük yapacağım. Bu sözleri yerine getireceğim ve bırakmayacağım."](https://www.bibleserver.com/TR/Ye%C5%9Faya42%2C16)
-
-<td style="width:25%;">
-[a light for revelation to the pagans and for glorification of your people Israel !](https://www.bibleserver.com/TR/Luka2%2C32)</td>
-[yani, Mesih'in acı çekmesi gerektiğini ve ölülerin dirilişinin ilk meyvesi olarak halka ve ayrıca paganlara ışık göstereceğini vaaz edecekti.](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri26%2C23)
-
-<td style="width:25%;">
-[Çünkü Rab bize şöyle buyurdu: "Sizi Gentililer için ışık olarak belirledim, öyle ki dünyanın uçlarına](https://www.bibleserver.com/TR/Vahiy17%2C3)</td> <span style="color:brown;">kurtuluş olasınız!"</span>
-[Onların gözlerini açmak için, karanlıktan aydınlığa ve Şeytan'ın egemenliğinden Tanrı'ya dönmeleri için, günahlarının bağışlanmasını ve Bana iman ederek kutsal kılınanlar arasında miras alabilmeleri için!](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri26%2C18)
-
-
-
-
+| Yeşaya 49 | İsa | kilisede gerçekleşmiştir |
+|-----------|-------|------------------------|
+| [Ve bana dedi: Sen benim kulumsun, <span style="color:red;">kendisini yücelttiğim</span> İsrail'sin.] (https://www.bibleserver.com/TR/Ye%C5%9Faya49%2C3) </br> [Ve şimdi beni kulu olmam, Yakup'u kendisine geri getirmem için ana rahminde şekillendiren RAB -İsrail toplanmamıştı, yine de RAB'bin gözünde onurlandırıldım ve Tanrım benim gücümdü- evet, diyor ki, "Bu <span style="color: kırmızı;">küçüktür</span> ki, Yakup'un oymaklarını diriltmek ve <span style="color:brown;">İsrail</span>'den korunanları geri getirmek için benim kulumsun; ama seni aynı zamanda <span style="color: yeşil;">ışık</span> olarak <span style="color:brown;">Gentiles</span>'e verdim ki, <span style="color:black;">dünyanın sonuna kadar benim kurtuluşum olasın</span>! "](https://www.bibleserver.com/TR/Ye%C5%9Faya49%2C5-6) </br>[ve seni koruyacağım ve seni halk için bir antlaşma, diğer uluslar için bir <span style="color:green;">ışık</span> olarak koyacağım; öyle ki, <span style="color: yeşil;">körlerin</span> gözlerini açın, <span style="color:red;">zindandan</span> bağlı olanları ve <span style="color:green;">karanlıkta</span> oturanları zindandan çıkarın. ] (https://www.bibleserver.com/TR/Ye%C5%9Faya42%2C6-7) </br> [Körleri bilmedikleri yoldan götüreceğim, onlara bilmedikleri yollarda kılavuzluk edeceğim; <span style="color:green;">karanlığı</span> önlerine ışık, engebeyi düzlük yapacağım. Bu sözleri yerine getireceğim ve onları bırakmayacağım.](https://www.bibleserver.com/TR/Ye%C5%9Faya42%2C16) | [<span style="color:green;">paganlara</span> vahiy için bir <span style="color:brown;">ışık</span> ve halkının <span style="color:brown;">İsrail</span>'inin <span style="color:red;">yüceltilmesi</span> için!](https://www.bibleserver.com/TR/Luka2%2C32) </br> [yani, Mesih'in acı çekmesi gerektiği ve ölülerin dirilişinin ilk meyvesi olarak <span style="color:green;">ışık</span> <span style="color:brown;">halkına</span> ve ayrıca <span style="color:brown;">Gentiles</span>'e vaaz vereceği](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri26%2C23) | [Çünkü Rab bize şöyle buyurdu: "Dünyanın uçlarına</span> <span style="color:brown;">kurtuluş olasınız diye sizi <span style="color:brown;">Gentililere</span> <span style="color:brown;">ışık</span> olarak gönderdim!"](https://www.bibleserver.com/TR/Vahiy17%2C3) </br> [Onların <span style="color:green;">gözlerini</span> açmak için, <span style="color:green;">karanlıktan aydınlığa</span> ve <span style="color:red;">Şeytan'ın egemenliğinden Tanrı'ya</span> dönsünler, günahları bağışlansın ve bana iman ederek kutsal kılınanlar arasında miras alsınlar diye!](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri26%2C18) |
 
 
 ## Ruh’un Dökülmesi
@@ -144,23 +129,13 @@ Ruhun dökülmesi [son günlerde](https://www.bibleserver.com/TR/El%C3%A7ilerin%
 <p>Elçilerin İşleri 2, Elçilerin İşleri 1'in yerine getirilmesidir (Kutsal Ruh'la doldurulmuştur. Elçilerin İşleri 1/8, Yeşaya'nın gerçekleşmesidir</p>.
 
 
-| İsaiah |
-|--------|
-<tbody>
-<tr>
-<td style="width:50%;">
-[yükseklerden gelen Ruh üzerimize dökülene kadar. O zaman çöl bir meyve bahçesine dönüşecek ve meyve bahçesi bir orman sayılacak](https://www.bibleserver.com/TR/Ye%C5%9Faya32%2C15)</td></tr></tbody>.
-			[Siz tanıklarımsınız, diyor RAB, seçtiğim kulum, beni tanıyıp bana inanın ve benim O olduğumu görün; benden önce Tanrı yoktu, benden sonra da olmayacak](https://www.bibleserver.com/TR/Ye%C5%9Faya43%2C10).
-			[ve siz tanıklarımsınız, diyor RAB, ben Tanrıyım](https://www.bibleserver.com/TR/Ye%C5%9Faya43%2C12).
-			[Ayrıca dünyanın sonuna dek kurtuluşum olasınız diye sizi Öteki uluslara ışık](https://www.bibleserver.com/TR/Ye%C5%9Faya49%2C6) olarak belirledim!"
+| Yeşaya | Elçilerin İşleri 1:8 |
+|--------|----------------------|
+| [<span style="color:red;">Yükseklerden gelen Ruh üzerimize dökülene kadar</span>. O zaman çöl meyve bahçesine, meyve bahçesi de ormana dönüşecek](https://www.bibleserver.com/TR/Ye%C5%9Faya32%2C15) </br> [<span style="color:green;">Siz benim tanıklarımsınız</span>, diyor RAB ve seçtiğim kulum, beni tanıyıp inanasınız ve O olduğumu göresiniz diye; benden önce hiçbir Tanrı oluşmadı ve benden sonra da olmayacak](https://www.bibleserver.com/TR/Ye%C5%9Faya43%2C10). </br> [<span style="color:green;">Ve sizler tanıklarımsınız</span>, diyor RAB, ben Tanrıyım](https://www.bibleserver.com/TR/Ye%C5%9Faya43%2C12). </br> [Ama sizi öteki uluslara ışık olmanız için de görevlendirdim, öyle ki, <span style="color:brown;">dünyanın uçlarına kadar kurtuluşum</span> olasınız!](https://www.bibleserver.com/TR/Ye%C5%9Faya49%2C6) | ama güç alacaksınız ([Luka](https://www.bibleserver.com/TR/Luka24%2C49)) <span style="color:red;">Kutsal Ruh üzerinize geldiğinde</span>, Yeruşalim'de, bütün Yahudiye ve Samiriye'de ve <span style="color:brown;">dünyanın sonuna kadar</span> <span style="color:green;">şahitlerim</span> olacaksınız! (Bkz. [İşaya](https://www.bibleserver.com/TR/Ye%C5%9Faya49%2C6)'ya atıfta bulunan [Havariler Tarihi](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri13%2C47)). |
 
-<td style="width:50%;">
-			ama <span style="color:red;">Kutsal Ruh</span> üzerinize geldiğinde güç alacaksınız ([Luka](https://www.bibleserver.com/SLT/Lukas24%2C49)'nın gerçekleşmesi) ve Yeruşalim'de, bütün Yahudiye ve Samiriye'de ve <span style="color:blue;">dünyanın sonuna kadar</span> <span style="color:green;">tanıklarım</span> olacaksınız! ([İsaiah](https://www.bibleserver.com/TR/Ye%C5%9Faya49%2C6)'a atıfta bulunan [Havarilerin Tarihi](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri13%2C47)'ne bakın)
-			</td>
+## Derinleştirmek için
 
-
-
-
+[Beale, A New Testament biblical theology, sayfalar 669–679](../../../../about/ressources/index.html#beale_theo)
 
 
 [](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-church-is-part-of-israel.tr.md)

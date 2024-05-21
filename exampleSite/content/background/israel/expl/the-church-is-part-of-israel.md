@@ -107,28 +107,14 @@ Redeem from all wickedness is a reference to the [Psalms where Israel is promise
 
 ## The ministry
 
-<a name="121f"></a><p>[Isaiah 49](https://www.bibleserver.com/NIV/Ezekiel9%2C39) is fulfilled in the church</p>
+<a name="121f"></a>
+
+[Isaiah 49](https://www.bibleserver.com/NIV/Ezekiel9%2C39) is fulfilled in the church.
 
 
 | Isaiah 49 | Jesus | is fulfilled in the church |
 |-----------|-------|----------------------------|
-| 
-[And he said unto me, Thou art my servant, thou art Israel, by whom I glorify.](https://www.bibleserver.com/NIV/Isaiah49%2C3) |.
-			[And now the LORD, who formed me from the womb to be his servant, to bring Jacob back to him-Israel not gathered, yet I was honored in the eyes of the LORD, and my God was my strength-yes, he says, "It is small that thou art my servant to raise up the tribes of Jacob, and to bring again the preserved out of Israel; but I have set thee also for light unto the Gentiles, that thou mayest be my salvation unto the end of the earth! "](https://www.bibleserver.com/NIV/Isaiah49%2C5-6)
-[and I will keep thee, and set thee for a covenant for the people, for a light for the Gentiles; that thou mayest not see the open the eyes of the blind, bring out](https://www.bibleserver.com/NIV/Isaiah42%2C6-7) the <span style="color:red;">bound from prison</span> and from the dungeon those who sit in <span style="color:green;">darkness</span>. 
-[I will lead the blind by a way they know not, and guide them in paths unknown to them; I will make the darkness light before them, and the hilly a plain. These words I will fulfill and will not let go of them.](https://www.bibleserver.com/NIV/Isaiah42%2C16)
-
-<td style="width:25%;">
-[a light for revelation to the pagans and for glorification of your people Israel !](https://www.bibleserver.com/NIV/Luke2%2C32)</td>.
-			[namely, that the Christ must suffer, and that, as the firstfruits from the resurrection of the dead, he would preach light to the people and also to the Gentiles .](https://www.bibleserver.com/NIV/Acts26%2C23)
-
-<td style="width:25%;">
-[For thus the Lord has commanded us, "I have set you as light to the Gentiles, that you may be salvation to the ends of the earth !"](https://www.bibleserver.com/NIV/Revelation17%2C3)</td>
-[To open their eyes , that they may be converted from darkness to light and from the dominion of Satan to God , that they may receive forgiveness of sins and an inheritance among those who are sanctified by faith in me!](https://www.bibleserver.com/NIV/Acts26%2C18)
-
-
-
-
+| [And he said unto me, Thou art my servant, thou art Israel, by <span style="color:red;">whom I glorify</span>.](https://www.bibleserver.com/NIV/Isaiah49%2C3) </br> [And now the LORD, who formed me from the womb to be his servant, to bring Jacob back to him-Israel not gathered, yet I was honored in the eyes of the LORD, and my God was my strength-yes, he says, "It <span style="color:red;">is small</span> that thou art my servant to raise up the tribes of Jacob, and to bring again the preserved out of <span style="color:brown;">Israel</span>; but I have set thee also for <span style="color:green;">light</span> unto the <span style="color:brown;">Gentiles</span>, that <span style="color:black;">thou mayest be my salvation unto the end of the earth</span>! "](https://www.bibleserver.com/NIV/Isaiah49%2C5-6) </br>[and I will keep thee, and set thee for a covenant for the people, for a <span style="color:green;">light</span> for the Gentiles; that thou mayest not see the <span style="color:green;">open the eyes of the blind</span>, bring out the <span style="color:red;">bound from prison</span> and from the dungeon those who sit in <span style="color:green;">darkness</span>.](https://www.bibleserver.com/NIV/Isaiah42%2C6-7) </br> [I will lead the blind by a way they know not, and guide them in paths unknown to them; I will make the <span style="color:green;">darkness light</span> before them, and the hilly a plain. These words I will fulfill and will not let go of them.](https://www.bibleserver.com/NIV/Isaiah42%2C16) | [a <span style="color:green;">light</span> for revelation to the <span style="color:brown;">pagans</span> and for <span style="color:red;">glorification</span> of your people <span style="color:brown;">Israel</span>!](https://www.bibleserver.com/NIV/Luke2%2C32) </br> [namely, that the Christ must suffer, and that, as the firstfruits from the resurrection of the dead, he would preach <span style="color:green;">light</span> <span style="color:brown;">to the people</span> and also to the <span style="color:brown;">Gentiles</span>.](https://www.bibleserver.com/NIV/Acts26%2C23) | [For thus the Lord has commanded us, "I have set you as <span style="color:green;">light</span> to the <span style="color:brown;">Gentiles</span>, that you may be <span style="color:brown;">salvation to the ends of the earth</span>!"](https://www.bibleserver.com/NIV/Revelation17%2C3) </br> [To open their <span style="color:green;">eyes</span>, that they may be converted from <span style="color:green;">darkness to light</span> and from the <span style="color:red;">dominion of Satan to God</span>, that they may receive forgiveness of sins and an inheritance among those who are sanctified by faith in me!](https://www.bibleserver.com/NIV/Acts26%2C18) |
 
 
 ## Pouring out of the Spirit
@@ -141,28 +127,18 @@ But if you look at the context, there is an important point. This describes the 
 The outpouring of the Spirit was to take place [in the last days](https://www.bibleserver.com/NIV/Acts2%3A17), a phrase used in that way only in [Isaiah](https://www.bibleserver.com/NIV/Isaiah2%3A2), where it describes when the nations come to Jerusalem. These [nations are listed](https://www.bibleserver.com/NIV/Acts2%3A5-11) and are a [smaller version of the scattered list from the Tower of Babel](https://www.bibleserver.com/NIV/Genesis10), showing that this applies to all nations.
 
 When [Cornelius and his household received the Holy Spirit](https://www.bibleserver.com/NIV/Acts10%3A44-48), it was so [astonishing that there were no objection anymore to Peter to enter a Gentile house](https://www.bibleserver.com/NIV/Acts11%3A1-18).
-<p>Acts 2 is fulfillment of Acts 1 (filled with the Holy Spirit. Acts 1/8 is fulfillment of Isaiah</p>
+
+Acts 2 is fulfillment of Acts 1 (filled with the Holy Spirit. Acts 1/8 is fulfillment of Isaiah.
 
 
-| Isaiah |
-|--------|
-<tbody>
-<tr>
-<td style="width:50%;">
-[until the Spirit from on high is poured out upon us. Then the desert will become a garden of fruit, and the garden of fruit will be esteemed as a forest.](https://www.bibleserver.com/NIV/Isaiah32%2C15)</td></tr></tbody>.
-			[You are my witnesses, says the LORD, and my servant whom I have chosen, that you may know and believe me and see that I am he; before me there was no God formed, and after me there will be none](https://www.bibleserver.com/NIV/Isaiah43%2C10).
-			[And ye are my witnesses, saith the LORD, that I am God](https://www.bibleserver.com/NIV/Isaiah43%2C12).
-			[But I have also set you to be light to the Gentiles,](https://www.bibleserver.com/NIV/Isaiah49%2C6) that you may be my salvation to the ends of the earth!
-
-<td style="width:50%;">
-			but you will receive power (fulfillment of [Luke](https://www.bibleserver.com/NIV/Luke24%2C49)) when the <span style="color:red;">Holy Spirit has come upon you</span>, and you will be <span style="color:green;">my witnesses</span> in Jerusalem and in all Judea and Samaria and <span style="color:blue;">to the ends of the earth</span>! (See [History of the Apostles](https://www.bibleserver.com/NIV/Acts13%2C47), which refers to [Isaiah](https://www.bibleserver.com/NIV/Isaiah49%2C6)).
-			</td>
-
+| Isaiah | Acts 1:8 |
+|--------|----------|
+| [until the <span style="color:red;">Spirit from on high is poured out upon us</span>. Then the desert will become a garden of fruit, and the garden of fruit will be esteemed as a forest.](https://www.bibleserver.com/NIV/Isaiah32%2C15) </br> [<span style="color:green;">You are my witnesses</span>, says the LORD, and my servant whom I have chosen, that you may know and believe me and see that I am he; before me there was no God formed, and after me there will be none](https://www.bibleserver.com/NIV/Isaiah43%2C10). </br> [<span style="color:green;">And ye are my witnesses</span>, saith the LORD, that I am God](https://www.bibleserver.com/NIV/Isaiah43%2C12). </br> [But I have also set you to be light to the Gentiles, that <span style="color:brown;">you may be my salvation to the ends of the earth</span>!](https://www.bibleserver.com/NIV/Isaiah49%2C6) | but you will receive power (fulfillment of [Luke](https://www.bibleserver.com/NIV/Luke24%2C49)) when the <span style="color:red;">Holy Spirit has come upon you</span>, and you will be <span style="color:green;">my witnesses</span> in Jerusalem and in all Judea and Samaria and <span style="color:brown;">to the ends of the earth</span>! (See [History of the Apostles](https://www.bibleserver.com/NIV/Acts13%2C47), which refers to [Isaiah](https://www.bibleserver.com/NIV/Isaiah49%2C6)). |
 
 ## Dig Deeper
 
 <a name="9150"></a>
-Beale, A New Testament biblical theology, pages 669–679
+[Beale, A New Testament biblical theology, pages 669–679](../../../../about/ressources/index.html#beale_theo)
 
 
 

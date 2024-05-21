@@ -18,31 +18,13 @@ Markos Müjdesi’nin başlangıcında Mısır’dan Çıkış’a pek çok gön
 - [Ve gökten bir ses geldi: ‘Sen benim sevdiğim Oğlum’sun; senden hoşnudum.”](https://www.bibleserver.com/TR/Markos1%3A11) Yeşaya’da Rab’bin sadık hizmetkârına atıfta bulunur
 - [Yahya hapse atıldıktan sonra İsa, Tanrı’nın müjdesini duyurmak için Celile’ye gitti. “Zaman geldi” dedi. ‘Tanrı’nın Egemenliği yaklaştı. Tövbe edin ve iyi habere inanın!”](https://www.bibleserver.com/TR/Markos1%3A14-15) [Sonunda yeni bir kralın duyurusu](https://www.bibleserver.com/TR/Ye%C5%9Faya52%3A7)
 
-<p>Markos'un Müjdesi'ndeki yapı Yeşaya'nın yapısını yansıtır</p>
-
+Markos'un Müjdesi'ndeki yapı Yeşaya'nın yapısını yansıtır
 
 | Markos | Yeşaya 40-66 | Açıklama |
-|--------|--------------|----------|
-| İsa'nın Celile ve ötesindeki hizmeti (1/16-8/21,26) |
-			İnsanlar iblisler tarafından serbest bırakılır
-[İsa'nın Reddedilmesi (Beelzebub)](https://www.bibleserver.com/TR/Markos3%2C22-30) sonuçları  [kalplerin katılaşmasında](https://www.bibleserver.com/TR/Markos3%2C11-13)
-
-<td style="width:30%;">İsrail, Savaşçı ve Şifacı Tanrı tarafından kölelikten kurtarılır.</td>
-			İsrail Babil'den kurtuldu
-[Tanrı'yı reddetmek: Tanrı onların düşmanı olur](https://www.bibleserver.com/TR/Ye%C5%9Faya63%3A10)
-<td style="width:30%;">Cinlerden kurtuluş İsa'nın yetkisine işaret eder ve Tanrı'nın insanları hapisten kurtaran savaşçı olduğuna gönderme yapar.</td>
-			İnsanlar şeytanlar tarafından tutsak edilir
-
-<tr>
-<td>Mk.8/22,27-10/15,52: İsa "kör" öğrencilerine "yolda" önderlik eder.</td></tr>
-			Kör ve sağırları iyileştirir, öğrenciler de başlangıçta kördür ama tekrar görürler
-<td>[Tanrı "körlere" "yolda" rehberlik eder.](https://www.bibleserver.com/TR/Ye%C5%9Faya42%2C16)</td>
-<td>İsa'nın çektiği acı, göçün gerçekleştiği yoldur (Yşa.53: Hizmetkar ölümüyle yol alır (Mk.10/45))</td>
-<tr>
-<td>Mk.10/46;11/1-16/8: İsa'nın Yeruşalim'e nihai varışı</td>
-<td>İsrail sonunda Kudüs'e ulaştı</td>
-<td>İsa incir ağacını lanetler: başlangıca gönderme: [Yargı ya da vaat, sadece meyve verirse](https://www.bibleserver.com/TR/Vahiy17%2C14)</td>
-</tr>
+|------|----------------|----------|
+| İsa'nın Celile ve ötesindeki hizmeti (1/16-8/21:26) </br> İnsanlar cinler tarafından serbest bırakılır. </br> [İsa'nın (Beelzebub) reddedilmesi](https://www.bibleserver.com/TR/Markos3%2C22-30) [yüreklerin katılaşmasıyla](https://www.bibleserver.com/TR/Markos4%2C11-13) sonuçlanır. | İsrail, Savaşçı ve Şifacı Tanrı tarafından kölelikten kurtarılır</br> İsrail Babil'den kurtarılır </br> [Tanrı'yı reddetmek: Tanrı onların düşmanı olur](https://www.bibleserver.com/TR/Ye%C5%9Faya63%2C10) | Cinlerden kurtuluş İsa'nın yetkisini gösterir, Tanrı'ya insanları hapisten kurtaran savaşçı olarak gönderme yapar.</br> İnsanlar cinler tarafından tutsak edilir. |
+| Mk.8/22,27-10/15,52: İsa "kör" öğrencilerine "yolda" rehberlik eder </br> Kör ve sağırları iyileştirir, öğrenciler de ilk başta kördür, ancak tekrar görürler. | [Tanrı "körlere" "yolda" rehberlik eder] (https://www.bibleserver.com/TR/Ye%C5%9Faya42%2C16) | İsa'nın acı çekmesi, çıkışının gerçekleştiği yoldur (Yşa.53: hizmetkâr ölümüyle yol alır (Mk.10/45)) |
+| Mk.10/46;11/1-16/8: İsa'nın Kudüs'e nihai varışı | İsrail'in Kudüs'e nihai varışı | İsa incir ağacını örter: başlangıca gönderme: [yargı ya da vaat, yalnızca meyve verirse] (https://www.bibleserver.com/TR/Vahiy17%2C14) |
 
 
 ## Luka’daki yeni Çıkış
@@ -94,6 +76,9 @@ Bu karşılaştırma Elçilerin İşleri ve Yeşaya arasındaki gerilimi göster
 
 Müjde, Mesih’e iman eden İsrail’in restorasyonu ile diğer ulusların kurtarılması arasındaki gerilimi gösterir.
 
+## Derinleştirmek için
+
+[Beale, A New Testament biblical theology, sayfalar 694–703](../../../../about/ressources/index.html#beale_theo)
 
 
 

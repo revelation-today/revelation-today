@@ -94,6 +94,8 @@ Wenn eine Familie ihr Land verkaufen müßte, wären sie ruiniert, also sicherte
 Gott wird als Vater dargestellt, Jesus als Erstgeborener, der sich um seine Geschwister kümmert, und er gibt ein [Haus mit vielen Zimmern](https://www.bibleserver.com/SLT/Johannes14%2C1-3), damit alle zusammen wohnen können.
 
 
+## Zur Vertiefung
 
+[Sandra Richter, The Epic of Eden, Seiten 21–46](../../../../about/ressources/index.html#richter)
 
 [Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-role-of-family-in-the-bible.de.md)

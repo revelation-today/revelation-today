@@ -95,8 +95,7 @@ God is portrayed as a father, Jesus as the first born who takes care of the othe
 
 ## Dig Deeper
 
-<a name="8e9e"></a>
-Sandra Richter, The Epic of Eden, pages 21–46
+[Sandra Richter, The Epic of Eden, pages 21–46](../../../../about/ressources/index.html#richter)
 
 
 

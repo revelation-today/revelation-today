@@ -94,6 +94,9 @@ Tanrı baba olarak, İsa ise diğerleriyle ilgilenen ilk doğan olarak resmedili
 
 
 
+## Derinleştirmek için
+
+[Sandra Richter, The Epic of Eden, sayfalar 21–46](../../../../about/ressources/index.html#richter)
 
 
 

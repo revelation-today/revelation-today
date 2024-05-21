@@ -132,7 +132,7 @@ While the first beast supports the harlot in chapter 17, the second beast suppor
 ## Dig Deeper
 
 <a name="b6e9"></a>
-Beale, Revelation, pages 847–890
+[Beale, Revelation, pages 847–890](../../../../about/ressources/index.html#beale_rev)
 
 
 
