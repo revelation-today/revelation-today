@@ -73,18 +73,12 @@ Es gibt eine starke Parallele zwischen dem Tier in Kapitel 17 und dem Tier in Ka
 | [Kopf wie geschlachtet, wächst nach](https://www.bibleserver.com/SLT/Offenbarung13%2C3) | [5 Könige gefallen, der siebente kommt noch](https://www.bibleserver.com/SLT/Offenbarung17%2C10) |
 | [Wer kann gegen das Tier kämpfen](https://www.bibleserver.com/SLT/Offenbarung13%2C4) | [Tier macht Krieg gegen König der Könige](https://www.bibleserver.com/SLT/Offenbarung17%2C14) |
 | [Gotteslästerliche Reden](https://www.bibleserver.com/SLT/Offenbarung13%2C5-6) | [Gotteslästerliche Name](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
-| [Kämpft gegen Heilige und besiegt sie](https://www.bibleserver.com/SLT/Offenbarung13%2C7) | 
-[Kämpft gegen Lamm und wird überwunden](https://www.bibleserver.com/SLT/Offenbarung17%2C14) |
-[Kämpft gegen Hure und vernichtet sie](https://www.bibleserver.com/SLT/Offenbarung17%2C16)
-
-
-<tr>
-<td>[Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an](https://www.bibleserver.com/SLT/Offenbarung13%2C8)</td>
-<td>[Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt](https://www.bibleserver.com/SLT/Offenbarung17%2C8)</td>
-</tr>
+| [Kämpft gegen Heilige und besiegt sie](https://www.bibleserver.com/SLT/Offenbarung13%2C7) | [Kämpft gegen Lamm und wird überwunden](https://www.bibleserver.com/SLT/Offenbarung17%2C14) </br> [Kämpft gegen Hure und vernichtet sie](https://www.bibleserver.com/SLT/Offenbarung17%2C16) |
+| [Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an](https://www.bibleserver.com/SLT/Offenbarung13%2C8) | [Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt](https://www.bibleserver.com/SLT/Offenbarung17%2C8) |
 
 Genaus gibt es aber auch sehr große Parallelen zwischen dem zweiten Tier und der Hure
-<p>Die Hure und das zweite Tier</p>
+
+## Die Hure und das zweite Tier
 
 
 | Das zweite Tier aus Offenbarung 13 | Die Hure |
@@ -97,7 +91,9 @@ Genaus gibt es aber auch sehr große Parallelen zwischen dem zweiten Tier und de
 | [Macht allen ein Zeichen an Stirn und Hand](https://www.bibleserver.com/SLT/Offenbarung13%2C16) | [Hat Zeichen auf Stirn: Babel](https://www.bibleserver.com/SLT/Offenbarung17%2C5) |
 | [Kann nicht kaufen oder verkaufen ohne Zeichen](https://www.bibleserver.com/SLT/Offenbarung13%2C17) | [Kaufen und verkaufen nicht möglich ohne Hure](https://www.bibleserver.com/SLT/Offenbarung18%2C3) ([Offb.18/11-17](https://www.bibleserver.com/SLT/Offenbarung18%2C11-17)) |
 | [Benötigt Weisheit](https://www.bibleserver.com/SLT/Offenbarung13%2C18) | [Benötigt Weisheit](https://www.bibleserver.com/SLT/Offenbarung17%2C9) |
-<p>Die Macht der Hure wird hier auch ins umgekehrt: Während sie in Kapitel 13 Feuer vom Himmel fallen lassen hat, wird sie nun durch Feuer vernichtet, während sie ein Zeichen an die Stirn macht, wird sie hier selbst an der Stirn gebrandmarkt (wie ein Sklave)</p>
+
+Die Macht der Hure wird hier auch ins umgekehrt: Während sie in Kapitel 13 Feuer vom Himmel fallen lassen hat, wird sie nun durch Feuer vernichtet, während sie ein Zeichen an die Stirn macht, wird sie hier selbst an der Stirn gebrandmarkt (wie ein Sklave).
+
 Aber wo ist der dritte Teil? Er bleibt im Hintergrund wie in Kapitel 13 und macht auch bei den Reitern nichts. Aber man sieht ihn bei der [sechsten Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C13) und in Kapitel [20](https://www.bibleserver.com/SLT/Offenbarung20%2C10).
 
 [Das war auch im historischen Kontext zu sehen](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context): Zwei der Tiere sind deutlich sichtbar, aber Satan ist nicht direkt zu sehen.

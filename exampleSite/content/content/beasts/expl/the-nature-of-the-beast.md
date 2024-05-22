@@ -73,18 +73,12 @@ There is a strong parallel between the beast in chapter 17 and the first beast i
 | [Head as if slaughtered, grows back](https://www.bibleserver.com/NIV/Revelation13%2C3) | [5 kings fallen, the seventh yet to come](https://www.bibleserver.com/NIV/Revelation17%2C10) |
 | [Who can fight against the beast](https://www.bibleserver.com/NIV/Revelation13%2C4) | [Beast makes war on King of Kings](https://www.bibleserver.com/NIV/Revelation17%2C14) |
 | [Speech of blasphemy](https://www.bibleserver.com/NIV/Revelation13%2C5-6) | [Blasphemous name](https://www.bibleserver.com/NIV/Revelation17%2C3) |
-| [Fight against saints and defeat them](https://www.bibleserver.com/NIV/Revelation13%2C7) | 
-[Fights against Lamb and is overcome](https://www.bibleserver.com/NIV/Revelation17%2C14) |
-[Fight against Harlot and destroy](https://www.bibleserver.com/NIV/Revelation17%2C16).
-			
-
-<tr>
-<td>[All who are not written in the book of life worship the beast](https://www.bibleserver.com/NIV/Revelation13%2C8)</td>
-<td>[All who are not written in the book of life are overwhelmed](https://www.bibleserver.com/NIV/Revelation17%2C8)</td>
-</tr>
+| [Fight against saints and defeat them](https://www.bibleserver.com/NIV/Revelation13%2C7) | [Fights against Lamb and is overcome](https://www.bibleserver.com/NIV/Revelation17%2C14) </br> [Fight against Harlot and destroys it](https://www.bibleserver.com/NIV/Revelation17%2C16). |
+| [All who are not written in the book of life worship the beast](https://www.bibleserver.com/NIV/Revelation13%2C8) | [All who are not written in the book of life are overwhelmed](https://www.bibleserver.com/NIV/Revelation17%2C8) |
 
 But there is also a strong connection between the Second Beast in chapter 13 and the Harlot
-<p>The Harlot and the Second Beast</p>
+
+## The Harlot and the Second Beast
 
 
 | The Second Beast of Revelation 13 | The Harlot |
@@ -97,7 +91,9 @@ But there is also a strong connection between the Second Beast in chapter 13 and
 | [Make a sign on forehead and hand](https://www.bibleserver.com/NIV/Revelation13%2C16) | [Has sign on forehead: Babel](https://www.bibleserver.com/NIV/Revelation17%2C5) |
 | [Cannot buy or sell without characters](https://www.bibleserver.com/NIV/Revelation13%2C17) | [Cannot buy or sell without sign](https://www.bibleserver.com/NIV/Revelation18%2C3) ([Offb.18/11-17](https://www.bibleserver.com/NIV/Revelation18%2C11-17)) |
 | [Requires wisdom](https://www.bibleserver.com/NIV/Revelation13%2C18) | [Requires wisdom](https://www.bibleserver.com/NIV/Revelation17%2C9) |
-<p>The power of the harlot is also reversed here into: while in chapter 13 she dropped fire from heaven, now she is destroyed by fire; while she makes a mark on her forehead, here she herself is branded on the forehead (like a slave)</p>
+
+The power of the harlot is also reversed here into: while in chapter 13 she dropped fire from heaven, now she is destroyed by fire; while she makes a mark on her forehead, here she herself is branded on the forehead (like a slave).
+
 So where is the third part? Well he stays in the background as in chapter 13 and does nothing as in the description of the horsemen. But you will see him it [the sixth bowl](https://www.bibleserver.com/NIV/Revelation16%3A13) and in chapter [20](https://www.bibleserver.com/NIV/Revelation20%3A10).
 
 [This was also the case in the historical context](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context): You see the two beasts but you do not see the devil directly.

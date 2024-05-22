@@ -73,19 +73,12 @@ Bölüm 17'deki canavar ile Bölüm 13'teki ilk canavar arasında güçlü bir p
 | [Kafa kesilmiş gibi, tekrar büyüyor](https://www.bibleserver.com/TR/Vahiy13%2C3) | [5 kral öldü, yedincisi henüz gelmedi](https://www.bibleserver.com/TR/Vahiy17%2C10) |
 | [Canavarla kim savaşabilir](https://www.bibleserver.com/TR/Vahiy13%2C4) | [Canavar Kralların Kralına savaş açtı](https://www.bibleserver.com/TR/Vahiy17%2C14) |
 | [Küfür konuşması](https://www.bibleserver.com/TR/Vahiy13%2C5-6) | [Küfürlü isim](https://www.bibleserver.com/TR/Vahiy17%2C3) |
-| [Kutsallara karşı savaşın](https://www.bibleserver.com/TR/Vahiy13%2C7) | ve <span style="color:red;">onları yenin</span>
-<td>
-[Kuzu'a karşı savaşır](https://www.bibleserver.com/TR/Vahiy17%2C14)</td> ve <span style="color:red;">üstesinden gelir</span>
-[yok etmeye fahişe ve karşı savaşın](https://www.bibleserver.com/TR/Vahiy17%2C16).
-			
-
-<tr>
-<td>[Yaşam kitabında yazılı olmayan herkes canavara tapar](https://www.bibleserver.com/TR/Vahiy13%2C8)</td>
-<td>[Hayat kitabında yazılı olmayan herkes bunalıma uğrar](https://www.bibleserver.com/TR/Vahiy17%2C8)</td>.
-		</tr>
+| [Kutsallara karşı savaşın](https://www.bibleserver.com/TR/Vahiy13%2C7) | ve <span style="color:red;">onları yenin</span> | [Kuzu'a karşı savaşır (https://www.bibleserver.com/TR/Vahiy17%2C14)</td> ve <span style="color:red;">üstesinden gelir</span> [yok etmeye fahişe ve karşı savaşın](https://www.bibleserver.com/TR/Vahiy17%2C16) |
+| [Yaşam kitabında yazılı olmayan herkes canavara tapar](https://www.bibleserver.com/TR/Vahiy13%2C8) | [Hayat kitabında yazılı olmayan herkes bunalıma uğrar](https://www.bibleserver.com/TR/Vahiy17%2C8) |
 
 Ancak 13. bölümdeki ikinci canavar ile fahişe arasında da güçlü bir bağ vardır
-<p>Fahişe ve İkinci Canavar</p>
+
+## Fahişe ve İkinci Canavar
 
 
 | Vahiy 13'teki ikinci canavar | Fahişe |
@@ -98,7 +91,9 @@ Ancak 13. bölümdeki ikinci canavar ile fahişe arasında da güçlü bir bağ 
 | [Alnınıza bir işaret yapın ve herkese](https://www.bibleserver.com/TR/Vahiy13%2C16) | [Alnında işaret var: Babel](https://www.bibleserver.com/TR/Vahiy17%2C5) |
 | [Karakterler olmadan alınamaz veya satılamaz](https://www.bibleserver.com/TR/Vahiy13%2C17) | [Fahişe olmadan alım satım mümkün değil ](https://www.bibleserver.com/TR/Vahiy18%2C3) ([Vah.18/11-17](https://www.bibleserver.com/TR/Vahiy18%2C11-17)) |
 | [Gerekli Bilgelik](https://www.bibleserver.com/TR/Vahiy13%2C18) | [Gerekli Bilgelik](https://www.bibleserver.com/TR/Vahiy17%2C9) |
-<p>Burada fahişenin gücü de tersine çevrilmiştir: 13. bölümde gökten ateş düşmesine izin verirken, şimdi ateşle yok edilir, alnına işaret koyarken, burada kendisi (bir köle gibi) alnına damgalanır.</p>
+
+Burada fahişenin gücü de tersine çevrilmiştir: 13. bölümde gökten ateş düşmesine izin verirken, şimdi ateşle yok edilir, alnına işaret koyarken, burada kendisi (bir köle gibi) alnına damgalanır.
+
 Peki üçüncü bölüm nerede? Bölüm 13'te olduğu gibi arka planda kalıyor ve atlı adam tanımında olduğu gibi hiçbir şey yapmıyor. Ama onu [altıncı kasede](https://www.bibleserver.com/TR/Vahiy16%3A13) ve [20. bölümde](https://www.bibleserver.com/TR/Vahiy20%3A10) göreceksiniz.
 
 [Bu durum tarihsel bağlamda da geçerliydi](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context): İki canavarla yüzleşirsiniz ama şeytanı doğrudan görmezsiniz.
