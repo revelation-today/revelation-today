@@ -1,5 +1,6 @@
 {{- $enableFooterSwitches := .Scratch.Get "enableFooterSwitches" | default false -}}
 {{- $displayThemeToggle := site.Params.theme.displayToggle | default true -}}
+{{- $editThisPage := (T "editThisPage") | default "Edit this page"}}
 
 {{- $copyright := (T "copyright") | default "© 2024 Hextra." -}}
 {{- $poweredBy := (T "poweredBy") | default "Powered by Hextra" -}}
@@ -19,6 +20,24 @@
     <div class="hx-mx-auto hx-flex hx-gap-2 hx-py-2 hx-px-4 {{ $footerWidth }}">
       {{- partial "language-switch.html" (dict "context" .) -}}
       {{- with $displayThemeToggle }}{{ partial "theme-toggle.html" }}{{ end -}}
+  <div class="hx-flex hx-justify-items-start hx-flex hx-items-center hx-gap-2 hx-capitalize">
+        {{- if site.Params.editURL.enable -}}
+          {{- $editURL := site.Params.editURL.base | default "" -}}
+          {{- with .Params.editURL -}}
+            {{/* if `editURL` is set in the front matter */}}
+            {{- $editURL = . -}}
+          {{- else -}}
+            {{- with .File -}}
+              {{/* `.FileInfo.Meta.SourceRoot` is a Hugo internal field, e.g. `/path/to/repo/content/en/` */}}
+              {{- $sourceDir := replace (strings.TrimPrefix .FileInfo.Meta.BaseDir .FileInfo.Meta.SourceRoot) "\\" "/" -}}
+              {{- $sourceDir = strings.TrimPrefix "/content" $sourceDir -}}
+              {{- $path := replace .Path "\\" "/" -}}
+              {{- $editURL = urls.JoinPath $editURL $sourceDir $path -}}
+            {{- end -}}
+          {{- end -}}
+          <a class="hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50" href="{{ $editURL }}" target="_blank" rel="noreferer">{{ $editThisPage }}</a>
+        {{- end -}}
+        </div>
     </div>
     {{- if or site.IsMultiLingual $displayThemeToggle -}}
       <hr class="dark:hx-border-neutral-800" />

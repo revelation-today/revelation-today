@@ -122,7 +122,7 @@ params:
   footer:
     enable: true
     displayCopyright: false
-    displayPoweredBy: false
+    displayPoweredBy: true
     width: normal
 
   displayUpdatedDate: true
