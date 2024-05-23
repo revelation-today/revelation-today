@@ -3,22 +3,18 @@ title: Vahiy kitabı
 layout: hextra-home
 ---
 
-{{< hextra/hero-badge >}}
-  <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
-  <span>Free, open source</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  İncil'den Vahiy kitabı&nbsp;<br class="sm:hx-block hx-hidden" />korkutucu bir felaketler koleksiyonu değil&nbsp;<br class="sm:hx-block hx-hidden" />ancak tavizsiz öğrencilik için bir rehber
+    Vahiy Kitabı
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Bu büyüleyici kitap&nbsp;<br class="sm:hx-block hx-hidden" />genel bakışlar, uygulamalar ve ayrıntılı açıklamalar ile bir rehber&nbsp;<br class="sm:hx-block hx-hidden" />
-  hızınıza ve ilgi alanlarınıza göre
+  Kutsal Kitap'ın son kitabı korkutucu bir felaketler koleksiyonu değil, tavizsiz öğrencilik için bir rehberdir. &nbsp;<br class="sm:hx-block hx-hidden" />
+  Bu, genel bakışlar, ayrıntılı açıklamalar ve uygulamalar içeren büyüleyici bir kitap rehberidir. &nbsp;<br class="sm:hx-block hx-hidden" />
+  İlgi duyulan konulara göre sıralanmıştır ve bireysel ve grup çalışması için kullanılabilir.
 {{< /hextra/hero-subtitle >}}
 </div>
 

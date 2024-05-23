@@ -3,21 +3,17 @@ title: Das Buch Offenbarung
 layout: hextra-home
 ---
 
-{{< hextra/hero-badge >}}
-  <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
-  <span>Free, open source</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
-
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Das Buch der Offenbarung aus der Bibel&nbsp;<br class="sm:hx-block hx-hidden" />keine beängstigende Sammlung von Katastrophen&nbsp;<br class="sm:hx-block hx-hidden" />sondern ein Leitfaden für kompromisslose Nachfolge
-{{< /hextra/hero-headline >}}
+    Das Buch Offenbarung
+  {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Ein Führer durch dieses faszinierende Buch&nbsp;<br class="sm:hx-block hx-hidden" />mit Übersichten, Anwendungen und detaillierten Erklärungen&nbsp;<br class="sm:hx-block hx-hidden" />basierend auf deiner Geschwindigkeit und deinen Interessen
+  Das letzte Buch der Bibel ist keine beängstigende Ansammlung von Katastrophen, sondern eine Anleitung zur kompromisslosen Nachfolge.&nbsp;<br class="sm:hx-block hx-hidden" />
+  Dies ist ein Leitfaden für ein faszinierendes Buch mit Übersichten, detaillierten Erklärungen und Anwendungen.&nbsp;<br class="sm:hx-block hx-hidden" />
+  Es ist nach Themen von Interesse geordnet und kann für das Selbst- und Gruppenstudium verwendet werden.
 {{< /hextra/hero-subtitle >}}
 </div>
 

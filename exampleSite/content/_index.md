@@ -3,22 +3,18 @@ title: The book of Revelation
 layout: hextra-home
 ---
 
-{{< hextra/hero-badge >}}
-  <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
-  <span>Free, open source</span>
-  {{< icon name="arrow-circle-right" attributes="height=14" >}}
-{{< /hextra/hero-badge >}}
-
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  The book of Revelation from the Bible&nbsp;<br class="sm:hx-block hx-hidden" />not a scary collection of desasters &nbsp;<br class="sm:hx-block hx-hidden" />but a guide to uncompromised discipleship
+  The Book of Revelation 
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  A guide through this fascinating book&nbsp;<br class="sm:hx-block hx-hidden" />with overviews, applications and detailed explanations&nbsp;<br class="sm:hx-block hx-hidden" />
-  based on your speed and your interests
+  The last book of the Bible is not a scary collection of disasters but a guide to uncompromised discipleship.
+  &nbsp;<br class="sm:hx-block hx-hidden" />
+  This is a guide of a fascinating book with overviews, detailed explanations and applications.&nbsp;<br class="sm:hx-block hx-hidden" />
+  It is sorted by topics of interest and can be used for self and group study.
 {{< /hextra/hero-subtitle >}}
 </div>
 
