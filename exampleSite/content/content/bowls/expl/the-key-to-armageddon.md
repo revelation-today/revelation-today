@@ -1,6 +1,14 @@
 ---
 title: "The key to Armageddon"
 weight: 3
+deeper:
+    - name: The battle of Karkemish
+      link: ../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish
+sources: 
+    - pages: 838-841
+      ref: beale_rev
+    - pages: 224-225
+      ref: fee_rev
 ---
 
 Armageddon: a catastrophe that will destroy the world? No, because it is not a place. It is a concept. Want to know why? Read on!
@@ -54,15 +62,3 @@ Armageddon represents a paradox that we see throughout the New Testament, especi
 - A single prophet turns all Israel back to God and defeats hundreds of the evil queen’s prophets.
 - A single commander overthrows his king and the neighboring king without preparation.
 - A king of a tiny kingdom fights a world power, is defeated and killed, and thus secures the future of his people.
-
-## Further reading
-
-<a name="840b"></a>
-- [The battle of Karkemish](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
-
-## Dig deeper
-
-[Beale, Revelation, pages 838-841](../../../../about/ressources/index.html#beale_rev)
-
-[Fee, Revelation, pages 224-225](../../../../about/ressources/index.html#fee_rev)
-

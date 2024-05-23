@@ -1,6 +1,11 @@
 ---
 title: "Vahiy Kitabındaki Edebi Araçlar"
 weight: 40
+sources:
+    - pages: 15–44
+      ref: dorsey
+    - pages: 7–11
+      ref: walsh
 ---
 
 İlk dinleyiciler Vahiy Kitabı’nı nasıl yeniden okudular? Başlık ya da paragraf yoktu, sadece düz metin vardı. Gelin bu çok farklı okuma biçimine bir göz atalım.
@@ -190,10 +195,3 @@ Birçok değer vardır
 - Bir birimin eşiyle karşılaştırılarak açıklığa kavuşturulması: bir birimin işlevinin anlamı eşiyle karşılaştırılarak açıklığa kavuşturulabilir, örneğin Yunus 2. bölümdeki Niniveh halkının kurtuluşuna ilişkin Yunus 4. bölümdeki öfkeli ve kırgın duasının aksine bu kurtuluş için Yunus 2. bölümdeki şükran duası Yunus’un 2. bölümdeki duasının ego merkezli olduğuna ışık tutar.
 - Bir birimin ana noktasının keşfi: Yapının merkezi noktasını bulursak, bir kitabın veya daha uzun bir pasajın merkezi mesajını kolayca bulabiliriz
 - Kompozisyon temasının keşfi: Ana tema genel yapı aracılığıyla geliştirilir, örneğin Çıkış 19/3-Num-10/10'da Sina’daki antlaşmada güçlü putperestlik karşıtı tema veya Şarkılar’da sevginin karşılıklılığı.
-
-## Daha fazla kazma
-
-[David A. Dorsey, The literary structure of the Old Testament, sayfalar 15–44](../../../../about/ressources/index.html#dorsey)
-
-[Jerome T. Walsh, Biblical Hebrew Narrative, sayfalar 7–11](../../../../about/ressources/index.html#walsh)
-

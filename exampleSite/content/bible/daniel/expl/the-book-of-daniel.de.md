@@ -1,6 +1,8 @@
 ---
 title: "Überblick über das Buch Daniel"
 weight: 10
+sources:
+    - ref: daniel
 ---
 
 Das Buch Daniel in der Bibel scheint aus zwei Teilen zu bestehen: Die ersten sechs Kapitel geben ein beeindruckendes Beispiel für ein Leben im Glauben, während die anderen sechs Kapitel voll von seltsamen Visionen sind, die zu noch seltsameren Theologien führen. Das ist aber nicht der Fall.
@@ -60,8 +62,3 @@ Hier überschneiden sich mehrere Aspekte der Geschichte:
 - Die [göttliche Befreiung der ganzen Welt von den Reichen](https://www.bibleserver.com/SLT/Daniel2%2C45) und [Gottes geheimnisvolle Art](https://www.bibleserver.com/SLT/Daniel9%2C24-27), die für immer wirkt.
 
 Wenn wir all dies zusammenfassen, sehen wir, wie wichtig der Glaube (jedes) Einzelnen für das Schicksal der Welt ist. Gott wirkt in den unscheinbaren Taten Einzelner, um ein unzerstörbares Reich zu schaffen.
-
-## Zur Vertiefung
-
-[Wuppertaler Studienbibel, Der Prophet Daniel](../../../../about/ressources/index.html#daniel)
-

@@ -1,6 +1,9 @@
 ---
 title: "Tanrı’nın ordusu ve ulusların kaderi: İşte böyle sona eriyor"
 weight: 1
+deeper:
+    - name: Tanrı’nın ordusu ve yedi melek
+      link: ../../../../content/harvest/expl/gods-army-and-the-seven-angels
 ---
 
 Kilisenin imansız dünyaya, ejderhaya ve canavara karşı savaşta kullandığı silahlar nelerdir? Sonsuz müjde nedir?
@@ -45,9 +48,3 @@ Bütün bölüm ulus ve kilisenin ulusları İsa’ya yönlendirmek için göste
 - Bütün ulusların kurtulmadığının farkında mısınız? Bu sizin için ne ifade ediyor?
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="d6d6"></a>
-- [Tanrı’nın ordusu ve yedi melek](../../../../content/harvest/expl/gods-army-and-the-seven-angels)
-

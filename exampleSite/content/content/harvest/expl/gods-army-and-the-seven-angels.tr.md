@@ -1,6 +1,13 @@
 ---
 title: "Tanrı’nın ordusu ve yedi melek"
 weight: 2
+sources: 
+    - pages: 730–784
+      ref: beale_rev
+    - pages: 98–104
+      ref: bauckham_rev
+    - pages: 283–307
+      ref: bauckham_climax
 ---
 
 Vahiy Kitabı’ndaki 14. bölüm Kutsal Kitap’taki en şaşırtıcı bölümlerden biridir ve biraz kaybolmuş ve diğer bölümlerle bağlantısı kopmuş gibi görünür. Bu yüzden daha yakından bakmamız gerekir.
@@ -95,12 +102,3 @@ Tüm bu bağlantılar birlikte Mose ve Kuzu’nun Şarkısı’nın içeriğini 
 Şarkı, tüm ulusların Tanrı’ya gelip O’na tapınacaklarına dair bir bildiridir. Bunu düşmanlarını yargılayarak yapar. Kutlama şehitlerin kurtuluşuyla ilgili değil, Tanrı’nın ulusları kurtardığı için övgüdür.
 
 Gazap kaseleriyle Tanrı’nın, tapınmayı reddeden ve ejderhayla canavarlara sadık kalan uluslara nasıl davrandığını görürüz.
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 730–784](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham, Revelation, sayfalar 98–104](../../../../about/ressources/index.html#bauckham_rev)
-
-[Bauckham, The climax of Prophecy, sayfalar 283–307](../../../../about/ressources/index.html#bauckham_climax)
-

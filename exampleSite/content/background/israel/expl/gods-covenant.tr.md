@@ -1,6 +1,12 @@
 ---
 title: "Tanrı’nın antlaşması"
 weight: 2
+readBefore:
+    - name: Ailenin rolü
+      link: ../../../../background/israel/expl/the-role-of-family-in-the-bible
+sources:
+    - pages: 69-
+      ref: richter
 ---
 
 [Eski zamanlarda bir ailede olmak hayatta kalmak için gerekliydi](../../../../background/israel/expl/the-role-of-family-in-the-bible) (tedarik, koruma, …) ve önemli bir ailede olmak daha da iyiydi.
@@ -76,8 +82,3 @@ Bu model Tanrı’nın İsrail’le yaptığı antlaşmada da görülür:
 [Ayrıca Tanrı kendisini İsrail’in babası olarak adlandırır.](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F3%3A6)
 
 Kutsal Kitap, “sevgi”, “iyilik”, “merhamet” veya “sadakat” ile tanımlanabilecek bir kelime olan “heset” = “antlaşma sadakati” kelimesini kullanır.
-
-## Derinleştirmek için
-
-[Sandra Richter, The Epic of Eden, sayfalar 69-](../../../../about/ressources/index.html#richter)
-

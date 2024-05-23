@@ -1,6 +1,11 @@
 ---
 title: "Garip ordu"
 weight: 1
+deeper:
+    - name: 144.000
+      link: ../../../../content/army/expl/the-144000
+    - name: Büyük sıkıntı
+      link: ../../../../content/army/expl/the-end-time-and-the-great-tribulation
 ---
 
 144.000 birçok kişinin duyduğu bir ifadedir. Onlar kimlerdir? Ve neden sayılmışlardır? Amaçları nedir?
@@ -39,10 +44,3 @@ Bizler bir ordu olarak tanımlanırız — her zaman yaralanabileceklerinden ya 
 - [Translated with DeepL](https://www.deepl.com/translator?utm_source=windows&amp;utm_medium=app&amp;utm_campaign=windows-share)
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="d583"></a>
-- [144.000](../../../../content/army/expl/the-144000)
-- [Büyük sıkıntı](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
-

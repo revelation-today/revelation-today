@@ -1,6 +1,11 @@
 ---
 title: "Dispensionalism and its critic"
 weight: 2
+sources: 
+    - pages: 173-186
+      ref: rossing
+    - pages: 69–73
+      ref: goreman
 ---
 
 Dispensationalism is discussed and may be very confusing for the reader to understand. Here are some small points of criticism of Dispensionalism.
@@ -100,10 +105,3 @@ The theory makes statements about politics that are unsupported by the Bible and
 - It is anti-Catholic.
 - It is uncritically pro-American and pro-Israel (note: the Old Testament was very critical of Israel).
 - It sees the war in the Middle East as part of God’s plan and therefore a good thing.
-
-## Dig Deeper
-
-[Barabara Rossing, The rapture exposed, pages 173-186](../../../../about/ressources/index.html#rossing)
-
-[Michael Goreman, Reading reveleation resposnsibly, pages 69–73](../../../../about/ressources/index.html#goreman)
-

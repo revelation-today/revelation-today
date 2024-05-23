@@ -1,6 +1,9 @@
 ---
 title: "Temelin oluşturulması"
 weight: 2
+sources: 
+    - pages: 181–222
+      ref: beale_rev
 ---
 
 Vahiy kitabı, kolayca gözden kaçabilen ancak kitabın anlaşılması için kilit önem taşıyan bazı ifadelerle başlar. Bir göz atalım ve yeni gözlerle görelim.
@@ -78,8 +81,3 @@ Dolayısıyla bu pasaj İsa’nın bazı insanlar tarafından öldürülmesinden
 
 <a name="a780"></a>
 Zaman yakındır ve kilise harekete geçmelidir. İsa’nın her şeyi yaptığı gibi kilise de öne çıkabilir ve uluslara ulaşabilir.
-
-## Daha derine inmek
-
-[Beale, Relevation, sayfalar 181–222](../../../../about/ressources/index.html#beale_rev)
-

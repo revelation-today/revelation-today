@@ -1,6 +1,9 @@
 ---
 title: "Vahiy’deki fahişe: Roma İmparatorluğu ile alay ediliyor"
 weight: 5
+sources: 
+    - pages: 919–928
+      ref: aune_rev
 ---
 
 Kutsal Kitap’taki Vahiy Kitabı’nda yer alan fahişe Babil’in hikâyesi en karmaşık hikâyelerden biridir ve Roma İmparatorluğu’na dair pek çok ince ironi kullanır. Hazır mısınız?
@@ -52,8 +55,3 @@ Yani ekphrasis’in amacı şunu göstermektir
 - Bu aldatmacayı anlamak Tanrı’nın krallığına doğru atılacak ilk adımdır.
 - Roma tarafından kandırılırsanız sizin için çok az umut vardır
 - bu aldatmaca o kadar büyük ki, gözden kaçırmak zor
-
-## Daha fazla kazma
-
-[Aune, Revelation, sayfalar 919–928](../../../../about/ressources/index.html#aune_rev)
-

@@ -1,6 +1,9 @@
 ---
 title: "Die Grundlage legen"
 weight: 2
+sources: 
+    - pages: 181–222
+      ref: beale_rev
 ---
 
 Die Offenbarung beginnt mit einigen Aussagen, die man leicht überliest, die aber für das Verständnis des Buches entscheidend sind. Wenn wir sie betrachten, können wir das Buch mit neuen Augen sehen.
@@ -86,10 +89,3 @@ Es geht hier also nicht um das Kommen des Zornes Jesu, weil einige ihn getötet 
 
 <a name="b6f7"></a>
 Die Zeit ist nahe und die Gemeinde hat die Aufgabe, aktiv zu werden. So wie Jesus alles getan hat, ist es nun an der Gemeinde, die Nationen zu erreichen.
-
-## Zur Vertiefung
-
-<a name="e362"></a>
-
-[Beale, Relevation, Seiten 181–222](../../../../about/ressources/index.html#beale_rev)
-

@@ -1,6 +1,9 @@
 ---
 title: "The remnant of Israel"
 weight: 4
+sources:
+    - pages: 658–669
+      ref: beale_theo
 ---
 
 What is the remnant of Israel? And how will Israel as a remnant recover from the exile?
@@ -94,8 +97,3 @@ The foreigners are now considered part of Israel.
     - [Rahab](https://www.bibleserver.com/NIV/Joshua6%3A25) is [included](https://www.bibleserver.com/NIV/Matthew1%3A5),
     - [Ruth](https://www.bibleserver.com/NIV/Ruth1%3A16) the [Moabitess](https://www.bibleserver.com/NIV/Ruth1%3A1-4) is included and becomes ancestor of [David](https://www.bibleserver.com/NIV/Ruth4%3A10-16) and [Jesus](https://www.bibleserver.com/NIV/Matthew1%3A5).
 - This scene describes non-Jews who are married into Israel. The fact that they received much of the land, makes them part of Israel, since [only Israelites can receive land](https://www.bibleserver.com/NIV/Leviticus25%3A23).
-
-## Dig Deeper
-
-[Beale, A New Testament biblical theology, pages 658–669](../../../../about/ressources/index.html#beale_theo)
-

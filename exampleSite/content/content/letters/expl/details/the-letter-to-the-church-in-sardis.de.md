@@ -1,6 +1,13 @@
 ---
 title: "Das Sendschreiben an Sardis"
 weight: 5
+sources: 
+    - pages: 272–282
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 44–45
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Wie sieht eine tote Gemeinschaft aus? Wie wird sie wieder lebendig? Willst du mehr wissen? Dann lies den [Brief an Sardes](https://www.bibleserver.com/SLT/Offenbarung3%2C1-6) an.
@@ -42,10 +49,3 @@ Sie müssen schnell handeln oder Gott wird sie überraschend treffen, denn ein L
 Die weißen Gewänder sind ein Zeichen des Freispruchs vor Gericht.
 
 Dass ihr Name nicht aus dem Buch des Lebens gestrichen wird, bedeutet, dass sie ihr Bürgerrecht im Himmel nicht verlieren. Aber nur, wenn sie Buße tun. Das ist ein Weckruf! Die Absicht ist, die Gemeinde aufzurütteln und zu erschüttern.
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 272–282](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, Seiten 44–45](../../../../../about/ressources/index.html#fee_rev)
-

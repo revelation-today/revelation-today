@@ -1,6 +1,9 @@
 ---
 title: "Die Geschichte von Bileam"
 weight: 30
+sources:
+    - pages: 249
+      ref: beale_rev
 ---
 
 Du kennst sicher die Geschichte von Bileam und dem Esel, aber weißt du auch, warum es heißt, Bileam habe Israel zur Unzucht verführt?
@@ -45,8 +48,3 @@ Also, was ging da vor sich? Bileam war gar nicht glücklich, als er seinen Auftr
 Also macht er ein Fest und führt die Israeliten von Gott weg zu den midianitischen Frauen.
 
 Es war wohl Bileams Stolz, der ihn vernichtete, aber Mose als inkonsequenter Führer brachte den Tod über die Israeliten.
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seite 249](../../../../about/ressources/index.html#beale_rev)
-

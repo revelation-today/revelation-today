@@ -1,6 +1,14 @@
 ---
 title: "Der Schlüssel zu Armageddon"
 weight: 3
+deeper:
+    - name: Die Schlacht von Karkemisch
+      link: ../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish
+sources: 
+    - pages: 838-841
+      ref: beale_rev
+    - pages: 224-225
+      ref: fee_rev
 ---
 
 Harmagedon: ein Weltuntergangsszenario? Nein, denn es ist kein Ort. Es ist ein Konzept. Du willst wissen warum? Dann lies weiter.
@@ -54,15 +62,3 @@ Harmagedon steht für das Paradox, das wir im gesamten Neuen Testament, vor alle
 - Ein einziger Prophet führt Israel zu Gott zurück im Angesicht hunderter Götzenpropheten der Königin.
 - Ein einziger Feldherr stürzt zwei Könige ohne jede Vorbereitung.
 - Ein König eines kleinen Reiches kämpft gegen Weltmächte, wird vernichtet und sichert so die Zukunft seines Volkes.
-
-## Zum Weiterlesen
-
-<a name="ea65"></a>
-- [Die Schlacht von Karkemisch](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
-
-## Zur Vertiefung
- 
-[Beale, Revelation, Seiten 838-841](../../../../about/ressources/index.html#beale_rev)
-
-[Fee, Revelation, Seiten 224-225](../../../../about/ressources/index.html#fee_rev)
-

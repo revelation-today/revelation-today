@@ -1,6 +1,9 @@
 ---
 title: "Mısır’dan Çıkıştan Önceki Hikaye"
 weight: 10
+sources:
+    - pages: 15–26
+      ref: sarna_exo
 ---
 
 İsrailliler Mısır’a geldiklerinde hoş karşılanmışlardı, bir sonraki okuyuşumuzda ise kölelerdi. Ne oldu peki?
@@ -22,8 +25,3 @@ Yusuf’un Hiksoslar zamanında yaşamış olması muhtemeldir.
 - [Yusuf oradayken (Mısır’ın en kuzeyindeki) Goşen toprakları saraya yakındı](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F45%3A10)
 - [İsrail, Pithon ve Ramses şehirlerini](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1%3A11) inşa etmek [zorunda kaldı](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F12%3A37) ki bu muhtemelen kuzeydoğuyu yeniden inşa [eden II](https://en.wikipedia.org/wiki/Ramesses_II).
 - Ramses’in babası I. Sethos Avaris (eski Hiksos başkenti) yakınlarında bir yazlık saray inşa ettirir; bu da Musa’nın prenses tarafından neden bu kadar çabuk bulunduğunu açıklar, çünkü burası hâlâ Goşen yakınlarındadır
-
-## Daha fazla kazma
-
-[Nahum Sarna, Exodus, sayfalar 15–26](../../../../about/ressources/index.html#sarna_exo)
-

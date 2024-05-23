@@ -1,6 +1,8 @@
 ---
 title: "Der Tempel und die Gegenwart Gottes"
 weight: 10
+sources:
+    - ref: beale_dwell
 ---
 
 Wenn wir das Thema Tempel in der Bibel betrachten, denken wir vielleicht, dass es mit Salomo (oder der Stiftshütte des Mose) begann und mit der Zerstörung durch die Römer im Jahre 70 v. Chr. oder bereits durch die Babylonier im Jahre 587 v. Chr. endete.
@@ -41,8 +43,3 @@ Als Israel den Bund mit Gott brach, [verließ Gott den Tempel](https://www.bible
 Im Neuen Testament ist [Jesus der Tempel](https://www.bibleserver.com/SLT/Johannes2%2C19-22). Als er starb, zerriss der Vorhang im Tempel vor dem Allerheiligsten, was zeigt, dass nun alle direkten Zugang zu Gott haben.
 
 Als Jesus starb, [wurde die Gemeinde zum Tempel, denn die Gemeinde ist der Leib Christi](https://www.bibleserver.com/SLT/1.Korinther6%2C19). Und in der Offenbarung ist die Gemeinde die Braut Christi, die das Neue Jerusalem ist, in dem die Gemeinschaft zwischen Gott und Mensch ungestört ist.
-
-## Zur Vertiefung
-
-[Beale, Kim: God dwells among us](../../../../about/ressources/index.html#beale_dwell)
-

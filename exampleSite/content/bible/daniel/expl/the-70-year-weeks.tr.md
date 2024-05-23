@@ -1,6 +1,9 @@
 ---
 title: "70 yıllık haftalar"
 weight: 40
+sources:
+    - pages: 334–354
+      ref: daniel
 ---
 
 70 yıllık haftalar, Kutsal Kitap’ın gizem yüklü bir bölümüdür ve ahir zamanla ilgili daha da ilginç yorumlar içerir. Gelin tüm bunların ne hakkında olduğuna daha yakından bakalım
@@ -91,8 +94,3 @@ Yedi yılın sonunda ne var? Ne zaman bitiyor? Diğer her şey edebi olduğu iç
 - Yahudi savaşındaki eylemlerle paraleldir.
 - İsa’nın geri geleceği günü ve saati kimse bilemez, bu da 24. ayetteki her şeyin tamamlandığı zamandır.
 - Kilise İsa’yı yaptığı her şeyde takip etmelidir, bu yüzden İsa 3,5 yıl boyunca orada olduğu için kilise de aynısını yapmalıdır ve bu nedenle aynı zaman dilimi kullanılır
-
-## Daha fazla kazma
-
-[Wuppertaler Studienbibel, Der Prophet Daniel, sayfalar 334–354](../../../../about/ressources/index.html#daniel)
-

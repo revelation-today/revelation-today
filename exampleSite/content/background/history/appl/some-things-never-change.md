@@ -1,6 +1,11 @@
 ---
 title: "Some things never change"
 weight: 1
+deeper:
+    - name: The historical background
+      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+    - name: Israel and the church
+      link: ../../../../background/israel/expl/israel-and-the-church
 ---
 
 The book of Revelation speaks to very specific people at a very specific time, but the problems it addresses are the same problems today, and so are the solutions. Let us take a look.
@@ -55,10 +60,4 @@ And the church may wonder what can be done. And the book of Revelation gives som
 - We are called to be good stewards of the environment.
 - We are called to reconciliation.
 - We are called to address the basic problems of human nature, such as greed.
-
-## Digging deeper
-
-<a name="0773"></a>
-- [The historical background](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [Israel and the church](../../../../background/israel/expl/israel-and-the-church)
 

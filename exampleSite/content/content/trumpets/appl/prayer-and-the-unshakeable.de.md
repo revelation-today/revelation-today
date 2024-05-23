@@ -1,6 +1,19 @@
 ---
 title: "Gebet und das Unerschütterliche"
 weight: 1
+deeper:
+    - name: Die Kraft des Gebets
+      link: ../../../../topics/power/short/the-key-of-prayer
+    - name: Die Vorgeschichte des Auszugs aus Ägypten
+      link: ../../../../bible/exodus/expl/the-story-before-the-exodus
+    - name: Die Geburt von Mose
+      link: ../../../../bible/exodus/expl/the-birth-of-moses
+    - name: Die Verhärtung des Herzens des Pharao
+      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+    - name: Die Plagen in Ägypten
+      link: ../../../../bible/exodus/expl/the-plagues-in-egypt
+    - name: Die sieben Posaunen
+      link: ../../../../content/trumpets/expl/the-trumpets-in-revelation
 ---
 
 Die Posaunen haben viele dazu inspiriert, Endzeitszenarien mit weltweiten Katastrophen und großen militärischen Aktionen anzunehmen. Wir werden jedoch sehen, dass dies eine Lektion über das Gebet und den Umgang mit Schwierigkeiten ist.
@@ -63,14 +76,3 @@ Aber: Schwierigkeiten allein reichen nicht aus, um das Herz zu verändern. Es br
 - Was würde passieren, wenn deine falschen Sicherheiten weggenommen würden? Welche sind das? Bist du bereit, sie aufzugeben?
 - Welche unerschütterlichen Sicherheiten hast du in deinem Leben?
 - Welche Sicherheiten kannst du nicht aufgeben? Würdest du sie auch nicht aufgeben, wenn du deine Beziehung zu Gott verlieren würdest?
-
-## Digging deeper
-
-<a name="89d1"></a>
-- [Die Kraft des Gebets](../../../../topics/power/short/the-key-of-prayer)
-- [Die Vorgeschichte des Auszugs aus Ägypten](../../../../bible/exodus/expl/the-story-before-the-exodus)
-- [Die Geburt von Mose](../../../../bible/exodus/expl/the-birth-of-moses)
-- [Die Verhärtung des Herzens des Pharao](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
-- [Die Plagen in Ägypten](../../../../bible/exodus/expl/the-plagues-in-egypt)
-- [Die sieben Posaunen](../../../../content/trumpets/expl/the-trumpets-in-revelation)
-

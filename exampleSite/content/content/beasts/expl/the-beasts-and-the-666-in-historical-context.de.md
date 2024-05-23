@@ -1,6 +1,9 @@
 ---
 title: "666 im historischen Kontext"
 weight: 3
+sources: 
+    - pages: 682–684
+      ref: beale_rev
 ---
 
 Der Drache und die beiden Tiere der Offenbarung erscheinen sehr abstrakt (böse Mächte) oder werden sehr „kreativ” interpretiert. Doch wie sahen sie vor 2000 Jahren konkret aus?
@@ -56,8 +59,3 @@ Wenn du nicht mitspielst, [wirst du finanziell ruiniert](https://www.bibleserver
 Was kann man gegen dieses System unternehmen? Die Antwort wird z.B. in Kapitel 14 gegeben: Die Menschen sind Gott treu und machen keine Kompromisse, was mit dem Bild einer [Jungfrau](https://www.bibleserver.com/SLT/Offenbarung14%2C4) beschrieben wird. In Kapitel 13 wird die Loyalität wird mit dem Wort [Anbetung](https://www.bibleserver.com/SLT/Offenbarung13%2C8) beschrieben.
 
 Und über allem: [Ausharren](https://www.bibleserver.com/SLT/Offenbarung13%2C10) und [Weisheit, um zu erkennen, was Gott ist und was nicht](https://www.bibleserver.com/SLT/Offenbarung13%2C18).
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 682–684](../../../../about/ressources/index.html#beale_rev)
-

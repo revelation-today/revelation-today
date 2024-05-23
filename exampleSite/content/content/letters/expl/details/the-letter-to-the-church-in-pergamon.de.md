@@ -1,6 +1,16 @@
 ---
 title: "Das Sendschreiben an Pergamon"
 weight: 3
+deeper:
+    - name: Die Geschichte von Bileam
+      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+sources: 
+    - pages: 245–258
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 33
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Das ist eine Gemeinde, die kurz vor dem Scheitern steht. Und das alles wegen Bileam? Aber er ist nicht das eigentliche Problem.
@@ -47,15 +57,3 @@ Sie erhalten einen weißen Stein mit einem neuen Namen, der zwei Bedeutungen hat
 Ein neuer Name ist in der Regel mit einer [neuen Identität](https://www.bibleserver.com/SLT/1.Mose17%2C5) verbunden, und den neuen Namen zu kennen, zeigt dass man eine sehr enge Beziehung zu dieser Person hat.
 
 Gott bietet der Gemeinde eine neue Identität an, wenn sie es will. Wenn [nicht, wird Jesus gegen sie kämpfen](https://www.bibleserver.com/SLT/Offenbarung2%2C16).
-
-## Zum Weiterlesen
-
-<a name="52ab"></a>
-- [Die Geschichte von Bileam](../../../../content/beasts/expl/666-the-number-of-the-beast)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 245–258](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, Seiten 33](../../../../../about/ressources/index.html#fee_rev)
-

@@ -1,5 +1,14 @@
 ---
 title: "Ne okuyoruz"
+deeper:
+    - name: Tür hakkında daha fazlası
+      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+    - name: Eski Ahit, resimleri anlamak için önemli bir anahtar
+      link: ../../../../background/literature/expl/full-of-biblical-references
+    - name: Bunların hepsi sembol mü?
+      link: ../../../../background/literature/expl/literally-or-symbolic
+    - name: Tüm bu sayılar ne anlama geliyor ve şiirin güzelliği
+      link: ../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
 ---
 
 Bir kitabı okuduğumuzda belli bir beklentiyle okuruz. Bilimsel bir raporu bilim kurgudan ya da bir aşk şiirini aksiyon gerilimden farklı okursunuz. Dolayısıyla Vahiy kitabını okuduğunuzda bunun Tanrı’nın insanlıktan büyük bir intikamı olduğunu ya da kendinden geçme gibi bazı özel durumlarla birlikte ahir zaman felaketleri hakkında distopik bir roman olduğunu ya da sadece çılgın hikayelerden oluşan kaotik bir koleksiyon olduğunu düşünebilirsiniz.
@@ -57,14 +66,3 @@ Ana konuların ibadet, tanıklık ve restorasyon olduğunu ve günümüzdeki iba
 Bunu yeni gözlerle görmek ister misiniz? [Oyuncuların birbirlerine ne sıklıkta pas verdiklerini saymanız gereken bu videodaki gibi şaşırabilirsiniz ](https://www.youtube.com/watch?v=KB_lTKZm1Ts&amp;pp=ygUTYXdhcmVuZXNzIHRlc3QgYmVhcg%3D%3D)(eski olduğunu biliyorum, ama belki herkes için değil)
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="ad38"></a>
-If you want to get more details on this topic:
-
-- [Tür hakkında daha fazlası](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Eski Ahit, resimleri anlamak için önemli bir anahtar](../../../../background/literature/expl/full-of-biblical-references)
-- [Bunların hepsi sembol mü?](../../../../background/literature/expl/literally-or-symbolic)
-- [Tüm bu sayılar ne anlama geliyor ve şiirin güzelliği](../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
-

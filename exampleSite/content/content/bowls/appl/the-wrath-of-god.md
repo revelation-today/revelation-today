@@ -1,6 +1,13 @@
 ---
 title: "The wrath of God"
 weight: 1
+deeper:
+    - name: The bowls of wrath
+      link: ../../../../content/bowls/expl/the-bowls-of-wrath
+    - name: The meaning of Armageddon
+      link: ../../../../content/bowls/expl/the-key-to-armageddon
+    - name: Armageddon and the battle of Karkemish
+      link: ../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish
 ---
 
 This is very it’s finally getting serious.
@@ -39,11 +46,3 @@ And this is what the bowls are about
 - What have been your issues where you have followed the beast, rejected God’s leading, or hardened your heart?
 - What are your hopes for how specific situations in this world might change for the better? Do you believe these are God’s ways?
 - Do a study on Armageddon below. What could that be today?
-
-## Digging deeper
-
-<a name="06f1"></a>
-- [The bowls of wrath](../../../../content/bowls/expl/the-bowls-of-wrath)
-- [The meaning of Armageddon](../../../../content/bowls/expl/the-key-to-armageddon)
-- [Armageddon and the battle of Karkemish](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
-

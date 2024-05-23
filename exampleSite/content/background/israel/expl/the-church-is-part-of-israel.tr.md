@@ -1,6 +1,9 @@
 ---
 title: "Kilise İsrail’in bir parçasıdır"
 weight: 6
+sources:
+    - pages: 669–679
+      ref: beale_theo
 ---
 
 Bu kulağa garip geliyor. Kilise İsrail’den daha büyük değil mi? Ya da kilise İsrail’in yerini mi alıyor? Ya da İsrail zamanın sonunda kilise olmadan geri dönecektir. Bu, olmayan bir ihtilaf olduğunu ima eder.
@@ -117,8 +120,3 @@ Ruhun dökülmesi [son günlerde](https://www.bibleserver.com/TR/El%C3%A7ilerin%
 | Yeşaya | Elçilerin İşleri 1:8 |
 |--------|----------------------|
 | [<span style="color:red;">Yükseklerden gelen Ruh üzerimize dökülene kadar</span>. O zaman çöl meyve bahçesine, meyve bahçesi de ormana dönüşecek](https://www.bibleserver.com/TR/Ye%C5%9Faya32%2C15) </br> [<span style="color:green;">Siz benim tanıklarımsınız</span>, diyor RAB ve seçtiğim kulum, beni tanıyıp inanasınız ve O olduğumu göresiniz diye; benden önce hiçbir Tanrı oluşmadı ve benden sonra da olmayacak](https://www.bibleserver.com/TR/Ye%C5%9Faya43%2C10). </br> [<span style="color:green;">Ve sizler tanıklarımsınız</span>, diyor RAB, ben Tanrıyım](https://www.bibleserver.com/TR/Ye%C5%9Faya43%2C12). </br> [Ama sizi öteki uluslara ışık olmanız için de görevlendirdim, öyle ki, <span style="color:brown;">dünyanın uçlarına kadar kurtuluşum</span> olasınız!](https://www.bibleserver.com/TR/Ye%C5%9Faya49%2C6) | ama güç alacaksınız ([Luka](https://www.bibleserver.com/TR/Luka24%2C49)) <span style="color:red;">Kutsal Ruh üzerinize geldiğinde</span>, Yeruşalim'de, bütün Yahudiye ve Samiriye'de ve <span style="color:brown;">dünyanın sonuna kadar</span> <span style="color:green;">şahitlerim</span> olacaksınız! (Bkz. [İşaya](https://www.bibleserver.com/TR/Ye%C5%9Faya49%2C6)'ya atıfta bulunan [Havariler Tarihi](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri13%2C47)). |
-
-## Derinleştirmek için
-
-[Beale, A New Testament biblical theology, sayfalar 669–679](../../../../about/ressources/index.html#beale_theo)
-

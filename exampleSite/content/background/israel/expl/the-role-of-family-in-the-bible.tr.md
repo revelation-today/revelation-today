@@ -1,6 +1,9 @@
 ---
 title: "Kutsal Kitapta ailenin rolü"
 weight: 1
+sources:
+    - pages: 21–46
+      ref: richter
 ---
 
 Kutsal Kitap ataerkil yapıları destekler ve teşvik eder mi? Kadınların o kadar da önemli olmadığı düşüncesini destekliyor mu? Çok uzaktasınız ama antik kültürde ailenin nasıl olduğunu açıklamama izin verin.
@@ -81,8 +84,3 @@ Eğer aile toprağı satmak zorunda kalırsa, toprak mahvolurdu, bu [yüzden Kut
 
 <a name="7049"></a>
 Tanrı baba olarak, İsa ise diğerleriyle ilgilenen ilk doğan olarak resmedilir ve hep birlikte yaşayabilmemiz için [çok daireli bir ev](https://www.bibleserver.com/TR/Yuhanna14%3A1-3) verir.
-
-## Derinleştirmek için
-
-[Sandra Richter, The Epic of Eden, sayfalar 21–46](../../../../about/ressources/index.html#richter)
-

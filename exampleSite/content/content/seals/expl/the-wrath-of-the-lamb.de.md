@@ -1,6 +1,9 @@
 ---
 title: "Der Zorn des Lammes"
 weight: 4
+sources: 
+    - pages: 395–404
+      ref: beale_rev
 ---
 
 Was ist der Zorn des Lammes? Rechtfertigt dieser Begriff einen heiligen Krieg im Namen des Glaubens?Zur zweiten Frage: Ganz sicher nicht. Das Neue Testament macht sehr deutlich, dass unsere Kämpfe geistlich sind.
@@ -43,8 +46,3 @@ Lass mich dir etwas sagen: Die meisten Menschen in der Geschichte kennen mindest
 Und Gott wirkt für die Leidenden und gibt ihnen Ruhe.
 
 Wir sind verantwortlich für das Leid, das wir anderen zufügen. Unsere Ungerechtigkeit wird nicht durch ein paar Gebete weggewischt. Gott will unser steinernes Herz verwandeln.
-
-## Zur Vertiefung
-
-[Beale, Revelation, pages 395–404](../../../../about/ressources/index.html#beale_rev)
-

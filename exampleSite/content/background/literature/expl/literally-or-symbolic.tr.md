@@ -1,6 +1,9 @@
 ---
 title: "Gerçek veya sembolik"
 weight: 20
+sources:
+    - pages: 50–69
+      ref: beale_rev
 ---
 
 Vahiy Kitabı’nda bizim dünyamızdan kopup gelmiş gibi görünen pek çok resim kullanılmıştır. Hayal gücümüzü genişletmemiz mi gerekiyor yoksa bunlar sadece semboller mi? Her ikisi de. Daha iyi anlamak için okumaya devam edin.

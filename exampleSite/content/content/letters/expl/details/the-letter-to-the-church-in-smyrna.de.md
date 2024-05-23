@@ -1,6 +1,13 @@
 ---
 title: "Das Sendschreiben an Smyrna"
 weight: 2
+sources: 
+    - pages: 239–245
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 29–30
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Kennst du die Gemeinde von Smyrna? Das solltest du, denn dort findest du eine Gemeinde, die in den Augen Jesu ohne Tadel ist, aber vielleicht nicht deine Traumgemeinde.
@@ -32,10 +39,3 @@ Der Hinweis auf die [10 Tage](https://www.bibleserver.com/SLT/Offenbarung2%2C10)
 Jesus verheißt: Wenn sie standhalten, wird ihnen der zweite Tod nicht schaden. Jesus hat ihn überwunden, indem er [durch den Tod in die Auferstehung gegangen ist, was als Schwäche gesehen werden kann](https://www.bibleserver.com/SLT/Offenbarung5%2C5-6), aber [so regiert er und mit ihm die Gemeinde](https://www.bibleserver.com/SLT/Offenbarung20%2C4-6). Das ist eine Paradox. Wie soll das funktionieren?
 
 Je mehr wir versagen, desto mehr kann Jesus wirken. Es besteht die Gefahr, dass wir [von der Verzweiflung so überwältigt werden, dass wir aufgeben](../../../../content/beasts/expl/666-the-number-of-the-beast). Wir sollen die Situationen nicht lösen, sondern sie mit ihm aushalten.
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 239–245](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, Seiten 29–30](../../../../../about/ressources/index.html#fee_rev)
-

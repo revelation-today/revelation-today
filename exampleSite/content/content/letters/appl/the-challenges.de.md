@@ -1,6 +1,30 @@
 ---
 title: "Die Herausforderung"
 weight: 1
+deeper:
+    - name: Der Auftakt des Buches
+      link: ../../../../content/letters/expl/setting-the-foundation
+    - name: Die Vision des Menschensohnes
+      link: ../../../../content/letters/expl/the-vision
+    - name: Die Engel der Gemeinden
+      link: ../../../../content/letters/expl/the-angel-of-the-churches
+    - name: Die Sendschreiben
+      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+    - name: Der Brief an Ephesus
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus
+    - name: Der Brief an Smyrna
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna
+    - name: Der Brief an Pergamon
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon
+    - name: Der Brief an Thyatira
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira
+    - name: Der Brief an Sardis
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis
+    - name: Der Brief an Philadelphia
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia
+    - name: Der Brief an Laodizäa
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea
+
 ---
 
 Was hat eine 2000 Jahre alte Gemeinde mit unserer heutigen Situation zu tun? Haben wir heute nicht ganz andere Herausforderungen? Du wirst überrascht sein, wie wenig sich die Welt für die Gemeinde verändert hat.
@@ -54,19 +78,3 @@ Ihre Herausforderungen sind so individuell wie ihre Stärken, so dass wir manche
 - Die Liebe ist nicht aufrichtig: Sie haben ihren ursprünglichen Auftrag aus den Augen verloren, vielleicht weil sie so sehr in gute Taten vertieft sind, dass sie den Grund für all das vergessen haben.
 - Schlechte Leitung und falsche Lehre: Die Leitung lässt falsche Lehre zu oder ist selbst die Ursache dafür. Das hat schwerwiegende Folgen für die ganze Gemeinde.
 - Falsches Selbstverständnis: Laodizea wurde nicht gelobt, weil sie von sich selbst hoch dachten und Jesus nicht sahen. Auch in Sardis gab es ein solches Denken. Das ist ein kaum zu überschätzender und sehr zerstörerischer Fehler.
-
-## Zur Vertiefung
-
-<a name="f541"></a>
-- [Der Auftakt des Buches](../../../../content/letters/expl/setting-the-foundation)
-- [Die Vision des Menschensohnes](../../../../content/letters/expl/the-vision)
-- [Die Engel der Gemeinden](../../../../content/letters/expl/the-angel-of-the-churches)
-- [Die Sendschreiben](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [Der Brief an Ephesus](../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus)
-- [Der Brief an Smyrna](../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna)
-- [Der Brief an Pergamon](../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon)
-- [Der Brief an Thyatira](../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira)
-- [Der Brief an Sardis](../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis)
-- [Der Brief an Philadelphia](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
-- [Der Brief an Laodizäa](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
-

@@ -1,6 +1,9 @@
 ---
 title: "Die Waffen der Gemeinde und das Schicksal der Nationen"
 weight: 1
+deeper:
+    - name: Gottes Armee und die sieben Engel
+      link: ../../../../content/harvest/expl/gods-army-and-the-seven-angels
 ---
 
 Was sind die Waffen der Gemeinde gegen eine ungläubige Welt, gegen den Drachen und die Tiere, und was ist das ewige Evangelium?
@@ -43,9 +46,3 @@ Das ganze Kapitel handelt von den Völkern und den Bemühungen der Kirche, sie z
 - Was bedeutet es, Jesus immer treu zu sein?
 - Was wäre das Lied von Mose und Jesus, das du in deinem Leben singen würdest?
 - Weißt du, dass nicht alle Menschen gerettet werden? Was macht das mit dir?
-
-## Zur Vertiefung
-
-<a name="1142"></a>
-- [Gottes Armee und die sieben Engel](../../../../content/harvest/expl/gods-army-and-the-seven-angels)
-

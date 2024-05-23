@@ -1,6 +1,12 @@
 ---
 title: "The little scroll"
 weight: 2
+deeper:
+    - name: The two witnesses
+      link: ../../../../content/witnesses/expl/the-two-witnesses
+sources: 
+    - pages: 520–555
+      ref: beale_rev
 ---
 
 There is a small scroll that John has to eat and the mystery of the seven thunders. What is the meaning of this?
@@ -33,13 +39,3 @@ John is asked to eat this scroll. This reminds us of Ezekiel and his eating of t
 It describes what Jesus has done (sweet in the mouth) and what the consequences are (bitter in the stomach), which is the judgment for the world, but much more, what not to do to give witness to the world that hates them and will not threaten them better than Jesus.
 
 But what is the scroll now? Looking at the next chapter(s), it is the testimony of the Church to reach the nations, which the Church will finally accomplish.
-
-## Further readings
-
-<a name="b216"></a>
-- [The two witnesses](../../../../content/witnesses/expl/the-two-witnesses)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 520–555](../../../../about/ressources/index.html#beale_rev)
-

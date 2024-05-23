@@ -1,6 +1,9 @@
 ---
 title: "Die Entrückung"
 weight: 3
+sources: 
+    - pages: 173-186
+      ref: rossing
 ---
 
 Die Entrückung ist ein faszinierendes Thema, das die Phantasie der einen beflügelt und andere in Angst und Schrecken versetzt (die Entrückung ist geschehen und ich bin zurückgeblieben). Aber was ist die Entrückung? Ist sie biblisch? Und was bedeutet sie für die Gläubigen?
@@ -116,8 +119,3 @@ Vielmehr wird auf das alttestamentliche Bild vom himmlischen Gericht verwiesen, 
 
 <a name="ec29"></a>
 Die Argumentation für die Entrückung stützt sich auf Bibelstellen, die verschiedene Situationen beschreiben, die falsch gelesen, aus dem Zusammenhang gerissen und die Bedeutung von Schlüsselwörtern außer Acht gelassen werden. Es gibt also keinen biblischen Beweis für die Entrückung.
-
-### Zur Vertiefung
-
-[Barabara Rossing, The rapture exposed, Seiten 173-186](../../../../about/ressources/index.html#rossing)
-

@@ -1,6 +1,13 @@
 ---
 title: "Laodikya’daki kiliseye mektup"
 weight: 7
+sources: 
+    - pages: 296–310
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 57
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Bu [mektup kiliselerde en çok vaaz edilen mektuptur](https://www.bibleserver.com/TR/Vahiy3%3A14-22) ve bu yüzden hepimiz ılık olma sorununu biliriz. Ama bu bağlamda ne anlama geldiğini gerçekten biliyor musunuz? Özellikle de bu kilise hiç övgü almayan tek kilise olduğunda, biraz bile!
@@ -45,10 +52,3 @@ Ve eğer O’nu dinlerlerse, Tanrı’nın Taht Odası’ndaki tahtta O’nunla 
 Durun bir dakika: Taht Odasında kimse oturmuyor, herkes ayakta duruyor!
 
 Peki bu Laodikya için ne anlama geliyor? Bu motivasyon onlar için yeterli mi?
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 296–310](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, sayfalar 57](../../../../../about/ressources/index.html#fee_rev)
-

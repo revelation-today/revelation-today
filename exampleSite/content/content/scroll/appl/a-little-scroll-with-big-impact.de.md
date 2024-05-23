@@ -1,6 +1,9 @@
 ---
 title: "Ein kleines Buch mit großer Wirkung"
 weight: 1
+deeper:
+    - name: Das kleine Büchlein
+      link: ../../../../content/scroll/expl/the-little-scroll
 ---
 
 Was ist das kleine Buch, das Johannes essen soll und von dem nie wieder die Rede ist? Was soll man damit anfangen und hat es etwas mit dem Buch mit den sieben Siegeln zu tun?
@@ -37,9 +40,3 @@ Der Schlüssel dazu ist das Zeugnis der Kirche. Und mit Zeugnis ist nicht nur ei
 - Bist du überwältigt von den Mächten dieser Welt oder vertraust du auf Gott, egal was in den Nachrichten berichtet wird und was in der Welt geschieht?
 - Glaubst du, dass es mehr in deinem Leben gibt und dass es Zeit ist, sich zu engagieren?
 - Hast du eine Berufung in deinem Leben, bist dir aber unsicher und hast sie nie wirklich verfolgt?
-
-## Zur Vertiefung
-
-<a name="d451"></a>
-- [Das kleine Büchlein](../../../../content/scroll/expl/the-little-scroll)
-

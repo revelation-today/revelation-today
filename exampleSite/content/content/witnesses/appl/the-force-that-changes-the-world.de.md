@@ -1,6 +1,13 @@
 ---
 title: "Die Macht, die die Welt verändert"
 weight: 1
+deeper:
+    - name: Der Tempel
+      link: ../../../../bible/keyword/expl/the-temple-and-the-presence-of-god
+    - name: Die Kraft des Zeugnisses
+      link: ../../../../topics/power/short/the-power-of-testimony
+    - name: Die beiden Zeugen
+      link: ../../../../content/witnesses/expl/the-two-witnesses
 ---
 
 Wer sind diese beiden Zeugen, die die ganze Welt verändern und das Reich Gottes vorbereiten? Was ist das Geheimnis ihres Einflusses?
@@ -54,11 +61,3 @@ Heißt das, dass Gott alle Christen auferweckt, nachdem sie gestorben sind und i
 - Siehst du eine Parallele zwischen den beiden Zeugen und dem Wirken der Urgemeinde?
 - Was ist dir wichtiger als dein eigenes Leben?
 - Glaubst du, dass die Kirche das Potential hat, die Welt zu verändern?
-
-## Zur Vertiefung
-
-<a name="6f23"></a>
-- [Der Tempel](../../../../bible/keyword/expl/the-temple-and-the-presence-of-god)
-- [Die Kraft des Zeugnisses](../../../../topics/power/short/the-power-of-testimony)
-- [Die beiden Zeugen](../../../../content/witnesses/expl/the-two-witnesses)
-

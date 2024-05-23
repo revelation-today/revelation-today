@@ -1,6 +1,9 @@
 ---
 title: "Die Geschichte von Moses"
 weight: 20
+sources:
+    - pages: 27–37
+      ref: sarna_exo
 ---
 
 Die Geschichte von Moses widerspricht allen Heldengeschichten der Antike und ist doch eine Erfolgsgeschichte — warum?
@@ -47,8 +50,3 @@ Er sollte das Volk Israel retten durch den Bund, der Gott mit seinem Volk geschl
 Was er wirklich lernen musste (und was ihn zum Helden machten), war, Gott zu vertrauen: Ein Beispiel war, dass er [seinen Stab auf den Boden werfen sollte, der sich sofort in eine Schlange verwandelte und er sollte sie am Schwanz packen, damit sie wieder zum Stab wurde (jedes Kind weiß, das man eine Schlange am Kopf packen muss, sonst beißt sie zu).](https://www.bibleserver.com/SLT/2.Mose4%2C2-5)
 
 Doch am Ende geht alles gut aus, denn der wahre Held ist nicht Mose, sondern Gott.
-
-## Zur Vertiefung
-
-[Nahum Sarna, Exodus, Seiten 27–37](../../../../about/ressources/index.html#sarna_exo)
-

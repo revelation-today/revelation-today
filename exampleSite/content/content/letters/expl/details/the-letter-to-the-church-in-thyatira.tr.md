@@ -1,6 +1,13 @@
 ---
 title: "Thyatira’daki kiliseye mektup"
 weight: 4
+sources: 
+    - pages: 259–272
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 37–38
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Sorunun önderlik olduğu bir kilisede ne yaparsınız? Doğru, Thyatira’daki kiliseye yazılan mektubu okursunuz!
@@ -43,10 +50,3 @@ Kilise üyeleri ne yapmalıdır? İsyan mı etmeli? Kiliseyi terk mi etmeli?
 Tahammül edenlere İsa, yanlış otorite altında tahammül ettikleri ve sadık kaldıkları için yetki vaat eder. Demir bir asayla yönetmek [Mezmur 2'den ](https://www.bibleserver.com/TR/Mezmur2)alınmıştır.
 
 [Sabah yıldızı](https://www.bibleserver.com/TR/Vahiy2%3A28), [sabah yıldızı olan İsa’yla](https://www.bibleserver.com/TR/Vahiy22%3A16) ilgili [yeni bir umudun doğuşuyla ](https://www.bibleserver.com/TR/2.Petrus1%3A19)ilgili olabilir.
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 259–272](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, sayfalar 37–38](../../../../../about/ressources/index.html#fee_rev)
-

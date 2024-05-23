@@ -1,6 +1,9 @@
 ---
 title: "Balam’ın öyküsü"
 weight: 30
+sources:
+    - pages: 249
+      ref: beale_rev
 ---
 
 Balam ve eşeğin öyküsünü biliyorsunuz, ama Balam’ın İsrail’i neden ve nasıl putperestliğe sürüklediğini biliyor musunuz?
@@ -43,8 +46,3 @@ Peki neler oluyordu? Balam işini bitiremediği ve Moavlılar’ın kralı Balak
 Böylece bir parti düzenler ve İsrail’i Tanrı’dan Midyanlıların karılarına çeker.
 
 Onu alaşağı eden Balam’ın gururuydu, ama İsrailliler’in ölümüne neden olan Musa’nın liderliği oldu.
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 249](../../../../about/ressources/index.html#beale_rev)
-

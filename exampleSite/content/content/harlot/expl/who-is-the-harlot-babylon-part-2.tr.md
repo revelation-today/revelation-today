@@ -1,6 +1,12 @@
 ---
 title: "Fahişe Kimdir Bölüm 2"
 weight: 3
+deeper:
+    - name: İmparatorlukla alay eder gibi Babil
+      link: ../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+sources: 
+    - pages: 847–890
+      ref: beale_rev
 ---
 
 Fahişe Babil’i anlamak Bölüm 1'de gördüğümüz gibi biraz karmaşıktır, ancak çözüm Bölüm 2'de geliyor. Heyecanlı olun!!!
@@ -79,13 +85,3 @@ Tüm bunlarla İsa’dan daha iyi bir müjde getirmeyi amaçlamaktadır.
 [Babil’in İzebel ile pek çok benzerliği olduğundan](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1), bu kilise liderleri için özel bir uyarı olabilir. Ancak farkındalık ve düşünme çağrısı herkes için geçerlidir. Belki de Babil’in bu kadar net olmamasının nedeni budur, [böylece her gün yeniden düşünür ve ondan uzaklaşırsınız](https://www.bibleserver.com/TR/Vahiy18%3A4). Babil her yerde olduğu gibi!
 
 Bu, zulüm ya da yoksulluk içindeyken ve daha fazla zenginlik ve insani değer biçme yolunda ilerlerken kilise için zorlayıcı ve çekici olabilir.
-
-## Daha fazla okuma
-
-<a name="432c"></a>
-- [İmparatorlukla alay eder gibi Babil](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 847–890](../../../../about/ressources/index.html#beale_rev)
-

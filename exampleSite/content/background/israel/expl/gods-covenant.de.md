@@ -1,6 +1,12 @@
 ---
 title: "Der Bund Gottes"
 weight: 2
+readBefore:
+    - name: Die Rolle der Familie
+      link: ../../../../background/israel/expl/the-role-of-family-in-the-bible
+sources:
+    - pages: 69-
+      ref: richter
 ---
 
 Damals war es [notwendig, Teil einer Familie zu sein (Versorgung Schutz, …) und in einer einflußreichen Familie zu sein war noch besser](../../../../background/israel/expl/the-role-of-family-in-the-bible).
@@ -75,8 +81,3 @@ Eine Anforderung war, es [immer wieder zu lesen](https://www.bibleserver.com/SLT
 Außerdem nennt sich Gott selbst auch [der Vater Israels](https://www.bibleserver.com/SLT/2.Mose3%2C6).
 
 Die Bibel verwendet das Wort “heset” = “Bundestreue“, was ein Wort ist das auch mit “Liebe”, “Güte”, “Gnade” oder “Treue” übersetzt werden kann.
-
-## Zum Vertiefen
-
-[Sandra Richter, The Epic of Eden, Seiten 69-](../../../../about/ressources/index.html#richter)
-

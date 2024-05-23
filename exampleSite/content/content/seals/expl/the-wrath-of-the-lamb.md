@@ -1,6 +1,9 @@
 ---
 title: "The wrath of the Lamb"
 weight: 4
+sources: 
+    - pages: 395–404
+      ref: beale_rev
 ---
 
 What is the wrath of the Lamb? Does it support acts of war in the name of faith?
@@ -45,8 +48,3 @@ Let me tell you: For most people in most of history at least one of them was kno
 And God acting on behalf of the suffering gives justification.
 
 We are responsible for the suffering we cause others. Our wickedness is not just wiped away by a single prayer. God wants our hearts of stone to change.
-
-## Dig Deeper
-
-[Beale, Revelation, pages 395–404](../../../../about/ressources/index.html#beale_rev)
-

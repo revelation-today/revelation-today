@@ -1,6 +1,13 @@
 ---
 title: "The letter to the church in Sardis"
 weight: 5
+sources: 
+    - pages: 272–282
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 44–45
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 What does a dead church look like? How do you give new life in there? Curious? Check out the [letter to Sardis](https://www.bibleserver.com/NIV/Revelation3%3A1-6).
@@ -42,10 +49,3 @@ They should act quickly or God will take them by surprise, for life without the 
 The white robes are a sign of acquittal in court.
 
 The fact that names are not blotted out of the Book of Life means that they do not lose their citizenship in heaven. But only those who repent. This is a wake-up call! Intended to shock.
-
-## Dig Deeper
-
-[Beale, Revelation, pages 272–282](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, pages 44–45](../../../../../about/ressources/index.html#fee_rev)
-

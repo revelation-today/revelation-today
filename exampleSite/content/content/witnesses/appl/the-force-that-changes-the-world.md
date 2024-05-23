@@ -1,6 +1,13 @@
 ---
 title: "The force that changes the world"
 weight: 1
+deeper:
+    - name: The temple
+      link: ../../../../bible/keyword/expl/the-temple-and-the-presence-of-god
+    - name: The power of testimony
+      link: ../../../../topics/power/short/the-power-of-testimony
+    - name: The two witnesses
+      link: ../../../../content/witnesses/expl/the-two-witnesses
 ---
 
 There are two witnesses who change the whole world and prepare it for the kingdom of God. Who are they and what is their secret?
@@ -51,11 +58,3 @@ The two witnesses are modeled after Moses (water to blood) and Elijah (no rain, 
 - Can you see a parallel between the two witnesses and how the early church functioned?
 - What is more important to you than your own life?
 - Do you believe that the Church has the potential to change the world?
-
-## Digging deeper
-
-<a name="7f53"></a>
-- [The temple](../../../../bible/keyword/expl/the-temple-and-the-presence-of-god)
-- [The power of testimony](../../../../topics/power/short/the-power-of-testimony)
-- [The two witnesses](../../../../content/witnesses/expl/the-two-witnesses)
-

@@ -1,6 +1,17 @@
 ---
 title: "The paradox of the seven seals"
 weight: 1
+deeper:
+    - name: A real hero
+      link: ../../../../topics/hero/short/a-real-hero
+    - name: Who rules the world?
+      link: ../../../../topics/hero/short/who-rules-the-world
+    - name: The book with the seven seals
+      link: ../../../../content/seals/expl/the-book-with-the-seven-seals
+    - name: The mystery of the four horsemen
+      link: ../../../../content/seals/expl/the-mystery-of-the-four-horse-men
+    - name: The wrath of the lamb
+      link: ../../../../content/seals/expl/the-wrath-of-the-lamb
 ---
 
 The seven seals is the time when the book becomes really confusing and even disturbing. What is it all about? What is in the book of the seven seals, and who are these riders?
@@ -55,13 +66,3 @@ So everything depends on the good witness of the Church.
 - Do you think a world without Jesus is fixable?
 - How do you respond when people speak ill of the church?
 - Can you think of a promise made by an organization or government that ended up causing more pain? What initiative really made a difference, even when it seemed hopeless? What was the difference?
-
-## Digging deeper
-
-<a name="06f1"></a>
-- [A real hero](../../../../topics/hero/short/a-real-hero)
-- [Who rules the world?](../../../../topics/hero/short/who-rules-the-world)
-- [The book with the seven seals](../../../../content/seals/expl/the-book-with-the-seven-seals)
-- [The mystery of the four horsemen](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
-- [The wrath of the lamb](../../../../content/seals/expl/the-wrath-of-the-lamb)
-

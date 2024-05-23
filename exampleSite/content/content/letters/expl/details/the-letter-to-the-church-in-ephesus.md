@@ -1,6 +1,13 @@
 ---
 title: "The letter to the church in Ephesus"
 weight: 1
+sources: 
+    - pages: 228–239
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 24
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 The Church of Ephesus is a good example of a church. But its appearance is deceptive. Jesus’ judgment is devastating.
@@ -46,10 +53,3 @@ Ephesus may be an established church if they have their way of dealing with spir
 The promise is to eat of the tree of life, which brings them back to the untroubled relationship with God in the garden. If they want to go on and not be a church that God has no use for, they have to start there.
 
 And they have a [promise in the New Jerusalem](https://www.bibleserver.com/NIV/Revelation22%3A1-5).
-
-## Dig Deeper
-
-[Beale, Revelation, pages 228–239](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, page 24](../../../../../about/ressources/index.html#fee_rev)
-

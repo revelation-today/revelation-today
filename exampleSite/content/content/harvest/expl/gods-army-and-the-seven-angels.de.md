@@ -1,6 +1,13 @@
 ---
 title: "Gottes Armee und die sieben Engel"
 weight: 2
+sources: 
+    - pages: 730–784
+      ref: beale_rev
+    - pages: 98–104
+      ref: bauckham_rev
+    - pages: 283–307
+      ref: bauckham_climax
 ---
 
 Kapitel 14 der Offenbarung ist eines der verwirrendsten Kapitel und scheint am falschen Platz zu sein. Wir müssen also einen genaueren Blick darauf werfen.
@@ -93,12 +100,3 @@ Das alles ist der Inhalt des Liedes von Mose und dem Lamm. Die Geschichte lautet
 - Darum kommen alle Völker, dich anzubeten.
 
 Dieses Lied ist eine Proklamation, dass alle Völker kommen, um Gott anzubeten. Er tut dies, indem er ihre Feinde richtet. Der Jubel gilt nicht der Rettung der Märtyrer, sondern der Rettung der Völker durch Gott.In den folgenden Schalen sehen wir, wie Gott mit den Völkern umgeht, die sich weigern, ihn anzubeten und stattdessen dem Tier treu sind.
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 730–784](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham, Revelation, Seiten 98–104](../../../../about/ressources/index.html#bauckham_rev)
-
-[Bauckham, The climax of Prophecy, Seiten 283–307](../../../../about/ressources/index.html#bauckham_climax)
-

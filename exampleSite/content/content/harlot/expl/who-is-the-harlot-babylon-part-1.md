@@ -1,6 +1,14 @@
 ---
 title: "Part 1: Who is the Harlot Babylon?"
 weight: 2
+deeper:
+    - name: The Harlot part 2
+      link: ../../../../content/harlot/expl/who-is-the-harlot-babel-part-2
+    - name: The origin of Babylon
+      link: ../../../../bible/keyword/expl/the-origin-of-babel
+sources: 
+    - pages: 847–890
+      ref: beale_rev
 ---
 
 Some people say, it is the Pope; some people say it is the economy. It could be anyone, even the Church. So who is the Harlot Babylon?
@@ -109,14 +117,3 @@ and finally many parallels with the Second Beast in chapter 13.
 The power of the harlot is also reversed here into: while in chapter 13 she dropped fire from heaven, now she is destroyed by fire; while she makes a mark on her forehead, here she herself is branded on the forehead (like a slave).
 
 While the first beast supports the harlot in chapter 17, the second beast supports the first beast in chapter 13.
-
-## Further reading
-
-<a name="efa5"></a>
-- [The Harlot part 2](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
-- [The origin of Babylon](../../../../bible/keyword/expl/the-origin-of-babel)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 847–890](../../../../about/ressources/index.html#beale_rev)
-

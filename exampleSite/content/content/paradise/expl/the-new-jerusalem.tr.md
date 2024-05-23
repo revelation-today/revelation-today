@@ -1,6 +1,9 @@
 ---
 title: "Yeni Kudüs"
 weight: 2
+sources: 
+    - pages: 1039–1121
+      ref: beale_rev
 ---
 
 Cennet nasıl olacak ve cehennem nasıl olacak? Bunu ayrıntılı olarak söylemek zordur, ancak Vahiy kitabı bize biraz fikir verir.
@@ -255,8 +258,3 @@ Son olarak, çember başlangıca (yaratılış ve düşüşe) kadar kapanır: [Y
 Tüm kötülükler ortadan kalkmıştır ve artık tamamen Tanrı’ya hizmet etmeye odaklanabiliriz.
 
 [Alındaki isim](https://www.bibleserver.com/TR/Vahiy22%3A4) başlangıçta [kâhinlerin alnındaydı](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F28%3A36-38) ve [Tanrı’nın karakterinin onların ve şimdi de bizim üzerimize basıldığını gösterir](https://www.bibleserver.com/TR/1.Yuhanna3%3A2).
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 1039–1121](../../../../about/ressources/index.html#beale_rev)
-

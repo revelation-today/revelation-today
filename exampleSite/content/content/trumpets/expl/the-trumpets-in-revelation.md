@@ -1,6 +1,12 @@
 ---
 title: "The trumpets in Revelation"
 weight: 2
+deeper:
+    - name: The little scroll
+      link: ../../../../content/scroll/expl/the-little-scroll
+sources: 
+    - pages: 445–520
+      ref: beale_rev
 ---
 
 The trumpets in the Revelation chapters 8, 9 and 11 reflect to many people some catastrophes in modern times, but it actually reflects [the plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt).
@@ -76,12 +82,3 @@ Wait a minute: 90% revered his name after the witness? That is quite a success![
 - The [Roman commander Felix heard the consequences of the gospel](https://www.bibleserver.com/NIV/Acts24%3A25) and asked Paul to stop speaking.
 
 So the word “terrified” can better be translated as “overwhelmed”.
-
-## Further reading
-
-[The little scroll](../../../../content/scroll/expl/the-little-scroll)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 445–520](../../../../about/ressources/index.html#beale_rev)
-

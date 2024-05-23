@@ -1,6 +1,11 @@
 ---
 title: "The thousand year kingdom"
 weight: 2
+sources:
+    - pages: 972–1031
+      ref: beale_rev
+    - pages: 1084–1090
+      ref: aune_rev
 ---
 
 There are many disputes about the 1000 year kingdom, which has spawned many theories. Let’s take a look at the text and its context and get a new, fresh look.
@@ -157,10 +162,3 @@ So anyone who is loyal to God will rule, even [if it is (only) economic or socia
 “[Blessed and holy are those who share in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ and will reign with him for a thousand years.](https://www.bibleserver.com/NIV/Revelation20%3A6)”
 
 When we are born we have our “first life” in the old creation. When [we are born again we have our “second life”](https://www.bibleserver.com/NIV/John3) which we could call the first resurrection. The second death is that of not having the second life which means they are spiritually dead in God.
-
-## Dig Deeper
-
-[Beale, Revelation, pages 972–1031](../../../../about/ressources/index.html#beale_rev)
-
-[Aune, Revelation, pages 1084–1090](../../../../about/ressources/index.html#aune_rev)
-

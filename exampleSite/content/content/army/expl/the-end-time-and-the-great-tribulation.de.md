@@ -1,6 +1,9 @@
 ---
 title: "Die große Trübsal"
 weight: 3
+sources:
+    - pages: 433–445
+      ref: beale_rev
 ---
 
 Wann beginnt die Endzeit und wann ist die Große Trübsal? Diese Frage ist für viele mit Emotionen verbunden. Welche verlässlichen Informationen gibt es und können wir sie beurteilen? Die Antworten finden sich in der Bibel.
@@ -63,8 +66,3 @@ Die Große Trübsal sind alle Verfolgungen, die die Gemeinde seit ihrer Gründun
 - [Der Menschensohn](../../../../bible/daniel/expl/the-son-of-man-and-the-remnant)
 - [Der Überrest Israels](../../../../background/israel/expl/the-remnant-of-israel)
 - [Die Gemeinde und Israel](../../../../background/israel/expl/the-church-is-part-of-israel)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 433–445](../../../../about/ressources/index.html#beale_rev)
-

@@ -1,6 +1,11 @@
 ---
 title: "The use of numbers in the Book of Revelation"
 weight: 40
+sources:
+    - pages: 60–64
+      ref: beale_rev
+    - pages: 384–407
+      ref: bauckham_climax
 ---
 
 The book is full of numbers, but what do they mean? Are they literal, like 1260 days, or are they meant to be red in some other way? How are numbers used in the Bible?
@@ -123,10 +128,3 @@ The reality is that Gods kingdom is far above Satan’s kingdom which is a massi
 But we often see the distorted reality, where Satan is always a bit stronger.
 
 ![](/images/Numbers2_en2.jpg)
-
-## Further digging
-
-[Beale, Revelation, pages 60–64](../../../../about/ressources/index.html#bealy_rev)
-
-[Bauckham, The climax of prophecy, pages 384–407](../../../../about/ressources/index.html#bauckham_climax)
-

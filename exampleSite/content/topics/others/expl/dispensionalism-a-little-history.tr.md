@@ -1,6 +1,12 @@
 ---
 title: "Dispansionalizm — Küçük bir tarihçe"
 weight: 1
+deeper:
+    - name: Dispensionalizm Üzerine Eleştiri
+      link: ../../../../topics/others/expl/dispensionalism-and-its-critic
+sources: 
+    - pages: 11–67
+      ref: koester_rev
 ---
 
 Bu garip kelimeyi hiç duydunuz mu? Hayır, ama belki üçüncü tapınak, kendinden geçme ya da 3,5 yıllık sıkıntı hakkında bir şeyler duymuşsunuzdur. Eğer öyleyse, [dispensiyonalizm](https://en.wikipedia.org/wiki/Dispensationalism) hakkında bir şeyler duymuşsunuzdur. Ama şimdi adım adım ilerleyelim.
@@ -39,13 +45,3 @@ Görüşleri Scofield İncili, Hal Lindsey’in “Late Great Planet Earth” ve
 O zamandan beri Dispansionalizm yayılmıştır ve geniş bir çeşitliliğe sahiptir ancak bazı temel [inançları](https://www.thegospelcoalition.org/essay/dispensational-theology/) vardır.
 
 Since then Dispensionalism has spread and has a wide variety but has some core [believes](https://www.thegospelcoalition.org/essay/dispensational-theology/).
-
-## Daha fazla okuma
-
-<a name="f0c3"></a>
-- [Dispensionalizm Üzerine Eleştiri](../../../../topics/others/expl/dispensionalism-and-its-critic)
-
-## Daha derine inmek
-
-[Köster, Revelation and the end of all things, sayfalar 11–67](../../../../about/ressources/index.html#koester_rev)
-

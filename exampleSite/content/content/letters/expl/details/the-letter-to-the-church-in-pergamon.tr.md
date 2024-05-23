@@ -1,6 +1,16 @@
 ---
 title: "Bergama’daki kiliseye mektup"
 weight: 3
+deeper:
+    - name: Balam’ın öyküsü
+      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+sources: 
+    - pages: 245–258
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 33
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Bu kilise çöküşün eşiğinde ve tüm bunlar Balam yüzünden mi? Aslında sorun o değil.
@@ -47,15 +57,3 @@ Her öğreti aynı zamanda yapılanları da etkilediği için, davranışları v
 Yeni bir isim normalde [yeni bir kimlikle](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F17%3A5) ilişkilidir ve yeni ismi bilmek bu kişiler arasında yakın bir ilişkiye işaret eder.
 
 Kilise isterse Tanrı yeni bir başlangıç sunar. [Ama istemezlerse, İsa onlara karşı savaşacaktır.](https://www.bibleserver.com/TR/Vahiy2%3A16)
-
-## Daha fazla okuma
-
-<a name="e4dd"></a>
-- [Balam’ın öyküsü](../../../../bible/keyword/expl/the-story-of-balaam)
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 245–258](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, sayfalar 33](../../../../../about/ressources/index.html#fee_rev)
-

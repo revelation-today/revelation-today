@@ -1,6 +1,9 @@
 ---
 title: "The story before the Exodus"
 weight: 10
+sources:
+    - pages: 15–26
+      ref: sarna_exo
 ---
 
 When Israel came to Egypt they were welcomed, the next time we read about them they are slaves. What happened to them?
@@ -22,8 +25,3 @@ It is likely that Joseph lived during the time of the Hyksos as
 - The [land of Goshen (in northwest of Egypt) was near to the palace when Joseph was there](https://www.bibleserver.com/NIV/Genesis45%3A10).
 - Israel was forced to [build the cities of Pithon and Ramses](https://www.bibleserver.com/NIV/Exodus1%3A11), probably under [Ramses II](https://en.wikipedia.org/wiki/Ramesses_II), who rebuilt the northeast, [where also the Israelites also moved out from](https://www.bibleserver.com/NIV/Exodus12%3A37).
 - Ramses’ father, Sethos I, built a summer palace near Avaris (the former Hyksos capital), which also explains why Moses was found so quickly by the princess, since this was still near Goshen.
-
-### Dig deeper
-
-[Nahum Sarna, Exodus, pages 15–26](../../../../about/ressources/index.html#sarna_exo)
-

@@ -1,6 +1,8 @@
 ---
 title: "The book of Daniel"
 weight: 10
+sources:
+    - ref: daniel
 ---
 
 The book of Daniel in the Bible seems to have two sides: One is the first 6 chapters that show a great example of faith, while the other 6 chapters are full of strange visions that seem to be the cause of many strange theologies. But this is not true.
@@ -64,8 +66,3 @@ There are several dimensions of the story that overlap:
 - The divine deliverance [of the whole world and its empires](https://www.bibleserver.com/NIV/Daniel2%3A45) in [God’s mysterious way](https://www.bibleserver.com/NIV/Daniel9%3A24-27) that lasts forever.
 
 All this together shows the importance of each person’s faith in the eternal destiny of the world. God acts in the subtle acts of individuals and brings forth an unbeatable kingdom.
-
-## Dig deeper
-
-[Wuppertaler Studienbibel, Der Prophet Daniel](../../../../about/ressources/index.html#daniel)
-

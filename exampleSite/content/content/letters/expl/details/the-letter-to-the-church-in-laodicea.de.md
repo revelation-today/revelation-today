@@ -1,6 +1,13 @@
 ---
 title: "Das Sendschreiben an Laodizäa"
 weight: 7
+sources: 
+    - pages: 296–310
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 57
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Das ist wohl der [bekannteste Brief an die Gemeinde](https://www.bibleserver.com/SLT/Offenbarung3%2C14-22) und wir alle kennen das Thema “lauwarm”. Aber verstehen wir wirklich den Zusammenhang? Vor allem, wenn es um eine Gemeinde geht, die kein Lob bekommt, nicht einmal ein kleines!
@@ -45,10 +52,3 @@ Und WENN SIE IHN HÖREN, SITZEN SIE MIT IHM auf dem Thron im Thronsaal.
 Moment mal: Im Thronsaal sitzt niemand, alle stehen!
 
 Was bedeutet das nun für Laodizea? Ist das Motivation genug für sie?
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 296–310](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, Seiten 57](../../../../../about/ressources/index.html#fee_rev)
-

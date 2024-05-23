@@ -1,6 +1,11 @@
 ---
 title: "The character and destiny of the harlot"
 weight: 4
+sources: 
+    - pages: 890–948
+      ref: beale_rev
+    - pages: 338–384
+      ref: bauckham_climax
 ---
 
 After understanding who the harlot is, there are still open questions that the Bible answers. What is her behavior and “tactic”? How should we behave? What causes her to fall?
@@ -48,10 +53,3 @@ The judgment is based on her actions:
 - She considered herself untouchable -&gt; She will fall in an hour (very short time).
 - She will be judged [with the same measure](https://www.bibleserver.com/NIV/Revelation18%3A6) that [she inflicted on others](https://www.bibleserver.com/NIV/Revelation18%3A22-24) ([the double measure is another way of saying the equivalent](https://meredithkline.com/klines-works/articles-and-essays/double-trouble/))
 - She will be consumed by fire, which was the judgment when the daughter of a priest committed adultery, another strong warning to stay away from Babel and not to be attracted to it.
-
-## Dig Deeper
-
-[Beale, Revelation, pages 890–948](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham, The climax of Prophecy, pages 338–384](../../../../about/ressources/index.html#bauckham_climax)
-

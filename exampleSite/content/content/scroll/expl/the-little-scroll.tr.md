@@ -1,6 +1,12 @@
 ---
 title: "Küçük parşömen"
 weight: 2
+deeper:
+    - name: İki tanık
+      link: ../../../../content/witnesses/expl/the-two-witnesses
+sources: 
+    - pages: 520–555
+      ref: beale_rev
 ---
 
 There is a little scroll that John needs to eat and the mystery of the seven thunders. What is the meaning of this?
@@ -33,13 +39,3 @@ Yuhanna’dan bu tomarı yemesi istenir. Bu bize Hezekiel’i ve onun tomarı ye
 İsa’nın ne yaptığını (ağızda tatlı) ve sonuçlarının ne olduğunu (midede acı) anlatır ki bu dünya için bir yargıdır ama daha çok onlardan nefret eden ve onları İsa’dan daha iyi tehdit etmeyecek olan dünyaya tanıklık etmenin ne anlama gelmediğini anlatır.
 
 Ama şimdi tomar nedir? Bir sonraki bölüm(ler)e baktığımızda, kilisenin sonunda başaracağı uluslara ulaşmak için kilisenin tanıklığıdır.
-
-## Diğer okumalar
-
-<a name="b1dc"></a>
-- [İki tanık](../../../../content/witnesses/expl/the-two-witnesses)
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 520–555](../../../../about/ressources/index.html#beale_rev)
-

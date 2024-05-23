@@ -1,6 +1,9 @@
 ---
 title: "The story of Balaam"
 weight: 30
+sources:
+    - pages: 249
+      ref: beale_rev
 ---
 
 You know the story of Balaam and the donkey, but do you know why and how Balaam deceived Israel into idolatry.
@@ -43,8 +46,3 @@ So what was going on? Balaam was not happy because he could not finish his work 
 So he makes a party and draws Israel from God to the Midianite women.
 
 It was Balaam’s pride that brought him down, but it was Moses’ leadership that caused the death of the Israelites.
-
-### Dig deeper
-
-[Beale, Revelation, page 249](../../../../about/ressources/index.html#beale_rev)
-

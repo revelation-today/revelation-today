@@ -1,6 +1,11 @@
 ---
 title: "Bazı şeyler asla değişmez"
 weight: 1
+deeper:
+    - name: Tarihsel arka plan
+      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+    - name: İsrail ve kilise
+      link: ../../../../background/israel/expl/israel-and-the-church
 ---
 
 Vahiy kitabı çok özel bir zamanda çok özel insanlara seslenir, ancak orada ele alınan sorunlar bugün de aynı sorunlardır ve çözümleri de aynıdır. Bir göz atalım.
@@ -58,9 +63,4 @@ Ve kilise ne yapılabileceğini sorabilir. Vahiy kitabı bu konuda yardımcı ol
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
 
-## Daha derine inmek
-
-<a name="1425"></a>
-- [Tarihsel arka plan](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [İsrail ve kilise](../../../../background/israel/expl/israel-and-the-church)
 

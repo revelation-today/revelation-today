@@ -1,6 +1,11 @@
 ---
 title: "Vahiy Kitabı’nda sayıların kullanımı"
 weight: 40
+sources:
+    - pages: 60–64
+      ref: beale_rev
+    - pages: 384–407
+      ref: bauckham_climax
 ---
 
 Kitap sayılarla dolu ama bunlar ne anlama geliyor? Sayılar 1260 gün gibi harfi harfine mi alınır yoksa başka bir şekilde mi anlamlandırılmalıdır? Kutsal Kitap boyunca sayılar nasıl kullanılır?
@@ -121,10 +126,3 @@ Gerçek şu ki, Tanrı’nın krallığı Şeytan’ın devasa bir parodi olan k
 Ancak biz genellikle Şeytan’ın her zaman biraz daha güçlü olduğu çarpıtılmış gerçekliği görürüz.
 
 ![](/images/Numbers2_tr2.jpg)
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 60–64](../../../../about/ressources/index.html#bealy_rev)
-
-[Bauckham, The climax of prophecy, sayfalar 384–407](../../../../about/ressources/index.html#bauckham_climax)
-

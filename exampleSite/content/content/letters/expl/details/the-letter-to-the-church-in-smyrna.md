@@ -1,6 +1,13 @@
 ---
 title: "The letter to the church in Smyrna"
 weight: 2
+sources: 
+    - pages: 239–245
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 29–30
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Do you know Smyrna? You should, because you will find a blameless church there, but it may not be the right one for you.
@@ -32,10 +39,3 @@ The reference [to 10 days](https://www.bibleserver.com/NIV/Revelation2%3A10) is 
 Jesus promises: When they endure they will not be harmed by the second death. Jesus overcame by [going through death into resurrection and seeming to be week](https://www.bibleserver.com/NIV/Revelation5%3A5-6), so [he will reign with them](https://www.bibleserver.com/NIV/Revelation20%3A4-6). This is a paradox. How should this work?
 
 The more we are unable to do anything, the more Jesus can work. But there is a [danger of being so overwhelmed by despair that we give up](../../../../content/beasts/expl/666-the-number-of-the-beast). We don’t have to solve the situation, but we have to endure with him.
-
-## Dig Deeper
-
-[Beale, Revelation, pages 239–245](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, pages 29–30](../../../../../about/ressources/index.html#fee_rev)
-

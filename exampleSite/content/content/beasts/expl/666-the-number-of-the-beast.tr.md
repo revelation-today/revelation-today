@@ -1,6 +1,9 @@
 ---
 title: "666: Canavarın numarası"
 weight: 4
+sources:
+    - pages: 384–452
+      ref: bauckham_climax
 ---
 
 [Canavarın sihirli](https://www.bibleserver.com/TR/Vahiy13%3A18) sayısı — bence yanlış bir şekilde — güncel siyaseti bir numaralandırma şeması kullanarak yorumlamak için kullanılmıştır. Cevap araştırılmalıdır ve Kutsal Kitap’ın kendisinde bulunabilir.
@@ -94,8 +97,3 @@ Eğer 666'nın yerleştirilmiş bir bilgisayar çipi olduğunu düşünüyorsan�
 - Akıllı telefon kullanımı (konum takibi dahil)
 - Kredi veya banka kartı kullanımı
 - Tonlarca sosyal medya kaydı mı?
-
-## Daha fazla kazma
-
-[Bauckham, The climax of Prophecy, sayfalar 384–452](../../../../about/ressources/index.html#bauckham_climax)
-

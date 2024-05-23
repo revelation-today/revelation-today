@@ -1,6 +1,9 @@
 ---
 title: "Kıyamet"
 weight: 3
+sources: 
+    - pages: 173-186
+      ref: rossing
 ---
 
 Kıyamet çok etkileyici bir konudur ve birçok insanın hayal gücüne ilham vermiş ve daha da fazla insanı korkutmuştur. Peki ama kıyamet nedir? Kutsal Kitap’a uygun mudur? Ve inananlar için ne anlama geliyor?
@@ -106,8 +109,3 @@ Daha ziyade [Yeşaya](https://www.bibleserver.com/TR/Ye%C5%9Faya6%3A1-13) ya da 
 
 <a name="bfec"></a>
 Göğe alınma argümanı, farklı durumları tanımlayan, yanlış bir şekilde kırmızıya boyanmış ve anahtar kelimelerin anlamları göz ardı edilerek bağlamından koparılmış pasajlara atıfta bulunmaktadır. Göğe alınma için Kutsal Kitap’ta hiçbir kanıt yoktur.
-
-### Daha fazla kazma
-
-[Barabara Rossing, The rapture exposed, sayfalar 173-186](../../../../about/ressources/index.html#rossing)
-

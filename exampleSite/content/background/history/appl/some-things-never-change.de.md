@@ -1,6 +1,11 @@
 ---
 title: "Manche Dinge ändern sich nie"
 weight: 1
+deeper:
+    - name: Der historische Hintergrund
+      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+    - name: Israel und die Gemeinde
+      link: ../../../../background/israel/expl/israel-and-the-church
 ---
 
 Das Buch der Offenbarung ist an bestimmte Menschen in einer bestimmten Zeit gerichtet, aber die Probleme sind heute die gleichen und die Lösungen auch.
@@ -53,10 +58,4 @@ Und die Gemeinde fragt sich vielleicht, was sie tun kann. Und das Buch Offenbaru
 - Wir sind berufen, verantwortlich mit der Umwelt umzugehen.
 - Wir sind aufgerufen, Versöhner zu sein.
 - Wir sind berufen, Antworten auf die großen Fragen der Menschheit zu geben, zum Beispiel auf die Gier.
-
-## Zur Vertiefung
-
-<a name="afb0"></a>
-- [Der historische Hintergrund](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [Israel und die Gemeinde](../../../../background/israel/expl/israel-and-the-church)
 

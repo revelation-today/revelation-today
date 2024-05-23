@@ -1,6 +1,12 @@
 ---
 title: "Die Zornesschalen"
 weight: 2
+deeper:
+    - name: Harmageddon
+      link: ../../../../content/bowls/expl/the-key-to-armageddon
+sources: 
+    - pages: 681–730
+      ref: beale_rev
 ---
 
 Die Zornesschalen in der Offenbarung erwecken den Eindruck, dass Gott über die nichtbekehrten Menschen verärgert ist und einen Zornesausbruch hat. Das ist aber weit gefehlt.
@@ -45,13 +51,3 @@ Nun müssen wir die sechste Schale etwas genauer betrachten.
 Auch [die drei Frösche aus dem Maul des Drachens](https://www.bibleserver.com/SLT/Offenbarung16%2C13) und seine Begleiter haben auch einen interessanten Hintergrund. Der Frosch ist die Repräsentation von [Heqed, der Göttin der Fruchtbarkeit und Auferstehung](https://de.wikipedia.org/wiki/Heket). Hier gibt es einen Bezug zur zweiten Plage und der [Unschlagbarkeit des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C3-4).
 
 [Der Sammlung der Armeen in Harmagedon](https://www.bibleserver.com/SLT/Offenbarung16%2C14-16) wird in die [Sammlung der Vögel in Kapitel 19](https://www.bibleserver.com/SLT/Offenbarung19%2C17-18) gegenübergestellt, was die Niederlage Satans noch ironischer macht, da es den Anschein, als würde die Armee Satans von ein paar Vögeln vernichtet werden.
-
-## Zum Weiterlesen
-
-<a name="0ffa"></a>
-- [Harmagedon](../../../../content/bowls/expl/the-key-to-armageddon)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 681–730](../../../../about/ressources/index.html#beale_rev)
-

@@ -1,6 +1,14 @@
 ---
 title: "Vahiy kitabı: Nasıl okunmalı?"
 weight: 10
+deeper:
+    - name: Ist die Offenbarung wörtlich oder symbolisch zu verstehen?
+      link: ../../../../background/literature/expl/literally-or-symbolic
+    - name: Was ist der historische Hintergrund?
+      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+sources:
+    - pages: 10–56
+      ref: goreman
 ---
 
 Vahiy kitabı insanlara pek çok konuda ilham vermiştir, bunların çoğunun Kutsal Kitap’taki vahiy kitabıyla hiçbir ilgisi yoktur. Size bir liste vermekten kaçınıyorum ama sanırım neden bahsettiğimi biliyorum. Peki bu çok tuhaf kitabı okumak nasıl mümkün olabilir? Bu soruya yanıt bulabilmek için öncelikle bu kitabın doğasını anlamamız gerekir.
@@ -137,15 +145,3 @@ Kitap değil
 
 - uzak gelecekteki bir olayı tanımlamak için (eski dinleyicilere) geleceğe bir bakış, onlarla hiçbir ilişkisi olmayacak
 - geleceğin tam olarak nasıl görüneceğini tanımlamaz
-
-## Daha fazla okuma
-
-<a name="453f"></a>
-- [Hepsi gerçek mi yoksa sembolik mi?](../../../../background/literature/expl/literally-or-symbolic)
-- [Tarihsel arka plan nedir?](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="676f"></a>
-[Goreman, Reading Revelation Responsibly, sayfalar 10–56](../../../../about/ressources/index.html#goreman)
-

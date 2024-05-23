@@ -1,6 +1,9 @@
 ---
 title: "Die Rolle der Familie"
 weight: 1
+sources:
+    - pages: 21–46
+      ref: richter
 ---
 
 Befürwortet die Bibel patriarchale Strukturen? Sagt sie, dass Frauen nicht gleichwertig sind? Ganz und gar nicht. Lass mich erklären, wie die Familie damals funktionierte.
@@ -82,8 +85,3 @@ Wenn eine Familie ihr Land verkaufen müßte, wären sie ruiniert, also sicherte
 
 <a name="26ef"></a>
 Gott wird als Vater dargestellt, Jesus als Erstgeborener, der sich um seine Geschwister kümmert, und er gibt ein [Haus mit vielen Zimmern](https://www.bibleserver.com/SLT/Johannes14%2C1-3), damit alle zusammen wohnen können.
-
-## Zur Vertiefung
-
-[Sandra Richter, The Epic of Eden, Seiten 21–46](../../../../about/ressources/index.html#richter)
-

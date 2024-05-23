@@ -1,6 +1,19 @@
 ---
 title: "Dua ve sarsılmazlık"
 weight: 1
+deeper:
+    - name: Duanın gücü
+      link: ../../../../topics/power/short/the-key-of-prayer
+    - name: Göçten önceki hikaye
+      link: ../../../../bible/exodus/expl/the-story-before-the-exodus
+    - name: Musa’nın doğumu
+      link: ../../../../bible/exodus/expl/the-birth-of-moses
+    - name: Firavun’un yüreğinin katılaşması
+      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+    - name: Mısır’daki belalar
+      link: ../../../../bible/exodus/expl/the-plagues-in-egypt
+    - name: Yedi trompet
+      link: ../../../../content/trumpets/expl/the-trumpets-in-revelation
 ---
 
 Trompetler birçok insana dünya çapında felaketler ve hatta askeri eylemlerle ilgili ahir zaman senaryoları konusunda ilham vermiştir. Ancak daha yakından baktığımızda duanın rolü ve zorluklarla nasıl başa çıkılacağı hakkında çok şey görürüz.
@@ -65,14 +78,3 @@ Diğer yandan: Zor zamanlar bir kalbi değiştirmek için yeterli değildir. Dah
 - Hangi güvencenizden vazgeçemezsiniz? Tanrı’yla ilişkinizi kaybettiğinizde de vazgeçmez miydiniz?
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="2c6d"></a>
-- [Duanın gücü](../../../../topics/power/short/the-key-of-prayer)
-- [Göçten önceki hikaye](../../../../bible/exodus/expl/the-story-before-the-exodus)
-- [Musa’nın doğumu](../../../../bible/exodus/expl/the-birth-of-moses)
-- [Firavun’un yüreğinin katılaşması](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
-- [Mısır’daki belalar](../../../../bible/exodus/expl/the-plagues-in-egypt)
-- [Yedi trompet](../../../../content/trumpets/expl/the-trumpets-in-revelation)
-

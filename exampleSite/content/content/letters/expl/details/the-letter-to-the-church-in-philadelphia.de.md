@@ -1,6 +1,13 @@
 ---
 title: "Das Sendschreiben an Philadelphia"
 weight: 6
+sources: 
+    - pages: 283–296
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 50-51
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 [Philadelphia](https://www.bibleserver.com/SLT/Offenbarung3%2C7-13): Die Stadt mit dem Schlüssel Davids. Aber was für eine Tür ist das? Evangelisation, Beziehungen, …? Lies weiter, um zu erfahren, warum die Gemeinde nicht getadelt wird.
@@ -42,10 +49,3 @@ Diese Verheißung ist wahrscheinlich auch der Grund, warum sie so lange durchgeh
 Hier im Text heißt es: “[Weil du das Wort vom standhaften Ausharren auf mich bewahrt hast, werde auch ich dich bewahren vor der Stunde der Versuchung, die über den ganzen Erdkreis kommen wird, damit die versucht werden, die auf der Erde wohnen.](https://www.bibleserver.com/SLT/Offenbarung3%2C10)”
 
 Was ist die Stunde der Versuchung, die über die ganze Erde kommt? Und wie will Jesus sie davor bewahren? Das Wort “[bewahren vo](https://biblehub.com/interlinear/revelation/3-10.htm)r” kommt sonst nur im [Johannesevangelium](https://biblehub.com/interlinear/john/17-15.htm) vor, wo das Gebet Jesu für seine Jünger beschrieben wird: “[dass Gott sie nicht aus der Welt nehme, sondern sie bewahre vor dem Bösen](https://www.bibleserver.com/SLT/Johannes17%2C15)”. Hier spricht Jesus von der Herausnahme aus der Welt, sondern von der Bewahrung in der Welt, ähnlich wie in den [Sprüchen](https://www.bibleserver.com/SLT/Spr%C3%BCche7%2C5) oder im [Jakobusbrief](https://www.bibleserver.com/SLT/Jakobus1%2C27). Diese Aussage bezieht sich auf die gleiche Situation wie die [Große Trübsal](../../../../content/army/expl/the-end-time-and-the-great-tribulation).
-
-## zur Vertiefung
-
-[Beale, Revelation, Seiten 283–296](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, Seiten 50–51](../../../../../about/ressources/index.html#fee_rev)
-

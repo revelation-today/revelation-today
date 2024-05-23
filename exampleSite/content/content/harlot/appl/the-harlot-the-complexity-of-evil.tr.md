@@ -1,6 +1,15 @@
 ---
 title: "Fahişe: Kötülüğün karmaşıklığı"
 weight: 1
+deeper:
+    - name: Fahişe kimdir? Bölüm 1
+      link: ../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1
+    - name: Fahişe kimdir? Bölüm 2
+      link: ../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2
+    - name: Zamanın alay konusu olarak fahişe
+      link: ../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+    - name: Fahişenin karakteri ve kaderi
+      link: ../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot
 ---
 
 Vahiy kitabındaki fahişeyi kavramak zordur, çünkü yeryüzündeki kötü sistemin karmaşıklığını gösterir. Ancak biraz sabırla bu konuda iyi bir görüş elde edebiliriz.
@@ -51,12 +60,3 @@ Ağzından çıkan bir kılıçla gelir ve herkesi tek başına yargılar (melek
 - Babil düştüğünde hangi şeyler için yas tutarsınız?
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="052e"></a>
-- [Fahişe kimdir? Bölüm 1](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
-- [Fahişe kimdir? Bölüm 2](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
-- [Zamanın alay konusu olarak fahişe](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
-- [Fahişenin karakteri ve kaderi](../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
-

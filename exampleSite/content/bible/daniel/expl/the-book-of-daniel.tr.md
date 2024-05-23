@@ -1,6 +1,9 @@
 ---
 title: "Daniel’in kitabı"
 weight: 10
+sources:
+    - pages: 
+      ref: daniel
 ---
 
 Kutsal Kitap’taki Daniel kitabının iki yönü var gibi görünmektedir: Biri, büyük bir iman örneği gösteren ilk 6 bölümdür, diğer 6 bölüm ise birçok garip teolojinin nedeni gibi görünen garip görümlerle doludur. Ancak bu doğru değildir.
@@ -62,8 +65,3 @@ Hikâyenin birbiriyle örtüşen birkaç boyutu var:
 - Tüm dünyanın tanrısal kurtuluşu ve [Tanrı’nın sonsuza dek tutan gizemli yolundaki](https://www.bibleserver.com/TR/Daniel2%3A45) [imparatorlukları](https://www.bibleserver.com/TR/Daniel2%3A45)
 
 Tüm bunları bir araya getirmek, dünyanın ebedi kaderinde (her bir) tek kişinin inancının önemini gösterir. Tanrı, bireylerin ince eylemleriyle hareket eder ve yenilmez bir krallık ortaya çıkarır.
-
-## Daha fazla kazma
-
-[Wuppertaler Studienbibel, Der Prophet Daniel](../../../../about/ressources/index.html#daniel)
-

@@ -1,6 +1,9 @@
 ---
 title: "Setting the foundation"
 weight: 2
+sources: 
+    - pages: 181–222
+      ref: beale_rev
 ---
 
 The book of Revelation begins with some statements that are easy to overlook, but are key to understanding the book. Let’s look at them and see them with new eyes.
@@ -86,9 +89,3 @@ So the passage is not talking about the coming wrath of Jesus because certain pe
 
 <a name="8d7d"></a>
 The time is near and the Church should act. As Jesus did everything, the Church can step forward and reach the nations.
-
-## Digging deeper
-
-<a name="c849"></a>
-[Beale, Relevation, pages 181–222](../../../../about/ressources/index.html#beale_rev)
-

@@ -1,6 +1,14 @@
 ---
 title: "Die Engel der Gemeinden"
 weight: 4
+deeper:
+    - name: Die Sendschreiben
+      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+    - name: Was ist ein Held?
+      link: ../../../../topics/hero/short/a-real-hero
+sources: 
+    - pages: 108–112
+      ref: aune_rev
 ---
 
 In der Offenbarung gibt es bei den Sendschreiben einen sich wiederholenden Satz: “Schreibe dem Engel der Gemeinde”. Haben Gemeinden Schutzengel? Werden die Leiter der Gemeinden Engel genannt? Wir müssen hier etwas genauer hinschauen.
@@ -39,14 +47,3 @@ Warum aber sollten Gemeinden als Engel bezeichnet werden?
 - Die Gemeinden werden als Einheit verstanden. Es geht nicht um das individuelle Heil oder den eigenen Weg mit Gott, sondern um die Verantwortung als Ganzes.
 - Die Gemeinde als Engel (angelos = Bote) erinnert sie an ihre himmlische Bestimmung.
 - Die Anrede als Engel soll ihnen bewusst machen, dass sie ihren Auftrag nicht aus eigener Kraft erfüllen können, sondern auf den Heiligen Geist (himmlischen Beistand) angewiesen sind.
-
-## Zum Weiterlesen
-
-<a name="b241"></a>
-- [Die Sendschreiben](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [Was ist ein Held?](../../../../topics/hero/short/a-real-hero)
-
-## Zur Vertiefung
-
-[Aune, Revelation, Seiten 108–112](../../../../about/ressources/index.html#aune_rev)
-

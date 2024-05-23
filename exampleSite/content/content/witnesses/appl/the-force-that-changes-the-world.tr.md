@@ -1,6 +1,13 @@
 ---
 title: "Dünyayı değiştiren güç"
 weight: 1
+deeper:
+    - name: Tapınak
+      link: ../../../../bible/keyword/expl/the-temple-and-the-presence-of-god
+    - name: Tanıklığın gücü
+      link: ../../../../topics/power/short/the-power-of-testimony
+    - name: İki tanık
+      link: ../../../../content/witnesses/expl/the-two-witnesses
 ---
 
 Tüm dünyayı değiştiren ve dünyayı Tanrı’nın krallığına hazır hale getiren iki tanık vardır. Onlar kimdir ve sırları nedir?
@@ -54,11 +61,3 @@ Bu, Tanrı’nın tüm insanları zulümle öldüklerinde dirilteceği ve onlar�
 - Sizce kilisenin dünyayı değiştirme potansiyeli var mı?
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="4a52"></a>
-- [Tapınak](../../../../bible/keyword/expl/the-temple-and-the-presence-of-god)
-- [Tanıklığın gücü](../../../../topics/power/short/the-power-of-testimony)
-- [İki tanık](../../../../content/witnesses/expl/the-two-witnesses)
-

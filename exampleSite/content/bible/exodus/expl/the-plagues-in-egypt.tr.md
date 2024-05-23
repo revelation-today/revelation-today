@@ -1,6 +1,16 @@
 ---
 title: "Mısır’ın Başına Gelen Belalar"
 weight: 40
+deeper:
+    - name: Her şey nasıl başladı
+      link: ../../../../bible/exodus/expl/the-story-before-the-exodus0
+    - name: Farklı kahraman
+      link: ../../../../bible/exodus/expl/the-birth-of-moses
+    - name: Kalbin katılaşması
+      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+sources:
+    - pages: 38–80
+      ref: sarna_exo
 ---
 
 Bu, Pazar okulunda zaten duyduğunuz bir hikaye, ancak daha önce duymamış olabileceğiniz keşfedilecek çok şey var.
@@ -136,15 +146,3 @@ Bundan önce
 - İsrail’in doğuşu olarak görülebilecek ve [İsrail’e katılmak isteyen herkese açık](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F12%3A43-49) olan [Passah](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F12%3A1-13) (onuncu vebaya karşı koruma ve aynı zamanda Rablerin akşam yemeğinin kökeni) tanıtılır
 - [mayasız ekmek bayramı başlatılır](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F12%3A14-20) — [bekleyecek zaman yoktur, acele etmek gerekir](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F12%3A12)
 - [Eldeki ve alındaki işaretten söz edilir](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F13%3A8-9) — halk, Tanrı’nın onları Mısır’dan çıkardığını, Mısır tanrılarından daha güçlü olduğunu ve İsrail’in bunu unutmaması gerektiğini hatırlamalıdır. Yani işaret Tanrı’ya bağlılığın bir işaretidir.
-
-## Diğer okumalar
-
-<a name="b14e"></a>
-- [Her şey nasıl başladı](../../../../bible/exodus/expl/the-story-before-the-exodus)
-- [Farklı kahraman](../../../../bible/exodus/expl/the-birth-of-moses)
-- [Kalbin katılaşması](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
-
-## Daha fazla kazma
-
-[Nahum Sarna, Exodus, sayfalar 38–80](../../../../about/ressources/index.html#sarna_exo)
-

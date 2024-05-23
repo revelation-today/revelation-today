@@ -1,6 +1,16 @@
 ---
 title: "Die zehn Plagen in Ägypten"
 weight: 40
+deeper:
+    - name: Wie alles begann
+      link: ../../../../bible/exodus/expl/the-story-before-the-exodus0
+    - name: Ein anderer Held
+      link: ../../../../bible/exodus/expl/the-birth-of-moses
+    - name: Die Verhärtung des Herzen
+      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+sources:
+    - pages: 38–80
+      ref: sarna_exo
 ---
 
 Diese Geschichte kennst du wahrscheinlich schon aus dem Kindergottesdienst, aber vieles darin hast du villeicht noch nie gehört.
@@ -140,15 +150,3 @@ Doch davor wurde
 - Das [Passah eingeführt](https://www.bibleserver.com/SLT/2.Mose12%2C1-13) (Schutz gegen die zehnte Plage und Ursprung des Abendmahls), was die Geburt Israel war und [offen für alle, die zu Israel gehören wollten](https://www.bibleserver.com/SLT/2.Mose12%2C43-49).
 - [Das Fest der ungesäuerten Brote eingeführt](https://www.bibleserver.com/SLT/2.Mose12%2C14-20) — es gibt [keine Zeit zu warten, sondern aufzubrechen](https://www.bibleserver.com/SLT/2.Mose12%2C12).
 - Das [Zeichen an Hand und Stirn](https://www.bibleserver.com/SLT/2.Mose13%2C8-9) wird erwähnt — die Menschen sollen sich erinnern, dass Gott sie aus Ägypten gebracht hat. Er ist mächtiger als die Götter Ägyptens und Israel soll das niemals vergessen. So das Zeichen ist ein Ausdruck der Loyalität zu Gott.
-
-## Zur Vertiefung
-
-<a name="2578"></a>
-- [Wie alles begann](../../../../bible/exodus/expl/the-story-before-the-exodus)
-- [Ein anderer Held](../../../../bible/exodus/expl/the-birth-of-moses)
-- [Die Verhärtung des Herzen](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
-
-## Zum Weiterleen
-
-[Nahum Sarna, Exodus, Seiten 38–80](../../../../about/ressources/index.html#sarna_exo)
-

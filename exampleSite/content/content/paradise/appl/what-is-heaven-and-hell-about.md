@@ -1,6 +1,11 @@
 ---
 title: "What is heaven and hell about?"
 weight: 1
+deeper:
+    - name: The new Jerusalem
+      link: ../../../../content/paradise/expl/the-new-jerusalem
+    - name: Heaven and hell
+      link: ../../../../content/paradise/expl/heaven-and-hell
 ---
 
 The book of Revelation ends on a high note with heaven. But if we take a closer look, there is a lot that is easily overlooked in the reading. Let’s take a look together.
@@ -39,10 +44,3 @@ So decide well after you have heard all this. What are you going to do? How will
 - Would you want to spend eternity with God even if none of the other benefits were there (continued suffering, persecution, sickness, …)? If not, why not?
 - Would you spend eternity with a person you couldn’t stand or didn’t care about, even if all your problems were gone?
 - How does this vision of heaven shape the way you live your life now on earth?
-
-## Digging deeper
-
-<a name="9282"></a>
-- [The new Jerusalem](../../../../content/paradise/expl/the-new-jerusalem)
-- [Heaven and hell](../../../../content/paradise/expl/heaven-and-hell)
-

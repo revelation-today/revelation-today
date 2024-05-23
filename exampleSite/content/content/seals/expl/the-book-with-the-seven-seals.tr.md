@@ -1,6 +1,12 @@
 ---
 title: "Yedi Mühürlü Kitap"
 weight: 2
+deeper:
+    - name: Dört atlı
+      link: ../../../../content/seals/expl/the-mystery-of-the-four-horse-men
+sources: 
+    - pages: 337–369
+      ref: beale_rev
 ---
 
 Anlaşılması zor olan bir şeye yedi mühürlü kitap dendiğini hiç duydunuz mu? Ve bu İncil’den geliyor. Evet, İncil’den geliyor ama çok farklı bir anlamı var.
@@ -30,13 +36,3 @@ Kutsallar orada dışlanmadığı için, bunu borazanlar sırasında göreceğiz
 İlk eylem İsa’nın büyük yargısıdır. Bu gerçekten de herkesin hesap vereceği ve saklanamayacağı Rab’bin günüdür — son yargıda olduğu gibi.
 
 144000'in araya girmesinden sonra yedinci mühür açılır. Bu yarım saatlik bir sessizliği gösterir. Sessizliğin Kutsal Kitap’ta kendine has bir anlamı vardır ama Yahudi literatüründe cennetteki sessizlik zamanı ile Tanrı’nın azizlerin dualarını işittiği zaman arasında güçlü bir bağ vardır. Bu, azizlerin dualarının odak noktası haline geldiği beşinci mühür fikrini devam ettirir. Azizlerin duasından sadece mühürleri ve borazanları birbirine bağlayan ve orada merkezi bir rol oynayan dualardan bahsedilse bile
-
-## Daha fazla okuma
-
-<a name="4db0"></a>
-- [Dört atlı](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 337–369](../../../../about/ressources/index.html#beale_rev)
-

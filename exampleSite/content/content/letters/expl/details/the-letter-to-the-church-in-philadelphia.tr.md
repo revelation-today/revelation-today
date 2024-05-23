@@ -1,6 +1,13 @@
 ---
 title: "Filadelfiya’daki kiliseye mektup"
 weight: 6
+sources: 
+    - pages: 283–296
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 50-51
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 [Philadelphia](https://www.bibleserver.com/TR/Vahiy3%3A7-13): Davut’un anahtarına sahip şehir. Peki bu anahtar hangi kapıları açıyor? Müjdecilik, fırsatlar, ilişkiler, …? Okumaya devam edin ve bu kilisenin neden hiç azarlanmadığını öğrenecek ve anlayacaksınız.
@@ -42,10 +49,3 @@ Muhtemelen bu kadar uzun süre dayanmalarının nedeni de verdikleri sözdür: E
 Mektupta ilginç bir ifade vardır: “[Sabırla dayanma buyruğumu yerine getirdiğiniz için, yeryüzünde yaşayanları sınamak için tüm dünyanın üzerine gelecek olan deneme saatinden de sizi koruyacağım.](https://www.bibleserver.com/TR/Vahiy3%3A10)”
 
 Tüm dünyanın üzerine gelen iz saati nedir? Ve İsa bizi bundan nasıl uzak tutmak istiyor? “[Sakınmak](https://biblehub.com/interlinear/revelation/3-10.htm)” kelimesi başka bir yerde sadece [Yuhanna İncili’nde](https://biblehub.com/interlinear/john/17-15.htm), havarileri için ettiği duada geçer: “[Duam onları dünyadan çıkarman değil, onları kötü olandan korumandır.](https://www.bibleserver.com/TR/Yuhanna17%3A15)”. İsa onları dünyadan çıkarmaktan değil, [Atasözleri](https://www.bibleserver.com/TR/%C3%96zdeyi%C5%9Fler7%3A5) ya da [Yakup’un Mektubu’nda](https://www.bibleserver.com/TR/Yakup1%3A27) olduğu gibi dünyadan korumaktan söz eder. Dolayısıyla, bu ifade temelde [Büyük Sıkıntı ](../../../../content/army/expl/the-end-time-and-the-great-tribulation)ile aynı durumu anlatmaktadır.
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 283–296](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, sayfalar 50–51](../../../../../about/ressources/index.html#fee_rev)
-

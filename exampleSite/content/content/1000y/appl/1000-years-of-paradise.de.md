@@ -1,6 +1,9 @@
 ---
 title: "1000 Jahre Paradies?"
 weight: 1
+deeper: 
+    - name: Das Tausendjährige Reich
+    - link: ../../../../content/1000y/expl/the-thousand-year-kingdom
 ---
 
 Das Tausendjährige Reich wird oft als perfekte Welt beschrieben, in der die Guten herrschen und die Bösen gebunden werden, bevor es einen neuen Himmel und eine neue Erde gibt. Aber ist das wirklich so?
@@ -42,9 +45,3 @@ Sogar im Tod regiert sie (damals wurden nur Könige und andere einflussreiche Pe
 - Wie sieht gutes Regieren konkret aus?
 - Wo hast du erlebt, dass du (auch unbewusst) als König behandelt wirst, weil du an Christus glaubst?
 - Was gibt dir Hoffnung durchzuhalten?
-
-## Zur Vertiefung
-
-<a name="d194"></a>
-- [Das Tausendjährige Reich](../../../../content/1000y/expl/the-thousand-year-kingdom)
-

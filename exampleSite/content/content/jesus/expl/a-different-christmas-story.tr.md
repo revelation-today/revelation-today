@@ -1,6 +1,14 @@
 ---
 title: "Farklı bir Noel hikayesi"
 weight: 2
+deeper:
+    - name: Kutsal olmayan üçlünün hikayesi
+      link: ../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+    - name: Vahiy kitabının yapısı
+      link: ../../../../background/structure/expl/the-structure-of-the-book-of-revelation
+sources: 
+    - pages: 621–681
+      ref: beale_rev
 ---
 
 Bir Hıristiyan olarak [Luka](https://www.bibleserver.com/TR/Luka2)’nın klasik Noel hikâyesine aşina olabilirsiniz; çobanlar, ahırdaki bebek ve gizemli bir yıldızın peşinden giden üç uzak gezginle ilgili biraz romantik bir hikâye.
@@ -81,14 +89,3 @@ Bu dönemde İsa doğdu ve [Kral Hirodes onu öldürmek üzereyken](https://www.
 - [aslında kuzu olan aslan](https://www.bibleserver.com/TR/Vahiy5%3A5-6)
 - [mutlak kontrole sahip gibi görünen ama felakete sürüklenecek olan ejderha ve canavarla](https://www.bibleserver.com/TR/Vahiy13) ve [ona güvenen herkesle karşılaştırıldığında ](https://www.bibleserver.com/TR/Vahiy14%3A6-13)[yenilmiş gibi görünen ama aslında üstesinden gelen ve yüceltilen iki tanık](https://www.bibleserver.com/TR/Vahiy11%3A7-12)
 - …
-
-## Diğer okumalar
-
-<a name="59b6"></a>
-- [Kutsal olmayan üçlünün hikayesi](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [Vahiy kitabının yapısı](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 621–681](../../../../about/ressources/index.html#beale_rev)
-

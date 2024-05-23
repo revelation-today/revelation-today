@@ -1,6 +1,9 @@
 ---
 title: "Son zaman ve büyük sıkıntı"
 weight: 3
+sources:
+    - pages: 433–445
+      ref: beale_rev
 ---
 
 Ahir zaman ne zaman başlayacak ve büyük sıkıntı nedir? Bu soru pek çok duyguyu da beraberinde getiriyor. Ve asıl soru şu: Ortadaki bilgilerin hangisi güvenilir ve bunu nasıl değerlendirebiliriz? Öyleyse bazı yanıtlar bulmak için en sevdiğimiz kitaba bir göz atalım: Kutsal Kitap.
@@ -57,8 +60,3 @@ Yani büyük sıkıntı, kilise olarak karşı karşıya olduğumuz tüm sıkın
 - [İnsanoğlu](../../../../bible/daniel/expl/the-son-of-man-and-the-remnant)
 - [İsrail’in kalıntıları](../../../../background/israel/expl/the-remnant-of-israel)
 - [Kilise ve İsrail](../../../../background/israel/expl/the-church-is-part-of-israel)
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 433–445](../../../../about/ressources/index.html#beale_rev)
-

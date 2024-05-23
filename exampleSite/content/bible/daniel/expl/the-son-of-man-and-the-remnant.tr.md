@@ -1,6 +1,9 @@
 ---
 title: "İnsanoğlu"
 weight: 30
+sources:
+    - pages: 393–428
+      ref: beale_theo
 ---
 
 İsa kendisine sadece “insanoğlu” mu diyor? Neden? Ve bu ne anlama geliyor?
@@ -94,8 +97,3 @@ Tanıklar İsa’nın hayatını yaşadıkları için insanoğlu olarak tanımla
 - [tanıklıkları sona erdiğinde düşman tarafından yenilgiye uğratılırlar](https://www.bibleserver.com/TR/Vahiy11%3A7)
 - [Ama bu onların yenilgisi değildir, çünkü İsa gibi dirileceklerdir.](https://www.bibleserver.com/TR/Vahiy11%3A8-11)
 - [ve İsa gibi yüceltilsin](https://www.bibleserver.com/TR/Vahiy11%3A12)
-
-## Daha fazla kazma
-
-[Beale, A New Testament Biblical Theology, sayfalar 393–428](../../../../about/ressources/index.html#beale_theo)
-

@@ -1,6 +1,12 @@
 ---
 title: "Gazap Kaseleri"
 weight: 2
+deeper:
+    - name: Armageddon
+      link: ../../../../content/bowls/expl/the-key-to-armageddon
+sources: 
+    - pages: 681–730
+      ref: beale_rev
 ---
 
 Vahiy Kitabı’ndaki gazap kaseleri, insanların söz dinlememesine üzülen ve son bir öfke patlaması yaşayan bir Tanrı izlenimi verir. Ancak bu gerçek olmaktan çok uzaktır, tam tersidir.
@@ -44,13 +50,3 @@ Altıncı kaseye biraz daha yakından bakmamız gerekiyor.
 [Ejderha ve arkadaşlarının ağzından çıkan üç kurbağanın da ilginç](https://www.bibleserver.com/TR/Vahiy16%3A13) bir arka planı vardır. Kurbağalar, bereket/doğum [Tanrısı Heqed’in hayvan temsilidir ve ona diriltme gücü de vermiştir](https://en.wikipedia.org/wiki/Heqet). [Burada diriltilmiş canavarın yenilmez olduğu iddiası vardır.](https://www.bibleserver.com/TR/Vahiy13%3A3-4)
 
 [Armagedon’da orduların toplanması](https://www.bibleserver.com/TR/Vahiy16%3A14-16) [19. bölümde kuşların toplanmasıyla yansıtılır](https://www.bibleserver.com/TR/Vahiy19%3A17-18) ve bu da Şeytan’ın ordularının kuşlar tarafından yenilgiye uğratıldığı izlenimini verdiği için Şeytan’ın yenilgisini daha da ironik hale getirir
-
-## Diğer okumalar
-
-<a name="d877"></a>
-- [Armageddon](../../../../content/bowls/expl/the-key-to-armageddon)
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 681–730](../../../../about/ressources/index.html#beale_rev)
-

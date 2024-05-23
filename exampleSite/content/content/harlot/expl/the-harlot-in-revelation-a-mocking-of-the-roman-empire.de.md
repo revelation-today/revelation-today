@@ -1,6 +1,9 @@
 ---
 title: "Die Hure Babel: Ein Spottlied auf das Römische Reich"
 weight: 5
+sources: 
+    - pages: 919–928
+      ref: aune_rev
 ---
 
 Die Geschichte von der Hure Babel in der Offenbarung ist eine der komplexesten Erzählungen des Buches und verwendet sehr subtile Ironie gegen das Römische Reich. Bist du bereit?
@@ -52,8 +55,3 @@ Die Botschaft dieser Ekfrasis ist es zu zeigen, dass
 - Diese Täuschung zu durchschauen ist nur der erste Schritt auf dem Weg in das Reich Gottes.
 - Wenn du von Rom getäuscht wirst, gibt es wenig Hoffnung für dich.
 - Die Täuschung ist so groß, dass es schwer ist, sie zu übersehen. Wer sie einmal gesehen hat, kann sie nicht mehr übersehen.
-
-## Zur Vertiefung
-
-[Aune, Revelation, Seiten 919–928](../../../../about/ressources/index.html#aune_rev)
-

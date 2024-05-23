@@ -1,6 +1,9 @@
 ---
 title: "Die Vision des Menschensohnes"
 weight: 3
+sources: 
+    - pages: 205–222
+      ref: beale_rev
 ---
 
 Die Offenbarung beginnt mit einem Paukenschlag. Johannes hat eine überwältigende Vision vom Menschensohn, der zwischen Leuchtern wandelt und Sterne in seiner Hand hält. Obwohl es offensichtlich ist, dass diese Vision die Erwartung des Buches beschreibt, ist es nicht einfach, diese Botschaft zu verstehen.
@@ -45,8 +48,3 @@ Die Gemeinde wird durch zwei Bilder beschrieben, die auch zwei Elemente gemeinsa
 - Beide brauchen Jesus: Das Licht der Sterne ist nicht sichtbar, wenn sie nicht in der Hand Jesu sind, und die Leuchter können nur Licht spenden, wenn sie mit Öl (Heiliger Geist) gespeist werden.
 
 Die Aussage ist also, dass die Gemeinde Licht in der Welt sein soll, damit die Welt gerettet wird, aber die Gemeinde muss auch ganz von Jesus abhängig sein. Und das ist der Punkt, an dem die Gemeinde geprüft wird: Ist sie ein Zeugnis, das in völliger Abhängigkeit von Jesus die Völker überzeugt?
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 205–222](../../../../about/ressources/index.html#aune_rev)
-

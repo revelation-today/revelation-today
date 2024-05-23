@@ -1,6 +1,14 @@
 ---
 title: "Anbetung im Thronsaal Gottes"
 weight: 2
+deeper:
+    - name: Die sieben Siegel
+      link: ../../../../content/seals/expl/the-book-with-the-seven-seals
+    - name: Was ist Anbetung?
+      link: ../../../../topics/power/short/worship
+sources: 
+    - pages: 311–337
+      ref: beale_rev
 ---
 
 Die Anbetung im Thronsaal ist die Antwort auf die Probleme der Gemeinden. Aber warum? Und was hat das mit all den Plagen zu tun, die danach kommen?
@@ -103,14 +111,3 @@ Es gibt auch die Schöpfung, die durch [vier Lebewesen](https://www.bibleserver.
 - Adler als Herrscher der Lüfte
 
 Dazu kommen die [24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4), die die [24 Priesterordnungen](https://www.bibleserver.com/SLT/1.Chronik24%2C3-19), die [24 levitischen Torwächter](https://www.bibleserver.com/SLT/1.Chronik26%2C17-19) und die [24 von David eingeführten ständigen Anbeter](https://www.bibleserver.com/SLT/1.Chronik25%2C6-31) widerspiegeln, aber auch die 12 Stämme Israels und die 12 Apostel als Fundament der Kirche. Das bedeutet, dass Israel und die Gemeinde trotz aller Konflikte in ihrer Zusammengehörigkeit zu verstehen sind. Die Gemeinde wird als anbetende Gemeinde definiert.
-
-## Zum Weiterlesen
-
-<a name="0062"></a>
-- [Die sieben Siegel](../../../../content/seals/expl/the-book-with-the-seven-seals)
-- [Was ist Anbetung?](../../../../topics/power/short/worship)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 311–337](../../../../about/ressources/index.html#beale_rev)
-

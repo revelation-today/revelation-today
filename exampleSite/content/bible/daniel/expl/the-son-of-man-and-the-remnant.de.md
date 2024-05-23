@@ -1,6 +1,9 @@
 ---
 title: "Das Geheimnis des Menschensohns"
 weight: 30
+sources:
+    - pages: 393–428
+      ref: beale_theo
 ---
 
 Jesus nennt sich selbst den Menschensohn. Warum? Und was bedeutet das?
@@ -92,8 +95,3 @@ Die Zeugen werden als der Menschensohn identifiziert, weil sie das Leben Jesu na
 - [Sie werden überwunden, wenn sie ihr Zeugnis vollendet haben](https://www.bibleserver.com/SLT/Offenbarung11%2C7).
 - [Aber es ist nicht ihre Niederlage, denn sie werden auferweckt wie Jesus](https://www.bibleserver.com/SLT/Offenbarung11%2C8-11)
 - [und erhöht werden wie Jesus](https://www.bibleserver.com/SLT/Offenbarung11%2C12).
-
-## Zur Vertiefung
-
-[Beale, A New Testament Biblical Theology, Seiten 393–428](../../../../about/ressources/index.html#beale_theo)
-

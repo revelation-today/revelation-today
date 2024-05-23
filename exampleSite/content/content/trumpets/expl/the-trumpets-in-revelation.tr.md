@@ -1,6 +1,12 @@
 ---
 title: "Vahiy’deki trompetler"
 weight: 2
+deeper:
+    - name: Küçük parşömen
+      link: ../../../../content/scroll/expl/the-little-scroll
+sources: 
+    - pages: 445–520
+      ref: beale_rev
 ---
 
 Vahiy kitabının 8, 9 ve 11. bölümlerinde yer alan trompetler birçok insan için modern zamanlardaki bazı felaketleri yansıtsa da aslında [Mısır’daki belaları](../../../../bible/exodus/expl/the-plagues-in-egypt) yansıtmaktadır.
@@ -77,13 +83,3 @@ Bunun sonucunda (diğer tüm borazan belaları?) [halk tövbe etmedi](https://ww
 - [Romalı komutan Feliks müjdenin sonucunu duydu ve Pavlus’tan konuşmayı kesmesini istedi](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri24%3A25)
 
 Dolayısıyla dehşete düşmüş kelimesi “bunalmış” olarak daha iyi tercüme edilebilir.
-
-## Daha fazla okuma
-
-<a name="0922"></a>
-- [Küçük parşömen](../../../../content/scroll/expl/the-little-scroll)
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 445–520](../../../../about/ressources/index.html#beale_rev)
-

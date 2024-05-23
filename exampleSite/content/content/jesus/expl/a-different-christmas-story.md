@@ -1,6 +1,14 @@
 ---
 title: "A different Christmas story"
 weight: 2
+deeper:
+    - name: The story of the unholy trinity
+      link: ../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+    - name: The structure of the book of Revelation
+      link: ../../../../background/structure/expl/the-structure-of-the-book-of-revelation
+sources: 
+    - pages: 621–681
+      ref: beale_rev
 ---
 
 As a Christian, you may be very familiar with the classic Christmas story from [Luke](https://www.bibleserver.com/NIV/Luke2), a somewhat romantic tale of shepherds and a baby in a barn and three far-flung travelers who followed a mysterious star.
@@ -57,14 +65,3 @@ It is not explained, how Jesus overcame this, but this tension between the seemi
 - [The lion who is really the lamb](https://www.bibleserver.com/NIV/Revelation5%3A5-6).
 - [The two witnesses, who seem be to defeated, but are actually overcome and be glorified](https://www.bibleserver.com/NIV/Revelation11%3A7-12) compared to the [dragon and the beast, who seem to be in absolute control](http://Revelation 13), but [will go into disaster and all who trust in him with him](https://www.bibleserver.com/NIV/Revelation14%3A6-13).
 - ...
-
-## Further readings
-
-[The story of the unholy trinity](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-
-[The structure of the book of Revelation](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 621–681](../../../../about/ressources/index.html#beale_rev)
-

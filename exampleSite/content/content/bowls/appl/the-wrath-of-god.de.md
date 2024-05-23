@@ -1,6 +1,13 @@
 ---
 title: "Der Zorn Gottes"
 weight: 1
+deeper:
+    - name: Die Zornesschalen
+      link: ../../../../content/bowls/expl/the-bowls-of-wrath
+    - name: Die Bedeutung von Harmageddon
+      link: ../../../../content/bowls/expl/the-key-to-armageddon
+    - name: Harmageddon und die Schlacht von Karkemish
+      link: ../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 ---
 
 Jetzt wird es wirklich ernst.
@@ -39,11 +46,3 @@ Doch worum geht es bei den Zornesschalen?
 - In welchen Situationen bist du dem Tier gefolgt, hast Gottes Führung abgelehnt oder dein Herz verhärtet?
 - Was sind deine Hoffnungen, wie konkrete Situationen in dieser Welt zum Besseren verändert werden könnten? Glaubst du, dass das Gottes Wege sind?
 - Beschäftige dich mit dem Thema Harmageddon, siehe unten. Was könnte das heute sein?
-
-## Zur Vertiefung
-
-<a name="467a"></a>
-- [Die Zornesschalen](../../../../content/bowls/expl/the-bowls-of-wrath)
-- [Die Bedeutung von Harmageddon](../../../../content/bowls/expl/the-key-to-armageddon)
-- [Harmageddon und die Schlacht von Karkemish](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
-

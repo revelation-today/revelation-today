@@ -1,6 +1,12 @@
 ---
 title: "Die sieben Posaunen"
 weight: 2
+deeper:
+    - name: Das kleine Buch
+      link: ../../../../content/scroll/expl/the-little-scroll
+sources: 
+    - pages: 445–520
+      ref: beale_rev
 ---
 
 Die Posaunen der Offenbarung in den Kapiteln 8, 9 und 11 spiegeln für viele Menschen die Katastrophen der damaligen Zeit wider, aber sie beziehen sich in erster Linie auf die [Plagen in Ägypten](../../../../bible/exodus/expl/the-plagues-in-egypt).
@@ -77,13 +83,3 @@ In [diesem Vers](https://www.bibleserver.com/SLT/Offenbarung11%2C13) wird das Wo
 - [als der römische Statthalter Felix die Folgen des Evangelium hörte](https://www.bibleserver.com/SLT/Apostelgeschichte24%2C25) und Paulus bat, aufzuhören zu reden.
 
 Das Wort Furcht kann hier besser mit “waren überwältigt” übersetzt werden.
-
-## Further reading
-
-<a name="b9f6"></a>
-- [Das kleine Buch](../../../../content/scroll/expl/the-little-scroll)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 445–520](../../../../about/ressources/index.html#beale_rev)
-

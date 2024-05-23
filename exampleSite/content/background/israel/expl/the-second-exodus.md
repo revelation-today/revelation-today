@@ -1,5 +1,8 @@
 ---
 title: "The second Exodus"
+sources:
+    - pages: 694–703
+      ref: beale_theo
 ---
 
 There was an exodus from Egypt. But when Israel failed to keep the law, they went into exile. Filled with promises of their return, when they returned from exile, they saw that nothing had changed. So the conclusion: They are still in exile, waiting for a new exodus. And that is coming with Jesus!
@@ -68,8 +71,3 @@ Judgment is especially announced when these idols claim godliness (in the cases 
 The new Exodus for which Israel has been waiting for so long happens and is linked to Jesus. The question is whether Israel and the Gentiles will choose God (again) or remain with their idols, which is a serious problem.
 
 The Gospel shows the tension between the restoration of Israel who believe in Christ and the salvation of the Gentiles who play together.
-
-## Dig Deeper
-
-[Beale, A New Testament biblical theology, pages 694–703](../../../../about/ressources/index.html#beale_theo)
-

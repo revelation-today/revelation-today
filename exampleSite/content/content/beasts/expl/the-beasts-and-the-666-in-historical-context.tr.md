@@ -1,6 +1,9 @@
 ---
 title: "Tarihsel bağlamda canavarlar ve 666"
 weight: 3
+sources: 
+    - pages: 682–684
+      ref: beale_rev
 ---
 
 Vahiy kitabındaki ejderha ve iki canavar normalde çok soyut (kötü güçler) ya da çok “yaratıcı” olarak yorumlanır. Gerçekte kimdirler?
@@ -56,8 +59,3 @@ Eğer düşmezseniz, [maddi olarak mahvolursunuz](https://www.bibleserver.com/TR
 Hıristiyanlar bu sistemle yüzleşmek için ne yapabilirler? Örneğin 14. bölümde bunun yanıtı verilir: Tanrı’ya sadıktırlar ve ödün vermezler, [çünkü bakiredirler](https://www.bibleserver.com/TR/Vahiy14%3A4). 13. bölümde tapınmayla [tanımlanan sadakat](https://www.bibleserver.com/TR/Vahiy13%3A8) budur.
 
 Ve tüm bunların içinde: [Dayanıklılık](https://www.bibleserver.com/TR/Vahiy13%3A10) ve [bilgelik Tanrı nedir ve ne değildir](https://www.bibleserver.com/TR/Vahiy13%3A18).
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 682–684](../../../../about/ressources/index.html#beale_rev)
-

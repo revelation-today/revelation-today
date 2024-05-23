@@ -1,6 +1,13 @@
 ---
 title: "The letter to the church in Thyatira"
 weight: 4
+sources: 
+    - pages: 259–272
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 37–38
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 What do you do in a church where the problem is leadership? Right, you read the letter to the church in Thyatira!
@@ -43,10 +50,3 @@ The answer is to [cling to Jesus and be faithful](https://www.bibleserver.com/NI
 For those who endure, Jesus promises them authority as those who endured under false authority and remain faithful. To rule with a scepter of iron is from [Psalm 2](https://www.bibleserver.com/NIV/Psalm2).
 
 The [morning star](https://www.bibleserver.com/NIV/Revelation2%3A28) could refer to the [dawn of a new hope](https://www.bibleserver.com/NIV/2%20Peter1%3A19) in Jesus, who [is the morning star](https://www.bibleserver.com/NIV/Revelation22%3A16).
-
-## Dig Deeper
-
-[Beale, Revelation, pages 259–272](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, pages 37–38](../../../../../about/ressources/index.html#fee_rev)
-

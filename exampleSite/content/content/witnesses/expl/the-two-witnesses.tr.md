@@ -1,6 +1,16 @@
 ---
 title: "İki Tanık"
 weight: 2
+deeper:
+    - name: Tanıklığın gücü
+      link: ../../../../topics/power/short/the-power-of-testimony
+sources: 
+    - pages: 556–620
+      ref: beale_rev
+    - pages: 84–88
+      ref: bauckham_rev
+    - pages: 266–283
+      ref: bauckham_climax
 ---
 
 Vahiy Kitabı’nın [11. bölümünde](https://www.bibleserver.com/TR/Vahiy11) iki tanık görürüz. Bunların kim olduğu konusunda pek çok tartışma vardır, ancak ruhsal yaşamınız için iyi bir çıkarım da vardır
@@ -154,17 +164,3 @@ Her ikisi de [üstün gelen İsa’yı](https://www.bibleserver.com/TR/Vahiy12%3
 - Canavar [panikle hareket eder çünkü zaman kısadır](https://www.bibleserver.com/TR/Vahiy12%3A12), tanıklar [ise korkusuzca hareket ederler çünkü zamanları geldiğinde işlerinin biteceğini bilirler](https://www.bibleserver.com/TR/Vahiy11%3A7)
 
 Öyleyse bir imanlı olarak yaşamınıza baktığınızda hangi kategoriye giriyorsunuz? Canavarlara mı yoksa tanıklara mı daha çok benziyorsunuz? Tanıklar gibi olmak ne anlama gelir/neye mal olur?
-
-## Diğer okumalar
-
-<a name="3d34"></a>
-- [Tanıklığın gücü](../../../../topics/power/short/the-power-of-testimony)
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 556–620](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham , Revelation, sayfalar 84–88](../../../../about/ressources/index.html#bauckham_rev)
-
-[Bauckham, The climax of Prophecy, sayfalar 266–283](../../../../about/ressources/index.html#bauckham_climax)
-

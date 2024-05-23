@@ -1,6 +1,14 @@
 ---
 title: "The angel of the churches"
 weight: 4
+deeper:
+    - name: The letter to the churches
+      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+    - name: What is a hero
+      link: ../../../../topics/hero/short/a-real-hero
+sources: 
+    - pages: 108–112
+      ref: aune_rev
 ---
 
 In the book of Revelation in the Bible, there is this repeated phrase: Write to the angel of the church. Do churches have guardian angels? Are the leaders of the churches angels? Well, let us take a closer look.
@@ -40,14 +48,3 @@ So why should the churches be addressed as angels?
 - The church should be in unity, just as an angel is a “unit”. It is not their specific salvation/path with God, but they are taking responsibility as a whole.
 - Addressing them as angels (angelos = messenger) reminds them of their heavenly purpose.
 - Calling them angels shows that they cannot do their work on their own, but need heavenly help (Holy Spirit).
-
-## Further reading
-
-<a name="eec4"></a>
-- [The letter to the churches](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [What is a hero](../../../../topics/hero/short/a-real-hero)
-
-## Dig Deeper
-
-[Aune, Revelation, pages 108–112](../../../../about/ressources/index.html#aune_rev)
-

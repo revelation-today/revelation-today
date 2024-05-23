@@ -1,6 +1,14 @@
 ---
 title: "Fahişe Kimdir Bölüm 1"
 weight: 2
+deeper:
+    - name: Fahişe 2. bölüm
+      link: ../../../../content/harlot/expl/who-is-the-harlot-babel-part-2
+    - name: Babil’in kökeni
+      link: ../../../../bible/keyword/expl/the-origin-of-babel
+sources: 
+    - pages: 847–890
+      ref: beale_rev
 ---
 
 Sorun Papa değil. Ekonomi de değil. Herkes olabilir, hatta kilise bile.
@@ -108,14 +116,3 @@ ve son olarak 13. bölümdeki İkinci Canavar ile birçok paralellik.
 Burada fahişenin gücü de tersine çevrilmiştir: 13. bölümde gökten ateş düşmesine izin verirken, şimdi ateşle yok edilir, alnına işaret koyarken, burada kendisi (bir köle gibi) alnına damgalanır.
 
 Bölüm 17'deki ilk canavar fahişeyi desteklerken, bölüm 13'te ikinci canavar birincisini destekler.
-
-## Daha fazla okuma
-
-<a name="7688"></a>
-- [Fahişe 2. bölüm](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
-- [Babil’in kökeni](../../../../bible/keyword/expl/the-origin-of-babel)
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 847–890](../../../../about/ressources/index.html#beale_rev)
-

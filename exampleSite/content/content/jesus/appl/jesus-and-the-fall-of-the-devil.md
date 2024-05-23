@@ -1,6 +1,17 @@
 ---
 title: "Jesus and the fall of the devil"
 weight: 1
+deeper:
+    - name: Overview in Daniel
+      link: ../../../../bible/daniel/expl/the-book-of-daniel
+    - name: The four kingdoms
+      link: ../../../../bible/daniel/expl/the-four-kingdoms-in-daniel
+    - name: The 70 years
+      link: ../../../../bible/daniel/expl/the-70-year-weeks
+    - name: "The 3,5 years"
+      link: ../../../../bible/daniel/expl/the-secret-of-the-3-5-years
+    - name: Christ is born
+      link: ../../../../content/jesus/expl/a-different-christmas-story
 ---
 
 We are now entering a chapter full of strange images and events. But the story is very simple and you know it very well.
@@ -50,13 +61,3 @@ We can be weak and feel helpless (and it’s okay to allow those feelings), but 
 - Do you know similar stories in the Bible where the weak overcome?
 - What does it mean to you to see Satan thrown out of heaven, but creating as much chaos as possible because he has so little time? How does this affect your life as a Christian?
 - Can you see Satan as the perpetual loser in the world around you?
-
-## Digging deeper
-
-<a name="06f1"></a>
-- [Overview in Daniel](../../../../bible/daniel/expl/the-book-of-daniel)
-- [The four kingdoms](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
-- [The 70 years](../../../../bible/daniel/expl/the-70-year-weeks)
-- [The 3,5 years](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-- [Christ is born](../../../../content/jesus/expl/a-different-christmas-story)
-

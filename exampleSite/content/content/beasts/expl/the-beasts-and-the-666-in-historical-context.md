@@ -1,6 +1,9 @@
 ---
 title: "The beasts and the 666 in historical context"
 weight: 3
+sources: 
+    - pages: 682–684
+      ref: beale_rev
 ---
 
 The dragon and the two beasts in the book of Revelation are usually interpreted in a very abstract (evil forces) or very “creative” way. Who are they really?
@@ -56,8 +59,3 @@ If you do not fall in, you [will be financially ruined ](https://www.bibleserver
 What can Christians do to confront this system. The answer is given, for example in chapter 14: They are faithful to God and don’t compromise which is stated [because they are virgins](https://www.bibleserver.com/NIV/Revelation14%3A4). In chapter 13 this is the loyalty [described by worship](https://www.bibleserver.com/NIV/Revelation13%3A8).
 
 And in all of this: [Perseverance](https://www.bibleserver.com/NIV/Revelation13%3A10) and [wisdom as to God and what is not](https://www.bibleserver.com/NIV/Revelation13%3A18).
-
-## Dig Deeper
-
-[Beale, Revelation, pages 682–684](../../../../about/ressources/index.html#beale_rev)
-

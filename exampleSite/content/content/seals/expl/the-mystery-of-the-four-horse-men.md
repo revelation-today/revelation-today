@@ -1,6 +1,14 @@
 ---
 title: "The mystery of the four horse men"
 weight: 3
+deeper:
+    - name: "The 144 000"
+      link: ../../../../content/army/expl/the-144000
+    - name: The trumpets
+      link: ../../../../content/trumpets/expl/the-trumpets-in-revelation
+sources: 
+    - pages: 370–395
+      ref: beale_rev
 ---
 
 In the book of Revelation in the Bible we see four horsemen or apocalyptic riders who bring war, famine and death to the whole world. But the first one causes a lot of headaches because he does not fit into the scheme and is controversially discussed.
@@ -95,14 +103,3 @@ Now also the reference to [God’s plagues](https://www.bibleserver.com/NIV/Ezek
 - The last horseman sums up the effect of the trinity shown.
 
 So no matter how attractive the devil’s offer may be and how much it may look like Jesus. Don’t go for it, because it will end in disaster.
-
-## Further reading
-
-[The 144 000](../../../../content/army/expl/the-144000)
-
-[The trumpets](../../../../content/trumpets/expl/the-trumpets-in-revelation)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 370–395](../../../../about/ressources/index.html#beale_rev)
-

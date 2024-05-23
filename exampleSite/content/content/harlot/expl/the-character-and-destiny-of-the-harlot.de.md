@@ -1,6 +1,11 @@
 ---
 title: "Der Charakter und das Gericht über die Hure"
 weight: 4
+sources: 
+    - pages: 890–948
+      ref: beale_rev
+    - pages: 338–384
+      ref: bauckham_climax
 ---
 
 Nachdem wir verstanden haben, wer die Hure ist, bleiben noch einige Fragen, die wir mit Hilfe der Bibel beantworten können. Was ist ihr Verhalten und ihre „Taktik”? Wie sollen wir uns verhalten? Was bringt sie zu Fall?
@@ -46,10 +51,3 @@ Das Gericht wird aufgrund ihrer Taten gefällt:
 - Sie hat sich für unangreifbar gehalten -&gt; das Unglück wird plötzlich über sie kommen (sehr kurze Zeit).
 - Sie wird [mit dem gleichen Maß bestraft](https://www.bibleserver.com/SLT/Offenbarung18%2C6), mit [dem sie anderen Böses angetan hat](https://www.bibleserver.com/SLT/Offenbarung18%2C22-24) ([das doppelte Maß ist eine andere Art, eine gleichwertige Strafe auszudrücken](https://meredithkline.com/klines-works/articles-and-essays/double-trouble/)).
 - Sie wird mit Feuer verzehrt werden, wie das Gericht über eine Tochter eines Priesters, die Unzucht getrieben hat — eine weitere Warnung, sich von Babel fernzuhalten und sich nicht zu ihr hingezogen zu fühlen.
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 890–948](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham, The climax of Prophecy, Seiten 338–384](../../../../about/ressources/index.html#bauckham_climax)
-

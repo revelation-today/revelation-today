@@ -1,6 +1,12 @@
 ---
 title: "Dispensionalismus"
 weight: 1
+deeper:
+    - name: Kritik am Dispensionalismus
+      link: ../../../../topics/others/expl/dispensionalism-and-its-critic
+sources: 
+    - pages: 11–67
+      ref: koester_rev
 ---
 
 Noch nie von diesem Wort gehört? Nun, vielleicht vom dritten Tempel (Wiederaufbau des Tempels in Jerusalem) oder von der Entrückung oder von den dreieinhalb Jahren der Drangsal oder Trübsal. Wenn ja, dann hast du auch schon von dem [Dispensionalismus](https://de.wikipedia.org/wiki/Dispensationalismus) gehört. Aber eins nach dem anderen.
@@ -37,13 +43,3 @@ In dieser Sicht ist die Gemeinde nur eine Zwischenstation, bis Israel als irdisc
 Seine Ansicht verbreitete sich schnell durch die Scofield-Bibel, Hal Lindseys “The Late Great Planet Earth” und die “Left Behind”-Serie, die viele Menschen gesehen oder gelesen haben.
 
 Da sich der Dispensionalismus stark verbreitet hat, gibt es eine große Vielzahl dessen, was Menschen darunter [verstehen](https://www.thegospelcoalition.org/essay/dispensational-theology/).
-
-## Zum Weiterlesen
-
-<a name="1467"></a>
-- [Kritik am Dispensionalismus](../../../../topics/others/expl/dispensionalism-and-its-critic)
-
-## Zur Vertiefung
-
-[Köster, Revelation and the end of all things, Seiten 11–67](../../../../about/ressources/index.html#koester_rev)
-

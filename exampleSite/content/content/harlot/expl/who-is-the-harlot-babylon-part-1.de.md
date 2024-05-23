@@ -1,6 +1,14 @@
 ---
 title: "Wer ist die Hure Babel: Teil 1"
 weight: 2
+deeper:
+    - name: "Wer ist die Hure: Teil 2"
+      link: ../../../../content/harlot/expl/who-is-the-harlot-babel-part-2
+    - name: Der Ursprung Babels
+      link: ../../../../bible/keyword/expl/the-origin-of-babel
+sources: 
+    - pages: 847–890
+      ref: beale_rev
 ---
 
 Es ist nicht der Papst. Es sind nicht die Wirtschaftsbosse. Es kann jeder sein, sogar die Gemeinde.
@@ -105,13 +113,3 @@ und viele Gemeinsamkeiten mit dem zweiten Tier in Kapitel 13.
 Die Macht der Hure wird hier auch ins umgekehrt: Während sie in Kapitel 13 Feuer vom Himmel fallen lassen hat, wird sie nun durch Feuer vernichtet, während sie ein Zeichen an die Stirn macht, wird sie hier selbst an der Stirn gebrandmarkt (wie ein Sklave).
 
 Während das erste Tier die Hure in Kapitel 17 unterstützt, ist es in Kapitel 13, das zweite, dass das erste Tier unterstützt.
-
-## Zum Weiterlesen
-
-- [Wer ist die Hure: Teil 2](../../../../content/harlot/expl/who-is-the-harlot-babel-part-2)
-- [Der Ursprung Babels](../../../../bible/keyword/expl/the-origin-of-babel)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 847–890](../../../../about/ressources/index.html#beale_rev)
-

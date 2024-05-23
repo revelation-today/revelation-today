@@ -1,6 +1,11 @@
 ---
 title: "Fahişenin karakteri ve kaderi"
 weight: 4
+sources: 
+    - pages: 890–948
+      ref: beale_rev
+    - pages: 338–384
+      ref: bauckham_climax
 ---
 
 Fahişenin kim olduğunu anladıktan sonra, Kutsal Kitap’ın yanıtladığı hala açık sorular vardır. Onun davranışı ve “taktiği” nedir? Biz nasıl davranmalıyız? Onun düşmesine ne sebep olur?
@@ -46,10 +51,3 @@ Yargılama onun eylemleri temelinde yapılır:
 - kendini dokunulmaz gördü -&gt; bir saat içinde düşecek (çok kısa bir süre)
 - [başkalarına uyguladığı](https://www.bibleserver.com/TR/Vahiy18%3A22-24) [aynı ölçülerle](https://www.bibleserver.com/TR/Vahiy18%3A6) yargılanır ([çifte ölçü, eşdeğer demenin farklı bir yoludur](https://meredithkline.com/klines-works/articles-and-essays/double-trouble/))
 - Bir rahibin kızının zina yapması durumunda verilen hüküm olan ateş tarafından tüketilir, Babil’den uzak durmak ve çekilmemek için bir başka güçlü uyarı
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 890–948](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham, The climax of Prophecy, sayfalar 338–384](../../../../about/ressources/index.html#bauckham_climax)
-

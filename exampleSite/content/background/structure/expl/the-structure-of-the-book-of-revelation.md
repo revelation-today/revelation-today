@@ -1,15 +1,17 @@
 ---
 title: "The structure of the Book of Revelation"
 weight: 10
+readBefore:
+    - name: Historical background of the book
+      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+    - name: What type of book is this?
+      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+sources:
+    - pages: 108–170
+      ref: beale_rev
 ---
 
 The book of Revelation seems very disorganized at first glance. There is one catastrophe after another and then it starts all over again. But when we look closer, we see an artistic structure and a deliberate work.
-
-## You may want to read before
-
-<a name="bba0"></a>
-- [Historical background of the book](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [What type of book is this](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 
 ## The challenge
 
@@ -84,8 +86,3 @@ The book now closes with some final warnings to remind the reader how serious th
 - Ch 17: [The Harlot](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
 - Ch 20: [The 1000 year kingdom](../../../../content/1000y/expl/the-thousand-year-kingdom)
 - Ch 21: [The New Jerusalem](../../../../content/paradise/expl/the-new-jerusalem)
-
-## Further digging
-
-[Beale, Revelation, pages 108–170](../../../../about/ressources/index.html#bealy_rev)
-

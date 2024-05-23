@@ -1,5 +1,14 @@
 ---
 title: "What are we reading"
+deeper:
+    - name: More on the genre
+      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+    - name: The Old Testament, an important key to understand the pictures
+      link: ../../../../background/literature/expl/full-of-biblical-references
+    - name: Are these all symbols?
+      link: ../../../../background/literature/expl/literally-or-symbolic
+    - name: What does all the numbers mean and the beauty of poetry?
+      link: ../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
 ---
 
 When we read a book, we read it with a certain expectation. You certainly read a scientific report differently than science fiction, or a love poem differently than an action thriller. So when you read the book of Revelation, you might think that this is God’s great revenge on humanity, or a dystopian novel about end-time catastrophes with some special features like a rapture, or just a chaotic collection of crazy stories.
@@ -55,14 +64,3 @@ How much does reading this book through your interpretive lens affect what you n
 Did you know that the key themes are worship, witness, and restoration, and that many of today’s worship songs are based on this book?
 
 Would you be willing to see this with fresh eyes? You might be surprised like in this [video](https://www.youtube.com/watch?v=KB_lTKZm1Ts&amp;pp=ygUTYXdhcmVuZXNzIHRlc3QgYmVhcg%3D%3D) (I know it’s old, but maybe not for everyone).
-
-## Digging deeper
-
-<a name="06f1"></a>
-If you want to get more details on this topic:
-
-- [More on the genre](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [The Old Testament, an important key to understand the pictures](../../../../background/literature/expl/full-of-biblical-references)
-- [Are these all symbols?](../../../../background/literature/expl/literally-or-symbolic)
-- [What does all the numbers mean and the beauty of poetry](../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
-

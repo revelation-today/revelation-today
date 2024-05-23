@@ -1,6 +1,9 @@
 ---
 title: "1000 yıllık cennet mi?"
 weight: 1
+deeper: 
+    - name: 1000 yıllık krallık
+    - link: ../../../../content/1000y/expl/the-thousand-year-kingdom
 ---
 
 1000 yıllık krallık genellikle iyilerin hüküm sürdüğü ve kötülüğün bağlandığı mükemmel bir dünya olarak tanımlanır ve yeni cennet ve yeni dünya kurulmadan önce gerçekleşir. Ama durum böyle midir?
@@ -44,9 +47,3 @@ Bu bölüm mesajın özünün kısa bir özetini vermektedir: Kilise, tanıklık
 - Dayanmak için size ne umut veriyor?
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="e1c1"></a>
-- [1000 yıllık krallık](../../../../content/1000y/expl/the-thousand-year-kingdom)
-

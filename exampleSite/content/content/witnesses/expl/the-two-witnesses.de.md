@@ -1,6 +1,16 @@
 ---
 title: "Die Identität der beiden Zeugen in der Offenbarung"
 weight: 2
+deeper:
+    - name: Die Kraft des Zeugnisses
+      link: ../../../../topics/power/short/the-power-of-testimony
+sources: 
+    - pages: 556–620
+      ref: beale_rev
+    - pages: 84–88
+      ref: bauckham_rev
+    - pages: 266–283
+      ref: bauckham_climax
 ---
 
 In [Kapitel 11](https://www.bibleserver.com/SLT/Offenbarung11) in der Offenbarung sehen wir zwei Zeugen, über deren Identität viel diskutiert wird. Wir werden aber auch einige Anregungen für unser Leben finden.
@@ -155,17 +165,3 @@ Beide (versuchen) [Jesus den Überwinder nachzuahmen](https://www.bibleserver.co
 - Das Tier handelt in [Panik, weil die Zeit knapp ist](https://www.bibleserver.com/SLT/Offenbarung12%2C12), die Zeugen handeln furchtlos, weil sie wissen, [wenn ihre Zeit gekommen ist, ist ihr Auftrag erledigt](https://www.bibleserver.com/SLT/Offenbarung11%2C7).
 
 Wenn du nun auf dein Leben mit Jesus schaust, in welche Kategorie gehörst du? Bist du eher wie die Tiere oder wie die Zeugen? Was würde es für dich bedeuten oder kosten, ein echter Zeuge zu sein?
-
-## Further readings
-
-<a name="31a1"></a>
-- [Die Kraft des Zeugnisses](../../../../topics/power/short/the-power-of-testimony)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 556–620](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham , Revelation, Seiten 84–88](../../../../about/ressources/index.html#bauckham_rev)
-
-[Bauckham, The climax of Prophecy, Seiten 266–283](../../../../about/ressources/index.html#bauckham_climax)
-

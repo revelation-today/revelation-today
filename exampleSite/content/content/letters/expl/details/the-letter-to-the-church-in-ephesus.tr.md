@@ -1,6 +1,13 @@
 ---
 title: "Efes’teki kiliseye yazılan mektup"
 weight: 1
+sources: 
+    - pages: 228–239
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 24
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Efes’teki kilise iyi bir kilise örneğidir. Ama görünüş aldatıcıdır. İsa’nın yargısı felakettir.
@@ -46,10 +53,3 @@ Efes köklü bir kilise olabilir, ruhsal zorluklarla başa çıkma yöntemleri v
 Yaşam ağacından yeme vaadi onları bahçede Tanrı’yla olan sorunsuz ilişkilerine geri götürür. Eğer devam etmek ve Tanrı’nın kullanmadığı bir kilise olmamak istiyorlarsa, buradan başlamaları gerekir.
 
 [Ve Yeni Yeruşalim’de bir vaatleri vardır](https://www.bibleserver.com/TR/Vahiy22%3A1-5).
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 228–239](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, sayfalar 24](../../../../../about/ressources/index.html#fee_rev)
-

@@ -1,6 +1,9 @@
 ---
 title: "The rapture"
 weight: 3
+sources: 
+    - pages: 173-186
+      ref: rossing
 ---
 
 The rapture is a very fascinating subject that has captured the imagination of many people and frightened even more. But what is the rapture? Is it biblical? And what does it mean for believers?
@@ -118,8 +121,3 @@ Rather, it refers to the Old Testament description of the heavenly council, as i
 
 <a name="5a06"></a>
 The argument for the rapture is based on passages describing different situations that are misinterpreted and taken out of context, ignoring the meaning of key words. There is no biblical evidence for a rapture.
-
-### Further digging
-
-[Barabara Rossing, The rapture exposed, pages 173-186](../../../../about/ressources/index.html#rossing)
-

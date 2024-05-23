@@ -1,6 +1,14 @@
 ---
 title: "Pax Romana — key to understand the book of revelation"
 weight: 2
+deeper:
+    - name: What kind of book is this?
+      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+    - name: Structure of the book
+      link: ../../../../background/structure/expl/the-structure-of-the-book-of-revelation
+sources:
+    - pages: 28–33
+      ref: beale_rev
 ---
 
 You may think that the Book of Revelation in the Bible or the Pax Romana in ancient Rome have nothing to do with your life today. You are wrong, and here is why.
@@ -98,13 +106,3 @@ Here are some questions for reflection:
 - How do you threaten other people who disagree with you?
 - Do you feel the need to pretend in certain areas of your life? Why? What would happen if you didn’t pretend?
 - If you were in a situation where your personal opinion/belief would cost you a lot? Would you still stand up for it? To what extent? What would you do in practice?
-
-## Further readings
-
-[What kind of book is this?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-[Structure of the book](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 28–33](../../../../about/ressources/index.html#beale_rev)
-

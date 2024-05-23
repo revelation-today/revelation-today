@@ -1,6 +1,14 @@
 ---
 title: "Pax Romana — vahiy kitabını anlamak için anahtar"
 weight: 2
+deeper:
+    - name: Ne tür bir kitap bu?
+      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+    - name: Kitabın Yapısı
+      link: ../../../../background/structure/expl/the-structure-of-the-book-of-revelation
+sources:
+    - pages: 28–33
+      ref: beale_rev
 ---
 
 İncil’deki Vahiy Kitabı’nın ya da antik Roma’daki Pax Romana’nın şu anki yaşamınızla hiçbir ilgisi olmadığını düşünebilirsiniz. Yanılıyor olabilirsiniz ve işte nedeni.
@@ -70,14 +78,3 @@ Bunlar üzerinde düşünmeniz gereken birkaç soru:
 - Bu “politik doğruculuk” ile çelişiyorsa nasıl tepki veriyorsunuz? Sizinle aynı fikirde olmayan diğer insanları nasıl tehdit ediyorsunuz?
 - Hayatınızın belirli alanlarında rol yapma ihtiyacı hissediyor musunuz? Neden? Rol yapmazsanız ne olur?
 - Kişisel görüşünüzün/inancınızın size çok pahalıya mal olacağı bir durumla karşılaşsaydınız? Yine de bunu savunur muydunuz? Hangi dereceye kadar? Pratikte ne yapardınız?
-
-## Diğer okumalar
-
-<a name="debc"></a>
-- [Ne tür bir kitap bu?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Kitabın Yapısı](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
-
-## Derinleştirmek için
-
-[Beale, Revelation, sayfalar 28–33](../../../../about/ressources/index.html#beale_rev)
-

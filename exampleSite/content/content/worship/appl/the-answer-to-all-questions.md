@@ -1,6 +1,11 @@
 ---
 title: "The answer to all questions"
 weight: 1
+deeper:
+    - name: Worship at the throne
+      link: ../../../../content/worship/expl/worship-in-the-throne-room
+    - name: What is worship?
+      link: ../../../../topics/power/short/worship
 ---
 
 How should all the challenges of the churches be answered? What is the plan of action that God will take? It is simple: God is not doing anything, he is resting in worship and that is where we need to start.
@@ -41,10 +46,3 @@ So let’s see how this works.
 - Do you see worship as the answer to the problems of our time or something we should do?
 - How has worship changed you?
 - How do you worship? What does worship look like in your daily life?
-
-## Digging deeper
-
-<a name="06f1"></a>
-- [Worship at the throne](../../../../content/worship/expl/worship-in-the-throne-room)
-- [What is worship?](../../../../topics/power/short/worship)
-

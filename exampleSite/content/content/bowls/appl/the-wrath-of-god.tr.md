@@ -1,6 +1,13 @@
 ---
 title: "Tanrı’nın gazabı"
 weight: 1
+deeper:
+    - name: Gazap kaseleri
+      link: ../../../../content/bowls/expl/the-bowls-of-wrath
+    - name: Armageddon’un anlamı
+      link: ../../../../content/bowls/expl/the-key-to-armageddon
+    - name: Armageddon ve Karkamış Savaşı
+      link: ../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish
 ---
 
 Bu iş sonunda ciddileşiyor.
@@ -41,11 +48,3 @@ Ve bu da kaselerin ne hakkında olduğu
 - Aşağıda Armagedon hakkında bir çalışma yapın. Bu bugün ne olabilir?
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="d4d4"></a>
-- [Gazap kaseleri](../../../../content/bowls/expl/the-bowls-of-wrath)
-- [Armageddon’un anlamı](../../../../content/bowls/expl/the-key-to-armageddon)
-- [Armageddon ve Karkamış Savaşı](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
-

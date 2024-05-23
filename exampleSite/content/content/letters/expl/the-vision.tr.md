@@ -1,6 +1,9 @@
 ---
 title: "Vizyon"
 weight: 3
+sources: 
+    - pages: 205–222
+      ref: beale_rev
 ---
 
 Vahiy Kitabı büyük bir patlamayla başlar. Yuhanna kandillerin arasında yürüyen ve elinde başlangıçlar olan inanılmaz bir figür görür. Bu görümün bir şekilde kitabın kapsamını belirlediği açık olsa da, asıl mesajın ne olduğunu merak edebilirsiniz.
@@ -45,8 +48,3 @@ Kilise, aynı zamanda iki ana ortak noktası olan iki farklı resimle tanımlanm
 - Her ikisinin de İsa’ya ihtiyacı vardır: yıldızlar İsa’nın elinde olmadıkları zaman parlayamazlar, lamba da ancak yağ (Kutsal Ruh) olduğu zaman ayakta durur.
 
 Kilisenin amacı dünyaya ışık olmaları, dünyanın kurtulmasıdır. Kitabın amacı budur ve kilisenin sınandığı şey de budur: Kilise ulusları ikna eden bir tanıklık mı?
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 205–222](../../../../about/ressources/index.html#aune_rev)
-

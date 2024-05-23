@@ -1,6 +1,9 @@
 ---
 title: "Wörtlich oder symbolisch?"
 weight: 20
+sources:
+    - pages: 50–69
+      ref: beale_rev
 ---
 
 Die Offenbarung enthält viele Bilder, die aus einer anderen Welt zu stammen scheinen. Sollen wir sie alle wörtlich nehmen oder sind sie symbolisch gemeint? In gewissem Sinne ist beides richtig. Aber ich greife vor.
@@ -99,8 +102,3 @@ Dieses Wort wird hier in der symbolischen Vision eines Engels verwendet (“[um 
 Nach diesen Überlegungen ist es sinnvoll, zunächst vom symbolischen Charakter des Textes auszugehen, vor allem dann, wenn er nicht eindeutig ist.
 
 Darüber hinaus gibt es in der Offenbarung viele Dinge, die eindeutig symbolisch sind: das Lamm, der Drache, das Tier mit den Köpfen und Hörnern, das Buch mit den sieben Siegeln, das Schwert aus dem Mund Jesu, …
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 50–69](../../../../about/ressources/index.html#beale_rev)
-

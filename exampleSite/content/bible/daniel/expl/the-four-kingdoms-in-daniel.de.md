@@ -1,6 +1,9 @@
 ---
 title: "Die vier Königreiche in Daniel"
 weight: 20
+sources:
+    - pages: 38–46
+      ref: dabar_daniel
 ---
 
 Das Buch Daniel scheint die Quelle für viele endzeitliche Interpretationen zu sein. Schauen wir uns diese näher an.
@@ -66,8 +69,3 @@ Andererseits ist der Übergang der Herrschaft nicht so offensichtlich, denn sein
 Das Römische Reich war das letzte Reich, das über Israel herrschte. Durch den Neuen Bund ist das Volk Gottes über die ganze Erde verstreut, und es gibt kein einziges Reich, das sie einschließt.
 
 Es gibt auch Diskussionen darüber, wer die zehn Könige und die drei Hörner in Kapitel 7 sind, aber wir müssen diese Themen im Zusammenhang mit der Offenbarung betrachten, wo wir die [Dreieinigkeit](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) und die zehn Könige wieder sehen.
-
-## Zur Vertiefung
-
-[Dabarlines, The book of Daniel, Seiten 38–46](../../../../about/ressources/index.html#dabar_daniel)
-

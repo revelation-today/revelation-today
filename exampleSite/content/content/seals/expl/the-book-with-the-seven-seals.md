@@ -1,6 +1,12 @@
 ---
 title: "The book with the seven seals"
 weight: 2
+deeper:
+    - name: The four horsemen
+      link: ../../../../content/seals/expl/the-mystery-of-the-four-horse-men
+sources: 
+    - pages: 337–369
+      ref: beale_rev
 ---
 
 Have you ever heard of something that is hard to understand being called a book with seven seals? And that comes from the Bible. Yes, it comes from the Bible, but it has a very different meaning.
@@ -30,13 +36,3 @@ When Jesus opened the seals, He made sure [that the devil was exposed](../../../
 [The main reaction is Jesus’ great judgment](https://www.bibleserver.com/NIV/Revelation6%3A12-17). This is truly the [Day of the Lord](../../../../background/israel/expl/the-day-of-the-lord), where everyone is accountable and cannot hide, as in the Last Judgment.
 
 After the interruption of the [144,000](../../../../content/army/expl/the-144000), the seventh seal is opened. This shows a half hour of silence. Silence has its own meaning in the Bible, but in Jewish literature there is a strong connection between the time of silence in heaven and the time when God hears the prayers of the saints. This continues the idea of the[ fifth seal, where the prayers of the saints come into focus](https://www.bibleserver.com/NIV/Revelation6%3A9-11). Even though the prayer of the saints is only mentioned [twice](https://www.bibleserver.com/NIV/Revelation8%3A2-5), it connects the seals and the trumpets and plays a central role there.
-
-## Further reading
-
-<a name="324d"></a>
-- [The four horsemen](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 337–369](../../../../about/ressources/index.html#beale_rev)
-

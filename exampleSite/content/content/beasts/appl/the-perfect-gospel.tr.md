@@ -1,6 +1,15 @@
 ---
 title: "Mükemmel “müjde”"
 weight: 1
+deeper:
+    - name: İki canavar
+      link: ../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+    - name: Canavarın sayısı
+      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+    - name: Orijinal bağlamda canavar
+      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+    - name: Canavarın doğası
+      link: ../../../../content/beasts/expl/the-nature-of-the-beast
 ---
 
 Bu bölüm yıkıma koşan iki canavar gibi görünüyor, ancak bu tüm kitaptaki en derin bölümlerden biri. Hadi hazırlanalım.
@@ -118,12 +127,3 @@ Yani Şeytan ve İsa gibi davrananlar arasındaki ayırt edici nokta güç ya da
 - Nerede teslim olmaya zorlanıyorsunuz (çaresizlikten, inançtan, ayartılmaktan)?
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="8458"></a>
-- [İki canavar](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [Canavarın sayısı](../../../../content/beasts/expl/666-the-number-of-the-beast)
-- [Orijinal bağlamda canavar](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
-- [Canavarın doğası](../../../../content/beasts/expl/the-nature-of-the-beast)
-

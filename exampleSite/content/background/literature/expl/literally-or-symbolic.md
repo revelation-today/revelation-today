@@ -1,6 +1,9 @@
 ---
 title: "Literally or symbolic"
 weight: 20
+sources:
+    - pages: 50–69
+      ref: beale_rev
 ---
 
 The book of Revelation uses a lot of images that seem to be out of our world. Do we need to stretch our imaginations or are these just symbols? Well, both. Read on for a better understanding.

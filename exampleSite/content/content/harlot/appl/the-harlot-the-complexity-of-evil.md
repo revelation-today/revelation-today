@@ -1,6 +1,15 @@
 ---
 title: "The Harlot: The complexity of evil"
 weight: 1
+deeper:
+    - name: "Who is the harlot: Part 1"
+      link: ../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1
+    - name: "Who is the harlot: Part 2"
+      link: ../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2
+    - name: The harlot as a mocking of the time
+      link: ../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+    - name: The character and destiny of the harlot
+      link: ../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot
 ---
 
 The harlot in Revelation is hard to grasp because it shows the complexity of the evil system on earth. But with some patience, we can get a good look at it.
@@ -45,12 +54,3 @@ He comes with a sword out of His mouth and He judges each one alone (the angels 
 - When do you see yourself in Babel? How do you leave it?
 - What attitude of today reflects the attitude of the harlot?
 - What things would you mourn if Babel fell?
-
-## Digging deeper
-
-<a name="aa59"></a>
-- [Who is the harlot: Part 1](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
-- [Who is the harlot: Part 2](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
-- [The harlot as a mocking of the time](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
-- [The character and destiny of the harlot](../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
-

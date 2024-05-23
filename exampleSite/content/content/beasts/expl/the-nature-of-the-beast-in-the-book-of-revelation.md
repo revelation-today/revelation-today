@@ -1,6 +1,18 @@
 ---
 title: "The nature of the beast in the book of revelation"
 weight: 5
+deeper:
+    - name: The beasts in historical context
+      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+    - name: The number 666
+      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+    - name: The 3,5 years
+      link: ../../../../bible/daniel/expl/the-secret-of-the-3-5-years
+sources: 
+    - pages: 681–730
+      ref: beale_rev
+    - pages: 88–94
+      ref: bauckham_rev
 ---
 
 One of the first things that comes to mind when you think about the book of Revelation in the Bible is the dragon and the two beasts that have the number 666 and make marks on people’s hands and foreheads. There is much speculation as to what this might mean. So let us take a look and see what people are saying.
@@ -135,17 +147,3 @@ This is not the case, because the devil would do a very bad job of imitating God
 The devil advertises victory, no matter what the death toll.
 
 God comes in love and cares for people, even if it does not always look so victorious.
-
-## Further readings
-
-<a name="99fc"></a>
-- [The beasts in historical context](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
-- [The number 666](../../../../content/beasts/expl/666-the-number-of-the-beast)
-- [The 3,5 years](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 681–730](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham, Revelation, pages 88–94](../../../../about/ressources/index.html#bauckham_rev)
-

@@ -1,6 +1,11 @@
 ---
 title: "Tüm soruların cevabı"
 weight: 1
+deeper:
+    - name: Tahtta ibadet
+      link: ../../../../content/worship/expl/worship-in-the-throne-room
+    - name: İbadet nedir?
+      link: ../../../../topics/power/short/worship
 ---
 
 Kiliselerin tüm zorluklarına nasıl yanıt verilmelidir? Tanrı’nın uygulayacağı eylem planı nedir? Çok basit: Tanrı hiçbir şey yapmaz, tapınmada dinlenir ve bizim de buradan başlamamız gerekir.
@@ -43,10 +48,3 @@ Bakalım nasıl çalışacak.
 - Siz nasıl ibadet ediyorsunuz? İbadet günlük yaşamınızda nasıl görünüyor?
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="3254"></a>
-- [Tahtta ibadet](../../../../content/worship/expl/worship-in-the-throne-room)
-- [İbadet nedir?](../../../../topics/power/short/worship)
-

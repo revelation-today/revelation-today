@@ -1,6 +1,13 @@
 ---
 title: "Das Schreiben an Ephesus"
 weight: 1
+sources: 
+    - pages: 228–239
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 24
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Die Gemeinde in Ephesus scheint ein gutes Beispiel für eine Gemeinde zu sein. Doch der Eindruck täuscht. Jesus fällt ein vernichtendes Urteil.
@@ -46,10 +53,3 @@ Ephesus mag eine etablierte Gemeinde sein, die ihre eigene Art hat, mit Herausfo
 Die Verheißung, vom Baum des Lebens zu essen, führt sie zurück in die ungetrübte Beziehung zu Gott im Garten Eden. Wenn sie vorankommen und nicht zu einer überflüssigen Gemeinschaft werden wollen, müssen sie dort anfangen.
 
 Und sie haben eine [Verheißung im Neuen Jerusalem](https://www.bibleserver.com/SLT/Offenbarung22%2C1-5).
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 228–239](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, Seiten 24](../../../../../about/ressources/index.html#fee_rev)
-

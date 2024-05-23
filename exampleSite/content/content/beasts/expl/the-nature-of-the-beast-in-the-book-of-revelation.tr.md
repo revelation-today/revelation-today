@@ -1,6 +1,18 @@
 ---
 title: "Vahiy kitabındaki canavarın doğası"
 weight: 5
+deeper:
+    - name: Tarihsel bağlamda canavarlar
+      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+    - name: 666 sayısı
+      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+    - name: 3,5 yıl
+      link: ../../../../bible/daniel/expl/the-secret-of-the-3-5-years
+sources: 
+    - pages: 681–730
+      ref: beale_rev
+    - pages: 88–94
+      ref: bauckham_rev
 ---
 
 İncil’deki vahiy kitabını düşündüğünüzde aklınıza gelen ilk şeylerden biri ejderha ve iki canavardır, sayıları 666'dır ve insanların ellerine ve alınlarına işaretler koyarlar. Bunun ne anlama gelebileceğine dair pek çok spekülasyon vardır. Öyleyse bir göz atalım ve insanların ne dediğini görelim.
@@ -138,17 +150,3 @@ Durum böyle değildir, çünkü her şey farklı olsaydı şeytan Tanrı’yı 
 Şeytan, ölümler ne olursa olsun zaferle reklam yapar.
 
 Tanrı, her zaman çok muzaffer görünmese bile, insanlarla ilgilenerek sevgiyle gelir.
-
-## Diğer okumalar
-
-<a name="cdf4"></a>
-- [Tarihsel bağlamda canavarlar](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
-- [666 sayısı](../../../../content/beasts/expl/666-the-number-of-the-beast)
-- [3,5 yıl](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 681–730](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham, Revelation, sayfalar 88–94](../../../../about/ressources/index.html#bauckham_rev)
-

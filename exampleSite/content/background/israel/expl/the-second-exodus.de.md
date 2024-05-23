@@ -1,5 +1,8 @@
 ---
 title: "Der zweite Auszug"
+sources:
+    - pages: 694–703
+      ref: beale_theo
 ---
 
 Es gab einen Auszug aus Ägypten. Aber weil Israel den Bund verlassen hatte, gingen sie wieder ins Exil. Die Verheißungen über die Rückkehr aus dem Exil verwirrten sie, denn nach der Rückkehr aus dem Exil in Babel hatte sich nichts geändert. Die Schlussfolgerung: Sie waren immer noch im Exil und warteten auf den zweiten Exodus. Und der kam mit Jesus!
@@ -68,8 +71,3 @@ Speziell wird Gericht ausgesprochen, wenn diese Götzen Göttlichkeit beanspruch
 Der zweite Auszug, auf den Israel so lange gewartet hat, ist mit Jesus verbunden. Die Frage, ob Israel und die Nationen (wieder) zu Gott oder zu ihren Götzen zurückkehren, ist ein zentrales Thema.
 
 Das Evangelium zeigt die Spannung zwischen der Wiederherstellung Israels, das an Jesus glaubt, und der Rettung der Völker, die miteinander verbunden sind.
-
-## Zur Vertiefung
-
-[Beale, A New Testament biblical theology, Seiten 694–703](../../../../about/ressources/index.html#beale_theo)
-

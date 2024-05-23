@@ -1,6 +1,14 @@
 ---
 title: "Dört Atlının Gizemi"
 weight: 3
+deeper:
+    - name: "144 000"
+      link: ../../../../content/army/expl/the-144000
+    - name: Trompetler
+      link: ../../../../content/trumpets/expl/the-trumpets-in-revelation
+sources: 
+    - pages: 370–395
+      ref: beale_rev
 ---
 
 İncil’deki Vahiy kitabında, tüm dünyaya savaş, açlık ve ölüm getiren dört atlı adam ya da kıyamet binicisi görürüz. Ancak ilki çok baş ağrıtıyor çünkü şemaya uymuyor ve tartışmalı bir konu.
@@ -95,14 +103,3 @@ Yani ilk atlı kötü olan ama iyi ve İsa gibi davranandır. Bağlama baktığ�
 - son sürücü gösterilen üçlünün etkisini özetlemektedir
 
 Yani şeytanın cazip teklifi ne olursa olsun ve ne kadar İsa’ya benziyor olursa olsun. Sakın kabul etmeyin, sonu felaketle bitecektir — en azından Tanrı’yla olan ilişkiniz açısından.
-
-## Daha fazla okuma
-
-<a name="9cea"></a>
-- [144 000](../../../../content/army/expl/the-144000)
-- [Trompetler](../../../../content/trumpets/expl/the-trumpets-in-revelation)
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 370–395](../../../../about/ressources/index.html#beale_rev)
-

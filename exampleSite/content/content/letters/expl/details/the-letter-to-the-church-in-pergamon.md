@@ -1,6 +1,16 @@
 ---
 title: "The letter to the church in Pergamon"
 weight: 3
+deeper:
+    - name: The story of Balaam
+      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+sources: 
+    - pages: 245–258
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 33
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 This church is about to fail, and all because of Balaam? He is not really the problem.
@@ -47,15 +57,3 @@ They will receive a white stone with a new name that can have two meanings:
 A new name is usually associated with a [new identity](https://www.bibleserver.com/NIV/Genesis17%3A5), and knowing the new name indicates an intimate relationship between these people.
 
 God offers a new beginning if the church wants it. But [if they do not, Jesus will fight against them](https://www.bibleserver.com/NIV/Revelation2%3A16).
-
-## Further reading
-
-<a name="3197"></a>
-- [The story of Balaam](../../../../bible/keyword/expl/the-story-of-balaam)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 245–258](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, pages 33](../../../../../about/ressources/index.html#fee_rev)
-

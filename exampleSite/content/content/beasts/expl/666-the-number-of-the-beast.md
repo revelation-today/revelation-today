@@ -1,6 +1,9 @@
 ---
 title: "666: The number of the beast"
 weight: 4
+sources:
+    - pages: 384–452
+      ref: bauckham_climax
 ---
 
 [The magic number of the beast](https://www.bibleserver.com/NIV/Revelation13%3A18) been used, wrongly in my opinion, to interpret current politics using a numbering scheme. The answer should be looked up and can be found in the Bible itself.
@@ -105,8 +108,3 @@ If you think the 666 is a computer chip that is planted, then ask yourself. But 
 - Smartphone usage (including location tracking)
 - Credit or debit card usage
 - Tons of social media records?
-
-## Dig Deeper
-
-[Bauckham, The climax of Prophecy, pages 384–452](../../../../about/ressources/index.html#bauckham_climax)
-

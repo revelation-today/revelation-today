@@ -1,6 +1,8 @@
 ---
 title: "“Tapınak” ve Tanrı’nın varlığı"
 weight: 10
+sources:
+    - ref: beale_dwell
 ---
 
 Kutsal Kitap’ta tapınak konusuna baktığımızda, bunun Salomon’la (ya da Buluşma Çadırı’nı düşünürsek Mose’yle) başladığını ve MS 70 yılında Romalılar tarafından yıkılmasıyla, hatta MÖ 587'de Babil’e sürülmesiyle sona erdiğini düşünürüz.

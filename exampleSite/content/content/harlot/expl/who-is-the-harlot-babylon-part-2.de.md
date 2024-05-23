@@ -1,6 +1,12 @@
 ---
 title: "Wer ist die Hure Babel: Teil 2"
 weight: 3
+deeper:
+    - name: Babel als Spottlied auf das Römische Reich
+      link: ../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+sources: 
+    - pages: 847–890
+      ref: beale_rev
 ---
 
 Wie wir in Teil 1 gesehen haben, ist die Hure Babel etwas komplex, aber in diesem Teil kommt nun endlich die Auflösung!

@@ -1,6 +1,9 @@
 ---
 title: "The weapons of the church and the fate of the nations"
 weight: 1
+deeper:
+    - name: Gods army and the seven angels
+      link: ../../../../content/harvest/expl/gods-army-and-the-seven-angels
 ---
 
 What are the weapons that the Church uses in the battle against the unbelieving world and the dragon and the beast? What is the eternal gospel?
@@ -45,9 +48,3 @@ The whole chapter is about the nation and the church’s efforts to bring the na
 - Do you know that not all nations are saved? What does that mean to you?
 
 [The biggest context](../../../../gen/index/appl/the-book-of-revelation)
-
-## Digging deeper
-
-<a name="06f1"></a>
-- [Gods army and the seven angels](../../../../content/harvest/expl/gods-army-and-the-seven-angels)
-

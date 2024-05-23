@@ -1,6 +1,12 @@
 ---
 title: "Dispensionalism — A little history"
 weight: 1
+deeper:
+    - name: Critic on Dispensionalism
+      link: ../../../../topics/others/expl/dispensionalism-and-its-critic
+sources: 
+    - pages: 11–67
+      ref: koester_rev
 ---
 
 Have you ever heard of this strange word? No, but maybe you have heard about the third temple, the rapture, or the 3.5 years of tribulation. If so, you have heard of [dispensionalism](https://en.wikipedia.org/wiki/Dispensationalism). But let’s take it one step at a time.
@@ -28,12 +34,3 @@ The next major step was William Miller (1782–1849) and the Seventh-Day Adventi
 The man who really started Dispensationalism was John Nelson Darby (1800–1882). He was a curate in the Church of Ireland. He was very involved in helping the poor in his area and left the Church after the Archbishop of Dublin required any convert to swear an oath of allegiance to King George IV as the rightful King of Ireland.After an accident, he spent some time in reflection and came to the conclusion that the church and the “kingdom” in the Old Testament were two different things. He divided world history into several periods, or “dispensations,” giving Dispensationalism its name. The last of these will be the 1000 year kingdom.In this view, the time of the church is only an interim period until Israel rules the world as an earthly political kingdom and the church is raptured to heaven.
 
 His views spread quickly through the Scofield Bible, Hal Lindsey’s Late Great Planet Earth, and the Left Behind series and were consumed by many people.Since then, Dispensationalism has spread and is very diverse, but has some [beliefs](https://www.thegospelcoalition.org/essay/dispensational-theology/).
-
-## Further reading
-
-[Critic on Dispensionalism](../../../../topics/others/expl/dispensionalism-and-its-critic)
-
-## Dig deeper
-
-[Köster, Revelation and the end of all things, pages 11–67](../../../../about/ressources/index.html#koester_rev)
-

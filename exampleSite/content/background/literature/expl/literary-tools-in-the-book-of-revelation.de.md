@@ -1,6 +1,11 @@
 ---
 title: "Literarische Mittel in der Offenbarung"
 weight: 40
+sources:
+    - pages: 15–44
+      ref: dorsey
+    - pages: 7–11
+      ref: walsh
 ---
 
 Wie haben die ersten Leser das Buch der Offenbarung gelesen? Es gab keine Überschriften oder Absätze, nur den Text. Werfen wir einen Blick auf diese ganz andere Art des Lesens.
@@ -188,10 +193,3 @@ Dafür gibt es viele Gründe:
 - Klärung einer Einheit durch Vergleich mit ihrem Gegenstück: Die Bedeutung einer Funktion einer Einheit kann durch Vergleich mit ihrem Gegenstück verdeutlicht werden, z.B. das Dankgebet in Jona 2 für die Befreiung im Gegensatz zu seinem zornigen und nachtragenden Gebet in Jona 4 für die Befreiung des Volkes von Ninive, das Jona in Kapitel 2 als egozentrisch entlarvt.
 - Entdeckung des zentralen Punktes einer Einheit: Wenn wir den zentralen Punkt der Struktur finden, finden wir leicht die zentrale Botschaft eines Buches oder eines längeren Abschnitts.
 - Entdeckung des Themas der Komposition: Das Hauptthema wird durch die Gesamtstruktur entwickelt, z.B. das starke Thema des Götzendienstes im Vertrag am Sinai in Ex 19/3–4.Mo 10/10 oder die Gegenseitigkeit im Hohelied der Liebe.
-
-## Zur Vertiefung
-
-[David A. Dorsey, The literary structure of the Old Testament, Seiten 15–44](../../../../about/ressources/index.html#dorsey)
-
-[Jerome T. Walsh, Biblical Hebrew Narrative, Seiten 7–11](../../../../about/ressources/index.html#walsh)
-

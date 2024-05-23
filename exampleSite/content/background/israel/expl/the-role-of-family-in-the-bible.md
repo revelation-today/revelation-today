@@ -1,6 +1,9 @@
 ---
 title: "The role of family in the Bible"
 weight: 1
+sources:
+    - pages: 21–46
+      ref: richter
 ---
 
 Does the Bible support and encourage patriarchal structures? Does it support the idea that women are not so important? You are far off, but let me explain what the family was like in ancient culture.
@@ -81,8 +84,3 @@ If the family had to sell the land, it would ruin them, so the Bible makes sure 
 
 <a name="01d7"></a>
 God is portrayed as a father, Jesus as the first born who takes care of the others and he [gives a house with many apartments](https://www.bibleserver.com/NIV/John14%3A1-3) so that we can all live together.
-
-## Dig Deeper
-
-[Sandra Richter, The Epic of Eden, pages 21–46](../../../../about/ressources/index.html#richter)
-

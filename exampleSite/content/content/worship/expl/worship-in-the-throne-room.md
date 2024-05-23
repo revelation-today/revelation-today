@@ -1,6 +1,14 @@
 ---
 title: "Worship in the throne room"
 weight: 2
+deeper:
+    - name: The seven seals
+      link: ../../../../content/seals/expl/the-book-with-the-seven-seals
+    - name: What is worship?
+      link: ../../../../topics/power/short/worship
+sources: 
+    - pages: 311–337
+      ref: beale_rev
 ---
 
 Worship in the throne room is the answer to the letters of the churches. Why and how is this the introduction to all the plagues that follow?
@@ -101,14 +109,3 @@ We have the creation represented by [the four creatures](https://www.bibleserver
 - Eagle as ruler of the air
 
 They are joined by the [24 elders](https://www.bibleserver.com/NIV/Revelation4%3A4), reflecting the [24 orders of priests](https://www.bibleserver.com/NIV/1%20Chronicles24%3A3-19), [24 Levithical gatekeepers](https://www.bibleserver.com/NIV/1%20Chronicles26%3A17-19) and [24 permanent worshipers](https://www.bibleserver.com/NIV/1%20Chronicles25) introduced by David, but also the 12 tribes of Israel and the 12 apostles as the foundation of the church. This means that Israel and the Church are to be understood as one in spite of all the conflicts. The church is defined as a church of worship.
-
-## Further reading
-
-[The seven seals](../../../../content/seals/expl/the-book-with-the-seven-seals)
-
-[What is worship?](../../../../topics/power/short/worship)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 311–337](../../../../about/ressources/index.html#beale_rev)
-

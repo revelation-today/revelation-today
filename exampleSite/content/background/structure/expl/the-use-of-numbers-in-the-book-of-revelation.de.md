@@ -1,6 +1,11 @@
 ---
 title: "Die Benutzung von Zahlen in der Offenbarung"
 weight: 40
+sources:
+    - pages: 60–64
+      ref: beale_rev
+    - pages: 384–407
+      ref: bauckham_climax
 ---
 
 Die Offenbarung ist voll von Zahlen, aber was bedeuten sie? Sind sie wörtlich zu verstehen wie 1260 Tage oder haben sie eine andere Bedeutung? Wie werden Zahlen in der Bibel grundsätzlich verwendet?
@@ -125,10 +130,3 @@ Die Realität ist, dass das Reich Gottes weit über dem Reich Satans steht, das 
 Aber wir sehen oft die verzerrte Realität, in der Satan immer ein bisschen stärker ist.
 
 ![](/images/Numbers2_de2.jpg)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 60–64](../../../../about/ressources/index.html#bealy_rev)
-
-[Bauckham, The climax of prophecy, Seiten 384–407](../../../../about/ressources/index.html#bauckham_climax)
-

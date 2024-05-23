@@ -1,6 +1,9 @@
 ---
 title: "The New Jerusalem"
 weight: 2
+sources: 
+    - pages: 1039–1121
+      ref: beale_rev
 ---
 
 What will heaven be like and what will hell be like? This is hard to say in detail, but the book of Revelation gives us some insight.
@@ -255,8 +258,3 @@ Finally, the circle is closed to the beginning (of creation and fall): [The Tree
 All the evil is gone and we can fully focus on serving God.
 
 The [name on the forehead](https://www.bibleserver.com/NIV/Revelation22%3A4) was [originally on the priests forehead](https://www.bibleserver.com/NIV/Exodus28%3A36-38) and shows [that the character of God is imprinted on them and now us](https://www.bibleserver.com/NIV/1%20John3%3A2).
-
-## Dig Deeper
-
-[Beale, Revelation, pages 1039–1121](../../../../about/ressources/index.html#beale_rev)
-

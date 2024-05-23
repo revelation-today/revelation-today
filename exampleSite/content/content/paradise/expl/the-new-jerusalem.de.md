@@ -1,6 +1,9 @@
 ---
 title: "Das neue Jerusalem"
 weight: 2
+sources: 
+    - pages: 1039–1121
+      ref: beale_rev
 ---
 
 Wie Himmel und Erde aussehen werden, ist im Einzelnen schwer zu sagen, aber die Offenbarung gibt uns dennoch einige Einblicke.
@@ -255,8 +258,3 @@ Schließlich schließt sich der Kreis zum Anfang (der Schöpfung und des Sünden
 Alles Böse ist verschwunden, und wir können uns ganz auf den Dienst an Gott konzentrieren.
 
 Der [Name auf der Stirn](https://www.bibleserver.com/SLT/Offenbarung22%2C4) war ursprünglich [auf der Stirn der Priester](https://www.bibleserver.com/SLT/2.Mose28%2C36-38) und zeigt, dass [der Charakter Gottes in ihnen und nun uns eingeprägt ist](https://www.bibleserver.com/SLT/1.Johannes3%2C2).
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 1039–1121](../../../../about/ressources/index.html#beale_rev)
-

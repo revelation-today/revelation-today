@@ -1,6 +1,9 @@
 ---
 title: "İsrail’in kalıntıları"
 weight: 4
+sources:
+    - pages: 658–669
+      ref: beale_theo
 ---
 
 İsrail’in kalıntısı nedir? Ve İsrail kalıntı olarak sürgünden nasıl kurtulacak?
@@ -104,8 +107,3 @@ Yabancılar artık İsrail’in bir parçası olarak görülüyor.
 - [Moavlı](https://www.bibleserver.com/TR/Rut1%3A1-4) [Rut](https://www.bibleserver.com/TR/Rut1%3A16) da dahil edilir ve [Davut](https://www.bibleserver.com/TR/Rut4%3A10-16) ile [İsa](https://www.bibleserver.com/TR/Matta1%3A5)’nın atası olur.
 
 Bu sahne evlenen Yahudi olmayanları anlatmaktadır. Toprakların çoğuna sahip olmaları, onları İsrail’in bir parçası yapar, çünkü [sadece İsrailliler toprak alabilir.](https://www.bibleserver.com/TR/Levililer25%3A23)
-
-## Derinleştirmek için
-
-[Beale, A New Testament biblical theology, sayfalar 658–669](../../../../about/ressources/index.html#beale_theo)
-

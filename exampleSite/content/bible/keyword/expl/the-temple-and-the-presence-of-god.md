@@ -1,6 +1,8 @@
 ---
 title: "The “temple” and the presence of God"
 weight: 10
+sources:
+    - ref: beale_dwell
 ---
 
 When we look at the subject of the temple in the Bible, we think it starts with Solomon (or Moses, if you look at the tabernacle) and ends with the destruction by the Romans in 70 AD or even the deportation to Babel in 587 BC.

@@ -1,6 +1,12 @@
 ---
 title: "The bowls of wrath"
 weight: 2
+deeper:
+    - name: Armageddon
+      link: ../../../../content/bowls/expl/the-key-to-armageddon
+sources: 
+    - pages: 681–730
+      ref: beale_rev
 ---
 
 The bowls of wrath in the book of Revelation give the impression of a God who is angry that mankind will not listen and has a final outburst of anger. But this is far from the truth, quite the opposite.
@@ -44,13 +50,3 @@ We need to take a closer look at the sixth bowl.
 [The three frogs coming out of the mouth of the dragon and his companions](https://www.bibleserver.com/NIV/Revelation16%3A13) also have an interesting background. The frogs are the animal representation of [Heqed, the goddess of fertility/birth, who also was has the power of resurrection](https://en.wikipedia.org/wiki/Heqet). [Here we have the claim of the resurrected beast that is unbeatable](https://www.bibleserver.com/NIV/Revelation13%3A3-4).
 
 The gathering of the armies at Armageddon is mirrored by the gathering of the birds in chapter 19, which makes the defeat of Satan even more ironic because it gives the impression that the armies of Satan are defeated by the birds.
-
-## Further readings
-
-<a name="6cfb"></a>
-- [Armageddon](../../../../content/bowls/expl/the-key-to-armageddon)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 681–730](../../../../about/ressources/index.html#beale_rev)
-

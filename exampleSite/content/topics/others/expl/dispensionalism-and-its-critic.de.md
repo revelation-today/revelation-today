@@ -1,6 +1,11 @@
 ---
 title: "Kritik am Dispensionalismus"
 weight: 2
+sources: 
+    - pages: 173-186
+      ref: rossing
+    - pages: 69–73
+      ref: goreman
 ---
 
 Der Dispensionalismus wird oft diskutiert und kann für den Leser sehr verwirrend sein. Hier sind einige Punkte der Kritik an dieser Theorie.Es ist schwierig, den Dispensionalismus zu kritisieren, aber ich werde versuchen, mich kurz zu fassen und auch ein wenig “Left Behind” zu betrachten.
@@ -96,10 +101,3 @@ Die Theorie macht Aussagen über die Welt, die nicht in der Bibel stehen oder ih
 - Sie ist unbegründet antikatholisch.
 - Sie ist unkritisch pro-amerikanisch und pro-israelisch (Anmerkung: Das Alte Testament war sehr kritisch gegenüber Israel).
 - Sie sieht den Krieg im Nahen Osten als Teil von Gottes Plan und daher als etwas Gutes, das man als Christ unterstützen sollte (dass dort Krieg ausbricht).
-
-## Zum Weiterlesen
-
-[Barabara Rossing, The rapture exposed, Seiten 173-186](../../../../about/ressources/index.html#rossing)
-
-[Michael Goreman, Reading reveleation resposnsibly, Seiten 69–73](../../../../about/ressources/index.html#goreman)
-

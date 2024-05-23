@@ -1,6 +1,9 @@
 ---
 title: "The end time and the great tribulation"
 weight: 3
+sources:
+    - pages: 433–445
+      ref: beale_rev
 ---
 
 When will the end times begin, and what is the Great Tribulation? This is a question that comes with a lot of emotion. And the question is, what of the information out there is reliable and how can we judge that? So let’s take a look at our favorite book to find some answers: The Bible.
@@ -66,8 +69,3 @@ So the Great Tribulation refers to all the tribulations that we as the Church ar
 [The remnant of Israel](../../../../background/israel/expl/the-remnant-of-israel)
 
 [The church and Israel](../../../../background/israel/expl/the-church-is-part-of-israel)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 433–445](../../../../about/ressources/index.html#beale_rev)
-

@@ -1,6 +1,29 @@
 ---
 title: "The challenges"
 weight: 1
+deeper:
+    - name: How the book starts
+      link: ../../../../content/letters/expl/setting-the-foundation
+    - name: The vision of Jesus
+      link: ../../../../content/letters/expl/the-vision
+    - name: The angels of the churches
+      link: ../../../../content/letters/expl/the-angel-of-the-churches
+    - name: The letter to the churches
+      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+    - name: The letter to Ephesus
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus
+    - name: The letter to Smyrna
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna
+    - name: The letter to Pergamon
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon
+    - name: The letter to Thyatira
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira
+    - name: The letter to Sardes
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis
+    - name: The letter to Philadelphia
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia
+    - name: The letter to Laodicea
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea
 ---
 
 What do 2000 year old churches have to do with our situation today? Don’t we have very different challenges today? You would be surprised how little the world and the church have changed.
@@ -55,19 +78,3 @@ Their challenges are as individual as their strengths, so some of the strengths 
 - Love is not genuine: They have lost sight of their original calling, perhaps getting so caught up in all the good things that they have forgotten the reason for it all.
 - Poor leadership and deception: The leadership allowed or was the source of false teaching. This had a devastating effect on the entire church.
 - False self-assessment: Laodicea, which received no praise, was probably a church that thought highly of itself. Also, Sardes thought they could do it on their own. This was a very bad misconception that was destructive.
-
-## Digging deeper
-
-<a name="06f1"></a>
-- [How the book starts](../../../../content/letters/expl/setting-the-foundation)
-- [The vision of Jesus](../../../../content/letters/expl/the-vision)
-- [The angels of the churches](../../../../content/letters/expl/the-angel-of-the-churches)
-- [The letter to the churches](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [The letter to Ephesus](../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus)
-- [The letter to Smyrna](../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna)
-- [The letter to Pergamon](../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon)
-- [The letter to Thyatira](../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira)
-- [The letter to Sardes](../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis)
-- [The letter to Philadelphia](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
-- [The letter to Laodicea](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
-

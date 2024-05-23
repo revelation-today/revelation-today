@@ -1,6 +1,9 @@
 ---
 title: "The four kingdoms in Daniel"
 weight: 20
+sources:
+    - pages: 38–46
+      ref: dabar_daniel
 ---
 
 The book of Daniel seems to be the source of many end-time interpretations. Let’s take a closer look at what this is all about and start with the basics.
@@ -69,8 +72,3 @@ But how much are we taking advantage of it? Instead of a new world, we see the w
 The Roman Empire is the last of the four that had direct rule over Israel. After the new covenant with Jesus, God’s people are scattered all over the earth, and there is no one empire that covers them all.
 
 There is much controversy about the ten kings and the three horns, about which Daniel inquires more in chapter 7, but we must discuss them in the context of the book of Revelation, where we see the [evil trinity](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) and the ten kings again.
-
-## Dig deeper
-
-[Dabarlines, The book of Daniel, pages 38–46](../../../../about/ressources/index.html#dabar_daniel)
-

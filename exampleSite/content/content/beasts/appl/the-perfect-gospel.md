@@ -1,6 +1,15 @@
 ---
 title: "The perfect “gospel”"
 weight: 1
+deeper: 
+    - name: The two beasts
+      link: ../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+    - name: The number of the beast
+      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+    - name: The beast in the original context
+      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+    - name: The nature of the beast
+      link: ../../../../content/beasts/expl/the-nature-of-the-beast
 ---
 
 This chapter looks like two monsters doing destruction, but this is one of the deepest chapters in the book. Let’s get ready.
@@ -116,12 +125,4 @@ So the difference between the alleged Satan and Jesus is not power or success, b
 - In what ways (even subtle ones) do people today show their allegiance to the beast?
 - What are the consequences of today’s beasts if you don’t submit?
 - Where are you being challenged to give in (out of desperation, conviction, temptation)?
-
-## Digging deeper
-
-<a name="06f1"></a>
-- [The two beasts](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [The number of the beast](../../../../content/beasts/expl/666-the-number-of-the-beast)
-- [The beast in the original context](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
-- [The nature of the beast](../../../../content/beasts/expl/the-nature-of-the-beast)
 

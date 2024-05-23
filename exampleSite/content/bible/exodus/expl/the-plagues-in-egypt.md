@@ -1,6 +1,16 @@
 ---
 title: "The plagues in Egypt"
 weight: 40
+deeper:
+    - name: How everything begun
+      link: ../../../../bible/exodus/expl/the-story-before-the-exodus0
+    - name: The different hero
+      link: ../../../../bible/exodus/expl/the-birth-of-moses
+    - name: The hardening of the heart
+      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+sources:
+    - pages: 38–80
+      ref: sarna_exo
 ---
 
 This is a story you have heard in Sunday School, but there is much to discover that you may not have heard before.
@@ -102,16 +112,3 @@ Due [to Pharaoh’s “strong heart”](https://www.bibleserver.com/NIV/Exodus10
 Before this the[Passah is introduced](https://www.bibleserver.com/NIV/Exodus12%3A1-13) (protection from the tenth plague but also the origin of the Lord’s supper) which could be seen as the birth of Israel and [was open to anyone who wanted to join Israel](https://www.bibleserver.com/NIV/Exodus12%3A43-49).[The Feast of the Unleavened Bread is introduced](https://www.bibleserver.com/NIV/Exodus12%3A14-20) — there is n[o time to wait, but to hurry](https://www.bibleserver.com/NIV/Exodus12%3A12).
 
 The [sign on the hand and forehead](https://www.bibleserver.com/NIV/Exodus13%3A8-9) is mentioned — the people should have a reminder that God brought them out of Egypt, He is more powerful than the Egyptian gods and Israel should not forget this. So the sign is a sign of loyalty to God.
-
-## Further readings
-
-[How everything begun](../../../../bible/exodus/expl/the-story-before-the-exodus)
-
-[The different hero](../../../../bible/exodus/expl/the-birth-of-moses)
-
-[The hardening of the heart](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
-
-## Dig Deeper
-
-[Nahum Sarna, Exodus, pages 38–80](../../../../about/ressources/index.html#sarna_exo)
-

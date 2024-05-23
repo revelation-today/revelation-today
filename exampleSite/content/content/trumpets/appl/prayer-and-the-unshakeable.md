@@ -1,6 +1,19 @@
 ---
 title: "Prayer and the Unwavering"
 weight: 1
+deeper:
+    - name: The power of prayer
+      link: ../../../../topics/power/short/the-key-of-prayer
+    - name: The story before the exodus
+      link: ../../../../bible/exodus/expl/the-story-before-the-exodus
+    - name: The birth of Moses
+      link: ../../../../bible/exodus/expl/the-birth-of-moses
+    - name: The hardening of Pharao’s heart
+      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+    - name: The plagues in Egypt
+      link: ../../../../bible/exodus/expl/the-plagues-in-egypt
+    - name: The seven trumpets
+      link: ../../../../content/trumpets/expl/the-trumpets-in-revelation
 ---
 
 The trumpets have inspired many people to think of end-time scenarios involving global catastrophes or even military action. But when we look closer, we see much about the role of prayer and how to deal with distress.
@@ -63,14 +76,3 @@ On the other hand: Hard times are not enough to change a heart. It needs more, a
 - What would happen if your false securities were taken away? What are they? Are you willing to give them up?
 - What are the unshakable securities in your life?
 - What security cannot you give up? Would you not give them up if you lost your relationship with God?
-
-## Digging deeper
-
-<a name="71f2"></a>
-- [The power of prayer](../../../../topics/power/short/the-key-of-prayer)
-- [The story before the exodus](../../../../bible/exodus/expl/the-story-before-the-exodus)
-- [The birth of Moses](../../../../bible/exodus/expl/the-birth-of-moses)
-- [The hardening of Pharao’s heart](../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart)
-- [The plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt)
-- [The seven trumpets](../../../../content/trumpets/expl/the-trumpets-in-revelation)
-

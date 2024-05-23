@@ -1,6 +1,9 @@
 ---
 title: "The 70 year weeks"
 weight: 40
+sources:
+    - pages: 334–354
+      ref: daniel
 ---
 
 The 70 year weeks are a mysterious part of the Bible with even more interesting interpretations about the end times. Let’s take a closer look at what this is all about.
@@ -81,8 +84,3 @@ I think the second 3.5 years are symbolic for several reasons:
 - They are a parallel to the actions in the Jewish war.
 - No one knows the day and hour of Jesus’ return, the time when everything from verse 24 will be completed.
 - The church was to follow Jesus in everything He did, so since Jesus was there for 3.5 years, the church was to do the same, so the same time frame is used.
-
-## Dig deeper
-
-[Wuppertaler Studienbibel, Der Prophet Daniel, pages 334–354](../../../../about/ressources/index.html#daniel)
-

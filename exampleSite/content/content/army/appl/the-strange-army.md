@@ -1,6 +1,11 @@
 ---
 title: "The strange army"
 weight: 1
+deeper:
+    - name: The 144.000
+      link: ../../../../content/army/expl/the-144000
+    - name: The big tribulation
+      link: ../../../../content/army/expl/the-end-time-and-the-great-tribulation
 ---
 
 The 144,000 is a statement that many have heard. Who are they? And why are they counted? What is their purpose?
@@ -37,10 +42,3 @@ We are described as an army — soldiers who always worry if they might get hurt
 - How does it make you feel to be part of God’s army?
 - Being counted means that you will not get lost. What does that mean to you?
 - God’s army comes from the Great Tribulation. What will happen to your faith when you are tested? Will it grow stronger or will it crumble? Do you believe that God can strengthen your faith when it is tested? What is your faith based on?
-
-## Digging deeper
-
-<a name="06f1"></a>
-- [The 144.000](../../../../content/army/expl/the-144000)
-- [The big tribulation](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
-

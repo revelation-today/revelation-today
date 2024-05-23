@@ -1,6 +1,13 @@
 ---
 title: "Gods army and the seven angels"
 weight: 2
+sources: 
+    - pages: 730–784
+      ref: beale_rev
+    - pages: 98–104
+      ref: bauckham_rev
+    - pages: 283–307
+      ref: bauckham_climax
 ---
 
 Chapter 14 of the book of Revelation is one of the most puzzling chapters in the Bible and seems a bit lost and disconnected from the rest of the book. So we need to take a closer look at it.
@@ -97,12 +104,3 @@ All these links together span the content for the song of Mose and the Lamb. So 
 The song is a proclamation that all nations will come to God and worship him. He does this by judging their enemies. The celebration is not about the salvation of the martyrs, but about the praise that God has brought to the nations.
 
 So, with the bowls of wrath, we see God dealing with the nations that refuse to worship and are loyal to the dragon and the beasts.
-
-## Dig Deeper
-
-[Beale, Revelation, pages 730–784](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham, Revelation, pages 98–104](../../../../about/ressources/index.html#bauckham_rev)
-
-[Bauckham, The climax of Prophecy, pages 283–307](../../../../about/ressources/index.html#bauckham_climax)
-

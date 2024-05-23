@@ -1,6 +1,9 @@
 ---
 title: "The church is part of Israel"
 weight: 6
+sources:
+    - pages: 669–679
+      ref: beale_theo
 ---
 
 This sounds strange. Isn’t the Church greater than Israel? Or is the Church replacing Israel? Or will Israel make a comeback at the end of times without the church? This implies a controversy that does not exist.
@@ -118,9 +121,3 @@ Acts 2 is fulfillment of Acts 1 (filled with the Holy Spirit. Acts 1/8 is fulfil
 | Isaiah | Acts 1:8 |
 |--------|----------|
 | [until the <span style="color:red;">Spirit from on high is poured out upon us</span>. Then the desert will become a garden of fruit, and the garden of fruit will be esteemed as a forest.](https://www.bibleserver.com/NIV/Isaiah32%2C15) </br> [<span style="color:green;">You are my witnesses</span>, says the LORD, and my servant whom I have chosen, that you may know and believe me and see that I am he; before me there was no God formed, and after me there will be none](https://www.bibleserver.com/NIV/Isaiah43%2C10). </br> [<span style="color:green;">And ye are my witnesses</span>, saith the LORD, that I am God](https://www.bibleserver.com/NIV/Isaiah43%2C12). </br> [But I have also set you to be light to the Gentiles, that <span style="color:brown;">you may be my salvation to the ends of the earth</span>!](https://www.bibleserver.com/NIV/Isaiah49%2C6) | but you will receive power (fulfillment of [Luke](https://www.bibleserver.com/NIV/Luke24%2C49)) when the <span style="color:red;">Holy Spirit has come upon you</span>, and you will be <span style="color:green;">my witnesses</span> in Jerusalem and in all Judea and Samaria and <span style="color:brown;">to the ends of the earth</span>! (See [History of the Apostles](https://www.bibleserver.com/NIV/Acts13%2C47), which refers to [Isaiah](https://www.bibleserver.com/NIV/Isaiah49%2C6)). |
-
-## Dig Deeper
-
-<a name="9150"></a>
-[Beale, A New Testament biblical theology, pages 669–679](../../../../about/ressources/index.html#beale_theo)
-

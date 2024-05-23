@@ -1,6 +1,11 @@
 ---
 title: "Die sonderbare Armee"
 weight: 1
+deeper:
+    - name: Die 144.000
+      link: ../../../../content/army/expl/the-144000
+    - name: Die große Trübsal
+      link: ../../../../content/army/expl/the-end-time-and-the-great-tribulation
 ---
 
 Du hast sicher schon von den 144.000 gehört, aber wer sind sie, warum werden sie gezählt und was ist ihr Zweck?
@@ -37,10 +42,3 @@ Wir werden wie eine Armee beschrieben: Soldaten, die sich ständig Sorgen machen
 - Wie fühlt es sich an, ein Teil von Gottes Armee zu sein?
 - Gezählt zu sein bedeutet, nicht verloren zu gehen. Was bedeutet das für dich?
 - Gottes Heer kommt aus der Großen Trübsal. Was wird mit deinem Glauben geschehen, wenn du herausgefordert wirst? Wird er stärker oder bröckelt er? Glaubst du, dass Gott deinen Glauben stärken kann, wenn er auf die Probe gestellt wird? Worauf stützt sich dein Glaube?
-
-## Digging deeper
-
-<a name="df15"></a>
-- [Die 144.000](../../../../content/army/expl/the-144000)
-- [Die große Trübsal](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
-

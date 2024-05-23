@@ -1,6 +1,12 @@
 ---
 title: "Part 2: Who is the Harlot Babylon?"
 weight: 3
+deeper:
+    - name: Babel as mocking on the empire
+      link: ../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+sources: 
+    - pages: 847–890
+      ref: beale_rev
 ---
 
 Understanding the Harlot Babylon is a bit complex as we saw in part 1, but the solution comes in part 2. Stay tuned!
@@ -45,12 +51,3 @@ The beast on which the harlot sits represents the political and military power (
 Since Babel has [many parallels to Jezebel](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1), this maybe a special warning to church leaders. But the call to awareness and reflection is for everyone. Maybe that is the reason why Babel is not so clear, [so that you can reflect and move out of it every day again](https://www.bibleserver.com/NIV/Revelation18%3A4). Because Babel is everywhere!
 
 This could be compelling and attractive for the church when it is in persecution or poverty and on the way to more wealth and human appreciation.
-
-## Further reading
-
-[Babel as mocking on the empire](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 847–890](../../../../about/ressources/index.html#beale_rev)
-

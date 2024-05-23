@@ -1,6 +1,15 @@
 ---
 title: "Das perfekte Evangelium"
 weight: 1
+deeper:
+    - name: Die beiden Tiere
+      link: ../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+    - name: Die Zahl des Tieres
+      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+    - name: Die beiden Tiere im historischen Kontext
+      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+    - name: Die Natur der beiden Tiere
+      link: ../../../../content/beasts/expl/the-nature-of-the-beast
 ---
 
 Dieses Kapitel sieht aus wie zwei Ungeheuer, die Zerstörung anrichten, aber es ist eines der tiefsten Kapitel der Offenbarung.
@@ -119,12 +128,3 @@ So der entscheidende Unterschied zwischen Satan und Jesus ist in dieser Zeit nic
 - Auf welche (auch subtile) Weise zeigen Menschen heute ihre Treue zum Tier?
 - Welche Konsequenzen haben die heutigen Bestien, wenn du nicht nachgibst?
 - Wo wirst du zum Nachgeben herausgefordert (aus Verzweiflung, aus Überzeugung, aus Verlockung)?
-
-## Zur Vertiefung
-
-<a name="83ad"></a>
-- [Die beiden Tiere](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [Die Zahl des Tieres](../../../../content/beasts/expl/666-the-number-of-the-beast)
-- [Die beiden Tiere im historischen Kontext](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
-- [Die Natur der beiden Tiere](../../../../content/beasts/expl/the-nature-of-the-beast)
-

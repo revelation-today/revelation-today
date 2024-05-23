@@ -1,5 +1,14 @@
 ---
 title: "Was lesen wir?"
+deeper:
+    - name: Mehr zum Genre
+      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+    - name: Warum das Alte Testament wichtig ist
+      link: ../../../../background/literature/expl/full-of-biblical-references
+    - name: Wörtlich oder symbolisch?
+      link: ../../../../background/literature/expl/literally-or-symbolic
+    - name: Was bedeuten die Zahlen?
+      link: ../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
 ---
 
 Wenn wir ein Buch lesen, tun wir das mit einer bestimmten Erwartungshaltung. Wir haben andere Erwartungen an einen wissenschaftlichen Bericht als an einen Science-Fiction-Roman, an ein Liebesgedicht andere als an einen Actionroman. Das Gleiche gilt für die Offenbarung in der Bibel: Ist es ein Buch über Gottes Rache an allen Ungläubigen, eine apokalyptische Erzählung mit Entrückung oder eine völlig chaotische Sammlung bizarrer Geschichten?
@@ -57,12 +66,3 @@ Inwieweit beeinflusst deiner Meinung nach deine Vorprägung das, was du in dem B
 Ist dir bewusst, dass die zentralen Themen Anbetung, Zeugnis und Wiederherstellung sind und dass viele der heutigen Anbetungslieder von der Offenbarung inspiriert sind?
 
 Bist du bereit, das Buch mit neuen Augen zu sehen? Vielleicht wirst du wie in diesem [Video](https://www.youtube.com/watch?v=KB_lTKZm1Ts&amp;pp=ygUTYXdhcmVuZXNzIHRlc3QgYmVhcg%3D%3D) überrascht sein (Ich weiß, es ist alt, aber vielleicht nicht für jeden).
-
-## Zur Vertiefung
-
-<a name="6869"></a>
-- [Mehr zum Genre](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Warum das Alte Testament wichtig ist](../../../../background/literature/expl/full-of-biblical-references)
-- [Wörtlich oder symbolisch?](../../../../background/literature/expl/literally-or-symbolic)
-- [Was bedeuten die Zahlen?](../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation)
-

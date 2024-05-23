@@ -1,6 +1,14 @@
 ---
 title: "Wie lese ich die Offenbarung?"
 weight: 10
+deeper:
+    - name: Ist die Offenbarung wörtlich oder symbolisch zu verstehen?
+      link: ../../../../background/literature/expl/literally-or-symbolic
+    - name: Was ist der historische Hintergrund?
+      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+sources:
+    - pages: 10–56
+      ref: goreman
 ---
 
 Die Offenbarung hat viele Menschen zu verschiedenen Dingen inspiriert, von denen die meisten nichts mit der Bibel und ihrem Anliegen zu tun haben. Ich erspare dir diese Aufzählung, denn ich denke, du weißt, wovon die Rede ist. Aber ist es überhaupt möglich, ein solches Buch sinnvoll zu lesen? Dazu müssen wir das Wesen dieses Buches besser verstehen.
@@ -137,14 +145,3 @@ Mit anderen Worten, das Buch ist nicht
 
 - ein Blick in die Zukunft (für antike Leser), um Ereignisse zu beschreiben, die mit dem Leben der ersten Leser nichts zu tun hatten oder
 - eine Beschreibung, wie man sich durch die Verhältnisse durchwursteln kann, sondern wie wir konkret Stellung beziehen.
-
-## Zum Weiterlesen
-
-<a name="b8ec"></a>
-- [Ist die Offenbarung wörtlich oder symbolisch zu verstehen?](../../../../background/literature/expl/literally-or-symbolic)
-- [Was ist der historische Hintergrund?](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-
-## Zur Vertiefung
-
-[Goreman, Reading Revelation Responsibly, Seiten 10–56](../../../../about/ressources/index.html#goreman)
-

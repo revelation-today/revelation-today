@@ -1,6 +1,16 @@
 ---
 title: "The two witnesses"
 weight: 2
+deeper:
+    - name: The power of testimony
+      link: ../../../../topics/power/short/the-power-of-testimony
+sources: 
+    - pages: 556–620
+      ref: beale_rev
+    - pages: 84–88
+      ref: bauckham_rev
+    - pages: 266–283
+      ref: bauckham_climax
 ---
 
 In [Revelation chapter 11](https://www.bibleserver.com/NIV/Revelation11) of the Book of Revelation we see two witnesses. There is much debate about who they are, but there is also a good takeaway for your spiritual life.
@@ -126,17 +136,3 @@ Both (try to) reflect[ Jesus the overcomer](https://www.bibleserver.com/NIV/Reve
 - The beasts act out of [panic because time is short](https://www.bibleserver.com/NIV/Revelation12%3A12), the witnesses act without fear because they know that [when their time comes, their work is done](https://www.bibleserver.com/NIV/Revelation11%3A7).
 
 So when you look at your life as a believer, which category do you fall into? Are you more like the beasts or the witnesses? What would it mean/cost to be like the witnesses?
-
-## Further readings
-
-<a name="19be"></a>
-- [The power of testimony](../../../../topics/power/short/the-power-of-testimony)
-
-## Dig Deeper
-
-[Beale, Revelation, pages 556–620](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham , Revelation, pages 84–88](../../../../about/ressources/index.html#bauckham_rev)
-
-[Bauckham, The climax of Prophecy, pages 266–283](../../../../about/ressources/index.html#bauckham_climax)
-

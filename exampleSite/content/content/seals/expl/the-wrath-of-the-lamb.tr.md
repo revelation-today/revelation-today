@@ -1,6 +1,9 @@
 ---
 title: "Kuzu’nun Gazabı"
 weight: 4
+sources: 
+    - pages: 395–404
+      ref: beale_rev
 ---
 
 Kuzu’nun gazabı nedir? Bu, inanç adına yapılan savaş eylemlerini destekler mi?
@@ -45,8 +48,3 @@ Size şunu söyleyeyim: Tarihin büyük bölümünde çoğu insan için bunlarda
 Ve Tanrı acı çekenler adına hareket ederek haklılığını ortaya koyar.
 
 Başkalarına yaşattığımız acılardan sorumluyuz. Haksızlığımız tek bir duayla silinip gitmez. Tanrı taştan yüreğimizin değişmesini ister.
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 395–404](../../../../about/ressources/index.html#beale_rev)
-

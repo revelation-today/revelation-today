@@ -1,6 +1,11 @@
 ---
 title: "Was sind Himmel und Hölle?"
 weight: 1
+deeper:
+    - name: Das Neue Jersusalem
+      link: ../../../../content/paradise/expl/the-new-jerusalem
+    - name: Himmel und Hölle
+      link: ../../../../content/paradise/expl/heaven-and-hell
 ---
 
 Das Buch der Offenbarung endet mit einem neuen Himmel und einer neuen Erde. Doch bei genauerem Hinsehen gibt es einige Überraschungen.
@@ -39,10 +44,3 @@ So entscheide dich gut, nachdem du das alles gehört hast. Was wirst du tun? Wie
 - Würdest du die Ewigkeit mit Gott verbringen wollen, auch wenn es keine anderen Vorteile gäbe (weiteres Leid, Verfolgung, Krankheit, …)? Wenn nicht, warum nicht?
 - Würdest du für immer mit einer Person zusammenleben, die du nicht leiden kannst oder die dir egal ist, auch wenn alle deine Probleme verschwinden würden?
 - Wie beeinflusst diese Vision des Himmels dein Leben jetzt auf der Erde?
-
-## Zur Vertiefung
-
-<a name="65a5"></a>
-- [Das Neue Jersusalem](../../../../content/paradise/expl/the-new-jerusalem)
-- [Himmel und Hölle](../../../../content/paradise/expl/heaven-and-hell)
-

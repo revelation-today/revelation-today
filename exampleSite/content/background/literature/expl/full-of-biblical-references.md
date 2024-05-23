@@ -1,6 +1,9 @@
 ---
 title: "Full of biblical references"
 weight: 30
+sources:
+    - pages: 82–83
+      ref: beale_rev
 ---
 
 One key to understanding the book of Revelation is to interpret it through the Bible itself, as this book is full of references to the rest of the Bible. But is this really true, and would the original readers have understood it?
@@ -23,8 +26,3 @@ The early readers were able to grasp this information very well because
 - It would be very strange if John covered the letters to the churches with Old Testament references that they didn’t get, such as manna, Jezebel, temple, New Jerusalem, or Balaam.
 - John saw himself as a prophet, which was probably accepted by the church, and therefore he was probably also a teacher and would have taught them the Old Testament, which also shows the exposure of false (known) teachings in the churches.
 - We know from the book of Acts and other passages in the New Testament that Jews and gentiles were teached with the Old Testament (the Bible of the early Christians) in [Berea](https://www.bibleserver.com/NIV/Acts17%3A10-12), [Ephesus](https://www.bibleserver.com/NIV/Acts18%3A24-28), to [with Timothy](https://www.bibleserver.com/NIV/2%20Timothy2%3A2) as a [teacher](https://www.bibleserver.com/NIV/2%20Timothy2%3A15) and with [Paul’s emphasis on the importance of the whole Bible](https://www.bibleserver.com/NIV/2%20Timothy3%3A16-17).
-
-## Further digging
-
-[Beale, Revelation, pages 82–83](../../../../about/ressources/index.html#beale_rev)
-

@@ -1,6 +1,17 @@
 ---
 title: "İsa ve şeytanın düşüşü"
 weight: 1
+deeper:
+    - name: Daniel’de Genel Bakış
+      link: ../../../../bible/daniel/expl/the-book-of-daniel
+    - name: Dört Krallık
+      link: ../../../../bible/daniel/expl/the-four-kingdoms-in-daniel
+    - name: 70 yıl
+      link: ../../../../bible/daniel/expl/the-70-year-weeks
+    - name: "3,5 yıl"
+      link: ../../../../bible/daniel/expl/the-secret-of-the-3-5-years
+    - name: İsa doğdu
+      link: ../../../../content/jesus/expl/a-different-christmas-story
 ---
 
 Şimdi garip resimler ve olaylarla dolu bir bölüme geliyoruz. Ancak hikaye çok basit ve siz bunu çok iyi biliyorsunuz.
@@ -52,13 +63,3 @@ Zayıf olabilir ve kendimizi çaresiz hissedebiliriz (ve bu duygulara izin verme
 - Şeytan’ı etrafınızdaki dünyada sürekli kaybeden olarak görebiliyor musunuz?
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="458a"></a>
-- [Daniel’de Genel Bakış](../../../../bible/daniel/expl/the-book-of-daniel)
-- [Dört Krallık](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
-- [70 yıl](../../../../bible/daniel/expl/the-70-year-weeks)
-- [3,5 yıl](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-- [İsa doğdu](../../../../content/jesus/expl/a-different-christmas-story)
-

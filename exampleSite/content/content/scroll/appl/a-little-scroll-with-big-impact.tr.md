@@ -1,6 +1,9 @@
 ---
 title: "Büyük etkisi olan küçük bir kaydırma"
 weight: 1
+deeper:
+    - name: Küçük parşömen
+      link: ../../../../content/scroll/expl/the-little-scroll
 ---
 
 Yuhanna’nın yemesi gereken küçük bir tomar vardır ve bundan bir daha hiç bahsedilmez. Bununla ne yapacağız ve bunun yedi mühürlü tomarla bir ilgisi var mı?
@@ -39,9 +42,3 @@ Bu kilisenin tanıklığıdır. Tanıklıktan kastım iyi bir yaşam tarzı değ
 - Hayatınızda bir çağrı var ama emin değil misiniz ve bunun için gerçekten hiç gitmediniz mi?
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="9655"></a>
-- [Küçük parşömen](../../../../content/scroll/expl/the-little-scroll)
-

@@ -1,6 +1,13 @@
 ---
 title: "Das Sendschreiben an Thyatira"
 weight: 4
+sources: 
+    - pages: 259–272
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 37–38
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Was macht man mit einer Gemeinde, in der die Leiter das Problem sind? Richtig, man liest den Brief an Thyatira.
@@ -43,10 +50,3 @@ Die Antwort lautet: [an Jesus festhalten und treu bleiben](https://www.bibleserv
 Denen, die ausharren und treu bleiben, verheißt Jesus Vollmacht, wie er sie unter falscher Autorität hatte. Herrschen mit eisernem Zepter stammt aus [Psalm 2](https://www.bibleserver.com/SLT/Psalm2).
 
 Der [Morgenstern](https://www.bibleserver.com/SLT/Offenbarung2%2C28) kann sich auf die [neue Hoffnung in Jesus beziehen](https://www.bibleserver.com/SLT/2.Petrus1%2C19), der der [Morgenstern](https://www.bibleserver.com/SLT/Offenbarung22%2C16) ist.
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 259–272](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, Seiten 37–38](../../../../../about/ressources/index.html#fee_rev)
-

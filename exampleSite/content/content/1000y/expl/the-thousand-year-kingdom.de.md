@@ -1,6 +1,11 @@
 ---
 title: "Das 1000-jährige Reich"
 weight: 2
+sources:
+    - pages: 972–1031
+      ref: beale_rev
+    - pages: 1084–1090
+      ref: aune_rev
 ---
 
 Über das Tausendjährige Reich gibt es viele Diskussionen und verschiedene Theorien. Schauen wir uns gemeinsam den Text, seinen Kontext und eine neue, frische Sichtweise an.
@@ -174,10 +179,3 @@ Also, jeder der Gott treu ist, wird regieren, selbst wenn [er (nur) finanziellen
 “[Glückselig und heilig ist, wer Anteil hat an der ersten Auferstehung! Über diese hat der zweite Tod keine Macht, sondern sie werden Priester Gottes und des Christus sein und mit ihm regieren 1 000 Jahre.](https://www.bibleserver.com/SLT/Offenbarung20%2C6)”
 
 Wenn wir geboren werden, haben wir unser “erstes Leben” in der ersten, alten Schöpfung. Wenn[ wir aber wiedergeboren werden (Leben mit Gott), haben wir unser “zweites Leben”](https://www.bibleserver.com/SLT/Johannes3) in der neuen Schöpfung, was die erste Auferstehung ist. Der zweite Tod ist nichts anderes, als nicht Teil der neuen Schöpfung zu sein und demzufolge geistlich tot zu sein.
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 972–1031](../../../../about/ressources/index.html#beale_rev)
-
-[Aune, Revelation, Seiten 1084–1090](../../../../about/ressources/index.html#aune_rev)
-

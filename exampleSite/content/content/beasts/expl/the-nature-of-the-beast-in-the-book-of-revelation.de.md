@@ -1,6 +1,18 @@
 ---
 title: "Die beiden Tiere in der Offenbarung"
 weight: 5
+deeper:
+    - name: Die Tiere im historischen Kontext
+      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+    - name: Die Zahl 666
+      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+    - name: Die 3,5, Jahre
+      link: ../../../../bible/daniel/expl/the-secret-of-the-3-5-years
+sources: 
+    - pages: 681–730
+      ref: beale_rev
+    - pages: 88–94
+      ref: bauckham_rev
 ---
 
 Eines der ersten Dinge, die den Menschen durch den Kopf gehen, wenn sie vom Buch der Offenbarung hören, ist der Drache, die beiden Tiere mit der Zahl 666 und dem Zeichen und der Hand und der Stirn. Es gibt viele Gedanken zu diesem Thema, und alle sind in diesem einen Kapitel enthalten. Schauen wir es uns an.
@@ -137,17 +149,3 @@ Aber wir sollten auch nicht “das Kind mit dem Bade ausschütten”. Wenn du da
 - Es ist siegreich, also sollten wir immer schwach sein.
 
 Das ist überhaupt nicht der Fall, denn Satan würde einen sehr schlechten Job machen, wenn er Gott nachahmt, aber in allem anders ist. Gott und die Gemeinde sind siegreich (vielleicht auf andere Weise) und Gott tut auch heute noch Wunder, aber das Entscheidende ist der Ausdruck echter Liebe, die Satan nicht nachahmen kann und will.Satan geht es um den Sieg, koste es, was es wolle und wem dabei Schaden zugefügt wird.Gott kommt in Liebe zu den Menschen, auch wenn er dabei nicht immer erfolgreich ist.
-
-## Zum Weiterlesen
-
-<a name="7195"></a>
-- [Die Tiere im historischen Kontext](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
-- [Die Zahl 666](../../../../content/beasts/expl/666-the-number-of-the-beast)
-- [Die 3,5, Jahre](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 681–730](../../../../about/ressources/index.html#beale_rev)
-
-[Bauckham, Revelation, Seiten 88–94](../../../../about/ressources/index.html#bauckham_rev)
-

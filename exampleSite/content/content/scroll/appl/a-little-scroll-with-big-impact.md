@@ -1,6 +1,9 @@
 ---
 title: "A little scroll with big impact"
 weight: 1
+deeper:
+    - name: The little scroll
+      link: ../../../../content/scroll/expl/the-little-scroll
 ---
 
 There is a small scroll that John has to eat and it is never mentioned again. What do we do with it, and does it have anything to do with the scroll with the seven seals?
@@ -37,9 +40,3 @@ It is the witness of the Church. And by witness I do not mean a good lifestyle. 
 - Are you overwhelmed by the powers of this world or do you have confidence in God no matter what is reported in the news and what is going on in the world?
 - Do you think there is more in your life and it is time to step up?
 - Do you have a calling in your life but are unsure and have never really stepped up?
-
-## Digging deeper
-
-<a name="06f1"></a>
-- [The little scroll](../../../../content/scroll/expl/the-little-scroll)
-

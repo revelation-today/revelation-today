@@ -1,6 +1,9 @@
 ---
 title: "1000 years of Paradise?"
 weight: 1
+deeper: 
+    - name: The 1000 year kingdom
+    - link: ../../../../content/1000y/expl/the-thousand-year-kingdom
 ---
 
 The millennial kingdom is often described as a perfect world where the good rule and the evil is bound, and it happens before the new heaven and the new earth are in place. But is this the case?
@@ -42,9 +45,3 @@ Even in her death she reigns (in former times only kings and other high people h
 - What does good lordship look like?
 - Where have you seen yourself (even unconsciously) treated as a king because you believe in Christ?
 - What gives you hope to persevere?
-
-## Digging deeper
-
-<a name="569b"></a>
-- [The 1000 year kingdom](../../../../content/1000y/expl/the-thousand-year-kingdom)
-

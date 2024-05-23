@@ -1,6 +1,12 @@
 ---
 title: "Das kleine Büchlein in der Offenbarung"
 weight: 2
+deeper:
+    - name: Die beiden Zeugen
+      link: ../../../../content/witnesses/expl/the-two-witnesses
+sources: 
+    - pages: 520–555
+      ref: beale_rev
 ---
 
 Es gibt ein kleines Buch, das Johannes den soll und das Geheimnis der sieben Donner. Was hat es damit auf sich?
@@ -33,13 +39,3 @@ Johannes soll diese Schriftrolle essen. Das erinnert an Ezechiel, der auch eine 
 Es beschreibt, was Jesus getan hat (süß im Mund) und was die Folgen sind (bitter im Magen), was das Gericht über die Welt ist und was es heißt, Zeuge in dieser Welt zu sein, in der man von der Welt gehasst und nicht besser behandelt wird als Jesus.
 
 Aber was genau sagt das Büchlein? Dazu müssen wir die nächsten Kapitel lesen. Kurz gesagt: Es wird beschrieben, dass durch das Zeugnis der Gemeinde die Völker erreicht werden sollen, und das wird auch gelingen.
-
-## Zum Weiterlesen
-
-<a name="dfe1"></a>
-- [Die beiden Zeugen](../../../../content/witnesses/expl/the-two-witnesses)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 520–555](../../../../about/ressources/index.html#beale_rev)
-

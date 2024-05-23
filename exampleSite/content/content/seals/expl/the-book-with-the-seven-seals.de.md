@@ -1,6 +1,12 @@
 ---
 title: "Ein Buch mit sieben Siegeln"
 weight: 2
+deeper:
+    - name: Die apokalyptischen Reiter
+      link: ../../../../content/seals/expl/the-mystery-of-the-four-horse-men
+sources: 
+    - pages: 337–369
+      ref: beale_rev
 ---
 
 Hast du schon einmal gehört, dass etwas, das schwer zu verstehen ist, ein Buch mit sieben Siegeln genannt wird? Dieser Ausdruck stammt aus der Bibel, hat aber eine ganz andere Bedeutung.
@@ -30,13 +36,3 @@ Bei all dem sind die Heiligen nicht ausgenommen, wie wir im[ fünften Siegel seh
 Die wesentliche [Antwort ist das Endgericht](https://www.bibleserver.com/SLT/Offenbarung6%2C12-17). Das ist der [Tag des Herrn](../../../../background/israel/expl/the-day-of-the-lord), an dem jeder Rechenschaft ablegen muss und niemand sich davor verstecken kann.
 
 Nach einem Einschub über die [144.000](../../../../content/army/expl/the-144000) wird das siebente Siegel geöffnet. Es zeigt eine halbe Stunde der Stille. Das Schweigen hat in der Bibel eine eigene Bedeutung. In der jüdischen Literatur gibt es eine starke Verbindung zwischen der Zeit der Stille im Himmel und der Zeit, in der Gott die Gebete der Heiligen hört. Dies greift die Idee des[ fünften Siegels auf und stellt sie in den Mittelpunkt](https://www.bibleserver.com/SLT/Offenbarung6%2C9-11). Auch wenn das Gebet nur hier und [an einer anderen Stelle ](https://www.bibleserver.com/SLT/Offenbarung8%2C2-5)erwähnt wird, verbindet es die Siegel mit den Posaunen und spielt auch dort eine zentrale Rolle.
-
-## Zum Weiterlesen
-
-<a name="87c6"></a>
-- [Die apokalyptischen Reiter](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 337–369](../../../../about/ressources/index.html#beale_rev)
-

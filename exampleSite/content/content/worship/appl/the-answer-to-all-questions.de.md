@@ -1,6 +1,11 @@
 ---
 title: "Die Antwort auf alle Fragen"
 weight: 1
+deeper:
+    - name: Die Anbetung im Thronsaal
+      link: ../../../../content/worship/expl/worship-in-the-throne-room
+    - name: Was ist Anbetung?
+      link: ../../../../topics/power/short/worship
 ---
 
 Wie sollen die Gemeinden mit diesen Problemen umgehen? Was ist Gottes Plan? Die Antwort ist einfach. Gott reagiert nicht, er ruht in der Anbetung, und da müssen auch wir anfangen.
@@ -42,10 +47,3 @@ Lass uns schauen, was es damit auf sich hat.
 - Siehst du Anbetung als Antwort auf die Probleme unserer Zeit oder einfach als etwas, das wir tun sollten?
 - Wie hat dich Anbetung verändert?
 - Wie betest du an? Wie sieht Anbetung in deinem Alltag aus?
-
-## Zur Vertiefung
-
-<a name="cfb1"></a>
-- [Die Anbetung im Thronsaal](../../../../content/worship/expl/worship-in-the-throne-room)
-- [Was ist Anbetung?](../../../../topics/power/short/worship)
-

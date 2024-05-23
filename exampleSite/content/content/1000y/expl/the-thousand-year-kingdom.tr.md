@@ -1,6 +1,11 @@
 ---
 title: "1000 yıllık krallık"
 weight: 2
+sources:
+    - pages: 972–1031
+      ref: beale_rev
+    - pages: 1084–1090
+      ref: aune_rev
 ---
 
 Bin yıllık krallıkla ilgili pek çok tartışma vardır ve bu da pek çok teori yaratmıştır. Metne ve bağlamına bir göz atalım ve yeni ve taze bir bakış elde edelim
@@ -162,10 +167,3 @@ Dolayısıyla, [(sadece) ekonomik veya sosyal baskı olsa bile](https://www.bibl
 “[İlk dirilişe dahil olanlar mutlu ve kutsaldır. İkinci ölümün bunların üzerinde yetkisi yoktur. Onlar Tanrı’nın ve Mesih’in kâhinleri olacak, O’nunla birlikte bin yıl egemenlik sürecekler.](https://www.bibleserver.com/TR/Vahiy20%3A6)”
 
 Doğduğumuzda eski yaratılıştaki “ilk yaşamımıza” sahip oluruz. [Yeniden doğduğumuzda ise ilk diriliş olarak adlandırabileceğimiz “ikinci yaşamımıza” sahip oluruz](https://www.bibleserver.com/TR/Yuhanna3). İkinci ölüm, ikinci yaşama sahip olmamaktan daha fazlasıdır, bu da Tanrı’da ruhsal olarak öldükleri anlamına gelir.
-
-## Daha fazla kazma
-
-[Beale, Revelation, sayfalar 972–1031](../../../../about/ressources/index.html#beale_rev)
-
-[Aune, Revelation, sayfalar 1084–1090](../../../../about/ressources/index.html#aune_rev)
-

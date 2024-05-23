@@ -1,6 +1,14 @@
 ---
 title: "Taht odasında ibadet"
 weight: 2
+deeper:
+    - name: Yedi mühür
+      link: ../../../../content/seals/expl/the-book-with-the-seven-seals
+    - name: İbadet nedir?
+      link: ../../../../topics/power/short/worship
+sources: 
+    - pages: 311–337
+      ref: beale_rev
 ---
 
 Taht odasındaki tapınma, kiliselerin mektuplarına verilen yanıttır. Neden? Ve bu nasıl oluyor da daha sonra gelecek olan tüm belalara bir giriş oluyor?
@@ -103,14 +111,3 @@ Eski zamanlarda tapınak (göksel taht odasının bir yansıması olan) dünyan�
 - Havanın hakimi kartal
 
 Onlara, Davut’un tanıttığı [24 kâhin](https://www.bibleserver.com/TR/1.Tarihler24%3A3-19), [24 Levili bekçi](https://www.bibleserver.com/TR/1.Tarihler26%3A17-19) ve[ 24 daimi tapınmacının yanı](https://www.bibleserver.com/TR/1.Tarihler25) sıra İsrail’in 12 kabilesini ve kilisenin temeli olan 12 havariyi yansıtan [24 ihtiyar katılır](https://www.bibleserver.com/TR/Vahiy4%3A4). Bu, İsrail ve Kilise’nin tüm çatışmalara rağmen bir olarak anlaşılması gerektiği anlamına gelir. Kilise bir tapınma kilisesi olarak tanımlanır.
-
-## Daha fazla okuma
-
-<a name="622f"></a>
-- [Yedi mühür](../../../../content/seals/expl/the-book-with-the-seven-seals)
-- [İbadet nedir?](../../../../topics/power/short/worship)
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 311–337](../../../../about/ressources/index.html#beale_rev)
-

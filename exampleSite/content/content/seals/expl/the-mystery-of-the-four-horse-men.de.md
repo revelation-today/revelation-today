@@ -1,6 +1,14 @@
 ---
 title: "Das Geheimnis der vier apokalyptischen Reiter"
 weight: 3
+deeper:
+    - name: "Die 144 000"
+      link: ../../../../content/army/expl/the-144000
+    - name: Die Posaunen
+      link: ../../../../content/trumpets/expl/the-trumpets-in-revelation
+sources: 
+    - pages: 370–395
+      ref: beale_rev
 ---
 
 In der Offenbarung sehen wir vier apokalyptische Reiter, die Krieg, Hunger und Tod über die ganze Erde bringen. Der erste Reiter passt jedoch nicht ins Bild und wird kontrovers diskutiert.
@@ -93,14 +101,3 @@ Jetzt macht auch die Parallele auf [Gottes Plagen](https://www.bibleserver.com/S
 - Der letzte Reiter fasst die Wirkung der Trinität zusammen.
 
 So verlockend das Angebot Satans auch sein mag, so sehr es auch nach Jesus klingt: Geh nicht darauf ein, sonst endet es in einer Katastrophe — zumindest in der Beziehung zu Gott.
-
-## Zum Weiterlesen
-
-<a name="3407"></a>
-- [Die 144 000](../../../../content/army/expl/the-144000)
-- [Die Posaunen](../../../../content/trumpets/expl/the-trumpets-in-revelation)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 370–395](../../../../about/ressources/index.html#beale_rev)
-

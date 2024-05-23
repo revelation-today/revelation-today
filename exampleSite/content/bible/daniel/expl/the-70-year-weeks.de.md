@@ -1,6 +1,9 @@
 ---
 title: "Das Geheimnis der 70 Jahrwochen"
 weight: 40
+sources:
+    - pages: 334–354
+      ref: daniel
 ---
 
 Die 70 Jahrwochen sind ein geheimnisumwitterter Teil der Bibel mit noch interessanteren Interpretationen über die Endzeit. Werfen wir einen genaueren Blick darauf.
@@ -91,8 +94,3 @@ Ich denke, dass die letzten 3,5 Jahre aus folgenden Gründen symbolisch sind:
 - Sie sind parallel zum jüdischen Krieg.
 - Niemand kennt die Stunde und den Tag der Wiederkunft Jesu, die auch die Erfüllung der Verheißungen aus Vers 24 ist.
 - Die Gemeinde soll Jesus in allem folgen, was er tut. Da Jesus 3,5 Jahre gewirkt hat, soll die Gemeinde dasselbe tun und deshalb wird auch die gleiche Zeitspanne verwendet.
-
-## Zur Vertiefung
-
-[Wuppertaler Studienbibel, Der Prophet Daniel, Seiten 334–354](../../../../about/ressources/index.html#daniel)
-

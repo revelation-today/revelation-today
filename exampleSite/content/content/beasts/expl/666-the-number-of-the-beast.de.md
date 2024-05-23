@@ -1,6 +1,9 @@
 ---
 title: "Die Zahl des Tieres"
 weight: 4
+sources:
+    - pages: 384–452
+      ref: bauckham_climax
 ---
 
 [Die magische Zahl des Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C18) wurde (meiner Meinung nach zu Unrecht) benutzt, um die aktuelle Politik durch ein Zahlenschema zu verstehen. Denn die Antwort auf die Frage, was diese Zahl bedeutet, findet sich in der Bibel.
@@ -105,8 +108,3 @@ Frage dich nach diesem, ob du noch glaubst, dass die 666 und das Zeichen auf Han
 - Smartphone-Nutzung (mit Standortverfolgung),
 - Nutzung von Kredit- oder Debitkarten,
 - Tonnen von Social-Media-Einträgen?
-
-## Zur Vertiefung
-
-[Bauckham, The climax of Prophecy, Seiten 384–452](../../../../about/ressources/index.html#bauckham_climax)
-

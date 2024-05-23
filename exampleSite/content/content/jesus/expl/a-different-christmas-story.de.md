@@ -1,6 +1,14 @@
 ---
 title: "Die Geburt Jesu in der Offenbarung"
 weight: 2
+deeper:
+    - name: Die Geschichte der unheiligen Dreieinigkeit
+      link: ../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+    - name: Die Struktur der Offenbarung
+      link: ../../../../background/structure/expl/the-structure-of-the-book-of-revelation
+sources: 
+    - pages: 621–681
+      ref: beale_rev
 ---
 
 Als Christ kennst du sicher die Weihnachtsgeschichte nach [Lukas](https://www.bibleserver.com/SLT/Lukas2), etwas romantisch mit ein paar Hirten und einem Kind in der Krippe und den drei Weisen, die einem Stern folgen.
@@ -81,14 +89,3 @@ Wie genau Jesus überwindet, wird hier nicht beschrieben, aber das Thema der Spa
 - [Der Löwe, der eigentlich ein Lamm ist](https://www.bibleserver.com/SLT/Offenbarung5%2C5-6).
 - [Die beiden Zeugen, die besiegt scheinen, aber am Ende überwinden und erhöht werden](https://www.bibleserver.com/SLT/Offenbarung11%2C7-12) im Vergleich mit dem [Drachen und den Tieren, die scheinbar alles im Griff haben](https://www.bibleserver.com/SLT/Offenbarung13), aber [untergehen mit denen, die ihnen vertraut haben](https://www.bibleserver.com/SLT/Offenbarung14%2C6-13).
 - …
-
-## Zum Weiterlesen
-
-<a name="fe9e"></a>
-- [Die Geschichte der unheiligen Dreieinigkeit](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [Die Struktur der Offenbarung](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 621–681](../../../../about/ressources/index.html#beale_rev)
-

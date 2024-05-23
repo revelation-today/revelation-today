@@ -1,15 +1,17 @@
 ---
 title: "Der Aufbau der Offenbarung"
 weight: 10
+readBefore:
+    - name: Historischer Hintergrund des Buches
+      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+    - name: Was ist das für ein Buch
+      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+sources:
+    - pages: 108–170
+      ref: beale_rev
 ---
 
 Auf den ersten Blick wirkt das Buch Offenbarung sehr unorganisiert. Eine Katastrophe folgt auf die andere und dann geht es wieder von vorne los. Aber wenn wir genauer hinsehen, erkennen wir eine ausgeklügelte Struktur und ein umfassendes Arrangement.
-
-## Was du zuvor lesen solltest
-
-<a name="1ee5"></a>
-- [Historischer Hintergrund des Buches](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [Was ist das für ein Buch](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 
 ## Die Herausforderung
 
@@ -84,8 +86,3 @@ Das Buch schließt mit einigen Mahnungen, die den Leser ermahnen, das Ganze erns
 - Kap 17: [Die Hure](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
 - Kap 20: [Das 1000-jährige Reich](../../../../content/1000y/expl/the-thousand-year-kingdom)
 - Kap 21: [Das Neue Jerusalem](../../../../content/paradise/expl/the-new-jerusalem)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 108–170](../../../../about/ressources/index.html#bealy_rev)
-

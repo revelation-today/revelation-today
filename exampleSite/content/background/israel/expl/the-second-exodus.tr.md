@@ -1,5 +1,8 @@
 ---
 title: "İkinci Çıkış"
+sources:
+    - pages: 694–703
+      ref: beale_theo
 ---
 
 Mısır’dan bir Çıkış oldu. Ancak İsrail yasaya uymayı başaramayınca sürgüne gittiler. Geri döndüklerinde vaatlerle doluydular, sürgünden döndüklerinde hiçbir şeyin değişmediğini gördüler. Yani sonuç: Hâlâ sürgündedirler ve yeni bir Çıkış beklemektedirler. Ve bu İsa’yla birlikte gelecektir!
@@ -68,8 +71,3 @@ Bu karşılaştırma Elçilerin İşleri ve Yeşaya arasındaki gerilimi göster
 İsrail’in uzun zamandır beklediği yeni Çıkış gerçekleşir ve İsa’ya bağlanır. Asıl soru İsrail’in ve diğer ulusların Tanrı’yı mı (yeniden) seçecekleri yoksa ciddi bir sorun olan putlarına mı bağlı kalacaklarıdır.
 
 Müjde, Mesih’e iman eden İsrail’in restorasyonu ile diğer ulusların kurtarılması arasındaki gerilimi gösterir.
-
-## Derinleştirmek için
-
-[Beale, A New Testament biblical theology, sayfalar 694–703](../../../../about/ressources/index.html#beale_theo)
-

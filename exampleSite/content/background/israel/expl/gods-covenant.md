@@ -1,6 +1,12 @@
 ---
 title: "Gods covenant"
 weight: 2
+readBefore:
+    - name: The role of family
+      link: ../../../../background/israel/expl/the-role-of-family-in-the-bible
+sources:
+    - pages: 69-
+      ref: richter
 ---
 
 In ancient times [being in a family was essential for survival](../../../../background/israel/expl/the-role-of-family-in-the-bible) (provision, protection, …), and being in an important family was even better.
@@ -76,9 +82,3 @@ The requirement to [read it again](https://www.bibleserver.com/NIV/Deuteronomy31
 God also calls [himself the Father of Israel](https://www.bibleserver.com/NIV/Exodus3%3A6).
 
 The Bible uses the word “heset” = “covenant loyalty” which is a word that can be described by “love”, “goodness”, “mercy” or “faithfulness”.
-
-## Dig Deeper
-
-<a name="7138"></a>
-[Sandra Richter, The Epic of Eden, pages 69-](../../../../about/ressources/index.html#richter)
-

@@ -1,6 +1,13 @@
 ---
 title: "İzmir’deki kiliseye yazılan mektup"
 weight: 2
+sources: 
+    - pages: 239–245
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 29–30
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Smyrna’yı biliyor musunuz? Tanımalısınız çünkü orada suçsuz bir kilise bulacaksınız, ama belki sizin için doğru kilise olmayabilir
@@ -32,10 +39,3 @@ Kilisenin kökeni hakkında çok az şey bilinmektedir, belki de Pavlus tarafın
 İsa söz veriyor: Tahammül ettiklerinde ikinci ölümden zarar görmeyecekler. [İsa ölümden dirilişe geçerek üstesinden geldi ve hafta gibi görünüyor](https://www.bibleserver.com/TR/Vahiy5%3A5-6), bu [yüzden onlarla birlikte hükmedecek](https://www.bibleserver.com/TR/Vahiy20%3A4-6). Bu bir paradokstur. Bu nasıl olmalıdır?
 
 Biz ne kadar çok şey yapamazsak, İsa o kadar çok çalışabilir. [Ancak çaresizlikten bunalıp pes etme tehlikesi vardır](../../../../content/beasts/expl/666-the-number-of-the-beast). Durumu çözmemiz değil, O’nunla birlikte dayanmamız gerekir.
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 239–245](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, sayfalar 29–30](../../../../../about/ressources/index.html#fee_rev)
-

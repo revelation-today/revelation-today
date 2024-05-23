@@ -1,6 +1,14 @@
 ---
 title: "Kiliselerin melekleri"
 weight: 4
+deeper:
+    - name: Kiliseler için mektup
+      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+    - name: Bir kahraman nedir
+      link: ../../../../topics/hero/short/a-real-hero
+sources: 
+    - pages: 108–112
+      ref: aune_rev
 ---
 
 İncil’in Vahiy kitabında tekrarlanan bir ifade vardır: Kilisenin meleğine yaz. Kiliselerin koruyucu melekleri var mı? Kiliselerin önderleri melek midir? Peki, daha derin bir bakış atalım
@@ -40,14 +48,3 @@ Ayrıca
 - Kilise, bir meleğin bir “birim” olması gibi birlik içinde olmalıdır. Bu onların özel kurtuluşları/Tanrı’ya giden yolları değil, bir bütün olarak sorumluluk almalarıdır.
 - Onlara melek (angelos = haberci) olarak hitap ederek, ilahi amaçlarını hatırlatır.
 - Onlardan melek olarak bahsedilmesi, işlerini kendi güçleriyle halledemeyeceklerini, ilahi desteğe (Kutsal Ruh) ihtiyaç duyduklarını gösterir.
-
-## Daha fazla okuma
-
-<a name="cbe4"></a>
-- [Kiliseler için mektup](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [Bir kahraman nedir](../../../../topics/hero/short/a-real-hero)
-
-## Daha derine inmek
-
-[Aune, Revelation, sayfalar 108–112](../../../../about/ressources/index.html#aune_rev)
-

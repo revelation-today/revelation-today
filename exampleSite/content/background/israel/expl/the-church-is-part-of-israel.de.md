@@ -1,6 +1,9 @@
 ---
 title: "Die Gemeinde als Teil von Israel"
 weight: 6
+sources:
+    - pages: 669–679
+      ref: beale_theo
 ---
 
 Das klingt merkwürdig. Ist die Kirche nicht viel größer als Israel? Und ersetzt die Kirche nicht Israel? Oder wird Israel am Ende der Zeit nicht ohne die Gemeinde wiederkommen? Das setzt einen Gegensatz voraus, den es nicht gibt.
@@ -115,9 +118,3 @@ Als [Kornelius und sein Haus den Heiligen Geist empfingen](https://www.bibleserv
 | Jesaja | Apostelgeschichte 1:8 |
 |--------|----------|
 | [bis der <span style="color:red;">Geist aus der Höhe über uns ausgegossen wird</span>. Dann wird die Wüste zu einem Garten der Früchte werden, und der Garten der Früchte wird geschätzt werden wie ein Wald](https://www.bibleserver.com/SLT/Jesaja32%2C15) </br> [<span style="color:green;">Ihr seid meine Zeugen</span>, spricht der Herr, und mein Knecht, den ich erwählt habe, damit ihr erkennt und mir glaubt und seht, dass ich es bin; vor mir ist kein Gott gewesen, und nach mir wird keiner sein](https://www.bibleserver.com/SLT/Jesaja43%2C10). </br> [<span style="color:green;">Und ihr seid meine Zeugen</span>, spricht der Herr, dass ich Gott bin](https://www.bibleserver.com/SLT/Jesaja43%2C12). </br> [<span style="color:brown;">Aber ich habe euch auch dazu bestimmt, den Heiden ein Licht zu sein, damit ihr <span style="color:brown;">meine Rettung seid bis an die Enden der Erde</span>](https://www.bibleserver.com/SLT/Jesaja49%2C6) | aber ihr werdet Macht empfangen (Erfüllung von [Lukas](https://www.bibleserver.com/SLT/Lukas24%2C49)), wenn der <span style="color:red;">Heilige Geist auf euch gekommen ist</span>, und ihr werdet <span style="color:green;">meine Zeugen</span> sein in Jerusalem und in ganz Judäa und Samarien und <span style="color:brown;">bis an die Enden der Erde</span>! (Siehe [Geschichte der Apostel](https://www.bibleserver.com/SLT/Apostelgeschichte13%2C47), die sich auf [Jesaja](https://www.bibleserver.com/SLT/Jesaja49%2C6) bezieht). |
-
-## Zur Vertiefung
-
-<a name="9150"></a>
-[Beale, A New Testament biblical theology, Seiten 669–679](../../../../about/ressources/index.html#beale_theo)
-

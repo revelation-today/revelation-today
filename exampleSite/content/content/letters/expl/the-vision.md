@@ -1,6 +1,9 @@
 ---
 title: "The vision"
 weight: 3
+sources: 
+    - pages: 205–222
+      ref: beale_rev
 ---
 
 The book of Revelation begins with a bang. John has a vision of an amazing figure walking among lampstands with starter in hand. While it is clear that this vision somehow defines the scope of the book, you may wonder what the message really is.
@@ -45,8 +48,3 @@ The church is described by two different images, which also have two main things
 - They both need Jesus: the stars cannot shine if they are not in the hand of Jesus, the lamp only stands if the oil is there (Holy Spirit).
 
 The point of the church is to be light for the world, for the world to be saved. That is the point of the book, and that is what the church is tested on: Is the church a witness that convinces the nations?
-
-### Dig Deeper
-
-[Beale, Revelation, pages 205–222](../../../../about/ressources/index.html#aune_rev)
-

@@ -1,6 +1,29 @@
 ---
 title: "Zorluklar"
 weight: 1
+deeper:
+    - name: Kitap nasıl başlıyor
+      link: ../../../../content/letters/expl/setting-the-foundation
+    - name: İsa’nın vizyonu
+      link: ../../../../content/letters/expl/the-vision
+    - name: Kiliselerin melekleri
+      link: ../../../../content/letters/expl/the-angel-of-the-churches
+    - name: Kiliseler için mektup
+      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+    - name: Efes’e mektup
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus
+    - name: İzmir’e mektup
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna
+    - name: Pergamon’a mektup
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon
+    - name: Thyatira’ya mektup
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira
+    - name: Sardes’e mektup
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis
+    - name: Philadelphia’ya mektup
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia
+    - name: Laodikya’ya mektup
+      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea
 ---
 
 2000 yıl önceki cemaatlerin şu anki durumumuzla ne ilgisi var? Bugün çok farklı zorluklarla karşı karşıya değil miyiz? Dünyanın ya da kilisenin ne kadar az değiştiğine şaşıracaksınız.
@@ -56,19 +79,3 @@ Zorlukları da güçlü yanları gibi bireyseldir, bu nedenle bazı kiliselerin 
 - Yanlış öz değerlendirme: Övgü almayan Laodikya kilisesi büyük olasılıkla kendini çok beğenen bir kiliseydi. Sardes de kendi başlarının çaresine bakabileceklerini düşünüyordu. Bu, yıkıcı olan çok kötü bir yanılgıydı.
 
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
-## Daha derine inmek
-
-<a name="9c08"></a>
-- [Kitap nasıl başlıyor](../../../../content/letters/expl/setting-the-foundation)
-- [İsa’nın vizyonu](../../../../content/letters/expl/the-vision)
-- [Kiliselerin melekleri](../../../../content/letters/expl/the-angel-of-the-churches)
-- [Kiliseler için mektup](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-- [Efes’e mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus)
-- [İzmir’e mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna)
-- [Pergamon’a mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon)
-- [Thyatira’ya mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira)
-- [Sardes’e mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis)
-- [Philadelphia’ya mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
-- [Laodikya’ya mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
-

@@ -1,6 +1,13 @@
 ---
 title: "Sardis’teki kiliseye mektup"
 weight: 5
+sources: 
+    - pages: 272–282
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 44–45
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Ölü bir kilise neye benzer? Oraya nasıl yeni bir hayat verebilirsiniz? Merak mı ediyorsunuz? [Sardis’e yazılan](https://www.bibleserver.com/TR/Vahiy3%3A1-6) mektuba bir göz atın.

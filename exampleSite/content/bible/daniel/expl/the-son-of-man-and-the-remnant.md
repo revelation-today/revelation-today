@@ -1,6 +1,9 @@
 ---
 title: "The Son of Man"
 weight: 30
+sources:
+    - pages: 393–428
+      ref: beale_theo
 ---
 
 Jesus calls himself only the “Son of Man”? Why is this? And what does it mean?
@@ -94,8 +97,3 @@ The witnesses are identified as the Son of Man because they live the life of Jes
 - [They are defeated by the enemy when their testimony is finished](https://www.bibleserver.com/NIV/Revelation11%3A7).
 - [But this is not their defeat because they will be resurrected like Jesus](https://www.bibleserver.com/NIV/Revelation11%3A8-11).
 - [They are exalted like Jesus](https://www.bibleserver.com/NIV/Revelation11%3A12).
-
-### Dig deeper
-
-[Beale, A New Testament Biblical Theology, pages 393–428](../../../../about/ressources/index.html#beale_theo)
-

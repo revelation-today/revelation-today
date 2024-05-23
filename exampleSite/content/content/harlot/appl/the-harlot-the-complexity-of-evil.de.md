@@ -1,6 +1,15 @@
 ---
 title: "Die Hure: Die Komplexität des Bösen"
 weight: 1
+deeper:
+    - name: "Wer ist die Hure: Teil 1"
+      link: ../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1
+    - name: "Wer ist die Hure: Teil 2"
+      link: ../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2
+    - name: Die Hure als Satire der damaligen Zeit
+      link: ../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+    - name: Der Charakter und das Schicksal der Hure
+      link: ../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot
 ---
 
 Die Hure der Offenbarung ist schwer zu fassen und zeigt die Komplexität des Bösen auf Erden. Aber mit ein wenig Geduld können wir uns einen Überblick verschaffen.

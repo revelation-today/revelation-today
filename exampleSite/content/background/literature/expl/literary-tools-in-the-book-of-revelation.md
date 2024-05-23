@@ -1,6 +1,11 @@
 ---
 title: "Literary tools in the Book of Revelation"
 weight: 40
+sources:
+    - pages: 15–44
+      ref: dorsey
+    - pages: 7–11
+      ref: walsh
 ---
 
 How did the original audience read the book of Revelation? There were no headings or paragraphs, just plain text. Let us take a look at this very different way of reading.
@@ -212,10 +217,3 @@ There are many values
 - Explain repetitions: Repetitions confuse modern readers, but they help the hearer to perceive the structure of the text, e.g. morning and evening and the nth day shows the completion of each day in Gen.1.
 - Explanation of the apparently misplaced units: Some passages seem to be misplaced, but structural analysis helps to understand their position, e.g. Gen 38 seems to interrupt the story of Joseph, but was used to contrast his behavior at Potiphar’s place. This wrongful treatment of Joseph while Judah gets away with it will lead to the parallel chapter of disowning Judah and giving the firstborn right to Joseph.
 - Clarifying a unit by comparing it to its counterpart: The meaning of a function of a unit can be clarified by comparing it to its counterpart.
-
-## Dig deeper
-
-[David A. Dorsey, The literary structure of the Old Testament, pages 15–44](../../../../about/ressources/index.html#dorsey)
-
-[Jerome T. Walsh, Biblical Hebrew Narrative, pages 7–11](../../../../about/ressources/index.html#walsh)
-

@@ -1,6 +1,13 @@
 ---
 title: "The letter to the church in Philadelphia"
 weight: 6
+sources: 
+    - pages: 283–296
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 50-51
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 [Philadelphia](https://www.bibleserver.com/NIV/Revelation3%3A7-13): The city with the key of David. What doors does this key open? Evangelism, opportunities, relationships, …? Read on and you will know and understand why this church receives no reproof.
@@ -42,10 +49,3 @@ Their promise is probably also the way they endured for so long: Their greatest 
 Here in the letter is an interesting statement: “[Since you have kept my command to endure patiently, I will also keep you from the hour of trial that is going to come on the whole world to test the inhabitants of the earth](https://www.bibleserver.com/NIV/Revelation3%3A10).”
 
 What is the hour of trail that will come upon the whole earth? And how will Jesus keep us from it? The word “[keep from](https://biblehub.com/interlinear/revelation/3-10.htm)” appears otherwise only in [the Gospel of John](https://biblehub.com/interlinear/john/17-15.htm), where Jesus prays for his disciples: “[My prayer is not that you take them out of the world but that you protect them from the evil one](https://www.bibleserver.com/NIV/John17%3A15).”. Jesus is not talking about taking them out of the world, but protecting them from the world, as in the [Proverbs](https://www.bibleserver.com/NIV/Proverbs7%3A5) or the [Letter of James](https://www.bibleserver.com/NIV/James1%3A27). So, this statement basically describes the same situation as the [Great Tribulation](../../../../content/army/expl/the-end-time-and-the-great-tribulation).
-
-## Dig Deeper
-
-[Beale, Revelation, pages 283–296](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, pages 50–51](../../../../../about/ressources/index.html#fee_rev)
-

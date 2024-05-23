@@ -1,6 +1,17 @@
 ---
 title: "Das Paradox der sieben Siegel"
 weight: 1
+deeper:
+    - name: Ein echter Held
+      link: ../../../../topics/hero/short/a-real-hero
+    - name: Wer regiert die Welt?
+      link: ../../../../topics/hero/short/who-rules-the-world
+    - name: Das Buch mit den sieben Siegeln
+      link: ../../../../content/seals/expl/the-book-with-the-seven-seals
+    - name: Das Geheimnis der vier Reiter
+      link: ../../../../content/seals/expl/the-mystery-of-the-four-horse-men
+    - name: Der Zorn des Lammes
+      link: ../../../../content/seals/expl/the-wrath-of-the-lamb
 ---
 
 Die Schriftrolle mit den sieben Siegeln ist der Punkt in der Offenbarung Worum geht es hier eigentlich, was ist dieses Buch und wer sind die Reiter?
@@ -59,13 +70,3 @@ Doch alles hängt davon ab, dass die Gemeinde ein gutes Zeugnis hat.
 - Glaubst du, dass eine Welt ohne Jesus in Ordnung gebracht werden kann?
 - Wie reagierst du, wenn Menschen schlecht über die Kirche sprechen?
 - An welches Versprechen, das eine Organisation oder eine Regierung gegeben hat, kannst du dich erinnern, das am Ende mehr Schmerz verursacht hat? Welche Initiative hat wirklich etwas bewirkt, obwohl es aussichtslos schien? Was war der Unterschied?
-
-## Zur Vertiefung
-
-<a name="5f8a"></a>
-- [Ein echter Held](../../../../topics/hero/short/a-real-hero)
-- [Wer regiert die Welt?](../../../../topics/hero/short/who-rules-the-world)
-- [Das Buch mit den sieben Siegeln](../../../../content/seals/expl/the-book-with-the-seven-seals)
-- [Das Geheimnis der vier Reiter](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
-- [Der Zorn des Lammes](../../../../content/seals/expl/the-wrath-of-the-lamb)
-

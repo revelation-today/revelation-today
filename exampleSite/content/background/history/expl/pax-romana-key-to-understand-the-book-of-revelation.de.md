@@ -1,6 +1,14 @@
 ---
 title: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
 weight: 2
+deeper:
+    - name: Was für ein Buch ist das?
+      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+    - name: Struktur des Buches
+      link: ../../../../background/structure/expl/the-structure-of-the-book-of-revelation
+sources:
+    - pages: 28–33
+      ref: beale_rev
 ---
 
 Du magst denken, dass die Offenbarung in der Bibel oder der römische Friede im alten Rom nichts mit unserer Zeit zu tun haben. Aber du irrst dich, und ich will dir sagen, warum.
@@ -67,14 +75,3 @@ Hier einige Fragen zum Nachdenken:
 - Wie reagierst du, wenn du in Konflikt mit der „politischen Korrektheit” gerätst? Wie gehst du mit anderen um, die anderer Meinung sind als du?
 - Hast du das Gefühl, dass du anderen in bestimmten Bereichen deines Lebens etwas vormachen musst? Warum? Was würde passieren, wenn du es nicht tust?
 - Was wäre, wenn du in eine Situation gerätst, in der deine persönliche Meinung/dein Glaube dich sehr viel kosten würde? Würdest du treu bleiben? Würdest du nachgeben? Wie würde das praktisch aussehen?
-
-## Zum Weiterlesen
-
-<a name="5287"></a>
-- [Was für ein Buch ist das?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Struktur des Buches](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
-
-## Zum Vertiefen
-
-[Beale, Revelation, Seiten 28–33](../../../../about/ressources/index.html#beale_rev)
-

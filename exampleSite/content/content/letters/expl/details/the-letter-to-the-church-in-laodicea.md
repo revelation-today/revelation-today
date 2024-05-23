@@ -1,6 +1,13 @@
 ---
 title: "The letter to the church in Laodicea"
 weight: 7
+sources: 
+    - pages: 296–310
+      base: ../../../../../
+      ref: beale_rev
+    - pages: 57
+      base: ../../../../../
+      ref: fee_rev
 ---
 
 Well this is the [most preached letter of the churches](https://www.bibleserver.com/NIV/Revelation3%3A14-22), and so we all know about the problem of being lukewarm. But do you really know what it means in this context? Especially when this is the only church that gets no praise at all, not even a little!
@@ -41,10 +48,3 @@ Jesus calls them out of their complacency and knocks at their door. This is not 
 And IF they listen, they will SIT with Him on the throne in the throne room of God.
 
 Now wait a minute: No one sits in the throne room, everyone stands!So what does that mean for Laodicea? Is this motivation enough for them?
-
-## Dig Deeper
-
-[Beale, Revelation, pages 296–310](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, pages 57](../../../../../about/ressources/index.html#fee_rev)
-

@@ -1,6 +1,9 @@
 ---
 title: "The Harlot in Revelation: A mocking of the Roman Empire"
 weight: 5
+sources: 
+    - pages: 919–928
+      ref: aune_rev
 ---
 
 The story of the harlot Babel in the book of Revelation in the Bible is one of the most complex stories and uses a lot of subtle irony about the Roman Empire. Ready for this?
@@ -46,8 +49,3 @@ This tabula may also be a basis for Revelation 17. It describes a group of peopl
 Another parallel to Revelation 17 could be the [Ode of Salomon](https://en.wikipedia.org/wiki/Odes_of_Solomon) 38/9–14, where error and lack of knowledge imitate the bride and groom. The wine at this wedding made the people vomit their understanding.
 
 So the point of the ekphrasis is to show thatUnderstanding this deception is the first step toward God’s kingdom.If you are deceived by Rome, there is little hope for you.This deception is so great that it is hard to miss.
-
-## Dig Deeper
-
-[Aune, Revelation, pages 919–928](../../../../about/ressources/index.html#aune_rev)
-
