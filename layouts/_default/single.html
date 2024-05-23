@@ -3,6 +3,7 @@
 {{- $sources := (T "sources") | default "Sources"}}
 {{- $readBefore := (T "readBefore") | default "Read Before"}}
 {{- $pages := (T "pages") | default "pages"}}
+{{- $page := (T "page") | default "page"}}
 {{- $sourceLink := dict 
     "beale_rev" "G.K. Beale, Revelation" 
     "backham_rev" "Richard Bauckham: The theology of the book of Revelation" 
@@ -58,13 +59,17 @@
             <ul>
               {{- range .Params.sources -}}
                 {{- $name := index $sourceLink .ref }}
-                {{- $title := $name }}
+                {{- $title := $name -}}                
+                {{- if .pages -}}
+                    {{- $title = print $name ", " $page " " .pages -}}
+                {{- end -}}
+                {{- $pagesStr := cast.ToString .pages -}}
+                {{- if strings.Contains $pagesStr "–" -}}
+                    {{- $title = print $name ", " $pages " " .pages -}}
+                {{- end -}}
                 {{- $base := "../../../../" }}
                 {{- if .base -}}
-                    {{- $base := .base }}
-                {{- end -}}
-                {{- if .pages -}}
-                    {{- $title := print $name ", " $pages " " .pages -}}
+                    {{- $base = .base }}
                 {{- end -}}
                 {{- $link := print .base "about/ressources/index.html#" .ref -}}
                 {{ partial "shortcodes/card" (dict "title" $title "link" $link "icon" "at-symbol") }}
