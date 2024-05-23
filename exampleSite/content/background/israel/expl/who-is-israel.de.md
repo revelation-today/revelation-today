@@ -2,9 +2,7 @@
 title: "Wer ist Israel?"
 ---
 
-
 Was glaubst du, ist Israel? Sind es alle Nachkommen Abrahams? Sicher nicht, es ist viel komplizierter oder einfacher! Und was ist Israel im Neuen Testament? Was ist mit den Juden, die nicht an Gott glauben?
-
 
 ## Der Ursprung und der Sinn von Israel
 
@@ -19,14 +17,12 @@ Und Gott schloß mit ihnen einen neuen Bund am Berg Sinai, der zur Verfassung Is
 
 Einige weitere Personen wurden Teil von Israel, wie [Rahab](https://www.bibleserver.com/SLT/Josua2), [Ruth vs. Orpa](https://www.bibleserver.com/SLT/Rut1), [Uria](https://www.bibleserver.com/SLT/2.Samuel11%2C3) und viele andere. [Aber die Reichweite war begrenzt](https://www.bibleserver.com/SLT/Matth%C3%A4us23%2C15).
 
-
 ## Israel bricht den Bund
 
 <a name="6581"></a>
 Aber es gab ein noch größeres Problem. Israel wurde schlimmer als seine Nachbarn, und es brach den Bund. Die Folge war, dass sie ins Exil gehen mussten. Aber Gott ließ durch die Propheten verkünden, dass er nach dem Exil den Rest Israels wiederherstellen und seine volle Bestimmung erreichen würde. Als das Exil nach 70 Jahren endete, erwartete Israel, dass sich all dies erfüllen würde.
 
 Aber das ist nicht geschehen. Die Schlussfolgerung war, dass sich Israel immer noch im Exil befand und auf [einen weiteren Exodus wie aus Ägypten wartete, der als “Tag des Herrn” bezeichnet wurde, wenn all diese Verheißungen erfüllt sind](../../../../background/israel/expl/the-day-of-the-lord). Diese Verheißungen galten für [den Überrest Israels und schlossen ein, dass die Nationen Teil Israels sein werden](../../../../background/israel/expl/the-remnant-of-israel).
-
 
 ## Ein neuer Anfang
 
@@ -41,7 +37,3 @@ Der [Tag des Herrn ist erst teilweise gekommen, wir leben also in einer Zwischen
 
 [Die Gemeinde hat Israel nicht ersetzt, sondern Israel hat seine Mission erfüllt, indem es die Nationen zum neuen Israel hinzugefügt hat](https://www.bibleserver.com/SLT/R%C3%B6mer9).
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/who-is-israel.de.md)

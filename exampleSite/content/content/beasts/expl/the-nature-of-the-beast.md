@@ -3,9 +3,7 @@ title: "The nature of the beast"
 weight: 2
 ---
 
-
 The devil with all his minions takes up quite a bit of space in the book of Revelation, and I also spend quite a few articles on the subject. Why is this? Shouldn’t we spend more time and effort describing God? Well, there is a reason.
-
 
 ## You may want to read before
 
@@ -14,13 +12,10 @@ The devil with all his minions takes up quite a bit of space in the book of Reve
 - [The character of the beasts](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 - [The character of the harlot](../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
-
-
 ## The character of the devil
 
 <a name="537c"></a>
 The devil is described as aggressive, which is hard to deal with as a believer, but you know what you are dealing with. But he is also a deceiver and that is even more dangerous because you may be tired of all the fighting and think there is an easy way out. But the result is that you become loyal to the devil without even fully understanding it. That is why the book describes God and Satan so that you can see the differences and the similarities.
-
 
 ## The description of the devil
 
@@ -38,11 +33,9 @@ The second time he appears is when [Jesus declared victorious again](https://www
 - [He tries to destroy the woman – and fails](https://www.bibleserver.com/NIV/Revelation12%3A13-17).
 - [He tries to destroy the descendants of Jesus, the Church, and also fails](https://www.bibleserver.com/NIV/Revelation13) as we see in [the number 666](../../../../content/beasts/expl/666-the-number-of-the-beast#5112).
 
-
 The devil is shown again [as a trinity in the sixth bowl](https://www.bibleserver.com/NIV/Revelation16%3A13). which is judged in chapters [19](https://www.bibleserver.com/NIV/Revelation19%3A20) and [20](https://www.bibleserver.com/NIV/Revelation20%3A10). These passages frame the story of the harlot, where we also have one beast and the harlot.
 
 These three views are interrelated in describing the devil’s activity.
-
 
 ## The false trinity
 
@@ -59,13 +52,11 @@ Now, if we look now [at the three horseman, we see the same pattern](../../../..
 - followed by the one who uses violence (brings war),
 - followed by the one who brings economic injustice.
 
-
 The fourth is a summary of all of them, see we have another trinity situation there.
 
 Finally, we look at the story of the harlot. Despite the many players in chapter 17, it is hard to see a trinity there. But you will make two observations:
 
 There is a strong parallel between the beast in chapter 17 and the first beast in chapter 13.
-
 
 | The first beast of Revelation 13 | The beast on Revelation 17 |
 |----------------------------------|----------------------------|
@@ -79,7 +70,6 @@ There is a strong parallel between the beast in chapter 17 and the first beast i
 But there is also a strong connection between the Second Beast in chapter 13 and the Harlot
 
 ## The Harlot and the Second Beast
-
 
 | The Second Beast of Revelation 13 | The Harlot |
 |-----------------------------------|------------|
@@ -98,7 +88,6 @@ So where is the third part? Well he stays in the background as in chapter 13 and
 
 [This was also the case in the historical context](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context): You see the two beasts but you do not see the devil directly.
 
-
 ## The development of the picture
 
 <a name="6ef8"></a>
@@ -110,9 +99,3 @@ This is the theme that is developed in the story of the dragon and the two beast
 
 This is finally unfolded in the last view, where Babel is described in detail as the counterpart of the New Jerusalem.
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast.md)

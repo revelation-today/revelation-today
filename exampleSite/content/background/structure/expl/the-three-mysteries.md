@@ -3,9 +3,7 @@ title: "The three mysteries"
 weight: 20
 ---
 
-
 The book of Revelation speaks of three mysteries: the mystery of the Church, the mystery of God, and the mystery of the beast. What are these mysteries, and what is a mystery? You will see this soon and also how this gives a new perspective on the structure of the book.
-
 
 ## The mystery
 
@@ -20,8 +18,6 @@ This mystery is described in detail in the book of Daniel. This book shows how G
 - Their keys to success are worship, testimony, perseverance, and prayer, which will bring down the evil rulers.
 - They seem to have a [different view of conquering and being victorious](../../../../topics/hero/short/a-real-hero).
 
-
-
 ## The mystery of the church
 
 <a name="f192"></a>
@@ -33,7 +29,6 @@ The church needs to look at Jesus, who was obedient ([worship is the expression 
 
 Now the Church [can go out in prayer and shake the earth](../../../../content/trumpets/expl/the-trumpets-in-revelation). But prayer alone is not enough! It needs more: The revelation of God. This is revealed through worship as the essence of the relationship with God.
 
-
 ## The mystery of God
 
 <a name="b548"></a>
@@ -41,7 +36,6 @@ The [mystery of God](https://www.bibleserver.com/NIV/Revelation10%3A7) can be se
 
 - [He rules sovereignly over all the earth](https://www.bibleserver.com/NIV/Revelation10%3A2).
 - God has the bigger job (big scroll from chapter 5) the church does not carry it all (little scroll).
-
 
 It starts with the temple: The place of God’s presence is for worship.
 
@@ -53,7 +47,6 @@ This is shown in the life of [Jesus how He was victorious](../../../../content/j
 
 [Now God is going into action and fighting for the hearts of the peoples and bringing down the kingdom of the devil](../../../../content/bowls/expl/the-bowls-of-wrath), which brings us to the last topic.
 
-
 ## The mystery of the Harlot
 
 <a name="3f20"></a>
@@ -63,13 +56,10 @@ The [last mystery](https://www.bibleserver.com/NIV/Revelation17%3A5) describes t
 - [The harlot has set up a great network to protect her, which will destroy her in the end ](https://www.bibleserver.com/NIV/Revelation17).
 - The great chapter on the harlot is countered by the long story of the New Jerusalem (the Bride, the Church), which is the opposite. The church should be careful not to get entangled with the harlot, or it will go down with her.
 
-
-
 ## A little overview
 
 <a name="2190"></a>
 This is the first attempt to give it some structure.
-
 
 | Topic | Church: back to Jesus | God: role model for the church | Harlot: what the church should not be |
 |-------|-----------------------|--------------------------------|--------------------------------------|
@@ -83,9 +73,3 @@ This is the first attempt to give it some structure.
 | Make the right choice! | [False securities will be taken away](https://www.bibleserver.com/NIV/Revelation8%2C6-13) (Rev. 8/6-13) | [Loyalty to the beast, silencing witnesses, hardness of heart questioned](https://www.bibleserver.com/NIV/Revelation16%2C1-9) (Rev. 16/1-9) | [New Jerusalem unveiled](https://www.bibleserver.com/NIV/Revelation21%2C9-20) (Rev. 21/9-22/5) |
 | Living with the wrong choice | [Painted by the demons, trusted](https://www.bibleserver.com/NIV/Revelation9) | [Demonic forces deceive and humans get involved and go down with them](https://www.bibleserver.com/NIV/Revelation16%2C10-21) | [Living outside the New Jerusalem is living with demons](https://www.bibleserver.com/NIV/Revelation22%2C6-21) |
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-three-mysteries.md)

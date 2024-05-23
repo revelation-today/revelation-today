@@ -3,15 +3,12 @@ title: "Das Paradox der sieben Siegel"
 weight: 1
 ---
 
-
 Die Schriftrolle mit den sieben Siegeln ist der Punkt in der Offenbarung Worum geht es hier eigentlich, was ist dieses Buch und wer sind die Reiter?
-
 
 ## Unser Text
 
 <a name="35f4"></a>
 Wir sind jetzt in [Kapitel 5](https://www.bibleserver.com/SLT/Offenbarung5) und [6](https://www.bibleserver.com/SLT/Offenbarung6).
-
 
 ## Das Buch und das Lamm
 
@@ -26,7 +23,6 @@ Er sieht ein geschlachtetes Lamm: Jesus am Kreuz. Der große Held siegt nicht du
 
 Und nicht nur das: Die ganze Erde und der ganze Himmel wenden sich in ihrer Anbetung Gottes ganz dem Lamm zu, das nun mit der vollen Zustimmung Gottes im Mittelpunkt steht! Jesus ist der Einzige, der neben Gott angebetet werden darf. Johannes wird in der Offenbarung zweimal zurechtgewiesen, weil er den Offenbarungsengel anbetet.
 
-
 ## Das Paradox
 
 <a name="ad46"></a>
@@ -36,8 +32,6 @@ Aber wir irren uns in zweierlei Hinsicht:
 
 - Gott greift ein, aber nicht auf unsere Weise. Wir sehen als Antwort auf das Böse nur Strafe oder Einsperren. Damit sind wir aber inkonsequent, denn wir berücksichtigen nur ein bestimmtes Maß an Bosheit (Mord muss bestraft werden, aber Eifersucht kann toleriert werden). Aber Gott ist radikaler: Das Böse wird gleich behandelt, weil es mit der Zeit und unter geeigneten Umständen wächst. Er kümmert sich also um alles.
 - Es geht ihm nicht in erster Linie darum, die Bösen zu bestrafen, sondern sie letztlich wiederherzustellen, damit sie aufhören, Böses zu tun. Das Buch der Offenbarung macht einen sehr drastischen Eindruck, aber der Schwerpunkt ist nicht das Gericht Gottes, sondern ein ganz anderes Anliegen, das wir noch kennenlernen werden.
-
-
 
 ## Der Fake-Löwe
 
@@ -54,9 +48,7 @@ Beim fünften Siegel sehen wir, was die Gemeinde in dieser Zeit tun soll: Sie so
 - Aufgrund seines Auftretens denken die Menschen, Jesus und die Gemeinde seien böse.
 - Aber das Zeugnis der Gemeinde ist das entscheidende Element, das den Unterschied ausmacht.
 
-
 Doch alles hängt davon ab, dass die Gemeinde ein gutes Zeugnis hat.
-
 
 ### Reflektion
 
@@ -68,12 +60,6 @@ Doch alles hängt davon ab, dass die Gemeinde ein gutes Zeugnis hat.
 - Wie reagierst du, wenn Menschen schlecht über die Kirche sprechen?
 - An welches Versprechen, das eine Organisation oder eine Regierung gegeben hat, kannst du dich erinnern, das am Ende mehr Schmerz verursacht hat? Welche Initiative hat wirklich etwas bewirkt, obwohl es aussichtslos schien? Was war der Unterschied?
 
-
-
-
-
-
-
 ## Zur Vertiefung
 
 <a name="5f8a"></a>
@@ -83,8 +69,3 @@ Doch alles hängt davon ab, dass die Gemeinde ein gutes Zeugnis hat.
 - [Das Geheimnis der vier Reiter](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
 - [Der Zorn des Lammes](../../../../content/seals/expl/the-wrath-of-the-lamb)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/appl/the-paradox-of-the-seven-seals.de.md)

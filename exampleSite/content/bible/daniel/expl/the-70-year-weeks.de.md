@@ -3,9 +3,7 @@ title: "Das Geheimnis der 70 Jahrwochen"
 weight: 40
 ---
 
-
 Die 70 Jahrwochen sind ein geheimnisumwitterter Teil der Bibel mit noch interessanteren Interpretationen über die Endzeit. Werfen wir einen genaueren Blick darauf.
-
 
 ## Was ist eine Jahrwoche
 
@@ -13,7 +11,6 @@ Die 70 Jahrwochen sind ein geheimnisumwitterter Teil der Bibel mit noch interess
 In der Schöpfung hat Gott den siebenten Tag, den Sabbat, für heilig erklärt. Aber eine gibt auch ein “Sabbatjahr”: [Jedes siebente Jahr soll das Land ruhen](https://www.bibleserver.com/SLT/3.Mose25%2C1-7) und die [Menschen sollen im Vertrauen auf Gottes Versorgung leben](https://www.bibleserver.com/SLT/3.Mose25%2C20-22).
 
 Doch dazu kam es nie, denn [Israel ging deswegen für 70 Jahre ins Exil](https://www.bibleserver.com/SLT/2.Chronik36%2C20-21), wie es [Jeremia](https://www.bibleserver.com/SLT/Jeremia25%2C11-12) prophezeit hatte. Da das Sabbatjahr nur alle 7 Jahre stattfindet, sprechen wir von 7*70=490 Jahren, also der gesamten Zeit, in der Israel als Staat existiert hat. Eine Jahrwoche bei Daniel besteht also aus 7 Jahre (sie wird Woche genannt, um die Parallelität zum Sabbattag — dem siebenter Tag der Woche — zu zeigen).
-
 
 ## Die Verheißung
 
@@ -33,9 +30,7 @@ Vers 24 beschreibt das Endergebnis nach diesen 490 Jahren:
 - Vision und Prophetie versiegeln: Versiegeln ist oft Bestätigung
 - “ein Allerheiligstes zu salben”: Das Allerheiligste wäre der Tempel, aber es kann [Jesus](https://www.bibleserver.com/SLT/R%C3%B6mer3%2C25) sein, der sogar [größer als der Tempel](https://www.bibleserver.com/SLT/Matth%C3%A4us12%2C6) ist und gesalbt wurde.
 
-
 Wenn wir uns das anschauen, dann ist das mehr, als in der Geschichte bisher geschehen ist, und das ist zum Teil das, was Jesus am Kreuz getan hat: Er ist für unsere Sünden gestorben, er hat uns durch den Heiligen Geist seine Gebote ins Herz geschrieben und vieles mehr.
-
 
 ## Die 70 Jahrwochen
 
@@ -45,7 +40,6 @@ Lassen Sie uns den Rest auch noch aufschlüsseln. Der Rest soll in drei Teile ge
 - 7 Wochen (Erlass, den Tempel wieder aufzubauen)
 - 62 Wochen (der Tempel ist gebaut)
 - 1 Woche (um alles zu vollenden)
-
 
 Vers 25: [So wisse und verstehe: Vom Erlass des Befehls zur Wiederherstellung und zum Aufbau Jerusalems bis zu dem Gesalbten[2], dem Fürsten, vergehen 7 Wochen und 62 Wochen; Straßen und Gräben werden wieder gebaut, und zwar in bedrängter Zeit.](https://www.bibleserver.com/SLT/Daniel9%2C25)
 
@@ -69,7 +63,6 @@ In der Mitte der “Sieben” wird er dem Opferdienstes ein Ende setzen, weil [d
 
 Er wird Gräuel der Verwüstung aufrichten ([im Original heißt es “er wird aufrichten](https://biblehub.com/interlinear/daniel/9-27.htm)), wir haben also immer noch Tiberius. Es handelt sich um “[Flügel der Verwüstung](https://biblehub.com/interlinear/daniel/9-27.htm)”, die sich auf den Reichsadler der Römer beziehen. “Bis die Vernichtung ausgeschüttet ist” kann man besser übersetzen mit “bis das beschlossene Ende auf den Zerstörer gestzt ist” und meint, also bis das Römische Reich fällt, was uns wieder [zu Daniel 7 zurückbringt](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel).
 
-
 ## Die letzte Woche
 
 <a name="1ed3"></a>
@@ -79,14 +72,12 @@ Die erste Geschichte ist die Geschichte Israels und des Tempels und des Landes, 
 
 Beide Geschichten sind um 40 Jahre zeitversetzt. Aber wie ist das möglich? Jesus war zu Beginn seiner Berufung 40 Tage in der Wüste und hat all den Versuchungen widerstanden, an denen Israel beim Auszug aus Ägypten in der Wüste gescheitert ist. Deshalb musste Israel 40 Jahre in der Wüste umherwandern, bis es ins Gelobte Land kam. Hier wird die Geschichte auf den Kopf gestellt.
 
-
 ## Die Geschichte Israels
 
 <a name="76e7"></a>
 Im Jahre 66 begann der erste jüdische Krieg, und nach der Hälfte der sieben Jahre wurde der Tempel zerstört und nicht wieder aufgebaut. Auf den Flügeln des Zerstörers wurde er zerstört und somit war der Opferdienst nicht mehr möglich.
 
 Der Krieg endete nach sieben Jahren im Jahr 73 und nach weiteren Unruhen wurde Israel schließlich nach einem weiteren Krieg deportiert. Israel hatte Tempel, Stadt und Land verloren.
-
 
 ## Die Geschichte von Jesus
 
@@ -101,9 +92,7 @@ Ich denke, dass die letzten 3,5 Jahre aus folgenden Gründen symbolisch sind:
 - Niemand kennt die Stunde und den Tag der Wiederkunft Jesu, die auch die Erfüllung der Verheißungen aus Vers 24 ist.
 - Die Gemeinde soll Jesus in allem folgen, was er tut. Da Jesus 3,5 Jahre gewirkt hat, soll die Gemeinde dasselbe tun und deshalb wird auch die gleiche Zeitspanne verwendet.
 
-
 ## Zur Vertiefung
 
 [Wuppertaler Studienbibel, Der Prophet Daniel, Seiten 334–354](../../../../about/ressources/index.html#daniel)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-70-year-weeks.de.md)

@@ -3,9 +3,7 @@ title: "The role of family in the Bible"
 weight: 1
 ---
 
-
 Does the Bible support and encourage patriarchal structures? Does it support the idea that women are not so important? You are far off, but let me explain what the family was like in ancient culture.
-
 
 ## The importance of family
 
@@ -20,7 +18,6 @@ Furthermore God likes to choose important people like kings from [unimportant fa
 
 The Bible emphasizes the redeemer ([the next of kin who needs to rescue](https://www.bibleserver.com/NIV/Leviticus25%3A47-49)), is a role that [God taken on](https://www.bibleserver.com/NIV/Isaiah44%3A24-28) because society has often failed to do so, which is[ a key topic in the Christian faith](https://www.bibleserver.com/NIV/Ephesians1%3A7).
 
-
 ## The patriarch
 
 <a name="7e2f"></a>
@@ -30,7 +27,6 @@ The family consists of
 - their sons and daughters,
 - the wives and children of the sons.
 
-
 A family could be up to three generations and 30 people. This family lived and worked together.
 
 The role of the patriarch was to
@@ -38,7 +34,6 @@ The role of the patriarch was to
 - Financial support of the family,
 - To enforce law, justice and morality,
 - Take care of the disadvantaged in the family (e.g. illness, war, famine). In extreme situations (famine, debts, …) the patriarch had to decide who will survive and who will not, who will go into slavery and who will be bought out of it.
-
 
 When the patriarch dies or the family becomes too large, it splits and the oldest male in each family becomes patriarch.
 
@@ -54,9 +49,7 @@ It was common in those days to have multiple wives (e.g. in case one did not bea
 - [Solomon and his downfall](https://www.bibleserver.com/NIV/1%20Kings11%3A3),
 - [intervention when a man has two wives](https://www.bibleserver.com/NIV/Deuteronomy21%3A17).
 
-
 [Women were allowed to inherit according to the law](https://www.bibleserver.com/NIV/Numbers36) and were encouraged to have an [independent business even acting as patriarchs and being praised by their husbands](https://www.bibleserver.com/NIV/Proverbs31%3A15-31).
-
 
 ## The inheritance
 
@@ -73,11 +66,9 @@ A woman was in a very tough situation because she belonged to the
 - becomes a wive and joins her husband’s family,
 - is taken care of by her sons after her husband’s death when she joins one of their families.
 
-
 The Bible [shows a woman who fell through all these nets](https://www.bibleserver.com/NIV/Ruth1%3A1-5) and yet was [covered by her redeemer, Boas](https://www.bibleserver.com/NIV/Ruth4).
 
 Another case is [Tamar who is judged righteous because Judah did not provide her with a husband so that she would be protected by a family](https://www.bibleserver.com/NIV/Deuteronomy24%3A19-21).
-
 
 ## The land
 
@@ -86,20 +77,12 @@ The land was the place where the family could live off and this land was given f
 
 If the family had to sell the land, it would ruin them, so the Bible makes sure that the [land is given back](https://www.bibleserver.com/NIV/Leviticus25%3A10).
 
-
 ## God and the family
 
 <a name="01d7"></a>
 God is portrayed as a father, Jesus as the first born who takes care of the others and he [gives a house with many apartments](https://www.bibleserver.com/NIV/John14%3A1-3) so that we can all live together.
 
-
 ## Dig Deeper
 
 [Sandra Richter, The Epic of Eden, pages 21–46](../../../../about/ressources/index.html#richter)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-role-of-family-in-the-bible.md)

@@ -2,9 +2,7 @@
 title: "The letters to the seven churches"
 ---
 
-
 The book of Revelation shows seven letters to seven specific churches. What is the purpose? What is the structure? And what is the overall massage?
-
 
 ## You may want to read before
 
@@ -13,8 +11,6 @@ The book of Revelation shows seven letters to seven specific churches. What is t
 - [What type of book is this](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 - [The vision](../../../../content/letters/expl/the-vision)
 - [The angels of the churches](../../../../content/letters/expl/the-angel-of-the-churches)
-
-
 
 ## The vision
 
@@ -27,7 +23,6 @@ And this is what the churches will be judged for.
 
 At the beginning of this chapter we saw what Jesus did, now we see the situation the churches are in, and we will see what God is doing to move forward to the perfection of the churches.
 
-
 ## The letters
 
 <a name="4b58"></a>
@@ -38,13 +33,11 @@ In each of the letters
 - confronts them for their shortcomings, and
 - finally, gives them a promise to overcome their shortcomings or to continue their good works.
 
-
 The letters are arranged symmetrically:
 
 - The first and the last are churches with absolute failures. The last church, Laodicea, is the only one without any praise, and the first church is threatened that their lamb stand will be taken away if they don’t change — in terms of the vision above, this church has lost its purpose and has no need to continue to exist.
 - The second and penultimate churches are those that receive no reproof, only praise.
 - The third through the fifth are churches with some good and some bad, while the fourth is used as an example for other churches.
-
 
 When we compare the pairs, we find interesting points:
 
@@ -52,8 +45,6 @@ When we compare the pairs, we find interesting points:
 - Smyrna and Philadelphia: Both churches face persecution: Smyrna fears prison and Philadelphia is poor. Both have Jewish opposition. Philadelphia has the promise that the Jews will convert, Smyrna does not. But whatever the situation, both churches should keep the faith to continue their work. The promise is that Jesus will see them through, not that all their activities will be successful.
 - Pergamon and Sardis: It seems hard to compare the fornication of Pergamon with the lack of the Spirit in Sardis. Could it be that the problem exists in both churches because the leadership allows wrong influences (perhaps in the form of teaching)? That’s why the leadership should be especially careful to give the Holy Spirit freedom, but not freedom from everyone’s teaching.
 - Thyatira: This is the central message and the main point is an evil leadership and Jesus will judge this church so that everyone will be a witness. Perhaps the main point is to emphasize the importance of the leaders’ witness to the church.
-
-
 
 ## Further reading
 
@@ -66,15 +57,7 @@ When we compare the pairs, we find interesting points:
 - [The church in Philadelphia](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
 - [The church in Laodicea](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
 
-
-
 ## Dig Deeper
 
 [Beale, Revelation, pages 223–228](../../../../about/ressources/index.html#aune_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letters-to-the-seven-churches.md)

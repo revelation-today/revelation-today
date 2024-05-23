@@ -3,9 +3,7 @@ title: "İsa ve antlaşma"
 weight: 5
 ---
 
-
 İsa yeryüzüne geldiğinde, Yahudiler için gerçekten şok edici olan mesajı ve davranışlarıyla insanları “şaşırttı”. Neden ve bunun antlaşmayla ne ilgisi var?
-
 
 ## Rab’bin Günü beklentisi
 
@@ -17,8 +15,6 @@ weight: 5
 - İsrail reddedilmiş ve Tanrı Romalıları seçmiştir (Yahudi tarihçi Josephus)
 - yasaya itaati yoğunlaştırmak ve Roma liderliğine uymak ve onlarla işbirliği yapmak (Sadukiler)
 - yasaya itaatin ve Romalılara karşı aktif direnişin yoğunlaştırılması (Zelotes)
-
-
 
 ## Meydan okuma
 
@@ -36,8 +32,6 @@ Ama bu devam eder. Bundan hemen sonra Markos, Rab’bin gününün duyurulduğu 
 - Fırtınanın dinmesi Çıkış’ı hatırlatıyor
 - günahkârlarla birlikte yenen yemek, Tanrı’nın halkıyla birlikte vereceği son ziyafetin bir habercisidir
 
-
-
 ## İsa’nın öğretileri
 
 <a name="9f5f"></a>
@@ -54,7 +48,6 @@ Krallığın gelişi (İsrail Rab’bin Günü ile birlikte hüküm sürecektir)
 - [Tüm hamuru değiştiren maya](https://www.bibleserver.com/TR/Matta13%3A33) (maya Eski Ahit’te Tanrı’nın krallığı için bir resim olarak hiç kullanılmamıştır) — küçük bir miktar gizlide durdurulamaz büyük bir miktara dönüşür
 - [gizli hazine ve inci ](https://www.bibleserver.com/TR/Matta13%3A44-46)— hazinenin aranması gerekir, bulunursa diğer her şeyden vazgeçilir
 
-
 Ayrıca güzel sözlerin açıklaması İsrail için bir meydan okumadır — çünkü bu İsrail’i gerçek İsrail olmaya zorlar çünkü tüm vaatler İsa’ya sadık olanlara verilmiştir:
 
 - [ruhu yoksul olanlar krallığı alır](https://www.bibleserver.com/TR/Matta5%3A3)
@@ -62,8 +55,6 @@ Ayrıca güzel sözlerin açıklaması İsrail için bir meydan okumadır — ç
 - [uysallar toprağı miras alacak](https://www.bibleserver.com/TR/Matta5%3A5)
 - [Kalbi temiz olanlar Tanrı’yı görecek](https://www.bibleserver.com/TR/Matta5%3A8)
 - [barışı sağlayanlar Tanrı’nın çocukları olarak adlandırılanlardır](https://www.bibleserver.com/TR/Matta5%3A9) (İsrail için kullanılan unvan)
-
-
 
 ## Yeni bir düşünce
 
@@ -74,20 +65,17 @@ Ayrıca güzel sözlerin açıklaması İsrail için bir meydan okumadır — ç
 - İsrail’in kalıntılarını geri getirin ki
 - inanmayan uluslar üzerinde yönetici olacaklar.
 
-
 Birkaç yanlış kavrama vardı
 
 - İsrail düşmanlarının baskı uygulayan uluslar olduğunu düşünüyordu
 - Geriye kalanların Ferisiler gibi dindar insanlar olduğunu
 - hükmetmek, diğer ulusların yaptığı gibi başkalarına hükmetmek anlamına gelir
 
-
 Her şeyden önce İsa çok farklı bir yönetim anlayışını temsil ediyordu.
 
 İkinci olarak İsa, düşmanlarının o dönemde İsrail’e baskı yapan Romalılar olmadığını, [düşmanlarının birçok kez kovduğu cinler olduğunu](https://www.bibleserver.com/TR/Markos3%3A22-27) çok açık bir şekilde ifade etmiştir. [Onları kovmak Rab’bin Günü’nün geldiğini gösteren bir işarettir](https://www.bibleserver.com/TR/Matta12%3A28). [Bu durum özellikle onun ölümü için geçerliydi](https://www.bibleserver.com/TR/Yuhanna12%3A31-33)
 
 Son olarak kalanlar dindar insanlar değil, [sadece İsa’nın kendisi](../../../../bible/daniel/expl/the-son-of-man-and-the-remnant) olan Tanrı’nın antlaşmasına uyanlardır. Diğerleri kalanlar kapsamına girmez ve İsrail’in de içinde bulunduğu yargıya tabi olurlar.
-
 
 ## Zaten ama henüz değil
 
@@ -98,9 +86,3 @@ Son olarak kalanlar dindar insanlar değil, [sadece İsa’nın kendisi](../../.
 
 İsa yargılamak için gelmedi, çünkü bu kez [herkesi yargılaması gerekecekti](https://www.bibleserver.com/TR/Matta11%3A20-24), bu yüzden Rab’bin Günü’nü ikiye ayırdı.
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/jesus-and-the-covenant.tr.md)

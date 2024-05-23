@@ -3,11 +3,9 @@ title: "Die Geschichte von Moses"
 weight: 20
 ---
 
-
 Die Geschichte von Moses widerspricht allen Heldengeschichten der Antike und ist doch eine Erfolgsgeschichte — warum?
 
 Die Geschichte selbst hat nur zwei Kapitel und ist es wert, vorher gelesen zu werden. Zuerst kommt die Geschichte, wie der [Pharao versucht, Israel klein zu halten](https://www.bibleserver.com/SLT/2.Mose1) um “[ein zweites Hyksos](../../../../bible/exodus/expl/the-story-before-the-exodus)” zu verhindern und dann folgt die [eigentliche Geschichte von Mose](https://www.bibleserver.com/SLT/2.Mose2).
-
 
 ## Das Vermeiden eines “zweiten Hyksos”
 
@@ -22,8 +20,6 @@ Der Pharao versucht alles, um zu verhindern, dass Israel ein großes Volk wird. 
 | Die Neugeborenen sollen in den Nil geworfen werden. | Als Moses in den Nil geworfen wird, wird die Kiste mit [demselben Wort ](https://biblehub.com/hebrew/strongs_8392.htm)bezeichnet wie die Arche Noah’s, ein Ort der Rettung. |
 | Moses ist die Schlüsselfigur in der Geschichte und er ist derjenige, der den Pharao besiegt. | Er wird von der [Tochter ebendiesen Pharaos aufgezogen und er bezahlt seine leibliche Mutter, um ihn die ersten Jahre seines Lebens zu begleiten](https://www.bibleserver.com/SLT/2.Mose2%2C5-10). |
 
-
-
 ## Die Geschichte des Mose
 
 <a name="659b"></a>
@@ -36,8 +32,6 @@ Die Geschichte des Mose ist die Umkehrung der Heldengeschichten jener Zeit. Ich 
 | Die Identität des Kindes ist unbekannt und wird nur am Ende der Geschichte wirklich bekannt. | Mose’s Identität ist [schon zu Beginn von der Tochter des Pharao’s bekannt](https://www.bibleserver.com/SLT/2.Mose2%2C6). |
 | Die Entdeckung seiner wahren Identität ist der Wendepunkt in der Geschichte und gibt ihm den entsprechenden Status. | Mose’s wahre Identität bring ihn in Schwierigkeiten und er muss fliehen, um zu überleben. |
 | Der Grund für die Geschichte ist, zu zeigen, warum dem Helden am Ende die Macht zusteht. | Die Geschichte zeigt nicht, was Mose zusteht, sondern wie Gott versorgt und in Kontrolle über die Situation ist. |
-
-
 
 ## Die weitere Geschichte von Mose
 
@@ -58,6 +52,3 @@ Doch am Ende geht alles gut aus, denn der wahre Held ist nicht Mose, sondern Got
 
 [Nahum Sarna, Exodus, Seiten 27–37](../../../../about/ressources/index.html#sarna_exo)
 
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-birth-of-moses.de.md)

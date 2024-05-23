@@ -3,9 +3,7 @@ title: "Jesus and the covenant"
 weight: 5
 ---
 
-
 When Jesus came to earth, He “surprised” people with His message and His behavior, which was truly shocking to the Jews. Why and what does this have to do with the covenant?
-
 
 ## The expectation of the Day of the Lord
 
@@ -17,8 +15,6 @@ At the time of Jesus, the Jews were awaiting the Day of the Lord, and there were
 - Israel is rejected and God chooses the Romans (Jewish historian Josephus),
 - Increased observance of the law and submission to and cooperation with the Roman leadership (Sadducees),
 - Increased observance of the law and active resistance against the Romans (Zelotes)
-
-
 
 ## The challenge
 
@@ -34,8 +30,6 @@ But this goes on. Immediately after this, Mark refers to Isaiah, where the Day o
 - The multiplication of bread recalls the manna in the desert.
 - The calming of the storm recalls the Exodus.
 - The meal with the sinners anticipates the final banquet of God with His people.
-
-
 
 ## The teachings of Jesus
 
@@ -53,7 +47,6 @@ The coming of the Kingdom (Israel will reign with the Day of the Lord) will come
 - [yeast, which changes the whole dough](https://www.bibleserver.com/NIV/Matthew13%3A33) (yeast was never used in the Old Testament as picture for the Kingdom of God) — a small amount turns unstoppably into a large amount in the hidden,
 - [the hidden treasure and the pearl](https://www.bibleserver.com/NIV/Matthew13%3A44-46) — the treasure must be sought, and when it is found, everything else must be given up.
 
-
 The description of the beatitudes is also a challenge to Israel — because it challenges Israel to be true Israel, for all the promises are given to those who are faithful to Jesus:
 
 - [The poor in spirit will receive the kingdom](https://www.bibleserver.com/NIV/Matthew5%3A3).
@@ -61,8 +54,6 @@ The description of the beatitudes is also a challenge to Israel — because it c
 - [The meek shall inherit the land](https://www.bibleserver.com/NIV/Matthew5%3A5).
 - [The pure in heart shall see God](https://www.bibleserver.com/NIV/Matthew5%3A8).
 - [Peacemakers are those who are called children of God](https://www.bibleserver.com/NIV/Matthew5%3A9) (title for Israel).
-
-
 
 ## A new thinking
 
@@ -73,20 +64,17 @@ When Jesus came, people did not recognize His coming. They expected something el
 - to restore the remnant of Israel so that
 - be rulers over the unbelieving nations.
 
-
 There were some misconceptions
 
 - Israel thought that the enemies were the oppressing nations.
 - That the remnant were the religious people like the Pharisees.
 - To rule means to rule over others as the other nations did.
 
-
 First, Jesus presented a very different concept of rulership.
 
 Second, Jesus was very clear that the enemies were not the Romans who were oppressing Israel at that time, but [the enemies were the demons](https://www.bibleserver.com/NIV/Mark3%3A22-27) that He drove out on many occasions. [Driving them out is a sign that the Day of the Lord has come](https://www.bibleserver.com/NIV/Matthew12%3A28). This was especially [true at His death](https://www.bibleserver.com/NIV/John12%3A31-33).
 
 Finally, the remnant are not the religious people, but those who keep the covenant of God, which [is only Jesus Himself](../../../../bible/daniel/expl/the-son-of-man-and-the-remnant). All others do not belong to the remnant and would be subject of the judgment, which is also Israel.
-
 
 ## Already but not yet
 
@@ -97,9 +85,3 @@ But if you compare it with the [passage of Isaiah](https://www.bibleserver.com/N
 
 Jesus did not come to judge because [He would have to judge everyone](https://www.bibleserver.com/NIV/Matthew11%3A20-24) at this time, so He divided the Day of the Lord into two parts.
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/jesus-and-the-covenant.md)

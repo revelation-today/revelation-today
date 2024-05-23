@@ -3,9 +3,7 @@ title: "Das Sendschreiben an Laodizäa"
 weight: 7
 ---
 
-
 Das ist wohl der [bekannteste Brief an die Gemeinde](https://www.bibleserver.com/SLT/Offenbarung3%2C14-22) und wir alle kennen das Thema “lauwarm”. Aber verstehen wir wirklich den Zusammenhang? Vor allem, wenn es um eine Gemeinde geht, die kein Lob bekommt, nicht einmal ein kleines!
-
 
 ## Der historische Hintergrund
 
@@ -16,13 +14,10 @@ Laodicea lag an der Kreuzung mehrerer Handelsstraßen und war eine sehr reiche S
 - hatte eine Schafzucht, die sie mit feiner und wertvoller schwarzer Wolle versorgte,
 - hatte ein medizinisches Zentrum, das für seine Augensalbe bekannt war.
 
-
-
 ## Jesu Sicht
 
 <a name="ffea"></a>
 Jesus kommt als “treuer Zeuge” und “Amen”, weil Laodizea nicht echt ist. Ihr Hauptproblem ist die Selbstwahrnehmung. Sie denken, sie sind Gottes Geschenk an die Welt, aber in [Wirklichkeit versagen sie genau dort, wo sie sich kompetent fühlen](https://www.bibleserver.com/SLT/Offenbarung3%2C17).
-
 
 ## Das Problem
 
@@ -36,11 +31,9 @@ Damals gab es “gutes” Wasser in zwei Formen:
 - Heiß: Es konnte in heißen Quellen zur Heilung verwendet werden.
 - Kalt: Es war erfrischend zu trinken.
 
-
 Aber in Laodizea gab es nichts von beidem — nur lauwarmes Wasser, das man beim Trinken ausspuckt.
 
 Es gibt viele Wege, eine effektive Gemeinde zu sein: Evangelisation, Gebet, Heilung, Dienst an den Armen, …. Alles ist gut, aber Laodizea hatte nichts davon und war so nützlich wie lauwarmes Wasser.
-
 
 ## Die Lösung
 
@@ -59,5 +52,3 @@ Was bedeutet das nun für Laodizea? Ist das Motivation genug für sie?
 
 [Gordon Fee, Revelation, Seiten 57](../../../../../about/ressources/index.html#fee_rev)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-laodicea.de.md)

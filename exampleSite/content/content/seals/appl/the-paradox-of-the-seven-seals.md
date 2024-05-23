@@ -3,15 +3,12 @@ title: "The paradox of the seven seals"
 weight: 1
 ---
 
-
 The seven seals is the time when the book becomes really confusing and even disturbing. What is it all about? What is in the book of the seven seals, and who are these riders?
-
 
 ## Our text
 
 <a name="a892"></a>
 We are now in [chapter 5](https://www.bibleserver.com/NIV/Revelation5) and [6](https://www.bibleserver.com/NIV/Revelation6).
-
 
 ## The book and the Lamb
 
@@ -26,7 +23,6 @@ He sees a slaughtered lamb, Jesus on the cross. A victory not by power but by sa
 
 And not only that: The whole of heaven and earth turns their worship of God into worship of the Lamb who is now in the center, and God approves! Jesus is the only one besides God who is worthy of worship — John tried this twice to an angel and was severely rebuked.
 
-
 ## Our paradox
 
 <a name="d2bc"></a>
@@ -36,8 +32,6 @@ Well, we are wrong on both aspects:
 
 - God intervenes in all evil, but not in our way. We only see the options of punishment or imprisonment. Ways to contain the evil so that it doesn’t spread and to consider it only with a certain level of evilness (murder must be punished, but jealousy is okay). God is more radical: evil is evil even in small things, because it grows with time and circumstances. So he attacks them all.
 - His action is not to punish, but to restore people so that they stop doing evil. All the contents of the book look really drastic, but their focus is not on the execution of punishment, but they have a very different intention that we will explore.
-
-
 
 ## The fake lion of Judah
 
@@ -52,7 +46,6 @@ The sixth seal is full of drama. Jesus comes and ends it all. The people want to
 
 So everything depends on the good witness of the Church.
 
-
 ### Reflection
 
 <a name="8333"></a>
@@ -63,12 +56,6 @@ So everything depends on the good witness of the Church.
 - How do you respond when people speak ill of the church?
 - Can you think of a promise made by an organization or government that ended up causing more pain? What initiative really made a difference, even when it seemed hopeless? What was the difference?
 
-
-
-
-
-
-
 ## Digging deeper
 
 <a name="06f1"></a>
@@ -78,10 +65,3 @@ So everything depends on the good witness of the Church.
 - [The mystery of the four horsemen](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
 - [The wrath of the lamb](../../../../content/seals/expl/the-wrath-of-the-lamb)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/appl/the-paradox-of-the-seven-seals.md)

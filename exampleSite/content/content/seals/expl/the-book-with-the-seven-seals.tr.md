@@ -3,9 +3,7 @@ title: "Yedi Mühürlü Kitap"
 weight: 2
 ---
 
-
 Anlaşılması zor olan bir şeye yedi mühürlü kitap dendiğini hiç duydunuz mu? Ve bu İncil’den geliyor. Evet, İncil’den geliyor ama çok farklı bir anlamı var.
-
 
 ## Yedi mühürlü kitap
 
@@ -22,7 +20,6 @@ Ama sadece biri onu açabilirdi: Yahuda’nın aslanı. Yuhanna’nın duyduğu 
 
 Bir önceki bölümde her şeyin tahtın etrafında toplandığını görmüştük. Şimdi her şey İsa’nın etrafında toplanıyor, her şeyin merkezinde o var ve ona tapınılıyor. Ve Tanrı da bunu onaylıyor. Bu İsa’nın gerçekten Tanrı olduğunu gösterir, çünkü sadece Tanrı’ya tapınılmasına izin verilir.
 
-
 ## Yedi mühür
 
 <a name="308c"></a>
@@ -34,7 +31,6 @@ Kutsallar orada dışlanmadığı için, bunu borazanlar sırasında göreceğiz
 
 144000'in araya girmesinden sonra yedinci mühür açılır. Bu yarım saatlik bir sessizliği gösterir. Sessizliğin Kutsal Kitap’ta kendine has bir anlamı vardır ama Yahudi literatüründe cennetteki sessizlik zamanı ile Tanrı’nın azizlerin dualarını işittiği zaman arasında güçlü bir bağ vardır. Bu, azizlerin dualarının odak noktası haline geldiği beşinci mühür fikrini devam ettirir. Azizlerin duasından sadece mühürleri ve borazanları birbirine bağlayan ve orada merkezi bir rol oynayan dualardan bahsedilse bile
 
-
 ## Daha fazla okuma
 
 <a name="4db0"></a>
@@ -44,4 +40,3 @@ Kutsallar orada dışlanmadığı için, bunu borazanlar sırasında göreceğiz
 
 [Beale, Revelation, sayfalar 337–369](../../../../about/ressources/index.html#beale_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-book-with-the-seven-seals.tr.md)

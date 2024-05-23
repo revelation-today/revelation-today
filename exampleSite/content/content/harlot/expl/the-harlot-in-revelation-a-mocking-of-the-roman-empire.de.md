@@ -3,9 +3,7 @@ title: "Die Hure Babel: Ein Spottlied auf das Römische Reich"
 weight: 5
 ---
 
-
 Die Geschichte von der Hure Babel in der Offenbarung ist eine der komplexesten Erzählungen des Buches und verwendet sehr subtile Ironie gegen das Römische Reich. Bist du bereit?
-
 
 ## Die Münze
 
@@ -29,9 +27,7 @@ Was hat der Text der Apokalypse mit dieser Münze zu tun?
 - Die Hügel Roms stehen für das Tier und die Könige, die die Hure Rom zerstören werden — Roma ist das Opfer der Stadt, die sie beschützt.
 - Das Schwert Roms schützt nicht vor Feinden, sondern ist mit dem Blut der Heiligen getränkt.
 
-
 Die Münze zeigt, wie der [Römische Friede](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) in ein Bild des Ekels und des Abscheus verwandelt wird, das jeden Gläubigen, der die Münze sieht, daran erinnert, dass man Rom nicht trauen kann — eine wirksame Gegenpropaganda.
-
 
 ## Die [Ekphrasis](https://de.wikipedia.org/wiki/Ekphrasis)
 
@@ -49,7 +45,6 @@ Diese Tafel ist wahrscheinlich die Grundlage für Offenbarung 17. Sie beschreibt
 - Eine große Menschenmenge will eintreten.
 - Am Eingang steht eine Frau und bietet jedem einen Becher an. Ihr Name: Täuschung, ihr Getränk: Irrtum und Dummheit.
 
-
 Eine weitere Parallele zu Offenbarung 17 könnte die [Ode des Salomon](https://de.wikipedia.org/wiki/Oden_Salomos) 38/9–14 sein, wo Irrtum und Dummheit die Braut und den Bräutigam nachahmen. Der Wein bei der Hochzeit führt dazu, dass die Gäste ihren Verstand erbrechen.
 
 Die Botschaft dieser Ekfrasis ist es zu zeigen, dass
@@ -62,5 +57,3 @@ Die Botschaft dieser Ekfrasis ist es zu zeigen, dass
 
 [Aune, Revelation, Seiten 919–928](../../../../about/ressources/index.html#aune_rev)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire.de.md)

@@ -3,15 +3,12 @@ title: "The answer to all questions"
 weight: 1
 ---
 
-
 How should all the challenges of the churches be answered? What is the plan of action that God will take? It is simple: God is not doing anything, he is resting in worship and that is where we need to start.
-
 
 ## Our text
 
 <a name="8bf5"></a>
 We are now in [chapter 4](https://www.bibleserver.com/NIV/Revelation4).
-
 
 ## What is worship?
 
@@ -27,8 +24,6 @@ It is a place of intense relationship with God.
 - As we worship and get to know God better, we are unlikely to fall into false doctrine.
 - The place of worship is the place where we are reminded that God cares for us, which gives us rest in trouble and persecution, but also makes us live and care for others, especially knowing that they do not have such a refuge.
 
-
-
 ## The base
 
 <a name="91eb"></a>
@@ -37,7 +32,6 @@ The place of worship is the throne room. God rules and receives unchanging worsh
 But how does this relate to worship? Did you notice the rainbow in this chapter? There are several other indicators that everything that comes out of there is based on grace and mercy.
 
 So let’s see how this works.
-
 
 ## Reflection
 
@@ -48,22 +42,9 @@ So let’s see how this works.
 - How has worship changed you?
 - How do you worship? What does worship look like in your daily life?
 
-
-
-
-
-
-
 ## Digging deeper
 
 <a name="06f1"></a>
 - [Worship at the throne](../../../../content/worship/expl/worship-in-the-throne-room)
 - [What is worship?](../../../../topics/power/short/worship)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/appl/the-answer-to-all-questions.md)

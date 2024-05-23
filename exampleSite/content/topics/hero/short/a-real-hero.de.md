@@ -2,15 +2,12 @@
 title: "Echte Helden"
 ---
 
-
 Was ist ein Held? Wenn man sich Hollywood oder andere Quellen ansieht, ist es eine Person, die Zerstörung bringt (das Böse tötet), um Gutes zu tun. Aber was sollte einen Helden ausmachen? Und was sagt die Bibel dazu?
-
 
 ## Die beiden Reiche
 
 <a name="3493"></a>
 Es gibt zwei Reiche: Das Reich des Mangels und das Reich des Überflusses. Manche bezeichnen sie auch als Bettler und Könige.
-
 
 ## Das Reich des Mangels
 
@@ -20,7 +17,6 @@ Im Reich des Mangels sind die Ressourcen begrenzt. Wenn du etwas hast, hat es je
 Die Menschen in diesem Bereich mögen gut sein, aber ihre Antwort auf das Böse ist nur Einschränkung (Gefängnis, Umerziehung) oder Zerstörung (Töten). Ihre Helden sind diejenigen, die stärker sind als die Bösen und es schaffen, sie töten oder binden.
 
 Das Problem ist, dass es keine klare Grenze zwischen Gut und Böse gibt, so dass auch die Helden mit einem Bein auf der bösen Seite stehen, denn der Zweck muss die Mittel heiligen. Deshalb lautet ein Schlüssel in diesem Reich: Sei nicht zu gut (das bringt nichts) und sei nicht zu böse (dann gibt es keine Gnade). Schließe Frieden mit Gier und Missbrauch (etwas übertrieben), denn welche Wahl hast du, wenn die Ressourcen begrenzt sind? Außerdem gibt es dann keinen Raum mehr für Gnade und Barmherzigkeit mit deinem Feind, denn dann kann er sie sich holen und dich vernichten.
-
 
 ## Das Reich des Überflusses
 
@@ -32,7 +28,6 @@ Deshalb ist die Antwort auf das Böse eine andere als im anderen Reich. Hier wir
 Es ist in Ordnung, wenn ein Held nicht perfekt ist, denn auch er kann heilen, während die anderen ihm helfen.
 
 Es geht darum, Vertrauen zu lernen, zu geben und zu lieben.
-
 
 ## Ein echter Held
 
@@ -51,7 +46,3 @@ Aber ein Superheld ist anders: Er muss sich nicht darum kümmern, sich zu schüt
 
 Er kann heilen und wiederherstellen, weil er keine Angst haben muss, überwältigt zu werden. Er kann teilen, weil er sich versorgt weiß.
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/a-real-hero.de.md)

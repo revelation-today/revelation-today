@@ -3,9 +3,7 @@ title: "Das Sendschreiben an Sardis"
 weight: 5
 ---
 
-
 Wie sieht eine tote Gemeinschaft aus? Wie wird sie wieder lebendig? Willst du mehr wissen? Dann lies den [Brief an Sardes](https://www.bibleserver.com/SLT/Offenbarung3%2C1-6) an.
-
 
 ## Der historische Hintergrund
 
@@ -16,7 +14,6 @@ Sie war nahezu uneinnehmbar, da sie 500 m über dem Tal lag, keine Verbindung zu
 
 Die Stadt galt als sehr wichtig. Als sie z.B. im Jahre 17 v. Chr. durch ein Erdbeben zerstört wurde, wurde sie unter Kaiser Tiberius wieder aufgebaut und bereits nach 9 Jahren wurde ein Tempel für den Kaiser errichtet.
 
-
 ## Jesu Sicht
 
 <a name="4d09"></a>
@@ -25,7 +22,6 @@ Jesus spricht zur [Gemeinde in der Fülle des Heiligen Geistes und erinnert sie 
 Es gibt sehr wenig Lob: nur für einige wenige, die ohne Schuld sind.
 
 Aber es gibt umso mehr Tadel: Die Gemeinde ist tot, ihre Werke sind unzulänglich und sie müssen schnell handeln. Aber wo liegt das Problem?
-
 
 ## Das Problem
 
@@ -40,7 +36,6 @@ Auch der Hinweis “[habe deine Werke nicht für vollkommen befunden vor Gott](h
 
 Sie müssen schnell handeln oder Gott wird sie überraschend treffen, denn ein Leben ohne den Heiligen Geist ist auf Dauer nicht möglich.
 
-
 ## Die Verheißung
 
 <a name="1e06"></a>
@@ -50,9 +45,7 @@ Dass ihr Name nicht aus dem Buch des Lebens gestrichen wird, bedeutet, dass sie 
 
 ## Zur Vertiefung
 
-
 [Beale, Revelation, Seiten 272–282](../../../../../about/ressources/index.html#beale_rev)
 
 [Gordon Fee, Revelation, Seiten 44–45](../../../../../about/ressources/index.html#fee_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-sardis.de.md)

@@ -3,9 +3,7 @@ title: "Gods army and the seven angels"
 weight: 2
 ---
 
-
 Chapter 14 of the book of Revelation is one of the most puzzling chapters in the Bible and seems a bit lost and disconnected from the rest of the book. So we need to take a closer look at it.
-
 
 ## The 144.000
 
@@ -26,7 +24,6 @@ This is very intimidating, but God’s people are still standing. They have a so
 - [His perception and suppression with the two beasts](https://www.bibleserver.com/NIV/Revelation13) is a [disaster](../../../../content/beasts/expl/666-the-number-of-the-beast).
 - [And his victory over the saints backfires](../../../../content/witnesses/expl/the-two-witnesses).
 
-
 Not only that, but they fulfilled the [destiny of the little scroll](../../../../content/scroll/expl/the-little-scroll). But what is their secret? It is written here:
 
 “[These are those who did not defile themselves with women, for they remained virgins. They follow the Lamb wherever he goes. They were purchased from among mankind and offered as first fruits to God and the Lamb. No lie was found in their mouths; they are blameless.](https://www.bibleserver.com/NIV/Revelation14%3A4-5)”
@@ -36,9 +33,7 @@ Not only that, but they fulfilled the [destiny of the little scroll](../../../..
 - Because “they have been purchased”: They know that they were bought at a high price.
 - No lie was found in their mouths: They were faithful witnesses like Jesus, [who did not waver under pressure](https://www.bibleserver.com/NIV/1%20Peter2%3A22).
 
-
 To summarize: They lived their witness in the footsteps of Jesus without compromise, enduring hardship and even martyrdom.
-
 
 ## The first three angels
 
@@ -47,7 +42,6 @@ The first three angels reflect this tension:
 
 - The 144,000 are faithful and resist the beast and are a testimony to the nations who come to Christ.
 - People who give in to the stress and deception of the beast.
-
 
 The first angel comes and proclaims the eternal gospel:
 
@@ -62,7 +56,6 @@ The Psalm asserts that God is king and all nations are INVITED to worship Him.
 The second angel proclaims the victory over Babel while the third angel brings a stern warning of judgment for anyone who gives in to the beast. This also mirrors the [call to repentance](https://www.bibleserver.com/NIV/Revelation11%3A3) and the [warning judgments](https://www.bibleserver.com/NIV/Revelation11%3A5) of the two witnesses.
 
 The question is: What will be the result? Will the nations listen? We know from the story of the witnesses: [They will](../../../../content/witnesses/expl/the-two-witnesses).
-
 
 ## The two harvests
 
@@ -79,9 +72,7 @@ But there is a big differences with the grain harvest:
 - While the wine press includes the gathering AND the crushing, the grain harvest has ONLY the reaping. For the grain follows either the [threshing](https://www.bibleserver.com/NIV/Jeremiah51%3A33), [the burning of the staff](https://www.bibleserver.com/NIV/Matthew3:12) or the [blowing away](https://www.bibleserver.com/NIV/Psalm1%3A4), while the [reaping is a symbol of bringing people into the Kingdom of God](https://www.bibleserver.com/NIV/Mark4%3A29).
 - The grain harvest is done by “one like the Son of Man seated on a cloud wearing a crown”. This is a reference to [Daniel where he receives the eternal kingdom with all the nations worshiping him](https://www.bibleserver.com/NIV/Daniel7%3A13-14).
 
-
 So the result is two options for the nations: Judgment or salvation. The story of the two witnesses ends with the majority giving God the glory, but here the point is left open — for a moment.
-
 
 ## The song of Moses
 
@@ -103,11 +94,9 @@ All these links together span the content for the song of Mose and the Lamb. So 
 - It is demonstrating that he is the one God.
 - It brings all nations to worship him.
 
-
 The song is a proclamation that all nations will come to God and worship him. He does this by judging their enemies. The celebration is not about the salvation of the martyrs, but about the praise that God has brought to the nations.
 
 So, with the bowls of wrath, we see God dealing with the nations that refuse to worship and are loyal to the dragon and the beasts.
-
 
 ## Dig Deeper
 
@@ -117,9 +106,3 @@ So, with the bowls of wrath, we see God dealing with the nations that refuse to 
 
 [Bauckham, The climax of Prophecy, pages 283–307](../../../../about/ressources/index.html#bauckham_climax)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/expl/gods-army-and-the-seven-angels.md)

@@ -3,11 +3,9 @@ title: "The letter to the church in Pergamon"
 weight: 3
 ---
 
-
 This church is about to fail, and all because of Balaam? He is not really the problem.
 
 [The church in Pergamon](https://www.bibleserver.com/NIV/Revelation2%3A12-17)
-
 
 ## The historical background
 
@@ -18,7 +16,6 @@ The city was for a long time the seat of the Attides, who were a leading power i
 
 There were also many other temples dedicated to Zeus, Athena, Dionysis and Asclepius.
 
-
 ## Jesus’ view
 
 <a name="84e8"></a>
@@ -28,7 +25,6 @@ Jesus calls this place: “[where the Satan dwells and has his throne](https://w
 
 But there is one thing that breaks them: [Balaam and the Nikolaitans](https://www.bibleserver.com/NIV/Revelation2%3A14-15) or is it some other problem?
 
-
 ## The problem
 
 <a name="607a"></a>
@@ -37,7 +33,6 @@ The [story of Balaam shows the failure of an in consistent leadership](../../../
 There is no strong commitment from the leadership regarding false doctrine. Looking at the promise that Jesus offers, it seems that the problem was their lack of faith and their search for comforting teachings, which probably brought in the idea of compromising with their faith.
 
 And since every doctrine has an effect on action, it also had an effect on their behavior and witness. Perhaps the joint dinners dedicated to idols were encouraged by the false teaching.
-
 
 ## The solution
 
@@ -49,11 +44,9 @@ They will receive a white stone with a new name that can have two meanings:
 - It was used in [court to vote](https://www.bibleserver.com/NIV/Acts26%3A10), a white stone would indicate innocence (e.g., from being accused of attending meals dedicated to idols) and would enable them to attend the [marriage supper of the Lamb](https://www.bibleserver.com/NIV/Revelation19%3A9).
 - It was used as a pass for entry (perhaps to the marriage supper of the Lamb).
 
-
 A new name is usually associated with a [new identity](https://www.bibleserver.com/NIV/Genesis17%3A5), and knowing the new name indicates an intimate relationship between these people.
 
 God offers a new beginning if the church wants it. But [if they do not, Jesus will fight against them](https://www.bibleserver.com/NIV/Revelation2%3A16).
-
 
 ## Further reading
 
@@ -66,4 +59,3 @@ God offers a new beginning if the church wants it. But [if they do not, Jesus wi
 
 [Gordon Fee, Revelation, pages 33](../../../../../about/ressources/index.html#fee_rev)
 
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-pergamon.md)

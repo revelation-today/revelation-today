@@ -3,9 +3,7 @@ title: "Efes’teki kiliseye yazılan mektup"
 weight: 1
 ---
 
-
 Efes’teki kilise iyi bir kilise örneğidir. Ama görünüş aldatıcıdır. İsa’nın yargısı felakettir.
-
 
 ## Tarihsel arka plan
 
@@ -15,7 +13,6 @@ Efes, Roma İmparatorluğu’nun en büyük ve en önemli şehirlerinden biridir
 Efes ekonomik bir merkezdir ve Efes vatandaşlığına sahip çok sayıda diaspora Yahudisi (İsrail dışında yaşayan Yahudiler) vardır.
 
 Artemis tapınağı nedeniyle önemli bir turizm merkeziydi ve muhtemelen yedi kilisenin en büyüğüne sahipti.
-
 
 ## İsa’nın görüşü
 
@@ -28,8 +25,6 @@ Ancak İsa sorunu ele almadan önce bir sürü değerlendirme yapar:
 - Diğer kiliselerden bazılarının sorunu olan yanlış öğretiş ya da yanlış elçiler tarafından aldatılmadılar.
 - İsa’nın adıyla zorluklara dayanır
 
-
-
 ## Sorun
 
 <a name="1874"></a>
@@ -41,11 +36,9 @@ Ama yanlış olan bir şey var: İlk aşkı kaybetmek. Bu ne anlama geliyor? İs
 - Eğer kardeşlerimizi seversek, İsa’yı onlarda gördüğümüz gibi severiz ve müjdeyi tüm dünyayla paylaşmak için vaaz ederiz
 - Eğer dünyayı seviyorsak, İsa ve kilise onlara sunabileceğimiz en iyi şeydir
 
-
 Dolayısıyla müjdeyi paylaşmak bir sevgi eylemidir ve bunlardan birinde soğumak diğerini de azaltacaktır.
 
 Efes köklü bir kilise olabilir, ruhsal zorluklarla başa çıkma yöntemleri vardır, ama muhtemelen bunu neden yaptıklarını unutmuşlardır ve her şeyi düzeltmek için kendilerine çok fazla odaklanmışlardır.
-
 
 ## Çözüm
 
@@ -60,7 +53,3 @@ Yaşam ağacından yeme vaadi onları bahçede Tanrı’yla olan sorunsuz ilişk
 
 [Gordon Fee, Revelation, sayfalar 24](../../../../../about/ressources/index.html#fee_rev)
 
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-ephesus.tr.md)

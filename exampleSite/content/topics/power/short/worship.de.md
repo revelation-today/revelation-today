@@ -3,9 +3,7 @@ title: "Anbetung"
 weight: 1
 ---
 
-
 Das Schlüsselthema der Offenbarung ist nicht das Gericht, sondern die Anbetung, die das ganze Buch durchzieht und die wesentliche Antwort auf die Herausforderungen an die Gemeinden und vieles mehr ist. Aber was ist Anbetung und wie leben wir sie?
-
 
 ## Imitation
 
@@ -16,7 +14,6 @@ Manchmal enttäuscht uns unser Vorbild oder fordert uns so heraus, dass wir ihm 
 
 Vorbilder können uns aber auch in die Irre führen, falsche Werte vermitteln oder uns einfach allein lassen.
 
-
 ## Menschen in Beziehungen
 
 <a name="9262"></a>
@@ -26,7 +23,6 @@ Gott hat den Menschen als Beziehungswesen geschaffen. Jeder von uns ist direkt o
 - ermutigen, loben, trösten, lieben, vertrauen, Orientierung geben, …,
 - uns motivieren, unser Bestes zu geben (Kinder, Partner, …),…
 
-
 Selbst egoistische und böse Menschen brauchen Beziehungen, und sei es nur, um gefürchtet, beneidet oder gehasst zu werden.
 
 Aber als Menschen leben wir in einem Konflikt. Wir wollen nicht
@@ -34,11 +30,9 @@ Aber als Menschen leben wir in einem Konflikt. Wir wollen nicht
 - verletzt werden — also ziehen wir uns aus Beziehungen zurück,
 - nicht einsam sein — also gehen wir Beziehungen ein.
 
-
 Wir können Beziehungen nicht vermeiden, aber wir lernen durch sie und wachsen an ihnen. Wir müssen lernen zu vertrauen, mit Verletzungen umzugehen und Vertrauen zu schenken. Das ist ein Prozess, der auf Erfahrungen beruht, die uns helfen und die Beziehung wachsen lassen.
 
 Und hier kommen wir zu dem, was Anbetung ist.
-
 
 ## Die drei Schritte zur Anbetung
 
@@ -49,11 +43,9 @@ Und hier kommen wir zu dem, was Anbetung ist.
 - Weiter geht es mit dem Lobpreis: Nachdem wir all diese Dinge erfahren haben, erkennen wir, dass Gott gut ist und einen guten Charakter hat.
 - Zuletzt kommen wir zur Anbetung (auf den Knien): wo wir Gott voll und ganz vertrauen.
 
-
 Das Wort für Anbetung (knien) stammt aus dem Assyrischen, wo es flach auf dem Boden liegen bedeutet. Das tat ein König nach einem verlorenen Krieg. Er legte sich flach auf den Boden und der siegreiche König legte seinen Fuß auf seinen Nacken, um zu sagen: Ich kann mit dir machen, was ich will.
 
 So ist es auch in der Anbetung. Wir gehen in der Anbetung auf den Boden und sagen: Gott, mach mir, was du willst. Es ist ein Zeichen voller Hingabe und Loyalität, was das Thema sogar politisch macht (wir sollen auch den Herrschern dieser Welt gegenüber loyal sein). Die Anbetung beeinflusst also jeden Aspekt unseres Lebens.
-
 
 ## Hindernisse
 
@@ -67,9 +59,7 @@ Du kannst in der ersten Stufe stecken bleiben, aber keine Sorge, es gibt eine. W
 - Du hast viel Leid und Enttäuschung erfahren.
 - Du hast ein falsches Bild von Gott und den Menschen, z.B. dass du nur etwas bekommst, wenn du dich gut benimmst oder dass du an sich nichts Gutes verdienst.
 
-
 Hier ist es gut, im Kleinen zu schauen, was an diesem Tag Gutes passiert ist und dafür zu danken und ein kleines Tagebuch zu schreiben, in dem du das aufschreibst und immer mal wieder liest.
-
 
 ### Fehlen von Lobpreis
 
@@ -79,16 +69,13 @@ Du siehst vielleicht die guten Dinge, die Gott in deinem Leben tut, aber du vert
 - Gott ist ein Dienstleister, der Gebete erhört, wenn sie selbstlos und gut sind.
 - Gott ist ein Objekt, das dir gibt, was du willst, wenn du nur richtig und lange genug darum bittest.
 
-
 Aber Gott ist ein guter Vater
 
 - der uns nicht gibt, was wir wollen, weil es manchmal auf Dauer nicht gut ist,
 - der uns Dinge gibt, die wir nicht wollen, die uns aber im Leben gut tun,
 - der mehr an einer Beziehung interessiert ist als daran, dich glücklich zu machen und deine Wünsche zu erfüllen (Dienstleister).
 
-
 Um hier zu wachsen, reflektiere eine Weile darüber, was in deinem Leben gut war, was dich hat wachsen lassen und was dein Leben wirklich verbessert hat. Überlege dir, welches Bild du von Gott hast. Vielleicht gibt es andere Menschen oder Situationen, die du auf Gott projizierst und die dein Bild von Gott verzerren.
-
 
 ### Fehlen von Anbetung
 
@@ -102,7 +89,6 @@ Vielleicht vertraust du Gott nicht und tust nicht, was er von dir verlangt.
 - Du hast einen besseren Plan als Gott — wir alle haben das, bis wir eines Besseren belehrt werden.
 - Wir wollen nicht aufgeben, was uns dient, was uns Sicherheit gibt, was uns Trost spendet — aber ohne das werden wir das volle Leben in Gott nicht erfahren, wenn wir nicht bereit sind, es zu riskieren.
 
-
 Anbetung hat einen hohen Preis, ist aber auch ein großer Gewinn.
 
 - Gott verwandelt uns in seinen Charakter und in sein Bild (gibt uns Vollmacht).
@@ -110,9 +96,7 @@ Anbetung hat einen hohen Preis, ist aber auch ein großer Gewinn.
 - Unsere Werte und Prioritäten ändern sich und werden erfüllender.
 - Die Welt um uns herum verändert sich zum Besseren.
 
-
 Nun, das sind die Ergebnisse. Aber es geht nicht darum, eine Beziehung zu Gott zu haben, um das zu bekommen (die Gabe mehr zu lieben als den Geber), aber wenn es so ist, dann habe den Mut, dich davon zu lösen.
-
 
 ## Wir werden, was wir anbeten
 
@@ -135,12 +119,7 @@ Wenn du wissen willst, ob du einen Götzen hast, hier eine kleine Checkliste:
 - In was investierst du die meiste Zeit, das meiste Geld und andere Ressourcen und was erwartest du dir davon?
 - Wofür würdest du deine Gesundheit, deinen Schlaf, dein Wohlbefinden oder sogar dein Leben riskieren oder sogar aufgeben, wenn es kritisch wird?
 
-
 Nun, wenn die Antwort “Für eine tiefere Beziehung zu Gott” lautet, dann bist du auf dem richtigen Weg. Wenn nicht, dann bist du vielleicht einfach nur kompromisslos ehrlich und das ist der erste Schritt in die richtige Richtung.
 
 Wenn die Beziehung zu Gott das Wichtigste ist und nicht das Werkzeug, um seinen Segen zu bekommen, dann bist du ein echter Christ. Und du wirst wie er werden. Aber versteh mich nicht falsch: Es geht nicht um Superkräfte wie Allwissenheit, sondern darum, dass du seinen Charakter veränderst und er dir wichtige Dinge anvertraut.
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/worship.de.md)

@@ -3,15 +3,12 @@ title: "Mükemmel “müjde”"
 weight: 1
 ---
 
-
 Bu bölüm yıkıma koşan iki canavar gibi görünüyor, ancak bu tüm kitaptaki en derin bölümlerden biri. Hadi hazırlanalım.
-
 
 ## Bizim metnimiz
 
 <a name="023e"></a>
 Hızla ilerliyoruz ve [13. bölüme](https://www.bibleserver.com/TR/Vahiy13) ulaştık.
-
 
 ## Şeytan’ın stratejisi
 
@@ -25,7 +22,6 @@ Hızla ilerliyoruz ve [13. bölüme](https://www.bibleserver.com/TR/Vahiy13) ula
 - kaba kuvvetle: zulüm, ekonomik ve mali baskı
 - tarafından aldatma
 
-
 Üçlüyü taklit ederek hem kiliseyi gözden düşürür hem de İsa’yı takip etmek isteyen insanları kiliseye çeker. Ejderha tüm güce sahip olan Baba Tanrı’yı, birinci canavar dirilmiş Mesih’i, ikincisi ise yaşam verme gücüne sahip olan Kutsal Ruh’u taklit eder.
 
 Deccal’in anlamı budur (“anti” aynı zamanda “yerine” anlamına da gelebilir). Mesih’in yerine geçer ve kendi kilisesini inşa eder. Dünya gerçek ve sahte üçleme arasında ayrım yapamaz. Ve bu gerçekten inandırıcı görünüyor:
@@ -35,9 +31,7 @@ Deccal’in anlamı budur (“anti” aynı zamanda “yerine” anlamına da ge
 - ikinci canavar bir heykele hayat verebilir (Eski Ahit’te bunu yapamadıkları için putlarla alay edilirdi)
 - ikinci canavar da gökten ateş gelmesine izin verebilir, bunun nihai işareti Tanrı’dır (İlyas’ın hikayesine bakın)
 
-
 Ve bu çok cazip.
-
 
 ## Rüya
 
@@ -53,7 +47,6 @@ Tüm dünyanın siyaseti, ekonomiyi ve maliyeyi kontrol eden Hıristiyan bir yö
 Bu gerçek olamayacak kadar iyi bir müjde. Ya da gerçek olamayacak kadar kötü.
 
 Eğer bu sizin rüyanızsa, uyanın, çünkü bu bir kabus!!!
-
 
 ## Gerçeklik
 
@@ -72,7 +65,6 @@ Dünyanın gördüğü budur ve kilisenin farklı göründüğünü göstermek i
 
 Müjde’yi korku (cehennem), manipülasyon ya da inancımızın araçları haklı çıkardığını düşünme araçlarıyla vaaz etmemeliyiz.
 
-
 ## Eldeki ve alındaki işaret
 
 <a name="145e"></a>
@@ -83,7 +75,6 @@ Bu, Tanrı’nın Mısır’da halkıyla yaptığı gibi bir antlaşmanın işar
 Bunun bir çip olması gerekmez. Çalışma ahlakınız, kredi kartınız, akıllı telefonunuz, TV programlarınız olabilir. 2000 yıl önce toplum içindeki davranışlardı.
 
 Şeytan aldatma yöntemini kullanır.
-
 
 ## Tarihi gerçeklik
 
@@ -98,7 +89,6 @@ Başınızdaki ve alnınızdaki işaret, komşularınız ve meslektaşlarınız 
 
 Tüm bunlarda önemli olan nokta, onların perde arkasındaki ejderhanın kuklaları olduklarıdır, bu nedenle saldırı hiçbir zaman Romalılara karşı olmamıştır ve bugün de yetkililere karşı değil, arkasındaki ruhani güçlere karşı olmalıdır.
 
-
 ## Şeytanların başarısızlığı
 
 <a name="c21d"></a>
@@ -108,16 +98,13 @@ Tüm bunlarda önemli olan nokta, onların perde arkasındaki ejderhanın kuklal
 - 666, Daniels’ın arkadaşlarının öyküsünde Tanrı müdahale etmese bile direnmeleri için bir uyarıdır
 - 666, Şeytan’ın verdiği tekliflerle ayartılmamanız için bir uyarıdır
 
-
 Peki neden başarısız oluyor? Üçlemenin her bir kişisinde karar verici unsur eksikti
 
 - Tanrı hükümdardır, ancak bunu dayatmaz, aksi takdirde kimse “Sevgi dolu bir Tanrı nasıl olur da tüm bu kötülüğe izin verir?” diye sormaz. Şeytan kendisiyle uyumlu olmayan her şeyi parçalar
 - İsa bizim için sevgisinden öldü, ilk canavar sadece insanları korkutuyordu. İsa tam olarak öldü, ilk canavar sadece yaralandı.
 - Kutsal Ruh insanları zorlamaz ve gösterileri kullanır, ikinci canavar bunu manipüle etmek için kullanır.
 
-
 Yani Şeytan ve İsa gibi davrananlar arasındaki ayırt edici nokta güç ya da başarı değil, insanlarla etkileşimimizdeki sevgidir. Bu yeni bir şey olmayabilir ama bu öyküde çok etkileyici bir şekilde sunulmuştur.
-
 
 ### Yansıma
 
@@ -130,11 +117,7 @@ Yani Şeytan ve İsa gibi davrananlar arasındaki ayırt edici nokta güç ya da
 - Eğer itaat etmezseniz günümüz canavarlarının sonuçları nelerdir?
 - Nerede teslim olmaya zorlanıyorsunuz (çaresizlikten, inançtan, ayartılmaktan)?
 
-
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -144,10 +127,3 @@ Yani Şeytan ve İsa gibi davrananlar arasındaki ayırt edici nokta güç ya da
 - [Orijinal bağlamda canavar](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
 - [Canavarın doğası](../../../../content/beasts/expl/the-nature-of-the-beast)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/appl/the-perfect-gospel.tr.md)

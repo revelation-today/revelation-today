@@ -3,11 +3,9 @@ title: "Balam’ın öyküsü"
 weight: 30
 ---
 
-
 Balam ve eşeğin öyküsünü biliyorsunuz, ama Balam’ın İsrail’i neden ve nasıl putperestliğe sürüklediğini biliyor musunuz?
 
 Bana inanmıyor musunuz? İşte kanıtı: “[Ne var ki, birkaç konuda sana karşıyım: Aranızda Balam’ın öğretisine bağlı olanlar var. Putlara sunulan kurbanların etini yemeleri, fuhuş yapmaları için İsrailoğulları’nı ayartmayı Balak’a öğreten Balam’dı.](https://www.bibleserver.com/TR/Vahiy2%3A14)”
-
 
 ## İyi bilinen hikaye
 
@@ -21,7 +19,6 @@ Ama neden? [Moavlılar İsrail’in onları istila etmeyeceğine dair söz almı
 Neden? Balam neden tekrar sordu? Cevabı duydu. Tanrı’nın fikrini değiştirebileceğini mi düşündü? Belli ki, çünkü Tanrı gitmesine izin verdi. Ama bunun sonuçları var —[ eşeğin hikayesini bilirsiniz](https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m22%3A22-35).
 
 Balam şimdi Tanrı’ya itaat eder gibi görünür ve İsrail’i Tanrı’nın istediği gibi kutsar. Balak öfkelenir ve [onu geri gönderir](https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m24%3A25). Ve öykü burada sona erer — siz öyle sanıyorsunuz.
-
 
 ## Baal-Peor ile ilgili durum
 
@@ -38,7 +35,6 @@ Bu hikayede Mose’a ne oldu? Bunu ciddiye almıyor muydu, ama bu pek [olası de
 
 Ama bir sürpriz vardır: [Balam öldürülenlerden biridir, Midyanlılar’la birlikte kalır.](https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m31%3A8)
 
-
 ## Ne oldu?
 
 <a name="e4ea"></a>
@@ -52,8 +48,3 @@ Onu alaşağı eden Balam’ın gururuydu, ama İsrailliler’in ölümüne nede
 
 [Beale, Revelation, sayfalar 249](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-story-of-balaam.tr.md)

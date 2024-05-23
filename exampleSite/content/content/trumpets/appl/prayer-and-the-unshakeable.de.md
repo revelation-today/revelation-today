@@ -3,15 +3,12 @@ title: "Gebet und das Unerschütterliche"
 weight: 1
 ---
 
-
 Die Posaunen haben viele dazu inspiriert, Endzeitszenarien mit weltweiten Katastrophen und großen militärischen Aktionen anzunehmen. Wir werden jedoch sehen, dass dies eine Lektion über das Gebet und den Umgang mit Schwierigkeiten ist.
-
 
 ## Unser Text
 
 <a name="738f"></a>
 Es geht weiter in [Kapitel 8](https://www.bibleserver.com/SLT/Offenbarung8) und [9](https://www.bibleserver.com/SLT/Offenbarung9).
-
 
 ## Wofür wir beten sollen
 
@@ -24,7 +21,6 @@ Was geschieht hier? Die ersten sechs Posaunen bewirken verschiedene Dinge, aber 
 
 Wir beten oft dafür, dass Menschen Gottes Segen erfahren oder zu Jesus “finden”. Aber beten wir auch dafür, dass diese Menschen (herausfordernde) Situationen erleben und sich fragen, ob ihr Leben auf einem tragfähigen Fundament gebaut ist. Würden sie dann in unserem Leben einen festen Grund finden? Oder bitten wir lieber: Segne meine Mitmenschen und mich auch, damit wir alle ein gutes Leben haben?
 
-
 ## Die ersten vier Posaunen
 
 <a name="e2b8"></a>
@@ -35,9 +31,7 @@ Die Posaunen zeigen viele Parallelen zum Auszug aus Ägypten, wo Gott den Götte
 - dritte Posaune: nimmt Fische als letzte Nahrungsquelle weg,
 - vierte Posaune: nimmt Sterne, Mond und Sonne: Orientierungsquelle speziell für den Handel.
 
-
 Die Posaunen erschüttern die Welt und machen allen bewusst, dass vieles, was wir für selbstverständlich halten, nicht selbstverständlich ist. Aber Gott sorgt für uns, auch wenn alles zusammenbricht. Wir brauchen uns nicht zu sorgen oder in Angst zu leben.
-
 
 ## Die fünfte und sechste Posaune
 
@@ -48,13 +42,11 @@ Die nächsten beiden Posaunen weisen einige Besonderheiten auf:
 - Sie bringen Menschen dazu, den Lebenswillen zu verlieren und schließlich zu sterben.
 - Gott hat einen besonderen Schutz für sein Volk (das Siegel in Kapitel 7 bewahrt sie davor, ihr Leben aufzugeben).
 
-
 Hier geht es an die Substanz. Die (geistige und körperliche) Gesundheit ist bedroht, ja das Leben selbst. Die Menschen müssen akzeptieren, dass auch das nicht garantiert ist.
 
 Aber das bringt sie nicht dazu, zu dem Gott umzukehren, der das alles gibt, sondern sie beten weiterhin die Dämonen an, die diese Schrecken über sie bringen.
 
 Das ist eine Ironie, über die wir nicht lachen sollten, denn oft sind wir nicht besser: Wir vertrauen der Welt (Geld auf der Bank, Beruf, Versicherung, staatliche Versorgung, …) mehr als Gott (Großzügigkeit, Dienst an den Armen, Vergebung, Demut, dem Geist Gottes folgen). Aber was hat das mit Dämonen zu tun? Das werden wir in einigen Kapiteln sehen.
-
 
 ## Die Zusammenfassung
 
@@ -62,7 +54,6 @@ Das ist eine Ironie, über die wir nicht lachen sollten, denn oft sind wir nicht
 Wir haben gesehen, dass die Siegel und die Posaunen sehr unterschiedlich und doch ähnlich sind: Bei den Siegeln ging es darum, Satan zu entlarven, während die Gläubigen ausharrten; bei den Posaunen geht es darum, die Herzen der Ungläubigen zu verändern. In beiden Geschichten geht es darum, den Menschen die Augen zu öffnen.
 
 Aber: Schwierigkeiten allein reichen nicht aus, um das Herz zu verändern. Es braucht mehr, und es gibt ein kleines Buch, das die Antwort darauf gibt.
-
 
 ### Reflektion
 
@@ -72,12 +63,6 @@ Aber: Schwierigkeiten allein reichen nicht aus, um das Herz zu verändern. Es br
 - Was würde passieren, wenn deine falschen Sicherheiten weggenommen würden? Welche sind das? Bist du bereit, sie aufzugeben?
 - Welche unerschütterlichen Sicherheiten hast du in deinem Leben?
 - Welche Sicherheiten kannst du nicht aufgeben? Würdest du sie auch nicht aufgeben, wenn du deine Beziehung zu Gott verlieren würdest?
-
-
-
-
-
-
 
 ## Digging deeper
 
@@ -89,8 +74,3 @@ Aber: Schwierigkeiten allein reichen nicht aus, um das Herz zu verändern. Es br
 - [Die Plagen in Ägypten](../../../../bible/exodus/expl/the-plagues-in-egypt)
 - [Die sieben Posaunen](../../../../content/trumpets/expl/the-trumpets-in-revelation)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/appl/prayer-and-the-unshakeable.de.md)

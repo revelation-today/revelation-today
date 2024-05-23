@@ -3,11 +3,9 @@ title: "Farklı bir Noel hikayesi"
 weight: 2
 ---
 
-
 Bir Hıristiyan olarak [Luka](https://www.bibleserver.com/TR/Luka2)’nın klasik Noel hikâyesine aşina olabilirsiniz; çobanlar, ahırdaki bebek ve gizemli bir yıldızın peşinden giden üç uzak gezginle ilgili biraz romantik bir hikâye.
 
 Bu hikâye Noel’in belli bir yönünü gösteriyor ve biz bu hikâyeyi o kadar sık duyduk ki, artık hiç duymuyoruz. Belki de Kutsal Kitap’tan başka bir Noel hikâyesi dinlemenin zamanı gelmiştir. Bunun için sizi Vahiy kitabının 12. bölümüne götürmek istiyorum.
-
 
 ## Hikaye
 
@@ -28,12 +26,10 @@ Sonunu bilmeden bu sahneye baktığımızda, kesinlikle bu kadının hiç şans�
 
 Peki bu hikaye ne hakkında? Karakterlere bir göz atalım
 
-
 ## Ejderha
 
 <a name="ddd2"></a>
 Tanımlanması gereken ilk kişi kolaydır: ejderha. 9. ayette “İblis ya da Şeytan denilen o eski yılan” olarak tanımlanır — Aden’deki düşüşü bile anımsatır.
-
 
 ## Çocuk
 
@@ -44,9 +40,7 @@ Tanımlanması gereken ilk kişi kolaydır: ejderha. 9. ayette “İblis ya da �
 - [Isa.11/4](https://www.bibleserver.com/TR/Ye%C5%9Faya11%3A4), ağzının değneğiyle yeryüzüne vuracak olan Mesih’in gelişini anlatır
 - [Vahiy 2/27'de](https://www.bibleserver.com/TR/Vahiy2%3A27) İsa’nın kendisinden demir bir asayla hüküm süren kişi olarak söz edilir
 
-
 Bu referanslar öykünün İsa’dan ve onun doğumundan bahsettiğini açıkça ortaya koymaktadır.
-
 
 ## Kadın
 
@@ -57,14 +51,11 @@ Peki güneş, ay ve 12 yıldızla giydirilmiş olan bu tuhaf kadın kimdir? Üç
 - [Havva’ya yavrusunun yılanı yok edeceği vaat edildi](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F3%3A15)
 - [Ancak Mesih’i (İsa) getireceği vaat edilen İsrail de vardır](https://www.bibleserver.com/TR/Ye%C5%9Faya66%3A7)
 
-
 Peki bu hikaye kimden bahsediyor?
 
 - Meryem bariz gibi görünmektedir ancak İncil’in hiçbir yerinde Meryem ile oğul, ay ve yıldızlar arasında bir bağlantı yoktur — tam tersi: Meryem’in kilise geleneğinde güneş, ay ve yıldızlarla ilişkilendirilmesi, bu kadının Meryem olması gerektiği yorumundan kaynaklanmaktadır
 - Havva ile güneş, ay ve yıldızlar arasında bir bağlantı görebilirsiniz, çünkü Adem ve Havva [yaratılışta](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F1) onlarla birlikte anılır. Ancak hikayemizin neden 12 yıldızdan bahsettiğini açık tutuyor!
 - En iyi eşleşme, ilk bakışta gerçekte bir kadın olmayan ama Kutsal Kitap’ta [kızı Siyon](https://www.bibleserver.com/TR/Ye%C5%9Faya62%3A11) olarak anılacak olan İsrail’dir. [Yusuf’un ikinci rüyasına](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F37%3A9-10) baktığımızda çok yakın bir paralellik görürüz. Orada güneş, ay ve 11 yıldızdan bahseder ve babası bunu 1 kardeşi ve ebeveynleri (Yusuf dahil 12 yıldız yapar) üzerinde yorumlar. Ve bu 12 kardeş (aşağı yukarı) İsrail’in 12 kabilesidir.
-
-
 
 ## Son olarak, hikaye
 
@@ -84,15 +75,12 @@ Bu dönemde İsa doğdu ve [Kral Hirodes onu öldürmek üzereyken](https://www.
 - ejderhanın öfkesi ve kararlılığı
 - ejderhanın şaşırtıcı üstesinden gelişi
 
-
 İsa’nın bunun üstesinden neden geldiği açıklanmamıştır, ancak görünüşte çaresiz olan ile üstesinden gelen arasındaki bu gerilim Vahiy kitabının her yerinde mevcuttur
 
 - Vahiy 2–3'te İsa’dan şikayet almayan sadece iki kilise Smyrna ve Philadelphia’dır (ki durumlarına bakıldığında ciddi sıkıntı içindedirler), ancak en çok güvene sahip olan kilise (Laodikya) İsa’dan tek bir iltifat bile almaz
 - [aslında kuzu olan aslan](https://www.bibleserver.com/TR/Vahiy5%3A5-6)
 - [mutlak kontrole sahip gibi görünen ama felakete sürüklenecek olan ejderha ve canavarla](https://www.bibleserver.com/TR/Vahiy13) ve [ona güvenen herkesle karşılaştırıldığında ](https://www.bibleserver.com/TR/Vahiy14%3A6-13)[yenilmiş gibi görünen ama aslında üstesinden gelen ve yüceltilen iki tanık](https://www.bibleserver.com/TR/Vahiy11%3A7-12)
 - …
-
-
 
 ## Diğer okumalar
 
@@ -104,7 +92,3 @@ Bu dönemde İsa doğdu ve [Kral Hirodes onu öldürmek üzereyken](https://www.
 
 [Beale, Revelation, sayfalar 621–681](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/expl/a-different-christmas-story.tr.md)

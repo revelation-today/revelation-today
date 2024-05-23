@@ -3,9 +3,7 @@ title: "The letter to the church in Ephesus"
 weight: 1
 ---
 
-
 The Church of Ephesus is a good example of a church. But its appearance is deceptive. Jesus’ judgment is devastating.
-
 
 ## Historical background
 
@@ -15,7 +13,6 @@ Ephesus is one of the largest and most important cities in the Roman Empire. Its
 Ephesus is an economic center and had many Diaspora Jews (Jews who live outside of Israel) who had Ephesian citizenship.
 
 It was an imp1rtant tourist center because of the Temple of Artemis and had probably the largest church of the seven.
-
 
 ## Jesus’ view
 
@@ -28,8 +25,6 @@ But before Jesus addresses the problem he pours out a lot of appraisal:
 - They were not deceived by false teaching or false apostles, which was the problem for some of the other churches.
 - They are enduring hardship in Jesus’ name.
 
-
-
 ## The problem
 
 <a name="235e"></a>
@@ -41,11 +36,9 @@ In [Matthew](https://www.bibleserver.com/NIV/Matthew24%3A12-14) it says that lov
 - If we love our brothers and sisters, we will love Jesus as we see Him in them and preach the gospel to share with the whole world.
 - If we love the world, Jesus and the Church is the best we can offer them.
 
-
 Sharing the gospel is therefore an act of love, and if one of them grows cold, the other will diminish.
 
 Ephesus may be an established church if they have their way of dealing with spiritual challenges, but they have probably forgotten why they are doing it and are focusing too much on themselves to make everything right.
-
 
 ## The solution
 
@@ -54,16 +47,9 @@ The promise is to eat of the tree of life, which brings them back to the untroub
 
 And they have a [promise in the New Jerusalem](https://www.bibleserver.com/NIV/Revelation22%3A1-5).
 
-
 ## Dig Deeper
 
 [Beale, Revelation, pages 228–239](../../../../../about/ressources/index.html#beale_rev)
 
 [Gordon Fee, Revelation, page 24](../../../../../about/ressources/index.html#fee_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-ephesus.md)

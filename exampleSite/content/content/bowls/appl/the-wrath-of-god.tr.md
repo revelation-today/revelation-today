@@ -3,15 +3,12 @@ title: "Tanrı’nın gazabı"
 weight: 1
 ---
 
-
 Bu iş sonunda ciddileşiyor.
-
 
 ## Bizim metnimiz
 
 <a name="8d4c"></a>
 Hızla ilerliyoruz ve [15.](https://www.bibleserver.com/TR/Vahiy15) ve [16. bölümlere](https://www.bibleserver.com/TR/Vahiy16) ulaştık.
-
 
 ## Büyük soru
 
@@ -21,7 +18,6 @@ Asıl soru şudur: Tanrı ne kadar bekleyecektir? Hasat noktasına ne zaman ula�
 Bu nedenle kilisenin Tanrı’ya tahammül içinde tapınmalarına dayalı olarak tanıklıklarını vermeleri gerekir ve Tanrı bu arada mümkün olduğunca sıkıştırır, ta ki hiçbir sıkıştırma mümkün olmayana kadar.
 
 Her ikisi de Mısır’daki belalara dayandığından, borazanlar ve çanaklar arasında pek çok benzerlik olduğunu fark etmişsinizdir. Tanrı ve kilise mümkün olduğunca çok kişiyi kurtarmak için birlikte çalışmaktadır: Dualarımız Tanrı’yı harekete geçirir ve Tanrı’nın yüreği de bizim dualarımızı harekete geçirir.
-
 
 ## Kaseler
 
@@ -36,8 +32,6 @@ Ve bu da kaselerin ne hakkında olduğu
 - Bu yüzden altıncı kâse sırasında Tanrı bu insanlara aldatmacalarına göre verir ve onlar Armagedon’da toplanırlar. Armagedon bir savaş yeri değil, güçlülerin açıkça zayıf olanlara karşı yenilgi yeridir. Şeytan için bir yargı yeridir.
 - Ve yedinci kâsede Şeytan’ın krallığı sonunda yok edilir.
 
-
-
 ### Yansıma
 
 <a name="3fce"></a>
@@ -46,11 +40,7 @@ Ve bu da kaselerin ne hakkında olduğu
 - Bu dünyadaki somut durumların daha iyiye doğru nasıl değişebileceğine dair umutlarınız nelerdir? Bunların Tanrı’nın yolları olduğunu düşünüyor musunuz?
 - Aşağıda Armagedon hakkında bir çalışma yapın. Bu bugün ne olabilir?
 
-
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -59,10 +49,3 @@ Ve bu da kaselerin ne hakkında olduğu
 - [Armageddon’un anlamı](../../../../content/bowls/expl/the-key-to-armageddon)
 - [Armageddon ve Karkamış Savaşı](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/appl/the-wrath-of-god.tr.md)

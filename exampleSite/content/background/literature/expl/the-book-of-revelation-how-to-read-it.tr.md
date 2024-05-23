@@ -3,11 +3,9 @@ title: "Vahiy kitabı: Nasıl okunmalı?"
 weight: 10
 ---
 
-
 Vahiy kitabı insanlara pek çok konuda ilham vermiştir, bunların çoğunun Kutsal Kitap’taki vahiy kitabıyla hiçbir ilgisi yoktur. Size bir liste vermekten kaçınıyorum ama sanırım neden bahsettiğimi biliyorum. Peki bu çok tuhaf kitabı okumak nasıl mümkün olabilir? Bu soruya yanıt bulabilmek için öncelikle bu kitabın doğasını anlamamız gerekir.
 
 Cevap kolay değil ve biraz dikkat gerektiriyor ama bence zaman ayırmaya değer.
-
 
 ## Tür nedir?
 
@@ -18,16 +16,13 @@ Tür, bir edebiyat türüdür. Türe bağlı olarak farklı bir yaklaşımınız
 - ama bir şiirde bunu beklemezsiniz, ama bir metaforda güzellikle karşılaşabilirsiniz,
 - Size yazılan bir mektupta çok fazla kişisel referans beklerken, sizinle ve özel durumunuzla ilgili olmayan bir içerik beklemeyin
 
-
 Vahiy kitabının anlaşılmasının zor olmasının nedeni şudur
 
 - sadece bir edebiyat türü değil, üç edebiyat türü (mektup, kehanet ve kıyamet)
 - bu üç türün hepsi tipik bir kullanımda değildir — buna daha sonra geleceğiz
 - apokaliptik bir eserin türü çoğu okuyucu tarafından bilinmez ve kolayca yanlış anlaşılır
 
-
 Yazının geri kalanında bu üç türe, bunların ne anlama geldiğine ve kitabı okuduğumuzda ne ifade ettiğine odaklanacağız
-
 
 ## Bir mektup
 
@@ -38,12 +33,10 @@ Mektup türü ile başlayalım. Kitabı bir mektup olarak yansıtan birçok yön
 - İncil’deki birçok mektupta kullanılan [resmi son](https://www.bibleserver.com/TR/Vahiy22%3A21)
 - Kitabın, [2.](https://www.bibleserver.com/TR/Vahiy2) ve [3. bölümlerde](https://www.bibleserver.com/TR/Vahiy3) başlayan ancak her yerde referanslar bulan [yedi kiliseye bir mektup](https://www.bibleserver.com/TR/Vahiy1%3A10-11) olarak tasarlanmış olması, örneğin belirli kiliselere verilen vaatlerin çoğunun cevaplarını [21. bölümde](https://www.bibleserver.com/TR/Vahiy21) bulması
 
-
 Ancak kitap [İncil’deki standart mektup formunu](https://catholic-resources.org/Bible/NT_Letters.htm) takip etmez. Bunun sebebi
 
 - sadece bir mektup değil, aynı zamanda kehanet ve kıyamet
 - 7 kiliseye paralel olarak hitap ediyor!!!
-
 
 Ama mektubun temel akışını koruyor
 
@@ -52,9 +45,7 @@ Ama mektubun temel akışını koruyor
 - bunlarla nasıl başa çıkılacağına dair bazı teolojik açıklamalar sunmak (bölüm 4–21/5)
 - bazı sonuçları vardır (bölüm 22/6–21)
 
-
 Kitabı okuduğumuzda, 4–21. bölümlerde kiliselerin kendi dönemlerinde yaşadıkları sorunlarla nasıl başa çıkacaklarına dair bir kılavuz beklemeliyiz. Bu, şu anda farklı sorunlarımız olduğu, dolayısıyla yanıtların uygulanamayacağı anlamına gelmez, ancak bu kitabın çoğunluğu yalnızca gelecekte (hatta bizim zamanımızda) uygulanabilecek bölümlere atıfta bulunuyorsa, bir mektubun yönünü dikkate almamış oluruz.
-
 
 ## Bir kehanet
 
@@ -69,13 +60,11 @@ Eski Ahit’teki peygamberlik edebiyatı Sina Dağı’ndaki antlaşmaya dayanı
 - Daha önce köle olduğunuz gibi [çaresizlere merhamet edin](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F20%3A2), [Tanrı çaresizleri korur](https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B110%3A18), örneğin [Lev.23/22](https://www.bibleserver.com/TR/Levililer23%3A22)
 - En önemli yasanın [Tanrı’yı ve komşunu sevmek](https://www.bibleserver.com/TR/Levililer19%3A18) olduğu [Yeni Ahit’te teyit edilmiş ve herkesin komşumuz olduğu açıklanmıştır](https://www.bibleserver.com/TR/Luka10%3A25-37)
 
-
 Halk bunu takip etmediğinde peygamberler devreye girdi. Mesajın birkaç noktası vardı:
 
 - Tanrı size yasayı verdi ve bakın: onu çiğnediniz (çoğunlukla putların peşinden giderek yoksullara haksızlık ettiniz)
 - Bu nedenle Tanrı sizi [yasada açıklandığı](https://www.bibleserver.com/TR/Levililer26) gibi yargılayacaktır (gelecekteki yönü). Amaç, Tanrı’nın halkını eğitmektir (farklı varyantlarda [tekrarlanan terime](https://www.bibleserver.com/TR/Levililer26%3A21) bakın: eğer hala yapmadıysanız)
 - ama özellikle [öğrendiklerinde](https://www.bibleserver.com/TR/Levililer26%3A40-42) [onlara merhamet edecektir](https://www.bibleserver.com/TR/Levililer26%3A44).
-
 
 Yani peygamberlik mesajının ana yönü
 
@@ -83,7 +72,6 @@ Yani peygamberlik mesajının ana yönü
 - kötülere yollarını değiştirmeleri için meydan okuyun
 - somut bir tarihsel durumda
 - ve Tanrı’nın halkına hitap eder
-
 
 Bu, bu mesajın tarihi durumla sınırlı olduğu ve kendimizi benzer bir durumda bulabileceğimiz anlamına gelmez.
 
@@ -95,11 +83,9 @@ Vahiy pek çok peygamberlik öğesi kullanır
 - Kitap uyarıyor: Babil’den çıkın, [sevgi soğumasın](https://www.bibleserver.com/TR/Vahiy2%3A4), [yanlış öğretilere izin vermeyin](https://www.bibleserver.com/TR/Vahiy2%3A14-15), …
 - ve aynı zamanda rahatlatır: [Tanrı’nın halkı korunur](https://www.bibleserver.com/TR/Vahiy7%3A1-4), [kimse kaybolmaz,](https://www.bibleserver.com/TR/Vahiy7%3A5-8) [Tanrı’nın krallığı mutlaka gelecektir](https://www.bibleserver.com/TR/Vahiy21)
 
-
 Bir kehanetin amacı davranışı değiştirmektir ve okuyucudan ya da dinleyiciden bir yanıt almak için genellikle duygusal sahneler kullanır.
 
 Eski Antlaşma’da görümler genellikle basit bir “ve gördüm” ifadesiyle tanıtılırken, bu [daha ayrıntılı bir şekilde yapıldığından](https://www.bibleserver.com/TR/Zekeriya1%3A7), Eski Antlaşma’daki standart peygamberlik değildir.
-
 
 ## Bir kıyamet
 
@@ -112,19 +98,16 @@ Böyle bir kitabın amacı
 
 - örneğin zulüm gibi bir kriz durumunda Tanrı’nın halkını cesaretlendirmek
 
-
 tarafından
 
 - zalimlere yönelik yakıcı eleştiriler
 - tutkulu direniş çağrıları
 - Tanrı’ya güvenin kötülüğe karşı nihai zafer
 
-
 Bu bir [düalizm](https://www.merriam-webster.com/dictionary/dualism) tarafından yapılır
 
 - zaman içinde: şu anda kötü bir zaman var, ancak daha iyi bir zaman geliyor ve bu değişikliği yalnızca Tanrı yapabilir
 - Karakter olarak: Kozmik/ruhani bir düalizm vardır (Tanrı’ya karşı Şeytan, meleklere karşı şeytanlar, cennete karşı cehennem) ve bu da dünyevi bir düalizme neden olur (Tanrı ya da Şeytan ve müttefikleriyle ittifak nedeniyle iyiye karşı kötü)
-
 
 Amaç herkesin bir taraf seçmeye zorlanmasıdır — tarafsız bir zemin yoktur.
 
@@ -141,8 +124,6 @@ Vahiy kitabına baktığımızda bu unsurları görürüz.
 - açıkça kötü bir hükümdar vardır (Tanrı’nın insanları yine çalışır) ama 21. bölümdeki yeni yaratılışla birlikte daha iyi bir zaman gelmektedir
 - Kitapta uzlaşmaya yer yoktur ve siyasi düzene (imparator değil İsa gerçek kraldır, Roma Barışı değil Tanrı’nın krallığı, imparatora sadakat değil İsa’ya iman) ve ideolojisine meydan okuyan ya hep ya hiç (kuzuya karşı ejderha, Kudüs’e karşı Babil, Tanrı’nın mührüne karşı canavarın işareti, Tanrı’ya tapanlara karşı canavara tapanlar, …) ifadeleriyle doludur
 
-
-
 ## Sonuç
 
 <a name="9e1a"></a>
@@ -152,13 +133,10 @@ Kitabı okuduğumuzda şunu görmemiz gerekir
 - bir kehanet: güçlü duygusal malzeme vererek insanları gelecekte değil, şimdi ve burada farklı davranmaya teşvik etmelidir
 - bir kıyamet: uzlaşmalardan kaçınmaya zorlar ve “ya … ya da” dünyasını tanımlayarak yanlış yöneticilere karşı çıkar
 
-
 Kitap değil
 
 - uzak gelecekteki bir olayı tanımlamak için (eski dinleyicilere) geleceğe bir bakış, onlarla hiçbir ilişkisi olmayacak
 - geleceğin tam olarak nasıl görüneceğini tanımlamaz
-
-
 
 ## Daha fazla okuma
 
@@ -166,16 +144,8 @@ Kitap değil
 - [Hepsi gerçek mi yoksa sembolik mi?](../../../../background/literature/expl/literally-or-symbolic)
 - [Tarihsel arka plan nedir?](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 
-
-
 ## Daha derine inmek
 
 <a name="676f"></a>
 [Goreman, Reading Revelation Responsibly, sayfalar 10–56](../../../../about/ressources/index.html#goreman)
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/the-book-of-revelation-how-to-read-it.tr.md)

@@ -3,17 +3,13 @@ title: "The structure of the Book of Revelation"
 weight: 10
 ---
 
-
 The book of Revelation seems very disorganized at first glance. There is one catastrophe after another and then it starts all over again. But when we look closer, we see an artistic structure and a deliberate work.
-
 
 ## You may want to read before
 
 <a name="bba0"></a>
 - [Historical background of the book](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 - [What type of book is this](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-
-
 
 ## The challenge
 
@@ -24,7 +20,6 @@ The book begins with what God has done and what He expects of the church: to be 
 
 Then the [churches are judged](../../../../content/letters/expl/the-letters-to-the-seven-churches) and the result is sobering: Only two of the churches are blameless, listed in very unimportant positions, two of them a plain disaster at the beginning and end of the epistles, and in the middle a church Simon troubles that Jesus will use it as a bad example for others.
 
-
 ## The answer
 
 <a name="b85e"></a>
@@ -34,7 +29,6 @@ From this place will come all the seals, trumpets, and bowls, each ending with s
 
 Each of the three series has an interruption with a deepening (seals and trumpets) or an appendix that deepens a theme (trumpets and bowls). The appendix for the bowls extends to the final chapter of the New Jerusalem.
 
-
 ## The seals
 
 <a name="8ec8"></a>
@@ -43,7 +37,6 @@ The first series are the [seals](../../../../content/seals/expl/the-book-with-th
 They are interrupted in chapter 7 by God [gathering His army](../../../../content/army/expl/the-144000).
 
 They end with the seventh seal which is also the introduction to the sounding of the trumpets.
-
 
 ## The trumpets
 
@@ -58,7 +51,6 @@ But people don’t want to accept that. So John is called [again to prophecy and
 
 The whole story is concluded with the presentation of God’s faithful army (we saw them in chapter 7 already) and their reward, and the judgment of all who are loyal to the devil and their “reward”.
 
-
 ## The bowls
 
 <a name="d15a"></a>
@@ -71,9 +63,7 @@ But the appendix here goes into much detail on this subject:
 - The destruction of the devil’s kingdom is reported twice in chapters 19 and 20, surrounded by the millennial kingdom.
 - Finally, as a counterpart to the harlot, the Bride is presented in full glory.
 
-
 The book now closes with some final warnings to remind the reader how serious this subject is.
-
 
 ## Further readings
 
@@ -95,15 +85,7 @@ The book now closes with some final warnings to remind the reader how serious th
 - Ch 20: [The 1000 year kingdom](../../../../content/1000y/expl/the-thousand-year-kingdom)
 - Ch 21: [The New Jerusalem](../../../../content/paradise/expl/the-new-jerusalem)
 
-
-
 ## Further digging
 
 [Beale, Revelation, pages 108–170](../../../../about/ressources/index.html#bealy_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-structure-of-the-book-of-revelation.md)

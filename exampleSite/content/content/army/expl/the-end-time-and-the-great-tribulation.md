@@ -3,17 +3,13 @@ title: "The end time and the great tribulation"
 weight: 3
 ---
 
-
 When will the end times begin, and what is the Great Tribulation? This is a question that comes with a lot of emotion. And the question is, what of the information out there is reliable and how can we judge that? So let’s take a look at our favorite book to find some answers: The Bible.
-
 
 ## You may want to read before
 
 <a name="491a"></a>
 - [The type of the book](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 - [The structure of the book](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
-
-
 
 ## What is the end time?
 
@@ -29,7 +25,6 @@ Here is a quick overview on the timeline in the book
 But this subject is covered throughout the New Testament.
 
 On the other hand, you could say that the end times refer to Jesus’ second coming and the short time before that. In that case, only a certain part of the book of Revelation will give answers, and they may not seem so relevant. And there are many other passages in the New Testament that talk about it as well.
-
 
 ## The great tribulation
 
@@ -47,8 +42,6 @@ This oppression can be economic [as in Smyrna or for the third horseman](https:/
 We see the tribulation already foretold by [Jesus to the disciples](https://www.bibleserver.com/NIV/John16%3A33), during the [mission of Paul](https://www.bibleserver.com/NIV/Acts14%3A22), as a [catalyst of hope](https://www.bibleserver.com/NIV/Romans5%3A3-4), it [cannot separate us from Jesus](https://www.bibleserver.com/NIV/Romans8%3A35-36), as a [warning to Timothy](https://www.bibleserver.com/NIV/2%20Timothy3%3A12) and in the [letter of Peter](https://www.bibleserver.com/NIV/1%20Peter4%3A12-13).
 
 [The term itself is taken up as a warning to the church in Thyatira, which is a judgment on the current leader identified as Jesebel](https://biblehub.com/interlinear/revelation/2-22.htm).
-
-
 
 This makes the Great Tribulation something that happens the whole time between Jesus first and second coming. But how is this possible?
 
@@ -78,5 +71,3 @@ So the Great Tribulation refers to all the tribulations that we as the Church ar
 
 [Beale, Revelation, pages 433–445](../../../../about/ressources/index.html#beale_rev)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/expl/the-end-time-and-the-great-tribulation.md)

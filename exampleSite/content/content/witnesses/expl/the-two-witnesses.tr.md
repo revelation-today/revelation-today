@@ -3,9 +3,7 @@ title: "İki Tanık"
 weight: 2
 ---
 
-
 Vahiy Kitabı’nın [11. bölümünde](https://www.bibleserver.com/TR/Vahiy11) iki tanık görürüz. Bunların kim olduğu konusunda pek çok tartışma vardır, ancak ruhsal yaşamınız için iyi bir çıkarım da vardır
-
 
 ## Daha önce okumak isteyebilirsiniz
 
@@ -13,15 +11,12 @@ Vahiy Kitabı’nın [11. bölümünde](https://www.bibleserver.com/TR/Vahiy11) 
 - [3,5 yıl](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 - [İki canavar](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 
-
-
 ## Çağrı
 
 <a name="6387"></a>
 [Hikaye tapınağın ölçülmesiyle başlar](https://www.bibleserver.com/TR/Vahiy11%3A1-2). Tapınak Tanrı’nın varlığının ve Eski Antlaşma’da esas olarak kurbanların sunulduğu yerdi, ancak İsa nihai kurban olduğu için artık bu işleve sahip değildir. Öyleyse soru şudur: Tapınağın şimdiki amacı nedir?
 
 Bu görümde tapınağın bazı bölümleri ölçülür ve Tanrı bunları sahiplenir, diğerleri ölçülmez (ve Yahudi olmayanlara istedikleri gibi kullanmaları için bırakılır). Resim tapınaktan sunağa ve tapınanlara (en büyükten en küçüğe) doğru gider ve tapınağın odak noktasını gösterir: Tapınanlardır, dolayısıyla Tanrı’yla olan ilişki tapınmayla tanımlanır. Sunağa yapılan göndermeye baktığımızda, [beşinci mühürdeki acı çeken kiliseyi hatırlarız](https://www.bibleserver.com/TR/Vahiy6%3A9-11). Yani ibadet burada ölüme kadar sadakat anlamına gelir. Ve bu iki tanık tarafından yansıtılır.
-
 
 ## İki tanığın kimliği
 
@@ -31,7 +26,6 @@ Tanıkların kim olduğu konusunda pek çok tartışma vardır: Onlar olabilir
 - Yahya’nın İlyas’ın geri gelişi olması gibi peygamberlik figürlerinin özelliklerini taşıyan tarihi figürler
 - eskilerin peygamberleri canlanır ya da
 - iki tanık sembol olarak tasarlanmıştır
-
 
 Metnin kendisi bize ipucu verir. “[Onlar ‘iki zeytin ağacı’ ve iki kandil standıdır ve ‘yeryüzünün Rabbi’nin önünde dururlar](https://www.bibleserver.com/TR/Vahiy11%3A4)’”. Bu, [Zekeriya](https://www.bibleserver.com/TR/Zekeriya4%3A2-14) peygambere bir göndermedir (burada Başkâhin Yeşu ve Davut’un soyundan gelen Zerubbabil ile özdeşleştirilir) ama aynı zamanda [kandillerle özdeşleştirilen yedi kiliseye de bir göndermedir](https://www.bibleserver.com/TR/Vahiy1%3A20).
 
@@ -46,19 +40,16 @@ Peki neyi yansıtıyor? Kiliseyi. Sadece kilise bu ömre sahiptir. Bu görülebi
 - Musa’nın (Mısır’a ve Firavun’a tanıklık etmesi) dünyaya karşı bir tanık olması ve
 - İlyas (İsrail’e ve kraliçe İzebel’e tanıklık eden) kilisenin kendisine (restorasyon) tanıklık eder.
 
-
 Bunu şu şekilde de görebilirsiniz
 
 - Musa’nın İsrail’e tanıklık etmesi (eski antlaşma) ve
 - İlyas ([Yahya olarak tekrar gelir](https://www.bibleserver.com/TR/Matta11%3A13-14)) kiliseye tanıklık eder (eski antlaşma yerine gelmiştir)
-
 
 İster İsrail’e ister genişletilmiş İsrail’e (kilise) yönelik olsun, dışa ya da içe doğru tek bir kilise olduğunu göstermek için.
 
 Peki tek bir kilise varsa neden tek bir tanık olmasın? [Tek bir tanığın hiçbir değeri yoktur](https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B119%3A15) ve çok fazla ortak hareket edilmektedir.
 
 Ancak onlarda tuhaf olan bir şey var:
-
 
 ## İki tanığın karakteri
 
@@ -69,7 +60,6 @@ Ancak onlarda tuhaf olan bir şey var:
 - [dua ederken teslimiyetin göstergesi](https://www.bibleserver.com/TR/1.Krallar20%3A31-32)
 - [tövbe işareti olarak](https://www.bibleserver.com/TR/2.Krallar19%3A1-2)
 - [yaklaşan yargıya işaret eden peygamberlerin kehanet giysileri olarak](https://www.bibleserver.com/TR/Ye%C5%9Faya50%3A3)
-
 
 Bu yüzden düşmüş dünyayı tövbeye çağırmak için geliyorlar.
 
@@ -92,13 +82,10 @@ Bütün bu hikaye sürprizlerle dolu:
 - Bu hikâye aynı zamanda, soykırım tehdidi altındaki Tanrı halkının karşılık vermesine ve büyük bir zafer kazanmasına izin verilen [Ester’in hikâyesinin](https://www.bibleserver.com/TR/Ester9%3A15-25) tersine çevrilmiş halidir. Bir anı olarak Yahudiler bu zamanı kutlar ve birbirlerine bu günün anısına hediyeler gönderirler. Vahiy’de ilahi bir müdahale yoktur. [Onlar öldürülür ve düşmanları birbirlerine hediyeler gönderir](https://www.bibleserver.com/TR/Vahiy11%3A10). Ester’de zafer düşmanlarının öldürülmesiydi, Vahiy’de ise düşmanlarının din değiştirmesiydi.
 - Eski Antlaşma normalde kurtarılan bir kalıntıdan söz eder ama çoğunluk yargıya uğrar. Burada ise durum tam tersidir. [Depremde 7000 kişi ölür ki bu da halkın yüzde onuna tekabül eder](https://www.bibleserver.com/TR/Vahiy11%3A13). Ama bu %90'ının kurtulduğu anlamına gelir. Ayrıca bu %90, [Vahiy’de içten tapınma olarak her zaman olumlu olan](https://www.bibleserver.com/TR/Vahiy16%3A9) Tanrı’ya yücelik verme yükümlülüğü altındadır.
 
-
-
 ## Tanıklar ve hayvanlar
 
 <a name="30fe"></a>
 Canavarlara baktığımızda, nasıl tarif edildiklerine dair bir model izliyorlar ve birbirleriyle uyumlu ve birbirlerini tamamlayan tanıklar gibi davranıyorlar.
-
 
 | Konu | İlk hayvan | İkinci hayvan |
 |------|------------|---------------|
@@ -122,7 +109,6 @@ Canavarlara baktığımızda, nasıl tarif edildiklerine dair bir model izliyorl
 [Anlayışı olan varsa:Saymak](https://www.bibleserver.com/TR/Vahiy13%3A18)  |
 <p>Sonunda ilginç bir chiasmus daha vardır: "İşte" ve "Eğer biri varsa", "Anlayışı olan saysın" ile "Kulağı olan işitsin" arasında bir denklik olduğunu gösterir: Say" ve "Kulağı olan işitsin", yani bilgi eyleme yol açmalıdır (İbranice'de işitmek=itaat etmek) ve "bilgelik" ile "azizlerin sabrı ve imanı", Weishiet'in sabır ve imanla sonuçlanması gerektiğini gösterir.</p>
 Ancak bunun dışında [tanıklar](https://www.bibleserver.com/TR/Vahiy11%3A3-13) ve [hayvanlar](https://www.bibleserver.com/TR/Vahiy13) çok farklıdır.
-
 
 | Tema | Hayvanlar | Şahitler |
 |------|-----------|----------|
@@ -167,9 +153,7 @@ Her ikisi de [üstün gelen İsa’yı](https://www.bibleserver.com/TR/Vahiy12%3
 - canavar amacına ulaşmak için manipülasyon, korku, ayrımcılık ve ölümü kullanır, tanıklar bunların hiçbirini kullanmaz
 - Canavar [panikle hareket eder çünkü zaman kısadır](https://www.bibleserver.com/TR/Vahiy12%3A12), tanıklar [ise korkusuzca hareket ederler çünkü zamanları geldiğinde işlerinin biteceğini bilirler](https://www.bibleserver.com/TR/Vahiy11%3A7)
 
-
 Öyleyse bir imanlı olarak yaşamınıza baktığınızda hangi kategoriye giriyorsunuz? Canavarlara mı yoksa tanıklara mı daha çok benziyorsunuz? Tanıklar gibi olmak ne anlama gelir/neye mal olur?
-
 
 ## Diğer okumalar
 
@@ -184,4 +168,3 @@ Her ikisi de [üstün gelen İsa’yı](https://www.bibleserver.com/TR/Vahiy12%3
 
 [Bauckham, The climax of Prophecy, sayfalar 266–283](../../../../about/ressources/index.html#bauckham_climax)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/expl/the-two-witnesses.tr.md)

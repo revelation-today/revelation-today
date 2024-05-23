@@ -3,9 +3,7 @@ title: "The 70 year weeks"
 weight: 40
 ---
 
-
 The 70 year weeks are a mysterious part of the Bible with even more interesting interpretations about the end times. Let’s take a closer look at what this is all about.
-
 
 ## What is a year week
 
@@ -13,7 +11,6 @@ The 70 year weeks are a mysterious part of the Bible with even more interesting 
 During the creation, God sanctified the seventh day as a day of rest, which is called Sabbath, but there was also the law of the “Sabbatical year”: [Every seventh year the land should rest](https://www.bibleserver.com/NIV/Leviticus25%3A1-7) and [the people should live in trust that God would provide for them](https://www.bibleserver.com/NIV/Leviticus25%3A20-22).
 
 But this never seemed to happen, because when Israel [went into exile, there were 70 years that the Sabbatical year did not happen](https://www.bibleserver.com/NIV/2%20Chronicles36%3A20-21) as prophesied by [Jeremiah](https://www.bibleserver.com/NIV/Jeremiah25%3A11-12). Since the Sabbatical year occurs only every seventh year, we are talking about a period of 7*70=490 years, the entire time that Israel existed as a nation. So a year or week in Daniel consists of 7 years (it is called a week to show the parallel to the Sabbath day — seventh day in a week).
-
 
 ## The promise
 
@@ -33,9 +30,7 @@ Verse 24 describes the result of the 490 years:
 - Seal the vision and prophecy: Sealing here means to confirm.
 - Anoint the most holy place: the most holy place would be the temple, but maybe this is [Jesus](https://www.bibleserver.com/NIV/Romans3%3A25) who is [greater than the temple](https://www.bibleserver.com/NIV/Matthew12%3A6) and is also anointed.
 
-
 When we look at this, we see that all of this goes far beyond what we have seen in history and what only Jesus did on the cross: He paid for all sin, gave us His commandments in our hearts with the Holy Spirit, and much more.
-
 
 ## The 70 years
 
@@ -46,18 +41,13 @@ So let us break down the rest. The rest of the test breaks the 70 weeks into thr
 - 62 (temple is built)
 - 1 (to finish).
 
-
 Verse 25: [‘Know and understand this: from the time the word goes out to restore and rebuild Jerusalem until the Anointed One, the ruler, comes, there will be seven “sevens”, and sixty-two “sevens”. It will be rebuilt with streets and a trench, but in times of trouble.](https://www.bibleserver.com/NIV/Daniel9%3A24-27)
 
 The word to rebuild Jerusalem went out [through the prophet Jeremiah ](https://www.bibleserver.com/NIV/Jeremiah30%3A18)in 588/587 during the fall of Jerusalem. This takes the first 7*7 =49 years and ends in 539 when the [Anointed One Cyrus](https://www.bibleserver.com/NIV/Isaiah45%3A1) [issues a decree to rebuild Jerusalem](https://www.bibleserver.com/NIV/2%20Chronicles36%3A22-23).
 
 Then it takes a while until the temple is rebuilt, which is the year 440 under Nehemiah, and 62*7=434 years pass by when the temple is built and remains but in many troubles as Israel was pushed from the [beginning of the building](https://www.bibleserver.com/NIV/Nehemiah4) through the time of political troubles and changing dominions that ruled of Israel (Persians, Greeks, Syrian-Egyptians, Romans). We are now in the year 6 B.C.
 
-
-
 [26 After the sixty-two “sevens”, the Anointed One will be put to death and will have nothing. The people of the ruler who will come will destroy the city and the sanctuary. The end will come like a flood: war will continue until the end, and desolations have been decreed.](https://www.bibleserver.com/NIV/Daniel9%3A24-27)Here the Anointed One is not Cyrus but Jesus who was born in 6 B.C. “Put to death and have nothing” means in the Aramaic text [“cut off”](https://biblehub.com/interlinear/daniel/9-26.htm), which can also mean [“cut a covenant”](https://biblehub.com/hebrew/3772.htm). He died to make a covenant.The people of the ruler refer to emperor Tiberius and his legions. Here the word “Prince” is used (related to the [prince of this world](https://www.bibleserver.com/NIV/John12%3A31)?). He will come and destroy the city and the sanctuary (temple) in the year 70.The end will come like a flood (of Roman legions), the there will be war until the final war where Israel was deported from Israel in the year 135. The desolation is decreed (by God).
-
-
 
 [He will confirm a covenant with many for one “seven”. In the middle of the “seven” he will put an end to sacrifice and offering. And at the temple he will set up an abomination that causes desolation, until the end that is decreed is poured out on him.](https://www.bibleserver.com/NIV/Daniel9%3A24-27)
 
@@ -96,5 +86,3 @@ I think the second 3.5 years are symbolic for several reasons:
 
 [Wuppertaler Studienbibel, Der Prophet Daniel, pages 334–354](../../../../about/ressources/index.html#daniel)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-70-year-weeks.md)

@@ -4,7 +4,6 @@ title: "Die Armee Gottes (Kap.7)"
 weight: 7
 ---
 
-
 In diesem Kapitel geht es darum, wie wir Christen uns inmitten all des Chaos verhalten sollten, und es beschreibt uns als eine Armee.
 
 Aber diese Armee ist ziemlich seltsam: 

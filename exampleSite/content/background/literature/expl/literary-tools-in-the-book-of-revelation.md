@@ -3,9 +3,7 @@ title: "Literary tools in the Book of Revelation"
 weight: 40
 ---
 
-
 How did the original audience read the book of Revelation? There were no headings or paragraphs, just plain text. Let us take a look at this very different way of reading.
-
 
 ## Introduction
 
@@ -13,7 +11,6 @@ How did the original audience read the book of Revelation? There were no heading
 Hebrew literature is very different from ours. They did not have chapters or verses, but letters in rows with minimal graphic or visual indicators, since they were meant to be read aloud (heard) rather than seen.
 
 There are indicators to show where a story begins and ends, how the stories are connected and organized, and where the emphasis is. But even the breaking of such structure can give a signal to the reader. We get a much richer understanding when we study and understand these structures, but we should not force it so that we see structure where the author did not intend it.
-
 
 ## Basis steps
 
@@ -25,11 +22,9 @@ To understand the literature, it is useful to follow these three steps
 - Units can be on word level or larger units of text.
 - This even happens on a cascading level because the human brain cannot handle too many small units, so they are usually broken into 3 to 9 units and then collected into a super unit.
 
-
 2, Analyze the arrangement of these units
 
 - Could by repetitive, parallel, non-linear
-
 
 3, Consider the relationship of the structure to its meaning
 
@@ -37,8 +32,6 @@ To understand the literature, it is useful to follow these three steps
 - In a symmetrical structure, the emphasis is often in the center.
 - The mix of parallels and contrasts within a structure can also be used as emphasis.
 - Breaks in flow can also draw attention.
-
-
 
 ## Identify units
 
@@ -53,14 +46,12 @@ Start markers can also be combined:
 - Rhetorical questions,
 - Shift in time, place, characters or speakers, theme, genre, pace, tense or mood.
 
-
 End markers could be
 
 - Closing formula,
 - Poetic refrain,
 - Conclusion or summary,
 - Flashback.
-
 
 Unit as an independent, self-contained and complete package
 
@@ -69,8 +60,6 @@ Unit as an independent, self-contained and complete package
 - Compatibility in content,
 - Package size: typically 15–20 pages (large) or Bible chapter (medium) or single sentence or several paragraphs (small),
 - Usually 7 or 13, 14 units, but 3 or 5 are also possible.
-
-
 
 ## The arrangement of units
 
@@ -81,16 +70,13 @@ There are three types that can be combined
 - parallel (a-b-c-a’-b’-c’),
 - symmetric (a-b-c-’b’-a’).
 
-
 There are many combinations
 
 - a-b-c-d-e-a’ combines linear and symmetric patterns, like a sentence that starts with an assumption and ends with a summary that proves the assumption.
 - a-b-c-d-’b’-c’-a’ is a modified symmetry, a combination of symmetric and parallel patterns, and would draw the reader’s attention to the b’-c’ switch.
 - a-a’-b-b’-c-c’-d-d’ combines linear and parallel patterns and can tell parallel but distinctive stories like Gen.38/2–50/26.
 
-
 The same story can be seen in different patterns, e.g. for Gen.37/2–50/26 it can be red as a-b-c-d-e-f-g-g’-f’-e’-d’-c’-b’-a’ or a-a’-b-b’-c-c’-d-d’-e-e’-f-f’-g-g’.
-
 
 ### Linear pattern
 
@@ -99,8 +85,6 @@ They are easy to follow. They could be
 
 - chronological, like stories with some overlap of the timeline or flashback or other brackets
 - non-chronological like spatial (north, east, south, west) or collection or along the alphabet
-
-
 
 ### Parallel pattern
 
@@ -114,7 +98,6 @@ They can be set like a-b-c-a’-b’-c’, where the respective x’ has a simil
 - b: proclaims
 - c: his work
 
-
 There may be parts that do not match, they may be at the end (a-b-c-a’-b’-c’, d), in the middle (a-b-c-d-a’-b’-c’), or rarely at the beginning (a-b-c-d-a’-b’-c’).
 
 Parallel patterns may not be so easy to recognize, but they provide a point of satisfaction and anticipation. We have this in fairy tales like The Three Little Pigs (in the second house we think we know the pattern and the author can surprise us in the third house where he gives a lecture).
@@ -123,7 +106,6 @@ Parallel pattern
 
 - Makes it easier to remember
 - Can introduce comparison, contrast, emphasis, explanation, illustration
-
 
 Example: Jonah
 
@@ -135,9 +117,7 @@ Example: Jonah
 - c’: Jonah’s response to YHWH’s mercy: resentment (4/1–4)
 - d: YHWH’s lesson (4/5–11)
 
-
 This structure gives the impression that his first prayer was hypocritical and his second selfish, but the arrangement of the story can convey this through the structure without being moralizing.
-
 
 ### Symmetric patterns
 
@@ -157,15 +137,12 @@ This approach has several advantages
 - Memory aid: audience can remember successive point easier (usually learn it by heart)
 - Opportunities to use repetition: Adding opportunities to compare, contract, reiterate, emphasize, explain or illustrate.
 
-
 This also has a disadvantage:
 
 - requires more from the audience to recognize it,
 - requires more work from the author.
 
-
 But in spite of all odds, the symmetrical form was very much appreciated in the ancient world.
-
 
 ## Understanding structures
 
@@ -178,13 +155,10 @@ There are three main ways to convey meaning through structure
 - Structured repetition
 - Position of emphasis
 
-
-
 ### Overall structure
 
 <a name="8d71"></a>
 The overall structure can convey the author’s message.
-
 
 ### Structured repetition
 
@@ -194,7 +168,6 @@ Not all structures are used to show meaning, sometimes it is just for artistic b
 - Structural: helps create a structural scheme for the composition, e.g., listing Noah’s three sons before and after the flood (Gen 6/9–10 and 9/18–19) creates balances and brackets the story.
 - Elaboration: Second unit of the paired unit develops the theme, e.g., Gen 28/6–9 introduces Esau’s wife while Gen 36 traces the rest of Esau’s family.
 - Second perspective: Takes the first unit from a different point of view or summarizes it, e.g. the crossing of the Jordan gives two points of view (Josh.3/9–17: from the east a crossing begins and is completed, Josh.4/10–13: from the west as it proceeds and is completed).
-
 
 On the other hand, it can also be used to convey meaning, as in the prayer of Jonah (Jon.2/2–9 and 4/1–3).
 
@@ -210,8 +183,6 @@ This can be done in several ways in the Hebrew language:
 - Resolution (or fulfillment): Emphasizes the close connection between the story’s opening tension, suspense, or prediction and its closing resolution or fulfillment (Gen 12/1–9: Abram and Sarah’s childlessness, 21/1–7: Isaac’s birth).
 - Totality: to show the totality of a phenomenon by showing both halves of a merism (day and night, man and woman) (Isa.2/10–22: future humiliation of proud man, 3/16–17: future humiliation of proud woman).
 
-
-
 ### Positions of Prominence
 
 <a name="e6b3"></a>
@@ -222,15 +193,12 @@ In Hebrew literature, in linear and parallel structures, this is the last unit b
 - In an odd-numbered parallel scheme, the position of the last unit is accentuated by the unmatched unit, such as a-b-c-a’-b’-c’-d.
 - In a symmetric scheme, the center is usually the position of prominence if odd, but for an even number it is the first and last as in Ex.21/2–22/27 (where the beginning and end deal with capital offenses and kindness to the poor).
 
-
 The meaning could be
 
 - Turning Point: The center is the turning point in the story, e.g. Ehud (Jugd. 3/12–30) where the turning point is when he kills the king. Also the whole structure of Judges has Gideon as a turning point.
 - Climax: This is also the case in Ehud’s story, the point of highest tension.
 - Centerpiece: represents the climax, e.g., Songs 3/6–5/1 is the wedding, Chr. Center is Solomon, the builder of the temple (2 Chr. 1–9).
 - Significant Pause (or Interlude): A notable pause in the action or argument of the composition to make a highly significant point.2 Kings 2/1–8/6 is a pause in the relentless, almost uninterrupted parade of the sins of the kings, broken by the ministry of Elisha.2 Kings 3/21–32: pauses in relentless tragic eulogy to reflect on the profound love of God.
-
-
 
 ## Value of structural analysis
 
@@ -245,12 +213,9 @@ There are many values
 - Explanation of the apparently misplaced units: Some passages seem to be misplaced, but structural analysis helps to understand their position, e.g. Gen 38 seems to interrupt the story of Joseph, but was used to contrast his behavior at Potiphar’s place. This wrongful treatment of Joseph while Judah gets away with it will lead to the parallel chapter of disowning Judah and giving the firstborn right to Joseph.
 - Clarifying a unit by comparing it to its counterpart: The meaning of a function of a unit can be clarified by comparing it to its counterpart.
 
-
-
 ## Dig deeper
 
 [David A. Dorsey, The literary structure of the Old Testament, pages 15–44](../../../../about/ressources/index.html#dorsey)
 
 [Jerome T. Walsh, Biblical Hebrew Narrative, pages 7–11](../../../../about/ressources/index.html#walsh)
 
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literary-tools-in-the-book-of-revelation.md)

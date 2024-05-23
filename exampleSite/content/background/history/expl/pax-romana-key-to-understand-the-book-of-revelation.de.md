@@ -3,9 +3,7 @@ title: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
 weight: 2
 ---
 
-
 Du magst denken, dass die Offenbarung in der Bibel oder der römische Friede im alten Rom nichts mit unserer Zeit zu tun haben. Aber du irrst dich, und ich will dir sagen, warum.
-
 
 ## Pax Romana
 
@@ -17,7 +15,6 @@ Pax Romana bedeutet “Römischer Friede” und bezieht sich auf die Zeit von 27
 - Blüte von Kunst und Kultur
 - (Aber auch eine Zeit von Verfolgung von Christen unter Nero, Domitian und Trajan, obwohl systematische Verfolgungen erst 253 u.Z. wirklich anfingen.)
 
-
 Der Grundgedanke der Pax Romana lautete
 
 - Die Götter haben Rom auserwählt.
@@ -25,7 +22,6 @@ Der Grundgedanke der Pax Romana lautete
 - Die Segnungen der Götter (Sicherheit, Frieden, Gerechtigkeit, Wohlstand, Fruchtbarkeit, …) sind allen zugänglich, die sich Rom als Herrscher unterwerfen.
 - Die Pax Romana ist das ersehnte “Goldene Zeitalter”.
 - Deshalb ist der Kaiser der Verehrung, der Loyalität und der göttlichen Titel würdig.
-
 
 Die Kehrseite der Medaille war, dass das Goldene Zeitalter durch Gewalt, Unterdrückung und Befriedung erreicht und bewahrt wurde und die goldene Seite nur wenigen zugänglich war.
 
@@ -37,11 +33,9 @@ Propagiert wurde die Pax Romana durch
 - Statuen,
 - Münzen.
 
-
 Und sie war immer präsent, oft überwältigend und Mittelpunkt des kulturellen und sozialen Lebens.Konkret hieß das: in der Unterhaltung, im Berufsleben, auf dem Markt und sogar beim Essen. Und jeder achtete darauf, dass niemand etwas tat, was die Gunst des Kaisers gefährden konnte.
 
 Viele Städte (vor allem in Kleinasien, wo sich die Gemeinden befanden, an die die Sendschreiben adressiert waren) wetteiferten im Bau von Tempeln zu Ehren des Kaisers oder der Götter und in der Verbreitung der Propaganda der Pax Romana. Damit erhofften sie sich Unterstützung durch den Kaiser oder Steuererleichterungen.
-
 
 ## Pax Romana und Christen
 
@@ -55,16 +49,13 @@ Für die Christen gab es mehrere große Probleme.
 - Man warf ihnen Intoleranz vor, weil sie nur an einen Gott glaubten, während das Römische Reich jeden anderen Gott akzeptierte.
 - Es war leicht, mit dem Strom zu schwimmen (zumindest äußerlich)
 
-
 Daraus ergaben sich drei Möglichkeiten:
 
 - Du verleugnest deinen Glauben, denn [du kannst nur einen Herrn haben](https://www.bibleserver.com/SLT/Matth%C3%A4us6%2C24): Jesus oder den Kaiser.
 - Du lebst deinen Glauben in aller Konsequenz und riskierst soziale und wirtschaftliche Isolation und Ruin, Gefängnis oder gar Tod oder
 - Du spielst äußerlich mit (bekennst dich mit dem Mund zum Kaiser), bleibst aber mit dem Herzen Jesus treu, was Heuchelei wäre.
 
-
 Die dritte Option war für viele attraktiv und ein wichtiges Thema in der Offenbarung: [Mit dem Stil der Offenbarung als Apokalypse werden diese Menschen aber vor die Wahl gestellt: Ganz mit Gott oder ganz ohne ihn](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it). In der Konsequenz beschreibt die Offenbarung eine Gegenpropaganda zur römischen Kaiserpropaganda - der Pax Romana.
-
 
 ## Betrachtungen
 
@@ -77,17 +68,13 @@ Hier einige Fragen zum Nachdenken:
 - Hast du das Gefühl, dass du anderen in bestimmten Bereichen deines Lebens etwas vormachen musst? Warum? Was würde passieren, wenn du es nicht tust?
 - Was wäre, wenn du in eine Situation gerätst, in der deine persönliche Meinung/dein Glaube dich sehr viel kosten würde? Würdest du treu bleiben? Würdest du nachgeben? Wie würde das praktisch aussehen?
 
-
-
 ## Zum Weiterlesen
 
 <a name="5287"></a>
 - [Was für ein Buch ist das?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 - [Struktur des Buches](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
 
-
 ## Zum Vertiefen
 
 [Beale, Revelation, Seiten 28–33](../../../../about/ressources/index.html#beale_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation.de.md)

@@ -4,7 +4,6 @@ title: Israel
 weight: 5
 ---
 
-
 Was ist Israel und wer gehört zu Israel?
 
 Das ist ein sehr interessantes Thema und selbst im Alten Testament nicht so, wie man denken könnte.

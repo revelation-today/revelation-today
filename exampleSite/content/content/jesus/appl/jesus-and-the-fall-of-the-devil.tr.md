@@ -3,15 +3,12 @@ title: "İsa ve şeytanın düşüşü"
 weight: 1
 ---
 
-
 Şimdi garip resimler ve olaylarla dolu bir bölüme geliyoruz. Ancak hikaye çok basit ve siz bunu çok iyi biliyorsunuz.
-
 
 ## Bizim metnimiz
 
 <a name="3d55"></a>
 Hızla ilerliyoruz ve [12. bölüme](https://www.bibleserver.com/TR/Vahiy12) ulaştık.
-
 
 ## İsa doğdu
 
@@ -27,7 +24,6 @@ Kadın, şeytan (ejderha) tarafından saldırıya uğrayan İsa’yı doğuran �
 - İsrail’i yenemez
 - Ayrıca bir sonraki bölümde İsa’nın tohumunu (kiliseyi) yok etme girişimi de destansı bir başarısızlıktır
 
-
 Ama gerçek bu mu? Şeytan yenilmiş gibi görünmüyor. Dünya üzerinde kontrolü tamamen ele geçirmiş gibi görünüyor ve Hıristiyanlar kaçıyor.
 
 Ancak bu bölüm bunu açığa çıkarmaktadır. Şeytan[ yenilgiye uğradığını bildiği için](https://www.bibleserver.com/TR/Vahiy12%3A11-12) mümkün olduğunca çok zarar verir. Onun güç gösterisi yenilgisinin kabulüdür.
@@ -38,7 +34,6 @@ Bu bölümde ve ondan önceki ve sonraki bölümlerde garip zamanlar görürsün
 
 Yetki sahibi iki tanık ve hüküm süren şeytan vardır. Bu aynı zamanda kilisenin zaferinin canavarın zaferinden farklı olmasıyla aynı zamanda gerçekleşir. Canavar düşmanlarını yok etmek isterken, kilise düşmanlarını ve onların Tanrı’yla olan ilişkilerini düzeltmek ister, bu kilisenin acı çekmesi, yıkılmış ve yenilmiş görünmesi anlamına gelse bile.
 
-
 ## Peki bu bizim için ne anlama geliyor?
 
 <a name="aaae"></a>
@@ -48,7 +43,6 @@ Kendimizi çoğu zaman ya zafer kazanmış ya da yenilmiş (belki de yeterli ina
 
 Zayıf olabilir ve kendimizi çaresiz hissedebiliriz (ve bu duygulara izin vermekte bir sakınca yoktur) ama İsa’yı izlemekte sadık olduğumuz sürece umutsuzluğa kapılmamıza gerek yoktur.
 
-
 ### Yansıma
 
 <a name="2f40"></a>
@@ -57,11 +51,7 @@ Zayıf olabilir ve kendimizi çaresiz hissedebiliriz (ve bu duygulara izin verme
 - Şeytan’ın cennetten kovulduğunu ama çok az zamanı olduğu için mümkün olduğunca çok tahribat yarattığını görmek sizin için ne anlama geliyor? Bir Hıristiyan olarak bu sizin yaşamınızı nasıl etkiliyor?
 - Şeytan’ı etrafınızdaki dünyada sürekli kaybeden olarak görebiliyor musunuz?
 
-
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -72,10 +62,3 @@ Zayıf olabilir ve kendimizi çaresiz hissedebiliriz (ve bu duygulara izin verme
 - [3,5 yıl](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 - [İsa doğdu](../../../../content/jesus/expl/a-different-christmas-story)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/appl/jesus-and-the-fall-of-the-devil.tr.md)

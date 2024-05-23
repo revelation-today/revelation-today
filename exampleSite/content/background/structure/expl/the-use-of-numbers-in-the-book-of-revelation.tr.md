@@ -3,11 +3,9 @@ title: "Vahiy Kitabı’nda sayıların kullanımı"
 weight: 40
 ---
 
-
 Kitap sayılarla dolu ama bunlar ne anlama geliyor? Sayılar 1260 gün gibi harfi harfine mi alınır yoksa başka bir şekilde mi anlamlandırılmalıdır? Kutsal Kitap boyunca sayılar nasıl kullanılır?
 
 Sayılar Kutsal Kitap’ta genellikle önceki bir öyküye atıfta bulunmak için kullanılır. İsrail 12 kabileden oluşurken İsa 12 havari seçmiştir. İsrail 40 yıl boyunca çölden geçmek zorunda kaldı, 40 günün ardından İsrailliler vaat edilen toprakları araştırdılar ancak inançları yoktu.
-
 
 ## 7 numara
 
@@ -26,12 +24,10 @@ Yedi kiliseye hitap edilmesi de bütünlüğü ifade eder.
 
 Vahiy’deki bütünlüğün diğer örnekleri, Tanrı’nın yargısının bütünlüğünü göstermek için 7 mühür, 7 borazan ve 7 gazap çanağıdır.
 
-
 ## Sayı 3,5
 
 <a name="832f"></a>
 [Burada kendi makalemiz var](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-
 
 ## 4 numara
 
@@ -48,8 +44,6 @@ Hükümlerin 4+3 kalıbına bölünmesi de muhtemelen bunun bir sonucudur. Kitab
 - [mühürlerin sonuçlanması,](https://www.bibleserver.com/TR/Vahiy8%3A5)
 - [boruların çalınması](https://www.bibleserver.com/TR/Vahiy11%3A19) ve
 - [kaselerin sonuçlanması.](https://www.bibleserver.com/TR/Vahiy16%3A18)
-
-
 
 ## 4x7 kombinasyonu
 
@@ -68,9 +62,7 @@ Ayrıca, [Babil’deki tüccarların mal listesinde ](https://www.bibleserver.co
 - Kuzu ve Tanrı birlikte 7 kez ifade edilir
 - Muhtemelen kilisenin tanıklığı aracılığıyla/ile tüm dünyaya gönderilen ilahi egemenliğin doluluğunu göstermek için yedi ruhtan 4 kez bahsedilir (5/6)
 
-
 Şeytan’da, canavarda ya da sahte peygamberde böyle bir model yoktur, sadece Mesih’in taklidinde vardır.
-
 
 ## 12 sayısı
 
@@ -81,7 +73,6 @@ On iki havari Yeni Antlaşma’da bunun ayna görüntüsüdür.
 
 [Vahiy’de on iki sayısının karesi alınır ve tamlığı göstermek için 1000](https://www.bibleserver.com/TR/Vahiy7%3A4-8) ile çarpılır. Bu o kadar önemlidir ki, on iki sayısı Yeni Yeruşalim’in tasvirinde kutsalların son zaman tamlığının bir resmi olarak ve ayrıca [3*4 kapı](https://www.bibleserver.com/TR/Vahiy21%3A13) ve [12 değerli taş](https://www.bibleserver.com/TR/Vahiy21%3A19-20) olarak on iki kez kullanılmıştır.
 
-
 ## Diğer numaralar
 
 <a name="b417"></a>
@@ -89,15 +80,12 @@ On iki havari Yeni Antlaşma’da bunun ayna görüntüsüdür.
 - [Karşı topluluğun fahişesi 4 kez](https://biblehub.com/greek/4204.htm), [kadın 7 kez](https://biblehub.com/greek/1135.htm), [yeryüzünde yaşayanlar 10 kez geçer](https://biblehub.com/greek/3625.htm).
 - Babil’den ve “büyük” kelimesinden 6 kez bahsedilir. 6 kez kadın sözcüğü Babilli fahişeye atfen kullanılmıştır. 6, altıncı günde yaratıldığı için insanın sayısı olarak (Tanrı’nın tersine) kullanılır.
 
-
-
 ## Diğer düşünceler
 
 <a name="975c"></a>
 Kitabın sonuna doğru temanın yoğunlaştığını göstermek için bazı kelimeler daha sık tekrarlanır (12 -&gt; Tanrı’nın kiliseyle birleşmesi, “Alfa ve Omega” ve hikayenin sonucu olarak İsa’nın eşdeğerleri).
 
 Bazı isim sayıları tesadüfi olsa bile, sıklık burada da sayılar üzerinden vurgular yapıldığını/ifadelerde bulunulduğunu göstermektedir. A.Y.Collins 4,7 ve 12 sayılarının apokaliptik edebiyatta, özellikle de Vahiy kitabında kozmik bir düzen olduğunu savunur. Yuhanna bunu her şeyin arkasında Tanrı’nın olduğunu ve kontrolü elinde tuttuğunu göstermek için kullanır, sayılar Şeytan’ın ve Şeytan’ın yakalandığı ağı temsil eder, böylece Tanrı’nın nihai zaferi kesin ve görünür olur.
-
 
 ## Aritmetik
 
@@ -119,14 +107,12 @@ En küçük (önemsiz olmayan) kare üçgen sayı 36'dır. Bu, canavarların çe
 - İnsanın ya da başka bir deyişle tanrı olmayan gücün sayısı olan 6 ile ilişkilidir (36, 6'nın karesidir).
 - 6. dikdörtgen sayı, [canavarın faaliyetlerinin 42 ayını tanımlayan 42'dir](https://www.bibleserver.com/TR/Vahiy13%3A5).
 
-
 Ancak bir sonraki en küçük (ve belki de Johns zamanında bilinen tek diğer) 1225 olacaktır ki bu da burada yansıtılmaktadır
 
 - 36'yı çok geride bırakır ve elde edilmesi daha karmaşıktır
 - 35'in karesidir (36'dan sadece bir eksiktir, ancak farklı karşılaştırma ölçeklerinde)
 - 35. dikdörtgen sayı 1260'tır ve [iki tanığın faaliyetlerinin zamanını tanımlar](https://www.bibleserver.com/TR/Vahiy11%3A3)
 - 49. üçgensel sayıdır, 49 ise 7'nin karesidir ve bütünlüğü veya eksiksizliği tanımlar
-
 
 Gerçek şu ki, Tanrı’nın krallığı Şeytan’ın devasa bir parodi olan krallığından çok daha üstündür. 666'nın (1225'e göre) 750.925 olan eşdeğerini ele alalım. Bunun 2 m boyunda bir insan olduğunu varsayalım, Şeytan’ın gücü 2 mm’den daha kısa bir böcekle kıyaslanacaktır!
 
@@ -138,15 +124,7 @@ Ancak biz genellikle Şeytan’ın her zaman biraz daha güçlü olduğu çarpı
 
 ## Daha fazla kazma
 
-
 [Beale, Revelation, sayfalar 60–64](../../../../about/ressources/index.html#bealy_rev)
 
 [Bauckham, The climax of prophecy, sayfalar 384–407](../../../../about/ressources/index.html#bauckham_climax)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation.tr.md)

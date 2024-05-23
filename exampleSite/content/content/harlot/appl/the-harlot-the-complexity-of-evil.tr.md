@@ -3,15 +3,12 @@ title: "Fahişe: Kötülüğün karmaşıklığı"
 weight: 1
 ---
 
-
 Vahiy kitabındaki fahişeyi kavramak zordur, çünkü yeryüzündeki kötü sistemin karmaşıklığını gösterir. Ancak biraz sabırla bu konuda iyi bir görüş elde edebiliriz.
-
 
 ## Bizim metnimiz
 
 <a name="0a25"></a>
 [Bölüm 17](https://www.bibleserver.com/TR/Vahiy17), [18](https://www.bibleserver.com/TR/Vahiy18) ve [19](https://www.bibleserver.com/TR/Vahiy19)'da hızla ilerliyoruz.
-
 
 ## Fahişe kim?
 
@@ -28,7 +25,6 @@ Fahişenin kendisi Mesih’in gelininin (kilise) karşılığıdır ve esas olar
 
 Fahişe, bu dünyanın yöneticilerini refah getirmeleri için etkilemiştir (eğer Hıristiyan olmaktaki temel amacınız buysa dikkatli olun).
 
-
 ## Fahişenin etkisi ve hükmü
 
 <a name="0bff"></a>
@@ -38,14 +34,12 @@ Mükemmel kilise olmak (rahatsız edici tanıklık ve şehitliğe değil, bereke
 
 Fahişe gururludur ve kendini dokunulmaz olarak görür, bu yüzden yargısı tarihi Babil’in üzerine geldiği gibi hızlı gelecektir. Babil çifte ölçü ile yargılanacaktır, yani başkalarına dağıttığı şeyin aynısını çekecektir.
 
-
 ## Ya şimdi?
 
 <a name="9de2"></a>
 Fahişe yargılandı, yani şimdi Mesih’in gelini düğün için hazır. Kilise artık damadını görmeye hazırdır. Ancak bundan önce şeytani üçlünün geri kalanını yargılayacaktır.
 
 Ağzından çıkan bir kılıçla gelir ve herkesi tek başına yargılar (melekler sadece şeytanı ve sahte peygamberi yakalamak için oradadır). Bu bir savaş değil, daha çok bir mahkeme salonudur. İsa son yargıyı getirir.
-
 
 ### Yansıma
 
@@ -56,11 +50,7 @@ Ağzından çıkan bir kılıçla gelir ve herkesi tek başına yargılar (melek
 - Günümüzün hangi zihniyeti fahişenin zihniyetini yansıtıyor?
 - Babil düştüğünde hangi şeyler için yas tutarsınız?
 
-
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -70,10 +60,3 @@ Ağzından çıkan bir kılıçla gelir ve herkesi tek başına yargılar (melek
 - [Zamanın alay konusu olarak fahişe](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
 - [Fahişenin karakteri ve kaderi](../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/appl/the-harlot-the-complexity-of-evil.tr.md)

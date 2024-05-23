@@ -3,9 +3,7 @@ title: "The church is part of Israel"
 weight: 6
 ---
 
-
 This sounds strange. Isn’t the Church greater than Israel? Or is the Church replacing Israel? Or will Israel make a comeback at the end of times without the church? This implies a controversy that does not exist.
-
 
 ## The mystery of the Gentiles
 
@@ -18,7 +16,6 @@ Jesus is the New Covenant, and Jews and Gentiles are end-time Israel. This began
 
 There are many terms used in the Old Testament for Israel that are now used for the Church, which is the new Israel, which includes ethnic Israel that believes in Jesus, which includes Gentiles that believe in Jesus. In fact, [the covenant with Israel was only an intermediary between Abraham and the Church](https://www.bibleserver.com/NIV/Galatians3%3A23-28).
 
-
 ## Beloved of the Lord
 
 <a name="3d64"></a>
@@ -27,7 +24,6 @@ This is a term used when God calls the [tribe of Benjamin](https://www.bibleserv
 But we also find this term when [Paul mentions that the we are chosen](https://www.bibleserver.com/NIV/1%20Thessalonians1%3A4). Interestingly he also uses the term “ekklesia” here, which is used in the Old Testament to describe when Israel gathers together to worship God.
 
 In the [letter of the Romans](https://www.bibleserver.com/NIV/Romans9%3A25) the prophet [Hosea is called to calls Israel his beloved](https://www.bibleserver.com/NIV/Hosea2%3A23) which is now fulfilled for the Gentiles.
-
 
 ## Gods son
 
@@ -43,23 +39,19 @@ Israel is called God’s son,
 - [when Israel’s tribe Ephraim is called first-born](https://www.bibleserver.com/NIV/Jeremiah31%3A9),
 - [spoken of as first-born of David’s son](https://www.bibleserver.com/NIV/Psalm89%3A27).
 
-
 The church is called God’s Son, just as Jesus is God’s Son and we are [all His brothers](https://www.bibleserver.com/NIV/Hebrews2%3A11) because [we are all adopted by Him](https://www.bibleserver.com/NIV/Galatians4%3A4-7). As [Jesus is Abraham’s seed](https://www.bibleserver.com/NIV/Galatians3%3A16), [so are we](https://www.bibleserver.com/NIV/Galatians3%3A26-29). We are [children of the promise like Isaac](https://www.bibleserver.com/NIV/Galatians4%3A28) and [Jerusalem is our mother](https://www.bibleserver.com/NIV/Galatians4%3A26).
 
 [We are also called the descendants of Israel](https://www.bibleserver.com/NIV/1%20Corinthians10%3A1).
-
 
 ## Circumcision
 
 <a name="7f94"></a>
 This is actually something [that goes back to Abraham](https://www.bibleserver.com/NIV/John7%3A22). Paul states [that a Jew who is only circumcised “outwardly” but not in his heart is not a Jew](https://www.bibleserver.com/NIV/Romans2%3A26-29), [later confirming](https://www.bibleserver.com/NIV/Philippians3%3A2-3) and showing that [true circumcision is only possible in Christ](https://www.bibleserver.com/NIV/Philippians3%3A2-3).
 
-
 ## The temple
 
 <a name="3b81"></a>
 Another identification is the temple which is the place where Israel had fellowship with God. We are now [that temple now](https://www.bibleserver.com/NIV/1%20Corinthians3%3A16-17) and should therefore [take care on our lifestyle](https://www.bibleserver.com/NIV/1%20Corinthians6%3A19). The [temple is based on Jesus](https://www.bibleserver.com/NIV/Ephesians2%3A20-22).
-
 
 ## Bride of God
 
@@ -70,18 +62,15 @@ But the [church is also called a bride](https://www.bibleserver.com/NIV/2%20Cori
 
 In Revelation the [bride of Christ is the church](https://www.bibleserver.com/NIV/Revelation21%3A9-10) which includes elements of the church ([apostles](https://www.bibleserver.com/NIV/Revelation21%3A14)) as well as Israel ([tribes](https://www.bibleserver.com/NIV/Revelation21%3A12))
 
-
 ## Kingdom of priests
 
 <a name="324b"></a>
 Israel is called a [kingdom of priests](https://www.bibleserver.com/NIV/Exodus19%3A6) which is directly applied to the church in [Peter](https://www.bibleserver.com/NIV/1%20Peter2%3A9), the introduction in [Revelation](https://www.bibleserver.com/NIV/Revelation1%3A5-6) and later in the [worship of Christ](https://www.bibleserver.com/NIV/Revelation5%3A10).
 
-
 ## Gods vineyard
 
 <a name="3501"></a>
 God applies the image of the [vineyard to Israel](https://www.bibleserver.com/NIV/Isaiah5%3A1-7), which is [mistreated](https://www.bibleserver.com/NIV/Jeremiah12%3A10) or [abundant](https://www.bibleserver.com/NIV/Ezekiel19%3A10). Jesus picks up [this image and shows the failure of Israel and gives it to others who bring fruit](https://www.bibleserver.com/NIV/Matthew12%3A1-12), which is then applied by [Paul to the church](https://www.bibleserver.com/NIV/1%20Corinthians3%3A5-8).
-
 
 ## Olive tree
 
@@ -91,7 +80,6 @@ Israel is mentioned as an olive tree, e.g. for the [northern kingdom](https://ww
 This could be [individuals in Israel](https://www.bibleserver.com/NIV/Psalm128%3A3) or leaders such as a [judge in Israel](https://www.bibleserver.com/NIV/Judges9%3A8-9) or [King David](https://www.bibleserver.com/NIV/Psalm52%3A8) or [Joshua and Zerubbabel](https://www.bibleserver.com/NIV/Zechariah4%3A3-12).
 
 On the other hand the [Gentiles are described as becoming part of the olive tree](https://www.bibleserver.com/NIV/Romans11%3A17-24) and the [church is identified](https://www.bibleserver.com/NIV/Revelation1%3A20) as the [two olive trees from the prophet Zechariah](https://www.bibleserver.com/NIV/Zechariah4%3A12-14) which is further elaborated in the [context of the two witnesses](https://www.bibleserver.com/NIV/Revelation11%3A4).
-
 
 ## Treasured possession of God
 
@@ -104,18 +92,15 @@ The phrase “eager to do what is good” is a call for Israel to be obedient to
 
 Redeem from all wickedness is a reference to the [Psalms where Israel is promised to be redeemed from all wickedness](https://www.bibleserver.com/NIV/Psalm130%3A8).
 
-
 ## The ministry
 
 <a name="121f"></a>
 
 [Isaiah 49](https://www.bibleserver.com/NIV/Ezekiel9%2C39) is fulfilled in the church.
 
-
 | Isaiah 49 | Jesus | is fulfilled in the church |
 |-----------|-------|----------------------------|
 | [And he said unto me, Thou art my servant, thou art Israel, by <span style="color:red;">whom I glorify</span>.](https://www.bibleserver.com/NIV/Isaiah49%2C3) </br> [And now the LORD, who formed me from the womb to be his servant, to bring Jacob back to him-Israel not gathered, yet I was honored in the eyes of the LORD, and my God was my strength-yes, he says, "It <span style="color:red;">is small</span> that thou art my servant to raise up the tribes of Jacob, and to bring again the preserved out of <span style="color:brown;">Israel</span>; but I have set thee also for <span style="color:green;">light</span> unto the <span style="color:brown;">Gentiles</span>, that <span style="color:black;">thou mayest be my salvation unto the end of the earth</span>! "](https://www.bibleserver.com/NIV/Isaiah49%2C5-6) </br>[and I will keep thee, and set thee for a covenant for the people, for a <span style="color:green;">light</span> for the Gentiles; that thou mayest not see the <span style="color:green;">open the eyes of the blind</span>, bring out the <span style="color:red;">bound from prison</span> and from the dungeon those who sit in <span style="color:green;">darkness</span>.](https://www.bibleserver.com/NIV/Isaiah42%2C6-7) </br> [I will lead the blind by a way they know not, and guide them in paths unknown to them; I will make the <span style="color:green;">darkness light</span> before them, and the hilly a plain. These words I will fulfill and will not let go of them.](https://www.bibleserver.com/NIV/Isaiah42%2C16) | [a <span style="color:green;">light</span> for revelation to the <span style="color:brown;">pagans</span> and for <span style="color:red;">glorification</span> of your people <span style="color:brown;">Israel</span>!](https://www.bibleserver.com/NIV/Luke2%2C32) </br> [namely, that the Christ must suffer, and that, as the firstfruits from the resurrection of the dead, he would preach <span style="color:green;">light</span> <span style="color:brown;">to the people</span> and also to the <span style="color:brown;">Gentiles</span>.](https://www.bibleserver.com/NIV/Acts26%2C23) | [For thus the Lord has commanded us, "I have set you as <span style="color:green;">light</span> to the <span style="color:brown;">Gentiles</span>, that you may be <span style="color:brown;">salvation to the ends of the earth</span>!"](https://www.bibleserver.com/NIV/Revelation17%2C3) </br> [To open their <span style="color:green;">eyes</span>, that they may be converted from <span style="color:green;">darkness to light</span> and from the <span style="color:red;">dominion of Satan to God</span>, that they may receive forgiveness of sins and an inheritance among those who are sanctified by faith in me!](https://www.bibleserver.com/NIV/Acts26%2C18) |
-
 
 ## Pouring out of the Spirit
 
@@ -130,7 +115,6 @@ When [Cornelius and his household received the Holy Spirit](https://www.bibleser
 
 Acts 2 is fulfillment of Acts 1 (filled with the Holy Spirit. Acts 1/8 is fulfillment of Isaiah.
 
-
 | Isaiah | Acts 1:8 |
 |--------|----------|
 | [until the <span style="color:red;">Spirit from on high is poured out upon us</span>. Then the desert will become a garden of fruit, and the garden of fruit will be esteemed as a forest.](https://www.bibleserver.com/NIV/Isaiah32%2C15) </br> [<span style="color:green;">You are my witnesses</span>, says the LORD, and my servant whom I have chosen, that you may know and believe me and see that I am he; before me there was no God formed, and after me there will be none](https://www.bibleserver.com/NIV/Isaiah43%2C10). </br> [<span style="color:green;">And ye are my witnesses</span>, saith the LORD, that I am God](https://www.bibleserver.com/NIV/Isaiah43%2C12). </br> [But I have also set you to be light to the Gentiles, that <span style="color:brown;">you may be my salvation to the ends of the earth</span>!](https://www.bibleserver.com/NIV/Isaiah49%2C6) | but you will receive power (fulfillment of [Luke](https://www.bibleserver.com/NIV/Luke24%2C49)) when the <span style="color:red;">Holy Spirit has come upon you</span>, and you will be <span style="color:green;">my witnesses</span> in Jerusalem and in all Judea and Samaria and <span style="color:brown;">to the ends of the earth</span>! (See [History of the Apostles](https://www.bibleserver.com/NIV/Acts13%2C47), which refers to [Isaiah](https://www.bibleserver.com/NIV/Isaiah49%2C6)). |
@@ -140,9 +124,3 @@ Acts 2 is fulfillment of Acts 1 (filled with the Holy Spirit. Acts 1/8 is fulfil
 <a name="9150"></a>
 [Beale, A New Testament biblical theology, pages 669–679](../../../../about/ressources/index.html#beale_theo)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-church-is-part-of-israel.md)

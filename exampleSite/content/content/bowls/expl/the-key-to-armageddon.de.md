@@ -3,9 +3,7 @@ title: "Der Schlüssel zu Armageddon"
 weight: 3
 ---
 
-
 Harmagedon: ein Weltuntergangsszenario? Nein, denn es ist kein Ort. Es ist ein Konzept. Du willst wissen warum? Dann lies weiter.
-
 
 ## Die Übersetzung
 
@@ -18,8 +16,6 @@ Der Begriff Harmagedon wird [in der Bibel nur ein einziges Mal erwähnt ](https:
 - Es kann aber auch “Berg von Megiddo” bedeuten, was einer weiteren Erklärung bedarf, da es mehrere Ereignisse mit Megiddo und dem Berg gab.
 - Und schließlich kann es auch “Berg der Schlachtung” bedeuten, was wir noch untersuchen werden.
 
-
-
 ## Debora und Jael
 
 <a name="adae"></a>
@@ -28,7 +24,6 @@ Die erste Erwähnung eines Kampfes bei Megiddo ist mit den Richtern [Debora und 
 Israel war, wie so oft im Buch der Richter, [unter fremder Herrschaft, die das Volk unterdrückte](https://www.bibleserver.com/SLT/Richter4%2C1-3). und da war die [Richterin Deborah, die einen Richter namens Barak aufforderte, Gottes Verheißung zu folgen und Israel zu befreien, wie Gott es versprochen hatte](https://www.bibleserver.com/SLT/Richter4%2C3-7). Aber Barak ist unsicher und will nur in den Kampf ziehen, wenn Deborah mitzieht, was sie auch tut, aber nur um zu sagen, [dass er nicht den Heerführer besiegen wird, sondern dass dies durch eine Frau geschehen wird](https://www.bibleserver.com/SLT/Richter4%2C8-9). Und diese Frau ist nicht Debora, und hier kommt Jael ins Spiel.
 
 Als Barak die Armee besiegt, flieht der Heerführer Sisera und versucht, in Hebers Haus Zuflucht zu finden (denn diese Familie war mit Siseras König befreundet). [Aber Hebers Frau Jael nutzt die Gelegenheit und tötet Sisera im Schlaf.](https://www.bibleserver.com/SLT/Richter4%2C15-21)
-
 
 ## Elia
 
@@ -41,7 +36,6 @@ Der Hintergrund: Der König Ahab von Israel hat durch seine Frau Isebel (aus Sid
 
 Als der Heerführer [Jehu gesalbt wird](https://www.bibleserver.com/SLT/2.K%C3%B6nige9), zerstört er das ganze Netzwerk Isebels, das bis ins Südreich reicht. Und er verfolgte den König von Juda und tötete ihn. In Megiddo!
 
-
 ## Josia
 
 <a name="2a48"></a>
@@ -49,8 +43,6 @@ Als der Heerführer [Jehu gesalbt wird](https://www.bibleserver.com/SLT/2.K%C3%B
 
 - Assur war zu dieser Zeit das Volk, das Israel ständig unterdrückte und nur deshalb aufhielt, weil es gerade von Babel bedrängt wurde.
 - Ägypten war der Ort, aus dem Israel aus der Sklaverei kam, aber seitdem war es für Israel immer jemand, [auf den Israel alle Hoffnungen setzte, der Israel aber immer wieder enttäuschte](https://www.bibleserver.com/SLT/2.K%C3%B6nige18%2C21). Es scheint, dass Josia der einzige König Israels war, der jemals gegen Ägypten gekämpft hat.
-
-
 
 ## Schlussfolgerung
 
@@ -63,8 +55,6 @@ Harmagedon steht für das Paradox, das wir im gesamten Neuen Testament, vor alle
 - Ein einziger Feldherr stürzt zwei Könige ohne jede Vorbereitung.
 - Ein König eines kleinen Reiches kämpft gegen Weltmächte, wird vernichtet und sichert so die Zukunft seines Volkes.
 
-
-
 ## Zum Weiterlesen
 
 <a name="ea65"></a>
@@ -76,6 +66,3 @@ Harmagedon steht für das Paradox, das wir im gesamten Neuen Testament, vor alle
 
 [Fee, Revelation, Seiten 224-225](../../../../about/ressources/index.html#fee_rev)
 
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-key-to-armageddon.de.md)

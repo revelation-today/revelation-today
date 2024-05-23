@@ -3,15 +3,12 @@ title: "The perfect “gospel”"
 weight: 1
 ---
 
-
 This chapter looks like two monsters doing destruction, but this is one of the deepest chapters in the book. Let’s get ready.
-
 
 ## Our text
 
 <a name="3f52"></a>
 We are moving quickly forward and reached [chapter 13](https://www.bibleserver.com/NIV/Revelation13).
-
 
 ## Satan’s strategy
 
@@ -25,7 +22,6 @@ Since Satan cannot defeat Jesus or Israel, he attacks the Church. He does this i
 - by brute force: persecution, economic and financial pressure
 - by perception
 
-
 He imitates the Trinity, which not only discredits the Church, but also attracts people who want to follow Jesus. The dragon imitates God the Father who has all power, the first beast imitates the resurrected Christ, and the second beast imitates the Holy Spirit who has the power to give life.
 
 This is the Antichrist (“anti” can also mean “instead”). He replaces Christ and sets up his own church. The world cannot distinguish between the true and the false Trinity. And he seems really convincing:
@@ -35,9 +31,7 @@ This is the Antichrist (“anti” can also mean “instead”). He replaces Chr
 - The second beast can give life to a statue (in the Old Testament, idols were mocked for not being able to do this)
 - The second beast can also make fire come down from heaven, the ultimate sign that this is God (see the story of Elijah).
 
-
 And this is tempting.
-
 
 ### The dream
 
@@ -53,7 +47,6 @@ Can you imagine the whole world under Christian rule, controlling politics, econ
 This is a gospel for good to be true. Or rather, too good to be true.
 
 If this is your dream, wake up because this is a nightmare!
-
 
 ### The reality
 
@@ -72,7 +65,6 @@ This is what the world sees and we should make every effort to show that the chu
 
 We should not preach the gospel by means of fear (of hell), manipulation, or thinking that our faith justifies the means.
 
-
 ### The sign on hand and forehead
 
 <a name="de4d"></a>
@@ -83,7 +75,6 @@ Satan, on the other hand, says, “Look around you, you can suffer and die, or y
 It does not have to be a chip. It can be your work ethic, your credit card, your smart phone, your TV shows. 2000 years ago it was public behavior.
 
 Satan uses deception, he is not honest.
-
 
 ### The historic reality
 
@@ -98,7 +89,6 @@ The sign on the head and forehead was the adherence to the cult, watched over by
 
 In all of this, the point is that they are the puppets of the Dragon behind the scenes, so the attack was never against the Romans, and should not be against the authorities today, but against the spiritual forces behind them.
 
-
 ## Satan failure
 
 <a name="111e"></a>
@@ -108,16 +98,13 @@ Even though this copy of the Trinity sounds so convincing, it is rated with 666.
 - 666 is the warning in the story of Daniel’s friends to persevere even when God does not intervene.
 - 666 is the warning not to be tempted by the offers of Satan.
 
-
 So why does he fail? In each of the persons of the Trinity, the crucial element was missing.
 
 - God is the ruler, but He does not dictate, otherwise no one would ask, “How can a loving God allow all this evil? Satan destroys everything that does not agree with him.
 - Jesus died out of love for us, the first beast only frightens people. Jesus died completely, the first beast was only wounded.
 - The Holy Spirit does not force people and uses shows, the second beast uses this to manipulate.
 
-
 So the difference between the alleged Satan and Jesus is not power or success, but the love with which we treat people. This may not be new, but in this story it is presented in a very impressive way.
-
 
 ### Reflection
 
@@ -130,12 +117,6 @@ So the difference between the alleged Satan and Jesus is not power or success, b
 - What are the consequences of today’s beasts if you don’t submit?
 - Where are you being challenged to give in (out of desperation, conviction, temptation)?
 
-
-
-
-
-
-
 ## Digging deeper
 
 <a name="06f1"></a>
@@ -144,10 +125,3 @@ So the difference between the alleged Satan and Jesus is not power or success, b
 - [The beast in the original context](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
 - [The nature of the beast](../../../../content/beasts/expl/the-nature-of-the-beast)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/appl/the-perfect-gospel.md)

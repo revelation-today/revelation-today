@@ -3,11 +3,9 @@ title: "Die Geschichte von Bileam"
 weight: 30
 ---
 
-
 Du kennst sicher die Geschichte von Bileam und dem Esel, aber weißt du auch, warum es heißt, Bileam habe Israel zur Unzucht verführt?
 
 Du glaubst mir nicht? Dann lies selbst: “[Aber ich habe ein weniges gegen dich, dass du dort solche hast, die an der Lehre Bileams festhalten, der den Balak lehrte, einen Anstoß [zur Sünde] vor die Kinder Israels zu legen, sodass sie Götzenopfer aßen und Unzucht trieben.](https://www.bibleserver.com/SLT/Offenbarung2%2C14)”
-
 
 ## Die bekannte Geschichte
 
@@ -24,7 +22,6 @@ Warum? Warum sollte Bileam Gott noch einmal befragen? Er hat Gott gehört. Denkt
 
 Bileam scheint nun Gott gehorsam zu sein und segnet Israel, wie Gott es will. Balak wird total wütend und schickt [ihn zurück](https://www.bibleserver.com/SLT/4.Mose24%2C25). Und hier endet die Geschichte — denkst du!
 
-
 ## Die Situation mit Baal-Peor
 
 <a name="b6a6"></a>
@@ -40,7 +37,6 @@ Aber es dauert einige Zeit, bis [Israel die Midianiter bekämpft](https://www.bi
 
 Aber es gibt eine Überraschung: [Bileam ist einer der Erschlagenen. Er schien bei den Midianitern geblieben zu sein.](https://www.bibleserver.com/SLT/4.Mose31%2C8)
 
-
 ## Was ist da passiert?
 
 <a name="4803"></a>
@@ -54,6 +50,3 @@ Es war wohl Bileams Stolz, der ihn vernichtete, aber Mose als inkonsequenter Fü
 
 [Beale, Revelation, Seite 249](../../../../about/ressources/index.html#beale_rev)
 
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-story-of-balaam.de.md)

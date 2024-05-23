@@ -3,9 +3,7 @@ title: "Pax Romana — vahiy kitabını anlamak için anahtar"
 weight: 2
 ---
 
-
 İncil’deki Vahiy Kitabı’nın ya da antik Roma’daki Pax Romana’nın şu anki yaşamınızla hiçbir ilgisi olmadığını düşünebilirsiniz. Yanılıyor olabilirsiniz ve işte nedeni.
-
 
 ## Pax Romana
 
@@ -15,7 +13,6 @@ weight: 2
 - küçük iç savaşlar ve güçlü bir imparatorluk
 - yüksek zenginlik (çoğu için)
 - sanat ve kültürün gelişmesi
-
 
 (aynı zamanda sistematik zulümler MS 253'te başlamış olsa da, Neron, Domitian ve Trajan dönemlerinde Hıristiyanlara yapılan zulümlerin de zamanıdır)
 
@@ -27,7 +24,6 @@ Fikir şu şekildeydi
 - Pax Romana özlenen “Altın Çağ “dır
 - bu nedenle i̇mparator tapinmaya, sadakate ve eşi̇t tanri unvanlarina layiktir
 
-
 Bunun kötü tarafı, bu altın çağın şiddet, baskı ve pasifikasyonla yaratılmış olması ve sadece birkaç kişi için altın çağ olmasıydı.
 
 Pax Romana şu kişiler tarafından yayıldı
@@ -38,13 +34,11 @@ Pax Romana şu kişiler tarafından yayıldı
 - HEYKELLER
 - madeni paralar
 
-
 ve tüm kültürel faaliyetlerin merkezinde yer alıyordu.
 
 Bu nedenle eğlencede, işte, pazarda, hatta yemek sırasında bile mevcuttu. Ve herkes, bireylerin kötü davranışları nedeniyle topluluğun/şehrin imparatorun gözünden düşmemesine dikkat ederdi.
 
 Birçok şehir (özellikle Vahiy’deki mektupların yazıldığı Küçük Asya’da) imparatoru ve tanrıları onurlandıran tapınaklar inşa etmek ve Pax Romana’yı yaymak için yarışıyordu. Bu sayede imparatordan destek almayı ya da en azından vergi indirimine gitmeyi umuyorlardı.
-
 
 ## Pax Romana ve Hristiyanlar
 
@@ -58,16 +52,13 @@ Hıristiyanlar için birkaç ciddi sorun vardı
 - Roma İmparatorluğu başka Tanrıları da kabul ederken, onlar tek bir Tanrı olduğunu söyledikleri için hoşgörüsüz olmakla suçlanırlar
 - uymak kolaydı (en azından dışarıdan bakıldığında)
 
-
 Sonuç olarak üç seçeneğiniz vardı
 
 - İsa ya da imparator gibi tek bir [efendiniz olabileceği](https://www.bibleserver.com/TR/Matta6%3A24) için inancınızı tamamen inkâr ediyorsunuz,
 - İnancınızı tam olarak yaşar ve sosyal ve ekonomik izolasyon ve yıkım, hapis ve hatta ölüm riskini göze alırsınız veya
 - dışarıdan itaat eder (imparatoru ağzıyla itiraf eder) ama İsa’ya sadık kalır (onu kalbiyle itiraf eder), bu da inançlarını ikiyüzlü yapar
 
-
 Üçüncü seçenek birçok insan için çok zorlayıcıdır ve Vahiy Kitabı’nın ana konusudur: [Kıyamet açısından sadece iki seçenek vardır — tamamen Tanrı’nın yanında ya da tamamen ona karşı](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it). Böylece kitap Pax Romana’ya karşı bir karşı propaganda yaratır.
-
 
 ## Götürün
 
@@ -80,8 +71,6 @@ Bunlar üzerinde düşünmeniz gereken birkaç soru:
 - Hayatınızın belirli alanlarında rol yapma ihtiyacı hissediyor musunuz? Neden? Rol yapmazsanız ne olur?
 - Kişisel görüşünüzün/inancınızın size çok pahalıya mal olacağı bir durumla karşılaşsaydınız? Yine de bunu savunur muydunuz? Hangi dereceye kadar? Pratikte ne yapardınız?
 
-
-
 ## Diğer okumalar
 
 <a name="debc"></a>
@@ -92,6 +81,3 @@ Bunlar üzerinde düşünmeniz gereken birkaç soru:
 
 [Beale, Revelation, sayfalar 28–33](../../../../about/ressources/index.html#beale_rev)
 
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation.tr.md)

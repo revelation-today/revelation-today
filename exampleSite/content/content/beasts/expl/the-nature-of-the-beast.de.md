@@ -3,9 +3,7 @@ title: "Die Tiere in der Offenbarung"
 weight: 2
 ---
 
-
 Satan und seine Helfer nehmen nicht nur in der Offenbarung, sondern auch in diesem Artikel einen großen Raum ein. Warum eigentlich? Sollten wir uns nicht mehr mit Gott beschäftigen? Nun, es gibt einen Grund: Wenn wir den Charakter Satans verstehen, haben wir auch ein besseres Verständnis von Gott.
-
 
 ## Gut vorher zu lesen
 
@@ -14,13 +12,10 @@ Satan und seine Helfer nehmen nicht nur in der Offenbarung, sondern auch in dies
 - [Der Charakter der Tiere](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 - [Der Charakter der Hure](../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
-
-
 ## Der Charakter Satans
 
 <a name="f243"></a>
 Satan wird einerseits als aggressiv beschrieben, was für die Gläubigen schwierig ist, aber es ist klar, wie man damit umgehen kann. Aber er arbeitet auch mit Täuschung, und das ist noch gefährlicher, weil man nach dem ganzen Kampf müde wird und einen einfachen Ausweg sieht. Aber das Ergebnis ist Abhängigkeit und Loyalität gegenüber Satan. Deshalb beschreibt das Buch Gott und Satan, damit der Unterschied und die vermeintlichen Gemeinsamkeiten deutlicher werden.
-
 
 ## Die Beschreibung Satans
 
@@ -38,11 +33,9 @@ Das zweite Mal erscheint es wieder im [Kontrast zum Sieg Jesu](https://www.bible
 - [Er versucht die Frau zu vernichten — und hat scheitert](https://www.bibleserver.com/SLT/Offenbarung12%2C13-17).
 - Er versucht, die [Nachkommen Jesu, die Gemeinde, zu zerstören — und versagt auch hier](https://www.bibleserver.com/SLT/Offenbarung13), was [man an der Zahl 666 sehen kann](../../../../content/beasts/expl/666-the-number-of-the-beast).
 
-
 Satan taucht bei der [sechsten Schale](https://www.bibleserver.com/SLT/Offenbarung16%2C13) wieder auf und wird in den Kapiteln [19](https://www.bibleserver.com/SLT/Offenbarung19%2C20) und [20](https://www.bibleserver.com/SLT/Offenbarung20%2C10) gerichtet. Dies rahmt die Geschichte der Hure ein, in der auch das Tier und die Hure selbst erscheinen.
 
 Diese drei Sichten werden miteinander verbunden, um die Taten Satans zu beschreiben.
-
 
 ## Die falsche Dreieinigkeit
 
@@ -59,13 +52,11 @@ Wenn wir uns das Thema bei den [apokalyptischen Reitern](../../../../content/sea
 - dann der Gewalttätige(bringt Krieg),
 - gefolgt von dem, der wirtschaftliche Ungerechtigkeit bringt.
 
-
 Der vierte ist dann die Zusammenfassung, so dass wir hier wieder eine Dreieinigkeit haben.
 
 Schließlich können wir uns die Geschichte von der Hure ansehen. Bei der Vielzahl der Akteure in Kapitel 17 ist es schwierig, die Dreieinigkeit zu erkennen. Aber hier sind einige Beobachtungen.
 
 Es gibt eine starke Parallele zwischen dem Tier in Kapitel 17 und dem Tier in Kapitel 13.
-
 
 | Das erste Tier aus Offenbarung 13 | Das Tier auf Offenbarung 17 |
 |-----------------------------------|-----------------------------|
@@ -79,7 +70,6 @@ Es gibt eine starke Parallele zwischen dem Tier in Kapitel 17 und dem Tier in Ka
 Genaus gibt es aber auch sehr große Parallelen zwischen dem zweiten Tier und der Hure
 
 ## Die Hure und das zweite Tier
-
 
 | Das zweite Tier aus Offenbarung 13 | Die Hure |
 |------------------------------------|----------|
@@ -98,7 +88,6 @@ Aber wo ist der dritte Teil? Er bleibt im Hintergrund wie in Kapitel 13 und mach
 
 [Das war auch im historischen Kontext zu sehen](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context): Zwei der Tiere sind deutlich sichtbar, aber Satan ist nicht direkt zu sehen.
 
-
 ## Die Entwicklung des Bildes
 
 <a name="02d8"></a>
@@ -110,7 +99,3 @@ Diese Frage steht im Mittelpunkt der Geschichte vom Drachen und den beiden Tiere
 
 All dies wird noch deutlicher, wenn Babel als das Gegenteil des Neuen Jerusalem beschrieben wird.
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast.de.md)

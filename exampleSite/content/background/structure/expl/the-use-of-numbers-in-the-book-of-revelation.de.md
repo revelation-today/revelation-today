@@ -3,11 +3,9 @@ title: "Die Benutzung von Zahlen in der Offenbarung"
 weight: 40
 ---
 
-
 Die Offenbarung ist voll von Zahlen, aber was bedeuten sie? Sind sie wörtlich zu verstehen wie 1260 Tage oder haben sie eine andere Bedeutung? Wie werden Zahlen in der Bibel grundsätzlich verwendet?
 
 Zahlen werden in der Bibel oft verwendet, um eine frühere Geschichte wieder aufzugreifen. Jesus wählte 12 Apostel, weil Israel aus 12 Stämmen bestand, die von den 12 Söhnen Jakobs abstammten. Israel musste 40 Jahre durch die Wüste wandern, nachdem die Kundschafter 40 Tage durch das Gelobte Land gewandert waren, aber nicht geglaubt hatten.
-
 
 ## Die Zahl 7
 
@@ -26,12 +24,10 @@ Auch die Beschreibung “aus allen Stämmen und Sprachen, Völkern und Nationen�
 
 Weitere Beispiele sind die 7 Siegel, die 7 Posaunen und die 7 Zornesschalen, um die Vollständigkeit des Handelns Gottes auszudrücken.
 
-
 ## Die Zahl 3,5
 
 <a name="20fe"></a>
 [Dafür gibt es einen eigenen Artikel.](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-
 
 ## Die Zahl 4
 
@@ -48,8 +44,6 @@ Der Hinweis auf “[Blitz und Donner](https://www.bibleserver.com/SLT/2.Mose19%2
 - [am Ende der Siegel](https://www.bibleserver.com/SLT/Offenbarung8%2C5),
 - [am Ende der Posaunen](https://www.bibleserver.com/SLT/Offenbarung11%2C19),
 - [am Ende der Zornesschalen](https://www.bibleserver.com/SLT/Offenbarung16%2C18).
-
-
 
 ## Die Kombination 4x7
 
@@ -70,9 +64,7 @@ Manche Gottesnamen kommen auch 4 oder 7 Mal vor
 - “Das Lamm und Gott zusammen 7 mal,
 - “Die sieben Geister” 4 mal, um die Fülle der göttlichen Souveränität in der ganzen Welt zu zeigen (5/6), durch/zusammen mit dem Zeugnis der Gemeinde.
 
-
 Interessanterweise gibt es keine solchen Muster für Satan, das Tier oder den falschen Propheten, sondern nur in der Imitation Jesu.
-
 
 ## Die Zahl 12
 
@@ -85,7 +77,6 @@ Die 12 Apostel sind das Gegenstück im Neuen Testament.
 
 Dazu kommen die [3x4 Tore](https://www.bibleserver.com/SLT/Offenbarung21%2C13) und die [12 wertvollen Steine](https://www.bibleserver.com/SLT/Offenbarung21%2C19-20).
 
-
 ## Andere Zahlen
 
 <a name="8d23"></a>
@@ -93,15 +84,12 @@ Dazu kommen die [3x4 Tore](https://www.bibleserver.com/SLT/Offenbarung21%2C13) u
 - Die [Gegengemeinde der Hure kommt 4 mal](https://biblehub.com/greek/4204.htm) vor, die [Frau 7 mal](https://biblehub.com/greek/1135.htm), die [Bewohner der Erde 10 mal](https://biblehub.com/greek/3625.htm).
 - Babel und “groß” wird 6 mal verwendet. 6 mal wird die Frau als Bezeichnung für die Hure Babel verwendet. 6 ist die Zahl des Menschen (im Gegensatz zu Gott), da er am sechsten Tag erschaffen wurde.
 
-
-
 ## Weitere Gedanken
 
 <a name="5fd8"></a>
 Bestimmte Wörter werden gegen Ende der Offenbarung häufiger verwendet, um zu zeigen, dass sich das Thema verdichtet (12: Gemeinschaft Gottes mit der Gemeinde, “Alpha und Omega” und Synomyne, da Jesus das Ende der Geschichte ist).Auch wenn einige Zahlen zufällig sind, zeigt die Häufigkeit solcher Muster, dass sie absichtlich verwendet wurden, um eine Aussage zu machen.
 
 A. Y. Collins argumentiert, dass die Zahlen 4, 7 und 12 die kosmische Ordnung in der apokalyptischen Literatur beschreiben, insbesondere in der Offenbarung. Johannes benutzt sie, um zu zeigen, dass Gott hinter allem steht und alles kontrolliert. Die Zahlen beschreiben das Netz, in dem Satan und die Seinen gefangen sind, so dass Gottes Sieg sicher und sichtbar ist.
-
 
 ## Arithmetische Betrachtungen
 
@@ -123,7 +111,6 @@ Die kleinste (nicht-triviale) Quadrat-Dreieckszahl ist 36. Sie steht mit mehrere
 - Sie steht in Beziehung zu 6 — der Zahl des Menschen oder besser gesagt der nicht-göttlichen Macht — (36 ist das Quadrat von 6).
 - Die 6. rechteckige Zahl ist 42 und beschreibt die [42 Monate der Aktivitäten des Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C5).
 
-
 Aber die nächstkleinere (und vielleicht die einzige andere, die zu Johannes’ Zeiten bekannt war) wäre 1225, die sich auch hier wiederfindet.
 
 - Sie übertrifft die 36 um ein Vielfaches und ist komplizierter zu ermitteln.
@@ -139,17 +126,9 @@ Aber wir sehen oft die verzerrte Realität, in der Satan immer ein bisschen stä
 
 ![](/images/Numbers2_de2.jpg)
 
-
 ## Zur Vertiefung
-
 
 [Beale, Revelation, Seiten 60–64](../../../../about/ressources/index.html#bealy_rev)
 
 [Bauckham, The climax of prophecy, Seiten 384–407](../../../../about/ressources/index.html#bauckham_climax)
 
-
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation.de.md)

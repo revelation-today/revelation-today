@@ -3,15 +3,12 @@ title: "Die Waffen der Gemeinde und das Schicksal der Nationen"
 weight: 1
 ---
 
-
 Was sind die Waffen der Gemeinde gegen eine ungläubige Welt, gegen den Drachen und die Tiere, und was ist das ewige Evangelium?
-
 
 ## Unser Text
 
 <a name="5b8f"></a>
 Wir sind mittlerweile in [Kapitel 14](https://www.bibleserver.com/SLT/Offenbarung14).
-
 
 ## Die Armee Gottes
 
@@ -26,8 +23,6 @@ Die Antwort ist einfach:
 - Das Geheimnis Gottes leitet sie, wie Jesus zu sein, durch Liebe zu überwinden und nicht durch Angst.
 - Sie legen ihre Herausforderungen beiseite und konzentrieren sich ganz auf Jesus, ihm treu zu sein, koste es, was es wolle. Das macht eine Armee aus: Konzentration auf das Wesentliche.
 
-
-
 ## Das Schicksal der Nationen
 
 <a name="cba9"></a>
@@ -39,9 +34,7 @@ Nachdem wir einen Blick auf das Heer geworfen haben, können wir nun seine Wirku
 - Das vierte (Jesus ähnlich) kündigt die Ernte an, die der fünfte einbringt — die Sammlung der Nationen, die Jesus angenommen haben.
 - Der sechste kündigt die Weinlese an, die der siebente durchführt — das Gericht über die Nationen, die Jesus abgelehnt haben.
 
-
 Das ganze Kapitel handelt von den Völkern und den Bemühungen der Kirche, sie zu Jesus zu führen. Es ist an den Nationen zu reagieren, einige nehmen Jesus an, andere nicht. Es ist nicht die Aufgabe der Gemeinde, dafür zu sorgen, dass alle Nationen Jesus annehmen, sondern ihre Aufgabe ist es, ein treuer Zeuge zu sein. Aber dazu mehr im nächsten Kapitel.
-
 
 ### Reflektion
 
@@ -51,19 +44,8 @@ Das ganze Kapitel handelt von den Völkern und den Bemühungen der Kirche, sie z
 - Was wäre das Lied von Mose und Jesus, das du in deinem Leben singen würdest?
 - Weißt du, dass nicht alle Menschen gerettet werden? Was macht das mit dir?
 
-
-
-
-
-
-
 ## Zur Vertiefung
 
 <a name="1142"></a>
 - [Gottes Armee und die sieben Engel](../../../../content/harvest/expl/gods-army-and-the-seven-angels)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/appl/the-weapons-of-the-church.de.md)

@@ -3,9 +3,7 @@ title: "Die Engel der Gemeinden"
 weight: 4
 ---
 
-
 In der Offenbarung gibt es bei den Sendschreiben einen sich wiederholenden Satz: “Schreibe dem Engel der Gemeinde”. Haben Gemeinden Schutzengel? Werden die Leiter der Gemeinden Engel genannt? Wir müssen hier etwas genauer hinschauen.
-
 
 ## Unwahrscheinliche Deutungen
 
@@ -13,7 +11,6 @@ In der Offenbarung gibt es bei den Sendschreiben einen sich wiederholenden Satz:
 Könnte es sein, dass die Engel der Gemeinden Engel sind, die über die Gemeinden wachen? Das wäre etwas merkwürdig, wenn Jesus Johannes eine Botschaft gibt, die er an die Gemeinden schreibt, damit die Engel sie empfangen. Es wäre auch schwierig für[ die Engel, Verantwortung für das zu übernehmen, was bei einzelnen in den Gemeinden geschieht](https://www.bibleserver.com/SLT/Offenbarung2%2C24-25).
 
 Oder könnte es sein, dass die Leiter der Gemeinden als Engel bezeichnet werden? Auch hier wäre es schwierig, sie für die Fehler einzelner verantwortlich zu machen.
-
 
 ## Beobachtungen
 
@@ -27,8 +24,6 @@ Der Text enthält einige interessante Details:
 - Die Engel werden ohne Artikel gebraucht, was in der jüdischen und frühchristlichen Literatur unüblich ist.
 - Die Engel werden nicht mehr erwähnt.
 
-
-
 ## Engel = Gemeinden
 
 <a name="ab47"></a>
@@ -39,14 +34,11 @@ Außerdem
 - In der hebräischen Literatur ist es üblich, eine Gruppe durch ein Individuum anzusprechen ([Tochter Jerusalem](https://www.bibleserver.com/SLT/Zefanja3%2C14), [die Stadt Tyrus](https://www.bibleserver.com/SLT/Hesekiel27), Hosea wechselt in den Kapiteln [9](https://www.bibleserver.com/SLT/Hosea9%2C1-6) und [14](https://www.bibleserver.com/SLT/Hosea14%2C1-3) von Einzahl zu Mehrzahl, [verschiedene Völker im Gericht](https://www.bibleserver.com/SLT/Zefanja2%2C1-5)).
 - Briefe an Gemeinschaften sind in der Regel nicht an Einzelpersonen gerichtet.
 
-
 Warum aber sollten Gemeinden als Engel bezeichnet werden?
 
 - Die Gemeinden werden als Einheit verstanden. Es geht nicht um das individuelle Heil oder den eigenen Weg mit Gott, sondern um die Verantwortung als Ganzes.
 - Die Gemeinde als Engel (angelos = Bote) erinnert sie an ihre himmlische Bestimmung.
 - Die Anrede als Engel soll ihnen bewusst machen, dass sie ihren Auftrag nicht aus eigener Kraft erfüllen können, sondern auf den Heiligen Geist (himmlischen Beistand) angewiesen sind.
-
-
 
 ## Zum Weiterlesen
 
@@ -54,13 +46,7 @@ Warum aber sollten Gemeinden als Engel bezeichnet werden?
 - [Die Sendschreiben](../../../../content/letters/expl/the-letters-to-the-seven-churches)
 - [Was ist ein Held?](../../../../topics/hero/short/a-real-hero)
 
-
-
 ## Zur Vertiefung
 
 [Aune, Revelation, Seiten 108–112](../../../../about/ressources/index.html#aune_rev)
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-angel-of-the-churches.de.md)

@@ -3,9 +3,7 @@ title: "Filadelfiya’daki kiliseye mektup"
 weight: 6
 ---
 
-
 [Philadelphia](https://www.bibleserver.com/TR/Vahiy3%3A7-13): Davut’un anahtarına sahip şehir. Peki bu anahtar hangi kapıları açıyor? Müjdecilik, fırsatlar, ilişkiler, …? Okumaya devam edin ve bu kilisenin neden hiç azarlanmadığını öğrenecek ve anlayacaksınız.
-
 
 ## Tarihsel arka plan
 
@@ -17,7 +15,6 @@ Kasaba, bir nehir havzasının sonunda ve çeşitli ticaret yollarının geçiş
 Ancak diğer taraftan kasaba sürekli olarak depremlerden etkileniyordu, hatta öyle ki şehri yeniden inşa etmekle meşgul oldukları için kasabanın beş yıllık vergi ödememesine izin verilmişti.
 
 MS 60'ta büyük bir deprem oldu ve MS 92'de imparatorun şarap yetiştiriciliğini azaltma kararı (belki de ordu için tahıl yetiştirmeyi teşvik etmek için), böylece kasabadaki insanlar her zaman sadık oldukları imparator tarafından ihanete uğradıklarını hissettiler.
-
 
 ## İsa’nın görüşü
 
@@ -32,14 +29,12 @@ Diğer zorluklar ise [İzmir’de](https://www.bibleserver.com/TR/Vahiy2%3A9) ol
 
 Onlar gerçekten üstesinden gelirler. Onların sırrı nedir? [Sabırla dayanırlar](https://www.bibleserver.com/TR/Vahiy3%3A10)
 
-
 ## Söz
 
 <a name="b0b4"></a>
 Tanrı onları tapınaktaki bir sütun gibi yapmak ister, bu da bir daha asla Tanrı’nın huzurundan ayrılmak zorunda kalmayacakları ve sonsuza dek O’nun huzurunda yaşayacakları anlamına gelir. Tanrımın adını ve Tanrımın kentini yazmak, [kentin adının “RAB burada” olarak anıldığı Hezekiel’i hatırlatır](https://www.bibleserver.com/TR/Hezekiel48%3A35).
 
 Muhtemelen bu kadar uzun süre dayanmalarının nedeni de verdikleri sözdür: En büyük dilekleri İsa’ya yakın olmaktı.
-
 
 ## Duruşma saati
 
@@ -54,4 +49,3 @@ Tüm dünyanın üzerine gelen iz saati nedir? Ve İsa bizi bundan nasıl uzak t
 
 [Gordon Fee, Revelation, sayfalar 50–51](../../../../../about/ressources/index.html#fee_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-philadelphia.tr.md)

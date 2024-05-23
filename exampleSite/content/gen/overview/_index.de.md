@@ -3,9 +3,7 @@ title: "Die wichtigen Themen"
 prev: /gen
 ---
 
-
 Fangen wir einfach an. Vielleicht hast du das Buch noch nie gelesen, sondern nur davon gehört. Toll, dann ist das der perfekte Einstieg für dich. Ich werde dir einen kleinen Einblick geben, der dir vielleicht den Anstoß gibt, es selbst zu lesen — oder du kannst hier einfach weiterlesen.
-
 
 ## Worum geht es?
 
@@ -18,7 +16,6 @@ Das Buch ist teilweise parodistisch:
 - Es parodiert religiöse Überzeugungen: dass ein starker Retter kommt, der (zusammen mit der Gemeinde) mit militärischer Gewalt das Böse besiegt. Denn der Sieg kommt durch das scheinbar Schwache.
 - Natürlich übertreibt es, weil es eine Reaktion des Lesers will.
 
-
 In der Geschichte geht es nicht darum, dass Gott viele Katastrophen herbeiführt, um die Welt zu bestrafen, sondern darum, dass Gott und die Gemeinschaft handeln, um die Menschen zu retten. OK, das klingt ein bisschen extrem, aber ich hoffe, es wird klarer, wenn wir tiefer in das Thema einsteigen.
 
 Die Geschichte ist in vier Teile gegliedert:
@@ -28,7 +25,6 @@ Die Geschichte ist in vier Teile gegliedert:
 - Kap.4–20: Wie Gott die Probleme lösen will
 - Kap.21–22: Was ist das Ziel, auf das wir hinarbeiten?
 
-
 Der dritte Teil ist etwas länger und braucht etwas mehr Struktur.
 
 - Kap.4: Der Thron Gottes und die Anbetung: Der Ausgangspunkt aller Handlungen
@@ -36,9 +32,7 @@ Der dritte Teil ist etwas länger und braucht etwas mehr Struktur.
 - Kap.8–14: Die Posaunen und ihre Folgen: Das Gebet bewirkt
 - Kap.15–20: Die Zornesschalen: Gottes letztes Handeln
 
-
 Die Frage des Buches ist: Wie erfüllt Gott seinen Heilsplan und welche Rolle spielt die Gemeinde dabei?
-
 
 ## Die wichtigsten Akteure
 
@@ -50,11 +44,9 @@ Das Buch spricht von vier Hauptakteuren
 - Teufel und Dämonen (das Böse in der geistlichen Welt)
 - alle anderen (das Böse im Natürlichen)
 
-
 Die geistige Welt ist geteilt, und damit auch die natürliche. Ziel des Buches ist es, dass möglichst viele Menschen auf der “guten Seite” (in dieser natürlichen Welt) stehen.
 
 Die Offenbarung kennt nur diese vier Kategorien und arbeitet bewusst mit Gegensätzen (Lamm oder Drache, Babel oder Jerusalem, Engel oder Dämonen, …) und lässt keinen Raum für Grauzonen: Entweder ist Jesus dein Herr oder der römische Kaiser, du betest Jesus oder den Teufel an.
-
 
 ## Die Herausforderung
 
@@ -67,7 +59,6 @@ Das war vor 2000 Jahren nicht anders. Damals war es das Römische Reich, das das
 
 Nun, die Antwort ist einfach: Die Kirche lebt nicht entsprechend ihrer Vision, und das ist der Punkt des Buches der Offenbarung: diese Vision wieder zu schärfen, das Böse zu überwinden und die Menschen zu retten, aber in der Gesinnung Jesu.
 
-
 ## Jesus und die Gemeinde
 
 <a name="e073"></a>
@@ -79,7 +70,6 @@ Wenn man sich fragt, wer der Held des Buches ist, ist die Antwort einfach: Jesus
 - Seine Geschichte steht im Mittelpunkt des Buches.
 - Er überwindet den Satan und die Hure und heiratet die Braut.
 - Er kommt und richtet die Erde.
-
 
 Und ihn versucht Satan verzweifelt nachzuahmen.
 
@@ -97,9 +87,7 @@ Andererseits sehen wir in [Kapitel 13](../../../../content/beasts/appl/the-perfe
 - Zeichen und Wunder.
 - Die ganze Welt ordnet sich unter.
 
-
 Aber das ist nur die Oberfläche. Wenn du genauer hinsiehst, wirst du sehen, dass das nicht die Kirche ist. Schau selbst! Was ist der Unterschied?
-
 
 ## Der Krieg in der Offenbarung
 
@@ -117,11 +105,9 @@ Obwohl das Buch starke Züge einer Apokalypse trägt, wird der Grundgedanke imme
 - Die [Hure wird von dem Tier vernichtet](https://www.bibleserver.com/SLT/Offenbarung17%2C16), auf dem sie [sitzt](https://www.bibleserver.com/SLT/Offenbarung17%2C3).
 - Jesus kommt und [vernichtet alle Feinde durch das Schwert seines Mundes](https://www.bibleserver.com/SLT/Offenbarung19%2C21).
 
-
 Das bedeutet, dass die “apokalyptischen Ereignisse” wahrscheinlich ganz anders sind, als wir denken. Auch die Beschreibung anderer Stellen erweckt den Eindruck, dass Krieg und Zerstörung nicht das Hauptthema des Buches sind.
 
 Die Hauptthemen des Buches sind Anbetung, Zeugnis und Ausharren. Und damit spricht das Buch mehr über unseren alltäglichen Lebensstil vor der Wiederkunft Jesu.
-
 
 ## Der Antichrist
 
@@ -137,8 +123,6 @@ Diese Kapitel führen uns vor Augen, was geschieht, wenn die Gemeinde die Vision
 - Obwohl es so aussieht, als ob die Tiere die Kontrolle haben, sind es die Heiligen, die die Welt regieren — hier und jetzt.
 - Es gibt zwei verschiedene Wörter für überwinden, eines für das Tier und eines für die Gemeinde, die unterschiedliche Bedeutungen haben.
 
-
-
 ## Die Waffen der Heiligen
 
 <a name="d96f"></a>
@@ -151,12 +135,8 @@ Denn die Waffen der Kirche sind andere und verfolgen ein ganz anderes Ziel. Es g
 - Gebet: Es wird nicht oft erwähnt, eigentlich nur einmal, aber an einer sehr zentralen Stelle: Es setzt die Posaunen in Bewegung.
 - Überwinden und Ausharren: Die Heiligen überwinden, was Zeit braucht und oft eine Zeit des Ausharrens ist. Sie erzwingen nichts, sondern sind beharrlich.
 
-
-
 ## Zusammenfassung
 
 <a name="e1e1"></a>
 Es gibt viele Gedanken darüber, wie diese Welt ein besserer Ort werden kann. Das Buch gibt konkrete Hoffnung und Handlungsanweisungen, wie wir uns konkret in dieser Welt verhalten können.Aber geht es in dem Buch nicht um Katastrophen und darum, wie Gottes Zorn auf die Erde kommt? Nun, es gibt viele Bilder, die das andeuten. Aber wir sollten das nicht vergessen.
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/overview/appl/the-main-topics.de.md)

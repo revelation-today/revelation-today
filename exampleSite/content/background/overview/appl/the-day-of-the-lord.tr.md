@@ -2,9 +2,7 @@
 title: "Tanrı’nın günü"
 ---
 
-
 Rab’bin günü genellikle bir intikam ve felaket günü olarak anlaşılır. Yahudilerin beklentisi de buydu ve İsa tüm bunları tersine çevirdi.
-
 
 ## Önceki hikaye
 
@@ -18,7 +16,6 @@ Ama başarısız oldular ve ona karşı karar verdiler (insanın düşüşü). B
 - Tanrı’ya (Cennet’ten ayrılmak için gerekli)
 - yaratılışa (yaratılış onların beslenmesi için sorun yarattı)
 
-
 Ancak işler daha da kötüye gider ve Tanrı bir kişiyi çağırıp insanlara kendisiyle nasıl ilişki içinde yaşayacaklarını öğretme planını yapar: İbrahim’i çağırdı ve onunla bir antlaşma yaptı. Ondan İsrail halkları türemiş ve Tanrı da onlarla bir antlaşma yapmıştır. Bu olaylar Mısır’dan Çıkış ile bağlantılıdır.
 
 Ancak İsrail antlaşmalarını yerine getirmedi ve dünyaya Tanrı’yla bir antlaşma içinde nasıl yaşanacağını öğretmek için korkunç bir örnek oldu. Bu yüzden sürgüne gittiler (antlaşmadan ayrıldıkları için son yargı). Ama Tanrı pes etmedi. Sürgünden sonraki dönem için Yeşaya, Yeremya, Hezekiel ya da Daniel gibi birçok peygamberde yazılı olan vaatlerde bulundu.
@@ -31,11 +28,9 @@ Buna şunlar dahildir
 - Kutsal Ruh tüm İsrail’in üzerine dökülür.
 - Tanrı’nın halkı sonsuza dek onunla birlikte yaşayacak, tüm kötülükler yok olacak
 
-
 Peygamberlerde bu olay “Rab’bin Günü” olarak adlandırılırdı. Ancak 70 yıl sonra sürgün sona erdiğinde ve İsrail sürgünden geri döndüğünde hiçbir şey değişmedi. Bu nasıl olabilirdi?
 
 Cevap şuydu: İsrail hala sürgündedir ve Mısır’dan çıkış gibi bir başka Çıkış’a ihtiyacı vardır ve bu hala gerçekleşecektir.
-
 
 ## Büyük sürpriz
 
@@ -46,8 +41,6 @@ Rab’bin günü, Mesih’in gelip her şeyi yoluna koyacağı zaman Yahudilerin
 - bu gün insanoğlu ya da Tanrı’nın hizmetkarı tarafından gerçekleştirilir
 - putperestlerin kurtuluşu bunun merkezi bir parçasıdır
 - İsrail’in/Tanrı’nın düşmanları gerçekte insanlar değil, günah/şeytanlardı
-
-
 
 ## İsa
 
@@ -60,13 +53,10 @@ Kendisini “İnsanoğlu” ve dolayısıyla İsrail’in son kalıntısı olara
 - 40 gün oruç tuttu (Mısır’dan Çıkış’taki önemli bir olayı taklit ederek: [Emirlerin alınması](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F34%3A28), [casusların teftişi](https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m14%3A34)).
 - 40 günden sonra İsrail’in çölde başarısız olduğu tüm ayartmaların üstesinden geldi.
 
-
 Bununla sadece İsrail’i değil, aynı zamanda İsrail’in bir parçası olmayacak ulusları da kurtardı. Bu başka bir duruma neden oldu — Rab’bin Günü ikiye bölündü:
 
 - İsa ilk gelişinde ulusun kurtuluşu ve İsrail’in yeniden kurulması için oradadır, bu biraz zaman alır çünkü ilk gelişinde herkes yargı altına girecektir.
 - Ama İsa ikinci gelişinde gelecek ve yargılamayı gerçekleştirecektir.
-
-
 
 ## Kilise
 
@@ -77,20 +67,10 @@ Ancak önemli bir ayrıntı vardır: İsa yaklaşmakta olan kiliseden bahsederke
 
 İsa tekrar geri döndüğünde, amaç tüm ulusların kurtulması ve herkesin Tanrı’yla ilişki kurmasıdır — asıl amaç — ve tabii ki zulüm sona erecektir.
 
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
 <a name="4ac9"></a>
 - [İsrail](../../../../background/israel/expl/who-is-israel)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/overview/appl/the-day-of-the-lord.tr.md)

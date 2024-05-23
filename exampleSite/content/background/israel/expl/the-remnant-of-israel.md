@@ -3,9 +3,7 @@ title: "The remnant of Israel"
 weight: 4
 ---
 
-
 What is the remnant of Israel? And how will Israel as a remnant recover from the exile?
-
 
 ## The remnant
 
@@ -21,12 +19,9 @@ There are many statements about the remnant in the prophets (referring to the Da
 - [After getting the remnant from Israel, God will get His second reach to get His people from the nations](https://www.bibleserver.com/NIV/Isaiah11%3A11).
 - [God will start with a (small) remnant and increase in number](https://www.bibleserver.com/NIV/Jeremiah23%3A3).
 
-
 But there is one more thing that I would like to elaborate on:
 
 - The Gentiles will become a part of Israel, which means that Israel will fulfill its purpose of blessing all nations (and bringing them back into relationship with God).
-
-
 
 ## The Gentiles become part of Israel
 
@@ -40,10 +35,7 @@ The servant is called Israel, but it cannot be Israel because
 - He gathers Israel-
 - (It is unlikely that this refers to Isaiah himself, since he is part of sinful Israel.)
 
-
 The Servant must be a single person who restores Israel, and everyone who identifies with Israel must identify with him.
-
-
 
 The next step is Psalm 87:
 
@@ -51,23 +43,17 @@ The next step is Psalm 87:
 
 Gentiles are considered to be born in Israel. The counting in a register is an end-time action in verse 6 that will include all who know Him from verse 4.
 
-
-
 Another passage form Isaiah calls Egypt and Assyria my people.
 
 “[In that day five cities in Egypt will speak the language of Canaan and swear allegiance to the Lord Almighty. One of them will be called the City of the Sun. 19 In that day there will be an altar to the Lord in the heart of Egypt, and a monument to the Lord at its border. 20 It will be a sign and witness to the Lord Almighty in the land of Egypt. When they cry out to the Lord because of their oppressors, he will send them a saviour and defender, and he will rescue them. 21 So the Lord will make himself known to the Egyptians, and in that day they will acknowledge the Lord. They will worship with sacrifices and grain offerings; they will make vows to the Lord and keep them. 22 The Lord will strike Egypt with a plague; he will strike them and heal them. They will turn to the Lord, and he will respond to their pleas and heal them. 23 In that day there will be a highway from Egypt to Assyria. The Assyrians will go to Egypt and the Egyptians to Assyria. The Egyptians and Assyrians will worship together. 24 In that day Israel will be the third, along with Egypt and Assyria, a blessing on the earth. 25 The Lord Almighty will bless them, saying, ‘Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance.’](https://www.bibleserver.com/NIV/Isaiah19%3A18-25)”
 
 Egypt and Assyria are mentioned along with Israel, but they are connected by the same language and the same covenant with God.Egypt and Assyria are called “my people”, a term used exclusively for Israel in Isaiah.
 
-
-
 Another passage in Isaiah includes the Gentiles into the temple service of Israel
 
 “[Let no foreigner who is bound to the Lord say, ‘The Lord will surely exclude me from his people.’ And let no eunuch complain, ‘I am only a dry tree.’ 4 For this is what the Lord says: ‘To the eunuchs who keep my Sabbaths, who choose what pleases me and hold fast to my covenant — 5 to them I will give within my temple and its walls a memorial and a name better than sons and daughters; I will give them an everlasting name that will endure for ever. 6 And foreigners who bind themselves to the Lord to minister to him, to love the name of the Lord, and to be his servants, all who keep the Sabbath without desecrating it and who hold fast to my covenant — 7 these I will bring to my holy mountain and give them joy in my house of prayer. Their burnt offerings and sacrifices will be accepted on my altar; for my house will be called a house of prayer for all nations.’](https://www.bibleserver.com/NIV/Isaiah56%3A3-7)”
 
 [Eunuchs were excluded from temple service in the Old Testament](https://www.bibleserver.com/NIV/Deuteronomy23%3A1), but now they have access to the temple.The aliens are now servants of God, bringing burnt offerings and sacrifices. The words used here in Hebrew are reserved for the service of the priests, which means that the Gentiles have the role of priests!
-
-
 
 Now we have a more complex passage that requires a deeper study. The central final chapter in Isaiah can be divided into three major parts:
 - [description of the end-time Israel](https://www.bibleserver.com/NIV/Isaiah66%3A7-14),
@@ -94,13 +80,9 @@ They are again the believers in Israel. Who are the brothers?They are not other 
 
 This must refer to Gentiles, since the Israelites are already priests and Levites. Even in the end times, it does not make sense for other Jews outside the tribe of Levi to become priests.
 
-
-
 There is another passage from Zechariah where the Gentiles are called “my people”:
 
 “[‘Many nations will be joined with the Lord in that day and will become my people. I will live among you and you will know that the Lord Almighty has sent me to you.](https://www.bibleserver.com/NIV/Zechariah2%3A11)”
-
-
 
 Finally we have a passage from Ezekiel describing how the Gentiles are like born Israelites
 
@@ -117,5 +99,3 @@ The foreigners are now considered part of Israel.
 
 [Beale, A New Testament biblical theology, pages 658–669](../../../../about/ressources/index.html#beale_theo)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-remnant-of-israel.md)

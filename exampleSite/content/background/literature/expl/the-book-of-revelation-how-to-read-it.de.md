@@ -3,11 +3,9 @@ title: "Wie lese ich die Offenbarung?"
 weight: 10
 ---
 
-
 Die Offenbarung hat viele Menschen zu verschiedenen Dingen inspiriert, von denen die meisten nichts mit der Bibel und ihrem Anliegen zu tun haben. Ich erspare dir diese Aufzählung, denn ich denke, du weißt, wovon die Rede ist. Aber ist es überhaupt möglich, ein solches Buch sinnvoll zu lesen? Dazu müssen wir das Wesen dieses Buches besser verstehen.
 
 Aber die Antwort ist nicht so einfach und braucht Zeit.
-
 
 ## Was ist ein Genre?
 
@@ -18,16 +16,13 @@ Ein Genre ist eine Art von Literatur. Je nach Genre liest du ein Buch anders:
 - aber bei einem Gedicht erwartest du das nicht, sondern suchst Schönheit in Metaphern,
 - während du von einem Brief eine persönliche Note erwartest und keine allgemeinen Aussagen, die nichts mit dir und deiner Situation zu tun haben.
 
-
 Das Buch Offenbarung ist deshalb so schwer zu verstehen, weil es
 
 - nicht nur ein Genre ist, sondern 3 (Brief, Prophetie und Apokalypse),
 - alle diese Gattungen werden hier nicht in ihrer typischen Form verwendet — dazu später mehr,
 - die Gattung Apokalypse den meisten Lesern unbekannt ist und daher leicht missverstanden wird.
 
-
 Im weiteren Verlauf dieses Artikels werde ich auf diese drei Gattungen eingehen, was sie kennzeichnet und was sie ausmacht und wie uns dies hilft, das Buch besser zu verstehen.
-
 
 ## Ein Brief
 
@@ -38,12 +33,10 @@ Beginnen wir mit dem Brief. Es gibt viele Aspekte, die Offenbarung den Charakter
 - [der formale Schluss](https://www.bibleserver.com/SLT/Offenbarung22%2C21), der ebenfalls in den meisten Briefen der Bibel vorkommt,
 - die Tatsache, dass das Buch als [Brief an sieben Gemeinden](https://www.bibleserver.com/SLT/Offenbarung1%2C10-11) geschrieben ist, der in [Kapitel 2 und 3](https://www.bibleserver.com/SLT/Offenbarung2) beginnt, sich aber über das ganze Buch erstreckt, z.B. wird die Erfüllung der Verheißungen an die Gemeinden in [Kapitel 21](https://www.bibleserver.com/SLT/Offenbarung21) gegeben.
 
-
 Das Buch folgt jedoch nicht der[ Standardform eines Briefes in der Bibel](https://catholic-resources.org/Bible/NT_Letters.htm). Das liegt daran, dass
 
 - es nicht nur ein Brief, sondern auch Prophetie und Apokalyptik ist und
 - an 7 Gemeinden gleichzeitig gerichtet ist!
-
 
 Aber es bleibt im Fluss eines Briefes
 
@@ -52,9 +45,7 @@ Aber es bleibt im Fluss eines Briefes
 - gibt einige theologische Erklärungen zur Lösung der Probleme (Kapitel 4–21/5) und
 - enthält einige abschließende Ermahnungen (Kapitel 22/6–21).
 
-
 Wenn wir dieses Buch lesen, sollten wir in den Kapiteln 4–21 einen Leitfaden erwarten, wie die damaligen Gemeinden mit den spezifischen Problemen ihrer Zeit umgehen konnten. Das heißt nicht, dass wir heute ganz andere Probleme haben (ganz im Gegenteil) und dass diese Themen für uns nicht wichtig wären, aber wenn die Mehrheit des Buches (selbst für uns) nur in der Zukunft angewendet werden kann, dann haben wir nicht bedacht, dass dieses Buch auch ein Brief ist.
-
 
 ## Eine Prophetie
 
@@ -69,13 +60,11 @@ Die prophetische Literatur des Alten Testaments hat ihren Ursprung im Bund, den 
 - Habt Mitleid mit dem Hilflosen, denn [ihr seid auch Sklaven gewesen](https://www.bibleserver.com/SLT/2.Mose20%2C2), [denn Gott schützt die Schwachen](https://www.bibleserver.com/SLT/5.Mose10%2C18), wie es [selbst bei dem Festen gefordert ist](https://www.bibleserver.com/SLT/3.Mose23%2C22).
 - Das wichtigste Gebot ist [die Liebe zu Gott und zum Nächsten](https://www.bibleserver.com/SLT/3.Mose19%2C18), was auch im [Neuen Testament mit der Aussage bestätigt wird, dass jeder unser Nächster ist](https://www.bibleserver.com/SLT/3.Mose19%2C18).
 
-
 Die Propheten traten auf, wenn die Menschen das Gesetz und die Mentalität, die ihm zugrunde lag, missachteten. Ihre Botschaft lautete in etwa wie folgt:
 
 - Gott hat euch das Gesetz gegeben, aber seht, ihr habt es gebrochen (oft, weil ihr den Götzen gefolgt seid, was Ungerechtigkeit gegenüber den Armen zur Folge hatte).
 - Darum WIRD Gott euch richten (Zukunft), wie es [schon im Gesetz angekündigt ](https://www.bibleserver.com/SLT/3.Mose26)ist. Die Absicht war, das Volk zu erziehen (das sieht man an der [Wiederholung: “Wenn ihr immer noch nicht”](https://www.bibleserver.com/SLT/3.Mose26))
 - Aber [er WIRD Gnade haben](https://www.bibleserver.com/SLT/3.Mose26%2C44), besonders, wenn [sie daraus lernen](https://www.bibleserver.com/SLT/3.Mose26%2C44).
-
 
 Demzufolge ist das Anliegen einer Prophetie
 
@@ -83,7 +72,6 @@ Demzufolge ist das Anliegen einer Prophetie
 - die Ungerechten in ihrem Verhalten und Denken herauszufordern,
 - in eine konkrete historische Situation zu hineinzusprechen,
 - sich an das Volk Gottes zu richten (denn nur sie hatten den Bund).
-
 
 Das heißt aber nicht, dass es auf eine bestimmte historische Situation beschränkt ist und wir uns nicht in einer vergleichbaren Situation befinden können.
 
@@ -95,11 +83,9 @@ Die Offenbarung verwendet verschiedene Elemente einer Prophetie:
 - Das Buch mahnt: Ziehz aus Babel aus, [lasst die Liebe nicht erkalten](https://www.bibleserver.com/SLT/Jesaja6), [erlaubt keine falsche Lehre](https://www.bibleserver.com/SLT/Offenbarung2%2C14-15), …
 - Es spricht aus Trost aus: [Gottes Volk ist geschützt](https://www.bibleserver.com/SLT/Offenbarung2%2C14-15), [niemand geht verloren](https://www.bibleserver.com/SLT/Offenbarung7%2C5-8), [Gottes Reich wird definitiv kommen](https://www.bibleserver.com/SLT/Offenbarung21).
 
-
 Das Ziel der Prophetie ist es, das Verhalten zu ändern, oft mit einer emotionalen Szene, um eine Reaktion des Lesers zu provozieren.
 
 Es handelt sich nicht um eine typische Prophezeiung des Alten Testaments, da eine Vision oft nur mit einem einfachen “und ich sah” angekündigt wird und nicht so detailliert wie [an anderen Stellen](https://www.bibleserver.com/SLT/Sacharja1%2C7) des Alten Testaments.
-
 
 ## Eine Apokalypse
 
@@ -112,19 +98,16 @@ Das Ziel eines solchen Buches ist
 
 - das Volk Gottes in einer Krise (z.B. Verfolgung, Unterdrückung durch Fremde) zu ermutigen
 
-
 durch
 
 - scharfe Kritik an den Unterdrückern,
 - leidenschaftliche Aufrufe zum Widerstand und
 - volles Vertrauen auf Gottes endgültigen Sieg über das Böse.
 
-
 Das geschieht durch einen [Dualismus](https://www.dwds.de/wb/Dualismus)
 
 - In Bezug auf die Zeit: Es gibt eine gegenwärtige böse Zeit, aber es wird eine zukünftige gute Zeit kommen, und nur Gott kann diese Veränderung herbeiführen.
 - In Bezug auf den Charakter: es gibt einen geistlichen Dualismus (Gott vs. Satan, Engel vs. Dämonen, Himmel vs. Hölle), der einen Dualismus im Nichtgeistlichen nach sich zieht (Gut vs. Böse durch das Bündnis mit Gott oder Satan und ihren Verbündeten)
-
 
 Im Klartext heißt das, jeder muss sich für eine Seite entscheiden, es gibt keinen neutralen Boden.
 
@@ -141,8 +124,6 @@ In der Offenbarung haben wir ähnliche Elemente:
 - Es gibt einen bösen Herrscher (der gegen das Volk Gottes arbeitet), aber eine bessere Zeit kommt mit der neuen Schöpfung in Kapitel 21.
 - Das Buch lässt keinen Raum für Kompromisse und ist voller Entweder-Oder (Lamm oder Drache, Jerusalem oder Babel, Siegel Gottes oder Zeichen des Tieres, Anbeter Gottes oder Anbeter des Tieres, …), es stellt die politische Ordnung und die Ideologie in Frage (nicht der Kaiser in Rom, sondern Jesus ist der wahre König, nicht der römische Friede, sondern das Reich Gottes, nicht die Treue zum Kaiser, sondern der Glaube an Jesus).
 
-
-
 ## Zusammenfassung
 
 <a name="ade7"></a>
@@ -152,13 +133,10 @@ Wenn wir das Buch lesen, müssen wir es unter folgenden Aspekten lesen
 - als Prophetie: es soll Menschen ermutigen, in schwierigen Situationen zu handeln — nicht in der Zukunft, sondern jetzt, mit emotional bewegenden Bildern
 - als Apokalypse: sie zwingt zu kompromisslosem Leben, karikiert die Mächtigen dieser Welt und zeigt uns die “Entweder-oder”-Welt.
 
-
 Mit anderen Worten, das Buch ist nicht
 
 - ein Blick in die Zukunft (für antike Leser), um Ereignisse zu beschreiben, die mit dem Leben der ersten Leser nichts zu tun hatten oder
 - eine Beschreibung, wie man sich durch die Verhältnisse durchwursteln kann, sondern wie wir konkret Stellung beziehen.
-
-
 
 ## Zum Weiterlesen
 
@@ -166,13 +144,7 @@ Mit anderen Worten, das Buch ist nicht
 - [Ist die Offenbarung wörtlich oder symbolisch zu verstehen?](../../../../background/literature/expl/literally-or-symbolic)
 - [Was ist der historische Hintergrund?](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 
-
-
 ## Zur Vertiefung
 
 [Goreman, Reading Revelation Responsibly, Seiten 10–56](../../../../about/ressources/index.html#goreman)
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/the-book-of-revelation-how-to-read-it.de.md)

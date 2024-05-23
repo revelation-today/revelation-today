@@ -3,7 +3,6 @@ title: "Fahişe Kimdir Bölüm 1"
 weight: 2
 ---
 
-
 Sorun Papa değil. Ekonomi de değil. Herkes olabilir, hatta kilise bile.
 
 Fahişe Babil’le ilgili bölümü anlamak zor çünkü [birbiriyle etkileşim halinde olan çok sayıda oyuncu var](https://www.bibleserver.com/TR/Vahiy17). Onlara bir göz atalım.
@@ -13,7 +12,6 @@ Kralları ve tüm dünyayı sarhoş eden büyük fahişe ile başlar ve şimdi o
 Şimdi canavar azizlere karşı savaşır, ama İsa kavgaya devam eder ve sonunda canavar ve krallar fahişeden nefret eder ve onu yok ederler.
 
 Çok fazla oyuncu vardır ama fahişeyi tanımlamak için hepsine ihtiyaç vardır. Bu bölüm bir birikimdir ve şimdi şeytanı tam olarak tanımlamaktadır. Öyleyse parçalara ayıralım.
-
 
 ## Kızıl canavar
 
@@ -39,7 +37,6 @@ Canavar 8. ve 11. ayetlerde üç kez şu şekilde tanımlanır
 
 Bu da Tanrı'nın Rev.1:8'de [var olan ve gelecek olan](https://www.bibleserver.com/TR/Vahiy1%3A8) Ebedi Kişi olarak tanımlanmasının bir parodisidir.
 
-
 ## Yedi tepe ve yedi kral
 
 <a name="9b63"></a>
@@ -51,14 +48,12 @@ Kadının üzerinde oturduğu [yedi tepe](https://www.bibleserver.com/TR/Vahiy17
 
 [Şimdi canavarın kendisi yedilerden biri olan 8. kral olarak gelir](https://www.bibleserver.com/TR/Vahiy17%3A11). İsa’nın 8. günde (Şabat’tan sonraki gün) dirildiğini ve [13.](https://www.bibleserver.com/TR/Vahiy13%3A3-4) ve [16. bölümlerde ](https://www.bibleserver.com/TR/Vahiy16%3A13)canavarın dirilişi konusunun işlendiğini düşünürsek (kurbağalar doğum ve diriliş tanrıçası olan Mısır tanrıçası Hekate ile ilişkilidir), canavarın 8. günde ortaya çıktığını görebiliriz: Yenilmez gibi görünür. Ancak bu bir aldatmacadır çünkü o zaten “olan, olmayan ve yok olacak olan” olarak ortaya çıkmıştır. Burada bu doğrulanır, canavar yedi kişiden biridir — bir süper kahraman değil.
 
-
 ## 10 kral
 
 <a name="cabf"></a>
 [10 kral aynı anda hareket eden 10 boynuzdur](https://www.bibleserver.com/TR/Vahiy17%3A12) ve güçlerini canavara verirler, yani canavarın gündemine boyun eğerler. Canavarın belirli bir zamanda (potansiyel olarak tüm) dünya üzerindeki gücünü temsil ederler. 10 sayısı yine sembolik olabilir. İlk okuyucular bağlamında bu, Roma İmparatorluğu’nun destekleyici krallarına işaret ediyor olabilir.
 
 Amaçları Kuzu’ya karşı savaş açmaktır ama göreceğimiz gibi işler farklı gelişir
-
 
 ## Fahişe
 
@@ -78,9 +73,7 @@ Bölüm 21'deki gelin ve Bölüm 12'deki kadınla sözleşme olarak birçok benz
 | [Cennette güvenliği vardır](https://www.bibleserver.com/TR/Vahiy12%2C1) | [Uluslarda ve krallarda güvenliği vardır](https://www.bibleserver.com/TR/Vahiy17%2C15) ([Vih.17/18](https://www.bibleserver.com/TR/Vahiy17%2C18)) | |
 | | <span style="color:green;">mücevherlerle kaplı</span> </br> [Tuval giymiş](https://www.bibleserver.com/TR/Vahiy17%2C4) ([Vih.18/16](https://www.bibleserver.com/TR/Vahiy18%2C16)) </br>which <span style="color:red;">kapakları</span> onu <span style="color:red;">YOLSUZLUK</span> | [Değerli mücevherlerle kaplı](https://www.bibleserver.com/TR/Vahiy21%2C2) ([Vih.21 9-23](https://www.bibleserver.com/TR/Vahiy21%2C9-23)) </br> [Saf beyaz kanvas giysiler içinde](https://www.bibleserver.com/TR/Vahiy19%2C8) ([Vih.18/16](https://www.bibleserver.com/TR/Vahiy18%2C16)) </br> ki <span style="color:red;">Tanrı'nın görkemini ve <span style="color:red;">azizlerin salih amellerini</span> yansıtır.
 
-
 ve [Thyatira'da](https://www.bibleserver.com/TR/Vahiy2%3A20) da sorun çıkaran İzebel'le pek çok benzerliği vardır.
-
 
 | Fahişe | İzebel |
 |--------|--------|
@@ -101,7 +94,6 @@ ve son olarak 13. bölümdeki İkinci Canavar ile birçok paralellik.
 
 ## Fahişe ve İkinci Canavar
 
-
 | Vahiy 13'teki İkinci Canavar | Fahişe |
 |-----------------------------------|------------|
 | [<span style="color:green;">Dünya'dan geliyor</span>](https://www.bibleserver.com/TR/Vahiy13%2C11) | [<span style="color:green;">Çölde oturuyor</span>](https://www.bibleserver.com/TR/Vahiy17%2C3) |
@@ -117,7 +109,6 @@ Burada fahişenin gücü de tersine çevrilmiştir: 13. bölümde gökten ateş 
 
 Bölüm 17'deki ilk canavar fahişeyi desteklerken, bölüm 13'te ikinci canavar birincisini destekler.
 
-
 ## Daha fazla okuma
 
 <a name="7688"></a>
@@ -126,8 +117,5 @@ Bölüm 17'deki ilk canavar fahişeyi desteklerken, bölüm 13'te ikinci canavar
 
 ## Daha fazla kazma
 
-
 [Beale, Revelation, sayfalar 847–890](../../../../about/ressources/index.html#beale_rev)
 
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-1.tr.md)

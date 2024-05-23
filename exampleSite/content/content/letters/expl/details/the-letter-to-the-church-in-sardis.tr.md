@@ -3,9 +3,7 @@ title: "Sardis’teki kiliseye mektup"
 weight: 5
 ---
 
-
 Ölü bir kilise neye benzer? Oraya nasıl yeni bir hayat verebilirsiniz? Merak mı ediyorsunuz? [Sardis’e yazılan](https://www.bibleserver.com/TR/Vahiy3%3A1-6) mektuba bir göz atın.
-
 
 ## Tarihsel arka plan
 
@@ -16,7 +14,6 @@ Dağlarla bağlantısı olmayan ve kayalıklarla çevrili bir sokaktan 500 metre
 
 Kasaba her zaman büyük bir öneme sahip olmuştur, örneğin M.Ö. 17 yılında büyük bir depremle yıkıldığında, imparator Tiberius’un öncülüğünde yeniden inşa edilmiş ve dokuz yıl sonra imparatoru onurlandıran bir tapınak inşa etmek için başvuruda bulunulmuştur.
 
-
 ## İsa’nın görüşü
 
 <a name="4754"></a>
@@ -25,7 +22,6 @@ Kasaba her zaman büyük bir öneme sahip olmuştur, örneğin M.Ö. 17 yılınd
 Çok az övgü vardır (sadece birkaçı suçsuzdur).
 
 Ama daha çok azarlama: Kilise öldü, çalışmaları tamamlanmadı ve hızlı hareket etmeleri gerekiyor. Sorun nedir?
-
 
 ## Sorun
 
@@ -40,7 +36,6 @@ Ayrıca, “[yaptıklarınızı Tanrı’nın gözünde eksik bulduğunuza](http
 
 Hızlı hareket etmeliler yoksa Tanrı onları gafil avlar, çünkü Kutsal Ruh’suz bir yaşam sürdürülebilir değildir.
 
-
 ## Söz
 
 <a name="9a20"></a>
@@ -54,4 +49,3 @@ Yaşam kitabından isimlerin silinmemesi, cennetteki vatandaşlıklarını kaybe
 
 [Gordon Fee, Revelation, sayfalar 44–45](../../../../../about/ressources/index.html#fee_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-sardis.tr.md)

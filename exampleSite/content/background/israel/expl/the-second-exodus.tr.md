@@ -2,9 +2,7 @@
 title: "İkinci Çıkış"
 ---
 
-
 Mısır’dan bir Çıkış oldu. Ancak İsrail yasaya uymayı başaramayınca sürgüne gittiler. Geri döndüklerinde vaatlerle doluydular, sürgünden döndüklerinde hiçbir şeyin değişmediğini gördüler. Yani sonuç: Hâlâ sürgündedirler ve yeni bir Çıkış beklemektedirler. Ve bu İsa’yla birlikte gelecektir!
-
 
 ## Markos’taki göç
 
@@ -26,7 +24,6 @@ Markos'un Müjdesi'ndeki yapı Yeşaya'nın yapısını yansıtır
 | Mk.8/22,27-10/15,52: İsa "kör" öğrencilerine "yolda" rehberlik eder </br> Kör ve sağırları iyileştirir, öğrenciler de ilk başta kördür, ancak tekrar görürler. | [Tanrı "körlere" "yolda" rehberlik eder] (https://www.bibleserver.com/TR/Ye%C5%9Faya42%2C16) | İsa'nın acı çekmesi, çıkışının gerçekleştiği yoldur (Yşa.53: hizmetkâr ölümüyle yol alır (Mk.10/45)) |
 | Mk.10/46;11/1-16/8: İsa'nın Kudüs'e nihai varışı | İsrail'in Kudüs'e nihai varışı | İsa incir ağacını örter: başlangıca gönderme: [yargı ya da vaat, yalnızca meyve verirse] (https://www.bibleserver.com/TR/Vahiy17%2C14) |
 
-
 ## Luka’daki yeni Çıkış
 
 <a name="bfa6"></a>
@@ -40,7 +37,6 @@ Bu yol Mısır’dan Çıkış’tır ve Tanrı’nın kilise aracılığıyla �
 
 [Luka Müjdesi](https://www.bibleserver.com/TR/Luka24%3A44-49), [Yeşaya’da İsrail’in yeniden kurulmasına ve Yahudi olmayanların dahil edilmesine atıfta bulunan](https://www.bibleserver.com/TR/Ye%C5%9Faya49%3A6) [kutsal kitabın yerine getirilmesiyle sona erer](https://www.bibleserver.com/TR/Luka24%3A44-49).
 
-
 ## Elçilerin İşleri’ndeki yeni Çıkış
 
 <a name="f704"></a>
@@ -51,7 +47,6 @@ Luka Elçilerin İşleri kitabında bu ifadeyi 6 kez kullanır
 - [Pavlus’un Yeruşalim’de kalabalığa yaptığı konuşmada](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri22%3A4)
 - [Felix’e yaptığı konuşmaya](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri24%3A14) da iki [kez](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri24%3A22)
 
-
 Elçilerin İşleri’nde de Mısır’dan Çıkış’ın 6 ana mesajını bulabilirsiniz
 
 - İsrail kabilelerinin 12 elçi tarafından yeniden kurulması
@@ -61,13 +56,11 @@ Elçilerin İşleri’nde de Mısır’dan Çıkış’ın 6 ana mesajını bula
 - [kovulanların Tanrı’nın halkına dahil edilmesi](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri8%3A28-38)
 - [Pentikost](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri2%3A41-46) sırasında İsrail’in ilk tövbesi, [kilisenin başlangıcı](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri5%3A14), [Steven’ın seçimi](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri6%3A1-7), [Antakya’daki kilise](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri11%3A24) ve son olarak 12. bölümde — [kitap Yeşaya’nın](https://www.bibleserver.com/TR/Ye%C5%9Faya6%3A9-10) [başladığı yerde sona erer](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri28%3A26-27), İsrail’in İsa’nın mesajını reddetmesi
 
-
 Kilit bir konu, [Elçilerin İşleri’nde Steven’ın seçiminden sonra](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri6%3A7), [Hirodes’in ölümünden sonra](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri12%3A24) ve [Pavlus’un Efes’te](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri19%3A20) geçirdiği süre boyunca yayılan ve Yeşaya’daki önemli konumları yansıtan Tanrı’nın sözüdür:[ Tanrı nasıl karşılaştırılabilir](https://www.bibleserver.com/TR/Ye%C5%9Faya40%3A18-24), [O putlardan daha güvenilirdir](https://www.bibleserver.com/TR/Ye%C5%9Faya41%3A4-10), [putların kibri](https://www.bibleserver.com/TR/Ye%C5%9Faya44%3A9-20) ve [Babil’in putları](https://www.bibleserver.com/TR/Ye%C5%9Faya46%3A1-13).
 
 Bu karşılaştırma Elçilerin İşleri ve Yeşaya arasındaki gerilimi göstermektedir: Tanrı putlar üzerinde egemendir ama İsrail putlara bağlı kalır. Bu özellikle [Elçilerin İşleri 17'de](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri17) Yahudilerin direnişinin muhtemelen putlara tutunmalarından kaynaklandığı konulardır.
 
 Özellikle bu putlar tanrılık iddiasında bulunduklarında ([Simon](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri8%3A4-24), [Hirodes](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri12%3A20-23) ya da [Elymas](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri13%3A10-11) örneklerinde olduğu gibi) hüküm ilan edilir
-
 
 ## Özet
 
@@ -80,8 +73,3 @@ Müjde, Mesih’e iman eden İsrail’in restorasyonu ile diğer ulusların kurt
 
 [Beale, A New Testament biblical theology, sayfalar 694–703](../../../../about/ressources/index.html#beale_theo)
 
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-second-exodus.tr.md)

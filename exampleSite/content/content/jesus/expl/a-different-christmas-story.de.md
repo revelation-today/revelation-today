@@ -3,11 +3,9 @@ title: "Die Geburt Jesu in der Offenbarung"
 weight: 2
 ---
 
-
 Als Christ kennst du sicher die Weihnachtsgeschichte nach [Lukas](https://www.bibleserver.com/SLT/Lukas2), etwas romantisch mit ein paar Hirten und einem Kind in der Krippe und den drei Weisen, die einem Stern folgen.
 
 Wir haben die Weihnachtsgeschichte so oft gehört, dass wir sie gar nicht mehr richtig wahrnehmen. Aber diese Version der Geschichte zeigt einen neuen Aspekt, der uns ein neues Verständnis von Jesus geben kann. Ich nehme dich mit ins Kapitel 12 des Buches.
-
 
 ## Die Geschichte
 
@@ -28,12 +26,10 @@ Betrachtet man diese Szene, ohne das Ende zu kennen, scheint es klar zu sein, da
 
 Doch worum geht es in dieser Geschichte eigentlich? Werfen wir zunächst einen Blick auf die Identität der Personen.
 
-
 ## Der Drache
 
 <a name="b770"></a>
 Er ist am leichtesten zu identifizieren: Der Drache. In [Vers 9](https://www.bibleserver.com/SLT/Offenbarung12%2C9) heißt es “die alte Schlange genannt Teufel und Satan” —erinnert an den Sündefall.
-
 
 ## Das Kind
 
@@ -44,9 +40,7 @@ Werfen wir einen Blick auf das Kind. Es gibt nicht viele Einzelheiten, aber eine
 - [Jesaja](https://www.bibleserver.com/SLT/Jesaja11%2C4) beschreibt den kommenden Messias, der die Erde mit dem Stab seines Mundes schlagen wird
 - In der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung2%2C27) beschreibt sich Jesus selbst als denjenigen, der mit einem eisernem Zepter regiert.
 
-
 Diese Referenzen machen es sehr deutlich, dass es hier um Jesus und seine Geburt geht.
-
 
 ## Die Frau
 
@@ -57,14 +51,11 @@ Aber wer ist diese seltsame Frau, die mit Sonne, Mond und 12 Sternen bekleidet i
 - Eva wurde versprochen, dass [ihr Nachkomme die Schlange vernichten würde](https://www.bibleserver.com/SLT/1.Mose3%2C15).
 - Aber da ist auch Israel, dem verheißen wurde, den [Messias (Jesus) hervorzubringen](https://www.bibleserver.com/SLT/Jesaja66%2C7).
 
-
 Aber wer von den dreien ist es nun?
 
 - Maria liegt auf der Hand, aber nirgendwo in der Bibel wird sie mit Sonne, Mond und Sternen in Verbindung gebracht. Eher im Gegenteil: Maria wurde in der kirchlichen Tradition mit Sonne, Mond und Sternen in Verbindung gebracht, AUFGRUND der Interpretation, dass Maria diese Frau ist.
 - Für Eva besteht eine Verbindung zu Sone, Mond und Sternen, da sie zusammen mit Adam und Eva in der [Schöpfungsgeschichte](https://www.bibleserver.com/SLT/1.Mose1) erwähnt werden. Aber das lässt die Frage offen, warum hier von 12 Sternen die Rede ist.
 - Die beste Übereinstimmung findet sich bei Israel, die zwar auf den ersten Blick nicht wie eine Frau aussieht, aber in der Bibel auch als Frau bezeichnet wird, z.B. [Tochter Zion](https://www.bibleserver.com/SLT/Jesaja62%2C11). Wenn wir den [zweiten Traum Josefs](https://www.bibleserver.com/SLT/1.Mose37%2C9-10) betrachten, sehen wir eine große Übereinstimmung. Dort ist von Sonne, Mond und 11 Sternen die Rede und sein Vater interpretiert dies auf Joseph (den 12. Stern) und seine Brüder und Eltern. Da diese 12 Brüder die Stammväter Israels sind, ist Israel gemeint.
-
-
 
 ## Schließlich die Geschichte
 
@@ -84,15 +75,12 @@ So ist diese Geschichte voller Emotionen:
 - der Zorn des Drachen (Satan) und seine Entschlossenheit,
 - der überraschender Sieg über den Drachen.
 
-
 Wie genau Jesus überwindet, wird hier nicht beschrieben, aber das Thema der Spannung zwischen scheinbarer Hilflosigkeit und Überwindung findet sich an vielen Stellen in der Offenbarung und wird dort erklärt.
 
 - Die einzigen beiden Gemeinden, die von Jesus in den Sendschreiben nicht getadelt werden, sind Smyrna und Philadelphia (die sich aufgrund ihrer Umstände in echten Schwierigkeiten befinden), aber die Gemeinde mit dem größten Selbstbewusstsein (Laodizea) erhält kein einziges Lob.
 - [Der Löwe, der eigentlich ein Lamm ist](https://www.bibleserver.com/SLT/Offenbarung5%2C5-6).
 - [Die beiden Zeugen, die besiegt scheinen, aber am Ende überwinden und erhöht werden](https://www.bibleserver.com/SLT/Offenbarung11%2C7-12) im Vergleich mit dem [Drachen und den Tieren, die scheinbar alles im Griff haben](https://www.bibleserver.com/SLT/Offenbarung13), aber [untergehen mit denen, die ihnen vertraut haben](https://www.bibleserver.com/SLT/Offenbarung14%2C6-13).
 - …
-
-
 
 ## Zum Weiterlesen
 
@@ -104,5 +92,3 @@ Wie genau Jesus überwindet, wird hier nicht beschrieben, aber das Thema der Spa
 
 [Beale, Revelation, Seiten 621–681](../../../../about/ressources/index.html#beale_rev)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/expl/a-different-christmas-story.de.md)

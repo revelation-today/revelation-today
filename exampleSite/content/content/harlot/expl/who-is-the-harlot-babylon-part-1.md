@@ -3,7 +3,6 @@ title: "Part 1: Who is the Harlot Babylon?"
 weight: 2
 ---
 
-
 Some people say, it is the Pope; some people say it is the economy. It could be anyone, even the Church. So who is the Harlot Babylon?
 
 ## Overview
@@ -16,12 +15,10 @@ Now the beast fights against the saints, but Jesus will take up the fight and it
 
 There are too many players, but they are all needed to describe the Harlot. This chapter is a build up and now fully describes the devil. So let us break it down.
 
-
 ## The scarlet Beast
 
 <a name="9621"></a>
 This beast has many parallels to the First Beast in chapter 13.
-
 
 | The First Beast of Revelation 13 | The Beast of Revelation 17 |
 |----------------------------------|----------------------------|
@@ -41,7 +38,6 @@ The beast is described three times in verses 8 and 11 as the one who
 
 which is a parody on the description of God as the Eternal One who is described in Rev.1:8 as the One [who was and is and is to come](https://www.bibleserver.com/NIV/Revelation1%3A8).
 
-
 ## The seven hills and seven kings
 
 <a name="2d9d"></a>
@@ -53,7 +49,6 @@ On the other hand, hills can also mean kingdoms (since they are also interpreted
 
 Now the beast itself [comes as the 8th king which is one of the seven](https://www.bibleserver.com/NIV/Revelation17%3A11). Considering that Jesus was resurrected on the 8th day (the day after the Sabbath), and that we have the topic of the resurrection of the beast already[ in chapter 13](https://www.bibleserver.com/NIV/Revelation13%3A3-4) and [chapter 16](https://www.bibleserver.com/NIV/Revelation16%3A13) (frogs are related to Egyptian goddess Heqet, who is the goddess of birth and resurrection), we can see that the beast appears on the 8th day: He appears to be invincible. But this is a deception, because he is already revealed as “the one who was, who is not, and who goes to destruction”. Here it is confirmed that the beast is one of the seven — not a superhero.
 
-
 ## The 10 kings
 
 <a name="6041"></a>
@@ -61,12 +56,10 @@ Now the beast itself [comes as the 8th king which is one of the seven](https://w
 
 Their purpose is to wage war against the Lamb, but things work out differently as we will see.
 
-
 ## The Harlot
 
 <a name="1947"></a>
 She has many parallels as a contrast to the bride in chapter 21 and the woman in chapter 12
-
 
 | Wife in chapter 12 | Harlot in chapter 17 | Bride in ch.19 and 21 |
 |--------------------|----------------------|-----------------------|
@@ -81,9 +74,7 @@ She has many parallels as a contrast to the bride in chapter 21 and the woman in
 | [Has security in heaven](https://www.bibleserver.com/NIV/Revelation12%2C1) | [Has security in nations and kings](https://www.bibleserver.com/NIV/Revelation17%2C15) ([Rev.17/18](https://www.bibleserver.com/NIV/Revelation17%2C18)) | |
 | | Covered in <span style="color:green;">jewels</span> </br> [Dressed in canvas](https://www.bibleserver.com/NIV/Revelation17%2C4) ([Rev.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16)) </br>which <span style="color:red;">covers</span> her <span style="color:red;">corruption</span> | [Covered with precious jewels](https://www.bibleserver.com/NIV/Revelation21%2C2) ([Rev.21/9-23](https://www.bibleserver.com/NIV/Revelation21%2C9-23)) </br> [Dressed in pure white canvas](https://www.bibleserver.com/NIV/Revelation19%2C8) ([Rev.18/16](https://www.bibleserver.com/NIV/Revelation18%2C16)) </br> which <span style="color:red;">reflects</span> God's glory and <span style="color:red;">righteous deeds of the saints</span> |
 
-
 and a lot of similarities with Jezebel, who causes also trouble in [Thyatira](https://www.bibleserver.com/NIV/Revelation2%3A20).
-
 
 | The Harlot | Jesebel |
 |------------|--------|
@@ -104,7 +95,6 @@ and finally many parallels with the Second Beast in chapter 13.
 
 ## The Harlot and the second beast
 
-
 | The Second Beast of Revelation 13 | The Harlot |
 |-----------------------------------|------------|
 | [<span style="color:green;">Comes from Earth</span>](https://www.bibleserver.com/NIV/Revelation13%2C11) | [<span style="color:green;">Sits in desert</span>](https://www.bibleserver.com/NIV/Revelation17%2C3) |
@@ -120,22 +110,13 @@ The power of the harlot is also reversed here into: while in chapter 13 she drop
 
 While the first beast supports the harlot in chapter 17, the second beast supports the first beast in chapter 13.
 
-
 ## Further reading
 
 <a name="efa5"></a>
 - [The Harlot part 2](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
 - [The origin of Babylon](../../../../bible/keyword/expl/the-origin-of-babel)
 
-
-
 ## Dig Deeper
 
 [Beale, Revelation, pages 847–890](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-1.md)

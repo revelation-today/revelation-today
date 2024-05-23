@@ -3,9 +3,7 @@ title: "İncil’den referanslarla dolu"
 weight: 30
 ---
 
-
 Vahiy Kitabı’nı anlamanın anahtarı onu Kutsal Kitap’ın kendisiyle yorumlamaktır, çünkü bu kitap Kutsal Kitap’ın geri kalanına göndermelerle doludur. Ancak bu gerçekten böyle midir ve orijinal okuyucular bunu anlamış mıdır?
-
 
 ## Sıkıştırılmış referanslar
 
@@ -13,7 +11,6 @@ Vahiy Kitabı’nı anlamanın anahtarı onu Kutsal Kitap’ın kendisiyle yorum
 Kitabın pek çok bölümünde göreceğimiz gibi, Kutsal Kitap’a yapılan pek çok atıf vardır, çoğunlukla sadece atıfta bulunulmamış, birleştirilmiş, tersine çevrilmiş veya yeni bir bağlama aktarılmıştır.
 
 Ancak ilk okuyucu bu kadar yoğun bir bilgiyi kavrayabilir mi?
-
 
 ## İlk okuyucular
 
@@ -27,11 +24,7 @@ The early readers were very well able to grasp these information as
 - Yuhanna kendisini muhtemelen kilise tarafından kabul edilen bir peygamber olarak görüyordu ve bu nedenle muhtemelen aynı zamanda bir öğretmendi ve onlara Eski Antlaşma’yı öğretmiş olmalıydı, bu da kiliselerdeki yanlış (bilinen) öğretilerin açığa çıktığını gösterir.
 - Elçilerin İşleri’nden ve Yeni Antlaşma’daki diğer bölümlerden, Yahudilerin ve putperestlerin [Berea’da](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri17%3A10-12), [Efes’te](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri18%3A24-28), [Timoteos’a](https://www.bibleserver.com/TR/2.Timoteos2%3A2) öğretmen olarak Eski Antlaşma’yı (ilk Hıristiyanların Kutsal Kitabı) [öğrettiklerini](https://www.bibleserver.com/TR/2.Timoteos2%3A15) ve [Pavlus’un tüm Kutsal Kitap’ın önemini vurguladığını biliyoruz](https://www.bibleserver.com/TR/2.Timoteos3%3A16-17)
 
-
-
 ## Daha fazla kazma
 
 [Beale, Revelation, sayfalar 82–83](../../../../about/ressources/index.html#beale_rev)
 
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/full-of-biblical-references.tr.md)

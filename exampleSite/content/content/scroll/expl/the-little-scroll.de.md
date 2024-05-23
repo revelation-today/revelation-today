@@ -3,9 +3,7 @@ title: "Das kleine Büchlein in der Offenbarung"
 weight: 2
 ---
 
-
 Es gibt ein kleines Buch, das Johannes den soll und das Geheimnis der sieben Donner. Was hat es damit auf sich?
-
 
 ## Die Motivation
 
@@ -13,7 +11,6 @@ Es gibt ein kleines Buch, das Johannes den soll und das Geheimnis der sieben Don
 Nach der sechsten Posaune scheint es nichts zu geben, was die Menschen davon abhält, sich den Dämonen zuzuwenden, die sie zerstören. Deshalb gibt es einen langen Einschub zwischen der sechsten und der siebten Posaune am Ende von Kapitel 11.
 
 Es muss etwas geben, das die Menschen vor ihrem eigenen Unglück bewahrt, und das ist das treue Zeugnis der Gemeinde — dargestellt durch die zwei Zeugen, die in der Anbetung gegründet sind.
-
 
 ## Der Engel mit dem Büchlein
 
@@ -28,7 +25,6 @@ Zur Bestätigung setzt der Engel einen Fuß auf das Meer und den anderen auf das
 
 Und dann sind da die sieben Donner, die sprechen. Johannes ist sehr daran interessiert, was sie sagen, aber er soll es versiegeln. Wir können spekulieren, aber wir werden es nicht erraten, bis Gott es uns offenbart.
 
-
 ## Das Essen des Büchleins
 
 <a name="e70c"></a>
@@ -37,7 +33,6 @@ Johannes soll diese Schriftrolle essen. Das erinnert an Ezechiel, der auch eine 
 Es beschreibt, was Jesus getan hat (süß im Mund) und was die Folgen sind (bitter im Magen), was das Gericht über die Welt ist und was es heißt, Zeuge in dieser Welt zu sein, in der man von der Welt gehasst und nicht besser behandelt wird als Jesus.
 
 Aber was genau sagt das Büchlein? Dazu müssen wir die nächsten Kapitel lesen. Kurz gesagt: Es wird beschrieben, dass durch das Zeugnis der Gemeinde die Völker erreicht werden sollen, und das wird auch gelingen.
-
 
 ## Zum Weiterlesen
 
@@ -48,4 +43,3 @@ Aber was genau sagt das Büchlein? Dazu müssen wir die nächsten Kapitel lesen.
 
 [Beale, Revelation, Seiten 520–555](../../../../about/ressources/index.html#beale_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.de.md)

@@ -2,15 +2,12 @@
 title: "Gerçek kahraman nedir?"
 ---
 
-
 Kahraman nedir? Normalde bir yıkım insanı. Kahraman ne olmalıdır? Kutsal Kitap bu konuda ne diyor?
-
 
 ## İki diyar
 
 <a name="d70d"></a>
 Yokluk ya da bollukla tanımlanan iki âlem vardır. Bazı insanlar bunlara dilenciler ve krallar diyarı der.
-
 
 ## Eksiklik diyarı
 
@@ -20,7 +17,6 @@ Yokluk aleminde insanların sınırlı kaynakları vardır. Eğer bir şeye sahi
 Bu alemdeki insanlar iyi insanlar olabilirler ancak cevapları kötü insanları kısıtlamak (hapsetmek, beyinlerini yıkamak) veya onları yok etmektir (öldürmek). Onların kahramanları kötülerden daha güçlü olan ve onları öldüren ya da bağlayanlardır.
 
 Sorun şu ki, iyi ve kötü arasında net bir sınır yok, bu yüzden kahramanların bile bir ayağı kötü tarafta. Bu nedenle buradaki anahtar dengedir: Ne çok iyi olun ne de çok kötü. Kaynaklar sınırlı olduğu için açgözlülüğünüz ve istismarınızla barışın, ne yapabilirsiniz ki? Ayrıca düşmanınıza merhamet edemezsiniz ve o sizi kurtarabilir ve yok edebilir.
-
 
 ## Bolluk diyarı
 
@@ -32,7 +28,6 @@ Bu nedenle kötülüğe verilecek yanıt diğer alemdekinden farklıdır. Burada
 Burada kahramanların mükemmel olmaması sorun değil çünkü başkalarına yardım ederken onlar da iyileşebilirler.
 
 Buradaki iş güveni öğrenmek ve artırmak, vermeyi ve sevmeyi öğrenmektir.
-
 
 ## Gerçek bir kahraman
 
@@ -51,9 +46,3 @@ Ancak bir süper kahraman farklıdır: Kendini korumak ve rakibinin zayıflıkla
 
 Yok edilmekten korkmadığı için kötü insanları iyileştirme ve onarma potansiyeline sahiptir. Paylaşabilir çünkü kendisine rızık verildiğini bilir.
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/a-real-hero.tr.md)

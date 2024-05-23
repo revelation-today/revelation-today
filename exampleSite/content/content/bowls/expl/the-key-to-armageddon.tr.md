@@ -3,9 +3,7 @@ title: "Kıyametin anahtarı"
 weight: 3
 ---
 
-
 Armageddon: dünyayı yok edecek bir felaket mi? Hayır, çünkü bu bir yer değil. Bu bir kavram. Nedenini bilmek ister misiniz? Okumaya devam edin!
-
 
 ## Çeviri
 
@@ -18,8 +16,6 @@ Ar, İbranicede dağ anlamına gelir. Ama hangisi? Elimizde üç olasılık var 
 - ancak “Megiddo dağı” anlamına da gelebilir. Megiddo ve dağında meydana gelen birçok olay olduğu için bu daha uzun bir açıklamadır.
 - ve son olarak “katliam dağı” anlamına gelebilir ki bunu da inceleyeceğiz.
 
-
-
 ## Deborah ve Jael
 
 <a name="8338"></a>
@@ -28,7 +24,6 @@ Megiddo yakınlarındaki bir savaştan ilk kez söz edilmesi hakimler [Debora ve
 İsrail, Hakimler kitabında sık sık olduğu gibi, [kendilerine baskı yapan yabancı bir yönetim altındaydı](https://www.bibleserver.com/TR/Hakimler4%3A1-3). Ve orada Debora, [Barak adında bir yargıcı Tanrı’nın vaadini yerine getirmeye ve İsrail’i Tanrı’nın onları kurtaracağına söz verdiği gibi özgür bırakmaya çağırır](https://www.bibleserver.com/TR/Hakimler4%3A3-7). Ama Barak kararsızdır ve ancak Debora ona katılırsa gelmek ister, [o da katılır ama ordu liderleri Sisera’ya karşı son darbeyi vurmayacağını, bunun bir kadın tarafından yapılacağını duyurur](https://www.bibleserver.com/TR/Hakimler4%3A8-9). Bu kadının Debora olduğunu düşünüyorsanız yanılıyorsunuz, çünkü Yael burada devreye girer.
 
 Barak orduyu yendikten sonra Sisera kaçar ve Heber’in evine sığınmaya çalışır (çünkü onlar Siseras kralının dostlarıydı). [Ancak Heber’in karısı Yael bu fırsatı değerlendirerek Sisera uyurken onu öldürür](https://www.bibleserver.com/TR/Hakimler4%3A15-21).
-
 
 ## Elijah
 
@@ -41,7 +36,6 @@ Arka plan olarak: İsrail kralı Ahab, karısı Jesebel ile birlikte Sidon’dan
 
 [Ordunun komutanı Yehu](https://www.bibleserver.com/TR/2.Krallar9) nihayet atandığında, Yahuda’ya kadar ulaşan Yeşebel ağının tamamını yok etti. Yehu Yahuda kralını takip ederken onu vurdu ve Yahuda kralı — tahmin edin ne oldu — Megiddo’da öldü!
 
-
 ## Josiah
 
 <a name="9ad1"></a>
@@ -49,8 +43,6 @@ Arka plan olarak: İsrail kralı Ahab, karısı Jesebel ile birlikte Sidon’dan
 
 - Assur o dönemde İsrail’e sürekli baskı yapıyordu ve Babil sorun çıkardığı için bunu durduruyordu
 - Mısır bir yandan İsrail’in kölelikten kurtulduğu yerdi, ama her zaman İsrail için bir [yedek plandı ve normalde İsrail’i hayal kırıklığına uğrattı](https://www.bibleserver.com/TR/2.Krallar18%3A21). Görünüşe göre Yoşiya İsrail’in Mısır’a karşı savaşan ilk kralıydı.
-
-
 
 ## Sonuç
 
@@ -63,8 +55,6 @@ Armagedon, Yeni Ahit’in tamamında, özellikle de Vahiy kitabında gördüğü
 - tek bir komutan hazırlık yapmadan kralını ve komşu kralı devirir
 - Küçük bir krallığın kralı bir dünya gücüne karşı savaşır, yenilir ve öldürülürse halkının geleceğini güvence altına alır
 
-
-
 ## Daha fazla okuma
 
 <a name="1244"></a>
@@ -76,7 +66,3 @@ Armagedon, Yeni Ahit’in tamamında, özellikle de Vahiy kitabında gördüğü
 
 [Fee, Revelation, sayfalar 224-225](../../../../about/ressources/index.html#fee_rev)
 
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-key-to-armageddon.tr.md)

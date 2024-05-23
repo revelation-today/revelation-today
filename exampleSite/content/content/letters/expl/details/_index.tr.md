@@ -2,9 +2,7 @@
 title: "Yedi kiliseye gönderilen mektuplar"
 ---
 
-
 Vahiy Kitabı, belirlenmiş yedi kiliseye gönderilen yedi mektubu gösterir. Amaç nedir? Nasıl inşa edilir? Ve genel masaj nedir?
-
 
 ## Daha önce okumak isteyebilirsiniz
 
@@ -13,8 +11,6 @@ Vahiy Kitabı, belirlenmiş yedi kiliseye gönderilen yedi mektubu gösterir. Am
 - [Ne tür bir kitap bu?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 - [Vizyon](../../../../content/letters/expl/the-vision)
 - [Kiliselerin melekleri](../../../../content/letters/expl/the-angel-of-the-churches)
-
-
 
 ## Vizyon
 
@@ -27,7 +23,6 @@ Mesaj şudur: Yıldızlar ve kuzu duruşları olarak yansıtılan kilise ışık
 
 Bölümün başında İsa’nın ne yaptığını gördük, şimdi kiliselerin içinde bulunduğu durumu görüyoruz ve Tanrı’nın kiliselerin mükemmelliğine doğru ilerlemek için ne yaptığını göreceğiz.
 
-
 ## Mektuplar
 
 <a name="e24f"></a>
@@ -37,7 +32,6 @@ Mektupların her birinde
 - iyi davranışları için onları över ve
 - eksiklikleri için onlarla yüzleşir ve
 - Sonunda onlara eksikliklerinin üstesinden gelmeleri ya da iyi işlerini sürdürmeleri için bir söz verir.
-
 
 Harfler simetrik olarak düzenlenmiştir.
 
@@ -57,7 +51,6 @@ Bergama ve Sardeis: Bergama’daki zina ile Sardeis’teki Ruh’un eksikliğini
 
 Thyatira: Ana mesaj budur ve ana nokta kötü bir önderliktir ve İsa herkesin tanık olması için bu kiliseyi yargılayacaktır. Belki de ana nokta önderlerin kiliseye tanıklık etmesinin önemini vurgulamaktır.
 
-
 ## Daha fazla okuma
 
 <a name="f6db"></a>
@@ -73,4 +66,3 @@ Thyatira: Ana mesaj budur ve ana nokta kötü bir önderliktir ve İsa herkesin 
 
 [Beale, Revelation, sayfalar 223–228](../../../../about/ressources/index.html#aune_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-letters-to-the-seven-churches.tr.md)

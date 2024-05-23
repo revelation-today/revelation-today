@@ -2,9 +2,7 @@
 title: "The creation"
 ---
 
-
 To understand the end of the Bible, you must understand the beginning of the Bible. Did you know that the tree of life that we see in the story of the Fall, or the sign of Cain, are both seen again in the book of Revelation?
-
 
 ## The poem
 
@@ -17,7 +15,6 @@ It was intended and designed. In the first three days the houses of creation (li
 
 And all was well. Man and woman, as God’s representatives (made in God’s image), were placed as rulers over everything. Man and woman are both created equally as representatives of God.
 
-
 ## The drama
 
 <a name="91ed"></a>
@@ -28,7 +25,6 @@ Man had all freedom except one thing: he was not to eat of the tree of the knowl
 Man had everything: a task to cultivate and protect the garden, creative ownership (he could give animals names and thus identity), an intimate relationship with God, but one thing was missing: the one thing that God does not call good.
 
 God lives in relationship and is defined by it (God is love and love only makes sense in relationship), but man was alone. So God looked for a counterpart, but did not find any, so he created the woman out of him. The man was amazed and called her “wow-man”, but God called her “helper”, which is best translated as “life-saver”. And that is where the fall begins. All she needed was a tipping stone and the shape of a serpent.
-
 
 ## The tipping stone
 
@@ -41,7 +37,6 @@ And she gave it to the man. Well, she didn’t have to go looking for him becaus
 
 But they both fail. The result is shame, which makes them hide from God and blame each other. Shame has broken all relationships.
 
-
 ## God’s recovery plan
 
 <a name="deaf"></a>
@@ -52,7 +47,6 @@ Adam only points out the symptoms of his shame. He hid because he was naked. He 
 Adam does not confess, but blames everyone but himself: The woman YOU gave me. In fact, he blames God and the woman he admires so much.
 
 The woman only admits that she ate from the tree, but not to give it to the man.
-
 
 ## The consequence
 
@@ -65,18 +59,15 @@ The woman was a dream come true that he received from God. But instead of bringi
 
 He obeyed the word of the woman, not the word of God. The fruit was only there to show the problem that was already there: The man did not lead the woman to God, but waited for her leadership, which was not given to her, so she was led by the serpent — a creature over which the man had dominion.
 
-
 ## The unthinkable
 
 <a name="ac70"></a>
 They have to leave the garden, but first their shame is covered with animal skins. And this is the overwhelming thought, because animal skins don’t grow on trees. God had to damage His own creation and let animals die to cover the shame of man. These animals died instead of man and woman, and wearing these clothes should make them never forget that.
 
-
 ## A new beginning
 
 <a name="e861"></a>
 After they left the garden, Eve became pregnant and made a significant statement: I have had a child with the Lord. Well, it was obviously Adam’s, but the name Cain (treasure) shows her thinking behind it. Perhaps Cain was her return ticket to the Garden, as he could be the savior who destroys the serpent. This becomes even more obvious when she names the second born Abel (nothing).
-
 
 ## The explosion
 
@@ -93,7 +84,6 @@ Cain was angry and here God immediately steps in and warns Cain. Sin in this sit
 
 But Cain does not listen and kills his brother. When Cain is confronted, he repents and feels unable to bear the consequences, so God places a sign of protection on him.
 
-
 ## The scandal
 
 <a name="d090"></a>
@@ -103,16 +93,8 @@ Cain’s descendants continue to grow and find refuge in cities and innovations.
 - He has already killed someone, God’s sign was to avoid further killing.
 - Lamech’s consequences will be much greater than God’s consequences, is he greater than God?
 
-
 But they are also a laughing stock.
 
 - He does not tell this to the whole world, but only has the courage to boast in front of his wife.
 - And who exactly will avenge Lamech when he is killed? His wives?
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/creation/expl/the-creation.md)

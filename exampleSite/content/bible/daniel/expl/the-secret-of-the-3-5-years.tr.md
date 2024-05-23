@@ -3,9 +3,7 @@ title: "3,5 yıl"
 weight: 50
 ---
 
-
 Kutsal Kitap’taki Vahiy kitabı 1260 gün, 42 ay ve benzeri garip zaman dilimleriyle doludur. Bunlar ne anlama gelmektedir? Ve gerçek anlamda bir anlamları var mı?
-
 
 ## Daha önce okumak isteyebilirsiniz
 
@@ -14,13 +12,10 @@ Kutsal Kitap’taki Vahiy kitabı 1260 gün, 42 ay ve benzeri garip zaman diliml
 - [Daniel’deki dört krallık](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
 - [70 yıl](../../../../bible/daniel/expl/the-70-year-weeks)
 
-
-
 ## Biraz matematik
 
 <a name="05a6"></a>
 Vahiy Kitabı’nın 11 ila 13. bölümlerinde farklı zamanlara ilişkin dört referans vardır.
-
 
 | Zaman | Referans |
 |-------|----------|
@@ -42,7 +37,6 @@ Ve neden aynı birimde (aylar veya günler) değiller?
 
 Önce Eski Antlaşma’nın arka planına bir göz atalım.
 
-
 ## İlyas ve kuraklık (1. Krallar 16/29–18/35)
 
 <a name="08ef"></a>
@@ -54,14 +48,12 @@ Ve neden aynı birimde (aylar veya günler) değiller?
 
 Buradaki mücadele ve soru şudur: “Gerçek Tanrı kimdir?”
 
-
 ## Daniel’de yıl haftası
 
 <a name="eb7b"></a>
 [Daniel’de her biri 3,5 yıl uzunluğunda iki yarım haftayla sonuçlanan 70 hafta vardır](../../../../bible/daniel/expl/the-70-year-weeks). İlk yarım hafta İsa’nın yeryüzündeki zamanını, ikincisi ise kilise çalışmalarını anlatır. Ayrıca İsa’nın antlaşmasının da bu[ hafta içinde olacağı anlatılır](https://www.bibleserver.com/TR/Daniel9%3A27).
 
 Bu 3,5 yıl, Tanrı’nın bu dünyanın krallıklarını yıkacak olan arka planda inşa ettiği şeydir.
-
 
 ## Vahiy’deki 3,5 yıl nedir?
 
@@ -78,7 +70,6 @@ Sonra [tapınağımız](https://www.bibleserver.com/TR/Vahiy11%3A1-2) var. Artı
 
 Peki neden farklı birimler (günler, aylar, …) kullanılmaktadır? Tanıkların yönetimi ve İsrail’in sağlanması söz konusu olduğunda günler kullanılırken, şeytanın yönetimi ve tapınağın dış mahallelerinin yıkımı için aylar ve Tanrı’nın gizli işi için 3,5 yıl/zaman kullanılır. Belki de bu kullanım, şeytanın sadece 42 ayına kıyasla kilisenin 1260 gününün bolluğunu göstermek için yapılmıştır. Ama bu biraz tahmin. Gerçekten bir fikrim yok.
 
-
 ## Bu ne anlama geliyor?
 
 <a name="1562"></a>
@@ -86,9 +77,3 @@ Peki, bu ne anlama geliyor?
 
 Şeytanın egemenliği ile kilisenin mutlak egemenliği birbirine paraleldir. Dünya şeytan tarafından yönetiliyor gibi görünse bile, kilise hala sorumludur.
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-secret-of-the-3-5-years.tr.md)

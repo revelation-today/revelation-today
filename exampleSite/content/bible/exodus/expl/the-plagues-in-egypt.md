@@ -3,9 +3,7 @@ title: "The plagues in Egypt"
 weight: 40
 ---
 
-
 This is a story you have heard in Sunday School, but there is much to discover that you may not have heard before.
-
 
 ## The start
 
@@ -15,7 +13,6 @@ Moses and Aaron come back and [share the good news with the Israelites and they 
 The next station is [that Moses goes to the Pharaoh and performs his miracles, but Pharaoh is not impressed](https://www.bibleserver.com/NIV/Exodus7%3A8-13).
 
 Now after no one expects anything from Moses and Aaron anymore, God begins His work.
-
 
 ## The pattern
 
@@ -29,20 +26,11 @@ The plagues follow certain patterns that are interesting to observe.
 - The first plagues of each series (1,4,7) begin in the morning (with Pharaoh at the Nile checking the “health of the Nile”).
 - The last of the series (3,6,9) comes without warning.
 
-
-
-
 The StaffDuring the plagues 1–3, the staff is used by Aaron.No staff used during plagues 4–6.Moses uses the staff during plagues 7–9.
-
-
 
 Wizardscan imitate plague 1 and 2,cannot imitate plague 3 and see the finger of God in there,are so much “affected” by plague 6, that they cannot even appear later.
 
-
-
 As the plagues continued, Pharaoh’s heart grew harder and Moses increased his demands.In plagues 1–3 no distinction is made between Israelites and Egyptians, but from plague 4 on they are distinguished.
-
-
 
 The plagues are directed against [the power of the Egypt and its gods](https://www.bibleserver.com/NIV/Exodus12%3A12), but not against the people, [who are even warned](https://www.bibleserver.com/NIV/Exodus9%3A18-21) and can always find refuge with the Israelites in Goshen.
 
@@ -127,5 +115,3 @@ The [sign on the hand and forehead](https://www.bibleserver.com/NIV/Exodus13%3A8
 
 [Nahum Sarna, Exodus, pages 38–80](../../../../about/ressources/index.html#sarna_exo)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-plagues-in-egypt.md)

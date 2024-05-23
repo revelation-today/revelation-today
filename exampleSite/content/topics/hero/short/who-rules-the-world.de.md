@@ -2,9 +2,7 @@
 title: "Wer regiert die Welt"
 ---
 
-
 Die Offenbarung gibt uns ein sehr verwirrendes Bild davon, wer eigentlich die Welt regiert. Da ist einerseits der Satan, der die Welt völlig im Griff hat, aber auch die Kirche. Was geht da vor sich und was heißt eigentlich regieren?
-
 
 ## Die Frage
 
@@ -16,9 +14,7 @@ Als Jesus am Kreuz starb, war Satan besiegt. Das wurde uns gesagt, aber es schei
 - Die Welt ist nicht christlicher geworden, aber die Christen sind weltlicher geworden.
 - [Die Gemeinde scheint oft nicht die Lösung, sondern Teil des Problems zu sein](../../../../topics/church/appl/what-is-wrong-with-the-church)
 
-
 Was ist also los? Ist etwas völlig schief gelaufen? Wir müssen genauer hinschauen.
-
 
 ## Die Geschichte Israels
 
@@ -41,16 +37,13 @@ Es gibt zwei parallele Reiche zwischen dem ersten und dem zweiten Kommen Jesu. S
 - darauf zu bestehen, dass jeder gesund und wohlhabend wird, wenn er nur genug glaubt und verkündet
 - Glauben, dass man schon ohne Sünde leben kann
 
-
 Wenn wir das “noch nicht” überbewerten, führt dies zu
 
 - Verherrlichung des Leidens und der Armut,
 - Ablehnung der Gaben des Geistes,
 - die Erwartung, dass nur wenige in das Reich Gottes kommen.
 
-
 Deshalb müssen wir diese Spannung aushalten.
-
 
 ## Die Spannung aushalten
 
@@ -63,7 +56,3 @@ Satan zwingt die Menschen zur Unterwerfung, die Zeugen beeinflussen die Menschen
 
 Das wird deutlich im [Tausendjährigen Reich und in der Tatsache, dass es die Zeugen sind, die darin regieren](../../../../content/1000y/expl/the-thousand-year-kingdom).
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/who-rules-the-world.de.md)

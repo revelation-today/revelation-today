@@ -3,9 +3,7 @@ title: "Tanrı’nın ordusu ve yedi melek"
 weight: 2
 ---
 
-
 Vahiy Kitabı’ndaki 14. bölüm Kutsal Kitap’taki en şaşırtıcı bölümlerden biridir ve biraz kaybolmuş ve diğer bölümlerle bağlantısı kopmuş gibi görünür. Bu yüzden daha yakından bakmamız gerekir.
-
 
 ## 144.000
 
@@ -26,7 +24,6 @@ Bu çok korkutucu bir durumdur ama Tanrı’nın halkı hâlâ ayaktadır. Tüm 
 - [iki canavarla olan algısı ve baskısı](https://www.bibleserver.com/TR/Vahiy13) [bir felakettir](../../../../content/beasts/expl/666-the-number-of-the-beast)
 - [ve azizlere karşı kazandığı zafer geri tepti](../../../../content/witnesses/expl/the-two-witnesses)
 
-
 Sadece bu da değil, [küçük parşömenle ilgili kaderlerini de yerine getirdiler](../../../../content/scroll/expl/the-little-scroll). Ama onların sırrı nedir? Burada yazıyor:
 
 “[Kendilerini kadınlarla lekelememiş olanlar bunlardır. Pak kişilerdir. Kuzu nereye giderse ardısıra giderler. Tanrı’ya ve Kuzu’ya ait olacakların ilk bölümü olmak üzere insanlar arasından satın alınmışlardır. Ağızlarından hiç yalan çıkmamıştır. Kusursuzdurlar.](https://www.bibleserver.com/TR/Vahiy14%3A4-5)”
@@ -36,9 +33,7 @@ Sadece bu da değil, [küçük parşömenle ilgili kaderlerini de yerine getirdi
 - Çünkü “satın alınmışlardır”: Yüksek bir bedelle yardım edildiklerini bilirler.
 - Ağızlarında yalan bulunmaz: [Baskı altındayken tereddüt etmeyen](https://www.bibleserver.com/TR/1.Petrus2%3A22) İsa gibi sadık tanıklardır.
 
-
 Bunu özetlemek gerekirse: İsa’nın izinde tanıklıklarını ödün vermeden yaşadılar ve zorluklara ve hatta şehitliğe katlandılar.
-
 
 ## İlk üç melek
 
@@ -47,7 +42,6 @@ Bunu özetlemek gerekirse: İsa’nın izinde tanıklıklarını ödün vermeden
 
 - 144.000 kişi sadıktır ve canavarlara karşı koyar ve Mesih’i bulan uluslar için bir tanıklıktır
 - insanlar strese ve canavarın aldatmacasına teslim oluyor
-
 
 İlk melek geldi ve ebedi müjdeyi ilan etti:
 
@@ -63,7 +57,6 @@ Mezmur, Tanrı’nın kral olduğunu ve tüm ulusların ona tapınmaya DAVET ED�
 
 Asıl soru şu: Sonuç ne olacak? Uluslar bizi dinleyecek mi? Tanıklarla ilgili hikayeden biliyoruz: [Dinleyecekler](../../../../content/witnesses/expl/the-two-witnesses)
 
-
 ## İki hasat
 
 <a name="c8c5"></a>
@@ -77,9 +70,7 @@ Ancak tahıl hasadına doğru büyük bir farklılık var:
 - Bağbozumu hem toplamayı hem de ezmeyi içerirken, tahıl hasadında SADECE biçme vardır. Çünkü tahıl ya [harmanlanmayı](https://www.bibleserver.com/TR/Yeremya51%3A33), ya [değneğin yakılmasını](https://www.bibleserver.com/TR/Matta3%3A12) ya [da savrulmayı izlerken](https://www.bibleserver.com/TR/Mezmur1%3A4), [biçmek insanları Tanrı’nın Egemenliği’ne getirmenin simgesidir](https://www.bibleserver.com/TR/Markos4%3A29).
 - Tahıl hasadı “bulutun üzerinde oturan ve taç giyen insanoğluna benzer biri” tarafından yapılır. Bu, [tüm ulusların kendisine tapındığı ebedi krallığı aldığı Daniel’e bir göndermedir.](https://www.bibleserver.com/TR/Daniel7%3A13-14)
 
-
 Yani sonuçta uluslar için iki seçenek vardır: Yargı ya da Kurtuluş. İki tanığın öyküsü çoğunluğun Tanrı’ya yücelik vermesiyle sona erer, ancak burada konu bir an için açık bırakılır.
-
 
 ## Musa’nın şarkısı
 
@@ -101,7 +92,6 @@ Tüm bu bağlantılar birlikte Mose ve Kuzu’nun Şarkısı’nın içeriğini 
 - onun tek Tanrı olduğunu göstererek
 - bu nedenle tüm ulusları kendisine tapınmaya getirir
 
-
 Şarkı, tüm ulusların Tanrı’ya gelip O’na tapınacaklarına dair bir bildiridir. Bunu düşmanlarını yargılayarak yapar. Kutlama şehitlerin kurtuluşuyla ilgili değil, Tanrı’nın ulusları kurtardığı için övgüdür.
 
 Gazap kaseleriyle Tanrı’nın, tapınmayı reddeden ve ejderhayla canavarlara sadık kalan uluslara nasıl davrandığını görürüz.
@@ -114,5 +104,3 @@ Gazap kaseleriyle Tanrı’nın, tapınmayı reddeden ve ejderhayla canavarlara 
 
 [Bauckham, The climax of Prophecy, sayfalar 283–307](../../../../about/ressources/index.html#bauckham_climax)
 
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/expl/gods-army-and-the-seven-angels.tr.md)

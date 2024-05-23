@@ -3,9 +3,7 @@ title: "The little scroll"
 weight: 2
 ---
 
-
 There is a small scroll that John has to eat and the mystery of the seven thunders. What is the meaning of this?
-
 
 ## The motivation
 
@@ -13,7 +11,6 @@ There is a small scroll that John has to eat and the mystery of the seven thunde
 After the sixth trumpet, it looks like nothing is going to rescue the people from the demons that are destroying them. As a result, we have a longer interlude between the sixth and seventh trumpets, which come at the end of chapter 11. This connects chapters 10 and 11.
 
 Something else must be needed to turn people away from their own disaster, and that is the faithful testimony of the church — represented by the witnesses who have their source in the worship of God.
-
 
 ## The angel with the scroll
 
@@ -28,7 +25,6 @@ As assurance, the angel puts one foot on the sea and one on the land, showing th
 
 And then there are the seven thunders that speak. We are very curious as to what they say, but they are sealed. So, sorry, we can speculate what it would be, but we will not find out until God reveals it.
 
-
 ## Eating the scroll
 
 <a name="c6ef"></a>
@@ -38,16 +34,12 @@ It describes what Jesus has done (sweet in the mouth) and what the consequences 
 
 But what is the scroll now? Looking at the next chapter(s), it is the testimony of the Church to reach the nations, which the Church will finally accomplish.
 
-
 ## Further readings
 
 <a name="b216"></a>
 - [The two witnesses](../../../../content/witnesses/expl/the-two-witnesses)
 
-
-
 ## Dig Deeper
 
 [Beale, Revelation, pages 520–555](../../../../about/ressources/index.html#beale_rev)
 
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.md)

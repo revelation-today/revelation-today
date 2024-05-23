@@ -3,9 +3,7 @@ title: "Jesus und der Bund"
 weight: 5
 ---
 
-
 Als Jesus auf die Erde kam, „überraschte“ er die Menschen mit seiner Botschaft und seinem Verhalten, was für die Juden schockierend war. Warum und was hat das mit dem Bund Gottes zu tun?
-
 
 ## Die Erwartung an den Tag des Herrn
 
@@ -17,8 +15,6 @@ Zur Zeit Jesu warteten die Juden auf den Tag des Herrn, und es gab eine Vielzahl
 - Israel wird verworfen und Gott erwählt die Römer (jüdische Historiker wie Josephus)
 - stärkerer Gesetzesgehorsam und Unterordnung unter die Römer und Zusammenarbeit mit ihnen (Sadduzäer)
 - stärkerer Gesetzesgehorsam und aktiver Widerstand gegen die Römer (Zeloten)
-
-
 
 ## Die Herausforderung
 
@@ -34,8 +30,6 @@ Aber es geht noch weiter. Unmittelbar nachdem Markus sich auf Jesaja beruft, wir
 - Die Brotvermehrung erinnert an das Manna in der Wüste.
 - Die Stillung des Sturms erinnert an den Auszug aus Ägypten.
 - Das Mahl mit den Sündern ist eine Vorwegnahme des großen Festmahls Gottes mit seinem Volk.
-
-
 
 ## Die Lehren Jesu
 
@@ -53,7 +47,6 @@ Das Kommen des Reiches Gottes (Israel wird herrschen) kommt auf versteckte Weise
 - [Hefe, die den ganzen Teig durchsäuert](https://www.bibleserver.com/SLT/Matth%C3%A4us13%2C33) (Hefe wurde im Alten Testament niemals als Bild für das Reich Gottes benutzt) — aus einer kleinen Menge wird im Verborgenen unaufhaltbar eine große Menge.
 - [der verborgene Schatz und die Perle](https://www.bibleserver.com/SLT/Matth%C3%A4us13%2C44-46) — der Schatz muss gesucht werden, wenn gefunden, gibt man alles auf
 
-
 Auch die Beschreibung der Seligpreisungen sind eine Herausforderung für Israel — denn es fordert Israel heraus, das wahre Israel zu sein, denn alle Verheißungen gelten den Treuen in Israel:
 
 - [Die Armen im Geist erben das Königreich](https://www.bibleserver.com/SLT/Matth%C3%A4us5%2C3).
@@ -61,8 +54,6 @@ Auch die Beschreibung der Seligpreisungen sind eine Herausforderung für Israel 
 - [Die Sanftmütigen werden das Land erben](https://www.bibleserver.com/SLT/Matth%C3%A4us5%2C5).
 - [Die Reinen im Herzen werden Gott sehen](https://www.bibleserver.com/SLT/Matth%C3%A4us5%2C8).
 - D[ie Friedensstifter werden Kinder Gottes genannt werden (Titel von Israel)](https://www.bibleserver.com/SLT/Matth%C3%A4us5%2C9).
-
-
 
 ## Ein neues Denken
 
@@ -73,20 +64,17 @@ Als Jesus kam, haben die Menschen sein Kommen nicht bemerkt. Sie erwarteten etwa
 - den Überrest Israels wiederherzustellen, damit sie
 - über die ungläubigen Völker zu herrschen.
 
-
 Es gibt jedoch einige Missverständnisse
 
 - Israel dachte, die Feinde seien die unterdrückenden Nationen.
 - Der Überrest sind die religiösen Menschen wie die Pharisäer.
 - Herrschen bedeutet, über andere zu herrschen, wie es die Völker tun.
 
-
 Zunächst einmal hatte Jesus ein ganz anderes Verständnis von Herrschen.
 
 Zweitens hat Jesus sehr deutlich gemacht, dass die Feinde nicht die Römer als Besatzungsmacht sind, sondern die [Feinde sind die Dämonen](https://www.bibleserver.com/SLT/Markus3%2C22-27), die er bei verschiedenen Anläßen austrieb. Sie [auszutreiben, war ein Zeichen dafür, dass der Tag des Herrn da ist](https://www.bibleserver.com/SLT/Matth%C3%A4us12%2C28). Das war [speziell bei seinem Tod der Fall](https://www.bibleserver.com/SLT/Johannes12%2C31-33).
 
 Schließlich sind der Überrest nicht die religiösen Menschen, sondern diejenigen, die den Bund halten, also [nur Jesus selbst](../../../../bible/daniel/expl/the-son-of-man-and-the-remnant). Alle anderen gehören nicht zum Überrest und würden unter das Gericht fallen — also das gesamte Volk Israel.
-
 
 ## Bereits und noch nicht
 
@@ -97,7 +85,3 @@ Vergleicht man diese Stelle jedoch mit der bei [Jesaja](https://www.bibleserver.
 
 Jesus kam nicht, um die richten, denn sonst müsste er alle richten, also hat [er den Tag des Herrn in zwei Teile geteilt](https://www.bibleserver.com/SLT/Matth%C3%A4us11%2C20-24).
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/jesus-and-the-covenant.de.md)

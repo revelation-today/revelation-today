@@ -3,9 +3,7 @@ title: "Cennet ve Cehennem"
 weight: 3
 ---
 
-
 Cennet ve cehennem nedir? Bütün insanlar cennete gider mi? İyi bir Tanrı insanları nasıl cehenneme gönderebilir?
-
 
 ## Cennet ve Yeni Yeruşalayim
 
@@ -20,7 +18,6 @@ Ayrıca 21. bölümdeki dil, [İsrail’in Tanrı’yla paydaşlık ettiği yer 
 
 Bu yüzden Yeni Yeruşalim ya da cennet Tanrı’yla en yakın olunan yer olarak tanımlanır.
 
-
 ## Bağlılık
 
 <a name="a2fa"></a>
@@ -29,7 +26,6 @@ Tapınak konusu, bu yerin tapınmayla bağlantılı olduğu on birinci bölümde
 Yeni Yeruşalim bu küp olarak tanımlanırken, dışındaki her yer cehennem olarak tanımlanır. Yani ya tamamen içindesinizdir ya da tamamen dışındasınızdır. Bu biraz aşırı değil mi?
 
 Aslında değil. Çünkü öncelikten bahsediyor. Bir şeye tam olarak bağlı değilseniz, daha önemli bir şey vardır ve/veya ona tam olarak güvenmiyorsunuzdur. Ve her ilişkide bu çok önemlidir.
-
 
 ## Cehennem ne hakkında?
 
@@ -44,9 +40,3 @@ Tanrı kimseyi kendisiyle paydaşlık etmesi için zorlamaz. Onunla tam olarak b
 
 Cehennem genellikle korku yaratmak için kullanılır: Eğer tövbe etmez ve Hıristiyan olmazsanız cehenneme gidersiniz. Yukarıda gördüklerimize göre bu gerçekten yanlış değildir, [ancak mesele şu ki korku ve manipülasyon canavarın özellikleridir (Vahiy’de)](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation), ancak kilisenin özelliği esas [olarak tanık](../../../../content/witnesses/expl/the-two-witnesses) olarak [tanıklıklarıdır](../../../../topics/power/short/the-power-of-testimony).
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/heaven-and-hell.tr.md)

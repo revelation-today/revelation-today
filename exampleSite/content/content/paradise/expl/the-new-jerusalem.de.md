@@ -3,9 +3,7 @@ title: "Das neue Jerusalem"
 weight: 2
 ---
 
-
 Wie Himmel und Erde aussehen werden, ist im Einzelnen schwer zu sagen, aber die Offenbarung gibt uns dennoch einige Einblicke.
-
 
 ## Der Aufbau des Kapitels
 
@@ -23,7 +21,6 @@ Der Abschnitt läßt sich wie folgt einteilen:
 - 21/6 -&gt; 22/1
 - 21/8 -&gt; 21/27a
 
-
 22/9–22/5: Das neue Jerusalem
 
 - 21/9–14: Erster Eindruck von der Stadt
@@ -31,8 +28,6 @@ Der Abschnitt läßt sich wie folgt einteilen:
 - 21/18–21: Material der Stadt
 - 21/22–27: Innere Merkmale der Stadt
 - 22/1–5: Symbole der Gegenwart Gottes
-
-
 
 ## Einführung in das Neue Jerusalem
 
@@ -47,7 +42,6 @@ Der Abschnitt läßt sich wie folgt einteilen:
 
 Hier [werden sich viele der Verheißungen des Alten Testaments erfüllen](https://www.bibleserver.com/SLT/Jesaja65%2C17-25).
 
-
 ## Kein Meer mehr
 
 <a name="eee1"></a>
@@ -56,9 +50,7 @@ Es wird gesagt, dass es [kein Meer mehr geben wird](https://www.bibleserver.com/
 - der Ort des Ursprungs des Bösen wie in der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung13%2C1) oder durch die Beschreibung der Meeresungeheuer [Leviathan](https://www.bibleserver.com/SLT/Psalm74%2C13-14) oder [Rahab](https://www.bibleserver.com/SLT/Jesaja51%2C9-10) oder durch die Personifizierung böser Könige als Meeresungeheuer wie der [Pharao](https://www.bibleserver.com/SLT/Hesekiel32%2C2), böse Könige im Allgemeinen oder das [Meer selbst als böses Medium](https://www.bibleserver.com/SLT/Psalm93%2C3-4).
 - der [Ort des Todes](https://www.bibleserver.com/SLT/Offenbarung20%2C13) zusammen mit dem Hades.
 
-
 Wenn es also kein Meer mehr gibt, dann gibt es auch keinen Ort, an dem das Böse wohnen und die Gläubigen unterdrücken kann. [Das Meer befindet sich zudem außerhalb der Stadt](https://www.bibleserver.com/SLT/Offenbarung20%2C14-15).
-
 
 ## Jerusalem, die Heilige Stadt
 
@@ -74,7 +66,6 @@ Dieser Gedanke wird im Neuen Testament aufgegriffen als
 - [es gibt ein himmlisches Jerusalem](https://www.bibleserver.com/SLT/Hebr%C3%A4er12%2C22)
 - [Jerusalem ist frei](https://www.bibleserver.com/SLT/Galater4%2C26-31)
 
-
 Es gibt eine interessante Parallele zu [den Versen 10 und 11](https://www.bibleserver.com/SLT/Offenbarung21%2C10-11):
 
 Vers 2: das neue Jerusalem, das von Gott aus dem Himmel herabkommt, vorbereitet wie eine schön gekleidete Braut für ihren Mann.
@@ -82,7 +73,6 @@ Vers 2: das neue Jerusalem, das von Gott aus dem Himmel herabkommt, vorbereitet 
 Vers 10–11: Heilige Stadt, Jerusalem, von Gott aus dem Himmel herabgekommen. Sie erstrahlte in der Herrlichkeit Gottes.
 
 Das schöne Kleid der Braut ist die Herrlichkeit Gottes. Und [Gottes Herrlichkeit ist seine Barmherzigkeit und sein Erbarmen](https://www.bibleserver.com/SLT/2.Mose33%2C17-23), die auch die Kirche widerspiegeln soll.
-
 
 ## Gott lebt mit seinem Volk
 
@@ -93,7 +83,6 @@ Die laute Stimme war schon beim [Gericht über das Reich des Satans](https://www
 
 Dass Gott mit seinem Volk lebt, ist eine [Verheißung im Pentateuch](https://www.bibleserver.com/SLT/3.Mose26%2C11-12), die in [Hesekiel](https://www.bibleserver.com/SLT/Hesekiel37%2C27) aufgegriffen wird, als [er in den Tempel zurückkehrt](https://www.bibleserver.com/SLT/Hesekiel43%2C7) und sogar die [Nationen einschließt](https://www.bibleserver.com/SLT/Sacharja2%2C10-11). Dies ist auch ein Thema im [Neuen Testament](https://www.bibleserver.com/SLT/2.Korinther6%2C16) und in der Offenbarung.
 
-
 ## Wischt alle Tränen ab
 
 <a name="a74c"></a>
@@ -103,14 +92,12 @@ Dies ist eine weitere [Verheißung aus Jesaja, wo Tränen und Tod fliehen](https
 
 Das [erste wird mit all seiner Trauer verschwinden](https://www.bibleserver.com/SLT/Jesaja65%2C17-20), und [wir sollten mit dieser Vision nicht zurück, sondern nach vorne schauen](https://www.bibleserver.com/SLT/Jesaja43%2C18).
 
-
 ## Alle Dinge werden neu
 
 <a name="d592"></a>
 “[Und der auf dem Thron saß, sprach: Siehe, ich mache alles neu! Und er sprach zu mir: Schreibe; denn diese Worte sind wahrhaftig und gewiss!](https://www.bibleserver.com/SLT/Offenbarung21%2C5)”
 
 “[Alles ist neu](https://www.bibleserver.com/SLT/Jesaja43%2C18-19)” ist in[ Jesus erfüllt, der mit uns die neue Schöpfung begonnen hat](https://www.bibleserver.com/SLT/2.Korinther5%2C17).
-
 
 ## Lebendiges Wasser
 
@@ -120,7 +107,6 @@ Das [erste wird mit all seiner Trauer verschwinden](https://www.bibleserver.com/
 Dies ist die Erfüllung von [Jesaja](https://www.bibleserver.com/SLT/Jesaja49%2C10), wo Gott umsonst zu trinken gibt. Der Begriff “[umsonst](https://biblehub.com/greek/1432.htm)” wird bei [Johannes](https://www.bibleserver.com/SLT/Johannes15%2C25), [Matthäus](https://www.bibleserver.com/SLT/Matth%C3%A4us10%2C8), im [Korintherbrief](https://www.bibleserver.com/SLT/2.Korinther11%2C7), [Galaterbrief](https://www.bibleserver.com/SLT/Galater2%2C21), [Römerbrief](https://www.bibleserver.com/SLT/R%C3%B6mer3%2C24) und [Thessalonicherbrief](https://www.bibleserver.com/SLT/2.Thessalonicher3%2C8) verwendet und sehr oft mit “freie Gabe” gleichgesetzt.
 
 Das lebendige Wasser hat seine [Quelle in Gott](https://www.bibleserver.com/SLT/Jeremia2%2C13), er [gibt reichlich zu trinken](https://www.bibleserver.com/SLT/Psalm36%2C8-9), sogar [überfließend](https://www.bibleserver.com/SLT/Joel3%2C5) und natürlich erfüllt in [Jesus mit der Frau am Brunnen ](https://www.bibleserver.com/SLT/Johannes4%2C10)und als [eine Verheißung für alle, die an ihn glauben](https://www.bibleserver.com/SLT/Johannes7%2C38).
-
 
 ## Die Überwinder
 
@@ -137,8 +123,6 @@ Die Gemeinden, die in Kapitel 2 und 3 überwunden haben, sehen hier die Verheiß
 - [Pergamon](https://www.bibleserver.com/SLT/Offenbarung2%2C17) und [Thyatira](https://www.bibleserver.com/SLT/Offenbarung2%2C28) sind verheißen, einen [hellen Stein](https://www.bibleserver.com/SLT/Offenbarung21%2C11)([e](https://www.bibleserver.com/SLT/Offenbarung21%2C18-21)) zu haben.
 - [Thyatira](https://www.bibleserver.com/SLT/Offenbarung2%2C26-27) und [Laodizea](https://www.bibleserver.com/SLT/Offenbarung3%2C21) sind verheißen, mit [Jesus zu herrschen](https://www.bibleserver.com/SLT/Offenbarung22%2C5).
 - [Smyrna](https://www.bibleserver.com/SLT/Offenbarung2%2C11) ist verheißen, vom [zweiten Tod ausgeschlossen zu werden](https://www.bibleserver.com/SLT/Offenbarung21%2C7-8).
-
-
 
 ## Bereit für den zweiten Tod
 
@@ -157,13 +141,11 @@ Sie alle sind mit dem Götzendienst verbunden:
 - sexuelle Unmoral steht in Verbindung mit Tempelprostitution
 - magische Künste praktizieren die, die [Götzendienst ](https://www.bibleserver.com/SLT/5.Mose18%2C9-11)treiben, also auch [Isebel](https://www.bibleserver.com/SLT/2.K%C3%B6nige9%2C22)
 
-
 Lügner haben den Glauben verraten, weil [sie sich Apostel nennen](https://www.bibleserver.com/SLT/Offenbarung2%2C2), auf [Satans Weise handeln](https://www.bibleserver.com/SLT/Offenbarung3%2C9), [falsches Zeugnis ablegen](https://www.bibleserver.com/SLT/1.Johannes2%2C4), dem [Wort Jesu nicht gehorchen](https://www.bibleserver.com/SLT/1.Johannes2%2C4), [leugnen, dass Jesus der Herr ist](https://www.bibleserver.com/SLT/1.Johannes2%2C22), [ihre Brüder oder Schwestern hassen](https://www.bibleserver.com/SLT/1.Johannes4%2C20) und [nicht glauben, dass wir in Jesus ewiges Leben haben](https://www.bibleserver.com/SLT/1.Johannes5%2C10).
 
 Die Liste wird [ganz am Ende](https://www.bibleserver.com/SLT/Offenbarung22%2C15) und in [einer kürzeren Version am Ende des Kapitels](https://www.bibleserver.com/SLT/Offenbarung21%2C27) wiederholt, endet aber in allen Fällen mit “Lügner”, denn [es ist wichtig, dass wir mit unseren Worten und Taten konsequent sind](https://www.bibleserver.com/SLT/Titus1%2C16).
 
 Der [ultimative Lügner ist Satan](https://www.bibleserver.com/SLT/Johannes8%2C44), und wir wollen uns sehr von ihm unterscheiden.
-
 
 ## Details des Neuen Jerusalems
 
@@ -179,11 +161,9 @@ Das neue Jerusalem ist das Gegenstück zu Babel, wenn wir den [größeren Zusamm
 - Babel zerstört sich selbst und Jerusalem bleibt für immer
 - Babel wird reich durch Ausbeutung und Verfolgung, Jerusalem aber ist reich als Gottes Geschenk
 
-
 Die zwölf Tore beziehen sich auf die 12 Stämme und die 12 Grundsteine auf die 12 Apostel. Die [2 mal 12 spiegeln die ewige Anbetung im Himmel wider](https://www.bibleserver.com/SLT/Offenbarung4%2C4), sind aber auch eine Mahnung, nach Versöhnung zwischen Juden und Nicht-Juden zu suchen, [deren Konflikt im ganzen Buch beschrieben wird](../../../../background/israel/expl/israel-and-the-church).
 
 Das Seltsame ist, dass die Apostel das Fundament der Stämme sind (Kirchenfundament für Israel), aber [das macht Sinn, wenn man bedenkt, dass Jesus die Erfüllung Israels ist, die von der Kirche vollbracht wird](https://www.bibleserver.com/SLT/Epheser2%2C20). [Juda wird in dem Buch auch als der erste der Stämme aufgeführt, was Jesus widerspiegelt.](https://www.bibleserver.com/SLT/Offenbarung7%2C4-8)
-
 
 ## [Die Maße der Stadt](https://www.bibleserver.com/SLT/Offenbarung21%2C15-17)
 
@@ -206,7 +186,6 @@ Jetzt ist jeder Gott am nächsten. Aber nicht nur das. [Alle Ungläubigen befind
 
 Ein weiterer Aspekt ist, dass die Größe der Stadt in etwa der Größe der hellenistischen Welt (Römisches Reich) zu dieser Zeit entspricht, so dass es Platz für jeden gibt, der bereit ist, hineinzugehen.
 
-
 ## [Das Material der Stadt](https://www.bibleserver.com/SLT/Offenbarung21%2C18-21)
 
 <a name="aef1"></a>
@@ -219,7 +198,6 @@ Interessant ist, dass auch [der Tempel Salomos mit vier Reihen von Steinen ](htt
 Unsere Übersetzung sagt, dass “das erste Fundament mit Jaspis verziert ist”, [aber eine bessere Übersetzung ist “das erste Fundament IST Jaspis”](https://biblehub.com/interlinear/revelation/21-19.htm).
 
 Die Erwähnung der [Straße im Neuen Jerusalem](https://www.bibleserver.com/SLT/Offenbarung21%2C21) erinnert an [die beiden Zeugen, deren Leichnam bloßgestellt wurde](https://www.bibleserver.com/SLT/Offenbarung11%2C8), aber jetzt ist die Straße ihnen zu Ehren. Unsere frühere Schande wird durch ewige Herrlichkeit ersetzt werden.
-
 
 ## [Die internen Features](https://www.bibleserver.com/SLT/Offenbarung21%2C22-27)
 
@@ -254,7 +232,6 @@ Die [Tore sind nicht offen, um mit der Außenwelt in Kontakt zu treten, sondern 
 
 Während die Gläubigen hineingehen können, [können die Ungläubigen nicht hineingehen](https://www.bibleserver.com/SLT/Offenbarung21%2C27), was sich auch in zwei [Stellen](https://www.bibleserver.com/SLT/Jesaja52%2C1) in [Jesaja](https://www.bibleserver.com/SLT/Jesaja35%2C8) widerspiegelt, wo [kurz vorher Wassermassen fließen](https://www.bibleserver.com/SLT/Jesaja35%2C7), und hier in der Offenbarung kommt das Wasser nach diesem Vers.
 
-
 ## [Symbole von Gottes Gegenwart](https://www.bibleserver.com/SLT/Offenbarung22%2C1-5)
 
 <a name="126e"></a>
@@ -264,7 +241,6 @@ Dies basiert auf
 - dem [Fluss, wenn Jerusalem wieder aufgebaut wird](https://www.bibleserver.com/SLT/Sacharja14%2C8) und
 - dem [Wasser aus dem Haus des Herrn, das die Bäume bewässert](https://www.bibleserver.com/SLT/Joel3%2C5)
 
-
 Es gibt auch eine Beschreibung in der [Schöpfungsgeschichte, in der die Flüsse dort mit Edelsteinen in Verbindung gebracht werden](https://www.bibleserver.com/SLT/1.Mose2%2C10-12), wie in der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung21%2C19-20).
 
 Die Quelle von all dem ist (der Thron) Gottes und des Lammes. Wasser wird oft mit dem Heiligen Geist in Verbindung gebracht
@@ -273,7 +249,6 @@ Die Quelle von all dem ist (der Thron) Gottes und des Lammes. Wasser wird oft mi
 - wir [aus Wasser und Geist geboren werden](https://www.bibleserver.com/SLT/Johannes3%2C5)
 - wir [lebendiges Wasser empfangen und Anbetung im Geist tun](https://www.bibleserver.com/SLT/Johannes4%2C10-24)
 - [als Wasser und Geist als Zeugen](https://www.bibleserver.com/SLT/1.Johannes5%2C7-8)
-
 
 Schließlich schließt sich der Kreis zum Anfang (der Schöpfung und des Sündenfalls): [Der Baum des Lebens ist wieder da und jeder hat Zugang zu ihm.](https://www.bibleserver.com/SLT/Offenbarung22%2C2)
 
@@ -285,4 +260,3 @@ Der [Name auf der Stirn](https://www.bibleserver.com/SLT/Offenbarung22%2C4) war 
 
 [Beale, Revelation, Seiten 1039–1121](../../../../about/ressources/index.html#beale_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/the-new-jerusalem.de.md)

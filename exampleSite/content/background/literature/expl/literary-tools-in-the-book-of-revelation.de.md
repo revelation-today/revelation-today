@@ -3,9 +3,7 @@ title: "Literarische Mittel in der Offenbarung"
 weight: 40
 ---
 
-
 Wie haben die ersten Leser das Buch der Offenbarung gelesen? Es gab keine Überschriften oder Absätze, nur den Text. Werfen wir einen Blick auf diese ganz andere Art des Lesens.
-
 
 ## Einführung
 
@@ -13,7 +11,6 @@ Wie haben die ersten Leser das Buch der Offenbarung gelesen? Es gab keine Übers
 Die hebräische Literatur unterscheidet sich sehr von unserer. Sie hatte keine Kapitel oder Verse, sondern Buchstaben in Reihen mit minimalen grafischen oder visuellen Indikatoren, da sie eher vorgelesen (gehört) als gesehen wurden.
 
 Es gibt Indikatoren, die zeigen, wo eine Geschichte beginnt und endet, wie die Geschichten miteinander verbunden und organisiert sind und wo der Schwerpunkt liegt. Aber auch das Aufbrechen einer solchen Struktur kann dem Leser ein Signal geben. Wir erhalten ein viel umfassenderes Verständnis, wenn wir diese Strukturen studieren und verstehen, aber wir sollten sie nicht erzwingen, so dass wir eine Struktur sehen, wo der Autor sie nicht beabsichtigt hat.
-
 
 ## Erste Schritte
 
@@ -25,11 +22,9 @@ Um die Literatur zu verstehen, ist es hilfreich, die folgenden drei Schritte zu 
 - Die Einheiten können auf Wortebene oder in größeren Texteinheiten bestehen.
 - Dies geschieht sogar auf einer kaskadierenden Ebene, da das menschliche Gehirn nicht mit zu vielen kleinen Einheiten umgehen kann. Daher werden sie normalerweise in 3 bis 9 Einheiten unterteilt und dann zu einer Supereinheit zusammengefasst.
 
-
 2, Die Anordnung dieser Einheiten zu analysieren
 
 - könnte durch Wiederholung, parallel oder nichtlinear sein
-
 
 3, die Beziehung zwischen der Struktur und ihrer Bedeutung berücksichtigen
 
@@ -37,8 +32,6 @@ Um die Literatur zu verstehen, ist es hilfreich, die folgenden drei Schritte zu 
 - in einer symmetrischen Struktur liegt der Schwerpunkt oft in der Mitte
 - Die Mischung von Parallelen und Gegensätzen innerhalb einer Struktur kann ebenfalls zur Betonung verwendet werden.
 - Unterbrechungen im Fluss können ebenfalls die Aufmerksamkeit erregen.
-
-
 
 ## Identifizieren der Einheiten
 
@@ -53,14 +46,12 @@ Startmarkierungen können auch kombiniert werden:
 - rhetorische Fragen
 - Wechsel von Zeit, Ort, Personen oder Sprechern, Thema, Genre, Handlungstempo, Tempus oder Stimmung
 
-
 Endmarkierungen können sein
 
 - Schlussformel
 - poetischer Refrain
 - Schlussfolgerung oder Zusammenfassung
 - Rückblende
-
 
 Einheit als eigenständige, in sich geschlossene und vollständige Einheit
 
@@ -69,8 +60,6 @@ Einheit als eigenständige, in sich geschlossene und vollständige Einheit
 - inhaltliche Kompatibilität
 - Umfang: typischerweise 15–20 Seiten (groß) oder ein Kapitel in der Bibel (mittel) oder ein Satz oder mehrere Absätze (klein)
 - meist 7 oder 13, 14 Einheiten, auch 3 oder 5 sind möglich
-
-
 
 ## Die Anordnung der Einheiten
 
@@ -81,14 +70,11 @@ Es gibt drei Typen, die kombiniert werden können
 - parallel (a-b-c-a’-b’-c’)
 - symmetrisch (a-b-c-’b’-a’)
 
-
 Viele Kombinationen sind möglich
 
 - a-b-c-d-e-a’ kombiniert lineare und symmetrische Muster, wie eine Rede, die mit der Annahme beginnt und mit der Zusammenfassung endet, die die Annahme beweist.
 - a-b-c-d-’b’-c’-a’ ist eine modifizierte Symmetrie, eine Kombination von symmetrischen und parallelen Mustern und würde die Aufmerksamkeit des Lesers auf den Schalter b’-c’ lenken.
 - a-a’-b-b’-c-c’-d-d’ kombiniert lineare und parallele Muster und kann z.B. parallele, aber unterschiedliche Geschichten wie Gen.38/2–50/26 erzählen. Dieselbe Geschichte kann in verschiedenen Schemata gesehen werden, z.B. kann Gen.37/2–50/26 als a-b-c-d-e-f-g-g’-f’-e’-d’-c’-b’-a’ oder a-a’-b-b’-c-c’-d-d’-e-e’-f-f’-g-g’ gesehen werden.
-
-
 
 ## Lineares Muster
 
@@ -97,8 +83,6 @@ Sie sind leicht zu erkennen. Sie können sein
 
 - chronologisch wie Geschichten mit Überschneidungen in der Zeitlinie oder Rückblenden oder anderen Klammern
 - nicht chronologisch, z.B. räumlich (Norden, Osten, Süden, Westen) oder nach dem Alphabet geordnet.
-
-
 
 ## Paralleles Muster
 
@@ -112,7 +96,6 @@ Parallele Muster sind vielleicht nicht so leicht zu erkennen, bieten aber einen 
 Paralleles Mustererleichtert das Erinnernkann Vergleich, Kontrast, Hervorhebung, Erklärung, Illustration einführen
 
 Beispiel: Jona a: Jonas Auftrag und Ungehorsam (1/1–3) b: Jona und die heidnischen Seeleute: JHWH ist gnädig (1/4–16) c: Jonas Antwort auf JHWHs Barmherzigkeit: Lobpreis (1–17–2/10) a’: Jonas erneuter Auftrag und Gehorsam (3/1–3a) b’: Jona und die heidnischen Niniviten: JHWH ist gnädig (3/3b-10) c’: Jonas Antwort auf JHWHs Barmherzigkeit: Groll (4/1–4) d: JHWHs Lektion (4/5–11)Diese Struktur erweckt den Eindruck, dass sein erstes Gebet heuchlerisch und sein zweites selbstsüchtig war, aber die Gestaltung der Geschichte kann dies durch die Struktur vermitteln, ohne moralisierend zu sein.
-
 
 ## Symmetrische Muster
 
@@ -131,15 +114,12 @@ Diese Vorgehensweise hat mehrere Vorteile
 - Gegenläufiger Drehpunkt: Bei einer ungeraden Anzahl von Einheiten (siehe oben) gibt es einen Drehpunkt, zu dem beide Seiten hinstreben und den sie zu einem natürlichen Brennpunkt machen. Im obigen Beispiel ist die Geschichte von Gideon der Wendepunkt.
 - Gedächtnisstütze: Die Zuhörer können sich die aufeinander folgenden Punkte leichter merken (normalerweise lernen sie sie auswendig).Möglichkeit, Wiederholungen zu nutzen: Hinzufügen von Gelegenheiten zum Vergleichen, Wiederholen, Hervorheben, Erklären oder Veranschaulichen.
 
-
 Das hat auch Nachteile:
 
 - Es wird vom Publikum mehr verlangt, um es zu erkennen.
 - Es erfordert mehr Arbeit für den Autor.
 
-
 Trotz dieser Nachteile wurde die symmetrische Form in der Antike sehr geschätzt.
-
 
 ## Strukturen verstehen
 
@@ -150,13 +130,10 @@ Die Struktur des Textes hat einen großen Einfluss auf die Bedeutung, z.B. wenn 
 - strukturierte Wiederholungen
 - Position der Hervorhebung
 
-
-
 ## Allgemeine Struktur
 
 <a name="9c94"></a>
 Die Gesamtstruktur kann die Botschaft des Autors vermitteln.
-
 
 ## Strukturierte Wiederholung
 
@@ -166,7 +143,6 @@ Nicht alle Strukturen werden verwendet, um eine Bedeutung zu zeigen, manchmal ge
 - strukturell: hilft, ein strukturelles Schema der Komposition zu schaffen, z.B. die Aufzählung der drei Söhne Noahs vor und nach der Sintflut (Gen 6/9–10 und 9/18–19) schafft Ausgewogenheit und fasst die Geschichte zusammen.
 - Ausarbeitung: Die zweite Einheit eines zusammengehörenden Paares entwickelt das Thema weiter, z.B. Gen 28/6–9 stellt Esaus Frau vor, während Gen 36 den Rest von Esaus Familie beschreibt.
 - Zweite Perspektive: Sie greift die erste Einheit aus einem anderen Blickwinkel auf oder fasst sie zusammen, z. B. die Überquerung des Jordans aus zwei Blickwinkeln (Jos 3,9–17: von Osten her beginnt die Überquerung und wird vollendet, Jos 4,10–13: von Westen her schreitet sie voran und wird vollendet).
-
 
 Andererseits kann es auch verwendet werden, um Bedeutung zu vermitteln, z.B. im Gebet des Jona (Jona 2/2–9 und 4/1–3).
 
@@ -183,8 +159,6 @@ Dies kann im Hebräischen auf verschiedene Weise geschehen:
 - Auflösung (oder Erfüllung): betont die enge Verbindung zwischen dem Anfang der Geschichte, der Spannung oder Vorhersage und der endgültigen Auflösung oder Erfüllung (Gen 12/1–9: Kinderlosigkeit von Abram und Sarah, 21/1–7: Geburt Isaaks)
 - Totalität: die Totalität eines Phänomens aufzeigen, indem beide Hälften eines Merismus (Tag und Nacht, Mann und Frau) dargestellt werden (Jes. 2/10–22: zukünftige Erniedrigung des hochmütigen Mannes, 3/16–17: zukünftige Erniedrigung der hochmütigen Frau)
 
-
-
 ## Prominente Positionen
 
 <a name="4b40"></a>
@@ -200,8 +174,6 @@ Die Bedeutung könnte sein
 - Höhepunkt: dies ist auch in Ehuds Geschichte der Fall, der Punkt mit der größten Spannung
 - Mittelstück: stellt den Höhepunkt dar, z.B. Lieder 3/6–5/1 ist die Hochzeit, Chr. Zentrum ist Salomo, der Erbauer des Tempels (2.Chr.1–9)
 - bedeutsame Pause (oder Zwischenspiel): bemerkenswerte Pause in der Handlung oder in der Argumentation der Komposition, um einen höchst bedeutsamen Punkt zu machen.2.Könige 2/1–8/6 ist eine Pause in der unerbittlichen, fast ununterbrochenen Aufzählung der Sünden der Könige, die durch das Wirken Elisas unterbrochen wird.Lam.3/21–32: unterbricht die unerbittliche tragische Lobrede, um über die tiefe Liebe Gottes nachzudenken.
-
-
 
 ## Wert der Strukturanalyse
 
@@ -223,6 +195,3 @@ Dafür gibt es viele Gründe:
 
 [Jerome T. Walsh, Biblical Hebrew Narrative, Seiten 7–11](../../../../about/ressources/index.html#walsh)
 
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literary-tools-in-the-book-of-revelation.de.md)

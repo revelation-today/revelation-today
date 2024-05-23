@@ -4,7 +4,6 @@ title: "Die sieben Siegel (Kap.5-6)"
 weight: 6
 ---
 
-
 Kapitel 5 beginnt mit einem Paukenschlag. Da bis zu diesem Punkt alles verständlich zu sein scheint, betreten wir nun das Kapitel mit eher ungewöhnlichen Bildern.
 
 Zuerst sehen wir eine Schriftrolle mit sieben Siegeln, die niemand zu öffnen vermag und wir fragen uns, was darin geschrieben steht. Aber das ist nicht die Frage, sondern wer ist würdig, dies in die Tat umzusetzen: Gottes Plan zu verwirklichen. 

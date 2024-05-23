@@ -3,15 +3,12 @@ title: "Die sonderbare Armee"
 weight: 1
 ---
 
-
 Du hast sicher schon von den 144.000 gehört, aber wer sind sie, warum werden sie gezählt und was ist ihr Zweck?
-
 
 ## Unser Text
 
 <a name="804c"></a>
 Wir bewegen uns zielstrebig auf [Kapitel 7](https://www.bibleserver.com/SLT/Offenbarung7) zu.
-
 
 ## Die Armee Gottes
 
@@ -30,7 +27,6 @@ Hier wird auch deutlich, dass es im Christentum nicht darum geht, gerettet zu we
 
 Wir werden wie eine Armee beschrieben: Soldaten, die sich ständig Sorgen machen, ob sie verwundet oder getötet werden, sind nicht kampfbereit. Wir sind Soldaten in Gottes Armee, aber wir kämpfen nicht mit Gewalt, sondern mit Anbetung, Gebet, Zeugnis und Ausdauer.
 
-
 ### Reflektion
 
 <a name="7031"></a>
@@ -42,20 +38,9 @@ Wir werden wie eine Armee beschrieben: Soldaten, die sich ständig Sorgen machen
 - Gezählt zu sein bedeutet, nicht verloren zu gehen. Was bedeutet das für dich?
 - Gottes Heer kommt aus der Großen Trübsal. Was wird mit deinem Glauben geschehen, wenn du herausgefordert wirst? Wird er stärker oder bröckelt er? Glaubst du, dass Gott deinen Glauben stärken kann, wenn er auf die Probe gestellt wird? Worauf stützt sich dein Glaube?
 
-
-
-
-
-
-
 ## Digging deeper
 
 <a name="df15"></a>
 - [Die 144.000](../../../../content/army/expl/the-144000)
 - [Die große Trübsal](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/appl/the-strange-army.de.md)

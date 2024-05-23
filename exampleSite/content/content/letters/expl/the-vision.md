@@ -3,9 +3,7 @@ title: "The vision"
 weight: 3
 ---
 
-
 The book of Revelation begins with a bang. John has a vision of an amazing figure walking among lampstands with starter in hand. While it is clear that this vision somehow defines the scope of the book, you may wonder what the message really is.
-
 
 ## Overview
 
@@ -15,8 +13,6 @@ John (most likely the apostle) is introduced as the one who is [living the conse
 - The vision itself (verses 12–16),
 - His reaction (verse 17a),
 - and the interpretation (verses 17b through 20).
-
-
 
 ## The vision
 
@@ -29,15 +25,12 @@ There are certain elements reflected in the vision that we will look at briefly:
 - White hair: The white hair reflects the vision of Daniel 7.
 - Eyes like blazing fire, legs like furnished bronze, loud voice: These are all [characteristics of Daniel 10](https://www.bibleserver.com/NIV/Daniel10%3A7), where John is prepared for the final vision and the vision is given by a [figure who is an angelic warrior](https://www.bibleserver.com/NIV/Daniel10%3A20).
 
-
 Here the Son of Man is combined with the “Ancient of Days (God)” from Daniel 7.
-
 
 ## The response
 
 <a name="8d12"></a>
 John collapses similar to the [visions of Daniel](https://www.bibleserver.com/NIV/Daniel10%3A8-19).
-
 
 ## The interpretation
 
@@ -51,13 +44,9 @@ The church is described by two different images, which also have two main things
 - They are both sources of light: the stars as orientation in creation and the lampstand as the only source of light in the temple.
 - They both need Jesus: the stars cannot shine if they are not in the hand of Jesus, the lamp only stands if the oil is there (Holy Spirit).
 
-
 The point of the church is to be light for the world, for the world to be saved. That is the point of the book, and that is what the church is tested on: Is the church a witness that convinces the nations?
-
 
 ### Dig Deeper
 
 [Beale, Revelation, pages 205–222](../../../../about/ressources/index.html#aune_rev)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-vision.md)

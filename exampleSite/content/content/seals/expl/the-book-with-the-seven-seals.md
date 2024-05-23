@@ -3,9 +3,7 @@ title: "The book with the seven seals"
 weight: 2
 ---
 
-
 Have you ever heard of something that is hard to understand being called a book with seven seals? And that comes from the Bible. Yes, it comes from the Bible, but it has a very different meaning.
-
 
 ## The book with the seven seals
 
@@ -22,7 +20,6 @@ Another aspect that is surprising is the worship of the Lamb.
 
 In the previous chapter we saw that everything revolved around the throne. Now everything is centered around Jesus, He is the center of everything, and He is worshiped. And God let this happen. This shows that Jesus is really God, because only God is allowed to be worshiped.
 
-
 ## The seven seals
 
 <a name="4f8c"></a>
@@ -34,7 +31,6 @@ When Jesus opened the seals, He made sure [that the devil was exposed](../../../
 
 After the interruption of the [144,000](../../../../content/army/expl/the-144000), the seventh seal is opened. This shows a half hour of silence. Silence has its own meaning in the Bible, but in Jewish literature there is a strong connection between the time of silence in heaven and the time when God hears the prayers of the saints. This continues the idea of the[ fifth seal, where the prayers of the saints come into focus](https://www.bibleserver.com/NIV/Revelation6%3A9-11). Even though the prayer of the saints is only mentioned [twice](https://www.bibleserver.com/NIV/Revelation8%3A2-5), it connects the seals and the trumpets and plays a central role there.
 
-
 ## Further reading
 
 <a name="324d"></a>
@@ -44,9 +40,3 @@ After the interruption of the [144,000](../../../../content/army/expl/the-144000
 
 [Beale, Revelation, pages 337–369](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-book-with-the-seven-seals.md)

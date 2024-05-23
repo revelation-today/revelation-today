@@ -3,9 +3,7 @@ title: "Üç gizem"
 weight: 20
 ---
 
-
 Vahiy kitabı üç gizemden bahseder: Kilise’nin gizemi, Tanrı’nın gizemi ve canavarın gizemi. Bu gizemler nelerdir ve gizem nedir? Bunu birazdan göreceksiniz ve bunun kitabın yapısına nasıl yeni bir bakış açısı kazandırdığını da göreceksiniz.
-
 
 ## Gizem
 
@@ -20,8 +18,6 @@ Bu gizem kitapta uzun uzun anlatılır. Bu kitap Tanrı’nın dünyayı nasıl 
 - başarının anahtarları ibadet, tanıklık, tahammül ve kötü hükümdar gemisini batıracak olan duadır
 - [fethetme ve muzaffer olma konusunda farklı bir bakış](../../../../topics/hero/short/a-real-hero) açısına sahip gibi görünüyor
 
-
-
 ## Kilisenin gizemi
 
 <a name="c36c"></a>
@@ -33,7 +29,6 @@ Kilise, itaatkâr olan ([tapınma ölüme kadar sadakatin bir ifadesidir](../../
 
 Şimdi kilise [dua ederek dışarı çıkabilir ve dünyayı sarsabilir](../../../../content/trumpets/expl/the-trumpets-in-revelation). Ama dua tek başına yeterli değildir! Daha fazlasına ihtiyaç vardır: Tanrı’nın vahyine. Bu, Tanrı’yla olan ilişkinin özü olarak tapınma tarafından açığa çıkarılır.
 
-
 ## Tanrı’nın gizemi
 
 <a name="0775"></a>
@@ -41,7 +36,6 @@ Kilise, itaatkâr olan ([tapınma ölüme kadar sadakatin bir ifadesidir](../../
 
 - [O tüm dünyanın hükümdarıdır](https://www.bibleserver.com/TR/Vahiy10%3A2)
 - Büyük iş Tanrı’nındır (5. bölümdeki büyük tomar), kilise hepsini taşımaz (küçük tomar)
-
 
 Her şey tapınakla başlar: Tanrı’nın bulunduğu yerin tapınma yeri olması amaçlanmıştır.
 
@@ -53,7 +47,6 @@ Bu, [İsa’nın yaşamında nasıl muzaffer](../../../../content/jesus/expl/a-d
 
 [Şimdi Tanrı harekete geçer ve insanların yüreği için savaşır ve şeytanların imparatorluğunu yıkar](../../../../content/bowls/expl/the-bowls-of-wrath) ki bu da bizi son konuya getirir.
 
-
 ## Fahişenin gizemi
 
 <a name="3f69"></a>
@@ -63,13 +56,10 @@ Bu, [İsa’nın yaşamında nasıl muzaffer](../../../../content/jesus/expl/a-d
 - [fahişe onu korumak için büyük bir ağ kurdu ve sonunda onu yok etti](https://www.bibleserver.com/TR/Vahiy17)
 - Fahişeyle ilgili büyük bölüm, bunun tam tersi olan Yeni Yeruşalim’in (gelin, kilise) uzun öyküsüyle karşılanır. Kilise fahişeye bulaşmamaya dikkat etmelidir, yoksa onunla birlikte batacaktır.
 
-
-
 ## Küçük bir genel bakış
 
 <a name="fb24"></a>
 Bu, buna biraz yapı kazandırmanın ilk denemesi
-
 
 | Konu | Cemaat: İsa'ya dönüş | Tanrı: kilise için rol model | Fahişe: kilisenin olmaması gereken şey |
 |------|----------------------|------------------------------|----------------------------------------|
@@ -83,9 +73,3 @@ Bu, buna biraz yapı kazandırmanın ilk denemesi
 | Doğru seçimi yapın! | [Yanlış teminat kaldırılacak](https://www.bibleserver.com/TR/Vahiy8%2C6-13) (Vahiy 8/6-13) | [Canavara sadakat, tanıkların susturulması, kalp katılığının sorgulanması](https://www.bibleserver.com/TR/Vahiy16%2C1-9) (Vahiy 16/1-9) | [Yeni Kudüs tanıtıldı](https://www.bibleserver.com/TR/Vahiy21%2C9-20) (Vahiy 21/9-22/5) |
 | Yanlış seçimle yaşamak | [İblisler tarafından boyanmış, güvenilir](https://www.bibleserver.com/TR/Vahiy9) (Vahiy 9) | [Şeytani güçler aldatır ve insanlar da buna dahil olup onlarla birlikte batar](https://www.bibleserver.com/TR/Vahiy16%2C10-21) (Vahiy 16/10-21) | [Yeni Kudüs'ün dışında yaşamak şeytanlarla yaşamaktır](https://www.bibleserver.com/TR/Vahiy22%2C6-21) (Vahiy 22/6-21) |
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-three-mysteries.tr.md)

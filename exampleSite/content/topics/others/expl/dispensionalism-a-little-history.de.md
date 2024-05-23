@@ -3,9 +3,7 @@ title: "Dispensionalismus"
 weight: 1
 ---
 
-
 Noch nie von diesem Wort gehört? Nun, vielleicht vom dritten Tempel (Wiederaufbau des Tempels in Jerusalem) oder von der Entrückung oder von den dreieinhalb Jahren der Drangsal oder Trübsal. Wenn ja, dann hast du auch schon von dem [Dispensionalismus](https://de.wikipedia.org/wiki/Dispensationalismus) gehört. Aber eins nach dem anderen.
-
 
 ## Ein kurzer Steifzug durch die Geschichte
 
@@ -19,7 +17,6 @@ Danach ist nicht viel passiert bis Joachim of Fiore (ca. 1135–2012). Er untert
 - Zeit des Vaters von der Schöpfung bis zu Jesu erstem Kommen
 - Zeit von Jesus von König Josia im siebenten Jahrhundert vor Christus bis Jesu erstem Kommen
 - Zeit des Heiligen Geistes von der monastischen Reform durch St. Benedikt bis zu einer gewissen Zeit in der Zukunft.
-
 
 In den sieben Köpfen des Tieres aus der Offenbarung sah er sieben Könige, die Feinde des Christentums waren: Von Herodes und Nero im ersten Jahrhundert bis zu Saladin, dem muslimischen Anführer, der 1187 als sechster König die Kreuzfahrer im Heiligen Land besiegte. Der nächste sollte die große Drangsal bringen, die das Zeitalter des Heiligen Geistes einläutete. Während dieser Krise würden zwei neue monastische Orden gegründet, um Zeugnis im Geiste Moses und Elias abzulegen. Diese beiden Orden wurden als franziskanischer und dominikanischer Orden interpretiert. Franziskus wurde als der Engel identifiziert, der das sechste Siegel öffnet und die letzte Ernte einbringt.
 
@@ -41,7 +38,6 @@ Seine Ansicht verbreitete sich schnell durch die Scofield-Bibel, Hal Lindseys �
 
 Da sich der Dispensionalismus stark verbreitet hat, gibt es eine große Vielzahl dessen, was Menschen darunter [verstehen](https://www.thegospelcoalition.org/essay/dispensational-theology/).
 
-
 ## Zum Weiterlesen
 
 <a name="1467"></a>
@@ -51,5 +47,3 @@ Da sich der Dispensionalismus stark verbreitet hat, gibt es eine große Vielzahl
 
 [Köster, Revelation and the end of all things, Seiten 11–67](../../../../about/ressources/index.html#koester_rev)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-a-little-history.de.md)

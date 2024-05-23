@@ -2,9 +2,7 @@
 title: "Vahiy Kitabı nasıl incelenir?"
 ---
 
-
 Vahiy Kitabı’nı incelemek istiyorsanız, bir yerden başlamak zordur. Çok fazla malzeme ve çok fazla farklı görüş vardır. Nasıl başlamalı? Bu rehber size biraz yön verecektir. Diğer görüşlere de göz atabilmenize yardımcı olmak için her şeyi olabildiğince şeffaf hale getirmeye çalışacağım.
-
 
 ## Yorumlama ilkeleri
 
@@ -20,8 +18,6 @@ Tartışmalarımda mümkün olduğunca şeffaf olmaya çalışıyorum ve güç a
 - İnsanların günlük yaşamını daha iyi anlamak için tarihsel arka plan
 - Yahudi veya İncil dışı Hristiyan literatürüne atıflar
 
-
-
 ## Malzemeler
 
 <a name="c135"></a>
@@ -32,7 +28,6 @@ Daha karmaşık Kutsal Kitap referansları, satın almanız gereken literatürde
 Her kitap için sadece bir örnek kullandım, ancak tercih ettiğiniz yerden satın almaktan çekinmeyin.
 
 [Referans makalelerinde](../../../../gen/index/expl/overview-on-the-book-of-revelation) ilgili kaynaklara bağlantılar bulacaksınız. Benim işim sadece bunları okumak, doğru materyale karar vermek ve okunması kolay bir özet yapmaktı.
-
 
 ## Anahtar kitaplar
 
@@ -47,7 +42,6 @@ Her kitap için sadece bir örnek kullandım, ancak tercih ettiğiniz yerden sat
 ### Richard Bauckham: The theology of the book of Revelation
 
 Bu çok yoğun ve faydalı bir referans. Okuması oldukça kolay ve içgörülerle dolu ve [pdf olarak ücretsiz temin edilebilir](https://www.pdfdrive.com/the-theology-of-the-book-of-revelation-new-testament-theology-e156641822.html).
-
 
 ## Ek olarak okumak güzel
 
@@ -149,11 +143,3 @@ Ayrıca bazı çevrimiçi sunumlar da var:
 
 [A good theological summary on some revelation related topics](https://youtube.com/playlist?list=PLfLXMeX_cyNp_YNAlwTdpQVJrrTmuBsU1)
 
-
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/background/ressources/how-to-study-the-book-of-revelation.tr.md)

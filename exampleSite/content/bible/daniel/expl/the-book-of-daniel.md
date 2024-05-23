@@ -3,9 +3,7 @@ title: "The book of Daniel"
 weight: 10
 ---
 
-
 The book of Daniel in the Bible seems to have two sides: One is the first 6 chapters that show a great example of faith, while the other 6 chapters are full of strange visions that seem to be the cause of many strange theologies. But this is not true.
-
 
 ## A quick walk through
 
@@ -26,7 +24,6 @@ Let us have a quick walk through:
 
 [Dan.7](https://www.bibleserver.com/NIV/Daniel7): This is the first of the “weird” chapters. Don’t worry, we’ll get to them. As in chapter 2, we have four (beasts) representing four successive kingdoms.
 
-
 ## The chiasm
 
 <a name="3d8a"></a>
@@ -39,7 +36,6 @@ Chapters 3 and 6 both describe the rescue from persecution, but in chapter 3 thi
 Chapters 4 and 5 describe pride and humiliation. While in chapter 4 the king is deeply humiliated even to the stage of living like a beast because of his [pride](https://www.bibleserver.com/NIV/Daniel4%3A30), but he is restored after giving glory to God, but in chapter 5 the king gets the warning and his reaction was to promote Daniel, but he and his kingdom die the same night.
 
 This gives the perspective that these 6 chapters are the center of the book (while chapter 1 is the introduction and chapters 8–12 are the appendix). Especially the setting of chapters 2 and 7 seems to be important).
-
 
 ## The walk through continued
 
@@ -56,7 +52,6 @@ This gives the perspective that these 6 chapters are the center of the book (whi
 
 [Dan.12](https://www.bibleserver.com/NIV/Daniel12): These are some final encouragements for the saint to persevere in all these times.
 
-
 ## Whats the point?
 
 <a name="b05e"></a>
@@ -68,15 +63,9 @@ There are several dimensions of the story that overlap:
     - the secular deliverance from the Antichrist (Antiochus Epiphanes IV through the Maccabean War), leading to the later subjugation by the Roman Empire.
 - The divine deliverance [of the whole world and its empires](https://www.bibleserver.com/NIV/Daniel2%3A45) in [God’s mysterious way](https://www.bibleserver.com/NIV/Daniel9%3A24-27) that lasts forever.
 
-
 All this together shows the importance of each person’s faith in the eternal destiny of the world. God acts in the subtle acts of individuals and brings forth an unbeatable kingdom.
 
 ## Dig deeper
 
 [Wuppertaler Studienbibel, Der Prophet Daniel](../../../../about/ressources/index.html#daniel)
 
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-book-of-daniel.md)

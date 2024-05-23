@@ -3,9 +3,7 @@ title: "Part 2: Who is the Harlot Babylon?"
 weight: 3
 ---
 
-
 Understanding the Harlot Babylon is a bit complex as we saw in part 1, but the solution comes in part 2. Stay tuned!
-
 
 ## The religious aspect
 
@@ -18,14 +16,11 @@ It seems that the model for the harlot in [Revelation](https://www.bibleserver.c
 - [Her robe is scarlet, she decorates herself with gold](https://www.bibleserver.com/NIV/Jeremiah4%3A30).
 - [But her lovers despise her and want to kill her](https://www.bibleserver.com/NIV/Jeremiah4%3A30).
 
-
 But the harlot in Revelation is described in chapters [17](https://www.bibleserver.com/NIV/Revelation17%3A4) and [18](https://www.bibleserver.com/NIV/Revelation18%3A16) with similar materials as the high priest in the Old Testament:[the offering for the tabernacle](https://www.bibleserver.com/NIV/Exodus25%3A3-7)[the ephod (undergarments)](https://www.bibleserver.com/NIV/Exodus25%3A3-7)[the breastplate](https://www.bibleserver.com/NIV/Exodus28%3A15-20)[but also in the temple](https://www.bibleserver.com/NIV/2%20Chronicles2%3A13-14).
 
 The plate of the high priest [with the inscription “Holy to the Lord”](https://www.bibleserver.com/NIV/Exodus28%3A35-38) is also a counterpart to the name of the harlot on the forehead “[Babylon the great the mother of harlots and of the abominations of the earth](https://www.bibleserver.com/NIV/Revelation17%3A5)”.Furthermore was the [judgment for the daughter of a priest who became a prostitute was burned with fire](https://www.bibleserver.com/NIV/Leviticus21%3A9) which was [also the judgment on Babel](https://www.bibleserver.com/NIV/Revelation18%3A8).
 
 In Ezekiel God confronts Jerusalem for [acting as a harlot described in the same priestly garments](https://www.bibleserver.com/NIV/Ezekiel16%3A13-26). In these passages, the harlot is portrayed as the high priest/lover of God who cheated.
-
-
 
 In the Old Testament the following cities are described as harlots:Tyre which [made a covenant with God](https://www.bibleserver.com/NIV/1%20Kings5%3A12) to build the temple, but was [called to judgment for selling Jews into captivity](https://www.bibleserver.com/NIV/Amos1%3A9) and was [called a harlot](https://www.bibleserver.com/NIV/Isaiah23%3A15-18).Niniveh [humbled ifself before he Lord and He had mercy on them](https://www.bibleserver.com/NIV/Jonah3%3A5-10), but [later it was judged for being a harlot](https://www.bibleserver.com/NIV/Nahum3%3A4-7).
 
@@ -59,5 +54,3 @@ This could be compelling and attractive for the church when it is in persecution
 
 [Beale, Revelation, pages 847–890](../../../../about/ressources/index.html#beale_rev)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-2.md)

@@ -3,15 +3,12 @@ title: "Cennet ve cehennem ne hakkında?"
 weight: 1
 ---
 
-
 Vahiy kitabı cennetle ilgili büyük bir sonla biter. Ancak daha yakından baktığımızda, okurken kolayca gözden kaçırabileceğiniz çok şey vardır. Gelin birlikte bakalım.
-
 
 ## Bizim metnimiz
 
 <a name="04d1"></a>
 [Bölüm 21](https://www.bibleserver.com/TR/Vahiy21) ve [22'de](https://www.bibleserver.com/TR/Vahiy22) hızla ilerliyoruz.
-
 
 ## Cennetin kilit noktası
 
@@ -26,9 +23,7 @@ Ancak dikkatleri diğer bazı kilit noktalara çekmek istiyorum:
 - Uluslar: Ulusların içeri gireceği söylenir.
 - Yahudiler ve kilise: Kilise ve İsrail’i tanımlayan ve bir uzlaşmayı (daha önce gerçekleşmesi gereken ;-)) tarif eden unsurlar vardır.
 
-
 Yeni Yeruşalim’in amacı, herkesin düşüşten önce olduğu gibi Tanrı’yla yakın bir ilişkiye sahip olmasıdır.
-
 
 ## Peki ya cehennem?
 
@@ -36,7 +31,6 @@ Yeni Yeruşalim’in amacı, herkesin düşüşten önce olduğu gibi Tanrı’y
 Cehennem basitçe bunun yokluğudur: Tanrı’yla ilişkinin olmaması ve bununla birlikte şu anda kanıksadığımız umut, sevgi, şefkat, neşe, huzur gibi tüm nimetlerin de olmaması. Bunların hepsi Tanrı’ya kur yapma dönemi (gerçek olanı önceden tattığımız dönem) sona erdiği için yok olmuştur.
 
 Tüm bunları duyduktan sonra iyi karar verin. Ne yapacaksınız? Şimdi nasıl yaşayacaksınız?
-
 
 ### Yansıma
 
@@ -46,11 +40,7 @@ Tüm bunları duyduktan sonra iyi karar verin. Ne yapacaksınız? Şimdi nasıl 
 - Tüm sıkıntılarınız ortadan kalkacak olsa bile katlanamadığınız ya da umursamadığınız bir kişiyle sonsuza kadar yaşar mıydınız?
 - Bu cennet vizyonu şu anda dünyadaki yaşamınızı nasıl şekillendiriyor?
 
-
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -58,10 +48,3 @@ Tüm bunları duyduktan sonra iyi karar verin. Ne yapacaksınız? Şimdi nasıl 
 - [Yeni Kudüs](../../../../content/paradise/expl/the-new-jerusalem)
 - [Cennet ve Cehennem](../../../../content/paradise/expl/heaven-and-hell)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/appl/what-is-heaven-and-hell-about.tr.md)

@@ -3,9 +3,7 @@ title: "Die Grundlage legen"
 weight: 2
 ---
 
-
 Die Offenbarung beginnt mit einigen Aussagen, die man leicht überliest, die aber für das Verständnis des Buches entscheidend sind. Wenn wir sie betrachten, können wir das Buch mit neuen Augen sehen.
-
 
 ## Die Offenbarung Jesu
 
@@ -21,7 +19,6 @@ Aber wir dürfen nicht vergessen, dass es in diesem Buch um Jesus geht, er steht
 - Gott hat Jesus Christus die Offenbarung gegeben, er ist also derjenige, der sie weitergibt, oder
 - Jesus ist der Inhalt der Offenbarung.
 
-
 Im Griechischen ist beides möglich und wohl auch gemeint: Die Offenbarung kommt von Jesus, aber sie soll ihn auch offenbaren.Die Knechte sind die Gläubigen, an die Johannes schreibt und an die das Buch gerichtet ist.
 
 Auch die Formulierung “was bald geschehen muss” ist bewusst gewählt und bezieht sich auf eine [Prophezeichung aus Daniel](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel), die das Ende der Weltreiche und das Kommen des Reiches Gottes beschreibt. Im Gegensatz zur Zeit Daniels liegt dies nicht mehr in der Zukunft, sondern ist schon da.
@@ -34,9 +31,7 @@ Dies wird im nächsten Vers noch deutlicher: “Glückselig ist, der die Worte d
 - Die Zeit ist nah. Es gibt nicht viel Zeit, wir müssen jetzt handeln. Daran hat sich in dem letzten 2000 Jahren nichts geändert.
 - Es ist eine Prophetie: Eine eindringliche Erinnerung an die Gemeinde zu handeln.
 
-
 Die Zeit ist nahe, bedeutet nicht, dass es jederzeit geschehen kann, sondern dass es unmittelbar bevorsteht. Diese [Wortwahl](https://biblehub.com/interlinear/mark/1-15.htm) wird auch bei [Markus](https://www.bibleserver.com/SLT/Markus1%2C15) verwendet, wo es heißt, dass das Reich Gottes bereits gekommen ist.
-
 
 ## Die Basis
 
@@ -49,19 +44,15 @@ Jetzt kommt der Abschnitt, der in jedem Brief des Neuen Testaments vorkommt, in 
 - Jesus ist der Ewige, der „ist und war und kommen wird“ (Verse 4 und 8). Er regiertüber alle Zeiten und ist allmächtig. Dies wird auch durch Alpha und Omega (erster und letzter Buchstabe des griechischen Alphabets) ausgedrückt. Er verändert sich nicht.
 - Die “sieben Geister vor dem Thron” klingen etwas merkwürdig. [Im Propheten Sacharja werden sie mit dem Heiligen Geist identifiziert](https://www.bibleserver.com/SLT/Sacharja4%2C6). Es ist naheliegend, dass [sie auf den sieben Leuchtern brennen, die die Gemeinden bezeichnen](https://www.bibleserver.com/SLT/Offenbarung1%2C20). Der Ausdruck “vor dem Thron” stammt aus [Kapitel 4](https://www.bibleserver.com/SLT/Offenbarung4%2C5): Der Heilige Geist kommt von Gottes Thron, um Gottes Plan auszuführen.
 
-
 “[und von Jesus Christus, dem treuen Zeugen, dem Erstgeborenen aus den Toten und dem Fürsten über die Könige der Erde. Ihm, der uns geliebt hat und uns von unseren Sünden gewaschen hat durch sein Blut](https://www.bibleserver.com/SLT/Offenbarung1%2C5)”
 
 - Wir haben wieder das Thema des treuen Zeugen. Es taucht immer wieder auf und ist ein Schlüsselthema. Die Verbindung von “treuer Zeuge”, “Erstgeborener” und “König der Könige” stammt aus [Psalm 89](https://www.bibleserver.com/SLT/Psalm89%2C19-32), der vom Sohn Davids handelt.
 - Der Erstgeborene von den Toten ist eine Ermutigung zur Treue bis in den Tod, denn das ist nicht das Ende.
 - “Er liebt uns und hat uns von der Sünde erlöst” ist eine Erinnerung daran, dass Jesus für uns ist und uns ausgerüstet hat.
 
-
 “[und uns zu Königen und Priestern gemacht hat für seinen Gott und Vater — Ihm sei die Herrlichkeit und die Macht von Ewigkeit zu Ewigkeit! Amen.](https://www.bibleserver.com/SLT/Offenbarung1%2C6)”
 
 - Er HAT uns zu Königen und Priestern gemacht. Wir sind schon Könige, wir müssen es nur noch ausüben, aber nicht so, wie die Welt.
-
-
 
 ## We kommt mit den Wolken
 
@@ -89,15 +80,12 @@ Wenn wir diese beiden Stellen zusammenbringen, sehen wir
 - Das Ziel ist, dass alle Völker ihn anbeten, wie in der Verheißung an Abraham angekündigt.
 - Aber der Text lässt offen, wie die Völker reagieren (“sich an die Brust schlagen um seinetwillen”) — die einen aus Buße für ihren Retter, die anderen aus Furcht vor dem Gericht.
 
-
 Es geht hier also nicht um das Kommen des Zornes Jesu, weil einige ihn getötet haben (die Völker waren hier kaum beteiligt), sondern um einen Aufruf zur Umkehr und zum Heil der Völker.
-
 
 ## Schlussfolgerung
 
 <a name="b6f7"></a>
 Die Zeit ist nahe und die Gemeinde hat die Aufgabe, aktiv zu werden. So wie Jesus alles getan hat, ist es nun an der Gemeinde, die Nationen zu erreichen.
-
 
 ## Zur Vertiefung
 
@@ -105,6 +93,3 @@ Die Zeit ist nahe und die Gemeinde hat die Aufgabe, aktiv zu werden. So wie Jesu
 
 [Beale, Relevation, Seiten 181–222](../../../../about/ressources/index.html#beale_rev)
 
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/setting-the-foundation.de.md)

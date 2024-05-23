@@ -3,9 +3,7 @@ title: "Der Überrest von Israel"
 weight: 4
 ---
 
-
 Was ist der Überrest Israels? Und wie wird Israel nach dem Exil wiederhergestellt?
-
 
 ## Der Überrest
 
@@ -21,12 +19,9 @@ Es gibt viele Aussagen über den Überrest bei den Propheten (in Bezug auf den T
 - [Nachdem Gott den Überrest aus Israel holt, wird er bei einem zweiten Mal auch die Nationen erreichen](https://www.bibleserver.com/SLT/Jesaja11%2C11).
 - [Gott wird mit einem (kleinen) Überrest starten und ihn dann vergrößern](https://www.bibleserver.com/SLT/Jeremia23%2C3).
 
-
 Aber es gibt noch eine Sache, die wir näher untersuchen müssen:
 
 - Die Nationen werden Teil von Israel, und damit wird Israel seine Berufung erfüllen, alle Nationen zu segnen und wieder in Beziehung mit Gott bringen.
-
-
 
 ## Die Nationen werden Teil von Israel
 
@@ -39,7 +34,6 @@ Der Knecht wird Israel genannt, aber er kann nicht Israel sein, denn
 
 - Er sammelt Israel.
 - Er stellt den treuen Überrest wieder her (es ist unwahrscheinlich, dass es sich hier um Jesaja handeln kann, da er selbst Teil des sündigen Israels ist).
-
 
 Der Knecht muss eine Person sein, die Israel wiederherstellt und jeder, der sich mit ihm identifiziert, identifiziert sich mit Israel.
 
@@ -70,7 +64,6 @@ Wir kommen nun zu einem komplexeren Abschnitt, der eine genauere Betrachtung ver
 - [Beschreibung des endzeitlichen Israel](https://www.bibleserver.com/SLT/Jesaja66%2C7-14),
 - [Gericht über das endzeitliche Israel](https://www.bibleserver.com/SLT/Jesaja66%2C15-18),
 - [Einbindung der Nationen](https://www.bibleserver.com/SLT/Jesaja66%2C18-21).
-
 
 Diese Teile wollen wir nun Schritt für Schritt durchgehen
 
@@ -110,14 +103,9 @@ Sie sind in Israel integriert mit den gleichen Rechten wie die in Israel Geboren
 - [Rahab](https://www.bibleserver.com/SLT/Josua6%2C25) ist [eingeschlossen](https://www.bibleserver.com/SLT/Matth%C3%A4us1%2C5)
 - [Rut](https://www.bibleserver.com/SLT/Rut1%2C16), die [Moabiterin](https://www.bibleserver.com/SLT/Rut1%2C1-4), ist eingeschlossen und wird Vorfahrin von [David](https://www.bibleserver.com/SLT/Rut4%2C10-16) und [Jesus](https://www.bibleserver.com/SLT/Matth%C3%A4us1%2C5).
 
-
 Diese Szenen beschreiben Nichtjuden, die eingeheiratet haben. Die Tatsache, dass sie eigenes Land bekommen haben, macht sie zu Israeliten, denn [nur Israeliten können Land bekommen](https://www.bibleserver.com/SLT/3.Mose25%2C23).
-
 
 ## Zur Vertiefung
 
 [Beale, A New Testament biblical theology, Seiten 658–669](../../../../about/ressources/index.html#beale_theo)
 
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-remnant-of-israel.de.md)

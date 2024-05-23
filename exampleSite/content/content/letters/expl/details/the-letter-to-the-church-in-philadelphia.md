@@ -3,9 +3,7 @@ title: "The letter to the church in Philadelphia"
 weight: 6
 ---
 
-
 [Philadelphia](https://www.bibleserver.com/NIV/Revelation3%3A7-13): The city with the key of David. What doors does this key open? Evangelism, opportunities, relationships, …? Read on and you will know and understand why this church receives no reproof.
-
 
 ## The historical background
 
@@ -17,7 +15,6 @@ The city was located at the end of a river basin, at the crossroads of several t
 On the other hand, the city was constantly plagued by earthquakes, even to the point that the city was allowed to skip five years of taxes because they were busy rebuilding the city.
 
 In 60 A.D. there was a big earthquake and in 92 A.D. the emperor issued a decree to reduce the cultivation of wine (maybe to promote the cultivation of grain for the army), so the people of the town felt betrayed by the emperor, to whom they had always been loyal.
-
 
 ## Jesus’ view
 
@@ -32,14 +29,12 @@ The other challenges come from the Jews who oppress the church like in [Smyrna](
 
 They are truly overcomers. What is their secret? [They patiently endure.](https://www.bibleserver.com/NIV/Revelation3%3A10)
 
-
 ## The promise
 
 <a name="9039"></a>
 God wants to make them like a pillar in the temple, meaning that they will never have to leave God’s presence again and will dwell in His presence forever. Writing the name of my God and the city of my God is reminiscent of [Ezekiel, where the name of the city is called “the LORD is here”](https://www.bibleserver.com/NIV/Ezekiel48%3A35).
 
 Their promise is probably also the way they endured for so long: Their greatest desire was to be close to Jesus.
-
 
 ## The hour of trial
 
@@ -48,16 +43,9 @@ Here in the letter is an interesting statement: “[Since you have kept my comma
 
 What is the hour of trail that will come upon the whole earth? And how will Jesus keep us from it? The word “[keep from](https://biblehub.com/interlinear/revelation/3-10.htm)” appears otherwise only in [the Gospel of John](https://biblehub.com/interlinear/john/17-15.htm), where Jesus prays for his disciples: “[My prayer is not that you take them out of the world but that you protect them from the evil one](https://www.bibleserver.com/NIV/John17%3A15).”. Jesus is not talking about taking them out of the world, but protecting them from the world, as in the [Proverbs](https://www.bibleserver.com/NIV/Proverbs7%3A5) or the [Letter of James](https://www.bibleserver.com/NIV/James1%3A27). So, this statement basically describes the same situation as the [Great Tribulation](../../../../content/army/expl/the-end-time-and-the-great-tribulation).
 
-
 ## Dig Deeper
 
 [Beale, Revelation, pages 283–296](../../../../../about/ressources/index.html#beale_rev)
 
 [Gordon Fee, Revelation, pages 50–51](../../../../../about/ressources/index.html#fee_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-philadelphia.md)

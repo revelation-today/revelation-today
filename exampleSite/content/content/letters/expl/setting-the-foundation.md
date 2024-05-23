@@ -3,9 +3,7 @@ title: "Setting the foundation"
 weight: 2
 ---
 
-
 The book of Revelation begins with some statements that are easy to overlook, but are key to understanding the book. Let’s look at them and see them with new eyes.
-
 
 ## The Revelation of Jesus
 
@@ -21,7 +19,6 @@ But in all of this we should not forget that it is about Jesus, he is in the cen
 - God gave the revelation to Jesus Christ, He is the one who gives the revelation, or
 - Jesus is the content of the revelation, the revelation is a revelation about Jesus.
 
-
 The Greek supports both, and that may be the intention. The revelation comes from Jesus, but the intention is to reveal more about Jesus. The servants are the believers to whom John is writing, and they are the ones to whom this book is addressed.
 
 The phrase “what must soon take place” is also deliberately chosen and refers to the [vision of Daniel 2](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel) which describes the end of the world’s kingdoms and the reign of God. The difference with Daniel is that this is no longer in the future, but has already happened.
@@ -34,9 +31,7 @@ The next verse makes this even clearer: “Blessed is the one who reads aloud th
 - The time is near. There is not much time, we should act now. Nothing has changed about this in the last 2000 years.
 - It is a prophecy: The urgent reminder to the Church to act.
 
-
 The time is near does not mean that it can happen at any time, but is an exaggerated expression of imminence, as in [Mark](https://www.bibleserver.com/NIV/Mark1%3A15) where the [same phrase](https://biblehub.com/interlinear/mark/1-15.htm) is used but describing that the kingdom of God has come.
-
 
 ## The base
 
@@ -49,19 +44,15 @@ Now comes a passage that is very much like the beginning of a New Testament lett
 - Jesus is the eternal “who is, who was, and who is to come” (verses 4 and 8). He is the Ruler of time, the Almighty. This is also expressed in Alpha and Omega (the first and last letters of the Greek alphabet) — He is the beginning and the end. He does not change.
 - The “seven spirits in front of the throne” sounds a little strange. [In the prophet Zechariah, the lamps are identified with the Holy Spirit](https://www.bibleserver.com/NIV/Zechariah4%3A6). It is likely that these lamps are meant to burn on the [seven lampstands that identify the churches](https://www.bibleserver.com/NIV/Revelation1%3A20). The phrase “in front of the throne” comes from [chapter 4](https://www.bibleserver.com/NIV/Revelation4%3A5). The Holy Spirit comes from the throne of God to fulfill God’s plan.
 
-
 “[and from Jesus Christ, who is the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth. To him who loves us and has freed us from our sins by his blood,](https://www.bibleserver.com/NIV/Revelation1%3A5)”
 
 - We had the theme of Jesus being the faithful witness. It comes up again and again because this is the key. The connection of “faithful witness”, “firstborn” and “ruler of kings” comes from [Psalm 89](https://www.bibleserver.com/NIV/Psalm89%3A19-32) as the son of David.
 - The firstborn from the dead is an encouragement to be faithful until death, for that is not the end.
 - “He loves us and has freed us from our sins” is a reminder that Jesus is for us.
 
-
 “[and has made us to be a kingdom and priests to serve his God and Father — to him be glory and power for ever and ever! Amen.](https://www.bibleserver.com/NIV/Revelation1%3A6)”
 
 - He HAS made us to kings and priests. We are already kings but need to exercise it — not in the way the world rules.
-
-
 
 ## Coming with the clouds
 
@@ -89,24 +80,15 @@ When we put these two passages, together we see that
 - The gain is that all nations will worship Him, as already promised to Abram.
 - But the text leaves open how the nations react (“beating their breasts for his sake”) — some out of repentance for their savior, others out of fear of judgment.
 
-
 So the passage is not talking about the coming wrath of Jesus because certain people killed him (the nation was not really involved), but a call to repentance and salvation for the nations.
-
 
 ## Conclusion
 
 <a name="8d7d"></a>
 The time is near and the Church should act. As Jesus did everything, the Church can step forward and reach the nations.
 
-
 ## Digging deeper
 
 <a name="c849"></a>
 [Beale, Relevation, pages 181–222](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/setting-the-foundation.md)

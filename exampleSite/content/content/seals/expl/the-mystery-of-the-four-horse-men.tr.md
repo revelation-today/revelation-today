@@ -3,17 +3,13 @@ title: "Dört Atlının Gizemi"
 weight: 3
 ---
 
-
 İncil’deki Vahiy kitabında, tüm dünyaya savaş, açlık ve ölüm getiren dört atlı adam ya da kıyamet binicisi görürüz. Ancak ilki çok baş ağrıtıyor çünkü şemaya uymuyor ve tartışmalı bir konu.
-
 
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="7ecb"></a>
 - [Kitabın tarihsel arka planı](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 - [Ne tür bir kitap bu?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-
-
 
 ## Metin
 
@@ -22,7 +18,6 @@ weight: 3
 
 “[Sonra Kuzu’nun yedi mühürden birini açtığını gördüm. O anda dört yaratıktan birinin, gök gürültüsüne benzer bir sesle, ‹‹Gel!›› dediğini işittim. Bakınca beyaz bir at gördüm. Binicisinin yayı vardı. Kendisine bir taç verildi ve galip gelen biri olarak zafer kazanmaya çıktı. Kuzu ikinci mührü açınca, ikinci yaratığın ‹‹Gel!›› dediğini işittim. O zaman kızıl renkte başka bir at çıktı ortaya. Binicisine dünyadan barışı kaldırma yetkisi verildi. Bunun sonucu olarak insanlar birbirlerini boğazlayacaklar. Atlıya ayrıca büyük bir kılıç verildi. Kuzu üçüncü mührü açınca, üçüncü yaratığın ‹‹Gel!›› dediğini işittim. Bakınca siyah bir at gördüm. Binicisinin elinde bir terazi vardı. Dört yaratığın ortasında sanki bir sesin şöyle dediğini işittim: ‹‹Bir ölçek buğday bir dinara, üç ölçek arpa bir dinara. Ama zeytinyağına, şaraba zarar verme!›› Kuzu dördüncü mührü açınca, ‹‹Gel!›› diyen dördüncü yaratığın sesini işittim. Bakınca soluk renkli bir at gördüm. Binicisinin adı Ölüm’dü. Ölüler diyarı onun ardınca geliyordu. Bunlara kılıçla, kıtlıkla, salgın hastalıkla, yeryüzünün yabanıl hayvanlarıyla ölüm saçmak için yeryüzünün dörtte biri üzerinde yetki verildi.](https://www.bibleserver.com/TR/Vahiy6%3A1-8)”
 
-
 ## Yorumlamalar
 
 <a name="64b0"></a>
@@ -30,8 +25,6 @@ weight: 3
 
 - ilk atlı iyidir ve örneğin [müjdenin tüm dünyada duyurulduğunu](https://www.bibleserver.com/TR/Markos13%3A10) yansıtır
 - İlk atlı da diğer atlı kadar kötüdür.
-
-
 
 ## İlk gözlemler
 
@@ -42,7 +35,6 @@ Metne baktığımızda üç güçlü paralellik görürüz
 - Yine birkaç bölüm sonra, [dünyanın rüzgârlarını yansıtan farklı renklerde dört araba](https://www.bibleserver.com/TR/Zekeriya6%3A1-8)
 - [Tanrı’nın dört belasının](https://www.bibleserver.com/TR/Hezekiel14%3A12-23) (kılıç, açlık, vahşi hayvanlar ve salgın hastalık) tanımı, buradaki dört at faaliyetiyle oldukça benzerlik göstermektedir
 
-
 Atlılara baktığımızda aralarında ortak noktalar olduğu kadar farklılıklar da görürüz
 
 - dördü de bir şeyler yapmaya çağrılır, kendi inisiyatifleriyle hareket etmezler
@@ -50,8 +42,6 @@ Atlılara baktığımızda aralarında ortak noktalar olduğu kadar farklılıkl
 - sadece ilk atlıdan görevini yerine getirmesi (fethetmek için uzaklaşması) istenirken, diğerleri için görevi yerine getirdiklerine dair bir açıklama yoktur
 - ilk atlının faaliyeti çok belirsizken (fethetmek), diğerleri için oldukça açıktır (getirmek, savaş, açlık, ölüm)
 - Üçüncü atlıda ilahi bir faaliyet ya da yetkilendirme anlamına gelen “ve verildi” (ama aleti elinde tutmaktadır) cümlesi yoktur. Bunun yerine dört yaratığın ortasındaki tahttan bir açıklama gelir
-
-
 
 ## Üçüncü atlının gizemi
 
@@ -64,9 +54,7 @@ Bunu anlamak için biraz arka plana ihtiyacımız var:
 - referans i̇çi̇n: bi̇r ölçek buğday bi̇r ki̇şi̇ye bi̇r gün yeti̇yor, 3 ölçek arpa bi̇r ai̇leye üç gün yeti̇yor (arpa hayvan gidasi olarak kullaniliyor) -&gt; bu nedenle fi̇yatlar 8–16 arasinda artti
 - şarap ve yağ Vahiy bağlamında lüks mallar olarak kullanılır (bu kitapta meshetme ve lordların akşam yemeği ile bir ilişkisi yoktur)
 
-
 Bu pasaj genel olarak bir kıtlığı değil, yoksullara yönelik haksız tehdidi anlatmaktadır. Lüks mallar zarardan korunurken (artan fiyat) temel gıda dayanılmaz bir miktara yükselmiştir. Bu nedenle dört yaratıktan gelen ses Tanrı’dan gelen bir emir değil, adalet için bir çığlıktır.
-
 
 ## İlk atlının gizemi
 
@@ -81,7 +69,6 @@ Bu atlının neden iyi olduğuna dair bazı iyi argümanlar var
 - o beyaz bir binici ve beyaz kitabın diğer bölümlerinde olumlu
 - Diğerleri olumsuz bir şey getirirken o olumsuz bir şey yapmıyor (fethediyor), bu nedenle [tüm kötü şeyler gerçekleşmeden önce müjdenin duyurulmasına](https://www.bibleserver.com/TR/Markos13%3A10) atıfta bulunabilir
 
-
 Öte yandan, bunun tam tersine işaret eden bazı referanslar da mevcuttur:
 
 - [Tanrı, Yecüc ve Mecüc’ün elinden yayı alacak](https://www.bibleserver.com/TR/Hezekiel39%3A3) ve bu da yayı ahir zaman düşmanının silahına işaret edecektir.
@@ -90,13 +77,10 @@ Bu atlının neden iyi olduğuna dair bazı iyi argümanlar var
 - Zekeriya’daki dört at ve arabaya yapılan atıf nasıl bir birim oluşturuyorsa, buradaki dört at da bir birim olmalı ve hepsi Tanrı’ya ait olmalı ya da olmamalıdır
 - Sadece dört atlı edebi bir birim oluşturmakla kalmaz, aynı zamanda ilk dört borazan ve ilk dört kâse de bir birim oluşturur. Bu nedenle ilk dört atlı bir birim olmalıdır
 
-
 Bu kafa karıştırıcı. Neden aynı referanslar hem iyi hem de kötü bir anlama işaret ediyor? Son iki referansa bir göz atalım:
 
 - Kutsal Kitap’ta yayın ilk kullanımı [Yakup’un öyküsünden ve onun babasını kutsama almak için aldatmasından gelir](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F27)
 - İsa’nın [Markos](https://www.bibleserver.com/TR/Markos13%3A5-9), [Matta](https://www.bibleserver.com/TR/Matta24%3A4-8) ve [Luka](https://www.bibleserver.com/TR/Luka21%3A8-11)’daki ahir zamanla ilgili üç konuşması Vahiy’dekine benzer bir sıralamaya sahiptir: İkinci sırada her zaman savaş, daha sonra her zaman açlık gelir ve Luka’da bunu salgın hastalık bile takip eder. Ve bunlardan biri “Dikkat edin, aldanmayın, çünkü birçokları benim adımla gelecek” gibi bir şeyle başlar.
-
-
 
 ## Karar
 
@@ -110,9 +94,7 @@ Yani ilk atlı kötü olan ama iyi ve İsa gibi davranandır. Bağlama baktığ�
 - üçüncü binici açlığı temsil eder çünkü yoksullar bundan zarar görecektir — 13. bölümdeki ikinci canavar gibi uyumsuzlara ekonomik baskı uygular ki bu da [17. bölümdeki](https://www.bibleserver.com/TR/Vahiy17) fahişe ile ilgilidir
 - son sürücü gösterilen üçlünün etkisini özetlemektedir
 
-
 Yani şeytanın cazip teklifi ne olursa olsun ve ne kadar İsa’ya benziyor olursa olsun. Sakın kabul etmeyin, sonu felaketle bitecektir — en azından Tanrı’yla olan ilişkiniz açısından.
-
 
 ## Daha fazla okuma
 
@@ -124,4 +106,3 @@ Yani şeytanın cazip teklifi ne olursa olsun ve ne kadar İsa’ya benziyor olu
 
 [Beale, Revelation, sayfalar 370–395](../../../../about/ressources/index.html#beale_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-mystery-of-the-four-horse-men.tr.md)

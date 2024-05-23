@@ -3,9 +3,7 @@ title: "İsrail’in kalıntıları"
 weight: 4
 ---
 
-
 İsrail’in kalıntısı nedir? Ve İsrail kalıntı olarak sürgünden nasıl kurtulacak?
-
 
 ## Kalıntı
 
@@ -21,12 +19,9 @@ Peygamberlerde kalanlarla ilgili (Rab’bin Günü’yle ilgili) birçok ifade v
 - [İsrail’den kalanları aldıktan sonra, Tanrı halkını uluslardan almak için ikinci erişimini gerçekleştirecektir](https://www.bibleserver.com/TR/Ye%C5%9Faya11%3A11)
 - [Tanrı (küçük) bir kalıntıyla başlayacak ve sayıyı artıracaktır](https://www.bibleserver.com/TR/Yeremya23%3A3)
 
-
 Ancak biraz daha detaylandırmak istediğim bir husus daha var:
 
 - Yahudi olmayanlar İsrail’in bir parçası olacak, bu da İsrail’in tüm ulusları kutsama (ve onları Tanrı’yla yeniden ilişki içine sokma) amacını yerine getireceği anlamına gelir
-
-
 
 ## Yahudi olmayanlar İsrail’in bir parçası olur
 
@@ -39,7 +34,6 @@ Hizmetkâr İsrail olarak adlandırılır, ancak bu İsrail olamaz.
 
 - İsrail’i topluyor
 - sadık kalanı geri getirmek (günahkâr İsrail’in bir parçası olduğu için bunun Yeşaya’nın kendisine atıfta bulunması olası değildir)
-
 
 Hizmetkâr, İsrail’i yeniden kuran tek bir kişi olmalıdır ve kendini İsrail’le özdeşleştiren herkesin kendini onunla özdeşleştirmesi gerekir.
 
@@ -70,7 +64,6 @@ Yabancılar artık Tanrı’nın hizmetkârlarıdır ve cesur sunular ve kurbanl
 - [ahir zaman İsrail’inin tanımı](https://www.bibleserver.com/TR/Ye%C5%9Faya66%3A7-14)
 - [ahir zaman İsrail’inin yargılanması](https://www.bibleserver.com/TR/Ye%C5%9Faya66%3A15-18)
 - [Yahudi olmayanların dahil edilmesi](https://www.bibleserver.com/TR/Ye%C5%9Faya66%3A18-21)
-
 
 Şimdi adım adım kontrol edeceğimiz son kısım
 
@@ -110,15 +103,9 @@ Yabancılar artık İsrail’in bir parçası olarak görülüyor.
 - [Rahab](https://www.bibleserver.com/TR/Ye%C5%9Fu6%3A25) da [dahil](https://www.bibleserver.com/TR/Matta1%3A5)
 - [Moavlı](https://www.bibleserver.com/TR/Rut1%3A1-4) [Rut](https://www.bibleserver.com/TR/Rut1%3A16) da dahil edilir ve [Davut](https://www.bibleserver.com/TR/Rut4%3A10-16) ile [İsa](https://www.bibleserver.com/TR/Matta1%3A5)’nın atası olur.
 
-
 Bu sahne evlenen Yahudi olmayanları anlatmaktadır. Toprakların çoğuna sahip olmaları, onları İsrail’in bir parçası yapar, çünkü [sadece İsrailliler toprak alabilir.](https://www.bibleserver.com/TR/Levililer25%3A23)
-
 
 ## Derinleştirmek için
 
 [Beale, A New Testament biblical theology, sayfalar 658–669](../../../../about/ressources/index.html#beale_theo)
 
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-remnant-of-israel.tr.md)

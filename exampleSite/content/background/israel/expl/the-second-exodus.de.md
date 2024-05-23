@@ -2,9 +2,7 @@
 title: "Der zweite Auszug"
 ---
 
-
 Es gab einen Auszug aus Ägypten. Aber weil Israel den Bund verlassen hatte, gingen sie wieder ins Exil. Die Verheißungen über die Rückkehr aus dem Exil verwirrten sie, denn nach der Rückkehr aus dem Exil in Babel hatte sich nichts geändert. Die Schlussfolgerung: Sie waren immer noch im Exil und warteten auf den zweiten Exodus. Und der kam mit Jesus!
-
 
 ## Der zweite Auszug in Markus
 
@@ -39,7 +37,6 @@ Als [Jesus die Erfüllung der Prophetie aus Jesaja ausspricht,](https://www.bibl
 
 Das Evangelium nach Lukas [endet mit der Erfüllung der Schrif](https://www.bibleserver.com/SLT/Lukas24%2C44-49)t, die eine [Referenz zur Wiederherstellung von Israel und der Einbindung der Nationen in Jesaja](https://www.bibleserver.com/SLT/Jesaja49%2C6) beinhaltet.
 
-
 ## Der zweite Auszug im der Apostelgeschichte
 
 <a name="b683"></a>
@@ -50,7 +47,6 @@ Lukas verwendet das Wort „Weg” in der Apostelgeschichte sechsmal:
 - [in der Rede des Paulus](https://www.bibleserver.com/SLT/Apostelgeschichte22%2C4) an die Menge in Jerusalem,
 - [in der Rede des Paulus an Felix](https://www.bibleserver.com/SLT/Apostelgeschichte24%2C14) auch [zweimal](https://www.bibleserver.com/SLT/Apostelgeschichte24%2C22).
 
-
 Auch in diesem Buch finden sich auch sechs wesentliche Themen des Auszugs:
 
 - Die Wiederherstellung der Stämme Israels durch die 12 Apostel,
@@ -60,13 +56,11 @@ Auch in diesem Buch finden sich auch sechs wesentliche Themen des Auszugs:
 - [der Einschluß der Ausgeschlossenen vom Volk Gottes](https://www.bibleserver.com/SLT/Apostelgeschichte8%2C28-38),
 - ursprüngliche Bekehrung Israels während [Pfingsten](https://www.bibleserver.com/SLT/Apostelgeschichte2%2C41-47), zu [Beginn der Gemeinde](https://www.bibleserver.com/SLT/Apostelgeschichte5%2C14), die [Erwählung des Stephanus](https://www.bibleserver.com/SLT/Apostelgeschichte6%2C1-7), in der [Gemeinde in Antiochia ](https://www.bibleserver.com/SLT/Apostelgeschichte11%2C24)und schließlich in [Kapitel 12](https://www.bibleserver.com/SLT/Apostelgeschichte12) — [das Buch endet hier](https://www.bibleserver.com/SLT/Apostelgeschichte28%2C26-27), wo [Jesaja](https://www.bibleserver.com/SLT/Jesaja6%2C9-10) anfängt: Israel lehnt die Botschaft Jesu ab.
 
-
 Ein Schlüsselthema ist das Wort Gottes in der Apostelgeschichte, das sich mit der [Erwählung des Stephanus](https://www.bibleserver.com/SLT/Apostelgeschichte6%2C7), [nach dem Tod des Herodes ](https://www.bibleserver.com/SLT/Apostelgeschichte12%2C24)und [während der Zeit von Paulus in Ephesus](https://www.bibleserver.com/SLT/Apostelgeschichte19%2C20) ausbreitet und einen wichtigen Punkt aus Jesaja aufgreift: [Wer ist wie Gott](https://www.bibleserver.com/SLT/Jesaja40%2C18-24), der [verläßlicher als die Götzen](https://www.bibleserver.com/SLT/Jesaja41%2C4-10) ist, der [Torheit des Götzendienste](https://www.bibleserver.com/SLT/Jesaja41%2C4-10)s und [der Götzen von Babel](https://www.bibleserver.com/SLT/Jesaja46%2C1-13).
 
 Der Vergleich zeigt die Spannung zwischen Apostelgeschichte und Jesaja: Gott ist souverän über die Götzen, aber Israel hängt sich an die Götzen. Das ist das Thema besonders in [Apostelgeschichte 17](https://www.bibleserver.com/SLT/Apostelgeschichte17), wo der Widerstand der Juden vermutlich an ihrem Festhalten an den Götzen hängt.
 
 Speziell wird Gericht ausgesprochen, wenn diese Götzen Göttlichkeit beanspruchen (in diesem Fällen [Simon](https://www.bibleserver.com/SLT/Apostelgeschichte8%2C4-24), [Herodes](https://www.bibleserver.com/SLT/Apostelgeschichte12%2C20-23) oder [Elymas](https://www.bibleserver.com/SLT/Apostelgeschichte13%2C10-11)).
-
 
 ## Zusammenfassung
 
@@ -75,10 +69,7 @@ Der zweite Auszug, auf den Israel so lange gewartet hat, ist mit Jesus verbunden
 
 Das Evangelium zeigt die Spannung zwischen der Wiederherstellung Israels, das an Jesus glaubt, und der Rettung der Völker, die miteinander verbunden sind.
 
-
 ## Zur Vertiefung
 
 [Beale, A New Testament biblical theology, Seiten 694–703](../../../../about/ressources/index.html#beale_theo)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-second-exodus.de.md)

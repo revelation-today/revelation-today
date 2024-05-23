@@ -4,7 +4,6 @@ title: "Die Zornesschalen (Kap.15-16)"
 weight: 14
 ---
 
-
 Die Schalen des Zorns werden als letzte der Plagen aufgeführt und sind sehr intensiv.
 
 Zunächst einmal: Wie kann ein liebender Gott voller Zorn sein? Das ist eine gute Frage und die kurze Antwort lautet: Dies ist eine Beschreibung von Gottes leidenschaftlichem Handeln und richtet sich gegen verstockte Herzen, falsches Vertrauen und die Tatsache, dass das Volk sein Volk zum Schweigen gebracht hat.

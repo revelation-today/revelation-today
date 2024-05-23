@@ -3,9 +3,7 @@ title: "Yeni Kudüs"
 weight: 2
 ---
 
-
 Cennet nasıl olacak ve cehennem nasıl olacak? Bunu ayrıntılı olarak söylemek zordur, ancak Vahiy kitabı bize biraz fikir verir.
-
 
 ## Bölümün yapısı
 
@@ -23,7 +21,6 @@ Bu pasajı aşağıdaki gibi yapılandırabiliriz:
 - 21/6 -&gt; 22/1
 - 21/8 -&gt; 21/27a
 
-
 22/9–22/5: Yeni Kudüs
 
 - 21/9–14: şehre dair ilk izlenim
@@ -31,8 +28,6 @@ Bu pasajı aşağıdaki gibi yapılandırabiliriz:
 - 21/18–21: şehrin malzemesi
 - 21/22–27: şehrin iç özellikleri
 - 22/1–5: Tanrı’nın varlığının sembolleri
-
-
 
 ## Yeni Kudüs’ün Tanıtımı
 
@@ -47,7 +42,6 @@ Bu pasajı aşağıdaki gibi yapılandırabiliriz:
 
 [Burada Eski Antlaşma vaatlerinin birçoğu yerine gelecektir.](https://www.bibleserver.com/TR/Ye%C5%9Faya65%3A17-25)
 
-
 ### Artık deniz yok
 
 <a name="65aa"></a>
@@ -56,9 +50,7 @@ Bu pasajı aşağıdaki gibi yapılandırabiliriz:
 - [Vahiy’de](https://www.bibleserver.com/TR/Vahiy13%3A1) olduğu gibi ya da deniz canavarları [Leviathan](https://www.bibleserver.com/TR/Mezmur74%3A13-14) veya [Rahab’ı ](https://www.bibleserver.com/TR/Ye%C5%9Faya51%3A9-10)tanımlayarak ya da [Firavun](https://www.bibleserver.com/TR/Hezekiel32%3A2) gibi kötü kralları deniz canavarları, genel olarak kötü krallar veya [denizin kendisini kötü bir araç olarak ](https://www.bibleserver.com/TR/Mezmur93%3A3-4)kişileştirerek kötülüğün kökeninin yeri.
 - Hades [ile birlikte ölümün yeri](https://www.bibleserver.com/TR/Vahiy20%3A13).
 
-
 Yani artık deniz yoksa, kötülüğün barınabileceği ve inananlara baskı yapabileceği bir yer de yoktur. [Deniz daha ziyade şehrin dışındadır.](https://www.bibleserver.com/TR/Vahiy20%3A14-15)
-
 
 ### Kutsal Şehir Kudüs
 
@@ -74,7 +66,6 @@ Bu düşünce Yeni Ahit’te şu şekilde yer alır
 - [göksel bir Kudüs var](https://www.bibleserver.com/TR/%C4%B0braniler12%3A22)
 - [Kudüs özgürdür](https://www.bibleserver.com/TR/Galatyal%C4%B1lar4%3A26-31)
 
-
 Bu ayetlerle [10. ve 11. ayetler](https://www.bibleserver.com/TR/Vahiy21%3A10-11) arasında ilginç bir paralellik vardır:
 
 2. ayet: Tanrı’nın gökten indirdiği yeni Yeruşalim, kocası için güzelce giyinmiş bir gelin gibi hazırlandı.
@@ -82,7 +73,6 @@ Bu ayetlerle [10. ve 11. ayetler](https://www.bibleserver.com/TR/Vahiy21%3A10-11
 10–11. ayetler: Kutsal Kent, Yeruşalim, Tanrı’nın elinden gökten indi. Tanrı’nın görkemiyle parlıyordu.
 
 Gelinin güzel elbisesi Tanrı’nın görkemidir. Ve [Tanrı’nın görkemi, kilisenin de yansıtması gereken merhameti ve şefkatidir](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F33%3A17-23).
-
 
 ### Tanrı insanlarla birlikte yaşar
 
@@ -93,7 +83,6 @@ Bu yüksek ses daha önce [Şeytan’ın krallığının yargılanmasında](http
 
 Tanrı’nın halkıyla birlikte [yaşaması Pentatök’te yer alan bir vaattir](https://www.bibleserver.com/TR/Levililer26%3A11-12) ve [Hezekiel’de](https://www.bibleserver.com/TR/Hezekiel37%3A27) [tapınağa döndüğünde](https://www.bibleserver.com/TR/Hezekiel43%3A7) ve [hatta ulusları da dahil ederek devam eder](https://www.bibleserver.com/TR/Zekeriya2%3A10-11). Bu aynı zamanda [Yeni Ahit’te](https://www.bibleserver.com/TR/2.Korintliler6%3A16) ve Vahiy’de de yer alan bir konudur.
 
-
 ### Sil gözyaşlarını
 
 <a name="5da1"></a>
@@ -103,14 +92,12 @@ Bu [Yeşaya’nın bir başka vaadidir; gözyaşı ve ölümün](https://www.bib
 
 [İlki tüm yaslarıyla birlikte ortadan kalkacaktır](https://www.bibleserver.com/TR/Ye%C5%9Faya65%3A17-20) ve [bu vizyonla geriye değil ileriye bakmalıyız](https://www.bibleserver.com/TR/Ye%C5%9Faya43%3A18).
 
-
 ### Her şey yeni
 
 <a name="7511"></a>
 “[Tahtta oturan, “İşte her şeyi yeniliyorum” dedi. Sonra, “Yaz!” diye ekledi, “Çünkü bu sözler güvenilir ve gerçektir.”](https://www.bibleserver.com/TR/Vahiy21%3A5)”
 
 [Yeni olan her şey](https://www.bibleserver.com/TR/Ye%C5%9Faya43%3A18-19), [bizimle birlikte yeni yaratılışı başlatan İsa’da gerçekleşmiştir.](https://www.bibleserver.com/TR/2.Korintliler5%3A17)
-
 
 ### Yaşayan su
 
@@ -120,7 +107,6 @@ Bu [Yeşaya’nın bir başka vaadidir; gözyaşı ve ölümün](https://www.bib
 Bu, Tanrı’nın içmek için bedava verdiği [Yeşaya’daki](https://www.bibleserver.com/TR/Ye%C5%9Faya49%3A10) gerçekleşmedir. “[Bedelsiz](https://biblehub.com/greek/1432.htm)” terimi [Yuhanna’da](https://www.bibleserver.com/TR/Yuhanna15%3A25), [Matta’da](https://www.bibleserver.com/TR/Matta10%3A8), [Korintlilere Mektup’ta](https://www.bibleserver.com/TR/2.Korintliler11%3A7), [Galatyalılara](https://www.bibleserver.com/TR/Galatyal%C4%B1lar2%3A21), [Romalılara](https://www.bibleserver.com/TR/Romal%C4%B1lar3%3A24) ve [Selaniklilere Mektup’ta](https://www.bibleserver.com/TR/2.Selanikliler3%3A8) sık sık bedelsiz armağanla birlikte kullanılır.
 
 Diri suyun kaynağı [Tanrı’dır](https://www.bibleserver.com/TR/Yeremya2%3A13), [içmek için bol miktarda verir](https://www.bibleserver.com/TR/Mezmur36%3A8-9), [hatta taşırır](https://www.bibleserver.com/TR/Yoel3%3A18) ve elbette İsa’da [kuyudaki kadınla](https://www.bibleserver.com/TR/Yuhanna4%3A10) ve [ona inanan herkese bir vaat olarak yerine getirilir](https://www.bibleserver.com/TR/Yuhanna7%3A38).
-
 
 ### Üstesinden gelen
 
@@ -137,8 +123,6 @@ Bölüm 2 ve 3'te üstesinden gelen kiliseler burada vaatleri göreceklerdir
 - [Bergama](https://www.bibleserver.com/TR/Vahiy2%3A17) ve [Thyatira’ya](https://www.bibleserver.com/TR/Vahiy2%3A28) [hafif taşlara](https://www.bibleserver.com/TR/Vahiy21%3A11) sahip olacakları vaat edilir.
 - [Thyatira](https://www.bibleserver.com/TR/Vahiy2%3A26-27) ve [Laodicea’ya](https://www.bibleserver.com/TR/Vahiy3%3A21) İsa’yla [birlikte hüküm sürecekleri](https://www.bibleserver.com/TR/Vahiy22%3A5) vaat edilir.
 - [İzmir’in](https://www.bibleserver.com/TR/Vahiy2%3A11) [ikinci ölümün dışında tutulacağı vaat edilir](https://www.bibleserver.com/TR/Vahiy21%3A7-8).
-
-
 
 ### İkinci ölüm için hazır
 
@@ -157,13 +141,11 @@ Bunların hepsi putperestlikle bağlantılıdır:
 - tapınak fahişeliğiyle bağlantılı cinsel ahlaksızlık
 - büyü sanatlarını uygulamak [putperestlikle](https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B118%3A9-11) ve [Jesebel](https://www.bibleserver.com/TR/2.Krallar9%3A22) ile de bağlantılıdır
 
-
 Yalancılar, [kendilerine havari diyen](https://www.bibleserver.com/TR/Vahiy2%3A2), [Şeytan’ın yolunda hareket eden](https://www.bibleserver.com/TR/Vahiy3%3A9), [yalan tanıklık eden](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri6%3A13), [İsa’nın sözüne itaat etmeyen](https://www.bibleserver.com/TR/1.Yuhanna2%3A4), [İsa’nın Rab olduğunu reddeden](https://www.bibleserver.com/TR/1.Yuhanna2%3A22), [kardeşlerinden nefret eden](https://www.bibleserver.com/TR/1.Yuhanna4%3A20) ve [İsa’da sonsuz yaşama sahip olduğumuza inanmayan kişiler olarak imana ihanet etmişlerdir.](https://www.bibleserver.com/TR/1.Yuhanna5%3A10)
 
 [Liste en sonda](https://www.bibleserver.com/TR/Vahiy22%3A15) ve bölümün [sonunda daha kısa bir şekilde tekrarlanır](https://www.bibleserver.com/TR/Vahiy21%3A27), ancak her durumda yalancı ile biter, [çünkü sözlerimiz ve eylemlerimizle tutarlı olmamız önemlidir](https://www.bibleserver.com/TR/Titus1%3A16).
 
 En [büyük yalancı Şeytan’dır](https://www.bibleserver.com/TR/Yuhanna8%3A44) ve biz ondan çok farklı olmak isteriz.
-
 
 ## Yeni Kudüs’ün Detayları
 
@@ -179,11 +161,9 @@ En [büyük yalancı Şeytan’dır](https://www.bibleserver.com/TR/Yuhanna8%3A4
 - Babil kendini yok eder ve Kudüs sonsuza dek kalır
 - Babil sömürü ve zulümle zenginleşir ama Kudüs Tanrı’nın armağanı olarak zengindir
 
-
 On iki kapı 12 kabileye, 12 temel taşı ise 12 havariye işaret eder. [2 kere 12 cennetteki sonsuz tapınmayı yansıtır](https://www.bibleserver.com/TR/Vahiy4%3A4), ama aynı zamanda kitap boyunca anlatılan [Yahudi ve Yahudi olmayanlar arasındaki uzlaşmayı aramak için bir hatırlatmadır](../../../../background/israel/expl/israel-and-the-church).
 
 Garip olan şey, havarilerin kabilelerin temeli olmasıdır (İsrail için kilise temeli), ancak bu,[ İsa’nın kilise tarafından işlenen İsrail’in yerine getirilmesi olduğu düşünüldüğünde mantıklıdır](https://www.bibleserver.com/TR/Efesliler2%3A20). Yahuda [da kitapta İsa’yı yansıtan kabilelerin ilki olarak listelenmiştir](https://www.bibleserver.com/TR/Vahiy7%3A4-8).
-
 
 ### [Şehrin ölçümü](https://www.bibleserver.com/TR/Vahiy21%3A15-17)
 
@@ -206,7 +186,6 @@ Daha ileriye baktığınızda şehrin garip şeklini göreceksiniz, bu bir [küb
 
 Bir başka husus da şehrin büyüklüğünün o zamanki Helenistik dünyanın (Roma İmparatorluğu) büyüklüğünde olmasıdır, yani girmek isteyen herkes için yer vardır.
 
-
 ### [Şehrin malzemesi](https://www.bibleserver.com/TR/Vahiy21%3A18-21)
 
 <a name="8562"></a>
@@ -219,7 +198,6 @@ Bu malzeme Yeruşalim’in çektiği acılardan sonra yeniden kurulmasını hat�
 Çevirimiz “ilk temelin yeşim taşı ile süslendiğini” söyler, [ancak daha iyi bir çeviri “ilk temel yeşim taşıdır” şeklindedir](https://biblehub.com/interlinear/revelation/21-19.htm).
 
 [Yeni Yeruşalim’deki caddeden söz edilmesi](https://www.bibleserver.com/TR/Vahiy21%3A21), [cesetleri teşhir edilen iki tanığı hatırlatmaktadır](https://www.bibleserver.com/TR/Vahiy11%3A8), ancak şimdi cadde onların onuruna yapılmıştır. Eski utancımızın yerini ebedi görkem alacaktır.
-
 
 ### [Dahili özellikler](https://www.bibleserver.com/TR/Vahiy21%3A22-27)
 
@@ -254,7 +232,6 @@ Ama bu krallar kimlerdir? Bütün uluslar kurtulacak mı? Bazıları tövbe edip
 
 İmanlılar içeri girebilirken,[ imansızlar giremezler ki bu](https://www.bibleserver.com/TR/Vahiy21%3A27) da [Yeşaya’daki](https://www.bibleserver.com/TR/Ye%C5%9Faya35%3A8) [iki pasajda](https://www.bibleserver.com/TR/Ye%C5%9Faya52%3A1) kısa bir [süre önce su havuzlarının aktığı](https://www.bibleserver.com/TR/Ye%C5%9Faya35%3A7) ve burada Vahiy’de suyun bu ayetten sonra geldiği şekilde yansıtılır.
 
-
 ### [Tanrı’nın varlığının sembolleri](https://www.bibleserver.com/TR/Vahiy22%3A1-5)
 
 <a name="4997"></a>
@@ -264,7 +241,6 @@ Bu, aşağıdakilere dayanmaktadır
 - [Kudüs yeniden inşa edildiğinde nehir](https://www.bibleserver.com/TR/Zekeriya14%3A8)
 - [Tanrı’nın evinden gelen su ağaçları suluyor.](https://www.bibleserver.com/TR/Yoel3%3A18)
 
-
 Yaratılış öyküsünde de [Vahiy’de](https://www.bibleserver.com/TR/Vahiy21%3A19-20) [olduğu gibi nehirlerin değerli taşlarla ilişkilendirildiği bir açıklama vardır](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F2%3A10-12).
 
 Bütün bunların kaynağı Tanrı’nın ve Kuzu’nun tahtıdır. Su genellikle Kutsal Ruh ile ilişkilendirilir
@@ -273,7 +249,6 @@ Bütün bunların kaynağı Tanrı’nın ve Kuzu’nun tahtıdır. Su genellikl
 - [Su ve Ruh’tan doğmak](https://www.bibleserver.com/TR/Yuhanna3%3A5)
 - [diri su ve Ruh’ta tapınma](https://www.bibleserver.com/TR/Yuhanna4%3A10-24)
 - [Tanık olarak su ve Ruh](https://www.bibleserver.com/TR/1.Yuhanna5%3A7-8)
-
 
 Son olarak, çember başlangıca (yaratılış ve düşüşe) kadar kapanır: [Yaşam Ağacı geri dönmüştür ve herkes ona erişebilir.](https://www.bibleserver.com/TR/Vahiy22%3A2)
 
@@ -285,4 +260,3 @@ Tüm kötülükler ortadan kalkmıştır ve artık tamamen Tanrı’ya hizmet et
 
 [Beale, Revelation, sayfalar 1039–1121](../../../../about/ressources/index.html#beale_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/the-new-jerusalem.tr.md)

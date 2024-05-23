@@ -3,11 +3,9 @@ title: "Vahiy’deki trompetler"
 weight: 2
 ---
 
-
 Vahiy kitabının 8, 9 ve 11. bölümlerinde yer alan trompetler birçok insan için modern zamanlardaki bazı felaketleri yansıtsa da aslında [Mısır’daki belaları](../../../../bible/exodus/expl/the-plagues-in-egypt) yansıtmaktadır.
 
 Trompetler kitapta bildirilen yedi eylemin ikinci serisidir. Bunların başlangıcı mühürlerin sonuyla iç içedir ve buna daha yakından bakmaya değer.
-
 
 ## Daha önce okumak isteyebilirsiniz
 
@@ -15,8 +13,6 @@ Trompetler kitapta bildirilen yedi eylemin ikinci serisidir. Bunların başlang�
 - [Kitabın tarihsel arka planı](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 - [Ne tür bir kitap bu?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 - [Mısır’daki belalar](../../../../bible/exodus/expl/the-plagues-in-egypt)
-
-
 
 ## Trompetlerin kökeni
 
@@ -32,7 +28,6 @@ Duanın sonucunda borular çalınır.
 Her şeyden önce: Tanrı’nın Egemenliği’nin gelmesi için biz kutsalların duaları, İsa’nın çarmıhtaki ölümü ve Tanrı’nın gazabı (tutkulu hırs) kadar önemli değil mi? Bu duaya tamamen yeni bir boyut kazandırır.
 
 Ama ikinci olarak: Dualarınızın trompetlerin neden olduğu dramaya neden olmasını gerçekten istiyor musunuz?
-
 
 ## İlk dört borazan
 
@@ -50,7 +45,6 @@ Ama ikinci olarak: Dualarınızın trompetlerin neden olduğu dramaya neden olma
 [Dördüncü borazan](https://www.bibleserver.com/TR/Vahiy8%3A12-13) ışığın ve yönelimin (denize açılmak için) önemli bir bölümünü ortadan kaldırır. Mısır’da yıkıcı bir etkisi olan ve İsrail ile [Mısırlılar arasındaki farkı gösteren dokuzuncu bela](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F10%3A22-23) ile ilgilidir.
 
 Neden tüm borazanların sadece üçte biri etkili olmuştur? Evet, borazanlar Tanrı’nın yarattıklarına (altıncı borazandaki insan da dahil) karşı yapılır, ama günahın etkisi altında kalmıştır. [Yıldızların (meleklerin) üçte biri Şeytan’la birlikte düştüğü gibi](../../../../content/jesus/expl/a-different-christmas-story), yaratılışın üçte biri de yok edilir.
-
 
 ## Beşinci ve altıncı trompet
 
@@ -82,9 +76,7 @@ Bunun sonucunda (diğer tüm borazan belaları?) [halk tövbe etmedi](https://ww
 - [Kornelius bir melek gördü ve ona dualarının kabul edildiğini söyledi.](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri10%3A4)
 - [Romalı komutan Feliks müjdenin sonucunu duydu ve Pavlus’tan konuşmayı kesmesini istedi](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri24%3A25)
 
-
 Dolayısıyla dehşete düşmüş kelimesi “bunalmış” olarak daha iyi tercüme edilebilir.
-
 
 ## Daha fazla okuma
 
@@ -95,4 +87,3 @@ Dolayısıyla dehşete düşmüş kelimesi “bunalmış” olarak daha iyi terc
 
 [Beale, Revelation, sayfalar 445–520](../../../../about/ressources/index.html#beale_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/expl/the-trumpets-in-revelation.tr.md)

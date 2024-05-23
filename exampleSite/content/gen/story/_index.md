@@ -3,11 +3,9 @@ title: "The book of Revelation — A first look"
 weight: 1
 ---
 
-
 You might be a believer for long and you know the answers on the important questions: What need to be done to be saved, how to live a blessed and successful life and how to get to heaven.
 
 You have found your place in the world and know how to manoeuvre. There might be open questions and some challenges in life but all together you managing. Life may not be perfect but all will be good when we are in heaven. And here comes the discovery of the [book of Revelation](https://www.bibleserver.com/NIV/Revelation1).
-
 
 ### New beginnings ([Chapter 1](https://www.bibleserver.com/NIV/Revelation1))
 
@@ -15,7 +13,6 @@ You have found your place in the world and know how to manoeuvre. There might be
 But you might ask yourself if there is not more to the story than: Jesus died for my sins and be accepting this and telling others about it from time to time (giving testimony). Well, there is. It is much more and I don’t know if you like it. Because we are kings and queens and have a responsibility for this world. The clock is ticking and there is an important task at hand. The salvation of the whole world. And it’s not about me but the church and its mystery.
 
 The church should be the light of the world and living out of the strength of Jesus. This is not more and not less as Jesus thinks of the church. But is the church keeping up to this?
-
 
 ### A grand disaster ([Chapter 2–3](https://www.bibleserver.com/NIV/Revelation2))
 
@@ -38,7 +35,6 @@ But Jesus does not give up on them, he gives individual advice, warnings and pro
 
 {{< figure src="/images/Churches_en.jpg" title="Src: https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" >}}
 
-
 ### Guidance is ahead ([Chapter 4–5](https://www.bibleserver.com/NIV/Revelation4))
 
 <a name="55b1"></a>
@@ -50,7 +46,6 @@ But when you think, sitting and worship will solve all the problems, you are wro
 
 He is our real hero and guide in this huge journey as he is worthy to rule the world. But when we accept and live this we start a journey there is no turning back.
 
-
 ### Evil awakes — join the army ([Chapter 6–7](https://www.bibleserver.com/NIV/Revelation6))
 
 <a name="c33e"></a>
@@ -60,7 +55,6 @@ Not that the church is excluded from this. No, she is in the middle of it and cr
 
 Until this we need to join the army of God. But what does it looks like? Our fight is not with violence as the devil but it is an army of worshipers that endure anything out of the love for their Lord.
 
-
 ### The first strike ([Chapter 8–9](https://www.bibleserver.com/NIV/Revelation8))
 
 <a name="3037"></a>
@@ -68,12 +62,10 @@ It is time for the church to launch its power. With the same force as Jesus as t
 
 They don’t even let loose when their idols turn against them and make them loose hope itself, so that they would rather end their lives but cannot and finally they do it. The church is protected — they will not give up. But the people suffer tremendously but they still stick to their idols.
 
-
 ### Reality check ([Chapter 10](https://www.bibleserver.com/NIV/Revelation10))
 
 <a name="4ab1"></a>
 The church failed. Their first strike resulting in nothing but hardened hearts. Hard times alone does not change people. It is the the mystery of God that changes them. And this will be revealed now and it takes some time to digest.
-
 
 ### The big clash ([Chapter 11–13](https://www.bibleserver.com/NIV/Revelation11))
 
@@ -91,9 +83,7 @@ But can the church we weak when the devil is around. Lets have a look at his ach
 - He tried to destroy Israel — and failed again
 - Finally he persecute the church and imitates God — and becomes a laughing stock
 
-
 The task is not to defeat the devil — this was done by Jesus — but to draw the people into a relationship with God
-
 
 ### Victory ([Chapter 14–16](https://www.bibleserver.com/NIV/Revelation14))
 
@@ -106,7 +96,6 @@ It is time to check. The two harvests reveal there the hard reality. Some will b
 
 And this is the time to Gods zeal steps in. His actions will shake and shake again against false loyalty, attacking his people, hardening of the hearts and the deception of the devil until this kingdom totally collapses.
 
-
 ### The ultimate battle ([Chapter 17–19](https://www.bibleserver.com/NIV/Revelation17))
 
 <a name="517a"></a>
@@ -117,7 +106,6 @@ It is the perfect deception of the church: A beautiful woman blessing the whole 
 Many are deceived but this perfect charade. This last attack seemed to be perfect. But the opposite is the case. The people are directed by the devil to attack the church are guided by Jesus to destroy the harlot instead.
 
 Now the way is free to finally destroy the devil and his minions.
-
 
 ### A new beginning ([Chapter 20–22](https://www.bibleserver.com/NIV/Revelation20))
 
@@ -130,9 +118,3 @@ And, have you understood the story. Than go ahead and live accordingly in your d
 
 [Do you want to know more? Then follow me](../../../../gen/index/appl/the-book-of-revelation).
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/index/intro/the-book-of-revelation.md)

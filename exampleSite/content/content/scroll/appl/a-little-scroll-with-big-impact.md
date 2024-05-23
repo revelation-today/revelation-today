@@ -3,15 +3,12 @@ title: "A little scroll with big impact"
 weight: 1
 ---
 
-
 There is a small scroll that John has to eat and it is never mentioned again. What do we do with it, and does it have anything to do with the scroll with the seven seals?
-
 
 ## Our text
 
 <a name="b17d"></a>
 We are moving quickly forward and reached [chapter 10](https://www.bibleserver.com/NIV/Revelation10).
-
 
 ## The scroll
 
@@ -26,15 +23,12 @@ Before we look at this plan, there are some important observations:
 - The mystery of God is revealed. After the mystery of the church in chapter 1, we now see this before we see the mystery of the devil in chapter 17. What is the mystery of God and how does it affect the church?
 - John has to eat the scroll and it is sweet in the mouth but bitter in the stomach: The scroll is good news, as we will see shortly, but it is also bitter because it involves suffering. However, bitter food is helpful for good digestion: So the Church is not only being asked to do something, but it will also be for the good of the Church itself.
 
-
-
 ## The calling
 
 <a name="fbd0"></a>
 We will see in the next chapters that this call in the scrolls is to save the nations, which describes all the people of the world. After the last two chapters, it is clear that suffering and hard times will not bring about the change.
 
 It is the witness of the Church. And by witness I do not mean a good lifestyle. But we will see that in the next chapter.
-
 
 ### Reflection
 
@@ -44,21 +38,8 @@ It is the witness of the Church. And by witness I do not mean a good lifestyle. 
 - Do you think there is more in your life and it is time to step up?
 - Do you have a calling in your life but are unsure and have never really stepped up?
 
-
-
-
-
-
-
 ## Digging deeper
 
 <a name="06f1"></a>
 - [The little scroll](../../../../content/scroll/expl/the-little-scroll)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/appl/a-little-scroll-with-big-impact.md)

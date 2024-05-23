@@ -2,9 +2,7 @@
 title: "Dünyayı kim yönetiyor"
 ---
 
-
 Vahiy Kitabı bize dünyayı kimin yönettiğine dair çok karışık bir resim sunar. Bir yanda tam kontrol sahibi gibi görünen ve her direnişi yok eden Şeytan, diğer yanda ise kontrol sahibi gibi görünen kilise vardır. Neler oluyor ve hükmetmek ne anlama geliyor?
-
 
 ## Soru
 
@@ -16,9 +14,7 @@ Vahiy Kitabı bize dünyayı kimin yönettiğine dair çok karışık bir resim 
 - Dünya daha Hıristiyan olmadı, ama Hıristiyanlar daha dünyevi oldu
 - [kilise çoğu zaman çözüm gibi değil, sorun gibi görünür](../../../../topics/church/appl/what-is-wrong-with-the-church)
 
-
 Peki neler oluyor? Bir şeyler tamamen yanlış mı gitti? Daha iyi bakmamız gerekiyor.
-
 
 ## İsrail’in hikayesi
 
@@ -43,16 +39,13 @@ Gelecek olanın “zaten” olduğunun aşırı vurgulanması şu sonuçları do
 - Eğer inanır ve ilan edersek, herkesin şifa, zenginlik ve refah hakkına sahip olduğunda ısrar etmek
 - günahsız yaşayabileceğimize inanmak
 
-
 Gelmekte olanın “henüz olmadığını” aşırı vurgulamak
 
 - acı ve yoksulluğun yüceltilmesi
 - ruh armağanının reddi
 - sadece birkaçının Tanrı’nın krallığına ulaşacağı beklentisi
 
-
 Gerilimi korumalıyız.
-
 
 ## Antrenman
 
@@ -65,9 +58,3 @@ Kilit unsur, farklı şekilde yönetiyor olmalarıdır. Şeytan hayvanlarla birl
 
 [Bu 1000 yıllık krallıkta açıkça belirtilmiştir ki, aslında hükmedenler tanıklardır.](../../../../content/1000y/expl/the-thousand-year-kingdom)
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/who-rules-the-world.tr.md)

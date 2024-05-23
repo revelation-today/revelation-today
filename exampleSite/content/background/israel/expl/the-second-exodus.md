@@ -2,9 +2,7 @@
 title: "The second Exodus"
 ---
 
-
 There was an exodus from Egypt. But when Israel failed to keep the law, they went into exile. Filled with promises of their return, when they returned from exile, they saw that nothing had changed. So the conclusion: They are still in exile, waiting for a new exodus. And that is coming with Jesus!
-
 
 ## The exodus in Mark
 
@@ -20,13 +18,11 @@ The beginning of the gospel of Mark has many references to the Exodus:
 
 <p>The structure in the Gospel of Mark reflects the structure of Isaiah</p>.
 
-
 | Mark | Isaiah 40-66 | Explanation |
 |------|--------------|-------------|
 | Jesus' ministry in Galilee and beyond (1/16-8/21:26) </br> People are set free by demons. </br> [Rejection of Jesus (Beelzebub)](https://www.bibleserver.com/NIV/Mark3%2C22-30) results [in hardening of hearts](https://www.bibleserver.com/NIV/Mark4%2C11-13). | Israel set freed from slavery by God the Warrior and Healer</br> Israel is freed from Babel </br> [Rejecting God: God becomes their enemy](https://www.bibleserver.com/NIV/Isaiah63%2C10) | Deliverance from demons shows authority of Jesus, referring to God as the warrior who releases people from prison.</br> People are held captive by demons. |
 | Mk.8/22,27-10/15,52: Jesus leads the "blind" disciples on the "way" </br> Healing the blind and deaf, disciples are also blind at first, but see again. | [God guides the "blind" on the "way"](https://www.bibleserver.com/NIV/Isaiah42%2C16) | Jesus suffering is the way in which the exodus happens (Is.53: servant goes the way through his death (Mk.10/45)) |
 | Mk.10/46;11/1-16/8: Jesus eventual arrival in Jerusalem | Israel's eventual arrival in Jerusalem | Jesus veils the fig tree: reference to beginning: [judgment or promise, only if bears fruit](https://www.bibleserver.com/NIV/Revelation17%2C14) |
-
 
 ## The new Exodus in Luke
 
@@ -41,7 +37,6 @@ When [Jesus read from Isaiah, he stated its fulfillment](https://www.bibleserver
 
 The Gospel of [Luke ends with the fulfillment of the Scripture](https://www.bibleserver.com/NIV/Luke24%3A44-49) that [refers to the restoration of Israel and the inclusion of the Gentiles in Isaiah](https://www.bibleserver.com/NIV/Isaiah49%3A6).
 
-
 ## The new Exodus in Acts
 
 <a name="a809"></a>
@@ -52,7 +47,6 @@ Luke uses the way 6 times in the book of Acts
 - [in Paul’s speech](https://www.bibleserver.com/NIV/Acts22%3A4) to the crowd in Jerusalem,
 - [to his speech to Felix](https://www.bibleserver.com/NIV/Acts24%3A14) also [twice](https://www.bibleserver.com/NIV/Acts24%3A22).
 
-
 In the book of Acts you will also find 6 main messages of the Exodus
 
 - Restoration of the tribes of Israel by the 12 apostles,
@@ -62,13 +56,11 @@ In the book of Acts you will also find 6 main messages of the Exodus
 - [Inclusion of expelled to the people of God](https://www.bibleserver.com/NIV/Acts8%3A28-38),
 - Israel’s initial repentance at [Pentecost](https://www.bibleserver.com/NIV/Acts2%3A41-47), in the [early church](https://www.bibleserver.com/NIV/Acts5%3A14), [in the election of Steven](https://www.bibleserver.com/NIV/Acts6%3A1-7), in the [church at Antioch](https://www.bibleserver.com/NIV/Acts11%3A24) and finally in chapter 12 — the [book ends with](https://www.bibleserver.com/NIV/Acts28%3A26-27) where [Isaiah begins](https://www.bibleserver.com/NIV/Isaiah6%3A9-10), with Israel’s rejection of the message of Jesus.
 
-
 A key theme is the Word of God in the book of Acts, which spreads after the [election of Steven](https://www.bibleserver.com/NIV/Acts6:7), [after the death of Herod](https://www.bibleserver.com/NIV/Acts12:24) and during [Paul’s time in Ephesus](https://www.bibleserver.com/NIV/Acts19%3A20), echoing important positions in Isaiah: [How can God be compared](https://www.bibleserver.com/NIV/Isaiah40%3A18-24), he [is more reliable than idols](https://www.bibleserver.com/NIV/Isaiah41%3A4-10), the [vanity of idols](https://www.bibleserver.com/NIV/Isaiah44%3A9-20) and [the idols of Babel](https://www.bibleserver.com/NIV/Isaiah46%3A1-13).
 
 This comparison shows that this shows the tension between Acts and Isaiah: God is sovereign over idols but Israel clings to them. This is especially a theme in [Acts 17](https://www.bibleserver.com/NIV/Acts17), where the Jews’ resistance is probably due to their clinging to idols.
 
 Judgment is especially announced when these idols claim godliness (in the cases of [Simon](https://www.bibleserver.com/NIV/Acts8%3A4-24), [Herod](https://www.bibleserver.com/NIV/Acts12%3A20-23) or [Elymas](https://www.bibleserver.com/NIV/Acts13%3A10-11))
-
 
 ## Summary
 
@@ -77,14 +69,7 @@ The new Exodus for which Israel has been waiting for so long happens and is link
 
 The Gospel shows the tension between the restoration of Israel who believe in Christ and the salvation of the Gentiles who play together.
 
-
 ## Dig Deeper
 
 [Beale, A New Testament biblical theology, pages 694–703](../../../../about/ressources/index.html#beale_theo)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-second-exodus.md)

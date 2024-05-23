@@ -2,9 +2,7 @@
 title: "Who is Israel"
 ---
 
-
 What do you think is Israel? Are these all the descendants of Abraham? Surely not, it is far more complicated or easier! And what is Israel in the New Testament? What’s about Jews that don’t believe in God?
-
 
 ## The origin and purpose of Israel
 
@@ -19,14 +17,12 @@ And God made a new covenant with these people at Sinai as a covenant which becam
 
 More people joined like [Rahab](https://www.bibleserver.com/NIV/Joshua2), [Ruth vs. Orpah](https://www.bibleserver.com/NIV/Ruth1), [Uriah](https://www.bibleserver.com/NIV/2%20Samuel11%3A3) and many others. [But this did not reach so far](https://www.bibleserver.com/NIV/Matthew23%3A15).
 
-
 ## Israel fails the covenant
 
 <a name="7249"></a>
 But there was a more severe problem. Israel became worse than their neighbors and they failed the covenant. The consequence was that they needed to go into exile. But God spoke through the prophets that after the exile he will restore the remnant of Israel and is will reach its full purpose. So when the exile ended after 70 years, Israel expected all this fulfilled.
 
 But this did not happen. The conclusion was that Israel was still in the exile they are waiting for another exodus like out of Egypt which was called the [“Day of the Lord”, when all these promises are fulfilled](../../../../background/israel/expl/the-day-of-the-lord). These promises were [for the remnant of Israel and included that the nations will be part of Israel](../../../../background/israel/expl/the-remnant-of-israel).
-
 
 ## A new beginning
 
@@ -41,9 +37,3 @@ But the [Day of the Lord has only partially arrived, so we are living in a time 
 
 [The church did not replace Israel but Israel fulfilled its mission reaching the Gentiles in the church](https://www.bibleserver.com/NIV/Romans9).
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/who-is-israel.md)

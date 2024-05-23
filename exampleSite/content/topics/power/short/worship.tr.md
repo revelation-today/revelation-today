@@ -3,9 +3,7 @@ title: "İbadet"
 weight: 1
 ---
 
-
 Vahiy Kitabı’ndaki kilit konu aslında yargı değil, kitap boyunca mevcut olan tapınma, kiliselerin mücadelesine kilit bir yanıt ve çok daha fazlasıdır. Tapınma tam olarak nedir ve bunu nasıl yaşarız?
-
 
 ## İmitasyon
 
@@ -15,7 +13,6 @@ Küçük çocuklar ibadeti tanımlayan temel bir yönü yansıtırlar: çevreler
 Bazen rol modellerimiz bizi hayal kırıklığına uğratır veya şu anda takip edemeyeceğimiz bir şekilde bize meydan okur.
 
 Ancak rol modeller de bizi yoldan çıkarabilir, yanlış değerler aktarabilir veya bizi yalnız bırakabilir.
-
 
 ## İlişkilerde insan
 
@@ -27,7 +24,6 @@ Tanrı insanları ilişki insanları olarak yaratmıştır. Hepimizin doğrudan 
 - Bizi daha iyi olmamız için motive eder, daha iyi olmamız için bizi büyütür (çocuklar, eş, …)
 - …
 
-
 Bencil ve kötü insanlar bile korkuldukları, kıskanıldıkları veya nefret edildikleri için bile ilişkilere ihtiyaç duyarlar.
 
 Çünkü insanlar olarak bir çatışmanın içinde yaşıyoruz. Biz istemiyoruz
@@ -35,11 +31,9 @@ Bencil ve kötü insanlar bile korkuldukları, kıskanıldıkları veya nefret e
 - incinmek — böylece kötü ilişkileri durdururuz
 - yalnız olmak — bu yüzden ilişkilere başlarız
 
-
 İlişkilerden kaçınamayız ve ilişkilerde büyümeyi öğrenemeyiz. Güvenmeyi, incinmeyle başa çıkmayı ve güven vermeyi öğrenmemiz gerekir. Bu, bize ve ilişki gemilerinin büyümesine yardımcı olacak deneyimleri kullanan bir süreçtir.
 
 Ve burada ibadetin ne olduğu konusuna geliyoruz.
-
 
 ## İbadetin üç basamağı
 
@@ -50,11 +44,9 @@ Ve burada ibadetin ne olduğu konusuna geliyoruz.
 - [şükretmeye](https://biblehub.com/hebrew/8416.htm) devam ederiz: Şükrettiğimiz tüm düşünceleri deneyimledikten sonra, Tanrı’nın iyi olduğunu fark eder ve karakterini överiz
 - Sonunda [tapınmaya](https://biblehub.com/hebrew/1288.htm) (diz çökme) ulaşırız: burada Tanrı’ya güveniriz
 
-
 Tapınma (diz çökme) kelimesi, tapınmanın yere düz bir şekilde uzanmak anlamına geldiği Asur kökenlidir. Bu, bir kralın savaşı kaybetmesinden sonra yapılan bir jestti ve yere düz bir şekilde uzanırdı ve muzaffer kral sembolize etmek için ayağını boynuna koyardı: Sana istediğimi yapabilirim.
 
 İbadet ederken de aynı şeyi yaparız. Ruhsal olarak dümdüz yere uzanır ve şöyle deriz: Tanrım, ne yapmak istiyorsan benimle yap. Bu tam bir bağlılık ve sadakat göstergesidir, hatta politiktir (bir ülkenin liderlerine mi yoksa kralların kralına mı sadığız). Bu ibadet her eylemimizi etkiler.
-
 
 ## Engeller
 
@@ -68,9 +60,7 @@ Tapınma (diz çökme) kelimesi, tapınmanın yere düz bir şekilde uzanmak anl
 - çok fazla acı yaşadınız
 - Tanrı hakkında yanlış bir imaja sahip olmak, örneğin sadece iyi davrandığınızda bir şeyler elde etmek ya da iyi şeyleri hak etmediğinizi düşünmek
 
-
 İşte bu, bugün size iyi gelen şeyleri düzenli olarak düşünmenize ve bunlar için teşekkür etmenize yardımcı olur.
-
 
 ## Övgü eksikliği
 
@@ -80,16 +70,13 @@ Tanrı’nın yaşamınızda yaptığı iyi şeyleri görebilirsiniz ama yine de
 - Tanrı, özverili ve başkalarının iyiliği için yapılan dualara cevap veren bir hizmet sağlayıcıdır
 - iradesi olmayan bir nesne, doğru sorarsanız veya yeterince uzun sorarsanız verir
 
-
 Ama Tanrı iyi bir babadır.
 
 - belki de uzun süreli bir etkisi olmadığı için istediğinizi vermeyebilir
 - arzu etmediğiniz ama hayatınıza fayda sağlayacak şeyler verebilir
 - sizi mutlu etmekten ve tüm isteklerinizi yerine getirmekten çok bir ilişkiyle ilgileniyor (dış hizmet sağlayıcı)
 
-
 Burada büyümek için, hayatınızda büyümenizi sağlayan ve yaşam kalitenizi artıran nelerin iyi olduğunu daha uzun bir süre boyunca düşünün. Tanrı’ya ilişkin hangi resme sahip olduğunuzu kontrol edin. Belki de Tanrı’ya yansıttığınız ve onu görme şeklinizi çarpıtan bazı kişiler ya da durumlar vardır.
-
 
 ## İbadet eksikliği
 
@@ -103,7 +90,6 @@ Belki de Tanrı’ya güvenmiyor ve sizden istediği şeyleri yapmıyorsunuz.
 - Tanrı’dan daha iyi bir planınız var — elbette hepimizin var, aksini öğrenene kadar
 - değerli oldukları, bize güvenlik sağladıkları, rahatlık verdikleri için bazı şeylerden vazgeçmeye istekli değiliz — ancak bunları riske atmaya istekli olmazsak Tanrı’da dolu bir yaşamın nasıl olduğunu deneyimleyemeyiz
 
-
 İbadetin bedeli büyük ama şansı da büyük
 
 - Tanrı bizi kendi karakterine ve suretine dönüştürecektir (bize yetki verir)
@@ -111,9 +97,7 @@ Belki de Tanrı’ya güvenmiyor ve sizden istediği şeyleri yapmıyorsunuz.
 - değerlerimiz ve önceliklerimiz değişecek ve daha tatmin edici olacaktır
 - etrafımızdaki dünya daha iyiye doğru değişecek
 
-
 Bunlar olası sonuçlardır. Bunları elde etmek için Tanrı ile bir ilişkiniz olmamalı (hediyeyi verenden daha çok sevmek), ancak bu size adım atma cesareti verebilir.
-
 
 ## Taptığımız şey oluruz
 
@@ -136,14 +120,7 @@ Eğer bir idolünüz olup olmadığını öğrenmek istiyorsanız, işte size k�
 - en çok neye zaman, para ve kaynak harcıyorsunuz ve bundan ne bekliyorsunuz?
 - İşler yolunda gitmezse sağlığınızı, uykunuzu, refahınızı ve hatta hayatınızı ne için riske atıyor veya feda ediyorsunuz?
 
-
 Eğer dürüst cevabınız “Tanrı ile daha derin bir ilişki kurmak” ise doğru yoldasınız demektir. Eğer değilse, belki de ilk adım olan gerçekten dürüst olduğunuz ve doğru yöne gittiğiniz içindir.
 
 Eğer Tanrı’yla olan ilişkiniz esas ise ve Tanrı tüm kutsamalarını elde etmek için bir araç değilse, o zaman gerçekten bir tapınan olursunuz. Ve onun gibi olursunuz. Beni yanlış anlamayın: Süper güçler elde etmeyeceksiniz ama onun karakterine dönüşeceksiniz ve o da size önemli şeyler emanet edecek.
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/worship.tr.md)

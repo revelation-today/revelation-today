@@ -3,13 +3,11 @@ title: "The wrath of the Lamb"
 weight: 4
 ---
 
-
 What is the wrath of the Lamb? Does it support acts of war in the name of faith?
 
 Begin with the second question: Certainly not. The New Testament makes it very clear that our warfare is spiritual.
 
 The text is “[I watched as he opened the sixth seal. There was a great earthquake. The sun turned black like sackcloth made of goat hair, the whole moon turned blood red, and the stars in the sky fell to earth, as figs drop from a fig-tree when shaken by a strong wind. The heavens receded like a scroll being rolled up, and every mountain and island was removed from its place. Then the kings of the earth, the princes, the generals, the rich, the mighty, and everyone else, both slave and free, hid in caves and among the rocks of the mountains. They called to the mountains and the rocks, ‘Fall on us and hide us from the face of him who sits on the throne and from the wrath of the Lamb! For the great day of their wrath has come, and who can withstand it?’](https://www.bibleserver.com/NIV/Revelation6%3A12-17)”
-
 
 ## The Wrath of the Lamb
 
@@ -22,7 +20,6 @@ This shows that the emphasis here is more on the people hiding because they know
 
 But only the fear of the people is described, no reaction of Jesus or God is shown.
 
-
 ## The meaning of wrath
 
 <a name="7d6e"></a>
@@ -31,7 +28,6 @@ The word used in this passage is “[orge](https://biblehub.com/greek/3709.htm)�
 On the one hand, the people are realizing what they have built up against God, but on the other hand, [God has been trying to get through to the people but there comes a point where it stops](../../../../content/bowls/expl/the-bowls-of-wrath).
 
 This should not give the impression that God is like a social worker who tries to see if he can do something and then gives up because people are unwilling. He will confront people with the consequences of their actions.
-
 
 ## The importance of wrath
 
@@ -44,16 +40,13 @@ You may find the wrath of God to be an ethically and theologically difficult top
 - You have never lived through a war or an epidemic that killed everyone because no one cared.
 - You may even have perspective and options in your life.
 
-
 Let me tell you: For most people in most of history at least one of them was known to them, e.g., [slavery is not a phenomenon of the past but is rising](https://50forfreedom.org/modern-slavery/), and behind all this are people who cause it directly or indirectly.
 
 And God acting on behalf of the suffering gives justification.
 
 We are responsible for the suffering we cause others. Our wickedness is not just wiped away by a single prayer. God wants our hearts of stone to change.
 
-
 ## Dig Deeper
 
 [Beale, Revelation, pages 395–404](../../../../about/ressources/index.html#beale_rev)
 
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-wrath-of-the-lamb.md)

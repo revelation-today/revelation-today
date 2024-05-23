@@ -2,9 +2,7 @@
 title: "Die Endzeit: Die große Trübsal und die Entrückung"
 ---
 
-
 Für manche Christen sind die Große Trübsal und die Entrückung Grundpfeiler der Bibel, andere lehnen sie völlig ab. Worum geht es dabei und was ist die Wahrheit?
-
 
 ## Die Grundidee
 
@@ -17,7 +15,6 @@ Deshalb wird Gott die Gemeinde vorher entrücken, damit sie das nicht erleiden m
 
 Um das besser zu verstehen, müssen wir die Große Trübsal genauer betrachten.
 
-
 ## Die große Trübsal
 
 <a name="bab3"></a>
@@ -28,7 +25,6 @@ Im Buch der Offenbarung gibt es jedoch einen gewissen Kontext. Im Alten Testamen
 Aber das änderte sich dramatisch, als Jesus kam. Jetzt mussten Gläubigen leiden, schon allein deshalb, weil die Christen waren. [Das Buch Offenbarung nennt den Grund: Als Jesus am Kreuz starb, verlor Satan seine Position im Himmel und versuchte, so viel Zerstörung wie möglich anzurichten, weil er nichts mehr zu verlieren hatte](https://www.bibleserver.com/SLT/Offenbarung12%2C1-12). Außerdem waren die größten Christenverfolgungen noch nicht geschehen, als das Buch geschrieben wurde.
 
 Dies ist wahrscheinlich mit der “Großen Trübsal” gemeint. Sie ist eine alltägliche Realität, aber eine Ausnahme für die Christen der westlichen Welt in dieser Zeit, aber auch heute noch eine Realität in vielen Teilen der Welt.
-
 
 ## Die Geschichte neu erzählt
 
@@ -41,11 +37,6 @@ Und hier ist die wahre Geschichte: Als Jesus das erste Mal kam, begann die groß
 
 Die Hoffnung der Kirche ist nicht, dass wir von unseren Schwierigkeiten erlöst werden, sondern dass unsere Schwierigkeiten und die Art, wie wir mit ihnen umgehen, einen Unterschied in dieser Welt machen.
 
-
-
-
-
-
 ## Zur Vertiefung
 
 <a name="aa50"></a>
@@ -53,8 +44,3 @@ Die Hoffnung der Kirche ist nicht, dass wir von unseren Schwierigkeiten erlöst 
 - [Die große Trübsal](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
 - [Die Entrückung](../../../../topics/others/expl/the-rapture)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture.de.md)

@@ -3,11 +3,9 @@ title: "Das Sendschreiben an Smyrna"
 weight: 2
 ---
 
-
 Kennst du die Gemeinde von Smyrna? Das solltest du, denn dort findest du eine Gemeinde, die in den Augen Jesu ohne Tadel ist, aber vielleicht nicht deine Traumgemeinde.
 
 [Smyrna ist eine von zwei Gemeinden, die von Jesus überhaupt nicht getadelt werden](https://www.bibleserver.com/SLT/Offenbarung2%2C8-11). Was ist ihr Geheimnis?
-
 
 ## Der historische Hintergrund
 
@@ -18,7 +16,6 @@ Im Jahre 20 n. Chr. wurde zu Ehren des Kaisers ein Tempel errichtet und Smyrna w
 
 Über den Ursprung der Gemeinde ist wenig bekannt, vielleicht wurde sie von Paulus in Verbindung mit Ephesus gegründet.
 
-
 ## Jesus Sicht
 
 <a name="aa4a"></a>
@@ -27,9 +24,7 @@ Jesus begegnet der Gemeinde als der Auferstandene, der den Tod überwunden hat. 
 - Sie hat finanzielle Schwierigkeiten, vermutlich weil sie nicht zu einer Handelsgruppe gehört.
 - Es gibt einige Juden, die die Gemeinde verleumden, und das ist wahrscheinlich der Grund, warum einige ins Gefängnis gehen (Satan wird einige von euch ins Gefängnis werfen, die Juden sind eine Synagoge Satans).
 
-
 Der Hinweis auf die [10 Tage](https://www.bibleserver.com/SLT/Offenbarung2%2C10) bezieht sich auf die Geschichte von [Daniel, der nur Gemüse aß, um sich nicht durch das unreinen (den Götzen geweihte) Fleisch an der Tafel des Königs zu verunreinigen](https://www.bibleserver.com/SLT/Daniel1%2C8-14).
-
 
 ## Die Perspektive
 
@@ -44,4 +39,3 @@ Je mehr wir versagen, desto mehr kann Jesus wirken. Es besteht die Gefahr, dass 
 
 [Gordon Fee, Revelation, Seiten 29–30](../../../../../about/ressources/index.html#fee_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-smyrna.de.md)

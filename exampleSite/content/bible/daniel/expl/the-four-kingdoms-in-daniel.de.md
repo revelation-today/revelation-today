@@ -3,9 +3,7 @@ title: "Die vier Königreiche in Daniel"
 weight: 20
 ---
 
-
 Das Buch Daniel scheint die Quelle für viele endzeitliche Interpretationen zu sein. Schauen wir uns diese näher an.
-
 
 ## Die vier Königreiche
 
@@ -38,7 +36,6 @@ Schließlich kommen die Römer.
 
 Die Römer besiegten die letzten griechischen Reiche mit eiserner Härte. Eisen wird auch [in Kapitel 2 als Material für das letzte der vier Reiche](https://www.bibleserver.com/SLT/Daniel2%2C40) verwendet.
 
-
 ## Das Ende der Reiche
 
 <a name="415e"></a>
@@ -50,7 +47,6 @@ Wenn wir uns Kapitel 7 anschauen, sehen wir, wie der [Menschensohn die Reiche ü
 
 Im Kontext von Daniel ist es Israel, weil es [wie der Menschensohn](https://www.bibleserver.com/SLT/Daniel7%2C14) das [Königreich empfängt](https://www.bibleserver.com/SLT/Daniel7%2C18). Dies hat sich in Jesus erfüllt, der sich selbst [ausschließlich als Menschensohn bezeichnet hat](https://www.bibleserver.com/search/SLT/son%20of%20man).
 
-
 ## Aber da ist mehr
 
 <a name="e6a6"></a>
@@ -60,7 +56,6 @@ Wir haben gesehen, dass die Kapitel 2 und 7 von denselben 4 Reichen handeln und 
 - Der Stein in Kapitel 2 (das erste Kommen Jesu) hat nicht die ganze Statue zerstört (das Römische Reich existierte noch 400 Jahre lang).
 - Die Beschreibung des vierten Tieres in Kapitel 7 ist keine vollständige Beschreibung des Römischen Reiches (schrecklich und furchterregend, anders als alle anderen und mit 10 Hörnern), aber dieses Reich war nicht grundlegend anders als die anderen davor, und die 10 Hörner konnten in der römischen Geschichte nie mit Sicherheit identifiziert werden.
 - Die Szene in Kapitel 7, in der der Menschensohn kommt, klingt wie das Jüngste Gericht, aber das macht wenig Sinn, wenn es sich um das Ende des Römischen Reiches handelt.
-
 
 Viele haben darüber nachgedacht, hier sind meine Gedanken (basierend auf den Gedanken anderer)
 
@@ -76,5 +71,3 @@ Es gibt auch Diskussionen darüber, wer die zehn Könige und die drei Hörner in
 
 [Dabarlines, The book of Daniel, Seiten 38–46](../../../../about/ressources/index.html#dabar_daniel)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-four-kingdoms-in-daniel.de.md)

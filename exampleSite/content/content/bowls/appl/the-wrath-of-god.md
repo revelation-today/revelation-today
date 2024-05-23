@@ -3,15 +3,12 @@ title: "The wrath of God"
 weight: 1
 ---
 
-
 This is very it’s finally getting serious.
-
 
 ## Our text
 
 <a name="4939"></a>
 We are moving quickly forward and reached [chapter 15](https://www.bibleserver.com/NIV/Revelation15) and [16](https://www.bibleserver.com/NIV/Revelation16).
-
 
 ## The big question
 
@@ -21,7 +18,6 @@ The question is, how long is God going to wait? When will the point of harvest b
 Therefore, the church must give its testimony based on its worship of God in endurance, and God is squeezing as much as possible in the meantime until no more squeezing is possible.
 
 You may have noticed that the trumpets and the bowls have many similarities because they are both based on the plagues in Egypt. God and the Church are working together to save as many as possible: Our prayer moves God, and God’s heart moves our prayer.
-
 
 ## The bowls
 
@@ -36,8 +32,6 @@ And this is what the bowls are about
 - So during the sixth bowl, God gives these people according to their deception and they gather at Armageddon. Armageddon is not a place of battle, but the place of the defeat of the strong against the obviously weak. It is the place of judgment for the devil.
 - And in the seventh bowl, Satan’s kingdom is finally destroyed.
 
-
-
 ### Reflection
 
 <a name="d5ac"></a>
@@ -46,12 +40,6 @@ And this is what the bowls are about
 - What are your hopes for how specific situations in this world might change for the better? Do you believe these are God’s ways?
 - Do a study on Armageddon below. What could that be today?
 
-
-
-
-
-
-
 ## Digging deeper
 
 <a name="06f1"></a>
@@ -59,10 +47,3 @@ And this is what the bowls are about
 - [The meaning of Armageddon](../../../../content/bowls/expl/the-key-to-armageddon)
 - [Armageddon and the battle of Karkemish](../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/appl/the-wrath-of-god.md)

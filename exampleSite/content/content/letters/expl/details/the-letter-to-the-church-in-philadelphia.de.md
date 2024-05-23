@@ -3,9 +3,7 @@ title: "Das Sendschreiben an Philadelphia"
 weight: 6
 ---
 
-
 [Philadelphia](https://www.bibleserver.com/SLT/Offenbarung3%2C7-13): Die Stadt mit dem Schlüssel Davids. Aber was für eine Tür ist das? Evangelisation, Beziehungen, …? Lies weiter, um zu erfahren, warum die Gemeinde nicht getadelt wird.
-
 
 ## Der historische Hintergrund
 
@@ -17,7 +15,6 @@ Die Stadt lag am Rande eines Flussbeckens, an der Kreuzung mehrerer Handelsstra�
 Auf der anderen Seite wurde die Stadt ständig von Erdbeben heimgesucht, bis zu dem Punkt, dass der Stadt fünf Jahre lang die Steuern erlassen wurden, weil sie so sehr mit dem Wiederaufbau beschäftigt war.
 
 Im Jahr 60 n. Chr. gab es ein großes Erdbeben, und im Jahr 92 n. Chr. erließ der Kaiser ein Dekret, das die Weinproduktion einschränkte (damit mehr Getreide für die Armee angebaut werden konnte).
-
 
 ## Jesu Sicht
 
@@ -32,14 +29,12 @@ Die andere Herausforderung kommt von Juden, ähnlich wie in [Smyrna](https://www
 
 Sie sind wahre Überwinder. Was ist ihr Geheimnis? [Sie harren au](https://www.bibleserver.com/SLT/Offenbarung3%2C10)s.
 
-
 ## Die Verheißung
 
 <a name="b146"></a>
 Gott will sie zu Säulen im Tempel machen. So brauchen sie die Gegenwart Gottes nie mehr verlassen, und er kann für sie sorgen. Der Name meines Gottes und die Stadt meines Gottes bezieht sich auf [Hesekiel, wo der Name der Stadt ist: “Der Herr ist hier](https://www.bibleserver.com/SLT/Hesekiel48%2C35)”.
 
 Diese Verheißung ist wahrscheinlich auch der Grund, warum sie so lange durchgehalten haben: Ihr sehnlichster Wunsch, Jesus nahe zu sein.
-
 
 ## Die Stunde der Versuchung
 
@@ -50,9 +45,7 @@ Was ist die Stunde der Versuchung, die über die ganze Erde kommt? Und wie will 
 
 ## zur Vertiefung
 
-
 [Beale, Revelation, Seiten 283–296](../../../../../about/ressources/index.html#beale_rev)
 
 [Gordon Fee, Revelation, Seiten 50–51](../../../../../about/ressources/index.html#fee_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-philadelphia.de.md)

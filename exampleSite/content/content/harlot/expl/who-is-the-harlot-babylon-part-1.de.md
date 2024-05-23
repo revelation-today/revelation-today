@@ -3,7 +3,6 @@ title: "Wer ist die Hure Babel: Teil 1"
 weight: 2
 ---
 
-
 Es ist nicht der Papst. Es sind nicht die Wirtschaftsbosse. Es kann jeder sein, sogar die Gemeinde.
 
 Das Kapitel über die Hure Babel ist schwer zu verstehen, [weil es so viele Charaktere darin gibt](https://www.bibleserver.com/SLT/Offenbarung17). Machen wir uns einen kleinen Überblick.
@@ -14,12 +13,10 @@ Das Tier kämpft gegen die Heiligen, aber Jesus kämpft an deren Stelle und am E
 
 Das sind zu viele Charaktere, aber sie sind alle notwendig, um die Hure und ihr Netzwerk zu beschreiben. In diesem Kapitel haben wir alles, was wir brauchen, um Satan wirklich zu beschreiben. Aber dazu müssen wir das herunterbrechen.
 
-
 ## Das scharlachrote Tier
 
 <a name="0e13"></a>
 Das Tier hat viele Parallelen zu dem ersten Tier in Kapitel 13
-
 
 | Das erste Tier aus Offenbarung 13 | Das Tier auf Offenbarung 17 |
 |-----------------------------------|-----------------------------|
@@ -39,7 +36,6 @@ Das Tier wird in Vers 8 und 11 beschrieben als das, was
 
 was eine beißende Ironie des Tieres ist, denn es ist das Gegenstück zu dem ewigen unveränderlichen Gott aus Offb.1/8, “[der ist und der war und der kommt, der Allmächtige](https://www.bibleserver.com/SLT/Offenbarung1%2C8)”.
 
-
 ## Die sieben Hügel und die sieben Könige
 
 <a name="09b7"></a>
@@ -51,18 +47,15 @@ Hügel können aber auch als Königreiche bedeuten (und da die Hügel als König
 
 [Das Tier hingegen kommt als das Achte und ist einer der Sieben](https://www.bibleserver.com/SLT/Offenbarung17%2C11). Es ist ein Beispiel dafür, dass das erste Tier menschlich ist (wie der Kaiser). Da Jesus am achten Tag auferstanden ist (ein Tag nach dem Sabbat) und wir das Thema der Auferstehung in Verbindung mit dem Tier bereits in Kapitel [13](https://www.bibleserver.com/SLT/Offenbarung13%2C3-4) und [16](https://www.bibleserver.com/SLT/Offenbarung16%2C13) behandelt haben ([Frösche sind Zeichen für die Auferstehung](../../../../content/bowls/expl/the-bowls-of-wrath)), ist es klar, warum das Tier als der achte König erscheint: Es ist das Zeichen der Unbesiegbarkeit. Aber das stimmt nicht, denn das Tier wurde bereits als das identifiziert [“das war und nicht ist und ins Verderben läuft“, mit anderen Worten, das Tier ist eines der Sieben](https://www.bibleserver.com/SLT/Offenbarung17%2C11) — kein Superheld.
 
-
 ## Die 10 Könige
 
 <a name="cc5d"></a>
 [Die 10 Könige sind die 10 Hörner](https://www.bibleserver.com/SLT/Offenbarung17%2C12), die zusammen wirken und dem Tier ihre Macht geben, d.h. sie folgen seiner Aganda. Sie zeigen die Macht des Tieres über die (potentiell) ganze Welt zu einer bestimmten Zeit. Die Zahl 10 ist wahrscheinlich wieder symbolisch. Im Kontext der ersten Leser könnte es sich um die Könige der römischen Provinzen handeln.Ihr Ziel ist es, Krieg gegen die Heiligen zu führen, aber die Dinge entwickeln sich anders, wie wir sehen werden.
 
-
 ## Die Hure
 
 <a name="f764"></a>
 Sie hat viele Parallelen zur Braut und zeigt den Unterschied zu ihr (Kapitel 21) aber auch zu der Frau in Kapitel 12
-
 
 | Ehefrau in Kapitel 12 | Hure in Kapitel 17 | Braut in Kap.19 und 21 |
 |--------------------|---------------------|-----------------------|
@@ -78,7 +71,6 @@ Sie hat viele Parallelen zur Braut und zeigt den Unterschied zu ihr (Kapitel 21)
 | | Bedeckt mit <span style="color:green;">Juwelen</span> </br> [Bekleidet mit Leinwand](https://www.bibleserver.com/SLT/Offenbarung17%2C4) ([Rev.18/16](https://www.bibleserver.com/SLT/Offenbarung18%2C16)) </br>die <span style="color:red;">ihre <span style="color:red;">Korruption</span> bedeckt | [Bedeckt mit kostbaren Juwelen](https://www.bibleserver.com/SLT/Offenbarung21%2C2) ([Rev.21 /9-23](https://www.bibleserver.com/SLT/Offenbarung21%2C9-23)) </br> [Bekleidet mit reinem weißen Tuch](https://www.bibleserver.com/SLT/Offenbarung19%2C8) ([Off.18/16](https://www.bibleserver.com/SLT/Offenbarung18%2C16)) </br> das <span style="color:red;">Gottes Herrlichkeit und <span style="color:red;">Gerechtigkeit der Heiligen</span> widerspiegelt |
 
 und viele Gemeinsamkeiten mit Isebel, die auch Probleme in [Thyatira](https://www.bibleserver.com/SLT/Offenbarung2%2C20) gemacht hatte.
-
 
 | Die Hure   | Isebel |
 |------------|--------|
@@ -99,7 +91,6 @@ und viele Gemeinsamkeiten mit dem zweiten Tier in Kapitel 13.
 
 ## Die Hure und das zweite Tier
 
-
 | Das zweite Tier aus Offenbarung 13 | Die Hure   |
 |------------------------------------|------------|
 | [<span style="color:green;">Kommt von der Erde</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C11) | [<span style="color:green;">Sitzt in der Wüste</span>](https://www.bibleserver.com/SLT/Offenbarung17%2C3) |
@@ -115,7 +106,6 @@ Die Macht der Hure wird hier auch ins umgekehrt: Während sie in Kapitel 13 Feue
 
 Während das erste Tier die Hure in Kapitel 17 unterstützt, ist es in Kapitel 13, das zweite, dass das erste Tier unterstützt.
 
-
 ## Zum Weiterlesen
 
 - [Wer ist die Hure: Teil 2](../../../../content/harlot/expl/who-is-the-harlot-babel-part-2)
@@ -125,6 +115,3 @@ Während das erste Tier die Hure in Kapitel 17 unterstützt, ist es in Kapitel 1
 
 [Beale, Revelation, Seiten 847–890](../../../../about/ressources/index.html#beale_rev)
 
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-1.de.md)

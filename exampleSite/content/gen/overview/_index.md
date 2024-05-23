@@ -2,9 +2,7 @@
 title: "The main topics"
 ---
 
-
 Let’s start simple. Maybe you have never read the book and have only heard about it. This is the perfect place for you to start. I will introduce you to some of the main concepts and this may give you a good understanding to read the book on your own.
-
 
 ## What’s the story?
 
@@ -17,7 +15,6 @@ The book is partly a parody:
 - It challenges religious beliefs (that a strong savior is coming who, together with a strong church, will conquer evil in a military way). The victory comes in what seems to be weak, but conquers the world.
 - It exaggerates because it wants a reaction from the readers.
 
-
 The story is not about God unleashing many catastrophes to punish the world, but about God and the Church taking action to save people. OK, this sounds a bit extreme, but I hope it will become clearer as we go deeper into the subject.
 
 There are actually four parts to the story:
@@ -27,7 +24,6 @@ There are actually four parts to the story:
 - Ch.4–20: How God intends to overcome this situation
 - Ch.21–22: What is the goal we are aiming for
 
-
 Well the third part is a bit longer, so lets have a look at this structure
 
 - Ch.4: The throne of God and the worship — The base of all actions
@@ -35,9 +31,7 @@ Well the third part is a bit longer, so lets have a look at this structure
 - Ch.8–14: The trumpets and its aftermath: What do our prayers cause?
 - Ch.15–20: The bowls of wrath: Gods final actions
 
-
 The question is: How is God going to fulfill his plan of salvation, and what is the role of the church in that?
-
 
 ## The main players
 
@@ -49,11 +43,9 @@ The book speaks about roughly four main players
 - Devil and his demons (the bad in the spiritual)
 - People that are following the devil (the bad in the “natural”)
 
-
 Just as the spiritual world is divided, and so is the “natural” world, so the intention is for all people to join the good side (in the “natural” world).
 
 The book of Revelation knows only these four categories and works with opposites (lamb and dragon, Babel and Jerusalem, angels and demons, …) and leaves no room for gray areas — either your king is Jesus or your king is the emperor in Rome, you worship Jesus or you worship the devil.
-
 
 ## The challenge
 
@@ -66,7 +58,6 @@ It was no different 2000 years ago. There was the Roman Empire, which claimed to
 
 Well, the answer is simple: The problem is the church because it is not living up to its vision. But Revelation wants to change that: Make the church what it should be, to overcome evil and save people.
 
-
 ## Jesus and the church
 
 <a name="9799"></a>
@@ -78,7 +69,6 @@ If you ask who is the hero of the book, it is clear: Jesus. Right at the beginni
 - His story marks the center of the book
 - He will fight the harlot and marry the bride
 - He will come and judge the earth.
-
 
 And he is the one the devil is trying to copy.
 
@@ -96,9 +86,7 @@ On the other hand you see the devil in [chapter 13](https://www.bibleserver.com/
 - signs and wonders
 - the whole world submits
 
-
 But that is just the outside. But a closer look shows that this is not Jesus and not what the church should be at all. Do you see why?
-
 
 ## The messianic war
 
@@ -116,11 +104,9 @@ Even though the book has apocalyptic elements, it challenges that idea.
 - The harlot is [destroyed by the beast](https://www.bibleserver.com/NIV/Revelation17%3A16) on which she [sat](https://www.bibleserver.com/NIV/Revelation17%3A3).
 - Jesus comes and [kills the armies with the sword of his mouth](https://www.bibleserver.com/NIV/Revelation19%3A21).
 
-
 This means that the “apocalyptic events” are probably very different than we think. The wording of other passages also casts doubt on war and disaster being the main theme of the book.
 
 The main themes of the book are worship, true witness, and perseverance. They are talking about everyday life.
-
 
 ## The Antichrist
 
@@ -136,8 +122,6 @@ These chapters are more about the pitfalls of the church and what is not essenti
 - Although the beast seems to control the world, it is the saints who do it.
 - There are two different words used for conquering, one for the beast and one for the Church, which show different ways.
 
-
-
 ## The weapons of the saints
 
 <a name="1077"></a>
@@ -150,8 +134,6 @@ The weapons are very different and have a different purpose than the beast. It i
 - Prayer: It is not mentioned often, in fact only once, but in a central part: It set the trumpets in motion.
 - Conquering and enduring: The saints take time to conquer and often have to persevere. They don’t push or force things, but they persevere.
 
-
-
 ## Conclusion
 
 <a name="5eda"></a>
@@ -159,5 +141,3 @@ There are many thoughts about what can be done to make this world a better place
 
 But is this book not about listing disasters and God’s wrath coming down on earth? Well, there are a lot of pictures used to spur people into action. This is a book designed to provoke.
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/overview/appl/the-main-topics.md)

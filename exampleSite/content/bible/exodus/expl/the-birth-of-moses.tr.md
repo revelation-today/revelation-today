@@ -3,11 +3,9 @@ title: "Musa’nın hikayesi"
 weight: 20
 ---
 
-
 Musa’nın hikayesi antik dünyada bilinen tüm kahramanlık hikayelerinin senaryosuna aykırıdır, ancak bu bir başarı hikayesidir.
 
 Bu hikâye Kutsal Kitap’ta sadece iki bölüm uzunluğundadır ve daha önce okunmaya değerdir. İlk olarak, [ikinci bir Hiksos’tan](../../../../bible/exodus/expl/the-story-before-the-exodus) kaçınmak için [İsrailoğullarını küçük tutmanın hikâyesi](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1) ve daha sonra [Musa’nın hikâyesi](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2)
-
 
 ## İkinci bir Hyksos’a karşı mücadele
 
@@ -22,8 +20,6 @@ Firavun İsraillilerin büyük bir halk olmasını engellemek için her şeyi ya
 | yeni doğan bebekler Nil’e atılmalı | Musa, Nuh’un Gemisi ile [aynı anlama](https://biblehub.com/hebrew/strongs_8392.htm) gelen bir sepetin içinde Nil nehrine bırakılır ve kurtarılır. |
 | Musa hikâyenin anahtarıdır | Firavun’u alaşağı edecek kişidir[Firavunun kızı tarafından büyütülür ve annesine onu büyütmesi için para ödenir](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2%3A5-10) |
 
-
-
 ## Musa’nın hikayesi
 
 <a name="ae0c"></a>
@@ -36,8 +32,6 @@ Musa’nın hikayesi, eski çağlardaki bir kahramanlık hikayesinin tam tersidi
 | Çocuğun kimliği bilinmiyor ve ancak sonunda ortaya çıkıyor | Musa’nın kimliği [en başından beri Firavun’un kızı tarafından bilinmektedir](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2%3A6). |
 | gerçek kimliğinin keşfi bir dönüm noktasıdır ve ona ilgili statüyü sağlar | Musa’nın gerçek kimliği başını belaya sokar ve hayatta kalmak için kaçması gerekir. |
 | hikayenin nedeni kahramanın güç iddiasını göstermektir | Öykü Musa’nın iddiasını değil, Tanrı’nın sağlayışını ve kontrolünü gösterir. |
-
-
 
 ## Musa’nın diğer öyküsü
 
@@ -58,7 +52,3 @@ Sonunda her şey yoluna girer çünkü hikâyenin gerçek kahramanı Musa değil
 
 [Nahum Sarna, Exodus, sayfalar 27–37](../../../../about/ressources/index.html#sarna_exo)
 
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-birth-of-moses.tr.md)

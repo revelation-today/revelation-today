@@ -3,9 +3,7 @@ title: "Vizyon"
 weight: 3
 ---
 
-
 Vahiy Kitabı büyük bir patlamayla başlar. Yuhanna kandillerin arasında yürüyen ve elinde başlangıçlar olan inanılmaz bir figür görür. Bu görümün bir şekilde kitabın kapsamını belirlediği açık olsa da, asıl mesajın ne olduğunu merak edebilirsiniz.
-
 
 ## Genel Bakış
 
@@ -15,8 +13,6 @@ Yuhanna (büyük olasılıkla havari) [İsa’yı takip eden radikal bir yaşam 
 - görümün kendisi (12–16. ayetler)
 - onun tepkisi (ayet 17a)
 - ve yorum (17b’den 20'ye kadar olan ayetler)
-
-
 
 ## Vizyon
 
@@ -29,15 +25,12 @@ Vizyonda bazı unsurlar yansıtılmaktadır ki bunlara kısaca göz atacağız:
 - Beyaz saç: Beyaz saç Daniel 7'deki görümü yansıtır.
 - Alev alev yanan ateş gibi gözler, tunç gibi bacaklar, yüksek ses: Bunların hepsi Yuhanna’nın son görüm için hazırlandığı ve görümün [meleksi bir savaşçı olan bir figür](https://www.bibleserver.com/TR/Daniel10%3A20) tarafından verildiği [Daniel 10'un özellikleridir](https://www.bibleserver.com/TR/Daniel10%3A7).
 
-
 Burada İnsanoğlu, Daniel 7'deki “Günlerin Eskisi (Tanrı)” ile birleştirilmiştir.
-
 
 ## Yanıt
 
 <a name="d80b"></a>
 Yuhanna, [Daniel’in görümlerine](https://www.bibleserver.com/TR/Daniel10%3A8-19) benzer şekilde yere yığılır.
-
 
 ## Yorumlama
 
@@ -51,11 +44,9 @@ Kilise, aynı zamanda iki ana ortak noktası olan iki farklı resimle tanımlanm
 - ikisi de ışık kaynağıdır: yıldızlar yaratılıştaki yönelim olarak, lamba ise tapınaktaki tek ışık kaynağı olarak durur
 - Her ikisinin de İsa’ya ihtiyacı vardır: yıldızlar İsa’nın elinde olmadıkları zaman parlayamazlar, lamba da ancak yağ (Kutsal Ruh) olduğu zaman ayakta durur.
 
-
 Kilisenin amacı dünyaya ışık olmaları, dünyanın kurtulmasıdır. Kitabın amacı budur ve kilisenin sınandığı şey de budur: Kilise ulusları ikna eden bir tanıklık mı?
 
 ## Daha derine inmek
 
 [Beale, Revelation, sayfalar 205–222](../../../../about/ressources/index.html#aune_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-vision.tr.md)

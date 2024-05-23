@@ -4,7 +4,6 @@ title: "Die Geschichte von Jesus (Kap.12)"
 weight: 11
 ---
 
-
 Im Zentrum des Buches steht eine Geschichte, die wir sehr gut kennen. 
 Es ist die Geschichte von Jesus und seinem Kommen auf die Erde vor 2000 Jahren.
 

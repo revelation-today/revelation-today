@@ -3,12 +3,9 @@ title: "A different Christmas story"
 weight: 2
 ---
 
-
 As a Christian, you may be very familiar with the classic Christmas story from [Luke](https://www.bibleserver.com/NIV/Luke2), a somewhat romantic tale of shepherds and a baby in a barn and three far-flung travelers who followed a mysterious star.
 
 This story shows a certain aspect of Christmas, and we’ve heard it so many times that we don’t hear the story at all. Perhaps it is time to hear another Christmas story from the Bible. I want to take you to Revelation, chapter 12.
-
-
 
 ## The story
 
@@ -43,7 +40,6 @@ So who is the story talking about?
 - For Eve, one could see a connection between her and the sun, moon, and stars, since Adam and Eve are mentioned along with them in the [creation](http://Genesis 1). But it remains open why our story here refers to 12 stars!
 - The best match is Israel, who not really a woman on the first sight, but is referred to in the Bible as [daughter Zion](https://www.bibleserver.com/NIV/Isaiah62%3A11). When we look at [Joseph’s second dream](https://www.bibleserver.com/NIV/Genesis37%3A9-10), we see a very close parallel. There he speaks of sun and moon and 11 stars and his father interprets this to mean his 11 brothers and his parents (including Joseph makes it 12 stars). And these 12 brothers are (more or less) the 12 tribes of Israel.
 
-
 ## Finally, the story
 
 So what is the story of Rev.12/1–5?
@@ -72,5 +68,3 @@ It is not explained, how Jesus overcame this, but this tension between the seemi
 
 [Beale, Revelation, pages 621–681](../../../../about/ressources/index.html#beale_rev)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/expl/a-different-christmas-story.md)

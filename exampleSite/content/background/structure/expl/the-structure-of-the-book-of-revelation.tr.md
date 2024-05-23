@@ -3,17 +3,13 @@ title: "Vahiy Kitabı’nın yapısı"
 weight: 10
 ---
 
-
 Vahiy Kitabı ilk bakışta çok düzensiz görünür. Felaketler birbiri ardına gelir ve sonra tekrar başlar. Ancak daha yakından bakarsak sanatsal bir yapı ve kasıtlı bir çalışma görürüz.
-
 
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="22fa"></a>
 - [Kitabın tarihsel arka planı](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 - [Ne tür bir kitap bu?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-
-
 
 ## Meydan okuma
 
@@ -24,7 +20,6 @@ Kitap Tanrı’nın ne yaptığı ve kiliseden ne beklediği ile başlar: ışı
 
 Bundan sonra [kiliseler yargılanır](../../../../content/letters/expl/the-letters-to-the-seven-churches) ve sonuç iç karartıcıdır: Kiliselerden sadece ikisi suçsuzdur ve çok önemli olmayan pozisyonlarda listelenmiştir, ikisi mektupların başında ve sonunda açık bir felakettir ve merkezde İsa’nın onları başkaları için kötü örnek olarak kullanacağı bir kilise Simon sorunu vardır.
 
-
 ## Cevap
 
 <a name="3c72"></a>
@@ -34,7 +29,6 @@ Buradan tüm mühürler, borazanlar ve kaseler başlayacak, her biri taht odası
 
 Üç serinin her birinde derinleştirici bir ara (mühürler ve trompetler) ya da bir konuyu derinleştiren bir ek (trompetler ve kaseler) vardır. Çanaklarla ilgili ek Yeni Yeruşalim’in son bölümüne kadar uzanmaktadır.
 
-
 ## Mühürler
 
 <a name="e9dc"></a>
@@ -43,7 +37,6 @@ Buradan tüm mühürler, borazanlar ve kaseler başlayacak, her biri taht odası
 Bölüm 7'de Tanrı’nın [ordusunu toplamasıyla](../../../../content/army/expl/the-144000) kesintiye uğrar.
 
 Aynı zamanda borazanların açılışı olan yedinci mühürle sona ermektedir.
-
 
 ## Trompetler
 
@@ -58,7 +51,6 @@ Ama insanlar bunu kabul etmek istemezler. Bu yüzden Yuhanna tekrar [peygamberli
 
 Tüm öykü Tanrı’nın sadık ordusunun (onları 7. bölümde zaten görmüştük) ve onların ödülünün sunulması ve şeytana sadık herkesin yargılanması ve onların “ödülü” ile sona erer.
 
-
 ## Kaseler
 
 <a name="b245"></a>
@@ -71,9 +63,7 @@ Ancak buradaki ekte bu konu çok daha ayrıntılı olarak ele alınmaktadır:
 - Şeytanların krallığının yıkılışı 19. ve 20. bölümlerde 1000 yıllık krallıkla çevrili olarak iki kez bildirilir.
 - Son olarak fahişenin karşıtı olarak gelin — fahişenin karşıtı — tüm görkemiyle sunulur.
 
-
 Kitap, okuyucuya bu konunun ne kadar ciddi olduğunu hatırlatmak için bazı son uyarılarla kapanıyor.
-
 
 ## Diğer okumalar
 
@@ -95,15 +85,7 @@ Kitap, okuyucuya bu konunun ne kadar ciddi olduğunu hatırlatmak için bazı so
 - Bölüm 20: [1000 yıllık krallık](../../../../content/1000y/expl/the-thousand-year-kingdom)
 - Bölüm 21: [Yeni Kudüs](../../../../content/paradise/expl/the-new-jerusalem)
 
-
-
 ## Daha fazla kazma
 
 [Beale, Revelation, sayfalar 108–170](../../../../about/ressources/index.html#bealy_rev)
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-structure-of-the-book-of-revelation.tr.md)

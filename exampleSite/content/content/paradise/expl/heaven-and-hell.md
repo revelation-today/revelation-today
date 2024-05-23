@@ -3,9 +3,7 @@ title: "Heaven and hell"
 weight: 3
 ---
 
-
 What is heaven and hell? Do all people go to heaven? How can a good God send people to hell?
-
 
 ## Heaven and the New Jerusalem
 
@@ -20,7 +18,6 @@ In addition, the language in chapter 21 is very much related to the temple, [the
 
 So the New Jerusalem or Heaven is described as the place of most intimacy with God.
 
-
 ## Commitment
 
 <a name="b4ca"></a>
@@ -29,7 +26,6 @@ The theme of the temple is also reflected in chapter eleven, where this place is
 While the New Jerusalem is described as this cube, the whole place outside is described as hell. So you are either all the way in or all the way out. Isn’t that a bit extreme?
 
 Not really. Because he is talking about priority. If you are not fully committed to something, there is something more important and/or you do not fully trust it. And in any relationship, this is the key.
-
 
 ## What is hell about?
 
@@ -44,9 +40,3 @@ God will not force anyone to have fellowship with Him. If we don’t want to be 
 
 Hell is often used as a thread to create fear: If you do not repent and become a Christian, you will go to hell. Well, according to what we have seen above, this is not really wrong, but the point is [that fear and manipulation are attributes of the beast (in Revelation)](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation), but the attribute of the church is mainly her [testimony](../../../../topics/power/short/the-power-of-testimony) as [witness](../../../../content/witnesses/expl/the-two-witnesses).
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/heaven-and-hell.md)

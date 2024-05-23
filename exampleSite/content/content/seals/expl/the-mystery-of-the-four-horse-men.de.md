@@ -3,9 +3,7 @@ title: "Das Geheimnis der vier apokalyptischen Reiter"
 weight: 3
 ---
 
-
 In der Offenbarung sehen wir vier apokalyptische Reiter, die Krieg, Hunger und Tod über die ganze Erde bringen. Der erste Reiter passt jedoch nicht ins Bild und wird kontrovers diskutiert.
-
 
 ## Gut, davor zu lesen
 
@@ -13,13 +11,10 @@ In der Offenbarung sehen wir vier apokalyptische Reiter, die Krieg, Hunger und T
 - [Historischer Hintergrund des Buches](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 - [Was für ein Buch ist die Offenbarung?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 
-
-
 ## Der Text
 
 <a name="19b5"></a>
 Hier ist zunächst einmal der [Text](https://www.bibleserver.com/SLT/Offenbarung6%2C1-8).
-
 
 ## Interpretationen
 
@@ -28,8 +23,6 @@ Es gibt zwei wesentliche Interpretationen der Reiter, wobei der erste Reiter der
 
 - Der erste Reiter ist gut und steht für [die Verbreitung des Evangeliums in der ganzen Welt](https://www.bibleserver.com/SLT/Markus13%2C10).
 - Der erste Reiter ist böse, wie auch die anderen Reiter.
-
-
 
 ## Erste Beobachtungen
 
@@ -40,7 +33,6 @@ Wenn wir uns den gesamten Text anschauen, gibt es starke Parallelen.
 - [Einige Kapitel später sind es vier Streitwagen mit verschiedenfarbigen Pferden, die die Erde durchstreifen](https://www.bibleserver.com/SLT/Sacharja6%2C1-8).
 - Die Beschreibung der [vier Plagen Gottes](https://www.bibleserver.com/SLT/Hesekiel14%2C12-23) (Schwert, Hungersnot, wilde Tiere und Pest) weist sehr starke Parallelen zu den vier Reitern auf.
 
-
 Wenn wir die Reiter betrachten, sehen wir einige Gemeinsamkeiten, aber auch einige Unterschiede.
 
 - Alle vier werden aufgefordert, etwas zu tun, sie handeln nicht aus eigenem Antrieb.
@@ -48,8 +40,6 @@ Wenn wir die Reiter betrachten, sehen wir einige Gemeinsamkeiten, aber auch eini
 - Nur der erste Reiter bekommt eine Aufgabe (“um zu überwinden”), die anderen bekommen keine Handlungsanweisung.
 - Die Tätigkeit des ersten Reiters ist sehr unspezifisch (zu überwinden), während die Tätigkeit der anderen ziemlich klar ist (Krieg, Hunger und Tod bringen).
 - Der dritte Reiter hat kein “und es wurde ihm gegeben”, was eine göttliche Aktivität oder Autorisierung darstellt, aber er hat ein Werkzeug in der Hand. Stattdessen wird das Ergebnis seiner Handlung durch eine Aussage vom Thron in der Mitte der vier Wesen gemacht.
-
-
 
 ## Das Geheimnis des dritten Reiters
 
@@ -62,9 +52,7 @@ Um diesen Abschnitt zu verstehen, ist ein wenig Hintergrundwissen erforderlich:
 - Zum Vergleich: Ein Maß Weizen reicht für eine Person für einen Tag, drei Maß Gerste für eine Familie für drei Tage, wobei Gerste eigentlich Viehfutter ist. Diese Beschreibung deutet darauf hin, dass die Preise um das 8- bis 16-fache überhöht sind.
 - Wein und Öl sind im Kontext der Apokalypse Luxusgüter. Es gibt hier keinen Hinweis auf Ölung oder Abendmahl.
 
-
 Diese Stelle beschreibt keine Hungersnot im Allgemeinen, sondern eine ungerechte Behandlung der Armen. Während die Luxusgüter verschont bleiben (Verteuerung und Verknappung), steigen die Preise für Grundnahrungsmittel ins Unbezahlbare. Deshalb ist der Ruf der vier Geschöpfe als Ruf nach Gerechtigkeit zu verstehen.
-
 
 ## Das Geheimnis des ersten Reiters
 
@@ -79,7 +67,6 @@ Es gibt einige gute Argumente, warum der erste Reiter gut ist:
 - Er ist der weiße Reiter und weiß ist in anderen Teilen des Buches positiv.
 - Er macht nichts Schlechtes (überwindet), wie die anderen etwas Schlechtes bewirken, also [könnte es die Verkündigung des Evangeliums sein, bevor all die schlimmen Dinge geschehen](https://www.bibleserver.com/SLT/Markus13%2C10).
 
-
 Auf der anderen Seite gibt es Parallelen, die genau das Gegenteil behaupten:
 
 - Gott wird den [Bogen aus der Hand von Gog und Magog schlagen](https://www.bibleserver.com/SLT/Hesekiel39%2C3), wobei der Bogen hier die Waffe des Endzeitgegners ist
@@ -88,13 +75,10 @@ Auf der anderen Seite gibt es Parallelen, die genau das Gegenteil behaupten:
 - Da die Referenz der vier Pferde und Wagen in Sacharja eine Einheit bilden, müssen auch diese vier eine Einheit bilden und alle oder keiner von ihnen zu Gott gehören.
 - Nicht nur die ersten vier Reiter, sondern auch die ersten vier Posaunen und die ersten vier Schalen bilden eine Einheit. Auch deshalb sind die ersten vier Reiter eine Einheit.
 
-
 Das ist verwirrend. Warum wird in den Referenzen sowohl auf eine gute als auch auf eine schlechte Bedeutung verwiesen? Wir müssen uns die Verweise noch einmal ansehen:
 
 - Die erste Verwendung eines Bogens findet sich in der [Geschichte Jakobs, der sich durch Täuschung den Segen seines Vater erschleicht](https://www.bibleserver.com/SLT/1.Mose27).
 - Die drei Endzeitreden Jesu bei [Markus](https://www.bibleserver.com/SLT/Markus13%2C5-9), [Matthäus](https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C4-8) und [Lukas](https://www.bibleserver.com/SLT/Lukas21%2C8-11) haben eine ähnliche Reihenfolge wie in der Offenbarung: An zweiter Stelle kommt immer der Krieg, dann der Hunger und bei Lukas auch die Pest. Aber in allen beginnt es mit “Seht zu, dass ihr euch nicht verführen lasst, denn viele werden in meinem Namen kommen”.
-
-
 
 ## Die Auflösung
 
@@ -108,9 +92,7 @@ Jetzt macht auch die Parallele auf [Gottes Plagen](https://www.bibleserver.com/S
 - Der dritte Reiter kommt mit dem Hunger — er übt wirtschaftlichen Druck auf die Menschen aus, die nicht mitziehen wie das zweite Tier oder die Hure in [Kapitel 17](https://www.bibleserver.com/SLT/Offenbarung17).
 - Der letzte Reiter fasst die Wirkung der Trinität zusammen.
 
-
 So verlockend das Angebot Satans auch sein mag, so sehr es auch nach Jesus klingt: Geh nicht darauf ein, sonst endet es in einer Katastrophe — zumindest in der Beziehung zu Gott.
-
 
 ## Zum Weiterlesen
 
@@ -122,4 +104,3 @@ So verlockend das Angebot Satans auch sein mag, so sehr es auch nach Jesus kling
 
 [Beale, Revelation, Seiten 370–395](../../../../about/ressources/index.html#beale_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-mystery-of-the-four-horse-men.de.md)

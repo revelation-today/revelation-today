@@ -3,9 +3,7 @@ title: "Duanın anahtarı"
 weight: 3
 ---
 
-
 Vahiy Kitabı’nda dua konusu pek öne çıkmıyor gibi görünür. Ancak daha yakından bakıldığında, oradaki temel rolü görülür.
-
 
 ## Beşinci mühür
 
@@ -13,7 +11,6 @@ Vahiy Kitabı’nda dua konusu pek öne çıkmıyor gibi görünür. Ancak daha 
 Beşinci mühürde, buna son vermek için Şeytanların çalışmalarının açığa çıkmasından sonra sunağın altındaki ruhlardan bahsedilir. Duaları kabul edilir ve İsa altıncı mühürde gelir ve dualarına cevap verir (dördüncü borazanla paralellik gösterir).
 
 Bu insanlar (ruhlar) 7. bölümde tekrar ortaya çıkarlar; Tanrı onlarla birliktedir ve beşinci mühürdeki dualarına yanıt olarak onları teselli eder.
-
 
 ## Trompetler
 
@@ -24,14 +21,12 @@ Burada dua, mühürler için İsa’nın ölümü ve kaseler için Tanrı’nın
 
 Buradaki dualar insanların sahte güvencelerini ortadan kaldırır ama aynı zamanda kiliseyi tanıklık etmeye iter.
 
-
 ## Gazap kaseleri
 
 <a name="b371"></a>
 Her ikisi de göç belalarına dayandığı için çanaklar trompetlerle güçlü benzerliklere sahiptir.
 
 Bu da başka bir sürpriz: Tanrı’nın planı bizim dualarımıza bağlıdır.
-
 
 ## Sonuç
 
@@ -41,7 +36,6 @@ Duanın birçok yönü vardır, ancak burada dua şu şekilde sunulmamıştır
 - İhtiyaçlarımızı sormak
 - Başkaları için iyi bir yaşam ve yeryüzünde barış için dua edin
 
-
 Ama buradaki dualar Tanrı’nın isteğine uygun olduğu için
 
 - Kilisenin bu zamanlarda dayanabilmesi için dua edin
@@ -49,10 +43,3 @@ Ama buradaki dualar Tanrı’nın isteğine uygun olduğu için
 - Tanrı’ya yaklaşmaları için dua edin
 - İnsanların kalplerinin Tanrı’ya açılması için dua edin
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/the-key-of-prayer.tr.md)

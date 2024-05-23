@@ -3,9 +3,7 @@ title: "Die dreieinhalb Jahre der Endzeit"
 weight: 50
 ---
 
-
 Die Offenbarung ist voll von seltsamen Zeitangaben wie 1260 Tage, 42 Monate usw. Aber was bedeuten sie? Sind sie wörtlich zu verstehen?
-
 
 ## Du solltest zuvor einen Blick haben auf
 
@@ -14,13 +12,10 @@ Die Offenbarung ist voll von seltsamen Zeitangaben wie 1260 Tage, 42 Monate usw.
 - [Die vier Königreiche in Daniel](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
 - [Die 70 Jahrwochen](../../../../bible/daniel/expl/the-70-year-weeks)
 
-
-
 ## Ein wenig Mathematik
 
 <a name="472b"></a>
 In den Kapiteln 11 bis 13 des Buches der Offenbarung gibt es vier verschiedene Stellen, an denen die Zeit mit drei verschiedenen Zeitspannen angegeben wird.
-
 
 | Zeitspanne | Referenz |
 |------------|----------|
@@ -40,7 +35,6 @@ Und warum werden sie nicht in derselben Einheit ausgedrückt?
 
 Werfen wir zunächst einen Blick auf den alttestamentlichen Hintergrund.
 
-
 ## Elia und die Dürre and the drought (1. Kön. 16/29–18/35)
 
 <a name="2b28"></a>
@@ -52,14 +46,12 @@ Nachdem er in Isebels Heimatstadt gewirkt hat, kommt es [auf dem Karmel zum gro�
 
 Die große Frage dahinter ist: Wer ist der wahre Gott?
 
-
 ## Die Jahrwoche in Daniel
 
 <a name="8ed0"></a>
 Bei Daniel enden die [70 Jahrwochen in einer Woche, die aus zwei Teilen besteht, von denen jeder dreieinhalb Jahre dauert](../../../../bible/daniel/expl/the-70-year-weeks). Der erste Teil beschreibt die Zeit Jesu auf der Erde, der zweite Teil vielleicht die Zeit der Gemeinde. Auch[ der Bund Jesu wird in dieser Woche beschrieben](https://www.bibleserver.com/SLT/Daniel9%2C27).
 
 Diese 3,5 Jahre sind das, was Gott im Hintergrund aufbaut und was die Reiche dieser Welt übertrumpft.
-
 
 ## Was sind die 3,5 Jahre in der Offenbarung
 
@@ -76,13 +68,8 @@ Dann bleiben noch die [1260 Tage der beiden Zeugen](https://www.bibleserver.com/
 
 Warum sind es dann verschiedene Zeiteinheiten (Tage, Monate, …)? Die Tage werden für die Taten der zwei Zeugen und die Versorgung Israels verwendet, die Monate für die Herrschaft Satans und die Zerstörung des äußeren Tempels und die 3,5 Jahre/Zeiten für das verborgene Wirken Gottes. Vielleicht ist es so, dass die Länge der 1260 Tage der Gemeinde der kürzeren Zahl von 42 Monaten Satans gegenübergestellt wird. Aber das ist nur eine Vermutung, der ich nicht sicher bin.
 
-
 ## Was bedeutet das?
 
 <a name="051a"></a>
 Die Herrschaft Satans und die Herrschaft der Gemeinde sind parallel. Obwohl Satan die Welt zu beherrschen scheint, ist es die Gemeinde, die die Welt beherrscht.
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-secret-of-the-3-5-years.de.md)

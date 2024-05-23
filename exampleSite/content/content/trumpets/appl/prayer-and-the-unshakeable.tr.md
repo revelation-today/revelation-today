@@ -3,15 +3,12 @@ title: "Dua ve sarsılmazlık"
 weight: 1
 ---
 
-
 Trompetler birçok insana dünya çapında felaketler ve hatta askeri eylemlerle ilgili ahir zaman senaryoları konusunda ilham vermiştir. Ancak daha yakından baktığımızda duanın rolü ve zorluklarla nasıl başa çıkılacağı hakkında çok şey görürüz.
-
 
 ## Bizim metnimiz
 
 <a name="5dfc"></a>
 Hızla ilerliyoruz ve [8](https://www.bibleserver.com/TR/Vahiy8). ve [9](https://www.bibleserver.com/TR/Vahiy9). bölümlere ulaştık.
-
 
 ## Ne için dua etmeli
 
@@ -24,7 +21,6 @@ Ama aslında neler oluyor? Her türlü zorluğa neden olan altı borazan vardır
 
 İnsanların Tanrı’nın bereketini görmeleri için sık sık dua ederiz, İsa’yı bulmaları için dua ederiz. Ama yaşamlarının sağlam bir temeli olup olmadığını kontrol etmeleri için Tanrı’nın (zorlu) durumlar getirmesi için dua ediyor muyuz? Ve günlük yaşamımızda sağlam bir temel bulurlar mı? Bu cesarete sahip miyiz, yoksa lütfen İsa bizi de kutsasın da iyi bir yaşamımız olsun diye mi?
 
-
 ## İlk dört borazan
 
 <a name="5116"></a>
@@ -35,9 +31,7 @@ Trompetler bize Tanrı’nın tanrıları ve liderleri ifşa ettiği ve onların
 - üçüncü trompet: baliği besi̇n kaynaği olarak alin
 - dördüncü trompet: ticaret rotaları için yön ve temel olarak yıldızları ve ayı alır
 
-
 Trompetler dünyayı sarsar ve güvendiğimiz bazı şeylerin güvenilir olmadığını ortaya çıkarır. Ama diğerleri güvenilirdir: Her şey altüst olduğunda bile Tanrı bizi sağlar. Endişelenmemize ya da korku içinde yaşamamıza gerek yoktur ve buna tanıklık edebiliriz.
-
 
 ## Beşinci ve altıncı trompet
 
@@ -48,13 +42,11 @@ Sonraki iki trompet ise çok daha fazlasıdır:
 - İnsanların yaşama arzusunu kaybetmesine ve nihayetinde öldürülmesine neden olurlar
 - Tanrı’nın halkı için özel bir koruması vardır (7. bölümdeki mühür onları yaşamlarından vazgeçmekten korur)
 
-
 Bu, öze doğru gelir. (Ruhsal ve fiziksel) sağlığa ve hatta yaşamın kendisine dokunuluyor. İnsanlar bunun bile güvenli olmadığını kabul etmelidir.
 
 Ama bu onları tüm bunları veren Tanrı’ya tövbe etmeye götürmez, tam tersine bu felaketleri getiren iblislere tapınmaya terk eder.
 
 Bu, gülüp geçmememiz gereken bir ironidir çünkü biz de çok daha iyi durumda değiliz: Bu dünyaya (bankadaki para, iş, sigorta, sağlık hizmetleri, …) çoğu zaman Tanrı’dan (cömertlik, muhtaçlara hizmet etmek, affetmek, alçakgönüllülük, Tanrı’nın Ruhunu takip etmek, …) daha çok güveniyoruz. Peki bunun iblislerle ne ilgisi var? Birkaç bölüm sonra göreceğiz.
-
 
 ## Sonuç
 
@@ -62,7 +54,6 @@ Bu, gülüp geçmememiz gereken bir ironidir çünkü biz de çok daha iyi durum
 Bu felaketlere bakış açısının çok farklı olduğunu gördük: Mühürlerde şeytanın maskesinin düşürülmesi ve kutsalların sadık bir şekilde dayanması anlatılırken, burada inanmayanların kalplerinin dönüştürülmesine odaklanılmaktadır. Bu öyküler insanların gözlerini ve yüreklerini açmaya yöneliktir.
 
 Diğer yandan: Zor zamanlar bir kalbi değiştirmek için yeterli değildir. Daha fazlasına ihtiyaç vardır ve bu küçük kitapla ortaya çıkacaktır.
-
 
 ### Yansıma
 
@@ -73,11 +64,7 @@ Diğer yandan: Zor zamanlar bir kalbi değiştirmek için yeterli değildir. Dah
 - Yaşamınızdaki sarsılmaz güvenceler nelerdir?
 - Hangi güvencenizden vazgeçemezsiniz? Tanrı’yla ilişkinizi kaybettiğinizde de vazgeçmez miydiniz?
 
-
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -89,10 +76,3 @@ Diğer yandan: Zor zamanlar bir kalbi değiştirmek için yeterli değildir. Dah
 - [Mısır’daki belalar](../../../../bible/exodus/expl/the-plagues-in-egypt)
 - [Yedi trompet](../../../../content/trumpets/expl/the-trumpets-in-revelation)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/appl/prayer-and-the-unshakeable.tr.md)

@@ -3,9 +3,7 @@ title: "Israel und die Gemeinde"
 weight: 7
 ---
 
-
 Die Erwähnung von Juden und Christen in der Offenbarung ist recht kontrovers. Was ist der Grund dafür und wie wird es aufgelöst?
-
 
 ## Die Feindseligkeit der Juden
 
@@ -15,7 +13,6 @@ Zur Zeit der ersten Gemeinden war die jüdische Religion aufgrund ihrer langen T
 Aber die Christen breiteten sich aus und brachten dem Kaiser nicht den Respekt (Anbetung) entgegen, den dieser erwartete. Außerdem zogen diese Christen umher und brachten andere dazu, dem Juden Jesus zu folgen und dem Kaiser ebenfalls nicht die Ehre zu erweisen.
 
 Da die Christen für den Kaiser eine jüdische Sekte waren, gerieten die Juden unter Druck, was sie dazu veranlasste, die Christen bei den Römern zu denunzieren, um dem Kaiser zu zeigen, dass die Juden keineswegs mit den Christen übereinstimmten.
-
 
 ## Die Juden in der Offenbarung
 
@@ -36,7 +33,6 @@ Und es wäre keine Überraschung, wenn Jesus bei seinem zweiten Kommen im physis
 
 Warum gibt es dann so kontroverse Aussagen über die Juden? Weil die Kirche ein Teil Israels ist und deshalb ihre Wurzeln nicht verlieren darf, auch wenn es offene Angriffe von Juden auf die Gemeinde gibt.
 
-
 ## Zusammenfassung
 
 <a name="7a9f"></a>
@@ -44,7 +40,3 @@ Die Herausforderung für die Kirche besteht darin, die Spannung aufrechtzuerhalt
 
 Ich denke, wir können viel von der Art und Weise lernen, wie wir mit anderen Konfessionen und mit Juden umgehen.
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/israel-and-the-church.de.md)

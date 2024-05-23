@@ -3,11 +3,9 @@ title: "Dispensionalism and its critic"
 weight: 2
 ---
 
-
 Dispensationalism is discussed and may be very confusing for the reader to understand. Here are some small points of criticism of Dispensionalism.
 
 It is hard to criticize Dispensionalism because of its great variety, but I will try to keep it sharp and also include aspects from “Left Behind”.
-
 
 ### Literal understanding
 
@@ -18,18 +16,15 @@ There is poetic literature such as the Song of Songs. If you took everything lit
 
 Furthermore, Dispensationalists are inconsistent in their application of this principle. They agree that the [beast will not have seven heads and ten horns](https://www.bibleserver.com/NIV/Revelation13%3A1). Even [Gog and Magog](https://www.bibleserver.com/NIV/Revelation20%3A8) are mentioned with the reference to [God destroying the bow and arrows](https://www.bibleserver.com/NIV/Ezekiel39%3A3), these are interpreted as aircrafts and missiles.
 
-
 ### Lack of literature understanding
 
 <a name="6ad3"></a>
 The theory does not take into account the nature of the literature: An apocalyptic, prophetic “ set “ of letters. It interprets it as a description of history.
 
-
 ### No relevance for the original readers
 
 <a name="ae8f"></a>
 The theory makes no sense to the original readers. The argument that it is about things in the future does not count because the book of Daniel also looks far into the future, but that [book was sealed (until the time was ready)](https://www.bibleserver.com/NIV/Daniel8%3A26), but this is not the case with [Revelation](https://www.bibleserver.com/NIV/Revelation22%3A10).
-
 
 ### Context based
 
@@ -37,7 +32,6 @@ The theory makes no sense to the original readers. The argument that it is about
 The theory often makes claims without explanation, or uses an arsenal of Bible verses that are not considered in their context.
 
 The main [2000 year delay in the prophecy of the 70 years](https://www.bibleserver.com/NIV/Daniel9%3A26-27) depends on a very specific reading, even punctuation, of this verse that is supported only in the King James translations.
-
 
 ### Prediction of the future
 
@@ -51,13 +45,10 @@ There are several flaws in this approach:
 - There have been so many “fits” with historical events that were so convincing, but all of them have been revised as time has gone on, so the amount of all these fitting predictions is the best argument against it. 😎
 - The prediction is often done with a special tunnel view, e.g. the seven letters to the churches are seen as 7 epochs of the church and we are now living in the last era of Laodicea, the lukewarm church. This may be an interpretation of some Western churches, but it would be a very wrong view of the many churches that are now in tribulation.
 
-
-
 ### No rapture
 
 <a name="436d"></a>
 [There is no rapture.](../../../../topics/others/expl/the-rapture)
-
 
 ### The third temple
 
@@ -66,12 +57,10 @@ The theory speaks of a new temple being built in Jerusalem, based on the [fact t
 
 Therefore, there is statement that a new temple building will be erected.
 
-
 ### The tribulation
 
 <a name="629d"></a>
 [This is a longer story](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
-
 
 ### The church and Israel
 
@@ -88,25 +77,20 @@ So what is wrong?
 - The church does not disappear because the term disappears.
 - If all Israel will rule what is about the people who do not believe in God at all — and this was even better in the Old Testament, where there were no atheists ;-).
 
-
-
 ### The most important things
 
 <a name="e917"></a>
 The most important things in the theory are the rapture and the tribulation, both of which are mentioned once. Other topics, which occur much more frequently and are the content of the book, are neglected.
-
 
 ### The reason for faith
 
 <a name="9d26"></a>
 The reason for faith in this theory is fear — if you do not believe, you will not be part of the rapture and will be left behind. Fear is not a [trait of the church but, of the beast](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Furthermore, faith is reduced to being saved, not becoming like Christ, loving your neighbor, or influencing society.
 
-
 ### The weapons of warfare
 
 <a name="14cf"></a>
 Faith is described in a very militaristic way, joining the army, which is [not a reflection of Revelation](https://www.bibleserver.com/NIV/Revelation14%3A1-5): [Jesus goes to war alone with the sword of his mouth](https://www.bibleserver.com/NIV/Revelation19%3A21). This is a very symbolic act and does not imply a violent act of war.
-
 
 ### Is wrongly political
 
@@ -117,12 +101,9 @@ The theory makes statements about politics that are unsupported by the Bible and
 - It is uncritically pro-American and pro-Israel (note: the Old Testament was very critical of Israel).
 - It sees the war in the Middle East as part of God’s plan and therefore a good thing.
 
-
-
 ## Dig Deeper
 
 [Barabara Rossing, The rapture exposed, pages 173-186](../../../../about/ressources/index.html#rossing)
 
 [Michael Goreman, Reading reveleation resposnsibly, pages 69–73](../../../../about/ressources/index.html#goreman)
 
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-and-its-critic.md)

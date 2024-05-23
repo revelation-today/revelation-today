@@ -3,16 +3,12 @@ title: "The bowls of wrath"
 weight: 2
 ---
 
-
 The bowls of wrath in the book of Revelation give the impression of a God who is angry that mankind will not listen and has a final outburst of anger. But this is far from the truth, quite the opposite.
-
 
 ## You may want to read before
 
 <a name="6ee4"></a>
 - [The trumpets](../../../../content/trumpets/expl/the-trumpets-in-revelation)
-
-
 
 ## Background
 
@@ -22,7 +18,6 @@ The bowls of wrath are origin like all the other series, originated [in the thro
 The wrath of God will be completed with this. What is the wrath of God? It’s [His compassionate ambition to solve the world problem and He doesn’t stop until it’s solved](https://moodyaudio.com/products/good-and-beautiful-god-part-6).
 
 You may have already seen that the seven bowls and the [seven trumpets](../../../../content/trumpets/expl/the-trumpets-in-revelation) have quite a lot in common, and both are closely related to the [plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt): The wrath of God is connected to the prayers of the saints. What a thought! [God’s plan is affected by our prayers](https://www.bibleserver.com/NIV/Genesis18%3A20-33).
-
 
 ## The bowls
 
@@ -39,8 +34,6 @@ You may have already seen that the seven bowls and the [seven trumpets](../../..
 - listen to God’s witnesses (second and third bowls)
 - soften and humble your hearts (fourth and fifth bowls) so that you will not be deceived (sixth bowl).
 
-
-
 ## The sixth bowl
 
 <a name="a667"></a>
@@ -52,21 +45,12 @@ We need to take a closer look at the sixth bowl.
 
 The gathering of the armies at Armageddon is mirrored by the gathering of the birds in chapter 19, which makes the defeat of Satan even more ironic because it gives the impression that the armies of Satan are defeated by the birds.
 
-
 ## Further readings
 
 <a name="6cfb"></a>
 - [Armageddon](../../../../content/bowls/expl/the-key-to-armageddon)
 
-
-
 ## Dig Deeper
 
 [Beale, Revelation, pages 681–730](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-bowls-of-wrath.md)

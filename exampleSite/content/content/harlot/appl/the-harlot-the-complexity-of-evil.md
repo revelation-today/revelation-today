@@ -3,15 +3,12 @@ title: "The Harlot: The complexity of evil"
 weight: 1
 ---
 
-
 The harlot in Revelation is hard to grasp because it shows the complexity of the evil system on earth. But with some patience, we can get a good look at it.
-
 
 ## Our text
 
 <a name="e32c"></a>
 We are moving quickly forward and [chapter 17](https://www.bibleserver.com/NIV/Revelation17), [18](https://www.bibleserver.com/NIV/Revelation18) and [19](https://www.bibleserver.com/NIV/Revelation19).
-
 
 ## Who is the harlot?
 
@@ -24,7 +21,6 @@ The harlot herself is the counterpart of the Bride of Christ (the Church) and re
 
 The harlot influenced the rulers of this world to bring prosperity (so be careful if this is your primary goal as a Christian).
 
-
 ## The impact and judgment of the harlot
 
 <a name="c64e"></a>
@@ -34,14 +30,12 @@ To be the perfect church (church that focuses on blessings and prosperity and no
 
 The harlot is proud and considers herself untouchable, so her judgment will come quickly, as it did over the historical Babel. Babel will be judged with the double measure, meaning that she will suffer exactly what she has distributed to others.
 
-
 ## And now?
 
 <a name="6092"></a>
 The harlot has been judged, so now the Bride of Christ is ready for the wedding. The Church is now ready to see her Bridegroom. But first He brings judgment on the rest of the evil trinity.
 
 He comes with a sword out of His mouth and He judges each one alone (the angels are only there to catch the devil and the false prophet). This is not a battle, but rather a courtroom. Jesus brings the final judgment.
-
 
 ### Reflection
 
@@ -52,12 +46,6 @@ He comes with a sword out of His mouth and He judges each one alone (the angels 
 - What attitude of today reflects the attitude of the harlot?
 - What things would you mourn if Babel fell?
 
-
-
-
-
-
-
 ## Digging deeper
 
 <a name="aa59"></a>
@@ -66,10 +54,3 @@ He comes with a sword out of His mouth and He judges each one alone (the angels 
 - [The harlot as a mocking of the time](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
 - [The character and destiny of the harlot](../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/appl/the-harlot-the-complexity-of-evil.md)

@@ -2,9 +2,7 @@
 title: "Wie kann man die Offenbarung studieren?"
 ---
 
-
 Wenn man das Buch Offenbarung studiert, ist es schwierig, irgendwo anzufangen. Es gibt so viel Material und so viele verschiedene Ansichten. Wo soll man anfangen? Dieser Leitfaden soll ein wenig Orientierung geben. Ich versuche, alles so transparent wie möglich zu machen, damit man sich auch mit anderen Ansichten auseinandersetzen und diesen Leitfaden hinterfragen kann.
-
 
 ## Prinzipien der Interpretation
 
@@ -20,8 +18,6 @@ In meiner Argumentation versuche ich, so transparent wie möglich zu sein und To
 - Historischer Hintergrund, um den Alltag und die Herausforderungen der Menschen damals besser zu verstehen
 - Verweise auf jüdische und nicht-biblische christliche Literatur
 
-
-
 ## Das Material
 
 <a name="0820"></a>
@@ -35,7 +31,6 @@ Ich habe nur einen Link für jedes Buch verwendet, aber du kannst es kaufen, wo 
 
 Leider ist die gesamte Literatur in englischer Sprache.
 
-
 ## Zentrale Bücher
 
 <a name="beale_rev"></a>
@@ -44,13 +39,11 @@ Leider ist die gesamte Literatur in englischer Sprache.
 
 [Es ist mein “Hauptarbeitsbuch” und hat nich weniger als 1000 Seiten](https://www.logos.com/product/3467/the-book-of-revelation). Es gibt viel mehr in diesem Buch, als ich zitieren kann. Auch wenn ich nicht mit allem übereinstimme, so folge ich doch der wesentlichen Argumentation. Der Autor geht tief in grammatikalische Fragen hinein und bezieht auch viele außerbiblische, vor allem jüdische und frühchristliche Texte mit ein. Es gibt auch eine [Kurzfassung](https://www.hugendubel.de/de/taschenbuch/g_k_beale_david_campbell-revelation_a_shorter_commentary-22090575-produkt-details.html?affId=3048435&amp;tduid=8f4bdc9f4e3da77eb0c918bfb1c8e410&amp;utm_source=trd&amp;utm_medium=af&amp;partner=tradedoubler&amp;utm_campaign=Redbrain+DE&amp;adCode=920R20D30I20L&amp;utm_content=Lkg).
 
-
 <a name="bauckham_rev"></a>
 
 ### Richard Bauckham: The theology of the book of Revelation
 
 Es ist ein [kompromiertes und sehr interessantes Buch,](https://www.wob.com/en-gb/books/richard-bauckham/theology-of-the-book-of-revelation/9780521356916?cq_src=google_ads&amp;cq_cmp=19553274428&amp;cq_con=&amp;cq_med=pla_with_promotion&amp;cq_plac=&amp;cq_net=x&amp;gad_source=1&amp;gclid=Cj0KCQiAkKqsBhC3ARIsAEEjuJhIZS50LEf8AbR_qhhFyE6TZ9u_Itcpc0gIo-OFeSfkUJc5uUCay4kaAnPdEALw_wcB#GOR004678878) leicht zu lesen und voller tiefer Einsichten.
-
 
 ## Weiterführende Bücher
 
@@ -59,7 +52,6 @@ Es ist ein [kompromiertes und sehr interessantes Buch,](https://www.wob.com/en-g
 ### Michael Goreman: Reading Revelation Responsible
 
 [Eine sehr nützliche Ressource,](https://www.logos.com/product/121427/reading-revelation-responsibly-uncivil-worship-and-witness?campaignid=18467614226&amp;adgroupid=142254630185&amp;keyword=&amp;device=m&amp;utm_source=google&amp;utm_medium=advertising_cpc&amp;utm_campaign=google_search-keyword_dsa_logos_de_en&amp;gclid=CjwKCAiA8OmdBhAgEiwAShr406IHCnZ9JreBUdDWS8tQrGegLBhyy8dgabdZmygZ4DCZb_yOlogPpxoCW9YQAvD_BwE) um den Typ des Buches zu verstehen.
-
 
 <a name="aune_rev"></a>
 
@@ -153,6 +145,3 @@ Und noch ein paar Online-Presentationen:
 
 [A good theological summary on some revelation related topics](https://youtube.com/playlist?list=PLfLXMeX_cyNp_YNAlwTdpQVJrrTmuBsU1)
 
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/background/ressources/how-to-study-the-book-of-revelation.de.md)

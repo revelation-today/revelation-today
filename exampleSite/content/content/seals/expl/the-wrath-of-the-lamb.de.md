@@ -3,11 +3,9 @@ title: "Der Zorn des Lammes"
 weight: 4
 ---
 
-
 Was ist der Zorn des Lammes? Rechtfertigt dieser Begriff einen heiligen Krieg im Namen des Glaubens?Zur zweiten Frage: Ganz sicher nicht. Das Neue Testament macht sehr deutlich, dass unsere Kämpfe geistlich sind.
 
 Der [Text](https://www.bibleserver.com/SLT/Offenbarung6%2C12-17) ist “… Fallt auf uns und verbergt uns vor dem Angesicht dessen, der auf dem Thron sitzt, und vor dem Zorn des Lammes! 17 Denn der große Tag seines Zorns ist gekommen, und wer kann bestehen?”
-
 
 ## Der Zorn des Lammes
 
@@ -20,7 +18,6 @@ Die Betonung liegt eher darauf, dass sich die Menschen verstecken, weil sie wiss
 
 Es wird aber nur die Angst der Menschen beschrieben, keine Reaktion Gottes oder des Lammes.
 
-
 ## Die Bedeutung von Zorn
 
 <a name="0f00"></a>
@@ -29,7 +26,6 @@ Das Wort, das hier verwendet wird ist „[orge](https://biblehub.com/greek/3709.
 Auf der einen Seite verstehen die Menschen, was sich alles gegenüber Gott angehäuft hat, aber auf der anderen Seite hat [Gott die ganze Zeit versucht, zu den Menschen durchzudringen, aber das endet eines Tages](../../../../content/bowls/expl/the-bowls-of-wrath).
 
 Es soll nicht der Eindruck entstehen, dass Gott eine Art Sozialarbeiter ist, der schaut, ob er etwas tun kann und irgendwann aufgeben muss, weil die Menschen nicht mitziehen. Er wird die Menschen mit ihrem Handeln konfrontieren.
-
 
 ## Die Wichtigkeit von Zorn
 
@@ -42,7 +38,6 @@ Du magst den Zorn Gottes für ein ethisch oder theologisch schwieriges Thema hal
 - Du hast noch nie in deinem Leben einen Krieg erlebt oder eine Epidemie, die alle um dich herum tötet und niemanden hat, der das ändern könnte, aber dem das egal ist.
 - Du hast vielleicht sogar verschiedene Möglichkeiten und Perspektiven in deinem Leben.
 
-
 Lass mich dir etwas sagen: Die meisten Menschen in der Geschichte kennen mindestens eines der Themen aus eigener Erfahrung, z.B. [Sklaverei ist kein Phänomen der Vergangenheit](https://www.ilo.org/berlin/presseinformationen/WCMS_855152/lang--de/index.htm). Und hinter all dem Leid stecken am Ende immer Menschen.
 
 Und Gott wirkt für die Leidenden und gibt ihnen Ruhe.
@@ -53,4 +48,3 @@ Wir sind verantwortlich für das Leid, das wir anderen zufügen. Unsere Ungerech
 
 [Beale, Revelation, pages 395–404](../../../../about/ressources/index.html#beale_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-wrath-of-the-lamb.de.md)

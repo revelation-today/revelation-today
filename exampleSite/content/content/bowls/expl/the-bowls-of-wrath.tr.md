@@ -3,16 +3,12 @@ title: "Gazap Kaseleri"
 weight: 2
 ---
 
-
 Vahiy Kitabı’ndaki gazap kaseleri, insanların söz dinlememesine üzülen ve son bir öfke patlaması yaşayan bir Tanrı izlenimi verir. Ancak bu gerçek olmaktan çok uzaktır, tam tersidir.
-
 
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="6e57"></a>
 - [Trompetler](../../../../content/trumpets/expl/the-trumpets-in-revelation)
-
-
 
 ## Arka plan
 
@@ -22,7 +18,6 @@ Gazap kaseleri, [Tanrı’nın taht odasındaki](https://www.bibleserver.com/TR/
 Tanrı’nın gazabı bununla tamamlanacaktır. Tanrı’nın gazabı nedir? [Dünya sorununu çözmeye yönelik şefkatli hırsıdır ve bu çözülene kadar durmaz.](https://moodyaudio.com/products/good-and-beautiful-god-part-6)
 
 Yedi kase ve [yedi borazanın](../../../../content/trumpets/expl/the-trumpets-in-revelation) oldukça benzer olduğunu ve her ikisinin de [Mısır’daki belalarla](../../../../bible/exodus/expl/the-plagues-in-egypt) güçlü bir şekilde bağlantılı olduğunu zaten görmüş olabilirsiniz: Tanrı’nın gazabı kutsalların duasıyla bağlantılıdır. [Ne güzel bir düşünce!!! Tanrı’nın planı dualarımızdan etkilenir](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F18%3A20-33).
-
 
 ## Kaseler
 
@@ -39,8 +34,6 @@ Yedi kase ve [yedi borazanın](../../../../content/trumpets/expl/the-trumpets-in
 - Tanrı’nın tanıklıklarını dinleyin (ikinci ve üçüncü kase)
 - aldatılmamanız için (altıncı kase) kalbinizi yumuşatın ve alçakgönüllü hale getirin (dördüncü ve beşinci kase)
 
-
-
 ## Altıncı kase
 
 <a name="33de"></a>
@@ -52,7 +45,6 @@ Altıncı kaseye biraz daha yakından bakmamız gerekiyor.
 
 [Armagedon’da orduların toplanması](https://www.bibleserver.com/TR/Vahiy16%3A14-16) [19. bölümde kuşların toplanmasıyla yansıtılır](https://www.bibleserver.com/TR/Vahiy19%3A17-18) ve bu da Şeytan’ın ordularının kuşlar tarafından yenilgiye uğratıldığı izlenimini verdiği için Şeytan’ın yenilgisini daha da ironik hale getirir
 
-
 ## Diğer okumalar
 
 <a name="d877"></a>
@@ -60,10 +52,5 @@ Altıncı kaseye biraz daha yakından bakmamız gerekiyor.
 
 ## Daha fazla kazma
 
-
 [Beale, Revelation, sayfalar 681–730](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-bowls-of-wrath.tr.md)

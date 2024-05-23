@@ -3,9 +3,7 @@ title: "666 im historischen Kontext"
 weight: 3
 ---
 
-
 Der Drache und die beiden Tiere der Offenbarung erscheinen sehr abstrakt (böse Mächte) oder werden sehr „kreativ” interpretiert. Doch wie sahen sie vor 2000 Jahren konkret aus?
-
 
 ## Der Kontext der ersten Leser
 
@@ -17,7 +15,6 @@ Die beiden Tiere kommen aus dem Meer und der Erde und basieren auf
 - [Behemoth](https://www.bibleserver.com/SLT/Hiob40%2C15-24) (aus der Erde) von [Gott mit dem Schwert erschlagen](https://www.bibleserver.com/SLT/Hiob40%2C19) und ebenfalls in [der Offenbarung mit dem Schwert verwundet](https://www.bibleserver.com/SLT/Offenbarung13%2C14),
 - [Leviathan](https://www.bibleserver.com/SLT/Hiob41) (aus dem Meer), aus [dessen Maul Flammen kommen](https://www.bibleserver.com/SLT/Hiob41%2C19).
 
-
 Diese Tiere werden [von Gott unterworfen](https://www.bibleserver.com/SLT/Hiob7%2C12) und nach jüdischer Tradition wird Gott sie am Ende der Zeit besiegen, wie es auch bei [Jesaja](https://www.bibleserver.com/SLT/Jesaja27%2C1) heißt.
 
 Beide Tiere sind für die Menschen überwältigend, für [Gott aber nur ein Spielzeug](https://www.bibleserver.com/SLT/Psalm104%2C26).
@@ -26,12 +23,10 @@ Die ersten Leser betrachteten alles, was „aus dem Meer” kam, als von außen,
 
 “Aus dem Land” sind dann die lokalen politischen und wirtschaftlichen Autoritäten.
 
-
 ## Der Drache
 
 <a name="0a83"></a>
 Er ist sehr einfach zu verstehen. Es ist Satan. Er ist der Puppenspieler, er steckt hinter allem. Er ist die Quelle des Bösen und nicht weltliche Mächte, [weil wir nicht gegen Fleisch und Blut kämpfen](https://www.bibleserver.com/SLT/Epheser6%2C12). Er ist nicht wirklich an der Macht, aber er lenkt die Mächtigen auf dieser Welt.
-
 
 ## Das erste Tier
 
@@ -39,7 +34,6 @@ Er ist sehr einfach zu verstehen. Es ist Satan. Er ist der Puppenspieler, er ste
 Das ist der Kaiser in Rom (vom Meer, also jenseits des Meeres). Er unterscheidet sich nicht von den Herrschern vor ihm. Und mit dem Tod eines Herrschers (Nero, Tiberius, …) ist das erste Tier nicht tot. [Mit jedem neuen Kaiser erhebt es sich wieder. Rom ist unschlagbar](https://www.bibleserver.com/SLT/Offenbarung13%2C3-4).
 
 [Rom ist gotteslästerlich](https://www.bibleserver.com/SLT/Offenbarung13%2C4-6), weil es für sich in [Anspruch nimmt, wie Gott zu sein](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation). Der Kaiser befehligt die Legionen und bricht jeden Widerstand. Er [beginnt die Christenverfolgung und kommt damit durch](https://www.bibleserver.com/SLT/Offenbarung13%2C7-8). Und jeder, dessen Name nicht im Buch des Lebens geschrieben steht, wird seine Knie vor ihm beugen, [denn er hat die Macht, und die Heiligen können nur ausharren](https://www.bibleserver.com/SLT/Offenbarung13%2C10).
-
 
 ## Das zweite Tier
 
@@ -56,7 +50,6 @@ Die Menschen erhlaten ein Zeichen an Hand und Stirn. Im Alten Testament war es e
 
 Wenn du nicht mitspielst, [wirst du finanziell ruiniert](https://www.bibleserver.com/SLT/Offenbarung13%2C16-17).
 
-
 ## Was kann man tun?
 
 <a name="6293"></a>
@@ -64,10 +57,7 @@ Was kann man gegen dieses System unternehmen? Die Antwort wird z.B. in Kapitel 1
 
 Und über allem: [Ausharren](https://www.bibleserver.com/SLT/Offenbarung13%2C10) und [Weisheit, um zu erkennen, was Gott ist und was nicht](https://www.bibleserver.com/SLT/Offenbarung13%2C18).
 
-
 ## Zur Vertiefung
 
 [Beale, Revelation, Seiten 682–684](../../../../about/ressources/index.html#beale_rev)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-beasts-and-the-666-in-historical-context.de.md)

@@ -3,11 +3,9 @@ title: "Die sieben Posaunen"
 weight: 2
 ---
 
-
 Die Posaunen der Offenbarung in den Kapiteln 8, 9 und 11 spiegeln für viele Menschen die Katastrophen der damaligen Zeit wider, aber sie beziehen sich in erster Linie auf die [Plagen in Ägypten](../../../../bible/exodus/expl/the-plagues-in-egypt).
 
 Die Posaunen sind die zweite Serie von sieben Ereignissen, von denen in diesem Buch berichtet wird. Sie beginnen mit dem siebten Siegel, und dieser Abschnitt verdient besondere Aufmerksamkeit.
-
 
 ## Was du vorher lesen solltest
 
@@ -15,8 +13,6 @@ Die Posaunen sind die zweite Serie von sieben Ereignissen, von denen in diesem B
 - [Historischer Hintergrund des Buches](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 - [Was für ein Buch ist die Offenbarung?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 - [Die Plagen in Ägypten](../../../../bible/exodus/expl/the-plagues-in-egypt)
-
-
 
 ## Der Ursprung der Posaunen
 
@@ -32,7 +28,6 @@ Als Ergebnis werden die Posaunen geblasen.
 Zunächst: Das Gebet von uns, den Heiligen, verursacht die Posaunen und ist damit für das Kommen des Reiches Gottes ebenso wichtig wie der Kreuzestod Jesu und der Zorn Gottes. Das gibt dem Gebet einen ganz neuen Stellenwert.
 
 Andererseits: Wollen wir wirklich, dass unsere Gebete das Drama verursachen, das wir in den Posaunen sehen?
-
 
 ## Die ersten vier Posaunen
 
@@ -50,7 +45,6 @@ Die Posaunen nehmen den Menschen alle Sicherheiten, [wie es im Hebräerbrief hei
 [Die vierte Posaune](https://www.bibleserver.com/SLT/Offenbarung8%2C12-13) nimmt einen wesentlichen Teil des Lichtes und damit auch der Orientierung (für die Seefahrt). Sie ähnelt der [neunten Plage](https://www.bibleserver.com/SLT/2.Mose10%2C22-23), die eine extreme Wirkung hatte und auch den Unterschied zwischen Ägyptern und Israeliten zeigte.
 
 Warum wirken sich die Plagen nur auf den dritten Teil aus? Die Posaunen richten sich gegen Gottes Schöpfung (auch die letzten Posaunen gegen den Menschen), die unter die Sünde gefallen ist. Da ein [mit Satan ein Drittel der Sterne gefallen ist](../../../../content/jesus/expl/a-different-christmas-story), wird daher vermutlich auch eine Drittel der Schöpfung betroffen sein.
-
 
 ## Die fünfte und sechste Posaune
 
@@ -82,9 +76,7 @@ In [diesem Vers](https://www.bibleserver.com/SLT/Offenbarung11%2C13) wird das Wo
 - [als Kornelius einen Engel sah, als seine Gebete erhört wurden](https://www.bibleserver.com/SLT/Apostelgeschichte10%2C4),
 - [als der römische Statthalter Felix die Folgen des Evangelium hörte](https://www.bibleserver.com/SLT/Apostelgeschichte24%2C25) und Paulus bat, aufzuhören zu reden.
 
-
 Das Wort Furcht kann hier besser mit “waren überwältigt” übersetzt werden.
-
 
 ## Further reading
 
@@ -95,4 +87,3 @@ Das Wort Furcht kann hier besser mit “waren überwältigt” übersetzt werden
 
 [Beale, Revelation, Seiten 445–520](../../../../about/ressources/index.html#beale_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/expl/the-trumpets-in-revelation.de.md)

@@ -3,15 +3,12 @@ title: "1000 Jahre Paradies?"
 weight: 1
 ---
 
-
 Das Tausendjährige Reich wird oft als perfekte Welt beschrieben, in der die Guten herrschen und die Bösen gebunden werden, bevor es einen neuen Himmel und eine neue Erde gibt. Aber ist das wirklich so?
-
 
 ## Unser Text
 
 <a name="cedf"></a>
 Wir haben es fast geschafft und sind in [Kapitel 20](https://www.bibleserver.com/SLT/Offenbarung20).
-
 
 ## Die 1000 Jahre
 
@@ -23,7 +20,6 @@ Du hast vielleicht schon viel darüber gehört, aber lass uns doch einmal sehen,
 - Es ist alles sehr vage: enthauptete Menschen, die um Jesu willen gestorben sind, werden (wie?) (über wen [die Schöpfung, nicht so gute Christen, über sich selbst?]) herrschen.
 - Es gibt keinen wirklichen Grund, warum der neue Himmel und die neue Erde nicht sofort beginnen sollten. Es ist kein Vorteil des Tausendjährigen Reiches ersichtlich.
 
-
 Wie man sieht, ist es schwierig, in einer so kurzen Passage wirklich Schlussfolgerungen zu finden, und es ist wohl besser anzunehmen, dass es sich um ein Thema handelt, das im Buch bereits angesprochen wurde.
 
 Ich vermute, dass diese Verse folgendes beschreiben:
@@ -32,15 +28,12 @@ Ich vermute, dass diese Verse folgendes beschreiben:
 - Jetzt regiert die Gemeinde, indem sie Zeugnis ablegt und betet, auch wenn sie schwach erscheint — die Zeit der Gemeinde.
 - Wenn diese Zeit vorbei ist, wird Satan einen letzten Aufstand versuchen, aber er wird schrecklich scheitern — Jesu zweites Kommen.
 
-
-
 ## Warum dann dieses Kapitel?
 
 <a name="914c"></a>
 Dieses Kapitel fasst die Botschaft des Buches kurz zusammen: Die Gemeinde regiert, auch und gerade wenn sie leidet und hoffnungslos erscheint, wie die Gemeinden in Smyrna und Philadelphia, solange sie treu bleibt in Anbetung und Zeugnis.
 
 Sogar im Tod regiert sie (damals wurden nur Könige und andere einflussreiche Persönlichkeiten enthauptet, im Gegensatz zu anderen grausamen Hinrichtungsarten).
-
 
 ### Reflektion
 
@@ -50,19 +43,8 @@ Sogar im Tod regiert sie (damals wurden nur Könige und andere einflussreiche Pe
 - Wo hast du erlebt, dass du (auch unbewusst) als König behandelt wirst, weil du an Christus glaubst?
 - Was gibt dir Hoffnung durchzuhalten?
 
-
-
-
-
-
-
 ## Zur Vertiefung
 
 <a name="d194"></a>
 - [Das Tausendjährige Reich](../../../../content/1000y/expl/the-thousand-year-kingdom)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/appl/1000-years-of-paradise.de.md)

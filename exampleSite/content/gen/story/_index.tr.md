@@ -3,14 +3,12 @@ title: "Vahiy Kitabı — İlk bakış"
 weight: 1
 ---
 
-
 ### Eski dünya
 
 <a name="7603"></a>
 Uzun süredir inanan biri olabilirsiniz ve önemli soruların yanıtlarını biliyor olabilirsiniz: Kurtulmak için ne yapılması gerektiği, nasıl kutsanmış ve başarılı bir hayat yaşanacağı ve cennete nasıl gidileceği.
 
 Dünyadaki yerinizi buldunuz ve nasıl manevra yapacağınızı biliyorsunuz. Hayatta açık sorular ve bazı zorluklar olabilir ama hep birlikte üstesinden gelirsiniz. Hayat mükemmel olmayabilir ama cennete gittiğimizde her şey güzel olacak. Ve işte Vahiy kitabının keşfi geliyor.
-
 
 ### Yeni başlangıçlar ([Bölüm 1](https://www.bibleserver.com/TR/Vahiy1))
 
@@ -19,14 +17,12 @@ Ancak kendinize hikayenin bundan daha fazlası olup olmadığını sorabilirsini
 
 Kilise dünyanın ışığı olmalı ve İsa’nın gücüyle yaşamalıdır. İsa’nın kiliseyle ilgili düşüncesi ne eksik ne de fazladır. Ama kilise buna ayak uyduruyor mu?
 
-
 ### Büyük bir felaket ([Bölüm 2–3](https://www.bibleserver.com/TR/Vahiy2))
 
 <a name="83ff"></a>
 Şimdi kiliselere bakın. Çalışkan kilise Efes’le başlıyoruz. Çalışıyorlar, katlanıyorlar ve öğretiyi temiz tutuyorlar, ama asıl şey eksik: Sevgi, var olmalarının nedeni. Bu kilisenin hiçbir amacı yoktur ve yok olabilir.Ama bir sonraki kilise çok farklıdır: Smyrna. Küçük bir kasaba, dinsiz bir toplum tarafından ezilmiş, kilise zulüm altında ve Yahudiler tarafından nefret ediliyor. Bu, içinde olmak isteyebileceğiniz bir kilise değil, ama İsa’dan büyük övgüler alan iki kiliseden biri.Ayrıca Bergama Şeytan’ın tahtının da orada olması nedeniyle büyük baskı altındadır. Çok şey atlatırlar — şehitlik bile — ama insanları Tanrı’dan uzaklaştıran yanlış öğretilere izin verirler.Thyatira’da durum daha da kötüdür: Sorunun nedeni önderliğin kendisidir.Sardes’te durum daha iyi değildir, çünkü burada insanlar Tanrı’nın yardımı olmadan her şeyi halledebileceklerini düşünürler ve neredeyse tamamen başarısız olurlar.Ancak Philadelphia suçsuzdur. Ancak katılmak isteyeceğiniz bir kilise değildir, çünkü diğer tüm sorunların yanı sıra bu kilise üyeleri de dahil olmak üzere mali açıdan tükenmiştir.Geriye bir tek Laodikya kalıyor ki, o da İsa’dan her türlü övgüyü alan tek kilisedir, hatta kilise kendisinden çok etkilenmiştir.Ancak İsa onlardan vazgeçmez, bireysel öğütler, uyarılar ve vaatler verir.
 
 {{< figure src="/images/Churches_tr.jpg" title="Src: https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" >}}
-
 
 ### Rehberlik önde ([Bölüm 4–5](https://www.bibleserver.com/TR/Vahiy4))
 
@@ -39,7 +35,6 @@ Ancak oturup ibadet etmenin tüm sorunları çözeceğini düşünüyorsanız ya
 
 O, dünyayı yönetmeye layık olduğu için bu büyük yolculukta bizim gerçek kahramanımız ve rehberimizdir. Ancak bunu kabul ettiğimizde ve yaşadığımızda geri dönüşü olmayan bir yolculuğa başlarız.
 
-
 ### Kötülük uyanıyor — orduya katılın ([Bölüm 6–7](https://www.bibleserver.com/TR/Vahiy6))
 
 <a name="c33e"></a>
@@ -49,7 +44,6 @@ Kilise bunun dışında değildir. Hayır, o bunun tam ortasındadır ve Tanrı�
 
 Bu gerçekleşene kadar Tanrı’nın ordusuna katılmamız gerekir. Ama bu neye benziyor? Bizim savaşımız şeytan gibi şiddetle değil, Rablerine olan sevgilerinden dolayı her şeye katlanan tapınanlardan oluşan bir ordudur.
 
-
 ### İlk grev ([Bölüm 8–9](https://www.bibleserver.com/TR/Vahiy8))
 
 <a name="3037"></a>
@@ -57,12 +51,10 @@ Kilisenin gücünü ortaya koymasının zamanı gelmiştir. Çarmıha gerilen İ
 
 Putları onlara karşı dönüp umutlarını yitirmelerine neden olduğunda bile gevşemezler, öyle ki yaşamlarına son vermek isterler ama yapamazlar ve sonunda bunu yaparlar. Kilise korunur — onlar pes etmezler. Ama insanlar büyük acılar çeker ama yine de putlarına bağlı kalırlar.
 
-
 ### Gerçeklik kontrolü ([Bölüm 10](https://www.bibleserver.com/TR/Vahiy10))
 
 <a name="f65c"></a>
 Kilise başarısız oldu. İlk saldırıları kalplerin katılaşmasından başka bir şeyle sonuçlanmadı. Zor zamanlar tek başına insanları değiştirmez. Onları değiştiren Tanrı’nın gizemidir. Ve bu şimdi açıklanacak ve sindirilmesi biraz zaman alacak.
-
 
 ### Büyük çatışma ([Bölüm 11–13](https://www.bibleserver.com/TR/Vahiy11))
 
@@ -80,9 +72,7 @@ Ama şeytan etrafımızdayken kilise zayıf olabilir mi? Onun başarılarına bi
 - İsrail’i yok etmeye çalıştı — ve yine başarısız oldu
 - Sonunda kiliseye zulmeder ve Tanrı’yı taklit eder — ve alay konusu olur
 
-
 Görev şeytanı yenmek değil — bu İsa tarafından yapıldı — insanları Tanrı ile bir ilişkiye çekmektir
-
 
 ### Zafer ([Bölüm 14–16](https://www.bibleserver.com/TR/Vahiy14))
 
@@ -95,7 +85,6 @@ Kontrol etme zamanı geldi. İki hasat orada acı gerçeği ortaya çıkarır. B
 
 Ve bu Tanrı’nın gayretinin devreye girme zamanıdır. Sahte sadakate, halkına saldırmaya, yürekleri katılaştırmaya ve şeytanın aldatmacasına karşı, bu krallık tamamen çökene kadar sarsacak ve sarsacaktır.
 
-
 ### Nihai savaş ([Bölüm 17–19](https://www.bibleserver.com/TR/Vahiy17))
 
 <a name="517a"></a>
@@ -107,7 +96,6 @@ Pek çok kişi bu mükemmel maskaralıkla kandırılmaktadır. Bu son saldırı 
 
 Artık şeytanı ve yardakçılarını nihayet yok etmenin yolu açılmıştır.
 
-
 ### Yeni bir başlangıç ([Bölüm 20–22](https://www.bibleserver.com/TR/Vahiy20))
 
 <a name="a287"></a>
@@ -117,9 +105,3 @@ Bundan sonra gelin damatla buluşur ve sonsuza kadar ona katılır.
 
 Hikayeyi anladınız mı? Öyleyse devam edin ve günlük hayatınızda buna göre yaşayın.
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/index/intro/the-book-of-revelation.tr.md)

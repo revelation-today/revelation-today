@@ -3,9 +3,7 @@ title: "Kiliselerin melekleri"
 weight: 4
 ---
 
-
 İncil’in Vahiy kitabında tekrarlanan bir ifade vardır: Kilisenin meleğine yaz. Kiliselerin koruyucu melekleri var mı? Kiliselerin önderleri melek midir? Peki, daha derin bir bakış atalım
-
 
 ## Olası olmayan yorumlar
 
@@ -13,7 +11,6 @@ weight: 4
 Kiliselerin melekleri kiliseleri gözetleyen koruyucu melekler olabilir mi? Muhtemelen hayır, çünkü İsa’nın Yuhanna’ya meleklere yazması gereken bir mesaj iletmesi biraz gariptir — başka yollar da vardır. Hem meleklere nasıl yazarsınız ki? [Ayrıca kilisedeki bazı üyeler sadık değilse meleği suçlamak zor olacaktır](https://www.bibleserver.com/TR/Vahiy2%3A24-25).
 
 Ya da melek olarak anılan bir lider olabilir. Bireylerin başarısızlıkları için onu suçlamak da zor olurdu.
-
 
 ## Gözlemler
 
@@ -27,8 +24,6 @@ Bazı gözlemler yapmak için biraz zaman ayıralım
 - Burada melekler, Yahudi ya da erken dönem Hıristiyan literatüründe alışılmadık bir şekilde artikelsiz olarak kullanılmıştır
 - bu meleklere kitabın geri kalanında bir daha asla atıfta bulunulmadı
 
-
-
 ## Melekler = Kiliseler
 
 <a name="1220"></a>
@@ -40,14 +35,11 @@ Ayrıca
 - kiliselere yazılan mektuplar genellikle bireylere yazılmaz
 - kiliselere mektuplarda veya peygamberlik konuşmalarında [çoğul](https://www.bibleserver.com/TR/Sefanya2%3A1-5) olarak da hitap edilir
 
-
 Öyleyse kiliselere neden melek olarak hitap edilsin ki?
 
 - Kilise, bir meleğin bir “birim” olması gibi birlik içinde olmalıdır. Bu onların özel kurtuluşları/Tanrı’ya giden yolları değil, bir bütün olarak sorumluluk almalarıdır.
 - Onlara melek (angelos = haberci) olarak hitap ederek, ilahi amaçlarını hatırlatır.
 - Onlardan melek olarak bahsedilmesi, işlerini kendi güçleriyle halledemeyeceklerini, ilahi desteğe (Kutsal Ruh) ihtiyaç duyduklarını gösterir.
-
-
 
 ## Daha fazla okuma
 
@@ -59,5 +51,3 @@ Ayrıca
 
 [Aune, Revelation, sayfalar 108–112](../../../../about/ressources/index.html#aune_rev)
 
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-angel-of-the-churches.tr.md)

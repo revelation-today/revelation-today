@@ -2,15 +2,12 @@
 title: "A real hero"
 ---
 
-
 What is a hero? Usually a person of destruction. What should a hero be? What does the Bible say about it?
-
 
 ## The two kingdoms
 
 <a name="c73c"></a>
 There are two realms defined by lack or abundance. Some people call them the realm of beggars and of kings.
-
 
 ## The kingdom of lacking
 
@@ -20,7 +17,6 @@ In the realm of lack, people have limited resources. If you have something, no o
 People in this realm may be kind people, but their answers are to restrict (imprison, brainwash) or destroy (kill) evil people. Their heroes are those who are stronger than the wicked and kill or bind them.
 
 The problem is that there is no clear line between good and evil, so even the heroes have one foot on the evil side. So the key here is balance: Don’t be too good and don’t be too bad. Make peace with your greed and abuse, because resources are limited, so what can you do? In addition, you cannot be merciful to your enemy and he may recover and destroy you.
-
 
 ## The realm of abundance
 
@@ -32,7 +28,6 @@ So the answer to evil is different than in the other realm. Here, dealing with e
 It is ok here that heroes are not perfect, as they can also heal while helping others.
 
 The work here is to learn and increase trust and learn to give and love.
-
 
 ## A real hero
 
@@ -57,9 +52,3 @@ But a super hero is different: He does not need to worry to protect himself and 
 
 He has the potential to heal and restore evil people as he is not afraid to get destroyed. He can share because he knows he is provided for
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/a-real-hero.md)

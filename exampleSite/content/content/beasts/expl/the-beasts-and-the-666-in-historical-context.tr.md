@@ -3,9 +3,7 @@ title: "Tarihsel bağlamda canavarlar ve 666"
 weight: 3
 ---
 
-
 Vahiy kitabındaki ejderha ve iki canavar normalde çok soyut (kötü güçler) ya da çok “yaratıcı” olarak yorumlanır. Gerçekte kimdirler?
-
 
 ## İlk okuyucuların bağlamı
 
@@ -17,7 +15,6 @@ Denizden ve karadan gelen iki canavar
 - [Eyüp’te Tanrı tarafından kılıçla öldürülen](https://www.bibleserver.com/TR/Ey%C3%BCp40%3A19) ve [Vahiy’de de kılıçla yaralanan](https://www.bibleserver.com/TR/Vahiy13%3A14) [Behemoth](https://www.bibleserver.com/TR/Ey%C3%BCp40%3A15-24) (yeryüzünden gelen canavar) ve
 - [Ağzından alevler çıkan](https://www.bibleserver.com/TR/Ey%C3%BCp41%3A19) [Leviathan](https://www.bibleserver.com/TR/Ey%C3%BCp41) (deniz canavarı)
 
-
 Bu canavar [Tanrı tarafından bastırılır](https://www.bibleserver.com/TR/Ey%C3%BCp7%3A12) ve [Yeşaya’da](https://www.bibleserver.com/TR/Ye%C5%9Faya27%3A1) olduğu gibi Yahudi geleneğinde de Tanrı’nın onları ahir zamanda fethetmesi beklenir.
 
 Her iki canavar da insanlarla boy ölçüşemez ama [Tanrı için bir oyuncaktır](https://www.bibleserver.com/TR/Mezmur104%3A26).
@@ -26,12 +23,10 @@ Her iki canavar da insanlarla boy ölçüşemez ama [Tanrı için bir oyuncaktı
 
 “Yeryüzünden” kastedilen yerel siyasi ve ekonomik otoritelerdir.
 
-
 ## Ejderha
 
 <a name="744e"></a>
 Anlaşılması çok açık. O şeytandır. O her şeyin arkasındaki kukla ustasıdır ve [ete kemiğe karşı savaşmadığımız](https://www.bibleserver.com/TR/Efesliler6%3A12) için kötülüğün gerçek kaynağıdır. Gerçekte iktidarda değildir ama yeryüzündeki güçleri o yönlendirir.
-
 
 ## İlk canavar
 
@@ -39,7 +34,6 @@ Anlaşılması çok açık. O şeytandır. O her şeyin arkasındaki kukla ustas
 Bu Roma’daki (denizden gelen) imparator. Kendisinden önceki tüm hükümdarlardan farklı değildir. Ve belirli bir imparatorun sona ermesiyle (Nero’nun ölümü, Tiberius, ..) ilk canavar ölmez. [Her yeni imparatorla birlikte yeniden dirilir. Roma yenilmezdir](https://www.bibleserver.com/TR/Vahiy13%3A3-4).
 
 [Roma, Tanrı’ya benzediğini iddia](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) ettiği için [Tanrı’ya küfretmektedir](https://www.bibleserver.com/TR/Vahiy13%3A4-6). İmparator, Roma lejyonlarına komuta eden ve uyum sağlamayan herkesi kıran kişidir. [Tanrı’nın halkına karşı zulümler başlatır ve başarılı olur](https://www.bibleserver.com/TR/Vahiy13%3A7-8). Ve yaşam kitabında yazılı olmayan herkes onun önünde diz çökecektir, çünkü [o güce sahiptir ve azizler sadece dayanabilir](https://www.bibleserver.com/TR/Vahiy13%3A10).
-
 
 ## İkinci canavar
 
@@ -56,7 +50,6 @@ Halkın ellerine ve alınlarına işaret konur. Eski Antlaşma’da bu, [sadakat
 
 Eğer düşmezseniz, [maddi olarak mahvolursunuz](https://www.bibleserver.com/TR/Vahiy13%3A16-17).
 
-
 ## Ne yapmalıyım?
 
 <a name="93e3"></a>
@@ -68,6 +61,3 @@ Ve tüm bunların içinde: [Dayanıklılık](https://www.bibleserver.com/TR/Vahi
 
 [Beale, Revelation, sayfalar 682–684](../../../../about/ressources/index.html#beale_rev)
 
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-beasts-and-the-666-in-historical-context.tr.md)

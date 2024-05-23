@@ -3,9 +3,7 @@ title: "The New Jerusalem"
 weight: 2
 ---
 
-
 What will heaven be like and what will hell be like? This is hard to say in detail, but the book of Revelation gives us some insight.
-
 
 ## The structure of the chapter
 
@@ -23,7 +21,6 @@ We can structure the passage as follows:
 - 21/6 -&gt; 22/1
 - 21/8 -&gt; 21/27a
 
-
 22/9–22/5: The New Jerusalem
 
 - 21/9–14: first impression of the town
@@ -31,8 +28,6 @@ We can structure the passage as follows:
 - 21/18–21: material of the town
 - 21/22–27: internal features of the town
 - 22/1–5: symbols of Gods presence
-
-
 
 ## Introduction of the New Jerusalem
 
@@ -47,7 +42,6 @@ We can structure the passage as follows:
 
 Here [many of the Old Testament promises will be fulfilled](https://www.bibleserver.com/NIV/Isaiah65%3A17-25).
 
-
 ### No more sea
 
 <a name="a258"></a>
@@ -56,9 +50,7 @@ It is said, that there [will be no more a sea](https://www.bibleserver.com/NIV/R
 - the place of the origin of evil as in [Revelation](https://www.bibleserver.com/NIV/Revelation13%3A1) or by describing the sea monsters [Leviathan](https://www.bibleserver.com/NIV/Psalm74%3A13-14) or [Rahab](https://www.bibleserver.com/NIV/Isaiah51%3A9-10) or by personifying evil kings as sea monsters like [Pharaoh](https://www.bibleserver.com/NIV/Ezekiel32%3A2), evil kings in general, or the [sea itself as an evil medium](https://www.bibleserver.com/NIV/Psalm93%3A3-4).
 - [the place of the death](https://www.bibleserver.com/NIV/Revelation20%3A13) along with Hades.
 
-
 So if there is no more sea, then there is no place where evil can dwell and oppress the faithful. The [sea is rather outside of the town](https://www.bibleserver.com/NIV/Revelation20%3A14-15).
-
 
 ### Jerusalem the Holy town
 
@@ -74,7 +66,6 @@ This thought is picked up in the New Testament as
 - [there is a heavenly Jerusalem](https://www.bibleserver.com/NIV/Hebrews12%3A22)
 - [Jerusalem is free](https://www.bibleserver.com/NIV/Galatians4%3A26-31)
 
-
 The is an interesting parallel to [verses 10 and 11](https://www.bibleserver.com/NIV/Revelation21%3A10-11):
 
 Verse 2: new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband
@@ -82,7 +73,6 @@ Verse 2: new Jerusalem, coming down out of heaven from God, prepared as a bride 
 Verse 10–11: Holy City, Jerusalem, coming down out of heaven from God. It shone with the glory of God
 
 The beautiful dress of the bride is the glory of God. And [Gods glory is His mercy and compassion](https://www.bibleserver.com/NIV/Exodus33%3A17-23) which also the church should reflect
-
 
 ### God lives with the people
 
@@ -93,7 +83,6 @@ The loud voice was there before in the [judgment of the kingdom of Satan ](https
 
 That God lives with his people is a [promise in the Pentateuch](https://www.bibleserver.com/NIV/Leviticus26%3A11-12), picked up in [Ezekiel](https://www.bibleserver.com/NIV/Ezekiel37%3A27), when he [returns to the temple](https://www.bibleserver.com/NIV/Ezekiel43%3A7) and [even including the nations](https://www.bibleserver.com/NIV/Zechariah2%3A10-11). This is also a topic in the [New Testament](https://www.bibleserver.com/NIV/2%20Corinthians6%3A16) and in Revelation.
 
-
 ### Wipe away the tears
 
 <a name="cbf4"></a>
@@ -103,14 +92,12 @@ This is another promise form [Isaiah, where tears and death flee](https://www.bi
 
 The [first will be gone with all its mourning](https://www.bibleserver.com/NIV/Isaiah65%3A17-20) and we [should with this vision not look back but forward](https://www.bibleserver.com/NIV/Isaiah43%3A18).
 
-
 ### All things new
 
 <a name="ad18"></a>
 “[He who was seated on the throne said, ‘I am making everything new!’ Then he said, ‘Write this down, for these words are trustworthy and true.’](https://www.bibleserver.com/NIV/Revelation21%3A5)”
 
 [All things new](https://www.bibleserver.com/NIV/Isaiah43%3A18-19) is fulfilled in [Jesus who started with us the new creation](https://www.bibleserver.com/NIV/2%20Corinthians5%3A17).
-
 
 ### Living water
 
@@ -120,7 +107,6 @@ The [first will be gone with all its mourning](https://www.bibleserver.com/NIV/I
 This is the fulfillment from [Isaiah](https://www.bibleserver.com/NIV/Isaiah49%3A10), where God gives for free to drink. The Term “[without cost](https://biblehub.com/greek/1432.htm)” is used in [John](https://www.bibleserver.com/NIV/John15%3A25), [Matthew](https://www.bibleserver.com/NIV/Matthew10%3A8), the epistle to the [Corinthians](https://www.bibleserver.com/NIV/2%20Corinthians11%3A7), [Galatians](https://www.bibleserver.com/NIV/Galatians2%3A21), [Romans](https://www.bibleserver.com/NIV/Romans3%3A24) and the [Thessalonians](https://www.bibleserver.com/NIV/2%20Thessalonians3%3A8) and very often used with gift for free.
 
 The living water has it source in [God](https://www.bibleserver.com/NIV/Jeremiah2%3A13), he [gives abundant to drink](https://www.bibleserver.com/NIV/Psalm36:8-9), even [overflowing](https://www.bibleserver.com/NIV/Joel3%3A18) and of course fulfilled in Jesus with the [woman on the well](https://www.bibleserver.com/NIV/John4%3A10) and as [a promise to all believers in him](https://www.bibleserver.com/NIV/John7%3A38).
-
 
 ### The overcomer
 
@@ -137,8 +123,6 @@ The churches that overcome in chapter 2 and 3 will see here the promises
 - [Pergamon](https://www.bibleserver.com/NIV/Revelation2%3A17) and [Thyatira](https://www.bibleserver.com/NIV/Revelation2%3A28) are promised to have a [light stone](https://www.bibleserver.com/NIV/Revelation21%3A11)([s](https://www.bibleserver.com/NIV/Revelation21%3A18-21)).
 - [Thyatira](https://www.bibleserver.com/NIV/Revelation2%3A26-27) and [Laodicea](https://www.bibleserver.com/NIV/Revelation3%3A21) are promised to [rule with Jesus](https://www.bibleserver.com/NIV/Revelation22%3A5)
 - [Smyrna](https://www.bibleserver.com/NIV/Revelation2%3A11) is promised to be [excluded from the second death](https://www.bibleserver.com/NIV/Revelation21%3A7-8)
-
-
 
 ### Ready for the second death
 
@@ -157,13 +141,11 @@ They are all linked to idolatry:
 - sexually immoral linked to temple prostitution
 - practise magic arts [links with idolatry](https://www.bibleserver.com/NIV/Deuteronomy18%3A9-11) also with [Jesebel](https://www.bibleserver.com/NIV/2%20Kings9%3A22)
 
-
 Liars have betrayed the faith as [they call themselves apostels](https://www.bibleserver.com/NIV/Revelation2%3A2), [act in Satans way](https://www.bibleserver.com/NIV/Revelation3%3A9), [bring false testimony](https://www.bibleserver.com/NIV/Acts6%3A13), [disobeying his Jesus word](https://www.bibleserver.com/NIV/1%20John2%3A4), [denies that Jesus is Lord](https://www.bibleserver.com/NIV/1%20John2%3A22), [who hates his brothers or sisters](https://www.bibleserver.com/NIV/1%20John4%3A20) and who [don’t believe we have eternal life in Jesus](https://www.bibleserver.com/NIV/1%20John5%3A10).
 
 The list is repeated [at the very end](https://www.bibleserver.com/NIV/Revelation22%3A15) and in a [shorter version at the end of the chapter](https://www.bibleserver.com/NIV/Revelation21%3A27), but in all cases ends with liar as it is [important that we are consistent with our words and deeds](https://www.bibleserver.com/NIV/Titus1%3A16).
 
 The [ultimate liar is Satan](https://www.bibleserver.com/NIV/John8%3A44) and we want to be very distinguished from him.
-
 
 ## Details of the New Jerusalem
 
@@ -179,11 +161,9 @@ The New Jerusalem is the counterpart to Babel when we look at the [larger contex
 - Babel destroys itself and Jerusalem stays forever
 - Babel gets rich by exploitation and persecution but Jerusalem is rich as Gods gift
 
-
 The twelve gates refer to the 12 tribes and the 12 foundation stones refer to the 12 apostel. The [2 times 12 reflect the eternal worship in heaven](https://www.bibleserver.com/NIV/Revelation4%3A4), but also is a reminder to look for reconciliation between Jews and Non-Jews which [conflict is described throughout the book](../../../../background/israel/expl/israel-and-the-church).
 
 The strange thing is that the apostel are the foundation of the tribes (church foundation for Israel), but this [makes sense when looking that Jesus the fulfillment of Israel is which is worked out by the church](https://www.bibleserver.com/NIV/Ephesians2%3A20). Judah is in the [book also listed as the first of tribes reflecting Jesus](https://www.bibleserver.com/NIV/Revelation7%3A4-8).
-
 
 ### [The measurement of the city](https://www.bibleserver.com/NIV/Revelation21%3A15-17)
 
@@ -206,7 +186,6 @@ Now everyone is closest to God. But not only that. All [the unbelievers are outs
 
 Another aspect is that the size of the city is about the size of the Hellenistic world (Roman Empire) at that time, so there is room for everyone who is willing to enter.
 
-
 ### [The material of the city](https://www.bibleserver.com/NIV/Revelation21%3A18-21)
 
 <a name="73fd"></a>
@@ -219,7 +198,6 @@ Interesting is that also the [temple of Solomon is build with four rows of stone
 Our translation says that the “the first foundations is decorated with jasper”, but a [better translation is “the first foundation IS jasper”](https://biblehub.com/interlinear/revelation/21-19.htm).
 
 The mention of the [street in the New Jerusalem](https://www.bibleserver.com/NIV/Revelation21%3A21) reminds of [the two witnesses who’s dead body were exposes](https://www.bibleserver.com/NIV/Revelation11%3A8), but now the street is in honor of them. Our former shame will be replace by eternal glory.
-
 
 ### [The internal features](https://www.bibleserver.com/NIV/Revelation21%3A22-27)
 
@@ -254,7 +232,6 @@ The [gates are not open to have exchange with the outside but to show the result
 
 While the faithful can come in, [the unfaithful can not](https://www.bibleserver.com/NIV/Revelation21%3A27) which is also reflected in two [passages](https://www.bibleserver.com/NIV/Isaiah52%3A1) in [Isaiah](https://www.bibleserver.com/NIV/Isaiah35%3A8) where [shortly before pools of waters flow](https://www.bibleserver.com/NIV/Isaiah35%3A7), and here in Revelation the water comes after this verse.
 
-
 ### [Symbols of Gods presence](https://www.bibleserver.com/NIV/Revelation22%3A1-5)
 
 <a name="38e5"></a>
@@ -263,7 +240,6 @@ This is based on
 - the [river from the altar](https://www.bibleserver.com/NIV/Ezekiel47%3A1-9),
 - the [river when Jerusalem is rebuild](https://www.bibleserver.com/NIV/Zechariah14%3A8) and
 - the [water from the house of the Lord watering the trees](https://www.bibleserver.com/NIV/Joel3%3A18)
-
 
 There is also a description in the [creation story where the rivers there related to precious stones](https://www.bibleserver.com/NIV/Genesis2%3A10-12) as in [Revelation](https://www.bibleserver.com/NIV/Revelation21%3A19-20).
 
@@ -274,17 +250,13 @@ The source of all this is (the throne of) God and the Lamb. Water is often assoc
 - [living water and worship in the Spirit](https://www.bibleserver.com/NIV/John4%3A10-24)
 - [water and Spirit as witnesses](https://www.bibleserver.com/NIV/1%20John5%3A7-8)
 
-
 Finally, the circle is closed to the beginning (of creation and fall): [The Tree of Life is back and everyone has access to it](https://www.bibleserver.com/NIV/Revelation22%3A2).
 
 All the evil is gone and we can fully focus on serving God.
 
 The [name on the forehead](https://www.bibleserver.com/NIV/Revelation22%3A4) was [originally on the priests forehead](https://www.bibleserver.com/NIV/Exodus28%3A36-38) and shows [that the character of God is imprinted on them and now us](https://www.bibleserver.com/NIV/1%20John3%3A2).
 
-
 ## Dig Deeper
 
 [Beale, Revelation, pages 1039–1121](../../../../about/ressources/index.html#beale_rev)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/the-new-jerusalem.md)

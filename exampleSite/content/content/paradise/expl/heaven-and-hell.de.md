@@ -3,9 +3,7 @@ title: "Himmel und Hölle"
 weight: 3
 ---
 
-
 Was sind Himmel und Hölle? Kommen alle Menschen in den Himmel? Wenn nicht, wie kann ein guter Gott Menschen in die Hölle schicken?
-
 
 ## Himmel und das Neue Jerusalem
 
@@ -20,7 +18,6 @@ Außerdem ist die Sprache von Kapitel 21 sehr stark von der Beschreibung des Tem
 
 Das Neue Jerusalem oder der Himmel wird als ein Ort der größten Nähe zu Hott beschrieben.
 
-
 ## Hingabe
 
 <a name="477f"></a>
@@ -29,7 +26,6 @@ Das Thema des Tempels wird auch in Kapitel 11 behandelt, wo der Tempel mit Anbet
 Während das Neue Jerusalem als ein Würfel beschrieben wird, ist ALLES außerhalb dieses Würfels die Hölle. Man ist also entweder ganz draußen oder ganz drinnen. Aber ist das nicht etwas extrem?
 
 Ehrlich gesagt, nein. Denn hier geht es um die Priorität. Wenn man sich Gott nicht völlig hingibt, dann gibt es etwas, das für diese Person wichtiger ist und/oder etwas, dem sie mehr vertraut. Und das ist der Schlüssel in jeder Beziehung. Da der Himmel für die Ewigkeit ist, sollte man dort bleiben, auch wenn das Herz woanders ist.
-
 
 ## Was ist dann die Hölle?
 
@@ -42,7 +38,3 @@ Gott wird niemanden zu einer Beziehung mit ihm zwingen. Wenn wir nicht ganz bei 
 
 Der Begriff Hölle wird oft als Drohung benutzt, um Angst zu erzeugen: Wenn du dich nicht bekehrst und Christ wirst, kommst du in die Hölle. Nun, das ist nicht ganz falsch, aber [Angst und Manipulation sind die Werkzeuge Satans,](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) nicht der Gemeinde, die ihr [Zeugnis](../../../../topics/power/short/the-power-of-testimony) nutzt.
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/paradise/expl/heaven-and-hell.de.md)

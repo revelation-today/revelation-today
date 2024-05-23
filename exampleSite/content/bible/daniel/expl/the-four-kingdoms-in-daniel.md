@@ -3,9 +3,7 @@ title: "The four kingdoms in Daniel"
 weight: 20
 ---
 
-
 The book of Daniel seems to be the source of many end-time interpretations. Let’s take a closer look at what this is all about and start with the basics.
-
 
 ## The four kingdoms
 
@@ -19,8 +17,6 @@ Looking at chapter 2 we have a starting point because [the first one is Babel](h
 The third would be the [Greek under Alexander the great who conquered the Median/Persian Empire](https://www.bibleserver.com/NIV/Daniel8%3A19-21). This empire split into 4 empires after the death of Alexander the Great, which were eventually consumed by the Roman Empire.
 
 If we look at chapter 7, we see a similar picture.
-
-
 
 It begins with Babel:
 
@@ -78,5 +74,3 @@ There is much controversy about the ten kings and the three horns, about which D
 
 [Dabarlines, The book of Daniel, pages 38–46](../../../../about/ressources/index.html#dabar_daniel)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-four-kingdoms-in-daniel.md)

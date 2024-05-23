@@ -4,7 +4,6 @@ title: "Kiliseler için mektuplar (Böl.1-3)"
 weight: 2
 ---
 
-
 Tanrı'nın kilise için vizyonu nedir? Sadece kurtarılmak ve cennete gitmek mi?
 
 Tanrı'nın vizyonu dünyaya ışık olmamızdır - Tanrı'nın karakteri için tartışılmaz bir örnek olmalıyız - ama aynı zamanda Tanrı'ya tam bağımlılık içinde yürümeliyiz.

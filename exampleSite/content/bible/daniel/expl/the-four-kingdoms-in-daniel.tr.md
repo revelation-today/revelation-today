@@ -3,9 +3,7 @@ title: "Dört Krallık"
 weight: 20
 ---
 
-
 Daniel kitabı pek çok ahir zaman yorumunun kaynağı gibi görünmektedir. Tüm bunların neyle ilgili olduğuna daha yakından bakalım ve temel bilgilerle başlayalım.
-
 
 ## Dört Krallık
 
@@ -46,7 +44,6 @@ Sonunda Romalılar geliyor:
 
 Romalılar son Yunan imparatorluklarını fethettiler ve onlarla ilgili her şeyi teslim eden en büyük imparatorluk oldular. Demir aynı zamanda [bölüm 2'nin](https://www.bibleserver.com/TR/Daniel2%3A40) de [malzemesiydi](https://www.bibleserver.com/TR/Daniel2%3A40).
 
-
 ## Krallıkların sonu
 
 <a name="bcbd"></a>
@@ -55,7 +52,6 @@ Her iki bölümde de son tanrısal bir olayla açıklanır. 2. bölümde bu olay
 Bu, [kilisenin temeli](https://www.bibleserver.com/TR/Efesliler2%3A19-22) olan [İsa Mesih’in](https://www.bibleserver.com/TR/1.Petrus2%3A4-8) [köşe taşı](https://www.bibleserver.com/TR/Ye%C5%9Faya28%3A16) olduğunu hatırlatır. O, “insan eliyle” üretilmemiştir ve kiliseye yönetme yetkisini veren dünyanın yöneticisi olmuştur.
 
 7. bölüme baktığımızda da bir müdahaleyle karşılaşırız: Günümüzdeki kadim olan ve [krallıkların üstesinden gelerek sonsuz](https://www.bibleserver.com/TR/Daniel7%3A9-12) bir [krallık kuracak ](https://www.bibleserver.com/TR/Daniel7%3A13-14)olan insanoğlu. İnsanoğlu kimdir? Daniel’in bağlamında, [insanoğlu olarak ](https://www.bibleserver.com/TR/Daniel7%3A14)bir [krallık alan İsrail’dir](https://www.bibleserver.com/TR/Daniel7%3A18), ancak bu, insanoğlu kendisi için kullandığı tek unvan [olduğu için gerçek İsrail olarak İsa’da yerine getirilmiştir](https://www.bibleserver.com/search/TR/insano%C4%9Flu).
-
 
 ## Daha fazlası var
 
@@ -66,7 +62,6 @@ Bölüm 2 ve 7'nin aynı dört krallıktan bahsettiğini ve İsa doğduğunda ve
 - bölüm 2'deki taş (İsa’nın ilk gelişi) tüm heykeli yok etmedi (Roma İmparatorluğu 400 yıldan fazla bir süre hala oradaydı)
 - bölüm 7'deki dördüncü canavarın açıklaması Roma İmparatorluğu’nu tam olarak tanımlamıyor (korkunç ve dehşet verici, kendisinden önceki tüm canavarlardan farklı ve on boynuzu vardı) — bu imparatorluk bu yönleriyle kendisinden öncekilerden çok farklı değildi, on boynuz çok anlamlı değil ve Roma tarihinde hiçbir zaman sabitlenmedi
 - bölüm 7'deki insanoğlunun geliş sahnesi nihai bir yargıya benziyor, ancak bu Roma İmparatorluğu olacaksa, yargı çağrısından sonra pek bir şey değişmiyor gibi görünüyor
-
 
 Bu konuda pek çok düşünce var, işte benim görüşüm (diğerlerinden ödünç alınmıştır).
 
@@ -82,7 +77,3 @@ Daniel’in 7. bölümde daha fazlasını sorduğu 10 kral ve 3 boynuz hakkında
 
 [Dabarlines, The book of Daniel, sayfalar 38–46](../../../../about/ressources/index.html#dabar_daniel)
 
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-four-kingdoms-in-daniel.tr.md)

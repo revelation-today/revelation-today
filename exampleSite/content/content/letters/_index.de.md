@@ -4,7 +4,6 @@ title: "Die Sendschreiben (Kap.1-3)"
 weight: 2
 ---
 
-
 Was ist Gottes Vision für die Gemeinde? 
 Geht es nur darum, gerettet zu werden und in den Himmel zu kommen.
 

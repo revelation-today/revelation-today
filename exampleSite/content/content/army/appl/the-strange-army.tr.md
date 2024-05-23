@@ -3,15 +3,12 @@ title: "Garip ordu"
 weight: 1
 ---
 
-
 144.000 birçok kişinin duyduğu bir ifadedir. Onlar kimlerdir? Ve neden sayılmışlardır? Amaçları nedir?
-
 
 ## Bizim metnimiz
 
 <a name="aedb"></a>
 Hızla ilerliyoruz ve [7. bölüme](https://www.bibleserver.com/TR/Vahiy7) ulaştık.
-
 
 ## Tanrı’nın ordusu
 
@@ -30,7 +27,6 @@ Ayrıca bu öykü bize Hıristiyan olmanın kurtulup cennete gelmekle ilgili OLM
 
 Bizler bir ordu olarak tanımlanırız — her zaman yaralanabileceklerinden ya da ölebileceklerinden endişe eden askerler savaşa uygun değildir. Bizler Tanrı’nın ordusunun askerleriyiz, ama şiddet ordusu değil, ibadet ve tahammül ordusuyuz ve kendi kurtuluşumuza değil, Tanrı’nın planına bakmayı bıraktığımızda fethederiz.
 
-
 ### Yansıma
 
 <a name="86de"></a>
@@ -42,11 +38,7 @@ Bizler bir ordu olarak tanımlanırız — her zaman yaralanabileceklerinden ya 
 - Tanrı’nın ordusu Büyük Sıkıntı’dan geliyor. Size meydan okunduğunda imanınıza ne olacak? Daha mı güçlü olacak yoksa parçalanacak mı? Sınandığınızda Tanrı’nın imanınızı güçlendirebileceğine inanıyor musunuz? İnancınız neye dayanıyor?
 - [Translated with DeepL](https://www.deepl.com/translator?utm_source=windows&amp;utm_medium=app&amp;utm_campaign=windows-share)
 
-
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -54,10 +46,3 @@ Bizler bir ordu olarak tanımlanırız — her zaman yaralanabileceklerinden ya 
 - [144.000](../../../../content/army/expl/the-144000)
 - [Büyük sıkıntı](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/appl/the-strange-army.tr.md)

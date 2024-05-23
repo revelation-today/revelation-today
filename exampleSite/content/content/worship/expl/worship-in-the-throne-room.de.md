@@ -3,16 +3,12 @@ title: "Anbetung im Thronsaal Gottes"
 weight: 2
 ---
 
-
 Die Anbetung im Thronsaal ist die Antwort auf die Probleme der Gemeinden. Aber warum? Und was hat das mit all den Plagen zu tun, die danach kommen?
-
 
 ## Gut, davor zu lesen
 
 <a name="ef77"></a>
 - [Die Sendschreiben](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-
-
 
 ## Der Hintergrund und Kontext
 
@@ -27,7 +23,6 @@ Der letzte Vers vor diesem Kapitel erwähnte bereits den Thronsaal Gottes, aber 
 - Heilige mit Kronen als [Verheißung in Smyrna](https://www.bibleserver.com/SLT/Offenbarung2%2C10) und [Realität in Philadelphia](https://www.bibleserver.com/SLT/Offenbarung3%2C11) sowie im [Bild der 24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4)
 - Bild einer offenen Tür in der [Realität in Philadelphia](https://www.bibleserver.com/SLT/Offenbarung3%2C8) und [dem Wunsch in Laodizea](https://www.bibleserver.com/SLT/Offenbarung3%2C20) sowie der [Einführung in den Thronsaal](https://www.bibleserver.com/SLT/Offenbarung4%2C1)
 - Stimme wie eine Posaune mit Entrückung im Geist [leitet hier die Vision ein](https://www.bibleserver.com/SLT/Offenbarung4%2C1-2), aber auch die [Vision bezüglich der Gemeinden](https://www.bibleserver.com/SLT/Offenbarung1%2C10-12)
-
 
 Diese Beziehungen sollten der Kirche eine Vision für ihre geistliche Realität geben, aber auch dem Beispiel Christi folgen. Die Realität, die in dieser Vision gezeigt wird, ist Teil der Realität, nach der die Kirche handeln sollte.
 
@@ -48,15 +43,12 @@ Diese Beziehungen sollten der Kirche eine Vision für ihre geistliche Realität 
 - Heilige, denen die Autorität verliehen wird, über ein Königreich zu herrschen, nicht nur [zweimal](https://www.bibleserver.com/SLT/Daniel7%2C22), sondern [dreimal](https://www.bibleserver.com/SLT/Daniel7%2C27) in [Daniel](https://www.bibleserver.com/SLT/Daniel7%2C18) und in der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung5%2C10)
 - die abschließende Erwähnung von Gottes ewiger Herrschaft in [Daniel](https://www.bibleserver.com/SLT/Daniel7%2C27) und der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung5%2C13-14)
 
-
 Auch wenn es viele Parallelen gibt, kann man leicht erkennen, dass die Reihenfolge der Ereignisse in beiden Abschnitten unterschiedlich ist.Diese Szene erinnert an den Engelsrat wie bei
 
 - die [Berufung des Jesaja](https://www.bibleserver.com/SLT/Jesaja6%2C1-9) oder
 - die [Entscheidung über Ahabs Tod](https://www.bibleserver.com/SLT/1.K%C3%B6nige22%2C19-23)
 
-
 Auch wenn es viele Parallelen gibt, kann man leicht erkennen, dass die Reihenfolge der Ereignisse in beiden Passagen unterschiedlich ist.
-
 
 ## Warum ist Lobpreis die Antwort?
 
@@ -68,15 +60,12 @@ Wenn wir die Probleme der Gemeinden betrachten, können wir sie wie folgt untert
 - Falsche Prioritäten/Motivation führen zur Bedeutungslosigkeit (Ephesus)
 - Gefahr des Aufgebens, wenn die Herausforderungen zu groß werden (Smyrna, Philadelphia)
 
-
 Aber die Antwort auf all das ist Anbetung:
 
 - Wenn wir das Original (Jesus) besser kennen, werden wir weniger anfällig für Irrlehren.
 - Wenn wir Gott kennen und anbeten, sehen wir uns mit Gottes Augen und erkennen, wo wir ihn brauchen.
 - Wenn wir unseren Platz bei Gott finden, finden alle unsere Prioritäten ihren Platz: “Wenn Gott nicht an erster Stelle steht, steht alles andere am falschen Platz”.
 - Wenn wir unser Vertrauen auf ihn setzen und in völliger Treue zu ihm handeln, werden wir nicht so leicht erschüttert, denn wir haben erfahren, dass Gott unerschütterlich ist.
-
-
 
 ## Der Thronsaal
 
@@ -91,7 +80,6 @@ Das letzte Thema ist das [gläserne Meer](https://www.bibleserver.com/SLT/Offenb
 - das [gläserne Meer im Tempel Salomos](https://www.bibleserver.com/SLT/2.K%C3%B6nige25%2C13) und
 - der [Durchzug durch das Rote Meer beim Auszug aus Ägypten](https://www.bibleserver.com/SLT/2.Mose15%2C8). (Das Meer ist der [Ort des Bösen](https://www.bibleserver.com/SLT/Psalm74%2C10-17), einschließlich [böser Menschen](https://www.bibleserver.com/SLT/Jesaja57%2C20), und das gläserne Meer ist ein Bild des erstarrten Bösen.)
 
-
 All dies zeigt, dass Gott seinem Volk nahe ist und es beschützt. Auch wenn die Heiligen von Plagen heimgesucht werden, wird Gott sie bewahren.
 
 Wie wir sehen werden, gibt es noch eine weitere Besonderheit: Jede der Plagen hat ihren Ursprung im Thronsaal. Er ist der zentrale Ort in diesem Buch. Deshalb ist es wichtig, ihn richtig zu verstehen.
@@ -101,8 +89,6 @@ Wenn wir die Reihen betrachten, sehen wir
 - [Die Siegel beschreiben eine sehr harte Zeit, aber sie entlarven die Bosheit Satans und seinen Wunsch, so viele Menschen wie möglich zu retten, bevor das Ende schnell kommt.](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
 - [Die Posaunen zeigen die falschen Dinge, auf die die Menschen ihr Vertrauen setzen, und in der fünften und sechsten Posaune zeigen sie, dass die Ursache ihrer Probleme die Dämonen sind, an die sie sich klammern.](../../../../content/trumpets/expl/the-trumpets-in-revelation)
 - [Die Schalen sind der Ort, wo Gott alles hineinlegt, damit die Menschen sich nicht täuschen lassen und mit Satan untergehen.](../../../../content/bowls/expl/the-bowls-of-wrath)
-
-
 
 ## Die Anbetung
 
@@ -116,9 +102,7 @@ Es gibt auch die Schöpfung, die durch [vier Lebewesen](https://www.bibleserver.
 - der Mensch als Herr der Schöpfung
 - Adler als Herrscher der Lüfte
 
-
 Dazu kommen die [24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4), die die [24 Priesterordnungen](https://www.bibleserver.com/SLT/1.Chronik24%2C3-19), die [24 levitischen Torwächter](https://www.bibleserver.com/SLT/1.Chronik26%2C17-19) und die [24 von David eingeführten ständigen Anbeter](https://www.bibleserver.com/SLT/1.Chronik25%2C6-31) widerspiegeln, aber auch die 12 Stämme Israels und die 12 Apostel als Fundament der Kirche. Das bedeutet, dass Israel und die Gemeinde trotz aller Konflikte in ihrer Zusammengehörigkeit zu verstehen sind. Die Gemeinde wird als anbetende Gemeinde definiert.
-
 
 ## Zum Weiterlesen
 
@@ -130,4 +114,3 @@ Dazu kommen die [24 Ältesten](https://www.bibleserver.com/SLT/Offenbarung4%2C4)
 
 [Beale, Revelation, Seiten 311–337](../../../../about/ressources/index.html#beale_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/expl/worship-in-the-throne-room.de.md)

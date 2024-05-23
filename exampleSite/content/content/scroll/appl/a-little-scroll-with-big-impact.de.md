@@ -3,15 +3,12 @@ title: "Ein kleines Buch mit großer Wirkung"
 weight: 1
 ---
 
-
 Was ist das kleine Buch, das Johannes essen soll und von dem nie wieder die Rede ist? Was soll man damit anfangen und hat es etwas mit dem Buch mit den sieben Siegeln zu tun?
-
 
 ## Unser Text
 
 <a name="eb3b"></a>
 Es geht weiter im [Kapitel 10](https://www.bibleserver.com/SLT/Offenbarung10).
-
 
 ## Das kleine Büchlein
 
@@ -26,15 +23,12 @@ Bevor wir uns das Büchlein anschauen, noch ein paar Anmerkungen:
 - Das Geheimnis Gottes wird enthüllt. Nach dem Geheimnis der Gemeinde in Kapitel 1 und dem Geheimnis des Tieres in Kapitel 17 wird nun das Geheimnis Gottes geoffenbart. Was ist es und was bedeutet es für die Gemeinde?
 - Johannes muss dieses Buch essen und es ist süß im Mund und bitter im Magen. Natürlich ist das Buch etwas Gutes, aber wie wir sehen werden, ist es mit viel Leid verbunden. Andererseits hilft das Bittere bei der Verdauung. So helfen die Schwierigkeiten, die die Gemeinde durchmachen wird, ihr auch, das Evangelium besser zu verstehen.
 
-
-
 ## Die Berufung
 
 <a name="f2c6"></a>
 Dieses Büchlein ist der Heilsplan Gottes, insbesondere die Rettung der Völker, also aller Menschen auf der Erde, denn nach den Posaunen ist klar, dass Schwierigkeiten allein die Herzen der Menschen nicht verändern können.
 
 Der Schlüssel dazu ist das Zeugnis der Kirche. Und mit Zeugnis ist nicht nur ein guter Lebensstil gemeint, aber das werden wir im nächsten Kapitel sehen.
-
 
 ### Reflektion
 
@@ -44,19 +38,8 @@ Der Schlüssel dazu ist das Zeugnis der Kirche. Und mit Zeugnis ist nicht nur ei
 - Glaubst du, dass es mehr in deinem Leben gibt und dass es Zeit ist, sich zu engagieren?
 - Hast du eine Berufung in deinem Leben, bist dir aber unsicher und hast sie nie wirklich verfolgt?
 
-
-
-
-
-
-
 ## Zur Vertiefung
 
 <a name="d451"></a>
 - [Das kleine Büchlein](../../../../content/scroll/expl/the-little-scroll)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/appl/a-little-scroll-with-big-impact.de.md)

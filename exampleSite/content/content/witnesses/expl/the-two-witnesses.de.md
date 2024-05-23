@@ -3,9 +3,7 @@ title: "Die Identität der beiden Zeugen in der Offenbarung"
 weight: 2
 ---
 
-
 In [Kapitel 11](https://www.bibleserver.com/SLT/Offenbarung11) in der Offenbarung sehen wir zwei Zeugen, über deren Identität viel diskutiert wird. Wir werden aber auch einige Anregungen für unser Leben finden.
-
 
 ## Was du davor lesen solltest
 
@@ -13,15 +11,12 @@ In [Kapitel 11](https://www.bibleserver.com/SLT/Offenbarung11) in der Offenbarun
 - [Die 3,5 Jahre](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 - [Die beiden Tiere](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 
-
-
 ## Die Berufung
 
 <a name="9334"></a>
 Die Geschichte beginnt mit der [Vermessung des Tempels](https://www.bibleserver.com/SLT/Offenbarung11%2C1-2). Im Alten Testament war der Tempel der Ort der Gegenwart Gottes und ein Ort des Opfers, aber seit Jesus das ultimative Opfer ist, hat er diesen Zweck nicht mehr. Die Frage ist also: Was ist jetzt der Zweck des Tempels?
 
 In dieser Vision werden einige Teile des Tempels gemessen (Gott betrachtet sie als sein Eigentum) und andere Teile werden ausgelassen (Gott betrachtet sie nicht als sein Eigentum) und den Heiden überlassen. Das Bild geht vom Tempel über den Altar zu den Anbetern (vom Größten zum Kleinsten) und zeigt, was der Zweck des Tempels jetzt ist: Den Anbetenden. So wird die Gemeinschaft mit Gott durch die Anbetung definiert. Der Blick auf den Altar erinnert an die [leidende Gemeinde des fünften Siegels](https://www.bibleserver.com/SLT/Offenbarung6%2C9-11). Anbetung ist Treue zu Gott bis in den Tod. Und das spiegelt sich in den beiden Zeugen wieder.
-
 
 ## Die Identität der beiden Zeugen
 
@@ -31,7 +26,6 @@ In dieser Vision werden einige Teile des Tempels gemessen (Gott betrachtet sie a
 - historische Persönlichkeiten mit prophetischen Zügen, wie Johannes als der wiederkommende Elias,
 - alte Propheten, die wieder zum Leben erweckt wurden, oder
 - als Symbole gedacht.
-
 
 Der Text selbst gibt uns die entscheidenden Hinweise: “[Das sind die zwei Ölbäume und die zwei Leuchter, die vor dem Gott der Erde stehen](https://www.bibleserver.com/SLT/Offenbarung11%2C4).”. Das ist ein Hinweis auf den [Propheten Sacharja](https://www.bibleserver.com/SLT/Sacharja4%2C2-14) (der mit dem Hohepriester Joshua und dem Nachfolger Davids: Serubbabel, identifiziert wird), aber vor allem wird es durch die [sieben Gemeinden deutlich, die mit den Leuchtern identifiziert werden](https://www.bibleserver.com/SLT/Offenbarung1%2C20).
 
@@ -44,19 +38,16 @@ Vielleicht hast du bemerkt, dass sie nicht als Individuen wie Mose und Elija han
 - Als Mose (Zeuge gegenüber Ägypten und dem Pharao) Zeuge gegenüber der Welt
 - Als Elia (Zeuge für Israel und die Königin Isebel) ist er Zeuge für die Gemeinde im Sinne der inneren Erneuerung.
 
-
 Man kann es aber auch so sehen, dass
 
 - Mose Zeuge für Israel ist (alter Bund) und
 - Elija, der [als Johannes wiederkommt](https://www.bibleserver.com/SLT/Matth%C3%A4us11%2C13-14), als Zeuge für die Gemeinde (alter Bund in Erfüllung)
-
 
 Sie sind da, um zu bezeugen, dass es sich um eine Gemeinde handelt, sei es nach innen oder nach außen, sei es Israel oder das erweiterte Israel (Gemeinde).
 
 Wenn es eine Gemeinde gibt, warum gibt es dann keinen Zeugen? Nun, [ein Zeuge hat keinen Wert](https://www.bibleserver.com/SLT/5.Mose19%2C15) und die beiden Zeugen agieren wirklich einheitlich.
 
 Dennoch gibt es etwas Merkwürdiges an ihnen.
-
 
 ## Der Charakter der beiden Zeugen
 
@@ -67,7 +58,6 @@ Sie sind in [Sacktuch gekleidet](https://www.bibleserver.com/SLT/Offenbarung11%2
 - für [Unterordnung](https://www.bibleserver.com/SLT/1.K%C3%B6nige20%2C31-32),
 - für [Reue](https://www.bibleserver.com/SLT/2.K%C3%B6nige19%2C1-2),
 - [für prophetische Kleider, um Gericht anzukündigen sind](https://www.bibleserver.com/SLT/Jesaja50%2C3).
-
 
 Sie kommen, um in einer gefallenen Welt zur Umkehr aufzurufen.
 
@@ -90,13 +80,10 @@ Die ganze Geschichte steckt voller Überraschungen:
 - Diese Geschichte ist die Umkehrung der Geschichte von [Ester](https://www.bibleserver.com/SLT/Ester9%2C15-25), in der das Volk Gottes von einem Völkermord bedroht war. Aber es wehrte sich und errang einen großen Sieg. In Erinnerung daran feiern die Juden diese Zeit und schicken sich Geschenke zur Erinnerung an diesen Tag. In der Offenbarung gibt es kein Eingreifen Gottes. Die Zeugen werden getötet und [ihre Feinde schicken sich Geschenke](https://www.bibleserver.com/SLT/Offenbarung11%2C10). Im Buch Ester ist der Sieg die Tötung der Feinde, hier ihre Bekehrung. Und auch ein subtiler Ton, das Reich Gottes nicht mit Gewalt zu erzwingen.
 - Das Alte Testament beschreibt typischerweise nur einen Rest der gerettet wird, während die Mehrheit ins Gericht geht. Aber hier ist es genau umgekehrt. [7000 fallen dem Erdbeben zum Opfer, das sind 10%](https://www.bibleserver.com/SLT/Offenbarung11%2C13). Aber das bedeutet, dass 90% verschont sind. Nicht nur das, sie geben Gott die Ehre, was in der [Offenbarung immer positiv ist, denn es ist aufrichtige Anbetung (nicht Furcht)](https://www.bibleserver.com/SLT/Offenbarung16%2C9).
 
-
-
 ## Die Zeugen und die Tiere
 
 <a name="3cd4"></a>
 Wenn wir uns die Tiere anschauen, folgt ihr Verhalten einem Muster und sie ergänzen sich gegenseitig, ebenso wie die Zeugen.
-
 
 | Thema | Erstes Tier | Zweites Tier |
 |-------|-------------|--------------|
@@ -110,7 +97,6 @@ Wenn wir uns die Tiere anschauen, folgt ihr Verhalten einem Muster und sie ergä
 <td>[Zwingt alle, das erste Tier anzubeten, dessen Wunde geheilt wurde](https://www.bibleserver.com/SLT/Offenbarung13%2C12)
 [Tut große Zeichen, läßt Feuer vom Himmel fallen, täuscht durch Zeichen](https://www.bibleserver.com/SLT/Offenbarung13%2C13-14)</td>
 [bekommt Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14)
-
 
 <tr>
 <td>Prahlerei</td>
@@ -129,7 +115,6 @@ Wenn wir uns die Tiere anschauen, folgt ihr Verhalten einem Muster und sie ergä
 [Macht  Zeichen an alle ](https://www.bibleserver.com/SLT/Offenbarung13%2C16) 
 [Niemand kann kaufen oder verkaufen, wenn er nicht das Zeichen des Tieres hat](https://www.bibleserver.com/SLT/Offenbarung13%2C17)
 
-
 <tr>
 <td>Achtung</td>
 <td>[Wenn jemand Ohren hat, höre!](https://www.bibleserver.com/SLT/Offenbarung13%2C9)</td></tr>
@@ -138,12 +123,8 @@ Wenn wir uns die Tiere anschauen, folgt ihr Verhalten einem Muster und sie ergä
 <td>[Hier istWeisheit](https://www.bibleserver.com/SLT/Offenbarung13%2C18)</td>
 [Wenn jemandVerständnis hat: Zähle](https://www.bibleserver.com/SLT/Offenbarung13%2C18)
 
-
-
-
 <p>Am Ende ist noch ein interessanter Chiasmus zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", d.h. das Wissen soll zu Taten leiten (hören=gehorchen im Hebräischen) und "Weisheit" mit "Geduld und Glaube der Heiligen", was zeigt, dass die Weishiet in Geduld und Glauben resultieren soll.</p>
 Aber auch die [Zeugen](https://www.bibleserver.com/SLT/Offenbarung11%2C3-13) und die [Tiere](https://www.bibleserver.com/SLT/Offenbarung13) sind sehr unterschiedlich.
-
 
 | Thema | Die Tiere | Die Zeugen |
 |-------|-----------|------------|
@@ -173,9 +154,7 @@ Beide (versuchen) [Jesus den Überwinder nachzuahmen](https://www.bibleserver.co
 - Das Tier setzt Manipulation, Angst, Diskriminierung und Tod ein, um sein Ziel zu erreichen, während die Zeugen nichts davon tun.
 - Das Tier handelt in [Panik, weil die Zeit knapp ist](https://www.bibleserver.com/SLT/Offenbarung12%2C12), die Zeugen handeln furchtlos, weil sie wissen, [wenn ihre Zeit gekommen ist, ist ihr Auftrag erledigt](https://www.bibleserver.com/SLT/Offenbarung11%2C7).
 
-
 Wenn du nun auf dein Leben mit Jesus schaust, in welche Kategorie gehörst du? Bist du eher wie die Tiere oder wie die Zeugen? Was würde es für dich bedeuten oder kosten, ein echter Zeuge zu sein?
-
 
 ## Further readings
 
@@ -190,4 +169,3 @@ Wenn du nun auf dein Leben mit Jesus schaust, in welche Kategorie gehörst du? B
 
 [Bauckham, The climax of Prophecy, Seiten 266–283](../../../../about/ressources/index.html#bauckham_climax)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/expl/the-two-witnesses.de.md)

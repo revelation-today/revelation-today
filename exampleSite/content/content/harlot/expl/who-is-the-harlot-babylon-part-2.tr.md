@@ -3,9 +3,7 @@ title: "Fahişe Kimdir Bölüm 2"
 weight: 3
 ---
 
-
 Fahişe Babil’i anlamak Bölüm 1'de gördüğümüz gibi biraz karmaşıktır, ancak çözüm Bölüm 2'de geliyor. Heyecanlı olun!!!
-
 
 ## Dini yönü
 
@@ -18,14 +16,12 @@ Görünüşe göre [Vahiy](https://www.bibleserver.com/TR/Vahiy17)’deki fahiş
 - [elbisesi kırmızıdır, kendini altınla süsler](https://www.bibleserver.com/TR/Yeremya4%3A30)
 - [Ama sevgilileri onu hor görüyor ve öldürmek istiyor.](https://www.bibleserver.com/TR/Yeremya4%3A30)
 
-
 Ancak Vahiy’deki fahişe [17](https://www.bibleserver.com/TR/Vahiy17%3A4). ve [18. bölümlerde](https://www.bibleserver.com/TR/Vahiy18%3A16) Eski Ahit’teki başkâhinle benzer malzemelerle tanımlanır:
 
 - [Buluşma Çadırı için sunu](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F25%3A3-7)
 - [efod (iç giysiler)](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F25%3A3-7)
 - [göğüs zırhı](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F28%3A15-20)
 - [ama aynı zamanda tapınakta](https://www.bibleserver.com/TR/2.Tarihler2%3A13-14)
-
 
 Başrahibin [“Rab için kutsal” yazılı](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F28%3A35-38) levhası da alnındaki fahişe isminin karşılığıdır: “[Fahişelerin ve yeryüzünün iğrençliklerinin anası büyük Babil](https://www.bibleserver.com/TR/Vahiy17%3A5)”.
 
@@ -39,13 +35,11 @@ Eski Antlaşma’da aşağıdaki kentler fahişe olarak tanımlanır:
 - [Niniveh Rab’bin önünde alçaldı ve Rab onlara merhamet etti](https://www.bibleserver.com/TR/Yunus3%3A5-10), ama [daha sonra bir fahişe olduğu için yargılandı](https://www.bibleserver.com/TR/Nahum3%3A4-7).
 - İsrail’in Tanrı’yla bir antlaşması vardır ancak birçok kez başarısızlığa uğramıştır ve Hezekiel’de olduğu gibi diğer uluslara olan siyasi ve ekonomik bağımlılığı ve bu uluslardan aldıkları putperestlik onu bir [fahişe olarak tanımlamaktadır](https://www.bibleserver.com/TR/Hezekiel16%3A15-41).
 
-
 Ayrıca buradaki kalıp, fahişenin Tanrı’yla olan eski ilişkiden uzaklaşıp puta tapmaya yönelmesidir
 
 Uyarı, [Bergama’nın Balam’la](https://www.bibleserver.com/TR/Vahiy2%3A14) ya da [Thyatira’nın İzebel’le](https://www.bibleserver.com/TR/Vahiy2%3A20-22) yaptığı gibi dünyayla fuhuş yapmamaları için kiliseye yöneliktir.
 
 [Babil gibi utanmamak için](https://www.bibleserver.com/TR/Vahiy17%3A16) [uyanık ve dikkatli](https://www.bibleserver.com/TR/Vahiy16%3A15) ve [bilinçli olmayı](https://www.bibleserver.com/TR/Vahiy3%3A17-18) tercih etmelidir.
-
 
 ## Ekonomik boyut
 
@@ -55,7 +49,6 @@ Fahişe tanımı, ister dini, ister siyasi, ister ekonomik, isterse de herhangi 
 - ekonomik baskı
 - puta tapma yoluyla etkileme
 
-
 Ekonomik ilişkiler genellikle [tapınak hediyeleri](https://www.bibleserver.com/TR/Mika1%3A7), e[konomik bağımlılıklar](https://www.bibleserver.com/TR/Nahum3%3A4) ya [da siyasi nüfuz (İzebel başka bir krallıkla evlendi) gibi dini ilişkilerle sonuçlanır](https://www.bibleserver.com/TR/2.Krallar9%3A22).
 
 [Babil’in yeryüzü krallarıyla yaptığı zina ile en güçlü bağlantı](https://www.bibleserver.com/TR/Vahiy17%3A2), [yeryüzünün tüm krallıklarıyla ticaret yapacak](https://www.bibleserver.com/TR/Ye%C5%9Faya23%3A17) ([ya da yeryüzü krallıklarıyla zina yapacak](https://biblehub.com/interlinear/isaiah/23-17.htm)) olan Sur’dur. [Vahiy’deki ticaret listesi](https://www.bibleserver.com/TR/Vahiy18%3A12-13) de [Sur’unkine çok benzemektedir](https://www.bibleserver.com/TR/Hezekiel27).
@@ -63,7 +56,6 @@ Ekonomik ilişkiler genellikle [tapınak hediyeleri](https://www.bibleserver.com
 [Sur dünya için bir limandı ve kendisine ayni ödeme yapılırken (burada tahıllarla) herkesi zengin etti](https://www.bibleserver.com/TR/Ye%C5%9Faya23%3A1-3). [Bölümün sonunda, ulusun zenginliğinden yararlanmasının “fahişelik ücreti” olduğu bir fahişe olarak tanımlanır.](https://www.bibleserver.com/TR/Ye%C5%9Faya23%3A16-18)
 
 [Vahiy’de de bağlantı Babil’le fahişelik yapan](https://www.bibleserver.com/TR/Vahiy18%3A3) ve [bundan zengin olan krallarla yapılır](https://www.bibleserver.com/TR/Vahiy18%3A9). Vahiy’deki [ticaret listesindeki](https://www.bibleserver.com/TR/Hezekiel27) (fahişenin) elbise ve mücevher unsurları zenginliğin sembolüdür. Yani fahişe, [İzebel’in denediği ](https://www.bibleserver.com/TR/2.Krallar9%3A30)gibi [zenginlikle](https://www.bibleserver.com/TR/Yeremya4%3A30) putperestliğe özendirebilir.
-
 
 ## Babil mürted kilise mi?
 
@@ -77,7 +69,6 @@ Babil, Gelin/Yeni Yeruşalim’in karşılığıdır ve kendisi de bir sistemdir
 - [İdeoloji](https://www.bibleserver.com/TR/Vahiy13%3A12)
 - [madeni paralar](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire), resmi tatiller gibi günlük yaşamın diğer yönleri
 
-
 Tüm bunlarla İsa’dan daha iyi bir müjde getirmeyi amaçlamaktadır.
 
 - [savaş](https://www.bibleserver.com/TR/Vahiy13%3A7) veya [zulüm](https://www.bibleserver.com/TR/Vahiy13%3A10) nedeniyle korkudan kaynaklanan [güvenlik](https://www.bibleserver.com/TR/Vahiy13%3A4)
@@ -85,23 +76,16 @@ Tüm bunlarla İsa’dan daha iyi bir müjde getirmeyi amaçlamaktadır.
 - [üstünlük hissi](https://www.bibleserver.com/TR/Vahiy13%3A13-14)
 - [uygunsuz sesleri susturmak](https://www.bibleserver.com/TR/Vahiy17%3A6)
 
-
 [Babil’in İzebel ile pek çok benzerliği olduğundan](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1), bu kilise liderleri için özel bir uyarı olabilir. Ancak farkındalık ve düşünme çağrısı herkes için geçerlidir. Belki de Babil’in bu kadar net olmamasının nedeni budur, [böylece her gün yeniden düşünür ve ondan uzaklaşırsınız](https://www.bibleserver.com/TR/Vahiy18%3A4). Babil her yerde olduğu gibi!
 
 Bu, zulüm ya da yoksulluk içindeyken ve daha fazla zenginlik ve insani değer biçme yolunda ilerlerken kilise için zorlayıcı ve çekici olabilir.
-
 
 ## Daha fazla okuma
 
 <a name="432c"></a>
 - [İmparatorlukla alay eder gibi Babil](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
 
-
 ## Daha fazla kazma
 
 [Beale, Revelation, sayfalar 847–890](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/who-is-the-harlot-babylon-part-2.tr.md)

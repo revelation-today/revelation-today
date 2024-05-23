@@ -3,15 +3,12 @@ title: "Das perfekte Evangelium"
 weight: 1
 ---
 
-
 Dieses Kapitel sieht aus wie zwei Ungeheuer, die Zerstörung anrichten, aber es ist eines der tiefsten Kapitel der Offenbarung.
-
 
 ## Unser Text
 
 <a name="b0c3"></a>
 Wir sind bereits in [Kapitel 13](https://www.bibleserver.com/SLT/Offenbarung13).
-
 
 ## Satans Strategie
 
@@ -25,7 +22,6 @@ Da Satan weder Jesus noch Israel vernichten konnte, greift er nun die Gemeinde a
 - durch Gewalt: Verfolgung, wirtschaftlicher und finanzieller Druck und
 - durch Täuschung
 
-
 Seine Täuschung besteht darin, dass er die Dreieinigkeit nachahmt, was nicht nur die Gemeinde in Verruf bringt, sondern auch Menschen anzieht, die Jesus ernsthaft nachfolgen wollen. Der Drache imitiert Gott den Vater, das erste Tier den auferstandenen Jesus und das zweite Tier den Heiligen Geist, der Leben schenken kann.
 
 Das ist der Antichrist (“anti” kann auch “statt” bedeuten). Er ersetzt Jesus und baut seine eigene Kirche auf. Das Problem ist, dass die Welt nicht zwischen der echten und der falschen Dreieinigkeit unterscheiden kann.
@@ -37,9 +33,7 @@ Und es sieht auch sehr überzeugend aus
 - Das zweite Tier kann einem Standbild Leben einhauchen (im Alten Testament wurden die Götzen immer verspottet, weil sie das nicht konnten).
 - Das zweite Tier kann Feuer vom Himmel fallen lassen, das Zeichen der Göttlichkeit, wie wir es bei Elija sehen.
 
-
 Und das ist sehr verlockend.
-
 
 ## Der Traum
 
@@ -55,7 +49,6 @@ Kannst du dir eine Welt vorstellen, die von Christen regiert wird, die die volle
 Das ist eine gute Nachricht, zu gut, um wahr zu sein. Oder vielmehr zu schlecht, um wahr zu sein.
 
 Wenn das dein Traum ist, dann wach auf, denn es ist der Alptraum des Drachens und der Tiere!
-
 
 ## Die Realität
 
@@ -74,7 +67,6 @@ Und das ist es, was die Welt sieht, und wir sollten alles tun, um das wahre Gesi
 
 Wir dürfen das Evangelium nicht mit Angst (vor der Hölle) oder mit Mainstream verbreiten oder glauben, dass der Zweck die Mittel heiligt.
 
-
 ## Das Zeichen an Hand und Stirn
 
 <a name="f58d"></a>
@@ -85,7 +77,6 @@ Satan sagt: “Seht euch um. Entweder du bist unglücklich und stirbst, oder du 
 Du hast vielleicht gehört, dass es ein Chip ist, aber das muss es nicht sein, es kann deine Arbeitsmoral sein, deine Kreditkarte, dein Smartphone oder dein Fernseher. Vor 2000 Jahren war es dein Verhalten in der Öffentlichkeit.
 
 Satan benutzt Täuschung und arbeitet im Verborgenen.
-
 
 ## Die historische Realität
 
@@ -100,7 +91,6 @@ Das Zeichen an Hand und Stirn war das Verhalten in der Öffentlichkeit, das dem 
 
 Aber der Punkt ist, dass alle, auch der Kaiser, Marionetten des Satans sind, der hinter den Kulissen wirkt. Die Feinde sind nicht der Kaiser oder die Behörden oder die Gesellschaft, sondern die geistlichen Kräfte, die dahinter stehen.
 
-
 ## Satans Versagen
 
 <a name="cdae"></a>
@@ -110,7 +100,6 @@ Obwohl die Kopie der Dreifaltigkeit so überzeugend ist, wird sie mit 666 bewert
 - 666 ist in der Geschichte von Daniels Freunden im Feuerofen eine Ermutigung zum Aushalten, auch wenn Gott nicht eingreift
 - 666 ist die Warnung, sich nicht von Satan verführen zu lassen.
 
-
 Was ist noch einmal der Grund für das Scheitern Satans? In jeder Person der Dreieinigkeit fehlte etwas Entscheidendes:
 
 - Gott ist der allmächtige Herrscher, aber er zwingt das niemandem auf, sonst würde kaum jemand fragen: “Wie kann Gott all das Böse zulassen?” Satan auf der anderen Seite zermalmt alles, was nicht seinen Vorstellungen entspricht.
@@ -118,9 +107,7 @@ Was ist noch einmal der Grund für das Scheitern Satans? In jeder Person der Dre
 - Während Jesus ganz starb, wurde das erste Tier nur verwundet.
 - Der Heilige Geist zwingt die Menschen nicht und führt sie nicht vor, aber das zweite Tier tut genau das und benutzt Manipulation und Einschüchterung.
 
-
 So der entscheidende Unterschied zwischen Satan und Jesus ist in dieser Zeit nicht Macht oder Erfolg sondern die Liebe, mit der wir mit Menschen interagieren und das wir Schwäche zulassen können. Ich hoffe, dass ist keine neue Nachricht, aber diese Geschichte verdeutlicht das in einer sehr eindrücklichen Weise.
-
 
 ### Reflektion
 
@@ -133,12 +120,6 @@ So der entscheidende Unterschied zwischen Satan und Jesus ist in dieser Zeit nic
 - Welche Konsequenzen haben die heutigen Bestien, wenn du nicht nachgibst?
 - Wo wirst du zum Nachgeben herausgefordert (aus Verzweiflung, aus Überzeugung, aus Verlockung)?
 
-
-
-
-
-
-
 ## Zur Vertiefung
 
 <a name="83ad"></a>
@@ -147,8 +128,3 @@ So der entscheidende Unterschied zwischen Satan und Jesus ist in dieser Zeit nic
 - [Die beiden Tiere im historischen Kontext](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)
 - [Die Natur der beiden Tiere](../../../../content/beasts/expl/the-nature-of-the-beast)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/appl/the-perfect-gospel.de.md)

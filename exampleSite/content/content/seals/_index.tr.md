@@ -4,7 +4,6 @@ title: "Yedi mühür (Böl.5-6)"
 weight: 6
 ---
 
-
 5. Bölüm büyük bir patlamayla açılıyor. Bu noktaya kadar her şey anlaşılır gibi görünürken, şimdi bölüme oldukça sıra dışı resimlerle giriyoruz.
 
 Önce kimsenin açamadığı yedi mühürlü bir tomar görüyoruz ve içinde ne yazdığını merak ediyoruz. Ama asıl soru bu değil, bunu eyleme geçirmeye kimin layık olduğudur: Tanrı'nın planını yerine getirmek. 

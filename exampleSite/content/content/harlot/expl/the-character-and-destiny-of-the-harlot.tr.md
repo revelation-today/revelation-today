@@ -3,17 +3,13 @@ title: "Fahişenin karakteri ve kaderi"
 weight: 4
 ---
 
-
 Fahişenin kim olduğunu anladıktan sonra, Kutsal Kitap’ın yanıtladığı hala açık sorular vardır. Onun davranışı ve “taktiği” nedir? Biz nasıl davranmalıyız? Onun düşmesine ne sebep olur?
-
 
 ## Daha önce okumak için faydalı
 
 <a name="093a"></a>
 - [Fahişe kimdir? Bölüm 1](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
 - [Fahişe kimdir? Bölüm 2](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
-
-
 
 ## Fahişenin karakteri
 
@@ -30,7 +26,6 @@ Peki ekonomik büyüme ve (ilgili bilimsel araştırmalar) kötü müdür? Hayı
 
 [Ekonomi çöktüğünde ve yaşam standartlarımız düştüğünde diğerleriyle birlikte yas tutuyor muyuz](https://www.bibleserver.com/TR/Vahiy18%3A10)? [İşimizi başka ülkelere kaptırdığımızda](https://www.bibleserver.com/TR/Vahiy18%3A17)? İşimizi güvence altına almak için askeri müdahaleleri desteklediğimizde? [Eğer öyleyse, Babil’deyiz ve buradan ayrılmamız gerekiyor](https://www.bibleserver.com/TR/Vahiy18%3A4).
 
-
 ## Onun düşüşünün gizemi
 
 <a name="ca14"></a>
@@ -42,8 +37,6 @@ Babil’in sonu çok ilgi çekicidir. [Canavarın üzerinde oturuyor](https://ww
 - Bu, kötülüğün kutsalları yendiği ama Tanrı’nın onlara zafer kazandırdığı [Daniel](https://www.bibleserver.com/TR/Daniel7%3A21-22)’in gerçekleşmesidir (tanıklarla ya da 1000 yıllık krallıkla ilgili olarak kitaba yayılmış bir konudur). Kötülüğün kazanmış gibi göründüğü ve yüzünü gösterdiği zamanda, Tanrı durumu tersine çevirir.
 - Canavar ve krallar kutsallara saldırır, ama İsa onları yener. Kilise saldırıya uğradığında İsa devreye girer.
 - Fahişe dışarıdan gelin gibi görünür ve ikinci canavarın (kuzu gibi iki boynuzlu) aldatmacasına bakarken bu amaçlanmıştır. Öyleyse burada söz konusu olan, Şeytan’ın kendi aldatmacasına kanması olabilir mi? Krallar kutsalları yok etmek isterler ([belli nedenlerden dolayı](https://www.bibleserver.com/TR/Vahiy11%3A6-10)) ama kutsalları fahişeyle karıştırırlar ve onu yok ederler! Ama bu nasıl olabilir? [Batı toplumunun ve başarılı ekonomisinin ana parçaları, aynı zamanda dünya çapında Hıristiyan temelleri ve değerleri üzerine inşa edilmiştir](https://www.pdfdrive.com/the-book-that-made-your-world-how-the-bible-created-the-soul-of-western-civilization-e200370906.html).
-
-
 
 ## Karar
 
@@ -60,5 +53,3 @@ Yargılama onun eylemleri temelinde yapılır:
 
 [Bauckham, The climax of Prophecy, sayfalar 338–384](../../../../about/ressources/index.html#bauckham_climax)
 
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.tr.md)

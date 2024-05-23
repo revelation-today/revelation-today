@@ -3,15 +3,12 @@ title: "Die Antwort auf alle Fragen"
 weight: 1
 ---
 
-
 Wie sollen die Gemeinden mit diesen Problemen umgehen? Was ist Gottes Plan? Die Antwort ist einfach. Gott reagiert nicht, er ruht in der Anbetung, und da müssen auch wir anfangen.
-
 
 ## Unser Text
 
 <a name="ba47"></a>
 Wir sind jetzt in [Kapitel 4](https://www.bibleserver.com/SLT/Offenbarung4).
-
 
 ## Was ist Anbetung?
 
@@ -28,8 +25,6 @@ Es ist der Ort einer intensiven Beziehung zu Gott.
 - Anbetung ist der Ort, an dem wir uns daran erinnern, dass Gott für uns sorgt, was uns Ruhe gibt, wenn wir in Schwierigkeiten sind oder sogar verfolgt werden.
 - Es hilft uns auch, Barmherzigkeit und Liebe für andere zu haben, besonders wenn wir wissen, dass sie keine solche Zuflucht haben.
 
-
-
 ## Die Basis
 
 <a name="0621"></a>
@@ -38,7 +33,6 @@ Der Ort der Anbetung ist der Thronsaal Gottes. Dort herrscht Gott und wird angeb
 Aber was haben die Plagen mit Anbetung zu tun? Ist dir der Regenbogen im Thronsaal aufgefallen? Er ist eines von vielen Zeichen dafür, dass die Dinge im Thronsaal mit Gnade und Barmherzigkeit zu tun haben.
 
 Lass uns schauen, was es damit auf sich hat.
-
 
 ## Reflektion
 
@@ -49,20 +43,9 @@ Lass uns schauen, was es damit auf sich hat.
 - Wie hat dich Anbetung verändert?
 - Wie betest du an? Wie sieht Anbetung in deinem Alltag aus?
 
-
-
-
-
-
-
 ## Zur Vertiefung
 
 <a name="cfb1"></a>
 - [Die Anbetung im Thronsaal](../../../../content/worship/expl/worship-in-the-throne-room)
 - [Was ist Anbetung?](../../../../topics/power/short/worship)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/appl/the-answer-to-all-questions.de.md)

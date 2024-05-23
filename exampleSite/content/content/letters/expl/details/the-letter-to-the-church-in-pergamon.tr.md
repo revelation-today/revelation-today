@@ -3,11 +3,9 @@ title: "Bergama’daki kiliseye mektup"
 weight: 3
 ---
 
-
 Bu kilise çöküşün eşiğinde ve tüm bunlar Balam yüzünden mi? Aslında sorun o değil.
 
 [Pergamon’daki kilise](https://www.bibleserver.com/TR/Vahiy2%3A12-17)
-
 
 ## Tarihsel arka plan
 
@@ -18,7 +16,6 @@ Kasaba uzun bir süre bu bölgede önde gelen bir güç olan Attides’in malika
 
 Zeus, Athena, Dionysis ve Asklepios’u onurlandıran pek çok başka tapınak da vardı.
 
-
 ## İsa’nın görüşü
 
 <a name="fa05"></a>
@@ -28,7 +25,6 @@ Zeus, Athena, Dionysis ve Asklepios’u onurlandıran pek çok başka tapınak d
 
 Ancak onları kıran bir şey vardır: [Balam ve Nikolaitler](https://www.bibleserver.com/TR/Vahiy2%3A14-15) mi yoksa başka bir sorun mu?
 
-
 ## Sorun
 
 <a name="5385"></a>
@@ -37,7 +33,6 @@ Ancak onları kıran bir şey vardır: [Balam ve Nikolaitler](https://www.bibles
 Önderliğin yanlış öğretişle ilgili sıkı bir angajmanı yoktur. İsa’nın sunduğu vaade bakıldığında, sorunun onların iman eksikliği ve muhtemelen imanlarından ödün verme fikrini de beraberinde getiren rahatlatıcı öğretiş arayışları olduğu görülmektedir.
 
 Her öğreti aynı zamanda yapılanları da etkilediği için, davranışları ve tanıklıkları üzerinde de etkili olmuştur. Belki de yanlış öğretişin teşvik ettiği putlara adanmış yemeklere katılmak
-
 
 ## Çözüm
 
@@ -49,11 +44,9 @@ Her öğreti aynı zamanda yapılanları da etkilediği için, davranışları v
 - [Mahkemede oy vermek için kullanılan](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri26%3A10) beyaz taş, suçlu olmayanlara (örneğin putlara adanmış yemeklere katılma suçlamasından) atıfta bulunur ve [Kuzu’nun düğün yemeğine katılmaların](https://www.bibleserver.com/TR/Vahiy19%3A9)ı sağlardı
 - giriş izni olarak kullanılır (belki de Kuzu’nun düğün yemeğine)
 
-
 Yeni bir isim normalde [yeni bir kimlikle](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F17%3A5) ilişkilidir ve yeni ismi bilmek bu kişiler arasında yakın bir ilişkiye işaret eder.
 
 Kilise isterse Tanrı yeni bir başlangıç sunar. [Ama istemezlerse, İsa onlara karşı savaşacaktır.](https://www.bibleserver.com/TR/Vahiy2%3A16)
-
 
 ## Daha fazla okuma
 
@@ -66,4 +59,3 @@ Kilise isterse Tanrı yeni bir başlangıç sunar. [Ama istemezlerse, İsa onlar
 
 [Gordon Fee, Revelation, sayfalar 33](../../../../../about/ressources/index.html#fee_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-pergamon.tr.md)

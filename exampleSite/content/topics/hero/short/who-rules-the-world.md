@@ -2,9 +2,7 @@
 title: "Who rules the world"
 ---
 
-
 The book of Revelation gives us a very mixed picture of who rules the world. On the one hand there is Satan who seems to be in full control and destroying all resistance, but there is also the Church who seems to be in control. What is going on here and what does it mean to be in control?
-
 
 ## The question
 
@@ -16,9 +14,7 @@ When Jesus died on the cross, the devil was defeated. So we were told. But it se
 - The world has not become more Christian, but Christians have become more worldly.
 - [The church often doesn’t look like the solution, but rather the problem.](../../../../topics/church/appl/what-is-wrong-with-the-church)
 
-
 So what is going on? Has something gone terribly wrong? Well, we need to take a closer look.
-
 
 ## The story of Israel
 
@@ -43,16 +39,13 @@ Overemphasizing the “already” of the coming leads to
 - Insisting that everyone has a right to healing, prosperity and well-being if we believe and proclaim that we can live without sin.
 - Believing that we can live without sin
 
-
 Overemphasis on the “not yet” of the coming results in
 
 - Glorifying suffering and poverty
 - Rejection of the gift of the Spirit
 - Expectation that only a few will make it to the kingdom.
 
-
 We must hold the tension.
-
 
 ## The working out
 
@@ -65,9 +58,3 @@ The devil forces people to submit, the witnesses influence people to change thei
 
 This is clearly stated in [the 1,000-year kingdom that the Witnesses are the ones who actually rule](../../../../content/1000y/expl/the-thousand-year-kingdom).
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/hero/short/who-rules-the-world.md)

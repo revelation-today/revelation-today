@@ -3,15 +3,12 @@ title: "Tanrı’nın ordusu ve ulusların kaderi: İşte böyle sona eriyor"
 weight: 1
 ---
 
-
 Kilisenin imansız dünyaya, ejderhaya ve canavara karşı savaşta kullandığı silahlar nelerdir? Sonsuz müjde nedir?
-
 
 ## Bizim metnimiz
 
 <a name="e22a"></a>
 Hızla ilerliyoruz ve [14. bölüme](https://www.bibleserver.com/TR/Vahiy14) ulaştık.
-
 
 ## Tanrı’nın ordusu
 
@@ -26,8 +23,6 @@ Cevap basit:
 - Tanrı’nın gizemi onları İsa gibi olmaya ve korkuyla değil sevgiyle fethetmeye yöneltti
 - zorlukları bir kenara bırakıp İsa’ya odaklanırlar ve ne pahasına olursa olsun ona sadık kalmaya odaklanırlar (bir orduda olmanın anlamı budur: önemli olan tek şeye odaklanmak)
 
-
-
 ## Ulusların kaderi
 
 <a name="4301"></a>
@@ -39,9 +34,7 @@ Tanrı’nın ordusuna baktıktan sonra, etkisini göreceğiz. Yedi melek gelip 
 - Dördüncüsü İsa’nın hasadı duyurmasına, beşincisi ise hasadı gerçekleştirmesine benziyor — bu, Mesih’i kabul eden ulusların toplanmasıdır
 - altıncı melek yedinci meleğin yaptığı üzüm hasadını duyurur — bu Mesih’i reddeden ulusun yargılanmasıdır
 
-
 Bütün bölüm ulus ve kilisenin ulusları İsa’ya yönlendirmek için gösterdiği çaba hakkındadır. Yanıt vermek uluslara düşer, bazıları yanıt verecektir, bazıları ise vermeyecektir. Ulusların inanmasını sağlamak değil, tanıklık etmek kilisenin görevidir. Ama bir sonraki bölümde daha fazlasını göreceğiz.
-
 
 ### Yansıma
 
@@ -51,21 +44,10 @@ Bütün bölüm ulus ve kilisenin ulusları İsa’ya yönlendirmek için göste
 - Yaşamınızda söyleyeceğiniz Musa ve İsa’nın şarkısı ne olurdu?
 - Bütün ulusların kurtulmadığının farkında mısınız? Bu sizin için ne ifade ediyor?
 
-
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
 <a name="d6d6"></a>
 - [Tanrı’nın ordusu ve yedi melek](../../../../content/harvest/expl/gods-army-and-the-seven-angels)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/appl/the-weapons-of-the-church.tr.md)

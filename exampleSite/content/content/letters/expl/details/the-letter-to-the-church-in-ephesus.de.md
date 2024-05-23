@@ -3,9 +3,7 @@ title: "Das Schreiben an Ephesus"
 weight: 1
 ---
 
-
 Die Gemeinde in Ephesus scheint ein gutes Beispiel für eine Gemeinde zu sein. Doch der Eindruck täuscht. Jesus fällt ein vernichtendes Urteil.
-
 
 ## Historischer Hintergrund
 
@@ -15,7 +13,6 @@ Ephesus ist eine der größten und wichtigsten Städte des Römischen Reiches. I
 Ephesus ist ein wirtschaftliches Zentrum und hat viele Diaspora-Juden (Juden, die außerhalb Israels leben), die das Bürgerrecht in Ephesus hatten.
 
 Ephesus war wegen des Artemistempels ein wichtiges touristisches Zentrum und hatte wahrscheinlich auch die größte der sieben Gemeinden.
-
 
 ## Jesu Sicht
 
@@ -28,8 +25,6 @@ Doch bevor Jesus die Probleme anspricht, lobt er sie:
 - Sie haben sich nicht von falschen Lehren oder falschen Aposteln verführen lassen wie einige andere Gemeinden.
 - Sie ertragen Schwierigkeiten im Namen Jesu.
 
-
-
 ## Das Problem
 
 <a name="6de6"></a>
@@ -41,11 +36,9 @@ Bei [Matthäus heißt es, dass die Liebe erkalten wird und das Evangelium allen 
 - Wenn wir unsere Geschwister lieben, lieben wir Jesus, weil wir ihn in ihnen sehen, und wir predigen das Evangelium, um diese Liebe mit der Welt zu teilen.
 - Wenn wir die Welt lieben, dann sind Jesus und die Gemeinde das Beste, was wir anbieten können.
 
-
 Das Evangelium zu teilen ist ein Akt der Liebe, und in einem Aspekt der Liebe kalt zu sein, bedeutet auch, in einem anderen Aspekt kalt zu sein.
 
 Ephesus mag eine etablierte Gemeinde sein, die ihre eigene Art hat, mit Herausforderungen umzugehen, aber sie haben vergessen, warum sie das alles tun, weil sie so damit beschäftigt sind, alles richtig zu machen.
-
 
 ## Die Lösung
 
@@ -56,11 +49,7 @@ Und sie haben eine [Verheißung im Neuen Jerusalem](https://www.bibleserver.com/
 
 ## Zur Vertiefung
 
-
 [Beale, Revelation, Seiten 228–239](../../../../../about/ressources/index.html#beale_rev)
 
 [Gordon Fee, Revelation, Seiten 24](../../../../../about/ressources/index.html#fee_rev)
 
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-ephesus.de.md)

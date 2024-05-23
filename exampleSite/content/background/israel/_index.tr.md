@@ -4,7 +4,6 @@ title: İsrail
 weight: 5
 ---
 
-
 İsrail nedir ve kimler İsrail'e aittir?
 
 Bu çok ilginç bir konudur ve Eski Ahit'te bile düşündüğünüz gibi değildir.

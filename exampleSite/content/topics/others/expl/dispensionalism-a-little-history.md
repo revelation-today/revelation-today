@@ -3,9 +3,7 @@ title: "Dispensionalism — A little history"
 weight: 1
 ---
 
-
 Have you ever heard of this strange word? No, but maybe you have heard about the third temple, the rapture, or the 3.5 years of tribulation. If so, you have heard of [dispensionalism](https://en.wikipedia.org/wiki/Dispensationalism). But let’s take it one step at a time.
-
 
 ## A few steps through history
 
@@ -13,8 +11,6 @@ Have you ever heard of this strange word? No, but maybe you have heard about the
 To better understand dispensationalism, let us look at some relevant milestones in the understanding of the book of Revelation.
 
 We begin with Justin Martyr (ca. 100–165). His view of the [1000 year kingdom](https://www.bibleserver.com/NIV/Revelation20%3A4) was the fulfillment of the prophecy of Isaiah, which [speaks of a better life and harmony in nature on earth](https://www.bibleserver.com/NIV/Isaiah65%3A17-25). Only after that will the final judgment come. The problem is that [this passage clearly speaks of the fulfillment in the New Heaven and New Earth](https://www.bibleserver.com/NIV/Isaiah65%3A17), [one chapter later in Revelation](https://www.bibleserver.com/NIV/Revelation21). Nevertheless, it was often quoted by later Bible readers.
-
-
 
 There was a lot going on in between, but let’s make a big jump to Joachim of Fiore (ca. 1135–2012). He saw time divided into three parts like the Trinity:
 - Father’s time from creation to the first coming of Christ
@@ -27,11 +23,7 @@ This made Emperor Frederick II (1194–1250) the seventh king. He attempted to a
 
 Some of Joachim’s followers calculated the end of the present age at 1260, since the first chapter of Matthew counts 42 generations. If the same holds true until His second coming, and each generation is 30 years, that would be 1260. When the end did not come, the conflict escalated between church leaders and the radical Franciscans who insisted that Christ had called true Christians to practice poverty in contrast to the wealth of the medieval church and its leaders. This identified Pope Boniface VIII (who opposed them) as the beast and showed that the numerical value of the next pope was 666.
 
-
-
 The next major step was William Miller (1782–1849) and the Seventh-Day Adventists. A key text for him was the statement in Daniel that there would be 2300 days before the sanctuary would be cleansed. He understood the 2300 days to be years, as in [Ezekiel](https://www.bibleserver.com/NIV/Ezekiel4%3A6), and the sanctuary to be the earth that would be cleansed at Jesus’ second coming. Starting with 457 B.C. would be 1843–1844. He spread this message and got many followers. But after the year passed and nothing happened, many were disappointed and left, others thought that Christ’s second coming referred more to the [cleansing of the heavenly sanctuary](https://www.bibleserver.com/NIV/Hebrews8%3A1-2). A woman named Ellen White followed this view and gathered people who formed the Seventh-Day Adventists.New dates were calculated as 1874 and passed with nothing happening. Then Charles Taze Russel (1852–1916) popularized the view that Christ’s return in 1874 spiritually inaugurated a millennial dawn culminating in the arrival of God on earth in 1914. His followers called themselves Jehovah’s Witnesses.
-
-
 
 The man who really started Dispensationalism was John Nelson Darby (1800–1882). He was a curate in the Church of Ireland. He was very involved in helping the poor in his area and left the Church after the Archbishop of Dublin required any convert to swear an oath of allegiance to King George IV as the rightful King of Ireland.After an accident, he spent some time in reflection and came to the conclusion that the church and the “kingdom” in the Old Testament were two different things. He divided world history into several periods, or “dispensations,” giving Dispensationalism its name. The last of these will be the 1000 year kingdom.In this view, the time of the church is only an interim period until Israel rules the world as an earthly political kingdom and the church is raptured to heaven.
 
@@ -45,4 +37,3 @@ His views spread quickly through the Scofield Bible, Hal Lindsey’s Late Great 
 
 [Köster, Revelation and the end of all things, pages 11–67](../../../../about/ressources/index.html#koester_rev)
 
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-a-little-history.md)

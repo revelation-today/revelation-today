@@ -3,9 +3,7 @@ title: "Vahiy Kitabındaki Edebi Araçlar"
 weight: 40
 ---
 
-
 İlk dinleyiciler Vahiy Kitabı’nı nasıl yeniden okudular? Başlık ya da paragraf yoktu, sadece düz metin vardı. Gelin bu çok farklı okuma biçimine bir göz atalım.
-
 
 ## Giriş
 
@@ -13,7 +11,6 @@ weight: 40
 İbrani edebiyatı bizimkinden çok farklıdır. İbrani edebiyatında bölümler ya da ayetler değil, minimal grafiksel ya da görsel göstergelerle sıralanmış harfler vardı, çünkü bunlar görülmekten ziyade yüksek sesle (işiterek) okunmak için kullanılıyordu.
 
 Bir hikayenin nerede başlayıp nerede bittiğini, hikayelerin birbirine nasıl bağlandığını ve organize edildiğini ve vurgunun nerede olduğunu gösteren göstergeler vardır. Ancak bu tür yapıların bozulması da okuyucuya bir sinyal verebilir. Bu yapıları incelediğimizde ve anladığımızda çok daha zengin bir anlayışa sahip oluruz, ancak yazarın amaçlamadığı bir yapı görmemiz için onu zorlamamalıyız.
-
 
 ## Temel adımlar
 
@@ -25,11 +22,9 @@ Literatürü anlamak için şu üç adımı takip etmek faydalı olacaktır
 - Birimler kelime düzeyinde veya daha büyük metin birimleri olabilir
 - İnsan beyni çok sayıda küçük birimi idare edemediği için bu durum basamaklı bir düzeyde bile gerçekleşmektedir, bu nedenle normalde 3 ila 9 birime ayrılır ve daha sonra bir süper birimde toplanır.
 
-
 2, bu birimlerin düzenini analiz etmek
 
 - tekrarlama yoluyla, paralel, doğrusal olmayan
-
 
 3, yapının anlam ile ilişkisini göz önünde bulundurmak
 
@@ -37,8 +32,6 @@ Literatürü anlamak için şu üç adımı takip etmek faydalı olacaktır
 - simetrik yapıda odak noktası genellikle merkezdir
 - Bir yapı içindeki paralellikler ve zıtlıkların karışımı da vurgu olarak kullanılabilir
 - Akışın kesintiye uğraması da dikkat çekebilir
-
-
 
 ## Birimleri tanımlayın
 
@@ -54,14 +47,12 @@ Başlangıç işaretleri de birleştirilebilir:
 - zaman, yer, karakterler veya konuşmacılar, tema, tür, aksiyon hızı,
 - zaman veya ruh halinde değişim
 
-
 Son işaretleyiciler şunlar olabilir
 
 - sonuç formülü
 - şiirsel nakarat
 - sonuç veya özet
 - flashback
-
 
 Bağımsız, kendi kendini içeren ve eksiksiz bir paket olarak birim
 
@@ -70,8 +61,6 @@ Bağımsız, kendi kendini içeren ve eksiksiz bir paket olarak birim
 - içerikte uyumluluk
 - paket boyutu: tipik olarak 15–20 sayfa (büyük) veya İncil’de bölüm (orta) veya tek cümle veya birkaç paragraf (küçük)
 - çoğunlukla 7 veya 13, 14 birim, ayrıca 3 veya 5 de mümkündür
-
-
 
 ## Birimlerin düzenlenmesi
 
@@ -82,16 +71,13 @@ Birleştirilebilen üç tip vardır
 - paralel (a-b-c-a’-b’-c’)
 - simetrik (a-b-c-’b’-a’)
 
-
 Birçok kombinasyon olabilir
 
 - a-b-c-d-e-a’ varsayımla başlayan ve varsayımı kanıtlayan özetle sonlanan konuşma gibi doğrusal ve simetrik kalıbı birleştirir
 - a-b-c-d-’b’-c’-a simetrik ve paralel desenlerin bir kombinasyonu olan değiştirilmiş bir simetridir ve okuyucunun dikkatini b’-c’ anahtarına çekecektir.
 - a-a’-b-b’-c-c’-d-d’ doğrusal ve paralel şemayı birleştirir ve örneğin Gen.38/2–50/26 gibi paralel ama farklı hikayeler anlatabilir.
 
-
 Aynı hikaye farklı kalıplarda görülebilir, örneğin Gen.37/2–50/26 için a-b-c-d-e-f-g’-f’-e’-d’-c’-b’-a’ veya a-a’-b-b’-c-c’-d-d’-e-e’-f-f’-g-g’ şeklinde kırmızı olabilir.
-
 
 ## Doğrusal desen
 
@@ -100,8 +86,6 @@ Takip etmesi kolaydır. Onlar olabilir
 
 - zaman çizelgesinde bazı çakışmalar veya geri dönüşler veya diğer parantezler içeren kronolojik hikayeler gibi
 - mekansal (kuzey, doğu, güney, batı) veya koleksiyon veya alfabe boyunca gibi kronolojik olmayan
-
-
 
 ## Paralel desen
 
@@ -115,9 +99,7 @@ Paralel desen
 - hatırlamayı kolaylaştırır
 - karşılaştırma, zıtlık, vurgulama, açıklama, örnekleme yapabilir
 
-
 Örnek olarak: Yunus a: Yunus’un görevlendirilmesi ve itaatsizliği (1/1–3) b: Yunus ve putperest denizciler: YHWH merhametlidir (1/4–16) c: Yunus’un YHWH’nin merhametine yanıtı: övgü (1–17–2/10) a’: Yunus’un yeniden görevlendirilmesi ve itaati (3/1–3a) b’: Yunus ve putperest Ninovalılar: YHWH merhametlidir (3/3b-10) c’: Yunus’un YHWH’nin merhametine tepkisi: kızgınlık (4/1–4) d: YHWH’nin dersi (4/5–11)Bu yapı, ilk duasının ikiyüzlü, ikincisinin ise bencilce olduğu izlenimini verir, ancak öykünün düzenlenmesi bunu ahlakçı olmadan yapı aracılığıyla taşıyabilir.
-
 
 ## Simetrik desenler
 
@@ -137,15 +119,12 @@ Bu yaklaşımın çeşitli avantajları vardır
 - hafıza yardımı: izleyiciler birbirini takip eden noktaları daha kolay hatırlayabilir (normalde ezbere öğrenirler)
 - tekrarlardan yararlanma fırsatları: sözleşmeyi karşılaştırma, yineleme, vurgulama, açıklama veya örnekleme fırsatlarının eklenmesi
 
-
 Bunun da bir dezavantajı vardır:
 
 - izleyicinin bunu algılaması için daha fazlasını gerektirir
 - yazarın daha fazla çalışmasını gerektirir
 
-
 Ancak her şeye rağmen, simetrik form antik dünyada çok takdir edildi.
-
 
 ## Yapıları anlamak
 
@@ -156,13 +135,10 @@ Metnin yapısı anlam üzerinde çok etkilidir, örneğin bir metin açıkça ah
 - yapılandırılmış tekrar
 - öne çıkma pozisyonu
 
-
-
 ## Genel yapı
 
 <a name="4480"></a>
 Genel yapı yazarın mesajını iletebilir
-
 
 ## Yapılandırılmış tekrar
 
@@ -172,7 +148,6 @@ Tüm yapılar anlam göstermek için kullanılmaz, bazen sadece sanatsal güzell
 - yapısal: kompozisyonun yapısal şemasını oluşturmaya yardımcı olur, örneğin Nuh’un tufandan önceki ve sonraki üç oğlunun listesi (Yar.6/9–10 ve 9/18–19) hikayeyi dengeler ve paranteze alır
 - detaylandırma: eşleşen çiftin ikinci birimi konuyu daha da geliştirir, örneğin Yar.28/6–9 Esav’ın karısını tanıtırken Yar.36 Esav’ın ailesinin geri kalanının izini sürer
 - ikinci bakış açısı: ilk üniteyi farklı bir açıdan ele alır ya da özetler, örneğin Ürdün’ü geçerken iki bakış açısı verir (Yeş.3/9–17: doğudan bir geçiş başlar ve tamamlanır, Yeş.4/10–13: batıdan ilerler ve tamamlanır)
-
 
 Öte yandan bu, Yunus’un duasında olduğu gibi (Yunus 2/2–9 ve 4/1–3) anlam iletmek için de kullanılabilir.
 
@@ -187,8 +162,6 @@ Bunun avantajı, yazarın ince bir şekilde bir noktaya işaret edebilmesidir ve
 - çözüm (ya da gerçekleşme): hikâyenin açılış gerilimi, belirsizliği ya da öngörüsü ile kapanış çözümü ya da gerçekleşmesi arasındaki yakın bağlantıyı vurgular (Yar.12/1–9: Avram ve Sara’nın çocuksuzluğu, 21/1–7: İshak’ın doğumu)
 - bütünlük: bir olgunun bütünlüğünü, bir merizmin her iki yarısını da (gece ve gündüz, erkek ve kadın) öne çıkararak göstermek (İşa.2/10–22: gururlu erkeğin gelecekteki aşağılanması, 3/16–17: gururlu kadının gelecekteki aşağılanması)
 
-
-
 ## Öne Çıkan Pozisyonlar
 
 <a name="6923"></a>
@@ -202,8 +175,6 @@ Anlamı şu olabilir:
 - önemli duraklama (veya ara): son derece önemli bir noktaya değinmek için eylemde veya kompozisyon argümanında dikkat çekici duraklama
 - 2.Krallar 2/1–8/6, Elişa’nın hizmetiyle kesintiye uğrayan, kralların günahlarının neredeyse kesintisiz geçit töreninde duraklamadır.
 - Lam.3/21–32: Tanrı’nın derin sevgisi üzerinde düşünmek için acımasız trajik methiyeye ara verir
-
-
 
 ## Yapısal analizin değeri
 
@@ -226,9 +197,3 @@ Birçok değer vardır
 
 [Jerome T. Walsh, Biblical Hebrew Narrative, sayfalar 7–11](../../../../about/ressources/index.html#walsh)
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literary-tools-in-the-book-of-revelation.tr.md)

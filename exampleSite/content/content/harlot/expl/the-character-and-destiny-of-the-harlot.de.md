@@ -3,16 +3,13 @@ title: "Der Charakter und das Gericht über die Hure"
 weight: 4
 ---
 
-
 Nachdem wir verstanden haben, wer die Hure ist, bleiben noch einige Fragen, die wir mit Hilfe der Bibel beantworten können. Was ist ihr Verhalten und ihre „Taktik”? Wie sollen wir uns verhalten? Was bringt sie zu Fall?
-
 
 ## Gut, vorher zu lesen
 
 <a name="6a87"></a>
 - [Wer ist die Hure: Teil 1](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1)
 - [Wer ist die Hure: Teil 2](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2)
-
 
 ## Der Charakter der Hure
 
@@ -29,7 +26,6 @@ Ist Wirtschaftswachstum (und wissenschaftliche Forschung) also schlecht? Nein, w
 
 Trauern wir mit anderen, wenn es der [Wirtschaft schlecht geht](https://www.bibleserver.com/SLT/Offenbarung18%2C10) und der Lebensstandard sinkt? Wenn wir[ Aufträge an andere Länder verlieren](https://www.bibleserver.com/SLT/Offenbarung18%2C17)? Wäre es gut, wenn militärische Interventionen gemacht werden, um so wieder Aufträge zu sichern? Falls ja, sind wir in Babel und [sollten schleunigst gehen](https://www.bibleserver.com/SLT/Offenbarung18%2C4).
 
-
 ## Das Geheimnis ihres Untergangs
 
 <a name="a995"></a>
@@ -41,8 +37,6 @@ Die einfache Antwort ist: [Weil Gott es in ihr Herz gegeben hat](https://www.bib
 - Es ist die Erfüllung von [Daniel](https://www.bibleserver.com/SLT/Daniel7%2C21-22), wo das Böse die Heiligen besiegt, aber Gott den Heiligen den Sieg gibt (ein Thema, das sich durch die ganze Offenbarung zieht, z.B. die zwei Zeugen oder das Tausendjährige Reich). Wenn das Böse zu siegen scheint und sein wahres Gesicht zeigt, stellt Gott alles auf den Kopf.
 - Das Tier und die Könige greifen die Heiligen an, aber Jesus verteidigt sie. Jesus schreitet ein, wenn die Gemeinde angegriffen wird.
 - Die Hure gleicht äußerlich der Braut und das ist auch beabsichtigt, wenn man die Täuschung des zweiten Tieres betrachtet (zwei Hörner wie ein Lamm). Kann es also sein, dass Satans Diener auf seine eigene Täuschung hereinfallen? Die Könige wollen die Heiligen vernichten ([aus offensichtlichen Gründen](https://www.bibleserver.com/SLT/Offenbarung11%2C6-10)), aber sie verwechseln sie mit der Hure und zerstören sie stattdessen. Aber wie soll das praktsich geschehen? [Nun, ein großer Teil der westlichen Gesellschaft und der erfolgreichen Wirtschaft basiert auch auf christlichen Werten](https://www.pdfdrive.com/the-book-that-made-your-world-how-the-bible-created-the-soul-of-western-civilization-e200370906.html).
-
-
 
 ## Das Gericht über die Hure
 
@@ -59,5 +53,3 @@ Das Gericht wird aufgrund ihrer Taten gefällt:
 
 [Bauckham, The climax of Prophecy, Seiten 338–384](../../../../about/ressources/index.html#bauckham_climax)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-character-and-destiny-of-the-harlot.de.md)

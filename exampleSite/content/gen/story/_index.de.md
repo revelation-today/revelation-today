@@ -3,11 +3,9 @@ title: "Das Buch Offenbarung: Ein erster Eindruck"
 weight: 1
 ---
 
-
 Du bist vielleicht schon lange gläubig und kennst die Antworten auf die wichtigen Fragen: Was man tun muss, um gerettet zu werden, wie man ein gesegnetes und erfolgreiches Leben führt und wie man in den Himmel kommt.
 
 Du hast deinen Platz in der Welt gefunden und weißt, wie du dich zurechtfindest. Es gibt vielleicht noch offene Fragen und einige Herausforderungen im Leben, aber nichts, was man nicht bewältigen kann. Das Leben mag nicht perfekt sein, aber alles wird gut sein, wenn wir im Himmel sind. Und hier kommt die Entdeckung des Buches der Offenbarung.
-
 
 ### Ein neuer Anfang ([Kapitel 1](https://www.bibleserver.com/SLT/Offenbarung1))
 
@@ -15,7 +13,6 @@ Du hast deinen Platz in der Welt gefunden und weißt, wie du dich zurechtfindest
 Aber vielleicht fragst du dich, ob es nicht noch mehr zu sagen gibt als: Jesus ist für meine Sünden gestorben, und ich sollte dies akzeptieren und anderen von Zeit zu Zeit davon erzählen (Zeugnis geben). Nun, da ist mehr. Es ist viel mehr, und ich weiß nicht, ob Ihnen das gefällt. Denn wir sind Könige und Königinnen und haben eine Verantwortung für diese Welt. Die Uhr tickt, und wir haben eine wichtige Aufgabe vor uns. Die Rettung der ganzen Welt. Und dabei geht es nicht um mich, sondern um die Gemeinde und ihr Geheimnis.
 
 Die Gemeinde soll das Licht der Welt sein und aus der Kraft Jesu leben. Das ist nicht mehr und nicht weniger, als Jesus von der Gemeinde denkt. Aber wird die Gemeinde diesem Anspruch gerecht?
-
 
 ### Die Ernüchterung ([Kapitel 2–3](https://www.bibleserver.com/SLT/Offenbarung2))
 
@@ -38,7 +35,6 @@ Aber Jesus gibt sie nicht auf, er gibt ihnen individuelle Ratschläge, Warnungen
 
 {{< figure src="/images/Churches_de.jpg" title="Src: https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" >}}
 
-
 ### Hilfe naht ([Chapter 4–5](https://www.bibleserver.com/SLT/Offenbarung4))
 
 <a name="55b1"></a>
@@ -50,7 +46,6 @@ Aber wenn Sie denken, dass Sitzen und Anbetung alle Probleme lösen, liegen Sie 
 
 Er ist unser wahrer Held und Leiter auf dieser großen Reise, denn er ist würdig, die Welt zu regieren. Aber wenn wir dies akzeptieren und leben, beginnen wir eine Reise, auf der es kein Zurück mehr gibt.
 
-
 ### Das Böse erwacht — tritt in die Armee Gottes ein ([Kapitel 6–7](https://www.bibleserver.com/SLT/Offenbarung6))
 
 <a name="c33e"></a>
@@ -60,7 +55,6 @@ Nicht, dass die Gemeinde davon ausgeschlossen wäre. Nein, sie ist mittendrin un
 
 Bis dahin müssen wir uns der Armee Gottes anschließen. Aber wie sieht das aus? Unser Kampf ist nicht mit Gewalt wie der des Teufels, sondern es ist eine Armee von Anbetern, die aus Liebe zu ihrem Herrn alles ertragen.
 
-
 ### Der erste Angriff ([Kapitel 8–9](https://www.bibleserver.com/SLT/Offenbarung8))
 
 <a name="3037"></a>
@@ -68,12 +62,10 @@ Es ist an der Zeit, dass die Gemeinde ihre Macht entfaltet. Mit der gleichen Kra
 
 Sie lassen auch dann nicht locker, wenn ihre Götzen sich gegen sie wenden und sie selbst die Hoffnung verlieren lassen, so dass sie am liebsten ihr Leben beenden würden, es aber nicht können und es schließlich doch tun. Die Gemeinde ist geschützt — sie wird nicht aufgeben. Aber die Menschen leiden enorm und halten trotzdem an ihren Götzen fest.
 
-
 ### Realitätscheck ([Kapitel 10](https://www.bibleserver.com/SLT/Offenbarung10))
 
 <a name="4ab1"></a>
 Die Kirche hat versagt. Ihr erster Schlag führte zu nichts als verhärteten Herzen. Harte Zeiten allein verändern die Menschen nicht. Es ist das Geheimnis Gottes, das sie verändert. Und das wird jetzt offenbart, und es braucht einige Zeit, um es zu verdauen.
-
 
 ### Der große Zusammenprall ([Kapitel 11–13](https://www.bibleserver.com/SLT/Offenbarung11))
 
@@ -91,9 +83,7 @@ Aber kann die Kirche schwach werden, wenn der Teufel in der Nähe ist? Werfen wi
 - Er versuchte, Israel zu vernichten — und scheiterte erneut
 - Schließlich verfolgte er die Kirche und ahmte Gott nach — und wurde zum Gespött
 
-
 Die Aufgabe ist nicht, den Teufel zu besiegen — das hat Jesus getan — sondern die Menschen in eine Beziehung zu Gott zu ziehen
-
 
 ### Der Sieg ([Kapitel 14–16](https://www.bibleserver.com/SLT/Offenbarung14))
 
@@ -106,7 +96,6 @@ Es ist Zeit zu prüfen. Die beiden Ernten offenbaren die harte Realität. Einige
 
 Und das ist die Zeit, in der Gottes Eifer einsetzt. Sein Handeln wird erschüttern und wieder erschüttern gegen falsche Loyalität, Angriffe auf sein Volk, Verhärtung der Herzen und die Täuschung des Teufels, bis dieses Reich völlig zusammenbricht.
 
-
 ### Die letzte Herausforderung ([Kapitel 17–19](https://www.bibleserver.com/SLT/Offenbarung19))
 
 <a name="517a"></a>
@@ -118,7 +107,6 @@ Viele werden durch diese perfekte Scharade getäuscht. Dieser letzte Angriff sch
 
 Jetzt ist der Weg frei, um den Teufel und seine Schergen endgültig zu vernichten.
 
-
 ### Ein neuer Anfang ([Kapitel 20–22](https://www.bibleserver.com/SLT/Offenbarung20))
 
 <a name="a287"></a>
@@ -128,7 +116,3 @@ Danach trifft die Braut auf den Bräutigam und geht mit ihm in alle Ewigkeit.
 
 Und, hast du die Geschichte verstanden? Dann geh voran und lebe entsprechend in deinem täglichen Leben.
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/index/intro/the-book-of-revelation.de.md)

@@ -3,7 +3,6 @@ title: "Der Tempel und die Gegenwart Gottes"
 weight: 10
 ---
 
-
 Wenn wir das Thema Tempel in der Bibel betrachten, denken wir vielleicht, dass es mit Salomo (oder der Stiftshütte des Mose) begann und mit der Zerstörung durch die Römer im Jahre 70 v. Chr. oder bereits durch die Babylonier im Jahre 587 v. Chr. endete.
 
 Das Thema taucht aber schon in der Schöpfungsgeschichte auf und reicht bis in die Offenbarung.
@@ -15,14 +14,12 @@ Es beginnt mit dem Garten Eden. Gott erschafft Mann und Frau und hat Gemeinschaf
 
 Es war hart für Kain, aber Gott entschloss sich, [ein Zeichen zu machen und ihn zu schützen](https://www.bibleserver.com/SLT/1.Mose4%2C13-15). Aber Kain suchte [seinen eigenen Schutz und baute eine Stadt](https://www.bibleserver.com/SLT/1.Mose4%2C16-17) und auch [seine Nachfolger suchten ihre Sicherheit in der Blüte ihrer Kultur und im Fortschritt](https://www.bibleserver.com/SLT/1.Mose4%2C16-17). Die Linie Kains endet mit [Lamech, der Gottes Schutz verspottet](https://www.bibleserver.com/SLT/1.Mose4%2C22-24).
 
-
 ## Die Stadt als Zuflucht des Menschen
 
 <a name="9299"></a>
 Adam hat einen weiteren Sohn und [von da an suchen die Menschen wieder die Gemeinschaft mit Gott](https://www.bibleserver.com/SLT/1.Mose4%2C25-26). Aber die [Stadt ist immer noch ein wichtiges Element](https://www.bibleserver.com/SLT/1.Mose10%2C8-12), was in dem [Desaster von Babel endete](https://www.bibleserver.com/SLT/1.Mose11%2C1-9).
 
 Die Menschen wollten einen Namen für sich machen, aber [Gott erwählte Abraham und machte aus ihm einen Namen](https://www.bibleserver.com/SLT/1.Mose12%2C1-3), aus dem später Israel hervorging.
-
 
 ## Gott kommt in die Stadt
 
@@ -33,12 +30,10 @@ Der Tempel war mit Elementen des Garten Eden gefüllt und entsprach diesem Gedan
 
 Der zentrale Teil war das Allerheiligste, das nur der Hohepriester einmal im Jahr, am großen Versöhnungstag, betreten durfte. Dies war auch der Ort, an dem Gott mit Mose sprach und an dem Gott im Tempel gegenwärtig war.
 
-
 ## Gott hinterläßt die Verheißung, dass Stadt und Garten eins werden
 
 <a name="3f30"></a>
 Als Israel den Bund mit Gott brach, [verließ Gott den Tempel](https://www.bibleserver.com/SLT/Hesekiel10%2C18-19), aber später wird berichtet, dass [Gott wieder (durch das Osttor) in den Tempel zurückkehrt](https://www.bibleserver.com/SLT/Hesekiel43%2C1-2). In diesen Kapiteln wird ein neuer Aspekt eingeführt - das Bild des Gartens und der Stadt. Es ist die Geschichte des [Baches, der aus dem Altar (im Tempel) fließt und zu einem großen Strom wird, der überall Leben bring](https://www.bibleserver.com/SLT/Hesekiel47)t. Dies wird schließlich [im Neuen Jerusalem durch den Baum des Lebens in der Stadt erfüllt werden](https://www.bibleserver.com/SLT/Offenbarung22%2C1-5), aber bis dahin ist es noch ein langer Weg.
-
 
 ## Der Tempel im Neuen Testament
 
@@ -47,12 +42,7 @@ Im Neuen Testament ist [Jesus der Tempel](https://www.bibleserver.com/SLT/Johann
 
 Als Jesus starb, [wurde die Gemeinde zum Tempel, denn die Gemeinde ist der Leib Christi](https://www.bibleserver.com/SLT/1.Korinther6%2C19). Und in der Offenbarung ist die Gemeinde die Braut Christi, die das Neue Jerusalem ist, in dem die Gemeinschaft zwischen Gott und Mensch ungestört ist.
 
-
 ## Zur Vertiefung
 
 [Beale, Kim: God dwells among us](../../../../about/ressources/index.html#beale_dwell)
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-temple-and-the-presence-of-god.de.md)

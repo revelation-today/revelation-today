@@ -3,9 +3,7 @@ title: "Israel and the church"
 weight: 7
 ---
 
-
 The mention of Jews and Israel in Revelation is quite controversial. What is the reason for this and how can it be resolved?
-
 
 ## The enmity of the Jews
 
@@ -15,7 +13,6 @@ At the time of the early church, the Jewish religion was respected by the Roman 
 But now the Christians came and did not pay the respect (worship) to the emperor as expected. What is more, they are going around leading all the people to follow the Jew Jesus and not to pay respect to the emperor.
 
 Since the emperor saw the Christians as a Jewish sect, the Jews were under pressure. This led the Jews to accuse the Christians to the Romans to make sure the emperor understood that the Jews were not on their side.
-
 
 ## Jews in Revelation
 
@@ -28,9 +25,5 @@ Also in chapter 11, the place where the two witnesses are killed, spiritually de
 
 Throughout the book of Revelation, the relationship to ethnic Israel is not mentioned (depending on your reading of the 144,000 in chapter 7), only the relationship to Jesus.
 
-
-
 On the other hand, the church is part of Israel, and there are clear statements that describe a unity of Jews and Christians, e.g. the 24 elders in chapter 4 representing the 12 tribes and the 12 apostles, or the names of the 12 tribes and the 12 apostles engraved in the New Jerusalem.Also, heaven is not described as a neutral place, but as the New Jerusalem.It would not be surprising at all if Jesus were to appear in the physical Jerusalem at His second coming.Why is there such a controversial statement about the Jews? Because the church is part of Israel and therefore cannot cut its roots, even though some Jews openly attack the church.ConclusionThe challenge for the church is to deal with the tension between being part of Israel and being attacked by Israel.I think we can learn a lot from this book about how we deal with each other in different church denominations or with Jews.
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/israel-and-the-church.md)

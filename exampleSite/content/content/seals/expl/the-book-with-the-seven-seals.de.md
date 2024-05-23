@@ -3,9 +3,7 @@ title: "Ein Buch mit sieben Siegeln"
 weight: 2
 ---
 
-
 Hast du schon einmal gehört, dass etwas, das schwer zu verstehen ist, ein Buch mit sieben Siegeln genannt wird? Dieser Ausdruck stammt aus der Bibel, hat aber eine ganz andere Bedeutung.
-
 
 ## Das Buch mit den sieben Siegeln
 
@@ -22,7 +20,6 @@ Es gibt noch einen weiteren Aspekt, der im Zusammenhang mit dem Lamm überrasche
 
 Im vorigen Kapitel haben wir gesehen, dass sich alles um den Thron versammelt. Aber jetzt ist alles um Jesus versammelt, er ist der Mittelpunkt und alle Anbetung ist auf ihn ausgerichtet. Und Gott steht voll dahinter. Das zeigt an dieser Stelle auch, dass Jesus ganz und gar Gott ist, denn nur Gott darf angebetet werden.
 
-
 ## Die sieben Siegel
 
 <a name="8be0"></a>
@@ -34,7 +31,6 @@ Die wesentliche [Antwort ist das Endgericht](https://www.bibleserver.com/SLT/Off
 
 Nach einem Einschub über die [144.000](../../../../content/army/expl/the-144000) wird das siebente Siegel geöffnet. Es zeigt eine halbe Stunde der Stille. Das Schweigen hat in der Bibel eine eigene Bedeutung. In der jüdischen Literatur gibt es eine starke Verbindung zwischen der Zeit der Stille im Himmel und der Zeit, in der Gott die Gebete der Heiligen hört. Dies greift die Idee des[ fünften Siegels auf und stellt sie in den Mittelpunkt](https://www.bibleserver.com/SLT/Offenbarung6%2C9-11). Auch wenn das Gebet nur hier und [an einer anderen Stelle ](https://www.bibleserver.com/SLT/Offenbarung8%2C2-5)erwähnt wird, verbindet es die Siegel mit den Posaunen und spielt auch dort eine zentrale Rolle.
 
-
 ## Zum Weiterlesen
 
 <a name="87c6"></a>
@@ -44,4 +40,3 @@ Nach einem Einschub über die [144.000](../../../../content/army/expl/the-144000
 
 [Beale, Revelation, Seiten 337–369](../../../../about/ressources/index.html#beale_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-book-with-the-seven-seals.de.md)

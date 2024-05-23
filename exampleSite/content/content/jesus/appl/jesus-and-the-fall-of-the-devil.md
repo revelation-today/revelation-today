@@ -3,15 +3,12 @@ title: "Jesus and the fall of the devil"
 weight: 1
 ---
 
-
 We are now entering a chapter full of strange images and events. But the story is very simple and you know it very well.
-
 
 ## Our text
 
 <a name="e630"></a>
 We are moving quickly forward and reached [chapter 12](https://www.bibleserver.com/NIV/Revelation12).
-
 
 ## Christ is born
 
@@ -27,7 +24,6 @@ The devil is displayed as the big loser
 - He is unable to defeat Israel.
 - His attempt to destroy the seed of Jesus (the Church) in the next chapter is also an epic failure.
 
-
 But is this the reality? The devil does not look defeated. He seems to be in complete control of the earth and Christians are on the run.
 
 But this chapter exposes that. The devil is causing as much damage as he can [BECAUSE he knows he is defeated](https://www.bibleserver.com/NIV/Revelation12%3A11-12). His display of power is an acknowledgment of his defeat.
@@ -38,7 +34,6 @@ In this chapter and the chapter before and after, you see strange times: 42 mont
 
 We have the two witnesses acting in authority and the devil ruling. This happens at the same time that the victory of the Church is different from the victory of the Beast. The beast wants to destroy its enemies, but the Church wants to restore its enemies and its relationship with God, even if it means that the Church suffers and seems to be destroyed and defeated.
 
-
 ## So what does it mean for us
 
 <a name="596b"></a>
@@ -48,7 +43,6 @@ We often think of ourselves as either victors or defeated (maybe because we don�
 
 We can be weak and feel helpless (and it’s okay to allow those feelings), but we don’t have to despair as long as we are faithful followers of Jesus.
 
-
 ### Reflection
 
 <a name="e9a1"></a>
@@ -56,12 +50,6 @@ We can be weak and feel helpless (and it’s okay to allow those feelings), but 
 - Do you know similar stories in the Bible where the weak overcome?
 - What does it mean to you to see Satan thrown out of heaven, but creating as much chaos as possible because he has so little time? How does this affect your life as a Christian?
 - Can you see Satan as the perpetual loser in the world around you?
-
-
-
-
-
-
 
 ## Digging deeper
 
@@ -72,10 +60,3 @@ We can be weak and feel helpless (and it’s okay to allow those feelings), but 
 - [The 3,5 years](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 - [Christ is born](../../../../content/jesus/expl/a-different-christmas-story)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/appl/jesus-and-the-fall-of-the-devil.md)

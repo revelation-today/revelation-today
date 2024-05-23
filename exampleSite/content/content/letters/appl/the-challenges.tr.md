@@ -3,15 +3,12 @@ title: "Zorluklar"
 weight: 1
 ---
 
-
 2000 yıl önceki cemaatlerin şu anki durumumuzla ne ilgisi var? Bugün çok farklı zorluklarla karşı karşıya değil miyiz? Dünyanın ya da kilisenin ne kadar az değiştiğine şaşıracaksınız.
-
 
 ## Bizim metnimiz
 
 <a name="7aff"></a>
 Bazı temel bilgileri belirlemek için kitabın [ilk üç bölümüne](https://www.bibleserver.com/TR/Vahiy1) çok hızlı bir şekilde göz atacağız.
-
 
 ## Kiliseye neden ihtiyacımız var?
 
@@ -22,13 +19,10 @@ Bu gerçek bir soru mu? Kiliseye ihtiyaç duymamızın pek çok nedeni var
 - Hayatınızı yönetmenize ve toplumu etkilemenize yardımcı olacak bir kutsama ve öğreti aldığınız yer
 - ana görev ki̇li̇seleri̇ büyütmekti̇r ki̇ herkes kurtulsun ve hepi̇mi̇z cennete gi̇debi̇leli̇m
 
-
 Vahiy kitabı da aynı fikirde ve son noktaya odaklanıyor ama bu nasıl olmalı? Kitap, kilisenin amacını iki nesneyle açıklayan İsa’nın görümüyle başlar: yıldızlar ve kuzu sehpaları. Bunlar kilisenin amacını tanımlamaktadır:
 
 - dünyaya görünür bir örnek ve tanık olmak
 - güçleri İsa’ya olan bağımlılıklarında yatar
-
-
 
 ## Genel Bakış
 
@@ -40,9 +34,7 @@ Yedi kiliseye baktığınızda simetrik bir biçimde düzenlendiklerini görürs
 - Üçüncü ve sonuncu kiliseler (Bergama ve Sardes) değerlendirmelerinde karışık olan kiliselerdir (Bergama’da bazı iyi şeyler vardır ama yanlış öğretilere izin verir, Sardes’te en azından iyi şeyler yapan insanlar vardır)
 - Son olarak ortadaki parça (Thyatira) İsa’nın örnek almak istediği bir kiliseden söz eder
 
-
 Tüm bunları bir arada ele alırsak (başta, sonda ve ortada sert eleştiri ve sadece çok popüler olmayan noktalarda övgü), kilise İsa’nın kendileri hakkında sahip olduğu vizyonu gerçekleştirmek için gerçekten kötü bir durumdadır. Ama bu ayrıntılı olarak ne anlama geliyor?
-
 
 ## Güçlü yönler
 
@@ -54,8 +46,6 @@ Genellikle zayıf noktalara baktığımız için bunu kolayca gözden kaçırabi
 - Onların sevgisi: Görev icabı hareket etmezler ama komşularını gerçekten severler.
 - Yanlış öğretiyi kabul etmeyin: Teoloji yanlışsa iyi niyetli olabilirsiniz ama tanıklığınız Tanrı’nın amaçladığının tam tersi olabilir
 
-
-
 ## Zorluklar
 
 <a name="a25d"></a>
@@ -65,11 +55,7 @@ Zorlukları da güçlü yanları gibi bireyseldir, bu nedenle bazı kiliselerin 
 - Kötü liderlik ve aldatma: Önderlik yanlış öğretime izin verdi, hatta bunun kaynağı oldu. Bunun tüm kilise üzerinde yıkıcı bir etkisi oldu.
 - Yanlış öz değerlendirme: Övgü almayan Laodikya kilisesi büyük olasılıkla kendini çok beğenen bir kiliseydi. Sardes de kendi başlarının çaresine bakabileceklerini düşünüyordu. Bu, yıkıcı olan çok kötü bir yanılgıydı.
 
-
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -86,10 +72,3 @@ Zorlukları da güçlü yanları gibi bireyseldir, bu nedenle bazı kiliselerin 
 - [Philadelphia’ya mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia)
 - [Laodikya’ya mektup](../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/appl/the-challenges.tr.md)

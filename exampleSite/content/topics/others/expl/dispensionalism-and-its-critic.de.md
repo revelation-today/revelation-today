@@ -3,9 +3,7 @@ title: "Kritik am Dispensionalismus"
 weight: 2
 ---
 
-
 Der Dispensionalismus wird oft diskutiert und kann für den Leser sehr verwirrend sein. Hier sind einige Punkte der Kritik an dieser Theorie.Es ist schwierig, den Dispensionalismus zu kritisieren, aber ich werde versuchen, mich kurz zu fassen und auch ein wenig “Left Behind” zu betrachten.
-
 
 ## Wörtliches Verständnis
 
@@ -16,18 +14,15 @@ Es gibt poetische Literatur in der Bibel wie das Hohelied der Liebe. Würde man 
 
 Außerdem sind die Dispensionalisten inkonsequent mit diesem Prinzip. Sie stimmen zu, dass [das erste Tier nicht sieben Köpfe und zehn Hörner hat](https://www.bibleserver.com/SLT/Offenbarung13%2C1). Aber [Gog und Magog](https://www.bibleserver.com/SLT/Offenbarung20%2C8) und die [Pfeile und Bogen, die Gott ihnen aus der Hand reißt](https://www.bibleserver.com/SLT/Hesekiel39%2C3), werden als Raketen und Flugzeuge gedeutet.
 
-
 ## Fehlendes Verständnis von antiker Literatur
 
 <a name="0bf6"></a>
 Die Theorie ignoriert die Art der Literatur der Offenbarung: eine apokalyptische, prophetische Sammlung von Briefen. Der Dispensionalismus interpretiert alles als historisches Werk.
 
-
 ## Nicht relevant für die ersten Leser
 
 <a name="1325"></a>
 Diese Theorie macht für die ersten Leser keinen Sinn. Das Argument, dass es sich wie beim Buch Daniel um Dinge handelt, die in der Zukunft liegen, ist nicht stichhaltig, da das Buch Daniel versiegelt wurde (bis die Zeit erfüllt ist), was bei der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung22%2C10) nicht der Fall ist. Außerdem ist die Offenbarung (auch) ein [Brief, der vor allem für die ersten Leser relevant sein muss](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it).
-
 
 ## Kontext basiert
 
@@ -35,7 +30,6 @@ Diese Theorie macht für die ersten Leser keinen Sinn. Das Argument, dass es sic
 Die Theorie macht oft Annahmen, die nicht erklärt werden, oder verwendet ein Arsenal von Bibelversen, die nicht in ihrem Kontext betrachtet werden.
 
 Die wesentlichen [2000 Jahre Verzögerung in der Prophetie der 70 Jahre](https://www.bibleserver.com/SLT/Daniel9%2C26-27) hängt von einer sehr speziellen Lesart ab, und zwar von der Interpunktion, die nur von der King James-Übersetzung unterstützt wird.
-
 
 ## Voraussage über die Zukunft
 
@@ -49,25 +43,20 @@ Mit diesem Ansatz sind einige Probleme verbunden:
 - Es gibt so viele „Übereinstimmungen“ mit geschichtlichen Ereignissen, die überzeugend argumentiert wurden, aber alle mit der Zeit revidiert wurden, dass das beste Argument dagegen ist die Fülle der „passenden“ Erfüllungen ist. 😎
 - Die Voraussage wird mit einem Tunnelblick getan. So werden z.B. die sieben Sendschreiben als sieben Teile der Kirchengeschichte interpretiert und wir leben (überraschenderweise!) in der Zeit Laodizeas, der lauwarmen Gemeinde. Das mag auf die westlichen Kirchen zutreffen, ist aber für die vielen Gemeinden weltweit, die unter Verfolgung leiden, völlig falsch.
 
-
-
 ## Keine Entrückung
 
 <a name="7246"></a>
 [Es wird keine Entrückung geben](../../../../topics/others/expl/the-rapture).
-
 
 ## Der dritte Tempel
 
 <a name="6193"></a>
 Die Theorie spricht von einen dritten Tempel, der in Jerusalem gebaut werden soll, basierend auf der [Bibelstelle, dass der Außenbezirk des Tempels den Heiden gegeben wird](https://www.bibleserver.com/SLT/Offenbarung11%2C1-2). Da es momentan keinen Tempel gibt, muss er gebaut werden. Diese Interpretation beachtet nicht, dass der[ Tempel nicht notwendigerweise ein Gebäude ist, sondern die Beschreibung der Gegenwart Gottes](../../../../bible/keyword/expl/the-temple-and-the-presence-of-god).
 
-
 ## Die Trübsal
 
 <a name="055e"></a>
 [Das ist eine längere Geschichte](../../../../content/army/expl/the-end-time-and-the-great-tribulation).
-
 
 ## Die Gemeinde und Israel
 
@@ -84,25 +73,20 @@ Also, was ist jetzt mit diesem Ansatz falsch?
 - Die Gemeinde verschwindet nicht, nur weil der Ausdruck verschwindet. In dem ersten drei Kapiteln werden konkrete Gemeinden in Kleinasien angesprochen mit ihren Problemen und Verheißungen. Diese Verheißungen werden dann konkret im Kapitel 21 wieder aufgenommen.
 - Wenn ganz Israel regieren soll, was passiert mit den Juden, die nicht an Gott glauben – und das waren im Alten Testament vermutlich noch weniger.
 
-
-
 ## Die wichtigsten Grundlagen
 
 <a name="7e97"></a>
 Die wichtigste Teil dieser Theorie (Drangsal und Entrückung) werden nur einmal, wenn überhaupt in der Bibel erwähnt. Andere Themen, die in der Offenbarung mehr Raum einnehmen, werden ignoriert.
-
 
 ## Die Grundlage des Glaubens
 
 <a name="ab07"></a>
 Der Grund für den Glauben ist in dieser Theorie die Angst — wenn du nicht glaubst, wirst du nicht entrückt und wirst zurückgelassen. Aber [Angst ist keine Eigenschaft der Gemeinde, sondern des Tieres](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Außerdem wird der Glaube darauf reduziert, “gerettet” zu sein, nicht wie Jesus zu werden oder den Nächsten zu lieben und die Gesellschaft zu beeinflussen.
 
-
 ## Die christliche Waffenrüstung
 
 <a name="7b85"></a>
 Den Glauben mit einer militärischen Aussage zu beschreiben, ist [keine Aussage der Offenbarung, sondern die Sprache ist Parodie dieser Überzeugungen](https://www.bibleserver.com/SLT/Offenbarung14%2C1-5). Beispiel: [Jesus zieht mit dem Schwert seines Mundes in den Krieg](https://www.bibleserver.com/SLT/Offenbarung19%2C21). Das ist eine symbolische Handlung und bezieht sich nicht auf die Gewalt des Krieges.
-
 
 ## Es ist politisch falsch
 
@@ -113,15 +97,9 @@ Die Theorie macht Aussagen über die Welt, die nicht in der Bibel stehen oder ih
 - Sie ist unkritisch pro-amerikanisch und pro-israelisch (Anmerkung: Das Alte Testament war sehr kritisch gegenüber Israel).
 - Sie sieht den Krieg im Nahen Osten als Teil von Gottes Plan und daher als etwas Gutes, das man als Christ unterstützen sollte (dass dort Krieg ausbricht).
 
-
-
 ## Zum Weiterlesen
 
 [Barabara Rossing, The rapture exposed, Seiten 173-186](../../../../about/ressources/index.html#rossing)
 
 [Michael Goreman, Reading reveleation resposnsibly, Seiten 69–73](../../../../about/ressources/index.html#goreman)
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-and-its-critic.de.md)

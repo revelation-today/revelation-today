@@ -3,9 +3,7 @@ title: "Judgment in the book of revelation"
 weight: 5
 ---
 
-
 The book of Revelation is filled with descriptions of judgment, and it may seem that it is intended to scare all people who do not dare to repent and believe in God. But this is really wrong.
-
 
 ## Some miss understandings about judgment
 
@@ -15,10 +13,3 @@ The book of Revelation is filled with descriptions of judgment, and it may seem 
 - The only purpose of judgment is to bring punishmentNo, judgment scenes are [used to expose the devil](../../../../content/seals/expl/the-mystery-of-the-four-horse-men), to [shake false securities](../../../../content/trumpets/expl/the-trumpets-in-revelation) or to [challenge people to make a clear decision](../../../../content/bowls/expl/the-bowls-of-wrath). Of course there is also the issue of punishment, but not in the way you think, see the [topic of heaven and hell](../../../../content/paradise/expl/heaven-and-hell). Furthermore in many cases the cause is not God, but demons or the devil. Also in the Old Testament, the blessings and curses are listed as an educational element: “[If you still do not listen](https://www.bibleserver.com/NIV/Leviticus26).”
 - Judgment is the main theme in RevelationThe main theme is worship coupled with testimony/witnessing.
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/judgment-in-the-book-of-revelation.md)

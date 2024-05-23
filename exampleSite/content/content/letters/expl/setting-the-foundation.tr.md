@@ -3,9 +3,7 @@ title: "Temelin oluşturulması"
 weight: 2
 ---
 
-
 Vahiy kitabı, kolayca gözden kaçabilen ancak kitabın anlaşılması için kilit önem taşıyan bazı ifadelerle başlar. Bir göz atalım ve yeni gözlerle görelim.
-
 
 ## İsa’nın Vahyi
 
@@ -21,7 +19,6 @@ Ama her şeyden önce bunun İsa’yla ilgili olduğunu, merkezde O’nun bulund
 - Tanrı İsa Mesih’e vahiy vermiştir, vahyi veren odur ya da
 - İsa vahyin içeriğidir, vahiy İsa hakkında bir vahiydir
 
-
 Yunanca her ikisini de destekler ve niyet de bu olabilir. Vahiy İsa’dan gelir, ama niyet İsa hakkında daha fazla şey açıklamaktır. Hizmetkârlar, Yuhanna’nın bunu yazdığı imanlılardır ve bu kitabın hitap ettiği kişiler de onlardır.
 
 Ayrıca “yakında gerçekleşmesi gereken” terimi bilinçli olarak seçilmiştir ve dünya imparatorluklarının sonunu ve Tanrı’nın egemenliğini anlatan [Daniel 2'nin vizyonuna](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel) atıfta bulunur. Daniel’den farkı, bunun artık gelecekte değil, gelmiş olmasıdır.
@@ -34,9 +31,7 @@ Bir sonraki ayette bu daha açık bir şekilde ifade edilmektedir: “Ne mutlu b
 - Zaman yaklaşıyor. Fazla zamanımız yok, şimdi harekete geçmeliyiz. Son 2000 yılda bu konuda hiçbir şey değişmedi.
 - Bu bir kehanettir: Kiliseyi harekete geçmeye çağıran bir hatırlatmadır.
 
-
 Zamanın yakın olması her an gerçekleşebileceği anlamına gelmez, ancak [Markos’ta](https://www.bibleserver.com/TR/Markos1%3A15) [aynı ifadenin](https://biblehub.com/interlinear/mark/1-15.htm) kullanıldığı ancak Tanrı’nın krallığının geldiğini anlatan abartılı bir yakınlık ifadesidir.
-
 
 ## Taban
 
@@ -50,8 +45,6 @@ Zamanın yakın olması her an gerçekleşebileceği anlamına gelmez, ancak [Ma
 - Ölüler arasından ilk doğan, ölene kadar sadık kalmak için bir teşviktir, çünkü bu bir son değildir.
 - “O bizi seviyor ve bizi günahlarımızdan kurtardı” ifadesi İsa’nın bizim için olduğunu hatırlatır.
 - Bizi krallar ve kâhinler olarak yarattı. Bizler zaten kralız ama bunu uygulamamız gerekiyor — dünyanın yönettiği şekilde değil.
-
-
 
 ## Bulutlarla birlikte geliyor
 
@@ -79,22 +72,14 @@ Bu iki pasajı bir araya getirdiğimizde şunları görürüz
 - kazanç, Avram’a vaat edildiği gibi tüm ulusların ona tapmasıdır
 - Ancak metin, ulusların nasıl tepki vereceğini (“O’nun uğruna göğüslerini döverek”) açık bırakır — bazıları Kurtarıcıları için tövbe ederek, diğerleri ise yargı korkusuyla.
 
-
 Dolayısıyla bu pasaj İsa’nın bazı insanlar tarafından öldürülmesinden dolayı yaklaşan gazabından değil (ulusun bu olayla bir ilgisi yoktur), uluslara yönelik bir tövbe ve kurtuluş çağrısından söz etmektedir.
-
 
 ## Sonuç
 
 <a name="a780"></a>
 Zaman yakındır ve kilise harekete geçmelidir. İsa’nın her şeyi yaptığı gibi kilise de öne çıkabilir ve uluslara ulaşabilir.
 
-
 ## Daha derine inmek
 
 [Beale, Relevation, sayfalar 181–222](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/setting-the-foundation.tr.md)

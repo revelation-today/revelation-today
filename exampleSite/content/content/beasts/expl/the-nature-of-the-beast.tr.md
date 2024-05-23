@@ -3,9 +3,7 @@ title: "Canavarın doğası"
 weight: 2
 ---
 
-
 Şeytan tüm köleleriyle birlikte Vahiy Kitabı’nda oldukça fazla yer kaplar ve ben de bu konu üzerine epeyce makale yazdım. Neden? Tanrı’yı tanımlamak için daha fazla zaman ve çaba harcamamız gerekmez mi? Bunun bir nedeni var
-
 
 ## Daha önce okumak isteyebilirsiniz
 
@@ -14,13 +12,10 @@ weight: 2
 - [Canavarların karakteri](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
 - [Fahişenin karakteri](../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
-
-
 ## Şeytanın karakteri
 
 <a name="904a"></a>
 Şeytan saldırgan olarak tanımlanır ki bir imanlı olarak bununla başa çıkmak zordur, ancak neyle karşı karşıya olduğunuzu görürsünüz. Ama aynı zamanda aldatıcıdır ve bu daha da tehlikelidir çünkü kolay bir çıkış yolu olduğunu düşünerek tüm bu mücadeleden yorulabilirsiniz. Ama sonuçta bunu bile tam olarak anlamadan şeytana sadık kalırsınız. Bu nedenle kitapta Tanrı ve Şeytan anlatılmaktadır, böylece neyin farklı neyin ortak olduğunu görebilirsiniz.
-
 
 ## Şeytanın tanımı
 
@@ -38,11 +33,9 @@ Tanrı üç olduğu için şeytan her zaman üçleme şeklinde ortaya çıkar.
 - [Kadını yok etmeye çalışır ama başarılı olamaz.](https://www.bibleserver.com/TR/Vahiy12%3A13-17)
 - [İsa’nın soyundan gelenleri, kiliseyi yok etmeye çalışır](https://www.bibleserver.com/TR/Vahiy13) ve [666 sayısında ](../../../../content/beasts/expl/666-the-number-of-the-beast)da gördüğümüz gibi başarısız olur
 
-
 Şeytan, [19.](https://www.bibleserver.com/TR/Vahiy19%3A20) ve [20. bölümlerde](https://www.bibleserver.com/TR/Vahiy20%3A10) yargılanan [altıncı kasede yine bir üçlü olarak ](https://www.bibleserver.com/TR/Vahiy16%3A13)gösterilir. Bu bölümler aynı zamanda bir canavar ve fahişenin de bulunduğu fahişe öyküsünü çerçeveler.
 
 Bu üç görüş şeytanın eylemlerini tanımlamakla bağlantılıdır.
-
 
 ## Sahte üçleme
 
@@ -59,13 +52,11 @@ Kiliseyi kandırmak için [şeytani bir üçlü oluşturur](../../../../content/
 - ardından güç kullanan (savaş getiren) gelir,
 - ekonomik adaletsizliği getiren kişi tarafından takip edilir
 
-
 Dördüncüsü hepsinin bir özeti, bakın burada başka bir üçlü durumumuz var.
 
 Son olarak fahişenin öyküsüne bakıyoruz. Bölüm 17'deki pek çok aktöre rağmen, burada bir üçleme görmek zordur. Ancak iki gözlem yapacaksınız:
 
 Bölüm 17'deki canavar ile Bölüm 13'teki ilk canavar arasında güçlü bir paralellik vardır
-
 
 | Vahiy 13'teki ilk canavar | Vahiy 17'deki canavar |
 |---------------------------|-----------------------|
@@ -79,7 +70,6 @@ Bölüm 17'deki canavar ile Bölüm 13'teki ilk canavar arasında güçlü bir p
 Ancak 13. bölümdeki ikinci canavar ile fahişe arasında da güçlü bir bağ vardır
 
 ## Fahişe ve İkinci Canavar
-
 
 | Vahiy 13'teki ikinci canavar | Fahişe |
 |------------------------------|--------|
@@ -98,7 +88,6 @@ Peki üçüncü bölüm nerede? Bölüm 13'te olduğu gibi arka planda kalıyor 
 
 [Bu durum tarihsel bağlamda da geçerliydi](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context): İki canavarla yüzleşirsiniz ama şeytanı doğrudan görmezsiniz.
 
-
 ## Resmin gelişimi
 
 <a name="5eae"></a>
@@ -110,9 +99,3 @@ Ejderha ve iki canavarın öyküsünde işlenen konu budur. [Şeytan’ın sundu
 
 Bu, Babil’in tüm ayrıntılarıyla Yeni Yeruşalim’in bir karşılığı olarak tanımlandığı son görüşte nihayet ortaya konur.
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-nature-of-the-beast.tr.md)

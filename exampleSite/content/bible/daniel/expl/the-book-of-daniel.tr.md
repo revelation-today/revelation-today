@@ -3,9 +3,7 @@ title: "Daniel’in kitabı"
 weight: 10
 ---
 
-
 Kutsal Kitap’taki Daniel kitabının iki yönü var gibi görünmektedir: Biri, büyük bir iman örneği gösteren ilk 6 bölümdür, diğer 6 bölüm ise birçok garip teolojinin nedeni gibi görünen garip görümlerle doludur. Ancak bu doğru değildir.
-
 
 ## Hızlı bir gezinti
 
@@ -26,7 +24,6 @@ Hızlıca bir göz atalım:
 
 [Dan.7](https://www.bibleserver.com/TR/Daniel7): Bu “garip” bölümlerin ilkidir. Merak etmeyin, onları inceleyeceğiz. Bölüm 2'de olduğu gibi, burada da birbirini izleyen dört imparatorluğu temsil eden dört (canavar) vardır.
 
-
 ## Chiasm
 
 <a name="be58"></a>
@@ -39,7 +36,6 @@ Burada 2. ve 7., 3. ve 6., 4. ve 5. bölümleri benzer bir temayla ama kasıtlı
 4. ve 5. bölümler gurur ve aşağılanmayı anlatır. Dördüncü bölümde kral [gururu](https://www.bibleserver.com/TR/Daniel4%3A30) yüzünden bir canavar gibi yaşayacak kadar aşağılanır, ancak Tanrı’ya yücelik verdikten sonra eski haline döner. 5. bölümde ise kral uyarıyı alır ve tepkisi Daniel’i terfi ettirmek olur, ancak aynı gece hem kendisi hem de krallığı ölür.
 
 Bu da kitabın merkezinin bu 6 bölüm olduğu perspektifini vermektedir (1. bölüm giriş, 8–12. bölümler ise eklerdir). Özellikle 2. ve 7. bölümlerin çerçevesi önemli görünmektedir).
-
 
 ## Yürüyüş devam etti
 
@@ -56,7 +52,6 @@ Bu da kitabın merkezinin bu 6 bölüm olduğu perspektifini vermektedir (1. bö
 
 [Dan.12](https://www.bibleserver.com/TR/Daniel12): Bunlar, kutsal kişinin bütün bu zamanlarda dayanması için bazı son teşviklerdir.
 
-
 ## Ne anlamı var ki?
 
 <a name="e7d4"></a>
@@ -66,16 +61,9 @@ Hikâyenin birbiriyle örtüşen birkaç boyutu var:
 - dünyevi güçler ve onların çöküşü, Babil kralının ve imparatorluğunun ([altının başı](https://www.bibleserver.com/TR/Daniel2%3A38)) ya da Tanrı’nın yönetimindeki diğer tüm krallıkların (bölüm [2](https://www.bibleserver.com/TR/Daniel2%3A45) ve [7](https://www.bibleserver.com/TR/Daniel7)) çöküşü olsun ya daDeccal’den (Makabe savaşıyla IV. Antiochus Epiphanes) dünyevi kurtuluş, daha sonra Roma imparatorluğu tarafından boyun eğmeye yol açar
 - Tüm dünyanın tanrısal kurtuluşu ve [Tanrı’nın sonsuza dek tutan gizemli yolundaki](https://www.bibleserver.com/TR/Daniel2%3A45) [imparatorlukları](https://www.bibleserver.com/TR/Daniel2%3A45)
 
-
 Tüm bunları bir araya getirmek, dünyanın ebedi kaderinde (her bir) tek kişinin inancının önemini gösterir. Tanrı, bireylerin ince eylemleriyle hareket eder ve yenilmez bir krallık ortaya çıkarır.
-
 
 ## Daha fazla kazma
 
 [Wuppertaler Studienbibel, Der Prophet Daniel](../../../../about/ressources/index.html#daniel)
 
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-book-of-daniel.tr.md)

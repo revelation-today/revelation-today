@@ -3,9 +3,7 @@ title: "Das Geheimnis des Menschensohns"
 weight: 30
 ---
 
-
 Jesus nennt sich selbst den Menschensohn. Warum? Und was bedeutet das?
-
 
 ## Der Ursprung
 
@@ -17,7 +15,6 @@ Die Bezeichnung Menschensohn geht auf den Propheten Daniel zurück:
 Wer dieser Menschensohn ist, wird in diesem Text nicht erklärt, so dass wir ein wenig nachforschen müssen. Aber einige Verse später wird die Erklärung gegeben: „[aber die Heiligen des Allerhöchsten werden die Königsherrschaft empfangen, und sie werden die Königsherrschaft bis in Ewigkeit behalten, ja, bis in alle Ewigkeit!](https://www.bibleserver.com/SLT/Daniel7%2C18)“
 
 Die Heiligen des Allerhöchsten sind das Volk Israel. Durch sie wird der Menschensohn repräsentiert. In dieser Kultur kann eine Person eine Gruppe darstellen, wie die [Tochter Zion für Israel](https://www.bibleserver.com/SLT/Jesaja1%2C8), die [Geschichte Israels als Frau](https://www.bibleserver.com/SLT/Hesekiel16) oder die [Geschichte des Nord- und Südreiches Israels als die Geschichte zweier Frauen](https://www.bibleserver.com/SLT/Hesekiel23).
-
 
 ## Die zentrale Aussage
 
@@ -38,15 +35,12 @@ Werfen wir einen Blick auf die interpretierten Elemente:
 - Alte an Tagen spricht das Gericht zu Gunsten seines Volkes = die Macht des Königs wird ihm genommen und er wird für immer vernichtet.
 - Zeit kommt, wenn sie das Reich besitzen = alle Reiche werden dem Volk Gottes übergeben, es wird ein ewiges Reich sein, alle Herrscher werden anbeten und gehorchen
 
-
 Einige Beobachtungen:
 
 - Die großen Worte, die gesprochen werden, sind Worte gegen Gott, sie unterdrücken sein Volk und sein Gesetz. Gesetz. So ist ein Angriff auf Gottes Volk ein Angriff auf Gott, und so ist Gottes Antwort.
 - Die Niederlage des Volkes Gottes ist nur vorübergehend und nur für 3,5 Zeiten, die Niederlage kommt vor dem endgültigen Sieg.
 - Das Gericht zugunsten des Volkes Gottes bedeutet, dass die Könige für immer vernichtet werden.
 - Der Besitz des Reiches bedeutet auch, dass alle Herrscher ihn anbeten (Menschensohn = Israel).
-
-
 
 ## Das Problem
 
@@ -61,7 +55,6 @@ Aus dem Zusammenhang bei Daniel ist es nicht ganz klar, wann das sein wird, aber
 
 Im Alten Testament wird nur der Prophet Hesekiel als „Menschensohn“ genannt, aber hier wird “[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)” (“Sohn von Adam”) verwendet, während in Daniel der Ausdruck “[kebar enas](https://biblehub.com/interlinear/daniel/7-13.htm)” (“Sohn der Menschheit”) verwendet wird.
 
-
 ## Die Lösung
 
 <a name="bcd4"></a>
@@ -75,7 +68,6 @@ Die Antwort ist etwas überraschend.
 - Das Horn oder ein anderer König, der sich Jesus widersetzt und das Gesetz ändert, tut dies für 3,5 Zeiten. Jesus wirkte ca. 3 Jahre und wurde am dritten Todestag auferweckt.
 - Das Ergebnis der Rechtfertigung Jesu ist das Gericht über seine Feinde.
 
-
 Man könnte auch sagen, es sei der Satan oder der Antichrist, aber die Evangelien zeichnen ein anderes Bild. Es ist [Israel, das ihn ablehnt](https://www.bibleserver.com/SLT/Johannes1%2C11-14), [seine religiösen Führer greifen ihn an und verschwören sich, um ihn zu töten](https://www.bibleserver.com/SLT/Johannes11%2C45-54). Sie bringen ihn vor Gericht, und das [ganze Volk beschließt, ihn zu töten](https://www.bibleserver.com/SLT/Johannes19%2C1-15). Es ist auch das Volk [Israel, das das Gesetz verdreht (“Ihr habt gehört, dass gesagt ist, ich aber sage euch …”)](https://www.bibleserver.com/SLT/Matth%C3%A4us5%2C17-48).
 
 Die harte Wahrheit ist, dass sein eigenes Volk, Israel, ein großer Feind ist, der sich gegen ihn wendet. Aber wir sollten uns hüten, Israel zu verurteilen, denn wir als Gemeinde sind nicht besser.
@@ -83,7 +75,6 @@ Die harte Wahrheit ist, dass sein eigenes Volk, Israel, ein großer Feind ist, d
 Aber was tat Jesus: [Er vergab, denn sie wußten nicht, was sie taten](https://www.bibleserver.com/SLT/Lukas23%2C34). Und [seine Berufung war es, so viele Israeliten wie möglich wiederherzustellen, damit sie der Berufung Israels folgen konnten](https://www.bibleserver.com/SLT/Matth%C3%A4us15%2C24) (diese Berufung war die Berufung der Apostel zu den Nationen, [natürlich mit Ausnahmen](https://www.bibleserver.com/SLT/Matth%C3%A4us8%2C5-13)). Er kam nicht als Richter, sondern als Retter, aber er wird wiederkommen. Und er hat Israel nicht durch die Gemeinde ersetzt, sondern Israel neu gestartet und die Gemeinde darin eingebettet.
 
 Seine Aufgabe ist es, den [Überrest Israels zu retten](../../../../background/israel/expl/the-remnant-of-israel).
-
 
 ## Das Erbe
 
@@ -106,5 +97,3 @@ Die Zeugen werden als der Menschensohn identifiziert, weil sie das Leben Jesu na
 
 [Beale, A New Testament Biblical Theology, Seiten 393–428](../../../../about/ressources/index.html#beale_theo)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-son-of-man-and-the-remnant.de.md)

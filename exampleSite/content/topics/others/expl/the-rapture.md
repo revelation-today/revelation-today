@@ -3,9 +3,7 @@ title: "The rapture"
 weight: 3
 ---
 
-
 The rapture is a very fascinating subject that has captured the imagination of many people and frightened even more. But what is the rapture? Is it biblical? And what does it mean for believers?
-
 
 ## Intro
 
@@ -16,7 +14,6 @@ Some people mention the rapture because it is the most obvious statement of the 
 
 But let’s take a look at those passages. This will not only show where the argument went wrong, but it may also be helpful in avoiding the same mistakes when reading the Bible.
 
-
 ## The obvious passage
 
 <a name="1dba"></a>
@@ -24,18 +21,15 @@ But let’s take a look at those passages. This will not only show where the arg
 
 Now, this is the most famous passage that “proves” the rapture, but let us take a closer look. This passage shows in bold what sounds like an argument for the rapture, but in italics what that argument fails to include.
 
-
 ### The overall context
 
 <a name="71ea"></a>
 The passage is about the issue of the resurrection. That is the issue, and “caught up” only comes up in one statement. The people in the church were concerned that when Jesus returned, the people who had died would not be with Jesus. So this passage describes that when Jesus comes we will all be with Christ, first the resurrection of the dead and then we.
 
-
 ### Pressing the interpretation on the text
 
 <a name="e236"></a>
 Everyone has a view or a theology, and when we read the Bible, we apply that view to the Bible and read the text through that lens. The text states that the living believers will meet Jesus in the air, but there is no statement that He will take them back to heaven. Taking into account the first argument (happens along with the resurrection of the dead), [we are at the point of Last Judgment](https://www.bibleserver.com/NIV/Revelation20%3A13), which is described just before [the New Jerusalem comes DOWN to earth](https://www.bibleserver.com/NIV/Revelation21%3A2), so Jesus will not come to pick them up, but His destination is the earth.
-
 
 ### Missing key words
 
@@ -59,11 +53,9 @@ And there we find the word “[harpazo](https://biblehub.com/greek/726.htm)”, 
 - [believers are saved from fire](https://www.bibleserver.com/NIV/Jude23)
 - [the child is saved from the dragon](https://www.bibleserver.com/NIV/Revelation12%3A5)
 
-
 Although the meanings are very different, they have one thing in common: it is an involuntary action of the object (saved, snatched from hand, stolen, raptured, …) and does not refer to a physical ascension to heaven.
 
 But the word that describes the action is [apensis](https://biblehub.com/greek/529.htm) which is only used in two other places: [at the arrival of the bridegroom](https://www.bibleserver.com/NIV/Matthew25%3A6) and [the welcome of Paul in Rome](https://www.bibleserver.com/NIV/Acts28%3A15). In both cases, the people came out to greet the person and followed him the way he came. The [explanation of the word also shows](https://biblehub.com/greek/529.htm) that this is the sign of meeting an important person outside the city and guiding them inside. So Jesus’ way is clearly down to earth and not up again.
-
 
 ### Supporting evidence
 
@@ -72,14 +64,12 @@ This image or comparison is never used again in the Bible. Other passages are us
 
 So, as we have learned, this passage shows the OPPOSITE of the rapture: Jesus is coming down with his kingdom.
 
-
 ## The left behind
 
 <a name="cdcb"></a>
 [“As it was in the days of Noah, so it will be at the coming of the Son of Man. For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark; and they knew nothing about what would happen until the flood came and took them all away. That is how it will be at the coming of the Son of Man. Two men will be in the field; one will be taken and the other left. Two women will be grinding with a hand-mill; one will be taken and the other left. ‘Therefore keep watch, because you do not know on what day your Lord will come.”](https://www.bibleserver.com/NIV/Matthew24%3A37-42)
 
 Again, this passage is used to argue for the rapture: One is raptured, the other is left behind.
-
 
 ### Assumptions
 
@@ -88,12 +78,10 @@ With the glasses of rapture, taken away is a good thing and left behind bad, but
 
 And there is no mention of where they will be taken. This could very well be the image of the secret police in the Roman Empire who arrested believers for their faith.
 
-
 ### The context
 
 <a name="0cab"></a>
 What is the story about? It is very vague what the specific fate of the people taken and left is (Matthew may even be intentionally using the ambiguity of the words). The point is that we should be ready, [as the verse before says](https://www.bibleserver.com/NIV/Matthew24%3A36), because the distinction could come in the middle of our work (no time to prepare).
-
 
 ## The olive tree perspective
 
@@ -104,7 +92,6 @@ The themes touched upon here describe the destruction of the temple with all the
 
 The interpretation of [the parable of the olive tree](https://www.bibleserver.com/NIV/Matthew24%3A32) as the events of 1948 with the foundation of Israel is a too far-fetched and has no further support in the Bible. It does not refer to the new state of Israel, but [was an image for the church in the New Testament, as were many other references to Israel](../../../../background/israel/expl/the-church-is-part-of-israel).
 
-
 ## A place for us
 
 <a name="11c1"></a>
@@ -113,7 +100,6 @@ The interpretation of [the parable of the olive tree](https://www.bibleserver.co
 How does this passage relate to the rapture? Well, it is assumed that these places are places where the faithful will be during the tribulation.
 
 Now, let us look again at this word: [Mone](https://biblehub.com/greek/3438.htm). This word is only [used one other time in John (in the same chapter!), where it is refers to God’s dwelling in us](https://www.bibleserver.com/NIV/John14%3A23). This gives the picture of “the believer has a dwelling place in Christ and Christ has a dwelling place in the believer”. In this context, the place is more like a household than a house, belonging to God’s family.
-
 
 ## When the rapture happens
 
@@ -128,20 +114,12 @@ This does not speak of him being there permanently, nor does it refer to the who
 
 Rather, it refers to the Old Testament description of the heavenly council, as in [Isaiah](https://www.bibleserver.com/NIV/Isaiah6%3A1-13) or the [Book of Kings](https://www.bibleserver.com/NIV/1%20Kings22%3A19-23).
 
-
 ## Conclusion
 
 <a name="5a06"></a>
 The argument for the rapture is based on passages describing different situations that are misinterpreted and taken out of context, ignoring the meaning of key words. There is no biblical evidence for a rapture.
 
-
 ### Further digging
 
 [Barabara Rossing, The rapture exposed, pages 173-186](../../../../about/ressources/index.html#rossing)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/the-rapture.md)

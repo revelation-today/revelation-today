@@ -3,9 +3,7 @@ title: "İsrail ve kilise"
 weight: 7
 ---
 
-
 Vahiy Kitabı’nda Yahudiler ve İsrail’den bahsedilmesi oldukça tartışmalıdır. Bunun nedeni nedir ve nasıl çözülür?
-
 
 ## Yahudilerin düşmanlığı
 
@@ -15,7 +13,6 @@ Vahiy Kitabı’nda Yahudiler ve İsrail’den bahsedilmesi oldukça tartışmal
 Ama şimdi Hıristiyanlar ortaya çıktılar ve imparatora beklendiği gibi saygı göstermediler (tapınmadılar). Bunun da ötesinde, etrafta dolaşıp tüm insanları Yahudi İsa’yı takip etmeye ve imparatora saygı göstermemeye yönlendiriyorlar.
 
 İmparator Hıristiyanları bir Yahudi mezhebi olarak gördüğü için Yahudiler baskı altındaydı. Bu durum Yahudileri, imparatorun Yahudilerin kendilerinin yanında yer almadığını anlamasını sağlamak için Hıristiyanları Romalılara karşı suçlamaya yöneltti
-
 
 ## Vahiy’de Yahudiler
 
@@ -36,7 +33,6 @@ Ayrıca cennet tarafsız bir yer olarak değil, Yeni Yeruşalim olarak tanımlan
 
 Neden Yahudilere yönelik bu kadar tartışmalı bir açıklama var? Çünkü kilise İsrail’in bir parçasıdır ve bu nedenle Yahudilerin bir kısmı kiliseye açık bir saldırı içinde olsa bile köklerini kesemez.
 
-
 ## Sonuç
 
 <a name="a396"></a>
@@ -44,9 +40,3 @@ Kilisenin önündeki zorluk, İsrail’in bir parçası olmakla İsrail’in sal
 
 Bence kitaptan, farklı kilise adaylıklarında veya Yahudilerle birbirimize nasıl davrandığımız konusunda çok şey öğrenebiliriz
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/israel-and-the-church.tr.md)

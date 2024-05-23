@@ -3,9 +3,7 @@ title: "The angel of the churches"
 weight: 4
 ---
 
-
 In the book of Revelation in the Bible, there is this repeated phrase: Write to the angel of the church. Do churches have guardian angels? Are the leaders of the churches angels? Well, let us take a closer look.
-
 
 ## Unlikely interpretations
 
@@ -13,7 +11,6 @@ In the book of Revelation in the Bible, there is this repeated phrase: Write to 
 Could it be that the angels of the churches are guardian angels watching over the churches? Probably not, because it is a bit strange for Jesus to tell John to write to the angels — there are other ways. And how do you write to angels anyway? Besides, it would be [hard to blame the angel if some of the members in the church are not faithful](https://www.bibleserver.com/NIV/Revelation2%3A24-25).
 
 Or could it be a leader who is referred to as an angel? Well, it would also be hard to blame him for the failures of individuals.
-
 
 ## Observations
 
@@ -27,8 +24,6 @@ Let us take some time to make a few observations:
 - Angels were used here without an article, which is unusual in the Jewish or early Christian literature.
 - These angels were never mentioned again in the rest of the book.
 
-
-
 ## Angels = Churches
 
 <a name="8ab4"></a>
@@ -40,14 +35,11 @@ Moreover
 - Letters to churches are not usually written to individuals.
 - Churches are also addressed in the [plural](https://www.bibleserver.com/NIV/Zephaniah2%3A1-5) in letters or prophetic speeches.
 
-
 So why should the churches be addressed as angels?
 
 - The church should be in unity, just as an angel is a “unit”. It is not their specific salvation/path with God, but they are taking responsibility as a whole.
 - Addressing them as angels (angelos = messenger) reminds them of their heavenly purpose.
 - Calling them angels shows that they cannot do their work on their own, but need heavenly help (Holy Spirit).
-
-
 
 ## Further reading
 
@@ -55,15 +47,7 @@ So why should the churches be addressed as angels?
 - [The letter to the churches](../../../../content/letters/expl/the-letters-to-the-seven-churches)
 - [What is a hero](../../../../topics/hero/short/a-real-hero)
 
-
-
 ## Dig Deeper
 
 [Aune, Revelation, pages 108–112](../../../../about/ressources/index.html#aune_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/the-angel-of-the-churches.md)

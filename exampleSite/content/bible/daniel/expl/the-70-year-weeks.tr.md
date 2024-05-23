@@ -3,9 +3,7 @@ title: "70 yıllık haftalar"
 weight: 40
 ---
 
-
 70 yıllık haftalar, Kutsal Kitap’ın gizem yüklü bir bölümüdür ve ahir zamanla ilgili daha da ilginç yorumlar içerir. Gelin tüm bunların ne hakkında olduğuna daha yakından bakalım
-
 
 ## Bir yıllık hafta nedir
 
@@ -13,7 +11,6 @@ weight: 40
 Yaratılış sırasında Tanrı yedinci günü Şabat olarak adlandırılan bir dinlenme günü olarak kutsamıştı, ancak “sabbatical yıl” hakkında da bir yasa vardı: [Her yedinci yılda toprak dinlenmeli](https://www.bibleserver.com/TR/Levililer25%3A1-7) ve [insanlar Tanrı’nın kendilerine sağlayacağına güvenerek yaşamalıdır](https://www.bibleserver.com/TR/Levililer25%3A20-22).
 
 Ancak İsrail sürgüne gittiğinde [Yeremya’nın](https://www.bibleserver.com/TR/Yeremya25%3A11-12) [kehanet ettiği gibi 70 yıl gerçekleşmediği için](https://www.bibleserver.com/TR/2.Tarihler36%3A20-21) bu asla gerçekleşmeyecek gibi görünüyor. Şabat yılı sadece yedinci yılda bir gerçekleştiğinden, 7*70=490 yıllık bir zamandan, yani İsrail’in bir devlet olarak var olduğu tüm zamandan bahsediyoruz. Yani Daniel’de bir yıl ya da hafta 7 yıldan oluşur (Şabat günü ile paralelliği göstermek için hafta olarak adlandırılır — bir haftanın yedinci günü)
-
 
 ## Söz
 
@@ -33,9 +30,7 @@ Ancak İsrail sürgüne gittiğinde [Yeremya’nın](https://www.bibleserver.com
 - vizyon ve kehaneti mühürlemek: mühürlemek burada onaylamak anlamına gelir
 - En Kutsal Yeri meshetmek: En Kutsal Yer tapınak olabilir, ama belki de bu [tapınaktan daha büyük](https://www.bibleserver.com/TR/Matta12%3A6) olan ve aynı zamanda meshedilmiş olan [İsa’dır](https://www.bibleserver.com/TR/Romal%C4%B1lar3%3A25)
 
-
 Buna baktığımızda, tüm bunların tarihte gördüklerimizin ve sadece İsa tarafından çarmıhta yapılanların çok ötesine ulaştığını görürüz: O tüm günahların bedelini ödedi, Kutsal Ruh’la birlikte buyruklarını yüreğimize verdi ve çok daha fazlasını yaptı.
-
 
 ## 70 yıl
 
@@ -45,7 +40,6 @@ Buna baktığımızda, tüm bunların tarihte gördüklerimizin ve sadece İsa t
 - 7 (Yeruşalim’deki tapınağın inşa edilmesi emri)
 - 62 (tapınak inşa edilir)
 - 1 (bitirmek için)
-
 
 25. ayet: ‘[Şunu bilin ve anlayın: Yeruşalim’i onarıp yeniden inşa etme sözü yayıldığı andan Meshedilmiş Olan, yani yönetici gelinceye dek yedi “yedili” ve altmış iki “yedili” dönem olacak. Sokaklar ve hendeklerle yeniden inşa edilecek, ama sıkıntı zamanlarında.](https://www.bibleserver.com/TR/Daniel9%3A25)
 
@@ -69,7 +63,6 @@ Son özne Tanrı olduğu için, [İsa’nın yeni antlaşması](https://www.bibl
 
 O iğrençliği kuracak ([orijinalde o değil, “ıssızlaştıran” ifadesi kullanılmıştır](https://biblehub.com/interlinear/daniel/9-27.htm)), dolayısıyla burada konu değişiyor ve Tiberius’a geri dönüyoruz. Orijinalde Romalıların Lejyon Kartalı’na atıfta bulunan iğrençlik kanatlarından söz edilir. Hüküm onun üzerine dökülünceye kadar daha iyi bir şekilde şöyle tercüme edilebilir: “Hükmedilen son ıssızlaştırıcının üzerine konuncaya kadar” Roma İmparatorluğu yıkılıncaya kadar anlamına gelir ki bu da bizi [Daniel 7. bölüme](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel) geri götürür.
 
-
 ## Geçen hafta
 
 <a name="42f9"></a>
@@ -79,14 +72,12 @@ Son haftaya (son yedi yıla) geldiğimizde bu biraz karmaşık bir hal aldı. Ne
 
 İki hikaye çizgisi 40 yıl kaymış. Bu nasıl mümkün olabilir? İsa çağrısının başlangıcında çölde 40 gün kaldı ve İsrail’in çölde başarısız olduğu tüm ayartmalara karşı koydu. Bu nedenle İsrail’in vaat edilen topraklara gelmeden önce çölde 40 yıl daha dolaşması gerekmiştir.
 
-
 ## İsrail’in hikayesi
 
 <a name="8bed"></a>
 66 yılında, yedi yılın yarısında yeniden inşa edilmeyen tapınağın yıkımına neden olan Yahudi savaşı başlar. Terk edicinin kanatlarında tapınak yıkılır ve onunla birlikte kurbanlar da artık mümkün değildir.
 
 Savaş 7 yıl sonra 73'te sona erer ve bundan sonra bazı huzursuzluklardan sonra İsrail 135'te başka bir savaştan sonra sınır dışı edilir. İsrail tapınağı, şehri ve toprağı kaybetmiştir.
-
 
 ## İsa’nın hikayesi
 
@@ -101,12 +92,7 @@ Yedi yılın sonunda ne var? Ne zaman bitiyor? Diğer her şey edebi olduğu iç
 - İsa’nın geri geleceği günü ve saati kimse bilemez, bu da 24. ayetteki her şeyin tamamlandığı zamandır.
 - Kilise İsa’yı yaptığı her şeyde takip etmelidir, bu yüzden İsa 3,5 yıl boyunca orada olduğu için kilise de aynısını yapmalıdır ve bu nedenle aynı zaman dilimi kullanılır
 
-
 ## Daha fazla kazma
 
 [Wuppertaler Studienbibel, Der Prophet Daniel, sayfalar 334–354](../../../../about/ressources/index.html#daniel)
 
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-70-year-weeks.tr.md)

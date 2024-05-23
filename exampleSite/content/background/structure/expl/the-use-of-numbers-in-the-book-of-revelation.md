@@ -3,11 +3,9 @@ title: "The use of numbers in the Book of Revelation"
 weight: 40
 ---
 
-
 The book is full of numbers, but what do they mean? Are they literal, like 1260 days, or are they meant to be red in some other way? How are numbers used in the Bible?
 
 Numbers are often used in the Bible to refer to an earlier story. Jesus chose 12 apostles when Israel was made up of 12 tribes. Israel had to go through the desert for 40 years, after which Israel examined the Promised Land for 40 days, but had no faith.
-
 
 ## The number 7
 
@@ -26,12 +24,10 @@ The formula “every tribe, tongue, people and nation” occurs seven times in v
 
 Other examples of completeness in Revelation are the 7 seals, the 7 trumpets, and the 7 bowls of wrath to show the completeness of God’s judgment.
 
-
 ## The number 3,5
 
 <a name="a9fe"></a>
 [We have an own article here](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
-
 
 ## The number 4
 
@@ -48,8 +44,6 @@ The reference to “[thunder and lightning](https://www.bibleserver.com/NIV/Exod
 - the [conclusion of the seals](https://www.bibleserver.com/NIV/Revelation8%3A5),
 - the [conclusion of the trumpets](https://www.bibleserver.com/NIV/Revelation11%3A19) and the
 - the [conclusion of the bowls](https://www.bibleserver.com/NIV/Revelation16%3A18).
-
-
 
 ## The combination 4x7
 
@@ -68,9 +62,7 @@ Furthermore, the [list of goods of the merchants at Babel](https://www.bibleserv
 - The Lamb and God together are mentioned 7 times.
 - The seven spirits are mentioned 4 times to show the fullness of divine sovereignty sent into all the world (5/6), presumably through/with the witness of the church.
 
-
 There is no such pattern in Satan, the beast, or the false prophet, only in the imitation of Christ.
-
 
 ## The number 12
 
@@ -81,15 +73,12 @@ The twelve apostles are the mirror image of this in the New Testament.
 
 [Twelve is squared and multiplied by 1000 in Revelation](https://www.bibleserver.com/NIV/Revelation7%3A4-8) to demonstrate completeness. This is so significant that the number twelve is used twelve times in the description of the New Jerusalem as a picture of the end-time completeness of the saints, as well as the [3*4 gates](https://www.bibleserver.com/NIV/Revelation21%3A13) and the [12 precious stones](https://www.bibleserver.com/NIV/Revelation21%3A19-20).
 
-
 ## Other numbers
 
 <a name="93ae"></a>
 - The word [“woman” (gene) occurs 10 times](https://biblehub.com/greek/strongs_1135.htm) and [bride 3 times ](https://biblehub.com/greek/3565.htm)and [saints 14 times](https://biblehub.com/greek/40.htm), each time expressing the Church of God.
 - The [counter-community harlot occurs 4 times](https://biblehub.com/greek/4204.htm) , [woman 7 times](https://biblehub.com/greek/1135.htm), those [who dwell on the earth 10 times](https://biblehub.com/greek/3625.htm).
 - Babel and “great” are mentioned 6 times. 6 times the word woman is used in reference to the Babylonian harlot. 6 is used as the number of man (in opposite to God) since he was created on the sixth day.
-
-
 
 ## Further thoughts
 
@@ -99,7 +88,6 @@ Some words are repeated more often towards the end of the book to indicate the i
 Even if some of the numbers of names are coincidental, the frequency shows that here, too, accents/statements were made through numbers.
 
 A.Y. Collins argues that the numbers 4, 7, and 12 are a cosmic order in apocalyptic literature, especially in the book of Revelation. John uses this to show that God is behind everything and is in control, the numbers represent the net in which Satan and his followers are caught so that God’s final victory is certain and visible.
-
 
 ## Arithmethics
 
@@ -121,14 +109,12 @@ The smallest (nontrivial) square triangular number is 36. This is related to sev
 - It is related to 6 — the number of man or to be said non god power — (36 is the square of 6).
 - The 6th rectangular number is 42 describing [the 42 months of the activities of the beast](https://www.bibleserver.com/NIV/Revelation13%3A5).
 
-
 But the next smallest (and maybe the only other one that was known at Johns time) would be 1225 which is also reflected here
 
 - is outruns 36 by a lot and is more sophisticated to obtain
 - it is the square of 35 (which is just one less than 36 but on different scales of comparison)
 - the 35th rectangular number is 1260 describing the [time of activities of the two witnesses](https://www.bibleserver.com/NIV/Revelation11%3A3)
 - it is the 49th triangular number while 49 is the square of 7 is described totality or completeness
-
 
 The reality is that Gods kingdom is far above Satan’s kingdom which is a massive parody. Lets take the equivalent of the 666 (based on the 1225) which is 750.925. Lets assume this to be a 2 m tall person, than Satan’s strength would be compared to a less than 2 mm tall insect!
 
@@ -138,18 +124,9 @@ But we often see the distorted reality, where Satan is always a bit stronger.
 
 ![](/images/Numbers2_en2.jpg)
 
-
 ## Further digging
-
 
 [Beale, Revelation, pages 60–64](../../../../about/ressources/index.html#bealy_rev)
 
 [Bauckham, The climax of prophecy, pages 384–407](../../../../about/ressources/index.html#bauckham_climax)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation.md)

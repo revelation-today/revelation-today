@@ -3,9 +3,7 @@ title: "Kutsal Kitapta ailenin rolü"
 weight: 1
 ---
 
-
 Kutsal Kitap ataerkil yapıları destekler ve teşvik eder mi? Kadınların o kadar da önemli olmadığı düşüncesini destekliyor mu? Çok uzaktasınız ama antik kültürde ailenin nasıl olduğunu açıklamama izin verin.
-
 
 ## Ailenin önemi
 
@@ -20,7 +18,6 @@ Ayrıca Tanrı krallar gibi önemli kişileri [önemsiz ailelerden](https://www.
 
 Kutsal Kitap kurtarıcıya ([kurtarılması gereken en yakın akraba](https://www.bibleserver.com/TR/Levililer25%3A47-49)) vurgu yapar ki bu, toplum bu rolde genellikle başarısız olduğu için [Tanrı’nın üstlendiği bir roldür](https://www.bibleserver.com/TR/Ye%C5%9Faya44%3A24) bu, [Hıristiyan inancında kilit bir konudur.](https://www.bibleserver.com/TR/Efesliler1%3A7)
 
-
 ## Ataerkil
 
 <a name="3a5d"></a>
@@ -30,7 +27,6 @@ Aile şunlardan oluşur
 - oğulları ve kızları
 - oğulların eşleri ve çocukları
 
-
 Bir aile en fazla üç kuşak ve 30 kişiden oluşabilirdi. Bu aile birlikte çalışır ve yaşardı.
 
 Patriğin görevi şuydu
@@ -38,7 +34,6 @@ Patriğin görevi şuydu
 - ailenin finansal desteği
 - hak, hukuk ve ahlakı uygulamak
 - Aile içinde dezavantajlı olanlarla ilgilenmek (örneğin hasta, savaş, kıtlık). Olağanüstü durumlarda (kıtlık, borçlar, …) aile reisi kimin hayatta kalıp kimin kalmayacağına, kimin köleliğe gideceğine ve kimin satın alınacağına karar vermek zorundaydı.
-
 
 Aile reisi öldüğünde ya da aile çok büyüdüğünde, aile bölünür ve her ailedeki en yaşlı erkek aile reisi olur.
 
@@ -54,9 +49,7 @@ Bu dönemde birden fazla eşe sahip olmak yaygındı (örneğin birinin erkek ç
 - [Salomon ve çöküşü](https://www.bibleserver.com/TR/1.Krallar11%3A3)
 - [Bir erkeğin iki karısı olduğunda müdahale](https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B121%3A17)
 
-
 [Kadınların yasalara göre miras almalarına izin verilmiş](https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m36), [bağımsız bir iş kurmaları, hatta aile reisi gibi davranmaları ve kocaları tarafından övülmeleri teşvik edilmiştir](https://www.bibleserver.com/TR/%C3%96zdeyi%C5%9Fler31%3A15-31).
-
 
 ## Miras
 
@@ -73,11 +66,9 @@ Bir kadın için çok zor bir durumdu.
 - eş olur ve kocasının ailesine katılır
 - kocası öldükten sonra oğulları tarafından ailelerinden birine katılması sağlanacaktır.
 
-
 [Kutsal Kitap, tüm bu ağlardan düşen](https://www.bibleserver.com/TR/Rut1%3A1-5) ve [kurtarıcısı Boas tarafından hala korunan bir kadını gösterir](https://www.bibleserver.com/TR/Rut4).
 
 [Bir başka örnek de, Yahuda kendisine bir koca vermediği ve böylece bir aile tarafından korunduğu için doğru olarak yargılanan Tamar’dır.](https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B124%3A19-21)
-
 
 ## Arazi
 
@@ -86,18 +77,12 @@ Toprak, ailenin geçimini sağladığı yerdi ve bu toprak babadan oğula geçer
 
 Eğer aile toprağı satmak zorunda kalırsa, toprak mahvolurdu, bu [yüzden Kutsal Kitap toprağın geri verilmesini sağlar](https://www.bibleserver.com/TR/Levililer25%3A10).
 
-
 ## Tanrı ve aile
 
 <a name="7049"></a>
 Tanrı baba olarak, İsa ise diğerleriyle ilgilenen ilk doğan olarak resmedilir ve hep birlikte yaşayabilmemiz için [çok daireli bir ev](https://www.bibleserver.com/TR/Yuhanna14%3A1-3) verir.
 
-
-
 ## Derinleştirmek için
 
 [Sandra Richter, The Epic of Eden, sayfalar 21–46](../../../../about/ressources/index.html#richter)
 
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-role-of-family-in-the-bible.tr.md)

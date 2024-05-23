@@ -3,9 +3,7 @@ title: "The day of the Lord and the remnant"
 weight: 3
 ---
 
-
 When you hear “Day of the Lord”, you think of the destruction of the world. But that is not the case. If you want to know more and see where this comes from, stay with me.
-
 
 ## Origin of the Day of the Lord
 
@@ -21,7 +19,6 @@ Keeping the covenant meant blessings
 - [God lives with His people](https://www.bibleserver.com/NIV/Leviticus26%3A11-12),
 - [will no longer be slaves](https://www.bibleserver.com/NIV/Leviticus26%3A13).
 
-
 But when they failed, they experienced the course that resulted in exile, which after [many ups and downs](https://www.bibleserver.com/NIV/Judges2%3A6-22) ended in the [exile](https://www.bibleserver.com/NIV/2%20Chronicles36%3A15-23) and [God leaving Israel](https://www.bibleserver.com/NIV/Ezekiel11%3A22-24).
 
 But God promised [to have mercy on them](https://www.bibleserver.com/NIV/Leviticus26%3A40-46).
@@ -33,13 +30,11 @@ Many prophets spoke about this: During the exile these were
 - Daniel
 - Obadiah
 
-
 When Israel finally came out of exile, things looked good:
 
 - The temple was rebuild under Ezra.
 - The wall was build under Nehemiah.
 - [Joshua was set up as the high priest](https://www.bibleserver.com/NIV/Zechariah3) and [Zerubbabel as the ruler](https://www.bibleserver.com/NIV/Zechariah4) who would establish the kingdom of God.
-
 
 They
 
@@ -47,7 +42,6 @@ They
 - did not own the land (under Persian rule),
 - [blessing of the Lord did not come](https://www.bibleserver.com/NIV/Haggai1%3A7-12), the [land was still under the course](https://www.bibleserver.com/NIV/Malachi3%3A10-11),
 - [the outpouring out of the Spirit did not occur](https://www.bibleserver.com/NIV/Ezekiel36%3A25-27).
-
 
 So Israel is still in the exile and it will end with the Day of the Lord.
 
@@ -57,8 +51,6 @@ This are the things prophesied in
 - Zechariah
 - Isaiah 56–66
 - Malachi
-
-
 
 ## Content of the Day of the Lord
 
@@ -70,12 +62,5 @@ The Day of the Lord will bring
 - [judgment on the wicked in Israel](https://www.bibleserver.com/NIV/Zephaniah1%3A4-9),
 - God fulfills His promises like the outpouring of the Holy Spirit.
 
-
 But this will happen only to the [remnant of Israel](../../../../background/israel/expl/the-remnant-of-israel).
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-day-of-the-lord.md)

@@ -3,15 +3,12 @@ title: "The weapons of the church and the fate of the nations"
 weight: 1
 ---
 
-
 What are the weapons that the Church uses in the battle against the unbelieving world and the dragon and the beast? What is the eternal gospel?
-
 
 ## Our text
 
 <a name="9cd8"></a>
 We are moving quickly forward and reached [chapter 14](https://www.bibleserver.com/NIV/Revelation14).
-
 
 ## God’s army
 
@@ -26,8 +23,6 @@ The answer is simple:
 - The mystery of God led them to be like Jesus and to conquer with love and not with fear.
 - They put aside their challenges and focus on Jesus and concentrate on being faithful to Him no matter the cost (this is what it means to be in an army: focus on the one thing that matters).
 
-
-
 ## The destiny of the nations
 
 <a name="8213"></a>
@@ -39,9 +34,7 @@ Having looked at God’s army, we will see the impact. Seven angels will come an
 - The fourth looks like Jesus announcing a harvest, while the fifth performs it — this is the gathering of the nations that have accepted Christ.
 - The sixth announces the harvest that the seventh angel does — this is the judgment on the nation that has rejected Christ.
 
-
 The whole chapter is about the nation and the church’s efforts to bring the nations to Jesus. It is up to the nations to respond, some will and some will not. It is not up to the Church to make the nations believe, but to be a witness. But we will see more about this in the next chapter.
-
 
 ### Reflection
 
@@ -51,21 +44,10 @@ The whole chapter is about the nation and the church’s efforts to bring the na
 - What would be the song of Moses and Jesus that you would sing in your life?
 - Do you know that not all nations are saved? What does that mean to you?
 
-
-
-
 [The biggest context](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Digging deeper
 
 <a name="06f1"></a>
 - [Gods army and the seven angels](../../../../content/harvest/expl/gods-army-and-the-seven-angels)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/appl/the-weapons-of-the-church.md)

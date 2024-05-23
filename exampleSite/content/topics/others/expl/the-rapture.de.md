@@ -3,9 +3,7 @@ title: "Die Entrückung"
 weight: 3
 ---
 
-
 Die Entrückung ist ein faszinierendes Thema, das die Phantasie der einen beflügelt und andere in Angst und Schrecken versetzt (die Entrückung ist geschehen und ich bin zurückgeblieben). Aber was ist die Entrückung? Ist sie biblisch? Und was bedeutet sie für die Gläubigen?
-
 
 ## Einleitung
 
@@ -16,7 +14,6 @@ Manche halten die Entrückung für eine der wichtigsten Aussagen der Bibel und u
 
 Werfen wir einen Blick auf diese Stellen. Das zeigt nicht nur, wo die Argumentation falsch ist, sondern auch, was hilft, ähnliche Fehler zu vermeiden.
 
-
 ## Die offensichtliche Passage
 
 <a name="80db"></a>
@@ -24,18 +21,15 @@ Werfen wir einen Blick auf diese Stellen. Das zeigt nicht nur, wo die Argumentat
 
 Dies ist die bekannteste Stelle, die die Entrückung „beweist”, aber lassen Sie uns einen genaueren Blick darauf werfen. In diesem Abschnitt haben wir fett hervorgehoben, was wie ein Argument für die Entrückung aussieht, und kursiv, was in der Argumentation übersehen wurde.
 
-
 ### Der größere Zusammenhang
 
 <a name="feca"></a>
 In diesem Abschnitt geht es um das Thema Auferstehung. Das ist hier das Thema und „entrückt” wird nur kurz in einer Aussage erwähnt. Die Menschen in der Gemeinde fragten sich, was bei der Wiederkunft Jesu mit den Menschen geschehen würde, die bereits gestorben waren. Würden sie dann ausgeschlossen sein? Dieser Abschnitt sagt, dass wir alle zusammen sein werden, wenn Jesus kommt. Zuerst kommt die Auferstehung der Toten und dann kommen wir zu Jesus.
 
-
 ### Eine Interpretation auf den Text drücken
 
 <a name="0bb2"></a>
 Jeder von uns hat eine Theologie und wenn wir die Bibel lesen, legen wir diese Sicht auf den Text und lesen sie durch unsere Interpretationsbrille. Dieser Text sagt aus, dass Jesus die Gläubigen in der Luft empfängt, aber er sagt nicht, dass er sie dann in den Himmel bringt. Wenn wir das erste Argument (bezüglich der Auferstehung der Toten) mit einbeziehen,[ dann sind wir beim Letzten Gericht](https://www.bibleserver.com/SLT/Offenbarung20%2C13), wo beschrieben wird, dass das [Neue Jerusalem zur Erde HERUNTER kommt](https://www.bibleserver.com/SLT/Offenbarung21%2C2), d.h. Jesus kommt nicht, um die Gläubigen in den Himmel zu holen, sondern sein Ziel ist die Erde.
-
 
 ### Fehlende Schlüsselwörter
 
@@ -59,11 +53,9 @@ Und da finden wir das Wort “[harpazo](https://biblehub.com/greek/harpage_somet
 - [Gläubige werden aus Feuer errettet](https://www.bibleserver.com/SLT/Judas23)
 - [das Kind wird vor dem Drachen gerettet](https://www.bibleserver.com/SLT/Offenbarung12%2C5)
 
-
 Auch wenn die Bedeutung sehr verschieden ist, haben sie eines gemeinsam: Es ist eine unfreiwillige Handlung des Objektes (gerettet, aus Hand gerissen, gestohen, in Verzückung sein, …) und bezieht sich nicht auf eine physische Beförderung in den Himmel.
 
 Der Inhalt der Handlung findet sich dagegen in dem Wort “[apensis](https://biblehub.com/greek/529.htm)”, das im Neuen Testament nur noch an zwei weiteren Stellen vorkommt: [bei der Ankunft des Bräutigams](https://www.bibleserver.com/SLT/Matth%C3%A4us25%2C6) und [als Paulus in Rom willkommen geheißen wird](https://www.bibleserver.com/SLT/Apostelgeschichte28%2C15). In beiden Fallen gehen die Menschen hinaus, die die Person zu begrüßen und folgen ihr auf dem Weg, auf dem sie gekommen ist. Auch [die Bedeutung des Wortes zeigt](https://biblehub.com/greek/529.htm), dass es allgemein verwendet wird, wenn eine wichtige Person in eine Stadt kommt, dass man sie außerhalb trifft und IN DIE Stadt führt. Und Jesus war auf dem Weg zur Erde und nicht zum Himmel.
-
 
 ### Unterstützende Bibelstellen
 
@@ -72,7 +64,6 @@ Dieses Bild oder dieser Vergleich wird nirgendwo sonst in der Bibel erwähnt. An
 
 Wir haben also gesehen, dass dieser Abschnitt eigentlich das GEGENTEIL der Entrückung zeigt: Jesus kommt mit seinem Reich herab.
 
-
 ## Die Zurückgebliebenen
 
 <a name="e8c4"></a>
@@ -80,18 +71,15 @@ Wir haben also gesehen, dass dieser Abschnitt eigentlich das GEGENTEIL der Entr�
 
 Auch diese Stelle wird benutzt, um für die Entrückung zu argumentieren. Der eine wird entrückt, der andere bleibt zurück.
 
-
 ### Annahmen
 
 <a name="7b1d"></a>
 Mit der Interpretationsbrille der Entrückung bedeutet “genommen”, dass es für die Guten gilt und “zurückgelassen” für die Bösen, aber das ist nicht wahr, weil das Wort das nicht sagt, z.B. wird es verwendet, als der [Teufel Jesus verließ](https://www.bibleserver.com/SLT/Matth%C3%A4us4%2C11). Aber hier wird das Kommen des Sohnes mit der Sintflut zur Zeit Noahs verglichen. Aber “genommen” im Zusammenhang mit der Sintflut bedeutet “zum Gericht”. Wenn aber die Sintflut mit dem Kommen des Menschensohnes verglichen wird, dann heißt das aber, dass die Bösen “genommen” werden und die Guten “zurückgelassen” werden. Und es wird auch nicht gesagt, wohin sie “genommen” werden. Es kann sich durchaus um die Geheimpolizei des Römischen Reiches handeln, die die Gläubigen um ihres Glaubens willen “wegnimmt”.
 
-
 ### Der Kontext
 
 <a name="3b92"></a>
 Worum geht es in der Geschichte? Es ist sehr vage, was das eigentliche Ziel ist. Vielleicht spricht Matthäus absichtlich zweideutig. Der Punkt ist, dass wir bereit sein sollen, wie [es der vorhergehende Vers sagt](https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C36), denn die Unterscheidung ist mitten in der Arbeit ist (keine Zeit, sich vorzubereiten).
-
 
 ## Die Perspektive des Ölbaumes
 
@@ -102,7 +90,6 @@ Das Thema, das hier behandelt wird, ist die Zerstörung des Tempels mit all den 
 
 Die Interpretation des [Gleichnisses vom Ölbaum](https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C32) auf die Ereignisse von 1948 und der Gründung Israels zu beziehen, ist eine sehr weitgehende Interpretation, die an keiner anderen Stelle in der Bibel bestätigt wird. Der Ölbaum ist auch nicht zwingenderweise ein Bild für Israel, sondern ist im [Neuen Testament ein Bild für die Gemeinde](../../../../background/israel/expl/the-church-is-part-of-israel).
 
-
 ## Ein Platz für uns
 
 <a name="6812"></a>
@@ -111,7 +98,6 @@ Die Interpretation des [Gleichnisses vom Ölbaum](https://www.bibleserver.com/SL
 Was hat diese Bibelstelle mit der Entrückung zu tun? Nun, es wird angenommen, dass dies der Ort ist, an dem sich die Gläubigen während der Großen Trübsal aufhalten.
 
 Schauen wir uns das Stichwort an: [Mone](https://biblehub.com/greek/3438.htm). Dieses Wort kommt [in diesem Kapitel nur noch einmal vor und beschreibt, wie Gott in uns wohnt](https://www.bibleserver.com/SLT/Johannes14%2C23). Das heißt, so wie wir in Christus wohnen, wohnt Jesus in uns. In diesem Zusammenhang bedeutet das Wort “Wohnung” mehr als “Haus” (Teil der Familie Gottes sein).
-
 
 ## Wann geschieht die Entrückung?
 
@@ -126,18 +112,12 @@ Es ist nicht die Rede davon, dass er für immer dort bleibt, und es gibt auch ke
 
 Vielmehr wird auf das alttestamentliche Bild vom himmlischen Gericht verwiesen, wie es bei [Jesaja](https://www.bibleserver.com/SLT/Jesaja6%2C1-13) oder im [Buch der Könige](https://www.bibleserver.com/SLT/1.K%C3%B6nige22%2C19-23) zu finden ist.
 
-
 ## Schlussfolgerung
 
 <a name="ec29"></a>
 Die Argumentation für die Entrückung stützt sich auf Bibelstellen, die verschiedene Situationen beschreiben, die falsch gelesen, aus dem Zusammenhang gerissen und die Bedeutung von Schlüsselwörtern außer Acht gelassen werden. Es gibt also keinen biblischen Beweis für die Entrückung.
 
-
 ### Zur Vertiefung
 
 [Barabara Rossing, The rapture exposed, Seiten 173-186](../../../../about/ressources/index.html#rossing)
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/the-rapture.de.md)

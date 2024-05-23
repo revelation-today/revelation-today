@@ -2,9 +2,7 @@
 title: "İsrail kimdir"
 ---
 
-
 Sizce İsrail nedir? Bunların hepsi İbrahim’in soyundan mı geliyor? Elbette değil, çok daha karmaşık ya da kolay! Peki Yeni Antlaşma’da İsrail nedir? Tanrı’ya inanmayan Yahudiler ne olacak?
-
 
 ## İsrail’in kökeni ve amacı
 
@@ -19,14 +17,12 @@ Ve Tanrı Sina’da bu insanlarla yeni bir antlaşma yaptı; bu antlaşma yeni u
 
 [Rahav](https://www.bibleserver.com/TR/Ye%C5%9Fu2), [Rut ve Orpa](https://www.bibleserver.com/TR/Rut1), [Uriya](https://www.bibleserver.com/TR/2.Samuel11%3A3) ve diğerleri gibi daha birçok kişi katıldı. [Ancak bu o kadar uzağa ulaşmadı.](https://www.bibleserver.com/TR/Matta23%3A15)
 
-
 ## İsrail antlaşmayı bozar
 
 <a name="3ae6"></a>
 Ancak daha ciddi bir sorun vardı. İsrail komşularından daha kötü oldu ve antlaşmayı bozdu. Bunun sonucunda sürgüne gitmeleri gerekti. Ancak Tanrı peygamberler aracılığıyla sürgünden sonra İsrail’in kalıntılarını geri getireceğini ve tam amacına ulaşacağını söyledi. Böylece 70 yıl sonra sürgün sona erdiğinde, İsrail tüm bunların yerine gelmesini bekledi.
 
 Ancak bu gerçekleşmedi. Sonuç olarak İsrail hala sürgündeydi ve Mısır’dan çıkış gibi, tüm bu vaatlerin gerçekleşeceği [“Rab’bin Günü” olarak adlandırılan başka bir çıkışı bekliyorlardı](../../../../background/israel/expl/the-day-of-the-lord). Bu [vaatler İsrail’in kalıntıları içindi ve ulusların İsrail’in bir parçası olacağını da içeriyordu](../../../../background/israel/expl/the-church-is-part-of-israel).
-
 
 ## Yeni bir başlangıç
 
@@ -43,9 +39,3 @@ Bununla birlikte İsrail’i de yeniden tanımladı. Kendisini “[İnsanoğlu](
 
 [Kilise İsrail’in yerini almamıştır, ancak İsrail kilisede Yahudi olmayanlara ulaşma görevini yerine getirmiştir.](https://www.bibleserver.com/TR/Romal%C4%B1lar9)
 
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/who-is-israel.tr.md)

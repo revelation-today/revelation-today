@@ -3,9 +3,7 @@ title: "Dispansionalizm — Küçük bir tarihçe"
 weight: 1
 ---
 
-
 Bu garip kelimeyi hiç duydunuz mu? Hayır, ama belki üçüncü tapınak, kendinden geçme ya da 3,5 yıllık sıkıntı hakkında bir şeyler duymuşsunuzdur. Eğer öyleyse, [dispensiyonalizm](https://en.wikipedia.org/wiki/Dispensationalism) hakkında bir şeyler duymuşsunuzdur. Ama şimdi adım adım ilerleyelim.
-
 
 ## Tarih boyunca birkaç adım
 
@@ -19,7 +17,6 @@ Arada çok şey oldu ama Fiore’li Joachim’e (yaklaşık 1135–2012) büyük
 - Baba’nın yaratılıştan Mesih’in ilk gelişine kadar olan dönemi
 - Mesih’ten önce 7. yüzyılda kral Yoşiya’dan İsa’nın ilk gelişine kadar olan dönem
 - Aziz Benedict’in 6. yüzyıldaki manastır reformundan gelecekteki belirli bir zamana kadar olan Ruh dönemi
-
 
 Vahiy’de canavarın yedi başının yedi kralı yansıtması, onun tarafından Hıristiyanlığın birbirini izleyen düşmanları olarak yorumlanmıştır: Birinci yüzyılda Hirodes ve Neron’dan, altıncı kral olarak 1187'de Kutsal Topraklar’da Haçlıları yenen Müslüman lider Selahaddin’e kadar. Bir sonraki Deccal olacak ve Ruh’un çağını başlatacak olan sıkıntıyı getirecekti. Bu kriz sırasında Musa ve İlyas’ın ruhuyla gerçeğe tanıklık edecek iki yeni manastır tarikatı ortaya çıkacaktı. Bu iki yeni tarikat Fransisken ve Dominiken tarikatları olarak yorumlanmıştır. Aziz Francis altıncı mührü açan melek olarak tanımlanarak son çağın habercisi haline gelmiştir.
 
@@ -43,7 +40,6 @@ O zamandan beri Dispansionalizm yayılmıştır ve geniş bir çeşitliliğe sah
 
 Since then Dispensionalism has spread and has a wide variety but has some core [believes](https://www.thegospelcoalition.org/essay/dispensational-theology/).
 
-
 ## Daha fazla okuma
 
 <a name="f0c3"></a>
@@ -53,4 +49,3 @@ Since then Dispensionalism has spread and has a wide variety but has some core [
 
 [Köster, Revelation and the end of all things, sayfalar 11–67](../../../../about/ressources/index.html#koester_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/dispensionalism-a-little-history.tr.md)

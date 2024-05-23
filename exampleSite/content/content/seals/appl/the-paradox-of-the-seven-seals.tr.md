@@ -3,15 +3,12 @@ title: "Yedi mühür paradoksu"
 weight: 1
 ---
 
-
 Yedi mühür, kitabın gerçekten kafa karıştırıcı ve hatta rahatsız edici göründüğü zamandır. Bütün bunlar ne hakkında? Yedi mühürlü kitapta ne var ve bu atlılar kim?
-
 
 ## Bizim metnimiz
 
 <a name="de71"></a>
 Şu anda [5](https://www.bibleserver.com/TR/Vahiy5). ve [6](https://www.bibleserver.com/TR/Vahiy6). bölümlerdeyiz.
-
 
 ## Kitap ve kuzu
 
@@ -26,7 +23,6 @@ Kesilmiş bir kuzu görür, çarmıhtaki İsa’yı. Güçle değil, fedakârlı
 
 Sadece bu da değil: Tüm yer ve gök Tanrı’ya olan tapınmalarını artık merkezde olan kuzuya tapınmaya dönüştürür ve Tanrı bunu onaylar! İsa, Tanrı dışında tapınılmaya layık olan tek kişidir — Yahya bunu bir meleğe iki kez denedi ve ağır bir şekilde azarlandı.
 
-
 ## Bizim paradoksumuz
 
 <a name="d960"></a>
@@ -36,8 +32,6 @@ Her iki açıdan da yanılıyoruz:
 
 - Tanrı tüm kötülüklere müdahale ediyor ama bizim yolumuzdan değil. Biz sadece cezalandırma ya da hapsetme seçeneklerini görüyoruz. Kötülüğü yayılmayacak şekilde kontrol altına almanın ve sadece belirli bir kötülük seviyesini göz önünde bulundurmanın yolları (cinayet cezalandırılmalıdır, ama kıskançlık normaldir). Tanrı daha radikaldir: Kötülük küçük şeylerde bile kötüdür çünkü zamanla ve koşullar altında büyür. Bu yüzden hepsiyle mücadele eder.
 - Onun eylemi cezalandırmak değil, kötülüğü durdurmaları için insanları onarmaktır. Kitaptaki tüm içerikler gerçekten sert görünmektedir, ancak odak noktaları cezanın infazı değil, keşfedeceğimiz çok farklı bir niyetleri vardır.
-
-
 
 ## Yahuda’nın sahte aslanı
 
@@ -50,10 +44,7 @@ Altıncı mühür tam bir dramatiktir. İsa ortaya çıkar ve her şeyi sona erd
 
 Yani her şey kilisenin iyi tanıklığına bağlıdır.
 
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -64,10 +55,3 @@ Yani her şey kilisenin iyi tanıklığına bağlıdır.
 - [Dört atlının gizemi](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
 - [Kuzunun gazabı](../../../../content/seals/expl/the-wrath-of-the-lamb)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/appl/the-paradox-of-the-seven-seals.tr.md)

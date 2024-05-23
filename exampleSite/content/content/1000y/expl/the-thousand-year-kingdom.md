@@ -3,7 +3,6 @@ title: "The thousand year kingdom"
 weight: 2
 ---
 
-
 There are many disputes about the 1000 year kingdom, which has spawned many theories. Let’s take a look at the text and its context and get a new, fresh look.
 
 First, let’s start with some questions about the text and what we think the text says:
@@ -27,7 +26,6 @@ First, let’s start with some questions about the text and what we think the te
  
 The 1000 year kingdom is part of a larger context called a chiasm, which organizes things not linearly but symmetrically. So an old theme could be repeated from a different perspective.
 
-
 ## A little word with big consequences
 
 <a name="ed7b"></a>
@@ -44,8 +42,6 @@ To understand this better, let us look at how “and” is used elsewhere in the
 - The “and” as temporal is rather an exception ([the beast and the prophet were captured after the lost battle](https://www.bibleserver.com/NIV/Revelation19%3A20), [all the people were killed](https://biblehub.com/interlinear/revelation/19-21.htm), [then all the bird fed on the corpses](https://biblehub.com/interlinear/revelation/19-21.htm), maybe [Jesus had the battle after the wedding](https://www.bibleserver.com/NIV/Revelation19%3A14)), which are 4 out of 35 usages.
 - “And” together with an ascension or descent of an angel is a new vision with temporal delay (as [with the angel with the little scroll](https://www.bibleserver.com/NIV/Revelation10%3A1)) or a temporal flashback (as with the [angel with the seals of the living God](https://www.bibleserver.com/NIV/Revelation7%3A2) or t[he judgment of Babel](https://www.bibleserver.com/NIV/Revelation18%3A1) which was [described in the previous chapter](https://www.bibleserver.com/NIV/Revelation17%3A16)). Most commentators who us a temporal “and” in this chapter agree to understand the visionary “and” in the other chapters.
 
-
-
 ## Two final battles?
 
 <a name="1767"></a>
@@ -55,13 +51,11 @@ There are strong parallels between
 - [the battle of Gog and Magog after the 1000 year kingdom](https://www.bibleserver.com/NIV/Revelation19%3A7-10) and
 - the two visions of Gog and Magog in Ezekiel in chapters [38](https://www.bibleserver.com/NIV/Ezekiel38) and [39](https://www.bibleserver.com/NIV/Ezekiel39)
 
-
 because of the
 
 - huge gathering for war,
 - a, “end times battle” with huge army,
 - Gods overwhelming and final victory.
-
 
 If this is the case, then Jesus’ battle in chapter 19 would be the same as the battle with Gog and Magog in chapter 20, and the 1,000-year kingdom would precede the events of chapter 19 in time.
 
@@ -72,15 +66,11 @@ Or could it be that these are two different battles? Well, there are some concer
 - While chapter 19 describes [human armies](https://www.bibleserver.com/NIV/Revelation19%3A19), chapter 20 describes [demonic armies](https://www.bibleserver.com/NIV/Revelation20%3A8), but where it is written that the armies in chapter 20 are demonic? In both chapters we have Satan leading human armies, read those verse again carefully and [check the sixth seal](https://www.bibleserver.com/NIV/Revelation16%3A14).
 - Could you conclude from the order of events in Daniel [chapter 7](https://www.bibleserver.com/NIV/Daniel7), that there are several battles as the devil is defeated after the reign of the saints, but Daniel is very repetitive (the reign of the saints is in verses [8](https://www.bibleserver.com/NIV/Daniel7%3A8), [13–14](https://www.bibleserver.com/NIV/Daniel7%3A14), [19–22](https://www.bibleserver.com/NIV/Daniel7%3A19-22), [23–25](https://www.bibleserver.com/NIV/Daniel7%3A23-25) and [27](https://www.bibleserver.com/NIV/Daniel7%3A27), while the judgment of the beast is in verses [9–11](https://www.bibleserver.com/NIV/Daniel7%3A9-11) and [26](https://www.bibleserver.com/NIV/Daniel7%3A26)). Also, the [opening of the book](https://www.bibleserver.com/NIV/Daniel7%3A10) comes before everything else.
 
-
-
 ## Further arguments for one battle
 
 <a name="ba8d"></a>
 - During the actions of the sixth seal the armies are gathered (at [Armageddon which refers to a mountain](../../../../content/bowls/expl/the-key-to-armageddon)), so the battle is yet to happen. In the seventh bowl the defeat is announced (which is followed by a detailed description of the defeat of the harlot Babel and as a counter action the wedding of the bride), where the battle is described in detail in [chapter 19](https://www.bibleserver.com/NIV/Revelation19%3A17-21).
 - At the [beginning of the bowls it is stated that these are the final plagues](https://www.bibleserver.com/NIV/Revelation15%3A1) which would be the [destruction of the devil’s kingdom](https://www.bibleserver.com/NIV/Revelation16%3A18-20) which is done in [chapter 19](https://www.bibleserver.com/NIV/Revelation19%3A17-21), any further battle after that must be a recapitulation of chapter 19.
-
-
 
 ## The binding of Satan
 
@@ -93,9 +83,6 @@ The [beginning of chapter 20](https://www.bibleserver.com/NIV/Revelation20%3A1-3
 - He is called with the same complex phrase: “[that ancient snake called the devil, or Satan](https://www.bibleserver.com/NIV/Revelation12%3A9)” and “[dragon, that ancient snake, who is the devil, or Satan](https://www.bibleserver.com/NIV/Revelation20%3A2)”.
 - In chapters [12](https://www.bibleserver.com/NIV/Revelation12%3A9) and [20](https://www.bibleserver.com/NIV/Revelation20%3A3) it is mentioned that he deceives the world and the actions there put an end to it.
 - In chapter 12 Satan knows he [has only a short time](https://www.bibleserver.com/NIV/Revelation12%3A12), and in chapter 20 he [is released for a short time](https://www.bibleserver.com/NIV/Revelation20%3A3).
-
-
-
 
 ## But aren’t there also differences?
 
@@ -154,8 +141,6 @@ No, e.g. the [parallel with the souls under the altar](https://www.bibleserver.c
 
 This statement is actually a(nother) parody, because in the Roman Empire only people of high rank are beheaded which means that by dying for the faith we are dying as kings!!
 
-
-
 So only people who that die for their faith will rule? Not really.
 
 Because also in the book we have different kinds of witnesses and their suffering:
@@ -179,5 +164,3 @@ When we are born we have our “first life” in the old creation. When [we are 
 
 [Aune, Revelation, pages 1084–1090](../../../../about/ressources/index.html#aune_rev)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/expl/the-thousand-year-kingdom.md)

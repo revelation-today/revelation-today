@@ -2,9 +2,7 @@
 title: "Reading of Revelation: The Great Tribulation and the Rapture"
 ---
 
-
 There are quite a few people who consider the Great Tribulation and the Rapture to be a key teaching of the Bible, while others completely deny them. Which is the truth?
-
 
 ## The idea
 
@@ -17,7 +15,6 @@ That’s why God will rapture the church before all this happens, and the church
 
 In order to have a deeper understanding, we need to take a closer look at this Great Tribulation.
 
-
 ## The Great Tribulation
 
 <a name="4e87"></a>
@@ -28,7 +25,6 @@ But there is some context. In the Old Testament, people suffered when they viola
 But that changed dramatically when Jesus came. Now Christians suffered simply for believing in Jesus. [Revelation tells us why: When Jesus died on the cross, Satan lost his position in heaven and tried to destroy as much as he could. He had nothing to lose.](https://www.bibleserver.com/NIV/Revelation12%3A1-12) At the time Revelation was written, the greatest tribulations (in the Roman Empire) were yet to come.
 
 This is probably what is meant by “the Great Tribulation”. It is the daily reality that is not an experience for Christians in the Western world today, but was and is the reality in many parts of the world.
-
 
 ## The story retold
 
@@ -41,11 +37,6 @@ We will see a lot of what that means in the next few chapters. And there will be
 
 The hope of Christians should not be that we will be relieved of our tribulations, but that our tribulations will make a difference in this world.
 
-
-
-
-
-
 ## Digging deeper
 
 <a name="ac9e"></a>
@@ -53,10 +44,3 @@ The hope of Christians should not be that we will be relieved of our tribulation
 - [The Big Tribulation](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
 - [The Rapture](../../../../topics/others/expl/the-rapture)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture.md)

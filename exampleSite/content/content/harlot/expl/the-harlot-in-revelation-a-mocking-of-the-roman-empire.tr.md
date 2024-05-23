@@ -3,9 +3,7 @@ title: "Vahiy’deki fahişe: Roma İmparatorluğu ile alay ediliyor"
 weight: 5
 ---
 
-
 Kutsal Kitap’taki Vahiy Kitabı’nda yer alan fahişe Babil’in hikâyesi en karmaşık hikâyelerden biridir ve Roma İmparatorluğu’na dair pek çok ince ironi kullanır. Hazır mısınız?
-
 
 ## Madeni para
 
@@ -29,9 +27,7 @@ Peki vahiydeki metin bu konuda ne diyor?
 - Roma’nın tepeleri, Roma’yı (fahişe) yok edecek olan canavarı ve kralları temsil eder — Roma, koruduğu şehrin kurbanıdır
 - Roma düşmanlara karşı kılıçla korunmaz ama azizlerin kanıyla örtülür
 
-
 [Pax Romana’yı](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) gösteren sikke, günlük hayatta bu sikkeyi gören her mümine Roma’ya güvenilemeyeceğini hatırlatan bir horgörü ve tiksinti resmine dönüştürülmüştür — çok etkili bir karşı propaganda.
-
 
 ## Ekphrasis
 
@@ -49,7 +45,6 @@ Bu tabula Vahiy 17 için de bir temel olabilir. Bir tapınaktaki adak levhasın�
 - İçeri girmek isteyen büyük bir kalabalık var.
 - ilk kapıda herkese bir kadeh sunan bir kadın, adı: aldatma, içeceği: hata ve bilgi eksikliği
 
-
 Vahiy 17 ile bir başka paralellik de, hata ve bilgi eksikliğinin gelin ve damadı taklit ettiği [Salomon 38/9–14 Kasidesi](https://en.wikipedia.org/wiki/Odes_of_Solomon) olabilir. Bu düğündeki şarap insanların anlayışlarını kusmalarına neden olur.
 
 Yani ekphrasis’in amacı şunu göstermektir
@@ -62,5 +57,3 @@ Yani ekphrasis’in amacı şunu göstermektir
 
 [Aune, Revelation, sayfalar 919–928](../../../../about/ressources/index.html#aune_rev)
 
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire.tr.md)

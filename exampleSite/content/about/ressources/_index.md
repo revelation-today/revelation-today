@@ -2,9 +2,7 @@
 title: "How to study the Book of Revelation"
 ---
 
-
 When you want to study the book of Revelation, it is hard to know where to start. There is so much material and so many different views. How do you begin? This guide will give you some direction. I will try to make things as transparent as possible so that you can also look at other views.
-
 
 ## Principles of the interpretation
 
@@ -20,8 +18,6 @@ In my argumentation I try to be as transparent as possible and will not use powe
 - Historical background to better understand the daily life of the people
 - References to Jewish or non-biblical Christian literature
 
-
-
 ## The materials
 
 <a name="51f8"></a>
@@ -30,7 +26,6 @@ My desire is that you be able to have this as a self-study. Therefore, I have tr
 More complex Bible references are found in literature that you need to buy, where I have tried to keep this to a minimum so that you can afford to buy them.
 
 In the [reference articles](../../../../gen/index/expl/overview-on-the-book-of-revelation) you will find links to the respective sources. My job was just to read through them, choose the right material, and make an easy-to-read summary.
-
 
 ## Key books
 
@@ -45,7 +40,6 @@ In the [reference articles](../../../../gen/index/expl/overview-on-the-book-of-r
 ### Richard Bauckham: The theology of the book of Revelation
 
 [This is a very condense and useful reference](https://www.goodreads.com/en/book/show/271806). Rather easy to read and full of insights.
-
 
 ## Good to read additionally
 
@@ -147,10 +141,3 @@ And there are also some online presentations:
 
 [A good theological summary on some revelation related topics](https://youtube.com/playlist?list=PLfLXMeX_cyNp_YNAlwTdpQVJrrTmuBsU1)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/background/ressources/how-to-study-the-book-of-revelation.md)

@@ -3,17 +3,13 @@ title: "Der Aufbau der Offenbarung"
 weight: 10
 ---
 
-
 Auf den ersten Blick wirkt das Buch Offenbarung sehr unorganisiert. Eine Katastrophe folgt auf die andere und dann geht es wieder von vorne los. Aber wenn wir genauer hinsehen, erkennen wir eine ausgeklügelte Struktur und ein umfassendes Arrangement.
-
 
 ## Was du zuvor lesen solltest
 
 <a name="1ee5"></a>
 - [Historischer Hintergrund des Buches](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 - [Was ist das für ein Buch](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-
-
 
 ## Die Herausforderung
 
@@ -24,7 +20,6 @@ Die Offenbarung berichtet zunächst, was Gott bereits getan hat, und beschreibt 
 
 Aber nachdem die [Gemeinde danach beurteilt wird](../../../../content/letters/expl/the-letters-to-the-seven-churches), ist das Ergebnis sehr ernüchternd: Nur zwei Gemeinden werden nicht getadelt (an sehr unbedeutenden Stellen in der Erzählung), zwei von ihnen (am Anfang und am Ende der Aufzählung) sind eine ziemliche Katastrophe und in der Mitte wird von einer Gemeinde berichtet, an der Jesus ein Exempel statuieren wird.
 
-
 ## Die Antwort
 
 <a name="c99d"></a>
@@ -34,7 +29,6 @@ An diesem Ort haben die Siegel, die Posaunen und die Schalen ihren Ursprung, und
 
 Jede dieser drei Serien hat eine Unterbrechung (Siegel und Posaunen) oder einen Anhang (Posaunen und Schalen), wo ein Thema vertieft wird. Und im Anhang der Schalen schließt sich der Kreis mit dem Neuen Jerusalem.
 
-
 ## Die Siegel
 
 <a name="3431"></a>
@@ -43,7 +37,6 @@ Die erste Gruppe sind die Siegel. Sie sind eine Auswirkung dessen, was Jesus am 
 Diese Beschreibung wird in Kapitel 7 durch die Sammlung des Heeres Gottes unterbrochen.
 
 Darauf folgt das siebente Siegel, das wiederum der Auftakt für die Posaunen ist.
-
 
 ## Die Posaunen
 
@@ -58,7 +51,6 @@ Aber die Menschen wollen das nicht akzeptieren. Deshalb wird Johannes berufen, [
 
 Die ganze Geschichte endet mit dem Heer Gottes (wir haben es in Kapitel 7 gesehen) und seinem Lohn, dem Gericht oder der Errettung der Völker, was der Lohn des Heeres Gottes ist.
 
-
 ## Die Schalen
 
 <a name="7980"></a>
@@ -71,9 +63,7 @@ Aber im Anhang wird das Thema noch einmal vertieft.
 - Nach der Schilderung der völligen Zerstörung des Reiches Satans, in das das Bild des Tausendjährigen Reiches eingebettet ist, ist es vollbracht.
 - Schließlich, als Gegenstück zur Hure Babel, kommt die Braut Jerusalem in all ihrer Pracht auf die Erde.
 
-
 Das Buch schließt mit einigen Mahnungen, die den Leser ermahnen, das Ganze ernst zu nehmen.
-
 
 ## Zum Weiterlesen
 
@@ -95,13 +85,7 @@ Das Buch schließt mit einigen Mahnungen, die den Leser ermahnen, das Ganze erns
 - Kap 20: [Das 1000-jährige Reich](../../../../content/1000y/expl/the-thousand-year-kingdom)
 - Kap 21: [Das Neue Jerusalem](../../../../content/paradise/expl/the-new-jerusalem)
 
-
-
 ## Zur Vertiefung
 
 [Beale, Revelation, Seiten 108–170](../../../../about/ressources/index.html#bealy_rev)
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-structure-of-the-book-of-revelation.de.md)

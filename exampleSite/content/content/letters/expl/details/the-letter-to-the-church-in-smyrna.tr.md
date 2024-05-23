@@ -3,11 +3,9 @@ title: "İzmir’deki kiliseye yazılan mektup"
 weight: 2
 ---
 
-
 Smyrna’yı biliyor musunuz? Tanımalısınız çünkü orada suçsuz bir kilise bulacaksınız, ama belki sizin için doğru kilise olmayabilir
 
 [İzmir, İsa’dan herhangi bir azar işitmeyen iki kiliseden biridir](https://www.bibleserver.com/TR/Vahiy2%3A8-11). Peki bu sır nedir?
-
 
 ## Tarihsel arka plan
 
@@ -18,7 +16,6 @@ Smyrna, Efes’in yaklaşık 70 km kuzeyinde, mükemmel bir limana sahip bir koy
 
 Kilisenin kökeni hakkında çok az şey bilinmektedir, belki de Pavlus tarafından Efes’te kiliseyi kurarken bulunmuştur.
 
-
 ## İsa’nın görüşü
 
 <a name="f280"></a>
@@ -27,9 +24,7 @@ Kilisenin kökeni hakkında çok az şey bilinmektedir, belki de Pavlus tarafın
 - Muhtemelen Gildes’e katılmadıkları için mali olarak savaşmak zorundalar.
 - kilise hakkında iftira atan bazı Yahudiler var ve muhtemelen hapse girmelerinin nedeni de onlar (şeytan bazılarınızı hapse atacak, Yahudiler Şeytan’ın bir sinagogudur)
 
-
 [10 güne](https://www.bibleserver.com/TR/Vahiy2%3A10) yapılan atıf, kralların sofrasından kirli bir yiyeceğe adanmış putla kendilerini kirletmemek için sadece sebze yedikleri [Daniel’in öyküsüyle](https://www.bibleserver.com/TR/Daniel1%3A8-14) bir bağlantıdır.
-
 
 ## Bakış açısı
 
@@ -44,4 +39,3 @@ Biz ne kadar çok şey yapamazsak, İsa o kadar çok çalışabilir. [Ancak çar
 
 [Gordon Fee, Revelation, sayfalar 29–30](../../../../../about/ressources/index.html#fee_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-smyrna.tr.md)

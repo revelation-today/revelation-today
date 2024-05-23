@@ -4,7 +4,6 @@ title: Genel Bakış
 weight: 3
 ---
 
-
 <!--more-->
 
 {{< cards >}}

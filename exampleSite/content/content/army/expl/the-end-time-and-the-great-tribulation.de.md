@@ -3,17 +3,13 @@ title: "Die große Trübsal"
 weight: 3
 ---
 
-
 Wann beginnt die Endzeit und wann ist die Große Trübsal? Diese Frage ist für viele mit Emotionen verbunden. Welche verlässlichen Informationen gibt es und können wir sie beurteilen? Die Antworten finden sich in der Bibel.
-
 
 ## Gut, vorher zu lesen
 
 <a name="8aab"></a>
 - [Was für ein Buch ist die Offenbarung?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 - [Der Aufbau der Offenbarung](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
-
-
 
 ## Was ist die Endzeit
 
@@ -28,7 +24,6 @@ Hier ist ein kurzer Überblick über den Zeitstrahl der Offenbarung
 Aber das Thema zieht sich durch das ganze Neue Testament.
 
 Andererseits kann die Endzeit auch als die Zeit der Wiederkunft Jesu und die kurze Zeit davor verstanden werden. Aber in diesem Fall ist nur ein kleiner Teil der Offenbarung dafür relevant und hat wenig Bedeutung für unser eigenes Leben heute. Und es gibt einige Stellen im Neuen Testament, die sich damit beschäftigen.
-
 
 ## Die Große Trübsal
 
@@ -50,7 +45,6 @@ Diese Trübsal
 - [ist Warnung an Timotheus](https://www.bibleserver.com/SLT/2.Timotheus3%2C12) und
 - [im Brief des Petrus](https://www.bibleserver.com/SLT/1.Petrus4%2C12-13).
 
-
 Der [Begriff selbst wird im Sendschreiben an Thyatira aufgegriffen, dort jedoch als Gericht über die Leiter, die als Isebel identifiziert werden](https://biblehub.com/interlinear/revelation/2-22.htm).
 
 Das macht die Trübsal zu etwas, das während der gesamten Zeit zwischen dem erstem und dem zweitem Kommen Jesu geschieht. Aber wie ist das möglich?
@@ -58,7 +52,6 @@ Das macht die Trübsal zu etwas, das während der gesamten Zeit zwischen dem ers
 Schauen wir noch einmal bei Daniel nach. “[Michael, der Hüter Israels wird aufstehen](https://www.bibleserver.com/SLT/Daniel12%2C1)”. Dieses Thema wird in der Offenbarung beim [ersten Kommen Jesu](../../../../content/jesus/expl/a-different-christmas-story) in Kapitel 12 wieder aufgenommen. [Michael wird gegen den Drachen (Satan) kämpfen](https://www.bibleserver.com/SLT/Offenbarung12%2C7), ihn besiegen und aus dem Himmel werfen. Aber [aufgrund dessen und weil er weiß, dass er nur wenig Zeit hat](https://www.bibleserver.com/SLT/Offenbarung12%2C12), wird er versuchen, so viel Schaden wie möglich anzurichten, [zuerst an Israel](https://www.bibleserver.com/SLT/Offenbarung12%2C13-17) und als das nicht gelingt, [an der Gemeinde](https://www.bibleserver.com/SLT/Offenbarung13).
 
 Die Große Trübsal sind alle Verfolgungen, die die Gemeinde seit ihrer Gründung erdulden musste.
-
 
 ## Zum Weiterlesen
 
@@ -75,5 +68,3 @@ Die Große Trübsal sind alle Verfolgungen, die die Gemeinde seit ihrer Gründun
 
 [Beale, Revelation, Seiten 433–445](../../../../about/ressources/index.html#beale_rev)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/expl/the-end-time-and-the-great-tribulation.de.md)

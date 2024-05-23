@@ -3,7 +3,6 @@ title: "1000 yıllık krallık"
 weight: 2
 ---
 
-
 Bin yıllık krallıkla ilgili pek çok tartışma vardır ve bu da pek çok teori yaratmıştır. Metne ve bağlamına bir göz atalım ve yeni ve taze bir bakış elde edelim
 
 Öncelikle metne ve metinde ne olduğunu düşündüğümüze dair birkaç soruyla başlayalım:
@@ -14,7 +13,6 @@ Bin yıllık krallıkla ilgili pek çok tartışma vardır ve bu da pek çok teo
 - Varsaydığımız 1000 yıl içinde ne tür bir [yönetim](https://www.bibleserver.com/TR/Vahiy20%3A4) olacak?
 
 1000 yıllık krallık, öğeleri doğrusal değil simetrik olarak sıralayan ve chiasm olarak adlandırılan daha büyük bir bağlamın parçasıdır. Yani eski bir konu farklı bir perspektiften tekrarlanabilir.
-
 
 ## Büyük sonuçları olan küçük bir kelime
 
@@ -32,8 +30,6 @@ Bunu daha iyi anlamak için, kitabın başka yerlerinde “ve” nin nasıl kull
 - “ve” zamansal olarak daha ziyade bir istisnadır ([canavar ve peygamber kaybedilen savaştan sonra ele geçirildi](https://www.bibleserver.com/TR/Vahiy19%3A20), [tüm insanlar öldürüldü](https://www.bibleserver.com/TR/Vahiy19%3A21), [bundan sonra tüm kuşlar cesetlerden beslendi](https://www.bibleserver.com/TR/Vahiy19%3A18), [belki de İsa düğünden sonra savaştı](https://www.bibleserver.com/TR/Vahiy19%3A14)), bunlar 35 kullanımdan 4'üdür
 - Bir meleğin yükselişi ya da inişiyle birlikte “ve” zamansal gecikmeli yeni bir görüm ([küçük tomarı taşıyan melekte olduğu gibi](https://www.bibleserver.com/TR/Vahiy10%3A1)) ya da zamansal bir geri dönüştür ([yaşayan Tanrı’nın mühürlerini taşıyan melek](https://www.bibleserver.com/TR/Vahiy7%3A2) ya da bir [önceki bölümde anlatılan](https://www.bibleserver.com/TR/Vahiy17%3A16) [Babil’in yargısı gibi](https://www.bibleserver.com/TR/Vahiy18%3A1)). Bu bölüme zamansal bir “ve” uygulayan yorumcuların çoğu, diğer bölümlerdeki görümsel “ve “yi anlamakta hemfikirdir
 
-
-
 ## Son iki savaş mı?
 
 <a name="ba47"></a>
@@ -43,13 +39,11 @@ arasında güçlü paralellikler vardır.
 - [Gog ve Magog’un 1000 yıllık krallıktan sonraki savaşı ve](https://www.bibleserver.com/TR/Vahiy19%3A7-10)
 - Hezekiel’in [38.](https://www.bibleserver.com/TR/Hezekiel38) ve [39. bölümlerinde](https://www.bibleserver.com/TR/Hezekiel39) yer alan Gog ve Magog’a ilişkin iki görüm
 
-
 çünkü sende
 
 - Savaş için büyük buluşma
 - büyük ordu i̇le “son zaman savaşi”
 - Tanrı’nın ezici ve nihai zaferi
-
 
 Eğer durum buysa, İsa’nın 19. bölümdeki savaşı 20. bölümdeki Yecüc ve Mecüc’le olan savaşla aynı olacaktır ve 1000 yıllık krallık 19. bölümdeki olaylardan zaman olarak önce olacaktır.
 
@@ -60,15 +54,11 @@ Yoksa bunlar iki farklı savaş olabilir mi? Cevaplanması gereken birkaç endi�
 - 19. bölümde [insan orduları](https://www.bibleserver.com/TR/Vahiy19%3A19) tanımlanırken, 20. bölümde bunlar [şeytani ordulardır](https://www.bibleserver.com/TR/Vahiy20%3A8), ama 20. bölümdeki orduların şeytani olduğu nerede yazıyor? Her iki bölümde de insan ordularını yöneten Şeytan var, bu iki ayeti tekrar dikkatle okuyun ve [altıncı mührü kontrol edin](https://www.bibleserver.com/TR/Vahiy16%3A14)
 - [Daniel 7. bölümdeki](https://www.bibleserver.com/TR/Daniel7) olayların sırasından, kutsalların egemenliğinden sonra şeytan yenildiği için birkaç savaş olduğu sonucuna varabilir misiniz, ancak Daniel çok tekrarlayıcıdır (kutsalların egemenliği [8](https://www.bibleserver.com/TR/Daniel7%3A8), [13–14](https://www.bibleserver.com/TR/Daniel7%3A13-14), [19–22](https://www.bibleserver.com/TR/Daniel7%3A19-22), [23–25](https://www.bibleserver.com/TR/Daniel7%3A23-25) ve [27](https://www.bibleserver.com/TR/Daniel7%3A27). ayetlerde yer alırken, canavar üzerindeki yargı [9–11](https://www.bibleserver.com/TR/Daniel7%3A9-11) ve [26](https://www.bibleserver.com/TR/Daniel7%3A26). ayetlerde yer alır). [Ayrıca kitabın açılışı her şeyden önce gerçekleşir](https://www.bibleserver.com/TR/Daniel7%3A10).
 
-
-
 ## Bir savaş için daha fazla argüman
 
 <a name="a205"></a>
 - Altıncı mührün eylemleri sırasında ordular ([bir dağa atıfta bulunan Armagedon’da](../../../../content/bowls/expl/the-key-to-armageddon)) toplanır, dolayısıyla savaş göze çarpar. Yedinci kasede yenilgi ilan edilir (fahişe Babil’in yenilgisinin ve karşı eylem olarak gelinin düğününün ayrıntılı bir tanımını takip eder) ve savaş [19. bölümde](https://www.bibleserver.com/TR/Vahiy19%3A17-21) ayrıntılı olarak anlatılır.
 - [Kaselerin başında, bunların son belalar olduğu](https://www.bibleserver.com/TR/Vahiy15%3A1) ve [19. bölümde yapılan ](https://www.bibleserver.com/TR/Vahiy19%3A17-21)[şeytanların krallığının yıkımı olacağı belirtilir](https://www.bibleserver.com/TR/Vahiy16%3A18-20), bundan sonraki herhangi bir savaşın 19. bölümün bir özeti olması gerekir
-
-
 
 ## Şeytan’ın bağlanması
 
@@ -82,12 +72,10 @@ Yoksa bunlar iki farklı savaş olabilir mi? Cevaplanması gereken birkaç endi�
 - Bölüm [12](https://www.bibleserver.com/TR/Vahiy12%3A9) ve [20](https://www.bibleserver.com/TR/Vahiy20%3A3)'de dünyayı aldattığından bahsedilir ve buradaki eylemler buna bir son verir.
 - 12. bölümde [Şeytan sadece kısa bir zamanı olduğunu bilir](https://www.bibleserver.com/TR/Vahiy12%3A12), 20. bölümde [ise kısa bir süre için serbest bırakılır](https://www.bibleserver.com/TR/Vahiy20%3A3).
 
-
 Ama farklılıklar da yok mu?
 
 - 12. bölümde Şeytan [yeryüzüne](https://www.bibleserver.com/TR/Vahiy12%3A9), 20. bölümde ise [bir uçuruma atılır](https://www.bibleserver.com/TR/Vahiy20%3A3), ancak her iki durumda da gökten bir melek iner ve onu aşağı atar ve uçurum yeryüzüne sayılabilir ya [da ölüm yeri yeryüzünde olabilir](https://www.bibleserver.com/TR/Vahiy6%3A8)
 - [Bölüm 12'de Şeytan’ın kovulmasından sonra aldatma artarken](https://www.bibleserver.com/TR/Vahiy13), [bölüm 20'de durdurulur](https://www.bibleserver.com/TR/Vahiy20%3A3), ancak imanın gizemi ortaya çıktıkça ve kilise kandırılamadıkça ve tanık olarak durdukça aldatmanın arttığı o kadar açık değildir. Ayrıca 20. bölümdeki mühürleme, [Daniel](https://www.bibleserver.com/TR/Daniel6%3A17) ya da [Matta](https://www.bibleserver.com/TR/Matta27%3A66)’da olduğu gibi tam bir bağlayıcılık değil, yetkiye sahip olma anlamına gelir.
-
 
 Kutsal Kitap’taki birçok metin gibi bu bölümler de aynı olaydan bahseder ve birbirini tamamlar.
 
@@ -96,7 +84,6 @@ Kutsal Kitap’taki birçok metin gibi bu bölümler de aynı olaydan bahseder v
 [Dahası o (kanunsuzluğun oğlu) İsa’nın kiliseye saldıracağı ikinci gelişinden kısa bir süre önce serbest bırakılır](https://www.bibleserver.com/TR/2.Selanikliler2%3A6-12).
 
 “Kanunsuzların oğlu” ya da [kanunsuz](https://www.bibleserver.com/TR/2.Selanikliler2%3A8) Eski Ahit’te [Mezmurlar](https://www.bibleserver.com/TR/Mezmur89%3A22) ve [Yeşaya](https://www.bibleserver.com/TR/Ye%C5%9Faya57%3A3-4)’da kötülüğün kişileştirilmesi olarak kullanılır. Bu bölümde ayrıca [Daniel](https://www.bibleserver.com/TR/Daniel11%3A36)’e bir gönderme olarak kendisini Tanrı’nın üzerinde yücelttiğinden de bahsedilmektedir. Bu kişi Şeytan’dır ve ona engel olan kişi de Vahiy’deki öyküde geçen melektir.
-
 
 ## Peki ya kehanetler?
 
@@ -114,8 +101,6 @@ Bu açıkça Vahiy 21. bölümde anlatılan yeni gök ve yeni yeryüzüne atıft
 - Kutsal Kitap’ın neresinde “yeni cennet ve yeni dünya öncesi” duyurulmuştur? Bunun ruhsal nedeni nedir?
 - Sizce 1000 yıllık krallık yeni cennet ve yeni dünyadan daha mı iyi olacak? Eğer evet ise, hangi açıdan? Hayırsa, insanlar neden 1000 yıl beklemeli ve gerçek anlaşmayı hemen almamalı?
 
-
-
 ## Hikayenin konusu nedir?
 
 <a name="41d8"></a>
@@ -125,8 +110,6 @@ Hikaye kabaca peygamber Hezekiel’i takip eder:
 - [37/15–28](https://www.bibleserver.com/TR/Hezekiel37%3A15-28): [20. bölümde](https://www.bibleserver.com/TR/Vahiy20%3A4-6) kutsalların yönetimine atıfta bulunan Mesih’in krallığı, İsa’nın birinci ve ikinci gelişi arasında kilisenin tanıklık zamanı olacaktır.
 - [38–39](https://www.bibleserver.com/TR/Hezekiel38): İsa’nın ikinci gelişi olacak olan [Yecüc ve Mecüc savaşı](https://www.bibleserver.com/TR/Vahiy20%3A7-10)
 - [40–48](https://www.bibleserver.com/TR/Hezekiel40): Yeni Yeruşalim’le birlikte yeni bir tapınağın son hali [21. bölüm ](https://www.bibleserver.com/TR/Vahiy21)olacaktır.
-
-
 
 ## İkinci ölüm ve ilk diriliş hakkında ne var?
 
@@ -139,7 +122,6 @@ Bu, daha yakından bakmadığımız oldukça şaşırtıcı bir metindir. Biz sa
 - Onlar artık birer ruh.
 - ama yeniden canlanacaklar ve hüküm sürecekler
 
-
 Bu çeviride nazikçe ele alınan bir başka şey daha gariptir. Metnin orijinali “[Ve ben tahtlar gördüm ve onlar onların üzerine oturdular ve hüküm onlara verildi](https://biblehub.com/interlinear/revelation/20-4.htm)” şeklinde başlar. Ancak “onlar” ve “onlar “ın ne olduğuna baktığınızda, daha önce ne olduklarını açıklayacak hiçbir şey olmadığı için kaybolursunuz. Son bahsedilen şeytandır! Ayrıca hepsi aynı zaman kipine sahiptir (hepsi [Aorist](https://en.wikipedia.org/wiki/Aorist)) ve bu eylemler arasında zamansal bir ilişki görünmemektedir.
 
 Açıkçası onlar daha sonra açıklanmıştır: “canavara tapmayanlar ve işareti almayanlar”.
@@ -150,9 +132,7 @@ Bu tür kalıplara [histeron-proteron](https://en.wikipedia.org/wiki/Hysteron_pr
 - [Zenginim, gerekli sağlığım var](https://www.bibleserver.com/TR/Vahiy3%3A17)
 - [midenizi ekşitir, ama ağzınızda tatlıdır](https://www.bibleserver.com/TR/Vahiy10%3A9)
 
-
 Yani hikayeyi tersten okuduğumuzda daha anlamlı hale geliyor: Onlar canavara tapmadıkları, onun işaretini almadıkları ve bu yüzden başları kesildiği için hüküm verdiler”.
-
 
 ## Kafamız kesilecek mi?
 
@@ -172,11 +152,9 @@ Yani sadece inançları uğruna ölen insanlar mı hüküm sürecek? Pek sayılm
 - [ölüm karşısında sadık](https://www.bibleserver.com/TR/Vahiy2%3A10)
 - [İsa’ya sadık](https://www.bibleserver.com/TR/Vahiy14%3A1-5)
 
-
 Ve hepimiz yöneten [krallar](https://www.bibleserver.com/TR/Vahiy5%3A9-10) (ve [rahipler](https://www.bibleserver.com/TR/Vahiy1%3A6)) olarak adlandırılırız.
 
 Dolayısıyla, [(sadece) ekonomik veya sosyal baskı olsa bile](https://www.bibleserver.com/TR/Vahiy13%3A15-17), Tanrı’ya sadık olan herkes hükmedecektir
-
 
 ## İkinci ölüm nedir?
 
@@ -185,14 +163,9 @@ Dolayısıyla, [(sadece) ekonomik veya sosyal baskı olsa bile](https://www.bibl
 
 Doğduğumuzda eski yaratılıştaki “ilk yaşamımıza” sahip oluruz. [Yeniden doğduğumuzda ise ilk diriliş olarak adlandırabileceğimiz “ikinci yaşamımıza” sahip oluruz](https://www.bibleserver.com/TR/Yuhanna3). İkinci ölüm, ikinci yaşama sahip olmamaktan daha fazlasıdır, bu da Tanrı’da ruhsal olarak öldükleri anlamına gelir.
 
-
 ## Daha fazla kazma
 
 [Beale, Revelation, sayfalar 972–1031](../../../../about/ressources/index.html#beale_rev)
 
 [Aune, Revelation, sayfalar 1084–1090](../../../../about/ressources/index.html#aune_rev)
 
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/1000y/expl/the-thousand-year-kingdom.tr.md)

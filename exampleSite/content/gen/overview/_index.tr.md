@@ -3,9 +3,7 @@ title: "Ana başlıklar"
 prev: /gen
 ---
 
-
 Basitten başlayalım. Belki de kitabı hiç okumadınız ve bunu yeni duydunuz. Burası başlamanız için mükemmel bir yer. Size bazı ana kavramları tanıtacağım ve bu belki de kitabı kendi başına okumanız için iyi bir anlayış sağlayabilir.
-
 
 ## Hikaye nedir?
 
@@ -18,7 +16,6 @@ Kitap kısmen bir parodi:
 - Dini inançlarla (güçlü bir kurtarıcının gelip güçlü bir kiliseyle birlikte kötülüğü askeri yollarla fethetmesi) alay eder. Zafer, zayıf gibi görünen ama dünyayı fetheden şeyde gelir.
 - Abartır çünkü okuyucuların tepki vermesini ister.
 
-
 Hikaye, Tanrı’nın dünyayı cezalandırmak için bir sürü felaketi nasıl serbest bıraktığı hakkında değil, Tanrı’nın ve kilisenin insanları kurtarmak için yaptıklarını gösteriyor. Tamam, bu kulağa biraz aşırı geliyor ama umarım konunun derinlerine indiğimizde bu daha da netleşir.
 
 Hikaye aslında dört bölümden oluşuyor:
@@ -28,7 +25,6 @@ Hikaye aslında dört bölümden oluşuyor:
 - Bölüm 4–20: Tanrı bu durumun üstesinden nasıl gelmeyi amaçlar?
 - Bölüm 21–22: Hedeflediğimiz amaç nedir?
 
-
 Üçüncü bölüm biraz daha uzun, o yüzden bu yapıya bir göz atalım
 
 - Bölüm 4: Tanrı’nın tahtı ve tapınma — Tüm eylemlerin temeli
@@ -36,9 +32,7 @@ Hikaye aslında dört bölümden oluşuyor:
 - Bölüm 8–14: Trompetler ve sonrası: Dualarımız neye neden olur?
 - Bölüm 15–20: Gazap kaseleri: Tanrı’nın son eylemleri
 
-
 Soru şudur: Tanrı kurtuluş planını nasıl gerçekleştirecektir ve kilisenin bu plan içindeki rolü nedir?
-
 
 ## Ana oyuncular
 
@@ -50,11 +44,9 @@ Kitap kabaca dört ana oyuncudan bahsediyor
 - Şeytan ve iblisleri (ruhani olanın içindeki kötüler)
 - Şeytanı takip eden insanlar (“doğal” olanın içindeki kötü)
 
-
 Ruhani dünya ve dolayısıyla “doğal” dünya da bölünmüş olduğundan, niyet tüm insanların iyi tarafa (“doğal” dünyada) katılmasıdır.
 
 Vahiy Kitabı sadece bu dört kategoriyi bilir ve zıtlıklarla çalışır (kuzu ve ejderha, Babil ve Kudüs, melekler ve şeytanlar, …) ve gri bölgeler için alan bırakmaz — ya kralınız İsa’dır ya da kralınız Roma’daki imparator, İsa’ya taparsınız ya da şeytana taparsınız.
-
 
 ## Meydan okuma
 
@@ -67,7 +59,6 @@ Bu durum 2000 yıl önce de farklı değildi. Yeryüzüne cenneti getirdiğini i
 
 Cevap çok basit: Sorun kilisenin kendi vizyonuna göre yaşamamasıdır. Ancak Vahiy Kitabı bunu değiştirmek ister: Kiliseyi olması gerektiği gibi yapmak, kötülüğün üstesinden gelmek ve insanları kurtarmak.
 
-
 ## İsa ve kilise
 
 <a name="8ef9"></a>
@@ -79,7 +70,6 @@ Kitabın kahramanı kim diye soracak olursanız, çok açık: İsa. Zaten en ba�
 - onun hikayesi kitabın merkezini oluşturuyor
 - fahişeyle savaşacak ve gelinle evlenecek
 - O gelecek ve dünyayı yargılayacak
-
 
 Ve o, şeytanın taklit etmeye çalıştığı arzudur.
 
@@ -97,9 +87,7 @@ Kilise ancak ödün vermeden İsa’yı izlerse başarılı olabilir.
 - i̇şaretler ve muci̇zeler
 - tüm dünya boyun eğer
 
-
 Ama bu sadece dış görünüştür. Ancak daha yakından bakıldığında bunun İsa olmadığı ve kilisenin olması gerektiği gibi olmadığı görülür. Nedenini anlıyor musunuz?
-
 
 ## Mesih savaşı
 
@@ -117,11 +105,9 @@ Kitapta kıyametle ilgili unsurlar olsa da, bu düşünceye meydan okuyor.
 - fahişe, üzerinde [oturduğu](https://www.bibleserver.com/TR/Vahiy17%3A3) [canavar tarafından yok edilir](https://www.bibleserver.com/TR/Vahiy17%3A16)
 - İsa gelir ve [ağzının kılıcıyla orduları öldürür](https://www.bibleserver.com/TR/Vahiy19%3A21).
 
-
 Bu da “kıyamet olaylarının” muhtemelen düşündüğümüzden çok farklı olduğu anlamına gelir. Ayrıca diğer bölümlerdeki ifadeler de savaş ve felaketlerin kitabın ana konusu olduğuna dair şüphe uyandırmaktadır.
 
 Kitaptaki ana konular ibadet, gerçek tanıklık ve tahammüldür. Burada günlük yaşam tarzından bahsedilmektedir.
-
 
 ## Deccal
 
@@ -137,8 +123,6 @@ Bu bölümler daha çok kilisenin tuzaklarını ve neyin esas olmadığını gö
 - Canavar dünyayı kontrol ediyor gibi görünse de, bunu yapan azizlerdir
 - fethetmek için kullanılan iki farklı sözcük vardır; biri canavar, diğeri kilise için kullanılır ve bu da farklı yolları gösterir
 
-
-
 ## Azizlerin silahları
 
 <a name="5330"></a>
@@ -151,8 +135,6 @@ Silahlar çok farklıdır ve canavardan farklı bir hedefin peşindedir. Düşma
 - Dua: Sık sık bahsedilmez, aslında sadece bir kez, ama merkezi bir yerdedir: Trompetleri harekete geçirir.
 - Fethetmek ve tahammül etmek: Azizlerin fethetmesi zaman alır ve çoğu zaman tahammül etmeleri gerekir. Bir şeyleri itmez ya da zorlamazlar ama dayanırlar.
 
-
-
 ## Sonuç
 
 <a name="8e93"></a>
@@ -160,5 +142,3 @@ Bu dünyayı daha iyi bir yer haline getirmek için neler yapılabileceğine dai
 
 Ama bu kitap felaketlerin listelenmesi ve Tanrı’nın gazabının yeryüzüne inmesi ile ilgili değil mi? İnsanları harekete geçirmek için kullanılan pek çok resim var. Bu kitap kışkırtmak isteyen bir kitaptır.
 
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/gen/overview/appl/the-main-topics.tr.md)

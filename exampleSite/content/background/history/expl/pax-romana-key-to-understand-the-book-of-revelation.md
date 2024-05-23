@@ -3,9 +3,7 @@ title: "Pax Romana — key to understand the book of revelation"
 weight: 2
 ---
 
-
 You may think that the Book of Revelation in the Bible or the Pax Romana in ancient Rome have nothing to do with your life today. You are wrong, and here is why.
-
 
 ## Pax Romana
 
@@ -17,7 +15,6 @@ Pax Romana, which means “Roman Peace”, refers to a period from 27 BC to 192 
 - flourishing art and culture
 - (but also a time of persecution of Christians under Nero, Domitian and Trajan, although the systematic persecutions began in 253 AD)
 
-
 The idea was this
 
 - The gods have chosen Rome
@@ -26,10 +23,7 @@ The idea was this
 - The Pax Romana is the longed for “Golden Age”.
 - Therefore, the emperor is worthy of worship, loyalty, and equal titles as a god.
 
-
 The downside was that this golden age was created by violence, oppression and pacification and was only golden for a few.
-
-
 
 The Pax Romana was propagated by
 - Works of art by people like Virgil or Epidictus
@@ -114,5 +108,3 @@ Here are some questions for reflection:
 
 [Beale, Revelation, pages 28–33](../../../../about/ressources/index.html#beale_rev)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation.md)

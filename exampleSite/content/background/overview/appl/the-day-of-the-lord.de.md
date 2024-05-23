@@ -2,9 +2,7 @@
 title: "Der Tag des Herrn"
 ---
 
-
 Der Tag des Herrn wird oft als ein Tag der Rache und des Unheils verstanden. Das war es auch, was die Juden erwarteten, aber Jesus drehte das Ganze um.
-
 
 ## Die Vorgeschichte
 
@@ -15,7 +13,6 @@ Die Offenbarung hat ihren Ausgangspunkt in der Schöpfungsgeschichte.Gott schuf 
 - zwischen den Menschen (Scham und Kampf, siehe später Kain und Abel),
 - zu Gott (Auszug aus Eden),
 - zur Schöpfung (Nahrung im Schweiße des Angesichts erkämpfen).
-
 
 Aber es wurde immer schlimmer, so dass Gott schließlich beschloss, einen Menschen zu erwählen, an dem er der Welt zeigen wollte, wie man in Beziehung zu ihm leben kann: Abraham, mit dem Gott einen Bund schloss und aus dem Israel hervorging, mit dem er einen eigenen Bund schloss.
 
@@ -31,11 +28,9 @@ Es betrifft
 - Der Heilige Geist wird über ganz Israel ausgegossen.
 - Sein Volk wird für immer bei ihm leben und alles Böse wird vergangen sein.
 
-
 Die Propheten nannten dies den “Tag des Herrn”. Doch als das Exil nach 70 Jahren endete und Israel in sein Land zurückkehrte, hatte sich nichts geändert. Keine der Prophezeiungen hatte sich erfüllt. Was war geschehen?
 
 Die Antwort lautete: Israel war offenbar immer noch im Exil und wartete auf ein Ereignis wie den Auszug aus Ägypten: den zweiten Exodus, der noch ausstand.
-
 
 ## Die große Überraschung
 
@@ -46,8 +41,6 @@ Der Tag des Herrn war die große Erwartung der Juden auf den Messias, mit dessen
 - Dieser Tag wird durch den Menschensohn oder den Knecht Gottes erreicht, nicht durch einen militärischen Führer.
 - Die Rettung der Heiden ist das Entscheidende, nicht die Wiederherstellung der Nation Israel.
 - Die Feinde Israels / Gottes waren nicht Menschen, sondern Sünde/Dämonen.
-
-
 
 ## Jesus
 
@@ -60,13 +53,10 @@ Er nannte sich selbst den “Menschensohn” nach der Prophezeiung Daniels und d
 - Er fastete 40 Tage (nach den entscheidenden Ereignissen auf dem Weg vom Auszug aus Ägypten ins Gelobte Land: dem Empfang der Gebote und der Aussendung der Kundschafter).
 - Am Ende seines Fastens überwand er alle Versuchungen, an denen Israel beim Auszug in der Wüste gescheitert war.
 
-
 Damit begann seine Mission, nicht nur Israel zu retten, sondern auch die Heiden zu einem Teil Israels zu machen und damit auch sie zu retten. Damit wurde aber auch der Tag des Herrn in zwei “Tage” geteilt:
 
 - Beim ersten Kommen Jesu ging es um die Errettung Israels und der Heiden, denn zu diesem Zeitpunkt würden alle ins Gericht kommen.
 - Beim zweiten Kommen Jesu wird er das Gericht ausüben.
-
-
 
 ## Die Gemeinde
 
@@ -77,17 +67,8 @@ Es gibt noch einen wesentlichen Unterschied, den wir im nächsten Kapitel betrac
 
 Wenn Jesus wiederkommt, werden alle Völker gerettet sein und alle werden eine Beziehung zu Gott haben, wie es der ursprüngliche Plan war — und dann wird auch die Verfolgung aufhören.
 
-
-
-
-
-
 ## Zum Vertiefen
 
 <a name="6992"></a>
 [Israel](../../../../background/israel/expl/who-is-israel)
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/overview/appl/the-day-of-the-lord.de.md)

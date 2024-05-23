@@ -3,9 +3,7 @@ title: "Die Rolle der Familie"
 weight: 1
 ---
 
-
 Befürwortet die Bibel patriarchale Strukturen? Sagt sie, dass Frauen nicht gleichwertig sind? Ganz und gar nicht. Lass mich erklären, wie die Familie damals funktionierte.
-
 
 ## Die Wichtigkeit der Familie
 
@@ -20,7 +18,6 @@ Gott hat auch wichtige Personen wie Könige aus unbedeutenden Familien erwählt 
 
 Es beschreibt den Erlöser (den [nächsten Verwandten, um im Falle einer Not zu helfen](https://www.bibleserver.com/SLT/3.Mose25%2C47-49)), den [Gott übernahm](https://www.bibleserver.com/SLT/Jesaja44%2C24-28), weil die Gesellschaft in dieser Hinsicht oft versagt hat. Und es ist ein [Schlüsselbegriff des christlichen Glaubens](https://www.bibleserver.com/SLT/Epheser1%2C7).
 
-
 ## Der Patriarch
 
 <a name="75b9"></a>
@@ -31,7 +28,6 @@ Die Familie besteht aus
 - den Frauen und Kindern der Söhne,
 - …
 
-
 Eine Familie konnte bis zu drei Generationen und bis zu 30 Personen umfassen. Die Familie lebte und arbeitete gemeinsam.
 
 Die Aufgaben des Familienoberhauptes waren
@@ -39,7 +35,6 @@ Die Aufgaben des Familienoberhauptes waren
 - die Familie finanziell zu unterstützen
 - Recht, Gesetz und Moral durchzusetzen
 - sich um die Benachteiligten in der Familie zu kümmern (z.B. Kranke, in Zeiten von Krieg oder Hungersnot). In Extremsituationen (Hungersnot, Schulden, …) musste der Patriarch auch entscheiden, wer überlebt und wer nicht, wer in die Sklaverei verkauft und wer freigekauft wird.
-
 
 Wenn der Patriarch starb oder die Familie zu groß wurde, teilte sie sich und der älteste Mann jeder neuen Familie wurde der neue Patriarch.
 
@@ -55,9 +50,7 @@ Zu dieser Zeit war es üblich, mehrere Frauen zu haben (falls eine keine Söhne 
 - [Salomo und seinem Fall](https://www.bibleserver.com/SLT/1.K%C3%B6nige11%2C3),
 - bis hin zu [speziellen Interventionen für Männer mit mehreren Frauen](https://www.bibleserver.com/SLT/5.Mose21%2C17).
 
-
 [Frauen durften nach der Bibel erben](https://www.bibleserver.com/SLT/4.Mose36) und wurden ermutigt, [ein unabhängiges Geschäft zu führen, oder die Aufgaben eines Patriarchen zu übernehmen und dafür von ihren Ehemännern gelobt zu werden](https://www.bibleserver.com/SLT/Spr%C3%BCche31%2C15-31).
-
 
 ## Das Erbe
 
@@ -74,11 +67,9 @@ Eine schwierige Situation war die Situation der Frau, denn sie gehörte zur
 - Wird Ehefrau und wird Teil der Familie ihres Mannes,
 - Wird durch ihre Söhne versorgt, nachdem ihr Mann stirbt und sie zu deren Familie gehört.
 
-
 Die Bibel zeigt eine Frau, die [durch dieses Netz gefallen ist](https://www.bibleserver.com/SLT/Rut1%2C1-5) und [durch ihren Erlöser Boas gerettet wurde](https://www.bibleserver.com/SLT/Rut4).
 
 Ein anderer Fall ist [Tamar, die für gerecht erklärt wurde, weil Juda sie nicht versorgt hat und ihr einen Ehemann gegeben hat, damit sie durch eine Familie beschützt wird](https://www.bibleserver.com/SLT/1.Mose38%2C26).
-
 
 ## Das Land
 
@@ -87,15 +78,12 @@ Das Land war die Lebensgrundlage der Familie. Das Land wurde vom Vater an den So
 
 Wenn eine Familie ihr Land verkaufen müßte, wären sie ruiniert, also sicherte die Bibel zu, dass [das Land zurückgegeben wird](https://www.bibleserver.com/SLT/3.Mose25%2C10).
 
-
 ## Gott und die Familie
 
 <a name="26ef"></a>
 Gott wird als Vater dargestellt, Jesus als Erstgeborener, der sich um seine Geschwister kümmert, und er gibt ein [Haus mit vielen Zimmern](https://www.bibleserver.com/SLT/Johannes14%2C1-3), damit alle zusammen wohnen können.
 
-
 ## Zur Vertiefung
 
 [Sandra Richter, The Epic of Eden, Seiten 21–46](../../../../about/ressources/index.html#richter)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/israel/expl/the-role-of-family-in-the-bible.de.md)

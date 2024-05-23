@@ -3,9 +3,7 @@ title: "İnsanoğlu"
 weight: 30
 ---
 
-
 İsa kendisine sadece “insanoğlu” mu diyor? Neden? Ve bu ne anlama geliyor?
-
 
 ## Köken
 
@@ -17,7 +15,6 @@ weight: 30
 Onun kim olduğuna dair doğrudan bir açıklama yoktur, bu yüzden biraz daha derine inmemiz gerekir. Ve uzun süre aramamız gerekmiyor, sadece birkaç ayet sonra açıklama veriliyor: “[Ama En Yüce Olan’ın kutsal halkı krallığı alacak ve sonsuza dek ona sahip olacak — evet, sonsuza dek.](https://www.bibleserver.com/TR/Daniel7%3A18)”
 
 En Yüce Olan’ın kutsal halkı İsrail halkıdır. Tanrı değil insan oldukları için insanoğlunu temsil ederler (eski zamanlarda bir grup bir kişi tarafından temsil edilebilirdi, [İsrail için Siyon](https://www.bibleserver.com/TR/Ye%C5%9Faya1%3A8) kızı ya da [İsrail’in hikayesi bir kadın gibi ](https://www.bibleserver.com/TR/Hezekiel16)ya da [İsrail’in kuzey ve güney krallığı iki kızın hikayesi gibi](https://www.bibleserver.com/TR/Hezekiel23)).
-
 
 ## Açıklama
 
@@ -40,15 +37,12 @@ Yorumlanan unsurlara bakalım:
 - Günlerin Kadimi Kutsal Halk lehine hüküm verir = kralın gücü elinden alınır ve sonsuza dek yok edilir
 - zaman geldiğinde krallığa sahip olacaklar = tüm krallıklar Kutsal Halka teslim edilecek, sonsuza dek sürecek ve tüm yöneticiler ona tapacak ve itaat edecek
 
-
 Bazı gözlemler:
 
 - Böbürlenerek konuşmak, Tanrı’ya karşı konuşmak, halkına ve yasasına baskı yapmakla yansıtılır — yani halkına yapılan saldırı aslında ona yapılan bir saldırıdır, bu yüzden Tanrı’nın yanıtıdır
 - Kutsal Halkın yenilgisi sadece geçicidir ve sadece 3,5 kezdir, yenilgi zaferden önce gerçekleşir
 - Kutsal Halkın lehine olan yargı, kralların bir kez ve sonsuza dek yok edildiği anlamına gelir
 - Krallığa sahip olmak aynı zamanda tüm yöneticilerin ona tapınacağı gerçeğiyle de ilgilidir (insanoğlu = İsrail)
-
-
 
 ## Sorun
 
@@ -63,7 +57,6 @@ Daniel’in bağlamından bunun ne zaman olacağı belli değildir ama 2. ve 7. 
 
 Eski Ahit’te sadece Hezekiel peygambere “İnsanoğlu” denir ama bu yine “[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)” (“Adem’in oğlu”) iken Daniel’de “[kebar enas](https://biblehub.com/interlinear/daniel/7-13.htm)” (“insanoğlunun oğlu”) terimi kullanılır.
 
-
 ## The solution
 
 <a name="e03e"></a>
@@ -77,7 +70,6 @@ Umarım oturuyorsunuzdur, çünkü bu biraz rahatsız edici olacak.
 - Boynuz ya da başka bir kral İsa’ya karşı çıkar ve yasasını değiştirmeye çalışır ve bunu 3,5 kez yapar. İsa’nın hizmeti yaklaşık 3 yıl sürdü ve üçüncü gün ölümden dirildi.
 - İsa’nın aklanmasının sonucu düşmanlarının yok edilmesidir.
 
-
 Bir yandan bunun Şeytan ya da Deccal olduğunu söyleyebilirsiniz, ancak İnciller başka bir resim göstermektedir. [Onu reddeden İsrail](https://www.bibleserver.com/TR/Yuhanna1%3A11-14), [ona saldıran ve onu öldürmek için komplo kuran dini liderler](https://www.bibleserver.com/TR/Yuhanna11%3A45-54), onu suçlu yargılamak için bir mahkeme kurdular ve [herkes gibi onu öldürmeye karar verdiler](https://www.bibleserver.com/TR/Yuhanna19%3A1-15). [Yasayı çarpıtan da İsrail’di (“Bunun söylendiğini duydunuz”)](https://www.bibleserver.com/TR/Matta5%3A17-48).
 
 Acı gerçek şudur ki, kendi halkı olan İsrail ona karşı çıktıkça onun en büyük düşmanı haline gelmiştir. Kilise hiçbir şekilde daha iyi olmadığı için onları yargılarken çok dikkatli olmalıyız.
@@ -85,7 +77,6 @@ Acı gerçek şudur ki, kendi halkı olan İsrail ona karşı çıktıkça onun 
 Ama İsa ne yaptı: [Affetti, çünkü onlar ne yaptıklarını bilmiyorlardı](https://www.bibleserver.com/TR/Luka23%3A34). [Ve çağrısı İsrail’i eski haline getirmek ve mümkün olduğunca çok kişiyi kendisine çağırmaktı](https://www.bibleserver.com/TR/Matta15%3A24) (öğrencilerin çağrısı ulusun peşinden gitmekti, [elbette istisnalar vardı](https://www.bibleserver.com/TR/Matta8%3A5-13)). Yargıç olarak değil, kurtarıcı olarak geldi ama tekrar gelecek. Ve İsrail’i reddedip yerine kiliseyi getirmedi, aksine İsrail’i yeniden başlattı ve kiliseyi de buna dahil etti.
 
 Ama [İsrail’in geri kalanını](../../../../background/israel/expl/the-remnant-of-israel) kurtarıyor.
-
 
 ## Miras
 
@@ -104,11 +95,7 @@ Tanıklar İsa’nın hayatını yaşadıkları için insanoğlu olarak tanımla
 - [Ama bu onların yenilgisi değildir, çünkü İsa gibi dirileceklerdir.](https://www.bibleserver.com/TR/Vahiy11%3A8-11)
 - [ve İsa gibi yüceltilsin](https://www.bibleserver.com/TR/Vahiy11%3A12)
 
-
-
 ## Daha fazla kazma
 
 [Beale, A New Testament Biblical Theology, sayfalar 393–428](../../../../about/ressources/index.html#beale_theo)
 
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-son-of-man-and-the-remnant.tr.md)

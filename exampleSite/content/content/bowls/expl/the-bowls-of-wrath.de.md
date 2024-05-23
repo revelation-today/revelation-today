@@ -3,16 +3,12 @@ title: "Die Zornesschalen"
 weight: 2
 ---
 
-
 Die Zornesschalen in der Offenbarung erwecken den Eindruck, dass Gott über die nichtbekehrten Menschen verärgert ist und einen Zornesausbruch hat. Das ist aber weit gefehlt.
-
 
 ## Gut, vorher zu lesen
 
 <a name="e7c9"></a>
 - [Die Posaunen](../../../../content/trumpets/expl/the-trumpets-in-revelation)
-
-
 
 ## Der Hintergrund
 
@@ -22,7 +18,6 @@ Die Schalen haben wie die anderen Serien ihren Ursprung auch im [Thronsaal](http
 “Der Zorn Gottes wird in ihnen vollendet werden.” Was ist der Zorn Gottes?[ Es ist das leidenschaftliche Bestreben, das Problem der Welt zu lösen und nicht aufzuhören, bis es getan ist](https://moodyaudio.com/products/good-and-beautiful-god-part-6).
 
 Vielleicht ist dir schon aufgefallen, dass die sieben Schalen und die [sieben Posaunen](../../../../content/trumpets/expl/the-trumpets-in-revelation) viel gemeinsam haben und beide mit dem [Auszug aus Ägypten](../../../../bible/exodus/expl/the-plagues-in-egypt) zu tun haben. Der Zorn Gottes ist also mit den Gebeten der Heiligen verbunden. Was für ein Gedanke! [Gottes Plan wird durch unsere Gebete beeinflusst](https://www.bibleserver.com/SLT/1.Mose18%2C20-33).
-
 
 ## Die Schalen
 
@@ -40,8 +35,6 @@ Vielleicht ist dir schon aufgefallen, dass die sieben Schalen und die [sieben Po
 - ihre Herzen weich und demütig zu machen (vierte und fünfte Schale),
 - damit sie sich nicht täuschen lassen (sechste Schale),
 
-
-
 ## Die sechste Schale
 
 <a name="9ced"></a>
@@ -53,17 +46,12 @@ Auch [die drei Frösche aus dem Maul des Drachens](https://www.bibleserver.com/S
 
 [Der Sammlung der Armeen in Harmagedon](https://www.bibleserver.com/SLT/Offenbarung16%2C14-16) wird in die [Sammlung der Vögel in Kapitel 19](https://www.bibleserver.com/SLT/Offenbarung19%2C17-18) gegenübergestellt, was die Niederlage Satans noch ironischer macht, da es den Anschein, als würde die Armee Satans von ein paar Vögeln vernichtet werden.
 
-
 ## Zum Weiterlesen
 
 <a name="0ffa"></a>
 - [Harmagedon](../../../../content/bowls/expl/the-key-to-armageddon)
 
-
 ## Zur Vertiefung
 
 [Beale, Revelation, Seiten 681–730](../../../../about/ressources/index.html#beale_rev)
 
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-bowls-of-wrath.de.md)

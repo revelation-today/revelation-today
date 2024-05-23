@@ -3,9 +3,7 @@ title: "Wörtlich oder symbolisch?"
 weight: 20
 ---
 
-
 Die Offenbarung enthält viele Bilder, die aus einer anderen Welt zu stammen scheinen. Sollen wir sie alle wörtlich nehmen oder sind sie symbolisch gemeint? In gewissem Sinne ist beides richtig. Aber ich greife vor.
-
 
 ## Keine einfache Antwort
 
@@ -15,7 +13,6 @@ Grundsätzlich ist es nicht einfach zu sagen, ob etwas in der Bibel symbolisch, 
 Ein Beispiel ist die erste Plage in Ägypten, bei der sich der Nil in Blut verwandelt. Sie beschreibt die [symbolische Tötung des Nilgottes, aber andererseits ist das Wasser wirklich rot wie Blut geworden](https://www.bibleserver.com/SLT/2.Mose7%2C14-24).
 
 In diesem Kapitel soll untersucht werden, wie dies im Buch der Offenbarung geschieht.
-
 
 ## Das Anliegen des Buches
 
@@ -28,15 +25,12 @@ Das müssen wir beim Lesen berücksichtigen:
 - den geistlichen Kontext (z.B. in Form einer Apokalypse): Das Buch will den Leser provozieren, damit er eine Entscheidung trifft. Deshalb werden starke emotionale Bilder und eine symbolische Sprache verwendet, um die geistige Realität zu beschreiben, die nicht direkt sichtbar ist.
 - die langfristige Perspektive (als Prophetie): Das Buch soll die Menschen motivieren und ermutigen, gegen das Böse aufzustehen, das sich in 2000 Jahren sehr verändert hat. Die Ereignisse können nicht wörtlich alle Ereignisse dieser Zeit beschreiben, sondern eher prototypische Ereignisse, die durch Symbole beschrieben werden.
 
-
 Aber wir sollten uns den Text genauer ansehen.
-
 
 ## Der Bezugsrahmen von Daniel
 
 <a name="86fa"></a>
 Es gibt einige Schlüsselpassagen in der Offenbarung, die einen starken Bezug zu [Daniel 2](https://www.bibleserver.com/SLT/Daniel2%2C28-45) haben. Diese helfen uns auch, ein besseres Verständnis der Offenbrung zu bekommen. Daniel 2 hat auch sehr viele Parallelen zu [Daniel 7](https://www.bibleserver.com/SLT/Daniel7), worauf wiederum an sehr vielen Stellen in der Offenbarung Bezug genommen wird.
-
 
 ### Das Geheimnis
 
@@ -47,9 +41,7 @@ Diese Passage in Daniel ist die einzige in den prophetischen Büchern des Alten 
 - [Geheimnis Gottes](https://www.bibleserver.com/SLT/Offenbarung10%2C7) und
 - [Geheimnis der Hure](https://www.bibleserver.com/SLT/Offenbarung17%2C5)
 
-
 spricht.
-
 
 ### Was geschehen muss
 
@@ -66,14 +58,12 @@ Was lässt sich nun aus dieser Parallele schließen: Das Buch der Offenbarung ve
 
 Aber es gibt noch einen anderen Aspekt, den wir beachten müssen.
 
-
 ## deiknumi and semaino
 
 <a name="dd9c"></a>
 Nein, der Titel ist kein Schreibfehler, sondern gibt die beiden Worte wieder, die den Charakter des Buches beschreiben: “[Die Offenbarung Jesu Christi, die Gott ihm gab, zu seinen Knechten zeigen (deiknumi) was bald geschehen muss. Er hat es bekanntgemacht (semaino), indem er seinen Engel zu Johannes gesandt hat](https://www.bibleserver.com/SLT/Offenbarung1%2C1)”.
 
 Diese beiden Verben sollten uns ein gutes Verständnis davon geben, wie Gott den Inhalt des Buches zeigen und bekannt machen möchte.
-
 
 ## [semaino](https://biblehub.com/greek/4591.htm)
 
@@ -84,15 +74,12 @@ Dieses Wort wird auch in Daniel 2 verwendet, wo Daniel die Deutung der symbolisc
 - ein zweites Mal wird eine [möglicherweise symbolische Handlung ](https://www.bibleserver.com/SLT/Apostelgeschichte11%2C28)beschrieben (zeigen), die an anderer Stelle [klar symbolisch verwendet wird](https://www.bibleserver.com/SLT/Apostelgeschichte21%2C10-11),
 - während die anderen drei Stellen den Tod Jesu in symbolischen Art beschreiben (Johannes Kapitel [12](https://www.bibleserver.com/SLT/Johannes12%2C33), [18](https://www.bibleserver.com/SLT/Johannes18%2C32) und [21](https://www.bibleserver.com/SLT/Johannes21%2C19)).
 
-
 Das Substantiv wird häufig verwendet, um die Wunder Jesu als Zeichen für den Charakter seiner Sendung zu beschreiben, z.B.
 
 - Er zeigte seine Macht, [geistliches Leben](https://www.bibleserver.com/SLT/Johannes4%2C46-54) als auch [geistliche Auferstehung](https://www.bibleserver.com/SLT/Johannes5%2C19-29) zu geben.
 - [Die Speisung der 5000](https://www.bibleserver.com/SLT/Matth%C3%A4us16%2C5-12) zeigt Jesu Macht, geistliche Nahrung zu geben.
 
-
 Das Wort semaino kann natürlich auch bekanntmachen/ansagen bedeuten, aber dann wäre das Wort [gnorizo](https://biblehub.com/greek/1107.htm) näherliegender, welches er aber nicht verwendet hat.
-
 
 ## [deiknumi](https://biblehub.com/greek/1166.htm)
 
@@ -106,8 +93,6 @@ Dieses Wort wird hier in der symbolischen Vision eines Engels verwendet (“[um 
 - [Die Zusammenfassung, die auch eine Referenz auf Daniel ist](https://www.bibleserver.com/SLT/Offenbarung22%2C6).
 - [Die Zusammenfassung all dessen, was er sah](https://www.bibleserver.com/SLT/Offenbarung22%2C8) und hörte, was oft etwas [anderes war (Symbol gehört, Realität gesehen)](https://www.bibleserver.com/SLT/Offenbarung5%2C5-6).
 
-
-
 ## Schlußfolgerung
 
 <a name="5693"></a>
@@ -115,12 +100,7 @@ Nach diesen Überlegungen ist es sinnvoll, zunächst vom symbolischen Charakter 
 
 Darüber hinaus gibt es in der Offenbarung viele Dinge, die eindeutig symbolisch sind: das Lamm, der Drache, das Tier mit den Köpfen und Hörnern, das Buch mit den sieben Siegeln, das Schwert aus dem Mund Jesu, …
 
-
 ## Zur Vertiefung
 
 [Beale, Revelation, Seiten 50–69](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literally-or-symbolic.de.md)

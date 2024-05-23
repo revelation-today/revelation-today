@@ -3,16 +3,12 @@ title: "Taht odasında ibadet"
 weight: 2
 ---
 
-
 Taht odasındaki tapınma, kiliselerin mektuplarına verilen yanıttır. Neden? Ve bu nasıl oluyor da daha sonra gelecek olan tüm belalara bir giriş oluyor?
-
 
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="8b6b"></a>
 - [Kiliseler için mektup](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-
-
 
 ## Arka plan ve bağlam
 
@@ -27,7 +23,6 @@ Bu bölümden önceki son ayette zaten Tanrı’nın taht odasından söz edilmi
 - [İzmir’de vaat edilen](https://www.bibleserver.com/TR/Vahiy2%3A10) ve [Philadelphia’da gerçek](https://www.bibleserver.com/TR/Vahiy3%3A11) olan taçlara sahip azizlerin yanı [sıra 24 ihtiyarın resminde de](https://www.bibleserver.com/TR/Vahiy4%3A4)
 - [Philadelphia’daki gerçeklikte](https://www.bibleserver.com/TR/Vahiy3%3A8) ve [Laodikya’daki dilekte](https://www.bibleserver.com/TR/Vahiy3%3A20) açık kapı imgesinin yanı sıra [taht odasına giriş](https://www.bibleserver.com/TR/Vahiy4%3A1)
 - Ruhun kendinden geçmesiyle birlikte trompet gibi bir ses [burada vizyonu başlatır](https://www.bibleserver.com/TR/Vahiy4%3A1-2) ama aynı zamanda [kiliselerle ilgili vizyonu](https://www.bibleserver.com/TR/Vahiy1%3A10-12) da başlatır
-
 
 Bu ilişkiler kiliseye ruhsal gerçeklikleriyle ilgili bir vizyon vermeli ve aynı zamanda Mesih’in örneğini izlemelidir. Bu vizyonda gösterilen gerçeklik, kilisenin üzerinde hareket etmesi gereken gerçekliğin bir parçasıdır.
 
@@ -48,15 +43,12 @@ Bu ilişkiler kiliseye ruhsal gerçeklikleriyle ilgili bir vizyon vermeli ve ayn
 - [Daniel’de](https://www.bibleserver.com/TR/Daniel7%3A18) sadece [iki kez](https://www.bibleserver.com/TR/Daniel7%3A22) değil, [üç kez](https://www.bibleserver.com/TR/Daniel7%3A27) ve [Vahiy’de](https://www.bibleserver.com/TR/Vahiy5%3A10) bir krallık üzerinde hüküm sürme yetkisi verilen azizler
 - [Daniel](https://www.bibleserver.com/TR/Daniel7%3A27) ve [Vahiy’de](https://www.bibleserver.com/TR/Vahiy5%3A13-14) Tanrı’nın ebedi hükümdarlığından son olarak söz edilir
 
-
 Birçok paralellik olsa da, her iki pasajda olayların sırasının farklı olduğunu kolayca görebilirsiniz.
 
 Bu sahne melek konseyini hatırlatmaktadır.
 
 - [Isaiah’ın çağrısı ya da](https://www.bibleserver.com/TR/Ye%C5%9Faya6%3A1-9)
 - [Ahabs’ın ölümüyle ilgili karar](https://www.bibleserver.com/TR/1.Krallar22%3A19-23)
-
-
 
 ## Neden ibadet cevaptır?
 
@@ -68,15 +60,12 @@ Kiliselerdeki sorunlara baktığımızda bunları aşağıdaki gibi kategorize e
 - Yanlış öncelik anlamsızlığa yol açar (Efes)
 - Koşullar çok ağır olduğunda pes etme riski (Smyrna, Philadelphia)
 
-
 Hepsi için cevap ibadettir.
 
 - Orijinali daha iyi ve daha iyi bilirsek yanlış öğretiden daha az etkileniriz
 - Tanrı’yı tanır ve O’na olduğu gibi tapınırsak, kendimizi daha iyi anlar ve O’na nerede ihtiyaç duyduğumuzu görürüz
 - Eğer Tanrı’ya göre yerimizi bulursak, önceliklerimiz de yerine oturur; çünkü “Tanrı ilk sırada değilse, diğer her şey yanlış yerdedir.”
 - Tanrı’ya güvenir ve O’nunla sadakat içinde yürürsek, sarsılmaz bir şey bulduğumuz için kolay kolay sarsılmayız
-
-
 
 ## Taht odası
 
@@ -91,7 +80,6 @@ Sonuncusu [camdan denizdir](https://www.bibleserver.com/TR/Vahiy4%3A6). Bunun ü
 - [Süleyman Tapınağı’nın bronz denizi](https://www.bibleserver.com/TR/2.Krallar25%3A13) ve
 - [İsrail’in Mısır’dan Çıkış’ta Kızıldeniz’i geçmesi](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F15%3A8) (Deniz, [kötü insanlar](https://www.bibleserver.com/TR/Ye%C5%9Faya57%3A20) da dahil olmak üzere [kötülüğün yeridir](https://www.bibleserver.com/TR/Mezmur74%3A10-17) ve camdan deniz de katılaşmış kötülüğün bir resmidir).
 
-
 Bu, Tanrı’nın halkına yakın olduğunu ve onları koruduğunu gösterir. Kutsallar da belalar sırasında orada olacaklar, ama Tanrı onları koruyacaktır.
 
 Göreceğiniz gibi buradaki tema da budur: Her bela ya da duyuru dizisi taht odasında başlar. Burası kitaptaki merkezi yerdir. Bu nedenle burayı anlamak önemlidir.
@@ -101,8 +89,6 @@ Yaklaşan olaylara baktığımızda şunu görürüz
 - [Mühürlerde çok büyük sıkıntılar vardır, ancak Şeytan’ın kötülüğünü açığa çıkarmak, mümkün olduğunca çok kişiyi kurtarmak ve hızlı bir sonla gelmek için oradadırlar.](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
 - [Borazanlar insanların güvendiği yanlış şeyleri açığa çıkarır ve beşinci ve altıncı borazanlarda belanın nedeni insanların güvendiği iblislerdir.](../../../../content/trumpets/expl/the-trumpets-in-revelation)
 - [Çanaklar, Tanrı’nın insanların aldanmaması ve altıncı ve yedinci çanaklarda canavarla birlikte batmaması için her şeyi koyduğu yerdir.](../../../../content/bowls/expl/the-bowls-of-wrath)
-
-
 
 ## İbadet
 
@@ -116,9 +102,7 @@ Eski zamanlarda tapınak (göksel taht odasının bir yansıması olan) dünyan�
 - Yaratılışın yöneticisi olarak insan
 - Havanın hakimi kartal
 
-
 Onlara, Davut’un tanıttığı [24 kâhin](https://www.bibleserver.com/TR/1.Tarihler24%3A3-19), [24 Levili bekçi](https://www.bibleserver.com/TR/1.Tarihler26%3A17-19) ve[ 24 daimi tapınmacının yanı](https://www.bibleserver.com/TR/1.Tarihler25) sıra İsrail’in 12 kabilesini ve kilisenin temeli olan 12 havariyi yansıtan [24 ihtiyar katılır](https://www.bibleserver.com/TR/Vahiy4%3A4). Bu, İsrail ve Kilise’nin tüm çatışmalara rağmen bir olarak anlaşılması gerektiği anlamına gelir. Kilise bir tapınma kilisesi olarak tanımlanır.
-
 
 ## Daha fazla okuma
 
@@ -130,4 +114,3 @@ Onlara, Davut’un tanıttığı [24 kâhin](https://www.bibleserver.com/TR/1.Ta
 
 [Beale, Revelation, sayfalar 311–337](../../../../about/ressources/index.html#beale_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/expl/worship-in-the-throne-room.tr.md)

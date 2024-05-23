@@ -3,11 +3,9 @@ title: "The story of Moses"
 weight: 20
 ---
 
-
 The story of Moses is against the script of every hero story known in the ancient world, but it is a success story.
 
 The story is only two chapters long in the Bible and is worth reading in advance. It is first the [story of keeping the Israelites](https://www.bibleserver.com/NIV/Exodus1) small to avoid a second [Hyksos](../../../../bible/exodus/expl/the-story-before-the-exodus) and then the [story of Moses](https://www.bibleserver.com/NIV/Exodus2).
-
 
 ## The fight against a second Hyksos
 
@@ -22,8 +20,6 @@ The Pharaoh does everything to prevent the Israelites from becoming a great peop
 | Newborn babies should be thrown into the Nile. | Moses is put into the Nile in a basket, which is [the same word](https://biblehub.com/hebrew/strongs_8392.htm) as Noah’s Ark, he is saved. |
 | Moses is the key in the story and the one who will bring down the Pharaoh. | He is [raised by the Pharaoh’s daughter and his mother is paid to raise him](https://www.bibleserver.com/NIV/Exodus2%3A5-10). |
 
-
-
 ## The story of Moses
 
 <a name="6f9c"></a>
@@ -36,8 +32,6 @@ The story of Moses is the complete opposite of a hero story in ancient times. I 
 | The identity of the child is unknown and is not revealed until the end. | Moses’ identity is [known from the very beginning by Pharaoh’s daughter](https://www.bibleserver.com/NIV/Exodus2%3A6). |
 | The discovery of his true identity is the turning point and gives him the status he deserves. | Moses’ true identity gets him into trouble and he has to run away to survive. |
 | The reason for the story is to show the hero’s claim to power. | The story does not show Moses claim, but God’s provision and control. |
-
-
 
 ## The further story of Moses
 
@@ -54,14 +48,7 @@ One thing he needed to learn to trust God: One example he learns this [is when h
 
 At the end all works out because the real hero of the story is no Moses but God.
 
-
 ## Dig deeper
 
 [Nahum Sarna, Exodus, pages 27–37](../../../../about/ressources/index.html#sarna_exo)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/exodus/expl/the-birth-of-moses.md)

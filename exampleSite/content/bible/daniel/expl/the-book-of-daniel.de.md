@@ -3,9 +3,7 @@ title: "Überblick über das Buch Daniel"
 weight: 10
 ---
 
-
 Das Buch Daniel in der Bibel scheint aus zwei Teilen zu bestehen: Die ersten sechs Kapitel geben ein beeindruckendes Beispiel für ein Leben im Glauben, während die anderen sechs Kapitel voll von seltsamen Visionen sind, die zu noch seltsameren Theologien führen. Das ist aber nicht der Fall.
-
 
 ## Ein kurzer Überblick
 
@@ -24,7 +22,6 @@ Das Buch Daniel in der Bibel scheint aus zwei Teilen zu bestehen: Die ersten sec
 
 [Dan.7](https://www.bibleserver.com/SLT/Daniel7): Das ist das erste der „seltsamen” Kapitel. Keine Sorge, wir werden uns später damit beschäftigen. Aber wie schon in Kapitel 2 wird auch hier von 4 aufeinander folgenden Königreichen berichtet.
 
-
 ## Der Chiasmus
 
 <a name="ef82"></a>
@@ -37,7 +34,6 @@ Kapitel 3 und 6 beschreiben beide die Errettung aus Verfolgung, aber in Kapitel 
 In den Kapiteln 4 und 5 geht es um Stolz und Demütigung. In Kapitel 4 wird der König so gedemütigt, dass er wegen seines [Stolzes](https://www.bibleserver.com/SLT/Daniel4%2C30) wie ein Tier lebt, aber er wird wiederhergestellt, nachdem er Gott die Ehre gegeben hat. Aber in Kapitel 5 wird der König gewarnt, aber anstatt zur Einsicht zu kommen, versucht er, Daniel zu befördern, um das Problem zu lösen, aber er und sein Königreich gehen noch in derselben Nacht unter.
 
 Diese sechs Kapitel bilden also das Zentrum des Buches, während Kapitel 1 die Einleitung und die Kapitel 8–12 eine Art Anhang darstellen. Von besonderem Interesse sind jedoch die Rahmenkapitel 2 und 7.
-
 
 ## Der Überblick fortgesetzt
 
@@ -54,7 +50,6 @@ Diese sechs Kapitel bilden also das Zentrum des Buches, während Kapitel 1 die E
 
 [Dan.12](https://www.bibleserver.com/SLT/Daniel12): Hier gibt es abschließende Ermutigungen an die Heiligen, auszuhalten.
 
-
 ## Was ist jetzt der Punkt?
 
 <a name="b37a"></a>
@@ -64,14 +59,9 @@ Hier überschneiden sich mehrere Aspekte der Geschichte:
 - Die weltlichen Mächte und ihr Untergang, sei es das babylonische Reich ([das goldene Haupt](https://www.bibleserver.com/SLT/Daniel2%2C38)) oder die anderen Königreiche unter Gott (Kapitel [2](https://www.bibleserver.com/SLT/Daniel2) und [7](https://www.bibleserver.com/SLT/Daniel7)) oder die weltliche Befreiung vom Antichristen (Antiochus Epiphanes IV, durch den Makkabäeraufstand), der dann aber zur von den Römern abgelöst wurde.
 - Die [göttliche Befreiung der ganzen Welt von den Reichen](https://www.bibleserver.com/SLT/Daniel2%2C45) und [Gottes geheimnisvolle Art](https://www.bibleserver.com/SLT/Daniel9%2C24-27), die für immer wirkt.
 
-
 Wenn wir all dies zusammenfassen, sehen wir, wie wichtig der Glaube (jedes) Einzelnen für das Schicksal der Welt ist. Gott wirkt in den unscheinbaren Taten Einzelner, um ein unzerstörbares Reich zu schaffen.
 
 ## Zur Vertiefung
 
 [Wuppertaler Studienbibel, Der Prophet Daniel](../../../../about/ressources/index.html#daniel)
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-book-of-daniel.de.md)

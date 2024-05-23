@@ -2,9 +2,7 @@
 title: "Vahiy Okuması: Büyük Sıkıntı ve Kıyamet"
 ---
 
-
 Bazı insanlar Büyük Sıkıntı ve Kıyameti Kutsal Kitap’ın temel öğretilerinden biri olarak görürken, bazıları da bunları tamamen inkâr etmektedir. Gerçek nedir?
-
 
 ## Fikir
 
@@ -17,7 +15,6 @@ Bu nedenle Tanrı tüm bunlar olmadan önce kiliseyi yeniden diriltecek ve kilis
 
 Daha derin bir anlayışa sahip olabilmek için bu Büyük Sıkıntı’ya daha yakından bakmamız gerekmektedir.
 
-
 ## Büyük Sıkıntı
 
 <a name="fd59"></a>
@@ -28,7 +25,6 @@ Ama aslında bazı bağlamlar vardır. Eski Ahit’te Tanrılar, Tanrı’yla ya
 Fakat İsa geldiğinde bu durum dramatik bir şekilde değişti. Artık Hıristiyanlar sadece İsa’ya inandıkları için acı çekiyorlardı. [Vahiy bize bunun nedenini açıklar: İsa çarmıhta öldüğünde, Şeytan cennetteki konumunu kaybetti ve mümkün olduğunca çok yok etmeye çalıştı. Artık kaybedecek hiçbir şeyi yoktu.](https://www.bibleserver.com/TR/Vahiy12%3A1-12) Vahiy kitabının yazıldığı dönemde, en büyük sıkıntılar (Roma imparatorluğunda) hala devam ediyordu.
 
 “Büyük Sıkıntı” ile kastedilen muhtemelen budur. Bu, günümüzde batı dünyasındaki Hıristiyanlar için bir deneyim olmayan, ancak dünyanın birçok yerinde yaşanmış ve yaşanmakta olan günlük bir gerçekliktir.
-
 
 ## Yeniden anlatılan hikaye
 
@@ -41,10 +37,7 @@ Peki Büyük Sıkıntı gelmiyorsa, Kıyamet ne olacak? Kutsal Kitap’ta Kıyam
 
 Hıristiyanların umudu, sıkıntılarımızdan kurtulmamız değil, sıkıntılarımızın bu dünyada bir fark yaratması olmalıdır.
 
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -53,10 +46,3 @@ Hıristiyanların umudu, sıkıntılarımızdan kurtulmamız değil, sıkıntıl
 - [Büyük Sıkıntı](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
 - [Kıyamet](../../../../topics/others/expl/the-rapture)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture.tr.md)

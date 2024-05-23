@@ -3,9 +3,7 @@ title: "Küçük parşömen"
 weight: 2
 ---
 
-
 There is a little scroll that John needs to eat and the mystery of the seven thunders. What is the meaning of this?
-
 
 ## Motivasyon
 
@@ -13,7 +11,6 @@ There is a little scroll that John needs to eat and the mystery of the seven thu
 Altıncı borazandan sonra insanları, onları yok eden cinlerden hiçbir şey uzaklaştıramayacak gibi görünüyor. Sonuç olarak, 11. bölümün sonunda gelen altıncı ve yedinci borazan arasında daha uzun bir ara vardır. Bu da 10. bölümle 11. bölüm arasında bağlantı kurar.
 
 İnsanların kendi felaketlerinden dönmeleri için başka bir şeye daha ihtiyaç vardır ve bu da kilisenin sadık tanıklığıdır — kaynağı Tanrı’ya tapınma olan tanıklarla temsil edilir.
-
 
 ## Parşömenli melek
 
@@ -28,7 +25,6 @@ Güvence olarak melek bir ayağını denize, diğerini de karaya koyar, bu da on
 
 Ve sonra konuşan yedi gök gürültüsü vardır. Ne söylediklerini çok merak ediyoruz, ama mühürlenmişler. Çok üzgünüm, bunun ne olabileceğini tahmin edebiliriz ama Tanrı açıklayana kadar bunu anlayamayacağız.
 
-
 ## Parşömeni yemek
 
 <a name="b778"></a>
@@ -37,7 +33,6 @@ Yuhanna’dan bu tomarı yemesi istenir. Bu bize Hezekiel’i ve onun tomarı ye
 İsa’nın ne yaptığını (ağızda tatlı) ve sonuçlarının ne olduğunu (midede acı) anlatır ki bu dünya için bir yargıdır ama daha çok onlardan nefret eden ve onları İsa’dan daha iyi tehdit etmeyecek olan dünyaya tanıklık etmenin ne anlama gelmediğini anlatır.
 
 Ama şimdi tomar nedir? Bir sonraki bölüm(ler)e baktığımızda, kilisenin sonunda başaracağı uluslara ulaşmak için kilisenin tanıklığıdır.
-
 
 ## Diğer okumalar
 
@@ -48,4 +43,3 @@ Ama şimdi tomar nedir? Bir sonraki bölüm(ler)e baktığımızda, kilisenin so
 
 [Beale, Revelation, sayfalar 520–555](../../../../about/ressources/index.html#beale_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/scroll/expl/the-little-scroll.tr.md)

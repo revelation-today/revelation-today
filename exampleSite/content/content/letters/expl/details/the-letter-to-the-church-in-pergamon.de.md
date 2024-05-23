@@ -3,11 +3,9 @@ title: "Das Sendschreiben an Pergamon"
 weight: 3
 ---
 
-
 Das ist eine Gemeinde, die kurz vor dem Scheitern steht. Und das alles wegen Bileam? Aber er ist nicht das eigentliche Problem.
 
 [Das Sendschreiben an Pergamon](https://www.bibleserver.com/SLT/Offenbarung2%2C12-17)
-
 
 ## Der historische Hintergrund
 
@@ -18,7 +16,6 @@ Die Stadt war lange Zeit Sitz des Herrscherhauses der Attiden, die diese Region 
 
 Weitere Tempel waren Zeus, Athene, Dionysos und Asklepios geweiht.
 
-
 ## Jesu Sicht
 
 <a name="dc77"></a>
@@ -28,7 +25,6 @@ Jesus nennt den Ort: “[Wo der Satan wohnt und seinen Thron hat](https://www.bi
 
 Aber es gibt ein Problem, das ihnen zum Verhängnis wird: [Bileam und die Nikolaiten](https://www.bibleserver.com/SLT/Offenbarung2%2C14-15), oder ist es eigentlich ein anderes Problem?
 
-
 ## Das Problem
 
 <a name="7e5f"></a>
@@ -37,7 +33,6 @@ Die Geschichte von [Bileam zeigt das völlige Versagen von Leiterschaf](../../..
 Es gibt kein Eingreifen der Leitung in Bezug auf die falsche Lehre. Wenn man sich die Verheißungen Jesu ansieht, dann war das Problem ihr mangelnder Glaube, und auf der Suche nach Stärkung waren sie empfänglich für Lehren, die ein Leben in Glaubenskompromissen anboten.
 
 Und da jede Lehre auch das Handeln beeinflusst, wirkte sich das natürlich auch auf ihr Verhalten und ihr Zeugnis aus. Es ist anzunehmen, dass auch die Teilnahme an Götzenmahlzeiten durch die Irrlehre gefördert wurde.
-
 
 ## Die Lösung
 
@@ -49,11 +44,9 @@ Sie erhalten einen weißen Stein mit einem neuen Namen, der zwei Bedeutungen hat
 - Solche Steine wurden als Eintrittskarten verwendet (z.B. für ein Festmahl).
 - Ein weißer Stein wird im [Gericht genutzt](https://www.bibleserver.com/SLT/Apostelgeschichte26%2C10), wobei ein weißer Stein für unschuldig steht (z.B. nicht am Götzenmahl teilgenommen zu haben) und wäre eine [Eintrittskarte zum Hochzeitsmahl des Lamme](https://www.bibleserver.com/SLT/Offenbarung19%2C9)s.
 
-
 Ein neuer Name ist in der Regel mit einer [neuen Identität](https://www.bibleserver.com/SLT/1.Mose17%2C5) verbunden, und den neuen Namen zu kennen, zeigt dass man eine sehr enge Beziehung zu dieser Person hat.
 
 Gott bietet der Gemeinde eine neue Identität an, wenn sie es will. Wenn [nicht, wird Jesus gegen sie kämpfen](https://www.bibleserver.com/SLT/Offenbarung2%2C16).
-
 
 ## Zum Weiterlesen
 
@@ -66,4 +59,3 @@ Gott bietet der Gemeinde eine neue Identität an, wenn sie es will. Wenn [nicht,
 
 [Gordon Fee, Revelation, Seiten 33](../../../../../about/ressources/index.html#fee_rev)
 
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-pergamon.de.md)

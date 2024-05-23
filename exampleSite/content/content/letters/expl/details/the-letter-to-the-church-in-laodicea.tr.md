@@ -3,9 +3,7 @@ title: "Laodikya’daki kiliseye mektup"
 weight: 7
 ---
 
-
 Bu [mektup kiliselerde en çok vaaz edilen mektuptur](https://www.bibleserver.com/TR/Vahiy3%3A14-22) ve bu yüzden hepimiz ılık olma sorununu biliriz. Ama bu bağlamda ne anlama geldiğini gerçekten biliyor musunuz? Özellikle de bu kilise hiç övgü almayan tek kilise olduğunda, biraz bile!
-
 
 ## Tarihsel arka plan
 
@@ -16,13 +14,10 @@ Laodikya birçok ticaret yolunun kesiştiği bir yerdeydi ve çok zengin bir ken
 - onlara ince ve değerli siyah yün veren koyun yetiştiriciliği vardı
 - göz merhemleriyle tanınan bir tıp merkeziydi.
 
-
-
 ## İsa’nın görüşü
 
 <a name="27c6"></a>
 İsa bu kiliseye “Gerçek Tanık” ve “Amin” olarak gelir çünkü Laodikya sahtedir. Onların temel sorunu öz farkındalık eksikliğidir. Kendilerini “Tanrı’nın dünyaya armağanı” olarak görürler ama aslında [tam da iyi olduklarını düşündükleri konularda başarısızdırlar](https://www.bibleserver.com/TR/Vahiy3%3A17).
-
 
 ## Sorun
 
@@ -36,11 +31,9 @@ O zamanlarda su iki koşulda iyiydi:
 - Sıcak: böylece şifa amacıyla kaplıcalar gibi kullanılabilir
 - Soğuk: İçmek ferahlatıcıydı
 
-
 Ama Laodikya’da bunların hiçbiri yoktu — sadece içtiğinizde tükürdüğünüz ılık su vardı.
 
 Müjdecilik, dua, şifa, yoksullara hizmet ya da diğer bakanlıklar aracılığıyla etkili bir kilise olmanın birçok yolu vardır. Bunların bir amacı vardır, ama Laodikya bunların hiçbirine sahip değildi ve bu nedenle ılık su gibi hiçbir işe yaramıyordu.
-
 
 ## Çözüm
 
@@ -59,4 +52,3 @@ Peki bu Laodikya için ne anlama geliyor? Bu motivasyon onlar için yeterli mi?
 
 [Gordon Fee, Revelation, sayfalar 57](../../../../../about/ressources/index.html#fee_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-laodicea.tr.md)

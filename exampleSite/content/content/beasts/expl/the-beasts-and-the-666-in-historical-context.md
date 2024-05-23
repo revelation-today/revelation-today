@@ -3,9 +3,7 @@ title: "The beasts and the 666 in historical context"
 weight: 3
 ---
 
-
 The dragon and the two beasts in the book of Revelation are usually interpreted in a very abstract (evil forces) or very “creative” way. Who are they really?
-
 
 ## The context of the first readers
 
@@ -17,7 +15,6 @@ The two beasts coming up out of the sea and out of the earth are based on
 - [Behemoth](https://www.bibleserver.com/NIV/Job40:15-24) (the beast from the earth), which is [slain by God with a sword in Job](https://www.bibleserver.com/NIV/Job40%3A19) and is also [wounded by a sword in Revelation](https://www.bibleserver.com/NIV/Revelation13%3A14), and
 - [Leviathan ](https://www.bibleserver.com/NIV/Job41)(the beast from the sea), which has [flames coming out of its mouth](https://www.bibleserver.com/NIV/Job41%3A19).
 
-
 These beast [are subdued by God](https://www.bibleserver.com/NIV/Job7%3A12) and expected in the Jewish tradition, as also in [Isaiah](https://www.bibleserver.com/NIV/Isaiah27%3A1), it is expected that God will conquer them in the end times.
 
 Both beasts are no match for human beings, but [even a toy for God](https://www.bibleserver.com/NIV/Psalm104%3A26).
@@ -26,12 +23,10 @@ The first readers saw whatever came “out of the sea” as foreign, which at th
 
 “From the earth” would be as native political and economic authorities.
 
-
 ## The dragon
 
 <a name="bb06"></a>
 He is very clear to understand. He is the devil. He is the puppet master behind everything and the true origin of evil because [we are not fighting against flesh and blood](https://www.bibleserver.com/NIV/Ephesians6%3A12). He is not really in power but he drives the powers on earth.
-
 
 ## The first beast
 
@@ -39,7 +34,6 @@ He is very clear to understand. He is the devil. He is the puppet master behind 
 This is the emperor in Rome (from the sea). He is no different from all the rulers before him. And with the end of a particular emperor (death of Nero, Tiberius, …) the first beast is not dead. [With each new emperor, it comes back to life. Rome is unbeatable.](https://www.bibleserver.com/NIV/Revelation13%3A3-4)
 
 [Rome blasphemes God](https://www.bibleserver.com/NIV/Revelation13%3A4-6) by [claiming to be like Him](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation). The emperor is the one who commands the Roman legions and breaks anyone who does not play along. [He starts persecutions against God’s people and is successful with it](https://www.bibleserver.com/NIV/Revelation13%3A7-8). And all who are written in the book of life will bow their knees before him, for [he has the power and the saints can only endure](https://www.bibleserver.com/NIV/Revelation13%3A10).
-
 
 ## The second beast
 
@@ -56,7 +50,6 @@ The people receive a mark on their hands and foreheads. In the Old Testament thi
 
 If you do not fall in, you [will be financially ruined ](https://www.bibleserver.com/NIV/Revelation13%3A16-17).
 
-
 ## What to do?
 
 <a name="0a91"></a>
@@ -64,14 +57,7 @@ What can Christians do to confront this system. The answer is given, for example
 
 And in all of this: [Perseverance](https://www.bibleserver.com/NIV/Revelation13%3A10) and [wisdom as to God and what is not](https://www.bibleserver.com/NIV/Revelation13%3A18).
 
-
 ## Dig Deeper
 
 [Beale, Revelation, pages 682–684](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/beasts/expl/the-beasts-and-the-666-in-historical-context.md)

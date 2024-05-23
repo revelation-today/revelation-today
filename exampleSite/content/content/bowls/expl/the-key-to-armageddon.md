@@ -3,9 +3,7 @@ title: "The key to Armageddon"
 weight: 3
 ---
 
-
 Armageddon: a catastrophe that will destroy the world? No, because it is not a place. It is a concept. Want to know why? Read on!
-
 
 ## The translation
 
@@ -18,8 +16,6 @@ The term Armageddon is mentioned once [in the Bible,](https://www.bibleserver.co
 - But it can also mean “Mountain of Megiddo”. This is a longer explanation because there are many events that happened at Megiddo and its mountain.
 - And finally it can mean “mountain of slaughter”, which we will also look at.
 
-
-
 ## Deborah and Jael
 
 <a name="4d88"></a>
@@ -28,7 +24,6 @@ The first mention of a battle near Megiddo concerns the judges [Deborah and Bara
 Israel was, as so often in the book of Judges, was [under a foreign ruler who was oppressing them](https://www.bibleserver.com/NIV/Judges4%3A1-3). And there the Deborah [calls a certain judge named Barak to follow God’s promise and free Israel as God promised them to deliver them](https://www.bibleserver.com/NIV/Judges4%3A3-7). But he is unsure and will only come if Deborah joins him which she does but already announces [that he will not make the final strike against their army leader Sisera, but that this will be done by a woman](https://www.bibleserver.com/NIV/Judges4%3A8-9). If you think this is Deborah, you are wrong, because this is where Jael comes in.
 
 After Barak defeats the army, Sisera runs away and tries to find refuge as Heber’s house (since they were friends of Sisera’s king). [But Heber‘s wife Jael took the opportunity to kill Sisera as he slept.](https://www.bibleserver.com/NIV/Judges4%3A15-21)
-
 
 ## Elijah
 
@@ -41,7 +36,6 @@ As background: King Ahab of Israel with his wife Jezebel of Sidon (a kingdom nor
 
 When Jehu, [the commander of the army, was finally annointed](https://www.bibleserver.com/NIV/2%20Kings9), he destroyed the entire network of Jesebels that reached Judah. When Jehu followed the king of Judah, he shot him, and the king of Judah died in — guess what — Megiddo!
 
-
 ## Josiah
 
 <a name="a257"></a>
@@ -49,8 +43,6 @@ When Jehu, [the commander of the army, was finally annointed](https://www.bibles
 
 - Assur was constantly oppressing Israel at this time and stopped because Babel was causing them trouble.
 - Egypt was on the one hand the place where Israel came out of slavery, but was always the [backup plan for Israel which usually disappointed Israel](https://www.bibleserver.com/NIV/2%20Kings18%3A21). It seems that Josiah was the first king of Israel to ever fight against Egypt.
-
-
 
 ## Conclusion
 
@@ -63,8 +55,6 @@ Armageddon represents a paradox that we see throughout the New Testament, especi
 - A single commander overthrows his king and the neighboring king without preparation.
 - A king of a tiny kingdom fights a world power, is defeated and killed, and thus secures the future of his people.
 
-
-
 ## Further reading
 
 <a name="840b"></a>
@@ -76,7 +66,3 @@ Armageddon represents a paradox that we see throughout the New Testament, especi
 
 [Fee, Revelation, pages 224-225](../../../../about/ressources/index.html#fee_rev)
 
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/bowls/expl/the-key-to-armageddon.md)

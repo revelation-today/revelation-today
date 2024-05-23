@@ -3,13 +3,11 @@ title: "Kuzu’nun Gazabı"
 weight: 4
 ---
 
-
 Kuzu’nun gazabı nedir? Bu, inanç adına yapılan savaş eylemlerini destekler mi?
 
 İkinci soruyla başlayalım: Kesinlikle hayır. Yeni Ahit savaşımızın ruhsal olduğunu çok açık bir şekilde ortaya koymuştur.
 
 Metin şöyledir: “[Altıncı mührü açarken izledim. Büyük bir deprem oldu. Güneş keçi kılından yapılmış çul gibi karardı, bütün ay kan kırmızısına döndü ve gökteki yıldızlar, şiddetli bir rüzgârla sarsılan incir ağacından düşen incirler gibi yere düştü. Gökler dürülmüş bir tomar gibi geriledi, her dağ ve ada yerinden söküldü. Sonra yeryüzünün kralları, prensleri, komutanları, zenginleri, güçlüleri, köle ve özgür olan herkes mağaralara ve dağların kayalıklarına saklandı. Dağlara ve kayalara şöyle seslendiler: ‘Üzerimize çöküp bizi tahtta oturanın yüzünden ve Kuzu’nun gazabından saklayın! Çünkü onların gazabının büyük günü geldi ve ona kim dayanabilir?](https://www.bibleserver.com/TR/Vahiy6%3A12-17)”
-
 
 ## Kuzu’nun Gazabı
 
@@ -22,7 +20,6 @@ Bu da gösteriyor ki buradaki vurgu, insanlara zarar vermek isteyen öfkeli bir 
 
 Ancak burada anlatılan tek şey halkın korkusudur, İsa’nın ya da Tanrı’nın tepkisi gösterilmez.
 
-
 ## Gazabın anlamı
 
 <a name="7c69"></a>
@@ -31,7 +28,6 @@ Bu pasajda kullanılan “[orge](https://biblehub.com/greek/3709.htm)” sözcü
 Bir yandan insanlar Tanrı’ya karşı biriktirdiklerinin farkına varırken, diğer yandan[ Tanrı sürekli olarak insanlara ulaşmaya çalışmış, ancak bunun sona erdiği bir nokta gelmiştir](../../../../content/bowls/expl/the-bowls-of-wrath).
 
 Bu, Tanrı’nın bir şeyler yapıp yapamayacağını görmeye çalışan ve insanlar istekli olmadığı için vazgeçen bir sosyal hizmet görevlisi gibi olduğu izlenimini vermemelidir. İnsanları eylemlerinin sonuçlarıyla yüzleştirecektir.
-
 
 ## Gazabın önemi
 
@@ -44,7 +40,6 @@ Tanrı’nın gazabını etik ve teolojik açıdan zor bir konu olarak görüyor
 - Hayatınızda bir kez bile savaşa ya da kimsenin umurunda olmadığı için herkesi öldüren bir salgına tanık olmadınız
 - Hatta hayatınızda bir bakış açınız ve seçenekleriniz bile olabilir.
 
-
 Size şunu söyleyeyim: Tarihin büyük bölümünde çoğu insan için bunlardan en az biri biliniyordu, örneğin [kölelik geçmişe ait bir olgu değil, yükselen bir olgudur](https://50forfreedom.org/modern-slavery/) ve tüm bunların arkasında doğrudan ya da dolaylı olarak bunlara neden olan insanlar vardır.
 
 Ve Tanrı acı çekenler adına hareket ederek haklılığını ortaya koyar.
@@ -55,4 +50,3 @@ Başkalarına yaşattığımız acılardan sorumluyuz. Haksızlığımız tek bi
 
 [Beale, Revelation, sayfalar 395–404](../../../../about/ressources/index.html#beale_rev)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/seals/expl/the-wrath-of-the-lamb.tr.md)

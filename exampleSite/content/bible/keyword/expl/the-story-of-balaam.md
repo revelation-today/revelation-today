@@ -3,11 +3,9 @@ title: "The story of Balaam"
 weight: 30
 ---
 
-
 You know the story of Balaam and the donkey, but do you know why and how Balaam deceived Israel into idolatry.
 
 Don’t believe me? Here is the proof: “[Nevertheless, I have a few things against you: there are some among you who hold to the teaching of Balaam, who taught Balak to entice the Israelites to sin so that they ate food sacrificed to idols and committed sexual immorality.](https://www.bibleserver.com/NIV/Revelation2%3A14)”
-
 
 ## The well known story
 
@@ -21,7 +19,6 @@ The [Moabites send messengers to Balaam to ask him to curse Israe](https://www.b
 Why? Why does Balaam ask again? He heard the answer. Did he think he could change God’s mind? Obviously, because God let him go. But there are consequences — [you know, the story with the donkey](https://www.bibleserver.com/NIV/Numbers22%3A22-35).
 
 Balaam now seems to be obedient to God and blesses Israel as God wants. Balak gets furious and [sends him back](https://www.bibleserver.com/NIV/Numbers24%3A25). And there the story ends — that is what you think.
-
 
 ## The situation with Baal-Peor
 
@@ -38,7 +35,6 @@ However, it takes a long time until [Israel fights against the Midianites](https
 
 But there is a surprise: [Balaam is one of those killed, he stayed with the Midianites](https://www.bibleserver.com/NIV/Numbers31%3A8).
 
-
 ## What happened?
 
 <a name="6bd5"></a>
@@ -48,14 +44,7 @@ So he makes a party and draws Israel from God to the Midianite women.
 
 It was Balaam’s pride that brought him down, but it was Moses’ leadership that caused the death of the Israelites.
 
-
 ### Dig deeper
 
 [Beale, Revelation, page 249](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/keyword/expl/the-story-of-balaam.md)

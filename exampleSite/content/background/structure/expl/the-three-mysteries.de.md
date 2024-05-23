@@ -3,9 +3,7 @@ title: "Die drei Geheimnisse"
 weight: 20
 ---
 
-
 Das Buch der Offenbarung spricht von drei Geheimnissen: dem Geheimnis der Kirche, dem Geheimnis Gottes und dem Geheimnis des Tieres. Was sind diese Geheimnisse, und bedeutet eigentlich “Geheimnis”? Das werden wir bald sehen und auch, wie dies eine neue Perspektive auf die Struktur des Buches eröffnet.
-
 
 ## Das Geheimnis
 
@@ -20,8 +18,6 @@ Dieses Geheimnis wird in der Offenbarung ausführlich beschrieben. Das Buch zeig
 - Der Schlüssel zu ihrem Erfolg sind Anbetung, Zeugnis, Ausharren und Gebet, die das Böse zu Fall bringen.
 - Es scheint einen Unterschied zu geben [zwischen Überwinden und siegreich sein](../../../../topics/hero/short/a-real-hero).
 
-
-
 ## Das Geheimnis der Gemeinde
 
 <a name="9ec7"></a>
@@ -33,7 +29,6 @@ Die Gemeinde muss auf Jesus schauen, der gehorsam war ([Anbetung ist der Ausdruc
 
 Jetzt kann die Gemeinde losgehen [im Gebet und die Erde erschüttern](../../../../content/trumpets/expl/the-trumpets-in-revelation). Aber Gebet allein genügt nicht! Es braucht mehr: das Geheimnis Gottes. Das offenbart sich in der Anbetung, die die Gemeinschaft mit Gott ausdrückt.
 
-
 ## Das Geheimnis Gottes
 
 <a name="b922"></a>
@@ -41,7 +36,6 @@ Das [Geheimnis Gottes](https://www.bibleserver.com/SLT/Offenbarung10%2C7) kann a
 
 - [Er regiert die Welt souverän](https://www.bibleserver.com/SLT/Offenbarung10%2C2).
 - Gott hat die größere Aufgabe (Buch aus Kapitel 5), aber die Gemeinde muss auch tätig werden (das kleine Büchlein).
-
 
 Alles beginnt mit dem Tempel: Der Ort der Gegenwart Gottes wird durch Anbetung beschrieben!
 
@@ -53,7 +47,6 @@ Das wird am [Leben Jesu, dem Zeugen gezeigt, der siegreich war](../../../../cont
 
 [Jetzt tritt Gott in Aktion und gibt das Letzte, kämpft um die Herzen der Menschen und zerstört schließlich das Reich Satans](../../../../content/bowls/expl/the-bowls-of-wrath), was uns zum letzten Thema führt.
 
-
 ## Das Geheimnis der Hure
 
 <a name="2c82"></a>
@@ -63,13 +56,10 @@ Das [letzte Geheimnis](https://www.bibleserver.com/SLT/Offenbarung17%2C5) beschr
 - [Die Hure setzt ein riesiges Netzwerk in Gang, durch das sie am Ende selbst zerstört wird](https://www.bibleserver.com/SLT/Offenbarung17).
 - Den großen Kapiteln über die Hure steht die lange Geschichte der Braut (das neue Jerusalem, die Gemeinde) gegenüber. Die Gemeinde muss sich davor hüten, sich mit der Hure zu verbinden, sonst geht sie mit ihr unter.
 
-
-
 ## Ein kleiner Überblick
 
 <a name="994f"></a>
 Das gibt einen ersten Überblick über die Struktur des Buches
-
 
 | Thema | Gemeinde: Zurück zu Jesus | Gott: Vorbild für die Gemeinde | Hure: Was die Gemeinde nicht sein soll |
 |-------|---------------------------|--------------------------------|----------------------------------------|
@@ -83,5 +73,3 @@ Das gibt einen ersten Überblick über die Struktur des Buches
 | Triff die richtige Wahl! | [Falsche Sicherheiten werden weggenommen](https://www.bibleserver.com/SLT/Offenbarung8%2C6-13) (Offb. 8/6-13) | [Loyalität zum Tier, Zum Schweigen Bringen der Zeugen, Herzenhärte in Frage gestellt](https://www.bibleserver.com/SLT/Offenbarung16%2C1-9) (Offb. 16/1-9) | [Neue Jerusalem wird vorgestellt](https://www.bibleserver.com/SLT/Offenbarung21%2C9-20) (Offb. 21/9-22/5) |
 | Leben mit der falschen Wahl | [Geplagt durch die Dämonen, auf die vertraut](https://www.bibleserver.com/SLT/Offenbarung9) (Offb. 9) | [Dämonische Kräfte täuschen und Menschen lassen sich drauf ein und gehen mit ihne unter](https://www.bibleserver.com/SLT/Offenbarung16%2C10-21) (Offb. 16/10-21) | [Leben außerhalb des Neuen Jerusalems ist Leben mit Dämonen](https://www.bibleserver.com/SLT/Offenbarung22%2C6-21) (Offb. 22/6-21) |
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/structure/expl/the-three-mysteries.de.md)

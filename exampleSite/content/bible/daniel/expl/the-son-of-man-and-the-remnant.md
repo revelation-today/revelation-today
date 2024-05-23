@@ -3,9 +3,7 @@ title: "The Son of Man"
 weight: 30
 ---
 
-
 Jesus calls himself only the “Son of Man”? Why is this? And what does it mean?
-
 
 ## The origin
 
@@ -17,7 +15,6 @@ The Son of Man comes from a vision from Daniel:
 There is no direct explanation of who He is, so we have to dig a little. And we do not have to dig very far, because just a few verses later the explanation is given: “[But the holy people of the Most High will receive the kingdom and will possess it for ever — yes, for ever and ever.](https://www.bibleserver.com/NIV/Daniel7%3A18)”
 
 The holy people of the Most High are the people of Israel. They represent the Son of Man, since they are not God but men (in ancient times, a group could be represented by a person, such as [daughter Zion for Israel](https://www.bibleserver.com/NIV/Isaiah1%3A8), or [the story of Israel compared to a woman](https://www.bibleserver.com/NIV/Ezekiel16) or the [northern and southern kingdoms of Israel as the story of two daughters](https://www.bibleserver.com/NIV/Ezekiel23)).
-
 
 ## The statement
 
@@ -40,15 +37,12 @@ Let us look at the interpreted elements:
 - The Ancient of Days speaks judgment in favor of the holy people = the king’s power is taken away and he is completely destroyed forever
 - Time comes they possess the kingdom = all kingdoms will be given over to the Holy People, will be everlasting and all rulers will worship and obey Him.
 
-
 Some observations:
 
 - The boastful speech is reflected in speaking against God, oppressing His people and His law — so the attack on His people is actually an attack on Him, so it is God’s response.
 - The defeat of the Holy People is only temporary and lasts only 3.5 times, the defeat comes before the victory.
 - The judgment in favor of the Holy People means that the kings are destroyed once and for all.
 - The possession of the kingdom is also related to the fact that all rulers will worship Him (Son of Man = Israel).
-
-
 
 ## The problem
 
@@ -63,7 +57,6 @@ It is not clear from the context of Daniel when this will be, but the descriptio
 
 In the Old Testament only the prophet Ezekiel is called the “Son of Man”, but again this is “[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)” (“son of Adam”), whereas in Daniel the term “[kebar enas](https://biblehub.com/interlinear/daniel/7-13.htm)” (“son of mankind”) is used.
 
-
 ## The solution
 
 <a name="77b0"></a>
@@ -77,7 +70,6 @@ I hope you are sitting down, because this will be a bit uncomfortable.
 - The horn or another king opposes Jesus and tries to change his law and this for 3.5 times. Jesus ministry lasted about 3 years and he raised from the dead on the third day.
 - The result of the vindication of Jesus is the destruction of His enemies.
 
-
 On the one hand, you could say, that this is Satan or the Antichrist, but the Gospels show a different picture. It is [Israel who rejected Him](https://www.bibleserver.com/NIV/John1%3A11-14), the religious leaders who [attacked Him and conspired to kill Him](https://www.bibleserver.com/NIV/John11%3A45-54), who set up a court to find Him guilty and [as all men to kill Him](https://www.bibleserver.com/NIV/John19%3A1-15). It was also [Israel that twisted the law (“You have heard that it was said”)](https://www.bibleserver.com/NIV/Matthew5%3A17-48).
 
 The hard truth is that his own people, Israel, became his great enemy by opposing him. We should be very careful about judging them, because the church is no better.
@@ -85,7 +77,6 @@ The hard truth is that his own people, Israel, became his great enemy by opposin
 But what did Jesus do? [He forgave them, because they did not know what they were doing](https://www.bibleserver.com/NIV/Luke23%3A34). [And His calling was to restore Israel and to call as many of them to Him as possible](https://www.bibleserver.com/NIV/Matthew15%3A24) (it was the disciples’ calling to go after the nations, [of course there were exceptions](https://www.bibleserver.com/NIV/Matthew8%3A5-13)). He did not come as a judge, but as a savior, but He will come again. And He did not reject Israel and replace it with the Church, but He restarted Israel and included the Church in it.
 
 But He saved the [remnant of Israel](../../../../background/israel/expl/the-remnant-of-israel).
-
 
 ## The heritage
 
@@ -104,15 +95,7 @@ The witnesses are identified as the Son of Man because they live the life of Jes
 - [But this is not their defeat because they will be resurrected like Jesus](https://www.bibleserver.com/NIV/Revelation11%3A8-11).
 - [They are exalted like Jesus](https://www.bibleserver.com/NIV/Revelation11%3A12).
 
-
-
 ### Dig deeper
 
 [Beale, A New Testament Biblical Theology, pages 393–428](../../../../about/ressources/index.html#beale_theo)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/daniel/expl/the-son-of-man-and-the-remnant.md)

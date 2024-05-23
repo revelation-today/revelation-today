@@ -3,9 +3,7 @@ title: "Gottes Armee und die sieben Engel"
 weight: 2
 ---
 
-
 Kapitel 14 der Offenbarung ist eines der verwirrendsten Kapitel und scheint am falschen Platz zu sein. Wir müssen also einen genaueren Blick darauf werfen.
-
 
 ## Die 144.000
 
@@ -26,7 +24,6 @@ Das ist einschüchternd, aber die Heiligen widerstehen. In all dem haben sie ein
 - [Seine Täuschung und Unterdrückung durch die beiden Tiere](https://www.bibleserver.com/SLT/Offenbarung13) ist eine [Katastrophe](../../../../content/beasts/expl/666-the-number-of-the-beast).
 - [Und sein Sieg über die Heiligen verkehrt sich ins Gegenteil](../../../../content/witnesses/expl/the-two-witnesses).
 
-
 Aber nicht nur das, er hat damit auch den [Inhalt des kleinen Buches erfüllt.](../../../../content/scroll/expl/the-little-scroll) Doch was ist das Geheimnis der 144.000? Es ist hier beschrieben:
 
 “[Diese sind es, die sich mit Frauen nicht befleckt haben; denn sie sind jungfräulich [rein]. Diese sind es, die dem Lamm nachfolgen, wohin es auch geht. Diese sind aus den Menschen erkauft worden als Erstlinge für Gott und das Lamm, 5 und in ihrem Mund ist kein Betrug gefunden worden; denn sie sind unsträflich vor dem Thron Gottes.](https://www.bibleserver.com/SLT/Offenbarung14%2C4-5)”
@@ -36,9 +33,7 @@ Aber nicht nur das, er hat damit auch den [Inhalt des kleinen Buches erfüllt.](
 - Weil “sie erkauft sind”: Sie sind wertvoll, weil sie teuer erkauft sind.
 - Keine Lüge wurde in ihrem Mund gefunden: Sie sind treue Zeugen wie [Jesus, der treu blieb, wenn er in Anfechtung war](https://www.bibleserver.com/SLT/1.Petrus2%2C22).
 
-
 Zusammenfassend lässt sich sagen: Sie haben ihr Zeugnis in der Nachfolge Jesu kompromisslos gelebt und dafür Schwierigkeiten bis hin zum Martyrium auf sich genommen.
-
 
 ## Die ersten drei Engel
 
@@ -47,7 +42,6 @@ Die ersten drei Engel nehmen diese Spannung auf:
 
 - Die 144.000 sind treu und widerstehen den Tieren und sind ein Zeugnis für die Völker, die zu Jesus finden.
 - Die Menschen geben der Anspannung nach und lassen sich von den Tieren täuschen.
-
 
 Der erste Engel kommt und verkündet das ewige Evangelium:
 
@@ -63,7 +57,6 @@ Ein zweiter Engel kommt und verkündet den Sieg über Babel, während ein dritte
 
 Die Frage ist: Wie wird das ausgehen? Werden die Völker hören? Aus der Geschichte der Zeugen wissen wir: [Sie werden!](../../../../content/witnesses/expl/the-two-witnesses)
 
-
 ## Die beiden Ernten
 
 <a name="45b1"></a>
@@ -77,9 +70,7 @@ Bei der Weizenernte gibt es jedoch einige wesentliche Unterschiede:
 - Während die Weinpresse das Sammeln UND das Treten der Presse beinhaltet, wird beim Weizen NUR das Ernten berichtet. Beim Getreide folgt nachher normalerweise das [Dreschen](https://www.bibleserver.com/SLT/Jeremia51%2C33), [Verbrennen](https://www.bibleserver.com/SLT/Matth%C3%A4us3%2C12) oder [Verstreuen](https://www.bibleserver.com/SLT/Psalm1%2C4) der Spreu, während die [Ernte ohne dies ein Zeichen dafür ist, dass Menschen in Gottes Reich kommen](https://www.bibleserver.com/SLT/Markus4%2C29).
 - Die Weizenernte ist eingebracht von “[einem, auf einer Wolke sitzend, der wie ein Menschensohn aussieht und eine Krone auf dem Kopf hat](https://www.bibleserver.com/SLT/Offenbarung14%2C14)”. Dies ist ein Bezug auf [Daniel, wo beschrieben wird, wie der Menschensohn ein ewiges Königreich erhält und alle Nationen ihn anbeten](https://www.bibleserver.com/SLT/Daniel7%2C13-14).
 
-
 Daraus ergeben sich für die Nationen zwei Möglichkeiten: Gericht oder Erlösung. Die Geschichte der zwei Zeugen bringt die Mehrheit dazu, Gott die Ehre zu geben, aber es gibt noch eine offene Frage — vorerst.
-
 
 ## Das Lied des Mose
 
@@ -101,7 +92,6 @@ Das alles ist der Inhalt des Liedes von Mose und dem Lamm. Die Geschichte lautet
 - Du erweist dich als der einzig wahre Gott.
 - Darum kommen alle Völker, dich anzubeten.
 
-
 Dieses Lied ist eine Proklamation, dass alle Völker kommen, um Gott anzubeten. Er tut dies, indem er ihre Feinde richtet. Der Jubel gilt nicht der Rettung der Märtyrer, sondern der Rettung der Völker durch Gott.In den folgenden Schalen sehen wir, wie Gott mit den Völkern umgeht, die sich weigern, ihn anzubeten und stattdessen dem Tier treu sind.
 
 ## Zur Vertiefung
@@ -112,5 +102,3 @@ Dieses Lied ist eine Proklamation, dass alle Völker kommen, um Gott anzubeten. 
 
 [Bauckham, The climax of Prophecy, Seiten 283–307](../../../../about/ressources/index.html#bauckham_climax)
 
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harvest/expl/gods-army-and-the-seven-angels.de.md)

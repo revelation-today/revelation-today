@@ -2,9 +2,7 @@
 title: "Die Schöpfung"
 ---
 
-
 Zum Verständnis des Endes der Bibel ist auch ein Verständnis des Anfangs notwendig. Wusstest du, dass der Baum des Lebens, den wir im Sündenfall sehen, oder das Zeichen an Kain in der Offenbarung wieder auftauchen?
-
 
 ## Das Gedicht
 
@@ -17,7 +15,6 @@ Die Schöpfung war gewollt und gestaltet. Zuerst die drei Gebäude (Licht, Wasse
 
 Und alles war sehr gut. Mann und Frau waren als Repräsentanten Gottes als Herrscher über alles eingesetzt. Sie waren nach dem Bilde Gottes geschaffen, d.h. beide repräsentierten Gott gleichermaßen.
 
-
 ## Das Drama
 
 <a name="ed45"></a>
@@ -29,7 +26,6 @@ Ansonsten hatte er alles: die sinnvolle Aufgabe, den Garten zu bebauen, kreative
 
 Gott lebt in Beziehungen und ist durch sie definiert, aber der Mensch war allein. Also suchte Gott nach einem Gegenstück zum Menschen, fand aber keines und schuf die Frau. Der Mensch war so überwältigt, dass er sie “Wow”-Mann nannte, aber Gott nannte sie “Helfer”, was man am besten mit “Lebensretter” übersetzen kann. Und so fing alles an, es fehlte nur noch der letzte Anstoß durch die Schlange.
 
-
 ## Der letzte Anstoß
 
 <a name="cba5"></a>
@@ -40,7 +36,6 @@ Für den Teufel war es nicht schwer, das in Frage zu stellen, denn das neue Gebo
 Und sie gab es ihrem Mann. Sie brauchte ihn nicht zu suchen und ihm zu geben, denn es war die ganze Zeit da und schwieg. Das ist umso erstaunlicher, als “Mann” “der sich erinnert” bedeutet. Da hätte man doch wenigstens erwarten können, dass er sich erinnert und spricht.
 
 Aber Mann und Frau versagen beide. Die Folge ist Scham, die dazu führt, dass sie sich vor Gott verstecken und sich gegenseitig beschuldigen. Scham war Ausdruck des Beziehungsabbruchs.
-
 
 ## Gottes Wiederherstellungsplan
 
@@ -55,7 +50,6 @@ Adam bekennt seine Sünde nicht, sondern schiebt die Schuld auf alle anderen: Di
 
 Die Frau gab nur zu, von dem Baum gegessen zu haben, nicht aber, dem Mann etwas gegeben zu haben.
 
-
 ## Die Konsequenz
 
 <a name="a804"></a>
@@ -67,18 +61,15 @@ Die Frau war der wahr gewordene Traum, den Gott ihm geschenkt hatte. Aber anstat
 
 Er gehorchte dem Wort der Frau und nicht dem Wort Gottes. Die Frucht diente nur dazu, das Problem aufzuzeigen, das von Anfang an bestand: Der Mann führte die Frau nicht zu Gott, sondern wartete auf seine Führung, die sie nie erhielt, und so hörte sie auf die Weisung der Schlange, eines Wesens, über das der Mann herrschen sollte.
 
-
 ## Das Undenkbare
 
 <a name="9de4"></a>
 Sie mussten den Garten verlassen, aber vorher wurde ihre Scham mit Tierfellen bedeckt. Halt, Felle wachsen nicht auf Bäumen. Gott musste seiner eigenen Schöpfung Schaden zufügen und zwei Tiere opfern, um die Scham des Menschen zu bedecken. Diese Tiere starben anstelle der Menschen, und das Tragen der Kleidung sollte sie daran erinnern, was Gott getan hatte.
 
-
 ## Ein neuer Anfang
 
 <a name="ce2a"></a>
 Nachdem sie den Garten verlassen hatten, wurde Eva schwanger und machte eine bemerkenswerte Aussage: “Ich habe ein Kind von dem Herrn empfangen. Nun, das Kind war offensichtlich von Adam, aber der Name “Kain” (Schatz) zeigt den Gedanken, der dahinter steckt. Sie dachte, dass Kain ihre Eintrittskarte zurück in den Garten war und dass er derjenige sein würde, der die Schlange vernichten würde. Das wurde noch deutlicher, als sie seinen Bruder Abel nannte.
-
 
 ## Die Explosion
 
@@ -93,7 +84,6 @@ Kain war wütend und Gott griff sofort ein und warnte Kain vor der Sünde, die h
 
 Kain aber hört nicht und erschlägt seinen Bruder. Als Kain zur Rede gestellt wird, bereut er und fühlt sich nicht in der Lage, die Folgen seiner Tat zu tragen, so dass Gott ein Zeichen an ihm setzt, damit ihm niemand etwas antue.
 
-
 ## Der Skandal
 
 <a name="3b92"></a>
@@ -104,13 +94,8 @@ Er ist der erste, von dem berichtet wird, dass er zwei Frauen hat, und er macht 
 - Er hat schon jemanden getötet, das Zeichen an Kain sollte ihn davor bewahren, jemanden zu töten.
 - Lamech droht mit viel größeren Konsequenzen als Gott. Ist er denn größer als Gott?
 
-
 Andererseits macht er sich lächerlich.
 
 - Er prahlt nicht vor der ganzen Welt, sondern hat nur den Mut, vor seinen beiden Frauen anzugeben
 - Und wer wird Lamech rächen, wenn er getötet wird? Seine Frauen?
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/bible/creation/expl/the-creation.de.md)

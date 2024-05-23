@@ -3,15 +3,12 @@ title: "The strange army"
 weight: 1
 ---
 
-
 The 144,000 is a statement that many have heard. Who are they? And why are they counted? What is their purpose?
-
 
 ## Our text
 
 <a name="c775"></a>
 We are moving quickly forward and have already in [chapter 7](https://www.bibleserver.com/NIV/Revelation7).
-
 
 ## The army of God
 
@@ -30,7 +27,6 @@ Furthermore, this story tells us that being a Christian is NOT about getting sav
 
 We are described as an army — soldiers who always worry if they might get hurt or die are not fit for battle. We are soldiers in God’s army, but not an army of violence, but of worship and endurance, and we win when we stop looking at our own salvation, but at God’s plan.
 
-
 ### Reflection
 
 <a name="8e53"></a>
@@ -42,22 +38,9 @@ We are described as an army — soldiers who always worry if they might get hurt
 - Being counted means that you will not get lost. What does that mean to you?
 - God’s army comes from the Great Tribulation. What will happen to your faith when you are tested? Will it grow stronger or will it crumble? Do you believe that God can strengthen your faith when it is tested? What is your faith based on?
 
-
-
-
-
-
-
 ## Digging deeper
 
 <a name="06f1"></a>
 - [The 144.000](../../../../content/army/expl/the-144000)
 - [The big tribulation](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
 
-
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/appl/the-strange-army.md)

@@ -3,17 +3,13 @@ title: "Son zaman ve büyük sıkıntı"
 weight: 3
 ---
 
-
 Ahir zaman ne zaman başlayacak ve büyük sıkıntı nedir? Bu soru pek çok duyguyu da beraberinde getiriyor. Ve asıl soru şu: Ortadaki bilgilerin hangisi güvenilir ve bunu nasıl değerlendirebiliriz? Öyleyse bazı yanıtlar bulmak için en sevdiğimiz kitaba bir göz atalım: Kutsal Kitap.
-
 
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="b532"></a>
 - [Kitabın türü](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 - [Kitabın yapısı](../../../../background/structure/expl/the-structure-of-the-book-of-revelation)
-
-
 
 ## Bitiş zamanı nedir
 
@@ -27,7 +23,6 @@ Ancak İsa yeryüzüne geldiğinde Rab’bin Günü’nün bir bölümünü (kur
 Ancak bu konu Yeni Antlaşma’nın tamamında ortaya konmuştur.
 
 Öte yandan, son zamanın İsa’nın ikinci gelişine ve öncesindeki kısa süreye işaret ettiğini söyleyebilirsiniz. Bu durumda Vahiy Kitabı’nın sadece belirli bir bölümü buna yanıt verecektir ve bu yanıtlar konuyla pek ilgili görünmeyebilir. Ayrıca Yeni Antlaşma’da bu konudan bahseden pek çok başka bölüm de vardır.
-
 
 ## Büyük sıkıntı
 
@@ -52,7 +47,6 @@ Daniel’deki bölüme tekrar bir göz atalım. “İsrail’in koruyucusu Mikai
 
 Yani büyük sıkıntı, kilise olarak karşı karşıya olduğumuz tüm sıkıntılardır.
 
-
 ## Daha fazla okuma
 
 <a name="3392"></a>
@@ -68,5 +62,3 @@ Yani büyük sıkıntı, kilise olarak karşı karşıya olduğumuz tüm sıkın
 
 [Beale, Revelation, sayfalar 433–445](../../../../about/ressources/index.html#beale_rev)
 
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/army/expl/the-end-time-and-the-great-tribulation.tr.md)

@@ -3,11 +3,9 @@ title: "The trumpets in Revelation"
 weight: 2
 ---
 
-
 The trumpets in the Revelation chapters 8, 9 and 11 reflect to many people some catastrophes in modern times, but it actually reflects [the plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt).
 
 The trumpets are the second series of seven events reported in the book. Their beginning is intertwined with the end of the seals, and it is worth taking a closer look at them.
-
 
 ## You may want to read before
 
@@ -15,8 +13,6 @@ The trumpets are the second series of seven events reported in the book. Their b
 - [Historical background of the book](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
 - [What type of book is this](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
 - [The plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt)
-
-
 
 ## The origin of the trumpets
 
@@ -32,7 +28,6 @@ As the result of the prayer the trumpets are blown.
 First of all: The prayer of us, the saints, who cause the trumpets, is as important for God’s kingdom to come as Jesus’ death on the cross and God’s wrath (passionate ambition)? This adds a whole new dimension to prayer.
 
 But secondly: Do you really want your prayer to cause the drama caused by the trumpets?
-
 
 ## The first four trumpets
 
@@ -51,7 +46,6 @@ The trumpets here take away all the securities that people have, [as the letter 
 
 Why is only a third of all the trumpets affected? Well, the trumpets are sounded against God’s creation (including man in the sixth trumpet), but fell under the influence of sin. Just as one-third of the [stars (angels) fell with Satan](../../../../content/jesus/expl/a-different-christmas-story), one-third of the creation is destroyed.
 
-
 ## The fifth and sixth trumpet
 
 <a name="403f"></a>
@@ -65,15 +59,11 @@ God’s people are protected, perhaps not [from the suffering, but from the desp
 
 This plague is the plague in Egypt that [caused the Pharaoh to admit that he had sinned](https://www.bibleserver.com/NIV/Exodus10%3A13-17) and that [his officials were willing to submit under God](https://www.bibleserver.com/NIV/Exodus10%3A7).
 
-
-
 [The sixth trumpet](https://www.bibleserver.com/NIV/Revelation9%3A13-21) goes on step further and attacks the lives of people. Four [angels were released from the Euphrates](https://www.bibleserver.com/NIV/Revelation9%3A14) ([where Babel was located](https://en.wikipedia.org/wiki/Babylon)) for this specific time, which has [strong parallels to the sixth bowl](https://www.bibleserver.com/NIV/Revelation16%3A12-14) gathering everybody for [Armageddon](../../../../content/bowls/expl/the-key-to-armageddon).
 
 This is an army of 2*10.000*10.000 ([10.000 is the largest number that the Greek system can write](https://simple.wikipedia.org/wiki/Greek_numerals)), so like an unlimited number.
 
 As a result of this plague an (or all the other plagues of the trumpets?) [the people did not repent](https://www.bibleserver.com/NIV/Revelation9%3A20-21). So the purpose of the plagues was not only to bring judgment, but also to good reasons to go with God. But the people held on to their idols which (do not!) provide for them, which is in line with the [fourth and fifth bowls of the people, who instead of repenting](https://www.bibleserver.com/NIV/Revelation16%3A8-11), [curse God and thus join the dragon and the beasts](https://www.bibleserver.com/NIV/Revelation13%3A5-6).
-
-
 
 [The seventh trumpet](https://www.bibleserver.com/NIV/Revelation11%3A15-19) comes after a longer interlude and brings forth the kingdom of God, parallel to the [seventh bowl where the kingdom of the devil is destroyed](https://www.bibleserver.com/NIV/Revelation16%3A17-20). But what comes before is interesting:
 
@@ -95,5 +85,3 @@ So the word “terrified” can better be translated as “overwhelmed”.
 
 [Beale, Revelation, pages 445–520](../../../../about/ressources/index.html#beale_rev)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/trumpets/expl/the-trumpets-in-revelation.md)

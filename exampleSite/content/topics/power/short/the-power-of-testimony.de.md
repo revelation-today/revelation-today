@@ -3,15 +3,12 @@ title: "Die Kraft des Zeugnisses"
 weight: 2
 ---
 
-
 Das Zeugnis und die Zeugen sind ein zentrales Thema in der Offenbarung. Du wirst überrascht sein, wie breit dieses Thema gestreut ist. Aber worum geht es eigentlich beim Zeugnis?
-
 
 ## Allgegenwärtig
 
 <a name="eef6"></a>
 Dieses Thema durchzieht die gesamte Offenbarung und wird nur noch vom Thema der Anbetung übertroffen.
-
 
 ## Der wichtigste Zeuge
 
@@ -20,12 +17,10 @@ Gleich zu Beginn heißt es, dass dieses Buch ein Zeugnis von Jesus und ein Zeugn
 
 Jesus ist Zeuge in allem, was er getan hat, und unser Zeugnis soll Jesus sein und ihn widerspiegeln.
 
-
 ## Die Märtyrer
 
 <a name="058c"></a>
 Neben Jesus und Johannes wird nur eine Person namentlich erwähnt: Antipas. Er ist wichtig, weil er ein Zeuge (griechisch: Märtyrer) ist, der sein Zeugnis bis zur letzten Konsequenz gelebt hat und dafür gestorben ist. Er ist ein überzeugender Zeuge, weil er gezeigt hat, dass es etwas gibt, das wichtiger ist als das eigene Leben, und weil er auch gezeigt hat, wie Zeugnis und Beharrlichkeit zusammenwirken (er war wahrscheinlich eine ganze Zeit lang Zeuge und hat dafür auch einiges erlitten, bis er schließlich getötet wurde).
-
 
 ## Die beiden Zeugen
 
@@ -33,7 +28,6 @@ Neben Jesus und Johannes wird nur eine Person namentlich erwähnt: Antipas. Er i
 Das ganze Kapitel ist den Zeugen gewidmet. Sie sind Schlüsselfiguren, weil sie zusammen mit den Posaunen die Menschen zu Gott zurückbringen.
 
 Ihr Zeugnis ist ein Spiegelbild des Lebens Jesu — sie erlebten Schwierigkeiten bis hin zum Tod, aber auch die Auferstehung und die Himmelfahrt.
-
 
 ## Überwindet Satans
 
@@ -43,9 +37,7 @@ Satan verlor seinen Platz im Himmel durch
 - Jesu Tod am Kreuz,
 - das Zeugnis der Heiligen (die Jesus mehr als ihr Leben liebten).
 
-
 Beide Dinge werden nebeneinander genannt, als hätten sie den gleichen Einfluss!
-
 
 ## Gottes Zorn
 
@@ -54,12 +46,10 @@ In der zweiten UND dritten Schale geht es um dasselbe: Sie haben meine Zeugen ge
 
 Sie sind wichtig, und Gott sieht ihr Leiden und kümmert sich nicht um sie.
 
-
 ## Die Angst Babel’s
 
 <a name="9a0c"></a>
 Babel wird als die beschrieben, die trunken ist vom Blut der Zeugen, so viele hat sie getötet, vielleicht sogar mit ekstatischer Freude. Sie sind wichtig für Gott und gefährlich für Babel. Sie durchschauen ihren Betrug. Deshalb fürchtet Babel sie.
-
 
 ## Die Rolle des Zeugnisses
 
@@ -76,7 +66,3 @@ Der Schlüssel zum Zeugnis ist Anbetung, ein noch wesentlicheres Thema in der Of
 
 Denn wenn Menschen (selbst) so weit gehen, ist das überzeugender als jedes Reden. Denn das, was wir leben, ist das, was andere sehen. Und wenn die Leute sehen, wie wertvoll etwas ist, was wir tun — was sie jetzt miterleben — dann werden sie auch neugierig und wollen folgen.
 
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/the-power-of-testimony.de.md)

@@ -3,9 +3,7 @@ title: "Literally or symbolic"
 weight: 20
 ---
 
-
 The book of Revelation uses a lot of images that seem to be out of our world. Do we need to stretch our imaginations or are these just symbols? Well, both. Read on for a better understanding.
-
 
 ## Not an easy answer
 
@@ -13,7 +11,6 @@ The book of Revelation uses a lot of images that seem to be out of our world. Do
 There is no simple answer to whether something in the Bible is symbolic, literal, or both.
 
 Something can be symbolic, but it can also occur in reality, such as the Nile turning to blood, referring to [the symbolic killing of the Nile god, while the water actually became red like blood](https://www.bibleserver.com/NIV/Exodus7%3A14-24).The literal form becomes symbolic, so that the 12 true sons of Jacob, forming the twelve tribes chosen by God, become a symbol of being chosen.In this article we will look at how to read and interpret the book of Revelation.
-
 
 ## The scope of the book
 
@@ -26,9 +23,7 @@ We need to consider the scope of the book:
 - The spiritual context (apocalyptic): The book wants to provoke the readers to make a decision and uses harsh images to get a reaction and may use symbolic words to describe a spiritual reality that we don’t see directly.
 - The goal view (prophetic): The book is meant to encourage and motivate people to stand up against evil and asks them to look back from the fulfillment to our time, which totals 2000 years. The events described there are unlikely to describe all of history as it should apply to all generations, so it is likely that prototypes of events are molded into symbolic events.
 
-
 But let us take a closer look at the text itself.
-
 
 ## The Daniel frame
 
@@ -51,14 +46,12 @@ So what is the conclusion? The book of Revelation uses the same phrases that sur
 
 So the book seems to be primarily symbolic. But let us look at another aspect.
 
-
 ## deiknumi and semaino
 
 <a name="27d2"></a>
 No, this heading is not a typo but describes the two words that show the purpose of the book: “[The Revelation from Jesus Christ, which God gave him to show (deiknumi) his servants what must soon take place. He made it known (semaino) by sending his angel to his servant John](https://www.bibleserver.com/NIV/Revelation1%3A1)”.
 
 These two verbs should give us a good understanding of how God wanted to show and make known the contents of this book:
-
 
 ### [semaino](https://biblehub.com/greek/4591.htm)
 
@@ -69,15 +62,12 @@ This is the word we find as a parallel to the story in Daniel where it shows the
 - another time showing a potentially [symbolic prophecy](https://www.bibleserver.com/NIV/Acts11%3A28), given the [symbolic meaning of the same prophet](https://www.bibleserver.com/NIV/Acts21%3A10-11) while
 - the other three are symbolic descriptions of Jesus death on the cross in John chapters [12](https://www.bibleserver.com/NIV/John12%3A33), [18](https://www.bibleserver.com/NIV/John18%3A32) and [21](https://www.bibleserver.com/NIV/John21%3A19).
 
-
 The noun is often used to describe Jesus’ miracles as signs of his character or mission, e.g.
 
 - It shows [His power to give spiritual life](https://www.bibleserver.com/NIV/John4%3A46-54) as well as [spiritual resurrection](https://www.bibleserver.com/NIV/John5%3A19-29)
 - [The feeding of the 5000](https://www.bibleserver.com/NIV/Matthew16%3A5-12) shows Jesus’ power to give spiritual food
 
-
 The word semaino can also mean to make known or announce, but if John wanted to show this aspect, he would have used the more appropriate word gnorizo, which he did not use.
-
 
 ### [deiknumi](https://biblehub.com/greek/1166.htm)
 
@@ -91,8 +81,6 @@ This word in written in the context of a symbolic vision of an angel (“[made i
 - [The summary, which is also a reference to Daniel](https://www.bibleserver.com/NIV/Revelation22%3A6).
 - [The summary of all the things he saw and heard](https://www.bibleserver.com/NIV/Revelation22%3A8) which were [sometimes different things describing symbolically the same thing](https://www.bibleserver.com/NIV/Revelation5%3A5-6).
 
-
-
 ## Conclusion
 
 <a name="44ce"></a>
@@ -100,14 +88,7 @@ All these observations show that we should first assume the symbolic character o
 
 You will also see that the book is full of things that are obviously symbols: the lamb, the dragon, the beast with heads and horns, the book with seven seals, the sword coming out of the mouth of Jesus, …
 
-
 ## Further digging
 
 [Beale, Revelation, pages 50–69](../../../../about/ressources/index.html#beale_rev)
 
-
-
-
-
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/background/literature/expl/literally-or-symbolic.md)

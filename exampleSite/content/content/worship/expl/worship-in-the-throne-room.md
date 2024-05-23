@@ -3,16 +3,12 @@ title: "Worship in the throne room"
 weight: 2
 ---
 
-
 Worship in the throne room is the answer to the letters of the churches. Why and how is this the introduction to all the plagues that follow?
-
 
 ## You may want to read before
 
 <a name="a8e2"></a>
 - [The letter to the churches](../../../../content/letters/expl/the-letters-to-the-seven-churches)
-
-
 
 ## The background and context
 
@@ -27,7 +23,6 @@ The last verse before this chapter mentioned already the throne room of God, but
 - saints having crowns as [promise in Smyrna](https://www.bibleserver.com/NIV/Revelation2%3A10) and [reality in Philadelphia ](https://www.bibleserver.com/NIV/Revelation3%3A11)as well as in [the picture of the 24 elders](https://www.bibleserver.com/NIV/Revelation4%3A4)
 - image of an open door in the [reality in Philadelphia](https://www.bibleserver.com/NIV/Revelation3%3A8) and the [wish in Laodicea](https://www.bibleserver.com/NIV/Revelation3%3A20) as well as the [introduction to the throne room](https://www.bibleserver.com/NIV/Revelation4%3A1)
 - voice like a trumpet with rapture in the spirit [starts the vision here](https://www.bibleserver.com/NIV/Revelation4%3A1-2) but [also the vision regarding the churches](https://www.bibleserver.com/NIV/Revelation1%3A10-12)
-
 
 These relations should give a vision for the church regarding their spiritual reality but also to follow Christ’s example. The reality that is shows in this vision is part of the reality that the church should act upon.
 
@@ -48,15 +43,12 @@ These relations should give a vision for the church regarding their spiritual re
 - saints given authority to reign over a kingdom in [Daniel](https://www.bibleserver.com/NIV/Daniel7%3A18), not only [twice](https://www.bibleserver.com/NIV/Daniel7%3A22) but [three times](https://www.bibleserver.com/NIV/Daniel7%3A27) and [Revelation](https://www.bibleserver.com/NIV/Revelation5%3A10)
 - concluding mention of God’s eternal reign in [Daniel](https://www.bibleserver.com/NIV/Daniel7%3A27) and [Revelation](https://www.bibleserver.com/NIV/Revelation5%3A13-14)
 
-
 Even there are many parallels you can easily see that the order of events are different in both passages.
 
 This scene reminds on the angelic council as for
 
 - [the calling of Isaiah](https://www.bibleserver.com/NIV/Isaiah6%3A1-9) or
 - the [decision about Ahabs death](https://www.bibleserver.com/NIV/1%20Kings22%3A19-23)
-
-
 
 ## Why is worship the answer?
 
@@ -68,7 +60,6 @@ When we look at the problems in the churches, we can categorize them as follows:
 - Wrong priorities leading to meaninglessness (Ephesus)
 - Risk of giving up when circumstances are too hard (Smyrna, Philadelphia)
 
-
 For all of them, worship is the answer.
 
 - When we know the original better and better, we are less influenced by false teachings.
@@ -76,14 +67,10 @@ For all of them, worship is the answer.
 - When we find our place in relation to God, our priorities fall into place, for “If God is not first, everything else is in the wrong place.
 - When we put our trust in God and walk faithfully with Him, we are not easily shaken because we have found something unshakable.
 
-
-
 ## The throne room
 
 <a name="2a89"></a>
 John’s first impression is the glory of God, which even makes it impossible to see God directly. [When Moses asked to see God’s glory, he could not, but instead God showed him His mercy, so God’s glory can be described as His mercy](https://www.bibleserver.com/NIV/Exodus33%3A18-20). The judgments will be from the viewpoint of mercy.
-
-
 
 The second point is the [rainbow](https://www.bibleserver.com/NIV/Revelation4%3A3). [This is a reminder of the covenant with Noah, where God put his bow there as a promise never to flood the earth again and to keep the seasons — no demands on Noah in this covenant](https://www.bibleserver.com/NIV/Genesis9%3A8-11). This throws another light on the character in the throne room. There are judgments, but they are limited.
 
@@ -125,5 +112,3 @@ They are joined by the [24 elders](https://www.bibleserver.com/NIV/Revelation4%3
 
 [Beale, Revelation, pages 311–337](../../../../about/ressources/index.html#beale_rev)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/worship/expl/worship-in-the-throne-room.md)

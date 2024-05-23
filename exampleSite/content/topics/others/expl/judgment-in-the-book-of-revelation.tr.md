@@ -3,9 +3,7 @@ title: "Vahiy kitabındaki yargı"
 weight: 5
 ---
 
-
 Vahiy Kitabı yargı tasvirleriyle doludur ve tövbe etmeye ve Tanrı’ya inanmaya cesaret edemeyen tüm insanları korkutmayı amaçladığı izlenimini verebilir. Ancak bu gerçekten yanlıştır.
-
 
 ## Yargıya ilişkin bazı eksik anlayışlar
 
@@ -15,10 +13,3 @@ Vahiy Kitabı yargı tasvirleriyle doludur ve tövbe etmeye ve Tanrı’ya inanm
 - Yargılamanın tek amacı ceza vermektirHayır, yargılama sahneleri [şeytanın maskesini düşürmek](../../../../content/seals/expl/the-mystery-of-the-four-horse-men), [yanlış güvenceleri sarsmak veya](../../../../content/trumpets/expl/the-trumpets-in-revelation) net [bir karar vermeye zorlamak için kullanılır](../../../../content/bowls/expl/the-bowls-of-wrath). Elbette cezalandırma konusu da vardır, ancak düşündüğünüz şekilde değil, [cennet ve cehennem konusuna bakın](../../../../content/paradise/expl/heaven-and-hell). Ayrıca birçok durumda bunun nedeni Tanrı değil, cinler ya da şeytandır. Ayrıca Eski Ahit’te kutsamalar ve lanetler eğitici unsurlar olarak listelenmiştir: “[Eğer hala dinlemiyorsanız](https://www.bibleserver.com/TR/Levililer26)”
 - Yargı Vahiy’deki ana konudurAna konu, tanıklık/şahitlik ile eşleştirilmiş ibadettir.
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/power/short/judgment-in-the-book-of-revelation.tr.md)

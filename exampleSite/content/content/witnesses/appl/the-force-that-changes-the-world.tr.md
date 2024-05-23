@@ -3,21 +3,17 @@ title: "Dünyayı değiştiren güç"
 weight: 1
 ---
 
-
 Tüm dünyayı değiştiren ve dünyayı Tanrı’nın krallığına hazır hale getiren iki tanık vardır. Onlar kimdir ve sırları nedir?
-
 
 ## Bizim metnimiz
 
 <a name="743a"></a>
 Hızla ilerliyoruz ve [11. bölüme](https://www.bibleserver.com/TR/Vahiy11) ulaştık.
 
-
 ## Tapınak
 
 <a name="381b"></a>
 (Parşömen hakkında) anlamamız gereken ilk şey tapınaktır. Tapınak Tanrı’nın varlığının bir resmidir. Eski Antlaşma’da bu Aden bahçesi ya da bir binaydı, ama Yeni Antlaşma’da bu [İsa](https://www.bibleserver.com/TR/Yuhanna2%3A19-21) ya da [kilise](https://www.bibleserver.com/TR/1.Korintliler3%3A17) de olabilir. Eski Antlaşma’da asıl amaç kurban sunmak olsa da, [artık buna gerek yoktur](https://www.bibleserver.com/TR/%C4%B0braniler10%3A1-18). Bunun yerine Tanrı’nın istediği tapınanlardır. Tanrı’ya sadık olmalıyız. Bunun ne anlama geldiği iki tanıkla gösterilir.
-
 
 ## Tanıklar
 
@@ -33,7 +29,6 @@ Bunu kısa kesiyorum: [İki tanık kilisedir](../../../../content/witnesses/expl
 - dirilirler
 - cennete yükseltirler
 
-
 Bu İsa’nın birebir eşleşmesi değildir ancak kilise İsa’nın gittiği yoldan gitmelidir. Kilise üyelerinin zulüm görerek ölmesi gerekmez, ancak hayatımızdan bile vazgeçmeye istekli olmalıyız.
 
 Ve İsa’nın çarmıhtaki ölümü nasıl bir yenilgi gibi görünüyorsa, kilise için de öyle değildi. Canavar onları ancak tanıklıklarını tamamladıklarında yenebilir ve ölümlerinin kendisi en büyük tanıklık olacaktır ([Samson’la](https://www.bibleserver.com/TR/Hakimler16%3A30) bir paralellik bile olabilir).
@@ -41,7 +36,6 @@ Ve İsa’nın çarmıhtaki ölümü nasıl bir yenilgi gibi görünüyorsa, kil
 İki tanık Musa’yı (sudan kana) ve İlyas’ı (yağmur yok, gökten ateş) örnek almıştır. Ancak tüm belirtiler ve yetki Musa ve İlyas’ın zamanında olduğu gibi bir fark yaratmadı. Değişim onlar öldüklerinde ve Tanrı onları tekrar dirilttiğinde geldi. Onlar öldüklerinde ve Tanrı onları kutsadığında, insanların çoğu yaşamlarını gerçekten Tanrı’ya çevirdiler.
 
 Bu, Tanrı’nın tüm insanları zulümle öldüklerinde dirilteceği ve onları cennete yükselteceği anlamına mı gelir? Bu resme biraz daha geniş açıdan bakmamız gerekir. Bir söz vardır: Şehitlerin kanı kilisenin tohumudur. Tanıklık etmek için yaşamlarımızı korumamız gerekmez. Biz gitsek bile kilise devam edecektir. Zamanı geldiğinde Tanrı bizi çağıracaktır.
-
 
 ### Yansıma
 
@@ -59,11 +53,7 @@ Bu, Tanrı’nın tüm insanları zulümle öldüklerinde dirilteceği ve onlar�
 - Sizin için kendi yaşamınızdan daha önemli olan nedir?
 - Sizce kilisenin dünyayı değiştirme potansiyeli var mı?
 
-
-
-
 [Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
-
 
 ## Daha derine inmek
 
@@ -72,10 +62,3 @@ Bu, Tanrı’nın tüm insanları zulümle öldüklerinde dirilteceği ve onlar�
 - [Tanıklığın gücü](../../../../topics/power/short/the-power-of-testimony)
 - [İki tanık](../../../../content/witnesses/expl/the-two-witnesses)
 
-
-
-
-
-
-
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/witnesses/appl/the-force-that-changes-the-world.tr.md)

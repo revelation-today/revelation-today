@@ -3,15 +3,12 @@ title: "Jesus und der Fall Satans"
 weight: 1
 ---
 
-
 Wir erreichen ein weiteres Kapitel voller seltsamer Bilder und Ereignisse. Aber die Geschichte ist sehr einfach und sehr bekannt.
-
 
 ## Unser Text
 
 <a name="0c4a"></a>
 Wir sind nun in [Kapitel 12](https://www.bibleserver.com/SLT/Offenbarung12).
-
 
 ## Es ist Weihnachten
 
@@ -27,7 +24,6 @@ Satan wird hier als der große Verlierer dargestellt.
 - Er kann die Frau (Israel) nicht zerstören.
 - Er versucht auch, den Samen des Kindes zu vernichten (die Gemeinde), aber auch das gelingt ihm nicht.
 
-
 Aber ist das wirklich die Realität? Satan sieht nicht wirklich besiegt aus. Er scheint die Erde immer noch völlig unter Kontrolle zu haben und die Gemeinde ist in der Defensive.
 
 Aber dieser scheinbare Widerspruch wird hier erklärt. Satan richtet so viel Zerstörung an, WEIL er weiß, dass er besiegt ist. Er hat nichts mehr zu verlieren. Und je mehr er seinen Zorn zeigt, desto deutlicher wird das.
@@ -38,14 +34,12 @@ In diesem Kapitel und auch im Kapitel davor und danach gibt es merkwürdige Zeit
 
 Wir haben also die beiden Zeugen, die in Vollmacht handeln und auf der anderen Seite Satan regieren. Beides geschieht parallel, da das Überwinden der Gemeinde etwas anderes ist als das Überwinden Satans. Er will seine Feinde vernichten, während die Gemeinde ihre Feinde wiederherstellen und in Beziehung zu Gott bringen will, auch wenn das bedeutet, dass die Gemeinde leidet und als Verlierer erscheint.
 
-
 ## So was heißt das für uns?
 
 <a name="7f36"></a>
 Wir sehen uns oft als Sieger oder als Besiegte (vielleicht weil wir nicht genug geglaubt haben). Aber das ist nicht wahr. Die Weihnachtsgeschichte hier zeigt uns den Unterschied zwischen dem, wie eine Situation aussieht, und dem, wie sie endet.
 
 Wir können uns schwach und hilflos fühlen (und diese Gefühle sind in Ordnung, auch Jesus hat geweint), aber wir sollten uns nicht verzweifeln lassen, solange wir Jesus treu sind. Und wenn wir vom Weg abgekommen sind, können wir jederzeit zu ihm zurückkehren.
-
 
 ### Reflektion
 
@@ -54,12 +48,6 @@ Wir können uns schwach und hilflos fühlen (und diese Gefühle sind in Ordnung,
 - Kennst du ähnliche Geschichten aus der Bibel, in denen die Schwachen siegen?
 - Was bedeutet es für dich, wenn du siehst, wie Satan aus dem Himmel geworfen wird, aber so viel Unheil wie möglich anrichtet, weil er so wenig Zeit hat? Wie beeinflusst das dein Leben als Christ?
 - Kannst du Satan als den ständigen Verlierer in der Welt um dich herum sehen?
-
-
-
-
-
-
 
 ## Zur Vertiefung
 
@@ -70,8 +58,3 @@ Wir können uns schwach und hilflos fühlen (und diese Gefühle sind in Ordnung,
 - [Die 3,5 Jahre](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
 - [Weihnachten in der Offenbarung](../../../../content/jesus/expl/a-different-christmas-story)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/jesus/appl/jesus-and-the-fall-of-the-devil.de.md)

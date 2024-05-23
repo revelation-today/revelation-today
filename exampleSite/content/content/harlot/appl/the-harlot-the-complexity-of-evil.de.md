@@ -3,15 +3,12 @@ title: "Die Hure: Die Komplexität des Bösen"
 weight: 1
 ---
 
-
 Die Hure der Offenbarung ist schwer zu fassen und zeigt die Komplexität des Bösen auf Erden. Aber mit ein wenig Geduld können wir uns einen Überblick verschaffen.
-
 
 ## Unser Text
 
 <a name="2f15"></a>
 Wir schauen diesmal [Kapitel 17](https://www.bibleserver.com/SLT/Offenbarung17), [18](https://www.bibleserver.com/SLT/Offenbarung18) und [19](https://www.bibleserver.com/SLT/Offenbarung19) an.
-
 
 ## Wer ist die Hure?
 
@@ -28,7 +25,6 @@ Die Hure selbst ist das Gegenstück zur Braut Christi (“der Gemeinde”) und r
 
 Die Hure beeinflusst die Machthaber dieser Welt und verspricht ihnen Wohlstand (also Vorsicht, wenn das dein Hauptziel als Christ ist).
 
-
 ## Der Einfluss und das Gericht über die Hure
 
 <a name="c64e"></a>
@@ -38,14 +34,12 @@ Die Täuschung, die “perfekte” Gemeinde zu sein (der Fokus liegt auf Segen u
 
 Die Hure ist stolz und hält sich für unantastbar, darum kommt ihr Gericht schnell, wie das historische Babel. Babel wird mit “doppeltem” Maß gerichtet, d.h. so, wie sie anderen Unrecht getan hat.
 
-
 ## Und jetzt?
 
 <a name="6092"></a>
 Nachdem die Hure gerichtet wurde, ist die Braut bereit für die Hochzeit mit dem Lamm. Die Gemeinde ist bereit, ihren Bräutigam zu sehen. Aber bevor das geschieht, muss Jesus noch Gericht halten über den Rest der “falschen Dreieinigkeit” Satans.
 
 Er kommt mit dem Schwert seines Mundes und bringt das Gericht ganz allein (die Engel sind nur da, um Satan und den falschen Propheten gefangen zu nehmen). Das Ganze gleicht eher einem Gerichtssaal als einem Schlachtfeld, und alle sind schuldig.
-
 
 ### Reflektion
 
@@ -56,12 +50,6 @@ Er kommt mit dem Schwert seines Mundes und bringt das Gericht ganz allein (die E
 - Welche Denkweise von heute spiegelt die Denkweise der Hure wider?
 - Worüber würdest du trauern, wenn Babel fallen würde?
 
-
-
-
-
-
-
 ## Zur Vertiefung
 
 <a name="e2a7"></a>
@@ -70,8 +58,3 @@ Er kommt mit dem Schwert seines Mundes und bringt das Gericht ganz allein (die E
 - [Die Hure als Satire der damaligen Zeit](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
 - [Der Charakter und das Schicksal der Hure](../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
-
-
-
-
-[Änderungen vorschlagen](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/harlot/appl/the-harlot-the-complexity-of-evil.de.md)

@@ -3,9 +3,7 @@ title: "The letter to the church in Laodicea"
 weight: 7
 ---
 
-
 Well this is the [most preached letter of the churches](https://www.bibleserver.com/NIV/Revelation3%3A14-22), and so we all know about the problem of being lukewarm. But do you really know what it means in this context? Especially when this is the only church that gets no praise at all, not even a little!
-
 
 ## The historical background
 
@@ -16,19 +14,15 @@ Laodicea was at the crossroads of several trade routes and was a very wealthy ci
 - had sheep farming that gave them fine and valuable black wool,
 - were a medical center known for eye ointments.
 
-
-
 ## Jesus’s view
 
 <a name="6bbf"></a>
 Jesus comes to this church as the “True Witness” and the “Amen” because Laodicea is counterfeit. Their main problem is lack of self-awareness. They think they are “God’s gift to the world,” but in fact they are [failing exactly in the very ways they think they are good](https://www.bibleserver.com/NIV/Revelation3%3A17).
 
-
 ## The Problem
 
 <a name="d6b2"></a>
 So Jesus approaches them at eye level. He comes as a merchant and offers them free goods. The same goods they think they already have the best version of. They have the idea that living a “good” life is enough to be a great church (no big sins, tithing, reading the Bible, ...).
-
 
 The problem is that they are lukewarm. Let me explain this a little bit: It does not refer to being on fire for Jesus or being a hardcore atheist, but it actually has to do with water.
 
@@ -54,5 +48,3 @@ Now wait a minute: No one sits in the throne room, everyone stands!So what does 
 
 [Gordon Fee, Revelation, pages 57](../../../../../about/ressources/index.html#fee_rev)
 
-
-[Değişiklik önerin](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/content/letters/expl/details/the-letter-to-the-church-in-laodicea.md)

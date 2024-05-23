@@ -3,9 +3,7 @@ title: "Kıyamet"
 weight: 3
 ---
 
-
 Kıyamet çok etkileyici bir konudur ve birçok insanın hayal gücüne ilham vermiş ve daha da fazla insanı korkutmuştur. Peki ama kıyamet nedir? Kutsal Kitap’a uygun mudur? Ve inananlar için ne anlama geliyor?
-
 
 ## Giriş
 
@@ -16,7 +14,6 @@ Bazı insanlar Kutsal Kitap’ın en açık ifadesi olduğu için kendinden geç
 
 Ama şimdi bu bölümlere bir göz atalım. Bu sadece tartışmanın nerede yanlış yapıldığını göstermekle kalmayacak, aynı zamanda Kutsal Kitap’ı okurken aynı hatalardan kaçınmak için de yardımcı olabilir.
 
-
 ## Açık bir pasaj
 
 <a name="89dd"></a>
@@ -24,18 +21,15 @@ Ama şimdi bu bölümlere bir göz atalım. Bu sadece tartışmanın nerede yanl
 
 Bu, göğe alınmayı “kanıtlayan” en ünlü pasajdır, ancak daha yakından bakalım. Bu pasajda kendinden geçme için bir argüman gibi görünen şeyler kalın harflerle, ancak bu argümanın neleri içermediği italik harflerle gösterilmektedir.
 
-
 ### Genel bağlam
 
 <a name="71dd"></a>
 Bölümde diriliş konusundan bahsedilmektedir. Konu budur ve “yakalanmak” sadece bir ifadede geçer. Kilisedeki insanlar İsa geri döndüğünde, ölen insanların İsa’yla birlikte olmayacağından endişe ediyorlardı. Bu nedenle bu bölümde İsa geldiğinde hepimizin Mesih’le birlikte olacağı, önce ölülerin dirileceği, sonra da bizim dirileceğimiz anlatılmaktadır.
 
-
 ### Yorumun metnin üzerine bastırılması
 
 <a name="f7cf"></a>
 Herkesin bir görüşü ya da teolojisi vardır ve Kutsal Kitap’ı okuduğumuzda bu görüşü Kutsal Kitap’a uygularız ve metni bu gözlükle okuruz. Metinde, hayatta olan imanlıların İsa’yla havada buluşacakları belirtilir, ancak onları cennete geri götüreceğine dair bir ifade yoktur. İlk argüman dikkate alındığında (ölülerin dirilişiyle birlikte gerçekleşir), [Yeni Yeruşalim’in yeryüzüne inmesinden hemen önce](https://www.bibleserver.com/TR/Vahiy21%3A2) açıklanan [son yargı noktasındayız](https://www.bibleserver.com/TR/Vahiy20%3A13), bu nedenle İsa onları almaya gelmiyordu ama onun hedefi yeryüzüydü.
-
 
 ### Kayıp anahtar kelimeler
 
@@ -59,16 +53,13 @@ Ve orada “[harpazo](https://biblehub.com/greek/726.htm)” sözcüğünü bulu
 - [inananlar ateşten kurtulur](https://www.bibleserver.com/TR/Yahuda23)
 - [çocuk ejderhadan kurtarılır](https://www.bibleserver.com/TR/Vahiy12%3A5)
 
-
 Anlamları çok farklı olsa da, ortak bir noktaları vardır: nesnenin istemsiz bir eylemidir (kurtarılmış, elinden alınmış, çalınmış, kendinden geçmiş, …) ve cennete fiziksel bir terfiye atıfta bulunmaz.
 
 Ancak eylemi tanımlayan kelime [apensis](https://biblehub.com/greek/529.htm) olup, sadece iki yerde daha kullanılmaktadır: [damadın gelişinde](https://www.bibleserver.com/TR/Matta25%3A6) ve [Pavlus Roma’da karşılandığında](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri28%3A15). Her iki durumda da insanlar dışarı çıkıp kişiyi selamlamış ve geldikleri yoldan onları takip etmişlerdir. [Ayrıca sözcüğün açıklaması](https://biblehub.com/greek/529.htm), bunun önemli bir kişiyi şehrin dışında karşılamanın ve ona içeride rehberlik etmenin işareti olduğunu göstermektedir. Yani İsa’nın yolu açıkça yeryüzüne iner ve tekrar yukarı çıkmaz.
 
 - “Destekleyici kanıt”: Bu resim ya da karşılaştırma Kutsal Kitap’ta bir daha asla kullanılmaz. Göğe alınmayı desteklemek için farklı resimlere gönderme yapan başka pasajlar kullanılır. Bu nedenle, bir daha tekrarlanmayan bir pasajdan bir teoloji türetiyorsanız, özellikle de ifade kısa ve içerik farklı bir şeyden bahsediyorsa, dikkatli olun.
 
-
 Öğrendiğimiz gibi, bu pasaj kendinden geçmenin tam tersini göstermektedir: İsa krallığıyla birlikte iniyor.
-
 
 ## Arkada bırakılanlar
 
@@ -80,8 +71,6 @@ Ayrıca bu pasaj kendinden geçmeyi savunmak için de kullanılır: Biri kendind
 - “Varsayımlar”: Götürülme iyi bir şey, geride bırakılma ise kötü bir şeydir, ancak ilgili sözcükler bunu yansıtmaz,[ örneğin şeytan İsa’yı ayartıldıktan sonra terk etmiştir](https://www.bibleserver.com/TR/Matta4%3A11). Burada oğlun gelişi Nuh zamanındaki tufanla karşılaştırılmaktadır. Tufanla birlikte anılan “götürülmek” sözcüğü “yargı için götürülmek” anlamına gelir. İnsanoğlu’nun gelişi de bu şekilde olacaktır. Dolayısıyla bu bağlamda götürülmenin şu anlama gelmesi muhtemeldir: Bu kötü adamlar içindir, iyiler geride kalır!!!Ve nereye doğru götürüldüklerinden söz edilmemektedir. Bu, Roma İmparatorluğu’ndaki gizli polisin imanlıları inançlarından dolayı yakalamasının resmi olabilir.
 - “Bağlam”: Hikâye ne hakkında? Alınan ve bırakılan insanların özel kaderinin ne olduğu çok belirsizdir (Matta kelimelerin belirsizliğini kasıtlı olarak kullanıyor bile olabilir). Önemli olan, bir [önceki ayette ](https://www.bibleserver.com/TR/Matta24%3A36)söylendiği gibi hazır olmamız gerektiğidir, çünkü ayrım işimizin ortasında olabilir (hazırlanmak için zaman yok)
 
-
-
 ## Zeytin ağacına bakış açısı
 
 <a name="e1d2"></a>
@@ -91,7 +80,6 @@ Burada değinilen konular, 66–73 yıllarındaki Yahudi savaşının tüm travm
 
 [Zeytin ağacı benzetmesinin](https://www.bibleserver.com/TR/Matta24%3A32) 1948'de İsrail’in kuruluşuyla ilgili olaylar olarak yorumlanması çok ileri bir yorumdur ve Kutsal Kitap’ta başka bir desteği yoktur. Bu kıssa yeni İsrail devletine işaret etmemektedir, [ancak Yeni Ahit’te İsrail’e yapılan diğer birçok atıf gibi kilise için bir resimdir.](../../../../background/israel/expl/the-church-is-part-of-israel)
 
-
 ## Bizim için bir yer
 
 <a name="3ebd"></a>
@@ -100,7 +88,6 @@ Burada değinilen konular, 66–73 yıllarındaki Yahudi savaşının tüm travm
 Bu pasajın kendinden geçişle nasıl bir ilişkisi olabilir? Bu yerlerin imanlıların sıkıntı sırasında kalacakları yerler olduğu varsayılır.
 
 Şimdi bu sözcüğe tekrar bir göz atalım: [Mone](https://biblehub.com/greek/3438.htm). [Bu sözcük Yuhanna’da sadece bir kez daha kullanılır (aynı bölümde!) ve burada Tanrı’nın içimizdeki konutuna atıfta bulunur](https://www.bibleserver.com/TR/Yuhanna14%3A23). Bu, “imanlıların Mesih’te, Mesih’in de imanlılarda kalıcı bir yeri olduğu” resmini verir. Bu bağlamda yer, evden çok ev anlamına gelir, yani Tanrı’nın ailesine aittir.
-
 
 ## Kıyamet gerçekleştiğinde
 
@@ -115,15 +102,12 @@ Bu, onun sürekli olarak orada bulunmasından söz etmez, tüm kiliseden de söz
 
 Daha ziyade [Yeşaya](https://www.bibleserver.com/TR/Ye%C5%9Faya6%3A1-13) ya da [Krallar Kitabı’nda](https://www.bibleserver.com/TR/1.Krallar22%3A19-23) olduğu gibi Eski Ahit’teki göksel konsey tanımına atıfta bulunur.
 
-
 ## Sonuç
 
 <a name="bfec"></a>
 Göğe alınma argümanı, farklı durumları tanımlayan, yanlış bir şekilde kırmızıya boyanmış ve anahtar kelimelerin anlamları göz ardı edilerek bağlamından koparılmış pasajlara atıfta bulunmaktadır. Göğe alınma için Kutsal Kitap’ta hiçbir kanıt yoktur.
 
-
 ### Daha fazla kazma
 
 [Barabara Rossing, The rapture exposed, sayfalar 173-186](../../../../about/ressources/index.html#rossing)
 
-[](https://github.com/revelation-today/revelation-today/blob/main/exampleSite/content/docs/topics/others/expl/the-rapture.tr.md)
