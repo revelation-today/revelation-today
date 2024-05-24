@@ -3,12 +3,16 @@ title: "Der Aufbau der Offenbarung"
 weight: 10
 readBefore:
     - name: Historischer Hintergrund des Buches
-      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+      link: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
     - name: Was ist das für ein Buch
-      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+      link: /background/literature/expl/the-book-of-revelation-how-to-read-it
 sources:
     - pages: 108–170
       ref: beale_rev
+prev: /background/literature/expl/literary-tools-in-the-book-of-revelation
+next: /background/structure/expl/the-three-mysteries
+docType: expl
+appl: /background/structure/appl/the-timeline-in-the-book-of-revelation
 ---
 
 Auf den ersten Blick wirkt das Buch Offenbarung sehr unorganisiert. Eine Katastrophe folgt auf die andere und dann geht es wieder von vorne los. Aber wenn wir genauer hinsehen, erkennen wir eine ausgeklügelte Struktur und ein umfassendes Arrangement.

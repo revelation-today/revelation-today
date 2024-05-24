@@ -1,9 +1,13 @@
 ---
 title: "The book with the seven seals"
 weight: 2
+prev:  /content/worship/expl/worship-in-the-throne-room
+next: /content/seals/expl/the-mystery-of-the-four-horse-men
+docType: expl
+appl: /content/seals/appl/the-paradox-of-the-seven-seals
 deeper:
     - name: The four horsemen
-      link: ../../../../content/seals/expl/the-mystery-of-the-four-horse-men
+      link: /content/seals/expl/the-mystery-of-the-four-horse-men
 sources: 
     - pages: 337–369
       ref: beale_rev

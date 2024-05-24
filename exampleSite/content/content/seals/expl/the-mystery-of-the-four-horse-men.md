@@ -1,11 +1,15 @@
 ---
 title: "The mystery of the four horse men"
 weight: 3
+prev:  /content/seals/expl/the-book-with-the-seven-seals
+next: /content/seals/expl/the-wrath-of-the-lamb
+docType: expl
+appl: /content/seals/appl/the-paradox-of-the-seven-seals
 deeper:
     - name: "The 144 000"
-      link: ../../../../content/army/expl/the-144000
+      link: /content/army/expl/the-144000
     - name: The trumpets
-      link: ../../../../content/trumpets/expl/the-trumpets-in-revelation
+      link: /content/trumpets/expl/the-trumpets-in-revelation
 sources: 
     - pages: 370–395
       ref: beale_rev

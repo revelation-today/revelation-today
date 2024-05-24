@@ -1,13 +1,17 @@
 ---
 title: "Vahiy kitabındaki canavarın doğası"
-weight: 5
+weight: 1
+prev:  /content/jesus/expl/a-different-christmas-story
+next: /content/beasts/expl/the-beasts-and-the-666-in-historical-context
+docType: expl
+appl: /content/beasts/appl/the-perfect-gospel
 deeper:
     - name: Tarihsel bağlamda canavarlar
-      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+      link: /content/beasts/expl/the-beasts-and-the-666-in-historical-context
     - name: 666 sayısı
-      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+      link: /content/beasts/expl/666-the-number-of-the-beast
     - name: 3,5 yıl
-      link: ../../../../bible/daniel/expl/the-secret-of-the-3-5-years
+      link: /bible/daniel/expl/the-secret-of-the-3-5-years
 sources: 
     - pages: 681–730
       ref: beale_rev

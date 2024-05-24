@@ -3,12 +3,15 @@ title: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
 weight: 2
 deeper:
     - name: Was für ein Buch ist das?
-      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+      link: /background/literature/expl/the-book-of-revelation-how-to-read-it
     - name: Struktur des Buches
-      link: ../../../../background/structure/expl/the-structure-of-the-book-of-revelation
+      link: /background/structure/expl/the-structure-of-the-book-of-revelation
 sources:
     - pages: 28–33
       ref: beale_rev
+next: /background/literature/expl/the-book-of-revelation-how-to-read-it
+docType: expl
+appl: /background/history/appl/some-things-never-change
 ---
 
 Du magst denken, dass die Offenbarung in der Bibel oder der römische Friede im alten Rom nichts mit unserer Zeit zu tun haben. Aber du irrst dich, und ich will dir sagen, warum.

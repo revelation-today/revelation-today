@@ -3,12 +3,16 @@ title: "Kiliselerin melekleri"
 weight: 4
 deeper:
     - name: Kiliseler için mektup
-      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+      link: /content/letters/expl/the-letters-to-the-seven-churches
     - name: Bir kahraman nedir
-      link: ../../../../topics/hero/short/a-real-hero
+      link: /topics/hero/short/a-real-hero
 sources: 
     - pages: 108–112
       ref: aune_rev
+prev: /content/vision/expl/the-vision
+next: /content/letters/expl/the-letters-to-the-churches
+docType: expl
+appl: /content/letters/appl/the-challenges
 ---
 
 İncil’in Vahiy kitabında tekrarlanan bir ifade vardır: Kilisenin meleğine yaz. Kiliselerin koruyucu melekleri var mı? Kiliselerin önderleri melek midir? Peki, daha derin bir bakış atalım

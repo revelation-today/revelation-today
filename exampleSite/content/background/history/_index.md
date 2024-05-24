@@ -2,6 +2,8 @@
 linkTitle: History
 title: Historical background
 weight: 1
+prev: /gen/overview
+next: /background/literature
 ---
 
 The main challenges for the Christians were

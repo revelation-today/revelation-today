@@ -1,6 +1,10 @@
 ---
 title: "The end time and the great tribulation"
 weight: 3
+prev:  /content/army/expl/the-144000
+next: /content/trumpets/expl/the-trumpets-in-revelation
+docType: expl
+appl: /content/army/appl/the-strange-army
 sources:
     - pages: 433–445
       ref: beale_rev

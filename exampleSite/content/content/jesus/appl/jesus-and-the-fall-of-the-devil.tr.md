@@ -3,15 +3,19 @@ title: "İsa ve şeytanın düşüşü"
 weight: 1
 deeper:
     - name: Daniel’de Genel Bakış
-      link: ../../../../bible/daniel/expl/the-book-of-daniel
+      link: /bible/daniel/expl/the-book-of-daniel
     - name: Dört Krallık
-      link: ../../../../bible/daniel/expl/the-four-kingdoms-in-daniel
+      link: /bible/daniel/expl/the-four-kingdoms-in-daniel
     - name: 70 yıl
-      link: ../../../../bible/daniel/expl/the-70-year-weeks
+      link: /bible/daniel/expl/the-70-year-weeks
     - name: "3,5 yıl"
-      link: ../../../../bible/daniel/expl/the-secret-of-the-3-5-years
+      link: /bible/daniel/expl/the-secret-of-the-3-5-years
     - name: İsa doğdu
-      link: ../../../../content/jesus/expl/a-different-christmas-story
+      link: /content/jesus/expl/a-different-christmas-story
+prev: /content/witnesses/appl/the-force-that-changes-the-world
+next: /content/beasts/appl/the-perfect-gospel
+docType: appl
+expl: /content/jesus/expl/a-different-christmas-story
 ---
 
 Şimdi garip resimler ve olaylarla dolu bir bölüme geliyoruz. Ancak hikaye çok basit ve siz bunu çok iyi biliyorsunuz.

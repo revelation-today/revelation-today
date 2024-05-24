@@ -3,7 +3,11 @@ title: "1000 years of Paradise?"
 weight: 1
 deeper: 
     - name: The 1000 year kingdom
-    - link: ../../../../content/1000y/expl/the-thousand-year-kingdom
+    - link: /content/1000y/expl/the-thousand-year-kingdom
+prev: /content/harlot/appl/the-harlot-the-complexity-of-evil
+next: /content/paradise/appl/what-is-heaven-and-hell-about
+docType: appl
+expl: /content/1000y/expl/the-thousand-year-kingdom
 ---
 
 The millennial kingdom is often described as a perfect world where the good rule and the evil is bound, and it happens before the new heaven and the new earth are in place. But is this the case?

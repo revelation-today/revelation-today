@@ -3,17 +3,21 @@ title: "Gebet und das Unerschütterliche"
 weight: 1
 deeper:
     - name: Die Kraft des Gebets
-      link: ../../../../topics/power/short/the-key-of-prayer
+      link: /topics/power/short/the-key-of-prayer
     - name: Die Vorgeschichte des Auszugs aus Ägypten
-      link: ../../../../bible/exodus/expl/the-story-before-the-exodus
+      link: /bible/exodus/expl/the-story-before-the-exodus
     - name: Die Geburt von Mose
-      link: ../../../../bible/exodus/expl/the-birth-of-moses
+      link: /bible/exodus/expl/the-birth-of-moses
     - name: Die Verhärtung des Herzens des Pharao
-      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+      link: /bible/exodus/expl/the-hardening-of-pharaohs-heart
     - name: Die Plagen in Ägypten
-      link: ../../../../bible/exodus/expl/the-plagues-in-egypt
+      link: /bible/exodus/expl/the-plagues-in-egypt
     - name: Die sieben Posaunen
-      link: ../../../../content/trumpets/expl/the-trumpets-in-revelation
+      link: /content/trumpets/expl/the-trumpets-in-revelation
+prev: /content/army/appl/the-strange-army
+next: /content/scroll/appl/a-little-scroll-with-big-impact
+docType: appl
+expl: /content/trumpets/expl/the-trumpets-in-revelation
 ---
 
 Die Posaunen haben viele dazu inspiriert, Endzeitszenarien mit weltweiten Katastrophen und großen militärischen Aktionen anzunehmen. Wir werden jedoch sehen, dass dies eine Lektion über das Gebet und den Umgang mit Schwierigkeiten ist.

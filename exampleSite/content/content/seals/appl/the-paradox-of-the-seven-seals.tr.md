@@ -3,15 +3,19 @@ title: "Yedi mühür paradoksu"
 weight: 1
 deeper:
     - name: Gerçek bir kahraman
-      link: ../../../../topics/hero/short/a-real-hero
+      link: /topics/hero/short/a-real-hero
     - name: Dünyayı kim yönetiyor?
-      link: ../../../../topics/hero/short/who-rules-the-world
+      link: /topics/hero/short/who-rules-the-world
     - name: Yedi mühürlü kitap
-      link: ../../../../content/seals/expl/the-book-with-the-seven-seals
+      link: /content/seals/expl/the-book-with-the-seven-seals
     - name: Dört atlının gizemi
-      link: ../../../../content/seals/expl/the-mystery-of-the-four-horse-men
+      link: /content/seals/expl/the-mystery-of-the-four-horse-men
     - name: Kuzunun gazabı
-      link: ../../../../content/seals/expl/the-wrath-of-the-lamb
+      link: /content/seals/expl/the-wrath-of-the-lamb
+prev: /content/worship/appl/the-answer-to-all-questions
+next: /content/army/appl/the-strange-army
+docType: appl
+expl: /content/seals/expl/the-book-with-the-seven-seals
 ---
 
 Yedi mühür, kitabın gerçekten kafa karıştırıcı ve hatta rahatsız edici göründüğü zamandır. Bütün bunlar ne hakkında? Yedi mühürlü kitapta ne var ve bu atlılar kim?

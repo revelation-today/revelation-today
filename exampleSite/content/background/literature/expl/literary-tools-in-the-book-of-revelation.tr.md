@@ -6,6 +6,10 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
+prev: /background/literature/expl/full-of-biblical-references
+next: /background/structure/expl/the-structure-of-the-book-of-revelation
+docType: expl
+appl: /background/literature/appl/what-are-we-reading
 ---
 
 İlk dinleyiciler Vahiy Kitabı’nı nasıl yeniden okudular? Başlık ya da paragraf yoktu, sadece düz metin vardı. Gelin bu çok farklı okuma biçimine bir göz atalım.

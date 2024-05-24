@@ -1,5 +1,8 @@
 ---
 title: "A real hero"
+prev: /content/paradise/appl/what-is-heaven-and-hell-about
+next: /topics/hero/short/who-rules-the-world
+docType: appl
 ---
 
 What is a hero? Usually a person of destruction. What should a hero be? What does the Bible say about it?

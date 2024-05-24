@@ -1,6 +1,10 @@
 ---
 title: "Jesus and the covenant"
 weight: 5
+prev: /background/israel/expl/the-remnant-of-israel
+next: /background/israel/expl/the-second-exodus
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 When Jesus came to earth, He “surprised” people with His message and His behavior, which was truly shocking to the Jews. Why and what does this have to do with the covenant?

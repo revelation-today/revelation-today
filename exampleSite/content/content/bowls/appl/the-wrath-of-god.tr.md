@@ -3,11 +3,15 @@ title: "Tanrı’nın gazabı"
 weight: 1
 deeper:
     - name: Gazap kaseleri
-      link: ../../../../content/bowls/expl/the-bowls-of-wrath
+      link: /content/bowls/expl/the-bowls-of-wrath
     - name: Armageddon’un anlamı
-      link: ../../../../content/bowls/expl/the-key-to-armageddon
+      link: /content/bowls/expl/the-key-to-armageddon
     - name: Armageddon ve Karkamış Savaşı
-      link: ../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish
+      link: /content/bowls/expl/armageddon-and-the-battle-of-karkemish
+prev: /content/harvest/appl/the-weapons-of-the-church
+next: /content/harlot/appl/the-harlot-the-complexity-of-evil
+docType: appl
+expl: /content/bowls/expl/the-bowls-of-wrath
 ---
 
 Bu iş sonunda ciddileşiyor.

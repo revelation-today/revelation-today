@@ -3,13 +3,17 @@ title: "Das perfekte Evangelium"
 weight: 1
 deeper:
     - name: Die beiden Tiere
-      link: ../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+      link: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
     - name: Die Zahl des Tieres
-      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+      link: /content/beasts/expl/666-the-number-of-the-beast
     - name: Die beiden Tiere im historischen Kontext
-      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+      link: /content/beasts/expl/the-beasts-and-the-666-in-historical-context
     - name: Die Natur der beiden Tiere
-      link: ../../../../content/beasts/expl/the-nature-of-the-beast
+      link: /content/beasts/expl/the-nature-of-the-beast
+prev: /content/jesus/appl/jesus-and-the-fall-of-the-devil
+next: /content/harvest/appl/the-weapons-of-the-church
+docType: appl
+expl: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
 ---
 
 Dieses Kapitel sieht aus wie zwei Ungeheuer, die Zerstörung anrichten, aber es ist eines der tiefsten Kapitel der Offenbarung.

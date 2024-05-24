@@ -3,9 +3,13 @@ title: "Garip ordu"
 weight: 1
 deeper:
     - name: 144.000
-      link: ../../../../content/army/expl/the-144000
+      link: /content/army/expl/the-144000
     - name: Büyük sıkıntı
-      link: ../../../../content/army/expl/the-end-time-and-the-great-tribulation
+      link: /content/army/expl/the-end-time-and-the-great-tribulation
+prev: /content/seals/appl/the-paradox-of-the-seven-seals
+next: /content/trumpets/appl/prayer-and-the-unshakeable
+docType: appl
+expl: /content/army/expl/the-end-time-and-the-great-tribulation
 ---
 
 144.000 birçok kişinin duyduğu bir ifadedir. Onlar kimlerdir? Ve neden sayılmışlardır? Amaçları nedir?

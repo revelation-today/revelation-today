@@ -6,6 +6,10 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
+prev: /background/literature/expl/full-of-biblical-references
+next: /background/structure/expl/the-structure-of-the-book-of-revelation
+docType: expl
+appl: /background/literature/appl/what-are-we-reading
 ---
 
 How did the original audience read the book of Revelation? There were no headings or paragraphs, just plain text. Let us take a look at this very different way of reading.

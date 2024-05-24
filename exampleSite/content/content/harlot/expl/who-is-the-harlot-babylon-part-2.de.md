@@ -1,9 +1,13 @@
 ---
 title: "Wer ist die Hure Babel: Teil 2"
 weight: 3
+prev:  /content/harlot/expl/who-is-the-harlot-babylon-part-1
+next: /content/harlot/expl/the-character-and-destiny-of-the-harlot
+docType: expl
+appl: /content/harlot/appl/the-harlot-the-complexity-of-evil
 deeper:
     - name: Babel als Spottlied auf das Römische Reich
-      link: ../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+      link: /content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 sources: 
     - pages: 847–890
       ref: beale_rev
@@ -88,13 +92,3 @@ Für die Gemeinschaft ist es eine Versuchung
 - wenn sie verfolgt wird oder 
 - wenn sie arm ist und reich werden will oder 
 - wenn sie menschliche Anerkennung sucht.
-
-## Zum Weiterlesen
-
-<a name="296c"></a>
-- [Babel als Spottlied auf das Römische Reich](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
-
-## Zur Vertiefung
-
-[Beale, Revelation, Seiten 847–890](../../../../about/ressources/index.html#beale_rev)
-

@@ -1,6 +1,10 @@
 ---
 title: "Cennet ve Cehennem"
 weight: 3
+prev:  /content/paradise/expl/the-new-jerusalem
+next: /topics/others/expl/dispensionalism-a-little-history
+docType: expl
+appl: /content/paradise/appl/what-is-heaven-and-hell-about
 ---
 
 Cennet ve cehennem nedir? Bütün insanlar cennete gider mi? İyi bir Tanrı insanları nasıl cehenneme gönderebilir?

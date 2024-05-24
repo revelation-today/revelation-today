@@ -1,6 +1,10 @@
 ---
 title: "Yeni Kudüs"
 weight: 2
+prev:  /content/1000y/expl/the-thousand-year-kingdom
+next: /content/paradise/expl/heaven-and-hell
+docType: expl
+appl: /content/paradise/appl/what-is-heaven-and-hell-about
 sources: 
     - pages: 1039–1121
       ref: beale_rev

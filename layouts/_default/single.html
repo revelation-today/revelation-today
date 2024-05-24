@@ -4,6 +4,9 @@
 {{- $readBefore := (T "readBefore") | default "Read Before"}}
 {{- $pages := (T "pages") | default "pages"}}
 {{- $page := (T "page") | default "page"}}
+{{- $explanation := (T "explanation") | default "Explanation"}}
+{{- $application := (T "application") | default "Application"}}
+
 {{- $sourceLink := dict 
     "beale_rev" "G.K. Beale, Revelation" 
     "backham_rev" "Richard Bauckham: The theology of the book of Revelation" 
@@ -29,12 +32,20 @@
     <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
         <br class="hx-mt-1.5 hx-text-sm" />
-        <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ .Title }}</h1>
+        {{- if not .Params.docType -}}
+            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ .Title }}</h1>
+        {{- else if eq .Params.docType "appl" -}}
+            {{- $heart := htmlUnescape "&#10084;" -}}
+            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $heart .Title $heart }}</h1>
+        {{- else if eq .Params.docType "expl" -}}
+            {{- $heart := htmlUnescape "&#9829;" -}}
+            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $heart .Title $heart }}</h1>
+        {{- end -}}
         <div class="hx-mb-16"></div>
         <div class="content">
           {{- if .Params.readBefore -}}  
           <h2>{{ $readBefore }}</h2>
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
+            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
             <ul>
               {{- range .Params.readBefore -}}
                 {{ partial "shortcodes/card" (dict "title" .name "link" .link "icon" "book-open") }}
@@ -42,17 +53,69 @@
               </ul>
             </div>
           {{- end -}}
+          
           {{ .Content }}
+          
+          {{- $prev := .Params.prev }}
+          {{- $next := .Params.next }}
+            {{- if or $prev $next -}}
+              <div class="hx-mb-8 hx-flex hx-items-center hx-border-t hx-pt-8 dark:hx-border-neutral-800 contrast-more:hx-border-neutral-400 dark:contrast-more:hx-border-neutral-400 print:hx-hidden">
+                {{- if $prev -}}
+                  {{- $prev = .GetPage $prev -}}
+                  <a
+                    href="{{- $prev.RelPermalink -}}"
+                    title="{{- $prev.Title -}}"
+                    class="hx-flex hx-max-w-[50%] hx-items-center hx-gap-1 hx-py-4 hx-text-base hx-font-medium hx-text-gray-600 hx-transition-colors [word-break:break-word] hover:hx-text-primary-600 dark:hx-text-gray-300 md:hx-text-lg ltr:hx-pr-4 rtl:hx-pl-4"
+                  >
+                    {{- partial "utils/icon.html" (dict "name" "chevron-right" "attributes" "class=\"hx-inline hx-h-5 hx-shrink-0 ltr:hx-rotate-180\"") -}}
+                  {{- $prev.Title -}}
+                  </a>
+                {{- end -}}
+                {{- if $next -}}
+                  {{- $next := .GetPage $next -}}
+                  <a
+                    href="{{ $next.RelPermalink }}"
+                    title="{{ $next.Title }}"
+                    class="hx-flex hx-max-w-[50%] hx-items-center hx-gap-1 hx-py-4 hx-text-base hx-font-medium hx-text-gray-600 hx-transition-colors [word-break:break-word] hover:hx-text-primary-600 dark:hx-text-gray-300 md:hx-text-lg ltr:hx-ml-auto ltr:hx-pl-4 ltr:hx-text-right rtl:hx-mr-auto rtl:hx-pr-4 rtl:hx-text-left"
+                  >
+                  {{- $next.Title -}}
+                    {{- partial "utils/icon.html" (dict "name" "chevron-right" "attributes" "class=\"hx-inline hx-h-5 hx-shrink-0 rtl:-hx-rotate-180\"") -}}
+                  </a>
+                {{- end -}}
+              </div>
+            {{- end -}}
+
+          {{- if .Params.appl -}}  
+            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+            {{- $appl := .GetPage .Params.appl -}}
+            {{ partial "shortcodes/card" (dict "title" $application "subtitle" $appl.Title "link" .Params.appl "icon" "chat") }}
+            </div>
+          {{- end -}}
+
+          {{- if .Params.expl -}}  
+            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+            {{- $expl := .GetPage .Params.expl -}}
+            {{ partial "shortcodes/card" (dict "title" $explanation "subtitle" $expl.Title "link" .Params.expl "icon" "chat") }}
+            </div>
+          {{- end -}}
+            
           {{- if .Params.deeper -}}  
           <h2>{{ $digDeeper }}</h2>
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
+            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
             <ul>
+              {{- $ind := 0 -}}
               {{- range .Params.deeper -}}
-                {{ partial "shortcodes/card" (dict "title" .name "link" .link "icon" "sparkles") }}
+                {{- $data := index $.Params.deeper $ind -}}
+                {{- $link := index $data "link" -}}
+                {{- $read_link := .site.GetPage "/bible/keyword/expl/the-story-of-balaam" -}}
+                {{- $read_link2 := .site.GetPage $link -}}
+                {{ partial "shortcodes/card" (dict "title" .name "link" .link "icon" "chevron-down") }}
+                {{- $ind = math.Add $ind  1 -}}
               {{- end -}}
               </ul>
             </div>
           {{- end -}}
+          
           {{- if .Params.sources -}}  
           <h2>{{ $sources }}</h2>
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
@@ -67,17 +130,12 @@
                 {{- if strings.Contains $pagesStr "–" -}}
                     {{- $title = print $name ", " $pages " " .pages -}}
                 {{- end -}}
-                {{- $base := "../../../../" }}
-                {{- if .base -}}
-                    {{- $base = .base }}
-                {{- end -}}
-                {{- $link := print .base "about/ressources/index.html#" .ref -}}
+                {{- $link := print "/about/ressources/index.html#" .ref -}}
                 {{ partial "shortcodes/card" (dict "title" $title "link" $link "icon" "at-symbol") }}
               {{- end -}}
               </ul>
             </div>
           {{- end -}}
-        </div>
         <div class="hx-mt-16"></div>
         {{ partial "components/comments.html" . }}
       </main>

@@ -3,11 +3,15 @@ title: "The force that changes the world"
 weight: 1
 deeper:
     - name: The temple
-      link: ../../../../bible/keyword/expl/the-temple-and-the-presence-of-god
+      link: /bible/keyword/expl/the-temple-and-the-presence-of-god
     - name: The power of testimony
-      link: ../../../../topics/power/short/the-power-of-testimony
+      link: /topics/power/short/the-power-of-testimony
     - name: The two witnesses
-      link: ../../../../content/witnesses/expl/the-two-witnesses
+      link: /content/witnesses/expl/the-two-witnesses
+prev: /content/scroll/appl/a-little-scroll-with-big-impact
+next: /content/jesus/appl/jesus-and-the-fall-of-the-devil
+docType: appl
+expl: /content/witnesses/expl/the-two-witnesses
 ---
 
 There are two witnesses who change the whole world and prepare it for the kingdom of God. Who are they and what is their secret?

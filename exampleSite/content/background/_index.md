@@ -2,6 +2,8 @@
 linkTitle: Background
 title: Background
 weight: 4
+prev: /gen
+next: /bible
 ---
 
 As a good foundation for our work we need to get a better understanding of the following topics:

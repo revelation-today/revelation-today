@@ -3,9 +3,13 @@ title: "Was sind Himmel und Hölle?"
 weight: 1
 deeper:
     - name: Das Neue Jersusalem
-      link: ../../../../content/paradise/expl/the-new-jerusalem
+      link: /content/paradise/expl/the-new-jerusalem
     - name: Himmel und Hölle
-      link: ../../../../content/paradise/expl/heaven-and-hell
+      link: /content/paradise/expl/heaven-and-hell
+prev: /content/1000y/appl/1000-years-of-paradise
+next: /topics/hero/short/a-real-hero
+docType: appl
+expl: /content/paradise/expl/the-new-jerusalem
 ---
 
 Das Buch der Offenbarung endet mit einem neuen Himmel und einer neuen Erde. Doch bei genauerem Hinsehen gibt es einige Überraschungen.

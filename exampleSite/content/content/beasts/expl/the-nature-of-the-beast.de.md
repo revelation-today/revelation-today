@@ -1,6 +1,10 @@
 ---
 title: "Die Tiere in der Offenbarung"
-weight: 2
+weight: 6
+prev:  /content/beasts/expl/666-the-number-of-the-beast
+next: /content/harvest/expl/gods-army-and-the-seven-angels
+docType: expl
+appl: /content/beasts/appl/the-perfect-gospel
 ---
 
 Satan und seine Helfer nehmen nicht nur in der Offenbarung, sondern auch in diesem Artikel einen großen Raum ein. Warum eigentlich? Sollten wir uns nicht mehr mit Gott beschäftigen? Nun, es gibt einen Grund: Wenn wir den Charakter Satans verstehen, haben wir auch ein besseres Verständnis von Gott.

@@ -1,6 +1,10 @@
 ---
 title: "Rab’bin günü ve kalanlar"
 weight: 3
+prev: /background/israel/expl/gods-covenant
+next: /background/israel/expl/the-remnant-of-israel
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 “Rab’bin Günü “nü duyduğunuzda dünyanın yok olacağını düşünürsünüz. Ancak durum böyle değildir. Daha fazlasını öğrenmek ve bunun nereden geldiğini görmek istiyorsanız, benimle kalın.

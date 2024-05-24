@@ -1,6 +1,9 @@
 ---
 title: "Der Schlüssel des Gebets"
 weight: 3
+prev: /topics/power/short/the-power-of-testimony
+next: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
+docType: appl
 ---
 
 Das Thema Gebet scheint in der Offenbarung keinen großen Raum einzunehmen. Bei näherem Hinsehen zeigt sich jedoch, dass das Gebet eine entscheidende Rolle spielt.

@@ -1,9 +1,13 @@
 ---
 title: "Kıyametin anahtarı"
 weight: 3
+prev:  /content/bowls/expl/the-bowls-of-wrath
+next: /content/bowls/expl/armageddon-and-the-battle-of-karkemish
+docType: expl
+appl: /content/bowls/appl/the-wrath-of-god
 deeper:
     - name: Karkamış Savaşı
-      link: ../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish
+      link: /content/bowls/expl/armageddon-and-the-battle-of-karkemish
 sources: 
     - pages: 838-841
       ref: beale_rev

@@ -3,9 +3,13 @@ title: "Some things never change"
 weight: 1
 deeper:
     - name: The historical background
-      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+      link: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
     - name: Israel and the church
-      link: ../../../../background/israel/expl/israel-and-the-church
+      link: /background/israel/expl/israel-and-the-church
+prev: /gen/overview
+next: /background/literature/appl/what-are-we-reading
+docType: appl
+expl: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 The book of Revelation speaks to very specific people at a very specific time, but the problems it addresses are the same problems today, and so are the solutions. Let us take a look.

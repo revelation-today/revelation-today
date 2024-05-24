@@ -3,13 +3,17 @@ title: "Fahişe: Kötülüğün karmaşıklığı"
 weight: 1
 deeper:
     - name: Fahişe kimdir? Bölüm 1
-      link: ../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1
+      link: /content/harlot/expl/who-is-the-harlot-babylon-part-1
     - name: Fahişe kimdir? Bölüm 2
-      link: ../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2
+      link: /content/harlot/expl/who-is-the-harlot-babylon-part-2
     - name: Zamanın alay konusu olarak fahişe
-      link: ../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+      link: /content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
     - name: Fahişenin karakteri ve kaderi
-      link: ../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot
+      link: /content/harlot/expl/the-character-and-destiny-of-the-harlot
+prev: /content/bowls/appl/the-wrath-of-god
+next: /content/1000y/appl/1000-years-of-paradise
+docType: appl
+expl: /content/harlot/expl/who-is-the-harlot-babylon-part-1
 ---
 
 Vahiy kitabındaki fahişeyi kavramak zordur, çünkü yeryüzündeki kötü sistemin karmaşıklığını gösterir. Ancak biraz sabırla bu konuda iyi bir görüş elde edebiliriz.

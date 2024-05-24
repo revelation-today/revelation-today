@@ -1,6 +1,6 @@
 ---
 title: "The church is part of Israel"
-weight: 6
+weight: 7
 sources:
     - pages: 669–679
       ref: beale_theo

@@ -3,12 +3,16 @@ title: "Die Engel der Gemeinden"
 weight: 4
 deeper:
     - name: Die Sendschreiben
-      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+      link: /content/letters/expl/the-letters-to-the-seven-churches
     - name: Was ist ein Held?
-      link: ../../../../topics/hero/short/a-real-hero
+      link: /topics/hero/short/a-real-hero
 sources: 
     - pages: 108–112
       ref: aune_rev
+prev: /content/vision/expl/the-vision
+next: /content/letters/expl/the-letters-to-the-churches
+docType: expl
+appl: /content/letters/appl/the-challenges
 ---
 
 In der Offenbarung gibt es bei den Sendschreiben einen sich wiederholenden Satz: “Schreibe dem Engel der Gemeinde”. Haben Gemeinden Schutzengel? Werden die Leiter der Gemeinden Engel genannt? Wir müssen hier etwas genauer hinschauen.

@@ -1,6 +1,6 @@
 ---
-linkTitle: ☄ Deepening
-title: ☄ Deepening
+linkTitle: Deepening
+title: Deepening
 weight: 2
 ---
 

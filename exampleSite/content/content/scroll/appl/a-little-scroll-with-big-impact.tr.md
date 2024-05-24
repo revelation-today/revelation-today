@@ -3,7 +3,11 @@ title: "Büyük etkisi olan küçük bir kaydırma"
 weight: 1
 deeper:
     - name: Küçük parşömen
-      link: ../../../../content/scroll/expl/the-little-scroll
+      link: /content/scroll/expl/the-little-scroll
+prev: /content/trumpets/appl/prayer-and-the-unshakeable
+next: /content/witnesses/appl/the-force-that-changes-the-world
+docType: appl
+expl: /content/scroll/expl/the-little-scroll
 ---
 
 Yuhanna’nın yemesi gereken küçük bir tomar vardır ve bundan bir daha hiç bahsedilmez. Bununla ne yapacağız ve bunun yedi mühürlü tomarla bir ilgisi var mı?

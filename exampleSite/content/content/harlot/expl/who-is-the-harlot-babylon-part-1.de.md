@@ -1,11 +1,15 @@
 ---
 title: "Wer ist die Hure Babel: Teil 1"
 weight: 2
+prev:  /content/bowls/expl/armageddon-and-the-battle-of-karkemish
+next: /content/harlot/expl/who-is-the-harlot-babylon-part-2
+docType: expl
+appl: /content/harlot/appl/the-harlot-the-complexity-of-evil
 deeper:
     - name: "Wer ist die Hure: Teil 2"
-      link: ../../../../content/harlot/expl/who-is-the-harlot-babel-part-2
+      link: /content/harlot/expl/who-is-the-harlot-babel-part-2
     - name: Der Ursprung Babels
-      link: ../../../../bible/keyword/expl/the-origin-of-babel
+      link: /bible/keyword/expl/the-origin-of-babel
 sources: 
     - pages: 847–890
       ref: beale_rev

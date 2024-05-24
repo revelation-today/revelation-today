@@ -1,6 +1,10 @@
 ---
 title: "The Harlot in Revelation: A mocking of the Roman Empire"
 weight: 5
+prev:  /content/harlot/expl/the-character-and-destiny-of-the-harlot
+next: /content/1000y/expl/the-thousand-year-kingdom
+docType: expl
+appl: /content/harlot/appl/the-harlot-the-complexity-of-evil
 sources: 
     - pages: 919–928
       ref: aune_rev

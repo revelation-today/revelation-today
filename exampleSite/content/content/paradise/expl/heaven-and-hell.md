@@ -1,6 +1,10 @@
 ---
 title: "Heaven and hell"
 weight: 3
+prev:  /content/paradise/expl/the-new-jerusalem
+next: /topics/others/expl/dispensionalism-a-little-history
+docType: expl
+appl: /content/paradise/appl/what-is-heaven-and-hell-about
 ---
 
 What is heaven and hell? Do all people go to heaven? How can a good God send people to hell?

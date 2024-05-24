@@ -3,12 +3,16 @@ title: "The angel of the churches"
 weight: 4
 deeper:
     - name: The letter to the churches
-      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+      link: /content/letters/expl/the-letters-to-the-seven-churches
     - name: What is a hero
-      link: ../../../../topics/hero/short/a-real-hero
+      link: /topics/hero/short/a-real-hero
 sources: 
     - pages: 108–112
       ref: aune_rev
+prev: /content/vision/expl/the-vision
+next: /content/letters/expl/the-letters-to-the-churches
+docType: expl
+appl: /content/letters/appl/the-challenges
 ---
 
 In the book of Revelation in the Bible, there is this repeated phrase: Write to the angel of the church. Do churches have guardian angels? Are the leaders of the churches angels? Well, let us take a closer look.

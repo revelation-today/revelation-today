@@ -1,29 +1,29 @@
 ---
-title: "Zorluklar"
+title: "Sorun"
 weight: 1
 deeper:
-    - name: Kitap nasıl başlıyor
-      link: ../../../../content/letters/expl/setting-the-foundation
-    - name: İsa’nın vizyonu
-      link: ../../../../content/letters/expl/the-vision
     - name: Kiliselerin melekleri
-      link: ../../../../content/letters/expl/the-angel-of-the-churches
+      link: /content/letters/expl/the-angel-of-the-churches
     - name: Kiliseler için mektup
-      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+      link: /content/letters/expl/the-letters-to-the-seven-churches
     - name: Efes’e mektup
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus
+      link: /content/letters/expl/details/the-letter-to-the-church-in-ephesus
     - name: İzmir’e mektup
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna
+      link: /content/letters/expl/details/the-letter-to-the-church-in-smyrna
     - name: Pergamon’a mektup
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon
+      link: /content/letters/expl/details/the-letter-to-the-church-in-pergamon
     - name: Thyatira’ya mektup
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira
+      link: /content/letters/expl/details/the-letter-to-the-church-in-thyatira
     - name: Sardes’e mektup
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis
+      link: /content/letters/expl/details/the-letter-to-the-church-in-sardis
     - name: Philadelphia’ya mektup
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia
+      link: /content/letters/expl/details/the-letter-to-the-church-in-philadelphia
     - name: Laodikya’ya mektup
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea
+      link: /content/letters/expl/details/the-letter-to-the-church-in-laodicea
+prev: /content/vision/appl/vision
+next: /content/worship/appl/the-answer-to-all-questions
+docType: appl
+expl: /content/letters/expl/the-challenges
 ---
 
 2000 yıl önceki cemaatlerin şu anki durumumuzla ne ilgisi var? Bugün çok farklı zorluklarla karşı karşıya değil miyiz? Dünyanın ya da kilisenin ne kadar az değiştiğine şaşıracaksınız.
@@ -31,21 +31,7 @@ deeper:
 ## Bizim metnimiz
 
 <a name="7aff"></a>
-Bazı temel bilgileri belirlemek için kitabın [ilk üç bölümüne](https://www.bibleserver.com/TR/Vahiy1) çok hızlı bir şekilde göz atacağız.
-
-## Kiliseye neden ihtiyacımız var?
-
-<a name="162d"></a>
-Bu gerçek bir soru mu? Kiliseye ihtiyaç duymamızın pek çok nedeni var
-
-- burası inananların yaşamda cesaretlendirilmek için düzenli olarak bir araya gelebilecekleri tek yerdir
-- Hayatınızı yönetmenize ve toplumu etkilemenize yardımcı olacak bir kutsama ve öğreti aldığınız yer
-- ana görev ki̇li̇seleri̇ büyütmekti̇r ki̇ herkes kurtulsun ve hepi̇mi̇z cennete gi̇debi̇leli̇m
-
-Vahiy kitabı da aynı fikirde ve son noktaya odaklanıyor ama bu nasıl olmalı? Kitap, kilisenin amacını iki nesneyle açıklayan İsa’nın görümüyle başlar: yıldızlar ve kuzu sehpaları. Bunlar kilisenin amacını tanımlamaktadır:
-
-- dünyaya görünür bir örnek ve tanık olmak
-- güçleri İsa’ya olan bağımlılıklarında yatar
+Bazı temel bilgileri belirlemek için kitabın [kitabın 2. ve 3. bölümleri](https://www.bibleserver.com/TR/Vahiy2) çok hızlı bir şekilde göz atacağız.
 
 ## Genel Bakış
 

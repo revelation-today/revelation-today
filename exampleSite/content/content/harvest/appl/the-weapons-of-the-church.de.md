@@ -3,7 +3,11 @@ title: "Die Waffen der Gemeinde und das Schicksal der Nationen"
 weight: 1
 deeper:
     - name: Gottes Armee und die sieben Engel
-      link: ../../../../content/harvest/expl/gods-army-and-the-seven-angels
+      link: /content/harvest/expl/gods-army-and-the-seven-angels
+prev: /content/jesus/appl/jesus-and-the-fall-of-the-devil
+next: /content/bowls/appl/the-wrath-of-god
+docType: appl
+expl: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
 ---
 
 Was sind die Waffen der Gemeinde gegen eine ungläubige Welt, gegen den Drachen und die Tiere, und was ist das ewige Evangelium?

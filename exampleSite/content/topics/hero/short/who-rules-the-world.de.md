@@ -1,5 +1,8 @@
 ---
 title: "Wer regiert die Welt"
+prev: /topics/hero/short/a-real-hero
+next: /topics/power/short/worship
+docType: appl
 ---
 
 Die Offenbarung gibt uns ein sehr verwirrendes Bild davon, wer eigentlich die Welt regiert. Da ist einerseits der Satan, der die Welt völlig im Griff hat, aber auch die Kirche. Was geht da vor sich und was heißt eigentlich regieren?

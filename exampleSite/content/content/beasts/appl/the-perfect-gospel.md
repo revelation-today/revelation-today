@@ -3,13 +3,17 @@ title: "The perfect “gospel”"
 weight: 1
 deeper: 
     - name: The two beasts
-      link: ../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+      link: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
     - name: The number of the beast
-      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+      link: /content/beasts/expl/666-the-number-of-the-beast
     - name: The beast in the original context
-      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+      link: /content/beasts/expl/the-beasts-and-the-666-in-historical-context
     - name: The nature of the beast
-      link: ../../../../content/beasts/expl/the-nature-of-the-beast
+      link: /content/beasts/expl/the-nature-of-the-beast
+prev: /content/jesus/appl/jesus-and-the-fall-of-the-devil
+next: /content/harvest/appl/the-weapons-of-the-church
+docType: appl
+expl: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
 ---
 
 This chapter looks like two monsters doing destruction, but this is one of the deepest chapters in the book. Let’s get ready.

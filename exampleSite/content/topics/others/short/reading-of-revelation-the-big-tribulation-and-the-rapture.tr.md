@@ -1,5 +1,7 @@
 ---
 title: "Vahiy Okuması: Büyük Sıkıntı ve Kıyamet"
+prev: /topics/power/short/the-key-of-prayer
+docType: appl
 ---
 
 Bazı insanlar Büyük Sıkıntı ve Kıyameti Kutsal Kitap’ın temel öğretilerinden biri olarak görürken, bazıları da bunları tamamen inkâr etmektedir. Gerçek nedir?

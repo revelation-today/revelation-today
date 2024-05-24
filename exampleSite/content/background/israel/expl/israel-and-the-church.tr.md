@@ -1,6 +1,10 @@
 ---
 title: "İsrail ve kilise"
-weight: 7
+weight: 8
+prev: /background/israel/expl/the-church-is-part-of-israel
+next: /content/vision/expl/setting-the-foundation
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 Vahiy Kitabı’nda Yahudiler ve İsrail’den bahsedilmesi oldukça tartışmalıdır. Bunun nedeni nedir ve nasıl çözülür?

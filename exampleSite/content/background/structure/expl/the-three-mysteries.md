@@ -1,6 +1,10 @@
 ---
 title: "The three mysteries"
 weight: 20
+prev: /background/structure/expl/the-structure-of-the-book-of-revelation
+next: /background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
+docType: expl
+appl: /background/structure/appl/the-timeline-in-the-book-of-revelation
 ---
 
 The book of Revelation speaks of three mysteries: the mystery of the Church, the mystery of God, and the mystery of the beast. What are these mysteries, and what is a mystery? You will see this soon and also how this gives a new perspective on the structure of the book.

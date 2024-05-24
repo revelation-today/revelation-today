@@ -1,13 +1,17 @@
 ---
 title: "Die beiden Tiere in der Offenbarung"
-weight: 5
+weight: 1
+prev:  /content/jesus/expl/a-different-christmas-story
+next: /content/beasts/expl/the-beasts-and-the-666-in-historical-context
+docType: expl
+appl: /content/beasts/appl/the-perfect-gospel
 deeper:
     - name: Die Tiere im historischen Kontext
-      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+      link: /content/beasts/expl/the-beasts-and-the-666-in-historical-context
     - name: Die Zahl 666
-      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+      link: /content/beasts/expl/666-the-number-of-the-beast
     - name: Die 3,5, Jahre
-      link: ../../../../bible/daniel/expl/the-secret-of-the-3-5-years
+      link: /bible/daniel/expl/the-secret-of-the-3-5-years
 sources: 
     - pages: 681–730
       ref: beale_rev
@@ -148,4 +152,8 @@ Aber wir sollten auch nicht “das Kind mit dem Bade ausschütten”. Wenn du da
 - Es wirkt mit Zeichen und Wundern, also sind Wunder schlecht.
 - Es ist siegreich, also sollten wir immer schwach sein.
 
-Das ist überhaupt nicht der Fall, denn Satan würde einen sehr schlechten Job machen, wenn er Gott nachahmt, aber in allem anders ist. Gott und die Gemeinde sind siegreich (vielleicht auf andere Weise) und Gott tut auch heute noch Wunder, aber das Entscheidende ist der Ausdruck echter Liebe, die Satan nicht nachahmen kann und will.Satan geht es um den Sieg, koste es, was es wolle und wem dabei Schaden zugefügt wird.Gott kommt in Liebe zu den Menschen, auch wenn er dabei nicht immer erfolgreich ist.
+Das ist überhaupt nicht der Fall, denn Satan würde einen sehr schlechten Job machen, wenn er Gott nachahmt, aber in allem anders ist. Gott und die Gemeinde sind siegreich (vielleicht auf andere Weise) und Gott tut auch heute noch Wunder, aber das Entscheidende ist der Ausdruck echter Liebe, die Satan nicht nachahmen kann und will.
+
+Satan geht es um den Sieg, koste es, was es wolle und wem dabei Schaden zugefügt wird.
+
+Gott kommt in Liebe zu den Menschen, auch wenn er dabei nicht immer erfolgreich ist.

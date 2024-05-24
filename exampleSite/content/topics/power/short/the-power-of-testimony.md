@@ -1,6 +1,9 @@
 ---
 title: "The power of testimony"
 weight: 2
+prev: /topics/power/short/worship
+next: /topics/power/short/the-key-of-prayer
+docType: appl
 ---
 
 Testimony and witnesses are a key theme in Revelation. You will be surprised how much this topic is spread out there. But what is the purpose of testimony?

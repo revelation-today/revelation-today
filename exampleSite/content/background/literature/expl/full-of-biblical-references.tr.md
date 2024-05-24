@@ -4,6 +4,10 @@ weight: 30
 sources:
     - pages: 82–83
       ref: beale_rev
+prev: /background/literature/expl/literally-or-symbolic
+next: /background/literature/expl/literary-tools-in-the-book-of-revelation
+docType: expl
+appl: /background/literature/appl/what-are-we-reading
 ---
 
 Vahiy Kitabı’nı anlamanın anahtarı onu Kutsal Kitap’ın kendisiyle yorumlamaktır, çünkü bu kitap Kutsal Kitap’ın geri kalanına göndermelerle doludur. Ancak bu gerçekten böyle midir ve orijinal okuyucular bunu anlamış mıdır?

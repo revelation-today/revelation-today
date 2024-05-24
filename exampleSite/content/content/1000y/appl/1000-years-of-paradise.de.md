@@ -3,7 +3,11 @@ title: "1000 Jahre Paradies?"
 weight: 1
 deeper: 
     - name: Das Tausendjährige Reich
-    - link: ../../../../content/1000y/expl/the-thousand-year-kingdom
+    - link: /content/1000y/expl/the-thousand-year-kingdom
+prev: /content/harlot/appl/the-harlot-the-complexity-of-evil
+next: /content/paradise/appl/what-is-heaven-and-hell-about
+docType: appl
+expl: /content/1000y/expl/the-thousand-year-kingdom
 ---
 
 Das Tausendjährige Reich wird oft als perfekte Welt beschrieben, in der die Guten herrschen und die Bösen gebunden werden, bevor es einen neuen Himmel und eine neue Erde gibt. Aber ist das wirklich so?

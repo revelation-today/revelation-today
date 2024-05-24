@@ -4,6 +4,10 @@ weight: 1
 sources:
     - pages: 21–46
       ref: richter
+prev: /background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
+next: /background/israel/expl/gods-covenant
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 Does the Bible support and encourage patriarchal structures? Does it support the idea that women are not so important? You are far off, but let me explain what the family was like in ancient culture.

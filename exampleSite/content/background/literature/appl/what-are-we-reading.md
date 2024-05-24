@@ -2,13 +2,17 @@
 title: "What are we reading"
 deeper:
     - name: More on the genre
-      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+      link: /background/literature/expl/the-book-of-revelation-how-to-read-it
     - name: The Old Testament, an important key to understand the pictures
-      link: ../../../../background/literature/expl/full-of-biblical-references
+      link: /background/literature/expl/full-of-biblical-references
     - name: Are these all symbols?
-      link: ../../../../background/literature/expl/literally-or-symbolic
+      link: /background/literature/expl/literally-or-symbolic
     - name: What does all the numbers mean and the beauty of poetry?
-      link: ../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
+      link: /background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
+prev: /background/history/appl/some-things-never-change
+next: /background/structure/appl/the-timeline-in-the-book-of-revelation
+docType: appl
+expl: /background/literature/expl/the-book-of-revelation-how-to-read-it
 ---
 
 When we read a book, we read it with a certain expectation. You certainly read a scientific report differently than science fiction, or a love poem differently than an action thriller. So when you read the book of Revelation, you might think that this is God’s great revenge on humanity, or a dystopian novel about end-time catastrophes with some special features like a rapture, or just a chaotic collection of crazy stories.

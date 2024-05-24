@@ -1,9 +1,13 @@
 ---
 title: "Die sieben Posaunen"
 weight: 2
+prev:  /content/army/expl/the-end-time-and-the-great-tribulation
+next: /content/scroll/expl/the-little-scroll
+docType: expl
+appl: /content/trumpets/appl/prayer-and-the-unshakeable
 deeper:
     - name: Das kleine Buch
-      link: ../../../../content/scroll/expl/the-little-scroll
+      link: /content/scroll/expl/the-little-scroll
 sources: 
     - pages: 445–520
       ref: beale_rev

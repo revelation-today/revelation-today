@@ -3,11 +3,15 @@ title: "Dünyayı değiştiren güç"
 weight: 1
 deeper:
     - name: Tapınak
-      link: ../../../../bible/keyword/expl/the-temple-and-the-presence-of-god
+      link: /bible/keyword/expl/the-temple-and-the-presence-of-god
     - name: Tanıklığın gücü
-      link: ../../../../topics/power/short/the-power-of-testimony
+      link: /topics/power/short/the-power-of-testimony
     - name: İki tanık
-      link: ../../../../content/witnesses/expl/the-two-witnesses
+      link: /content/witnesses/expl/the-two-witnesses
+prev: /content/scroll/appl/a-little-scroll-with-big-impact
+next: /content/jesus/appl/jesus-and-the-fall-of-the-devil
+docType: appl
+expl: /content/witnesses/expl/the-two-witnesses
 ---
 
 Tüm dünyayı değiştiren ve dünyayı Tanrı’nın krallığına hazır hale getiren iki tanık vardır. Onlar kimdir ve sırları nedir?

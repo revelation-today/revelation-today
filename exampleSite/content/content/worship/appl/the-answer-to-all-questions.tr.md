@@ -3,9 +3,13 @@ title: "Tüm soruların cevabı"
 weight: 1
 deeper:
     - name: Tahtta ibadet
-      link: ../../../../content/worship/expl/worship-in-the-throne-room
+      link: /content/worship/expl/worship-in-the-throne-room
     - name: İbadet nedir?
-      link: ../../../../topics/power/short/worship
+      link: /topics/power/short/worship
+prev: /content/letters/appl/the-challenges
+next: /content/seals/appl/the-paradox-of-the-seven-seals
+docType: appl
+expl: /content/worship/expl/worship-in-the-throne-room
 ---
 
 Kiliselerin tüm zorluklarına nasıl yanıt verilmelidir? Tanrı’nın uygulayacağı eylem planı nedir? Çok basit: Tanrı hiçbir şey yapmaz, tapınmada dinlenir ve bizim de buradan başlamamız gerekir.

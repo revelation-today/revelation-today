@@ -1,6 +1,10 @@
 ---
 title: "The day of the Lord and the remnant"
 weight: 3
+prev: /background/israel/expl/gods-covenant
+next: /background/israel/expl/the-remnant-of-israel
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 When you hear “Day of the Lord”, you think of the destruction of the world. But that is not the case. If you want to know more and see where this comes from, stay with me.

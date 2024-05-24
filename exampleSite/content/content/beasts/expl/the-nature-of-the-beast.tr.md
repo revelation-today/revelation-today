@@ -1,6 +1,10 @@
 ---
 title: "Canavarın doğası"
-weight: 2
+weight: 6
+prev:  /content/beasts/expl/666-the-number-of-the-beast
+next: /content/harvest/expl/gods-army-and-the-seven-angels
+docType: expl
+appl: /content/beasts/appl/the-perfect-gospel
 ---
 
 Şeytan tüm köleleriyle birlikte Vahiy Kitabı’nda oldukça fazla yer kaplar ve ben de bu konu üzerine epeyce makale yazdım. Neden? Tanrı’yı tanımlamak için daha fazla zaman ve çaba harcamamız gerekmez mi? Bunun bir nedeni var

@@ -1,6 +1,10 @@
 ---
 title: "Die drei Geheimnisse"
 weight: 20
+prev: /background/structure/expl/the-structure-of-the-book-of-revelation
+next: /background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
+docType: expl
+appl: /background/structure/appl/the-timeline-in-the-book-of-revelation
 ---
 
 Das Buch der Offenbarung spricht von drei Geheimnissen: dem Geheimnis der Kirche, dem Geheimnis Gottes und dem Geheimnis des Tieres. Was sind diese Geheimnisse, und bedeutet eigentlich “Geheimnis”? Das werden wir bald sehen und auch, wie dies eine neue Perspektive auf die Struktur des Buches eröffnet.

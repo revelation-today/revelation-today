@@ -1,6 +1,9 @@
 ---
 title: "Duanın anahtarı"
 weight: 3
+prev: /topics/power/short/the-power-of-testimony
+next: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
+docType: appl
 ---
 
 Vahiy Kitabı’nda dua konusu pek öne çıkmıyor gibi görünür. Ancak daha yakından bakıldığında, oradaki temel rolü görülür.

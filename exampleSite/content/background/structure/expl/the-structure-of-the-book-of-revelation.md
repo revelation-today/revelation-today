@@ -3,12 +3,16 @@ title: "The structure of the Book of Revelation"
 weight: 10
 readBefore:
     - name: Historical background of the book
-      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+      link: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
     - name: What type of book is this?
-      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+      link: /background/literature/expl/the-book-of-revelation-how-to-read-it
 sources:
     - pages: 108–170
       ref: beale_rev
+prev: /background/literature/expl/literary-tools-in-the-book-of-revelation
+next: /background/structure/expl/the-three-mysteries
+docType: expl
+appl: /background/structure/appl/the-timeline-in-the-book-of-revelation
 ---
 
 The book of Revelation seems very disorganized at first glance. There is one catastrophe after another and then it starts all over again. But when we look closer, we see an artistic structure and a deliberate work.

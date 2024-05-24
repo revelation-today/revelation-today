@@ -1,6 +1,10 @@
 ---
 title: "The thousand year kingdom"
 weight: 2
+prev:  /content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+next: /content/paradise/expl/the-new-jerusalem
+docType: expl
+appl: /content/1000y/appl/1000-years-of-paradise
 sources:
     - pages: 972–1031
       ref: beale_rev

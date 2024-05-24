@@ -1,11 +1,15 @@
 ---
 title: "Taht odasında ibadet"
 weight: 2
+prev: /content/letters/expl/the-letter-to-the-church-in-laodicea
+next: /content/seals/expl/the-book-with-the-seven-seals
+docType: expl
+appl: /content/worship/appl/the-answer-to-all-questions
 deeper:
     - name: Yedi mühür
-      link: ../../../../content/seals/expl/the-book-with-the-seven-seals
+      link: /content/seals/expl/the-book-with-the-seven-seals
     - name: İbadet nedir?
-      link: ../../../../topics/power/short/worship
+      link: /topics/power/short/worship
 sources: 
     - pages: 311–337
       ref: beale_rev

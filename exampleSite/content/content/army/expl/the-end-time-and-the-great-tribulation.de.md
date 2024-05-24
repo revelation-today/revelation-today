@@ -1,6 +1,10 @@
 ---
 title: "Die große Trübsal"
 weight: 3
+prev:  /content/army/expl/the-144000
+next: /content/trumpets/expl/the-trumpets-in-revelation
+docType: expl
+appl: /content/army/appl/the-strange-army
 sources:
     - pages: 433–445
       ref: beale_rev
@@ -55,14 +59,3 @@ Das macht die Trübsal zu etwas, das während der gesamten Zeit zwischen dem ers
 Schauen wir noch einmal bei Daniel nach. “[Michael, der Hüter Israels wird aufstehen](https://www.bibleserver.com/SLT/Daniel12%2C1)”. Dieses Thema wird in der Offenbarung beim [ersten Kommen Jesu](../../../../content/jesus/expl/a-different-christmas-story) in Kapitel 12 wieder aufgenommen. [Michael wird gegen den Drachen (Satan) kämpfen](https://www.bibleserver.com/SLT/Offenbarung12%2C7), ihn besiegen und aus dem Himmel werfen. Aber [aufgrund dessen und weil er weiß, dass er nur wenig Zeit hat](https://www.bibleserver.com/SLT/Offenbarung12%2C12), wird er versuchen, so viel Schaden wie möglich anzurichten, [zuerst an Israel](https://www.bibleserver.com/SLT/Offenbarung12%2C13-17) und als das nicht gelingt, [an der Gemeinde](https://www.bibleserver.com/SLT/Offenbarung13).
 
 Die Große Trübsal sind alle Verfolgungen, die die Gemeinde seit ihrer Gründung erdulden musste.
-
-## Zum Weiterlesen
-
-<a name="5e33"></a>
-- [Der Tag des Herrn](../../../../background/israel/expl/the-day-of-the-lord)
-- [Wer regiert die Welt](../../../../topics/hero/short/who-rules-the-world)
-- [Jesus und der Tag des Herrn](../../../../background/israel/expl/jesus-and-the-covenant)
-- [Der zweite Auszug](../../../../background/israel/expl/the-second-exodus)
-- [Der Menschensohn](../../../../bible/daniel/expl/the-son-of-man-and-the-remnant)
-- [Der Überrest Israels](../../../../background/israel/expl/the-remnant-of-israel)
-- [Die Gemeinde und Israel](../../../../background/israel/expl/the-church-is-part-of-israel)

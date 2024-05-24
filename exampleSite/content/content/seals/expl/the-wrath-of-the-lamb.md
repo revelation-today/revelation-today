@@ -1,6 +1,10 @@
 ---
 title: "The wrath of the Lamb"
 weight: 4
+prev:  /content/seals/expl/the-mystery-of-the-four-horse-men
+next: /content/army/expl/the-144000
+docType: expl
+appl: /content/seals/appl/the-paradox-of-the-seven-seals
 sources: 
     - pages: 395–404
       ref: beale_rev

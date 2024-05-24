@@ -1,30 +1,29 @@
 ---
-title: "Die Herausforderung"
+title: "Das Problem"
 weight: 1
 deeper:
-    - name: Der Auftakt des Buches
-      link: ../../../../content/letters/expl/setting-the-foundation
-    - name: Die Vision des Menschensohnes
-      link: ../../../../content/letters/expl/the-vision
     - name: Die Engel der Gemeinden
-      link: ../../../../content/letters/expl/the-angel-of-the-churches
+      link: /content/letters/expl/the-angel-of-the-churches
     - name: Die Sendschreiben
-      link: ../../../../content/letters/expl/the-letters-to-the-seven-churches
+      link: /content/letters/expl/the-letters-to-the-seven-churches
     - name: Der Brief an Ephesus
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-ephesus
+      link: /content/letters/expl/details/the-letter-to-the-church-in-ephesus
     - name: Der Brief an Smyrna
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-smyrna
+      link: /content/letters/expl/details/the-letter-to-the-church-in-smyrna
     - name: Der Brief an Pergamon
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-pergamon
+      link: /content/letters/expl/details/the-letter-to-the-church-in-pergamon
     - name: Der Brief an Thyatira
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira
+      link: /content/letters/expl/details/the-letter-to-the-church-in-thyatira
     - name: Der Brief an Sardis
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-sardis
+      link: /content/letters/expl/details/the-letter-to-the-church-in-sardis
     - name: Der Brief an Philadelphia
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-philadelphia
+      link: /content/letters/expl/details/the-letter-to-the-church-in-philadelphia
     - name: Der Brief an Laodizäa
-      link: ../../../../content/letters/expl/details/the-letter-to-the-church-in-laodicea
-
+      link: /content/letters/expl/details/the-letter-to-the-church-in-laodicea
+prev: /content/vision/appl/vision
+next: /content/worship/appl/the-answer-to-all-questions
+docType: appl
+expl: /content/letters/expl/the-challenges
 ---
 
 Was hat eine 2000 Jahre alte Gemeinde mit unserer heutigen Situation zu tun? Haben wir heute nicht ganz andere Herausforderungen? Du wirst überrascht sein, wie wenig sich die Welt für die Gemeinde verändert hat.
@@ -32,21 +31,7 @@ Was hat eine 2000 Jahre alte Gemeinde mit unserer heutigen Situation zu tun? Hab
 ## Unser Text
 
 <a name="0ab1"></a>
-Wir müssen die [ersten drei Kapitel der Offenbarung](https://www.bibleserver.com/SLT/Offenbarung1) lesen, um ein besseres Verständnis zu bekommen.
-
-## Warum brauchen wir Gemeinden?
-
-<a name="180b"></a>
-Ist das wirklich eine Frage? Nun, wir brauchen Gemeinden, weil
-
-- Das ist der Ort, wo Gläubige sich treffen und in ihrem Leben ermutigt werden.
-- Hier erhalten wir Segen und Lehre, um unser Leben erfolgreich zu führen und in den Himmel zu kommen.
-- Aber der Hauptgrund ist, dass die Gemeinden wachsen und alle gerettet werden und in den Himmel kommen.
-
-Die Offenbarung betont den letzten Teil, aber die Frage bleibt, wie das geschehen soll. Das Buch beginnt mit einer Vision Jesu, der die Vision der Gemeinde mit zwei Dingen beschreibt: Sternen und Leuchtern. Diese beschreiben das Ziel der Gemeinde:
-
-- ein sichtbares Zeichen und Zeugnis für die Welt zu sein und
-- ihre Kraft ganz aus der Abhängigkeit von Jesus zu schöpfen.
+Wir müssen die [Kapitel 2 und 3 der Offenbarung](https://www.bibleserver.com/SLT/Offenbarung2) lesen, um ein besseres Verständnis zu bekommen.
 
 ## Überblick über die Gemeinden
 

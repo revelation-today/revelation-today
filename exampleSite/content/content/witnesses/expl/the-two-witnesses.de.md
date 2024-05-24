@@ -1,9 +1,13 @@
 ---
 title: "Die Identität der beiden Zeugen in der Offenbarung"
 weight: 2
+prev:  /content/scroll/expl/the-little-scroll
+next: /content/jesus/expl/a-different-christmas-story
+docType: expl
+appl: /content/witnesses/appl/the-force-that-changes-the-world
 deeper:
     - name: Die Kraft des Zeugnisses
-      link: ../../../../topics/power/short/the-power-of-testimony
+      link: /topics/power/short/the-power-of-testimony
 sources: 
     - pages: 556–620
       ref: beale_rev
@@ -97,64 +101,28 @@ Wenn wir uns die Tiere anschauen, folgt ihr Verhalten einem Muster und sie ergä
 
 | Thema | Erstes Tier | Zweites Tier |
 |-------|-------------|--------------|
-| Ursprung | [Aus der See](https://www.bibleserver.com/SLT/Offenbarung13%2C1) | [Von der Erde](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
-| Identität (mit Daniel) | [Tier mit sieben Hörnern](https://www.bibleserver.com/SLT/Offenbarung13%2C1) -> Fortsetzung und Macht der Reiche | [Tier mit zwei Hörnern wie Lamm/Menschensohn](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
-| Macht | [Drache gibt Macht und Thron](https://www.bibleserver.com/SLT/Offenbarung13%2C2) | [Regiert in Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C12) |
-| Zeichen und Anbetung | [Tödliche Wunde ist geheilt](https://www.bibleserver.com/SLT/Offenbarung13%2C3) |
-[Ganze Erde ist erstaunt](https://www.bibleserver.com/SLT/Offenbarung13%2C3)
-[Beten Drache an, der Macht dem Tier gegeben hat](https://www.bibleserver.com/SLT/Offenbarung13%2C4)
+| Ursprung | [<span style="color:red;">Aus der See</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C1) | [<span style="color:red;">Von der Erde</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
+| Identität (mit Daniel) | [Tier mit sieben <span style="color:green;">Hörnern</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C1) -> Fortsetzung und Macht der Reiche | [Tier mit zwei <span style="color:green;">Hörnern</span> wie Lamm/Menschensohn](https://www.bibleserver.com/SLT/Offenbarung13%2C11) |
+| Macht | [<span style="color:green;">Drache gibt</span> Macht und Thron](https://www.bibleserver.com/SLT/Offenbarung13%2C2) | [Regiert in <span style="color:green;">Macht des ersten Tieres</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C12) |
+| Zeichen und Anbetung | [<span style="color:green;">Tödliche Wunde ist geheilt</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C3) </br> [Ganze Erde ist <span style="color:green;">erstaunt</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C3) </br> [<span style="color:green;">Beten Drache an</span>, der <span style="color:green;">Macht dem Tier gegeben</span> hat](https://www.bibleserver.com/SLT/Offenbarung13%2C4) | [Zwingt alle, das <span style="color:green;">erste Tier anzubeten</span>, dessen <span style="color:green;">Wunde geheilt</span> wurde](https://www.bibleserver.com/SLT/Offenbarung13%2C12) </br> [Tut <span style="color:green;">große Zeichen, läßt Feuer vom Himmel fallen, täuscht</span> durch Zeichen](https://www.bibleserver.com/SLT/Offenbarung13%2C13-14)</br> [bekommt <span style="color:green;">Macht des ersten Tieres</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C14) |
+| Prahlerei | [<span style="color:green;">Wer ist wie das Tier</span> (stark wie es)](https://www.bibleserver.com/SLT/Offenbarung13%2C4)</br> [<span style="color:green;">große Lästerungen gegen Gott und sein Volk</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C5-6) | [<span style="color:green;">Macht Bild des Tieres</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C14) (Mensch ist im Bilde Gottes gemacht -&gt; Mensch ist Stellvertreter Gottes)</br> [Kann Leben geben, so dass Tier sprechen kann](https://www.bibleserver.com/SLT/Offenbarung13%2C14-15), <span style="color:green;">aber nur Gott kann Leben geben</span> |
+| Überwindet Heilige | [<span style="color:green;">Kämpft gegen Heilige</span> und besiegt sie](https://www.bibleserver.com/SLT/Offenbarung13%2C7)</br> [Hat <span style="color:green;">Macht über Stämme, Sprachen und Nationen</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C7) </br> [<span style="color:green;">Alle auf der Erde</span> <span style="color:red;">beten des Tier an</span>, die nicht im Buch des Lebens geschrieben sind](https://www.bibleserver.com/SLT/Offenbarung13%2C8) | [<span style="color:green;">Tötet alle, die nicht Bild anbeten</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C15)</br> [Macht <span style="color:green;">Zeichen an alle</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C16) </br> [<span style="color:green;">Niemand</span> kann <span style="color:red;">kaufen oder verkaufen</span>, wenn er nicht <span style="color:green;">das Zeichen des Tieres hat</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C17) |
+| Achtung | [<span style="color:green;">Wenn jemand</span> <span style="color:red;">Ohren hat, höre</span>!](https://www.bibleserver.com/SLT/Offenbarung13%2C9)</br> [<span style="color:green;">Hier ist</span> <span style="color:red;">Geduld und Glaube der Heiligen</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C10) | [<span style="color:green;">Hier ist</span> <span style="color:red;">Weisheit</span>](https://www.bibleserver.com/SLT/Offenbarung13%2C18)</br>[<span style="color:green;">Wenn jemand</span> <span style="color:red;">Verständnis hat: Zähle</span>!](https://www.bibleserver.com/SLT/Offenbarung13%2C18) |
 
-<td>[Zwingt alle, das erste Tier anzubeten, dessen Wunde geheilt wurde](https://www.bibleserver.com/SLT/Offenbarung13%2C12)
-[Tut große Zeichen, läßt Feuer vom Himmel fallen, täuscht durch Zeichen](https://www.bibleserver.com/SLT/Offenbarung13%2C13-14)</td>
-[bekommt Macht des ersten Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14)
+Am Ende ist noch ein interessanter Chiasmus zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", d.h. das Wissen soll zu Taten leiten (hören=gehorchen im Hebräischen) und "Weisheit" mit "Geduld und Glaube der Heiligen", was zeigt, dass die Weisheit in Geduld und Glauben resultieren soll.
 
-<tr>
-<td>Prahlerei</td>
-<td>[Wer ist wie das Tier(stark wie es)](https://www.bibleserver.com/SLT/Offenbarung13%2C4)</td></tr>
-[große Lästerungen gegen Gott und sein Volk](https://www.bibleserver.com/SLT/Offenbarung13%2C5-6)
-
-<td>[Macht Bild des Tieres](https://www.bibleserver.com/SLT/Offenbarung13%2C14) (Mensch ist im Bilde Gottes gemacht -&gt; Mensch ist Stellvertreter Gottes)</td>
-[Kann Leben geben, so dass Tier sprechen kann](https://www.bibleserver.com/SLT/Offenbarung13%2C14-15) <span style="color:green;">, aber nur Gott kann Leben geben</span>
-<tr>
-<td>Überwindet Heilige</td>
-<td>[Kämpft gegen Heilige und besiegt sie](https://www.bibleserver.com/SLT/Offenbarung13%2C7)</td></tr>
-[Hat Macht über Stämme, Sprachen und Nationen](https://www.bibleserver.com/SLT/Offenbarung13%2C7)
-[Alle auf der Erde beten des Tier an, die nicht im Buch des Lebens geschrieben sind](https://www.bibleserver.com/SLT/Offenbarung13%2C8)
-
-<td>[Tötet alle, die nicht Bild anbeten](https://www.bibleserver.com/SLT/Offenbarung13%2C15)</td>
-[Macht  Zeichen an alle ](https://www.bibleserver.com/SLT/Offenbarung13%2C16) 
-[Niemand kann kaufen oder verkaufen, wenn er nicht das Zeichen des Tieres hat](https://www.bibleserver.com/SLT/Offenbarung13%2C17)
-
-<tr>
-<td>Achtung</td>
-<td>[Wenn jemand Ohren hat, höre!](https://www.bibleserver.com/SLT/Offenbarung13%2C9)</td></tr>
-[Hier ist Geduld und Glaube der Heiligen](https://www.bibleserver.com/SLT/Offenbarung13%2C10)
-
-<td>[Hier istWeisheit](https://www.bibleserver.com/SLT/Offenbarung13%2C18)</td>
-[Wenn jemandVerständnis hat: Zähle](https://www.bibleserver.com/SLT/Offenbarung13%2C18)
-
-<p>Am Ende ist noch ein interessanter Chiasmus zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", d.h. das Wissen soll zu Taten leiten (hören=gehorchen im Hebräischen) und "Weisheit" mit "Geduld und Glaube der Heiligen", was zeigt, dass die Weishiet in Geduld und Glauben resultieren soll.</p>
 Aber auch die [Zeugen](https://www.bibleserver.com/SLT/Offenbarung11%2C3-13) und die [Tiere](https://www.bibleserver.com/SLT/Offenbarung13) sind sehr unterschiedlich.
 
 | Thema | Die Tiere | Die Zeugen |
 |-------|-----------|------------|
-| Gerufen von | [Drachen](https://www.bibleserver.com/SLT/Offenbarung12%2C17), welcher der [ständige Verlierer ist](https://www.bibleserver.com/SLT/Offenbarung12) | [Gott](https://www.bibleserver.com/SLT/Offenbarung11%2C3), der [Himmel und Erde regiert](https://www.bibleserver.com/SLT/Offenbarung10%2C2) |
+| Gerufen von | [Drachen](https://www.bibleserver.com/SLT/Offenbarung12%2C17), welcher der [<span style="color:red;">ständige Verlierer ist</span>](https://www.bibleserver.com/SLT/Offenbarung12) | [Gott](https://www.bibleserver.com/SLT/Offenbarung11%2C3), der [<span style="color:red;">Himmel und Erde regiert</span>](https://www.bibleserver.com/SLT/Offenbarung10%2C2) |
 | Ursprung | [aus Meer](https://www.bibleserver.com/SLT/Offenbarung13%2C1), [von der Erde](https://www.bibleserver.com/SLT/Offenbarung13%2C11) | [in Sacktuch](https://www.bibleserver.com/SLT/Offenbarung11%2C3) |
-| Identität | Tier mit Hörnern aus [Meer](https://www.bibleserver.com/SLT/Offenbarung13%2C1) und von [Land](https://www.bibleserver.com/SLT/Offenbarung13%2C1) vom Drachen gesandt, wie in [Daniel](https://www.bibleserver.com/SLT/Daniel7%2C7) | [Beiden Ölbäume und LEuchter, die vor dem Herrn stehen](https://www.bibleserver.com/SLT/Offenbarung11%2C5-6) wie in [Sacharja](https://www.bibleserver.com/SLT/Sacharja4%2C2-6) |
-| Macht | [Drache](https://www.bibleserver.com/SLT/Offenbarung13%2C2) und [erste Tier](https://www.bibleserver.com/SLT/Offenbarung13%2C2) übertragen Macht | [Sie fürchten ihm ihr Leben, denn sie sind Zeugnis Gottes](https://www.bibleserver.com/SLT/Offenbarung11%2C5-6) |
-| Zeichen und Wunder | [Das erste](https://www.bibleserver.com/SLT/Offenbarung13%2C3-4) und [zweite Tier](https://www.bibleserver.com/SLT/Offenbarung13%2C12-14) unterdrücken andere durch Zeichen und Wunder, und [erste](https://www.bibleserver.com/SLT/Offenbarung13%2C3) und [zweite](https://www.bibleserver.com/SLT/Offenbarung13%2C13) Tier sind unbesiegbar | [Sie können sich nur verteidigen, Zeichen sind  nicht zur Unterwerfung da.](https://www.bibleserver.com/SLT/Offenbarung11%2C5-6) |
-| Prahlerei | [Das erste](https://www.bibleserver.com/SLT/Offenbarung13%2C4-6) und [zweite](https://www.bibleserver.com/SLT/Offenbarung12) Tier geben vor, Gott zu sein und verhöhnen Gott. | [Menschen freuen sich, dass die Zeugen tot sind und stellen ihre Körper zur Schau](https://www.bibleserver.com/SLT/Offenbarung11%2C9-10) |
-| Überwinden | [Das erste](https://www.bibleserver.com/SLT/Offenbarung13%2C7) und [zweite](https://www.bibleserver.com/SLT/Offenbarung13%2C15) Tier töten ihre Feinde. |
-			Jeder <span style="color:green;">unterwirft sich</span> und gibt dem [ersten](https://www.bibleserver.com/SLT/Offenbarung13%2C8) und [zweitem](https://www.bibleserver.com/SLT/Offenbarung13%2C16-17) Tier ihre Loylität.
-			Aber <span style="color:red;">NICHT die Gläubigen</span>.
-<td>[Die Heiligen werden werden wiederhergestellt und erhoben](https://www.bibleserver.com/SLT/Offenbarung11%2C11-12)</td>
-[Alle anderen werden entweder gerichtet oder geben Gott die Ehre.](https://www.bibleserver.com/SLT/Offenbarung11%2C13-14)
-
-<tr>
-<td>Achtung!</td>
-<td>Das [erste](https://www.bibleserver.com/SLT/Offenbarung13%2C9-10) und [zweite Tier](https://www.bibleserver.com/SLT/Offenbarung13%2C18) haben <span style="color:green;">versteckte Gefahren</span></td>
-<td>[Ausführliche sichtbarer Triumph: Gottes Reich ist da](https://www.bibleserver.com/SLT/Offenbarung11%2C15-19)</td>
-</tr>
+| Identität | Tier mit Hörnern aus [Meer](https://www.bibleserver.com/SLT/Offenbarung13%2C1) und von [Land](https://www.bibleserver.com/SLT/Offenbarung13%2C1) vom <span style="color:red;">Drachen</span> gesandt, wie in [Daniel](https://www.bibleserver.com/SLT/Daniel7%2C7) | [Beiden Ölbäume und Leuchter, die vor dem <span style="color:red;">Herrn</span> stehen](https://www.bibleserver.com/SLT/Offenbarung11%2C5-6) wie in [Sacharja](https://www.bibleserver.com/SLT/Sacharja4%2C2-6) |
+| Macht | [Drache](https://www.bibleserver.com/SLT/Offenbarung13%2C2) und [erste Tier](https://www.bibleserver.com/SLT/Offenbarung13%2C2) <span style="color:red;">übertragen Macht</span> | [Sie <span style="color:red;">fürchten ihm ihr Leben</span>, denn sie sind Zeugnis Gottes](https://www.bibleserver.com/SLT/Offenbarung11%2C5-6) |
+| Zeichen und Wunder | [Das erste](https://www.bibleserver.com/SLT/Offenbarung13%2C3-4) und [zweite Tier](https://www.bibleserver.com/SLT/Offenbarung13%2C12-14) <span style="color:red;">unterdrücken andere durch Zeichen und Wunder</span>, und [erste](https://www.bibleserver.com/SLT/Offenbarung13%2C3) und [zweite](https://www.bibleserver.com/SLT/Offenbarung13%2C13) Tier sind <span style="color:red;">unbesiegbar</span> | [Sie können sich nur <span style="color:red;">verteidigen</span>, Zeichen sind <span style="color:red;">nicht zur Unterwerfung</span> da.](https://www.bibleserver.com/SLT/Offenbarung11%2C5-6) |
+| Prahlerei | [Das erste](https://www.bibleserver.com/SLT/Offenbarung13%2C4-6) und [zweite](https://www.bibleserver.com/SLT/Offenbarung12) <span style="color:red;">Tiere geben vor, Gott zu sein und verhöhnen Gott</span>. | [Menschen freuen sich, <span style="color:red;">dass die Zeugen tot sind und stellen ihre Körper zur Schau</span>](https://www.bibleserver.com/SLT/Offenbarung11%2C9-10) |
+| Überwinden | [Das erste](https://www.bibleserver.com/SLT/Offenbarung13%2C7) und [zweite](https://www.bibleserver.com/SLT/Offenbarung13%2C15) Tier <span style="color:red;">töten ihre Feinde</span>. </br> Jeder <span style="color:green;">unterwirft sich</span> und gibt dem [ersten](https://www.bibleserver.com/SLT/Offenbarung13%2C8) und [zweitem](https://www.bibleserver.com/SLT/Offenbarung13%2C16-17) Tier ihre Loylität. </br>Aber <span style="color:red;">NICHT die Gläubigen</span>. | [Die Heiligen werden werden <span style="color:red;">wiederhergestellt und erhoben</span>](https://www.bibleserver.com/SLT/Offenbarung11%2C11-12)</br>[Alle anderen werden <span style="color:red;">entweder gerichtet oder geben Gott die Ehre.</span>](https://www.bibleserver.com/SLT/Offenbarung11%2C13-14) |
+| Achtung! | Das [erste](https://www.bibleserver.com/SLT/Offenbarung13%2C9-10) und [zweite Tier](https://www.bibleserver.com/SLT/Offenbarung13%2C18) haben <span style="color:red;">versteckte Gefahren</span> | [<span style="color:red;">Ausführlicher sichtbarer Triumph</span>: Gottes Reich ist da](https://www.bibleserver.com/SLT/Offenbarung11%2C15-19) |
 
 Beide (versuchen) [Jesus den Überwinder nachzuahmen](https://www.bibleserver.com/SLT/Offenbarung12%2C1-12)
 

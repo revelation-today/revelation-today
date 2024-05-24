@@ -1,6 +1,9 @@
 ---
 title: "The key of prayer"
 weight: 3
+prev: /topics/power/short/the-power-of-testimony
+next: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
+docType: appl
 ---
 
 The subject of prayer does not seem very prominent in Revelation. But a closer look reveals its essential role there.

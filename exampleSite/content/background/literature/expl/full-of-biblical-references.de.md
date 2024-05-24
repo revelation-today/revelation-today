@@ -4,6 +4,10 @@ weight: 30
 sources:
     - pages: 82–83
       ref: beale_rev
+prev: /background/literature/expl/literally-or-symbolic
+next: /background/literature/expl/literary-tools-in-the-book-of-revelation
+docType: expl
+appl: /background/literature/appl/what-are-we-reading
 ---
 
 Ein Schlüssel zum Verständnis der Offenbarung besteht darin, die Bibel durch die Bibel zu erklären, denn das Buch Offenbarung ist voll von Bezügen zur übrigen Bibel. Aber ist das wirklich so und haben es die ersten Leser auch so verstanden?

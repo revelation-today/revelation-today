@@ -4,6 +4,10 @@ weight: 1
 sources:
     - pages: 21–46
       ref: richter
+prev: /background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
+next: /background/israel/expl/gods-covenant
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 Befürwortet die Bibel patriarchale Strukturen? Sagt sie, dass Frauen nicht gleichwertig sind? Ganz und gar nicht. Lass mich erklären, wie die Familie damals funktionierte.

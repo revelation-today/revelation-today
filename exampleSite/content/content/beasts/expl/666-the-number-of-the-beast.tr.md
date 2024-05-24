@@ -1,6 +1,10 @@
 ---
 title: "666: Canavarın numarası"
 weight: 4
+prev:  /content/beasts/expl/the-beasts-and-the-666-in-historical-context
+next: /content/beasts/expl/the-nature-of-the-beast
+docType: expl
+appl: /content/beasts/appl/the-perfect-gospel
 sources:
     - pages: 384–452
       ref: bauckham_climax

@@ -3,9 +3,13 @@ title: "The answer to all questions"
 weight: 1
 deeper:
     - name: Worship at the throne
-      link: ../../../../content/worship/expl/worship-in-the-throne-room
+      link: /content/worship/expl/worship-in-the-throne-room
     - name: What is worship?
-      link: ../../../../topics/power/short/worship
+      link: /topics/power/short/worship
+prev: /content/letters/appl/the-challenges
+next: /content/seals/appl/the-paradox-of-the-seven-seals
+docType: appl
+expl: /content/worship/expl/worship-in-the-throne-room
 ---
 
 How should all the challenges of the churches be answered? What is the plan of action that God will take? It is simple: God is not doing anything, he is resting in worship and that is where we need to start.

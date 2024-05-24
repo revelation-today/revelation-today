@@ -3,11 +3,11 @@ title: "The plagues in Egypt"
 weight: 40
 deeper:
     - name: How everything begun
-      link: ../../../../bible/exodus/expl/the-story-before-the-exodus0
+      link: /bible/exodus/expl/the-story-before-the-exodus0
     - name: The different hero
-      link: ../../../../bible/exodus/expl/the-birth-of-moses
+      link: /bible/exodus/expl/the-birth-of-moses
     - name: The hardening of the heart
-      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+      link: /bible/exodus/expl/the-hardening-of-pharaohs-heart
 sources:
     - pages: 38–80
       ref: sarna_exo

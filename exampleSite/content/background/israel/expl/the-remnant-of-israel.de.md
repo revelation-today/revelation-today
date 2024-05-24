@@ -4,6 +4,10 @@ weight: 4
 sources:
     - pages: 658–669
       ref: beale_theo
+prev: /background/israel/expl/the-day-of-the-lord
+next: /background/israel/expl/jesus-and-the-covenant
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 Was ist der Überrest Israels? Und wie wird Israel nach dem Exil wiederhergestellt?

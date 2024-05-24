@@ -3,9 +3,13 @@ title: "Manche Dinge ändern sich nie"
 weight: 1
 deeper:
     - name: Der historische Hintergrund
-      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+      link: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
     - name: Israel und die Gemeinde
-      link: ../../../../background/israel/expl/israel-and-the-church
+      link: /background/israel/expl/israel-and-the-church
+prev: /gen/overview
+next: /background/literature/appl/what-are-we-reading
+docType: appl
+expl: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Das Buch der Offenbarung ist an bestimmte Menschen in einer bestimmten Zeit gerichtet, aber die Probleme sind heute die gleichen und die Lösungen auch.

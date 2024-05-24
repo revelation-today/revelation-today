@@ -3,13 +3,17 @@ title: "Mükemmel “müjde”"
 weight: 1
 deeper:
     - name: İki canavar
-      link: ../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+      link: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
     - name: Canavarın sayısı
-      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+      link: /content/beasts/expl/666-the-number-of-the-beast
     - name: Orijinal bağlamda canavar
-      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+      link: /content/beasts/expl/the-beasts-and-the-666-in-historical-context
     - name: Canavarın doğası
-      link: ../../../../content/beasts/expl/the-nature-of-the-beast
+      link: /content/beasts/expl/the-nature-of-the-beast
+prev: /content/jesus/appl/jesus-and-the-fall-of-the-devil
+next: /content/harvest/appl/the-weapons-of-the-church
+docType: appl
+expl: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
 ---
 
 Bu bölüm yıkıma koşan iki canavar gibi görünüyor, ancak bu tüm kitaptaki en derin bölümlerden biri. Hadi hazırlanalım.

@@ -1,6 +1,9 @@
 ---
 title: "Worship"
 weight: 1
+prev: /topics/hero/short/who-rules-the-world
+next: /topics/power/short/the-power-of-testimony
+docType: appl
 ---
 
 The key theme of Revelation is not really judgment, but worship, which is present throughout the book, a key answer to the struggle of the churches, and much more. What exactly is worship and how do we live it?

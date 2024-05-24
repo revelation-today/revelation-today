@@ -3,9 +3,13 @@ title: "Cennet ve cehennem ne hakkında?"
 weight: 1
 deeper:
     - name: Yeni Kudüs
-      link: ../../../../content/paradise/expl/the-new-jerusalem
+      link: /content/paradise/expl/the-new-jerusalem
     - name: Cennet ve Cehennem
-      link: ../../../../content/paradise/expl/heaven-and-hell
+      link: /content/paradise/expl/heaven-and-hell
+prev: /content/1000y/appl/1000-years-of-paradise
+next: /topics/hero/short/a-real-hero
+docType: appl
+expl: /content/paradise/expl/the-new-jerusalem
 ---
 
 Vahiy kitabı cennetle ilgili büyük bir sonla biter. Ancak daha yakından baktığımızda, okurken kolayca gözden kaçırabileceğiniz çok şey vardır. Gelin birlikte bakalım.

@@ -1,9 +1,13 @@
 ---
 title: "Ein Buch mit sieben Siegeln"
 weight: 2
+prev:  /content/worship/expl/worship-in-the-throne-room
+next: /content/seals/expl/the-mystery-of-the-four-horse-men
+docType: expl
+appl: /content/seals/appl/the-paradox-of-the-seven-seals
 deeper:
     - name: Die apokalyptischen Reiter
-      link: ../../../../content/seals/expl/the-mystery-of-the-four-horse-men
+      link: /content/seals/expl/the-mystery-of-the-four-horse-men
 sources: 
     - pages: 337–369
       ref: beale_rev

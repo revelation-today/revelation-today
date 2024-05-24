@@ -1,6 +1,10 @@
 ---
 title: "Kıyamet"
 weight: 3
+prev: /topics/others/expl/dispensionalism-and-its-critic
+next: /topics/others/expl/judgment-in-the-book-of-revelation
+docType: expl
+appl: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
 sources: 
     - pages: 173-186
       ref: rossing

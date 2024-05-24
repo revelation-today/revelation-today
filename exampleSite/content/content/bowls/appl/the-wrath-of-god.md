@@ -3,11 +3,15 @@ title: "The wrath of God"
 weight: 1
 deeper:
     - name: The bowls of wrath
-      link: ../../../../content/bowls/expl/the-bowls-of-wrath
+      link: /content/bowls/expl/the-bowls-of-wrath
     - name: The meaning of Armageddon
-      link: ../../../../content/bowls/expl/the-key-to-armageddon
+      link: /content/bowls/expl/the-key-to-armageddon
     - name: Armageddon and the battle of Karkemish
-      link: ../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish
+      link: /content/bowls/expl/armageddon-and-the-battle-of-karkemish
+prev: /content/harvest/appl/the-weapons-of-the-church
+next: /content/harlot/appl/the-harlot-the-complexity-of-evil
+docType: appl
+expl: /content/bowls/expl/the-bowls-of-wrath
 ---
 
 This is very it’s finally getting serious.

@@ -1,6 +1,10 @@
 ---
 title: "Tanrı’nın ordusu ve yedi melek"
 weight: 2
+prev:  /content/beasts/expl/the-nature-of-the-beast
+next: /content/bowls/expl/the-bowls-of-wrath
+docType: expl
+appl: /content/harvest/appl/the-weapons-of-the-church
 sources: 
     - pages: 730–784
       ref: beale_rev

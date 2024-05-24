@@ -1,5 +1,8 @@
 ---
 title: "Gerçek kahraman nedir?"
+prev: /content/paradise/appl/what-is-heaven-and-hell-about
+next: /topics/hero/short/who-rules-the-world
+docType: appl
 ---
 
 Kahraman nedir? Normalde bir yıkım insanı. Kahraman ne olmalıdır? Kutsal Kitap bu konuda ne diyor?

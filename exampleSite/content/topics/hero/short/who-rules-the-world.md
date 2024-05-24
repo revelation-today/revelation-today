@@ -1,5 +1,8 @@
 ---
 title: "Who rules the world"
+prev: /topics/hero/short/a-real-hero
+next: /topics/power/short/worship
+docType: appl
 ---
 
 The book of Revelation gives us a very mixed picture of who rules the world. On the one hand there is Satan who seems to be in full control and destroying all resistance, but there is also the Church who seems to be in control. What is going on here and what does it mean to be in control?

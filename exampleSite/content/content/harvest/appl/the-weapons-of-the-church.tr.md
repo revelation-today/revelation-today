@@ -3,7 +3,11 @@ title: "Tanrı’nın ordusu ve ulusların kaderi: İşte böyle sona eriyor"
 weight: 1
 deeper:
     - name: Tanrı’nın ordusu ve yedi melek
-      link: ../../../../content/harvest/expl/gods-army-and-the-seven-angels
+      link: /content/harvest/expl/gods-army-and-the-seven-angels
+prev: /content/jesus/appl/jesus-and-the-fall-of-the-devil
+next: /content/bowls/appl/the-wrath-of-god
+docType: appl
+expl: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
 ---
 
 Kilisenin imansız dünyaya, ejderhaya ve canavara karşı savaşta kullandığı silahlar nelerdir? Sonsuz müjde nedir?

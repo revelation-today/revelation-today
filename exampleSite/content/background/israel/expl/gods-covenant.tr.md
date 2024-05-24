@@ -3,10 +3,14 @@ title: "Tanrı’nın antlaşması"
 weight: 2
 readBefore:
     - name: Ailenin rolü
-      link: ../../../../background/israel/expl/the-role-of-family-in-the-bible
+      link: /background/israel/expl/the-role-of-family-in-the-bible
 sources:
     - pages: 69-
       ref: richter
+prev: /background/israel/expl/the-role-of-family-in-the-bible
+next: /background/israel/expl/the-day-of-the-lord
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 [Eski zamanlarda bir ailede olmak hayatta kalmak için gerekliydi](../../../../background/israel/expl/the-role-of-family-in-the-bible) (tedarik, koruma, …) ve önemli bir ailede olmak daha da iyiydi.

@@ -1,6 +1,10 @@
 ---
 title: "İsa ve antlaşma"
 weight: 5
+prev: /background/israel/expl/the-remnant-of-israel
+next: /background/israel/expl/the-second-exodus
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 İsa yeryüzüne geldiğinde, Yahudiler için gerçekten şok edici olan mesajı ve davranışlarıyla insanları “şaşırttı”. Neden ve bunun antlaşmayla ne ilgisi var?

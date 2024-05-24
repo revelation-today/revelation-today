@@ -3,7 +3,11 @@ title: "Ein kleines Buch mit großer Wirkung"
 weight: 1
 deeper:
     - name: Das kleine Büchlein
-      link: ../../../../content/scroll/expl/the-little-scroll
+      link: /content/scroll/expl/the-little-scroll
+prev: /content/trumpets/appl/prayer-and-the-unshakeable
+next: /content/witnesses/appl/the-force-that-changes-the-world
+docType: appl
+expl: /content/scroll/expl/the-little-scroll
 ---
 
 Was ist das kleine Buch, das Johannes essen soll und von dem nie wieder die Rede ist? Was soll man damit anfangen und hat es etwas mit dem Buch mit den sieben Siegeln zu tun?

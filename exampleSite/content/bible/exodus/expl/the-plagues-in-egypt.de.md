@@ -3,11 +3,11 @@ title: "Die zehn Plagen in Ägypten"
 weight: 40
 deeper:
     - name: Wie alles begann
-      link: ../../../../bible/exodus/expl/the-story-before-the-exodus0
+      link: /bible/exodus/expl/the-story-before-the-exodus0
     - name: Ein anderer Held
-      link: ../../../../bible/exodus/expl/the-birth-of-moses
+      link: /bible/exodus/expl/the-birth-of-moses
     - name: Die Verhärtung des Herzen
-      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+      link: /bible/exodus/expl/the-hardening-of-pharaohs-heart
 sources:
     - pages: 38–80
       ref: sarna_exo

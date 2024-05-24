@@ -1,6 +1,10 @@
 ---
 title: "Armageddon and the battle of Karkemish"
 weight: 4
+prev:  /content/bowls/expl/the-bowls-of-wrath
+next: /content/harlot/expl/who-is-the-harlot-babylon-part-1
+docType: expl
+appl: /content/bowls/appl/the-wrath-of-god
 ---
 
 So what does one of the most important battles in the Middle East of the first millennium before Christ have to do with the end-time battle connected to the end of the world? Well — more than just the word battle.

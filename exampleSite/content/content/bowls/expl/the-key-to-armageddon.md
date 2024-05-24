@@ -1,9 +1,13 @@
 ---
 title: "The key to Armageddon"
 weight: 3
+prev:  /content/bowls/expl/the-bowls-of-wrath
+next: /content/bowls/expl/armageddon-and-the-battle-of-karkemish
+docType: expl
+appl: /content/bowls/appl/the-wrath-of-god
 deeper:
     - name: The battle of Karkemish
-      link: ../../../../content/bowls/expl/armageddon-and-the-battle-of-karkemish
+      link: /content/bowls/expl/armageddon-and-the-battle-of-karkemish
 sources: 
     - pages: 838-841
       ref: beale_rev

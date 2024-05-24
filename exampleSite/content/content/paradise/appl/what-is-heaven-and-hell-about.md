@@ -3,9 +3,13 @@ title: "What is heaven and hell about?"
 weight: 1
 deeper:
     - name: The new Jerusalem
-      link: ../../../../content/paradise/expl/the-new-jerusalem
+      link: /content/paradise/expl/the-new-jerusalem
     - name: Heaven and hell
-      link: ../../../../content/paradise/expl/heaven-and-hell
+      link: /content/paradise/expl/heaven-and-hell
+prev: /content/1000y/appl/1000-years-of-paradise
+next: /topics/hero/short/a-real-hero
+docType: appl
+expl: /content/paradise/expl/the-new-jerusalem
 ---
 
 The book of Revelation ends on a high note with heaven. But if we take a closer look, there is a lot that is easily overlooked in the reading. Let’s take a look together.

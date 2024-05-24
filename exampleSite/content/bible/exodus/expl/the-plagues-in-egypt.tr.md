@@ -3,11 +3,11 @@ title: "Mısır’ın Başına Gelen Belalar"
 weight: 40
 deeper:
     - name: Her şey nasıl başladı
-      link: ../../../../bible/exodus/expl/the-story-before-the-exodus0
+      link: /bible/exodus/expl/the-story-before-the-exodus0
     - name: Farklı kahraman
-      link: ../../../../bible/exodus/expl/the-birth-of-moses
+      link: /bible/exodus/expl/the-birth-of-moses
     - name: Kalbin katılaşması
-      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+      link: /bible/exodus/expl/the-hardening-of-pharaohs-heart
 sources:
     - pages: 38–80
       ref: sarna_exo

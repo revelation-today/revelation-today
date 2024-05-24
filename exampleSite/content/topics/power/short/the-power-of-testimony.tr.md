@@ -1,6 +1,9 @@
 ---
 title: "Tanıklığın gücü"
 weight: 2
+prev: /topics/power/short/worship
+next: /topics/power/short/the-key-of-prayer
+docType: appl
 ---
 
 Tanıklık ve şahitler vahiyde kilit bir konudur. Bu konunun orada ne kadar çok yayıldığına şaşıracaksınız. Ama şahitliğin amacı nedir?

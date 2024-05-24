@@ -2,6 +2,8 @@
 linkTitle: Geschichte
 title: Geschichtlicher Hintergrund
 weight: 1
+prev: /gen/overview
+next: /background/literature
 ---
 
 Die größten Herausforderungen für die Christen waren

@@ -1,9 +1,13 @@
 ---
 title: "Küçük parşömen"
 weight: 2
+prev:  /content/trumpets/expl/the-trumpets-in-revelation
+next: /content/witnesses/expl/the-two-witnesses
+docType: expl
+appl: /content/scroll/appl/a-little-scroll-with-big-impact
 deeper:
     - name: İki tanık
-      link: ../../../../content/witnesses/expl/the-two-witnesses
+      link: /content/witnesses/expl/the-two-witnesses
 sources: 
     - pages: 520–555
       ref: beale_rev

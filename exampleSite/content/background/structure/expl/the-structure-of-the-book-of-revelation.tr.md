@@ -3,12 +3,16 @@ title: "Vahiy Kitabı’nın yapısı"
 weight: 10
 readBefore:
     - name: Kitabın tarihsel arka planı
-      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+      link: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
     - name: Ne tür bir kitap bu?
-      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+      link: /background/literature/expl/the-book-of-revelation-how-to-read-it
 sources:
     - pages: 108–170
       ref: beale_rev
+prev: /background/literature/expl/literary-tools-in-the-book-of-revelation
+next: /background/structure/expl/the-three-mysteries
+docType: expl
+appl: /background/structure/appl/the-timeline-in-the-book-of-revelation
 ---
 
 Vahiy Kitabı ilk bakışta çok düzensiz görünür. Felaketler birbiri ardına gelir ve sonra tekrar başlar. Ancak daha yakından bakarsak sanatsal bir yapı ve kasıtlı bir çalışma görürüz.

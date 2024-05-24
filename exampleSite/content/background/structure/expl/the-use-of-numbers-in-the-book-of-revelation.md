@@ -6,6 +6,10 @@ sources:
       ref: beale_rev
     - pages: 384–407
       ref: bauckham_climax
+prev: /background/structure/expl/the-three-mysteries
+next: /background/israel/expl/the-role-of-family-in-the-bible
+docType: expl
+appl: /background/structure/appl/the-timeline-in-the-book-of-revelation
 ---
 
 The book is full of numbers, but what do they mean? Are they literal, like 1260 days, or are they meant to be red in some other way? How are numbers used in the Bible?

@@ -6,6 +6,10 @@ sources:
       ref: beale_rev
     - pages: 384–407
       ref: bauckham_climax
+prev: /background/structure/expl/the-three-mysteries
+next: /background/israel/expl/the-role-of-family-in-the-bible
+docType: expl
+appl: /background/structure/appl/the-timeline-in-the-book-of-revelation
 ---
 
 Kitap sayılarla dolu ama bunlar ne anlama geliyor? Sayılar 1260 gün gibi harfi harfine mi alınır yoksa başka bir şekilde mi anlamlandırılmalıdır? Kutsal Kitap boyunca sayılar nasıl kullanılır?

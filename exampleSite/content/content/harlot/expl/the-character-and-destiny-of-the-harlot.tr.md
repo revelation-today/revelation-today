@@ -1,6 +1,10 @@
 ---
 title: "Fahişenin karakteri ve kaderi"
 weight: 4
+prev:  /content/harlot/expl/who-is-the-harlot-babylon-part-2
+next: /content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+docType: expl
+appl: /content/harlot/appl/the-harlot-the-complexity-of-evil
 sources: 
     - pages: 890–948
       ref: beale_rev

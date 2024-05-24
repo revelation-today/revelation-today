@@ -3,7 +3,11 @@ title: "1000 yıllık cennet mi?"
 weight: 1
 deeper: 
     - name: 1000 yıllık krallık
-    - link: ../../../../content/1000y/expl/the-thousand-year-kingdom
+    - link: /content/1000y/expl/the-thousand-year-kingdom
+prev: /content/harlot/appl/the-harlot-the-complexity-of-evil
+next: /content/paradise/appl/what-is-heaven-and-hell-about
+docType: appl
+expl: /content/1000y/expl/the-thousand-year-kingdom
 ---
 
 1000 yıllık krallık genellikle iyilerin hüküm sürdüğü ve kötülüğün bağlandığı mükemmel bir dünya olarak tanımlanır ve yeni cennet ve yeni dünya kurulmadan önce gerçekleşir. Ama durum böyle midir?

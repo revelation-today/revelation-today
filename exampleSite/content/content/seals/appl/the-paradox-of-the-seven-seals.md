@@ -3,15 +3,19 @@ title: "The paradox of the seven seals"
 weight: 1
 deeper:
     - name: A real hero
-      link: ../../../../topics/hero/short/a-real-hero
+      link: /topics/hero/short/a-real-hero
     - name: Who rules the world?
-      link: ../../../../topics/hero/short/who-rules-the-world
+      link: /topics/hero/short/who-rules-the-world
     - name: The book with the seven seals
-      link: ../../../../content/seals/expl/the-book-with-the-seven-seals
+      link: /content/seals/expl/the-book-with-the-seven-seals
     - name: The mystery of the four horsemen
-      link: ../../../../content/seals/expl/the-mystery-of-the-four-horse-men
+      link: /content/seals/expl/the-mystery-of-the-four-horse-men
     - name: The wrath of the lamb
-      link: ../../../../content/seals/expl/the-wrath-of-the-lamb
+      link: /content/seals/expl/the-wrath-of-the-lamb
+prev: /content/worship/appl/the-answer-to-all-questions
+next: /content/army/appl/the-strange-army
+docType: appl
+expl: /content/seals/expl/the-book-with-the-seven-seals
 ---
 
 The seven seals is the time when the book becomes really confusing and even disturbing. What is it all about? What is in the book of the seven seals, and who are these riders?

@@ -2,13 +2,17 @@
 title: "Ne okuyoruz"
 deeper:
     - name: Tür hakkında daha fazlası
-      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+      link: /background/literature/expl/the-book-of-revelation-how-to-read-it
     - name: Eski Ahit, resimleri anlamak için önemli bir anahtar
-      link: ../../../../background/literature/expl/full-of-biblical-references
+      link: /background/literature/expl/full-of-biblical-references
     - name: Bunların hepsi sembol mü?
-      link: ../../../../background/literature/expl/literally-or-symbolic
+      link: /background/literature/expl/literally-or-symbolic
     - name: Tüm bu sayılar ne anlama geliyor ve şiirin güzelliği
-      link: ../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
+      link: /background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
+prev: /background/history/appl/some-things-never-change
+next: /background/structure/appl/the-timeline-in-the-book-of-revelation
+docType: appl
+expl: /background/literature/expl/the-book-of-revelation-how-to-read-it
 ---
 
 Bir kitabı okuduğumuzda belli bir beklentiyle okuruz. Bilimsel bir raporu bilim kurgudan ya da bir aşk şiirini aksiyon gerilimden farklı okursunuz. Dolayısıyla Vahiy kitabını okuduğunuzda bunun Tanrı’nın insanlıktan büyük bir intikamı olduğunu ya da kendinden geçme gibi bazı özel durumlarla birlikte ahir zaman felaketleri hakkında distopik bir roman olduğunu ya da sadece çılgın hikayelerden oluşan kaotik bir koleksiyon olduğunu düşünebilirsiniz.

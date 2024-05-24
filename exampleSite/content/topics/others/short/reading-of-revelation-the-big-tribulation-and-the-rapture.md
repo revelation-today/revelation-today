@@ -1,5 +1,7 @@
 ---
 title: "Reading of Revelation: The Great Tribulation and the Rapture"
+prev: /topics/power/short/the-key-of-prayer
+docType: appl
 ---
 
 There are quite a few people who consider the Great Tribulation and the Rapture to be a key teaching of the Bible, while others completely deny them. Which is the truth?

@@ -1,9 +1,13 @@
 ---
 title: "Die Gemeinde als Teil von Israel"
-weight: 6
+weight: 7
 sources:
     - pages: 669–679
       ref: beale_theo
+prev: /background/israel/expl/the-second-exodus
+next: /background/israel/expl/israel-and-the-church
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 Das klingt merkwürdig. Ist die Kirche nicht viel größer als Israel? Und ersetzt die Kirche nicht Israel? Oder wird Israel am Ende der Zeit nicht ohne die Gemeinde wiederkommen? Das setzt einen Gegensatz voraus, den es nicht gibt.

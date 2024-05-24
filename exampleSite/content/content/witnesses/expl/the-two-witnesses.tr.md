@@ -1,9 +1,13 @@
 ---
 title: "İki Tanık"
 weight: 2
+prev:  /content/scroll/expl/the-little-scroll
+next: /content/jesus/expl/a-different-christmas-story
+docType: expl
+appl: /content/witnesses/appl/the-force-that-changes-the-world
 deeper:
     - name: Tanıklığın gücü
-      link: ../../../../topics/power/short/the-power-of-testimony
+      link: /topics/power/short/the-power-of-testimony
 sources: 
     - pages: 556–620
       ref: beale_rev
@@ -99,61 +103,29 @@ Canavarlara baktığımızda, nasıl tarif edildiklerine dair bir model izliyorl
 
 | Konu | İlk hayvan | İkinci hayvan |
 |------|------------|---------------|
-| Köken | [ Denizden](https://www.bibleserver.com/TR/Vahiy13%3A1) | [ Topraktan](https://www.bibleserver.com/TR/Vahiy13%3A11) |
-| Kimlik (Daniel ile) | [Yedi Boynuzlu Canavar](https://www.bibleserver.com/TR/Vahiy13%3A1) -&gt; Devam ve Diyarların Gücü | [Kuzu gibi iki boynuzu olan hayvan/insanoğlu](https://www.bibleserver.com/TR/Vahiy13%3A11) |
-| Güç | [Ejderha güç ve tahtverir](https://www.bibleserver.com/TR/Vahiy13%3A2) | [ İlk canavarın gücüyle hüküm sürer](https://www.bibleserver.com/TR/Vahiy13%3A12) |
-| İşaretler ve ibadet | [Ölümcül yara iyileşti](https://www.bibleserver.com/TR/Vahiy13%3A3)
-[Tüm dünya hayretler içinde](https://www.bibleserver.com/TR/Vahiy13%3A3)
-[Canavara güç verenejderhaya tapınmak](https://www.bibleserver.com/TR/Vahiy13%3A4) | [Herkesi yarası iyileşmiş olan ilk canavara tapmaya zorlar](https://www.bibleserver.com/TR/Vahiy13%3A12)[ Büyük işaret](https://www.bibleserver.com/TR/Vahiy13%3A13-14)ler[yapar , gökten ateş yağmasına neden olur, işaretlerle kandırır](https://www.bibleserver.com/TR/Vahiy13%3A13-14)
-[ İlk canavarın gücünü alır](https://www.bibleserver.com/TR/Vahiy13%3A14) |
-| Övünmek | [Kim canavar gibi(onun gibi güçlü)](https://www.bibleserver.com/TR/Vahiy13%3A4)
-[Tanrı'ya ve halkına karşı büyük küfürler](https://www.bibleserver.com/TR/Vahiy13%3A5-6) | [ Hayvanın](https://www.bibleserver.com/TR/Vahiy13%3A14) suretini [yapar](https://www.bibleserver.com/TR/Vahiy13%3A14) (insan Tanrı'nın suretinde yaratılmıştır -&gt; insan Tanrı'nın temsilcisidir).
-				Hayvanın[konuşabilmesi için hayat verebilir](https://www.bibleserver.com/TR/Vahiy13%3A14-15),  ancak sadece Tanrı hayat verebilir |
-| Azizlerin üstesinden gelir | [ Azizlere karşı savaşır ve onları yener](https://www.bibleserver.com/TR/Vahiy13%3A17)
-[Kabileler, diller ve uluslar üzerinde gücü vardır](https://www.bibleserver.com/TR/Vahiy13%3A7)
-[Yeryüzündeki herkes Yaşam Kitabı'nda yazılı olmayan Canavar'a tapar](https://www.bibleserver.com/TR/Vahiy13%3A8). | [Surete tapmayan herkesi öldürün](https://www.bibleserver.com/TR/Vahiy13%3A15)
-[ Herkese işaret ](https://www.bibleserver.com/TR/Vahiy13%3A16) verin  
-[ Canavarın işaretine sahip olmayanhiç kimse alım satım yap](https://www.bibleserver.com/TR/Vahiy13%3A17)amaz. |
-| Dikkat | [ Kulağı olanvarsa duysun!](https://www.bibleserver.com/TR/Vahiy13%3A9)
-[İşte azizlerin sabrı ve imanı](https://www.bibleserver.com/TR/Vahiy13%3A10) | [İştebilgelik](https://www.bibleserver.com/TR/Vahiy13%3A18)
-[Anlayışı olan varsa:Saymak](https://www.bibleserver.com/TR/Vahiy13%3A18)  |
-<p>Sonunda ilginç bir chiasmus daha vardır: "İşte" ve "Eğer biri varsa", "Anlayışı olan saysın" ile "Kulağı olan işitsin" arasında bir denklik olduğunu gösterir: Say" ve "Kulağı olan işitsin", yani bilgi eyleme yol açmalıdır (İbranice'de işitmek=itaat etmek) ve "bilgelik" ile "azizlerin sabrı ve imanı", Weishiet'in sabır ve imanla sonuçlanması gerektiğini gösterir.</p>
+| Köken | [<span style="color:red;">Denizden</span>](https://www.bibleserver.com/TR/Vahiy13%2C1) | [<span style="color:red;">Topraktan</span>](https://www.bibleserver.com/TR/Vahiy13%2C11) |
+| Kimlik (Daniel ile) | [Yedi <span style="color:green;">boynuzlu canavar</span>](https://www.bibleserver.com/TR/Vahiy13%2C1) -> Krallıkların devamı ve gücü | [Kuzu/insanoğlu gibi iki <span style="color:green;">boynuzlu canavar</span>](https://www.bibleserver.com/TR/Vahiy13%2C11) |
+| Güç | [<span style="color:green;">ejderha</span> güç ve taht verir](https://www.bibleserver.com/TR/Vahiy13%2C2) | [<span style="color:green;">ilk canavarın</span> gücüyle hüküm sürer](https://www.bibleserver.com/TR/Vahiy13%2C12) |
+| İşaret ve İbadet | [<span style="color:green;">Ölümcül Yara İyileşti</span>](https://www.bibleserver.com/TR/Vahiy13%2C3) </br> [Tüm Dünya <span style="color:green;">Amazed</span>](https://www.bibleserver.com/TR/Vahiy13%2C3) </br> [<span style="color:green;">Canavara Güç Veren Ejderhaya</span> Tapın</span>](https://www.bibleserver.com/TR/Vahiy13%2C4) | [Herkesi <span style="color:green;">yarası iyileştirilen</span> <span style="color:green;">ilk canavara</span> tapmaya zorlar](https://www.bibleserver.com/TR/Vahiy13%2C12) </br> [<span style="color:green;">büyük işaretler yapar, gökten ateş yağdırır, işaretlerle</span> kandırır](https://www.bibleserver.com/TR/Vahiy13%2C13-14)</br> [<span style="color:green;">ilk canavarın</span> gücünü alır](https://www.bibleserver.com/TR/Vahiy13%2C14) |
+| övünme | [<span style="color:green;">canavar gibi olan</span> (onun gibi güçlü olan)](https://www.bibleserver.com/TR/Vahiy13%2C4)</br> [<span style="color:green;">Tanrı'ya ve halkına karşı büyük küfürler</span>](https://www.bibleserver.com/TR/Vahiy13%2C5-6) | [<span style="color:green;">canavarın sureti</span>](https://www.bibleserver.com/TR/Vahiy13%2C14) (İnsan Tanrı'nın suretinde yaratılmıştır -&gt; İnsan Tanrı'nın temsilcisidir)</br> [Hayvan konuşabilsin diye can verebilir](https://www.bibleserver.com/TR/Vahiy13%2C14-15), <span style="color:green;">ancak yalnızca Tanrı can verebilir</span> |
+[<span style="color:green;">Kutsallara karşı savaşır</span> ve onları yener](https://www.bibleserver.com/TR/Vahiy13%2C7)</br> [Has <span style="color:green;">power over tribes, languages and nations</span>](https://www.bibleserver.com/TR/Vahiy13%2C7) </br> [<span style="color:green;">Yeryüzündeki herkes</span> <span style="color:red;">Hayat Kitabı'nda yazılı olmayan canavara</span> tapar](https://www.bibleserver.com/TR/Vahiy13%2C8) | [<span style="color:green;">imgeye tapmayan herkesi öldürün</span>](https://www.bibleserver.com/TR/Vahiy13%2C15)</br> [Herkese <span style="color:green;">işaretler yapın</span>](https://www.bibleserver.com/TR/Vahiy13%2C16) </br> [<span style="color:green;">Hiç kimse</span> <span style="color:red;">canavarın işaretine</span> sahip olmadıkça <span style="color:green;">alamaz ya da satamaz</span>](https://www.bibleserver.com/TR/Vahiy13%2C17) |
+| Dikkat | [<span style="color:green;">Eğer</span> <span style="color:red;">kulağı olan varsa, dinlesin</span>!](https://www.bibleserver.com/TR/Vahiy13%2C9)</br> [<span style="color:green;">İşte</span> <span style="color:red;">kutsalların sabrı ve imanı</span>](https://www.bibleserver.com/TR/Vahiy13%2C10) | [<span style="color:green;">İşte</span> <span style="color:red;">Bilgelik</span>](https://www.bibleserver.com/TR/Vahiy13%2C18)</br>[<span style="color:green;">Eğer biri</span> <span style="color:red;">anlayışa sahipse: Say</span>!](https://www.bibleserver.com/TR/Vahiy13%2C18) |
+
+Sonunda ilginç bir chiasmus daha vardır: "İşte" ve "Eğer biri varsa", "Anlayışı olan saysın" ile "Kulağı olan işitsin" arasında bir denklik olduğunu gösterir: Say" ve "Kulağı olan işitsin", yani bilgi eyleme yol açmalıdır (İbranice'de işitmek=itaat etmek) ve "bilgelik" ile "azizlerin sabrı ve imanı", Weishiet'in sabır ve imanla sonuçlanması gerektiğini gösterir.
+
 Ancak bunun dışında [tanıklar](https://www.bibleserver.com/TR/Vahiy11%3A3-13) ve [hayvanlar](https://www.bibleserver.com/TR/Vahiy13) çok farklıdır.
 
-| Tema | Hayvanlar | Şahitler |
-|------|-----------|----------|
-| Çağıran | [Ejderha](https://www.bibleserver.com/TR/Vahiy12%2C17), [daimi kaybeden](https://www.bibleserver.com/TR/Vahiy12) | [Tanrı](https://www.bibleserver.com/TR/Vahiy11%2C3), [göğü ve yeri](https://www.bibleserver.com/TR/Vahiy10%2C2) |
+| Tema | Hayvanlar | Tanıklar |
+|-------|----------|----------|
+| Tarafından arandı | [<span style="color:red;">kalıcı kaybeden</span>](https://www.bibleserver.com/TR/Vahiy12) olan [ejderha](https://www.bibleserver.com/TR/Vahiy12%2C17) tarafından çağrılan | [<span style="color:red;">göklere ve yere</span>](https://www.bibleserver.com/TR/Vahiy10%2C2) hükmeden [tanrı](https://www.bibleserver.com/TR/Vahiy11%2C3) |
 | Kökeni | [denizden](https://www.bibleserver.com/TR/Vahiy13%2C1), [topraktan](https://www.bibleserver.com/TR/Vahiy13%2C11) | [çul içinde](https://www.bibleserver.com/TR/Vahiy11%2C3) |
-| Kimlik |  [denizden](https://www.bibleserver.com/TR/Vahiy13%2C1) gelen ve [karadan](https://www.bibleserver.com/TR/Vahiy13%2C1) ejderha tarafından gönderilen boynuzlu bir hayvan, [Daniel](https://www.bibleserver.com/SLT/Daniel7%2C7) | [Hem zeytin ağaçları hem de Sachariah](https://www.bibleserver.com/TR/Vahiy11%2C5-6) |'bin önünde duran LEuchter.
-		
-<tr>
-<td>Güç</td>
-<td>[Ejderha](https://www.bibleserver.com/TR/Vahiy13%2C2) ve [ilk canavar](https://www.bibleserver.com/TR/Vahiy13%2C2) <span style="color:red;">güç aktarımı</span></td>
-<td>[Onlar Tanrı'nın tanıkları oldukları için canlarıyla korkarlar](https://www.bibleserver.com/TR/Vahiy11%2C5-6)</td>.
-		</tr>
-<tr>
-<td>İşaretler ve mucizeler</td>
-<td>[Birinci](https://www.bibleserver.com/TR/Vahiy13%2C3-4) ve [ikinci](https://www.bibleserver.com/TR/Vahiy13%2C12-14) <span style="color:red;">canavar</span> <span style="color:red;">işaretler ve mucizelerle</span> diğerlerini baskı altına alır ve [birinci](https://www.bibleserver.com/TR/Vahiy13%2C3) ve [ikinci](https://www.bibleserver.com/TR/Vahiy13%2C13) canavar <span style="color:green;">yenilmez</span></td>dir.
-			<td>[Sadece savunabilirler, işaretler teslimiyet için orada değildir.](https://www.bibleserver.com/TR/Vahiy11%2C5-6)</td>
-</tr>
-<tr>
-<td>Parçalama</td>
-<td>[Birinci](https://www.bibleserver.com/TR/Vahiy13%2C4-6) ve [ikinci](https://www.bibleserver.com/TR/Vahiy12) canavarlar <span style="color:red;">Tanrı olduklarını iddia ederler ve Tanrı</span> ile alay ederler.</td>
-<td>[İnsanlar şahitlerin öldüğüne sevinirler ve cesetlerini teşhir ederler](https://www.bibleserver.com/TR/Vahiy11%2C9-10)</td>.
-		</tr>
-<tr>
-<td>Üstesinden Gel</td>
-<td>[İlk](https://www.bibleserver.com/TR/Vahiy13%2C7) ve [ikinci](https://www.bibleserver.com/TR/Vahiy13%2C15) <span style="color:red;">hayvan düşmanlarını öldürür</span>..
-			Her <span style="color:green;">başvur</span> ve [ilk](https://www.bibleserver.com/TR/Vahiy13%2C8) ve [ikinci](https://www.bibleserver.com/TR/Vahiy13%2C16-17) hayvana bağlılıklarını bildir.
-			Ama <span style="color:red;">İnançlı</span>lar değil.</td>
-<td>[Kutsallar onarılacak ve yukarı kaldırılacak](https://www.bibleserver.com/TR/Vahiy11%2C11-12). 
-			[Tüm diğerleri ya yargılanacak ya da Tanrı'ya yücelik verecekler.](https://www.bibleserver.com/TR/Vahiy11%2C13-14)</td>
-</tr>
-<tr>
-<td>Dikkat!</td>
-<td> [ilk](https://www.bibleserver.com/TR/Vahiy13%2C9-10) ve [ikinci canavar](https://www.bibleserver.com/TR/Vahiy13%2C18)'ın <span style="color:green;">gizli tehlikeleri</span></td> vardır.
-			<td>[Geniş görünür zafer: Tanrı'nın krallığı burada](https://www.bibleserver.com/TR/Vahiy11%2C15-19)</td>
-</tr>
+| Kimlik | [Daniel](https://www.bibleserver.com/TR/Daniel7%2C7)'de olduğu gibi <span style="color:red;">ejderha</span> tarafından gönderilen [denizden](https://www.bibleserver.com/TR/Vahiy13%2C1) ve [karadan](https://www.bibleserver.com/TR/Vahiy13%2C1) boynuzlu canavar | [Zekeriya](https://www.bibleserver.com/TR/Zekeriya4%2C2-6)'da olduğu gibi <span style="color:red;">Rab</span>](https://www.bibleserver.com/TR/Vahiy11%2C5-6)'bin önünde duran zeytin ağaçları ve şamdanlar |
+| güç | [ejderha](https://www.bibleserver.com/TR/Vahiy13%2C2) ve [ilk canavar](https://www.bibleserver.com/TR/Vahiy13%2C2) <span style="color:red;">güç</span> aktarırlar | [Tanrı'nın tanıklığı oldukları için <span style="color:red;">ondan</span> canlarıyla korkarlar</span>](https://www.bibleserver.com/TR/Vahiy11%2C5-6) |
+| İşaretler ve Harikalar | [Birinci](https://www.bibleserver.com/TR/Vahiy13%2C3-4) ve [ikinci](https://www.bibleserver.com/TR/Vahiy13%2C12-14) <span style="color:red;">işaretler ve harikalarla</span> başkalarını baskı altına alırlar ve [birinci](https://www.bibleserver.com/TR/Vahiy13%2C3) ve [ikinci](https://www. bibleserver.com/TR/Vahiy13%2C13) canavar <span style="color:red;">yenilmez</span> | [Sadece <span style="color:red;">kendilerini savunabilirler</span>, işaretler <span style="color:red;">boyun eğdirmek</span> için değildir](https://www.bibleserver.com/TR/Vahiy11%2C5-6) |
+| Övünmek | [Birinci](https://www.bibleserver.com/TR/Vahiy13%2C4-6) ve [ikinci](https://www.bibleserver.com/TR/Vahiy12) <span style="color:red;">hayvanlar Tanrı olduklarını iddia ederler ve Tanrı</span> ile alay ederler. | [İnsanlar şahitlerin ölmüş olmalarına sevinirler ve cesetlerini teşhir ederler</span>](https://www.bibleserver.com/TR/Vahiy11%2C9-10) |
+| Üstesinden gelin | [Birinci](https://www.bibleserver.com/TR/Vahiy13%2C7) ve [ikinci](https://www.bibleserver.com/TR/Vahiy13%2C15) canavarlar <span style="color:red;">düşmanlarını</span> öldürür. </br> Her biri <span style="color:green;">boyun eğdirir</span> ve [birinci](https://www.bibleserver.com/TR/Vahiy13%2C8) ve [ikinci](https://www.bibleserver.com/TR/Vahiy13%2C16-17) canavara sadakatlerini sunar. </br>Ama <span style="color:red;">inananlar</span> değil. | [Azizler <span style="color:red;">onarılacak ve yüceltilecektir</span>](https://www.bibleserver.com/TR/Vahiy11%2C11-12)</br>[Diğerleri <span style="color:red;">ya yargılanacak ya da Tanrı'ya yücelik verecektir.</span>](https://www.bibleserver.com/TR/Vahiy11%2C13-14)
+| Dikkat! | [Birinci](https://www.bibleserver.com/TR/Vahiy13%2C9-10) ve [İkinci canavar](https://www.bibleserver.com/TR/Vahiy13%2C18) <span style="color:red;">gizli tehlikelere</span> sahiptir | [<span style="color:red;">Görünür zafer</span>: Tanrı'nın krallığı burada](https://www.bibleserver.com/TR/Vahiy11%2C15-19) |
+
 
 Her ikisi de [üstün gelen İsa’yı](https://www.bibleserver.com/TR/Vahiy12%3A1-12) (yansıtmaya) çalışıyor.
 

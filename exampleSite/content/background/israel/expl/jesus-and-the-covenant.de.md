@@ -1,6 +1,10 @@
 ---
 title: "Jesus und der Bund"
 weight: 5
+prev: /background/israel/expl/the-remnant-of-israel
+next: /background/israel/expl/the-second-exodus
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 Als Jesus auf die Erde kam, „überraschte“ er die Menschen mit seiner Botschaft und seinem Verhalten, was für die Juden schockierend war. Warum und was hat das mit dem Bund Gottes zu tun?

@@ -3,12 +3,15 @@ title: "Pax Romana — key to understand the book of revelation"
 weight: 2
 deeper:
     - name: What kind of book is this?
-      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+      link: /background/literature/expl/the-book-of-revelation-how-to-read-it
     - name: Structure of the book
-      link: ../../../../background/structure/expl/the-structure-of-the-book-of-revelation
+      link: /background/structure/expl/the-structure-of-the-book-of-revelation
 sources:
     - pages: 28–33
       ref: beale_rev
+next: /background/literature/expl/the-book-of-revelation-how-to-read-it
+docType: expl
+appl: /background/history/appl/some-things-never-change
 ---
 
 You may think that the Book of Revelation in the Bible or the Pax Romana in ancient Rome have nothing to do with your life today. You are wrong, and here is why.

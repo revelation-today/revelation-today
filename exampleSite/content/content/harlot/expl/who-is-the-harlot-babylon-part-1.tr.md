@@ -1,11 +1,15 @@
 ---
 title: "Fahişe Kimdir Bölüm 1"
 weight: 2
+prev:  /content/bowls/expl/armageddon-and-the-battle-of-karkemish
+next: /content/harlot/expl/who-is-the-harlot-babylon-part-2
+docType: expl
+appl: /content/harlot/appl/the-harlot-the-complexity-of-evil
 deeper:
     - name: Fahişe 2. bölüm
-      link: ../../../../content/harlot/expl/who-is-the-harlot-babel-part-2
+      link: /content/harlot/expl/who-is-the-harlot-babel-part-2
     - name: Babil’in kökeni
-      link: ../../../../bible/keyword/expl/the-origin-of-babel
+      link: /bible/keyword/expl/the-origin-of-babel
 sources: 
     - pages: 847–890
       ref: beale_rev

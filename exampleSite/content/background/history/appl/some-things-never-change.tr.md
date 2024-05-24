@@ -3,9 +3,13 @@ title: "Bazı şeyler asla değişmez"
 weight: 1
 deeper:
     - name: Tarihsel arka plan
-      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+      link: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
     - name: İsrail ve kilise
-      link: ../../../../background/israel/expl/israel-and-the-church
+      link: /background/israel/expl/israel-and-the-church
+prev: /gen/overview
+next: /background/literature/appl/what-are-we-reading
+docType: appl
+expl: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Vahiy kitabı çok özel bir zamanda çok özel insanlara seslenir, ancak orada ele alınan sorunlar bugün de aynı sorunlardır ve çözümleri de aynıdır. Bir göz atalım.

@@ -3,13 +3,17 @@ title: "The Harlot: The complexity of evil"
 weight: 1
 deeper:
     - name: "Who is the harlot: Part 1"
-      link: ../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1
+      link: /content/harlot/expl/who-is-the-harlot-babylon-part-1
     - name: "Who is the harlot: Part 2"
-      link: ../../../../content/harlot/expl/who-is-the-harlot-babylon-part-2
+      link: /content/harlot/expl/who-is-the-harlot-babylon-part-2
     - name: The harlot as a mocking of the time
-      link: ../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+      link: /content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
     - name: The character and destiny of the harlot
-      link: ../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot
+      link: /content/harlot/expl/the-character-and-destiny-of-the-harlot
+prev: /content/bowls/appl/the-wrath-of-god
+next: /content/1000y/appl/1000-years-of-paradise
+docType: appl
+expl: /content/harlot/expl/who-is-the-harlot-babylon-part-1
 ---
 
 The harlot in Revelation is hard to grasp because it shows the complexity of the evil system on earth. But with some patience, we can get a good look at it.

@@ -3,7 +3,11 @@ title: "A little scroll with big impact"
 weight: 1
 deeper:
     - name: The little scroll
-      link: ../../../../content/scroll/expl/the-little-scroll
+      link: /content/scroll/expl/the-little-scroll
+prev: /content/trumpets/appl/prayer-and-the-unshakeable
+next: /content/witnesses/appl/the-force-that-changes-the-world
+docType: appl
+expl: /content/scroll/expl/the-little-scroll
 ---
 
 There is a small scroll that John has to eat and it is never mentioned again. What do we do with it, and does it have anything to do with the scroll with the seven seals?

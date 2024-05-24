@@ -1,6 +1,9 @@
 ---
 title: "İbadet"
 weight: 1
+prev: /topics/hero/short/who-rules-the-world
+next: /topics/power/short/the-power-of-testimony
+docType: appl
 ---
 
 Vahiy Kitabı’ndaki kilit konu aslında yargı değil, kitap boyunca mevcut olan tapınma, kiliselerin mücadelesine kilit bir yanıt ve çok daha fazlasıdır. Tapınma tam olarak nedir ve bunu nasıl yaşarız?

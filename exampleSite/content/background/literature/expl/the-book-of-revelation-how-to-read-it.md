@@ -3,12 +3,16 @@ title: "The book of revelation: How to read it?"
 weight: 10
 deeper:
     - name: Ist die Offenbarung wörtlich oder symbolisch zu verstehen?
-      link: ../../../../background/literature/expl/literally-or-symbolic
+      link: /background/literature/expl/literally-or-symbolic
     - name: Was ist der historische Hintergrund?
-      link: ../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+      link: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
 sources:
     - pages: 10–56
       ref: goreman
+prev: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+next: /background/literature/expl/literally-or-symbolic
+docType: expl
+appl: /background/literature/appl/what-are-we-reading
 ---
 
 The Book of Revelation has inspired people to do many things, most of which have nothing to do with the Book of Revelation in the Bible. I will spare you a list, but I think you know what I am talking about. But how is it possible to read this very strange book? To get an answer, we must first understand the nature of this book.

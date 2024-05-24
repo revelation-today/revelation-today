@@ -1,9 +1,13 @@
 ---
 title: "Fahişe Kimdir Bölüm 2"
 weight: 3
+prev:  /content/harlot/expl/who-is-the-harlot-babylon-part-1
+next: /content/harlot/expl/the-character-and-destiny-of-the-harlot
+docType: expl
+appl: /content/harlot/appl/the-harlot-the-complexity-of-evil
 deeper:
     - name: İmparatorlukla alay eder gibi Babil
-      link: ../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
+      link: /content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 sources: 
     - pages: 847–890
       ref: beale_rev

@@ -4,6 +4,10 @@ weight: 20
 sources:
     - pages: 50–69
       ref: beale_rev
+prev: /background/literature/expl/the-book-of-revelation-how-to-read-it
+next: /background/literature/expl/full-of-biblical-references
+docType: expl
+appl: /background/literature/appl/what-are-we-reading
 ---
 
 Vahiy Kitabı’nda bizim dünyamızdan kopup gelmiş gibi görünen pek çok resim kullanılmıştır. Hayal gücümüzü genişletmemiz mi gerekiyor yoksa bunlar sadece semboller mi? Her ikisi de. Daha iyi anlamak için okumaya devam edin.

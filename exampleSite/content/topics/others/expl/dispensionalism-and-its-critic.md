@@ -1,6 +1,10 @@
 ---
 title: "Dispensionalism and its critic"
 weight: 2
+prev: /topics/others/expl/dispensionalism-a-little-history
+next: /topics/others/expl/the-rapture
+docType: expl
+appl: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
 sources: 
     - pages: 173-186
       ref: rossing

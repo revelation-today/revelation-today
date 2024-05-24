@@ -2,13 +2,17 @@
 title: "Was lesen wir?"
 deeper:
     - name: Mehr zum Genre
-      link: ../../../../background/literature/expl/the-book-of-revelation-how-to-read-it
+      link: /background/literature/expl/the-book-of-revelation-how-to-read-it
     - name: Warum das Alte Testament wichtig ist
-      link: ../../../../background/literature/expl/full-of-biblical-references
+      link: /background/literature/expl/full-of-biblical-references
     - name: Wörtlich oder symbolisch?
-      link: ../../../../background/literature/expl/literally-or-symbolic
+      link: /background/literature/expl/literally-or-symbolic
     - name: Was bedeuten die Zahlen?
-      link: ../../../../background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
+      link: /background/structure/expl/the-use-of-numbers-in-the-book-of-revelation
+prev: /background/history/appl/some-things-never-change
+next: /background/structure/appl/the-timeline-in-the-book-of-revelation
+docType: appl
+expl: /background/literature/expl/the-book-of-revelation-how-to-read-it
 ---
 
 Wenn wir ein Buch lesen, tun wir das mit einer bestimmten Erwartungshaltung. Wir haben andere Erwartungen an einen wissenschaftlichen Bericht als an einen Science-Fiction-Roman, an ein Liebesgedicht andere als an einen Actionroman. Das Gleiche gilt für die Offenbarung in der Bibel: Ist es ein Buch über Gottes Rache an allen Ungläubigen, eine apokalyptische Erzählung mit Entrückung oder eine völlig chaotische Sammlung bizarrer Geschichten?

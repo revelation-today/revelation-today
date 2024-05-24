@@ -1,13 +1,17 @@
 ---
 title: "The nature of the beast in the book of revelation"
-weight: 5
+weight: 1
+prev:  /content/jesus/expl/a-different-christmas-story
+next: /content/beasts/expl/the-beasts-and-the-666-in-historical-context
+docType: expl
+appl: /content/beasts/appl/the-perfect-gospel
 deeper:
     - name: The beasts in historical context
-      link: ../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context
+      link: /content/beasts/expl/the-beasts-and-the-666-in-historical-context
     - name: The number 666
-      link: ../../../../content/beasts/expl/666-the-number-of-the-beast
+      link: /content/beasts/expl/666-the-number-of-the-beast
     - name: The 3,5 years
-      link: ../../../../bible/daniel/expl/the-secret-of-the-3-5-years
+      link: /bible/daniel/expl/the-secret-of-the-3-5-years
 sources: 
     - pages: 681–730
       ref: beale_rev

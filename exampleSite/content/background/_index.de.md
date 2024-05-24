@@ -2,6 +2,8 @@
 linkTitle: Hintergrund
 title: Hintergrund
 weight: 4
+prev: /gen
+next: /bible
 ---
 
 Als gute Grundlage für unsere Arbeit müssen wir ein besseres Verständnis für die folgenden Themen entwickeln:

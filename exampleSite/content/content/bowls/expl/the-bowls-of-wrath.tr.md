@@ -1,9 +1,13 @@
 ---
 title: "Gazap Kaseleri"
 weight: 2
+prev:  /content/harvest/expl/gods-army-and-the-seven-angels
+next: /content/bowls/expl/the-key-to-armageddon
+docType: expl
+appl: /content/bowls/appl/the-wrath-of-god
 deeper:
     - name: Armageddon
-      link: ../../../../content/bowls/expl/the-key-to-armageddon
+      link: /content/bowls/expl/the-key-to-armageddon
 sources: 
     - pages: 681–730
       ref: beale_rev

@@ -1,6 +1,9 @@
 ---
 title: "Die Kraft des Zeugnisses"
 weight: 2
+prev: /topics/power/short/worship
+next: /topics/power/short/the-key-of-prayer
+docType: appl
 ---
 
 Das Zeugnis und die Zeugen sind ein zentrales Thema in der Offenbarung. Du wirst überrascht sein, wie breit dieses Thema gestreut ist. Aber worum geht es eigentlich beim Zeugnis?

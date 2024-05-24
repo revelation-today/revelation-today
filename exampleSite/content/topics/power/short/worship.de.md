@@ -1,6 +1,9 @@
 ---
 title: "Anbetung"
 weight: 1
+prev: /topics/hero/short/who-rules-the-world
+next: /topics/power/short/the-power-of-testimony
+docType: appl
 ---
 
 Das Schlüsselthema der Offenbarung ist nicht das Gericht, sondern die Anbetung, die das ganze Buch durchzieht und die wesentliche Antwort auf die Herausforderungen an die Gemeinden und vieles mehr ist. Aber was ist Anbetung und wie leben wir sie?

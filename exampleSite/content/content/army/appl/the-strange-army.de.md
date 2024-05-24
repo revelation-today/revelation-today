@@ -3,9 +3,13 @@ title: "Die sonderbare Armee"
 weight: 1
 deeper:
     - name: Die 144.000
-      link: ../../../../content/army/expl/the-144000
+      link: /content/army/expl/the-144000
     - name: Die große Trübsal
-      link: ../../../../content/army/expl/the-end-time-and-the-great-tribulation
+      link: /content/army/expl/the-end-time-and-the-great-tribulation
+prev: /content/seals/appl/the-paradox-of-the-seven-seals
+next: /content/trumpets/appl/prayer-and-the-unshakeable
+docType: appl
+expl: /content/army/expl/the-end-time-and-the-great-tribulation
 ---
 
 Du hast sicher schon von den 144.000 gehört, aber wer sind sie, warum werden sie gezählt und was ist ihr Zweck?

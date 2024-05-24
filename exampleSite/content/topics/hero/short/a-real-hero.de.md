@@ -1,5 +1,8 @@
 ---
 title: "Echte Helden"
+prev: /content/paradise/appl/what-is-heaven-and-hell-about
+next: /topics/hero/short/who-rules-the-world
+docType: appl
 ---
 
 Was ist ein Held? Wenn man sich Hollywood oder andere Quellen ansieht, ist es eine Person, die Zerstörung bringt (das Böse tötet), um Gutes zu tun. Aber was sollte einen Helden ausmachen? Und was sagt die Bibel dazu?

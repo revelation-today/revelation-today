@@ -3,10 +3,14 @@ title: "Gods covenant"
 weight: 2
 readBefore:
     - name: The role of family
-      link: ../../../../background/israel/expl/the-role-of-family-in-the-bible
+      link: /background/israel/expl/the-role-of-family-in-the-bible
 sources:
     - pages: 69-
       ref: richter
+prev: /background/israel/expl/the-role-of-family-in-the-bible
+next: /background/israel/expl/the-day-of-the-lord
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 In ancient times [being in a family was essential for survival](../../../../background/israel/expl/the-role-of-family-in-the-bible) (provision, protection, …), and being in an important family was even better.

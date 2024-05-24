@@ -3,10 +3,14 @@ title: "Der Bund Gottes"
 weight: 2
 readBefore:
     - name: Die Rolle der Familie
-      link: ../../../../background/israel/expl/the-role-of-family-in-the-bible
+      link: /background/israel/expl/the-role-of-family-in-the-bible
 sources:
     - pages: 69-
       ref: richter
+prev: /background/israel/expl/the-role-of-family-in-the-bible
+next: /background/israel/expl/the-day-of-the-lord
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 Damals war es [notwendig, Teil einer Familie zu sein (Versorgung Schutz, …) und in einer einflußreichen Familie zu sein war noch besser](../../../../background/israel/expl/the-role-of-family-in-the-bible).

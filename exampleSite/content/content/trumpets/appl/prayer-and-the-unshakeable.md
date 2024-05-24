@@ -3,17 +3,21 @@ title: "Prayer and the Unwavering"
 weight: 1
 deeper:
     - name: The power of prayer
-      link: ../../../../topics/power/short/the-key-of-prayer
+      link: /topics/power/short/the-key-of-prayer
     - name: The story before the exodus
-      link: ../../../../bible/exodus/expl/the-story-before-the-exodus
+      link: /bible/exodus/expl/the-story-before-the-exodus
     - name: The birth of Moses
-      link: ../../../../bible/exodus/expl/the-birth-of-moses
+      link: /bible/exodus/expl/the-birth-of-moses
     - name: The hardening of Pharao’s heart
-      link: ../../../../bible/exodus/expl/the-hardening-of-pharaohs-heart
+      link: /bible/exodus/expl/the-hardening-of-pharaohs-heart
     - name: The plagues in Egypt
-      link: ../../../../bible/exodus/expl/the-plagues-in-egypt
+      link: /bible/exodus/expl/the-plagues-in-egypt
     - name: The seven trumpets
-      link: ../../../../content/trumpets/expl/the-trumpets-in-revelation
+      link: /content/trumpets/expl/the-trumpets-in-revelation
+prev: /content/army/appl/the-strange-army
+next: /content/scroll/appl/a-little-scroll-with-big-impact
+docType: appl
+expl: /content/trumpets/expl/the-trumpets-in-revelation
 ---
 
 The trumpets have inspired many people to think of end-time scenarios involving global catastrophes or even military action. But when we look closer, we see much about the role of prayer and how to deal with distress.

@@ -1,8 +1,13 @@
 ---
 title: "İkinci Çıkış"
+weight: 6
 sources:
     - pages: 694–703
       ref: beale_theo
+prev: /background/israel/expl/jesus-and-the-covenant
+next: /background/israel/expl/the-church-is-part-of-israel
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 Mısır’dan bir Çıkış oldu. Ancak İsrail yasaya uymayı başaramayınca sürgüne gittiler. Geri döndüklerinde vaatlerle doluydular, sürgünden döndüklerinde hiçbir şeyin değişmediğini gördüler. Yani sonuç: Hâlâ sürgündedirler ve yeni bir Çıkış beklemektedirler. Ve bu İsa’yla birlikte gelecektir!

@@ -1,9 +1,13 @@
 ---
 title: "Dispansionalizm — Küçük bir tarihçe"
 weight: 1
+prev:  /content/paradise/expl/heaven-and-hell
+next: /topics/others/expl/dispensionalism-and-its-critic
+docType: expl
+appl: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
 deeper:
     - name: Dispensionalizm Üzerine Eleştiri
-      link: ../../../../topics/others/expl/dispensionalism-and-its-critic
+      link: /topics/others/expl/dispensionalism-and-its-critic
 sources: 
     - pages: 11–67
       ref: koester_rev

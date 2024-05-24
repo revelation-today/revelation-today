@@ -1,5 +1,8 @@
 ---
 title: "Dünyayı kim yönetiyor"
+prev: /topics/hero/short/a-real-hero
+next: /topics/power/short/worship
+docType: appl
 ---
 
 Vahiy Kitabı bize dünyayı kimin yönettiğine dair çok karışık bir resim sunar. Bir yanda tam kontrol sahibi gibi görünen ve her direnişi yok eden Şeytan, diğer yanda ise kontrol sahibi gibi görünen kilise vardır. Neler oluyor ve hükmetmek ne anlama geliyor?

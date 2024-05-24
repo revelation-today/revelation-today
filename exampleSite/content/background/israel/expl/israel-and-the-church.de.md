@@ -1,6 +1,10 @@
 ---
 title: "Israel und die Gemeinde"
-weight: 7
+weight: 8
+prev: /background/israel/expl/the-church-is-part-of-israel
+next: /content/vision/expl/setting-the-foundation
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 Die Erwähnung von Juden und Christen in der Offenbarung ist recht kontrovers. Was ist der Grund dafür und wie wird es aufgelöst?

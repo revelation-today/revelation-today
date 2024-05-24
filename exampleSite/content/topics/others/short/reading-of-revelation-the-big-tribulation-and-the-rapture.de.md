@@ -1,5 +1,7 @@
 ---
 title: "Die Endzeit: Die große Trübsal und die Entrückung"
+prev: /topics/power/short/the-key-of-prayer
+docType: appl
 ---
 
 Für manche Christen sind die Große Trübsal und die Entrückung Grundpfeiler der Bibel, andere lehnen sie völlig ab. Worum geht es dabei und was ist die Wahrheit?

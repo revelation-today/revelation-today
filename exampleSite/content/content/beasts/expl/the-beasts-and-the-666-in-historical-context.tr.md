@@ -1,6 +1,10 @@
 ---
 title: "Tarihsel bağlamda canavarlar ve 666"
 weight: 3
+prev:  /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+next: /content/beasts/expl/666-the-number-of-the-beast
+docType: expl
+appl: /content/beasts/appl/the-perfect-gospel
 sources: 
     - pages: 682–684
       ref: beale_rev

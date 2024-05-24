@@ -1,8 +1,13 @@
 ---
 title: "The second Exodus"
+weight: 6
 sources:
     - pages: 694–703
       ref: beale_theo
+prev: /background/israel/expl/jesus-and-the-covenant
+next: /background/israel/expl/the-church-is-part-of-israel
+docType: expl
+appl: /background/israel/appl/who-is-israel
 ---
 
 There was an exodus from Egypt. But when Israel failed to keep the law, they went into exile. Filled with promises of their return, when they returned from exile, they saw that nothing had changed. So the conclusion: They are still in exile, waiting for a new exodus. And that is coming with Jesus!

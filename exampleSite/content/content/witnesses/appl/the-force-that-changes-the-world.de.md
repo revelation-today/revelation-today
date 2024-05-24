@@ -3,11 +3,15 @@ title: "Die Macht, die die Welt verändert"
 weight: 1
 deeper:
     - name: Der Tempel
-      link: ../../../../bible/keyword/expl/the-temple-and-the-presence-of-god
+      link: /bible/keyword/expl/the-temple-and-the-presence-of-god
     - name: Die Kraft des Zeugnisses
-      link: ../../../../topics/power/short/the-power-of-testimony
+      link: /topics/power/short/the-power-of-testimony
     - name: Die beiden Zeugen
-      link: ../../../../content/witnesses/expl/the-two-witnesses
+      link: /content/witnesses/expl/the-two-witnesses
+prev: /content/scroll/appl/a-little-scroll-with-big-impact
+next: /content/jesus/appl/jesus-and-the-fall-of-the-devil
+docType: appl
+expl: /content/witnesses/expl/the-two-witnesses
 ---
 
 Wer sind diese beiden Zeugen, die die ganze Welt verändern und das Reich Gottes vorbereiten? Was ist das Geheimnis ihres Einflusses?

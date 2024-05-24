@@ -1,11 +1,15 @@
 ---
 title: "Die Geburt Jesu in der Offenbarung"
 weight: 2
+prev:  /content/witnesses/expl/the-two-witnesses
+next: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+docType: expl
+appl: /content/jesus/appl/jesus-and-the-fall-of-the-devil
 deeper:
     - name: Die Geschichte der unheiligen Dreieinigkeit
-      link: ../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+      link: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
     - name: Die Struktur der Offenbarung
-      link: ../../../../background/structure/expl/the-structure-of-the-book-of-revelation
+      link: /background/structure/expl/the-structure-of-the-book-of-revelation
 sources: 
     - pages: 621–681
       ref: beale_rev
