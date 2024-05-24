@@ -73,7 +73,7 @@ Son haftaya (son yedi yıla) geldiğimizde bu biraz karmaşık bir hal aldı. Ne
 
 İlk hikâye İsrail’in Kudüs’ü, tapınağı ve topraklarıyla birlikte sona eren ve İsa tarafından Yahudilerle yeni bir başlangıç yapmak üzere kurulan yeni antlaşma tarafından ele alınan hikâyesidir.
 
-İki hikaye çizgisi 40 yıl kaymış. Bu nasıl mümkün olabilir? İsa çağrısının başlangıcında çölde 40 gün kaldı ve İsrail’in çölde başarısız olduğu tüm ayartmalara karşı koydu. Bu nedenle İsrail’in vaat edilen topraklara gelmeden önce çölde 40 yıl daha dolaşması gerekmiştir.
+İki hikaye de zamanın 40 yıl ötesinde. Ama bu nasıl mümkün olabilir? İsa çağrısının başlangıcında 40 gün boyunca çölde kalmış ve İsrail'in Mısır'dan ayrılırken çölde üstesinden gelemediği tüm ayartmalara direnmiştir. Bu yüzden İsrail Vaat Edilmiş Topraklara ulaşana kadar 40 yıl boyunca çölde dolaşmak zorunda kalmıştır. Burada hikâye tersine dönmektedir: İsa ayartmalara boyun eğmez ve yeni bir antlaşma yapar, böylece İsrail'in yeni antlaşmaya girmesi için fazladan 40 yılı olur.
 
 ## İsrail’in hikayesi
 
@@ -85,12 +85,10 @@ Savaş 7 yıl sonra 73'te sona erer ve bundan sonra bazı huzursuzluklardan sonr
 ## İsa’nın hikayesi
 
 <a name="f724"></a>
-26/7 İsa hizmetine çağrılır ve [Yahudilerle başlayan bir antlaşma](https://www.bibleserver.com/TR/Matta15%3A23-24) yapar. Yedi yılın ortasında (30. yıl) ölür ve dirilir ve antlaşması artık putperestleri de kapsar. Onun ölümüyle birlikte artık buna gerek kalmadığı için kurbanlar sona erer.
+[27](https://www.bibleserver.com/TR/Luka3%3A1) yılında ([Tiberius'un saltanatının 12 yılında başladığı varsayımıyla](https://www.tyndalebulletin.org/article/37789-reckoning-tiberius-s-reign-and-jesus-s-baptism-first-and-second-century-evidence-concerning-tiberius-s-fifteenth-year-luke-3-1.pdf)) İsa çağrılır ve Kutsal Ruh'la vaftiz edilir ve [Yahudilerle antlaşmayı yeniler](https://www.bibleserver.com/TR/Matta15%3A23-24). Yedi yılın ortasında (31. yıl) ölür ve tekrar dirilir ve antlaşma artık Yahudi olmayanları da kapsar. Onun ölümüyle birlikte kurban hizmeti artık gerekli değildir.
 
-Yedi yılın sonunda ne var? Ne zaman bitiyor? Diğer her şey edebi olduğu için bunun da tam olarak 3,5 yıl olmasını bekleriz. Ayet 27, 7 yıl için bir antlaşma yaptığını söyler, ancak İsa’nın başlattığı antlaşma şimdiye kadar sürmelidir. Öyleyse eksik olan nedir?
+Yedi yılın sonu, İsrail'i antlaşmayı terk etmekle suçladığı konuşmasından sonra [muhtemelen İstefanos'un taşlanarak öldürüldüğü] (https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri7) 34 yılına denk gelir. İsa'nın ölümünden sonra ilk kez bir Hıristiyan inancı uğruna ölür ve Yahudi olmayanlar arasında inancı çok güçlü bir şekilde yayacak olan Pavlus'tan ilk kez söz edilir. 
 
-İkinci 3,5 yılın sembolik olarak birkaç nedenden dolayı olduğunu düşünüyorum:
+Kilisenin İsa'yı tam anlamıyla takip ettiği zamandır. Yeni antlaşma artık gerçekten aktiftir.
 
-- Yahudi savaşındaki eylemlerle paraleldir.
-- İsa’nın geri geleceği günü ve saati kimse bilemez, bu da 24. ayetteki her şeyin tamamlandığı zamandır.
-- Kilise İsa’yı yaptığı her şeyde takip etmelidir, bu yüzden İsa 3,5 yıl boyunca orada olduğu için kilise de aynısını yapmalıdır ve bu nedenle aynı zaman dilimi kullanılır
+![](/images/70years_tr.jpg)

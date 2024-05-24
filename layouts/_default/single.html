@@ -38,8 +38,9 @@
             {{- $heart := htmlUnescape "&#10084;" -}}
             <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $heart .Title $heart }}</h1>
         {{- else if eq .Params.docType "expl" -}}
-            {{- $heart := htmlUnescape "&#9829;" -}}
-            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $heart .Title $heart }}</h1>
+            {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
+            {{- $comet := htmlUnescape "&#9732;" -}}
+            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $comet .Title $comet }}</h1>
         {{- end -}}
         <div class="hx-mb-16"></div>
         <div class="content">

@@ -44,7 +44,7 @@ Lassen Sie uns den Rest auch noch aufschlüsseln. Der Rest soll in drei Teile ge
 - 62 Wochen (der Tempel ist gebaut)
 - 1 Woche (um alles zu vollenden)
 
-Vers 25: [So wisse und verstehe: Vom Erlass des Befehls zur Wiederherstellung und zum Aufbau Jerusalems bis zu dem Gesalbten[2], dem Fürsten, vergehen 7 Wochen und 62 Wochen; Straßen und Gräben werden wieder gebaut, und zwar in bedrängter Zeit.](https://www.bibleserver.com/SLT/Daniel9%2C25)
+Vers 25: [So wisse und verstehe: Vom Erlass des Befehls zur Wiederherstellung und zum Aufbau Jerusalems bis zu dem Gesalbten, dem Fürsten, vergehen 7 Wochen und 62 Wochen; Straßen und Gräben werden wieder gebaut, und zwar in bedrängter Zeit.](https://www.bibleserver.com/SLT/Daniel9%2C25)
 
 Das Wort, Jerusalem wieder aufzubauen, wurde von [Jeremia](https://www.bibleserver.com/SLT/Jeremia30%2C18) im Jahre 588/587 v. Chr. während der Eroberung Jerusalems verkündigt. Das dauert 7*7=49 Jahre und endet in 539 v.u.Z., als der [Gesalbte Kyrus](https://www.bibleserver.com/SLT/Jesaja45%2C1) einen [Erlaß macht, Jersualem wieder aufzubauen](https://www.bibleserver.com/SLT/2.Chronik36%2C22-23).
 
@@ -69,11 +69,11 @@ Er wird Gräuel der Verwüstung aufrichten ([im Original heißt es “er wird au
 ## Die letzte Woche
 
 <a name="1ed3"></a>
-Nun, hier wird es etwas kompliziert, wenn wir die letzten sieben Jahre betrachten. Der Grund dafür ist, dass einige Teile wirklich das Ende beschreiben und dass hier zwei Geschichten erzählt werden.
+Nun, hier wird es etwas kompliziert, wenn wir die letzten sieben Jahre betrachten. Der Grund dafür ist, dass hier zwei Geschichten erzählt werden.
 
 Die erste Geschichte ist die Geschichte Israels und des Tempels und des Landes, die zu einem Ende kommt und durch den Neuen Bund mit Jesus einen neuen Anfang mit Israel nimmt.
 
-Beide Geschichten sind um 40 Jahre zeitversetzt. Aber wie ist das möglich? Jesus war zu Beginn seiner Berufung 40 Tage in der Wüste und hat all den Versuchungen widerstanden, an denen Israel beim Auszug aus Ägypten in der Wüste gescheitert ist. Deshalb musste Israel 40 Jahre in der Wüste umherwandern, bis es ins Gelobte Land kam. Hier wird die Geschichte auf den Kopf gestellt.
+Beide Geschichten sind um 40 Jahre zeitversetzt. Aber wie ist das möglich? Jesus war zu Beginn seiner Berufung 40 Tage in der Wüste und hat all den Versuchungen widerstanden, an denen Israel beim Auszug aus Ägypten in der Wüste gescheitert ist. Deshalb musste Israel 40 Jahre in der Wüste umherwandern, bis es ins Gelobte Land kam. Hier wird die Geschichte auf den Kopf gestellt: Jesus hat den Versuchungen nicht nachgegeben und richtet einen neuen Bund auf, so dass Israel noch extra 40 Jahre bekommt, um in den neuen Bund zu wechseln.
 
 ## Die Geschichte Israels
 
@@ -85,12 +85,10 @@ Der Krieg endete nach sieben Jahren im Jahr 73 und nach weiteren Unruhen wurde I
 ## Die Geschichte von Jesus
 
 <a name="abfc"></a>
-Im Jahre 26/27 wird Jesus berufen und er [erneuert den Bund mit den Juden](https://www.bibleserver.com/SLT/Matth%C3%A4us15%2C23-24). In der Mitte der sieben Jahre (Jahr 30) stirbt er und steht wieder auf, und der Bund umfaßt nun auch die Heiden. Mit seinem Tod ist auch der Opferdienst nicht mehr nötig.
+Im Jahre [27](https://www.bibleserver.com/SLT/Lukas3%2C1) (mit der Annahme, das [Tiberius Herrschaft im Jahre 12](https://www.tyndalebulletin.org/article/37789-reckoning-tiberius-s-reign-and-jesus-s-baptism-first-and-second-century-evidence-concerning-tiberius-s-fifteenth-year-luke-3-1.pdf) begann) wird Jesus berufen und mit dem Heiligen Geist getauft und er [erneuert den Bund mit den Juden](https://www.bibleserver.com/SLT/Matth%C3%A4us15%2C23-24). In der Mitte der sieben Jahre (Jahr 31) stirbt er und steht wieder auf, und der Bund umfaßt nun auch die Heiden. Mit seinem Tod ist auch der Opferdienst nicht mehr nötig.
 
-Aber was ist das Ende der sieben Jahre? Wann enden sie? Da alles andere wörtlich ist, sollte man erwarten, dass es genau 3,5 Jahre sind. Vers 27 sagt, dass er einen Bund für 7 Jahre schließt, aber dieser Bund ist heute noch gültig. Also, was passiert hier?
+Das Ende der sieben Jahre fällt ins Jahr 34. Das ist das Jahr, in dem [vermutlich Stephanus gesteinigt wird.](https://www.bibleserver.com/SLT/Apostelgeschichte7) nach seiner Rede, in dem er Israel anklagt, seinen Bund verlassen zu haben. Hier wird das erste Mal nach Jesu Tod von einem Christen gesprochen, der wegen seines Glaubens stirbt und die erste Erwähnung von Paulus, der den Glauben sehr stark auch unter Nichtjuden verbreiten wird. 
 
-Ich denke, dass die letzten 3,5 Jahre aus folgenden Gründen symbolisch sind:
+Es ist die Zeit, in der die Gemeinde in voller Konsequenz Jesus nachfolgt. Der neue Bund ist nun wirklich aktiv.
 
-- Sie sind parallel zum jüdischen Krieg.
-- Niemand kennt die Stunde und den Tag der Wiederkunft Jesu, die auch die Erfüllung der Verheißungen aus Vers 24 ist.
-- Die Gemeinde soll Jesus in allem folgen, was er tut. Da Jesus 3,5 Jahre gewirkt hat, soll die Gemeinde dasselbe tun und deshalb wird auch die gleiche Zeitspanne verwendet.
+![](/images/70years_de.jpg)

@@ -44,7 +44,7 @@ So let us break down the rest. The rest of the test breaks the 70 weeks into thr
 - 62 (temple is built)
 - 1 (to finish).
 
-Verse 25: [‘Know and understand this: from the time the word goes out to restore and rebuild Jerusalem until the Anointed One, the ruler, comes, there will be seven “sevens”, and sixty-two “sevens”. It will be rebuilt with streets and a trench, but in times of trouble.](https://www.bibleserver.com/NIV/Daniel9%3A24-27)
+Verse 25: [Know and understand this: from the time the word goes out to restore and rebuild Jerusalem until the Anointed One, the ruler, comes, there will be seven “sevens”, and sixty-two “sevens”. It will be rebuilt with streets and a trench, but in times of trouble.](https://www.bibleserver.com/NIV/Daniel9%3A24-27)
 
 The word to rebuild Jerusalem went out [through the prophet Jeremiah ](https://www.bibleserver.com/NIV/Jeremiah30%3A18)in 588/587 during the fall of Jerusalem. This takes the first 7*7 =49 years and ends in 539 when the [Anointed One Cyrus](https://www.bibleserver.com/NIV/Isaiah45%3A1) [issues a decree to rebuild Jerusalem](https://www.bibleserver.com/NIV/2%20Chronicles36%3A22-23).
 
@@ -66,7 +66,7 @@ Well, this was a bit complicated when we came to a last week (last seven years).
 
 The first story is the story of Israel with their Jerusalem and their Temple and their land that comes to an end and is taken up by the New Covenant that Jesus establishes to start over with the Jews.
 
-The two stories are shifted by 40 years. How is this possible? Jesus was in the desert for 40 days at the beginning of His ministry and resisted all the temptations that Israel failed to resist in the desert. Therefore, Israel had to wander in the desert for another 40 years before entering the Promised Land.
+Both stories are 40 years out of time. But how is that possible? Jesus was in the desert for 40 days at the beginning of his calling and resisted all the temptations that Israel failed to overcome in the desert when they left Egypt. This is why Israel had to wander in the desert for 40 years until they reached the Promised Land. Here the story is turned on its head: Jesus did not give in to temptation and establishes a new covenant so that Israel gets an extra 40 years to enter the new covenant.
 
 ### The story of Israel
 
@@ -76,11 +76,10 @@ The war ends in 73 after 7 years and after this, after some unrest, Israel is de
 
 ### The story of Jesus
 
-26/7 Jesus is called to His ministry and He makes a [covenant beginning with the Jews](https://www.bibleserver.com/NIV/Matthew15%3A23-24). In the middle of the seven years (year 30) he dies and rises and his covenant now includes the Gentiles. His death ends the sacrifices because they are no longer needed.
+In the year [27](https://www.bibleserver.com/NIV/Luke3%3A1) (with the assumption that [Tiberius' reign began in the year 12](https://www.tyndalebulletin.org/article/37789-reckoning-tiberius-s-reign-and-jesus-s-baptism-first-and-second-century-evidence-concerning-tiberius-s-fifteenth-year-luke-3-1.pdf)) Jesus is called and baptized with the Holy Spirit and he [renews the covenant with the Jews](https://www.bibleserver.com/NIV/Matthew15%3A23-24). In the middle of the seven years (year 31) he dies and rises again, and the covenant now also includes the Gentiles. With his death, sacrificial service is no longer necessary.
 
-What happens at the end of the seven years? Since everything else is literary, we would expect this to be exactly 3.5 years. Verse 27 says he makes a covenant for 7 years, but the covenant Jesus started should last until now. So what is missing?
+The end of the seven years falls in the year 34, the year in which [presumably Stephen is stoned to death](https://www.bibleserver.com/NIV/Acts7) after his speech in which he accuses Israel of having abandoned its covenant. This is the first time after Jesus' death that a Christian dies for his faith and the first mention of Paul, who will spread the faith very strongly among non-Jews. 
 
-I think the second 3.5 years are symbolic for several reasons:
-- They are a parallel to the actions in the Jewish war.
-- No one knows the day and hour of Jesus’ return, the time when everything from verse 24 will be completed.
-- The church was to follow Jesus in everything He did, so since Jesus was there for 3.5 years, the church was to do the same, so the same time frame is used.
+It is the time when the church follows Jesus in full consequence. The new covenant is now really active.
+
+![](/images/70years_en.jpg)
