@@ -1,5 +1,5 @@
 ---
-title: "The book of Revelation — A first look"
+title: "The Book of Revelation — A first look"
 weight: 1
 ---
 

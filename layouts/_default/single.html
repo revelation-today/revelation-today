@@ -35,8 +35,9 @@
         {{- if not .Params.docType -}}
             <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ .Title }}</h1>
         {{- else if eq .Params.docType "appl" -}}
-            {{- $heart := htmlUnescape "&#10084;" -}}
-            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $heart .Title $heart }}</h1>
+            {{- $left := htmlUnescape "&#9755;" -}}
+            {{- $right := htmlUnescape "&#9754;" -}}
+            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $left .Title $right }}</h1>
         {{- else if eq .Params.docType "expl" -}}
             {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
             {{- $comet := htmlUnescape "&#9732;" -}}
