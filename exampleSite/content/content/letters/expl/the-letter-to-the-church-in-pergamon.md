@@ -10,10 +10,8 @@ deeper:
       link: /bible/keyword/expl/the-story-of-balaam
 sources: 
     - pages: 245–258
-      base: ../../../../../
       ref: beale_rev
     - pages: 33
-      base: ../../../../../
       ref: fee_rev
 ---
 
@@ -42,7 +40,7 @@ But there is one thing that breaks them: [Balaam and the Nikolaitans](https://ww
 ## The problem
 
 <a name="607a"></a>
-The [story of Balaam shows the failure of an in consistent leadership](../../../../bible/keyword/expl/the-story-of-balaam). There seems to be a similar problem with the Nicolaitans.
+The [story of Balaam shows the failure of an in consistent leadership](/bible/keyword/expl/the-story-of-balaam). There seems to be a similar problem with the Nicolaitans.
 
 There is no strong commitment from the leadership regarding false doctrine. Looking at the promise that Jesus offers, it seems that the problem was their lack of faith and their search for comforting teachings, which probably brought in the idea of compromising with their faith.
 

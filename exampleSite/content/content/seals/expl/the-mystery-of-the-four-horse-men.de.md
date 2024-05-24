@@ -20,8 +20,8 @@ In der Offenbarung sehen wir vier apokalyptische Reiter, die Krieg, Hunger und T
 ## Gut, davor zu lesen
 
 <a name="02bb"></a>
-- [Historischer Hintergrund des Buches](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [Was für ein Buch ist die Offenbarung?](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [Historischer Hintergrund des Buches](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [Was für ein Buch ist die Offenbarung?](/background/literature/expl/the-book-of-revelation-how-to-read-it)
 
 ## Der Text
 
@@ -99,7 +99,7 @@ Der erste Reiter ist also böse, gibt aber vor, gut zu sein wie Jesus. Das ergib
 
 Jetzt macht auch die Parallele auf [Gottes Plagen](https://www.bibleserver.com/SLT/Hesekiel14%2C12-23) Sinn (wilde Tiere, Schwert, Hunger, Pest). Wir können sie direkt den Pferden zuordnen
 
-- Der erste Reiter steht für die wilden Tiere, er ruft die [beiden Tiere](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) aus [Kapitel 13](https://www.bibleserver.com/SLT/Offenbarung13) und steht für die [Täuschung ](https://www.bibleserver.com/SLT/2.Korinther11%2C14)— er macht viele Versprechungen.
+- Der erste Reiter steht für die wilden Tiere, er ruft die [beiden Tiere](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) aus [Kapitel 13](https://www.bibleserver.com/SLT/Offenbarung13) und steht für die [Täuschung ](https://www.bibleserver.com/SLT/2.Korinther11%2C14)— er macht viele Versprechungen.
 - Der zweite Reiter steht für das Schwert — er greift die Menschen mit Gewalt an, die den Versprechungen des ersten Reiters nicht glauben.
 - Der dritte Reiter kommt mit dem Hunger — er übt wirtschaftlichen Druck auf die Menschen aus, die nicht mitziehen wie das zweite Tier oder die Hure in [Kapitel 17](https://www.bibleserver.com/SLT/Offenbarung17).
 - Der letzte Reiter fasst die Wirkung der Trinität zusammen.

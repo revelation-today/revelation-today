@@ -7,10 +7,8 @@ docType: expl
 appl: /content/letters/appl/the-challenges
 sources: 
     - pages: 228–239
-      base: ../../../../../
       ref: beale_rev
     - pages: 24
-      base: ../../../../../
       ref: fee_rev
 ---
 

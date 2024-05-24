@@ -7,19 +7,19 @@ deeper:
     - name: Die Sendschreiben
       link: /content/letters/expl/the-letters-to-the-seven-churches
     - name: Der Brief an Ephesus
-      link: /content/letters/expl/details/the-letter-to-the-church-in-ephesus
+      link: /content/letters/expl/the-letter-to-the-church-in-ephesus
     - name: Der Brief an Smyrna
-      link: /content/letters/expl/details/the-letter-to-the-church-in-smyrna
+      link: /content/letters/expl/the-letter-to-the-church-in-smyrna
     - name: Der Brief an Pergamon
-      link: /content/letters/expl/details/the-letter-to-the-church-in-pergamon
+      link: /content/letters/expl/the-letter-to-the-church-in-pergamon
     - name: Der Brief an Thyatira
-      link: /content/letters/expl/details/the-letter-to-the-church-in-thyatira
+      link: /content/letters/expl/the-letter-to-the-church-in-thyatira
     - name: Der Brief an Sardis
-      link: /content/letters/expl/details/the-letter-to-the-church-in-sardis
+      link: /content/letters/expl/the-letter-to-the-church-in-sardis
     - name: Der Brief an Philadelphia
-      link: /content/letters/expl/details/the-letter-to-the-church-in-philadelphia
+      link: /content/letters/expl/the-letter-to-the-church-in-philadelphia
     - name: Der Brief an Laodizäa
-      link: /content/letters/expl/details/the-letter-to-the-church-in-laodicea
+      link: /content/letters/expl/the-letter-to-the-church-in-laodicea
 prev: /content/vision/appl/vision
 next: /content/worship/appl/the-answer-to-all-questions
 docType: appl

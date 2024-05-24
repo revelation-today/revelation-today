@@ -44,5 +44,5 @@ Yeni Ahit’te [İsa tapınaktır](https://www.bibleserver.com/TR/Yuhanna2%3A19-
 
 ## Eğer daha derine inmek istiyorsanız
 
-[Beale, Kim: God dwells among us](../../../../about/ressources/index.html#beale_dwell)
+[Beale, Kim: God dwells among us](/about/ressources/index.html#beale_dwell)
 

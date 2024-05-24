@@ -51,4 +51,4 @@ Bakalım nasıl çalışacak.
 - İbadet sizi nasıl değiştirdi?
 - Siz nasıl ibadet ediyorsunuz? İbadet günlük yaşamınızda nasıl görünüyor?
 
-[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)

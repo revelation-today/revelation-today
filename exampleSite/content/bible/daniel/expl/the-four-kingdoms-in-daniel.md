@@ -71,4 +71,4 @@ But how much are we taking advantage of it? Instead of a new world, we see the w
 
 The Roman Empire is the last of the four that had direct rule over Israel. After the new covenant with Jesus, God’s people are scattered all over the earth, and there is no one empire that covers them all.
 
-There is much controversy about the ten kings and the three horns, about which Daniel inquires more in chapter 7, but we must discuss them in the context of the book of Revelation, where we see the [evil trinity](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) and the ten kings again.
+There is much controversy about the ten kings and the three horns, about which Daniel inquires more in chapter 7, but we must discuss them in the context of the book of Revelation, where we see the [evil trinity](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) and the ten kings again.

@@ -69,4 +69,4 @@ Ana konuların ibadet, tanıklık ve restorasyon olduğunu ve günümüzdeki iba
 
 Bunu yeni gözlerle görmek ister misiniz? [Oyuncuların birbirlerine ne sıklıkta pas verdiklerini saymanız gereken bu videodaki gibi şaşırabilirsiniz ](https://www.youtube.com/watch?v=KB_lTKZm1Ts&amp;pp=ygUTYXdhcmVuZXNzIHRlc3QgYmVhcg%3D%3D)(eski olduğunu biliyorum, ama belki herkes için değil)
 
-[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)

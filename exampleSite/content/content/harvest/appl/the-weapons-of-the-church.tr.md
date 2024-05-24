@@ -51,4 +51,4 @@ Bütün bölüm ulus ve kilisenin ulusları İsa’ya yönlendirmek için göste
 - Yaşamınızda söyleyeceğiniz Musa ve İsa’nın şarkısı ne olurdu?
 - Bütün ulusların kurtulmadığının farkında mısınız? Bu sizin için ne ifade ediyor?
 
-[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)

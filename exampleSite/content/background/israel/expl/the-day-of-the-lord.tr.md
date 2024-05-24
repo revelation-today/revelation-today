@@ -12,7 +12,7 @@ appl: /background/israel/appl/who-is-israel
 ## Rab’bin Günü’nün Kökeni
 
 <a name="45df"></a>
-[İsrail’in Tanrı’yla bir antlaşması vardı](../../../../background/israel/expl/gods-covenant). Antlaşmanın amacı, [İbrahim’le yapılan antlaşmaya dayandığı](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F3%3A6) için [tüm uluslar için bir bereket olmaktı](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F12%3A2-3).
+[İsrail’in Tanrı’yla bir antlaşması vardı](/background/israel/expl/gods-covenant). Antlaşmanın amacı, [İbrahim’le yapılan antlaşmaya dayandığı](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F3%3A6) için [tüm uluslar için bir bereket olmaktı](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F12%3A2-3).
 
 İsrail Mısır’dan çıktığında, [İsrail’in bir parçası olan pek çok başka insanı da beraberinde götürdü](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F12%3A38).
 
@@ -66,5 +66,5 @@ Tanrı’nın günü
 - [İsrail’deki kötülerin yargılanması](https://www.bibleserver.com/TR/Sefanya1%3A4-9)
 - Tanrı, Kutsal Ruh’un dökülmesi gibi vaatlerini yerine getirir.
 
-Ama bu sadece [İsrail’in geri kalanının](../../../../background/israel/expl/the-remnant-of-israel) başına gelecektir.
+Ama bu sadece [İsrail’in geri kalanının](/background/israel/expl/the-remnant-of-israel) başına gelecektir.
 

@@ -10,10 +10,8 @@ deeper:
       link: /bible/keyword/expl/the-story-of-balaam
 sources: 
     - pages: 245–258
-      base: ../../../../../
       ref: beale_rev
     - pages: 33
-      base: ../../../../../
       ref: fee_rev
 ---
 
@@ -42,7 +40,7 @@ Aber es gibt ein Problem, das ihnen zum Verhängnis wird: [Bileam und die Nikola
 ## Das Problem
 
 <a name="7e5f"></a>
-Die Geschichte von [Bileam zeigt das völlige Versagen von Leiterschaf](../../../../bible/keyword/expl/the-story-of-balaam)t. Das Problem der Nikolaiten ist wahrscheinlich ähnlich.
+Die Geschichte von [Bileam zeigt das völlige Versagen von Leiterschaf](/bible/keyword/expl/the-story-of-balaam)t. Das Problem der Nikolaiten ist wahrscheinlich ähnlich.
 
 Es gibt kein Eingreifen der Leitung in Bezug auf die falsche Lehre. Wenn man sich die Verheißungen Jesu ansieht, dann war das Problem ihr mangelnder Glaube, und auf der Suche nach Stärkung waren sie empfänglich für Lehren, die ein Leben in Glaubenskompromissen anboten.
 

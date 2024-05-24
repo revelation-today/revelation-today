@@ -13,16 +13,16 @@ sources:
       ref: beale_rev
 ---
 
-The trumpets in the Revelation chapters 8, 9 and 11 reflect to many people some catastrophes in modern times, but it actually reflects [the plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt).
+The trumpets in the Revelation chapters 8, 9 and 11 reflect to many people some catastrophes in modern times, but it actually reflects [the plagues in Egypt](/bible/exodus/expl/the-plagues-in-egypt).
 
 The trumpets are the second series of seven events reported in the book. Their beginning is intertwined with the end of the seals, and it is worth taking a closer look at them.
 
 ## You may want to read before
 
 <a name="bced"></a>
-- [Historical background of the book](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [What type of book is this](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [The plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt)
+- [Historical background of the book](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- [What type of book is this](/background/literature/expl/the-book-of-revelation-how-to-read-it)
+- [The plagues in Egypt](/bible/exodus/expl/the-plagues-in-egypt)
 
 ## The origin of the trumpets
 
@@ -42,7 +42,7 @@ But secondly: Do you really want your prayer to cause the drama caused by the tr
 ## The first four trumpets
 
 <a name="8718"></a>
-The [plagues in Egypt](../../../../bible/exodus/expl/the-plagues-in-egypt) showed that Pharaoh and his gods cannot be trusted. They have no future and no one should put their trust in them.
+The [plagues in Egypt](/bible/exodus/expl/the-plagues-in-egypt) showed that Pharaoh and his gods cannot be trusted. They have no future and no one should put their trust in them.
 
 The trumpets here take away all the securities that people have, [as the letter to the Hebrews says](https://www.bibleserver.com/NIV/Hebrews12%3A26-28). The people should testify by their lives that the kingdom of God is a better security than what they rely on.
 
@@ -54,7 +54,7 @@ The trumpets here take away all the securities that people have, [as the letter 
 
 [The fourth trumpet](https://www.bibleserver.com/NIV/Revelation8%3A12-13) takes away a significant part of the light and orientation (for sailing) away. It relates to the [ninth plague in Egypt](https://www.bibleserver.com/NIV/Exodus10%3A22-23) which had a devastating effect and showed a difference between Israel and the Egyptians.
 
-Why is only a third of all the trumpets affected? Well, the trumpets are sounded against God’s creation (including man in the sixth trumpet), but fell under the influence of sin. Just as one-third of the [stars (angels) fell with Satan](../../../../content/jesus/expl/a-different-christmas-story), one-third of the creation is destroyed.
+Why is only a third of all the trumpets affected? Well, the trumpets are sounded against God’s creation (including man in the sixth trumpet), but fell under the influence of sin. Just as one-third of the [stars (angels) fell with Satan](/content/jesus/expl/a-different-christmas-story), one-third of the creation is destroyed.
 
 ## The fifth and sixth trumpet
 
@@ -69,7 +69,7 @@ God’s people are protected, perhaps not [from the suffering, but from the desp
 
 This plague is the plague in Egypt that [caused the Pharaoh to admit that he had sinned](https://www.bibleserver.com/NIV/Exodus10%3A13-17) and that [his officials were willing to submit under God](https://www.bibleserver.com/NIV/Exodus10%3A7).
 
-[The sixth trumpet](https://www.bibleserver.com/NIV/Revelation9%3A13-21) goes on step further and attacks the lives of people. Four [angels were released from the Euphrates](https://www.bibleserver.com/NIV/Revelation9%3A14) ([where Babel was located](https://en.wikipedia.org/wiki/Babylon)) for this specific time, which has [strong parallels to the sixth bowl](https://www.bibleserver.com/NIV/Revelation16%3A12-14) gathering everybody for [Armageddon](../../../../content/bowls/expl/the-key-to-armageddon).
+[The sixth trumpet](https://www.bibleserver.com/NIV/Revelation9%3A13-21) goes on step further and attacks the lives of people. Four [angels were released from the Euphrates](https://www.bibleserver.com/NIV/Revelation9%3A14) ([where Babel was located](https://en.wikipedia.org/wiki/Babylon)) for this specific time, which has [strong parallels to the sixth bowl](https://www.bibleserver.com/NIV/Revelation16%3A12-14) gathering everybody for [Armageddon](/content/bowls/expl/the-key-to-armageddon).
 
 This is an army of 2*10.000*10.000 ([10.000 is the largest number that the Greek system can write](https://simple.wikipedia.org/wiki/Greek_numerals)), so like an unlimited number.
 

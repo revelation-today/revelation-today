@@ -66,4 +66,4 @@ Zayıf olabilir ve kendimizi çaresiz hissedebiliriz (ve bu duygulara izin verme
 - Şeytan’ın cennetten kovulduğunu ama çok az zamanı olduğu için mümkün olduğunca çok tahribat yarattığını görmek sizin için ne anlama geliyor? Bir Hıristiyan olarak bu sizin yaşamınızı nasıl etkiliyor?
 - Şeytan’ı etrafınızdaki dünyada sürekli kaybeden olarak görebiliyor musunuz?
 
-[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)

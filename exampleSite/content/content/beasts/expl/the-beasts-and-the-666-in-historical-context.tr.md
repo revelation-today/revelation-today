@@ -15,7 +15,7 @@ Vahiy kitabındaki ejderha ve iki canavar normalde çok soyut (kötü güçler) 
 ## İlk okuyucuların bağlamı
 
 <a name="b8d0"></a>
-Ejderhayı ve iki canavarı anlamanın anahtarı, kitabın [Vahiy’deki iki canavarın](https://www.bibleserver.com/TR/Vahiy13) anlamı hakkında bize bazı ipuçları verecek [olan bir mektup ](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it)yönünü görmektir.
+Ejderhayı ve iki canavarı anlamanın anahtarı, kitabın [Vahiy’deki iki canavarın](https://www.bibleserver.com/TR/Vahiy13) anlamı hakkında bize bazı ipuçları verecek [olan bir mektup ](/background/literature/expl/the-book-of-revelation-how-to-read-it)yönünü görmektir.
 
 Denizden ve karadan gelen iki canavar
 
@@ -40,12 +40,12 @@ Anlaşılması çok açık. O şeytandır. O her şeyin arkasındaki kukla ustas
 <a name="f803"></a>
 Bu Roma’daki (denizden gelen) imparator. Kendisinden önceki tüm hükümdarlardan farklı değildir. Ve belirli bir imparatorun sona ermesiyle (Nero’nun ölümü, Tiberius, ..) ilk canavar ölmez. [Her yeni imparatorla birlikte yeniden dirilir. Roma yenilmezdir](https://www.bibleserver.com/TR/Vahiy13%3A3-4).
 
-[Roma, Tanrı’ya benzediğini iddia](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) ettiği için [Tanrı’ya küfretmektedir](https://www.bibleserver.com/TR/Vahiy13%3A4-6). İmparator, Roma lejyonlarına komuta eden ve uyum sağlamayan herkesi kıran kişidir. [Tanrı’nın halkına karşı zulümler başlatır ve başarılı olur](https://www.bibleserver.com/TR/Vahiy13%3A7-8). Ve yaşam kitabında yazılı olmayan herkes onun önünde diz çökecektir, çünkü [o güce sahiptir ve azizler sadece dayanabilir](https://www.bibleserver.com/TR/Vahiy13%3A10).
+[Roma, Tanrı’ya benzediğini iddia](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) ettiği için [Tanrı’ya küfretmektedir](https://www.bibleserver.com/TR/Vahiy13%3A4-6). İmparator, Roma lejyonlarına komuta eden ve uyum sağlamayan herkesi kıran kişidir. [Tanrı’nın halkına karşı zulümler başlatır ve başarılı olur](https://www.bibleserver.com/TR/Vahiy13%3A7-8). Ve yaşam kitabında yazılı olmayan herkes onun önünde diz çökecektir, çünkü [o güce sahiptir ve azizler sadece dayanabilir](https://www.bibleserver.com/TR/Vahiy13%3A10).
 
 ## İkinci canavar
 
 <a name="929e"></a>
-Bunlar, imparatorun lütfundan yararlanan geniş bir insan ağıdır. Bu, vergi indirimleri, mali destek veya diğerleri olabilir. [Onlar için imparator, Tanrıların kutsamasının garantisidir](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation).
+Bunlar, imparatorun lütfundan yararlanan geniş bir insan ağıdır. Bu, vergi indirimleri, mali destek veya diğerleri olabilir. [Onlar için imparator, Tanrıların kutsamasının garantisidir](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation).
 
 [Kimsenin imparatorun gözünden düşmesine neden olacak bir şey yapmadığından emin olurlar](https://www.bibleserver.com/TR/Vahiy13%3A12). Alaylar düzenlerler, tapınaklar inşa ederler, tapınaklarda ve tapınaklar için çalışırlar, putlara adanmış etleri satarlar, putlar için ziyafetlere katılırlar ve daha pek çok şey yaparlar. Bu kapsayıcı bir faaliyettir. [Kötü görünmüyor: “Sadece akışına bırak”](https://www.bibleserver.com/TR/Vahiy13%3A11).
 

@@ -33,7 +33,7 @@ Eines der ersten Dinge, die den Menschen durch den Kopf gehen, wenn sie vom Buch
 ## Ein Sack voller Referenzen
 
 <a name="78d1"></a>
-In den vorhergehenden Versen wird der Angriff des Drachen auf [das Kind (Jesus) ](../../../../content/jesus/expl/a-different-christmas-story)und seine Mutter beschrieben, und als er an beiden scheitert, ruft er zwei Tiere herbei, die noch näher beschrieben werden.
+In den vorhergehenden Versen wird der Angriff des Drachen auf [das Kind (Jesus) ](/content/jesus/expl/a-different-christmas-story)und seine Mutter beschrieben, und als er an beiden scheitert, ruft er zwei Tiere herbei, die noch näher beschrieben werden.
 
 - Der erste Bezug geht auf das Buch Hiob zurück und beschreibt die Ungeheuer [Behemoth](https://www.bibleserver.com/SLT/Hiob40%2C15-24) und [Leviathan](https://www.bibleserver.com/SLT/Hiob41%2C1-26), die Tiere vom Land und der See (ebenso wie in diesem Kapitel). Sie sind für die Menschen unbesiegbar, [nicht aber für Gott](https://www.bibleserver.com/SLT/Jesaja27%2C1). Außerdem ist [Leviathan für Gott nur ein Spielzeug](https://www.bibleserver.com/SLT/Psalm104%2C26).
 - Eine vergleichbare Szene findet sich in der Offenbarung, wo [der Engel seinen Fuß auf Land und Meer setzt](https://www.bibleserver.com/SLT/Offenbarung10%2C3) und damit seine Souveränität über beide ausdrückt.

@@ -65,7 +65,7 @@ Zeuge zu sein bedeutet, dass wir etwas erfahren haben, das wir nicht mehr ignori
 
 Aber wir haben etwas in unserem Leben erlebt, das es völlig verändert hat. Jesus hat ein Leben gelebt und uns so berührt, dass wir es nicht mehr vergessen können. Er lebte in völliger Abhängigkeit von Gott und konnte ein ganz anderes Leben leben, bis hin zur Hingabe seines Lebens. Und wenn wir in die Kirchengeschichte schauen, sehen wir viele andere wie ihn.
 
-Der Schlüssel zum Zeugnis ist Anbetung, ein noch wesentlicheres Thema in der Offenbarung. [Anbetung heißt Loyalität](../../../../topics/power/short/worship) — bis zum Tod. Das griechische Wort für Zeuge ist Märtyrer, denn in den ersten Jahren der Gemeinde ging ihr Zeugnis so weit, dass viele mit ihrem Leben damit bezahlten. Auch wenn wir den Tod fürchten: [Wir werden unsere Bestimmung erfüllen, bevor wir sterben](https://www.bibleserver.com/SLT/Offenbarung11%2C7).
+Der Schlüssel zum Zeugnis ist Anbetung, ein noch wesentlicheres Thema in der Offenbarung. [Anbetung heißt Loyalität](/topics/power/short/worship) — bis zum Tod. Das griechische Wort für Zeuge ist Märtyrer, denn in den ersten Jahren der Gemeinde ging ihr Zeugnis so weit, dass viele mit ihrem Leben damit bezahlten. Auch wenn wir den Tod fürchten: [Wir werden unsere Bestimmung erfüllen, bevor wir sterben](https://www.bibleserver.com/SLT/Offenbarung11%2C7).
 
 Denn wenn Menschen (selbst) so weit gehen, ist das überzeugender als jedes Reden. Denn das, was wir leben, ist das, was andere sehen. Und wenn die Leute sehen, wie wertvoll etwas ist, was wir tun — was sie jetzt miterleben — dann werden sie auch neugierig und wollen folgen.
 

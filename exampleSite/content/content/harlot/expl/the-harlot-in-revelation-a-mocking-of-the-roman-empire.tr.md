@@ -34,7 +34,7 @@ Peki vahiydeki metin bu konuda ne diyor?
 - Roma’nın tepeleri, Roma’yı (fahişe) yok edecek olan canavarı ve kralları temsil eder — Roma, koruduğu şehrin kurbanıdır
 - Roma düşmanlara karşı kılıçla korunmaz ama azizlerin kanıyla örtülür
 
-[Pax Romana’yı](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) gösteren sikke, günlük hayatta bu sikkeyi gören her mümine Roma’ya güvenilemeyeceğini hatırlatan bir horgörü ve tiksinti resmine dönüştürülmüştür — çok etkili bir karşı propaganda.
+[Pax Romana’yı](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) gösteren sikke, günlük hayatta bu sikkeyi gören her mümine Roma’ya güvenilemeyeceğini hatırlatan bir horgörü ve tiksinti resmine dönüştürülmüştür — çok etkili bir karşı propaganda.
 
 ## Ekphrasis
 

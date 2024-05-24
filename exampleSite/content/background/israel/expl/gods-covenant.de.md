@@ -13,7 +13,7 @@ docType: expl
 appl: /background/israel/appl/who-is-israel
 ---
 
-Damals war es [notwendig, Teil einer Familie zu sein (Versorgung Schutz, …) und in einer einflußreichen Familie zu sein war noch besser](../../../../background/israel/expl/the-role-of-family-in-the-bible).
+Damals war es [notwendig, Teil einer Familie zu sein (Versorgung Schutz, …) und in einer einflußreichen Familie zu sein war noch besser](/background/israel/expl/the-role-of-family-in-the-bible).
 
 Doch wie wird man Teil einer Familie? Durch Heirat, Geburt, Adoption oder durch einen BUND.
 

@@ -101,7 +101,7 @@ Kitapta kıyametle ilgili unsurlar olsa da, bu düşünceye meydan okuyor.
 - Yahuda’nın aslanı aslında Tanrı’nın [kuzusudur](https://www.bibleserver.com/TR/Vahiy5%3A5-6).
 - [144.000 kişilik ordu](https://www.bibleserver.com/TR/Vahiy7%3A4-8), Tanrı’ya [ibadet](https://www.bibleserver.com/TR/Vahiy7%3A9-10) eden insanlar olarak ve daha sonra kuzuyu takip eden ve [sadık](https://www.bibleserver.com/TR/Vahiy14%3A1-5) olanlar olarak açıklanır.
 - i̇ki̇ taniğin zaferi̇ onlarin [ölümüdür](https://www.bibleserver.com/TR/Vahiy11%3A7-13)
-- gizemli yer [Armageddon](https://www.bibleserver.com/TR/Vahiy16%3A14), [güçlülerin yenilgisini ve mutlak zayıfların zaferini anlatır](../../../../content/bowls/expl/the-key-to-armageddon)
+- gizemli yer [Armageddon](https://www.bibleserver.com/TR/Vahiy16%3A14), [güçlülerin yenilgisini ve mutlak zayıfların zaferini anlatır](/content/bowls/expl/the-key-to-armageddon)
 - fahişe, üzerinde [oturduğu](https://www.bibleserver.com/TR/Vahiy17%3A3) [canavar tarafından yok edilir](https://www.bibleserver.com/TR/Vahiy17%3A16)
 - İsa gelir ve [ağzının kılıcıyla orduları öldürür](https://www.bibleserver.com/TR/Vahiy19%3A21).
 

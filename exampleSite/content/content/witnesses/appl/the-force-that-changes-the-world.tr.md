@@ -29,7 +29,7 @@ Hızla ilerliyoruz ve [11. bölüme](https://www.bibleserver.com/TR/Vahiy11) ula
 ## Tanıklar
 
 <a name="2470"></a>
-Bunu kısa kesiyorum: [İki tanık kilisedir](../../../../content/witnesses/expl/the-two-witnesses).
+Bunu kısa kesiyorum: [İki tanık kilisedir](/content/witnesses/expl/the-two-witnesses).
 
 İsa’nın yaşam tarzını izleyen iki tanık:
 
@@ -64,4 +64,4 @@ Bu, Tanrı’nın tüm insanları zulümle öldüklerinde dirilteceği ve onlar�
 - Sizin için kendi yaşamınızdan daha önemli olan nedir?
 - Sizce kilisenin dünyayı değiştirme potansiyeli var mı?
 
-[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)

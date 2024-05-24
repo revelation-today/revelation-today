@@ -21,7 +21,7 @@ Some people say, it is the Pope; some people say it is the economy. It could be 
 
 Chapter 17 is about the Harlot Babylon but it is difficult to identify who she is, because there are [many characters in this chapter interacting with each other](https://www.bibleserver.com/NIV/Revelation17). Let us have a look at them.
 
-It begins with the Great Harlot with whom the kings commit adultery and she intoxicates the whole earth. Then the angel starts to reveal the mystery surrounding her. The first clue we get is that she sits on a beast ([from chapter 13](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)) that has 7 heads and 10 horns and the woman is identified as Babylon. The 7 heads are 7 hills or 7 kings who rule consequetively while the beast is the 8th king. The 10 horns are 10 kings who rule at the same time and give all their power to the beast.
+It begins with the Great Harlot with whom the kings commit adultery and she intoxicates the whole earth. Then the angel starts to reveal the mystery surrounding her. The first clue we get is that she sits on a beast ([from chapter 13](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)) that has 7 heads and 10 horns and the woman is identified as Babylon. The 7 heads are 7 hills or 7 kings who rule consequetively while the beast is the 8th king. The 10 horns are 10 kings who rule at the same time and give all their power to the beast.
 
 Now the beast fights against the saints, but Jesus will take up the fight and it ends with the beast and the kings hating and destroying the harlot.
 

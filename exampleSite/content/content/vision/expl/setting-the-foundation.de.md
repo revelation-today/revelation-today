@@ -19,7 +19,7 @@ Die Offenbarung beginnt mit einigen Aussagen, die man leicht überliest, die abe
 
 Das Buch beginnt mit “Offenbarung Jesu Christi” (griechisch „Apokalypsis Iesou Christou”), „die Gott ihm gab, um seinen Knechten zu zeigen, was bald geschehen muss”.
 
-Dieses Buch wird als Apokalypse bezeichnet, was sicherlich einige Assoziationen weckt, aber wahrscheinlich die falschen. Auch die direkte Übersetzung “Offenbarung” lässt Fragen offen. [Eine Apokalypse ist eine ganz besondere Art von Literatur](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it) — sie will provozieren und erwartet eine Reaktion.
+Dieses Buch wird als Apokalypse bezeichnet, was sicherlich einige Assoziationen weckt, aber wahrscheinlich die falschen. Auch die direkte Übersetzung “Offenbarung” lässt Fragen offen. [Eine Apokalypse ist eine ganz besondere Art von Literatur](/background/literature/expl/the-book-of-revelation-how-to-read-it) — sie will provozieren und erwartet eine Reaktion.
 
 Aber wir dürfen nicht vergessen, dass es in diesem Buch um Jesus geht, er steht im Mittelpunkt. „Jesu Christi” kann auf zweierlei Weise übersetzt werden:
 
@@ -28,9 +28,9 @@ Aber wir dürfen nicht vergessen, dass es in diesem Buch um Jesus geht, er steht
 
 Im Griechischen ist beides möglich und wohl auch gemeint: Die Offenbarung kommt von Jesus, aber sie soll ihn auch offenbaren.Die Knechte sind die Gläubigen, an die Johannes schreibt und an die das Buch gerichtet ist.
 
-Auch die Formulierung “was bald geschehen muss” ist bewusst gewählt und bezieht sich auf eine [Prophezeichung aus Daniel](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel), die das Ende der Weltreiche und das Kommen des Reiches Gottes beschreibt. Im Gegensatz zur Zeit Daniels liegt dies nicht mehr in der Zukunft, sondern ist schon da.
+Auch die Formulierung “was bald geschehen muss” ist bewusst gewählt und bezieht sich auf eine [Prophezeichung aus Daniel](/bible/daniel/expl/the-four-kingdoms-in-daniel), die das Ende der Weltreiche und das Kommen des Reiches Gottes beschreibt. Im Gegensatz zur Zeit Daniels liegt dies nicht mehr in der Zukunft, sondern ist schon da.
 
-Der [nächste Vers](https://www.bibleserver.com/SLT/Offenbarung1%2C2) versträrkt dies, indem er vom Zeugnis Jesu spricht. Wie wir sehen werden, ist [dies eines der zentralen Themen des ganzen Buches](../../../../topics/power/short/the-power-of-testimony). Jesus redet nicht nur darüber, er lebt sein Zeugnis, und so sollten wir es auch tun.
+Der [nächste Vers](https://www.bibleserver.com/SLT/Offenbarung1%2C2) versträrkt dies, indem er vom Zeugnis Jesu spricht. Wie wir sehen werden, ist [dies eines der zentralen Themen des ganzen Buches](/topics/power/short/the-power-of-testimony). Jesus redet nicht nur darüber, er lebt sein Zeugnis, und so sollten wir es auch tun.
 
 Dies wird im nächsten Vers noch deutlicher: “Glückselig ist, der die Worte der Weissagung liest, und die sie hören und bewahren, was darin geschrieben steht! Denn die Zeit ist nahe.”
 

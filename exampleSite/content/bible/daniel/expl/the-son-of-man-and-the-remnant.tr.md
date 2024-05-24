@@ -28,7 +28,7 @@ Peki insanoğlunun (İsrail’in) çağrısı ve kaderi nedir? Okumaya devam ede
 
 [Bana şu açıklamayı yaptı: ‹Dördüncü yaratık yeryüzünde ortaya çıkacak dördüncü krallıktır. Bütün öbür krallıklardan farklı olacak, bütün dünyayı yiyip bitirecek, çiğneyip parçalayacak. On boynuz bu krallıktan çıkacak on kraldır. Bunlardan sonra öncekilerden farklı bir başka kral ortaya çıkıp üç kralı tahtlarından indirecek. Yüceler Yücesi’ni kötüleyen sözler söyleyecek, O’nun kutsallarına baskı yapacak. Belirlenen zamanları, yasaları değiştirmeyi amaçlayacak. Kutsallar üç buçuk yıl için eline teslim edilecekler. ‹‹ ‹Ama mahkeme kurulacak, onun egemenliğine son verilecek, büsbütün yok edilecek. Göklerin altındaki krallıklara özgü krallık, egemenlik ve büyüklük kutsallara, Yüceler Yücesi’nin halkına verilecek. Bu halkın krallığı sonsuza dek sürecek, bütün uluslar ona kulluk edip sözünü dinleyecek.›](https://www.bibleserver.com/TR/Daniel7%3A23-27)
 
-Bu, [daha önce tanımladığımız](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel) yeryüzü krallıklarını açıklamaktadır. İlk bölüm vizyonun unsurlarına ve eylemlerine atıfta bulunurken, ikinci bölüm açıklamadır.
+Bu, [daha önce tanımladığımız](/bible/daniel/expl/the-four-kingdoms-in-daniel) yeryüzü krallıklarını açıklamaktadır. İlk bölüm vizyonun unsurlarına ve eylemlerine atıfta bulunurken, ikinci bölüm açıklamadır.
 
 Yorumlanan unsurlara bakalım:
 
@@ -54,9 +54,9 @@ Bunu görünce İsrail belli bir zamanda dünyayı yönetecekmiş gibi geliyor.
 
 Ancak bir sorun vardır: İnsanoğlu tapınmayı kabul edecektir. Yalnızca Tanrı’ya tapınılabileceği için bu yalnızca Tanrı için mümkündür.
 
-Peki bu nasıl çözülebilir? Peygamberler Rab’bin Günü konusunda [İsrail’den sadece bir kalıntının kalacağını](../../../../background/israel/expl/the-remnant-of-israel) söylerler. Dolayısıyla Kutsal Halk gelecekteki bu kalıntıya işaret ediyor olabilir.
+Peki bu nasıl çözülebilir? Peygamberler Rab’bin Günü konusunda [İsrail’den sadece bir kalıntının kalacağını](/background/israel/expl/the-remnant-of-israel) söylerler. Dolayısıyla Kutsal Halk gelecekteki bu kalıntıya işaret ediyor olabilir.
 
-Daniel’in bağlamından bunun ne zaman olacağı belli değildir ama 2. ve 7. bölümlerdeki açıklamalar [bunun Rab’bin Günü olması gerektiğini göstermektedir](../../../../background/israel/expl/the-day-of-the-lord).
+Daniel’in bağlamından bunun ne zaman olacağı belli değildir ama 2. ve 7. bölümlerdeki açıklamalar [bunun Rab’bin Günü olması gerektiğini göstermektedir](/background/israel/expl/the-day-of-the-lord).
 
 Eski Ahit’te sadece Hezekiel peygambere “İnsanoğlu” denir ama bu yine “[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)” (“Adem’in oğlu”) iken Daniel’de “[kebar enas](https://biblehub.com/interlinear/daniel/7-13.htm)” (“insanoğlunun oğlu”) terimi kullanılır.
 
@@ -79,14 +79,14 @@ Acı gerçek şudur ki, kendi halkı olan İsrail ona karşı çıktıkça onun 
 
 Ama İsa ne yaptı: [Affetti, çünkü onlar ne yaptıklarını bilmiyorlardı](https://www.bibleserver.com/TR/Luka23%3A34). [Ve çağrısı İsrail’i eski haline getirmek ve mümkün olduğunca çok kişiyi kendisine çağırmaktı](https://www.bibleserver.com/TR/Matta15%3A24) (öğrencilerin çağrısı ulusun peşinden gitmekti, [elbette istisnalar vardı](https://www.bibleserver.com/TR/Matta8%3A5-13)). Yargıç olarak değil, kurtarıcı olarak geldi ama tekrar gelecek. Ve İsrail’i reddedip yerine kiliseyi getirmedi, aksine İsrail’i yeniden başlattı ve kiliseyi de buna dahil etti.
 
-Ama [İsrail’in geri kalanını](../../../../background/israel/expl/the-remnant-of-israel) kurtarıyor.
+Ama [İsrail’in geri kalanını](/background/israel/expl/the-remnant-of-israel) kurtarıyor.
 
 ## Miras
 
 <a name="8693"></a>
 İsa insanoğludur, ama her şey ona aittir. Daniel 2'de tüm krallıkları yok eden taşın dünya kadar büyük olduğunu görüyoruz ki bu da yeni İsrail’in (kiliseyi içeren) tüm dünyaya ulaşmasının bir tanımıdır.
 
-Bu resim, [kiliseyi de içeren yeni İsrail’i temsil eden](../../../../content/witnesses/expl/the-two-witnesses) [Vahiy Kitabı’ndaki iki tanığın](https://www.bibleserver.com/TR/Vahiy11%3A3-14) tanımında yer almaktadır. Onlar [3,5 yıl](https://www.bibleserver.com/TR/Vahiy11%3A3) boyunca hüküm sürecekler ([3,5 yılın ne olduğunu merak ediyorsanız](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)) ve dirilişe kadar 3,5 gün boyunca öldürülecekler, ancak insanoğlu kehanetinde olduğu gibi 3,5 kez.
+Bu resim, [kiliseyi de içeren yeni İsrail’i temsil eden](/content/witnesses/expl/the-two-witnesses) [Vahiy Kitabı’ndaki iki tanığın](https://www.bibleserver.com/TR/Vahiy11%3A3-14) tanımında yer almaktadır. Onlar [3,5 yıl](https://www.bibleserver.com/TR/Vahiy11%3A3) boyunca hüküm sürecekler ([3,5 yılın ne olduğunu merak ediyorsanız](/bible/daniel/expl/the-secret-of-the-3-5-years)) ve dirilişe kadar 3,5 gün boyunca öldürülecekler, ancak insanoğlu kehanetinde olduğu gibi 3,5 kez.
 
 Tanıklar İsa’nın hayatını yaşadıkları için insanoğlu olarak tanımlanırlar:
 

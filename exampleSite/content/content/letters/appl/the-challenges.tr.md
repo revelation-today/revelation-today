@@ -7,19 +7,19 @@ deeper:
     - name: Kiliseler için mektup
       link: /content/letters/expl/the-letters-to-the-seven-churches
     - name: Efes’e mektup
-      link: /content/letters/expl/details/the-letter-to-the-church-in-ephesus
+      link: /content/letters/expl/the-letter-to-the-church-in-ephesus
     - name: İzmir’e mektup
-      link: /content/letters/expl/details/the-letter-to-the-church-in-smyrna
+      link: /content/letters/expl/the-letter-to-the-church-in-smyrna
     - name: Pergamon’a mektup
-      link: /content/letters/expl/details/the-letter-to-the-church-in-pergamon
+      link: /content/letters/expl/the-letter-to-the-church-in-pergamon
     - name: Thyatira’ya mektup
-      link: /content/letters/expl/details/the-letter-to-the-church-in-thyatira
+      link: /content/letters/expl/the-letter-to-the-church-in-thyatira
     - name: Sardes’e mektup
-      link: /content/letters/expl/details/the-letter-to-the-church-in-sardis
+      link: /content/letters/expl/the-letter-to-the-church-in-sardis
     - name: Philadelphia’ya mektup
-      link: /content/letters/expl/details/the-letter-to-the-church-in-philadelphia
+      link: /content/letters/expl/the-letter-to-the-church-in-philadelphia
     - name: Laodikya’ya mektup
-      link: /content/letters/expl/details/the-letter-to-the-church-in-laodicea
+      link: /content/letters/expl/the-letter-to-the-church-in-laodicea
 prev: /content/vision/appl/vision
 next: /content/worship/appl/the-answer-to-all-questions
 docType: appl
@@ -64,4 +64,4 @@ Zorlukları da güçlü yanları gibi bireyseldir, bu nedenle bazı kiliselerin 
 - Kötü liderlik ve aldatma: Önderlik yanlış öğretime izin verdi, hatta bunun kaynağı oldu. Bunun tüm kilise üzerinde yıkıcı bir etkisi oldu.
 - Yanlış öz değerlendirme: Övgü almayan Laodikya kilisesi büyük olasılıkla kendini çok beğenen bir kiliseydi. Sardes de kendi başlarının çaresine bakabileceklerini düşünüyordu. Bu, yıkıcı olan çok kötü bir yanılgıydı.
 
-[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)

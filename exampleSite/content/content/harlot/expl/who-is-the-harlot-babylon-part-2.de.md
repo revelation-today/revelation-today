@@ -72,12 +72,12 @@ Auch in der Offenbarung gibt es diesen Zusammenhang zwischen den Königen, [die 
 <a name="738a"></a>
 Könnte Babel dann eine Beschreibung der abgefallenen Kirche sein? Nicht wirklich, obwohl die Gemeinde immer in der Gefahr ist, ein Teil von Babel zu werden.
 
-Babel ist das Gegenstück zur Braut (dem Neuen Jerusalem) und in sich auch ein eigenes System. Zusammen mit dem Tier, auf dem sie sitzt, [repräsentiert sie die böse Dreieinigkeit, die die Welt verführt](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Das Tier repräsentiert die politische und militärische Macht ([den Kaiser](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context)), während die Hure das unterstützende System bildet, das Folgendes umfasst
+Babel ist das Gegenstück zur Braut (dem Neuen Jerusalem) und in sich auch ein eigenes System. Zusammen mit dem Tier, auf dem sie sitzt, [repräsentiert sie die böse Dreieinigkeit, die die Welt verführt](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Das Tier repräsentiert die politische und militärische Macht ([den Kaiser](/content/beasts/expl/the-beasts-and-the-666-in-historical-context)), während die Hure das unterstützende System bildet, das Folgendes umfasst
 
 - Wirtschaft ([macht reich oder arm](https://www.bibleserver.com/SLT/Offenbarung13%2C16-17)),
 - Kultur mit [beeindruckendem Tempeldienst](https://www.bibleserver.com/SLT/Offenbarung13%2C13-15),
 - [Ideologie](https://www.bibleserver.com/SLT/Offenbarung13%2C12),
-- andere Aspekte des täglichen Lebens wie [Münzen](../../../../content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire), öffentliche Feiertage, …
+- andere Aspekte des täglichen Lebens wie [Münzen](/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire), öffentliche Feiertage, …
 
 In all dem scheint sie eine bessere Welt zu schaffen als Jesus durch
 
@@ -86,7 +86,7 @@ In all dem scheint sie eine bessere Welt zu schaffen als Jesus durch
 - [Gefühl der Überlegenheit](https://www.bibleserver.com/SLT/Offenbarung13%2C13-14),
 - [Verstummen lassen unbequemer Stimmen](https://www.bibleserver.com/SLT/Offenbarung17%2C6).
 
-Da Babel viele [Parallelen zu Isebel hat](../../../../content/harlot/expl/who-is-the-harlot-babylon-part-1), ist es eine besondere Warnung für [Gemeindeleiter](../../../../content/letters/expl/details/the-letter-to-the-church-in-thyatira). Aber der Aufruf zur Selbstprüfung richtet sich an alle. Vielleicht ist das der Grund, warum es so schwer ist, Babel wirklich zu fassen, so [dass wir uns selbst immer wieder hinterfragen und Babel jeden Tag aufs Neue verlassen](https://www.bibleserver.com/SLT/Offenbarung18%2C4). Denn Babel ist überall!
+Da Babel viele [Parallelen zu Isebel hat](/content/harlot/expl/who-is-the-harlot-babylon-part-1), ist es eine besondere Warnung für [Gemeindeleiter](/content/letters/expl/the-letter-to-the-church-in-thyatira). Aber der Aufruf zur Selbstprüfung richtet sich an alle. Vielleicht ist das der Grund, warum es so schwer ist, Babel wirklich zu fassen, so [dass wir uns selbst immer wieder hinterfragen und Babel jeden Tag aufs Neue verlassen](https://www.bibleserver.com/SLT/Offenbarung18%2C4). Denn Babel ist überall!
 
 Für die Gemeinschaft ist es eine Versuchung
 - wenn sie verfolgt wird oder 

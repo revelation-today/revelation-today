@@ -10,10 +10,8 @@ deeper:
       link: /bible/keyword/expl/the-story-of-balaam
 sources: 
     - pages: 245–258
-      base: ../../../../../
       ref: beale_rev
     - pages: 33
-      base: ../../../../../
       ref: fee_rev
 ---
 
@@ -42,7 +40,7 @@ Ancak onları kıran bir şey vardır: [Balam ve Nikolaitler](https://www.bibles
 ## Sorun
 
 <a name="5385"></a>
-[Balam’la ilgili öykü, sonuçta ortaya çıkan bir önderliğin başarısızlığını gösterir](../../../../bible/keyword/expl/the-story-of-balaam). Nikolaylar’da da benzer bir sorun var gibi görünmektedir.
+[Balam’la ilgili öykü, sonuçta ortaya çıkan bir önderliğin başarısızlığını gösterir](/bible/keyword/expl/the-story-of-balaam). Nikolaylar’da da benzer bir sorun var gibi görünmektedir.
 
 Önderliğin yanlış öğretişle ilgili sıkı bir angajmanı yoktur. İsa’nın sunduğu vaade bakıldığında, sorunun onların iman eksikliği ve muhtemelen imanlarından ödün verme fikrini de beraberinde getiren rahatlatıcı öğretiş arayışları olduğu görülmektedir.
 
@@ -51,7 +49,7 @@ Her öğreti aynı zamanda yapılanları da etkilediği için, davranışları v
 ## Çözüm
 
 <a name="eebd"></a>
-[Gizli kudret helvası](../../../../bible/keyword/expl/the-story-of-balaam) alacaklardır. Tanrı doğaüstü şeyler sağlar, ama işler umutsuz göründüğünde bile O’na güvenmemiz gerekir.
+[Gizli kudret helvası](/bible/keyword/expl/the-story-of-balaam) alacaklardır. Tanrı doğaüstü şeyler sağlar, ama işler umutsuz göründüğünde bile O’na güvenmemiz gerekir.
 
 İki anlamı olabilecek yeni bir isimle beyaz bir taş alacaklar:
 

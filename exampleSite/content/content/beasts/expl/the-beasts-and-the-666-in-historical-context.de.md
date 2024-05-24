@@ -15,7 +15,7 @@ Der Drache und die beiden Tiere der Offenbarung erscheinen sehr abstrakt (böse 
 ## Der Kontext der ersten Leser
 
 <a name="a261"></a>
-Ein Schlüssel zum Verständnis des Drachen und der beiden Tiere ist, die Offenbarung auch als [Brief](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it) zu verstehen, der uns einige Hinweise auf die [beiden Tiere](https://www.bibleserver.com/SLT/Offenbarung13) gibt.
+Ein Schlüssel zum Verständnis des Drachen und der beiden Tiere ist, die Offenbarung auch als [Brief](/background/literature/expl/the-book-of-revelation-how-to-read-it) zu verstehen, der uns einige Hinweise auf die [beiden Tiere](https://www.bibleserver.com/SLT/Offenbarung13) gibt.
 
 Die beiden Tiere kommen aus dem Meer und der Erde und basieren auf
 
@@ -40,12 +40,12 @@ Er ist sehr einfach zu verstehen. Es ist Satan. Er ist der Puppenspieler, er ste
 <a name="e132"></a>
 Das ist der Kaiser in Rom (vom Meer, also jenseits des Meeres). Er unterscheidet sich nicht von den Herrschern vor ihm. Und mit dem Tod eines Herrschers (Nero, Tiberius, …) ist das erste Tier nicht tot. [Mit jedem neuen Kaiser erhebt es sich wieder. Rom ist unschlagbar](https://www.bibleserver.com/SLT/Offenbarung13%2C3-4).
 
-[Rom ist gotteslästerlich](https://www.bibleserver.com/SLT/Offenbarung13%2C4-6), weil es für sich in [Anspruch nimmt, wie Gott zu sein](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation). Der Kaiser befehligt die Legionen und bricht jeden Widerstand. Er [beginnt die Christenverfolgung und kommt damit durch](https://www.bibleserver.com/SLT/Offenbarung13%2C7-8). Und jeder, dessen Name nicht im Buch des Lebens geschrieben steht, wird seine Knie vor ihm beugen, [denn er hat die Macht, und die Heiligen können nur ausharren](https://www.bibleserver.com/SLT/Offenbarung13%2C10).
+[Rom ist gotteslästerlich](https://www.bibleserver.com/SLT/Offenbarung13%2C4-6), weil es für sich in [Anspruch nimmt, wie Gott zu sein](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation). Der Kaiser befehligt die Legionen und bricht jeden Widerstand. Er [beginnt die Christenverfolgung und kommt damit durch](https://www.bibleserver.com/SLT/Offenbarung13%2C7-8). Und jeder, dessen Name nicht im Buch des Lebens geschrieben steht, wird seine Knie vor ihm beugen, [denn er hat die Macht, und die Heiligen können nur ausharren](https://www.bibleserver.com/SLT/Offenbarung13%2C10).
 
 ## Das zweite Tier
 
 <a name="3622"></a>
-Es gibt ein großes Netzwerk von Menschen, die von der Gunst des Kaisers profitieren (Steuererlass, finanzielle Unterstützung, …) oder die vermeiden wollen, in Ungnade zu fallen. Für sie ist der [Kaiser der Garant des göttlichen Segens](../../../../background/history/expl/pax-romana-key-to-understand-the-book-of-revelation).
+Es gibt ein großes Netzwerk von Menschen, die von der Gunst des Kaisers profitieren (Steuererlass, finanzielle Unterstützung, …) oder die vermeiden wollen, in Ungnade zu fallen. Für sie ist der [Kaiser der Garant des göttlichen Segens](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation).
 
 Sie achten darauf, dass [niemand etwas tut, was sie in die Ungunst des Kaisers bringen könnte](https://www.bibleserver.com/SLT/Offenbarung13%2C12). Es sind die lokalen Autoritäten. Sie machen Prozessionen, bauen Tempel, arbeiten in und an den Tempeln, verkaufen den Götzen geweihtes Fleisch, nehmen an Festen für Götzen teil und so weiter. Es ist eine übergeordnete Aktivität: [Es sieht doch nicht böse aus, geht einfach mit dem Strom](https://www.bibleserver.com/SLT/Offenbarung13%2C11).
 

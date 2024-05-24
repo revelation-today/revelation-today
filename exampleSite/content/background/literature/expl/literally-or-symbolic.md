@@ -22,7 +22,7 @@ Something can be symbolic, but it can also occur in reality, such as the Nile tu
 ## The scope of the book
 
 <a name="b0bd"></a>
-For this we must understand that this book reflects different types of literature that we must take into account: [apocalyptic, prophetic, letter](../../../../background/literature/expl/the-book-of-revelation-how-to-read-it).
+For this we must understand that this book reflects different types of literature that we must take into account: [apocalyptic, prophetic, letter](/background/literature/expl/the-book-of-revelation-how-to-read-it).
 
 We need to consider the scope of the book:
 
@@ -35,7 +35,7 @@ But let us take a closer look at the text itself.
 ## The Daniel frame
 
 <a name="c39c"></a>
-There are some key passages in the book of Revelation that have a strong connection to the [prophecy in Daniel chapter 2](https://www.bibleserver.com/NIV/Daniel2%3A28-45) that should help us better understand the book. This passage [parallels](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel) [Daniel chapter 7 ](https://www.bibleserver.com/NIV/Daniel7)which has many references in the book of Revelation.
+There are some key passages in the book of Revelation that have a strong connection to the [prophecy in Daniel chapter 2](https://www.bibleserver.com/NIV/Daniel2%3A28-45) that should help us better understand the book. This passage [parallels](/bible/daniel/expl/the-four-kingdoms-in-daniel) [Daniel chapter 7 ](https://www.bibleserver.com/NIV/Daniel7)which has many references in the book of Revelation.
 
 The passage is the only one in the prophetic books that uses the word “mystery”, which occurs three times in Revelation (mystery of the [church](https://www.bibleserver.com/NIV/Revelation1%3A20), mystery of [God](https://www.bibleserver.com/NIV/Revelation10%3A7), mystery of the [beast](https://www.bibleserver.com/NIV/Revelation17%3A5)).
 
@@ -97,5 +97,5 @@ You will also see that the book is full of things that are obviously symbols: th
 
 ## Further digging
 
-[Beale, Revelation, pages 50–69](../../../../about/ressources/index.html#beale_rev)
+[Beale, Revelation, pages 50–69](/about/ressources/index.html#beale_rev)
 

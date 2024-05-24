@@ -130,4 +130,4 @@ Yani Şeytan ve İsa gibi davrananlar arasındaki ayırt edici nokta güç ya da
 - Eğer itaat etmezseniz günümüz canavarlarının sonuçları nelerdir?
 - Nerede teslim olmaya zorlanıyorsunuz (çaresizlikten, inançtan, ayartılmaktan)?
 
-[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)

@@ -8,9 +8,9 @@ Die Offenbarung ist voll von seltsamen Zeitangaben wie 1260 Tage, 42 Monate usw.
 ## Du solltest zuvor einen Blick haben auf
 
 <a name="7ed9"></a>
-- [Überblick über das Buch Daniel](../../../../bible/daniel/expl/the-book-of-daniel)
-- [Die vier Königreiche in Daniel](../../../../bible/daniel/expl/the-four-kingdoms-in-daniel)
-- [Die 70 Jahrwochen](../../../../bible/daniel/expl/the-70-year-weeks)
+- [Überblick über das Buch Daniel](/bible/daniel/expl/the-book-of-daniel)
+- [Die vier Königreiche in Daniel](/bible/daniel/expl/the-four-kingdoms-in-daniel)
+- [Die 70 Jahrwochen](/bible/daniel/expl/the-70-year-weeks)
 
 ## Ein wenig Mathematik
 
@@ -49,14 +49,14 @@ Die große Frage dahinter ist: Wer ist der wahre Gott?
 ## Die Jahrwoche in Daniel
 
 <a name="8ed0"></a>
-Bei Daniel enden die [70 Jahrwochen in einer Woche, die aus zwei Teilen besteht, von denen jeder dreieinhalb Jahre dauert](../../../../bible/daniel/expl/the-70-year-weeks). Der erste Teil beschreibt die Zeit Jesu auf der Erde, der zweite Teil vielleicht die Zeit der Gemeinde. Auch[ der Bund Jesu wird in dieser Woche beschrieben](https://www.bibleserver.com/SLT/Daniel9%2C27).
+Bei Daniel enden die [70 Jahrwochen in einer Woche, die aus zwei Teilen besteht, von denen jeder dreieinhalb Jahre dauert](/bible/daniel/expl/the-70-year-weeks). Der erste Teil beschreibt die Zeit Jesu auf der Erde, der zweite Teil vielleicht die Zeit der Gemeinde. Auch[ der Bund Jesu wird in dieser Woche beschrieben](https://www.bibleserver.com/SLT/Daniel9%2C27).
 
 Diese 3,5 Jahre sind das, was Gott im Hintergrund aufbaut und was die Reiche dieser Welt übertrumpft.
 
 ## Was sind die 3,5 Jahre in der Offenbarung
 
 <a name="1f16"></a>
-Gehen wir die Kapitel durch und beginnen wir mit Kapitel 13 : [Das ist die Täuschung, die Satan durchführt](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Wann beginnt das? Nach Kapitel 12, direkt nach Jesu Tod am Kreuz, als Satan begreift, dass er Jesus und Israel nicht zerstören kann, die von Gott beschützt sind.
+Gehen wir die Kapitel durch und beginnen wir mit Kapitel 13 : [Das ist die Täuschung, die Satan durchführt](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Wann beginnt das? Nach Kapitel 12, direkt nach Jesu Tod am Kreuz, als Satan begreift, dass er Jesus und Israel nicht zerstören kann, die von Gott beschützt sind.
 
 Wann endet das? Nie, wenn es nach Satan geht, also bis Jesus wiederkommt.
 
@@ -64,7 +64,7 @@ In derselben Zeit wird die [Frau vor den Angriffes Satans bewahrt](https://www.b
 
 Dann haben wir den [Tempel](https://www.bibleserver.com/SLT/Offenbarung11%2C1-2). Er dient nicht dem Opferkult, sondern der Anbetung. Wann beginnt das? Mit dem Tod Jesu. Wann endet es? Es gibt keinen Grund anzunehmen, dass er vor der Wiederkunft Jesu endet.
 
-Dann bleiben noch die [1260 Tage der beiden Zeugen](https://www.bibleserver.com/SLT/Offenbarung11%2C3). Das ist die ganze Zeit zwischen dem ersten und dem zweiten Kommen Jesu. Es handelt sich also [nicht um zwei Personen, sondern um die Gemeinde](../../../../content/witnesses/expl/the-two-witnesses).
+Dann bleiben noch die [1260 Tage der beiden Zeugen](https://www.bibleserver.com/SLT/Offenbarung11%2C3). Das ist die ganze Zeit zwischen dem ersten und dem zweiten Kommen Jesu. Es handelt sich also [nicht um zwei Personen, sondern um die Gemeinde](/content/witnesses/expl/the-two-witnesses).
 
 Warum sind es dann verschiedene Zeiteinheiten (Tage, Monate, …)? Die Tage werden für die Taten der zwei Zeugen und die Versorgung Israels verwendet, die Monate für die Herrschaft Satans und die Zerstörung des äußeren Tempels und die 3,5 Jahre/Zeiten für das verborgene Wirken Gottes. Vielleicht ist es so, dass die Länge der 1260 Tage der Gemeinde der kürzeren Zahl von 42 Monaten Satans gegenübergestellt wird. Aber das ist nur eine Vermutung, der ich nicht sicher bin.
 

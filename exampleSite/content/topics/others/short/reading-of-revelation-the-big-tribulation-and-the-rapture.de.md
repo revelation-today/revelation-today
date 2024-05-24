@@ -42,7 +42,7 @@ Die Hoffnung der Kirche ist nicht, dass wir von unseren Schwierigkeiten erlöst 
 ## Zur Vertiefung
 
 <a name="aa50"></a>
-- [Jesus in der Offenbarung](../../../../content/jesus/expl/a-different-christmas-story)
-- [Die große Trübsal](../../../../content/army/expl/the-end-time-and-the-great-tribulation)
-- [Die Entrückung](../../../../topics/others/expl/the-rapture)
+- [Jesus in der Offenbarung](/content/jesus/expl/a-different-christmas-story)
+- [Die große Trübsal](/content/army/expl/the-end-time-and-the-great-tribulation)
+- [Die Entrückung](/topics/others/expl/the-rapture)
 

@@ -12,9 +12,9 @@ The devil with all his minions takes up quite a bit of space in the book of Reve
 ## You may want to read before
 
 <a name="98d6"></a>
-- [The four horseman](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
-- [The character of the beasts](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
-- [The character of the harlot](../../../../content/harlot/expl/the-character-and-destiny-of-the-harlot)
+- [The four horseman](/content/seals/expl/the-mystery-of-the-four-horse-men)
+- [The character of the beasts](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- [The character of the harlot](/content/harlot/expl/the-character-and-destiny-of-the-harlot)
 
 ## The character of the devil
 
@@ -35,7 +35,7 @@ The second time he appears is when [Jesus declared victorious again](https://www
 - [He tries to destroy the child – and fail](https://www.bibleserver.com/NIV/Revelation12%3A1-6)s.
 - [He fights against Michael – and is cast out of heaven](https://www.bibleserver.com/NIV/Revelation12%3A7-12).
 - [He tries to destroy the woman – and fails](https://www.bibleserver.com/NIV/Revelation12%3A13-17).
-- [He tries to destroy the descendants of Jesus, the Church, and also fails](https://www.bibleserver.com/NIV/Revelation13) as we see in [the number 666](../../../../content/beasts/expl/666-the-number-of-the-beast#5112).
+- [He tries to destroy the descendants of Jesus, the Church, and also fails](https://www.bibleserver.com/NIV/Revelation13) as we see in [the number 666](/content/beasts/expl/666-the-number-of-the-beast#5112).
 
 The devil is shown again [as a trinity in the sixth bowl](https://www.bibleserver.com/NIV/Revelation16%3A13). which is judged in chapters [19](https://www.bibleserver.com/NIV/Revelation19%3A20) and [20](https://www.bibleserver.com/NIV/Revelation20%3A10). These passages frame the story of the harlot, where we also have one beast and the harlot.
 
@@ -46,11 +46,11 @@ These three views are interrelated in describing the devil’s activity.
 <a name="45d1"></a>
 To better understand how the devil is described, we need to look at the [second story of the dragon and the two beasts](https://www.bibleserver.com/NIV/Revelation13).
 
-He sets [up an evil trinity](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be) to deceive the church, but [to no avail](../../../../content/beasts/expl/666-the-number-of-the-beast#5112).
+He sets [up an evil trinity](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be) to deceive the church, but [to no avail](/content/beasts/expl/666-the-number-of-the-beast#5112).
 
-The [dragon and the beasts are described as working together to accomplish their goal](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be) but they acted differently. The first beast used violence, while the second used signs and miracles and economic pressure, [see also in the historical context](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context).
+The [dragon and the beasts are described as working together to accomplish their goal](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be) but they acted differently. The first beast used violence, while the second used signs and miracles and economic pressure, [see also in the historical context](/content/beasts/expl/the-beasts-and-the-666-in-historical-context).
 
-Now, if we look now [at the three horseman, we see the same pattern](../../../../content/seals/expl/the-mystery-of-the-four-horse-men):
+Now, if we look now [at the three horseman, we see the same pattern](/content/seals/expl/the-mystery-of-the-four-horse-men):
 
 - First comes the deceiver,
 - followed by the one who uses violence (brings war),
@@ -90,16 +90,16 @@ The power of the harlot is also reversed here into: while in chapter 13 she drop
 
 So where is the third part? Well he stays in the background as in chapter 13 and does nothing as in the description of the horsemen. But you will see him it [the sixth bowl](https://www.bibleserver.com/NIV/Revelation16%3A13) and in chapter [20](https://www.bibleserver.com/NIV/Revelation20%3A10).
 
-[This was also the case in the historical context](../../../../content/beasts/expl/the-beasts-and-the-666-in-historical-context): You see the two beasts but you do not see the devil directly.
+[This was also the case in the historical context](/content/beasts/expl/the-beasts-and-the-666-in-historical-context): You see the two beasts but you do not see the devil directly.
 
 ## The development of the picture
 
 <a name="6ef8"></a>
-Looking at the development of the image, we see Satan in the first horsemen. This scene comes right after Jesus is identified as the one worthy to open the scroll [that brings salvation to the world](../../../../content/seals/expl/the-book-with-the-seven-seals). Satan is exposed right after that. For this is what he claims in the first horsemen.
+Looking at the development of the image, we see Satan in the first horsemen. This scene comes right after Jesus is identified as the one worthy to open the scroll [that brings salvation to the world](/content/seals/expl/the-book-with-the-seven-seals). Satan is exposed right after that. For this is what he claims in the first horsemen.
 
 He is the one who is victorious, but he ends up in destruction and death everywhere. He was exposed for bringing the opposite of what Jesus brings. But what is that?
 
-This is the theme that is developed in the story of the dragon and the two beasts. There [are some appealing things that Satan seems to be offering](../../../../content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#896a). But he clearly shows the alternative: [The two witnesses who live a lifestyle of worship and are faithful in their testimony even unto death.](../../../../content/witnesses/expl/the-two-witnesses)
+This is the theme that is developed in the story of the dragon and the two beasts. There [are some appealing things that Satan seems to be offering](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#896a). But he clearly shows the alternative: [The two witnesses who live a lifestyle of worship and are faithful in their testimony even unto death.](/content/witnesses/expl/the-two-witnesses)
 
 This is finally unfolded in the last view, where Babel is described in detail as the counterpart of the New Jerusalem.
 

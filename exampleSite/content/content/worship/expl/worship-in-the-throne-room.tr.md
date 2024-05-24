@@ -20,7 +20,7 @@ Taht odasındaki tapınma, kiliselerin mektuplarına verilen yanıttır. Neden? 
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="8b6b"></a>
-- [Kiliseler için mektup](../../../../content/letters/expl/the-letters-to-the-seven-churches)
+- [Kiliseler için mektup](/content/letters/expl/the-letters-to-the-seven-churches)
 
 ## Arka plan ve bağlam
 
@@ -98,9 +98,9 @@ Göreceğiniz gibi buradaki tema da budur: Her bela ya da duyuru dizisi taht oda
 
 Yaklaşan olaylara baktığımızda şunu görürüz
 
-- [Mühürlerde çok büyük sıkıntılar vardır, ancak Şeytan’ın kötülüğünü açığa çıkarmak, mümkün olduğunca çok kişiyi kurtarmak ve hızlı bir sonla gelmek için oradadırlar.](../../../../content/seals/expl/the-mystery-of-the-four-horse-men)
-- [Borazanlar insanların güvendiği yanlış şeyleri açığa çıkarır ve beşinci ve altıncı borazanlarda belanın nedeni insanların güvendiği iblislerdir.](../../../../content/trumpets/expl/the-trumpets-in-revelation)
-- [Çanaklar, Tanrı’nın insanların aldanmaması ve altıncı ve yedinci çanaklarda canavarla birlikte batmaması için her şeyi koyduğu yerdir.](../../../../content/bowls/expl/the-bowls-of-wrath)
+- [Mühürlerde çok büyük sıkıntılar vardır, ancak Şeytan’ın kötülüğünü açığa çıkarmak, mümkün olduğunca çok kişiyi kurtarmak ve hızlı bir sonla gelmek için oradadırlar.](/content/seals/expl/the-mystery-of-the-four-horse-men)
+- [Borazanlar insanların güvendiği yanlış şeyleri açığa çıkarır ve beşinci ve altıncı borazanlarda belanın nedeni insanların güvendiği iblislerdir.](/content/trumpets/expl/the-trumpets-in-revelation)
+- [Çanaklar, Tanrı’nın insanların aldanmaması ve altıncı ve yedinci çanaklarda canavarla birlikte batmaması için her şeyi koyduğu yerdir.](/content/bowls/expl/the-bowls-of-wrath)
 
 ## İbadet
 

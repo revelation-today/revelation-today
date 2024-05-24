@@ -7,10 +7,8 @@ docType: expl
 appl: /content/letters/appl/the-challenges
 sources: 
     - pages: 272–282
-      base: ../../../../../
       ref: beale_rev
     - pages: 44–45
-      base: ../../../../../
       ref: fee_rev
 ---
 
@@ -53,10 +51,3 @@ Hızlı hareket etmeliler yoksa Tanrı onları gafil avlar, çünkü Kutsal Ruh�
 Beyaz elbiseler mahkemede aklanmanın bir işaretidir.
 
 Yaşam kitabından isimlerin silinmemesi, cennetteki vatandaşlıklarını kaybetmedikleri anlamına gelir. Ama sadece tövbe ederlerse. Bu bir uyandırma çağrısıdır! Şok etme amaçlı.
-
-## Daha derine inmek
-
-[Beale, Revelation, sayfalar 272–282](../../../../../about/ressources/index.html#beale_rev)
-
-[Gordon Fee, Revelation, sayfalar 44–45](../../../../../about/ressources/index.html#fee_rev)
-

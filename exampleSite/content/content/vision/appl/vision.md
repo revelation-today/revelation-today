@@ -11,19 +11,19 @@ deeper:
     - name: The letter to the churches
       link: /content/letters/expl/the-letters-to-the-seven-churches
     - name: The letter to Ephesus
-      link: /content/letters/expl/details/the-letter-to-the-church-in-ephesus
+      link: /content/letters/expl/the-letter-to-the-church-in-ephesus
     - name: The letter to Smyrna
-      link: /content/letters/expl/details/the-letter-to-the-church-in-smyrna
+      link: /content/letters/expl/the-letter-to-the-church-in-smyrna
     - name: The letter to Pergamon
-      link: /content/letters/expl/details/the-letter-to-the-church-in-pergamon
+      link: /content/letters/expl/the-letter-to-the-church-in-pergamon
     - name: The letter to Thyatira
-      link: /content/letters/expl/details/the-letter-to-the-church-in-thyatira
+      link: /content/letters/expl/the-letter-to-the-church-in-thyatira
     - name: The letter to Sardes
-      link: /content/letters/expl/details/the-letter-to-the-church-in-sardis
+      link: /content/letters/expl/the-letter-to-the-church-in-sardis
     - name: The letter to Philadelphia
-      link: /content/letters/expl/details/the-letter-to-the-church-in-philadelphia
+      link: /content/letters/expl/the-letter-to-the-church-in-philadelphia
     - name: The letter to Laodicea
-      link: /content/letters/expl/details/the-letter-to-the-church-in-laodicea
+      link: /content/letters/expl/the-letter-to-the-church-in-laodicea
 ---
 
 What do 2000 year old churches have to do with our situation today? Don’t we have very different challenges today? You would be surprised how little the world and the church have changed.

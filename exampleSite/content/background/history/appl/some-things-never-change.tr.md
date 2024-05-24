@@ -65,6 +65,6 @@ Ve kilise ne yapılabileceğini sorabilir. Vahiy kitabı bu konuda yardımcı ol
 - uzlaşmaya çağrılıyoruz
 - açgözlülük gibi insan doğasının temel sorunlarını etkilemeye çağrılıyoruz
 
-[Daha büyük bağlam](../../../../gen/index/appl/the-book-of-revelation)
+[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
 
 

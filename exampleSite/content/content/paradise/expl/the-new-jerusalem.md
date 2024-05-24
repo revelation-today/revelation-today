@@ -161,14 +161,14 @@ The [ultimate liar is Satan](https://www.bibleserver.com/NIV/John8%3A44) and we 
 ### [First look](https://www.bibleserver.com/NIV/Revelation21%3A9-14)
 
 <a name="946d"></a>
-The New Jerusalem is the counterpart to Babel when we look at the [larger context](../../../../content/1000y/expl/the-thousand-year-kingdom). The [New Jerusalem represents a woman (the bride)](https://www.bibleserver.com/NIV/Revelation21%3A2) just as Babel represents one (the harlot), which is also reflected in [Isaiah](https://www.bibleserver.com/NIV/Isaiah62%3A1-5).
+The New Jerusalem is the counterpart to Babel when we look at the [larger context](/content/1000y/expl/the-thousand-year-kingdom). The [New Jerusalem represents a woman (the bride)](https://www.bibleserver.com/NIV/Revelation21%3A2) just as Babel represents one (the harlot), which is also reflected in [Isaiah](https://www.bibleserver.com/NIV/Isaiah62%3A1-5).
 
 - Babel is the economic system distributed with the power of the ruler, and immorality is done with idolatry (unfaithfulness), but Gods people are faithful to him
 - Babel causes suffering while Jerusalem removes suffering
 - Babel destroys itself and Jerusalem stays forever
 - Babel gets rich by exploitation and persecution but Jerusalem is rich as Gods gift
 
-The twelve gates refer to the 12 tribes and the 12 foundation stones refer to the 12 apostel. The [2 times 12 reflect the eternal worship in heaven](https://www.bibleserver.com/NIV/Revelation4%3A4), but also is a reminder to look for reconciliation between Jews and Non-Jews which [conflict is described throughout the book](../../../../background/israel/expl/israel-and-the-church).
+The twelve gates refer to the 12 tribes and the 12 foundation stones refer to the 12 apostel. The [2 times 12 reflect the eternal worship in heaven](https://www.bibleserver.com/NIV/Revelation4%3A4), but also is a reminder to look for reconciliation between Jews and Non-Jews which [conflict is described throughout the book](/background/israel/expl/israel-and-the-church).
 
 The strange thing is that the apostel are the foundation of the tribes (church foundation for Israel), but this [makes sense when looking that Jesus the fulfillment of Israel is which is worked out by the church](https://www.bibleserver.com/NIV/Ephesians2%3A20). Judah is in the [book also listed as the first of tribes reflecting Jesus](https://www.bibleserver.com/NIV/Revelation7%3A4-8).
 

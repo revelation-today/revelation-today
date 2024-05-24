@@ -44,7 +44,7 @@ Johannes bricht wie [Daniel](https://www.bibleserver.com/SLT/Daniel10%2C8-19) zu
 <a name="4bd0"></a>
 Jesus bestätigt alle Aussagen, die [wir schon zu Beginn des Kapitels gesehen haben](https://www.bibleserver.com/SLT/Offenbarung1%2C5).
 
-Schließlich wird das [Geheimnis der Leuchter und Sterne gelüftet](https://www.bibleserver.com/SLT/Offenbarung1%2C20). Sie stellen [verschiedene Beschreibungen der Erwartungen an die Gemeinde](../../../../content/letters/expl/the-angel-of-the-churches) dar.
+Schließlich wird das [Geheimnis der Leuchter und Sterne gelüftet](https://www.bibleserver.com/SLT/Offenbarung1%2C20). Sie stellen [verschiedene Beschreibungen der Erwartungen an die Gemeinde](/content/letters/expl/the-angel-of-the-churches) dar.
 
 Die Gemeinde wird durch zwei Bilder beschrieben, die auch zwei Elemente gemeinsam haben:
 

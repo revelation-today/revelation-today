@@ -36,7 +36,7 @@ Weitere Beispiele sind die 7 Siegel, die 7 Posaunen und die 7 Zornesschalen, um 
 ## Die Zahl 3,5
 
 <a name="20fe"></a>
-[Dafür gibt es einen eigenen Artikel.](../../../../bible/daniel/expl/the-secret-of-the-3-5-years)
+[Dafür gibt es einen eigenen Artikel.](/bible/daniel/expl/the-secret-of-the-3-5-years)
 
 ## Die Zahl 4
 
