@@ -90,14 +90,14 @@
           {{- if .Params.appl -}}  
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
             {{- $appl := .GetPage .Params.appl -}}
-            {{ partial "shortcodes/card" (dict "title" $application "subtitle" $appl.Title "link" .Params.appl "icon" "chat") }}
+            {{ partial "shortcodes/card" (dict "title" $application "subtitle" $appl.Title "link" $appl.RelPermalink "icon" "chat") }}
             </div>
           {{- end -}}
 
           {{- if .Params.expl -}}  
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
             {{- $expl := .GetPage .Params.expl -}}
-            {{ partial "shortcodes/card" (dict "title" $explanation "subtitle" $expl.Title "link" .Params.expl "icon" "chat") }}
+            {{ partial "shortcodes/card" (dict "title" $explanation "subtitle" $expl.Title "link" $expl.RelPermalink "icon" "chat") }}
             </div>
           {{- end -}}
             
