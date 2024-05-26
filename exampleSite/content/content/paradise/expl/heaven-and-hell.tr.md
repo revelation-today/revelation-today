@@ -1,6 +1,8 @@
 ---
 title: "Cennet ve Cehennem"
 weight: 3
+base: /content/paradise/quick
+story: /content/1000y/story/story
 prev:  /content/paradise/expl/the-new-jerusalem
 next: /topics/others/expl/dispensionalism-a-little-history
 docType: expl

@@ -1,5 +1,11 @@
 ---
 title: "Die Schöpfung"
+weight: 1
+base: /bible/creation/quick
+story: /bible/creation/story/story
+prev:  /background/israel/expl/the-church-is-part-of-israel
+next: /bible/creation/expl/the-temple-and-the-presence-of-god
+docType: expl
 ---
 
 Zum Verständnis des Endes der Bibel ist auch ein Verständnis des Anfangs notwendig. Wusstest du, dass der Baum des Lebens, den wir im Sündenfall sehen, oder das Zeichen an Kain in der Offenbarung wieder auftauchen?

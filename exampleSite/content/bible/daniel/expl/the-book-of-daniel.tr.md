@@ -1,6 +1,11 @@
 ---
 title: "Daniel’in kitabı"
 weight: 10
+base: /bible/daniel/quick
+story: /bible/daniel/story/story
+prev:  /bible/keyword/expl/the-origin-of-babel
+next: /bible/daniel/expl/the-four-kingdoms-in-daniel
+docType: expl
 sources:
     - pages: 
       ref: daniel

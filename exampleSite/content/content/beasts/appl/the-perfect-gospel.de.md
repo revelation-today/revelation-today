@@ -1,6 +1,8 @@
 ---
 title: "Das perfekte Evangelium"
 weight: 1
+base: /content/beasts/quick
+story: /content/witnesses/story/story
 deeper:
     - name: Die beiden Tiere
       link: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation

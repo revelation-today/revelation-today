@@ -1,6 +1,8 @@
 ---
 title: "The strange army"
 weight: 1
+base: /content/army/quick
+story: /content/seals/story/story
 deeper:
     - name: The 144.000
       link: /content/army/expl/the-144000

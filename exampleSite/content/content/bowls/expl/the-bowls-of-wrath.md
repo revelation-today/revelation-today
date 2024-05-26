@@ -1,6 +1,8 @@
 ---
 title: "The bowls of wrath"
 weight: 2
+base: /content/harvest/quick
+story: /content/harvest/story/story
 prev:  /content/harvest/expl/gods-army-and-the-seven-angels
 next: /content/bowls/expl/the-key-to-armageddon
 docType: expl

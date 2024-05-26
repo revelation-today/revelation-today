@@ -1,6 +1,11 @@
 ---
 title: "Die Geschichte von Moses"
 weight: 20
+base: /bible/exodus/quick
+story: /bible/exodus/story/story
+prev:  /bible/exodus/expl/the-story-before-the-exodus
+next: /bible/exodus/expl/the-hardening-of-pharaohs-heart
+docType: expl
 sources:
     - pages: 27–37
       ref: sarna_exo

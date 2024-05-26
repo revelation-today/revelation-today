@@ -1,6 +1,8 @@
 ---
 title: "The weapons of the church and the fate of the nations"
 weight: 1
+base: /content/harvest/quick
+story: /content/harvest/story/story
 deeper:
     - name: Gods army and the seven angels
       link: /content/harvest/expl/gods-army-and-the-seven-angels

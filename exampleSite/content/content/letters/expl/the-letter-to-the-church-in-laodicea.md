@@ -1,6 +1,8 @@
 ---
 title: "The letter to the church in Laodicea"
 weight: 70
+base: /content/letters/quick
+story: /content/letters/story/story
 prev: /content/letters/expl/the-letter-to-the-church-in-philadelphia
 next: /content/worship/expl/worship-in-the-throne-room
 docType: expl

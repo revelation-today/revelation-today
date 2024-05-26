@@ -1,6 +1,8 @@
 ---
 title: "Yedi mühür paradoksu"
 weight: 1
+base: /content/seals/quick
+story: /content/seals/story/story
 deeper:
     - name: Gerçek bir kahraman
       link: /topics/hero/short/a-real-hero

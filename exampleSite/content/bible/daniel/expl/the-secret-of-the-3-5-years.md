@@ -1,6 +1,11 @@
 ---
 title: "The secret of the 3,5 years"
 weight: 50
+base: /bible/daniel/quick
+story: /bible/daniel/story/story
+prev:  /bible/daniel/expl/the-70-year-weeks
+next: /content/vision/expl/setting-the-foundation
+docType: expl
 ---
 
 The book of Revelation in the Bible is full of strange time periods like 1260 days, 42 months, and so on. What do they mean? And do they have a literal meaning?

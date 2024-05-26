@@ -1,6 +1,8 @@
 ---
 title: "Die Grundlage legen"
 weight: 2
+base: /content/vision/quick
+story: /content/vision/story/story
 sources: 
     - pages: 181–222
       ref: beale_rev

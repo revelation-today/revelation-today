@@ -1,6 +1,11 @@
 ---
 title: "Die Verhärtung des Herzens"
 weight: 30
+base: /bible/exodus/quick
+story: /bible/exodus/story/story
+prev:  /bible/exodus/expl/the-birth-of-moses
+next: /bible/exodus/expl/the-plagues-in-egypt
+docType: expl
 ---
 
 Ist es denn gerecht, dass Gott das Herz des Pharao verhärtet? Er hatte ja keine andere Wahl, als böse zu sein, und dafür wird er bestraft.

@@ -1,6 +1,11 @@
 ---
 title: "The origin of Babel"
 weight: 20
+base: /bible/daniel/quick
+story: /bible/daniel/story/story
+prev:  /bible/keywords/expl/the-story-of-balaam
+next: /bible/daniel/expl/the-book-of-daniel
+docType: expl
 ---
 
 The story of the Tower of Babel, the story of the prophet Daniel, and the book of Revelation are connected. Here is how.

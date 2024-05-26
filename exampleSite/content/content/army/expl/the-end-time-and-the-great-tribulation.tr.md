@@ -1,6 +1,8 @@
 ---
 title: "Son zaman ve büyük sıkıntı"
 weight: 3
+base: /content/army/quick
+story: /content/seals/story/story
 prev:  /content/army/expl/the-144000
 next: /content/trumpets/expl/the-trumpets-in-revelation
 docType: expl

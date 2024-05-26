@@ -1,6 +1,11 @@
 ---
 title: "The story of Moses"
 weight: 20
+base: /bible/exodus/quick
+story: /bible/exodus/story/story
+prev:  /bible/exodus/expl/the-story-before-the-exodus
+next: /bible/exodus/expl/the-hardening-of-pharaohs-heart
+docType: expl
 ---
 
 The story of Moses is against the script of every hero story known in the ancient world, but it is a success story.

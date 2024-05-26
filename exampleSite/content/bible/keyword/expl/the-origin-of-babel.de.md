@@ -1,6 +1,11 @@
 ---
 title: "Der Ursprung Babels"
 weight: 20
+base: /bible/daniel/quick
+story: /bible/daniel/story/story
+prev:  /bible/keywords/expl/the-story-of-balaam
+next: /bible/daniel/expl/the-book-of-daniel
+docType: expl
 ---
 
 Die Geschichte des Turmbaus zu Babel, des Propheten Daniel und der Offenbarung sind miteinander verknüpft. Und hier siehst du, warum?

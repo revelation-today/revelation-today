@@ -1,6 +1,11 @@
 ---
 title: "3,5 yıl"
 weight: 50
+base: /bible/daniel/quick
+story: /bible/daniel/story/story
+prev:  /bible/daniel/expl/the-70-year-weeks
+next: /content/vision/expl/setting-the-foundation
+docType: expl
 ---
 
 Kutsal Kitap’taki Vahiy kitabı 1260 gün, 42 ay ve benzeri garip zaman dilimleriyle doludur. Bunlar ne anlama gelmektedir? Ve gerçek anlamda bir anlamları var mı?

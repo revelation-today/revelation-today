@@ -1,15 +1,21 @@
 ---
 title: "A different Christmas story"
 weight: 2
+base: /content/jesus/quick
+story: /content/witnesses/story/story
 prev:  /content/witnesses/expl/the-two-witnesses
 next: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
 docType: expl
 appl: /content/jesus/appl/jesus-and-the-fall-of-the-devil
 deeper:
-    - name: The story of the unholy trinity
-      link: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
-    - name: The structure of the book of Revelation
-      link: /background/structure/expl/the-structure-of-the-book-of-revelation
+    - name: Overview in Daniel
+      link: /bible/daniel/expl/the-book-of-daniel
+    - name: The four kingdoms
+      link: /bible/daniel/expl/the-four-kingdoms-in-daniel
+    - name: The 70 years
+      link: /bible/daniel/expl/the-70-year-weeks
+    - name: "The 3,5 years"
+      link: /bible/daniel/expl/the-secret-of-the-3-5-years
 sources: 
     - pages: 621–681
       ref: beale_rev

@@ -1,6 +1,8 @@
 ---
 title: "Tüm soruların cevabı"
 weight: 1
+base: /content/worship/quick
+story: /content/worship/story/story
 deeper:
     - name: Tahtta ibadet
       link: /content/worship/expl/worship-in-the-throne-room

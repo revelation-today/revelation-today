@@ -1,6 +1,8 @@
 ---
 title: "Kıyametin anahtarı"
 weight: 3
+base: /content/harvest/quick
+story: /content/harvest/story/story
 prev:  /content/bowls/expl/the-bowls-of-wrath
 next: /content/bowls/expl/armageddon-and-the-battle-of-karkemish
 docType: expl

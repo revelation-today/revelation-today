@@ -51,9 +51,9 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - identifier: intro
-      name: Introduction
-      pageRef: /gen
+    - identifier: tour
+      name: Tour
+      pageRef: /welcome
       weight: 1
     - identifier: background
       name: Background

@@ -1,6 +1,8 @@
 ---
 title: "Die Waffen der Gemeinde und das Schicksal der Nationen"
 weight: 1
+base: /content/harvest/quick
+story: /content/harvest/story/story
 deeper:
     - name: Gottes Armee und die sieben Engel
       link: /content/harvest/expl/gods-army-and-the-seven-angels

@@ -1,6 +1,8 @@
 ---
 title: "Wer ist die Hure Babel: Teil 1"
 weight: 2
+base: /content/harlot/quick
+story: /content/harlot/story/story
 prev:  /content/bowls/expl/armageddon-and-the-battle-of-karkemish
 next: /content/harlot/expl/who-is-the-harlot-babylon-part-2
 docType: expl

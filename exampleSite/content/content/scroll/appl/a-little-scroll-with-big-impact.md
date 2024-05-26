@@ -1,6 +1,8 @@
 ---
 title: "A little scroll with big impact"
 weight: 1
+base: /content/scroll/quick
+story: /content/scroll/story/story
 deeper:
     - name: The little scroll
       link: /content/scroll/expl/the-little-scroll

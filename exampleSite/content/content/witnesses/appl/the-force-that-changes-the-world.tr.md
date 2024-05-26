@@ -1,6 +1,8 @@
 ---
 title: "Dünyayı değiştiren güç"
 weight: 1
+base: /content/witnesses/quick
+story: /content/witnesses/story/story
 deeper:
     - name: Tapınak
       link: /bible/keyword/expl/the-temple-and-the-presence-of-god

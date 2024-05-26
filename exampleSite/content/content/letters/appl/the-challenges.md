@@ -1,6 +1,8 @@
 ---
 title: "The problem"
 weight: 1
+base: /content/letters/quick
+story: /content/letters/story/story
 deeper:
     - name: The angels of the churches
       link: /content/letters/expl/the-angel-of-the-churches

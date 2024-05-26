@@ -1,6 +1,8 @@
 ---
 title: "Tanrı’nın ordusu ve ulusların kaderi: İşte böyle sona eriyor"
 weight: 1
+base: /content/harvest/quick
+story: /content/harvest/story/story
 deeper:
     - name: Tanrı’nın ordusu ve yedi melek
       link: /content/harvest/expl/gods-army-and-the-seven-angels

@@ -1,6 +1,8 @@
 ---
 title: "Dört Atlının Gizemi"
 weight: 3
+base: /content/seals/quick
+story: /content/seals/story/story
 prev:  /content/seals/expl/the-book-with-the-seven-seals
 next: /content/seals/expl/the-wrath-of-the-lamb
 docType: expl

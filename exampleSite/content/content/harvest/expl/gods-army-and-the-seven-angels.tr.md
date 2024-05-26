@@ -1,6 +1,8 @@
 ---
 title: "Tanrı’nın ordusu ve yedi melek"
 weight: 2
+base: /content/harvest/quick
+story: /content/harvest/story/story
 prev:  /content/beasts/expl/the-nature-of-the-beast
 next: /content/bowls/expl/the-bowls-of-wrath
 docType: expl

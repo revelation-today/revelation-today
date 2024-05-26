@@ -1,6 +1,8 @@
 ---
 title: "The letter to the church in Ephesus"
 weight: 10
+base: /content/letters/quick
+story: /content/letters/story/story
 prev: /content/letters/expl/the-letters-to-the-churches
 next: /content/letters/expl/the-letter-to-the-church-in-smyrna
 docType: expl

@@ -1,6 +1,8 @@
 ---
 title: "Yedi kiliseye gönderilen mektuplar"
 weight: 7
+base: /content/letters/quick
+story: /content/letters/story/story
 prev: /content/letters/expl/the-angel-of-the-churches
 next: /content/letters/expl/the-letter-to-the-church-in-ephesus
 docType: expl

@@ -1,13 +1,21 @@
 ---
 title: "Farklı bir Noel hikayesi"
 weight: 2
+base: /content/jesus/quick
+story: /content/witnesses/story/story
 prev:  /content/witnesses/expl/the-two-witnesses
 next: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
 docType: expl
 appl: /content/jesus/appl/jesus-and-the-fall-of-the-devil
 deeper:
-    - name: Kutsal olmayan üçlünün hikayesi
-      link: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+    - name: Daniel’de Genel Bakış
+      link: /bible/daniel/expl/the-book-of-daniel
+    - name: Dört Krallık
+      link: /bible/daniel/expl/the-four-kingdoms-in-daniel
+    - name: 70 yıl
+      link: /bible/daniel/expl/the-70-year-weeks
+    - name: "3,5 yıl"
+      link: /bible/daniel/expl/the-secret-of-the-3-5-years
     - name: Vahiy kitabının yapısı
       link: /background/structure/expl/the-structure-of-the-book-of-revelation
 sources: 

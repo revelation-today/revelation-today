@@ -1,6 +1,8 @@
 ---
 title: "Prayer and the Unwavering"
 weight: 1
+base: /content/trumpets/quick
+story: /content/trumpets/story/story
 deeper:
     - name: The power of prayer
       link: /topics/power/short/the-key-of-prayer

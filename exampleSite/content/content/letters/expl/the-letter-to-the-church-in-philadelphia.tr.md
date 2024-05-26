@@ -1,6 +1,8 @@
 ---
 title: "Filadelfiya’daki kiliseye mektup"
 weight: 60
+base: /content/letters/quick
+story: /content/letters/story/story
 prev: /content/letters/expl/the-letter-to-the-church-in-sardis
 next: /content/letters/expl/the-letter-to-the-church-in-laodicea
 docType: expl

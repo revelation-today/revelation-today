@@ -1,6 +1,8 @@
 ---
 title: "İzmir’deki kiliseye yazılan mektup"
 weight: 20
+base: /content/letters/quick
+story: /content/letters/story/story
 prev: /content/letters/expl/the-letter-to-the-church-in-ephesus
 next: /content/letters/expl/the-letter-to-the-church-in-pergamon
 docType: expl

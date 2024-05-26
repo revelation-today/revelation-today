@@ -1,6 +1,8 @@
 ---
 title: "Das Sendschreiben an Sardis"
 weight: 50
+base: /content/letters/quick
+story: /content/letters/story/story
 prev: /content/letters/expl/the-letter-to-the-church-in-thyatira
 next: /content/letters/expl/the-letter-to-the-church-in-philadelphia
 docType: expl

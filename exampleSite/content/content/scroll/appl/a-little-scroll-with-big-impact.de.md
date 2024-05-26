@@ -1,6 +1,8 @@
 ---
 title: "Ein kleines Buch mit großer Wirkung"
 weight: 1
+base: /content/scroll/quick
+story: /content/scroll/story/story
 deeper:
     - name: Das kleine Büchlein
       link: /content/scroll/expl/the-little-scroll

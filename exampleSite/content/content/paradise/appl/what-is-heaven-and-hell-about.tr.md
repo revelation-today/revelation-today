@@ -1,6 +1,8 @@
 ---
 title: "Cennet ve cehennem ne hakkında?"
 weight: 1
+base: /content/paradise/quick
+story: /content/1000y/story/story
 deeper:
     - name: Yeni Kudüs
       link: /content/paradise/expl/the-new-jerusalem

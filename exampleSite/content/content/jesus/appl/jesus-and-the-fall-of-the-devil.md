@@ -1,17 +1,8 @@
 ---
 title: "Jesus and the fall of the devil"
 weight: 1
-deeper:
-    - name: Overview in Daniel
-      link: /bible/daniel/expl/the-book-of-daniel
-    - name: The four kingdoms
-      link: /bible/daniel/expl/the-four-kingdoms-in-daniel
-    - name: The 70 years
-      link: /bible/daniel/expl/the-70-year-weeks
-    - name: "The 3,5 years"
-      link: /bible/daniel/expl/the-secret-of-the-3-5-years
-    - name: Christ is born
-      link: /content/jesus/expl/a-different-christmas-story
+base: /content/jesus/quick
+story: /content/witnesses/story/story
 prev: /content/witnesses/appl/the-force-that-changes-the-world
 next: /content/beasts/appl/the-perfect-gospel
 docType: appl

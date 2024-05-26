@@ -1,6 +1,11 @@
 ---
 title: "Mısır’dan Çıkıştan Önceki Hikaye"
 weight: 10
+base: /bible/exodus/quick
+story: /bible/exodus/story/story
+prev:  /bible/creation/expl/the-creation
+next: /bible/exodus/expl/the-birth-of-moses
+docType: expl
 sources:
     - pages: 15–26
       ref: sarna_exo

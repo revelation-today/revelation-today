@@ -1,6 +1,8 @@
 ---
 title: "What is heaven and hell about?"
 weight: 1
+base: /content/paradise/quick
+story: /content/1000y/story/story
 deeper:
     - name: The new Jerusalem
       link: /content/paradise/expl/the-new-jerusalem

@@ -1,6 +1,11 @@
 ---
 title: "Der Tempel und die Gegenwart Gottes"
 weight: 10
+base: /bible/creation/quick
+story: /bible/creation/story/story
+prev:  /bible/creation/expl/the-creation
+next: /bible/exodus/expl/the-story-before-the-exodus
+docType: expl
 sources:
     - ref: beale_dwell
 ---

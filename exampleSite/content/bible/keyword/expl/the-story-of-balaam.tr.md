@@ -1,6 +1,11 @@
 ---
 title: "Balam’ın öyküsü"
 weight: 30
+base: /bible/creation/quick
+story: /bible/creation/story/story
+prev:  /bible/exodus/expl/the-plagues-in-egypt
+next: /bible/keywords/expl/the-origin-of-babel
+docType: expl
 sources:
     - pages: 249
       ref: beale_rev

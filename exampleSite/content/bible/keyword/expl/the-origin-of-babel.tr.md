@@ -1,6 +1,11 @@
 ---
 title: "Babil’in Kökeni"
 weight: 20
+base: /bible/daniel/quick
+story: /bible/daniel/story/story
+prev:  /bible/keywords/expl/the-story-of-balaam
+next: /bible/daniel/expl/the-book-of-daniel
+docType: expl
 ---
 
 Babil Kulesi’nin öyküsü, Daniel Peygamber’in öyküsü ve Vahiy Kitabı birbiriyle bağlantılıdır. İşte nasıl olduğunu görüyorsunuz.

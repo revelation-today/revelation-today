@@ -1,6 +1,8 @@
 ---
 title: "The vision"
 weight: 3
+base: /content/vision/quick
+story: /content/vision/story/story
 sources: 
     - pages: 205–222
       ref: beale_rev

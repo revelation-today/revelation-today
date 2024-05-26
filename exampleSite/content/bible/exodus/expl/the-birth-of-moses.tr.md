@@ -1,6 +1,11 @@
 ---
 title: "Musa’nın hikayesi"
 weight: 20
+base: /bible/exodus/quick
+story: /bible/exodus/story/story
+prev:  /bible/exodus/expl/the-story-before-the-exodus
+next: /bible/exodus/expl/the-hardening-of-pharaohs-heart
+docType: expl
 ---
 
 Musa’nın hikayesi antik dünyada bilinen tüm kahramanlık hikayelerinin senaryosuna aykırıdır, ancak bu bir başarı hikayesidir.

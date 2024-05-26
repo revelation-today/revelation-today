@@ -1,6 +1,8 @@
 ---
 title: "Das 1000-jährige Reich"
 weight: 2
+base: /content/1000y/quick
+story: /content/1000y/story/story
 prev:  /content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 next: /content/paradise/expl/the-new-jerusalem
 docType: expl

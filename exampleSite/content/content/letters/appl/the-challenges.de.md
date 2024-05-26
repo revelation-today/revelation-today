@@ -1,6 +1,8 @@
 ---
 title: "Das Problem"
 weight: 1
+base: /content/letters/quick
+story: /content/letters/story/story
 deeper:
     - name: Die Engel der Gemeinden
       link: /content/letters/expl/the-angel-of-the-churches

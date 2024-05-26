@@ -1,6 +1,8 @@
 ---
 title: "1000 yıllık cennet mi?"
 weight: 1
+base: /content/1000y/quick
+story: /content/1000y/story/story
 deeper: 
     - name: 1000 yıllık krallık
     - link: /content/1000y/expl/the-thousand-year-kingdom

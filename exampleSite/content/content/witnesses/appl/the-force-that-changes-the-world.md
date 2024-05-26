@@ -1,6 +1,8 @@
 ---
 title: "The force that changes the world"
 weight: 1
+base: /content/witnesses/quick
+story: /content/witnesses/story/story
 deeper:
     - name: The temple
       link: /bible/keyword/expl/the-temple-and-the-presence-of-god

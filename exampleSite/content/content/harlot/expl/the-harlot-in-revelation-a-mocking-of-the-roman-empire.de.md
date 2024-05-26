@@ -1,6 +1,8 @@
 ---
 title: "Die Hure Babel: Ein Spottlied auf das Römische Reich"
 weight: 5
+base: /content/harlot/quick
+story: /content/harlot/story/story
 prev:  /content/harlot/expl/the-character-and-destiny-of-the-harlot
 next: /content/1000y/expl/the-thousand-year-kingdom
 docType: expl

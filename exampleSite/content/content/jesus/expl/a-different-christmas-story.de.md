@@ -1,13 +1,21 @@
 ---
 title: "Die Geburt Jesu in der Offenbarung"
 weight: 2
+base: /content/jesus/quick
+story: /content/witnesses/story/story
 prev:  /content/witnesses/expl/the-two-witnesses
 next: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
 docType: expl
 appl: /content/jesus/appl/jesus-and-the-fall-of-the-devil
 deeper:
-    - name: Die Geschichte der unheiligen Dreieinigkeit
-      link: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation
+    - name: Überblick über das Buch Daniel
+      link: /bible/daniel/expl/the-book-of-daniel
+    - name: Die vier Königreiche bei Daniel
+      link: /bible/daniel/expl/the-four-kingdoms-in-daniel
+    - name: Die 70 Jahrwochen
+      link: /bible/daniel/expl/the-70-year-weeks
+    - name: "Die 3,5 Jahre"
+      link: /bible/daniel/expl/the-secret-of-the-3-5-years
     - name: Die Struktur der Offenbarung
       link: /background/structure/expl/the-structure-of-the-book-of-revelation
 sources: 

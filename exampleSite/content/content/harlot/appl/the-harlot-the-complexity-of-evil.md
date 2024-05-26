@@ -1,6 +1,8 @@
 ---
 title: "The Harlot: The complexity of evil"
 weight: 1
+base: /content/harlot/quick
+story: /content/harlot/story/story
 deeper:
     - name: "Who is the harlot: Part 1"
       link: /content/harlot/expl/who-is-the-harlot-babylon-part-1

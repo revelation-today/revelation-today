@@ -1,6 +1,8 @@
 ---
 title: "The nature of the beast in the book of revelation"
 weight: 1
+base: /content/beasts/quick
+story: /content/witnesses/story/story
 prev:  /content/jesus/expl/a-different-christmas-story
 next: /content/beasts/expl/the-beasts-and-the-666-in-historical-context
 docType: expl

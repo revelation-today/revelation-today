@@ -1,6 +1,8 @@
 ---
 title: "Die Identität der beiden Zeugen in der Offenbarung"
 weight: 2
+base: /content/witnesses/quick
+story: /content/witnesses/story/story
 prev:  /content/scroll/expl/the-little-scroll
 next: /content/jesus/expl/a-different-christmas-story
 docType: expl

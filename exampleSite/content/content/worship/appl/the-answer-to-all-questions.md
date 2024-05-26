@@ -1,6 +1,8 @@
 ---
 title: "The answer to all questions"
 weight: 1
+base: /content/worship/quick
+story: /content/worship/story/story
 deeper:
     - name: Worship at the throne
       link: /content/worship/expl/worship-in-the-throne-room

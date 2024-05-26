@@ -1,6 +1,8 @@
 ---
 title: "Gebet und das Unerschütterliche"
 weight: 1
+base: /content/trumpets/quick
+story: /content/trumpets/story/story
 deeper:
     - name: Die Kraft des Gebets
       link: /topics/power/short/the-key-of-prayer

@@ -1,6 +1,11 @@
 ---
 title: "The four kingdoms in Daniel"
 weight: 20
+base: /bible/daniel/quick
+story: /bible/daniel/story/story
+prev:  /bible/daniel/expl/the-book-of-daniel
+next: /bible/daniel/expl/the-son-of-man-and-the-remnant
+docType: expl
 sources:
     - pages: 38–46
       ref: dabar_daniel

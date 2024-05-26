@@ -1,5 +1,11 @@
 ---
 title: "The creation"
+weight: 1
+base: /bible/creation/quick
+story: /bible/creation/story/story
+prev:  /background/israel/expl/the-church-is-part-of-israel
+next: /bible/creation/expl/the-temple-and-the-presence-of-god
+docType: expl
 ---
 
 To understand the end of the Bible, you must understand the beginning of the Bible. Did you know that the tree of life that we see in the story of the Fall, or the sign of Cain, are both seen again in the book of Revelation?

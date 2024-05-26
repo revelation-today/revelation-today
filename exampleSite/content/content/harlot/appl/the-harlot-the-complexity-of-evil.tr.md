@@ -1,6 +1,8 @@
 ---
 title: "Fahişe: Kötülüğün karmaşıklığı"
 weight: 1
+base: /content/harlot/quick
+story: /content/harlot/story/story
 deeper:
     - name: Fahişe kimdir? Bölüm 1
       link: /content/harlot/expl/who-is-the-harlot-babylon-part-1

@@ -1,6 +1,11 @@
 ---
 title: "Die zehn Plagen in Ägypten"
 weight: 40
+base: /bible/exodus/quick
+story: /bible/exodus/story/story
+prev:  /bible/exodus/expl/the-hardening-of-pharaohs-heart
+next: /bible/daniel/expl/the-story-ob-balaam
+docType: expl
 deeper:
     - name: Wie alles begann
       link: /bible/exodus/expl/the-story-before-the-exodus0

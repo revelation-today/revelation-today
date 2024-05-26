@@ -1,6 +1,8 @@
 ---
 title: "Tanrı’nın gazabı"
 weight: 1
+base: /content/harvest/quick
+story: /content/harvest/story/story
 deeper:
     - name: Gazap kaseleri
       link: /content/bowls/expl/the-bowls-of-wrath

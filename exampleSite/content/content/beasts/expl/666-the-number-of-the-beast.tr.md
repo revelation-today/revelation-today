@@ -1,6 +1,8 @@
 ---
 title: "666: Canavarın numarası"
 weight: 4
+base: /content/beasts/quick
+story: /content/witnesses/story/story
 prev:  /content/beasts/expl/the-beasts-and-the-666-in-historical-context
 next: /content/beasts/expl/the-nature-of-the-beast
 docType: expl

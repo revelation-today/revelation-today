@@ -1,6 +1,8 @@
 ---
 title: "Die Hure: Die Komplexität des Bösen"
 weight: 1
+base: /content/harlot/quick
+story: /content/harlot/story/story
 deeper:
     - name: "Wer ist die Hure: Teil 1"
       link: /content/harlot/expl/who-is-the-harlot-babylon-part-1

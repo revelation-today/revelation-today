@@ -1,6 +1,8 @@
 ---
 title: "Armageddon and the battle of Karkemish"
 weight: 4
+base: /content/harvest/quick
+story: /content/harvest/story/story
 prev:  /content/bowls/expl/the-bowls-of-wrath
 next: /content/harlot/expl/who-is-the-harlot-babylon-part-1
 docType: expl

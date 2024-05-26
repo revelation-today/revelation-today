@@ -1,6 +1,8 @@
 ---
 title: "The vision"
 weight: 1
+base: /content/vision/quick
+story: /content/vision/story/story
 deeper:
     - name: How the book starts
       link: /content/letters/expl/setting-the-foundation
@@ -24,6 +26,10 @@ deeper:
       link: /content/letters/expl/the-letter-to-the-church-in-philadelphia
     - name: The letter to Laodicea
       link: /content/letters/expl/the-letter-to-the-church-in-laodicea
+prev: /background/israel/appl/who-is-israel
+next: /content/letters/appl/the-challenges
+docType: appl
+expl: /content/vision/expl/setting-the-foundation
 ---
 
 What do 2000 year old churches have to do with our situation today? Don’t we have very different challenges today? You would be surprised how little the world and the church have changed.

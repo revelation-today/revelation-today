@@ -1,6 +1,11 @@
 ---
 title: "Firavun’un yüreğinin katılaşması"
 weight: 30
+base: /bible/exodus/quick
+story: /bible/exodus/story/story
+prev:  /bible/exodus/expl/the-birth-of-moses
+next: /bible/exodus/expl/the-plagues-in-egypt
+docType: expl
 ---
 
 Tanrı’nın Firavun’un yüreğini katılaştırması, onun zalimlikten başka bir şansı olmaması ve bu yüzden cezalandırılması adil midir?

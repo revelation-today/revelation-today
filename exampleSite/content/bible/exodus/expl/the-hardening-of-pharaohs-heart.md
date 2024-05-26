@@ -1,6 +1,11 @@
 ---
 title: "The hardening of Pharaoh’s heart"
 weight: 30
+base: /bible/exodus/quick
+story: /bible/exodus/story/story
+prev:  /bible/exodus/expl/the-birth-of-moses
+next: /bible/exodus/expl/the-plagues-in-egypt
+docType: expl
 ---
 
 Is it fair for God to harden Pharaoh’s heart so that he has no choice but to be mean and be punished for it?

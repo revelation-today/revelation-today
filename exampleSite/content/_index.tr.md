@@ -18,6 +18,31 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx-mb-6">
-{{< hextra/hero-button text="İlgilenen?" link="welcome" >}}
-</div>
+<div class="hx-mt-6"></div>
+
+{{< hextra/feature-grid>}}
+  {{< hextra/feature-card
+    title="Neden bu kitap?"
+    link="/welcome/teaser"
+    subtitle="Vahiy Kitabı'nı neden anlamalısınız?"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/man.jpg"
+    source="https://pixabay.com/photos/man-thinking-doubt-question-mark-5723449/"
+    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid>}}
+  {{< hextra/feature-card
+    title="Başlayın"
+    link="/welcome"
+    subtitle="Hadi başlayalım"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/gloves.jpg"
+    source="https://pixabay.com/photos/gloves-tools-protection-1192164/"
+    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}
+

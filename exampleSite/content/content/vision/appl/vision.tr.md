@@ -1,6 +1,8 @@
 ---
 title: "Vizyon"
 weight: 1
+base: /content/vision/quick
+story: /content/vision/story/story
 deeper:
     - name: Kitap nasıl başlıyor
       link: /content/letters/expl/setting-the-foundation
@@ -24,6 +26,10 @@ deeper:
       link: /content/letters/expl/the-letter-to-the-church-in-philadelphia
     - name: Laodikya’ya mektup
       link: /content/letters/expl/the-letter-to-the-church-in-laodicea
+prev: /background/israel/appl/who-is-israel
+next: /content/letters/appl/the-challenges
+docType: appl
+expl: /content/vision/expl/setting-the-foundation
 ---
 
 2000 yıl önceki cemaatlerin şu anki durumumuzla ne ilgisi var? Bugün çok farklı zorluklarla karşı karşıya değil miyiz? Dünyanın ya da kilisenin ne kadar az değiştiğine şaşıracaksınız.

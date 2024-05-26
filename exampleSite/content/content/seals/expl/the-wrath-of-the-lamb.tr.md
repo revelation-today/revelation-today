@@ -1,6 +1,8 @@
 ---
 title: "Kuzu’nun Gazabı"
 weight: 4
+base: /content/seals/quick
+story: /content/seals/story/story
 prev:  /content/seals/expl/the-mystery-of-the-four-horse-men
 next: /content/army/expl/the-144000
 docType: expl

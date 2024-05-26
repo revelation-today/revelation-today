@@ -1,5 +1,11 @@
 ---
 title: "Yaratılış"
+weight: 1
+base: /bible/creation/quick
+story: /bible/creation/story/story
+prev:  /background/israel/expl/the-church-is-part-of-israel
+next: /bible/creation/expl/the-temple-and-the-presence-of-god
+docType: expl
 ---
 
 Kutsal Kitap’ın sonunu anlamak için Kutsal Kitap’ın başlangıcını da anlamanız gerekir. Düşüş öyküsünde gördüğümüz yaşam ağacının ya da Kabil’deki işaretin Vahiy Kitabı’nda tekrar gösterildiğini biliyor muydunuz?

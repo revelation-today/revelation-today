@@ -1,6 +1,8 @@
 ---
 title: "Das Paradox der sieben Siegel"
 weight: 1
+base: /content/seals/quick
+story: /content/seals/story/story
 deeper:
     - name: Ein echter Held
       link: /topics/hero/short/a-real-hero

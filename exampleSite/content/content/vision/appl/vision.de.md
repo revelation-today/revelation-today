@@ -1,6 +1,8 @@
 ---
 title: "Die Vision"
 weight: 1
+base: /content/vision/quick
+story: /content/vision/story/story
 deeper:
     - name: Der Auftakt des Buches
       link: /content/letters/expl/setting-the-foundation

@@ -4,6 +4,8 @@
 {{- $readBefore := (T "readBefore") | default "Read Before"}}
 {{- $pages := (T "pages") | default "pages"}}
 {{- $page := (T "page") | default "page"}}
+{{- $quick := (T "quick") | default "Quick"}}
+{{- $story := (T "story") | default "Story"}}
 {{- $explanation := (T "explanation") | default "Explanation"}}
 {{- $application := (T "application") | default "Application"}}
 
@@ -41,6 +43,14 @@
         {{- else if eq .Params.docType "expl" -}}
             {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
             {{- $comet := htmlUnescape "&#9732;" -}}
+            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $comet .Title $comet }}</h1>
+        {{- else if eq .Params.docType "story" -}}
+            {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
+            {{- $comet := htmlUnescape "&#9992;" -}}
+            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $comet .Title $comet }}</h1>
+        {{- else if eq .Params.docType "quick" -}}
+            {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
+            {{- $comet := htmlUnescape "&#9786;" -}}
             <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $comet .Title $comet }}</h1>
         {{- end -}}
         <div class="hx-mb-16"></div>
@@ -86,6 +96,20 @@
                 {{- end -}}
               </div>
             {{- end -}}
+
+          {{- if .Params.base -}}  
+            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+            {{- $base := .GetPage .Params.base -}}
+            {{ partial "shortcodes/card" (dict "title" $quick "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
+            </div>
+          {{- end -}}
+          
+          {{- if .Params.story -}}  
+            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+            {{- $story_page := .GetPage .Params.story -}}
+            {{ partial "shortcodes/card" (dict "title" $story "subtitle" $story_page.Title "link" $story_page.RelPermalink "icon" "pencil") }}
+            </div>
+          {{- end -}}
 
           {{- if .Params.appl -}}  
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">

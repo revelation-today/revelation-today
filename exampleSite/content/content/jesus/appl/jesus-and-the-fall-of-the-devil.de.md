@@ -1,17 +1,8 @@
 ---
 title: "Jesus und der Fall Satans"
 weight: 1
-deeper:
-    - name: Überblick über das Buch Daniel
-      link: /bible/daniel/expl/the-book-of-daniel
-    - name: Die vier Königreiche bei Daniel
-      link: /bible/daniel/expl/the-four-kingdoms-in-daniel
-    - name: Die 70 Jahrwochen
-      link: /bible/daniel/expl/the-70-year-weeks
-    - name: "Die 3,5 Jahre"
-      link: /bible/daniel/expl/the-secret-of-the-3-5-years
-    - name: Weihnachten in der Offenbarung
-      link: /content/jesus/expl/a-different-christmas-story
+base: /content/jesus/quick
+story: /content/witnesses/story/story
 prev: /content/witnesses/appl/the-force-that-changes-the-world
 next: /content/beasts/appl/the-perfect-gospel
 docType: appl

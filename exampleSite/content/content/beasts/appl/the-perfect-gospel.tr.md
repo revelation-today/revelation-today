@@ -1,6 +1,8 @@
 ---
 title: "Mükemmel “müjde”"
 weight: 1
+base: /content/beasts/quick
+story: /content/witnesses/story/story
 deeper:
     - name: İki canavar
       link: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation

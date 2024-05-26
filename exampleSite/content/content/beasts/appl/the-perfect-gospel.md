@@ -1,6 +1,8 @@
 ---
 title: "The perfect “gospel”"
 weight: 1
+base: /content/beasts/quick
+story: /content/witnesses/story/story
 deeper: 
     - name: The two beasts
       link: /content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation

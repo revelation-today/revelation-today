@@ -1,6 +1,11 @@
 ---
 title: "Die dreieinhalb Jahre der Endzeit"
 weight: 50
+base: /bible/daniel/quick
+story: /bible/daniel/story/story
+prev:  /bible/daniel/expl/the-70-year-weeks
+next: /content/vision/expl/setting-the-foundation
+docType: expl
 ---
 
 Die Offenbarung ist voll von seltsamen Zeitangaben wie 1260 Tage, 42 Monate usw. Aber was bedeuten sie? Sind sie wörtlich zu verstehen?

@@ -1,6 +1,8 @@
 ---
 title: "Fahişenin karakteri ve kaderi"
 weight: 4
+base: /content/harlot/quick
+story: /content/harlot/story/story
 prev:  /content/harlot/expl/who-is-the-harlot-babylon-part-2
 next: /content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 docType: expl

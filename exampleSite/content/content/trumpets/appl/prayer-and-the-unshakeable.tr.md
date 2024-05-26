@@ -1,6 +1,8 @@
 ---
 title: "Dua ve sarsılmazlık"
 weight: 1
+base: /content/trumpets/quick
+story: /content/trumpets/story/story
 deeper:
     - name: Duanın gücü
       link: /topics/power/short/the-key-of-prayer
