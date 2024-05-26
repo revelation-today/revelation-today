@@ -111,7 +111,7 @@
                 {{- $link := index $data "link" -}}
                 {{- $read_link := .site.GetPage "/bible/keyword/expl/the-story-of-balaam" -}}
                 {{- $read_link2 := .site.GetPage $link -}}
-                {{- $link = print .link "/" -}}
+                {{- $link = print "/revelation-today" .link "/" -}}
                 {{ partial "shortcodes/card" (dict "title" .name "link" $link "icon" "chevron-down") }}
                 {{- $ind = math.Add $ind  1 -}}
               {{- end -}}
@@ -133,7 +133,7 @@
                 {{- if strings.Contains $pagesStr "–" -}}
                     {{- $title = print $name ", " $pages " " .pages -}}
                 {{- end -}}
-                {{- $link := print "/about/ressources/index.html#" .ref -}}
+                {{- $link := print "revelation-today/about/ressources/index.html#" .ref -}}
                 {{ partial "shortcodes/card" (dict "title" $title "link" $link "icon" "at-symbol") }}
               {{- end -}}
               </ul>
