@@ -9,7 +9,7 @@
 
 {{- $sourceLink := dict 
     "beale_rev" "G.K. Beale, Revelation" 
-    "backham_rev" "Richard Bauckham: The theology of the book of Revelation" 
+    "bauckham_rev" "Richard Bauckham: The theology of the book of Revelation" 
     "aune_rev" "David Aune: Revelation" 
     "goreham" "Michael Goreman: Reading Revelation Responsible" 
     "bauckham_climax" "Richard Bauckham: The climax of prophecy" 
@@ -111,7 +111,7 @@
                 {{- $link := index $data "link" -}}
                 {{- $read_link := .site.GetPage "/bible/keyword/expl/the-story-of-balaam" -}}
                 {{- $read_link2 := .site.GetPage $link -}}
-                {{- $link = print "/revelation-today" .link "/" -}}
+                {{- $link = print "https://revelation-today.github.io/revelation-today" .link "/" -}}
                 {{ partial "shortcodes/card" (dict "title" .name "link" $link "icon" "chevron-down") }}
                 {{- $ind = math.Add $ind  1 -}}
               {{- end -}}
@@ -133,7 +133,8 @@
                 {{- if strings.Contains $pagesStr "–" -}}
                     {{- $title = print $name ", " $pages " " .pages -}}
                 {{- end -}}
-                {{- $link := print "revelation-today/about/ressources/index.html#" .ref -}}
+                {{- $link := print "/ressources/index.html#" .ref -}}
+                {{- $link := print "https://revelation-today.github.io/revelation-today/about/ressources/index.html#" .ref -}}
                 {{ partial "shortcodes/card" (dict "title" $title "link" $link "icon" "at-symbol") }}
               {{- end -}}
               </ul>
