@@ -1,6 +1,7 @@
 ---
 title: "Reading of Revelation: The Great Tribulation and the Rapture"
 prev: /topics/power/short/the-key-of-prayer
+next: /welcome/done
 docType: appl
 ---
 

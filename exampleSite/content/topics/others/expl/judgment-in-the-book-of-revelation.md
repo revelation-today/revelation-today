@@ -2,6 +2,7 @@
 title: "Judgment in the book of revelation"
 weight: 5
 prev: /topics/others/expl/the-rapture
+next: /welcome/done
 docType: expl
 appl: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
 ---
