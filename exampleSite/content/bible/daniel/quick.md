@@ -7,3 +7,4 @@ expl:  /bible/keywords/expl/the-origin-of-babel
 next: /content/vision/quick
 docType: quick
 ---
+

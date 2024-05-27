@@ -23,7 +23,7 @@ layout: hextra-home
   {{< hextra/feature-card
     title="Why this book?"
     link="/welcome/teaser"
-    subtitle="Why you should understand the Book of Revelation"
+    subtitle="Why you should understand the Book of Revelation?"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/man.jpg"
     source="https://pixabay.com/photos/man-thinking-doubt-question-mark-5723449/"
