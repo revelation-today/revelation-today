@@ -13,7 +13,7 @@ You want to know more about this book. You are welcome to discover this guide ba
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="The story"
-    link="/welcome/story"
+    link="story"
     subtitle="In poetic words."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/book.jpg"
@@ -23,7 +23,7 @@ You want to know more about this book. You are welcome to discover this guide ba
   >}}
   {{< hextra/feature-card
     title="Quick walk through"
-    link="/welcome/quick"
+    link="welcome/quick"
     subtitle="Quick through the whole book."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/cavalry.jpg"

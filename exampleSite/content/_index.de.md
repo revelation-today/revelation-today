@@ -22,7 +22,7 @@ layout: hextra-home
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Warum dieses Buch?"
-    link="/welcome/teaser"
+    link="welcome/teaser"
     subtitle="Warum du das Buch Offenbarung verstehen solltest"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/man.jpg"
@@ -35,7 +35,7 @@ layout: hextra-home
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Auf geht's!"
-    link="/welcome"
+    link="welcome"
     subtitle="Lass uns beginnen!"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/gloves.jpg"

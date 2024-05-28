@@ -23,7 +23,7 @@ layout: hextra-home
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Neden bu kitap?"
-    link="/welcome/teaser"
+    link="welcome/teaser"
     subtitle="Vahiy Kitabı'nı neden anlamalısınız?"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/man.jpg"
@@ -36,7 +36,7 @@ layout: hextra-home
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Başlayın"
-    link="/welcome"
+    link="welcome"
     subtitle="Hadi başlayalım"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/gloves.jpg"

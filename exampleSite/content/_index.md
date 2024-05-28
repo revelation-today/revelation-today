@@ -22,7 +22,7 @@ layout: hextra-home
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Why this book?"
-    link="/welcome/teaser"
+    link="welcome/teaser"
     subtitle="Why you should understand the Book of Revelation?"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/man.jpg"
@@ -35,7 +35,7 @@ layout: hextra-home
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Get started"
-    link="/welcome"
+    link="welcome"
     subtitle="Lets start"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/gloves.jpg"
