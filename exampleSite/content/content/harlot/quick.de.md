@@ -8,37 +8,40 @@ next: /content/1000y/quick
 docType: quick
 ---
 
-[Kapitel 17](https://www.bibleserver.com/SLT/Offenbarung17), [18](https://www.bibleserver.com/SLT/Offenbarung18) und [19](https://www.bibleserver.com/SLT/Offenbarung19).
+[Kapitel 17](https://www.bibleserver.com/NIV/Revelation17), [18](https://www.bibleserver.com/NIV/Revelation18) und [19](https://www.bibleserver.com/NIV/Revelation19).
 
-## Wer ist die Hure?
+## Das Geheimnis der Hure?
 
-Diese Geschichte ist der Anhang zu den Zornesschalen (ähnlich dem Anhang zu den Siegeln und den Posaunen). Sie zeigt noch einmal den wesentlichen Gegenstand des Zornes Gottes.
+Die Geschichte ist nun eine Ergänzung zu den Schalen (wie wir es auch mit den Siegeln und den Posaunen hatten). Sie vergrößert das Hauptthema des Zorns Gottes, was nichts Neues ist, aber sie fasst all das Böse, das wir vorher hatten, in einem komplexen Bild zusammen: Die Hure, die Babel ist und die auf einem Tier sitzt.
 
-Sie ist nicht wirklich neu, aber sie fasst das ganze Böse in einem noch detaillierteren Bild zusammen: die Hure, die Babel ist und auf dem (ersten) Tier sitzt.
+Es wird beschrieben, dass die Hure den Herrscher der Erde manipuliert und die Heiligen tötet. Die Hure sitzt auf einem Tier, das später einen Krieg gegen Jesus und die Heiligen inszenieren wird.
 
-Das erste Tier repräsentiert den Kaiser in Rom und damit für die politische und militärische Macht.
+Das Tier selbst wird mit der Kontrolle über die Könige der Erde beschrieben.
 
 ![](/images/Hure+Tier_de.jpg)
 
-Babel ist der Ort, von dem Israel vom Exil zurückkehrte, um den Tag des Herrn zu erwarten.
+Dies scheint eine unaufhaltsame Kraft gegen die Heiligen zu sein. Aber hier kommt die Ironie: Das Tier ([das erste Tier aus Kapitel 13, das dort als unbesiegbar dargestellt wurde](https://www.bibleserver.com/NIV/Revelation13%3A3-4)) ist alles andere als unbesiegbar, sondern wird im Vergleich zu [Gott](https://www.bibleserver.com/NIV/Revelation1%3A8) als [unzuverlässig](https://www.bibleserver.com/NIV/Revelation17%3A8-11) verspottet.
 
-Die Hure selbst ist das Gegenstück zur Braut Christi (“der Gemeinde”) und repräsentiert die wirtschaftliche und finanzielle Macht. Aber es steckt mehr dahinter. Die Hure sieht äußerlich aus wie die Gemeinde und ist ein Angebot an alle Christen, die den einfachen Weg gehen wollen und mit dem Strom schwimmen (und das Malzeichen des Tieres annehmen).
+Außerdem wird es dem Tier und der Hure nicht gelingen, die Heiligen zu überwinden, sondern sie werden von den Königen vernichtet, die ihre ganze Macht dem Tier gegeben haben. Wie kann das geschehen? Weil Gott es so bestimmt hat. Wir werden später sehen, warum.
 
-Die Hure beeinflusst die Machthaber dieser Welt und verspricht ihnen Wohlstand (also Vorsicht, wenn das dein Hauptziel als Christ ist).
+Die Hure selbst ist das Gegenstück zur Braut Christi (der Kirche) und repräsentiert in erster Linie wirtschaftliche und finanzielle Macht. Aber das ist noch nicht alles. Die Hure sieht der Braut äußerlich sehr ähnlich und könnte der Wirt für Christen sein, die es sich leicht machen und mit dem Strom schwimmen wollen (und das Zeichen des Tieres empfangen).
 
-## Der Einfluss und das Gericht über die Hure
+Die Hure beeinflusste die Herrscher dieser Welt, um Wohlstand zu bringen (seien Sie also vorsichtig, wenn dies Ihr Hauptziel als Christ ist).
 
-Die Hure, die äußerlich wie die Gemeinde aussieht, ist ein erbitterter Feind der Gemeinde und verursacht Zerstörung. Bei näherer Betrachtung ist es die Hure, die im dritten Siegel beschrieben wird: Hunger aufgrund ungleicher Verteilung, aber es wird dafür gesorgt, dass Luxusgüter zur Verfügung stehen und die Reichen alles haben, auch wenn die Armen leiden müssen. Außerdem sind Menschen für sie Material wie andere Ressourcen.
+## Die Auswirkungen und das Gericht der Hure
 
-Die Täuschung, die “perfekte” Gemeinde zu sein (der Fokus liegt auf Segen und Wohlstand und nicht auf unbequemem Zeugnis und Selbstverleugnung), ist auch ihr Verhängnis: Als das Tier versucht, die Gemeinde anzugreifen, greift Jesus ein, und statt der Gemeinde wird die Hure das Ziel des Angriffs: Die Könige, die das Tier repräsentieren, bringen das Gericht über sie.
+Die Hure, auch wenn sie von außen wie die Kirche aussieht, ist ein erbitterter Feind der Kirche und ihrer Zeugen und richtet Unheil an. Bei näherer Betrachtung ist die Hure die Ursache für das [dritte Siegel] (https://www.bibleserver.com/NIV/Revelation6%2C5-6): Hunger, der auf wirtschaftlicher Ungerechtigkeit beruht, aber die Verfügbarkeit von Luxusgütern und die Versorgung der Reichen trotz des Leidens der Massen sicherstellt. Menschen werden als Material wie andere Ressourcen betrachtet.
 
-Die Hure ist stolz und hält sich für unantastbar, darum kommt ihr Gericht schnell, wie das historische Babel. Babel wird mit “doppeltem” Maß gerichtet, d.h. so, wie sie anderen Unrecht getan hat.
+Die perfekte Kirche zu sein (eine Kirche, die sich auf Segen und Wohlstand konzentriert und nicht auf unbequemes Zeugnis und Märtyrertum) ist auch die Bestimmung der Hure: Während das Tier versucht, die Kirche anzugreifen, greift Jesus ein und statt der Kirche ist die Hure das Ziel. Die Könige, als Vertreter des Tieres, bringen das Gericht über die Hure.
+
+Die Hure ist hochmütig und hält sich für unantastbar, deshalb wird ihr Gericht schnell kommen, wie es über das historische Babel kam. Babel wird mit doppeltem Maß gemessen werden, d. h. sie wird genau das erleiden, was sie an andere verteilt hat.
 
 ![](/images/Hure_de.jpg)
 
+Warum wird die Beschreibung der Hure so ausführlich behandelt (mehr als zwei Kapitel)? Weil wir aus der Bequemlichkeit in die Gerechtigkeit gerufen werden. Wenn wir [Teil der Hure] (https://www.bibleserver.com/NIV/Revelation18%3A4) sind, wird das zu Götzendienst führen (im Alten Testament ist Götzendienst mit Handel verbunden), und das wird unser Verhalten dahingehend verändern, dass wir Menschen nicht lieben, sondern ausbeuten.
 
 ## Und jetzt?
 
-Nachdem die Hure gerichtet wurde, ist die Braut bereit für die Hochzeit mit dem Lamm. Die Gemeinde ist bereit, ihren Bräutigam zu sehen. Aber bevor das geschieht, muss Jesus noch Gericht halten über den Rest der “falschen Dreieinigkeit” Satans.
+Die Hure ist verurteilt worden, und die Braut Christi ist nun bereit für die Hochzeit. Die Kirche ist nun bereit, ihren Bräutigam zu sehen. Aber zuerst bringt er Gericht über den Rest der bösen Dreifaltigkeit.
 
-Er kommt mit dem Schwert seines Mundes und bringt das Gericht ganz allein (die Engel sind nur da, um Satan und den falschen Propheten gefangen zu nehmen). Das Ganze gleicht eher einem Gerichtssaal als einem Schlachtfeld, und alle sind schuldig.
+Er kommt mit einem Schwert aus seinem Mund und richtet jeden allein (die Engel sind nur da, um den Teufel und den falschen Propheten zu fangen). Dies ist keine Schlacht, sondern eher ein Gerichtssaal. Jesus bringt das endgültige Urteil.

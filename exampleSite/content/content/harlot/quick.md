@@ -10,14 +10,19 @@ docType: quick
 
 [Chapter 17](https://www.bibleserver.com/NIV/Revelation17), [18](https://www.bibleserver.com/NIV/Revelation18) and [19](https://www.bibleserver.com/NIV/Revelation19).
 
-## Who is the harlot?
+## The mystery of the harlot?
 
-The story is now a supplement to the bowls (as we also had with the seals and the trumpets). It magnifies what is the main theme of God’s wrath.This is nothing new, but it summarizes all the evil we had before in one complex picture: The harlot who is Babel and who sits on the (first) beast.
+The story is now a supplement to the bowls (as we also had with the seals and the trumpets). It magnifies what is the main theme of God’s wrath.This is nothing new, but it summarizes all the evil we had before in one complex picture: The harlot who is Babel and who sits on a beast.
 
-The first beast with its horns and heads represents the emperor in Rome and today’s political and military power.
+The harlot is described as manipulating the ruler of the earth and killing the saints. The harlot sits on a beast that is later on staging war against Jesus and the saints.
 
+The beast itself is described with control over the kings of the earth.
 
-Babel is the place from which Israel returned from exile in anticipation of the Day of the Lord.
+![](/images/Hure+Tier_en.jpg)
+
+This seems an unstoppable force against the saints. But here comes the ironie: The beast ([the first beast from chapter 13 which was portrayed there as invincible](https://www.bibleserver.com/NIV/Revelation13%3A3-4)) is far from invincible but mocked as [unreliable](https://www.bibleserver.com/NIV/Revelation17%3A8-11) in comparison to [God](https://www.bibleserver.com/NIV/Revelation1%3A8).
+
+Furthermore the beast and the harlot will not succeed to overcome the saints but will be destroyed by the kings who gave all their power to the beast. How can this happen? Because God made it so. We will see this later, why.
 
 The harlot herself is the counterpart of the Bride of Christ (the Church) and represents primarily economic and financial power. But there is more. The harlot looks very much like the bride on the outside and could be the host for Christians who wanted to take the easy way out and go with the flow (and received the mark of the beast).
 
@@ -32,6 +37,8 @@ To be the perfect church (church that focuses on blessings and prosperity and no
 The harlot is proud and considers herself untouchable, so her judgment will come quickly, as it did over the historical Babel. Babel will be judged with the double measure, meaning that she will suffer exactly what she has distributed to others.
 
 ![](/images/Hure_en.jpg)
+
+Why such long emphasis on the description of the harlot (more than two chapters)? Because we are called out of the comfort into justice. If we are [part of the harlot](https://www.bibleserver.com/NIV/Revelation18%3A4), it will lead to idolatry (in the Old Testament idolatry is linked to trade), and this will change our behaviour that we dont love but exploit people.
 
 ## And now?
 
