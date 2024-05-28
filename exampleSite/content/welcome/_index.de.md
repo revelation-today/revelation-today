@@ -14,7 +14,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Die Geschichte"
-    link="/welcome/story"
+    link="story"
     subtitle="In poetischen Worten."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/book.jpg"
@@ -24,7 +24,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
   >}}
   {{< hextra/feature-card
     title="Im Schnelldurchlauf"
-    link="/welcome/quick"
+    link="quick"
     subtitle="Das Buch im Überblick."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/cavalry.jpg"
@@ -34,7 +34,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
   >}}
   {{< hextra/feature-card
     title="Anwendung"
-    link="/welcome/appl"
+    link="appl"
     subtitle="Entdecke, wie du das Buch in deinem Leben anwenden kannst."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
@@ -44,7 +44,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
   >}}
   {{< hextra/feature-card
     title="Vertiefung"
-    link="/welcome/expl"
+    link="expl"
     subtitle="Ein tieferes Verständnis erlangen"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="/images/old-book.jpg"

@@ -23,7 +23,7 @@ You want to know more about this book. You are welcome to discover this guide ba
   >}}
   {{< hextra/feature-card
     title="Quick walk through"
-    link="welcome/quick"
+    link="quick"
     subtitle="Quick through the whole book."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/cavalry.jpg"
@@ -33,7 +33,7 @@ You want to know more about this book. You are welcome to discover this guide ba
   >}}
   {{< hextra/feature-card
     title="Applications"
-    link="/welcome/appl"
+    link="appl"
     subtitle="Discover how to apply the book in your life."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
@@ -43,7 +43,7 @@ You want to know more about this book. You are welcome to discover this guide ba
   >}}
   {{< hextra/feature-card
     title="Deep dive"
-    link="/welcome/expl"
+    link="expl"
     subtitle="Getting a deeper understanding"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="/images/old-book.jpg"
