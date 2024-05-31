@@ -147,8 +147,8 @@
           <h2>{{ $sources }}</h2>
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
             <ul>
-              {{- $page := .GetPage "/about" -}}
-              {{- $relPermaLink := $page.RelPermalink -}}
+              {{- $mypage := .GetPage "/about" -}}
+              {{- $relPermaLink := $mypage.RelPermalink -}}
               {{- range .Params.sources -}}
                 {{- $name := index $sourceLink .ref }}
                 {{- $title := $name -}}                
