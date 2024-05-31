@@ -9,7 +9,7 @@ deeper:
     - name: Who rules the world?
       link: /topics/hero/short/who-rules-the-world
     - name: The book with the seven seals
-      link: /content/seals/expl/the-book-with-the-seven-seals
+      link: /content/worship/expl/the-book-with-the-seven-seals
     - name: The mystery of the four horsemen
       link: /content/seals/expl/the-mystery-of-the-four-horse-men
     - name: The wrath of the lamb
@@ -17,7 +17,7 @@ deeper:
 prev: /content/worship/appl/the-answer-to-all-questions
 next: /content/army/appl/the-strange-army
 docType: appl
-expl: /content/seals/expl/the-book-with-the-seven-seals
+expl: /content/seals/expl/the-mystery-of-the-four-horse-men
 ---
 
 The seven seals is the time when the book becomes really confusing and even disturbing. What is it all about? What is in the book of the seven seals, and who are these riders?

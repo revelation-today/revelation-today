@@ -9,7 +9,7 @@ deeper:
     - name: Wer regiert die Welt?
       link: /topics/hero/short/who-rules-the-world
     - name: Das Buch mit den sieben Siegeln
-      link: /content/seals/expl/the-book-with-the-seven-seals
+      link: /content/worship/expl/the-book-with-the-seven-seals
     - name: Das Geheimnis der vier Reiter
       link: /content/seals/expl/the-mystery-of-the-four-horse-men
     - name: Der Zorn des Lammes
@@ -17,7 +17,7 @@ deeper:
 prev: /content/worship/appl/the-answer-to-all-questions
 next: /content/army/appl/the-strange-army
 docType: appl
-expl: /content/seals/expl/the-book-with-the-seven-seals
+expl: /content/seals/expl/the-mystery-of-the-four-horse-men
 ---
 
 Die Schriftrolle mit den sieben Siegeln ist der Punkt in der Offenbarung Worum geht es hier eigentlich, was ist dieses Buch und wer sind die Reiter?

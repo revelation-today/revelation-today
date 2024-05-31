@@ -3,7 +3,7 @@ title: "The mystery of the four horse men"
 weight: 3
 base: /content/seals/quick
 story: /content/seals/story/story
-prev:  /content/seals/expl/the-book-with-the-seven-seals
+prev:  /content/worship/expl/the-book-with-the-seven-seals
 next: /content/seals/expl/the-wrath-of-the-lamb
 docType: expl
 appl: /content/seals/appl/the-paradox-of-the-seven-seals

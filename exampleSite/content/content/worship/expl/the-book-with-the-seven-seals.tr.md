@@ -1,15 +1,12 @@
 ---
 title: "Yedi Mühürlü Kitap"
 weight: 2
-base: /content/seals/quick
-story: /content/seals/story/story
+base: /content/worship/quick
+story: /content/worship/story/story
 prev:  /content/worship/expl/worship-in-the-throne-room
 next: /content/seals/expl/the-mystery-of-the-four-horse-men
 docType: expl
-appl: /content/seals/appl/the-paradox-of-the-seven-seals
-deeper:
-    - name: Dört atlı
-      link: /content/seals/expl/the-mystery-of-the-four-horse-men
+appl: /content/worship/appl/the-answer-to-all-questions
 sources: 
     - pages: 337–369
       ref: beale_rev
