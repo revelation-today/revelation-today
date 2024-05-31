@@ -129,15 +129,15 @@
           <h2>{{ $digDeeper }}</h2>
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
             <ul>
-              {{- $ind := 0 -}}
-              {{- range .Params.deeper -}}
-                {{- $data := index $.Params.deeper $ind -}}
-                {{- $link := index $data "link" -}}
-                {{- $read_link := .site.GetPage "/bible/keyword/expl/the-story-of-balaam" -}}
-                {{- $read_link2 := .site.GetPage $link -}}
-                {{- $link = print "https://revelation-today.github.io/revelation-today" .link "/" -}}
-                {{ partial "shortcodes/card" (dict "title" .name "link" $link "icon" "chevron-down") }}
-                {{- $ind = math.Add $ind  1 -}}
+              {{- $Params := .Params.deeper -}}
+              {{- range .Site.RegularPages -}}
+                {{- $relPermalink := .RelPermalink -}}
+                {{- $name := .Title -}}
+                {{- range $Params -}}
+                  {{- if strings.Contains $relPermalink .link -}}
+                      {{ partial "shortcodes/card" (dict "title" $name "link" .link "icon" "chevron-down") }}
+                  {{- end -}}
+                {{- end -}}
               {{- end -}}
               </ul>
             </div>
@@ -147,6 +147,8 @@
           <h2>{{ $sources }}</h2>
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
             <ul>
+              {{- $page := .GetPage "/about" -}}
+              {{- $relPermaLink := $page.RelPermalink -}}
               {{- range .Params.sources -}}
                 {{- $name := index $sourceLink .ref }}
                 {{- $title := $name -}}                
@@ -157,8 +159,7 @@
                 {{- if strings.Contains $pagesStr "–" -}}
                     {{- $title = print $name ", " $pages " " .pages -}}
                 {{- end -}}
-                {{- $link := print "/ressources/index.html#" .ref -}}
-                {{- $link := print "https://revelation-today.github.io/revelation-today/about/index.html#" .ref -}}
+                {{- $link := print $relPermaLink "#" .ref -}}
                 {{ partial "shortcodes/card" (dict "title" $title "link" $link "icon" "at-symbol") }}
               {{- end -}}
               </ul>
