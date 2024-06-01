@@ -1,6 +1,6 @@
 ---
-linkTitle: "İbadet (Böl.4)"
-title: "İbadet (Böl.4)"
+linkTitle: "İbadet (Böl.4-5)"
+title: "İbadet (Böl.4-5)"
 weight: 3
 ---
 

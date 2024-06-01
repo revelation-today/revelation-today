@@ -1,6 +1,6 @@
 ---
-linkTitle: "Worship (Ch.4)"
-title: "Worship (Ch.4)"
+linkTitle: "Worship (Ch.4-5)"
+title: "Worship (Ch.4-5)"
 weight: 3
 ---
 

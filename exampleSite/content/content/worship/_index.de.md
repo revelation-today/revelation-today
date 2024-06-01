@@ -1,6 +1,6 @@
 ---
-linkTitle: "Anbetung (Kap.4)"
-title: "Anbetung (Kap.4)"
+linkTitle: "Anbetung (Kap.4-5)"
+title: "Anbetung (Kap.4-5)"
 weight: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
-linkTitle: "Sendschreiben (Kap.1-3)"
-title: "Die Sendschreiben (Kap.1-3)"
+linkTitle: "Sendschreiben (Kap.2-3)"
+title: "Die Sendschreiben (Kap.2-3)"
 weight: 2
 ---
 

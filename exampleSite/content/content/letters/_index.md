@@ -1,6 +1,6 @@
 ---
-linkTitle: "Letters (Ch.1-3)"
-title: "The letters to the churches (Ch.1-3)"
+linkTitle: "Letters (Ch.2-3)"
+title: "The letters to the churches (Ch.2-3)"
 weight: 2
 ---
 

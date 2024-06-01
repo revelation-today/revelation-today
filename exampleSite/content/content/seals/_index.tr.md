@@ -1,6 +1,6 @@
 ---
-linkTitle: "Yedi mühür (Böl.5-6)"
-title: "Yedi mühür (Böl.5-6)"
+linkTitle: "Yedi mühür (Böl.6)"
+title: "Yedi mühür (Böl.6)"
 weight: 6
 ---
 

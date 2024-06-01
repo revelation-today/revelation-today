@@ -1,6 +1,6 @@
 ---
-linkTitle: "Mektuplar (Böl.1-3)"
-title: "Kiliseler için mektuplar (Böl.1-3)"
+linkTitle: "Mektuplar (Böl.2-3)"
+title: "Kiliseler için mektuplar (Böl.2-3)"
 weight: 2
 ---
 

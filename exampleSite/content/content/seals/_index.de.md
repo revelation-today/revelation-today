@@ -1,6 +1,6 @@
 ---
-linkTitle: "7 Siegel (Kap.5-6)"
-title: "Die sieben Siegel (Kap.5-6)"
+linkTitle: "7 Siegel (Kap.6)"
+title: "Die sieben Siegel (Kap.6)"
 weight: 6
 ---
 
