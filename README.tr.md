@@ -42,7 +42,7 @@ Tebrikler! Yerel sunucunuz çalışıyor, artık değişiklik yapabilirsiniz
 - Tarayıcınızı açın ve "<my-git>/revelation-today" klasörüne gidin
 - Düzenlemek için ilgili tüm içeriği orada bulacaksınız
     - web sayfasının tüm içeriği için exampleSite/content
-    - başvurulan tüm resimler için static/images
+    - başvurulan tüm resimler için exampleSite/static/images
     - çeviri dosyaları için i18n
 - Değişikliklerinizi yapın ve sonucu yerel web sunucunuzda görün
 - Tüm değişikliklerden memnun olduğunuzda, **powershell** üzerinde işleyin (önceden yüklenmiş windows olanı değil, yüklü olanı)

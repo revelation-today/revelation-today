@@ -42,7 +42,7 @@ Herzlichen Glückwunsch! Dein lokaler Server läuft, jetzt kannst du Änderungen
 - Öffne deinen Browser und gehe in den Ordner "<my-git>/revelation-today".
 - Dort findest du alle relevanten Inhalte zum Bearbeiten
     - exampleSite/content für den kompletten Inhalt der Webseite
-    - static/images für alle referenzierten Bilder
+    - exampleSite/static/images für alle referenzierten Bilder
     - i18n für die Übersetzungsdateien
 - Nimm deine Änderungen vor und sieh dir das Ergebnis auf Ihrem lokalen Webserver an
 - Wenn du mit allen Änderungen zufrieden bist, übertrage sie mit **Powershell** (die installierte Version, nicht die vorinstallierte Windows-Version)

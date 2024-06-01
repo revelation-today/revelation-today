@@ -6,7 +6,7 @@ weight: 10
 Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diesen Leitfaden je nach Interesse zu entdecken, im Selbststudium oder in Gruppen. Du hast mehrere Möglichkeiten:
 - Gehe auf das Menü und suche nach den Themen, die dich interessieren.
 - Gehe auf die Suchleiste und such nach bestimmten Stichworten
-- Nimm an einer der folgenden Touren teil, die Dir auch einige Möglichkeiten bieten, Dich umzusehen
+- Nimm an einer der folgenden Touren teil, die dir auch einige Möglichkeiten bieten, dich umzusehen
 
 
 <div class="hx-mt-6"></div>
