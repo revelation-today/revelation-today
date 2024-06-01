@@ -1,48 +1,71 @@
 <div align="center">
-  <h1 align="center">Hextra</h1>
-  <sup align="center"><a href="README.md">English</a> | <a href="README.zh-cn.md">简体中文</a> ｜ <a href="README.fa.md">فارسی</a></sup>
-  <p align="center">Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.</p>
+  <h1 align="center">The Book of Revelation</h1>
+  <sup align="center"><a href="README.de.md">Deutsch</a> | <a href="README.md">English</a> ｜ <a href="README.tr.md">TÜRKÇE</a></sup>
+  <p align="center">A guide through the fascinating Book of Revelation in the Bible.</p>
 
-Demo → [imfing.github.io/hextra](https://imfing.github.io/hextra/)
+The webpage → [https://revelation-today.net](https://revelation-today.github.io/revelation-today/)
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/5097752/263550533-c18343ca-3848-4230-b5c0-ee989d7916da.png">
-  <img alt="Hextra" src="https://user-images.githubusercontent.com/5097752/263550528-663599f9-17a1-4686-b5c4-3da233b5034d.png">
-</picture>
+This is based on the Hugo framework using the [Hekstra template](https://imfing.github.io/hextra/).
 
-<div align="right">
-<a href="https://github.com/imfing/hextra/actions/workflows/pages.yml"><img alt="GitHub Actions Status" src="https://github.com/imfing/hextra/actions/workflows/pages.yml/badge.svg"></a> <a href="https://app.netlify.com/sites/hugo-hextra/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/61d6e55a-2447-487e-b59f-c9537e5df175/deploy-status"></a>
-</div>
+## Contribution
 
-## Features
+### Simple edit
 
-- **Beautiful Design** - Inspired by Nextra, Hextra utilizes Tailwind CSS to offer a modern design that makes your site look outstanding.
-- **Responsive Layout and Dark Mode** - It looks great on all devices, from mobile to desktop. Dark mode is also supported to accommodate various lighting conditions.
-- **Fast and Lightweight** - Powered by Hugo, a lightning-fast static-site generator housed in a single binary file, Hextra keeps its footprint minimal. No JavaScript or Node.js are needed to use it.
-- **Full-text Search** - Built-in offline full-text search powered by FlexSearch, no extra configuration required.
-- **Battery-included** - Markdown, syntax highlighting, LaTeX math formulae, diagrams and Shortcodes elements to enhance your content. Table of contents, breadcrumbs, pagination, sidebar navigation and more are all automatically generated.
-- **Multi-language and SEO Ready** - Multi-language sites made easy with Hugo's multilingual mode. Out-of-the-box support is included for SEO tags, Open Graph, and Twitter Cards.
+- [Register at github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+- Open the [webpage](https://revelation-today.github.io/revelation-today/)
+- Navigate through the page until you find a page you want to change
+- If you have a big screen you see a link "**Suggest changes**" on the side, otherwise scroll to the bottom and you see such a link
+- Click on the link and login to github
+- Click on the **little pen** at the top right just above your text
+- If you are done, press "**Commit changes**".
+- After this make a useful comment in "Commit message" and if you want ot give more detail in "Extended description". 
+- Use "Create a new branch ..." and press "Commit changes"
+- Wait until the commit is merged (I need to review) and the change should be visible
 
-## Quick Start
+## Advanced edit
 
-### Use the template
+You need an advanced edit if you want to add pictures, pages or want to work on several files at the same time. For this you need to do the following steps:
+- Installation (Make sure that all your installations are included in your **PATH** variable.)
+    - [github](https://git-scm.com/)
+    - [Hugo (extended version!)](https://gohugo.io/installation/)
+    - [go](https://go.dev/)
+    - if you work on windows install [powershell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4)
+- Open working directory "<my_git>" 
+- Open a command line like "cmd" and check out the repo using "git clone https://github.com/revelation-today/revelation-today.git"
+- change to directory "revelation-today"
+- Open your powershell and run `npm run dev`
+- You should see now your [local webserver](http://localhost:1313/)
 
-Using the [Hextra Starter Template](https://github.com/imfing/hextra-starter-template) is the simplest method to bootstrap a new website with Hextra theme. Get started by clicking the "Use this template" button on the template repository page.
+Congratulation! Your local server is runnning, now you can make changes
 
-The template repository also includes a [GitHub Actions workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow) for deploying your website to GitHub Pages.
+- Open your browser and go into the folder "<my-git>/revelation-today"
+- You will find all relevant content there to edit
+    - exampleSite/content for the complete content of the webpage
+    - images for all referenced pictures
+    - i18n for translation files
+- Make your changes and see the result on your local webserver
+- When you are happy with all the changes, commit it on the **powershell** (the installed one not the pre installed windows one)
+    - `git checkout -b <your branch name>`
+    - `git add .`
+    - `git commit -m <your change message>`
+    - `git push`
+    
+Your merge is now visible and can be checked.
 
-<img alt="Hextra Starter Template" src="https://user-images.githubusercontent.com/5097752/263551418-c403b9a9-a76c-47a6-8466-513d772ef0b7.jpg" width=600/>
+## Markdown style
 
-### Usage
+All the pages are written in markdown. 
 
-Refer to the [documentation](https://imfing.github.io/hextra/docs) for more information.
+Here are some guide:
+- [basics](https://www.markdownguide.org/basic-syntax/)
+- [extended](https://www.markdownguide.org/extended-syntax/)
 
-## Contributing
-
-Contributions are welcome.
-Check out the [contributing guide](.github/CONTRIBUTING.md) to get started.
-
-## License
-
-[MIT License](./LICENSE)
+Summary:
+- header: `## header`
+- unordered list: `- item`
+- links: `[link text](link)`
+- pictures: `![picture description](path to picture)`
+- table: `| c1 | c2 |
+|----|---|
+| row | row |`
