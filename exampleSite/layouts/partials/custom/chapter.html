@@ -1,0 +1,43 @@
+{{- $context := . -}}
+{{- $params := .params -}}
+{{- $link := .link -}}
+{{- $pages := .pages -}}
+
+{{- $quick := (T "quick") | default "Quick"}}
+{{- $story := (T "story") | default "Story"}}
+{{- $explanation := (T "explanation") | default "Explanation"}}
+{{- $application := (T "application") | default "Application"}}
+{{- $details := (T "details") | default "Details"}}
+
+{{- $ignore := $params.ignore -}}
+{{- if not $ignore -}}
+  <h2>{{- $details -}}</h2>
+  {{- $docType := $params.docType -}}
+  {{- $numOwn := strings.Count "/" $link -}}
+  {{- range $pages -}}
+    {{- $relPermalink := .RelPermalink -}}
+    {{- $name := .Title -}}
+    {{- $numPage := strings.Count "/" $relPermalink -}}
+    {{- $diff := math.Sub $numPage $numOwn -}}
+    {{- if hasPrefix $relPermalink $link -}}
+      {{- $repl := replace $relPermalink $link "" -}}
+      {{- $split := split $repl "/" -}}
+      {{- $next := index $split 1 -}}
+      {{- if eq $diff 1 -}}
+        {{- if not $docType -}}
+          {{- $name = $name -}}
+        {{- else if eq $docType "appl" -}}
+          {{- $name = print $application ": " $name -}}
+        {{- else if eq $docType "expl" -}}
+          {{- $name = print $explanation ": " $name -}}
+        {{- else if eq $docType "story" -}}
+          {{- $name = print $story ": " $name -}}
+        {{- else if eq $docType "quick" -}}
+          {{- $name = print $quick ": " $name -}}
+        {{- end -}}
+        {{ partial "shortcodes/card" (dict "title" $name "link" $relPermalink "icon" "chevron-down") }}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+

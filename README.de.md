@@ -43,7 +43,7 @@ Herzlichen Glückwunsch! Dein lokaler Server läuft, jetzt kannst du Änderungen
 - Dort findest du alle relevanten Inhalte zum Bearbeiten
     - exampleSite/content für den kompletten Inhalt der Webseite
     - exampleSite/static/images für alle referenzierten Bilder
-    - i18n für die Übersetzungsdateien
+    - exampleSite/i18n für die Übersetzungsdateien
 - Nimm deine Änderungen vor und sieh dir das Ergebnis auf Ihrem lokalen Webserver an
 - Wenn du mit allen Änderungen zufrieden bist, übertrage sie mit **Powershell** (die installierte Version, nicht die vorinstallierte Windows-Version)
     - `git checkout -b <Name Ihres Zweigs>`

@@ -1,6 +1,7 @@
 ---
 title: Willkommen
 weight: 10
+ignore: true
 ---
 
 Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diesen Leitfaden je nach Interesse zu entdecken, im Selbststudium oder in Gruppen. Du hast mehrere Möglichkeiten:

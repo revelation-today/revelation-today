@@ -43,7 +43,7 @@ Congratulation! Your local server is runnning, now you can make changes
 - You will find all relevant content there to edit
     - exampleSite/content for the complete content of the webpage
     - exampleSite/static/images for all referenced pictures
-    - i18n for translation files
+    - exampleSite/i18n for translation files
 - Make your changes and see the result on your local webserver
 - When you are happy with all the changes, commit it on the **powershell** (the installed one not the pre installed windows one)
     - `git checkout -b <your branch name>`

@@ -1,6 +1,7 @@
 ---
 title: Welcome
 weight: 10
+ignore: true
 ---
 
 You want to know more about this book. You are welcome to discover this guide based on your interest, as self study or in groups. You have several options:

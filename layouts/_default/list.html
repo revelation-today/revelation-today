@@ -7,9 +7,8 @@
         <div class="content">
           <h1>{{ .Title }}</h1>
           {{ .Content }}
-          <h2>Details</h2>
-              {{- $page := .GetPage "." -}}
-              {{ partial "shortcodes/chapter" (dict "docType" .Params.docType "link" $page.RelPermalink "pages" .Site.Pages) }}
+          {{- $page := .GetPage "." -}}
+          {{ partial "custom/chapter" (dict "params" .Params "link" $page.RelPermalink "pages" .Site.Pages) }}
         </div>
         <div class="hx-mt-16"></div>
         {{ partial "components/last-updated.html" . }}

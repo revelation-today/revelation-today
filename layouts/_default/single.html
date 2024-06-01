@@ -11,19 +11,10 @@
     <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
         <br class="hx-mt-1.5 hx-text-sm" />
-        {{- partial "shortcodes/title.html" (dict "docType" .Params.docType "title" .Title) -}}
+        {{- partial "custom/title.html" (dict "docType" .Params.docType "title" .Title) -}}
         <div class="hx-mb-16"></div>
         <div class="content">
-          {{- if .Params.readBefore -}}  
-          <h2>{{ $readBefore }}</h2>
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
-            <ul>
-              {{- range .Params.readBefore -}}
-                {{ partial "shortcodes/card" (dict "title" .name "link" .link "icon" "book-open") }}
-              {{- end -}}
-              </ul>
-            </div>
-          {{- end -}}
+          {{- partial "custom/read_before.html" (dict "params" .Params) -}}
           
           {{ .Content }}
           
@@ -36,7 +27,7 @@
             {{- $next = .GetPage $next -}}
           {{- end -}}
           
-          {{- partial "shortcodes/prev_next.html" (dict "prev" $prev "next" $next) -}}
+          {{- partial "custom/prev_next.html" (dict "prev" $prev "next" $next) -}}
 
           {{- if .Params.base -}}  
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
@@ -66,10 +57,10 @@
             </div>
           {{- end -}}
             
-          {{ partial "shortcodes/deeper" (dict "params" .Params.deeper "pages" .Site.RegularPages) }}
+          {{ partial "custom/deeper" (dict "params" .Params.deeper "pages" .Site.RegularPages) }}
           
-          {{- $mypage := .GetPage "/about" -}}
-          {{ partial "shortcodes/sources" (dict "page" $mypage "params" .Params.sources) }}
+          {{- $aboutPage := .GetPage "/about" -}}
+          {{ partial "custom/sources" (dict "page" $aboutPage "params" .Params.sources) }}
 
         <div class="hx-mt-16"></div>
         {{ partial "components/comments.html" . }}

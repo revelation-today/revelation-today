@@ -1,6 +1,7 @@
 ---
 title: Hoş geldiniz
 weight: 10
+ignore: true
 ---
 
 Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize göre kendi kendinize veya gruplar halinde keşfedebilirsiniz. Birkaç seçeneğiniz var:
