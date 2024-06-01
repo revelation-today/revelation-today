@@ -5,7 +5,7 @@ weight: 10
 
 You want to know more about this book. You are welcome to discover this guide based on your interest, as self study or in groups. You have several options:
 - Go on the menu and browse for the topics you are interested in.
-- Go on the search bar and search fir keywords
+- Go on the search bar and search for keywords
 - Take one of the tours below which also give you some options to look around
 
 <div class="hx-mt-6"></div>

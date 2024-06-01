@@ -1,0 +1,24 @@
+{{- $context := . -}}
+{{- $docType := .docType -}}
+{{- $title := .title -}}
+{{- $pages := .pages -}}
+
+{{- if not $docType -}}
+    <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ $title }}</h1>
+{{- else if eq $docType "appl" -}}
+    {{- $left := htmlUnescape "&#9755;" -}}
+    {{- $right := htmlUnescape "&#9754;" -}}
+    <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $left $title $right }}</h1>
+{{- else if eq $docType "expl" -}}
+    {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
+    {{- $comet := htmlUnescape "&#9732;" -}}
+    <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $comet $title $comet }}</h1>
+{{- else if eq $docType "story" -}}
+    {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
+    {{- $comet := htmlUnescape "&#9992;" -}}
+    <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $comet $title $comet }}</h1>
+{{- else if eq $docType "quick" -}}
+    {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
+    {{- $comet := htmlUnescape "&#9786;" -}}
+    <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $comet $title $comet }}</h1>
+{{- end -}}

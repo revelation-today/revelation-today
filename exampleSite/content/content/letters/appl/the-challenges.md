@@ -23,7 +23,7 @@ deeper:
     - name: The letter to Laodicea
       link: /content/letters/expl/the-letter-to-the-church-in-laodicea
 prev: /content/vision/appl/vision
-next: /content/worhsip/appl/the-answer-to-all-questions
+next: /content/worship/appl/the-answer-to-all-questions
 docType: appl
 expl: /content/vision/expl/the-angel-of-the-churches
 ---

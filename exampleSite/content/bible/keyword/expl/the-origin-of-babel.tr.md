@@ -3,7 +3,7 @@ title: "Babil’in Kökeni"
 weight: 20
 base: /bible/daniel/quick
 story: /bible/daniel/story/story
-prev:  /bible/keywords/expl/the-story-of-balaam
+prev:  /bible/keyword/expl/the-story-of-balaam
 next: /bible/daniel/expl/the-book-of-daniel
 docType: expl
 ---

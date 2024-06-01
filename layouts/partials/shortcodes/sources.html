@@ -1,0 +1,49 @@
+{{- $context := . -}}
+{{- $params := .params -}}
+{{- $mypage := .page -}}
+
+{{- $sources := (T "sources") | default "Sources"}}
+{{- $pages := (T "pages") | default "pages"}}
+{{- $page := (T "page") | default "page"}}
+
+{{- $sourceLink := dict 
+    "beale_rev" "G.K. Beale, Revelation" 
+    "bauckham_rev" "Richard Bauckham: The theology of the book of Revelation" 
+    "aune_rev" "David Aune: Revelation" 
+    "goreham" "Michael Goreman: Reading Revelation Responsible" 
+    "bauckham_climax" "Richard Bauckham: The climax of prophecy" 
+    "fee_rev" "Gordon Fee: Revelation" 
+    "koester_rev" "Köster, Revelation and the end of all things" 
+    "dorsey" "David Dorsey: The literary structure of the Old Testament" 
+    "walsh" "Jerome T. Walsh, Biblical Hebrew Narrative" 
+    "beale_dwell" "G.K.Beale, Kim Mitchell: God dwells among us" 
+    "richter" "Sandra L. Richter: The epic of Eden" 
+    "beale_theo" "G.K.Beale: A New Testament Biblical Theology" 
+    "sarna_gen" "Nahum Sarna: Understanding Genesis" 
+    "sarna_exo" "Nahum Sarna: Exodus" 
+    "daniel" "Wuppertaler Studienbibel: Der Prophet Daniel" 
+    "dabar_daniel" "Dabarlines, The book Daniel" 
+    "rossing" "Barbara R. Rossing: The Rapture Exposed"
+    }}
+
+  {{- if $params -}}  
+  <h2>{{ $sources }}</h2>
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
+    <ul>
+      {{- $relPermaLink := $mypage.RelPermalink -}}
+      {{- range $params -}}
+        {{- $name := index $sourceLink .ref -}}
+        {{- $title := $name -}}
+        {{- if .pages -}}
+            {{- $title = print $title ", " $page " " .pages -}}
+        {{- end -}}
+        {{- $pagesStr := cast.ToString .pages -}}
+        {{- if strings.Contains $pagesStr "–" -}}
+            {{- $title = print $name ", " $pages " " .pages -}}
+        {{- end -}}
+        {{- $link := print $relPermaLink "#" .ref -}}
+        {{ partial "shortcodes/card" (dict "title" $title "link" $link "icon" "at-symbol") }}
+      {{- end -}}
+      </ul>
+    </div>
+  {{- end -}}

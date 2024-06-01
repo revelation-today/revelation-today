@@ -7,6 +7,14 @@ prev:  /content/army/expl/the-144000
 next: /content/trumpets/expl/the-trumpets-in-revelation
 docType: expl
 appl: /content/army/appl/the-strange-army
+deeper:
+    - link: /background/israel/expl/the-day-of-the-lord
+    - link: /topics/hero/short/who-rules-the-world
+    - link: /background/israel/expl/jesus-and-the-covenant
+    - link: /background/israel/expl/the-second-exodus
+    - link: /bible/daniel/expl/the-son-of-man-and-the-remnant
+    - link: /background/israel/expl/the-remnant-of-israel
+    - link: /background/israel/expl/the-church-is-part-of-israel
 sources:
     - pages: 433–445
       ref: beale_rev
@@ -55,14 +63,3 @@ Bu da büyük sıkıntıyı İsa’nın birinci ve ikinci gelişi arasındaki t�
 Daniel’deki bölüme tekrar bir göz atalım. “İsrail’in koruyucusu Mikail ortaya çıkacak”. Bu bölüm Vahiy Kitabı’nda [Mesih’in ilk gelişiyle](/content/jesus/expl/a-different-christmas-story) ilgili olarak 12. bölümde yer alır. [Mikail ejderhayla (şeytan) savaşacak](https://www.bibleserver.com/TR/Vahiy12%3A7) ve onu yenip cennetten atacaktır. [Ancak yenilgisinden dolayı çok az zamanı olduğu için acımasızdır](https://www.bibleserver.com/TR/Vahiy12%3A12) ve [önce İsrail’e karşı mümkün olduğunca çok zarar vermeye çalışır](https://www.bibleserver.com/TR/Vahiy12%3A13-17) ve [bu kiliseye karşı işe yaramadı](https://www.bibleserver.com/TR/Vahiy13).
 
 Yani büyük sıkıntı, kilise olarak karşı karşıya olduğumuz tüm sıkıntılardır.
-
-## Daha fazla okuma
-
-<a name="3392"></a>
-- [Tanrı’nın günü](/background/israel/expl/the-day-of-the-lord)
-- [Dünyayı kim yönetiyor](/topics/hero/short/who-rules-the-world)
-- [İsa ve Rab’bin Günü](/background/israel/expl/jesus-and-the-covenant)
-- [İkinci göç](/background/israel/expl/the-second-exodus)
-- [İnsanoğlu](/bible/daniel/expl/the-son-of-man-and-the-remnant)
-- [İsrail’in kalıntıları](/background/israel/expl/the-remnant-of-israel)
-- [Kilise ve İsrail](/background/israel/expl/the-church-is-part-of-israel)

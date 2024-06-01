@@ -7,6 +7,14 @@ prev:  /content/army/expl/the-144000
 next: /content/trumpets/expl/the-trumpets-in-revelation
 docType: expl
 appl: /content/army/appl/the-strange-army
+deeper:
+    - link: /background/israel/expl/the-day-of-the-lord
+    - link: /topics/hero/short/who-rules-the-world
+    - link: /background/israel/expl/jesus-and-the-covenant
+    - link: /background/israel/expl/the-second-exodus
+    - link: /bible/daniel/expl/the-son-of-man-and-the-remnant
+    - link: /background/israel/expl/the-remnant-of-israel
+    - link: /background/israel/expl/the-church-is-part-of-israel
 sources:
     - pages: 433–445
       ref: beale_rev

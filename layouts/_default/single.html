@@ -1,58 +1,17 @@
 {{ define "main" }}
-{{- $digDeeper := (T "digDeeper") | default "Dig Deeper"}}
-{{- $sources := (T "sources") | default "Sources"}}
 {{- $readBefore := (T "readBefore") | default "Read Before"}}
-{{- $pages := (T "pages") | default "pages"}}
-{{- $page := (T "page") | default "page"}}
 {{- $quick := (T "quick") | default "Quick"}}
 {{- $story := (T "story") | default "Story"}}
 {{- $explanation := (T "explanation") | default "Explanation"}}
 {{- $application := (T "application") | default "Application"}}
 
-{{- $sourceLink := dict 
-    "beale_rev" "G.K. Beale, Revelation" 
-    "bauckham_rev" "Richard Bauckham: The theology of the book of Revelation" 
-    "aune_rev" "David Aune: Revelation" 
-    "goreham" "Michael Goreman: Reading Revelation Responsible" 
-    "bauckham_climax" "Richard Bauckham: The climax of prophecy" 
-    "fee_rev" "Gordon Fee: Revelation" 
-    "koester_rev" "Köster, Revelation and the end of all things" 
-    "dorsey" "David Dorsey: The literary structure of the Old Testament" 
-    "walsh" "Jerome T. Walsh, Biblical Hebrew Narrative" 
-    "beale_dwell" "G.K.Beale, Kim Mitchell: God dwells among us" 
-    "richter" "Sandra L. Richter: The epic of Eden" 
-    "beale_theo" "G.K.Beale: A New Testament Biblical Theology" 
-    "sarna_gen" "Nahum Sarna: Understanding Genesis" 
-    "sarna_exo" "Nahum Sarna: Exodus" 
-    "daniel" "Wuppertaler Studienbibel: Der Prophet Daniel" 
-    "dabar_daniel" "Dabarlines, The book Daniel" 
-    "rossing" "Barbara R. Rossing: The Rapture Exposed"
-    }}
   <div class='hx-mx-auto hx-flex {{ partial "utils/page-width" . }}'>
     {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}
     {{ partial "toc.html" . }}
     <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
         <br class="hx-mt-1.5 hx-text-sm" />
-        {{- if not .Params.docType -}}
-            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ .Title }}</h1>
-        {{- else if eq .Params.docType "appl" -}}
-            {{- $left := htmlUnescape "&#9755;" -}}
-            {{- $right := htmlUnescape "&#9754;" -}}
-            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $left .Title $right }}</h1>
-        {{- else if eq .Params.docType "expl" -}}
-            {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
-            {{- $comet := htmlUnescape "&#9732;" -}}
-            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $comet .Title $comet }}</h1>
-        {{- else if eq .Params.docType "story" -}}
-            {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
-            {{- $comet := htmlUnescape "&#9992;" -}}
-            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $comet .Title $comet }}</h1>
-        {{- else if eq .Params.docType "quick" -}}
-            {{/* https://www.toptal.com/designers/htmlarrows/symbols/ */}}
-            {{- $comet := htmlUnescape "&#9786;" -}}
-            <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ print $comet .Title $comet }}</h1>
-        {{- end -}}
+        {{- partial "shortcodes/title.html" (dict "docType" .Params.docType "title" .Title) -}}
         <div class="hx-mb-16"></div>
         <div class="content">
           {{- if .Params.readBefore -}}  
@@ -70,32 +29,14 @@
           
           {{- $prev := .Params.prev }}
           {{- $next := .Params.next }}
-            {{- if or $prev $next -}}
-              <div class="hx-mb-8 hx-flex hx-items-center hx-border-t hx-pt-8 dark:hx-border-neutral-800 contrast-more:hx-border-neutral-400 dark:contrast-more:hx-border-neutral-400 print:hx-hidden">
-                {{- if $prev -}}
-                  {{- $prev = .GetPage $prev -}}
-                  <a
-                    href="{{- $prev.RelPermalink -}}"
-                    title="{{- $prev.Title -}}"
-                    class="hx-flex hx-max-w-[50%] hx-items-center hx-gap-1 hx-py-4 hx-text-base hx-font-medium hx-text-gray-600 hx-transition-colors [word-break:break-word] hover:hx-text-primary-600 dark:hx-text-gray-300 md:hx-text-lg ltr:hx-pr-4 rtl:hx-pl-4"
-                  >
-                    {{- partial "utils/icon.html" (dict "name" "chevron-right" "attributes" "class=\"hx-inline hx-h-5 hx-shrink-0 ltr:hx-rotate-180\"") -}}
-                  {{- $prev.Title -}}
-                  </a>
-                {{- end -}}
-                {{- if $next -}}
-                  {{- $next := .GetPage $next -}}
-                  <a
-                    href="{{ $next.RelPermalink }}"
-                    title="{{ $next.Title }}"
-                    class="hx-flex hx-max-w-[50%] hx-items-center hx-gap-1 hx-py-4 hx-text-base hx-font-medium hx-text-gray-600 hx-transition-colors [word-break:break-word] hover:hx-text-primary-600 dark:hx-text-gray-300 md:hx-text-lg ltr:hx-ml-auto ltr:hx-pl-4 ltr:hx-text-right rtl:hx-mr-auto rtl:hx-pr-4 rtl:hx-text-left"
-                  >
-                  {{- $next.Title -}}
-                    {{- partial "utils/icon.html" (dict "name" "chevron-right" "attributes" "class=\"hx-inline hx-h-5 hx-shrink-0 rtl:-hx-rotate-180\"") -}}
-                  </a>
-                {{- end -}}
-              </div>
-            {{- end -}}
+          {{- if $prev -}}
+            {{- $prev = .GetPage $prev -}}
+          {{- end -}}
+          {{- if $next -}}
+            {{- $next = .GetPage $next -}}
+          {{- end -}}
+          
+          {{- partial "shortcodes/prev_next.html" (dict "prev" $prev "next" $next) -}}
 
           {{- if .Params.base -}}  
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
@@ -125,46 +66,11 @@
             </div>
           {{- end -}}
             
-          {{- if .Params.deeper -}}  
-          <h2>{{ $digDeeper }}</h2>
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
-            <ul>
-              {{- $Params := .Params.deeper -}}
-              {{- range .Site.RegularPages -}}
-                {{- $relPermalink := .RelPermalink -}}
-                {{- $name := .Title -}}
-                {{- range $Params -}}
-                  {{- if strings.Contains $relPermalink .link -}}
-                      {{ partial "shortcodes/card" (dict "title" $name "link" .link "icon" "chevron-down") }}
-                  {{- end -}}
-                {{- end -}}
-              {{- end -}}
-              </ul>
-            </div>
-          {{- end -}}
+          {{ partial "shortcodes/deeper" (dict "params" .Params.deeper "pages" .Site.RegularPages) }}
           
-          {{- if .Params.sources -}}  
-          <h2>{{ $sources }}</h2>
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
-            <ul>
-              {{- $mypage := .GetPage "/about" -}}
-              {{- $relPermaLink := $mypage.RelPermalink -}}
-              {{- range .Params.sources -}}
-                {{- $name := index $sourceLink .ref }}
-                {{- $title := $name -}}                
-                {{- if .pages -}}
-                    {{- $title = print $name ", " $page " " .pages -}}
-                {{- end -}}
-                {{- $pagesStr := cast.ToString .pages -}}
-                {{- if strings.Contains $pagesStr "–" -}}
-                    {{- $title = print $name ", " $pages " " .pages -}}
-                {{- end -}}
-                {{- $link := print $relPermaLink "#" .ref -}}
-                {{ partial "shortcodes/card" (dict "title" $title "link" $link "icon" "at-symbol") }}
-              {{- end -}}
-              </ul>
-            </div>
-          {{- end -}}
+          {{- $mypage := .GetPage "/about" -}}
+          {{ partial "shortcodes/sources" (dict "page" $mypage "params" .Params.sources) }}
+
         <div class="hx-mt-16"></div>
         {{ partial "components/comments.html" . }}
       </main>

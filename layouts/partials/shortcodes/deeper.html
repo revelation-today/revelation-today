@@ -1,0 +1,22 @@
+{{- $context := . -}}
+{{- $deeper := .params -}}
+{{- $pages := .pages -}}
+
+{{- $digDeeper := (T "digDeeper") | default "Dig Deeper"}}
+
+  {{- if $deeper -}}  
+  <h2>{{ $digDeeper }}</h2>
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+    <ul>
+      {{- range $pages -}}
+        {{- $relPermalink := .RelPermalink -}}
+        {{- $name := .Title -}}
+        {{- range $deeper -}}
+          {{- if strings.Contains $relPermalink .link -}}
+              {{ partial "shortcodes/card" (dict "title" $name "link" .link "icon" "chevron-down") }}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+      </ul>
+    </div>
+  {{- end -}}

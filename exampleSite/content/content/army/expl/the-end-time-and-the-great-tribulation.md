@@ -7,6 +7,14 @@ prev:  /content/army/expl/the-144000
 next: /content/trumpets/expl/the-trumpets-in-revelation
 docType: expl
 appl: /content/army/appl/the-strange-army
+deeper:
+    - link: /background/israel/expl/the-day-of-the-lord
+    - link: /topics/hero/short/who-rules-the-world
+    - link: /background/israel/expl/jesus-and-the-covenant
+    - link: /background/israel/expl/the-second-exodus
+    - link: /bible/daniel/expl/the-son-of-man-and-the-remnant
+    - link: /background/israel/expl/the-remnant-of-israel
+    - link: /background/israel/expl/the-church-is-part-of-israel
 sources:
     - pages: 433–445
       ref: beale_rev
@@ -60,18 +68,3 @@ Let us look again at the passage in Daniel. “Michael, the protector of Israel,
 
 So the Great Tribulation refers to all the tribulations that we as the Church are facing.
 
-## Further reading
-
-[The day of the Lord](/background/israel/expl/the-day-of-the-lord)
-
-[Who rules the world](/topics/hero/short/who-rules-the-world)
-
-[Jesus and the Day of the Lord](/background/israel/expl/jesus-and-the-covenant)
-
-[The second exodus](/background/israel/expl/the-second-exodus)
-
-[The son of man](/bible/daniel/expl/the-son-of-man-and-the-remnant)
-
-[The remnant of Israel](/background/israel/expl/the-remnant-of-israel)
-
-[The church and Israel](/background/israel/expl/the-church-is-part-of-israel)

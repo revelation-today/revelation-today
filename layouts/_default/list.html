@@ -1,8 +1,4 @@
 {{ define "main" }}
-{{- $quick := (T "quick") | default "Quick"}}
-{{- $story := (T "story") | default "Story"}}
-{{- $explanation := (T "explanation") | default "Explanation"}}
-{{- $application := (T "application") | default "Application"}}
   <div class='hx-mx-auto hx-flex {{ partial "utils/page-width" . }}'>
     {{ partial "sidebar.html" (dict "context" .) }}
     {{ partial "toc.html" . }}
@@ -13,39 +9,7 @@
           {{ .Content }}
           <h2>Details</h2>
               {{- $page := .GetPage "." -}}
-              {{- $mypage := $page.RelPermalink -}}
-              {{- $current := $page.RelPermalink -}}
-              {{- $isFolder := true -}}
-              {{- $type := .Params.docType -}}
-              {{- $numOwn := strings.Count "/" $current -}}
-              {{- if $isFolder -}}
-                {{- range .Site.Pages -}}
-                  {{- $relPermalink := .RelPermalink -}}
-                  {{- $name := .Title -}}
-                  {{- $pos := .Params.weight -}}
-                  {{- $numPage := strings.Count "/" $relPermalink -}}
-                  {{- $sub := math.Sub $numPage $numOwn -}}
-                  {{- if hasPrefix $relPermalink $current -}}
-                    {{- $repl := replace $relPermalink $current "" -}}
-                    {{- $split := split $repl "/" -}}
-                    {{- $next := index $split 1 -}}
-                    {{- if eq $sub 1 -}}
-                        {{- if not .Params.docType -}}
-                            {{- $name = $name -}}
-                        {{- else if eq .Params.docType "appl" -}}
-                            {{- $name = print $application ": " $name -}}
-                        {{- else if eq .Params.docType "expl" -}}
-                            {{- $name = print $explanation ": " $name -}}
-                        {{- else if eq .Params.docType "story" -}}
-                            {{- $name = print $story ": " $name -}}
-                        {{- else if eq .Params.docType "quick" -}}
-                            {{- $name = print $quick ": " $name -}}
-                        {{- end -}}
-                      {{ partial "shortcodes/card" (dict "title" $name "link" $relPermalink "icon" "chevron-down") }}
-                    {{- end -}}
-                  {{- end -}}
-                {{- end -}}
-              {{- end -}}
+              {{ partial "shortcodes/chapter" (dict "docType" .Params.docType "link" $page.RelPermalink "pages" .Site.Pages) }}
         </div>
         <div class="hx-mt-16"></div>
         {{ partial "components/last-updated.html" . }}
