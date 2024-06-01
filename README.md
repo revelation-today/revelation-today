@@ -17,7 +17,7 @@ This is based on the Hugo framework using the [Hekstra template](https://imfing.
 - Navigate through the page until you find a page you want to change
 - If you have a big screen you see a link "**Suggest changes**" on the side, otherwise scroll to the bottom and you see such a link
 - Click on the link and login to github
-- Click on the **little pen** at the top right just above your text
+- Click on the **little pen** at the top right just above your text **OR** if you have installed the app, go on the three dots and click "Edit in place".
 - If you are done, press "**Commit changes**".
 - After this make a useful comment in "Commit message" and if you want ot give more detail in "Extended description". 
 - Use "Create a new branch ..." and press "Commit changes"

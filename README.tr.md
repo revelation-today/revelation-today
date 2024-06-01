@@ -17,8 +17,8 @@ Bu, [Hekstra şablonu](https://imfing.github.io/hextra/) kullanılarak Hugo çer
 - Değiştirmek istediğiniz sayfayı bulana kadar sayfa içinde gezinin
 - Büyük bir ekranınız varsa, yan tarafta "**Değişiklik öner**" bağlantısını görürsünüz, aksi takdirde aşağıya kaydırın ve böyle bir bağlantı görürsünüz
 - Bağlantıya tıklayın ve github'a giriş yapın
-- Metninizin hemen üzerinde sağ üstte bulunan **küçük kaleme** tıklayın
-- İşiniz bittiyse, "**Değişiklikleri işle**" düğmesine basın.
+- Metninizin hemen üzerinde sağ üstteki **küçük kaleme** tıklayın **VEYA** uygulamayı yüklediyseniz, üç noktaya gidin ve "Edit in place" ye tıklayın.
+- İşiniz bittiyse, "**Commit changes**" düğmesine basın.
 - Bundan sonra "Commit message" kısmında faydalı bir yorum yapın ve eğer isterseniz "Extended description" kısmında daha fazla detay verin. 
 - "Yeni bir dal oluştur ..." seçeneğini kullanın ve "Değişiklikleri işle" düğmesine basın.
 - İşlem birleştirilene kadar bekleyin (gözden geçirmem gerekiyor) ve değişiklik görünür olmalıdır

@@ -17,8 +17,8 @@ Dies basiert auf dem Hugo-Framework unter Verwendung der [Hekstra-Vorlage] (http
 - Navigiere durch die Seite, bis du eine Seite findest, die du ändern möchtest
 - Wenn du einen großen Bildschirm hast, siehst du einen Link "**Änderungsvorschläge**" an der Seite, andernfalls scrolle nach unten und du siehst einen solchen Link
 - Klicke auf den Link und melde dich bei github an
-- Klicke auf den **kleinen Stift** oben rechts direkt über deinem Text
-- Wenn du fertig bist, drücke auf "**Änderungen committen**".
+- Klicke auf den **kleinen Stift** oben rechts direkt über deinem Text **ODER** wenn du die App installiert hast, gehe auf die drei Punkte und klicke auf "Edit in place".
+- Wenn du fertig bist, drücke auf "**Commit changes**".
 - Danach gib einen nützlichen Kommentar in "Commit message" und wenn du mehr Details geben willst in "Extended description". 
 - Verwende "Create a new branch ..." und drücken "Commit changes".
 - Warte, bis der Commit zusammengeführt wurde (ich muss ihn überprüfen) und die Änderung sollte sichtbar sein
