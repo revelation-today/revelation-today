@@ -67,5 +67,7 @@ Summary:
 - links: `[link text](link)`
 - pictures: `![picture description](path to picture)`
 - table: `| c1 | c2 |
+
 |----|---|
+
 | row | row |`
