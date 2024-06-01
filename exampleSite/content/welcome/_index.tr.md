@@ -21,6 +21,9 @@ Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize g�
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Hızlıca gözden geçirin"
     link="quick"
@@ -31,6 +34,9 @@ Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize g�
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Uygulamalar"
     link="appl"
@@ -41,6 +47,9 @@ Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize g�
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Derin Dalış"
     link="expl"

@@ -10,6 +10,7 @@ You want to know more about this book. You are welcome to discover this guide ba
 
 <div class="hx-mt-6"></div>
 
+
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="The story"
@@ -21,6 +22,9 @@ You want to know more about this book. You are welcome to discover this guide ba
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Quick walk through"
     link="quick"
@@ -31,6 +35,9 @@ You want to know more about this book. You are welcome to discover this guide ba
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Applications"
     link="appl"
@@ -41,6 +48,9 @@ You want to know more about this book. You are welcome to discover this guide ba
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
+{{< /hextra/feature-grid >}}
+
+{{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Deep dive"
     link="expl"
