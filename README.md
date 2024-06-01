@@ -42,7 +42,7 @@ Congratulation! Your local server is runnning, now you can make changes
 - Open your browser and go into the folder "<my-git>/revelation-today"
 - You will find all relevant content there to edit
     - exampleSite/content for the complete content of the webpage
-    - images for all referenced pictures
+    - static/images for all referenced pictures
     - i18n for translation files
 - Make your changes and see the result on your local webserver
 - When you are happy with all the changes, commit it on the **powershell** (the installed one not the pre installed windows one)
@@ -62,13 +62,13 @@ Here are some guide:
 - [extended](https://www.markdownguide.org/extended-syntax/)
 
 Summary:
-- header: `## header`
-- unordered list: `- item`
-- links: `[link text](link)`
-- pictures: `![picture description](path to picture)`
-- table: 
+- header: `## <header>`
+- unordered list: `- <item>`
+- links: `[<link text>](<link>)`
+- pictures: `![<picture description>](<path to picture>)` like `![](/images/example.jpg)`
+- table: (keep spaces with \|) 
 ```
-| c1 | c2 |
-|----|---|
-| row | row |
+| <c1> | <c2> |
+|------|------|
+| <row> | <row> |
 ```
