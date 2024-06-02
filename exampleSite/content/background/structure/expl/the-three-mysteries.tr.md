@@ -12,26 +12,26 @@ Vahiy kitabı üç gizemden bahseder: Kilise’nin gizemi, Tanrı’nın gizemi 
 ## Gizem
 
 <a name="998e"></a>
-{{% bible val="Gizem" link="https://www.bibleserver.com/search/NIV/mystery" %}} sözcüğü Eski Ahit peygamberlerinde yalnızca bir yerde geçer: Daniel kitabında dünya güçlerinin yok edilişi, [Tanrı tarafından yerleştirilen ve çok küçük ve zayıf görünen bir şeyle anlatılır](/bible/daniel/expl/the-four-kingdoms-in-daniel). Bu bir sır değil, inanılmaz bir şeydir.
+{{% bible val="Gizem" link="https://www.bibleserver.com/search/NIV/mystery" %}} sözcüğü Eski Ahit peygamberlerinde yalnızca bir yerde geçer: Daniel kitabında dünya güçlerinin yok edilişi, {{% int_link val="Tanrı tarafından yerleştirilen ve çok küçük ve zayıf görünen bir şeyle anlatılır" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}. Bu bir sır değil, inanılmaz bir şeydir.
 
 Yeni Antlaşma’da da bu terim Tanrı’nın şimdi {{% bible val="açıklanmış" link="https://www.bibleserver.com/TR/Koloseliler1%3A26" %}} olan planından söz eder: Mesih çarmıhta yenilgiye uğramadan dünyayı fethetmiştir.
 
-Bu gizem kitapta uzun uzun anlatılır. Bu kitap Tanrı’nın dünyayı nasıl onardığını ve kötülüğü nasıl yok ettiğini, kilisenin de bunun en önemli ortağı olduğunu gösterir ([11. bölümdeki küçük kitaba bakın](/content/scroll/expl/the-little-scroll)). Ancak kiliseye Tanrı’nın ordusu olarak baktığımızda savaş araçları bizi şaşırtabilir:
+Bu gizem kitapta uzun uzun anlatılır. Bu kitap Tanrı’nın dünyayı nasıl onardığını ve kötülüğü nasıl yok ettiğini, kilisenin de bunun en önemli ortağı olduğunu gösterir ({{% int_link val="11. bölümdeki küçük kitaba bakın" link="/content/scroll/expl/the-little-scroll" %}}). Ancak kiliseye Tanrı’nın ordusu olarak baktığımızda savaş araçları bizi şaşırtabilir:
 
 - temel güçleri ve nitelikleri {{% bible val="Tanrı’ya olan sadakatleri" link="https://www.bibleserver.com/TR/Vahiy14%3A4" %}} gibi görünmektedir (bakireler)
 - başarının anahtarları ibadet, tanıklık, tahammül ve kötü hükümdar gemisini batıracak olan duadır
-- [fethetme ve muzaffer olma konusunda farklı bir bakış](/topics/hero/short/a-real-hero) açısına sahip gibi görünüyor
+- {{% int_link val="fethetme ve muzaffer olma konusunda farklı bir bakış" link="/topics/hero/short/a-real-hero" %}} açısına sahip gibi görünüyor
 
 ## Kilisenin gizemi
 
 <a name="c36c"></a>
-[Kilisenin gizemi İsa’ya bağlı olarak dünyaya ışık olmaktır](/content/letters/expl/the-angel-of-the-churches). Bu konu 1–9. bölümlerde ayrıntılı olarak ele alınır.
+{{% int_link val="Kilisenin gizemi İsa’ya bağlı olarak dünyaya ışık olmaktır" link="/content/letters/expl/the-angel-of-the-churches" %}}. Bu konu 1–9. bölümlerde ayrıntılı olarak ele alınır.
 
-Bu, [mektuplarda](/content/letters/expl/the-letters-to-the-seven-churches) kiliselerin ölçüldüğü kriterdir. Güçlenerek büyümenin yanıtı ise [tapınmanın anlatıldığı](/content/worship/expl/worship-in-the-throne-room) bir sonraki bölümde yer alır.
+Bu, {{% int_link val="mektuplarda" link="/content/letters/expl/the-letters-to-the-seven-churches" %}} kiliselerin ölçüldüğü kriterdir. Güçlenerek büyümenin yanıtı ise {{% int_link val="tapınmanın anlatıldığı" link="/content/worship/expl/worship-in-the-throne-room" %}} bir sonraki bölümde yer alır.
 
-Kilise, itaatkâr olan ([tapınma ölüme kadar sadakatin bir ifadesidir](/topics/power/short/worship)) ve şimdi {{% bible val="Kilise’nin acı çekmesine neden olan" link="https://www.bibleserver.com/TR/Vahiy6%3A9-11" %}} şeytanın aldatmacasını açığa çıkaran İsa’ya bakmalıdır. {{% bible val="İsa tüm bunlara bir son vermeden ve Kendisini açıklamadan önce" link="https://www.bibleserver.com/TR/Vahiy6%3A12-17" %}}, Kilise [O’nun ordusunun](/content/army/expl/the-144000) da {{% bible val="huzur içinde olduğunu " link="https://www.bibleserver.com/TR/Vahiy7%3A9-17" %}}anlamalıdır.
+Kilise, itaatkâr olan ({{% int_link val="tapınma ölüme kadar sadakatin bir ifadesidir" link="/topics/power/short/worship" %}}) ve şimdi {{% bible val="Kilise’nin acı çekmesine neden olan" link="https://www.bibleserver.com/TR/Vahiy6%3A9-11" %}} şeytanın aldatmacasını açığa çıkaran İsa’ya bakmalıdır. {{% bible val="İsa tüm bunlara bir son vermeden ve Kendisini açıklamadan önce" link="https://www.bibleserver.com/TR/Vahiy6%3A12-17" %}}, Kilise {{% int_link val="O’nun ordusunun" link="/content/army/expl/the-144000" %}} da {{% bible val="huzur içinde olduğunu " link="https://www.bibleserver.com/TR/Vahiy7%3A9-17" %}}anlamalıdır.
 
-Şimdi kilise [dua ederek dışarı çıkabilir ve dünyayı sarsabilir](/content/trumpets/expl/the-trumpets-in-revelation). Ama dua tek başına yeterli değildir! Daha fazlasına ihtiyaç vardır: Tanrı’nın vahyine. Bu, Tanrı’yla olan ilişkinin özü olarak tapınma tarafından açığa çıkarılır.
+Şimdi kilise {{% int_link val="dua ederek dışarı çıkabilir ve dünyayı sarsabilir" link="/content/trumpets/expl/the-trumpets-in-revelation" %}}. Ama dua tek başına yeterli değildir! Daha fazlasına ihtiyaç vardır: Tanrı’nın vahyine. Bu, Tanrı’yla olan ilişkinin özü olarak tapınma tarafından açığa çıkarılır.
 
 ## Tanrı’nın gizemi
 
@@ -43,13 +43,13 @@ Kilise, itaatkâr olan ([tapınma ölüme kadar sadakatin bir ifadesidir](/topic
 
 Her şey tapınakla başlar: Tanrı’nın bulunduğu yerin tapınma yeri olması amaçlanmıştır.
 
-[Kilise İsa’yı taklit etmezse etkili olamaz.](/content/witnesses/expl/the-two-witnesses)
+{{% int_link val="Kilise İsa’yı taklit etmezse etkili olamaz." link="/content/witnesses/expl/the-two-witnesses" %}}
 
-Bu, [İsa’nın yaşamında nasıl muzaffer](/content/jesus/expl/a-different-christmas-story) olduğunu gösterir. Kilise [canavarların aldatmacasından endişe duymamalı ve bundan ders çıkarmalıdır](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
+Bu, {{% int_link val="İsa’nın yaşamında nasıl muzaffer" link="/content/jesus/expl/a-different-christmas-story" %}} olduğunu gösterir. Kilise {{% int_link val="canavarların aldatmacasından endişe duymamalı ve bundan ders çıkarmalıdır" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
 {{% bible val="Tanrı halkıyla birlikte olacak" link="https://www.bibleserver.com/TR/Vahiy14%3A1-5" %}} ve {{% bible val="herkese yaşamının ödülünü verecektir" link="https://www.bibleserver.com/TR/Vahiy14%3A6-20" %}}.
 
-[Şimdi Tanrı harekete geçer ve insanların yüreği için savaşır ve şeytanların imparatorluğunu yıkar](/content/bowls/expl/the-bowls-of-wrath) ki bu da bizi son konuya getirir.
+{{% int_link val="Şimdi Tanrı harekete geçer ve insanların yüreği için savaşır ve şeytanların imparatorluğunu yıkar" link="/content/bowls/expl/the-bowls-of-wrath" %}} ki bu da bizi son konuya getirir.
 
 ## Fahişenin gizemi
 

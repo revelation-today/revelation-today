@@ -14,15 +14,15 @@ Vahiy Kitabı, belirlenmiş yedi kiliseye gönderilen yedi mektubu gösterir. Am
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="cf1d"></a>
-- [Kitabın tarihsel arka planı](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- {{% int_link val="Kitabın tarihsel arka planı" link="/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation" %}}
 - [Ne tür bir kitap bu?](/background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Vizyon](/content/letters/expl/the-vision)
-- [Kiliselerin melekleri](/content/letters/expl/the-angel-of-the-churches)
+- {{% int_link val="Vizyon" link="/content/letters/expl/the-vision" %}}
+- {{% int_link val="Kiliselerin melekleri" link="/content/letters/expl/the-angel-of-the-churches" %}}
 
 ## Vizyon
 
 <a name="12bf"></a>
-Johannes mektuptan önce [Tanrı’nın kiliseyi nasıl hayal ettiğini yazar](/content/letters/expl/the-vision).
+Johannes mektuptan önce {{% int_link val="Tanrı’nın kiliseyi nasıl hayal ettiğini yazar" link="/content/letters/expl/the-vision" %}}.
 
 Mesaj şudur: Yıldızlar ve kuzu duruşları olarak yansıtılan kilise ışık olmalıdır (kuzu kilisenin içinde durur ve yıldızlar dünyaya doğru), ancak bunu İsa’ya bağlı olarak yapmalıdırlar, onsuz değil.
 

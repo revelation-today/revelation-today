@@ -13,9 +13,9 @@ Kutsal Kitap’taki Vahiy kitabı 1260 gün, 42 ay ve benzeri garip zaman diliml
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="f73a"></a>
-- [Daniel’in kitabı](/bible/daniel/expl/the-book-of-daniel)
-- [Daniel’deki dört krallık](/bible/daniel/expl/the-four-kingdoms-in-daniel)
-- [70 yıl](/bible/daniel/expl/the-70-year-weeks)
+- {{% int_link val="Daniel’in kitabı" link="/bible/daniel/expl/the-book-of-daniel" %}}
+- {{% int_link val="Daniel’deki dört krallık" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}
+- {{% int_link val="70 yıl" link="/bible/daniel/expl/the-70-year-weeks" %}}
 
 ## Biraz matematik
 
@@ -56,14 +56,14 @@ Buradaki mücadele ve soru şudur: “Gerçek Tanrı kimdir?”
 ## Daniel’de yıl haftası
 
 <a name="eb7b"></a>
-[Daniel’de her biri 3,5 yıl uzunluğunda iki yarım haftayla sonuçlanan 70 hafta vardır](/bible/daniel/expl/the-70-year-weeks). İlk yarım hafta İsa’nın yeryüzündeki zamanını, ikincisi ise kilise çalışmalarını anlatır. Ayrıca İsa’nın antlaşmasının da bu{{% bible val=" hafta içinde olacağı anlatılır" link="https://www.bibleserver.com/TR/Daniel9%3A27" %}}.
+{{% int_link val="Daniel’de her biri 3,5 yıl uzunluğunda iki yarım haftayla sonuçlanan 70 hafta vardır" link="/bible/daniel/expl/the-70-year-weeks" %}}. İlk yarım hafta İsa’nın yeryüzündeki zamanını, ikincisi ise kilise çalışmalarını anlatır. Ayrıca İsa’nın antlaşmasının da bu{{% bible val=" hafta içinde olacağı anlatılır" link="https://www.bibleserver.com/TR/Daniel9%3A27" %}}.
 
 Bu 3,5 yıl, Tanrı’nın bu dünyanın krallıklarını yıkacak olan arka planda inşa ettiği şeydir.
 
 ## Vahiy’deki 3,5 yıl nedir?
 
 <a name="b4e3"></a>
-Şimdi 13. bölümle başlayalım. [Bu, şeytanın oynadığı aldatmacadı](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)r. Ne zaman başlıyor? 12. bölüme göre bu, İsa’nın çarmıhtaki ölümünden sonra, Tanrı tarafından korunan İsrail’i yok edemeyeceğini anladığında, yani ölümünden hemen sonra gerçekleşir.
+Şimdi 13. bölümle başlayalım. {{% int_link val="Bu, şeytanın oynadığı aldatmacadı" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}r. Ne zaman başlıyor? 12. bölüme göre bu, İsa’nın çarmıhtaki ölümünden sonra, Tanrı tarafından korunan İsrail’i yok edemeyeceğini anladığında, yani ölümünden hemen sonra gerçekleşir.
 
 Ne zaman duracak? Mecbur kalmadıkça asla, yani İsa geri gelene kadar.
 

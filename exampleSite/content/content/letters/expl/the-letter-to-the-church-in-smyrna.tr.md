@@ -42,4 +42,4 @@ Kilisenin kökeni hakkında çok az şey bilinmektedir, belki de Pavlus tarafın
 <a name="a1e3"></a>
 İsa söz veriyor: Tahammül ettiklerinde ikinci ölümden zarar görmeyecekler. {{% bible val="İsa ölümden dirilişe geçerek üstesinden geldi ve hafta gibi görünüyor" link="https://www.bibleserver.com/TR/Vahiy5%3A5-6" %}}, bu {{% bible val="yüzden onlarla birlikte hükmedecek" link="https://www.bibleserver.com/TR/Vahiy20%3A4-6" %}}. Bu bir paradokstur. Bu nasıl olmalıdır?
 
-Biz ne kadar çok şey yapamazsak, İsa o kadar çok çalışabilir. [Ancak çaresizlikten bunalıp pes etme tehlikesi vardır](/content/beasts/expl/666-the-number-of-the-beast). Durumu çözmemiz değil, O’nunla birlikte dayanmamız gerekir.
+Biz ne kadar çok şey yapamazsak, İsa o kadar çok çalışabilir. {{% int_link val="Ancak çaresizlikten bunalıp pes etme tehlikesi vardır" link="/content/beasts/expl/666-the-number-of-the-beast" %}}. Durumu çözmemiz değil, O’nunla birlikte dayanmamız gerekir.

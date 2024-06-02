@@ -69,7 +69,7 @@ Als letztes wird Gott {{% bible val="mit vielen einen Bund schließen" link="htt
 
 In der Mitte der “Sieben” wird er dem Opferdienstes ein Ende setzen, weil {{% bible val="dieser nicht mehr nötig ist" link="https://www.bibleserver.com/SLT/Hebr%C3%A4er10%2C1-18" %}}.
 
-Er wird Gräuel der Verwüstung aufrichten ([im Original heißt es “er wird aufrichten](https://biblehub.com/interlinear/daniel/9-27.htm)), wir haben also immer noch Tiberius. Es handelt sich um “[Flügel der Verwüstung](https://biblehub.com/interlinear/daniel/9-27.htm)”, die sich auf den Reichsadler der Römer beziehen. “Bis die Vernichtung ausgeschüttet ist” kann man besser übersetzen mit “bis das beschlossene Ende auf den Zerstörer gestzt ist” und meint, also bis das Römische Reich fällt, was uns wieder [zu Daniel 7 zurückbringt](/bible/daniel/expl/the-four-kingdoms-in-daniel).
+Er wird Gräuel der Verwüstung aufrichten ([im Original heißt es “er wird aufrichten](https://biblehub.com/interlinear/daniel/9-27.htm)), wir haben also immer noch Tiberius. Es handelt sich um “[Flügel der Verwüstung](https://biblehub.com/interlinear/daniel/9-27.htm)”, die sich auf den Reichsadler der Römer beziehen. “Bis die Vernichtung ausgeschüttet ist” kann man besser übersetzen mit “bis das beschlossene Ende auf den Zerstörer gestzt ist” und meint, also bis das Römische Reich fällt, was uns wieder {{% int_link val="zu Daniel 7 zurückbringt" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}.
 
 ## Die letzte Woche
 

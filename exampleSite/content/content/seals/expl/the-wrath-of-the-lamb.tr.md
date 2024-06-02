@@ -21,7 +21,7 @@ Metin şöyledir: “[Altıncı mührü açarken izledim. Büyük bir deprem old
 ## Kuzu’nun Gazabı
 
 <a name="c1b2"></a>
-Kuzunun Gazabı, İncil’in her yerine yayılmış bir konu gibi görünse de, bu terim aslında altıncı mühür bağlamında sadece {{% bible val="BİR KEZ" link="https://www.bibleserver.com/TR/Vahiy6%3A16" %}} vardır ve kuzunun tanımı değil, insanların onun hakkındaki algısıdır. [Dört atlının İsa’nın kimliğine bürünerek yaptığı tüm tahribattan sonra insanlar İsa’nın](/content/seals/expl/the-mystery-of-the-four-horse-men) da aynı şekilde davranacağından korkmaktadır, ancak öyle değildir. Yargısı şiddetli olacaktır ([Tanrı’dan kalıcı olarak ayrılma](/content/paradise/expl/heaven-and-hell)) ama yıkıcı bir savaş şeklinde değil.
+Kuzunun Gazabı, İncil’in her yerine yayılmış bir konu gibi görünse de, bu terim aslında altıncı mühür bağlamında sadece {{% bible val="BİR KEZ" link="https://www.bibleserver.com/TR/Vahiy6%3A16" %}} vardır ve kuzunun tanımı değil, insanların onun hakkındaki algısıdır. {{% int_link val="Dört atlının İsa’nın kimliğine bürünerek yaptığı tüm tahribattan sonra insanlar İsa’nın" link="/content/seals/expl/the-mystery-of-the-four-horse-men" %}} da aynı şekilde davranacağından korkmaktadır, ancak öyle değildir. Yargısı şiddetli olacaktır ({{% int_link val="Tanrı’dan kalıcı olarak ayrılma" link="/content/paradise/expl/heaven-and-hell" %}}) ama yıkıcı bir savaş şeklinde değil.
 
 Tüm bu sahne {{% bible val="Hoşea’yı" link="https://www.bibleserver.com/TR/Ho%C5%9Fea10%3A6-8" %}} hatırlatmaktadır; İsrail putperestliklerinden dolayı utanç duymakta ve Tanrı’dan saklanmaya çalışmaktadır; {{% bible val="bu da insanın düşüşüne, günahından sonra Tanrı’dan saklanmaya çalışmasına geri dönmektedir" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F3%3A8" %}}.
 
@@ -34,7 +34,7 @@ Ancak burada anlatılan tek şey halkın korkusudur, İsa’nın ya da Tanrı’
 <a name="7c69"></a>
 Bu pasajda kullanılan “[orge](https://biblehub.com/greek/3709.htm)” sözcüğü “kabarmak “tan türemiştir ve uzun zamandan beri birikmiş olan ve kendiliğinden patlak vermeyen bir muhalefeti tanımlamaktadır.
 
-Bir yandan insanlar Tanrı’ya karşı biriktirdiklerinin farkına varırken, diğer yandan[ Tanrı sürekli olarak insanlara ulaşmaya çalışmış, ancak bunun sona erdiği bir nokta gelmiştir](/content/bowls/expl/the-bowls-of-wrath).
+Bir yandan insanlar Tanrı’ya karşı biriktirdiklerinin farkına varırken, diğer yandan{{% int_link val=" Tanrı sürekli olarak insanlara ulaşmaya çalışmış, ancak bunun sona erdiği bir nokta gelmiştir" link="/content/bowls/expl/the-bowls-of-wrath" %}}.
 
 Bu, Tanrı’nın bir şeyler yapıp yapamayacağını görmeye çalışan ve insanlar istekli olmadığı için vazgeçen bir sosyal hizmet görevlisi gibi olduğu izlenimini vermemelidir. İnsanları eylemlerinin sonuçlarıyla yüzleştirecektir.
 

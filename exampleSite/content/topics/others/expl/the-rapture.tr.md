@@ -85,7 +85,7 @@ Matta {{% bible val="24" link="https://www.bibleserver.com/TR/Matta24" %}} ve {{
 
 Burada değinilen konular, 66–73 yıllarındaki Yahudi savaşının tüm travmatik etkisiyle tapınağın yıkılışını anlatır ve gelecek zulümler ve zorluklar için sadık kalmaya yönelik bir öğüttür. Tüm bu benzetmeler belirli bir zamana gönderme yapmaz, İsa’yla sürekli bir ilişki içindedir. Keçi ve koyun etiği bir son zaman gerekliliği değil, Eski Antlaşma boyunca bile imanlıların Tanrı’nın buyruğunu yerine getirmeleri için önemli bir kriterdir.
 
-{{% bible val="Zeytin ağacı benzetmesinin" link="https://www.bibleserver.com/TR/Matta24%3A32" %}} 1948'de İsrail’in kuruluşuyla ilgili olaylar olarak yorumlanması çok ileri bir yorumdur ve Kutsal Kitap’ta başka bir desteği yoktur. Bu kıssa yeni İsrail devletine işaret etmemektedir, [ancak Yeni Ahit’te İsrail’e yapılan diğer birçok atıf gibi kilise için bir resimdir.](/background/israel/expl/the-church-is-part-of-israel)
+{{% bible val="Zeytin ağacı benzetmesinin" link="https://www.bibleserver.com/TR/Matta24%3A32" %}} 1948'de İsrail’in kuruluşuyla ilgili olaylar olarak yorumlanması çok ileri bir yorumdur ve Kutsal Kitap’ta başka bir desteği yoktur. Bu kıssa yeni İsrail devletine işaret etmemektedir, {{% int_link val="ancak Yeni Ahit’te İsrail’e yapılan diğer birçok atıf gibi kilise için bir resimdir." link="/background/israel/expl/the-church-is-part-of-israel" %}}
 
 ## Bizim için bir yer
 

@@ -33,7 +33,7 @@ Laut unserem Text ist Gott an Anbetern interessiert, d.h. es geht um unsere bedi
 ## Die Zeugen
 
 <a name="3f6b"></a>
-Ich mache es hier kurz: [Die beiden Zeugen sind die Gemeinde](/content/witnesses/expl/the-two-witnesses).
+Ich mache es hier kurz: {{% int_link val="Die beiden Zeugen sind die Gemeinde" link="/content/witnesses/expl/the-two-witnesses" %}}.
 
 Die beiden Zeugen folgen in ihrem Leben ganz Jesus nach:
 

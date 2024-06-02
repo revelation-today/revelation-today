@@ -20,13 +20,13 @@ sources:
 Zunächst brauchen wir etwas Hintergrund:
 
 - [Gematrie](https://de.wikipedia.org/wiki/Gematrie): Dies ist der am häufigsten verwendete Ansatz, um diese Zahl zu verstehen. Man ordnet jedem Buchstaben des Alphabets einen Zahlenwert zu und wenn die Summe 666 ergibt, hat man den Bösewicht gefunden. Wenn sich die gewünschte Zahl nicht ergibt, kann man es mit anderen Sprachen wie Hebräisch, Latein oder Griechisch versuchen. Wenn es dann immer noch nicht klappt, kannst du es mit einer dreifachen 6 versuchen — bei Reagan (Ronald Wilson Reagan, alle Buchstaben haben 6) oder im Internet (www, jeder Buchstabe hat den Wert 6). Mit [etwas Geduld kann man sehr viele Namen auf die 666 projizieren](https://de.wikipedia.org/wiki/Sechshundertsechsundsechzig#Deutungen). Diese Methode wurde so oft missbraucht, so dass ein “Schloss, in das jeder Schlüssel passt, nicht viel wert ist”.
-- Biblische Zahlen: In der Bibel werden Zahlen oft mit Ereignissen in Verbindung gebracht, z.B. {{% bible val="Mose fastete 40 Tage, um das Gesetz zu erhalten" link="https://www.bibleserver.com/SLT/2.Mose34%2C28" %}}, die {{% bible val="Kundschafter beobachteten das Gelobte Land 40 Tage lang " link="https://www.bibleserver.com/SLT/4.Mose13%2C25" %}}und wegen ihres {{% bible val="Unglaubens mussten sie 40 Jahre lang durch die Wüste wandern" link="https://www.bibleserver.com/SLT/4.Mose14%2C34" %}}. Ist es ein Zufall, dass {{% bible val="Jesus 40 Tage fastete und die Herausforderungen meisterte, an denen Israel scheiterte" link="https://www.bibleserver.com/SLT/Matth%C3%A4us4%2C1-11" %}}? Die Zahl vierzig scheint sich mit dem {{% bible val="Glauben" link="https://www.bibleserver.com/search/SLT/40%20Tage" %}} zu tun zu haben. Ebenso hat die Sieben mit Vollständigkeit zu tun, da die {{% bible val="Welt in sieben Tagen erschaffen wurde" link="https://www.bibleserver.com/SLT/1.Mose2%2C1-3" %}}. Die Sechs hingegen bezieht sich auf den Menschen im Gegensatz zu Gott, da er am sechsten Tag erschaffen wurde. Auch [in der Offenbarung werden Zahlen häufig symbolisch verwendet](/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation).
-- Die Offenbarung als Brief: Wir haben gesehen, dass die [Offenbarung ein Brief ist, und wir daher den Bezug für die ersten Leser erkennen müssen](/background/literature/expl/the-book-of-revelation-how-to-read-it). Was könnte also die Zahl 666 für die damalige Gemeinde bedeutet haben?
+- Biblische Zahlen: In der Bibel werden Zahlen oft mit Ereignissen in Verbindung gebracht, z.B. {{% bible val="Mose fastete 40 Tage, um das Gesetz zu erhalten" link="https://www.bibleserver.com/SLT/2.Mose34%2C28" %}}, die {{% bible val="Kundschafter beobachteten das Gelobte Land 40 Tage lang " link="https://www.bibleserver.com/SLT/4.Mose13%2C25" %}}und wegen ihres {{% bible val="Unglaubens mussten sie 40 Jahre lang durch die Wüste wandern" link="https://www.bibleserver.com/SLT/4.Mose14%2C34" %}}. Ist es ein Zufall, dass {{% bible val="Jesus 40 Tage fastete und die Herausforderungen meisterte, an denen Israel scheiterte" link="https://www.bibleserver.com/SLT/Matth%C3%A4us4%2C1-11" %}}? Die Zahl vierzig scheint sich mit dem {{% bible val="Glauben" link="https://www.bibleserver.com/search/SLT/40%20Tage" %}} zu tun zu haben. Ebenso hat die Sieben mit Vollständigkeit zu tun, da die {{% bible val="Welt in sieben Tagen erschaffen wurde" link="https://www.bibleserver.com/SLT/1.Mose2%2C1-3" %}}. Die Sechs hingegen bezieht sich auf den Menschen im Gegensatz zu Gott, da er am sechsten Tag erschaffen wurde. Auch {{% int_link val="in der Offenbarung werden Zahlen häufig symbolisch verwendet" link="/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation" %}}.
+- Die Offenbarung als Brief: Wir haben gesehen, dass die {{% int_link val="Offenbarung ein Brief ist, und wir daher den Bezug für die ersten Leser erkennen müssen" link="/background/literature/expl/the-book-of-revelation-how-to-read-it" %}}. Was könnte also die Zahl 666 für die damalige Gemeinde bedeutet haben?
 
 ## 6–6–6: Das Versagen der unheiligen Dreieinigkeit
 
 <a name="497d"></a>
-Ein Verständnis ergibt sich aus der Geschichte selbst, die [hier](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) rzählt wird. Sie beschreibt den Versuch des Tieres, die Heilige Dreifaltigkeit nachzuahmen.
+Ein Verständnis ergibt sich aus der Geschichte selbst, die {{% int_link val="hier" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}} rzählt wird. Sie beschreibt den Versuch des Tieres, die Heilige Dreifaltigkeit nachzuahmen.
 
 Aber bei den Heiligen funktioniert diese Täuschung nicht. Jedes Element wird mit einer Zahl „klassifiziert”, die die Überzeugungskraft der Nachahmung bewertet:
 
@@ -39,14 +39,14 @@ Wenn du gezählt hast, kommst du auch auf 6–6–6, die Zahl des Tieres. Wenn d
 ## Die 666 im Zusammenhang
 
 <a name="c413"></a>
-Die Zahl 666 hat einige sehr interessante [arithmetische Eigenschaften](/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation#f042) und Links innerhalb des Buches der Offenbarung:
+Die Zahl 666 hat einige sehr interessante {{% int_link val="arithmetische Eigenschaften" link="/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation#f042" %}} und Links innerhalb des Buches der Offenbarung:
 
 - 666 ist mit der Zahl 8 verwandt, die die Zahl der Auferstehung ist (Jesus ist am 8. Tag auferstanden — einen Tag nach dem Sabbat, also am ersten Tag der neuen Woche oder besser gesagt am ersten Tag der neuen Schöpfung!) Das Thema der Auferstehung ist auch in {{% bible val="der Beschreibung des ersten Tieres präsent" link="https://www.bibleserver.com/SLT/Offenbarung13%2C3" %}}, aber auch in {{% bible val="der sechsten Schale" link="https://www.bibleserver.com/SLT/Offenbarung16%2C13" %}} (Frösche stehen für die ägyptische Göttin der Geburt und Auferstehung) und in der {{% bible val="Beschreibung des Tieres, auf dem die Hure sitzt" link="https://www.bibleserver.com/SLT/Offenbarung18%2C11" %}}. Es gibt eine starke Ähnlichkeit zwischen [dieser Passage, die dies als Bedarf an Weisheit beschreibt](https://biblehub.com/interlinear/revelation/13-18.htm), und dem [Bedarf an Weisheit über das Tier, auf dem die Hure sitzt](https://biblehub.com/interlinear/revelation/17-9.htm), das später als einer {{% bible val="der sieben Köpfe (=Könige), aber auch als der achte (König) beschrieben wird" link="https://www.bibleserver.com/SLT/Offenbarung17%2C11" %}}!
 - Die Aussage identifiziert dies als die {{% bible val="Zahl eines Menschen" link="https://www.bibleserver.com/SLT/Offenbarung13%2C18" %}} und kommt {{% bible val="direkt vor der Erwähnung der 144.000" link="https://www.bibleserver.com/SLT/Offenbarung14%2C1" %}}, was wiederum auf das neue Jerusalem (den Ort, an dem sie sein werden) verweist, [wo die Mauer als 12*12=144(!) Einheiten eines Engels gemessen wird](https://www.bibleserver.com/SLT/Offenbarung21%2C17). Es ist auch nicht wirklich klar, was das bedeutet, aber es zeigt wieder den Unterschied zwischen dem Tier (der erniedrigten Menschheit) und den Zeugen (die in die Position von Engeln erhoben wurden).
 
 Dies zeigt uns zwei Aspekte
 
-- Es handelt sich um ein ähnliches Thema wie [Harmagedon](/content/bowls/expl/the-key-to-armageddon), wo etwas Eindrucksvolles als absolut schwach und das Schwache als überlegen dargestellt wird.
+- Es handelt sich um ein ähnliches Thema wie {{% int_link val="Harmagedon" link="/content/bowls/expl/the-key-to-armageddon" %}}, wo etwas Eindrucksvolles als absolut schwach und das Schwache als überlegen dargestellt wird.
 - Die Passage hier weist auf die Auflösung des Geheimnisses der 666 als achtem König hin.
 
 ## Der achte König
@@ -66,7 +66,7 @@ Sein unklares Ende (ob er tot ist oder nicht) macht die {{% bible val="erste Ers
 Da wir mit der Gematrie begonnen haben, beginne ich aus folgenden Gründen mit einem Aspekt, der in diese Kategorie fällt:
 
 - Er ist für die ersten Leser relevant, da er zu dieser Zeit lebte.
-- Es [spiegelt den doppelten Angriff des Tieres wieder](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
+- Es {{% int_link val="spiegelt den doppelten Angriff des Tieres wieder" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
 Die Figur beschreibt den Kaiser [Trajan](https://de.wikipedia.org/wiki/Trajan) sehr gut, da
 
@@ -102,7 +102,7 @@ Was bedeutet das für die ersten Leser und für uns heute?
 - Wir sollen uns auch nicht von den Versprechungen des Satans verführen lassen und meinen, man könne Gott doch noch folgen, also das Beste von Gott und der gottlosen Dreieinigkeit nehmen, so wie Salomo versagt hat.
 - Ganz praktisch sieht man das bei Trajan in der Zeit, der Wohlstand und Sicherheit brachte, aber das Blut der Heiligen an seinen Händen hatte.
 
-Nach diesem Verständnis wollen wir nach den [Prinzipien der 666](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) Ausschau halten und beurteilen, ob wir
+Nach diesem Verständnis wollen wir nach den {{% int_link val="Prinzipien der 666" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}} Ausschau halten und beurteilen, ob wir
 
 - wir diesen göttlichen Prinzipien folgen und bestehen oder
 - ob wir den Prinzipien Satans folgen, die verlockend klingen, uns aber letztlich ruinieren und von Gott entfernen.

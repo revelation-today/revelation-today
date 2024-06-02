@@ -49,5 +49,5 @@ Yeni Ahit’te {{% bible val="İsa tapınaktır" link="https://www.bibleserver.c
 
 ## Eğer daha derine inmek istiyorsanız
 
-[Beale, Kim: God dwells among us](/about/ressources/index.html#beale_dwell)
+{{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources/index.html#beale_dwell" %}}
 

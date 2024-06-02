@@ -24,8 +24,8 @@ Vahiy Kitabı’nın {{% bible val="11. bölümünde" link="https://www.bibleser
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="1a3d"></a>
-- [3,5 yıl](/bible/daniel/expl/the-secret-of-the-3-5-years)
-- [İki canavar](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- {{% int_link val="3,5 yıl" link="/bible/daniel/expl/the-secret-of-the-3-5-years" %}}
+- {{% int_link val="İki canavar" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}
 
 ## Çağrı
 
@@ -45,7 +45,7 @@ Tanıkların kim olduğu konusunda pek çok tartışma vardır: Onlar olabilir
 
 Metnin kendisi bize ipucu verir. “{{% bible val="Onlar ‘iki zeytin ağacı’ ve iki kandil standıdır ve ‘yeryüzünün Rabbi’nin önünde dururlar" link="https://www.bibleserver.com/TR/Vahiy11%3A4" %}}’”. Bu, {{% bible val="Zekeriya" link="https://www.bibleserver.com/TR/Zekeriya4%3A2-14" %}} peygambere bir göndermedir (burada Başkâhin Yeşu ve Davut’un soyundan gelen Zerubbabil ile özdeşleştirilir) ama aynı zamanda {{% bible val="kandillerle özdeşleştirilen yedi kiliseye de bir göndermedir" link="https://www.bibleserver.com/TR/Vahiy1%3A20" %}}.
 
-Bu, İsa’nın [birinci ve ikinci gelişi arasındaki tüm zamanı ifade eden](/bible/daniel/expl/the-secret-of-the-3-5-years) {{% bible val="3,5 yıl " link="https://www.bibleserver.com/TR/Vahiy11%3A3" %}}tartışmasıyla daha da doğrulanmaktadır, bu nedenle bunların insanlar değil, kilisenin kendisi olduğunu varsaymak zorundayız.
+Bu, İsa’nın {{% int_link val="birinci ve ikinci gelişi arasındaki tüm zamanı ifade eden" link="/bible/daniel/expl/the-secret-of-the-3-5-years" %}} {{% bible val="3,5 yıl " link="https://www.bibleserver.com/TR/Vahiy11%3A3" %}}tartışmasıyla daha da doğrulanmaktadır, bu nedenle bunların insanlar değil, kilisenin kendisi olduğunu varsaymak zorundayız.
 
 Bunları belirli kişilerle ilişkilendirmek için birçok olasılık vardır, ancak en iyi eşleşme Musa ve İlyas’tır, çünkü mucizeleri iyi yansıtırlar, {{% bible val="düşmanlarının üzerine gökten ateş yağdırmak" link="https://www.bibleserver.com/TR/Vahiy11%3A5" %}} {{% bible val="İlyas" link="https://www.bibleserver.com/TR/1.Krallar1" %}} için çok tipiktir ve {{% bible val="İlyas’ın hizmetini" link="https://www.bibleserver.com/TR/Yakup5%3A17" %}} yansıtan {{% bible val="yağmuru durdururken" link="https://www.bibleserver.com/TR/Vahiy11%3A6" %}}, {{% bible val="suyu kana çevirmek " link="https://www.bibleserver.com/TR/Vahiy11%3A6" %}}{{% bible val="Musa’nın yönetimindeki ilk vebayı" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F7%3A14-24" %}} yansıtır.
 
@@ -79,7 +79,7 @@ Ancak onlarda tuhaf olan bir şey var:
 
 Bu yüzden düşmüş dünyayı tövbeye çağırmak için geliyorlar.
 
-İşaretler ve mucizeler yapabilirler. Eski Ahit’in geçmişinde bu belalar, insanlara tek bir Tanrı olduğunu (ve [borazanların öğrettiği gibi](/content/trumpets/expl/the-trumpets-in-revelation) başkalarına güvenmenin güvenilir olmadığını) öğretmek için mucizeler anlamına geliyordu.
+İşaretler ve mucizeler yapabilirler. Eski Ahit’in geçmişinde bu belalar, insanlara tek bir Tanrı olduğunu (ve {{% int_link val="borazanların öğrettiği gibi" link="/content/trumpets/expl/the-trumpets-in-revelation" %}} başkalarına güvenmenin güvenilir olmadığını) öğretmek için mucizeler anlamına geliyordu.
 
 Düşmanlarını yok etmek için güç kullandıkları tek yer gökten gelen ateştir ki bu da İlyas’ın öyküsünde ateşi gönderen Tanrı’dır. Sonunda canavar tarafından bile alt edilirler.
 

@@ -13,7 +13,7 @@ docType: expl
 appl: /background/israel/appl/who-is-israel
 ---
 
-[Eski zamanlarda bir ailede olmak hayatta kalmak için gerekliydi](/background/israel/expl/the-role-of-family-in-the-bible) (tedarik, koruma, …) ve önemli bir ailede olmak daha da iyiydi.
+{{% int_link val="Eski zamanlarda bir ailede olmak hayatta kalmak için gerekliydi" link="/background/israel/expl/the-role-of-family-in-the-bible" %}} (tedarik, koruma, …) ve önemli bir ailede olmak daha da iyiydi.
 
 Ama bir aileye nasıl katılırsınız? Evlilikle, orada doğarak, evlat edinilerek ve bir SÖZLEŞME ile.
 

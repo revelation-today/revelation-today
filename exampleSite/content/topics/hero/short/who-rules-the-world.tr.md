@@ -13,9 +13,9 @@ Vahiy Kitabı bize dünyayı kimin yönettiğine dair çok karışık bir resim 
 İsa çarmıhta öldüğünde, şeytan yenilmişti. Bize öyle söylendi. Ama görünüşe göre hiçbir şey değişmedi. {{% bible val="Daha da kötüye gittiğini söyleyebilirsiniz." link="https://www.bibleserver.com/TR/Vahiy12%3A12" %}}
 
 - İsa’nın öğretisi ulaşılamaz idealler gibi görünüyordu
-- kötü i̇mparatorluklar [kehanetlere](/bible/daniel/expl/the-four-kingdoms-in-daniel) rağmen hala dünyayi yöneti̇yor
+- kötü i̇mparatorluklar {{% int_link val="kehanetlere" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}} rağmen hala dünyayi yöneti̇yor
 - Dünya daha Hıristiyan olmadı, ama Hıristiyanlar daha dünyevi oldu
-- [kilise çoğu zaman çözüm gibi değil, sorun gibi görünür](/topics/church/appl/what-is-wrong-with-the-church)
+- {{% int_link val="kilise çoğu zaman çözüm gibi değil, sorun gibi görünür" link="/topics/church/appl/what-is-wrong-with-the-church" %}}
 
 Peki neler oluyor? Bir şeyler tamamen yanlış mı gitti? Daha iyi bakmamız gerekiyor.
 
@@ -53,11 +53,11 @@ Gerilimi korumalıyız.
 ## Antrenman
 
 <a name="53e2"></a>
-Bu gerilim Vahiy kitabında imanlıların {{% bible val="krallar olarak" link="https://www.bibleserver.com/TR/Vahiy1%3A6" %}} tanımlanmasına ve iki [tanığın nihai gücüne](/content/witnesses/expl/the-two-witnesses) paralel olarak anlatılırken, [diğer tarafta canavarların meydan okumadan hükmettiği ve hatta kiliseyi alt ettiği anlatılır](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
+Bu gerilim Vahiy kitabında imanlıların {{% bible val="krallar olarak" link="https://www.bibleserver.com/TR/Vahiy1%3A6" %}} tanımlanmasına ve iki {{% int_link val="tanığın nihai gücüne" link="/content/witnesses/expl/the-two-witnesses" %}} paralel olarak anlatılırken, {{% int_link val="diğer tarafta canavarların meydan okumadan hükmettiği ve hatta kiliseyi alt ettiği anlatılır" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
 Kilit unsur, farklı şekilde yönetiyor olmalarıdır. Şeytan hayvanlarla birlikte zulümle, tanıklar ise tanıklıklarıyla ölüme kadar hükmederler.
 
 Şeytan insanları boyun eğmeye zorlar, tanıklar ise yaşamlarını derinden değiştirmeleri için insanları etkiler.
 
-[Bu 1000 yıllık krallıkta açıkça belirtilmiştir ki, aslında hükmedenler tanıklardır.](/content/1000y/expl/the-thousand-year-kingdom)
+{{% int_link val="Bu 1000 yıllık krallıkta açıkça belirtilmiştir ki, aslında hükmedenler tanıklardır." link="/content/1000y/expl/the-thousand-year-kingdom" %}}
 

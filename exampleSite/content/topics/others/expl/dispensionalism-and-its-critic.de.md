@@ -31,7 +31,7 @@ Die Theorie ignoriert die Art der Literatur der Offenbarung: eine apokalyptische
 ## Nicht relevant für die ersten Leser
 
 <a name="1325"></a>
-Diese Theorie macht für die ersten Leser keinen Sinn. Das Argument, dass es sich wie beim Buch Daniel um Dinge handelt, die in der Zukunft liegen, ist nicht stichhaltig, da das Buch Daniel versiegelt wurde (bis die Zeit erfüllt ist), was bei der {{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung22%2C10" %}} nicht der Fall ist. Außerdem ist die Offenbarung (auch) ein [Brief, der vor allem für die ersten Leser relevant sein muss](/background/literature/expl/the-book-of-revelation-how-to-read-it).
+Diese Theorie macht für die ersten Leser keinen Sinn. Das Argument, dass es sich wie beim Buch Daniel um Dinge handelt, die in der Zukunft liegen, ist nicht stichhaltig, da das Buch Daniel versiegelt wurde (bis die Zeit erfüllt ist), was bei der {{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung22%2C10" %}} nicht der Fall ist. Außerdem ist die Offenbarung (auch) ein {{% int_link val="Brief, der vor allem für die ersten Leser relevant sein muss" link="/background/literature/expl/the-book-of-revelation-how-to-read-it" %}}.
 
 ## Kontext basiert
 
@@ -55,17 +55,17 @@ Mit diesem Ansatz sind einige Probleme verbunden:
 ## Keine Entrückung
 
 <a name="7246"></a>
-[Es wird keine Entrückung geben](/topics/others/expl/the-rapture).
+{{% int_link val="Es wird keine Entrückung geben" link="/topics/others/expl/the-rapture" %}}.
 
 ## Der dritte Tempel
 
 <a name="6193"></a>
-Die Theorie spricht von einen dritten Tempel, der in Jerusalem gebaut werden soll, basierend auf der {{% bible val="Bibelstelle, dass der Außenbezirk des Tempels den Heiden gegeben wird" link="https://www.bibleserver.com/SLT/Offenbarung11%2C1-2" %}}. Da es momentan keinen Tempel gibt, muss er gebaut werden. Diese Interpretation beachtet nicht, dass der[ Tempel nicht notwendigerweise ein Gebäude ist, sondern die Beschreibung der Gegenwart Gottes](/bible/keyword/expl/the-temple-and-the-presence-of-god).
+Die Theorie spricht von einen dritten Tempel, der in Jerusalem gebaut werden soll, basierend auf der {{% bible val="Bibelstelle, dass der Außenbezirk des Tempels den Heiden gegeben wird" link="https://www.bibleserver.com/SLT/Offenbarung11%2C1-2" %}}. Da es momentan keinen Tempel gibt, muss er gebaut werden. Diese Interpretation beachtet nicht, dass der{{% int_link val=" Tempel nicht notwendigerweise ein Gebäude ist, sondern die Beschreibung der Gegenwart Gottes" link="/bible/keyword/expl/the-temple-and-the-presence-of-god" %}}.
 
 ## Die Trübsal
 
 <a name="055e"></a>
-[Das ist eine längere Geschichte](/content/army/expl/the-end-time-and-the-great-tribulation).
+{{% int_link val="Das ist eine längere Geschichte" link="/content/army/expl/the-end-time-and-the-great-tribulation" %}}.
 
 ## Die Gemeinde und Israel
 
@@ -76,7 +76,7 @@ An dieser Theorie ist einiges falsch, aber sie ist zumindest ein Gegengewicht zu
 
 Also, was ist jetzt mit diesem Ansatz falsch?
 
-- Die [Gemeinde wird als Israel identifiziert](/background/israel/expl/the-church-is-part-of-israel), da die Gemeinde die Erfüllung der Berufung Israels ist und die {{% bible val="Gemeinde nun Teil von Israel ist" link="https://www.bibleserver.com/SLT/R%C3%B6mer11%2C13-24" %}}.
+- Die {{% int_link val="Gemeinde wird als Israel identifiziert" link="/background/israel/expl/the-church-is-part-of-israel" %}}, da die Gemeinde die Erfüllung der Berufung Israels ist und die {{% bible val="Gemeinde nun Teil von Israel ist" link="https://www.bibleserver.com/SLT/R%C3%B6mer11%2C13-24" %}}.
 - Es gibt {{% bible val="keinen Unterschied (Mauer) zwischen Israel und den Nationen" link="https://www.bibleserver.com/SLT/Epheser2%2C11-22" %}}.
 - Nicht die Gemeinde ist nur vorübergehend, sondern der {{% bible val="Bund am Sinai, während der Bund mit Jesus die Erfüllung des Bundes mit Abraham ist" link="https://www.bibleserver.com/SLT/Galater3%2C15-29" %}}.
 - Die Gemeinde verschwindet nicht, nur weil der Ausdruck verschwindet. In dem ersten drei Kapiteln werden konkrete Gemeinden in Kleinasien angesprochen mit ihren Problemen und Verheißungen. Diese Verheißungen werden dann konkret im Kapitel 21 wieder aufgenommen.
@@ -90,7 +90,7 @@ Die wichtigste Teil dieser Theorie (Drangsal und Entrückung) werden nur einmal,
 ## Die Grundlage des Glaubens
 
 <a name="ab07"></a>
-Der Grund für den Glauben ist in dieser Theorie die Angst — wenn du nicht glaubst, wirst du nicht entrückt und wirst zurückgelassen. Aber [Angst ist keine Eigenschaft der Gemeinde, sondern des Tieres](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Außerdem wird der Glaube darauf reduziert, “gerettet” zu sein, nicht wie Jesus zu werden oder den Nächsten zu lieben und die Gesellschaft zu beeinflussen.
+Der Grund für den Glauben ist in dieser Theorie die Angst — wenn du nicht glaubst, wirst du nicht entrückt und wirst zurückgelassen. Aber {{% int_link val="Angst ist keine Eigenschaft der Gemeinde, sondern des Tieres" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Außerdem wird der Glaube darauf reduziert, “gerettet” zu sein, nicht wie Jesus zu werden oder den Nächsten zu lieben und die Gesellschaft zu beeinflussen.
 
 ## Die christliche Waffenrüstung
 

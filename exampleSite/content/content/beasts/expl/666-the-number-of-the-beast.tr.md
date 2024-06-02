@@ -20,8 +20,8 @@ sources:
 Bu konuyu daha derinlemesine incelemek için öncelikle biraz arka plana ihtiyacımız var:
 
 - [Gematria](https://en.wikipedia.org/wiki/Gematria): Bu 666 sayısını anlamak için kullanılan en yaygın yaklaşımdır. Alfabenin her bir değeri sayısal bir değere bağlanır ve değerlerin toplamı 666'ya ulaşırsa o kötü adamdır. Eğer bu uygun değilse ismin varyantlarını ya da İbranice, Latince, Yunanca gibi farklı dilleri kullanabilir ya da bunu üçlü bir altı olarak ele alabilirsiniz (yani Ronald Wilson Reagan canavar olarak kabul edilmiştir çünkü üç ismi 6 harften oluşmaktadır). [Biraz sabırla tarihteki ve günümüzdeki birçok ismi 666 ile eşleştirebileceğiniz gibi](https://en.wikipedia.org/wiki/Number_of_the_beast), bu yöntem çok fazla kötüye kullanılmıştır, çünkü “her anahtara uyan bir kilit çok değerli değildir”.
-- Sayılar: Kutsal Kitap’ta sayılar genellikle olaylarla ilişkilendirilir, {{% bible val="örneğin Musa Sina Dağı’nda yasayı alırken 40 gün oruç tuttu" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F34%3A28" %}}, {{% bible val="halk yeni toprakları 40 günde kontrol etti" link="https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m14%3A34" %}} ve {{% bible val="inançsızlıkları nedeniyle 40 yıl boyunca çölde dolaşmak zorunda kaldılar" link="https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m14%3A34" %}}. Sizce {{% bible val="İsa’nın çölde 40 gün oruç tutması, İsrail’in 40 yıl boyunca çölde dolaşırken karşılaştığı zorluklarla yüzleşmesi bir tesadüf müydü" link="https://www.bibleserver.com/TR/Matta4%3A1-11" %}}? 40 sayısının {{% bible val="inanç eylemleriyle" link="https://www.bibleserver.com/search/TR/k%C4%B1rk%20g%C3%BCn" %}} ilgili olduğunu söyleyebiliriz. {{% bible val="Aynı şekilde 7 sayısı da tamamlanma ve Tanrı’nın dünyayı 7 günde tamamlamasıyla ilgilidir" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F2%3A1-3" %}}. Öte yandan 6 sayısı, 6. günde yaratıldığı için insana ve insanın kusurlu eylemlerine atıfta bulunur. [Sayılar hakkında daha fazla bilgi için bkz](/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation).
-- Bir mektup: [Her zaman orijinal okuyucularla ilgili referanslara dikkat etmemiz gerektiğini gördük](/background/literature/expl/the-book-of-revelation-how-to-read-it). Peki 666 ilk kilise zamanında ne anlama geliyordu?
+- Sayılar: Kutsal Kitap’ta sayılar genellikle olaylarla ilişkilendirilir, {{% bible val="örneğin Musa Sina Dağı’nda yasayı alırken 40 gün oruç tuttu" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F34%3A28" %}}, {{% bible val="halk yeni toprakları 40 günde kontrol etti" link="https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m14%3A34" %}} ve {{% bible val="inançsızlıkları nedeniyle 40 yıl boyunca çölde dolaşmak zorunda kaldılar" link="https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m14%3A34" %}}. Sizce {{% bible val="İsa’nın çölde 40 gün oruç tutması, İsrail’in 40 yıl boyunca çölde dolaşırken karşılaştığı zorluklarla yüzleşmesi bir tesadüf müydü" link="https://www.bibleserver.com/TR/Matta4%3A1-11" %}}? 40 sayısının {{% bible val="inanç eylemleriyle" link="https://www.bibleserver.com/search/TR/k%C4%B1rk%20g%C3%BCn" %}} ilgili olduğunu söyleyebiliriz. {{% bible val="Aynı şekilde 7 sayısı da tamamlanma ve Tanrı’nın dünyayı 7 günde tamamlamasıyla ilgilidir" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F2%3A1-3" %}}. Öte yandan 6 sayısı, 6. günde yaratıldığı için insana ve insanın kusurlu eylemlerine atıfta bulunur. {{% int_link val="Sayılar hakkında daha fazla bilgi için bkz" link="/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation" %}}.
+- Bir mektup: {{% int_link val="Her zaman orijinal okuyucularla ilgili referanslara dikkat etmemiz gerektiğini gördük" link="/background/literature/expl/the-book-of-revelation-how-to-read-it" %}}. Peki 666 ilk kilise zamanında ne anlama geliyordu?
 
 ## 6–6–6: Şeytani üçlünün başarısızlığı
 
@@ -39,14 +39,14 @@ Eğer benimle birlikte saydıysanız 6–6–6'yı bulursunuz. Canavarın sayıs
 ## Bağlam içinde 666
 
 <a name="68bc"></a>
-666 sayısının bazı çok [ilginç aritmetik özellikleri](/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation#bc16) ve Vahiy kitabının içinde bağlantıları vardır
+666 sayısının bazı çok {{% int_link val="ilginç aritmetik özellikleri" link="/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation#bc16" %}} ve Vahiy kitabının içinde bağlantıları vardır
 
 - 666 sayısı dirilişle ilgili olan 8 sayısıyla ilişkilidir (İsa 8. günde dirilmiştir — Şabat’tan bir gün sonra, yani yeni haftanın ilk gününde ya da daha doğrusu yeni yaratılışın ilk gününde!!!). Diriliş konusu aynı zamanda {{% bible val="ilk canavarın tasvirinde" link="https://www.bibleserver.com/TR/Vahiy13%3A3" %}}, {{% bible val="altıncı kâsede" link="https://www.bibleserver.com/TR/Vahiy16%3A13" %}} (kurbağalar Mısır’ın doğum ve diriliş tanrıçasını temsil eder) ve {{% bible val="fahişenin oturduğu canavarın tasvirinde de öne çıkar" link="https://www.bibleserver.com/TR/Vahiy18%3A11" %}}. [Bilgelik ihtiyacı olarak tanımlanan](https://biblehub.com/interlinear/revelation/13-18.htm) bu {{% bible val="bölüm ile daha sonra yedi baştan (=kral) biri ve aynı zamanda sekizincisi (kral) " link="https://www.bibleserver.com/TR/Vahiy17%3A11" %}}olarak [tanımlanan fahişenin üzerinde oturduğu canavar hakkındaki bilgelik](https://biblehub.com/interlinear/revelation/17-9.htm) ihtiyacı arasında güçlü bir benzerlik vardır!
 - İfade bunu bir {{% bible val="insan sayısı olarak tanımlar" link="https://www.bibleserver.com/TR/Vahiy13%3A18" %}} ve {{% bible val="144,000'den bahsedilmesinden" link="https://www.bibleserver.com/TR/Vahiy14%3A1" %}} hemen önce gelir ki bu da yine duvarın bir meleğin [12*12=144(!) birimi olarak ölçüldüğü](https://biblehub.com/interlinear/revelation/21-17.htm) Yeni Yeruşalim’e (onların bulunacağı yer) bağlanır. Bunun ne anlama geldiği tam olarak açık olmasa da, canavar (alçaltılmış insanlık) ile tanıklar (meleklerin konumuna yüceltilmiş) arasındaki farkı bir kez daha göstermektedir
 
 Bu bize iki yönü göstermektedir
 
-- Bu, etkileyici bir şeyin kesinlikle zayıf, zayıf olanın ise üstün olarak gösterildiği [Armageddon](/content/bowls/expl/the-key-to-armageddon) ile benzer bir konudur.
+- Bu, etkileyici bir şeyin kesinlikle zayıf, zayıf olanın ise üstün olarak gösterildiği {{% int_link val="Armageddon" link="/content/bowls/expl/the-key-to-armageddon" %}} ile benzer bir konudur.
 - Buradaki pasaj, sekizinci kral olarak 666'nın sırrının çözümüne işaret etmektedir.
 
 ## İmparator Trajan
@@ -54,7 +54,7 @@ Bu bize iki yönü göstermektedir
 <a name="db4a"></a>
 Bu bölümün başında gematriadan bahsettiğimiz için, aşağıdaki nedenlerden dolayı bu kategoriye giren bir hususla başlıyorum:
 
-- [Bu dönemde yaşadığı için ilk okuyucular için önemlidir](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- {{% int_link val="Bu dönemde yaşadığı için ilk okuyucular için önemlidir" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}
 - canavarın çifte saldırısını yansıtıyor
 
 Bu tanıma uyan kişi imparator [Trajan](https://en.wikipedia.org/wiki/Trajan)’dır.
@@ -91,7 +91,7 @@ Peki, ilk dinleyiciler ve bizim için bundan çıkarılacak sonuç nedir?
 - Salomon’un başarısız olduğu gibi Tanrı’dan ve Evangelist üçlüden en iyisini almaya çalışarak (hala Tanrı’yı izlediğinizi düşünerek) ödün verirseniz çekici bir yaşam tarafından baştan çıkarılmamalısınız
 - Bu durum, kendi dönemlerinde zenginlik ve güvenlik getirmiş gibi görünen ancak ellerinde Hıristiyanların kanı bulunan Trajan örneğinde görülmüştür
 
-Öyleyse bugün, [666'nın ilkelerini](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) nasıl gördüğümüze bir göz atalım ve eğer
+Öyleyse bugün, {{% int_link val="666'nın ilkelerini" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}} nasıl gördüğümüze bir göz atalım ve eğer
 
 - bunlar tanrısal ilkeleri takip eder ve kalır veya
 - şeytanın cazip görünen ama felaketle sonuçlanacak ve Tanrı’dan uzaklaştıracak ilkelerini izler

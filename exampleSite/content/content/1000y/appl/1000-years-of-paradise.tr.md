@@ -52,4 +52,4 @@ Bu bölüm mesajın özünün kısa bir özetini vermektedir: Kilise, tanıklık
 - Mesih’e inandığınız için (bilinçaltında bile olsa) kral muamelesi gördüğünüzü nerede gördünüz?
 - Dayanmak için size ne umut veriyor?
 
-[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
+{{% int_link val="Daha büyük bağlam" link="/gen/index/appl/the-book-of-revelation" %}}

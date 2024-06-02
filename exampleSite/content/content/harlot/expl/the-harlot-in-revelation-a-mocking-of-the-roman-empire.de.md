@@ -36,7 +36,7 @@ Was hat der Text der Apokalypse mit dieser Münze zu tun?
 - Die Hügel Roms stehen für das Tier und die Könige, die die Hure Rom zerstören werden — Roma ist das Opfer der Stadt, die sie beschützt.
 - Das Schwert Roms schützt nicht vor Feinden, sondern ist mit dem Blut der Heiligen getränkt.
 
-Die Münze zeigt, wie der [Römische Friede](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) in ein Bild des Ekels und des Abscheus verwandelt wird, das jeden Gläubigen, der die Münze sieht, daran erinnert, dass man Rom nicht trauen kann — eine wirksame Gegenpropaganda.
+Die Münze zeigt, wie der {{% int_link val="Römische Friede" link="/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation" %}} in ein Bild des Ekels und des Abscheus verwandelt wird, das jeden Gläubigen, der die Münze sieht, daran erinnert, dass man Rom nicht trauen kann — eine wirksame Gegenpropaganda.
 
 ## Die [Ekphrasis](https://de.wikipedia.org/wiki/Ekphrasis)
 

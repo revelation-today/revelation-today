@@ -10,7 +10,7 @@ docType: expl
 
 Musa’nın hikayesi antik dünyada bilinen tüm kahramanlık hikayelerinin senaryosuna aykırıdır, ancak bu bir başarı hikayesidir.
 
-Bu hikâye Kutsal Kitap’ta sadece iki bölüm uzunluğundadır ve daha önce okunmaya değerdir. İlk olarak, [ikinci bir Hiksos’tan](/bible/exodus/expl/the-story-before-the-exodus) kaçınmak için {{% bible val="İsrailoğullarını küçük tutmanın hikâyesi" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1" %}} ve daha sonra {{% bible val="Musa’nın hikâyesi" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2" %}}
+Bu hikâye Kutsal Kitap’ta sadece iki bölüm uzunluğundadır ve daha önce okunmaya değerdir. İlk olarak, {{% int_link val="ikinci bir Hiksos’tan" link="/bible/exodus/expl/the-story-before-the-exodus" %}} kaçınmak için {{% bible val="İsrailoğullarını küçük tutmanın hikâyesi" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1" %}} ve daha sonra {{% bible val="Musa’nın hikâyesi" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F2" %}}
 
 ## İkinci bir Hyksos’a karşı mücadele
 
@@ -55,5 +55,5 @@ Sonunda her şey yoluna girer çünkü hikâyenin gerçek kahramanı Musa değil
 
 ## Daha fazla kazma
 
-[Nahum Sarna, Exodus, sayfalar 27–37](/about/ressources/index.html#sarna_exo)
+{{% int_link val="Nahum Sarna, Exodus, sayfalar 27–37" link="/about/ressources/index.html#sarna_exo" %}}
 

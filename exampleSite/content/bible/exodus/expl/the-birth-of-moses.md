@@ -10,7 +10,7 @@ docType: expl
 
 The story of Moses is against the script of every hero story known in the ancient world, but it is a success story.
 
-The story is only two chapters long in the Bible and is worth reading in advance. It is first the {{% bible val="story of keeping the Israelites" link="https://www.bibleserver.com/NIV/Exodus1" %}} small to avoid a second [Hyksos](/bible/exodus/expl/the-story-before-the-exodus) and then the {{% bible val="story of Moses" link="https://www.bibleserver.com/NIV/Exodus2" %}}.
+The story is only two chapters long in the Bible and is worth reading in advance. It is first the {{% bible val="story of keeping the Israelites" link="https://www.bibleserver.com/NIV/Exodus1" %}} small to avoid a second {{% int_link val="Hyksos" link="/bible/exodus/expl/the-story-before-the-exodus" %}} and then the {{% bible val="story of Moses" link="https://www.bibleserver.com/NIV/Exodus2" %}}.
 
 ## The fight against a second Hyksos
 
@@ -55,5 +55,5 @@ At the end all works out because the real hero of the story is no Moses but God.
 
 ## Dig deeper
 
-[Nahum Sarna, Exodus, pages 27–37](/about/ressources/index.html#sarna_exo)
+{{% int_link val="Nahum Sarna, Exodus, pages 27–37" link="/about/ressources/index.html#sarna_exo" %}}
 

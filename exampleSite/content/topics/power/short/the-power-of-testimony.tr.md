@@ -11,7 +11,7 @@ Tanıklık ve şahitler vahiyde kilit bir konudur. Bu konunun orada ne kadar ço
 ## Her yerde
 
 <a name="a5c1"></a>
-Bu konu tüm kitap boyunca devam eder ve sadece [ibadetle](/topics/power/short/worship) bastırılan kilit bir konudur.
+Bu konu tüm kitap boyunca devam eder ve sadece {{% int_link val="ibadetle" link="/topics/power/short/worship" %}} bastırılan kilit bir konudur.
 
 ## Ana tanık
 
@@ -65,7 +65,7 @@ Tanıklık, görmezden gelemeyeceğimiz bir şeyi deneyimlediğimiz anlamına ge
 
 Ama biz hayatımızı değiştiren bir şeyin tanıklarıyız. İsa unutamayacağımız bir şekilde yaşadı. Tanrı’ya derin bir bağımlılık içinde yaşadı ve hayatından vazgeçecek kadar farklı bir yaşam tarzını benimseyebildi. Kilise tarihine baktığımızda bunun gibi pek çok örnekle karşılaşırız.
 
-Tanık olmanın anahtarı, kitapta daha da baskın bir konu olan ibadettir. İbadet sadakat demektir. [Ölüme kadar sadakat](/topics/power/short/worship). Tanık kelimesinin Yunancası şehittir, çünkü kilisenin ilk yıllarında tanıklıkları o kadar ileri gitmiştir ki, tanıklıkları uğruna hayatlarını bırakmaya istekli ve muktedir olmuşlardır. Ve ölümden çok korkmalıyız, çünkü vaat şudur: {{% bible val="Bu gerçekleşmeden önce kaderimizi yerine getireceğiz" link="https://www.bibleserver.com/TR/Vahiy11%3A7" %}}.
+Tanık olmanın anahtarı, kitapta daha da baskın bir konu olan ibadettir. İbadet sadakat demektir. {{% int_link val="Ölüme kadar sadakat" link="/topics/power/short/worship" %}}. Tanık kelimesinin Yunancası şehittir, çünkü kilisenin ilk yıllarında tanıklıkları o kadar ileri gitmiştir ki, tanıklıkları uğruna hayatlarını bırakmaya istekli ve muktedir olmuşlardır. Ve ölümden çok korkmalıyız, çünkü vaat şudur: {{% bible val="Bu gerçekleşmeden önce kaderimizi yerine getireceğiz" link="https://www.bibleserver.com/TR/Vahiy11%3A7" %}}.
 
 Ancak insanlar (bu kadar) ileri gittiklerinde, gördüklerinin yaşadıkları olduğuna dair herhangi bir retorikten daha ikna edici oluyor ve bu o kadar değerli görünüyor ki, bunu gören — şimdi tanık olan — insanlar bunu takip etmeye çok daha hevesli oluyorlar.
 

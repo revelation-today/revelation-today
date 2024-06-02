@@ -22,8 +22,8 @@ Tanrı'nın gönderdiği dört bela temel alınarak bir araya getirilmişlerdir:
 Şeytan'ın boş vaatlerden başka sunabileceği bir şey yoktur. Bu yüzden yapabileceği tek şeyi yapar: Mesih'i taklit eder, ama artık açığa çıkmıştır.
 
 Bu üçlü resim (burada dördüncü atlı diğer üçünün sadece bir özetidir) kitapta devam eder:
-- [13. bölümde] (https://www.bibleserver.com/TR/Vahiy13) iki canavar ve Şeytan'ın arka planda ejderha olarak yer aldığı bir [üçleme](/içerik/canavarlar/hızlı) de görürüz
-- Ayrıca [fahişe ve canavar](/content/harlot/quick) (13. bölümün ilk canavarı) ile {{% bible val="17. bölüm" link="https://www.bibleserver.com/TR/Vahiy17" %}} bu konuyu yansıtır. Burada Şeytan daha da gizlidir.
+- [13. bölümde] (https://www.bibleserver.com/TR/Vahiy13) iki canavar ve Şeytan'ın arka planda ejderha olarak yer aldığı bir {{% int_link val="üçleme" link="/içerik/canavarlar/hızlı" %}} de görürüz
+- Ayrıca {{% int_link val="fahişe ve canavar" link="/content/harlot/quick" %}} (13. bölümün ilk canavarı) ile {{% bible val="17. bölüm" link="https://www.bibleserver.com/TR/Vahiy17" %}} bu konuyu yansıtır. Burada Şeytan daha da gizlidir.
 
 ![](/images/trinity_en.jpg)
 

@@ -15,16 +15,16 @@ sources:
       ref: beale_rev
 ---
 
-Die Posaunen der Offenbarung in den Kapiteln 8, 9 und 11 spiegeln für viele Menschen die Katastrophen der damaligen Zeit wider, aber sie beziehen sich in erster Linie auf die [Plagen in Ägypten](/bible/exodus/expl/the-plagues-in-egypt).
+Die Posaunen der Offenbarung in den Kapiteln 8, 9 und 11 spiegeln für viele Menschen die Katastrophen der damaligen Zeit wider, aber sie beziehen sich in erster Linie auf die {{% int_link val="Plagen in Ägypten" link="/bible/exodus/expl/the-plagues-in-egypt" %}}.
 
 Die Posaunen sind die zweite Serie von sieben Ereignissen, von denen in diesem Buch berichtet wird. Sie beginnen mit dem siebten Siegel, und dieser Abschnitt verdient besondere Aufmerksamkeit.
 
 ## Was du vorher lesen solltest
 
 <a name="50de"></a>
-- [Historischer Hintergrund des Buches](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- {{% int_link val="Historischer Hintergrund des Buches" link="/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation" %}}
 - [Was für ein Buch ist die Offenbarung?](/background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Die Plagen in Ägypten](/bible/exodus/expl/the-plagues-in-egypt)
+- {{% int_link val="Die Plagen in Ägypten" link="/bible/exodus/expl/the-plagues-in-egypt" %}}
 
 ## Der Ursprung der Posaunen
 
@@ -44,7 +44,7 @@ Andererseits: Wollen wir wirklich, dass unsere Gebete das Drama verursachen, das
 ## Die ersten vier Posaunen
 
 <a name="e565"></a>
-Die [Plagen in Ägypten](/bible/exodus/expl/the-plagues-in-egypt) haben gezeigt, dass man sich nicht auf den Pharao und seine Götter verlassen kann. Sie haben keine Zukunft und niemand sollte sein Vertrauen darauf setzen.
+Die {{% int_link val="Plagen in Ägypten" link="/bible/exodus/expl/the-plagues-in-egypt" %}} haben gezeigt, dass man sich nicht auf den Pharao und seine Götter verlassen kann. Sie haben keine Zukunft und niemand sollte sein Vertrauen darauf setzen.
 
 Die Posaunen nehmen den Menschen alle Sicherheiten, {{% bible val="wie es im Hebräerbrief heißt" link="https://www.bibleserver.com/SLT/Hebr%C3%A4er12%2C26-28" %}}. Die Menschen sollen an unserem Leben erkennen, dass das Reich Gottes eine bessere Sicherheit ist als das, woran sie sich klammern.
 
@@ -56,7 +56,7 @@ Die Posaunen nehmen den Menschen alle Sicherheiten, {{% bible val="wie es im Heb
 
 {{% bible val="Die vierte Posaune" link="https://www.bibleserver.com/SLT/Offenbarung8%2C12-13" %}} nimmt einen wesentlichen Teil des Lichtes und damit auch der Orientierung (für die Seefahrt). Sie ähnelt der {{% bible val="neunten Plage" link="https://www.bibleserver.com/SLT/2.Mose10%2C22-23" %}}, die eine extreme Wirkung hatte und auch den Unterschied zwischen Ägyptern und Israeliten zeigte.
 
-Warum wirken sich die Plagen nur auf den dritten Teil aus? Die Posaunen richten sich gegen Gottes Schöpfung (auch die letzten Posaunen gegen den Menschen), die unter die Sünde gefallen ist. Da ein [mit Satan ein Drittel der Sterne gefallen ist](/content/jesus/expl/a-different-christmas-story), wird daher vermutlich auch eine Drittel der Schöpfung betroffen sein.
+Warum wirken sich die Plagen nur auf den dritten Teil aus? Die Posaunen richten sich gegen Gottes Schöpfung (auch die letzten Posaunen gegen den Menschen), die unter die Sünde gefallen ist. Da ein {{% int_link val="mit Satan ein Drittel der Sterne gefallen ist" link="/content/jesus/expl/a-different-christmas-story" %}}, wird daher vermutlich auch eine Drittel der Schöpfung betroffen sein.
 
 ## Die fünfte und sechste Posaune
 
@@ -71,7 +71,7 @@ Gottes Volk wird beschützt, nicht unbedingt vor dem Leiden, {{% bible val="aber
 
 Diese Plage ist parallel zu der Plage, in {{% bible val="der der Pharao seine Sünde bekennt" link="https://www.bibleserver.com/SLT/2.Mose10%2C13-17" %}} und {{% bible val="auch seine Beamten ihn bitten, sich Gott unterzuordnen." link="https://www.bibleserver.com/SLT/2.Mose10%2C7" %}}
 
-{{% bible val="Die sechste Posaune" link="https://www.bibleserver.com/SLT/Offenbarung9%2C13-21" %}} geht noch einen Schritt weiter und richtet sich gegen das Leben der Menschen selbst. {{% bible val="Vier Engel werden am Euphrat" link="https://www.bibleserver.com/SLT/Offenbarung9%2C14" %}} ([dem Fluss, an dem Babel lag](https://de.wikipedia.org/wiki/Babylon)) für eine bestimmte Zeit losgelassen. Es gibt starke {{% bible val="Parallelen zur sechsten Schale" link="https://www.bibleserver.com/SLT/Offenbarung16%2C12-14" %}} und der Versamlung von [Harmagedon](/content/bowls/expl/the-key-to-armageddon).
+{{% bible val="Die sechste Posaune" link="https://www.bibleserver.com/SLT/Offenbarung9%2C13-21" %}} geht noch einen Schritt weiter und richtet sich gegen das Leben der Menschen selbst. {{% bible val="Vier Engel werden am Euphrat" link="https://www.bibleserver.com/SLT/Offenbarung9%2C14" %}} ([dem Fluss, an dem Babel lag](https://de.wikipedia.org/wiki/Babylon)) für eine bestimmte Zeit losgelassen. Es gibt starke {{% bible val="Parallelen zur sechsten Schale" link="https://www.bibleserver.com/SLT/Offenbarung16%2C12-14" %}} und der Versamlung von {{% int_link val="Harmagedon" link="/content/bowls/expl/the-key-to-armageddon" %}}.
 
 Es ist eine Armee von 2*10.000*10.000 ([10.000 ist die höchste Zahl, die im griechischen System als einzelnes Zeichen geschrieben werden kann](https://de.wikipedia.org/wiki/Griechische_Zahlzeichen#Die_akrophonischen_Zahlen)), also eine ungrenzte Armee.
 

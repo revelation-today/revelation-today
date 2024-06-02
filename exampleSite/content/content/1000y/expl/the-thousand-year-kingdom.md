@@ -80,7 +80,7 @@ Or could it be that these are two different battles? Well, there are some concer
 ## Further arguments for one battle
 
 <a name="ba8d"></a>
-- During the actions of the sixth seal the armies are gathered (at [Armageddon which refers to a mountain](/content/bowls/expl/the-key-to-armageddon)), so the battle is yet to happen. In the seventh bowl the defeat is announced (which is followed by a detailed description of the defeat of the harlot Babel and as a counter action the wedding of the bride), where the battle is described in detail in {{% bible val="chapter 19" link="https://www.bibleserver.com/NIV/Revelation19%3A17-21" %}}.
+- During the actions of the sixth seal the armies are gathered (at {{% int_link val="Armageddon which refers to a mountain" link="/content/bowls/expl/the-key-to-armageddon" %}}), so the battle is yet to happen. In the seventh bowl the defeat is announced (which is followed by a detailed description of the defeat of the harlot Babel and as a counter action the wedding of the bride), where the battle is described in detail in {{% bible val="chapter 19" link="https://www.bibleserver.com/NIV/Revelation19%3A17-21" %}}.
 - At the {{% bible val="beginning of the bowls it is stated that these are the final plagues" link="https://www.bibleserver.com/NIV/Revelation15%3A1" %}} which would be the {{% bible val="destruction of the devil’s kingdom" link="https://www.bibleserver.com/NIV/Revelation16%3A18-20" %}} which is done in {{% bible val="chapter 19" link="https://www.bibleserver.com/NIV/Revelation19%3A17-21" %}}, any further battle after that must be a recapitulation of chapter 19.
 
 ## The binding of Satan

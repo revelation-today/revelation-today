@@ -57,19 +57,19 @@ There are several flaws in this approach:
 ### No rapture
 
 <a name="436d"></a>
-[There is no rapture.](/topics/others/expl/the-rapture)
+{{% int_link val="There is no rapture." link="/topics/others/expl/the-rapture" %}}
 
 ### The third temple
 
 <a name="3d3b"></a>
-The theory speaks of a new temple being built in Jerusalem, based on the {{% bible val="fact that the temple is given to the Gentiles in Revelation" link="https://www.bibleserver.com/NIV/Revelation11%3A1-2" %}}. Since there is no temple as a building right now existing, it must be built. This interpretation does not take into account that the temple is [not necessarily a building](/bible/keyword/expl/the-temple-and-the-presence-of-god) but a description of the presence of God.
+The theory speaks of a new temple being built in Jerusalem, based on the {{% bible val="fact that the temple is given to the Gentiles in Revelation" link="https://www.bibleserver.com/NIV/Revelation11%3A1-2" %}}. Since there is no temple as a building right now existing, it must be built. This interpretation does not take into account that the temple is {{% int_link val="not necessarily a building" link="/bible/keyword/expl/the-temple-and-the-presence-of-god" %}} but a description of the presence of God.
 
 Therefore, there is statement that a new temple building will be erected.
 
 ### The tribulation
 
 <a name="629d"></a>
-[This is a longer story](/content/army/expl/the-end-time-and-the-great-tribulation)
+{{% int_link val="This is a longer story" link="/content/army/expl/the-end-time-and-the-great-tribulation" %}}
 
 ### The church and Israel
 
@@ -80,7 +80,7 @@ There are several things wrong with this. But before I get to those, I want to a
 
 So what is wrong?
 
-- The church is [identified with Israel](/background/israel/expl/the-church-is-part-of-israel) in the sense that the church has become the fulfillment of Israel’s original calling and the {{% bible val="church is part of Israel" link="https://www.bibleserver.com/NIV/Romans11%3A13-24" %}}.
+- The church is {{% int_link val="identified with Israel" link="/background/israel/expl/the-church-is-part-of-israel" %}} in the sense that the church has become the fulfillment of Israel’s original calling and the {{% bible val="church is part of Israel" link="https://www.bibleserver.com/NIV/Romans11%3A13-24" %}}.
 - There is {{% bible val="no longer a wall/distinction between Israel and the Gentiles" link="https://www.bibleserver.com/NIV/Ephesians2%3A11-22" %}}.
 - It is not the church that is temporal {{% bible val="but the covenant at Sinai" link="https://www.bibleserver.com/NIV/Galatians3%3A15-29" %}}, while faith in Christ is the fulfillment of the covenant with Abraham.
 - The church does not disappear because the term disappears.
@@ -94,7 +94,7 @@ The most important things in the theory are the rapture and the tribulation, bot
 ### The reason for faith
 
 <a name="9d26"></a>
-The reason for faith in this theory is fear — if you do not believe, you will not be part of the rapture and will be left behind. Fear is not a [trait of the church but, of the beast](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Furthermore, faith is reduced to being saved, not becoming like Christ, loving your neighbor, or influencing society.
+The reason for faith in this theory is fear — if you do not believe, you will not be part of the rapture and will be left behind. Fear is not a {{% int_link val="trait of the church but, of the beast" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Furthermore, faith is reduced to being saved, not becoming like Christ, loving your neighbor, or influencing society.
 
 ### The weapons of warfare
 

@@ -13,7 +13,7 @@ sources:
 
 Die Geschichte von Moses widerspricht allen Heldengeschichten der Antike und ist doch eine Erfolgsgeschichte — warum?
 
-Die Geschichte selbst hat nur zwei Kapitel und ist es wert, vorher gelesen zu werden. Zuerst kommt die Geschichte, wie der {{% bible val="Pharao versucht, Israel klein zu halten" link="https://www.bibleserver.com/SLT/2.Mose1" %}} um “[ein zweites Hyksos](/bible/exodus/expl/the-story-before-the-exodus)” zu verhindern und dann folgt die {{% bible val="eigentliche Geschichte von Mose" link="https://www.bibleserver.com/SLT/2.Mose2" %}}.
+Die Geschichte selbst hat nur zwei Kapitel und ist es wert, vorher gelesen zu werden. Zuerst kommt die Geschichte, wie der {{% bible val="Pharao versucht, Israel klein zu halten" link="https://www.bibleserver.com/SLT/2.Mose1" %}} um “{{% int_link val="ein zweites Hyksos" link="/bible/exodus/expl/the-story-before-the-exodus" %}}” zu verhindern und dann folgt die {{% bible val="eigentliche Geschichte von Mose" link="https://www.bibleserver.com/SLT/2.Mose2" %}}.
 
 ## Das Vermeiden eines “zweiten Hyksos”
 

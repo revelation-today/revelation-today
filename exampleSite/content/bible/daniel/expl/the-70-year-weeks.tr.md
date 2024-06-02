@@ -69,7 +69,7 @@ Son özne Tanrı olduğu için, {{% bible val="İsa’nın yeni antlaşması" li
 
 “Yedi “nin ortasında, kurbanlara artık ihtiyaç kalmadığı için kurban ve {{% bible val="sunulara son verecektir" link="https://www.bibleserver.com/TR/%C4%B0braniler10%3A1-18" %}}.
 
-O iğrençliği kuracak ([orijinalde o değil, “ıssızlaştıran” ifadesi kullanılmıştır](https://biblehub.com/interlinear/daniel/9-27.htm)), dolayısıyla burada konu değişiyor ve Tiberius’a geri dönüyoruz. Orijinalde Romalıların Lejyon Kartalı’na atıfta bulunan iğrençlik kanatlarından söz edilir. Hüküm onun üzerine dökülünceye kadar daha iyi bir şekilde şöyle tercüme edilebilir: “Hükmedilen son ıssızlaştırıcının üzerine konuncaya kadar” Roma İmparatorluğu yıkılıncaya kadar anlamına gelir ki bu da bizi [Daniel 7. bölüme](/bible/daniel/expl/the-four-kingdoms-in-daniel) geri götürür.
+O iğrençliği kuracak ([orijinalde o değil, “ıssızlaştıran” ifadesi kullanılmıştır](https://biblehub.com/interlinear/daniel/9-27.htm)), dolayısıyla burada konu değişiyor ve Tiberius’a geri dönüyoruz. Orijinalde Romalıların Lejyon Kartalı’na atıfta bulunan iğrençlik kanatlarından söz edilir. Hüküm onun üzerine dökülünceye kadar daha iyi bir şekilde şöyle tercüme edilebilir: “Hükmedilen son ıssızlaştırıcının üzerine konuncaya kadar” Roma İmparatorluğu yıkılıncaya kadar anlamına gelir ki bu da bizi {{% int_link val="Daniel 7. bölüme" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}} geri götürür.
 
 ## Geçen hafta
 

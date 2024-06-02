@@ -24,8 +24,8 @@ In {{% bible val="Kapitel 11" link="https://www.bibleserver.com/SLT/Offenbarung1
 ## Was du davor lesen solltest
 
 <a name="df8e"></a>
-- [Die 3,5 Jahre](/bible/daniel/expl/the-secret-of-the-3-5-years)
-- [Die beiden Tiere](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- {{% int_link val="Die 3,5 Jahre" link="/bible/daniel/expl/the-secret-of-the-3-5-years" %}}
+- {{% int_link val="Die beiden Tiere" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}
 
 ## Die Berufung
 
@@ -45,7 +45,7 @@ In dieser Vision werden einige Teile des Tempels gemessen (Gott betrachtet sie a
 
 Der Text selbst gibt uns die entscheidenden Hinweise: “{{% bible val="Das sind die zwei Ölbäume und die zwei Leuchter, die vor dem Gott der Erde stehen" link="https://www.bibleserver.com/SLT/Offenbarung11%2C4" %}}.”. Das ist ein Hinweis auf den {{% bible val="Propheten Sacharja" link="https://www.bibleserver.com/SLT/Sacharja4%2C2-14" %}} (der mit dem Hohepriester Joshua und dem Nachfolger Davids: Serubbabel, identifiziert wird), aber vor allem wird es durch die {{% bible val="sieben Gemeinden deutlich, die mit den Leuchtern identifiziert werden" link="https://www.bibleserver.com/SLT/Offenbarung1%2C20" %}}.
 
-Dies wird durch die Diskussion über die {{% bible val="dreieinhalb Jahre" link="https://www.bibleserver.com/SLT/Offenbarung11%2C3" %}}, die [die Zeit zwischen Jesu erstem und zweitem Kommen](/bible/daniel/expl/the-secret-of-the-3-5-years) ist, bestätigt, so dass wir davon ausgehen müssen, dass es sich hier nicht um Personen, sondern um die Gemeinde handelt.
+Dies wird durch die Diskussion über die {{% bible val="dreieinhalb Jahre" link="https://www.bibleserver.com/SLT/Offenbarung11%2C3" %}}, die {{% int_link val="die Zeit zwischen Jesu erstem und zweitem Kommen" link="/bible/daniel/expl/the-secret-of-the-3-5-years" %}} ist, bestätigt, so dass wir davon ausgehen müssen, dass es sich hier nicht um Personen, sondern um die Gemeinde handelt.
 
 Es gibt verschiedene Möglichkeiten, sie mit bestimmten Personen in Verbindung zu bringen, aber der einfachste Ansatz ist, sie mit Mose und Elija zu identifizieren, da das {{% bible val="Feuer vom Himmel auf ihre Feinde" link="https://www.bibleserver.com/SLT/Offenbarung11%2C5" %}} für {{% bible val="Elija" link="https://www.bibleserver.com/SLT/1.K%C3%B6nige1" %}} charakteristisch ist, ebenso wie das {{% bible val="Stoppen des Regens" link="https://www.bibleserver.com/SLT/Offenbarung11%2C6" %}}, während das {{% bible val="Wasser zu Blut" link="https://www.bibleserver.com/SLT/Offenbarung11%2C6" %}} wird, für {{% bible val="Mose" link="https://www.bibleserver.com/SLT/2.Mose7%2C14-24" %}} charakteristisch ist.
 
@@ -77,7 +77,7 @@ Sie sind in {{% bible val="Sacktuch gekleidet" link="https://www.bibleserver.com
 
 Sie kommen, um in einer gefallenen Welt zur Umkehr aufzurufen.
 
-Sie können Zeichen und Wunder tun. Im Alten Testament wurden sie eingesetzt, um die Menschen zu lehren, dass es nur einen Gott gibt (und dass es keinen Sinn hat, einem anderen zu vertrauen, [wie die Posaunen lehren](/content/trumpets/expl/the-trumpets-in-revelation)).
+Sie können Zeichen und Wunder tun. Im Alten Testament wurden sie eingesetzt, um die Menschen zu lehren, dass es nur einen Gott gibt (und dass es keinen Sinn hat, einem anderen zu vertrauen, {{% int_link val="wie die Posaunen lehren" link="/content/trumpets/expl/the-trumpets-in-revelation" %}}).
 
 Das einzige, was sie gegen ihre Feinde einsetzen können, ist Feuer vom Himmel, wie in der Geschichte von Elija. Doch am Ende werden sie {{% bible val="vom Tier überwunden" link="https://www.bibleserver.com/SLT/Offenbarung11%2C7" %}}.
 

@@ -23,7 +23,7 @@ Bu makalede Vahiy Kitabı’nın nasıl okunması ve yorumlanması gerektiğine 
 ## Kitabın kapsamı
 
 <a name="1fc1"></a>
-Bunun için, bu kitabın dikkate almamız gereken farklı edebiyat türlerini yansıttığını anlamamız gerekir: [kıyamet, peygamberlik, mektup](/background/literature/expl/the-book-of-revelation-how-to-read-it).
+Bunun için, bu kitabın dikkate almamız gereken farklı edebiyat türlerini yansıttığını anlamamız gerekir: {{% int_link val="kıyamet, peygamberlik, mektup" link="/background/literature/expl/the-book-of-revelation-how-to-read-it" %}}.
 
 Kitabın kapsamını göz önünde bulundurmamız gerekiyor:
 
@@ -36,7 +36,7 @@ Ancak metnin kendisine daha yakından bakalım.
 ## Daniel çerçevesi
 
 <a name="6075"></a>
-Vahiy kitabında {{% bible val="Daniel 2. bölümdeki kehanetle" link="https://www.bibleserver.com/TR/Daniel2%3A28-45" %}} güçlü bir bağlantısı olan ve kitabı daha iyi anlamamıza yardımcı olacak bazı önemli bölümler vardır. Bu bölüm, Vahiy kitabında pek çok referansı olan {{% bible val="Daniel 7. bölümle" link="https://www.bibleserver.com/TR/Daniel7" %}} [paraleldir](/bible/daniel/expl/the-four-kingdoms-in-daniel).
+Vahiy kitabında {{% bible val="Daniel 2. bölümdeki kehanetle" link="https://www.bibleserver.com/TR/Daniel2%3A28-45" %}} güçlü bir bağlantısı olan ve kitabı daha iyi anlamamıza yardımcı olacak bazı önemli bölümler vardır. Bu bölüm, Vahiy kitabında pek çok referansı olan {{% bible val="Daniel 7. bölümle" link="https://www.bibleserver.com/TR/Daniel7" %}} {{% int_link val="paraleldir" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}.
 
 Bu bölüm, peygamberlik kitaplarında Vahiy’de üç kez geçen “gizem” kelimesini kullanan tek bölümdür ({{% bible val="kilisenin" link="https://www.bibleserver.com/TR/Vahiy1%3A20" %}}, {{% bible val="Tanrı’nın" link="https://www.bibleserver.com/TR/Vahiy10%3A7" %}} ve {{% bible val="canavarın" link="https://www.bibleserver.com/TR/Vahiy17%3A5" %}} gizemi).
 
@@ -98,5 +98,5 @@ Ayrıca kitabın açıkça sembol olan öğelerle dolu olduğunu göreceksiniz: 
 
 ## Daha fazla kazma
 
-[Beale, Revelation, sayfalar 50–69](/about/ressources/index.html#beale_rev)
+{{% int_link val="Beale, Revelation, sayfalar 50–69" link="/about/ressources/index.html#beale_rev" %}}
 

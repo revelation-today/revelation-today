@@ -57,19 +57,19 @@ Bu yaklaşımın çeşitli kusurları vardır:
 ## Kıyamet yok
 
 <a name="039a"></a>
-[Kıyamet falan yok.](/topics/others/expl/the-rapture)
+{{% int_link val="Kıyamet falan yok." link="/topics/others/expl/the-rapture" %}}
 
 ## Üçüncü tapınak
 
 <a name="1e67"></a>
-Teori Kudüs’te yeni bir tapınak inşa edileceğinden bahseder ki bu da {{% bible val="tapınağın Vahiy’de Yahudi olmayanlara verilmesine dayanır" link="https://www.bibleserver.com/TR/Vahiy11%3A1-2" %}}. Şu anda bina olarak bir tapınak mevcut olmadığından, inşa edilmesi gerekir. [Bu yorum, tapınağın bir bina değil](/bible/keyword/expl/the-temple-and-the-presence-of-god), Tanrı’nın varlığının bir tasviri olduğunu dikkate almaz.
+Teori Kudüs’te yeni bir tapınak inşa edileceğinden bahseder ki bu da {{% bible val="tapınağın Vahiy’de Yahudi olmayanlara verilmesine dayanır" link="https://www.bibleserver.com/TR/Vahiy11%3A1-2" %}}. Şu anda bina olarak bir tapınak mevcut olmadığından, inşa edilmesi gerekir. {{% int_link val="Bu yorum, tapınağın bir bina değil" link="/bible/keyword/expl/the-temple-and-the-presence-of-god" %}}, Tanrı’nın varlığının bir tasviri olduğunu dikkate almaz.
 
 Bu nedenle yeni bir tapınak binasının inşa edileceğine dair bir ifade vardır.
 
 ## Sıkıntı
 
 <a name="baa3"></a>
-[Bu daha uzun bir hikaye](/content/army/expl/the-end-time-and-the-great-tribulation)
+{{% int_link val="Bu daha uzun bir hikaye" link="/content/army/expl/the-end-time-and-the-great-tribulation" %}}
 
 ## Kilise ve İsrail
 
@@ -80,7 +80,7 @@ Bu konuda yanlış olan birçok şey vardır. Ancak bu konuya gelmeden önce, bu
 
 Peki sorun ne?
 
-- [kilise, İsrail’in orijinal](/background/israel/expl/the-church-is-part-of-israel) çağrısının yerine getirilmesi ve {{% bible val="kilisenin İsrail’in bir parçası" link="https://www.bibleserver.com/TR/Romal%C4%B1lar11%3A13-24" %}} olması yoluyla İsrail ile özdeşleştirilir
+- {{% int_link val="kilise, İsrail’in orijinal" link="/background/israel/expl/the-church-is-part-of-israel" %}} çağrısının yerine getirilmesi ve {{% bible val="kilisenin İsrail’in bir parçası" link="https://www.bibleserver.com/TR/Romal%C4%B1lar11%3A13-24" %}} olması yoluyla İsrail ile özdeşleştirilir
 - {{% bible val="İsrail ile diğer uluslar arasında artık bir duvar/ayrım yoktur" link="https://www.bibleserver.com/TR/Efesliler2%3A11-22" %}}
 - {{% bible val="Kilise geçici değil, Sina’daki antlaşmadır" link="https://www.bibleserver.com/TR/Galatyal%C4%B1lar3%3A15-29" %}}; Mesih’e iman ise İbrahim’le yapılan antlaşmanın yerine gelmesidir
 - kilise ortadan kalkmaz çünkü terim ortadan kalkar
@@ -94,7 +94,7 @@ En önemlileri, her ikisinden de bir kez bahsedilen kendinden geçme ve sıkınt
 ## İnancın sebebi
 
 <a name="d9ea"></a>
-İmanın nedeni bu teoride korkudur — eğer inanmazsanız kendinden geçmenin bir parçası olmayacak ve geride bırakılacaksınız. [Korku kilisenin değil, canavarın bir özelliğidir](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation). Ayrıca iman sadece kurtarılmaya indirgenmiştir, Mesih gibi olmaya, komşunuzu sevmeye ya da toplumu etkilemeye değil.
+İmanın nedeni bu teoride korkudur — eğer inanmazsanız kendinden geçmenin bir parçası olmayacak ve geride bırakılacaksınız. {{% int_link val="Korku kilisenin değil, canavarın bir özelliğidir" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Ayrıca iman sadece kurtarılmaya indirgenmiştir, Mesih gibi olmaya, komşunuzu sevmeye ya da toplumu etkilemeye değil.
 
 ## Savaş silahları
 

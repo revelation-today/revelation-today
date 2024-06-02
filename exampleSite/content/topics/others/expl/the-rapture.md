@@ -15,7 +15,7 @@ The rapture is a very fascinating subject that has captured the imagination of m
 ## Intro
 
 <a name="5046"></a>
-The rapture is the belief that before the so-called [Great Tribulation](/content/army/expl/the-end-time-and-the-great-tribulation) comes, all believers will be snatched to heaven and see the judgment from afar. This sounds a bit strange because it would be a new concept and {{% bible val="Jesus gave a different impression of it" link="https://www.bibleserver.com/NIV/Matthew13%3A36-42" %}}. And in fact, it is not biblical. So don’t worry if you think the rapture has happened and you are left behind.
+The rapture is the belief that before the so-called {{% int_link val="Great Tribulation" link="/content/army/expl/the-end-time-and-the-great-tribulation" %}} comes, all believers will be snatched to heaven and see the judgment from afar. This sounds a bit strange because it would be a new concept and {{% bible val="Jesus gave a different impression of it" link="https://www.bibleserver.com/NIV/Matthew13%3A36-42" %}}. And in fact, it is not biblical. So don’t worry if you think the rapture has happened and you are left behind.
 
 Some people mention the rapture because it is the most obvious statement of the Bible, some people even mention some Bible verses that give the impression that this has a biblical basis.
 
@@ -97,7 +97,7 @@ Matthew {{% bible val="24" link="https://www.bibleserver.com/NIV/Matthew24" %}} 
 
 The themes touched upon here describe the destruction of the temple with all the traumatic effects of the Jewish war of 66–73, and are an exhortation to faithfulness in the persecutions and tribulations to come. All of these parables do not refer to a specific time, but to an ongoing commitment to Jesus. The ethic of the goat and the sheep is not an end-time requirement, but an important criterion throughout the Old Testament for believers to fulfill God’s commandment.
 
-The interpretation of {{% bible val="the parable of the olive tree" link="https://www.bibleserver.com/NIV/Matthew24%3A32" %}} as the events of 1948 with the foundation of Israel is a too far-fetched and has no further support in the Bible. It does not refer to the new state of Israel, but [was an image for the church in the New Testament, as were many other references to Israel](/background/israel/expl/the-church-is-part-of-israel).
+The interpretation of {{% bible val="the parable of the olive tree" link="https://www.bibleserver.com/NIV/Matthew24%3A32" %}} as the events of 1948 with the foundation of Israel is a too far-fetched and has no further support in the Bible. It does not refer to the new state of Israel, but {{% int_link val="was an image for the church in the New Testament, as were many other references to Israel" link="/background/israel/expl/the-church-is-part-of-israel" %}}.
 
 ## A place for us
 

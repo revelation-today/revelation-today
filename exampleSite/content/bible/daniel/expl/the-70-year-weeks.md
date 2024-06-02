@@ -63,7 +63,7 @@ Since the last subject is God, He will make a {{% bible val="covenant with many"
 
 In the middle of the “seven” he will put an end to sacrifice and offering, for {{% bible val="sacrifice is no longer needed" link="https://www.bibleserver.com/NIV/Hebrews10%3A1-18" %}}.
 
-He will set up an abomination ([the original does not use “he”, but “one who makes desolate”](https://biblehub.com/interlinear/daniel/9-27.htm)), so here we have a change of subject and back to Tiberius. The original speaks of wings of abomination, referring to the Roman legionary eagle. Until the decreed is poured out on him can be better translated as “until the decreed end is put on the desolator” which means until the Roman Empire falls which brings us [back to Daniel chapter 7](/bible/daniel/expl/the-four-kingdoms-in-daniel).
+He will set up an abomination ([the original does not use “he”, but “one who makes desolate”](https://biblehub.com/interlinear/daniel/9-27.htm)), so here we have a change of subject and back to Tiberius. The original speaks of wings of abomination, referring to the Roman legionary eagle. Until the decreed is poured out on him can be better translated as “until the decreed end is put on the desolator” which means until the Roman Empire falls which brings us {{% int_link val="back to Daniel chapter 7" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}.
 
 ## The last week
 

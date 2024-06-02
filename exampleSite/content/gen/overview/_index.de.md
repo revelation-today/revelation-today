@@ -79,7 +79,7 @@ Die beiden Zeugen in {{% bible val="Kapitel 11" link="https://www.bibleserver.co
 
 Die beiden Zeugen symbolisieren die Gemeinde, die nur erfolgreich sein kann, wenn sie Jesus kompromisslos nachfolgt.
 
-Andererseits sehen wir in [Kapitel 13](/content/beasts/appl/the-perfect-gospel), wie Satan eine Gegen-Dreieinigkeit erschafft, die alles symbolisiert, was wir uns von Gemeinschaft erträumen:
+Andererseits sehen wir in {{% int_link val="Kapitel 13" link="/content/beasts/appl/the-perfect-gospel" %}}, wie Satan eine Gegen-Dreieinigkeit erschafft, die alles symbolisiert, was wir uns von Gemeinschaft erträumen:
 
 - Alle sind überwältigt.
 - Alle Feinde sind besiegt.
@@ -101,7 +101,7 @@ Obwohl das Buch starke Züge einer Apokalypse trägt, wird der Grundgedanke imme
 - Der Löwe von Juda ist in Wirklichkeit das {{% bible val="Lamm" link="https://www.bibleserver.com/SLT/Offenbarung5%2C5-6" %}} Gottes.
 - Das {{% bible val="Heer der 144.000" link="https://www.bibleserver.com/SLT/Offenbarung7%2C4-8" %}} wird erklärt als die Menschen, die Gott {{% bible val="anbeten" link="https://www.bibleserver.com/SLT/Offenbarung7%2C9-10" %}}, später als die, die {{% bible val="dem Lamm folgen und glauben" link="https://www.bibleserver.com/SLT/Offenbarung14%2C1-5" %}}.
 - Der Sieg der zwei Zeugen ist ihr {{% bible val="Tod" link="https://www.bibleserver.com/SLT/Offenbarung11%2C7-13" %}}.
-- Der geheimnisvolle Ort {{% bible val="Harmageddon" link="https://www.bibleserver.com/SLT/Offenbarung16%2C14" %}} beschreibt die [Niederlage der Starken und den Sieg der absolut Schwachen](/content/bowls/expl/the-key-to-armageddon).
+- Der geheimnisvolle Ort {{% bible val="Harmageddon" link="https://www.bibleserver.com/SLT/Offenbarung16%2C14" %}} beschreibt die {{% int_link val="Niederlage der Starken und den Sieg der absolut Schwachen" link="/content/bowls/expl/the-key-to-armageddon" %}}.
 - Die {{% bible val="Hure wird von dem Tier vernichtet" link="https://www.bibleserver.com/SLT/Offenbarung17%2C16" %}}, auf dem sie {{% bible val="sitzt" link="https://www.bibleserver.com/SLT/Offenbarung17%2C3" %}}.
 - Jesus kommt und {{% bible val="vernichtet alle Feinde durch das Schwert seines Mundes" link="https://www.bibleserver.com/SLT/Offenbarung19%2C21" %}}.
 

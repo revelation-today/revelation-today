@@ -80,7 +80,7 @@ Oder handelt es sich doch um zwei verschiedene Schlachten? Nun, es gibt einige P
 ## Weitere Argumente für eine Schlacht
 
 <a name="6a0c"></a>
-- Nach der Aktion des sechsten Siegels werden die Armeen versammelt (da [Harmagedon sich auf einen Berg bezieht](/content/bowls/expl/the-key-to-armageddon)), so dass die Schlacht bevorsteht. Die siebente Schale kündigt die Zerstörung des Reiches Satans an (gefolgt von einer ausführlichen Beschreibung der Zerstörung der Hure Babel als Reaktion auf die Hochzeit der Braut), und die Schlacht wird in {{% bible val="Kapitel 19" link="https://www.bibleserver.com/SLT/Offenbarung19%2C17-21" %}} ausführlich beschrieben.
+- Nach der Aktion des sechsten Siegels werden die Armeen versammelt (da {{% int_link val="Harmagedon sich auf einen Berg bezieht" link="/content/bowls/expl/the-key-to-armageddon" %}}), so dass die Schlacht bevorsteht. Die siebente Schale kündigt die Zerstörung des Reiches Satans an (gefolgt von einer ausführlichen Beschreibung der Zerstörung der Hure Babel als Reaktion auf die Hochzeit der Braut), und die Schlacht wird in {{% bible val="Kapitel 19" link="https://www.bibleserver.com/SLT/Offenbarung19%2C17-21" %}} ausführlich beschrieben.
 - {{% bible val="Zu Beginn der Schalen wird gesagt, dass dies die letzten Plagen sind" link="https://www.bibleserver.com/SLT/Offenbarung15%2C1" %}}, was die {{% bible val="Zerstörung des Königreichs Satans ist" link="https://www.bibleserver.com/SLT/Offenbarung16%2C18-20" %}}, was in {{% bible val="Kapitel 19 " link="https://www.bibleserver.com/SLT/Offenbarung19%2C17-21" %}}geschieht, alle weitere Schlachten nach Kapitel 19 müssen demnach Rückblicke sein.
 
 ## Das Binden Satans

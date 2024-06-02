@@ -70,5 +70,5 @@ Wenn Jesus wiederkommt, werden alle Völker gerettet sein und alle werden eine B
 ## Zum Vertiefen
 
 <a name="6992"></a>
-[Israel](/background/israel/expl/who-is-israel)
+{{% int_link val="Israel" link="/background/israel/expl/who-is-israel" %}}
 

@@ -22,8 +22,8 @@ In the book of Revelation in the Bible we see four horsemen or apocalyptic rider
 ## You may want to read before
 
 <a name="11a6"></a>
-- [Historical background of the book](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
-- [What type of book is this](/background/literature/expl/the-book-of-revelation-how-to-read-it)
+- {{% int_link val="Historical background of the book" link="/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation" %}}
+- {{% int_link val="What type of book is this" link="/background/literature/expl/the-book-of-revelation-how-to-read-it" %}}
 
 ## The text
 
@@ -103,7 +103,7 @@ So the first horseman is the one who is evil but pretends to be good and like Je
 
 Now also the reference to {{% bible val="God’s plagues" link="https://www.bibleserver.com/NIV/Ezekiel14%3A12-23" %}} (wild beasts, sword, famine, and pestilence) makes sense. We can map them
 
-- The first horseman represents the wild beasts, as he [calls the two beasts](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) in {{% bible val="chapter 13" link="https://www.bibleserver.com/NIV/Revelation13" %}} and represents {{% bible val="deception" link="https://www.bibleserver.com/NIV/2%20Corinthians11%3A14" %}} — he makes many promises.
+- The first horseman represents the wild beasts, as he {{% int_link val="calls the two beasts" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}} in {{% bible val="chapter 13" link="https://www.bibleserver.com/NIV/Revelation13" %}} and represents {{% bible val="deception" link="https://www.bibleserver.com/NIV/2%20Corinthians11%3A14" %}} — he makes many promises.
 - The second horseman represents the sword given to him — he attacks anyone who does not buy into the promises, like the first beast in chapter 13.
 - The third horseman represents hunger as the poor will suffer — he puts economic pressure on the nonconformists as the second beast in chapter 13, which is related to the harlot in in {{% bible val="chapter 17" link="https://www.bibleserver.com/NIV/Revelation17" %}}.
 - The last horseman sums up the effect of the trinity shown.

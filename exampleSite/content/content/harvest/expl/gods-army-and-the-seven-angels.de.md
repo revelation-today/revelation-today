@@ -21,7 +21,7 @@ Kapitel 14 der Offenbarung ist eines der verwirrendsten Kapitel und scheint am f
 ## Die 144.000
 
 <a name="67e8"></a>
-Dieses Kapitel nimmt den Gedanken des [Lammes aus Kapitel 5](/content/seals/expl/the-book-with-the-seven-seals), das würdig war, das Buch zu öffnen, wieder auf und verbindet ihn [mit Kapitel 7](/content/army/expl/the-144000), wo von den 144.000 die Rede ist.Sie werden nun vor dem Thron dargestellt (die Erwähnung des Berges Zion in Vers 1 könnte ein Hinweis auf das himmlische Jerusalem sein).
+Dieses Kapitel nimmt den Gedanken des {{% int_link val="Lammes aus Kapitel 5" link="/content/seals/expl/the-book-with-the-seven-seals" %}}, das würdig war, das Buch zu öffnen, wieder auf und verbindet ihn {{% int_link val="mit Kapitel 7" link="/content/army/expl/the-144000" %}}, wo von den 144.000 die Rede ist.Sie werden nun vor dem Thron dargestellt (die Erwähnung des Berges Zion in Vers 1 könnte ein Hinweis auf das himmlische Jerusalem sein).
 
 Die 144.000 haben den Namen des Lammes und ihren Gott an ihren Stirnen (im Gegensatz zu dem Zeichen an Hand und Stirn im vorhergehenden Kapitel). Dies definiert ihre Identität und Zugehörigkeit zu Gott und bringt hier auch den Gedanken der Versiegelung aus Kapitel 7 ins Spiel.
 
@@ -34,10 +34,10 @@ Das ist einschüchternd, aber die Heiligen widerstehen. In all dem haben sie ein
 - {{% bible val="Es gelingt ihm nicht, das Kind zu vernichten" link="https://www.bibleserver.com/SLT/Offenbarung12%2C1-6" %}}.
 - {{% bible val="Er verliert seine Position im Himmel" link="https://www.bibleserver.com/SLT/Offenbarung12%2C7-12" %}}.
 - {{% bible val="Er kann die Frau nicht vernichten" link="https://www.bibleserver.com/SLT/Offenbarung12%2C13-17" %}}.
-- {{% bible val="Seine Täuschung und Unterdrückung durch die beiden Tiere" link="https://www.bibleserver.com/SLT/Offenbarung13" %}} ist eine [Katastrophe](/content/beasts/expl/666-the-number-of-the-beast).
-- [Und sein Sieg über die Heiligen verkehrt sich ins Gegenteil](/content/witnesses/expl/the-two-witnesses).
+- {{% bible val="Seine Täuschung und Unterdrückung durch die beiden Tiere" link="https://www.bibleserver.com/SLT/Offenbarung13" %}} ist eine {{% int_link val="Katastrophe" link="/content/beasts/expl/666-the-number-of-the-beast" %}}.
+- {{% int_link val="Und sein Sieg über die Heiligen verkehrt sich ins Gegenteil" link="/content/witnesses/expl/the-two-witnesses" %}}.
 
-Aber nicht nur das, er hat damit auch den [Inhalt des kleinen Buches erfüllt.](/content/scroll/expl/the-little-scroll) Doch was ist das Geheimnis der 144.000? Es ist hier beschrieben:
+Aber nicht nur das, er hat damit auch den {{% int_link val="Inhalt des kleinen Buches erfüllt." link="/content/scroll/expl/the-little-scroll" %}} Doch was ist das Geheimnis der 144.000? Es ist hier beschrieben:
 
 “[Diese sind es, die sich mit Frauen nicht befleckt haben; denn sie sind jungfräulich [rein]. Diese sind es, die dem Lamm nachfolgen, wohin es auch geht. Diese sind aus den Menschen erkauft worden als Erstlinge für Gott und das Lamm, 5 und in ihrem Mund ist kein Betrug gefunden worden; denn sie sind unsträflich vor dem Thron Gottes.](https://www.bibleserver.com/SLT/Offenbarung14%2C4-5)”
 
@@ -68,7 +68,7 @@ Der Psalm beansprucht, dass Gott König ist und alle Nationen EINGELADEN sind, i
 
 Ein zweiter Engel kommt und verkündet den Sieg über Babel, während ein dritter Engel deutliche Warnungen des Gerichtes ausspricht für alle, die dem Tier nachgeben. Das spiegelt auch den {{% bible val="Ruf zur Umkehr" link="https://www.bibleserver.com/SLT/Offenbarung11%2C3" %}} und die {{% bible val="Zeichenhandlungen" link="https://www.bibleserver.com/SLT/Offenbarung11%2C5" %}} der Zeugen wieder.
 
-Die Frage ist: Wie wird das ausgehen? Werden die Völker hören? Aus der Geschichte der Zeugen wissen wir: [Sie werden!](/content/witnesses/expl/the-two-witnesses)
+Die Frage ist: Wie wird das ausgehen? Werden die Völker hören? Aus der Geschichte der Zeugen wissen wir: {{% int_link val="Sie werden!" link="/content/witnesses/expl/the-two-witnesses" %}}
 
 ## Die beiden Ernten
 
@@ -88,7 +88,7 @@ Daraus ergeben sich für die Nationen zwei Möglichkeiten: Gericht oder Erlösun
 ## Das Lied des Mose
 
 <a name="6689"></a>
-Die nächste Szene lädt uns zum “[zweiten Auszug](/background/israel/expl/the-second-exodus)” ein, der durch das gläserne Meer ({{% bible val="Teilung des Roten Meeres" link="https://www.bibleserver.com/SLT/Psalm78%2C13" %}}) und das Lied des Mose und des Lammes dargestellt wird.
+Die nächste Szene lädt uns zum “{{% int_link val="zweiten Auszug" link="/background/israel/expl/the-second-exodus" %}}” ein, der durch das gläserne Meer ({{% bible val="Teilung des Roten Meeres" link="https://www.bibleserver.com/SLT/Psalm78%2C13" %}}) und das Lied des Mose und des Lammes dargestellt wird.
 
 “[Und sie singen das Lied Moses, des Knechtes Gottes, und das Lied des Lammes und sprechen: Groß und wunderbar sind deine Werke, o Herr, Gott, du Allmächtiger! Gerecht und wahrhaftig sind deine Wege, du König der Heiligen! 4 Wer sollte dich nicht fürchten, o Herr, und deinen Namen nicht preisen? Denn du allein bist heilig. Ja, alle Völker werden kommen und vor dir anbeten, denn deine gerechten Taten sind offenbar geworden!](https://www.bibleserver.com/SLT/Offenbarung15%2C3-4)“
 

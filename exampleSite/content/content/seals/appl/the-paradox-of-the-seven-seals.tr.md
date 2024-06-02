@@ -61,4 +61,4 @@ Altıncı mühür tam bir dramatiktir. İsa ortaya çıkar ve her şeyi sona erd
 
 Yani her şey kilisenin iyi tanıklığına bağlıdır.
 
-[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
+{{% int_link val="Daha büyük bağlam" link="/gen/index/appl/the-book-of-revelation" %}}

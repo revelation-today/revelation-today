@@ -163,14 +163,14 @@ En {{% bible val="büyük yalancı Şeytan’dır" link="https://www.bibleserver
 ### {{% bible val="İlk bakış" link="https://www.bibleserver.com/TR/Vahiy21%3A9-14" %}}
 
 <a name="1113"></a>
-[Daha geniş bir bağlamda](/content/1000y/expl/the-thousand-year-kingdom) baktığımızda Yeni Yeruşalim, Babil’in karşılığıdır. Babil’in bir kadını (fahişeyi) temsil etmesi gibi {{% bible val="Yeni Yeruşalim de bir kadını (gelini)" link="https://www.bibleserver.com/TR/Vahiy21%3A2" %}} temsil eder ki bu {{% bible val="Yeşaya’da" link="https://www.bibleserver.com/TR/Ye%C5%9Faya62%3A1-5" %}} da yansıtılır.
+{{% int_link val="Daha geniş bir bağlamda" link="/content/1000y/expl/the-thousand-year-kingdom" %}} baktığımızda Yeni Yeruşalim, Babil’in karşılığıdır. Babil’in bir kadını (fahişeyi) temsil etmesi gibi {{% bible val="Yeni Yeruşalim de bir kadını (gelini)" link="https://www.bibleserver.com/TR/Vahiy21%3A2" %}} temsil eder ki bu {{% bible val="Yeşaya’da" link="https://www.bibleserver.com/TR/Ye%C5%9Faya62%3A1-5" %}} da yansıtılır.
 
 - Babil, yöneticinin gücüyle dağıtılan ekonomik sistemdir ve ahlaksızlık putperestlikle (sadakatsizlik) yapılır, ancak Tanrı’nın halkı ona sadıktır
 - Babil acıya neden olurken Kudüs acıyı ortadan kaldırır
 - Babil kendini yok eder ve Kudüs sonsuza dek kalır
 - Babil sömürü ve zulümle zenginleşir ama Kudüs Tanrı’nın armağanı olarak zengindir
 
-On iki kapı 12 kabileye, 12 temel taşı ise 12 havariye işaret eder. {{% bible val="2 kere 12 cennetteki sonsuz tapınmayı yansıtır" link="https://www.bibleserver.com/TR/Vahiy4%3A4" %}}, ama aynı zamanda kitap boyunca anlatılan [Yahudi ve Yahudi olmayanlar arasındaki uzlaşmayı aramak için bir hatırlatmadır](/background/israel/expl/israel-and-the-church).
+On iki kapı 12 kabileye, 12 temel taşı ise 12 havariye işaret eder. {{% bible val="2 kere 12 cennetteki sonsuz tapınmayı yansıtır" link="https://www.bibleserver.com/TR/Vahiy4%3A4" %}}, ama aynı zamanda kitap boyunca anlatılan {{% int_link val="Yahudi ve Yahudi olmayanlar arasındaki uzlaşmayı aramak için bir hatırlatmadır" link="/background/israel/expl/israel-and-the-church" %}}.
 
 Garip olan şey, havarilerin kabilelerin temeli olmasıdır (İsrail için kilise temeli), ancak bu,{{% bible val=" İsa’nın kilise tarafından işlenen İsrail’in yerine getirilmesi olduğu düşünüldüğünde mantıklıdır" link="https://www.bibleserver.com/TR/Efesliler2%3A20" %}}. Yahuda {{% bible val="da kitapta İsa’yı yansıtan kabilelerin ilki olarak listelenmiştir" link="https://www.bibleserver.com/TR/Vahiy7%3A4-8" %}}.
 

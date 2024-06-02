@@ -33,7 +33,7 @@ So what is the calling and destiny of the son of man (Israel)? Let’s read on:
 
 {{% bible val="‘He gave me this explanation: “The fourth beast is a fourth kingdom that will appear on earth. It will be different from all the other kingdoms and will devour the whole earth, trampling it down and crushing it. The ten horns are ten kings who will come from this kingdom. After them another king will arise, different from the earlier ones; he will subdue three kings. He will speak against the Most High and oppress his holy people and try to change the set times and the laws. The holy people will be delivered into his hands for a time, times and half a time. ‘ “But the court will sit, and his power will be taken away and completely destroyed for ever. Then the sovereignty, power and greatness of all the kingdoms under heaven will be handed over to the holy people of the Most High. His kingdom will be an everlasting kingdom, and all rulers will worship and obey him." link="https://www.bibleserver.com/NIV/Daniel7%3A20-27" %}}”
 
-This describes the kingdoms of the earth that [we described earlier](/bible/daniel/expl/the-four-kingdoms-in-daniel). The first part refers to elements of the vision and its actions, while the second part is the explanation.
+This describes the kingdoms of the earth that {{% int_link val="we described earlier" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}. The first part refers to elements of the vision and its actions, while the second part is the explanation.
 
 Let us look at the interpreted elements:
 
@@ -59,9 +59,9 @@ When you see this, it sounds like Israel will rule the world at a certain time.
 
 But there is a problem: The Son of Man will receive worship. This is only possible for God, because only God can be worshiped.
 
-So how can this be resolved? The prophets speak in the subject of the Day of the Lord that only a [remnant of Israel will remain](/background/israel/expl/the-remnant-of-israel). So the holy people could be referring to this remnant in the future.
+So how can this be resolved? The prophets speak in the subject of the Day of the Lord that only a {{% int_link val="remnant of Israel will remain" link="/background/israel/expl/the-remnant-of-israel" %}}. So the holy people could be referring to this remnant in the future.
 
-It is not clear from the context of Daniel when this will be, but the description in chapters 2 and 7 [shows that it must be the Day of the Lord](/background/israel/expl/the-day-of-the-lord).
+It is not clear from the context of Daniel when this will be, but the description in chapters 2 and 7 {{% int_link val="shows that it must be the Day of the Lord" link="/background/israel/expl/the-day-of-the-lord" %}}.
 
 In the Old Testament only the prophet Ezekiel is called the “Son of Man”, but again this is “[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)” (“son of Adam”), whereas in Daniel the term “[kebar enas](https://biblehub.com/interlinear/daniel/7-13.htm)” (“son of mankind”) is used.
 
@@ -84,14 +84,14 @@ The hard truth is that his own people, Israel, became his great enemy by opposin
 
 But what did Jesus do? {{% bible val="He forgave them, because they did not know what they were doing" link="https://www.bibleserver.com/NIV/Luke23%3A34" %}}. {{% bible val="And His calling was to restore Israel and to call as many of them to Him as possible" link="https://www.bibleserver.com/NIV/Matthew15%3A24" %}} (it was the disciples’ calling to go after the nations, {{% bible val="of course there were exceptions" link="https://www.bibleserver.com/NIV/Matthew8%3A5-13" %}}). He did not come as a judge, but as a savior, but He will come again. And He did not reject Israel and replace it with the Church, but He restarted Israel and included the Church in it.
 
-But He saved the [remnant of Israel](/background/israel/expl/the-remnant-of-israel).
+But He saved the {{% int_link val="remnant of Israel" link="/background/israel/expl/the-remnant-of-israel" %}}.
 
 ## The heritage
 
 <a name="833c"></a>
 Jesus is the Son of Man, but all things belong to Him. In Daniel 2, we see that the stone that destroyed all the kingdoms became as great as the earth, which is a description of the New Israel (which includes the Church) reaching out to the whole earth.
 
-This image is picked up in the description of the {{% bible val="two witnesses in the Book of Revelation" link="https://www.bibleserver.com/NIV/Revelation11%3A3-14" %}}, who [represent the New Israel including the Church](/content/witnesses/expl/the-two-witnesses). They reign for {{% bible val="3.5 years" link="https://www.bibleserver.com/NIV/Revelation11%3A3" %}} ([in case you are curious what 3.5 years are](/bible/daniel/expl/the-secret-of-the-3-5-years)) and are killed for 3.5 days until resurrected, 3.5 times as in the prophecy of the Son of Man.
+This image is picked up in the description of the {{% bible val="two witnesses in the Book of Revelation" link="https://www.bibleserver.com/NIV/Revelation11%3A3-14" %}}, who {{% int_link val="represent the New Israel including the Church" link="/content/witnesses/expl/the-two-witnesses" %}}. They reign for {{% bible val="3.5 years" link="https://www.bibleserver.com/NIV/Revelation11%3A3" %}} ({{% int_link val="in case you are curious what 3.5 years are" link="/bible/daniel/expl/the-secret-of-the-3-5-years" %}}) and are killed for 3.5 days until resurrected, 3.5 times as in the prophecy of the Son of Man.
 
 The witnesses are identified as the Son of Man because they live the life of Jesus:
 

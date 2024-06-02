@@ -21,7 +21,7 @@ Chapter 14 of the book of Revelation is one of the most puzzling chapters in the
 ## The 144.000
 
 <a name="6c9d"></a>
-The chapter picks up the [Lamb standing from chapter 5](/content/seals/expl/the-book-with-the-seven-seals), where it was worthy to receive the scroll and combines it with [chapter 7, where the 144,000 are mentioned](/content/army/expl/the-144000). Now they are gathered before the throne (the mention of Mount Zion in verse 1 could be a reference to the heavenly Jerusalem).
+The chapter picks up the {{% int_link val="Lamb standing from chapter 5" link="/content/seals/expl/the-book-with-the-seven-seals" %}}, where it was worthy to receive the scroll and combines it with {{% int_link val="chapter 7, where the 144,000 are mentioned" link="/content/army/expl/the-144000" %}}. Now they are gathered before the throne (the mention of Mount Zion in verse 1 could be a reference to the heavenly Jerusalem).
 
 The 144,000 have the name of the Lamb and of God on their foreheads, which defines their identity and their belonging (belonging to God), so it is a different reflection of the sealing in chapter 7.
 
@@ -34,10 +34,10 @@ This is very intimidating, but God’s people are still standing. They have a so
 - {{% bible val="He fails to destroy the child" link="https://www.bibleserver.com/NIV/Revelation12%3A1-6" %}}.
 - {{% bible val="He loses his position in heaven" link="https://www.bibleserver.com/NIV/Revelation12%3A7-12" %}}.
 - {{% bible val="He fails to destroy the woman" link="https://www.bibleserver.com/NIV/Revelation12%3A13-17" %}}.
-- {{% bible val="His perception and suppression with the two beasts" link="https://www.bibleserver.com/NIV/Revelation13" %}} is a [disaster](/content/beasts/expl/666-the-number-of-the-beast).
-- [And his victory over the saints backfires](/content/witnesses/expl/the-two-witnesses).
+- {{% bible val="His perception and suppression with the two beasts" link="https://www.bibleserver.com/NIV/Revelation13" %}} is a {{% int_link val="disaster" link="/content/beasts/expl/666-the-number-of-the-beast" %}}.
+- {{% int_link val="And his victory over the saints backfires" link="/content/witnesses/expl/the-two-witnesses" %}}.
 
-Not only that, but they fulfilled the [destiny of the little scroll](/content/scroll/expl/the-little-scroll). But what is their secret? It is written here:
+Not only that, but they fulfilled the {{% int_link val="destiny of the little scroll" link="/content/scroll/expl/the-little-scroll" %}}. But what is their secret? It is written here:
 
 “{{% bible val="These are those who did not defile themselves with women, for they remained virgins. They follow the Lamb wherever he goes. They were purchased from among mankind and offered as first fruits to God and the Lamb. No lie was found in their mouths; they are blameless." link="https://www.bibleserver.com/NIV/Revelation14%3A4-5" %}}”
 
@@ -68,7 +68,7 @@ The Psalm asserts that God is king and all nations are INVITED to worship Him.
 
 The second angel proclaims the victory over Babel while the third angel brings a stern warning of judgment for anyone who gives in to the beast. This also mirrors the {{% bible val="call to repentance" link="https://www.bibleserver.com/NIV/Revelation11%3A3" %}} and the {{% bible val="warning judgments" link="https://www.bibleserver.com/NIV/Revelation11%3A5" %}} of the two witnesses.
 
-The question is: What will be the result? Will the nations listen? We know from the story of the witnesses: [They will](/content/witnesses/expl/the-two-witnesses).
+The question is: What will be the result? Will the nations listen? We know from the story of the witnesses: {{% int_link val="They will" link="/content/witnesses/expl/the-two-witnesses" %}}.
 
 ## The two harvests
 

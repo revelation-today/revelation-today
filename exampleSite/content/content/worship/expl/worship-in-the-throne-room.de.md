@@ -22,7 +22,7 @@ Die Anbetung im Thronsaal ist die Antwort auf die Probleme der Gemeinden. Aber w
 ## Gut, davor zu lesen
 
 <a name="ef77"></a>
-- [Die Sendschreiben](/content/letters/expl/the-letters-to-the-seven-churches)
+- {{% int_link val="Die Sendschreiben" link="/content/letters/expl/the-letters-to-the-seven-churches" %}}
 
 ## Der Hintergrund und Kontext
 
@@ -100,9 +100,9 @@ Wie wir sehen werden, gibt es noch eine weitere Besonderheit: Jede der Plagen ha
 
 Wenn wir die Reihen betrachten, sehen wir
 
-- [Die Siegel beschreiben eine sehr harte Zeit, aber sie entlarven die Bosheit Satans und seinen Wunsch, so viele Menschen wie möglich zu retten, bevor das Ende schnell kommt.](/content/seals/expl/the-mystery-of-the-four-horse-men)
-- [Die Posaunen zeigen die falschen Dinge, auf die die Menschen ihr Vertrauen setzen, und in der fünften und sechsten Posaune zeigen sie, dass die Ursache ihrer Probleme die Dämonen sind, an die sie sich klammern.](/content/trumpets/expl/the-trumpets-in-revelation)
-- [Die Schalen sind der Ort, wo Gott alles hineinlegt, damit die Menschen sich nicht täuschen lassen und mit Satan untergehen.](/content/bowls/expl/the-bowls-of-wrath)
+- {{% int_link val="Die Siegel beschreiben eine sehr harte Zeit, aber sie entlarven die Bosheit Satans und seinen Wunsch, so viele Menschen wie möglich zu retten, bevor das Ende schnell kommt." link="/content/seals/expl/the-mystery-of-the-four-horse-men" %}}
+- {{% int_link val="Die Posaunen zeigen die falschen Dinge, auf die die Menschen ihr Vertrauen setzen, und in der fünften und sechsten Posaune zeigen sie, dass die Ursache ihrer Probleme die Dämonen sind, an die sie sich klammern." link="/content/trumpets/expl/the-trumpets-in-revelation" %}}
+- {{% int_link val="Die Schalen sind der Ort, wo Gott alles hineinlegt, damit die Menschen sich nicht täuschen lassen und mit Satan untergehen." link="/content/bowls/expl/the-bowls-of-wrath" %}}
 
 ## Die Anbetung
 

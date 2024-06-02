@@ -68,7 +68,7 @@ Yoksa bunlar iki farklı savaş olabilir mi? Cevaplanması gereken birkaç endi�
 ## Bir savaş için daha fazla argüman
 
 <a name="a205"></a>
-- Altıncı mührün eylemleri sırasında ordular ([bir dağa atıfta bulunan Armagedon’da](/content/bowls/expl/the-key-to-armageddon)) toplanır, dolayısıyla savaş göze çarpar. Yedinci kasede yenilgi ilan edilir (fahişe Babil’in yenilgisinin ve karşı eylem olarak gelinin düğününün ayrıntılı bir tanımını takip eder) ve savaş {{% bible val="19. bölümde" link="https://www.bibleserver.com/TR/Vahiy19%3A17-21" %}} ayrıntılı olarak anlatılır.
+- Altıncı mührün eylemleri sırasında ordular ({{% int_link val="bir dağa atıfta bulunan Armagedon’da" link="/content/bowls/expl/the-key-to-armageddon" %}}) toplanır, dolayısıyla savaş göze çarpar. Yedinci kasede yenilgi ilan edilir (fahişe Babil’in yenilgisinin ve karşı eylem olarak gelinin düğününün ayrıntılı bir tanımını takip eder) ve savaş {{% bible val="19. bölümde" link="https://www.bibleserver.com/TR/Vahiy19%3A17-21" %}} ayrıntılı olarak anlatılır.
 - {{% bible val="Kaselerin başında, bunların son belalar olduğu" link="https://www.bibleserver.com/TR/Vahiy15%3A1" %}} ve {{% bible val="19. bölümde yapılan " link="https://www.bibleserver.com/TR/Vahiy19%3A17-21" %}}{{% bible val="şeytanların krallığının yıkımı olacağı belirtilir" link="https://www.bibleserver.com/TR/Vahiy16%3A18-20" %}}, bundan sonraki herhangi bir savaşın 19. bölümün bir özeti olması gerekir
 
 ## Şeytan’ın bağlanması

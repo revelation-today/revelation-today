@@ -69,7 +69,7 @@ Sonuç olarak üç seçeneğiniz vardı
 - İnancınızı tam olarak yaşar ve sosyal ve ekonomik izolasyon ve yıkım, hapis ve hatta ölüm riskini göze alırsınız veya
 - dışarıdan itaat eder (imparatoru ağzıyla itiraf eder) ama İsa’ya sadık kalır (onu kalbiyle itiraf eder), bu da inançlarını ikiyüzlü yapar
 
-Üçüncü seçenek birçok insan için çok zorlayıcıdır ve Vahiy Kitabı’nın ana konusudur: [Kıyamet açısından sadece iki seçenek vardır — tamamen Tanrı’nın yanında ya da tamamen ona karşı](/background/literature/expl/the-book-of-revelation-how-to-read-it). Böylece kitap Pax Romana’ya karşı bir karşı propaganda yaratır.
+Üçüncü seçenek birçok insan için çok zorlayıcıdır ve Vahiy Kitabı’nın ana konusudur: {{% int_link val="Kıyamet açısından sadece iki seçenek vardır — tamamen Tanrı’nın yanında ya da tamamen ona karşı" link="/background/literature/expl/the-book-of-revelation-how-to-read-it" %}}. Böylece kitap Pax Romana’ya karşı bir karşı propaganda yaratır.
 
 ## Götürün
 

@@ -53,4 +53,4 @@ Ve bu da kaselerin ne hakkında olduğu
 - Bu dünyadaki somut durumların daha iyiye doğru nasıl değişebileceğine dair umutlarınız nelerdir? Bunların Tanrı’nın yolları olduğunu düşünüyor musunuz?
 - Aşağıda Armagedon hakkında bir çalışma yapın. Bu bugün ne olabilir?
 
-[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
+{{% int_link val="Daha büyük bağlam" link="/gen/index/appl/the-book-of-revelation" %}}

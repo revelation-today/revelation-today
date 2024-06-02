@@ -84,4 +84,4 @@ Zorlukları da güçlü yanları gibi bireyseldir, bu nedenle bazı kiliselerin 
 - Kötü liderlik ve aldatma: Önderlik yanlış öğretime izin verdi, hatta bunun kaynağı oldu. Bunun tüm kilise üzerinde yıkıcı bir etkisi oldu.
 - Yanlış öz değerlendirme: Övgü almayan Laodikya kilisesi büyük olasılıkla kendini çok beğenen bir kiliseydi. Sardes de kendi başlarının çaresine bakabileceklerini düşünüyordu. Bu, yıkıcı olan çok kötü bir yanılgıydı.
 
-[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
+{{% int_link val="Daha büyük bağlam" link="/gen/index/appl/the-book-of-revelation" %}}

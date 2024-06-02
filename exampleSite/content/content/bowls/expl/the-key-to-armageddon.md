@@ -53,7 +53,7 @@ When Jehu, {{% bible val="the commander of the army, was finally annointed" link
 ## Josiah
 
 <a name="a257"></a>
-[There is a separate entry for this](/content/bowls/expl/armageddon-and-the-battle-of-karkemish).A king gives his life fighting the king of Egypt who was on his way to help the Assyrians against the Babylonian Empire. Just a few notes:
+{{% int_link val="There is a separate entry for this" link="/content/bowls/expl/armageddon-and-the-battle-of-karkemish" %}}.A king gives his life fighting the king of Egypt who was on his way to help the Assyrians against the Babylonian Empire. Just a few notes:
 
 - Assur was constantly oppressing Israel at this time and stopped because Babel was causing them trouble.
 - Egypt was on the one hand the place where Israel came out of slavery, but was always the {{% bible val="backup plan for Israel which usually disappointed Israel" link="https://www.bibleserver.com/NIV/2%20Kings18%3A21" %}}. It seems that Josiah was the first king of Israel to ever fight against Egypt.

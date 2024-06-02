@@ -31,4 +31,4 @@ Und hier schließt sich der Kreis zum ersten Engel. Wie haben die Völker reagie
 
 ![](/images/harvest_de.jpg)
 
-Denn das war der Inhalt der [kleinen Schriftrolle](/content/scroll/quick): Die Kirche muss wie Jesus handeln (Geheimnis Gottes), damit alle Völker gerettet werden.
+Denn das war der Inhalt der {{% int_link val="kleinen Schriftrolle" link="/content/scroll/quick" %}}: Die Kirche muss wie Jesus handeln (Geheimnis Gottes), damit alle Völker gerettet werden.

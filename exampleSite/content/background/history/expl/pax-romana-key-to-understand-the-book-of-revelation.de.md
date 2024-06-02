@@ -66,7 +66,7 @@ Daraus ergaben sich drei Möglichkeiten:
 - Du lebst deinen Glauben in aller Konsequenz und riskierst soziale und wirtschaftliche Isolation und Ruin, Gefängnis oder gar Tod oder
 - Du spielst äußerlich mit (bekennst dich mit dem Mund zum Kaiser), bleibst aber mit dem Herzen Jesus treu, was Heuchelei wäre.
 
-Die dritte Option war für viele attraktiv und ein wichtiges Thema in der Offenbarung: [Mit dem Stil der Offenbarung als Apokalypse werden diese Menschen aber vor die Wahl gestellt: Ganz mit Gott oder ganz ohne ihn](/background/literature/expl/the-book-of-revelation-how-to-read-it). In der Konsequenz beschreibt die Offenbarung eine Gegenpropaganda zur römischen Kaiserpropaganda - der Pax Romana.
+Die dritte Option war für viele attraktiv und ein wichtiges Thema in der Offenbarung: {{% int_link val="Mit dem Stil der Offenbarung als Apokalypse werden diese Menschen aber vor die Wahl gestellt: Ganz mit Gott oder ganz ohne ihn" link="/background/literature/expl/the-book-of-revelation-how-to-read-it" %}}. In der Konsequenz beschreibt die Offenbarung eine Gegenpropaganda zur römischen Kaiserpropaganda - der Pax Romana.
 
 ## Betrachtungen
 

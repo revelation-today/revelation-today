@@ -15,7 +15,7 @@ Die Entrückung ist ein faszinierendes Thema, das die Phantasie der einen beflü
 ## Einleitung
 
 <a name="ae33"></a>
-Die Entrückung ist die Überzeugung, dass eine sogenannte [Große Trübsal ](/content/army/expl/the-end-time-and-the-great-tribulation)kommt, bei der alle Gläubigen vorher in den Himmel entrückt werden und das Gericht aus der Ferne sehen. Das klingt etwas seltsam, weil es ein neues Konzept wäre und{{% bible val=" Jesus etwas ganz anderes sagt" link="https://www.bibleserver.com/SLT/Matth%C3%A4us13%2C36-42" %}}. Und es ist nicht biblisch. Also keine Angst, wenn du denkst, dass die Entrückung schon stattgefunden hat und du zurückgelassen wurdest.
+Die Entrückung ist die Überzeugung, dass eine sogenannte {{% int_link val="Große Trübsal " link="/content/army/expl/the-end-time-and-the-great-tribulation" %}}kommt, bei der alle Gläubigen vorher in den Himmel entrückt werden und das Gericht aus der Ferne sehen. Das klingt etwas seltsam, weil es ein neues Konzept wäre und{{% bible val=" Jesus etwas ganz anderes sagt" link="https://www.bibleserver.com/SLT/Matth%C3%A4us13%2C36-42" %}}. Und es ist nicht biblisch. Also keine Angst, wenn du denkst, dass die Entrückung schon stattgefunden hat und du zurückgelassen wurdest.
 
 Manche halten die Entrückung für eine der wichtigsten Aussagen der Bibel und untermauern dies mit einigen Bibelstellen, die den Eindruck erwecken, dass es dafür eine solide biblische Grundlage gibt.
 
@@ -95,7 +95,7 @@ Auch Matthäus {{% bible val="24" link="https://www.bibleserver.com/SLT/Matth%C3
 
 Das Thema, das hier behandelt wird, ist die Zerstörung des Tempels mit all den traumatischen Folgen des jüdischen Krieges von 66–73, und es ist eine Vorbereitung auf kommende Verfolgungen und andere Schwierigkeiten, um darin treu zu sein. Alle diese Gleichnisse beziehen sich nicht auf eine bestimmte Zeit, sondern sind eine ständige Ermutigung Jesu. Die Moral des Gleichnisses von den Böcken und den Schafen ist kein Thema der Endzeit, sondern schon im Alten Testament ein wesentliches Kriterium für die Erfüllung der Gebote Gottes.
 
-Die Interpretation des {{% bible val="Gleichnisses vom Ölbaum" link="https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C32" %}} auf die Ereignisse von 1948 und der Gründung Israels zu beziehen, ist eine sehr weitgehende Interpretation, die an keiner anderen Stelle in der Bibel bestätigt wird. Der Ölbaum ist auch nicht zwingenderweise ein Bild für Israel, sondern ist im [Neuen Testament ein Bild für die Gemeinde](/background/israel/expl/the-church-is-part-of-israel).
+Die Interpretation des {{% bible val="Gleichnisses vom Ölbaum" link="https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C32" %}} auf die Ereignisse von 1948 und der Gründung Israels zu beziehen, ist eine sehr weitgehende Interpretation, die an keiner anderen Stelle in der Bibel bestätigt wird. Der Ölbaum ist auch nicht zwingenderweise ein Bild für Israel, sondern ist im {{% int_link val="Neuen Testament ein Bild für die Gemeinde" link="/background/israel/expl/the-church-is-part-of-israel" %}}.
 
 ## Ein Platz für uns
 

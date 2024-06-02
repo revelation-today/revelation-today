@@ -14,15 +14,15 @@ Die Offenbarung enthält sieben Sendschreiben an bestimmte Gemeinden. Was ist ih
 ## Gut vorher zu lesen
 
 <a name="8d05"></a>
-- [Historischer Hintergrund des Buches](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- {{% int_link val="Historischer Hintergrund des Buches" link="/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation" %}}
 - [Was für ein Buch ist das?](/background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [Die Vision](/content/letters/expl/the-vision)
-- [Die Engel der Gemeinden](/content/letters/expl/the-angel-of-the-churches)
+- {{% int_link val="Die Vision" link="/content/letters/expl/the-vision" %}}
+- {{% int_link val="Die Engel der Gemeinden" link="/content/letters/expl/the-angel-of-the-churches" %}}
 
 ## Die Vision
 
 <a name="216d"></a>
-Vor den Sendschreiben Johannes hat eine [Vision davon, wie Gott sich Gemeinde vorstellt](/content/letters/expl/the-vision).
+Vor den Sendschreiben Johannes hat eine {{% int_link val="Vision davon, wie Gott sich Gemeinde vorstellt" link="/content/letters/expl/the-vision" %}}.
 
 Das ist die Botschaft: Die Gemeinde soll Licht in der Welt sein (Leuchter für die Gemeinde und Sterne für die Welt), aber das muss in Abhängigkeit von Jesus geschehen und nicht ohne ihn.
 

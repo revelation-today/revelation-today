@@ -46,7 +46,7 @@ Yuhanna, {{% bible val="Daniel’in görümlerine" link="https://www.bibleserver
 <a name="1a72"></a>
 İsa {{% bible val="bölümün başında" link="https://www.bibleserver.com/TR/Vahiy1%3A5" %}} gördüğümüz tüm ifadeleri onaylar.
 
-{{% bible val="Sonunda kandillerin ve yıldızların gizemi çözülür" link="https://www.bibleserver.com/TR/Vahiy1%3A20" %}}. [Onlar kilisenin farklı bir tanımını temsil etmektedir](/content/letters/expl/the-angel-of-the-churches). Peki bu ne anlama geliyor?
+{{% bible val="Sonunda kandillerin ve yıldızların gizemi çözülür" link="https://www.bibleserver.com/TR/Vahiy1%3A20" %}}. {{% int_link val="Onlar kilisenin farklı bir tanımını temsil etmektedir" link="/content/letters/expl/the-angel-of-the-churches" %}}. Peki bu ne anlama geliyor?
 
 Kilise, aynı zamanda iki ana ortak noktası olan iki farklı resimle tanımlanmaktadır:
 

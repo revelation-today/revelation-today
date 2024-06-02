@@ -36,7 +36,7 @@ Other examples of completeness in Revelation are the 7 seals, the 7 trumpets, an
 ## The number 3,5
 
 <a name="a9fe"></a>
-[We have an own article here](/bible/daniel/expl/the-secret-of-the-3-5-years)
+{{% int_link val="We have an own article here" link="/bible/daniel/expl/the-secret-of-the-3-5-years" %}}
 
 ## The number 4
 

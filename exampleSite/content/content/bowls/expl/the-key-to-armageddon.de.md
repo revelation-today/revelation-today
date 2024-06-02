@@ -53,7 +53,7 @@ Als der Heerführer {{% bible val="Jehu gesalbt wird" link="https://www.bibleser
 ## Josia
 
 <a name="2a48"></a>
-[Dazu gibt es einen eigenen Eintrag](/content/bowls/expl/armageddon-and-the-battle-of-karkemish). Ein König lässt sein Leben, als er den Pharao angreift, der auf dem Weg ist, Assur zu helfen, und rettet so die Zukunft Israels. Einige Randbemerkungen:
+{{% int_link val="Dazu gibt es einen eigenen Eintrag" link="/content/bowls/expl/armageddon-and-the-battle-of-karkemish" %}}. Ein König lässt sein Leben, als er den Pharao angreift, der auf dem Weg ist, Assur zu helfen, und rettet so die Zukunft Israels. Einige Randbemerkungen:
 
 - Assur war zu dieser Zeit das Volk, das Israel ständig unterdrückte und nur deshalb aufhielt, weil es gerade von Babel bedrängt wurde.
 - Ägypten war der Ort, aus dem Israel aus der Sklaverei kam, aber seitdem war es für Israel immer jemand, {{% bible val="auf den Israel alle Hoffnungen setzte, der Israel aber immer wieder enttäuschte" link="https://www.bibleserver.com/SLT/2.K%C3%B6nige18%2C21" %}}. Es scheint, dass Josia der einzige König Israels war, der jemals gegen Ägypten gekämpft hat.

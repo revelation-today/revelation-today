@@ -20,7 +20,7 @@ The bowls of wrath in the book of Revelation give the impression of a God who is
 ## You may want to read before
 
 <a name="6ee4"></a>
-- [The trumpets](/content/trumpets/expl/the-trumpets-in-revelation)
+- {{% int_link val="The trumpets" link="/content/trumpets/expl/the-trumpets-in-revelation" %}}
 
 ## Background
 
@@ -29,16 +29,16 @@ The bowls of wrath are origin like all the other series, originated {{% bible va
 
 The wrath of God will be completed with this. What is the wrath of God? It’s [His compassionate ambition to solve the world problem and He doesn’t stop until it’s solved](https://moodyaudio.com/products/good-and-beautiful-god-part-6).
 
-You may have already seen that the seven bowls and the [seven trumpets](/content/trumpets/expl/the-trumpets-in-revelation) have quite a lot in common, and both are closely related to the [plagues in Egypt](/bible/exodus/expl/the-plagues-in-egypt): The wrath of God is connected to the prayers of the saints. What a thought! {{% bible val="God’s plan is affected by our prayers" link="https://www.bibleserver.com/NIV/Genesis18%3A20-33" %}}.
+You may have already seen that the seven bowls and the {{% int_link val="seven trumpets" link="/content/trumpets/expl/the-trumpets-in-revelation" %}} have quite a lot in common, and both are closely related to the {{% int_link val="plagues in Egypt" link="/bible/exodus/expl/the-plagues-in-egypt" %}}: The wrath of God is connected to the prayers of the saints. What a thought! {{% bible val="God’s plan is affected by our prayers" link="https://www.bibleserver.com/NIV/Genesis18%3A20-33" %}}.
 
 ## The bowls
 
 <a name="7ced"></a>
-{{% bible val="The first bowl" link="https://www.bibleserver.com/NIV/Revelation16%3A2" %}} goes against anyone who has taken the {{% bible val="mark of the beast" link="https://www.bibleserver.com/NIV/Revelation12%3A16-17" %}} ([a symbol of loyalty](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)). This is what God is most focused on: [How can people trust the one who brings only destruction in the end?](https://www.bibleserver.com/NIV/Revelation6%3A1-11) Especially for the Church who knows the fate of the devil.
+{{% bible val="The first bowl" link="https://www.bibleserver.com/NIV/Revelation16%3A2" %}} goes against anyone who has taken the {{% bible val="mark of the beast" link="https://www.bibleserver.com/NIV/Revelation12%3A16-17" %}} ({{% int_link val="a symbol of loyalty" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}). This is what God is most focused on: [How can people trust the one who brings only destruction in the end?](https://www.bibleserver.com/NIV/Revelation6%3A1-11) Especially for the Church who knows the fate of the devil.
 
-{{% bible val="The second and third bowls" link="https://www.bibleserver.com/NIV/Revelation16%3A3-7" %}} are God’s action for silencing His witnesses (us). God does not stand by silently. He takes revenge, but not by killing but by forcing people to reflect. The second bowl could show, with reference to the {{% bible val="first plague in Egypt" link="https://www.bibleserver.com/NIV/Exodus7%3A17" %}} ([killing of the origin of Egyptian gods](/bible/exodus/expl/the-plagues-in-egypt)), that the devil is exposed as helpless and destructive.
+{{% bible val="The second and third bowls" link="https://www.bibleserver.com/NIV/Revelation16%3A3-7" %}} are God’s action for silencing His witnesses (us). God does not stand by silently. He takes revenge, but not by killing but by forcing people to reflect. The second bowl could show, with reference to the {{% bible val="first plague in Egypt" link="https://www.bibleserver.com/NIV/Exodus7%3A17" %}} ({{% int_link val="killing of the origin of Egyptian gods" link="/bible/exodus/expl/the-plagues-in-egypt" %}}), that the devil is exposed as helpless and destructive.
 
-{{% bible val="The fourth and the fifth bowls" link="https://www.bibleserver.com/NIV/Revelation16%3A8-11" %}} also deal with a similar theme: [The hardening of the human heart](/bible/exodus/expl/the-hardening-of-pharaohs-heart). They would rather suffer than give God the glory. It is their own choice. They would {{% bible val="rather be deceived by the devil and go down with him than humble themselves before God" link="https://www.bibleserver.com/NIV/Revelation16%3A13-16" %}}.
+{{% bible val="The fourth and the fifth bowls" link="https://www.bibleserver.com/NIV/Revelation16%3A8-11" %}} also deal with a similar theme: {{% int_link val="The hardening of the human heart" link="/bible/exodus/expl/the-hardening-of-pharaohs-heart" %}}. They would rather suffer than give God the glory. It is their own choice. They would {{% bible val="rather be deceived by the devil and go down with him than humble themselves before God" link="https://www.bibleserver.com/NIV/Revelation16%3A13-16" %}}.
 
 {{% bible val="The sixth and seventh bowls" link="https://www.bibleserver.com/NIV/Revelation16%3A12-21" %}} finally describe the destruction of the kingdom of the devil and his associates. This is the last thing, before he
 

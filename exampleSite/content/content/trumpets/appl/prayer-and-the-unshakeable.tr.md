@@ -83,4 +83,4 @@ Diğer yandan: Zor zamanlar bir kalbi değiştirmek için yeterli değildir. Dah
 - Yaşamınızdaki sarsılmaz güvenceler nelerdir?
 - Hangi güvencenizden vazgeçemezsiniz? Tanrı’yla ilişkinizi kaybettiğinizde de vazgeçmez miydiniz?
 
-[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
+{{% int_link val="Daha büyük bağlam" link="/gen/index/appl/the-book-of-revelation" %}}

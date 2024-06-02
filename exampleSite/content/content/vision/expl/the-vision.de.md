@@ -46,7 +46,7 @@ Johannes bricht wie {{% bible val="Daniel" link="https://www.bibleserver.com/SLT
 <a name="4bd0"></a>
 Jesus bestätigt alle Aussagen, die {{% bible val="wir schon zu Beginn des Kapitels gesehen haben" link="https://www.bibleserver.com/SLT/Offenbarung1%2C5" %}}.
 
-Schließlich wird das {{% bible val="Geheimnis der Leuchter und Sterne gelüftet" link="https://www.bibleserver.com/SLT/Offenbarung1%2C20" %}}. Sie stellen [verschiedene Beschreibungen der Erwartungen an die Gemeinde](/content/letters/expl/the-angel-of-the-churches) dar.
+Schließlich wird das {{% bible val="Geheimnis der Leuchter und Sterne gelüftet" link="https://www.bibleserver.com/SLT/Offenbarung1%2C20" %}}. Sie stellen {{% int_link val="verschiedene Beschreibungen der Erwartungen an die Gemeinde" link="/content/letters/expl/the-angel-of-the-churches" %}} dar.
 
 Die Gemeinde wird durch zwei Bilder beschrieben, die auch zwei Elemente gemeinsam haben:
 

@@ -12,7 +12,7 @@ When you hear “Day of the Lord”, you think of the destruction of the world. 
 ## Origin of the Day of the Lord
 
 <a name="674e"></a>
-Israel had a [covenant with God](/background/israel/expl/gods-covenant). The purpose of the {{% bible val="covenant was to be a blessing to all nations" link="https://www.bibleserver.com/NIV/Genesis12%3A2-3" %}} because it {{% bible val="was based on the covenant with Abraham" link="https://www.bibleserver.com/NIV/Exodus3%3A6" %}}.
+Israel had a {{% int_link val="covenant with God" link="/background/israel/expl/gods-covenant" %}}. The purpose of the {{% bible val="covenant was to be a blessing to all nations" link="https://www.bibleserver.com/NIV/Genesis12%3A2-3" %}} because it {{% bible val="was based on the covenant with Abraham" link="https://www.bibleserver.com/NIV/Exodus3%3A6" %}}.
 
 When Israel came out of Egypt, they {{% bible val="took with them many other people who became part of Israel" link="https://www.bibleserver.com/NIV/Exodus12%3A38" %}}.
 
@@ -66,5 +66,5 @@ The Day of the Lord will bring
 - {{% bible val="judgment on the wicked in Israel" link="https://www.bibleserver.com/NIV/Zephaniah1%3A4-9" %}},
 - God fulfills His promises like the outpouring of the Holy Spirit.
 
-But this will happen only to the [remnant of Israel](/background/israel/expl/the-remnant-of-israel).
+But this will happen only to the {{% int_link val="remnant of Israel" link="/background/israel/expl/the-remnant-of-israel" %}}.
 

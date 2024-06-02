@@ -20,7 +20,7 @@ Die Offenbarung beschreibt den Himmel mit verschiedenen Matephoren: In Kapitel {
 
 Darüber hinaus wird das {{% bible val="Neue Jerusalem auch als die Braut Christi beschrieben" link="https://www.bibleserver.com/SLT/Offenbarung21%2C2" %}}, was einen noch intimeren Eindruck in der Beziehung zu Gott vermittelt.
 
-Außerdem ist die Sprache von Kapitel 21 sehr stark von der Beschreibung des Tempels geprägt, dem Ort, an[ dem Israel Gemeinschaft mit Gott hatte](/bible/keyword/expl/the-temple-and-the-presence-of-god). Der Tempel wiederum ist ein Abbild von Eden. Nicht nur das, das Neue Jerusalem has die Form eines {{% bible val="Kubus" link="https://www.bibleserver.com/SLT/Offenbarung21%2C16" %}}. Und das einzige Object im Alten Testament, das {{% bible val="diese Form hatte, war das Allerheiligste" link="https://www.bibleserver.com/SLT/2.Chronik3%2C8" %}}, das so sehr von der Gegenwart Gottes erfüllt war, dass der lediglich Hohepriester es nur einmal im Jahr betreten durfte.
+Außerdem ist die Sprache von Kapitel 21 sehr stark von der Beschreibung des Tempels geprägt, dem Ort, an{{% int_link val=" dem Israel Gemeinschaft mit Gott hatte" link="/bible/keyword/expl/the-temple-and-the-presence-of-god" %}}. Der Tempel wiederum ist ein Abbild von Eden. Nicht nur das, das Neue Jerusalem has die Form eines {{% bible val="Kubus" link="https://www.bibleserver.com/SLT/Offenbarung21%2C16" %}}. Und das einzige Object im Alten Testament, das {{% bible val="diese Form hatte, war das Allerheiligste" link="https://www.bibleserver.com/SLT/2.Chronik3%2C8" %}}, das so sehr von der Gegenwart Gottes erfüllt war, dass der lediglich Hohepriester es nur einmal im Jahr betreten durfte.
 
 Das Neue Jerusalem oder der Himmel wird als ein Ort der größten Nähe zu Hott beschrieben.
 
@@ -42,5 +42,5 @@ Aber warum sollte es ein schlechter Ort sein? Weil alles Gute von Gott kommt. Ic
 
 Gott wird niemanden zu einer Beziehung mit ihm zwingen. Wenn wir nicht ganz bei ihm sind, wird er uns gehen lassen. Aber die Konsequenz ist ein Leben ohne ihn und damit auch ein Leben ohne seine Gaben, die unser Leben wie die Hölle aussehen lassen. Wir haben das in der Schöpfungsgeschichte gesehen, wo der Mensch die Gaben Gottes wichtiger fand als Gott.
 
-Der Begriff Hölle wird oft als Drohung benutzt, um Angst zu erzeugen: Wenn du dich nicht bekehrst und Christ wirst, kommst du in die Hölle. Nun, das ist nicht ganz falsch, aber [Angst und Manipulation sind die Werkzeuge Satans,](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) nicht der Gemeinde, die ihr [Zeugnis](/topics/power/short/the-power-of-testimony) nutzt.
+Der Begriff Hölle wird oft als Drohung benutzt, um Angst zu erzeugen: Wenn du dich nicht bekehrst und Christ wirst, kommst du in die Hölle. Nun, das ist nicht ganz falsch, aber {{% int_link val="Angst und Manipulation sind die Werkzeuge Satans," link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}} nicht der Gemeinde, die ihr {{% int_link val="Zeugnis" link="/topics/power/short/the-power-of-testimony" %}} nutzt.
 

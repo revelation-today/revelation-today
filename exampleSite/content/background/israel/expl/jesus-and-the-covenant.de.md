@@ -62,7 +62,7 @@ Auch die Beschreibung der Seligpreisungen sind eine Herausforderung für Israel 
 ## Ein neues Denken
 
 <a name="3cee"></a>
-Als Jesus kam, haben die Menschen sein Kommen nicht bemerkt. Sie erwarteten etwas anderes. Denn nach der Verheißung vom [Tages des Herrn](/background/israel/expl/the-day-of-the-lord) wird er
+Als Jesus kam, haben die Menschen sein Kommen nicht bemerkt. Sie erwarteten etwas anderes. Denn nach der Verheißung vom {{% int_link val="Tages des Herrn" link="/background/israel/expl/the-day-of-the-lord" %}} wird er
 
 - kommen, um die Feinde Israels zu vernichten und
 - den Überrest Israels wiederherzustellen, damit sie
@@ -78,7 +78,7 @@ Zunächst einmal hatte Jesus ein ganz anderes Verständnis von Herrschen.
 
 Zweitens hat Jesus sehr deutlich gemacht, dass die Feinde nicht die Römer als Besatzungsmacht sind, sondern die {{% bible val="Feinde sind die Dämonen" link="https://www.bibleserver.com/SLT/Markus3%2C22-27" %}}, die er bei verschiedenen Anläßen austrieb. Sie {{% bible val="auszutreiben, war ein Zeichen dafür, dass der Tag des Herrn da ist" link="https://www.bibleserver.com/SLT/Matth%C3%A4us12%2C28" %}}. Das war {{% bible val="speziell bei seinem Tod der Fall" link="https://www.bibleserver.com/SLT/Johannes12%2C31-33" %}}.
 
-Schließlich sind der Überrest nicht die religiösen Menschen, sondern diejenigen, die den Bund halten, also [nur Jesus selbst](/bible/daniel/expl/the-son-of-man-and-the-remnant). Alle anderen gehören nicht zum Überrest und würden unter das Gericht fallen — also das gesamte Volk Israel.
+Schließlich sind der Überrest nicht die religiösen Menschen, sondern diejenigen, die den Bund halten, also {{% int_link val="nur Jesus selbst" link="/bible/daniel/expl/the-son-of-man-and-the-remnant" %}}. Alle anderen gehören nicht zum Überrest und würden unter das Gericht fallen — also das gesamte Volk Israel.
 
 ## Bereits und noch nicht
 

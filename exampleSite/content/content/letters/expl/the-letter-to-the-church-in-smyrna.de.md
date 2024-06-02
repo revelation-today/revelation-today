@@ -42,4 +42,4 @@ Der Hinweis auf die {{% bible val="10 Tage" link="https://www.bibleserver.com/SL
 <a name="302f"></a>
 Jesus verheißt: Wenn sie standhalten, wird ihnen der zweite Tod nicht schaden. Jesus hat ihn überwunden, indem er {{% bible val="durch den Tod in die Auferstehung gegangen ist, was als Schwäche gesehen werden kann" link="https://www.bibleserver.com/SLT/Offenbarung5%2C5-6" %}}, aber {{% bible val="so regiert er und mit ihm die Gemeinde" link="https://www.bibleserver.com/SLT/Offenbarung20%2C4-6" %}}. Das ist eine Paradox. Wie soll das funktionieren?
 
-Je mehr wir versagen, desto mehr kann Jesus wirken. Es besteht die Gefahr, dass wir [von der Verzweiflung so überwältigt werden, dass wir aufgeben](/content/beasts/expl/666-the-number-of-the-beast). Wir sollen die Situationen nicht lösen, sondern sie mit ihm aushalten.
+Je mehr wir versagen, desto mehr kann Jesus wirken. Es besteht die Gefahr, dass wir {{% int_link val="von der Verzweiflung so überwältigt werden, dass wir aufgeben" link="/content/beasts/expl/666-the-number-of-the-beast" %}}. Wir sollen die Situationen nicht lösen, sondern sie mit ihm aushalten.

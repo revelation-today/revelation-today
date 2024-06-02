@@ -12,7 +12,7 @@ Wenn man den Begriff “Tag des Herrn” hört, denkt man vielleicht an den Unte
 ## Ursprung des Tages des Herrn
 
 <a name="4fec"></a>
-Israel hatte einen [Bund mit Gott](/background/israel/expl/gods-covenant). Der Grund für diesen Bundes war, {{% bible val="ein Segen für die Nationen zu sein" link="https://www.bibleserver.com/SLT/1.Mose12%2C2-3" %}}, denn dieser Bund basierte auf {{% bible val="dem Bund mit Abraham gegründet" link="https://www.bibleserver.com/SLT/2.Mose3%2C6" %}}.
+Israel hatte einen {{% int_link val="Bund mit Gott" link="/background/israel/expl/gods-covenant" %}}. Der Grund für diesen Bundes war, {{% bible val="ein Segen für die Nationen zu sein" link="https://www.bibleserver.com/SLT/1.Mose12%2C2-3" %}}, denn dieser Bund basierte auf {{% bible val="dem Bund mit Abraham gegründet" link="https://www.bibleserver.com/SLT/2.Mose3%2C6" %}}.
 
 Als Israel aus Ägypten auszog, {{% bible val="nahm es viele andere Menschen mit, die dadurch auch Teil Israels wurden." link="https://www.bibleserver.com/SLT/2.Mose12%2C38" %}}
 
@@ -66,5 +66,5 @@ Der Tag des Herrn wird bringen
 - {{% bible val="Gericht über die Ungerechten in Israel" link="https://www.bibleserver.com/SLT/Zefanja1%2C4-9" %}}
 - Gott erfüllt die Verheißung des Ausgießens des Heiligen Geistes.
 
-Dies geschieht aber nur für den [Überrest Israels](/background/israel/expl/the-remnant-of-israel).
+Dies geschieht aber nur für den {{% int_link val="Überrest Israels" link="/background/israel/expl/the-remnant-of-israel" %}}.
 

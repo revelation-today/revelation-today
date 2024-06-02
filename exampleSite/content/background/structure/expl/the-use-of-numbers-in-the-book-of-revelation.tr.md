@@ -36,7 +36,7 @@ Vahiy’deki bütünlüğün diğer örnekleri, Tanrı’nın yargısının büt
 ## Sayı 3,5
 
 <a name="832f"></a>
-[Burada kendi makalemiz var](/bible/daniel/expl/the-secret-of-the-3-5-years)
+{{% int_link val="Burada kendi makalemiz var" link="/bible/daniel/expl/the-secret-of-the-3-5-years" %}}
 
 ## 4 numara
 

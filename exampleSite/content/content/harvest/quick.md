@@ -30,4 +30,4 @@ And here the circle closes to the first angel. How did the nations respond? Did 
 
 ![](/images/harvest_en.jpg)
 
-Because this was the content of the [little scroll](/content/scroll/quick): The church must act like Jesus (mystery of God), so that all nations are saved.
+Because this was the content of the {{% int_link val="little scroll" link="/content/scroll/quick" %}}: The church must act like Jesus (mystery of God), so that all nations are saved.

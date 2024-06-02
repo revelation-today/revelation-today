@@ -24,8 +24,8 @@ In {{% bible val="Revelation chapter 11" link="https://www.bibleserver.com/NIV/R
 ## You may want to read before
 
 <a name="0926"></a>
-- [The 3,5 years](/bible/daniel/expl/the-secret-of-the-3-5-years)
-- [The two beasts](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation)
+- {{% int_link val="The 3,5 years" link="/bible/daniel/expl/the-secret-of-the-3-5-years" %}}
+- {{% int_link val="The two beasts" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}
 
 ## The call
 
@@ -45,7 +45,7 @@ There is much dispute as to who the witnesses are: They could be
 
 The text itself gives us the clue. {{% bible val="“ They are ‘the two olive trees’ and the two lampstands, and ‘they stand before the Lord of the earth" link="https://www.bibleserver.com/NIV/Revelation11%3A4" %}}’”. This is a reference to the {{% bible val="prophet Zechariah" link="https://www.bibleserver.com/NIV/Zechariah4%3A2-14" %}} (where it is identified with the high priest Joshua and the descendant of David: Zerubbabel), but also a reference {{% bible val="to the seven churches which are identified with the lampstands" link="https://www.bibleserver.com/NIV/Revelation1%3A20" %}}.
 
-This is further confirmed by our discussion of the {{% bible val="3.5 years" link="https://www.bibleserver.com/NIV/Revelation11%3A3" %}}, which [refers to the entire time between Jesus first and second coming](/bible/daniel/expl/the-secret-of-the-3-5-years), so we have to assume that these are not people, but the Church itself.
+This is further confirmed by our discussion of the {{% bible val="3.5 years" link="https://www.bibleserver.com/NIV/Revelation11%3A3" %}}, which {{% int_link val="refers to the entire time between Jesus first and second coming" link="/bible/daniel/expl/the-secret-of-the-3-5-years" %}}, so we have to assume that these are not people, but the Church itself.
 
 There are many ways to associate them with specific persons, but the best match is Moses and Elijah, as they reflect well the miracles, {{% bible val="letting fire fall from heaven on their enemies" link="https://www.bibleserver.com/NIV/Revelation11%3A5" %}} is very typical of {{% bible val="Elijah" link="https://www.bibleserver.com/NIV/1%20Kings1" %}}, as well as {{% bible val="stopping the rain" link="https://www.bibleserver.com/NIV/Revelation11%3A6" %}} which {{% bible val="reflects Elijah’s ministry" link="https://www.bibleserver.com/NIV/James5%3A17" %}}, while turning {{% bible val="water into blood" link="https://www.bibleserver.com/NIV/Revelation11%3A6" %}} reflects {{% bible val="the first plague under Moses" link="https://www.bibleserver.com/NIV/Exodus7%3A14-24" %}}.
 

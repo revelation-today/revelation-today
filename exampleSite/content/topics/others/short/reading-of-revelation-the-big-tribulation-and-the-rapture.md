@@ -43,7 +43,7 @@ The hope of Christians should not be that we will be relieved of our tribulation
 ## Digging deeper
 
 <a name="ac9e"></a>
-- [The story of Jesus](/content/jesus/expl/a-different-christmas-story)
-- [The Big Tribulation](/content/army/expl/the-end-time-and-the-great-tribulation)
-- [The Rapture](/topics/others/expl/the-rapture)
+- {{% int_link val="The story of Jesus" link="/content/jesus/expl/a-different-christmas-story" %}}
+- {{% int_link val="The Big Tribulation" link="/content/army/expl/the-end-time-and-the-great-tribulation" %}}
+- {{% int_link val="The Rapture" link="/topics/others/expl/the-rapture" %}}
 

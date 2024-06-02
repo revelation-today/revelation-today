@@ -21,7 +21,7 @@ The text is “[I watched as he opened the sixth seal. There was a great earthqu
 ## The Wrath of the Lamb
 
 <a name="ddd6"></a>
-The wrath of the lamb sounds like a theme that is all over the Bible, but this term actually only appears {{% bible val="ONCE" link="https://www.bibleserver.com/NIV/Revelation6%3A16" %}} in the context of the sixth seal and is not the description of the lamb but the perception that the people have of him. After all the devastation of the [four horseman masquerading as Jesus](/content/seals/expl/the-mystery-of-the-four-horse-men) the people are certainly afraid that Jesus will act the same way, but he is not. His judgment will be severe ([permanent separation from God](/content/paradise/expl/heaven-and-hell)), but not in the way of devastating warfare.
+The wrath of the lamb sounds like a theme that is all over the Bible, but this term actually only appears {{% bible val="ONCE" link="https://www.bibleserver.com/NIV/Revelation6%3A16" %}} in the context of the sixth seal and is not the description of the lamb but the perception that the people have of him. After all the devastation of the {{% int_link val="four horseman masquerading as Jesus" link="/content/seals/expl/the-mystery-of-the-four-horse-men" %}} the people are certainly afraid that Jesus will act the same way, but he is not. His judgment will be severe ({{% int_link val="permanent separation from God" link="/content/paradise/expl/heaven-and-hell" %}}), but not in the way of devastating warfare.
 
 They whole scene reminds of {{% bible val="Hosea" link="https://www.bibleserver.com/NIV/Hosea10%3A6-8" %}}, where Israel is disgraced and ashamed of their idolatry and trying to hide from God which goes back to {{% bible val="the fall of man trying to hide from God after his sin" link="https://www.bibleserver.com/NIV/Genesis3%3A8" %}}.
 
@@ -34,7 +34,7 @@ But only the fear of the people is described, no reaction of Jesus or God is sho
 <a name="7d6e"></a>
 The word used in this passage is “[orge](https://biblehub.com/greek/3709.htm)”, which comes from “swelling up”, and describes a resistance that has been building up for a long time, not a spontaneous outburst.
 
-On the one hand, the people are realizing what they have built up against God, but on the other hand, [God has been trying to get through to the people but there comes a point where it stops](/content/bowls/expl/the-bowls-of-wrath).
+On the one hand, the people are realizing what they have built up against God, but on the other hand, {{% int_link val="God has been trying to get through to the people but there comes a point where it stops" link="/content/bowls/expl/the-bowls-of-wrath" %}}.
 
 This should not give the impression that God is like a social worker who tries to see if he can do something and then gives up because people are unwilling. He will confront people with the consequences of their actions.
 

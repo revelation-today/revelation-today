@@ -34,7 +34,7 @@ So the reverse side of the coin praises the power and permanence of Rome.What do
 - The hills of Rome represent the beast and the kings who will destroy Roma (the prostitute) — Roma is the victim of the city she protects.
 - Roma does not protect herself from enemies with the sword, but she is covered with the blood of the saints.
 
-The coin depicting the [Pax Romana](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation) is transformed into an image of contempt and disgust, reminding every believer who sees it in everyday life that Rome cannot be trusted — a very effective counter-propaganda.
+The coin depicting the {{% int_link val="Pax Romana" link="/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation" %}} is transformed into an image of contempt and disgust, reminding every believer who sees it in everyday life that Rome cannot be trusted — a very effective counter-propaganda.
 
 ## The Ekphrasis
 

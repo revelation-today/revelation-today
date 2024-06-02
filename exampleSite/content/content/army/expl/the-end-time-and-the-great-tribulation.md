@@ -25,15 +25,15 @@ When will the end times begin, and what is the Great Tribulation? This is a ques
 ## You may want to read before
 
 <a name="491a"></a>
-- [The type of the book](/background/literature/expl/the-book-of-revelation-how-to-read-it)
-- [The structure of the book](/background/structure/expl/the-structure-of-the-book-of-revelation)
+- {{% int_link val="The type of the book" link="/background/literature/expl/the-book-of-revelation-how-to-read-it" %}}
+- {{% int_link val="The structure of the book" link="/background/structure/expl/the-structure-of-the-book-of-revelation" %}}
 
 ## What is the end time?
 
 <a name="d1d8"></a>
-I think there is a lot of confusion when it comes to the end times and its terminology. So let’s look at it. To do this, we need to have a look at the [Day of the Lord](/background/israel/expl/the-day-of-the-lord). This is the time when the Kingdom of God comes. In the Old Testament, this was described as the time known as the [second Exodus](/background/israel/expl/the-second-exodus).
+I think there is a lot of confusion when it comes to the end times and its terminology. So let’s look at it. To do this, we need to have a look at the {{% int_link val="Day of the Lord" link="/background/israel/expl/the-day-of-the-lord" %}}. This is the time when the Kingdom of God comes. In the Old Testament, this was described as the time known as the {{% int_link val="second Exodus" link="/background/israel/expl/the-second-exodus" %}}.
 
-But when Jesus came to earth, He fulfilled one part of the Day of the Lord (the saving aspect), but left another part (the judgment), which will be fulfilled when He comes again (in our future). This period, beginning with the first coming of Christ, could be considered the beginning of the end times. Then this is very relevant for us because we live in this time. But it is also [a somewhat confusing time](/topics/hero/short/who-rules-the-world). If we consider this to be the end time, then we see this explained in the whole book of Revelation and we see a lot of guidance there.
+But when Jesus came to earth, He fulfilled one part of the Day of the Lord (the saving aspect), but left another part (the judgment), which will be fulfilled when He comes again (in our future). This period, beginning with the first coming of Christ, could be considered the beginning of the end times. Then this is very relevant for us because we live in this time. But it is also {{% int_link val="a somewhat confusing time" link="/topics/hero/short/who-rules-the-world" %}}. If we consider this to be the end time, then we see this explained in the whole book of Revelation and we see a lot of guidance there.
 
 Here is a quick overview on the timeline in the book
 
@@ -62,7 +62,7 @@ We see the tribulation already foretold by {{% bible val="Jesus to the disciples
 
 This makes the Great Tribulation something that happens the whole time between Jesus first and second coming. But how is this possible?
 
-Let us look again at the passage in Daniel. “Michael, the protector of Israel, will arise”. This is taken up in the Book of Revelation in connection with the [first coming of Christ](/content/jesus/expl/a-different-christmas-story) in chapter 12. {{% bible val="Michael will fight with the dragon" link="https://www.bibleserver.com/NIV/Revelation12%3A7" %}} ({{% bible val="devil" link="https://www.bibleserver.com/NIV/Revelation12%3A9" %}}) and defeat him and cast him out of heaven. 
+Let us look again at the passage in Daniel. “Michael, the protector of Israel, will arise”. This is taken up in the Book of Revelation in connection with the {{% int_link val="first coming of Christ" link="/content/jesus/expl/a-different-christmas-story" %}} in chapter 12. {{% bible val="Michael will fight with the dragon" link="https://www.bibleserver.com/NIV/Revelation12%3A7" %}} ({{% bible val="devil" link="https://www.bibleserver.com/NIV/Revelation12%3A9" %}}) and defeat him and cast him out of heaven. 
 
 {{% bible val="But because of his defeat, he is ruthless because he has only little time" link="https://www.bibleserver.com/NIV/Revelation12%3A12" %}} and tries to do as much damage as possible, {{% bible val="first against Israel" link="https://www.bibleserver.com/NIV/Revelation12%3A13-17" %}} and at this didn’t work, {{% bible val="against the church" link="https://www.bibleserver.com/NIV/Revelation13" %}}.
 

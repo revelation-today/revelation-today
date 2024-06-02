@@ -65,4 +65,4 @@ Ağzından çıkan bir kılıçla gelir ve herkesi tek başına yargılar (melek
 - Günümüzün hangi zihniyeti fahişenin zihniyetini yansıtıyor?
 - Babil düştüğünde hangi şeyler için yas tutarsınız?
 
-[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
+{{% int_link val="Daha büyük bağlam" link="/gen/index/appl/the-book-of-revelation" %}}

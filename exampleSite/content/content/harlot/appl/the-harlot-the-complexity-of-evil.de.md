@@ -68,8 +68,8 @@ Er kommt mit dem Schwert seines Mundes und bringt das Gericht ganz allein (die E
 ## Zur Vertiefung
 
 <a name="e2a7"></a>
-- [Wer ist die Hure: Teil 1](/content/harlot/expl/who-is-the-harlot-babylon-part-1)
-- [Wer ist die Hure: Teil 2](/content/harlot/expl/who-is-the-harlot-babylon-part-2)
-- [Die Hure als Satire der damaligen Zeit](/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire)
-- [Der Charakter und das Schicksal der Hure](/content/harlot/expl/the-character-and-destiny-of-the-harlot)
+- {{% int_link val="Wer ist die Hure: Teil 1" link="/content/harlot/expl/who-is-the-harlot-babylon-part-1" %}}
+- {{% int_link val="Wer ist die Hure: Teil 2" link="/content/harlot/expl/who-is-the-harlot-babylon-part-2" %}}
+- {{% int_link val="Die Hure als Satire der damaligen Zeit" link="/content/harlot/expl/the-harlot-in-revelation-a-mocking-of-the-roman-empire" %}}
+- {{% int_link val="Der Charakter und das Schicksal der Hure" link="/content/harlot/expl/the-character-and-destiny-of-the-harlot" %}}
 

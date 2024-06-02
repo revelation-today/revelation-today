@@ -100,7 +100,7 @@ Even though the book has apocalyptic elements, it challenges that idea.
 - The Lion of Judah is actually the {{% bible val="Lamb" link="https://www.bibleserver.com/NIV/Revelation5%3A5-6" %}} of God
 - The {{% bible val="army of the 144.000" link="https://www.bibleserver.com/NIV/Revelation7%3A4-8" %}} is explained as people who {{% bible val="worship" link="https://www.bibleserver.com/NIV/Revelation7%3A9-10" %}} God and later as those who follow the lamb and the {{% bible val="faithful" link="https://www.bibleserver.com/NIV/Revelation14%3A1-5" %}} who come out of the Great Tribulation.
 - The victory of the two witnesses is their {{% bible val="death" link="https://www.bibleserver.com/NIV/Revelation11%3A7-13" %}}.
-- The mysterious place of {{% bible val="Armageddon" link="https://www.bibleserver.com/NIV/Revelation16%3A14" %}} describes the [defeat of the strong and the victory of the absolute weak](/content/bowls/expl/the-key-to-armageddon).
+- The mysterious place of {{% bible val="Armageddon" link="https://www.bibleserver.com/NIV/Revelation16%3A14" %}} describes the {{% int_link val="defeat of the strong and the victory of the absolute weak" link="/content/bowls/expl/the-key-to-armageddon" %}}.
 - The harlot is {{% bible val="destroyed by the beast" link="https://www.bibleserver.com/NIV/Revelation17%3A16" %}} on which she {{% bible val="sat" link="https://www.bibleserver.com/NIV/Revelation17%3A3" %}}.
 - Jesus comes and {{% bible val="kills the armies with the sword of his mouth" link="https://www.bibleserver.com/NIV/Revelation19%3A21" %}}.
 

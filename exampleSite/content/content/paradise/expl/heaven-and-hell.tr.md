@@ -20,7 +20,7 @@ Vahiy cenneti farklı metaforlarla anlatır: {{% bible val="Yedinci bölümde" l
 
 {{% bible val="Ayrıca Yeni Yeruşalim Mesih’in Gelini olarak tanımlanarak" link="https://www.bibleserver.com/TR/Vahiy21%3A2" %}} konuya daha da samimi bir boyut kazandırılmıştır.
 
-Ayrıca 21. bölümdeki dil, [İsrail’in Tanrı’yla paydaşlık ettiği yer olan tapınakla çok ilgilidir](/bible/keyword/expl/the-temple-and-the-presence-of-god). Öte yandan tapınak Aden’in bir yansımasıdır. Sadece bu da değil, Yeni Yeruşalim’in şekli {{% bible val="bir küp" link="https://www.bibleserver.com/TR/Vahiy21%3A16" %}} şeklindedir. {{% bible val="Eski Ahit’te bu şekle sahip olan tek nesne, Tanrı’nın yaşadığı yer olan Kutsalların Kutsalı’dır" link="https://www.bibleserver.com/TR/2.Tarihler3%3A8" %}}. Tanrı’nın varlığıyla öylesine yoğun bir şekilde dolu olan bu yere yılda bir kez sadece Baş Kâhin’in girmesine izin verilirdi.
+Ayrıca 21. bölümdeki dil, {{% int_link val="İsrail’in Tanrı’yla paydaşlık ettiği yer olan tapınakla çok ilgilidir" link="/bible/keyword/expl/the-temple-and-the-presence-of-god" %}}. Öte yandan tapınak Aden’in bir yansımasıdır. Sadece bu da değil, Yeni Yeruşalim’in şekli {{% bible val="bir küp" link="https://www.bibleserver.com/TR/Vahiy21%3A16" %}} şeklindedir. {{% bible val="Eski Ahit’te bu şekle sahip olan tek nesne, Tanrı’nın yaşadığı yer olan Kutsalların Kutsalı’dır" link="https://www.bibleserver.com/TR/2.Tarihler3%3A8" %}}. Tanrı’nın varlığıyla öylesine yoğun bir şekilde dolu olan bu yere yılda bir kez sadece Baş Kâhin’in girmesine izin verilirdi.
 
 Bu yüzden Yeni Yeruşalim ya da cennet Tanrı’yla en yakın olunan yer olarak tanımlanır.
 
@@ -44,5 +44,5 @@ Tanrı olmadan aşağı doğru bir sarmal ya da affetmeme, acı, umutsuzluk ve k
 
 Tanrı kimseyi kendisiyle paydaşlık etmesi için zorlamaz. Onunla tam olarak birlikte olmak istemiyorsak, gitmemize izin verecektir. Ancak bunun sonucu, O’nsuz ve dolayısıyla armağanlarından da yoksun bir yaşamdır ki bu da yaşamımızı cehennem diyarında bırakır.
 
-Cehennem genellikle korku yaratmak için kullanılır: Eğer tövbe etmez ve Hıristiyan olmazsanız cehenneme gidersiniz. Yukarıda gördüklerimize göre bu gerçekten yanlış değildir, [ancak mesele şu ki korku ve manipülasyon canavarın özellikleridir (Vahiy’de)](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation), ancak kilisenin özelliği esas [olarak tanık](/content/witnesses/expl/the-two-witnesses) olarak [tanıklıklarıdır](/topics/power/short/the-power-of-testimony).
+Cehennem genellikle korku yaratmak için kullanılır: Eğer tövbe etmez ve Hıristiyan olmazsanız cehenneme gidersiniz. Yukarıda gördüklerimize göre bu gerçekten yanlış değildir, {{% int_link val="ancak mesele şu ki korku ve manipülasyon canavarın özellikleridir (Vahiy’de)" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}, ancak kilisenin özelliği esas {{% int_link val="olarak tanık" link="/content/witnesses/expl/the-two-witnesses" %}} olarak {{% int_link val="tanıklıklarıdır" link="/topics/power/short/the-power-of-testimony" %}}.
 

@@ -42,4 +42,4 @@ The reference {{% bible val="to 10 days" link="https://www.bibleserver.com/NIV/R
 <a name="1a16"></a>
 Jesus promises: When they endure they will not be harmed by the second death. Jesus overcame by {{% bible val="going through death into resurrection and seeming to be week" link="https://www.bibleserver.com/NIV/Revelation5%3A5-6" %}}, so {{% bible val="he will reign with them" link="https://www.bibleserver.com/NIV/Revelation20%3A4-6" %}}. This is a paradox. How should this work?
 
-The more we are unable to do anything, the more Jesus can work. But there is a [danger of being so overwhelmed by despair that we give up](/content/beasts/expl/666-the-number-of-the-beast). We don’t have to solve the situation, but we have to endure with him.
+The more we are unable to do anything, the more Jesus can work. But there is a {{% int_link val="danger of being so overwhelmed by despair that we give up" link="/content/beasts/expl/666-the-number-of-the-beast" %}}. We don’t have to solve the situation, but we have to endure with him.

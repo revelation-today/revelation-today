@@ -51,4 +51,4 @@ Tüm bunları duyduktan sonra iyi karar verin. Ne yapacaksınız? Şimdi nasıl 
 - Tüm sıkıntılarınız ortadan kalkacak olsa bile katlanamadığınız ya da umursamadığınız bir kişiyle sonsuza kadar yaşar mıydınız?
 - Bu cennet vizyonu şu anda dünyadaki yaşamınızı nasıl şekillendiriyor?
 
-[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
+{{% int_link val="Daha büyük bağlam" link="/gen/index/appl/the-book-of-revelation" %}}

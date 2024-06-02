@@ -31,7 +31,7 @@ sources:
 ## Referanslarla dolu bir çanta
 
 <a name="042c"></a>
-Bundan önceki ayetlerde ejderhanın [çocuğa (İsa’ya)](/content/jesus/expl/a-different-christmas-story) ve annesine saldırısı anlatılmaktadır. Her ikisinde de tamamen başarısız olur, bu yüzden şimdi ayrıntılı olarak açıklanan iki canavarı daha bir araya getiriyor.
+Bundan önceki ayetlerde ejderhanın {{% int_link val="çocuğa (İsa’ya)" link="/content/jesus/expl/a-different-christmas-story" %}} ve annesine saldırısı anlatılmaktadır. Her ikisinde de tamamen başarısız olur, bu yüzden şimdi ayrıntılı olarak açıklanan iki canavarı daha bir araya getiriyor.
 
 - İlk referans {{% bible val="Eyüp 40/15–41/37" link="https://www.bibleserver.com/TR/Ey%C3%BCp40%3A15" %}} kitaplarına kadar gider. Denizden ve karadan gelen iki canavar olan Behemoth ve Leviathan’ı anlatan uzun bir öyküdür (Rev.13'teki canavarlar da denizden ve karadan gelir). İnsan tarafından yenilmezler ama Tanrı için yenilmezler ({{% bible val="Yeş.27/1" link="https://www.bibleserver.com/TR/Ye%C5%9Faya27" %}}). {{% bible val="Mez.104" link="https://www.bibleserver.com/TR/Mezmur104%3A26" %}}, Leviathan’ın Tanrı’yla karşılaştırıldığında bir oyuncaktan daha fazlası olmadığı izlenimini verir.
 - Benzer bir referans, açının ayağını karaya ve denize koyduğu (bunun üzerinde sahiplik iddiasında bulunduğu) {{% bible val="Rev.10/3'ü" link="https://www.bibleserver.com/TR/Vahiy10%3A3" %}} verir

@@ -47,4 +47,4 @@ Bu kilisenin tanıklığıdır. Tanıklıktan kastım iyi bir yaşam tarzı değ
 - Hayatınızda daha fazlası olduğunu ve öne çıkma zamanınızın geldiğini düşünüyor musunuz?
 - Hayatınızda bir çağrı var ama emin değil misiniz ve bunun için gerçekten hiç gitmediniz mi?
 
-[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
+{{% int_link val="Daha büyük bağlam" link="/gen/index/appl/the-book-of-revelation" %}}

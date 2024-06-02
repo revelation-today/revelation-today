@@ -22,7 +22,7 @@ Worship in the throne room is the answer to the letters of the churches. Why and
 ## You may want to read before
 
 <a name="a8e2"></a>
-- [The letter to the churches](/content/letters/expl/the-letters-to-the-seven-churches)
+- {{% int_link val="The letter to the churches" link="/content/letters/expl/the-letters-to-the-seven-churches" %}}
 
 ## The background and context
 
@@ -100,9 +100,9 @@ This indicates that God is close to His people and protects them. The saints wil
 This is also the theme here, as you will see: Every series of plagues or announcement originates in the throne room. This is the central place in the book. Therefore, it is important to understand this place.
 
 When we look at the coming events, we see this
-- [The seals have tremendous trouble, but they are there to expose Satan’s wickedness](/content/seals/expl/the-mystery-of-the-four-horse-men), to save as many as possible, and to come with a quick end.
-- [The trumpets expose the false things that people rely on, and in the fifth and sixth trumpets, the cause of the trouble is the demons that people rely on](/content/trumpets/expl/the-trumpets-in-revelation).
-- [The bowls are the place where God puts everything so that the people will not be deceived and go down with the beast in the sixth and seventh bowls.](/content/bowls/expl/the-bowls-of-wrath)
+- {{% int_link val="The seals have tremendous trouble, but they are there to expose Satan’s wickedness" link="/content/seals/expl/the-mystery-of-the-four-horse-men" %}}, to save as many as possible, and to come with a quick end.
+- {{% int_link val="The trumpets expose the false things that people rely on, and in the fifth and sixth trumpets, the cause of the trouble is the demons that people rely on" link="/content/trumpets/expl/the-trumpets-in-revelation" %}}.
+- {{% int_link val="The bowls are the place where God puts everything so that the people will not be deceived and go down with the beast in the sixth and seventh bowls." link="/content/bowls/expl/the-bowls-of-wrath" %}}
 
 ## The worship
 

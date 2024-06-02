@@ -49,4 +49,4 @@ Bizler bir ordu olarak tanımlanırız — her zaman yaralanabileceklerinden ya 
 - Tanrı’nın ordusu Büyük Sıkıntı’dan geliyor. Size meydan okunduğunda imanınıza ne olacak? Daha mı güçlü olacak yoksa parçalanacak mı? Sınandığınızda Tanrı’nın imanınızı güçlendirebileceğine inanıyor musunuz? İnancınız neye dayanıyor?
 - [Translated with DeepL](https://www.deepl.com/translator?utm_source=windows&amp;utm_medium=app&amp;utm_campaign=windows-share)
 
-[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
+{{% int_link val="Daha büyük bağlam" link="/gen/index/appl/the-book-of-revelation" %}}

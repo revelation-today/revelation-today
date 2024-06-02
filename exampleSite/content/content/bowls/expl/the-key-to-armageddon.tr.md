@@ -53,7 +53,7 @@ Arka plan olarak: İsrail kralı Ahab, karısı Jesebel ile birlikte Sidon’dan
 ## Josiah
 
 <a name="9ad1"></a>
-[Bunun için ayrı bir giriş vardır](/content/bowls/expl/armageddon-and-the-battle-of-karkemish). Bir kral, Babil İmparatorluğu’na karşı Asurluları desteklemek için yola çıkan Mısır Kralı’yla savaşırken canını verir. Sadece birkaç not:
+{{% int_link val="Bunun için ayrı bir giriş vardır" link="/content/bowls/expl/armageddon-and-the-battle-of-karkemish" %}}. Bir kral, Babil İmparatorluğu’na karşı Asurluları desteklemek için yola çıkan Mısır Kralı’yla savaşırken canını verir. Sadece birkaç not:
 
 - Assur o dönemde İsrail’e sürekli baskı yapıyordu ve Babil sorun çıkardığı için bunu durduruyordu
 - Mısır bir yandan İsrail’in kölelikten kurtulduğu yerdi, ama her zaman İsrail için bir {{% bible val="yedek plandı ve normalde İsrail’i hayal kırıklığına uğrattı" link="https://www.bibleserver.com/TR/2.Krallar18%3A21" %}}. Görünüşe göre Yoşiya İsrail’in Mısır’a karşı savaşan ilk kralıydı.

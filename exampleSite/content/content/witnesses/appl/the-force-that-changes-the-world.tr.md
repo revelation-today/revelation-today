@@ -31,7 +31,7 @@ Hızla ilerliyoruz ve {{% bible val="11. bölüme" link="https://www.bibleserver
 ## Tanıklar
 
 <a name="2470"></a>
-Bunu kısa kesiyorum: [İki tanık kilisedir](/content/witnesses/expl/the-two-witnesses).
+Bunu kısa kesiyorum: {{% int_link val="İki tanık kilisedir" link="/content/witnesses/expl/the-two-witnesses" %}}.
 
 İsa’nın yaşam tarzını izleyen iki tanık:
 
@@ -66,4 +66,4 @@ Bu, Tanrı’nın tüm insanları zulümle öldüklerinde dirilteceği ve onlar�
 - Sizin için kendi yaşamınızdan daha önemli olan nedir?
 - Sizce kilisenin dünyayı değiştirme potansiyeli var mı?
 
-[Daha büyük bağlam](/gen/index/appl/the-book-of-revelation)
+{{% int_link val="Daha büyük bağlam" link="/gen/index/appl/the-book-of-revelation" %}}

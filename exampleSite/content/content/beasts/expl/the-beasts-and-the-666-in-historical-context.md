@@ -17,7 +17,7 @@ The dragon and the two beasts in the book of Revelation are usually interpreted 
 ## The context of the first readers
 
 <a name="2f6a"></a>
-The key to understanding the dragon and the two beasts is to see the aspect of the [book as a letter](/background/literature/expl/the-book-of-revelation-how-to-read-it) which should give us some clues as to the meaning of the {{% bible val="two beasts in Revelation" link="https://www.bibleserver.com/NIV/Revelation13" %}}.
+The key to understanding the dragon and the two beasts is to see the aspect of the {{% int_link val="book as a letter" link="/background/literature/expl/the-book-of-revelation-how-to-read-it" %}} which should give us some clues as to the meaning of the {{% bible val="two beasts in Revelation" link="https://www.bibleserver.com/NIV/Revelation13" %}}.
 
 The two beasts coming up out of the sea and out of the earth are based on
 
@@ -42,12 +42,12 @@ He is very clear to understand. He is the devil. He is the puppet master behind 
 <a name="1c08"></a>
 This is the emperor in Rome (from the sea). He is no different from all the rulers before him. And with the end of a particular emperor (death of Nero, Tiberius, …) the first beast is not dead. {{% bible val="With each new emperor, it comes back to life. Rome is unbeatable." link="https://www.bibleserver.com/NIV/Revelation13%3A3-4" %}}
 
-{{% bible val="Rome blasphemes God" link="https://www.bibleserver.com/NIV/Revelation13%3A4-6" %}} by [claiming to be like Him](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation). The emperor is the one who commands the Roman legions and breaks anyone who does not play along. {{% bible val="He starts persecutions against God’s people and is successful with it" link="https://www.bibleserver.com/NIV/Revelation13%3A7-8" %}}. And all who are written in the book of life will bow their knees before him, for {{% bible val="he has the power and the saints can only endure" link="https://www.bibleserver.com/NIV/Revelation13%3A10" %}}.
+{{% bible val="Rome blasphemes God" link="https://www.bibleserver.com/NIV/Revelation13%3A4-6" %}} by {{% int_link val="claiming to be like Him" link="/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation" %}}. The emperor is the one who commands the Roman legions and breaks anyone who does not play along. {{% bible val="He starts persecutions against God’s people and is successful with it" link="https://www.bibleserver.com/NIV/Revelation13%3A7-8" %}}. And all who are written in the book of life will bow their knees before him, for {{% bible val="he has the power and the saints can only endure" link="https://www.bibleserver.com/NIV/Revelation13%3A10" %}}.
 
 ## The second beast
 
 <a name="2f0d"></a>
-This is a wide network of people who benefit from emperor’s favor. This could be tax breaks, financial support, or something else. For them the [emperor is a guarantee for the god’s blessings](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation).
+This is a wide network of people who benefit from emperor’s favor. This could be tax breaks, financial support, or something else. For them the {{% int_link val="emperor is a guarantee for the god’s blessings" link="/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation" %}}.
 
 They make {{% bible val="sure that no one does anything to lose the favor of the emperor" link="https://www.bibleserver.com/NIV/Revelation13%3A12" %}}. They perform processions, build temples, work in and for the temples, sell meat dedicated to the idols, attend feasts for the idols and much more. It is a comprehensive activity. {{% bible val="It does not look evil: “Just go with the flow”." link="https://www.bibleserver.com/NIV/Revelation13%3A11" %}}
 

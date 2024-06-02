@@ -31,4 +31,4 @@ Ve burada çember ilk meleğe doğru kapanır. Uluslar nasıl karşılık verdi?
 
 ![](/images/harvest_tr.jpg)
 
-Çünkü [küçük tomarın](/content/scroll/quick) içeriği buydu: Kilise İsa gibi davranmalıdır (Tanrı'nın gizemi), böylece tüm uluslar kurtulur.
+Çünkü {{% int_link val="küçük tomarın" link="/content/scroll/quick" %}} içeriği buydu: Kilise İsa gibi davranmalıdır (Tanrı'nın gizemi), böylece tüm uluslar kurtulur.

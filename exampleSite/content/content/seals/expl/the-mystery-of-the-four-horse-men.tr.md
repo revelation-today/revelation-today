@@ -22,7 +22,7 @@ sources:
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="7ecb"></a>
-- [Kitabın tarihsel arka planı](/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation)
+- {{% int_link val="Kitabın tarihsel arka planı" link="/background/history/expl/pax-romana-key-to-understand-the-book-of-revelation" %}}
 - [Ne tür bir kitap bu?](/background/literature/expl/the-book-of-revelation-how-to-read-it)
 
 ## Metin
@@ -103,7 +103,7 @@ Yani ilk atlı kötü olan ama iyi ve İsa gibi davranandır. Bağlama baktığ�
 
 Şimdi {{% bible val="Tanrı’nın belalarına" link="https://www.bibleserver.com/TR/Hezekiel14%3A12-23" %}} (vahşi hayvanlar, kılıç, açlık ve salgın hastalık) yapılan gönderme de anlam kazanmaktadır. Bunları haritalayabiliriz
 
-- ilk binici, {{% bible val="13. bölümd" link="https://www.bibleserver.com/TR/Vahiy13" %}}e iki [canavar olarak adlandırdığı vahşi hayvanları temsil eder](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation) ve {{% bible val="aldatmayı" link="https://www.bibleserver.com/TR/2.Korintliler11%3A14" %}} temsil eder — birçok vaatte bulunur
+- ilk binici, {{% bible val="13. bölümd" link="https://www.bibleserver.com/TR/Vahiy13" %}}e iki {{% int_link val="canavar olarak adlandırdığı vahşi hayvanları temsil eder" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve {{% bible val="aldatmayı" link="https://www.bibleserver.com/TR/2.Korintliler11%3A14" %}} temsil eder — birçok vaatte bulunur
 - ikinci binici kendisine verilen kılıcı temsil eder — 13. bölümdeki ilk canavar gibi vaatlere inanmayan herkese saldırır
 - üçüncü binici açlığı temsil eder çünkü yoksullar bundan zarar görecektir — 13. bölümdeki ikinci canavar gibi uyumsuzlara ekonomik baskı uygular ki bu da {{% bible val="17. bölümdeki" link="https://www.bibleserver.com/TR/Vahiy17" %}} fahişe ile ilgilidir
 - son sürücü gösterilen üçlünün etkisini özetlemektedir

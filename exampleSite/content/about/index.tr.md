@@ -27,7 +27,7 @@ Daha karmaşık Kutsal Kitap referansları, satın almanız gereken literatürde
 
 Her kitap için sadece bir örnek kullandım, ancak tercih ettiğiniz yerden satın almaktan çekinmeyin.
 
-[Referans makalelerinde](/gen/index/expl/overview-on-the-book-of-revelation) ilgili kaynaklara bağlantılar bulacaksınız. Benim işim sadece bunları okumak, doğru materyale karar vermek ve okunması kolay bir özet yapmaktı.
+{{% int_link val="Referans makalelerinde" link="/gen/index/expl/overview-on-the-book-of-revelation" %}} ilgili kaynaklara bağlantılar bulacaksınız. Benim işim sadece bunları okumak, doğru materyale karar vermek ve okunması kolay bir özet yapmaktı.
 
 ## Anahtar kitaplar
 

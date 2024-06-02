@@ -12,26 +12,26 @@ Das Buch der Offenbarung spricht von drei Geheimnissen: dem Geheimnis der Kirche
 ## Das Geheimnis
 
 <a name="b12e"></a>
-Das {{% bible val="Wort Geheimnis" link="https://www.bibleserver.com/search/SLT/Geheimnis" %}} kommt bei den Propheten des Alten Testaments nur an einer Stelle vor: Im Buch Daniel, wo [von der Vernichtung der Weltmächte und ihrer Ersetzung durch die anfangs klein und schwach erscheinende Herrschaft Gottes ](/bible/daniel/expl/the-four-kingdoms-in-daniel)die Rede ist. Mit Geheimnis ist hier nichts Unbekanntes gemeint, sondern etwas Unglaubliches.
+Das {{% bible val="Wort Geheimnis" link="https://www.bibleserver.com/search/SLT/Geheimnis" %}} kommt bei den Propheten des Alten Testaments nur an einer Stelle vor: Im Buch Daniel, wo {{% int_link val="von der Vernichtung der Weltmächte und ihrer Ersetzung durch die anfangs klein und schwach erscheinende Herrschaft Gottes " link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}die Rede ist. Mit Geheimnis ist hier nichts Unbekanntes gemeint, sondern etwas Unglaubliches.
 
 Auch im Neuen Testament spricht dieses Wort von Gottes Plan, {{% bible val="der aber jetzt enthüllt ist" link="https://www.bibleserver.com/SLT/Kolosser1%2C26" %}}: Es ist Jesus am Kreuz, nicht als der Besiegte, sondern als der Überwinder dieser Welt.
 
-Dieses Geheimnis wird in der Offenbarung ausführlich beschrieben. Das Buch zeigt, wie Gott die Welt wiederherstellt und das Böse vernichtet. Er tut dies zusammen mit der Gemeinde, die eine Schlüsselrolle einnimmt (siehe [das kleine Büchlein](/content/scroll/expl/the-little-scroll)). Aber wenn wir Gottes großes Heer betrachten, sind wir vielleicht überrascht, mit welchen Waffen es kämpft:
+Dieses Geheimnis wird in der Offenbarung ausführlich beschrieben. Das Buch zeigt, wie Gott die Welt wiederherstellt und das Böse vernichtet. Er tut dies zusammen mit der Gemeinde, die eine Schlüsselrolle einnimmt (siehe {{% int_link val="das kleine Büchlein" link="/content/scroll/expl/the-little-scroll" %}}). Aber wenn wir Gottes großes Heer betrachten, sind wir vielleicht überrascht, mit welchen Waffen es kämpft:
 
 - Seine entscheidende Stärke und Qualifikation ist {{% bible val="ihr unbeirrbarer Glaube an Jesus" link="https://www.bibleserver.com/SLT/Offenbarung14%2C4" %}} (sie sind Jungfrauen).
 - Der Schlüssel zu ihrem Erfolg sind Anbetung, Zeugnis, Ausharren und Gebet, die das Böse zu Fall bringen.
-- Es scheint einen Unterschied zu geben [zwischen Überwinden und siegreich sein](/topics/hero/short/a-real-hero).
+- Es scheint einen Unterschied zu geben {{% int_link val="zwischen Überwinden und siegreich sein" link="/topics/hero/short/a-real-hero" %}}.
 
 ## Das Geheimnis der Gemeinde
 
 <a name="9ec7"></a>
-Das {{% bible val="Geheimnis der Gemeinde" link="https://www.bibleserver.com/SLT/Offenbarung1%2C20" %}} besteht darin, [Licht zu sein in Abhängigkeit von Jesus](/content/letters/expl/the-angel-of-the-churches). Das ist in Kapitel 1–9 ausgeführt.
+Das {{% bible val="Geheimnis der Gemeinde" link="https://www.bibleserver.com/SLT/Offenbarung1%2C20" %}} besteht darin, {{% int_link val="Licht zu sein in Abhängigkeit von Jesus" link="/content/letters/expl/the-angel-of-the-churches" %}}. Das ist in Kapitel 1–9 ausgeführt.
 
-Und genau das ist das Kriterium, [nach dem die Gemeinden beurteilt werden](/content/letters/expl/the-letters-to-the-seven-churches). Die Antwort, um dieser Vision treu zu bleiben, liegt in der [Anbetung](/content/worship/expl/worship-in-the-throne-room).
+Und genau das ist das Kriterium, {{% int_link val="nach dem die Gemeinden beurteilt werden" link="/content/letters/expl/the-letters-to-the-seven-churches" %}}. Die Antwort, um dieser Vision treu zu bleiben, liegt in der {{% int_link val="Anbetung" link="/content/worship/expl/worship-in-the-throne-room" %}}.
 
-Die Gemeinde muss auf Jesus schauen, der gehorsam war ([Anbetung ist der Ausdruck von Loyalität bis in den Tod](/topics/power/short/worship)) und so die Täuschung Satans aufdecken kann, was {{% bible val="aber zum Leiden der Gemeinde führt" link="https://www.bibleserver.com/SLT/Offenbarung6%2C9-11" %}}. Aber {{% bible val="bevor Jesus all dem ein Ende setzt und sich offenbart" link="https://www.bibleserver.com/SLT/Offenbarung6%2C12-17" %}} muss die Gemeinde verstehen, dass sie die [Armee Gottes ist](/content/army/expl/the-144000).
+Die Gemeinde muss auf Jesus schauen, der gehorsam war ({{% int_link val="Anbetung ist der Ausdruck von Loyalität bis in den Tod" link="/topics/power/short/worship" %}}) und so die Täuschung Satans aufdecken kann, was {{% bible val="aber zum Leiden der Gemeinde führt" link="https://www.bibleserver.com/SLT/Offenbarung6%2C9-11" %}}. Aber {{% bible val="bevor Jesus all dem ein Ende setzt und sich offenbart" link="https://www.bibleserver.com/SLT/Offenbarung6%2C12-17" %}} muss die Gemeinde verstehen, dass sie die {{% int_link val="Armee Gottes ist" link="/content/army/expl/the-144000" %}}.
 
-Jetzt kann die Gemeinde losgehen [im Gebet und die Erde erschüttern](/content/trumpets/expl/the-trumpets-in-revelation). Aber Gebet allein genügt nicht! Es braucht mehr: das Geheimnis Gottes. Das offenbart sich in der Anbetung, die die Gemeinschaft mit Gott ausdrückt.
+Jetzt kann die Gemeinde losgehen {{% int_link val="im Gebet und die Erde erschüttern" link="/content/trumpets/expl/the-trumpets-in-revelation" %}}. Aber Gebet allein genügt nicht! Es braucht mehr: das Geheimnis Gottes. Das offenbart sich in der Anbetung, die die Gemeinschaft mit Gott ausdrückt.
 
 ## Das Geheimnis Gottes
 
@@ -43,13 +43,13 @@ Das {{% bible val="Geheimnis Gottes" link="https://www.bibleserver.com/SLT/Offen
 
 Alles beginnt mit dem Tempel: Der Ort der Gegenwart Gottes wird durch Anbetung beschrieben!
 
-Die [Gemeinde kann nur dann wirksam (als Zeuge) sein, wenn sie Jesus voll und ganz nachfolgt](/content/witnesses/expl/the-two-witnesses).
+Die {{% int_link val="Gemeinde kann nur dann wirksam (als Zeuge) sein, wenn sie Jesus voll und ganz nachfolgt" link="/content/witnesses/expl/the-two-witnesses" %}}.
 
-Das wird am [Leben Jesu, dem Zeugen gezeigt, der siegreich war](/content/jesus/expl/a-different-christmas-story). Die [Gemeinde soll sich nicht wegen dem sorgen, was Satan auffährt](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
+Das wird am {{% int_link val="Leben Jesu, dem Zeugen gezeigt, der siegreich war" link="/content/jesus/expl/a-different-christmas-story" %}}. Die {{% int_link val="Gemeinde soll sich nicht wegen dem sorgen, was Satan auffährt" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
 {{% bible val="Denn Gott wird mit seinem Volk sein" link="https://www.bibleserver.com/SLT/Offenbarung14%2C1-5" %}} und {{% bible val="seinen Plan zum Sieg führen: Die Errettung der Nationen" link="https://www.bibleserver.com/SLT/Offenbarung14%2C6-20" %}}.
 
-[Jetzt tritt Gott in Aktion und gibt das Letzte, kämpft um die Herzen der Menschen und zerstört schließlich das Reich Satans](/content/bowls/expl/the-bowls-of-wrath), was uns zum letzten Thema führt.
+{{% int_link val="Jetzt tritt Gott in Aktion und gibt das Letzte, kämpft um die Herzen der Menschen und zerstört schließlich das Reich Satans" link="/content/bowls/expl/the-bowls-of-wrath" %}}, was uns zum letzten Thema führt.
 
 ## Das Geheimnis der Hure
 

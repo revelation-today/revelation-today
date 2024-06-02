@@ -78,7 +78,7 @@ First, Jesus presented a very different concept of rulership.
 
 Second, Jesus was very clear that the enemies were not the Romans who were oppressing Israel at that time, but {{% bible val="the enemies were the demons" link="https://www.bibleserver.com/NIV/Mark3%3A22-27" %}} that He drove out on many occasions. {{% bible val="Driving them out is a sign that the Day of the Lord has come" link="https://www.bibleserver.com/NIV/Matthew12%3A28" %}}. This was especially {{% bible val="true at His death" link="https://www.bibleserver.com/NIV/John12%3A31-33" %}}.
 
-Finally, the remnant are not the religious people, but those who keep the covenant of God, which [is only Jesus Himself](/bible/daniel/expl/the-son-of-man-and-the-remnant). All others do not belong to the remnant and would be subject of the judgment, which is also Israel.
+Finally, the remnant are not the religious people, but those who keep the covenant of God, which {{% int_link val="is only Jesus Himself" link="/bible/daniel/expl/the-son-of-man-and-the-remnant" %}}. All others do not belong to the remnant and would be subject of the judgment, which is also Israel.
 
 ## Already but not yet
 
