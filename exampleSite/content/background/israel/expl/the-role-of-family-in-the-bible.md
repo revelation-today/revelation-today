@@ -21,13 +21,20 @@ The society worked button up with the family as the smallest unit. Therefore, it
 
 The system is strongly criticized in the Bible, because obviously all people are disadvantaged who do not have a family, such as widows and orphans or families with little influence. There are many examples where God appears as the defender of {{% bible val="widows" link="https://www.bibleserver.com/search/NIV/widows" %}} and orphans, even making it a {{% bible val="key element of faith" link="https://www.bibleserver.com/NIV/James1%3A27" %}}.
 
-Furthermore God likes to choose important people like kings from {{% bible val="unimportant families" link="https://www.bibleserver.com/NIV/Ruth4%3A16-17" %}} (Ruth was half Moabite and the grandmother of King David) or foreigners ({{% bible val="see the three foreign women in Jesus family tree" link="https://www.bibleserver.com/NIV/Matthew1%3A2-16" %}}: the {{% bible val="Canaanite Tamar" link="https://www.bibleserver.com/NIV/Genesis38" %}}, the {{% bible val="half Moabite Ruth" link="https://www.bibleserver.com/NIV/Ruth1%3A1-4" %}} and {{% bible val="Bathsheba" link="https://www.bibleserver.com/NIV/2%20Samuel11%3A3" %}} the wife of a Hittite).
+Furthermore God likes to choose important people like kings from 
+- {{% bible val="unimportant families" link="https://www.bibleserver.com/NIV/Ruth4%3A16-17" %}} 
+    - Ruth was half Moabite and the grandmother of King David or 
+- foreigners ({{% bible val="see the three foreign women in Jesus family tree" link="https://www.bibleserver.com/NIV/Matthew1%3A2-16" %}}: 
+    - the {{% bible val="Canaanite Tamar" link="https://www.bibleserver.com/NIV/Genesis38" %}}, 
+    - the {{% bible val="half Moabite Ruth" link="https://www.bibleserver.com/NIV/Ruth1%3A1-4" %}} and 
+    - {{% bible val="Bathsheba" link="https://www.bibleserver.com/NIV/2%20Samuel11%3A3" %}} the wife of a Hittite.
 
 The Bible emphasizes the redeemer ({{% bible val="the next of kin who needs to rescue" link="https://www.bibleserver.com/NIV/Leviticus25%3A47-49" %}}). This person is responsible to help if a next of kin comes into any trouble. This was
 - {{% bible val="to deliver from captivity" link="https://www.bibleserver.com/NIV/Genesis14" %}}
 - pay to get the person free from slavery
 - {{% bible val="buys back property" link="https://www.bibleserver.com/NIV/Leviticus25%3A25-26" %}}
 - {{% bible val="marry to bring out of trouble" link="https://www.bibleserver.com/NIV/Ruth4" %}} or {{% bible val="ensure offspring for widow" link="https://www.bibleserver.com/NIV/Genesis38%3A8" %}}
+- ...
 
 It is a role that {{% bible val="God taken on" link="https://www.bibleserver.com/NIV/Isaiah44%3A24-28" %}} because society has often failed to do so, which is{{% bible val=" a key topic in the Christian faith" link="https://www.bibleserver.com/NIV/Ephesians1%3A7" %}}.
 

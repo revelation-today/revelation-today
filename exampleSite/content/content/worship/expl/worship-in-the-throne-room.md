@@ -27,35 +27,137 @@ Worship in the throne room is the answer to the letters of the churches. Why and
 ## The background and context
 
 <a name="3c72"></a>
-The last verse before this chapter mentioned already the throne room of God, but there is further links to the first three chapters that addressing the situation of the church. There is the use of common phrases for
+The last verse before this chapter mentioned already the throne room of God, but there is further links to the first three chapters that addressing the situation of the church. There is the use of common phrases in both parts
 
-- [reception](https://biblehub.com/greek/2983.htm) of authority in the promise for the overcomers in Thyatira for {{% bible val="getting the morning star" link="https://www.bibleserver.com/NIV/Revelation2%3A28" %}} as well as for the lamb to receive {{% bible val="the scroll" link="https://www.bibleserver.com/NIV/Revelation5%3A9" %}} as well as {{% bible val="honor and glory" link="https://www.bibleserver.com/NIV/Revelation5%3A12" %}}
-- overcomer in {{% bible val="Laodicea to sit on the throne" link="https://www.bibleserver.com/NIV/Revelation3%3A21" %}} as well as {{% bible val="the lamb overcame and is worthy to open the scroll" link="https://www.bibleserver.com/NIV/Revelation5%3A5" %}}
-- the seven spirits of God {{% bible val="in the address to Sardis" link="https://www.bibleserver.com/NIV/Revelation3%3A1" %}} as well as {{% bible val="the description before the throne" link="https://www.bibleserver.com/NIV/Revelation4%3A5" %}} and as the {{% bible val="description of the eyes of the lamb" link="https://www.bibleserver.com/NIV/Revelation5%3A6" %}}
-- the saints white clothing with the {{% bible val="conquerors in Sardis" link="https://www.bibleserver.com/NIV/Revelation3%3A5" %}} and {{% bible val="Jesus’ offer to Laodicea" link="https://www.bibleserver.com/NIV/Revelation3%3A18" %}} as well as the {{% bible val="suites of the 24 elders" link="https://www.bibleserver.com/NIV/Revelation4%3A4" %}}
-- saints seating on thrones for {{% bible val="the overcomers in Laodicea" link="https://www.bibleserver.com/NIV/Revelation3%3A21" %}} as well as t{{% bible val="he 24 elders" link="https://www.bibleserver.com/NIV/Revelation4%3A4" %}}
-- saints having crowns as {{% bible val="promise in Smyrna" link="https://www.bibleserver.com/NIV/Revelation2%3A10" %}} and {{% bible val="reality in Philadelphia " link="https://www.bibleserver.com/NIV/Revelation3%3A11" %}}as well as in {{% bible val="the picture of the 24 elders" link="https://www.bibleserver.com/NIV/Revelation4%3A4" %}}
-- image of an open door in the {{% bible val="reality in Philadelphia" link="https://www.bibleserver.com/NIV/Revelation3%3A8" %}} and the {{% bible val="wish in Laodicea" link="https://www.bibleserver.com/NIV/Revelation3%3A20" %}} as well as the {{% bible val="introduction to the throne room" link="https://www.bibleserver.com/NIV/Revelation4%3A1" %}}
-- voice like a trumpet with rapture in the spirit {{% bible val="starts the vision here" link="https://www.bibleserver.com/NIV/Revelation4%3A1-2" %}} but {{% bible val="also the vision regarding the churches" link="https://www.bibleserver.com/NIV/Revelation1%3A10-12" %}}
+<table><thead><tr>
+    <th>Topic</th>
+    <th>Letters</th>
+    <th>Throne room</th>
+</tr></thead><tbody>
+<tr>
+    <td><a href="https://biblehub.com/greek/2983.htm">reception</a> of authority</td>
+    <td>in the promise for the overcomers in Thyatira for {{% bible val="getting the morning star" link="https://www.bibleserver.com/NIV/Revelation2%3A28" %}}</td>
+    <td>as for the lamb to receive {{% bible val="the scroll" link="https://www.bibleserver.com/NIV/Revelation5%3A9" %}} as well as {{% bible val="honor and glory" link="https://www.bibleserver.com/NIV/Revelation5%3A12" %}}</td>
+</tr>
+<tr>
+    <td>overcomer</td>
+    <td>in {{% bible val="Laodicea to sit on the throne" link="https://www.bibleserver.com/NIV/Revelation3%3A21" %}}</td>
+    <td>{{% bible val="the lamb overcame and is worthy to open the scroll" link="https://www.bibleserver.com/NIV/Revelation5%3A5" %}}</td>
+</tr>
+<tr>
+    <td>the seven spirits of God</td>
+    <td>{{% bible val="in the address to Sardis" link="https://www.bibleserver.com/NIV/Revelation3%3A1" %}}</td>
+    <td>as {{% bible val="the description before the throne" link="https://www.bibleserver.com/NIV/Revelation4%3A5" %}} and as the {{% bible val="description of the eyes of the lamb" link="https://www.bibleserver.com/NIV/Revelation5%3A6" %}}</td>
+</tr>
+<tr>
+    <td>the saints white clothing</td>
+    <td>with the {{% bible val="conquerors in Sardis" link="https://www.bibleserver.com/NIV/Revelation3%3A5" %}} and {{% bible val="Jesus’ offer to Laodicea" link="https://www.bibleserver.com/NIV/Revelation3%3A18" %}}</td>
+    <td>as the {{% bible val="suites of the 24 elders" link="https://www.bibleserver.com/NIV/Revelation4%3A4" %}}</td>
+</tr>
+<tr>
+    <td>saints seating on thrones</td>
+    <td>for {{% bible val="the overcomers in Laodicea" link="https://www.bibleserver.com/NIV/Revelation3%3A21" %}}</td>
+    <td>as {{% bible val="the 24 elders" link="https://www.bibleserver.com/NIV/Revelation4%3A4" %}}</td>
+</tr>
+<tr>
+    <td>saints having crowns</td>
+    <td>as {{% bible val="promise in Smyrna" link="https://www.bibleserver.com/NIV/Revelation2%3A10" %}} and {{% bible val="reality in Philadelphia " link="https://www.bibleserver.com/NIV/Revelation3%3A11" %}}</td>
+    <td>as in {{% bible val="the picture of the 24 elders" link="https://www.bibleserver.com/NIV/Revelation4%3A4" %}}</td>
+</tr>
+<tr>
+    <td>image of an open door</td>
+    <td>in the {{% bible val="reality in Philadelphia" link="https://www.bibleserver.com/NIV/Revelation3%3A8" %}} and the {{% bible val="wish in Laodicea" link="https://www.bibleserver.com/NIV/Revelation3%3A20" %}}</td>
+    <td>as the {{% bible val="introduction to the throne room" link="https://www.bibleserver.com/NIV/Revelation4%3A1" %}}</td>
+</tr>
+<tr>
+    <td>voice like a trumpet with rapture in the spirit</td>
+    <td>{{% bible val="the vision regarding the churches" link="https://www.bibleserver.com/NIV/Revelation1%3A10-12" %}}</td>
+    <td>{{% bible val="starts the vision here" link="https://www.bibleserver.com/NIV/Revelation4%3A1-2" %}}</td>
+</tr>
+</tbody>
+</table>
 
 These relations should give a vision for the church regarding their spiritual reality but also to follow Christ’s example. The reality that is shows in this vision is part of the reality that the church should act upon.
 
 {{% bible val="Daniel 7" link="https://www.bibleserver.com/NIV/Daniel7" %}} has a striking parallel to chapter 4 and 5 of the Revelation:
 
-- introduction phrases in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A9" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation4%3A1" %}}
-- throne in heaven in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A9" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation4%3A2" %}}
-- God sits on this throne in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A9" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation4%3A2" %}}
-- the description of God in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A9" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation4%3A3" %}}
-- fire before the throne in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A9-10" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation4%3A5" %}}
-- heavenly servant surround the throne in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A10" %}} and Revelation ({{% bible val="24 elders" link="https://www.bibleserver.com/NIV/Revelation4%3A4" %}}, {{% bible val="4 living beings" link="https://www.bibleserver.com/NIV/Revelation4%3A6-10" %}} and {{% bible val="angels" link="https://www.bibleserver.com/NIV/Revelation5%3A11" %}})
-- books before the throne in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A10" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A1-5" %}}
-- book are opened in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A10" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A9" %}}
-- divine (messianic) figure approaches throne to receive authority in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A13-14" %}} and Revelation (as {{% bible val="description" link="https://www.bibleserver.com/NIV/Revelation5%3A5-7" %}}, because {{% bible val="he bought them from all nations" link="https://www.bibleserver.com/NIV/Revelation5%3A9" %}} which {{% bible val="all give him praise" link="https://www.bibleserver.com/NIV/Revelation5%3A12-13" %}})
-- the scope: all peoples, nation and tongues in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A14" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A9" %}}
-- the seer’s distress when seeing the vision in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A15" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A4" %}}
-- the seer’s reception of heavenly council from one of the throne servants in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A16" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A5" %}}
-- saints given authority to reign over a kingdom in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A18" %}}, not only {{% bible val="twice" link="https://www.bibleserver.com/NIV/Daniel7%3A22" %}} but {{% bible val="three times" link="https://www.bibleserver.com/NIV/Daniel7%3A27" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A10" %}}
-- concluding mention of God’s eternal reign in {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A27" %}} and {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A13-14" %}}
+<table><thead><tr>
+    <th>Topic</th>
+    <th>Daniel 7</th>
+    <th>Revelation 4-5</th>
+</tr></thead><tbody>
+<tr>
+    <td>introduction phrases</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A9" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation4%3A1" %}}</td>
+</tr>
+<tr>
+    <td>throne in heaven</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A9" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation4%3A2" %}}</td>
+</tr>
+<tr>
+    <td>God sits on this throne</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A9" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation4%3A2" %}}</td>
+</tr>
+<tr>
+    <td>the description of God</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A9" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation4%3A3" %}}</td>
+</tr>
+<tr>
+    <td>fire before the throne</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A9-10" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation4%3A5" %}}</td>
+</tr>
+<tr>
+    <td>heavenly servant surround the throne</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A10" %}}</td>
+    <td>Revelation ({{% bible val="24 elders" link="https://www.bibleserver.com/NIV/Revelation4%3A4" %}}, {{% bible val="4 living beings" link="https://www.bibleserver.com/NIV/Revelation4%3A6-10" %}} and {{% bible val="angels" link="https://www.bibleserver.com/NIV/Revelation5%3A11" %}})</td>
+</tr>
+<tr>
+    <td>books before the throne</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A10" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A1-5" %}}</td>
+</tr>
+<tr>
+    <td>books are opened</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A10" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A9" %}}</td>
+</tr>
+<tr>
+    <td>divine (messianic) figure approaches throne to receive authority</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A13-14" %}}</td>
+    <td>in Revelation (as {{% bible val="description" link="https://www.bibleserver.com/NIV/Revelation5%3A5-7" %}}, because {{% bible val="he bought them from all nations" link="https://www.bibleserver.com/NIV/Revelation5%3A9" %}} which {{% bible val="all give him praise" link="https://www.bibleserver.com/NIV/Revelation5%3A12-13" %}})</td>
+</tr>
+<tr>
+    <td>the scope: all peoples, nation and tongues</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A14" %}} </td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A9" %}}</td>
+</tr>
+<tr>
+    <td>the seer’s distress when seeing the vision</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A15" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A4" %}}</td>
+</tr>
+<tr>
+    <td>the seer’s reception of heavenly council from one of the throne servants</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A16" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A5" %}}</td>
+</tr>
+<tr>
+    <td>saints given authority to reign over a kingdom</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A18" %}}, not only {{% bible val="twice" link="https://www.bibleserver.com/NIV/Daniel7%3A22" %}} but {{% bible val="three times" link="https://www.bibleserver.com/NIV/Daniel7%3A27" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A10" %}}</td>
+</tr>
+<tr>
+    <td>concluding mention of God’s eternal reign</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel7%3A27" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation5%3A13-14" %}}</td>
+</tr>
+</tbody>
+</table>
 
 Even there are many parallels you can easily see that the order of events are different in both passages.
 

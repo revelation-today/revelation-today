@@ -27,35 +27,137 @@ Taht odasındaki tapınma, kiliselerin mektuplarına verilen yanıttır. Neden? 
 ## Arka plan ve bağlam
 
 <a name="3e33"></a>
-Bu bölümden önceki son ayette zaten Tanrı’nın taht odasından söz edilmişti, ancak kilisenin durumunu ele alan ilk üç bölümle başka bağlantılar da vardır. Kilise için kullanılan ortak ifadeler şunlardır
+Bu bölümden önceki son ayet zaten Tanrı'nın taht odasından bahsetmektedir, ancak kilisenin durumunu ele alan ilk üç bölümle daha fazla bağlantı vardır. Her iki bölümde de ortak ifadeler kullanılmaktadır
 
-- Thyatira’da üstün gelenlerin {{% bible val="sabah yıldızını" link="https://www.bibleserver.com/TR/Vahiy2%3A28" %}}, kuzunun da {{% bible val="tomarı" link="https://www.bibleserver.com/TR/Vahiy5%3A9" %}}, {{% bible val="onur ve yüceliği" link="https://www.bibleserver.com/TR/Vahiy5%3A12" %}} alacağı vaadindeki yetkinin [alınması](https://biblehub.com/greek/2983.htm).
-- {{% bible val="Laodikya’da tahta oturmak için" link="https://www.bibleserver.com/TR/Vahiy3%3A21" %}} galip gelen kişi ve {{% bible val="kuzunun galip geldiği ve tomarı açmaya layık olduğu gibi" link="https://www.bibleserver.com/TR/Vahiy5%3A5" %}}
-- {{% bible val="Sardeis’e hitapta" link="https://www.bibleserver.com/TR/Vahiy3%3A1" %}} Tanrı’nın yedi ruhunun yanı {{% bible val="sıra tahtın önündeki tasvir " link="https://www.bibleserver.com/TR/Vahiy4%3A5" %}}ve {{% bible val="kuzunun gözlerinin tasviri" link="https://www.bibleserver.com/TR/Vahiy5%3A6" %}}
-- {{% bible val="Sardis’teki fatihlerle birlikte" link="https://www.bibleserver.com/TR/Vahiy3%3A5" %}} azizlerin beyaz giysileri, {{% bible val="İsa’nın Laodikya’ya teklifi" link="https://www.bibleserver.com/TR/Vahiy3%3A18" %}} ve {{% bible val="24 ihtiyarın davetleri" link="https://www.bibleserver.com/TR/Vahiy4%3A4" %}}
-- {{% bible val="Laodikya’da üstün gelenler" link="https://www.bibleserver.com/TR/Vahiy3%3A21" %}} ve {{% bible val="24 ihtiyar için" link="https://www.bibleserver.com/TR/Vahiy4%3A4" %}} tahtlara oturan azizler
-- {{% bible val="İzmir’de vaat edilen" link="https://www.bibleserver.com/TR/Vahiy2%3A10" %}} ve {{% bible val="Philadelphia’da gerçek" link="https://www.bibleserver.com/TR/Vahiy3%3A11" %}} olan taçlara sahip azizlerin yanı {{% bible val="sıra 24 ihtiyarın resminde de" link="https://www.bibleserver.com/TR/Vahiy4%3A4" %}}
-- {{% bible val="Philadelphia’daki gerçeklikte" link="https://www.bibleserver.com/TR/Vahiy3%3A8" %}} ve {{% bible val="Laodikya’daki dilekte" link="https://www.bibleserver.com/TR/Vahiy3%3A20" %}} açık kapı imgesinin yanı sıra {{% bible val="taht odasına giriş" link="https://www.bibleserver.com/TR/Vahiy4%3A1" %}}
-- Ruhun kendinden geçmesiyle birlikte trompet gibi bir ses {{% bible val="burada vizyonu başlatır" link="https://www.bibleserver.com/TR/Vahiy4%3A1-2" %}} ama aynı zamanda {{% bible val="kiliselerle ilgili vizyonu" link="https://www.bibleserver.com/TR/Vahiy1%3A10-12" %}} da başlatır
+<table><thead><tr>
+    <th>Konu</th>
+    <th>Mektuplar</th>
+    <th>Throne odası</th>
+</tr></thead><tbody>
+<tr>
+    <td><a href="https://biblehub.com/greek/2983.htm">otorite algısı</a></td>
+    <td>Tiyatira'da üstün gelenler için {{% bible val="getting the morning star" link="https://www.bibleserver.com/TR/Vahiy2%3A28" %}} vaadinde</td>
+    <td>kuzu için {{% bible val="the scroll" link="https://www.bibleserver.com/TR/Vahiy5%3A9" %}} ve {{% bible val="honor and glory" link="https://www.bibleserver.com/TR/Vahiy5%3A12" %}} alacağı gibi</td>
+</tr>
+<tr>
+    <td>gelen</td>
+    <td> {{% bible val="Laodikya tahta oturacak" link="https://www.bibleserver.com/TR/Vahiy3%3A21" %}}</td>
+    <td>{{% bible val="kuzu üstesinden geldi ve parşömeni açmaya layık" link="https://www.bibleserver.com/TR/Vahiy5%3A5" %}}</td>
+</tr>
+<tr>
+    <td>Tanrı'nın yedi ruhu</td>
+    <td>{{% bible val="Sardis adresinde" link="https://www.bibleserver.com/TR/Vahiy3%3A1" %}}</td>
+    <td>{% bible val="the description before throne" link="https://www.bibleserver.com/TR/Vahiy4%3A5" %}} olarak ve {{% bible val="description of the eyes of the lamb" link="https://www.bibleserver.com/TR/Vahiy5%3A6" %}} olarak</td>
+</tr>
+<tr>
+    <td>azizlerin beyaz giysileri</td>
+    <td>{% bible val="Sardis'teki fatihler" link="https://www.bibleserver.com/TR/Vahiy3%3A5" %}} ve {{% bible val="İsa'nın Laodikya'ya teklifi" link="https://www.bibleserver.com/TR/Vahiy3%3A18" %}}</td> ile
+    <td> {{% bible val="suit of the 24 elders" link="https://www.bibleserver.com/TR/Vahiy4%3A4" %}}</td> olarak
+</tr>
+<tr>
+    <td>Tahtlarda oturan azizler</td>
+    <td>için {{% bible val="the overcomers in Laodicea" link="https://www.bibleserver.com/TR/Vahiy3%3A21" %}}</td>
+    <td>as {{% bible val="the 24 elders" link="https://www.bibleserver.com/TR/Vahiy4%3A4" %}}</td>
+</tr>
+<tr>
+    <td>taçları olan azizler</td>
+    <td>{% bible val="promise in Smyrna" link="https://www.bibleserver.com/TR/Vahiy2%3A10" %}} ve {{% bible val="reality in Philadelphia " link="https://www.bibleserver.com/TR/Vahiy3%3A11" %}} gibi</td>
+    <td>{% bible val="the picture of the 24 elders" link="https://www.bibleserver.com/TR/Vahiy4%3A4" %}}</td> gibi
+</tr>
+<tr>
+    <td>açık bir kapı görüntüsü</td>
+    <td> {{% bible val="reality in Philadelphia" link="https://www.bibleserver.com/TR/Vahiy3%3A8" %}} ve {{% bible val="wish in Laodicea" link="https://www.bibleserver.com/TR/Vahiy3%3A20" %}}</td>
+    <td> {{% bible val="taht odasına giriş" link="https://www.bibleserver.com/TR/Vahiy4%3A1" %}}</td> olarak
+</tr>
+<tr>
+    <td>ruhunda coşku ile trompet gibi ses</td>
+    <td>{{%bible val="kiliselerle ilgili vizyon" link="https://www.bibleserver.com/TR/Vahiy1%3A10-12" %}}</td>
+    <td>{{% bible val="vizyonu burada başlat" link="https://www.bibleserver.com/TR/Vahiy4%3A1-2" %}}</td>
+</tr>
+</tbody>
+</table>
 
-Bu ilişkiler kiliseye ruhsal gerçeklikleriyle ilgili bir vizyon vermeli ve aynı zamanda Mesih’in örneğini izlemelidir. Bu vizyonda gösterilen gerçeklik, kilisenin üzerinde hareket etmesi gereken gerçekliğin bir parçasıdır.
+Bu ilişkiler kiliseye ruhsal gerçeklikleriyle ilgili bir vizyon vermeli ama aynı zamanda Mesih'in örneğini izlemelidir. Bu görümde gösterilen gerçeklik, kilisenin üzerinde hareket etmesi gereken gerçekliğin bir parçasıdır.
 
-{{% bible val="Daniel 7'nin" link="https://www.bibleserver.com/TR/Daniel7" %}} Vahiy’in 4. ve 5. bölümleriyle çarpıcı bir paralelliği vardır:
+{{%bible val="Daniel 7" link="https://www.bibleserver.com/TR/Daniel7" %}} Vahiy'in 4. ve 5. bölümleriyle çarpıcı bir paralelliğe sahiptir:
 
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A9" %}} ve {{% bible val="Vahiy’deki" link="https://www.bibleserver.com/TR/Vahiy4%3A1" %}} giriş cümleleri
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A9" %}} ve {{% bible val="Vahiy’de" link="https://www.bibleserver.com/TR/Vahiy4%3A2" %}} cennetteki taht
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A9" %}} ve {{% bible val="Vahiy’de" link="https://www.bibleserver.com/TR/Vahiy4%3A2" %}} Tanrı bu tahtta oturur
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A9" %}} ve {{% bible val="Vahiy’de" link="https://www.bibleserver.com/TR/Vahiy4%3A3" %}} Tanrı’nın tasviri
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A9-10" %}} ve V{{% bible val="ahiy’de" link="https://www.bibleserver.com/TR/Vahiy4%3A5" %}} tahtın önündeki ateş
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A10" %}} ve Vahiy’de tahtı çevreleyen göksel hizmetkâr ({{% bible val="24 ihtiyar" link="https://www.bibleserver.com/TR/Vahiy4%3A4" %}}, {{% bible val="4 canlı varlık" link="https://www.bibleserver.com/TR/Vahiy4%3A6-9" %}} ve {{% bible val="melekler" link="https://www.bibleserver.com/TR/Vahiy5%3A11" %}})
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A10" %}} ve {{% bible val="Vahiy’de" link="https://www.bibleserver.com/TR/Vahiy5%3A1-5" %}} tahtın önündeki kitaplar
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A10" %}} ve {{% bible val="Vahiy’de" link="https://www.bibleserver.com/TR/Vahiy5%3A9" %}} kitap açılır
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A13-14" %}} ve Vahiy’de yetki almak için tahta yaklaşan ilahi (mesihi) figür ({{% bible val="açıklama olarak" link="https://www.bibleserver.com/TR/Vahiy5%3A5-7" %}}, {{% bible val="çünkü onları tüm uluslardan satın aldı" link="https://www.bibleserver.com/TR/Vahiy5%3A9" %}} ve hepsi {{% bible val="ona övgüde bulundu" link="https://www.bibleserver.com/TR/Vahiy5%3A12-13" %}})
-- kapsam: {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A14" %}} ve {{% bible val="Vahiy’deki" link="https://www.bibleserver.com/TR/Vahiy5%3A9" %}} tüm halklar, uluslar ve diller
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A15" %}} ve {{% bible val="Vahiy’deki" link="https://www.bibleserver.com/TR/Vahiy5%3A4" %}} görümü gören kişinin sıkıntısı
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A16" %}} ve {{% bible val="Vahiy’de" link="https://www.bibleserver.com/TR/Vahiy5%3A5" %}} kahinin taht hizmetkârlarından birinden ilahi konsey alması
-- {{% bible val="Daniel’de" link="https://www.bibleserver.com/TR/Daniel7%3A18" %}} sadece {{% bible val="iki kez" link="https://www.bibleserver.com/TR/Daniel7%3A22" %}} değil, {{% bible val="üç kez" link="https://www.bibleserver.com/TR/Daniel7%3A27" %}} ve {{% bible val="Vahiy’de" link="https://www.bibleserver.com/TR/Vahiy5%3A10" %}} bir krallık üzerinde hüküm sürme yetkisi verilen azizler
-- {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A27" %}} ve {{% bible val="Vahiy’de" link="https://www.bibleserver.com/TR/Vahiy5%3A13-14" %}} Tanrı’nın ebedi hükümdarlığından son olarak söz edilir
+<table><thead><tr>
+    <th>Konu</th>
+    <th>Daniel 7</th>
+    <th>Revelasyon 4-5</th>
+</tr></thead><tbody>
+<tr>
+    <td>giriş cümleleri</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A9" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy4%3A1" %}}</td>
+</tr>
+<tr>
+    <td>cennetteki̇ ti̇ron</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A9" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy4%3A2" %}}</td>
+</tr>
+<tr>
+    <td>Tanrı bu tahtta oturuyor</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A9" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy4%3A2" %}}</td>
+</tr>
+<tr>
+    <td>Tanrı'nın tanımı</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A9" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy4%3A3" %}}</td>
+</tr>
+<tr>
+    <td>tahtın önünde ateş</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A9-10" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy4%3A5" %}}</td>
+</tr>
+<tr>
+    <td>cennet hizmetkarı tahtı çevreliyor</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A10" %}}</td>
+    <td>Revelasyon ({{% bible val="24 elders" link="https://www.bibleserver.com/TR/Vahiy4%3A4" %}}, {{% bible val="4 living beings" link="https://www.bibleserver.com/TR/Vahiy4%3A6-10" %}} ve {{% bible val="angels" link="https://www.bibleserver.com/TR/Vahiy5%3A11" %}})</td>
+</tr>
+<tr>
+    <td>tahttan önce ki̇taplar</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A10" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy5%3A1-5" %}}</td>
+</tr>
+<tr>
+    <td>kitaplar açıldı</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A10" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy5%3A9" %}}</td>
+</tr>
+<tr>
+    <td>ilahi (mesihi) figür otorite almak için tahta yaklaşır</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A13-14" %}}</td>
+    <td>Vahiy'de ({{% bible val="description" link="https://www.bibleserver.com/TR/Vahiy5%3A5-7" %}} olarak, çünkü {{% bible val="onları tüm uluslardan satın aldı" link="https://www.bibleserver.com/TR/Vahiy5%3A9" %}} ki {{% bible val="hepsi ona övgü veriyor" link="https://www.bibleserver.com/TR/Vahiy5%3A12-13" %}})</td>
+</tr>
+<tr>
+    <td>kapsam: tüm halklar, uluslar ve diller</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A14" %}} </td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy5%3A9" %}}</td>
+</tr>
+<tr>
+    <td>görenin vizyonu görürken yaşadığı sıkıntı</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A15" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy5%3A4" %}}</td>
+</tr>
+<tr>
+    <td>kâhinin taht hizmetkârlarından birinden ilahi konsey alması</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A16" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy5%3A5" %}}</td>
+</tr>
+<tr>
+    <td>bir krallık üzerinde hüküm sürme yetkisi verilen azizler</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A18" %}}, sadece {{% bible val="twice" link="https://www.bibleserver.com/TR/Daniel7%3A22" %}} değil, {{% bible val="three times" link="https://www.bibleserver.com/TR/Daniel7%3A27" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy5%3A10" %}}</td>
+</tr>
+<tr>
+    <td>Tanrı'nın sonsuz saltanatına ilişkin son söz</td>
+    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel7%3A27" %}}</td>
+    <td>{{% bible val="Revelation" link="https://www.bibleserver.com/TR/Vahiy5%3A13-14" %}}</td>
+</tr>
+</tbody>
+</table>
 
 Birçok paralellik olsa da, her iki pasajda olayların sırasının farklı olduğunu kolayca görebilirsiniz.
 
