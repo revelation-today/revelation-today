@@ -23,7 +23,13 @@ Sistem Kutsal Kitap’ta ağır bir şekilde eleştirilir, çünkü dullar ve ye
 
 Ayrıca Tanrı krallar gibi önemli kişileri {{% bible val="önemsiz ailelerden" link="https://www.bibleserver.com/TR/Rut4%3A16-17" %}} (Rut yarı Moavlıydı ve kral Davut’un büyükannesiydi) ya da yabancılardan ({{% bible val="İsa’nın soy ağacındaki üç yabancı kadına bakın" link="https://www.bibleserver.com/TR/Matta1%3A2-16" %}}: {{% bible val="Kenanlı Tamar" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F38" %}}, {{% bible val="yarı Moavlı Rut" link="https://www.bibleserver.com/TR/Rut1%3A1-4" %}} ve {{% bible val="bir Hitit’in karısı olan Batşeba" link="https://www.bibleserver.com/TR/2.Samuel11%3A3" %}}) seçmeyi sever.
 
-Kutsal Kitap kurtarıcıya ({{% bible val="kurtarılması gereken en yakın akraba" link="https://www.bibleserver.com/TR/Levililer25%3A47-49" %}}) vurgu yapar ki bu, toplum bu rolde genellikle başarısız olduğu için {{% bible val="Tanrı’nın üstlendiği bir roldür" link="https://www.bibleserver.com/TR/Ye%C5%9Faya44%3A24" %}} bu, {{% bible val="Hıristiyan inancında kilit bir konudur." link="https://www.bibleserver.com/TR/Efesliler1%3A7" %}}
+Kutsal Kitap kurtarıcıyı vurgular ({{% bible val="kurtarılması gereken en yakın akraba" link="https://www.bibleserver.com/TR/Levililer25%3A47-49" %}}). Bu kişi yakın akrabalardan birinin başı derde girdiğinde yardım etmekle yükümlüdür. Bu
+- {{% bible val="to deliver from captivity" link="https://www.bibleserver.com/TR/Yaratılış14" %}}
+- kişiyi kölelikten kurtarmak için ödeme yapmak
+- {{% bible val="mülkü geri satın alır" link="https://www.bibleserver.com/TR/Levililer25%3A25-26" %}}
+- {{% bible val="beladan kurtulmak için evlen" link="https://www.bibleserver.com/TR/Rut4" %}} ya da {{% bible val="dul kadın için zürriyet sağla" link="https://www.bibleserver.com/TR/Yaratılış38%3A8" %}}
+
+Bu, {{% bible val="Tanrı üstlendi" link="https://www.bibleserver.com/TR/Ye%C5%9Faya44%3A24" %}} çünkü toplum çoğu zaman bunu yapmakta başarısız oldu, bu da {{% bible val=" Hıristiyan inancında önemli bir konudur" link="https://www.bibleserver.com/TR/Efesliler1%3A7" %}}.
 
 ## Ataerkil
 

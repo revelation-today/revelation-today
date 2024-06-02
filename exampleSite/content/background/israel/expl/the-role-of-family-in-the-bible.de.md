@@ -23,7 +23,13 @@ Dieses System wird in der Bibel heftig kritisiert, da es offensichtlich alle Men
 
 Gott hat auch wichtige Personen wie Könige aus unbedeutenden Familien erwählt (Rut, die halb Moabiterin und die Großmutter von König David war) oder Ausländer ({{% bible val="wie die drei ausländischen Frauen im Stammbaum Jesu" link="https://www.bibleserver.com/SLT/Matth%C3%A4us1%2C2-16" %}}: die {{% bible val="Kanaaniterin Tamar" link="https://www.bibleserver.com/SLT/1.Mose38" %}}, die h{{% bible val="alb Moabiterin Rut" link="https://www.bibleserver.com/SLT/Rut1%2C1-4" %}} und {{% bible val="Bathseba, die Frau eines Hethiters" link="https://www.bibleserver.com/SLT/2.Samuel11%2C3" %}}.
 
-Es beschreibt den Erlöser (den {{% bible val="nächsten Verwandten, um im Falle einer Not zu helfen" link="https://www.bibleserver.com/SLT/3.Mose25%2C47-49" %}}), den {{% bible val="Gott übernahm" link="https://www.bibleserver.com/SLT/Jesaja44%2C24-28" %}}, weil die Gesellschaft in dieser Hinsicht oft versagt hat. Und es ist ein {{% bible val="Schlüsselbegriff des christlichen Glaubens" link="https://www.bibleserver.com/SLT/Epheser1%2C7" %}}.
+Die Bibel hebt den Erlöser hervor ({{% bible val="der nächste Angehörige, der gerettet werden muss" link="https://www.bibleserver.com/SLT/3.Mose25%3A47-49" %}}). Diese Person ist dafür verantwortlich, zu helfen, wenn ein Angehöriger in Schwierigkeiten gerät. Dies war
+- {{% bible val="aus der Gefangenschaft befreien" link="https://www.bibleserver.com/SLT/1.Mose14" %}}
+- bezahlt, um die Person aus der Sklaverei zu befreien
+- {{% bible val="kauft Eigentum zurück" link="https://www.bibleserver.com/SLT/3.Mose25%3A25-26" %}}
+- {{% bible val="heiraten, um aus der Not zu kommen" link="https://www.bibleserver.com/SLT/Ruth4" %}} oder {{% bible val="Nachkommenschaft für Witwe sichern" link="https://www.bibleserver.com/SLT/1.Mose38%3A8" %}}
+
+Es ist eine Rolle, die {{% bible val="Gott übernommen hat" link="https://www.bibleserver.com/SLT/Jesaja44%3A24-28" %}}, weil die Gesellschaft es oft versäumt hat, dies zu tun, was {{% bible val=" ein zentrales Thema im christlichen Glauben" link="https://www.bibleserver.com/SLT/Epheser1%3A7" %}} ist.
 
 ## Der Patriarch
 
