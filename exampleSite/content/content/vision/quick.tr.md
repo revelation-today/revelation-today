@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-[Bölüm 1](https://www.bibleserver.com/TR/Vahiy1).
+{{% bible val="Bölüm 1" link="https://www.bibleserver.com/TR/Vahiy1" %}}.
 
 Zaman geldi. Daniel'in kehaneti yerine geldi ve kilise dünyayı yönetiyor! Ne harika bir haber. Ancak kilisenin şimdi harekete geçmesi gerekiyor.
 

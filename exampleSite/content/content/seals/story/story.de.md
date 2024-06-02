@@ -7,7 +7,7 @@ next: /content/trumpets/story/story
 docType: story
 ---
 
-[Kapitel 6–7](https://www.bibleserver.com/SLT/Offenbarung6)
+{{% bible val="Kapitel 6–7" link="https://www.bibleserver.com/SLT/Offenbarung6" %}}
 
 <a name="c33e"></a>
 Jesus ist nicht der Einzige, der die Welt regieren will, und Jesus bricht die Siegel, um dies zu enthüllen. Satan behauptet das Gleiche und zeigt sich in glänzender Rüstung, aber Jesus zeigt, dass hinter all diesen Versprechungen Gewalt gegen Menschen steckt, die mitmachen, die Ungerechtigkeit leben und als Folge in einer totalen Katastrophe enden.

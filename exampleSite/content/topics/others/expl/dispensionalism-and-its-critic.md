@@ -21,9 +21,9 @@ It is hard to criticize Dispensionalism because of its great variety, but I will
 <a name="dac4"></a>
 It is argued that this approach will use the Bible literally which is basically good, but such an approach would not reflect the literature of the Bible in each case.
 
-There is poetic literature such as the Song of Songs. If you took everything literally, Sulamith would look like [that](https://www.pinterest.com/pin/414894184412811101/). There are several other places, where it is unlikely that this is meant [literally](https://www.bibleserver.com/NIV/Isaiah55%3A12).
+There is poetic literature such as the Song of Songs. If you took everything literally, Sulamith would look like [that](https://www.pinterest.com/pin/414894184412811101/). There are several other places, where it is unlikely that this is meant {{% bible val="literally" link="https://www.bibleserver.com/NIV/Isaiah55%3A12" %}}.
 
-Furthermore, Dispensationalists are inconsistent in their application of this principle. They agree that the [beast will not have seven heads and ten horns](https://www.bibleserver.com/NIV/Revelation13%3A1). Even [Gog and Magog](https://www.bibleserver.com/NIV/Revelation20%3A8) are mentioned with the reference to [God destroying the bow and arrows](https://www.bibleserver.com/NIV/Ezekiel39%3A3), these are interpreted as aircrafts and missiles.
+Furthermore, Dispensationalists are inconsistent in their application of this principle. They agree that the {{% bible val="beast will not have seven heads and ten horns" link="https://www.bibleserver.com/NIV/Revelation13%3A1" %}}. Even {{% bible val="Gog and Magog" link="https://www.bibleserver.com/NIV/Revelation20%3A8" %}} are mentioned with the reference to {{% bible val="God destroying the bow and arrows" link="https://www.bibleserver.com/NIV/Ezekiel39%3A3" %}}, these are interpreted as aircrafts and missiles.
 
 ### Lack of literature understanding
 
@@ -33,14 +33,14 @@ The theory does not take into account the nature of the literature: An apocalypt
 ### No relevance for the original readers
 
 <a name="ae8f"></a>
-The theory makes no sense to the original readers. The argument that it is about things in the future does not count because the book of Daniel also looks far into the future, but that [book was sealed (until the time was ready)](https://www.bibleserver.com/NIV/Daniel8%3A26), but this is not the case with [Revelation](https://www.bibleserver.com/NIV/Revelation22%3A10).
+The theory makes no sense to the original readers. The argument that it is about things in the future does not count because the book of Daniel also looks far into the future, but that {{% bible val="book was sealed (until the time was ready)" link="https://www.bibleserver.com/NIV/Daniel8%3A26" %}}, but this is not the case with {{% bible val="Revelation" link="https://www.bibleserver.com/NIV/Revelation22%3A10" %}}.
 
 ### Context based
 
 <a name="eba9"></a>
 The theory often makes claims without explanation, or uses an arsenal of Bible verses that are not considered in their context.
 
-The main [2000 year delay in the prophecy of the 70 years](https://www.bibleserver.com/NIV/Daniel9%3A26-27) depends on a very specific reading, even punctuation, of this verse that is supported only in the King James translations.
+The main {{% bible val="2000 year delay in the prophecy of the 70 years" link="https://www.bibleserver.com/NIV/Daniel9%3A26-27" %}} depends on a very specific reading, even punctuation, of this verse that is supported only in the King James translations.
 
 ### Prediction of the future
 
@@ -49,7 +49,7 @@ This interpretation is very often used to claim that some specific element of cu
 
 There are several flaws in this approach:
 
-- God’s detailed plan is not fixed even when proclaimed by prophets, see the story of [Jonah](https://www.bibleserver.com/NIV/Jonah3%3A4-10) or [Hesekiah](https://www.bibleserver.com/NIV/Isaiah38%3A1-5).
+- God’s detailed plan is not fixed even when proclaimed by prophets, see the story of {{% bible val="Jonah" link="https://www.bibleserver.com/NIV/Jonah3%3A4-10" %}} or {{% bible val="Hesekiah" link="https://www.bibleserver.com/NIV/Isaiah38%3A1-5" %}}.
 - As a prophetic book, the intention is not to predict, but to describe (possible) consequences and to encourage people to act so that these things don’t happen.
 - There have been so many “fits” with historical events that were so convincing, but all of them have been revised as time has gone on, so the amount of all these fitting predictions is the best argument against it. 😎
 - The prediction is often done with a special tunnel view, e.g. the seven letters to the churches are seen as 7 epochs of the church and we are now living in the last era of Laodicea, the lukewarm church. This may be an interpretation of some Western churches, but it would be a very wrong view of the many churches that are now in tribulation.
@@ -62,7 +62,7 @@ There are several flaws in this approach:
 ### The third temple
 
 <a name="3d3b"></a>
-The theory speaks of a new temple being built in Jerusalem, based on the [fact that the temple is given to the Gentiles in Revelation](https://www.bibleserver.com/NIV/Revelation11%3A1-2). Since there is no temple as a building right now existing, it must be built. This interpretation does not take into account that the temple is [not necessarily a building](/bible/keyword/expl/the-temple-and-the-presence-of-god) but a description of the presence of God.
+The theory speaks of a new temple being built in Jerusalem, based on the {{% bible val="fact that the temple is given to the Gentiles in Revelation" link="https://www.bibleserver.com/NIV/Revelation11%3A1-2" %}}. Since there is no temple as a building right now existing, it must be built. This interpretation does not take into account that the temple is [not necessarily a building](/bible/keyword/expl/the-temple-and-the-presence-of-god) but a description of the presence of God.
 
 Therefore, there is statement that a new temple building will be erected.
 
@@ -80,9 +80,9 @@ There are several things wrong with this. But before I get to those, I want to a
 
 So what is wrong?
 
-- The church is [identified with Israel](/background/israel/expl/the-church-is-part-of-israel) in the sense that the church has become the fulfillment of Israel’s original calling and the [church is part of Israel](https://www.bibleserver.com/NIV/Romans11%3A13-24).
-- There is [no longer a wall/distinction between Israel and the Gentiles](https://www.bibleserver.com/NIV/Ephesians2%3A11-22).
-- It is not the church that is temporal [but the covenant at Sinai](https://www.bibleserver.com/NIV/Galatians3%3A15-29), while faith in Christ is the fulfillment of the covenant with Abraham.
+- The church is [identified with Israel](/background/israel/expl/the-church-is-part-of-israel) in the sense that the church has become the fulfillment of Israel’s original calling and the {{% bible val="church is part of Israel" link="https://www.bibleserver.com/NIV/Romans11%3A13-24" %}}.
+- There is {{% bible val="no longer a wall/distinction between Israel and the Gentiles" link="https://www.bibleserver.com/NIV/Ephesians2%3A11-22" %}}.
+- It is not the church that is temporal {{% bible val="but the covenant at Sinai" link="https://www.bibleserver.com/NIV/Galatians3%3A15-29" %}}, while faith in Christ is the fulfillment of the covenant with Abraham.
 - The church does not disappear because the term disappears.
 - If all Israel will rule what is about the people who do not believe in God at all — and this was even better in the Old Testament, where there were no atheists ;-).
 
@@ -99,7 +99,7 @@ The reason for faith in this theory is fear — if you do not believe, you will 
 ### The weapons of warfare
 
 <a name="14cf"></a>
-Faith is described in a very militaristic way, joining the army, which is [not a reflection of Revelation](https://www.bibleserver.com/NIV/Revelation14%3A1-5): [Jesus goes to war alone with the sword of his mouth](https://www.bibleserver.com/NIV/Revelation19%3A21). This is a very symbolic act and does not imply a violent act of war.
+Faith is described in a very militaristic way, joining the army, which is {{% bible val="not a reflection of Revelation" link="https://www.bibleserver.com/NIV/Revelation14%3A1-5" %}}: {{% bible val="Jesus goes to war alone with the sword of his mouth" link="https://www.bibleserver.com/NIV/Revelation19%3A21" %}}. This is a very symbolic act and does not imply a violent act of war.
 
 ### Is wrongly political
 

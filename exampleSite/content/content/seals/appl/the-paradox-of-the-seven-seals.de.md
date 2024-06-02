@@ -25,7 +25,7 @@ Die Schriftrolle mit den sieben Siegeln ist der Punkt in der Offenbarung Worum g
 ## Unser Text
 
 <a name="35f4"></a>
-Wir sind jetzt in [Kapitel 5](https://www.bibleserver.com/SLT/Offenbarung5) und [6](https://www.bibleserver.com/SLT/Offenbarung6).
+Wir sind jetzt in {{% bible val="Kapitel 5" link="https://www.bibleserver.com/SLT/Offenbarung5" %}} und {{% bible val="6" link="https://www.bibleserver.com/SLT/Offenbarung6" %}}.
 
 ## Das Buch und das Lamm
 

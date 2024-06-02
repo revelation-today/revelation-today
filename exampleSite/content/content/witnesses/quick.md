@@ -11,7 +11,7 @@ deeper:
 docType: quick
 ---
 
-[Chapter 11](https://www.bibleserver.com/NIV/Revelation11).
+{{% bible val="Chapter 11" link="https://www.bibleserver.com/NIV/Revelation11" %}}.
 
 The mystery of God will be revealed in this chapter. 
 
@@ -20,7 +20,7 @@ The chapter consists of three parts
 - the two witnesses
 - the aftermath and revelation of Gods presence
 
-and this is all covered (the next three chapters) but a strange timeslot which is identical and describes the time from Jesus first coming to his second coming: 1260 days = 42 months = 3,5 times (years). This is the time when God completes his plan according to [Daniel](https://www.bibleserver.com/NIV/Daniel9%3A24-27) and a time of the question who is the real God (based on [Elija](https://www.bibleserver.com/NIV/1%20Kings19).
+and this is all covered (the next three chapters) but a strange timeslot which is identical and describes the time from Jesus first coming to his second coming: 1260 days = 42 months = 3,5 times (years). This is the time when God completes his plan according to {{% bible val="Daniel" link="https://www.bibleserver.com/NIV/Daniel9%3A24-27" %}} and a time of the question who is the real God (based on {{% bible val="Elija" link="https://www.bibleserver.com/NIV/1%20Kings19" %}}.
 
 ## The temple
 

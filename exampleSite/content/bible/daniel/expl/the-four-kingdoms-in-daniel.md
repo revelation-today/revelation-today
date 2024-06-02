@@ -16,49 +16,49 @@ The book of Daniel seems to be the source of many end-time interpretations. Let�
 ## The four kingdoms
 
 <a name="3dba"></a>
-Chapters 2 and 7 of Daniel give us a glimpse of four different kingdoms, [chapter 2 using the vision of a statue](https://www.bibleserver.com/NIV/Daniel2) while [chapter 7 describes them as beasts](https://www.bibleserver.com/NIV/Daniel7).
+Chapters 2 and 7 of Daniel give us a glimpse of four different kingdoms, {{% bible val="chapter 2 using the vision of a statue" link="https://www.bibleserver.com/NIV/Daniel2" %}} while {{% bible val="chapter 7 describes them as beasts" link="https://www.bibleserver.com/NIV/Daniel7" %}}.
 
 Both chapters describe them as successive (chapter 2 explicitly, chapter 7 by conquering each other and replacing one another).
 
-Looking at chapter 2 we have a starting point because [the first one is Babel](https://www.bibleserver.com/NIV/Daniel2%3A37-38). Babel was [destroyed by the Median/Persian Empire](https://www.bibleserver.com/NIV/Daniel5%3A30). Some commentators see the Median and Persian empires as two different successive empires, but this does not reflect history as both empires were united BEFORE they destroyed Babel.
+Looking at chapter 2 we have a starting point because {{% bible val="the first one is Babel" link="https://www.bibleserver.com/NIV/Daniel2%3A37-38" %}}. Babel was {{% bible val="destroyed by the Median/Persian Empire" link="https://www.bibleserver.com/NIV/Daniel5%3A30" %}}. Some commentators see the Median and Persian empires as two different successive empires, but this does not reflect history as both empires were united BEFORE they destroyed Babel.
 
-The third would be the [Greek under Alexander the great who conquered the Median/Persian Empire](https://www.bibleserver.com/NIV/Daniel8%3A19-21). This empire split into 4 empires after the death of Alexander the Great, which were eventually consumed by the Roman Empire.
+The third would be the {{% bible val="Greek under Alexander the great who conquered the Median/Persian Empire" link="https://www.bibleserver.com/NIV/Daniel8%3A19-21" %}}. This empire split into 4 empires after the death of Alexander the Great, which were eventually consumed by the Roman Empire.
 
 If we look at chapter 7, we see a similar picture.
 
 It begins with Babel:
 
-“[And four great beasts came up out of the sea, different from one another. 4 The first was like a lion and had eagles’ wings. Then as I looked its wings were plucked off, and it was lifted up from the ground and made to stand on two feet like a man, and the mind of a man was given to it.](https://www.bibleserver.com/NIV/Daniel7%3A3-4)”
+“{{% bible val="And four great beasts came up out of the sea, different from one another. 4 The first was like a lion and had eagles’ wings. Then as I looked its wings were plucked off, and it was lifted up from the ground and made to stand on two feet like a man, and the mind of a man was given to it." link="https://www.bibleserver.com/NIV/Daniel7%3A3-4" %}}”
 
-Babel was symbolized with a lion as a [statue](https://en.wikipedia.org/wiki/Lion_of_Babylon) or [portrait](https://en.wikipedia.org/wiki/Lion_of_Babylon) and was probably referred to by Jeremiah as a [lion and eagle](https://www.bibleserver.com/NIV/Jeremiah49%3A19-22) describing the judgment of Edom.
+Babel was symbolized with a lion as a [statue](https://en.wikipedia.org/wiki/Lion_of_Babylon) or [portrait](https://en.wikipedia.org/wiki/Lion_of_Babylon) and was probably referred to by Jeremiah as a {{% bible val="lion and eagle" link="https://www.bibleserver.com/NIV/Jeremiah49%3A19-22" %}} describing the judgment of Edom.
 
 Next come the Persians:
 
-“[And behold, another beast, a second one, like a bear. It was raised up on one side. It had three ribs in its mouth between its teeth; and it was told, ‘Arise, devour much flesh.’](https://www.bibleserver.com/NIV/Daniel7%3A5)”
+“{{% bible val="And behold, another beast, a second one, like a bear. It was raised up on one side. It had three ribs in its mouth between its teeth; and it was told, ‘Arise, devour much flesh.’" link="https://www.bibleserver.com/NIV/Daniel7%3A5" %}}”
 
 The bear which raining on one side refers to the common Median and Persian Empire, while the latter one are the smaller but eventually took the lead.The three ribs and the reference to devour describe the three mayor conquests of Lydia (547 B.C.), Babel (539 B.C.) and Egypt (525 B.C.).
 
 Followed by the Greek:
 
-“[After this I looked, and behold, another, like a leopard, with four wings of a bird on its back. And the beast had four heads, and dominion was given to it.](https://www.bibleserver.com/NIV/Daniel7%3A6)”
+“{{% bible val="After this I looked, and behold, another, like a leopard, with four wings of a bird on its back. And the beast had four heads, and dominion was given to it." link="https://www.bibleserver.com/NIV/Daniel7%3A6" %}}”
 
 The leopard describes very well the rapid expansion of his kingdom from Greece to India and in less than two decades. After his death, the kingdom divided into 4 successors representing the 4 heads.
 
 Finally come the Romans:
 
-“[After this I saw in the night visions, and behold, a fourth beast, terrifying and dreadful and exceedingly strong. It had great iron teeth; it devoured and broke in pieces and stamped what was left with its feet.](https://www.bibleserver.com/NIV/Daniel7%3A7)”
+“{{% bible val="After this I saw in the night visions, and behold, a fourth beast, terrifying and dreadful and exceedingly strong. It had great iron teeth; it devoured and broke in pieces and stamped what was left with its feet." link="https://www.bibleserver.com/NIV/Daniel7%3A7" %}}”
 
-The Roman Empire conquered the last of the Greek empires and was the greatest empire that conquered all with iron strength. Iron was also [the material of chapter 2](https://www.bibleserver.com/NIV/Daniel2%3A40).
+The Roman Empire conquered the last of the Greek empires and was the greatest empire that conquered all with iron strength. Iron was also {{% bible val="the material of chapter 2" link="https://www.bibleserver.com/NIV/Daniel2%3A40" %}}.
 
 ## The end of the kingdoms
 
-Both chapters describe the end by a divine event. In chapter 2 this is described as “[a stone was cut out by no human hand, and it struck the image on its feet of iron and clay, and broke them in pieces](https://www.bibleserver.com/NIV/Daniel2%3A34)" and “[the stone that struck the image became a great mountain and filled the whole earth.](https://www.bibleserver.com/NIV/Daniel2%3A35)”
+Both chapters describe the end by a divine event. In chapter 2 this is described as “{{% bible val="a stone was cut out by no human hand, and it struck the image on its feet of iron and clay, and broke them in pieces" link="https://www.bibleserver.com/NIV/Daniel2%3A34" %}}" and “{{% bible val="the stone that struck the image became a great mountain and filled the whole earth." link="https://www.bibleserver.com/NIV/Daniel2%3A35" %}}”
 
-This reminds us on the [cornerstone](https://www.bibleserver.com/NIV/Isaiah28%3A16) that is[ Jesus Christ,](https://www.bibleserver.com/NIV/1%20Peter2%3A4-8) who is the [foundation of the Church](https://www.bibleserver.com/NIV/Ephesians2%3A19-22). He was not made by “human hand” and He became the ruler of the world, giving Him authority to the church to rule.Looking at chapter 7 we also have an intervention [which is the Ancient of Days and the Son of Man who overcomes the kingdoms](https://www.bibleserver.com/NIV/Daniel7%3A9-12) and [He will set up an eternal kingdom](https://www.bibleserver.com/NIV/Daniel7%3A13-14). 
+This reminds us on the {{% bible val="cornerstone" link="https://www.bibleserver.com/NIV/Isaiah28%3A16" %}} that is{{% bible val=" Jesus Christ," link="https://www.bibleserver.com/NIV/1%20Peter2%3A4-8" %}} who is the {{% bible val="foundation of the Church" link="https://www.bibleserver.com/NIV/Ephesians2%3A19-22" %}}. He was not made by “human hand” and He became the ruler of the world, giving Him authority to the church to rule.Looking at chapter 7 we also have an intervention {{% bible val="which is the Ancient of Days and the Son of Man who overcomes the kingdoms" link="https://www.bibleserver.com/NIV/Daniel7%3A9-12" %}} and {{% bible val="He will set up an eternal kingdom" link="https://www.bibleserver.com/NIV/Daniel7%3A13-14" %}}. 
 
 Who is the Son of Man?
 
-In the context of Daniel it was Israel, as [they receive a kingdom](https://www.bibleserver.com/NIV/Daniel7%3A18) as [the Son of Man](https://www.bibleserver.com/NIV/Daniel7%3A14), but this was fulfilled in Jesus as the true Israel as [Son of Man is the only title He uses for Himself](https://www.bibleserver.com/search/NIV/son%20of%20man).
+In the context of Daniel it was Israel, as {{% bible val="they receive a kingdom" link="https://www.bibleserver.com/NIV/Daniel7%3A18" %}} as {{% bible val="the Son of Man" link="https://www.bibleserver.com/NIV/Daniel7%3A14" %}}, but this was fulfilled in Jesus as the true Israel as {{% bible val="Son of Man is the only title He uses for Himself" link="https://www.bibleserver.com/search/NIV/son%20of%20man" %}}.
 
 ## There is more
 
@@ -72,7 +72,7 @@ We saw that chapters 2 and 7 talk about the same four kingdoms and end in the Ro
 
 The story does not end with Jesus coming to earth, but it did start a major change in world history: The church now rules the earth! With the spreading of the gospel in worship, prayer, witness and perseverance, the world is changing. 
 
-But how much are we taking advantage of it? Instead of a new world, we see the world covered with crusades, inquisitions, forced conversions using the fear of hell.On the other hand, the change of rulership is not so obvious because Jesus’ kingdom is not of this world. As Jesus and the church take over the rule of the earth, we must ask ourselves what it [means to rule in God’s kingdom](https://www.bibleserver.com/NIV/Matthew20%3A25-28).
+But how much are we taking advantage of it? Instead of a new world, we see the world covered with crusades, inquisitions, forced conversions using the fear of hell.On the other hand, the change of rulership is not so obvious because Jesus’ kingdom is not of this world. As Jesus and the church take over the rule of the earth, we must ask ourselves what it {{% bible val="means to rule in God’s kingdom" link="https://www.bibleserver.com/NIV/Matthew20%3A25-28" %}}.
 
 The Roman Empire is the last of the four that had direct rule over Israel. After the new covenant with Jesus, God’s people are scattered all over the earth, and there is no one empire that covers them all.
 

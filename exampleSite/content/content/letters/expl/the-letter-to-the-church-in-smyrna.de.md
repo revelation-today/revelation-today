@@ -16,7 +16,7 @@ sources:
 
 Kennst du die Gemeinde von Smyrna? Das solltest du, denn dort findest du eine Gemeinde, die in den Augen Jesu ohne Tadel ist, aber vielleicht nicht deine Traumgemeinde.
 
-[Smyrna ist eine von zwei Gemeinden, die von Jesus überhaupt nicht getadelt werden](https://www.bibleserver.com/SLT/Offenbarung2%2C8-11). Was ist ihr Geheimnis?
+{{% bible val="Smyrna ist eine von zwei Gemeinden, die von Jesus überhaupt nicht getadelt werden" link="https://www.bibleserver.com/SLT/Offenbarung2%2C8-11" %}}. Was ist ihr Geheimnis?
 
 ## Der historische Hintergrund
 
@@ -35,11 +35,11 @@ Jesus begegnet der Gemeinde als der Auferstandene, der den Tod überwunden hat. 
 - Sie hat finanzielle Schwierigkeiten, vermutlich weil sie nicht zu einer Handelsgruppe gehört.
 - Es gibt einige Juden, die die Gemeinde verleumden, und das ist wahrscheinlich der Grund, warum einige ins Gefängnis gehen (Satan wird einige von euch ins Gefängnis werfen, die Juden sind eine Synagoge Satans).
 
-Der Hinweis auf die [10 Tage](https://www.bibleserver.com/SLT/Offenbarung2%2C10) bezieht sich auf die Geschichte von [Daniel, der nur Gemüse aß, um sich nicht durch das unreinen (den Götzen geweihte) Fleisch an der Tafel des Königs zu verunreinigen](https://www.bibleserver.com/SLT/Daniel1%2C8-14).
+Der Hinweis auf die {{% bible val="10 Tage" link="https://www.bibleserver.com/SLT/Offenbarung2%2C10" %}} bezieht sich auf die Geschichte von {{% bible val="Daniel, der nur Gemüse aß, um sich nicht durch das unreinen (den Götzen geweihte) Fleisch an der Tafel des Königs zu verunreinigen" link="https://www.bibleserver.com/SLT/Daniel1%2C8-14" %}}.
 
 ## Die Perspektive
 
 <a name="302f"></a>
-Jesus verheißt: Wenn sie standhalten, wird ihnen der zweite Tod nicht schaden. Jesus hat ihn überwunden, indem er [durch den Tod in die Auferstehung gegangen ist, was als Schwäche gesehen werden kann](https://www.bibleserver.com/SLT/Offenbarung5%2C5-6), aber [so regiert er und mit ihm die Gemeinde](https://www.bibleserver.com/SLT/Offenbarung20%2C4-6). Das ist eine Paradox. Wie soll das funktionieren?
+Jesus verheißt: Wenn sie standhalten, wird ihnen der zweite Tod nicht schaden. Jesus hat ihn überwunden, indem er {{% bible val="durch den Tod in die Auferstehung gegangen ist, was als Schwäche gesehen werden kann" link="https://www.bibleserver.com/SLT/Offenbarung5%2C5-6" %}}, aber {{% bible val="so regiert er und mit ihm die Gemeinde" link="https://www.bibleserver.com/SLT/Offenbarung20%2C4-6" %}}. Das ist eine Paradox. Wie soll das funktionieren?
 
 Je mehr wir versagen, desto mehr kann Jesus wirken. Es besteht die Gefahr, dass wir [von der Verzweiflung so überwältigt werden, dass wir aufgeben](/content/beasts/expl/666-the-number-of-the-beast). Wir sollen die Situationen nicht lösen, sondern sie mit ihm aushalten.

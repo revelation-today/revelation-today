@@ -27,6 +27,6 @@ Die Hyksos wurden schließlich 1550 v. Chr. besiegt und Ägypten wollte um jeden
 
 Es ist wahrscheinlich, dass Joseph während der Hyksoszeit lebte, da
 
-- Das Land [Goschen (im Norden Ägyptens) war in der Nähe des Palastes, als Josef in Ägypten war](https://www.bibleserver.com/SLT/1.Mose45%2C10)
-- Israel wurde gezwungen, die [Städte Pithon und Ramses zu bauen](https://www.bibleserver.com/SLT/2.Mose1%2C11), die wahrscheinlich unter [Ramses II](https://de.wikipedia.org/wiki/Ramses_II.) errichtet wurden. Diese [Städte lagen im Nordwesten, von wo aus Israel auswanderte](https://www.bibleserver.com/SLT/2.Mose12%2C37).
+- Das Land {{% bible val="Goschen (im Norden Ägyptens) war in der Nähe des Palastes, als Josef in Ägypten war" link="https://www.bibleserver.com/SLT/1.Mose45%2C10" %}}
+- Israel wurde gezwungen, die {{% bible val="Städte Pithon und Ramses zu bauen" link="https://www.bibleserver.com/SLT/2.Mose1%2C11" %}}, die wahrscheinlich unter [Ramses II](https://de.wikipedia.org/wiki/Ramses_II.) errichtet wurden. Diese {{% bible val="Städte lagen im Nordwesten, von wo aus Israel auswanderte" link="https://www.bibleserver.com/SLT/2.Mose12%2C37" %}}.
 - Ramses’ Vater Sethos I baute einen Sommerpalast in der Nähe von Avaris (der damaligen Hauptstadt der Hyksos), was auch erklärt, warum Moses so schnell von der Prinzessin in der Nähe von Goschen gefunden wurde.

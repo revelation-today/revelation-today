@@ -19,7 +19,7 @@ The 144,000 is a statement that many have heard. Who are they? And why are they 
 ## Our text
 
 <a name="c775"></a>
-We are moving quickly forward and have already in [chapter 7](https://www.bibleserver.com/NIV/Revelation7).
+We are moving quickly forward and have already in {{% bible val="chapter 7" link="https://www.bibleserver.com/NIV/Revelation7" %}}.
 
 ## The army of God
 

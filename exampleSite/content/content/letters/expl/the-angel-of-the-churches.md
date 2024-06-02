@@ -22,7 +22,7 @@ In the book of Revelation in the Bible, there is this repeated phrase: Write to 
 ## Unlikely interpretations
 
 <a name="eda4"></a>
-Could it be that the angels of the churches are guardian angels watching over the churches? Probably not, because it is a bit strange for Jesus to tell John to write to the angels — there are other ways. And how do you write to angels anyway? Besides, it would be [hard to blame the angel if some of the members in the church are not faithful](https://www.bibleserver.com/NIV/Revelation2%3A24-25).
+Could it be that the angels of the churches are guardian angels watching over the churches? Probably not, because it is a bit strange for Jesus to tell John to write to the angels — there are other ways. And how do you write to angels anyway? Besides, it would be {{% bible val="hard to blame the angel if some of the members in the church are not faithful" link="https://www.bibleserver.com/NIV/Revelation2%3A24-25" %}}.
 
 Or could it be a leader who is referred to as an angel? Well, it would also be hard to blame him for the failures of individuals.
 
@@ -31,10 +31,10 @@ Or could it be a leader who is referred to as an angel? Well, it would also be h
 <a name="dcbc"></a>
 Let us take some time to make a few observations:
 
-- John is told to[ write to the seven churches](https://www.bibleserver.com/NIV/Revelation1%3A11), not to the angels.
-- Each letter begins with “[write to the angel of](https://www.bibleserver.com/NIV/Revelation2%3A1)” but ends with “[what the Spirit says to the churches](https://www.bibleserver.com/NIV/Revelation2%3A7)”.
-- The angels are addressed as the churches: “[Consider how you have fallen](https://www.bibleserver.com/NIV/Revelation2%3A5)”.
-- The Greek text alternates between singular and plural (capital letters): “[Do not be afraid of what you are about to suffer. I tell you, the devil will put some of YOU in prison to test YOU, and YOU will suffer persecution for ten days. Be faithful, even to the point of death, and I will give you life as your victor’s crown.](https://www.bibleserver.com/NIV/Revelation2%3A10)”.
+- John is told to{{% bible val=" write to the seven churches" link="https://www.bibleserver.com/NIV/Revelation1%3A11" %}}, not to the angels.
+- Each letter begins with “{{% bible val="write to the angel of" link="https://www.bibleserver.com/NIV/Revelation2%3A1" %}}” but ends with “{{% bible val="what the Spirit says to the churches" link="https://www.bibleserver.com/NIV/Revelation2%3A7" %}}”.
+- The angels are addressed as the churches: “{{% bible val="Consider how you have fallen" link="https://www.bibleserver.com/NIV/Revelation2%3A5" %}}”.
+- The Greek text alternates between singular and plural (capital letters): “{{% bible val="Do not be afraid of what you are about to suffer. I tell you, the devil will put some of YOU in prison to test YOU, and YOU will suffer persecution for ten days. Be faithful, even to the point of death, and I will give you life as your victor’s crown." link="https://www.bibleserver.com/NIV/Revelation2%3A10" %}}”.
 - Angels were used here without an article, which is unusual in the Jewish or early Christian literature.
 - These angels were never mentioned again in the rest of the book.
 
@@ -45,9 +45,9 @@ What if angels of the churches are another way of addressing the churches themse
 
 Moreover
 
-- It is normal in Jewish literature to refer to a group as an individual ([Daughter Zion](https://www.bibleserver.com/NIV/Zephaniah3%3A14), [Tyrus](https://www.bibleserver.com/NIV/Ezekiel27), Hosea changes from singular to plural in [Hos.9](https://www.bibleserver.com/NIV/Hosea9%3A1-6) and [14](https://www.bibleserver.com/NIV/Hosea14%3A1-3)).
+- It is normal in Jewish literature to refer to a group as an individual ({{% bible val="Daughter Zion" link="https://www.bibleserver.com/NIV/Zephaniah3%3A14" %}}, {{% bible val="Tyrus" link="https://www.bibleserver.com/NIV/Ezekiel27" %}}, Hosea changes from singular to plural in {{% bible val="Hos.9" link="https://www.bibleserver.com/NIV/Hosea9%3A1-6" %}} and {{% bible val="14" link="https://www.bibleserver.com/NIV/Hosea14%3A1-3" %}}).
 - Letters to churches are not usually written to individuals.
-- Churches are also addressed in the [plural](https://www.bibleserver.com/NIV/Zephaniah2%3A1-5) in letters or prophetic speeches.
+- Churches are also addressed in the {{% bible val="plural" link="https://www.bibleserver.com/NIV/Zephaniah2%3A1-5" %}} in letters or prophetic speeches.
 
 So why should the churches be addressed as angels?
 

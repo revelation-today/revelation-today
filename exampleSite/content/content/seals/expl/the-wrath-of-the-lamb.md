@@ -21,9 +21,9 @@ The text is “[I watched as he opened the sixth seal. There was a great earthqu
 ## The Wrath of the Lamb
 
 <a name="ddd6"></a>
-The wrath of the lamb sounds like a theme that is all over the Bible, but this term actually only appears [ONCE](https://www.bibleserver.com/NIV/Revelation6%3A16) in the context of the sixth seal and is not the description of the lamb but the perception that the people have of him. After all the devastation of the [four horseman masquerading as Jesus](/content/seals/expl/the-mystery-of-the-four-horse-men) the people are certainly afraid that Jesus will act the same way, but he is not. His judgment will be severe ([permanent separation from God](/content/paradise/expl/heaven-and-hell)), but not in the way of devastating warfare.
+The wrath of the lamb sounds like a theme that is all over the Bible, but this term actually only appears {{% bible val="ONCE" link="https://www.bibleserver.com/NIV/Revelation6%3A16" %}} in the context of the sixth seal and is not the description of the lamb but the perception that the people have of him. After all the devastation of the [four horseman masquerading as Jesus](/content/seals/expl/the-mystery-of-the-four-horse-men) the people are certainly afraid that Jesus will act the same way, but he is not. His judgment will be severe ([permanent separation from God](/content/paradise/expl/heaven-and-hell)), but not in the way of devastating warfare.
 
-They whole scene reminds of [Hosea](https://www.bibleserver.com/NIV/Hosea10%3A6-8), where Israel is disgraced and ashamed of their idolatry and trying to hide from God which goes back to [the fall of man trying to hide from God after his sin](https://www.bibleserver.com/NIV/Genesis3%3A8).
+They whole scene reminds of {{% bible val="Hosea" link="https://www.bibleserver.com/NIV/Hosea10%3A6-8" %}}, where Israel is disgraced and ashamed of their idolatry and trying to hide from God which goes back to {{% bible val="the fall of man trying to hide from God after his sin" link="https://www.bibleserver.com/NIV/Genesis3%3A8" %}}.
 
 This shows that the emphasis here is more on the people hiding because they know what they have done wrong and expecting judgment, than on the portrayal of an angry God who wants to harm the people.
 

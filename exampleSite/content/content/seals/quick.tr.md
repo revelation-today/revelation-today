@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-[Bölüm 6](https://www.bibleserver.com/TR/Vahiy6)
+{{% bible val="Bölüm 6" link="https://www.bibleserver.com/TR/Vahiy6" %}}
 
 ## Dört atlı
 
@@ -23,7 +23,7 @@ Tanrı'nın gönderdiği dört bela temel alınarak bir araya getirilmişlerdir:
 
 Bu üçlü resim (burada dördüncü atlı diğer üçünün sadece bir özetidir) kitapta devam eder:
 - [13. bölümde] (https://www.bibleserver.com/TR/Vahiy13) iki canavar ve Şeytan'ın arka planda ejderha olarak yer aldığı bir [üçleme](/içerik/canavarlar/hızlı) de görürüz
-- Ayrıca [fahişe ve canavar](/content/harlot/quick) (13. bölümün ilk canavarı) ile [17. bölüm](https://www.bibleserver.com/TR/Vahiy17) bu konuyu yansıtır. Burada Şeytan daha da gizlidir.
+- Ayrıca [fahişe ve canavar](/content/harlot/quick) (13. bölümün ilk canavarı) ile {{% bible val="17. bölüm" link="https://www.bibleserver.com/TR/Vahiy17" %}} bu konuyu yansıtır. Burada Şeytan daha da gizlidir.
 
 ![](/images/trinity_en.jpg)
 

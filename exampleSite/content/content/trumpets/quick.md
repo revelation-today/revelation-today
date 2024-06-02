@@ -8,7 +8,7 @@ next: /content/scroll/quick
 docType: quick
 ---
 
-[Chapter 8](https://www.bibleserver.com/NIV/Revelation8) and [9](https://www.bibleserver.com/NIV/Revelation9).
+{{% bible val="Chapter 8" link="https://www.bibleserver.com/NIV/Revelation8" %}} and {{% bible val="9" link="https://www.bibleserver.com/NIV/Revelation9" %}}.
 
 ## The prayer
 
@@ -32,6 +32,6 @@ But it continues, now cause by demonic being:
 
 But after all that happens the people still do not change their hearts. They are clinging to the even same demons that took away their hope, well being and even life. This seems to be a dead end. The people are even more closed up now. The solution is the next chapter where the mystery of God is revealed. But before lets have a look at the church.
 
-She is protected ([by the seal](https://www.bibleserver.com/NIV/Revelation7%3A1-4)) from the [fifth trumpet](https://www.bibleserver.com/NIV/Revelation9%3A4-6) - they will not loose hope while endurung all the trouble and even loosing their live. But enduring all the loss of the same securites and even their lives make this a great testimony to let people see what are real securities.
+She is protected ({{% bible val="by the seal" link="https://www.bibleserver.com/NIV/Revelation7%3A1-4" %}}) from the {{% bible val="fifth trumpet" link="https://www.bibleserver.com/NIV/Revelation9%3A4-6" %}} - they will not loose hope while endurung all the trouble and even loosing their live. But enduring all the loss of the same securites and even their lives make this a great testimony to let people see what are real securities.
 
 ![](/images/trumpets_en.jpg)

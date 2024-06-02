@@ -14,14 +14,14 @@ sources:
 
 Was ist der Zorn des Lammes? Rechtfertigt dieser Begriff einen heiligen Krieg im Namen des Glaubens?Zur zweiten Frage: Ganz sicher nicht. Das Neue Testament macht sehr deutlich, dass unsere Kämpfe geistlich sind.
 
-Der [Text](https://www.bibleserver.com/SLT/Offenbarung6%2C12-17) ist “… Fallt auf uns und verbergt uns vor dem Angesicht dessen, der auf dem Thron sitzt, und vor dem Zorn des Lammes! 17 Denn der große Tag seines Zorns ist gekommen, und wer kann bestehen?”
+Der {{% bible val="Text" link="https://www.bibleserver.com/SLT/Offenbarung6%2C12-17" %}} ist “… Fallt auf uns und verbergt uns vor dem Angesicht dessen, der auf dem Thron sitzt, und vor dem Zorn des Lammes! 17 Denn der große Tag seines Zorns ist gekommen, und wer kann bestehen?”
 
 ## Der Zorn des Lammes
 
 <a name="435e"></a>
 Der Zorn des Lammes scheint etwas zu sein, das sich durch das ganze Buch zieht, aber der Begriff taucht nur einmal an dieser Stelle auf. Der Zorn des Lammes wird nicht von einem Engel angekündigt, sondern ist die Wahrnehmung der Menschen. Nach dem [ganzen Chaos der vier apokalyptischen Reiter](/content/seals/expl/the-mystery-of-the-four-horse-men) haben die Menschen die Angst, dass Jesus genauso reagieren wird, weil sie dachten, dass er es die ganze Zeit war, aber das ist nicht der Fall. Sein Gericht wird ernst sein ([ewige Trennung von Gott](/content/paradise/expl/heaven-and-hell)), aber kein blutrünstiges Gemetzel.
 
-Die ganze Szene erinnert an [Hosea](https://www.bibleserver.com/SLT/Hosea10%2C6-8), wo Israel wegen seines Götzendienstes beschämt ist, und versucht, sich vor Gott zu verbergen, was bis [zum Sündenfall zurückreicht, als Adam versuchte, sich zu verstecken](https://www.bibleserver.com/SLT/1.Mose3%2C8).
+Die ganze Szene erinnert an {{% bible val="Hosea" link="https://www.bibleserver.com/SLT/Hosea10%2C6-8" %}}, wo Israel wegen seines Götzendienstes beschämt ist, und versucht, sich vor Gott zu verbergen, was bis {{% bible val="zum Sündenfall zurückreicht, als Adam versuchte, sich zu verstecken" link="https://www.bibleserver.com/SLT/1.Mose3%2C8" %}}.
 
 Die Betonung liegt eher darauf, dass sich die Menschen verstecken, weil sie wissen, was sie falsch gemacht haben und das Gericht erwarten, als auf dem Erscheinen eines zornigen Gottes, der den Menschen schaden will wie die apokalyptischen Reiter.
 

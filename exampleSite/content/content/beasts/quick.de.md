@@ -8,7 +8,7 @@ prev: /content/jesus/quick
 next: /content/harvest/quick
 docType: quick
 ---
-[Kapitel 13](https://www.bibleserver.com/SLT/Offenbarung13)
+{{% bible val="Kapitel 13" link="https://www.bibleserver.com/SLT/Offenbarung13" %}}
 
 Satan ist besiegt. Alles, was er angefangen hat, ist gescheitert. Jetzt greift er die Kirche an.
 

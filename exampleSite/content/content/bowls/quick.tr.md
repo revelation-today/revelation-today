@@ -10,7 +10,7 @@ docType: quick
 ---
 
 
-[Bölüm 15-16](https://www.bibleserver.com/TR/Vahiy15)
+{{% bible val="Bölüm 15-16" link="https://www.bibleserver.com/TR/Vahiy15" %}}
 
 ## Kaseler
 
@@ -27,19 +27,19 @@ Bu bize Tanrı'nın ne yapacağını çabucak açıklar. Buradaki senaryo, Tanr�
 
 ## Armagedon
 
-Çok ilginç bir konu var: Armageddon. Bundan [sadece bir kez](https://www.bibleserver.com/TR/Vahiy16%3A12-16) bahsedilmektedir ve bunun ne hakkında olduğu açık değildir.
+Çok ilginç bir konu var: Armageddon. Bundan {{% bible val="sadece bir kez" link="https://www.bibleserver.com/TR/Vahiy16%3A12-16" %}} bahsedilmektedir ve bunun ne hakkında olduğu açık değildir.
 
 Armageddon kelimesinin üç çevirisi vardır:
 - Katliam dağı -> bu destansı bir savaş olacak
-- Meclis Dağı -> [Tanrı gibi olmak isteyen ancak hiçbir şeye indirgenemeyen Şeytan'a bir gönderme](https://www.bibleserver.com/TR/Ye%C5%9Faya14%3A3-23)
+- Meclis Dağı -> {{% bible val="Tanrı gibi olmak isteyen ancak hiçbir şeye indirgenemeyen Şeytan'a bir gönderme" link="https://www.bibleserver.com/TR/Ye%C5%9Faya14%3A3-23" %}}
 - Megiddo Dağı -> Alışılmadık kahramanlarla birçok savaşın yaşandığı yer
-    - [Jael adında bir ev kadını bir ordu liderinin üstesinden gelir](https://www.bibleserver.com/TR/Hakimler4)
-    - [depresif peygamber bir ulusu kurtarır - Karmel Megiddo yakınlarındaki dağdır](https://www.bibleserver.com/TR/1.Krallar18)
+    - {{% bible val="Jael adında bir ev kadını bir ordu liderinin üstesinden gelir" link="https://www.bibleserver.com/TR/Hakimler4" %}}
+    - {{% bible val="depresif peygamber bir ulusu kurtarır - Karmel Megiddo yakınlarındaki dağdır" link="https://www.bibleserver.com/TR/1.Krallar18" %}}
     - [tek bir adam aynı gün iki ülkenin hükümdarını devirir] (https://www.bibleserver.com/TR/2.Krallar9)
-    - [bir kral savaşa girer, savaşı kaybeder ve ölür, ama tarihi değiştirir](https://www.bibleserver.com/TR/2.Tarihler35%3A20-24)
+    - {{% bible val="bir kral savaşa girer, savaşı kaybeder ve ölür, ama tarihi değiştirir" link="https://www.bibleserver.com/TR/2.Tarihler35%3A20-24" %}}
     
 Bir şey açıktır: Savaş Armagedon'da olmaz, çünkü burada da gösterildiği gibi orduların toplandığı yerler dağlardır.
 
-Savaş daha sonra anlatılacaktır. Kısa bir şekilde [yedinci kasede](https://www.bibleserver.com/TR/Vahiy16%3A17-21), ama ayrıntılı olarak (fahişenin kaderi ve gelinin düğünü anlatıldıktan sonra), İsa [beyaz atlı](https://www.bibleserver.com/TR/Vahiy19%3A11-21) olarak geldiğinde. 
+Savaş daha sonra anlatılacaktır. Kısa bir şekilde {{% bible val="yedinci kasede" link="https://www.bibleserver.com/TR/Vahiy16%3A17-21" %}}, ama ayrıntılı olarak (fahişenin kaderi ve gelinin düğünü anlatıldıktan sonra), İsa {{% bible val="beyaz atlı" link="https://www.bibleserver.com/TR/Vahiy19%3A11-21" %}} olarak geldiğinde. 
 
-Ayrıca çok ironik bir şekilde "ordusunu" da toplar. Bu ordu, öldürülen ordudan ziyafet çekecek olan [akbabalardır](https://www.bibleserver.com/TR/Vahiy19%3A17-18). 
+Ayrıca çok ironik bir şekilde "ordusunu" da toplar. Bu ordu, öldürülen ordudan ziyafet çekecek olan {{% bible val="akbabalardır" link="https://www.bibleserver.com/TR/Vahiy19%3A17-18" %}}. 

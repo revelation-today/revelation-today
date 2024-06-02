@@ -41,9 +41,9 @@ Yazının geri kalanında bu üç türe, bunların ne anlama geldiğine ve kitab
 <a name="7e5a"></a>
 Mektup türü ile başlayalım. Kitabı bir mektup olarak yansıtan birçok yön vardır
 
-- Kutsal Kitap’taki diğer tüm mektuplar için bilinen [resmi giriş](https://www.bibleserver.com/TR/Vahiy1%3A4-6)
-- İncil’deki birçok mektupta kullanılan [resmi son](https://www.bibleserver.com/TR/Vahiy22%3A21)
-- Kitabın, [2.](https://www.bibleserver.com/TR/Vahiy2) ve [3. bölümlerde](https://www.bibleserver.com/TR/Vahiy3) başlayan ancak her yerde referanslar bulan [yedi kiliseye bir mektup](https://www.bibleserver.com/TR/Vahiy1%3A10-11) olarak tasarlanmış olması, örneğin belirli kiliselere verilen vaatlerin çoğunun cevaplarını [21. bölümde](https://www.bibleserver.com/TR/Vahiy21) bulması
+- Kutsal Kitap’taki diğer tüm mektuplar için bilinen {{% bible val="resmi giriş" link="https://www.bibleserver.com/TR/Vahiy1%3A4-6" %}}
+- İncil’deki birçok mektupta kullanılan {{% bible val="resmi son" link="https://www.bibleserver.com/TR/Vahiy22%3A21" %}}
+- Kitabın, {{% bible val="2." link="https://www.bibleserver.com/TR/Vahiy2" %}} ve {{% bible val="3. bölümlerde" link="https://www.bibleserver.com/TR/Vahiy3" %}} başlayan ancak her yerde referanslar bulan {{% bible val="yedi kiliseye bir mektup" link="https://www.bibleserver.com/TR/Vahiy1%3A10-11" %}} olarak tasarlanmış olması, örneğin belirli kiliselere verilen vaatlerin çoğunun cevaplarını {{% bible val="21. bölümde" link="https://www.bibleserver.com/TR/Vahiy21" %}} bulması
 
 Ancak kitap [İncil’deki standart mektup formunu](https://catholic-resources.org/Bible/NT_Letters.htm) takip etmez. Bunun sebebi
 
@@ -69,14 +69,14 @@ Bu tamamen yanlış olmasa bile, Kutsal Kitap’taki peygamberlik kitapları sö
 Eski Ahit’teki peygamberlik edebiyatı Sina Dağı’ndaki antlaşmaya dayanıyordu. Orada Tanrı insanlara sadece uymaları gereken kuralların bir listesini vermedi, aynı zamanda bir zihniyet oluşturdu:
 
 - kanun önünde herkes eşi̇tti̇r
-- Daha önce köle olduğunuz gibi [çaresizlere merhamet edin](https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F20%3A2), [Tanrı çaresizleri korur](https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B110%3A18), örneğin [Lev.23/22](https://www.bibleserver.com/TR/Levililer23%3A22)
-- En önemli yasanın [Tanrı’yı ve komşunu sevmek](https://www.bibleserver.com/TR/Levililer19%3A18) olduğu [Yeni Ahit’te teyit edilmiş ve herkesin komşumuz olduğu açıklanmıştır](https://www.bibleserver.com/TR/Luka10%3A25-37)
+- Daha önce köle olduğunuz gibi {{% bible val="çaresizlere merhamet edin" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F20%3A2" %}}, {{% bible val="Tanrı çaresizleri korur" link="https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B110%3A18" %}}, örneğin {{% bible val="Lev.23/22" link="https://www.bibleserver.com/TR/Levililer23%3A22" %}}
+- En önemli yasanın {{% bible val="Tanrı’yı ve komşunu sevmek" link="https://www.bibleserver.com/TR/Levililer19%3A18" %}} olduğu {{% bible val="Yeni Ahit’te teyit edilmiş ve herkesin komşumuz olduğu açıklanmıştır" link="https://www.bibleserver.com/TR/Luka10%3A25-37" %}}
 
 Halk bunu takip etmediğinde peygamberler devreye girdi. Mesajın birkaç noktası vardı:
 
 - Tanrı size yasayı verdi ve bakın: onu çiğnediniz (çoğunlukla putların peşinden giderek yoksullara haksızlık ettiniz)
-- Bu nedenle Tanrı sizi [yasada açıklandığı](https://www.bibleserver.com/TR/Levililer26) gibi yargılayacaktır (gelecekteki yönü). Amaç, Tanrı’nın halkını eğitmektir (farklı varyantlarda [tekrarlanan terime](https://www.bibleserver.com/TR/Levililer26%3A21) bakın: eğer hala yapmadıysanız)
-- ama özellikle [öğrendiklerinde](https://www.bibleserver.com/TR/Levililer26%3A40-42) [onlara merhamet edecektir](https://www.bibleserver.com/TR/Levililer26%3A44).
+- Bu nedenle Tanrı sizi {{% bible val="yasada açıklandığı" link="https://www.bibleserver.com/TR/Levililer26" %}} gibi yargılayacaktır (gelecekteki yönü). Amaç, Tanrı’nın halkını eğitmektir (farklı varyantlarda {{% bible val="tekrarlanan terime" link="https://www.bibleserver.com/TR/Levililer26%3A21" %}} bakın: eğer hala yapmadıysanız)
+- ama özellikle {{% bible val="öğrendiklerinde" link="https://www.bibleserver.com/TR/Levililer26%3A40-42" %}} {{% bible val="onlara merhamet edecektir" link="https://www.bibleserver.com/TR/Levililer26%3A44" %}}.
 
 Yani peygamberlik mesajının ana yönü
 
@@ -89,20 +89,20 @@ Bu, bu mesajın tarihi durumla sınırlı olduğu ve kendimizi benzer bir durumd
 
 Vahiy pek çok peygamberlik öğesi kullanır
 
-- Eski Ahit’teki birçok peygamberlik kitabını başlatan bir unsurla [başlayarak](https://www.bibleserver.com/TR/Vahiy1%3A1-3)
-- [Isa.6'da](https://www.bibleserver.com/TR/Ye%C5%9Faya6) olduğu gibi [çağrı ile vizyona sahiptir](https://www.bibleserver.com/TR/Vahiy1%3A9-20)
+- Eski Ahit’teki birçok peygamberlik kitabını başlatan bir unsurla {{% bible val="başlayarak" link="https://www.bibleserver.com/TR/Vahiy1%3A1-3" %}}
+- {{% bible val="Isa.6'da" link="https://www.bibleserver.com/TR/Ye%C5%9Faya6" %}} olduğu gibi {{% bible val="çağrı ile vizyona sahiptir" link="https://www.bibleserver.com/TR/Vahiy1%3A9-20" %}}
 - Eski Ahit’teki Yeşaya, Yeremya, Daniel, Zekeriya, Hezekiel, … gibi birçok peygamberlik kitabından referanslar kullanır.
-- Kitap uyarıyor: Babil’den çıkın, [sevgi soğumasın](https://www.bibleserver.com/TR/Vahiy2%3A4), [yanlış öğretilere izin vermeyin](https://www.bibleserver.com/TR/Vahiy2%3A14-15), …
-- ve aynı zamanda rahatlatır: [Tanrı’nın halkı korunur](https://www.bibleserver.com/TR/Vahiy7%3A1-4), [kimse kaybolmaz,](https://www.bibleserver.com/TR/Vahiy7%3A5-8) [Tanrı’nın krallığı mutlaka gelecektir](https://www.bibleserver.com/TR/Vahiy21)
+- Kitap uyarıyor: Babil’den çıkın, {{% bible val="sevgi soğumasın" link="https://www.bibleserver.com/TR/Vahiy2%3A4" %}}, {{% bible val="yanlış öğretilere izin vermeyin" link="https://www.bibleserver.com/TR/Vahiy2%3A14-15" %}}, …
+- ve aynı zamanda rahatlatır: {{% bible val="Tanrı’nın halkı korunur" link="https://www.bibleserver.com/TR/Vahiy7%3A1-4" %}}, {{% bible val="kimse kaybolmaz," link="https://www.bibleserver.com/TR/Vahiy7%3A5-8" %}} {{% bible val="Tanrı’nın krallığı mutlaka gelecektir" link="https://www.bibleserver.com/TR/Vahiy21" %}}
 
 Bir kehanetin amacı davranışı değiştirmektir ve okuyucudan ya da dinleyiciden bir yanıt almak için genellikle duygusal sahneler kullanır.
 
-Eski Antlaşma’da görümler genellikle basit bir “ve gördüm” ifadesiyle tanıtılırken, bu [daha ayrıntılı bir şekilde yapıldığından](https://www.bibleserver.com/TR/Zekeriya1%3A7), Eski Antlaşma’daki standart peygamberlik değildir.
+Eski Antlaşma’da görümler genellikle basit bir “ve gördüm” ifadesiyle tanıtılırken, bu {{% bible val="daha ayrıntılı bir şekilde yapıldığından" link="https://www.bibleserver.com/TR/Zekeriya1%3A7" %}}, Eski Antlaşma’daki standart peygamberlik değildir.
 
 ## Bir kıyamet
 
 <a name="aacf"></a>
-Bu kitabın ilk kelimesi: “İsa Mesih’in Kıyameti”. Bu kelime kelime anlamıyla “vahiy” anlamına gelir, ancak doğrudan çeviri yanıltıcıdır çünkü bu uzak ya da yakın gelecekteki bir olayı anlatan gizli bir gelecek değildir. Ayrıca dünyanın sonuna değil, kötü yöneticilerin ve toplumun sonuna odaklanır. Apokaliptik metinleri sadece [Dan.7–12](https://www.bibleserver.com/TR/Daniel7); [Mk.13](https://www.bibleserver.com/TR/Markos13); [Mt.24](https://www.bibleserver.com/TR/Matta24) ve [Lk.21](https://www.bibleserver.com/TR/Luka21)'den biliyoruz ve bunları anlamakta da bazı zorluklar yaşıyoruz.
+Bu kitabın ilk kelimesi: “İsa Mesih’in Kıyameti”. Bu kelime kelime anlamıyla “vahiy” anlamına gelir, ancak doğrudan çeviri yanıltıcıdır çünkü bu uzak ya da yakın gelecekteki bir olayı anlatan gizli bir gelecek değildir. Ayrıca dünyanın sonuna değil, kötü yöneticilerin ve toplumun sonuna odaklanır. Apokaliptik metinleri sadece {{% bible val="Dan.7–12" link="https://www.bibleserver.com/TR/Daniel7" %}}; {{% bible val="Mk.13" link="https://www.bibleserver.com/TR/Markos13" %}}; {{% bible val="Mt.24" link="https://www.bibleserver.com/TR/Matta24" %}} ve {{% bible val="Lk.21" link="https://www.bibleserver.com/TR/Luka21" %}}'den biliyoruz ve bunları anlamakta da bazı zorluklar yaşıyoruz.
 
 Ama en baştan başlayalım: Kıyamet de diğerleri gibi bir türdür. Apokaliptik bir kitabın ne olduğuna dair tam bir tanım olmasa da, bize yardımcı olabilecek bazı hususlar vardır.
 

@@ -41,9 +41,9 @@ Im weiteren Verlauf dieses Artikels werde ich auf diese drei Gattungen eingehen,
 <a name="1792"></a>
 Beginnen wir mit dem Brief. Es gibt viele Aspekte, die Offenbarung den Charakter eines Briefes verleihen:
 
-- [die formale Einleitung](https://www.bibleserver.com/SLT/Offenbarung1%2C4-6), die in allen Briefen in der Bibel zu finden ist,
-- [der formale Schluss](https://www.bibleserver.com/SLT/Offenbarung22%2C21), der ebenfalls in den meisten Briefen der Bibel vorkommt,
-- die Tatsache, dass das Buch als [Brief an sieben Gemeinden](https://www.bibleserver.com/SLT/Offenbarung1%2C10-11) geschrieben ist, der in [Kapitel 2 und 3](https://www.bibleserver.com/SLT/Offenbarung2) beginnt, sich aber über das ganze Buch erstreckt, z.B. wird die Erfüllung der Verheißungen an die Gemeinden in [Kapitel 21](https://www.bibleserver.com/SLT/Offenbarung21) gegeben.
+- {{% bible val="die formale Einleitung" link="https://www.bibleserver.com/SLT/Offenbarung1%2C4-6" %}}, die in allen Briefen in der Bibel zu finden ist,
+- {{% bible val="der formale Schluss" link="https://www.bibleserver.com/SLT/Offenbarung22%2C21" %}}, der ebenfalls in den meisten Briefen der Bibel vorkommt,
+- die Tatsache, dass das Buch als {{% bible val="Brief an sieben Gemeinden" link="https://www.bibleserver.com/SLT/Offenbarung1%2C10-11" %}} geschrieben ist, der in {{% bible val="Kapitel 2 und 3" link="https://www.bibleserver.com/SLT/Offenbarung2" %}} beginnt, sich aber über das ganze Buch erstreckt, z.B. wird die Erfüllung der Verheißungen an die Gemeinden in {{% bible val="Kapitel 21" link="https://www.bibleserver.com/SLT/Offenbarung21" %}} gegeben.
 
 Das Buch folgt jedoch nicht der[ Standardform eines Briefes in der Bibel](https://catholic-resources.org/Bible/NT_Letters.htm). Das liegt daran, dass
 
@@ -69,14 +69,14 @@ Das ist nicht ganz falsch, aber der Schwerpunkt der prophetischen Bücher in der
 Die prophetische Literatur des Alten Testaments hat ihren Ursprung im Bund, den Gott mit Israel am Berg Sinai geschlossen hat. Gott gab nicht einfach eine Liste von Regeln, an die sich alle halten sollten, sondern er formte eine neue Mentalität:
 
 - Alle sind vor dem Gesetz gleich.
-- Habt Mitleid mit dem Hilflosen, denn [ihr seid auch Sklaven gewesen](https://www.bibleserver.com/SLT/2.Mose20%2C2), [denn Gott schützt die Schwachen](https://www.bibleserver.com/SLT/5.Mose10%2C18), wie es [selbst bei dem Festen gefordert ist](https://www.bibleserver.com/SLT/3.Mose23%2C22).
-- Das wichtigste Gebot ist [die Liebe zu Gott und zum Nächsten](https://www.bibleserver.com/SLT/3.Mose19%2C18), was auch im [Neuen Testament mit der Aussage bestätigt wird, dass jeder unser Nächster ist](https://www.bibleserver.com/SLT/3.Mose19%2C18).
+- Habt Mitleid mit dem Hilflosen, denn {{% bible val="ihr seid auch Sklaven gewesen" link="https://www.bibleserver.com/SLT/2.Mose20%2C2" %}}, {{% bible val="denn Gott schützt die Schwachen" link="https://www.bibleserver.com/SLT/5.Mose10%2C18" %}}, wie es {{% bible val="selbst bei dem Festen gefordert ist" link="https://www.bibleserver.com/SLT/3.Mose23%2C22" %}}.
+- Das wichtigste Gebot ist {{% bible val="die Liebe zu Gott und zum Nächsten" link="https://www.bibleserver.com/SLT/3.Mose19%2C18" %}}, was auch im {{% bible val="Neuen Testament mit der Aussage bestätigt wird, dass jeder unser Nächster ist" link="https://www.bibleserver.com/SLT/3.Mose19%2C18" %}}.
 
 Die Propheten traten auf, wenn die Menschen das Gesetz und die Mentalität, die ihm zugrunde lag, missachteten. Ihre Botschaft lautete in etwa wie folgt:
 
 - Gott hat euch das Gesetz gegeben, aber seht, ihr habt es gebrochen (oft, weil ihr den Götzen gefolgt seid, was Ungerechtigkeit gegenüber den Armen zur Folge hatte).
-- Darum WIRD Gott euch richten (Zukunft), wie es [schon im Gesetz angekündigt ](https://www.bibleserver.com/SLT/3.Mose26)ist. Die Absicht war, das Volk zu erziehen (das sieht man an der [Wiederholung: “Wenn ihr immer noch nicht”](https://www.bibleserver.com/SLT/3.Mose26))
-- Aber [er WIRD Gnade haben](https://www.bibleserver.com/SLT/3.Mose26%2C44), besonders, wenn [sie daraus lernen](https://www.bibleserver.com/SLT/3.Mose26%2C44).
+- Darum WIRD Gott euch richten (Zukunft), wie es {{% bible val="schon im Gesetz angekündigt " link="https://www.bibleserver.com/SLT/3.Mose26" %}}ist. Die Absicht war, das Volk zu erziehen (das sieht man an der {{% bible val="Wiederholung: “Wenn ihr immer noch nicht”" link="https://www.bibleserver.com/SLT/3.Mose26" %}})
+- Aber {{% bible val="er WIRD Gnade haben" link="https://www.bibleserver.com/SLT/3.Mose26%2C44" %}}, besonders, wenn {{% bible val="sie daraus lernen" link="https://www.bibleserver.com/SLT/3.Mose26%2C44" %}}.
 
 Demzufolge ist das Anliegen einer Prophetie
 
@@ -89,20 +89,20 @@ Das heißt aber nicht, dass es auf eine bestimmte historische Situation beschrä
 
 Die Offenbarung verwendet verschiedene Elemente einer Prophetie:
 
-- [Sie beginnt](https://www.bibleserver.com/SLT/3.Mose26%2C44) ähnlich wie andere prophetische Bücher des Alten Testaments.
-- Sie hat [Visionen mit einer Berufung](https://www.bibleserver.com/SLT/3.Mose26%2C44) wie auch [Jesaja](https://www.bibleserver.com/SLT/Jesaja6).
+- {{% bible val="Sie beginnt" link="https://www.bibleserver.com/SLT/3.Mose26%2C44" %}} ähnlich wie andere prophetische Bücher des Alten Testaments.
+- Sie hat {{% bible val="Visionen mit einer Berufung" link="https://www.bibleserver.com/SLT/3.Mose26%2C44" %}} wie auch {{% bible val="Jesaja" link="https://www.bibleserver.com/SLT/Jesaja6" %}}.
 - Sie nimmt Bezug auf viele prophetische Bücher des Alten Testaments wie Jesaja, Jeremia, Daniel, Sachaja, Ezechiel, …
-- Das Buch mahnt: Ziehz aus Babel aus, [lasst die Liebe nicht erkalten](https://www.bibleserver.com/SLT/Jesaja6), [erlaubt keine falsche Lehre](https://www.bibleserver.com/SLT/Offenbarung2%2C14-15), …
-- Es spricht aus Trost aus: [Gottes Volk ist geschützt](https://www.bibleserver.com/SLT/Offenbarung2%2C14-15), [niemand geht verloren](https://www.bibleserver.com/SLT/Offenbarung7%2C5-8), [Gottes Reich wird definitiv kommen](https://www.bibleserver.com/SLT/Offenbarung21).
+- Das Buch mahnt: Ziehz aus Babel aus, {{% bible val="lasst die Liebe nicht erkalten" link="https://www.bibleserver.com/SLT/Jesaja6" %}}, {{% bible val="erlaubt keine falsche Lehre" link="https://www.bibleserver.com/SLT/Offenbarung2%2C14-15" %}}, …
+- Es spricht aus Trost aus: {{% bible val="Gottes Volk ist geschützt" link="https://www.bibleserver.com/SLT/Offenbarung2%2C14-15" %}}, {{% bible val="niemand geht verloren" link="https://www.bibleserver.com/SLT/Offenbarung7%2C5-8" %}}, {{% bible val="Gottes Reich wird definitiv kommen" link="https://www.bibleserver.com/SLT/Offenbarung21" %}}.
 
 Das Ziel der Prophetie ist es, das Verhalten zu ändern, oft mit einer emotionalen Szene, um eine Reaktion des Lesers zu provozieren.
 
-Es handelt sich nicht um eine typische Prophezeiung des Alten Testaments, da eine Vision oft nur mit einem einfachen “und ich sah” angekündigt wird und nicht so detailliert wie [an anderen Stellen](https://www.bibleserver.com/SLT/Sacharja1%2C7) des Alten Testaments.
+Es handelt sich nicht um eine typische Prophezeiung des Alten Testaments, da eine Vision oft nur mit einem einfachen “und ich sah” angekündigt wird und nicht so detailliert wie {{% bible val="an anderen Stellen" link="https://www.bibleserver.com/SLT/Sacharja1%2C7" %}} des Alten Testaments.
 
 ## Eine Apokalypse
 
 <a name="1b13"></a>
-Das sind die ersten Worte des Buches: “Apokalypse von Jesus Christus”. Das Wort bedeutet wörtlich “Offenbarung”, wird aber leicht missverstanden, weil es Geheimnisse über die Zukunft suggeriert. In einer Apokalypse geht es aber nicht um das Ende der Welt. Wir kennen in der Bibel einige apokalyptische Texte: [Dan.7–12](https://www.bibleserver.com/SLT/Daniel7); [Mk.13](https://www.bibleserver.com/SLT/Markus13); [Mt.24](https://www.bibleserver.com/SLT/Matth%C3%A4us24) und [Lk.21](https://www.bibleserver.com/SLT/Lukas21), und wir haben schon mit diesen Texten unsere Schwierigkeiten.
+Das sind die ersten Worte des Buches: “Apokalypse von Jesus Christus”. Das Wort bedeutet wörtlich “Offenbarung”, wird aber leicht missverstanden, weil es Geheimnisse über die Zukunft suggeriert. In einer Apokalypse geht es aber nicht um das Ende der Welt. Wir kennen in der Bibel einige apokalyptische Texte: {{% bible val="Dan.7–12" link="https://www.bibleserver.com/SLT/Daniel7" %}}; {{% bible val="Mk.13" link="https://www.bibleserver.com/SLT/Markus13" %}}; {{% bible val="Mt.24" link="https://www.bibleserver.com/SLT/Matth%C3%A4us24" %}} und {{% bible val="Lk.21" link="https://www.bibleserver.com/SLT/Lukas21" %}}, und wir haben schon mit diesen Texten unsere Schwierigkeiten.
 
 Aber fangen wir am Anfang an: Die Apokalypse ist ein Genre wie jedes andere. Obwohl es keine endgültige Definition gibt, was genau ein apokalyptisches Buch ist, gibt es einige Gesichtspunkte, die uns helfen können.
 

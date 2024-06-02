@@ -16,25 +16,25 @@ Daniel kitabı pek çok ahir zaman yorumunun kaynağı gibi görünmektedir. Tü
 ## Dört Krallık
 
 <a name="b8b5"></a>
-Daniel’deki 2. ve 7. bölümler bize dört farklı imparatorluğa bir bakış sunar. [2. bölüm bir heykel görümünü kullanırken](https://www.bibleserver.com/TR/Daniel2), [7. bölüm onları canavar olarak tanımlar](https://www.bibleserver.com/TR/Daniel7).
+Daniel’deki 2. ve 7. bölümler bize dört farklı imparatorluğa bir bakış sunar. {{% bible val="2. bölüm bir heykel görümünü kullanırken" link="https://www.bibleserver.com/TR/Daniel2" %}}, {{% bible val="7. bölüm onları canavar olarak tanımlar" link="https://www.bibleserver.com/TR/Daniel7" %}}.
 
 Her iki bölüm de onları ardışık olarak tanımlamaktadır (2. bölüm açıkça, 7. bölüm birbirlerini fethederek ve yer değiştirerek).
 
-Bölüm 2'ye baktığımızda, [ilk olarak Babil’i](https://www.bibleserver.com/TR/Daniel2%3A37-38) ele alarak bir başlangıç noktasına sahip oluruz. [Babil, Med/Pers imparatorluğu tarafından yıkılmıştır](https://www.bibleserver.com/TR/Daniel5%3A30). Bazı yorumcular Med ve Pers imparatorluklarını birbirini izleyen iki farklı imparatorluk olarak görürler, ancak bu tarihi yansıtmaz çünkü her iki imparatorluk da yıkılan Babil’den ÖNCE birleşmişlerdir.
+Bölüm 2'ye baktığımızda, {{% bible val="ilk olarak Babil’i" link="https://www.bibleserver.com/TR/Daniel2%3A37-38" %}} ele alarak bir başlangıç noktasına sahip oluruz. {{% bible val="Babil, Med/Pers imparatorluğu tarafından yıkılmıştır" link="https://www.bibleserver.com/TR/Daniel5%3A30" %}}. Bazı yorumcular Med ve Pers imparatorluklarını birbirini izleyen iki farklı imparatorluk olarak görürler, ancak bu tarihi yansıtmaz çünkü her iki imparatorluk da yıkılan Babil’den ÖNCE birleşmişlerdir.
 
-Üçüncüsü, [Med/Pers imparatorluğunu fetheden Büyük İskender yönetimindeki Yunan imparatorluğudur](https://www.bibleserver.com/TR/Daniel8%3A19-21). Bu imparatorluk Büyük İskender’in ölümünden sonra 4 imparatorluğa bölündü ve sonunda Roma imparatorluğu tarafından tüketildi.
+Üçüncüsü, {{% bible val="Med/Pers imparatorluğunu fetheden Büyük İskender yönetimindeki Yunan imparatorluğudur" link="https://www.bibleserver.com/TR/Daniel8%3A19-21" %}}. Bu imparatorluk Büyük İskender’in ölümünden sonra 4 imparatorluğa bölündü ve sonunda Roma imparatorluğu tarafından tüketildi.
 
 Yedinci bölüme baktığımızda da benzer bir tablo görürüz.
 
 Babil ile başlıyor:
 
-“[Denizden birbirinden farklı dört büyük yaratık çıktı. “Birinci yaratık aslana benziyordu, kartal kanatları vardı. Ben bakarken kanatları koparıldı, yaratık yerden kaldırıldı, insan gibi ayakları üzerine durduruldu. Ona bir insan yüreği verildi.](https://www.bibleserver.com/TR/Daniel7%3A3-4)”
+“{{% bible val="Denizden birbirinden farklı dört büyük yaratık çıktı. “Birinci yaratık aslana benziyordu, kartal kanatları vardı. Ben bakarken kanatları koparıldı, yaratık yerden kaldırıldı, insan gibi ayakları üzerine durduruldu. Ona bir insan yüreği verildi." link="https://www.bibleserver.com/TR/Daniel7%3A3-4" %}}”
 
-Babil, [heykel](https://en.wikipedia.org/wiki/Lion_of_Babylon) veya [portre](https://en.wikipedia.org/wiki/Lion_of_Babylon) olarak aslanla sembolize edilmiş ve muhtemelen Yeremya tarafından Edom’un yargılanmasını anlatan [aslan ve kartal](https://www.bibleserver.com/TR/Yeremya49%3A19-22) olarak atıfta bulunulmuştur.
+Babil, [heykel](https://en.wikipedia.org/wiki/Lion_of_Babylon) veya [portre](https://en.wikipedia.org/wiki/Lion_of_Babylon) olarak aslanla sembolize edilmiş ve muhtemelen Yeremya tarafından Edom’un yargılanmasını anlatan {{% bible val="aslan ve kartal" link="https://www.bibleserver.com/TR/Yeremya49%3A19-22" %}} olarak atıfta bulunulmuştur.
 
 Sırada Persler var:
 
-“[İkinci yaratık ayıya benziyordu. Bir yanı üzerinde doğrulmuştu. Ağzında, dişleri arasında üç kaburga kemiği vardı. Ona, Haydi kalk, yiyebildiğin kadar et ye! dediler.’](https://www.bibleserver.com/TR/Daniel7%3A5)”
+“{{% bible val="İkinci yaratık ayıya benziyordu. Bir yanı üzerinde doğrulmuştu. Ağzında, dişleri arasında üç kaburga kemiği vardı. Ona, Haydi kalk, yiyebildiğin kadar et ye! dediler.’" link="https://www.bibleserver.com/TR/Daniel7%3A5" %}}”
 
 Bir tarafa yağan ayı, Med ve Perslerin ortaklığına atıfta bulunurken, daha sonra gelenler daha küçük olan ama sonunda liderliği ele geçirenlerdir.
 
@@ -42,24 +42,24 @@ Bir tarafa yağan ayı, Med ve Perslerin ortaklığına atıfta bulunurken, daha
 
 Yunanlı tarafından takip edildi:
 
-“[Sonra baktım, parsa benzer bir başka yaratık gördüm. Sırtında dört kuş kanadı vardı. Bu yaratığın dört başı vardı ve ona egemenlik verilmişti.](https://www.bibleserver.com/TR/Daniel7%3A6)”
+“{{% bible val="Sonra baktım, parsa benzer bir başka yaratık gördüm. Sırtında dört kuş kanadı vardı. Bu yaratığın dört başı vardı ve ona egemenlik verilmişti." link="https://www.bibleserver.com/TR/Daniel7%3A6" %}}”
 
 Leopar, krallığının yirmi yıldan kısa bir sürede Yunanistan’dan Hindistan’a kadar hızla genişlemesini çok iyi anlatmaktadır. Ölümünden sonra krallık, 4 başı temsil eden 4 halefe bölündü
 
 Sonunda Romalılar geliyor:
 
-“[Bundan sonraki gece görümlerimde korkunç, ürkütücü, çok güçlü dördüncü bir yaratık gördüm. Büyük demir dişleri vardı; yiyip parçalıyor, artakalanı ayakları altında çiğniyordu. Kendisinden önceki yaratıklara benzemiyordu. On boynuzu vardı.](https://www.bibleserver.com/TR/Daniel7%3A7)”
+“{{% bible val="Bundan sonraki gece görümlerimde korkunç, ürkütücü, çok güçlü dördüncü bir yaratık gördüm. Büyük demir dişleri vardı; yiyip parçalıyor, artakalanı ayakları altında çiğniyordu. Kendisinden önceki yaratıklara benzemiyordu. On boynuzu vardı." link="https://www.bibleserver.com/TR/Daniel7%3A7" %}}”
 
-Romalılar son Yunan imparatorluklarını fethettiler ve onlarla ilgili her şeyi teslim eden en büyük imparatorluk oldular. Demir aynı zamanda [bölüm 2'nin](https://www.bibleserver.com/TR/Daniel2%3A40) de [malzemesiydi](https://www.bibleserver.com/TR/Daniel2%3A40).
+Romalılar son Yunan imparatorluklarını fethettiler ve onlarla ilgili her şeyi teslim eden en büyük imparatorluk oldular. Demir aynı zamanda {{% bible val="bölüm 2'nin" link="https://www.bibleserver.com/TR/Daniel2%3A40" %}} de {{% bible val="malzemesiydi" link="https://www.bibleserver.com/TR/Daniel2%3A40" %}}.
 
 ## Krallıkların sonu
 
 <a name="bcbd"></a>
-Her iki bölümde de son tanrısal bir olayla açıklanır. 2. bölümde bu olay, “[insan eliyle kesilmemiş bir taş, demir ve kilden yapılmış ayakları üzerindeki surete çarptı ve onları parçaladı](https://www.bibleserver.com/TR/Daniel2%3A34)” ve “[surete çarpan taş büyük bir dağ oldu ve tüm dünyayı doldurdu](https://www.bibleserver.com/TR/Daniel2%3A35)” şeklinde anlatılır.
+Her iki bölümde de son tanrısal bir olayla açıklanır. 2. bölümde bu olay, “{{% bible val="insan eliyle kesilmemiş bir taş, demir ve kilden yapılmış ayakları üzerindeki surete çarptı ve onları parçaladı" link="https://www.bibleserver.com/TR/Daniel2%3A34" %}}” ve “{{% bible val="surete çarpan taş büyük bir dağ oldu ve tüm dünyayı doldurdu" link="https://www.bibleserver.com/TR/Daniel2%3A35" %}}” şeklinde anlatılır.
 
-Bu, [kilisenin temeli](https://www.bibleserver.com/TR/Efesliler2%3A19-22) olan [İsa Mesih’in](https://www.bibleserver.com/TR/1.Petrus2%3A4-8) [köşe taşı](https://www.bibleserver.com/TR/Ye%C5%9Faya28%3A16) olduğunu hatırlatır. O, “insan eliyle” üretilmemiştir ve kiliseye yönetme yetkisini veren dünyanın yöneticisi olmuştur.
+Bu, {{% bible val="kilisenin temeli" link="https://www.bibleserver.com/TR/Efesliler2%3A19-22" %}} olan {{% bible val="İsa Mesih’in" link="https://www.bibleserver.com/TR/1.Petrus2%3A4-8" %}} {{% bible val="köşe taşı" link="https://www.bibleserver.com/TR/Ye%C5%9Faya28%3A16" %}} olduğunu hatırlatır. O, “insan eliyle” üretilmemiştir ve kiliseye yönetme yetkisini veren dünyanın yöneticisi olmuştur.
 
-7. bölüme baktığımızda da bir müdahaleyle karşılaşırız: Günümüzdeki kadim olan ve [krallıkların üstesinden gelerek sonsuz](https://www.bibleserver.com/TR/Daniel7%3A9-12) bir [krallık kuracak ](https://www.bibleserver.com/TR/Daniel7%3A13-14)olan insanoğlu. İnsanoğlu kimdir? Daniel’in bağlamında, [insanoğlu olarak ](https://www.bibleserver.com/TR/Daniel7%3A14)bir [krallık alan İsrail’dir](https://www.bibleserver.com/TR/Daniel7%3A18), ancak bu, insanoğlu kendisi için kullandığı tek unvan [olduğu için gerçek İsrail olarak İsa’da yerine getirilmiştir](https://www.bibleserver.com/search/TR/insano%C4%9Flu).
+7. bölüme baktığımızda da bir müdahaleyle karşılaşırız: Günümüzdeki kadim olan ve {{% bible val="krallıkların üstesinden gelerek sonsuz" link="https://www.bibleserver.com/TR/Daniel7%3A9-12" %}} bir {{% bible val="krallık kuracak " link="https://www.bibleserver.com/TR/Daniel7%3A13-14" %}}olan insanoğlu. İnsanoğlu kimdir? Daniel’in bağlamında, {{% bible val="insanoğlu olarak " link="https://www.bibleserver.com/TR/Daniel7%3A14" %}}bir {{% bible val="krallık alan İsrail’dir" link="https://www.bibleserver.com/TR/Daniel7%3A18" %}}, ancak bu, insanoğlu kendisi için kullandığı tek unvan {{% bible val="olduğu için gerçek İsrail olarak İsa’da yerine getirilmiştir" link="https://www.bibleserver.com/search/TR/insano%C4%9Flu" %}}.
 
 ## Daha fazlası var
 
@@ -75,7 +75,7 @@ Bu konuda pek çok düşünce var, işte benim görüşüm (diğerlerinden ödü
 
 Hikaye İsa’nın dünyaya gelişiyle sona ermedi, ancak bu dünya tarihinde büyük bir değişim başlattı: Kilise artık dünyayı yönetiyor! Müjde’yi ibadet, dua, tanıklık ve dayanıklılıkla yayarak dünya değişiyor. Ama biz bundan ne kadar yararlanıyoruz? Yeni bir dünyadan ziyade, dünyanın haçlı seferleri, engizisyon, cehennem korkusuyla zorla din değiştirmelerle kaplandığını görüyoruz.
 
-Öte yandan, İsa’nın krallığı bu dünyadan olmadığı için hükümdarlığın değişimi o kadar da açık bir şekilde görülmez. İsa ve kilise dünyanın yönetimini devraldığında, [kendimize Tanrı’nın krallığında hüküm ](https://www.bibleserver.com/TR/Matta20%3A25-28)sürmenin ne anlama geldiğini sormamız gerekir.
+Öte yandan, İsa’nın krallığı bu dünyadan olmadığı için hükümdarlığın değişimi o kadar da açık bir şekilde görülmez. İsa ve kilise dünyanın yönetimini devraldığında, {{% bible val="kendimize Tanrı’nın krallığında hüküm " link="https://www.bibleserver.com/TR/Matta20%3A25-28" %}}sürmenin ne anlama geldiğini sormamız gerekir.
 
 Roma İmparatorluğu, İsrail üzerinde doğrudan egemenliği olan dört imparatorluğun sonuncusudur. İsa’yla yapılan yeni antlaşmadan sonra Tanrı’nın halkı tüm dünyaya yayılmıştır ve hepsini kapsayan bir imparatorluk yoktur.
 

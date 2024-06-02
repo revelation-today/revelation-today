@@ -7,7 +7,7 @@ next: /content/worship/story/story
 docType: story
 ---
 
-[Kapitel 2–3](https://www.bibleserver.com/SLT/Offenbarung2)
+{{% bible val="Kapitel 2–3" link="https://www.bibleserver.com/SLT/Offenbarung2" %}}
 
 <a name="83ff"></a>
 Schau dir jetzt die Gemeinden an. Wir beginnen mit Ephesus, der hart arbeitenden Gemeinde. Sie arbeiten, halten durch und halten die Lehre sauber, aber das Wichtigste fehlt: Die Liebe, der Grund, warum sie existiert. Diese Gemeinde hat kein Ziel und könnte auch verschwinden.

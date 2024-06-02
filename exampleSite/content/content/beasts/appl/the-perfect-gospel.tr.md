@@ -23,7 +23,7 @@ Bu bölüm yıkıma koşan iki canavar gibi görünüyor, ancak bu tüm kitaptak
 ## Bizim metnimiz
 
 <a name="023e"></a>
-Hızla ilerliyoruz ve [13. bölüme](https://www.bibleserver.com/TR/Vahiy13) ulaştık.
+Hızla ilerliyoruz ve {{% bible val="13. bölüme" link="https://www.bibleserver.com/TR/Vahiy13" %}} ulaştık.
 
 ## Şeytan’ın stratejisi
 

@@ -27,7 +27,7 @@ Trompetler birçok insana dünya çapında felaketler ve hatta askeri eylemlerle
 ## Bizim metnimiz
 
 <a name="5dfc"></a>
-Hızla ilerliyoruz ve [8](https://www.bibleserver.com/TR/Vahiy8). ve [9](https://www.bibleserver.com/TR/Vahiy9). bölümlere ulaştık.
+Hızla ilerliyoruz ve {{% bible val="8" link="https://www.bibleserver.com/TR/Vahiy8" %}}. ve {{% bible val="9" link="https://www.bibleserver.com/TR/Vahiy9" %}}. bölümlere ulaştık.
 
 ## Ne için dua etmeli
 

@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-[Kapitel 6](https://www.bibleserver.com/SLT/Offenbarung6)
+{{% bible val="Kapitel 6" link="https://www.bibleserver.com/SLT/Offenbarung6" %}}
 
 ## Die vier apokalyptischen Reiter
 
@@ -22,8 +22,8 @@ Sie sind in Anlehnung an die vier Plagen zusammengestellt, die Gott schickt: wil
 Satan hat nichts zu bieten als leere Versprechungen. Also tut er das Einzige, was er tun kann: Er ahmt Christus nach, aber er ist nun entlarvt.
 
 Dieses Bild der Dreifaltigkeit (hier ist der vierte apokalyptische Reiter nur eine Zusammenfassung der anderen drei) setzt sich im Buch fort:
-- In [Kapitel 13](https://www.bibleserver.com/SLT/Offenbarung13) sehen wir auch eine [Dreieinigkeit](/Inhalt/Bestien/schnell) mit den beiden Bestien und Satan als dem Drachen im Hintergrund
-- Auch [Kapitel 17](https://www.bibleserver.com/SLT/Offenbarung17) mit der [Hure und dem Tier](/content/harlot/quick) (erstes Tier von Kapitel 13) spiegelt dieses Thema wider. Hier ist Satan noch mehr verborgen.
+- In {{% bible val="Kapitel 13" link="https://www.bibleserver.com/SLT/Offenbarung13" %}} sehen wir auch eine [Dreieinigkeit](/Inhalt/Bestien/schnell) mit den beiden Bestien und Satan als dem Drachen im Hintergrund
+- Auch {{% bible val="Kapitel 17" link="https://www.bibleserver.com/SLT/Offenbarung17" %}} mit der [Hure und dem Tier](/content/harlot/quick) (erstes Tier von Kapitel 13) spiegelt dieses Thema wider. Hier ist Satan noch mehr verborgen.
 
 ![](/images/trinity_de.jpg)
 

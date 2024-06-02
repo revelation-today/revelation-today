@@ -16,11 +16,11 @@ What is heaven and hell? Do all people go to heaven? How can a good God send peo
 <a name="8183"></a>
 Heaven is usually understood as a place where people are happy and have a good life because they were good. Hell, on the other hand, is a place where people suffer and are tortured because they are evil. But this is not quite true.
 
-The book of Revelation describes heaven with different metaphors: In chapter [seven](https://www.bibleserver.com/NIV/Revelation7%3A9-17), you see the saints being comforted and in chapter [21](https://www.bibleserver.com/NIV/Revelation21), the New Jerusalem, describing heaven in a more extended way. Both of these descriptions have one main point: They are closely related to the fellowship with God.
+The book of Revelation describes heaven with different metaphors: In chapter {{% bible val="seven" link="https://www.bibleserver.com/NIV/Revelation7%3A9-17" %}}, you see the saints being comforted and in chapter {{% bible val="21" link="https://www.bibleserver.com/NIV/Revelation21" %}}, the New Jerusalem, describing heaven in a more extended way. Both of these descriptions have one main point: They are closely related to the fellowship with God.
 
-Furthermore the [New Jerusalem is described as the Bride of Christ](https://www.bibleserver.com/NIV/Revelation21%3A2) which gives even a more intimate aspect to the subject.
+Furthermore the {{% bible val="New Jerusalem is described as the Bride of Christ" link="https://www.bibleserver.com/NIV/Revelation21%3A2" %}} which gives even a more intimate aspect to the subject.
 
-In addition, the language in chapter 21 is very much related to the temple, [the place where Israel had fellowship with God](/bible/keyword/expl/the-temple-and-the-presence-of-god). The temple, on the other hand, is a reflection of Eden. Not only that, but the shape of the New Jerusalem is a [cube](https://www.bibleserver.com/NIV/Revelation21%3A16). The [only object in the Old Testament that has this shape is the Holy of Holies](https://www.bibleserver.com/NIV/2%20Chronicles3%3A8), the place where God lives. A place so intensely filled with God’s presence that only the high priest was allowed to enter this place once a year.
+In addition, the language in chapter 21 is very much related to the temple, [the place where Israel had fellowship with God](/bible/keyword/expl/the-temple-and-the-presence-of-god). The temple, on the other hand, is a reflection of Eden. Not only that, but the shape of the New Jerusalem is a {{% bible val="cube" link="https://www.bibleserver.com/NIV/Revelation21%3A16" %}}. The {{% bible val="only object in the Old Testament that has this shape is the Holy of Holies" link="https://www.bibleserver.com/NIV/2%20Chronicles3%3A8" %}}, the place where God lives. A place so intensely filled with God’s presence that only the high priest was allowed to enter this place once a year.
 
 So the New Jerusalem or Heaven is described as the place of most intimacy with God.
 

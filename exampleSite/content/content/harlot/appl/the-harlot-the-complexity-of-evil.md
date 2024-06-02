@@ -23,7 +23,7 @@ The harlot in Revelation is hard to grasp because it shows the complexity of the
 ## Our text
 
 <a name="e32c"></a>
-We are moving quickly forward and [chapter 17](https://www.bibleserver.com/NIV/Revelation17), [18](https://www.bibleserver.com/NIV/Revelation18) and [19](https://www.bibleserver.com/NIV/Revelation19).
+We are moving quickly forward and {{% bible val="chapter 17" link="https://www.bibleserver.com/NIV/Revelation17" %}}, {{% bible val="18" link="https://www.bibleserver.com/NIV/Revelation18" %}} and {{% bible val="19" link="https://www.bibleserver.com/NIV/Revelation19" %}}.
 
 ## Who is the harlot?
 
@@ -39,7 +39,7 @@ The harlot influenced the rulers of this world to bring prosperity (so be carefu
 ## The impact and judgment of the harlot
 
 <a name="c64e"></a>
-The harlot, even though she looks like the church from the outside, is a fierce enemy of the church and its witnesses and causes havoc. On closer inspection, the harlot is the cause of the [third seal](https://www.bibleserver.com/NIV/Revelation6%2C5-6): Hunger, based on economic injustice, but ensuring the availability of luxury goods and providing for the rich despite the suffering of the masses. People are considered materials like other resources.
+The harlot, even though she looks like the church from the outside, is a fierce enemy of the church and its witnesses and causes havoc. On closer inspection, the harlot is the cause of the {{% bible val="third seal" link="https://www.bibleserver.com/NIV/Revelation6%2C5-6" %}}: Hunger, based on economic injustice, but ensuring the availability of luxury goods and providing for the rich despite the suffering of the masses. People are considered materials like other resources.
 
 To be the perfect church (church that focuses on blessings and prosperity and not on uncomfortable witness and martyrdom) is also the destiny of the harlot: While the beast tries to attack the church, Jesus intervenes and instead of the church, the harlot is the target. The kings, as representatives of the beast, bring judgment on the harlot.
 

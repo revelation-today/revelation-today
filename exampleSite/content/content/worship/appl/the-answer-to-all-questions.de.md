@@ -19,7 +19,7 @@ Wie sollen die Gemeinden mit diesen Problemen umgehen? Was ist Gottes Plan? Die 
 ## Unser Text
 
 <a name="ba47"></a>
-Wir sind jetzt in [Kapitel 4](https://www.bibleserver.com/SLT/Offenbarung4).
+Wir sind jetzt in {{% bible val="Kapitel 4" link="https://www.bibleserver.com/SLT/Offenbarung4" %}}.
 
 ## Was ist Anbetung?
 

@@ -22,7 +22,7 @@ In der Offenbarung gibt es bei den Sendschreiben einen sich wiederholenden Satz:
 ## Unwahrscheinliche Deutungen
 
 <a name="e98c"></a>
-Könnte es sein, dass die Engel der Gemeinden Engel sind, die über die Gemeinden wachen? Das wäre etwas merkwürdig, wenn Jesus Johannes eine Botschaft gibt, die er an die Gemeinden schreibt, damit die Engel sie empfangen. Es wäre auch schwierig für[ die Engel, Verantwortung für das zu übernehmen, was bei einzelnen in den Gemeinden geschieht](https://www.bibleserver.com/SLT/Offenbarung2%2C24-25).
+Könnte es sein, dass die Engel der Gemeinden Engel sind, die über die Gemeinden wachen? Das wäre etwas merkwürdig, wenn Jesus Johannes eine Botschaft gibt, die er an die Gemeinden schreibt, damit die Engel sie empfangen. Es wäre auch schwierig für{{% bible val=" die Engel, Verantwortung für das zu übernehmen, was bei einzelnen in den Gemeinden geschieht" link="https://www.bibleserver.com/SLT/Offenbarung2%2C24-25" %}}.
 
 Oder könnte es sein, dass die Leiter der Gemeinden als Engel bezeichnet werden? Auch hier wäre es schwierig, sie für die Fehler einzelner verantwortlich zu machen.
 
@@ -31,10 +31,10 @@ Oder könnte es sein, dass die Leiter der Gemeinden als Engel bezeichnet werden?
 <a name="e9dd"></a>
 Der Text enthält einige interessante Details:
 
-- Am Anfang erhält Johannes den [Auftrag an die Gemeinden zu schreiben](https://www.bibleserver.com/SLT/Offenbarung1%2C11), nicht an Engel.
-- Jeder Brief beginnt mit “[Schreibe dem Engel der Gemeinde](https://www.bibleserver.com/SLT/Offenbarung2%2C1)”, endet aber mit “[was der Engel der Gemeinde sagt](https://www.bibleserver.com/SLT/Offenbarung2%2C7)”.
-- Die Engel werden wie die Gemeinden angesprochen: “[Bedenke, wovon du gefallen bist](https://www.bibleserver.com/SLT/Offenbarung2%2C5)”.
-- Im Griechischen wird ständig zwischen Einzahl und Mehrzahl gewechselt: “[Fürchte nichts von dem, was du erleiden wirst! Siehe, der Teufel wird etliche von euch ins Gefängnis werfen, damit ihr geprüft werdet, und ihr werdet Drangsal haben zehn Tage lang. Sei getreu bis in den Tod, so werde ich dir die Krone des Lebens geben](https://www.bibleserver.com/SLT/Offenbarung2%2C10)!”
+- Am Anfang erhält Johannes den {{% bible val="Auftrag an die Gemeinden zu schreiben" link="https://www.bibleserver.com/SLT/Offenbarung1%2C11" %}}, nicht an Engel.
+- Jeder Brief beginnt mit “{{% bible val="Schreibe dem Engel der Gemeinde" link="https://www.bibleserver.com/SLT/Offenbarung2%2C1" %}}”, endet aber mit “{{% bible val="was der Engel der Gemeinde sagt" link="https://www.bibleserver.com/SLT/Offenbarung2%2C7" %}}”.
+- Die Engel werden wie die Gemeinden angesprochen: “{{% bible val="Bedenke, wovon du gefallen bist" link="https://www.bibleserver.com/SLT/Offenbarung2%2C5" %}}”.
+- Im Griechischen wird ständig zwischen Einzahl und Mehrzahl gewechselt: “{{% bible val="Fürchte nichts von dem, was du erleiden wirst! Siehe, der Teufel wird etliche von euch ins Gefängnis werfen, damit ihr geprüft werdet, und ihr werdet Drangsal haben zehn Tage lang. Sei getreu bis in den Tod, so werde ich dir die Krone des Lebens geben" link="https://www.bibleserver.com/SLT/Offenbarung2%2C10" %}}!”
 - Die Engel werden ohne Artikel gebraucht, was in der jüdischen und frühchristlichen Literatur unüblich ist.
 - Die Engel werden nicht mehr erwähnt.
 
@@ -45,7 +45,7 @@ Könnte es sein, dass mit den Engeln die Gemeinden gemeint sind? Wir haben oben 
 
 Außerdem
 
-- In der hebräischen Literatur ist es üblich, eine Gruppe durch ein Individuum anzusprechen ([Tochter Jerusalem](https://www.bibleserver.com/SLT/Zefanja3%2C14), [die Stadt Tyrus](https://www.bibleserver.com/SLT/Hesekiel27), Hosea wechselt in den Kapiteln [9](https://www.bibleserver.com/SLT/Hosea9%2C1-6) und [14](https://www.bibleserver.com/SLT/Hosea14%2C1-3) von Einzahl zu Mehrzahl, [verschiedene Völker im Gericht](https://www.bibleserver.com/SLT/Zefanja2%2C1-5)).
+- In der hebräischen Literatur ist es üblich, eine Gruppe durch ein Individuum anzusprechen ({{% bible val="Tochter Jerusalem" link="https://www.bibleserver.com/SLT/Zefanja3%2C14" %}}, {{% bible val="die Stadt Tyrus" link="https://www.bibleserver.com/SLT/Hesekiel27" %}}, Hosea wechselt in den Kapiteln {{% bible val="9" link="https://www.bibleserver.com/SLT/Hosea9%2C1-6" %}} und {{% bible val="14" link="https://www.bibleserver.com/SLT/Hosea14%2C1-3" %}} von Einzahl zu Mehrzahl, {{% bible val="verschiedene Völker im Gericht" link="https://www.bibleserver.com/SLT/Zefanja2%2C1-5" %}}).
 - Briefe an Gemeinschaften sind in der Regel nicht an Einzelpersonen gerichtet.
 
 Warum aber sollten Gemeinden als Engel bezeichnet werden?

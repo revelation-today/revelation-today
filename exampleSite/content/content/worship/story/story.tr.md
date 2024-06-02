@@ -7,7 +7,7 @@ next: /content/seals/story/story
 docType: story
 ---
 
-[Bölüm 4–5](https://www.bibleserver.com/TR/Vahiy4)
+{{% bible val="Bölüm 4–5" link="https://www.bibleserver.com/TR/Vahiy4" %}}
 
 <a name="55b1"></a>
 Bu yüzden ayağa kalkmak ve yukarıya bakarak büyük maceraya hazır olmak size, bana ve tüm kiliseye düşüyor.

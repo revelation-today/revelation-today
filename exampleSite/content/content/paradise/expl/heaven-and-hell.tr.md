@@ -16,11 +16,11 @@ Cennet ve cehennem nedir? Bütün insanlar cennete gider mi? İyi bir Tanrı ins
 <a name="1d44"></a>
 Cennet çoğunlukla insanların iyi oldukları için mutlu oldukları ve iyi bir yaşam sürdükleri bir yer olarak anlaşılır. Diğer taraftaki cehennem ise insanların kötü oldukları için acı çektikleri ve işkence gördükleri bir yerdir. Ancak bu tamamen doğru değildir.
 
-Vahiy cenneti farklı metaforlarla anlatır: [Yedinci bölümde](https://www.bibleserver.com/TR/Vahiy7%3A9-17) azizlerin nasıl teselli edildiğini ve [21. bölümde](https://www.bibleserver.com/TR/Vahiy21) Yeni Yeruşalim’in cenneti daha geniş bir şekilde tanımladığını görürsünüz. Bu tasvirlerin her ikisinin de ana bir noktası vardır: Tanrı’yla paydaşlığa sıkı sıkıya bağlıdırlar.
+Vahiy cenneti farklı metaforlarla anlatır: {{% bible val="Yedinci bölümde" link="https://www.bibleserver.com/TR/Vahiy7%3A9-17" %}} azizlerin nasıl teselli edildiğini ve {{% bible val="21. bölümde" link="https://www.bibleserver.com/TR/Vahiy21" %}} Yeni Yeruşalim’in cenneti daha geniş bir şekilde tanımladığını görürsünüz. Bu tasvirlerin her ikisinin de ana bir noktası vardır: Tanrı’yla paydaşlığa sıkı sıkıya bağlıdırlar.
 
-[Ayrıca Yeni Yeruşalim Mesih’in Gelini olarak tanımlanarak](https://www.bibleserver.com/TR/Vahiy21%3A2) konuya daha da samimi bir boyut kazandırılmıştır.
+{{% bible val="Ayrıca Yeni Yeruşalim Mesih’in Gelini olarak tanımlanarak" link="https://www.bibleserver.com/TR/Vahiy21%3A2" %}} konuya daha da samimi bir boyut kazandırılmıştır.
 
-Ayrıca 21. bölümdeki dil, [İsrail’in Tanrı’yla paydaşlık ettiği yer olan tapınakla çok ilgilidir](/bible/keyword/expl/the-temple-and-the-presence-of-god). Öte yandan tapınak Aden’in bir yansımasıdır. Sadece bu da değil, Yeni Yeruşalim’in şekli [bir küp](https://www.bibleserver.com/TR/Vahiy21%3A16) şeklindedir. [Eski Ahit’te bu şekle sahip olan tek nesne, Tanrı’nın yaşadığı yer olan Kutsalların Kutsalı’dır](https://www.bibleserver.com/TR/2.Tarihler3%3A8). Tanrı’nın varlığıyla öylesine yoğun bir şekilde dolu olan bu yere yılda bir kez sadece Baş Kâhin’in girmesine izin verilirdi.
+Ayrıca 21. bölümdeki dil, [İsrail’in Tanrı’yla paydaşlık ettiği yer olan tapınakla çok ilgilidir](/bible/keyword/expl/the-temple-and-the-presence-of-god). Öte yandan tapınak Aden’in bir yansımasıdır. Sadece bu da değil, Yeni Yeruşalim’in şekli {{% bible val="bir küp" link="https://www.bibleserver.com/TR/Vahiy21%3A16" %}} şeklindedir. {{% bible val="Eski Ahit’te bu şekle sahip olan tek nesne, Tanrı’nın yaşadığı yer olan Kutsalların Kutsalı’dır" link="https://www.bibleserver.com/TR/2.Tarihler3%3A8" %}}. Tanrı’nın varlığıyla öylesine yoğun bir şekilde dolu olan bu yere yılda bir kez sadece Baş Kâhin’in girmesine izin verilirdi.
 
 Bu yüzden Yeni Yeruşalim ya da cennet Tanrı’yla en yakın olunan yer olarak tanımlanır.
 

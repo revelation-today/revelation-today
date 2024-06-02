@@ -23,7 +23,7 @@ This chapter looks like two monsters doing destruction, but this is one of the d
 ## Our text
 
 <a name="3f52"></a>
-We are moving quickly forward and reached [chapter 13](https://www.bibleserver.com/NIV/Revelation13).
+We are moving quickly forward and reached {{% bible val="chapter 13" link="https://www.bibleserver.com/NIV/Revelation13" %}}.
 
 ## Satan’s strategy
 

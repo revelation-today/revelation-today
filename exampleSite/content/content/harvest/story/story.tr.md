@@ -7,7 +7,7 @@ next: /content/harlot/story/story
 docType: story
 ---
 
-[Bölüm 14–16](https://www.bibleserver.com/TR/Vahiy14)
+{{% bible val="Bölüm 14–16" link="https://www.bibleserver.com/TR/Vahiy14" %}}
 
 <a name="37a3"></a>
 İsa’nın çarmıhtaki zaferi ve kilisenin tanıklığı her şeyi yaptı ve düşman etrafa dağıldı. İmanlılar zafer şarkıları söylerler — onların tek becerisi Tanrı’ya sadakatti.

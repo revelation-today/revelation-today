@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-[Bölüm 8](https://www.bibleserver.com/TR/Vahiy8) ve [9](https://www.bibleserver.com/TR/Vahiy9).
+{{% bible val="Bölüm 8" link="https://www.bibleserver.com/TR/Vahiy8" %}} ve {{% bible val="9" link="https://www.bibleserver.com/TR/Vahiy9" %}}.
 
 ## Dua
 
@@ -33,6 +33,6 @@ Ama devam ediyor, şimdi şeytani varlık neden oluyor:
 
 Ancak tüm bu olanlardan sonra insanlar hala kalplerini değiştirmiyorlar. Umutlarını, refahlarını ve hatta yaşamlarını ellerinden alan aynı şeytanlara bile tutunuyorlar. Bu bir çıkmaz sokak gibi görünüyor. İnsanlar artık daha da içine kapanmıştır. Çözüm, Tanrı'nın gizeminin açıklandığı bir sonraki bölümdür. Ama önce kiliseye bir göz atalım.
 
-Kilise [beşinci borazandan](https://www.bibleserver.com/TR/Vahiy9%3A4-6) korunmuştur ([mühür tarafından](https://www.bibleserver.com/TR/Vahiy7%3A1-4)) - tüm sıkıntılara katlanırken ve hatta yaşamlarını kaybederken umutlarını kaybetmeyeceklerdir. Ancak aynı güvencelerin ve hatta hayatlarının kaybına katlanmak, insanların gerçek güvencelerin ne olduğunu görmelerini sağlamak için bunu harika bir tanıklık haline getirir.
+Kilise {{% bible val="beşinci borazandan" link="https://www.bibleserver.com/TR/Vahiy9%3A4-6" %}} korunmuştur ({{% bible val="mühür tarafından" link="https://www.bibleserver.com/TR/Vahiy7%3A1-4" %}}) - tüm sıkıntılara katlanırken ve hatta yaşamlarını kaybederken umutlarını kaybetmeyeceklerdir. Ancak aynı güvencelerin ve hatta hayatlarının kaybına katlanmak, insanların gerçek güvencelerin ne olduğunu görmelerini sağlamak için bunu harika bir tanıklık haline getirir.
 
 ![](/images/trumpets_tr.jpg)

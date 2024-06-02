@@ -8,7 +8,7 @@ next: /content/worship/quick
 docType: quick
 ---
 
-[Bölüm 2](https://www.bibleserver.com/NIV/Revelation2) ve [3](https://www.bibleserver.com/NIV/Revelation3).
+{{% bible val="Bölüm 2" link="https://www.bibleserver.com/NIV/Revelation2" %}} ve {{% bible val="3" link="https://www.bibleserver.com/NIV/Revelation3" %}}.
 
 Mektuplar kiliselerin vizyonda nasıl yaşadıklarını anlatır. Bu da İsa'nın kiliselere bakışını gösterir. Ve sonuç yıkıcıdır:
 - Sadece iki kilise övgü alır: Zulüm ve yoksulluk altında acı çeken Smyrna ve Philadelpia

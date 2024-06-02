@@ -17,16 +17,16 @@ Das Thema taucht aber schon in der Schöpfungsgeschichte auf und reicht bis in d
 ## Der Garten Eden als Ort der Gemeinschaft mit Gott
 
 <a name="f66f"></a>
-Es beginnt mit dem Garten Eden. Gott erschafft Mann und Frau und hat Gemeinschaft mit ihnen, indem er ihnen [einen Garten anlegt, den sie pflegen sollen](https://www.bibleserver.com/SLT/1.Mose2%2C8-15) und [in dem er sich mit ihnen trifft](https://www.bibleserver.com/SLT/1.Mose3%2C8-9). Doch durch den Sündenfall müssen beide den Garten verlassen. Der [Boden wurde verflucht](https://www.bibleserver.com/SLT/1.Mose3%2C17-19) und es wurde noch [schlimmer, als Kain Abel erschlug](https://www.bibleserver.com/SLT/1.Mose4%2C12).
+Es beginnt mit dem Garten Eden. Gott erschafft Mann und Frau und hat Gemeinschaft mit ihnen, indem er ihnen {{% bible val="einen Garten anlegt, den sie pflegen sollen" link="https://www.bibleserver.com/SLT/1.Mose2%2C8-15" %}} und {{% bible val="in dem er sich mit ihnen trifft" link="https://www.bibleserver.com/SLT/1.Mose3%2C8-9" %}}. Doch durch den Sündenfall müssen beide den Garten verlassen. Der {{% bible val="Boden wurde verflucht" link="https://www.bibleserver.com/SLT/1.Mose3%2C17-19" %}} und es wurde noch {{% bible val="schlimmer, als Kain Abel erschlug" link="https://www.bibleserver.com/SLT/1.Mose4%2C12" %}}.
 
-Es war hart für Kain, aber Gott entschloss sich, [ein Zeichen zu machen und ihn zu schützen](https://www.bibleserver.com/SLT/1.Mose4%2C13-15). Aber Kain suchte [seinen eigenen Schutz und baute eine Stadt](https://www.bibleserver.com/SLT/1.Mose4%2C16-17) und auch [seine Nachfolger suchten ihre Sicherheit in der Blüte ihrer Kultur und im Fortschritt](https://www.bibleserver.com/SLT/1.Mose4%2C16-17). Die Linie Kains endet mit [Lamech, der Gottes Schutz verspottet](https://www.bibleserver.com/SLT/1.Mose4%2C22-24).
+Es war hart für Kain, aber Gott entschloss sich, {{% bible val="ein Zeichen zu machen und ihn zu schützen" link="https://www.bibleserver.com/SLT/1.Mose4%2C13-15" %}}. Aber Kain suchte {{% bible val="seinen eigenen Schutz und baute eine Stadt" link="https://www.bibleserver.com/SLT/1.Mose4%2C16-17" %}} und auch {{% bible val="seine Nachfolger suchten ihre Sicherheit in der Blüte ihrer Kultur und im Fortschritt" link="https://www.bibleserver.com/SLT/1.Mose4%2C16-17" %}}. Die Linie Kains endet mit {{% bible val="Lamech, der Gottes Schutz verspottet" link="https://www.bibleserver.com/SLT/1.Mose4%2C22-24" %}}.
 
 ## Die Stadt als Zuflucht des Menschen
 
 <a name="9299"></a>
-Adam hat einen weiteren Sohn und [von da an suchen die Menschen wieder die Gemeinschaft mit Gott](https://www.bibleserver.com/SLT/1.Mose4%2C25-26). Aber die [Stadt ist immer noch ein wichtiges Element](https://www.bibleserver.com/SLT/1.Mose10%2C8-12), was in dem [Desaster von Babel endete](https://www.bibleserver.com/SLT/1.Mose11%2C1-9).
+Adam hat einen weiteren Sohn und {{% bible val="von da an suchen die Menschen wieder die Gemeinschaft mit Gott" link="https://www.bibleserver.com/SLT/1.Mose4%2C25-26" %}}. Aber die {{% bible val="Stadt ist immer noch ein wichtiges Element" link="https://www.bibleserver.com/SLT/1.Mose10%2C8-12" %}}, was in dem {{% bible val="Desaster von Babel endete" link="https://www.bibleserver.com/SLT/1.Mose11%2C1-9" %}}.
 
-Die Menschen wollten einen Namen für sich machen, aber [Gott erwählte Abraham und machte aus ihm einen Namen](https://www.bibleserver.com/SLT/1.Mose12%2C1-3), aus dem später Israel hervorging.
+Die Menschen wollten einen Namen für sich machen, aber {{% bible val="Gott erwählte Abraham und machte aus ihm einen Namen" link="https://www.bibleserver.com/SLT/1.Mose12%2C1-3" %}}, aus dem später Israel hervorging.
 
 ## Gott kommt in die Stadt
 
@@ -40,11 +40,11 @@ Der zentrale Teil war das Allerheiligste, das nur der Hohepriester einmal im Jah
 ## Gott hinterläßt die Verheißung, dass Stadt und Garten eins werden
 
 <a name="3f30"></a>
-Als Israel den Bund mit Gott brach, [verließ Gott den Tempel](https://www.bibleserver.com/SLT/Hesekiel10%2C18-19), aber später wird berichtet, dass [Gott wieder (durch das Osttor) in den Tempel zurückkehrt](https://www.bibleserver.com/SLT/Hesekiel43%2C1-2). In diesen Kapiteln wird ein neuer Aspekt eingeführt - das Bild des Gartens und der Stadt. Es ist die Geschichte des [Baches, der aus dem Altar (im Tempel) fließt und zu einem großen Strom wird, der überall Leben bring](https://www.bibleserver.com/SLT/Hesekiel47)t. Dies wird schließlich [im Neuen Jerusalem durch den Baum des Lebens in der Stadt erfüllt werden](https://www.bibleserver.com/SLT/Offenbarung22%2C1-5), aber bis dahin ist es noch ein langer Weg.
+Als Israel den Bund mit Gott brach, {{% bible val="verließ Gott den Tempel" link="https://www.bibleserver.com/SLT/Hesekiel10%2C18-19" %}}, aber später wird berichtet, dass {{% bible val="Gott wieder (durch das Osttor) in den Tempel zurückkehrt" link="https://www.bibleserver.com/SLT/Hesekiel43%2C1-2" %}}. In diesen Kapiteln wird ein neuer Aspekt eingeführt - das Bild des Gartens und der Stadt. Es ist die Geschichte des {{% bible val="Baches, der aus dem Altar (im Tempel) fließt und zu einem großen Strom wird, der überall Leben bring" link="https://www.bibleserver.com/SLT/Hesekiel47" %}}t. Dies wird schließlich {{% bible val="im Neuen Jerusalem durch den Baum des Lebens in der Stadt erfüllt werden" link="https://www.bibleserver.com/SLT/Offenbarung22%2C1-5" %}}, aber bis dahin ist es noch ein langer Weg.
 
 ## Der Tempel im Neuen Testament
 
 <a name="379d"></a>
-Im Neuen Testament ist [Jesus der Tempel](https://www.bibleserver.com/SLT/Johannes2%2C19-22). Als er starb, zerriss der Vorhang im Tempel vor dem Allerheiligsten, was zeigt, dass nun alle direkten Zugang zu Gott haben.
+Im Neuen Testament ist {{% bible val="Jesus der Tempel" link="https://www.bibleserver.com/SLT/Johannes2%2C19-22" %}}. Als er starb, zerriss der Vorhang im Tempel vor dem Allerheiligsten, was zeigt, dass nun alle direkten Zugang zu Gott haben.
 
-Als Jesus starb, [wurde die Gemeinde zum Tempel, denn die Gemeinde ist der Leib Christi](https://www.bibleserver.com/SLT/1.Korinther6%2C19). Und in der Offenbarung ist die Gemeinde die Braut Christi, die das Neue Jerusalem ist, in dem die Gemeinschaft zwischen Gott und Mensch ungestört ist.
+Als Jesus starb, {{% bible val="wurde die Gemeinde zum Tempel, denn die Gemeinde ist der Leib Christi" link="https://www.bibleserver.com/SLT/1.Korinther6%2C19" %}}. Und in der Offenbarung ist die Gemeinde die Braut Christi, die das Neue Jerusalem ist, in dem die Gemeinschaft zwischen Gott und Mensch ungestört ist.

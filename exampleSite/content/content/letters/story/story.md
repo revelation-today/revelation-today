@@ -7,7 +7,7 @@ next: /content/worship/story/story
 docType: story
 ---
 
-[Chapter 2–3](https://www.bibleserver.com/NIV/Revelation2)
+{{% bible val="Chapter 2–3" link="https://www.bibleserver.com/NIV/Revelation2" %}}
 
 <a name="83ff"></a>
 Look at the churches now. We start with Ephesus the hard working church. They work, endure and keep the teaching clean, but the main thing is missing: The love, the reason why they exists. This church has no purpose and could also disappear.

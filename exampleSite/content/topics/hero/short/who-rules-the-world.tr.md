@@ -10,7 +10,7 @@ Vahiy Kitabı bize dünyayı kimin yönettiğine dair çok karışık bir resim 
 ## Soru
 
 <a name="b314"></a>
-İsa çarmıhta öldüğünde, şeytan yenilmişti. Bize öyle söylendi. Ama görünüşe göre hiçbir şey değişmedi. [Daha da kötüye gittiğini söyleyebilirsiniz.](https://www.bibleserver.com/TR/Vahiy12%3A12)
+İsa çarmıhta öldüğünde, şeytan yenilmişti. Bize öyle söylendi. Ama görünüşe göre hiçbir şey değişmedi. {{% bible val="Daha da kötüye gittiğini söyleyebilirsiniz." link="https://www.bibleserver.com/TR/Vahiy12%3A12" %}}
 
 - İsa’nın öğretisi ulaşılamaz idealler gibi görünüyordu
 - kötü i̇mparatorluklar [kehanetlere](/bible/daniel/expl/the-four-kingdoms-in-daniel) rağmen hala dünyayi yöneti̇yor
@@ -26,9 +26,9 @@ Peki neler oluyor? Bir şeyler tamamen yanlış mı gitti? Daha iyi bakmamız ge
 
 Bu yüzden Yahudiler sözde Mesih’ten devrim gibi gözle görülür bir değişiklik yapmasını bekliyorlardı.
 
-Ancak İsa geldiğinde bu gerçekleşmemiştir. [Markos](https://www.bibleserver.com/TR/Markos10%3A29-30)’ta, [Luka](https://www.bibleserver.com/TR/Luka20%3A34-35)’da ya da [epistellerde](https://www.bibleserver.com/TR/Efesliler1%3A21) şimdiki (kötü) zaman ve gelecek (iyi) zaman hakkında daha fazla açıklama yapmıştır.
+Ancak İsa geldiğinde bu gerçekleşmemiştir. {{% bible val="Markos" link="https://www.bibleserver.com/TR/Markos10%3A29-30" %}}’ta, {{% bible val="Luka" link="https://www.bibleserver.com/TR/Luka20%3A34-35" %}}’da ya da {{% bible val="epistellerde" link="https://www.bibleserver.com/TR/Efesliler1%3A21" %}} şimdiki (kötü) zaman ve gelecek (iyi) zaman hakkında daha fazla açıklama yapmıştır.
 
-[Ancak gelecek çağın gücü zaten mevcuttur](https://www.bibleserver.com/TR/%C4%B0braniler6%3A5), [Kutsal Ruh’un verilmesiyle tanımlanmıştır](https://www.bibleserver.com/TR/2.Korintliler1%3A22) ve [Kutsal Ruh’ta yaşayarak işlemektedir](https://www.bibleserver.com/TR/Romal%C4%B1lar8%3A14-38). Bu [gelecek çağ gizlidir, sahibini ve bizi sefil gösterir](https://www.bibleserver.com/TR/2.Korintliler4%3A3-18).
+{{% bible val="Ancak gelecek çağın gücü zaten mevcuttur" link="https://www.bibleserver.com/TR/%C4%B0braniler6%3A5" %}}, {{% bible val="Kutsal Ruh’un verilmesiyle tanımlanmıştır" link="https://www.bibleserver.com/TR/2.Korintliler1%3A22" %}} ve {{% bible val="Kutsal Ruh’ta yaşayarak işlemektedir" link="https://www.bibleserver.com/TR/Romal%C4%B1lar8%3A14-38" %}}. Bu {{% bible val="gelecek çağ gizlidir, sahibini ve bizi sefil gösterir" link="https://www.bibleserver.com/TR/2.Korintliler4%3A3-18" %}}.
 
 Buna aşağıdaki şekilde bakabiliriz.
 
@@ -53,7 +53,7 @@ Gerilimi korumalıyız.
 ## Antrenman
 
 <a name="53e2"></a>
-Bu gerilim Vahiy kitabında imanlıların [krallar olarak](https://www.bibleserver.com/TR/Vahiy1%3A6) tanımlanmasına ve iki [tanığın nihai gücüne](/content/witnesses/expl/the-two-witnesses) paralel olarak anlatılırken, [diğer tarafta canavarların meydan okumadan hükmettiği ve hatta kiliseyi alt ettiği anlatılır](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
+Bu gerilim Vahiy kitabında imanlıların {{% bible val="krallar olarak" link="https://www.bibleserver.com/TR/Vahiy1%3A6" %}} tanımlanmasına ve iki [tanığın nihai gücüne](/content/witnesses/expl/the-two-witnesses) paralel olarak anlatılırken, [diğer tarafta canavarların meydan okumadan hükmettiği ve hatta kiliseyi alt ettiği anlatılır](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
 
 Kilit unsur, farklı şekilde yönetiyor olmalarıdır. Şeytan hayvanlarla birlikte zulümle, tanıklar ise tanıklıklarıyla ölüme kadar hükmederler.
 

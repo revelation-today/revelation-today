@@ -19,7 +19,7 @@ sources:
 
 Bu kilise çöküşün eşiğinde ve tüm bunlar Balam yüzünden mi? Aslında sorun o değil.
 
-[Pergamon’daki kilise](https://www.bibleserver.com/TR/Vahiy2%3A12-17)
+{{% bible val="Pergamon’daki kilise" link="https://www.bibleserver.com/TR/Vahiy2%3A12-17" %}}
 
 ## Tarihsel arka plan
 
@@ -33,11 +33,11 @@ Zeus, Athena, Dionysis ve Asklepios’u onurlandıran pek çok başka tapınak d
 ## İsa’nın görüşü
 
 <a name="fa05"></a>
-İsa bu kilisenin zor bir yaşamı olduğunu bilir ve onları [ayırmak için çok keskin bir kılıçla](https://www.bibleserver.com/TR/Vahiy2%3A12) yaklaşır.
+İsa bu kilisenin zor bir yaşamı olduğunu bilir ve onları {{% bible val="ayırmak için çok keskin bir kılıçla" link="https://www.bibleserver.com/TR/Vahiy2%3A12" %}} yaklaşır.
 
-İsa bu yeri şöyle adlandırır: “[Şeytan’ın yaşadığı ve tahtının bulunduğu yer](https://www.bibleserver.com/TR/Vahiy2%3A13)”. Muhtemelen bununla tüm tapınakları kastetmektedir. Ve kilise iyi iş çıkardı. Katlandılar ve onun adından vazgeçmediler — bu da orada yaşamanın ne kadar zor olduğunu gösterir — hatta şehitlik noktasına kadar. Durumları İzmir’le karşılaştırılabilir, hatta daha da kötüdür.
+İsa bu yeri şöyle adlandırır: “{{% bible val="Şeytan’ın yaşadığı ve tahtının bulunduğu yer" link="https://www.bibleserver.com/TR/Vahiy2%3A13" %}}”. Muhtemelen bununla tüm tapınakları kastetmektedir. Ve kilise iyi iş çıkardı. Katlandılar ve onun adından vazgeçmediler — bu da orada yaşamanın ne kadar zor olduğunu gösterir — hatta şehitlik noktasına kadar. Durumları İzmir’le karşılaştırılabilir, hatta daha da kötüdür.
 
-Ancak onları kıran bir şey vardır: [Balam ve Nikolaitler](https://www.bibleserver.com/TR/Vahiy2%3A14-15) mi yoksa başka bir sorun mu?
+Ancak onları kıran bir şey vardır: {{% bible val="Balam ve Nikolaitler" link="https://www.bibleserver.com/TR/Vahiy2%3A14-15" %}} mi yoksa başka bir sorun mu?
 
 ## Sorun
 
@@ -55,9 +55,9 @@ Her öğreti aynı zamanda yapılanları da etkilediği için, davranışları v
 
 İki anlamı olabilecek yeni bir isimle beyaz bir taş alacaklar:
 
-- [Mahkemede oy vermek için kullanılan](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri26%3A10) beyaz taş, suçlu olmayanlara (örneğin putlara adanmış yemeklere katılma suçlamasından) atıfta bulunur ve [Kuzu’nun düğün yemeğine katılmaların](https://www.bibleserver.com/TR/Vahiy19%3A9)ı sağlardı
+- {{% bible val="Mahkemede oy vermek için kullanılan" link="https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri26%3A10" %}} beyaz taş, suçlu olmayanlara (örneğin putlara adanmış yemeklere katılma suçlamasından) atıfta bulunur ve {{% bible val="Kuzu’nun düğün yemeğine katılmaların" link="https://www.bibleserver.com/TR/Vahiy19%3A9" %}}ı sağlardı
 - giriş izni olarak kullanılır (belki de Kuzu’nun düğün yemeğine)
 
-Yeni bir isim normalde [yeni bir kimlikle](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F17%3A5) ilişkilidir ve yeni ismi bilmek bu kişiler arasında yakın bir ilişkiye işaret eder.
+Yeni bir isim normalde {{% bible val="yeni bir kimlikle" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F17%3A5" %}} ilişkilidir ve yeni ismi bilmek bu kişiler arasında yakın bir ilişkiye işaret eder.
 
-Kilise isterse Tanrı yeni bir başlangıç sunar. [Ama istemezlerse, İsa onlara karşı savaşacaktır.](https://www.bibleserver.com/TR/Vahiy2%3A16)
+Kilise isterse Tanrı yeni bir başlangıç sunar. {{% bible val="Ama istemezlerse, İsa onlara karşı savaşacaktır." link="https://www.bibleserver.com/TR/Vahiy2%3A16" %}}

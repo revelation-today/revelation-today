@@ -14,7 +14,7 @@ sources:
       ref: fee_rev
 ---
 
-Das ist wohl der [bekannteste Brief an die Gemeinde](https://www.bibleserver.com/SLT/Offenbarung3%2C14-22) und wir alle kennen das Thema “lauwarm”. Aber verstehen wir wirklich den Zusammenhang? Vor allem, wenn es um eine Gemeinde geht, die kein Lob bekommt, nicht einmal ein kleines!
+Das ist wohl der {{% bible val="bekannteste Brief an die Gemeinde" link="https://www.bibleserver.com/SLT/Offenbarung3%2C14-22" %}} und wir alle kennen das Thema “lauwarm”. Aber verstehen wir wirklich den Zusammenhang? Vor allem, wenn es um eine Gemeinde geht, die kein Lob bekommt, nicht einmal ein kleines!
 
 ## Der historische Hintergrund
 
@@ -28,7 +28,7 @@ Laodicea lag an der Kreuzung mehrerer Handelsstraßen und war eine sehr reiche S
 ## Jesu Sicht
 
 <a name="ffea"></a>
-Jesus kommt als “treuer Zeuge” und “Amen”, weil Laodizea nicht echt ist. Ihr Hauptproblem ist die Selbstwahrnehmung. Sie denken, sie sind Gottes Geschenk an die Welt, aber in [Wirklichkeit versagen sie genau dort, wo sie sich kompetent fühlen](https://www.bibleserver.com/SLT/Offenbarung3%2C17).
+Jesus kommt als “treuer Zeuge” und “Amen”, weil Laodizea nicht echt ist. Ihr Hauptproblem ist die Selbstwahrnehmung. Sie denken, sie sind Gottes Geschenk an die Welt, aber in {{% bible val="Wirklichkeit versagen sie genau dort, wo sie sich kompetent fühlen" link="https://www.bibleserver.com/SLT/Offenbarung3%2C17" %}}.
 
 ## Das Problem
 
@@ -49,7 +49,7 @@ Es gibt viele Wege, eine effektive Gemeinde zu sein: Evangelisation, Gebet, Heil
 ## Die Lösung
 
 <a name="3ba4"></a>
-Jesus ruft sie aus ihrer Bequemlichkeit heraus und klopft an ihre Tür. Aber es ist kein Ruf zur Bekehrung, [sondern der Ruf des Geliebten zu seiner Geliebten](https://www.bibleserver.com/SLT/Hoheslied5%2C1-5).
+Jesus ruft sie aus ihrer Bequemlichkeit heraus und klopft an ihre Tür. Aber es ist kein Ruf zur Bekehrung, {{% bible val="sondern der Ruf des Geliebten zu seiner Geliebten" link="https://www.bibleserver.com/SLT/Hoheslied5%2C1-5" %}}.
 
 Und WENN SIE IHN HÖREN, SITZEN SIE MIT IHM auf dem Thron im Thronsaal.
 

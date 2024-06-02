@@ -23,9 +23,9 @@ This is a story you have heard in Sunday School, but there is much to discover t
 ## The start
 
 <a name="dfee"></a>
-Moses and Aaron come back and [share the good news with the Israelites and they believe him](https://www.bibleserver.com/NIV/Exodus4%3A29-31). But when they [take this to the Pharaoh he only increases the workload and Israel is no longer interested in deliverance](https://www.bibleserver.com/NIV/Exodus5).
+Moses and Aaron come back and {{% bible val="share the good news with the Israelites and they believe him" link="https://www.bibleserver.com/NIV/Exodus4%3A29-31" %}}. But when they {{% bible val="take this to the Pharaoh he only increases the workload and Israel is no longer interested in deliverance" link="https://www.bibleserver.com/NIV/Exodus5" %}}.
 
-The next station is [that Moses goes to the Pharaoh and performs his miracles, but Pharaoh is not impressed](https://www.bibleserver.com/NIV/Exodus7%3A8-13).
+The next station is {{% bible val="that Moses goes to the Pharaoh and performs his miracles, but Pharaoh is not impressed" link="https://www.bibleserver.com/NIV/Exodus7%3A8-13" %}}.
 
 Now after no one expects anything from Moses and Aaron anymore, God begins His work.
 
@@ -47,58 +47,58 @@ Wizardscan imitate plague 1 and 2,cannot imitate plague 3 and see the finger of 
 
 As the plagues continued, Pharaoh’s heart grew harder and Moses increased his demands.In plagues 1–3 no distinction is made between Israelites and Egyptians, but from plague 4 on they are distinguished.
 
-The plagues are directed against [the power of the Egypt and its gods](https://www.bibleserver.com/NIV/Exodus12%3A12), but not against the people, [who are even warned](https://www.bibleserver.com/NIV/Exodus9%3A18-21) and can always find refuge with the Israelites in Goshen.
+The plagues are directed against {{% bible val="the power of the Egypt and its gods" link="https://www.bibleserver.com/NIV/Exodus12%3A12" %}}, but not against the people, {{% bible val="who are even warned" link="https://www.bibleserver.com/NIV/Exodus9%3A18-21" %}} and can always find refuge with the Israelites in Goshen.
 
 The plagues are to show that God is the real one and that the Egyptians should seek refuge with Him along with the Israelites, which many did.
 
 ## The plagues in detail
 
-## [1, Water to blood](https://www.bibleserver.com/NIV/Exodus7%3A14-25)
+## {{% bible val="1, Water to blood" link="https://www.bibleserver.com/NIV/Exodus7%3A14-25" %}}
 
 The Nile turns to blood and all the water is unusable.
 
 The Nile is the lifeblood of Egypt. The flood of the Nile makes the fields fertile and the water is the source of life for the people.The god of the Nile is the father of all the gods in Egypt. But this time he looks like he has been slaughtered.
 
-## [2, Frogs](https://www.bibleserver.com/NIV/Exodus8%3A1-15)
+## {{% bible val="2, Frogs" link="https://www.bibleserver.com/NIV/Exodus8%3A1-15" %}}
 
 Frogs become a plague and the Pharaoh sees God behind it and asks Moses to stop it.
 
 The goddess Heqet, wife of the Nile god, is the goddess of birth (and rebirth). Since the Pharaoh was playing birth control on the Israelite children, God is declaring who is in charge of new life.
 
-## [3, Gnats](https://www.bibleserver.com/NIV/Exodus8%3A16-19)
+## {{% bible val="3, Gnats" link="https://www.bibleserver.com/NIV/Exodus8%3A16-19" %}}
 
 The wizards were unable to reproduce this action and see the finger or the god in it.
 
 According to a story from Egyptian mythology, there was a god who blinded another god (while he was approaching him unnoticed). The finger of God thus has the meaning of an ominous event whose origin cannot be determined. The wizard admits that God is stronger.
 
-## [4, Flies](https://www.bibleserver.com/NIV/Exodus8%3A20-32)
+## {{% bible val="4, Flies" link="https://www.bibleserver.com/NIV/Exodus8%3A20-32" %}}
 
-Maybe a better word is bugs and is a real issue for to the Egyptians. Now they are exposed and God makes a distinction between Israel and Egypt that [only the Pharaoh had made before](https://www.bibleserver.com/NIV/Exodus1%3A22).
+Maybe a better word is bugs and is a real issue for to the Egyptians. Now they are exposed and God makes a distinction between Israel and Egypt that {{% bible val="only the Pharaoh had made before" link="https://www.bibleserver.com/NIV/Exodus1%3A22" %}}.
 
-## [5, Livestock](https://www.bibleserver.com/NIV/Exodus9%3A1-7)
+## {{% bible val="5, Livestock" link="https://www.bibleserver.com/NIV/Exodus9%3A1-7" %}}
 
 The livestock affected by these plagues is key to many aspects of society:
 - Horses: needed for military
 - Donkey: for carrying loads
-- Camels: [for trade](https://www.bibleserver.com/NIV/Genesis37%3A25)
+- Camels: {{% bible val="for trade" link="https://www.bibleserver.com/NIV/Genesis37%3A25" %}}
 - Cattle, sheep, goats: important for daily work, food and clothing production
 
-## [6, Boils](https://www.bibleserver.com/NIV/Exodus9%3A8-12)
+## {{% bible val="6, Boils" link="https://www.bibleserver.com/NIV/Exodus9%3A8-12" %}}
 
 Moses and Aaron throw dust into the air, which turns into boils. The wizards cannot appear because they are unclean.Originally, throwing dust into the air is a rite of atonement performed by the sorcerer. Not only can the wizard no longer perform it, but the rite has been “demystified” as well.
 
-## [7, Hail](https://www.bibleserver.com/NIV/Exodus9%3A13-35)
+## {{% bible val="7, Hail" link="https://www.bibleserver.com/NIV/Exodus9%3A13-35" %}}
 
-This is where it gets serious and [God strikes with the full force that He announces](https://www.bibleserver.com/NIV/Exodus9%3A14). And God [warns the people to take shelter](https://www.bibleserver.com/NIV/Exodus9%3A20-21). The hail that comes is devastating and was the worst they had ever seen and no god protected them from it.Pharaoh [admits that he has sinned](https://www.bibleserver.com/NIV/Exodus9%3A27) (the [same word is used as when Pharaoh unknowingly took Abraham’s wife](https://biblehub.com/hebrew/2398.htm)) and [he has sinned again by hardening his heart](https://www.bibleserver.com/NIV/Exodus9%3A34).
+This is where it gets serious and {{% bible val="God strikes with the full force that He announces" link="https://www.bibleserver.com/NIV/Exodus9%3A14" %}}. And God {{% bible val="warns the people to take shelter" link="https://www.bibleserver.com/NIV/Exodus9%3A20-21" %}}. The hail that comes is devastating and was the worst they had ever seen and no god protected them from it.Pharaoh {{% bible val="admits that he has sinned" link="https://www.bibleserver.com/NIV/Exodus9%3A27" %}} (the [same word is used as when Pharaoh unknowingly took Abraham’s wife](https://biblehub.com/hebrew/2398.htm)) and {{% bible val="he has sinned again by hardening his heart" link="https://www.bibleserver.com/NIV/Exodus9%3A34" %}}.
 
-## [8, Locusts](https://www.bibleserver.com/NIV/Exodus10%3A1-20)
+## {{% bible val="8, Locusts" link="https://www.bibleserver.com/NIV/Exodus10%3A1-20" %}}
 
-The [locusts will come and destroy all that the hail has left](https://www.bibleserver.com/NIV/Exodus10%3A5). His [own officials beg the Pharaoh to do as Moses wishes](https://www.bibleserver.com/NIV/Exodus10%3A7). But Pharaoh still does not let the people go. As the [plagues continue, Pharaoh admits his sin](https://www.bibleserver.com/NIV/Exodus10%3A16-17).
+The {{% bible val="locusts will come and destroy all that the hail has left" link="https://www.bibleserver.com/NIV/Exodus10%3A5" %}}. His {{% bible val="own officials beg the Pharaoh to do as Moses wishes" link="https://www.bibleserver.com/NIV/Exodus10%3A7" %}}. But Pharaoh still does not let the people go. As the {{% bible val="plagues continue, Pharaoh admits his sin" link="https://www.bibleserver.com/NIV/Exodus10%3A16-17" %}}.
 
 The people were exposed to the hail, even there was a god who’s only job was to protect from locusts, and there are special locust amulets that should protect from such a plague.
-## [9, Darkness](https://www.bibleserver.com/NIV/Exodus10%3A21-29)
+## {{% bible val="9, Darkness" link="https://www.bibleserver.com/NIV/Exodus10%3A21-29" %}}
 
-The last of these is plagues was darkness. This was taken as a serious sign and in addition the life in Egypt stopped. Furthermore, Ra, the sun god, was a [very important god in Egypt](https://en.wikipedia.org/wiki/Ra#Worship). The Pharaoh does not admitting his sin this time, but [God strengthens his heart so much, that he threatens to kill Moses, Gods messenger, the next time he sees him](https://www.bibleserver.com/NIV/Exodus10%3A27-28).
+The last of these is plagues was darkness. This was taken as a serious sign and in addition the life in Egypt stopped. Furthermore, Ra, the sun god, was a [very important god in Egypt](https://en.wikipedia.org/wiki/Ra#Worship). The Pharaoh does not admitting his sin this time, but {{% bible val="God strengthens his heart so much, that he threatens to kill Moses, Gods messenger, the next time he sees him" link="https://www.bibleserver.com/NIV/Exodus10%3A27-28" %}}.
 
 ## The tenth plague
 
@@ -106,14 +106,14 @@ The tenth plague is delayed a little and is separate. It is the death of the fir
 
 ## The death of the firstborn
 
-To understand this, we need a little background. When God called Moses He [revealed Himself as a father and called Israel His Firstborn](https://www.bibleserver.com/NIV/Exodus4%3A22-23).
+To understand this, we need a little background. When God called Moses He {{% bible val="revealed Himself as a father and called Israel His Firstborn" link="https://www.bibleserver.com/NIV/Exodus4%3A22-23" %}}.
 
 When Pharaoh tries to kill Israel, God responds by killing of Egypt’s firstborn.
 
-But there is another aspect. The firstborn is the heir. If the Pharaoh dies, his firstborn will take over, but if the firstborn dies, who will take over? Also, the gods of Egypt are represented by animals (Horus the falcon, Heqed the frog, Hathor the cow), and [the death of the first-born animals was also a blow against the future of the Egyptian gods](https://www.bibleserver.com/NIV/Exodus12%3A12).
+But there is another aspect. The firstborn is the heir. If the Pharaoh dies, his firstborn will take over, but if the firstborn dies, who will take over? Also, the gods of Egypt are represented by animals (Horus the falcon, Heqed the frog, Hathor the cow), and {{% bible val="the death of the first-born animals was also a blow against the future of the Egyptian gods" link="https://www.bibleserver.com/NIV/Exodus12%3A12" %}}.
 
-Due [to Pharaoh’s “strong heart”](https://www.bibleserver.com/NIV/Exodus10%3A7) the people of Egypt [were already in favor of Moses](https://www.bibleserver.com/NIV/Exodus11%3A3) and the death of the first born in Egypt (showing that there was no future in Egypt) would help the Egyptians to move on with God [and many did](https://www.bibleserver.com/NIV/Exodus12%3A38).
+Due {{% bible val="to Pharaoh’s “strong heart”" link="https://www.bibleserver.com/NIV/Exodus10%3A7" %}} the people of Egypt {{% bible val="were already in favor of Moses" link="https://www.bibleserver.com/NIV/Exodus11%3A3" %}} and the death of the first born in Egypt (showing that there was no future in Egypt) would help the Egyptians to move on with God {{% bible val="and many did" link="https://www.bibleserver.com/NIV/Exodus12%3A38" %}}.
 
-Before this the[Passah is introduced](https://www.bibleserver.com/NIV/Exodus12%3A1-13) (protection from the tenth plague but also the origin of the Lord’s supper) which could be seen as the birth of Israel and [was open to anyone who wanted to join Israel](https://www.bibleserver.com/NIV/Exodus12%3A43-49).[The Feast of the Unleavened Bread is introduced](https://www.bibleserver.com/NIV/Exodus12%3A14-20) — there is n[o time to wait, but to hurry](https://www.bibleserver.com/NIV/Exodus12%3A12).
+Before this the{{% bible val="Passah is introduced" link="https://www.bibleserver.com/NIV/Exodus12%3A1-13" %}} (protection from the tenth plague but also the origin of the Lord’s supper) which could be seen as the birth of Israel and {{% bible val="was open to anyone who wanted to join Israel" link="https://www.bibleserver.com/NIV/Exodus12%3A43-49" %}}.{{% bible val="The Feast of the Unleavened Bread is introduced" link="https://www.bibleserver.com/NIV/Exodus12%3A14-20" %}} — there is n{{% bible val="o time to wait, but to hurry" link="https://www.bibleserver.com/NIV/Exodus12%3A12" %}}.
 
-The [sign on the hand and forehead](https://www.bibleserver.com/NIV/Exodus13%3A8-9) is mentioned — the people should have a reminder that God brought them out of Egypt, He is more powerful than the Egyptian gods and Israel should not forget this. So the sign is a sign of loyalty to God.
+The {{% bible val="sign on the hand and forehead" link="https://www.bibleserver.com/NIV/Exodus13%3A8-9" %}} is mentioned — the people should have a reminder that God brought them out of Egypt, He is more powerful than the Egyptian gods and Israel should not forget this. So the sign is a sign of loyalty to God.

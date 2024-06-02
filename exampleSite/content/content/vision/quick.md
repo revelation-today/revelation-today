@@ -8,7 +8,7 @@ next: /content/letters/quick
 docType: quick
 ---
 
-[Chapter 1](https://www.bibleserver.com/NIV/Revelation1).
+{{% bible val="Chapter 1" link="https://www.bibleserver.com/NIV/Revelation1" %}}.
 
 The time has arrived. The prophecy of Daniel is fulfilled and the church rules the world! What fantastic news. But the church needs to act now.
 

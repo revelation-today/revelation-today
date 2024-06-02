@@ -19,7 +19,7 @@ Kiliselerin tüm zorluklarına nasıl yanıt verilmelidir? Tanrı’nın uygulay
 ## Bizim metnimiz
 
 <a name="b23d"></a>
-Şu anda [4. bölümdeyiz](https://www.bibleserver.com/TR/Vahiy4).
+Şu anda {{% bible val="4. bölümdeyiz" link="https://www.bibleserver.com/TR/Vahiy4" %}}.
 
 ## İbadet nedir?
 

@@ -11,15 +11,15 @@ What do you think is Israel? Are these all the descendants of Abraham? Surely no
 ## The origin and purpose of Israel
 
 <a name="1bcd"></a>
-After the fall of man, humankind drifted more and more away from God. The flood did not change anything and finally the people [decided to make a name for themselves and wanted to build a tower in Babel that reaches the heaven](https://www.bibleserver.com/NIV/Genesis11%3A1-10). But God stopped this and [made a name out of Abraham](https://www.bibleserver.com/NIV/Genesis12%3A1-2) (at this time still called Abram). He made a [covenant](/background/israel/expl/gods-covenant) with him and [wanted that his descendant are a blessing to the whole world](https://www.bibleserver.com/NIV/Genesis12%3A3).
+After the fall of man, humankind drifted more and more away from God. The flood did not change anything and finally the people {{% bible val="decided to make a name for themselves and wanted to build a tower in Babel that reaches the heaven" link="https://www.bibleserver.com/NIV/Genesis11%3A1-10" %}}. But God stopped this and {{% bible val="made a name out of Abraham" link="https://www.bibleserver.com/NIV/Genesis12%3A1-2" %}} (at this time still called Abram). He made a [covenant](/background/israel/expl/gods-covenant) with him and {{% bible val="wanted that his descendant are a blessing to the whole world" link="https://www.bibleserver.com/NIV/Genesis12%3A3" %}}.
 
 Abraham become a big family and they moved over to Egypt due to a famine. After a long time there, they became a big people and were enslaved. God showed with the [10 plagues](/bible/exodus/expl/the-plagues-in-egypt) that he takes are for his better, far better than the Egyptian Gods or their kingdom can.
 
-In the story of the Pessah (just before the last plague) God gives rules that show his intention with Israel. [Everybody who wants to live permanently there and be part of the covenant becomes Israel](https://www.bibleserver.com/NIV/Exodus12%3A48-49) — because covenant means to become part of a family. God wanted that Israel will include all nations so that all are brought back in relationship with God. And this happened, [a lot of others joined Israel when they leave Egypt](https://www.bibleserver.com/NIV/Exodus12%3A38).
+In the story of the Pessah (just before the last plague) God gives rules that show his intention with Israel. {{% bible val="Everybody who wants to live permanently there and be part of the covenant becomes Israel" link="https://www.bibleserver.com/NIV/Exodus12%3A48-49" %}} — because covenant means to become part of a family. God wanted that Israel will include all nations so that all are brought back in relationship with God. And this happened, {{% bible val="a lot of others joined Israel when they leave Egypt" link="https://www.bibleserver.com/NIV/Exodus12%3A38" %}}.
 
 And God made a new covenant with these people at Sinai as a covenant which became the constitution for the new nation “Israel”.
 
-More people joined like [Rahab](https://www.bibleserver.com/NIV/Joshua2), [Ruth vs. Orpah](https://www.bibleserver.com/NIV/Ruth1), [Uriah](https://www.bibleserver.com/NIV/2%20Samuel11%3A3) and many others. [But this did not reach so far](https://www.bibleserver.com/NIV/Matthew23%3A15).
+More people joined like {{% bible val="Rahab" link="https://www.bibleserver.com/NIV/Joshua2" %}}, {{% bible val="Ruth vs. Orpah" link="https://www.bibleserver.com/NIV/Ruth1" %}}, {{% bible val="Uriah" link="https://www.bibleserver.com/NIV/2%20Samuel11%3A3" %}} and many others. {{% bible val="But this did not reach so far" link="https://www.bibleserver.com/NIV/Matthew23%3A15" %}}.
 
 ## Israel fails the covenant
 
@@ -33,11 +33,11 @@ But this did not happen. The conclusion was that Israel was still in the exile t
 <a name="a1e0"></a>
 When Jesus came the first time he claimed in [his words and actions that the Day of the Lord has come](/background/israel/expl/jesus-and-the-covenant), and the gospels are written reflecting the “[Second Exodus](/background/israel/expl/the-second-exodus)”.
 
-With this he also redefined Israel. He called himself “[Son of Man](/bible/daniel/expl/the-son-of-man-and-the-remnant)” and made himself the remnant of Israel and he started a [new covenant starting with Israel that was willing](https://www.bibleserver.com/NIV/Matthew15%3A24) to join including all the Gentiles.
+With this he also redefined Israel. He called himself “[Son of Man](/bible/daniel/expl/the-son-of-man-and-the-remnant)” and made himself the remnant of Israel and he started a {{% bible val="new covenant starting with Israel that was willing" link="https://www.bibleserver.com/NIV/Matthew15%3A24" %}} to join including all the Gentiles.
 
 But the [Day of the Lord has only partially arrived, so we are living in a time in between](/background/israel/expl/jesus-and-the-covenant#e3c4), where the kingdom of God is there, but not fully yet.
 
 [The Gentiles are now a part of Israel and there is no distinction how Israel was treated in the Old Testament and how the church with Israel together in the New Testament.](/background/israel/expl/the-church-is-part-of-israel)
 
-[The church did not replace Israel but Israel fulfilled its mission reaching the Gentiles in the church](https://www.bibleserver.com/NIV/Romans9).
+{{% bible val="The church did not replace Israel but Israel fulfilled its mission reaching the Gentiles in the church" link="https://www.bibleserver.com/NIV/Romans9" %}}.
 

@@ -9,7 +9,7 @@ next: /content/paradise/quick
 docType: quick
 ---
 
-[Chapter 20](https://www.bibleserver.com/NIV/Revelation20)
+{{% bible val="Chapter 20" link="https://www.bibleserver.com/NIV/Revelation20" %}}
 
 ## Overview
 
@@ -31,10 +31,10 @@ Even the church acts in weakness, the church rules.
 
 ## Special questions
 
-Neden [başı kesilmiş](https://www.bibleserver.com/NIV/Revelation20%3A4) ifadesine yer verilmiştir? 
+Neden {{% bible val="başı kesilmiş" link="https://www.bibleserver.com/NIV/Revelation20%3A4" %}} ifadesine yer verilmiştir? 
 
 The death sentence in this time means that people are basically turtured to death over a long time. The privilege of a quick death (beheading) was only given to high nobles like kings. So this expression states that in our death we are treated as kings.
 
-[Birinci ve ikinci ölüm/diriliş](https://www.bibleserver.com/NIV/Revelation20%3A5-6) nedir?
+{{% bible val="Birinci ve ikinci ölüm/diriliş" link="https://www.bibleserver.com/NIV/Revelation20%3A5-6" %}} nedir?
 
 The first refers to our original life while the second refers to all the things when we are newborn. We start a new life (the old is gone) and we will experience the second resurrection as we have a second life.

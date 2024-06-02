@@ -37,7 +37,7 @@ What do 2000 year old churches have to do with our situation today? Don’t we h
 ## Our text
 
 <a name="6e6b"></a>
-We will take a very quick look at the [first three chapters of the book](https://www.bibleserver.com/NIV/Revelation1) to establish some basics.
+We will take a very quick look at the {{% bible val="first three chapters of the book" link="https://www.bibleserver.com/NIV/Revelation1" %}} to establish some basics.
 
 ## Why do we need churches?
 

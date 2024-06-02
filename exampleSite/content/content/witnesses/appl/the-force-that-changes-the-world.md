@@ -21,17 +21,17 @@ There are two witnesses who change the whole world and prepare it for the kingdo
 ## Our text
 
 <a name="f023"></a>
-We are moving quickly forward and reached [chapter 11](https://www.bibleserver.com/NIV/Revelation11).
+We are moving quickly forward and reached {{% bible val="chapter 11" link="https://www.bibleserver.com/NIV/Revelation11" %}}.
 
 ## The temple
 
 <a name="5a8c"></a>
-The first thing we need to understand (about the scroll) is the temple. The temple is a picture of God’s presence. In the Old Testament it was the Garden of Eden or a building, but in the New Testament it could be [Jesus](https://www.bibleserver.com/NIV/John2%3A19-21) or the [Church](https://www.bibleserver.com/NIV/1%20Corinthians3%3A17). While in the Old Testament the main purpose is to offer sacrifices [this is no longer necessary](https://www.bibleserver.com/NIV/Hebrews10%3A1-18). Instead, what God wants is worshipers. We are to be faithful to God. What this means is shown by the two witnesses.
+The first thing we need to understand (about the scroll) is the temple. The temple is a picture of God’s presence. In the Old Testament it was the Garden of Eden or a building, but in the New Testament it could be {{% bible val="Jesus" link="https://www.bibleserver.com/NIV/John2%3A19-21" %}} or the {{% bible val="Church" link="https://www.bibleserver.com/NIV/1%20Corinthians3%3A17" %}}. While in the Old Testament the main purpose is to offer sacrifices {{% bible val="this is no longer necessary" link="https://www.bibleserver.com/NIV/Hebrews10%3A1-18" %}}. Instead, what God wants is worshipers. We are to be faithful to God. What this means is shown by the two witnesses.
 
 ## The witnesses
 
 <a name="3221"></a>
-I make this short: [The two witnesses are the church](https://www.bibleserver.com/NIV/Hebrews10%3A1-18).
+I make this short: {{% bible val="The two witnesses are the church" link="https://www.bibleserver.com/NIV/Hebrews10%3A1-18" %}}.
 
 The two witnesses following the lifestyle of Jesus:
 
@@ -44,7 +44,7 @@ The two witnesses following the lifestyle of Jesus:
 
 This is not a literal imitation of Jesus, but the church should go the way that Jesus went. The church member doesn’t have to die of persecution, but we should be willing to give up our lives.
 
-And just as Jesus’ death on the cross looks like a defeat, so it was not for the Church. The beast can only overcome them when they have finished their testimony, and their death itself will be the greatest testimony (there may even be a parallel to [Samson](https://www.bibleserver.com/NIV/Judges16%3A30)).
+And just as Jesus’ death on the cross looks like a defeat, so it was not for the Church. The beast can only overcome them when they have finished their testimony, and their death itself will be the greatest testimony (there may even be a parallel to {{% bible val="Samson" link="https://www.bibleserver.com/NIV/Judges16%3A30" %}}).
 
 The two witnesses are modeled after Moses (water to blood) and Elijah (no rain, fire from heaven). But all the signs and authority did not make a difference as they did in the time of Moses and Elijah. The change came when they died and God resurrected them. When they died and God sanctified them, the majority of the people really turned their lives over to God.Does this mean that when all the people die from persecution, God will resurrect them and take them up to heaven? We need to look at this picture a little more broadly. There is a saying: The blood of the martyrs is the seed of the Church. We don’t have to save our lives to be a witness. The Church will continue even if we leave. God will call us when the time comes.
 

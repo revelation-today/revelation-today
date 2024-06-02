@@ -21,9 +21,9 @@ Metin şöyledir: “[Altıncı mührü açarken izledim. Büyük bir deprem old
 ## Kuzu’nun Gazabı
 
 <a name="c1b2"></a>
-Kuzunun Gazabı, İncil’in her yerine yayılmış bir konu gibi görünse de, bu terim aslında altıncı mühür bağlamında sadece [BİR KEZ](https://www.bibleserver.com/TR/Vahiy6%3A16) vardır ve kuzunun tanımı değil, insanların onun hakkındaki algısıdır. [Dört atlının İsa’nın kimliğine bürünerek yaptığı tüm tahribattan sonra insanlar İsa’nın](/content/seals/expl/the-mystery-of-the-four-horse-men) da aynı şekilde davranacağından korkmaktadır, ancak öyle değildir. Yargısı şiddetli olacaktır ([Tanrı’dan kalıcı olarak ayrılma](/content/paradise/expl/heaven-and-hell)) ama yıkıcı bir savaş şeklinde değil.
+Kuzunun Gazabı, İncil’in her yerine yayılmış bir konu gibi görünse de, bu terim aslında altıncı mühür bağlamında sadece {{% bible val="BİR KEZ" link="https://www.bibleserver.com/TR/Vahiy6%3A16" %}} vardır ve kuzunun tanımı değil, insanların onun hakkındaki algısıdır. [Dört atlının İsa’nın kimliğine bürünerek yaptığı tüm tahribattan sonra insanlar İsa’nın](/content/seals/expl/the-mystery-of-the-four-horse-men) da aynı şekilde davranacağından korkmaktadır, ancak öyle değildir. Yargısı şiddetli olacaktır ([Tanrı’dan kalıcı olarak ayrılma](/content/paradise/expl/heaven-and-hell)) ama yıkıcı bir savaş şeklinde değil.
 
-Tüm bu sahne [Hoşea’yı](https://www.bibleserver.com/TR/Ho%C5%9Fea10%3A6-8) hatırlatmaktadır; İsrail putperestliklerinden dolayı utanç duymakta ve Tanrı’dan saklanmaya çalışmaktadır; [bu da insanın düşüşüne, günahından sonra Tanrı’dan saklanmaya çalışmasına geri dönmektedir](https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F3%3A8).
+Tüm bu sahne {{% bible val="Hoşea’yı" link="https://www.bibleserver.com/TR/Ho%C5%9Fea10%3A6-8" %}} hatırlatmaktadır; İsrail putperestliklerinden dolayı utanç duymakta ve Tanrı’dan saklanmaya çalışmaktadır; {{% bible val="bu da insanın düşüşüne, günahından sonra Tanrı’dan saklanmaya çalışmasına geri dönmektedir" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F3%3A8" %}}.
 
 Bu da gösteriyor ki buradaki vurgu, insanlara zarar vermek isteyen öfkeli bir Tanrı’dan çok, yanlış yaptıklarını bildikleri için saklanan ve yargılanmayı bekleyen insanlar üzerinedir.
 

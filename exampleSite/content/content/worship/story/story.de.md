@@ -7,7 +7,7 @@ next: /content/seals/story/story
 docType: story
 ---
 
-[Chapter 4–5](https://www.bibleserver.com/SLT/Offenbarung4)
+{{% bible val="Chapter 4–5" link="https://www.bibleserver.com/SLT/Offenbarung4" %}}
 
 <a name="55b1"></a>
 Es liegt also an Ihnen und mir und der ganzen Gemeinde, aufzustehen und sich auf das große Abenteuer vorzubereiten, indem wir nach oben schauen.

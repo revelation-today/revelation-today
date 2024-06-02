@@ -9,7 +9,7 @@ next: /content/harvest/quick
 docType: quick
 ---
 
-[Bölüm 13](https://www.bibleserver.com/TR/Vahiy13)
+{{% bible val="Bölüm 13" link="https://www.bibleserver.com/TR/Vahiy13" %}}
 
 Şeytan yenildi. Başlattığı her şey başarısız oldu. Şimdi kiliseye saldırır.
 

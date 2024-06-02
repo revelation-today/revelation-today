@@ -104,9 +104,9 @@ Nun, das sind die Ergebnisse. Aber es geht nicht darum, eine Beziehung zu Gott z
 ## Wir werden, was wir anbeten
 
 <a name="6523"></a>
-[Jesaja musste Israel so predigen, so dass sie es nicht verstehen](https://www.bibleserver.com/SLT/Jesaja6%2C8-10). [Auch Jesus hat sich dieses Thema für seinen Dienst zu eigen gemacht](https://www.bibleserver.com/SLT/Matth%C3%A4us13%2C13). Warum? Worum geht es dabei?
+{{% bible val="Jesaja musste Israel so predigen, so dass sie es nicht verstehen" link="https://www.bibleserver.com/SLT/Jesaja6%2C8-10" %}}. {{% bible val="Auch Jesus hat sich dieses Thema für seinen Dienst zu eigen gemacht" link="https://www.bibleserver.com/SLT/Matth%C3%A4us13%2C13" %}}. Warum? Worum geht es dabei?
 
-Die Antwort finden wir in den [Psalmen](https://www.bibleserver.com/SLT/Psalm135%2C15-18): Wer sich auf Götzen verlässt, wird wie sie — er sieht nicht und hört nicht. Wenn wir aber aufhören, den Götzen zu vertrauen, und uns ganz Gott anvertrauen, [dann können wir sehen](https://www.bibleserver.com/SLT/Johannes3%2C3).
+Die Antwort finden wir in den {{% bible val="Psalmen" link="https://www.bibleserver.com/SLT/Psalm135%2C15-18" %}}: Wer sich auf Götzen verlässt, wird wie sie — er sieht nicht und hört nicht. Wenn wir aber aufhören, den Götzen zu vertrauen, und uns ganz Gott anvertrauen, {{% bible val="dann können wir sehen" link="https://www.bibleserver.com/SLT/Johannes3%2C3" %}}.
 
 Als Israel an den Götzen festhielt, war es unfähig, die Wahrheit zu sehen, selbst wenn sie vor ihnen gepredigt wurde.
 

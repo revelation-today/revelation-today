@@ -17,7 +17,7 @@ Das Tausendjährige Reich wird oft als perfekte Welt beschrieben, in der die Gut
 ## Unser Text
 
 <a name="cedf"></a>
-Wir haben es fast geschafft und sind in [Kapitel 20](https://www.bibleserver.com/SLT/Offenbarung20).
+Wir haben es fast geschafft und sind in {{% bible val="Kapitel 20" link="https://www.bibleserver.com/SLT/Offenbarung20" %}}.
 
 ## Die 1000 Jahre
 

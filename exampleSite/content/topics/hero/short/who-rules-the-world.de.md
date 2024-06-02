@@ -10,7 +10,7 @@ Die Offenbarung gibt uns ein sehr verwirrendes Bild davon, wer eigentlich die We
 ## Die Frage
 
 <a name="2c23"></a>
-Als Jesus am Kreuz starb, war Satan besiegt. Das wurde uns gesagt, aber es scheint, das sich nichts geändert hat. [Vielleicht ist es sogar schlimmer geworden](https://www.bibleserver.com/SLT/Offenbarung12%2C12).
+Als Jesus am Kreuz starb, war Satan besiegt. Das wurde uns gesagt, aber es scheint, das sich nichts geändert hat. {{% bible val="Vielleicht ist es sogar schlimmer geworden" link="https://www.bibleserver.com/SLT/Offenbarung12%2C12" %}}.
 
 - Jesu Lehre klingt nach nicht erreichbaren Idealen.
 - Böse Reiche regieren immer noch trotz [Prophetien](/bible/daniel/expl/the-four-kingdoms-in-daniel).
@@ -26,9 +26,9 @@ Israel sollte durch den Bund mit Abraham zum Segen für die ganze Welt werden. D
 
 Die Juden warteten auf den Messias, der eine große Umwälzung, eine Art Revolution einleiten sollte.
 
-Aber das was nicht der Fall, als Jesus kam. Er hat in [Markus](https://www.bibleserver.com/SLT/Markus10%2C29-30), [Lukas](https://www.bibleserver.com/SLT/Lukas20%2C34-35) und den [Briefen](https://www.bibleserver.com/SLT/Epheser1%2C21) einige Aussagen über die gegenwärtige (böse) und die kommende (gute) Zeit gemacht.
+Aber das was nicht der Fall, als Jesus kam. Er hat in {{% bible val="Markus" link="https://www.bibleserver.com/SLT/Markus10%2C29-30" %}}, {{% bible val="Lukas" link="https://www.bibleserver.com/SLT/Lukas20%2C34-35" %}} und den {{% bible val="Briefen" link="https://www.bibleserver.com/SLT/Epheser1%2C21" %}} einige Aussagen über die gegenwärtige (böse) und die kommende (gute) Zeit gemacht.
 
-Aber die [Kraft des kommenden Zeitalters ist schon da](https://www.bibleserver.com/SLT/Hebr%C3%A4er6%2C5), [verfügbar im Heiligen Geist](https://www.bibleserver.com/SLT/2.Korinther1%2C22) und [erfahrbar im Leben mit dem Heiligen Geist](https://www.bibleserver.com/SLT/R%C3%B6mer8%2C14-39). Das [kommende Reich ist verborgen und macht uns erbärmlich aussehen](https://www.bibleserver.com/SLT/2.Korinther4%2C3-18).
+Aber die {{% bible val="Kraft des kommenden Zeitalters ist schon da" link="https://www.bibleserver.com/SLT/Hebr%C3%A4er6%2C5" %}}, {{% bible val="verfügbar im Heiligen Geist" link="https://www.bibleserver.com/SLT/2.Korinther1%2C22" %}} und {{% bible val="erfahrbar im Leben mit dem Heiligen Geist" link="https://www.bibleserver.com/SLT/R%C3%B6mer8%2C14-39" %}}. Das {{% bible val="kommende Reich ist verborgen und macht uns erbärmlich aussehen" link="https://www.bibleserver.com/SLT/2.Korinther4%2C3-18" %}}.
 
 Wir können es uns das wie in diesem Bild vorstellen.
 
@@ -51,7 +51,7 @@ Deshalb müssen wir diese Spannung aushalten.
 ## Die Spannung aushalten
 
 <a name="25a9"></a>
-Diese Spannung zeigt sich in der Offenbarung in der gleichzeitigen Beschreibung von [uns als Könige](https://www.bibleserver.com/SLT/Offenbarung1%2C6)n und der [uneingeschränkten Autorität der Zeugen](/content/witnesses/expl/the-two-witnesses) einerseits und der [unbestrittenen Herrschaft des Tieres andererseits, das selbst die Gemeinde überwindet](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
+Diese Spannung zeigt sich in der Offenbarung in der gleichzeitigen Beschreibung von {{% bible val="uns als Könige" link="https://www.bibleserver.com/SLT/Offenbarung1%2C6" %}}n und der [uneingeschränkten Autorität der Zeugen](/content/witnesses/expl/the-two-witnesses) einerseits und der [unbestrittenen Herrschaft des Tieres andererseits, das selbst die Gemeinde überwindet](/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation).
 
 Der Schlüssel zum Verständnis ist, dass beide unterschiedlich regieren. Satan mit den Tieren regiert durch Unterdrückung, die Zeugen durch ihr Zeugnis und ihre Treue bis in den Tod.
 

@@ -28,11 +28,11 @@ Artemis tapınağı nedeniyle önemli bir turizm merkeziydi ve muhtemelen yedi k
 ## İsa’nın görüşü
 
 <a name="e582"></a>
-[İsa kiliseye yıldızları tutan ve kandillerin ortasında yürüyen biri olarak yaklaşır](https://www.bibleserver.com/TR/Vahiy2%3A1) ve [1. bölümün](https://www.bibleserver.com/TR/Vahiy1%3A20) temel mesajına gönderme yapar: Işık olmak ve O’na bağlı olmak. Eğer kilise bunu ciddiye almazsa çağrısını kaybedecektir!
+{{% bible val="İsa kiliseye yıldızları tutan ve kandillerin ortasında yürüyen biri olarak yaklaşır" link="https://www.bibleserver.com/TR/Vahiy2%3A1" %}} ve {{% bible val="1. bölümün" link="https://www.bibleserver.com/TR/Vahiy1%3A20" %}} temel mesajına gönderme yapar: Işık olmak ve O’na bağlı olmak. Eğer kilise bunu ciddiye almazsa çağrısını kaybedecektir!
 
 Ancak İsa sorunu ele almadan önce bir sürü değerlendirme yapar:
 
-- Yaptıkları işleri, sıkı çalışmalarını ve azimlerini biliyordu. Efes’te [şimdiden kargaşaya neden olan](https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri19%3A23-41) Artemis tapınağı ile ilgili zor bir iş yaşıyorlar
+- Yaptıkları işleri, sıkı çalışmalarını ve azimlerini biliyordu. Efes’te {{% bible val="şimdiden kargaşaya neden olan" link="https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri19%3A23-41" %}} Artemis tapınağı ile ilgili zor bir iş yaşıyorlar
 - Diğer kiliselerden bazılarının sorunu olan yanlış öğretiş ya da yanlış elçiler tarafından aldatılmadılar.
 - İsa’nın adıyla zorluklara dayanır
 
@@ -41,7 +41,7 @@ Ancak İsa sorunu ele almadan önce bir sürü değerlendirme yapar:
 <a name="1874"></a>
 Ama yanlış olan bir şey var: İlk aşkı kaybetmek. Bu ne anlama geliyor? İsa’yla ilk karşılaştıklarında hissettikleri ve onun için her şeyi yapabilecekleri romantik duygu mu?
 
-[Matta’da](https://www.bibleserver.com/TR/Matta24%3A12-14) sevginin soğuyacağı ve Müjde’nin tüm uluslara tanık olarak duyurulacağı söylenir. Peki ama sevginin müjdenin tanığı olmakla ne ilgisi var? Çok ilgisi var.
+{{% bible val="Matta’da" link="https://www.bibleserver.com/TR/Matta24%3A12-14" %}} sevginin soğuyacağı ve Müjde’nin tüm uluslara tanık olarak duyurulacağı söylenir. Peki ama sevginin müjdenin tanığı olmakla ne ilgisi var? Çok ilgisi var.
 
 - İsa’yı seviyorsak, onun mesajını paylaşacak, kardeşlerimizi ve dış dünyayı seveceğiz
 - Eğer kardeşlerimizi seversek, İsa’yı onlarda gördüğümüz gibi severiz ve müjdeyi tüm dünyayla paylaşmak için vaaz ederiz
@@ -56,4 +56,4 @@ Efes köklü bir kilise olabilir, ruhsal zorluklarla başa çıkma yöntemleri v
 <a name="4d61"></a>
 Yaşam ağacından yeme vaadi onları bahçede Tanrı’yla olan sorunsuz ilişkilerine geri götürür. Eğer devam etmek ve Tanrı’nın kullanmadığı bir kilise olmamak istiyorlarsa, buradan başlamaları gerekir.
 
-[Ve Yeni Yeruşalim’de bir vaatleri vardır](https://www.bibleserver.com/TR/Vahiy22%3A1-5).
+{{% bible val="Ve Yeni Yeruşalim’de bir vaatleri vardır" link="https://www.bibleserver.com/TR/Vahiy22%3A1-5" %}}.

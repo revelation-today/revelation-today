@@ -17,7 +17,7 @@ The millennial kingdom is often described as a perfect world where the good rule
 ## Our text
 
 <a name="8752"></a>
-We are moving quickly forward and [chapter 20](https://www.bibleserver.com/NIV/Revelation20).
+We are moving quickly forward and {{% bible val="chapter 20" link="https://www.bibleserver.com/NIV/Revelation20" %}}.
 
 ## The 1000 years
 

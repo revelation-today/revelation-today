@@ -23,7 +23,7 @@ Vahiy kitabındaki fahişeyi kavramak zordur, çünkü yeryüzündeki kötü sis
 ## Bizim metnimiz
 
 <a name="0a25"></a>
-[Bölüm 17](https://www.bibleserver.com/TR/Vahiy17), [18](https://www.bibleserver.com/TR/Vahiy18) ve [19](https://www.bibleserver.com/TR/Vahiy19)'da hızla ilerliyoruz.
+{{% bible val="Bölüm 17" link="https://www.bibleserver.com/TR/Vahiy17" %}}, {{% bible val="18" link="https://www.bibleserver.com/TR/Vahiy18" %}} ve {{% bible val="19" link="https://www.bibleserver.com/TR/Vahiy19" %}}'da hızla ilerliyoruz.
 
 ## Fahişe kim?
 
@@ -43,7 +43,7 @@ Fahişe, bu dünyanın yöneticilerini refah getirmeleri için etkilemiştir (e�
 ## Fahişenin etkisi ve hükmü
 
 <a name="0bff"></a>
-Fahişe, dışarıdan kilise gibi görünse bile, kilisenin ve tanıklarının azılı bir düşmanıdır ve kargaşaya neden olur. Yakından bakıldığında fahişe [üçüncü mührün](https://www.bibleserver.com/TR/Vahiy6%3A5-6) nedenidir: Ekonomik adaletsiz dağıtıma dayanan açlık, ancak lüks malların mevcudiyetini sağlar ve kitlelerin acı çekmesine rağmen zenginleri sağlar. İnsanlar diğer kaynaklar gibi malzeme olarak kabul edilir.
+Fahişe, dışarıdan kilise gibi görünse bile, kilisenin ve tanıklarının azılı bir düşmanıdır ve kargaşaya neden olur. Yakından bakıldığında fahişe {{% bible val="üçüncü mührün" link="https://www.bibleserver.com/TR/Vahiy6%3A5-6" %}} nedenidir: Ekonomik adaletsiz dağıtıma dayanan açlık, ancak lüks malların mevcudiyetini sağlar ve kitlelerin acı çekmesine rağmen zenginleri sağlar. İnsanlar diğer kaynaklar gibi malzeme olarak kabul edilir.
 
 Mükemmel kilise olmak (rahatsız edici tanıklık ve şehitliğe değil, bereket ve refaha odaklanan kilise) aynı zamanda fahişenin kaderidir: Canavar kiliseye saldırmaya çalışırken, İsa devreye girer ve kilise yerine fahişe hedef olur. Canavarın temsilcileri olan krallar fahişeye yargı getirirler.
 

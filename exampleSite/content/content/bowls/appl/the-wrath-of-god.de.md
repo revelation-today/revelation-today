@@ -21,7 +21,7 @@ Jetzt wird es wirklich ernst.
 ## Unser Text
 
 <a name="5322"></a>
-Wir sind mittlerweile in [Kapitel 15](https://www.bibleserver.com/SLT/Offenbarung15) und [16](https://www.bibleserver.com/SLT/Offenbarung16).
+Wir sind mittlerweile in {{% bible val="Kapitel 15" link="https://www.bibleserver.com/SLT/Offenbarung15" %}} und {{% bible val="16" link="https://www.bibleserver.com/SLT/Offenbarung16" %}}.
 
 ## Die große Frage
 

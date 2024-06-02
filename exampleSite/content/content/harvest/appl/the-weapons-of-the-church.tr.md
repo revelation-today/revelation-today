@@ -17,7 +17,7 @@ Kilisenin imansız dünyaya, ejderhaya ve canavara karşı savaşta kullandığ�
 ## Bizim metnimiz
 
 <a name="e22a"></a>
-Hızla ilerliyoruz ve [14. bölüme](https://www.bibleserver.com/TR/Vahiy14) ulaştık.
+Hızla ilerliyoruz ve {{% bible val="14. bölüme" link="https://www.bibleserver.com/TR/Vahiy14" %}} ulaştık.
 
 ## Tanrı’nın ordusu
 

@@ -75,7 +75,7 @@ Und ihn versucht Satan verzweifelt nachzuahmen.
 
 Du erfährst immer mehr über Jesus, wenn du das Buch liest, oft direkt, wie wir gerade gesehen haben, aber manchmal auch indirekt: wie Satan versucht, ihn zu kopieren, es aber nicht schafft.
 
-Die beiden Zeugen in [Kapitel 11](https://www.bibleserver.com/SLT/Offenbarung11) folgen den Spuren Jesu von seiner Berufung bis zu seinem Tod, seiner Auferstehung und seiner Himmelfahrt. Sie sind die ultimativen Überwinder, WEIL sie Jesus nachahmen. Der große Durchbruch der beiden Zeugen kommt nicht durch ihre Zeichen, Wunder und Machttaten, sondern dadurch, dass sie ihr Leben hingeben (und Gott ihr Zeugnis bestätigt), so dass viele Ungläubige ihr Leben Gott anvertrauen.
+Die beiden Zeugen in {{% bible val="Kapitel 11" link="https://www.bibleserver.com/SLT/Offenbarung11" %}} folgen den Spuren Jesu von seiner Berufung bis zu seinem Tod, seiner Auferstehung und seiner Himmelfahrt. Sie sind die ultimativen Überwinder, WEIL sie Jesus nachahmen. Der große Durchbruch der beiden Zeugen kommt nicht durch ihre Zeichen, Wunder und Machttaten, sondern dadurch, dass sie ihr Leben hingeben (und Gott ihr Zeugnis bestätigt), so dass viele Ungläubige ihr Leben Gott anvertrauen.
 
 Die beiden Zeugen symbolisieren die Gemeinde, die nur erfolgreich sein kann, wenn sie Jesus kompromisslos nachfolgt.
 
@@ -96,14 +96,14 @@ Wenn du an die Endzeit und die Wiederkunft Jesu denkst, kommen dir wahrscheinlic
 
 Obwohl das Buch starke Züge einer Apokalypse trägt, wird der Grundgedanke immer wieder in Frage gestellt.
 
-- Jesus wird als der [Durchbohrte](https://www.bibleserver.com/SLT/Offenbarung1%2C7) dargestellt, bevor er als [der Richter der die Welt gezeigt wird](https://www.bibleserver.com/SLT/Offenbarung1%2C12-16).
-- Der Thronsaal Gottes zeigt Element der Gnade wie den [Regenbogen](https://www.bibleserver.com/SLT/Offenbarung4%2C3).
-- Der Löwe von Juda ist in Wirklichkeit das [Lamm](https://www.bibleserver.com/SLT/Offenbarung5%2C5-6) Gottes.
-- Das [Heer der 144.000](https://www.bibleserver.com/SLT/Offenbarung7%2C4-8) wird erklärt als die Menschen, die Gott [anbeten](https://www.bibleserver.com/SLT/Offenbarung7%2C9-10), später als die, die [dem Lamm folgen und glauben](https://www.bibleserver.com/SLT/Offenbarung14%2C1-5).
-- Der Sieg der zwei Zeugen ist ihr [Tod](https://www.bibleserver.com/SLT/Offenbarung11%2C7-13).
-- Der geheimnisvolle Ort [Harmageddon](https://www.bibleserver.com/SLT/Offenbarung16%2C14) beschreibt die [Niederlage der Starken und den Sieg der absolut Schwachen](/content/bowls/expl/the-key-to-armageddon).
-- Die [Hure wird von dem Tier vernichtet](https://www.bibleserver.com/SLT/Offenbarung17%2C16), auf dem sie [sitzt](https://www.bibleserver.com/SLT/Offenbarung17%2C3).
-- Jesus kommt und [vernichtet alle Feinde durch das Schwert seines Mundes](https://www.bibleserver.com/SLT/Offenbarung19%2C21).
+- Jesus wird als der {{% bible val="Durchbohrte" link="https://www.bibleserver.com/SLT/Offenbarung1%2C7" %}} dargestellt, bevor er als {{% bible val="der Richter der die Welt gezeigt wird" link="https://www.bibleserver.com/SLT/Offenbarung1%2C12-16" %}}.
+- Der Thronsaal Gottes zeigt Element der Gnade wie den {{% bible val="Regenbogen" link="https://www.bibleserver.com/SLT/Offenbarung4%2C3" %}}.
+- Der Löwe von Juda ist in Wirklichkeit das {{% bible val="Lamm" link="https://www.bibleserver.com/SLT/Offenbarung5%2C5-6" %}} Gottes.
+- Das {{% bible val="Heer der 144.000" link="https://www.bibleserver.com/SLT/Offenbarung7%2C4-8" %}} wird erklärt als die Menschen, die Gott {{% bible val="anbeten" link="https://www.bibleserver.com/SLT/Offenbarung7%2C9-10" %}}, später als die, die {{% bible val="dem Lamm folgen und glauben" link="https://www.bibleserver.com/SLT/Offenbarung14%2C1-5" %}}.
+- Der Sieg der zwei Zeugen ist ihr {{% bible val="Tod" link="https://www.bibleserver.com/SLT/Offenbarung11%2C7-13" %}}.
+- Der geheimnisvolle Ort {{% bible val="Harmageddon" link="https://www.bibleserver.com/SLT/Offenbarung16%2C14" %}} beschreibt die [Niederlage der Starken und den Sieg der absolut Schwachen](/content/bowls/expl/the-key-to-armageddon).
+- Die {{% bible val="Hure wird von dem Tier vernichtet" link="https://www.bibleserver.com/SLT/Offenbarung17%2C16" %}}, auf dem sie {{% bible val="sitzt" link="https://www.bibleserver.com/SLT/Offenbarung17%2C3" %}}.
+- Jesus kommt und {{% bible val="vernichtet alle Feinde durch das Schwert seines Mundes" link="https://www.bibleserver.com/SLT/Offenbarung19%2C21" %}}.
 
 Das bedeutet, dass die “apokalyptischen Ereignisse” wahrscheinlich ganz anders sind, als wir denken. Auch die Beschreibung anderer Stellen erweckt den Eindruck, dass Krieg und Zerstörung nicht das Hauptthema des Buches sind.
 
@@ -112,9 +112,9 @@ Die Hauptthemen des Buches sind Anbetung, Zeugnis und Ausharren. Und damit spric
 ## Der Antichrist
 
 <a name="f7e5"></a>
-Der Antichrist wird oft mit dem Buch Offenbarung in Verbindung gebracht, aber wenn du das Buch liest, siehst du, dass das Wort dort überhaupt nicht vorkommt, sondern nur im [ersten Johannesbrief](https://www.bibleserver.com/SLT/1.Johannes2%2C18) (und da ist von mehreren die Rede). Aber das Prinzip ist in der Offenbarung sichtbar. “Anti” kann nicht nur “gegen” bedeuten, sondern auch “anstelle” bedeuten. Und in diesem Buch gibt es viele Stellen, wo Satan versucht sich selbst als Jesus darzustellen.
+Der Antichrist wird oft mit dem Buch Offenbarung in Verbindung gebracht, aber wenn du das Buch liest, siehst du, dass das Wort dort überhaupt nicht vorkommt, sondern nur im {{% bible val="ersten Johannesbrief" link="https://www.bibleserver.com/SLT/1.Johannes2%2C18" %}} (und da ist von mehreren die Rede). Aber das Prinzip ist in der Offenbarung sichtbar. “Anti” kann nicht nur “gegen” bedeuten, sondern auch “anstelle” bedeuten. Und in diesem Buch gibt es viele Stellen, wo Satan versucht sich selbst als Jesus darzustellen.
 
-Er kommt als der Erlöser als [erster apokalyptischer Reiter](https://www.bibleserver.com/SLT/Offenbarung6%2C1-2), er imitiert die [Dreieinigkeit Gottes](https://www.bibleserver.com/SLT/Offenbarung13) und die [Hure ist eine pervertierte Version der Braut ](https://www.bibleserver.com/SLT/Offenbarung17%2C1-6)Christi.
+Er kommt als der Erlöser als {{% bible val="erster apokalyptischer Reiter" link="https://www.bibleserver.com/SLT/Offenbarung6%2C1-2" %}}, er imitiert die {{% bible val="Dreieinigkeit Gottes" link="https://www.bibleserver.com/SLT/Offenbarung13" %}} und die {{% bible val="Hure ist eine pervertierte Version der Braut " link="https://www.bibleserver.com/SLT/Offenbarung17%2C1-6" %}}Christi.
 
 Diese Kapitel führen uns vor Augen, was geschieht, wenn die Gemeinde die Vision aus den Augen verliert:
 

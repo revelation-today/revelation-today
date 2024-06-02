@@ -41,11 +41,11 @@ Peki vahiydeki metin bu konuda ne diyor?
 ## Ekphrasis
 
 <a name="585e"></a>
-[Bölüm 17'nin ilk yarısı](https://www.bibleserver.com/TR/Vahiy17%3A1-13) Vahiy’de durağan bir resim üzerinde yorum yapan bir meleğin olduğu tek bölümdür (bölüm 21'de bile — yeni Yeruşalim — melek sadece gösterir, açıklamaz ve eylem vardır — şehir aşağı iner, su akar, ağaçlar meyve verir). 17. bölümde çok durağan bir resim vardır. Ve odak noktası canavara dayanan fahişeyi anlamaktır.
+{{% bible val="Bölüm 17'nin ilk yarısı" link="https://www.bibleserver.com/TR/Vahiy17%3A1-13" %}} Vahiy’de durağan bir resim üzerinde yorum yapan bir meleğin olduğu tek bölümdür (bölüm 21'de bile — yeni Yeruşalim — melek sadece gösterir, açıklamaz ve eylem vardır — şehir aşağı iner, su akar, ağaçlar meyve verir). 17. bölümde çok durağan bir resim vardır. Ve odak noktası canavara dayanan fahişeyi anlamaktır.
 
 Ve bu metin, bir sanat nesnesinin (insanlar, festivaller, … gibi başkaları da olabilir) esas olarak retorik açıklaması olan bir ekphrasis tarzına sahiptir. Bunlardan ilki İlias’taki (Truva Savaşı) Achill’in kalkanının tasviriydi.
 
-Bu edebiyat türü Roma’da milattan önce birinci yüzyıldan beri oldukça popülerdi. Ana unsur [şaşkın hikaye anlatıcısıdır](https://www.bibleserver.com/TR/Vahiy17%3A7) çünkü bunun amacı ya resmin daha derin bir anlayışına sahip olmak ya da muhtemelen en popüler ekphrasis olan “Cebes’in Tabulası” gibi bazen çözülmesi zor olan resmin daha derin / gizli anlamını görmekti.
+Bu edebiyat türü Roma’da milattan önce birinci yüzyıldan beri oldukça popülerdi. Ana unsur {{% bible val="şaşkın hikaye anlatıcısıdır" link="https://www.bibleserver.com/TR/Vahiy17%3A7" %}} çünkü bunun amacı ya resmin daha derin bir anlayışına sahip olmak ya da muhtemelen en popüler ekphrasis olan “Cebes’in Tabulası” gibi bazen çözülmesi zor olan resmin daha derin / gizli anlamını görmekti.
 
 Bu tabula Vahiy 17 için de bir temel olabilir. Bir tapınaktaki adak levhasının üzerinde anlamadıkları bir resim gören bir grup insanı anlatır. Yaşlı bir adam gelir ve [onlara bunu açıklar (bkz. bölüm 8)](https://archive.org/details/cebestabletwithi00cebeiala/page/n4/mode/1up?view=theater):
 

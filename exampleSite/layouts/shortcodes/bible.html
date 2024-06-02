@@ -1,0 +1,5 @@
+{{- $context := . -}}
+{{- $val := .Get "val" -}}
+{{- $link := .Get "link" -}}
+
+<a href="{{- $link -}}" class="bible"><span style="background:orange">{{- $val -}}</span></a>

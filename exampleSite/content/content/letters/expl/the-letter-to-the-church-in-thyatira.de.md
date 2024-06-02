@@ -16,7 +16,7 @@ sources:
 
 Was macht man mit einer Gemeinde, in der die Leiter das Problem sind? Richtig, man liest den Brief an Thyatira.
 
-Das [Schreiben an die Gemeinde in Thyatira](https://www.bibleserver.com/SLT/Offenbarung2%2C18-29) ist der längste, wobei sie wahrscheinlich die kleinste Gemeinde war.
+Das {{% bible val="Schreiben an die Gemeinde in Thyatira" link="https://www.bibleserver.com/SLT/Offenbarung2%2C18-29" %}} ist der längste, wobei sie wahrscheinlich die kleinste Gemeinde war.
 
 ## Der historische Hintergrund
 
@@ -28,14 +28,14 @@ Zur Zeit der Offenbarung war die Stadt bekannt für ihre Purpurfärberei und ihr
 ## Jesu Sicht
 
 <a name="f2ed"></a>
-Jesus begegnet dieser Gemeinde als Sohn Gottes mit Augen wie Feuer und Füßen wie Bronze. Das könnte an die Geschichte von [Daniels Freunden im Feuerofen erinnern](https://www.bibleserver.com/SLT/Daniel3), wo ihnen auch jemand wie der [Sohn der Götter](https://www.bibleserver.com/SLT/Daniel3%2C25) geholfen hat.
+Jesus begegnet dieser Gemeinde als Sohn Gottes mit Augen wie Feuer und Füßen wie Bronze. Das könnte an die Geschichte von {{% bible val="Daniels Freunden im Feuerofen erinnern" link="https://www.bibleserver.com/SLT/Daniel3" %}}, wo ihnen auch jemand wie der {{% bible val="Sohn der Götter" link="https://www.bibleserver.com/SLT/Daniel3%2C25" %}} geholfen hat.
 
-Jesus ist voll des [Lobes für ihre Werke, ihre Liebe (wo Ephesus Schwierigkeiten hatte), ihren Glauben, ihr Ausharren und dass sie immer besser werden](https://www.bibleserver.com/SLT/Offenbarung2%2C19).
+Jesus ist voll des {{% bible val="Lobes für ihre Werke, ihre Liebe (wo Ephesus Schwierigkeiten hatte), ihren Glauben, ihr Ausharren und dass sie immer besser werden" link="https://www.bibleserver.com/SLT/Offenbarung2%2C19" %}}.
 
 ## Das Problem
 
 <a name="2981"></a>
-Es gibt nur [ein Problem: Isebel](https://www.bibleserver.com/SLT/Offenbarung2%2C20). Als [Königin von Israel hat sie den Götzendienst eingeführ](https://www.bibleserver.com/SLT/1.K%C3%B6nige16%2C31)t. Und in Thyatira führt sie ihn auch in einer Leiterrolle ein.
+Es gibt nur {{% bible val="ein Problem: Isebel" link="https://www.bibleserver.com/SLT/Offenbarung2%2C20" %}}. Als {{% bible val="Königin von Israel hat sie den Götzendienst eingeführ" link="https://www.bibleserver.com/SLT/1.K%C3%B6nige16%2C31" %}}t. Und in Thyatira führt sie ihn auch in einer Leiterrolle ein.
 
 Die Situation scheint mit der in Pergamon vergleichbar zu sein, aber das Problem ist viel ernster, da es nicht von den Leitern toleriert wird, sondern die Leiter selbst das Problem sind.
 
@@ -46,11 +46,11 @@ Die Leiter unterstützten Götzendienst und sexuelle Unmoral und versprachen Ein
 <a name="5b20"></a>
 Was soll die Gemeinde tun? Aufbegehren? Die Gemeinde verlassen?
 
-Die Antwort lautet: [an Jesus festhalten und treu bleiben](https://www.bibleserver.com/SLT/Offenbarung2%2C24-25). Jesus befaßt sich mit der Leiterschaft, weil diese ihm Rechenschaft schulden:
+Die Antwort lautet: {{% bible val="an Jesus festhalten und treu bleiben" link="https://www.bibleserver.com/SLT/Offenbarung2%2C24-25" %}}. Jesus befaßt sich mit der Leiterschaft, weil diese ihm Rechenschaft schulden:
 
-- [Alle ihre Nachfolger werden leiden, damit sie bedenken, sich zu bekehren](https://www.bibleserver.com/SLT/Offenbarung2%2C21-22).
-- [Jesus wird sie stoppen als Warnung für andere Gemeinden.](https://www.bibleserver.com/SLT/Offenbarung2%2C23)
+- {{% bible val="Alle ihre Nachfolger werden leiden, damit sie bedenken, sich zu bekehren" link="https://www.bibleserver.com/SLT/Offenbarung2%2C21-22" %}}.
+- {{% bible val="Jesus wird sie stoppen als Warnung für andere Gemeinden." link="https://www.bibleserver.com/SLT/Offenbarung2%2C23" %}}
 
-Denen, die ausharren und treu bleiben, verheißt Jesus Vollmacht, wie er sie unter falscher Autorität hatte. Herrschen mit eisernem Zepter stammt aus [Psalm 2](https://www.bibleserver.com/SLT/Psalm2).
+Denen, die ausharren und treu bleiben, verheißt Jesus Vollmacht, wie er sie unter falscher Autorität hatte. Herrschen mit eisernem Zepter stammt aus {{% bible val="Psalm 2" link="https://www.bibleserver.com/SLT/Psalm2" %}}.
 
-Der [Morgenstern](https://www.bibleserver.com/SLT/Offenbarung2%2C28) kann sich auf die [neue Hoffnung in Jesus beziehen](https://www.bibleserver.com/SLT/2.Petrus1%2C19), der der [Morgenstern](https://www.bibleserver.com/SLT/Offenbarung22%2C16) ist.
+Der {{% bible val="Morgenstern" link="https://www.bibleserver.com/SLT/Offenbarung2%2C28" %}} kann sich auf die {{% bible val="neue Hoffnung in Jesus beziehen" link="https://www.bibleserver.com/SLT/2.Petrus1%2C19" %}}, der der {{% bible val="Morgenstern" link="https://www.bibleserver.com/SLT/Offenbarung22%2C16" %}} ist.

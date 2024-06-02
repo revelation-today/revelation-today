@@ -23,7 +23,7 @@ Die Hure der Offenbarung ist schwer zu fassen und zeigt die Komplexität des Bö
 ## Unser Text
 
 <a name="2f15"></a>
-Wir schauen diesmal [Kapitel 17](https://www.bibleserver.com/SLT/Offenbarung17), [18](https://www.bibleserver.com/SLT/Offenbarung18) und [19](https://www.bibleserver.com/SLT/Offenbarung19) an.
+Wir schauen diesmal {{% bible val="Kapitel 17" link="https://www.bibleserver.com/SLT/Offenbarung17" %}}, {{% bible val="18" link="https://www.bibleserver.com/SLT/Offenbarung18" %}} und {{% bible val="19" link="https://www.bibleserver.com/SLT/Offenbarung19" %}} an.
 
 ## Wer ist die Hure?
 

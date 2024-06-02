@@ -12,7 +12,7 @@ docType: quick
 ---
 
 
-[Bölüm 11](https://www.bibleserver.com/TR/Vahiy11).
+{{% bible val="Bölüm 11" link="https://www.bibleserver.com/TR/Vahiy11" %}}.
 
 Tanrı'nın gizemi bu bölümde açıklanacaktır. 
 
@@ -21,7 +21,7 @@ Bölüm üç kısımdan oluşmaktadır
 - iki tanık
 - Sonrası ve Tanrı'nın varlığının açığa çıkması
 
-ve bunların hepsi kapsanmıştır (sonraki üç bölüm) ancak aynı olan ve İsa'nın ilk gelişinden ikinci gelişine kadar olan zamanı tanımlayan garip bir zaman dilimi: 1260 gün = 42 ay = 3,5 kat (yıl). Bu, [Daniel](https://www.bibleserver.com/TR/Daniel9%3A24-27)'e göre Tanrı'nın planını tamamladığı ve gerçek Tanrı'nın kim olduğu sorusunun sorulduğu zamandır ([Elija'ya](https://www.bibleserver.com/TR/1.Krallar19) göre).
+ve bunların hepsi kapsanmıştır (sonraki üç bölüm) ancak aynı olan ve İsa'nın ilk gelişinden ikinci gelişine kadar olan zamanı tanımlayan garip bir zaman dilimi: 1260 gün = 42 ay = 3,5 kat (yıl). Bu, {{% bible val="Daniel" link="https://www.bibleserver.com/TR/Daniel9%3A24-27" %}}'e göre Tanrı'nın planını tamamladığı ve gerçek Tanrı'nın kim olduğu sorusunun sorulduğu zamandır ({{% bible val="Elija'ya" link="https://www.bibleserver.com/TR/1.Krallar19" %}} göre).
 
 ## Tapınak
 

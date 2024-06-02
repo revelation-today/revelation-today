@@ -37,7 +37,7 @@ Was hat eine 2000 Jahre alte Gemeinde mit unserer heutigen Situation zu tun? Hab
 ## Unser Text
 
 <a name="0ab1"></a>
-Wir müssen die [ersten drei Kapitel der Offenbarung](https://www.bibleserver.com/SLT/Offenbarung1) lesen, um ein besseres Verständnis zu bekommen.
+Wir müssen die {{% bible val="ersten drei Kapitel der Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung1" %}} lesen, um ein besseres Verständnis zu bekommen.
 
 ## Warum brauchen wir Gemeinden?
 

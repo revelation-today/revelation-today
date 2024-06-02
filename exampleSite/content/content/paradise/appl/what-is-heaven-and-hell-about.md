@@ -19,7 +19,7 @@ The book of Revelation ends on a high note with heaven. But if we take a closer 
 ## Our text
 
 <a name="6a6c"></a>
-We are moving quickly forward and [chapter 21](https://www.bibleserver.com/NIV/Revelation21) and [22](https://www.bibleserver.com/NIV/Revelation22).
+We are moving quickly forward and {{% bible val="chapter 21" link="https://www.bibleserver.com/NIV/Revelation21" %}} and {{% bible val="22" link="https://www.bibleserver.com/NIV/Revelation22" %}}.
 
 ## The key point of heaven
 
@@ -28,7 +28,7 @@ When we look at the description of the New Heaven, we probably think of the end 
 
 But I would like to draw attention to some other important aspects:
 
-- The New Jerusalem is coming down: This will be a reality on [earth](https://www.bibleserver.com/NIV/Revelation22), not an abstract existence, but a new body as we pray in the Pater Noster (“as in heaven so on earth” becomes a reality).
+- The New Jerusalem is coming down: This will be a reality on {{% bible val="earth" link="https://www.bibleserver.com/NIV/Revelation22" %}}, not an abstract existence, but a new body as we pray in the Pater Noster (“as in heaven so on earth” becomes a reality).
 - The Tree of Life: At the end of the description of heaven, people have access to the Tree of Life, which means that the separation between God and man is dissolved and the relationship is restored.
 - The Temple: This passage uses a lot of temple terminology. But there will be no temple. Instead, the New Jerusalem is in the form of the Holy of Holies. This is a picture of being in the most intimate relationship with God, and another example of our total devotion, because right around it is hell (all in or all out).
 - The nations: It is said that the nations will come in.

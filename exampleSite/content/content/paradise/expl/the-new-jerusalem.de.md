@@ -17,9 +17,9 @@ Wie Himmel und Erde aussehen werden, ist im Einzelnen schwer zu sagen, aber die 
 ## Der Aufbau des Kapitels
 
 <a name="8c47"></a>
-Das Kapitel hat eine Gemeinsamkeit mit dem [Löwen](https://www.bibleserver.com/SLT/Offenbarung5%2C5), der das [Lamm](https://www.bibleserver.com/SLT/Offenbarung5%2C6) ist oder [der Armee Gottes](https://www.bibleserver.com/SLT/Offenbarung7%2C4-8), die die [Anbeter aus allen Nationen sind, die aus der Großen Trübsal kommen](https://www.bibleserver.com/SLT/Offenbarung7%2C17).
+Das Kapitel hat eine Gemeinsamkeit mit dem {{% bible val="Löwen" link="https://www.bibleserver.com/SLT/Offenbarung5%2C5" %}}, der das {{% bible val="Lamm" link="https://www.bibleserver.com/SLT/Offenbarung5%2C6" %}} ist oder {{% bible val="der Armee Gottes" link="https://www.bibleserver.com/SLT/Offenbarung7%2C4-8" %}}, die die {{% bible val="Anbeter aus allen Nationen sind, die aus der Großen Trübsal kommen" link="https://www.bibleserver.com/SLT/Offenbarung7%2C17" %}}.
 
-Hier [hört Johannes von der Braut Gottes](https://www.bibleserver.com/SLT/Offenbarung21%2C9), die er [als das Neue Jerusalem sieht](https://www.bibleserver.com/SLT/Offenbarung21%2C10), was zeigt, dass es sich nicht um eine wörtliche Beschreibung handelt (Frauen und Städte unterscheiden sich erheblich), sondern um eine symbolische Beschreibung und eine starke Betonung, dass wir unsere jüdischen Wurzeln nicht vernachlässigen dürfen.
+Hier {{% bible val="hört Johannes von der Braut Gottes" link="https://www.bibleserver.com/SLT/Offenbarung21%2C9" %}}, die er {{% bible val="als das Neue Jerusalem sieht" link="https://www.bibleserver.com/SLT/Offenbarung21%2C10" %}}, was zeigt, dass es sich nicht um eine wörtliche Beschreibung handelt (Frauen und Städte unterscheiden sich erheblich), sondern um eine symbolische Beschreibung und eine starke Betonung, dass wir unsere jüdischen Wurzeln nicht vernachlässigen dürfen.
 
 Der Abschnitt läßt sich wie folgt einteilen:
 
@@ -45,222 +45,222 @@ Der Abschnitt läßt sich wie folgt einteilen:
 ## Alles ist neu
 
 <a name="2da9"></a>
-“[Und ich sah einen neuen Himmel und eine neue Erde; denn der erste Himmel und die erste Erde waren vergangen, und das Meer gibt es nicht mehr.](https://www.bibleserver.com/SLT/Offenbarung21%2C1)”
+“{{% bible val="Und ich sah einen neuen Himmel und eine neue Erde; denn der erste Himmel und die erste Erde waren vergangen, und das Meer gibt es nicht mehr." link="https://www.bibleserver.com/SLT/Offenbarung21%2C1" %}}”
 
-“Neu” bezieht sich nicht nur auf etwas Neues, sondern beschreibt eine Qualität: [Das Erste ist vorübergehend, aber das Neue ist dauerhaft](https://www.bibleserver.com/SLT/Jesaja66%2C22).
+“Neu” bezieht sich nicht nur auf etwas Neues, sondern beschreibt eine Qualität: {{% bible val="Das Erste ist vorübergehend, aber das Neue ist dauerhaft" link="https://www.bibleserver.com/SLT/Jesaja66%2C22" %}}.
 
-Hier [werden sich viele der Verheißungen des Alten Testaments erfüllen](https://www.bibleserver.com/SLT/Jesaja65%2C17-25).
+Hier {{% bible val="werden sich viele der Verheißungen des Alten Testaments erfüllen" link="https://www.bibleserver.com/SLT/Jesaja65%2C17-25" %}}.
 
 ## Kein Meer mehr
 
 <a name="eee1"></a>
-Es wird gesagt, dass es [kein Meer mehr geben wird](https://www.bibleserver.com/SLT/Offenbarung21%2C1). Das Meer ist
+Es wird gesagt, dass es {{% bible val="kein Meer mehr geben wird" link="https://www.bibleserver.com/SLT/Offenbarung21%2C1" %}}. Das Meer ist
 
-- der Ort des Ursprungs des Bösen wie in der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung13%2C1) oder durch die Beschreibung der Meeresungeheuer [Leviathan](https://www.bibleserver.com/SLT/Psalm74%2C13-14) oder [Rahab](https://www.bibleserver.com/SLT/Jesaja51%2C9-10) oder durch die Personifizierung böser Könige als Meeresungeheuer wie der [Pharao](https://www.bibleserver.com/SLT/Hesekiel32%2C2), böse Könige im Allgemeinen oder das [Meer selbst als böses Medium](https://www.bibleserver.com/SLT/Psalm93%2C3-4).
-- der [Ort des Todes](https://www.bibleserver.com/SLT/Offenbarung20%2C13) zusammen mit dem Hades.
+- der Ort des Ursprungs des Bösen wie in der {{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung13%2C1" %}} oder durch die Beschreibung der Meeresungeheuer {{% bible val="Leviathan" link="https://www.bibleserver.com/SLT/Psalm74%2C13-14" %}} oder {{% bible val="Rahab" link="https://www.bibleserver.com/SLT/Jesaja51%2C9-10" %}} oder durch die Personifizierung böser Könige als Meeresungeheuer wie der {{% bible val="Pharao" link="https://www.bibleserver.com/SLT/Hesekiel32%2C2" %}}, böse Könige im Allgemeinen oder das {{% bible val="Meer selbst als böses Medium" link="https://www.bibleserver.com/SLT/Psalm93%2C3-4" %}}.
+- der {{% bible val="Ort des Todes" link="https://www.bibleserver.com/SLT/Offenbarung20%2C13" %}} zusammen mit dem Hades.
 
-Wenn es also kein Meer mehr gibt, dann gibt es auch keinen Ort, an dem das Böse wohnen und die Gläubigen unterdrücken kann. [Das Meer befindet sich zudem außerhalb der Stadt](https://www.bibleserver.com/SLT/Offenbarung20%2C14-15).
+Wenn es also kein Meer mehr gibt, dann gibt es auch keinen Ort, an dem das Böse wohnen und die Gläubigen unterdrücken kann. {{% bible val="Das Meer befindet sich zudem außerhalb der Stadt" link="https://www.bibleserver.com/SLT/Offenbarung20%2C14-15" %}}.
 
 ## Jerusalem, die Heilige Stadt
 
 <a name="a373"></a>
-“[Und ich, Johannes, sah die heilige Stadt, das neue Jerusalem, von Gott aus dem Himmel herabsteigen, zubereitet wie eine für ihren Mann geschmückte Braut.](https://www.bibleserver.com/SLT/Offenbarung21%2C2)”
+“{{% bible val="Und ich, Johannes, sah die heilige Stadt, das neue Jerusalem, von Gott aus dem Himmel herabsteigen, zubereitet wie eine für ihren Mann geschmückte Braut." link="https://www.bibleserver.com/SLT/Offenbarung21%2C2" %}}”
 
-Jerusalem ist die [schön gekleidete Stadt bei Jesaja](https://www.bibleserver.com/SLT/Jesaja52%2C1-10), deren [Bild weiterentwickelt wird](https://www.bibleserver.com/SLT/Jesaja61%2C10), die einen [neuen Namen bekommt](https://www.bibleserver.com/SLT/Jesaja62%2C1-2) und eine [innige Beziehung zu Gott hat — Gott freut sich über sie](https://www.bibleserver.com/SLT/Jesaja62%2C3-5).
+Jerusalem ist die {{% bible val="schön gekleidete Stadt bei Jesaja" link="https://www.bibleserver.com/SLT/Jesaja52%2C1-10" %}}, deren {{% bible val="Bild weiterentwickelt wird" link="https://www.bibleserver.com/SLT/Jesaja61%2C10" %}}, die einen {{% bible val="neuen Namen bekommt" link="https://www.bibleserver.com/SLT/Jesaja62%2C1-2" %}} und eine {{% bible val="innige Beziehung zu Gott hat — Gott freut sich über sie" link="https://www.bibleserver.com/SLT/Jesaja62%2C3-5" %}}.
 
 Dieser Gedanke wird im Neuen Testament aufgegriffen als
 
-- [Gott hat eine Stadt für die Gläubigen bereitet](https://www.bibleserver.com/SLT/Hebr%C3%A4er11%2C13-16)
-- [wir haben ein Bürgerrecht im Himmel](https://www.bibleserver.com/SLT/Philipper3%2C20)
-- [es gibt ein himmlisches Jerusalem](https://www.bibleserver.com/SLT/Hebr%C3%A4er12%2C22)
-- [Jerusalem ist frei](https://www.bibleserver.com/SLT/Galater4%2C26-31)
+- {{% bible val="Gott hat eine Stadt für die Gläubigen bereitet" link="https://www.bibleserver.com/SLT/Hebr%C3%A4er11%2C13-16" %}}
+- {{% bible val="wir haben ein Bürgerrecht im Himmel" link="https://www.bibleserver.com/SLT/Philipper3%2C20" %}}
+- {{% bible val="es gibt ein himmlisches Jerusalem" link="https://www.bibleserver.com/SLT/Hebr%C3%A4er12%2C22" %}}
+- {{% bible val="Jerusalem ist frei" link="https://www.bibleserver.com/SLT/Galater4%2C26-31" %}}
 
-Es gibt eine interessante Parallele zu [den Versen 10 und 11](https://www.bibleserver.com/SLT/Offenbarung21%2C10-11):
+Es gibt eine interessante Parallele zu {{% bible val="den Versen 10 und 11" link="https://www.bibleserver.com/SLT/Offenbarung21%2C10-11" %}}:
 
 Vers 2: das neue Jerusalem, das von Gott aus dem Himmel herabkommt, vorbereitet wie eine schön gekleidete Braut für ihren Mann.
 
 Vers 10–11: Heilige Stadt, Jerusalem, von Gott aus dem Himmel herabgekommen. Sie erstrahlte in der Herrlichkeit Gottes.
 
-Das schöne Kleid der Braut ist die Herrlichkeit Gottes. Und [Gottes Herrlichkeit ist seine Barmherzigkeit und sein Erbarmen](https://www.bibleserver.com/SLT/2.Mose33%2C17-23), die auch die Kirche widerspiegeln soll.
+Das schöne Kleid der Braut ist die Herrlichkeit Gottes. Und {{% bible val="Gottes Herrlichkeit ist seine Barmherzigkeit und sein Erbarmen" link="https://www.bibleserver.com/SLT/2.Mose33%2C17-23" %}}, die auch die Kirche widerspiegeln soll.
 
 ## Gott lebt mit seinem Volk
 
 <a name="f42c"></a>
-”[Und ich hörte eine laute Stimme aus dem Himmel sagen: Siehe, das Zelt Gottes bei den Menschen! Und er wird bei ihnen wohnen; und sie werden seine Völker sein, und Gott selbst wird bei ihnen sein, ihr Gott.](https://www.bibleserver.com/SLT/Offenbarung21%2C3)”
+”{{% bible val="Und ich hörte eine laute Stimme aus dem Himmel sagen: Siehe, das Zelt Gottes bei den Menschen! Und er wird bei ihnen wohnen; und sie werden seine Völker sein, und Gott selbst wird bei ihnen sein, ihr Gott." link="https://www.bibleserver.com/SLT/Offenbarung21%2C3" %}}”
 
-Die laute Stimme war schon beim [Gericht über das Reich des Satans](https://www.bibleserver.com/SLT/Offenbarung16%2C17) und beim[ Gericht über Babel](https://www.bibleserver.com/SLT/Offenbarung19%2C5) zu hören.
+Die laute Stimme war schon beim {{% bible val="Gericht über das Reich des Satans" link="https://www.bibleserver.com/SLT/Offenbarung16%2C17" %}} und beim{{% bible val=" Gericht über Babel" link="https://www.bibleserver.com/SLT/Offenbarung19%2C5" %}} zu hören.
 
-Dass Gott mit seinem Volk lebt, ist eine [Verheißung im Pentateuch](https://www.bibleserver.com/SLT/3.Mose26%2C11-12), die in [Hesekiel](https://www.bibleserver.com/SLT/Hesekiel37%2C27) aufgegriffen wird, als [er in den Tempel zurückkehrt](https://www.bibleserver.com/SLT/Hesekiel43%2C7) und sogar die [Nationen einschließt](https://www.bibleserver.com/SLT/Sacharja2%2C10-11). Dies ist auch ein Thema im [Neuen Testament](https://www.bibleserver.com/SLT/2.Korinther6%2C16) und in der Offenbarung.
+Dass Gott mit seinem Volk lebt, ist eine {{% bible val="Verheißung im Pentateuch" link="https://www.bibleserver.com/SLT/3.Mose26%2C11-12" %}}, die in {{% bible val="Hesekiel" link="https://www.bibleserver.com/SLT/Hesekiel37%2C27" %}} aufgegriffen wird, als {{% bible val="er in den Tempel zurückkehrt" link="https://www.bibleserver.com/SLT/Hesekiel43%2C7" %}} und sogar die {{% bible val="Nationen einschließt" link="https://www.bibleserver.com/SLT/Sacharja2%2C10-11" %}}. Dies ist auch ein Thema im {{% bible val="Neuen Testament" link="https://www.bibleserver.com/SLT/2.Korinther6%2C16" %}} und in der Offenbarung.
 
 ## Wischt alle Tränen ab
 
 <a name="a74c"></a>
-“[Und Gott wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein, weder Leid noch Geschrei noch Schmerz wird mehr sein; denn das Erste ist vergangen.](https://www.bibleserver.com/SLT/Offenbarung21%2C4)”
+“{{% bible val="Und Gott wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein, weder Leid noch Geschrei noch Schmerz wird mehr sein; denn das Erste ist vergangen." link="https://www.bibleserver.com/SLT/Offenbarung21%2C4" %}}”
 
-Dies ist eine weitere [Verheißung aus Jesaja, wo Tränen und Tod fliehen](https://www.bibleserver.com/SLT/Jesaja25%2C8), aber auch [Weinen](https://www.bibleserver.com/SLT/Jesaja35%2C10) und [Seufzen](https://www.bibleserver.com/SLT/Jesaja51%2C11).
+Dies ist eine weitere {{% bible val="Verheißung aus Jesaja, wo Tränen und Tod fliehen" link="https://www.bibleserver.com/SLT/Jesaja25%2C8" %}}, aber auch {{% bible val="Weinen" link="https://www.bibleserver.com/SLT/Jesaja35%2C10" %}} und {{% bible val="Seufzen" link="https://www.bibleserver.com/SLT/Jesaja51%2C11" %}}.
 
-Das [erste wird mit all seiner Trauer verschwinden](https://www.bibleserver.com/SLT/Jesaja65%2C17-20), und [wir sollten mit dieser Vision nicht zurück, sondern nach vorne schauen](https://www.bibleserver.com/SLT/Jesaja43%2C18).
+Das {{% bible val="erste wird mit all seiner Trauer verschwinden" link="https://www.bibleserver.com/SLT/Jesaja65%2C17-20" %}}, und {{% bible val="wir sollten mit dieser Vision nicht zurück, sondern nach vorne schauen" link="https://www.bibleserver.com/SLT/Jesaja43%2C18" %}}.
 
 ## Alle Dinge werden neu
 
 <a name="d592"></a>
-“[Und der auf dem Thron saß, sprach: Siehe, ich mache alles neu! Und er sprach zu mir: Schreibe; denn diese Worte sind wahrhaftig und gewiss!](https://www.bibleserver.com/SLT/Offenbarung21%2C5)”
+“{{% bible val="Und der auf dem Thron saß, sprach: Siehe, ich mache alles neu! Und er sprach zu mir: Schreibe; denn diese Worte sind wahrhaftig und gewiss!" link="https://www.bibleserver.com/SLT/Offenbarung21%2C5" %}}”
 
-“[Alles ist neu](https://www.bibleserver.com/SLT/Jesaja43%2C18-19)” ist in[ Jesus erfüllt, der mit uns die neue Schöpfung begonnen hat](https://www.bibleserver.com/SLT/2.Korinther5%2C17).
+“{{% bible val="Alles ist neu" link="https://www.bibleserver.com/SLT/Jesaja43%2C18-19" %}}” ist in{{% bible val=" Jesus erfüllt, der mit uns die neue Schöpfung begonnen hat" link="https://www.bibleserver.com/SLT/2.Korinther5%2C17" %}}.
 
 ## Lebendiges Wasser
 
 <a name="8a3f"></a>
-“[Und er sprach zu mir: Es ist geschehen! Ich bin das A und das O, der Anfang und das Ende. Ich will dem Dürstenden geben aus dem Quell des Wassers des Lebens umsonst!](https://www.bibleserver.com/SLT/Offenbarung21%2C6)”
+“{{% bible val="Und er sprach zu mir: Es ist geschehen! Ich bin das A und das O, der Anfang und das Ende. Ich will dem Dürstenden geben aus dem Quell des Wassers des Lebens umsonst!" link="https://www.bibleserver.com/SLT/Offenbarung21%2C6" %}}”
 
-Dies ist die Erfüllung von [Jesaja](https://www.bibleserver.com/SLT/Jesaja49%2C10), wo Gott umsonst zu trinken gibt. Der Begriff “[umsonst](https://biblehub.com/greek/1432.htm)” wird bei [Johannes](https://www.bibleserver.com/SLT/Johannes15%2C25), [Matthäus](https://www.bibleserver.com/SLT/Matth%C3%A4us10%2C8), im [Korintherbrief](https://www.bibleserver.com/SLT/2.Korinther11%2C7), [Galaterbrief](https://www.bibleserver.com/SLT/Galater2%2C21), [Römerbrief](https://www.bibleserver.com/SLT/R%C3%B6mer3%2C24) und [Thessalonicherbrief](https://www.bibleserver.com/SLT/2.Thessalonicher3%2C8) verwendet und sehr oft mit “freie Gabe” gleichgesetzt.
+Dies ist die Erfüllung von {{% bible val="Jesaja" link="https://www.bibleserver.com/SLT/Jesaja49%2C10" %}}, wo Gott umsonst zu trinken gibt. Der Begriff “[umsonst](https://biblehub.com/greek/1432.htm)” wird bei {{% bible val="Johannes" link="https://www.bibleserver.com/SLT/Johannes15%2C25" %}}, {{% bible val="Matthäus" link="https://www.bibleserver.com/SLT/Matth%C3%A4us10%2C8" %}}, im {{% bible val="Korintherbrief" link="https://www.bibleserver.com/SLT/2.Korinther11%2C7" %}}, {{% bible val="Galaterbrief" link="https://www.bibleserver.com/SLT/Galater2%2C21" %}}, {{% bible val="Römerbrief" link="https://www.bibleserver.com/SLT/R%C3%B6mer3%2C24" %}} und {{% bible val="Thessalonicherbrief" link="https://www.bibleserver.com/SLT/2.Thessalonicher3%2C8" %}} verwendet und sehr oft mit “freie Gabe” gleichgesetzt.
 
-Das lebendige Wasser hat seine [Quelle in Gott](https://www.bibleserver.com/SLT/Jeremia2%2C13), er [gibt reichlich zu trinken](https://www.bibleserver.com/SLT/Psalm36%2C8-9), sogar [überfließend](https://www.bibleserver.com/SLT/Joel3%2C5) und natürlich erfüllt in [Jesus mit der Frau am Brunnen ](https://www.bibleserver.com/SLT/Johannes4%2C10)und als [eine Verheißung für alle, die an ihn glauben](https://www.bibleserver.com/SLT/Johannes7%2C38).
+Das lebendige Wasser hat seine {{% bible val="Quelle in Gott" link="https://www.bibleserver.com/SLT/Jeremia2%2C13" %}}, er {{% bible val="gibt reichlich zu trinken" link="https://www.bibleserver.com/SLT/Psalm36%2C8-9" %}}, sogar {{% bible val="überfließend" link="https://www.bibleserver.com/SLT/Joel3%2C5" %}} und natürlich erfüllt in {{% bible val="Jesus mit der Frau am Brunnen " link="https://www.bibleserver.com/SLT/Johannes4%2C10" %}}und als {{% bible val="eine Verheißung für alle, die an ihn glauben" link="https://www.bibleserver.com/SLT/Johannes7%2C38" %}}.
 
 ## Die Überwinder
 
 <a name="eb5e"></a>
-“[Wer überwindet, der wird alles erben, und ich werde sein Gott sein, und er wird mein Sohn sein.](https://www.bibleserver.com/SLT/Offenbarung21%2C7)”
+“{{% bible val="Wer überwindet, der wird alles erben, und ich werde sein Gott sein, und er wird mein Sohn sein." link="https://www.bibleserver.com/SLT/Offenbarung21%2C7" %}}”
 
-[Jesaja verbindet den Bund mit Gott mit dem Wasser zum Trinken.](https://www.bibleserver.com/SLT/Jesaja55%2C1-3)
+{{% bible val="Jesaja verbindet den Bund mit Gott mit dem Wasser zum Trinken." link="https://www.bibleserver.com/SLT/Jesaja55%2C1-3" %}}
 
 Die Gemeinden, die in Kapitel 2 und 3 überwunden haben, sehen hier die Verheißungen
 
-- [Ephesus](https://www.bibleserver.com/SLT/Offenbarung2%2C7) ist verheißen, [vom Baum des Lebens zu essen](https://www.bibleserver.com/SLT/Offenbarung22%2C2).
-- [Philadelphia](https://www.bibleserver.com/SLT/Offenbarung3%2C12) ist verheißen, eine [Säule im neuen Tempel zu sein](https://www.bibleserver.com/SLT/Offenbarung21%2C22-24), [Teil des neuen Jerusalem](https://www.bibleserver.com/SLT/Offenbarung21%2C2) zu sein, und dass [Gottes Name auf sie geschrieben](https://www.bibleserver.com/SLT/Offenbarung22%2C4) wird.
-- [Sardes](https://www.bibleserver.com/SLT/Offenbarung3%2C5) ist verheißen, [im Buch des Lebens zu stehen](https://www.bibleserver.com/SLT/Offenbarung21%2C27) und [weiße Kleider zu haben](https://www.bibleserver.com/SLT/Offenbarung21%2C2).
-- [Pergamon](https://www.bibleserver.com/SLT/Offenbarung2%2C17) und [Thyatira](https://www.bibleserver.com/SLT/Offenbarung2%2C28) sind verheißen, einen [hellen Stein](https://www.bibleserver.com/SLT/Offenbarung21%2C11)([e](https://www.bibleserver.com/SLT/Offenbarung21%2C18-21)) zu haben.
-- [Thyatira](https://www.bibleserver.com/SLT/Offenbarung2%2C26-27) und [Laodizea](https://www.bibleserver.com/SLT/Offenbarung3%2C21) sind verheißen, mit [Jesus zu herrschen](https://www.bibleserver.com/SLT/Offenbarung22%2C5).
-- [Smyrna](https://www.bibleserver.com/SLT/Offenbarung2%2C11) ist verheißen, vom [zweiten Tod ausgeschlossen zu werden](https://www.bibleserver.com/SLT/Offenbarung21%2C7-8).
+- {{% bible val="Ephesus" link="https://www.bibleserver.com/SLT/Offenbarung2%2C7" %}} ist verheißen, {{% bible val="vom Baum des Lebens zu essen" link="https://www.bibleserver.com/SLT/Offenbarung22%2C2" %}}.
+- {{% bible val="Philadelphia" link="https://www.bibleserver.com/SLT/Offenbarung3%2C12" %}} ist verheißen, eine {{% bible val="Säule im neuen Tempel zu sein" link="https://www.bibleserver.com/SLT/Offenbarung21%2C22-24" %}}, {{% bible val="Teil des neuen Jerusalem" link="https://www.bibleserver.com/SLT/Offenbarung21%2C2" %}} zu sein, und dass {{% bible val="Gottes Name auf sie geschrieben" link="https://www.bibleserver.com/SLT/Offenbarung22%2C4" %}} wird.
+- {{% bible val="Sardes" link="https://www.bibleserver.com/SLT/Offenbarung3%2C5" %}} ist verheißen, {{% bible val="im Buch des Lebens zu stehen" link="https://www.bibleserver.com/SLT/Offenbarung21%2C27" %}} und {{% bible val="weiße Kleider zu haben" link="https://www.bibleserver.com/SLT/Offenbarung21%2C2" %}}.
+- {{% bible val="Pergamon" link="https://www.bibleserver.com/SLT/Offenbarung2%2C17" %}} und {{% bible val="Thyatira" link="https://www.bibleserver.com/SLT/Offenbarung2%2C28" %}} sind verheißen, einen {{% bible val="hellen Stein" link="https://www.bibleserver.com/SLT/Offenbarung21%2C11" %}}({{% bible val="e" link="https://www.bibleserver.com/SLT/Offenbarung21%2C18-21" %}}) zu haben.
+- {{% bible val="Thyatira" link="https://www.bibleserver.com/SLT/Offenbarung2%2C26-27" %}} und {{% bible val="Laodizea" link="https://www.bibleserver.com/SLT/Offenbarung3%2C21" %}} sind verheißen, mit {{% bible val="Jesus zu herrschen" link="https://www.bibleserver.com/SLT/Offenbarung22%2C5" %}}.
+- {{% bible val="Smyrna" link="https://www.bibleserver.com/SLT/Offenbarung2%2C11" %}} ist verheißen, vom {{% bible val="zweiten Tod ausgeschlossen zu werden" link="https://www.bibleserver.com/SLT/Offenbarung21%2C7-8" %}}.
 
 ## Bereit für den zweiten Tod
 
 <a name="e855"></a>
-“[Die Feiglinge aber und die Ungläubigen und mit Gräueln Befleckten und Mörder und Unzüchtigen und Zauberer und Götzendiener und alle Lügner — ihr Teil wird in dem See sein, der von Feuer und Schwefel brennt; das ist der zweite Tod.](https://www.bibleserver.com/SLT/Offenbarung21%2C8)”
+“{{% bible val="Die Feiglinge aber und die Ungläubigen und mit Gräueln Befleckten und Mörder und Unzüchtigen und Zauberer und Götzendiener und alle Lügner — ihr Teil wird in dem See sein, der von Feuer und Schwefel brennt; das ist der zweite Tod." link="https://www.bibleserver.com/SLT/Offenbarung21%2C8" %}}”
 
-Die Liste dieser Menschen ist das Gegenstück zu den [Überwindern](https://www.bibleserver.com/SLT/Offenbarung21%2C7).
+Die Liste dieser Menschen ist das Gegenstück zu den {{% bible val="Überwindern" link="https://www.bibleserver.com/SLT/Offenbarung21%2C7" %}}.
 
-[Feiglinge](https://biblehub.com/greek/1169.htm) sind diejenigen, die [aus Furcht nicht handeln](https://www.bibleserver.com/SLT/Matth%C3%A4us8%2C26) und das Gegenstück zu denen sind, die [Frieden haben](https://www.bibleserver.com/SLT/Johannes14%2C27-29), [Gott vertrauen](https://www.bibleserver.com/SLT/Johannes14%2C1) und [wissen, dass Gott sie niemals verlässt](https://www.bibleserver.com/SLT/Johannes16%2C31-33).
+[Feiglinge](https://biblehub.com/greek/1169.htm) sind diejenigen, die {{% bible val="aus Furcht nicht handeln" link="https://www.bibleserver.com/SLT/Matth%C3%A4us8%2C26" %}} und das Gegenstück zu denen sind, die {{% bible val="Frieden haben" link="https://www.bibleserver.com/SLT/Johannes14%2C27-29" %}}, {{% bible val="Gott vertrauen" link="https://www.bibleserver.com/SLT/Johannes14%2C1" %}} und {{% bible val="wissen, dass Gott sie niemals verlässt" link="https://www.bibleserver.com/SLT/Johannes16%2C31-33" %}}.
 
-“Mörder, Unzüchtige, Zauberer und Götzendiener” können Ungläubige oder Menschen in der Kirche sein, die Kompromisse eingehen wie in [Pergamon](https://www.bibleserver.com/SLT/Offenbarung2%2C14) und [Thyatira](https://www.bibleserver.com/SLT/Offenbarung2%2C20-21).
+“Mörder, Unzüchtige, Zauberer und Götzendiener” können Ungläubige oder Menschen in der Kirche sein, die Kompromisse eingehen wie in {{% bible val="Pergamon" link="https://www.bibleserver.com/SLT/Offenbarung2%2C14" %}} und {{% bible val="Thyatira" link="https://www.bibleserver.com/SLT/Offenbarung2%2C20-21" %}}.
 
 Sie alle sind mit dem Götzendienst verbunden:
 
-- Mörder wie die, die [Kinder opfern](https://www.bibleserver.com/SLT/Psalm106%2C36-38) oder [Gläubige töten](https://www.bibleserver.com/SLT/Offenbarung13%2C15)
+- Mörder wie die, die {{% bible val="Kinder opfern" link="https://www.bibleserver.com/SLT/Psalm106%2C36-38" %}} oder {{% bible val="Gläubige töten" link="https://www.bibleserver.com/SLT/Offenbarung13%2C15" %}}
 - sexuelle Unmoral steht in Verbindung mit Tempelprostitution
-- magische Künste praktizieren die, die [Götzendienst ](https://www.bibleserver.com/SLT/5.Mose18%2C9-11)treiben, also auch [Isebel](https://www.bibleserver.com/SLT/2.K%C3%B6nige9%2C22)
+- magische Künste praktizieren die, die {{% bible val="Götzendienst " link="https://www.bibleserver.com/SLT/5.Mose18%2C9-11" %}}treiben, also auch {{% bible val="Isebel" link="https://www.bibleserver.com/SLT/2.K%C3%B6nige9%2C22" %}}
 
-Lügner haben den Glauben verraten, weil [sie sich Apostel nennen](https://www.bibleserver.com/SLT/Offenbarung2%2C2), auf [Satans Weise handeln](https://www.bibleserver.com/SLT/Offenbarung3%2C9), [falsches Zeugnis ablegen](https://www.bibleserver.com/SLT/1.Johannes2%2C4), dem [Wort Jesu nicht gehorchen](https://www.bibleserver.com/SLT/1.Johannes2%2C4), [leugnen, dass Jesus der Herr ist](https://www.bibleserver.com/SLT/1.Johannes2%2C22), [ihre Brüder oder Schwestern hassen](https://www.bibleserver.com/SLT/1.Johannes4%2C20) und [nicht glauben, dass wir in Jesus ewiges Leben haben](https://www.bibleserver.com/SLT/1.Johannes5%2C10).
+Lügner haben den Glauben verraten, weil {{% bible val="sie sich Apostel nennen" link="https://www.bibleserver.com/SLT/Offenbarung2%2C2" %}}, auf {{% bible val="Satans Weise handeln" link="https://www.bibleserver.com/SLT/Offenbarung3%2C9" %}}, {{% bible val="falsches Zeugnis ablegen" link="https://www.bibleserver.com/SLT/1.Johannes2%2C4" %}}, dem {{% bible val="Wort Jesu nicht gehorchen" link="https://www.bibleserver.com/SLT/1.Johannes2%2C4" %}}, {{% bible val="leugnen, dass Jesus der Herr ist" link="https://www.bibleserver.com/SLT/1.Johannes2%2C22" %}}, {{% bible val="ihre Brüder oder Schwestern hassen" link="https://www.bibleserver.com/SLT/1.Johannes4%2C20" %}} und {{% bible val="nicht glauben, dass wir in Jesus ewiges Leben haben" link="https://www.bibleserver.com/SLT/1.Johannes5%2C10" %}}.
 
-Die Liste wird [ganz am Ende](https://www.bibleserver.com/SLT/Offenbarung22%2C15) und in [einer kürzeren Version am Ende des Kapitels](https://www.bibleserver.com/SLT/Offenbarung21%2C27) wiederholt, endet aber in allen Fällen mit “Lügner”, denn [es ist wichtig, dass wir mit unseren Worten und Taten konsequent sind](https://www.bibleserver.com/SLT/Titus1%2C16).
+Die Liste wird {{% bible val="ganz am Ende" link="https://www.bibleserver.com/SLT/Offenbarung22%2C15" %}} und in {{% bible val="einer kürzeren Version am Ende des Kapitels" link="https://www.bibleserver.com/SLT/Offenbarung21%2C27" %}} wiederholt, endet aber in allen Fällen mit “Lügner”, denn {{% bible val="es ist wichtig, dass wir mit unseren Worten und Taten konsequent sind" link="https://www.bibleserver.com/SLT/Titus1%2C16" %}}.
 
-Der [ultimative Lügner ist Satan](https://www.bibleserver.com/SLT/Johannes8%2C44), und wir wollen uns sehr von ihm unterscheiden.
+Der {{% bible val="ultimative Lügner ist Satan" link="https://www.bibleserver.com/SLT/Johannes8%2C44" %}}, und wir wollen uns sehr von ihm unterscheiden.
 
 ## Details des Neuen Jerusalems
 
 <a name="9aac"></a>
 
-## [Der erste Eindruck](https://www.bibleserver.com/SLT/Offenbarung21%2C9-14)
+## {{% bible val="Der erste Eindruck" link="https://www.bibleserver.com/SLT/Offenbarung21%2C9-14" %}}
 
 <a name="c99e"></a>
-Das neue Jerusalem ist das Gegenstück zu Babel, wenn wir den [größeren Zusammenhang betrachten](/content/1000y/expl/the-thousand-year-kingdom). Das [neue Jerusalem stellt eine Frau (die Braut) dar](https://www.bibleserver.com/SLT/Offenbarung21%2C2), so wie Babel eine Frau (die Hure) darstellt, was auch in [Jesaja](https://www.bibleserver.com/SLT/Jesaja62%2C1-5) zum Ausdruck kommt.
+Das neue Jerusalem ist das Gegenstück zu Babel, wenn wir den [größeren Zusammenhang betrachten](/content/1000y/expl/the-thousand-year-kingdom). Das {{% bible val="neue Jerusalem stellt eine Frau (die Braut) dar" link="https://www.bibleserver.com/SLT/Offenbarung21%2C2" %}}, so wie Babel eine Frau (die Hure) darstellt, was auch in {{% bible val="Jesaja" link="https://www.bibleserver.com/SLT/Jesaja62%2C1-5" %}} zum Ausdruck kommt.
 
 - Babel ist das Wirtschaftssystem, das mit der Macht des Herrschers verteilt wird, und Unmoral wird mit Götzendienst (Untreue) betrieben, aber das Volk Gottes ist ihm treu.
 - Babel verursacht Leid, während Jerusalem das Leid beseitigt
 - Babel zerstört sich selbst und Jerusalem bleibt für immer
 - Babel wird reich durch Ausbeutung und Verfolgung, Jerusalem aber ist reich als Gottes Geschenk
 
-Die zwölf Tore beziehen sich auf die 12 Stämme und die 12 Grundsteine auf die 12 Apostel. Die [2 mal 12 spiegeln die ewige Anbetung im Himmel wider](https://www.bibleserver.com/SLT/Offenbarung4%2C4), sind aber auch eine Mahnung, nach Versöhnung zwischen Juden und Nicht-Juden zu suchen, [deren Konflikt im ganzen Buch beschrieben wird](/background/israel/expl/israel-and-the-church).
+Die zwölf Tore beziehen sich auf die 12 Stämme und die 12 Grundsteine auf die 12 Apostel. Die {{% bible val="2 mal 12 spiegeln die ewige Anbetung im Himmel wider" link="https://www.bibleserver.com/SLT/Offenbarung4%2C4" %}}, sind aber auch eine Mahnung, nach Versöhnung zwischen Juden und Nicht-Juden zu suchen, [deren Konflikt im ganzen Buch beschrieben wird](/background/israel/expl/israel-and-the-church).
 
-Das Seltsame ist, dass die Apostel das Fundament der Stämme sind (Kirchenfundament für Israel), aber [das macht Sinn, wenn man bedenkt, dass Jesus die Erfüllung Israels ist, die von der Kirche vollbracht wird](https://www.bibleserver.com/SLT/Epheser2%2C20). [Juda wird in dem Buch auch als der erste der Stämme aufgeführt, was Jesus widerspiegelt.](https://www.bibleserver.com/SLT/Offenbarung7%2C4-8)
+Das Seltsame ist, dass die Apostel das Fundament der Stämme sind (Kirchenfundament für Israel), aber {{% bible val="das macht Sinn, wenn man bedenkt, dass Jesus die Erfüllung Israels ist, die von der Kirche vollbracht wird" link="https://www.bibleserver.com/SLT/Epheser2%2C20" %}}. {{% bible val="Juda wird in dem Buch auch als der erste der Stämme aufgeführt, was Jesus widerspiegelt." link="https://www.bibleserver.com/SLT/Offenbarung7%2C4-8" %}}
 
-## [Die Maße der Stadt](https://www.bibleserver.com/SLT/Offenbarung21%2C15-17)
+## {{% bible val="Die Maße der Stadt" link="https://www.bibleserver.com/SLT/Offenbarung21%2C15-17" %}}
 
 <a name="bf4e"></a>
-Die Vermessung der Stadt basiert auf [Hesekiel](https://www.bibleserver.com/SLT/Hesekiel40%2C3-5), die die Stadt als [Sicherheit](https://www.bibleserver.com/SLT/5.Mose3%2C5) gegen [zerstörerische Kräfte](https://www.bibleserver.com/SLT/Offenbarung21%2C27) zeigt und einen Kontrast zum alten Jerusalem darstellt, dessen Mauern zerstört wurden.
+Die Vermessung der Stadt basiert auf {{% bible val="Hesekiel" link="https://www.bibleserver.com/SLT/Hesekiel40%2C3-5" %}}, die die Stadt als {{% bible val="Sicherheit" link="https://www.bibleserver.com/SLT/5.Mose3%2C5" %}} gegen {{% bible val="zerstörerische Kräfte" link="https://www.bibleserver.com/SLT/Offenbarung21%2C27" %}} zeigt und einen Kontrast zum alten Jerusalem darstellt, dessen Mauern zerstört wurden.
 
-In Hesekiel wird der Tempel [als quadratisch gemessen](https://www.bibleserver.com/SLT/Hesekiel45%2C2-3), während [die Stadt eine andere Form hat, aber der Tempel in der Mitte liegt](https://www.bibleserver.com/SLT/Hesekiel48%2C8-13).
+In Hesekiel wird der Tempel {{% bible val="als quadratisch gemessen" link="https://www.bibleserver.com/SLT/Hesekiel45%2C2-3" %}}, während {{% bible val="die Stadt eine andere Form hat, aber der Tempel in der Mitte liegt" link="https://www.bibleserver.com/SLT/Hesekiel48%2C8-13" %}}.
 
-In Sacharja misst Gott die [Stadt](https://www.bibleserver.com/SLT/Sacharja2%2C2), so dass die [Menschen Zuflucht finden](https://www.bibleserver.com/SLT/Sacharja2%2C6), weil [Gott sich wieder über Jerusalem erbarmt hat](https://www.bibleserver.com/SLT/Sacharja1%2C16).
+In Sacharja misst Gott die {{% bible val="Stadt" link="https://www.bibleserver.com/SLT/Sacharja2%2C2" %}}, so dass die {{% bible val="Menschen Zuflucht finden" link="https://www.bibleserver.com/SLT/Sacharja2%2C6" %}}, weil {{% bible val="Gott sich wieder über Jerusalem erbarmt hat" link="https://www.bibleserver.com/SLT/Sacharja1%2C16" %}}.
 
 Wie Sie sehen, ist ein Großteil der Sprache in diesem Kapitel der Beschreibung des Tempels entnommen, insbesondere aus den letzten 9 Kapiteln von Hesekiel.
 
-Aber [es wird keinen Tempel geben](https://www.bibleserver.com/SLT/Offenbarung21%2C22).
+Aber {{% bible val="es wird keinen Tempel geben" link="https://www.bibleserver.com/SLT/Offenbarung21%2C22" %}}.
 
-Wenn du genauer hinsiehst, wirst du die seltsame Form der Stadt sehen, die ein [Kubus](https://www.bibleserver.com/SLT/Offenbarung21%2C16) ist. Wenn du im Alten Testament nachsiehst, wirst du nur ein Objekt mit dieser Form finden: Das [Allerheiligste](https://www.bibleserver.com/SLT/2.Chronik3%2C8). Warum ist das so?
+Wenn du genauer hinsiehst, wirst du die seltsame Form der Stadt sehen, die ein {{% bible val="Kubus" link="https://www.bibleserver.com/SLT/Offenbarung21%2C16" %}} ist. Wenn du im Alten Testament nachsiehst, wirst du nur ein Objekt mit dieser Form finden: Das {{% bible val="Allerheiligste" link="https://www.bibleserver.com/SLT/2.Chronik3%2C8" %}}. Warum ist das so?
 
 Weil das ein Problem des Tempels war: Gott befand sich im Allerheiligsten, und je weiter man davon entfernt war, desto weiter war man von Gott entfernt.
 
-Jetzt ist jeder Gott am nächsten. Aber nicht nur das. [Alle Ungläubigen befinden sich außerhalb der Stadt](https://www.bibleserver.com/SLT/Offenbarung22%2C14-15), also außerhalb des Allerheiligsten, was bedeutet: Man ist entweder ganz drinnen oder ganz draußen.
+Jetzt ist jeder Gott am nächsten. Aber nicht nur das. {{% bible val="Alle Ungläubigen befinden sich außerhalb der Stadt" link="https://www.bibleserver.com/SLT/Offenbarung22%2C14-15" %}}, also außerhalb des Allerheiligsten, was bedeutet: Man ist entweder ganz drinnen oder ganz draußen.
 
 Ein weiterer Aspekt ist, dass die Größe der Stadt in etwa der Größe der hellenistischen Welt (Römisches Reich) zu dieser Zeit entspricht, so dass es Platz für jeden gibt, der bereit ist, hineinzugehen.
 
-## [Das Material der Stadt](https://www.bibleserver.com/SLT/Offenbarung21%2C18-21)
+## {{% bible val="Das Material der Stadt" link="https://www.bibleserver.com/SLT/Offenbarung21%2C18-21" %}}
 
 <a name="aef1"></a>
-Das Material erinnert an die [Wiederherstellung Jerusalems nach ihrem Leiden](https://www.bibleserver.com/SLT/Jesaja54). Der Hinweis auf das [Gold spiegelt Gottes Herrlichkeit wider](https://www.bibleserver.com/SLT/1.K%C3%B6nige6%2C20-22) (alle Steine sind wie [Jaspis](https://www.bibleserver.com/SLT/Offenbarung21%2C11)).
+Das Material erinnert an die {{% bible val="Wiederherstellung Jerusalems nach ihrem Leiden" link="https://www.bibleserver.com/SLT/Jesaja54" %}}. Der Hinweis auf das {{% bible val="Gold spiegelt Gottes Herrlichkeit wider" link="https://www.bibleserver.com/SLT/1.K%C3%B6nige6%2C20-22" %}} (alle Steine sind wie {{% bible val="Jaspis" link="https://www.bibleserver.com/SLT/Offenbarung21%2C11" %}}).
 
-Die 12 Steine spiegeln das [Bruststück des Hohepriesters](https://www.bibleserver.com/SLT/2.Mose28%2C17-20) wider (das die [Lose enthält, um den Willen Gottes zu erbitten](https://www.bibleserver.com/SLT/2.Mose28%2C30) und [quadratisch](https://www.bibleserver.com/SLT/2.Mose28%2C16) ist). [Jeder Stein steht für einen der Stämme Israels](https://www.bibleserver.com/SLT/2.Mose28%2C21). Diese [stellen aber jetzt die 12 Apostel dar](https://www.bibleserver.com/SLT/Offenbarung21%2C14). Wir werden auch als [lebendige Steine im Haus Gottes bezeichnet](https://www.bibleserver.com/SLT/1.Petrus2%2C5).
+Die 12 Steine spiegeln das {{% bible val="Bruststück des Hohepriesters" link="https://www.bibleserver.com/SLT/2.Mose28%2C17-20" %}} wider (das die {{% bible val="Lose enthält, um den Willen Gottes zu erbitten" link="https://www.bibleserver.com/SLT/2.Mose28%2C30" %}} und {{% bible val="quadratisch" link="https://www.bibleserver.com/SLT/2.Mose28%2C16" %}} ist). {{% bible val="Jeder Stein steht für einen der Stämme Israels" link="https://www.bibleserver.com/SLT/2.Mose28%2C21" %}}. Diese {{% bible val="stellen aber jetzt die 12 Apostel dar" link="https://www.bibleserver.com/SLT/Offenbarung21%2C14" %}}. Wir werden auch als {{% bible val="lebendige Steine im Haus Gottes bezeichnet" link="https://www.bibleserver.com/SLT/1.Petrus2%2C5" %}}.
 
-Interessant ist, dass auch [der Tempel Salomos mit vier Reihen von Steinen ](https://www.bibleserver.com/SLT/1.K%C3%B6nige7%2C9-12)genau wie das [Bruststück des Priesters](https://www.bibleserver.com/SLT/2.Mose28%2C17) strukturiert ist.
+Interessant ist, dass auch {{% bible val="der Tempel Salomos mit vier Reihen von Steinen " link="https://www.bibleserver.com/SLT/1.K%C3%B6nige7%2C9-12" %}}genau wie das {{% bible val="Bruststück des Priesters" link="https://www.bibleserver.com/SLT/2.Mose28%2C17" %}} strukturiert ist.
 
 Unsere Übersetzung sagt, dass “das erste Fundament mit Jaspis verziert ist”, [aber eine bessere Übersetzung ist “das erste Fundament IST Jaspis”](https://biblehub.com/interlinear/revelation/21-19.htm).
 
-Die Erwähnung der [Straße im Neuen Jerusalem](https://www.bibleserver.com/SLT/Offenbarung21%2C21) erinnert an [die beiden Zeugen, deren Leichnam bloßgestellt wurde](https://www.bibleserver.com/SLT/Offenbarung11%2C8), aber jetzt ist die Straße ihnen zu Ehren. Unsere frühere Schande wird durch ewige Herrlichkeit ersetzt werden.
+Die Erwähnung der {{% bible val="Straße im Neuen Jerusalem" link="https://www.bibleserver.com/SLT/Offenbarung21%2C21" %}} erinnert an {{% bible val="die beiden Zeugen, deren Leichnam bloßgestellt wurde" link="https://www.bibleserver.com/SLT/Offenbarung11%2C8" %}}, aber jetzt ist die Straße ihnen zu Ehren. Unsere frühere Schande wird durch ewige Herrlichkeit ersetzt werden.
 
-## [Die internen Features](https://www.bibleserver.com/SLT/Offenbarung21%2C22-27)
+## {{% bible val="Die internen Features" link="https://www.bibleserver.com/SLT/Offenbarung21%2C22-27" %}}
 
 <a name="284a"></a>
-Die Aussage, dass [die Stadt weder Sonne noch Mond braucht](https://www.bibleserver.com/SLT/Offenbarung21%2C23), ist eine Anspielung auf [Jesaja](https://www.bibleserver.com/SLT/Jesaja60%2C19), wo der letzte Abschnitt “dein Gott wird deine Herrlichkeit sein” durch “das Lamm ist ihre Leuchte” ersetzt wird, Jesus ist also Gottes [Herrlichkeit/Schönheit](https://biblehub.com/hebrew/strongs_8597.htm). Dies ist auch die Erfüllung der [Verse 2 und 5 von Hesekiel 43](https://www.bibleserver.com/SLT/Hesekiel43%2C2-5).
+Die Aussage, dass {{% bible val="die Stadt weder Sonne noch Mond braucht" link="https://www.bibleserver.com/SLT/Offenbarung21%2C23" %}}, ist eine Anspielung auf {{% bible val="Jesaja" link="https://www.bibleserver.com/SLT/Jesaja60%2C19" %}}, wo der letzte Abschnitt “dein Gott wird deine Herrlichkeit sein” durch “das Lamm ist ihre Leuchte” ersetzt wird, Jesus ist also Gottes [Herrlichkeit/Schönheit](https://biblehub.com/hebrew/strongs_8597.htm). Dies ist auch die Erfüllung der {{% bible val="Verse 2 und 5 von Hesekiel 43" link="https://www.bibleserver.com/SLT/Hesekiel43%2C2-5" %}}.
 
-Die Aussage, dass [die Völker kommen und ihre Pracht und Herrlichkeit und Ehre in die Stadt bringen werden](https://www.bibleserver.com/SLT/Offenbarung21%2C24-26), lässt sich besser verstehen, wenn man [Jesaja](https://www.bibleserver.com/SLT/Jesaja60%2C3-11) betrachtet, wo dieselben Sätze verwendet werden, aber Herrlichkeit und Ehre dort durch Reichtum ersetzt wird.
+Die Aussage, dass {{% bible val="die Völker kommen und ihre Pracht und Herrlichkeit und Ehre in die Stadt bringen werden" link="https://www.bibleserver.com/SLT/Offenbarung21%2C24-26" %}}, lässt sich besser verstehen, wenn man {{% bible val="Jesaja" link="https://www.bibleserver.com/SLT/Jesaja60%2C3-11" %}} betrachtet, wo dieselben Sätze verwendet werden, aber Herrlichkeit und Ehre dort durch Reichtum ersetzt wird.
 
-“[Und Heidenvölker werden zu deinem Licht kommen, und Könige zu dem Glanz, der über dir aufgeht. … die Schätze der Heidenvölker werden zu dir kommen.](https://www.bibleserver.com/SLT/Jesaja60%2C3-5)”
+“{{% bible val="Und Heidenvölker werden zu deinem Licht kommen, und Könige zu dem Glanz, der über dir aufgeht. … die Schätze der Heidenvölker werden zu dir kommen." link="https://www.bibleserver.com/SLT/Jesaja60%2C3-5" %}}”
 
-“[Und die Heidenvölker, die gerettet werden, werden in ihrem Licht wandeln, und die Könige der Erde werden ihre Herrlichkeit und Ehre in sie bringen.](https://www.bibleserver.com/SLT/Offenbarung21%2C24)”
+“{{% bible val="Und die Heidenvölker, die gerettet werden, werden in ihrem Licht wandeln, und die Könige der Erde werden ihre Herrlichkeit und Ehre in sie bringen." link="https://www.bibleserver.com/SLT/Offenbarung21%2C24" %}}”
 
 und
 
-“[Deine Tore sollen stets offen stehen und Tag und Nacht nicht zugeschlossen werden, damit der Reichtum der Heidenvölker herzugebracht und ihre Könige herbeigeführt werden können.](https://www.bibleserver.com/SLT/Jesaja60%2C11)”
+“{{% bible val="Deine Tore sollen stets offen stehen und Tag und Nacht nicht zugeschlossen werden, damit der Reichtum der Heidenvölker herzugebracht und ihre Könige herbeigeführt werden können." link="https://www.bibleserver.com/SLT/Jesaja60%2C11" %}}”
 
-“[Und ihre Tore sollen niemals geschlossen werden den ganzen Tag; denn dort wird keine Nacht sein. Und man wird die Herrlichkeit und die Ehre der Völker in sie bringen.](https://www.bibleserver.com/SLT/Offenbarung21%2C25-26)”
+“{{% bible val="Und ihre Tore sollen niemals geschlossen werden den ganzen Tag; denn dort wird keine Nacht sein. Und man wird die Herrlichkeit und die Ehre der Völker in sie bringen." link="https://www.bibleserver.com/SLT/Offenbarung21%2C25-26" %}}”
 
-In Jesaja bringen sie ihren Reichtum mit, um anzuerkennen, dass Gott mit Israel ist und [deshalb nicht mit anderen leiden werden](https://www.bibleserver.com/SLT/Jesaja60%2C12). Sie kommen, um die gute Nachricht von der Rettung durch Gott zu bringen.
+In Jesaja bringen sie ihren Reichtum mit, um anzuerkennen, dass Gott mit Israel ist und {{% bible val="deshalb nicht mit anderen leiden werden" link="https://www.bibleserver.com/SLT/Jesaja60%2C12" %}}. Sie kommen, um die gute Nachricht von der Rettung durch Gott zu bringen.
 
-Die Aussage “[Ich will ihr den Frieden geben wie einen Strom und den Reichtum der Völker wie einen reißenden Strom](https://www.bibleserver.com/SLT/Jesaja66%2C12)” in einem späteren Abschnitt verbindet ebenfalls die Gabe der Völker mit dem Frieden mit Israel.
+Die Aussage “{{% bible val="Ich will ihr den Frieden geben wie einen Strom und den Reichtum der Völker wie einen reißenden Strom" link="https://www.bibleserver.com/SLT/Jesaja66%2C12" %}}” in einem späteren Abschnitt verbindet ebenfalls die Gabe der Völker mit dem Frieden mit Israel.
 
-Die Herrlichkeit und Ehre und Pracht ist kein Attribut der Völker, sondern das, was sie Gott geben (nicht [ihren eigenen Ruhm/Reichtum, wie sie ihn von Babel bekommen](https://www.bibleserver.com/SLT/Offenbarung18%2C3)).
+Die Herrlichkeit und Ehre und Pracht ist kein Attribut der Völker, sondern das, was sie Gott geben (nicht {{% bible val="ihren eigenen Ruhm/Reichtum, wie sie ihn von Babel bekommen" link="https://www.bibleserver.com/SLT/Offenbarung18%2C3" %}}).
 
-[Sie bringen sich selbst, um Gott zu dienen.](https://www.bibleserver.com/SLT/Offenbarung22%2C3-5)
+{{% bible val="Sie bringen sich selbst, um Gott zu dienen." link="https://www.bibleserver.com/SLT/Offenbarung22%2C3-5" %}}
 
-Aber wer sind diese Könige? Werden alle Völker gerettet werden? Es scheint, dass einige von ihnen Buße tun und Gott die Ehre geben, aber leider nicht alle. Der [Kontext in Jesaja, den wir zuvor betrachtet haben, beschreibt gute und schlechte Könige](https://www.bibleserver.com/SLT/Jesaja60%2C1-14), wie es [auch in anderen Abschnitten steht](https://www.bibleserver.com/SLT/Jesaja19%2C17-18).
+Aber wer sind diese Könige? Werden alle Völker gerettet werden? Es scheint, dass einige von ihnen Buße tun und Gott die Ehre geben, aber leider nicht alle. Der {{% bible val="Kontext in Jesaja, den wir zuvor betrachtet haben, beschreibt gute und schlechte Könige" link="https://www.bibleserver.com/SLT/Jesaja60%2C1-14" %}}, wie es {{% bible val="auch in anderen Abschnitten steht" link="https://www.bibleserver.com/SLT/Jesaja19%2C17-18" %}}.
 
-Die Berufung Israels ist nun erfüllt. Sie begann mit [Abraham, um ein Segen für alle Völker zu sein](https://www.bibleserver.com/SLT/1.Mose12%2C2-3), sie ging auf Israel über, wo sie mit dem Exodus begann, und sie wurde schließlich in Jesus erfüllt, der die Völker nach Israel (auch bekannt als die Kirche) brachte. Und [jetzt kommen die Völker](https://www.bibleserver.com/SLT/Offenbarung21%2C24-27). Diese Nationen sind nicht alle Nationen, sondern nur diejenigen, die an Christus glauben, denn [der letzte Vers schließt die ungläubigen Nationen ein](https://www.bibleserver.com/SLT/Offenbarung21%2C27).
+Die Berufung Israels ist nun erfüllt. Sie begann mit {{% bible val="Abraham, um ein Segen für alle Völker zu sein" link="https://www.bibleserver.com/SLT/1.Mose12%2C2-3" %}}, sie ging auf Israel über, wo sie mit dem Exodus begann, und sie wurde schließlich in Jesus erfüllt, der die Völker nach Israel (auch bekannt als die Kirche) brachte. Und {{% bible val="jetzt kommen die Völker" link="https://www.bibleserver.com/SLT/Offenbarung21%2C24-27" %}}. Diese Nationen sind nicht alle Nationen, sondern nur diejenigen, die an Christus glauben, denn {{% bible val="der letzte Vers schließt die ungläubigen Nationen ein" link="https://www.bibleserver.com/SLT/Offenbarung21%2C27" %}}.
 
-Die [Tore sind nicht offen, um mit der Außenwelt in Kontakt zu treten, sondern um das Ergebnis der Aktion zu zeigen und die Sicherheit zu demonstrieren (es wird keine Nacht geben)](https://www.bibleserver.com/SLT/Offenbarung21%2C25).
+Die {{% bible val="Tore sind nicht offen, um mit der Außenwelt in Kontakt zu treten, sondern um das Ergebnis der Aktion zu zeigen und die Sicherheit zu demonstrieren (es wird keine Nacht geben)" link="https://www.bibleserver.com/SLT/Offenbarung21%2C25" %}}.
 
-Während die Gläubigen hineingehen können, [können die Ungläubigen nicht hineingehen](https://www.bibleserver.com/SLT/Offenbarung21%2C27), was sich auch in zwei [Stellen](https://www.bibleserver.com/SLT/Jesaja52%2C1) in [Jesaja](https://www.bibleserver.com/SLT/Jesaja35%2C8) widerspiegelt, wo [kurz vorher Wassermassen fließen](https://www.bibleserver.com/SLT/Jesaja35%2C7), und hier in der Offenbarung kommt das Wasser nach diesem Vers.
+Während die Gläubigen hineingehen können, {{% bible val="können die Ungläubigen nicht hineingehen" link="https://www.bibleserver.com/SLT/Offenbarung21%2C27" %}}, was sich auch in zwei {{% bible val="Stellen" link="https://www.bibleserver.com/SLT/Jesaja52%2C1" %}} in {{% bible val="Jesaja" link="https://www.bibleserver.com/SLT/Jesaja35%2C8" %}} widerspiegelt, wo {{% bible val="kurz vorher Wassermassen fließen" link="https://www.bibleserver.com/SLT/Jesaja35%2C7" %}}, und hier in der Offenbarung kommt das Wasser nach diesem Vers.
 
-## [Symbole von Gottes Gegenwart](https://www.bibleserver.com/SLT/Offenbarung22%2C1-5)
+## {{% bible val="Symbole von Gottes Gegenwart" link="https://www.bibleserver.com/SLT/Offenbarung22%2C1-5" %}}
 
 <a name="126e"></a>
 Dies basiert auf
 
-- dem [Fluss vom Altar](https://www.bibleserver.com/SLT/Hesekiel47%2C1-9),
-- dem [Fluss, wenn Jerusalem wieder aufgebaut wird](https://www.bibleserver.com/SLT/Sacharja14%2C8) und
-- dem [Wasser aus dem Haus des Herrn, das die Bäume bewässert](https://www.bibleserver.com/SLT/Joel3%2C5)
+- dem {{% bible val="Fluss vom Altar" link="https://www.bibleserver.com/SLT/Hesekiel47%2C1-9" %}},
+- dem {{% bible val="Fluss, wenn Jerusalem wieder aufgebaut wird" link="https://www.bibleserver.com/SLT/Sacharja14%2C8" %}} und
+- dem {{% bible val="Wasser aus dem Haus des Herrn, das die Bäume bewässert" link="https://www.bibleserver.com/SLT/Joel3%2C5" %}}
 
-Es gibt auch eine Beschreibung in der [Schöpfungsgeschichte, in der die Flüsse dort mit Edelsteinen in Verbindung gebracht werden](https://www.bibleserver.com/SLT/1.Mose2%2C10-12), wie in der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung21%2C19-20).
+Es gibt auch eine Beschreibung in der {{% bible val="Schöpfungsgeschichte, in der die Flüsse dort mit Edelsteinen in Verbindung gebracht werden" link="https://www.bibleserver.com/SLT/1.Mose2%2C10-12" %}}, wie in der {{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung21%2C19-20" %}}.
 
 Die Quelle von all dem ist (der Thron) Gottes und des Lammes. Wasser wird oft mit dem Heiligen Geist in Verbindung gebracht
 
-- [wenn Gott uns ein neues Herz schenkt,](https://www.bibleserver.com/SLT/Hesekiel36%2C25-27)
-- wir [aus Wasser und Geist geboren werden](https://www.bibleserver.com/SLT/Johannes3%2C5)
-- wir [lebendiges Wasser empfangen und Anbetung im Geist tun](https://www.bibleserver.com/SLT/Johannes4%2C10-24)
-- [als Wasser und Geist als Zeugen](https://www.bibleserver.com/SLT/1.Johannes5%2C7-8)
+- {{% bible val="wenn Gott uns ein neues Herz schenkt," link="https://www.bibleserver.com/SLT/Hesekiel36%2C25-27" %}}
+- wir {{% bible val="aus Wasser und Geist geboren werden" link="https://www.bibleserver.com/SLT/Johannes3%2C5" %}}
+- wir {{% bible val="lebendiges Wasser empfangen und Anbetung im Geist tun" link="https://www.bibleserver.com/SLT/Johannes4%2C10-24" %}}
+- {{% bible val="als Wasser und Geist als Zeugen" link="https://www.bibleserver.com/SLT/1.Johannes5%2C7-8" %}}
 
-Schließlich schließt sich der Kreis zum Anfang (der Schöpfung und des Sündenfalls): [Der Baum des Lebens ist wieder da und jeder hat Zugang zu ihm.](https://www.bibleserver.com/SLT/Offenbarung22%2C2)
+Schließlich schließt sich der Kreis zum Anfang (der Schöpfung und des Sündenfalls): {{% bible val="Der Baum des Lebens ist wieder da und jeder hat Zugang zu ihm." link="https://www.bibleserver.com/SLT/Offenbarung22%2C2" %}}
 
 Alles Böse ist verschwunden, und wir können uns ganz auf den Dienst an Gott konzentrieren.
 
-Der [Name auf der Stirn](https://www.bibleserver.com/SLT/Offenbarung22%2C4) war ursprünglich [auf der Stirn der Priester](https://www.bibleserver.com/SLT/2.Mose28%2C36-38) und zeigt, dass [der Charakter Gottes in ihnen und nun uns eingeprägt ist](https://www.bibleserver.com/SLT/1.Johannes3%2C2).
+Der {{% bible val="Name auf der Stirn" link="https://www.bibleserver.com/SLT/Offenbarung22%2C4" %}} war ursprünglich {{% bible val="auf der Stirn der Priester" link="https://www.bibleserver.com/SLT/2.Mose28%2C36-38" %}} und zeigt, dass {{% bible val="der Charakter Gottes in ihnen und nun uns eingeprägt ist" link="https://www.bibleserver.com/SLT/1.Johannes3%2C2" %}}.

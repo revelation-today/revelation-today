@@ -7,7 +7,7 @@ next: /content/1000y/story/story
 docType: story
 ---
 
-[Chapter 17–19](https://www.bibleserver.com/NIV/Revelation17)
+{{% bible val="Chapter 17–19" link="https://www.bibleserver.com/NIV/Revelation17" %}}
 
 <a name="517a"></a>
 There is one more and a dark mystery that needs to be revealed until the goal is reached. And it becomes very clear that the goal is not to defeat the devil but the union of God with his people.

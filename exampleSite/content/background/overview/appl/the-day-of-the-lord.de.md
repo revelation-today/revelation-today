@@ -63,7 +63,7 @@ Damit begann seine Mission, nicht nur Israel zu retten, sondern auch die Heiden 
 <a name="9e32"></a>
 Aber welche Rolle spielt dabei die Gemeinde? Die Gemeinde ist nichts anderes als das neue Israel, das mit den Israeliten begann und nun um die Nationen erweitert wurde — alle verbunden durch den Glauben an Jesus, den letzten Überrest Israels. Der Auftrag der Gemeinde ist es, alle Völker zu erreichen, was der ursprüngliche Auftrag Israels war, bzw. Abrahams (in ihm sollten alle Völker gesegnet werden).
 
-Es gibt noch einen wesentlichen Unterschied, den wir im nächsten Kapitel betrachten werden: Jesus sprach von [Verfolgung](https://www.bibleserver.com/SLT/Johannes15%2C20), die über die Gemeinde kommt. Israel hatte nur schwere Zeiten, wenn es sündigte.
+Es gibt noch einen wesentlichen Unterschied, den wir im nächsten Kapitel betrachten werden: Jesus sprach von {{% bible val="Verfolgung" link="https://www.bibleserver.com/SLT/Johannes15%2C20" %}}, die über die Gemeinde kommt. Israel hatte nur schwere Zeiten, wenn es sündigte.
 
 Wenn Jesus wiederkommt, werden alle Völker gerettet sein und alle werden eine Beziehung zu Gott haben, wie es der ursprüngliche Plan war — und dann wird auch die Verfolgung aufhören.
 

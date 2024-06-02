@@ -14,7 +14,7 @@ expl: /content/jesus/expl/a-different-christmas-story
 ## Bizim metnimiz
 
 <a name="3d55"></a>
-Hızla ilerliyoruz ve [12. bölüme](https://www.bibleserver.com/TR/Vahiy12) ulaştık.
+Hızla ilerliyoruz ve {{% bible val="12. bölüme" link="https://www.bibleserver.com/TR/Vahiy12" %}} ulaştık.
 
 ## İsa doğdu
 
@@ -32,7 +32,7 @@ Kadın, şeytan (ejderha) tarafından saldırıya uğrayan İsa’yı doğuran �
 
 Ama gerçek bu mu? Şeytan yenilmiş gibi görünmüyor. Dünya üzerinde kontrolü tamamen ele geçirmiş gibi görünüyor ve Hıristiyanlar kaçıyor.
 
-Ancak bu bölüm bunu açığa çıkarmaktadır. Şeytan[ yenilgiye uğradığını bildiği için](https://www.bibleserver.com/TR/Vahiy12%3A11-12) mümkün olduğunca çok zarar verir. Onun güç gösterisi yenilgisinin kabulüdür.
+Ancak bu bölüm bunu açığa çıkarmaktadır. Şeytan{{% bible val=" yenilgiye uğradığını bildiği için" link="https://www.bibleserver.com/TR/Vahiy12%3A11-12" %}} mümkün olduğunca çok zarar verir. Onun güç gösterisi yenilgisinin kabulüdür.
 
 Ve bunun farkında olmalıyız. İsa’nın yaptığı gibi saldırı altındaysak bu yenilgi değildir. Sadık kalmalı ve tanıklığımızı yapmaya devam etmeliyiz.
 

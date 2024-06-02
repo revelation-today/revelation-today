@@ -75,11 +75,11 @@ Ve o, şeytanın taklit etmeye çalıştığı arzudur.
 
 İsa hakkında, bazen doğrudan bazen de onun tam tersi olan şeytanın onu taklit etmek için nasıl davrandığına dair daha fazla bilgi edinirsiniz.
 
-[Bölüm 11](https://www.bibleserver.com/TR/Vahiy11)'deki iki tanık, İsa’nın çağrılmasından ölümüne, dirilişine ve göğe yükselişine kadar onun izinden giderler. İşaretler ve mucizeler yaptıklarında değil, canlarını verdiklerinde (ve Tanrı onları onayladığında) ve birçok imansız insan Tanrı’ya saygı duyduğunda oyunun kurallarını değiştirdiler.
+{{% bible val="Bölüm 11" link="https://www.bibleserver.com/TR/Vahiy11" %}}'deki iki tanık, İsa’nın çağrılmasından ölümüne, dirilişine ve göğe yükselişine kadar onun izinden giderler. İşaretler ve mucizeler yaptıklarında değil, canlarını verdiklerinde (ve Tanrı onları onayladığında) ve birçok imansız insan Tanrı’ya saygı duyduğunda oyunun kurallarını değiştirdiler.
 
 Kilise ancak ödün vermeden İsa’yı izlerse başarılı olabilir.
 
-Öte yandan [13. bölümde](https://www.bibleserver.com/TR/Vahiy13) şeytanın, kilisede gerekli olduğunu düşündüğümüz her şeye sahip olan karşı bir üçlüyü nasıl kurduğunu görürsünüz
+Öte yandan {{% bible val="13. bölümde" link="https://www.bibleserver.com/TR/Vahiy13" %}} şeytanın, kilisede gerekli olduğunu düşündüğümüz her şeye sahip olan karşı bir üçlüyü nasıl kurduğunu görürsünüz
 
 - herkes hayrete düştü
 - tüm düşmanlar fethedildi
@@ -96,14 +96,14 @@ Ama bu sadece dış görünüştür. Ancak daha yakından bakıldığında bunun
 
 Kitapta kıyametle ilgili unsurlar olsa da, bu düşünceye meydan okuyor.
 
-- İsa sadece kısa bir süre önce [delinmiş](https://www.bibleserver.com/TR/Vahiy1%3A7) olan kişi olarak değil, [dünyayı yargılayan insanoğlu olarak da görünür](https://www.bibleserver.com/TR/Vahiy1%3A12-16)
-- Tanrı’nın taht odası [gökkuşağı](https://www.bibleserver.com/TR/Vahiy4%3A3) gibi açıkça lütuf unsurundan bahseder
-- Yahuda’nın aslanı aslında Tanrı’nın [kuzusudur](https://www.bibleserver.com/TR/Vahiy5%3A5-6).
-- [144.000 kişilik ordu](https://www.bibleserver.com/TR/Vahiy7%3A4-8), Tanrı’ya [ibadet](https://www.bibleserver.com/TR/Vahiy7%3A9-10) eden insanlar olarak ve daha sonra kuzuyu takip eden ve [sadık](https://www.bibleserver.com/TR/Vahiy14%3A1-5) olanlar olarak açıklanır.
-- i̇ki̇ taniğin zaferi̇ onlarin [ölümüdür](https://www.bibleserver.com/TR/Vahiy11%3A7-13)
-- gizemli yer [Armageddon](https://www.bibleserver.com/TR/Vahiy16%3A14), [güçlülerin yenilgisini ve mutlak zayıfların zaferini anlatır](/content/bowls/expl/the-key-to-armageddon)
-- fahişe, üzerinde [oturduğu](https://www.bibleserver.com/TR/Vahiy17%3A3) [canavar tarafından yok edilir](https://www.bibleserver.com/TR/Vahiy17%3A16)
-- İsa gelir ve [ağzının kılıcıyla orduları öldürür](https://www.bibleserver.com/TR/Vahiy19%3A21).
+- İsa sadece kısa bir süre önce {{% bible val="delinmiş" link="https://www.bibleserver.com/TR/Vahiy1%3A7" %}} olan kişi olarak değil, {{% bible val="dünyayı yargılayan insanoğlu olarak da görünür" link="https://www.bibleserver.com/TR/Vahiy1%3A12-16" %}}
+- Tanrı’nın taht odası {{% bible val="gökkuşağı" link="https://www.bibleserver.com/TR/Vahiy4%3A3" %}} gibi açıkça lütuf unsurundan bahseder
+- Yahuda’nın aslanı aslında Tanrı’nın {{% bible val="kuzusudur" link="https://www.bibleserver.com/TR/Vahiy5%3A5-6" %}}.
+- {{% bible val="144.000 kişilik ordu" link="https://www.bibleserver.com/TR/Vahiy7%3A4-8" %}}, Tanrı’ya {{% bible val="ibadet" link="https://www.bibleserver.com/TR/Vahiy7%3A9-10" %}} eden insanlar olarak ve daha sonra kuzuyu takip eden ve {{% bible val="sadık" link="https://www.bibleserver.com/TR/Vahiy14%3A1-5" %}} olanlar olarak açıklanır.
+- i̇ki̇ taniğin zaferi̇ onlarin {{% bible val="ölümüdür" link="https://www.bibleserver.com/TR/Vahiy11%3A7-13" %}}
+- gizemli yer {{% bible val="Armageddon" link="https://www.bibleserver.com/TR/Vahiy16%3A14" %}}, [güçlülerin yenilgisini ve mutlak zayıfların zaferini anlatır](/content/bowls/expl/the-key-to-armageddon)
+- fahişe, üzerinde {{% bible val="oturduğu" link="https://www.bibleserver.com/TR/Vahiy17%3A3" %}} {{% bible val="canavar tarafından yok edilir" link="https://www.bibleserver.com/TR/Vahiy17%3A16" %}}
+- İsa gelir ve {{% bible val="ağzının kılıcıyla orduları öldürür" link="https://www.bibleserver.com/TR/Vahiy19%3A21" %}}.
 
 Bu da “kıyamet olaylarının” muhtemelen düşündüğümüzden çok farklı olduğu anlamına gelir. Ayrıca diğer bölümlerdeki ifadeler de savaş ve felaketlerin kitabın ana konusu olduğuna dair şüphe uyandırmaktadır.
 
@@ -112,9 +112,9 @@ Kitaptaki ana konular ibadet, gerçek tanıklık ve tahammüldür. Burada günl�
 ## Deccal
 
 <a name="0f8f"></a>
-Eğer dikkatlice okursanız, bu kelimenin kitapta değil, [Yuhanna’nın mektubunda](https://www.bibleserver.com/TR/1.Yuhanna2%3A18) geçtiğini göreceksiniz (ve orada kendi zamanındaki pek çok kişiden bahsediyor). Ancak prensip kitapta gösterilmektedir. Anti sadece “karşı” değil, aynı zamanda “yerine” anlamına da gelebilir. Ve İsa’nın yerine orada olmaya çalıştığı birçok yer vardır.
+Eğer dikkatlice okursanız, bu kelimenin kitapta değil, {{% bible val="Yuhanna’nın mektubunda" link="https://www.bibleserver.com/TR/1.Yuhanna2%3A18" %}} geçtiğini göreceksiniz (ve orada kendi zamanındaki pek çok kişiden bahsediyor). Ancak prensip kitapta gösterilmektedir. Anti sadece “karşı” değil, aynı zamanda “yerine” anlamına da gelebilir. Ve İsa’nın yerine orada olmaya çalıştığı birçok yer vardır.
 
-[İlk mühürde kurtarıcı](https://www.bibleserver.com/TR/Vahiy6%3A1-2) olarak ortaya çıkar, [Tanrı’nın üçlüsünü](https://www.bibleserver.com/TR/Vahiy13) taklit eder ve fahişe [Mesih’in gelininin sapkın bir görüntüsüdür](https://www.bibleserver.com/TR/Vahiy17%3A1-6).
+{{% bible val="İlk mühürde kurtarıcı" link="https://www.bibleserver.com/TR/Vahiy6%3A1-2" %}} olarak ortaya çıkar, {{% bible val="Tanrı’nın üçlüsünü" link="https://www.bibleserver.com/TR/Vahiy13" %}} taklit eder ve fahişe {{% bible val="Mesih’in gelininin sapkın bir görüntüsüdür" link="https://www.bibleserver.com/TR/Vahiy17%3A1-6" %}}.
 
 Bu bölümler daha çok kilisenin tuzaklarını ve neyin esas olmadığını gösterir:
 
@@ -126,12 +126,12 @@ Bu bölümler daha çok kilisenin tuzaklarını ve neyin esas olmadığını gö
 ## Azizlerin silahları
 
 <a name="5330"></a>
-Kilisenin belirleyici unsurunun mucizeler, kötülük üzerinde güç ve siyasi/finansal nüfuz olduğunu düşünüyorsanız, kolayca yanıltılabilirsiniz. [Bölüm 13](https://www.bibleserver.com/TR/Vahiy13) bunların aynı zamanda şeytanın da sahip olduğu şeyler olduğunu gösterir. Aslında bu iki tanığın da sahip olduğu şeydir ama herhangi bir değişiklik getirmez, sadece diğer insanları öfkelendirir. Çünkü bununla birlikte genellikle gözdağı verme, korku yaratma ve manipülasyon gelir ki bunu haçlı seferlerinde, engizisyonda ve bugünlerde bile kilisedeki istismarcı ilişkilerde gördük.
+Kilisenin belirleyici unsurunun mucizeler, kötülük üzerinde güç ve siyasi/finansal nüfuz olduğunu düşünüyorsanız, kolayca yanıltılabilirsiniz. {{% bible val="Bölüm 13" link="https://www.bibleserver.com/TR/Vahiy13" %}} bunların aynı zamanda şeytanın da sahip olduğu şeyler olduğunu gösterir. Aslında bu iki tanığın da sahip olduğu şeydir ama herhangi bir değişiklik getirmez, sadece diğer insanları öfkelendirir. Çünkü bununla birlikte genellikle gözdağı verme, korku yaratma ve manipülasyon gelir ki bunu haçlı seferlerinde, engizisyonda ve bugünlerde bile kilisedeki istismarcı ilişkilerde gördük.
 
 Silahlar çok farklıdır ve canavardan farklı bir hedefin peşindedir. Düşmanın yok edilmesi değil, dönüştürülmesi söz konusudur.
 
 - İbadet: Aslında bu kitabın ana konusu budur. İbadet yedi kilisenin başarısızlıklarına cevaptır, 144.000 kişinin ana faaliyetidir, tüm dünyanın amacıdır — sonunda Tanrı’ya ibadet etmek. Bu aynı zamanda sadakatle de ilgilidir. Ne olursa olsun, Tanrı’ya bağlı kalın ve O’nun yolunu izleyin.
-- Tanıklık: Farkındalıkla okursanız, bunun her yerde olduğunu göreceksiniz. Ölümle sonuçlansa bile Mesih’i yaşamak ve taklit etmekle ilgilidir. Bu, 11. bölümdeki durumu değiştiren şeydi. Şeytan İsa’nın kanı ve 12. bölümdeki [tanıklık](https://www.bibleserver.com/TR/Vahiy12%3A11) sayesinde yenilgiye uğratıldı. Kendiniz okuyun ve hangi durumlarda ne kadar sık tanıklık ya da tanıklık bulduğunuza bakın.
+- Tanıklık: Farkındalıkla okursanız, bunun her yerde olduğunu göreceksiniz. Ölümle sonuçlansa bile Mesih’i yaşamak ve taklit etmekle ilgilidir. Bu, 11. bölümdeki durumu değiştiren şeydi. Şeytan İsa’nın kanı ve 12. bölümdeki {{% bible val="tanıklık" link="https://www.bibleserver.com/TR/Vahiy12%3A11" %}} sayesinde yenilgiye uğratıldı. Kendiniz okuyun ve hangi durumlarda ne kadar sık tanıklık ya da tanıklık bulduğunuza bakın.
 - Dua: Sık sık bahsedilmez, aslında sadece bir kez, ama merkezi bir yerdedir: Trompetleri harekete geçirir.
 - Fethetmek ve tahammül etmek: Azizlerin fethetmesi zaman alır ve çoğu zaman tahammül etmeleri gerekir. Bir şeyleri itmez ya da zorlamazlar ama dayanırlar.
 

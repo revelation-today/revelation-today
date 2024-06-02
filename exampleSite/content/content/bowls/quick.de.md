@@ -10,7 +10,7 @@ docType: quick
 ---
 
 
-[Kapitel 15-16](https://www.bibleserver.com/SLT/Offenbarung15)
+{{% bible val="Kapitel 15-16" link="https://www.bibleserver.com/SLT/Offenbarung15" %}}
 
 ## Die Schalen
 
@@ -27,19 +27,19 @@ Hier wird uns schnell klar, was Gott tun wird. Das Szenario hier beschreibt, das
 
 ## Armageddon
 
-Es gibt ein sehr interessantes Thema: Harmagedon. Es wird [nur einmal](https://www.bibleserver.com/SLT/Offenbarung16%3A12-16) erwähnt und es scheint nicht klar zu sein, worum es hier geht.
+Es gibt ein sehr interessantes Thema: Harmagedon. Es wird {{% bible val="nur einmal" link="https://www.bibleserver.com/SLT/Offenbarung16%3A12-16" %}} erwähnt und es scheint nicht klar zu sein, worum es hier geht.
 
 Das Wort Armageddon hat drei Übersetzungen:
 - Berg des Gemetzels -> dies wird eine epische Schlacht sein
-- Berg der Versammlung -> [eine Anspielung auf Satan, der wie Gott sein will, aber es ist zu nichts herabgesunken](https://www.bibleserver.com/SLT/Jesaja14%3A3-23)
+- Berg der Versammlung -> {{% bible val="eine Anspielung auf Satan, der wie Gott sein will, aber es ist zu nichts herabgesunken" link="https://www.bibleserver.com/SLT/Jesaja14%3A3-23" %}}
 - Berg von Megiddo -> Der Ort, an dem mehrere Schlachten mit untypischen Helden stattfinden
-    - [eine Hausfrau namens Jael besiegt einen Heerführer](https://www.bibleserver.com/SLT/Richter4)
-    - [der depressive Prophet rettet ein Volk - Karmel ist der Berg bei Megiddo](https://www.bibleserver.com/SLT/1.Könige18)
-    - [ein einzelner Mann stürzt den Herrscher von zwei Ländern am selben Tag](https://www.bibleserver.com/SLT/2.Könige9)
-    - [ein König zieht in die Schlacht, verliert die Schlacht und stirbt, verändert aber die Geschichte](https://www.bibleserver.com/SLT/2.Chronik35%2C20-24)
+    - {{% bible val="eine Hausfrau namens Jael besiegt einen Heerführer" link="https://www.bibleserver.com/SLT/Richter4" %}}
+    - {{% bible val="der depressive Prophet rettet ein Volk - Karmel ist der Berg bei Megiddo" link="https://www.bibleserver.com/SLT/1.Könige18" %}}
+    - {{% bible val="ein einzelner Mann stürzt den Herrscher von zwei Ländern am selben Tag" link="https://www.bibleserver.com/SLT/2.Könige9" %}}
+    - {{% bible val="ein König zieht in die Schlacht, verliert die Schlacht und stirbt, verändert aber die Geschichte" link="https://www.bibleserver.com/SLT/2.Chronik35%2C20-24" %}}
     
 Eines ist klar: Die Schlacht findet nicht in Harmagedon statt, da die Berge die Orte sind, an denen sich die Heere versammeln, wie auch hier gezeigt wird.
 
-Die Schlacht wird später beschrieben. In der Kurzform in der [siebten Schale](https://www.bibleserver.com/SLT/Offenbarung16%3A17-21), aber im Detail (nachdem das Schicksal der Hure und die Hochzeit der Braut beschrieben ist), wenn Jesus als [der weiße Reiter](https://www.bibleserver.com/SLT/Offenbarung19%3A11-21) kommt. 
+Die Schlacht wird später beschrieben. In der Kurzform in der {{% bible val="siebten Schale" link="https://www.bibleserver.com/SLT/Offenbarung16%3A17-21" %}}, aber im Detail (nachdem das Schicksal der Hure und die Hochzeit der Braut beschrieben ist), wenn Jesus als {{% bible val="der weiße Reiter" link="https://www.bibleserver.com/SLT/Offenbarung19%3A11-21" %}} kommt. 
 
-Er versammelt auch "sein Heer" auf eine sehr ironische Weise. Das Heer sind die [Geier](https://www.bibleserver.com/SLT/Offenbarung19%3A17-18), die sich an dem getöteten Heer laben werden. 
+Er versammelt auch "sein Heer" auf eine sehr ironische Weise. Das Heer sind die {{% bible val="Geier" link="https://www.bibleserver.com/SLT/Offenbarung19%3A17-18" %}}, die sich an dem getöteten Heer laben werden. 

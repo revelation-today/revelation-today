@@ -22,7 +22,7 @@ appl: /content/letters/appl/the-challenges
 ## Olası olmayan yorumlar
 
 <a name="7774"></a>
-Kiliselerin melekleri kiliseleri gözetleyen koruyucu melekler olabilir mi? Muhtemelen hayır, çünkü İsa’nın Yuhanna’ya meleklere yazması gereken bir mesaj iletmesi biraz gariptir — başka yollar da vardır. Hem meleklere nasıl yazarsınız ki? [Ayrıca kilisedeki bazı üyeler sadık değilse meleği suçlamak zor olacaktır](https://www.bibleserver.com/TR/Vahiy2%3A24-25).
+Kiliselerin melekleri kiliseleri gözetleyen koruyucu melekler olabilir mi? Muhtemelen hayır, çünkü İsa’nın Yuhanna’ya meleklere yazması gereken bir mesaj iletmesi biraz gariptir — başka yollar da vardır. Hem meleklere nasıl yazarsınız ki? {{% bible val="Ayrıca kilisedeki bazı üyeler sadık değilse meleği suçlamak zor olacaktır" link="https://www.bibleserver.com/TR/Vahiy2%3A24-25" %}}.
 
 Ya da melek olarak anılan bir lider olabilir. Bireylerin başarısızlıkları için onu suçlamak da zor olurdu.
 
@@ -31,10 +31,10 @@ Ya da melek olarak anılan bir lider olabilir. Bireylerin başarısızlıkları 
 <a name="22d1"></a>
 Bazı gözlemler yapmak için biraz zaman ayıralım
 
-- Yuhanna’dan meleklere değil, [yedi kiliseye yazması](https://www.bibleserver.com/TR/Vahiy1%3A11) istenir.
-- her mektup “[meleğine yaz](https://www.bibleserver.com/TR/Vahiy2%3A1)” diye başlar ama “[ruh kiliselere ne diyor](https://www.bibleserver.com/TR/Vahiy2%3A7)” diye biter
-- meleklere kiliseler olarak hitap edilir: “[Nasıl düştüğünüzü düşünün](https://www.bibleserver.com/TR/Vahiy2%3A5)”
-- Yunanca metin tekil ve çoğul (büyük harf) arasında geçiş yapmaktadır: “[Çekmek üzere olduğunuz acılardan korkmayın. Size söylüyorum, şeytan sizi sınamak için aranızdan bazılarını hapse atacak ve on gün boyunca zulüm göreceksiniz. Ölüm noktasına kadar bile sadık kalın, ben de size zafer tacı olarak yaşam vereyim.](https://www.bibleserver.com/TR/Vahiy2%3A10)”
+- Yuhanna’dan meleklere değil, {{% bible val="yedi kiliseye yazması" link="https://www.bibleserver.com/TR/Vahiy1%3A11" %}} istenir.
+- her mektup “{{% bible val="meleğine yaz" link="https://www.bibleserver.com/TR/Vahiy2%3A1" %}}” diye başlar ama “{{% bible val="ruh kiliselere ne diyor" link="https://www.bibleserver.com/TR/Vahiy2%3A7" %}}” diye biter
+- meleklere kiliseler olarak hitap edilir: “{{% bible val="Nasıl düştüğünüzü düşünün" link="https://www.bibleserver.com/TR/Vahiy2%3A5" %}}”
+- Yunanca metin tekil ve çoğul (büyük harf) arasında geçiş yapmaktadır: “{{% bible val="Çekmek üzere olduğunuz acılardan korkmayın. Size söylüyorum, şeytan sizi sınamak için aranızdan bazılarını hapse atacak ve on gün boyunca zulüm göreceksiniz. Ölüm noktasına kadar bile sadık kalın, ben de size zafer tacı olarak yaşam vereyim." link="https://www.bibleserver.com/TR/Vahiy2%3A10" %}}”
 - Burada melekler, Yahudi ya da erken dönem Hıristiyan literatüründe alışılmadık bir şekilde artikelsiz olarak kullanılmıştır
 - bu meleklere kitabın geri kalanında bir daha asla atıfta bulunulmadı
 
@@ -45,9 +45,9 @@ Peki ya kiliselerin melekleri kiliselerin kendisine hitap etmenin başka bir yol
 
 Ayrıca
 
-- Yahudi literatüründe bir grubu birey olarak adlandırmak normaldir ([kızı Siyon](https://www.bibleserver.com/TR/Sefanya3%3A14), [Tyrus](https://www.bibleserver.com/TR/Hezekiel27), Hoşea, [Hoş.9](https://www.bibleserver.com/TR/Ho%C5%9Fea9%3A1-6) ve [14'te](https://www.bibleserver.com/TR/Ho%C5%9Fea14%3A1-3) tekilden çoğula geçmiştir)
+- Yahudi literatüründe bir grubu birey olarak adlandırmak normaldir ({{% bible val="kızı Siyon" link="https://www.bibleserver.com/TR/Sefanya3%3A14" %}}, {{% bible val="Tyrus" link="https://www.bibleserver.com/TR/Hezekiel27" %}}, Hoşea, {{% bible val="Hoş.9" link="https://www.bibleserver.com/TR/Ho%C5%9Fea9%3A1-6" %}} ve {{% bible val="14'te" link="https://www.bibleserver.com/TR/Ho%C5%9Fea14%3A1-3" %}} tekilden çoğula geçmiştir)
 - kiliselere yazılan mektuplar genellikle bireylere yazılmaz
-- kiliselere mektuplarda veya peygamberlik konuşmalarında [çoğul](https://www.bibleserver.com/TR/Sefanya2%3A1-5) olarak da hitap edilir
+- kiliselere mektuplarda veya peygamberlik konuşmalarında {{% bible val="çoğul" link="https://www.bibleserver.com/TR/Sefanya2%3A1-5" %}} olarak da hitap edilir
 
 Öyleyse kiliselere neden melek olarak hitap edilsin ki?
 

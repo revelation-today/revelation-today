@@ -14,7 +14,7 @@ sources:
       ref: fee_rev
 ---
 
-Ölü bir kilise neye benzer? Oraya nasıl yeni bir hayat verebilirsiniz? Merak mı ediyorsunuz? [Sardis’e yazılan](https://www.bibleserver.com/TR/Vahiy3%3A1-6) mektuba bir göz atın.
+Ölü bir kilise neye benzer? Oraya nasıl yeni bir hayat verebilirsiniz? Merak mı ediyorsunuz? {{% bible val="Sardis’e yazılan" link="https://www.bibleserver.com/TR/Vahiy3%3A1-6" %}} mektuba bir göz atın.
 
 ## Tarihsel arka plan
 
@@ -28,7 +28,7 @@ Kasaba her zaman büyük bir öneme sahip olmuştur, örneğin M.Ö. 17 yılınd
 ## İsa’nın görüşü
 
 <a name="4754"></a>
-[İsa kiliseye ruhun doluluğu içinde yaklaşır ve onlara dünyaya ışık olma çağrılarını hatırlatır.](https://www.bibleserver.com/TR/Vahiy3%3A1)
+{{% bible val="İsa kiliseye ruhun doluluğu içinde yaklaşır ve onlara dünyaya ışık olma çağrılarını hatırlatır." link="https://www.bibleserver.com/TR/Vahiy3%3A1" %}}
 
 Çok az övgü vardır (sadece birkaçı suçsuzdur).
 
@@ -41,9 +41,9 @@ Asıl sorun yanlış öz farkındalıklarıdır. Şehri gözlerinde fazla büyü
 
 Temel sorunları Kutsal Ruh olmadan kilise olabilmeleriydi.
 
-[Ölü olmaya ve ölmek üzere olanı uyandırmaya](https://www.bibleserver.com/TR/Vahiy3%3A1-2) yapılan gönderme, [Kutsal Ruh’un gelip yeni bir yaşam üflediği ölü kemikler vizyonuyla](https://www.bibleserver.com/TR/Hezekiel37) güçlü bir bağlantıya sahiptir.
+{{% bible val="Ölü olmaya ve ölmek üzere olanı uyandırmaya" link="https://www.bibleserver.com/TR/Vahiy3%3A1-2" %}} yapılan gönderme, {{% bible val="Kutsal Ruh’un gelip yeni bir yaşam üflediği ölü kemikler vizyonuyla" link="https://www.bibleserver.com/TR/Hezekiel37" %}} güçlü bir bağlantıya sahiptir.
 
-Ayrıca, “[yaptıklarınızı Tanrı’nın gözünde eksik bulduğunuza](https://www.bibleserver.com/TR/Vahiy3%3A2)” yapılan atıf, “[tüm eksiksiz işlerin ışıkların babası Tanrı’dan geldiği](https://www.bibleserver.com/TR/Yakup1%3A17)” gerçeğini hatırlatmaktadır.
+Ayrıca, “{{% bible val="yaptıklarınızı Tanrı’nın gözünde eksik bulduğunuza" link="https://www.bibleserver.com/TR/Vahiy3%3A2" %}}” yapılan atıf, “{{% bible val="tüm eksiksiz işlerin ışıkların babası Tanrı’dan geldiği" link="https://www.bibleserver.com/TR/Yakup1%3A17" %}}” gerçeğini hatırlatmaktadır.
 
 Hızlı hareket etmeliler yoksa Tanrı onları gafil avlar, çünkü Kutsal Ruh’suz bir yaşam sürdürülebilir değildir.
 

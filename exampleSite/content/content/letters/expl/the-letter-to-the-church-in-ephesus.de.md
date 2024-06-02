@@ -28,11 +28,11 @@ Ephesus war wegen des Artemistempels ein wichtiges touristisches Zentrum und hat
 ## Jesu Sicht
 
 <a name="adc4"></a>
-Jesus wendet sich an die Gemeinde als derjenige, [der die Sterne in seiner Hand hält und sich inmitten der Leuchter bewegt](https://www.bibleserver.com/SLT/Offenbarung2%2C1), und greift damit die Kernaussage aus [Kapitel 1](https://www.bibleserver.com/SLT/Offenbarung1%2C20) auf: Die Gemeinde soll Licht sein und von ihm abhängen. Eine Gemeinde, die nicht danach lebt, verfehlt ihre Berufung und ihre Daseinsberechtigung.
+Jesus wendet sich an die Gemeinde als derjenige, {{% bible val="der die Sterne in seiner Hand hält und sich inmitten der Leuchter bewegt" link="https://www.bibleserver.com/SLT/Offenbarung2%2C1" %}}, und greift damit die Kernaussage aus {{% bible val="Kapitel 1" link="https://www.bibleserver.com/SLT/Offenbarung1%2C20" %}} auf: Die Gemeinde soll Licht sein und von ihm abhängen. Eine Gemeinde, die nicht danach lebt, verfehlt ihre Berufung und ihre Daseinsberechtigung.
 
 Doch bevor Jesus die Probleme anspricht, lobt er sie:
 
-- Er kennt ihre Werke, ihre harte Arbeit und ihre Ausdauer. Sie machen eine schwierige Zeit durch mit dem Artemistempel in der Nähe, [der schon zu Unruhen geführt hat](https://www.bibleserver.com/SLT/Apostelgeschichte19%2C23-41).
+- Er kennt ihre Werke, ihre harte Arbeit und ihre Ausdauer. Sie machen eine schwierige Zeit durch mit dem Artemistempel in der Nähe, {{% bible val="der schon zu Unruhen geführt hat" link="https://www.bibleserver.com/SLT/Apostelgeschichte19%2C23-41" %}}.
 - Sie haben sich nicht von falschen Lehren oder falschen Aposteln verführen lassen wie einige andere Gemeinden.
 - Sie ertragen Schwierigkeiten im Namen Jesu.
 
@@ -41,7 +41,7 @@ Doch bevor Jesus die Probleme anspricht, lobt er sie:
 <a name="6de6"></a>
 Aber eines ist schlecht: Sie haben ihre erste Liebe verloren. Aber was bedeutet das eigentlich? Ist es das romantische Gefühl, Jesus zu kennen und alles für ihn zu tun?
 
-Bei [Matthäus heißt es, dass die Liebe erkalten wird und das Evangelium allen Nationen als Zeugnis gepredigt wird](https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C12-14). Aber was hat das mit der erkaltender Liebe zu tun? Sehr viel.
+Bei {{% bible val="Matthäus heißt es, dass die Liebe erkalten wird und das Evangelium allen Nationen als Zeugnis gepredigt wird" link="https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C12-14" %}}. Aber was hat das mit der erkaltender Liebe zu tun? Sehr viel.
 
 - Wenn wir Jesus lieben, teilen wir seine Botschaft und lieben deshalb unsere Geschwister, aber auch alle Menschen außerhalb der Gemeinde.
 - Wenn wir unsere Geschwister lieben, lieben wir Jesus, weil wir ihn in ihnen sehen, und wir predigen das Evangelium, um diese Liebe mit der Welt zu teilen.
@@ -56,4 +56,4 @@ Ephesus mag eine etablierte Gemeinde sein, die ihre eigene Art hat, mit Herausfo
 <a name="cb84"></a>
 Die Verheißung, vom Baum des Lebens zu essen, führt sie zurück in die ungetrübte Beziehung zu Gott im Garten Eden. Wenn sie vorankommen und nicht zu einer überflüssigen Gemeinschaft werden wollen, müssen sie dort anfangen.
 
-Und sie haben eine [Verheißung im Neuen Jerusalem](https://www.bibleserver.com/SLT/Offenbarung22%2C1-5).
+Und sie haben eine {{% bible val="Verheißung im Neuen Jerusalem" link="https://www.bibleserver.com/SLT/Offenbarung22%2C1-5" %}}.

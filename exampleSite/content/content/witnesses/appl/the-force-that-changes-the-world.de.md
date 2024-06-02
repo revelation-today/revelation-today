@@ -21,12 +21,12 @@ Wer sind diese beiden Zeugen, die die ganze Welt verändern und das Reich Gottes
 ## Unser Text
 
 <a name="33c1"></a>
-Wir sind jetzt bereits in [Kapitel 11](https://www.bibleserver.com/SLT/Offenbarung11).
+Wir sind jetzt bereits in {{% bible val="Kapitel 11" link="https://www.bibleserver.com/SLT/Offenbarung11" %}}.
 
 ## Der Tempel
 
 <a name="f910"></a>
-Das erste, was wir (über das Büchlein) verstehen müssen, ist der Tempel. Der Tempel ist ein Bild für die Gegenwart Gottes, im Alten Testament war es Eden oder der Tempel, im Neuen Testament ist es Jesus oder die Gemeinde. Während im Alten Testament ein wesentlicher Zweck das Opfer war, ist dies jetzt [nicht mehr der Fall](https://www.bibleserver.com/SLT/Hebr%C3%A4er10%2C1-18).
+Das erste, was wir (über das Büchlein) verstehen müssen, ist der Tempel. Der Tempel ist ein Bild für die Gegenwart Gottes, im Alten Testament war es Eden oder der Tempel, im Neuen Testament ist es Jesus oder die Gemeinde. Während im Alten Testament ein wesentlicher Zweck das Opfer war, ist dies jetzt {{% bible val="nicht mehr der Fall" link="https://www.bibleserver.com/SLT/Hebr%C3%A4er10%2C1-18" %}}.
 
 Laut unserem Text ist Gott an Anbetern interessiert, d.h. es geht um unsere bedingungslose Loyalität zu Gott und genau das ist die Grundlage für die beiden Zeugen.
 

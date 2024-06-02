@@ -9,7 +9,7 @@ next: /content/trumpets/quick
 docType: quick
 ---
 
-[Bölüm 7](https://www.bibleserver.com/TR/Vahiy7)
+{{% bible val="Bölüm 7" link="https://www.bibleserver.com/TR/Vahiy7" %}}
 
 Son bölümdeki dramatik eylemlerden sonra çözülmesi gereken birkaç şey vardır:
 - Kilise tüm bu ezici eylemlerle nasıl başa çıkacak?
@@ -17,7 +17,7 @@ Son bölümdeki dramatik eylemlerden sonra çözülmesi gereken birkaç şey var
 
 ## Kilisenin korunması
 
-Bölüm [mühürlemenin tanımı](https://www.bibleserver.com/TR/Vahiy7%3A1-4) ile başlar. Bir melekten kutsallar mühürlenene kadar beklemesi istenir. Bu faaliyetler [borazanların belaları](https://www.bibleserver.com/TR/Vahiy9)'dır. Özellikle [beşinci borazan](https://www.bibleserver.com/TR/Vahiy9 önemlidir çünkü burada tüm insanlar [mühürlenmiş olanların dışında bırakılır](https://www.bibleserver.com/TR/Vahiy9%3A1-6).
+Bölüm {{% bible val="mühürlemenin tanımı" link="https://www.bibleserver.com/TR/Vahiy7%3A1-4" %}} ile başlar. Bir melekten kutsallar mühürlenene kadar beklemesi istenir. Bu faaliyetler {{% bible val="borazanların belaları" link="https://www.bibleserver.com/TR/Vahiy9" %}}'dır. Özellikle {{% bible val="beşinci borazan" link="https://www.bibleserver.com/TR/Vahiy9 önemlidir çünkü burada tüm insanlar [mühürlenmiş olanların dışında bırakılır](https://www.bibleserver.com/TR/Vahiy9%3A1-6" %}}.
 
 Bu, insanların tüm umutlarını kaybettikleri ve ölmek istedikleri ama ölemedikleri belalardır. Biz kutsallar bundan kurtulduk, yani belayla karşı karşıyayız ama buna dayanacak ve başkalarına tanıklık edecek gücü elde ediyoruz.
 
@@ -25,9 +25,9 @@ Bu, insanların tüm umutlarını kaybettikleri ve ölmek istedikleri ama öleme
 
 Şu anda kilisenin ne yapması gerektiği çok açık değildir, ancak kilise çok ilginç bir şekilde tanımlanmaktadır.
 
-Bir yandan bir [ordu](https://www.bibleserver.com/TR/Vahiy7%3A5-8) olarak tanımlanır (sayım, çıkış sırasında ordunun sayımını hatırlatır). Ve bu ordu, İsa'nın mensup olduğu Yahuda kabilesinin önderliğinde İsrail'in her kabilesinden 12.000 kişidir. Ancak bu sadece Yuhanna'nın duyduklarıdır. 
+Bir yandan bir {{% bible val="ordu" link="https://www.bibleserver.com/TR/Vahiy7%3A5-8" %}} olarak tanımlanır (sayım, çıkış sırasında ordunun sayımını hatırlatır). Ve bu ordu, İsa'nın mensup olduğu Yahuda kabilesinin önderliğinde İsrail'in her kabilesinden 12.000 kişidir. Ancak bu sadece Yuhanna'nın duyduklarıdır. 
 
-Ancak gördüğü gerçek çok farklıdır. Bu [Büyük Sıkıntı'dan çıkan sayılamayacak kadar çok tapınan](https://www.bibleserver.com/TR/Vahiy7%3A9-17) bir topluluktur. 
+Ancak gördüğü gerçek çok farklıdır. Bu {{% bible val="Büyük Sıkıntı'dan çıkan sayılamayacak kadar çok tapınan" link="https://www.bibleserver.com/TR/Vahiy7%3A9-17" %}} bir topluluktur. 
 
 Bu kulağa çok güçlü bir gerilim gibi geliyor. Muzaffer olmalıyız, tapınmamızda (Tanrı'ya sadakat) ve inançlı dayanıklılığımızda (başkalarına tanıklık) böyle olmalıyız. Bütün bunları kuzunun (İsa'nın) huzurunda yapıyoruz.
 

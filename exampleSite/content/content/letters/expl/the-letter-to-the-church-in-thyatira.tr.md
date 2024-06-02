@@ -16,7 +16,7 @@ sources:
 
 Sorunun önderlik olduğu bir kilisede ne yaparsınız? Doğru, Thyatira’daki kiliseye yazılan mektubu okursunuz!
 
-Bu kiliseye yazılan mektup, [muhtemelen en küçük kilise için yazılan en uzun mektuptur](https://www.bibleserver.com/TR/Vahiy2%3A18-29).
+Bu kiliseye yazılan mektup, {{% bible val="muhtemelen en küçük kilise için yazılan en uzun mektuptur" link="https://www.bibleserver.com/TR/Vahiy2%3A18-29" %}}.
 
 ## Tarihsel arka plan
 
@@ -28,14 +28,14 @@ Vahiy kitabının yazıldığı dönemde kasaba mor boya fabrikası ve bronz iş
 ## İsa’nın görüşü
 
 <a name="5c6b"></a>
-İsa bu kasabaya Tanrı’nın Oğlu olarak yaklaşır; gözleri alev alev yanan bir ateş, ayakları ise tunçtan yapılmıştır. Bu, [Daniel’in arkadaşlarının fırında](https://www.bibleserver.com/TR/Daniel3) [Tanrı’nın Oğlu](https://www.bibleserver.com/TR/Daniel3%3A25) gibi birinin onlara yardım ettiği öyküsünü hatırlatabilir.
+İsa bu kasabaya Tanrı’nın Oğlu olarak yaklaşır; gözleri alev alev yanan bir ateş, ayakları ise tunçtan yapılmıştır. Bu, {{% bible val="Daniel’in arkadaşlarının fırında" link="https://www.bibleserver.com/TR/Daniel3" %}} {{% bible val="Tanrı’nın Oğlu" link="https://www.bibleserver.com/TR/Daniel3%3A25" %}} gibi birinin onlara yardım ettiği öyküsünü hatırlatabilir.
 
-[İşler, sevgi (Efes’in mücadele ettiği), iman, azim ve her gün daha iyi olma (sürekli büyüme!) konusunda övgülerle doludur.](https://www.bibleserver.com/TR/Vahiy2%3A19)
+{{% bible val="İşler, sevgi (Efes’in mücadele ettiği), iman, azim ve her gün daha iyi olma (sürekli büyüme!) konusunda övgülerle doludur." link="https://www.bibleserver.com/TR/Vahiy2%3A19" %}}
 
 ## Sorun
 
 <a name="94db"></a>
-[Tek bir sorun vardır: İzebel](https://www.bibleserver.com/TR/Vahiy2%3A20). [İsrail’e kraliçe olarak putperestliği getirdi](https://www.bibleserver.com/TR/1.Krallar16%3A31). Ve burada, Thyatira’da putperestliği önderler olarak tanıtıyor.
+{{% bible val="Tek bir sorun vardır: İzebel" link="https://www.bibleserver.com/TR/Vahiy2%3A20" %}}. {{% bible val="İsrail’e kraliçe olarak putperestliği getirdi" link="https://www.bibleserver.com/TR/1.Krallar16%3A31" %}}. Ve burada, Thyatira’da putperestliği önderler olarak tanıtıyor.
 
 Durum Pergamon’a benzeyebilir ancak buradaki sorun daha ciddidir çünkü Thyatria’da sorun liderlikten kaynaklanmamakta, liderlik sorun olmaktadır.
 
@@ -46,11 +46,11 @@ Durum Pergamon’a benzeyebilir ancak buradaki sorun daha ciddidir çünkü Thya
 <a name="ac15"></a>
 Kilise üyeleri ne yapmalıdır? İsyan mı etmeli? Kiliseyi terk mi etmeli?
 
-[Yanıt İsa’ya tutunmak ve sadık kalmaktır](https://www.bibleserver.com/TR/Vahiy2%3A24-25). İsa, kendisine karşı sorumlu oldukları için önderlikle ilgilenecektir:
+{{% bible val="Yanıt İsa’ya tutunmak ve sadık kalmaktır" link="https://www.bibleserver.com/TR/Vahiy2%3A24-25" %}}. İsa, kendisine karşı sorumlu oldukları için önderlikle ilgilenecektir:
 
-- [tüm takipçileri tövbe etmeyi yeniden düşünmek için acı çekecek](https://www.bibleserver.com/TR/Vahiy2%3A21-22)
-- [diğer tüm kiliselere uyarı olarak yayılmayı durdurun](https://www.bibleserver.com/TR/Vahiy2%3A23)
+- {{% bible val="tüm takipçileri tövbe etmeyi yeniden düşünmek için acı çekecek" link="https://www.bibleserver.com/TR/Vahiy2%3A21-22" %}}
+- {{% bible val="diğer tüm kiliselere uyarı olarak yayılmayı durdurun" link="https://www.bibleserver.com/TR/Vahiy2%3A23" %}}
 
-Tahammül edenlere İsa, yanlış otorite altında tahammül ettikleri ve sadık kaldıkları için yetki vaat eder. Demir bir asayla yönetmek [Mezmur 2'den ](https://www.bibleserver.com/TR/Mezmur2)alınmıştır.
+Tahammül edenlere İsa, yanlış otorite altında tahammül ettikleri ve sadık kaldıkları için yetki vaat eder. Demir bir asayla yönetmek {{% bible val="Mezmur 2'den " link="https://www.bibleserver.com/TR/Mezmur2" %}}alınmıştır.
 
-[Sabah yıldızı](https://www.bibleserver.com/TR/Vahiy2%3A28), [sabah yıldızı olan İsa’yla](https://www.bibleserver.com/TR/Vahiy22%3A16) ilgili [yeni bir umudun doğuşuyla ](https://www.bibleserver.com/TR/2.Petrus1%3A19)ilgili olabilir.
+{{% bible val="Sabah yıldızı" link="https://www.bibleserver.com/TR/Vahiy2%3A28" %}}, {{% bible val="sabah yıldızı olan İsa’yla" link="https://www.bibleserver.com/TR/Vahiy22%3A16" %}} ilgili {{% bible val="yeni bir umudun doğuşuyla " link="https://www.bibleserver.com/TR/2.Petrus1%3A19" %}}ilgili olabilir.

@@ -8,7 +8,7 @@ next: /content/worship/quick
 docType: quick
 ---
 
-[Chapter 2](https://www.bibleserver.com/NIV/Revelation2) and [3](https://www.bibleserver.com/NIV/Revelation3).
+{{% bible val="Chapter 2" link="https://www.bibleserver.com/NIV/Revelation2" %}} and {{% bible val="3" link="https://www.bibleserver.com/NIV/Revelation3" %}}.
 
 The letters describe how the churches live in the vision. This shows the view that Jesus has on the churches. And the result is devastating:
 - only two church onyl receive praise: Smyrna and Philadelpia which suffer under persecution and poverty

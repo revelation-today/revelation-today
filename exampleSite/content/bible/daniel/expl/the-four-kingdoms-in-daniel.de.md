@@ -16,21 +16,21 @@ Das Buch Daniel scheint die Quelle für viele endzeitliche Interpretationen zu s
 ## Die vier Königreiche
 
 <a name="c9a9"></a>
-In den Kapiteln 2 und 7 des Buches Daniel sehen wir vier Königreiche, die in [Kapitel 2 durch ein Standbild](https://www.bibleserver.com/SLT/Daniel2) und in [Kapitel 7 durch vier Tiere](https://www.bibleserver.com/SLT/Daniel7) beschrieben werden.
+In den Kapiteln 2 und 7 des Buches Daniel sehen wir vier Königreiche, die in {{% bible val="Kapitel 2 durch ein Standbild" link="https://www.bibleserver.com/SLT/Daniel2" %}} und in {{% bible val="Kapitel 7 durch vier Tiere" link="https://www.bibleserver.com/SLT/Daniel7" %}} beschrieben werden.
 
 Beide Kapitel beschreiben sie als aufeinanderfolgend: Kapitel 2 explizit, Kapitel 7 durch gegenseitige Überwindung und Ablösung.
 
-In Kapitel 2 sehen wir, dass der [Ausgangspunkt Babel](https://www.bibleserver.com/SLT/Daniel2%2C37-38) ist. Babel wurde durch das Medo[-Persische Reich](https://www.bibleserver.com/SLT/Daniel5%2C30) zerstört. Einige Ausleger sehen Medien und Persien als zwei verschiedene aufeinanderfolgende Reiche, aber das entspricht nicht wirklich der Geschichte, da beide vereinigt waren BEVOR sie Babel eroberten.
+In Kapitel 2 sehen wir, dass der {{% bible val="Ausgangspunkt Babel" link="https://www.bibleserver.com/SLT/Daniel2%2C37-38" %}} ist. Babel wurde durch das Medo{{% bible val="-Persische Reich" link="https://www.bibleserver.com/SLT/Daniel5%2C30" %}} zerstört. Einige Ausleger sehen Medien und Persien als zwei verschiedene aufeinanderfolgende Reiche, aber das entspricht nicht wirklich der Geschichte, da beide vereinigt waren BEVOR sie Babel eroberten.
 
-Das dritte wäre dann das [griechische Reich unter Alexander dem Großen, das das persische Reich ablöste](https://www.bibleserver.com/SLT/Daniel8%2C19-21). Dieses zerfiel nach Alexanders Tod in vier Reiche, die schließlich von den Römern erobert wurden.
+Das dritte wäre dann das {{% bible val="griechische Reich unter Alexander dem Großen, das das persische Reich ablöste" link="https://www.bibleserver.com/SLT/Daniel8%2C19-21" %}}. Dieses zerfiel nach Alexanders Tod in vier Reiche, die schließlich von den Römern erobert wurden.
 
 Kapitel 7 zeigt ein ähnliches Bild.
 
-Es beginnt mit [Babel](https://www.bibleserver.com/SLT/Daniel7%2C3-4).
+Es beginnt mit {{% bible val="Babel" link="https://www.bibleserver.com/SLT/Daniel7%2C3-4" %}}.
 
-Babel wurde durch Löwen in [Statuen](https://en.m.wikipedia.org/wiki/Lion_of_Babylon) oder Porträts dargestellt und wurde whrscheinlich auch von Jeremia als [Löwe und Adler im Gericht über Edom](https://www.bibleserver.com/SLT/Jeremia49%2C19-22) beschrieben.
+Babel wurde durch Löwen in [Statuen](https://en.m.wikipedia.org/wiki/Lion_of_Babylon) oder Porträts dargestellt und wurde whrscheinlich auch von Jeremia als {{% bible val="Löwe und Adler im Gericht über Edom" link="https://www.bibleserver.com/SLT/Jeremia49%2C19-22" %}} beschrieben.
 
-Dann kommen die [Perser](https://www.bibleserver.com/SLT/Daniel7%2C5):
+Dann kommen die {{% bible val="Perser" link="https://www.bibleserver.com/SLT/Daniel7%2C5" %}}:
 
 Der Bär, der auf einer Seite aufgerichtet ist, weil er das gemeinsame Reich der Perser und Meder beschreibt. Die Perser waren dabei der kleinere Teil, der aber später die Oberhand gewann.
 
@@ -42,18 +42,18 @@ Der Leopard beschreibt sehr gut die schnelle Ausbreitung des Reiches von Grieche
 
 Schließlich kommen die Römer.
 
-Die Römer besiegten die letzten griechischen Reiche mit eiserner Härte. Eisen wird auch [in Kapitel 2 als Material für das letzte der vier Reiche](https://www.bibleserver.com/SLT/Daniel2%2C40) verwendet.
+Die Römer besiegten die letzten griechischen Reiche mit eiserner Härte. Eisen wird auch {{% bible val="in Kapitel 2 als Material für das letzte der vier Reiche" link="https://www.bibleserver.com/SLT/Daniel2%2C40" %}} verwendet.
 
 ## Das Ende der Reiche
 
 <a name="415e"></a>
-In beide Kapiteln wird das Ende der Reiche durch ein von Gott bewirktes Ereignis beschrieben. In Kapitel 2 wird es durch einen [Stein beschrieben, der nicht von Menschenhand geformt](https://www.bibleserver.com/SLT/Daniel2%2C34) wurde, der aber [dann zu etwas wurde, das die ganze Erde erfüllt](https://www.bibleserver.com/SLT/Daniel2%2C35).
+In beide Kapiteln wird das Ende der Reiche durch ein von Gott bewirktes Ereignis beschrieben. In Kapitel 2 wird es durch einen {{% bible val="Stein beschrieben, der nicht von Menschenhand geformt" link="https://www.bibleserver.com/SLT/Daniel2%2C34" %}} wurde, der aber {{% bible val="dann zu etwas wurde, das die ganze Erde erfüllt" link="https://www.bibleserver.com/SLT/Daniel2%2C35" %}}.
 
-Das erinnert an den [Eckstein](https://www.bibleserver.com/SLT/Jesaja28%2C16), der [Jesus](https://www.bibleserver.com/SLT/1.Petrus2%2C4-8) ist, der das [Fundament der Gemeinde](https://www.bibleserver.com/SLT/Epheser2%2C19-22) ist. Er wurde nicht von Menschen gemacht und wurde zum Herrscher dieser Welt und gab diese Autorität an die Gemeinde weiter.
+Das erinnert an den {{% bible val="Eckstein" link="https://www.bibleserver.com/SLT/Jesaja28%2C16" %}}, der {{% bible val="Jesus" link="https://www.bibleserver.com/SLT/1.Petrus2%2C4-8" %}} ist, der das {{% bible val="Fundament der Gemeinde" link="https://www.bibleserver.com/SLT/Epheser2%2C19-22" %}} ist. Er wurde nicht von Menschen gemacht und wurde zum Herrscher dieser Welt und gab diese Autorität an die Gemeinde weiter.
 
-Wenn wir uns Kapitel 7 anschauen, sehen wir, wie der [Menschensohn die Reiche überwindet](https://www.bibleserver.com/SLT/Daniel7%2C9-12) und ein [ewiges Reich aufrichtet](https://www.bibleserver.com/SLT/Daniel7%2C13-14). Doch wer ist der Menschensohn?
+Wenn wir uns Kapitel 7 anschauen, sehen wir, wie der {{% bible val="Menschensohn die Reiche überwindet" link="https://www.bibleserver.com/SLT/Daniel7%2C9-12" %}} und ein {{% bible val="ewiges Reich aufrichtet" link="https://www.bibleserver.com/SLT/Daniel7%2C13-14" %}}. Doch wer ist der Menschensohn?
 
-Im Kontext von Daniel ist es Israel, weil es [wie der Menschensohn](https://www.bibleserver.com/SLT/Daniel7%2C14) das [Königreich empfängt](https://www.bibleserver.com/SLT/Daniel7%2C18). Dies hat sich in Jesus erfüllt, der sich selbst [ausschließlich als Menschensohn bezeichnet hat](https://www.bibleserver.com/search/SLT/son%20of%20man).
+Im Kontext von Daniel ist es Israel, weil es {{% bible val="wie der Menschensohn" link="https://www.bibleserver.com/SLT/Daniel7%2C14" %}} das {{% bible val="Königreich empfängt" link="https://www.bibleserver.com/SLT/Daniel7%2C18" %}}. Dies hat sich in Jesus erfüllt, der sich selbst {{% bible val="ausschließlich als Menschensohn bezeichnet hat" link="https://www.bibleserver.com/search/SLT/son%20of%20man" %}}.
 
 ## Aber da ist mehr
 
@@ -69,7 +69,7 @@ Viele haben darüber nachgedacht, hier sind meine Gedanken (basierend auf den Ge
 
 Die Geschichte ist mit dem ersten Kommen Jesu nicht zu Ende gegangen, sondern hat etwas Grundlegendes bewirkt: Die Gemeinde regiert jetzt die Welt! Durch die Verkündigung des Evangeliums, durch Gebet, Zeugnis und Beharrlichkeit verändert sich die Welt. Aber wie sieht das konkret aus? Sehen wir nicht vielmehr eine Welt, die geprägt ist von Kreuzzügen, Inquisition, Zwangsbekehrungen und Angst vor der Hölle?
 
-Andererseits ist der Übergang der Herrschaft nicht so offensichtlich, denn sein Reich ist nicht von dieser Welt. Wenn Jesus und die Gemeinde die Herrschaft übernehmen, müssen wir uns fragen, was [Herrschaft](https://www.bibleserver.com/SLT/Matth%C3%A4us20%2C25-28) im Reich Gottes eigentlich bedeutet.
+Andererseits ist der Übergang der Herrschaft nicht so offensichtlich, denn sein Reich ist nicht von dieser Welt. Wenn Jesus und die Gemeinde die Herrschaft übernehmen, müssen wir uns fragen, was {{% bible val="Herrschaft" link="https://www.bibleserver.com/SLT/Matth%C3%A4us20%2C25-28" %}} im Reich Gottes eigentlich bedeutet.
 
 Das Römische Reich war das letzte Reich, das über Israel herrschte. Durch den Neuen Bund ist das Volk Gottes über die ganze Erde verstreut, und es gibt kein einziges Reich, das sie einschließt.
 

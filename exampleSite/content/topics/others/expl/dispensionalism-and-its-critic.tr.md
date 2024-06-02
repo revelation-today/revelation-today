@@ -21,9 +21,9 @@ Dispensiyonalizm tartışılmaktadır ve okuyucu için anlaşılması çok kafa 
 <a name="16f7"></a>
 Bu yaklaşımın Kutsal Kitap’ı harfi harfine kullanacağı, bunun da temelde iyi bir şey olduğu, ancak böyle bir yaklaşımın her durumda Kutsal Kitap’ın literatürünü yansıtmayacağı savunulmaktadır.
 
-Şarkıların şarkısı gibi şiirsel bir edebiyat vardır. [Her şey harfi harfine alınırsa Sulamith böyle görünecektir](https://www.pinterest.com/pin/414894184412811101/). [Bunun kelimesi kelimesine kastedilmiş olma ihtimalinin düşük olduğu başka yerler de var](https://www.bibleserver.com/TR/Ye%C5%9Faya55%3A12).
+Şarkıların şarkısı gibi şiirsel bir edebiyat vardır. [Her şey harfi harfine alınırsa Sulamith böyle görünecektir](https://www.pinterest.com/pin/414894184412811101/). {{% bible val="Bunun kelimesi kelimesine kastedilmiş olma ihtimalinin düşük olduğu başka yerler de var" link="https://www.bibleserver.com/TR/Ye%C5%9Faya55%3A12" %}}.
 
-Dahası, Dispensionalistler bu ilkeyi uygulamakta yetersiz kalırlar. [Canavarın yedi başlı ve on boynuzlu olmayacağı konusunda hemfikirdirler](https://www.bibleserver.com/TR/Vahiy13%3A1). [Yecüc ve Mecüc’e](https://www.bibleserver.com/TR/Vahiy20%3A8) bile [Tanrı’nın yay ve okları yok etmesine atıfta bulunulur](https://www.bibleserver.com/TR/Hezekiel39%3A3), bunlar uçaklar ve füzeler olarak yorumlanır.
+Dahası, Dispensionalistler bu ilkeyi uygulamakta yetersiz kalırlar. {{% bible val="Canavarın yedi başlı ve on boynuzlu olmayacağı konusunda hemfikirdirler" link="https://www.bibleserver.com/TR/Vahiy13%3A1" %}}. {{% bible val="Yecüc ve Mecüc’e" link="https://www.bibleserver.com/TR/Vahiy20%3A8" %}} bile {{% bible val="Tanrı’nın yay ve okları yok etmesine atıfta bulunulur" link="https://www.bibleserver.com/TR/Hezekiel39%3A3" %}}, bunlar uçaklar ve füzeler olarak yorumlanır.
 
 ## Literatür anlayışının eksikliği
 
@@ -33,14 +33,14 @@ Teori edebiyatın türünü dikkate almaz: Apokaliptik, kehanetsel bir mektup �
 ## Orijinal okuyucular için bir önemi yok
 
 <a name="a509"></a>
-Bu teori orijinal okuyucular için hiçbir anlam ifade etmemektedir. Gelecekteki olaylarla ilgili olduğu savı da geçerli değildir, çünkü Daniel kitabı da çok uzak geleceğe bakar, [ancak bu kitap mühürlenmiştir (zaman hazır olana kadar)](https://www.bibleserver.com/TR/Daniel8%3A26), ancak [Vahiy](https://www.bibleserver.com/TR/Vahiy22%3A10) için böyle bir durum söz konusu değildir.
+Bu teori orijinal okuyucular için hiçbir anlam ifade etmemektedir. Gelecekteki olaylarla ilgili olduğu savı da geçerli değildir, çünkü Daniel kitabı da çok uzak geleceğe bakar, {{% bible val="ancak bu kitap mühürlenmiştir (zaman hazır olana kadar)" link="https://www.bibleserver.com/TR/Daniel8%3A26" %}}, ancak {{% bible val="Vahiy" link="https://www.bibleserver.com/TR/Vahiy22%3A10" %}} için böyle bir durum söz konusu değildir.
 
 ## Bağlama dayalı
 
 <a name="a4b2"></a>
 Teori sık sık açıklama yapmadan iddialarda bulunmakta ya da İncil’den ayetler kullanmakta, ancak bunlar kendi bağlamı içinde değerlendirilmemektedir.
 
-[70 yıl kehanetindeki asıl 2000 yıllık gecikme](https://www.bibleserver.com/TR/Daniel9%3A26-27), bu ayetlerin sadece Kral James çevirilerinde desteklenen çok özel bir okumasına, hatta noktalamasına bağlıdır.
+{{% bible val="70 yıl kehanetindeki asıl 2000 yıllık gecikme" link="https://www.bibleserver.com/TR/Daniel9%3A26-27" %}}, bu ayetlerin sadece Kral James çevirilerinde desteklenen çok özel bir okumasına, hatta noktalamasına bağlıdır.
 
 ## Gelecek Tahmini
 
@@ -49,7 +49,7 @@ Bu yorum sıklıkla güncel siyasetin belirli bir unsurunun Vahiy Kitabı’nda 
 
 Bu yaklaşımın çeşitli kusurları vardır:
 
-- Tanrı’nın ayrıntılı planı peygamberler tarafından bildirilse bile sabit değildir, [Yunus](https://www.bibleserver.com/TR/Yunus3%3A4-10)’un ya da [Hesekiya](https://www.bibleserver.com/TR/Ye%C5%9Faya38%3A1-5)’nın öyküsüne bakın
+- Tanrı’nın ayrıntılı planı peygamberler tarafından bildirilse bile sabit değildir, {{% bible val="Yunus" link="https://www.bibleserver.com/TR/Yunus3%3A4-10" %}}’un ya da {{% bible val="Hesekiya" link="https://www.bibleserver.com/TR/Ye%C5%9Faya38%3A1-5" %}}’nın öyküsüne bakın
 - Bir kehanet kitabı olarak amaç kehanette bulunmak değil, (potansiyel) sonuçları tarif etmek ve insanları bunların gerçekleşmemesi için harekete geçmeye teşvik etmektir
 - Tarihi olayların o kadar çok “eşleşmesi” vardı ki, bunlar o kadar ikna ediciydi ki, ancak zaman geçtikçe hepsi revize edildi, böylece tüm bu uygun tahminlerin miktarı buna karşı en iyi argüman oldu 😎
 - Tahmin genellikle özel bir tünel bakış açısıyla yapılır, örneğin kiliselere gönderilen yedi mektup kilisenin 7 dönemi olarak görülür ve şu anda Laodikya’nın, ılık kilisenin son döneminde yaşıyoruz. Bu bazı batı kiliseleri için bir yorum olabilir ama şu anda sıkıntı altında olan birçok kilise için çok yanlış bir görüş olacaktır
@@ -62,7 +62,7 @@ Bu yaklaşımın çeşitli kusurları vardır:
 ## Üçüncü tapınak
 
 <a name="1e67"></a>
-Teori Kudüs’te yeni bir tapınak inşa edileceğinden bahseder ki bu da [tapınağın Vahiy’de Yahudi olmayanlara verilmesine dayanır](https://www.bibleserver.com/TR/Vahiy11%3A1-2). Şu anda bina olarak bir tapınak mevcut olmadığından, inşa edilmesi gerekir. [Bu yorum, tapınağın bir bina değil](/bible/keyword/expl/the-temple-and-the-presence-of-god), Tanrı’nın varlığının bir tasviri olduğunu dikkate almaz.
+Teori Kudüs’te yeni bir tapınak inşa edileceğinden bahseder ki bu da {{% bible val="tapınağın Vahiy’de Yahudi olmayanlara verilmesine dayanır" link="https://www.bibleserver.com/TR/Vahiy11%3A1-2" %}}. Şu anda bina olarak bir tapınak mevcut olmadığından, inşa edilmesi gerekir. [Bu yorum, tapınağın bir bina değil](/bible/keyword/expl/the-temple-and-the-presence-of-god), Tanrı’nın varlığının bir tasviri olduğunu dikkate almaz.
 
 Bu nedenle yeni bir tapınak binasının inşa edileceğine dair bir ifade vardır.
 
@@ -80,9 +80,9 @@ Bu konuda yanlış olan birçok şey vardır. Ancak bu konuya gelmeden önce, bu
 
 Peki sorun ne?
 
-- [kilise, İsrail’in orijinal](/background/israel/expl/the-church-is-part-of-israel) çağrısının yerine getirilmesi ve [kilisenin İsrail’in bir parçası](https://www.bibleserver.com/TR/Romal%C4%B1lar11%3A13-24) olması yoluyla İsrail ile özdeşleştirilir
-- [İsrail ile diğer uluslar arasında artık bir duvar/ayrım yoktur](https://www.bibleserver.com/TR/Efesliler2%3A11-22)
-- [Kilise geçici değil, Sina’daki antlaşmadır](https://www.bibleserver.com/TR/Galatyal%C4%B1lar3%3A15-29); Mesih’e iman ise İbrahim’le yapılan antlaşmanın yerine gelmesidir
+- [kilise, İsrail’in orijinal](/background/israel/expl/the-church-is-part-of-israel) çağrısının yerine getirilmesi ve {{% bible val="kilisenin İsrail’in bir parçası" link="https://www.bibleserver.com/TR/Romal%C4%B1lar11%3A13-24" %}} olması yoluyla İsrail ile özdeşleştirilir
+- {{% bible val="İsrail ile diğer uluslar arasında artık bir duvar/ayrım yoktur" link="https://www.bibleserver.com/TR/Efesliler2%3A11-22" %}}
+- {{% bible val="Kilise geçici değil, Sina’daki antlaşmadır" link="https://www.bibleserver.com/TR/Galatyal%C4%B1lar3%3A15-29" %}}; Mesih’e iman ise İbrahim’le yapılan antlaşmanın yerine gelmesidir
 - kilise ortadan kalkmaz çünkü terim ortadan kalkar
 - Eğer tüm İsrail yönetecekse, Tanrı’ya hiç inanmayan insanlar ne olacak — ve bu ateistlerin olmadığı Eski Ahitlerde daha da iyiydi ;-)
 
@@ -99,7 +99,7 @@ En önemlileri, her ikisinden de bir kez bahsedilen kendinden geçme ve sıkınt
 ## Savaş silahları
 
 <a name="6f89"></a>
-İman, [Vahiy’in bir yansıması olmayan orduya katılan çok militarist bir şekilde tanımlanır](https://www.bibleserver.com/TR/Vahiy14%3A1-5): [İsa ağzındaki kılıçla tek başına savaşa gider](https://www.bibleserver.com/TR/Vahiy19%3A21). Bu çok sembolik bir eylemdir ve şiddetli bir savaş eylemi anlamına gelmez.
+İman, {{% bible val="Vahiy’in bir yansıması olmayan orduya katılan çok militarist bir şekilde tanımlanır" link="https://www.bibleserver.com/TR/Vahiy14%3A1-5" %}}: {{% bible val="İsa ağzındaki kılıçla tek başına savaşa gider" link="https://www.bibleserver.com/TR/Vahiy19%3A21" %}}. Bu çok sembolik bir eylemdir ve şiddetli bir savaş eylemi anlamına gelmez.
 
 ## Yanlış bir şekilde siyasi
 

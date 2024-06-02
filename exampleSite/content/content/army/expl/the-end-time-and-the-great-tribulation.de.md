@@ -45,27 +45,27 @@ Andererseits kann die Endzeit auch als die Zeit der Wiederkunft Jesu und die kur
 ## Die Große Trübsal
 
 <a name="abe2"></a>
-Die Große Trübsal ist ein Begriff, der in der [Offenbarung](https://www.bibleserver.com/SLT/Offenbarung7%2C14) vorkommt und der vorangehende Artikel zeigt, dass dieser Begriff eine Vorgeschichte hat, nämlich bei [Daniel](https://www.bibleserver.com/SLT/Daniel12%2C1).
+Die Große Trübsal ist ein Begriff, der in der {{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung7%2C14" %}} vorkommt und der vorangehende Artikel zeigt, dass dieser Begriff eine Vorgeschichte hat, nämlich bei {{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel12%2C1" %}}.
 
-Dieser Abschnitt wird bei [Matthäus](https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C21) und [Markus](https://www.bibleserver.com/SLT/Markus13%2C19) wieder aufgegriffen, als Jesus von der Zerstörung Jerusalems und des Tempels spricht.
+Dieser Abschnitt wird bei {{% bible val="Matthäus" link="https://www.bibleserver.com/SLT/Matth%C3%A4us24%2C21" %}} und {{% bible val="Markus" link="https://www.bibleserver.com/SLT/Markus13%2C19" %}} wieder aufgegriffen, als Jesus von der Zerstörung Jerusalems und des Tempels spricht.
 
-Im Kontext Daniels geschah dies, als die Glaubenstreue Israels durch [Antiochus Epiphanes und darüber hinaus](https://www.bibleserver.com/SLT/Daniel11%2C30-39) auf die Probe gestellt wurde mit dem Ziel, [die Gläubigen zu reinigen und sie von den Verdorbenen zu trennen](https://www.bibleserver.com/SLT/Daniel12%2C10). Einige von ihnen [werden verblendet und wenden sich von Gott ab](https://www.bibleserver.com/SLT/Daniel11%2C32-34).
+Im Kontext Daniels geschah dies, als die Glaubenstreue Israels durch {{% bible val="Antiochus Epiphanes und darüber hinaus" link="https://www.bibleserver.com/SLT/Daniel11%2C30-39" %}} auf die Probe gestellt wurde mit dem Ziel, {{% bible val="die Gläubigen zu reinigen und sie von den Verdorbenen zu trennen" link="https://www.bibleserver.com/SLT/Daniel12%2C10" %}}. Einige von ihnen {{% bible val="werden verblendet und wenden sich von Gott ab" link="https://www.bibleserver.com/SLT/Daniel11%2C32-34" %}}.
 
-Diese Unterdrückung kann [wirtschaftlich](https://www.bibleserver.com/SLT/Offenbarung6%2C5-6) durch den dritten Reiter oder wie in [Smyrna durch Gefängnis oder Tod](https://www.bibleserver.com/SLT/Offenbarung2%2C10) erfolgen.
+Diese Unterdrückung kann {{% bible val="wirtschaftlich" link="https://www.bibleserver.com/SLT/Offenbarung6%2C5-6" %}} durch den dritten Reiter oder wie in {{% bible val="Smyrna durch Gefängnis oder Tod" link="https://www.bibleserver.com/SLT/Offenbarung2%2C10" %}} erfolgen.
 
 Diese Trübsal
 
-- [hat Jesus seinen Jüngern schon angekündigt,](https://www.bibleserver.com/SLT/Johannes16%2C33)
-- [sie ist Paulus widerfahren,](https://www.bibleserver.com/SLT/Apostelgeschichte14%2C22)
-- [ist Träger von Hoffnung,](https://www.bibleserver.com/SLT/R%C3%B6mer5%2C3-4)
-- [sie kann uns nicht von Jesus trennen,](https://www.bibleserver.com/SLT/R%C3%B6mer8%2C35-36)
-- [ist Warnung an Timotheus](https://www.bibleserver.com/SLT/2.Timotheus3%2C12) und
-- [im Brief des Petrus](https://www.bibleserver.com/SLT/1.Petrus4%2C12-13).
+- {{% bible val="hat Jesus seinen Jüngern schon angekündigt," link="https://www.bibleserver.com/SLT/Johannes16%2C33" %}}
+- {{% bible val="sie ist Paulus widerfahren," link="https://www.bibleserver.com/SLT/Apostelgeschichte14%2C22" %}}
+- {{% bible val="ist Träger von Hoffnung," link="https://www.bibleserver.com/SLT/R%C3%B6mer5%2C3-4" %}}
+- {{% bible val="sie kann uns nicht von Jesus trennen," link="https://www.bibleserver.com/SLT/R%C3%B6mer8%2C35-36" %}}
+- {{% bible val="ist Warnung an Timotheus" link="https://www.bibleserver.com/SLT/2.Timotheus3%2C12" %}} und
+- {{% bible val="im Brief des Petrus" link="https://www.bibleserver.com/SLT/1.Petrus4%2C12-13" %}}.
 
 Der [Begriff selbst wird im Sendschreiben an Thyatira aufgegriffen, dort jedoch als Gericht über die Leiter, die als Isebel identifiziert werden](https://biblehub.com/interlinear/revelation/2-22.htm).
 
 Das macht die Trübsal zu etwas, das während der gesamten Zeit zwischen dem erstem und dem zweitem Kommen Jesu geschieht. Aber wie ist das möglich?
 
-Schauen wir noch einmal bei Daniel nach. “[Michael, der Hüter Israels wird aufstehen](https://www.bibleserver.com/SLT/Daniel12%2C1)”. Dieses Thema wird in der Offenbarung beim [ersten Kommen Jesu](/content/jesus/expl/a-different-christmas-story) in Kapitel 12 wieder aufgenommen. [Michael wird gegen den Drachen (Satan) kämpfen](https://www.bibleserver.com/SLT/Offenbarung12%2C7), ihn besiegen und aus dem Himmel werfen. Aber [aufgrund dessen und weil er weiß, dass er nur wenig Zeit hat](https://www.bibleserver.com/SLT/Offenbarung12%2C12), wird er versuchen, so viel Schaden wie möglich anzurichten, [zuerst an Israel](https://www.bibleserver.com/SLT/Offenbarung12%2C13-17) und als das nicht gelingt, [an der Gemeinde](https://www.bibleserver.com/SLT/Offenbarung13).
+Schauen wir noch einmal bei Daniel nach. “{{% bible val="Michael, der Hüter Israels wird aufstehen" link="https://www.bibleserver.com/SLT/Daniel12%2C1" %}}”. Dieses Thema wird in der Offenbarung beim [ersten Kommen Jesu](/content/jesus/expl/a-different-christmas-story) in Kapitel 12 wieder aufgenommen. {{% bible val="Michael wird gegen den Drachen (Satan) kämpfen" link="https://www.bibleserver.com/SLT/Offenbarung12%2C7" %}}, ihn besiegen und aus dem Himmel werfen. Aber {{% bible val="aufgrund dessen und weil er weiß, dass er nur wenig Zeit hat" link="https://www.bibleserver.com/SLT/Offenbarung12%2C12" %}}, wird er versuchen, so viel Schaden wie möglich anzurichten, {{% bible val="zuerst an Israel" link="https://www.bibleserver.com/SLT/Offenbarung12%2C13-17" %}} und als das nicht gelingt, {{% bible val="an der Gemeinde" link="https://www.bibleserver.com/SLT/Offenbarung13" %}}.
 
 Die Große Trübsal sind alle Verfolgungen, die die Gemeinde seit ihrer Gründung erdulden musste.

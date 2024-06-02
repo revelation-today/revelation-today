@@ -50,7 +50,7 @@ When Jesus came, He brought the Day of the Lord.
 He called himself “Son of Man” and thus the last remnant of Israel. Israel had failed in its mission to save the nations and needed to be saved itself. So Jesus came to save Israel, but also to reestablish it:
 
 - He called 12 disciples according to the 12 tribes of Israel
-- He fasted 40 days (imitating key events in the Exodus: [Receiving the Commandments](https://www.bibleserver.com/NIV/Exodus34%3A28), [Inspection of the Promised Land by the spies](https://www.bibleserver.com/NIV/Numbers14%3A34)).
+- He fasted 40 days (imitating key events in the Exodus: {{% bible val="Receiving the Commandments" link="https://www.bibleserver.com/NIV/Exodus34%3A28" %}}, {{% bible val="Inspection of the Promised Land by the spies" link="https://www.bibleserver.com/NIV/Numbers14%3A34" %}}).
 - After the 40 days, He overcame all the temptations that Israel failed to overcome in the desert.
 
 In doing so, He saved not only Israel, but also the nations who will not be a part of Israel. This created another situation — the Day of the Lord was divided into two:
@@ -63,7 +63,7 @@ In doing so, He saved not only Israel, but also the nations who will not be a pa
 <a name="9e32"></a>
 What is the role of the Church? The church is the new Israel (beginning with the believers from Israel), enlarged by the nations who have accepted Jesus. The Church is to reach all nations as Israel was to be (or rather, Abraham through whom all nations were to be blessed).
 
-But there is an important detail: When Jesus talked about the coming Church, He said that the Church would be [persecuted](https://www.bibleserver.com/NIV/John15%3A20), something that Israel did not experience (judgment came only when they disobeyed).
+But there is an important detail: When Jesus talked about the coming Church, He said that the Church would be {{% bible val="persecuted" link="https://www.bibleserver.com/NIV/John15%3A20" %}}, something that Israel did not experience (judgment came only when they disobeyed).
 
 When Jesus returns, the intent is for all nations to be saved and all to have a relationship with God-the original purpose-and of course the persecution will end.
 

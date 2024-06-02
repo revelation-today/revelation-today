@@ -9,7 +9,7 @@ next: /content/harvest/quick
 docType: quick
 ---
 
-[Chapter 13](https://www.bibleserver.com/NIV/Revelation13)
+{{% bible val="Chapter 13" link="https://www.bibleserver.com/NIV/Revelation13" %}}
 
 Satan is defeated. Everything he started failed. Now he attacks the church.
 
@@ -25,6 +25,6 @@ Even this looks on the first look like a perfect deception, there are major diff
 
 The is the difference between the church and Satans doing. While Satan can use a lot of power, it is the church that is distinctive by working out of love without fear or manipulation. 
 
-The second beast is also interesting: It has [two horns like a lamb but the voice of a dragon](https://www.bibleserver.com/NIV/Revelation13%3A11). People will fall for the deception because this looks like the lamb. The distinction is only by voice. And only Jesus sheep hear his voice.
+The second beast is also interesting: It has {{% bible val="two horns like a lamb but the voice of a dragon" link="https://www.bibleserver.com/NIV/Revelation13%3A11" %}}. People will fall for the deception because this looks like the lamb. The distinction is only by voice. And only Jesus sheep hear his voice.
 
 So the world is fooled by this but the church is able to see the difference and act accordingly.
