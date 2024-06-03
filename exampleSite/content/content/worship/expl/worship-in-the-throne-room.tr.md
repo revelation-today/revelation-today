@@ -36,38 +36,38 @@ Bu bölümden önceki son ayet zaten Tanrı'nın taht odasından bahsetmektedir,
 </tr></thead><tbody>
 <tr>
     <td><a href="https://biblehub.com/greek/2983.htm">otorite algısı</a></td>
-    <td>Tiyatira'da üstün gelenler için {{% bible val="getting the morning star" link="rev:2,28" lang="TR" %}} vaadinde</td>
-    <td>kuzu için {{% bible val="the scroll" link="rev:5,9" lang="TR" %}} ve {{% bible val="honor and glory" link="rev:5,12" lang="TR" %}} alacağı gibi</td>
+    <td>Tiyatira'da üstün gelenler için {{% bible val="sabah yıldızını almak" link="rev:2,28" lang="TR" %}} vaadinde</td>
+    <td>kuzu için {{% bible val="parşömen" link="rev:5,9" lang="TR" %}} ve {{% bible val="onur ve şeref" link="rev:5,12" lang="TR" %}} alacağı gibi</td>
 </tr>
 <tr>
     <td>gelen</td>
-    <td> {{% bible val="Laodikya tahta oturacak" link="rev:3,21" lang="TR" %}}</td>
+    <td>{{% bible val="Laodikya tahta oturacak" link="rev:3,21" lang="TR" %}}</td>
     <td>{{% bible val="kuzu üstesinden geldi ve parşömeni açmaya layık" link="rev:5,5" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>Tanrı'nın yedi ruhu</td>
     <td>{{% bible val="Sardis adresinde" link="rev:3,1" lang="TR" %}}</td>
-    <td>{% bible val="the description before throne" link="rev:4,5" lang="TR" %}} olarak ve {{% bible val="description of the eyes of the lamb" link="rev:5,6" lang="TR" %}} olarak</td>
+    <td>{{% bible val="thron'dan önceki açıklamae" link="rev:4,5" lang="TR" %}} olarak ve {{% bible val="kuzunun gözleri̇ni̇n tanimi" link="rev:5,6" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>azizlerin beyaz giysileri</td>
-    <td>{% bible val="Sardis'teki fatihler" link="rev:3,5" lang="TR" %}} ve {{% bible val="İsa'nın Laodikya'ya teklifi" link="rev:3,18" lang="TR" %}}</td> ile
-    <td> {{% bible val="suit of the 24 elders" link="rev:4,4" lang="TR" %}}</td> olarak
+    <td>{{% bible val="Sardis'teki fatihler" link="rev:3,5" lang="TR" %}} ve {{% bible val="İsa'nın Laodikya'ya teklifi" link="rev:3,18" lang="TR" %}}</td> 
+    <td>{{% bible val="24 ihtiyarın kıyafeti" link="rev:4,4" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>Tahtlarda oturan azizler</td>
-    <td>için {{% bible val="the overcomers in Laodicea" link="rev:3,21" lang="TR" %}}</td>
-    <td>as {{% bible val="the 24 elders" link="rev:4,4" lang="TR" %}}</td>
+    <td>için {{% bible val="Laodikya'daki üstün gelenler" link="rev:3,21" lang="TR" %}}</td>
+    <td>as {{% bible val="24 ihtiyar" link="rev:4,4" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>taçları olan azizler</td>
-    <td>{% bible val="promise in Smyrna" link="rev:2,10" lang="TR" %}} ve {{% bible val="reality in Philadelphia " link="rev:3,11" lang="TR" %}} gibi</td>
-    <td>{% bible val="the picture of the 24 elders" link="rev:4,4" lang="TR" %}}</td> gibi
+    <td>{{% bible val="Smyrna'da söz veriyorum" link="rev:2,10" lang="TR" %}} ve {{% bible val="Philadelphia'da gerçeklik" link="rev:3,11" lang="TR" %}} gibi</td>
+    <td>{{% bible val="24 ihtiyarın resmi" link="rev:4,4" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>açık bir kapı görüntüsü</td>
-    <td> {{% bible val="reality in Philadelphia" link="rev:3,8" lang="TR" %}} ve {{% bible val="wish in Laodicea" link="rev:3,20" lang="TR" %}}</td>
-    <td> {{% bible val="taht odasına giriş" link="rev:4,1" lang="TR" %}}</td> olarak
+    <td>{{% bible val="Philadelphia'da gerçeklik" link="rev:3,8" lang="TR" %}} ve {{% bible val="Laodikya'da dilek" link="rev:3,20" lang="TR" %}}</td>
+    <td>{{% bible val="taht odasına giriş" link="rev:4,1" lang="TR" %}}</td> 
 </tr>
 <tr>
     <td>ruhunda coşku ile trompet gibi ses</td>
@@ -84,77 +84,77 @@ Bu ilişkiler kiliseye ruhsal gerçeklikleriyle ilgili bir vizyon vermeli ama ay
 <table><thead><tr>
     <th>Konu</th>
     <th>Daniel 7</th>
-    <th>Revelasyon 4-5</th>
+    <th>Vahiy 4-5</th>
 </tr></thead><tbody>
 <tr>
     <td>giriş cümleleri</td>
     <td>{{% bible val="Daniel" link="dan:7,9" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:4,1" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:4,1" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>cennetteki̇ ti̇ron</td>
     <td>{{% bible val="Daniel" link="dan:7,9" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:4,2" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:4,2" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>Tanrı bu tahtta oturuyor</td>
     <td>{{% bible val="Daniel" link="dan:7,9" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:4,2" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:4,2" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>Tanrı'nın tanımı</td>
     <td>{{% bible val="Daniel" link="dan:7,9" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:4,3" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:4,3" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>tahtın önünde ateş</td>
     <td>{{% bible val="Daniel" link="dan:7,9-10" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:4,5" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:4,5" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>cennet hizmetkarı tahtı çevreliyor</td>
     <td>{{% bible val="Daniel" link="dan:7,10" lang="TR" %}}</td>
-    <td>Revelasyon ({{% bible val="24 elders" link="rev:4,4" lang="TR" %}}, {{% bible val="4 living beings" link="rev:4,6-10" lang="TR" %}} ve {{% bible val="angels" link="rev:5,11" lang="TR" %}})</td>
+    <td>Vahiy ({{% bible val="24 yaşlı" link="rev:4,4" lang="TR" %}}, {{% bible val="4 canlı varlık" link="rev:4,6-10" lang="TR" %}} ve {{% bible val="melekler" link="rev:5,11" lang="TR" %}})</td>
 </tr>
 <tr>
     <td>tahttan önce ki̇taplar</td>
     <td>{{% bible val="Daniel" link="dan:7,10" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:5,1-5" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:5,1-5" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>kitaplar açıldı</td>
     <td>{{% bible val="Daniel" link="dan:7,10" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:5,9" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:5,9" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>ilahi (mesihi) figür otorite almak için tahta yaklaşır</td>
     <td>{{% bible val="Daniel" link="dan:7,13-14" lang="TR" %}}</td>
-    <td>Vahiy'de ({{% bible val="description" link="rev:5,5-7" lang="TR" %}} olarak, çünkü {{% bible val="onları tüm uluslardan satın aldı" link="rev:5,9" lang="TR" %}} ki {{% bible val="hepsi ona övgü veriyor" link="rev:5,12-13" lang="TR" %}})</td>
+    <td>Vahiy'de ({{% bible val="Açıklama" link="rev:5,5-7" lang="TR" %}} olarak, çünkü {{% bible val="onları tüm uluslardan satın aldı" link="rev:5,9" lang="TR" %}} ki {{% bible val="hepsi ona övgü veriyor" link="rev:5,12-13" lang="TR" %}})</td>
 </tr>
 <tr>
     <td>kapsam: tüm halklar, uluslar ve diller</td>
     <td>{{% bible val="Daniel" link="dan:7,14" lang="TR" %}} </td>
-    <td>{{% bible val="Revelation" link="rev:5,9" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:5,9" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>görenin vizyonu görürken yaşadığı sıkıntı</td>
     <td>{{% bible val="Daniel" link="dan:7,15" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:5,4" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:5,4" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>kâhinin taht hizmetkârlarından birinden ilahi konsey alması</td>
     <td>{{% bible val="Daniel" link="dan:7,16" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:5,5" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:5,5" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>bir krallık üzerinde hüküm sürme yetkisi verilen azizler</td>
-    <td>{{% bible val="Daniel" link="dan:7,18" lang="TR" %}}, sadece {{% bible val="twice" link="dan:7,22" lang="TR" %}} değil, {{% bible val="three times" link="dan:7,27" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:5,10" lang="TR" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,18" lang="TR" %}}, sadece {{% bible val="iki kez" link="dan:7,22" lang="TR" %}} değil, {{% bible val="üç kez" link="dan:7,27" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:5,10" lang="TR" %}}</td>
 </tr>
 <tr>
     <td>Tanrı'nın sonsuz saltanatına ilişkin son söz</td>
     <td>{{% bible val="Daniel" link="dan:7,27" lang="TR" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:5,13-14" lang="TR" %}}</td>
+    <td>{{% bible val="Vahiy" link="rev:5,13-14" lang="TR" %}}</td>
 </tr>
 </tbody>
 </table>
@@ -203,7 +203,7 @@ Göreceğiniz gibi buradaki tema da budur: Her bela ya da duyuru dizisi taht oda
 Yaklaşan olaylara baktığımızda şunu görürüz
 
 - {{% int_link val="Mühürlerde çok büyük sıkıntılar vardır, ancak Şeytan’ın kötülüğünü açığa çıkarmak, mümkün olduğunca çok kişiyi kurtarmak ve hızlı bir sonla gelmek için oradadırlar." link="/content/seals/expl/the-mystery-of-the-four-horse-men" %}}
-- {{% int_link val="Borazanlar insanların güvendiği yanlış şeyleri açığa çıkarır ve beşinci ve altıncı borazanlarda belanın nedeni insanların güvendiği iblislerdir." link="/content/trumpets/expl/the-trumpets-in-revelation" %}}
+- {{% int_link val="Borazanlar insanların güvendiği yanlış şeyleri açığa çıkarır ve beşinci ve altıncı borazanlarda belanın nedeni insanların güvendiği iblislerdir." link="/content/trumpets/expl/the-trumpets-in-Vahiy" %}}
 - {{% int_link val="Çanaklar, Tanrı’nın insanların aldanmaması ve altıncı ve yedinci çanaklarda canavarla birlikte batmaması için her şeyi koyduğu yerdir." link="/content/bowls/expl/the-bowls-of-wrath" %}}
 
 ## İbadet

@@ -4,6 +4,7 @@
 {{- $story := (T "story") | default "Story"}}
 {{- $explanation := (T "explanation") | default "Explanation"}}
 {{- $application := (T "application") | default "Application"}}
+{{- partial "custom/bible" (dict "lang" .Language.Lang) -}}
 
   <div class='hx-mx-auto hx-flex {{ partial "utils/page-width" . }}'>
     {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}

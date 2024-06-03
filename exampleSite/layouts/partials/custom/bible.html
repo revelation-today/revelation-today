@@ -1,0 +1,9 @@
+{{- $context := . -}}
+{{- $lang := .lang -}}
+{{- $translations := dict
+    "en" "niv"
+    "de" "schl2000"
+    "tr" "tcl02"
+-}}
+{{- $translation := index $translations $lang -}}
+<script async defer src="https://bible-link.globalrize.org/plugin.js" data-language="{{- $lang -}}" data-translation="{{- $translation -}}"></script>
