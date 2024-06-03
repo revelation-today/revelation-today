@@ -7,7 +7,7 @@ weight: 9
 
 In todays world we are overwhelmed by 
 - new information that we need to process
-- ethical and political questions that are hard ot answer
+- ethical and political questions that are hard to answer
 - new technologies which request our attention
 
 and it is sometimes hard to find guidance and motivation in the Bible.
