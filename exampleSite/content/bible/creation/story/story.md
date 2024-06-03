@@ -7,10 +7,10 @@ next: /bible/daniel/story/story
 docType: story
 ---
 
-At the beginning everything was good. God created everthing perfectly and put Adam as governeur over it - in the Garden Eden.
+In the beginning everything was good. God created everything perfectly and put Adam as Govenor over it - in the Garden Eden.
 
-Really everything? One thing was not good and this was that the man was alone. So god created him a counterpart: Eve. 
+Really everything? Well, one thing was not good and this, was that man was alone. So God created him a counterpart: Eve. Things then were very good.
 
-But this soon became a problem because Adam loves Eve more than God and obeyed her word and the relationship with God broke apart.
+However Adam started to love the things God had given him, more than God himself and therefore the relationship with God broke apart.
 
-Adam and his descendents settled in town. But God longed for the fellowship with man so he chose on person: Abraham to be with him and now God lived with man.
+Adam and his descendents were banished out of the Garden and so they decided to build and settle in towns. However, God longed for the fellowship with man, so he chose another person to be with him: Abraham. Abraham chose once again to live in relationship with God and chose God over the gift of Isaac, his long awaited son.
