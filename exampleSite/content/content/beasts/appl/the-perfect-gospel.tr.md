@@ -23,7 +23,7 @@ Bu bölüm yıkıma koşan iki canavar gibi görünüyor, ancak bu tüm kitaptak
 ## Bizim metnimiz
 
 <a name="023e"></a>
-Hızla ilerliyoruz ve {{% bible val="13. bölüme" link="rev:13" lang="TR" %}} ulaştık.
+Hızla ilerliyoruz ve {{% bible val="13. bölüme" link="rev:13" lang="tr" %}} ulaştık.
 
 ## Şeytan’ın stratejisi
 

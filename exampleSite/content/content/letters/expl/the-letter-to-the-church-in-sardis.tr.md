@@ -14,7 +14,7 @@ sources:
       ref: fee_rev
 ---
 
-Ölü bir kilise neye benzer? Oraya nasıl yeni bir hayat verebilirsiniz? Merak mı ediyorsunuz? {{% bible val="Sardis’e yazılan" link="rev:3,1-6" lang="TR" %}} mektuba bir göz atın.
+Ölü bir kilise neye benzer? Oraya nasıl yeni bir hayat verebilirsiniz? Merak mı ediyorsunuz? {{% bible val="Sardis’e yazılan" link="rev:3,1-6" lang="tr" %}} mektuba bir göz atın.
 
 ## Tarihsel arka plan
 
@@ -28,7 +28,7 @@ Kasaba her zaman büyük bir öneme sahip olmuştur, örneğin M.Ö. 17 yılınd
 ## İsa’nın görüşü
 
 <a name="4754"></a>
-{{% bible val="İsa kiliseye ruhun doluluğu içinde yaklaşır ve onlara dünyaya ışık olma çağrılarını hatırlatır." link="rev:3,1" lang="TR" %}}
+{{% bible val="İsa kiliseye ruhun doluluğu içinde yaklaşır ve onlara dünyaya ışık olma çağrılarını hatırlatır." link="rev:3,1" lang="tr" %}}
 
 Çok az övgü vardır (sadece birkaçı suçsuzdur).
 
@@ -41,9 +41,9 @@ Asıl sorun yanlış öz farkındalıklarıdır. Şehri gözlerinde fazla büyü
 
 Temel sorunları Kutsal Ruh olmadan kilise olabilmeleriydi.
 
-{{% bible val="Ölü olmaya ve ölmek üzere olanı uyandırmaya" link="rev:3,1-2" lang="TR" %}} yapılan gönderme, {{% bible val="Kutsal Ruh’un gelip yeni bir yaşam üflediği ölü kemikler vizyonuyla" link="ezk:37" lang="TR" %}} güçlü bir bağlantıya sahiptir.
+{{% bible val="Ölü olmaya ve ölmek üzere olanı uyandırmaya" link="rev:3,1-2" lang="tr" %}} yapılan gönderme, {{% bible val="Kutsal Ruh’un gelip yeni bir yaşam üflediği ölü kemikler vizyonuyla" link="ezk:37" lang="tr" %}} güçlü bir bağlantıya sahiptir.
 
-Ayrıca, “{{% bible val="yaptıklarınızı Tanrı’nın gözünde eksik bulduğunuza" link="rev:3,2" lang="TR" %}}” yapılan atıf, “{{% bible val="tüm eksiksiz işlerin ışıkların babası Tanrı’dan geldiği" link="jas:1,17" lang="TR" %}}” gerçeğini hatırlatmaktadır.
+Ayrıca, “{{% bible val="yaptıklarınızı Tanrı’nın gözünde eksik bulduğunuza" link="rev:3,2" lang="tr" %}}” yapılan atıf, “{{% bible val="tüm eksiksiz işlerin ışıkların babası Tanrı’dan geldiği" link="jas:1,17" lang="tr" %}}” gerçeğini hatırlatmaktadır.
 
 Hızlı hareket etmeliler yoksa Tanrı onları gafil avlar, çünkü Kutsal Ruh’suz bir yaşam sürdürülebilir değildir.
 

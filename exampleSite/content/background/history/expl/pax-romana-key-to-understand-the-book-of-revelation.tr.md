@@ -57,7 +57,7 @@ Birçok şehir (özellikle Vahiy’deki mektupların yazıldığı Küçük Asya
 Hıristiyanlar için birkaç ciddi sorun vardı
 
 - İsa onların imparatoruydu (kralların kralı), özellikle de İnciller euangeleon (yeni bir imparatorun ilanı) olarak yazıldığı için
-- {{% bible val="hükümleri İsa ile ilgiliydi" link="mat:6,25-34" lang="TR" %}} ve imparatora güvenmiyorlardı
+- {{% bible val="hükümleri İsa ile ilgiliydi" link="mat:6,25-34" lang="tr" %}} ve imparatora güvenmiyorlardı
 - Pax Romana ile ilgili bazı faaliyetler inançlarına aykırıydı (örneğin şirket faaliyetlerinin bir parçası olarak seks partileri)
 - Roma İmparatorluğu’nun “pasifize edilmesi” için kullanılan araçlar da Hıristiyan inançlarıyla uyumlu olamazdı
 - Roma İmparatorluğu başka Tanrıları da kabul ederken, onlar tek bir Tanrı olduğunu söyledikleri için hoşgörüsüz olmakla suçlanırlar
@@ -65,7 +65,7 @@ Hıristiyanlar için birkaç ciddi sorun vardı
 
 Sonuç olarak üç seçeneğiniz vardı
 
-- İsa ya da imparator gibi tek bir {{% bible val="efendiniz olabileceği" link="mat:6,24" lang="TR" %}} için inancınızı tamamen inkâr ediyorsunuz,
+- İsa ya da imparator gibi tek bir {{% bible val="efendiniz olabileceği" link="mat:6,24" lang="tr" %}} için inancınızı tamamen inkâr ediyorsunuz,
 - İnancınızı tam olarak yaşar ve sosyal ve ekonomik izolasyon ve yıkım, hapis ve hatta ölüm riskini göze alırsınız veya
 - dışarıdan itaat eder (imparatoru ağzıyla itiraf eder) ama İsa’ya sadık kalır (onu kalbiyle itiraf eder), bu da inançlarını ikiyüzlü yapar
 

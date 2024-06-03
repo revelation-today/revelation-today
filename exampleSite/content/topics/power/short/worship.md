@@ -103,9 +103,9 @@ Now, these are possible outcomes. You should not have a relationship with God fo
 ## We become what we worship
 
 <a name="9eba"></a>
-Isaiah was {{% bible val="told to preach to Israel, but they would not understand" link="isa:6,8-10" lang="NIV" %}}. {{% bible val="Jesus also applied this to His ministry" link="mat:13,13" lang="NIV" %}}, but why? What is the point?
+Isaiah was {{% bible val="told to preach to Israel, but they would not understand" link="isa:6,8-10" lang="en" %}}. {{% bible val="Jesus also applied this to His ministry" link="mat:13,13" lang="en" %}}, but why? What is the point?
 
-The answer is found in the {{% bible val="Psalms" link="psa:135,15-18" lang="NIV" %}}: Those who put their trust in idols will become like them — they will not be able to see or hear. But if we give up trusting in idols and trust God completely, {{% bible val="we can see" link="jhn:3,3" lang="NIV" %}}.
+The answer is found in the {{% bible val="Psalms" link="psa:135,15-18" lang="en" %}}: Those who put their trust in idols will become like them — they will not be able to see or hear. But if we give up trusting in idols and trust God completely, {{% bible val="we can see" link="jhn:3,3" lang="en" %}}.
 
 So when Israel clung to the idols, they could not see the truth even when it was preached right in front of them.
 

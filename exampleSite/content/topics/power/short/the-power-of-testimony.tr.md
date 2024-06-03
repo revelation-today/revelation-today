@@ -65,7 +65,7 @@ Tanıklık, görmezden gelemeyeceğimiz bir şeyi deneyimlediğimiz anlamına ge
 
 Ama biz hayatımızı değiştiren bir şeyin tanıklarıyız. İsa unutamayacağımız bir şekilde yaşadı. Tanrı’ya derin bir bağımlılık içinde yaşadı ve hayatından vazgeçecek kadar farklı bir yaşam tarzını benimseyebildi. Kilise tarihine baktığımızda bunun gibi pek çok örnekle karşılaşırız.
 
-Tanık olmanın anahtarı, kitapta daha da baskın bir konu olan ibadettir. İbadet sadakat demektir. {{% int_link val="Ölüme kadar sadakat" link="/topics/power/short/worship" %}}. Tanık kelimesinin Yunancası şehittir, çünkü kilisenin ilk yıllarında tanıklıkları o kadar ileri gitmiştir ki, tanıklıkları uğruna hayatlarını bırakmaya istekli ve muktedir olmuşlardır. Ve ölümden çok korkmalıyız, çünkü vaat şudur: {{% bible val="Bu gerçekleşmeden önce kaderimizi yerine getireceğiz" link="rev:11,7" lang="TR" %}}.
+Tanık olmanın anahtarı, kitapta daha da baskın bir konu olan ibadettir. İbadet sadakat demektir. {{% int_link val="Ölüme kadar sadakat" link="/topics/power/short/worship" %}}. Tanık kelimesinin Yunancası şehittir, çünkü kilisenin ilk yıllarında tanıklıkları o kadar ileri gitmiştir ki, tanıklıkları uğruna hayatlarını bırakmaya istekli ve muktedir olmuşlardır. Ve ölümden çok korkmalıyız, çünkü vaat şudur: {{% bible val="Bu gerçekleşmeden önce kaderimizi yerine getireceğiz" link="rev:11,7" lang="tr" %}}.
 
 Ancak insanlar (bu kadar) ileri gittiklerinde, gördüklerinin yaşadıkları olduğuna dair herhangi bir retorikten daha ikna edici oluyor ve bu o kadar değerli görünüyor ki, bunu gören — şimdi tanık olan — insanlar bunu takip etmeye çok daha hevesli oluyorlar.
 

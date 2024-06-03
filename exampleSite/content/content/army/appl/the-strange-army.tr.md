@@ -19,7 +19,7 @@ expl: /content/army/expl/the-end-time-and-the-great-tribulation
 ## Bizim metnimiz
 
 <a name="aedb"></a>
-Hızla ilerliyoruz ve {{% bible val="7. bölüme" link="rev:7" lang="TR" %}} ulaştık.
+Hızla ilerliyoruz ve {{% bible val="7. bölüme" link="rev:7" lang="tr" %}} ulaştık.
 
 ## Tanrı’nın ordusu
 

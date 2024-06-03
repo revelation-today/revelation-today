@@ -17,7 +17,7 @@ Yuhanna’nın yemesi gereken küçük bir tomar vardır ve bundan bir daha hiç
 ## Bizim metnimiz
 
 <a name="e93e"></a>
-Hızla ilerliyoruz ve {{% bible val="10. bölüme" link="rev:10" lang="TR" %}} ulaştık.
+Hızla ilerliyoruz ve {{% bible val="10. bölüme" link="rev:10" lang="tr" %}} ulaştık.
 
 ## Parşömen
 

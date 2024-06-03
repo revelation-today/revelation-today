@@ -19,7 +19,7 @@ sources:
 
 Das ist eine Gemeinde, die kurz vor dem Scheitern steht. Und das alles wegen Bileam? Aber er ist nicht das eigentliche Problem.
 
-{{% bible val="Das Sendschreiben an Pergamon" link="rev:2,12-17" lang="SLT" %}}
+{{% bible val="Das Sendschreiben an Pergamon" link="rev:2,12-17" lang="de" %}}
 
 ## Der historische Hintergrund
 
@@ -33,11 +33,11 @@ Weitere Tempel waren Zeus, Athene, Dionysos und Asklepios geweiht.
 ## Jesu Sicht
 
 <a name="dc77"></a>
-Jesus weiß, dass sich diese Gemeinde in einer schwierigen Zeit befindet und begegnet ihr mit{{% bible val=" einem sehr scharfen Schwert, um zu trennen" link="rev:2,12" lang="SLT" %}}.
+Jesus weiß, dass sich diese Gemeinde in einer schwierigen Zeit befindet und begegnet ihr mit{{% bible val=" einem sehr scharfen Schwert, um zu trennen" link="rev:2,12" lang="de" %}}.
 
-Jesus nennt den Ort: “{{% bible val="Wo der Satan wohnt und seinen Thron hat" link="rev:2,13" lang="SLT" %}}”. Wahrscheinlich meint er damit alle Tempel, besonders den Zeustempel. Und die Gemeinde hielt aus. Sie harrten aus und verrieten den Namen Jesu nicht, bis er den Märtyrertod erlitt. Ihre Situation ist die gleiche wie in Smyrna oder sogar schlimmer.
+Jesus nennt den Ort: “{{% bible val="Wo der Satan wohnt und seinen Thron hat" link="rev:2,13" lang="de" %}}”. Wahrscheinlich meint er damit alle Tempel, besonders den Zeustempel. Und die Gemeinde hielt aus. Sie harrten aus und verrieten den Namen Jesu nicht, bis er den Märtyrertod erlitt. Ihre Situation ist die gleiche wie in Smyrna oder sogar schlimmer.
 
-Aber es gibt ein Problem, das ihnen zum Verhängnis wird: {{% bible val="Bileam und die Nikolaiten" link="rev:2,14-15" lang="SLT" %}}, oder ist es eigentlich ein anderes Problem?
+Aber es gibt ein Problem, das ihnen zum Verhängnis wird: {{% bible val="Bileam und die Nikolaiten" link="rev:2,14-15" lang="de" %}}, oder ist es eigentlich ein anderes Problem?
 
 ## Das Problem
 
@@ -51,13 +51,13 @@ Und da jede Lehre auch das Handeln beeinflusst, wirkte sich das natürlich auch 
 ## Die Lösung
 
 <a name="85d8"></a>
-Sie bekommen verborgenes {{% bible val="Manna" link="deu:8,16" lang="SLT" %}}. Gott wird sie auf übernatürliche Weise versorgen, aber wir müssen ihm vertrauen, auch wenn es hoffnungslos erscheint.
+Sie bekommen verborgenes {{% bible val="Manna" link="deu:8,16" lang="de" %}}. Gott wird sie auf übernatürliche Weise versorgen, aber wir müssen ihm vertrauen, auch wenn es hoffnungslos erscheint.
 
 Sie erhalten einen weißen Stein mit einem neuen Namen, der zwei Bedeutungen hat:
 
 - Solche Steine wurden als Eintrittskarten verwendet (z.B. für ein Festmahl).
-- Ein weißer Stein wird im {{% bible val="Gericht genutzt" link="act:26,10" lang="SLT" %}}, wobei ein weißer Stein für unschuldig steht (z.B. nicht am Götzenmahl teilgenommen zu haben) und wäre eine {{% bible val="Eintrittskarte zum Hochzeitsmahl des Lamme" link="rev:19,9" lang="SLT" %}}s.
+- Ein weißer Stein wird im {{% bible val="Gericht genutzt" link="act:26,10" lang="de" %}}, wobei ein weißer Stein für unschuldig steht (z.B. nicht am Götzenmahl teilgenommen zu haben) und wäre eine {{% bible val="Eintrittskarte zum Hochzeitsmahl des Lamme" link="rev:19,9" lang="de" %}}s.
 
-Ein neuer Name ist in der Regel mit einer {{% bible val="neuen Identität" link="gen:17,5" lang="SLT" %}} verbunden, und den neuen Namen zu kennen, zeigt dass man eine sehr enge Beziehung zu dieser Person hat.
+Ein neuer Name ist in der Regel mit einer {{% bible val="neuen Identität" link="gen:17,5" lang="de" %}} verbunden, und den neuen Namen zu kennen, zeigt dass man eine sehr enge Beziehung zu dieser Person hat.
 
-Gott bietet der Gemeinde eine neue Identität an, wenn sie es will. Wenn {{% bible val="nicht, wird Jesus gegen sie kämpfen" link="rev:2,16" lang="SLT" %}}.
+Gott bietet der Gemeinde eine neue Identität an, wenn sie es will. Wenn {{% bible val="nicht, wird Jesus gegen sie kämpfen" link="rev:2,16" lang="de" %}}.

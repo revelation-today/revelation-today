@@ -33,7 +33,7 @@ expl: /content/letters/expl/the-challenges
 ## Bizim metnimiz
 
 <a name="7aff"></a>
-Bazı temel bilgileri belirlemek için kitabın {{% bible val="kitabın 2. ve 3. bölümleri" link="rev:2" lang="TR" %}} çok hızlı bir şekilde göz atacağız.
+Bazı temel bilgileri belirlemek için kitabın {{% bible val="kitabın 2. ve 3. bölümleri" link="rev:2" lang="tr" %}} çok hızlı bir şekilde göz atacağız.
 
 ## Genel Bakış
 

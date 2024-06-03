@@ -24,11 +24,11 @@ Vahiy Kitabı’nın 11 ila 13. bölümlerinde farklı zamanlara ilişkin dört 
 
 | Zaman | Referans |
 |-------|----------|
-| 42 ay | {{% bible val="Tapınağın dış alanı paganlara bırakılmıştır" link="rev:11,2" lang="TR" %}} |
-| 1260 gün | {{% bible val="kehanet ile tanıklık" link="rev:11,3" lang="TR" %}} |
-| 1260 gün | {{% bible val="Kadın çölde korunuyor" link="rev:12,6" lang="TR" %}} |
-| 3,5 kez | {{% bible val="Kadın çölde korunuyor" link="rev:12,14" lang="TR" %}} |
-| 42 ay | {{% bible val="İlk canavar küfrediyor" link="rev:13,5" lang="TR" %}} |
+| 42 ay | {{% bible val="Tapınağın dış alanı paganlara bırakılmıştır" link="rev:11,2" lang="tr" %}} |
+| 1260 gün | {{% bible val="kehanet ile tanıklık" link="rev:11,3" lang="tr" %}} |
+| 1260 gün | {{% bible val="Kadın çölde korunuyor" link="rev:12,6" lang="tr" %}} |
+| 3,5 kez | {{% bible val="Kadın çölde korunuyor" link="rev:12,14" lang="tr" %}} |
+| 42 ay | {{% bible val="İlk canavar küfrediyor" link="rev:13,5" lang="tr" %}} |
 
 Üç farklı zaman söz konusudur; 3,5 zaman, iki zaman ve yarım zaman olarak belirtilir. Eğer 30 günlük bir ay varsayarsak
 
@@ -45,18 +45,18 @@ Ve neden aynı birimde (aylar veya günler) değiller?
 ## İlyas ve kuraklık (1. Krallar 16/29–18/35)
 
 <a name="08ef"></a>
-İsrail Kralı Ahav Sidonlu (İsrail’in kuzeyi) İzebel’le evlenir. Bereket tanrıları olan Baal ve Aşera’yı (çok çocuk, iyi hasat, güçlü ordular — atlar) tanıtır. Ancak bunun anahtarı çoğu durumda şudur: {{% bible val="Yeterli yağmur" link="1ki:17,8" lang="TR" %}}.
+İsrail Kralı Ahav Sidonlu (İsrail’in kuzeyi) İzebel’le evlenir. Bereket tanrıları olan Baal ve Aşera’yı (çok çocuk, iyi hasat, güçlü ordular — atlar) tanıtır. Ancak bunun anahtarı çoğu durumda şudur: {{% bible val="Yeterli yağmur" link="1ki:17,8" lang="tr" %}}.
 
-{{% bible val="Bunun üzerine Tanrı İlyas’ı" link="1ki:17,1" lang="TR" %}} {{% bible val="3,5 yıl" link="luk:4,25" lang="TR" %}} sürecek bir kuraklık çağrısı yapması için gönderir. Ona kuzgunlar yardım eder. {{% bible val="Daha sonra Sidon’da ölmek üzere olan bir oğlu olan dul bir kadına gider ve onu kurtarır, böylece kadın Tanrı’ya inanır." link="1ki:17,6-24" lang="TR" %}}
+{{% bible val="Bunun üzerine Tanrı İlyas’ı" link="1ki:17,1" lang="tr" %}} {{% bible val="3,5 yıl" link="luk:4,25" lang="tr" %}} sürecek bir kuraklık çağrısı yapması için gönderir. Ona kuzgunlar yardım eder. {{% bible val="Daha sonra Sidon’da ölmek üzere olan bir oğlu olan dul bir kadına gider ve onu kurtarır, böylece kadın Tanrı’ya inanır." link="1ki:17,6-24" lang="tr" %}}
 
-İzebel’in memleketine müdahale ettikten sonra, {{% bible val="Karmel dağında gerçek Tanrı’nın kim olduğu konusunda büyük bir güç mücadelesi" link="1ki:18,16-46" lang="TR" %}} yaşanır. Gerçek Tanrı, {{% bible val="ikinci canavarın da yapabileceği" link="rev:13,13" lang="TR" %}} {{% bible val="bir şey olan gökten ateş yağdırabilen Tanrı’dır" link="1ki:18,16-46" lang="TR" %}}.
+İzebel’in memleketine müdahale ettikten sonra, {{% bible val="Karmel dağında gerçek Tanrı’nın kim olduğu konusunda büyük bir güç mücadelesi" link="1ki:18,16-46" lang="tr" %}} yaşanır. Gerçek Tanrı, {{% bible val="ikinci canavarın da yapabileceği" link="rev:13,13" lang="tr" %}} {{% bible val="bir şey olan gökten ateş yağdırabilen Tanrı’dır" link="1ki:18,16-46" lang="tr" %}}.
 
 Buradaki mücadele ve soru şudur: “Gerçek Tanrı kimdir?”
 
 ## Daniel’de yıl haftası
 
 <a name="eb7b"></a>
-{{% int_link val="Daniel’de her biri 3,5 yıl uzunluğunda iki yarım haftayla sonuçlanan 70 hafta vardır" link="/bible/daniel/expl/the-70-year-weeks" %}}. İlk yarım hafta İsa’nın yeryüzündeki zamanını, ikincisi ise kilise çalışmalarını anlatır. Ayrıca İsa’nın antlaşmasının da bu{{% bible val=" hafta içinde olacağı anlatılır" link="dan:9,27" lang="TR" %}}.
+{{% int_link val="Daniel’de her biri 3,5 yıl uzunluğunda iki yarım haftayla sonuçlanan 70 hafta vardır" link="/bible/daniel/expl/the-70-year-weeks" %}}. İlk yarım hafta İsa’nın yeryüzündeki zamanını, ikincisi ise kilise çalışmalarını anlatır. Ayrıca İsa’nın antlaşmasının da bu{{% bible val=" hafta içinde olacağı anlatılır" link="dan:9,27" lang="tr" %}}.
 
 Bu 3,5 yıl, Tanrı’nın bu dünyanın krallıklarını yıkacak olan arka planda inşa ettiği şeydir.
 
@@ -67,11 +67,11 @@ Bu 3,5 yıl, Tanrı’nın bu dünyanın krallıklarını yıkacak olan arka pla
 
 Ne zaman duracak? Mecbur kalmadıkça asla, yani İsa geri gelene kadar.
 
-{{% bible val="Aynı zamanda kadın şeytanların saldırısından korunur" link="rev:12,6" lang="TR" %}} ve {{% bible val="çölde sağlanır" link="rev:12,14" lang="TR" %}}. Ne zaman başlıyor? İsa’nın çarmıhtaki zaferinden hemen sonra. Ne zaman sona erer? Şeytan etrafta olduğu sürece. Yani İsa geri dönene kadar.
+{{% bible val="Aynı zamanda kadın şeytanların saldırısından korunur" link="rev:12,6" lang="tr" %}} ve {{% bible val="çölde sağlanır" link="rev:12,14" lang="tr" %}}. Ne zaman başlıyor? İsa’nın çarmıhtaki zaferinden hemen sonra. Ne zaman sona erer? Şeytan etrafta olduğu sürece. Yani İsa geri dönene kadar.
 
-Sonra {{% bible val="tapınağımız" link="rev:11,1-2" lang="TR" %}} var. Artık kurbanlar için değil, ibadet yeri olarak kullanılıyor. Ne zaman başlıyor? İsa’nın ölümüyle. Ne zaman sona erecek? İsa geri gelene kadar biteceğini sanmıyorum.
+Sonra {{% bible val="tapınağımız" link="rev:11,1-2" lang="tr" %}} var. Artık kurbanlar için değil, ibadet yeri olarak kullanılıyor. Ne zaman başlıyor? İsa’nın ölümüyle. Ne zaman sona erecek? İsa geri gelene kadar biteceğini sanmıyorum.
 
-{{% bible val="Böylece geriye iki tanığın 1260 günü kalır" link="rev:11,3" lang="TR" %}}. Bu da İsa’nın birinci ve ikinci gelişi arasındaki süreyi kapsıyor olmalıdır. Yani onlar gerçekten iki kişi değil, büyük olasılıkla kilisedir.
+{{% bible val="Böylece geriye iki tanığın 1260 günü kalır" link="rev:11,3" lang="tr" %}}. Bu da İsa’nın birinci ve ikinci gelişi arasındaki süreyi kapsıyor olmalıdır. Yani onlar gerçekten iki kişi değil, büyük olasılıkla kilisedir.
 
 Peki neden farklı birimler (günler, aylar, …) kullanılmaktadır? Tanıkların yönetimi ve İsrail’in sağlanması söz konusu olduğunda günler kullanılırken, şeytanın yönetimi ve tapınağın dış mahallelerinin yıkımı için aylar ve Tanrı’nın gizli işi için 3,5 yıl/zaman kullanılır. Belki de bu kullanım, şeytanın sadece 42 ayına kıyasla kilisenin 1260 gününün bolluğunu göstermek için yapılmıştır. Ama bu biraz tahmin. Gerçekten bir fikrim yok.
 

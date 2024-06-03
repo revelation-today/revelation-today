@@ -7,7 +7,7 @@ next: /content/seals/story/story
 docType: story
 ---
 
-{{% bible val="Chapter 4–5" link="rev:4" lang="NIV" %}}
+{{% bible val="Chapter 4–5" link="rev:4" lang="en" %}}
 
 <a name="55b1"></a>
 So it’s on you and me and all the church to get up and be ready for the big adventure by looking up.

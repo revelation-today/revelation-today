@@ -21,12 +21,12 @@ Tüm dünyayı değiştiren ve dünyayı Tanrı’nın krallığına hazır hale
 ## Bizim metnimiz
 
 <a name="743a"></a>
-Hızla ilerliyoruz ve {{% bible val="11. bölüme" link="rev:11" lang="TR" %}} ulaştık.
+Hızla ilerliyoruz ve {{% bible val="11. bölüme" link="rev:11" lang="tr" %}} ulaştık.
 
 ## Tapınak
 
 <a name="381b"></a>
-(Parşömen hakkında) anlamamız gereken ilk şey tapınaktır. Tapınak Tanrı’nın varlığının bir resmidir. Eski Antlaşma’da bu Aden bahçesi ya da bir binaydı, ama Yeni Antlaşma’da bu {{% bible val="İsa" link="jhn:2,19-21" lang="TR" %}} ya da {{% bible val="kilise" link="1co:3,17" lang="TR" %}} de olabilir. Eski Antlaşma’da asıl amaç kurban sunmak olsa da, {{% bible val="artık buna gerek yoktur" link="heb:10,1-18" lang="TR" %}}. Bunun yerine Tanrı’nın istediği tapınanlardır. Tanrı’ya sadık olmalıyız. Bunun ne anlama geldiği iki tanıkla gösterilir.
+(Parşömen hakkında) anlamamız gereken ilk şey tapınaktır. Tapınak Tanrı’nın varlığının bir resmidir. Eski Antlaşma’da bu Aden bahçesi ya da bir binaydı, ama Yeni Antlaşma’da bu {{% bible val="İsa" link="jhn:2,19-21" lang="tr" %}} ya da {{% bible val="kilise" link="1co:3,17" lang="tr" %}} de olabilir. Eski Antlaşma’da asıl amaç kurban sunmak olsa da, {{% bible val="artık buna gerek yoktur" link="heb:10,1-18" lang="tr" %}}. Bunun yerine Tanrı’nın istediği tapınanlardır. Tanrı’ya sadık olmalıyız. Bunun ne anlama geldiği iki tanıkla gösterilir.
 
 ## Tanıklar
 
@@ -44,7 +44,7 @@ Bunu kısa kesiyorum: {{% int_link val="İki tanık kilisedir" link="/content/wi
 
 Bu İsa’nın birebir eşleşmesi değildir ancak kilise İsa’nın gittiği yoldan gitmelidir. Kilise üyelerinin zulüm görerek ölmesi gerekmez, ancak hayatımızdan bile vazgeçmeye istekli olmalıyız.
 
-Ve İsa’nın çarmıhtaki ölümü nasıl bir yenilgi gibi görünüyorsa, kilise için de öyle değildi. Canavar onları ancak tanıklıklarını tamamladıklarında yenebilir ve ölümlerinin kendisi en büyük tanıklık olacaktır ({{% bible val="Samson’la" link="jdg:16,30" lang="TR" %}} bir paralellik bile olabilir).
+Ve İsa’nın çarmıhtaki ölümü nasıl bir yenilgi gibi görünüyorsa, kilise için de öyle değildi. Canavar onları ancak tanıklıklarını tamamladıklarında yenebilir ve ölümlerinin kendisi en büyük tanıklık olacaktır ({{% bible val="Samson’la" link="jdg:16,30" lang="tr" %}} bir paralellik bile olabilir).
 
 İki tanık Musa’yı (sudan kana) ve İlyas’ı (yağmur yok, gökten ateş) örnek almıştır. Ancak tüm belirtiler ve yetki Musa ve İlyas’ın zamanında olduğu gibi bir fark yaratmadı. Değişim onlar öldüklerinde ve Tanrı onları tekrar dirilttiğinde geldi. Onlar öldüklerinde ve Tanrı onları kutsadığında, insanların çoğu yaşamlarını gerçekten Tanrı’ya çevirdiler.
 

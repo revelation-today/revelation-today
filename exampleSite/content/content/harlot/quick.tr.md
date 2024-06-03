@@ -8,7 +8,7 @@ next: /content/1000y/quick
 docType: quick
 ---
 
-{{% bible val="Bölüm 17" link="rev:17" lang="TR" %}}, {{% bible val="18" link="rev:18" lang="TR" %}} ve {{% bible val="19" link="rev:19" lang="TR" %}}.
+{{% bible val="Bölüm 17" link="rev:17" lang="tr" %}}, {{% bible val="18" link="rev:18" lang="tr" %}} ve {{% bible val="19" link="rev:19" lang="tr" %}}.
 
 ## Fahişenin gizemi mi?
 
@@ -20,7 +20,7 @@ Canavarın kendisi yeryüzünün kralları üzerinde kontrol sahibi olarak tanı
 
 ![](/images/Hure+Tier_tr.jpg)
 
-Bu, kutsallara karşı durdurulamaz bir güç gibi görünmektedir. Ama ironi burada ortaya çıkar: Canavar ({{% bible val="13. bölümdeki yenilmez olarak tasvir edilen ilk canavar" link="rev:13,3-4" lang="TR" %}}) yenilmez olmaktan çok uzaktır ama {{% bible val="Tanrı" link="rev:1,8" lang="TR" %}} ile karşılaştırıldığında {{% bible val="güvenilmez" link="rev:17,8-11" lang="TR" %}} olarak alay edilmektedir.
+Bu, kutsallara karşı durdurulamaz bir güç gibi görünmektedir. Ama ironi burada ortaya çıkar: Canavar ({{% bible val="13. bölümdeki yenilmez olarak tasvir edilen ilk canavar" link="rev:13,3-4" lang="tr" %}}) yenilmez olmaktan çok uzaktır ama {{% bible val="Tanrı" link="rev:1,8" lang="tr" %}} ile karşılaştırıldığında {{% bible val="güvenilmez" link="rev:17,8-11" lang="tr" %}} olarak alay edilmektedir.
 
 Dahası, canavar ve fahişe azizleri alt etmeyi başaramayacak, ancak tüm güçlerini canavara veren krallar tarafından yok edilecektir. Bu nasıl gerçekleşebilir? Çünkü Tanrı böyle olmasını istedi. Bunun nedenini daha sonra göreceğiz.
 
@@ -30,7 +30,7 @@ Fahişe bu dünyanın yöneticilerini refah getirmeleri için etkilemiştir (bu 
 
 ## Fahişenin etkisi ve yargısı
 
-Fahişe, dışarıdan kilise gibi görünse de, kilisenin ve tanıklarının azılı bir düşmanıdır ve kargaşaya neden olur. Daha yakından incelendiğinde, fahişe {{% bible val="üçüncü mührün" link="rev:6,5-6" lang="TR" %}} nedenidir: Açlık, ekonomik adaletsizliğe dayanır, ancak lüks malların mevcudiyetini sağlar ve kitlelerin acı çekmesine rağmen zenginleri sağlar. İnsanlar diğer kaynaklar gibi malzeme olarak kabul edilir.
+Fahişe, dışarıdan kilise gibi görünse de, kilisenin ve tanıklarının azılı bir düşmanıdır ve kargaşaya neden olur. Daha yakından incelendiğinde, fahişe {{% bible val="üçüncü mührün" link="rev:6,5-6" lang="tr" %}} nedenidir: Açlık, ekonomik adaletsizliğe dayanır, ancak lüks malların mevcudiyetini sağlar ve kitlelerin acı çekmesine rağmen zenginleri sağlar. İnsanlar diğer kaynaklar gibi malzeme olarak kabul edilir.
 
 Mükemmel kilise (rahatsız edici tanıklık ve şehitliğe değil, bereket ve refaha odaklanan kilise) olmak da fahişenin kaderidir: Canavar kiliseye saldırmaya çalışırken İsa müdahale eder ve hedef kilise yerine fahişedir. Krallar, canavarın temsilcileri olarak fahişeye yargı getirirler.
 
@@ -38,7 +38,7 @@ Fahişe gururludur ve kendini dokunulmaz olarak görür, bu nedenle tarihi Babil
 
 ![](/images/Hure_tr.jpg)
 
-Fahişenin tanımına neden bu kadar uzun vurgu yapılıyor (iki bölümden fazla)? Çünkü bizler rahatlıktan adalete çağrılıyoruz. {{% bible val="Eğer fahişenin bir parçasıysak" link="rev:18,4" lang="TR" %}}, bu bizi putperestliğe götürecektir (Eski Ahit'te putperestlik ticaretle bağlantılıdır) ve bu da insanları sevmeyip sömürdüğümüz davranışlarımızı değiştirecektir.
+Fahişenin tanımına neden bu kadar uzun vurgu yapılıyor (iki bölümden fazla)? Çünkü bizler rahatlıktan adalete çağrılıyoruz. {{% bible val="Eğer fahişenin bir parçasıysak" link="rev:18,4" lang="tr" %}}, bu bizi putperestliğe götürecektir (Eski Ahit'te putperestlik ticaretle bağlantılıdır) ve bu da insanları sevmeyip sömürdüğümüz davranışlarımızı değiştirecektir.
 
 ## Peki ya şimdi?
 

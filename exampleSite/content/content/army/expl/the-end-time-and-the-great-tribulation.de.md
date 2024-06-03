@@ -45,27 +45,27 @@ Andererseits kann die Endzeit auch als die Zeit der Wiederkunft Jesu und die kur
 ## Die Große Trübsal
 
 <a name="abe2"></a>
-Die Große Trübsal ist ein Begriff, der in der {{% bible val="Offenbarung" link="rev:7,14" lang="SLT" %}} vorkommt und der vorangehende Artikel zeigt, dass dieser Begriff eine Vorgeschichte hat, nämlich bei {{% bible val="Daniel" link="dan:12,1" lang="SLT" %}}.
+Die Große Trübsal ist ein Begriff, der in der {{% bible val="Offenbarung" link="rev:7,14" lang="de" %}} vorkommt und der vorangehende Artikel zeigt, dass dieser Begriff eine Vorgeschichte hat, nämlich bei {{% bible val="Daniel" link="dan:12,1" lang="de" %}}.
 
-Dieser Abschnitt wird bei {{% bible val="Matthäus" link="mat:24,21" lang="SLT" %}} und {{% bible val="Markus" link="mrk:13,19" lang="SLT" %}} wieder aufgegriffen, als Jesus von der Zerstörung Jerusalems und des Tempels spricht.
+Dieser Abschnitt wird bei {{% bible val="Matthäus" link="mat:24,21" lang="de" %}} und {{% bible val="Markus" link="mrk:13,19" lang="de" %}} wieder aufgegriffen, als Jesus von der Zerstörung Jerusalems und des Tempels spricht.
 
-Im Kontext Daniels geschah dies, als die Glaubenstreue Israels durch {{% bible val="Antiochus Epiphanes und darüber hinaus" link="dan:11,30-39" lang="SLT" %}} auf die Probe gestellt wurde mit dem Ziel, {{% bible val="die Gläubigen zu reinigen und sie von den Verdorbenen zu trennen" link="dan:12,10" lang="SLT" %}}. Einige von ihnen {{% bible val="werden verblendet und wenden sich von Gott ab" link="dan:11,32-34" lang="SLT" %}}.
+Im Kontext Daniels geschah dies, als die Glaubenstreue Israels durch {{% bible val="Antiochus Epiphanes und darüber hinaus" link="dan:11,30-39" lang="de" %}} auf die Probe gestellt wurde mit dem Ziel, {{% bible val="die Gläubigen zu reinigen und sie von den Verdorbenen zu trennen" link="dan:12,10" lang="de" %}}. Einige von ihnen {{% bible val="werden verblendet und wenden sich von Gott ab" link="dan:11,32-34" lang="de" %}}.
 
-Diese Unterdrückung kann {{% bible val="wirtschaftlich" link="rev:6,5-6" lang="SLT" %}} durch den dritten Reiter oder wie in {{% bible val="Smyrna durch Gefängnis oder Tod" link="rev:2,10" lang="SLT" %}} erfolgen.
+Diese Unterdrückung kann {{% bible val="wirtschaftlich" link="rev:6,5-6" lang="de" %}} durch den dritten Reiter oder wie in {{% bible val="Smyrna durch Gefängnis oder Tod" link="rev:2,10" lang="de" %}} erfolgen.
 
 Diese Trübsal
 
-- {{% bible val="hat Jesus seinen Jüngern schon angekündigt," link="jhn:16,33" lang="SLT" %}}
-- {{% bible val="sie ist Paulus widerfahren," link="act:14,22" lang="SLT" %}}
-- {{% bible val="ist Träger von Hoffnung," link="rom:5,3-4" lang="SLT" %}}
-- {{% bible val="sie kann uns nicht von Jesus trennen," link="rom:8,35-36" lang="SLT" %}}
-- {{% bible val="ist Warnung an Timotheus" link="2ti:3,12" lang="SLT" %}} und
-- {{% bible val="im Brief des Petrus" link="1pe:4,12-13" lang="SLT" %}}.
+- {{% bible val="hat Jesus seinen Jüngern schon angekündigt," link="jhn:16,33" lang="de" %}}
+- {{% bible val="sie ist Paulus widerfahren," link="act:14,22" lang="de" %}}
+- {{% bible val="ist Träger von Hoffnung," link="rom:5,3-4" lang="de" %}}
+- {{% bible val="sie kann uns nicht von Jesus trennen," link="rom:8,35-36" lang="de" %}}
+- {{% bible val="ist Warnung an Timotheus" link="2ti:3,12" lang="de" %}} und
+- {{% bible val="im Brief des Petrus" link="1pe:4,12-13" lang="de" %}}.
 
 Der [Begriff selbst wird im Sendschreiben an Thyatira aufgegriffen, dort jedoch als Gericht über die Leiter, die als Isebel identifiziert werden](https://biblehub.com/interlinear/revelation/2-22.htm).
 
 Das macht die Trübsal zu etwas, das während der gesamten Zeit zwischen dem erstem und dem zweitem Kommen Jesu geschieht. Aber wie ist das möglich?
 
-Schauen wir noch einmal bei Daniel nach. “{{% bible val="Michael, der Hüter Israels wird aufstehen" link="dan:12,1" lang="SLT" %}}”. Dieses Thema wird in der Offenbarung beim {{% int_link val="ersten Kommen Jesu" link="/content/jesus/expl/a-different-christmas-story" %}} in Kapitel 12 wieder aufgenommen. {{% bible val="Michael wird gegen den Drachen (Satan) kämpfen" link="rev:12,7" lang="SLT" %}}, ihn besiegen und aus dem Himmel werfen. Aber {{% bible val="aufgrund dessen und weil er weiß, dass er nur wenig Zeit hat" link="rev:12,12" lang="SLT" %}}, wird er versuchen, so viel Schaden wie möglich anzurichten, {{% bible val="zuerst an Israel" link="rev:12,13-17" lang="SLT" %}} und als das nicht gelingt, {{% bible val="an der Gemeinde" link="rev:13" lang="SLT" %}}.
+Schauen wir noch einmal bei Daniel nach. “{{% bible val="Michael, der Hüter Israels wird aufstehen" link="dan:12,1" lang="de" %}}”. Dieses Thema wird in der Offenbarung beim {{% int_link val="ersten Kommen Jesu" link="/content/jesus/expl/a-different-christmas-story" %}} in Kapitel 12 wieder aufgenommen. {{% bible val="Michael wird gegen den Drachen (Satan) kämpfen" link="rev:12,7" lang="de" %}}, ihn besiegen und aus dem Himmel werfen. Aber {{% bible val="aufgrund dessen und weil er weiß, dass er nur wenig Zeit hat" link="rev:12,12" lang="de" %}}, wird er versuchen, so viel Schaden wie möglich anzurichten, {{% bible val="zuerst an Israel" link="rev:12,13-17" lang="de" %}} und als das nicht gelingt, {{% bible val="an der Gemeinde" link="rev:13" lang="de" %}}.
 
 Die Große Trübsal sind alle Verfolgungen, die die Gemeinde seit ihrer Gründung erdulden musste.

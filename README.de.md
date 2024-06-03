@@ -39,6 +39,14 @@ Du benötigst eine erweiterte Bearbeitung, wenn du Bilder oder Seiten hinzufüge
 
 Herzlichen Glückwunsch! Dein lokaler Server läuft, jetzt kannst du Änderungen vornehmen
 
+- Stelle sicher, dass du die neueste Arbeitskopie hast, indem du
+    - die alte Arbeitskopie löscht
+    - `git clone https://github.com/revelation-today/revelation-today.git`
+    
+oder bei der bestehenden Arbeitskopie
+    - `git checkout main`
+    - `git pull`
+
 - Öffne deinen Browser und gehe in den Ordner "<my-git>/revelation-today".
 - Dort findest du alle relevanten Inhalte zum Bearbeiten
     - exampleSite/content für den kompletten Inhalt der Webseite
@@ -62,13 +70,15 @@ Hier sind einige Anleitungen:
 - [erweitert](https://www.markdownguide.org/extended-syntax/)
 
 Zusammenfassung:
-- Kopfzeile: `## <header>`
+- Kopfzeile: `## <Überschrift>`
 - unsortierte Liste: `- <item>`
-- Links: `[<link text>](<link>)`
+- Links: `[<Text>](<Link>)`
+- Link zur internen Seite: `{{% int_link val="<Text>" link="<Link>" %}}`
+- Link zu einem Bibelvers: `{{% bible val="<Text>" link="<Kap>,<Vers>-<Vers>" lang="<Sprache>" %}}`
 - Bilder: `![<Bildbeschreibung>](<Pfad zum Bild>)` wie `![](/Bilder/Beispiel.jpg)`
 - Tabelle: (Leerzeichen mit \| beibehalten) 
 ```
 | <c1> | <c2> |
 |------|------|
-| <row> | <row> |
+| <Zeile> | <Zeile> |
 ```

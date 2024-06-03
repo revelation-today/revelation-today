@@ -15,7 +15,7 @@ Vahiy Kitabı’nda bizim dünyamızdan kopup gelmiş gibi görünen pek çok re
 ## Kolay bir cevap değil Kutsal Kitap’taki bir şeyin sembolik mi, gerçek mi yoksa her ikisi birden mi olduğuna dair kolay bir yanıt yoktur.
 
 <a name="d073"></a>
-- Bir şey sembolik olabilir ama gerçekte de ortaya çıkabilir, örneğin Nil’in kana dönüşmesi {{% bible val="Nil tanrısının sembolik olarak öldürülmesine atıfta bulunurken, su gerçekte kan gibi kırmızıya dönüşmüştür" link="exo:7,14-24" lang="TR" %}}.
+- Bir şey sembolik olabilir ama gerçekte de ortaya çıkabilir, örneğin Nil’in kana dönüşmesi {{% bible val="Nil tanrısının sembolik olarak öldürülmesine atıfta bulunurken, su gerçekte kan gibi kırmızıya dönüşmüştür" link="exo:7,14-24" lang="tr" %}}.
 - Böylece Tanrı tarafından seçilen on iki kabileyi oluşturan Yakup’un 12 gerçek oğlu, seçilmiş olmanın bir sembolü haline gelir.
 
 Bu makalede Vahiy Kitabı’nın nasıl okunması ve yorumlanması gerektiğine bakmak istiyoruz.
@@ -36,17 +36,17 @@ Ancak metnin kendisine daha yakından bakalım.
 ## Daniel çerçevesi
 
 <a name="6075"></a>
-Vahiy kitabında {{% bible val="Daniel 2. bölümdeki kehanetle" link="dan:2,28-45" lang="TR" %}} güçlü bir bağlantısı olan ve kitabı daha iyi anlamamıza yardımcı olacak bazı önemli bölümler vardır. Bu bölüm, Vahiy kitabında pek çok referansı olan {{% bible val="Daniel 7. bölümle" link="dan:7" lang="TR" %}} {{% int_link val="paraleldir" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}.
+Vahiy kitabında {{% bible val="Daniel 2. bölümdeki kehanetle" link="dan:2,28-45" lang="tr" %}} güçlü bir bağlantısı olan ve kitabı daha iyi anlamamıza yardımcı olacak bazı önemli bölümler vardır. Bu bölüm, Vahiy kitabında pek çok referansı olan {{% bible val="Daniel 7. bölümle" link="dan:7" lang="tr" %}} {{% int_link val="paraleldir" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}.
 
-Bu bölüm, peygamberlik kitaplarında Vahiy’de üç kez geçen “gizem” kelimesini kullanan tek bölümdür ({{% bible val="kilisenin" link="rev:1,20" lang="TR" %}}, {{% bible val="Tanrı’nın" link="rev:10,7" lang="TR" %}} ve {{% bible val="canavarın" link="rev:17,5" lang="TR" %}} gizemi).
+Bu bölüm, peygamberlik kitaplarında Vahiy’de üç kez geçen “gizem” kelimesini kullanan tek bölümdür ({{% bible val="kilisenin" link="rev:1,20" lang="tr" %}}, {{% bible val="Tanrı’nın" link="rev:10,7" lang="tr" %}} ve {{% bible val="canavarın" link="rev:17,5" lang="tr" %}} gizemi).
 
-“Son günlerde ne olması gerektiğini… gösterdi” kehanetinin {{% bible val="başlangıcı" link="rev:1,1" lang="TR" %}} neredeyse doğrudan kitabın başında ve {{% bible val="kiliselere mektuplardan hemen önce aktarılır" link="rev:1,19" lang="TR" %}}.
+“Son günlerde ne olması gerektiğini… gösterdi” kehanetinin {{% bible val="başlangıcı" link="rev:1,1" lang="tr" %}} neredeyse doğrudan kitabın başında ve {{% bible val="kiliselere mektuplardan hemen önce aktarılır" link="rev:1,19" lang="tr" %}}.
 
 Kitabın başlangıcı “nelerin hızla gerçekleşmesi gerektiğini … göstermek için” Daniel’in peygamberlik ettiği zamanın geldiğini gösterirken (son günlerde ve hızla), kiliselere mektuplardan hemen önce Daniel’de olduğu gibi “son günlerde” terimi kullanılır.
 
-Mektuplardan sonraki giriş bölümünde de aynı ifade kullanılır: “{{% bible val="Bundan sonra ne olması gerektiğini size göstereceğim" link="rev:4,1" lang="TR" %}}”
+Mektuplardan sonraki giriş bölümünde de aynı ifade kullanılır: “{{% bible val="Bundan sonra ne olması gerektiğini size göstereceğim" link="rev:4,1" lang="tr" %}}”
 
-Bunların hepsi Daniel’deki görümün başlangıcını yansıtırken (“{{% bible val="krala gelecekte neler olacağını gösterdi" link="dan:2,45" lang="TR" %}}”), görümün sonu Vahiy’deki görümlerin sonuna çok yakındır: “{{% bible val="yakında gerçekleşecek olan şeyleri kullarına göstermek için" link="rev:22,6" lang="TR" %}}”.
+Bunların hepsi Daniel’deki görümün başlangıcını yansıtırken (“{{% bible val="krala gelecekte neler olacağını gösterdi" link="dan:2,45" lang="tr" %}}”), görümün sonu Vahiy’deki görümlerin sonuna çok yakındır: “{{% bible val="yakında gerçekleşecek olan şeyleri kullarına göstermek için" link="rev:22,6" lang="tr" %}}”.
 
 Burada elimizde bir çeviri olduğu için benzerlikler büyük görünmemektedir, ancak Daniel’in Yunanca çevirisine bir referans göndermek ve Vahiy’deki Yunanca metinle karşılaştırmak zordur.
 
@@ -57,7 +57,7 @@ Yani kitap öncelikle sembolik gibi görünüyor. Ama bir başka açıdan bakal�
 ## deiknumi ve semaino
 
 <a name="0cc8"></a>
-Hayır, bu başlık bir yazım hatası değil, kitabın amacını gösteren iki kelimeyi açıklıyor: “{{% bible val="İsa Mesih’ten gelen vahiy, Tanrı ona yakında gerçekleşecek olanları kullarına göstermesi (deiknumi) için verdi. Bunu meleğini kulu Yuhanna’ya göndererek (semaino) bildirdi" link="rev:1,1" lang="TR" %}}”.
+Hayır, bu başlık bir yazım hatası değil, kitabın amacını gösteren iki kelimeyi açıklıyor: “{{% bible val="İsa Mesih’ten gelen vahiy, Tanrı ona yakında gerçekleşecek olanları kullarına göstermesi (deiknumi) için verdi. Bunu meleğini kulu Yuhanna’ya göndererek (semaino) bildirdi" link="rev:1,1" lang="tr" %}}”.
 
 Bu iki fiil bize Tanrı’nın bu kitabın içeriğinin ne olduğunu nasıl göstermek ve duyurmak istediğini iyi anlamamızı sağlamalıdır:
 
@@ -66,28 +66,28 @@ Bu iki fiil bize Tanrı’nın bu kitabın içeriğinin ne olduğunu nasıl gös
 <a name="a772"></a>
 Bu sözcüğü Daniel’de sembolik bir görümün yorumlanmasını anlatan öyküye paralel olarak buluruz. Bu sözcük Yeni Antlaşma’da sadece 5 kez kullanılmıştır.
 
-- Bir jenerikte bir kez ({{% bible val="belirtmek" link="act:25,27" lang="TR" %}} için),
-- başka bir zaman aynı peygamberin {{% bible val="sembolik anlamını" link="act:21,10-11" lang="TR" %}} dikkate alarak potansiyel {{% bible val="olarak sembolik bir kehaneti gösterirken" link="act:11,28" lang="TR" %}}
-- Diğer üçü ise Yuhanna {{% bible val="12" link="jhn:12,33" lang="TR" %}}, {{% bible val="18" link="jhn:18,32" lang="TR" %}} ve {{% bible val="21" link="jhn:21,19" lang="TR" %}}. bölümlerde İsa’nın çarmıhtaki ölümünün sembolik tanımlarıdır. İsim göstermek için kullanılır
+- Bir jenerikte bir kez ({{% bible val="belirtmek" link="act:25,27" lang="tr" %}} için),
+- başka bir zaman aynı peygamberin {{% bible val="sembolik anlamını" link="act:21,10-11" lang="tr" %}} dikkate alarak potansiyel {{% bible val="olarak sembolik bir kehaneti gösterirken" link="act:11,28" lang="tr" %}}
+- Diğer üçü ise Yuhanna {{% bible val="12" link="jhn:12,33" lang="tr" %}}, {{% bible val="18" link="jhn:18,32" lang="tr" %}} ve {{% bible val="21" link="jhn:21,19" lang="tr" %}}. bölümlerde İsa’nın çarmıhtaki ölümünün sembolik tanımlarıdır. İsim göstermek için kullanılır
 
 Bu isim genellikle İsa’nın mucizelerini onun karakterinin ya da misyonunun işareti olarak tanımlamak için kullanılır, örn.
 
-- {{% bible val="ruhsal dirilişin" link="jhn:5,19-29" lang="TR" %}} yanı sıra {{% bible val="ruhsal yaşam" link="jhn:4,46-54" lang="TR" %}} verme gücünü de gösterir
-- {{% bible val="5000 kişiyi doyurmak" link="mat:16,5-12" lang="TR" %}} İsa’nın ruhani yiyecek verme gücünü gösterir
+- {{% bible val="ruhsal dirilişin" link="jhn:5,19-29" lang="tr" %}} yanı sıra {{% bible val="ruhsal yaşam" link="jhn:4,46-54" lang="tr" %}} verme gücünü de gösterir
+- {{% bible val="5000 kişiyi doyurmak" link="mat:16,5-12" lang="tr" %}} İsa’nın ruhani yiyecek verme gücünü gösterir
 
 Semaino sözcüğü aynı zamanda duyurmak/ilan etmek anlamına da gelebilir, ancak Yuhanna bu yönü göstermek isteseydi, daha uygun olan [gnorizo](https://biblehub.com/greek/1107.htm) sözcüğünü kullanırdı ki bunu kullanmamıştır.
 
 ## [deiknumi](https://biblehub.com/greek/1166.htm)
 
 <a name="711f"></a>
-Bu sözcük bir melek tarafından verilen sembolik bir görüm (“{{% bible val="meleğini kulu Yuhanna’ya göndererek bunu bildirdi" link="rev:1,1" lang="TR" %}}”) bağlamında yazılmıştır ve Daniel kitabına da atıfta bulunmaktadır, yukarıya bakın. Ayrıca kitabın başka yerlerinde Yuhanna bunu gördüğü bir görümü tanımlamak için kullanır ve bu görüm çoğunlukla görme ve gördüğü sembolün yorumuyla birleşir
+Bu sözcük bir melek tarafından verilen sembolik bir görüm (“{{% bible val="meleğini kulu Yuhanna’ya göndererek bunu bildirdi" link="rev:1,1" lang="tr" %}}”) bağlamında yazılmıştır ve Daniel kitabına da atıfta bulunmaktadır, yukarıya bakın. Ayrıca kitabın başka yerlerinde Yuhanna bunu gördüğü bir görümü tanımlamak için kullanır ve bu görüm çoğunlukla görme ve gördüğü sembolün yorumuyla birleşir
 
-- {{% bible val="melekler ona cennetteki taht odasını ve orada neler olduğunu gösterir" link="rev:4,1" lang="TR" %}}.
-- {{% bible val="çok sayida su i̇le çevri̇li̇ çölde fahi̇şe görümüne gi̇ri̇ş" link="rev:17,1" lang="TR" %}}
-- {{% bible val="Gelin, Yeni Kudüs şehri olarak gösterilir." link="rev:21,9-10" lang="TR" %}}
-- {{% bible val="yaşam suyu nehri gösterilir" link="rev:22,1" lang="TR" %}}
-- {{% bible val="Daniel’e de bir gönderme olan özet" link="rev:22,6" lang="TR" %}}
-- {{% bible val="Gördüğü ve duyduğu her şeyin özeti" link="rev:22,8" lang="TR" %}}, ki bu {{% bible val="bazen sembolik olarak aynı şeyi anlatan farklı şeylerdi" link="rev:5,5-6" lang="TR" %}}
+- {{% bible val="melekler ona cennetteki taht odasını ve orada neler olduğunu gösterir" link="rev:4,1" lang="tr" %}}.
+- {{% bible val="çok sayida su i̇le çevri̇li̇ çölde fahi̇şe görümüne gi̇ri̇ş" link="rev:17,1" lang="tr" %}}
+- {{% bible val="Gelin, Yeni Kudüs şehri olarak gösterilir." link="rev:21,9-10" lang="tr" %}}
+- {{% bible val="yaşam suyu nehri gösterilir" link="rev:22,1" lang="tr" %}}
+- {{% bible val="Daniel’e de bir gönderme olan özet" link="rev:22,6" lang="tr" %}}
+- {{% bible val="Gördüğü ve duyduğu her şeyin özeti" link="rev:22,8" lang="tr" %}}, ki bu {{% bible val="bazen sembolik olarak aynı şeyi anlatan farklı şeylerdi" link="rev:5,5-6" lang="tr" %}}
 
 ## Sonuç
 

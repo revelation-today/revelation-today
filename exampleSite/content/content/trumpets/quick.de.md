@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-{{% bible val="Kapitel 8" link="rev:8" lang="SLT" %}} und {{% bible val="9" link="rev:9" lang="SLT" %}}.
+{{% bible val="Kapitel 8" link="rev:8" lang="de" %}} und {{% bible val="9" link="rev:9" lang="de" %}}.
 
 ## Das Gebet
 
@@ -33,6 +33,6 @@ Aber es geht weiter, jetzt verursacht durch dämonisches Wesen:
 
 Aber nach all dem, was passiert, ändern die Menschen immer noch nicht ihr Herz. Sie klammern sich an dieselben Dämonen, die ihnen die Hoffnung, das Wohlbefinden und sogar das Leben genommen haben. Das scheint eine Sackgasse zu sein. Die Menschen sind jetzt noch mehr verschlossen. Die Lösung ist das nächste Kapitel, in dem das Geheimnis Gottes offenbart wird. Doch zuvor wollen wir einen Blick auf die Kirche werfen.
 
-Sie ist geschützt ({{% bible val="durch das Siegel" link="rev:7,1-4" lang="SLT" %}}) vor der {{% bible val="fünften Posaune" link="rev:9,4-6" lang="SLT" %}} - sie werden die Hoffnung nicht verlieren, während sie all die Schwierigkeiten ertragen und sogar ihr Leben verlieren. Aber das Aushalten des Verlustes derselben Sicherheiten und sogar ihres Lebens macht dies zu einem großartigen Zeugnis, das die Menschen erkennen lässt, was wirkliche Sicherheiten sind.
+Sie ist geschützt ({{% bible val="durch das Siegel" link="rev:7,1-4" lang="de" %}}) vor der {{% bible val="fünften Posaune" link="rev:9,4-6" lang="de" %}} - sie werden die Hoffnung nicht verlieren, während sie all die Schwierigkeiten ertragen und sogar ihr Leben verlieren. Aber das Aushalten des Verlustes derselben Sicherheiten und sogar ihres Lebens macht dies zu einem großartigen Zeugnis, das die Menschen erkennen lässt, was wirkliche Sicherheiten sind.
 
 ![](/images/trumpets_de.jpg)

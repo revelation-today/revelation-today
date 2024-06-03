@@ -7,7 +7,7 @@ next: /content/scroll/story/story
 docType: story
 ---
 
-{{% bible val="Kapitel 8–9" link="rev:8" lang="SLT" %}}
+{{% bible val="Kapitel 8–9" link="rev:8" lang="de" %}}
 
 <a name="3037"></a>
 Es ist an der Zeit, dass die Gemeinde ihre Macht entfaltet. Mit der gleichen Kraft, mit der Jesus als Gekreuzigter die Welt erschüttert, tut das Gebet der Gemeinde dasselbe. Sie lösen die Trompeten aus, der die Erde erschüttert. Nahrung, Wasser, Handel, Sicherheit — alles ist weg. Wird das die Menschen dazu bringen, sich nach dem Wahren umzusehen? Nein! Sie halten an ihren Götzen fest.

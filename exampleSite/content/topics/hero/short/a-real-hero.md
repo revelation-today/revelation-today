@@ -37,7 +37,7 @@ The work here is to learn and increase trust and learn to give and love.
 <a name="509d"></a>
 To be a hero is not to be weak and to let everyone take advantage of you and to always smile and turn the other cheek.
 
-The power of a hero is love. This does not mean being emotionally romantic, but it is {{% bible val="very practical in how you treat others" link="1co:13,4-8" lang="NIV" %}}. And it is a choice because it is a risk because you can be hurt and your goodness can be abused.
+The power of a hero is love. This does not mean being emotionally romantic, but it is {{% bible val="very practical in how you treat others" link="1co:13,4-8" lang="en" %}}. And it is a choice because it is a risk because you can be hurt and your goodness can be abused.
 
 That is why love requires being able to set boundaries, because love hopes for the best but can handle the worst.
 

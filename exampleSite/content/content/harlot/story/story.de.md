@@ -7,7 +7,7 @@ next: /content/1000y/story/story
 docType: story
 ---
 
-{{% bible val="Kapitel 17–19" link="rev:19" lang="SLT" %}}
+{{% bible val="Kapitel 17–19" link="rev:19" lang="de" %}}
 
 <a name="517a"></a>
 Es gibt noch ein weiteres, dunkles Geheimnis, das gelüftet werden muss, bis das Ziel erreicht ist. Und es wird sehr deutlich, dass das Ziel nicht darin besteht, den Teufel zu besiegen, sondern die Vereinigung Gottes mit seinem Volk.

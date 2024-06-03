@@ -34,10 +34,18 @@ Resim, sayfa eklemek veya aynı anda birkaç dosya üzerinde çalışmak istiyor
 - "<my_git>" çalışma dizinini açın 
 - "cmd" gibi bir komut satırı açın ve "git clone https://github.com/revelation-today/revelation-today.git" kullanarak repoyu kontrol edin
 - "revelation-today" dizinine geç
-- Powershell`inizi açın ve `npm run dev` komutunu çalıştırın
+- **Powershell'inizi** açın (önceden yüklenmiş windows olanı değil, yüklü olanı) ve `npm run dev` komutunu çalıştırın
 - Şimdi [yerel web sunucunuzu](http://localhost:1313/) görmelisiniz
 
 Tebrikler! Yerel sunucunuz çalışıyor, artık değişiklik yapabilirsiniz
+
+- kullanarak en son çalışan kopyaya sahip olduğunuzdan emin olun.
+    - eski çalışma kopyasını sil
+    - `git clone https://github.com/revelation-today/revelation-today.git`
+    
+veya mevcut çalışma kopyanızda
+    - `git checkout main`
+    - `git pull`
 
 - Tarayıcınızı açın ve "<my-git>/revelation-today" klasörüne gidin
 - Düzenlemek için ilgili tüm içeriği orada bulacaksınız
@@ -62,10 +70,12 @@ Tüm sayfalar markdown ile yazılmıştır.
 - [genişletilmiş](https://www.markdownguide.org/extended-syntax/)
 
 Özet:
-- header: `## <header>`
-- sırasız liste: `- <item>`
-- bağlantılar: `[<link text>](<link>)`
-- resimler: `![<picture description>](<path to picture>)` gibi `![](/images/example.jpg)`
+- header: `## <başlık>`
+- sırasız liste: `- <Öğe>`
+- bağlantılar: `[<bağlantı metni>](<link>)`
+- dahili sayfaya bağlantı: `{{% int_link val="<Metin>" link="<link>" %}}`
+- İncil ayetine bağlantı: `{{% bible val="<Metin>" link="<bölüm>,<ayet>-<ayet>" lang="<DİL>" %}}`
+- resimler: `![<resim açıklaması>](<resme giden yol>)` gibi `![](/images/example.jpg)`
 - tablo: (boşlukları \| ile saklayın) 
 ```
 | <c1> | <c2> |

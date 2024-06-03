@@ -17,7 +17,7 @@ Vahiy Kitabı büyük bir patlamayla başlar. Yuhanna kandillerin arasında yür
 ## Genel Bakış
 
 <a name="2ce0"></a>
-Yuhanna (büyük olasılıkla havari) {{% bible val="İsa’yı takip eden radikal bir yaşam tarzının sonuçlarını" link="rev:1,9" lang="TR" %}} yaşayan biri olarak tanıtılır, ancak İsa’nın üç bölüme ayrılan bir vizyonuna sahiptir
+Yuhanna (büyük olasılıkla havari) {{% bible val="İsa’yı takip eden radikal bir yaşam tarzının sonuçlarını" link="rev:1,9" lang="tr" %}} yaşayan biri olarak tanıtılır, ancak İsa’nın üç bölüme ayrılan bir vizyonuna sahiptir
 
 - görümün kendisi (12–16. ayetler)
 - onun tepkisi (ayet 17a)
@@ -28,25 +28,25 @@ Yuhanna (büyük olasılıkla havari) {{% bible val="İsa’yı takip eden radik
 <a name="727c"></a>
 Vizyonda bazı unsurlar yansıtılmaktadır ki bunlara kısaca göz atacağız:
 
-- Lamba ayakları: Yuhanna’nın gördüğü ilk şey yedi kandil sehpasıdır. Bunlar büyük olasılıkla {{% bible val="Zekeriya’dan" link="zec:4,2-10" lang="TR" %}} alınmıştır. ([Eğer bu kitaba aşina değilseniz, kısa bir özetini okuyun](https://www.youtube.com/watch?v=_106IfO6Kc0)). Zekeriya’daki bu bölümde Kutsal Ruh’u temsil eden yedi kandil vardır. Kimlikleri hala belirsizdir ve sadece yorumda verilmiştir.
-- İnsanoğlu: Onların ortasında insan oğluna benzer biri vardı. Bu, {{% bible val="İsa’nın kendisine uyguladığı" link="https://www.bibleserver.com/search/TR/%C4%B0nsano%C4%9Flu" %}} {{% bible val="Daniel’den" link="dan:7,13" lang="TR" %}} iyi bilinen bir resimdir.{{% bible val="İsa aynı zamanda bir kâhin rolüne sahip olduğu için" link="heb:7,11-28" lang="TR" %}}, (tapınaktaki) {{% bible val="kandillerle ilgilenmek onun sorumluluğudur" link="exo:30,7" lang="TR" %}}.
+- Lamba ayakları: Yuhanna’nın gördüğü ilk şey yedi kandil sehpasıdır. Bunlar büyük olasılıkla {{% bible val="Zekeriya’dan" link="zec:4,2-10" lang="tr" %}} alınmıştır. ([Eğer bu kitaba aşina değilseniz, kısa bir özetini okuyun](https://www.youtube.com/watch?v=_106IfO6Kc0)). Zekeriya’daki bu bölümde Kutsal Ruh’u temsil eden yedi kandil vardır. Kimlikleri hala belirsizdir ve sadece yorumda verilmiştir.
+- İnsanoğlu: Onların ortasında insan oğluna benzer biri vardı. Bu, {{% bible val="İsa’nın kendisine uyguladığı" link="https://www.bibleserver.com/search/TR/%C4%B0nsano%C4%9Flu" %}} {{% bible val="Daniel’den" link="dan:7,13" lang="tr" %}} iyi bilinen bir resimdir.{{% bible val="İsa aynı zamanda bir kâhin rolüne sahip olduğu için" link="heb:7,11-28" lang="tr" %}}, (tapınaktaki) {{% bible val="kandillerle ilgilenmek onun sorumluluğudur" link="exo:30,7" lang="tr" %}}.
 - Altın kuşaklı cübbe: İsa’nın giydiği altın kuşaklı cüppe kâhinlik giysisi olabileceği gibi kraliyet giysisi de olabilir; İsa kâhin ve kral olarak sunulduğu için bu durum kasıtlı olarak muğlak bırakılmış olabilir.
 - Beyaz saç: Beyaz saç Daniel 7'deki görümü yansıtır.
-- Alev alev yanan ateş gibi gözler, tunç gibi bacaklar, yüksek ses: Bunların hepsi Yuhanna’nın son görüm için hazırlandığı ve görümün {{% bible val="meleksi bir savaşçı olan bir figür" link="dan:10,20" lang="TR" %}} tarafından verildiği {{% bible val="Daniel 10'un özellikleridir" link="dan:10,7" lang="TR" %}}.
+- Alev alev yanan ateş gibi gözler, tunç gibi bacaklar, yüksek ses: Bunların hepsi Yuhanna’nın son görüm için hazırlandığı ve görümün {{% bible val="meleksi bir savaşçı olan bir figür" link="dan:10,20" lang="tr" %}} tarafından verildiği {{% bible val="Daniel 10'un özellikleridir" link="dan:10,7" lang="tr" %}}.
 
 Burada İnsanoğlu, Daniel 7'deki “Günlerin Eskisi (Tanrı)” ile birleştirilmiştir.
 
 ## Yanıt
 
 <a name="d80b"></a>
-Yuhanna, {{% bible val="Daniel’in görümlerine" link="dan:10,8-19" lang="TR" %}} benzer şekilde yere yığılır.
+Yuhanna, {{% bible val="Daniel’in görümlerine" link="dan:10,8-19" lang="tr" %}} benzer şekilde yere yığılır.
 
 ## Yorumlama
 
 <a name="1a72"></a>
-İsa {{% bible val="bölümün başında" link="rev:1,5" lang="TR" %}} gördüğümüz tüm ifadeleri onaylar.
+İsa {{% bible val="bölümün başında" link="rev:1,5" lang="tr" %}} gördüğümüz tüm ifadeleri onaylar.
 
-{{% bible val="Sonunda kandillerin ve yıldızların gizemi çözülür" link="rev:1,20" lang="TR" %}}. {{% int_link val="Onlar kilisenin farklı bir tanımını temsil etmektedir" link="/content/letters/expl/the-angel-of-the-churches" %}}. Peki bu ne anlama geliyor?
+{{% bible val="Sonunda kandillerin ve yıldızların gizemi çözülür" link="rev:1,20" lang="tr" %}}. {{% int_link val="Onlar kilisenin farklı bir tanımını temsil etmektedir" link="/content/letters/expl/the-angel-of-the-churches" %}}. Peki bu ne anlama geliyor?
 
 Kilise, aynı zamanda iki ana ortak noktası olan iki farklı resimle tanımlanmaktadır:
 

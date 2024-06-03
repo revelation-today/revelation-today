@@ -19,7 +19,7 @@ Kiliselerin tüm zorluklarına nasıl yanıt verilmelidir? Tanrı’nın uygulay
 ## Bizim metnimiz
 
 <a name="b23d"></a>
-Şu anda {{% bible val="4. bölümdeyiz" link="rev:4" lang="TR" %}}.
+Şu anda {{% bible val="4. bölümdeyiz" link="rev:4" lang="tr" %}}.
 
 ## İbadet nedir?
 

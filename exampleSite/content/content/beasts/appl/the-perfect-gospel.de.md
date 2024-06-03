@@ -23,7 +23,7 @@ Dieses Kapitel sieht aus wie zwei Ungeheuer, die Zerstörung anrichten, aber es 
 ## Unser Text
 
 <a name="b0c3"></a>
-Wir sind bereits in {{% bible val="Kapitel 13" link="rev:13" lang="SLT" %}}.
+Wir sind bereits in {{% bible val="Kapitel 13" link="rev:13" lang="de" %}}.
 
 ## Satans Strategie
 

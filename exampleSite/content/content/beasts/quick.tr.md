@@ -9,7 +9,7 @@ next: /content/harvest/quick
 docType: quick
 ---
 
-{{% bible val="Bölüm 13" link="rev:13" lang="TR" %}}
+{{% bible val="Bölüm 13" link="rev:13" lang="tr" %}}
 
 Şeytan yenildi. Başlattığı her şey başarısız oldu. Şimdi kiliseye saldırır.
 

@@ -21,12 +21,12 @@ This is very it’s finally getting serious.
 ## Our text
 
 <a name="4939"></a>
-We are moving quickly forward and reached {{% bible val="chapter 15" link="rev:15" lang="NIV" %}} and {{% bible val="16" link="rev:16" lang="NIV" %}}.
+We are moving quickly forward and reached {{% bible val="chapter 15" link="rev:15" lang="en" %}} and {{% bible val="16" link="rev:16" lang="en" %}}.
 
 ## The big question
 
 <a name="c569"></a>
-The question is, how long is God going to wait? When will the point of harvest be reached? Looking back at the {{% bible val="fifth seal," link="rev:6,9-11" lang="NIV" %}} God waits until all the nations are gathered. On the one hand, we want this to happen quickly and for Jesus to return soon to end the unrighteousness and suffering in this world. On the other hand, there may be people who have not yet heard the gospel.
+The question is, how long is God going to wait? When will the point of harvest be reached? Looking back at the {{% bible val="fifth seal," link="rev:6,9-11" lang="en" %}} God waits until all the nations are gathered. On the one hand, we want this to happen quickly and for Jesus to return soon to end the unrighteousness and suffering in this world. On the other hand, there may be people who have not yet heard the gospel.
 
 Therefore, the church must give its testimony based on its worship of God in endurance, and God is squeezing as much as possible in the meantime until no more squeezing is possible.
 

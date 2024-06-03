@@ -7,7 +7,7 @@ next: /content/1000y/story/story
 docType: story
 ---
 
-{{% bible val="Bölüm 17–19" link="rev:17" lang="TR" %}}
+{{% bible val="Bölüm 17–19" link="rev:17" lang="tr" %}}
 
 <a name="517a"></a>
 Hedefe ulaşılana kadar açığa çıkarılması gereken bir ve karanlık bir gizem daha vardır. Ve amacın şeytanı yenmek değil, Tanrı’nın halkıyla birleşmesi olduğu çok açık hale gelir.

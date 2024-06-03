@@ -44,22 +44,22 @@ Ancak bu konu Yeni Antlaşma’nın tamamında ortaya konmuştur.
 ## Büyük sıkıntı
 
 <a name="ef13"></a>
-Büyük sıkıntı {{% bible val="Vahiy Kitabı’nda" link="rev:7,14" lang="TR" %}} geçen bir terimdir ve “the” maddesi büyük sıkıntının bir geçmişi olduğunu göstermektedir. Bu terimin kökeni Daniel’e dayanmaktadır:
+Büyük sıkıntı {{% bible val="Vahiy Kitabı’nda" link="rev:7,14" lang="tr" %}} geçen bir terimdir ve “the” maddesi büyük sıkıntının bir geçmişi olduğunu göstermektedir. Bu terimin kökeni Daniel’e dayanmaktadır:
 
-“{{% bible val="O zaman senin halkını koruyan büyük önder Mikail görünecek. Ulusun oluşumundan beri hiç görülmemiş bir sıkıntı dönemi olacak. Bu dönemde halkın -adı kitapta yazılı olanlar- kurtulacak." link="dan:12,1" lang="TR" %}}”
+“{{% bible val="O zaman senin halkını koruyan büyük önder Mikail görünecek. Ulusun oluşumundan beri hiç görülmemiş bir sıkıntı dönemi olacak. Bu dönemde halkın -adı kitapta yazılı olanlar- kurtulacak." link="dan:12,1" lang="tr" %}}”
 
-{{% bible val="Matta" link="mat:24,21" lang="TR" %}} ve {{% bible val="Markos" link="mrk:13,19" lang="TR" %}}’ta İsa Yeruşalim’in ve tapınağın yıkılmasından söz ederken bu bölüme atıfta bulunulur.
+{{% bible val="Matta" link="mat:24,21" lang="tr" %}} ve {{% bible val="Markos" link="mrk:13,19" lang="tr" %}}’ta İsa Yeruşalim’in ve tapınağın yıkılmasından söz ederken bu bölüme atıfta bulunulur.
 
-Daniel bağlamında bu, {{% bible val="Antiokheos Epifanes zamanında" link="dan:11,30-39" lang="TR" %}} ve sonrasında Tanrı halkının sadakatini vurgulamak için gerçekleşiyordu ve {{% bible val="kutsalları arındırmak ve kutsallarla kötüler arasında ayrım yapmak için kullanılıyordu" link="dan:12,10" lang="TR" %}}. {{% bible val="Tanrı’nın halkından bazıları kandırılacak ve Tanrı’dan uzaklaşacaktır." link="dan:11,32-34" lang="TR" %}}
+Daniel bağlamında bu, {{% bible val="Antiokheos Epifanes zamanında" link="dan:11,30-39" lang="tr" %}} ve sonrasında Tanrı halkının sadakatini vurgulamak için gerçekleşiyordu ve {{% bible val="kutsalları arındırmak ve kutsallarla kötüler arasında ayrım yapmak için kullanılıyordu" link="dan:12,10" lang="tr" %}}. {{% bible val="Tanrı’nın halkından bazıları kandırılacak ve Tanrı’dan uzaklaşacaktır." link="dan:11,32-34" lang="tr" %}}
 
-Bu baskı İzmir’de ekonomik odaklı olabileceği gibi, {{% bible val="üçüncü atlı" link="rev:6,5-6" lang="TR" %}} ya da {{% bible val="hapis ve hatta ölüm de olabilir" link="rev:2,10" lang="TR" %}}.
+Bu baskı İzmir’de ekonomik odaklı olabileceği gibi, {{% bible val="üçüncü atlı" link="rev:6,5-6" lang="tr" %}} ya da {{% bible val="hapis ve hatta ölüm de olabilir" link="rev:2,10" lang="tr" %}}.
 
-{{% bible val="İsa’nın öğrencilerine önceden bildirdiği sıkıntıyı" link="jhn:16,33" lang="TR" %}}, {{% bible val="Pavlus’un misyonu sırasında" link="act:14,22" lang="TR" %}}, {{% bible val="umudun katalizörü olarak" link="rom:5,3-4" lang="TR" %}}, {{% bible val="Timoteos’a uyarı olarak" link="2ti:3,12" lang="TR" %}} ve {{% bible val="Petrus’un mektubunda" link="1pe:4,12-13" lang="TR" %}} {{% bible val="bizi İsa’dan ayıramayacağını görüyoruz" link="rom:8,35-36" lang="TR" %}}.
+{{% bible val="İsa’nın öğrencilerine önceden bildirdiği sıkıntıyı" link="jhn:16,33" lang="tr" %}}, {{% bible val="Pavlus’un misyonu sırasında" link="act:14,22" lang="tr" %}}, {{% bible val="umudun katalizörü olarak" link="rom:5,3-4" lang="tr" %}}, {{% bible val="Timoteos’a uyarı olarak" link="2ti:3,12" lang="tr" %}} ve {{% bible val="Petrus’un mektubunda" link="1pe:4,12-13" lang="tr" %}} {{% bible val="bizi İsa’dan ayıramayacağını görüyoruz" link="rom:8,35-36" lang="tr" %}}.
 
 [Bu terim Thyatira’daki kiliseyi uyarmak için kullanılmıştır ve Jesebel olarak tanımlanan mevcut önder hakkında bir yargıdır.](https://biblehub.com/interlinear/revelation/2-22.htm)
 
 Bu da büyük sıkıntıyı İsa’nın birinci ve ikinci gelişi arasındaki tüm zaman boyunca gerçekleşen bir şey haline getirir. Ama bu nasıl mümkün olabilir?
 
-Daniel’deki bölüme tekrar bir göz atalım. “İsrail’in koruyucusu Mikail ortaya çıkacak”. Bu bölüm Vahiy Kitabı’nda {{% int_link val="Mesih’in ilk gelişiyle" link="/content/jesus/expl/a-different-christmas-story" %}} ilgili olarak 12. bölümde yer alır. {{% bible val="Mikail ejderhayla (şeytan) savaşacak" link="rev:12,7" lang="TR" %}} ve onu yenip cennetten atacaktır. {{% bible val="Ancak yenilgisinden dolayı çok az zamanı olduğu için acımasızdır" link="rev:12,12" lang="TR" %}} ve {{% bible val="önce İsrail’e karşı mümkün olduğunca çok zarar vermeye çalışır" link="rev:12,13-17" lang="TR" %}} ve {{% bible val="bu kiliseye karşı işe yaramadı" link="rev:13" lang="TR" %}}.
+Daniel’deki bölüme tekrar bir göz atalım. “İsrail’in koruyucusu Mikail ortaya çıkacak”. Bu bölüm Vahiy Kitabı’nda {{% int_link val="Mesih’in ilk gelişiyle" link="/content/jesus/expl/a-different-christmas-story" %}} ilgili olarak 12. bölümde yer alır. {{% bible val="Mikail ejderhayla (şeytan) savaşacak" link="rev:12,7" lang="tr" %}} ve onu yenip cennetten atacaktır. {{% bible val="Ancak yenilgisinden dolayı çok az zamanı olduğu için acımasızdır" link="rev:12,12" lang="tr" %}} ve {{% bible val="önce İsrail’e karşı mümkün olduğunca çok zarar vermeye çalışır" link="rev:12,13-17" lang="tr" %}} ve {{% bible val="bu kiliseye karşı işe yaramadı" link="rev:13" lang="tr" %}}.
 
 Yani büyük sıkıntı, kilise olarak karşı karşıya olduğumuz tüm sıkıntılardır.

@@ -17,16 +17,16 @@ Das Thema taucht aber schon in der Schöpfungsgeschichte auf und reicht bis in d
 ## Der Garten Eden als Ort der Gemeinschaft mit Gott
 
 <a name="f66f"></a>
-Es beginnt mit dem Garten Eden. Gott erschafft Mann und Frau und hat Gemeinschaft mit ihnen, indem er ihnen {{% bible val="einen Garten anlegt, den sie pflegen sollen" link="gen:2,8-15" lang="SLT" %}} und {{% bible val="in dem er sich mit ihnen trifft" link="gen:3,8-9" lang="SLT" %}}. Doch durch den Sündenfall müssen beide den Garten verlassen. Der {{% bible val="Boden wurde verflucht" link="gen:3,17-19" lang="SLT" %}} und es wurde noch {{% bible val="schlimmer, als Kain Abel erschlug" link="gen:4,12" lang="SLT" %}}.
+Es beginnt mit dem Garten Eden. Gott erschafft Mann und Frau und hat Gemeinschaft mit ihnen, indem er ihnen {{% bible val="einen Garten anlegt, den sie pflegen sollen" link="gen:2,8-15" lang="de" %}} und {{% bible val="in dem er sich mit ihnen trifft" link="gen:3,8-9" lang="de" %}}. Doch durch den Sündenfall müssen beide den Garten verlassen. Der {{% bible val="Boden wurde verflucht" link="gen:3,17-19" lang="de" %}} und es wurde noch {{% bible val="schlimmer, als Kain Abel erschlug" link="gen:4,12" lang="de" %}}.
 
-Es war hart für Kain, aber Gott entschloss sich, {{% bible val="ein Zeichen zu machen und ihn zu schützen" link="gen:4,13-15" lang="SLT" %}}. Aber Kain suchte {{% bible val="seinen eigenen Schutz und baute eine Stadt" link="gen:4,16-17" lang="SLT" %}} und auch {{% bible val="seine Nachfolger suchten ihre Sicherheit in der Blüte ihrer Kultur und im Fortschritt" link="gen:4,16-17" lang="SLT" %}}. Die Linie Kains endet mit {{% bible val="Lamech, der Gottes Schutz verspottet" link="gen:4,22-24" lang="SLT" %}}.
+Es war hart für Kain, aber Gott entschloss sich, {{% bible val="ein Zeichen zu machen und ihn zu schützen" link="gen:4,13-15" lang="de" %}}. Aber Kain suchte {{% bible val="seinen eigenen Schutz und baute eine Stadt" link="gen:4,16-17" lang="de" %}} und auch {{% bible val="seine Nachfolger suchten ihre Sicherheit in der Blüte ihrer Kultur und im Fortschritt" link="gen:4,16-17" lang="de" %}}. Die Linie Kains endet mit {{% bible val="Lamech, der Gottes Schutz verspottet" link="gen:4,22-24" lang="de" %}}.
 
 ## Die Stadt als Zuflucht des Menschen
 
 <a name="9299"></a>
-Adam hat einen weiteren Sohn und {{% bible val="von da an suchen die Menschen wieder die Gemeinschaft mit Gott" link="gen:4,25-26" lang="SLT" %}}. Aber die {{% bible val="Stadt ist immer noch ein wichtiges Element" link="gen:10,8-12" lang="SLT" %}}, was in dem {{% bible val="Desaster von Babel endete" link="gen:11,1-9" lang="SLT" %}}.
+Adam hat einen weiteren Sohn und {{% bible val="von da an suchen die Menschen wieder die Gemeinschaft mit Gott" link="gen:4,25-26" lang="de" %}}. Aber die {{% bible val="Stadt ist immer noch ein wichtiges Element" link="gen:10,8-12" lang="de" %}}, was in dem {{% bible val="Desaster von Babel endete" link="gen:11,1-9" lang="de" %}}.
 
-Die Menschen wollten einen Namen für sich machen, aber {{% bible val="Gott erwählte Abraham und machte aus ihm einen Namen" link="gen:12,1-3" lang="SLT" %}}, aus dem später Israel hervorging.
+Die Menschen wollten einen Namen für sich machen, aber {{% bible val="Gott erwählte Abraham und machte aus ihm einen Namen" link="gen:12,1-3" lang="de" %}}, aus dem später Israel hervorging.
 
 ## Gott kommt in die Stadt
 
@@ -40,11 +40,11 @@ Der zentrale Teil war das Allerheiligste, das nur der Hohepriester einmal im Jah
 ## Gott hinterläßt die Verheißung, dass Stadt und Garten eins werden
 
 <a name="3f30"></a>
-Als Israel den Bund mit Gott brach, {{% bible val="verließ Gott den Tempel" link="ezk:10,18-19" lang="SLT" %}}, aber später wird berichtet, dass {{% bible val="Gott wieder (durch das Osttor) in den Tempel zurückkehrt" link="ezk:43,1-2" lang="SLT" %}}. In diesen Kapiteln wird ein neuer Aspekt eingeführt - das Bild des Gartens und der Stadt. Es ist die Geschichte des {{% bible val="Baches, der aus dem Altar (im Tempel) fließt und zu einem großen Strom wird, der überall Leben bring" link="ezk:47" lang="SLT" %}}t. Dies wird schließlich {{% bible val="im Neuen Jerusalem durch den Baum des Lebens in der Stadt erfüllt werden" link="rev:22,1-5" lang="SLT" %}}, aber bis dahin ist es noch ein langer Weg.
+Als Israel den Bund mit Gott brach, {{% bible val="verließ Gott den Tempel" link="ezk:10,18-19" lang="de" %}}, aber später wird berichtet, dass {{% bible val="Gott wieder (durch das Osttor) in den Tempel zurückkehrt" link="ezk:43,1-2" lang="de" %}}. In diesen Kapiteln wird ein neuer Aspekt eingeführt - das Bild des Gartens und der Stadt. Es ist die Geschichte des {{% bible val="Baches, der aus dem Altar (im Tempel) fließt und zu einem großen Strom wird, der überall Leben bring" link="ezk:47" lang="de" %}}t. Dies wird schließlich {{% bible val="im Neuen Jerusalem durch den Baum des Lebens in der Stadt erfüllt werden" link="rev:22,1-5" lang="de" %}}, aber bis dahin ist es noch ein langer Weg.
 
 ## Der Tempel im Neuen Testament
 
 <a name="379d"></a>
-Im Neuen Testament ist {{% bible val="Jesus der Tempel" link="jhn:2,19-22" lang="SLT" %}}. Als er starb, zerriss der Vorhang im Tempel vor dem Allerheiligsten, was zeigt, dass nun alle direkten Zugang zu Gott haben.
+Im Neuen Testament ist {{% bible val="Jesus der Tempel" link="jhn:2,19-22" lang="de" %}}. Als er starb, zerriss der Vorhang im Tempel vor dem Allerheiligsten, was zeigt, dass nun alle direkten Zugang zu Gott haben.
 
-Als Jesus starb, {{% bible val="wurde die Gemeinde zum Tempel, denn die Gemeinde ist der Leib Christi" link="1co:6,19" lang="SLT" %}}. Und in der Offenbarung ist die Gemeinde die Braut Christi, die das Neue Jerusalem ist, in dem die Gemeinschaft zwischen Gott und Mensch ungestört ist.
+Als Jesus starb, {{% bible val="wurde die Gemeinde zum Tempel, denn die Gemeinde ist der Leib Christi" link="1co:6,19" lang="de" %}}. Und in der Offenbarung ist die Gemeinde die Braut Christi, die das Neue Jerusalem ist, in dem die Gemeinschaft zwischen Gott und Mensch ungestört ist.

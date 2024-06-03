@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-{{% bible val="Bölüm 12" link="rev:12" lang="TR" %}}).
+{{% bible val="Bölüm 12" link="rev:12" lang="tr" %}}).
 
 ## Şeytanlar sabit başarısız
 
@@ -19,7 +19,7 @@ Ancak İsa sonunda üstesinden gelir ve göğe yükseltilir.
 
 Şimdi bunu göksel perspektiften ele alalım: Daniel'in ikinci yarısında insanoğlu (İsa) ile bağlantılı olan Mikail, şimdi cennetten atılmış olan Şeytan'la savaşır. Yan not: Şeytan'ın fethedilmesi de azizlerin tanıklığıyla gerçekleşmiştir.
 
-Kendisi gibi acımasız olan Şeytan, İsa'yı doğuran İsrail'i yok etmeye çalışır, ancak bu da başarısız olur. Ağzından çıkan akıntı, İsrail'in geçebilmesi için dünyanın yuttuğu Kızıldeniz'den geçişi hatırlatır ve kartalların kanatları {{% bible val="Yeşaya'dan bir vaattir" link="isa:40,31" lang="TR" %}}.
+Kendisi gibi acımasız olan Şeytan, İsa'yı doğuran İsrail'i yok etmeye çalışır, ancak bu da başarısız olur. Ağzından çıkan akıntı, İsrail'in geçebilmesi için dünyanın yuttuğu Kızıldeniz'den geçişi hatırlatır ve kartalların kanatları {{% bible val="Yeşaya'dan bir vaattir" link="isa:40,31" lang="tr" %}}.
 
 Şimdi Şeytan, İsa'yı izleyen çocuğun tohumuna (kiliseye) saldırmak için iki canavar toplar. Bunun nasıl bittiğini tahmin edebilirsiniz. Şeytan yaptığı her şeyde başarısız oldu.
 
@@ -27,6 +27,6 @@ Kendisi gibi acımasız olan Şeytan, İsa'yı doğuran İsrail'i yok etmeye ça
 
 ## Sıkıntı
 
-Şeytan cennetten kovulduktan sonra, {{% bible val="bunun yeryüzündeki insanlar için kötü bir haber olduğu" link="rev:12,12" lang="TR" %}} söylenir. Yenilgisinden sonra Şeytan'ın alçakgönüllü olmasını beklersiniz, ancak durum tam tersidir. Çok az zamanı vardır, bu yüzden mümkün olduğunca çok hasar yaratır.
+Şeytan cennetten kovulduktan sonra, {{% bible val="bunun yeryüzündeki insanlar için kötü bir haber olduğu" link="rev:12,12" lang="tr" %}} söylenir. Yenilgisinden sonra Şeytan'ın alçakgönüllü olmasını beklersiniz, ancak durum tam tersidir. Çok az zamanı vardır, bu yüzden mümkün olduğunca çok hasar yaratır.
 
 Bu yüzden kolay bir yaşam yerine şimdi Şeytan'ın kışkırtılmamış saldırılarına maruz kalıyoruz ki buna Büyük Sıkıntı da deniyor: Yanlış bir şey yapmadan acı çekiyoruz.

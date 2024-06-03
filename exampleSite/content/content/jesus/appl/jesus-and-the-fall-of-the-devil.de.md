@@ -14,7 +14,7 @@ Wir erreichen ein weiteres Kapitel voller seltsamer Bilder und Ereignisse. Aber 
 ## Unser Text
 
 <a name="0c4a"></a>
-Wir sind nun in {{% bible val="Kapitel 12" link="rev:12" lang="SLT" %}}.
+Wir sind nun in {{% bible val="Kapitel 12" link="rev:12" lang="de" %}}.
 
 ## Es ist Weihnachten
 

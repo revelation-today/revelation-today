@@ -28,25 +28,25 @@ appl: /content/beasts/appl/the-perfect-gospel
 <a name="a7a0"></a>
 Tanrı üç olduğu için şeytan her zaman üçleme şeklinde ortaya çıkar.
 
-{{% bible val="Bu ilk kez Mesih’in dört atlı" link="rev:5" lang="TR" %}} (dördüncüsü diğer üçünün özetidir) {{% bible val="olarak tahttan indirilmesinden" link="rev:5" lang="TR" %}} (parşömeni açmaya layıktır) sonradır. Onun eylemi çok kısa bir şekilde anlatılır (8 ayet) ve Tanrı’ya ebedi tapınmanın iki bölümüne zıttır.
+{{% bible val="Bu ilk kez Mesih’in dört atlı" link="rev:5" lang="tr" %}} (dördüncüsü diğer üçünün özetidir) {{% bible val="olarak tahttan indirilmesinden" link="rev:5" lang="tr" %}} (parşömeni açmaya layıktır) sonradır. Onun eylemi çok kısa bir şekilde anlatılır (8 ayet) ve Tanrı’ya ebedi tapınmanın iki bölümüne zıttır.
 
 İlk atlı büyük muzaffer olarak ortaya çıkar ama sadece 7 ayet sonra tam bir yıkım yeri bırakır: Şeytan vaatlerini yerine getiremez.
 
-{{% bible val="İkinci kez İsa’nın zaferi tekrar açıklandığında" link="rev:12" lang="TR" %}}, kadın tarafından doğduğunda ortaya çıkar. Şeytan nihai kaybeden olarak gösterilir.
+{{% bible val="İkinci kez İsa’nın zaferi tekrar açıklandığında" link="rev:12" lang="tr" %}}, kadın tarafından doğduğunda ortaya çıkar. Şeytan nihai kaybeden olarak gösterilir.
 
-- {{% bible val="Çocuğu yok etmeye çalıştı — ve başarısız oldu" link="rev:12,1-6" lang="TR" %}}
-- {{% bible val="Mikail’e karşı savaştı — ve cennetten kovuldu" link="rev:12,7-12" lang="TR" %}}
-- {{% bible val="Kadını yok etmeye çalışır ama başarılı olamaz." link="rev:12,13-17" lang="TR" %}}
-- {{% bible val="İsa’nın soyundan gelenleri, kiliseyi yok etmeye çalışır" link="rev:13" lang="TR" %}} ve {{% int_link val="666 sayısında " link="/content/beasts/expl/666-the-number-of-the-beast" %}}da gördüğümüz gibi başarısız olur
+- {{% bible val="Çocuğu yok etmeye çalıştı — ve başarısız oldu" link="rev:12,1-6" lang="tr" %}}
+- {{% bible val="Mikail’e karşı savaştı — ve cennetten kovuldu" link="rev:12,7-12" lang="tr" %}}
+- {{% bible val="Kadını yok etmeye çalışır ama başarılı olamaz." link="rev:12,13-17" lang="tr" %}}
+- {{% bible val="İsa’nın soyundan gelenleri, kiliseyi yok etmeye çalışır" link="rev:13" lang="tr" %}} ve {{% int_link val="666 sayısında " link="/content/beasts/expl/666-the-number-of-the-beast" %}}da gördüğümüz gibi başarısız olur
 
-Şeytan, {{% bible val="19." link="rev:19,20" lang="TR" %}} ve {{% bible val="20. bölümlerde" link="rev:20,10" lang="TR" %}} yargılanan {{% bible val="altıncı kasede yine bir üçlü olarak " link="rev:16,13" lang="TR" %}}gösterilir. Bu bölümler aynı zamanda bir canavar ve fahişenin de bulunduğu fahişe öyküsünü çerçeveler.
+Şeytan, {{% bible val="19." link="rev:19,20" lang="tr" %}} ve {{% bible val="20. bölümlerde" link="rev:20,10" lang="tr" %}} yargılanan {{% bible val="altıncı kasede yine bir üçlü olarak " link="rev:16,13" lang="tr" %}}gösterilir. Bu bölümler aynı zamanda bir canavar ve fahişenin de bulunduğu fahişe öyküsünü çerçeveler.
 
 Bu üç görüş şeytanın eylemlerini tanımlamakla bağlantılıdır.
 
 ## Sahte üçleme
 
 <a name="1e70"></a>
-Şeytanın nasıl tanımlandığını daha iyi anlamak için,{{% bible val=" ejderha ve iki canavarın ikinci öyküsüne bakmamız gerekir" link="rev:13" lang="TR" %}}.
+Şeytanın nasıl tanımlandığını daha iyi anlamak için,{{% bible val=" ejderha ve iki canavarın ikinci öyküsüne bakmamız gerekir" link="rev:13" lang="tr" %}}.
 
 Kiliseyi kandırmak için {{% int_link val="şeytani bir üçlü oluşturur" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}} ama {{% int_link val="başarılı olamaz" link="/content/beasts/expl/666-the-number-of-the-beast#9a7b" %}}.
 
@@ -66,12 +66,12 @@ Bölüm 17'deki canavar ile Bölüm 13'teki ilk canavar arasında güçlü bir p
 
 | Vahiy 13'teki ilk canavar | Vahiy 17'deki canavar |
 |---------------------------|-----------------------|
-| {{% bible val="var 7 baş ve 10 boynuz" link="rev:13,1" lang="TR" %}} | {{% bible val="var 7 baş ve 10 boynuz" link="rev:17,3" lang="TR" %}} |
-| {{% bible val="Kafa kesilmiş gibi, tekrar büyüyor" link="rev:13,3" lang="TR" %}} | {{% bible val="5 kral öldü, yedincisi henüz gelmedi" link="rev:17,10" lang="TR" %}} |
-| {{% bible val="Canavarla kim savaşabilir" link="rev:13,4" lang="TR" %}} | {{% bible val="Canavar Kralların Kralına savaş açtı" link="rev:17,14" lang="TR" %}} |
-| {{% bible val="Küfür konuşması" link="rev:13,5-6" lang="TR" %}} | {{% bible val="Küfürlü isim" link="rev:17,3" lang="TR" %}} |
-| {{% bible val="Kutsallara karşı savaşın" link="rev:13,7" lang="TR" %}} | ve <span style="color:red;">onları yenin</span> | {{% bible val="Kuzu'a karşı savaşır" link="rev:17,14" lang="TR" %}}</td> ve <span style="color:red;">üstesinden gelir</span> {{% bible val="yok etmeye fahişe ve karşı savaşın" link="rev:17,16" lang="TR" %}} |
-| {{% bible val="Yaşam kitabında yazılı olmayan herkes canavara tapar" link="rev:13,8" lang="TR" %}} | {{% bible val="Hayat kitabında yazılı olmayan herkes bunalıma uğrar" link="rev:17,8" lang="TR" %}} |
+| {{% bible val="var 7 baş ve 10 boynuz" link="rev:13,1" lang="tr" %}} | {{% bible val="var 7 baş ve 10 boynuz" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="Kafa kesilmiş gibi, tekrar büyüyor" link="rev:13,3" lang="tr" %}} | {{% bible val="5 kral öldü, yedincisi henüz gelmedi" link="rev:17,10" lang="tr" %}} |
+| {{% bible val="Canavarla kim savaşabilir" link="rev:13,4" lang="tr" %}} | {{% bible val="Canavar Kralların Kralına savaş açtı" link="rev:17,14" lang="tr" %}} |
+| {{% bible val="Küfür konuşması" link="rev:13,5-6" lang="tr" %}} | {{% bible val="Küfürlü isim" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="Kutsallara karşı savaşın" link="rev:13,7" lang="tr" %}} | ve <span style="color:red;">onları yenin</span> | {{% bible val="Kuzu'a karşı savaşır" link="rev:17,14" lang="tr" %}}</td> ve <span style="color:red;">üstesinden gelir</span> {{% bible val="yok etmeye fahişe ve karşı savaşın" link="rev:17,16" lang="tr" %}} |
+| {{% bible val="Yaşam kitabında yazılı olmayan herkes canavara tapar" link="rev:13,8" lang="tr" %}} | {{% bible val="Hayat kitabında yazılı olmayan herkes bunalıma uğrar" link="rev:17,8" lang="tr" %}} |
 
 Ancak 13. bölümdeki ikinci canavar ile fahişe arasında da güçlü bir bağ vardır
 
@@ -79,18 +79,18 @@ Ancak 13. bölümdeki ikinci canavar ile fahişe arasında da güçlü bir bağ 
 
 | Vahiy 13'teki ikinci canavar | Fahişe |
 |------------------------------|--------|
-| {{% bible val="Dünya'dan geliyor" link="rev:13,11" lang="TR" %}} | {{% bible val="çölde oturuyor" link="rev:17,3" lang="TR" %}} |
-| {{% bible val="İki boynuzu vardır  kuzu gibi" link="rev:13,11" lang="TR" %}} | {{% bible val="kuzu gelin gibi giyinmiştir." link="rev:17,4" lang="TR" %}} |
-| {{% bible val="(İlk) hayvanın  gücünde hareket eder" link="rev:13,12" lang="TR" %}} | {{% bible val="(ilk) hayvanın üzerine oturur" link="rev:17,3" lang="TR" %}} |
-| {{% bible val="ateş gökten düşebilir" link="rev:13,13" lang="TR" %}} | {{% bible val="ateş tarafından yönlendirilir" link="rev:17,16" lang="TR" %}} ({{% bible val="Vah.18/9" link="rev:18,9" lang="TR" %}}) |
-| {{% bible val="Ona tapmayan herkes öldürülecektir" link="rev:13,15" lang="TR" %}} | {{% bible val="İçki Azizlerin Kanı" link="rev:17,6" lang="TR" %}} |
-| {{% bible val="Alnınıza bir işaret yapın ve herkese" link="rev:13,16" lang="TR" %}} | {{% bible val="Alnında işaret var: Babel" link="rev:17,5" lang="TR" %}} |
-| {{% bible val="Karakterler olmadan alınamaz veya satılamaz" link="rev:13,17" lang="TR" %}} | {{% bible val="Fahişe olmadan alım satım mümkün değil " link="rev:18,3" lang="TR" %}} ({{% bible val="Vah.18/11-17" link="rev:18,11-17" lang="TR" %}}) |
-| {{% bible val="Gerekli Bilgelik" link="rev:13,18" lang="TR" %}} | {{% bible val="Gerekli Bilgelik" link="rev:17,9" lang="TR" %}} |
+| {{% bible val="Dünya'dan geliyor" link="rev:13,11" lang="tr" %}} | {{% bible val="çölde oturuyor" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="İki boynuzu vardır  kuzu gibi" link="rev:13,11" lang="tr" %}} | {{% bible val="kuzu gelin gibi giyinmiştir." link="rev:17,4" lang="tr" %}} |
+| {{% bible val="(İlk) hayvanın  gücünde hareket eder" link="rev:13,12" lang="tr" %}} | {{% bible val="(ilk) hayvanın üzerine oturur" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="ateş gökten düşebilir" link="rev:13,13" lang="tr" %}} | {{% bible val="ateş tarafından yönlendirilir" link="rev:17,16" lang="tr" %}} ({{% bible val="Vah.18/9" link="rev:18,9" lang="tr" %}}) |
+| {{% bible val="Ona tapmayan herkes öldürülecektir" link="rev:13,15" lang="tr" %}} | {{% bible val="İçki Azizlerin Kanı" link="rev:17,6" lang="tr" %}} |
+| {{% bible val="Alnınıza bir işaret yapın ve herkese" link="rev:13,16" lang="tr" %}} | {{% bible val="Alnında işaret var: Babel" link="rev:17,5" lang="tr" %}} |
+| {{% bible val="Karakterler olmadan alınamaz veya satılamaz" link="rev:13,17" lang="tr" %}} | {{% bible val="Fahişe olmadan alım satım mümkün değil " link="rev:18,3" lang="tr" %}} ({{% bible val="Vah.18/11-17" link="rev:18,11-17" lang="tr" %}}) |
+| {{% bible val="Gerekli Bilgelik" link="rev:13,18" lang="tr" %}} | {{% bible val="Gerekli Bilgelik" link="rev:17,9" lang="tr" %}} |
 
 Burada fahişenin gücü de tersine çevrilmiştir: 13. bölümde gökten ateş düşmesine izin verirken, şimdi ateşle yok edilir, alnına işaret koyarken, burada kendisi (bir köle gibi) alnına damgalanır.
 
-Peki üçüncü bölüm nerede? Bölüm 13'te olduğu gibi arka planda kalıyor ve atlı adam tanımında olduğu gibi hiçbir şey yapmıyor. Ama onu {{% bible val="altıncı kasede" link="rev:16,13" lang="TR" %}} ve {{% bible val="20. bölümde" link="rev:20,10" lang="TR" %}} göreceksiniz.
+Peki üçüncü bölüm nerede? Bölüm 13'te olduğu gibi arka planda kalıyor ve atlı adam tanımında olduğu gibi hiçbir şey yapmıyor. Ama onu {{% bible val="altıncı kasede" link="rev:16,13" lang="tr" %}} ve {{% bible val="20. bölümde" link="rev:20,10" lang="tr" %}} göreceksiniz.
 
 {{% int_link val="Bu durum tarihsel bağlamda da geçerliydi" link="/content/beasts/expl/the-beasts-and-the-666-in-historical-context" %}}: İki canavarla yüzleşirsiniz ama şeytanı doğrudan görmezsiniz.
 

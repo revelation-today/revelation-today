@@ -21,7 +21,7 @@ Jetzt wird es wirklich ernst.
 ## Unser Text
 
 <a name="5322"></a>
-Wir sind mittlerweile in {{% bible val="Kapitel 15" link="rev:15" lang="SLT" %}} und {{% bible val="16" link="rev:16" lang="SLT" %}}.
+Wir sind mittlerweile in {{% bible val="Kapitel 15" link="rev:15" lang="de" %}} und {{% bible val="16" link="rev:16" lang="de" %}}.
 
 ## Die große Frage
 

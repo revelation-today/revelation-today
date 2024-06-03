@@ -10,7 +10,7 @@ docType: quick
 ---
 
 
-{{% bible val="Bölüm 15-16" link="rev:15" lang="TR" %}}
+{{% bible val="Bölüm 15-16" link="rev:15" lang="tr" %}}
 
 ## Kaseler
 
@@ -27,19 +27,19 @@ Bu bize Tanrı'nın ne yapacağını çabucak açıklar. Buradaki senaryo, Tanr�
 
 ## Armagedon
 
-Çok ilginç bir konu var: Armageddon. Bundan {{% bible val="sadece bir kez" link="rev:16,12-16" lang="TR" %}} bahsedilmektedir ve bunun ne hakkında olduğu açık değildir.
+Çok ilginç bir konu var: Armageddon. Bundan {{% bible val="sadece bir kez" link="rev:16,12-16" lang="tr" %}} bahsedilmektedir ve bunun ne hakkında olduğu açık değildir.
 
 Armageddon kelimesinin üç çevirisi vardır:
 - Katliam dağı -> bu destansı bir savaş olacak
-- Meclis Dağı -> {{% bible val="Tanrı gibi olmak isteyen ancak hiçbir şeye indirgenemeyen Şeytan'a bir gönderme" link="isa:14,3-23" lang="TR" %}}
+- Meclis Dağı -> {{% bible val="Tanrı gibi olmak isteyen ancak hiçbir şeye indirgenemeyen Şeytan'a bir gönderme" link="isa:14,3-23" lang="tr" %}}
 - Megiddo Dağı -> Alışılmadık kahramanlarla birçok savaşın yaşandığı yer
-    - {{% bible val="Jael adında bir ev kadını bir ordu liderinin üstesinden gelir" link="jdg:4" lang="TR" %}}
-    - {{% bible val="depresif peygamber bir ulusu kurtarır - Karmel Megiddo yakınlarındaki dağdır" link="1ki:18" lang="TR" %}}
+    - {{% bible val="Jael adında bir ev kadını bir ordu liderinin üstesinden gelir" link="jdg:4" lang="tr" %}}
+    - {{% bible val="depresif peygamber bir ulusu kurtarır - Karmel Megiddo yakınlarındaki dağdır" link="1ki:18" lang="tr" %}}
     - [tek bir adam aynı gün iki ülkenin hükümdarını devirir] (https://www.bibleserver.com/TR/2.Krallar9)
-    - {{% bible val="bir kral savaşa girer, savaşı kaybeder ve ölür, ama tarihi değiştirir" link="2ch:35,20-24" lang="TR" %}}
+    - {{% bible val="bir kral savaşa girer, savaşı kaybeder ve ölür, ama tarihi değiştirir" link="2ch:35,20-24" lang="tr" %}}
     
 Bir şey açıktır: Savaş Armagedon'da olmaz, çünkü burada da gösterildiği gibi orduların toplandığı yerler dağlardır.
 
-Savaş daha sonra anlatılacaktır. Kısa bir şekilde {{% bible val="yedinci kasede" link="rev:16,17-21" lang="TR" %}}, ama ayrıntılı olarak (fahişenin kaderi ve gelinin düğünü anlatıldıktan sonra), İsa {{% bible val="beyaz atlı" link="rev:19,11-21" lang="TR" %}} olarak geldiğinde. 
+Savaş daha sonra anlatılacaktır. Kısa bir şekilde {{% bible val="yedinci kasede" link="rev:16,17-21" lang="tr" %}}, ama ayrıntılı olarak (fahişenin kaderi ve gelinin düğünü anlatıldıktan sonra), İsa {{% bible val="beyaz atlı" link="rev:19,11-21" lang="tr" %}} olarak geldiğinde. 
 
-Ayrıca çok ironik bir şekilde "ordusunu" da toplar. Bu ordu, öldürülen ordudan ziyafet çekecek olan {{% bible val="akbabalardır" link="rev:19,17-18" lang="TR" %}}. 
+Ayrıca çok ironik bir şekilde "ordusunu" da toplar. Bu ordu, öldürülen ordudan ziyafet çekecek olan {{% bible val="akbabalardır" link="rev:19,17-18" lang="tr" %}}. 

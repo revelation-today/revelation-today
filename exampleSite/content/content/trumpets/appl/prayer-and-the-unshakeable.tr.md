@@ -27,7 +27,7 @@ Trompetler birçok insana dünya çapında felaketler ve hatta askeri eylemlerle
 ## Bizim metnimiz
 
 <a name="5dfc"></a>
-Hızla ilerliyoruz ve {{% bible val="8" link="rev:8" lang="TR" %}}. ve {{% bible val="9" link="rev:9" lang="TR" %}}. bölümlere ulaştık.
+Hızla ilerliyoruz ve {{% bible val="8" link="rev:8" lang="tr" %}}. ve {{% bible val="9" link="rev:9" lang="tr" %}}. bölümlere ulaştık.
 
 ## Ne için dua etmeli
 

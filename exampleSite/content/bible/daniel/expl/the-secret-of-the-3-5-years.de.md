@@ -24,11 +24,11 @@ In den Kapiteln 11 bis 13 des Buches der Offenbarung gibt es vier verschiedene S
 
 | Zeitspanne | Referenz |
 |------------|----------|
-| 42 Monate | {{% bible val="Außenbereich des Tempels wird den Heiden überlassen" link="rev:11,2" lang="SLT" %}} |
-| 1260 Tage | {{% bible val="Zeugen werden prophezeien" link="rev:11,3" lang="SLT" %}} |
-| 1260 Tage | {{% bible val="Frau wird in der Wüste bewahrt" link="rev:12,6" lang="SLT" %}} |
-| 3,5 Zeiten | {{% bible val="Frau wird in der Wüste bewahrt" link="rev:12,14" lang="SLT" %}} |
-| 42 Monate | {{% bible val="Das erste Tier lästert Gott" link="rev:13,5" lang="SLT" %}} |
+| 42 Monate | {{% bible val="Außenbereich des Tempels wird den Heiden überlassen" link="rev:11,2" lang="de" %}} |
+| 1260 Tage | {{% bible val="Zeugen werden prophezeien" link="rev:11,3" lang="de" %}} |
+| 1260 Tage | {{% bible val="Frau wird in der Wüste bewahrt" link="rev:12,6" lang="de" %}} |
+| 3,5 Zeiten | {{% bible val="Frau wird in der Wüste bewahrt" link="rev:12,14" lang="de" %}} |
+| 42 Monate | {{% bible val="Das erste Tier lästert Gott" link="rev:13,5" lang="de" %}} |
 
 3.5 Zeiten werden als eine Zeit, als zwei Zeiten und als eine halbe Zeit angegeben. Wenn wir annehmen, dass ein Monat 30 Tage hat, dann haben wir1260 Tage = 42 Monate = 3,5 Jahre =? 3,5 Zeiten
 
@@ -43,18 +43,18 @@ Werfen wir zunächst einen Blick auf den alttestamentlichen Hintergrund.
 ## Elia und die Dürre and the drought (1. Kön. 16/29–18/35)
 
 <a name="2b28"></a>
-König Ahab von Israel heiratet Isebel von Sidon (im Norden Israels). Sie führt Fruchtbarkeitsgötter Baal und Aschera in Israel ein (Garant für viele Kinder, gute Ernten, starke Armee mit Pferden). Und der Schlüssel dazu ist: {{% bible val="Genug Regen" link="1ki:17,8" lang="SLT" %}}.
+König Ahab von Israel heiratet Isebel von Sidon (im Norden Israels). Sie führt Fruchtbarkeitsgötter Baal und Aschera in Israel ein (Garant für viele Kinder, gute Ernten, starke Armee mit Pferden). Und der Schlüssel dazu ist: {{% bible val="Genug Regen" link="1ki:17,8" lang="de" %}}.
 
-Also {{% bible val="sendet Gott Elia, um eine Dürre auszurufen" link="1ki:17,1" lang="SLT" %}}, die {{% bible val="3,5 Jahre" link="luk:4,25" lang="SLT" %}} dauert. Er selbst bleibt nicht verschont, aber wird von Raben an einem Bach versorgt. Später, als der Bach versiegt, geht er {{% bible val="zu einer Witwe in Sidon, deren sterbenden Sohn er rettet, und die Frau glaubt an Gott" link="1ki:17,6-24" lang="SLT" %}}.
+Also {{% bible val="sendet Gott Elia, um eine Dürre auszurufen" link="1ki:17,1" lang="de" %}}, die {{% bible val="3,5 Jahre" link="luk:4,25" lang="de" %}} dauert. Er selbst bleibt nicht verschont, aber wird von Raben an einem Bach versorgt. Später, als der Bach versiegt, geht er {{% bible val="zu einer Witwe in Sidon, deren sterbenden Sohn er rettet, und die Frau glaubt an Gott" link="1ki:17,6-24" lang="de" %}}.
 
-Nachdem er in Isebels Heimatstadt gewirkt hat, kommt es {{% bible val="auf dem Karmel zum großen Showdown" link="1ki:18,16-46" lang="SLT" %}}. Der {{% bible val="wahre Gott ist der, der Feuer vom Himmel fallen lassen kann" link="1ki:18,24" lang="SLT" %}}, was auch{{% bible val=" das zweite Tier in der Offenbarung kann" link="rev:13,13" lang="SLT" %}}!
+Nachdem er in Isebels Heimatstadt gewirkt hat, kommt es {{% bible val="auf dem Karmel zum großen Showdown" link="1ki:18,16-46" lang="de" %}}. Der {{% bible val="wahre Gott ist der, der Feuer vom Himmel fallen lassen kann" link="1ki:18,24" lang="de" %}}, was auch{{% bible val=" das zweite Tier in der Offenbarung kann" link="rev:13,13" lang="de" %}}!
 
 Die große Frage dahinter ist: Wer ist der wahre Gott?
 
 ## Die Jahrwoche in Daniel
 
 <a name="8ed0"></a>
-Bei Daniel enden die {{% int_link val="70 Jahrwochen in einer Woche, die aus zwei Teilen besteht, von denen jeder dreieinhalb Jahre dauert" link="/bible/daniel/expl/the-70-year-weeks" %}}. Der erste Teil beschreibt die Zeit Jesu auf der Erde, der zweite Teil vielleicht die Zeit der Gemeinde. Auch{{% bible val=" der Bund Jesu wird in dieser Woche beschrieben" link="dan:9,27" lang="SLT" %}}.
+Bei Daniel enden die {{% int_link val="70 Jahrwochen in einer Woche, die aus zwei Teilen besteht, von denen jeder dreieinhalb Jahre dauert" link="/bible/daniel/expl/the-70-year-weeks" %}}. Der erste Teil beschreibt die Zeit Jesu auf der Erde, der zweite Teil vielleicht die Zeit der Gemeinde. Auch{{% bible val=" der Bund Jesu wird in dieser Woche beschrieben" link="dan:9,27" lang="de" %}}.
 
 Diese 3,5 Jahre sind das, was Gott im Hintergrund aufbaut und was die Reiche dieser Welt übertrumpft.
 
@@ -65,11 +65,11 @@ Gehen wir die Kapitel durch und beginnen wir mit Kapitel 13 : {{% int_link val="
 
 Wann endet das? Nie, wenn es nach Satan geht, also bis Jesus wiederkommt.
 
-In derselben Zeit wird die {{% bible val="Frau vor den Angriffes Satans bewahrt" link="rev:12,6" lang="SLT" %}} und {{% bible val="in der Wüste versorgt" link="rev:12,14" lang="SLT" %}}. Wann beginnt das? Unmittelbar nach Jesu Tod am Kreuz. Wann endet es? Solange Satan wirkt, also bis Jesus wiederkommt.
+In derselben Zeit wird die {{% bible val="Frau vor den Angriffes Satans bewahrt" link="rev:12,6" lang="de" %}} und {{% bible val="in der Wüste versorgt" link="rev:12,14" lang="de" %}}. Wann beginnt das? Unmittelbar nach Jesu Tod am Kreuz. Wann endet es? Solange Satan wirkt, also bis Jesus wiederkommt.
 
-Dann haben wir den {{% bible val="Tempel" link="rev:11,1-2" lang="SLT" %}}. Er dient nicht dem Opferkult, sondern der Anbetung. Wann beginnt das? Mit dem Tod Jesu. Wann endet es? Es gibt keinen Grund anzunehmen, dass er vor der Wiederkunft Jesu endet.
+Dann haben wir den {{% bible val="Tempel" link="rev:11,1-2" lang="de" %}}. Er dient nicht dem Opferkult, sondern der Anbetung. Wann beginnt das? Mit dem Tod Jesu. Wann endet es? Es gibt keinen Grund anzunehmen, dass er vor der Wiederkunft Jesu endet.
 
-Dann bleiben noch die {{% bible val="1260 Tage der beiden Zeugen" link="rev:11,3" lang="SLT" %}}. Das ist die ganze Zeit zwischen dem ersten und dem zweiten Kommen Jesu. Es handelt sich also {{% int_link val="nicht um zwei Personen, sondern um die Gemeinde" link="/content/witnesses/expl/the-two-witnesses" %}}.
+Dann bleiben noch die {{% bible val="1260 Tage der beiden Zeugen" link="rev:11,3" lang="de" %}}. Das ist die ganze Zeit zwischen dem ersten und dem zweiten Kommen Jesu. Es handelt sich also {{% int_link val="nicht um zwei Personen, sondern um die Gemeinde" link="/content/witnesses/expl/the-two-witnesses" %}}.
 
 Warum sind es dann verschiedene Zeiteinheiten (Tage, Monate, …)? Die Tage werden für die Taten der zwei Zeugen und die Versorgung Israels verwendet, die Monate für die Herrschaft Satans und die Zerstörung des äußeren Tempels und die 3,5 Jahre/Zeiten für das verborgene Wirken Gottes. Vielleicht ist es so, dass die Länge der 1260 Tage der Gemeinde der kürzeren Zahl von 42 Monaten Satans gegenübergestellt wird. Aber das ist nur eine Vermutung, der ich nicht sicher bin.
 

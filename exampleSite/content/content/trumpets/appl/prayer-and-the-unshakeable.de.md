@@ -27,7 +27,7 @@ Die Posaunen haben viele dazu inspiriert, Endzeitszenarien mit weltweiten Katast
 ## Unser Text
 
 <a name="738f"></a>
-Es geht weiter in {{% bible val="Kapitel 8" link="rev:8" lang="SLT" %}} und {{% bible val="9" link="rev:9" lang="SLT" %}}.
+Es geht weiter in {{% bible val="Kapitel 8" link="rev:8" lang="de" %}} und {{% bible val="9" link="rev:9" lang="de" %}}.
 
 ## Wofür wir beten sollen
 

@@ -8,7 +8,7 @@ next: /content/bowls/quick
 docType: quick
 ---
 
-{{% bible val="Chapter 14" link="rev:14" lang="NIV" %}}).
+{{% bible val="Chapter 14" link="rev:14" lang="en" %}}).
 
 After the impressive presentation of the dragon and the two beasts one thing is clear. The victors are the saints. And their main strenght is ther loyalty to God (being virgins). The standing at the sea of glass as a reminder that God is souvereign over all evil and sing the victory song.
 

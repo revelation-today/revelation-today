@@ -9,7 +9,7 @@ next: /content/paradise/quick
 docType: quick
 ---
 
-{{% bible val="Bölüm 20" link="rev:20" lang="TR" %}}
+{{% bible val="Bölüm 20" link="rev:20" lang="tr" %}}
 
 
 ## Genel Bakış

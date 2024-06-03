@@ -9,7 +9,7 @@ next: /content/trumpets/quick
 docType: quick
 ---
 
-{{% bible val="Kapitel 7" link="rev:7" lang="SLT" %}}
+{{% bible val="Kapitel 7" link="rev:7" lang="de" %}}
 
 Nach den dramatischen Ereignissen des letzten Kapitels gibt es einige Dinge, die geklärt werden müssen:
 - Wie wird die Kirche mit all diesen überwältigenden Ereignissen umgehen?
@@ -17,7 +17,7 @@ Nach den dramatischen Ereignissen des letzten Kapitels gibt es einige Dinge, die
 
 ## Der Schutz der Kirche
 
-Das Kapitel beginnt mit der {{% bible val="Beschreibung der Versiegelung" link="rev:7,1-4" lang="SLT" %}}. Ein Engel wird aufgefordert, zu warten, bis die Heiligen versiegelt sind. Diese Aktivitäten sind die {{% bible val="Posaunengerichte" link="rev:9" lang="SLT" %}}. Besonders die {{% bible val="fünfte Posaune" link="rev:9" lang="SLT" %}} ist wichtig, da hier alle Menschen {{% bible val="ausgeschlossen sind, die versiegelt sind" link="rev:9,1-6" lang="SLT" %}}.
+Das Kapitel beginnt mit der {{% bible val="Beschreibung der Versiegelung" link="rev:7,1-4" lang="de" %}}. Ein Engel wird aufgefordert, zu warten, bis die Heiligen versiegelt sind. Diese Aktivitäten sind die {{% bible val="Posaunengerichte" link="rev:9" lang="de" %}}. Besonders die {{% bible val="fünfte Posaune" link="rev:9" lang="de" %}} ist wichtig, da hier alle Menschen {{% bible val="ausgeschlossen sind, die versiegelt sind" link="rev:9,1-6" lang="de" %}}.
 
 Dies sind die Plagen, bei denen die Menschen alle Hoffnung verlieren und sterben wollen, aber nicht können. Wir, die Heiligen, werden davon verschont, was bedeutet, dass wir mit Schwierigkeiten konfrontiert werden, aber wir bekommen die Kraft, dies zu ertragen und ein Zeugnis für andere zu sein.
 
@@ -25,7 +25,7 @@ Dies sind die Plagen, bei denen die Menschen alle Hoffnung verlieren und sterben
 
 Zu diesem Zeitpunkt ist nicht so klar, was die Kirche tun soll, aber die Kirche wird auf eine sehr interessante Weise beschrieben.
 
-Zum einen wird sie als ein {{% bible val="Heer" link="rev:7,5-8" lang="SLT" %}} beschrieben (die Zählung erinnert an die Zählung des Heeres beim Exodus). Und das Heer besteht aus 12.000 aus jedem Stamm Israels, angeführt von dem Stamm Juda, aus dem Jesus stammt. Aber das ist nur das, was Johannes hört. 
+Zum einen wird sie als ein {{% bible val="Heer" link="rev:7,5-8" lang="de" %}} beschrieben (die Zählung erinnert an die Zählung des Heeres beim Exodus). Und das Heer besteht aus 12.000 aus jedem Stamm Israels, angeführt von dem Stamm Juda, aus dem Jesus stammt. Aber das ist nur das, was Johannes hört. 
 
 Aber die Realität, die er sieht, ist ganz anders. Es ist eine [ungezählte Zahl von Anbetern, die aus der großen Trübsal kommen] (https://www.bibleserver.com/SLT/Offenbarung7%3A9-17). 
 

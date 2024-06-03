@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-{{% bible val="Bölüm 1" link="rev:1" lang="TR" %}}.
+{{% bible val="Bölüm 1" link="rev:1" lang="tr" %}}.
 
 Zaman geldi. Daniel'in kehaneti yerine geldi ve kilise dünyayı yönetiyor! Ne harika bir haber. Ancak kilisenin şimdi harekete geçmesi gerekiyor.
 

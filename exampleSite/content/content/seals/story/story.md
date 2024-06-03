@@ -7,7 +7,7 @@ next: /content/trumpets/story/story
 docType: story
 ---
 
-{{% bible val="Chapter 6–7" link="rev:6" lang="NIV" %}}
+{{% bible val="Chapter 6–7" link="rev:6" lang="en" %}}
 
 <a name="c33e"></a>
 Jesus is not the only one intending to rule this world and Jesus breaks the seals to reveal this. Satan claims the same and shows up in shiny armor, but Jesus shows that behind all this promises lies violence towards people that go along, live threatening injustice as consequence ending up in a total disaster.

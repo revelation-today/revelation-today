@@ -19,7 +19,7 @@ Das Buch der Offenbarung endet mit einem neuen Himmel und einer neuen Erde. Doch
 ## Unser Text
 
 <a name="49a1"></a>
-Wir haben es geschafft und sind in {{% bible val="Kapitel 21" link="rev:21" lang="SLT" %}} und {{% bible val="22" link="rev:22" lang="SLT" %}}.
+Wir haben es geschafft und sind in {{% bible val="Kapitel 21" link="rev:21" lang="de" %}} und {{% bible val="22" link="rev:22" lang="de" %}}.
 
 ## Die Schlüsselaussagen über den Himmel
 

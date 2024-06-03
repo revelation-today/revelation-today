@@ -7,7 +7,7 @@ next: /content/trumpets/story/story
 docType: story
 ---
 
-{{% bible val="Bölüm 6–7" link="rev:6" lang="TR" %}}
+{{% bible val="Bölüm 6–7" link="rev:6" lang="tr" %}}
 
 <a name="c33e"></a>
 Bu dünyayı yönetmeye niyetli olan yalnızca İsa değildir ve İsa bunu ortaya çıkarmak için mühürleri kırar. Şeytan da aynı şeyi iddia eder ve parlak bir zırhla ortaya çıkar, ancak İsa tüm bu vaatlerin ardında insanlara karşı şiddetin yattığını, adaletsizlikle tehdit ederek yaşadığını ve bunun sonucunda tam bir felaketle sonuçlandığını gösterir.

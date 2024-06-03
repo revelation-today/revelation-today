@@ -32,20 +32,29 @@ You need an advanced edit if you want to add pictures, pages or want to work on 
     - [go](https://go.dev/)
     - if you work on windows install [powershell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4)
 - Open working directory "<my_git>" 
-- Open a command line like "cmd" and check out the repo using "git clone https://github.com/revelation-today/revelation-today.git"
+- Open a command line like "cmd" and check out the repo using `git clone https://github.com/revelation-today/revelation-today.git`
 - change to directory "revelation-today"
-- Open your powershell and run `npm run dev`
+- Öffne deine **Powershell** (die installierte, nicht die vorinstallierte Windows-Version) und führe `npm run dev` aus.
 - You should see now your [local webserver](http://localhost:1313/)
 
 Congratulation! Your local server is runnning, now you can make changes
 
+- Make sure you have the latest working copy by using
+    - delete old working copy
+    - `git clone https://github.com/revelation-today/revelation-today.git`
+    
+or on your existing working copy
+    - `git checkout main`
+    - `git pull`
+    
+    
 - Open your browser and go into the folder "<my-git>/revelation-today"
 - You will find all relevant content there to edit
     - exampleSite/content for the complete content of the webpage
     - exampleSite/static/images for all referenced pictures
     - exampleSite/i18n for translation files
 - Make your changes and see the result on your local webserver
-- When you are happy with all the changes, commit it on the **powershell** (the installed one not the pre installed windows one)
+- When you are happy with all the changes, commit it on the command line
     - `git checkout -b <your branch name>`
     - `git add .`
     - `git commit -m <your change message>`
@@ -65,6 +74,8 @@ Summary:
 - header: `## <header>`
 - unordered list: `- <item>`
 - links: `[<link text>](<link>)`
+- Link zur internen Seite: `{{% int_link val="<text>" link="<link>" %}}`
+- Link zu einem Bibelvers: `{{% bible val="<text>" link="<chap>,<verse>-<verse>" lang="<lang>" %}}`
 - pictures: `![<picture description>](<path to picture>)` like `![](/images/example.jpg)`
 - table: (keep spaces with \|) 
 ```

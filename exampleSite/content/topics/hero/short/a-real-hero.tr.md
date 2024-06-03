@@ -37,7 +37,7 @@ Buradaki iş güveni öğrenmek ve artırmak, vermeyi ve sevmeyi öğrenmektir.
 <a name="6e10"></a>
 Kahraman olmak, zayıf olmak ve herkesin size hareket etmesine izin verip gülümsemeye ve diğer yanağınızı göstermeye devam etmek anlamına gelmez.
 
-Bir kahramanın gücü sevmektir. Bu romantik duygusal olmak anlamına gelmez ama {{% bible val="başkalarına nasıl davranılacağı konusunda çok pratiktir" link="1co:13,4-8" lang="TR" %}}. Ve bu bir karardır çünkü incinebileceğiniz ve iyiliğinizin suistimal edilebileceği bir risktir.
+Bir kahramanın gücü sevmektir. Bu romantik duygusal olmak anlamına gelmez ama {{% bible val="başkalarına nasıl davranılacağı konusunda çok pratiktir" link="1co:13,4-8" lang="tr" %}}. Ve bu bir karardır çünkü incinebileceğiniz ve iyiliğinizin suistimal edilebileceği bir risktir.
 
 Bu nedenle sevgi sınırlar koyabilmeyi gerektirir çünkü sevgi en iyisini umar ama en kötüsüyle de başa çıkabilir.
 

@@ -7,7 +7,7 @@ next: /welcome/done
 docType: story
 ---
 
-{{% bible val="Bölüm 20–22" link="rev:20" lang="TR" %}}
+{{% bible val="Bölüm 20–22" link="rev:20" lang="tr" %}}
 
 <a name="a287"></a>
 Bitti. Nihayet! Belki fark etmediniz ama kilise her zaman iktidardaydı ama farklı bir güçle insanlığın kaderine yön verdi. Ama önce kimin Tanrı’yla, kimin Tanrı’sız sonsuzluğa katılacağı nihai yargılama gelir.

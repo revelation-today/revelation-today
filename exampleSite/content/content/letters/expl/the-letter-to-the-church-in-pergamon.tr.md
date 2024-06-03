@@ -19,7 +19,7 @@ sources:
 
 Bu kilise çöküşün eşiğinde ve tüm bunlar Balam yüzünden mi? Aslında sorun o değil.
 
-{{% bible val="Pergamon’daki kilise" link="rev:2,12-17" lang="TR" %}}
+{{% bible val="Pergamon’daki kilise" link="rev:2,12-17" lang="tr" %}}
 
 ## Tarihsel arka plan
 
@@ -33,11 +33,11 @@ Zeus, Athena, Dionysis ve Asklepios’u onurlandıran pek çok başka tapınak d
 ## İsa’nın görüşü
 
 <a name="fa05"></a>
-İsa bu kilisenin zor bir yaşamı olduğunu bilir ve onları {{% bible val="ayırmak için çok keskin bir kılıçla" link="rev:2,12" lang="TR" %}} yaklaşır.
+İsa bu kilisenin zor bir yaşamı olduğunu bilir ve onları {{% bible val="ayırmak için çok keskin bir kılıçla" link="rev:2,12" lang="tr" %}} yaklaşır.
 
-İsa bu yeri şöyle adlandırır: “{{% bible val="Şeytan’ın yaşadığı ve tahtının bulunduğu yer" link="rev:2,13" lang="TR" %}}”. Muhtemelen bununla tüm tapınakları kastetmektedir. Ve kilise iyi iş çıkardı. Katlandılar ve onun adından vazgeçmediler — bu da orada yaşamanın ne kadar zor olduğunu gösterir — hatta şehitlik noktasına kadar. Durumları İzmir’le karşılaştırılabilir, hatta daha da kötüdür.
+İsa bu yeri şöyle adlandırır: “{{% bible val="Şeytan’ın yaşadığı ve tahtının bulunduğu yer" link="rev:2,13" lang="tr" %}}”. Muhtemelen bununla tüm tapınakları kastetmektedir. Ve kilise iyi iş çıkardı. Katlandılar ve onun adından vazgeçmediler — bu da orada yaşamanın ne kadar zor olduğunu gösterir — hatta şehitlik noktasına kadar. Durumları İzmir’le karşılaştırılabilir, hatta daha da kötüdür.
 
-Ancak onları kıran bir şey vardır: {{% bible val="Balam ve Nikolaitler" link="rev:2,14-15" lang="TR" %}} mi yoksa başka bir sorun mu?
+Ancak onları kıran bir şey vardır: {{% bible val="Balam ve Nikolaitler" link="rev:2,14-15" lang="tr" %}} mi yoksa başka bir sorun mu?
 
 ## Sorun
 
@@ -55,9 +55,9 @@ Her öğreti aynı zamanda yapılanları da etkilediği için, davranışları v
 
 İki anlamı olabilecek yeni bir isimle beyaz bir taş alacaklar:
 
-- {{% bible val="Mahkemede oy vermek için kullanılan" link="act:26,10" lang="TR" %}} beyaz taş, suçlu olmayanlara (örneğin putlara adanmış yemeklere katılma suçlamasından) atıfta bulunur ve {{% bible val="Kuzu’nun düğün yemeğine katılmaların" link="rev:19,9" lang="TR" %}}ı sağlardı
+- {{% bible val="Mahkemede oy vermek için kullanılan" link="act:26,10" lang="tr" %}} beyaz taş, suçlu olmayanlara (örneğin putlara adanmış yemeklere katılma suçlamasından) atıfta bulunur ve {{% bible val="Kuzu’nun düğün yemeğine katılmaların" link="rev:19,9" lang="tr" %}}ı sağlardı
 - giriş izni olarak kullanılır (belki de Kuzu’nun düğün yemeğine)
 
-Yeni bir isim normalde {{% bible val="yeni bir kimlikle" link="gen:17,5" lang="TR" %}} ilişkilidir ve yeni ismi bilmek bu kişiler arasında yakın bir ilişkiye işaret eder.
+Yeni bir isim normalde {{% bible val="yeni bir kimlikle" link="gen:17,5" lang="tr" %}} ilişkilidir ve yeni ismi bilmek bu kişiler arasında yakın bir ilişkiye işaret eder.
 
-Kilise isterse Tanrı yeni bir başlangıç sunar. {{% bible val="Ama istemezlerse, İsa onlara karşı savaşacaktır." link="rev:2,16" lang="TR" %}}
+Kilise isterse Tanrı yeni bir başlangıç sunar. {{% bible val="Ama istemezlerse, İsa onlara karşı savaşacaktır." link="rev:2,16" lang="tr" %}}

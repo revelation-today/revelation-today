@@ -17,7 +17,7 @@ What are the weapons that the Church uses in the battle against the unbelieving 
 ## Our text
 
 <a name="9cd8"></a>
-We are moving quickly forward and reached {{% bible val="chapter 14" link="rev:14" lang="NIV" %}}.
+We are moving quickly forward and reached {{% bible val="chapter 14" link="rev:14" lang="en" %}}.
 
 ## God’s army
 

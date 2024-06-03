@@ -8,7 +8,7 @@ next: /content/1000y/quick
 docType: quick
 ---
 
-{{% bible val="Chapter 17" link="rev:17" lang="NIV" %}}, {{% bible val="18" link="rev:18" lang="NIV" %}} and {{% bible val="19" link="rev:19" lang="NIV" %}}.
+{{% bible val="Chapter 17" link="rev:17" lang="en" %}}, {{% bible val="18" link="rev:18" lang="en" %}} and {{% bible val="19" link="rev:19" lang="en" %}}.
 
 ## The mystery of the harlot?
 
@@ -20,7 +20,7 @@ The beast itself is described with control over the kings of the earth.
 
 ![](/images/Hure+Tier_en.jpg)
 
-This seems an unstoppable force against the saints. But here comes the ironie: The beast ({{% bible val="the first beast from chapter 13 which was portrayed there as invincible" link="rev:13,3-4" lang="NIV" %}}) is far from invincible but mocked as {{% bible val="unreliable" link="rev:17,8-11" lang="NIV" %}} in comparison to {{% bible val="God" link="rev:1,8" lang="NIV" %}}.
+This seems an unstoppable force against the saints. But here comes the ironie: The beast ({{% bible val="the first beast from chapter 13 which was portrayed there as invincible" link="rev:13,3-4" lang="en" %}}) is far from invincible but mocked as {{% bible val="unreliable" link="rev:17,8-11" lang="en" %}} in comparison to {{% bible val="God" link="rev:1,8" lang="en" %}}.
 
 Furthermore the beast and the harlot will not succeed to overcome the saints but will be destroyed by the kings who gave all their power to the beast. How can this happen? Because God made it so. We will see this later, why.
 
@@ -30,7 +30,7 @@ The harlot influenced the rulers of this world to bring prosperity (so be carefu
 
 ## The impact and judgment of the harlot
 
-The harlot, even though she looks like the church from the outside, is a fierce enemy of the church and its witnesses and causes havoc. On closer inspection, the harlot is the cause of the {{% bible val="third seal" link="rev:6,5-6" lang="NIV" %}}: Hunger, based on economic injustice, but ensuring the availability of luxury goods and providing for the rich despite the suffering of the masses. People are considered materials like other resources.
+The harlot, even though she looks like the church from the outside, is a fierce enemy of the church and its witnesses and causes havoc. On closer inspection, the harlot is the cause of the {{% bible val="third seal" link="rev:6,5-6" lang="en" %}}: Hunger, based on economic injustice, but ensuring the availability of luxury goods and providing for the rich despite the suffering of the masses. People are considered materials like other resources.
 
 To be the perfect church (church that focuses on blessings and prosperity and not on uncomfortable witness and martyrdom) is also the destiny of the harlot: While the beast tries to attack the church, Jesus intervenes and instead of the church, the harlot is the target. The kings, as representatives of the beast, bring judgment on the harlot.
 
@@ -38,7 +38,7 @@ The harlot is proud and considers herself untouchable, so her judgment will come
 
 ![](/images/Hure_en.jpg)
 
-Why such long emphasis on the description of the harlot (more than two chapters)? Because we are called out of the comfort into justice. If we are {{% bible val="part of the harlot" link="rev:18,4" lang="NIV" %}}, it will lead to idolatry (in the Old Testament idolatry is linked to trade), and this will change our behaviour that we dont love but exploit people.
+Why such long emphasis on the description of the harlot (more than two chapters)? Because we are called out of the comfort into justice. If we are {{% bible val="part of the harlot" link="rev:18,4" lang="en" %}}, it will lead to idolatry (in the Old Testament idolatry is linked to trade), and this will change our behaviour that we dont love but exploit people.
 
 ## And now?
 

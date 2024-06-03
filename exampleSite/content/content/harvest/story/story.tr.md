@@ -7,7 +7,7 @@ next: /content/harlot/story/story
 docType: story
 ---
 
-{{% bible val="Bölüm 14–16" link="rev:14" lang="TR" %}}
+{{% bible val="Bölüm 14–16" link="rev:14" lang="tr" %}}
 
 <a name="37a3"></a>
 İsa’nın çarmıhtaki zaferi ve kilisenin tanıklığı her şeyi yaptı ve düşman etrafa dağıldı. İmanlılar zafer şarkıları söylerler — onların tek becerisi Tanrı’ya sadakatti.

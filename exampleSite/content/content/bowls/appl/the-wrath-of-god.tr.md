@@ -21,12 +21,12 @@ Bu iş sonunda ciddileşiyor.
 ## Bizim metnimiz
 
 <a name="8d4c"></a>
-Hızla ilerliyoruz ve {{% bible val="15." link="rev:15" lang="TR" %}} ve {{% bible val="16. bölümlere" link="rev:16" lang="TR" %}} ulaştık.
+Hızla ilerliyoruz ve {{% bible val="15." link="rev:15" lang="tr" %}} ve {{% bible val="16. bölümlere" link="rev:16" lang="tr" %}} ulaştık.
 
 ## Büyük soru
 
 <a name="5a01"></a>
-Asıl soru şudur: Tanrı ne kadar bekleyecektir? Hasat noktasına ne zaman ulaşılacak? {{% bible val="Beşinci mühre" link="rev:6,9-11" lang="TR" %}} baktığımızda Tanrı bütün uluslar toplanana kadar bekler. Bir yandan bunun hızlı olmasını ve İsa’nın yakında geri dönüp bu dünyadaki adaletsizliği ve acıyı bitirmesini istiyoruz. Öte yandan hâlâ müjdeyi duymamış olan insanlar olabilir.
+Asıl soru şudur: Tanrı ne kadar bekleyecektir? Hasat noktasına ne zaman ulaşılacak? {{% bible val="Beşinci mühre" link="rev:6,9-11" lang="tr" %}} baktığımızda Tanrı bütün uluslar toplanana kadar bekler. Bir yandan bunun hızlı olmasını ve İsa’nın yakında geri dönüp bu dünyadaki adaletsizliği ve acıyı bitirmesini istiyoruz. Öte yandan hâlâ müjdeyi duymamış olan insanlar olabilir.
 
 Bu nedenle kilisenin Tanrı’ya tahammül içinde tapınmalarına dayalı olarak tanıklıklarını vermeleri gerekir ve Tanrı bu arada mümkün olduğunca sıkıştırır, ta ki hiçbir sıkıştırma mümkün olmayana kadar.
 

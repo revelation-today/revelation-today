@@ -10,7 +10,7 @@ docType: expl
 
 Is it fair for God to harden Pharaoh’s heart so that he has no choice but to be mean and be punished for it?
 
-God says {{% bible val="He will harden Pharaoh’s heart" link="exo:4,21" lang="NIV" %}} so that he will not let the people go.
+God says {{% bible val="He will harden Pharaoh’s heart" link="exo:4,21" lang="en" %}} so that he will not let the people go.
 
 There are three different words in Hebrew that reflect the hardening of the heart.
 
@@ -22,5 +22,5 @@ If you look at the link, you can see that there is a wide range of translations 
 
 Take your time to go through the examples, but the idea is this: God hardened Pharaoh’s heart so that he would not give up when he saw God working, but would have the strength to resist God, which he used very often.
 
-Pharaoh’s active rule is revealed during the first devastating plague of the hail, where {{% bible val="he admitted that he had sinned" link="exo:9,27" lang="NIV" %}}, and {{% bible val="when the hail stopped he sinned again and hardened his heart" link="exo:9,34" lang="NIV" %}}.
+Pharaoh’s active rule is revealed during the first devastating plague of the hail, where {{% bible val="he admitted that he had sinned" link="exo:9,27" lang="en" %}}, and {{% bible val="when the hail stopped he sinned again and hardened his heart" link="exo:9,34" lang="en" %}}.
 

@@ -25,7 +25,7 @@ Yedi mühür, kitabın gerçekten kafa karıştırıcı ve hatta rahatsız edici
 ## Bizim metnimiz
 
 <a name="de71"></a>
-Şu anda {{% bible val="5" link="rev:5" lang="TR" %}}. ve {{% bible val="6" link="rev:6" lang="TR" %}}. bölümlerdeyiz.
+Şu anda {{% bible val="5" link="rev:5" lang="tr" %}}. ve {{% bible val="6" link="rev:6" lang="tr" %}}. bölümlerdeyiz.
 
 ## Kitap ve kuzu
 

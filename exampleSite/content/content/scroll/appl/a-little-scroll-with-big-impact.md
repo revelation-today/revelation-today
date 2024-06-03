@@ -17,7 +17,7 @@ There is a small scroll that John has to eat and it is never mentioned again. Wh
 ## Our text
 
 <a name="b17d"></a>
-We are moving quickly forward and reached {{% bible val="chapter 10" link="rev:10" lang="NIV" %}}.
+We are moving quickly forward and reached {{% bible val="chapter 10" link="rev:10" lang="en" %}}.
 
 ## The scroll
 

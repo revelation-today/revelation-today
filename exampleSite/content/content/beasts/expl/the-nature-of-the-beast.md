@@ -28,25 +28,25 @@ The devil is described as aggressive, which is hard to deal with as a believer, 
 <a name="4281"></a>
 The devil appears always in the form of a trinity, since God is three.
 
-The first time this is {{% bible val="after the enthronement of Christ" link="rev:5" lang="NIV" %}} (he is worthy to open the scroll) {{% bible val="as four horsemen" link="rev:6,1-8" lang="NIV" %}} (the fourth is a summary of the other three). His action is described in very briefly (8 verses) and is in contrast to the two chapters of the eternal worship of God.
+The first time this is {{% bible val="after the enthronement of Christ" link="rev:5" lang="en" %}} (he is worthy to open the scroll) {{% bible val="as four horsemen" link="rev:6,1-8" lang="en" %}} (the fourth is a summary of the other three). His action is described in very briefly (8 verses) and is in contrast to the two chapters of the eternal worship of God.
 
 The first horseman appears as the great victor, but only 7 verses later he leaves a place of total destruction: The devil cannot fulfill his promises.
 
-The second time he appears is when {{% bible val="Jesus declared victorious again" link="rev:12" lang="NIV" %}}, born of the woman. Satan is shown as the ultimate loser.
+The second time he appears is when {{% bible val="Jesus declared victorious again" link="rev:12" lang="en" %}}, born of the woman. Satan is shown as the ultimate loser.
 
-- {{% bible val="He tries to destroy the child – and fail" link="rev:12,1-6" lang="NIV" %}}s.
-- {{% bible val="He fights against Michael – and is cast out of heaven" link="rev:12,7-12" lang="NIV" %}}.
-- {{% bible val="He tries to destroy the woman – and fails" link="rev:12,13-17" lang="NIV" %}}.
-- {{% bible val="He tries to destroy the descendants of Jesus, the Church, and also fails" link="rev:13" lang="NIV" %}} as we see in {{% int_link val="the number 666" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}}.
+- {{% bible val="He tries to destroy the child – and fail" link="rev:12,1-6" lang="en" %}}s.
+- {{% bible val="He fights against Michael – and is cast out of heaven" link="rev:12,7-12" lang="en" %}}.
+- {{% bible val="He tries to destroy the woman – and fails" link="rev:12,13-17" lang="en" %}}.
+- {{% bible val="He tries to destroy the descendants of Jesus, the Church, and also fails" link="rev:13" lang="en" %}} as we see in {{% int_link val="the number 666" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}}.
 
-The devil is shown again {{% bible val="as a trinity in the sixth bowl" link="rev:16,13" lang="NIV" %}}. which is judged in chapters {{% bible val="19" link="rev:19,20" lang="NIV" %}} and {{% bible val="20" link="rev:20,10" lang="NIV" %}}. These passages frame the story of the harlot, where we also have one beast and the harlot.
+The devil is shown again {{% bible val="as a trinity in the sixth bowl" link="rev:16,13" lang="en" %}}. which is judged in chapters {{% bible val="19" link="rev:19,20" lang="en" %}} and {{% bible val="20" link="rev:20,10" lang="en" %}}. These passages frame the story of the harlot, where we also have one beast and the harlot.
 
 These three views are interrelated in describing the devil’s activity.
 
 ## The false trinity
 
 <a name="45d1"></a>
-To better understand how the devil is described, we need to look at the {{% bible val="second story of the dragon and the two beasts" link="rev:13" lang="NIV" %}}.
+To better understand how the devil is described, we need to look at the {{% bible val="second story of the dragon and the two beasts" link="rev:13" lang="en" %}}.
 
 He sets {{% int_link val="up an evil trinity" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}} to deceive the church, but {{% int_link val="to no avail" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}}.
 
@@ -66,12 +66,12 @@ There is a strong parallel between the beast in chapter 17 and the first beast i
 
 | The first beast of Revelation 13 | The beast on Revelation 17 |
 |----------------------------------|----------------------------|
-| {{% bible val="Has 7 heads and 10 horns" link="rev:13,1" lang="NIV" %}} | {{% bible val="Has 7 heads and 10 horns" link="rev:17,3" lang="NIV" %}} |
-| {{% bible val="Head as if slaughtered, grows back" link="rev:13,3" lang="NIV" %}} | {{% bible val="5 kings fallen, the seventh yet to come" link="rev:17,10" lang="NIV" %}} |
-| {{% bible val="Who can fight against the beast" link="rev:13,4" lang="NIV" %}} | {{% bible val="Beast makes war on King of Kings" link="rev:17,14" lang="NIV" %}} |
-| {{% bible val="Speech of blasphemy" link="rev:13,5-6" lang="NIV" %}} | {{% bible val="Blasphemous name" link="rev:17,3" lang="NIV" %}} |
-| {{% bible val="Fight against saints and defeat them" link="rev:13,7" lang="NIV" %}} | {{% bible val="Fights against Lamb and is overcome" link="rev:17,14" lang="NIV" %}} </br> {{% bible val="Fight against Harlot and destroys it" link="rev:17,16" lang="NIV" %}}. |
-| {{% bible val="All who are not written in the book of life worship the beast" link="rev:13,8" lang="NIV" %}} | {{% bible val="All who are not written in the book of life are overwhelmed" link="rev:17,8" lang="NIV" %}} |
+| {{% bible val="Has 7 heads and 10 horns" link="rev:13,1" lang="en" %}} | {{% bible val="Has 7 heads and 10 horns" link="rev:17,3" lang="en" %}} |
+| {{% bible val="Head as if slaughtered, grows back" link="rev:13,3" lang="en" %}} | {{% bible val="5 kings fallen, the seventh yet to come" link="rev:17,10" lang="en" %}} |
+| {{% bible val="Who can fight against the beast" link="rev:13,4" lang="en" %}} | {{% bible val="Beast makes war on King of Kings" link="rev:17,14" lang="en" %}} |
+| {{% bible val="Speech of blasphemy" link="rev:13,5-6" lang="en" %}} | {{% bible val="Blasphemous name" link="rev:17,3" lang="en" %}} |
+| {{% bible val="Fight against saints and defeat them" link="rev:13,7" lang="en" %}} | {{% bible val="Fights against Lamb and is overcome" link="rev:17,14" lang="en" %}} </br> {{% bible val="Fight against Harlot and destroys it" link="rev:17,16" lang="en" %}}. |
+| {{% bible val="All who are not written in the book of life worship the beast" link="rev:13,8" lang="en" %}} | {{% bible val="All who are not written in the book of life are overwhelmed" link="rev:17,8" lang="en" %}} |
 
 But there is also a strong connection between the Second Beast in chapter 13 and the Harlot
 
@@ -79,18 +79,18 @@ But there is also a strong connection between the Second Beast in chapter 13 and
 
 | The Second Beast of Revelation 13 | The Harlot |
 |-----------------------------------|------------|
-| {{% bible val="Comes from Earth" link="rev:13,11" lang="NIV" %}} | {{% bible val="Sits in desert" link="rev:17,3" lang="NIV" %}} |
-| {{% bible val="Has two horns like a lamb" link="rev:13,11" lang="NIV" %}} | {{% bible val="Is dressed like the bride of the lamb" link="rev:17,4" lang="NIV" %}} |
-| {{% bible val="Acts in power of the (first) beast" link="rev:13,12" lang="NIV" %}} | {{% bible val="Sits on the (first) beast" link="rev:17,3" lang="NIV" %}} |
-| {{% bible val="Can make fire fall from the sky" link="rev:13,13" lang="NIV" %}} | {{% bible val="Will be directed by fire " link="rev:17,16" lang="NIV" %}} ({{% bible val="Offb.18/9" link="rev:18,9" lang="NIV" %}}) |
-| {{% bible val="All who do not worship it will be killed" link="rev:13,15" lang="NIV" %}} | {{% bible val="Drink blood of the saints" link="rev:17,6" lang="NIV" %}} |
-| {{% bible val="Make a sign on forehead and hand" link="rev:13,16" lang="NIV" %}} | {{% bible val="Has sign on forehead: Babel" link="rev:17,5" lang="NIV" %}} |
-| {{% bible val="Cannot buy or sell without characters" link="rev:13,17" lang="NIV" %}} | {{% bible val="Cannot buy or sell without sign" link="rev:18,3" lang="NIV" %}} ({{% bible val="Offb.18/11-17" link="rev:18,11-17" lang="NIV" %}}) |
-| {{% bible val="Requires wisdom" link="rev:13,18" lang="NIV" %}} | {{% bible val="Requires wisdom" link="rev:17,9" lang="NIV" %}} |
+| {{% bible val="Comes from Earth" link="rev:13,11" lang="en" %}} | {{% bible val="Sits in desert" link="rev:17,3" lang="en" %}} |
+| {{% bible val="Has two horns like a lamb" link="rev:13,11" lang="en" %}} | {{% bible val="Is dressed like the bride of the lamb" link="rev:17,4" lang="en" %}} |
+| {{% bible val="Acts in power of the (first) beast" link="rev:13,12" lang="en" %}} | {{% bible val="Sits on the (first) beast" link="rev:17,3" lang="en" %}} |
+| {{% bible val="Can make fire fall from the sky" link="rev:13,13" lang="en" %}} | {{% bible val="Will be directed by fire " link="rev:17,16" lang="en" %}} ({{% bible val="Offb.18/9" link="rev:18,9" lang="en" %}}) |
+| {{% bible val="All who do not worship it will be killed" link="rev:13,15" lang="en" %}} | {{% bible val="Drink blood of the saints" link="rev:17,6" lang="en" %}} |
+| {{% bible val="Make a sign on forehead and hand" link="rev:13,16" lang="en" %}} | {{% bible val="Has sign on forehead: Babel" link="rev:17,5" lang="en" %}} |
+| {{% bible val="Cannot buy or sell without characters" link="rev:13,17" lang="en" %}} | {{% bible val="Cannot buy or sell without sign" link="rev:18,3" lang="en" %}} ({{% bible val="Offb.18/11-17" link="rev:18,11-17" lang="en" %}}) |
+| {{% bible val="Requires wisdom" link="rev:13,18" lang="en" %}} | {{% bible val="Requires wisdom" link="rev:17,9" lang="en" %}} |
 
 The power of the harlot is also reversed here into: while in chapter 13 she dropped fire from heaven, now she is destroyed by fire; while she makes a mark on her forehead, here she herself is branded on the forehead (like a slave).
 
-So where is the third part? Well he stays in the background as in chapter 13 and does nothing as in the description of the horsemen. But you will see him it {{% bible val="the sixth bowl" link="rev:16,13" lang="NIV" %}} and in chapter {{% bible val="20" link="rev:20,10" lang="NIV" %}}.
+So where is the third part? Well he stays in the background as in chapter 13 and does nothing as in the description of the horsemen. But you will see him it {{% bible val="the sixth bowl" link="rev:16,13" lang="en" %}} and in chapter {{% bible val="20" link="rev:20,10" lang="en" %}}.
 
 {{% int_link val="This was also the case in the historical context" link="/content/beasts/expl/the-beasts-and-the-666-in-historical-context" %}}: You see the two beasts but you do not see the devil directly.
 

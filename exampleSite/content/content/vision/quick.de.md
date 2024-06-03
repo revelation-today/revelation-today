@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-{{% bible val="Kapitel 1" link="rev:1" lang="SLT" %}}.
+{{% bible val="Kapitel 1" link="rev:1" lang="de" %}}.
 
 Die Zeit ist gekommen. Die Prophezeiung Daniels hat sich erfüllt und die Kirche regiert die Welt! Was für eine fantastische Nachricht. Aber die Kirche muss jetzt handeln.
 

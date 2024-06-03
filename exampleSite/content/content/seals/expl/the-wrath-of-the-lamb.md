@@ -21,9 +21,9 @@ The text is “[I watched as he opened the sixth seal. There was a great earthqu
 ## The Wrath of the Lamb
 
 <a name="ddd6"></a>
-The wrath of the lamb sounds like a theme that is all over the Bible, but this term actually only appears {{% bible val="ONCE" link="rev:6,16" lang="NIV" %}} in the context of the sixth seal and is not the description of the lamb but the perception that the people have of him. After all the devastation of the {{% int_link val="four horseman masquerading as Jesus" link="/content/seals/expl/the-mystery-of-the-four-horse-men" %}} the people are certainly afraid that Jesus will act the same way, but he is not. His judgment will be severe ({{% int_link val="permanent separation from God" link="/content/paradise/expl/heaven-and-hell" %}}), but not in the way of devastating warfare.
+The wrath of the lamb sounds like a theme that is all over the Bible, but this term actually only appears {{% bible val="ONCE" link="rev:6,16" lang="en" %}} in the context of the sixth seal and is not the description of the lamb but the perception that the people have of him. After all the devastation of the {{% int_link val="four horseman masquerading as Jesus" link="/content/seals/expl/the-mystery-of-the-four-horse-men" %}} the people are certainly afraid that Jesus will act the same way, but he is not. His judgment will be severe ({{% int_link val="permanent separation from God" link="/content/paradise/expl/heaven-and-hell" %}}), but not in the way of devastating warfare.
 
-They whole scene reminds of {{% bible val="Hosea" link="hos:10,6-8" lang="NIV" %}}, where Israel is disgraced and ashamed of their idolatry and trying to hide from God which goes back to {{% bible val="the fall of man trying to hide from God after his sin" link="gen:3,8" lang="NIV" %}}.
+They whole scene reminds of {{% bible val="Hosea" link="hos:10,6-8" lang="en" %}}, where Israel is disgraced and ashamed of their idolatry and trying to hide from God which goes back to {{% bible val="the fall of man trying to hide from God after his sin" link="gen:3,8" lang="en" %}}.
 
 This shows that the emphasis here is more on the people hiding because they know what they have done wrong and expecting judgment, than on the portrayal of an angry God who wants to harm the people.
 

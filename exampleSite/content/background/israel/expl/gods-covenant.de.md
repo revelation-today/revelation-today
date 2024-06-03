@@ -31,17 +31,17 @@ Wenden wir uns der zweiten Art zu. Diese Art von Bündnis wird geschlossen, wenn
 - der Schwächere hilft mit Soldaten und Steuern und
 - Der Stärkere ist verpflichtet, den Schwächeren zu schützen.
 
-Ein Beispiel ist {{% bible val="Josua und die Gibeoniter, die ihn getäuscht haben, so dass er einen Bund schloß" link="jos:9" lang="SLT" %}}. Als {{% bible val="sie angegriffen wurden, musste er sie verteidigen, obwohl es dazu keine andere Motivation hatte" link="jos:10,1-14" lang="SLT" %}}.
+Ein Beispiel ist {{% bible val="Josua und die Gibeoniter, die ihn getäuscht haben, so dass er einen Bund schloß" link="jos:9" lang="de" %}}. Als {{% bible val="sie angegriffen wurden, musste er sie verteidigen, obwohl es dazu keine andere Motivation hatte" link="jos:10,1-14" lang="de" %}}.
 
 Wenn der Schwächere den Bund brach (in der Regel, indem er keine Abgaben mehr leistete), verlor er sein Land. Es war dem Schwächeren verboten, einen solchen Bund mit einem anderen einzugehen, da man nur einen Vater haben konnte. Umgekehrt war dies möglich, da Väter mehrere Söhne haben konnten. Auch Bündnisse unter Gleichen waren möglich, da man mehrere Brüder haben konnte.
 
 Die Bibel ist auch voll mit anderen Beispielen solcher Bünde:
 
-- {{% bible val="Abraham und Abimelech" link="gen:21,22-32" lang="SLT" %}}
-- {{% bible val="Isaak und die Philistiner" link="gen:26,12-33" lang="SLT" %}}
-- {{% bible val="Jakob und Laban" link="gen:31,22-54" lang="SLT" %}}
-- {{% bible val="Gilead" link="1sa:11,1-11" lang="SLT" %}}
-- {{% bible val="Ahab" link="1ki:20,1-34" lang="SLT" %}}
+- {{% bible val="Abraham und Abimelech" link="gen:21,22-32" lang="de" %}}
+- {{% bible val="Isaak und die Philistiner" link="gen:26,12-33" lang="de" %}}
+- {{% bible val="Jakob und Laban" link="gen:31,22-54" lang="de" %}}
+- {{% bible val="Gilead" link="1sa:11,1-11" lang="de" %}}
+- {{% bible val="Ahab" link="1ki:20,1-34" lang="de" %}}
 
 “Einen Bund schließen” bedeutet wörtlich “einen Bund abschneiden”. Das hat folgenden Hintergrund: Bei der Bundesschlusszeremonie wurde ein Opfer dargebracht, um
 
@@ -51,11 +51,11 @@ Die Bibel ist auch voll mit anderen Beispielen solcher Bünde:
 ## Der Bund mit Abraham
 
 <a name="7cbd"></a>
-Die Geschichte von {{% bible val="Abraham beschreibt solch eine Szene" link="gen:15" lang="SLT" %}}. Der Bund mit Abraham wird später {{% bible val="ausführlicher beschrieben, wenn die Beschneidung hinzukommt" link="gen:17" lang="SLT" %}}.
+Die Geschichte von {{% bible val="Abraham beschreibt solch eine Szene" link="gen:15" lang="de" %}}. Der Bund mit Abraham wird später {{% bible val="ausführlicher beschrieben, wenn die Beschneidung hinzukommt" link="gen:17" lang="de" %}}.
 
-Aber hier wird die Grundstein gelegt. Gott verheißt Land und Erben. Dann kommt die Opferszene. Das Merkwürdige ist, dass{{% bible val=" nicht Abraham als der Schwächere durch die Tiere geht, sondern Gott" link="gen:15,17" lang="SLT" %}}, so dass er die Konsequenzen trägt, wenn Abraham den Bund bricht!
+Aber hier wird die Grundstein gelegt. Gott verheißt Land und Erben. Dann kommt die Opferszene. Das Merkwürdige ist, dass{{% bible val=" nicht Abraham als der Schwächere durch die Tiere geht, sondern Gott" link="gen:15,17" lang="de" %}}, so dass er die Konsequenzen trägt, wenn Abraham den Bund bricht!
 
-Auch der Bund davor mit [Noah war ein einseitiger Bund (nur Gott als der Stärkere hatte etwas versprochen]{{% bible val="Noah war ein einseitiger Bund (nur Gott als der Stärkere hatte etwas versprochen" link="gen:9,8-17" lang="SLT" %}})!).
+Auch der Bund davor mit [Noah war ein einseitiger Bund (nur Gott als der Stärkere hatte etwas versprochen]{{% bible val="Noah war ein einseitiger Bund (nur Gott als der Stärkere hatte etwas versprochen" link="gen:9,8-17" lang="de" %}})!).
 
 ## Der Bund mit Israel
 
@@ -74,14 +74,14 @@ Der Vertrag wurde in den Häusern der Götter beider Völker hinterlegt und rege
 
 Dieses Muster findet sich auch im Bund Gottes mit Israel:
 
-- Präambel: {{% bible val="Ich bin der Herr, dein Gott." link="exo:20,2" lang="SLT" %}}
-- Prolog: {{% bible val="der dich aus Ägypten, dem Land der Sklaverei, gebracht hat" link="exo:20,2" lang="SLT" %}}.
-- Verpflichtungen: erste (implizit): {{% bible val="habe nur einen Gott" link="exo:20,3-6" lang="SLT" %}} als Ziel der 10 Gebote
-- {{% bible val="Segen" link="deu:28,1-14" lang="SLT" %}} und {{% bible val="Fluch" link="deu:28,15-68" lang="SLT" %}}: {{% bible val="Konsequenz ist Exil, aber graduelle Strafen, um Chance zur Umkehr zu geben und Teil der Erziehung" link="lev:26,1-46" lang="SLT" %}} (“wenn du dann immer noch nicht gehorchst, werde ich”)
-- Zeugen: {{% bible val="Himmel und Erde" link="deu:30,19" lang="SLT" %}}
+- Präambel: {{% bible val="Ich bin der Herr, dein Gott." link="exo:20,2" lang="de" %}}
+- Prolog: {{% bible val="der dich aus Ägypten, dem Land der Sklaverei, gebracht hat" link="exo:20,2" lang="de" %}}.
+- Verpflichtungen: erste (implizit): {{% bible val="habe nur einen Gott" link="exo:20,3-6" lang="de" %}} als Ziel der 10 Gebote
+- {{% bible val="Segen" link="deu:28,1-14" lang="de" %}} und {{% bible val="Fluch" link="deu:28,15-68" lang="de" %}}: {{% bible val="Konsequenz ist Exil, aber graduelle Strafen, um Chance zur Umkehr zu geben und Teil der Erziehung" link="lev:26,1-46" lang="de" %}} (“wenn du dann immer noch nicht gehorchst, werde ich”)
+- Zeugen: {{% bible val="Himmel und Erde" link="deu:30,19" lang="de" %}}
 
-Eine Anforderung war, es {{% bible val="immer wieder zu lesen" link="deu:31,9-13" lang="SLT" %}}. Das galt {{% bible val="auch für den König" link="deu:17,18-19" lang="SLT" %}}. Es gab {{% bible val="ein gemeinsames Mahl" link="exo:24,1-12" lang="SLT" %}} und jeder Bundespartner bekam eine Kopie des Bundes (eine Kopie war mit Gott im Tempel und die andere mit dem Volk (also beide im Tempel), deswegen hatte Mose zwei Tafeln.
+Eine Anforderung war, es {{% bible val="immer wieder zu lesen" link="deu:31,9-13" lang="de" %}}. Das galt {{% bible val="auch für den König" link="deu:17,18-19" lang="de" %}}. Es gab {{% bible val="ein gemeinsames Mahl" link="exo:24,1-12" lang="de" %}} und jeder Bundespartner bekam eine Kopie des Bundes (eine Kopie war mit Gott im Tempel und die andere mit dem Volk (also beide im Tempel), deswegen hatte Mose zwei Tafeln.
 
-Außerdem nennt sich Gott selbst auch {{% bible val="der Vater Israels" link="exo:3,6" lang="SLT" %}}.
+Außerdem nennt sich Gott selbst auch {{% bible val="der Vater Israels" link="exo:3,6" lang="de" %}}.
 
 Die Bibel verwendet das Wort “heset” = “Bundestreue“, was ein Wort ist das auch mit “Liebe”, “Güte”, “Gnade” oder “Treue” übersetzt werden kann.

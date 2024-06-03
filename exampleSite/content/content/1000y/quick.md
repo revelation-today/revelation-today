@@ -9,7 +9,7 @@ next: /content/paradise/quick
 docType: quick
 ---
 
-{{% bible val="Chapter 20" link="rev:20" lang="NIV" %}}
+{{% bible val="Chapter 20" link="rev:20" lang="en" %}}
 
 ## Overview
 
@@ -31,10 +31,10 @@ Even the church acts in weakness, the church rules.
 
 ## Special questions
 
-Neden {{% bible val="başı kesilmiş" link="rev:20,4" lang="NIV" %}} ifadesine yer verilmiştir? 
+Neden {{% bible val="başı kesilmiş" link="rev:20,4" lang="en" %}} ifadesine yer verilmiştir? 
 
 The death sentence in this time means that people are basically turtured to death over a long time. The privilege of a quick death (beheading) was only given to high nobles like kings. So this expression states that in our death we are treated as kings.
 
-{{% bible val="Birinci ve ikinci ölüm/diriliş" link="rev:20,5-6" lang="NIV" %}} nedir?
+{{% bible val="Birinci ve ikinci ölüm/diriliş" link="rev:20,5-6" lang="en" %}} nedir?
 
 The first refers to our original life while the second refers to all the things when we are newborn. We start a new life (the old is gone) and we will experience the second resurrection as we have a second life.

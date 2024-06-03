@@ -20,11 +20,11 @@ Daha derin bir anlayışa sahip olabilmek için bu Büyük Sıkıntı’ya daha 
 ## Büyük Sıkıntı
 
 <a name="fd59"></a>
-Bu konunun ne kadar çok internet ya da kamu literatürünün bir parçası olduğunu gördüğünüzde, bu konunun Kutsal Kitap’ın her yerinde olduğunu düşünebilirsiniz ama aslında öyle değildir. Bu terimden {{% bible val="Vahiy’in 7. bölümünde daha fazla açıklama yapılmadan bahsedilir" link="rev:7,14" lang="TR" %}}.
+Bu konunun ne kadar çok internet ya da kamu literatürünün bir parçası olduğunu gördüğünüzde, bu konunun Kutsal Kitap’ın her yerinde olduğunu düşünebilirsiniz ama aslında öyle değildir. Bu terimden {{% bible val="Vahiy’in 7. bölümünde daha fazla açıklama yapılmadan bahsedilir" link="rev:7,14" lang="tr" %}}.
 
 Ama aslında bazı bağlamlar vardır. Eski Ahit’te Tanrılar, Tanrı’yla yapılan antlaşmayı ihlal ettiklerinde, örneğin yoksulları sömürdüklerinde ya da başka Tanrıların peşinden gittiklerinde acı çekmek zorundaydılar ve Tanrı’ya itaat ettiklerinde kutsanıyorlardı (elbette bazı istisnalar vardı).
 
-Fakat İsa geldiğinde bu durum dramatik bir şekilde değişti. Artık Hıristiyanlar sadece İsa’ya inandıkları için acı çekiyorlardı. {{% bible val="Vahiy bize bunun nedenini açıklar: İsa çarmıhta öldüğünde, Şeytan cennetteki konumunu kaybetti ve mümkün olduğunca çok yok etmeye çalıştı. Artık kaybedecek hiçbir şeyi yoktu." link="rev:12,1-12" lang="TR" %}} Vahiy kitabının yazıldığı dönemde, en büyük sıkıntılar (Roma imparatorluğunda) hala devam ediyordu.
+Fakat İsa geldiğinde bu durum dramatik bir şekilde değişti. Artık Hıristiyanlar sadece İsa’ya inandıkları için acı çekiyorlardı. {{% bible val="Vahiy bize bunun nedenini açıklar: İsa çarmıhta öldüğünde, Şeytan cennetteki konumunu kaybetti ve mümkün olduğunca çok yok etmeye çalıştı. Artık kaybedecek hiçbir şeyi yoktu." link="rev:12,1-12" lang="tr" %}} Vahiy kitabının yazıldığı dönemde, en büyük sıkıntılar (Roma imparatorluğunda) hala devam ediyordu.
 
 “Büyük Sıkıntı” ile kastedilen muhtemelen budur. Bu, günümüzde batı dünyasındaki Hıristiyanlar için bir deneyim olmayan, ancak dünyanın birçok yerinde yaşanmış ve yaşanmakta olan günlük bir gerçekliktir.
 

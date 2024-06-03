@@ -3,9 +3,9 @@
 {{- $lang := .Get "lang" -}}
 {{- $link := .Get "link" -}}
 {{- $translations := dict 
-    "NIV" "niv"
-    "SLT" "schl2000"
-    "TR" "tcl02"
+    "en" "niv"
+    "de" "schl2000"
+    "tr" "tcl02"
 -}}
 {{- $translation := index $translations $lang -}}
 {{- $book := index (split $link ":") 0 -}}

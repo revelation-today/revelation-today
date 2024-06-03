@@ -17,14 +17,14 @@ Ancak hikaye Yaratılış’ta başlar ve Vahiy kitabına kadar uzanır ve çok 
 ## Tanrı ile paydaşlık yeri olarak Aden bahçesi
 
 <a name="2fbf"></a>
-Her şey Aden bahçesiyle başlar. Tanrı erkeği ve kadını yaratır ve onlarla düzenli olarak {{% bible val="buluştuğu" link="gen:3,8-9" lang="TR" %}} bir {{% bible val="bahçe yaratarak onlarla paydaşlık kurar" link="gen:2,8-15" lang="TR" %}}. İnsanın düşüşü nedeniyle her ikisinin de bahçeyi terk etmesi gerekti. {{% bible val="Ekilecek toprak lanetlenmişti" link="gen:3,17-19" lang="TR" %}} ama {{% bible val="Kayin Habil’i öldürdüğünde bu durum daha da kötüleşti" link="gen:3,17-19" lang="TR" %}}.
+Her şey Aden bahçesiyle başlar. Tanrı erkeği ve kadını yaratır ve onlarla düzenli olarak {{% bible val="buluştuğu" link="gen:3,8-9" lang="tr" %}} bir {{% bible val="bahçe yaratarak onlarla paydaşlık kurar" link="gen:2,8-15" lang="tr" %}}. İnsanın düşüşü nedeniyle her ikisinin de bahçeyi terk etmesi gerekti. {{% bible val="Ekilecek toprak lanetlenmişti" link="gen:3,17-19" lang="tr" %}} ama {{% bible val="Kayin Habil’i öldürdüğünde bu durum daha da kötüleşti" link="gen:3,17-19" lang="tr" %}}.
 
-Bu ona çok zor geldi ve Tanrı merhamet ederek {{% bible val="onu korumak için bir işaret yaptı" link="gen:4,13-15" lang="TR" %}}. Ancak Kayin {{% bible val="kendi güvenliğini sağlamaya" link="gen:4,16-17" lang="TR" %}} ve bir şehir kurmaya çalışıyordu ve {{% bible val="onun ardılları da kültür ve ilerleme sağlayarak güvenliklerini ve rızıklarını arttırdılar" link="gen:4,16-17" lang="TR" %}}. Kayin’in soyu, {{% bible val="Tanrı’nın Kayin’i korumasıyla alay eden Lamech ile sona erer" link="gen:4,22-24" lang="TR" %}}.
+Bu ona çok zor geldi ve Tanrı merhamet ederek {{% bible val="onu korumak için bir işaret yaptı" link="gen:4,13-15" lang="tr" %}}. Ancak Kayin {{% bible val="kendi güvenliğini sağlamaya" link="gen:4,16-17" lang="tr" %}} ve bir şehir kurmaya çalışıyordu ve {{% bible val="onun ardılları da kültür ve ilerleme sağlayarak güvenliklerini ve rızıklarını arttırdılar" link="gen:4,16-17" lang="tr" %}}. Kayin’in soyu, {{% bible val="Tanrı’nın Kayin’i korumasıyla alay eden Lamech ile sona erer" link="gen:4,22-24" lang="tr" %}}.
 
 ## Erkek sığınağı olarak kasabalar
 
 <a name="ca70"></a>
-Adem’in yeni bir oğlu olur ve {{% bible val="bu andan itibaren insanlar Tanrı ile bağlantı kurmaya başlar" link="gen:4,25-26" lang="TR" %}}. {{% bible val="Ancak şehir hala önemli bir özellikti" link="gen:10,8-12" lang="TR" %}} ve {{% bible val="Babil kulesinde felaketle" link="gen:11,1-9" lang="TR" %}} sonuçlandı. Bu insanlar kendilerine bir isim yapmak istediler, ancak {{% bible val="Tanrı sonunda İsrail’in geldiği İbrahim’den bir isim yapmaya karar verdi" link="gen:12,1-3" lang="TR" %}}.
+Adem’in yeni bir oğlu olur ve {{% bible val="bu andan itibaren insanlar Tanrı ile bağlantı kurmaya başlar" link="gen:4,25-26" lang="tr" %}}. {{% bible val="Ancak şehir hala önemli bir özellikti" link="gen:10,8-12" lang="tr" %}} ve {{% bible val="Babil kulesinde felaketle" link="gen:11,1-9" lang="tr" %}} sonuçlandı. Bu insanlar kendilerine bir isim yapmak istediler, ancak {{% bible val="Tanrı sonunda İsrail’in geldiği İbrahim’den bir isim yapmaya karar verdi" link="gen:12,1-3" lang="tr" %}}.
 
 ## God comes to the town
 
@@ -38,14 +38,14 @@ Tapınağın en kutsal bölümü, yılda bir kez Kefaret Günü’nde sadece Ba�
 ## Tanrı kasabaya ve bahçeye katılma sözü vererek ayrılır
 
 <a name="a0cc"></a>
-İsrail Tanrı’yla yaptığı antlaşmayı bozduğunda Tanrı’nın {{% bible val="varlığı tapınağı terk eder" link="ezk:10,18-19" lang="TR" %}}, ancak kitabın ilerleyen bölümlerinde {{% bible val="Tanrı’nın geri döneceği vaat edilir (doğu kapısından)" link="ezk:43,1-2" lang="TR" %}}. Bu bölümlerin bağlamında, tapınak resmiyle bahçe resmini birleştiren yeni bir unsurdan söz edilir. {{% bible val="Bu, tapınaktaki sunaktan akan ve geldiği yerde her şeyi verimli kılan ve büyüten bir nehre dönüşen bir derenin vizyonudur" link="ezk:47" lang="TR" %}}. {{% bible val="Bunun Yeni Yeruşalim’de tamamlandığını göreceksiniz" link="rev:22,1-5" lang="TR" %}}. Ancak bunun için hâlâ uzun bir yol vardır.
+İsrail Tanrı’yla yaptığı antlaşmayı bozduğunda Tanrı’nın {{% bible val="varlığı tapınağı terk eder" link="ezk:10,18-19" lang="tr" %}}, ancak kitabın ilerleyen bölümlerinde {{% bible val="Tanrı’nın geri döneceği vaat edilir (doğu kapısından)" link="ezk:43,1-2" lang="tr" %}}. Bu bölümlerin bağlamında, tapınak resmiyle bahçe resmini birleştiren yeni bir unsurdan söz edilir. {{% bible val="Bu, tapınaktaki sunaktan akan ve geldiği yerde her şeyi verimli kılan ve büyüten bir nehre dönüşen bir derenin vizyonudur" link="ezk:47" lang="tr" %}}. {{% bible val="Bunun Yeni Yeruşalim’de tamamlandığını göreceksiniz" link="rev:22,1-5" lang="tr" %}}. Ancak bunun için hâlâ uzun bir yol vardır.
 
 ## Yeni Antlaşma’da tapınak
 
 <a name="1ad7"></a>
-Yeni Ahit’te {{% bible val="İsa tapınaktır" link="jhn:2,19-22" lang="TR" %}}. O öldüğünde tapınaktaki perde yırtılmış (En Kutsal Yer’in önündeki), bu da En Kutsal Yer’de Tanrı’ya erişimin herkes için mümkün olduğunu göstermiştir.
+Yeni Ahit’te {{% bible val="İsa tapınaktır" link="jhn:2,19-22" lang="tr" %}}. O öldüğünde tapınaktaki perde yırtılmış (En Kutsal Yer’in önündeki), bu da En Kutsal Yer’de Tanrı’ya erişimin herkes için mümkün olduğunu göstermiştir.
 
-İsa öldüğünde {{% bible val="tapınak kiliseye dönüşmüştür, çünkü kilise Mesih’in bedenidir" link="1co:6,19" lang="TR" %}}. Ve Vahiy kitabında kilise Mesih’in gelini, aynı zamanda Tanrı ile insanlar arasındaki paydaşlığın bozulmadığı Yeni Yeruşalim’dir.
+İsa öldüğünde {{% bible val="tapınak kiliseye dönüşmüştür, çünkü kilise Mesih’in bedenidir" link="1co:6,19" lang="tr" %}}. Ve Vahiy kitabında kilise Mesih’in gelini, aynı zamanda Tanrı ile insanlar arasındaki paydaşlığın bozulmadığı Yeni Yeruşalim’dir.
 
 ## Eğer daha derine inmek istiyorsanız
 

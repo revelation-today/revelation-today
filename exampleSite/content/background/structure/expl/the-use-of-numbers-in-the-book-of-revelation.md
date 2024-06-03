@@ -23,7 +23,7 @@ The number seven is often used as a symbol in the Bible.
 
 Seven is the number of completeness because of the seven days of creation.
 
-The sevenfold wrath of God in the {{% bible val="story of Cain" link="gen:4,15" lang="NIV" %}} or in the {{% bible val="Psalms" link="psa:79,12" lang="NIV" %}} can also to be understood figuratively.
+The sevenfold wrath of God in the {{% bible val="story of Cain" link="gen:4,15" lang="en" %}} or in the {{% bible val="Psalms" link="psa:79,12" lang="en" %}} can also to be understood figuratively.
 
 There are 7 beatitudes, which probably describe the entire blessing of the saints and may also be a summary of the description of salvation in Revelation.
 
@@ -41,27 +41,27 @@ Other examples of completeness in Revelation are the 7 seals, the 7 trumpets, an
 ## The number 4
 
 <a name="3175"></a>
-Four is also the number of completeness, but more in the sense of a universal or worldwide framework. This is clear in the book of Revelation in the {{% bible val="four ends of the earth" link="rev:20,8" lang="NIV" %}} as well as {{% bible val="the four winds (7:1)" link="rev:7,1" lang="NIV" %}}, and also {{% bible val="where creatures from the four realms of the world (heaven, earth, sea, and under the sea) sing a fourfold hymn of praise to God and the Lamb" link="rev:5,13" lang="NIV" %}}.
+Four is also the number of completeness, but more in the sense of a universal or worldwide framework. This is clear in the book of Revelation in the {{% bible val="four ends of the earth" link="rev:20,8" lang="en" %}} as well as {{% bible val="the four winds (7:1)" link="rev:7,1" lang="en" %}}, and also {{% bible val="where creatures from the four realms of the world (heaven, earth, sea, and under the sea) sing a fourfold hymn of praise to God and the Lamb" link="rev:5,13" lang="en" %}}.
 
-Elsewhere, too, the earth is divided into four parts ({{% bible val="during the first trumpet" link="rev:8,7" lang="NIV" %}}, {{% bible val="by the three angels" link="rev:14,7" lang="NIV" %}}, {{% bible val="four bowls on the land, sea, rivers, and sun" link="rev:16,2-9" lang="NIV" %}}). These four parts are the targets of the first four trumpets and bowls of wrath, showing God’s judgmental power over all creation.
+Elsewhere, too, the earth is divided into four parts ({{% bible val="during the first trumpet" link="rev:8,7" lang="en" %}}, {{% bible val="by the three angels" link="rev:14,7" lang="en" %}}, {{% bible val="four bowls on the land, sea, rivers, and sun" link="rev:16,2-9" lang="en" %}}). These four parts are the targets of the first four trumpets and bowls of wrath, showing God’s judgmental power over all creation.
 
 The division of the judgments into 4+3 patterns is probably also a result of this. The division of the book into four parts also shows the universal validity of the book.
 
-The reference to “{{% bible val="thunder and lightning" link="exo:19,16-18" lang="NIV" %}}” as Sinai occurs 4 times in crucial places:
+The reference to “{{% bible val="thunder and lightning" link="exo:19,16-18" lang="en" %}}” as Sinai occurs 4 times in crucial places:
 
-- the {{% bible val="introduction" link="rev:4,5" lang="NIV" %}},
-- the {{% bible val="conclusion of the seals" link="rev:8,5" lang="NIV" %}},
-- the {{% bible val="conclusion of the trumpets" link="rev:11,19" lang="NIV" %}} and the
-- the {{% bible val="conclusion of the bowls" link="rev:16,18" lang="NIV" %}}.
+- the {{% bible val="introduction" link="rev:4,5" lang="en" %}},
+- the {{% bible val="conclusion of the seals" link="rev:8,5" lang="en" %}},
+- the {{% bible val="conclusion of the trumpets" link="rev:11,19" lang="en" %}} and the
+- the {{% bible val="conclusion of the bowls" link="rev:16,18" lang="en" %}}.
 
 ## The combination 4x7
 
 <a name="3f68"></a>
-If you see {{% bible val="the seven thunders" link="rev:10,3-7" lang="NIV" %}} as another series of judgments (or if you see the Epistles as having a judgmental character), then there are 4x7 judgments concerning the judgment of the whole world, see also the {{% bible val="Law where the sevenfold judgment is mentioned four times" link="lev:26,14-46" lang="NIV" %}}.
+If you see {{% bible val="the seven thunders" link="rev:10,3-7" lang="en" %}} as another series of judgments (or if you see the Epistles as having a judgmental character), then there are 4x7 judgments concerning the judgment of the whole world, see also the {{% bible val="Law where the sevenfold judgment is mentioned four times" link="lev:26,14-46" lang="en" %}}.
 
-Also the {{% bible val="sevenfold mention of the sickle" link="rev:14,14-19" lang="NIV" %}} also shows the completeness of the worldwide judgment.
+Also the {{% bible val="sevenfold mention of the sickle" link="rev:14,14-19" lang="en" %}} also shows the completeness of the worldwide judgment.
 
-Furthermore, the {{% bible val="list of goods of the merchants at Babel" link="rev:18,11-13" lang="NIV" %}} has 4 times 7 is 28 goods, representing the totality of the products of the world. Certain names for God and Christ also occur four or seven times:
+Furthermore, the {{% bible val="list of goods of the merchants at Babel" link="rev:18,11-13" lang="en" %}} has 4 times 7 is 28 goods, representing the totality of the products of the world. Certain names for God and Christ also occur four or seven times:
 
 - The One who lives 4 times, to denote Him as the eternal Creator who rules over all creation.
 - God Almighty in the nominative 7 times
@@ -80,7 +80,7 @@ Twelve also represents completeness as well as unity in diversity, as the people
 
 The twelve apostles are the mirror image of this in the New Testament.
 
-{{% bible val="Twelve is squared and multiplied by 1000 in Revelation" link="rev:7,4-8" lang="NIV" %}} to demonstrate completeness. This is so significant that the number twelve is used twelve times in the description of the New Jerusalem as a picture of the end-time completeness of the saints, as well as the [3*4 gates](https://www.bibleserver.com/NIV/Revelation21%3A13) and the {{% bible val="12 precious stones" link="rev:21,19-20" lang="NIV" %}}.
+{{% bible val="Twelve is squared and multiplied by 1000 in Revelation" link="rev:7,4-8" lang="en" %}} to demonstrate completeness. This is so significant that the number twelve is used twelve times in the description of the New Jerusalem as a picture of the end-time completeness of the saints, as well as the [3*4 gates](https://www.bibleserver.com/NIV/Revelation21%3A13) and the {{% bible val="12 precious stones" link="rev:21,19-20" lang="en" %}}.
 
 ## Other numbers
 
@@ -113,16 +113,16 @@ The red circled columns reflect Satan and his kingdom while the green circled co
 
 The smallest (nontrivial) square triangular number is 36. This is related to several aspects of the beasts
 
-- It is related to 666 (36th triangular number) and {{% bible val="is the mystery of the beast" link="rev:13,18" lang="NIV" %}}
+- It is related to 666 (36th triangular number) and {{% bible val="is the mystery of the beast" link="rev:13,18" lang="en" %}}
 - It is related to 8 (36 is 8th triangular number) and refers to resurrection (Jesus is resurrected on the 8th day)
 - It is related to 6 — the number of man or to be said non god power — (36 is the square of 6).
-- The 6th rectangular number is 42 describing {{% bible val="the 42 months of the activities of the beast" link="rev:13,5" lang="NIV" %}}.
+- The 6th rectangular number is 42 describing {{% bible val="the 42 months of the activities of the beast" link="rev:13,5" lang="en" %}}.
 
 But the next smallest (and maybe the only other one that was known at Johns time) would be 1225 which is also reflected here
 
 - is outruns 36 by a lot and is more sophisticated to obtain
 - it is the square of 35 (which is just one less than 36 but on different scales of comparison)
-- the 35th rectangular number is 1260 describing the {{% bible val="time of activities of the two witnesses" link="rev:11,3" lang="NIV" %}}
+- the 35th rectangular number is 1260 describing the {{% bible val="time of activities of the two witnesses" link="rev:11,3" lang="en" %}}
 - it is the 49th triangular number while 49 is the square of 7 is described totality or completeness
 
 The reality is that Gods kingdom is far above Satan’s kingdom which is a massive parody. Lets take the equivalent of the 666 (based on the 1225) which is 750.925. Lets assume this to be a 2 m tall person, than Satan’s strength would be compared to a less than 2 mm tall insect!

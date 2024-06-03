@@ -14,7 +14,7 @@ We are now entering a chapter full of strange images and events. But the story i
 ## Our text
 
 <a name="e630"></a>
-We are moving quickly forward and reached {{% bible val="chapter 12" link="rev:12" lang="NIV" %}}.
+We are moving quickly forward and reached {{% bible val="chapter 12" link="rev:12" lang="en" %}}.
 
 ## Christ is born
 
@@ -32,7 +32,7 @@ The devil is displayed as the big loser
 
 But is this the reality? The devil does not look defeated. He seems to be in complete control of the earth and Christians are on the run.
 
-But this chapter exposes that. The devil is causing as much damage as he can {{% bible val="BECAUSE he knows he is defeated" link="rev:12,11-12" lang="NIV" %}}. His display of power is an acknowledgment of his defeat.
+But this chapter exposes that. The devil is causing as much damage as he can {{% bible val="BECAUSE he knows he is defeated" link="rev:12,11-12" lang="en" %}}. His display of power is an acknowledgment of his defeat.
 
 And we should be aware of that. When we are attacked as Jesus was, it is not defeat. We should remain faithful and continue our witness.
 

@@ -10,21 +10,21 @@ Uzun süredir inanan biri olabilirsiniz ve önemli soruların yanıtlarını bil
 
 Dünyadaki yerinizi buldunuz ve nasıl manevra yapacağınızı biliyorsunuz. Hayatta açık sorular ve bazı zorluklar olabilir ama hep birlikte üstesinden gelirsiniz. Hayat mükemmel olmayabilir ama cennete gittiğimizde her şey güzel olacak. Ve işte Vahiy kitabının keşfi geliyor.
 
-### Yeni başlangıçlar ({{% bible val="Bölüm 1" link="rev:1" lang="TR" %}})
+### Yeni başlangıçlar ({{% bible val="Bölüm 1" link="rev:1" lang="tr" %}})
 
 <a name="55d5"></a>
 Ancak kendinize hikayenin bundan daha fazlası olup olmadığını sorabilirsiniz: İsa benim günahlarım için öldü ve bunu kabul etmek ve zaman zaman başkalarına anlatmak (tanıklık etmek). Evet, var. Çok daha fazlası var ve bundan hoşlanıp hoşlanmadığınızı bilmiyorum. Çünkü bizler krallar ve kraliçeleriz ve bu dünya için sorumluluklarımız var. Saat işliyor ve elimizde önemli bir görev var. Tüm dünyanın kurtuluşu. Ve bu benimle ilgili değil, kilise ve onun gizemiyle ilgili.
 
 Kilise dünyanın ışığı olmalı ve İsa’nın gücüyle yaşamalıdır. İsa’nın kiliseyle ilgili düşüncesi ne eksik ne de fazladır. Ama kilise buna ayak uyduruyor mu?
 
-### Büyük bir felaket ({{% bible val="Bölüm 2–3" link="rev:2" lang="TR" %}})
+### Büyük bir felaket ({{% bible val="Bölüm 2–3" link="rev:2" lang="tr" %}})
 
 <a name="83ff"></a>
 Şimdi kiliselere bakın. Çalışkan kilise Efes’le başlıyoruz. Çalışıyorlar, katlanıyorlar ve öğretiyi temiz tutuyorlar, ama asıl şey eksik: Sevgi, var olmalarının nedeni. Bu kilisenin hiçbir amacı yoktur ve yok olabilir.Ama bir sonraki kilise çok farklıdır: Smyrna. Küçük bir kasaba, dinsiz bir toplum tarafından ezilmiş, kilise zulüm altında ve Yahudiler tarafından nefret ediliyor. Bu, içinde olmak isteyebileceğiniz bir kilise değil, ama İsa’dan büyük övgüler alan iki kiliseden biri.Ayrıca Bergama Şeytan’ın tahtının da orada olması nedeniyle büyük baskı altındadır. Çok şey atlatırlar — şehitlik bile — ama insanları Tanrı’dan uzaklaştıran yanlış öğretilere izin verirler.Thyatira’da durum daha da kötüdür: Sorunun nedeni önderliğin kendisidir.Sardes’te durum daha iyi değildir, çünkü burada insanlar Tanrı’nın yardımı olmadan her şeyi halledebileceklerini düşünürler ve neredeyse tamamen başarısız olurlar.Ancak Philadelphia suçsuzdur. Ancak katılmak isteyeceğiniz bir kilise değildir, çünkü diğer tüm sorunların yanı sıra bu kilise üyeleri de dahil olmak üzere mali açıdan tükenmiştir.Geriye bir tek Laodikya kalıyor ki, o da İsa’dan her türlü övgüyü alan tek kilisedir, hatta kilise kendisinden çok etkilenmiştir.Ancak İsa onlardan vazgeçmez, bireysel öğütler, uyarılar ve vaatler verir.
 
 {{< figure src="/images/Churches_tr.jpg" title="Src: https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" >}}
 
-### Rehberlik önde ({{% bible val="Bölüm 4–5" link="rev:4" lang="TR" %}})
+### Rehberlik önde ({{% bible val="Bölüm 4–5" link="rev:4" lang="tr" %}})
 
 <a name="55b1"></a>
 Bu yüzden ayağa kalkmak ve yukarıya bakarak büyük maceraya hazır olmak size, bana ve tüm kiliseye düşüyor.
@@ -35,7 +35,7 @@ Ancak oturup ibadet etmenin tüm sorunları çözeceğini düşünüyorsanız ya
 
 O, dünyayı yönetmeye layık olduğu için bu büyük yolculukta bizim gerçek kahramanımız ve rehberimizdir. Ancak bunu kabul ettiğimizde ve yaşadığımızda geri dönüşü olmayan bir yolculuğa başlarız.
 
-### Kötülük uyanıyor — orduya katılın ({{% bible val="Bölüm 6–7" link="rev:6" lang="TR" %}})
+### Kötülük uyanıyor — orduya katılın ({{% bible val="Bölüm 6–7" link="rev:6" lang="tr" %}})
 
 <a name="c33e"></a>
 Bu dünyayı yönetmeye niyetli olan yalnızca İsa değildir ve İsa bunu ortaya çıkarmak için mühürleri kırar. Şeytan da aynı şeyi iddia eder ve parlak bir zırhla ortaya çıkar, ancak İsa tüm bu vaatlerin ardında insanlara karşı şiddetin yattığını, adaletsizlikle tehdit ederek yaşadığını ve bunun sonucunda tam bir felaketle sonuçlandığını gösterir.
@@ -44,19 +44,19 @@ Kilise bunun dışında değildir. Hayır, o bunun tam ortasındadır ve Tanrı�
 
 Bu gerçekleşene kadar Tanrı’nın ordusuna katılmamız gerekir. Ama bu neye benziyor? Bizim savaşımız şeytan gibi şiddetle değil, Rablerine olan sevgilerinden dolayı her şeye katlanan tapınanlardan oluşan bir ordudur.
 
-### İlk grev ({{% bible val="Bölüm 8–9" link="rev:8" lang="TR" %}})
+### İlk grev ({{% bible val="Bölüm 8–9" link="rev:8" lang="tr" %}})
 
 <a name="3037"></a>
 Kilisenin gücünü ortaya koymasının zamanı gelmiştir. Çarmıha gerilen İsa’nın dünyayı sarsmasıyla aynı güçle, kilisenin duası da aynı şeyi yapar. Dünyayı sarsan trompet sesine neden olurlar. Yiyecek, su, ticaret, güvenlik — hepsi yok olmuştur. Bu durum insanları gerçek olanı aramaya itecek mi? Hayır! Putlarına sadık kalırlar.
 
 Putları onlara karşı dönüp umutlarını yitirmelerine neden olduğunda bile gevşemezler, öyle ki yaşamlarına son vermek isterler ama yapamazlar ve sonunda bunu yaparlar. Kilise korunur — onlar pes etmezler. Ama insanlar büyük acılar çeker ama yine de putlarına bağlı kalırlar.
 
-### Gerçeklik kontrolü ({{% bible val="Bölüm 10" link="rev:10" lang="TR" %}})
+### Gerçeklik kontrolü ({{% bible val="Bölüm 10" link="rev:10" lang="tr" %}})
 
 <a name="f65c"></a>
 Kilise başarısız oldu. İlk saldırıları kalplerin katılaşmasından başka bir şeyle sonuçlanmadı. Zor zamanlar tek başına insanları değiştirmez. Onları değiştiren Tanrı’nın gizemidir. Ve bu şimdi açıklanacak ve sindirilmesi biraz zaman alacak.
 
-### Büyük çatışma ({{% bible val="Bölüm 11–13" link="rev:11" lang="TR" %}})
+### Büyük çatışma ({{% bible val="Bölüm 11–13" link="rev:11" lang="tr" %}})
 
 <a name="e39e"></a>
 Bu, maddi ve manevi dünyayı gerçekte olduğu gibi gördüğümüz zamandır. Her şeyden önce: Tanrı’nın varlığının tapınağı, Tanrı’yı hoşnut etmek için lütuf kazanmamız gereken bir yer değil, bu dünyada O’na sadık ve vefalı bir sevgiyle yüreğimizi gösterdiğimiz yerdir.
@@ -74,7 +74,7 @@ Ama şeytan etrafımızdayken kilise zayıf olabilir mi? Onun başarılarına bi
 
 Görev şeytanı yenmek değil — bu İsa tarafından yapıldı — insanları Tanrı ile bir ilişkiye çekmektir
 
-### Zafer ({{% bible val="Bölüm 14–16" link="rev:14" lang="TR" %}})
+### Zafer ({{% bible val="Bölüm 14–16" link="rev:14" lang="tr" %}})
 
 <a name="37a3"></a>
 İsa’nın çarmıhtaki zaferi ve kilisenin tanıklığı her şeyi yaptı ve düşman etrafa dağıldı. İmanlılar zafer şarkıları söylerler — onların tek becerisi Tanrı’ya sadakatti.
@@ -85,7 +85,7 @@ Kontrol etme zamanı geldi. İki hasat orada acı gerçeği ortaya çıkarır. B
 
 Ve bu Tanrı’nın gayretinin devreye girme zamanıdır. Sahte sadakate, halkına saldırmaya, yürekleri katılaştırmaya ve şeytanın aldatmacasına karşı, bu krallık tamamen çökene kadar sarsacak ve sarsacaktır.
 
-### Nihai savaş ({{% bible val="Bölüm 17–19" link="rev:17" lang="TR" %}})
+### Nihai savaş ({{% bible val="Bölüm 17–19" link="rev:17" lang="tr" %}})
 
 <a name="517a"></a>
 Hedefe ulaşılana kadar açığa çıkarılması gereken bir ve karanlık bir gizem daha vardır. Ve amacın şeytanı yenmek değil, Tanrı’nın halkıyla birleşmesi olduğu çok açık hale gelir.
@@ -96,7 +96,7 @@ Pek çok kişi bu mükemmel maskaralıkla kandırılmaktadır. Bu son saldırı 
 
 Artık şeytanı ve yardakçılarını nihayet yok etmenin yolu açılmıştır.
 
-### Yeni bir başlangıç ({{% bible val="Bölüm 20–22" link="rev:20" lang="TR" %}})
+### Yeni bir başlangıç ({{% bible val="Bölüm 20–22" link="rev:20" lang="tr" %}})
 
 <a name="a287"></a>
 Bitti. Nihayet! Belki fark etmediniz ama kilise her zaman iktidardaydı ama farklı bir güçle insanlığın kaderine yön verdi. Ama önce kimin Tanrı’yla, kimin Tanrı’sız sonsuzluğa katılacağı nihai yargılama gelir.

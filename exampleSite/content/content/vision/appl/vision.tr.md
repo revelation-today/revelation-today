@@ -37,7 +37,7 @@ expl: /content/vision/expl/setting-the-foundation
 ## Bizim metnimiz
 
 <a name="7aff"></a>
-Bazı temel bilgileri belirlemek için kitabın {{% bible val="ilk üç bölümüne" link="rev:1" lang="TR" %}} çok hızlı bir şekilde göz atacağız.
+Bazı temel bilgileri belirlemek için kitabın {{% bible val="ilk üç bölümüne" link="rev:1" lang="tr" %}} çok hızlı bir şekilde göz atacağız.
 
 ## Kiliseye neden ihtiyacımız var?
 

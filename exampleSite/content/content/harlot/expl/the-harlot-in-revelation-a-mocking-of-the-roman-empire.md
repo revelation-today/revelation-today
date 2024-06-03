@@ -39,11 +39,11 @@ The coin depicting the {{% int_link val="Pax Romana" link="/background/history/e
 ## The Ekphrasis
 
 <a name="66fb"></a>
-The {{% bible val="first half of chapter 17" link="rev:17,1-13" lang="NIV" %}} is the only part of Revelation with an interpreting angel on a static picture (even in chapter 21 — the New Jerusalem — the angel only shows, does not explain, and there is action — the city comes down, water flows, trees bear fruit). In chapter 17 we have a very static picture. And the focus is on understanding the prostitute based on the beast.
+The {{% bible val="first half of chapter 17" link="rev:17,1-13" lang="en" %}} is the only part of Revelation with an interpreting angel on a static picture (even in chapter 21 — the New Jerusalem — the angel only shows, does not explain, and there is action — the city comes down, water flows, trees bear fruit). In chapter 17 we have a very static picture. And the focus is on understanding the prostitute based on the beast.
 
 And this text has the style of an ekphrasis, which is the mainly rhetorical description of an object of art (it could also be others like people, festivals, …). The first one was the description of the shield of Achilles in the Ilias (Battle of Troy).
 
-This type of literature was very popular in Rome from the first century BC. The main element is the {{% bible val="bewildered narrator" link="rev:17,7" lang="NIV" %}}, because the point of it was to either to have a deeper understanding of the picture or to see the deeper/hidden meaning of the picture which is sometimes hard to decipher like the “Tabula of Cebes” which was probably the most popular ekphrasis.
+This type of literature was very popular in Rome from the first century BC. The main element is the {{% bible val="bewildered narrator" link="rev:17,7" lang="en" %}}, because the point of it was to either to have a deeper understanding of the picture or to see the deeper/hidden meaning of the picture which is sometimes hard to decipher like the “Tabula of Cebes” which was probably the most popular ekphrasis.
 
 This tabula may also be a basis for Revelation 17. It describes a group of people who see a picture on a dedication plaque in a temple that they don’t understand. An old man comes and [explains it to them (see chapter 8)](https://archive.org/details/cebestabletwithi00cebeiala/page/n4/mode/1up?view=theater):
 

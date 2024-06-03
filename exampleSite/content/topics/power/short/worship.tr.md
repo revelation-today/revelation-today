@@ -105,9 +105,9 @@ Bunlar olası sonuçlardır. Bunları elde etmek için Tanrı ile bir ilişkiniz
 ## Taptığımız şey oluruz
 
 <a name="a481"></a>
-{{% bible val="Yeşaya’nın İsrail’e vaaz etme görevi vardı ama onlar anlamayacaklardı" link="isa:6,8-10" lang="TR" %}}. {{% bible val="İsa bunu kendi hizmeti için de uyguladı" link="mat:13,13" lang="TR" %}}, ama neden? Bunun amacı nedir?
+{{% bible val="Yeşaya’nın İsrail’e vaaz etme görevi vardı ama onlar anlamayacaklardı" link="isa:6,8-10" lang="tr" %}}. {{% bible val="İsa bunu kendi hizmeti için de uyguladı" link="mat:13,13" lang="tr" %}}, ama neden? Bunun amacı nedir?
 
-Cevap {{% bible val="Mezmurlar" link="psa:135,15-18" lang="TR" %}}’da bulunabilir: Putlara güvenenler onlar gibi olacaklar — göremeyecek ve duyamayacaklar. Ama putlara güvenmekten vazgeçip tamamen Tanrı’ya güvenirsek, {{% bible val="görebiliriz" link="jhn:3,3" lang="TR" %}}.
+Cevap {{% bible val="Mezmurlar" link="psa:135,15-18" lang="tr" %}}’da bulunabilir: Putlara güvenenler onlar gibi olacaklar — göremeyecek ve duyamayacaklar. Ama putlara güvenmekten vazgeçip tamamen Tanrı’ya güvenirsek, {{% bible val="görebiliriz" link="jhn:3,3" lang="tr" %}}.
 
 İsrail putlara bağlı kaldığı için, gözlerinin önünde vaaz edilse bile gerçeği göremediler.
 

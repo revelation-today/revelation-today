@@ -7,14 +7,14 @@ Du bist vielleicht schon lange gläubig und kennst die Antworten auf die wichtig
 
 Du hast deinen Platz in der Welt gefunden und weißt, wie du dich zurechtfindest. Es gibt vielleicht noch offene Fragen und einige Herausforderungen im Leben, aber nichts, was man nicht bewältigen kann. Das Leben mag nicht perfekt sein, aber alles wird gut sein, wenn wir im Himmel sind. Und hier kommt die Entdeckung des Buches der Offenbarung.
 
-### Ein neuer Anfang ({{% bible val="Kapitel 1" link="rev:1" lang="SLT" %}})
+### Ein neuer Anfang ({{% bible val="Kapitel 1" link="rev:1" lang="de" %}})
 
 <a name="55d5"></a>
 Aber vielleicht fragst du dich, ob es nicht noch mehr zu sagen gibt als: Jesus ist für meine Sünden gestorben, und ich sollte dies akzeptieren und anderen von Zeit zu Zeit davon erzählen (Zeugnis geben). Nun, da ist mehr. Es ist viel mehr, und ich weiß nicht, ob Ihnen das gefällt. Denn wir sind Könige und Königinnen und haben eine Verantwortung für diese Welt. Die Uhr tickt, und wir haben eine wichtige Aufgabe vor uns. Die Rettung der ganzen Welt. Und dabei geht es nicht um mich, sondern um die Gemeinde und ihr Geheimnis.
 
 Die Gemeinde soll das Licht der Welt sein und aus der Kraft Jesu leben. Das ist nicht mehr und nicht weniger, als Jesus von der Gemeinde denkt. Aber wird die Gemeinde diesem Anspruch gerecht?
 
-### Die Ernüchterung ({{% bible val="Kapitel 2–3" link="rev:2" lang="SLT" %}})
+### Die Ernüchterung ({{% bible val="Kapitel 2–3" link="rev:2" lang="de" %}})
 
 <a name="83ff"></a>
 Schau dir jetzt die Gemeinden an. Wir beginnen mit Ephesus, der hart arbeitenden Gemeinde. Sie arbeiten, halten durch und halten die Lehre sauber, aber das Wichtigste fehlt: Die Liebe, der Grund, warum sie existiert. Diese Gemeinde hat kein Ziel und könnte auch verschwinden.
@@ -35,7 +35,7 @@ Aber Jesus gibt sie nicht auf, er gibt ihnen individuelle Ratschläge, Warnungen
 
 {{< figure src="/images/Churches_de.jpg" title="Src: https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" >}}
 
-### Hilfe naht ({{% bible val="Chapter 4–5" link="rev:4" lang="SLT" %}})
+### Hilfe naht ({{% bible val="Chapter 4–5" link="rev:4" lang="de" %}})
 
 <a name="55b1"></a>
 Es liegt also an Ihnen und mir und der ganzen Gemeinde, aufzustehen und sich auf das große Abenteuer vorzubereiten, indem wir nach oben schauen.
@@ -46,7 +46,7 @@ Aber wenn Sie denken, dass Sitzen und Anbetung alle Probleme lösen, liegen Sie 
 
 Er ist unser wahrer Held und Leiter auf dieser großen Reise, denn er ist würdig, die Welt zu regieren. Aber wenn wir dies akzeptieren und leben, beginnen wir eine Reise, auf der es kein Zurück mehr gibt.
 
-### Das Böse erwacht — tritt in die Armee Gottes ein ({{% bible val="Kapitel 6–7" link="rev:6" lang="SLT" %}})
+### Das Böse erwacht — tritt in die Armee Gottes ein ({{% bible val="Kapitel 6–7" link="rev:6" lang="de" %}})
 
 <a name="c33e"></a>
 Jesus ist nicht der Einzige, der die Welt regieren will, und Jesus bricht die Siegel, um dies zu enthüllen. Satan behauptet das Gleiche und zeigt sich in glänzender Rüstung, aber Jesus zeigt, dass hinter all diesen Versprechungen Gewalt gegen Menschen steckt, die mitmachen, die Ungerechtigkeit leben und als Folge in einer totalen Katastrophe enden.
@@ -55,19 +55,19 @@ Nicht, dass die Gemeinde davon ausgeschlossen wäre. Nein, sie ist mittendrin un
 
 Bis dahin müssen wir uns der Armee Gottes anschließen. Aber wie sieht das aus? Unser Kampf ist nicht mit Gewalt wie der des Teufels, sondern es ist eine Armee von Anbetern, die aus Liebe zu ihrem Herrn alles ertragen.
 
-### Der erste Angriff ({{% bible val="Kapitel 8–9" link="rev:8" lang="SLT" %}})
+### Der erste Angriff ({{% bible val="Kapitel 8–9" link="rev:8" lang="de" %}})
 
 <a name="3037"></a>
 Es ist an der Zeit, dass die Gemeinde ihre Macht entfaltet. Mit der gleichen Kraft, mit der Jesus als Gekreuzigter die Welt erschüttert, tut das Gebet der Gemeinde dasselbe. Sie lösen die Trompeten aus, der die Erde erschüttert. Nahrung, Wasser, Handel, Sicherheit — alles ist weg. Wird das die Menschen dazu bringen, sich nach dem Wahren umzusehen? Nein! Sie halten an ihren Götzen fest.
 
 Sie lassen auch dann nicht locker, wenn ihre Götzen sich gegen sie wenden und sie selbst die Hoffnung verlieren lassen, so dass sie am liebsten ihr Leben beenden würden, es aber nicht können und es schließlich doch tun. Die Gemeinde ist geschützt — sie wird nicht aufgeben. Aber die Menschen leiden enorm und halten trotzdem an ihren Götzen fest.
 
-### Realitätscheck ({{% bible val="Kapitel 10" link="rev:10" lang="SLT" %}})
+### Realitätscheck ({{% bible val="Kapitel 10" link="rev:10" lang="de" %}})
 
 <a name="4ab1"></a>
 Die Kirche hat versagt. Ihr erster Schlag führte zu nichts als verhärteten Herzen. Harte Zeiten allein verändern die Menschen nicht. Es ist das Geheimnis Gottes, das sie verändert. Und das wird jetzt offenbart, und es braucht einige Zeit, um es zu verdauen.
 
-### Der große Zusammenprall ({{% bible val="Kapitel 11–13" link="rev:11" lang="SLT" %}})
+### Der große Zusammenprall ({{% bible val="Kapitel 11–13" link="rev:11" lang="de" %}})
 
 <a name="e39e"></a>
 Dies ist die Zeit, in der wir die materielle und geistige Welt so sehen, wie sie wirklich ist. Zuallererst: Der Tempel der Gegenwart Gottes ist kein Ort, an dem wir Gunst erlangen müssen, um Gott zu gefallen, sondern der Ort, an dem wir unser Herz zeigen, indem wir ihm in dieser Welt treu und liebevoll dienen.
@@ -85,7 +85,7 @@ Aber kann die Kirche schwach werden, wenn der Teufel in der Nähe ist? Werfen wi
 
 Die Aufgabe ist nicht, den Teufel zu besiegen — das hat Jesus getan — sondern die Menschen in eine Beziehung zu Gott zu ziehen
 
-### Der Sieg ({{% bible val="Kapitel 14–16" link="rev:14" lang="SLT" %}})
+### Der Sieg ({{% bible val="Kapitel 14–16" link="rev:14" lang="de" %}})
 
 <a name="37a3"></a>
 Der Sieg Jesu am Kreuz und das Zeugnis der Kirche haben alles bewirkt, und der Feind ist in alle Winde zerstreut. Die Gläubigen singen im Siegesrausch — ihr einziges erforderliches Können war die Treue zu Gott.
@@ -96,7 +96,7 @@ Es ist Zeit zu prüfen. Die beiden Ernten offenbaren die harte Realität. Einige
 
 Und das ist die Zeit, in der Gottes Eifer einsetzt. Sein Handeln wird erschüttern und wieder erschüttern gegen falsche Loyalität, Angriffe auf sein Volk, Verhärtung der Herzen und die Täuschung des Teufels, bis dieses Reich völlig zusammenbricht.
 
-### Die letzte Herausforderung ({{% bible val="Kapitel 17–19" link="rev:19" lang="SLT" %}})
+### Die letzte Herausforderung ({{% bible val="Kapitel 17–19" link="rev:19" lang="de" %}})
 
 <a name="517a"></a>
 Es gibt noch ein weiteres, dunkles Geheimnis, das gelüftet werden muss, bis das Ziel erreicht ist. Und es wird sehr deutlich, dass das Ziel nicht darin besteht, den Teufel zu besiegen, sondern die Vereinigung Gottes mit seinem Volk.
@@ -107,7 +107,7 @@ Viele werden durch diese perfekte Scharade getäuscht. Dieser letzte Angriff sch
 
 Jetzt ist der Weg frei, um den Teufel und seine Schergen endgültig zu vernichten.
 
-### Ein neuer Anfang ({{% bible val="Kapitel 20–22" link="rev:20" lang="SLT" %}})
+### Ein neuer Anfang ({{% bible val="Kapitel 20–22" link="rev:20" lang="de" %}})
 
 <a name="a287"></a>
 Es ist vollbracht. Endlich! Ihr habt es vielleicht nicht bemerkt, aber die Kirche war immer an der Macht, aber mit einer anderen Macht und lenkte das Schicksal der Menschheit. Aber zuerst kommt das Endgericht, wer mit Gott in die Ewigkeit geht und wer ohne ihn.

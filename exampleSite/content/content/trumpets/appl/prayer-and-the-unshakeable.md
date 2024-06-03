@@ -27,7 +27,7 @@ The trumpets have inspired many people to think of end-time scenarios involving 
 ## Our text
 
 <a name="8552"></a>
-We are moving quickly forward and reached {{% bible val="chapter 8" link="rev:8" lang="NIV" %}} and {{% bible val="9" link="rev:9" lang="NIV" %}}.
+We are moving quickly forward and reached {{% bible val="chapter 8" link="rev:8" lang="en" %}} and {{% bible val="9" link="rev:9" lang="en" %}}.
 
 ## What to pray for
 

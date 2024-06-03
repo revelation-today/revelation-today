@@ -21,9 +21,9 @@ It is hard to criticize Dispensionalism because of its great variety, but I will
 <a name="dac4"></a>
 It is argued that this approach will use the Bible literally which is basically good, but such an approach would not reflect the literature of the Bible in each case.
 
-There is poetic literature such as the Song of Songs. If you took everything literally, Sulamith would look like [that](https://www.pinterest.com/pin/414894184412811101/). There are several other places, where it is unlikely that this is meant {{% bible val="literally" link="isa:55,12" lang="NIV" %}}.
+There is poetic literature such as the Song of Songs. If you took everything literally, Sulamith would look like [that](https://www.pinterest.com/pin/414894184412811101/). There are several other places, where it is unlikely that this is meant {{% bible val="literally" link="isa:55,12" lang="en" %}}.
 
-Furthermore, Dispensationalists are inconsistent in their application of this principle. They agree that the {{% bible val="beast will not have seven heads and ten horns" link="rev:13,1" lang="NIV" %}}. Even {{% bible val="Gog and Magog" link="rev:20,8" lang="NIV" %}} are mentioned with the reference to {{% bible val="God destroying the bow and arrows" link="ezk:39,3" lang="NIV" %}}, these are interpreted as aircrafts and missiles.
+Furthermore, Dispensationalists are inconsistent in their application of this principle. They agree that the {{% bible val="beast will not have seven heads and ten horns" link="rev:13,1" lang="en" %}}. Even {{% bible val="Gog and Magog" link="rev:20,8" lang="en" %}} are mentioned with the reference to {{% bible val="God destroying the bow and arrows" link="ezk:39,3" lang="en" %}}, these are interpreted as aircrafts and missiles.
 
 ### Lack of literature understanding
 
@@ -33,14 +33,14 @@ The theory does not take into account the nature of the literature: An apocalypt
 ### No relevance for the original readers
 
 <a name="ae8f"></a>
-The theory makes no sense to the original readers. The argument that it is about things in the future does not count because the book of Daniel also looks far into the future, but that {{% bible val="book was sealed (until the time was ready)" link="dan:8,26" lang="NIV" %}}, but this is not the case with {{% bible val="Revelation" link="rev:22,10" lang="NIV" %}}.
+The theory makes no sense to the original readers. The argument that it is about things in the future does not count because the book of Daniel also looks far into the future, but that {{% bible val="book was sealed (until the time was ready)" link="dan:8,26" lang="en" %}}, but this is not the case with {{% bible val="Revelation" link="rev:22,10" lang="en" %}}.
 
 ### Context based
 
 <a name="eba9"></a>
 The theory often makes claims without explanation, or uses an arsenal of Bible verses that are not considered in their context.
 
-The main {{% bible val="2000 year delay in the prophecy of the 70 years" link="dan:9,26-27" lang="NIV" %}} depends on a very specific reading, even punctuation, of this verse that is supported only in the King James translations.
+The main {{% bible val="2000 year delay in the prophecy of the 70 years" link="dan:9,26-27" lang="en" %}} depends on a very specific reading, even punctuation, of this verse that is supported only in the King James translations.
 
 ### Prediction of the future
 
@@ -49,7 +49,7 @@ This interpretation is very often used to claim that some specific element of cu
 
 There are several flaws in this approach:
 
-- God’s detailed plan is not fixed even when proclaimed by prophets, see the story of {{% bible val="Jonah" link="jon:3,4-10" lang="NIV" %}} or {{% bible val="Hesekiah" link="isa:38,1-5" lang="NIV" %}}.
+- God’s detailed plan is not fixed even when proclaimed by prophets, see the story of {{% bible val="Jonah" link="jon:3,4-10" lang="en" %}} or {{% bible val="Hesekiah" link="isa:38,1-5" lang="en" %}}.
 - As a prophetic book, the intention is not to predict, but to describe (possible) consequences and to encourage people to act so that these things don’t happen.
 - There have been so many “fits” with historical events that were so convincing, but all of them have been revised as time has gone on, so the amount of all these fitting predictions is the best argument against it. 😎
 - The prediction is often done with a special tunnel view, e.g. the seven letters to the churches are seen as 7 epochs of the church and we are now living in the last era of Laodicea, the lukewarm church. This may be an interpretation of some Western churches, but it would be a very wrong view of the many churches that are now in tribulation.
@@ -62,7 +62,7 @@ There are several flaws in this approach:
 ### The third temple
 
 <a name="3d3b"></a>
-The theory speaks of a new temple being built in Jerusalem, based on the {{% bible val="fact that the temple is given to the Gentiles in Revelation" link="rev:11,1-2" lang="NIV" %}}. Since there is no temple as a building right now existing, it must be built. This interpretation does not take into account that the temple is {{% int_link val="not necessarily a building" link="/bible/keyword/expl/the-temple-and-the-presence-of-god" %}} but a description of the presence of God.
+The theory speaks of a new temple being built in Jerusalem, based on the {{% bible val="fact that the temple is given to the Gentiles in Revelation" link="rev:11,1-2" lang="en" %}}. Since there is no temple as a building right now existing, it must be built. This interpretation does not take into account that the temple is {{% int_link val="not necessarily a building" link="/bible/keyword/expl/the-temple-and-the-presence-of-god" %}} but a description of the presence of God.
 
 Therefore, there is statement that a new temple building will be erected.
 
@@ -80,9 +80,9 @@ There are several things wrong with this. But before I get to those, I want to a
 
 So what is wrong?
 
-- The church is {{% int_link val="identified with Israel" link="/background/israel/expl/the-church-is-part-of-israel" %}} in the sense that the church has become the fulfillment of Israel’s original calling and the {{% bible val="church is part of Israel" link="rom:11,13-24" lang="NIV" %}}.
-- There is {{% bible val="no longer a wall/distinction between Israel and the Gentiles" link="eph:2,11-22" lang="NIV" %}}.
-- It is not the church that is temporal {{% bible val="but the covenant at Sinai" link="gal:3,15-29" lang="NIV" %}}, while faith in Christ is the fulfillment of the covenant with Abraham.
+- The church is {{% int_link val="identified with Israel" link="/background/israel/expl/the-church-is-part-of-israel" %}} in the sense that the church has become the fulfillment of Israel’s original calling and the {{% bible val="church is part of Israel" link="rom:11,13-24" lang="en" %}}.
+- There is {{% bible val="no longer a wall/distinction between Israel and the Gentiles" link="eph:2,11-22" lang="en" %}}.
+- It is not the church that is temporal {{% bible val="but the covenant at Sinai" link="gal:3,15-29" lang="en" %}}, while faith in Christ is the fulfillment of the covenant with Abraham.
 - The church does not disappear because the term disappears.
 - If all Israel will rule what is about the people who do not believe in God at all — and this was even better in the Old Testament, where there were no atheists ;-).
 
@@ -99,7 +99,7 @@ The reason for faith in this theory is fear — if you do not believe, you will 
 ### The weapons of warfare
 
 <a name="14cf"></a>
-Faith is described in a very militaristic way, joining the army, which is {{% bible val="not a reflection of Revelation" link="rev:14,1-5" lang="NIV" %}}: {{% bible val="Jesus goes to war alone with the sword of his mouth" link="rev:19,21" lang="NIV" %}}. This is a very symbolic act and does not imply a violent act of war.
+Faith is described in a very militaristic way, joining the army, which is {{% bible val="not a reflection of Revelation" link="rev:14,1-5" lang="en" %}}: {{% bible val="Jesus goes to war alone with the sword of his mouth" link="rev:19,21" lang="en" %}}. This is a very symbolic act and does not imply a violent act of war.
 
 ### Is wrongly political
 

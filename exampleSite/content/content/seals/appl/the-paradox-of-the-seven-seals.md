@@ -25,7 +25,7 @@ The seven seals is the time when the book becomes really confusing and even dist
 ## Our text
 
 <a name="a892"></a>
-We are now in {{% bible val="chapter 5" link="rev:5" lang="NIV" %}} and {{% bible val="6" link="rev:6" lang="NIV" %}}.
+We are now in {{% bible val="chapter 5" link="rev:5" lang="en" %}} and {{% bible val="6" link="rev:6" lang="en" %}}.
 
 ## The book and the Lamb
 

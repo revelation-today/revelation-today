@@ -19,7 +19,7 @@ sources:
 
 This church is about to fail, and all because of Balaam? He is not really the problem.
 
-{{% bible val="The church in Pergamon" link="rev:2,12-17" lang="NIV" %}}
+{{% bible val="The church in Pergamon" link="rev:2,12-17" lang="en" %}}
 
 ## The historical background
 
@@ -33,11 +33,11 @@ There were also many other temples dedicated to Zeus, Athena, Dionysis and Ascle
 ## Jesus’ view
 
 <a name="84e8"></a>
-Jesus knows that this church has a hard life, and he comes to them {{% bible val="with a very sharp sword to separate" link="rev:2,12" lang="NIV" %}}.
+Jesus knows that this church has a hard life, and he comes to them {{% bible val="with a very sharp sword to separate" link="rev:2,12" lang="en" %}}.
 
-Jesus calls this place: “{{% bible val="where the Satan dwells and has his throne" link="rev:2,13" lang="NIV" %}}”. He is probably referring to all the temples. And the church did well. They endured and did not renounce His name — which shows how hard it was to live there — even to the point of martyrdom. Their situation is comparable to Smyrna, or worse.
+Jesus calls this place: “{{% bible val="where the Satan dwells and has his throne" link="rev:2,13" lang="en" %}}”. He is probably referring to all the temples. And the church did well. They endured and did not renounce His name — which shows how hard it was to live there — even to the point of martyrdom. Their situation is comparable to Smyrna, or worse.
 
-But there is one thing that breaks them: {{% bible val="Balaam and the Nikolaitans" link="rev:2,14-15" lang="NIV" %}} or is it some other problem?
+But there is one thing that breaks them: {{% bible val="Balaam and the Nikolaitans" link="rev:2,14-15" lang="en" %}} or is it some other problem?
 
 ## The problem
 
@@ -51,13 +51,13 @@ And since every doctrine has an effect on action, it also had an effect on their
 ## The solution
 
 <a name="72a9"></a>
-They will receive hidden {{% bible val="manna" link="deu:8,16" lang="NIV" %}}. God provides the supernatural, but we must trust Him even when things seem hopeless.
+They will receive hidden {{% bible val="manna" link="deu:8,16" lang="en" %}}. God provides the supernatural, but we must trust Him even when things seem hopeless.
 
 They will receive a white stone with a new name that can have two meanings:
 
-- It was used in {{% bible val="court to vote" link="act:26,10" lang="NIV" %}}, a white stone would indicate innocence (e.g., from being accused of attending meals dedicated to idols) and would enable them to attend the {{% bible val="marriage supper of the Lamb" link="rev:19,9" lang="NIV" %}}.
+- It was used in {{% bible val="court to vote" link="act:26,10" lang="en" %}}, a white stone would indicate innocence (e.g., from being accused of attending meals dedicated to idols) and would enable them to attend the {{% bible val="marriage supper of the Lamb" link="rev:19,9" lang="en" %}}.
 - It was used as a pass for entry (perhaps to the marriage supper of the Lamb).
 
-A new name is usually associated with a {{% bible val="new identity" link="gen:17,5" lang="NIV" %}}, and knowing the new name indicates an intimate relationship between these people.
+A new name is usually associated with a {{% bible val="new identity" link="gen:17,5" lang="en" %}}, and knowing the new name indicates an intimate relationship between these people.
 
-God offers a new beginning if the church wants it. But {{% bible val="if they do not, Jesus will fight against them" link="rev:2,16" lang="NIV" %}}.
+God offers a new beginning if the church wants it. But {{% bible val="if they do not, Jesus will fight against them" link="rev:2,16" lang="en" %}}.

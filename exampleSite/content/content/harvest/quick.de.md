@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-{{% bible val="Kapitel 14" link="rev:14" lang="SLT" %}}).
+{{% bible val="Kapitel 14" link="rev:14" lang="de" %}}).
 
 Nach der eindrucksvollen Darstellung des Drachens und der beiden Tiere ist eines klar. Die Sieger sind die Gläubigen. Und ihre Hauptstärke ist ihre Treue zu Gott (als Jungfrauen). Sie stehen am gläsernen Meer als Mahnung, dass Gott über alles Böse souverän ist und singen das Siegeslied.
 

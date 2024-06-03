@@ -10,7 +10,7 @@ The book of Revelation gives us a very mixed picture of who rules the world. On 
 ## The question
 
 <a name="d62f"></a>
-When Jesus died on the cross, the devil was defeated. So we were told. But it seems that nothing has changed. {{% bible val="You might say it got worse." link="rev:12,12" lang="NIV" %}}
+When Jesus died on the cross, the devil was defeated. So we were told. But it seems that nothing has changed. {{% bible val="You might say it got worse." link="rev:12,12" lang="en" %}}
 
 - Jesus’ teachings looked like unattainable ideals.
 - Evil empires still rule the world, contrary to {{% int_link val="prophecy" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}.
@@ -26,9 +26,9 @@ Israel was called by the covenant of Abraham to be a blessing to all people. God
 
 So the Jews expected the so-called Messiah to make a visible change, like a revolution.
 
-But this did not happen when Jesus came. He made more statements about the present (evil) time and the (good) time to come in {{% bible val="Mark" link="mrk:10,29-30" lang="NIV" %}}, {{% bible val="Luke" link="luk:20,34-35" lang="NIV" %}} or the {{% bible val="Epistles" link="eph:1,21" lang="NIV" %}}.
+But this did not happen when Jesus came. He made more statements about the present (evil) time and the (good) time to come in {{% bible val="Mark" link="mrk:10,29-30" lang="en" %}}, {{% bible val="Luke" link="luk:20,34-35" lang="en" %}} or the {{% bible val="Epistles" link="eph:1,21" lang="en" %}}.
 
-But the {{% bible val="power of the coming age is already available" link="heb:6,5" lang="NIV" %}}, identified by the {{% bible val="giving of the Holy Spirit" link="2co:1,22" lang="NIV" %}} and {{% bible val="working out by living in the Holy Spirit" link="rom:8,14-39" lang="NIV" %}}. This {{% bible val="coming age is hidden, making its owner and us miserable" link="2co:4,3-18" lang="NIV" %}}.
+But the {{% bible val="power of the coming age is already available" link="heb:6,5" lang="en" %}}, identified by the {{% bible val="giving of the Holy Spirit" link="2co:1,22" lang="en" %}} and {{% bible val="working out by living in the Holy Spirit" link="rom:8,14-39" lang="en" %}}. This {{% bible val="coming age is hidden, making its owner and us miserable" link="2co:4,3-18" lang="en" %}}.
 
 We can look at it in the following way.
 
@@ -53,7 +53,7 @@ We must hold the tension.
 ## The working out
 
 <a name="959b"></a>
-This tension is described in the book of Revelation in the parallel account of the description of the {{% bible val="believers as kings" link="rev:1,6" lang="NIV" %}} and the {{% int_link val="ultimate power of the two witnesses" link="/content/witnesses/expl/the-two-witnesses" %}}, while on the other hand {{% int_link val="the beasts rule unchallenged and even overcome the church" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
+This tension is described in the book of Revelation in the parallel account of the description of the {{% bible val="believers as kings" link="rev:1,6" lang="en" %}} and the {{% int_link val="ultimate power of the two witnesses" link="/content/witnesses/expl/the-two-witnesses" %}}, while on the other hand {{% int_link val="the beasts rule unchallenged and even overcome the church" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
 The key element is that they rule differently. The devil and the beasts rule with oppression, while the witnesses rule with their testimony, even to the point of death.
 

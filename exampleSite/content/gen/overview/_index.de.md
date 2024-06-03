@@ -75,7 +75,7 @@ Und ihn versucht Satan verzweifelt nachzuahmen.
 
 Du erfährst immer mehr über Jesus, wenn du das Buch liest, oft direkt, wie wir gerade gesehen haben, aber manchmal auch indirekt: wie Satan versucht, ihn zu kopieren, es aber nicht schafft.
 
-Die beiden Zeugen in {{% bible val="Kapitel 11" link="rev:11" lang="SLT" %}} folgen den Spuren Jesu von seiner Berufung bis zu seinem Tod, seiner Auferstehung und seiner Himmelfahrt. Sie sind die ultimativen Überwinder, WEIL sie Jesus nachahmen. Der große Durchbruch der beiden Zeugen kommt nicht durch ihre Zeichen, Wunder und Machttaten, sondern dadurch, dass sie ihr Leben hingeben (und Gott ihr Zeugnis bestätigt), so dass viele Ungläubige ihr Leben Gott anvertrauen.
+Die beiden Zeugen in {{% bible val="Kapitel 11" link="rev:11" lang="de" %}} folgen den Spuren Jesu von seiner Berufung bis zu seinem Tod, seiner Auferstehung und seiner Himmelfahrt. Sie sind die ultimativen Überwinder, WEIL sie Jesus nachahmen. Der große Durchbruch der beiden Zeugen kommt nicht durch ihre Zeichen, Wunder und Machttaten, sondern dadurch, dass sie ihr Leben hingeben (und Gott ihr Zeugnis bestätigt), so dass viele Ungläubige ihr Leben Gott anvertrauen.
 
 Die beiden Zeugen symbolisieren die Gemeinde, die nur erfolgreich sein kann, wenn sie Jesus kompromisslos nachfolgt.
 
@@ -96,14 +96,14 @@ Wenn du an die Endzeit und die Wiederkunft Jesu denkst, kommen dir wahrscheinlic
 
 Obwohl das Buch starke Züge einer Apokalypse trägt, wird der Grundgedanke immer wieder in Frage gestellt.
 
-- Jesus wird als der {{% bible val="Durchbohrte" link="rev:1,7" lang="SLT" %}} dargestellt, bevor er als {{% bible val="der Richter der die Welt gezeigt wird" link="rev:1,12-16" lang="SLT" %}}.
-- Der Thronsaal Gottes zeigt Element der Gnade wie den {{% bible val="Regenbogen" link="rev:4,3" lang="SLT" %}}.
-- Der Löwe von Juda ist in Wirklichkeit das {{% bible val="Lamm" link="rev:5,5-6" lang="SLT" %}} Gottes.
-- Das {{% bible val="Heer der 144.000" link="rev:7,4-8" lang="SLT" %}} wird erklärt als die Menschen, die Gott {{% bible val="anbeten" link="rev:7,9-10" lang="SLT" %}}, später als die, die {{% bible val="dem Lamm folgen und glauben" link="rev:14,1-5" lang="SLT" %}}.
-- Der Sieg der zwei Zeugen ist ihr {{% bible val="Tod" link="rev:11,7-13" lang="SLT" %}}.
-- Der geheimnisvolle Ort {{% bible val="Harmageddon" link="rev:16,14" lang="SLT" %}} beschreibt die {{% int_link val="Niederlage der Starken und den Sieg der absolut Schwachen" link="/content/bowls/expl/the-key-to-armageddon" %}}.
-- Die {{% bible val="Hure wird von dem Tier vernichtet" link="rev:17,16" lang="SLT" %}}, auf dem sie {{% bible val="sitzt" link="rev:17,3" lang="SLT" %}}.
-- Jesus kommt und {{% bible val="vernichtet alle Feinde durch das Schwert seines Mundes" link="rev:19,21" lang="SLT" %}}.
+- Jesus wird als der {{% bible val="Durchbohrte" link="rev:1,7" lang="de" %}} dargestellt, bevor er als {{% bible val="der Richter der die Welt gezeigt wird" link="rev:1,12-16" lang="de" %}}.
+- Der Thronsaal Gottes zeigt Element der Gnade wie den {{% bible val="Regenbogen" link="rev:4,3" lang="de" %}}.
+- Der Löwe von Juda ist in Wirklichkeit das {{% bible val="Lamm" link="rev:5,5-6" lang="de" %}} Gottes.
+- Das {{% bible val="Heer der 144.000" link="rev:7,4-8" lang="de" %}} wird erklärt als die Menschen, die Gott {{% bible val="anbeten" link="rev:7,9-10" lang="de" %}}, später als die, die {{% bible val="dem Lamm folgen und glauben" link="rev:14,1-5" lang="de" %}}.
+- Der Sieg der zwei Zeugen ist ihr {{% bible val="Tod" link="rev:11,7-13" lang="de" %}}.
+- Der geheimnisvolle Ort {{% bible val="Harmageddon" link="rev:16,14" lang="de" %}} beschreibt die {{% int_link val="Niederlage der Starken und den Sieg der absolut Schwachen" link="/content/bowls/expl/the-key-to-armageddon" %}}.
+- Die {{% bible val="Hure wird von dem Tier vernichtet" link="rev:17,16" lang="de" %}}, auf dem sie {{% bible val="sitzt" link="rev:17,3" lang="de" %}}.
+- Jesus kommt und {{% bible val="vernichtet alle Feinde durch das Schwert seines Mundes" link="rev:19,21" lang="de" %}}.
 
 Das bedeutet, dass die “apokalyptischen Ereignisse” wahrscheinlich ganz anders sind, als wir denken. Auch die Beschreibung anderer Stellen erweckt den Eindruck, dass Krieg und Zerstörung nicht das Hauptthema des Buches sind.
 
@@ -112,9 +112,9 @@ Die Hauptthemen des Buches sind Anbetung, Zeugnis und Ausharren. Und damit spric
 ## Der Antichrist
 
 <a name="f7e5"></a>
-Der Antichrist wird oft mit dem Buch Offenbarung in Verbindung gebracht, aber wenn du das Buch liest, siehst du, dass das Wort dort überhaupt nicht vorkommt, sondern nur im {{% bible val="ersten Johannesbrief" link="1jn:2,18" lang="SLT" %}} (und da ist von mehreren die Rede). Aber das Prinzip ist in der Offenbarung sichtbar. “Anti” kann nicht nur “gegen” bedeuten, sondern auch “anstelle” bedeuten. Und in diesem Buch gibt es viele Stellen, wo Satan versucht sich selbst als Jesus darzustellen.
+Der Antichrist wird oft mit dem Buch Offenbarung in Verbindung gebracht, aber wenn du das Buch liest, siehst du, dass das Wort dort überhaupt nicht vorkommt, sondern nur im {{% bible val="ersten Johannesbrief" link="1jn:2,18" lang="de" %}} (und da ist von mehreren die Rede). Aber das Prinzip ist in der Offenbarung sichtbar. “Anti” kann nicht nur “gegen” bedeuten, sondern auch “anstelle” bedeuten. Und in diesem Buch gibt es viele Stellen, wo Satan versucht sich selbst als Jesus darzustellen.
 
-Er kommt als der Erlöser als {{% bible val="erster apokalyptischer Reiter" link="rev:6,1-2" lang="SLT" %}}, er imitiert die {{% bible val="Dreieinigkeit Gottes" link="rev:13" lang="SLT" %}} und die {{% bible val="Hure ist eine pervertierte Version der Braut " link="rev:17,1-6" lang="SLT" %}}Christi.
+Er kommt als der Erlöser als {{% bible val="erster apokalyptischer Reiter" link="rev:6,1-2" lang="de" %}}, er imitiert die {{% bible val="Dreieinigkeit Gottes" link="rev:13" lang="de" %}} und die {{% bible val="Hure ist eine pervertierte Version der Braut " link="rev:17,1-6" lang="de" %}}Christi.
 
 Diese Kapitel führen uns vor Augen, was geschieht, wenn die Gemeinde die Vision aus den Augen verliert:
 

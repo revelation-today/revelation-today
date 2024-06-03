@@ -52,7 +52,7 @@ Many cities (especially in Asia Minor, where the letters in Revelation were writ
 
 For the Christians, there were several serious problems
 - Jesus was their emperor (king of kings), especially since the gospels are written as euangeleon (the proclamation of a new emperor).
-- Their {{% bible val="provision was based to Jesus" link="mat:6,25-34" lang="NIV" %}} and not relying on the emperor.
+- Their {{% bible val="provision was based to Jesus" link="mat:6,25-34" lang="en" %}} and not relying on the emperor.
 - Some of the activities associated with the Pax Romana were against their beliefs (e.g. orgies as part of corporate activities).
 - Also, the means of “pacifying” the Roman Empire could not be reconciled with Christian beliefs.
 - They are accused of being intolerant because they say there is only one God, while the Roman Empire accepts any additional God.
@@ -60,7 +60,7 @@ For the Christians, there were several serious problems
 It was easy to conform (at least outwardly).
 
 As a result, you had three choices
-- Completely deny your faith, since {{% bible val="you can only have one master" link="mat:6,24" lang="NIV" %}}, Jesus or the emperor,
+- Completely deny your faith, since {{% bible val="you can only have one master" link="mat:6,24" lang="en" %}}, Jesus or the emperor,
 - live your faith fully and risk social and economic isolation and ruin, imprisonment and even death, or
 - outwardly conform (confess the emperor with the mouth) but remain faithful to Jesus (confess him with the heart), making their faith hypocritical.
 

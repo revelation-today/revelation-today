@@ -7,7 +7,7 @@ next: /content/scroll/story/story
 docType: story
 ---
 
-{{% bible val="Chapter 8–9" link="rev:8" lang="NIV" %}}
+{{% bible val="Chapter 8–9" link="rev:8" lang="en" %}}
 
 <a name="3037"></a>
 It is time for the church to launch its power. With the same force as Jesus as the crucified shakes the world, the prayer of the church does the same. They cause the trumpet sound that shakes the earth. Food, water, trade, security — all is gone. Will this drive the people to look for the real deal. No! The stick to their idols.
