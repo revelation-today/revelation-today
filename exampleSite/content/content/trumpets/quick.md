@@ -1,5 +1,5 @@
 ---
-title: "The trumpets"
+title: "The Trumpets"
 weight: 1
 story: /content/trumpets/story/story
 appl: /content/trumpets/appl/prayer-and-the-unshakeable
@@ -10,28 +10,28 @@ docType: quick
 
 {{% bible val="Chapter 8" link="rev:8" lang="en" %}} and {{% bible val="9" link="rev:9" lang="en" %}}.
 
-## The prayer
+## The Prayer
 
-The chapter starts with the last seal and introduces the trumpets. After the last seal is a time of silence in heaven. In jewish literature this typically the time when God listens to the prayers of the saints.
+This chapter starts with the last seal and introduces the trumpets. After the last seal is a time of silence in heaven. In jewish literature this typically means the time when God listens to the prayers of the saints.
 
-And this is what follows. But there is an important element to consider: The angels preparing themselves to blow the trumpet but they wait: They are waiting for the prayers to be presented to God.
+This is what follows but there is an important element to consider: The angels who have been told to blow their trumpets - wait.  Why? They are waiting for the prayers of the saints to be presented to God.
 
-What a statement: The prayers cause the trumpets as well as Jesus death on the cross caused the seals and the passion of God the bowls. What a statement about the importance of prayer.
+What a statement!  The prayers of the saints cause the trumpets to be sounded and the ensuing events. Just as Jesus' death on the cross caused the seals to be opened and the Wrath of God the bowls to be poured out. John the writer is making a statement about the importance of prayer.
 
-## The trumpets
+## The Trumpets
 
-The trumpets do mainly one thing: The strip away all securities that people have
+The trumpets when sounded, effect mainly one thing: They strip away all securities that people have
 - water
 - food
 - orientation
 - trade/economy
 
-But it continues, now cause by demonic being: 
+When initiated by the demonic being, they take away from the people: 
 - health and hope
 - life itself
 
-But after all that happens the people still do not change their hearts. They are clinging to the even same demons that took away their hope, well being and even life. This seems to be a dead end. The people are even more closed up now. The solution is the next chapter where the mystery of God is revealed. But before lets have a look at the church.
+Yet after all that happens, the people still do not change their hearts. Instead, they cling still to the same demons that took away their hope, well being and life. The trumpets seem to be a dead end and do not effect a change. Instead they are even more closed to God than before. Suffering, pain and loss don't seem to bring anything. So what does? The Solution is in the next chapter when the second Mystery of God is revealed. Before this, let us take a look at how the church is affected when the trumpets are blown.
 
-She is protected ({{% bible val="by the seal" link="rev:7,1-4" lang="en" %}}) from the {{% bible val="fifth trumpet" link="rev:9,4-6" lang="en" %}} - they will not loose hope while endurung all the trouble and even loosing their live. But enduring all the loss of the same securites and even their lives make this a great testimony to let people see what are real securities.
+She is protected ({{% bible val="by the seal" link="rev:7,1-4" lang="en" %}}) from the {{% bible val="fifth trumpet" link="rev:9,4-6" lang="en" %}} - they will not lose hope while endurung all the trouble and even losing their lives. It is in enduring all the loss of the same securites and even their lives that make this a great testimony - exposing what is real security.
 
 ![](/images/trumpets_en.jpg)
