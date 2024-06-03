@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-{{% bible val="Kapitel 4" link="https://www.bibleserver.com/SLT/Offenbarung4" %}} und {{% bible val="5" link="https://www.bibleserver.com/SLT/Offenbarung5" %}}.
+{{% bible val="Kapitel 4" link="rev:4" lang="SLT" %}} und {{% bible val="5" link="rev:5" lang="SLT" %}}.
 
 ## Die Antwort auf alle Fragen
 
@@ -33,7 +33,7 @@ Dies erfordert ein besseres Verständnis der Plagen, aber es gibt mehrere Anzeic
 
 ## Die Schriftrolle
 
-Die {{% bible val="Schriftrolle mit den sieben Siegeln" link="https://www.bibleserver.com/SLT/Offenbarung5%3A1-5" %}} ist das erste, was in dem Buch sehr seltsam ist. Aber zur Zeit des ersten Lesers war es ganz normal. Es handelte sich um ein Dokument, das von sieben Zeugen versiegelt wurde, wobei der Inhalt auf der Außenseite zusammengefasst wurde, so dass das Dokument, wenn es geöffnet wird, wie ein Gesetz oder ein Testament wirksam wird.
+Die {{% bible val="Schriftrolle mit den sieben Siegeln" link="rev:5,1-5" lang="SLT" %}} ist das erste, was in dem Buch sehr seltsam ist. Aber zur Zeit des ersten Lesers war es ganz normal. Es handelte sich um ein Dokument, das von sieben Zeugen versiegelt wurde, wobei der Inhalt auf der Außenseite zusammengefasst wurde, so dass das Dokument, wenn es geöffnet wird, wie ein Gesetz oder ein Testament wirksam wird.
 
 Die Frage, wer würdig ist, es zu öffnen, ist nicht "wer darf es lesen", sondern "wer darf es vollstrecken". Auch wenn hier nicht ganz klar ist, was der Inhalt ist, scheint es der Plan Gottes zu sein, denn Johannes ist am Boden zerstört, weil niemand für würdig befunden wird, die Schriftrolle zu öffnen.
 
@@ -45,5 +45,5 @@ In der prophetischen Literatur **sehen** wir normalerweise eine Vision, bei der 
 
 ![](/images/hear_de.jpg)
 
-Dies wird hier umgedreht: Das sehr bekannte Thema des Messias, der die Herrscher stürzt, wird durch das Opferlamm erklärt. Das ist der Weg, wie Gott diese Welt erobert und Gericht hält. Genau das gleiche Bild haben wir später mit den {{% bible val="144.000" link="https://www.bibleserver.com/SLT/Offenbarung7%3A5-17" %}} (eine Armee, die eigentlich Anbeter sind, die aus der Trübsal kommen).
+Dies wird hier umgedreht: Das sehr bekannte Thema des Messias, der die Herrscher stürzt, wird durch das Opferlamm erklärt. Das ist der Weg, wie Gott diese Welt erobert und Gericht hält. Genau das gleiche Bild haben wir später mit den {{% bible val="144.000" link="rev:7,5-17" lang="SLT" %}} (eine Armee, die eigentlich Anbeter sind, die aus der Trübsal kommen).
 

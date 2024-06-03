@@ -32,17 +32,17 @@ The stronger had authority over the land and people (he sets up a king and owns 
 - supports the weaker with soldiers and tribute, and
 - the stronger is obliged to protect the weaker.
 
-An example is{{% bible val=" Joshua and the Gibeonites, who deceived him into making a covenant" link="https://www.bibleserver.com/NIV/Joshua9" %}}. When {{% bible val="they were attacked he had to protect them even though he did not like them" link="https://www.bibleserver.com/NIV/Joshua10%3A1-14" %}}.
+An example is{{% bible val=" Joshua and the Gibeonites, who deceived him into making a covenant" link="jos:9" lang="NIV" %}}. When {{% bible val="they were attacked he had to protect them even though he did not like them" link="jos:10,1-14" lang="NIV" %}}.
 
 If the weaker one broke the covenant (usually when he stopped paying tribute), he lost that land. The weaker one was not allowed to make such a covenant with others, because you can only have one father. (Covenants between several equals are possible, since you can have several brothers. A strong one can have several treaties with weaker ones, as a father can have many sons).
 
 The Bible is full with covenants between people
 
-- {{% bible val="Abraham and Abimelech" link="https://www.bibleserver.com/NIV/Genesis21%3A22-32" %}},
-- {{% bible val="Isaak and the Philistines" link="https://www.bibleserver.com/NIV/Genesis26%3A12-33" %}},
-- {{% bible val="Jacob and Laban" link="https://www.bibleserver.com/NIV/Genesis31%3A22-54" %}},
-- {{% bible val="Gilead" link="https://www.bibleserver.com/NIV/1%20Samuel11%3A1-11" %}},
-- {{% bible val="Ahab" link="https://www.bibleserver.com/NIV/1%20Kings20%3A1-34" %}}.
+- {{% bible val="Abraham and Abimelech" link="gen:21,22-32" lang="NIV" %}},
+- {{% bible val="Isaak and the Philistines" link="gen:26,12-33" lang="NIV" %}},
+- {{% bible val="Jacob and Laban" link="gen:31,22-54" lang="NIV" %}},
+- {{% bible val="Gilead" link="1sa:11,1-11" lang="NIV" %}},
+- {{% bible val="Ahab" link="1ki:20,1-34" lang="NIV" %}}.
 
 “Making a covenant” literally means “cutting a covenant”. This has the following background: During the covenant ceremonies a sacrifice was offered to
 
@@ -52,11 +52,11 @@ The Bible is full with covenants between people
 ## The covenant with Abraham
 
 <a name="d269"></a>
-In the Bible the story of {{% bible val="Abraham describes such a scene" link="https://www.bibleserver.com/NIV/Genesis15" %}}. The covenant with Abraham is defined in more detail ({{% bible val="when circumcision is added" link="https://www.bibleserver.com/NIV/Genesis17" %}})
+In the Bible the story of {{% bible val="Abraham describes such a scene" link="gen:15" lang="NIV" %}}. The covenant with Abraham is defined in more detail ({{% bible val="when circumcision is added" link="gen:17" lang="NIV" %}})
 
-But here the foundation is given. God promises land and heirs. Then we have the sacrifice scene. The odd thing here is {{% bible val="that it is not Abraham as the weaker one who goes through the animals, but God Himself" link="https://www.bibleserver.com/NIV/Genesis15%3A17" %}}, so that He will carry the breaking of the covenant from Abraham’s side.
+But here the foundation is given. God promises land and heirs. Then we have the sacrifice scene. The odd thing here is {{% bible val="that it is not Abraham as the weaker one who goes through the animals, but God Himself" link="gen:15,17" lang="NIV" %}}, so that He will carry the breaking of the covenant from Abraham’s side.
 
-The covenant before was with {{% bible val="Noah which was one-sided" link="https://www.bibleserver.com/NIV/Genesis9%3A8-17" %}} (only God the stronger promised something)!
+The covenant before was with {{% bible val="Noah which was one-sided" link="gen:9,8-17" lang="NIV" %}} (only God the stronger promised something)!
 
 ## The covenant with Israel
 
@@ -75,14 +75,14 @@ The covenant is kept in the house of the gods of both parties and is regularly r
 
 This pattern is also found in the covenant that God made with Israel:
 
-- Preambel: {{% bible val="I am the Lord your God." link="https://www.bibleserver.com/NIV/Exodus20%3A2" %}}
-- Prologue: {{% bible val="Who brought you out of Egypt out of the land of slavery" link="https://www.bibleserver.com/NIV/Exodus20%3A2" %}}.
-- Commandments: First (implicite): {{% bible val="Have only one God" link="https://www.bibleserver.com/NIV/Exodus20%3A3-6" %}}, included in the 10 Commandments.
-- {{% bible val="Blessing" link="https://www.bibleserver.com/NIV/Deuteronomy28%3A1-14" %}} and {{% bible val="Course" link="https://www.bibleserver.com/NIV/Deuteronomy28%3A15-68" %}}: {{% bible val="consequential in exile, but gradually for education " link="https://www.bibleserver.com/NIV/Leviticus26%3A1-46" %}}(“if you still do not listen, I will”).
-- Witnesses: {{% bible val="heaven and earth" link="https://www.bibleserver.com/NIV/Deuteronomy30%3A19" %}}.
+- Preambel: {{% bible val="I am the Lord your God." link="exo:20,2" lang="NIV" %}}
+- Prologue: {{% bible val="Who brought you out of Egypt out of the land of slavery" link="exo:20,2" lang="NIV" %}}.
+- Commandments: First (implicite): {{% bible val="Have only one God" link="exo:20,3-6" lang="NIV" %}}, included in the 10 Commandments.
+- {{% bible val="Blessing" link="deu:28,1-14" lang="NIV" %}} and {{% bible val="Course" link="deu:28,15-68" lang="NIV" %}}: {{% bible val="consequential in exile, but gradually for education " link="lev:26,1-46" lang="NIV" %}}(“if you still do not listen, I will”).
+- Witnesses: {{% bible val="heaven and earth" link="deu:30,19" lang="NIV" %}}.
 
-The requirement to {{% bible val="read it again" link="https://www.bibleserver.com/NIV/Deuteronomy31%3A9-13" %}}, even {{% bible val="for the king" link="https://www.bibleserver.com/NIV/Deuteronomy17%3A18-19" %}}. There {{% bible val="was a meal together" link="https://www.bibleserver.com/NIV/Exodus24%3A1-12" %}}, and each party got a copy of the commandments (one tablet stays with God in the temple, the other with the God of Israel — so both in the temple — that’s why Moses had two tablets).
+The requirement to {{% bible val="read it again" link="deu:31,9-13" lang="NIV" %}}, even {{% bible val="for the king" link="deu:17,18-19" lang="NIV" %}}. There {{% bible val="was a meal together" link="exo:24,1-12" lang="NIV" %}}, and each party got a copy of the commandments (one tablet stays with God in the temple, the other with the God of Israel — so both in the temple — that’s why Moses had two tablets).
 
-God also calls {{% bible val="himself the Father of Israel" link="https://www.bibleserver.com/NIV/Exodus3%3A6" %}}.
+God also calls {{% bible val="himself the Father of Israel" link="exo:3,6" lang="NIV" %}}.
 
 The Bible uses the word “heset” = “covenant loyalty” which is a word that can be described by “love”, “goodness”, “mercy” or “faithfulness”.

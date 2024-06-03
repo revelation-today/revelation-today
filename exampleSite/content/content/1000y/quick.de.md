@@ -9,7 +9,7 @@ next: /content/paradise/quick
 docType: quick
 ---
 
-{{% bible val="Kapitel 20" link="https://www.bibleserver.com/SLT/Offenbarung20" %}}
+{{% bible val="Kapitel 20" link="rev:20" lang="SLT" %}}
 
 
 ## Überblick
@@ -32,10 +32,10 @@ Auch wenn die Kirche in Schwäche handelt, regiert die Kirche.
 
 ## Besondere Fragen
 
-Warum wird {{% bible val="enthaupted" link="https://www.bibleserver.com/SLT/Offenbarung20%3A4" %}} erwähnt? 
+Warum wird {{% bible val="enthaupted" link="rev:20,4" lang="SLT" %}} erwähnt? 
 
 Das Todesurteil in dieser Zeit bedeutet, dass Menschen im Grunde über einen langen Zeitraum zu Tode gefoltert werden. Das Privileg eines schnellen Todes (Enthauptung) wurde nur hohen Adligen wie Königen gewährt. Dieser Ausdruck besagt also, dass wir in unserem Tod wie Könige behandelt werden.
 
-Was ist der {{% bible val="erste und zweite Tod/die Auferstehung" link="https://www.bibleserver.com/SLT/Offenbarung20%3A5-6" %}}?
+Was ist der {{% bible val="erste und zweite Tod/die Auferstehung" link="rev:20,5-6" lang="SLT" %}}?
 
 Der erste Tod bezieht sich auf unser ursprüngliches Leben, während der zweite Tod sich auf all die Dinge bezieht, die wir als Neugeborene erleben. Wir beginnen ein neues Leben (das alte ist vorbei) und wir werden die zweite Auferstehung erleben, wenn wir ein zweites Leben haben.

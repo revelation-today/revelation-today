@@ -16,15 +16,15 @@ But the story begins in Genesis and goes all the way to Revelation and is much b
 
 ## The garden Eden as place of fellowship with God
 
-It begins in the Garden of Eden. God creates man and woman and has fellowship with them by {{% bible val="creating a garden for them to tend" link="https://www.bibleserver.com/NIV/Genesis2%3A8-15" %}}, where He {{% bible val="met with them regularly" link="https://www.bibleserver.com/NIV/Genesis3%3A8-9" %}}. 
+It begins in the Garden of Eden. God creates man and woman and has fellowship with them by {{% bible val="creating a garden for them to tend" link="gen:2,8-15" lang="NIV" %}}, where He {{% bible val="met with them regularly" link="gen:3,8-9" lang="NIV" %}}. 
 
-Because to the fall of man, both had to leave the garden. The {{% bible val="ground for planting was cursed" link="https://www.bibleserver.com/NIV/Genesis3%3A17-19" %}}, but this was made worse {{% bible val="when Cain killed Abel" link="https://www.bibleserver.com/NIV/Genesis4%3A12" %}}.
+Because to the fall of man, both had to leave the garden. The {{% bible val="ground for planting was cursed" link="gen:3,17-19" lang="NIV" %}}, but this was made worse {{% bible val="when Cain killed Abel" link="gen:4,12" lang="NIV" %}}.
 
-This was to much to Cain, and God had mercy and {{% bible val="made a sign on him to protect him" link="https://www.bibleserver.com/NIV/Genesis4%3A13-15" %}}. But Cain {{% bible val="sought his own security and built a city" link="https://www.bibleserver.com/NIV/Genesis4%3A16-17" %}}, and his successors built {{% bible val="their security and provision by establishing culture and progress" link="https://www.bibleserver.com/NIV/Genesis4%3A16-17" %}}. 
+This was to much to Cain, and God had mercy and {{% bible val="made a sign on him to protect him" link="gen:4,13-15" lang="NIV" %}}. But Cain {{% bible val="sought his own security and built a city" link="gen:4,16-17" lang="NIV" %}}, and his successors built {{% bible val="their security and provision by establishing culture and progress" link="gen:4,16-17" lang="NIV" %}}. 
 
-Cain’s line ends with Lamech, {{% bible val="who mocks God’s protection of Cain" link="https://www.bibleserver.com/NIV/Genesis4%3A22-24" %}}.Towns as mens refugeAdam gets a new son and {{% bible val="from that time on people begin to connect with God" link="https://www.bibleserver.com/NIV/Genesis4%3A25-26" %}}. But the {{% bible val="city was still an important feature" link="https://www.bibleserver.com/NIV/Genesis10%3A8-12" %}} that ended up in disaster in {{% bible val="the Tower to Babel" link="https://www.bibleserver.com/NIV/Genesis11%3A1-9" %}}. 
+Cain’s line ends with Lamech, {{% bible val="who mocks God’s protection of Cain" link="gen:4,22-24" lang="NIV" %}}.Towns as mens refugeAdam gets a new son and {{% bible val="from that time on people begin to connect with God" link="gen:4,25-26" lang="NIV" %}}. But the {{% bible val="city was still an important feature" link="gen:10,8-12" lang="NIV" %}} that ended up in disaster in {{% bible val="the Tower to Babel" link="gen:11,1-9" lang="NIV" %}}. 
 
-These people wanted to make a name for themselves, but {{% bible val="God chose to make a name out of Abraham" link="https://www.bibleserver.com/NIV/Genesis12%3A1-3" %}}, from whom Israel eventually came.
+These people wanted to make a name for themselves, but {{% bible val="God chose to make a name out of Abraham" link="gen:12,1-3" lang="NIV" %}}, from whom Israel eventually came.
 
 ## God comes to the town
 
@@ -34,15 +34,15 @@ The Temple was covered with elements from the Garden of Eden, reflecting that �
 
 The most holy part of the Temple was the Holy of Holies, where only the High Priest could enter once a year on the Day of Atonement. This was the place where Moses communicated with God and where the presence of God is.
 
-God leaves with a promise to combine city and gardenWhen Israel broke the covenant with God, {{% bible val="His Presence left the Temple" link="https://www.bibleserver.com/NIV/Ezekiel10%3A18-19" %}}, but later in the book the {{% bible val="return of God is promised (through the East Gate" link="https://www.bibleserver.com/NIV/Ezekiel43%3A1-2" %}}). 
+God leaves with a promise to combine city and gardenWhen Israel broke the covenant with God, {{% bible val="His Presence left the Temple" link="ezk:10,18-19" lang="NIV" %}}, but later in the book the {{% bible val="return of God is promised (through the East Gate" link="ezk:43,1-2" lang="NIV" %}}). 
 
-In the context of these chapters, a new aspect is mentioned that combines the image of the temple with that of the garden. It{{% bible val=" is the vision of a brook flowing from the altar in the temple and turning into a river that makes everything fertile and growing where it comes from" link="https://www.bibleserver.com/NIV/Ezekiel47" %}}. You will see {{% bible val="this accomplished in the New Jerusalem" link="https://www.bibleserver.com/NIV/Revelation22%3A1-5" %}}. But there is still a long way to go.
+In the context of these chapters, a new aspect is mentioned that combines the image of the temple with that of the garden. It{{% bible val=" is the vision of a brook flowing from the altar in the temple and turning into a river that makes everything fertile and growing where it comes from" link="ezk:47" lang="NIV" %}}. You will see {{% bible val="this accomplished in the New Jerusalem" link="rev:22,1-5" lang="NIV" %}}. But there is still a long way to go.
 
 ## The temple in the New Testament
 
-In the New Testament, {{% bible val="Jesus is the temple" link="https://www.bibleserver.com/NIV/John2%3A19-22" %}}. When He died the veil of the temple (in front of the Holy of Holies) was torn, showing that access to God in the Holy of Holies was open to everyone.
+In the New Testament, {{% bible val="Jesus is the temple" link="jhn:2,19-22" lang="NIV" %}}. When He died the veil of the temple (in front of the Holy of Holies) was torn, showing that access to God in the Holy of Holies was open to everyone.
 
-When Jesus died, {{% bible val="the Temple became the church, just as the church is the body of Christ" link="https://www.bibleserver.com/NIV/1%20Corinthians6%3A19" %}}. 
+When Jesus died, {{% bible val="the Temple became the church, just as the church is the body of Christ" link="1co:6,19" lang="NIV" %}}. 
 
 And in the Book of Revelation, the Church is the Bride of Christ, which is also the New Jerusalem, where the fellowship between God and man is undisturbed.
 

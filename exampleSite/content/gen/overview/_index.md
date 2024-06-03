@@ -74,11 +74,11 @@ And he is the one the devil is trying to copy.
 
 You get more and more glimpses of Jesus, sometimes directly and sometimes through his opposite: how the devil acts to copy him.
 
-The two witnesses in {{% bible val="chapter 11" link="https://www.bibleserver.com/NIV/Revelation11" %}} follow in Jesus’ footsteps from their calling to their death, resurrection, and ascension. And the turning point was not when they performed signs and wonders, but when they gave their lives (and God confirmed them) and many unbelievers worshiped God.
+The two witnesses in {{% bible val="chapter 11" link="rev:11" lang="NIV" %}} follow in Jesus’ footsteps from their calling to their death, resurrection, and ascension. And the turning point was not when they performed signs and wonders, but when they gave their lives (and God confirmed them) and many unbelievers worshiped God.
 
 The church can only be successful if it follows Jesus without compromise.
 
-On the other hand you see the devil in {{% bible val="chapter 13" link="https://www.bibleserver.com/NIV/Revelation13" %}}setting up a counter-trinity that has all the things we think are needed in the church.
+On the other hand you see the devil in {{% bible val="chapter 13" link="rev:13" lang="NIV" %}}setting up a counter-trinity that has all the things we think are needed in the church.
 
 - everyone is amazed
 - all enemies are conquered
@@ -95,14 +95,14 @@ When you think of the “end times,” when Jesus returns, you think of catastro
 
 Even though the book has apocalyptic elements, it challenges that idea.
 
-- Jesus appears as the one who was {{% bible val="pierced" link="https://www.bibleserver.com/NIV/Revelation1%3A7" %}} just before being introduced {{% bible val="as the Son of Man who will judge the world" link="https://www.bibleserver.com/NIV/Revelation1%3A12-16" %}}.
-- The throne room of God mentions elements of grace like the {{% bible val="rainbow" link="https://www.bibleserver.com/NIV/Revelation4%3A3" %}}.
-- The Lion of Judah is actually the {{% bible val="Lamb" link="https://www.bibleserver.com/NIV/Revelation5%3A5-6" %}} of God
-- The {{% bible val="army of the 144.000" link="https://www.bibleserver.com/NIV/Revelation7%3A4-8" %}} is explained as people who {{% bible val="worship" link="https://www.bibleserver.com/NIV/Revelation7%3A9-10" %}} God and later as those who follow the lamb and the {{% bible val="faithful" link="https://www.bibleserver.com/NIV/Revelation14%3A1-5" %}} who come out of the Great Tribulation.
-- The victory of the two witnesses is their {{% bible val="death" link="https://www.bibleserver.com/NIV/Revelation11%3A7-13" %}}.
-- The mysterious place of {{% bible val="Armageddon" link="https://www.bibleserver.com/NIV/Revelation16%3A14" %}} describes the {{% int_link val="defeat of the strong and the victory of the absolute weak" link="/content/bowls/expl/the-key-to-armageddon" %}}.
-- The harlot is {{% bible val="destroyed by the beast" link="https://www.bibleserver.com/NIV/Revelation17%3A16" %}} on which she {{% bible val="sat" link="https://www.bibleserver.com/NIV/Revelation17%3A3" %}}.
-- Jesus comes and {{% bible val="kills the armies with the sword of his mouth" link="https://www.bibleserver.com/NIV/Revelation19%3A21" %}}.
+- Jesus appears as the one who was {{% bible val="pierced" link="rev:1,7" lang="NIV" %}} just before being introduced {{% bible val="as the Son of Man who will judge the world" link="rev:1,12-16" lang="NIV" %}}.
+- The throne room of God mentions elements of grace like the {{% bible val="rainbow" link="rev:4,3" lang="NIV" %}}.
+- The Lion of Judah is actually the {{% bible val="Lamb" link="rev:5,5-6" lang="NIV" %}} of God
+- The {{% bible val="army of the 144.000" link="rev:7,4-8" lang="NIV" %}} is explained as people who {{% bible val="worship" link="rev:7,9-10" lang="NIV" %}} God and later as those who follow the lamb and the {{% bible val="faithful" link="rev:14,1-5" lang="NIV" %}} who come out of the Great Tribulation.
+- The victory of the two witnesses is their {{% bible val="death" link="rev:11,7-13" lang="NIV" %}}.
+- The mysterious place of {{% bible val="Armageddon" link="rev:16,14" lang="NIV" %}} describes the {{% int_link val="defeat of the strong and the victory of the absolute weak" link="/content/bowls/expl/the-key-to-armageddon" %}}.
+- The harlot is {{% bible val="destroyed by the beast" link="rev:17,16" lang="NIV" %}} on which she {{% bible val="sat" link="rev:17,3" lang="NIV" %}}.
+- Jesus comes and {{% bible val="kills the armies with the sword of his mouth" link="rev:19,21" lang="NIV" %}}.
 
 This means that the “apocalyptic events” are probably very different than we think. The wording of other passages also casts doubt on war and disaster being the main theme of the book.
 
@@ -111,9 +111,9 @@ The main themes of the book are worship, true witness, and perseverance. They ar
 ## The Antichrist
 
 <a name="dd7a"></a>
-Now, if you read carefully, you will see that this word does not appear in the book, but in the {{% bible val="epistle of John" link="https://www.bibleserver.com/NIV/1%20John2%3A18" %}} (and there he talks about many of them in his day). But the principle is shown in the book. Anti can mean not only “against,” but also “instead. And there are many places where he tries to be instead of Jesus.
+Now, if you read carefully, you will see that this word does not appear in the book, but in the {{% bible val="epistle of John" link="1jn:2,18" lang="NIV" %}} (and there he talks about many of them in his day). But the principle is shown in the book. Anti can mean not only “against,” but also “instead. And there are many places where he tries to be instead of Jesus.
 
-He appears {{% bible val="in the first seal as a savior" link="https://www.bibleserver.com/NIV/Revelation6%3A1-2" %}}, the imitates the {{% bible val="Trinity of God" link="https://www.bibleserver.com/NIV/Revelation13" %}} and the harlot is a {{% bible val="perverted image of the Bride of Christ" link="https://www.bibleserver.com/NIV/Revelation17%3A1-6" %}}.
+He appears {{% bible val="in the first seal as a savior" link="rev:6,1-2" lang="NIV" %}}, the imitates the {{% bible val="Trinity of God" link="rev:13" lang="NIV" %}} and the harlot is a {{% bible val="perverted image of the Bride of Christ" link="rev:17,1-6" lang="NIV" %}}.
 
 These chapters are more about the pitfalls of the church and what is not essential:
 
@@ -130,7 +130,7 @@ If you think the defining element of the church is miracles, power over evil, an
 The weapons are very different and have a different purpose than the beast. It is not the destruction of the enemy, but his conversion.
 
 - Worship: Actually, this is the main theme of this book. Worship is the answer to the failures of the seven churches, it is the main activity of the 144,000, it is the goal of the whole world-to finally worship God. This also has to do with faithfulness. Whatever happens, stay with God and follow His way.
-- Testimony: If you read it with awareness, you will see that it is everywhere. It is about living and imitating Christ to the point of death. That was the thing that turned the situation around in chapter 11. Satan was defeated by the blood of Jesus and the {{% bible val="testimony" link="https://www.bibleserver.com/NIV/Revelation12%3A11" %}} in chapter 12. Read it for yourself and see how many times you find testimony or witness and in what situations.
+- Testimony: If you read it with awareness, you will see that it is everywhere. It is about living and imitating Christ to the point of death. That was the thing that turned the situation around in chapter 11. Satan was defeated by the blood of Jesus and the {{% bible val="testimony" link="rev:12,11" lang="NIV" %}} in chapter 12. Read it for yourself and see how many times you find testimony or witness and in what situations.
 - Prayer: It is not mentioned often, in fact only once, but in a central part: It set the trumpets in motion.
 - Conquering and enduring: The saints take time to conquer and often have to persevere. They don’t push or force things, but they persevere.
 

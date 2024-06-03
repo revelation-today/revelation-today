@@ -8,7 +8,7 @@ next: /content/1000y/quick
 docType: quick
 ---
 
-{{% bible val="Kapitel 17" link="https://www.bibleserver.com/NIV/Revelation17" %}}, {{% bible val="18" link="https://www.bibleserver.com/NIV/Revelation18" %}} und {{% bible val="19" link="https://www.bibleserver.com/NIV/Revelation19" %}}.
+{{% bible val="Kapitel 17" link="rev:17" lang="NIV" %}}, {{% bible val="18" link="rev:18" lang="NIV" %}} und {{% bible val="19" link="rev:19" lang="NIV" %}}.
 
 ## Das Geheimnis der Hure?
 
@@ -20,7 +20,7 @@ Das Tier selbst wird mit der Kontrolle über die Könige der Erde beschrieben.
 
 ![](/images/Hure+Tier_de.jpg)
 
-Dies scheint eine unaufhaltsame Kraft gegen die Heiligen zu sein. Aber hier kommt die Ironie: Das Tier ({{% bible val="das erste Tier aus Kapitel 13, das dort als unbesiegbar dargestellt wurde" link="https://www.bibleserver.com/NIV/Revelation13%3A3-4" %}}) ist alles andere als unbesiegbar, sondern wird im Vergleich zu {{% bible val="Gott" link="https://www.bibleserver.com/NIV/Revelation1%3A8" %}} als {{% bible val="unzuverlässig" link="https://www.bibleserver.com/NIV/Revelation17%3A8-11" %}} verspottet.
+Dies scheint eine unaufhaltsame Kraft gegen die Heiligen zu sein. Aber hier kommt die Ironie: Das Tier ({{% bible val="das erste Tier aus Kapitel 13, das dort als unbesiegbar dargestellt wurde" link="rev:13,3-4" lang="NIV" %}}) ist alles andere als unbesiegbar, sondern wird im Vergleich zu {{% bible val="Gott" link="rev:1,8" lang="NIV" %}} als {{% bible val="unzuverlässig" link="rev:17,8-11" lang="NIV" %}} verspottet.
 
 Außerdem wird es dem Tier und der Hure nicht gelingen, die Heiligen zu überwinden, sondern sie werden von den Königen vernichtet, die ihre ganze Macht dem Tier gegeben haben. Wie kann das geschehen? Weil Gott es so bestimmt hat. Wir werden später sehen, warum.
 

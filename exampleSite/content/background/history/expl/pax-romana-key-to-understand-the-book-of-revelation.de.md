@@ -54,7 +54,7 @@ Viele Städte (vor allem in Kleinasien, wo sich die Gemeinden befanden, an die d
 Für die Christen gab es mehrere große Probleme.
 
 - Jesus war ihr Herrscher (König der Könige), besonders die Evangelien sind nach euangeleon (was die Proklamation der Geburt eines neuen Kaisers bedeutet).
-- Ihre {{% bible val="Versorgung hing von Jesus ab" link="https://www.bibleserver.com/SLT/Matth%C3%A4us6%2C25-34" %}} und nicht vom Kaiser.
+- Ihre {{% bible val="Versorgung hing von Jesus ab" link="mat:6,25-34" lang="SLT" %}} und nicht vom Kaiser.
 - Einige Aktivitäten im Zusammenhang mit dem römischen Frieden widersprachen ihrem Glauben (z.B. Orgien im Rahmen von Betriebsfeiern).
 - Auch die Mittel zur “Befriedung” des Römischen Reiches standen nicht im Einklang mit dem christlichen Glauben.
 - Man warf ihnen Intoleranz vor, weil sie nur an einen Gott glaubten, während das Römische Reich jeden anderen Gott akzeptierte.
@@ -62,7 +62,7 @@ Für die Christen gab es mehrere große Probleme.
 
 Daraus ergaben sich drei Möglichkeiten:
 
-- Du verleugnest deinen Glauben, denn {{% bible val="du kannst nur einen Herrn haben" link="https://www.bibleserver.com/SLT/Matth%C3%A4us6%2C24" %}}: Jesus oder den Kaiser.
+- Du verleugnest deinen Glauben, denn {{% bible val="du kannst nur einen Herrn haben" link="mat:6,24" lang="SLT" %}}: Jesus oder den Kaiser.
 - Du lebst deinen Glauben in aller Konsequenz und riskierst soziale und wirtschaftliche Isolation und Ruin, Gefängnis oder gar Tod oder
 - Du spielst äußerlich mit (bekennst dich mit dem Mund zum Kaiser), bleibst aber mit dem Herzen Jesus treu, was Heuchelei wäre.
 

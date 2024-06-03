@@ -7,7 +7,7 @@ next: /content/harvest/story/story
 docType: story
 ---
 
-{{% bible val="Kapitel 11–13" link="https://www.bibleserver.com/SLT/Offenbarung11" %}}
+{{% bible val="Kapitel 11–13" link="rev:11" lang="SLT" %}}
 
 <a name="e39e"></a>
 Dies ist die Zeit, in der wir die materielle und geistige Welt so sehen, wie sie wirklich ist. Zuallererst: Der Tempel der Gegenwart Gottes ist kein Ort, an dem wir Gunst erlangen müssen, um Gott zu gefallen, sondern der Ort, an dem wir unser Herz zeigen, indem wir ihm in dieser Welt treu und liebevoll dienen.

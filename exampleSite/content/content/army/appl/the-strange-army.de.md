@@ -19,7 +19,7 @@ Du hast sicher schon von den 144.000 gehört, aber wer sind sie, warum werden si
 ## Unser Text
 
 <a name="804c"></a>
-Wir bewegen uns zielstrebig auf {{% bible val="Kapitel 7" link="https://www.bibleserver.com/SLT/Offenbarung7" %}} zu.
+Wir bewegen uns zielstrebig auf {{% bible val="Kapitel 7" link="rev:7" lang="SLT" %}} zu.
 
 ## Die Armee Gottes
 

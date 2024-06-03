@@ -7,7 +7,7 @@ next: /content/harvest/story/story
 docType: story
 ---
 
-{{% bible val="Chapter 11–13" link="https://www.bibleserver.com/NIV/Revelation11" %}})
+{{% bible val="Chapter 11–13" link="rev:11" lang="NIV" %}})
 
 <a name="e39e"></a>
 This is the time when we see the material and spiritual world as they really are. First of all: The temple of Gods presence is not a place where we have to gain favor to please God but the place where we show our heart by loving loyal and faithful for him in this world.

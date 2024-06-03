@@ -27,8 +27,8 @@ Kutsal Kitap Yeni Antlaşma’da İsa’dan söz ederken çok zorlayıcıdır. [
 
 Ama bu devam eder. Bundan hemen sonra Markos, Rab’bin gününün duyurulduğu Yeşaya’ya atıfta bulunur. İsa, İsrail’in tarihi ve vaatleriyle bağlantılı birçok şey yapmıştır:
 
-- {{% bible val="12 öğrencinin" link="https://www.bibleserver.com/TR/Markos3%3A13-19" %}} bir {{% bible val="dağa" link="https://www.bibleserver.com/TR/Luka6%3A12-13" %}} çağrılması, Sina Dağı’nda antlaşmanın yapıldığı İsrail’in (12 kabileden) yeni yaratılışını hatırlatır
-- {{% bible val="İsa’nın çölde 40 gün süren ayartılmaları" link="https://www.bibleserver.com/TR/Luka4%3A1-13" %}}, İsrail’in Mısır’dan Çıkış sırasında çölde karşılaştığı ve başarısız olduğu (su ve ekmek sağlanması, mucizeler, putperestlik) ve bu nedenle çölde 40 yıl dolaşmak zorunda kaldığı (İsrail’in 40 gün boyunca dolaşan casuslara inanmasından sonra) ayartmaları hatırlatır — ilginçtir ki İsa’nın MS 30'da görevini tamamlamasından 40 yıl sonra tapınak yıkılmıştır
+- {{% bible val="12 öğrencinin" link="mrk:3,13-19" lang="TR" %}} bir {{% bible val="dağa" link="luk:6,12-13" lang="TR" %}} çağrılması, Sina Dağı’nda antlaşmanın yapıldığı İsrail’in (12 kabileden) yeni yaratılışını hatırlatır
+- {{% bible val="İsa’nın çölde 40 gün süren ayartılmaları" link="luk:4,1-13" lang="TR" %}}, İsrail’in Mısır’dan Çıkış sırasında çölde karşılaştığı ve başarısız olduğu (su ve ekmek sağlanması, mucizeler, putperestlik) ve bu nedenle çölde 40 yıl dolaşmak zorunda kaldığı (İsrail’in 40 gün boyunca dolaşan casuslara inanmasından sonra) ayartmaları hatırlatır — ilginçtir ki İsa’nın MS 30'da görevini tamamlamasından 40 yıl sonra tapınak yıkılmıştır
 - İsa’nın iyileştirmeleri Tanrı’nın yaklaşan krallığının bir işaretidir
 - cinlerin kovulması (Eski Ahit’te gerçekleşmedi) İsrail’in düşmanlarına
 - karşı Tanrıların geri getirici eylemini tanımlar
@@ -39,26 +39,26 @@ Ama bu devam eder. Bundan hemen sonra Markos, Rab’bin gününün duyurulduğu 
 ## İsa’nın öğretileri
 
 <a name="9f5f"></a>
-İsa’nın öğretileri İsrail’e karşı çok çatışmacıdır, {{% bible val="örneğin İsrail’in budanması anlamına gelen Yeşaya’dan meyve vermeyen bağ benzetmesini alır" link="https://www.bibleserver.com/TR/Ye%C5%9Faya5%3A1-7" %}}. {{% bible val="Ancak İsa bu benzetmeyi, kendisini reddetmeleri halinde İsrail’i tamamen yok etme yargısıyla birlikte yeniden kullanır." link="https://www.bibleserver.com/TR/Matta21%3A33-45" %}}
+İsa’nın öğretileri İsrail’e karşı çok çatışmacıdır, {{% bible val="örneğin İsrail’in budanması anlamına gelen Yeşaya’dan meyve vermeyen bağ benzetmesini alır" link="isa:5,1-7" lang="TR" %}}. {{% bible val="Ancak İsa bu benzetmeyi, kendisini reddetmeleri halinde İsrail’i tamamen yok etme yargısıyla birlikte yeniden kullanır." link="mat:21,33-45" lang="TR" %}}
 
-Rab’bin Günü, Hezekiel 40–48'de olduğu gibi Yeruşalim’in ve tapınağın restorasyonu değil, {{% bible val="Yeruşalim’in ve tapınağın yıkımı olacaktır" link="https://www.bibleserver.com/TR/Markos13" %}}.
+Rab’bin Günü, Hezekiel 40–48'de olduğu gibi Yeruşalim’in ve tapınağın restorasyonu değil, {{% bible val="Yeruşalim’in ve tapınağın yıkımı olacaktır" link="mrk:13" lang="TR" %}}.
 
 Krallığın gelişi (İsrail Rab’bin Günü ile birlikte hüküm sürecektir) gizli bir şekilde gelecektir
 
-- {{% bible val="eki̇ci̇ benzetmesi̇" link="https://www.bibleserver.com/TR/Markos4%3A1-20" %}}
-- {{% bible val="tarladaki yabani otlar" link="https://www.bibleserver.com/TR/Matta13%3A24-30" %}} ya {{% bible val="da balık ağı benzetmesi" link="https://www.bibleserver.com/TR/Matta13%3A47-50" %}}
-- {{% bible val="tohumun büyümesi" link="https://www.bibleserver.com/TR/Markos4%3A26-29" %}}
-- {{% bible val="Hardal tohumu benzetmesi" link="https://www.bibleserver.com/TR/Markos4%3A30-32" %}} (1 mm’lik bir ağaç görür, ama ağaç iki ya da üç metredir), {{% bible val="ağaç Tanrı’nın krallığının bir resmidir," link="https://www.bibleserver.com/TR/Hezekiel17" %}} bu yüzden en küçük olan en büyük olur ({{% bible val="İsrail tarafından bilinmelidir" link="https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B17%3A7" %}})
-- {{% bible val="Tüm hamuru değiştiren maya" link="https://www.bibleserver.com/TR/Matta13%3A33" %}} (maya Eski Ahit’te Tanrı’nın krallığı için bir resim olarak hiç kullanılmamıştır) — küçük bir miktar gizlide durdurulamaz büyük bir miktara dönüşür
-- {{% bible val="gizli hazine ve inci " link="https://www.bibleserver.com/TR/Matta13%3A44-46" %}}— hazinenin aranması gerekir, bulunursa diğer her şeyden vazgeçilir
+- {{% bible val="eki̇ci̇ benzetmesi̇" link="mrk:4,1-20" lang="TR" %}}
+- {{% bible val="tarladaki yabani otlar" link="mat:13,24-30" lang="TR" %}} ya {{% bible val="da balık ağı benzetmesi" link="mat:13,47-50" lang="TR" %}}
+- {{% bible val="tohumun büyümesi" link="mrk:4,26-29" lang="TR" %}}
+- {{% bible val="Hardal tohumu benzetmesi" link="mrk:4,30-32" lang="TR" %}} (1 mm’lik bir ağaç görür, ama ağaç iki ya da üç metredir), {{% bible val="ağaç Tanrı’nın krallığının bir resmidir," link="ezk:17" lang="TR" %}} bu yüzden en küçük olan en büyük olur ({{% bible val="İsrail tarafından bilinmelidir" link="deu:7,7" lang="TR" %}})
+- {{% bible val="Tüm hamuru değiştiren maya" link="mat:13,33" lang="TR" %}} (maya Eski Ahit’te Tanrı’nın krallığı için bir resim olarak hiç kullanılmamıştır) — küçük bir miktar gizlide durdurulamaz büyük bir miktara dönüşür
+- {{% bible val="gizli hazine ve inci " link="mat:13,44-46" lang="TR" %}}— hazinenin aranması gerekir, bulunursa diğer her şeyden vazgeçilir
 
 Ayrıca güzel sözlerin açıklaması İsrail için bir meydan okumadır — çünkü bu İsrail’i gerçek İsrail olmaya zorlar çünkü tüm vaatler İsa’ya sadık olanlara verilmiştir:
 
-- {{% bible val="ruhu yoksul olanlar krallığı alır" link="https://www.bibleserver.com/TR/Matta5%3A3" %}}
-- {{% bible val="yas tutanlar (ulusal yeniden doğuşla) teselli edilecek" link="https://www.bibleserver.com/TR/Matta5%3A4" %}}
-- {{% bible val="uysallar toprağı miras alacak" link="https://www.bibleserver.com/TR/Matta5%3A5" %}}
-- {{% bible val="Kalbi temiz olanlar Tanrı’yı görecek" link="https://www.bibleserver.com/TR/Matta5%3A8" %}}
-- {{% bible val="barışı sağlayanlar Tanrı’nın çocukları olarak adlandırılanlardır" link="https://www.bibleserver.com/TR/Matta5%3A9" %}} (İsrail için kullanılan unvan)
+- {{% bible val="ruhu yoksul olanlar krallığı alır" link="mat:5,3" lang="TR" %}}
+- {{% bible val="yas tutanlar (ulusal yeniden doğuşla) teselli edilecek" link="mat:5,4" lang="TR" %}}
+- {{% bible val="uysallar toprağı miras alacak" link="mat:5,5" lang="TR" %}}
+- {{% bible val="Kalbi temiz olanlar Tanrı’yı görecek" link="mat:5,8" lang="TR" %}}
+- {{% bible val="barışı sağlayanlar Tanrı’nın çocukları olarak adlandırılanlardır" link="mat:5,9" lang="TR" %}} (İsrail için kullanılan unvan)
 
 ## Yeni bir düşünce
 
@@ -77,16 +77,16 @@ Birkaç yanlış kavrama vardı
 
 Her şeyden önce İsa çok farklı bir yönetim anlayışını temsil ediyordu.
 
-İkinci olarak İsa, düşmanlarının o dönemde İsrail’e baskı yapan Romalılar olmadığını, {{% bible val="düşmanlarının birçok kez kovduğu cinler olduğunu" link="https://www.bibleserver.com/TR/Markos3%3A22-27" %}} çok açık bir şekilde ifade etmiştir. {{% bible val="Onları kovmak Rab’bin Günü’nün geldiğini gösteren bir işarettir" link="https://www.bibleserver.com/TR/Matta12%3A28" %}}. {{% bible val="Bu durum özellikle onun ölümü için geçerliydi" link="https://www.bibleserver.com/TR/Yuhanna12%3A31-33" %}}
+İkinci olarak İsa, düşmanlarının o dönemde İsrail’e baskı yapan Romalılar olmadığını, {{% bible val="düşmanlarının birçok kez kovduğu cinler olduğunu" link="mrk:3,22-27" lang="TR" %}} çok açık bir şekilde ifade etmiştir. {{% bible val="Onları kovmak Rab’bin Günü’nün geldiğini gösteren bir işarettir" link="mat:12,28" lang="TR" %}}. {{% bible val="Bu durum özellikle onun ölümü için geçerliydi" link="jhn:12,31-33" lang="TR" %}}
 
 Son olarak kalanlar dindar insanlar değil, {{% int_link val="sadece İsa’nın kendisi" link="/bible/daniel/expl/the-son-of-man-and-the-remnant" %}} olan Tanrı’nın antlaşmasına uyanlardır. Diğerleri kalanlar kapsamına girmez ve İsrail’in de içinde bulunduğu yargıya tabi olurlar.
 
 ## Zaten ama henüz değil
 
 <a name="1438"></a>
-{{% bible val="Rab’bin Günü’nün (Tanrı’nın Egemenliği) geldiğini söyler" link="https://www.bibleserver.com/TR/Markos1%3A1-15" %}}. Markos’un Müjdesi, Yeşaya’nın İsrail’in yeniden kuruluşunu anlatan ikinci bölümünü tanıtan görümle başlar. {{% bible val="Vaazında 61. bölümdeki peygamberliğin gerçekleştiğinden söz eder" link="https://www.bibleserver.com/TR/Luka4%3A16-21" %}}: “Rab’bin Ruhu üzerimdedir, çünkü yoksullara müjdeyi duyurmam için beni meshetti. Beni tutsaklara özgürlük, körlere görme yetisini kazandırmak, ezilenleri özgürlüğe kavuşturmak, Rab’bin lütuf yılını duyurmak için gönderdi.”
+{{% bible val="Rab’bin Günü’nün (Tanrı’nın Egemenliği) geldiğini söyler" link="mrk:1,1-15" lang="TR" %}}. Markos’un Müjdesi, Yeşaya’nın İsrail’in yeniden kuruluşunu anlatan ikinci bölümünü tanıtan görümle başlar. {{% bible val="Vaazında 61. bölümdeki peygamberliğin gerçekleştiğinden söz eder" link="luk:4,16-21" lang="TR" %}}: “Rab’bin Ruhu üzerimdedir, çünkü yoksullara müjdeyi duyurmam için beni meshetti. Beni tutsaklara özgürlük, körlere görme yetisini kazandırmak, ezilenleri özgürlüğe kavuşturmak, Rab’bin lütuf yılını duyurmak için gönderdi.”
 
-{{% bible val="Ancak Yeşaya’nın pasajıyla" link="https://www.bibleserver.com/TR/Ye%C5%9Faya61%3A1-2" %}} karşılaştırdığınızda, cümlenin ortasında durduğunu göreceksiniz: “Rab’bin lütuf yılını ve Tanrımızın öç gününü ilan etmek için”
+{{% bible val="Ancak Yeşaya’nın pasajıyla" link="isa:61,1-2" lang="TR" %}} karşılaştırdığınızda, cümlenin ortasında durduğunu göreceksiniz: “Rab’bin lütuf yılını ve Tanrımızın öç gününü ilan etmek için”
 
-İsa yargılamak için gelmedi, çünkü bu kez {{% bible val="herkesi yargılaması gerekecekti" link="https://www.bibleserver.com/TR/Matta11%3A20-24" %}}, bu yüzden Rab’bin Günü’nü ikiye ayırdı.
+İsa yargılamak için gelmedi, çünkü bu kez {{% bible val="herkesi yargılaması gerekecekti" link="mat:11,20-24" lang="TR" %}}, bu yüzden Rab’bin Günü’nü ikiye ayırdı.
 

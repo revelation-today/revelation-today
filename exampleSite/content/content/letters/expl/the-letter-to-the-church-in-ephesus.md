@@ -28,11 +28,11 @@ It was an imp1rtant tourist center because of the Temple of Artemis and had prob
 ## Jesus’ view
 
 <a name="c6bc"></a>
-Jesus approaches the church as the one {{% bible val="who holds the stars and walks among the lampstands" link="https://www.bibleserver.com/NIV/Revelation2%3A1" %}} referring to the key message of {{% bible val="chapter 1" link="https://www.bibleserver.com/NIV/Revelation1%3A20" %}}: to be a light and to depend on Him. If the church does not take this to heart, it will lose its calling!
+Jesus approaches the church as the one {{% bible val="who holds the stars and walks among the lampstands" link="rev:2,1" lang="NIV" %}} referring to the key message of {{% bible val="chapter 1" link="rev:1,20" lang="NIV" %}}: to be a light and to depend on Him. If the church does not take this to heart, it will lose its calling!
 
 But before Jesus addresses the problem he pours out a lot of appraisal:
 
-- He knows their deeds, their hard work and their perseverance. They have been working hard with the temple of Artemis around the corner, {{% bible val="which has already caused an uproar in Ephesus" link="https://www.bibleserver.com/NIV/Acts19%3A23-41" %}}.
+- He knows their deeds, their hard work and their perseverance. They have been working hard with the temple of Artemis around the corner, {{% bible val="which has already caused an uproar in Ephesus" link="act:19,23-41" lang="NIV" %}}.
 - They were not deceived by false teaching or false apostles, which was the problem for some of the other churches.
 - They are enduring hardship in Jesus’ name.
 
@@ -41,7 +41,7 @@ But before Jesus addresses the problem he pours out a lot of appraisal:
 <a name="235e"></a>
 But there is one thing wrong: They have lost their first love. What does that mean? Is it that romantic feeling when they first met Jesus and would do anything for Him?
 
-In {{% bible val="Matthew" link="https://www.bibleserver.com/NIV/Matthew24%3A12-14" %}} it says that love will grow cold and the gospel will be preached to all nations as a witness to them. But what does love have to do with witnessing to the gospel? A great deal.
+In {{% bible val="Matthew" link="mat:24,12-14" lang="NIV" %}} it says that love will grow cold and the gospel will be preached to all nations as a witness to them. But what does love have to do with witnessing to the gospel? A great deal.
 
 - If we love Jesus, we will share His message and love our brothers and sisters and the outside world.
 - If we love our brothers and sisters, we will love Jesus as we see Him in them and preach the gospel to share with the whole world.
@@ -56,4 +56,4 @@ Ephesus may be an established church if they have their way of dealing with spir
 <a name="88fa"></a>
 The promise is to eat of the tree of life, which brings them back to the untroubled relationship with God in the garden. If they want to go on and not be a church that God has no use for, they have to start there.
 
-And they have a {{% bible val="promise in the New Jerusalem" link="https://www.bibleserver.com/NIV/Revelation22%3A1-5" %}}.
+And they have a {{% bible val="promise in the New Jerusalem" link="rev:22,1-5" lang="NIV" %}}.

@@ -12,7 +12,7 @@ docType: quick
 ---
 
 
-{{% bible val="Kapitel 11" link="https://www.bibleserver.com/SLT/Offenbarung11" %}}.
+{{% bible val="Kapitel 11" link="rev:11" lang="SLT" %}}.
 
 In diesem Kapitel wird das Geheimnis Gottes offenbart. 
 
@@ -21,7 +21,7 @@ Das Kapitel besteht aus drei Teilen
 - die zwei Zeugen
 - die Nachwirkungen und die Offenbarung der Gegenwart Gottes
 
-und dies alles wird behandelt (die nächsten drei Kapitel), aber eine seltsame Zeitspanne, die identisch ist und die Zeit vom ersten Kommen Jesu bis zu seinem zweiten Kommen beschreibt: 1260 Tage = 42 Monate = 3,5 Mal (Jahre). Dies ist die Zeit, in der Gott seinen Plan gemäß {{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel9%3A24-27" %}} vollendet und eine Zeit der Frage, wer der wahre Gott ist (basierend auf {{% bible val="Elija" link="https://www.bibleserver.com/SLT/1.K%C3%B6nige19" %}}.
+und dies alles wird behandelt (die nächsten drei Kapitel), aber eine seltsame Zeitspanne, die identisch ist und die Zeit vom ersten Kommen Jesu bis zu seinem zweiten Kommen beschreibt: 1260 Tage = 42 Monate = 3,5 Mal (Jahre). Dies ist die Zeit, in der Gott seinen Plan gemäß {{% bible val="Daniel" link="dan:9,24-27" lang="SLT" %}} vollendet und eine Zeit der Frage, wer der wahre Gott ist (basierend auf {{% bible val="Elija" link="1ki:19" lang="SLT" %}}.
 
 ## Der Tempel
 

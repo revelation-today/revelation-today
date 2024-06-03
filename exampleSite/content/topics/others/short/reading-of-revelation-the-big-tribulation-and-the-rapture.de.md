@@ -20,11 +20,11 @@ Um das besser zu verstehen, müssen wir die Große Trübsal genauer betrachten.
 ## Die große Trübsal
 
 <a name="bab3"></a>
-Wenn man sich die zahlreichen Verweise im Internet oder in populären Literatur ansieht, könnte man meinen, die Bibel sei voll davon. Der Begriff wird jedoch nur {{% bible val="an einer einzigen Stelle im Buch Offenbarung ohne weitere Erklärung erwähnt" link="https://www.bibleserver.com/SLT/Offenbarung7%2C14" %}}.
+Wenn man sich die zahlreichen Verweise im Internet oder in populären Literatur ansieht, könnte man meinen, die Bibel sei voll davon. Der Begriff wird jedoch nur {{% bible val="an einer einzigen Stelle im Buch Offenbarung ohne weitere Erklärung erwähnt" link="rev:7,14" lang="SLT" %}}.
 
 Im Buch der Offenbarung gibt es jedoch einen gewissen Kontext. Im Alten Testament hatte das Volk Gottes nur dann zu leiden (mit Ausnahme der Propheten, die vom Volk Gottes verfolgt wurden), wenn es gesündigt hatte, z.B. wenn es die Armen ausbeutete oder sich anderen Göttern zuwandte.
 
-Aber das änderte sich dramatisch, als Jesus kam. Jetzt mussten Gläubigen leiden, schon allein deshalb, weil die Christen waren. {{% bible val="Das Buch Offenbarung nennt den Grund: Als Jesus am Kreuz starb, verlor Satan seine Position im Himmel und versuchte, so viel Zerstörung wie möglich anzurichten, weil er nichts mehr zu verlieren hatte" link="https://www.bibleserver.com/SLT/Offenbarung12%2C1-12" %}}. Außerdem waren die größten Christenverfolgungen noch nicht geschehen, als das Buch geschrieben wurde.
+Aber das änderte sich dramatisch, als Jesus kam. Jetzt mussten Gläubigen leiden, schon allein deshalb, weil die Christen waren. {{% bible val="Das Buch Offenbarung nennt den Grund: Als Jesus am Kreuz starb, verlor Satan seine Position im Himmel und versuchte, so viel Zerstörung wie möglich anzurichten, weil er nichts mehr zu verlieren hatte" link="rev:12,1-12" lang="SLT" %}}. Außerdem waren die größten Christenverfolgungen noch nicht geschehen, als das Buch geschrieben wurde.
 
 Dies ist wahrscheinlich mit der “Großen Trübsal” gemeint. Sie ist eine alltägliche Realität, aber eine Ausnahme für die Christen der westlichen Welt in dieser Zeit, aber auch heute noch eine Realität in vielen Teilen der Welt.
 

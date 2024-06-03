@@ -41,9 +41,9 @@ In the rest of this article we will focus on these three types, what they are, a
 <a name="b4c1"></a>
 Let us begin with the nature of the letter. There are many aspects that reflect the book as a letter
 
-- {{% bible val="The formal introduction" link="https://www.bibleserver.com/NIV/Revelation1%3A4-6" %}} known from all the other letters in the Bible.
-- {{% bible val="The formal ending" link="https://www.bibleserver.com/NIV/Revelation22%3A21" %}} used in many of the letters in the Bible.
-- The fact that the book is intended {{% bible val="as a letter to seven churches" link="https://www.bibleserver.com/NIV/Revelation1%3A10-11" %}} beginning in {{% bible val="chapters 2 and 3" link="https://www.bibleserver.com/NIV/Revelation2" %}}, but with references throughout, e.g. many of the promises to the specific churches are answered in {{% bible val="chapter 21" link="https://www.bibleserver.com/NIV/Revelation21" %}}
+- {{% bible val="The formal introduction" link="rev:1,4-6" lang="NIV" %}} known from all the other letters in the Bible.
+- {{% bible val="The formal ending" link="rev:22,21" lang="NIV" %}} used in many of the letters in the Bible.
+- The fact that the book is intended {{% bible val="as a letter to seven churches" link="rev:1,10-11" lang="NIV" %}} beginning in {{% bible val="chapters 2 and 3" link="rev:2" lang="NIV" %}}, but with references throughout, e.g. many of the promises to the specific churches are answered in {{% bible val="chapter 21" link="rev:21" lang="NIV" %}}
 
 But the book does not follow [the standard form of a letter in the Bible](https://catholic-resources.org/Bible/NT_Letters.htm). This may be due to the fact that
 
@@ -69,14 +69,14 @@ While this is not entirely incorrect, the focus is different when it comes to th
 The prophetic literature in the Old Testament was based on the covenant at Mount Sinai. There God did not just give a list of rules for people to follow, but a way of thinking:
 
 - All are equal before the law
-- Have mercy on the helpless {{% bible val="as you were slaves before" link="https://www.bibleserver.com/NIV/Exodus20%3A2" %}}, {{% bible val="God protects the helpless" link="https://www.bibleserver.com/NIV/Deuteronomy10%3A18" %}} , e.g. {{% bible val="Lev.23/22" link="https://www.bibleserver.com/NIV/Leviticus23%3A22" %}}
-- The most important law is {{% bible val="to love God and your neighbor" link="https://www.bibleserver.com/NIV/Leviticus19%3A18" %}}, which is {{% bible val="confirmed in the New Testament and explains that everyone is our neighbor" link="https://www.bibleserver.com/NIV/Luke10%3A25-37" %}}
+- Have mercy on the helpless {{% bible val="as you were slaves before" link="exo:20,2" lang="NIV" %}}, {{% bible val="God protects the helpless" link="deu:10,18" lang="NIV" %}} , e.g. {{% bible val="Lev.23/22" link="lev:23,22" lang="NIV" %}}
+- The most important law is {{% bible val="to love God and your neighbor" link="lev:19,18" lang="NIV" %}}, which is {{% bible val="confirmed in the New Testament and explains that everyone is our neighbor" link="luk:10,25-37" lang="NIV" %}}
 
 The prophets came in play when the people did not follow this. The message had several points:
 
 - God gave you the law and look: you have broken it (mostly by following idols, resulting in injustice to the poor).
-- Therefore God will judge you (future aspect) as {{% bible val="described in the law" link="https://www.bibleserver.com/NIV/Leviticus26" %}}. The intention is to train the people of God (see the {{% bible val="repeated term" link="https://www.bibleserver.com/NIV/Leviticus26%3A21" %}} in different variants: if you still do not).
-- But {{% bible val="He will have mercy on them" link="https://www.bibleserver.com/NIV/Leviticus26%3A44" %}} especially {{% bible val="when they learn" link="https://www.bibleserver.com/NIV/Leviticus26%3A40-42" %}}.
+- Therefore God will judge you (future aspect) as {{% bible val="described in the law" link="lev:26" lang="NIV" %}}. The intention is to train the people of God (see the {{% bible val="repeated term" link="lev:26,21" lang="NIV" %}} in different variants: if you still do not).
+- But {{% bible val="He will have mercy on them" link="lev:26,44" lang="NIV" %}} especially {{% bible val="when they learn" link="lev:26,40-42" lang="NIV" %}}.
 
 Thus, the main aspect of the prophetic message is to
 
@@ -89,20 +89,20 @@ This does not mean that this message is limited to the historical situation and 
 
 Revelation uses many prophetic elements
 
-- {{% bible val="Begins" link="https://www.bibleserver.com/NIV/Revelation1%3A1-3" %}} with an element that begins many prophetic books in the Old Testament.
-- It has {{% bible val="vision with a calling" link="https://www.bibleserver.com/NIV/Revelation1%3A9-20" %}} as in {{% bible val="Isa.6" link="https://www.bibleserver.com/NIV/Isaiah6" %}}.
+- {{% bible val="Begins" link="rev:1,1-3" lang="NIV" %}} with an element that begins many prophetic books in the Old Testament.
+- It has {{% bible val="vision with a calling" link="rev:1,9-20" lang="NIV" %}} as in {{% bible val="Isa.6" link="isa:6" lang="NIV" %}}.
 - It uses references from many prophetic book. in the Old Testament like Isaiah, Jeremiah, Daniel, Zechariah, Ezekiel, …
-- The book warns: get out of Babel, {{% bible val="don’t let love don’t grow cold" link="https://www.bibleserver.com/NIV/Revelation2%3A4" %}}, {{% bible val="don’t allow false teaching" link="https://www.bibleserver.com/NIV/Revelation2%3A14-15" %}}, …
-- And it also comforts: {{% bible val="God’s people are protected" link="https://www.bibleserver.com/NIV/Revelation7%3A1-4" %}}, {{% bible val="no one will get lost" link="https://www.bibleserver.com/NIV/Revelation7%3A5-8" %}}, {{% bible val="God’s kingdom will surely come" link="https://www.bibleserver.com/NIV/Revelation21" %}}
+- The book warns: get out of Babel, {{% bible val="don’t let love don’t grow cold" link="rev:2,4" lang="NIV" %}}, {{% bible val="don’t allow false teaching" link="rev:2,14-15" lang="NIV" %}}, …
+- And it also comforts: {{% bible val="God’s people are protected" link="rev:7,1-4" lang="NIV" %}}, {{% bible val="no one will get lost" link="rev:7,5-8" lang="NIV" %}}, {{% bible val="God’s kingdom will surely come" link="rev:21" lang="NIV" %}}
 
 The goal of a prophecy is to change the behavior and often uses emotional scenes to get a response from the reader or listener.
 
-It is not the standard Old Testament prophecy, as visions are often introduced with a simple “and I saw”, whereas in the Old Testament this is {{% bible val="done more elaborately" link="https://www.bibleserver.com/NIV/Zechariah1%3A7" %}}.
+It is not the standard Old Testament prophecy, as visions are often introduced with a simple “and I saw”, whereas in the Old Testament this is {{% bible val="done more elaborately" link="zec:1,7" lang="NIV" %}}.
 
 ## An apocalypse
 
 <a name="2f5c"></a>
-That is the first word of the book: “Apocalypse of Jesus Christ”. This word literally means “revelation” but the direct translation is misleading because this is not a secret future telling about some event in the far or near future. It is also not about the end of the world, but about the end of the evil rulers and society. We know apocalyptic texts only from {{% bible val="Dan.7-12" link="https://www.bibleserver.com/NIV/Daniel7" %}}; {{% bible val="Mk.13" link="https://www.bibleserver.com/NIV/Mark13" %}}; {{% bible val="Mt.24" link="https://www.bibleserver.com/NIV/Matthew24" %}} and {{% bible val="Lk.21" link="https://www.bibleserver.com/NIV/Luke21" %}} and we also have difficulties to understand them.
+That is the first word of the book: “Apocalypse of Jesus Christ”. This word literally means “revelation” but the direct translation is misleading because this is not a secret future telling about some event in the far or near future. It is also not about the end of the world, but about the end of the evil rulers and society. We know apocalyptic texts only from {{% bible val="Dan.7-12" link="dan:7" lang="NIV" %}}; {{% bible val="Mk.13" link="mrk:13" lang="NIV" %}}; {{% bible val="Mt.24" link="mat:24" lang="NIV" %}} and {{% bible val="Lk.21" link="luk:21" lang="NIV" %}} and we also have difficulties to understand them.
 
 But let’s start at the beginning: Apocalypse is a genre like any other. Even if there is no complete definition of what an apocalyptic book is, there are some considerations that can help us.
 

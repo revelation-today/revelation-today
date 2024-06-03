@@ -10,7 +10,7 @@ docType: quick
 ---
 
 
-{{% bible val="Kapitel 15-16" link="https://www.bibleserver.com/SLT/Offenbarung15" %}}
+{{% bible val="Kapitel 15-16" link="rev:15" lang="SLT" %}}
 
 ## Die Schalen
 
@@ -27,19 +27,19 @@ Hier wird uns schnell klar, was Gott tun wird. Das Szenario hier beschreibt, das
 
 ## Armageddon
 
-Es gibt ein sehr interessantes Thema: Harmagedon. Es wird {{% bible val="nur einmal" link="https://www.bibleserver.com/SLT/Offenbarung16%3A12-16" %}} erwähnt und es scheint nicht klar zu sein, worum es hier geht.
+Es gibt ein sehr interessantes Thema: Harmagedon. Es wird {{% bible val="nur einmal" link="rev:16,12-16" lang="SLT" %}} erwähnt und es scheint nicht klar zu sein, worum es hier geht.
 
 Das Wort Armageddon hat drei Übersetzungen:
 - Berg des Gemetzels -> dies wird eine epische Schlacht sein
-- Berg der Versammlung -> {{% bible val="eine Anspielung auf Satan, der wie Gott sein will, aber es ist zu nichts herabgesunken" link="https://www.bibleserver.com/SLT/Jesaja14%3A3-23" %}}
+- Berg der Versammlung -> {{% bible val="eine Anspielung auf Satan, der wie Gott sein will, aber es ist zu nichts herabgesunken" link="isa:14,3-23" lang="SLT" %}}
 - Berg von Megiddo -> Der Ort, an dem mehrere Schlachten mit untypischen Helden stattfinden
-    - {{% bible val="eine Hausfrau namens Jael besiegt einen Heerführer" link="https://www.bibleserver.com/SLT/Richter4" %}}
-    - {{% bible val="der depressive Prophet rettet ein Volk - Karmel ist der Berg bei Megiddo" link="https://www.bibleserver.com/SLT/1.Könige18" %}}
-    - {{% bible val="ein einzelner Mann stürzt den Herrscher von zwei Ländern am selben Tag" link="https://www.bibleserver.com/SLT/2.Könige9" %}}
-    - {{% bible val="ein König zieht in die Schlacht, verliert die Schlacht und stirbt, verändert aber die Geschichte" link="https://www.bibleserver.com/SLT/2.Chronik35%2C20-24" %}}
+    - {{% bible val="eine Hausfrau namens Jael besiegt einen Heerführer" link="jdg:4" lang="SLT" %}}
+    - {{% bible val="der depressive Prophet rettet ein Volk - Karmel ist der Berg bei Megiddo" link="1ki:18" lang="SLT" %}}
+    - {{% bible val="ein einzelner Mann stürzt den Herrscher von zwei Ländern am selben Tag" link="2ki:9" lang="SLT" %}}
+    - {{% bible val="ein König zieht in die Schlacht, verliert die Schlacht und stirbt, verändert aber die Geschichte" link="2ch:35,20-24" lang="SLT" %}}
     
 Eines ist klar: Die Schlacht findet nicht in Harmagedon statt, da die Berge die Orte sind, an denen sich die Heere versammeln, wie auch hier gezeigt wird.
 
-Die Schlacht wird später beschrieben. In der Kurzform in der {{% bible val="siebten Schale" link="https://www.bibleserver.com/SLT/Offenbarung16%3A17-21" %}}, aber im Detail (nachdem das Schicksal der Hure und die Hochzeit der Braut beschrieben ist), wenn Jesus als {{% bible val="der weiße Reiter" link="https://www.bibleserver.com/SLT/Offenbarung19%3A11-21" %}} kommt. 
+Die Schlacht wird später beschrieben. In der Kurzform in der {{% bible val="siebten Schale" link="rev:16,17-21" lang="SLT" %}}, aber im Detail (nachdem das Schicksal der Hure und die Hochzeit der Braut beschrieben ist), wenn Jesus als {{% bible val="der weiße Reiter" link="rev:19,11-21" lang="SLT" %}} kommt. 
 
-Er versammelt auch "sein Heer" auf eine sehr ironische Weise. Das Heer sind die {{% bible val="Geier" link="https://www.bibleserver.com/SLT/Offenbarung19%3A17-18" %}}, die sich an dem getöteten Heer laben werden. 
+Er versammelt auch "sein Heer" auf eine sehr ironische Weise. Das Heer sind die {{% bible val="Geier" link="rev:19,17-18" lang="SLT" %}}, die sich an dem getöteten Heer laben werden. 

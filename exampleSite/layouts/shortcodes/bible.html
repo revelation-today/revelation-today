@@ -1,5 +1,17 @@
 {{- $context := . -}}
 {{- $val := .Get "val" -}}
+{{- $lang := .Get "lang" -}}
 {{- $link := .Get "link" -}}
 
-<a href="{{- $link -}}"><span style="background:orange">{{- $val -}}</span></a>
+{{- $langs := dict 
+    "NIV" "niv"
+    "SLT" "schl2000"
+    "TR" "tcl02"
+-}}
+{{- $lang := index $langs $lang -}}
+{{- $book := index (split $link ":") 0 -}}
+{{- $chapter := index (split (index (split $link ":") 1) ",") 0 -}}
+{{- $verse := index (split (index (split $link ",") 1) "-") 0 -}}
+{{- $verseto := index (split (index (split $link ",") 1) "-") 1 -}}
+<script async defer src="https://bible-link.globalrize.org/plugin.js" data-translation="{{- $lang -}}"></script>
+<span class="bible-link" style="background:orange" data-translation="{{- $lang -}}" data-book="{{- $book -}}" data-chapter="{{- $chapter -}}" data-verse="{{- $verse -}}" data-verse-end="{{- $verseto -}}">{{- $val -}}</span>

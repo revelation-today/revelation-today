@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-{{% bible val="Bölüm 4" link="https://www.bibleserver.com/TR/Vahiy4" %}} ve {{% bible val="5" link="https://www.bibleserver.com/TR/Vahiy5" %}}.
+{{% bible val="Bölüm 4" link="rev:4" lang="TR" %}} ve {{% bible val="5" link="rev:5" lang="TR" %}}.
 
 ## Tüm soruların cevabı
 
@@ -33,7 +33,7 @@ Bu, belaların daha iyi anlaşılmasını gerektirir, ancak bundan çıkan şeyi
 
 ## Parşömen
 
-{{% bible val="Yedi mühürlü tomar" link="https://www.bibleserver.com/TR/Vahiy5%3A1-5" %}} kitapta çok garip olan ilk şeydir. Ancak ilk okuyucunun zamanında bu çok normaldi. Yedi tanık tarafından mühürlenmiş, içeriği dışarıda toplanmış bir belgeydi, böylece açıldığında belge bir yasa ya da vasiyet gibi etkin hale geliyordu.
+{{% bible val="Yedi mühürlü tomar" link="rev:5,1-5" lang="TR" %}} kitapta çok garip olan ilk şeydir. Ancak ilk okuyucunun zamanında bu çok normaldi. Yedi tanık tarafından mühürlenmiş, içeriği dışarıda toplanmış bir belgeydi, böylece açıldığında belge bir yasa ya da vasiyet gibi etkin hale geliyordu.
 
 Bunu kimin açmaya layık olduğu sorusu, "kimin okumasına izin verildiği" değil, "kimin bunu uygulamaya koymasına izin verildiği" sorusudur. Burada içeriğin ne olduğu tam olarak belli olmasa da, parşömeni açmaya kimse layık görülmediği için Yuhanna'nın harap olmasıyla Tanrı'nın planı olduğu görülür.
 
@@ -45,5 +45,5 @@ Peygamberlik literatüründe normal olarak, alıcının resimden bunaldığı ve
 
 ![](/images/hear_en.jpg)
 
-Burada bu konu tersine çevrilmiştir: Yöneticileri deviren Mesih'in çok bilinen konusu kurbanlık kuzu ile açıklanır. Bu, Tanrı'nın bu dünyayı nasıl fethettiği ve yargıladığının yoludur. Aynı resim daha sonra {{% bible val="144.000" link="https://www.bibleserver.com/TR/Vahiy7%3A5-17" %}} ile de karşımıza çıkar (aslında sıkıntıdan çıkan tapınanlar olan bir ordu).
+Burada bu konu tersine çevrilmiştir: Yöneticileri deviren Mesih'in çok bilinen konusu kurbanlık kuzu ile açıklanır. Bu, Tanrı'nın bu dünyayı nasıl fethettiği ve yargıladığının yoludur. Aynı resim daha sonra {{% bible val="144.000" link="rev:7,5-17" lang="TR" %}} ile de karşımıza çıkar (aslında sıkıntıdan çıkan tapınanlar olan bir ordu).
 

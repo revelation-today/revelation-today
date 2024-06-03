@@ -23,7 +23,7 @@ Die Zahl 7 wird in der Bibel oft symbolisch verwendet.
 
 Sieben ist die Zahl der Vollständigkeit aufgrund der sieben Schöpfungstage.
 
-Der siebenfache Zorn Gottes in der Geschichte {{% bible val="Kains" link="https://www.bibleserver.com/SLT/1.Mose4%2C15" %}} oder in den {{% bible val="Psalmen" link="https://www.bibleserver.com/SLT/Psalm79%2C12" %}} kann in ähnlicher Weise symbolisch verstanden werden.
+Der siebenfache Zorn Gottes in der Geschichte {{% bible val="Kains" link="gen:4,15" lang="SLT" %}} oder in den {{% bible val="Psalmen" link="psa:79,12" lang="SLT" %}} kann in ähnlicher Weise symbolisch verstanden werden.
 
 Es gibt in der Offenbarung 7 Seligpreisungen, die wahrscheinlich den gesamten Segen der Heiligen beschreiben oder eine Zusammenfassung des Segens des Buches sind.
 
@@ -41,27 +41,27 @@ Weitere Beispiele sind die 7 Siegel, die 7 Posaunen und die 7 Zornesschalen, um 
 ## Die Zahl 4
 
 <a name="0f0d"></a>
-Die Vier ist auch eine Form der Vollständigkeit, aber mehr im Sinne eines universellen oder weltweiten Kontextes. Dies wird in der Ofenbarung deutlich, wo die {{% bible val="4 Enden der Erde" link="https://www.bibleserver.com/SLT/Offenbarung20%2C8" %}}, {{% bible val="die 4 Winde" link="https://www.bibleserver.com/SLT/Offenbarung7%2C1" %}} oder den{{% bible val=" Kreaturen der vier Lebensräume (Himmel, Erde, Meer, unter dem Meer), zu Gott und dem Lamm preisen" link="https://www.bibleserver.com/SLT/Offenbarung5%2C13" %}}.
+Die Vier ist auch eine Form der Vollständigkeit, aber mehr im Sinne eines universellen oder weltweiten Kontextes. Dies wird in der Ofenbarung deutlich, wo die {{% bible val="4 Enden der Erde" link="rev:20,8" lang="SLT" %}}, {{% bible val="die 4 Winde" link="rev:7,1" lang="SLT" %}} oder den{{% bible val=" Kreaturen der vier Lebensräume (Himmel, Erde, Meer, unter dem Meer), zu Gott und dem Lamm preisen" link="rev:5,13" lang="SLT" %}}.
 
-Auch an anderer Stelle wird die Erde in vier Teile geteilt ({{% bible val="bei der ersten Posaune" link="https://www.bibleserver.com/SLT/Offenbarung8%2C7" %}}, {{% bible val="durch die drei Engel" link="https://www.bibleserver.com/SLT/Offenbarung14%2C7" %}}, {{% bible val="vier Schalen auf dem Land, dem Meer, den Flüssen und der Sonne" link="https://www.bibleserver.com/SLT/Offenbarung16%2C2-9" %}}). Diese vier Teile sind das Ziel der ersten vier Posaunen und der Zornesschalen, die zeigen, dass Gott Richter über die ganze Schöpfung ist.
+Auch an anderer Stelle wird die Erde in vier Teile geteilt ({{% bible val="bei der ersten Posaune" link="rev:8,7" lang="SLT" %}}, {{% bible val="durch die drei Engel" link="rev:14,7" lang="SLT" %}}, {{% bible val="vier Schalen auf dem Land, dem Meer, den Flüssen und der Sonne" link="rev:16,2-9" lang="SLT" %}}). Diese vier Teile sind das Ziel der ersten vier Posaunen und der Zornesschalen, die zeigen, dass Gott Richter über die ganze Schöpfung ist.
 
 Die Einteilung der Gerichte in 4+3 ist wahrscheinlich auch eine Folge davon. Die Einteilung des Buches in vier Teile zeigt auch die universelle Gültigkeit der Offenbarung.
 
-Der Hinweis auf “{{% bible val="Blitz und Donner" link="https://www.bibleserver.com/SLT/2.Mose19%2C16-18" %}}” am Sinai taucht viermal an entscheidenden Stellen auf:
+Der Hinweis auf “{{% bible val="Blitz und Donner" link="exo:19,16-18" lang="SLT" %}}” am Sinai taucht viermal an entscheidenden Stellen auf:
 
-- {{% bible val="in der Einleitung im Thronsaal" link="https://www.bibleserver.com/SLT/Offenbarung4%2C5" %}},
-- {{% bible val="am Ende der Siegel" link="https://www.bibleserver.com/SLT/Offenbarung8%2C5" %}},
-- {{% bible val="am Ende der Posaunen" link="https://www.bibleserver.com/SLT/Offenbarung11%2C19" %}},
-- {{% bible val="am Ende der Zornesschalen" link="https://www.bibleserver.com/SLT/Offenbarung16%2C18" %}}.
+- {{% bible val="in der Einleitung im Thronsaal" link="rev:4,5" lang="SLT" %}},
+- {{% bible val="am Ende der Siegel" link="rev:8,5" lang="SLT" %}},
+- {{% bible val="am Ende der Posaunen" link="rev:11,19" lang="SLT" %}},
+- {{% bible val="am Ende der Zornesschalen" link="rev:16,18" lang="SLT" %}}.
 
 ## Die Kombination 4x7
 
 <a name="1ee7"></a>
-Wenn wir {{% bible val="die sieben Donner" link="https://www.bibleserver.com/SLT/Offenbarung10%2C3-7" %}} als eine weitere Serie betrachten (oder die Sendschreiben), dann haben wir 4x7 “Gerichte”, die die ganze Welt betreffen, wie {{% bible val="es mit den Gerichten/Erziehungsmassnahmen des siebenfachen Gerichtes viermal berichtet wird" link="https://www.bibleserver.com/SLT/3.Mose26%2C14-46" %}}.
+Wenn wir {{% bible val="die sieben Donner" link="rev:10,3-7" lang="SLT" %}} als eine weitere Serie betrachten (oder die Sendschreiben), dann haben wir 4x7 “Gerichte”, die die ganze Welt betreffen, wie {{% bible val="es mit den Gerichten/Erziehungsmassnahmen des siebenfachen Gerichtes viermal berichtet wird" link="lev:26,14-46" lang="SLT" %}}.
 
-Auch die {{% bible val="siebenfache Erwähnung der Sichel" link="https://www.bibleserver.com/SLT/Offenbarung14%2C14-19" %}} zeigt die Vollständigkeit des Gerichtes.
+Auch die {{% bible val="siebenfache Erwähnung der Sichel" link="rev:14,14-19" lang="SLT" %}} zeigt die Vollständigkeit des Gerichtes.
 
-Außerdem enthält die {{% bible val="Handelsliste von Babel" link="https://www.bibleserver.com/SLT/Offenbarung18%2C11-13" %}} 4x7=28 Güter, die die Gesamtheit der Güter der Welt präsentieren.
+Außerdem enthält die {{% bible val="Handelsliste von Babel" link="rev:18,11-13" lang="SLT" %}} 4x7=28 Güter, die die Gesamtheit der Güter der Welt präsentieren.
 
 Manche Gottesnamen kommen auch 4 oder 7 Mal vor
 
@@ -82,9 +82,9 @@ Zwölf ist die Zahl der Vollständigkeit, aber mehr in der Einheit in der Vielfa
 
 Die 12 Apostel sind das Gegenstück im Neuen Testament.
 
-{{% bible val="12 wird in der Offenbarung quadriert und mit 1000 multipliziert" link="https://www.bibleserver.com/SLT/Offenbarung7%2C4-8" %}}, um Vollständigkeit zu demonstrieren. Keiner darf fehlen, keiner wird vergessen. Das ist so bedeutsam, dass die Zahl 12 in der Offenbarung zwölfmal in der Beschreibung des Neuen Jerusalems als Bild für die endzeitliche Vollständigkeit des Gottesvolkes verwendet wird.
+{{% bible val="12 wird in der Offenbarung quadriert und mit 1000 multipliziert" link="rev:7,4-8" lang="SLT" %}}, um Vollständigkeit zu demonstrieren. Keiner darf fehlen, keiner wird vergessen. Das ist so bedeutsam, dass die Zahl 12 in der Offenbarung zwölfmal in der Beschreibung des Neuen Jerusalems als Bild für die endzeitliche Vollständigkeit des Gottesvolkes verwendet wird.
 
-Dazu kommen die {{% bible val="3x4 Tore" link="https://www.bibleserver.com/SLT/Offenbarung21%2C13" %}} und die {{% bible val="12 wertvollen Steine" link="https://www.bibleserver.com/SLT/Offenbarung21%2C19-20" %}}.
+Dazu kommen die {{% bible val="3x4 Tore" link="rev:21,13" lang="SLT" %}} und die {{% bible val="12 wertvollen Steine" link="rev:21,19-20" lang="SLT" %}}.
 
 ## Andere Zahlen
 
@@ -115,16 +115,16 @@ Die rot eingekreisten Säulen stehen für Satan und sein Reich, während die gr�
 
 Die kleinste (nicht-triviale) Quadrat-Dreieckszahl ist 36. Sie steht mit mehreren Aspekten der Tiere in Verbindung
 
-- Sie steht in Beziehung zu 666 (36. Dreieckszahl) und ist {{% bible val="das Geheimnis des Tieres" link="https://www.bibleserver.com/SLT/Offenbarung13%2C18" %}}.
+- Sie steht in Beziehung zu 666 (36. Dreieckszahl) und ist {{% bible val="das Geheimnis des Tieres" link="rev:13,18" lang="SLT" %}}.
 - Sie steht in Beziehung zu 8 (36 ist die 8. Dreieckszahl) und bezieht sich auf die Auferstehung (Jesus wird am 8. Tag auferweckt)
 - Sie steht in Beziehung zu 6 — der Zahl des Menschen oder besser gesagt der nicht-göttlichen Macht — (36 ist das Quadrat von 6).
-- Die 6. rechteckige Zahl ist 42 und beschreibt die {{% bible val="42 Monate der Aktivitäten des Tieres" link="https://www.bibleserver.com/SLT/Offenbarung13%2C5" %}}.
+- Die 6. rechteckige Zahl ist 42 und beschreibt die {{% bible val="42 Monate der Aktivitäten des Tieres" link="rev:13,5" lang="SLT" %}}.
 
 Aber die nächstkleinere (und vielleicht die einzige andere, die zu Johannes’ Zeiten bekannt war) wäre 1225, die sich auch hier wiederfindet.
 
 - Sie übertrifft die 36 um ein Vielfaches und ist komplizierter zu ermitteln.
 - Sie ist das Quadrat von 35 (was nur eine Zahl weniger ist als 36, aber auf verschiedenen Vergleichsskalen).
-- Sie ist die 35. rechteckige Zahl ist 1260 und beschreibt die {{% bible val="Zeit der Aktivitäten der beiden Zeugen" link="https://www.bibleserver.com/SLT/Offenbarung11%2C3" %}}.
+- Sie ist die 35. rechteckige Zahl ist 1260 und beschreibt die {{% bible val="Zeit der Aktivitäten der beiden Zeugen" link="rev:11,3" lang="SLT" %}}.
 - Sie ist die 49. dreieckige Zahl, während 49 das Quadrat von 7 ist und die Totalität oder Vollständigkeit beschreibt.
 
 Die Realität ist, dass das Reich Gottes weit über dem Reich Satans steht, das eine massive Parodie ist. Nehmen wir das Äquivalent der 666 (basierend auf der 1225), das 750.925 beträgt. Nehmen wir an, dies sei eine 2 m große Person, dann wäre Satans Stärke mit der eines weniger als 2 mm großen Insekts zu vergleichen!

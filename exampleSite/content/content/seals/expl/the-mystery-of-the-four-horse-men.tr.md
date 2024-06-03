@@ -30,14 +30,14 @@ sources:
 <a name="879f"></a>
 Önce metne bir göz atalım
 
-“{{% bible val="Sonra Kuzu’nun yedi mühürden birini açtığını gördüm. O anda dört yaratıktan birinin, gök gürültüsüne benzer bir sesle, ‹‹Gel!›› dediğini işittim. Bakınca beyaz bir at gördüm. Binicisinin yayı vardı. Kendisine bir taç verildi ve galip gelen biri olarak zafer kazanmaya çıktı. Kuzu ikinci mührü açınca, ikinci yaratığın ‹‹Gel!›› dediğini işittim. O zaman kızıl renkte başka bir at çıktı ortaya. Binicisine dünyadan barışı kaldırma yetkisi verildi. Bunun sonucu olarak insanlar birbirlerini boğazlayacaklar. Atlıya ayrıca büyük bir kılıç verildi. Kuzu üçüncü mührü açınca, üçüncü yaratığın ‹‹Gel!›› dediğini işittim. Bakınca siyah bir at gördüm. Binicisinin elinde bir terazi vardı. Dört yaratığın ortasında sanki bir sesin şöyle dediğini işittim: ‹‹Bir ölçek buğday bir dinara, üç ölçek arpa bir dinara. Ama zeytinyağına, şaraba zarar verme!›› Kuzu dördüncü mührü açınca, ‹‹Gel!›› diyen dördüncü yaratığın sesini işittim. Bakınca soluk renkli bir at gördüm. Binicisinin adı Ölüm’dü. Ölüler diyarı onun ardınca geliyordu. Bunlara kılıçla, kıtlıkla, salgın hastalıkla, yeryüzünün yabanıl hayvanlarıyla ölüm saçmak için yeryüzünün dörtte biri üzerinde yetki verildi." link="https://www.bibleserver.com/TR/Vahiy6%3A1-8" %}}”
+“{{% bible val="Sonra Kuzu’nun yedi mühürden birini açtığını gördüm. O anda dört yaratıktan birinin, gök gürültüsüne benzer bir sesle, ‹‹Gel!›› dediğini işittim. Bakınca beyaz bir at gördüm. Binicisinin yayı vardı. Kendisine bir taç verildi ve galip gelen biri olarak zafer kazanmaya çıktı. Kuzu ikinci mührü açınca, ikinci yaratığın ‹‹Gel!›› dediğini işittim. O zaman kızıl renkte başka bir at çıktı ortaya. Binicisine dünyadan barışı kaldırma yetkisi verildi. Bunun sonucu olarak insanlar birbirlerini boğazlayacaklar. Atlıya ayrıca büyük bir kılıç verildi. Kuzu üçüncü mührü açınca, üçüncü yaratığın ‹‹Gel!›› dediğini işittim. Bakınca siyah bir at gördüm. Binicisinin elinde bir terazi vardı. Dört yaratığın ortasında sanki bir sesin şöyle dediğini işittim: ‹‹Bir ölçek buğday bir dinara, üç ölçek arpa bir dinara. Ama zeytinyağına, şaraba zarar verme!›› Kuzu dördüncü mührü açınca, ‹‹Gel!›› diyen dördüncü yaratığın sesini işittim. Bakınca soluk renkli bir at gördüm. Binicisinin adı Ölüm’dü. Ölüler diyarı onun ardınca geliyordu. Bunlara kılıçla, kıtlıkla, salgın hastalıkla, yeryüzünün yabanıl hayvanlarıyla ölüm saçmak için yeryüzünün dörtte biri üzerinde yetki verildi." link="rev:6,1-8" lang="TR" %}}”
 
 ## Yorumlamalar
 
 <a name="64b0"></a>
 İki ana yorum vardır ve her ikisinin de kendi argümanları vardır
 
-- ilk atlı iyidir ve örneğin {{% bible val="müjdenin tüm dünyada duyurulduğunu" link="https://www.bibleserver.com/TR/Markos13%3A10" %}} yansıtır
+- ilk atlı iyidir ve örneğin {{% bible val="müjdenin tüm dünyada duyurulduğunu" link="mrk:13,10" lang="TR" %}} yansıtır
 - İlk atlı da diğer atlı kadar kötüdür.
 
 ## İlk gözlemler
@@ -45,9 +45,9 @@ sources:
 <a name="df58"></a>
 Metne baktığımızda üç güçlü paralellik görürüz
 
-- Zekeriya Peygamber’de {{% bible val="yeryüzünü teftiş edecek farklı renklerde dört atı " link="https://www.bibleserver.com/TR/Zekeriya1%3A8-15" %}}anlatan ilk metin
-- Yine birkaç bölüm sonra, {{% bible val="dünyanın rüzgârlarını yansıtan farklı renklerde dört araba" link="https://www.bibleserver.com/TR/Zekeriya6%3A1-8" %}}
-- {{% bible val="Tanrı’nın dört belasının" link="https://www.bibleserver.com/TR/Hezekiel14%3A12-23" %}} (kılıç, açlık, vahşi hayvanlar ve salgın hastalık) tanımı, buradaki dört at faaliyetiyle oldukça benzerlik göstermektedir
+- Zekeriya Peygamber’de {{% bible val="yeryüzünü teftiş edecek farklı renklerde dört atı " link="zec:1,8-15" lang="TR" %}}anlatan ilk metin
+- Yine birkaç bölüm sonra, {{% bible val="dünyanın rüzgârlarını yansıtan farklı renklerde dört araba" link="zec:6,1-8" lang="TR" %}}
+- {{% bible val="Tanrı’nın dört belasının" link="ezk:14,12-23" lang="TR" %}} (kılıç, açlık, vahşi hayvanlar ve salgın hastalık) tanımı, buradaki dört at faaliyetiyle oldukça benzerlik göstermektedir
 
 Atlılara baktığımızda aralarında ortak noktalar olduğu kadar farklılıklar da görürüz
 
@@ -64,7 +64,7 @@ Atlılara baktığımızda aralarında ortak noktalar olduğu kadar farklılıkl
 
 Bunu anlamak için biraz arka plana ihtiyacımız var:
 
-- Yiyecekler genellikle karneye bağlanırdı (örneğin İncil’de {{% bible val="yaklaşan bir kıtlık" link="https://www.bibleserver.com/TR/Levililer26%3A26" %}}, {{% bible val="somut bir kıtlık durumu" link="https://www.bibleserver.com/TR/2.Krallar7%3A1" %}}, {{% bible val="bir kıtlığa ilişkin peygamberlik görüşü" link="https://www.bibleserver.com/TR/Hezekiel4%3A10-16" %}})
+- Yiyecekler genellikle karneye bağlanırdı (örneğin İncil’de {{% bible val="yaklaşan bir kıtlık" link="lev:26,26" lang="TR" %}}, {{% bible val="somut bir kıtlık durumu" link="2ki:7,1" lang="TR" %}}, {{% bible val="bir kıtlığa ilişkin peygamberlik görüşü" link="ezk:4,10-16" lang="TR" %}})
 - referans i̇çi̇n: bi̇r ölçek buğday bi̇r ki̇şi̇ye bi̇r gün yeti̇yor, 3 ölçek arpa bi̇r ai̇leye üç gün yeti̇yor (arpa hayvan gidasi olarak kullaniliyor) -&gt; bu nedenle fi̇yatlar 8–16 arasinda artti
 - şarap ve yağ Vahiy bağlamında lüks mallar olarak kullanılır (bu kitapta meshetme ve lordların akşam yemeği ile bir ilişkisi yoktur)
 
@@ -77,35 +77,35 @@ Bu pasaj genel olarak bir kıtlığı değil, yoksullara yönelik haksız tehdid
 
 Bu atlının neden iyi olduğuna dair bazı iyi argümanlar var
 
-- {{% bible val="Mezmurlar’da düşmanlarını yayla yenen İsrail kralının bir tasviri vardır ve bu tasvir" link="https://www.bibleserver.com/TR/Mezmur45%3A5-6" %}} {{% bible val="İsa’ya işaret eden Mesihçi bir tasvir olarak yorumlanır" link="https://www.bibleserver.com/TR/%C4%B0braniler1%3A8" %}}
-- {{% bible val="Beyaz bir bulutun üzerinde dünyayı biçmek için orak tutan insanoğluna benzeyen" link="https://www.bibleserver.com/TR/Vahiy14%3A14" %}} kişiye ya da {{% bible val="başında taç olan beyaz atlı muzaffer biniciye" link="https://www.bibleserver.com/TR/Vahiy19%3A11" %}} dair açık referanslar vardır ve bunların her ikisi de İsa’ya ya da en azından Tanrı’nın bir meleğine işaret eder
+- {{% bible val="Mezmurlar’da düşmanlarını yayla yenen İsrail kralının bir tasviri vardır ve bu tasvir" link="psa:45,5-6" lang="TR" %}} {{% bible val="İsa’ya işaret eden Mesihçi bir tasvir olarak yorumlanır" link="heb:1,8" lang="TR" %}}
+- {{% bible val="Beyaz bir bulutun üzerinde dünyayı biçmek için orak tutan insanoğluna benzeyen" link="rev:14,14" lang="TR" %}} kişiye ya da {{% bible val="başında taç olan beyaz atlı muzaffer biniciye" link="rev:19,11" lang="TR" %}} dair açık referanslar vardır ve bunların her ikisi de İsa’ya ya da en azından Tanrı’nın bir meleğine işaret eder
 - Fetih terimi İsa’ya atıfta bulunuyor olabilir, çünkü İsa kitabın diğer bölümlerinde de fatih olarak geçmektedir
 - o beyaz bir binici ve beyaz kitabın diğer bölümlerinde olumlu
-- Diğerleri olumsuz bir şey getirirken o olumsuz bir şey yapmıyor (fethediyor), bu nedenle {{% bible val="tüm kötü şeyler gerçekleşmeden önce müjdenin duyurulmasına" link="https://www.bibleserver.com/TR/Markos13%3A10" %}} atıfta bulunabilir
+- Diğerleri olumsuz bir şey getirirken o olumsuz bir şey yapmıyor (fethediyor), bu nedenle {{% bible val="tüm kötü şeyler gerçekleşmeden önce müjdenin duyurulmasına" link="mrk:13,10" lang="TR" %}} atıfta bulunabilir
 
 Öte yandan, bunun tam tersine işaret eden bazı referanslar da mevcuttur:
 
-- {{% bible val="Tanrı, Yecüc ve Mecüc’ün elinden yayı alacak" link="https://www.bibleserver.com/TR/Hezekiel39%3A3" %}} ve bu da yayı ahir zaman düşmanının silahına işaret edecektir.
-- Tacı olan tek kişi İsa değildir, {{% bible val="yeryüzünden çıkan şeytani güçlerin de bir " link="https://www.bibleserver.com/TR/Vahiy9%3A7" %}}tacı vardır.
-- fethetmek başka bir yerde de {{% bible val="canavara atıfta bulunarak, azizleri fethetme" link="https://www.bibleserver.com/TR/Vahiy13%3A7" %}}k için kullanılır
+- {{% bible val="Tanrı, Yecüc ve Mecüc’ün elinden yayı alacak" link="ezk:39,3" lang="TR" %}} ve bu da yayı ahir zaman düşmanının silahına işaret edecektir.
+- Tacı olan tek kişi İsa değildir, {{% bible val="yeryüzünden çıkan şeytani güçlerin de bir " link="rev:9,7" lang="TR" %}}tacı vardır.
+- fethetmek başka bir yerde de {{% bible val="canavara atıfta bulunarak, azizleri fethetme" link="rev:13,7" lang="TR" %}}k için kullanılır
 - Zekeriya’daki dört at ve arabaya yapılan atıf nasıl bir birim oluşturuyorsa, buradaki dört at da bir birim olmalı ve hepsi Tanrı’ya ait olmalı ya da olmamalıdır
 - Sadece dört atlı edebi bir birim oluşturmakla kalmaz, aynı zamanda ilk dört borazan ve ilk dört kâse de bir birim oluşturur. Bu nedenle ilk dört atlı bir birim olmalıdır
 
 Bu kafa karıştırıcı. Neden aynı referanslar hem iyi hem de kötü bir anlama işaret ediyor? Son iki referansa bir göz atalım:
 
-- Kutsal Kitap’ta yayın ilk kullanımı {{% bible val="Yakup’un öyküsünden ve onun babasını kutsama almak için aldatmasından gelir" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F27" %}}
-- İsa’nın {{% bible val="Markos" link="https://www.bibleserver.com/TR/Markos13%3A5-9" %}}, {{% bible val="Matta" link="https://www.bibleserver.com/TR/Matta24%3A4-8" %}} ve {{% bible val="Luka" link="https://www.bibleserver.com/TR/Luka21%3A8-11" %}}’daki ahir zamanla ilgili üç konuşması Vahiy’dekine benzer bir sıralamaya sahiptir: İkinci sırada her zaman savaş, daha sonra her zaman açlık gelir ve Luka’da bunu salgın hastalık bile takip eder. Ve bunlardan biri “Dikkat edin, aldanmayın, çünkü birçokları benim adımla gelecek” gibi bir şeyle başlar.
+- Kutsal Kitap’ta yayın ilk kullanımı {{% bible val="Yakup’un öyküsünden ve onun babasını kutsama almak için aldatmasından gelir" link="gen:27" lang="TR" %}}
+- İsa’nın {{% bible val="Markos" link="mrk:13,5-9" lang="TR" %}}, {{% bible val="Matta" link="mat:24,4-8" lang="TR" %}} ve {{% bible val="Luka" link="luk:21,8-11" lang="TR" %}}’daki ahir zamanla ilgili üç konuşması Vahiy’dekine benzer bir sıralamaya sahiptir: İkinci sırada her zaman savaş, daha sonra her zaman açlık gelir ve Luka’da bunu salgın hastalık bile takip eder. Ve bunlardan biri “Dikkat edin, aldanmayın, çünkü birçokları benim adımla gelecek” gibi bir şeyle başlar.
 
 ## Karar
 
 <a name="12b0"></a>
-Yani ilk atlı kötü olan ama iyi ve İsa gibi davranandır. Bağlama baktığımızda bu da mantıklıdır. {{% bible val="Bir önceki bölümde İsa tomarı açmaya layık kişi olarak ortaya çıkmıştı" link="https://www.bibleserver.com/TR/Vahiy5" %}}, şimdi ise şeytan büyük bir vaatten (fethetmek) savaşa (takipçisi olmayanlara zulmetmek), kötülükle açlıktan ölmeye (üçüncü atlı) ve nihayetinde ölüm ve yıkıma kadar uzanan gerçek doğasıyla ortaya çıkmaktadır. Bu nedenle, {{% bible val="hemen ardından gelen mühür, tüm bunların kötü doğasını göstererek" link="https://www.bibleserver.com/TR/Vahiy6%3A9-11" %}}, bunun ne kadar sürmesi gerektiğine dair doğruların çığlığını anlatmaktadır.
+Yani ilk atlı kötü olan ama iyi ve İsa gibi davranandır. Bağlama baktığımızda bu da mantıklıdır. {{% bible val="Bir önceki bölümde İsa tomarı açmaya layık kişi olarak ortaya çıkmıştı" link="rev:5" lang="TR" %}}, şimdi ise şeytan büyük bir vaatten (fethetmek) savaşa (takipçisi olmayanlara zulmetmek), kötülükle açlıktan ölmeye (üçüncü atlı) ve nihayetinde ölüm ve yıkıma kadar uzanan gerçek doğasıyla ortaya çıkmaktadır. Bu nedenle, {{% bible val="hemen ardından gelen mühür, tüm bunların kötü doğasını göstererek" link="rev:6,9-11" lang="TR" %}}, bunun ne kadar sürmesi gerektiğine dair doğruların çığlığını anlatmaktadır.
 
-Şimdi {{% bible val="Tanrı’nın belalarına" link="https://www.bibleserver.com/TR/Hezekiel14%3A12-23" %}} (vahşi hayvanlar, kılıç, açlık ve salgın hastalık) yapılan gönderme de anlam kazanmaktadır. Bunları haritalayabiliriz
+Şimdi {{% bible val="Tanrı’nın belalarına" link="ezk:14,12-23" lang="TR" %}} (vahşi hayvanlar, kılıç, açlık ve salgın hastalık) yapılan gönderme de anlam kazanmaktadır. Bunları haritalayabiliriz
 
-- ilk binici, {{% bible val="13. bölümd" link="https://www.bibleserver.com/TR/Vahiy13" %}}e iki {{% int_link val="canavar olarak adlandırdığı vahşi hayvanları temsil eder" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve {{% bible val="aldatmayı" link="https://www.bibleserver.com/TR/2.Korintliler11%3A14" %}} temsil eder — birçok vaatte bulunur
+- ilk binici, {{% bible val="13. bölümd" link="rev:13" lang="TR" %}}e iki {{% int_link val="canavar olarak adlandırdığı vahşi hayvanları temsil eder" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve {{% bible val="aldatmayı" link="2co:11,14" lang="TR" %}} temsil eder — birçok vaatte bulunur
 - ikinci binici kendisine verilen kılıcı temsil eder — 13. bölümdeki ilk canavar gibi vaatlere inanmayan herkese saldırır
-- üçüncü binici açlığı temsil eder çünkü yoksullar bundan zarar görecektir — 13. bölümdeki ikinci canavar gibi uyumsuzlara ekonomik baskı uygular ki bu da {{% bible val="17. bölümdeki" link="https://www.bibleserver.com/TR/Vahiy17" %}} fahişe ile ilgilidir
+- üçüncü binici açlığı temsil eder çünkü yoksullar bundan zarar görecektir — 13. bölümdeki ikinci canavar gibi uyumsuzlara ekonomik baskı uygular ki bu da {{% bible val="17. bölümdeki" link="rev:17" lang="TR" %}} fahişe ile ilgilidir
 - son sürücü gösterilen üçlünün etkisini özetlemektedir
 
 Yani şeytanın cazip teklifi ne olursa olsun ve ne kadar İsa’ya benziyor olursa olsun. Sakın kabul etmeyin, sonu felaketle bitecektir — en azından Tanrı’yla olan ilişkiniz açısından.

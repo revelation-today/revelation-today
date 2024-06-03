@@ -14,7 +14,7 @@ sources:
       ref: fee_rev
 ---
 
-Bu {{% bible val="mektup kiliselerde en çok vaaz edilen mektuptur" link="https://www.bibleserver.com/TR/Vahiy3%3A14-22" %}} ve bu yüzden hepimiz ılık olma sorununu biliriz. Ama bu bağlamda ne anlama geldiğini gerçekten biliyor musunuz? Özellikle de bu kilise hiç övgü almayan tek kilise olduğunda, biraz bile!
+Bu {{% bible val="mektup kiliselerde en çok vaaz edilen mektuptur" link="rev:3,14-22" lang="TR" %}} ve bu yüzden hepimiz ılık olma sorununu biliriz. Ama bu bağlamda ne anlama geldiğini gerçekten biliyor musunuz? Özellikle de bu kilise hiç övgü almayan tek kilise olduğunda, biraz bile!
 
 ## Tarihsel arka plan
 
@@ -28,7 +28,7 @@ Laodikya birçok ticaret yolunun kesiştiği bir yerdeydi ve çok zengin bir ken
 ## İsa’nın görüşü
 
 <a name="27c6"></a>
-İsa bu kiliseye “Gerçek Tanık” ve “Amin” olarak gelir çünkü Laodikya sahtedir. Onların temel sorunu öz farkındalık eksikliğidir. Kendilerini “Tanrı’nın dünyaya armağanı” olarak görürler ama aslında {{% bible val="tam da iyi olduklarını düşündükleri konularda başarısızdırlar" link="https://www.bibleserver.com/TR/Vahiy3%3A17" %}}.
+İsa bu kiliseye “Gerçek Tanık” ve “Amin” olarak gelir çünkü Laodikya sahtedir. Onların temel sorunu öz farkındalık eksikliğidir. Kendilerini “Tanrı’nın dünyaya armağanı” olarak görürler ama aslında {{% bible val="tam da iyi olduklarını düşündükleri konularda başarısızdırlar" link="rev:3,17" lang="TR" %}}.
 
 ## Sorun
 
@@ -49,7 +49,7 @@ Müjdecilik, dua, şifa, yoksullara hizmet ya da diğer bakanlıklar aracılığ
 ## Çözüm
 
 <a name="a366"></a>
-İsa onları kayıtsızlıktan kurtarır ve kapılarını çalar. Bu imansızlar için bir sunak çağrısı değil, {{% bible val="aşığın sevdiğine çağrısıdır" link="https://www.bibleserver.com/TR/Ezgiler%20Ezgisi5%3A1-5" %}}.
+İsa onları kayıtsızlıktan kurtarır ve kapılarını çalar. Bu imansızlar için bir sunak çağrısı değil, {{% bible val="aşığın sevdiğine çağrısıdır" link="sng:5,1-5" lang="TR" %}}.
 
 Ve eğer O’nu dinlerlerse, Tanrı’nın Taht Odası’ndaki tahtta O’nunla birlikte OTURACAKLAR.
 

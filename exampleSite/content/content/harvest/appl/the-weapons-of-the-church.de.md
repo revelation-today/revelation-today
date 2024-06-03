@@ -17,7 +17,7 @@ Was sind die Waffen der Gemeinde gegen eine ungläubige Welt, gegen den Drachen 
 ## Unser Text
 
 <a name="5b8f"></a>
-Wir sind mittlerweile in {{% bible val="Kapitel 14" link="https://www.bibleserver.com/SLT/Offenbarung14" %}}.
+Wir sind mittlerweile in {{% bible val="Kapitel 14" link="rev:14" lang="SLT" %}}.
 
 ## Die Armee Gottes
 

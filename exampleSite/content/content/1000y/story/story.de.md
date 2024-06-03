@@ -7,7 +7,7 @@ next: /welcome/done
 docType: story
 ---
 
-{{% bible val="Kapitel 20–22" link="https://www.bibleserver.com/SLT/Offenbarung20" %}}
+{{% bible val="Kapitel 20–22" link="rev:20" lang="SLT" %}}
 
 <a name="a287"></a>
 Es ist vollbracht. Endlich! Ihr habt es vielleicht nicht bemerkt, aber die Kirche war immer an der Macht, aber mit einer anderen Macht und lenkte das Schicksal der Menschheit. Aber zuerst kommt das Endgericht, wer mit Gott in die Ewigkeit geht und wer ohne ihn.

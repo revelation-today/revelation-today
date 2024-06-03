@@ -16,7 +16,7 @@ sources:
 
 Sorunun önderlik olduğu bir kilisede ne yaparsınız? Doğru, Thyatira’daki kiliseye yazılan mektubu okursunuz!
 
-Bu kiliseye yazılan mektup, {{% bible val="muhtemelen en küçük kilise için yazılan en uzun mektuptur" link="https://www.bibleserver.com/TR/Vahiy2%3A18-29" %}}.
+Bu kiliseye yazılan mektup, {{% bible val="muhtemelen en küçük kilise için yazılan en uzun mektuptur" link="rev:2,18-29" lang="TR" %}}.
 
 ## Tarihsel arka plan
 
@@ -28,14 +28,14 @@ Vahiy kitabının yazıldığı dönemde kasaba mor boya fabrikası ve bronz iş
 ## İsa’nın görüşü
 
 <a name="5c6b"></a>
-İsa bu kasabaya Tanrı’nın Oğlu olarak yaklaşır; gözleri alev alev yanan bir ateş, ayakları ise tunçtan yapılmıştır. Bu, {{% bible val="Daniel’in arkadaşlarının fırında" link="https://www.bibleserver.com/TR/Daniel3" %}} {{% bible val="Tanrı’nın Oğlu" link="https://www.bibleserver.com/TR/Daniel3%3A25" %}} gibi birinin onlara yardım ettiği öyküsünü hatırlatabilir.
+İsa bu kasabaya Tanrı’nın Oğlu olarak yaklaşır; gözleri alev alev yanan bir ateş, ayakları ise tunçtan yapılmıştır. Bu, {{% bible val="Daniel’in arkadaşlarının fırında" link="dan:3" lang="TR" %}} {{% bible val="Tanrı’nın Oğlu" link="dan:3,25" lang="TR" %}} gibi birinin onlara yardım ettiği öyküsünü hatırlatabilir.
 
-{{% bible val="İşler, sevgi (Efes’in mücadele ettiği), iman, azim ve her gün daha iyi olma (sürekli büyüme!) konusunda övgülerle doludur." link="https://www.bibleserver.com/TR/Vahiy2%3A19" %}}
+{{% bible val="İşler, sevgi (Efes’in mücadele ettiği), iman, azim ve her gün daha iyi olma (sürekli büyüme!) konusunda övgülerle doludur." link="rev:2,19" lang="TR" %}}
 
 ## Sorun
 
 <a name="94db"></a>
-{{% bible val="Tek bir sorun vardır: İzebel" link="https://www.bibleserver.com/TR/Vahiy2%3A20" %}}. {{% bible val="İsrail’e kraliçe olarak putperestliği getirdi" link="https://www.bibleserver.com/TR/1.Krallar16%3A31" %}}. Ve burada, Thyatira’da putperestliği önderler olarak tanıtıyor.
+{{% bible val="Tek bir sorun vardır: İzebel" link="rev:2,20" lang="TR" %}}. {{% bible val="İsrail’e kraliçe olarak putperestliği getirdi" link="1ki:16,31" lang="TR" %}}. Ve burada, Thyatira’da putperestliği önderler olarak tanıtıyor.
 
 Durum Pergamon’a benzeyebilir ancak buradaki sorun daha ciddidir çünkü Thyatria’da sorun liderlikten kaynaklanmamakta, liderlik sorun olmaktadır.
 
@@ -46,11 +46,11 @@ Durum Pergamon’a benzeyebilir ancak buradaki sorun daha ciddidir çünkü Thya
 <a name="ac15"></a>
 Kilise üyeleri ne yapmalıdır? İsyan mı etmeli? Kiliseyi terk mi etmeli?
 
-{{% bible val="Yanıt İsa’ya tutunmak ve sadık kalmaktır" link="https://www.bibleserver.com/TR/Vahiy2%3A24-25" %}}. İsa, kendisine karşı sorumlu oldukları için önderlikle ilgilenecektir:
+{{% bible val="Yanıt İsa’ya tutunmak ve sadık kalmaktır" link="rev:2,24-25" lang="TR" %}}. İsa, kendisine karşı sorumlu oldukları için önderlikle ilgilenecektir:
 
-- {{% bible val="tüm takipçileri tövbe etmeyi yeniden düşünmek için acı çekecek" link="https://www.bibleserver.com/TR/Vahiy2%3A21-22" %}}
-- {{% bible val="diğer tüm kiliselere uyarı olarak yayılmayı durdurun" link="https://www.bibleserver.com/TR/Vahiy2%3A23" %}}
+- {{% bible val="tüm takipçileri tövbe etmeyi yeniden düşünmek için acı çekecek" link="rev:2,21-22" lang="TR" %}}
+- {{% bible val="diğer tüm kiliselere uyarı olarak yayılmayı durdurun" link="rev:2,23" lang="TR" %}}
 
-Tahammül edenlere İsa, yanlış otorite altında tahammül ettikleri ve sadık kaldıkları için yetki vaat eder. Demir bir asayla yönetmek {{% bible val="Mezmur 2'den " link="https://www.bibleserver.com/TR/Mezmur2" %}}alınmıştır.
+Tahammül edenlere İsa, yanlış otorite altında tahammül ettikleri ve sadık kaldıkları için yetki vaat eder. Demir bir asayla yönetmek {{% bible val="Mezmur 2'den " link="psa:2" lang="TR" %}}alınmıştır.
 
-{{% bible val="Sabah yıldızı" link="https://www.bibleserver.com/TR/Vahiy2%3A28" %}}, {{% bible val="sabah yıldızı olan İsa’yla" link="https://www.bibleserver.com/TR/Vahiy22%3A16" %}} ilgili {{% bible val="yeni bir umudun doğuşuyla " link="https://www.bibleserver.com/TR/2.Petrus1%3A19" %}}ilgili olabilir.
+{{% bible val="Sabah yıldızı" link="rev:2,28" lang="TR" %}}, {{% bible val="sabah yıldızı olan İsa’yla" link="rev:22,16" lang="TR" %}} ilgili {{% bible val="yeni bir umudun doğuşuyla " link="2pe:1,19" lang="TR" %}}ilgili olabilir.

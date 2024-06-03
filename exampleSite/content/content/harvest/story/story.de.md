@@ -7,7 +7,7 @@ next: /content/harlot/story/story
 docType: story
 ---
 
-{{% bible val="Kapitel 14–16" link="https://www.bibleserver.com/SLT/Offenbarung14" %}}
+{{% bible val="Kapitel 14–16" link="rev:14" lang="SLT" %}}
 
 <a name="37a3"></a>
 Der Sieg Jesu am Kreuz und das Zeugnis der Kirche haben alles bewirkt, und der Feind ist in alle Winde zerstreut. Die Gläubigen singen im Siegesrausch — ihr einziges erforderliches Können war die Treue zu Gott.

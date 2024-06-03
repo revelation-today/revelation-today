@@ -19,7 +19,7 @@ Vahiy kitabı cennetle ilgili büyük bir sonla biter. Ancak daha yakından bakt
 ## Bizim metnimiz
 
 <a name="04d1"></a>
-{{% bible val="Bölüm 21" link="https://www.bibleserver.com/TR/Vahiy21" %}} ve {{% bible val="22'de" link="https://www.bibleserver.com/TR/Vahiy22" %}} hızla ilerliyoruz.
+{{% bible val="Bölüm 21" link="rev:21" lang="TR" %}} ve {{% bible val="22'de" link="rev:22" lang="TR" %}} hızla ilerliyoruz.
 
 ## Cennetin kilit noktası
 

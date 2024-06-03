@@ -8,7 +8,7 @@ next: /content/army/quick
 docType: quick
 ---
 
-{{% bible val="Chapter 6" link="https://www.bibleserver.com/NIV/Revelation6" %}}
+{{% bible val="Chapter 6" link="rev:6" lang="NIV" %}}
 
 ## The four horseman
 
@@ -21,8 +21,8 @@ They are assembled based on the four plagues that God sends: wild animals, sword
 Satan has nothing to offer but empty promises. So he does the only thing he can do: He imitates Christ, but he is now exposed.
 
 This picture of the trinity (here the forth horseman is just a summary of the oher three) continues in the book:
-- In {{% bible val="chapter 13" link="https://www.bibleserver.com/NIV/Revelation13" %}} we see also a {{% int_link val="trinity" link="/content/beasts/quick" %}} with with the two beasts and Satan as the dragon in the background
-- Also {{% bible val="chapter 17" link="https://www.bibleserver.com/NIV/Revelation17" %}} with the {{% int_link val="harlot and the beast" link="/content/harlot/quick" %}} (first beast of chapter 13) reflects this topic. Here Satan is even more hidden.
+- In {{% bible val="chapter 13" link="rev:13" lang="NIV" %}} we see also a {{% int_link val="trinity" link="/content/beasts/quick" %}} with with the two beasts and Satan as the dragon in the background
+- Also {{% bible val="chapter 17" link="rev:17" lang="NIV" %}} with the {{% int_link val="harlot and the beast" link="/content/harlot/quick" %}} (first beast of chapter 13) reflects this topic. Here Satan is even more hidden.
 
 ![](/images/trinity_en.jpg)
 
