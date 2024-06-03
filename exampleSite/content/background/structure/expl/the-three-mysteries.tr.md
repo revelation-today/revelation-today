@@ -12,7 +12,7 @@ Vahiy kitabı üç gizemden bahseder: Kilise’nin gizemi, Tanrı’nın gizemi 
 ## Gizem
 
 <a name="998e"></a>
-{{% bible val="Gizem" link="https://www.bibleserver.com/search/NIV/mystery" %}} sözcüğü Eski Ahit peygamberlerinde yalnızca bir yerde geçer: Daniel kitabında dünya güçlerinin yok edilişi, {{% int_link val="Tanrı tarafından yerleştirilen ve çok küçük ve zayıf görünen bir şeyle anlatılır" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}. Bu bir sır değil, inanılmaz bir şeydir.
+[Gizem](https://www.bibleserver.com/search/NIV/mystery) sözcüğü Eski Ahit peygamberlerinde yalnızca bir yerde geçer: Daniel kitabında dünya güçlerinin yok edilişi, {{% int_link val="Tanrı tarafından yerleştirilen ve çok küçük ve zayıf görünen bir şeyle anlatılır" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}. Bu bir sır değil, inanılmaz bir şeydir.
 
 Yeni Antlaşma’da da bu terim Tanrı’nın şimdi {{% bible val="açıklanmış" link="col:1,26" lang="tr" %}} olan planından söz eder: Mesih çarmıhta yenilgiye uğramadan dünyayı fethetmiştir.
 

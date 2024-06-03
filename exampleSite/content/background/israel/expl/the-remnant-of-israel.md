@@ -17,7 +17,7 @@ What is the remnant of Israel? And how will Israel as a remnant recover from the
 <a name="6205"></a>
 The word remnant is the Old Testament word “[sheerith](https://biblehub.com/hebrew/7611.htm)”, which means rest or residue (from [remain, left over](https://biblehub.com/hebrew/7604.htm)), or the word “[sarid](https://biblehub.com/hebrew/8300.htm)”, which means survivor (from [escape](https://biblehub.com/hebrew/8277.htm)).
 
-The first [occurrence](https://biblehub.com/hebrew/8300.htm) is in the story of Joseph, {{% bible val="where he tells his brothers that his trials in Egypt are to preserve them as a remnant" link="gen:45,7" lang="en" %}} from a famine — a matter of life and death. Both words for remnant are {{% bible val="strongly connected with a matter of life and death when it comes to people" link="https://www.bibleserver.com/search/NIV/remnant" %}}.
+The first [occurrence](https://biblehub.com/hebrew/8300.htm) is in the story of Joseph, {{% bible val="where he tells his brothers that his trials in Egypt are to preserve them as a remnant" link="gen:45,7" lang="en" %}} from a famine — a matter of life and death. Both words for remnant are [strongly connected with a matter of life and death when it comes to people](https://www.bibleserver.com/search/NIV/remnant).
 
 There are many statements about the remnant in the prophets (referring to the Day of the Lord):
 

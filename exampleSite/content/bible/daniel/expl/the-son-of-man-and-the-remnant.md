@@ -68,7 +68,7 @@ In the Old Testament only the prophet Ezekiel is called the “Son of Man”, bu
 ## The solution
 
 <a name="77b0"></a>
-When Jesus refers to Himself, He {{% bible val="refers to Him only as the Son of Man" link="https://www.bibleserver.com/search/NIV/%22son%20of%20man%22" %}}. He is the fulfillment. {{% bible val="Because he is God, he is worthy of receiving worship" link="rev:5,6-14" lang="en" %}}.
+When Jesus refers to Himself, He [refers to Him only as the Son of Man](https://www.bibleserver.com/search/NIV/%22son%20of%20man%22). He is the fulfillment. {{% bible val="Because he is God, he is worthy of receiving worship" link="rev:5,6-14" lang="en" %}}.
 
 So how does this prophecy apply to Jesus?
 

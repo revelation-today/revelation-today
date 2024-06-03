@@ -66,7 +66,7 @@ Im Alten Testament wird nur der Prophet Hesekiel als „Menschensohn“ genannt,
 ## Die Lösung
 
 <a name="bcd4"></a>
-Wenn {{% bible val="Jesus von sich selbst spricht, dann immer als der Menschensohn" link="https://www.bibleserver.com/search/SLT/%22Sohn%20des%20Menschen%22" %}}. Er ist die Erfüllung der Prophetie. Und er ist {{% bible val="Gott, der der Anbetung würdig ist" link="rev:5,6-14" lang="de" %}}.
+Wenn [Jesus von sich selbst spricht, dann immer als der Menschensohn](https://www.bibleserver.com/search/SLT/%22Sohn%20des%20Menschen%22). Er ist die Erfüllung der Prophetie. Und er ist {{% bible val="Gott, der der Anbetung würdig ist" link="rev:5,6-14" lang="de" %}}.
 
 Wie lässt sich dann die Prophetie auf Jesus anwenden?
 

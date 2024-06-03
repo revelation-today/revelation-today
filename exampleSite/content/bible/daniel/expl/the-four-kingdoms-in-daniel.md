@@ -58,7 +58,7 @@ This reminds us on the {{% bible val="cornerstone" link="isa:28,16" lang="en" %}
 
 Who is the Son of Man?
 
-In the context of Daniel it was Israel, as {{% bible val="they receive a kingdom" link="dan:7,18" lang="en" %}} as {{% bible val="the Son of Man" link="dan:7,14" lang="en" %}}, but this was fulfilled in Jesus as the true Israel as {{% bible val="Son of Man is the only title He uses for Himself" link="https://www.bibleserver.com/search/NIV/son%20of%20man" %}}.
+In the context of Daniel it was Israel, as {{% bible val="they receive a kingdom" link="dan:7,18" lang="en" %}} as {{% bible val="the Son of Man" link="dan:7,14" lang="en" %}}, but this was fulfilled in Jesus as the true Israel as [Son of Man is the only title He uses for Himself](https://www.bibleserver.com/search/NIV/son%20of%20man).
 
 ## There is more
 

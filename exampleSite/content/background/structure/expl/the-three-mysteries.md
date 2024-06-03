@@ -12,7 +12,7 @@ The book of Revelation speaks of three mysteries: the mystery of the Church, the
 ## The mystery
 
 <a name="e458"></a>
-The {{% bible val="word mystery" link="https://www.bibleserver.com/search/NIV/mystery" %}} appears only once in the Old Testament prophets: In the book of Daniel, where the {{% int_link val="destruction of the world’s powers is described by something set up by God" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}} that looks very small and weak. It is not a secret, but something that is unbelievable.
+The [word mystery](https://www.bibleserver.com/search/NIV/mystery) appears only once in the Old Testament prophets: In the book of Daniel, where the {{% int_link val="destruction of the world’s powers is described by something set up by God" link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}} that looks very small and weak. It is not a secret, but something that is unbelievable.
 
 Also in the New Testament, this term speaks of God’s plan, that {{% bible val="is now revealed" link="col:1,26" lang="en" %}}: It is Christ on the cross, not in defeat but conquest of the world.
 

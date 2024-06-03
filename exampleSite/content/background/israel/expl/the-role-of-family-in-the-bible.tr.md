@@ -19,7 +19,7 @@ Antik dünyada gerçekten bir hukuk sistemi, sigorta veya destek olanakları yok
 
 Toplum, en küçük birim olarak aile ile birlikte çalışmıştır. Bu nedenle sadece bir aileye ait olmak değil, aynı zamanda hangi aileye ait olduğunuz, hangi rolde olduğunuz, cinsiyetiniz ve doğum sıranız da önemliydi.
 
-Sistem Kutsal Kitap’ta ağır bir şekilde eleştirilir, çünkü dullar ve yetimler gibi bir ailesi olmayan ya da nüfuzu az olan ailelerin dezavantajlı olduğu açıktır. Tanrı’nın {{% bible val="dul" link="https://www.bibleserver.com/search/TR/dul" %}} ve yetimlerin savunucusu olarak ortaya çıktığı ve {{% bible val="hatta bunu imanın temel bir unsuru" link="jas:1,27" lang="tr" %}} haline getirdiği pek çok örnek vardır.
+Sistem Kutsal Kitap’ta ağır bir şekilde eleştirilir, çünkü dullar ve yetimler gibi bir ailesi olmayan ya da nüfuzu az olan ailelerin dezavantajlı olduğu açıktır. Tanrı’nın [dul](https://www.bibleserver.com/search/TR/dul) ve yetimlerin savunucusu olarak ortaya çıktığı ve {{% bible val="hatta bunu imanın temel bir unsuru" link="jas:1,27" lang="tr" %}} haline getirdiği pek çok örnek vardır.
 
 Ayrıca Tanrı krallar gibi önemli kişileri 
 - {{% bible val="önemsiz ailelerden" link="rut:4,16-17" lang="tr" %}} 

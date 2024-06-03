@@ -17,7 +17,7 @@ appl: /background/israel/appl/who-is-israel
 <a name="998f"></a>
 Kalıntı sözcüğü Eski Ahit’te [kalan](https://biblehub.com/hebrew/7604.htm) ya da artık anlamına gelen “sheerith” ya da [kurtulan](https://biblehub.com/hebrew/8277.htm) (kaçan) anlamına gelen “sarid” sözcüğüdür.
 
-[İlk olay](https://biblehub.com/hebrew/8300.htm), {{% bible val="Yusuf’un kardeşlerine Mısır’daki denemelerinin onları bir ölüm kalım meselesi olan kıtlıktan bir kalıntı olarak korumak için olduğunu söylediği hikâyede geçer" link="gen:45,7" lang="tr" %}}. {{% bible val="Kalıntı için kullanılan her iki sözcük de insanlar söz konusu olduğunda ölüm kalım meselesiyle güçlü bir şekilde bağlantılıdır" link="https://www.bibleserver.com/search/TR/kurtarmak" %}}.
+[İlk olay](https://biblehub.com/hebrew/8300.htm), {{% bible val="Yusuf’un kardeşlerine Mısır’daki denemelerinin onları bir ölüm kalım meselesi olan kıtlıktan bir kalıntı olarak korumak için olduğunu söylediği hikâyede geçer" link="gen:45,7" lang="tr" %}}. [Kalıntı için kullanılan her iki sözcük de insanlar söz konusu olduğunda ölüm kalım meselesiyle güçlü bir şekilde bağlantılıdır](https://www.bibleserver.com/search/TR/kurtarmak).
 
 Peygamberlerde kalanlarla ilgili (Rab’bin Günü’yle ilgili) birçok ifade vardır:
 

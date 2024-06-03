@@ -19,7 +19,7 @@ In the ancient world, there was no real legal system, insurance, or support syst
 
 The society worked button up with the family as the smallest unit. Therefore, it was not only important to belong to a family, but also to which family you belonged, which role you played, which gender you were, and which order you were born in.
 
-The system is strongly criticized in the Bible, because obviously all people are disadvantaged who do not have a family, such as widows and orphans or families with little influence. There are many examples where God appears as the defender of {{% bible val="widows" link="https://www.bibleserver.com/search/NIV/widows" %}} and orphans, even making it a {{% bible val="key element of faith" link="jas:1,27" lang="en" %}}.
+The system is strongly criticized in the Bible, because obviously all people are disadvantaged who do not have a family, such as widows and orphans or families with little influence. There are many examples where God appears as the defender of [widows](https://www.bibleserver.com/search/NIV/widows) and orphans, even making it a {{% bible val="key element of faith" link="jas:1,27" lang="en" %}}.
 
 Furthermore God likes to choose important people like kings from 
 - {{% bible val="unimportant families" link="rut:4,16-17" lang="en" %}} 

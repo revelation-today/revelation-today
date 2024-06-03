@@ -17,7 +17,7 @@ Was ist der Überrest Israels? Und wie wird Israel nach dem Exil wiederhergestel
 <a name="eeb2"></a>
 Das Wort Überrest ist im Alten Testament “[sheerith](https://biblehub.com/hebrew/7611.htm)”, was “Rest” bedeutet (von [verbleibend](https://biblehub.com/hebrew/7604.htm)) oder das Wort “[sarid](https://biblehub.com/hebrew/8300.htm)”, das Überlebender heißt (von [Flucht](https://biblehub.com/hebrew/8277.htm)).
 
-Das [Wort](https://biblehub.com/hebrew/8300.htm) tritt das erste mal bei Josef auf, als er seinen Brüdern erzählt, dass {{% bible val="seine Prüfungen im Ägypten dazu dienten, einwn Überrest von ihnen vor der Hungersnot zu bewahren" link="gen:45,7" lang="de" %}} — einer Frage von Leben und Tod. Beide Worte von Überrest sind {{% bible val="stark verbunden mit Leben und Tod verbunden, wenn es um Menschen geht" link="https://www.bibleserver.com/search/SLT/%C3%9Cberrest" %}}.
+Das [Wort](https://biblehub.com/hebrew/8300.htm) tritt das erste mal bei Josef auf, als er seinen Brüdern erzählt, dass {{% bible val="seine Prüfungen im Ägypten dazu dienten, einwn Überrest von ihnen vor der Hungersnot zu bewahren" link="gen:45,7" lang="de" %}} — einer Frage von Leben und Tod. Beide Worte von Überrest sind [stark verbunden mit Leben und Tod verbunden, wenn es um Menschen geht](https://www.bibleserver.com/search/SLT/%C3%9Cberrest).
 
 Es gibt viele Aussagen über den Überrest bei den Propheten (in Bezug auf den Tag des Herrn):
 

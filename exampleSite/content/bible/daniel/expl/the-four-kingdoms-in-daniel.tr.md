@@ -59,7 +59,7 @@ Her iki bölümde de son tanrısal bir olayla açıklanır. 2. bölümde bu olay
 
 Bu, {{% bible val="kilisenin temeli" link="eph:2,19-22" lang="tr" %}} olan {{% bible val="İsa Mesih’in" link="1pe:2,4-8" lang="tr" %}} {{% bible val="köşe taşı" link="isa:28,16" lang="tr" %}} olduğunu hatırlatır. O, “insan eliyle” üretilmemiştir ve kiliseye yönetme yetkisini veren dünyanın yöneticisi olmuştur.
 
-7. bölüme baktığımızda da bir müdahaleyle karşılaşırız: Günümüzdeki kadim olan ve {{% bible val="krallıkların üstesinden gelerek sonsuz" link="dan:7,9-12" lang="tr" %}} bir {{% bible val="krallık kuracak " link="dan:7,13-14" lang="tr" %}}olan insanoğlu. İnsanoğlu kimdir? Daniel’in bağlamında, {{% bible val="insanoğlu olarak " link="dan:7,14" lang="tr" %}}bir {{% bible val="krallık alan İsrail’dir" link="dan:7,18" lang="tr" %}}, ancak bu, insanoğlu kendisi için kullandığı tek unvan {{% bible val="olduğu için gerçek İsrail olarak İsa’da yerine getirilmiştir" link="https://www.bibleserver.com/search/TR/insano%C4%9Flu" %}}.
+7. bölüme baktığımızda da bir müdahaleyle karşılaşırız: Günümüzdeki kadim olan ve {{% bible val="krallıkların üstesinden gelerek sonsuz" link="dan:7,9-12" lang="tr" %}} bir {{% bible val="krallık kuracak " link="dan:7,13-14" lang="tr" %}}olan insanoğlu. İnsanoğlu kimdir? Daniel’in bağlamında, {{% bible val="insanoğlu olarak " link="dan:7,14" lang="tr" %}}bir {{% bible val="krallık alan İsrail’dir" link="dan:7,18" lang="tr" %}}, ancak bu, insanoğlu kendisi için kullandığı tek unvan [olduğu için gerçek İsrail olarak İsa’da yerine getirilmiştir](https://www.bibleserver.com/search/TR/insano%C4%9Flu).
 
 ## Daha fazlası var
 

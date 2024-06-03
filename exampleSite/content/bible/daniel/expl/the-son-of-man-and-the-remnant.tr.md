@@ -68,7 +68,7 @@ Eski Ahit’te sadece Hezekiel peygambere “İnsanoğlu” denir ama bu yine �
 ## The solution
 
 <a name="e03e"></a>
-İsa kendisinden söz ederken {{% bible val="yalnızca insanoğlu olarak söz eder" link="https://www.bibleserver.com/search/TR/insano%C4%9Flu" %}}. O tamamlayandır. {{% bible val="Tanrı olduğu için tapınılmaya layıktır" link="rev:5,6-14" lang="tr" %}}.
+İsa kendisinden söz ederken [yalnızca insanoğlu olarak söz eder](https://www.bibleserver.com/search/TR/insano%C4%9Flu). O tamamlayandır. {{% bible val="Tanrı olduğu için tapınılmaya layıktır" link="rev:5,6-14" lang="tr" %}}.
 
 Peki peygamberlik İsa için nasıl geçerlidir?
 

@@ -19,7 +19,7 @@ Damals gab es kein richtiges Rechtssystem, keine Versicherungen, keine Renten. A
 
 Die Gesellschaft funktionierte von unten nach oben, mit der Familie als kleinster Einheit. Deshalb war es nicht nur wichtig, einer Familie anzugehören, sondern auch, welcher Familie man angehörte, welche Rolle man spielte, welches Geschlecht man hatte und ob man der Erstgeborene war.
 
-Dieses System wird in der Bibel heftig kritisiert, da es offensichtlich alle Menschen benachteiligt, die keine Familie haben (Witwen, Waisen) oder deren Familie wenig Einfluss hat. Es gibt sehr viele Beispiele, in denen Gott als Verteidiger der {{% bible val="Witwen" link="https://www.bibleserver.com/search/SLT/Witwen" %}} und {{% bible val="Waisen" link="https://www.bibleserver.com/search/SLT/Waisen" %}} auftritt und dies sogar zu einem {{% bible val="Schlüsselelement des Glaubens" link="jas:1,27" lang="de" %}} macht.
+Dieses System wird in der Bibel heftig kritisiert, da es offensichtlich alle Menschen benachteiligt, die keine Familie haben (Witwen, Waisen) oder deren Familie wenig Einfluss hat. Es gibt sehr viele Beispiele, in denen Gott als Verteidiger der [Witwen](https://www.bibleserver.com/search/SLT/Witwen) und [Waisen](https://www.bibleserver.com/search/SLT/Waisen) auftritt und dies sogar zu einem {{% bible val="Schlüsselelement des Glaubens" link="jas:1,27" lang="de" %}} macht.
 
 Gott hat auch wichtige Personen wie 
 - Könige aus unbedeutenden Familien erwählt 

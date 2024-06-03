@@ -53,7 +53,7 @@ Das erinnert an den {{% bible val="Eckstein" link="isa:28,16" lang="de" %}}, der
 
 Wenn wir uns Kapitel 7 anschauen, sehen wir, wie der {{% bible val="Menschensohn die Reiche überwindet" link="dan:7,9-12" lang="de" %}} und ein {{% bible val="ewiges Reich aufrichtet" link="dan:7,13-14" lang="de" %}}. Doch wer ist der Menschensohn?
 
-Im Kontext von Daniel ist es Israel, weil es {{% bible val="wie der Menschensohn" link="dan:7,14" lang="de" %}} das {{% bible val="Königreich empfängt" link="dan:7,18" lang="de" %}}. Dies hat sich in Jesus erfüllt, der sich selbst {{% bible val="ausschließlich als Menschensohn bezeichnet hat" link="https://www.bibleserver.com/search/SLT/son%20of%20man" %}}.
+Im Kontext von Daniel ist es Israel, weil es {{% bible val="wie der Menschensohn" link="dan:7,14" lang="de" %}} das {{% bible val="Königreich empfängt" link="dan:7,18" lang="de" %}}. Dies hat sich in Jesus erfüllt, der sich selbst [ausschließlich als Menschensohn bezeichnet hat](https://www.bibleserver.com/search/SLT/son%20of%20man).
 
 ## Aber da ist mehr
 

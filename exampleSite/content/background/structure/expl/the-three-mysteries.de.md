@@ -12,7 +12,7 @@ Das Buch der Offenbarung spricht von drei Geheimnissen: dem Geheimnis der Kirche
 ## Das Geheimnis
 
 <a name="b12e"></a>
-Das {{% bible val="Wort Geheimnis" link="https://www.bibleserver.com/search/SLT/Geheimnis" %}} kommt bei den Propheten des Alten Testaments nur an einer Stelle vor: Im Buch Daniel, wo {{% int_link val="von der Vernichtung der Weltmächte und ihrer Ersetzung durch die anfangs klein und schwach erscheinende Herrschaft Gottes " link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}die Rede ist. Mit Geheimnis ist hier nichts Unbekanntes gemeint, sondern etwas Unglaubliches.
+Das [Wort Geheimnis](https://www.bibleserver.com/search/SLT/Geheimnis) kommt bei den Propheten des Alten Testaments nur an einer Stelle vor: Im Buch Daniel, wo {{% int_link val="von der Vernichtung der Weltmächte und ihrer Ersetzung durch die anfangs klein und schwach erscheinende Herrschaft Gottes " link="/bible/daniel/expl/the-four-kingdoms-in-daniel" %}}die Rede ist. Mit Geheimnis ist hier nichts Unbekanntes gemeint, sondern etwas Unglaubliches.
 
 Auch im Neuen Testament spricht dieses Wort von Gottes Plan, {{% bible val="der aber jetzt enthüllt ist" link="col:1,26" lang="de" %}}: Es ist Jesus am Kreuz, nicht als der Besiegte, sondern als der Überwinder dieser Welt.
 
