@@ -51,7 +51,7 @@ You may have already seen that the seven bowls and the {{% int_link val="seven t
 <a name="a667"></a>
 We need to take a closer look at the sixth bowl.
 
-{{% bible val="The river Euphrates was dried up to make way for the kings of the East." link="rev:16,12" lang="en" %}} This is an ironic statement that foreshadows the defeat of Armageddon, since according to historian Herod, Babel was defeated by the Persians (from the East) by [diverting the Euphrates River, which was a natural protection for Babel](https://en.wikipedia.org/wiki/Fall_of_Babylon#Historiography). This was probably not historically true, but it was a common belief at the time when the book of Revelation was written.
+{{% bible val="The river Euphrates was dried up to make way for the kings of the East." link="rev:16,12" lang="en" %}} This is an ironic statement that foreshadows the story of Armageddon. According to historian Herodot, Babel was defeated by the Persians (from the East) by [diverting the Euphrates River, which was a natural protection for Babel](https://en.wikipedia.org/wiki/Fall_of_Babylon#Historiography). This may or may not have been historically true, but it was a common belief at the time when the book of Revelation was written.
 
 {{% bible val="The three frogs coming out of the mouth of the dragon and his companions" link="rev:16,13" lang="en" %}} also have an interesting background. The frogs are the animal representation of [Heqed, the goddess of fertility/birth, who also was has the power of resurrection](https://en.wikipedia.org/wiki/Heqet). {{% bible val="Here we have the claim of the resurrected beast that is unbeatable" link="rev:13,3-4" lang="en" %}}.
 
