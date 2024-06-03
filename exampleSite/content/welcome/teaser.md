@@ -5,57 +5,58 @@ weight: 9
 
 ## The problem
 
-In todays world we are overwhelmed by 
+In today's world we are overwhelmed by 
 - new information that we need to process
 - ethical and political questions that are hard to answer
 - new technologies which request our attention
 
-and it is sometimes hard to find guidance and motivation in the Bible.
+It is therefore sometimes hard to find guidance and motivation in the Bible.
 
 ## The solution?
 
-From all the books of the Bible the Book of Revelation is particularily strange and hard to understand. It is full of disasters and strange pictures
+Of all the books of the Bible the Book of Revelation is particularily strange and hard to understand. It is full of apocalyptic events and strange pictures e.g.
 - the number of the beast: 666
 - the four horsemen
 - a book with seven seals
 - a mark on hand and forehead
 - angels of churches
 - armageddon
-- the 1000 years kingdom, when beheaded people rule
+- the 1000 years kingdom
 - ...
 
-You may have not even heard a good sermon on this sermon, if any and this book does not seem to be relevant to you at all in your situation.
+You may have not even heard a good sermon on this book, if any and at times it certainly does not seem to be relevant to the world today
 
 ## A different view
 
-But this is not the case at all. This book gives orientation for Christians 
+However this is not the case at all. This book is meant to be a help for Christians and to give orientation to those 
 - under persecution, 
 - in poverty, 
 - with bad leadership, 
 - suffering under wrong teaching
 - missing the Holy Spirit
 
-And it was one of the most red books in the Early Christianity, that helped them to navigate through the challenge of the oppression and deception of the Roman Empire and is fully relevant today.
+It was one of the most read books in the early Church, which helped them to navigate through the challenge of the oppression and deception of the Roman Empire and is equally relevant today.
 
 This book is a comfort and encouragement
 - in a deceptive and fallen world
-- for churches that lost their drive
-- if you lost the sense what is really important in your faith
+- for churches that have lost their focus
+- if you have personally lost the sense of what is really important in your faith
 - how the church makes a difference in this world
 
-And the center is not future disasters, but Jesus and the worship of him.
+It's core subject is not about future disasters, but about Jesus and the worship of Him.
 
 ## The journey
 
-But in order to reap the benfits of this book I invite you on a journey where
-- you read through the lenses of the first readers
+In order to reap the benfits of this book, I invite you on a journey where
+- you can see through the lens of the first readers
 - you get to understand all the unusual pictures
-- see solid argumentations from top theologians
+- you get summary of solid and founded interpretations of the imagery found in this book from established theologians
 - see the relevance for our time
 - find encouragement 
 - see concrete application
 
-You are welcome to discover this guide based on your interest, as self study or in groups. You have several options:
-- Go on the menu and browse for the topics you are interested in.
-- Go on the search bar and search for keywords
-- Take on of the tours below which also give you some options to look around
+This website can be used as a guide on your topic of interests, as in-depth self study or even for small groups. You have several options:
+- Use the menu to browse the topics you are interested in.
+- Use the search bar and search for keywords
+- Take one of the guided tours depending on your focus e.g. application, overview, poetic
+- Just explore 
