@@ -12,4 +12,4 @@
 {{- $chapter := index (split (index (split $link ":") 1) ",") 0 -}}
 {{- $verse := index (split (index (split $link ",") 1) "-") 0 -}}
 {{- $verseto := index (split (index (split $link ",") 1) "-") 1 -}}
-<span class="bible-link" style="background:orange"  data-translation="{{- $translation -}}" data-book="{{- $book -}}" data-chapter="{{- $chapter -}}" data-verse="{{- $verse -}}" data-verse-end="{{- $verseto -}}">{{- $val -}}</span>
+<span class="bible-link" data-translation="{{- $translation -}}" data-book="{{- $book -}}" data-chapter="{{- $chapter -}}" data-verse="{{- $verse -}}" data-verse-end="{{- $verseto -}}">{{- $val -}}</span>
