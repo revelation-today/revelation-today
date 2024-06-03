@@ -27,6 +27,6 @@ Hiksoslar nihayet MÖ 1550 civarında yenildi ve Mısır ikinci bir Hiksos’tan
 
 Yusuf’un Hiksoslar zamanında yaşamış olması muhtemeldir.
 
-- {{% bible val="Yusuf oradayken (Mısır’ın en kuzeyindeki) Goşen toprakları saraya yakındı" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F45%3A10" %}}
-- {{% bible val="İsrail, Pithon ve Ramses şehirlerini" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F1%3A11" %}} inşa etmek {{% bible val="zorunda kaldı" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F12%3A37" %}} ki bu muhtemelen kuzeydoğuyu yeniden inşa [eden II](https://en.wikipedia.org/wiki/Ramesses_II).
+- {{% bible val="Yusuf oradayken (Mısır’ın en kuzeyindeki) Goşen toprakları saraya yakındı" link="gen:45,10" lang="TR" %}}
+- {{% bible val="İsrail, Pithon ve Ramses şehirlerini" link="exo:1,11" lang="TR" %}} inşa etmek {{% bible val="zorunda kaldı" link="exo:12,37" lang="TR" %}} ki bu muhtemelen kuzeydoğuyu yeniden inşa [eden II](https://en.wikipedia.org/wiki/Ramesses_II).
 - Ramses’in babası I. Sethos Avaris (eski Hiksos başkenti) yakınlarında bir yazlık saray inşa ettirir; bu da Musa’nın prenses tarafından neden bu kadar çabuk bulunduğunu açıklar, çünkü burası hâlâ Goşen yakınlarındadır

@@ -7,7 +7,7 @@ next: /content/harvest/story/story
 docType: story
 ---
 
-{{% bible val="Bölüm 11–13" link="https://www.bibleserver.com/TR/Vahiy11" %}})
+{{% bible val="Bölüm 11–13" link="rev:11" lang="TR" %}})
 
 <a name="e39e"></a>
 Bu, maddi ve manevi dünyayı gerçekte olduğu gibi gördüğümüz zamandır. Her şeyden önce: Tanrı’nın varlığının tapınağı, Tanrı’yı hoşnut etmek için lütuf kazanmamız gereken bir yer değil, bu dünyada O’na sadık ve vefalı bir sevgiyle yüreğimizi gösterdiğimiz yerdir.

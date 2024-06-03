@@ -33,7 +33,7 @@ What do 2000 year old churches have to do with our situation today? Don’t we h
 ## Our text
 
 <a name="6e6b"></a>
-We will take a very quick look at the {{% bible val="chapters 2 and 3 of the book" link="https://www.bibleserver.com/NIV/Revelation2" %}} to establish some basics.
+We will take a very quick look at the {{% bible val="chapters 2 and 3 of the book" link="rev:2" lang="NIV" %}} to establish some basics.
 
 ## Overview
 

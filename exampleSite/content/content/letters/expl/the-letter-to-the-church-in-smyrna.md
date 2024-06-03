@@ -16,7 +16,7 @@ sources:
 
 Do you know Smyrna? You should, because you will find a blameless church there, but it may not be the right one for you.
 
-{{% bible val="Smyrna is one of two churches that received no rebuke from Jesus. " link="https://www.bibleserver.com/NIV/Revelation2%3A8-11" %}}So what is the secret there?
+{{% bible val="Smyrna is one of two churches that received no rebuke from Jesus. " link="rev:2,8-11" lang="NIV" %}}So what is the secret there?
 
 ## Historical background
 
@@ -35,11 +35,11 @@ Jesus approaches the church as the risen one who has conquered death. This is a 
 - They have to fight financially, probably because they don’t join the Gildes.
 - There are some Jews who slander the Church and they are probably also the reason why they go to jail (the devil will put some of you in jail, Jews are a synagogue of Satan).
 
-The reference {{% bible val="to 10 days" link="https://www.bibleserver.com/NIV/Revelation2%3A10" %}} is a link to the {{% bible val="story of Daniel" link="https://www.bibleserver.com/NIV/Daniel1%3A8-14" %}}, who ate only vegetables so as not to defile himself with an unclean food from the king’s table.
+The reference {{% bible val="to 10 days" link="rev:2,10" lang="NIV" %}} is a link to the {{% bible val="story of Daniel" link="dan:1,8-14" lang="NIV" %}}, who ate only vegetables so as not to defile himself with an unclean food from the king’s table.
 
 ## The perspective
 
 <a name="1a16"></a>
-Jesus promises: When they endure they will not be harmed by the second death. Jesus overcame by {{% bible val="going through death into resurrection and seeming to be week" link="https://www.bibleserver.com/NIV/Revelation5%3A5-6" %}}, so {{% bible val="he will reign with them" link="https://www.bibleserver.com/NIV/Revelation20%3A4-6" %}}. This is a paradox. How should this work?
+Jesus promises: When they endure they will not be harmed by the second death. Jesus overcame by {{% bible val="going through death into resurrection and seeming to be week" link="rev:5,5-6" lang="NIV" %}}, so {{% bible val="he will reign with them" link="rev:20,4-6" lang="NIV" %}}. This is a paradox. How should this work?
 
 The more we are unable to do anything, the more Jesus can work. But there is a {{% int_link val="danger of being so overwhelmed by despair that we give up" link="/content/beasts/expl/666-the-number-of-the-beast" %}}. We don’t have to solve the situation, but we have to endure with him.

@@ -27,6 +27,6 @@ The Hyksos were finally defeated around 1550 B.C., and Egypt wanted to avoid a s
 
 It is likely that Joseph lived during the time of the Hyksos as
 
-- The {{% bible val="land of Goshen (in northwest of Egypt) was near to the palace when Joseph was there" link="https://www.bibleserver.com/NIV/Genesis45%3A10" %}}.
-- Israel was forced to {{% bible val="build the cities of Pithon and Ramses" link="https://www.bibleserver.com/NIV/Exodus1%3A11" %}}, probably under [Ramses II](https://en.wikipedia.org/wiki/Ramesses_II), who rebuilt the northeast, {{% bible val="where also the Israelites also moved out from" link="https://www.bibleserver.com/NIV/Exodus12%3A37" %}}.
+- The {{% bible val="land of Goshen (in northwest of Egypt) was near to the palace when Joseph was there" link="gen:45,10" lang="NIV" %}}.
+- Israel was forced to {{% bible val="build the cities of Pithon and Ramses" link="exo:1,11" lang="NIV" %}}, probably under [Ramses II](https://en.wikipedia.org/wiki/Ramesses_II), who rebuilt the northeast, {{% bible val="where also the Israelites also moved out from" link="exo:12,37" lang="NIV" %}}.
 - Ramses’ father, Sethos I, built a summer palace near Avaris (the former Hyksos capital), which also explains why Moses was found so quickly by the princess, since this was still near Goshen.

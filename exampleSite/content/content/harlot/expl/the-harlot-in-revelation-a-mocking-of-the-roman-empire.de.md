@@ -41,11 +41,11 @@ Die Münze zeigt, wie der {{% int_link val="Römische Friede" link="/background/
 ## Die [Ekphrasis](https://de.wikipedia.org/wiki/Ekphrasis)
 
 <a name="d4d3"></a>
-Die {{% bible val="erste Hälfte von Kapitel 17" link="https://www.bibleserver.com/SLT/Offenbarung17%2C1-13" %}} der Offenbarung ist der einzige Bericht mit einem Engel, der ein statisches Bild interpretiert. Sogar in Kapitel 21 — das neue Jerusalem — zeigt der Engel nur und erklärt nicht, und das ist Aktion: die Stadt kommt herab, das Wasser fließt und die Bäume tragen Früchte. In Kapitel 17 haben wir ein statisches Bild. Und es geht darum, die Hure und das Tier zu verstehen.
+Die {{% bible val="erste Hälfte von Kapitel 17" link="rev:17,1-13" lang="SLT" %}} der Offenbarung ist der einzige Bericht mit einem Engel, der ein statisches Bild interpretiert. Sogar in Kapitel 21 — das neue Jerusalem — zeigt der Engel nur und erklärt nicht, und das ist Aktion: die Stadt kommt herab, das Wasser fließt und die Bäume tragen Früchte. In Kapitel 17 haben wir ein statisches Bild. Und es geht darum, die Hure und das Tier zu verstehen.
 
 Und dieser Text hat den Stil einer Ekphrasis, das ist die rhetorische Beschreibung eines Kunstobjekts (es könnte auch eine Person sein, ein Fest, …). Die erste Beschreibung dieser Art findet sich auf dem Schild des Achilles in der Ilias (Krieg um Troja).
 
-Diese Art von Literatur war im ersten Jahrhundert v. Chr. in Rom sehr populär. Das Hauptelement ist ein {{% bible val="verblüffter Geschichtenerzähler" link="https://www.bibleserver.com/SLT/Offenbarung17%2C7" %}},denn es geht darum, ein tieferes Verständnis des Bildes zu erlangen oder die tiefere Bedeutung des Bildes zu verstehen, das manchmal schwer zu entziffern war, wie bei der “Tafel von Cebes”, der wohl berühmtesten Ekphrasis.
+Diese Art von Literatur war im ersten Jahrhundert v. Chr. in Rom sehr populär. Das Hauptelement ist ein {{% bible val="verblüffter Geschichtenerzähler" link="rev:17,7" lang="SLT" %}},denn es geht darum, ein tieferes Verständnis des Bildes zu erlangen oder die tiefere Bedeutung des Bildes zu verstehen, das manchmal schwer zu entziffern war, wie bei der “Tafel von Cebes”, der wohl berühmtesten Ekphrasis.
 
 Diese Tafel ist wahrscheinlich die Grundlage für Offenbarung 17. Sie beschreibt eine Gruppe von Menschen, die ein Bild auf einer Widmungstafel in einem Tempel beschreiben, das sie nicht verstehen. Ein alter Mann kommt und [erklärt es(siehe Kapitel 8)](https://archive.org/details/cebestabletwithi00cebeiala/page/n4/mode/1up?view=theater):
 

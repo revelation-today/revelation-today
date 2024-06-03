@@ -19,24 +19,24 @@ Antik dünyada gerçekten bir hukuk sistemi, sigorta veya destek olanakları yok
 
 Toplum, en küçük birim olarak aile ile birlikte çalışmıştır. Bu nedenle sadece bir aileye ait olmak değil, aynı zamanda hangi aileye ait olduğunuz, hangi rolde olduğunuz, cinsiyetiniz ve doğum sıranız da önemliydi.
 
-Sistem Kutsal Kitap’ta ağır bir şekilde eleştirilir, çünkü dullar ve yetimler gibi bir ailesi olmayan ya da nüfuzu az olan ailelerin dezavantajlı olduğu açıktır. Tanrı’nın {{% bible val="dul" link="https://www.bibleserver.com/search/TR/dul" %}} ve yetimlerin savunucusu olarak ortaya çıktığı ve {{% bible val="hatta bunu imanın temel bir unsuru" link="https://www.bibleserver.com/TR/Yakup1%3A27" %}} haline getirdiği pek çok örnek vardır.
+Sistem Kutsal Kitap’ta ağır bir şekilde eleştirilir, çünkü dullar ve yetimler gibi bir ailesi olmayan ya da nüfuzu az olan ailelerin dezavantajlı olduğu açıktır. Tanrı’nın {{% bible val="dul" link="https://www.bibleserver.com/search/TR/dul" %}} ve yetimlerin savunucusu olarak ortaya çıktığı ve {{% bible val="hatta bunu imanın temel bir unsuru" link="jas:1,27" lang="TR" %}} haline getirdiği pek çok örnek vardır.
 
 Ayrıca Tanrı krallar gibi önemli kişileri 
-- {{% bible val="önemsiz ailelerden" link="https://www.bibleserver.com/TR/Rut4%3A16-17" %}} 
+- {{% bible val="önemsiz ailelerden" link="rut:4,16-17" lang="TR" %}} 
     - Rut yarı Moavlıydı ve kral Davut’un büyükannesiydi ya 
-- da yabancılardan ({{% bible val="İsa’nın soy ağacındaki üç yabancı kadına bakın" link="https://www.bibleserver.com/TR/Matta1%3A2-16" %}}: 
-    - {{% bible val="Kenanlı Tamar" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F38" %}}, 
-    - {{% bible val="yarı Moavlı Rut" link="https://www.bibleserver.com/TR/Rut1%3A1-4" %}} ve 
-    - {{% bible val="bir Hitit’in karısı olan Batşeba" link="https://www.bibleserver.com/TR/2.Samuel11%3A3" %}} seçmeyi sever.
+- da yabancılardan ({{% bible val="İsa’nın soy ağacındaki üç yabancı kadına bakın" link="mat:1,2-16" lang="TR" %}}: 
+    - {{% bible val="Kenanlı Tamar" link="gen:38" lang="TR" %}}, 
+    - {{% bible val="yarı Moavlı Rut" link="rut:1,1-4" lang="TR" %}} ve 
+    - {{% bible val="bir Hitit’in karısı olan Batşeba" link="2sa:11,3" lang="TR" %}} seçmeyi sever.
 
-Kutsal Kitap kurtarıcıyı vurgular ({{% bible val="kurtarılması gereken en yakın akraba" link="https://www.bibleserver.com/TR/Levililer25%3A47-49" %}}). Bu kişi yakın akrabalardan birinin başı derde girdiğinde yardım etmekle yükümlüdür. Bu
-- {{% bible val="to deliver from captivity" link="https://www.bibleserver.com/TR/Yaratılış14" %}}
+Kutsal Kitap kurtarıcıyı vurgular ({{% bible val="kurtarılması gereken en yakın akraba" link="lev:25,47-49" lang="TR" %}}). Bu kişi yakın akrabalardan birinin başı derde girdiğinde yardım etmekle yükümlüdür. Bu
+- {{% bible val="to deliver from captivity" link="gen:14" lang="TR" %}}
 - kişiyi kölelikten kurtarmak için ödeme yapmak
-- {{% bible val="mülkü geri satın alır" link="https://www.bibleserver.com/TR/Levililer25%3A25-26" %}}
-- {{% bible val="beladan kurtulmak için evlen" link="https://www.bibleserver.com/TR/Rut4" %}} ya da {{% bible val="dul kadın için zürriyet sağla" link="https://www.bibleserver.com/TR/Yaratılış38%3A8" %}}
+- {{% bible val="mülkü geri satın alır" link="lev:25,25-26" lang="TR" %}}
+- {{% bible val="beladan kurtulmak için evlen" link="rut:4" lang="TR" %}} ya da {{% bible val="dul kadın için zürriyet sağla" link="gen:38,8" lang="TR" %}}
 - ...
 
-Bu, {{% bible val="Tanrı üstlendi" link="https://www.bibleserver.com/TR/Ye%C5%9Faya44%3A24" %}} çünkü toplum çoğu zaman bunu yapmakta başarısız oldu, bu da {{% bible val=" Hıristiyan inancında önemli bir konudur" link="https://www.bibleserver.com/TR/Efesliler1%3A7" %}}.
+Bu, {{% bible val="Tanrı üstlendi" link="isa:44,24" lang="TR" %}} çünkü toplum çoğu zaman bunu yapmakta başarısız oldu, bu da {{% bible val=" Hıristiyan inancında önemli bir konudur" link="eph:1,7" lang="TR" %}}.
 
 ## Ataerkil
 
@@ -57,28 +57,28 @@ Patriğin görevi şuydu
 
 Aile reisi öldüğünde ya da aile çok büyüdüğünde, aile bölünür ve her ailedeki en yaşlı erkek aile reisi olur.
 
-Bunun nasıl iyi işlediğine dair bir örnek, {{% bible val="üç oğlu olan Terah’tır: Haran, Avram ve Nahor. Haran ölürken" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F11%3A27-31" %}}, {{% bible val="Avram’ın bakımını üstlendiği bir oğul bırakır" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F12%3A1-4" %}}.
+Bunun nasıl iyi işlediğine dair bir örnek, {{% bible val="üç oğlu olan Terah’tır: Haran, Avram ve Nahor. Haran ölürken" link="gen:11,27-31" lang="TR" %}}, {{% bible val="Avram’ın bakımını üstlendiği bir oğul bırakır" link="gen:12,1-4" lang="TR" %}}.
 
 Bu dönemde birden fazla eşe sahip olmak yaygındı (örneğin birinin erkek çocuk vermemesi durumunda). Birden fazla eşe sahip olmak her zaman sorunlara yol açtığı için bu durum genel olarak eleştirilmiştir
 
-- {{% bible val="belanın ta kendisi olan Lamech ile başlayarak" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F4%3A23-26" %}}
-- {{% bible val="Çocuk sahibi olmak için hizmetçisini kullanan İbrahim’in dramı" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F16" %}}
-- {{% bible val="Jacobs’un eşlerinin doğum savaşı" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F30%3A1-24" %}}
-- {{% bible val="Elkanah’ın hikayesi" link="https://www.bibleserver.com/TR/1.Samuel1" %}}
+- {{% bible val="belanın ta kendisi olan Lamech ile başlayarak" link="gen:4,23-26" lang="TR" %}}
+- {{% bible val="Çocuk sahibi olmak için hizmetçisini kullanan İbrahim’in dramı" link="gen:16" lang="TR" %}}
+- {{% bible val="Jacobs’un eşlerinin doğum savaşı" link="gen:30,1-24" lang="TR" %}}
+- {{% bible val="Elkanah’ın hikayesi" link="1sa:1" lang="TR" %}}
 - Davut ve farklı eşlerden olan oğlu
-- {{% bible val="Salomon ve çöküşü" link="https://www.bibleserver.com/TR/1.Krallar11%3A3" %}}
-- {{% bible val="Bir erkeğin iki karısı olduğunda müdahale" link="https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B121%3A17" %}}
+- {{% bible val="Salomon ve çöküşü" link="1ki:11,3" lang="TR" %}}
+- {{% bible val="Bir erkeğin iki karısı olduğunda müdahale" link="deu:21,17" lang="TR" %}}
 
-{{% bible val="Kadınların yasalara göre miras almalarına izin verilmiş" link="https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m36" %}}, {{% bible val="bağımsız bir iş kurmaları, hatta aile reisi gibi davranmaları ve kocaları tarafından övülmeleri teşvik edilmiştir" link="https://www.bibleserver.com/TR/%C3%96zdeyi%C5%9Fler31%3A15-31" %}}.
+{{% bible val="Kadınların yasalara göre miras almalarına izin verilmiş" link="num:36" lang="TR" %}}, {{% bible val="bağımsız bir iş kurmaları, hatta aile reisi gibi davranmaları ve kocaları tarafından övülmeleri teşvik edilmiştir" link="pro:31,15-31" lang="TR" %}}.
 
 ## Miras
 
 <a name="82a3"></a>
-İlk doğan oğul, {{% bible val="kardeşleri arasında lider bir role" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F43%3A33" %}} sahiptir ve babasının potansiyel halefi olduğu için {{% bible val="çifte mirasa sahip" link="https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B121%3A17" %}} olur. Bu yüzden babası öldükten sonra tüm aileye bakmayı öğrenmesi gerekiyordu.
+İlk doğan oğul, {{% bible val="kardeşleri arasında lider bir role" link="gen:43,33" lang="TR" %}} sahiptir ve babasının potansiyel halefi olduğu için {{% bible val="çifte mirasa sahip" link="deu:21,17" lang="TR" %}} olur. Bu yüzden babası öldükten sonra tüm aileye bakmayı öğrenmesi gerekiyordu.
 
-Örnek olarak, {{% bible val="Yusuf kaybolduğunda" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F37%3A21-30" %}} en {{% bible val="büyük oğul" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F6%3A14" %}} olarak çok sıkıntı çeken ve {{% bible val="ailesi için oğluna söz veren Ruben verilebilir" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F42%3A37" %}}.
+Örnek olarak, {{% bible val="Yusuf kaybolduğunda" link="gen:37,21-30" lang="TR" %}} en {{% bible val="büyük oğul" link="exo:6,14" lang="TR" %}} olarak çok sıkıntı çeken ve {{% bible val="ailesi için oğluna söz veren Ruben verilebilir" link="gen:42,37" lang="TR" %}}.
 
-Ancak en büyük oğul bir ailenin iyi bir lideri olmayabilir ve bu nedenle Tanrı bu düzeni {{% bible val="Yakup" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F25%3A25-26" %}}, {{% bible val="Manaşşe" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F48%3A13-20" %}} ya da {{% bible val="Davut" link="https://www.bibleserver.com/TR/1.Samuel16%3A1-13" %}} ile sık sık bozar.
+Ancak en büyük oğul bir ailenin iyi bir lideri olmayabilir ve bu nedenle Tanrı bu düzeni {{% bible val="Yakup" link="gen:25,25-26" lang="TR" %}}, {{% bible val="Manaşşe" link="gen:48,13-20" lang="TR" %}} ya da {{% bible val="Davut" link="1sa:16,1-13" lang="TR" %}} ile sık sık bozar.
 
 Bir kadın için çok zor bir durumdu.
 
@@ -86,18 +86,18 @@ Bir kadın için çok zor bir durumdu.
 - eş olur ve kocasının ailesine katılır
 - kocası öldükten sonra oğulları tarafından ailelerinden birine katılması sağlanacaktır.
 
-{{% bible val="Kutsal Kitap, tüm bu ağlardan düşen" link="https://www.bibleserver.com/TR/Rut1%3A1-5" %}} ve {{% bible val="kurtarıcısı Boas tarafından hala korunan bir kadını gösterir" link="https://www.bibleserver.com/TR/Rut4" %}}.
+{{% bible val="Kutsal Kitap, tüm bu ağlardan düşen" link="rut:1,1-5" lang="TR" %}} ve {{% bible val="kurtarıcısı Boas tarafından hala korunan bir kadını gösterir" link="rut:4" lang="TR" %}}.
 
-{{% bible val="Bir başka örnek de, Yahuda kendisine bir koca vermediği ve böylece bir aile tarafından korunduğu için doğru olarak yargılanan Tamar’dır." link="https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B124%3A19-21" %}}
+{{% bible val="Bir başka örnek de, Yahuda kendisine bir koca vermediği ve böylece bir aile tarafından korunduğu için doğru olarak yargılanan Tamar’dır." link="deu:24,19-21" lang="TR" %}}
 
 ## Arazi
 
 <a name="ba14"></a>
 Toprak, ailenin geçimini sağladığı yerdi ve bu toprak babadan oğula geçerdi.
 
-Eğer aile toprağı satmak zorunda kalırsa, toprak mahvolurdu, bu {{% bible val="yüzden Kutsal Kitap toprağın geri verilmesini sağlar" link="https://www.bibleserver.com/TR/Levililer25%3A10" %}}.
+Eğer aile toprağı satmak zorunda kalırsa, toprak mahvolurdu, bu {{% bible val="yüzden Kutsal Kitap toprağın geri verilmesini sağlar" link="lev:25,10" lang="TR" %}}.
 
 ## Tanrı ve aile
 
 <a name="7049"></a>
-Tanrı baba olarak, İsa ise diğerleriyle ilgilenen ilk doğan olarak resmedilir ve hep birlikte yaşayabilmemiz için {{% bible val="çok daireli bir ev" link="https://www.bibleserver.com/TR/Yuhanna14%3A1-3" %}} verir.
+Tanrı baba olarak, İsa ise diğerleriyle ilgilenen ilk doğan olarak resmedilir ve hep birlikte yaşayabilmemiz için {{% bible val="çok daireli bir ev" link="jhn:14,1-3" lang="TR" %}} verir.

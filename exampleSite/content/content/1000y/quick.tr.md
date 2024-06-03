@@ -9,7 +9,7 @@ next: /content/paradise/quick
 docType: quick
 ---
 
-{{% bible val="Bölüm 20" link="https://www.bibleserver.com/TR/Vahiy20" %}}
+{{% bible val="Bölüm 20" link="rev:20" lang="TR" %}}
 
 
 ## Genel Bakış

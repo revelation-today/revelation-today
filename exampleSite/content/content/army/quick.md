@@ -9,7 +9,7 @@ next: /content/trumpets/quick
 docType: quick
 ---
 
-{{% bible val="Chapter 7" link="https://www.bibleserver.com/NIV/Revelation7" %}}
+{{% bible val="Chapter 7" link="rev:7" lang="NIV" %}}
 
 After the dramatic actions of the last chapter there are a few things that need to be settled:
 - How will the church handle all of this overwhelming action?
@@ -17,7 +17,7 @@ After the dramatic actions of the last chapter there are a few things that need 
 
 ## The protection of the church
 
-The chapter starts with the {{% bible val="description of sealing" link="https://www.bibleserver.com/NIV/Revelation7%3A1-4" %}}. An angel is requested to wait until the saints are sealed. This activities are the {{% bible val="plagues of the trumpets" link="https://www.bibleserver.com/NIV/Revelation9" %}}. Espacially the {{% bible val="fifth trumpet" link="https://www.bibleserver.com/NIV/Revelation9 is important as here all people are [excluded who are sealed](https://www.bibleserver.com/NIV/Revelation9%3A1-6" %}}.
+The chapter starts with the {{% bible val="description of sealing" link="rev:7,1-4" lang="NIV" %}}. An angel is requested to wait until the saints are sealed. This activities are the {{% bible val="plagues of the trumpets" link="rev:9" lang="NIV" %}}. Espacially the {{% bible val="fifth trumpet" link="rev:9 is important as here all people are [excluded who are sealed](https://www.bibleserver.com/NIV/Revelation9,1-6" lang="NIV" %}}.
 
 This is the plagues where people loose all hope and want to die but can not. We are the saints are spared from this which means we are facing trouble but we get the strength to endure this and be a testimony to others.
 
@@ -25,9 +25,9 @@ This is the plagues where people loose all hope and want to die but can not. We 
 
 At this time it is not so clear what the church should do, but the church is described in a very interesting way.
 
-On the one hand it is described as an {{% bible val="army" link="https://www.bibleserver.com/NIV/Revelation7%3A5-8" %}} (the counting reminds on the counting of the army during the exodus). And the army is 12.000 from each tribe of Israel led by the tribe of Judah where Jesus is from. But this is only what John hears. 
+On the one hand it is described as an {{% bible val="army" link="rev:7,5-8" lang="NIV" %}} (the counting reminds on the counting of the army during the exodus). And the army is 12.000 from each tribe of Israel led by the tribe of Judah where Jesus is from. But this is only what John hears. 
 
-But the reality he sees is very different. It is a {{% bible val="uncountable number of worshippers, that come out of the Great Tribulation" link="https://www.bibleserver.com/NIV/Revelation7%3A9-17" %}}. 
+But the reality he sees is very different. It is a {{% bible val="uncountable number of worshippers, that come out of the Great Tribulation" link="rev:7,9-17" lang="NIV" %}}. 
 
 This does sounds like a very strong tension. We should be victorious, be are this in our worship (loyalty to God) and our faitfhul endurance (testimony to others). In all this we doing this in the presence of the lamb (Jesus).
 

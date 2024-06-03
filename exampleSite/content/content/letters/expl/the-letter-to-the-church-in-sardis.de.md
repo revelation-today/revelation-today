@@ -14,7 +14,7 @@ sources:
       ref: fee_rev
 ---
 
-Wie sieht eine tote Gemeinschaft aus? Wie wird sie wieder lebendig? Willst du mehr wissen? Dann lies den {{% bible val="Brief an Sardes" link="https://www.bibleserver.com/SLT/Offenbarung3%2C1-6" %}} an.
+Wie sieht eine tote Gemeinschaft aus? Wie wird sie wieder lebendig? Willst du mehr wissen? Dann lies den {{% bible val="Brief an Sardes" link="rev:3,1-6" lang="SLT" %}} an.
 
 ## Der historische Hintergrund
 
@@ -28,7 +28,7 @@ Die Stadt galt als sehr wichtig. Als sie z.B. im Jahre 17 v. Chr. durch ein Erdb
 ## Jesu Sicht
 
 <a name="4d09"></a>
-Jesus spricht zur {{% bible val="Gemeinde in der Fülle des Heiligen Geistes und erinnert sie daran, dass sie das Licht der Welt sein sollen" link="https://www.bibleserver.com/SLT/Offenbarung3%2C1" %}}.
+Jesus spricht zur {{% bible val="Gemeinde in der Fülle des Heiligen Geistes und erinnert sie daran, dass sie das Licht der Welt sein sollen" link="rev:3,1" lang="SLT" %}}.
 
 Es gibt sehr wenig Lob: nur für einige wenige, die ohne Schuld sind.
 
@@ -41,9 +41,9 @@ Das Hauptproblem ist die mangelnde Selbstwahrnehmung. Die Selbstüberschätzung 
 
 Sie dachten, sie könnten als Gemeinde ohne die Hilfe des Heiligen Geistes wirksam sein.
 
-Der Hinweis “{{% bible val="wache auf und stärke, was am Sterben ist" link="https://www.bibleserver.com/SLT/Offenbarung3%2C1-2" %}}” hat einen starken Bezug zum {{% bible val="Tal der toten Gebeine, über das der Heilige Geist kommt und neues Leben schenkt" link="https://www.bibleserver.com/SLT/Hesekiel37" %}}.
+Der Hinweis “{{% bible val="wache auf und stärke, was am Sterben ist" link="rev:3,1-2" lang="SLT" %}}” hat einen starken Bezug zum {{% bible val="Tal der toten Gebeine, über das der Heilige Geist kommt und neues Leben schenkt" link="ezk:37" lang="SLT" %}}.
 
-Auch der Hinweis “{{% bible val="habe deine Werke nicht für vollkommen befunden vor Gott" link="https://www.bibleserver.com/SLT/Offenbarung3%2C2" %}}” erinnert daran, dass “{{% bible val="alle vollkommenen Werke von Gott kommen, dem Vater des Lichts" link="https://www.bibleserver.com/SLT/Jakobus1%2C17" %}}”.
+Auch der Hinweis “{{% bible val="habe deine Werke nicht für vollkommen befunden vor Gott" link="rev:3,2" lang="SLT" %}}” erinnert daran, dass “{{% bible val="alle vollkommenen Werke von Gott kommen, dem Vater des Lichts" link="jas:1,17" lang="SLT" %}}”.
 
 Sie müssen schnell handeln oder Gott wird sie überraschend treffen, denn ein Leben ohne den Heiligen Geist ist auf Dauer nicht möglich.
 

@@ -17,7 +17,7 @@ expl: /content/1000y/expl/the-thousand-year-kingdom
 ## Bizim metnimiz
 
 <a name="7607"></a>
-Hızla ilerliyoruz ve {{% bible val="20. bölüme" link="https://www.bibleserver.com/TR/Vahiy20" %}} geçiyoruz.
+Hızla ilerliyoruz ve {{% bible val="20. bölüme" link="rev:20" lang="TR" %}} geçiyoruz.
 
 ## 1000 yıl
 

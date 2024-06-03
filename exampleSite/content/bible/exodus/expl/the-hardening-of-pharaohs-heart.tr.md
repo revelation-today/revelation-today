@@ -10,7 +10,7 @@ docType: expl
 
 Tanrı’nın Firavun’un yüreğini katılaştırması, onun zalimlikten başka bir şansı olmaması ve bu yüzden cezalandırılması adil midir?
 
-Tanrı {{% bible val="firavunun yüreğini katılaştıracağını" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F4%3A21" %}}, böylece halkın gitmesine izin vermeyeceğini söyler.
+Tanrı {{% bible val="firavunun yüreğini katılaştıracağını" link="exo:4,21" lang="TR" %}}, böylece halkın gitmesine izin vermeyeceğini söyler.
 
 İbranice’de yüreğin katılaşmasını ifade eden üç farklı sözcük vardır.
 
@@ -22,5 +22,5 @@ Bağlantıya baktığınızda bu fiillerin geniş bir yelpazede tercüme edildi�
 
 Örnekler üzerinde yürümek için zaman ayırın, ama ana fikir şudur: Tanrı, Firavun’un yüreğini öyle güçlendirdi ki, Tanrı’nın harekete geçtiğini gördüğünde pes etmedi ama Tanrı’ya direnme gücüne sahip oldu ve bunu sık sık kullandı.
 
-Firavunun aktif bir rolü olduğu, {{% bible val="günah işlediğini kabul ettiği" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F9%3A27" %}} ilk yıkıcı dolu salgını sırasında ortaya çıkar ve {{% bible val="dolu durduğunda tekrar günah işler ve kalbini katılaştırır" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F9%3A34" %}}.
+Firavunun aktif bir rolü olduğu, {{% bible val="günah işlediğini kabul ettiği" link="exo:9,27" lang="TR" %}} ilk yıkıcı dolu salgını sırasında ortaya çıkar ve {{% bible val="dolu durduğunda tekrar günah işler ve kalbini katılaştırır" link="exo:9,34" lang="TR" %}}.
 

@@ -8,7 +8,7 @@ next: /content/seals/quick
 docType: quick
 ---
 
-{{% bible val="Chapter 4" link="https://www.bibleserver.com/NIV/Revelation4" %}} and {{% bible val="5" link="https://www.bibleserver.com/NIV/Revelation5" %}}.
+{{% bible val="Chapter 4" link="rev:4" lang="NIV" %}} and {{% bible val="5" link="rev:5" lang="NIV" %}}.
 
 ## The Answer to all questions
 
@@ -32,7 +32,7 @@ This requires a better understanding of the plagues, but there are several indic
 
 ## The scroll
 
-The {{% bible val="scroll with the seven seals" link="https://www.bibleserver.com/NIV/Revelation5%3A1-5" %}} is the first thing in the book that is very strange. But in the time of the first reader it ws very normal. It was a document sealed by seven witnesses, the contetn cummarized on the outside, so that when it is opened, the document becomes active like a law or a testament.
+The {{% bible val="scroll with the seven seals" link="rev:5,1-5" lang="NIV" %}} is the first thing in the book that is very strange. But in the time of the first reader it ws very normal. It was a document sealed by seven witnesses, the contetn cummarized on the outside, so that when it is opened, the document becomes active like a law or a testament.
 
 The question who is worthy to open this is not "who is allowed to read it", but "who is allowed to exeute this". Even it is not fully clear here what the content is, it seesm to be the plan of God as John is devastated as noone is found worthy to open the scroll.
 
@@ -44,5 +44,5 @@ In the prophetic literature we normally **sees** a vision where the recipient is
 
 ![](/images/hear_en.jpg)
 
-This is turned around here: The very know topic of the Messiah that overthrows the rulers is explained by the sacrificial lamb. This is the way how God conquers this world and makes judgment. The exact same picture we have with the {{% bible val="144.000" link="https://www.bibleserver.com/NIV/Revelation7%3A5-17" %}} later (an army which are actually worshippers coming out of tribulation).
+This is turned around here: The very know topic of the Messiah that overthrows the rulers is explained by the sacrificial lamb. This is the way how God conquers this world and makes judgment. The exact same picture we have with the {{% bible val="144.000" link="rev:7,5-17" lang="NIV" %}} later (an army which are actually worshippers coming out of tribulation).
 

@@ -8,7 +8,7 @@ next: /content/worship/quick
 docType: quick
 ---
 
-{{% bible val="Kapitel 2" link="https://www.bibleserver.com/NIV/Revelation2" %}} und {{% bible val="3" link="https://www.bibleserver.com/NIV/Revelation3" %}}.
+{{% bible val="Kapitel 2" link="rev:2" lang="NIV" %}} und {{% bible val="3" link="rev:3" lang="NIV" %}}.
 
 Die Briefe beschreiben, wie die Gemeinden in der Vision leben. Das zeigt die Sicht, die Jesus auf die Gemeinden hat. Und das Ergebnis ist niederschmetternd:
 - Nur zwei Gemeinden werden gelobt: Smyrna und Philadelpia, die unter Verfolgung und Armut leiden

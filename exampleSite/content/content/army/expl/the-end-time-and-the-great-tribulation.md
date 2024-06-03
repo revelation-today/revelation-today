@@ -46,25 +46,25 @@ On the other hand, you could say that the end times refer to Jesus’ second com
 ## The great tribulation
 
 <a name="a3b5"></a>
-The Great Tribulation is a term that appears in the {{% bible val="book of Revelation" link="https://www.bibleserver.com/NIV/Revelation7%3A14" %}} and the article “the” shows that the Great Tribulation has a history. This term originated in Daniel:
+The Great Tribulation is a term that appears in the {{% bible val="book of Revelation" link="rev:7,14" lang="NIV" %}} and the article “the” shows that the Great Tribulation has a history. This term originated in Daniel:
 
-“{{% bible val="‘At that time Michael, the great prince who protects your people, will arise. There will be a time of distress such as has not happened from the beginning of nations until then. But at that time your people — everyone whose name is found written in the book — will be delivered." link="https://www.bibleserver.com/NIV/Daniel12%3A1" %}}”
+“{{% bible val="‘At that time Michael, the great prince who protects your people, will arise. There will be a time of distress such as has not happened from the beginning of nations until then. But at that time your people — everyone whose name is found written in the book — will be delivered." link="dan:12,1" lang="NIV" %}}”
 
-This passage is referenced in {{% bible val="Matthew" link="https://www.bibleserver.com/NIV/Matthew24%3A21" %}} and {{% bible val="Mark" link="https://www.bibleserver.com/NIV/Mark13%3A19" %}} when Jesus also speaks of the destruction of Jerusalem and the temple.
+This passage is referenced in {{% bible val="Matthew" link="mat:24,21" lang="NIV" %}} and {{% bible val="Mark" link="mrk:13,19" lang="NIV" %}} when Jesus also speaks of the destruction of Jerusalem and the temple.
 
-In the context of Daniel this was to emphasize the loyalty of Gods people during the time of {{% bible val="Antioches Epiphanes and beyond" link="https://www.bibleserver.com/NIV/Daniel11%3A30-39" %}} and it was used to {{% bible val="purify the saints and divide between the saints and the wicked" link="https://www.bibleserver.com/NIV/Daniel12%3A10" %}}. Some of {{% bible val="God’s people will be deceived and will turn away from God" link="https://www.bibleserver.com/NIV/Daniel11%3A32-34" %}}.
+In the context of Daniel this was to emphasize the loyalty of Gods people during the time of {{% bible val="Antioches Epiphanes and beyond" link="dan:11,30-39" lang="NIV" %}} and it was used to {{% bible val="purify the saints and divide between the saints and the wicked" link="dan:12,10" lang="NIV" %}}. Some of {{% bible val="God’s people will be deceived and will turn away from God" link="dan:11,32-34" lang="NIV" %}}.
 
-This oppression can be economic {{% bible val="as in Smyrna or for the third horseman" link="https://www.bibleserver.com/NIV/Revelation6%3A5-6" %}} or {{% bible val="prison and even death" link="https://www.bibleserver.com/NIV/Revelation2%3A10" %}}.
+This oppression can be economic {{% bible val="as in Smyrna or for the third horseman" link="rev:6,5-6" lang="NIV" %}} or {{% bible val="prison and even death" link="rev:2,10" lang="NIV" %}}.
 
-We see the tribulation already foretold by {{% bible val="Jesus to the disciples" link="https://www.bibleserver.com/NIV/John16%3A33" %}}, during the {{% bible val="mission of Paul" link="https://www.bibleserver.com/NIV/Acts14%3A22" %}}, as a {{% bible val="catalyst of hope" link="https://www.bibleserver.com/NIV/Romans5%3A3-4" %}}, it {{% bible val="cannot separate us from Jesus" link="https://www.bibleserver.com/NIV/Romans8%3A35-36" %}}, as a {{% bible val="warning to Timothy" link="https://www.bibleserver.com/NIV/2%20Timothy3%3A12" %}} and in the {{% bible val="letter of Peter" link="https://www.bibleserver.com/NIV/1%20Peter4%3A12-13" %}}.
+We see the tribulation already foretold by {{% bible val="Jesus to the disciples" link="jhn:16,33" lang="NIV" %}}, during the {{% bible val="mission of Paul" link="act:14,22" lang="NIV" %}}, as a {{% bible val="catalyst of hope" link="rom:5,3-4" lang="NIV" %}}, it {{% bible val="cannot separate us from Jesus" link="rom:8,35-36" lang="NIV" %}}, as a {{% bible val="warning to Timothy" link="2ti:3,12" lang="NIV" %}} and in the {{% bible val="letter of Peter" link="1pe:4,12-13" lang="NIV" %}}.
 
 [The term itself is taken up as a warning to the church in Thyatira, which is a judgment on the current leader identified as Jesebel](https://biblehub.com/interlinear/revelation/2-22.htm).
 
 This makes the Great Tribulation something that happens the whole time between Jesus first and second coming. But how is this possible?
 
-Let us look again at the passage in Daniel. “Michael, the protector of Israel, will arise”. This is taken up in the Book of Revelation in connection with the {{% int_link val="first coming of Christ" link="/content/jesus/expl/a-different-christmas-story" %}} in chapter 12. {{% bible val="Michael will fight with the dragon" link="https://www.bibleserver.com/NIV/Revelation12%3A7" %}} ({{% bible val="devil" link="https://www.bibleserver.com/NIV/Revelation12%3A9" %}}) and defeat him and cast him out of heaven. 
+Let us look again at the passage in Daniel. “Michael, the protector of Israel, will arise”. This is taken up in the Book of Revelation in connection with the {{% int_link val="first coming of Christ" link="/content/jesus/expl/a-different-christmas-story" %}} in chapter 12. {{% bible val="Michael will fight with the dragon" link="rev:12,7" lang="NIV" %}} ({{% bible val="devil" link="rev:12,9" lang="NIV" %}}) and defeat him and cast him out of heaven. 
 
-{{% bible val="But because of his defeat, he is ruthless because he has only little time" link="https://www.bibleserver.com/NIV/Revelation12%3A12" %}} and tries to do as much damage as possible, {{% bible val="first against Israel" link="https://www.bibleserver.com/NIV/Revelation12%3A13-17" %}} and at this didn’t work, {{% bible val="against the church" link="https://www.bibleserver.com/NIV/Revelation13" %}}.
+{{% bible val="But because of his defeat, he is ruthless because he has only little time" link="rev:12,12" lang="NIV" %}} and tries to do as much damage as possible, {{% bible val="first against Israel" link="rev:12,13-17" lang="NIV" %}} and at this didn’t work, {{% bible val="against the church" link="rev:13" lang="NIV" %}}.
 
 So the Great Tribulation refers to all the tribulations that we as the Church are facing.
 

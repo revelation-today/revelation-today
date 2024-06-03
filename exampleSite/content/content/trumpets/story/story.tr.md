@@ -7,7 +7,7 @@ next: /content/scroll/story/story
 docType: story
 ---
 
-{{% bible val="Bölüm 8–9" link="https://www.bibleserver.com/TR/Vahiy8" %}}
+{{% bible val="Bölüm 8–9" link="rev:8" lang="TR" %}}
 
 <a name="3037"></a>
 Kilisenin gücünü ortaya koymasının zamanı gelmiştir. Çarmıha gerilen İsa’nın dünyayı sarsmasıyla aynı güçle, kilisenin duası da aynı şeyi yapar. Dünyayı sarsan trompet sesine neden olurlar. Yiyecek, su, ticaret, güvenlik — hepsi yok olmuştur. Bu durum insanları gerçek olanı aramaya itecek mi? Hayır! Putlarına sadık kalırlar.

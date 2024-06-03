@@ -25,26 +25,26 @@ The chapter picks up the {{% int_link val="Lamb standing from chapter 5" link="/
 
 The 144,000 have the name of the Lamb and of God on their foreheads, which defines their identity and their belonging (belonging to God), so it is a different reflection of the sealing in chapter 7.
 
-They are singing a new song, probably in the context of {{% bible val="chapter 5" link="https://www.bibleserver.com/NIV/Revelation5%3A9-10" %}}, where this scene also describes the worship of the Lamb from the angels reaching out to the whole creation.
+They are singing a new song, probably in the context of {{% bible val="chapter 5" link="rev:5,9-10" lang="NIV" %}}, where this scene also describes the worship of the Lamb from the angels reaching out to the whole creation.
 
 This passage comes right after the overwhelming pressure of the dragon and the two beasts. They conquer the saints, make everyone worship them, deceive the whole earth, and mark them as their own.
 
 This is very intimidating, but God’s people are still standing. They have a song of praise (and victory) on their lips, and the devil is the real loser in the whole story:
 
-- {{% bible val="He fails to destroy the child" link="https://www.bibleserver.com/NIV/Revelation12%3A1-6" %}}.
-- {{% bible val="He loses his position in heaven" link="https://www.bibleserver.com/NIV/Revelation12%3A7-12" %}}.
-- {{% bible val="He fails to destroy the woman" link="https://www.bibleserver.com/NIV/Revelation12%3A13-17" %}}.
-- {{% bible val="His perception and suppression with the two beasts" link="https://www.bibleserver.com/NIV/Revelation13" %}} is a {{% int_link val="disaster" link="/content/beasts/expl/666-the-number-of-the-beast" %}}.
+- {{% bible val="He fails to destroy the child" link="rev:12,1-6" lang="NIV" %}}.
+- {{% bible val="He loses his position in heaven" link="rev:12,7-12" lang="NIV" %}}.
+- {{% bible val="He fails to destroy the woman" link="rev:12,13-17" lang="NIV" %}}.
+- {{% bible val="His perception and suppression with the two beasts" link="rev:13" lang="NIV" %}} is a {{% int_link val="disaster" link="/content/beasts/expl/666-the-number-of-the-beast" %}}.
 - {{% int_link val="And his victory over the saints backfires" link="/content/witnesses/expl/the-two-witnesses" %}}.
 
 Not only that, but they fulfilled the {{% int_link val="destiny of the little scroll" link="/content/scroll/expl/the-little-scroll" %}}. But what is their secret? It is written here:
 
-“{{% bible val="These are those who did not defile themselves with women, for they remained virgins. They follow the Lamb wherever he goes. They were purchased from among mankind and offered as first fruits to God and the Lamb. No lie was found in their mouths; they are blameless." link="https://www.bibleserver.com/NIV/Revelation14%3A4-5" %}}”
+“{{% bible val="These are those who did not defile themselves with women, for they remained virgins. They follow the Lamb wherever he goes. They were purchased from among mankind and offered as first fruits to God and the Lamb. No lie was found in their mouths; they are blameless." link="rev:14,4-5" lang="NIV" %}}”
 
 - They are virgins: This sounds strange at first, but it does not refer to their marital status, but to their fidelity to Christ. There is nothing more precious to them than Him.
 - They follow the Lamb: They don’t compromise. They are totally loyal to Him and they trust the Lamb.
 - Because “they have been purchased”: They know that they were bought at a high price.
-- No lie was found in their mouths: They were faithful witnesses like Jesus, {{% bible val="who did not waver under pressure" link="https://www.bibleserver.com/NIV/1%20Peter2%3A22" %}}.
+- No lie was found in their mouths: They were faithful witnesses like Jesus, {{% bible val="who did not waver under pressure" link="1pe:2,22" lang="NIV" %}}.
 
 To summarize: They lived their witness in the footsteps of Jesus without compromise, enduring hardship and even martyrdom.
 
@@ -58,15 +58,15 @@ The first three angels reflect this tension:
 
 The first angel comes and proclaims the eternal gospel:
 
-“{{% bible val="he had the eternal gospel to proclaim to those who live on the earth — to every nation, tribe, language and people. He said in a loud voice, ‘Fear God and give him glory, because the hour of his judgment has come. Worship him who made the heavens, the earth, the sea and the springs of water.’" link="https://www.bibleserver.com/NIV/Revelation14%3A6-7" %}}”
+“{{% bible val="he had the eternal gospel to proclaim to those who live on the earth — to every nation, tribe, language and people. He said in a loud voice, ‘Fear God and give him glory, because the hour of his judgment has come. Worship him who made the heavens, the earth, the sea and the springs of water.’" link="rev:14,6-7" lang="NIV" %}}”
 
-Eternal Gospel is a very interesting term and taken from Psalm 96: “[Proclaim His salvation from day to day](https://biblehub.com/interlinear/psalms/96-2.htm)”. The term “[basar](https://biblehub.com/hebrew/1319.htm)” (salvation) in this verse is translated in the Greek texts as evangelion. The phrase “from day to day” can mean eternally, as in {{% bible val="Proverbs" link="https://www.bibleserver.com/NIV/Proverbs8%3A30" %}}.
+Eternal Gospel is a very interesting term and taken from Psalm 96: “[Proclaim His salvation from day to day](https://biblehub.com/interlinear/psalms/96-2.htm)”. The term “[basar](https://biblehub.com/hebrew/1319.htm)” (salvation) in this verse is translated in the Greek texts as evangelion. The phrase “from day to day” can mean eternally, as in {{% bible val="Proverbs" link="pro:8,30" lang="NIV" %}}.
 
-Psalm 96 goes on to proclaim this to all {{% bible val="nations and peoples" link="https://www.bibleserver.com/NIV/Psalm96%3A3" %}}. The content of this {{% bible val="message is also part of this short psalm" link="https://www.bibleserver.com/NIV/Psalm96%3A7-10" %}}. Furthermore the psalm begins with “Sing to the Lord a new song”, which was the description of the 144.000.
+Psalm 96 goes on to proclaim this to all {{% bible val="nations and peoples" link="psa:96,3" lang="NIV" %}}. The content of this {{% bible val="message is also part of this short psalm" link="psa:96,7-10" lang="NIV" %}}. Furthermore the psalm begins with “Sing to the Lord a new song”, which was the description of the 144.000.
 
 The Psalm asserts that God is king and all nations are INVITED to worship Him.
 
-The second angel proclaims the victory over Babel while the third angel brings a stern warning of judgment for anyone who gives in to the beast. This also mirrors the {{% bible val="call to repentance" link="https://www.bibleserver.com/NIV/Revelation11%3A3" %}} and the {{% bible val="warning judgments" link="https://www.bibleserver.com/NIV/Revelation11%3A5" %}} of the two witnesses.
+The second angel proclaims the victory over Babel while the third angel brings a stern warning of judgment for anyone who gives in to the beast. This also mirrors the {{% bible val="call to repentance" link="rev:11,3" lang="NIV" %}} and the {{% bible val="warning judgments" link="rev:11,5" lang="NIV" %}} of the two witnesses.
 
 The question is: What will be the result? Will the nations listen? We know from the story of the witnesses: {{% int_link val="They will" link="/content/witnesses/expl/the-two-witnesses" %}}.
 
@@ -75,15 +75,15 @@ The question is: What will be the result? Will the nations listen? We know from 
 <a name="833c"></a>
 After this proclamation four more figures appear: three angels and one like a son of man with a grain and a grape harvest. What do they mean? Are these both judgments?
 
-They are based on Joel: “{{% bible val="Swing the sickle, for the (grain) harvest is ripe. Come, trample the grapes, for the wine press is full and the vats overflow — so great is their wickedness!" link="https://www.bibleserver.com/NIV/Joel3%3A13" %}}’”
+They are based on Joel: “{{% bible val="Swing the sickle, for the (grain) harvest is ripe. Come, trample the grapes, for the wine press is full and the vats overflow — so great is their wickedness!" link="jol:3,13" lang="NIV" %}}’”
 
-Both to judgment refer in Joel, especially the wine press, which in Revelation is called “{{% bible val="the wine press of the wrath of God" link="https://www.bibleserver.com/NIV/Revelation14%3A19" %}}”, referring to {{% bible val="the day of vengeance in Isaiah" link="https://www.bibleserver.com/NIV/Isaiah63%3A1-6" %}}. This also reflects the {{% bible val="judgment of Babel a few verses earlier" link="https://www.bibleserver.com/NIV/Revelation14%3A10" %}}.
+Both to judgment refer in Joel, especially the wine press, which in Revelation is called “{{% bible val="the wine press of the wrath of God" link="rev:14,19" lang="NIV" %}}”, referring to {{% bible val="the day of vengeance in Isaiah" link="isa:63,1-6" lang="NIV" %}}. This also reflects the {{% bible val="judgment of Babel a few verses earlier" link="rev:14,10" lang="NIV" %}}.
 
 But there is a big differences with the grain harvest:
 
-- The 144.000 are called the first fruits, which are {{% bible val="normally taken from grain" link="https://www.bibleserver.com/NIV/Leviticus23%3A9-14" %}} (including a lamb offering). A first fruit was normally are a {{% bible val="pledge of the full harvest" link="https://www.bibleserver.com/NIV/Romans11%3A16" %}}, so the 144.000 redeemed from all the nations are a first from of all the nations. A first fruit {{% bible val="could technically also be from grapes" link="https://www.bibleserver.com/NIV/Exodus22%3A29" %}} but that would be a strange interpretation (martyrs as the first fruit of God’s vengeance?).
-- While the wine press includes the gathering AND the crushing, the grain harvest has ONLY the reaping. For the grain follows either the {{% bible val="threshing" link="https://www.bibleserver.com/NIV/Jeremiah51%3A33" %}}, {{% bible val="the burning of the staff" link="https://www.bibleserver.com/NIV/Matthew3:12" %}} or the {{% bible val="blowing away" link="https://www.bibleserver.com/NIV/Psalm1%3A4" %}}, while the {{% bible val="reaping is a symbol of bringing people into the Kingdom of God" link="https://www.bibleserver.com/NIV/Mark4%3A29" %}}.
-- The grain harvest is done by “one like the Son of Man seated on a cloud wearing a crown”. This is a reference to {{% bible val="Daniel where he receives the eternal kingdom with all the nations worshiping him" link="https://www.bibleserver.com/NIV/Daniel7%3A13-14" %}}.
+- The 144.000 are called the first fruits, which are {{% bible val="normally taken from grain" link="lev:23,9-14" lang="NIV" %}} (including a lamb offering). A first fruit was normally are a {{% bible val="pledge of the full harvest" link="rom:11,16" lang="NIV" %}}, so the 144.000 redeemed from all the nations are a first from of all the nations. A first fruit {{% bible val="could technically also be from grapes" link="exo:22,29" lang="NIV" %}} but that would be a strange interpretation (martyrs as the first fruit of God’s vengeance?).
+- While the wine press includes the gathering AND the crushing, the grain harvest has ONLY the reaping. For the grain follows either the {{% bible val="threshing" link="jer:51,33" lang="NIV" %}}, {{% bible val="the burning of the staff" link="mat:3,12" lang="NIV" %}} or the {{% bible val="blowing away" link="psa:1,4" lang="NIV" %}}, while the {{% bible val="reaping is a symbol of bringing people into the Kingdom of God" link="mrk:4,29" lang="NIV" %}}.
+- The grain harvest is done by “one like the Son of Man seated on a cloud wearing a crown”. This is a reference to {{% bible val="Daniel where he receives the eternal kingdom with all the nations worshiping him" link="dan:7,13-14" lang="NIV" %}}.
 
 So the result is two options for the nations: Judgment or salvation. The story of the two witnesses ends with the majority giving God the glory, but here the point is left open — for a moment.
 
@@ -94,11 +94,11 @@ The next scene invites us into the new exodus, signaled by the sea of glass (the
 
 “‘[Great and marvelous are your deeds, Lord God Almighty. Just and true are your ways, King of the nations. Who will not fear you, Lord, and bring glory to your name? For you alone are holy. All nations will come and worship before you, for your righteous acts have been revealed.’](https://www.bibleserver.com/NIV/Revelation15%3A3-4)“
 
-{{% bible val="The song of Moses describes the praise after the miracle at the Red Sea" link="https://www.bibleserver.com/NIV/Exodus15%3A1-19" %}}. But the words that are spoken are very different from what Moses said.
+{{% bible val="The song of Moses describes the praise after the miracle at the Red Sea" link="exo:15,1-19" lang="NIV" %}}. But the words that are spoken are very different from what Moses said.
 
-The Exodus is taken up in {{% bible val="Isaiah" link="https://www.bibleserver.com/NIV/Isaiah11%3A15-16" %}} and reworded as {{% bible val="a new Exodus" link="https://www.bibleserver.com/NIV/Isaiah12" %}} in two songs in Isaiah that also {{% bible val="refer" link="https://www.bibleserver.com/NIV/Isaiah12%3A4" %}} to {{% bible val="Psalm 105" link="https://www.bibleserver.com/NIV/Psalm105%3A1" %}} (which also speaks of the Exodus). The statement in this connection is that the nations are affected by God’s action at the Red Sea.
+The Exodus is taken up in {{% bible val="Isaiah" link="isa:11,15-16" lang="NIV" %}} and reworded as {{% bible val="a new Exodus" link="isa:12" lang="NIV" %}} in two songs in Isaiah that also {{% bible val="refer" link="isa:12,4" lang="NIV" %}} to {{% bible val="Psalm 105" link="psa:105,1" lang="NIV" %}} (which also speaks of the Exodus). The statement in this connection is that the nations are affected by God’s action at the Red Sea.
 
-But if you look more closely at verse 11 of the Song of Moses, it also links to Jeremiah and Psalms {{% bible val="86" link="https://www.bibleserver.com/NIV/Psalm86%3A8-10" %}} and {{% bible val="98" link="https://www.bibleserver.com/NIV/Psalm98%3A1-2" %}}.
+But if you look more closely at verse 11 of the Song of Moses, it also links to Jeremiah and Psalms {{% bible val="86" link="psa:86,8-10" lang="NIV" %}} and {{% bible val="98" link="psa:98,1-2" lang="NIV" %}}.
 
 All these links together span the content for the song of Mose and the Lamb. So the story presents it this way
 

@@ -20,19 +20,19 @@ Zunächst einige Fragen an den Text:
 
 - [Wer wird wo über wen herrschen?](https://www.bibleserver.com/SLT/Offenbarung20%2C4)
 - Warum gibt es nicht gleich einen neuen Himmel und eine neue Erde? Oder sitzen wir dann alle auf Wolken und spielen Harfe?
-- Wo sonst sehen wir ein Tausendjähriges Reich, außer in diesem{{% bible val=" einen Vers" link="https://www.bibleserver.com/SLT/Offenbarung20%2C4" %}}?
-- Welche {{% bible val="Art von Herrschaf" link="https://www.bibleserver.com/SLT/Matth%C3%A4us20%2C20-28" %}}t ist hier in den 1000 Jahren gemeint ?
+- Wo sonst sehen wir ein Tausendjähriges Reich, außer in diesem{{% bible val=" einen Vers" link="rev:20,4" lang="SLT" %}}?
+- Welche {{% bible val="Art von Herrschaf" link="mat:20,20-28" lang="SLT" %}}t ist hier in den 1000 Jahren gemeint ?
 
 <p>Kapitel 17-22 ist ein Chiasmus mit <span style="color:red;">Unterschied</span>, <span style="color:green;">Gemeinsamkeiten</span> und <span style="color:blue;">Identifikation</span></p>
 
-- {{% bible val="17/1-19/10" link="https://www.bibleserver.com/SLT/Offenbarung17" %}}: Gericht an der Hure
-- {{% bible val="19/11-16" link="https://www.bibleserver.com/SLT/Offenbarung19%2C11-16" %}}: der göttliche Richter
-- {{% bible val="19/17-21" link="https://www.bibleserver.com/SLT/Offenbarung19%2C17-21" %}}: Gericht über die Tiere und den falschen Propheten (siehe {{% bible val="Hes.39" link="https://www.bibleserver.com/SLT/Hesekiel9%2C39" %}})
-- {{% bible val="20/1-3" link="https://www.bibleserver.com/SLT/Offenbarung20%2C1-3" %}}: Satan eingesperrt für 1000 Jahre
-- {{% bible val="20/4-6" link="https://www.bibleserver.com/SLT/Offenbarung20%2C4-6" %}}: Satan regiert nach 1000 Jahren
-- {{% bible val="20/7-10" link="https://www.bibleserver.com/SLT/Offenbarung20%2C7-10" %}}: Gericht über Gog und Magog
-- {{% bible val="20/11-15" link="https://www.bibleserver.com/SLT/Offenbarung20%2C11-15" %}}: der göttliche Richter
-- {{% bible val="21/1-22/5" link="https://www.bibleserver.com/SLT/Offenbarung21" %}}: Rechtfertigung der Braut
+- {{% bible val="17/1-19/10" link="rev:17" lang="SLT" %}}: Gericht an der Hure
+- {{% bible val="19/11-16" link="rev:19,11-16" lang="SLT" %}}: der göttliche Richter
+- {{% bible val="19/17-21" link="rev:19,17-21" lang="SLT" %}}: Gericht über die Tiere und den falschen Propheten (siehe {{% bible val="Hes.39" link="ezk:9,39" lang="SLT" %}})
+- {{% bible val="20/1-3" link="rev:20,1-3" lang="SLT" %}}: Satan eingesperrt für 1000 Jahre
+- {{% bible val="20/4-6" link="rev:20,4-6" lang="SLT" %}}: Satan regiert nach 1000 Jahren
+- {{% bible val="20/7-10" link="rev:20,7-10" lang="SLT" %}}: Gericht über Gog und Magog
+- {{% bible val="20/11-15" link="rev:20,11-15" lang="SLT" %}}: der göttliche Richter
+- {{% bible val="21/1-22/5" link="rev:21" lang="SLT" %}}: Rechtfertigung der Braut
 
  
 Das Tausendjährige Reich ist Teil eines größeren Kontextes, der einen Chiasmus bildet, der den Inhalt nicht linear, sondern symmetrisch anordnet. Deshalb gibt es hier keine klare Chronologie, und was später berichtet wird, kann dasselbe Ereignis beschreiben, nur aus einer anderen Perspektive.
@@ -42,7 +42,7 @@ Das Tausendjährige Reich ist Teil eines größeren Kontextes, der einen Chiasmu
 <a name="b25f"></a>
 [Die Episode der 1000 Jahre beginnt mit einem kleinen Wort: “Und”,](https://biblehub.com/interlinear/revelation/20-1.htm) und seine Bedeutung ist eine größere Debatte.
 
-“Und ich sah” kann zeitlich bedeuten: Nach diesem ({{% bible val="letzten Kampf" link="https://www.bibleserver.com/SLT/Offenbarung19%2C11-21" %}}) wird der Satan für 1000 Jahre gebunden sein und danach werden diese Dinge geschehen.
+“Und ich sah” kann zeitlich bedeuten: Nach diesem ({{% bible val="letzten Kampf" link="rev:19,11-21" lang="SLT" %}}) wird der Satan für 1000 Jahre gebunden sein und danach werden diese Dinge geschehen.
 
 “Und ich sah” kann visionär gemeint sein: Johannes hatte einfach eine neue Vision, die danach berichtet wird und in der er Satan für 1000 Jahre gebunden sieht.
 
@@ -50,17 +50,17 @@ Um dies besser zu verstehen, ist es besser, die Verwendung von „und“ an ande
 
 - “Und” wird normalerweise als visionärer Link zwischen Blöcken von Visionen oder einzelnen Visionen verwendet.
 - Wenn “und” in zeitlicher Form verwendet wird, dann zwischen einzelnen Versen oder Wortgruppen, wobei der Kontext jeweils in einem größeren Abschnitt liegt.
-- Das “und” als zeitlicher Ausdruck ist eher eine Ausnahme ({{% bible val="das Tier und der Prophet wurden gefaßt, NACHDEM sie den Kampf verloren hatten" link="https://www.bibleserver.com/SLT/Offenbarung19%2C20" %}}, [alle Menschen wurden getötet](https://biblehub.com/interlinear/revelation/19-21.htm), [DANACH fraßen die Vögel die Leichen](https://biblehub.com/interlinear/revelation/19-21.htm), vielleicht {{% bible val="hatte Jesus den Kampf NACH der Hochzeit" link="https://www.bibleserver.com/SLT/Offenbarung19%2C14" %}}). Das sind 4 von 35 Stellen.
-- “Und” zusammen mit dem Herabkommen oder Herabsteigen eines Engels ist eine Vision mit einer zeitlichen Verzögerung (wie {{% bible val="der Engel mit dem kleinen Buch" link="https://www.bibleserver.com/SLT/Offenbarung10%2C1" %}}) oder ein zeitlicher Rückblick (wie {{% bible val="der Engel mit den Siegeln Gottes" link="https://www.bibleserver.com/SLT/Offenbarung7%2C2" %}} oder {{% bible val="das Gericht über Babel" link="https://www.bibleserver.com/SLT/Offenbarung18%2C1" %}}, das {{% bible val="im vorhergehenden Kapitel beschrieben wurde" link="https://www.bibleserver.com/SLT/Offenbarung17%2C16" %}}). Die meisten Kommentatoren, die in Kapitel 20 ein zeitliches “und” verwenden, verwenden ein visionäres “und” in den anderen Fällen.
+- Das “und” als zeitlicher Ausdruck ist eher eine Ausnahme ({{% bible val="das Tier und der Prophet wurden gefaßt, NACHDEM sie den Kampf verloren hatten" link="rev:19,20" lang="SLT" %}}, [alle Menschen wurden getötet](https://biblehub.com/interlinear/revelation/19-21.htm), [DANACH fraßen die Vögel die Leichen](https://biblehub.com/interlinear/revelation/19-21.htm), vielleicht {{% bible val="hatte Jesus den Kampf NACH der Hochzeit" link="rev:19,14" lang="SLT" %}}). Das sind 4 von 35 Stellen.
+- “Und” zusammen mit dem Herabkommen oder Herabsteigen eines Engels ist eine Vision mit einer zeitlichen Verzögerung (wie {{% bible val="der Engel mit dem kleinen Buch" link="rev:10,1" lang="SLT" %}}) oder ein zeitlicher Rückblick (wie {{% bible val="der Engel mit den Siegeln Gottes" link="rev:7,2" lang="SLT" %}} oder {{% bible val="das Gericht über Babel" link="rev:18,1" lang="SLT" %}}, das {{% bible val="im vorhergehenden Kapitel beschrieben wurde" link="rev:17,16" lang="SLT" %}}). Die meisten Kommentatoren, die in Kapitel 20 ein zeitliches “und” verwenden, verwenden ein visionäres “und” in den anderen Fällen.
 
 ## Zwei letzte Schlachten?
 
 <a name="4257"></a>
 Es gibt starke Parallelen zwischen
 
-- {{% bible val="dem Kampf Jesu “vor” dem Tausendjährigem Reich" link="https://www.bibleserver.com/SLT/Offenbarung19%2C11-21" %}},
-- {{% bible val="dem Kampf von Gog und Magog nach dem Tausendjährigen Reich" link="https://www.bibleserver.com/SLT/Offenbarung19%2C7-10" %}} und
-- den beiden Visionen von Gog und Magog in Hesekiel, Kapitel {{% bible val="38" link="https://www.bibleserver.com/SLT/Hesekiel38" %}} und {{% bible val="39" link="https://www.bibleserver.com/SLT/Hesekiel39" %}}.
+- {{% bible val="dem Kampf Jesu “vor” dem Tausendjährigem Reich" link="rev:19,11-21" lang="SLT" %}},
+- {{% bible val="dem Kampf von Gog und Magog nach dem Tausendjährigen Reich" link="rev:19,7-10" lang="SLT" %}} und
+- den beiden Visionen von Gog und Magog in Hesekiel, Kapitel {{% bible val="38" link="ezk:38" lang="SLT" %}} und {{% bible val="39" link="ezk:39" lang="SLT" %}}.
 
 Denn sie haben
 
@@ -72,50 +72,50 @@ Wenn dem so ist, dann ist die Schlacht Jesu in Kapitel 19 dieselbe wie die mit G
 
 Oder handelt es sich doch um zwei verschiedene Schlachten? Nun, es gibt einige Punkte, die wir uns genauer ansehen müssen:
 
-- Kapitel 19 (Vernichtung durch das{{% bible val=" Schwert" link="https://www.bibleserver.com/SLT/Offenbarung19%2C15" %}}) und Kapitel 20 (Vernichtung durch {{% bible val="Feuer" link="https://www.bibleserver.com/SLT/Offenbarung20%2C9" %}}) scheinen auf unterschiedliche Schlachten hinzuweisen, da unterschiedliche Waffen verwendet werden, aber genau dasselbe geschieht in den Visionen Hesekiels, wo BEIDE in BEIDEN Visionen verwendet werden: {{% bible val="Schwert" link="https://www.bibleserver.com/SLT/Hesekiel38%2C21" %}} und {{% bible val="Feuer" link="https://www.bibleserver.com/SLT/Hesekiel38%2C22" %}} in Kapitel 38, und {{% bible val="Schwert" link="https://www.bibleserver.com/SLT/Hesekiel39%2C17-21" %}} und {{% bible val="Feuer" link="https://www.bibleserver.com/SLT/Hesekiel39%2C6" %}} in Kapitel 39.
-- Kapitel 19 und Kapitel 20 könnten verschiedene Grade der Erfüllung sein, aber in beiden Kapiteln gibt es eine ähnliche Beschreibung, wie auch in den Endzeitkriegen in {{% bible val="Hesekiel" link="https://www.bibleserver.com/SLT/Hesekiel38" %}}, {{% bible val="Sacharja" link="https://www.bibleserver.com/SLT/Sacharja12" %}} und {{% bible val="Zefanja " link="https://www.bibleserver.com/SLT/Zefanja3" %}}— alle sind endgültig.
-- Während in Kapitel 19 {{% bible val="menschliche Armeen" link="https://www.bibleserver.com/SLT/Offenbarung19%2C19" %}} beschrieben werden, sind es in Kapitel 20 {{% bible val="dämonische Armeen" link="https://www.bibleserver.com/SLT/Offenbarung20%2C8" %}}, aber wo genau wird in Kapitel 20 gesagt, dass diese Armeen dämonisch sind? In beiden Kapiteln führt Satan menschliche Armeen und, wenn wir die Beschreibung des {{% bible val="sechsten Siegels sorgfältig lesen" link="https://www.bibleserver.com/SLT/Offenbarung16%2C14" %}}.
-- Kann man von der Abfolge der Ereignisse in {{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7" %}} erkennen, dass es mehrere Schlachten gibt, in denen Satan nach der Herrschaft der Heiligen mehrmals besiegt wird? Das ist nicht der Fall, denn Daniel wiederholt sich oft (die Herrschaft der Heiligen geschieht in den Versen {{% bible val="8" link="https://www.bibleserver.com/SLT/Daniel7%2C8" %}}, {{% bible val="13–14" link="https://www.bibleserver.com/SLT/Daniel7%2C13-14" %}}, {{% bible val="19–22" link="https://www.bibleserver.com/SLT/Daniel7%2C19-22" %}}, {{% bible val="23–25" link="https://www.bibleserver.com/SLT/Daniel7%2C23-25" %}} und {{% bible val="27" link="https://www.bibleserver.com/SLT/Daniel7%2C27" %}}, während das Gericht über das Tier in den Versen {{% bible val="9–11" link="https://www.bibleserver.com/SLT/Daniel7%2C9-11" %}} und {{% bible val="26 " link="https://www.bibleserver.com/SLT/Daniel7%2C26" %}}berichtet wird). Auch das {{% bible val="Öffnen der Bücher" link="https://www.bibleserver.com/SLT/Daniel7%2C10" %}} geschieht vor allem anderen.
+- Kapitel 19 (Vernichtung durch das{{% bible val=" Schwert" link="rev:19,15" lang="SLT" %}}) und Kapitel 20 (Vernichtung durch {{% bible val="Feuer" link="rev:20,9" lang="SLT" %}}) scheinen auf unterschiedliche Schlachten hinzuweisen, da unterschiedliche Waffen verwendet werden, aber genau dasselbe geschieht in den Visionen Hesekiels, wo BEIDE in BEIDEN Visionen verwendet werden: {{% bible val="Schwert" link="ezk:38,21" lang="SLT" %}} und {{% bible val="Feuer" link="ezk:38,22" lang="SLT" %}} in Kapitel 38, und {{% bible val="Schwert" link="ezk:39,17-21" lang="SLT" %}} und {{% bible val="Feuer" link="ezk:39,6" lang="SLT" %}} in Kapitel 39.
+- Kapitel 19 und Kapitel 20 könnten verschiedene Grade der Erfüllung sein, aber in beiden Kapiteln gibt es eine ähnliche Beschreibung, wie auch in den Endzeitkriegen in {{% bible val="Hesekiel" link="ezk:38" lang="SLT" %}}, {{% bible val="Sacharja" link="zec:12" lang="SLT" %}} und {{% bible val="Zefanja " link="zep:3" lang="SLT" %}}— alle sind endgültig.
+- Während in Kapitel 19 {{% bible val="menschliche Armeen" link="rev:19,19" lang="SLT" %}} beschrieben werden, sind es in Kapitel 20 {{% bible val="dämonische Armeen" link="rev:20,8" lang="SLT" %}}, aber wo genau wird in Kapitel 20 gesagt, dass diese Armeen dämonisch sind? In beiden Kapiteln führt Satan menschliche Armeen und, wenn wir die Beschreibung des {{% bible val="sechsten Siegels sorgfältig lesen" link="rev:16,14" lang="SLT" %}}.
+- Kann man von der Abfolge der Ereignisse in {{% bible val="Daniel" link="dan:7" lang="SLT" %}} erkennen, dass es mehrere Schlachten gibt, in denen Satan nach der Herrschaft der Heiligen mehrmals besiegt wird? Das ist nicht der Fall, denn Daniel wiederholt sich oft (die Herrschaft der Heiligen geschieht in den Versen {{% bible val="8" link="dan:7,8" lang="SLT" %}}, {{% bible val="13–14" link="dan:7,13-14" lang="SLT" %}}, {{% bible val="19–22" link="dan:7,19-22" lang="SLT" %}}, {{% bible val="23–25" link="dan:7,23-25" lang="SLT" %}} und {{% bible val="27" link="dan:7,27" lang="SLT" %}}, während das Gericht über das Tier in den Versen {{% bible val="9–11" link="dan:7,9-11" lang="SLT" %}} und {{% bible val="26 " link="dan:7,26" lang="SLT" %}}berichtet wird). Auch das {{% bible val="Öffnen der Bücher" link="dan:7,10" lang="SLT" %}} geschieht vor allem anderen.
 
 ## Weitere Argumente für eine Schlacht
 
 <a name="6a0c"></a>
-- Nach der Aktion des sechsten Siegels werden die Armeen versammelt (da {{% int_link val="Harmagedon sich auf einen Berg bezieht" link="/content/bowls/expl/the-key-to-armageddon" %}}), so dass die Schlacht bevorsteht. Die siebente Schale kündigt die Zerstörung des Reiches Satans an (gefolgt von einer ausführlichen Beschreibung der Zerstörung der Hure Babel als Reaktion auf die Hochzeit der Braut), und die Schlacht wird in {{% bible val="Kapitel 19" link="https://www.bibleserver.com/SLT/Offenbarung19%2C17-21" %}} ausführlich beschrieben.
-- {{% bible val="Zu Beginn der Schalen wird gesagt, dass dies die letzten Plagen sind" link="https://www.bibleserver.com/SLT/Offenbarung15%2C1" %}}, was die {{% bible val="Zerstörung des Königreichs Satans ist" link="https://www.bibleserver.com/SLT/Offenbarung16%2C18-20" %}}, was in {{% bible val="Kapitel 19 " link="https://www.bibleserver.com/SLT/Offenbarung19%2C17-21" %}}geschieht, alle weitere Schlachten nach Kapitel 19 müssen demnach Rückblicke sein.
+- Nach der Aktion des sechsten Siegels werden die Armeen versammelt (da {{% int_link val="Harmagedon sich auf einen Berg bezieht" link="/content/bowls/expl/the-key-to-armageddon" %}}), so dass die Schlacht bevorsteht. Die siebente Schale kündigt die Zerstörung des Reiches Satans an (gefolgt von einer ausführlichen Beschreibung der Zerstörung der Hure Babel als Reaktion auf die Hochzeit der Braut), und die Schlacht wird in {{% bible val="Kapitel 19" link="rev:19,17-21" lang="SLT" %}} ausführlich beschrieben.
+- {{% bible val="Zu Beginn der Schalen wird gesagt, dass dies die letzten Plagen sind" link="rev:15,1" lang="SLT" %}}, was die {{% bible val="Zerstörung des Königreichs Satans ist" link="rev:16,18-20" lang="SLT" %}}, was in {{% bible val="Kapitel 19 " link="rev:19,17-21" lang="SLT" %}}geschieht, alle weitere Schlachten nach Kapitel 19 müssen demnach Rückblicke sein.
 
 ## Das Binden Satans
 
 <a name="4bba"></a>
-{{% bible val="Zu Beginn von Kapitel 20" link="https://www.bibleserver.com/SLT/Offenbarung20%2C1-3" %}} wird das Binden Satans beschrieben, was sehr große Ähnlichkeiten mit {{% bible val="Kapitel 12" link="https://www.bibleserver.com/SLT/Offenbarung12" %}} aufweist, wo der Fall Satans als Konsequenz von Jesu Tod am Kreuz beschreiben wird.
+{{% bible val="Zu Beginn von Kapitel 20" link="rev:20,1-3" lang="SLT" %}} wird das Binden Satans beschrieben, was sehr große Ähnlichkeiten mit {{% bible val="Kapitel 12" link="rev:12" lang="SLT" %}} aufweist, wo der Fall Satans als Konsequenz von Jesu Tod am Kreuz beschreiben wird.
 
-- Sowohl in Kapitel {{% bible val="12" link="https://www.bibleserver.com/SLT/Offenbarung12%2C1" %}} als auch in Kapitel {{% bible val="20" link="https://www.bibleserver.com/SLT/Offenbarung20%2C1" %}} wird eine Szene im Himmel beschrieben.
-- In Kapitel 12 wird ein {{% bible val="Kampf zwischen Satan und den Engeln beschrieben" link="https://www.bibleserver.com/SLT/Offenbarung12%2C7-8" %}} und in Kapitel 20 wird ein {{% bible val="solcher Kampf angenommen" link="https://www.bibleserver.com/SLT/Offenbarung20%2C2" %}}.
-- Als Konsequenz wird Satan in Kapitel 12 auf die {{% bible val="Erde" link="https://www.bibleserver.com/SLT/Offenbarung12%2C9" %}} und in Kapitel 20 in den{{% bible val=" Abgrund" link="https://www.bibleserver.com/SLT/Offenbarung20%2C3" %}} geworfen.
-- Er wird mit der identischen Formulierung “{{% bible val="der Drache, die alte Schlange, der Teufel und Satan" link="https://www.bibleserver.com/SLT/Offenbarung12%2C9" %}}” und “{{% bible val="der Drache, die alte Schlange, was der Teufel und Satan ist" link="https://www.bibleserver.com/SLT/Offenbarung20%2C2" %}}” bezeichnet.
-- In den Kapiteln {{% bible val="12" link="https://www.bibleserver.com/SLT/Offenbarung12%2C9" %}} und {{% bible val="20" link="https://www.bibleserver.com/SLT/Offenbarung20%2C3" %}} wird erwähnt, dass er die Welt verführt und dass er dadurch eingeschränkt wird.
-- In Kapitel 12 weiß Satan, dass er {{% bible val="nur eine kurze Zeit hat" link="https://www.bibleserver.com/SLT/Offenbarung12%2C12" %}}, in Kapitel 20 wird {{% bible val="er für eine kurze Zeit freigelassen" link="https://www.bibleserver.com/SLT/Offenbarung20%2C3" %}}.
+- Sowohl in Kapitel {{% bible val="12" link="rev:12,1" lang="SLT" %}} als auch in Kapitel {{% bible val="20" link="rev:20,1" lang="SLT" %}} wird eine Szene im Himmel beschrieben.
+- In Kapitel 12 wird ein {{% bible val="Kampf zwischen Satan und den Engeln beschrieben" link="rev:12,7-8" lang="SLT" %}} und in Kapitel 20 wird ein {{% bible val="solcher Kampf angenommen" link="rev:20,2" lang="SLT" %}}.
+- Als Konsequenz wird Satan in Kapitel 12 auf die {{% bible val="Erde" link="rev:12,9" lang="SLT" %}} und in Kapitel 20 in den{{% bible val=" Abgrund" link="rev:20,3" lang="SLT" %}} geworfen.
+- Er wird mit der identischen Formulierung “{{% bible val="der Drache, die alte Schlange, der Teufel und Satan" link="rev:12,9" lang="SLT" %}}” und “{{% bible val="der Drache, die alte Schlange, was der Teufel und Satan ist" link="rev:20,2" lang="SLT" %}}” bezeichnet.
+- In den Kapiteln {{% bible val="12" link="rev:12,9" lang="SLT" %}} und {{% bible val="20" link="rev:20,3" lang="SLT" %}} wird erwähnt, dass er die Welt verführt und dass er dadurch eingeschränkt wird.
+- In Kapitel 12 weiß Satan, dass er {{% bible val="nur eine kurze Zeit hat" link="rev:12,12" lang="SLT" %}}, in Kapitel 20 wird {{% bible val="er für eine kurze Zeit freigelassen" link="rev:20,3" lang="SLT" %}}.
 
 Aber gibt es nicht auch Unterschiede?
 
-- In Kapitel 12 wird Satan auf die{{% bible val=" Erde" link="https://www.bibleserver.com/SLT/Offenbarung12%2C9" %}} geworfen, in Kapitel 20 in den {{% bible val="Abgrund" link="https://www.bibleserver.com/SLT/Offenbarung20%2C3" %}}, aber in beiden Fällen kommt ein Engel vom Himmel und wirft Satan hinunter. Außerdem kann der Abgrund mit der Erde gleichgesetzt werden oder mit dem {{% bible val="Ort der Toten auf der Erde" link="https://www.bibleserver.com/SLT/Offenbarung6%2C8" %}} gesehen werden.
-- Die {{% bible val="Verführung nimmt zu, nachdem Satan in Kapitel 12 aus dem Himmel" link="https://www.bibleserver.com/SLT/Offenbarung13" %}} geworfen wird, während sie {{% bible val="in Kapitel 20 aufhört" link="https://www.bibleserver.com/SLT/Offenbarung20%2C3" %}}, aber es ist nicht so klar, dass die Verführung wirklich zunimmt, da das Geheimnis des Glaubens offenbar ist und die Gemeinde nicht getäuscht werden kann und als Zeuge da ist. Außerdem bedeuted das Versiegeln in Kapitel 20 keine komplette Bindung, sondern ein Autorität über etwas haben wie in {{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel6%2C17" %}} oder {{% bible val="Matthäus" link="https://www.bibleserver.com/SLT/Matth%C3%A4us27%2C66" %}}.
+- In Kapitel 12 wird Satan auf die{{% bible val=" Erde" link="rev:12,9" lang="SLT" %}} geworfen, in Kapitel 20 in den {{% bible val="Abgrund" link="rev:20,3" lang="SLT" %}}, aber in beiden Fällen kommt ein Engel vom Himmel und wirft Satan hinunter. Außerdem kann der Abgrund mit der Erde gleichgesetzt werden oder mit dem {{% bible val="Ort der Toten auf der Erde" link="rev:6,8" lang="SLT" %}} gesehen werden.
+- Die {{% bible val="Verführung nimmt zu, nachdem Satan in Kapitel 12 aus dem Himmel" link="rev:13" lang="SLT" %}} geworfen wird, während sie {{% bible val="in Kapitel 20 aufhört" link="rev:20,3" lang="SLT" %}}, aber es ist nicht so klar, dass die Verführung wirklich zunimmt, da das Geheimnis des Glaubens offenbar ist und die Gemeinde nicht getäuscht werden kann und als Zeuge da ist. Außerdem bedeuted das Versiegeln in Kapitel 20 keine komplette Bindung, sondern ein Autorität über etwas haben wie in {{% bible val="Daniel" link="dan:6,17" lang="SLT" %}} oder {{% bible val="Matthäus" link="mat:27,66" lang="SLT" %}}.
 
 Wie viele andere Texte in der Bibel berichten diese beiden Kapitel über dasselbe Ereignis, ergänzen sich aber gegenseitig.
 
-Dass Satan {{% bible val="gebunden" link="https://www.bibleserver.com/SLT/Offenbarung20%2C2" %}} wird, wird auch bei {{% bible val="Jesu erstem Kommen" link="https://www.bibleserver.com/SLT/Markus3%2C27" %}} erwähnt .
+Dass Satan {{% bible val="gebunden" link="rev:20,2" lang="SLT" %}} wird, wird auch bei {{% bible val="Jesu erstem Kommen" link="mrk:3,27" lang="SLT" %}} erwähnt .
 
-Außerdem wird {{% bible val="er (der Sohn der Gesetzlosigkeit) nur für kurze Zeit vor Jesu zweitem Kommen freigelassen kurz " link="https://www.bibleserver.com/SLT/2.Thessalonicher2%2C6-12" %}}, {{% bible val="wo er die Gemeinde angreift" link="https://www.bibleserver.com/SLT/Offenbarung11%2C7" %}}.
+Außerdem wird {{% bible val="er (der Sohn der Gesetzlosigkeit) nur für kurze Zeit vor Jesu zweitem Kommen freigelassen kurz " link="2th:2,6-12" lang="SLT" %}}, {{% bible val="wo er die Gemeinde angreift" link="rev:11,7" lang="SLT" %}}.
 
-Der Sohn der Gesetzlosigkeit oder {{% bible val="der Gesetzlose" link="https://www.bibleserver.com/SLT/2.Thessalonicher2%2C8" %}} wird im Alten Testament in den {{% bible val="Psalmen" link="https://www.bibleserver.com/SLT/Psalm89%2C23" %}} und bei {{% bible val="Jesaja" link="https://www.bibleserver.com/SLT/Jesaja57%2C3-4" %}} als die Personifizierung der Gesetzlosigkeit erwähnt. Dort heißt es auch, dass er sich über Gott erhebt, was eine Anspielung auf {{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel11%2C36" %}} ist. Es handelt sich um Satan, und derjenige, der ihn aufhält, ist der Engel in dieser Geschichte.
+Der Sohn der Gesetzlosigkeit oder {{% bible val="der Gesetzlose" link="2th:2,8" lang="SLT" %}} wird im Alten Testament in den {{% bible val="Psalmen" link="psa:89,23" lang="SLT" %}} und bei {{% bible val="Jesaja" link="isa:57,3-4" lang="SLT" %}} als die Personifizierung der Gesetzlosigkeit erwähnt. Dort heißt es auch, dass er sich über Gott erhebt, was eine Anspielung auf {{% bible val="Daniel" link="dan:11,36" lang="SLT" %}} ist. Es handelt sich um Satan, und derjenige, der ihn aufhält, ist der Engel in dieser Geschichte.
 
 ## Was ist mit den Verheißungen?
 
 <a name="e70e"></a>
 Aber gibt es nicht so viele Verheißungen, die erst im Tausendjährigen Reich erfüllt werden können? Vielleicht hast du so etwas im Sinn wie:
 
-“{{% bible val="… Es soll dann nicht mehr Kinder geben, die nur ein paar Tage leben, noch Alte, die ihre Jahre nicht erfüllen; sondern wer hundertjährig stirbt, wird noch als junger Mann gelten, und wer nur hundert Jahre alt wird, soll als ein vom Fluch getroffener Sünder gelten. … Wolf und Lamm werden einträchtig weiden, und der Löwe wird Stroh fressen wie das Rind, und die Schlange wird sich von Staub nähren. Sie werden nicht Schaden noch Verderben anrichten auf meinem ganzen heiligen Berg!, spricht der HERR" link="https://www.bibleserver.com/SLT/Jesaja65%2C18-25" %}}”
+“{{% bible val="… Es soll dann nicht mehr Kinder geben, die nur ein paar Tage leben, noch Alte, die ihre Jahre nicht erfüllen; sondern wer hundertjährig stirbt, wird noch als junger Mann gelten, und wer nur hundert Jahre alt wird, soll als ein vom Fluch getroffener Sünder gelten. … Wolf und Lamm werden einträchtig weiden, und der Löwe wird Stroh fressen wie das Rind, und die Schlange wird sich von Staub nähren. Sie werden nicht Schaden noch Verderben anrichten auf meinem ganzen heiligen Berg!, spricht der HERR" link="isa:65,18-25" lang="SLT" %}}”
 
-Diese Prophezeiungen sind offensichtlich noch nicht erfüllt und werden es auf dieser Erde auch nicht sein, also muss ihre Erfüllung im Tausendjährigen Reich warten, oder? Aber schauen wir uns den Vers unmittelbar davor an: “{{% bible val="Denn siehe, ich schaffe einen neuen Himmel und eine neue Erde, sodass man an die früheren nicht mehr gedenkt und sie nicht mehr in den Sinn kommen werden" link="https://www.bibleserver.com/SLT/Jesaja65%2C17" %}}”.
+Diese Prophezeiungen sind offensichtlich noch nicht erfüllt und werden es auf dieser Erde auch nicht sein, also muss ihre Erfüllung im Tausendjährigen Reich warten, oder? Aber schauen wir uns den Vers unmittelbar davor an: “{{% bible val="Denn siehe, ich schaffe einen neuen Himmel und eine neue Erde, sodass man an die früheren nicht mehr gedenkt und sie nicht mehr in den Sinn kommen werden" link="isa:65,17" lang="SLT" %}}”.
 
 Dies ist ein klarer Hinweis auf den neuen Himmel und die neue Erde, wie sie in Offenbarung 21 beschrieben werden. Das wirft einige Fragen auf:
 
@@ -129,15 +129,15 @@ Dies ist ein klarer Hinweis auf den neuen Himmel und die neue Erde, wie sie in O
 <a name="008e"></a>
 Die Geschichte wird parallel auch in Hesekiel erzählt:
 
-- {{% bible val="37/1–14" link="https://www.bibleserver.com/SLT/Hesekiel37%2C1-14" %}}: Die Auferweckung des Volkes Gottes durch den Heiligen Geist, was der {{% bible val="Auferstehung in Kapitel 20" link="https://www.bibleserver.com/SLT/Offenbarung20%2C4" %}} und ganz konkret dem Pfingsereignis entspricht.
-- {{% bible val="37/15–28" link="https://www.bibleserver.com/SLT/Hesekiel37%2C15-28" %}}: Das messianische Reich, das dem {{% bible val="Herrschen der Heiligen in Kapitel 20" link="https://www.bibleserver.com/SLT/Offenbarung20%2C4-6" %}} entspricht, was der Zeit des Zeugnisses der Gemeinde zwischen Jesu erstem und zweitem Kommen entspricht.
-- {{% bible val="38–39" link="https://www.bibleserver.com/SLT/Hesekiel38" %}}: Die{{% bible val=" Schlacht von Gog und Magog" link="https://www.bibleserver.com/SLT/Offenbarung20%2C7-10" %}}, die dem zweitem Kommen Jesu entspricht.
-- {{% bible val="40–48" link="https://www.bibleserver.com/SLT/Hesekiel40" %}}: Schließlich der “neue Tempel” im Neuen Jerusalem, was {{% bible val="Kapitel 21" link="https://www.bibleserver.com/SLT/Offenbarung21" %}} entspricht.
+- {{% bible val="37/1–14" link="ezk:37,1-14" lang="SLT" %}}: Die Auferweckung des Volkes Gottes durch den Heiligen Geist, was der {{% bible val="Auferstehung in Kapitel 20" link="rev:20,4" lang="SLT" %}} und ganz konkret dem Pfingsereignis entspricht.
+- {{% bible val="37/15–28" link="ezk:37,15-28" lang="SLT" %}}: Das messianische Reich, das dem {{% bible val="Herrschen der Heiligen in Kapitel 20" link="rev:20,4-6" lang="SLT" %}} entspricht, was der Zeit des Zeugnisses der Gemeinde zwischen Jesu erstem und zweitem Kommen entspricht.
+- {{% bible val="38–39" link="ezk:38" lang="SLT" %}}: Die{{% bible val=" Schlacht von Gog und Magog" link="rev:20,7-10" lang="SLT" %}}, die dem zweitem Kommen Jesu entspricht.
+- {{% bible val="40–48" link="ezk:40" lang="SLT" %}}: Schließlich der “neue Tempel” im Neuen Jerusalem, was {{% bible val="Kapitel 21" link="rev:21" lang="SLT" %}} entspricht.
 
 ## Was hat es mit dem zweitem Tod und der ersten Auferstehung auf sich?
 
 <a name="299a"></a>
-“{{% bible val="Und ich sah Throne, und sie setzten sich darauf, und das Gericht wurde ihnen übergeben … Die Übrigen der Toten aber wurden nicht wieder lebendig, bis die 1 000 Jahre vollendet waren. Dies ist die erste Auferstehung." link="https://www.bibleserver.com/SLT/Offenbarung20%2C4-5" %}}”
+“{{% bible val="Und ich sah Throne, und sie setzten sich darauf, und das Gericht wurde ihnen übergeben … Die Übrigen der Toten aber wurden nicht wieder lebendig, bis die 1 000 Jahre vollendet waren. Dies ist die erste Auferstehung." link="rev:20,4-5" lang="SLT" %}}”
 
 Das ist etwas verwirrend und wir müssen uns das genauer ansehen. Wir haben gesehen, dass damit die Zeit zwischen dem ersten und dem zweiten Kommen Jesu gemeint ist. Wenn wir den Text lesen, dann ist das so:
 
@@ -151,18 +151,18 @@ Das wird natürlich später erklärt: „die das Tier nicht anbeteten und sein M
 
 Diese Struktur wird [hysteron-proterons](https://de.wikipedia.org/wiki/Hysteron-Proteron_(rhetorische_Figur)) (das Letzte vor dem Ersten) genannt und ist eine rückwärts erzählte Geschichte, wobei die Betonung auf dem ersten Teil liegt (der wegen der Zeit erst später erzählt würde), hier: Der regiert und richtet. Von dieser Form gibt es weitere Beispiele in der Offenbarung
 
-- {{% bible val="Halte fest und kehre um" link="https://www.bibleserver.com/SLT/Offenbarung3%2C3" %}}!
-- {{% bible val="Ich bin reich und reich geworden" link="https://www.bibleserver.com/SLT/Offenbarung3%2C17" %}}.
-- {{% bible val="Wurde bitter im Bauch, aber süß im Mund" link="https://www.bibleserver.com/SLT/Offenbarung10%2C9" %}}.
+- {{% bible val="Halte fest und kehre um" link="rev:3,3" lang="SLT" %}}!
+- {{% bible val="Ich bin reich und reich geworden" link="rev:3,17" lang="SLT" %}}.
+- {{% bible val="Wurde bitter im Bauch, aber süß im Mund" link="rev:10,9" lang="SLT" %}}.
 
 Liest man die Geschichte rückwärts, ergibt sie mehr Sinn: Sie herrschen, weil sie das Tier nicht angebetet und sein Zeichen nicht angenommen haben; darum wurden sie enthauptet.
 
 ## Werden wir enthauptet?
 
 <a name="c7a1"></a>
-Warum heißt es, dass wir {{% bible val="enthauptet" link="https://www.bibleserver.com/SLT/Offenbarung20%2C4" %}} werden? Werden nur die Enthaupteten herrschen?
+Warum heißt es, dass wir {{% bible val="enthauptet" link="rev:20,4" lang="SLT" %}} werden? Werden nur die Enthaupteten herrschen?
 
-Keineswegs, z.B. bezieht sich die Referenz auf die {{% bible val="Seelen unter dem Altar" link="https://www.bibleserver.com/SLT/Offenbarung6%2C9" %}} auch auf alle getöteten Zeugen (unabhängig von der Hinrichtungsart).
+Keineswegs, z.B. bezieht sich die Referenz auf die {{% bible val="Seelen unter dem Altar" link="rev:6,9" lang="SLT" %}} auch auf alle getöteten Zeugen (unabhängig von der Hinrichtungsart).
 
 Diese Aussage ist eine weitere Parodie, denn im Römischen Reich wurden nur hochrangige Personen enthauptet (andere wurden zu Tode gefoltert), und so wurden die Heiligen im Tod von der Welt wie Könige behandelt.
 
@@ -170,18 +170,18 @@ Werden also nur Menschen herrschen, die für ihren Glauben gestorben sind? Keine
 
 Auch in der Offenbarung gibt es verschiedene Arten des Zeugnisses und des Leidens:
 
-- {{% bible val="Johannes im Exil" link="https://www.bibleserver.com/SLT/Offenbarung1%2C9" %}},
-- {{% bible val="Überwinder, weil sie ihr Leben nicht geliebt haben (es nicht als so wertvoll gesehen haben)" link="https://www.bibleserver.com/SLT/Offenbarung12%2C10" %}},
-- {{% bible val="treu im Angesicht des Todes" link="https://www.bibleserver.com/SLT/Offenbarung2%2C10" %}},
-- {{% bible val="treu zu Jesus" link="https://www.bibleserver.com/SLT/Offenbarung14%2C1-5" %}}.
+- {{% bible val="Johannes im Exil" link="rev:1,9" lang="SLT" %}},
+- {{% bible val="Überwinder, weil sie ihr Leben nicht geliebt haben (es nicht als so wertvoll gesehen haben)" link="rev:12,10" lang="SLT" %}},
+- {{% bible val="treu im Angesicht des Todes" link="rev:2,10" lang="SLT" %}},
+- {{% bible val="treu zu Jesus" link="rev:14,1-5" lang="SLT" %}}.
 
-{{% bible val="Denn wir alle sind Könige und Priester" link="https://www.bibleserver.com/SLT/Offenbarung1%2C6" %}}, die {{% bible val="regieren" link="https://www.bibleserver.com/SLT/Offenbarung5%2C9-10" %}}.
+{{% bible val="Denn wir alle sind Könige und Priester" link="rev:1,6" lang="SLT" %}}, die {{% bible val="regieren" link="rev:5,9-10" lang="SLT" %}}.
 
-Also, jeder der Gott treu ist, wird regieren, selbst wenn {{% bible val="er (nur) finanziellen oder sozialen Druck hat." link="https://www.bibleserver.com/SLT/Offenbarung13%2C15-17" %}}
+Also, jeder der Gott treu ist, wird regieren, selbst wenn {{% bible val="er (nur) finanziellen oder sozialen Druck hat." link="rev:13,15-17" lang="SLT" %}}
 
 ## Was ist dann der zweite Tod?
 
 <a name="6f12"></a>
-“{{% bible val="Glückselig und heilig ist, wer Anteil hat an der ersten Auferstehung! Über diese hat der zweite Tod keine Macht, sondern sie werden Priester Gottes und des Christus sein und mit ihm regieren 1 000 Jahre." link="https://www.bibleserver.com/SLT/Offenbarung20%2C6" %}}”
+“{{% bible val="Glückselig und heilig ist, wer Anteil hat an der ersten Auferstehung! Über diese hat der zweite Tod keine Macht, sondern sie werden Priester Gottes und des Christus sein und mit ihm regieren 1 000 Jahre." link="rev:20,6" lang="SLT" %}}”
 
-Wenn wir geboren werden, haben wir unser “erstes Leben” in der ersten, alten Schöpfung. Wenn{{% bible val=" wir aber wiedergeboren werden (Leben mit Gott), haben wir unser “zweites Leben”" link="https://www.bibleserver.com/SLT/Johannes3" %}} in der neuen Schöpfung, was die erste Auferstehung ist. Der zweite Tod ist nichts anderes, als nicht Teil der neuen Schöpfung zu sein und demzufolge geistlich tot zu sein.
+Wenn wir geboren werden, haben wir unser “erstes Leben” in der ersten, alten Schöpfung. Wenn{{% bible val=" wir aber wiedergeboren werden (Leben mit Gott), haben wir unser “zweites Leben”" link="jhn:3" lang="SLT" %}} in der neuen Schöpfung, was die erste Auferstehung ist. Der zweite Tod ist nichts anderes, als nicht Teil der neuen Schöpfung zu sein und demzufolge geistlich tot zu sein.

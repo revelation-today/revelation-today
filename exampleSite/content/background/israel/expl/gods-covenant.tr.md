@@ -31,17 +31,17 @@ Tarihsel olarak iki tür antlaşma vardır:
 - zayıf olanı askerler ve haraçlarla destekler ve
 - güçlü olan zayıf olanı korumakla yükümlüdür.
 
-{{% bible val="Bir örnek olarak Yeşu ve Givonlular onu kandırarak" link="https://www.bibleserver.com/TR/Ye%C5%9Fu9" %}} bir antlaşma yapmasını sağladılar.{{% bible val=" Saldırıya uğradıklarında, onlardan hoşlanmasa bile onları koruması gerekiyordu." link="https://www.bibleserver.com/TR/Ye%C5%9Fu10%3A1-14" %}}
+{{% bible val="Bir örnek olarak Yeşu ve Givonlular onu kandırarak" link="jos:9" lang="TR" %}} bir antlaşma yapmasını sağladılar.{{% bible val=" Saldırıya uğradıklarında, onlardan hoşlanmasa bile onları koruması gerekiyordu." link="jos:10,1-14" lang="TR" %}}
 
 Zayıf olan sözleşmeyi bozarsa (normalde haraç ödemeyi bıraktığında) bu toprağı kaybederdi. Sadece bir babanız olabileceği için zayıf olanın başkalarıyla böyle bir anlaşma yapmasına izin verilmezdi. (Birden fazla kardeşiniz olabileceği için birden fazla eşitler arasında antlaşmalar mümkündür. Bir babanın birçok oğlu olabileceği gibi, güçlü bir kişi de zayıf olanlarla birçok anlaşma yapabilir).
 
 Kutsal Kitap insanlar arasındaki antlaşmalarla doludur
 
-- {{% bible val="İbrahim ve Abimelek" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F21%3A22-32" %}}
-- {{% bible val="Isaak ve Filistliler" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F26%3A12-33" %}}
-- {{% bible val="Yakup ve Laban" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F31%3A22-54" %}}
-- {{% bible val="Gilead" link="https://www.bibleserver.com/TR/1.Samuel11%3A1-11" %}}
-- {{% bible val="Ahab" link="https://www.bibleserver.com/TR/1.Krallar20%3A1-34" %}}
+- {{% bible val="İbrahim ve Abimelek" link="gen:21,22-32" lang="TR" %}}
+- {{% bible val="Isaak ve Filistliler" link="gen:26,12-33" lang="TR" %}}
+- {{% bible val="Yakup ve Laban" link="gen:31,22-54" lang="TR" %}}
+- {{% bible val="Gilead" link="1sa:11,1-11" lang="TR" %}}
+- {{% bible val="Ahab" link="1ki:20,1-34" lang="TR" %}}
 
 “Antlaşma yapmak” kelimenin tam anlamıyla “antlaşma kesmek” anlamına gelir. Bunun aşağıdaki arka planı vardır: Antlaşma törenleri sırasında bir kurban
 
@@ -51,11 +51,11 @@ Kutsal Kitap insanlar arasındaki antlaşmalarla doludur
 ## İbrahim ile yapılan antlaşma
 
 <a name="908c"></a>
-{{% bible val="Kutsal Kitap’ta İbrahim’le ilgili öykü böyle bir sahneyi anlatır" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F15" %}}. İbrahim ile yapılan antlaşma daha ayrıntılı olarak tanımlanır ({{% bible val="sünnet eklendiğinde" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F17" %}})
+{{% bible val="Kutsal Kitap’ta İbrahim’le ilgili öykü böyle bir sahneyi anlatır" link="gen:15" lang="TR" %}}. İbrahim ile yapılan antlaşma daha ayrıntılı olarak tanımlanır ({{% bible val="sünnet eklendiğinde" link="gen:17" lang="TR" %}})
 
-Ama burada temel verilir. Tanrı toprak ve mirasçılar vaat eder. Daha sonra kurban sahnesi gelir. {{% bible val="Burada garip olan şey, hayvanların arasından zayıf olan İbrahim’in değil, Tanrı’nın kendisinin geçmesidir" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F15%3A17" %}}, yani antlaşmanın bozulmasını İbrahim’in tarafından taşıyacaktır.
+Ama burada temel verilir. Tanrı toprak ve mirasçılar vaat eder. Daha sonra kurban sahnesi gelir. {{% bible val="Burada garip olan şey, hayvanların arasından zayıf olan İbrahim’in değil, Tanrı’nın kendisinin geçmesidir" link="gen:15,17" lang="TR" %}}, yani antlaşmanın bozulmasını İbrahim’in tarafından taşıyacaktır.
 
-Daha önce {{% bible val="Nuh ile yapılan antlaşma tek taraflıydı" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F9%3A8-17" %}} (sadece daha güçlü olan Tanrı bir şey vaat etti)!
+Daha önce {{% bible val="Nuh ile yapılan antlaşma tek taraflıydı" link="gen:9,8-17" lang="TR" %}} (sadece daha güçlü olan Tanrı bir şey vaat etti)!
 
 ## İsrail ile yapılan antlaşma
 
@@ -75,14 +75,14 @@ Sözleşme her iki tarafın tanrılarının evinde tutulur ve düzenli olarak k�
 
 Bu model Tanrı’nın İsrail’le yaptığı antlaşmada da görülür:
 
-- Preambel: {{% bible val="Ben Tanrınız Rab’bim" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F20%3A2" %}}.
-- önsöz: {{% bible val="Sizi Mısır’dan, kölelik diyarından çıkaran" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F20%3A2" %}}
-- istekler: ilk (zımni): 10 emirde yer alan tek {{% bible val="bir Tanrı’ya sahip olmak" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F20%3A3-6" %}}
-- {{% bible val="kutsama" link="https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B128%3A1-14" %}} ve {{% bible val="kurs" link="https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B128%3A15-68" %}}: {{% bible val="sürgünde sonuç olarak, ancak yavaş yavaş eğitim için " link="https://www.bibleserver.com/TR/Levililer26%3A1-46" %}}(“hala dinlemiyorsanız, ben dinleyeceğim”)
-- taniklar: {{% bible val="gök ve yer" link="https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B130%3A19" %}}
+- Preambel: {{% bible val="Ben Tanrınız Rab’bim" link="exo:20,2" lang="TR" %}}.
+- önsöz: {{% bible val="Sizi Mısır’dan, kölelik diyarından çıkaran" link="exo:20,2" lang="TR" %}}
+- istekler: ilk (zımni): 10 emirde yer alan tek {{% bible val="bir Tanrı’ya sahip olmak" link="exo:20,3-6" lang="TR" %}}
+- {{% bible val="kutsama" link="deu:28,1-14" lang="TR" %}} ve {{% bible val="kurs" link="deu:28,15-68" lang="TR" %}}: {{% bible val="sürgünde sonuç olarak, ancak yavaş yavaş eğitim için " link="lev:26,1-46" lang="TR" %}}(“hala dinlemiyorsanız, ben dinleyeceğim”)
+- taniklar: {{% bible val="gök ve yer" link="deu:30,19" lang="TR" %}}
 
-{{% bible val="Kral için" link="https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B117%3A18-19" %}} bile {{% bible val="tekrar okuma zorunluluğu" link="https://www.bibleserver.com/TR/Yasan%C4%B1n%20Tekrar%C4%B131%3A9-13" %}}. {{% bible val="Ortak bir yemek yenir" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F24%3A1-12" %}} ve her iki tarafa da emirlerin birer kopyası verilirdi (tabletlerden biri tapınakta Tanrı’da, diğeri İsrail’in Tanrısı’nda kalırdı — yani her ikisi de tapınakta — Musa’nın iki tablete sahip olmasının nedeni budur).
+{{% bible val="Kral için" link="deu:17,18-19" lang="TR" %}} bile {{% bible val="tekrar okuma zorunluluğu" link="deu:31,9-13" lang="TR" %}}. {{% bible val="Ortak bir yemek yenir" link="exo:24,1-12" lang="TR" %}} ve her iki tarafa da emirlerin birer kopyası verilirdi (tabletlerden biri tapınakta Tanrı’da, diğeri İsrail’in Tanrısı’nda kalırdı — yani her ikisi de tapınakta — Musa’nın iki tablete sahip olmasının nedeni budur).
 
-{{% bible val="Ayrıca Tanrı kendisini İsrail’in babası olarak adlandırır." link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F3%3A6" %}}
+{{% bible val="Ayrıca Tanrı kendisini İsrail’in babası olarak adlandırır." link="exo:3,6" lang="TR" %}}
 
 Kutsal Kitap, “sevgi”, “iyilik”, “merhamet” veya “sadakat” ile tanımlanabilecek bir kelime olan “heset” = “antlaşma sadakati” kelimesini kullanır.

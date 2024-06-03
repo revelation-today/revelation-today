@@ -9,7 +9,7 @@ docType: quick
 ---
 
 
-{{% bible val="Kapitel 14" link="https://www.bibleserver.com/SLT/Offenbarung14" %}}).
+{{% bible val="Kapitel 14" link="rev:14" lang="SLT" %}}).
 
 Nach der eindrucksvollen Darstellung des Drachens und der beiden Tiere ist eines klar. Die Sieger sind die Gläubigen. Und ihre Hauptstärke ist ihre Treue zu Gott (als Jungfrauen). Sie stehen am gläsernen Meer als Mahnung, dass Gott über alles Böse souverän ist und singen das Siegeslied.
 

@@ -10,7 +10,7 @@ docType: expl
 
 Ist es denn gerecht, dass Gott das Herz des Pharao verhärtet? Er hatte ja keine andere Wahl, als böse zu sein, und dafür wird er bestraft.
 
-Gott sagt, {{% bible val="er wollte das Herz des Pharaoh verhärten" link="https://www.bibleserver.com/SLT/2.Mose4%2C21" %}}, damit er das Volk Gottes nicht ziehen läßt.
+Gott sagt, {{% bible val="er wollte das Herz des Pharaoh verhärten" link="exo:4,21" lang="SLT" %}}, damit er das Volk Gottes nicht ziehen läßt.
 
 Zum besseren Verständnis hier ein paar Worte zum Hintergrund. Im Hebräischen gibt es drei verschiedene Wörter, die mit “verhärten” übersetzt werden:
 
@@ -22,5 +22,5 @@ Wenn man sich die Bibelstellen in diesen Links anschaut (leider nur auf Englisch
 
 Nimm dir Zeit, diesen Abschnitt zu lesen. Die Grundidee ist folgende: Gott macht das Herz des Pharao stark, so dass er nicht “einknickt”, wenn er Gottes überwältigendes Handeln sieht, sondern die Kraft hat, Gott etwas entgegenzusetzen, wovon er oft Gebrauch macht.
 
-Dass der Pharao eine sehr aktiven Rolle spielt, sieht man bei der ersten wirklich vernichtenden Plage des Hagel, wo er zugibt, dass {{% bible val="er gesündigt hat" link="https://www.bibleserver.com/SLT/2.Mose9%2C27" %}}, aber {{% bible val="als der Hagel aufhört, sündigt er wieder und verhärtet sein Herz" link="https://www.bibleserver.com/SLT/2.Mose9%2C34" %}}.
+Dass der Pharao eine sehr aktiven Rolle spielt, sieht man bei der ersten wirklich vernichtenden Plage des Hagel, wo er zugibt, dass {{% bible val="er gesündigt hat" link="exo:9,27" lang="SLT" %}}, aber {{% bible val="als der Hagel aufhört, sündigt er wieder und verhärtet sein Herz" link="exo:9,34" lang="SLT" %}}.
 

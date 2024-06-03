@@ -17,7 +17,7 @@ Yuhanna’nın yemesi gereken küçük bir tomar vardır ve bundan bir daha hiç
 ## Bizim metnimiz
 
 <a name="e93e"></a>
-Hızla ilerliyoruz ve {{% bible val="10. bölüme" link="https://www.bibleserver.com/TR/Vahiy10" %}} ulaştık.
+Hızla ilerliyoruz ve {{% bible val="10. bölüme" link="rev:10" lang="TR" %}} ulaştık.
 
 ## Parşömen
 

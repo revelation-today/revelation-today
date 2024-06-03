@@ -50,7 +50,7 @@ Rab’bin günü, Mesih’in gelip her şeyi yoluna koyacağı zaman Yahudilerin
 Kendisini “İnsanoğlu” ve dolayısıyla İsrail’in son kalıntısı olarak adlandırdı. İsrail ulusları kurtarma görevinde başarısız olmuştu ve kendisini kurtarmaya ihtiyacı vardı. Bu yüzden İsa geldi ve İsrail’i kurtardı ama onu yeniden kurdu:
 
 - İsrail’in 12 kabilesine göre 12 öğrenci çağırdı.
-- 40 gün oruç tuttu (Mısır’dan Çıkış’taki önemli bir olayı taklit ederek: {{% bible val="Emirlerin alınması" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F34%3A28" %}}, {{% bible val="casusların teftişi" link="https://www.bibleserver.com/TR/%C3%87%C3%B6lde%20Say%C4%B1m14%3A34" %}}).
+- 40 gün oruç tuttu (Mısır’dan Çıkış’taki önemli bir olayı taklit ederek: {{% bible val="Emirlerin alınması" link="exo:34,28" lang="TR" %}}, {{% bible val="casusların teftişi" link="num:14,34" lang="TR" %}}).
 - 40 günden sonra İsrail’in çölde başarısız olduğu tüm ayartmaların üstesinden geldi.
 
 Bununla sadece İsrail’i değil, aynı zamanda İsrail’in bir parçası olmayacak ulusları da kurtardı. Bu başka bir duruma neden oldu — Rab’bin Günü ikiye bölündü:
@@ -63,7 +63,7 @@ Bununla sadece İsrail’i değil, aynı zamanda İsrail’in bir parçası olma
 <a name="a565"></a>
 Kilisenin bu konudaki rolü nedir? Kilise, İsa’yı kabul eden uluslarla güçlendirilmiş yeni İsrail’dir (İsrail’deki imanlılardan başlayarak). Kilise, İsrail’in amaçlandığı gibi tüm uluslara ulaşmayı amaçlamaktadır (ya da daha iyisi, tüm ulusların kutsanması gereken İbrahim diyelim).
 
-Ancak önemli bir ayrıntı vardır: İsa yaklaşmakta olan kiliseden bahsederken, kilisenin {{% bible val="zulüm" link="https://www.bibleserver.com/TR/Yuhanna15%3A20" %}} altında olacağını belirtmiştir ki bu İsrail’in bilmediği bir şeydir (yargı sadece itaatsizlik ettiklerinde gelmiştir).
+Ancak önemli bir ayrıntı vardır: İsa yaklaşmakta olan kiliseden bahsederken, kilisenin {{% bible val="zulüm" link="jhn:15,20" lang="TR" %}} altında olacağını belirtmiştir ki bu İsrail’in bilmediği bir şeydir (yargı sadece itaatsizlik ettiklerinde gelmiştir).
 
 İsa tekrar geri döndüğünde, amaç tüm ulusların kurtulması ve herkesin Tanrı’yla ilişki kurmasıdır — asıl amaç — ve tabii ki zulüm sona erecektir.
 

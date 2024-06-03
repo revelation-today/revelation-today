@@ -23,7 +23,7 @@ Yedi sayısı Kutsal Kitap’ta sık sık bir sembol olarak kullanılır.
 
 Yedi, yaratılışın yedi günü nedeniyle eksiksizliğin sayısıdır.
 
-{{% bible val="Kain’in öyküsündeki" link="https://www.bibleserver.com/TR/Yarat%C4%B1l%C4%B1%C5%9F4%3A15" %}} ya da {{% bible val="Mezmurlar’daki" link="https://www.bibleserver.com/TR/Mezmur79%3A12" %}} Tanrı’nın yedi kat gazabı mecazi olarak da anlaşılabilir
+{{% bible val="Kain’in öyküsündeki" link="gen:4,15" lang="TR" %}} ya da {{% bible val="Mezmurlar’daki" link="psa:79,12" lang="TR" %}} Tanrı’nın yedi kat gazabı mecazi olarak da anlaşılabilir
 
 Muhtemelen kutsalların tüm bereketini tanımlayan ve Vahiy kitabındaki kurtuluş tanımının bir özeti de olabilecek 7 güzel söz vardır.
 
@@ -41,27 +41,27 @@ Vahiy’deki bütünlüğün diğer örnekleri, Tanrı’nın yargısının büt
 ## 4 numara
 
 <a name="062b"></a>
-Dört aynı zamanda bütünlüğün sayısıdır, ancak daha çok evrensel veya dünya çapında bir çerçeve anlamında. Bu, Vahiy kitabında {{% bible val="dünyanın dört ucunun" link="https://www.bibleserver.com/TR/Vahiy20%3A8" %}} yanı sıra {{% bible val="dört rüzgârda" link="https://www.bibleserver.com/TR/Vahiy7%3A1" %}}, {{% bible val="ayrıca dünyanın dört âleminden (gök, yer, deniz, deniz altı) yaratıkların Tanrı’ya ve Kuzu’ya dört kat övgü ilahisi yükselttiği yerlerde açıkça görülür" link="https://www.bibleserver.com/TR/Vahiy5%3A13" %}}.
+Dört aynı zamanda bütünlüğün sayısıdır, ancak daha çok evrensel veya dünya çapında bir çerçeve anlamında. Bu, Vahiy kitabında {{% bible val="dünyanın dört ucunun" link="rev:20,8" lang="TR" %}} yanı sıra {{% bible val="dört rüzgârda" link="rev:7,1" lang="TR" %}}, {{% bible val="ayrıca dünyanın dört âleminden (gök, yer, deniz, deniz altı) yaratıkların Tanrı’ya ve Kuzu’ya dört kat övgü ilahisi yükselttiği yerlerde açıkça görülür" link="rev:5,13" lang="TR" %}}.
 
-Başka yerlerde de yeryüzü dört parçaya ayrılır ({{% bible val="ilk borazan sırasında" link="https://www.bibleserver.com/TR/Vahiy8%3A7" %}}, {{% bible val="üç melek tarafından" link="https://www.bibleserver.com/TR/Vahiy14%3A7" %}}, {{% bible val="kara, deniz, nehirler ve güneş üzerine dört çanak" link="https://www.bibleserver.com/TR/Vahiy16%3A2-9" %}}). Bu dört parça, Tanrı’nın tüm yaratılış üzerindeki yargı gücünü gösteren ilk dört borazanın ve gazap kaselerinin hedefidir.
+Başka yerlerde de yeryüzü dört parçaya ayrılır ({{% bible val="ilk borazan sırasında" link="rev:8,7" lang="TR" %}}, {{% bible val="üç melek tarafından" link="rev:14,7" lang="TR" %}}, {{% bible val="kara, deniz, nehirler ve güneş üzerine dört çanak" link="rev:16,2-9" lang="TR" %}}). Bu dört parça, Tanrı’nın tüm yaratılış üzerindeki yargı gücünü gösteren ilk dört borazanın ve gazap kaselerinin hedefidir.
 
 Hükümlerin 4+3 kalıbına bölünmesi de muhtemelen bunun bir sonucudur. Kitabın dört bölüme ayrılması da kitabın evrensel geçerliliğini göstermektedir.
 
-“{{% bible val="Gök gürültüsü ve şimşek" link="https://www.bibleserver.com/TR/M%C4%B1s%C4%B1rdan%20%C3%87%C4%B1k%C4%B1%C5%9F19%3A16-18" %}}“ ten Sina olarak söz edilmesi önemli yerlerde 4 kez geçmektedir:
+“{{% bible val="Gök gürültüsü ve şimşek" link="exo:19,16-18" lang="TR" %}}“ ten Sina olarak söz edilmesi önemli yerlerde 4 kez geçmektedir:
 
-- {{% bible val="Giriş" link="https://www.bibleserver.com/TR/Vahiy4%3A5" %}},
-- {{% bible val="mühürlerin sonuçlanması," link="https://www.bibleserver.com/TR/Vahiy8%3A5" %}}
-- {{% bible val="boruların çalınması" link="https://www.bibleserver.com/TR/Vahiy11%3A19" %}} ve
-- {{% bible val="kaselerin sonuçlanması." link="https://www.bibleserver.com/TR/Vahiy16%3A18" %}}
+- {{% bible val="Giriş" link="rev:4,5" lang="TR" %}},
+- {{% bible val="mühürlerin sonuçlanması," link="rev:8,5" lang="TR" %}}
+- {{% bible val="boruların çalınması" link="rev:11,19" lang="TR" %}} ve
+- {{% bible val="kaselerin sonuçlanması." link="rev:16,18" lang="TR" %}}
 
 ## 4x7 kombinasyonu
 
 <a name="4df9"></a>
-Eğer biri {{% bible val="yedi gök gürlemesini" link="https://www.bibleserver.com/TR/Vahiy10%3A3-7" %}} başka bir yargı dizisi olarak görürse (ya da Mektupları yargılayıcı bir karaktere sahip olarak görürse), o zaman tüm dünyanın yargılanmasıyla ilgili 4x7 yargı vardır, {{% bible val="ayrıca yedi kat yargıdan dört kez bahsedilen yasaya bakın" link="https://www.bibleserver.com/TR/Levililer26%3A14-46" %}}.
+Eğer biri {{% bible val="yedi gök gürlemesini" link="rev:10,3-7" lang="TR" %}} başka bir yargı dizisi olarak görürse (ya da Mektupları yargılayıcı bir karaktere sahip olarak görürse), o zaman tüm dünyanın yargılanmasıyla ilgili 4x7 yargı vardır, {{% bible val="ayrıca yedi kat yargıdan dört kez bahsedilen yasaya bakın" link="lev:26,14-46" lang="TR" %}}.
 
-{{% bible val="Ayrıca orağın yedi" link="https://www.bibleserver.com/TR/Vahiy14%3A14-19" %}} kat olarak adlandırılması dünya çapındaki yargının bütünlüğünü gösterir.
+{{% bible val="Ayrıca orağın yedi" link="rev:14,14-19" lang="TR" %}} kat olarak adlandırılması dünya çapındaki yargının bütünlüğünü gösterir.
 
-Ayrıca, {{% bible val="Babil’deki tüccarların mal listesinde " link="https://www.bibleserver.com/TR/Vahiy18%3A11-13" %}}4 çarpı 7, dünya ürünlerinin tamamını temsil eden 28 mal vardır.Ayrıca Tanrı ve Mesih için kullanılan bazı isimler dört ya da yedi kez geçer:
+Ayrıca, {{% bible val="Babil’deki tüccarların mal listesinde " link="rev:18,11-13" lang="TR" %}}4 çarpı 7, dünya ürünlerinin tamamını temsil eden 28 mal vardır.Ayrıca Tanrı ve Mesih için kullanılan bazı isimler dört ya da yedi kez geçer:
 
 - Tüm yaratılış üzerinde hüküm süren ebedi Yaratıcı olarak O’nu belirtmek için 4 kez yaşayan O’dur.
 - Her Şeye Gücü Yeten Tanrı 7 kez yalın durumda
@@ -80,7 +80,7 @@ Ayrıca, {{% bible val="Babil’deki tüccarların mal listesinde " link="https:
 
 On iki havari Yeni Antlaşma’da bunun ayna görüntüsüdür.
 
-{{% bible val="Vahiy’de on iki sayısının karesi alınır ve tamlığı göstermek için 1000" link="https://www.bibleserver.com/TR/Vahiy7%3A4-8" %}} ile çarpılır. Bu o kadar önemlidir ki, on iki sayısı Yeni Yeruşalim’in tasvirinde kutsalların son zaman tamlığının bir resmi olarak ve ayrıca [3*4 kapı](https://www.bibleserver.com/TR/Vahiy21%3A13) ve {{% bible val="12 değerli taş" link="https://www.bibleserver.com/TR/Vahiy21%3A19-20" %}} olarak on iki kez kullanılmıştır.
+{{% bible val="Vahiy’de on iki sayısının karesi alınır ve tamlığı göstermek için 1000" link="rev:7,4-8" lang="TR" %}} ile çarpılır. Bu o kadar önemlidir ki, on iki sayısı Yeni Yeruşalim’in tasvirinde kutsalların son zaman tamlığının bir resmi olarak ve ayrıca [3*4 kapı](https://www.bibleserver.com/TR/Vahiy21%3A13) ve {{% bible val="12 değerli taş" link="rev:21,19-20" lang="TR" %}} olarak on iki kez kullanılmıştır.
 
 ## Diğer numaralar
 
@@ -111,16 +111,16 @@ Kırmızı daire içine alınmış sütunlar Şeytan’ı ve onun krallığını
 
 En küçük (önemsiz olmayan) kare üçgen sayı 36'dır. Bu, canavarların çeşitli yönleriyle ilgilidir
 
-- 666 (36. üçgen sayı) ile ilgilidir ve {{% bible val="canavarın gizemidir" link="https://www.bibleserver.com/TR/Vahiy13%3A18" %}}.
+- 666 (36. üçgen sayı) ile ilgilidir ve {{% bible val="canavarın gizemidir" link="rev:13,18" lang="TR" %}}.
 - 8 ile ilişkilidir (36 8. üçgen sayıdır) ve dirilişi ifade eder (İsa 8. günde dirilir)
 - İnsanın ya da başka bir deyişle tanrı olmayan gücün sayısı olan 6 ile ilişkilidir (36, 6'nın karesidir).
-- 6. dikdörtgen sayı, {{% bible val="canavarın faaliyetlerinin 42 ayını tanımlayan 42'dir" link="https://www.bibleserver.com/TR/Vahiy13%3A5" %}}.
+- 6. dikdörtgen sayı, {{% bible val="canavarın faaliyetlerinin 42 ayını tanımlayan 42'dir" link="rev:13,5" lang="TR" %}}.
 
 Ancak bir sonraki en küçük (ve belki de Johns zamanında bilinen tek diğer) 1225 olacaktır ki bu da burada yansıtılmaktadır
 
 - 36'yı çok geride bırakır ve elde edilmesi daha karmaşıktır
 - 35'in karesidir (36'dan sadece bir eksiktir, ancak farklı karşılaştırma ölçeklerinde)
-- 35. dikdörtgen sayı 1260'tır ve {{% bible val="iki tanığın faaliyetlerinin zamanını tanımlar" link="https://www.bibleserver.com/TR/Vahiy11%3A3" %}}
+- 35. dikdörtgen sayı 1260'tır ve {{% bible val="iki tanığın faaliyetlerinin zamanını tanımlar" link="rev:11,3" lang="TR" %}}
 - 49. üçgensel sayıdır, 49 ise 7'nin karesidir ve bütünlüğü veya eksiksizliği tanımlar
 
 Gerçek şu ki, Tanrı’nın krallığı Şeytan’ın devasa bir parodi olan krallığından çok daha üstündür. 666'nın (1225'e göre) 750.925 olan eşdeğerini ele alalım. Bunun 2 m boyunda bir insan olduğunu varsayalım, Şeytan’ın gücü 2 mm’den daha kısa bir böcekle kıyaslanacaktır!

@@ -7,7 +7,7 @@ next: /content/harlot/story/story
 docType: story
 ---
 
-{{% bible val="Chapter 14–16" link="https://www.bibleserver.com/NIV/Revelation14" %}}
+{{% bible val="Chapter 14–16" link="rev:14" lang="NIV" %}}
 
 <a name="37a3"></a>
 Jesus victory at the cross and the testimony of the church did it all and the enemy is scattered around. The faithful sing in victory — their only skill required was loyalty to God.

@@ -19,7 +19,7 @@ How should all the challenges of the churches be answered? What is the plan of a
 ## Our text
 
 <a name="8bf5"></a>
-We are now in {{% bible val="chapter 4" link="https://www.bibleserver.com/NIV/Revelation4" %}}.
+We are now in {{% bible val="chapter 4" link="rev:4" lang="NIV" %}}.
 
 ## What is worship?
 

@@ -16,7 +16,7 @@ sources:
 
 Smyrna’yı biliyor musunuz? Tanımalısınız çünkü orada suçsuz bir kilise bulacaksınız, ama belki sizin için doğru kilise olmayabilir
 
-{{% bible val="İzmir, İsa’dan herhangi bir azar işitmeyen iki kiliseden biridir" link="https://www.bibleserver.com/TR/Vahiy2%3A8-11" %}}. Peki bu sır nedir?
+{{% bible val="İzmir, İsa’dan herhangi bir azar işitmeyen iki kiliseden biridir" link="rev:2,8-11" lang="TR" %}}. Peki bu sır nedir?
 
 ## Tarihsel arka plan
 
@@ -35,11 +35,11 @@ Kilisenin kökeni hakkında çok az şey bilinmektedir, belki de Pavlus tarafın
 - Muhtemelen Gildes’e katılmadıkları için mali olarak savaşmak zorundalar.
 - kilise hakkında iftira atan bazı Yahudiler var ve muhtemelen hapse girmelerinin nedeni de onlar (şeytan bazılarınızı hapse atacak, Yahudiler Şeytan’ın bir sinagogudur)
 
-{{% bible val="10 güne" link="https://www.bibleserver.com/TR/Vahiy2%3A10" %}} yapılan atıf, kralların sofrasından kirli bir yiyeceğe adanmış putla kendilerini kirletmemek için sadece sebze yedikleri {{% bible val="Daniel’in öyküsüyle" link="https://www.bibleserver.com/TR/Daniel1%3A8-14" %}} bir bağlantıdır.
+{{% bible val="10 güne" link="rev:2,10" lang="TR" %}} yapılan atıf, kralların sofrasından kirli bir yiyeceğe adanmış putla kendilerini kirletmemek için sadece sebze yedikleri {{% bible val="Daniel’in öyküsüyle" link="dan:1,8-14" lang="TR" %}} bir bağlantıdır.
 
 ## Bakış açısı
 
 <a name="a1e3"></a>
-İsa söz veriyor: Tahammül ettiklerinde ikinci ölümden zarar görmeyecekler. {{% bible val="İsa ölümden dirilişe geçerek üstesinden geldi ve hafta gibi görünüyor" link="https://www.bibleserver.com/TR/Vahiy5%3A5-6" %}}, bu {{% bible val="yüzden onlarla birlikte hükmedecek" link="https://www.bibleserver.com/TR/Vahiy20%3A4-6" %}}. Bu bir paradokstur. Bu nasıl olmalıdır?
+İsa söz veriyor: Tahammül ettiklerinde ikinci ölümden zarar görmeyecekler. {{% bible val="İsa ölümden dirilişe geçerek üstesinden geldi ve hafta gibi görünüyor" link="rev:5,5-6" lang="TR" %}}, bu {{% bible val="yüzden onlarla birlikte hükmedecek" link="rev:20,4-6" lang="TR" %}}. Bu bir paradokstur. Bu nasıl olmalıdır?
 
 Biz ne kadar çok şey yapamazsak, İsa o kadar çok çalışabilir. {{% int_link val="Ancak çaresizlikten bunalıp pes etme tehlikesi vardır" link="/content/beasts/expl/666-the-number-of-the-beast" %}}. Durumu çözmemiz değil, O’nunla birlikte dayanmamız gerekir.

@@ -17,7 +17,7 @@ Was ist das kleine Buch, das Johannes essen soll und von dem nie wieder die Rede
 ## Unser Text
 
 <a name="eb3b"></a>
-Es geht weiter im {{% bible val="Kapitel 10" link="https://www.bibleserver.com/SLT/Offenbarung10" %}}.
+Es geht weiter im {{% bible val="Kapitel 10" link="rev:10" lang="SLT" %}}.
 
 ## Das kleine Büchlein
 

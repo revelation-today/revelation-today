@@ -7,7 +7,7 @@ next: /welcome/done
 docType: story
 ---
 
-{{% bible val="Chapter 20–22" link="https://www.bibleserver.com/NIV/Revelation20" %}}
+{{% bible val="Chapter 20–22" link="rev:20" lang="NIV" %}}
 
 <a name="a287"></a>
 It is done. Finally! You may have not noticed it but the church was always in power but with a different power and guided the fate of humanity. But first come the final judgment who will join eternity with God and who without him.

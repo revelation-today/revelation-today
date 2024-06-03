@@ -11,15 +11,15 @@ Was glaubst du, ist Israel? Sind es alle Nachkommen Abrahams? Sicher nicht, es i
 ## Der Ursprung und der Sinn von Israel
 
 <a name="bfb6"></a>
-Nach dem Sündenfall entfernte sich die Menschheit immer mehr von Gott. Die Sintflut (Vernichtung aller bösen Menschen) machte da keinen Unterschied und die Menschen dachten daran, einen {{% bible val="Namen für sich zu machen und wollten einen Turm bauen, der bis in den Himmel reich" link="https://www.bibleserver.com/SLT/1.Mose11%2C1-10" %}}t. Aber Gott stoppte das und [entschied sich, aus Abraham (zu der Zeit immer noch Abram genannt) einen Namen zu machen]{{% bible val="entschied sich, aus Abraham (zu der Zeit immer noch Abram genannt) einen Namen zu machen" link="https://www.bibleserver.com/SLT/1.Mose12%2C1-2" %}}). Er schloß einen {{% int_link val="Bund" link="/background/israel/expl/gods-covenant" %}} mit ihm und wollte, dass {{% bible val="seine Nachkommen ein Segen für die Welt sein sollten" link="https://www.bibleserver.com/SLT/1.Mose12%2C3" %}}.
+Nach dem Sündenfall entfernte sich die Menschheit immer mehr von Gott. Die Sintflut (Vernichtung aller bösen Menschen) machte da keinen Unterschied und die Menschen dachten daran, einen {{% bible val="Namen für sich zu machen und wollten einen Turm bauen, der bis in den Himmel reich" link="gen:11,1-10" lang="SLT" %}}t. Aber Gott stoppte das und [entschied sich, aus Abraham (zu der Zeit immer noch Abram genannt) einen Namen zu machen]{{% bible val="entschied sich, aus Abraham (zu der Zeit immer noch Abram genannt) einen Namen zu machen" link="gen:12,1-2" lang="SLT" %}}). Er schloß einen {{% int_link val="Bund" link="/background/israel/expl/gods-covenant" %}} mit ihm und wollte, dass {{% bible val="seine Nachkommen ein Segen für die Welt sein sollten" link="gen:12,3" lang="SLT" %}}.
 
 Aus Abraham wurde eine große Familie, die wegen einer Hungersnot nach Ägypten zog. Nach einiger Zeit wurden sie ein großes Volk, aber sie wurden von den Ägyptern versklavt. Aber Gott zeigte allen durch die {{% int_link val="10 Plagen" link="/bible/exodus/expl/the-plagues-in-egypt" %}}, dass er ein viel besserer Gott ist als die ägyptischen Götter.
 
-In der Geschichte vom Passah (kurz vor der letzten Plage) gibt Gott einige Regeln, die seine Absicht mit Israel zeigen. {{% bible val="Jeder, der dauerhaft mit Israel lebt, kann Teil des Bundes mit Israel werden" link="https://www.bibleserver.com/SLT/2.Mose12%2C48-49" %}} — denn Bund heißt, Teil einer Familie zu werden. Gott wollte, dass Israel alle Nationen umfaßt, damit alle in die Beziehung mit Gott zurückgebracht werden können. Und das begann in Ägypten, {{% bible val="denn viele von ihnen kamen mit Israel, als sie Ägypten verließen" link="https://www.bibleserver.com/SLT/2.Mose12%2C38" %}}.
+In der Geschichte vom Passah (kurz vor der letzten Plage) gibt Gott einige Regeln, die seine Absicht mit Israel zeigen. {{% bible val="Jeder, der dauerhaft mit Israel lebt, kann Teil des Bundes mit Israel werden" link="exo:12,48-49" lang="SLT" %}} — denn Bund heißt, Teil einer Familie zu werden. Gott wollte, dass Israel alle Nationen umfaßt, damit alle in die Beziehung mit Gott zurückgebracht werden können. Und das begann in Ägypten, {{% bible val="denn viele von ihnen kamen mit Israel, als sie Ägypten verließen" link="exo:12,38" lang="SLT" %}}.
 
 Und Gott schloß mit ihnen einen neuen Bund am Berg Sinai, der zur Verfassung Israels wurde.
 
-Einige weitere Personen wurden Teil von Israel, wie {{% bible val="Rahab" link="https://www.bibleserver.com/SLT/Josua2" %}}, {{% bible val="Ruth vs. Orpa" link="https://www.bibleserver.com/SLT/Rut1" %}}, {{% bible val="Uria" link="https://www.bibleserver.com/SLT/2.Samuel11%2C3" %}} und viele andere. {{% bible val="Aber die Reichweite war begrenzt" link="https://www.bibleserver.com/SLT/Matth%C3%A4us23%2C15" %}}.
+Einige weitere Personen wurden Teil von Israel, wie {{% bible val="Rahab" link="jos:2" lang="SLT" %}}, {{% bible val="Ruth vs. Orpa" link="rut:1" lang="SLT" %}}, {{% bible val="Uria" link="2sa:11,3" lang="SLT" %}} und viele andere. {{% bible val="Aber die Reichweite war begrenzt" link="mat:23,15" lang="SLT" %}}.
 
 ## Israel bricht den Bund
 
@@ -33,11 +33,11 @@ Aber das ist nicht geschehen. Die Schlussfolgerung war, dass sich Israel immer n
 <a name="12dc"></a>
 Als Jesus das erste Mal kam, beanspruchte er durch {{% int_link val="seine Worte und Taten, dass durch ihn der Tag des Herrn gekommen sei" link="/background/israel/expl/jesus-and-the-covenant" %}}, was in den {{% int_link val="Evangelien auch als “zweiten Auszug” bezeichnet wird" link="/background/israel/expl/the-second-exodus" %}}.
 
-Damit hat er auch Israel neu definiert. Er nannte sich selbst den “{{% int_link val="Menschensohn" link="/bible/daniel/expl/the-son-of-man-and-the-remnant" %}}” und machte sich damit zum verbleibenden Überrest Israels und begann einen {{% bible val="neuen Bund mit dem Teil von Israel, der wollte " link="https://www.bibleserver.com/SLT/Matth%C3%A4us15%2C24" %}}und begann mit {{% int_link val="der Ausweitung auf die Nationen" link="/background/israel/expl/the-remnant-of-israel" %}}.
+Damit hat er auch Israel neu definiert. Er nannte sich selbst den “{{% int_link val="Menschensohn" link="/bible/daniel/expl/the-son-of-man-and-the-remnant" %}}” und machte sich damit zum verbleibenden Überrest Israels und begann einen {{% bible val="neuen Bund mit dem Teil von Israel, der wollte " link="mat:15,24" lang="SLT" %}}und begann mit {{% int_link val="der Ausweitung auf die Nationen" link="/background/israel/expl/the-remnant-of-israel" %}}.
 
 Der {{% int_link val="Tag des Herrn ist erst teilweise gekommen, wir leben also in einer Zwischenzeit, in der das Reich Gottes zwar da ist, aber noch nicht vollständig" link="/background/israel/expl/jesus-and-the-covenant#5788" %}}.
 
 {{% int_link val="Die Nationen sind ein Teil Israels" link="/background/israel/expl/the-church-is-part-of-israel" %}} und es gibt keinen Unterschied zwischen dem alttestamentlichen Israel und dem neue Israel (mit dem Nationen als Gemeinde) behandelt werden.
 
-{{% bible val="Die Gemeinde hat Israel nicht ersetzt, sondern Israel hat seine Mission erfüllt, indem es die Nationen zum neuen Israel hinzugefügt hat" link="https://www.bibleserver.com/SLT/R%C3%B6mer9" %}}.
+{{% bible val="Die Gemeinde hat Israel nicht ersetzt, sondern Israel hat seine Mission erfüllt, indem es die Nationen zum neuen Israel hinzugefügt hat" link="rom:9" lang="SLT" %}}.
 

@@ -12,7 +12,7 @@ sources:
       ref: fee_rev
 ---
 
-What does a dead church look like? How do you give new life in there? Curious? Check out the {{% bible val="letter to Sardis" link="https://www.bibleserver.com/NIV/Revelation3%3A1-6" %}}.
+What does a dead church look like? How do you give new life in there? Curious? Check out the {{% bible val="letter to Sardis" link="rev:3,1-6" lang="NIV" %}}.
 
 ## The historical background
 
@@ -26,7 +26,7 @@ The city was always of great importance, e.g. when it was destroyed by a massive
 ## Jesus’s view
 
 <a name="87a6"></a>
-Jesus {{% bible val="approached the church in the fullness of the Spirit and reminded them of their call to be light to the world" link="https://www.bibleserver.com/NIV/Revelation3%3A1" %}}.
+Jesus {{% bible val="approached the church in the fullness of the Spirit and reminded them of their call to be light to the world" link="rev:3,1" lang="NIV" %}}.
 
 There is little praise (only a few who are blameless).
 
@@ -39,9 +39,9 @@ The main problem is their false self-image. The overestimation of the city rubbe
 
 The basic problem was that they thought they could be a church without the Holy Spirit.
 
-The reference {{% bible val="to being dead and awakening what is about to die" link="https://www.bibleserver.com/NIV/Revelation3%3A1-2" %}} has a strong connection to the {{% bible val="vision of the dead bones, where the Holy Spirit comes and breathes in new life" link="https://www.bibleserver.com/NIV/Ezekiel37" %}}.
+The reference {{% bible val="to being dead and awakening what is about to die" link="rev:3,1-2" lang="NIV" %}} has a strong connection to the {{% bible val="vision of the dead bones, where the Holy Spirit comes and breathes in new life" link="ezk:37" lang="NIV" %}}.
 
-Also the reference to “{{% bible val="found your deeds incomplete in the sight of God" link="https://www.bibleserver.com/NIV/Revelation3%3A2" %}}” is a reminder that “{{% bible val="all complete work comes from God, the Father of lights" link="https://www.bibleserver.com/NIV/James1%3A17" %}}”.
+Also the reference to “{{% bible val="found your deeds incomplete in the sight of God" link="rev:3,2" lang="NIV" %}}” is a reminder that “{{% bible val="all complete work comes from God, the Father of lights" link="jas:1,17" lang="NIV" %}}”.
 
 They should act quickly or God will take them by surprise, for life without the Holy Spirit is not sustainable.
 

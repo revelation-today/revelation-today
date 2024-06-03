@@ -35,50 +35,50 @@ Der letzte Vers vor diesem Kapitel erwähnte bereits den Thronsaal Gottes, aber 
 </tr></thead><tbody>
 <tr>
     <td><a href="https://biblehub.com/greek/2983.htm">Empfang</a> von Vollmacht</td>
-    <td>in der Verheißung für die Überwinder in Thyatira, den {{% bible val="Morgenstern zu bekommen" link="https://www.bibleserver.com/SLT/Offenbarung2%2C28" %}}</td>
-    <td>für das Lamm, die {{% bible val="Schriftrolle" link="https://www.bibleserver.com/SLT/Offenbarung5%2C9" %}} sowie {{% bible val="Ehre und Herrlichkeit" link="https://www.bibleserver.com/SLT/Offenbarung5%2C12" %}} zu empfangen</td>
+    <td>in der Verheißung für die Überwinder in Thyatira, den {{% bible val="Morgenstern zu bekommen" link="rev:2,28" lang="SLT" %}}</td>
+    <td>für das Lamm, die {{% bible val="Schriftrolle" link="rev:5,9" lang="SLT" %}} sowie {{% bible val="Ehre und Herrlichkeit" link="rev:5,12" lang="SLT" %}} zu empfangen</td>
 </tr>
 <tr>
     <td>die Überwinder</td>
-    <td>in {{% bible val="Laodizea, die auf dem Thron sitzen werden" link="https://www.bibleserver.com/SLT/Offenbarung3%2C21" %}}</td> 
-    <td>die das {{% bible val="Lamm, das überwunden hat und würdig ist, die Schriftrolle zu öffnen" link="https://www.bibleserver.com/SLT/Offenbarung5%2C5" %}}</td>
+    <td>in {{% bible val="Laodizea, die auf dem Thron sitzen werden" link="rev:3,21" lang="SLT" %}}</td> 
+    <td>die das {{% bible val="Lamm, das überwunden hat und würdig ist, die Schriftrolle zu öffnen" link="rev:5,5" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>die sieben Geister Gottes</td>
-    <td>in der {{% bible val="Ansprache an Sardes" link="https://www.bibleserver.com/SLT/Offenbarung3%2C1" %}}</td> 
-    <td>die {{% bible val="Beschreibung vor dem Thron" link="https://www.bibleserver.com/SLT/Offenbarung4%2C5" %}} und als {{% bible val="Beschreibung der Augen des Lammes" link="https://www.bibleserver.com/SLT/Offenbarung5%2C6" %}}</td>
+    <td>in der {{% bible val="Ansprache an Sardes" link="rev:3,1" lang="SLT" %}}</td> 
+    <td>die {{% bible val="Beschreibung vor dem Thron" link="rev:4,5" lang="SLT" %}} und als {{% bible val="Beschreibung der Augen des Lammes" link="rev:5,6" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>die weiße Kleidung der Heiligen</td>
-    <td>bei den {{% bible val="Überwindern in Sardes" link="https://www.bibleserver.com/SLT/Offenbarung3%2C5" %}} und {{% bible val="das Angebot Jesu an Laodizea" link="https://www.bibleserver.com/SLT/Offenbarung3%2C18" %}}</td> 
-    <td>die{{% bible val=" Kleidung der 24 Ältesten" link="https://www.bibleserver.com/SLT/Offenbarung4%2C4" %}}</td>
+    <td>bei den {{% bible val="Überwindern in Sardes" link="rev:3,5" lang="SLT" %}} und {{% bible val="das Angebot Jesu an Laodizea" link="rev:3,18" lang="SLT" %}}</td> 
+    <td>die{{% bible val=" Kleidung der 24 Ältesten" link="rev:4,4" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>Heilige, die auf Thronen sitzen</td>
-    <td>die {{% bible val="Überwinder in Laodizea" link="https://www.bibleserver.com/SLT/Offenbarung3%2C21" %}}</td> 
-    <td>die {{% bible val="24 Ältesten" link="https://www.bibleserver.com/SLT/Offenbarung4%2C4" %}}</td>
+    <td>die {{% bible val="Überwinder in Laodizea" link="rev:3,21" lang="SLT" %}}</td> 
+    <td>die {{% bible val="24 Ältesten" link="rev:4,4" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>Heilige mit Kronen</td>
-    <td>als {{% bible val="Verheißung in Smyrna" link="https://www.bibleserver.com/SLT/Offenbarung2%2C10" %}} und {{% bible val="Realität in Philadelphia" link="https://www.bibleserver.com/SLT/Offenbarung3%2C11" %}}</td> 
-    <td>im {{% bible val="Bild der 24 Ältesten" link="https://www.bibleserver.com/SLT/Offenbarung4%2C4" %}}</td>
+    <td>als {{% bible val="Verheißung in Smyrna" link="rev:2,10" lang="SLT" %}} und {{% bible val="Realität in Philadelphia" link="rev:3,11" lang="SLT" %}}</td> 
+    <td>im {{% bible val="Bild der 24 Ältesten" link="rev:4,4" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>Bild einer offenen Tür</td>
-    <td>in der {{% bible val="Realität in Philadelphia" link="https://www.bibleserver.com/SLT/Offenbarung3%2C8" %}} und {{% bible val="dem Wunsch in Laodizea" link="https://www.bibleserver.com/SLT/Offenbarung3%2C20" %}}</td> 
-    <td>die {{% bible val="Einführung in den Thronsaal" link="https://www.bibleserver.com/SLT/Offenbarung4%2C1" %}}</td>
+    <td>in der {{% bible val="Realität in Philadelphia" link="rev:3,8" lang="SLT" %}} und {{% bible val="dem Wunsch in Laodizea" link="rev:3,20" lang="SLT" %}}</td> 
+    <td>die {{% bible val="Einführung in den Thronsaal" link="rev:4,1" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>Stimme wie eine Posaune</td>
-    <td>bzgl. der {{% bible val="Vision bezüglich der Gemeinden" link="https://www.bibleserver.com/SLT/Offenbarung1%2C10-12" %}}</td> 
-    <td>mit Entrückung im Geist {{% bible val="leitet hier die Vision ein" link="https://www.bibleserver.com/SLT/Offenbarung4%2C1-2" %}}</td>
+    <td>bzgl. der {{% bible val="Vision bezüglich der Gemeinden" link="rev:1,10-12" lang="SLT" %}}</td> 
+    <td>mit Entrückung im Geist {{% bible val="leitet hier die Vision ein" link="rev:4,1-2" lang="SLT" %}}</td>
 </tr>
 </tbody>
 </table>
 
 Diese Beziehungen sollten der Kirche eine Vision für ihre geistliche Realität geben, aber auch dem Beispiel Christi folgen. Die Realität, die in dieser Vision gezeigt wird, ist Teil der Realität, nach der die Kirche handeln sollte.
 
-{{% bible val="Daniel 7" link="https://www.bibleserver.com/SLT/Daniel7" %}} weist eine auffällige Parallele zu den Kapiteln 4 und 5 der Offenbarung auf:
+{{% bible val="Daniel 7" link="dan:7" lang="SLT" %}} weist eine auffällige Parallele zu den Kapiteln 4 und 5 der Offenbarung auf:
 
 <table><thead><tr>
     <th>Thema</th>
@@ -87,80 +87,80 @@ Diese Beziehungen sollten der Kirche eine Vision für ihre geistliche Realität 
 </tr></thead><tbody>
 <tr>
     <td>Einleitungssätze</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C9" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung4%2C1" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,9" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:4,1" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>Thron im Himmel </td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C9" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung4%2C2" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,9" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:4,2" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>Gott sitzt auf diesem Thron</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C9" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung4%2C2" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,9" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:4,2" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>die Beschreibung von Gott</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C9" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung4%2C3" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,9" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:4,3" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>Feuer vor dem Thron</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C9-10" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung4%2C5" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,9-10" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:4,5" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>himmlische Diener umgeben den Thron</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C10" %}}</td> 
-    <td>Offenbarung ({{% bible val="24 Älteste" link="https://www.bibleserver.com/SLT/Offenbarung4%2C4" %}}, {{% bible val="4 Lebewesen" link="https://www.bibleserver.com/SLT/Offenbarung4%2C6-10" %}} und {{% bible val="Engel" link="https://www.bibleserver.com/SLT/Offenbarung5%2C11" %}})</td>
+    <td>{{% bible val="Daniel" link="dan:7,10" lang="SLT" %}}</td> 
+    <td>Offenbarung ({{% bible val="24 Älteste" link="rev:4,4" lang="SLT" %}}, {{% bible val="4 Lebewesen" link="rev:4,6-10" lang="SLT" %}} und {{% bible val="Engel" link="rev:5,11" lang="SLT" %}})</td>
 </tr>
 <tr>
     <td>Bücher vor dem Thron</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C10" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung5%2C1-5" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,10" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:5,1-5" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>Bücher werden aufgeschlagen</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C10" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung5%2C9" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,10" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:5,9" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>göttliche (messianische) Gestalt nähert sich dem Thron, um die Autorität zu empfangen</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C13-14" %}}</td> 
-    <td>Offenbarung (als {{% bible val="Beschreibung" link="https://www.bibleserver.com/SLT/Offenbarung5%2C5-7" %}}, weil er {{% bible val="alle Völkern erkauft hat" link="https://www.bibleserver.com/SLT/Offenbarung5%2C9" %}}, die {{% bible val="ihn alle preisen" link="https://www.bibleserver.com/SLT/Offenbarung5%2C12-13" %}})</td>
+    <td>{{% bible val="Daniel" link="dan:7,13-14" lang="SLT" %}}</td> 
+    <td>Offenbarung (als {{% bible val="Beschreibung" link="rev:5,5-7" lang="SLT" %}}, weil er {{% bible val="alle Völkern erkauft hat" link="rev:5,9" lang="SLT" %}}, die {{% bible val="ihn alle preisen" link="rev:5,12-13" lang="SLT" %}})</td>
 </tr>
 <tr>
     <td>der Geltungsbereich: alle Völker, Nationen und Sprachen</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C14" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung5%2C9" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,14" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:5,9" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>die Verzweiflung des Sehers beim Anblick der Vision</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C15" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung5%2C4" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,15" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:5,4" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>die Anleitung des Seher von einem der Throndiener des himmlischen Rates</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C16" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung5%2C5" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,16" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:5,5" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>Heilige, denen die Autorität verliehen wird, über ein Königreich zu herrschen</td>
-    <td>nicht nur {{% bible val="zweimal" link="https://www.bibleserver.com/SLT/Daniel7%2C22" %}}, sondern {{% bible val="dreimal" link="https://www.bibleserver.com/SLT/Daniel7%2C27" %}} in {{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C18" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung5%2C10" %}}</td>
+    <td>nicht nur {{% bible val="zweimal" link="dan:7,22" lang="SLT" %}}, sondern {{% bible val="dreimal" link="dan:7,27" lang="SLT" %}} in {{% bible val="Daniel" link="dan:7,18" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:5,10" lang="SLT" %}}</td>
 </tr>
 <tr>
     <td>die abschließende Erwähnung von Gottes ewiger Herrschaft</td>
-    <td>{{% bible val="Daniel" link="https://www.bibleserver.com/SLT/Daniel7%2C27" %}}</td> 
-    <td>{{% bible val="Offenbarung" link="https://www.bibleserver.com/SLT/Offenbarung5%2C13-14" %}}</td>
+    <td>{{% bible val="Daniel" link="dan:7,27" lang="SLT" %}}</td> 
+    <td>{{% bible val="Offenbarung" link="rev:5,13-14" lang="SLT" %}}</td>
 </tr>
 </tbody>
 </table>
 
 Auch wenn es viele Parallelen gibt, kann man leicht erkennen, dass die Reihenfolge der Ereignisse in beiden Abschnitten unterschiedlich ist. Diese Szene erinnert an den Engelsrat wie bei
-- der {{% bible val="Berufung des Jesaja" link="https://www.bibleserver.com/SLT/Jesaja6%2C1-9" %}} oder
-- der {{% bible val="Entscheidung über Ahabs Tod" link="https://www.bibleserver.com/SLT/1.K%C3%B6nige22%2C19-23" %}}
+- der {{% bible val="Berufung des Jesaja" link="isa:6,1-9" lang="SLT" %}} oder
+- der {{% bible val="Entscheidung über Ahabs Tod" link="1ki:22,19-23" lang="SLT" %}}
 
 Auch wenn es viele Parallelen gibt, kann man leicht erkennen, dass die Reihenfolge der Ereignisse in beiden Passagen unterschiedlich ist.
 
@@ -184,15 +184,15 @@ Aber die Antwort auf all das ist Anbetung:
 ## Der Thronsaal
 
 <a name="0938"></a>
-Johannes’ erster Eindruck ist die Herrlichkeit Gottes, die es ihm unmöglich macht, Gott direkt zu sehen. {{% bible val="Auch Mose bat Gott, seine Herrlichkeit sehen zu dürfen, aber das war nicht möglich. Stattdessen zeigte Gott ihm seine Gnade, d.h. Gottes Herrlichkeit ist seine Gnade" link="https://www.bibleserver.com/SLT/2.Mose33%2C18-20" %}}. Wir müssen also die Gerichte aus diesem Blickwinkel betrachten.
+Johannes’ erster Eindruck ist die Herrlichkeit Gottes, die es ihm unmöglich macht, Gott direkt zu sehen. {{% bible val="Auch Mose bat Gott, seine Herrlichkeit sehen zu dürfen, aber das war nicht möglich. Stattdessen zeigte Gott ihm seine Gnade, d.h. Gottes Herrlichkeit ist seine Gnade" link="exo:33,18-20" lang="SLT" %}}. Wir müssen also die Gerichte aus diesem Blickwinkel betrachten.
 
-Der nächste Punkt ist der {{% bible val="Regenbogen" link="https://www.bibleserver.com/SLT/Offenbarung4%2C3" %}}. Er erinnert an den {{% bible val="Bund mit Noah, als Gott den Bogen an den Himmel setzte als Versprechen, dass es nie wieder eine Sintflut geben würde und dass die Jahreszeiten nicht aufhören würden — aber es gab keine Bedingung für Noah in diesem Bund" link="https://www.bibleserver.com/SLT/1.Mose9%2C8-11" %}}. Das bringt einen anderen Aspekt ins Spiel: Es gibt Gericht, aber mit Einschränkungen.
+Der nächste Punkt ist der {{% bible val="Regenbogen" link="rev:4,3" lang="SLT" %}}. Er erinnert an den {{% bible val="Bund mit Noah, als Gott den Bogen an den Himmel setzte als Versprechen, dass es nie wieder eine Sintflut geben würde und dass die Jahreszeiten nicht aufhören würden — aber es gab keine Bedingung für Noah in diesem Bund" link="gen:9,8-11" lang="SLT" %}}. Das bringt einen anderen Aspekt ins Spiel: Es gibt Gericht, aber mit Einschränkungen.
 
-Das letzte Thema ist das {{% bible val="gläserne Meer" link="https://www.bibleserver.com/SLT/Offenbarung4%2C6" %}}. Es gibt drei Parallelen in der Bibel:
+Das letzte Thema ist das {{% bible val="gläserne Meer" link="rev:4,6" lang="SLT" %}}. Es gibt drei Parallelen in der Bibel:
 
-- {{% bible val="Gottes Herrlichkeit im Himmel" link="https://www.bibleserver.com/SLT/Hesekiel1%2C22" %}} und beim {{% bible val="Auszug aus Ägypten" link="https://www.bibleserver.com/SLT/2.Mose24%2C10" %}},
-- das {{% bible val="gläserne Meer im Tempel Salomos" link="https://www.bibleserver.com/SLT/2.K%C3%B6nige25%2C13" %}} und
-- der {{% bible val="Durchzug durch das Rote Meer beim Auszug aus Ägypten" link="https://www.bibleserver.com/SLT/2.Mose15%2C8" %}}. (Das Meer ist der {{% bible val="Ort des Bösen" link="https://www.bibleserver.com/SLT/Psalm74%2C10-17" %}}, einschließlich {{% bible val="böser Menschen" link="https://www.bibleserver.com/SLT/Jesaja57%2C20" %}}, und das gläserne Meer ist ein Bild des erstarrten Bösen.)
+- {{% bible val="Gottes Herrlichkeit im Himmel" link="ezk:1,22" lang="SLT" %}} und beim {{% bible val="Auszug aus Ägypten" link="exo:24,10" lang="SLT" %}},
+- das {{% bible val="gläserne Meer im Tempel Salomos" link="2ki:25,13" lang="SLT" %}} und
+- der {{% bible val="Durchzug durch das Rote Meer beim Auszug aus Ägypten" link="exo:15,8" lang="SLT" %}}. (Das Meer ist der {{% bible val="Ort des Bösen" link="psa:74,10-17" lang="SLT" %}}, einschließlich {{% bible val="böser Menschen" link="isa:57,20" lang="SLT" %}}, und das gläserne Meer ist ein Bild des erstarrten Bösen.)
 
 All dies zeigt, dass Gott seinem Volk nahe ist und es beschützt. Auch wenn die Heiligen von Plagen heimgesucht werden, wird Gott sie bewahren.
 
@@ -209,11 +209,11 @@ Wenn wir die Reihen betrachten, sehen wir
 <a name="e545"></a>
 Damals war der Tempel (als Abbild des himmlischen Thronsaals) die Repräsentation der Welt. Gott steht im Mittelpunkt und alles um ihn herum findet seinen Platz im Leben durch die Beziehung zu ihm.
 
-Es gibt auch die Schöpfung, die durch {{% bible val="vier Lebewesen" link="https://www.bibleserver.com/SLT/Offenbarung4%2C7" %}} dargestellt wird, besonders in {{% bible val="Hesekiel" link="https://www.bibleserver.com/SLT/Hesekiel1%2C5-21" %}}
+Es gibt auch die Schöpfung, die durch {{% bible val="vier Lebewesen" link="rev:4,7" lang="SLT" %}} dargestellt wird, besonders in {{% bible val="Hesekiel" link="ezk:1,5-21" lang="SLT" %}}
 
 - der Löwe als Herrscher der Landtiere
 - der Ochse als das stärkste der Nutztiere
 - der Mensch als Herr der Schöpfung
 - Adler als Herrscher der Lüfte
 
-Dazu kommen die {{% bible val="24 Ältesten" link="https://www.bibleserver.com/SLT/Offenbarung4%2C4" %}}, die die {{% bible val="24 Priesterordnungen" link="https://www.bibleserver.com/SLT/1.Chronik24%2C3-19" %}}, die {{% bible val="24 levitischen Torwächter" link="https://www.bibleserver.com/SLT/1.Chronik26%2C17-19" %}} und die {{% bible val="24 von David eingeführten ständigen Anbeter" link="https://www.bibleserver.com/SLT/1.Chronik25%2C6-31" %}} widerspiegeln, aber auch die 12 Stämme Israels und die 12 Apostel als Fundament der Kirche. Das bedeutet, dass Israel und die Gemeinde trotz aller Konflikte in ihrer Zusammengehörigkeit zu verstehen sind. Die Gemeinde wird als anbetende Gemeinde definiert.
+Dazu kommen die {{% bible val="24 Ältesten" link="rev:4,4" lang="SLT" %}}, die die {{% bible val="24 Priesterordnungen" link="1ch:24,3-19" lang="SLT" %}}, die {{% bible val="24 levitischen Torwächter" link="1ch:26,17-19" lang="SLT" %}} und die {{% bible val="24 von David eingeführten ständigen Anbeter" link="1ch:25,6-31" lang="SLT" %}} widerspiegeln, aber auch die 12 Stämme Israels und die 12 Apostel als Fundament der Kirche. Das bedeutet, dass Israel und die Gemeinde trotz aller Konflikte in ihrer Zusammengehörigkeit zu verstehen sind. Die Gemeinde wird als anbetende Gemeinde definiert.
