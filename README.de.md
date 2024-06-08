@@ -6,7 +6,7 @@
 Die Webseite → [https://revelation-today.net](https://revelation-today.github.io/revelation-today/)
 </div>
 
-Dies basiert auf dem Hugo-Framework unter Verwendung der [Hekstra-Vorlage] (https://imfing.github.io/hextra/).
+Dies basiert auf dem Hugo-Framework unter Verwendung der [Hekstra-Vorlage](https://imfing.github.io/hextra/).
 
 ## Mitarbeit
 
