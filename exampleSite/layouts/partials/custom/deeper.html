@@ -13,7 +13,7 @@
         {{- $name := .Title -}}
         {{- range $deeper -}}
           {{- if strings.Contains $relPermalink .link -}}
-              {{ partial "shortcodes/card" (dict "title" $name "link" .link "icon" "chevron-down") }}
+              {{ partial "shortcodes/card" (dict "title" $name "link" $relPermalink "icon" "chevron-down") }}
           {{- end -}}
         {{- end -}}
       {{- end -}}
