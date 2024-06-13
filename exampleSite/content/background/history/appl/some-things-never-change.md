@@ -32,7 +32,7 @@ But for Christians there was also another problem:
 - All their allegiance and worship is to Jesus.
 - The Roman peace was available only to the few who benefited from it, and it was bought with military force and subjugation.
 
-### Jews as enemies
+### The animosity with the Jews
 
 <a name="c591"></a>
 The Jews, who were supposed to be a core part of the church (not all of Israel accepted Jesus), became more and more enemies of the church as the Jews were blamed by the government for the misbehaving Christians who did not give allegiance and worship to the emperor and even encouraged others to do the same.
