@@ -1,19 +1,22 @@
 {{ define "main" }}
-{{- $readBefore := (T "readBefore") | default "Read Before"}}
-{{- $quick := (T "quick") | default "Quick"}}
-{{- $story := (T "story") | default "Story"}}
-{{- $explanation := (T "explanation") | default "Explanation"}}
-{{- $application := (T "application") | default "Application"}}
+{{- $readingTime := (T "readingtime") | default "Appr. reading time" -}}
+{{- $minutes := (T "minutes") | default "minutes" -}}
+{{- $readBefore := (T "readBefore") | default "Read Before" -}}
+{{- $quick := (T "quick") | default "Quick" -}}
+{{- $story := (T "story") | default "Story" -}}
+{{- $explanation := (T "explanation") | default "Explanation" -}}
+{{- $application := (T "application") | default "Application" -}}
 {{- partial "custom/bible" (dict "lang" .Language.Lang) -}}
 
   <div class='hx-mx-auto hx-flex {{ partial "utils/page-width" . }}'>
-    {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" false "displayPlaceholder" true "params" .Params "regPages" .Site.RegularPages "pages" .Site.Pages) }}
     {{ partial "toc.html" . }}
     <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
         <br class="hx-mt-1.5 hx-text-sm" />
         {{- partial "custom/title.html" (dict "docType" .Params.docType "title" .Title) -}}
         <div class="hx-mb-16"></div>
+        <h2>{{ $readingTime }} {{ .ReadingTime }} {{ $minutes }}</h2>
         <div class="content">
           {{- partial "custom/read_before.html" (dict "params" .Params) -}}
           
