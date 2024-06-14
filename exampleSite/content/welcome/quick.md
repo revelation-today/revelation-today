@@ -1,8 +1,8 @@
 ---
-title: Tour through storyline
+title: Quick walk through
 weight: 8
 prev: /welcome
-next: /background/history/appl/some-things-never-change
+next: /quick/bible/creation/quick
 ---
 
 We will guide you through the storyline.

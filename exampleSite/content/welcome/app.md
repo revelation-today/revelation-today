@@ -2,7 +2,7 @@
 title: Tour through applications
 weight: 20
 prev: /welcome
-next: /background/history/appl/some-things-never-change
+next: /appl/background/history/some-things-never-change
 ---
 
 We will guide you through the applications.

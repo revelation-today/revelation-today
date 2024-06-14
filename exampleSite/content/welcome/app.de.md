@@ -2,7 +2,7 @@
 title: Tour durch die Anwendungen
 weight: 20
 prev: /welcome
-next: /background/history/appl/some-things-never-change
+next: /appl/background/history/some-things-never-change
 ---
 
 Wir werden dich durch die Anwendungen leiten.

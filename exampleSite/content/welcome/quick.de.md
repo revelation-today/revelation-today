@@ -2,7 +2,7 @@
 title: Tour durch das Buch
 weight: 8
 prev: /welcome
-next: /background/history/appl/some-things-never-change
+next: /quick/bible/creation/quick
 ---
 
 

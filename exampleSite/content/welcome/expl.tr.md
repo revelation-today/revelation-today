@@ -2,7 +2,7 @@
 title: Açıklamalar aracılığıyla tur
 weight: 40
 prev: /welcome
-next: /background/history/expl/pax-romana-key-to-understand-the-book-of-revelation
+next: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Açıklamalar boyunca size rehberlik edeceğiz.

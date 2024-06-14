@@ -2,7 +2,7 @@
 title: Uygulamalar arasında tur
 weight: 20
 prev: /welcome
-next: /background/history/appl/some-things-never-change
+next: /appl/background/history/some-things-never-change
 ---
 
 Uygulamalar boyunca size rehberlik edeceğiz.

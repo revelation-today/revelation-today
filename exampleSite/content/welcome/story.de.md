@@ -2,7 +2,7 @@
 title: Tour durch die Geschichte
 weight: 5
 prev: /welcome
-next: /bible/creation/story/story
+next: /story/bible/creation/story
 ---
 
 
