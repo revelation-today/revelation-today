@@ -22,7 +22,7 @@ Sie sind in Anlehnung an die vier Plagen zusammengestellt, die Gott schickt: wil
 Satan hat nichts zu bieten als leere Versprechungen. Also tut er das Einzige, was er tun kann: Er ahmt Christus nach, aber er ist nun entlarvt.
 
 Dieses Bild der Dreifaltigkeit (hier ist der vierte apokalyptische Reiter nur eine Zusammenfassung der anderen drei) setzt sich im Buch fort:
-- In {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} sehen wir auch eine {{% int_link val="Dreieinigkeit" link="/Inhalt/Bestien/schnell" %}} mit den beiden Bestien und Satan als dem Drachen im Hintergrund
+- In {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} sehen wir auch eine {{% int_link val="Dreieinigkeit" link="/quick/content/beasts/quick" %}} mit den beiden Bestien und Satan als dem Drachen im Hintergrund
 - Auch {{% bible val="Kapitel 17" link="rev:17" lang="de" %}} mit der {{% int_link val="Hure und dem Tier" link="/quick/content/harlot/quick" %}} (erstes Tier von Kapitel 13) spiegelt dieses Thema wider. Hier ist Satan noch mehr verborgen.
 
 ![](/images/trinity_de.jpg)
