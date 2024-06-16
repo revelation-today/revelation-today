@@ -75,7 +75,7 @@ But now there was this Jewish sect, the Christians, who not only disregarded the
 
 This was hard on the Christians, and the book of Revelation also addresses this issue.
 
-## The enmity of the Jews
+## The animosity of the Jews
 
 At the time of the early church, the Jewish religion was respected by the Roman Empire because of its long history, and the Jews could live their faith as long as they were loyal to the emperor.But now the Christians came and did not pay the respect (worship) to the emperor as expected. What is more, they are going around leading all the people to follow the Jew Jesus and not to pay respect to the emperor.Since the emperor saw the Christians as a Jewish sect, the Jews were under pressure. This led the Jews to accuse the Christians to the Romans to make sure the emperor understood that the Jews were not on their side.
 
