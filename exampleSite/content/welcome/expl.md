@@ -3,6 +3,7 @@ title: Tour through explanations
 weight: 40
 prev: /welcome
 next: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+docType: expl
 ---
 
 We will guide you through the explanations.

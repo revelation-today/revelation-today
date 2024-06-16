@@ -18,7 +18,7 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<img src="/images/UnderConstruction.jpg" width="200">
+<img src="https://revelation-today.github.io/revelation-today/images/UnderConstruction.jpg" width="200">
 
 <div class="hx-mt-6"></div>
 

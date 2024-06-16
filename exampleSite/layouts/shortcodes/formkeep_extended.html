@@ -1,9 +1,12 @@
+{{- $context := . -}}
+{{- $formId := .Get "formId" -}}
+{{- $lang := .Get "lang" -}}
+{{- $button_name := (T "submit") | default "Submit" -}}
+
 <!-- more info at https://formkeep.com/guides/contact-form-hugo -->
-{{ $id := default "exampletoken" (.Get 0) }}{{ $button_name := default "Submit" (.Get 1) }}{{ $redirect := .Get 2 }}
-<form accept-charset="UTF-8" action="https://formkeep.com/f/{{ $id }}" method="POST">
+<form accept-charset="UTF-8" action="https://formkeep.com/f/{{ $formId }}" method="POST">
   <input type="hidden" name="utf8" value="✓">
-  {{ if $redirect }}<input type="hidden" name="_redirect_url" value="{{ $redirect }}"> {{ end }}
-  <input type="email"  name="email" placeholder="name@example.com">
+  <input type="hidden" name="_redirect_url" value="https://revelation-today.github.io/revelation-today/{{- $lang -}}/thanks">
   {{.Inner}}
   <button type="submit">{{ $button_name }}</button>
 </form>

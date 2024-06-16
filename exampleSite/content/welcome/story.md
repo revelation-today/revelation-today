@@ -3,6 +3,7 @@ title: Tour through story
 weight: 5
 prev: /welcome
 next: /story/bible/creation/story
+docType: story
 ---
 
 We will guide you through the story of the book.

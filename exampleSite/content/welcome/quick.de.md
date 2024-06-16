@@ -3,6 +3,7 @@ title: Tour durch das Buch
 weight: 8
 prev: /welcome
 next: /quick/bible/creation/quick
+docType: quick
 ---
 
 

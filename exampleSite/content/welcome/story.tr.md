@@ -3,6 +3,7 @@ title: Hikaye boyunca tur
 weight: 5
 prev: /welcome
 next: /story/bible/creation/story
+docType: story
 ---
 
 Kitabın hikayesi boyunca size rehberlik edeceğiz.
