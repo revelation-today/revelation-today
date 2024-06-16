@@ -67,10 +67,3 @@ Ancak önemli bir ayrıntı vardır: İsa yaklaşmakta olan kiliseden bahsederke
 
 İsa tekrar geri döndüğünde, amaç tüm ulusların kurtulması ve herkesin Tanrı’yla ilişki kurmasıdır — asıl amaç — ve tabii ki zulüm sona erecektir.
 
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}
-
-## Daha derine inmek
-
-<a name="4ac9"></a>
-- {{% int_link val="İsrail" link="/expl/background/israel/who-is-israel" %}}
-

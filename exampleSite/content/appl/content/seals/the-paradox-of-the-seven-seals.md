@@ -7,7 +7,7 @@ deeper:
     - name: A real hero
       link: /topics/hero/short/a-real-hero
     - name: Who rules the world?
-      link: /topics/hero/short/who-rules-the-world
+      link: /appl/topics/hero/who-rules-the-world
     - name: The book with the seven seals
       link:  /expl/content/worship/the-book-with-the-seven-seals
     - name: The mystery of the four horsemen

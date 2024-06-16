@@ -4,7 +4,7 @@ weight: 2
 prev: /expl/topics/others/dispensionalism-a-little-history
 next: /expl/topics/others/the-rapture
 docType: expl
-appl: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
+appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 sources: 
     - pages: 173-186
       ref: rossing
@@ -62,7 +62,7 @@ Bu yaklaşımın çeşitli kusurları vardır:
 ## Üçüncü tapınak
 
 <a name="1e67"></a>
-Teori Kudüs’te yeni bir tapınak inşa edileceğinden bahseder ki bu da {{% bible val="tapınağın Vahiy’de Yahudi olmayanlara verilmesine dayanır" link="rev:11,1-2" lang="tr" %}}. Şu anda bina olarak bir tapınak mevcut olmadığından, inşa edilmesi gerekir. {{% int_link val="Bu yorum, tapınağın bir bina değil" link="/expl/bible/keyword/the-temple-and-the-presence-of-god" %}}, Tanrı’nın varlığının bir tasviri olduğunu dikkate almaz.
+Teori Kudüs’te yeni bir tapınak inşa edileceğinden bahseder ki bu da {{% bible val="tapınağın Vahiy’de Yahudi olmayanlara verilmesine dayanır" link="rev:11,1-2" lang="tr" %}}. Şu anda bina olarak bir tapınak mevcut olmadığından, inşa edilmesi gerekir. {{% int_link val="Bu yorum, tapınağın bir bina değil" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}, Tanrı’nın varlığının bir tasviri olduğunu dikkate almaz.
 
 Bu nedenle yeni bir tapınak binasının inşa edileceğine dair bir ifade vardır.
 

@@ -39,12 +39,3 @@ Peki Büyük Sıkıntı gelmiyorsa, Kıyamet ne olacak? Kutsal Kitap’ta Kıyam
 
 Hıristiyanların umudu, sıkıntılarımızdan kurtulmamız değil, sıkıntılarımızın bu dünyada bir fark yaratması olmalıdır.
 
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}
-
-## Daha derine inmek
-
-<a name="113f"></a>
-- {{% int_link val="İsa’nın hikayesi" link="/expl/content/jesus/a-different-christmas-story" %}}
-- {{% int_link val="Büyük Sıkıntı" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
-- {{% int_link val="Kıyamet" link="/expl/topics/others/the-rapture" %}}
-

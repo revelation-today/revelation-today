@@ -1,8 +1,8 @@
 ---
 title: "Mısır’dan Çıkıştan Önceki Hikaye"
 weight: 10
-base: /quick/bible/exodus/quick
-story: /story/bible/exodus/story
+base: /quick/bible/creation/quick
+story: /story/bible/creation/story
 prev: /expl/bible/creation/the-creation
 next: /expl/bible/exodus/the-birth-of-moses
 docType: expl

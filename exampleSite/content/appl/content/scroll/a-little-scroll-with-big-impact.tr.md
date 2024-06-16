@@ -46,5 +46,3 @@ Bu kilisenin tanıklığıdır. Tanıklıktan kastım iyi bir yaşam tarzı değ
 - Bu dünyanın güçleri sizi bunaltıyor mu yoksa haberlerde bildirilenler ve dünyada olup bitenler ne olursa olsun Tanrı’ya güveniyor musunuz?
 - Hayatınızda daha fazlası olduğunu ve öne çıkma zamanınızın geldiğini düşünüyor musunuz?
 - Hayatınızda bir çağrı var ama emin değil misiniz ve bunun için gerçekten hiç gitmediniz mi?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

@@ -52,5 +52,3 @@ Bütün bölüm ulus ve kilisenin ulusları İsa’ya yönlendirmek için göste
 - İsa’ya her zaman sadık olmak ne anlama gelir?
 - Yaşamınızda söyleyeceğiniz Musa ve İsa’nın şarkısı ne olurdu?
 - Bütün ulusların kurtulmadığının farkında mısınız? Bu sizin için ne ifade ediyor?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

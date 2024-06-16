@@ -7,7 +7,7 @@ deeper:
     - name: Kitap nasıl başlıyor
       link:  /expl/content/letters/setting-the-foundation
     - name: İsa’nın vizyonu
-      link:  /expl/content/letters/the-vision
+      link:  /expl/content/vision/the-vision
     - name: Kiliselerin melekleri
       link:  /expl/content/letters/the-angel-of-the-churches
     - name: Kiliseler için mektup
@@ -83,5 +83,3 @@ Zorlukları da güçlü yanları gibi bireyseldir, bu nedenle bazı kiliselerin 
 - Sevgi gerçek değil: Asıl çağrılarının izini kaybettiler, belki de tüm iyi şeylere kendilerini kaptırdılar ve tüm bunların nedenini unuttular.
 - Kötü liderlik ve aldatma: Önderlik yanlış öğretime izin verdi, hatta bunun kaynağı oldu. Bunun tüm kilise üzerinde yıkıcı bir etkisi oldu.
 - Yanlış öz değerlendirme: Övgü almayan Laodikya kilisesi büyük olasılıkla kendini çok beğenen bir kiliseydi. Sardes de kendi başlarının çaresine bakabileceklerini düşünüyordu. Bu, yıkıcı olan çok kötü bir yanılgıydı.
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

@@ -78,7 +78,7 @@ Das Buch schließt mit einigen Mahnungen, die den Leser ermahnen, das Ganze erns
 - Kap 1: {{% int_link val="Die Herausforderungen der Gemeinde" link="/expl/content/letters/the-angel-of-the-churches" %}}
 - Kap 2–3: {{% int_link val="Die Sendschreiben" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
 - Kap 4: {{% int_link val="Anbetung im Thronraum" link="/expl/content/worship/worship-in-the-throne-room" %}}
-- Kap 5–6: {{% int_link val="Die Siegel" link="/expl/content/seals/the-book-with-the-seven-seals" %}} und {{% int_link val="die vier apokalyptischen Reiter" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
+- Kap 5–6: {{% int_link val="Die Siegel" link="/expl/content/worship/the-book-with-the-seven-seals" %}} und {{% int_link val="die vier apokalyptischen Reiter" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
 - Kap 7: {{% int_link val="Die 144 000" link="/expl/content/army/the-144000" %}}
 - Kap 8–9: {{% int_link val="Die Posaunen" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
 - Kap 10: {{% int_link val="Das kleine Büchlein" link="/expl/content/scroll/the-little-scroll" %}}

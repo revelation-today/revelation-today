@@ -12,7 +12,7 @@ sources:
     - pages: 108–112
       ref: aune_rev
 prev: /expl/content/vision/the-vision
-next: /expl/content/letters/the-letters-to-the-churches
+next: /expl/content/letters/the-letters-to-the-seven-churches
 docType: expl
 appl: /appl/content/letters/the-challenges
 ---

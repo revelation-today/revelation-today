@@ -38,7 +38,7 @@ Buradan tüm mühürler, borazanlar ve kaseler başlayacak, her biri taht odası
 ## Mühürler
 
 <a name="e9dc"></a>
-İlk sıra {{% int_link val="mühürlerdir" link="/expl/content/seals/the-book-with-the-seven-seals" %}}. Bunlar İsa’nın çarmıhta yaptıklarının ve sonuçlarının bir ifadesidir: şeytanı ifşa etmek ve dünyayı yargılamak (şeytanla ittifakları konusunda) ama aynı zamanda azizlerin dualarını da dikkate alır.
+İlk sıra {{% int_link val="mühürlerdir" link="/expl/content/worship/the-book-with-the-seven-seals" %}}. Bunlar İsa’nın çarmıhta yaptıklarının ve sonuçlarının bir ifadesidir: şeytanı ifşa etmek ve dünyayı yargılamak (şeytanla ittifakları konusunda) ama aynı zamanda azizlerin dualarını da dikkate alır.
 
 Bölüm 7'de Tanrı’nın {{% int_link val="ordusunu toplamasıyla" link="/expl/content/army/the-144000" %}} kesintiye uğrar.
 
@@ -75,10 +75,10 @@ Kitap, okuyucuya bu konunun ne kadar ciddi olduğunu hatırlatmak için bazı so
 
 <a name="eafd"></a>
 - {{% int_link val="İbrani edebiyatı nasıl okunur" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}}
-- Bölüm 1: {{% int_link val="Kilise için zorlu görev" link="/expl/content/letters/the-vision" %}}
+- Bölüm 1: {{% int_link val="Kilise için zorlu görev" link="/expl/content/vision/the-vision" %}}
 - Bölüm 2–3: {{% int_link val="Kiliseler için mektuplar" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
 - Bölüm 4: {{% int_link val="Tahtta ibadet" link="/expl/content/worship/worship-in-the-throne-room" %}}
-- Bölüm 5–6: {{% int_link val="Mühürler" link="/expl/content/seals/the-book-with-the-seven-seals" %}} ve {{% int_link val="dört atlı" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
+- Bölüm 5–6: {{% int_link val="Mühürler" link="/expl/content/worship/the-book-with-the-seven-seals" %}} ve {{% int_link val="dört atlı" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
 - Bölüm 7: {{% int_link val="144 000" link="/expl/content/army/the-144000" %}}
 - Bölüm 8–9: {{% int_link val="Trompetler" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
 - Bölüm 10: {{% int_link val="Küçük parşömen" link="/expl/content/scroll/the-little-scroll" %}}

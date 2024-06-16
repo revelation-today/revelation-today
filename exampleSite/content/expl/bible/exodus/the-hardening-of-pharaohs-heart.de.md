@@ -1,8 +1,8 @@
 ---
 title: "Die Verhärtung des Herzens"
 weight: 30
-base: /quick/bible/exodus/quick
-story: /story/bible/exodus/story
+base: /quick/bible/creation/quick
+story: /story/bible/creation/story
 prev: /expl/bible/exodus/the-birth-of-moses
 next: /expl/bible/exodus/the-plagues-in-egypt
 docType: expl

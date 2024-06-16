@@ -2,8 +2,8 @@
 linkTitle: Arka plan
 title: Arka plan
 weight: 4
-prev: /gen
-next: /bible
+prev: /welcome/app
+next: /appl/content
 ---
 
 Çalışmamız için iyi bir temel olarak aşağıdaki konuları daha iyi anlamamız gerekmektedir:

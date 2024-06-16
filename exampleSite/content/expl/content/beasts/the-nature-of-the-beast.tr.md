@@ -97,7 +97,7 @@ Peki üçüncü bölüm nerede? Bölüm 13'te olduğu gibi arka planda kalıyor 
 ## Resmin gelişimi
 
 <a name="5eae"></a>
-Resmin gelişimine baktığımızda ilk atlı adamların içinde Şeytan’la karşılaşırız. Bu sahne, İsa’nın dünyaya kurtuluş getiren tomarı açmaya layık kişi {{% int_link val="olarak ilan edilmesinin hemen ardından gelir" link="/expl/content/seals/the-book-with-the-seven-seals" %}}. Şeytan bunun hemen ardından açığa çıkar. Çünkü ilk atlı adamlarda iddia ettiği şey budur.
+Resmin gelişimine baktığımızda ilk atlı adamların içinde Şeytan’la karşılaşırız. Bu sahne, İsa’nın dünyaya kurtuluş getiren tomarı açmaya layık kişi {{% int_link val="olarak ilan edilmesinin hemen ardından gelir" link="/expl/content/worship/the-book-with-the-seven-seals" %}}. Şeytan bunun hemen ardından açığa çıkar. Çünkü ilk atlı adamlarda iddia ettiği şey budur.
 
 Galip gelen kendisidir, ama sonunda her yerde yıkım ve ölümle sonuçlanır. İsa’nın getirdiğinin tam tersini getirdiği ortaya çıkmıştır. Ama bu nedir?
 

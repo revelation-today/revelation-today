@@ -25,7 +25,7 @@ deeper:
 prev: /appl/content/vision/vision
 next: /appl/content/worship/the-answer-to-all-questions
 docType: appl
-expl: /expl/content/vision/the-angel-of-the-churches
+expl: /expl/content/letters/the-angel-of-the-churches
 ---
 
 What do 2000 year old churches have to do with our situation today? Don’t we have very different challenges today? You would be surprised how little the world and the church have changed.

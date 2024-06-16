@@ -20,7 +20,7 @@ Vahiy cenneti farklı metaforlarla anlatır: {{% bible val="Yedinci bölümde" l
 
 {{% bible val="Ayrıca Yeni Yeruşalim Mesih’in Gelini olarak tanımlanarak" link="rev:21,2" lang="tr" %}} konuya daha da samimi bir boyut kazandırılmıştır.
 
-Ayrıca 21. bölümdeki dil, {{% int_link val="İsrail’in Tanrı’yla paydaşlık ettiği yer olan tapınakla çok ilgilidir" link="/expl/bible/keyword/the-temple-and-the-presence-of-god" %}}. Öte yandan tapınak Aden’in bir yansımasıdır. Sadece bu da değil, Yeni Yeruşalim’in şekli {{% bible val="bir küp" link="rev:21,16" lang="tr" %}} şeklindedir. {{% bible val="Eski Ahit’te bu şekle sahip olan tek nesne, Tanrı’nın yaşadığı yer olan Kutsalların Kutsalı’dır" link="2ch:3,8" lang="tr" %}}. Tanrı’nın varlığıyla öylesine yoğun bir şekilde dolu olan bu yere yılda bir kez sadece Baş Kâhin’in girmesine izin verilirdi.
+Ayrıca 21. bölümdeki dil, {{% int_link val="İsrail’in Tanrı’yla paydaşlık ettiği yer olan tapınakla çok ilgilidir" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}. Öte yandan tapınak Aden’in bir yansımasıdır. Sadece bu da değil, Yeni Yeruşalim’in şekli {{% bible val="bir küp" link="rev:21,16" lang="tr" %}} şeklindedir. {{% bible val="Eski Ahit’te bu şekle sahip olan tek nesne, Tanrı’nın yaşadığı yer olan Kutsalların Kutsalı’dır" link="2ch:3,8" lang="tr" %}}. Tanrı’nın varlığıyla öylesine yoğun bir şekilde dolu olan bu yere yılda bir kez sadece Baş Kâhin’in girmesine izin verilirdi.
 
 Bu yüzden Yeni Yeruşalim ya da cennet Tanrı’yla en yakın olunan yer olarak tanımlanır.
 

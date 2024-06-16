@@ -4,7 +4,7 @@ weight: 2
 prev: /expl/topics/others/dispensionalism-a-little-history
 next: /expl/topics/others/the-rapture
 docType: expl
-appl: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
+appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 sources: 
     - pages: 173-186
       ref: rossing
@@ -62,7 +62,7 @@ There are several flaws in this approach:
 ### The third temple
 
 <a name="3d3b"></a>
-The theory speaks of a new temple being built in Jerusalem, based on the {{% bible val="fact that the temple is given to the Gentiles in Revelation" link="rev:11,1-2" lang="en" %}}. Since there is no temple as a building right now existing, it must be built. This interpretation does not take into account that the temple is {{% int_link val="not necessarily a building" link="/expl/bible/keyword/the-temple-and-the-presence-of-god" %}} but a description of the presence of God.
+The theory speaks of a new temple being built in Jerusalem, based on the {{% bible val="fact that the temple is given to the Gentiles in Revelation" link="rev:11,1-2" lang="en" %}}. Since there is no temple as a building right now existing, it must be built. This interpretation does not take into account that the temple is {{% int_link val="not necessarily a building" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} but a description of the presence of God.
 
 Therefore, there is statement that a new temple building will be erected.
 

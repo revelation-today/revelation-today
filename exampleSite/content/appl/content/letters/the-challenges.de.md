@@ -25,7 +25,7 @@ deeper:
 prev: /appl/content/vision/vision
 next: /appl/content/worship/the-answer-to-all-questions
 docType: appl
-expl: /expl/content/letters/the-challenges
+expl: /expl/content/letters/the-angel-of-the-churches
 ---
 
 Was hat eine 2000 Jahre alte Gemeinde mit unserer heutigen Situation zu tun? Haben wir heute nicht ganz andere Herausforderungen? Du wirst überrascht sein, wie wenig sich die Welt für die Gemeinde verändert hat.

@@ -15,7 +15,7 @@ When Jesus died on the cross, the devil was defeated. So we were told. But it se
 - Jesus’ teachings looked like unattainable ideals.
 - Evil empires still rule the world, contrary to {{% int_link val="prophecy" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}.
 - The world has not become more Christian, but Christians have become more worldly.
-- {{% int_link val="The church often doesn’t look like the solution, but rather the problem." link="/appl/topics/church/what-is-wrong-with-the-church" %}}
+- The church often doesn’t look like the solution, but rather the problem.
 
 So what is going on? Has something gone terribly wrong? Well, we need to take a closer look.
 

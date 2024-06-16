@@ -52,5 +52,3 @@ Ve bu da kaselerin ne hakkında olduğu
 - Canavarın peşinden gittiğiniz, Tanrı’nın rehberliğini reddettiğiniz ya da kalbinizi katılaştırdığınız konular nelerdi?
 - Bu dünyadaki somut durumların daha iyiye doğru nasıl değişebileceğine dair umutlarınız nelerdir? Bunların Tanrı’nın yolları olduğunu düşünüyor musunuz?
 - Aşağıda Armagedon hakkında bir çalışma yapın. Bu bugün ne olabilir?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

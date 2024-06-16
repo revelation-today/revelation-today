@@ -3,7 +3,7 @@ title: "The letters to the churches"
 weight: 1
 story: /story/content/letters/story
 appl: /appl/content/letters/the-challenges
-expl: /expl/content/vision/the-angel-of-the-churches
+expl: /expl/content/letters/the-angel-of-the-churches
 next: /quick/content/worship/quick
 docType: quick
 ---

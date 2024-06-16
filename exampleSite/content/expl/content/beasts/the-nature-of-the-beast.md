@@ -97,7 +97,7 @@ So where is the third part? Well he stays in the background as in chapter 13 and
 ## The development of the picture
 
 <a name="6ef8"></a>
-Looking at the development of the image, we see Satan in the first horsemen. This scene comes right after Jesus is identified as the one worthy to open the scroll {{% int_link val="that brings salvation to the world" link="/expl/content/seals/the-book-with-the-seven-seals" %}}. Satan is exposed right after that. For this is what he claims in the first horsemen.
+Looking at the development of the image, we see Satan in the first horsemen. This scene comes right after Jesus is identified as the one worthy to open the scroll {{% int_link val="that brings salvation to the world" link="/expl/content/worship/the-book-with-the-seven-seals" %}}. Satan is exposed right after that. For this is what he claims in the first horsemen.
 
 He is the one who is victorious, but he ends up in destruction and death everywhere. He was exposed for bringing the opposite of what Jesus brings. But what is that?
 

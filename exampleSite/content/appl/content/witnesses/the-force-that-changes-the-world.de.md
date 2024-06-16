@@ -5,7 +5,7 @@ base: /quick/content/witnesses/quick
 story: /story/content/witnesses/story
 deeper:
     - name: Der Tempel
-      link:  /expl/bible/keyword/the-temple-and-the-presence-of-god
+      link:  /expl/bible/creation/the-temple-and-the-presence-of-god
     - name: Die Kraft des Zeugnisses
       link: /topics/power/short/the-power-of-testimony
     - name: Die beiden Zeugen

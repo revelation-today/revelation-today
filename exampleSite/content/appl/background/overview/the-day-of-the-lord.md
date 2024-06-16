@@ -66,9 +66,3 @@ What is the role of the Church? The church is the new Israel (beginning with the
 But there is an important detail: When Jesus talked about the coming Church, He said that the Church would be {{% bible val="persecuted" link="jhn:15,20" lang="en" %}}, something that Israel did not experience (judgment came only when they disobeyed).
 
 When Jesus returns, the intent is for all nations to be saved and all to have a relationship with God-the original purpose-and of course the persecution will end.
-
-## Digging deeper
-
-<a name="06f1"></a>
-{{% int_link val="Israel" link="/expl/background/israel/who-is-israel" %}}
-

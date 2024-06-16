@@ -4,7 +4,7 @@ weight: 2
 prev: /expl/topics/others/dispensionalism-a-little-history
 next: /expl/topics/others/the-rapture
 docType: expl
-appl: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
+appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 sources: 
     - pages: 173-186
       ref: rossing
@@ -60,7 +60,7 @@ Mit diesem Ansatz sind einige Probleme verbunden:
 ## Der dritte Tempel
 
 <a name="6193"></a>
-Die Theorie spricht von einen dritten Tempel, der in Jerusalem gebaut werden soll, basierend auf der {{% bible val="Bibelstelle, dass der Außenbezirk des Tempels den Heiden gegeben wird" link="rev:11,1-2" lang="de" %}}. Da es momentan keinen Tempel gibt, muss er gebaut werden. Diese Interpretation beachtet nicht, dass der{{% int_link val=" Tempel nicht notwendigerweise ein Gebäude ist, sondern die Beschreibung der Gegenwart Gottes" link="/expl/bible/keyword/the-temple-and-the-presence-of-god" %}}.
+Die Theorie spricht von einen dritten Tempel, der in Jerusalem gebaut werden soll, basierend auf der {{% bible val="Bibelstelle, dass der Außenbezirk des Tempels den Heiden gegeben wird" link="rev:11,1-2" lang="de" %}}. Da es momentan keinen Tempel gibt, muss er gebaut werden. Diese Interpretation beachtet nicht, dass der{{% int_link val=" Tempel nicht notwendigerweise ein Gebäude ist, sondern die Beschreibung der Gegenwart Gottes" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}.
 
 ## Die Trübsal
 

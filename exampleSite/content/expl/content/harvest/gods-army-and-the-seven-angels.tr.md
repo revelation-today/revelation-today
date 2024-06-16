@@ -21,7 +21,7 @@ Vahiy Kitabı’ndaki 14. bölüm Kutsal Kitap’taki en şaşırtıcı bölüml
 ## 144.000
 
 <a name="181d"></a>
-Bölüm, tomarı almaya layık görülen {{% int_link val="kuzunun ayakta durduğu 5. bölümden" link="/expl/content/seals/the-book-with-the-seven-seals" %}} devam eder ve {{% int_link val="bunu 144.000 kişiden bahsedilen 7. bölümle birleştirir" link="/expl/content/army/the-144000" %}}. Şimdi tahtın önünde birleşmişlerdir (1. ayette Siyon Dağı’ndan söz edilmesi göksel Yeruşalim’e bir gönderme olabilir).
+Bölüm, tomarı almaya layık görülen {{% int_link val="kuzunun ayakta durduğu 5. bölümden" link="/expl/content/worship/the-book-with-the-seven-seals" %}} devam eder ve {{% int_link val="bunu 144.000 kişiden bahsedilen 7. bölümle birleştirir" link="/expl/content/army/the-144000" %}}. Şimdi tahtın önünde birleşmişlerdir (1. ayette Siyon Dağı’ndan söz edilmesi göksel Yeruşalim’e bir gönderme olabilir).
 
 144.000 kişinin alınlarında kimliklerini ve aidiyetlerini (Tanrı’ya ait olduklarını) tanımlayan kuzu ve Tanrı’nın adı vardır, bu nedenle 7. bölümdeki mühürlemenin farklı bir yansımasıdır.
 

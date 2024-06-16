@@ -66,9 +66,3 @@ Aber welche Rolle spielt dabei die Gemeinde? Die Gemeinde ist nichts anderes als
 Es gibt noch einen wesentlichen Unterschied, den wir im nächsten Kapitel betrachten werden: Jesus sprach von {{% bible val="Verfolgung" link="jhn:15,20" lang="de" %}}, die über die Gemeinde kommt. Israel hatte nur schwere Zeiten, wenn es sündigte.
 
 Wenn Jesus wiederkommt, werden alle Völker gerettet sein und alle werden eine Beziehung zu Gott haben, wie es der ursprüngliche Plan war — und dann wird auch die Verfolgung aufhören.
-
-## Zum Vertiefen
-
-<a name="6992"></a>
-{{% int_link val="Israel" link="/expl/background/israel/who-is-israel" %}}
-

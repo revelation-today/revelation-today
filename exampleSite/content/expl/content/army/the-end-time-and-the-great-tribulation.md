@@ -9,7 +9,7 @@ docType: expl
 appl: /appl/content/army/the-strange-army
 deeper:
     - link: /background/israel/expl/the-day-of-the-lord
-    - link: /topics/hero/short/who-rules-the-world
+    - link: /appl/topics/hero/who-rules-the-world
     - link: /background/israel/expl/jesus-and-the-covenant
     - link: /background/israel/expl/the-second-exodus
     - link: /bible/daniel/expl/the-son-of-man-and-the-remnant

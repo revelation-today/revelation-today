@@ -7,7 +7,7 @@ deeper:
     - name: How the book starts
       link:  /expl/content/letters/setting-the-foundation
     - name: The vision of Jesus
-      link:  /expl/content/letters/the-vision
+      link:  /expl/content/vision/the-vision
     - name: The angels of the churches
       link:  /expl/content/letters/the-angel-of-the-churches
     - name: The letter to the churches

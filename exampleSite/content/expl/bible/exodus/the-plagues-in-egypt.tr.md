@@ -1,10 +1,10 @@
 ---
 title: "Mısır’ın Başına Gelen Belalar"
 weight: 40
-base: /quick/bible/exodus/quick
-story: /story/bible/exodus/story
+base: /quick/bible/creation/quick
+story: /story/bible/creation/story
 prev: /expl/bible/exodus/the-hardening-of-pharaohs-heart
-next: /expl/bible/daniel/the-story-ob-balaam
+next: /expl/bible/keyword/the-story-of-balaam
 docType: expl
 deeper:
     - name: Her şey nasıl başladı

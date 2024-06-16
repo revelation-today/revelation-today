@@ -7,7 +7,7 @@ deeper:
     - name: Ein echter Held
       link: /topics/hero/short/a-real-hero
     - name: Wer regiert die Welt?
-      link: /topics/hero/short/who-rules-the-world
+      link: /appl/topics/hero/who-rules-the-world
     - name: Das Buch mit den sieben Siegeln
       link:  /expl/content/worship/the-book-with-the-seven-seals
     - name: Das Geheimnis der vier Reiter

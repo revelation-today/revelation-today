@@ -47,6 +47,3 @@ Bizler bir ordu olarak tanımlanırız — her zaman yaralanabileceklerinden ya 
 - Tanrı’nın ordusunun bir parçası olmak size nasıl hissettiriyor?
 - Sayılmak, kaybolmamak anlamına gelir. Bu sizin için ne anlama geliyor?
 - Tanrı’nın ordusu Büyük Sıkıntı’dan geliyor. Size meydan okunduğunda imanınıza ne olacak? Daha mı güçlü olacak yoksa parçalanacak mı? Sınandığınızda Tanrı’nın imanınızı güçlendirebileceğine inanıyor musunuz? İnancınız neye dayanıyor?
-- [Translated with DeepL](https://www.deepl.com/translator?utm_source=windows&amp;utm_medium=app&amp;utm_campaign=windows-share)
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

@@ -131,5 +131,3 @@ Yani Şeytan ve İsa gibi davrananlar arasındaki ayırt edici nokta güç ya da
 - Bugün insanlar canavara bağlılıklarını hangi yollarla (üstü kapalı bile olsa) gösteriyor?
 - Eğer itaat etmezseniz günümüz canavarlarının sonuçları nelerdir?
 - Nerede teslim olmaya zorlanıyorsunuz (çaresizlikten, inançtan, ayartılmaktan)?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

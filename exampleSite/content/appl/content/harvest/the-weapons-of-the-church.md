@@ -52,5 +52,3 @@ The whole chapter is about the nation and the church’s efforts to bring the na
 - What does it mean to always be faithful to Jesus?
 - What would be the song of Moses and Jesus that you would sing in your life?
 - Do you know that not all nations are saved? What does that mean to you?
-
-{{% int_link val="The biggest context" link="/appl/gen/index/the-book-of-revelation" %}}

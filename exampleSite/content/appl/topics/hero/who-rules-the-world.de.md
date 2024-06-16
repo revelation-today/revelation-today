@@ -15,7 +15,7 @@ Als Jesus am Kreuz starb, war Satan besiegt. Das wurde uns gesagt, aber es schei
 - Jesu Lehre klingt nach nicht erreichbaren Idealen.
 - Böse Reiche regieren immer noch trotz {{% int_link val="Prophetien" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}.
 - Die Welt ist nicht christlicher geworden, aber die Christen sind weltlicher geworden.
-- {{% int_link val="Die Gemeinde scheint oft nicht die Lösung, sondern Teil des Problems zu sein" link="/appl/topics/church/what-is-wrong-with-the-church" %}}
+- Die Gemeinde scheint oft nicht die Lösung, sondern Teil des Problems zu sein.
 
 Was ist also los? Ist etwas völlig schief gelaufen? Wir müssen genauer hinschauen.
 

@@ -5,7 +5,7 @@ base: /quick/content/witnesses/quick
 story: /story/content/witnesses/story
 deeper:
     - name: Tapınak
-      link:  /expl/bible/keyword/the-temple-and-the-presence-of-god
+      link:  /expl/bible/creation/the-temple-and-the-presence-of-god
     - name: Tanıklığın gücü
       link: /topics/power/short/the-power-of-testimony
     - name: İki tanık
@@ -65,5 +65,3 @@ Bu, Tanrı’nın tüm insanları zulümle öldüklerinde dirilteceği ve onlar�
 - İki tanık ile ilk kilisenin işleyişi arasında bir paralellik görebiliyor musunuz?
 - Sizin için kendi yaşamınızdan daha önemli olan nedir?
 - Sizce kilisenin dünyayı değiştirme potansiyeli var mı?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

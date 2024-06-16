@@ -97,7 +97,7 @@ Aber wo ist der dritte Teil? Er bleibt im Hintergrund wie in Kapitel 13 und mach
 ## Die Entwicklung des Bildes
 
 <a name="02d8"></a>
-Wenn wir uns die Entwicklung des Bildes Satans ansieht, sehen wir ihn zunächst im ersten Reiter. Diese Szene folgt unmittelbar auf die Erklärung Jesu, dass er würdig sei, das Buch zu öffnen und {{% int_link val="der Welt das Heil zu bringen" link="/expl/content/seals/the-book-with-the-seven-seals" %}}. Satan ist nun bloßgestellt, denn Jesus hat den Platz eingenommen, den er haben wollte.
+Wenn wir uns die Entwicklung des Bildes Satans ansieht, sehen wir ihn zunächst im ersten Reiter. Diese Szene folgt unmittelbar auf die Erklärung Jesu, dass er würdig sei, das Buch zu öffnen und {{% int_link val="der Welt das Heil zu bringen" link="/expl/content/worship/the-book-with-the-seven-seals" %}}. Satan ist nun bloßgestellt, denn Jesus hat den Platz eingenommen, den er haben wollte.
 
 Er erscheint siegreich, aber es wird immer deutlicher, dass er nur Zerstörung hinterlässt. Er bringt das Gegenteil von dem, was Jesus bringt. Aber was ist das?
 

@@ -52,5 +52,3 @@ Bakalım nasıl çalışacak.
 - İbadeti zamanımızın sorunlarına bir cevap olarak mı yoksa yapmamız gereken bir şey olarak mı görüyorsunuz?
 - İbadet sizi nasıl değiştirdi?
 - Siz nasıl ibadet ediyorsunuz? İbadet günlük yaşamınızda nasıl görünüyor?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

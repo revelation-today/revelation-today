@@ -7,7 +7,7 @@ deeper:
     - name: Der Auftakt des Buches
       link:  /expl/content/letters/setting-the-foundation
     - name: Die Vision des Menschensohnes
-      link:  /expl/content/letters/the-vision
+      link:  /expl/content/vision/the-vision
     - name: Die Engel der Gemeinden
       link:  /expl/content/letters/the-angel-of-the-churches
     - name: Die Sendschreiben

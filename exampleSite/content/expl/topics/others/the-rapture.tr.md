@@ -4,7 +4,7 @@ weight: 3
 prev: /expl/topics/others/dispensionalism-and-its-critic
 next: /expl/topics/others/judgment-in-the-book-of-revelation
 docType: expl
-appl: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
+appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 sources: 
     - pages: 173-186
       ref: rossing

@@ -51,5 +51,3 @@ Bu bölüm mesajın özünün kısa bir özetini vermektedir: Kilise, tanıklık
 - İyi yönetim somut olarak nasıl görünüyor?
 - Mesih’e inandığınız için (bilinçaltında bile olsa) kral muamelesi gördüğünüzü nerede gördünüz?
 - Dayanmak için size ne umut veriyor?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

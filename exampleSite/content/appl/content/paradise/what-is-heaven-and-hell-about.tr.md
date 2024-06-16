@@ -50,5 +50,3 @@ Tüm bunları duyduktan sonra iyi karar verin. Ne yapacaksınız? Şimdi nasıl 
 - Diğer faydaların hiçbiri olmasa bile (sürekli acı, zulüm, hastalık, …) sonsuzluğu Tanrı ile geçirmek ister miydiniz? Eğer istemiyorsanız, neden?
 - Tüm sıkıntılarınız ortadan kalkacak olsa bile katlanamadığınız ya da umursamadığınız bir kişiyle sonsuza kadar yaşar mıydınız?
 - Bu cennet vizyonu şu anda dünyadaki yaşamınızı nasıl şekillendiriyor?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

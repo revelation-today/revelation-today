@@ -15,7 +15,7 @@ Vahiy Kitabı bize dünyayı kimin yönettiğine dair çok karışık bir resim 
 - İsa’nın öğretisi ulaşılamaz idealler gibi görünüyordu
 - kötü i̇mparatorluklar {{% int_link val="kehanetlere" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}} rağmen hala dünyayi yöneti̇yor
 - Dünya daha Hıristiyan olmadı, ama Hıristiyanlar daha dünyevi oldu
-- {{% int_link val="kilise çoğu zaman çözüm gibi değil, sorun gibi görünür" link="/appl/topics/church/what-is-wrong-with-the-church" %}}
+- Kilise çoğu zaman çözüm gibi değil, sorun gibi görünür.
 
 Peki neler oluyor? Bir şeyler tamamen yanlış mı gitti? Daha iyi bakmamız gerekiyor.
 

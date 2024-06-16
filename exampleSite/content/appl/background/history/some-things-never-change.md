@@ -6,7 +6,7 @@ deeper:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
     - name: Israel and the church
       link:  /expl/background/israel/israel-and-the-church
-prev: /gen/overview
+prev: /welcome/app
 next: /appl/background/literature/what-are-we-reading
 docType: appl
 expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation

@@ -19,11 +19,6 @@ sources:
 
 Worship in the throne room is the answer to the letters of the churches. Why and how is this the introduction to all the plagues that follow?
 
-## You may want to read before
-
-<a name="a8e2"></a>
-- {{% int_link val="The letter to the churches" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
-
 ## The background and context
 
 <a name="3c72"></a>

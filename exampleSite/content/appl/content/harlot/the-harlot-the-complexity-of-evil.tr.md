@@ -64,5 +64,3 @@ Ağzından çıkan bir kılıçla gelir ve herkesi tek başına yargılar (melek
 - Kendinizi ne zaman Babil’de görüyorsunuz? Onu nasıl terk edersiniz?
 - Günümüzün hangi zihniyeti fahişenin zihniyetini yansıtıyor?
 - Babil düştüğünde hangi şeyler için yas tutarsınız?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

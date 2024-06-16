@@ -21,7 +21,7 @@ Chapter 14 of the book of Revelation is one of the most puzzling chapters in the
 ## The 144.000
 
 <a name="6c9d"></a>
-The chapter picks up the {{% int_link val="Lamb standing from chapter 5" link="/expl/content/seals/the-book-with-the-seven-seals" %}}, where it was worthy to receive the scroll and combines it with {{% int_link val="chapter 7, where the 144,000 are mentioned" link="/expl/content/army/the-144000" %}}. Now they are gathered before the throne (the mention of Mount Zion in verse 1 could be a reference to the heavenly Jerusalem).
+The chapter picks up the {{% int_link val="Lamb standing from chapter 5" link="/expl/content/worship/the-book-with-the-seven-seals" %}}, where it was worthy to receive the scroll and combines it with {{% int_link val="chapter 7, where the 144,000 are mentioned" link="/expl/content/army/the-144000" %}}. Now they are gathered before the throne (the mention of Mount Zion in verse 1 could be a reference to the heavenly Jerusalem).
 
 The 144,000 have the name of the Lamb and of God on their foreheads, which defines their identity and their belonging (belonging to God), so it is a different reflection of the sealing in chapter 7.
 

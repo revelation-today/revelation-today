@@ -4,7 +4,7 @@ weight: 1
 prev: /expl/content/paradise/heaven-and-hell
 next: /expl/topics/others/dispensionalism-and-its-critic
 docType: expl
-appl: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
+appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 deeper:
     - name: Dispensionalizm Üzerine Eleştiri
       link:  /expl/topics/others/dispensionalism-and-its-critic

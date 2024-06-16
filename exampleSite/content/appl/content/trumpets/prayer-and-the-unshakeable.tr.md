@@ -82,5 +82,3 @@ Diğer yandan: Zor zamanlar bir kalbi değiştirmek için yeterli değildir. Dah
 - Yanlış güvenceleriniz elinizden alınırsa ne olur? Nedir bunlar? Onlardan vazgeçmeye istekli misiniz?
 - Yaşamınızdaki sarsılmaz güvenceler nelerdir?
 - Hangi güvencenizden vazgeçemezsiniz? Tanrı’yla ilişkinizi kaybettiğinizde de vazgeçmez miydiniz?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

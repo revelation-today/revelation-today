@@ -7,7 +7,7 @@ deeper:
     - name: Gerçek bir kahraman
       link: /topics/hero/short/a-real-hero
     - name: Dünyayı kim yönetiyor?
-      link: /topics/hero/short/who-rules-the-world
+      link: /appl/topics/hero/who-rules-the-world
     - name: Yedi mühürlü kitap
       link:  /expl/content/worship/the-book-with-the-seven-seals
     - name: Dört atlının gizemi
@@ -60,5 +60,3 @@ Beşinci mühürde kilisenin bunlara göre nasıl hareket etmesi gerektiğini g�
 Altıncı mühür tam bir dramatiktir. İsa ortaya çıkar ve her şeyi sona erdirir. İnsanlar kuzunun gazabından saklanmak isterler. İsa gerçekten öfkeli olduğu ve herkesin korkması gerektiği izlenimini verir. Bunu çok daha fazla detaylandırmalıyız, ama kısa kelimelerle, çünkü bu tüm kitap boyunca gördüğünüz bir modeldir: Şeytan tüm dünyayı Mesih olarak kandırıyor gibi görünür, insanlar Tanrı’nın kötü olduğunu düşünür, ancak kilisenin tanıklığı farkı yaratan önemli unsurdur.
 
 Yani her şey kilisenin iyi tanıklığına bağlıdır.
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

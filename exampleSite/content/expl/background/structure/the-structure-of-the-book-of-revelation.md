@@ -38,7 +38,7 @@ Each of the three series has an interruption with a deepening (seals and trumpet
 ## The Seals
 
 <a name="8ec8"></a>
-The first series are the {{% int_link val="seals" link="/expl/content/seals/the-book-with-the-seven-seals" %}}. They are an expression of what Jesus did on the cross and it’s consequences: exposing the devil and judging the world (regarding its alliance with the devil,) but also takes into account the prayers of the saints.
+The first series are the {{% int_link val="seals" link="/expl/content/worship/the-book-with-the-seven-seals" %}}. They are an expression of what Jesus did on the cross and it’s consequences: exposing the devil and judging the world (regarding its alliance with the devil,) but also takes into account the prayers of the saints.
 
 They are interrupted in chapter 7 by God {{% int_link val="gathering His army" link="/expl/content/army/the-144000" %}}.
 
@@ -78,7 +78,7 @@ The book now closes with some final warnings to remind the reader how serious th
 - Ch 1: {{% int_link val="The challenge for the church" link="/expl/content/letters/the-angel-of-the-churches" %}}
 - Ch 2–3: {{% int_link val="The letters to the churches" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
 - Ch 4: {{% int_link val="Worship in the throne" link="/expl/content/worship/worship-in-the-throne-room" %}}
-- Ch 5–6: {{% int_link val="The seals" link="/expl/content/seals/the-book-with-the-seven-seals" %}} and {{% int_link val="the four horsemen" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
+- Ch 5–6: {{% int_link val="The seals" link="/expl/content/worship/the-book-with-the-seven-seals" %}} and {{% int_link val="the four horsemen" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
 - Ch 7: {{% int_link val="The 144 000" link="/expl/content/army/the-144000" %}}
 - Ch 8–9: {{% int_link val="The trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
 - Ch 10: {{% int_link val="The little scroll" link="/expl/content/scroll/the-little-scroll" %}}

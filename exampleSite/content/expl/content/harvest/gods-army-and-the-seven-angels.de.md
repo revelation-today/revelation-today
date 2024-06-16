@@ -21,7 +21,7 @@ Kapitel 14 der Offenbarung ist eines der verwirrendsten Kapitel und scheint am f
 ## Die 144.000
 
 <a name="67e8"></a>
-Dieses Kapitel nimmt den Gedanken des {{% int_link val="Lammes aus Kapitel 5" link="/expl/content/seals/the-book-with-the-seven-seals" %}}, das würdig war, das Buch zu öffnen, wieder auf und verbindet ihn {{% int_link val="mit Kapitel 7" link="/expl/content/army/the-144000" %}}, wo von den 144.000 die Rede ist.Sie werden nun vor dem Thron dargestellt (die Erwähnung des Berges Zion in Vers 1 könnte ein Hinweis auf das himmlische Jerusalem sein).
+Dieses Kapitel nimmt den Gedanken des {{% int_link val="Lammes aus Kapitel 5" link="/expl/content/worship/the-book-with-the-seven-seals" %}}, das würdig war, das Buch zu öffnen, wieder auf und verbindet ihn {{% int_link val="mit Kapitel 7" link="/expl/content/army/the-144000" %}}, wo von den 144.000 die Rede ist.Sie werden nun vor dem Thron dargestellt (die Erwähnung des Berges Zion in Vers 1 könnte ein Hinweis auf das himmlische Jerusalem sein).
 
 Die 144.000 haben den Namen des Lammes und ihren Gott an ihren Stirnen (im Gegensatz zu dem Zeichen an Hand und Stirn im vorhergehenden Kapitel). Dies definiert ihre Identität und Zugehörigkeit zu Gott und bringt hier auch den Gedanken der Versiegelung aus Kapitel 7 ins Spiel.
 

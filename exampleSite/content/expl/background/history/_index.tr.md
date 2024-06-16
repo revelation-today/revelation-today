@@ -2,8 +2,8 @@
 linkTitle: Tarih
 title: Tarihsel arka plan
 weight: 1
-prev: /gen/overview
-next: /background/literature
+prev: /welcome/expl
+next: /expl/background/literature
 ---
 
 Hıristiyanlar için başlıca zorluklar şunlardı

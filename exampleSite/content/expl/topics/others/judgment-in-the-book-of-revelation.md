@@ -4,7 +4,7 @@ weight: 5
 prev: /expl/topics/others/the-rapture
 next: /welcome/done
 docType: expl
-appl: /topics/others/short/reading-of-revelation-the-big-tribulation-and-the-rapture
+appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 ---
 
 The book of Revelation is filled with descriptions of judgment, and it may seem that it is intended to scare all people who do not dare to repent and believe in God. But this is really wrong.

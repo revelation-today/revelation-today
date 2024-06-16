@@ -20,7 +20,7 @@ The book of Revelation describes heaven with different metaphors: In chapter {{%
 
 Furthermore the {{% bible val="New Jerusalem is described as the Bride of Christ" link="rev:21,2" lang="en" %}} which gives even a more intimate aspect to the subject.
 
-In addition, the language in chapter 21 is very much related to the temple, {{% int_link val="the place where Israel had fellowship with God" link="/expl/bible/keyword/the-temple-and-the-presence-of-god" %}}. The temple, on the other hand, is a reflection of Eden. Not only that, but the shape of the New Jerusalem is a {{% bible val="cube" link="rev:21,16" lang="en" %}}. The {{% bible val="only object in the Old Testament that has this shape is the Holy of Holies" link="2ch:3,8" lang="en" %}}, the place where God lives. A place so intensely filled with God’s presence that only the high priest was allowed to enter this place once a year.
+In addition, the language in chapter 21 is very much related to the temple, {{% int_link val="the place where Israel had fellowship with God" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}. The temple, on the other hand, is a reflection of Eden. Not only that, but the shape of the New Jerusalem is a {{% bible val="cube" link="rev:21,16" lang="en" %}}. The {{% bible val="only object in the Old Testament that has this shape is the Holy of Holies" link="2ch:3,8" lang="en" %}}, the place where God lives. A place so intensely filled with God’s presence that only the high priest was allowed to enter this place once a year.
 
 So the New Jerusalem or Heaven is described as the place of most intimacy with God.
 

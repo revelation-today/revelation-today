@@ -56,5 +56,3 @@ Zayıf olabilir ve kendimizi çaresiz hissedebiliriz (ve bu duygulara izin verme
 - Kutsal Kitap’ta zayıfların galip geldiği benzer hikâyeler biliyor musunuz?
 - Şeytan’ın cennetten kovulduğunu ama çok az zamanı olduğu için mümkün olduğunca çok tahribat yarattığını görmek sizin için ne anlama geliyor? Bir Hıristiyan olarak bu sizin yaşamınızı nasıl etkiliyor?
 - Şeytan’ı etrafınızdaki dünyada sürekli kaybeden olarak görebiliyor musunuz?
-
-{{% int_link val="Daha büyük bağlam" link="/appl/gen/index/the-book-of-revelation" %}}

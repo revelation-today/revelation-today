@@ -19,11 +19,6 @@ sources:
 
 Die Anbetung im Thronsaal ist die Antwort auf die Probleme der Gemeinden. Aber warum? Und was hat das mit all den Plagen zu tun, die danach kommen?
 
-## Gut, davor zu lesen
-
-<a name="ef77"></a>
-- {{% int_link val="Die Sendschreiben" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
-
 ## Der Hintergrund und Kontext
 
 <a name="e638"></a>

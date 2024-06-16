@@ -20,7 +20,7 @@ Die Offenbarung beschreibt den Himmel mit verschiedenen Matephoren: In Kapitel {
 
 Darüber hinaus wird das {{% bible val="Neue Jerusalem auch als die Braut Christi beschrieben" link="rev:21,2" lang="de" %}}, was einen noch intimeren Eindruck in der Beziehung zu Gott vermittelt.
 
-Außerdem ist die Sprache von Kapitel 21 sehr stark von der Beschreibung des Tempels geprägt, dem Ort, an{{% int_link val=" dem Israel Gemeinschaft mit Gott hatte" link="/expl/bible/keyword/the-temple-and-the-presence-of-god" %}}. Der Tempel wiederum ist ein Abbild von Eden. Nicht nur das, das Neue Jerusalem has die Form eines {{% bible val="Kubus" link="rev:21,16" lang="de" %}}. Und das einzige Object im Alten Testament, das {{% bible val="diese Form hatte, war das Allerheiligste" link="2ch:3,8" lang="de" %}}, das so sehr von der Gegenwart Gottes erfüllt war, dass der lediglich Hohepriester es nur einmal im Jahr betreten durfte.
+Außerdem ist die Sprache von Kapitel 21 sehr stark von der Beschreibung des Tempels geprägt, dem Ort, an{{% int_link val=" dem Israel Gemeinschaft mit Gott hatte" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}. Der Tempel wiederum ist ein Abbild von Eden. Nicht nur das, das Neue Jerusalem has die Form eines {{% bible val="Kubus" link="rev:21,16" lang="de" %}}. Und das einzige Object im Alten Testament, das {{% bible val="diese Form hatte, war das Allerheiligste" link="2ch:3,8" lang="de" %}}, das so sehr von der Gegenwart Gottes erfüllt war, dass der lediglich Hohepriester es nur einmal im Jahr betreten durfte.
 
 Das Neue Jerusalem oder der Himmel wird als ein Ort der größten Nähe zu Hott beschrieben.
 

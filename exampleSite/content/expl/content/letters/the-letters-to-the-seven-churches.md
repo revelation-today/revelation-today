@@ -16,13 +16,13 @@ The book of Revelation shows seven letters to seven specific churches. What is t
 <a name="4e37"></a>
 - {{% int_link val="Historical background of the book" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}
 - {{% int_link val="What type of book is this" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}
-- {{% int_link val="The vision" link="/expl/content/letters/the-vision" %}}
+- {{% int_link val="The vision" link="/expl/content/vision/the-vision" %}}
 - {{% int_link val="The angels of the churches" link="/expl/content/letters/the-angel-of-the-churches" %}}
 
 ## The vision
 
 <a name="4c46"></a>
-Before the letter, John writes down a vision of {{% int_link val="how God envisions the church" link="/expl/content/letters/the-vision" %}}.
+Before the letter, John writes down a vision of {{% int_link val="how God envisions the church" link="/expl/content/vision/the-vision" %}}.
 
 The message is this: The church, reflected as stars and lampstands, should be light (lampstands within the church and stars to the world), but they must do it in dependence on Jesus and not without Him.
 
