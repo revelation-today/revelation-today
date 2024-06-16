@@ -2,15 +2,10 @@
 Title: "Contact Us"
 ---
 
-{{< formkeep_extended exampletoken >}}
-  <input type="text" name="Name" placeholder="Your Name">
-  <input type="text" name="WhatsApp" placeholder="0177 999 999 99">
-  <input type="text" name="Feedback" placeholder="Your Feedback">
-{{</ formkeep_extended >}}
 
 <div class="w-full md:w-96 md:max-w-full mx-auto">
   <div class="p-6 border border-gray-600 sm:rounded-md bg-gray-800">
-<form method="POST" action="https://herotofu.com/f38992e0-2bb1-11ef-bb50-597c09297146">
+<form method="POST" action="https://herotofu.com/start">
       <label class="block mb-6">
         <span class="text-gray-300">Your name</span>
         <input
@@ -33,7 +28,7 @@ Title: "Contact Us"
           "
           placeholder="Joe Bloggs"
         />
-    </label>
+    </label></br>
       <label class="block mb-6">
         <span class="text-gray-300">Email address</span>
         <input
@@ -57,7 +52,7 @@ Title: "Contact Us"
 placeholder="joe.bloggs@example.com"
           required
         />
-      </label>
+      </label></br>
       <label class="block mb-6">
         <span class="text-gray-300">Message</span>
         <textarea
@@ -79,7 +74,7 @@ placeholder="joe.bloggs@example.com"
             text-gray-300
           "
           rows="3"
-  placeholder="Tell us what you're thinking about..."
+  placeholder="Tell us what you're thinking about this page"
         ></textarea>
       </label>
       <div class="mb-6">
