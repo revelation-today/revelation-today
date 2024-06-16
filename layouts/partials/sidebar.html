@@ -19,9 +19,14 @@
 {{- $exclude := slice -}}
 {{- $docType := $params.docType -}}
 {{- range $pages -}}
-  {{- $found := false -}}
   {{- $secLink := .RelPermalink -}}
-  {{- if not (hasPrefix $secLink (print "/" $docType "/")) -}}
+  {{- if not $docType -}}
+    {{- if not (hasPrefix $secLink "/welcome") -}}
+      {{- $exclude = $exclude | append $secLink -}}  
+    {{- else if (hasPrefix $secLink "/welcome/done") -}}
+      {{- $exclude = $exclude | append $secLink -}}  
+    {{- end -}}
+  {{- else if not (hasPrefix $secLink (print "/" $docType "/")) -}}
     {{- $exclude = $exclude | append $secLink -}}
   {{- end -}}
 {{- end -}}

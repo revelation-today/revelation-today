@@ -55,22 +55,10 @@ menu:
       name: Tour
       pageRef: /welcome
       weight: 1
-    - identifier: background
-      name: Background
-      pageRef: /background
+    - identifier: help
+      name: Help
+      pageRef: /help
       weight: 2
-    - identifier: bible
-      name: Bible
-      pageRef: /bible
-      weight: 3
-    - identifier: content
-      name: Content
-      pageRef: /content
-      weight: 4
-    - identifier: topics
-      name: Topics
-      pageRef: /topics
-      weight: 5
     - identifier: about
       name: About
       pageRef: /about

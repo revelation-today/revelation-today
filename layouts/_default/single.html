@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{- $readingTime := (T "readingtime") | default "Appr. reading time" -}}
+{{- $minute := (T "minute") | default "minute" -}}
 {{- $minutes := (T "minutes") | default "minutes" -}}
 {{- $readBefore := (T "readBefore") | default "Read Before" -}}
 {{- $quick := (T "quick") | default "Quick" -}}
@@ -15,8 +16,17 @@
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
         <br class="hx-mt-1.5 hx-text-sm" />
         {{- partial "custom/title.html" (dict "docType" .Params.docType "title" .Title) -}}
-        <div class="hx-mb-16"></div>
-        <h2>{{ $readingTime }} {{ .ReadingTime }} {{ $minutes }}</h2>
+        {{- if not (eq .ReadingTime 0) -}}
+            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
+            <ul>
+            {{- $reading := print $readingTime ": " .ReadingTime " " $minutes -}}
+            {{- if eq .ReadingTime 1 -}}
+                {{- $reading = print $readingTime ": " .ReadingTime " " $minute -}}
+            {{- end -}}
+            {{ partial "shortcodes/card" (dict "title" $reading "icon" "book-open") }}
+            </ul>
+            </div>
+        {{- end -}}
         <div class="content">
           {{- partial "custom/read_before.html" (dict "params" .Params) -}}
           

@@ -1,6 +1,6 @@
 ---
 title: Willkommen
-weight: 10
+weight: 1
 ignore: true
 ---
 

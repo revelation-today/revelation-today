@@ -1,6 +1,6 @@
 ---
 title: Hoş geldiniz
-weight: 10
+weight: 1
 ignore: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Hoş geldiniz
-weight: 9
+weight: 2
 ---
 
 ## Sorun

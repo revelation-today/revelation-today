@@ -1,6 +1,6 @@
 ---
 title: Welcome
-weight: 9
+weight: 2
 ---
 
 ## The problem
