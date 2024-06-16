@@ -40,7 +40,7 @@ Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize g�
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Uygulamalar"
-    link="appl"
+    link="app"
     subtitle="Kitabı hayatınızda nasıl uygulayacağınızı keşfedin."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
