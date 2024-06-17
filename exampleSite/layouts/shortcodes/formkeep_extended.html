@@ -3,10 +3,13 @@
 {{- $lang := .Get "lang" -}}
 {{- $button_name := (T "submit") | default "Submit" -}}
 
+{{- if eq $lang "en" -}}#
+    {{- $lang = "" -}}
+{{- end -}}
 <!-- more info at https://formkeep.com/guides/contact-form-hugo -->
-<form accept-charset="UTF-8" action="https://formkeep.com/f/{{ $formId }}" method="POST">
+<form accept-charset="UTF-8" action="https://formkeep.com/f/{{ $formId }}" enctype="multipart/form-data" method="POST">
   <input type="hidden" name="utf8" value="✓">
-  <input type="hidden" name="_redirect_url" value="https://revelation-today.github.io/revelation-today/{{- $lang -}}/thanks">
+  <input type="hidden" name="_redirect_url" value="https://revelation-today.github.io/revelation-today/{{- $lang -}}/thanks/index.html">
   {{.Inner}}
   <button type="submit">{{ $button_name }}</button>
 </form>
