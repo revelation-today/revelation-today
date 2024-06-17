@@ -1,15 +1,69 @@
 {{- $context := . -}}
 {{- $formId := .Get "formId" -}}
 {{- $lang := .Get "lang" -}}
-{{- $button_name := (T "submit") | default "Submit" -}}
+{{- $submit := (T "submit") | default "Submit" -}}
+{{- $name := (T "name") | default "Name" -}}
+{{- $email := (T "email") | default "Email" -}}
+{{- $phone := (T "phone") | default "Phone" -}}
+{{- $message := (T "message") | default "Message" -}}
+{{- $share := (T "share") | default "share" -}}
 
-{{- if eq $lang "en" -}}#
+
+{{- if eq $lang "en" -}}
     {{- $lang = "" -}}
 {{- end -}}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+
+
 <!-- more info at https://formkeep.com/guides/contact-form-hugo -->
-<form accept-charset="UTF-8" action="https://formkeep.com/f/{{ $formId }}" enctype="multipart/form-data" method="POST">
-  <input type="hidden" name="utf8" value="✓">
-  <input type="hidden" name="_redirect_url" value="https://revelation-today.github.io/revelation-today/{{- $lang -}}/thanks/index.html">
-  {{.Inner}}
-  <button type="submit">{{ $button_name }}</button>
+<div class="container">
+  <div class="row">
+    <section class="container col-xs-12 col-sm-8 col-sm-offset-2 col-xl-6 col-xl-offset-3 my-4">
+        <form class="" target="_self" enctype="multipart/form-data" action="https://formkeep.com/f/624162373a44" accept-charset="UTF-8" method="post">
+          <fieldset>
+            <br>
+            <input type="hidden" name="_redirect_url" value="https://revelation-today.github.io/revelation-today/{{- $lang -}}/thanks/index.html">
+            <div class="row">
+              <div class="form-group col-xs-6" id="First_Name__div">
+              <label title="required" for="First_Name">{{- $name -}} *</label>
+              <input type="text" name="First Name" id="First_Name" required="required" autofocus="autofocus" class="form-control" />
+          </div>
+          </div>
+              <div class="row">
+              <div class="form-group col-xs-6" id="Email__div">
+              <label title="required" for="Email">{{- $email -}} *</label>
+              <input type="email" name="Email" id="Email" required="required" placeholder="example@example.com" class="form-control" />
+          </div>
+              <div class="form-group col-xs-6" id="Phone__div">
+              <label for="Phone">{{- $phone -}}</label>
+              <input type="tel" name="Phone" id="Phone" placeholder="123-456-7890" class="form-control" />
+          </div>
+          </div>
+              <div class="row">
+              <div class="form-group col-xs-12" id="Message__div">
+              <label title="required" for="Message">{{- $message -}} *</label>
+              <textarea name="Message" id="Message" required="required" class="form-control">
+</textarea>
+              <small class="form-text text-muted">{{- $share -}}</small>
+          </div>
+          </div>
+          <br>
+          <div class="row">
+            <div class="col-xs-12">
+              <input type="submit" value="Submit" class="btn btn-block btn-primary" data-disable-with="Submit" />
+            </div>
+          </div>
+        </fieldset>
 </form>
+        <div style='text-align: center; padding-top: 6rem; padding-bottom: 3rem'>
+        </div>
+    </section>
+  </div>
+</div>
+<!-- Generated from https://formkeep.com/forms/624162373a44/designer/edit on June 17, 2024 16:16 using version 3.03.29 -->
+<script src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/assets/pym.v1-af3f286f83d0e03260b107ef6bb1400a4bc94a22a76c9c9aaa7139da7f1c6782.js" nonce="WTpQOhVz2FICZkk2/zFappalUXPXpkwTCjJpLTRKqt0="></script>
+<script src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/assets/validate_file_size-27da1016ecab1c1dc4608c6301048171c8370ed5b6b38538df90b1b7fd0148d9.js" nonce="WTpQOhVz2FICZkk2/zFappalUXPXpkwTCjJpLTRKqt0="></script>
+<script nonce="WTpQOhVz2FICZkk2/zFappalUXPXpkwTCjJpLTRKqt0=">
+  window.pymChild = new pym.Child()
+</script>

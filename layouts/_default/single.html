@@ -10,19 +10,16 @@
 {{- partial "custom/bible" (dict "lang" .Language.Lang) -}}
 
   <div class='hx-mx-auto hx-flex {{ partial "utils/page-width" . }}'>
-    {{ partial "sidebar.html" (dict "context" . "disableSidebar" false "displayPlaceholder" true "params" .Params "regPages" .Site.RegularPages "pages" .Site.Pages) }}
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" false "displayPlaceholder" true "params" .Params "regPages" .Site.RegularPages "sections" .Site.Sections) }}
     {{ partial "toc.html" . }}
     <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
         <br class="hx-mt-1.5 hx-text-sm" />
         {{- partial "custom/title.html" (dict "docType" .Params.docType "title" .Title) -}}
-        {{- if not (eq .ReadingTime 0) -}}
+        {{- if and (not (eq .ReadingTime 0)) (not (eq .ReadingTime 1)) -}}
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
             <ul>
             {{- $reading := print $readingTime ": " .ReadingTime " " $minutes -}}
-            {{- if eq .ReadingTime 1 -}}
-                {{- $reading = print $readingTime ": " .ReadingTime " " $minute -}}
-            {{- end -}}
             {{ partial "shortcodes/card" (dict "title" $reading "icon" "book-open") }}
             </ul>
             </div>

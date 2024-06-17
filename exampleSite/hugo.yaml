@@ -59,6 +59,10 @@ menu:
       name: Help
       pageRef: /help
       weight: 2
+    - identifier: contact
+      name: Contact
+      pageRef: /contact
+      weight: 3
     - identifier: about
       name: About
       pageRef: /about

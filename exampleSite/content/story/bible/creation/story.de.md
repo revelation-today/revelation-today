@@ -2,7 +2,7 @@
 title: "Wie alles begann"
 weight: 1
 base: /quick/bible/creation/quick
-prev: /story/bible/creation/story
+prev: /welcome/story
 next: /story/bible/daniel/story
 docType: story
 ---
