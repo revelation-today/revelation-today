@@ -2,4 +2,11 @@
 {{- $val := .Get "val" -}}
 {{- $link := .Get "link" -}}
 
-<a href="{{- $link -}}" class="internal"><span>{{- $val -}}</span></a>
+{{- range union .Site.RegularPages .Site.Sections -}}
+  {{- if not (hasSuffix $link "/") -}}
+    {{- $link = print $link "/" -}}
+  {{- end -}}
+  {{- if hasSuffix .RelPermalink $link -}}
+     <a href="{{- $link -}}" class="internal"><span>{{- $val -}}</span></a>
+  {{- end -}}
+{{- end -}}
