@@ -138,9 +138,12 @@ This is a rather puzzling text that we have not looked at closely. We have just 
 
 There is another oddity that is gently handled in this translation. Literally, the text begins, “[And I saw throne, and they sat upon them and judgment was given to them](https://biblehub.com/interlinear/revelation/20-4.htm)”. But when you look back what “they” and “them” are you are lost, because there is nothing before that would explain what they are. The last one is the devil! Furthermore they all have the same tense (all [aorist](https://en.wikipedia.org/wiki/Aorist)) and there is no temporal relationship visible between these actions.
 
-Obviously they are explained afterwards: “those who did not worship the beast and did not receive the mark”.This type of pattern is called [hysteron-proteron](https://en.wikipedia.org/wiki/Hysteron_proteron) (the last before the first) and is the story told in reverse. 
+Obviously they are explained afterwards: “those who did not worship the beast and did not receive the mark”.This type of pattern is called [hysteron-proteron](https://en.wikipedia.org/wiki/Hysteron_proteron) (the last before the first) and is the story told in reverse. This is done to emphasize the first part.
 
-There are also a few examples in the book of Revelation is you look for them{{% bible val="hold onto it and repent" link="rev:3,3" lang="en" %}},{{% bible val="I am rich, I have required wealth" link="rev:3,17" lang="en" %}},{{% bible val="turn your stomach sour, but it is sweet in your mouth" link="rev:10,9" lang="en" %}}.
+There are also a few examples in the book of Revelation is you look for them
+- {{% bible val="hold onto it and repent" link="rev:3,3" lang="en" %}},
+- {{% bible val="I am rich, I have required wealth" link="rev:3,17" lang="en" %}},
+- {{% bible val="turn your stomach sour, but it is sweet in your mouth" link="rev:10,9" lang="en" %}}.
 
 So if we read the story backwards it makes more sense: They reign because they did not worship the beast and did not take his mark and were beheaded for this.
 
