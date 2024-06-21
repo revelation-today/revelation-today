@@ -1,4 +1,4 @@
 ---
-title: Was hilfreich ist, zu wissen
+title: Hilfe
 ---
 

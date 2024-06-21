@@ -83,10 +83,18 @@ menu:
       params:
         type: separator
       weight: 1
+    - identifier: help
+      name: Help
+      pageRef: /help
+      weight: 2
+    - identifier: contact
+      name: Contact
+      pageRef: /contact
+      weight: 3
     - identifier: about
       name: "About"
       pageRef: "/about"
-      weight: 2
+      weight: 4
 
 params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.

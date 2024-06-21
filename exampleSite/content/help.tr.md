@@ -1,4 +1,4 @@
 ---
-title: Neleri bilmek faydalı olur
+title: Yardım
 ---
 
