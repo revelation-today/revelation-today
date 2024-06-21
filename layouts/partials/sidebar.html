@@ -17,6 +17,8 @@
 {{- end -}}
 
 {{- $exclude := slice -}}
+{{- $exclude = $exclude | append "/thanks" -}}
+{{- $exclude = $exclude | append "/welcome/done/" -}}
 {{- $docType := $params.docType -}}
 {{- range $pages -}}
   {{- $secLink := .RelPermalink -}}
