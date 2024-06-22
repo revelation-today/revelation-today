@@ -27,7 +27,7 @@ Dieses Bild der Dreifaltigkeit (hier ist der vierte apokalyptische Reiter nur ei
 
 ![](/images/trinity_de.jpg)
 
-#ä Die Seelen unter dem Altar
+## Die Seelen unter dem Altar
 
 Dies führt zu dem Schrei der Seelen unter dem Altar. Wer sind diese? Dies ist die Kirche, die unter der Entlarvung Satans leidet. Sie haben die Natur des Tieres verstanden und leben entsprechend. Sie wollen, dass das aufhört und sie bekommen weiße Gewänder, weil Jesus zustimmt, dass sie gerecht sind. Aber andere haben es noch nicht verstanden. 
 
