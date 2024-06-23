@@ -32,10 +32,12 @@ Ancak Hıristiyanlar için başka bir sorun daha vardı:
 - tüm bağlılıkları ve tapınmaları İsa’ya
 - Roma Barışı sadece bundan yararlanan birkaç kişi için mevcuttu, ayrıca bu askeri güç ve boyun eğme ile satın alınmıştı
 
-## Düşman olarak Yahudiler
+## Yahudilerle yaşanan gerginlikler
 
 <a name="7aa3"></a>
-Kilisenin temel parçası olması gereken Yahudiler (tüm İsrail İsa’yı kabul etmedi), imparatora bağlılıklarını ve ibadetlerini sunmayan ve hatta başkalarını da aynısını yapmaya teşvik eden Hıristiyanların yanlış davranışları nedeniyle hükümet tarafından suçlandıkça, giderek daha fazla kilisenin düşmanı haline geldiler.
+Topluluğun çekirdeğini oluşturacak olan Yahudiler, imparatorun Hıristiyanların davranışlarından onları sorumlu tutması nedeniyle giderek topluluğa karşı cephe aldılar. Hıristiyanlar imparatora sadık kalmayı ve ona tapınmayı reddetmekle kalmadılar, başkalarını da buna teşvik ettiler.
+
+Ancak Roma imparatorunun Hıristiyanları bir Yahudi mezhebi olarak nitelendirmesi ve Yahudilerin bu yüzden cezalandırılması Yahudiler ve Hıristiyanlar arasında gerginliğe yol açtı.
 
 ## Reaksiyon
 

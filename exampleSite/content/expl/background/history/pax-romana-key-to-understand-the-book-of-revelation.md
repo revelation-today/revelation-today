@@ -91,7 +91,7 @@ Throughout the book of Revelation, the relationship to ethnic Israel is not ment
 
 On the other hand, the church is part of Israel, and there are clear statements that describe a unity of Jews and Christians, e.g. the 24 elders in chapter 4 representing the 12 tribes and the 12 apostles, or the names of the 12 tribes and the 12 apostles engraved in the New Jerusalem.
 
-Also, heaven is not described as a neutral place, but as the New Jerusalem.It would not be surprising at all if Jesus were to appear in the physical Jerusalem at His second coming.
+Also, heaven is not described as a neutral place, but as the New Jerusalem. It would not be surprising at all if Jesus were to appear in the physical Jerusalem at His second coming.
 
 Why is there such a controversial statement about the Jews? Because the church is part of Israel and therefore cannot cut its roots, even though some Jews openly attack the church.
 
