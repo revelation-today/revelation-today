@@ -32,10 +32,12 @@ Für die Christen gab es noch ein anderes Problem:
 - Ihre ganze Loyalität und Verehrung galt Jesus.
 - Sie sahen auch, dass der Römische Friede nur für wenige galt und mit Unterdrückung erkauft war.
 
-### Juden als Feinde
+### Spannungen mit den Juden
 
 <a name="c591"></a>
 Die Juden, die den Kern der Gemeinde bilden sollten, wandten sich zunehmend gegen die Gemeinde, da der Kaiser sie für das Verhalten der Christen verantwortlich machte. Die Christen weigerten sich nicht nur, dem Kaiser die Treue zu halten und ihn zu verehren, sie ermutigten auch andere dazu.
+
+Aber die Christen vom römischen Kaiser als jüdische Sekte, wurden die Juden dafür bestraft, was zu Spannungen zwischen Juden und Christen führte.
 
 ### Die Reaktion
 
