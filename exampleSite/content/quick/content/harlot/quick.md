@@ -4,6 +4,7 @@ weight: 1
 story: /story/content/harlot/story
 appl: /appl/content/harlot/the-harlot-the-complexity-of-evil
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
+prev: /quick/content/bowls/quick
 next: /quick/content/1000y/quick
 docType: quick
 ---

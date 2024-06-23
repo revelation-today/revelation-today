@@ -4,6 +4,7 @@ weight: 1
 story: /story/content/worship/story
 appl: /appl/content/worship/the-answer-to-all-questions
 expl: /expl/content/worship/worship-in-the-throne-room
+prev: /quick/content/letters/quick
 next: /quick/content/seals/quick
 docType: quick
 ---

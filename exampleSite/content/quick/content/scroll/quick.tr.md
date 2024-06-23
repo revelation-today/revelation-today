@@ -4,6 +4,7 @@ weight: 1
 story: /story/content/scroll/story
 appl: /appl/content/scroll/a-little-scroll-with-big-impact
 expl: /expl/content/scroll/the-little-scroll
+prev: /quick/content/trumpets/quick
 next: /quick/content/witnesses/quick
 docType: quick
 ---

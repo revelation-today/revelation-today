@@ -4,6 +4,7 @@ weight: 1
 story: /story/content/trumpets/story
 appl: /appl/content/trumpets/prayer-and-the-unshakeable
 expl: /expl/content/trumpets/the-trumpets-in-revelation
+prev: /quick/content/seals/quick
 next: /quick/content/scroll/quick
 docType: quick
 ---

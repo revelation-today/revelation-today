@@ -4,6 +4,7 @@ weight: 1
 story: /story/content/harvest/story
 appl: /appl/content/harvest/the-weapons-of-the-church
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
+prev: /quick/content/beasts/quick
 next: /quick/content/bowls/quick
 docType: quick
 ---

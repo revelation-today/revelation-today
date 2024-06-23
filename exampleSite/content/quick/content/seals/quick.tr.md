@@ -4,6 +4,7 @@ weight: 1
 story: /story/content/seals/story
 appl: /appl/content/seals/the-paradox-of-the-seven-seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
+prev: /quick/content/worship/quick
 next: /quick/content/army/quick
 docType: quick
 ---

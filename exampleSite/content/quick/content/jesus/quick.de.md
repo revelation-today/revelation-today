@@ -4,6 +4,7 @@ weight: 1
 story: /story/content/witnesses/story
 appl: /appl/content/jesus/jesus-and-the-fall-of-the-devil
 expl: /expl/content/jesus/a-different-christmas-story
+prev: /quick/content/witnesses/quick
 next: /quick/content/beasts/quick
 docType: quick
 ---

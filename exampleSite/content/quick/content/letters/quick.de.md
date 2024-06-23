@@ -4,6 +4,7 @@ weight: 1
 story: /story/content/letters/story
 appl: /appl/content/letters/the-challenges
 expl: /expl/content/letters/the-angel-of-the-churches
+prev: /quick/content/vision/quick
 next: /quick/content/worship/quick
 docType: quick
 ---
