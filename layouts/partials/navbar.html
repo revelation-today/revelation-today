@@ -47,7 +47,6 @@
             <span class="hx-sr-only">{{ or (T .Identifier) .Name | safeHTML }}</span>
           </a>
         {{- else if (eq .Params.type "help") -}}
-{{- print .Params.type " - " (or (T .Identifier) .Name | safeHTML) -}}
           <a
             title="{{ or (T .Identifier) .Name | safeHTML }}"
             href="{{ $link }}"
