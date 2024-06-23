@@ -1,5 +1,4 @@
 ---
-linkTitle: "Content"
 title: "Content of the book"
 weight: 6
 ---

@@ -25,6 +25,13 @@
             </div>
         {{- end -}}
         <div class="content">
+          {{- if and (.Params.base) (or (hasPrefix .RelPermalink "/expl") (hasPrefix .RelPermalink "/appl")) -}}  
+            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+            {{- $base := .GetPage .Params.base -}}
+            {{ partial "shortcodes/card" (dict "title" $quick "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
+            </div>
+          {{- end -}}
+
           {{- partial "custom/read_before.html" (dict "params" .Params) -}}
           
           {{ .Content }}
@@ -39,8 +46,7 @@
           {{- end -}}
           
           {{- partial "custom/prev_next.html" (dict "prev" $prev "next" $next) -}}
-
-          {{- if .Params.base -}}  
+          {{- if and (.Params.base) (not (or (hasPrefix .RelPermalink "/expl") (hasPrefix .RelPermalink "/appl"))) -}}  
             <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
             {{- $base := .GetPage .Params.base -}}
             {{ partial "shortcodes/card" (dict "title" $quick "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
