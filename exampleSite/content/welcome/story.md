@@ -2,7 +2,7 @@
 title: Tour through story
 weight: 5
 prev: /welcome
-next: /story/bible/creation/story
+next: /story/bible/creation
 docType: story
 ---
 

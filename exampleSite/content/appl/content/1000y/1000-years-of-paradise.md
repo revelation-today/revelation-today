@@ -1,8 +1,8 @@
 ---
 title: "1000 years of Paradise?"
 weight: 1
-base: /quick/content/1000y/quick
-story: /story/content/1000y/story
+base: /quick/content/1000y
+story: /story/content/1000y
 deeper: 
     - name: The 1000 year kingdom
     - link: /content/1000y/expl/the-thousand-year-kingdom

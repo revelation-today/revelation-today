@@ -1,8 +1,8 @@
 ---
 title: "Jesus und der Fall Satans"
 weight: 1
-base: /quick/content/jesus/quick
-story: /story/content/witnesses/story
+base: /quick/content/jesus
+story: /story/content/witnesses
 prev: /appl/content/witnesses/the-force-that-changes-the-world
 next: /appl/content/beasts/the-perfect-gospel
 docType: appl

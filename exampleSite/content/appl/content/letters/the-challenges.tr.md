@@ -1,8 +1,8 @@
 ---
 title: "Sorun"
 weight: 1
-base: /quick/content/letters/quick
-story: /story/content/letters/story
+base: /quick/content/letters
+story: /story/content/letters
 deeper:
     - name: Kiliselerin melekleri
       link:  /expl/content/letters/the-angel-of-the-churches

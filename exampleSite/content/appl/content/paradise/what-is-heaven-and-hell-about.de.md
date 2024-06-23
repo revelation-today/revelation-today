@@ -1,8 +1,8 @@
 ---
 title: "Was sind Himmel und Hölle?"
 weight: 1
-base: /quick/content/paradise/quick
-story: /story/content/1000y/story
+base: /quick/content/paradise
+story: /story/content/1000y
 deeper:
     - name: Das Neue Jersusalem
       link:  /expl/content/paradise/the-new-jerusalem

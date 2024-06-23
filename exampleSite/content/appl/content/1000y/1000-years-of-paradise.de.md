@@ -1,8 +1,8 @@
 ---
 title: "1000 Jahre Paradies?"
 weight: 1
-base: /quick/content/1000y/quick
-story: /story/content/1000y/story
+base: /quick/content/1000y
+story: /story/content/1000y
 deeper: 
     - name: Das Tausendjährige Reich
     - link: /content/1000y/expl/the-thousand-year-kingdom

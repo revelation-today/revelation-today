@@ -1,8 +1,8 @@
 ---
 title: "Die zehn Plagen in Ägypten"
 weight: 40
-base: /quick/bible/creation/quick
-story: /story/bible/creation/story
+base: /quick/bible/creation
+story: /story/bible/creation
 prev: /expl/bible/exodus/the-hardening-of-pharaohs-heart
 next: /expl/bible/keyword/the-story-of-balaam
 docType: expl

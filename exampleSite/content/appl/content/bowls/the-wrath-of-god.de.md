@@ -1,8 +1,8 @@
 ---
 title: "Der Zorn Gottes"
 weight: 1
-base: /quick/content/harvest/quick
-story: /story/content/harvest/story
+base: /quick/content/harvest
+story: /story/content/harvest
 deeper:
     - name: Die Zornesschalen
       link:  /expl/content/bowls/the-bowls-of-wrath

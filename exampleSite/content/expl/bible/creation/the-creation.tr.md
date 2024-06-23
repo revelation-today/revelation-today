@@ -1,8 +1,8 @@
 ---
 title: "Yaratılış"
 weight: 1
-base: /quick/bible/creation/quick
-story: /story/bible/creation/story
+base: /quick/bible/creation
+story: /story/bible/creation
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/bible/creation/the-temple-and-the-presence-of-god
 docType: expl

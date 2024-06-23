@@ -1,8 +1,8 @@
 ---
 title: "Büyük etkisi olan küçük bir kaydırma"
 weight: 1
-base: /quick/content/scroll/quick
-story: /story/content/scroll/story
+base: /quick/content/scroll
+story: /story/content/scroll
 deeper:
     - name: Küçük parşömen
       link:  /expl/content/scroll/the-little-scroll

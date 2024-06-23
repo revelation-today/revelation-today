@@ -1,8 +1,8 @@
 ---
 title: "Das Sendschreiben an Thyatira"
 weight: 40
-base: /quick/content/letters/quick
-story: /story/content/letters/story
+base: /quick/content/letters
+story: /story/content/letters
 prev: /expl/content/letters/the-letter-to-the-church-in-pergamon
 next: /expl/content/letters/the-letter-to-the-church-in-sardis
 docType: expl

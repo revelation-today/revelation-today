@@ -1,8 +1,8 @@
 ---
 title: "The wrath of God"
 weight: 1
-base: /quick/content/harvest/quick
-story: /story/content/harvest/story
+base: /quick/content/harvest
+story: /story/content/harvest
 deeper:
     - name: The bowls of wrath
       link:  /expl/content/bowls/the-bowls-of-wrath

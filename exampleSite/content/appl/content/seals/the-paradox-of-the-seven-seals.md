@@ -1,8 +1,8 @@
 ---
 title: "The paradox of the seven seals"
 weight: 1
-base: /quick/content/seals/quick
-story: /story/content/seals/story
+base: /quick/content/seals
+story: /story/content/seals
 deeper:
     - name: A real hero
       link: /topics/hero/short/a-real-hero

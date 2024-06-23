@@ -1,8 +1,8 @@
 ---
 title: "The letter to the church in Smyrna"
 weight: 20
-base: /quick/content/letters/quick
-story: /story/content/letters/story
+base: /quick/content/letters
+story: /story/content/letters
 prev: /expl/content/letters/the-letter-to-the-church-in-ephesus
 next: /expl/content/letters/the-letter-to-the-church-in-pergamon
 docType: expl

@@ -1,7 +1,11 @@
 ---
-linkTitle: "Creation"
 title: "Creation"
 weight: 1
+story: /story/bible/creation
+expl: /expl/bible/creation/the-creation
+prev: /welcome/quick
+next: /quick/bible/daniel
+docType: quick
 ---
 
 The creation story lays the foundation for everything in the Bible. It provide some deep insight in the problem that the Bible addresses.

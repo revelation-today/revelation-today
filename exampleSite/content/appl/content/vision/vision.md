@@ -1,8 +1,8 @@
 ---
 title: "The vision"
 weight: 1
-base: /quick/content/vision/quick
-story: /story/content/vision/story
+base: /quick/content/vision
+story: /story/content/vision
 deeper:
     - name: How the book starts
       link:  /expl/content/letters/setting-the-foundation

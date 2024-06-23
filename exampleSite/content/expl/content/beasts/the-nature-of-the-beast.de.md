@@ -1,8 +1,8 @@
 ---
 title: "Die Tiere in der Offenbarung"
 weight: 6
-base: /quick/content/beasts/quick
-story: /story/content/witnesses/story
+base: /quick/content/beasts
+story: /story/content/witnesses
 prev: /expl/content/beasts/666-the-number-of-the-beast
 next: /expl/content/harvest/gods-army-and-the-seven-angels
 docType: expl

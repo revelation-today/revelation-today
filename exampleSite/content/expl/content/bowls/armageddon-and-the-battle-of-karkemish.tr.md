@@ -1,8 +1,8 @@
 ---
 title: "Armageddon ve Karkamış Savaşı"
 weight: 4
-base: /quick/content/harvest/quick
-story: /story/content/harvest/story
+base: /quick/content/harvest
+story: /story/content/harvest
 prev: /expl/content/bowls/the-bowls-of-wrath
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl

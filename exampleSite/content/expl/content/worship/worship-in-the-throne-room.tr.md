@@ -1,8 +1,8 @@
 ---
 title: "Taht odasında ibadet"
 weight: 2
-base: /quick/content/worship/quick
-story: /story/content/worship/story
+base: /quick/content/worship
+story: /story/content/worship
 prev: /expl/content/letters/the-letter-to-the-church-in-laodicea
 next: /expl/content/worship/the-book-with-the-seven-seals
 docType: expl

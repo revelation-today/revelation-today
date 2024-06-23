@@ -1,8 +1,8 @@
 ---
 title: "The “temple” and the presence of God"
 weight: 10
-base: /quick/bible/creation/quick
-story: /story/bible/creation/story
+base: /quick/bible/creation
+story: /story/bible/creation
 prev: /expl/bible/creation/the-creation
 next: /expl/bible/exodus/the-story-before-the-exodus
 docType: expl

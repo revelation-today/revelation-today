@@ -1,8 +1,8 @@
 ---
 title: "Die Vision des Menschensohnes"
 weight: 3
-base: /quick/content/vision/quick
-story: /story/content/vision/story
+base: /quick/content/vision
+story: /story/content/vision
 sources: 
     - pages: 205–222
       ref: beale_rev

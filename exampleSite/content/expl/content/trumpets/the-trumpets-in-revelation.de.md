@@ -1,8 +1,8 @@
 ---
 title: "Die sieben Posaunen"
 weight: 2
-base: /quick/content/trumpets/quick
-story: /story/content/trumpets/story
+base: /quick/content/trumpets
+story: /story/content/trumpets
 prev: /expl/content/army/the-end-time-and-the-great-tribulation
 next: /expl/content/scroll/the-little-scroll
 docType: expl

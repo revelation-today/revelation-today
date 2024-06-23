@@ -1,8 +1,8 @@
 ---
 title: "Fahişe Kimdir Bölüm 2"
 weight: 3
-base: /quick/content/harlot/quick
-story: /story/content/harlot/story
+base: /quick/content/harlot
+story: /story/content/harlot
 prev: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 next: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 docType: expl

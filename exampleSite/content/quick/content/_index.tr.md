@@ -1,5 +1,4 @@
 ---
-linkTitle: "İçerik"
 title: "Kitabın içeriği"
 weight: 6
 ---

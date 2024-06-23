@@ -1,8 +1,8 @@
 ---
 title: "Das Geheimnis des Menschensohns"
 weight: 30
-base: /quick/bible/daniel/quick
-story: /story/bible/daniel/story
+base: /quick/bible/daniel
+story: /story/bible/daniel
 prev: /expl/bible/daniel/the-four-kingdoms-in-daniel
 next: /expl/bible/daniel/the-70-year-weeks
 docType: expl

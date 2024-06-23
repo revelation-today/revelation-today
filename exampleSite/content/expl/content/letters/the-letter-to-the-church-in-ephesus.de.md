@@ -1,8 +1,8 @@
 ---
 title: "Das Schreiben an Ephesus"
 weight: 10
-base: /quick/content/letters/quick
-story: /story/content/letters/story
+base: /quick/content/letters
+story: /story/content/letters
 prev: /expl/content/letters/the-letters-to-the-seven-churches
 next: /expl/content/letters/the-letter-to-the-church-in-smyrna
 docType: expl

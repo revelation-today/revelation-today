@@ -1,8 +1,8 @@
 ---
 title: "Yedi Mühürlü Kitap"
 weight: 2
-base: /quick/content/worship/quick
-story: /story/content/worship/story
+base: /quick/content/worship
+story: /story/content/worship
 prev: /expl/content/worship/worship-in-the-throne-room
 next: /expl/content/seals/the-mystery-of-the-four-horse-men
 docType: expl

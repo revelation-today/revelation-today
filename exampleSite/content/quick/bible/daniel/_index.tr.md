@@ -1,8 +1,9 @@
 ---
-linkTitle: "Daniel"
 title: "Daniel'in kitabı"
-weight: 4
+weight: 1
+story: /story/bible/daniel
+expl: /expl/bible/keyword/the-origin-of-babel
+prev: /quick/bible/creation
+next: /quick/content/vision
+docType: quick
 ---
-
-Daniel kitabı, uzunluğuna kıyasla Vahiy'de en çok atıfta bulunulan kitaptır. Ve kitabın son 6 bölümü bir şekilde Vahiy kitabı kadar gizemlidir.
-Ama buna adım adım birlikte bakacağız.

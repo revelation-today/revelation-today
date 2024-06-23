@@ -2,7 +2,7 @@
 title: Quick walk through
 weight: 8
 prev: /welcome
-next: /quick/bible/creation/quick
+next: /quick/bible/creation
 docType: quick
 ---
 

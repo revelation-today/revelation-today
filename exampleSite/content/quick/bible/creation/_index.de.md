@@ -1,7 +1,11 @@
 ---
-linkTitle: "Schöpfung"
 title: "Die Schöpfungsgeschichte"
 weight: 1
+story: /story/bible/creation
+expl: /expl/bible/creation/the-creation
+prev: /welcome
+next: /quick/bible/daniel
+docType: quick
 ---
 
 Die Schöpfungsgeschichte bildet die Grundlage für alles in der Bibel. Sie gibt einen tiefen Einblick in das Problem, das die Bibel behandelt.

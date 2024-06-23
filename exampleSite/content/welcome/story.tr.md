@@ -2,7 +2,7 @@
 title: Hikaye boyunca tur
 weight: 5
 prev: /welcome
-next: /story/bible/creation/story
+next: /story/bible/creation
 docType: story
 ---
 

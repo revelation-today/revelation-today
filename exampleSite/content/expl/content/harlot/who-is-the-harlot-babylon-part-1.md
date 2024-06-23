@@ -1,8 +1,8 @@
 ---
 title: "Part 1: Who is the Harlot Babylon?"
 weight: 2
-base: /quick/content/harlot/quick
-story: /story/content/harlot/story
+base: /quick/content/harlot
+story: /story/content/harlot
 prev: /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-2
 docType: expl

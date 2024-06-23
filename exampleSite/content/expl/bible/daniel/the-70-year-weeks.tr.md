@@ -1,8 +1,8 @@
 ---
 title: "70 yıllık haftalar"
 weight: 40
-base: /quick/bible/daniel/quick
-story: /story/bible/daniel/story
+base: /quick/bible/daniel
+story: /story/bible/daniel
 prev: /expl/bible/daniel/the-son-of-man-and-the-remnant
 next: /expl/bible/daniel/the-secret-of-the-3-5-years
 docType: expl

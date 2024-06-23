@@ -1,8 +1,8 @@
 ---
 title: "Die Antwort auf alle Fragen"
 weight: 1
-base: /quick/content/worship/quick
-story: /story/content/worship/story
+base: /quick/content/worship
+story: /story/content/worship
 deeper:
     - name: Die Anbetung im Thronsaal
       link:  /expl/content/worship/worship-in-the-throne-room

@@ -1,8 +1,8 @@
 ---
 title: "The secret of the 3,5 years"
 weight: 50
-base: /quick/bible/daniel/quick
-story: /story/bible/daniel/story
+base: /quick/bible/daniel
+story: /story/bible/daniel
 prev: /expl/bible/daniel/the-70-year-weeks
 next: /expl/content/vision/setting-the-foundation
 docType: expl

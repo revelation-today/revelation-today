@@ -1,8 +1,8 @@
 ---
 title: "Die Macht, die die Welt verändert"
 weight: 1
-base: /quick/content/witnesses/quick
-story: /story/content/witnesses/story
+base: /quick/content/witnesses
+story: /story/content/witnesses
 deeper:
     - name: Der Tempel
       link:  /expl/bible/creation/the-temple-and-the-presence-of-god
