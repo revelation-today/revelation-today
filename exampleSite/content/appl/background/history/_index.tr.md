@@ -2,7 +2,7 @@
 linkTitle: Tarih
 title: Tarihsel arka plan
 weight: 1
-prev: /welcome/app
+prev: /welcome/appl
 next: /appl/background/literature
 ---
 

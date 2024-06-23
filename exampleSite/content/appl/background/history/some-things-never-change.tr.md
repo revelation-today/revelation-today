@@ -6,7 +6,7 @@ deeper:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
     - name: İsrail ve kilise
       link:  /expl/background/israel/israel-and-the-church
-prev: /welcome/app
+prev: /welcome/appl
 next: /appl/background/literature/what-are-we-reading
 docType: appl
 expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation

@@ -25,9 +25,11 @@
 {{- range $pages -}}
   {{- $secLink := .RelPermalink -}}
   {{- if not $docType -}}
-    {{- if not (hasPrefix $secLink "/welcome") -}}
-      {{- $exclude = $exclude | append $secLink -}}  
-    {{- else if (hasPrefix $secLink "/welcome/done") -}}
+    {{- if or (eq $pageURL "/contact/") (eq $pageURL "/about/") (eq $pageURL "/thanks/") (eq $pageURL "/welcome/done/") -}}
+      {{- if or (hasPrefix $secLink "/appl/") (hasPrefix $secLink "/expl/") (hasPrefix $secLink "/quick/") (hasPrefix $secLink "/story/") -}}
+        {{- $exclude = $exclude | append $secLink -}}  
+      {{- end -}}
+    {{- else if not (hasPrefix $secLink "/welcome") -}}
       {{- $exclude = $exclude | append $secLink -}}  
     {{- end -}}
   {{- else if not (hasPrefix $secLink (print "/" $docType "/")) -}}

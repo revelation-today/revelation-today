@@ -2,7 +2,7 @@
 linkTitle: Hintergrund
 title: Hintergrund
 weight: 4
-prev: /welcome/app
+prev: /welcome/appl
 next: /appl/content
 ---
 

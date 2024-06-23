@@ -41,7 +41,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Anwendung"
-    link="app"
+    link="appl"
     subtitle="Entdecke, wie du das Buch in deinem Leben anwenden kannst."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
