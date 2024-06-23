@@ -1,30 +1,8 @@
 ---
-Titel: "Über das Projekt"
+title: "Genutzte Literatur"
 ---
 
-Hallo, ich bin Hagen,
-
-seit meinem 14. Lebensjahr (vor mehr als 30 Jahren) faszinierte mich das Buch der Offenbarung in der Bibel. Am Anfang war es schwer zu verstehen, aber ich verstand mehr und mehr und bekam ein tieferes Verständnis für das Buch.
-
-Ich fing mit einigen Grundlagen an, lernte aber immer mehr, indem ich einige theologische Bücher las (nicht das kleinste), und ich war begeistert, wie relevant dieses Buch für die heutige Zeit ist.
-
-Und ich spreche nicht davon, zu erraten, wer der Antichrist ist oder was passiert, wenn Jesus wiederkommt, sondern wie wir eine effektive Nachfolge leben können.
-
-Und ich möchte mit Ihnen teilen, was ich gelernt habe, ohne dass Sie alle Bücher durchlesen müssen. Ich habe diese Seite als eine Art Wiki eingerichtet, damit Sie eine gewisse Orientierung haben und systematisch vorgehen können, aber auch die Freiheit haben, sich auf das zu konzentrieren, was für Sie wichtig ist.
-
-Es liegt mir am Herzen, offen zu sein für das, was Gott in diesem Buch wirklich sagen will, aber ich könnte in einigen Aspekten falsch liegen - deshalb lerne ich ständig dazu und aktualisiere diese Webseite, wenn ich (noch) etwas Neues lerne. Ich erhebe also nicht den Anspruch, alle Antworten zu haben und dass mein Verständnis das Beste und Einzige ist. Aber ich denke, dass dies in die richtige Richtung geht und ich teile die Gründe dafür mit, um transparent zu sein.
-
-### Hilfe von
-
-Ich habe dies nicht allein getan. Zuerst gab es eine große Menge an Büchern von {{% int_link val="great theologians" link="/about/ressources" %}}, die mir ein großes Verständnis vermittelten.
-
-Aber dann gibt es WErkzeuge wie 
-- (hekstra)[https://themes.gohugo.io/themes/hextra/] als Website-Framework
-- (deepl)[https://deepl.com] zum Übersetzen von Inhalten
-
-Und massives Feedback von Freunden, die geduldig überprüften, was ich so geschrieben habe.
-
-### Das Material
+## Das Material
 
 <a name="0820"></a>
 Mein Wunsch ist es, dich in die Lage zu versetzen, das Buch selbst besser zu verstehen. Um dies zu erreichen, habe ich versucht, so viel Einblick in die Quellen zu geben, wie möglich, ohne dich als Leser zu überfordern. Schlüsselargumente aus diesen Büchern habe ich mit Bibelstellen zusammengefasst, historische Quellen habe ich mit dem Internet verlinkt, um sie allen zugänglich zu machen.

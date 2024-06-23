@@ -75,23 +75,10 @@ menu:
         type: search
 
   sidebar:
-    - identifier: more
-      name: More
-      params:
-        type: separator
-      weight: 1
-    - identifier: contact
-      name: Contact
-      pageRef: /contact
-      weight: 3
     - identifier: about
       name: "About"
       pageRef: "/about"
       weight: 4
-    - identifier: help
-      name: Help
-      pageRef: /help
-      weight: 2
 
 params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
