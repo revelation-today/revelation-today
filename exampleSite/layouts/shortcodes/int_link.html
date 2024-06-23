@@ -7,6 +7,6 @@
     {{- $link = print $link "/" -}}
   {{- end -}}
   {{- if hasSuffix .RelPermalink $link -}}
-     <a href="{{- $link -}}" class="internal"><span>{{- $val -}}</span></a>
+     <a href="{{- .RelPermalink -}}" class="internal"><span>{{- $val -}}</span></a>
   {{- end -}}
 {{- end -}}

@@ -71,11 +71,6 @@ menu:
       weight: 7
       params:
         type: search
-    - name: GitHub
-      weight: 8
-      url: "https://github.com/revelation-today/revelation-today/"
-      params:
-        icon: github
 
   sidebar:
     - identifier: more
