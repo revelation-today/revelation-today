@@ -58,6 +58,8 @@ menu:
     - identifier: help
       name: Help
       pageRef: /help
+      params:
+        type: help
       weight: 2
     - identifier: contact
       name: Contact
