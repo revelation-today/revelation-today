@@ -76,7 +76,7 @@
             
           {{ partial "custom/deeper" (dict "params" .Params.deeper "pages" .Site.RegularPages) }}
           
-          {{- $aboutPage := .GetPage "/about" -}}
+          {{- $aboutPage := .GetPage "/about/ressources" -}}
           {{ partial "custom/sources" (dict "page" $aboutPage "params" .Params.sources) }}
 
         <div class="hx-mt-16"></div>
