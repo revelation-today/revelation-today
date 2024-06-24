@@ -22,7 +22,7 @@
 {{- $exclude = $exclude | append "/help/" -}}
 {{- $exclude = $exclude | append "/about/ressources/" -}}
 {{- $docType := $params.docType -}}
-{{- print 111 $docType -}}
+{{- $docType := index (split $pageURL "/") 1 -}}
 {{- range $pages -}}
   {{- $secLink := .RelPermalink -}}
   {{- if not $docType -}}
