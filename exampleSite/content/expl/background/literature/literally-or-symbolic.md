@@ -95,7 +95,3 @@ All these observations show that we should first assume the symbolic character o
 
 You will also see that the book is full of things that are obviously symbols: the lamb, the dragon, the beast with heads and horns, the book with seven seals, the sword coming out of the mouth of Jesus, …
 
-## Further digging
-
-{{% int_link val="Beale, Revelation, pages 50–69" link="/about/ressources/index.html#beale_rev" %}}
-
