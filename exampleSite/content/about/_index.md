@@ -1,5 +1,5 @@
 ---
-title: "About the project"
+title: "About"
 ---
 
 Hi, I'm Hagen.

@@ -24,7 +24,7 @@ You want to know more about this book. You are welcome to discover this guide ba
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
-
+</br></br>
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Quick walk through"
@@ -37,6 +37,7 @@ You want to know more about this book. You are welcome to discover this guide ba
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
+</br></br>
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
@@ -50,6 +51,7 @@ You want to know more about this book. You are welcome to discover this guide ba
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
+</br></br>
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card

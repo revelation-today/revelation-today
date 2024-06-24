@@ -24,6 +24,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
+</br></br>
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
@@ -37,6 +38,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
+</br></br>
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
@@ -50,6 +52,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
+</br></br>
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
