@@ -48,7 +48,7 @@ Is that a real question? Well, there are many reasons why we need churches
 - It is the place where you can receive blessings and teachings to help you manage your life and influence society.
 - The most important task is to make churches grow so that everyone will be saved and we will all go to heaven.
 
-Well, the book of Revelation agrees and focuses on the last point, but how is that supposed to happen? The book begins with a vision of Jesus himself describing the purpose of the church with two objects: stars and lambs. They describe the purpose of the church:
+Well, the book of Revelation agrees and focuses on the last point, but how is that supposed to happen? The book begins with a vision of Jesus himself describing the purpose of the church with two objects: stars and lamps. They describe the purpose of the church:
 
 - To be a visible example and witness to the world
 - Its strength lies in its dependence on Jesus.

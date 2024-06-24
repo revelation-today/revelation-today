@@ -32,7 +32,7 @@
     {{- else if not (hasPrefix $secLink "/welcome") -}}
       {{- $exclude = $exclude | append $secLink -}}  
     {{- end -}}
-  {{- else if not (hasPrefix $secLink (print "/" $docType "/")) -}}
+  {{- else if and (not (hasPrefix $secLink (print "/" $docType "/"))) (not (hasPrefix $secLink "/contact")) (not (hasPrefix $secLink "/about")) -}}
     {{- $exclude = $exclude | append $secLink -}}
   {{- end -}}
 {{- end -}}
