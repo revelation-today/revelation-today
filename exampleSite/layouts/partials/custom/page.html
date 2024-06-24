@@ -1,0 +1,78 @@
+{{- $context := . -}}
+{{- $docType := .docType -}}
+{{- $pages := .pages -}}
+{{- $base := .base -}}
+{{- $prev := .prev -}}
+{{- $next := .next -}}
+{{- $story := .story -}}
+{{- $quick := .quick -}}
+{{- $appl := .appl -}}
+{{- $expl := .expl -}}
+{{- $about := .about -}}
+{{- $title := .title -}}
+{{- $content := .content -}}
+{{- $lang := .lang -}}
+{{- $relPermalink := .relPermalink -}}
+{{- $readTime := .readingTime -}}
+{{- $params := .params -}}
+{{- $regPages := .regPages -}}
+{{- $readingTime := (T "readingtime") | default "Appr. reading time" -}}
+{{- $minute := (T "minute") | default "minute" -}}
+{{- $minutes := (T "minutes") | default "minutes" -}}
+{{- $readBefore := (T "readBefore") | default "Read Before" -}}
+{{- $quick_n := (T "quick") | default "Quick" -}}
+{{- $story_n := (T "story") | default "Story" -}}
+{{- $explanation := (T "explanation") | default "Explanation" -}}
+{{- $application := (T "application") | default "Application" -}}
+{{- partial "custom/bible" (dict "lang" $lang) -}}
+
+{{- partial "custom/title.html" (dict "docType" $docType "title" $title) -}}
+{{- if and (not (eq $readTime 0)) (not (eq $readTime 1)) -}}
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
+    <ul>
+    {{- $reading := print $readingTime ": " $readTime " " $minutes -}}
+    {{ partial "shortcodes/card" (dict "title" $reading "icon" "book-open") }}
+    </ul>
+    </div>
+{{- end -}}
+<div class="content">
+  {{- if and $base (or (hasPrefix $relPermalink "/expl") (hasPrefix $relPermalink "/appl")) -}}  
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+    {{ partial "shortcodes/card" (dict "title" $quick_n "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
+    </div>
+  {{- end -}}
+
+  {{- partial "custom/read_before.html" (dict "params" $params) -}}
+  
+  {{ $content }}
+  
+  
+  {{- partial "custom/prev_next.html" (dict "prev" $prev "next" $next) -}}
+  {{- if and $base (not (or (hasPrefix $relPermalink "/expl") (hasPrefix $relPermalink "/appl"))) -}}  
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+    {{ partial "shortcodes/card" (dict "title" $quick_n "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
+    </div>
+  {{- end -}}
+  
+  {{- if $story -}}  
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+    {{ partial "shortcodes/card" (dict "title" $story_n "subtitle" $story.Title "link" $story.RelPermalink "icon" "pencil") }}
+    </div>
+  {{- end -}}
+
+  {{- if $appl -}}  
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+    {{ partial "shortcodes/card" (dict "title" $application "subtitle" $appl.Title "link" $appl.RelPermalink "icon" "chat") }}
+    </div>
+  {{- end -}}
+
+  {{- if $expl -}}  
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+    {{ partial "shortcodes/card" (dict "title" $explanation "subtitle" $expl.Title "link" $expl.RelPermalink "icon" "chat") }}
+    </div>
+  {{- end -}}
+    
+  {{ partial "custom/deeper" (dict "params" $params.deeper "pages" $regPages) }}
+  
+  {{ partial "custom/sources" (dict "page" $about "params" $params.sources) }}
+

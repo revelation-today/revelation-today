@@ -15,27 +15,10 @@
     <article class="hx-w-full hx-break-words hx-flex hx-min-h-[calc(100vh-var(--navbar-height))] hx-min-w-0 hx-justify-center hx-pb-8 hx-pr-[calc(env(safe-area-inset-right)-1.5rem)]">
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
         <br class="hx-mt-1.5 hx-text-sm" />
-        {{- partial "custom/title.html" (dict "docType" .Params.docType "title" .Title) -}}
-        {{- if and (not (eq .ReadingTime 0)) (not (eq .ReadingTime 1)) -}}
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
-            <ul>
-            {{- $reading := print $readingTime ": " .ReadingTime " " $minutes -}}
-            {{ partial "shortcodes/card" (dict "title" $reading "icon" "book-open") }}
-            </ul>
-            </div>
-        {{- end -}}
-        <div class="content">
-          {{- if and (.Params.base) (or (hasPrefix .RelPermalink "/expl") (hasPrefix .RelPermalink "/appl")) -}}  
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
-            {{- $base := .GetPage .Params.base -}}
-            {{ partial "shortcodes/card" (dict "title" $quick "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
-            </div>
+          {{- $base := "" -}}
+          {{- if .Params.base -}}  
+            {{- $base = .GetPage .Params.base -}}
           {{- end -}}
-
-          {{- partial "custom/read_before.html" (dict "params" .Params) -}}
-          
-          {{ .Content }}
-          
           {{- $prev := .Params.prev }}
           {{- $next := .Params.next }}
           {{- if $prev -}}
@@ -44,40 +27,24 @@
           {{- if $next -}}
             {{- $next = .GetPage $next -}}
           {{- end -}}
-          
-          {{- partial "custom/prev_next.html" (dict "prev" $prev "next" $next) -}}
-          {{- if and (.Params.base) (not (or (hasPrefix .RelPermalink "/expl") (hasPrefix .RelPermalink "/appl"))) -}}  
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
-            {{- $base := .GetPage .Params.base -}}
-            {{ partial "shortcodes/card" (dict "title" $quick "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
-            </div>
-          {{- end -}}
-          
+          {{- $story := "" -}}
           {{- if .Params.story -}}  
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
-            {{- $story_page := .GetPage .Params.story -}}
-            {{ partial "shortcodes/card" (dict "title" $story "subtitle" $story_page.Title "link" $story_page.RelPermalink "icon" "pencil") }}
-            </div>
+            {{- $story = .GetPage .Params.story -}}
           {{- end -}}
-
+          {{- $quick := "" -}}
+          {{- if .Params.quick -}}  
+            {{- $quick = .GetPage .Params.quick -}}
+          {{- end -}}
+          {{- $appl := "" -}}
           {{- if .Params.appl -}}  
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
-            {{- $appl := .GetPage .Params.appl -}}
-            {{ partial "shortcodes/card" (dict "title" $application "subtitle" $appl.Title "link" $appl.RelPermalink "icon" "chat") }}
-            </div>
+            {{- $appl = .GetPage .Params.appl -}}
           {{- end -}}
-
+          {{- $expl := "" -}}
           {{- if .Params.expl -}}  
-            <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
-            {{- $expl := .GetPage .Params.expl -}}
-            {{ partial "shortcodes/card" (dict "title" $explanation "subtitle" $expl.Title "link" $expl.RelPermalink "icon" "chat") }}
-            </div>
-          {{- end -}}
-            
-          {{ partial "custom/deeper" (dict "params" .Params.deeper "pages" .Site.RegularPages) }}
-          
-          {{- $aboutPage := .GetPage "/about/ressources" -}}
-          {{ partial "custom/sources" (dict "page" $aboutPage "params" .Params.sources) }}
+            {{- $expl = .GetPage .Params.expl -}}
+          {{- end -}}            
+          {{- $about := .GetPage "/about/ressources" -}}
+        {{ partial "custom/page" (dict "context" . "base" $base "prev" $prev "next" $next "story" $story "quick" $quick "appl" $appl "expl" $expl "about" $about "title" .Title "content" .Content "docType" .Params.docType "lang" .Language.Lang "relPermalink" .RelPermalink "readingTime" .ReadingTime "params" .Params "regPages" .Site.RegularPages) -}}
 
         <div class="hx-mt-16"></div>
         {{ partial "components/comments.html" . }}
