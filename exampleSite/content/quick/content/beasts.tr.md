@@ -25,6 +25,6 @@ Bu ilk bakışta mükemmel bir aldatmaca gibi görünse de, büyük farklılıkl
 
 Kilise ile Şeytan'ın yaptıkları arasındaki fark budur. Şeytan çok fazla güç kullanabilirken, korku ya da manipülasyon olmadan sevgiyle çalışarak ayırt edici olan kilisedir. 
 
-İkinci canavar da ilginçtir: Kuzu gibi iki boynuzu vardır ama ejderha sesi çıkarır] (https://www.bibleserver.com/TR/Vahiy13%3A11). İnsanlar bu aldatmacaya kanacaktır çünkü bu kuzuya benzemektedir. Aradaki fark sadece sesidir. Ve sadece İsa'nın koyunları onun sesini duyar.
+{{% bible val="İkinci canavar da ilginçtir: Kuzu gibi iki boynuzu vardır ama ejderha sesi çıkarır" link="rev:13,11" lang="tr" %}}. İnsanlar bu aldatmacaya kanacaktır çünkü bu kuzuya benzemektedir. Aradaki fark sadece sesidir. Ve sadece İsa'nın koyunları onun sesini duyar.
 
 Yani dünya bununla kandırılır ama kilise farkı görebilir ve buna göre hareket edebilir.

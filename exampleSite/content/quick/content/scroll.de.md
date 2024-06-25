@@ -17,4 +17,4 @@ Die ganze Szene beginnt mit einem Engel, der wie {{% bible val="Jesus" link="rev
 
 Johannes muss diese Schriftrolle essen (verinnerlichen), die süß ist (es ist das Evangelium), aber auch bitter - das werden wir besonders im nächsten Kapitel sehen. Diese Schriftrolle offenbart das Geheimnis Gottes: Es heißt, Jesus gleich zu sein. Was das bedeutet, werden wir in den nächsten Kapiteln erfahren. 
 
-Aber bevor wir dort hineingehen, werden wir daran erinnert, dass Gott [die volle Kontrolle über alles hat, was uns bevorsteht] (https://www.bibleserver.com/SLT/Offenbarung10%3A5): Wie wir sehen, kommen die Tiere aus der Erde und dem Meer, und einen Fuß auf den Boden zu setzen bedeutet, die Kontrolle über etwas zu haben.
+Aber bevor wir dort hineingehen, werden wir daran erinnert, dass Gott {{% bible val="die volle Kontrolle über alles hat, was uns bevorsteht" link="rev:10,5" lang="de" %}}: Wie wir sehen, kommen die Tiere aus der Erde und dem Meer, und einen Fuß auf den Boden zu setzen bedeutet, die Kontrolle über etwas zu haben.

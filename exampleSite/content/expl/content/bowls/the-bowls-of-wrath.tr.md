@@ -51,7 +51,7 @@ Yedi kase ve {{% int_link val="yedi borazanın" link="/expl/content/trumpets/the
 <a name="33de"></a>
 Altıncı kaseye biraz daha yakından bakmamız gerekiyor.
 
-{{% bible val="Fırat nehri Doğu’nun krallarına yol açmak için kurutuldu" link="rev:16,12" lang="tr" %}}. Herod’a göre Babil, Persler (doğudan gelen) [tarafından Babil’in doğal koruması olan Fırat nehrinin yönü değiştirilerek yenilgiye uğratıldığı için](https://en.wikipedia.org/wiki/Fall_of_Babylon#Historiography), bu zaten Armagedon’un yenilgisini öngören ironik bir ifadedir. Vahiy kitabının yazıldığı dönemde yaygın olan inanış muhtemelen tarihsel olarak böyle değildi.
+{{% bible val="Fırat nehri Doğu’nun krallarına yol açmak için kurutuldu" link="rev:16,12" lang="tr" %}}. Herod’a göre Babil, Persler (doğudan gelen)[tarafından Babil’in doğal koruması olan Fırat nehrinin yönü değiştirilerek yenilgiye uğratıldığı için](https://en.wikipedia.org/wiki/Fall_of_Babylon#Historiography), bu zaten Armagedon’un yenilgisini öngören ironik bir ifadedir. Vahiy kitabının yazıldığı dönemde yaygın olan inanış muhtemelen tarihsel olarak böyle değildi.
 
 {{% bible val="Ejderha ve arkadaşlarının ağzından çıkan üç kurbağanın da ilginç" link="rev:16,13" lang="tr" %}} bir arka planı vardır. Kurbağalar, bereket/doğum [Tanrısı Heqed’in hayvan temsilidir ve ona diriltme gücü de vermiştir](https://en.wikipedia.org/wiki/Heqet). {{% bible val="Burada diriltilmiş canavarın yenilmez olduğu iddiası vardır." link="rev:13,3-4" lang="tr" %}}
 

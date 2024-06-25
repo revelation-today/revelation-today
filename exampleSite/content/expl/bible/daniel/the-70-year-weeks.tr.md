@@ -92,7 +92,7 @@ Savaş 7 yıl sonra 73'te sona erer ve bundan sonra bazı huzursuzluklardan sonr
 <a name="f724"></a>
 {{% bible val="27" link="luk:3,1" lang="tr" %}} yılında ([Tiberius'un saltanatının 12 yılında başladığı varsayımıyla](https://www.tyndalebulletin.org/article/37789-reckoning-tiberius-s-reign-and-jesus-s-baptism-first-and-second-century-evidence-concerning-tiberius-s-fifteenth-year-luke-3-1.pdf)) İsa çağrılır ve Kutsal Ruh'la vaftiz edilir ve {{% bible val="Yahudilerle antlaşmayı yeniler" link="mat:15,23-24" lang="tr" %}}. Yedi yılın ortasında (31. yıl) ölür ve tekrar dirilir ve antlaşma artık Yahudi olmayanları da kapsar. Onun ölümüyle birlikte kurban hizmeti artık gerekli değildir.
 
-Yedi yılın sonu, İsrail'i antlaşmayı terk etmekle suçladığı konuşmasından sonra [muhtemelen İstefanos'un taşlanarak öldürüldüğü] (https://www.bibleserver.com/TR/El%C3%A7ilerin%20%C4%B0%C5%9Fleri7) 34 yılına denk gelir. İsa'nın ölümünden sonra ilk kez bir Hıristiyan inancı uğruna ölür ve Yahudi olmayanlar arasında inancı çok güçlü bir şekilde yayacak olan Pavlus'tan ilk kez söz edilir. 
+Yedi yılın sonu, İsrail'i antlaşmayı terk etmekle suçladığı konuşmasından sonra {{% bible val="muhtemelen \İstefanos'un ta\şlanarak öldürüldü\ğü" link="act:7" lang="tr" %}} 34 yılına denk gelir. İsa'nın ölümünden sonra ilk kez bir Hıristiyan inancı uğruna ölür ve Yahudi olmayanlar arasında inancı çok güçlü bir şekilde yayacak olan Pavlus'tan ilk kez söz edilir. 
 
 Kilisenin İsa'yı tam anlamıyla takip ettiği zamandır. Yeni antlaşma artık gerçekten aktiftir.
 

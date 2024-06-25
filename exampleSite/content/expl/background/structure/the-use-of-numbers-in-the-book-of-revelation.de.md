@@ -89,7 +89,7 @@ Dazu kommen die {{% bible val="3x4 Tore" link="rev:21,13" lang="de" %}} und die 
 ## Andere Zahlen
 
 <a name="8d23"></a>
-- Das Wort [“Frau“ (gene) kommt 10 mal vor](https://biblehub.com/greek/strongs_1135.htm) [”Braut” 3 mal](https://biblehub.com/greek/3565.htm) und [”Heilige” 14 mal](https://biblehub.com/greek/40.htm), wobei jedesmal die Gemeinde Gottes gemeint ist.
+- Das Wort [“Frau“ (gene) kommt 10 mal vor](https://biblehub.com/greek/strongs_1135.htm), [”Braut” 3 mal](https://biblehub.com/greek/3565.htm) und [”Heilige” 14 mal](https://biblehub.com/greek/40.htm), wobei jedesmal die Gemeinde Gottes gemeint ist.
 - Die [Gegengemeinde der Hure kommt 4 mal](https://biblehub.com/greek/4204.htm) vor, die [Frau 7 mal](https://biblehub.com/greek/1135.htm), die [Bewohner der Erde 10 mal](https://biblehub.com/greek/3625.htm).
 - Babel und “groß” wird 6 mal verwendet. 6 mal wird die Frau als Bezeichnung für die Hure Babel verwendet. 6 ist die Zahl des Menschen (im Gegensatz zu Gott), da er am sechsten Tag erschaffen wurde.
 

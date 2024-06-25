@@ -31,7 +31,7 @@ Die Hure beeinflusste die Herrscher dieser Welt, um Wohlstand zu bringen (seien 
 
 ## Die Auswirkungen und das Gericht der Hure
 
-Die Hure, auch wenn sie von außen wie die Kirche aussieht, ist ein erbitterter Feind der Kirche und ihrer Zeugen und richtet Unheil an. Bei näherer Betrachtung ist die Hure die Ursache für das [dritte Siegel] (https://www.bibleserver.com/NIV/Revelation6%2C5-6): Hunger, der auf wirtschaftlicher Ungerechtigkeit beruht, aber die Verfügbarkeit von Luxusgütern und die Versorgung der Reichen trotz des Leidens der Massen sicherstellt. Menschen werden als Material wie andere Ressourcen betrachtet.
+Die Hure, auch wenn sie von außen wie die Kirche aussieht, ist ein erbitterter Feind der Kirche und ihrer Zeugen und richtet Unheil an. Bei näherer Betrachtung ist die Hure die Ursache für das {{% bible val="dritte Siegel" link="rev:6,5-6" lang="de" %}}: Hunger, der auf wirtschaftlicher Ungerechtigkeit beruht, aber die Verfügbarkeit von Luxusgütern und die Versorgung der Reichen trotz des Leidens der Massen sicherstellt. Menschen werden als Material wie andere Ressourcen betrachtet.
 
 Die perfekte Kirche zu sein (eine Kirche, die sich auf Segen und Wohlstand konzentriert und nicht auf unbequemes Zeugnis und Märtyrertum) ist auch die Bestimmung der Hure: Während das Tier versucht, die Kirche anzugreifen, greift Jesus ein und statt der Kirche ist die Hure das Ziel. Die Könige, als Vertreter des Tieres, bringen das Gericht über die Hure.
 
@@ -39,7 +39,7 @@ Die Hure ist hochmütig und hält sich für unantastbar, deshalb wird ihr Gerich
 
 ![](/images/Hure_de.jpg)
 
-Warum wird die Beschreibung der Hure so ausführlich behandelt (mehr als zwei Kapitel)? Weil wir aus der Bequemlichkeit in die Gerechtigkeit gerufen werden. Wenn wir [Teil der Hure] (https://www.bibleserver.com/NIV/Revelation18%3A4) sind, wird das zu Götzendienst führen (im Alten Testament ist Götzendienst mit Handel verbunden), und das wird unser Verhalten dahingehend verändern, dass wir Menschen nicht lieben, sondern ausbeuten.
+Warum wird die Beschreibung der Hure so ausführlich behandelt (mehr als zwei Kapitel)? Weil wir aus der Bequemlichkeit in die Gerechtigkeit gerufen werden. Wenn wir {{% bible val="Teil der Hure" link="rev:18,4" lang="de" %}} sind, wird das zu Götzendienst führen (im Alten Testament ist Götzendienst mit Handel verbunden), und das wird unser Verhalten dahingehend verändern, dass wir Menschen nicht lieben, sondern ausbeuten.
 
 ## Und jetzt?
 

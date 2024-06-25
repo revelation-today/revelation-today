@@ -35,7 +35,7 @@ Armageddon kelimesinin üç çevirisi vardır:
 - Megiddo Dağı -> Alışılmadık kahramanlarla birçok savaşın yaşandığı yer
     - {{% bible val="Jael adında bir ev kadını bir ordu liderinin üstesinden gelir" link="jdg:4" lang="tr" %}}
     - {{% bible val="depresif peygamber bir ulusu kurtarır - Karmel Megiddo yakınlarındaki dağdır" link="1ki:18" lang="tr" %}}
-    - [tek bir adam aynı gün iki ülkenin hükümdarını devirir] (https://www.bibleserver.com/TR/2.Krallar9)
+    - {{% bible val="tek bir adam aynı gün iki ülkenin hükümdarını devirir" link="1ki:9" lang="tr" %}}
     - {{% bible val="bir kral savaşa girer, savaşı kaybeder ve ölür, ama tarihi değiştirir" link="2ch:35,20-24" lang="tr" %}}
     
 Bir şey açıktır: Savaş Armagedon'da olmaz, çünkü burada da gösterildiği gibi orduların toplandığı yerler dağlardır.

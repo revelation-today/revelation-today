@@ -61,7 +61,7 @@ Bu tanıma uyan kişi imparator [Trajan](https://en.wikipedia.org/wiki/Trajan)�
 
 - o dönemde yaşıyordu (98–117 arası imparator) ve iyi bir örnek
 - uymadıkları takdirde Hıristiyanlara yapılan zulümleri desteklemiştir.
-- ancak askeri başarısı nedeniyle [5 iyi imparatordan biri](https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty#Five_Good_Emperors) olarak kabul edildi (onun döneminde Roma imparatorluğu en büyük genişlemesine sahip oldu) [büyük bir refah programı kurdu](https://en.wikipedia.org/wiki/Alimenta), [büyük bina projeleri vardı ](https://en.wikipedia.org/wiki/Trajan#Building_projects)ve [oyunlara çok yatırım yapt](https://en.wikipedia.org/wiki/Trajan#Games)ı, bunların hepsi [Pax Romana’yı ](https://en.wikipedia.org/wiki/Pax_Romana)yansıtıyordu
+- ancak askeri başarısı nedeniyle [5 iyi imparatordan biri](https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty#Five_Good_Emperors) olarak kabul edildi (onun döneminde Roma imparatorluğu en büyük genişlemesine sahip oldu), [büyük bir refah programı kurdu](https://en.wikipedia.org/wiki/Alimenta), [büyük bina projeleri vardı](https://en.wikipedia.org/wiki/Trajan#Building_projects) ve [oyunlara çok yatırım yapt](https://en.wikipedia.org/wiki/Trajan#Games)ı, bunların hepsi [Pax Romana’yı](https://en.wikipedia.org/wiki/Pax_Romana) yansıtıyordu
 
 ## Daniels’ın fırındaki arkadaşları
 

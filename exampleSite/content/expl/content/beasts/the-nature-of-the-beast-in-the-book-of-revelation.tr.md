@@ -99,11 +99,11 @@ Tüm bunlar göz önüne alındığında, Şeytan’ın şeytani bir Üçlü Bir
 
 | Ejderha ve iki canavar | Baba, Oğul ve Kutsal Ruh |
 |------------------------|--------------------------|
-| [Bu dünyanın krallıklarını temsil eder] (https://www.bibleserver.com/TR/Vahiy13%2C1) | [İsa'nın krallığı bu dünyadan değildir] (https://www.bibleserver.com/TR/Yuhanna18%2C36) |
-| [Onun dirilişi korku yaratır ("Onunla kim savaşabilir?")](https://www.bibleserver.com/TR/Vahiy13%2C3) | {{% bible val="Hiç kimse dostları için canını veren biri kadar sevgiye sahip olamaz" link="jhn:15,13" lang="tr" %}} |
-| [Başlarından biri ölümcül şekilde yaralanmıştır.] (https://www.bibleserver.com/TR/Vahiy13%2C3) | İsa tamamen öldü ve dirildi |
+| {{% bible val="Bu dünyanın krallıklarını temsil eder" link="rev:13,1" lang="tr" %}} | {{% bible val="İsa'nın krallığı bu dünyadan değildir" link="jhn:18,36" lang="tr" %}} |
+| {{% bible val="Onun dirilişi korku yaratır ('Onunla kim savaşabilir?')" link="rev:13,3" lang="tr" %}} | {{% bible val="Hiç kimse dostları için canını veren biri kadar sevgiye sahip olamaz" link="jhn:15,13" lang="tr" %}} |
+| {{% bible val="Başlarından biri ölümcül şekilde yaralanmıştır." link="rev:13,3" lang="tr" %}} | İsa tamamen öldü ve dirildi |
 | {{% bible val="Sadece 42 ay boyunca gücü vardır" link="rev:13,5" lang="tr" %}} | {{% bible val="İsa sonsuzlukta hüküm sürer" link="rev:1,18" lang="tr" %}} ({{% bible val="Ibr.6/20" link="heb:6,20" lang="tr" %}}) |
-| [İkinci canavar ejderha gibi konuşuyor] (https://www.bibleserver.com/TR/Vahiy13%2C11) | |
+| {{% bible val="İkinci canavar ejderha gibi konuşuyor" link="rev:13,11" lang="tr" %}} | |
 | {{% bible val="İnsanların önünde büyük işler yapar" link="rev:13,13-14" lang="tr" %}} | {{% bible val="İsa sık sık gizli işler yapar" link="mat:4,5-7" lang="tr" %}} ({{% bible val="Mt.9/30" link="mat:9,30" lang="tr" %}}, {{% bible val="Mk.5/43" link="mrk:5,43" lang="tr" %}}) |
 | {{% bible val="Kendisine ibadet etmeyen herkesi öldürür" link="rev:13,15" lang="tr" %}} | {{% bible val="Kutsal Ruh etkilenebilir" link="eph:4,30" lang="tr" %}} ve {{% bible val="zorlamaz" link="2co:3,17" lang="tr" %}} |
 
