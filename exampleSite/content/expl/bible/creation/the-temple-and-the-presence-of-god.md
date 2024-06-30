@@ -4,7 +4,7 @@ weight: 10
 base: /quick/bible/creation
 story: /story/bible/creation
 prev: /expl/bible/creation/the-creation
-next: /expl/bible/exodus/the-story-before-the-exodus
+next: /expl/bible/creation/the-story-of-uzzah
 docType: expl
 sources:
     - ref: beale_dwell

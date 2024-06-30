@@ -3,7 +3,7 @@ title: "Mısır’dan Çıkıştan Önceki Hikaye"
 weight: 10
 base: /quick/bible/creation
 story: /story/bible/creation
-prev: /expl/bible/creation/the-creation
+prev: /expl/bible/creation/the-story-of-uzzah
 next: /expl/bible/exodus/the-birth-of-moses
 docType: expl
 sources:
