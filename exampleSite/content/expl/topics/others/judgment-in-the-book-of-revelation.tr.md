@@ -2,6 +2,7 @@
 title: "Vahiy kitabındaki yargı"
 weight: 5
 prev: /expl/topics/others/the-rapture
+next: /welcome/done
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 ---

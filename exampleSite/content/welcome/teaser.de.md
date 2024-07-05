@@ -1,5 +1,7 @@
 ---
 title: Willkommen
+prev: /
+next: /welcome
 weight: 2
 ---
 

@@ -1,5 +1,8 @@
 ---
 başlık: "Proje hakkında"
+prev: /
+next: /welcome/teaser
+weight: 50
 ---
 
 Merhaba, ben Hagen,

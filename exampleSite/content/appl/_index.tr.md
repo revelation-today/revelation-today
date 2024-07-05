@@ -1,5 +1,5 @@
 ---
 title: "Uygulama"
-weight: 6
+weight: 30
 ---
 

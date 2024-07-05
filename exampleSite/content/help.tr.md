@@ -1,5 +1,7 @@
 ---
 Başlık: Yardım
+prev: /
+next: /welcome/teaser
 ---
 
 Size sayfanın nasıl çalıştığı ve nasıl gezindiğiniz hakkında bir fikir vereyim.

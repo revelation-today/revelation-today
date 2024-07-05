@@ -1,5 +1,7 @@
 ---
 title: Das Buch Offenbarung
+prev: /
+next: /welcome/teaser
 layout: hextra-home
 ---
 
@@ -44,4 +46,5 @@ layout: hextra-home
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
 {{< /hextra/feature-grid >}}
+
 

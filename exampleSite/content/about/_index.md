@@ -1,5 +1,8 @@
 ---
 title: "About"
+prev: /
+next: /welcome/teaser
+weight: 50
 ---
 
 Hi, I'm Hagen.

@@ -18,7 +18,11 @@
 
 {{- $exclude := slice -}}
 {{- $exclude = $exclude | append "/thanks/" -}}
+{{- $exclude = $exclude | append "/contact/" -}}
 {{- $exclude = $exclude | append "/welcome/done/" -}}
+{{- $exclude = $exclude | append "/welcome/done_story/" -}}
+{{- $exclude = $exclude | append "/welcome/done_quick/" -}}
+{{- $exclude = $exclude | append "/welcome/done_appl/" -}}
 {{- $exclude = $exclude | append "/help/" -}}
 {{- $exclude = $exclude | append "/about/ressources/" -}}
 {{- $docType := $params.docType -}}

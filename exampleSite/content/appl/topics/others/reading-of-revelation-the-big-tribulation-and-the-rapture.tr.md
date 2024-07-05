@@ -1,6 +1,7 @@
 ---
 title: "Vahiy Okuması: Büyük Sıkıntı ve Kıyamet"
 prev: /appl/topics/power/the-key-of-prayer
+next: /welcome/done_appl
 docType: appl
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: "Açıklama"
-weight: 6
+weight: 40
 ---
 

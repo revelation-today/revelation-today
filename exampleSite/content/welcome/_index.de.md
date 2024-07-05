@@ -1,6 +1,8 @@
 ---
 title: Willkommen
 weight: 1
+prev: /welcome/teaser
+next: /welcome/story
 ignore: true
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: "Özet"
-weight: 6
+weight: 20
 ---
 

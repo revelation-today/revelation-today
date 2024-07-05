@@ -1,5 +1,5 @@
 ---
 title: "Erklärung"
-weight: 6
+weight: 40
 ---
 

@@ -53,16 +53,20 @@ menu:
   main:
     - identifier: tour
       name: Tour
+      params:
+        icon: map
       pageRef: /welcome
       weight: 1
     - identifier: contact
       name: Contact
+      params:
+        icon: chat
       pageRef: /contact
       weight: 3
     - identifier: about
       name: About
       pageRef: /about
-      weight: 6
+      weight: 2
     - identifier: help
       name: Help
       pageRef: /help

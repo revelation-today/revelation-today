@@ -1,5 +1,7 @@
 ---
 title: Vahiy kitabı
+prev: /
+next: /welcome/teaser
 layout: hextra-home
 ---
 

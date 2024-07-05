@@ -1,5 +1,7 @@
 ---
 title: "Genutzte Literatur"
+prev: /about
+next: /welcome/expl
 ---
 
 ## Das Material

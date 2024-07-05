@@ -1,5 +1,7 @@
 ---
 title: Help
+prev: /
+next: /welcome/teaser
 ---
 
 Let me give you an idea how the page works and how you navigate.

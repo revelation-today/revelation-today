@@ -1,5 +1,7 @@
 ---
 title: Welcome
+prev: /
+next: /welcome
 weight: 2
 ---
 

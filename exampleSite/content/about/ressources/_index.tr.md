@@ -1,5 +1,7 @@
 ---
 title: "Kullanılan literatür"
+prev: /about
+next: /welcome/expl
 ---
 
 ## Malzemeler

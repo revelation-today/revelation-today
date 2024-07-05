@@ -1,5 +1,7 @@
 ---
 title: Hoş geldiniz
+prev: /
+next: /welcome
 weight: 2
 ---
 

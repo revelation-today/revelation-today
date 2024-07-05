@@ -1,5 +1,7 @@
 ---
 title: "Used literature"
+prev: /about
+next: /welcome/expl
 ---
 
 When you want to study the book of Revelation, it is hard to know where to start. There is so much material and so many different views. How do you begin? This guide will give you some direction. I will try to make things as transparent as possible so that you can also look at other views.

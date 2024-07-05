@@ -1,6 +1,8 @@
 ---
 title: Welcome
 weight: 1
+prev: /welceom/teaser
+next: /welcome/story
 ignore: true
 ---
 

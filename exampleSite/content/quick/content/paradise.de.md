@@ -5,7 +5,7 @@ story: /story/content/1000y
 appl: /appl/content/paradise/what-is-heaven-and-hell-about
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /quick/content/1000y
-next: /welcome/done
+next: /welcome/done_quick
 docType: quick
 ---
 

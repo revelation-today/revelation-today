@@ -1,5 +1,8 @@
 ---
 Titel: "Über das Projekt"
+prev: /
+next: /welcome/teaser
+weight: 50
 ---
 
 Hallo, ich bin Hagen,

@@ -1,5 +1,7 @@
 ---
 Titel: Hilfe
+prev: /
+next: /welcome/teaser
 ---
 
 Ich möchte dir eine Idee geben, wie die Seite funktioniert und wie du navigierst.
