@@ -127,7 +127,7 @@ Amaç herkesin bir taraf seçmeye zorlanmasıdır — tarafsız bir zemin yoktur
 
 Kıyamete en yakın benzetme siyasi bir karikatür olabilir
 
-{{< figure src="/images/20200620_WWD000.avif" title="Src: https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" >}}
+![](/images/20200620_WWD000.avif) <!-- https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" -->
 
 Bu resmi gördüğümüzde, ejderhaların Yoga yaptığını ya da hatta var olduklarını varsaymadan mesajı kavrıyoruz.
 

@@ -34,7 +34,7 @@ Wir haben die Weihnachtsgeschichte so oft gehört, dass wir sie gar nicht mehr r
 
 Auf den ersten Blick denkst du wahrscheinlich eher an so etwas:
 
-{{< figure src="/images/Dragon-and-woman-revelation-luther-bibel.jpg" title="Src: https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" >}}
+![](/images/Dragon-and-woman-revelation-luther-bibel.jpg) <!-- https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" -->
 
 Diese Geschichte ist so voll von geheimnisvollen Figuren, dass es zunächst verwirrend ist. Aber lassen wir die Geschichte auf uns wirken.
 

@@ -127,7 +127,7 @@ Es wird viel Symbolsprache verwendet, um auf die (duale) Realität aufmerksam zu
 
 Die heute am ehesten vergleichbare literarische Form wäre der politische Cartoon.
 
-{{< figure src="/images/20200620_WWD000.avif" title="Src: https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" >}}
+![](/images/20200620_WWD000.avif) <!-- https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" -->
 
 Wenn du dieses Bild siehst, wirst du seine Botschaft verstehen, ohne an die Existenz von Drachen zu glauben oder daran, dass sie jemals Yoga praktizieren.
 

@@ -19,7 +19,7 @@ Kutsal Kitap’taki Vahiy Kitabı’nda yer alan fahişe Babil’in hikâyesi en
 <a name="cbea"></a>
 Bu dönemde mevcut olan popüler bir madeni paraya göz atalım
 
-{{< figure src="/images/coin.png" title="Src: https://www.britishmuseum.org/collection/object/C_1872-0709-477" >}}
+![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
 
 Ön sayfada İmparator Vespasianus’u (69–79 yılları arasında hüküm sürmüştür) ve “İmparator Ceasar Vespasianus Aug PM TP PP COS III” yani “İmparator Ceasar Vespasian Augustus Pontifex Maximus (en büyük rahip), Tribunicia Potestas (mahkeme gücü), Pater Patriae (anavatanın babası), üçüncü kez Konsül” yazısını görebilirsiniz ki bu imparatorun gücüne ve başarısına bir övgüdür.
 

@@ -1,7 +1,7 @@
 {{- $enableFooterSwitches := .Scratch.Get "enableFooterSwitches" | default false -}}
 {{- $displayThemeToggle := site.Params.theme.displayToggle | default true -}}
 {{- $editThisPage := (T "editThisPage") | default "Edit this page"}}
-{{- $contact := (T "contact") | default "Contact us" -}}
+{{- $about := (T "about") | default "About" -}}
 {{- $copyright := (T "copyright") | default "© 2024 Hextra." -}}
 {{- $poweredBy := (T "poweredBy") | default "Powered by Hextra" -}}
 
@@ -30,7 +30,7 @@
               {{- $editURL = urls.JoinPath $editURL $sourceDir $path -}}
             {{- end -}}
           <a class="hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50" href="{{ $editURL }}" target="_blank" rel="noreferer">{{ $editThisPage }}</a>
-          <a class="hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50" href="/revelation-today/contact" target="_blank" rel="noreferer">{{ $contact }}</a>
+          <a class="hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50" href="/revelation-today/about" target="_blank" rel="noreferer">{{ $about }}</a>
         </div>
     </div>
     {{- if or site.IsMultiLingual $displayThemeToggle -}}

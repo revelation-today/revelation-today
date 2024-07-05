@@ -29,6 +29,10 @@ This story shows a certain aspect of Christmas, and we’ve heard it so many tim
 
 [A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. She was pregnant and cried out in pain as she was about to give birth. Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on its heads. Its tail swept a third of the stars out of the sky and flung them to the earth. The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born. She gave birth to a son, a male child, who ‘will rule all the nations with an iron sceptre.’ And her child was snatched up to God and to his throne.](Rev.12/1–5)
 
+At first glance, you probably think of something like this:
+
+![](/images/Dragon-and-woman-revelation-luther-bibel.jpg) <!-- https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" -->
+
 There are a lot of mysterious figures in this scene, but before we try to understand who is who, let us put this scene in perspective.
 - We have a woman who, despite some heavenly attribute, is one thing: pregnant and about to give birth. To say the least, she is in no shape for a major battle.
 - On the other side is a huge and angry (red) dragon that has only one goal: to devour the child that is about to be born.

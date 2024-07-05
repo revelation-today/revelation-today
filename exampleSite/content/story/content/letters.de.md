@@ -26,5 +26,5 @@ Bleibt noch Laodizea, das als einziges von Jesus gelobt wird, obwohl die Gemeind
 
 Aber Jesus gibt sie nicht auf, er gibt ihnen individuelle Ratschläge, Warnungen und Verheißungen.
 
-{{< figure src="/images/Churches_de.jpg" title="Src: https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" >}}
+![](/images/Churches_de.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" -->
 

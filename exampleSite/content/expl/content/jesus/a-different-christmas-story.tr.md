@@ -34,7 +34,7 @@ Bu hikâye Noel’in belli bir yönünü gösteriyor ve biz bu hikâyeyi o kadar
 
 İlk başta bunu şöyle bir şey olarak düşünebilirsiniz
 
-{{< figure src="/images/Dragon-and-woman-revelation-luther-bibel.jpg" title="Src: https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" >}}
+![](/images/Dragon-and-woman-revelation-luther-bibel.jpg) <!-- https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" -->
 
 Bu sahnede birçok gizemli figür var, ancak kimin kim olduğunu anlamaya çalışmadan önce bu sahneyi biraz oturtalım.
 

@@ -26,5 +26,5 @@ Which leaves us with Laodicea which is the only one that does now receive any ki
 
 But Jesus does not give up on them, he gives individual advice, warnings and promises.
 
-{{< figure src="/images/Churches_en.jpg" title="Src: https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" >}}
+![](/images/Churches_en.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg -->
 

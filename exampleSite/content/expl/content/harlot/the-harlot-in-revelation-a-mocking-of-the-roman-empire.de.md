@@ -19,7 +19,7 @@ Die Geschichte von der Hure Babel in der Offenbarung ist eine der komplexesten E
 <a name="12e6"></a>
 Werfen wir einen Blick auf eine damals weit verbreitete Münze:
 
-{{< figure src="/images/coin.png" title="Src: https://www.britishmuseum.org/collection/object/C_1872-0709-477" >}}
+![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
 
 Die Vorderseite zeigt Kaiser Vespasian (regierte von 69 bis 79) und die Inschrift “Imp Ceasar Vespasianus Aug PM TP PP COS III”, was soviel bedeutet wie “Kaiser Ceasar Vespasian Augustus Pontifex Maximus (Oberster Priester), Tribunicia Potestas (Gerichtsgewalt), Pater Patriae (Vater des Vaterlandes), Consul zum dritten Mal”, was die Macht und die Errungenschaften des Kaisers beschreibt.
 

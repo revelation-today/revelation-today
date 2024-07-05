@@ -127,7 +127,7 @@ Symbolic language is used to make the (dual) reality clearer and is not meant to
 
 The closest comparison to an apocalypse might be a political cartoon.
 
-{{< figure src="/images/20200620_WWD000.avif" title="Src: https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" >}}
+![](/images/20200620_WWD000.avif) <!-- https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" -->
 
 When we see this picture, we get the message without assuming that dragons are doing yoga or that they even exist.When we look at the book of Revelation, we see these elements.
 
