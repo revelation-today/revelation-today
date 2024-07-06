@@ -70,7 +70,7 @@ Bölüm 17'deki canavar ile Bölüm 13'teki ilk canavar arasında güçlü bir p
 | {{% bible val="Kafa kesilmiş gibi, tekrar büyüyor" link="rev:13,3" lang="tr" %}} | {{% bible val="5 kral öldü, yedincisi henüz gelmedi" link="rev:17,10" lang="tr" %}} |
 | {{% bible val="Canavarla kim savaşabilir" link="rev:13,4" lang="tr" %}} | {{% bible val="Canavar Kralların Kralına savaş açtı" link="rev:17,14" lang="tr" %}} |
 | {{% bible val="Küfür konuşması" link="rev:13,5-6" lang="tr" %}} | {{% bible val="Küfürlü isim" link="rev:17,3" lang="tr" %}} |
-| {{% bible val="Kutsallara karşı savaşın" link="rev:13,7" lang="tr" %}} | ve <span style="color:red;">onları yenin</span> | {{% bible val="Kuzu'a karşı savaşır" link="rev:17,14" lang="tr" %}}</td> ve <span style="color:red;">üstesinden gelir</span> {{% bible val="yok etmeye fahişe ve karşı savaşın" link="rev:17,16" lang="tr" %}} |
+| {{% bible val="Kutsallara karşı savaşın" link="rev:13,7" lang="tr" %}} | ve <span style="background:red;">onları yenin</span> | {{% bible val="Kuzu'a karşı savaşır" link="rev:17,14" lang="tr" %}}</td> ve <span style="background:red;">üstesinden gelir</span> {{% bible val="yok etmeye fahişe ve karşı savaşın" link="rev:17,16" lang="tr" %}} |
 | {{% bible val="Yaşam kitabında yazılı olmayan herkes canavara tapar" link="rev:13,8" lang="tr" %}} | {{% bible val="Hayat kitabında yazılı olmayan herkes bunalıma uğrar" link="rev:17,8" lang="tr" %}} |
 
 Ancak 13. bölümdeki ikinci canavar ile fahişe arasında da güçlü bir bağ vardır
