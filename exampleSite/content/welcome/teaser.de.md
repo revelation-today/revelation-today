@@ -1,5 +1,5 @@
 ---
-title: Willkommen
+title: Warum dieses Buch
 prev: /
 next: /welcome
 weight: 2

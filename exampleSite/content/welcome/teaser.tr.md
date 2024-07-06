@@ -1,5 +1,5 @@
 ---
-title: Hoş geldiniz
+title: Neden bu kitap
 prev: /
 next: /welcome
 weight: 2

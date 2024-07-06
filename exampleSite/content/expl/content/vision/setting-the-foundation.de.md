@@ -63,7 +63,7 @@ Jetzt kommt der Abschnitt, der in jedem Brief des Neuen Testaments vorkommt, in 
 
 - Er HAT uns zu Königen und Priestern gemacht. Wir sind schon Könige, wir müssen es nur noch ausüben, aber nicht so, wie die Welt.
 
-## We kommt mit den Wolken
+## Er kommt mit den Wolken
 
 <a name="aaf2"></a>
 “{{% bible val="Siehe, er kommt mit den Wolken, und jedes Auge wird ihn sehen, auch die, welche ihn durchstochen haben; und es werden sich seinetwegen an die Brust schlagen alle Geschlechter der Erde! Ja, Amen." link="rev:1,7" lang="de" %}}”

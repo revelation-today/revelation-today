@@ -24,6 +24,7 @@
 {{- $story_n := (T "story") | default "Story" -}}
 {{- $explanation := (T "explanation") | default "Explanation" -}}
 {{- $application := (T "application") | default "Application" -}}
+{{- $toBottom := (T "toBottom") | default "To bottom" -}}
 {{- partial "custom/bible" (dict "lang" $lang) -}}
 
 {{- partial "custom/title.html" (dict "docType" $docType "title" $title) -}}
@@ -33,10 +34,21 @@
     {{- $reading := print $readingTime ": " $readTime " " $minutes -}}
     {{ partial "shortcodes/card" (dict "title" $reading "icon" "book-open") }}
     </ul>
+    <ul>
+            {{/* Scroll To Bottom */}}
+        <button aria-hidden="false" id="toBottom" onClick="scrollDown();" class="hx-transition-all hx-duration-75 hx-opacity-100 hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50">
+          <span>
+            {{- $toBottom -}}
+          </span>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hx-inline ltr:hx-ml-1 rtl:hx-mr-1 hx-h-3.5 hx-w-3.5 hx-border hx-rounded-full hx-border-gray-500 hover:hx-border-gray-900 dark:hx-border-gray-400 dark:hover:hx-border-gray-100 contrast-more:hx-border-gray-800 contrast-more:dark:hx-border-gray-50">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 8.75l7.5 7.5 7.5 -7.5" />
+          </svg>
+        </button>
+    </ul>
     </div>
 {{- end -}}
 <div class="content">
-  {{- if and $base (or (hasPrefix $relPermalink "/expl") (hasPrefix $relPermalink "/appl")) -}}  
+  {{- if and $base (or (hasPrefix $relPermalink "/expl") (hasPrefix $relPermalink "/appl") (hasPrefix $relPermalink (print "/" $lang "/expl")) (hasPrefix $relPermalink (print "/" $lang "/appl"))) -}}  
     <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
     {{ partial "shortcodes/card" (dict "title" $quick_n "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
     </div>
@@ -48,7 +60,7 @@
   
   
   {{- partial "custom/prev_next.html" (dict "prev" $prev "next" $next) -}}
-  {{- if and $base (not (or (hasPrefix $relPermalink "/expl") (hasPrefix $relPermalink "/appl"))) -}}  
+  {{- if and $base (not (or (hasPrefix $relPermalink "/expl") (hasPrefix $relPermalink "/appl") (hasPrefix $relPermalink (print "/" $lang "/expl")) (hasPrefix $relPermalink (print "/" $lang "/appl")))) -}}  
     <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
     {{ partial "shortcodes/card" (dict "title" $quick_n "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
     </div>
