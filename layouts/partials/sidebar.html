@@ -3,6 +3,7 @@
 {{- $params := .params | default dict  -}}
 {{- $regPages := .regPages | default dict -}}
 {{- $pages := .pages | default slice -}}
+{{- $lang := .lang | default "en" -}}
 {{- $disableSidebar := .disableSidebar | default false -}}
 {{- $displayPlaceholder := .displayPlaceholder | default false -}}
 {{- $sidebarClass := cond $disableSidebar (cond $displayPlaceholder "md:hx-hidden xl:hx-block" "md:hx-hidden") "md:hx-sticky" -}}
@@ -25,8 +26,19 @@
 {{- $exclude = $exclude | append "/welcome/done_appl/" -}}
 {{- $exclude = $exclude | append "/help/" -}}
 {{- $exclude = $exclude | append "/about/ressources/" -}}
+{{- $exclude = $exclude | append (print "/" $lang "/thanks/") -}}
+{{- $exclude = $exclude | append (print "/" $lang "/contact/") -}}
+{{- $exclude = $exclude | append (print "/" $lang "/welcome/done/") -}}
+{{- $exclude = $exclude | append (print "/" $lang "/welcome/done_story/") -}}
+{{- $exclude = $exclude | append (print "/" $lang "/welcome/done_quick/") -}}
+{{- $exclude = $exclude | append (print "/" $lang "/welcome/done_appl/") -}}
+{{- $exclude = $exclude | append (print "/" $lang "/help/") -}}
+{{- $exclude = $exclude | append (print "/" $lang "/about/ressources/") -}}
 {{- $docType := $params.docType -}}
-{{- $docType := index (split $pageURL "/") 1 -}}
+{{- $docType = index (split $pageURL "/") 1 -}}
+{{- if not (eq $lang "en") -}}
+  {{- $docType = index (split $pageURL "/") 2 -}}
+{{- end -}}
 {{- range $pages -}}
   {{- $secLink := .RelPermalink -}}
   {{- if not $docType -}}
@@ -37,7 +49,9 @@
     {{- else if not (hasPrefix $secLink "/welcome") -}}
       {{- $exclude = $exclude | append $secLink -}}  
     {{- end -}}
-  {{- else if and (not (hasPrefix $secLink (print "/" $docType "/"))) (not (hasPrefix $secLink "/contact")) (not (hasPrefix $secLink "/about")) -}}
+  {{- else if and (eq $lang "en") (not (hasPrefix $secLink (print "/" $docType "/"))) (not (hasPrefix $secLink "/contact")) (not (hasPrefix $secLink "/about")) -}}
+    {{- $exclude = $exclude | append $secLink -}}
+  {{- else if and (not (eq $lang "en")) (not (hasPrefix $secLink (print "/" $lang "/" $docType "/"))) (not (hasPrefix $secLink (print "/" $lang "/contact"))) (not (hasPrefix $secLink (print "/" $lang "/about"))) -}}
     {{- $exclude = $exclude | append $secLink -}}
   {{- end -}}
 {{- end -}}
