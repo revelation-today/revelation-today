@@ -17,25 +17,6 @@
   {{- $displayPlaceholder = true -}}
 {{- end -}}
 
-{{- $exclude := slice -}}
-{{- $exclude = $exclude | append "/thanks/" -}}
-{{- $exclude = $exclude | append "/contact/" -}}
-{{- $exclude = $exclude | append "/welcome/done/" -}}
-{{- $exclude = $exclude | append "/welcome/done_story/" -}}
-{{- $exclude = $exclude | append "/welcome/done_quick/" -}}
-{{- $exclude = $exclude | append "/welcome/done_appl/" -}}
-{{- $exclude = $exclude | append "/help/" -}}
-{{- $exclude = $exclude | append "/about/" -}}
-{{- $exclude = $exclude | append "/about/ressources/" -}}
-{{- $exclude = $exclude | append (print "/" $lang "/thanks/") -}}
-{{- $exclude = $exclude | append (print "/" $lang "/contact/") -}}
-{{- $exclude = $exclude | append (print "/" $lang "/welcome/done/") -}}
-{{- $exclude = $exclude | append (print "/" $lang "/welcome/done_story/") -}}
-{{- $exclude = $exclude | append (print "/" $lang "/welcome/done_quick/") -}}
-{{- $exclude = $exclude | append (print "/" $lang "/welcome/done_appl/") -}}
-{{- $exclude = $exclude | append (print "/" $lang "/help/") -}}
-{{- $exclude = $exclude | append (print "/" $lang "/about/") -}}
-{{- $exclude = $exclude | append (print "/" $lang "/about/ressources/") -}}
 {{- $docType := $params.docType -}}
 {{- $prefix := "" -}}
 {{- if eq (index (split $pageURL "/") 1) "revelation-today" -}}
@@ -52,6 +33,18 @@
     {{- $docType = index (split $pageURL "/") 2 -}}
   {{- end -}}
 {{- end -}}
+
+{{- $exclude := slice -}}
+{{- $exclude = $exclude | append (print $prefix "/thanks/") -}}
+{{- $exclude = $exclude | append (print $prefix "/contact/") -}}
+{{- $exclude = $exclude | append (print $prefix "/welcome/done/") -}}
+{{- $exclude = $exclude | append (print $prefix "/welcome/done_story/") -}}
+{{- $exclude = $exclude | append (print $prefix "/welcome/done_quick/") -}}
+{{- $exclude = $exclude | append (print $prefix "/welcome/done_appl/") -}}
+{{- $exclude = $exclude | append (print $prefix "/help/") -}}
+{{- $exclude = $exclude | append (print $prefix "/about/") -}}
+{{- $exclude = $exclude | append (print $prefix "/about/ressources/") -}}
+
 {{- range $pages -}}
   {{- $secLink := .RelPermalink -}}
   {{- if not $docType -}}
