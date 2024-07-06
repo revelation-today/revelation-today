@@ -37,9 +37,16 @@
 {{- $exclude = $exclude | append (print "/" $lang "/about/") -}}
 {{- $exclude = $exclude | append (print "/" $lang "/about/ressources/") -}}
 {{- $docType := $params.docType -}}
-{{- $docType = index (split $pageURL "/") 1 -}}
-{{- if not (eq $lang "en") -}}
+{{- if eq (index (split $pageURL "/") 1) "revelation-today" -}}
   {{- $docType = index (split $pageURL "/") 2 -}}
+  {{- if not (eq $lang "en") -}}
+    {{- $docType = index (split $pageURL "/") 3 -}}
+  {{- end -}}
+{{- else -}}
+  {{- $docType = index (split $pageURL "/") 1 -}}
+  {{- if not (eq $lang "en") -}}
+    {{- $docType = index (split $pageURL "/") 2 -}}
+  {{- end -}}
 {{- end -}}
 {{- print $docType " -- " $pageURL -}} 
 {{- range $pages -}}
