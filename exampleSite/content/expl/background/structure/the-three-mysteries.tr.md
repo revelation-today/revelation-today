@@ -60,6 +60,20 @@ Bu, {{% int_link val="İsa’nın yaşamında nasıl muzaffer" link="/expl/conte
 - {{% bible val="fahişe onu korumak için büyük bir ağ kurdu ve sonunda onu yok etti" link="rev:17" lang="tr" %}}
 - Fahişeyle ilgili büyük bölüm, bunun tam tersi olan Yeni Yeruşalim’in (gelin, kilise) uzun öyküsüyle karşılanır. Kilise fahişeye bulaşmamaya dikkat etmelidir, yoksa onunla birlikte batacaktır.
 
+
+Bu bölüm bir {{% int_link val="chiasm" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}} ile <span style="background:red;">Fark</span>, <span style="background:green;">Ortak</span> ve <span style="background:blue;">Kimlik</span></p>
+
+- {{% bible val="17/1-19/10" link="rev:17" lang="tr" %}}: <span style="background:red;">Yargı</span> <span style="background:red;">fahişe</span> üzerinde
+    - {{% bible val="19/11-16" link="rev:19,11-16" lang="tr" %}}: <span style="background:green;">tanrısal yargıç</span>
+        - {{% bible val="19/17-21" link="rev:19,17-21" lang="tr" %}}: <span style="background:green;">Yargılama</span> <span style="background:blue;">canavarlar ve sahte peygamber</span> üzerinde (bkz {{% bible val="Ez.38-39" link="ezk:38-39" lang="tr" %}})
+            - {{% bible val="20/1-3" link="rev:20,1-3" lang="tr" %}}: <span style="background:red;">Şeytan <span style="background:green;">1000 yıl</span> hapsedildi
+            - {{% bible val="20/4-6" link="rev:20,4-6" lang="tr" %}}: <span style="background:red;">Kilise hüküm sürer</span> <span style="background:green;">1000 yıl</span> boyunca
+        - {{% bible val="20/7-10" link="rev:20,7-10" lang="tr" %}}: <span style="background:green;">Yargı</span> <span style="background:blue;">Yecüc ve Mecüc</span> üzerinde
+    - {{% bible val="20/11-15" link="rev:20,11-15" lang="tr" %}}: <span style="background:green;">tanrısal yargıç</span>
+- {{% bible val="21/1-22/5" link="rev:21" lang="tr" %}}: <span style="background:red;">gelinin</span> gerekçelendirilmesi</span>
+
+Böyle bir (çift) yapı, dış öğeyi ve bunların karşıtlığını vurgulamayı amaçlamaktadır. Burada mesaj açıktır: Gelin fahişeden farklı olmalıdır, kilisenin fahişenin davranış ve değerlerinden ayırt edilmesi gerekir.
+
 ## Küçük bir genel bakış
 
 <a name="fb24"></a>

@@ -20,20 +20,8 @@ Zunächst einige Fragen an den Text:
 
 - [Wer wird wo über wen herrschen?](https://www.bibleserver.com/SLT/Offenbarung20%2C4)
 - Warum gibt es nicht gleich einen neuen Himmel und eine neue Erde? Oder sitzen wir dann alle auf Wolken und spielen Harfe?
-- Wo sonst sehen wir ein Tausendjähriges Reich, außer in diesem{{% bible val=" einen Vers" link="rev:20,4" lang="de" %}}?
-- Welche {{% bible val="Art von Herrschaf" link="mat:20,20-28" lang="de" %}}t ist hier in den 1000 Jahren gemeint ?
-
-<p>Kapitel 17-22 ist ein Chiasmus mit <span style="color:red;">Unterschied</span>, <span style="color:green;">Gemeinsamkeiten</span> und <span style="color:blue;">Identifikation</span></p>
-
-- {{% bible val="17/1-19/10" link="rev:17" lang="de" %}}: Gericht an der Hure
-- {{% bible val="19/11-16" link="rev:19,11-16" lang="de" %}}: der göttliche Richter
-- {{% bible val="19/17-21" link="rev:19,17-21" lang="de" %}}: Gericht über die Tiere und den falschen Propheten (siehe {{% bible val="Hes.39" link="ezk:9,39" lang="de" %}})
-- {{% bible val="20/1-3" link="rev:20,1-3" lang="de" %}}: Satan eingesperrt für 1000 Jahre
-- {{% bible val="20/4-6" link="rev:20,4-6" lang="de" %}}: Satan regiert nach 1000 Jahren
-- {{% bible val="20/7-10" link="rev:20,7-10" lang="de" %}}: Gericht über Gog und Magog
-- {{% bible val="20/11-15" link="rev:20,11-15" lang="de" %}}: der göttliche Richter
-- {{% bible val="21/1-22/5" link="rev:21" lang="de" %}}: Rechtfertigung der Braut
-
+- Wo sonst sehen wir ein Tausendjähriges Reich, außer in diesem {{% bible val="einen Vers" link="rev:20,4" lang="de" %}}?
+- Welche {{% bible val="Art von Herrschaft" link="mat:20,20-28" lang="de" %}} ist hier in den 1000 Jahren gemeint ?
  
 Das Tausendjährige Reich ist Teil eines größeren Kontextes, der einen Chiasmus bildet, der den Inhalt nicht linear, sondern symmetrisch anordnet. Deshalb gibt es hier keine klare Chronologie, und was später berichtet wird, kann dasselbe Ereignis beschreiben, nur aus einer anderen Perspektive.
 

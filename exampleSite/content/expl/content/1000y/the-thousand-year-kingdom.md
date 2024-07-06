@@ -22,18 +22,6 @@ First, let’s start with some questions about the text and what we think the te
 - Why not just a new heaven and a new earth? Because in the New Heaven and New Earth we are all sitting on clouds and playing harps?
 - Where else in the Bible do we see the concept of a 1000 year kingdom except in this {{% bible val="one verse" link="rev:20,4" lang="en" %}}?
 - What kind of {{% bible val="reigning" link="mat:20,20-28" lang="en" %}} in the 1000 years are we assuming?
-
-<p>Chapter 17-22 is a chiasmus with <span style="color:red;">Difference</span>, <span style="color:green;">Common</span> und <span style="color:blue;">Identification</span></p>
-
-- {{% bible val="17/1-19/10" link="rev:17" lang="en" %}}: Judgment over the harlot
-- {{% bible val="19/11-16" link="rev:19,11-16" lang="en" %}}: the godly judge
-- {{% bible val="19/17-21" link="rev:19,17-21" lang="en" %}}: Judgment over the beasts and the false prophet (see {{% bible val="Ez.39" link="ezk:9,39" lang="en" %}})
-- {{% bible val="20/1-3" link="rev:20,1-3" lang="en" %}}: Satan imprisoned for 1000 years
-- {{% bible val="20/4-6" link="rev:20,4-6" lang="en" %}}: Satan reigns after 1000 years
-- {{% bible val="20/7-10" link="rev:20,7-10" lang="en" %}}: Judgment over Gog and Magog
-- {{% bible val="20/11-15" link="rev:20,11-15" lang="en" %}}: the godle judge
-- {{% bible val="21/1-22/5" link="rev:21" lang="en" %}}: justification of the bride
-
  
 The 1000 year kingdom is part of a larger context called a chiasm, which organizes things not linearly but symmetrically. So an old theme could be repeated from a different perspective.
 

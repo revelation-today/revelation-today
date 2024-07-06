@@ -60,6 +60,20 @@ The {{% bible val="last mystery" link="rev:17,5" lang="en" %}} describes the chu
 - {{% bible val="The harlot has set up a great network to protect her, which will destroy her in the end " link="rev:17" lang="en" %}}.
 - The great chapter on the harlot is countered by the long story of the New Jerusalem (the Bride, the Church), which is the opposite. The church should be careful not to get entangled with the harlot, or it will go down with her.
 
+This part is a {{% int_link val="chiasm" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}} with <span style="background:red;">Difference</span>, <span style="background:green;">Common</span> und <span style="background:blue;">Identification</span></p>
+
+- {{% bible val="17/1-19/10" link="rev:17" lang="en" %}}: <span style="background:red;">Judgment</span> over the <span style="background:red;">harlot</span>
+    - {{% bible val="19/11-16" link="rev:19,11-16" lang="en" %}}: the <span style="background:green;">godly judge</span>
+        - {{% bible val="19/17-21" link="rev:19,17-21" lang="en" %}}: <span style="background:green;">Judgment</span> over the <span style="background:blue;">beasts and the false prophet</span> (see {{% bible val="Ez.38-39" link="ezk:38-39" lang="en" %}})
+            - {{% bible val="20/1-3" link="rev:20,1-3" lang="en" %}}: <span style="background:red;">Satan imprisoned</span> for <span style="background:green;">1000 years</span>
+            - {{% bible val="20/4-6" link="rev:20,4-6" lang="en" %}}: <span style="background:red;">Church reigns</span> for <span style="background:green;">1000 years</span>
+        - {{% bible val="20/7-10" link="rev:20,7-10" lang="en" %}}: <span style="background:green;">Judgment</span> over <span style="background:blue;">Gog and Magog</span>
+    - {{% bible val="20/11-15" link="rev:20,11-15" lang="en" %}}: the <span style="background:green;">godly judge</span>
+- {{% bible val="21/1-22/5" link="rev:21" lang="en" %}}: <span style="background:red;">justification</span> of the <span style="background:red;">bride</span>
+
+Such a (even) structure is intended to emphasize the outer item and their contrast. Here the message is clear: The bride should be different from the harlot, the church need to take take to be distinguished from the behaviour and values of the harlot.
+
+
 ## A little overview
 
 <a name="2190"></a>
@@ -68,7 +82,7 @@ This is the first attempt to give it some structure.
 | Topic | Church: back to Jesus | God: role model for the church | Harlot: what the church should not be |
 |-------|-----------------------|--------------------------------|--------------------------------------|
 | The Secret | {{% bible val="Secret of the church: light to world and depending on Jesus" link="rev:1" lang="en" %}} (Rev. 1) | {{% bible val="Secret of God: God reigns" link="rev:10" lang="en" %}} (Rev. 10-11/14) | {{% bible val="Secret of the harlot: enemy of God and the church, will perish" link="rev:17" lang="en" %}} (Rev. 17) |
-| The Instruction | {{% bible val="Reality of the church: not following the vision" link="rev:2" lang="en" %}} (Rev. 2-3) | {{% bible val="Solution for the church: Worship and be like Jesus" link="rev:11,1-14" lang="en" %}} (Rev. 11/1-14) | {{% bible val="Warning to the church: be not like Babel" link="rev:18" lang="en" %}} (Rev. 18) |
+| The Instruction | {{% bible val="Reality of the church: not following the vision" link="rev:2" lang="en" %}} (Rev. 2-3) | {{% bible val="Solution for the church: Worship and be like Jesus" link="rev:11,1-14" lang="en" %}} (Rev. 11/1-14) | {{% bible val="Warning to the church: don't be like Babel" link="rev:18" lang="en" %}} (Rev. 18) |
 | God's presence | {{% bible val="God's is worshipped in heaven" link="rev:4" lang="en" %}} (Rev. 4) | {{% bible val="God's presence on earth" link="rev:11,15-19" lang="en" %}} (Rev. 11/15-19) | {{% bible val="God's marriage to the bride" link="rev:19,1-10" lang="en" %}} (Rev. 19/1-10) |
 | Jesus is victorious because of his victory on the cross | {{% bible val="Jesus is worthy to open the scroll because he died on cross" link="rev:5" lang="en" %}} (Rev. 5) | {{% bible val="Jesus birth and accension throughs Satan off his game" link="rev:12" lang="en" %}} (Rev. 12) | {{% bible val="Jesus comes as crucified and announces victory" link="rev:19,11-16" lang="en" %}} (Rev. 19/11-16) |
 | Satan is exposed | {{% bible val="Satan's plan against humanity fails" link="rev:6" lang="en" %}} (Rev. 6) | {{% bible val="Satan's master plan against the church fails" link="rev:13" lang="en" %}} (Rev. 13) | {{% bible val="Satan is finally defeated" link="rev:19,17-21" lang="en" %}} (Rev. 19/17-21) |
