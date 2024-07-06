@@ -39,13 +39,17 @@
 {{- $docType := $params.docType -}}
 {{- if eq (index (split $pageURL "/") 1) "revelation-today" -}}
   {{- $docType = index (split $pageURL "/") 2 -}}
+{{- print 11 $docType (index (split $pageURL "/") 1) -}}
   {{- if not (eq $lang "en") -}}
     {{- $docType = index (split $pageURL "/") 3 -}}
+{{- print 12 $docType (index (split $pageURL "/") 1) -}}
   {{- end -}}
 {{- else -}}
   {{- $docType = index (split $pageURL "/") 1 -}}
+{{- print 21 $docType (index (split $pageURL "/") 1) -}}
   {{- if not (eq $lang "en") -}}
     {{- $docType = index (split $pageURL "/") 2 -}}
+{{- print 22 $docType (index (split $pageURL "/") 1) -}}
   {{- end -}}
 {{- end -}}
 {{- range $pages -}}
