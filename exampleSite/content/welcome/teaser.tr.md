@@ -37,7 +37,7 @@ Ancak durum hiç de böyle değildir. Bu kitap Hıristiyanlar için yönlendirme
 - yanlış öğreti altında acı çekmek
 - Kutsal Ruh'u özlemek
 
-İlk Hıristiyanlık döneminde, Roma İmparatorluğu'nun baskısı ve aldatmacası karşısında yollarını bulmalarına yardımcı olan ve bugün de geçerliliğini koruyan en kırmızı kitaplardan biriydi.
+Roma İmparatorluğu'nun baskı ve hilelerinin yarattığı zorlukların üstesinden gelmelerine yardımcı olan bu kitap, ilk Hıristiyanlık döneminde en çok okunan kitaplardan biriydi ve bugün de büyük önem taşımaktadır.
 
 Bu kitap bir teselli ve teşviktir
 - aldatıcı ve düşmüş bir dünyada

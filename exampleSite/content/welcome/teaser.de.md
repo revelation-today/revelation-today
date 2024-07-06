@@ -37,7 +37,7 @@ Das ist aber ganz und gar nicht der Fall. Dieses Buch gibt Orientierung für Chr
 - die unter falscher Lehre leiden
 - die den Heiligen Geist vermissen
 
-Und es war eines der rotesten Bücher des frühen Christentums, das ihnen half, die Herausforderungen der Unterdrückung und des Betrugs des Römischen Reiches zu meistern, und das auch heute noch von großer Bedeutung ist.
+Und es war eines der am meisten gelesenen Bücher des frühen Christentums, das ihnen half, die Herausforderungen der Unterdrückung und des Betrugs des Römischen Reiches zu meistern, und das auch heute noch von großer Bedeutung ist.
 
 Dieses Buch ist ein Trost und eine Ermutigung
 - in einer trügerischen und gefallenen Welt
