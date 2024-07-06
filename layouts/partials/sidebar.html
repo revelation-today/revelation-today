@@ -25,6 +25,7 @@
 {{- $exclude = $exclude | append "/welcome/done_quick/" -}}
 {{- $exclude = $exclude | append "/welcome/done_appl/" -}}
 {{- $exclude = $exclude | append "/help/" -}}
+{{- $exclude = $exclude | append "/about/" -}}
 {{- $exclude = $exclude | append "/about/ressources/" -}}
 {{- $exclude = $exclude | append (print "/" $lang "/thanks/") -}}
 {{- $exclude = $exclude | append (print "/" $lang "/contact/") -}}
@@ -33,6 +34,7 @@
 {{- $exclude = $exclude | append (print "/" $lang "/welcome/done_quick/") -}}
 {{- $exclude = $exclude | append (print "/" $lang "/welcome/done_appl/") -}}
 {{- $exclude = $exclude | append (print "/" $lang "/help/") -}}
+{{- $exclude = $exclude | append (print "/" $lang "/about/") -}}
 {{- $exclude = $exclude | append (print "/" $lang "/about/ressources/") -}}
 {{- $docType := $params.docType -}}
 {{- $docType = index (split $pageURL "/") 1 -}}

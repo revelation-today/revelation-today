@@ -28,13 +28,6 @@
 {{- partial "custom/bible" (dict "lang" $lang) -}}
 
 {{- partial "custom/title.html" (dict "docType" $docType "title" $title) -}}
-{{- if and (not (eq $readTime 0)) (not (eq $readTime 1)) -}}
-    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
-    <ul>
-    {{- $reading := print $readingTime ": " $readTime " " $minutes -}}
-    {{ partial "shortcodes/card" (dict "title" $reading "icon" "book-open") }}
-    </ul>
-    <ul>
             {{/* Scroll To Bottom */}}
         <button aria-hidden="false" id="toBottom" onClick="scrollDown();" class="hx-transition-all hx-duration-75 hx-opacity-100 hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50">
           <span>
@@ -44,6 +37,11 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 8.75l7.5 7.5 7.5 -7.5" />
           </svg>
         </button>
+{{- if and (not (eq $readTime 0)) (not (eq $readTime 1)) -}}
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
+    <ul>
+    {{- $reading := print $readingTime ": " $readTime " " $minutes -}}
+    {{ partial "shortcodes/card" (dict "title" $reading "icon" "book-open") }}
     </ul>
     </div>
 {{- end -}}
