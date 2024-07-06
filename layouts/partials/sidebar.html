@@ -48,7 +48,6 @@
     {{- $docType = index (split $pageURL "/") 2 -}}
   {{- end -}}
 {{- end -}}
-{{- print $docType " -- " $pageURL -}} 
 {{- range $pages -}}
   {{- $secLink := .RelPermalink -}}
   {{- if not $docType -}}
