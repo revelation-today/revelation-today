@@ -44,7 +44,7 @@ Hezekiel’de Tanrı {{% bible val="Yeruşalim’in karşısına aynı kâhin gi
 Eski Antlaşma’da aşağıdaki kentler fahişe olarak tanımlanır:
 
 - {{% bible val="Tapınağı inşa etmek için Tanrı’yla antlaşma yapan" link="1ki:5,12" lang="tr" %}}, ancak {{% bible val="Yahudileri esarete sattığı için yargılanan" link="amo:1,9" lang="tr" %}} ve {{% bible val="fahişe olarak adlandırılan Sur" link="isa:23,15-18" lang="tr" %}}
-- {{% bible val="Niniveh Rab’bin önünde alçaldı ve Rab onlara merhamet etti" link="jon:3,5-10" lang="tr" %}}, ama {{% bible val="daha sonra bir fahişe olduğu için yargılandı" link="nah:3,4-7" lang="tr" %}}.
+- {{% bible val="Niniveh Rab’bin önünde alçaldı ve Rab onlara merhamet etti" link="jon:3,5-10" lang="tr" %}}, ama {{% bible val="daha sonra bir fahişe olduğu için yargılandı" link="nam:3,4-7" lang="tr" %}}.
 - İsrail’in Tanrı’yla bir antlaşması vardır ancak birçok kez başarısızlığa uğramıştır ve Hezekiel’de olduğu gibi diğer uluslara olan siyasi ve ekonomik bağımlılığı ve bu uluslardan aldıkları putperestlik onu bir {{% bible val="fahişe olarak tanımlamaktadır" link="ezk:16,15-41" lang="tr" %}}.
 
 Ayrıca buradaki kalıp, fahişenin Tanrı’yla olan eski ilişkiden uzaklaşıp puta tapmaya yönelmesidir
@@ -56,12 +56,12 @@ Uyarı, {{% bible val="Bergama’nın Balam’la" link="rev:2,14" lang="tr" %}} 
 ## Ekonomik boyut
 
 <a name="fb4b"></a>
-Fahişe tanımı, ister dini, ister siyasi, ister ekonomik, isterse de herhangi bir kombinasyon olsun, izin verilmeyen bir ilişkiyi ifade eder, örneğin {{% bible val="Niniveh" link="nah:3,4-5" lang="tr" %}} ve {{% bible val="Sur’a" link="isa:23,15-18" lang="tr" %}} fahişe denmesinin nedeni, ulusları yıkıma uğratmaları ve kirletmeleridir.
+Fahişe tanımı, ister dini, ister siyasi, ister ekonomik, isterse de herhangi bir kombinasyon olsun, izin verilmeyen bir ilişkiyi ifade eder, örneğin {{% bible val="Niniveh" link="nam:3,4-5" lang="tr" %}} ve {{% bible val="Sur’a" link="isa:23,15-18" lang="tr" %}} fahişe denmesinin nedeni, ulusları yıkıma uğratmaları ve kirletmeleridir.
 
 - ekonomik baskı
 - puta tapma yoluyla etkileme
 
-Ekonomik ilişkiler genellikle {{% bible val="tapınak hediyeleri" link="mic:1,7" lang="tr" %}}, e{{% bible val="konomik bağımlılıklar" link="nah:3,4" lang="tr" %}} ya {{% bible val="da siyasi nüfuz (İzebel başka bir krallıkla evlendi) gibi dini ilişkilerle sonuçlanır" link="2ki:9,22" lang="tr" %}}.
+Ekonomik ilişkiler genellikle {{% bible val="tapınak hediyeleri" link="mic:1,7" lang="tr" %}}, e{{% bible val="konomik bağımlılıklar" link="nam:3,4" lang="tr" %}} ya {{% bible val="da siyasi nüfuz (İzebel başka bir krallıkla evlendi) gibi dini ilişkilerle sonuçlanır" link="2ki:9,22" lang="tr" %}}.
 
 {{% bible val="Babil’in yeryüzü krallarıyla yaptığı zina ile en güçlü bağlantı" link="rev:17,2" lang="tr" %}}, {{% bible val="yeryüzünün tüm krallıklarıyla ticaret yapacak" link="isa:23,17" lang="tr" %}} ([ya da yeryüzü krallıklarıyla zina yapacak](https://biblehub.com/interlinear/isaiah/23-17.htm)) olan Sur’dur. {{% bible val="Vahiy’deki ticaret listesi" link="rev:18,12-13" lang="tr" %}} de {{% bible val="Sur’unkine çok benzemektedir" link="ezk:27" lang="tr" %}}.
 

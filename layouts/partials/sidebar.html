@@ -48,7 +48,7 @@
 {{- range $pages -}}
   {{- $secLink := .RelPermalink -}}
   {{- if not $docType -}}
-    {{- if or (eq $pageURL (print $prefix "/contact/")) (eq $pageURL (print $prefix "/about/")) (eq $pageURL (print $prefix "/thanks/")) (hasPrefix $pageURL (print $prefix "/welcome/done/")) -}}
+    {{- if or (eq $pageURL (print $prefix "/contact/")) (eq $pageURL (print $prefix "/about/")) (eq $pageURL (print $prefix "/thanks/")) (hasPrefix $pageURL (print $prefix "/welcome/done")) -}}
       {{- if or (hasPrefix $secLink (print $prefix "/appl/")) (hasPrefix $secLink (print $prefix "/expl/")) (hasPrefix $secLink (print $prefix "/quick/")) (hasPrefix $secLink (print $prefix "/story/")) -}}
         {{- $exclude = $exclude | append $secLink -}}  
       {{- end -}}

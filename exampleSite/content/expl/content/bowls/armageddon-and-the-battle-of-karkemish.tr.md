@@ -14,7 +14,7 @@ Peki Mesih’ten önceki ilk bin yılın yakın doğusundaki en önemli savaşla
 ## Karkamış’tan önceki hikaye
 
 <a name="f7c8"></a>
-M.Ö. 612'de Babilliler’in Asurlular’ın eski başkenti Niniveh’i ele geçirmesiyle başlar; bu olay {{% bible val="Nahum" link="nah:1" lang="tr" %}} peygamberde de anlatılır ve {{% bible val="Yunus" link="jon:1" lang="tr" %}} peygamberin orada vaaz vermesinin ardından halkın yolundan dönmesinin bir sonucudur.
+M.Ö. 612'de Babilliler’in Asurlular’ın eski başkenti Niniveh’i ele geçirmesiyle başlar; bu olay {{% bible val="Nahum" link="nam:1" lang="tr" %}} peygamberde de anlatılır ve {{% bible val="Yunus" link="jon:1" lang="tr" %}} peygamberin orada vaaz vermesinin ardından halkın yolundan dönmesinin bir sonucudur.
 
 Asurlular, İ{{% bible val="brahim’in geldiği yer olan" link="gen:11,31" lang="tr" %}} Haran’a ve daha sonra damadı {{% bible val="Rebeka" link="gen:24" lang="tr" %}} ve daha sonra da {{% bible val="Yakup ve eşleri gibi" link="gen:28" lang="tr" %}} akrabalarına geri döndüler. Bu olay MÖ 609 yılında gerçekleşmiştir.
 
