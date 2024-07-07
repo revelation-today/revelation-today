@@ -22,8 +22,8 @@ Es liegt mir am Herzen, offen zu sein für das, was Gott in diesem Buch wirklich
 Ich habe dies nicht allein getan. Zuerst gab es eine große Menge an Büchern von {{% int_link val="great theologians" link="/about/ressources" %}}, die mir ein großes Verständnis vermittelten.
 
 Aber dann gibt es WErkzeuge wie 
-- (hekstra)[https://themes.gohugo.io/themes/hextra/] als Website-Framework
-- (deepl)[https://deepl.com] zum Übersetzen von Inhalten
+- [hekstra](https://themes.gohugo.io/themes/hextra/) als Website-Framework
+- [deepl](https://deepl.com) zum Übersetzen von Inhalten
 
 Und massives Feedback von Freunden, die geduldig überprüften, was ich so geschrieben habe.
 

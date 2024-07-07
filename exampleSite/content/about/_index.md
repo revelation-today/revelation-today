@@ -22,8 +22,8 @@ It is on my heart to be open what God really wants to say in this book, but I mi
 I did not do this alone. First there was a great amount of book from {{% int_link val="great theologians" link="/about/ressources" %}} that gave me a great understanding.
 
 But then there are toolchains like 
-- (hekstra)[https://themes.gohugo.io/themes/hextra/] as website framework
-- (deepl)[https://deepl.com] for translating content
+- [hekstra](https://themes.gohugo.io/themes/hextra/) as website framework
+- [deepl](https://deepl.com) for translating content
 
 And massive feedback from friends who patiently reviewed and reviewing.
 

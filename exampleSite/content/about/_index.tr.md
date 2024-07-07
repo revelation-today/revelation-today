@@ -22,8 +22,8 @@ Tanrı'nın bu kitapta gerçekten ne söylemek istediğini açıklamak benim kal
 Bunu tek başıma yapmadım. İlk olarak {{% int_link val="great theologians" link="/about/ressources" %}} adresinden bana büyük bir anlayış kazandıran çok sayıda kitap vardı.
 
 Ama sonra aşağıdaki gibi araç zincirleri var 
-- (hekstra)[https://themes.gohugo.io/themes/hextra/] web sitesi çerçevesi olarak
-- (deepl)[https://deepl.com] içeriği çevirmek için
+- [hekstra](https://themes.gohugo.io/themes/hextra/) web sitesi çerçevesi olarak
+- [deepl](https://deepl.com) içeriği çevirmek için
 
 Ve sabırla inceleyen ve gözden geçiren arkadaşlardan gelen muazzam geri bildirimler.
 
