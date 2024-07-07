@@ -1,11 +1,11 @@
-TYPE_LAW = ["law", 1, {"en": "The law", "de": "Das Gesetz", "tr": "Yasa"}]
-TYPE_HISTORY = ["history", 2, {"en": "The history book", "de": "Die Geschichtsbücher", "tr": "TARİH"}]
+TYPE_LAW = ["law", 1, {"en": "The Law", "de": "Das Gesetz", "tr": "Yasa"}]
+TYPE_HISTORY = ["history", 2, {"en": "The Hstory Books", "de": "Die Geschichtsbücher", "tr": "TARİH"}]
 TYPE_POETRY = ["poetry", 3, {"en": "The poetry", "de": "Die Poesiebücher", "tr": "ŞİİR"}]
-TYPE_PROPHETS = ["prophet", 4, {"en": "The prophets", "de": "Die Propheten", "tr": "peygamberler"}]
+TYPE_PROPHETS = ["prophet", 4, {"en": "The Prophets", "de": "Die Propheten", "tr": "peygamberler"}]
 TYPE_GOSPEL = ["gospel", 5, {"en": "The Gospels", "de": "Die Evangelien", "tr": "İnciller"}]
-TYPE_ACTS = ["acts", 6, {"en": "The acts of the aostels", "de": "Die Apostelgeschichte", "tr": "Havarilerin İşleri"}]
+TYPE_ACTS = ["acts", 6, {"en": "The Acts of the Apostels", "de": "Die Apostelgeschichte", "tr": "Havarilerin İşleri"}]
 TYPE_LETTERS = ["letter", 7, {"en": "The Letters", "de": "Die Briefe", "tr": "Mektuplar"}]
-TYPE_REV = ["revelation", 8, {"en": "The Apocalyptic", "de": "Die Apokalypse", "tr": "Apokalypse"}]
+TYPE_REV = ["revelation", 8, {"en": "The Apocalyptic Literature", "de": "Die Apokalypse", "tr": "Apokalypse"}]
 BOOK_TYPES = [TYPE_LAW, TYPE_HISTORY, TYPE_POETRY, TYPE_PROPHETS, TYPE_GOSPEL, TYPE_ACTS, TYPE_LETTERS, TYPE_REV]
 INDEX = {"en": "Bible reference", "de": "Bibelstellen", "tr": "İncil pasajları"}
 

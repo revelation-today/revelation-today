@@ -12,4 +12,8 @@ Ich möchte dir eine Idee geben, wie die Seite funktioniert und wie du navigiers
 
 Du hast auch ein **Suchmenü**, wo du dein Thema suchen kannst - für den Breitbildschirm oben rechts, auf einem kleinen Bildschirm oben im Menü.
 
-Die Seite ist in Touren gegliedert, die dich systematisch herumführen, aber du kannst bei jedem Thema zwischen ihnen wechseln. Im Menü siehst du alle Themen, die in dieser Tour enthalten sind. Wenn du dich für den Drachen und die beiden Tiere interessierst, kannst du eine Tour starten (z.B. Anwendung) und direkt zu diesem Teil navigieren.
+Die Bibelverse sind in lila geschrieben und zeigen dir den Bibelvers. Schau dir dieses {{% bible val=" Beispiel" link="rev:12,1-6" lang="en" %}} an.
+
+Die Seite ist in Touren gegliedert, die dich systematisch herumführen, aber bei jedem Thema kannst du zwischen ihnen wechseln. Im Menü siehst du alle Themen, die in dieser Tour enthalten sind. Wenn du dich für den Drachen und die beiden Tiere interessierst, kannst du eine {{% int_link val=" Tour" link="/welcome" %}} (z.B. {{% int_link val=" Anwendung" link="/welcome/appl" %}}) und direkt zu diesem Teil navigieren.
+
+Du kannst einen Blick auf alle {{% int_link val="benutzten Bibelverse" link="/expl/bible_ref/poetry/psa" %}} werfen.
