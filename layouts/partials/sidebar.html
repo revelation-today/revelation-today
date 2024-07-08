@@ -56,6 +56,7 @@
       {{- $exclude = $exclude | append $secLink -}}  
     {{- end -}}
   {{- else if and (not (hasPrefix $secLink (print $prefix "/" $docType "/"))) (not (hasPrefix $secLink (print $prefix "/contact"))) (not (hasPrefix $secLink (print $prefix "/about"))) -}}
+{{- print $secLink " -- " $prefix "/" $docType "/" " ++ " (hasPrefix $secLink (print $prefix "/" $docType "/")) -}}
     {{- $exclude = $exclude | append $secLink -}}
   {{- end -}}
 {{- end -}}
