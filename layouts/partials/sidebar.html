@@ -33,7 +33,7 @@
     {{- $docType = index (split $pageURL "/") 2 -}}
   {{- end -}}
 {{- end -}}
-
+{{- print " -- " $prefix " ++ " -}}
 {{- $exclude := slice -}}
 {{- $exclude = $exclude | append (print $prefix "/thanks/") -}}
 {{- $exclude = $exclude | append (print $prefix "/contact/") -}}
