@@ -20,7 +20,7 @@
 {{- $docType := $params.docType -}}
 {{- $prefix := "" -}}
 {{- if eq (index (split $pageURL "/") 1) "revelation-today" -}}
-  {{- $prefix = "revelation-today" -}}
+  {{- $prefix = "/revelation-today" -}}
   {{- $docType = index (split $pageURL "/") 2 -}}
   {{- if not (eq $lang "en") -}}
     {{- $prefix = print "/revelation-today/" $lang -}}
@@ -33,7 +33,6 @@
     {{- $docType = index (split $pageURL "/") 2 -}}
   {{- end -}}
 {{- end -}}
-{{- print " -- " $prefix " ++ " -}}
 {{- $exclude := slice -}}
 {{- $exclude = $exclude | append (print $prefix "/thanks/") -}}
 {{- $exclude = $exclude | append (print $prefix "/contact/") -}}
@@ -56,7 +55,6 @@
       {{- $exclude = $exclude | append $secLink -}}  
     {{- end -}}
   {{- else if and (not (hasPrefix $secLink (print $prefix "/" $docType "/"))) (not (hasPrefix $secLink (print $prefix "/contact"))) (not (hasPrefix $secLink (print $prefix "/about"))) -}}
-{{- print $secLink " -- " $prefix "/" $docType "/" " ++ " (hasPrefix $secLink (print $prefix "/" $docType "/")) -}}
     {{- $exclude = $exclude | append $secLink -}}
   {{- end -}}
 {{- end -}}
