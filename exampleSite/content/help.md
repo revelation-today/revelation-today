@@ -14,7 +14,7 @@ You have also a **search menu** where you can search your topic - for widescreen
 
 Bible verses are written in purple and show you the bible verse. Have a look at this {{% bible val="example" link="rev:12,1-6" lang="en" %}}.
 
-The page is organized in tours that lead you systematically around, but on each topic you can switch between them. In the menu you will see all the topics contained in this tour. If you are interested in the dragon and the two beasts you can start a {{% int_link val="tour" link="/welcome" %}} (e.g. {{% int_link val="application" link="/welcome/appl" %}}) and navigate directly to this part.
+The website is organized in tours that lead you systematically around, but on each topic you can switch between them. In the menu you will see all the topics contained in this tour. If you are interested in the dragon and the two beasts you can start a {{% int_link val="tour" link="/welcome" %}} (e.g. {{% int_link val="application" link="/welcome/appl" %}}) and navigate directly to this part.
 
 You can also have a look at the {{% int_link val="used bible verses" link="/expl/bible_ref/poetry/psa" %}}.
 
