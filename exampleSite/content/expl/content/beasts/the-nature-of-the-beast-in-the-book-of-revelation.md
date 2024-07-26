@@ -138,7 +138,7 @@ There is no “leaving loving acts for the greater good” because {{% bible val
 <a name="fe85"></a>
 You may ask yourself: How could this happen, that even the Church would fall for this, even though the Bible describes such behavior as the act of the beast?We find the answer in verse 11: “Then I saw another beast coming up out of the earth. It had two horns like a lamb, but it spoke like a dragon.From the outside, the Evil Trinity and the Holy Trinity look alike (two horns like a lamb [Jesus]), but the difference is the voice (spoke like a dragon). But who can recognize/hear the voice - {{% bible val="only His sheep as Jesus says" link="jhn:10,1-5" lang="en" %}}.
 
-But hearing His voice also means in Hebrew thinking “obeying His voice”.So: Only the Church can distinguish between the Holy and the Evil Trinity. When the church uses fear, violence, or manipulation, it is not following God, but following the way of the beast.
+But hearing His voice also means in Hebrew thinking “obeying His voice”. So: Only the Church can distinguish between the Holy and the Evil Trinity. When the church uses fear, violence, or manipulation, it is not following God, but following the way of the beast.
 
 ## What about miracles
 
