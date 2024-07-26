@@ -143,7 +143,7 @@ But hearing His voice also means in Hebrew thinking “obeying His voice”. So:
 ## What about miracles
 
 <a name="13ff"></a>
-But we should not “throw out the baby with the bathwater. After reading this, you may want to avoid anything described with the beast.
+But we should not “throw out the baby with the bathwater". After reading this, you may want to avoid anything described with the beast.
 
 - It performs signs and wonders, so wonders are bad.
 - It is victorious, so we should avoid being strong.
