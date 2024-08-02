@@ -45,7 +45,7 @@ Bu kitapta kullanılan 115 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya:27" link="isa:27,-1" lang="tr" %}} | ["Referanslarla dolu bir çanta": Yeş.27/1](/expl/../expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
 | {{% bible val="Yeşaya:27,1" link="isa:27,1" lang="tr" %}} | ["İlk okuyucuların bağlamı": Yeşaya’da](/expl/../expl/content/beasts/the-beasts-and-the-666-in-historical-context#b8d0) |
 | {{% bible val="Yeşaya:28,16" link="isa:28,16" lang="tr" %}} | ["Krallıkların sonu": köşe taşı](/expl/../expl/bible/daniel/the-four-kingdoms-in-daniel#bcbd) |
-| {{% bible val="Yeşaya:32,15" link="isa:32,15" lang="tr" %}} | ["Ruh’un Dökülmesi": Ye%C5%9F.32/15](/expl/../expl/background/israel/the-church-is-part-of-israel#7a85) |
+| {{% bible val="Yeşaya:32,15" link="isa:32,15" lang="tr" %}} | ["Ruh’un Dökülmesi": Yeş.32/15](/expl/../expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Yeşaya:35,7" link="isa:35,7" lang="tr" %}} | ["Dahili özellikler": süre önce su havuzlarının aktığı](/expl/../expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Yeşaya:35,8" link="isa:35,8" lang="tr" %}} | ["Dahili özellikler": Yeşaya’daki](/expl/../expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Yeşaya:35,10" link="isa:35,10" lang="tr" %}} | ["Sil gözyaşlarını": ağlama](/expl/../expl/content/paradise/the-new-jerusalem#5da1) |
@@ -59,20 +59,20 @@ Bu kitapta kullanılan 115 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya:40,18-24" link="isa:40,18-24" lang="tr" %}} | ["Elçilerin İşleri’ndeki yeni Çıkış":  Tanrı nasıl karşılaştırılabilir](/expl/../expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Yeşaya:41,4-10" link="isa:41,4-10" lang="tr" %}} | ["Elçilerin İşleri’ndeki yeni Çıkış": O putlardan daha güvenilirdir](/expl/../expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Yeşaya:42,1" link="isa:42,1" lang="tr" %}} | ["Ruh’un Dökülmesi": hizmetkâra ](/expl/../expl/background/israel/the-church-is-part-of-israel#7a85) |
-| {{% bible val="Yeşaya:42,6-7" link="isa:42,6-7" lang="tr" %}} | ["Bakanlık": Ye%C5%9F.42/6-7](/expl/../expl/background/israel/the-church-is-part-of-israel#d3e5) |
-| {{% bible val="Yeşaya:42,16" link="isa:42,16" lang="tr" %}} | ["Bakanlık": Ye%C5%9F.42/16](/expl/../expl/background/israel/the-church-is-part-of-israel#d3e5) |
-| {{% bible val="Yeşaya:43,10" link="isa:43,10" lang="tr" %}} | ["Ruh’un Dökülmesi": Ye%C5%9F.43/10](/expl/../expl/background/israel/the-church-is-part-of-israel#7a85) |
-| {{% bible val="Yeşaya:43,12" link="isa:43,12" lang="tr" %}} | ["Ruh’un Dökülmesi": Ye%C5%9F.43/12](/expl/../expl/background/israel/the-church-is-part-of-israel#7a85) |
+| {{% bible val="Yeşaya:42,6-7" link="isa:42,6-7" lang="tr" %}} | ["Bakanlık": Yeş.42/6-7](/expl/../expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Yeşaya:42,16" link="isa:42,16" lang="tr" %}} | ["Bakanlık": Yeş.42/16](/expl/../expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Yeşaya:43,10" link="isa:43,10" lang="tr" %}} | ["Ruh’un Dökülmesi": Yeş.43/10](/expl/../expl/background/israel/the-church-is-part-of-israel#7a85) |
+| {{% bible val="Yeşaya:43,12" link="isa:43,12" lang="tr" %}} | ["Ruh’un Dökülmesi": Yeş.43/12](/expl/../expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Yeşaya:43,18" link="isa:43,18" lang="tr" %}} | ["Sil gözyaşlarını": bu vizyonla geriye değil ileriye bakmalıyız](/expl/../expl/content/paradise/the-new-jerusalem#5da1) |
 | {{% bible val="Yeşaya:43,18-19" link="isa:43,18-19" lang="tr" %}} | ["Her şey yeni": Yeni olan her şey](/expl/../expl/content/paradise/the-new-jerusalem#7511) |
 | {{% bible val="Yeşaya:44,9-20" link="isa:44,9-20" lang="tr" %}} | ["Elçilerin İşleri’ndeki yeni Çıkış": putların kibri](/expl/../expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Yeşaya:44,24" link="isa:44,24" lang="tr" %}} | ["Ailenin önemi": Tanrı üstlendi](/expl/../expl/background/israel/the-role-of-family-in-the-bible#524d) |
 | {{% bible val="Yeşaya:45,1" link="isa:45,1" lang="tr" %}} | ["70 yıl": Meshedilmiş Olan Koreş’in Yeruşalim’in yeniden inşası için bir ferman çıkarmasıyla sona erer](/expl/../expl/bible/daniel/the-70-year-weeks#66c9) |
 | {{% bible val="Yeşaya:46,1-13" link="isa:46,1-13" lang="tr" %}} | ["Elçilerin İşleri’ndeki yeni Çıkış": Babil’in putları](/expl/../expl/background/israel/the-second-exodus#f704) |
-| {{% bible val="Yeşaya:49,3" link="isa:49,3" lang="tr" %}} | ["Bakanlık": Ye%C5%9F.49/3](/expl/../expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Yeşaya:49,3" link="isa:49,3" lang="tr" %}} | ["Bakanlık": Yeş.49/3](/expl/../expl/background/israel/the-church-is-part-of-israel#d3e5) |
 | {{% bible val="Yeşaya:49,3-6" link="isa:49,3-6" lang="tr" %}} | ["Yahudi olmayanlar İsrail’in bir parçası olur": Bana, ‹‹Kulumsun, ey İsrail, Görkemimi senin aracılığınla göstereceğim›› dedi. Ama ben, ‹‹Boşuna emek verdim›› dedim, ‹‹Gücümü boş yere, bir hiç için tükettim. RAB yine de hakkımı savunur, Tanrım yaptıklarımın karşılığını verir.›› Kulu olmam için, Yakup soyunu kendisine geri getirmem, İsrail’i önünde toplamam için Rahimde beni biçimlendiren RAB şimdi şöyle diyor: -O’nun gözünde onurluyum, Tanrım bana güç kaynağı oldu.- ‹‹Yakup’un oymaklarını canlandırmak, Sağ kalan İsrailliler’i geri getirmek için Kulum olman yeterli değil. Seni uluslara ışık yapacağım. Öyle ki, kurtarışım yeryüzünün dört bucağına ulaşsın.››](/expl/../expl/background/israel/the-remnant-of-israel#6f36) |
-| {{% bible val="Yeşaya:49,5-6" link="isa:49,5-6" lang="tr" %}} | ["Bakanlık": Ye%C5%9F.49/5-6](/expl/../expl/background/israel/the-church-is-part-of-israel#d3e5) |
-| {{% bible val="Yeşaya:49,6" link="isa:49,6" lang="tr" %}} | ["Ruh’un Dökülmesi": Ye%C5%9F.49/6](/expl/../expl/background/israel/the-church-is-part-of-israel#7a85) |
+| {{% bible val="Yeşaya:49,5-6" link="isa:49,5-6" lang="tr" %}} | ["Bakanlık": Yeş.49/5-6](/expl/../expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Yeşaya:49,6" link="isa:49,6" lang="tr" %}} | ["Ruh’un Dökülmesi": Yeş.49/6](/expl/../expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Yeşaya:49,6" link="isa:49,6" lang="tr" %}} | ["Ruh’un Dökülmesi": İşaya](/expl/../expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Yeşaya:49,6" link="isa:49,6" lang="tr" %}} | ["Luka’daki yeni Çıkış": Yeşaya’da İsrail’in yeniden kurulmasına ve Yahudi olmayanların dahil edilmesine atıfta bulunan](/expl/../expl/background/israel/the-second-exodus#bfa6) |
 | {{% bible val="Yeşaya:49,10" link="isa:49,10" lang="tr" %}} | ["Yaşayan su": Yeşaya’daki](/expl/../expl/content/paradise/the-new-jerusalem#34a7) |

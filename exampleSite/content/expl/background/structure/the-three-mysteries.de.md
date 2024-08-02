@@ -61,16 +61,16 @@ Das {{% bible val="letzte Geheimnis" link="rev:17,5" lang="de" %}} beschreibt di
 - Den großen Kapiteln über die Hure steht die lange Geschichte der Braut (das neue Jerusalem, die Gemeinde) gegenüber. Die Gemeinde muss sich davor hüten, sich mit der Hure zu verbinden, sonst geht sie mit ihr unter.
 
 
-Dieser Teil ist ein {{% int_link val="chiasm" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}} mit <span style="background:red;">Unterschied</span>, <span style="background:green;">Gemeinsamkeit</span> und <span style="background:blue;">Identifikation</span></p>
+Dieser Teil ist ein {{% int_link val="chiasm" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}} mit <span style="background:orange;">Unterschied</span>, <span style="background:#00FF7F;">Gemeinsamkeit</span> und <span style="background:#0096FF;">Identifikation</span></p>
 
-- {{% bible val="17/1-19/10" link="rev:17" lang="de" %}}: <span style="background:red;">Gericht</span> über die <span style="background:red;">Harlot</span>
-    - {{% bible val="19/11-16" link="rev:19,11-16" lang="de" %}}: der <span style="background:green;">göttliche Richter</span>
-        - {{% bible val="19/17-21" link="rev:19,17-21" lang="de" %}}: <span style="background:green;">Gericht</span> über die <span style="background:blue;">Tiere und den falschen Propheten</span> (siehe {{% bible val="Ez.38-39" link="ezk:38-39" lang="de" %}})
-            - {{% bible val="20/1-3" link="rev:20,1-3" lang="de" %}}: <span style="background:red;">Satan gefangen</span> für <span style="background:green;">1000 Jahre</span>
-            - {{% bible val="20/4-6" link="rev:20,4-6" lang="de" %}}: <span style="background:red;">Kirche regiert</span> für <span style="background:green;">1000 Jahre</span>
-        - {{% bible val="20/7-10" link="rev:20,7-10" lang="de" %}}: <span style="background:green;">Gericht</span> über <span style="background:blue;">Gog und Magog</span>
-    - {{% bible val="20/11-15" link="rev:20,11-15" lang="de" %}}: der <span style="background:green;">göttliche Richter</span>
-- {{% bible val="21/1-22/5" link="rev:21" lang="de" %}}: <span style="background:red;">Rechtfertigung</span> der <span style="background:red;">Braut</span>
+- {{% bible val="17/1-19/10" link="rev:17" lang="de" %}}: <span style="background:orange;">Gericht</span> über die <span style="background:orange;">Harlot</span>
+    - {{% bible val="19/11-16" link="rev:19,11-16" lang="de" %}}: der <span style="background:#00FF7F;">göttliche Richter</span>
+        - {{% bible val="19/17-21" link="rev:19,17-21" lang="de" %}}: <span style="background:#00FF7F;">Gericht</span> über die <span style="background:#0096FF;">Tiere und den falschen Propheten</span> (siehe {{% bible val="Ez.38-39" link="ezk:38-39" lang="de" %}})
+            - {{% bible val="20/1-3" link="rev:20,1-3" lang="de" %}}: <span style="background:orange;">Satan gefangen</span> für <span style="background:#00FF7F;">1000 Jahre</span>
+            - {{% bible val="20/4-6" link="rev:20,4-6" lang="de" %}}: <span style="background:orange;">Kirche regiert</span> für <span style="background:#00FF7F;">1000 Jahre</span>
+        - {{% bible val="20/7-10" link="rev:20,7-10" lang="de" %}}: <span style="background:#00FF7F;">Gericht</span> über <span style="background:#0096FF;">Gog und Magog</span>
+    - {{% bible val="20/11-15" link="rev:20,11-15" lang="de" %}}: der <span style="background:#00FF7F;">göttliche Richter</span>
+- {{% bible val="21/1-22/5" link="rev:21" lang="de" %}}: <span style="background:orange;">Rechtfertigung</span> der <span style="background:orange;">Braut</span>
 
 Eine solche (gleichmäßige) Struktur soll den äußeren Elemente und deren Kontrast hervorheben. Hier ist die Botschaft klar: Die Braut soll sich von der Hure unterscheiden, die Kirche soll sich von den Verhaltensweisen und Werten der Hure abheben.
 

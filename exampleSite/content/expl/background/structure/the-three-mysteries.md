@@ -57,19 +57,19 @@ This is shown in the life of {{% int_link val="Jesus how He was victorious" link
 The {{% bible val="last mystery" link="rev:17,5" lang="en" %}} describes the church in the perfect state as the total opposite of the devil. There are several important points here:
 
 - The secret of the harlot is never revealed — always be on your watch that you are not part of it.
-- {{% bible val="The harlot has set up a great network to protect her, which will destroy her in the end " link="rev:17" lang="en" %}}.
+- {{% bible val="The harlot has set up a great network to protect her, which will destroy her in the end" link="rev:17" lang="en" %}}.
 - The great chapter on the harlot is countered by the long story of the New Jerusalem (the Bride, the Church), which is the opposite. The church should be careful not to get entangled with the harlot, or it will go down with her.
 
-This part is a {{% int_link val="chiasm" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}} with <span style="background:red;">Difference</span>, <span style="background:green;">Common</span> und <span style="background:blue;">Identification</span></p>
+This part is a {{% int_link val="chiasm" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}} with <span style="background:orange;">Difference</span>, <span style="background:#00FF7F;">Common</span> und <span style="background:#0096FF;">Identification</span>
 
-- {{% bible val="17/1-19/10" link="rev:17" lang="en" %}}: <span style="background:red;">Judgment</span> over the <span style="background:red;">harlot</span>
-    - {{% bible val="19/11-16" link="rev:19,11-16" lang="en" %}}: the <span style="background:green;">godly judge</span>
-        - {{% bible val="19/17-21" link="rev:19,17-21" lang="en" %}}: <span style="background:green;">Judgment</span> over the <span style="background:blue;">beasts and the false prophet</span> (see {{% bible val="Ez.38-39" link="ezk:38-39" lang="en" %}})
-            - {{% bible val="20/1-3" link="rev:20,1-3" lang="en" %}}: <span style="background:red;">Satan imprisoned</span> for <span style="background:green;">1000 years</span>
-            - {{% bible val="20/4-6" link="rev:20,4-6" lang="en" %}}: <span style="background:red;">Church reigns</span> for <span style="background:green;">1000 years</span>
-        - {{% bible val="20/7-10" link="rev:20,7-10" lang="en" %}}: <span style="background:green;">Judgment</span> over <span style="background:blue;">Gog and Magog</span>
-    - {{% bible val="20/11-15" link="rev:20,11-15" lang="en" %}}: the <span style="background:green;">godly judge</span>
-- {{% bible val="21/1-22/5" link="rev:21" lang="en" %}}: <span style="background:red;">justification</span> of the <span style="background:red;">bride</span>
+- {{% bible val="17/1-19/10" link="rev:17" lang="en" %}}: <span style="background:orange;">Judgment</span> over the <span style="background:orange;">harlot</span>
+    - {{% bible val="19/11-16" link="rev:19,11-16" lang="en" %}}: the <span style="background:#00FF7F;">godly judge</span>
+        - {{% bible val="19/17-21" link="rev:19,17-21" lang="en" %}}: <span style="background:#00FF7F;">Judgment</span> over the <span style="background:#0096FF;">beasts and the false prophet</span> (see {{% bible val="Ez.38-39" link="ezk:38-39" lang="en" %}})
+            - {{% bible val="20/1-3" link="rev:20,1-3" lang="en" %}}: <span style="background:orange;">Satan imprisoned</span> for <span style="background:#00FF7F;">1000 years</span>
+            - {{% bible val="20/4-6" link="rev:20,4-6" lang="en" %}}: <span style="background:orange;">Church reigns</span> for <span style="background:#00FF7F;">1000 years</span>
+        - {{% bible val="20/7-10" link="rev:20,7-10" lang="en" %}}: <span style="background:#00FF7F;">Judgment</span> over <span style="background:#0096FF;">Gog and Magog</span>
+    - {{% bible val="20/11-15" link="rev:20,11-15" lang="en" %}}: the <span style="background:#00FF7F;">godly judge</span>
+- {{% bible val="21/1-22/5" link="rev:21" lang="en" %}}: <span style="background:orange;">justification</span> of the <span style="background:orange;">bride</span>
 
 Such a (even) structure is intended to emphasize the outer item and their contrast. Here the message is clear: The bride should be different from the harlot, the church need to take take to be distinguished from the behaviour and values of the harlot.
 
