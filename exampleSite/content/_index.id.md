@@ -1,5 +1,5 @@
 ---
-title: The book of Revelation
+title: Kitab Wahyu2
 prev: /
 next: /welcome/teaser
 layout: hextra-home
@@ -7,15 +7,15 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  The Book of Revelation 
+  Kitab Wahyu 
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  The very last book of the Bible is not a strange mystery
+  Kitab terakhir dalam Alkitab bukanlah sebuah misteri yang aneh
   &nbsp;<br class="sm:hx-block hx-hidden" />
-  but a guide to effective discipleship
+  tetapi sebuah panduan untuk pemuridan yang efektifc
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -25,9 +25,9 @@ layout: hextra-home
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
-    title="Why this book?"
+    title="Mengapa buku ini?"
     link="welcome/teaser"
-    subtitle="Why you should understand the Book of Revelation!"
+    subtitle="Mengapa Anda harus memahami Kitab Wahyu!"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/man.jpg"
     source="https://pixabay.com/photos/man-thinking-doubt-question-mark-5723449/"
@@ -37,9 +37,9 @@ layout: hextra-home
   </br></br>
 
   {{< hextra/feature-card
-    title="Get started"
+    title="Memulai"
     link="welcome"
-    subtitle="Let's start!"
+    subtitle="Mari kita mulai."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/gloves.jpg"
     source="https://pixabay.com/photos/gloves-tools-protection-1192164/"

@@ -18,17 +18,21 @@ outputs:
 
 defaultContentLanguage: en
 languages:
-  en:
-    languageName: English
-    weight: 1
-    title: The Book of Revelation
   de:
     languageName: Deutsch
-    weight: 2
+    weight: 10
     title: Das Buch Offenbarung
+  en:
+    languageName: English
+    weight: 20
+    title: The Book of Revelation
+  id:
+    languageName: Bahasa Indonesia
+    weight: 30
+    title: Kitab Wahyu
   tr:
     languageName: Türkçe
-    weight: 3
+    weight: 40
     title: Vihay
 
 module:
