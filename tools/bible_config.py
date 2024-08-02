@@ -9,9 +9,9 @@ TYPE_REV = ["revelation", 8, {"en": "The Apocalyptic Literature", "de": "Die Apo
 BOOK_TYPES = [TYPE_LAW, TYPE_HISTORY, TYPE_POETRY, TYPE_PROPHETS, TYPE_GOSPEL, TYPE_ACTS, TYPE_LETTERS, TYPE_REV]
 INDEX = {"en": "Bible reference", "de": "Bibelstellen", "tr": "İncil pasajları"}
 
-INDEX_LANG = {"en": "There are {} used bible verses", "de": "Es gibt {} verwendete Bibelstellen", "tr": "İncil'de kullanılan {} pasajlar vardır"}
-TYPE_LANG = {"en": "There are {} used bible verses in this category", "de": "Es gibt {} verwendete Bibelstellen in dieser Kategorie", "tr": "Bu kategoride kullanılan {} Kutsal Kitap pasajı vardır"}
-BOOK_LANG = {"en": "There are {} used bible verses in this book", "de": "Es gibt {} verwendete Bibelstellen in diesem Buch", "tr": "Bu kitapta kullanılan {} Kutsal Kitap pasajı vardır"}
+INDEX_LANG = {"en": "{} bible verses have been referenced.", "de": "{} verwendete Bibelstellen wurden verwendet.", "tr": "İncil'de kullanılan {} pasajlar vardır"}
+TYPE_LANG = {"en": "{} bible verses have been referenced in this category.", "de": "{} Bibelstellen wurden in dieser Kategorie verwendet.", "tr": "Bu kategoride kullanılan {} Kutsal Kitap pasajı vardır"}
+BOOK_LANG = {"en": "{} bible verses have been used in this book.", "de": "{} Bibelstellen wurden in diesem Buch verwendet.", "tr": "Bu kitapta kullanılan {} Kutsal Kitap pasajı vardır"}
 
 BIBLE_HEADER = {"en": "| Verse | Reference |", "de": "| Vers | Referenz |", "tr": "| Ayet | Referans |"}
 

@@ -27,7 +27,7 @@ This picture of the trinity (here the forth horseman is just a summary of the oh
 
 ![](/images/trinity_en.jpg)
 
-#ä The souls under the altar
+## The souls under the altar
 
 This results in the cry of the souls under the altar. Who are these? This is the church that is suffering on the exposure of Satan. They understood the nature ofthe beast and they live accordingly. They want that this stops and they get white robes because Jesus agrees, that they are righteous. But other have not understood it yet. 
 

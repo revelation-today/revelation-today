@@ -9,7 +9,7 @@ next: /quick/content/beasts
 docType: quick
 ---
 
-{{% bible val="Chapter 12" link="rev:12" lang="en" %}}).
+{{% bible val="Chapter 12" link="rev:12" lang="en" %}}
 
 ## Satans constant failing
 
