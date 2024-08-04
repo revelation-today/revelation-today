@@ -69,6 +69,39 @@ Daraus ergaben sich drei Möglichkeiten:
 
 Die dritte Option war für viele attraktiv und ein wichtiges Thema in der Offenbarung: {{% int_link val="Mit dem Stil der Offenbarung als Apokalypse werden diese Menschen aber vor die Wahl gestellt: Ganz mit Gott oder ganz ohne ihn" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}. In der Konsequenz beschreibt die Offenbarung eine Gegenpropaganda zur römischen Kaiserpropaganda - der Pax Romana.
 
+## Christen und Juden
+
+Ein weiterer Konflikt war der mit den Juden. Aufgrund ihrer langen Tradition hatten sie das Privileg, ihren Glauben weiterhin zu praktizieren, solange dies nicht mit der Pax Romana kollidierte - sie konnten den Schabbat feiern, ihre Tempelaktivitäten durchführen, ...
+
+Doch nun gab es diese jüdische Sekte, die Christen, die nicht nur die Pax Romana missachteten, sondern durch ihre Bekehrung auch viele Menschen im ganzen Reich dazu brachten, dasselbe zu tun, weshalb das Römische Reich die Juden bestrafte, was sie dazu veranlasste, die Christen noch eifriger des Vergehens zu beschuldigen, damit die Juden ihren Glauben fortführen konnten.
+
+Das war hart für die Christen, und das Buch der Offenbarung spricht auch dieses Thema an.
+
+## Die Feindseligkeit der Juden {#Jews}
+
+Zur Zeit der frühen Kirche wurde die jüdische Religion aufgrund ihrer langen Geschichte vom Römischen Reich respektiert, und die Juden konnten ihren Glauben ausleben, solange sie dem Kaiser gegenüber loyal waren, aber nun kamen die Christen und zollten dem Kaiser nicht den erwarteten Respekt (Anbetung). Da der Kaiser die Christen als eine jüdische Sekte ansah, wurden die Juden unter Druck gesetzt. Das führte dazu, dass die Juden die Christen bei den Römern anklagten, um sicherzustellen, dass der Kaiser verstand, dass die Juden nicht auf ihrer Seite waren.
+
+## Juden in der Offenbarung
+
+In dem Buch geht es nur um eines: Jesus und alles, was über ihn entschieden wird. So ist es auch mit den Juden.
+
+Im ersten Teil haben wir gesehen, dass es Spannungen zwischen Christen und Juden gab. Das ist auch in Smyrna und Philadelphia deutlich der Fall, wo sie die Gemeinde angreifen, die Jesus bezeugt. Infolgedessen werden diese Juden die Synagoge des Satans genannt. Wenn es heißt, dass sich die Juden in Philadelphia später vor der dortigen Kirche beugen, bedeutet das, dass sie Jesus annehmen, nicht dass sie sich der Kirche unterwerfen.
+
+Auch in Kapitel 11 ist der Ort, an dem die beiden Zeugen getötet werden, der geistlich als Sodom (Ort der Sünde) und Ägypten (Ort der Sklaverei) beschrieben wird, eine Beschreibung Jerusalems (weil Jesus, ihr Herr, dort getötet wurde). Hier wird sogar der Name vermieden.
+
+Im gesamten Buch der Offenbarung wird die Beziehung zum ethnischen Israel nicht erwähnt (je nachdem, wie man die 144 000 in Kapitel 7 liest), sondern nur die Beziehung zu Jesus.
+
+Andererseits ist die Kirche Teil Israels, und es gibt klare Aussagen, die eine Einheit von Juden und Christen beschreiben, z. B. die 24 Ältesten in Kapitel 4, die die 12 Stämme und die 12 Apostel repräsentieren, oder die Namen der 12 Stämme und der 12 Apostel, die in das neue Jerusalem eingraviert sind.
+
+Auch der Himmel wird nicht als neutraler Ort beschrieben, sondern als das neue Jerusalem. Es wäre überhaupt nicht überraschend, wenn Jesus bei seinem zweiten Kommen im physischen Jerusalem erscheinen würde.
+
+Warum gibt es eine so kontroverse Aussage über die Juden? Weil die Kirche ein Teil Israels ist und daher ihre Wurzeln nicht kappen kann, auch wenn einige Juden die Kirche offen angreifen.
+
+## Schlussfolgerung
+
+Die Herausforderung für die Kirche besteht darin, mit der Spannung zwischen der Zugehörigkeit zu Israel und den Angriffen durch Israel umzugehen.
+
+Ich denke, wir können aus diesem Buch viel darüber lernen, wie wir in den verschiedenen kirchlichen Konfessionen oder mit Juden miteinander umgehen.
 ## Betrachtungen
 
 <a name="bb8d"></a>

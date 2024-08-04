@@ -2,7 +2,7 @@
 title: Berjalan cepat melalui
 weight: 8
 prev: /welcome
-next: /quick/bible/creation
+next: /quick/background/literature
 docType: quick
 ---
 

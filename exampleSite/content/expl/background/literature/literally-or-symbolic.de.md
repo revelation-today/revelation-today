@@ -65,7 +65,7 @@ Was lässt sich nun aus dieser Parallele schließen: Das Buch der Offenbarung ve
 
 Aber es gibt noch einen anderen Aspekt, den wir beachten müssen.
 
-## deiknumi and semaino
+## deiknumi and semaino {#deiknumi}
 
 <a name="dd9c"></a>
 Nein, der Titel ist kein Schreibfehler, sondern gibt die beiden Worte wieder, die den Charakter des Buches beschreiben: “{{% bible val="Die Offenbarung Jesu Christi, die Gott ihm gab, zu seinen Knechten zeigen (deiknumi) was bald geschehen muss. Er hat es bekanntgemacht (semaino), indem er seinen Engel zu Johannes gesandt hat" link="rev:1,1" lang="de" %}}”.

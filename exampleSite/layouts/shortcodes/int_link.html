@@ -6,7 +6,11 @@
   {{- if not (hasSuffix $link "/") -}}
     {{- $link = print $link "/" -}}
   {{- end -}}
-  {{- if hasSuffix .RelPermalink $link -}}
-     <a href="{{- .RelPermalink -}}" class="internal"><span>{{- $val -}}</span></a>
+  {{- if hasSuffix .RelPermalink (index (split $link "#") 0) -}}
+    {{- $final_link := .RelPermalink -}}
+    {{- if strings.Contains $link "#" -}}
+        {{- $final_link = print .RelPermalink "#" (index (split (index (split $link "#") 1) "/") 0) -}}
+    {{- end -}}
+     <a href="{{- $final_link -}}" class="internal"><span>{{- $val -}}</span></a>
   {{- end -}}
 {{- end -}}

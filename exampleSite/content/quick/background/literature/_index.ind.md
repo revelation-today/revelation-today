@@ -24,10 +24,10 @@ Kita akan melihat semua pertanyaan ini, tetapi mari kita mulai dengan pertanyaan
 Ini adalah pertanyaan yang penting karena, bagaimanapun juga, kita ingin menanggapi firman Allah dengan serius dan tidak hanya memahami hal-hal yang secara simbolis diartikan secara harfiah. Saya sangat yakin bahwa Yesus benar-benar bangkit kembali, bahwa mukjizat-mukjizat di dalam Alkitab adalah nyata dan masih banyak lagi.
 
 Tetapi apakah hal ini terjadi di mana-mana? Apa yang Anda maksud dengan contoh-contoh ini: 
-- Haruskah kita hanya {{% bible val="mengampuni 7 kali 70, yaitu 490 kali" link="mat:18:21-25" lang="tr" %}}? 
-- Apakah kita harus {{% bible val="domba yang makan rumput" link="psa:23:2" lang="tr" %}}? 
-- Apakah kita harus {{% bible val="cungkillah mata kita jika ia menyebabkan kita berbuat dosa" link="mat:18:9" lang="tr" %}}? 
-- Akankah {{% bible val="seekor binatang buas yang berkepala banyak dan bertanduk banyak berkeliaran di dunia" link="wah:13:1-2" lang="tr" %}}?
+- Haruskah kita hanya {{% bible val="mengampuni 7 kali 70, yaitu 490 kali" link="mat:18:21-25" lang="ind" %}}? 
+- Apakah kita harus {{% bible val="domba yang makan rumput" link="psa:23:2" lang="ind" %}}? 
+- Apakah kita harus {{% bible val="cungkillah mata kita jika ia menyebabkan kita berbuat dosa" link="mat:18:9" lang="ind" %}}? 
+- Akankah {{% bible val="seekor binatang buas yang berkepala banyak dan bertanduk banyak berkeliaran di dunia" link="wah:13:1-2" lang="ind" %}}?
 
 Saya menduga Anda telah menemukan satu atau dua contoh di mana Anda mengasumsikan penafsiran simbolis. Jika Anda melihat segala sesuatu secara harfiah, itu akan menarik bagi saya.
 

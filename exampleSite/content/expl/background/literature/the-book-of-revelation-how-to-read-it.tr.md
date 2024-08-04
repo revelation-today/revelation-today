@@ -36,9 +36,9 @@ Vahiy kitabının anlaşılmasının zor olmasının nedeni şudur
 
 Yazının geri kalanında bu üç türe, bunların ne anlama geldiğine ve kitabı okuduğumuzda ne ifade ettiğine odaklanacağız
 
-## Bir mektup
+## Bir mektup {#letter}
 
-<a name="7e5a"></a>
+<a name="letter"></a>
 Mektup türü ile başlayalım. Kitabı bir mektup olarak yansıtan birçok yön vardır
 
 - Kutsal Kitap’taki diğer tüm mektuplar için bilinen {{% bible val="resmi giriş" link="rev:1,4-6" lang="tr" %}}
@@ -59,9 +59,9 @@ Ama mektubun temel akışını koruyor
 
 Kitabı okuduğumuzda, 4–21. bölümlerde kiliselerin kendi dönemlerinde yaşadıkları sorunlarla nasıl başa çıkacaklarına dair bir kılavuz beklemeliyiz. Bu, şu anda farklı sorunlarımız olduğu, dolayısıyla yanıtların uygulanamayacağı anlamına gelmez, ancak bu kitabın çoğunluğu yalnızca gelecekte (hatta bizim zamanımızda) uygulanabilecek bölümlere atıfta bulunuyorsa, bir mektubun yönünü dikkate almamış oluruz.
 
-## Bir kehanet
+## Bir kehanet {#prophecy}
 
-<a name="6c09"></a>
+<a nam}e="prophecy"></a>
 İnsanlar kehanet kelimesini duyduklarında, çoğunun aklına geleceğe doğaüstü bir bakış gelir ve esas olarak gelecek şeyleri anlatır.
 
 Bu tamamen yanlış olmasa bile, Kutsal Kitap’taki peygamberlik kitapları söz konusu olduğunda odak noktası başka bir yerde yatmaktadır.
@@ -97,11 +97,13 @@ Vahiy pek çok peygamberlik öğesi kullanır
 
 Bir kehanetin amacı davranışı değiştirmektir ve okuyucudan ya da dinleyiciden bir yanıt almak için genellikle duygusal sahneler kullanır.
 
+Ancak başka bir yönü daha vardır. Bir kehanetin amacı, onun gerçekleşmemesidir. Bu biraz şaşırtıcı gelebilir ama {{%bible val="Jonah" link="jon:4" lang="tr" %}} kitabında Yunus İsrail'in düşmanlarına (Ninova Asurluların ileri karakoludur) karşı kehanette bulunmayı reddettiğinde açıkça ortaya çıkar, çünkü onlar din değiştirebilirler ve yargı gerçekleşmez, ki olan da budur.
+
 Eski Antlaşma’da görümler genellikle basit bir “ve gördüm” ifadesiyle tanıtılırken, bu {{% bible val="daha ayrıntılı bir şekilde yapıldığından" link="zec:1,7" lang="tr" %}}, Eski Antlaşma’daki standart peygamberlik değildir.
 
-## Bir kıyamet
+## Bir kıyamet {#apocalypse}
 
-<a name="aacf"></a>
+<a name="apocalypse"></a>
 Bu kitabın ilk kelimesi: “İsa Mesih’in Kıyameti”. Bu kelime kelime anlamıyla “vahiy” anlamına gelir, ancak doğrudan çeviri yanıltıcıdır çünkü bu uzak ya da yakın gelecekteki bir olayı anlatan gizli bir gelecek değildir. Ayrıca dünyanın sonuna değil, kötü yöneticilerin ve toplumun sonuna odaklanır. Apokaliptik metinleri sadece {{% bible val="Dan.7–12" link="dan:7" lang="tr" %}}; {{% bible val="Mk.13" link="mrk:13" lang="tr" %}}; {{% bible val="Mt.24" link="mat:24" lang="tr" %}} ve {{% bible val="Lk.21" link="luk:21" lang="tr" %}}'den biliyoruz ve bunları anlamakta da bazı zorluklar yaşıyoruz.
 
 Ama en baştan başlayalım: Kıyamet de diğerleri gibi bir türdür. Apokaliptik bir kitabın ne olduğuna dair tam bir tanım olmasa da, bize yardımcı olabilecek bazı hususlar vardır.
@@ -136,7 +138,7 @@ Vahiy kitabına baktığımızda bu unsurları görürüz.
 - açıkça kötü bir hükümdar vardır (Tanrı’nın insanları yine çalışır) ama 21. bölümdeki yeni yaratılışla birlikte daha iyi bir zaman gelmektedir
 - Kitapta uzlaşmaya yer yoktur ve siyasi düzene (imparator değil İsa gerçek kraldır, Roma Barışı değil Tanrı’nın krallığı, imparatora sadakat değil İsa’ya iman) ve ideolojisine meydan okuyan ya hep ya hiç (kuzuya karşı ejderha, Kudüs’e karşı Babil, Tanrı’nın mührüne karşı canavarın işareti, Tanrı’ya tapanlara karşı canavara tapanlar, …) ifadeleriyle doludur
 
-## Sonuç
+## Sonuç {#summary}
 
 <a name="9e1a"></a>
 Kitabı okuduğumuzda şunu görmemiz gerekir

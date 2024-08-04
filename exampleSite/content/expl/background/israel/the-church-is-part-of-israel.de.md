@@ -101,7 +101,7 @@ Von aller Gesetzlosigkeit zu erlösen ist eine Referenz zu den {{% bible val="Ps
 
 ## Der Dienst
 
-<a name="05d4"></a>{{% bible val="Jesaja 49" link="ezk:9,39" lang="de" %}} ist erfüllt in der Gemeinde.
+<a name="05d4"></a>{{% bible val="Jesaja 49" link="isa:49" lang="de" %}} ist erfüllt in der Gemeinde.
 
 | Jesaja 49 | Jesus | ist erfüllt in der Gemeinde |
 |-----------|-------|-----------------------------|

@@ -1,14 +1,5 @@
 ---
 title: "What are we reading"
-deeper:
-    - name: More on the genre
-      link:  /expl/background/literature/the-book-of-revelation-how-to-read-it
-    - name: The Old Testament, an important key to understand the pictures
-      link:  /expl/background/literature/full-of-biblical-references
-    - name: Are these all symbols?
-      link:  /expl/background/literature/literally-or-symbolic
-    - name: What does all the numbers mean and the beauty of poetry?
-      link:  /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 prev: /appl/background/history/some-things-never-change
 next: /appl/background/structure/the-timeline-in-the-book-of-revelation
 docType: appl

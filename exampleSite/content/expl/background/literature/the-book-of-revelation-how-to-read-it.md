@@ -36,9 +36,9 @@ The reason why the Book of Revelation is difficult to understand is that
 
 In the rest of this article we will focus on these three types, what they are, and what they mean when we read the book.
 
-## A letter
+## A letter {#letter}
 
-<a name="b4c1"></a>
+<a name="letter"></a>
 Let us begin with the nature of the letter. There are many aspects that reflect the book as a letter
 
 - {{% bible val="The formal introduction" link="rev:1,4-6" lang="en" %}} known from all the other letters in the Bible.
@@ -59,9 +59,9 @@ But it maintains the basic flow of a letter
 
 When we read the book, in chapters 4–21, we should expect a guideline on how to deal with the problems that the churches had in their specific time. This does not mean that we have different problems now, so that the answers cannot be applied, but if the majority of this book refers to parts that are only applicable in the future (even from our time), we have not considered the aspect of a letter.
 
-## A prophecy
+## A prophecy {#prophecy}
 
-<a name="b0d8"></a>
+<a name="prophecy"></a>
 When people hear the word prophecy, most of them think of a supernatural glimpse into the future, mainly describing things to come.
 
 While this is not entirely incorrect, the focus is different when it comes to the prophetic books of the Bible.
@@ -97,11 +97,13 @@ Revelation uses many prophetic elements
 
 The goal of a prophecy is to change the behavior and often uses emotional scenes to get a response from the reader or listener.
 
+But there is another aspect. The point of a prophecy is that it does not come true. This sounds a bit surprising, but it becomes clear in the book {{% bible val="Jonah" link="jon:4" lang="en" %}} when Jonah refuses to prophesy against the enemies of Israel (Nineveh is the outpost of the Assyrians) because they could convert and the judgment would not come to pass, which is what happens.
+
 It is not the standard Old Testament prophecy, as visions are often introduced with a simple “and I saw”, whereas in the Old Testament this is {{% bible val="done more elaborately" link="zec:1,7" lang="en" %}}.
 
-## An apocalypse
+## An apocalypse {#apocalypse}
 
-<a name="2f5c"></a>
+<a name="apocalypse"></a>
 That is the first word of the book: “Apocalypse of Jesus Christ”. This word literally means “revelation” but the direct translation is misleading because this is not a secret future telling about some event in the far or near future. It is also not about the end of the world, but about the end of the evil rulers and society. We know apocalyptic texts only from {{% bible val="Dan.7-12" link="dan:7" lang="en" %}}; {{% bible val="Mk.13" link="mrk:13" lang="en" %}}; {{% bible val="Mt.24" link="mat:24" lang="en" %}} and {{% bible val="Lk.21" link="luk:21" lang="en" %}} and we also have difficulties to understand them.
 
 But let’s start at the beginning: Apocalypse is a genre like any other. Even if there is no complete definition of what an apocalyptic book is, there are some considerations that can help us.
@@ -134,7 +136,7 @@ When we see this picture, we get the message without assuming that dragons are d
 - There is clearly an evil ruler (again, people of God), but a better time is coming with the new creation in chapter 21.
 - The book has no room for compromise and is full of either ors (Lamb vs. Dragon, Jerusalem vs. Babel, seal of God vs. mark of the Beast, worshippers of God vs. worshippers of the Beast, …) that challenge the political order (not the emperor but Jesus is the true king, not the Roman peace but the Kingdom of God, not loyalty to the emperor but faith in Jesus) and its ideology.
 
-## Conclusion
+## Conclusion {#summary}
 
 <a name="0491"></a>
 When we read the book, we must realize that it is

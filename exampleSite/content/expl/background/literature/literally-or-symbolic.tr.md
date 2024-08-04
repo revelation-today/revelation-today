@@ -54,7 +54,7 @@ Peki, sonuç nedir? Vahiy Kitabı, Daniel’deki görümü çevreleyen ve yine s
 
 Yani kitap öncelikle sembolik gibi görünüyor. Ama bir başka açıdan bakalım.
 
-## deiknumi ve semaino
+## deiknumi ve semaino {#deiknumi}
 
 <a name="0cc8"></a>
 Hayır, bu başlık bir yazım hatası değil, kitabın amacını gösteren iki kelimeyi açıklıyor: “{{% bible val="İsa Mesih’ten gelen vahiy, Tanrı ona yakında gerçekleşecek olanları kullarına göstermesi (deiknumi) için verdi. Bunu meleğini kulu Yuhanna’ya göndererek (semaino) bildirdi" link="rev:1,1" lang="tr" %}}”.

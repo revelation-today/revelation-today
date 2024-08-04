@@ -72,13 +72,46 @@ Sonuç olarak üç seçeneğiniz vardı
 
 Üçüncü seçenek birçok insan için çok zorlayıcıdır ve Vahiy Kitabı’nın ana konusudur: {{% int_link val="Kıyamet açısından sadece iki seçenek vardır — tamamen Tanrı’nın yanında ya da tamamen ona karşı" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}. Böylece kitap Pax Romana’ya karşı bir karşı propaganda yaratır.
 
+## Hristiyanlar ve Yahudiler
+
+Bir başka çatışma da Yahudilerle yaşandı. Uzun gelenekleri nedeniyle, Pax Romana ile çatışmadığı sürece inançlarını uygulamaya devam etme ayrıcalığına sahiptiler - Şabat'ı kutlayabilirler, tapınak faaliyetlerini sürdürebilirlerdi, ...
+
+Ancak şimdi, sadece Pax Romana'yı göz ardı etmekle kalmayıp, aynı zamanda din değiştirmeleri nedeniyle imparatorluktaki birçok insanı da aynı şeyi yapmaya ikna eden bir Yahudi mezhebi, Hıristiyanlar vardı. Bu nedenle Roma İmparatorluğu Yahudileri cezalandırdı, bu da Yahudilerin inançlarını sürdürebilmeleri için Hıristiyanları izinsiz girmekle suçlamak için daha gayretli olmalarını sağladı.
+
+Bu durum Hıristiyanlar için çok zordu ve Vahiy kitabı da bu konuya değinir.
+
+## Yahudilerin düşmanlığı {#Jews}
+
+İlk kilise zamanında, Yahudi dini uzun geçmişi nedeniyle Roma İmparatorluğu tarafından saygı görüyordu ve Yahudiler imparatora sadık kaldıkları sürece inançlarını yaşayabiliyorlardı. Ancak şimdi Hıristiyanlar geldi ve imparatora beklendiği gibi saygı (ibadet) göstermediler. Dahası, tüm insanları Yahudi İsa'yı takip etmeye ve imparatora saygı göstermemeye yönlendiriyorlardı. İmparator Hıristiyanları bir Yahudi mezhebi olarak gördüğü için Yahudiler baskı altındaydı. Bu durum Yahudileri, imparatorun Yahudilerin kendi taraflarında olmadığını anlamasını sağlamak için Hıristiyanları Romalılara karşı suçlamaya yöneltti.
+
+## Vahiy'de Yahudiler
+
+Kitap tek bir şey hakkındadır: İsa ve onun hakkında karar verilen her şey. Yahudiler için de durum aynıdır.
+
+İlk bölümde Hıristiyanlar ve Yahudiler arasında gerginlik olduğunu gördük. Bu durum, İsa'ya tanıklık eden kiliseye saldırdıkları İzmir ve Philadelphia'da da açıkça görülmektedir. Sonuç olarak, bu Yahudiler Şeytan'ın sinagogu olarak adlandırılırlar. Filadelfiya'daki Yahudilerin daha sonra oradaki kiliseye boyun eğdikleri söylendiğinde, bu onların İsa'yı kabul ettikleri anlamına gelir, kiliseye boyun eğdikleri anlamına değil.
+
+Ayrıca 11. bölümde, ruhsal olarak Sodom (günah yeri) ve Mısır (kölelik yeri) olarak tanımlanan iki tanığın öldürüldüğü yer, Yeruşalim'in bir tanımıdır (çünkü Rableri İsa orada öldürülmüştür). Burada isimden bile kaçınılmıştır.
+
+Vahiy kitabı boyunca etnik İsrail'le olan ilişkiden bahsedilmez (7. bölümdeki 144,000'i okuyuşunuza bağlı olarak), sadece İsa'yla olan ilişkiden bahsedilir.
+
+Öte yandan, kilise İsrail'in bir parçasıdır ve Yahudi ve Hıristiyanların birliğini tanımlayan açık ifadeler vardır, örneğin 4. bölümdeki 24 ihtiyarın 12 kabileyi ve 12 havariyi temsil etmesi ya da 12 kabilenin ve 12 havarinin isimlerinin Yeni Yeruşalim'e kazınmış olması gibi.
+
+Ayrıca cennet tarafsız bir yer olarak değil, Yeni Yeruşalim olarak tanımlanır. İsa'nın ikinci gelişinde fiziksel Yeruşalim'de görünmesi hiç de şaşırtıcı olmayacaktır.
+
+Yahudiler hakkında neden bu kadar tartışmalı bir ifade vardır? Çünkü kilise İsrail'in bir parçasıdır ve bu nedenle bazı Yahudiler kiliseye açıkça saldırsa bile köklerini kesemez.
+
+## Sonuç
+
+Kilisenin karşılaştığı zorluk, İsrail'in bir parçası olmak ve İsrail tarafından saldırıya uğramak arasındaki gerilimle başa çıkmaktır.
+
+Farklı kilise mezheplerinde birbirimizle ya da Yahudilerle nasıl başa çıkacağımız konusunda bu kitaptan çok şey öğrenebileceğimizi düşünüyorum.
+
 ## Götürün
 
-<a name="9eaf"></a>
-Bunlar üzerinde düşünmeniz gereken birkaç soru:
-
-- Pax Romana bugün nasıl formüle ediliyor? Birisi aynı fikirde değilse ne olur?
-- İyi yaşamınızın kaynağı olarak kimi/neyi görüyorsunuz? Yaşamınızdaki sorunların çözümünü ya da yaşamınızdaki yönelimleri kimden/neden bekliyorsunuz?
-- Bu “politik doğruculuk” ile çelişiyorsa nasıl tepki veriyorsunuz? Sizinle aynı fikirde olmayan diğer insanları nasıl tehdit ediyorsunuz?
-- Hayatınızın belirli alanlarında rol yapma ihtiyacı hissediyor musunuz? Neden? Rol yapmazsanız ne olur?
-- Kişisel görüşünüzün/inancınızın size çok pahalıya mal olacağı bir durumla karşılaşsaydınız? Yine de bunu savunur muydunuz? Hangi dereceye kadar? Pratikte ne yapardınız?
+İşte düşünmek için bazı sorular: 
+- Pax Romana bugün nasıl ifade ediliyor? Birisi aynı fikirde olmadığında ne oluyor? 
+- İyi yaşamınızın kaynağı olarak kimi/neyi görüyorsunuz? Hayatınızdaki sorunların çözümünü ya da hayatınızdaki yönelimi kimden/neden bekliyorsunuz? 
+- Bu "siyaseten doğru" olmakla çeliştiğinde nasıl tepki veriyorsunuz? 
+- Sizinle aynı fikirde olmayan diğer insanları nasıl tehdit ediyorsunuz? 
+- Hayatınızın belirli alanlarında rol yapma ihtiyacı hissediyor musunuz? Neden? Rol yapmasaydınız ne olurdu? 
+- Kişisel görüşünüzün/inancınızın size çok pahalıya mal olacağı bir durumda olsaydınız? Yine de onu savunur muydunuz? Ne ölçüde? Pratikte ne yapardınız?

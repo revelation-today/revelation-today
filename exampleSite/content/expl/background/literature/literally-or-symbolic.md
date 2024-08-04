@@ -53,7 +53,7 @@ So what is the conclusion? The book of Revelation uses the same phrases that sur
 
 So the book seems to be primarily symbolic. But let us look at another aspect.
 
-## deiknumi and semaino
+## deiknumi and semaino {#deiknumi}
 
 <a name="27d2"></a>
 No, this heading is not a typo but describes the two words that show the purpose of the book: “{{% bible val="The Revelation from Jesus Christ, which God gave him to show (deiknumi) his servants what must soon take place. He made it known (semaino) by sending his angel to his servant John" link="rev:1,1" lang="en" %}}”.

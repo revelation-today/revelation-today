@@ -36,9 +36,9 @@ Das Buch Offenbarung ist deshalb so schwer zu verstehen, weil es
 
 Im weiteren Verlauf dieses Artikels werde ich auf diese drei Gattungen eingehen, was sie kennzeichnet und was sie ausmacht und wie uns dies hilft, das Buch besser zu verstehen.
 
-## Ein Brief
+## Ein Brief {#letter}
 
-<a name="1792"></a>
+<a name="letter"></a>
 Beginnen wir mit dem Brief. Es gibt viele Aspekte, die Offenbarung den Charakter eines Briefes verleihen:
 
 - {{% bible val="die formale Einleitung" link="rev:1,4-6" lang="de" %}}, die in allen Briefen in der Bibel zu finden ist,
@@ -59,9 +59,9 @@ Aber es bleibt im Fluss eines Briefes
 
 Wenn wir dieses Buch lesen, sollten wir in den Kapiteln 4–21 einen Leitfaden erwarten, wie die damaligen Gemeinden mit den spezifischen Problemen ihrer Zeit umgehen konnten. Das heißt nicht, dass wir heute ganz andere Probleme haben (ganz im Gegenteil) und dass diese Themen für uns nicht wichtig wären, aber wenn die Mehrheit des Buches (selbst für uns) nur in der Zukunft angewendet werden kann, dann haben wir nicht bedacht, dass dieses Buch auch ein Brief ist.
 
-## Eine Prophetie
+## Eine Prophetie {#prophecy}
 
-<a name="3319"></a>
+<a name="prophecy"></a>
 Wenn man das Wort Prophetie hört, denken die meisten Menschen an einen übernatürlichen Blick in die Zukunft, um zu beschreiben, was auf uns zukommt.
 
 Das ist nicht ganz falsch, aber der Schwerpunkt der prophetischen Bücher in der Bibel liegt woanders.
@@ -92,16 +92,18 @@ Die Offenbarung verwendet verschiedene Elemente einer Prophetie:
 - {{% bible val="Sie beginnt" link="lev:26,44" lang="de" %}} ähnlich wie andere prophetische Bücher des Alten Testaments.
 - Sie hat {{% bible val="Visionen mit einer Berufung" link="lev:26,44" lang="de" %}} wie auch {{% bible val="Jesaja" link="isa:6" lang="de" %}}.
 - Sie nimmt Bezug auf viele prophetische Bücher des Alten Testaments wie Jesaja, Jeremia, Daniel, Sachaja, Ezechiel, …
-- Das Buch mahnt: Ziehz aus Babel aus, {{% bible val="lasst die Liebe nicht erkalten" link="isa:6" lang="de" %}}, {{% bible val="erlaubt keine falsche Lehre" link="rev:2,14-15" lang="de" %}}, …
-- Es spricht aus Trost aus: {{% bible val="Gottes Volk ist geschützt" link="rev:2,14-15" lang="de" %}}, {{% bible val="niemand geht verloren" link="rev:7,5-8" lang="de" %}}, {{% bible val="Gottes Reich wird definitiv kommen" link="rev:21" lang="de" %}}.
+- Das Buch mahnt: Zieht aus Babel aus, {{% bible val="lasst die Liebe nicht erkalten" link="isa:6" lang="de" %}}, {{% bible val="erlaubt keine falsche Lehre" link="rev:2,14-15" lang="de" %}}, …
+- Es spricht Trost aus: {{% bible val="Gottes Volk ist geschützt" link="rev:2,14-15" lang="de" %}}, {{% bible val="niemand geht verloren" link="rev:7,5-8" lang="de" %}}, {{% bible val="Gottes Reich wird definitiv kommen" link="rev:21" lang="de" %}}.
 
 Das Ziel der Prophetie ist es, das Verhalten zu ändern, oft mit einer emotionalen Szene, um eine Reaktion des Lesers zu provozieren.
 
+Aber es gibt noch einen weiteren Aspekt. Der Sinn einer Prophetie ist, dass sie nicht eintrifft. Das klingt jetzt etwas verwunderlich, aber wird in dem Buch {{% bible val="Jona" link="jon:4" lang="de" %}} klar, als Jona sich weigert, gegen die Feinde Israels (Ninive ist der Außenposten der Assyrer) zu prophezeien, da diese sich bekehren könnten und das Gericht nicht eintritt, was ja dann auch geschieht.
+
 Es handelt sich nicht um eine typische Prophezeiung des Alten Testaments, da eine Vision oft nur mit einem einfachen “und ich sah” angekündigt wird und nicht so detailliert wie {{% bible val="an anderen Stellen" link="zec:1,7" lang="de" %}} des Alten Testaments.
 
-## Eine Apokalypse
+## Eine Apokalypse {#apocalypse}
 
-<a name="1b13"></a>
+<a name="apocalypse"></a>
 Das sind die ersten Worte des Buches: “Apokalypse von Jesus Christus”. Das Wort bedeutet wörtlich “Offenbarung”, wird aber leicht missverstanden, weil es Geheimnisse über die Zukunft suggeriert. In einer Apokalypse geht es aber nicht um das Ende der Welt. Wir kennen in der Bibel einige apokalyptische Texte: {{% bible val="Dan.7–12" link="dan:7" lang="de" %}}; {{% bible val="Mk.13" link="mrk:13" lang="de" %}}; {{% bible val="Mt.24" link="mat:24" lang="de" %}} und {{% bible val="Lk.21" link="luk:21" lang="de" %}}, und wir haben schon mit diesen Texten unsere Schwierigkeiten.
 
 Aber fangen wir am Anfang an: Die Apokalypse ist ein Genre wie jedes andere. Obwohl es keine endgültige Definition gibt, was genau ein apokalyptisches Buch ist, gibt es einige Gesichtspunkte, die uns helfen können.
@@ -136,9 +138,9 @@ In der Offenbarung haben wir ähnliche Elemente:
 - Es gibt einen bösen Herrscher (der gegen das Volk Gottes arbeitet), aber eine bessere Zeit kommt mit der neuen Schöpfung in Kapitel 21.
 - Das Buch lässt keinen Raum für Kompromisse und ist voller Entweder-Oder (Lamm oder Drache, Jerusalem oder Babel, Siegel Gottes oder Zeichen des Tieres, Anbeter Gottes oder Anbeter des Tieres, …), es stellt die politische Ordnung und die Ideologie in Frage (nicht der Kaiser in Rom, sondern Jesus ist der wahre König, nicht der römische Friede, sondern das Reich Gottes, nicht die Treue zum Kaiser, sondern der Glaube an Jesus).
 
-## Zusammenfassung
+## Zusammenfassung {#summary}
 
-<a name="ade7"></a>
+<a name="summary"></a>
 Wenn wir das Buch lesen, müssen wir es unter folgenden Aspekten lesen
 
 - als Brief: es muss für die ersten Leser vor 2000 Jahren Sinn gemacht haben und anwendbar gewesen sein

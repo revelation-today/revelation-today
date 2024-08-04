@@ -1,6 +1,14 @@
 ---
 linkTitle: Literatur
 title: Was lese ich da?
+deeper:
+    - link:  /expl/background/literature/the-book-of-revelation-how-to-read-it
+    - link:  /expl/background/literature/full-of-biblical-references
+    - link:  /expl/background/literature/literally-or-symbolic
+    - link:  /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
+docType: quick
+appl: /appl/background/literature
+expl: /expl/background/literature/the-book-of-revelation-how-to-read-it
 weight: 2
 ---
 
