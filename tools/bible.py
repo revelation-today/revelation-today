@@ -65,8 +65,8 @@ def parse_line(file_path, lang, line, last_link, last_header, title):
         for all, val, link in match:
             if link.startswith("https"):
                 continue
-            if last_link:
-                parse_bible(file_path, lang, title, last_header, last_link, link, val)
+#            if last_link:
+            parse_bible(file_path, lang, title, last_header, last_link, link, val)
     return last_link, last_header, title
                 
 def parse_bible(file_path, lang, title, last_header, last_link, link, val):
@@ -195,7 +195,10 @@ def write_verse(fp, lang, book, data):
         bible_verse = BOOKS[book][lang] + ":" + chapter
     bible_link = book + ":" + chapter + "," + verse
     bible_data = "{{% bible val=\"" + bible_verse + "\" link=\"" + bible_link + "\" lang=\"" + lang + "\" %}}" 
-    ref_text = "\"" + header + "\": " + text
+    if header:
+        ref_text = "\"" + header + "\": " + text
+    else:
+        ref_text = text
     ref_link = filename + "#" + ref
     ref_data = "[" + ref_text + "](" + ref_link + ")"
     fp.write("| " + bible_data + " | " + ref_data + " |\n")
