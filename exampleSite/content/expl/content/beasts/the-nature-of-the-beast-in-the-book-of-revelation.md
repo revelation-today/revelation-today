@@ -6,7 +6,7 @@ story: /story/content/witnesses
 prev: /expl/content/jesus/a-different-christmas-story
 next: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
 docType: expl
-appl: /appl/content/beasts/the-perfect-gospel
+appl: /appl/content/beasts
 deeper:
     - name: The beasts in historical context
       link:  /expl/content/beasts/the-beasts-and-the-666-in-historical-context

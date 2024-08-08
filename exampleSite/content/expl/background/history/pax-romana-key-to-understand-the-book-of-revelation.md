@@ -12,7 +12,7 @@ sources:
 prev: /welcome/expl
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
-appl: /appl/background/history/some-things-never-change
+appl: /appl/background/history
 ---
 
 You may think that the Book of Revelation in the Bible or the Pax Romana in ancient Rome have nothing to do with your life today. You are wrong, and here is why.

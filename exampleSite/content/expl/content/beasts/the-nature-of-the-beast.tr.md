@@ -6,7 +6,7 @@ story: /story/content/witnesses
 prev: /expl/content/beasts/666-the-number-of-the-beast
 next: /expl/content/harvest/gods-army-and-the-seven-angels
 docType: expl
-appl: /appl/content/beasts/the-perfect-gospel
+appl: /appl/content/beasts
 ---
 
 Şeytan tüm köleleriyle birlikte Vahiy Kitabı’nda oldukça fazla yer kaplar ve ben de bu konu üzerine epeyce makale yazdım. Neden? Tanrı’yı tanımlamak için daha fazla zaman ve çaba harcamamız gerekmez mi? Bunun bir nedeni var

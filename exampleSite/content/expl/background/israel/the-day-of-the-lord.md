@@ -4,7 +4,7 @@ weight: 3
 prev: /expl/background/israel/gods-covenant
 next: /expl/background/israel/the-remnant-of-israel
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 When you hear “Day of the Lord”, you think of the destruction of the world. But that is not the case. If you want to know more and see where this comes from, stay with me.

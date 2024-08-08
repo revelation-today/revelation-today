@@ -6,7 +6,7 @@ story: /story/content/letters
 prev: /expl/content/letters/the-letter-to-the-church-in-smyrna
 next: /expl/content/letters/the-letter-to-the-church-in-thyatira
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 deeper:
     - name: The story of Balaam
       link:  /expl/bible/keyword/the-story-of-balaam

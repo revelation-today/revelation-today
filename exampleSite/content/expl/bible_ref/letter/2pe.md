@@ -8,4 +8,4 @@ docType: expl
 
 | Verse | Reference |
 |-------|-----------|
-| {{% bible val="2.Peter:1,19" link="2pe:1,19" lang="en" %}} | ["The solution": dawn of a new hope](../exampleSite/content/expl/../expl/content/letters/the-letter-to-the-church-in-thyatira#09f8) |
+| {{% bible val="2.Peter:1,19" link="2pe:1,19" lang="en" %}} | ["The solution": dawn of a new hope](/expl/content/letters/the-letter-to-the-church-in-thyatira#09f8) |

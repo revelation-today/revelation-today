@@ -1,6 +1,6 @@
 ---
 title: "A real hero"
-prev: /appl/content/paradise/what-is-heaven-and-hell-about
+prev: /appl/content/paradise
 next: /appl/topics/hero/who-rules-the-world
 docType: appl
 ---

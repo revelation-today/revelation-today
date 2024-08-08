@@ -6,7 +6,7 @@ story: /story/content/1000y
 prev: /expl/content/paradise/the-new-jerusalem
 next: /expl/topics/others/dispensionalism-a-little-history
 docType: expl
-appl: /appl/content/paradise/what-is-heaven-and-hell-about
+appl: /appl/content/paradise
 ---
 
 Cennet ve cehennem nedir? Bütün insanlar cennete gider mi? İyi bir Tanrı insanları nasıl cehenneme gönderebilir?

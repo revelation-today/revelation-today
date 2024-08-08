@@ -9,7 +9,7 @@ sources:
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
 docType: expl
-appl: /appl/content/vision/vision
+appl: /appl/content/vision
 ---
 
 Vahiy kitabı, kolayca gözden kaçabilen ancak kitabın anlaşılması için kilit önem taşıyan bazı ifadelerle başlar. Bir göz atalım ve yeni gözlerle görelim.

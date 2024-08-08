@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/israel/jesus-and-the-covenant
 next: /expl/background/israel/the-church-is-part-of-israel
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 There was an exodus from Egypt. But when Israel failed to keep the law, they went into exile. Filled with promises of their return, when they returned from exile, they saw that nothing had changed. So the conclusion: They are still in exile, waiting for a new exodus. And that is coming with Jesus!

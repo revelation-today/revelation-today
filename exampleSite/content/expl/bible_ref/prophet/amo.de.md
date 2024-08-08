@@ -8,4 +8,4 @@ docType: expl
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Amos:1,9" link="amo:1,9" lang="de" %}} | ["Der religiöse Aspekt": sie Juden verkaufte](../exampleSite/content/expl/../expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
+| {{% bible val="Amos:1,9" link="amo:1,9" lang="de" %}} | ["Der religiöse Aspekt": sie Juden verkaufte](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |

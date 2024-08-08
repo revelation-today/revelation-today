@@ -2,7 +2,7 @@
 title: "Ejderha ve iki canavar (Böl. 13)"
 weight: 100
 story: /story/content/witnesses
-appl: /appl/content/beasts/the-perfect-gospel
+appl: /appl/content/beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /quick/content/jesus
 next: /quick/content/harvest

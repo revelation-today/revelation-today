@@ -12,7 +12,7 @@ sources:
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-three-mysteries
 docType: expl
-appl: /appl/background/structure/the-timeline-in-the-book-of-revelation
+appl: /appl/background/structure
 ---
 
 Vahiy Kitabı ilk bakışta çok düzensiz görünür. Felaketler birbiri ardına gelir ve sonra tekrar başlar. Ancak daha yakından bakarsak sanatsal bir yapı ve kasıtlı bir çalışma görürüz.

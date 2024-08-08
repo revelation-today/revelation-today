@@ -4,7 +4,7 @@ weight: 20
 prev: /expl/background/structure/the-structure-of-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
-appl: /appl/background/structure/the-timeline-in-the-book-of-revelation
+appl: /appl/background/structure
 ---
 
 Das Buch der Offenbarung spricht von drei Geheimnissen: dem Geheimnis der Kirche, dem Geheimnis Gottes und dem Geheimnis des Tieres. Was sind diese Geheimnisse, und bedeutet eigentlich “Geheimnis”? Das werden wir bald sehen und auch, wie dies eine neue Perspektive auf die Struktur des Buches eröffnet.

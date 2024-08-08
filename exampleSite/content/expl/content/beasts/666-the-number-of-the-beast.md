@@ -6,7 +6,7 @@ story: /story/content/witnesses
 prev: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
 next: /expl/content/beasts/the-nature-of-the-beast
 docType: expl
-appl: /appl/content/beasts/the-perfect-gospel
+appl: /appl/content/beasts
 sources:
     - pages: 384–452
       ref: bauckham_climax

@@ -9,7 +9,7 @@ sources:
 prev: /expl/background/literature/full-of-biblical-references
 next: /expl/background/structure/the-structure-of-the-book-of-revelation
 docType: expl
-appl: /appl/background/literature/what-are-we-reading
+appl: /appl/background/literature
 ---
 
 İlk dinleyiciler Vahiy Kitabı’nı nasıl yeniden okudular? Başlık ya da paragraf yoktu, sadece düz metin vardı. Gelin bu çok farklı okuma biçimine bir göz atalım.

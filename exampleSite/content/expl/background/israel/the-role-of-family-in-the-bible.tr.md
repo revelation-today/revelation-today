@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 next: /expl/background/israel/gods-covenant
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 Kutsal Kitap ataerkil yapıları destekler ve teşvik eder mi? Kadınların o kadar da önemli olmadığı düşüncesini destekliyor mu? Çok uzaktasınız ama antik kültürde ailenin nasıl olduğunu açıklamama izin verin.

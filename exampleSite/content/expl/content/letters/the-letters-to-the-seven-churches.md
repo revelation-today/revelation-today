@@ -6,7 +6,7 @@ story: /story/content/letters
 prev: /expl/content/letters/the-angel-of-the-churches
 next: /expl/content/letters/the-letter-to-the-church-in-ephesus
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 ---
 
 The book of Revelation shows seven letters to seven specific churches. What is the purpose? What is the structure? And what is the overall massage?

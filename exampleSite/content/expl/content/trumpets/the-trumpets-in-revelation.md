@@ -6,7 +6,7 @@ story: /story/content/trumpets
 prev: /expl/content/army/the-end-time-and-the-great-tribulation
 next: /expl/content/scroll/the-little-scroll
 docType: expl
-appl: /appl/content/trumpets/prayer-and-the-unshakeable
+appl: /appl/content/trumpets
 deeper:
     - name: The little scroll
       link:  /expl/content/scroll/the-little-scroll

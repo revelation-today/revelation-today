@@ -6,7 +6,7 @@ story: /story/content/1000y
 prev: /expl/content/paradise/the-new-jerusalem
 next: /expl/topics/others/dispensionalism-a-little-history
 docType: expl
-appl: /appl/content/paradise/what-is-heaven-and-hell-about
+appl: /appl/content/paradise
 ---
 
 Was sind Himmel und Hölle? Kommen alle Menschen in den Himmel? Wenn nicht, wie kann ein guter Gott Menschen in die Hölle schicken?

@@ -8,4 +8,4 @@ docType: expl
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Nehemia:4" link="neh:4,-1" lang="de" %}} | ["Die 70 Jahrwochen": seit dem Bau ](../exampleSite/content/expl/../expl/bible/daniel/the-70-year-weeks#d777) |
+| {{% bible val="Nehemia:4" link="neh:4,-1" lang="de" %}} | ["Die 70 Jahrwochen": seit dem Bau ](/expl/bible/daniel/the-70-year-weeks#d777) |

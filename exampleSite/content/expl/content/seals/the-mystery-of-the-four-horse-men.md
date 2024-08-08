@@ -6,7 +6,7 @@ story: /story/content/seals
 prev: /expl/content/worship/the-book-with-the-seven-seals
 next: /expl/content/seals/the-wrath-of-the-lamb
 docType: expl
-appl: /appl/content/seals/the-paradox-of-the-seven-seals
+appl: /appl/content/seals
 deeper:
     - name: "The 144 000"
       link:  /expl/content/army/the-144000

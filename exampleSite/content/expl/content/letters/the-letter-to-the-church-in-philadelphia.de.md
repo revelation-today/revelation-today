@@ -6,7 +6,7 @@ story: /story/content/letters
 prev: /expl/content/letters/the-letter-to-the-church-in-sardis
 next: /expl/content/letters/the-letter-to-the-church-in-laodicea
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 sources: 
     - pages: 283–296
       ref: beale_rev

@@ -6,7 +6,7 @@ story: /story/content/worship
 prev: /expl/content/worship/worship-in-the-throne-room
 next: /expl/content/seals/the-mystery-of-the-four-horse-men
 docType: expl
-appl: /appl/content/worship/the-answer-to-all-questions
+appl: /appl/content/worship
 sources: 
     - pages: 337–369
       ref: beale_rev

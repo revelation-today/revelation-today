@@ -9,7 +9,7 @@ sources:
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
 docType: expl
-appl: /appl/content/vision/vision
+appl: /appl/content/vision
 ---
 
 Die Offenbarung beginnt mit einigen Aussagen, die man leicht überliest, die aber für das Verständnis des Buches entscheidend sind. Wenn wir sie betrachten, können wir das Buch mit neuen Augen sehen.

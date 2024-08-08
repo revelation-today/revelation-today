@@ -6,7 +6,7 @@ story: /story/content/witnesses
 prev: /expl/content/scroll/the-little-scroll
 next: /expl/content/jesus/a-different-christmas-story
 docType: expl
-appl: /appl/content/witnesses/the-force-that-changes-the-world
+appl: /appl/content/witnesses
 deeper:
     - name: The power of testimony
       link: /topics/power/short/the-power-of-testimony

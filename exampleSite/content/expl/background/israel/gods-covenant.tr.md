@@ -10,7 +10,7 @@ sources:
 prev: /expl/background/israel/the-role-of-family-in-the-bible
 next: /expl/background/israel/the-day-of-the-lord
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 {{% int_link val="Eski zamanlarda bir ailede olmak hayatta kalmak için gerekliydi" link="/expl/background/israel/the-role-of-family-in-the-bible" %}} (tedarik, koruma, …) ve önemli bir ailede olmak daha da iyiydi.

@@ -6,7 +6,7 @@ story: /story/content/witnesses
 prev: /expl/content/beasts/666-the-number-of-the-beast
 next: /expl/content/harvest/gods-army-and-the-seven-angels
 docType: expl
-appl: /appl/content/beasts/the-perfect-gospel
+appl: /appl/content/beasts
 ---
 
 The devil with all his minions takes up quite a bit of space in the book of Revelation, and I also spend quite a few articles on the subject. Why is this? Shouldn’t we spend more time and effort describing God? Well, there is a reason.

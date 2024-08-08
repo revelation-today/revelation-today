@@ -6,7 +6,7 @@ story: /story/content/harvest
 prev: /expl/content/bowls/the-bowls-of-wrath
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl
-appl: /appl/content/bowls/the-wrath-of-god
+appl: /appl/content/bowls
 ---
 
 Peki Mesih’ten önceki ilk bin yılın yakın doğusundaki en önemli savaşlardan birinin dünyanın sonuyla bağlantılı olan ahir zaman savaşıyla ne ilgisi var? Savaş kelimesinden çok daha fazlası.

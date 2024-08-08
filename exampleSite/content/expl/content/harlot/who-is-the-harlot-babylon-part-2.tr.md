@@ -6,7 +6,7 @@ story: /story/content/harlot
 prev: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 next: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 docType: expl
-appl: /appl/content/harlot/the-harlot-the-complexity-of-evil
+appl: /appl/content/harlot
 deeper:
     - name: İmparatorlukla alay eder gibi Babil
       link:  /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire

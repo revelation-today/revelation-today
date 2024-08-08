@@ -4,7 +4,7 @@ weight: 5
 prev: /expl/background/israel/the-remnant-of-israel
 next: /expl/background/israel/the-second-exodus
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 İsa yeryüzüne geldiğinde, Yahudiler için gerçekten şok edici olan mesajı ve davranışlarıyla insanları “şaşırttı”. Neden ve bunun antlaşmayla ne ilgisi var?

@@ -9,7 +9,7 @@ sources:
 prev: /expl/background/structure/the-three-mysteries
 next: /expl/background/israel/the-role-of-family-in-the-bible
 docType: expl
-appl: /appl/background/structure/the-timeline-in-the-book-of-revelation
+appl: /appl/background/structure
 ---
 
 Die Offenbarung ist voll von Zahlen, aber was bedeuten sie? Sind sie wörtlich zu verstehen wie 1260 Tage oder haben sie eine andere Bedeutung? Wie werden Zahlen in der Bibel grundsätzlich verwendet?

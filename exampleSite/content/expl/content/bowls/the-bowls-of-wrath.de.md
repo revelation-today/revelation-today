@@ -6,7 +6,7 @@ story: /story/content/harvest
 prev: /expl/content/harvest/gods-army-and-the-seven-angels
 next: /expl/content/bowls/the-key-to-armageddon
 docType: expl
-appl: /appl/content/bowls/the-wrath-of-god
+appl: /appl/content/bowls
 deeper:
     - name: Harmageddon
       link:  /expl/content/bowls/the-key-to-armageddon

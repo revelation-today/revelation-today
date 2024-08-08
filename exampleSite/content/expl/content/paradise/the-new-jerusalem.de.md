@@ -6,7 +6,7 @@ story: /story/content/1000y
 prev: /expl/content/1000y/the-thousand-year-kingdom
 next: /expl/content/paradise/heaven-and-hell
 docType: expl
-appl: /appl/content/paradise/what-is-heaven-and-hell-about
+appl: /appl/content/paradise
 sources: 
     - pages: 1039–1121
       ref: beale_rev

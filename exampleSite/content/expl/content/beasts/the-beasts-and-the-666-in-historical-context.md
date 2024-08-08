@@ -6,7 +6,7 @@ story: /story/content/witnesses
 prev: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 next: /expl/content/beasts/666-the-number-of-the-beast
 docType: expl
-appl: /appl/content/beasts/the-perfect-gospel
+appl: /appl/content/beasts
 sources: 
     - pages: 682–684
       ref: beale_rev

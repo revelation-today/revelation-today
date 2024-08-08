@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/literature/the-book-of-revelation-how-to-read-it
 next: /expl/background/literature/full-of-biblical-references
 docType: expl
-appl: /appl/background/literature/what-are-we-reading
+appl: /appl/background/literature
 ---
 
 Die Offenbarung enthält viele Bilder, die aus einer anderen Welt zu stammen scheinen. Sollen wir sie alle wörtlich nehmen oder sind sie symbolisch gemeint? In gewissem Sinne ist beides richtig. Aber ich greife vor.

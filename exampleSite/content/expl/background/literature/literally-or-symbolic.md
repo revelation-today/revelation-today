@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/literature/the-book-of-revelation-how-to-read-it
 next: /expl/background/literature/full-of-biblical-references
 docType: expl
-appl: /appl/background/literature/what-are-we-reading
+appl: /appl/background/literature
 ---
 
 The book of Revelation uses a lot of images that seem to be out of our world. Do we need to stretch our imaginations or are these just symbols? Well, both. Read on for a better understanding.

@@ -6,7 +6,7 @@ story: /story/content/harvest
 prev: /expl/content/bowls/the-bowls-of-wrath
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl
-appl: /appl/content/bowls/the-wrath-of-god
+appl: /appl/content/bowls
 ---
 
 So what does one of the most important battles in the Middle East of the first millennium before Christ have to do with the end-time battle connected to the end of the world? Well — more than just the word battle.

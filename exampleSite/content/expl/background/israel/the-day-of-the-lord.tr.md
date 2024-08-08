@@ -4,7 +4,7 @@ weight: 3
 prev: /expl/background/israel/gods-covenant
 next: /expl/background/israel/the-remnant-of-israel
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 “Rab’bin Günü “nü duyduğunuzda dünyanın yok olacağını düşünürsünüz. Ancak durum böyle değildir. Daha fazlasını öğrenmek ve bunun nereden geldiğini görmek istiyorsanız, benimle kalın.

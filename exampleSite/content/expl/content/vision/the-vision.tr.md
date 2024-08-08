@@ -9,7 +9,7 @@ sources:
 prev: /expl/content/vision/setting-the-foundation
 next: /expl/content/letters/the-angel-of-the-churches
 docType: expl
-appl: /appl/content/vision/vision
+appl: /appl/content/vision
 ---
 
 Vahiy Kitabı büyük bir patlamayla başlar. Yuhanna kandillerin arasında yürüyen ve elinde başlangıçlar olan inanılmaz bir figür görür. Bu görümün bir şekilde kitabın kapsamını belirlediği açık olsa da, asıl mesajın ne olduğunu merak edebilirsiniz.

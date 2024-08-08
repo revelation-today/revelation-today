@@ -6,7 +6,7 @@ story: /story/content/harvest
 prev: /expl/content/beasts/the-nature-of-the-beast
 next: /expl/content/bowls/the-bowls-of-wrath
 docType: expl
-appl: /appl/content/harvest/the-weapons-of-the-church
+appl: /appl/content/harvest
 sources: 
     - pages: 730–784
       ref: beale_rev

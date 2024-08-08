@@ -6,7 +6,7 @@ story: /story/content/harlot
 prev: /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-2
 docType: expl
-appl: /appl/content/harlot/the-harlot-the-complexity-of-evil
+appl: /appl/content/harlot
 deeper:
     - name: The Harlot part 2
       link:  /expl/content/harlot/who-is-the-harlot-babel-part-2

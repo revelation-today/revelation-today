@@ -8,4 +8,4 @@ docType: expl
 
 | Verse | Reference |
 |-------|-----------|
-| {{% bible val="Lamentations:2,10" link="lam:2,10" lang="en" %}} | ["The character of the two witnesses": national distress](../exampleSite/content/expl/../expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Lamentations:2,10" link="lam:2,10" lang="en" %}} | ["The character of the two witnesses": national distress](/expl/content/witnesses/the-two-witnesses#3181) |

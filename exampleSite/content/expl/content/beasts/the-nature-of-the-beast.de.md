@@ -6,7 +6,7 @@ story: /story/content/witnesses
 prev: /expl/content/beasts/666-the-number-of-the-beast
 next: /expl/content/harvest/gods-army-and-the-seven-angels
 docType: expl
-appl: /appl/content/beasts/the-perfect-gospel
+appl: /appl/content/beasts
 ---
 
 Satan und seine Helfer nehmen nicht nur in der Offenbarung, sondern auch in diesem Artikel einen großen Raum ein. Warum eigentlich? Sollten wir uns nicht mehr mit Gott beschäftigen? Nun, es gibt einen Grund: Wenn wir den Charakter Satans verstehen, haben wir auch ein besseres Verständnis von Gott.

@@ -12,7 +12,7 @@ sources:
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-three-mysteries
 docType: expl
-appl: /appl/background/structure/the-timeline-in-the-book-of-revelation
+appl: /appl/background/structure
 ---
 
 Auf den ersten Blick wirkt das Buch Offenbarung sehr unorganisiert. Eine Katastrophe folgt auf die andere und dann geht es wieder von vorne los. Aber wenn wir genauer hinsehen, erkennen wir eine ausgeklügelte Struktur und ein umfassendes Arrangement.

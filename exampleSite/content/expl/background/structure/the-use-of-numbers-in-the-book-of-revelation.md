@@ -9,7 +9,7 @@ sources:
 prev: /expl/background/structure/the-three-mysteries
 next: /expl/background/israel/the-role-of-family-in-the-bible
 docType: expl
-appl: /appl/background/structure/the-timeline-in-the-book-of-revelation
+appl: /appl/background/structure
 ---
 
 The book is full of numbers, but what do they mean? Are they literal, like 1260 days, or are they meant to be red in some other way? How are numbers used in the Bible?

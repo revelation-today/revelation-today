@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/literature/literally-or-symbolic
 next: /expl/background/literature/literary-tools-in-the-book-of-revelation
 docType: expl
-appl: /appl/background/literature/what-are-we-reading
+appl: /appl/background/literature
 ---
 
 One key to understanding the book of Revelation is to interpret it through the Bible itself, as this book is full of references to the rest of the Bible. But is this really true, and would the original readers have understood it?

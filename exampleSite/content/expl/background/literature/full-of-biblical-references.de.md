@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/literature/literally-or-symbolic
 next: /expl/background/literature/literary-tools-in-the-book-of-revelation
 docType: expl
-appl: /appl/background/literature/what-are-we-reading
+appl: /appl/background/literature
 ---
 
 Ein Schlüssel zum Verständnis der Offenbarung besteht darin, die Bibel durch die Bibel zu erklären, denn das Buch Offenbarung ist voll von Bezügen zur übrigen Bibel. Aber ist das wirklich so und haben es die ersten Leser auch so verstanden?

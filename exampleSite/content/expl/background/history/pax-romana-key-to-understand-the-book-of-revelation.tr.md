@@ -12,7 +12,7 @@ sources:
 prev: /welcome/expl
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
-appl: /appl/background/history/some-things-never-change
+appl: /appl/background/history
 ---
 
 İncil’deki Vahiy Kitabı’nın ya da antik Roma’daki Pax Romana’nın şu anki yaşamınızla hiçbir ilgisi olmadığını düşünebilirsiniz. Yanılıyor olabilirsiniz ve işte nedeni.

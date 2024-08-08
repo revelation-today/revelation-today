@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/literature/the-book-of-revelation-how-to-read-it
 next: /expl/background/literature/full-of-biblical-references
 docType: expl
-appl: /appl/background/literature/what-are-we-reading
+appl: /appl/background/literature
 ---
 
 Vahiy Kitabı’nda bizim dünyamızdan kopup gelmiş gibi görünen pek çok resim kullanılmıştır. Hayal gücümüzü genişletmemiz mi gerekiyor yoksa bunlar sadece semboller mi? Her ikisi de. Daha iyi anlamak için okumaya devam edin.

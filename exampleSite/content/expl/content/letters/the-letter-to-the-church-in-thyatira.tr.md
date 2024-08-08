@@ -6,7 +6,7 @@ story: /story/content/letters
 prev: /expl/content/letters/the-letter-to-the-church-in-pergamon
 next: /expl/content/letters/the-letter-to-the-church-in-sardis
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 sources: 
     - pages: 259–272
       ref: beale_rev

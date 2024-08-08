@@ -2,7 +2,7 @@
 title: "The victory of Jesus (Ch. 12)"
 weight: 90
 story: /story/content/witnesses
-appl: /appl/content/jesus/jesus-and-the-fall-of-the-devil
+appl: /appl/content/jesus
 expl: /expl/content/jesus/a-different-christmas-story
 prev: /quick/content/witnesses
 next: /quick/content/beasts

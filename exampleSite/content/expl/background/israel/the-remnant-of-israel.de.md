@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/israel/the-day-of-the-lord
 next: /expl/background/israel/jesus-and-the-covenant
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 Was ist der Überrest Israels? Und wie wird Israel nach dem Exil wiederhergestellt?

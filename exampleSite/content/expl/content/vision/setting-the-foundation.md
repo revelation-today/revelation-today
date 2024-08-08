@@ -9,7 +9,7 @@ sources:
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
 docType: expl
-appl: /appl/content/vision/vision
+appl: /appl/content/vision
 ---
 
 The book of Revelation begins with some statements that are easy to overlook, but are key to understanding the book. Let’s look at them and see them with new eyes.

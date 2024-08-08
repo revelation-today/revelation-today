@@ -12,7 +12,7 @@ sources:
 prev: /welcome/expl
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
-appl: /appl/background/history/some-things-never-change
+appl: /appl/background/history
 ---
 
 Du magst denken, dass die Offenbarung in der Bibel oder der römische Friede im alten Rom nichts mit unserer Zeit zu tun haben. Aber du irrst dich, und ich will dir sagen, warum.

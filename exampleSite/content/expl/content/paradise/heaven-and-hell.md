@@ -6,7 +6,7 @@ story: /story/content/1000y
 prev: /expl/content/paradise/the-new-jerusalem
 next: /expl/topics/others/dispensionalism-a-little-history
 docType: expl
-appl: /appl/content/paradise/what-is-heaven-and-hell-about
+appl: /appl/content/paradise
 ---
 
 What is heaven and hell? Do all people go to heaven? How can a good God send people to hell?

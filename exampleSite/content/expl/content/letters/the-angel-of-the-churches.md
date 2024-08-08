@@ -14,7 +14,7 @@ sources:
 prev: /expl/content/vision/the-vision
 next: /expl/content/letters/the-letters-to-the-seven-churches
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 ---
 
 In the book of Revelation in the Bible, there is this repeated phrase: Write to the angel of the church. Do churches have guardian angels? Are the leaders of the churches angels? Well, let us take a closer look.

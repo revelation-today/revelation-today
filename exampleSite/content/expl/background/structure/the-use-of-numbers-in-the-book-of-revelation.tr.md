@@ -9,7 +9,7 @@ sources:
 prev: /expl/background/structure/the-three-mysteries
 next: /expl/background/israel/the-role-of-family-in-the-bible
 docType: expl
-appl: /appl/background/structure/the-timeline-in-the-book-of-revelation
+appl: /appl/background/structure
 ---
 
 Kitap sayılarla dolu ama bunlar ne anlama geliyor? Sayılar 1260 gün gibi harfi harfine mi alınır yoksa başka bir şekilde mi anlamlandırılmalıdır? Kutsal Kitap boyunca sayılar nasıl kullanılır?

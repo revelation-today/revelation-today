@@ -4,7 +4,7 @@ weight: 3
 prev: /expl/background/israel/gods-covenant
 next: /expl/background/israel/the-remnant-of-israel
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 Wenn man den Begriff “Tag des Herrn” hört, denkt man vielleicht an den Untergang der Welt. Aber das ist nicht der Fall. Der Begriff hat einen anderen Hintergrund.

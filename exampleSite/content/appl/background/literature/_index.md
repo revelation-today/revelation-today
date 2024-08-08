@@ -1,14 +1,61 @@
 ---
-linkTitle: Literature
-title: What am I reading?
-weight: 2
+title: "What are we reading"
+prev: /appl/background/history
+next: /appl/background/structure
+docType: appl
+expl: /expl/background/literature/the-book-of-revelation-how-to-read-it
 ---
 
-Understanding what type of literature a book is, avoids a lot of missunderstandings.
+When we read a book, we read it with a certain expectation. You certainly read a scientific report differently than science fiction, or a love poem differently than an action thriller. So when you read the book of Revelation, you might think that this is God’s great revenge on humanity, or a dystopian novel about end-time catastrophes with some special features like a rapture, or just a chaotic collection of crazy stories.
 
-Let me give you a simple example: When Paul says that Jesus is resurrected from the death, it is an undebatable truth for a Christian, but it might not be true when Jesus said there is a man going from Damaskus to Jerusalem. How can this be? Jesus himself said this. But he said before, he is telling a parable.
+## Not gonna be easy
 
-When we look into the book we will see that this is not a simple answer as this book is composed of three types:
-- a letter - whatever is written there must be applicable for the first readers (including chapter 4-20)
-- a prophecy - which purpose is not to predict, but to provoke in order to prevent the announced future, see the story of Jonah
-- an apocalypse - this is not what you think it is, but a genre of provocatative resistance literature
+<a name="4156"></a>
+Well, to say it first: Getting the type of book is not easy for three reasons:-
+
+- It is a combination of three types of literature or genres
+- Some of the genres may be misunderstood.
+- It does not fully follow the concept of these genres, but plays with them.
+
+So let’s have a look. This book is
+
+- a letter
+- a prophecy
+- an apocalypse
+
+### A letter
+
+<a name="2467"></a>
+Let’s start with the easiest. Reading this book as a letter makes everything in it relevant to the first readers. We expect to see references to their specific environments and challenges, and solutions that work for them.
+
+And here comes the trick: It is addressed to seven very different churches, and most of the book deals with the answers for these churches. But which answer is for which church? Well: The book rekindles the vision of the church and gets everything back on track.
+
+### A prophecy
+
+<a name="d714"></a>
+A prophecy is as much a look into the future as a book of law: Both talk about the consequences of actions, and we see in the story of Jonah that the outcome often depends on the actions of the people.
+
+A prophetic book wants to show a dramatic picture to encourage people to change their behavior and to give hope to the oppressed. But this book must do this for a worldwide church over 2000 years.
+
+### A apocalypse
+
+<a name="841f"></a>
+This is the first word in the book (in Greek), translated as “revelation” (which is its literal meaning) and causes the most misunderstanding.
+
+- It is not a secret code that gives new insights — in fact, all that is written there is not new.
+- It is not a prediction of some catastrophe that will befall humanity.
+
+An apocalypse is a genre that was 2000 years ago much more popular than today and is the poetry of the underground and has a very provocative nature. It mocks the empire, it shows that reality is very different from how you perceive it.
+
+The typical apocalypse works with the hope of a strong hero who will overthrow the empire and bring a kingdom of peace and well-being. But this book does not do that, the hero is a slaughtered lamb and a crowd of martyrs.
+
+## Challenge
+
+<a name="afa9"></a>
+What do you believe from the book because you heard it? What have you checked out for yourself?
+
+How much does reading this book through your interpretive lens affect what you notice?
+
+Did you know that the key themes are worship, witness, and restoration, and that many of today’s worship songs are based on this book?
+
+Would you be willing to see this with fresh eyes? You might be surprised like in this [video](https://www.youtube.com/watch?v=KB_lTKZm1Ts&amp;pp=ygUTYXdhcmVuZXNzIHRlc3QgYmVhcg%3D%3D) (I know it’s old, but maybe not for everyone).

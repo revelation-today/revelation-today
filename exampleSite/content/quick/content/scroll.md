@@ -2,7 +2,7 @@
 title: "The small scroll (Ch. 10)"
 weight: 70
 story: /story/content/scroll
-appl: /appl/content/scroll/a-little-scroll-with-big-impact
+appl: /appl/content/scroll
 expl: /expl/content/scroll/the-little-scroll
 prev: /quick/content/trumpets
 next: /quick/content/witnesses

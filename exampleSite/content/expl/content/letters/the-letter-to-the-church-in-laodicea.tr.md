@@ -6,7 +6,7 @@ story: /story/content/letters
 prev: /expl/content/letters/the-letter-to-the-church-in-philadelphia
 next: /expl/content/worship/worship-in-the-throne-room
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 sources: 
     - pages: 296–310
       ref: beale_rev

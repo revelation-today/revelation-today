@@ -1,6 +1,6 @@
 ---
 title: Done
-next: /appl/background/history/some-things-never-change
+next: /appl/background/history
 weight: 100
 ---
 

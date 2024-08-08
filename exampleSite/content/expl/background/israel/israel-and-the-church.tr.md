@@ -4,7 +4,7 @@ weight: 8
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/content/vision/setting-the-foundation
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 Vahiy Kitabı’nda Yahudiler ve İsrail’den bahsedilmesi oldukça tartışmalıdır. Bunun nedeni nedir ve nasıl çözülür?

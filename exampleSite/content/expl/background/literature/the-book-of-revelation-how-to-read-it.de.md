@@ -12,7 +12,7 @@ sources:
 prev: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 next: /expl/background/literature/literally-or-symbolic
 docType: expl
-appl: /appl/background/literature/what-are-we-reading
+appl: /appl/background/literature
 ---
 
 Die Offenbarung hat viele Menschen zu verschiedenen Dingen inspiriert, von denen die meisten nichts mit der Bibel und ihrem Anliegen zu tun haben. Ich erspare dir diese Aufzählung, denn ich denke, du weißt, wovon die Rede ist. Aber ist es überhaupt möglich, ein solches Buch sinnvoll zu lesen? Dazu müssen wir das Wesen dieses Buches besser verstehen.

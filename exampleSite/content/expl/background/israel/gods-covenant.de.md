@@ -10,7 +10,7 @@ sources:
 prev: /expl/background/israel/the-role-of-family-in-the-bible
 next: /expl/background/israel/the-day-of-the-lord
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 Damals war es {{% int_link val="notwendig, Teil einer Familie zu sein (Versorgung Schutz, …) und in einer einflußreichen Familie zu sein war noch besser" link="/expl/background/israel/the-role-of-family-in-the-bible" %}}.

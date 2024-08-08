@@ -6,7 +6,7 @@ story: /story/content/letters
 prev: /expl/content/letters/the-angel-of-the-churches
 next: /expl/content/letters/the-letter-to-the-church-in-ephesus
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 ---
 
 Vahiy Kitabı, belirlenmiş yedi kiliseye gönderilen yedi mektubu gösterir. Amaç nedir? Nasıl inşa edilir? Ve genel masaj nedir?

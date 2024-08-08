@@ -2,7 +2,7 @@
 title: "The letters to the churches (Ch. 2-3)"
 weight: 10
 story: /story/content/letters
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 expl: /expl/content/letters/the-angel-of-the-churches
 prev: /quick/content/vision
 next: /quick/content/worship

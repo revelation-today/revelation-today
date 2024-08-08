@@ -9,7 +9,7 @@ sources:
 prev: /expl/background/literature/full-of-biblical-references
 next: /expl/background/structure/the-structure-of-the-book-of-revelation
 docType: expl
-appl: /appl/background/literature/what-are-we-reading
+appl: /appl/background/literature
 ---
 
 Wie haben die ersten Leser das Buch der Offenbarung gelesen? Es gab keine Überschriften oder Absätze, nur den Text. Werfen wir einen Blick auf diese ganz andere Art des Lesens.

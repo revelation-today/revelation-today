@@ -6,7 +6,7 @@ story: /story/content/scroll
 prev: /expl/content/trumpets/the-trumpets-in-revelation
 next: /expl/content/witnesses/the-two-witnesses
 docType: expl
-appl: /appl/content/scroll/a-little-scroll-with-big-impact
+appl: /appl/content/scroll
 deeper:
     - name: İki tanık
       link:  /expl/content/witnesses/the-two-witnesses

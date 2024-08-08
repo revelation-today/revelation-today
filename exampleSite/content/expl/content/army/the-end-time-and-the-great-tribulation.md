@@ -6,7 +6,7 @@ story: /story/content/seals
 prev: /expl/content/army/the-144000
 next: /expl/content/trumpets/the-trumpets-in-revelation
 docType: expl
-appl: /appl/content/army/the-strange-army
+appl: /appl/content/army
 deeper:
     - link: /background/israel/expl/the-day-of-the-lord
     - link: /appl/topics/hero/who-rules-the-world

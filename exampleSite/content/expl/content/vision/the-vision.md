@@ -9,7 +9,7 @@ sources:
 prev: /expl/content/vision/setting-the-foundation
 next: /expl/content/letters/the-angel-of-the-churches
 docType: expl
-appl: /appl/content/vision/vision
+appl: /appl/content/vision
 ---
 
 The book of Revelation begins with a bang. John has a vision of an amazing figure walking among lampstands with starter in hand. While it is clear that this vision somehow defines the scope of the book, you may wonder what the message really is.

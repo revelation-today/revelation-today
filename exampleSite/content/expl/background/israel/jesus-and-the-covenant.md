@@ -4,7 +4,7 @@ weight: 5
 prev: /expl/background/israel/the-remnant-of-israel
 next: /expl/background/israel/the-second-exodus
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 When Jesus came to earth, He “surprised” people with His message and His behavior, which was truly shocking to the Jews. Why and what does this have to do with the covenant?

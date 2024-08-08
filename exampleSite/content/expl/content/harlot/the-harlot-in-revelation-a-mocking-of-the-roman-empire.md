@@ -6,7 +6,7 @@ story: /story/content/harlot
 prev: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 next: /expl/content/1000y/the-thousand-year-kingdom
 docType: expl
-appl: /appl/content/harlot/the-harlot-the-complexity-of-evil
+appl: /appl/content/harlot
 sources: 
     - pages: 919–928
       ref: aune_rev

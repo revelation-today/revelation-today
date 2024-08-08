@@ -1,13 +1,68 @@
 ---
-linkTitle: Überblick
-title: Überblick
-weight: 3
+title: "Der Tag des Herrn"
 ---
 
-<!--more-->
+Der Tag des Herrn wird oft als ein Tag der Rache und des Unheils verstanden. Das war es auch, was die Juden erwarteten, aber Jesus drehte das Ganze um.
 
-{{< cards >}}
-  {{< card link="multi-language" title="Multi-language" icon="translate" >}}
-  {{< card link="customization" title="Customization" icon="pencil" >}}
-  {{< card link="comments" title="Comments System" icon="chat-alt" >}}
-{{< /cards >}}
+## Die Vorgeschichte
+
+<a name="b8d9"></a>
+Die Offenbarung hat ihren Ausgangspunkt in der Schöpfungsgeschichte.Gott schuf Mann und Frau als seine Repräsentanten in der Schöpfung. Sie sollten sein Gegenüber sein und Gemeinschaft mit ihm haben.Doch das ging schief und sie entschieden sich gegen ihn (Sündenfall). Damit zerbrachen verschiedene Formen der Beziehung
+
+- zu sich selbst (Scham),
+- zwischen den Menschen (Scham und Kampf, siehe später Kain und Abel),
+- zu Gott (Auszug aus Eden),
+- zur Schöpfung (Nahrung im Schweiße des Angesichts erkämpfen).
+
+Aber es wurde immer schlimmer, so dass Gott schließlich beschloss, einen Menschen zu erwählen, an dem er der Welt zeigen wollte, wie man in Beziehung zu ihm leben kann: Abraham, mit dem Gott einen Bund schloss und aus dem Israel hervorging, mit dem er einen eigenen Bund schloss.
+
+Die Gründung Israels war verbunden mit dem Auszug aus Ägypten, wo sie als Sklaven gelebt hatten, und mit dem Gott sie in das verheißene Land geführt hatte.
+
+Doch Israel brach den Bund und gab der Welt ein schlechtes Beispiel, was es heißt, in Gemeinschaft mit Gott zu leben. Deshalb ging Israel ins Exil (die letzte Konsequenz des Bundesbruchs). Aber Gott gab nicht auf. Er gab Verheißungen durch die Propheten Jesaja, Jeremia, Hesekiel, Daniel und andere für die Zeit nach dem Exil.
+
+Es betrifft
+
+- Israel wird wiederhergestellt
+- Die Feinde Israels werden vernichtet.
+- Die anderen Völker werden Teil Israels sein.
+- Der Heilige Geist wird über ganz Israel ausgegossen.
+- Sein Volk wird für immer bei ihm leben und alles Böse wird vergangen sein.
+
+Die Propheten nannten dies den “Tag des Herrn”. Doch als das Exil nach 70 Jahren endete und Israel in sein Land zurückkehrte, hatte sich nichts geändert. Keine der Prophezeiungen hatte sich erfüllt. Was war geschehen?
+
+Die Antwort lautete: Israel war offenbar immer noch im Exil und wartete auf ein Ereignis wie den Auszug aus Ägypten: den zweiten Exodus, der noch ausstand.
+
+## Die große Überraschung
+
+<a name="9b7f"></a>
+Der Tag des Herrn war die große Erwartung der Juden auf den Messias, mit dessen Kommen alles gut werden würde. Aber die Erwartungen der Menschen (ein König wie David, der das Heil durch Kriege bringt) waren nicht das, was Gott vorhatte:
+
+- Dieser Tag sollte die Mission Israels vollenden: Das Heil der Heiden.
+- Dieser Tag wird durch den Menschensohn oder den Knecht Gottes erreicht, nicht durch einen militärischen Führer.
+- Die Rettung der Heiden ist das Entscheidende, nicht die Wiederherstellung der Nation Israel.
+- Die Feinde Israels / Gottes waren nicht Menschen, sondern Sünde/Dämonen.
+
+## Jesus
+
+<a name="f315"></a>
+Als Jesus kam, erfüllte sich der Tag des Herrn.
+
+Er nannte sich selbst den “Menschensohn” nach der Prophezeiung Daniels und damit den letzten Überrest Israels. Israel hatte es versäumt, die Heiden zu retten und brauchte selbst Rettung. Jesus kam nicht, um das Volk Israel zu retten, sondern um es neu zu gründen:
+
+- Er berief 12 Jünger und gründete damit die 12 Stämme neu.
+- Er fastete 40 Tage (nach den entscheidenden Ereignissen auf dem Weg vom Auszug aus Ägypten ins Gelobte Land: dem Empfang der Gebote und der Aussendung der Kundschafter).
+- Am Ende seines Fastens überwand er alle Versuchungen, an denen Israel beim Auszug in der Wüste gescheitert war.
+
+Damit begann seine Mission, nicht nur Israel zu retten, sondern auch die Heiden zu einem Teil Israels zu machen und damit auch sie zu retten. Damit wurde aber auch der Tag des Herrn in zwei “Tage” geteilt:
+
+- Beim ersten Kommen Jesu ging es um die Errettung Israels und der Heiden, denn zu diesem Zeitpunkt würden alle ins Gericht kommen.
+- Beim zweiten Kommen Jesu wird er das Gericht ausüben.
+
+## Die Gemeinde
+
+<a name="9e32"></a>
+Aber welche Rolle spielt dabei die Gemeinde? Die Gemeinde ist nichts anderes als das neue Israel, das mit den Israeliten begann und nun um die Nationen erweitert wurde — alle verbunden durch den Glauben an Jesus, den letzten Überrest Israels. Der Auftrag der Gemeinde ist es, alle Völker zu erreichen, was der ursprüngliche Auftrag Israels war, bzw. Abrahams (in ihm sollten alle Völker gesegnet werden).
+
+Es gibt noch einen wesentlichen Unterschied, den wir im nächsten Kapitel betrachten werden: Jesus sprach von {{% bible val="Verfolgung" link="jhn:15,20" lang="de" %}}, die über die Gemeinde kommt. Israel hatte nur schwere Zeiten, wenn es sündigte.
+
+Wenn Jesus wiederkommt, werden alle Völker gerettet sein und alle werden eine Beziehung zu Gott haben, wie es der ursprüngliche Plan war — und dann wird auch die Verfolgung aufhören.

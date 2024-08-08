@@ -6,7 +6,7 @@ story: /story/content/harvest
 prev: /expl/content/bowls/the-bowls-of-wrath
 next: /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 docType: expl
-appl: /appl/content/bowls/the-wrath-of-god
+appl: /appl/content/bowls
 deeper:
     - name: The battle of Karkemish
       link:  /expl/content/bowls/armageddon-and-the-battle-of-karkemish

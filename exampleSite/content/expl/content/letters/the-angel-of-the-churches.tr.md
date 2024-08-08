@@ -14,7 +14,7 @@ sources:
 prev: /expl/content/vision/the-vision
 next: /expl/content/letters/the-letters-to-the-seven-churches
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 ---
 
 İncil’in Vahiy kitabında tekrarlanan bir ifade vardır: Kilisenin meleğine yaz. Kiliselerin koruyucu melekleri var mı? Kiliselerin önderleri melek midir? Peki, daha derin bir bakış atalım

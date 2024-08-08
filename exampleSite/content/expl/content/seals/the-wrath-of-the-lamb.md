@@ -6,7 +6,7 @@ story: /story/content/seals
 prev: /expl/content/seals/the-mystery-of-the-four-horse-men
 next: /expl/content/army/the-144000
 docType: expl
-appl: /appl/content/seals/the-paradox-of-the-seven-seals
+appl: /appl/content/seals
 sources: 
     - pages: 395–404
       ref: beale_rev

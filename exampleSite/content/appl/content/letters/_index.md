@@ -1,11 +1,68 @@
 ---
-linkTitle: "Letters (Ch.2-3)"
-title: "The letters to the churches (Ch.2-3)"
-weight: 2
+title: "The problem"
+weight: 1
+base: /quick/content/letters
+story: /story/content/letters
+deeper:
+    - name: The angels of the churches
+      link:  /expl/content/letters/the-angel-of-the-churches
+    - name: The letter to the churches
+      link:  /expl/content/letters/the-letters-to-the-seven-churches
+    - name: The letter to Ephesus
+      link:  /expl/content/letters/the-letter-to-the-church-in-ephesus
+    - name: The letter to Smyrna
+      link:  /expl/content/letters/the-letter-to-the-church-in-smyrna
+    - name: The letter to Pergamon
+      link:  /expl/content/letters/the-letter-to-the-church-in-pergamon
+    - name: The letter to Thyatira
+      link:  /expl/content/letters/the-letter-to-the-church-in-thyatira
+    - name: The letter to Sardes
+      link:  /expl/content/letters/the-letter-to-the-church-in-sardis
+    - name: The letter to Philadelphia
+      link:  /expl/content/letters/the-letter-to-the-church-in-philadelphia
+    - name: The letter to Laodicea
+      link:  /expl/content/letters/the-letter-to-the-church-in-laodicea
+prev: /appl/content/vision
+next: /appl/content/worship
+docType: appl
+expl: /expl/content/letters/the-angel-of-the-churches
 ---
 
-What is Gods vision for the church? Is it just to be saved and get to heaven.
+What do 2000 year old churches have to do with our situation today? Don’t we have very different challenges today? You would be surprised how little the world and the church have changed.
 
-God has the vision that we should be light to the world - we should be an undisputable example for Gods character - but also walk in full dependency of God.
+## Our text
 
-That is all. But when we look at the seven church we see that most of them struggle, and the one who are victorious do not look inviting for us. Why?
+<a name="6e6b"></a>
+We will take a very quick look at the {{% bible val="chapters 2 and 3 of the book" link="rev:2" lang="en" %}} to establish some basics.
+
+## Overview
+
+<a name="1414"></a>
+When you look at the seven churches you see that they are arranged in a symmetrical form:
+
+- When you look at the seven churches, you see that they are arranged in a symmetrical fashion:
+- The first and last (Ephesus and Laodicea) are complete failures: while the first is about to lose its purpose (lampstands removed), the last is the only one that does not receive the slightest praise.
+- The second and the second last (Smyrna and Philadelphia) are the only ones that receive no criticism at all.
+- The third and third last (Pergamon and Sardes) are churches that are mixed in their evaluation (Pergamon does some good but allows false teaching, in Sardes there are at least some people who do good).
+- Finally, the middle one (Thyatira) is a church that Jesus wants to set an example for.
+
+When we put it all together (harsh criticism at the beginning, the end, and in the middle, and only praise in very unpopular places), the church is in really bad shape to fulfill the vision that Jesus has for it. But what does that mean in detail?
+
+## The strengths
+
+<a name="2510"></a>
+We might easily overlook this because we often focus on the weaknesses, but we should reflect a bit on their strengths because these may not be our strengths today.
+
+- Their good work and ministry: Not just talking, but living what they preach, helping the poor and encouraging the suffering.
+- Perseverance: They are faithful even when it’s hard, they don’t give up easily. They face all kinds of hardships: poverty because of their faith, imprisonment, even death.
+- Their love: They don’t act out of duty, but truly love their neighbors.
+- They don’t accept false doctrine: If the theology is wrong, you may have good intentions, but your witness may be the opposite of what God intended.
+
+## The challenges
+
+<a name="623b"></a>
+Their challenges are as individual as their strengths, so some of the strengths of some churches are the weaknesses of others.
+
+- Love is not genuine: They have lost sight of their original calling, perhaps getting so caught up in all the good things that they have forgotten the reason for it all.
+- Poor leadership and deception: The leadership allowed or was the source of false teaching. This had a devastating effect on the entire church.
+- False self-assessment: Laodicea, which received no praise, was probably a church that thought highly of itself. Also, Sardes thought they could do it on their own. This was a very bad misconception that was destructive.

@@ -12,7 +12,7 @@ sources:
 prev: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 next: /expl/background/literature/literally-or-symbolic
 docType: expl
-appl: /appl/background/literature/what-are-we-reading
+appl: /appl/background/literature
 ---
 
 The Book of Revelation has inspired people to do many things, most of which have nothing to do with the Book of Revelation in the Bible. I will spare you a list, but I think you know what I am talking about. But how is it possible to read this very strange book? To get an answer, we must first understand the nature of this book.

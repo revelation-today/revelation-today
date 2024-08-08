@@ -4,7 +4,7 @@ weight: 8
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/content/vision/setting-the-foundation
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 The mention of Jews and Israel in Revelation is quite controversial. What is the reason for this and how can it be resolved?

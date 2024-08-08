@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/israel/jesus-and-the-covenant
 next: /expl/background/israel/the-church-is-part-of-israel
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 Es gab einen Auszug aus Ägypten. Aber weil Israel den Bund verlassen hatte, gingen sie wieder ins Exil. Die Verheißungen über die Rückkehr aus dem Exil verwirrten sie, denn nach der Rückkehr aus dem Exil in Babel hatte sich nichts geändert. Die Schlussfolgerung: Sie waren immer noch im Exil und warteten auf den zweiten Exodus. Und der kam mit Jesus!

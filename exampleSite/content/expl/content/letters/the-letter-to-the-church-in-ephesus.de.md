@@ -6,7 +6,7 @@ story: /story/content/letters
 prev: /expl/content/letters/the-letters-to-the-seven-churches
 next: /expl/content/letters/the-letter-to-the-church-in-smyrna
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 sources: 
     - pages: 228–239
       ref: beale_rev

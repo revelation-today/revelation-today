@@ -6,7 +6,7 @@ story: /story/content/letters
 prev: /expl/content/letters/the-letter-to-the-church-in-thyatira
 next: /expl/content/letters/the-letter-to-the-church-in-philadelphia
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 sources: 
     - pages: 272–282
       ref: beale_rev

@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/israel/the-second-exodus
 next: /expl/background/israel/israel-and-the-church
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 Das klingt merkwürdig. Ist die Kirche nicht viel größer als Israel? Und ersetzt die Kirche nicht Israel? Oder wird Israel am Ende der Zeit nicht ohne die Gemeinde wiederkommen? Das setzt einen Gegensatz voraus, den es nicht gibt.

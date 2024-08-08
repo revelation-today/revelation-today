@@ -4,7 +4,7 @@ weight: 20
 prev: /expl/background/structure/the-structure-of-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
-appl: /appl/background/structure/the-timeline-in-the-book-of-revelation
+appl: /appl/background/structure
 ---
 
 Vahiy kitabı üç gizemden bahseder: Kilise’nin gizemi, Tanrı’nın gizemi ve canavarın gizemi. Bu gizemler nelerdir ve gizem nedir? Bunu birazdan göreceksiniz ve bunun kitabın yapısına nasıl yeni bir bakış açısı kazandırdığını da göreceksiniz.

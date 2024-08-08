@@ -8,4 +8,4 @@ docType: expl
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Judas:23" link="jud:23,-1" lang="de" %}} | ["Fehlende Schlüsselwörter": Gläubige werden aus Feuer errettet](../exampleSite/content/expl/../expl/topics/others/the-rapture#0f61) |
+| {{% bible val="Judas:23" link="jud:23,-1" lang="de" %}} | ["Fehlende Schlüsselwörter": Gläubige werden aus Feuer errettet](/expl/topics/others/the-rapture#0f61) |

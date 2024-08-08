@@ -2,7 +2,7 @@
 title: "Neuer Himmel und neue Erde (Kap. 21-22)"
 weight: 150
 story: /story/content/1000y
-appl: /appl/content/paradise/what-is-heaven-and-hell-about
+appl: /appl/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /quick/content/1000y
 next: /welcome/done_quick

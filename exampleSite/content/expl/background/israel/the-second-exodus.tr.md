@@ -7,7 +7,7 @@ sources:
 prev: /expl/background/israel/jesus-and-the-covenant
 next: /expl/background/israel/the-church-is-part-of-israel
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 Mısır’dan bir Çıkış oldu. Ancak İsrail yasaya uymayı başaramayınca sürgüne gittiler. Geri döndüklerinde vaatlerle doluydular, sürgünden döndüklerinde hiçbir şeyin değişmediğini gördüler. Yani sonuç: Hâlâ sürgündedirler ve yeni bir Çıkış beklemektedirler. Ve bu İsa’yla birlikte gelecektir!

@@ -6,7 +6,7 @@ story: /story/content/worship
 prev: /expl/content/letters/the-letter-to-the-church-in-laodicea
 next: /expl/content/worship/the-book-with-the-seven-seals
 docType: expl
-appl: /appl/content/worship/the-answer-to-all-questions
+appl: /appl/content/worship
 deeper:
     - name: The seven seals
       link:  /expl/content/worship/the-book-with-the-seven-seals

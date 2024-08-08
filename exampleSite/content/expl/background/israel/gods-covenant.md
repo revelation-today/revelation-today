@@ -10,7 +10,7 @@ sources:
 prev: /expl/background/israel/the-role-of-family-in-the-bible
 next: /expl/background/israel/the-day-of-the-lord
 docType: expl
-appl: /appl/background/israel/who-is-israel
+appl: /appl/background/israel
 ---
 
 In ancient times {{% int_link val="being in a family was essential for survival" link="/expl/background/israel/the-role-of-family-in-the-bible" %}} (provision, protection, …), and being in an important family was even better.

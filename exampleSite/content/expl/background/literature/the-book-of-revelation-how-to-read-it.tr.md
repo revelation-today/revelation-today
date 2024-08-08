@@ -12,7 +12,7 @@ sources:
 prev: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 next: /expl/background/literature/literally-or-symbolic
 docType: expl
-appl: /appl/background/literature/what-are-we-reading
+appl: /appl/background/literature
 ---
 
 Vahiy kitabı insanlara pek çok konuda ilham vermiştir, bunların çoğunun Kutsal Kitap’taki vahiy kitabıyla hiçbir ilgisi yoktur. Size bir liste vermekten kaçınıyorum ama sanırım neden bahsettiğimi biliyorum. Peki bu çok tuhaf kitabı okumak nasıl mümkün olabilir? Bu soruya yanıt bulabilmek için öncelikle bu kitabın doğasını anlamamız gerekir.

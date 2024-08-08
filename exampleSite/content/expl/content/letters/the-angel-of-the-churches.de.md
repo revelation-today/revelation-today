@@ -14,7 +14,7 @@ sources:
 prev: /expl/content/vision/the-vision
 next: /expl/content/letters/the-letters-to-the-seven-churches
 docType: expl
-appl: /appl/content/letters/the-challenges
+appl: /appl/content/letters
 ---
 
 In der Offenbarung gibt es bei den Sendschreiben einen sich wiederholenden Satz: “Schreibe dem Engel der Gemeinde”. Haben Gemeinden Schutzengel? Werden die Leiter der Gemeinden Engel genannt? Wir müssen hier etwas genauer hinschauen.

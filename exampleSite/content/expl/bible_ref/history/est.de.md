@@ -8,4 +8,4 @@ docType: expl
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Ester:9,15-25" link="est:9,15-25" lang="de" %}} | ["Der Charakter der beiden Zeugen": Ester](../exampleSite/content/expl/../expl/content/witnesses/the-two-witnesses#5f50) |
+| {{% bible val="Ester:9,15-25" link="est:9,15-25" lang="de" %}} | ["Der Charakter der beiden Zeugen": Ester](/expl/content/witnesses/the-two-witnesses#5f50) |

@@ -6,7 +6,7 @@ story: /story/content/1000y
 prev: /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 next: /expl/content/paradise/the-new-jerusalem
 docType: expl
-appl: /appl/content/1000y/1000-years-of-paradise
+appl: /appl/content/1000y
 sources:
     - pages: 972–1031
       ref: beale_rev

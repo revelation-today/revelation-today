@@ -2,7 +2,7 @@
 title: "The army of God (Ch. 7)"
 weight: 50
 story: /story/content/seals
-appl: /appl/content/army/the-strange-army
+appl: /appl/content/army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 prev: /quick/content/seals
 next: /quick/content/trumpets

@@ -6,7 +6,7 @@ story: /story/content/harvest
 prev: /expl/content/bowls/the-key-to-armageddon
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl
-appl: /appl/content/bowls/the-wrath-of-god
+appl: /appl/content/bowls
 ---
 
 Was hat eine der bedeutendsten Schlachten des Vorderen Orients im ersten Jahrtausend v. Chr. mit der Endzeit zu tun? Mehr als das Wort „Schlacht”.

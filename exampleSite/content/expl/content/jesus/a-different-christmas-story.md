@@ -6,7 +6,7 @@ story: /story/content/witnesses
 prev: /expl/content/witnesses/the-two-witnesses
 next: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 docType: expl
-appl: /appl/content/jesus/jesus-and-the-fall-of-the-devil
+appl: /appl/content/jesus
 deeper:
     - name: Overview in Daniel
       link:  /expl/bible/daniel/the-book-of-daniel

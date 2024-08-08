@@ -6,6 +6,8 @@ from bible_config import *
 
 BASE = os.path.join(os.path.dirname(__file__), "..", "exampleSite", "content", "expl")
 BIBLE_BASE = os.path.join(BASE, "bible_ref")
+print(os.path.abspath(BASE))
+print(os.path.abspath(BIBLE_BASE))
 LANG_BASE = os.path.join(BASE, "..", "..", "i18n")
 
 if os.path.exists(BIBLE_BASE):
@@ -188,6 +190,7 @@ def write_verse(fp, lang, book, data):
     filename = re.sub("\./\.\./exampleSite/content", "", filename)
     filename = re.sub("\.md", "", filename)
     filename = re.sub("\." + lang, "", filename)
+    filename = filename.split("..")[-1]
     ref = str(data[4])
     if verse and verse != "-1":
         bible_verse = BOOKS[book][lang] + ":" + chapter + "," + verse

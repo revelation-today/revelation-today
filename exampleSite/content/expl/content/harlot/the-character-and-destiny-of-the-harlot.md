@@ -6,7 +6,7 @@ story: /story/content/harlot
 prev: /expl/content/harlot/who-is-the-harlot-babylon-part-2
 next: /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 docType: expl
-appl: /appl/content/harlot/the-harlot-the-complexity-of-evil
+appl: /appl/content/harlot
 sources: 
     - pages: 890–948
       ref: beale_rev

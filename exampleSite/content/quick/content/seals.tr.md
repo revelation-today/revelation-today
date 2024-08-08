@@ -2,7 +2,7 @@
 title: "Mühürler (Böl. 6)"
 weight: 40
 story: /story/content/seals
-appl: /appl/content/seals/the-paradox-of-the-seven-seals
+appl: /appl/content/seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /quick/content/worship
 next: /quick/content/army
@@ -23,7 +23,7 @@ Tanrı'nın gönderdiği dört bela temel alınarak bir araya getirilmişlerdir:
 Şeytan'ın boş vaatlerden başka sunabileceği bir şey yoktur. Bu yüzden yapabileceği tek şeyi yapar: Mesih'i taklit eder, ama artık açığa çıkmıştır.
 
 Bu üçlü resim (burada dördüncü atlı diğer üçünün sadece bir özetidir) kitapta devam eder:
-- {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} iki canavar ve Şeytan'ın arka planda ejderha olarak yer aldığı bir {{% int_link val="üçleme" link="/appl/content/beasts/the-perfect-gospel" %}} de görürüz
+- {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} iki canavar ve Şeytan'ın arka planda ejderha olarak yer aldığı bir {{% int_link val="üçleme" link="/appl/content/beasts" %}} de görürüz
 - Ayrıca {{% int_link val="fahişe ve canavar" link="/quick/content/harlot" %}} (13. bölümün ilk canavarı) ile {{% bible val="17. bölüm" link="rev:17" lang="tr" %}} bu konuyu yansıtır. Burada Şeytan daha da gizlidir.
 
 ![](/images/trinity_en.jpg)

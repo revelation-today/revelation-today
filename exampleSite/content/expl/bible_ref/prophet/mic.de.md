@@ -8,4 +8,4 @@ docType: expl
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Micha:1,7" link="mic:1,7" lang="de" %}} | ["Der wirtschaftliche Aspekt": Tempelgaben](../exampleSite/content/expl/../expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
+| {{% bible val="Micha:1,7" link="mic:1,7" lang="de" %}} | ["Der wirtschaftliche Aspekt": Tempelgaben](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |

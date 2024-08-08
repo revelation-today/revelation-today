@@ -2,7 +2,7 @@
 title: "İki tanık (Böl. 11)"
 weight: 80
 story: /story/content/witnesses
-appl: /appl/content/witnesses/the-force-that-changes-the-world
+appl: /appl/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /quick/content/scroll
 next: /quick/content/jesus

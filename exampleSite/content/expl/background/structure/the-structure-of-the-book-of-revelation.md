@@ -12,7 +12,7 @@ sources:
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-three-mysteries
 docType: expl
-appl: /appl/background/structure/the-timeline-in-the-book-of-revelation
+appl: /appl/background/structure
 ---
 
 The book of Revelation seems very disorganized at first glance. There is one catastrophe after another and then it starts all over again. But when we look closer, we see an artistic structure and a deliberate work.
