@@ -1,6 +1,6 @@
 ---
-title: "The perfect “gospel”"
-weight: 1
+title: "Ch.13: The perfect “gospel”"
+weight: 100
 base: /quick/content/beasts
 story: /story/content/witnesses
 deeper: 

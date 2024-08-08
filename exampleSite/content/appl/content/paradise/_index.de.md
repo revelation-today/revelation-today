@@ -1,6 +1,6 @@
 ---
-title: "Was sind Himmel und Hölle?"
-weight: 1
+title: "Kap.21-22: Was sind Himmel und Hölle?"
+weight: 150
 base: /quick/content/paradise
 story: /story/content/1000y
 deeper:

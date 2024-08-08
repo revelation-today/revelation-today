@@ -1,6 +1,6 @@
 ---
-title: "1000 yıllık cennet mi?"
-weight: 1
+title: "Böl.20: 1000 yıllık cennet mi?"
+weight: 140
 base: /quick/content/1000y
 story: /story/content/1000y
 deeper: 

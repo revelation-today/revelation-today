@@ -1,6 +1,6 @@
 ---
-title: "What is heaven and hell about?"
-weight: 1
+title: "Ch.21-22: What is heaven and hell about?"
+weight: 150
 base: /quick/content/paradise
 story: /story/content/1000y
 deeper:

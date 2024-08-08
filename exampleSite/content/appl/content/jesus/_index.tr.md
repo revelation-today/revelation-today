@@ -1,6 +1,6 @@
 ---
-title: "İsa ve şeytanın düşüşü"
-weight: 1
+title: "Böl.12: İsa ve şeytanın düşüşü"
+weight: 90
 base: /quick/content/jesus
 story: /story/content/witnesses
 prev: /appl/content/witnesses

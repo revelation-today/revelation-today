@@ -1,6 +1,6 @@
 ---
-title: "Das Problem"
-weight: 1
+title: "Kap.2-3: Das Problem"
+weight: 20
 base: /quick/content/letters
 story: /story/content/letters
 deeper:

@@ -1,6 +1,6 @@
 ---
-title: "The Harlot: The complexity of evil"
-weight: 1
+title: "Ch.17-19: The Harlot: The complexity of evil"
+weight: 130
 base: /quick/content/harlot
 story: /story/content/harlot
 deeper:

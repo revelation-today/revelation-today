@@ -1,6 +1,6 @@
 ---
 title: "Manche Dinge ändern sich nie"
-weight: 1
+weight: 20
 deeper:
     - name: Der historische Hintergrund
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation

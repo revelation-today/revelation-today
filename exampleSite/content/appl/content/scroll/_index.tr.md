@@ -1,6 +1,6 @@
 ---
-title: "Büyük etkisi olan küçük bir kaydırma"
-weight: 1
+title: "Böl.10: Büyük etkisi olan küçük bir kaydırma"
+weight: 70
 base: /quick/content/scroll
 story: /story/content/scroll
 deeper:

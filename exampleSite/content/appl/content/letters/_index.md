@@ -1,6 +1,6 @@
 ---
-title: "The problem"
-weight: 1
+title: "Ch.2-3: The problem"
+weight: 20
 base: /quick/content/letters
 story: /story/content/letters
 deeper:

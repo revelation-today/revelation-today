@@ -1,6 +1,6 @@
 ---
-title: "Tanrı’nın ordusu ve ulusların kaderi: İşte böyle sona eriyor"
-weight: 1
+title: "Böl.14: Tanrı’nın ordusu ve ulusların kaderi: İşte böyle sona eriyor"
+weight: 110
 base: /quick/content/harvest
 story: /story/content/harvest
 deeper:

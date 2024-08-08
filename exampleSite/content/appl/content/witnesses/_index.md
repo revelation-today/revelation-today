@@ -1,6 +1,6 @@
 ---
-title: "The force that changes the world"
-weight: 1
+title: "Ch.11: The force that changes the world"
+weight: 80
 base: /quick/content/witnesses
 story: /story/content/witnesses
 deeper:

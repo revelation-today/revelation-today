@@ -1,6 +1,6 @@
 ---
-title: "Die sonderbare Armee"
-weight: 1
+title: "Kap.7: Die sonderbare Armee"
+weight: 50
 base: /quick/content/army
 story: /story/content/seals
 deeper:

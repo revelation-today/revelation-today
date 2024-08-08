@@ -1,6 +1,6 @@
 ---
 title: "Die Zeitschiene in der Offenbarung"
-weight: 30
+weight: 40
 prev: /appl/background/literature
 next: /appl/background/israel
 docType: appl

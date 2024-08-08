@@ -1,6 +1,6 @@
 ---
-title: "1000 years of Paradise?"
-weight: 1
+title: "Ch.20: 1000 years of Paradise?"
+weight: 140
 base: /quick/content/1000y
 story: /story/content/1000y
 deeper: 

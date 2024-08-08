@@ -1,6 +1,6 @@
 ---
-title: "Yedi mühür paradoksu"
-weight: 1
+title: "Böl.5-6: Yedi mühür paradoksu"
+weight: 40
 base: /quick/content/seals
 story: /story/content/seals
 deeper:

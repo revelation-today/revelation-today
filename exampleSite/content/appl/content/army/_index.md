@@ -1,6 +1,6 @@
 ---
-title: "The strange army"
-weight: 1
+title: "Ch.7: The strange army"
+weight: 50
 base: /quick/content/army
 story: /story/content/seals
 deeper:

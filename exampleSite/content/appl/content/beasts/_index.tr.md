@@ -1,6 +1,6 @@
 ---
-title: "Mükemmel “müjde”"
-weight: 1
+title: "Böl.13: Mükemmel “müjde”"
+weight: 100
 base: /quick/content/beasts
 story: /story/content/witnesses
 deeper:

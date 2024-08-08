@@ -1,6 +1,6 @@
 ---
-title: "1000 Jahre Paradies?"
-weight: 1
+title: "Kap.20: 1000 Jahre Paradies?"
+weight: 140
 base: /quick/content/1000y
 story: /story/content/1000y
 deeper: 

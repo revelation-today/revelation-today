@@ -1,6 +1,6 @@
 ---
-title: "Vizyon"
-weight: 1
+title: "Böl.1: Vizyon"
+weight: 10
 base: /quick/content/vision
 story: /story/content/vision
 deeper:

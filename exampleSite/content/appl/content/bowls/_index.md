@@ -1,6 +1,6 @@
 ---
-title: "The wrath of God"
-weight: 1
+title: "Ch.15-16: The wrath of God"
+weight: 120
 base: /quick/content/harvest
 story: /story/content/harvest
 deeper:

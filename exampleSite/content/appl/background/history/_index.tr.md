@@ -1,6 +1,6 @@
 ---
 title: "Bazı şeyler asla değişmez"
-weight: 1
+weight: 20
 deeper:
     - name: Tarihsel arka plan
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation

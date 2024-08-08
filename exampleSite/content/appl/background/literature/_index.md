@@ -1,5 +1,6 @@
 ---
 title: "What are we reading"
+weight: 10
 prev: /appl/background/history
 next: /appl/background/structure
 docType: appl

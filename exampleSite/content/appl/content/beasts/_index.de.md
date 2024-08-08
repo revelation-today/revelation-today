@@ -1,6 +1,6 @@
 ---
-title: "Das perfekte Evangelium"
-weight: 1
+title: "Kap.13: Das perfekte Evangelium"
+weight: 100
 base: /quick/content/beasts
 story: /story/content/witnesses
 deeper:

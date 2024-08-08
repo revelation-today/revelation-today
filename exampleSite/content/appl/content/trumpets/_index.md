@@ -1,6 +1,6 @@
 ---
-title: "Prayer and the Unwavering"
-weight: 1
+title: "Ch.8-9: Prayer and the Unwavering"
+weight: 60
 base: /quick/content/trumpets
 story: /story/content/trumpets
 deeper:

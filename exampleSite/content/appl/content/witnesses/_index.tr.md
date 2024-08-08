@@ -1,6 +1,6 @@
 ---
-title: "Dünyayı değiştiren güç"
-weight: 1
+title: "Böl.11: Dünyayı değiştiren güç"
+weight: 80
 base: /quick/content/witnesses
 story: /story/content/witnesses
 deeper:

@@ -1,6 +1,6 @@
 ---
-title: "Die Vision"
-weight: 1
+title: "Kap.1: Die Vision"
+weight: 10
 base: /quick/content/vision
 story: /story/content/vision
 deeper:

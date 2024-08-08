@@ -1,6 +1,6 @@
 ---
-title: "Ein kleines Buch mit großer Wirkung"
-weight: 1
+title: "Kap.10: Ein kleines Buch mit großer Wirkung"
+weight: 70
 base: /quick/content/scroll
 story: /story/content/scroll
 deeper:

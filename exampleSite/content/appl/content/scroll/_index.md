@@ -1,6 +1,6 @@
 ---
-title: "A little scroll with big impact"
-weight: 1
+title: "Ch.10: A little scroll with big impact"
+weight: 70
 base: /quick/content/scroll
 story: /story/content/scroll
 deeper:

@@ -1,6 +1,6 @@
 ---
-title: "Die Waffen der Gemeinde und das Schicksal der Nationen"
-weight: 1
+title: "Kap.14: Die Waffen der Gemeinde und das Schicksal der Nationen"
+weight: 110
 base: /quick/content/harvest
 story: /story/content/harvest
 deeper:

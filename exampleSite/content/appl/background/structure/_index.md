@@ -1,6 +1,6 @@
 ---
 title: "The timeline in the Book of Revelation"
-weight: 30
+weight: 40
 prev: /appl/background/literature
 next: /appl/background/israel
 docType: appl

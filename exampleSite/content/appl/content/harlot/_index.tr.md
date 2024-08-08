@@ -1,6 +1,6 @@
 ---
-title: "Fahişe: Kötülüğün karmaşıklığı"
-weight: 1
+title: "Böl.17-19: Fahişe: Kötülüğün karmaşıklığı"
+weight: 130
 base: /quick/content/harlot
 story: /story/content/harlot
 deeper:

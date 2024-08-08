@@ -1,6 +1,6 @@
 ---
-title: "Jesus and the fall of the devil"
-weight: 1
+title: "Ch.12: Jesus and the fall of the devil"
+weight: 90
 base: /quick/content/jesus
 story: /story/content/witnesses
 prev: /appl/content/witnesses

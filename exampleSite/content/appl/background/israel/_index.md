@@ -1,5 +1,6 @@
 ---
 title: "Who is Israel"
+weight: 50
 prev: /appl/background/structure/the-timeline-in-the-book-of-revelation
 next: /appl/content/vision
 docType: appl

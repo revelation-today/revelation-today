@@ -1,6 +1,6 @@
 ---
-title: "Cennet ve cehennem ne hakkında?"
-weight: 1
+title: "Böl.21-22: Cennet ve cehennem ne hakkında?"
+weight: 150
 base: /quick/content/paradise
 story: /story/content/1000y
 deeper:

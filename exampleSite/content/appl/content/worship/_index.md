@@ -1,6 +1,6 @@
 ---
-title: "The answer to all questions"
-weight: 1
+title: "Ch.4: The answer to all questions"
+weight: 30
 base: /quick/content/worship
 story: /story/content/worship
 deeper:

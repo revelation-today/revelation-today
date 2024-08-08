@@ -1,5 +1,6 @@
 ---
 title: "Was lesen wir?"
+weight: 10
 deeper:
     - name: Mehr zum Genre
       link:  /expl/background/literature/the-book-of-revelation-how-to-read-it

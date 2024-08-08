@@ -1,6 +1,6 @@
 ---
-title: "Jesus und der Fall Satans"
-weight: 1
+title: "Kap.12: Jesus und der Fall Satans"
+weight: 90
 base: /quick/content/jesus
 story: /story/content/witnesses
 prev: /appl/content/witnesses

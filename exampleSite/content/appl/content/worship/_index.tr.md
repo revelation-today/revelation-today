@@ -1,6 +1,6 @@
 ---
-title: "Tüm soruların cevabı"
-weight: 1
+title: "Böl.4: Tüm soruların cevabı"
+weight: 30
 base: /quick/content/worship
 story: /story/content/worship
 deeper:

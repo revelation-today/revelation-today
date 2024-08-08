@@ -1,6 +1,6 @@
 ---
-title: "Sorun"
-weight: 1
+title: "Böl.2-3: Sorun"
+weight: 20
 base: /quick/content/letters
 story: /story/content/letters
 deeper:

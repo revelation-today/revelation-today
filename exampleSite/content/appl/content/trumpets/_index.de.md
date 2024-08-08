@@ -1,6 +1,6 @@
 ---
-title: "Gebet und das Unerschütterliche"
-weight: 1
+title: "Kap.8-9: Gebet und das Unerschütterliche"
+weight: 60
 base: /quick/content/trumpets
 story: /story/content/trumpets
 deeper:

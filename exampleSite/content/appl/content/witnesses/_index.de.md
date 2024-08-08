@@ -1,6 +1,6 @@
 ---
-title: "Die Macht, die die Welt verändert"
-weight: 1
+title: "Kap.11: Die Macht, die die Welt verändert"
+weight: 80
 base: /quick/content/witnesses
 story: /story/content/witnesses
 deeper:

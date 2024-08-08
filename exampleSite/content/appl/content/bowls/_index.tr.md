@@ -1,6 +1,6 @@
 ---
-title: "Tanrı’nın gazabı"
-weight: 1
+title: "Böl.15-16: Tanrı’nın gazabı"
+weight: 120
 base: /quick/content/harvest
 story: /story/content/harvest
 deeper:

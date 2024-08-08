@@ -1,5 +1,6 @@
 ---
 title: "Ne okuyoruz"
+weight: 10
 deeper:
     - name: Tür hakkında daha fazlası
       link:  /expl/background/literature/the-book-of-revelation-how-to-read-it

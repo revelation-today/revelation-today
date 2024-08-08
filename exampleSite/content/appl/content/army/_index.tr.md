@@ -1,6 +1,6 @@
 ---
-title: "Garip ordu"
-weight: 1
+title: "Böl.7: Garip ordu"
+weight: 50
 base: /quick/content/army
 story: /story/content/seals
 deeper:

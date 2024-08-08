@@ -1,6 +1,6 @@
 ---
-title: "The weapons of the church and the fate of the nations"
-weight: 1
+title: "Ch.14: The weapons of the church and the fate of the nations"
+weight: 110
 base: /quick/content/harvest
 story: /story/content/harvest
 deeper:

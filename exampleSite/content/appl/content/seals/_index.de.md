@@ -1,6 +1,6 @@
 ---
-title: "Das Paradox der sieben Siegel"
-weight: 1
+title: "Kap.5-6: Das Paradox der sieben Siegel"
+weight: 40
 base: /quick/content/seals
 story: /story/content/seals
 deeper:
@@ -20,7 +20,9 @@ docType: appl
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 ---
 
-Die Schriftrolle mit den sieben Siegeln ist der Punkt in der Offenbarung Worum geht es hier eigentlich, was ist dieses Buch und wer sind die Reiter?
+Die Schriftrolle mit den sieben Siegeln ist der Punkt in der Offenbarung 
+
+Worum geht es hier eigentlich, was ist dieses Buch und wer sind die Reiter?
 
 ## Unser Text
 

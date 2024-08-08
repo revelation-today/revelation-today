@@ -1,6 +1,6 @@
 ---
-title: "Die Hure: Die Komplexität des Bösen"
-weight: 1
+title: "Kap.17-19: Die Hure: Die Komplexität des Bösen"
+weight: 130
 base: /quick/content/harlot
 story: /story/content/harlot
 deeper:

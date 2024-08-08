@@ -1,6 +1,6 @@
 ---
-title: "Dua ve sarsılmazlık"
-weight: 1
+title: "Böl.8-9: Dua ve sarsılmazlık"
+weight: 60
 base: /quick/content/trumpets
 story: /story/content/trumpets
 deeper:

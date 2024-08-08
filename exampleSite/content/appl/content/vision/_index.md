@@ -1,6 +1,6 @@
 ---
-title: "The vision"
-weight: 1
+title: "Ch.1: The vision"
+weight: 10
 base: /quick/content/vision
 story: /story/content/vision
 deeper:

@@ -1,5 +1,6 @@
 ---
 title: "Wer ist Israel?"
+weight: 50
 prev: /appl/background/structure
 next: /appl/content/vision
 docType: appl
