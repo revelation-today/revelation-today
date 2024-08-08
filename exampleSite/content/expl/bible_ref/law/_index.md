@@ -1,7 +1,7 @@
 ---
-title: The law
+title: The Law
 weight: 1
 docType: expl
 ---
 
-There are 202 used bible verses in this category
+224 bible verses have been referenced in this category.

@@ -17,7 +17,7 @@ After the dramatic actions of the last chapter there are a few things that need 
 
 ## The protection of the church
 
-The chapter starts with the {{% bible val="description of sealing" link="rev:7,1-4" lang="en" %}}. An angel is requested to wait until the saints are sealed. This activities are the {{% bible val="plagues of the trumpets" link="rev:9" lang="en" %}}. Espacially the {{% bible val="fifth trumpet" link="rev:9 is important as here all people are [excluded who are sealed](https://www.bibleserver.com/NIV/Revelation9,1-6" lang="en" %}}.
+The chapter starts with the {{% bible val="description of sealing" link="rev:7,1-4" lang="en" %}}. An angel is requested to wait until the saints are sealed. This activities are the {{% bible val="plagues of the trumpets" link="rev:9" lang="en" %}}. Espacially the {{% bible val="fifth trumpet" link="rev:9" lang="en" %}} is important as here all people are {{% bible val="excluded who are sealed" link="rev:9,1-6" lang="en" %}}.
 
 This is the plagues where people loose all hope and want to die but can not. We are the saints are spared from this which means we are facing trouble but we get the strength to endure this and be a testimony to others.
 

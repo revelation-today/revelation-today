@@ -4,7 +4,7 @@ weight: 56
 docType: expl
 ---
 
-There are 0 used bible verses in this book
+0 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|

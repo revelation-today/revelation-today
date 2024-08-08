@@ -4,8 +4,8 @@ weight: 16
 docType: expl
 ---
 
-Es gibt 1 verwendete Bibelstellen in diesem Buch
+1 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Ester:9,15-25" link="est:9,15-25" lang="de" %}} | ["Der Charakter der beiden Zeugen": Ester](/expl/../expl/content/witnesses/the-two-witnesses#5f50) |
+| {{% bible val="Ester:9,15-25" link="est:9,15-25" lang="de" %}} | ["Der Charakter der beiden Zeugen": Ester](../exampleSite/content/expl/../expl/content/witnesses/the-two-witnesses#5f50) |

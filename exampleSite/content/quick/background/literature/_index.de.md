@@ -41,3 +41,5 @@ Der erste Aspekt, den wir uns ansehen ist der Typ des Buches. Lesen wir einen Be
 Das {{% int_link val="ist ein Indiz" link="/expl/background/literature/the-book-of-revelation-how-to-read-it/#summary" %}}, dass dieses Buch viele symbolische Inhalte enthält.
 
 Auch die {{% int_link val="Verwendung der Worte 'zeigen' und 'bekanntmachen'" link="/expl/background/literature/literally-or-symbolic/#deiknumi" %}}, die am Anfang der Buches vom Autor benutzt werden, lassen auf eine symbolische Bedeutung schließen.
+
+Zusammenfassend können wir also sagen, dass das Buch enthüllt, was sich hinter den Kulissen der Realität verbirgt, die wir Tag für Tag wahrnehmen, wie in diesem [Trailer] (https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) (bitte den Film nicht ansehen).

@@ -4,8 +4,8 @@ weight: 24
 docType: expl
 ---
 
-Es gibt 1 verwendete Bibelstellen in diesem Buch
+1 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Klagelieder:2,10" link="lam:2,10" lang="de" %}} | ["Der Charakter der beiden Zeugen": nationale Krise](/expl/../expl/content/witnesses/the-two-witnesses#5f50) |
+| {{% bible val="Klagelieder:2,10" link="lam:2,10" lang="de" %}} | ["Der Charakter der beiden Zeugen": nationale Krise](../exampleSite/content/expl/../expl/content/witnesses/the-two-witnesses#5f50) |

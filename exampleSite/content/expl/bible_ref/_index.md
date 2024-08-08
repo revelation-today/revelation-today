@@ -4,4 +4,4 @@ weight: 100
 docType: expl
 ---
 
-There are 1782 used bible verses
+1921 bible verses have been referenced.

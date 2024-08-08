@@ -1,7 +1,7 @@
 ---
-title: The prophets
+title: The Prophets
 weight: 4
 docType: expl
 ---
 
-There are 356 used bible verses in this category
+366 bible verses have been referenced in this category.

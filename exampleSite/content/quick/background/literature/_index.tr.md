@@ -27,7 +27,7 @@ Tetapi apakah hal ini terjadi di mana-mana? Apa yang Anda maksud dengan contoh-c
 - Haruskah kita hanya {{% bible val="mengampuni 7 kali 70, yaitu 490 kali" link="mat:18:21-25" lang="tr" %}}? 
 - Apakah kita harus {{% bible val="domba yang makan rumput" link="psa:23:2" lang="tr" %}}? 
 - Apakah kita harus {{% bible val="cungkillah mata kita jika ia menyebabkan kita berbuat dosa" link="mat:18:9" lang="tr" %}}? 
-- Akankah {{% bible val="seekor binatang buas yang berkepala banyak dan bertanduk banyak berkeliaran di dunia" link="wah:13:1-2" lang="tr" %}}?
+- Akankah {{% bible val="seekor binatang buas yang berkepala banyak dan bertanduk banyak berkeliaran di dunia" link="rev:13:1-2" lang="tr" %}}?
 
 Saya menduga Anda telah menemukan satu atau dua contoh di mana Anda mengasumsikan penafsiran simbolis. Jika Anda melihat segala sesuatu secara harfiah, itu akan menarik bagi saya.
 
@@ -41,3 +41,5 @@ Aspek pertama yang kami lihat adalah jenis buku ini. Apakah kita sedang membaca 
 Ini {{% int_link val="merupakan indikasi" link="/expl/background/literature/the-book-of-revelation-how-to-read-it/#summary" %}} bahwa kitab ini mengandung banyak konten simbolis.
 
 {{% int_link val="penggunaan kata 'menunjukkan' dan 'memberitahukan'" link="/expl/background/literature/literally-or-symbolic/#deiknumi" %}}, yang digunakan oleh penulis pada awal kitab ini, juga menunjukkan makna simbolis.
+
+Tüm bunları bir araya getirdiğimizde, kitabın bu [fragmanda] (https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) olduğu gibi her gün algıladığımız gerçekliğin perde arkasındakileri ortaya çıkardığını söyleyebiliriz (filmi izlemeyin).

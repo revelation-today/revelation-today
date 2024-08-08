@@ -1,5 +1,5 @@
 # Configuration
-baseURL: "https://hugo.revelation-today.net/"
+baseURL: "https://revelation-today.net/"
 title: "The Book of Revelation"
 
 enableRobotsTXT: true

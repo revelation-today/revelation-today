@@ -1,7 +1,7 @@
 ---
-title: The history book
+title: The History Books
 weight: 2
 docType: expl
 ---
 
-There are 97 used bible verses in this category
+107 bible verses have been referenced in this category.

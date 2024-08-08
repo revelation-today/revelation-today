@@ -4,7 +4,7 @@ weight: 51
 docType: expl
 ---
 
-Es gibt 0 verwendete Bibelstellen in diesem Buch
+0 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|

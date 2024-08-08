@@ -4,8 +4,8 @@ weight: 50
 docType: expl
 ---
 
-Es gibt 1 verwendete Bibelstellen in diesem Buch
+1 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Kolosser:1,26" link="col:1,26" lang="de" %}} | ["Das Geheimnis": der aber jetzt enthüllt ist](/expl/../expl/background/structure/the-three-mysteries#b12e) |
+| {{% bible val="Kolosser:1,26" link="col:1,26" lang="de" %}} | ["Das Geheimnis": der aber jetzt enthüllt ist](../exampleSite/content/expl/../expl/background/structure/the-three-mysteries#b12e) |

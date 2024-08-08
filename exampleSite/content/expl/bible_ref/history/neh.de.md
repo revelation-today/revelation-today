@@ -4,8 +4,8 @@ weight: 15
 docType: expl
 ---
 
-Es gibt 1 verwendete Bibelstellen in diesem Buch
+1 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Nehemia:4" link="neh:4,-1" lang="de" %}} | ["Die 70 Jahrwochen": seit dem Bau ](/expl/../expl/bible/daniel/the-70-year-weeks#d777) |
+| {{% bible val="Nehemia:4" link="neh:4,-1" lang="de" %}} | ["Die 70 Jahrwochen": seit dem Bau ](../exampleSite/content/expl/../expl/bible/daniel/the-70-year-weeks#d777) |

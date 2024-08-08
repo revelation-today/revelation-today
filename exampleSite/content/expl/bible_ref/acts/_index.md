@@ -1,7 +1,7 @@
 ---
-title: The acts of the aostels
+title: The Acts of the Apostels
 weight: 6
 docType: expl
 ---
 
-There are 45 used bible verses in this category
+45 bible verses have been referenced in this category.

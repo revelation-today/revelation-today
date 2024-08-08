@@ -17,7 +17,7 @@ Son bölümdeki dramatik eylemlerden sonra çözülmesi gereken birkaç şey var
 
 ## Kilisenin korunması
 
-Bölüm {{% bible val="mühürlemenin tanımı" link="rev:7,1-4" lang="tr" %}} ile başlar. Bir melekten kutsallar mühürlenene kadar beklemesi istenir. Bu faaliyetler {{% bible val="borazanların belaları" link="rev:9" lang="tr" %}}'dır. Özellikle {{% bible val="beşinci borazan" link="rev:9 önemlidir çünkü burada tüm insanlar [mühürlenmiş olanların dışında bırakılır](https://www.bibleserver.com/TR/Vahiy9,1-6" lang="tr" %}}.
+Bölüm {{% bible val="mühürlemenin tanımı" link="rev:7,1-4" lang="tr" %}} ile başlar. Bir melekten kutsallar mühürlenene kadar beklemesi istenir. Bu faaliyetler {{% bible val="borazanların belaları" link="rev:9" lang="tr" %}}'dır. Özellikle {{% bible val="beşinci borazan" link="rev:9" lang="tr" %}} önemlidir çünkü burada tüm insanlar {{% bible val="mühürlenmiş olanların dışında bırakılır" link="rev:9,1-6" lang="tr" %}}.
 
 Bu, insanların tüm umutlarını kaybettikleri ve ölmek istedikleri ama ölemedikleri belalardır. Biz kutsallar bundan kurtulduk, yani belayla karşı karşıyayız ama buna dayanacak ve başkalarına tanıklık edecek gücü elde ediyoruz.
 

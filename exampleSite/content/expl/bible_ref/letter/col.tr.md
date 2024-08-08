@@ -8,4 +8,4 @@ Bu kitapta kullanılan 1 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
-| {{% bible val="Koloseliler:1,26" link="col:1,26" lang="tr" %}} | ["Gizem": açıklanmış](/expl/../expl/background/structure/the-three-mysteries#998e) |
+| {{% bible val="Koloseliler:1,26" link="col:1,26" lang="tr" %}} | ["Gizem": açıklanmış](../exampleSite/content/expl/../expl/background/structure/the-three-mysteries#998e) |

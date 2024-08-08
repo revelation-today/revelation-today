@@ -1,7 +1,7 @@
 ---
-title: The Apocalyptic
+title: The Apocalyptic Literature
 weight: 8
 docType: expl
 ---
 
-There are 813 used bible verses in this category
+898 bible verses have been referenced in this category.

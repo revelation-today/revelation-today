@@ -4,20 +4,21 @@ weight: 44
 docType: expl
 ---
 
-There are 13 used bible verses in this book
+14 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
-| {{% bible val="Romans:2,26-29" link="rom:2,26-29" lang="en" %}} | ["Circumcision": that a Jew who is only circumcised “outwardly” but not in his heart is not a Jew](/expl/../expl/background/israel/the-church-is-part-of-israel#7f94) |
-| {{% bible val="Romans:3,24" link="rom:3,24" lang="en" %}} | ["Living water": Romans](/expl/../expl/content/paradise/the-new-jerusalem#bac3) |
-| {{% bible val="Romans:3,25" link="rom:3,25" lang="en" %}} | ["The promise": Jesus](/expl/../expl/bible/daniel/the-70-year-weeks#2d32) |
-| {{% bible val="Romans:5,3-4" link="rom:5,3-4" lang="en" %}} | ["The great tribulation": catalyst of hope](/expl/../expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
-| {{% bible val="Romans:8,14-39" link="rom:8,14-39" lang="en" %}} | ["The story of Israel": working out by living in the Holy Spirit](/expl/../appl/topics/hero/who-rules-the-world#af6b) |
-| {{% bible val="Romans:8,19-22" link="rom:8,19-22" lang="en" %}} | ["Background": creation asking God](/expl/../expl/content/bowls/the-bowls-of-wrath#a84e) |
-| {{% bible val="Romans:8,35-36" link="rom:8,35-36" lang="en" %}} | ["The great tribulation": cannot separate us from Jesus](/expl/../expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
-| {{% bible val="Romans:9" link="rom:9,-1" lang="en" %}} | ["A new beginning": The church did not replace Israel but Israel fulfilled its mission reaching the Gentiles in the church](/expl/../appl/background/israel/who-is-israel#a1e0) |
-| {{% bible val="Romans:9,25" link="rom:9,25" lang="en" %}} | ["Beloved of the Lord": letter of the Romans](/expl/../expl/background/israel/the-church-is-part-of-israel#3d64) |
-| {{% bible val="Romans:11,13-24" link="rom:11,13-24" lang="en" %}} | ["The church and Israel": church is part of Israel](/expl/../expl/topics/others/dispensionalism-and-its-critic#40c6) |
-| {{% bible val="Romans:11,16" link="rom:11,16" lang="en" %}} | ["The two harvests": pledge of the full harvest](/expl/../expl/content/harvest/gods-army-and-the-seven-angels#833c) |
-| {{% bible val="Romans:11,17-24" link="rom:11,17-24" lang="en" %}} | ["Olive tree": Gentiles are described as becoming part of the olive tree](/expl/../expl/background/israel/the-church-is-part-of-israel#e179) |
-| {{% bible val="Romans:15,16" link="rom:15,16" lang="en" %}} | ["The Gentiles become part of Israel": Paul most likely understood this phrase to mean that he was a servant to the Gentiles](/expl/../expl/background/israel/the-remnant-of-israel#0f15) |
+| {{% bible val="Romans:2,26-29" link="rom:2,26-29" lang="en" %}} | ["Circumcision": that a Jew who is only circumcised “outwardly” but not in his heart is not a Jew](../exampleSite/content/expl/../expl/background/israel/the-church-is-part-of-israel#7f94) |
+| {{% bible val="Romans:3,24" link="rom:3,24" lang="en" %}} | ["Living water": Romans](../exampleSite/content/expl/../expl/content/paradise/the-new-jerusalem#bac3) |
+| {{% bible val="Romans:3,25" link="rom:3,25" lang="en" %}} | ["The promise": Jesus](../exampleSite/content/expl/../expl/bible/daniel/the-70-year-weeks#2d32) |
+| {{% bible val="Romans:5,3-4" link="rom:5,3-4" lang="en" %}} | ["The great tribulation": catalyst of hope](../exampleSite/content/expl/../expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
+| {{% bible val="Romans:8,14-39" link="rom:8,14-39" lang="en" %}} | ["The story of Israel": working out by living in the Holy Spirit](../exampleSite/content/expl/../appl/topics/hero/who-rules-the-world#af6b) |
+| {{% bible val="Romans:8,19-22" link="rom:8,19-22" lang="en" %}} | ["Background": creation asking God](../exampleSite/content/expl/../expl/content/bowls/the-bowls-of-wrath#a84e) |
+| {{% bible val="Romans:8,35-36" link="rom:8,35-36" lang="en" %}} | ["The great tribulation": cannot separate us from Jesus](../exampleSite/content/expl/../expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
+| {{% bible val="Romans:9" link="rom:9,-1" lang="en" %}} | ["A new beginning": The church did not replace Israel but Israel fulfilled its mission reaching the Gentiles in the church](../exampleSite/content/expl/../appl/background/israel/who-is-israel#a1e0) |
+| {{% bible val="Romans:9" link="rom:9,-1" lang="en" %}} | [""Historical background"": had their root in the Jews](../exampleSite/content/expl/../quick/background/history/_index#None) |
+| {{% bible val="Romans:9,25" link="rom:9,25" lang="en" %}} | ["Beloved of the Lord": letter of the Romans](../exampleSite/content/expl/../expl/background/israel/the-church-is-part-of-israel#3d64) |
+| {{% bible val="Romans:11,13-24" link="rom:11,13-24" lang="en" %}} | ["The church and Israel": church is part of Israel](../exampleSite/content/expl/../expl/topics/others/dispensionalism-and-its-critic#40c6) |
+| {{% bible val="Romans:11,16" link="rom:11,16" lang="en" %}} | ["The two harvests": pledge of the full harvest](../exampleSite/content/expl/../expl/content/harvest/gods-army-and-the-seven-angels#833c) |
+| {{% bible val="Romans:11,17-24" link="rom:11,17-24" lang="en" %}} | ["Olive tree": Gentiles are described as becoming part of the olive tree](../exampleSite/content/expl/../expl/background/israel/the-church-is-part-of-israel#e179) |
+| {{% bible val="Romans:15,16" link="rom:15,16" lang="en" %}} | ["The Gentiles become part of Israel": Paul most likely understood this phrase to mean that he was a servant to the Gentiles](../exampleSite/content/expl/../expl/background/israel/the-remnant-of-israel#0f15) |
