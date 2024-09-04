@@ -1,6 +1,6 @@
 ---
 title: "Ein Buch mit sieben Siegeln"
-weight: 2
+weight: 20
 base: /quick/content/worship
 story: /story/content/worship
 prev: /expl/content/worship/worship-in-the-throne-room

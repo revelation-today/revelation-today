@@ -2,7 +2,7 @@
 title: "Sein Reich kommt"
 weight: 20
 base: /quick/bible/daniel
-prev: /story/bible/daniel
+prev: /story/bible/creation
 next: /story/content/vision
 docType: story
 ---
