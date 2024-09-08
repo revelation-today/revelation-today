@@ -30,6 +30,7 @@ Resim, sayfa eklemek veya aynı anda birkaç dosya üzerinde çalışmak istiyor
     - [github](https://git-scm.com/)
     - [Hugo (genişletilmiş versiyon!)](https://gohugo.io/installation/)
     - [go](https://go.dev/)
+	- [node.js](https://nodejs.org/en/download/prebuilt-installer)
     - Windows üzerinde çalışıyorsanız [powershell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4) yükleyin
 - "<my_git>" çalışma dizinini açın 
 - "cmd" gibi bir komut satırı açın ve "git clone https://github.com/revelation-today/revelation-today.git" kullanarak repoyu kontrol edin

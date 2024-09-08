@@ -19,7 +19,7 @@ This is based on the Hugo framework using the [Hekstra template](https://imfing.
 - Click on the link and login to github
 - Click on the **little pen** at the top right just above your text **OR** if you have installed the app, go on the three dots and click "Edit in place".
 - If you are done, press "**Commit changes**".
-- After this make a useful comment in "Commit message" and if you want ot give more detail in "Extended description". 
+- After this make a useful comment in "Commit message" and if you want to give more detail in "Extended description". 
 - Use "Create a new branch ..." and press "Commit changes"
 - Wait until the commit is merged (I need to review) and the change should be visible
 
@@ -30,6 +30,7 @@ You need an advanced edit if you want to add pictures, pages or want to work on 
     - [github](https://git-scm.com/)
     - [Hugo (extended version!)](https://gohugo.io/installation/)
     - [go](https://go.dev/)
+	- [node.js](https://nodejs.org/en/download/prebuilt-installer)
     - if you work on windows install [powershell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4)
 - Open working directory "<my_git>" 
 - Open a command line like "cmd" and check out the repo using `git clone https://github.com/revelation-today/revelation-today.git`

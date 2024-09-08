@@ -30,6 +30,7 @@ Du benötigst eine erweiterte Bearbeitung, wenn du Bilder oder Seiten hinzufüge
     - [github](https://git-scm.com/)
     - [Hugo (erweiterte Version!)](https://gohugo.io/installation/)
     - [go](https://go.dev/)
+	- [node.js](https://nodejs.org/en/download/prebuilt-installer)
     - wenn du unter Windows arbeitest, installiere [powershell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4)
 - Öffne das Arbeitsverzeichnis "<my_git>". 
 - Öffne eine Befehlszeile wie "cmd" und checke das Repo mit "git clone https://github.com/revelation-today/revelation-today.git" aus
