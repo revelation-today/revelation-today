@@ -15,7 +15,7 @@ layout: hextra-home
 {{< hextra/hero-subtitle >}}
   The very last book of the Bible is not a strange mystery
   &nbsp;<br class="sm:hx-block hx-hidden" />
-  but a guide to effective discipleship
+  but a guide to effective discipleship.
 {{< /hextra/hero-subtitle >}}
 </div>
 
