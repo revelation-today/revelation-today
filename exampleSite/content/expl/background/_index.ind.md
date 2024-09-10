@@ -2,8 +2,6 @@
 linkTitle: Latar Belakang
 title: Latar Belakang
 weight: 4
-prev: /welcome/expl
-next: /expl/bible
 ---
 
 Sebagai dasar yang baik untuk pekerjaan kami, kami perlu mendapatkan pemahaman yang lebih baik tentang topik-topik berikut ini:

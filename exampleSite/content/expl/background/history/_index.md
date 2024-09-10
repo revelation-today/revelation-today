@@ -2,8 +2,6 @@
 linkTitle: History
 title: Historical background
 weight: 1
-prev: /welcome/expl
-next: /expl/background/literature
 ---
 
 A crucial point for understanding is: Why was this book written? What was the challenges of the first readers?
