@@ -104,16 +104,39 @@ Parallele Muster sind vielleicht nicht so leicht zu erkennen, bieten aber einen 
 
 Paralleles Mustererleichtert das Erinnernkann Vergleich, Kontrast, Hervorhebung, Erklärung, Illustration einführen
 
-Beispiel: Jona a: Jonas Auftrag und Ungehorsam (1/1–3) b: Jona und die heidnischen Seeleute: JHWH ist gnädig (1/4–16) c: Jonas Antwort auf JHWHs Barmherzigkeit: Lobpreis (1–17–2/10) a’: Jonas erneuter Auftrag und Gehorsam (3/1–3a) b’: Jona und die heidnischen Niniviten: JHWH ist gnädig (3/3b-10) c’: Jonas Antwort auf JHWHs Barmherzigkeit: Groll (4/1–4) d: JHWHs Lektion (4/5–11)Diese Struktur erweckt den Eindruck, dass sein erstes Gebet heuchlerisch und sein zweites selbstsüchtig war, aber die Gestaltung der Geschichte kann dies durch die Struktur vermitteln, ohne moralisierend zu sein.
+Beispiel: Jona 
+
+- a: <span style="background:green">Jonas Auftrag</span> und <span style="background:red">Ungehorsam</span> (1/1–3) 
+	- b: <span style="background:green">Jona und die heidnischen</span> <span style="background:red">Seeleute</span>: <span style="background:green">JHWH ist gnädig</span> (1/4–16) 
+		- c: <span style="background:green">Jonas Antwort auf JHWHs Barmherzigkeit</span>: <span style="background:red">Lobpreis</span> (1–17–2/10) 
+- a’: <span style="background:green">Jonas erneuter Auftrag</span> und <span style="background:red">Gehorsam</span> (3/1–3a) 
+	- b’: <span style="background:green">Jona und die heidnischen</span> <span style="background:red">Niniviten</span>: <span style="background:green">JHWH ist gnädig</span> (3/3b-10) 
+		- c’: <span style="background:green">Jonas Antwort auf JHWHs Barmherzigkeit</span>: <span style="background:red">Groll</span> (4/1–4) 
+- d: JHWHs Lektion (4/5–11)
+
+Diese Struktur erweckt den Eindruck, dass sein erstes Gebet heuchlerisch und sein zweites selbstsüchtig war, aber die Gestaltung der Geschichte kann dies durch die Struktur vermitteln, ohne moralisierend zu sein.
 
 ## Symmetrische Muster
 
 <a name="1bc4"></a>
-Es handelt sich um Muster wie a-b-b’-a’, z.B. Jes. 22/22 (wenn wir auf “öffnen/schließen” schauen) a: er wird öffnen b: und niemand wird schließen b’: er wird schließen a’: und niemand wird öffnen
+Es handelt sich um Muster wie a-b-b’-a’, z.B. Jes. 22/22 (wenn wir auf “öffnen/schließen” schauen) 
+
+- a: er wird öffnen 
+	- b: und niemand wird schließen 
+	- b’: er wird schließen 
+- a’: und niemand wird öffnen
 
 Dies hat das Muster des linken Teils eines X (im Griechischen ist dies der Buchstabe Chi). Ein solches Muster wird als Chiasmus bezeichnet.
 
-Es kann auch auf ganze Bücher der Bibel angewendet werden, z.B. Richter 3/7–16/31 a: Othniel und seine gute Frau (3/7–11) b: Ehud und der Sieg an den Furten des Jordan (3/12–31) c: Debora: Der Schädel des Feindes wird von der Frau zertrümmert (4/1–5/31) d: Gideon: Wendepunkt (6/1–8/32) c’: Abimelech: Der Schädel des Richters wird von einer Frau zertrümmert (8/33–10/5) b’: Jephthah und der Bürgerkrieg an den Furten des Jordan (10/6–12/15) a’: Samson und seine bösen Frauen (13/1–16/31)
+Es kann auch auf ganze Bücher der Bibel angewendet werden, z.B. Richter 3/7–16/31 
+
+- a: Othniel und seine <span style="background:red">gute</span> <span style="background:green">Frau</span> (3/7–11) 
+	- b: Ehud und der <span style="background:red">Sieg</span> an den <span style="background:green">Furten des Jordan</span> (3/12–31) 
+		- c: Debora: Der <span style="background:green">Schädel</span> des <span style="background:red">Feindes</span> wird <span style="background:green">von der Frau zertrümmert</span> (4/1–5/31) 
+			- d: Gideon: Wendepunkt (6/1–8/32) 
+		- c’: Abimelech: Der <span style="background:green">Schädel</span> des <span style="background:red">Richters</span> wird <span style="background:green">von einer Frau zertrümmert</span> (8/33–10/5) 
+	- b’: Jephthah und der <span style="background:red">Bürgerkrieg</span> an den <span style="background:green">Furten des Jordan</span> (10/6–12/15) 
+- a’: Samson und seine <span style="background:red">bösen</span> <span style="background:green">Frauen</span> (13/1–16/31)
 
 Diese Vorgehensweise hat mehrere Vorteile
 

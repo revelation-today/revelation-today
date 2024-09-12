@@ -119,11 +119,11 @@ Parallel pattern
 Example: Jonah
 
 - a: Jonah’s <span style="background:green">commission</span> and <span style="background:red">disobedience</span> (1:1–3)
-- b: Jonah and the <span style="background:red">Gentile Sailors</span>: <span style="background:green">YHWH is merciful</span> (1/4–16)
-- c: <span style="background:green">Jonah’s Response to YHWH’S Mercy</span>: <span style="background:red">Praise</span> (1–17–2/10)
+	- b: Jonah and the <span style="background:red">Gentile Sailors</span>: <span style="background:green">YHWH is merciful</span> (1/4–16)
+		- c: <span style="background:green">Jonah’s Response to YHWH’S Mercy</span>: <span style="background:red">Praise</span> (1–17–2/10)
 - a’: Jonah’s <span style="background:green">Recommitment</span> and <span style="background:red">Obedience</span> (3/1–3a)
-- b’: Jonah and the <span style="background:red">pagan Ninevites</span>: <span style="background:green">YHWH is merciful</span> (3/3b-10)
-- c’: <span style="background:green">Jonah’s response to YHWH’s mercy</span>: <span style="background:red">resentment</span> (4/1–4)
+	- b’: Jonah and the <span style="background:red">pagan Ninevites</span>: <span style="background:green">YHWH is merciful</span> (3/3b-10)
+		- c’: <span style="background:green">Jonah’s response to YHWH’s mercy</span>: <span style="background:red">resentment</span> (4/1–4)
 - d: YHWH’s lesson (4/5–11)
 
 This structure gives the impression that his first prayer was hypocritical and his second selfish, but the arrangement of the story can convey this through the structure without being moralizing.
@@ -134,8 +134,8 @@ This structure gives the impression that his first prayer was hypocritical and h
 These are patterns like a-b-b’-a’ e.g. {{% bible val="Isa.22/22" link="isa:22,22" lang="en" %}} (looking at “open/close”) 
 
 - a: he shall open 
-- b: and no one will shut 
-- b’: he shall shut 
+	- b: and no one will shut 
+	- b’: he shall shut 
 - a’: and no one will open
 
 This has the pattern of the left part of an X (in Greek this is the letter Chi). Such a pattern is also called a chiasm.
@@ -143,11 +143,11 @@ This has the pattern of the left part of an X (in Greek this is the letter Chi).
 This can also be applied to enire books of the Bible, e.g.  {{% bible val="Judg.3/7–16/31" link="jdg:3,7-16,31" lang="en" %}} 
 
 - a: Othniel and his <span style="background:red">good</span> <span style="background:green">wife</span> (3/7–11) 
-- b: Ehud and the <span style="background:red">victory</span> at the <span style="background:green">Jordan fords</span> (3/12–31) 
-- c: Deborah: <span style="background:red">enemy’s</span> <span style="background:green">skull crushed by woman</span> (4/1–5/31) 
-- d: Gideon: turning point (6/1–8/32) 
-- c’: Abimelech: <span style="background:red">judge’s</span> <span style="background:green">skull crushed by woman</span> (8/33–10/5) 
-- b’: Jephthah and <span style="background:red">civil war</span> at the <span style="background:green">Jordan fords</span> (10/6–12/15) 
+	- b: Ehud and the <span style="background:red">victory</span> at the <span style="background:green">Jordan fords</span> (3/12–31) 
+		- c: Deborah: <span style="background:red">enemy’s</span> <span style="background:green">skull crushed by woman</span> (4/1–5/31) 
+			- d: Gideon: turning point (6/1–8/32) 
+		- c’: Abimelech: <span style="background:red">judge’s</span> <span style="background:green">skull crushed by woman</span> (8/33–10/5) 
+	- b’: Jephthah and <span style="background:red">civil war</span> at the <span style="background:green">Jordan fords</span> (10/6–12/15) 
 - a’: Samson and his <span style="background:red">bad</span> <span style="background:green">wifes</span> (13/1–16/31)
 
 This approach has several advantages

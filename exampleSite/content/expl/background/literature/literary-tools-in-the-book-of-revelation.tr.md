@@ -108,16 +108,39 @@ Paralel desen
 - hatırlamayı kolaylaştırır
 - karşılaştırma, zıtlık, vurgulama, açıklama, örnekleme yapabilir
 
-Örnek olarak: Yunus a: Yunus’un görevlendirilmesi ve itaatsizliği (1/1–3) b: Yunus ve putperest denizciler: YHWH merhametlidir (1/4–16) c: Yunus’un YHWH’nin merhametine yanıtı: övgü (1–17–2/10) a’: Yunus’un yeniden görevlendirilmesi ve itaati (3/1–3a) b’: Yunus ve putperest Ninovalılar: YHWH merhametlidir (3/3b-10) c’: Yunus’un YHWH’nin merhametine tepkisi: kızgınlık (4/1–4) d: YHWH’nin dersi (4/5–11)Bu yapı, ilk duasının ikiyüzlü, ikincisinin ise bencilce olduğu izlenimini verir, ancak öykünün düzenlenmesi bunu ahlakçı olmadan yapı aracılığıyla taşıyabilir.
+Örnek olarak: Yunus 
+
+- a: Yunus’un görevlendirilmesi ve itaatsizliği (1/1–3) 
+	- b: Yunus ve putperest denizciler: YHWH merhametlidir (1/4–16) 
+		- c: Yunus’un YHWH’nin merhametine yanıtı: övgü (1–17–2/10) 
+- a’: Yunus’un yeniden görevlendirilmesi ve itaati (3/1–3a) 
+	- b’: Yunus ve putperest Ninovalılar: YHWH merhametlidir (3/3b-10) 
+		- c’: Yunus’un YHWH’nin merhametine tepkisi: kızgınlık (4/1–4) 
+- d: YHWH’nin dersi (4/5–11)
+
+Bu yapı, ilk duasının ikiyüzlü, ikincisinin ise bencilce olduğu izlenimini verir, ancak öykünün düzenlenmesi bunu ahlakçı olmadan yapı aracılığıyla taşıyabilir.
 
 ## Simetrik desenler
 
 <a name="f356"></a>
-Bunlar a-b-b’-a’ gibi kalıplardır, örneğin Isa.22/22 (“açık/kapalı” olarak bakarsak)a: o açacak b: ve kimse susmayacak b’: kapatacak a’: ve kimse açmayacak
+Bunlar a-b-b’-a’ gibi kalıplardır, örneğin Isa.22/22 (“açık/kapalı” olarak bakarsak)
+
+- a: o açacak 
+	- b: ve kimse susmayacak 
+	- b’: kapatacak 
+- a’: ve kimse açmayacak
 
 Bu, bir X’in sol kısmının desenine sahiptir (Yunanca’da bu Chi harfidir). Böyle bir kalıba chiasm da denir.
 
-Bu aynı zamanda İncil’in tüm kitaplarına da uygulanabilir, örneğin Judg.3/7–16/31 a: Othniel ve iyi karısı (3/7–11) b: Ehud ve Ürdün geçidinde kazanılan zafer (3/12–31) c: Deborah: Düşmanın kafatası kadın tarafından ezildi (4/1–5/31) d: Gideon: dönüm noktası (6/1–8/32) c’: Abimelek: Yargıcın kafatası kadın tarafından ezildi (8/33–10/5) b’: Yeftah ve Ürdün geçitlerinde iç savaş (10/6–12/15) a’: Şimşon ve kötü eşleri(13/1–16/31)
+Bu aynı zamanda İncil’in tüm kitaplarına da uygulanabilir, örneğin Judg.3/7–16/31 
+
+- a: Othniel ve iyi karısı (3/7–11) 
+	- b: Ehud ve Ürdün geçidinde kazanılan zafer (3/12–31) 
+		- c: Deborah: Düşmanın kafatası kadın tarafından ezildi (4/1–5/31) 
+			- d: Gideon: dönüm noktası (6/1–8/32) 
+		- c’: Abimelek: Yargıcın kafatası kadın tarafından ezildi (8/33–10/5) 
+	- b’: Yeftah ve Ürdün geçitlerinde iç savaş (10/6–12/15) 
+- a’: Şimşon ve kötü eşleri(13/1–16/31)
 
 Bu yaklaşımın çeşitli avantajları vardır
 
