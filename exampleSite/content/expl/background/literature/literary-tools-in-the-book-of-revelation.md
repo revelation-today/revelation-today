@@ -118,12 +118,12 @@ Parallel pattern
 
 Example: Jonah
 
-- a: Jonah’s commission and disobedience (1:1–3)
-- b: Jonah and the Gentile Sailors: YHWH is merciful (1/4–16)
-- c: Jonah’s Response to YHWH’S Mercy: Praise (1–17–2/10)
-- a’: Jonah’s Recommitment and Obedience (3/1–3a)
-- b’: Jonah and the pagan Ninevites: YHWH is merciful (3/3b-10)
-- c’: Jonah’s response to YHWH’s mercy: resentment (4/1–4)
+- a: Jonah’s <span style="background:green">commission</span> and <span style="background:red">disobedience</span> (1:1–3)
+- b: Jonah and the <span style="background:red">Gentile Sailors</span>: <span style="background:green">YHWH is merciful</span> (1/4–16)
+- c: <span style="background:green">Jonah’s Response to YHWH’S Mercy</span>: <span style="background:red">Praise</span> (1–17–2/10)
+- a’: Jonah’s <span style="background:green">Recommitment</span> and <span style="background:red">Obedience</span> (3/1–3a)
+- b’: Jonah and the <span style="background:red">pagan Ninevites</span>: <span style="background:green">YHWH is merciful</span> (3/3b-10)
+- c’: <span style="background:green">Jonah’s response to YHWH’s mercy</span>: <span style="background:red">resentment</span> (4/1–4)
 - d: YHWH’s lesson (4/5–11)
 
 This structure gives the impression that his first prayer was hypocritical and his second selfish, but the arrangement of the story can convey this through the structure without being moralizing.
@@ -131,11 +131,24 @@ This structure gives the impression that his first prayer was hypocritical and h
 ### Symmetric patterns
 
 <a name="d519"></a>
-These are patterns like a-b-b’-a’ e.g. Isa.22/22 (looking at “open/close”) a: he shall open b: and no one will shut b’: he shall shut a’: and no one will open
+These are patterns like a-b-b’-a’ e.g. {{% bible val="Isa.22/22" link="isa:22,22" lang="en" %}} (looking at “open/close”) 
+
+- a: he shall open 
+- b: and no one will shut 
+- b’: he shall shut 
+- a’: and no one will open
 
 This has the pattern of the left part of an X (in Greek this is the letter Chi). Such a pattern is also called a chiasm.
 
-This can also be applied to enire books of the Bible, e.g. Judg.3/7–16/31 a: Othniel and his good wife (3/7–11) b: Ehud and the victory at the Jordan fords (3/12–31) c: Deborah: enemy’s skull crushed by woman (4/1–5/31) d: Gideon: turning point (6/1–8/32) c’: Abimelech: judge’s skull crushed by woman (8/33–10/5) b’: Jephthah and civil war at the Jordan fords (10/6–12/15) a’: Samson and his bad wifes (13/1–16/31)
+This can also be applied to enire books of the Bible, e.g.  {{% bible val="Judg.3/7–16/31" link="jdg:3,7-16,31" lang="en" %}} 
+
+- a: Othniel and his <span style="background:red">good</span> <span style="background:green">wife</span> (3/7–11) 
+- b: Ehud and the <span style="background:red">victory</span> at the <span style="background:green">Jordan fords</span> (3/12–31) 
+- c: Deborah: <span style="background:red">enemy’s</span> <span style="background:green">skull crushed by woman</span> (4/1–5/31) 
+- d: Gideon: turning point (6/1–8/32) 
+- c’: Abimelech: <span style="background:red">judge’s</span> <span style="background:green">skull crushed by woman</span> (8/33–10/5) 
+- b’: Jephthah and <span style="background:red">civil war</span> at the <span style="background:green">Jordan fords</span> (10/6–12/15) 
+- a’: Samson and his <span style="background:red">bad</span> <span style="background:green">wifes</span> (13/1–16/31)
 
 This approach has several advantages
 
@@ -188,7 +201,8 @@ This can be done in several ways in the Hebrew language:
 - To emphasize a pattern: to draw attention to a particular pattern, especially a pattern of behavior, e.g., Jonah’s case with the Gentiles. Jonah is reluctant to obey God, but the heathen readily accept and plead for mercy.
 - Compare: Two or more units can be compared to show the similarity between two things that do not seem similar, e.g. Amos 1–2 when Israel was judged the same as the foreign nations.
 - Contrast: may also show the difference between two things that seem the same but are not, e.g. Genesis 38 and 39 shows two sons of Jacob confronted with an illicit sexual invitation by a woman, and in both stories the temptress keeps a mark of the man to later use as evidence against him, but the rest is all different, how Judah fails completely and prospers while Joseph is faithful and punished.
-- Reversal: can show the reversal of something (1 Kings 3–11: establishment of Solomon’s reign and building of the temple, 2 Kings 18–25: end of Solomon’s reign and destruction of the temple).Reciprocity: Shows reciprocal action in matching units (Songs 2/8–17: young man’s invitation to young woman to join him, 7/11–8/4: she invites him to join her in the country).
+- Reversal: can show the reversal of something (1 Kings 3–11: establishment of Solomon’s reign and building of the temple, 2 Kings 18–25: end of Solomon’s reign and destruction of the temple).
+- Reciprocity: Shows reciprocal action in matching units (Songs 2/8–17: young man’s invitation to young woman to join him, 7/11–8/4: she invites him to join her in the country).
 - Resolution (or fulfillment): Emphasizes the close connection between the story’s opening tension, suspense, or prediction and its closing resolution or fulfillment (Gen 12/1–9: Abram and Sarah’s childlessness, 21/1–7: Isaac’s birth).
 - Totality: to show the totality of a phenomenon by showing both halves of a merism (day and night, man and woman) (Isa.2/10–22: future humiliation of proud man, 3/16–17: future humiliation of proud woman).
 
