@@ -1,5 +1,6 @@
 ---
 title: Done
+prev: /welcome/story
 next: /quick/bible/creation
 weight: 100
 ---
