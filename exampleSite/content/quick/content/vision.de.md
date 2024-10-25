@@ -18,8 +18,8 @@ Es steht zu viel auf dem Spiel. Die Rettung aller Völker hängt davon ab, wie d
 
 Gott hat eine Vision für die Kirche. Wenn die Kirche in dieser Vision lebt, wird sie erfolgreich sein.
 
-Natürlich steht Jesus in der Mitte der Vision und die Kirche wird als Lämmer und Sterne dargestellt. Die Botschaft ist doppelt und einfach:
-- Die Kirche soll ein Licht in der Welt sein wie die Lammstöcke (als einziges Licht im Tempel) und die Sterne
-- aber in starker Abhängigkeit von Jesus (Sterne in der Hand, Lammständer brauchen Öl - Heiliger Geist)
+Natürlich steht Jesus in der Mitte der Vision und die Kirche wird als Leuchter und Sterne dargestellt. Die Botschaft ist doppelt und einfach:
+- Die Kirche soll ein Licht in der Welt sein wie die Leuchter (als einziges Licht im Tempel) und die Sterne
+- aber in starker Abhängigkeit von Jesus (Sterne in der Hand, Leuchter brauchen Öl - Heiliger Geist)
 
 Das ist es, womit Jesus die Kirche vergleicht. Was wird er vorfinden?

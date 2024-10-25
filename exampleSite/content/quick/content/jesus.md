@@ -27,6 +27,7 @@ Now Satan assembles two beasts to attack the seed of the child who follow Jesus 
 
 ## The tribulation
 
-After Satan was thrown out of heaven, it is said, {{% bible val="that this are bad news for the people on earth" link="rev:12,12" lang="en" %}}. After his defeat you would expect that Satan stays low, but the opposite is the case. He has only little time so he creates as much damage as possible.
+After Satan was thrown out of heaven, it is said, {{% bible val="that this are bad news for the people on earth" link="rev:12,12" lang="en" %}}. 
+After his defeat you would expect that Satan stays low, but the opposite is the case. He has only little time so he creates as much damage as possible.
 
 So instead of an easy life we have now unprovoked attacks of Satan, which is also called the Great Tribulation: We suffer without doing anything wrong.

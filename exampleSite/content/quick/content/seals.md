@@ -15,7 +15,8 @@ docType: quick
 
 After Jesus is shown as worthy to open the scroll there is first one important thig to do: To expose the one that claims the same - Satan.
 
-Jesus exposes him in the first four seals. First he shows up as victorious and with great promises. But as Jesus forces him to show more, it turns into war and persecution, later to starving (of the poor) and finally to death and desctruction. These are the four horseman.
+Jesus exposes him in the first four seals. First he shows up as victorious and with great promises. 
+But as Jesus forces him to show more, it turns into war and persecution, later to starving (of the poor) and finally to death and desctruction. These are the four horseman.
 
 They are assembled based on the four plagues that God sends: wild animals, sword, hunger and the plague. They map directly the order of the horseman, while the first one represents the wild animals it already points to the link between Satan and the beast that show up later.
 

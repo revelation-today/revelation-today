@@ -18,4 +18,8 @@ We have finally arrived at our destiny: The New Jerusalem. It is the place where
 
 These are all elements refering to the temple. But there will be {{% bible val="no temple" link="rev:21,22" lang="en" %}}, because the temple is based on distance (whoever you are you can come closer and closer to God - pagan, Jew, Levite, Priest, High Priest) and only the High Priest can go once a year in the real presence of God - the Holy of Holies.
 
-But this is now ending as the New Jerusalem has the {{% bible val="shape of the Holy of Holies" link="rev:21,16" lang="en" %}}. But {{% bible val="directly outside this is what we would call hell" link="rev:22,14-15" lang="en" %}}. This describes the purpose of the New Jerusalem. It is about being in relationship with God: You are either all in or all out - the main message of the book.
+But this is now ending as the New Jerusalem has the {{% bible val="shape of the Holy of Holies" link="rev:21,16" lang="en" %}}. 
+But {{% bible val="directly outside this is what we would call hell" link="rev:22,14-15" lang="en" %}}. This describes the purpose of the New Jerusalem. 
+It is about being in relationship with God: You are either all in or all out - the main message of the book.
+
+And hell is nothing else but being separated from God, the source of life - for ever.

@@ -42,3 +42,4 @@ One thing is clear: The battle happens not in Armageddon as mountains are the pl
 The battle is described later. In the short form in the {{% bible val="seventh bowl" link="rev:16,17-21" lang="en" %}}, but in detail (after the destiny of the harlot and the wedding of the bride is described), when Jesus comes as {{% bible val="the white rider" link="rev:19,11-21" lang="en" %}}. 
 
 He also assembles "his army" in a very ironic way. The army are the {{% bible val="vultures" link="rev:19,17-18" lang="en" %}} that will feast from the slayed army. 
+So his concern is not that he might not win, but how to clean up afterwards.

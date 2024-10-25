@@ -47,6 +47,15 @@ This book is a comfort and encouragement
 
 Its core subject is not about future disasters, but about Jesus and the worship of Him.
 
+You will see
+- {{% int_link val="suffering brings people not to God" link="/quick/content/trumpets" %}}
+- {{% int_link val="worship is not what you may think" link="/quick/content/worship" %}}
+- {{% int_link val="the secret to lead people to God" link="/quick/content/witnesses" %}}
+- {{% int_link val="what Armageddon really is" link="/quick/content/worship" %}}
+- {{% int_link val="what the Great Tribulation is and if there is a rapture" link="/quick/content/army" %}}
+- {{% int_link val="what is Gods vision for the Church" link="/quick/content/vision" %}}
+- {{% int_link val="why prayer is so important and what is results in" link="/quick/content/trumpets" %}}
+
 ## The journey
 
 In order to reap the benefits of this book, I invite you on a journey where you:

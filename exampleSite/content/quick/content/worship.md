@@ -27,13 +27,15 @@ Here we find the answers to the problems
     
 ## The source of the plagues
 
-On the other hand all the plauges (seals, trumpets, bowls) have their origin in the throne room which is filled with worship. How does this makes sense.
+On the other hand all the plauges (seals, trumpets, bowls) have their origin in the throne room which is filled with worship. How does this makes sense?
 
-This requires a better understanding of the plagues, but there are several indicators that what comes out of this is covered with mercy and love. We need to take this into account when it comes to the plagues later.
+This requires a better understanding of the plagues, but there are several indicators that what comes out of this is covered with mercy and love. 
+We need to take this into account when it comes to the plagues later.
 
 ## The scroll
 
-The {{% bible val="scroll with the seven seals" link="rev:5,1-5" lang="en" %}} is the first thing in the book that is very strange. But in the time of the first reader it ws very normal. It was a document sealed by seven witnesses, the contetn cummarized on the outside, so that when it is opened, the document becomes active like a law or a testament.
+The {{% bible val="scroll with the seven seals" link="rev:5,1-5" lang="en" %}} is the first thing in the book that is very strange. 
+But in the time of the first reader it ws very normal. It was a document sealed by seven witnesses, the contetn cummarized on the outside, so that when it is opened, the document becomes active like a law or a testament.
 
 The question who is worthy to open this is not "who is allowed to read it", but "who is allowed to exeute this". Even it is not fully clear here what the content is, it seesm to be the plan of God as John is devastated as noone is found worthy to open the scroll.
 
