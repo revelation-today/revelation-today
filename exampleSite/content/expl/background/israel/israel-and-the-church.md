@@ -9,7 +9,7 @@ appl: /appl/background/israel
 
 The mention of Jews and Israel in Revelation is quite controversial. What is the reason for this and how can it be resolved?
 
-## The enmity of the Jews
+## The tension with the Jews
 
 <a name="2558"></a>
 At the time of the early church, the Jewish religion was respected by the Roman Empire because of its long history, and the Jews could live their faith as long as they were loyal to the emperor.
