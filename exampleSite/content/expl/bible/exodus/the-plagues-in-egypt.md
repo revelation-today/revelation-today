@@ -29,6 +29,12 @@ The next station is {{% bible val="that Moses goes to the Pharaoh and performs h
 
 Now after no one expects anything from Moses and Aaron anymore, God begins His work.
 
+## The magicians
+
+The magicians play an important role in the text here. You could also call them egyptian priests, but the word for priest [kohen](https://biblehub.com/hebrew/3548.htm) 
+which is used for the priests assigned in Israel, [Melchisedek](https://biblehub.com/interlinear/genesis/14-18.htm), [Jethro, Moses father in law](https://biblehub.com/interlinear/exodus/2-16.htm) and even the [priests in Egypt](https://biblehub.com/interlinear/genesis/41-45.htm)
+is not used for the respective people during the plagues but [chartum](https://biblehub.com/hebrew/2748.htm) which distinguishes them from priests.
+
 ## The pattern
 
 <a name="e181"></a>
@@ -43,7 +49,7 @@ The plagues follow certain patterns that are interesting to observe.
 
 The StaffDuring the plagues 1–3, the staff is used by Aaron.No staff used during plagues 4–6.Moses uses the staff during plagues 7–9.
 
-Wizardscan imitate plague 1 and 2,cannot imitate plague 3 and see the finger of God in there,are so much “affected” by plague 6, that they cannot even appear later.
+Magicians can imitate plague 1 and 2,cannot imitate plague 3 and see the finger of God in there,are so much “affected” by plague 6, that they cannot even appear later.
 
 As the plagues continued, Pharaoh’s heart grew harder and Moses increased his demands.In plagues 1–3 no distinction is made between Israelites and Egyptians, but from plague 4 on they are distinguished.
 
@@ -67,9 +73,9 @@ The goddess Heqet, wife of the Nile god, is the goddess of birth (and rebirth). 
 
 ## {{% bible val="3, Gnats" link="exo:8,16-19" lang="en" %}}
 
-The wizards were unable to reproduce this action and see the finger or the god in it.
+The magicians were unable to reproduce this action and see the finger or the god in it.
 
-According to a story from Egyptian mythology, there was a god who blinded another god (while he was approaching him unnoticed). The finger of God thus has the meaning of an ominous event whose origin cannot be determined. The wizard admits that God is stronger.
+According to a story from Egyptian mythology, there was a god who blinded another god (while he was approaching him unnoticed). The finger of God thus has the meaning of an ominous event whose origin cannot be determined. The migicians admits that God is stronger.
 
 ## {{% bible val="4, Flies" link="exo:8,20-32" lang="en" %}}
 
@@ -85,7 +91,7 @@ The livestock affected by these plagues is key to many aspects of society:
 
 ## {{% bible val="6, Boils" link="exo:9,8-12" lang="en" %}}
 
-Moses and Aaron throw dust into the air, which turns into boils. The wizards cannot appear because they are unclean.Originally, throwing dust into the air is a rite of atonement performed by the sorcerer. Not only can the wizard no longer perform it, but the rite has been “demystified” as well.
+Moses and Aaron throw dust into the air, which turns into boils. The magiciants cannot appear because they are unclean.Originally, throwing dust into the air is a rite of atonement performed by the sorcerer. Not only can the magicians no longer perform it, but the rite has been “demystified” as well.
 
 ## {{% bible val="7, Hail" link="exo:9,13-35" lang="en" %}}
 
