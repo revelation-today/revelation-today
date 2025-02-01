@@ -6,7 +6,7 @@ appl: /appl/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /kids/content/letters
 next: /kids/content/seals
-docType: quick
+docType: kids
 ---
 
 
