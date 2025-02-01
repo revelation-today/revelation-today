@@ -4,8 +4,8 @@ weight: 20
 story: /story/content/worship
 appl: /appl/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
-prev: /quick/content/letters
-next: /quick/content/seals
+prev: /kids/content/letters
+next: /kids/content/seals
 docType: quick
 ---
 

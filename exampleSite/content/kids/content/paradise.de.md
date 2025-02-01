@@ -4,9 +4,9 @@ weight: 150
 story: /story/content/1000y
 appl: /appl/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
-prev: /quick/content/1000y
-next: /welcome/done_quick
-docType: quick
+prev: /kids/content/1000y
+next: /welcome/done_kids
+docType: kids
 ---
 
 

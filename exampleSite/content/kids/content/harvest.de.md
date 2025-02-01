@@ -4,9 +4,9 @@ weight: 110
 story: /story/content/harvest
 appl: /appl/content/harvest
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
-prev: /quick/content/witnesses
-next: /quick/content/bowls
-docType: quick
+prev: /kids/content/witnesses
+next: /kids/content/bowls
+docType: kids
 ---
 
 

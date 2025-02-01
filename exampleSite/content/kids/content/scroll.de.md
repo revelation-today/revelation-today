@@ -4,9 +4,9 @@ weight: 70
 story: /story/content/scroll
 appl: /appl/content/scroll
 expl: /expl/content/scroll/the-little-scroll
-prev: /quick/content/trumpets
-next: /quick/content/witnesses
-docType: quick
+prev: /kids/content/trumpets
+next: /kids/content/witnesses
+docType: kids
 ---
 
 {{% bible val="Kapitel 10" link="rev:10" lang="de" %}}

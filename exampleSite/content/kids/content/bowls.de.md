@@ -4,9 +4,9 @@ weight: 120
 story: /story/content/harvest
 appl: /appl/content/bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
-prev: /quick/content/harvest
-next: /quick/content/harlot
-docType: quick
+prev: /kids/content/harvest
+next: /kids/content/harlot
+docType: kids
 ---
 
 

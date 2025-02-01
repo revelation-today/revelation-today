@@ -4,12 +4,12 @@ weight: 80
 story: /story/content/witnesses
 appl: /appl/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
-prev: /quick/content/scroll
-next: /quick/content/jesus
+prev: /kids/content/scroll
+next: /kids/content/jesus
 deeper:
     - name: The secret of the 3,5 years
       link:  /expl/bible/daniel/the-secret-of-the-3-5-years
-docType: quick
+docType: kids
 ---
 
 
