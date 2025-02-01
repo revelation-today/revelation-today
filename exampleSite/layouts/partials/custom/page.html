@@ -55,7 +55,7 @@
           </svg>
         </button>
      </center>
-{{- if and (not (eq $readTime 0)) (not (eq $readTime 1)) -}}
+{{- if and (not (eq $readTime 0)) -}}
     <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
     <ul>
     {{- $reading := print $readingTime ": " $readTime " " $minutes -}}
@@ -73,7 +73,6 @@
   {{- partial "custom/read_before.html" (dict "params" $params) -}}
   
   {{ $content }}
-  
   
   {{- partial "custom/prev_next.html" (dict "prev" $prev "next" $next) -}}
   {{- if and $base (not (or (hasPrefix $relPermalink (print $prefix "/expl")) (hasPrefix $relPermalink (print $prefix "/appl")))) -}}  

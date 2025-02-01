@@ -1,0 +1,19 @@
+---
+title: "Der Sieg Jesu (Kap. 12)"
+weight: 90
+story: /story/content/witnesses
+appl: /appl/content/jesus
+expl: /expl/content/jesus/a-different-christmas-story
+prev: /quick/content/witnesses
+next: /quick/content/beasts
+docType: quick
+---
+
+
+{{% bible val="Kapitel 12" link="rev:12" lang="de" %}}).
+
+
+## Überblick
+
+
+## Für Bibelforscher
