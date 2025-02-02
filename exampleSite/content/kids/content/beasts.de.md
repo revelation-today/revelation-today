@@ -32,16 +32,28 @@ Satan kann nicht schwach sein oder Fehler zugeben
 
 Außerdem: Gott regiert für immer, Satan wird eine Zeit gegeben (48 Monate)
 
+Zusatz: Es wird hier von der Zahl 666 geredet und diese Zahl kommt dreimal in der Bibel vor
+- In diesem Kapitel: Dreimal ist die Täuschung Satans eine 6 (durchgefallen). Auf Satans Täuschung fällt keiner rein.
+- Bei Daniels Freunden im Feuerofen (Dan.3): Schaut euch mal die Maße der Statue an. Die Freunde wissen, dass Gott sie erretten kann, aber sie würden ihm auch treu bleiben, wenn Gott nicht eingreift (Vers 18), und als sie nicht davor bewahrt, ins Feuer geworfen zu werden, ist Jesus bei ihnen (Vers 25) und bewahrt sie im Feuer.
+- Bei Salomo (1,Kön.10/14): Der kluge König hat sich von Satan täuschen lassen, weil er Gottes Gaben (Weisheit, Reichtum, Macht) mehr geliebt hat als Gott.
+
+Das sind auch Ermutigung und Warnung an uns:
+- Lass sich nicht täuschen, auch wenn es verlockend aussieht, was nicht von Jesus ist, bringt dich zu Fall.
+- Bleiebe Jesus true, auch wenn es gerade nicht so gut aussieht.
+- Liebe Gott und den Geber mehr als die Gaben.
+
 ## Reflektion
 
-Welches Verhalten seht ihr, das Jesus-mäßig und welches, das Satan-mäßig ist?
-Was bewirkt es, wenn jemand Angst macht?
-Möchtest du lieber andere lieb haben, auch wenn manche denken, du bist schwach?
-Kannst du Fehler zugeben?
-Wie fühlst du dich, wenn sich jemand bei dir entschuldigt?
+- Welches Verhalten seht ihr, das Jesus-mäßig und welches, das Satan-mäßig ist?
+- Was bewirkt es, wenn jemand Angst macht?
+- Möchtest du lieber andere lieb haben, auch wenn manche denken, du bist schwach?
+- Kannst du Fehler zugeben?
+- Wie fühlst du dich, wenn sich jemand bei dir entschuldigt?
 
 ## Für Bibelforscher
 
 Lest Johannes Kap.10 über den Hirten
+
 Lest Daniel Kap.3! Seht ihr Parallelen?
+
 Worin unterscheidet sich der Drache und die Tiere von Gott?
