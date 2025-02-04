@@ -13,7 +13,7 @@ docType: kids
 
 ## Überblick
 
-Nachdem wir beim letzten Mal gesehen haben, dass Satyn der ständige Verlierer ist, sehen wir nun seinen letzten großen Angriff: Mithilfe von zwei weiteren Tieren bildet er eine Dreifaltigkeit
+Nachdem wir beim letzten Mal gesehen haben, dass Satan der ständige Verlierer ist, sehen wir nun seinen letzten großen Angriff: Mithilfe von zwei weiteren Tieren bildet er eine Dreifaltigkeit
 - Drache allmächtig wie Gott der Vater
 - das erste Tier stirbt und steht wieder auf wie Jesus und besiegt alle seine Feinde
 - das zweite Tier kann Wunder vollbringen und Totes zum Leben erwecken wie der Heilige Geist
@@ -32,6 +32,9 @@ Satan kann nicht schwach sein oder Fehler zugeben
 
 Außerdem: Gott regiert für immer, Satan wird eine Zeit gegeben (48 Monate)
 
+Aber wer sind denn diese Tiere? Das zweite Tier sind alle Menschen um uns herum, mit denen wir ständig zu tun haben. Sie wollen dem ersten Tier gefallen und tun alles, was das erste Tier will. Und das erste Tier? Das sind alle anderen Mächtigen, mit denen wir nicht viel zu tun haben, aber die alles zu lenken scheinen.
+Das ist aber nicht wahr, denn das erste Tier macht auch nur, was der Drache ihm sagt.
+
 Zusatz: Es wird hier von der Zahl 666 geredet und diese Zahl kommt dreimal in der Bibel vor
 - In diesem Kapitel: Dreimal ist die Täuschung Satans eine 6 (durchgefallen). Auf Satans Täuschung fällt keiner rein.
 - Bei Daniels Freunden im Feuerofen (Dan.3): Schaut euch mal die Maße der Statue an. Die Freunde wissen, dass Gott sie erretten kann, aber sie würden ihm auch treu bleiben, wenn Gott nicht eingreift (Vers 18), und als sie nicht davor bewahrt, ins Feuer geworfen zu werden, ist Jesus bei ihnen (Vers 25) und bewahrt sie im Feuer.
@@ -47,6 +50,7 @@ Das sind auch Ermutigung und Warnung an uns:
 - Welches Verhalten seht ihr, das Jesus-mäßig und welches, das Satan-mäßig ist?
 - Was bewirkt es, wenn jemand Angst macht?
 - Möchtest du lieber andere lieb haben, auch wenn manche denken, du bist schwach?
+- Wer denkst du ist wirklich stark?
 - Kannst du Fehler zugeben?
 - Wie fühlst du dich, wenn sich jemand bei dir entschuldigt?
 
