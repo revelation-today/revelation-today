@@ -33,6 +33,15 @@ Gott lädt uns ein, zusammen mit ihm "zornig" zu sein. Was heisst das?
 - Immer auf Jesus' Seite sein, auch wenn man sich da alleine fühlt.
 - Sich immer erinnern, dass Gott am Ende der Sieger ist.
 
-Zusatz: Harmageddon. Gott macht sich lustig über Satan. Zum einen ist es der Name, wie Satan 
+Zusatz: Harmageddon. Gott macht sich lustig über Satan. Der Name hat nämlich drei Bedeutungen:
+- Großer Kampf
+- Berg der Versammlung, eine Bezeichnung für einen Ort, an dem Satan so tut, als wäre er der Größte
+- Berg von Megiddo, ein Ort, an dem die Schwächsten die Stärksten besiegt haben
 
 ## Für Bibelforscher
+
+Kennst du einige der Harmageddon-Geschichten
+- Berg der Versammlung (Jes.14/12-15)
+- eine Hausfrau besiegt einen Heerführer in Megiddo (Ri.4/12-22)
+- Elia, ein einziger Prophet Gottes siegt über 850 (so viele, Könnt ihr euch das vorstellen, wo die alle hinpassen) auf dem Karmel, dem Berg bei Megiddo (1,Kön.17)
+- Josia, ein König zieht in die Schlacht bei Megiddo und stirbt, aber rettet damit Israel und ändert die Weltgeschichte (2,Chr.35/20-25)
