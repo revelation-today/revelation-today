@@ -10,6 +10,16 @@ docType: kids
 ---
 {{% bible val="Kapitel 13" link="rev:13" lang="de" %}}
 
+## Die Geschichte
+
+Satan hat es satt, ständig zu verlieren. Also holt er sich Verstärkung: Zuerst kommt ein Tier as dem Meer.
+Und das Tier aus dem Meer sieht gealtig stark und furchterregend aus. Und dann geschieht etwas: Einer seiner Köpfe wird abgeschlagen, doch dann wächst der Kopf wieder nach. Und alle sind voll begeistert von ihm und es toll. Das klingt ein wenig wie Jesus, denn auch er starb und ist wieder auferstanden.
+
+Aber das hier ist ganz anders. Das Tier war ja gar nicht richtig tot, sondern nur verwundet. Und außerdem haben sich bei Jesus die Jünger gefreut, als er wieder auferstanden ist. Aber hier haben eigentlich ALLE Angst, weil es stärker ist. Und dann geht das Tier herum und beleidigt Gott und attackiert alle. Nur diemKinder Gottes durchschauen das und sie sind im Buch des Lebens ausgeschrieben. Das muss man leider aushalten.
+
+Aber das reicht Satan nicht. Er holt noch ein zweites Tier, das aussieht wie Jesus, aber klingt wie Satan. Das macht große Wunder and kann totoes zum Leben erwecken, aber eigentlich versucht es alle zu manipulieren und zu kontrollieren. Und wer nicht mitmacht, wird totgemacht oder alLes weggenommen. Und alle müssen ein Zeichen machen, dass die dem Tier loyal sind, so dass das alle sehen können.
+
+Und das ist echt hart auszuhalten. Aber wenn du schlau bist, hast du das ganze vielleicht schon durchschaut. Satan als Drache und die beiden Tiere hat schon wieder versagt, dreimal eine sechs - durchgefallen.
 
 ## Überblick
 
@@ -32,7 +42,7 @@ Satan kann nicht schwach sein oder Fehler zugeben
 
 Außerdem: Gott regiert für immer, Satan wird eine Zeit gegeben (48 Monate)
 
-Aber wer sind denn diese Tiere? Das zweite Tier sind alle Menschen um uns herum, mit denen wir ständig zu tun haben. Sie wollen dem ersten Tier gefallen und tun alles, was das erste Tier will. Und das erste Tier? Das sind alle anderen Mächtigen, mit denen wir nicht viel zu tun haben, aber die alles zu lenken scheinen.
+Aber wer sind denn diese Tiere? Das zweite Tier sind alle Menschen um uns herum, mit denen wir ständig zu tun haben. Sie wollen dem ersten Tier gefallen und tun alles, was das erste Tier will. Und das erste Tier? Das sind alle anderen Mächtigen, mit denen wir nicht viel zu tun haben, aber die alles zu lenken scheinen (Cliquenanführer?, ...)
 Das ist aber nicht wahr, denn das erste Tier macht auch nur, was der Drache ihm sagt.
 
 Zusatz: Es wird hier von der Zahl 666 geredet und diese Zahl kommt dreimal in der Bibel vor
