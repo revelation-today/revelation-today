@@ -12,6 +12,19 @@ docType: kids
 
 {{% bible val="Kapitel 15-16" link="rev:15" lang="de" %}}
 
+## Geschichte
+
+Jetzt wird es ernst. Der Zorn Gottes kommt. Gott hält sich nicht mehr zurück. Er geht voll in die Offensive.
+
+Zuerst einmal richtet dich Gottes Zorn gegen alle, die bei Satan mitgemacht haben. Sie sahen nachher ganz hässlich aus wegen all der hässlichen Sachen, die sie mit Satan gemacht haben.
+
+Das mussten sie eklige Dinge durchmachen wegen all der Gemeinheiten, die sie Gottes Kindern zugefügt haben.
+
+Und wegen ihrer Sturheit, weil sie sich nicht ändern wollten oder entschuldigen oder irgendetwas in der Richtung, ist es ihnen heiß und kalt geworden, dass so schlim war, dass sie sich auf die Zunge gebissen haben, aber sie wollten sich trotzdem nicht ändern.
+
+Und dann passiert, was passieren muss. Sie alle glauben der großen Lüge und versammeln sich bei einem Ort, der Harmageddon genannt wird (das ist keinech ter Ort, sondern ein Codename). Und da versammeln sie sich, um gegen die scheinbar bösen zu kämpfen. Aber Satan hat sie alle betrogen. Denn sie werden alle verlieren ud sich total schämen, weil sie alle gekommen sind, um das einzig Gute zum bekämpfen.
+
+Und dann ist einfach Schluss, weil Gott dem ein Ende setzt. Aber dass schauen wir uns in den nächsten Geschichten an.
 
 ## Überblick
 
