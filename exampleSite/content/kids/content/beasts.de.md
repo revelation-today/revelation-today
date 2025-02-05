@@ -12,8 +12,8 @@ docType: kids
 
 ## Die Geschichte
 
-Satan hat es satt, ständig zu verlieren. Also holt er sich Verstärkung: Zuerst kommt ein Tier as dem Meer.
-Und das Tier aus dem Meer sieht gealtig stark und furchterregend aus. Und dann geschieht etwas: Einer seiner Köpfe wird abgeschlagen, doch dann wächst der Kopf wieder nach. Und alle sind voll begeistert von ihm und es toll. Das klingt ein wenig wie Jesus, denn auch er starb und ist wieder auferstanden.
+Satan hat es satt, ständig zu verlieren. Also holt er sich Verstärkung: Zuerst kommt ein Tier aus dem Meer.
+Und das Tier aus dem Meer sieht gewaltig stark und furchterregend aus. Und dann geschieht etwas: Einer seiner Köpfe wird abgeschlagen, doch dann wächst der Kopf wieder nach. Und alle sind voll begeistert von ihm und finen es toll. Das klingt ein wenig wie Jesus, denn auch er starb und ist wieder auferstanden.
 
 Aber das hier ist ganz anders. Das Tier war ja gar nicht richtig tot, sondern nur verwundet. Und außerdem haben sich bei Jesus die Jünger gefreut, als er wieder auferstanden ist. Aber hier haben eigentlich ALLE Angst, weil es stärker ist. Und dann geht das Tier herum und beleidigt Gott und attackiert alle. Nur diemKinder Gottes durchschauen das und sie sind im Buch des Lebens ausgeschrieben. Das muss man leider aushalten.
 
