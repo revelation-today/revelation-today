@@ -11,6 +11,13 @@ docType: kids
 
 {{% bible val="Kapitel 7" link="rev:7" lang="de" %}}
 
+## Geschichte
+
+Das war ja richtig heftig. Gut dass Gott uns beschützt und uns mit einem Siegel versieht, dass wir zu ihm gehören, bevor all das passiert.
+
+Und Jesus hat auch eine Armee. Du denkst dir vielleicht, dass muss eine große Streitmacht sein, um gegen alle die Bösen zu kämpfen und sie zu vernichten. Aber Gott zeigt wiedermal, dass es ganz anders ist.
+
+Das Heer Gottes sind all die, die Gott lieben und so sein wollen wie er. Sie sind manchmal sehr traurig, weil andere ihnen wehtun. Aber sie lassen sich dadurch nicht ermutigen, sondern suchen immer wieder Gottes Nähe, wo sie getröstet werden.
 
 ## Überblick
 
