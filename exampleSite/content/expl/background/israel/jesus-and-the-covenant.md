@@ -82,7 +82,7 @@ Finally, the remnant are not the religious people, but those who keep the covena
 
 ## Already but not yet
 
-<a name="e3c4"></a>
+<a name="already"></a>
 {{% bible val="He says that the Day of the Lord has come (the Kingdom of God)" link="mrk:1,1-15" lang="en" %}}. The Gospel of Mark begins with the vision that introduces the second part of Isaiah which describes the restoration of Israel. {{% bible val="In his preaching" link="luk:4,16-21" lang="en" %}} He cites the fulfillment of the prophecy of {{% bible val="chapter 61 " link="luk:4,16-21" lang="en" %}}: “The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free, to proclaim the year of the Lord’s favour.”
 
 But if you compare it with the {{% bible val="passage of Isaiah" link="isa:61,1-2" lang="en" %}} you will see that he stopped in the middle of the sentence: “to proclaim the year of the Lord’s favor and the day of vengeance of our God”

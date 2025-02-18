@@ -75,7 +75,7 @@ Summary:
 - header: `## <header>`
 - unordered list: `- <item>`
 - links: `[<link text>](<link>)`
-- Link to an intensl page: `{{% int_link val="<text>" link="<link>" %}}`
+- Link to an internal page: `{{% int_link val="<text>" link="<link>" %}}`
 - Link to a bible verse : `{{% bible val="<text>" link="<chap>,<verse>-<verse>" lang="<lang>" %}}`
 - pictures: `![<picture description>](<path to picture>)` like `![](/images/example.jpg)`
 - table: (keep spaces with \|) 
