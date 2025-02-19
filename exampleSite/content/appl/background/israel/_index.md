@@ -48,7 +48,7 @@ and “{{% int_link val="the gospels are written reflecting the Second Exodus" l
 With this he also redefines Israel. He calls himself “{{% int_link val="Son of Man" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}” and made himself the remnant of Israel 
 and he started a {{% bible val="new covenant with anyone who was willing to join starting with Israel" link="mat:15,24" lang="en" %}} including all the Gentiles.
 
-But the {{% int_link val="Day of the Lord has only partially arrived, so we are living in a time in between" link="/expl/background/israel/jesus-and-the-covenant.html#already" %}}, where the kingdom of God is there, but not fully yet.
+But the {{% int_link val="Day of the Lord has only partially arrived, so we are living in a time in between" link="/expl/background/israel/jesus-and-the-covenant" %}}, where the kingdom of God is there, but not fully yet.
 
 {{% int_link val="The Gentiles are now a part of Israel and there is no distinction between how Israel was treated in the Old Testament and how the Church and Israel are treated in the New Testament." link="/expl/background/israel/the-church-is-part-of-israel" %}}
 

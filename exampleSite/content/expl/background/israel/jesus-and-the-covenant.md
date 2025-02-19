@@ -80,7 +80,7 @@ Second, Jesus was very clear that the enemies were not the Romans who were oppre
 
 Finally, the remnant are not the religious people, but those who keep the covenant of God, which {{% int_link val="is only Jesus Himself" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. All others do not belong to the remnant and would be subject of the judgment, which is also Israel.
 
-## Already but not yet
+## Already but not yet {#already}
 
 <a name="already"></a>
 {{% bible val="He says that the Day of the Lord has come (the Kingdom of God)" link="mrk:1,1-15" lang="en" %}}. The Gospel of Mark begins with the vision that introduces the second part of Isaiah which describes the restoration of Israel. {{% bible val="In his preaching" link="luk:4,16-21" lang="en" %}} He cites the fulfillment of the prophecy of {{% bible val="chapter 61 " link="luk:4,16-21" lang="en" %}}: “The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free, to proclaim the year of the Lord’s favour.”
