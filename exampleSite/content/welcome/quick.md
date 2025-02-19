@@ -6,8 +6,8 @@ next: /quick/background/literature
 docType: quick
 ---
 
-We will guide you through the storyline.
+This guides you through the storyline.
 
-On this tour you will get a rough explanation of each part of the book, there are for each item also links for deeper understanding.
+This tour gives you a brief explanation of each part of the book. You can use the links for each item for deeper understanding.
 
-If you just read through you will be done in about an hour.
+A quick read-through will take about an hour.
