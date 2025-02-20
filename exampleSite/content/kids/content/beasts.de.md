@@ -34,7 +34,7 @@ Also jeder, der Gottes Stimme erkennt, durchschaut den Schwindel. Aber wer kann 
 Aber worin sehen wir denn den Unterschied? Viele denken ja, mit Jesus bin ich groß und stark und alles ist immer gut. Aber das ist gar nicht der Unterscheid.
 Hier macht Satan Angst, Während Jesus liebt
 - Jesus ist für uns gestorben und auferstanden, weil er uns liebt, aber das erste Tier bringt nach seiner Auferstehung alle dazu, es zu fürchten.
-- Der Heulige Geist tut Wunder, um Menschen heilzumachen, aber das zweite Tier nun Wunder, um Menschen weh zu tun und sie zu töten oder sie arm zu machen.
+- Der Heilige Geist tut Wunder, um Menschen heilzumachen, aber das zweite Tier nun Wunder, um Menschen weh zu tun und sie zu töten oder sie arm zu machen.
 
 Satan kann nicht schwach sein oder Fehler zugeben
 - Das erste Tier stirbt nicht wirklich, sondern ist nur verwundet, aber Jesus ist richtig gestorben und war den Menschen ausgeliefert.
