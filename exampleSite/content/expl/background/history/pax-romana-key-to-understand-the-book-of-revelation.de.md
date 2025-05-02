@@ -77,7 +77,7 @@ Doch nun gab es diese jüdische Sekte, die Christen, die nicht nur die Pax Roman
 
 Das war hart für die Christen, und das Buch der Offenbarung spricht auch dieses Thema an.
 
-## Die Feindseligkeit der Juden {#Jews}
+## Spannungen mit den Juden {#Jews}
 
 Zur Zeit der frühen Kirche wurde die jüdische Religion aufgrund ihrer langen Geschichte vom Römischen Reich respektiert, und die Juden konnten ihren Glauben ausleben, solange sie dem Kaiser gegenüber loyal waren, aber nun kamen die Christen und zollten dem Kaiser nicht den erwarteten Respekt (Anbetung). Da der Kaiser die Christen als eine jüdische Sekte ansah, wurden die Juden unter Druck gesetzt. Das führte dazu, dass die Juden die Christen bei den Römern anklagten, um sicherzustellen, dass der Kaiser verstand, dass die Juden nicht auf ihrer Seite waren.
 
