@@ -45,7 +45,7 @@ Let’s first look at the Old Testament background.
 ## Elijah and the drought (1. Kings 16/29–18/35)
 
 <a name="89d3"></a>
-King Ahab of Israel marries Jezebel of Sidon (north of Israel). She introduces Baal and Ashera, the gods of fertility (many children, good harvests, strong armies — horses). But the key to this in most cases is: {{% bible val="Enough rain" link="1ki:17,8" lang="en" %}}.
+King Ahab of Israel marries Jezebel of Sidon (north of Israel). She introduces Baal and Ashera, the gods of fertility (many children, good harvests, strong armies — horses). But the key to this in most cases is: {{% bible val="Enough rain" link="1ki:17,1" lang="en" %}}.
 
 So God {{% bible val="sends Elijah to call for a drought" link="1ki:17,1" lang="en" %}} that {{% bible val="lasted 3,5 years" link="luk:4,25" lang="en" %}}. He is supplied by ravens. Later, he{{% bible val=" went to a widow in Sidon with a dying son whom he saved, so that woman believed in God" link="1ki:17,6-24" lang="en" %}}.
 
