@@ -23,7 +23,7 @@ In der Offenbarung sehen wir vier apokalyptische Reiter, die Krieg, Hunger und T
 
 <a name="02bb"></a>
 - {{% int_link val="Historischer Hintergrund des Buches" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}
-- [Was für ein Buch ist die Offenbarung?](/background/literature/expl/the-book-of-revelation-how-to-read-it)
+- {{% int_link val="Was für ein Buch ist die Offenbarung?" link="/expl/background/literature/expl/the-book-of-revelation-how-to-read-it" %}}
 
 ## Der Text
 
