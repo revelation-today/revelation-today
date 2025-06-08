@@ -40,7 +40,7 @@ Und warum werden sie nicht in derselben Einheit ausgedrückt?
 
 Werfen wir zunächst einen Blick auf den alttestamentlichen Hintergrund.
 
-## Elia und die Dürre (1. Kön. 16/29–18/35)
+## Elia und die Dürre ({{% bible val="1. Kön. 16/29–18/35" link="1,ki:16,29-18,35" lang="de" %}})
 
 <a name="2b28"></a>
 König Ahab von Israel heiratet Isebel von Sidon (im Norden Israels). Sie führt Fruchtbarkeitsgötter Baal und Aschera in Israel ein (Garant für viele Kinder, gute Ernten, starke Armee mit Pferden). Und der Schlüssel dazu ist: {{% bible val="Genug Regen" link="1ki:17,1" lang="de" %}}.
