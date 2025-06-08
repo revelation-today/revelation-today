@@ -47,7 +47,7 @@ Der Text selbst gibt uns die entscheidenden Hinweise: “{{% bible val="Das sind
 
 Dies wird durch die Diskussion über die {{% bible val="dreieinhalb Jahre" link="rev:11,3" lang="de" %}}, die {{% int_link val="die Zeit zwischen Jesu erstem und zweitem Kommen" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}} ist, bestätigt, so dass wir davon ausgehen müssen, dass es sich hier nicht um Personen, sondern um die Gemeinde handelt.
 
-Es gibt verschiedene Möglichkeiten, sie mit bestimmten Personen in Verbindung zu bringen, aber der einfachste Ansatz ist, sie mit Mose und Elija zu identifizieren, da das {{% bible val="Feuer vom Himmel auf ihre Feinde" link="rev:11,5" lang="de" %}} für {{% bible val="Elija" link="1ki:1" lang="de" %}} charakteristisch ist, ebenso wie das {{% bible val="Stoppen des Regens" link="rev:11,6" lang="de" %}}, während das {{% bible val="Wasser zu Blut" link="rev:11,6" lang="de" %}} wird, für {{% bible val="Mose" link="exo:7,14-24" lang="de" %}} charakteristisch ist.
+Es gibt verschiedene Möglichkeiten, sie mit bestimmten Personen in Verbindung zu bringen, aber der einfachste Ansatz ist, sie mit Mose und Elija zu identifizieren, da das {{% bible val="Feuer vom Himmel auf ihre Feinde" link="rev:11,5" lang="de" %}} für {{% bible val="Elija" link="1ki:18" lang="de" %}} charakteristisch ist, ebenso wie das {{% bible val="Stoppen des Regens" link="rev:11,6" lang="de" %}}, während das {{% bible val="Wasser zu Blut" link="rev:11,6" lang="de" %}} wird, für {{% bible val="Mose" link="exo:7,14-24" lang="de" %}} charakteristisch ist.
 
 Vielleicht hast du bemerkt, dass sie nicht als Individuen wie Mose und Elija handeln, sondern als Zeugen, die wie eine Persona handeln.Aber was repräsentieren sie? Die Gemeinschaft, denn nur die Gemeinschaft kann so lange wirken. Wir können das so verstehen
 
@@ -61,7 +61,7 @@ Man kann es aber auch so sehen, dass
 
 Sie sind da, um zu bezeugen, dass es sich um eine Gemeinde handelt, sei es nach innen oder nach außen, sei es Israel oder das erweiterte Israel (Gemeinde).
 
-Wenn es eine Gemeinde gibt, warum gibt es dann keinen Zeugen? Nun, {{% bible val="ein Zeuge hat keinen Wert" link="deu:19,15" lang="de" %}} und die beiden Zeugen agieren wirklich einheitlich.
+Wenn es eine Gemeinde gibt, warum gibt es dann zwei Zeugen? Nun, {{% bible val="ein Zeuge hat keinen Wert" link="deu:19,15" lang="de" %}} und die beiden Zeugen agieren wirklich einheitlich.
 
 Dennoch gibt es etwas Merkwürdiges an ihnen.
 
@@ -79,11 +79,20 @@ Sie kommen, um in einer gefallenen Welt zur Umkehr aufzurufen.
 
 Sie können Zeichen und Wunder tun. Im Alten Testament wurden sie eingesetzt, um die Menschen zu lehren, dass es nur einen Gott gibt (und dass es keinen Sinn hat, einem anderen zu vertrauen, {{% int_link val="wie die Posaunen lehren" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}).
 
-Das einzige, was sie gegen ihre Feinde einsetzen können, ist Feuer vom Himmel, wie in der Geschichte von Elija. Doch am Ende werden sie {{% bible val="vom Tier überwunden" link="rev:11,7" lang="de" %}}.
+Das einzige, was sie gegen ihre Feinde einsetzen können, ist Feuer vom Himmel, wie in der Geschichte von  {{% bible val=" Elia" link="2.ki:1" lang="de" %}}.
+
+Doch was ist hiermit gemeint? Darf die Gemeinde ihre Feinde umbringen?
+Ein Blick auf die Geschichte von Elia zeigt, dass dies nicht der Fall ist.
+Der König damals war staur und überheblich und schickte Soldaten, um Elia zu verhaften. Gott schritt ein. und schützte somit auch Elia. 
+Doch am Ende der Geschichte demütigt sich der letzte Hauptmann und wird gerettet. Somit kann man dies auch als einen Übergang der Posaunen, bei denen die Leute starben zu dem Ende dieser Geschichte verstehen, in dem sich die Menschen bekehren.
+
+Doch am Ende werden sie {{% bible val="vom Tier überwunden" link="rev:11,7" lang="de" %}}.
 
 Aber wie ist das möglich? Hat Jesus nicht versprochen, dass {{% bible val="niemand die Gemeinde überwältigen kann" link="mat:16,18" lang="de" %}}? Wenn du in [Matthäus](https://biblehub.com/interlinear/matthew/16-18.htm) nachschaust, siehst du, dass dort ein [anderes Wort](https://biblehub.com/greek/2729.htm) verwendet wird als [das](https://biblehub.com/greek/3528.htm) in der [Offenbarung](https://biblehub.com/interlinear/revelation/11-7.htm). In der Offenbarung ist es ein einmaliges Überwinden, während es in Matthäus ein langfristiges Überwinden ist (die Schlacht verlieren, aber den Krieg gewinnen).
 
 Und das Wichtigste ist, dass sie überwunden wurden, NACHDEM sie ihr Zeugnis vollendet hatten!
+
+Ein weiterer Punkt der Erklärung: Die Stadt, in der ihr Herr gekreuzigt wurde, ist Jerusalem. Sie mit Sodom (Stadt der Sünde) und Ägypten (Ort der Sklaverei) zu bezeichnen ist ein weiterer Ausdruck der Spannung zwischen Juden und der Gemeinde, wobei hier aber auch der Aspekt der Rettung der Juden im Folus ist, da diese Geschichte ja in diesem Ort verankert ist.
 
 Die Gemeinde scheint besiegt zu sein und die {{% bible val="ganze Welt feiert, dass die Zeugen nun verstummt sind" link="rev:11,9-10" lang="de" %}} und {{% bible val="demütigt" link="1sa:17,44-46" lang="de" %}} sie sogar, indem {{% bible val="sie sie nicht begraben" link="rev:11,8" lang="de" %}}.
 
