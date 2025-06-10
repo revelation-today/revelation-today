@@ -23,7 +23,7 @@ sources:
 
 Eines der ersten Dinge, die den Menschen durch den Kopf gehen, wenn sie vom Buch der Offenbarung hören, ist der Drache, die beiden Tiere mit der Zahl 666 und dem Zeichen und der Hand und der Stirn. Es gibt viele Gedanken zu diesem Thema, und alle sind in diesem einen Kapitel enthalten. Schuen wir es uns an.
 
-## The Text
+## Der Text
 
 <a name="a679"></a>
 {{% bible val="Und der Drache wurde zornig über die Frau und ging hin, um Krieg zu führen mit den Übrigen von ihrem Samen, welche die Gebote Gottes befolgen und das Zeugnis Jesu Christi haben. 18 Und ich stellte mich auf den Sand des Meeres." link="rev:12,17-18" lang="de" %}}
