@@ -13,22 +13,19 @@ deeper:
     - name: Die Zahl 666
       link:  /expl/content/beasts/666-the-number-of-the-beast
     - name: Die 3,5, Jahre
-      link:  /expl/bible/daniel/the-secret-of-the-3-5-years
+      link:  /expl/bible/daniel/the-secret-of-the5-years
 sources: 
     - pages: 681–730
-      ref: beale_rev
-    - pages: 88–94
-      ref: bauckham_rev
----
+      ref: b pages: 88   r-10f: bauckham_rev
 
-Eines der ersten Dinge, die den Menschen durch den Kopf gehen, wenn sie vom Buch der Offenbarung hören, ist der Drache, die beiden Tiere mit der Zahl 666 und dem Zeichen und der Hand und der Stirn. Es gibt viele Gedanken zu diesem Thema, und alle sind in diesem einen Kapitel enthalten. Schauen wir es uns an.
+Eines der ersten Dinge, die den Menschen durch den Kopf gehen, wenn sie vom Buch der Offenbarung hören, ist der Drache, die beiden Tiere mit der Zahl 666 und dem Zeichen und der Hand und der Stirn. Es gibt viele Gedanken zu diesem Thema, und alle sind in diesem einen Kapitel enthalten. Schuen wir es uns an.
 
 ## The Text
 
 <a name="a679"></a>
 {{% bible val="Und der Drache wurde zornig über die Frau und ging hin, um Krieg zu führen mit den Übrigen von ihrem Samen, welche die Gebote Gottes befolgen und das Zeugnis Jesu Christi haben. 18 Und ich stellte mich auf den Sand des Meeres." link="rev:12,17-18" lang="de" %}}
 
-[Und ich sah aus dem Meer ein Tier aufsteigen, das sieben Köpfe und zehn Hörner hatte und auf seinen Hörnern zehn Kronen und auf seinen Köpfen einen Namen der Lästerung. 2 Und das Tier, das ich sah, glich einem Panther, und seine Füße waren wie die eines Bären und sein Rachen wie ein Löwenrachen; und der Drache gab ihm seine Kraft und seinen Thron und große Vollmacht. 3 Und ich sah einen seiner Köpfe wie zu Tode verwundet, und seine Todeswunde wurde geheilt. Und die ganze Erde sah verwundert dem Tier nach. 4 Und sie beteten den Drachen an, der dem Tier Vollmacht gegeben hatte, und sie beteten das Tier an und sprachen: Wer ist dem Tier gleich? Wer vermag mit ihm zu kämpfen? 5 Und es wurde ihm ein Maul gegeben, das große Worte und Lästerungen redete; und es wurde ihm Macht gegeben, 42 Monate lang zu wirken. 6 Und es tat sein Maul auf zur Lästerung gegen Gott, um seinen Namen zu lästern und sein Zelt und die, welche im Himmel wohnen. 7 Und es wurde ihm gegeben, Krieg zu führen mit den Heiligen und sie zu überwinden; und es wurde ihm Vollmacht gegeben über jeden Volksstamm und jede Sprache und jede Nation. 8 Und alle, die auf der Erde wohnen, werden es anbeten, deren Namen nicht geschrieben stehen im Buch des Lebens des Lammes, das geschlachtet worden ist, von Grundlegung der Welt an. 9 Wenn jemand ein Ohr hat, der höre! 10 Wenn jemand in Gefangenschaft führt, so geht er in die Gefangenschaft; wenn jemand mit dem Schwert tötet, so soll er durchs Schwert getötet werden. Hier ist das standhafte Ausharren und der Glaube der Heiligen!](https://www.bibleserver.com/SLT/Offenbarung13%2C1-10)
+{{% bible val="Und ich sah aus dem Meer ein Tier aufsteigen, das sieben Köpfe und zehn Hörner hatte und auf seinen Hörnern zehn Kronen und auf seinen Köpfen einen Namen der Lästerung. 2 Und das Tier, das ich sah, glich einem Panther, und seine Füße waren wie die eines Bären und sein Rachen wie ein Löwenrachen; und der Drache gab ihm seine Kraft und seinen Thron und große Vollmacht. 3 Und ich sah einen seiner Köpfe wie zu Tode verwundet, und seine Todeswunde wurde geheilt. Und die ganze Erde sah verwundert dem Tier nach. 4 Und sie beteten den Drachen an, der dem Tier Vollmacht gegeben hatte, und sie beteten das Tier an und sprachen: Wer ist dem Tier gleich? Wer vermag mit ihm zu kämpfen? 5 Und es wurde ihm ein Maul gegeben, das große Worte und Lästerungen redete; und es wurde ihm Macht gegeben, 42 Monate lang zu wirken. 6 Und es tat sein Maul auf zur Lästerung gegen Gott, um seinen Namen zu lästern und sein Zelt und die, welche im Himmel wohnen. 7 Und es wurde ihm gegeben, Krieg zu führen mit den Heiligen und sie zu überwinden; und es wurde ihm Vollmacht gegeben über jeden Volksstamm und jede Sprache und jede Nation. 8 Und alle, die auf der Erde wohnen, werden es anbeten, deren Namen nicht geschrieben stehen im Buch des Lebens des Lammes, das geschlachtet worden ist, von Grundlegung der Welt an. 9 Wenn jemand ein Ohr hat, der höre! 10 Wenn jemand in Gefangenschaft führt, so geht er in die Gefangenschaft; wenn jemand mit dem Schwert tötet, so soll er durchs Schwert getötet werden. Hier ist das standhafte Ausharren und der Glaube der Heiligen!" link="rev:13,1-10" lang="de" %}}
 
 {{% bible val="Und ich sah ein anderes Tier aus der Erde aufsteigen, und es hatte zwei Hörner gleich einem Lamm und redete wie ein Drache. 12 Und es übt alle Vollmacht des ersten Tieres aus vor dessen Augen und bringt die Erde und die auf ihr wohnen dazu, dass sie das erste Tier anbeten, dessen Todeswunde geheilt wurde. 13 Und es tut große Zeichen, sodass es sogar Feuer vom Himmel auf die Erde herabfallen lässt vor den Menschen. 14 Und es verführt die, welche auf der Erde wohnen, durch die Zeichen, die vor dem Tier zu tun ihm gegeben sind, und es sagt denen, die auf der Erde wohnen, dass sie dem Tier, das die Wunde von dem Schwert hat und am Leben geblieben ist, ein Bild machen sollen. 15 Und es wurde ihm gegeben, dem Bild des Tieres einen Geist zu verleihen, sodass das Bild des Tieres sogar redete und bewirkte, dass alle getötet wurden, die das Bild des Tieres nicht anbeteten. 16 Und es bewirkt, dass allen, den Kleinen und den Großen, den Reichen und den Armen, den Freien und den Knechten, ein Malzeichen gegeben wird auf ihre rechte Hand oder auf ihre Stirn, 17 und dass niemand kaufen oder verkaufen kann als nur der, welcher das Malzeichen hat oder den Namen des Tieres oder die Zahl seines Namens. 18 Hier ist die Weisheit! Wer das Verständnis hat, der berechne die Zahl des Tieres, denn es ist die Zahl eines Menschen, und seine Zahl ist 666." link="rev:13,11-18" lang="de" %}}
 
@@ -37,14 +34,21 @@ Eines der ersten Dinge, die den Menschen durch den Kopf gehen, wenn sie vom Buch
 <a name="78d1"></a>
 In den vorhergehenden Versen wird der Angriff des Drachen auf {{% int_link val="das Kind (Jesus) " link="/expl/content/jesus/a-different-christmas-story" %}}und seine Mutter beschrieben, und als er an beiden scheitert, ruft er zwei Tiere herbei, die noch näher beschrieben werden.
 
-- Der erste Bezug geht auf das Buch Hiob zurück und beschreibt die Ungeheuer {{% bible val="Behemoth" link="job:40,15-24" lang="de" %}} und {{% bible val="Leviathan" link="job:41,1-26" lang="de" %}}, die Tiere vom Land und der See (ebenso wie in diesem Kapitel). Sie sind für die Menschen unbesiegbar, {{% bible val="nicht aber für Gott" link="isa:27,1" lang="de" %}}. Außerdem ist {{% bible val="Leviathan für Gott nur ein Spielzeug" link="psa:104,26" lang="de" %}}.
-- Eine vergleichbare Szene findet sich in der Offenbarung, wo {{% bible val="der Engel seinen Fuß auf Land und Meer setzt" link="rev:10,3" lang="de" %}} und damit seine Souveränität über beide ausdrückt.
-- Das erste Tier lehnt sich an die Beschreibung von {{% bible val="Daniels" link="dan:7" lang="de" %}} an: das erste wie ein Löwe, das zweite wie ein Bär, das dritte wie ein Panther. Alle zusammen haben 7 Köpfe (das dritte hat 4, die anderen je einen). Das vierte hat 10 Kronen, das sind {{% bible val="10 Könige" link="dan:7,24" lang="de" %}}, was diese Beschreibung mit der {{% bible val="Hure" link="rev:17,12" lang="de" %}} verbindet. Aber warum wird das Tier mit dem von Danel beschrieben? Wenn man den Text dort zu Ende liest, sieht man, dass dieses unbesiegbare Tier am Ende doch besiegt wird.
-- Die nächste Parallele findet sich ebenfalls in Daniel, in der {{% bible val="Geschichte von seinen Freunden im Feuerofen" link="dan:3" lang="de" %}}. Dort wird die Geschichte von dem zweiten Tier erzählt. Dort gibt es auch ein Standbild, das angebetet werden muss, und die Menschen werden bestraft, wenn sie das nicht tun und mit Feuer getötet, und wir haben sogar eine {{% bible val="666" link="dan:3,1" lang="de" %}} in dieser Geschichte. Am Ende werden {{% bible val="Daniels Freunde gerettet und der König erkennt Gott an und befördert die Freunde" link="dan:3,28-30" lang="de" %}}.
+### Leviathan und Behemoth
 
-Auf den ersten Blick scheinen der Drache und die Tiere unbesiegbar zu sein, aber alle Verweise deuten darauf hin, dass der Drache verlieren wird, wenn er auf Gott und sein Volk trifft.
+Der erste Bezug geht auf das Buch Hiob zurück, wo die Ungeheuer {{% bible val="Behemoth" link="job:40,15-24" lang="de" %}} und 
+{{% bible val="Leviathan" link="job:40,25-41,26" lang="de" %}} beschrieben werden. Diese beiden Tiere stammen von der Erde und aus dem Meer und sind für den Menschen unbesiegbar. 
+Aber die Unbesiegbarkeit gilt nicht {{% bible val="in Bezug auf Gott" link="isa:27,1" lang="de" %}}, sondern {{% bible val="Leviathan ist für Gott nur ein Spielzeug" link="psa:104,26" lang="de" %}}.
+Eine vergleichbare Szene findet sich in der Offenbarung, wo {{% bible val="der Engel seinen Fuß auf Land und Meer setzt" link="rev:10,3" lang="de" %}} 
+und damit seine Souveränität über Meer und Erde ausdrückt (dem Ursprung, aus dem die beiden Tiere in Kap.13 stammen.
 
-Das erste Tier repräsentiert die {{% bible val="Gesamtheit aller Reiche aus Daniel" link="dan:7,1-8" lang="de" %}}:
+Auf den ersten Blick scheinen der Drache und die Tiere unbesiegbar zu sein, aber alle Verweise deuten darauf hin, dass der Drache verlieren wird, 
+wenn er auf Gott und sein Volk trifft.
+
+### Das erste Tier 
+
+Das erste Tier in der Offenbarung lehnt sich an die Beschreibung der vier Tiere von {{% bible val="Daniel" link="dan:7" lang="de" %}} an. 
+
 <p>Das erste Tier und die Tiere in Daniel</p>
 
 | Daniel 7 | Offenbarung 13 |
@@ -56,6 +60,22 @@ Das erste Tier repräsentiert die {{% bible val="Gesamtheit aller Reiche aus Dan
 | {{% bible val="Das dritte Tier hat 4 Köpfe, die andere jeweils einen" link="dan:7,6" lang="de" %}} | {{% bible val="hat 7 Köpfe" link="rev:13,1" lang="de" %}} |
 | {{% bible val="Das Horn spricht große Dinge" link="dan:7,8" lang="de" %}} </br> {{% bible val="spricht gegen den Höchsten" link="dan:7,25" lang="de" %}} | {{% bible val="Tier lästert Gott" link="rev:13,6" lang="de" %}} |
 | {{% bible val="Die 10 Hörner sind 10 Könige" link="dan:7,24" lang="de" %}} | {{% bible val="10 Kronen" link="rev:13,1" lang="de" %}} |
+
+Das Tier in beschreibt hier alle 4 Tiere in Daniel, also die Gesamtheit der Reiche, die in Daniel aufeinanderfolgend beschrieben werden. 
+Dieses Tier ist also die Zusammenfassung aller dieser Tiere und dennoch ereilt es dasselbe Schicksal wie die Tiere in Daniel. Es wird dem Gericht übergeben.
+
+Dieser Punkt und die Beschreibung von Leviathan und Behemoth machen deutlich, dass die scheinbar überwältigende Macht des Tieres nicht von Dauer ist.
+
+### Die Freunde im Feuerofen
+
+Die nächste Parallele findet sich ebenfalls in Daniel, in der {{% bible val="Geschichte von seinen Freunden im Feuerofen" link="dan:3" lang="de" %}}. 
+
+Dort wird die Geschichte von dem zweiten Tier erzählt. Dort gibt es auch ein Standbild, das angebetet werden muss, und die Menschen werden bestraft, 
+wenn sie das nicht tun und mit Feuer getötet, und wir haben sogar eine {{% bible val="666" link="dan:3,1" lang="de" %}} in dieser Geschichte. 
+Am Ende werden {{% bible val="Daniels Freunde gerettet und der König erkennt Gott an und befördert die Freunde" link="dan:3,28-30" lang="de" %}}.
+
+Der interessante Punkt in dieser Geschichte ist, dass Daniel Freunde wissen, dass Gott sie erretten kann, aber {{% bible val="selbst wenn er es NICHT tut, bleiben sie ihm treu" link="dan:3,18" lang="de" %}}.
+
 
 ## Der zweifache Angriff
 
@@ -69,11 +89,10 @@ Schauen wir uns die beiden Tiere genauer an. Sie wirken zusammen und ergänzen s
 | Ursprung | {{% bible val="Aus dem Meer" link="rev:13,1" lang="de" %}} | {{% bible val="Aus der Erde" link="rev:13,11" lang="de" %}} |
 | Identität (mit Daniel) | {{% bible val="Tier mit sieben Hörnern" link="rev:13,1" lang="de" %}} -> Fortbestand und Macht der Reiche | {{% bible val="Tier mit zwei Hörnern wie Lamm/Menschensohn" link="rev:13,11" lang="de" %}} |
 | Macht | {{% bible val="Drache gibt Macht und Thron" link="rev:13,2" lang="de" %}} | {{% bible val="herrscht in der Macht des ersten Tieres" link="rev:13,12" lang="de" %}} |
-| Zeichen und Anbetung | {{% bible val="Tödliche Wunde ist geheilt" link="rev:13,3" lang="de" %}} </br> {{% bible val="Die ganze Erde ist erstaunt" link="rev:13,3" lang="de" %}}
-{{% bible val="Betet den Drachen an, der dem Tier die Macht" link="rev:13,4" lang="de" %}} <span style="background:#00FF7F;"></span> | {{% bible val="Zwingt alle, das erste Tier anzubeten, dessen Wunde geheilt wurde" link="rev:13,12" lang="de" %}}. </br> {{% bible val="Tut große Zeichen, lässt Feuer vom Himmel fallen, täuscht durch Zeichen" link="rev:13,13-14" lang="de" %}} </br> {{% bible val="Erhält die Macht des ersten Tieres" link="rev:13,14" lang="de" %}}. |
+| Zeichen und Anbetung | {{% bible val="Tödliche Wunde ist geheilt" link="rev:13,3" lang="de" %}} </br> {{% bible val="Die ganze Erde ist erstaunt" link="rev:13,3" lang="de" %}} </br> {{% bible val="Beten Drachen an, der Tier die Macht gab" link="rev:13,4" lang="de" %}} <span style="background:#00FF7F;"></span> | {{% bible val="Zwingt alle, das erste Tier anzubeten, dessen Wunde geheilt wurde" link="rev:13,12" lang="de" %}}. </br> {{% bible val="Tut große Zeichen, lässt Feuer vom Himmel fallen, täuscht durch Zeichen" link="rev:13,13-14" lang="de" %}} </br> {{% bible val="Erhält die Macht des ersten Tieres" link="rev:13,14" lang="de" %}}. |
 | Prahlerei | {{% bible val="Wer ist wie das Tier (stark wie es)" link="rev:13,4" lang="de" %}} </br> {{% bible val="große Lästerungen gegen Gott und sein Volk" link="rev:13,5-6" lang="de" %}}. | {{% bible val="Machtbild des Tieres" link="rev:13,14" lang="de" %}} (der Mensch ist nach dem Bilde Gottes geschaffen -&gt; der Mensch ist Stellvertreter Gottes)</br> {{% bible val="Kann Leben geben, damit das Tier sprechen kann" link="rev:13,14-15" lang="de" %}} <span style="background:#00FF7F;">aber nur Gott kann Leben geben</span>.  |
-|Überwindet Heilige | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}}. </br> {{% bible val="Hat Macht über Stämme, Sprachen und Nationen" link="rev:13,7" lang="de" %}} </br> {{% bible val="Alle auf Erden beten das Tier an, die nicht im Buch des Lebens geschrieben stehen" link="rev:13,8" lang="de" %}}.| {{% bible val="Tötet alle, die das Bild nicht anbeten" link="rev:13,15" lang="de" %}}.</br> {{% bible val="Macht Zeichen für alle " link="rev:13,16" lang="de" %}} </br> {{% bible val="Niemand kann kaufen oder verkaufen, es sei denn, er hat das Zeichen des Tieres" link="rev:13,17" lang="de" %}}. |
-| Wer Ohren hat, der höre!](https://www.bibleserver.com/SLT/Offenbarung13%2C9)</br> {{% bible val="Hier ist die Geduld und der Glaube der Heiligen" link="rev:13,10" lang="de" %}}. | {{% bible val="Hier ist Weisheit" link="rev:13,18" lang="de" %}}</br> {{% bible val="Wenn jemand Verstand hat: Zählt" link="rev:13,18" lang="de" %}} |
+| Überwindet Heilige | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}}. </br> {{% bible val="Hat Macht über Stämme, Sprachen und Nationen" link="rev:13,7" lang="de" %}} </br> {{% bible val="Alle auf Erden beten das Tier an, die nicht im Buch des Lebens geschrieben stehen" link="rev:13,8" lang="de" %}}.| {{% bible val="Tötet alle, die das Bild nicht anbeten" link="rev:13,15" lang="de" %}}.</br> {{% bible val="Macht Zeichen für alle " link="rev:13,16" lang="de" %}} </br> {{% bible val="Niemand kann kaufen oder verkaufen, es sei denn, er hat das Zeichen des Tieres" link="rev:13,17" lang="de" %}}. |
+| Sieg | {{% bible val="Wer Ohren hat, der höre!" link="rev:13,9" lang="de" %}} </br> {{% bible val="Hier ist die Geduld und der Glaube der Heiligen" link="rev:13,10" lang="de" %}}. | {{% bible val="Hier ist Weisheit" link="rev:13,18" lang="de" %}}</br> {{% bible val="Wenn jemand Verstand hat: Zählt" link="rev:13,18" lang="de" %}} |
 
 Am Ende ist noch ein interessanter Chiasmus zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", d.h. das Wissen soll zu Taten leiten (hören=gehorchen im Hebräischen) und "Weisheit" mit "Geduld und Glaube der Heiligen", was zeigt, dass die Weishiet in Geduld und Glauben resultieren soll.
 
