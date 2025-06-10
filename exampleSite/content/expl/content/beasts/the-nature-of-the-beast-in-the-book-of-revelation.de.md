@@ -13,10 +13,13 @@ deeper:
     - name: Die Zahl 666
       link:  /expl/content/beasts/666-the-number-of-the-beast
     - name: Die 3,5, Jahre
-      link:  /expl/bible/daniel/the-secret-of-the5-years
+      link:  /expl/bible/daniel/the-secret-of-the-3-5-years
 sources: 
     - pages: 681–730
-      ref: b pages: 88   r-10f: bauckham_rev
+      ref: beale_rev
+    - pages: 88   
+      ref: bauckham_rev
+---
 
 Eines der ersten Dinge, die den Menschen durch den Kopf gehen, wenn sie vom Buch der Offenbarung hören, ist der Drache, die beiden Tiere mit der Zahl 666 und dem Zeichen und der Hand und der Stirn. Es gibt viele Gedanken zu diesem Thema, und alle sind in diesem einen Kapitel enthalten. Schuen wir es uns an.
 
