@@ -42,7 +42,7 @@ In den vorhergehenden Versen wird der Angriff des Drachen auf {{% int_link val="
 Der erste Bezug geht auf das Buch Hiob zurück, wo die Ungeheuer {{% bible val="Behemoth" link="job:40,15-24" lang="de" %}} und 
 {{% bible val="Leviathan" link="job:40,25-41,26" lang="de" %}} beschrieben werden. Diese beiden Tiere stammen von der Erde und aus dem Meer und sind für den Menschen unbesiegbar. 
 Aber die Unbesiegbarkeit gilt nicht {{% bible val="in Bezug auf Gott" link="isa:27,1" lang="de" %}}, sondern {{% bible val="Leviathan ist für Gott nur ein Spielzeug" link="psa:104,26" lang="de" %}}.
-Eine vergleichbare Szene findet sich in der Offenbarung, wo {{% bible val="der Engel seinen Fuß auf Land und Meer setzt" link="rev:10,3" lang="de" %}} 
+Eine vergleichbare Szene findet sich in der Offenbarung, wo {{% bible val="der Engel seinen Fuß auf Land und Meer setzt" link="rev:10,2" lang="de" %}} 
 und damit seine Souveränität über Meer und Erde ausdrückt (dem Ursprung, aus dem die beiden Tiere in Kap.13 stammen.
 
 Auf den ersten Blick scheinen der Drache und die Tiere unbesiegbar zu sein, aber alle Verweise deuten darauf hin, dass der Drache verlieren wird, 
@@ -93,9 +93,13 @@ Schauen wir uns die beiden Tiere genauer an. Sie wirken zusammen und ergänzen s
 | Identität (mit Daniel) | {{% bible val="Tier mit sieben Hörnern" link="rev:13,1" lang="de" %}} -> Fortbestand und Macht der Reiche | {{% bible val="Tier mit zwei Hörnern wie Lamm/Menschensohn" link="rev:13,11" lang="de" %}} |
 | Macht | {{% bible val="Drache gibt Macht und Thron" link="rev:13,2" lang="de" %}} | {{% bible val="herrscht in der Macht des ersten Tieres" link="rev:13,12" lang="de" %}} |
 | Zeichen und Anbetung | {{% bible val="Tödliche Wunde ist geheilt" link="rev:13,3" lang="de" %}} </br> {{% bible val="Die ganze Erde ist erstaunt" link="rev:13,3" lang="de" %}} </br> {{% bible val="Beten Drachen an, der Tier die Macht gab" link="rev:13,4" lang="de" %}} <span style="background:#00FF7F;"></span> | {{% bible val="Zwingt alle, das erste Tier anzubeten, dessen Wunde geheilt wurde" link="rev:13,12" lang="de" %}}. </br> {{% bible val="Tut große Zeichen, lässt Feuer vom Himmel fallen, täuscht durch Zeichen" link="rev:13,13-14" lang="de" %}} </br> {{% bible val="Erhält die Macht des ersten Tieres" link="rev:13,14" lang="de" %}}. |
-| Prahlerei | {{% bible val="Wer ist wie das Tier (stark wie es)" link="rev:13,4" lang="de" %}} </br> {{% bible val="große Lästerungen gegen Gott und sein Volk" link="rev:13,5-6" lang="de" %}}. | {{% bible val="Machtbild des Tieres" link="rev:13,14" lang="de" %}} (der Mensch ist nach dem Bilde Gottes geschaffen -&gt; der Mensch ist Stellvertreter Gottes)</br> {{% bible val="Kann Leben geben, damit das Tier sprechen kann" link="rev:13,14-15" lang="de" %}} <span style="background:#00FF7F;">aber nur Gott kann Leben geben</span>.  |
+| Prahlerei | {{% bible val="Wer ist wie das Tier (stark wie es)" link="rev:13,4" lang="de" %}} </br> {{% bible val="große Lästerungen gegen Gott und sein Volk" link="rev:13,5-6" lang="de" %}}. | {{% bible val="Machtbild des Tieres" link="rev:13,14" lang="de" %}} (der Mensch ist nach dem Bilde Gottes geschaffen -&gt; der Mensch ist Stellvertreter Gottes)</br> {{% bible val="Kann Leben geben, damit das Tier sprechen kann" link="rev:13,14-15" lang="de" %}} aber nur Gott kann Leben geben.  |
 | Überwindet Heilige | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}}. </br> {{% bible val="Hat Macht über Stämme, Sprachen und Nationen" link="rev:13,7" lang="de" %}} </br> {{% bible val="Alle auf Erden beten das Tier an, die nicht im Buch des Lebens geschrieben stehen" link="rev:13,8" lang="de" %}}.| {{% bible val="Tötet alle, die das Bild nicht anbeten" link="rev:13,15" lang="de" %}}.</br> {{% bible val="Macht Zeichen für alle " link="rev:13,16" lang="de" %}} </br> {{% bible val="Niemand kann kaufen oder verkaufen, es sei denn, er hat das Zeichen des Tieres" link="rev:13,17" lang="de" %}}. |
 | Sieg | {{% bible val="Wer Ohren hat, der höre!" link="rev:13,9" lang="de" %}} </br> {{% bible val="Hier ist die Geduld und der Glaube der Heiligen" link="rev:13,10" lang="de" %}}. | {{% bible val="Hier ist Weisheit" link="rev:13,18" lang="de" %}}</br> {{% bible val="Wenn jemand Verstand hat: Zählt" link="rev:13,18" lang="de" %}} |
+
+Die Aussage, dass das Bild des Tieres Odem hat, ist ein Kontrast zu dem Spott im Alten Testament, dass die Götzen nicht reden können und kein Leben haben und {{% bible val="verspottet werden" link="jer:10" lang="de" %}}.
+Doch hier hat das Tier die Macht dem Götzen Leben einzuhauchen. Außerdem ist dies auch eine Referenz, wie {{% bible val="Gott" link="gen:2,7" lang="de" %}} oder {{% bible val="der Heilige Geist" link="ezk:37,1-14" lang="de" %}} Leben gibt,
+also etwas, was nur Gott kann und tut.
 
 Übrigens: Am Ende ist noch ein interessanter Chiasmus zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", 
 -  Wenn jemand ein Ohr hat, der höre! (Vers 9)
@@ -122,6 +126,7 @@ Zunächst einige Beobachtungen
 - {{% bible val="Es kann Feuer vom Himmel fallen lassen" link="rev:13,13" lang="de" %}}, was {{% bible val="laut Elija ein Zeichen des wahren Gottes ist" link="1ki:18,24" lang="de" %}}.
 - {{% bible val="Es kann ein Standbild zum Leben erwecken" link="rev:13,15" lang="de" %}}, was zeigt, dass es {{% bible val="mehr als nur ein Götze ist" link="psa:115,4-8" lang="de" %}} und an das {{% bible val="Wirken des Heiligen Geistes bei Hesekiel erinnert" link="ezk:37" lang="de" %}}.
 
+
 In all dem sehen wir, dass Satan eine böse Dreieinigkeit aufbaut mit
 
 - dem Drachen, der Gott den Vater nachahmt, der alle Macht hat
@@ -137,6 +142,8 @@ In all dem sehen wir, dass Satan eine böse Dreieinigkeit aufbaut mit
 | {{% bible val="Zweite Tier spricht wie ein Drache" link="rev:13,11" lang="de" %}} |  |
 | {{% bible val="Tut große Dinge vor den Menschen" link="rev:13,13-14" lang="de" %}} | {{% bible val="Jesus wirkt oft im Verborgenen" link="mat:4,5-7" lang="de" %}} ({{% bible val="Mt.9/30" link="mat:9,30" lang="de" %}}, {{% bible val="Mk.5/43" link="mrk:5,43" lang="de" %}}) |
 | {{% bible val="Tötet alle, die ihn nicht anbeten" link="rev:13,15" lang="de" %}} | {{% bible val="Der Heilige Geist kann betrübt werden" link="eph:4,30" lang="de" %}} und {{% bible val="übt keinen Druck aus" link="2co:3,17" lang="de" %}} |
+
+Die 42 Monate sind {{% int_link val="an anderer Stelle" link="/expl/bible/daniel/the-secret-of-the-3-5-years/" %}} erklärt.
 
 ## Die dunkle Seite
 
@@ -187,3 +194,8 @@ Das ist überhaupt nicht der Fall, denn Satan würde einen sehr schlechten Job m
 Satan geht es um den Sieg, koste es, was es wolle und wem dabei Schaden zugefügt wird.
 
 Gott kommt in Liebe zu den Menschen, auch wenn er dabei nicht immer erfolgreich ist.
+
+## Die Gemeinde überwunden
+
+Es heißt {{% bible val="dass das Tier die Gemeinde überwindet" link="rev:13,7" lang="de" %}}, was im {{% int_link val="Kapitel über die beiden Zeugen erklärt wird" link="/expl/content/witnesses/the-two-witnesses/" %}}.
+Dort wird auch erklärt, warum die scheinbar besiegte Gemeinde der eigentliche Sieger ist.

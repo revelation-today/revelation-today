@@ -40,14 +40,20 @@ Er ist sehr einfach zu verstehen. Es ist Satan. Er ist der Puppenspieler, er ste
 ## Das erste Tier
 
 <a name="e132"></a>
-Das ist der Kaiser in Rom (vom Meer, also jenseits des Meeres). Er unterscheidet sich nicht von den Herrschern vor ihm. Und mit dem Tod eines Herrschers (Nero, Tiberius, …) ist das erste Tier nicht tot. {{% bible val="Mit jedem neuen Kaiser erhebt es sich wieder. Rom ist unschlagbar" link="rev:13,3-4" lang="de" %}}.
+Das ist der Kaiser in Rom (vom Meer, also jenseits des Meeres). Er unterscheidet sich nicht von den Herrschern vor ihm. 
+Und mit dem Tod eines Herrschers (Nero, Tiberius, …) ist das erste Tier nicht tot. 
+{{% bible val="Mit jedem neuen Kaiser erhebt es sich wieder. Rom ist unschlagbar" link="rev:13,3-4" lang="de" %}}.
+Das ist das Bild, das Rom vermitteln möchte, aber es hat keinen Bestand, denn nur Jesus hat Macht über den Tod durch seine echte Auferstehung.
 
 {{% bible val="Rom ist gotteslästerlich" link="rev:13,4-6" lang="de" %}}, weil es für sich in {{% int_link val="Anspruch nimmt, wie Gott zu sein" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}. Der Kaiser befehligt die Legionen und bricht jeden Widerstand. Er {{% bible val="beginnt die Christenverfolgung und kommt damit durch" link="rev:13,7-8" lang="de" %}}. Und jeder, dessen Name nicht im Buch des Lebens geschrieben steht, wird seine Knie vor ihm beugen, {{% bible val="denn er hat die Macht, und die Heiligen können nur ausharren" link="rev:13,10" lang="de" %}}.
 
 ## Das zweite Tier
 
 <a name="3622"></a>
-Es gibt ein großes Netzwerk von Menschen, die von der Gunst des Kaisers profitieren (Steuererlass, finanzielle Unterstützung, …) oder die vermeiden wollen, in Ungnade zu fallen. Für sie ist der {{% int_link val="Kaiser der Garant des göttlichen Segens" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
+Es gibt ein großes Netzwerk von Menschen, die von der Gunst des Kaisers profitieren (Steuererlass, finanzielle Unterstützung, …) oder die vermeiden wollen, in Ungnade zu fallen. 
+Für sie ist der {{% int_link val="Kaiser der Garant des göttlichen Segens" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
+
+Sie tun dies aus Eigennutz, dienen damit aber dem Kaiser und dadurch Satans Spiel.
 
 Sie achten darauf, dass {{% bible val="niemand etwas tut, was sie in die Ungunst des Kaisers bringen könnte" link="rev:13,12" lang="de" %}}. Es sind die lokalen Autoritäten. Sie machen Prozessionen, bauen Tempel, arbeiten in und an den Tempeln, verkaufen den Götzen geweihtes Fleisch, nehmen an Festen für Götzen teil und so weiter. Es ist eine übergeordnete Aktivität: {{% bible val="Es sieht doch nicht böse aus, geht einfach mit dem Strom" link="rev:13,11" lang="de" %}}.
 
