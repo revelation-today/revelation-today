@@ -97,9 +97,15 @@ Schauen wir uns die beiden Tiere genauer an. Sie wirken zusammen und ergänzen s
 | Überwindet Heilige | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}}. </br> {{% bible val="Hat Macht über Stämme, Sprachen und Nationen" link="rev:13,7" lang="de" %}} </br> {{% bible val="Alle auf Erden beten das Tier an, die nicht im Buch des Lebens geschrieben stehen" link="rev:13,8" lang="de" %}}.| {{% bible val="Tötet alle, die das Bild nicht anbeten" link="rev:13,15" lang="de" %}}.</br> {{% bible val="Macht Zeichen für alle " link="rev:13,16" lang="de" %}} </br> {{% bible val="Niemand kann kaufen oder verkaufen, es sei denn, er hat das Zeichen des Tieres" link="rev:13,17" lang="de" %}}. |
 | Sieg | {{% bible val="Wer Ohren hat, der höre!" link="rev:13,9" lang="de" %}} </br> {{% bible val="Hier ist die Geduld und der Glaube der Heiligen" link="rev:13,10" lang="de" %}}. | {{% bible val="Hier ist Weisheit" link="rev:13,18" lang="de" %}}</br> {{% bible val="Wenn jemand Verstand hat: Zählt" link="rev:13,18" lang="de" %}} |
 
-Am Ende ist noch ein interessanter Chiasmus zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", d.h. das Wissen soll zu Taten leiten (hören=gehorchen im Hebräischen) und "Weisheit" mit "Geduld und Glaube der Heiligen", was zeigt, dass die Weishiet in Geduld und Glauben resultieren soll.
+Übrigens: Am Ende ist noch ein interessanter Chiasmus zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", 
+-  Wenn jemand ein Ohr hat, der höre! (Vers 9)
+    - ... Hier ist das standhafte Ausharren und der Glaube der Heiligen! (Vers 10)
+    - Hier ist Weisheit (Vers 18)
+-  Wer das Verständnis hat, der berechne die Zahl des Tieres (Vers 18)
 
-Dies geschieht auf zweierlei Weise:
+Das Wissen soll zu Taten leiten (hören=gehorchen im Hebräischen) und "Weisheit" mit "Geduld und Glaube der Heiligen", was zeigt, dass die Weishiet in Geduld und Glauben resultieren soll.
+
+Doch nun zurück zu den Tieren. Sie herrschen auf zweierlei Weise:
 
 - durch Gewalt und Einschüchterung ({{% bible val="besiegt die Heiligen" link="rev:13,7" lang="de" %}}, {{% bible val="vernichtet jeden Widerstand" link="rev:13,10" lang="de" %}} oder {{% bible val="Menschen, die nicht folgen" link="rev:13,15" lang="de" %}}),
 - durch Täuschung, die schwieriger zu verstehen ist, aber hier erklärt wird.
