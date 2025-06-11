@@ -1,6 +1,6 @@
 ---
 title: Tour through story
-weight: 5
+weight: 1
 prev: /welcome
 next: /welcome/done_story
 docType: story

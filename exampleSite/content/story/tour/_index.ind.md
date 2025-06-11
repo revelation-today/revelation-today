@@ -1,6 +1,6 @@
 ---
 title: Tur melalui cerita
-weight: 5
+weight: 1
 prev: /welcome
 next: /story/bible/creation
 docType: story

@@ -2,7 +2,7 @@
 title: Willkommen
 weight: 1
 prev: /welcome/teaser
-next: /welcome/story
+next: /story/tour
 ignore: true
 ---
 
@@ -17,7 +17,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Die Geschichte"
-    link="story"
+    link="/story/tour"
     subtitle="In poetischen Worten."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/book.jpg"
@@ -31,7 +31,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Im Schnelldurchlauf"
-    link="quick"
+    link="/quick/tour"
     subtitle="Das Buch im Überblick."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/cavalry.jpg"
@@ -45,7 +45,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Für Kinder"
-    link="kids"
+    link="/kids/tour"
     subtitle="Für Kinder aufbereitet."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/kids.jpg"
@@ -59,7 +59,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Anwendung"
-    link="appl"
+    link="/appl/tour"
     subtitle="Entdecke, wie du das Buch in deinem Leben anwenden kannst."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
@@ -73,7 +73,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Vertiefung"
-    link="expl"
+    link="/expl/tour"
     subtitle="Ein tieferes Verständnis erlangen"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="/images/old-book.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Quick walk through
-weight: 8
+weight: 1
 prev: /welcome
 next: /quick/background/literature
 docType: quick

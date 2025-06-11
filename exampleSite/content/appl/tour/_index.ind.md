@@ -1,6 +1,6 @@
 ---
 title: Tur melalui aplikasi
-weight: 20
+weight: 1
 prev: /welcome
 next: /appl/background/history
 docType: appl

@@ -1,6 +1,6 @@
 ---
 title: Tour für Kinder
-weight: 15
+weight: 1
 prev: /welcome
 next: /kids/background
 docType: kids
