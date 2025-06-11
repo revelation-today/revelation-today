@@ -35,7 +35,7 @@ Eines der ersten Dinge, die den Menschen durch den Kopf gehen, wenn sie vom Buch
 ## Ein Sack voller Referenzen
 
 <a name="78d1"></a>
-In den vorhergehenden Versen wird der Angriff des Drachen auf {{% int_link val="das Kind (Jesus) " link="/expl/content/jesus/a-different-christmas-story" %}}und seine Mutter beschrieben, und als er an beiden scheitert, ruft er zwei Tiere herbei, die noch näher beschrieben werden.
+In den vorhergehenden Versen wird der Angriff des Drachen auf {{% int_link val="das Kind (Jesus)" link="/expl/content/jesus/a-different-christmas-story" %}} und seine Mutter beschrieben, und als er an beiden scheitert, ruft er zwei Tiere herbei, die noch näher beschrieben werden.
 
 ### Leviathan und Behemoth
 
@@ -101,7 +101,7 @@ Die Aussage, dass das Bild des Tieres Odem hat, ist ein Kontrast zu dem Spott im
 Doch hier hat das Tier die Macht dem Götzen Leben einzuhauchen. Außerdem ist dies auch eine Referenz, wie {{% bible val="Gott" link="gen:2,7" lang="de" %}} oder {{% bible val="der Heilige Geist" link="ezk:37,1-14" lang="de" %}} Leben gibt,
 also etwas, was nur Gott kann und tut.
 
-Übrigens: Am Ende ist noch ein interessanter Chiasmus zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", 
+Übrigens: Am Ende ist noch ein interessanter {{% int_link val="Chiasmus" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}} zu sehen: "Hier ist" und "Wenn jemand" zeigt eine Äquivalenz zwischen "Wer Verständnis hat: Zähle" und "Wer Ohren hat, der höre", 
 -  Wenn jemand ein Ohr hat, der höre! (Vers 9)
     - ... Hier ist das standhafte Ausharren und der Glaube der Heiligen! (Vers 10)
     - Hier ist Weisheit (Vers 18)

@@ -40,8 +40,9 @@ Er ist sehr einfach zu verstehen. Es ist Satan. Er ist der Puppenspieler, er ste
 ## Das erste Tier
 
 <a name="e132"></a>
-Das ist der Kaiser in Rom (vom Meer, also jenseits des Meeres). Er unterscheidet sich nicht von den Herrschern vor ihm. 
-Und mit dem Tod eines Herrschers (Nero, Tiberius, …) ist das erste Tier nicht tot. 
+Das ist der Kaiser in Rom (vom Meer, also jenseits des Meeres), der als Retter (wie Jesus) und zwar {{% int_link val="als Mittler des Segens der Götter" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} auftritt. 
+
+Er unterscheidet sich nicht von den Herrschern vor ihm. Und mit dem Tod eines Herrschers (Nero, Tiberius, …) ist das erste Tier nicht tot. 
 {{% bible val="Mit jedem neuen Kaiser erhebt es sich wieder. Rom ist unschlagbar" link="rev:13,3-4" lang="de" %}}.
 Das ist das Bild, das Rom vermitteln möchte, aber es hat keinen Bestand, denn nur Jesus hat Macht über den Tod durch seine echte Auferstehung.
 
