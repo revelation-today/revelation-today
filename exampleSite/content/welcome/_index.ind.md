@@ -17,7 +17,7 @@ Anda ingin tahu lebih banyak tentang buku ini. Anda dipersilakan untuk mempelaja
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Cerita"
-    link="/story/tour"
+    link="../story/tour"
     subtitle="Dengan kata-kata yang puitis."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/book.jpg"
@@ -30,7 +30,7 @@ Anda ingin tahu lebih banyak tentang buku ini. Anda dipersilakan untuk mempelaja
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Berjalan cepat melalui"
-    link="/quick/tour"
+    link="../quick/tour"
     subtitle="Bacalah dengan cepat seluruh isi buku ini."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/cavalry.jpg"
@@ -44,7 +44,7 @@ Anda ingin tahu lebih banyak tentang buku ini. Anda dipersilakan untuk mempelaja
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Aplikasi"
-    link="/appl/tour"
+    link="../appl/tour"
     subtitle="Temukan bagaimana menerapkan buku ini dalam kehidupan Anda."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
@@ -58,7 +58,7 @@ Anda ingin tahu lebih banyak tentang buku ini. Anda dipersilakan untuk mempelaja
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Menyelam lebih dalam"
-    link="/expl/tour"
+    link="../expl/tour"
     subtitle="Mendapatkan pemahaman yang lebih dalam"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="/images/old-book.jpg"

@@ -17,7 +17,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Die Geschichte"
-    link="/story/tour"
+    link="../story/tour"
     subtitle="In poetischen Worten."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/book.jpg"
@@ -31,7 +31,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Im Schnelldurchlauf"
-    link="/quick/tour"
+    link="../quick/tour"
     subtitle="Das Buch im Überblick."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/cavalry.jpg"
@@ -41,14 +41,13 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
   >}}
 {{< /hextra/feature-grid >}}
 </br></br>
-
+   
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Für Kinder"
-    link="/kids/tour"
+    link="../kids/tour"
     subtitle="Für Kinder aufbereitet."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/kids.jpg"
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]   image="/images/kids.jpg"
     source="https://pixabay.com/photos/girl-child-kid-young-lying-511883/"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
@@ -59,7 +58,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Anwendung"
-    link="/appl/tour"
+    link="../appl/tour"
     subtitle="Entdecke, wie du das Buch in deinem Leben anwenden kannst."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
@@ -73,7 +72,7 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Vertiefung"
-    link="/expl/tour"
+    link="../expl/tour"
     subtitle="Ein tieferes Verständnis erlangen"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="/images/old-book.jpg"

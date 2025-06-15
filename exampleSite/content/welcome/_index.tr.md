@@ -16,7 +16,7 @@ Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize g�
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Hikaye"
-    link="/story/tour"
+    link="../story/tour"
     subtitle="Şiirsel sözlerle."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/book.jpg"
@@ -30,7 +30,7 @@ Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize g�
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Hızlıca gözden geçirin"
-    link="/quick/tour"
+    link="../quick/tour"
     subtitle="Tüm kitap boyunca hızlı."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/cavalry.jpg"
@@ -44,7 +44,7 @@ Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize g�
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Uygulamalar"
-    link="/appl/tour"
+    link="../appl/tour"
     subtitle="Kitabı hayatınızda nasıl uygulayacağınızı keşfedin."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
@@ -58,7 +58,7 @@ Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize g�
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Derin Dalış"
-    link="/expl/tour"
+    link="../expl/tour"
     subtitle="Daha derin bir anlayış edinmek"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="/images/old-book.jpg"
