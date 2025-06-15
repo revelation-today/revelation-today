@@ -13,7 +13,7 @@ docType: expl
 | {{% bible val="Lukas:3,1" link="luk:3,1" lang="de" %}} | ["Die Geschichte von Jesus": 27](/expl/bible/daniel/the-70-year-weeks#abfc) |
 | {{% bible val="Lukas:4,16-21" link="luk:4,16-21" lang="de" %}} | ["Bereits und noch nicht": zitiert die Erfüllung der Prophetie von Kapitel 61](/expl/background/israel/jesus-and-the-covenant#5788) |
 | {{% bible val="Lukas:4,16-30" link="luk:4,16-30" lang="de" %}} | ["Der zweite Auszug in Lukas": Jesus die Erfüllung der Prophetie aus Jesaja ausspricht,](/expl/background/israel/the-second-exodus#f2e1) |
-| {{% bible val="Lukas:4,25" link="luk:4,25" lang="de" %}} | ["Elia und die Dürre and the drought (1. Kön. 16/29–18/35)": 3,5 Jahre](/expl/bible/daniel/the-secret-of-the-3-5-years#2b28) |
+| {{% bible val="Lukas:4,25" link="luk:4,25" lang="de" %}} | ["1. Kön. 16/29–18/35": 3,5 Jahre](/expl/bible/daniel/the-secret-of-the-3-5-years#2b28) |
 | {{% bible val="Lukas:6,12-13" link="luk:6,12-13" lang="de" %}} | ["Die Herausforderung": Berg](/expl/background/israel/jesus-and-the-covenant#c232) |
 | {{% bible val="Lukas:10,18" link="luk:10,18" lang="de" %}} | ["Die fünfte und sechste Posaune": Evangelien](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Lukas:20,34-35" link="luk:20,34-35" lang="de" %}} | ["Die Geschichte Israels": Lukas](/appl/topics/hero/who-rules-the-world#e6be) |

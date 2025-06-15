@@ -4,7 +4,7 @@ weight: 25
 docType: expl
 ---
 
-52 Bibelstellen wurden in diesem Buch verwendet.
+53 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -36,6 +36,7 @@ docType: expl
 | {{% bible val="Hesekiel:37" link="ezk:37,-1" lang="de" %}} | ["Der zweifache Angriff": Wirken des Heiligen Geistes bei Hesekiel erinnert](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Hesekiel:37" link="ezk:37,-1" lang="de" %}} | ["Das Problem": Tal der toten Gebeine, über das der Heilige Geist kommt und neues Leben schenkt](/expl/content/letters/the-letter-to-the-church-in-sardis#c0b1) |
 | {{% bible val="Hesekiel:37,1-14" link="ezk:37,1-14" lang="de" %}} | ["Was ist die Erzählschiene?": 37/1–14](/expl/content/1000y/the-thousand-year-kingdom#008e) |
+| {{% bible val="Hesekiel:37,1-14" link="ezk:37,1-14" lang="de" %}} | ["Der zweifache Angriff": der Heilige Geist](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Hesekiel:37,15-28" link="ezk:37,15-28" lang="de" %}} | ["Was ist die Erzählschiene?": 37/15–28](/expl/content/1000y/the-thousand-year-kingdom#008e) |
 | {{% bible val="Hesekiel:37,27" link="ezk:37,27" lang="de" %}} | ["Gott lebt mit seinem Volk": Hesekiel](/expl/content/paradise/the-new-jerusalem#f42c) |
 | {{% bible val="Hesekiel:38" link="ezk:38,-1" lang="de" %}} | ["Zwei letzte Schlachten?": 38](/expl/content/1000y/the-thousand-year-kingdom#4257) |

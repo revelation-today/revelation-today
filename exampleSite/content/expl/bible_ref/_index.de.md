@@ -4,4 +4,4 @@ weight: 100
 docType: expl
 ---
 
-1908 verwendete Bibelstellen wurden verwendet.
+1936 verwendete Bibelstellen wurden verwendet.

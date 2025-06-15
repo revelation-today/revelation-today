@@ -11,7 +11,7 @@ Bu kitapta kullanılan 29 Kutsal Kitap pasajı vardır
 | {{% bible val="Mezmur:1,4" link="psa:1,4" lang="tr" %}} | ["İki hasat": da savrulmayı izlerken](/expl/content/harvest/gods-army-and-the-seven-angels#c8c5) |
 | {{% bible val="Mezmur:2" link="psa:2,-1" lang="tr" %}} | ["Çocuk": Mezmur 2](/expl/content/jesus/a-different-christmas-story#8ae1) |
 | {{% bible val="Mezmur:2" link="psa:2,-1" lang="tr" %}} | ["Çözüm": Mezmur 2'den ](/expl/content/letters/the-letter-to-the-church-in-thyatira#ac15) |
-| {{% bible val="Mezmur:23" link="psa:23,-1" lang="tr" %}} | [""Secara harfiah atau simbolis"": domba yang makan rumput](/quick/background/literature/_index#None) |
+| {{% bible val="Mezmur:23" link="psa:23,-1" lang="tr" %}} | [""Secara harfiah atau simbolis"": domba yang makan rumput](/quick/background/literature/#None) |
 | {{% bible val="Mezmur:36,8-9" link="psa:36,8-9" lang="tr" %}} | ["Yaşayan su": içmek için bol miktarda verir](/expl/content/paradise/the-new-jerusalem#34a7) |
 | {{% bible val="Mezmur:45,5-6" link="psa:45,5-6" lang="tr" %}} | ["İlk atlının gizemi": Mezmurlar’da düşmanlarını yayla yenen İsrail kralının bir tasviri vardır ve bu tasvir](/expl/content/seals/the-mystery-of-the-four-horse-men#dba7) |
 | {{% bible val="Mezmur:52,8" link="psa:52,8" lang="tr" %}} | ["Zeytin ağacı": kral Davut](/expl/background/israel/the-church-is-part-of-israel#5ef1) |

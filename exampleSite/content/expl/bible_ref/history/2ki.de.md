@@ -4,10 +4,11 @@ weight: 11
 docType: expl
 ---
 
-20 Bibelstellen wurden in diesem Buch verwendet.
+21 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
+| {{% bible val="2.Könige:1" link="2ki:1,-1" lang="de" %}} | ["Der Charakter der beiden Zeugen":  Elia](/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="2.Könige:7,1" link="2ki:7,1" lang="de" %}} | ["Das Geheimnis des dritten Reiters": einer aktuellen Hungersnot](/expl/content/seals/the-mystery-of-the-four-horse-men#3bc5) |
 | {{% bible val="2.Könige:9" link="2ki:9,-1" lang="de" %}} | ["Elia": Jehu gesalbt wird](/expl/content/bowls/the-key-to-armageddon#5f7a) |
 | {{% bible val="2.Könige:9" link="2ki:9,-1" lang="de" %}} | ["Armageddon": ein einzelner Mann stürzt den Herrscher von zwei Ländern am selben Tag](/quick/content/bowls#None) |

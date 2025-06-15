@@ -4,7 +4,7 @@ weight: 26
 docType: expl
 ---
 
-116 Bibelstellen wurden in diesem Buch verwendet.
+115 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -24,14 +24,15 @@ docType: expl
 | {{% bible val="Daniel:2,45" link="dan:2,45" lang="de" %}} | ["Was ist jetzt der Punkt?": göttliche Befreiung der ganzen Welt von den Reichen](/expl/bible/daniel/the-book-of-daniel#b37a) |
 | {{% bible val="Daniel:3" link="dan:3,-1" lang="de" %}} | ["Ein kurzer Überblick": Dan.3](/expl/bible/daniel/the-book-of-daniel#b425) |
 | {{% bible val="Daniel:3" link="dan:3,-1" lang="de" %}} | ["Daniels Freunde im Feuerofen": Geschichte von Daniels Freunden im Feuerofen](/expl/content/beasts/666-the-number-of-the-beast#92ea) |
-| {{% bible val="Daniel:3" link="dan:3,-1" lang="de" %}} | ["Ein Sack voller Referenzen": Geschichte von seinen Freunden im Feuerofen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:3" link="dan:3,-1" lang="de" %}} | ["Die Freunde im Feuerofen": Geschichte von seinen Freunden im Feuerofen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel:3" link="dan:3,-1" lang="de" %}} | ["Jesu Sicht": Daniels Freunden im Feuerofen erinnern](/expl/content/letters/the-letter-to-the-church-in-thyatira#f2ed) |
 | {{% bible val="Daniel:3,1" link="dan:3,1" lang="de" %}} | ["Daniels Freunde im Feuerofen": Maße der Statue](/expl/content/beasts/666-the-number-of-the-beast#92ea) |
-| {{% bible val="Daniel:3,1" link="dan:3,1" lang="de" %}} | ["Ein Sack voller Referenzen": 666](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:3,1" link="dan:3,1" lang="de" %}} | ["Die Freunde im Feuerofen": 666](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel:3,4-12" link="dan:3,4-12" lang="de" %}} | ["Das zweite Tier": Parallele bei Daniel anschauen](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
 | {{% bible val="Daniel:3,16-18" link="dan:3,16-18" lang="de" %}} | ["Daniels Freunde im Feuerofen": sie die Statue nicht anbeten: “Wir vertrauen Gott, SELBST WENN ER UNS NICHT RETTET”](/expl/content/beasts/666-the-number-of-the-beast#92ea) |
+| {{% bible val="Daniel:3,18" link="dan:3,18" lang="de" %}} | ["Die Freunde im Feuerofen": selbst wenn er es NICHT tut, bleiben sie ihm treu](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel:3,25" link="dan:3,25" lang="de" %}} | ["Jesu Sicht": Sohn der Götter](/expl/content/letters/the-letter-to-the-church-in-thyatira#f2ed) |
-| {{% bible val="Daniel:3,28-30" link="dan:3,28-30" lang="de" %}} | ["Ein Sack voller Referenzen": Daniels Freunde gerettet und der König erkennt Gott an und befördert die Freunde](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:3,28-30" link="dan:3,28-30" lang="de" %}} | ["Die Freunde im Feuerofen": Daniels Freunde gerettet und der König erkennt Gott an und befördert die Freunde](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel:4" link="dan:4,-1" lang="de" %}} | ["Ein kurzer Überblick": Dan.4](/expl/bible/daniel/the-book-of-daniel#b425) |
 | {{% bible val="Daniel:4,30" link="dan:4,30" lang="de" %}} | ["Der Chiasmus": Stolzes](/expl/bible/daniel/the-book-of-daniel#ef82) |
 | {{% bible val="Daniel:5" link="dan:5,-1" lang="de" %}} | ["Ein kurzer Überblick": Dan.5](/expl/bible/daniel/the-book-of-daniel#b425) |
@@ -44,19 +45,18 @@ docType: expl
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="de" %}} | ["Was ist jetzt der Punkt?": 7](/expl/bible/daniel/the-book-of-daniel#b37a) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="de" %}} | ["Die vier Königreiche": Kapitel 7 durch vier Tiere](/expl/bible/daniel/the-four-kingdoms-in-daniel#c9a9) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="de" %}} | ["Zwei letzte Schlachten?": Daniel](/expl/content/1000y/the-thousand-year-kingdom#4257) |
-| {{% bible val="Daniel:7" link="dan:7,-1" lang="de" %}} | ["Ein Sack voller Referenzen": Daniels](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:7" link="dan:7,-1" lang="de" %}} | ["Das erste Tier ": Daniel](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="de" %}} | ["Der Hintergrund und Kontext": Daniel 7](/expl/content/worship/worship-in-the-throne-room#e638) |
-| {{% bible val="Daniel:7,1-8" link="dan:7,1-8" lang="de" %}} | ["Ein Sack voller Referenzen": Gesamtheit aller Reiche aus Daniel](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel:7,3-4" link="dan:7,3-4" lang="de" %}} | ["Die vier Königreiche": Babel](/expl/bible/daniel/the-four-kingdoms-in-daniel#c9a9) |
-| {{% bible val="Daniel:7,4" link="dan:7,4" lang="de" %}} | ["Ein Sack voller Referenzen": Das erste Tier ist wie ein Löwe](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:7,4" link="dan:7,4" lang="de" %}} | ["Das erste Tier ": Das erste Tier ist wie ein Löwe](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel:7,5" link="dan:7,5" lang="de" %}} | ["Die vier Königreiche": Perser](/expl/bible/daniel/the-four-kingdoms-in-daniel#c9a9) |
-| {{% bible val="Daniel:7,5" link="dan:7,5" lang="de" %}} | ["Ein Sack voller Referenzen": Das zweite Tier ist wie ein Bär](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
-| {{% bible val="Daniel:7,6" link="dan:7,6" lang="de" %}} | ["Ein Sack voller Referenzen": Das dritte Tier ist wie ein Leopard](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
-| {{% bible val="Daniel:7,6" link="dan:7,6" lang="de" %}} | ["Ein Sack voller Referenzen": Das dritte Tier hat 4 Köpfe, die andere jeweils einen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
-| {{% bible val="Daniel:7,7" link="dan:7,7" lang="de" %}} | ["Ein Sack voller Referenzen": Das vierte Tier hat 10 Hörner](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:7,5" link="dan:7,5" lang="de" %}} | ["Das erste Tier ": Das zweite Tier ist wie ein Bär](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:7,6" link="dan:7,6" lang="de" %}} | ["Das erste Tier ": Das dritte Tier ist wie ein Leopard](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:7,6" link="dan:7,6" lang="de" %}} | ["Das erste Tier ": Das dritte Tier hat 4 Köpfe, die andere jeweils einen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:7,7" link="dan:7,7" lang="de" %}} | ["Das erste Tier ": Das vierte Tier hat 10 Hörner](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel:7,7" link="dan:7,7" lang="de" %}} | ["Die Zeugen und die Tiere": Daniel](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Daniel:7,8" link="dan:7,8" lang="de" %}} | ["Zwei letzte Schlachten?": 8](/expl/content/1000y/the-thousand-year-kingdom#4257) |
-| {{% bible val="Daniel:7,8" link="dan:7,8" lang="de" %}} | ["Ein Sack voller Referenzen": Das Horn spricht große Dinge](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:7,8" link="dan:7,8" lang="de" %}} | ["Das erste Tier ": Das Horn spricht große Dinge](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel:7,9" link="dan:7,9" lang="de" %}} | ["Der Hintergrund und Kontext": Daniel](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Daniel:7,9" link="dan:7,9" lang="de" %}} | ["Der Hintergrund und Kontext": Daniel](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Daniel:7,9" link="dan:7,9" lang="de" %}} | ["Der Hintergrund und Kontext": Daniel](/expl/content/worship/worship-in-the-throne-room#e638) |
@@ -86,9 +86,8 @@ docType: expl
 | {{% bible val="Daniel:7,21-22" link="dan:7,21-22" lang="de" %}} | ["Das Geheimnis ihres Untergangs": Daniel](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Daniel:7,22" link="dan:7,22" lang="de" %}} | ["Der Hintergrund und Kontext": zweimal](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Daniel:7,23-25" link="dan:7,23-25" lang="de" %}} | ["Zwei letzte Schlachten?": 23–25](/expl/content/1000y/the-thousand-year-kingdom#4257) |
-| {{% bible val="Daniel:7,24" link="dan:7,24" lang="de" %}} | ["Ein Sack voller Referenzen": 10 Könige](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
-| {{% bible val="Daniel:7,24" link="dan:7,24" lang="de" %}} | ["Ein Sack voller Referenzen": Die 10 Hörner sind 10 Könige](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
-| {{% bible val="Daniel:7,25" link="dan:7,25" lang="de" %}} | ["Ein Sack voller Referenzen": spricht gegen den Höchsten](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:7,24" link="dan:7,24" lang="de" %}} | ["Das erste Tier ": Die 10 Hörner sind 10 Könige](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel:7,25" link="dan:7,25" lang="de" %}} | ["Das erste Tier ": spricht gegen den Höchsten](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel:7,26" link="dan:7,26" lang="de" %}} | ["Zwei letzte Schlachten?": 26 ](/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Daniel:7,27" link="dan:7,27" lang="de" %}} | ["Zwei letzte Schlachten?": 27](/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Daniel:7,27" link="dan:7,27" lang="de" %}} | ["Der Hintergrund und Kontext": dreimal](/expl/content/worship/worship-in-the-throne-room#e638) |

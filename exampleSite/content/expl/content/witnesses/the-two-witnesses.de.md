@@ -79,7 +79,7 @@ Sie kommen, um in einer gefallenen Welt zur Umkehr aufzurufen.
 
 Sie können Zeichen und Wunder tun. Im Alten Testament wurden sie eingesetzt, um die Menschen zu lehren, dass es nur einen Gott gibt (und dass es keinen Sinn hat, einem anderen zu vertrauen, {{% int_link val="wie die Posaunen lehren" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}).
 
-Das einzige, was sie gegen ihre Feinde einsetzen können, ist Feuer vom Himmel, wie in der Geschichte von  {{% bible val=" Elia" link="2.ki:1" lang="de" %}}.
+Das einzige, was sie gegen ihre Feinde einsetzen können, ist Feuer vom Himmel, wie in der Geschichte von  {{% bible val=" Elia" link="2ki:1" lang="de" %}}.
 
 Doch was ist hiermit gemeint? Darf die Gemeinde ihre Feinde umbringen?
 Ein Blick auf die Geschichte von Elia zeigt, dass dies nicht der Fall ist.

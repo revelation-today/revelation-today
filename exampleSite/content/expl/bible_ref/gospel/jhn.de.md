@@ -36,7 +36,7 @@ docType: expl
 | {{% bible val="Johannes:14,23" link="jhn:14,23" lang="de" %}} | ["Ein Platz für uns": in diesem Kapitel nur noch einmal vor und beschreibt, wie Gott in uns wohnt](/expl/topics/others/the-rapture#6812) |
 | {{% bible val="Johannes:14,27-29" link="jhn:14,27-29" lang="de" %}} | ["Bereit für den zweiten Tod": Frieden haben](/expl/content/paradise/the-new-jerusalem#e855) |
 | {{% bible val="Johannes:15,13" link="jhn:15,13" lang="de" %}} | ["Der zweifache Angriff": Niemand hat eine größere Liebe, als der, der sein Leben für seine Freunde gibt.](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Johannes:15,20" link="jhn:15,20" lang="de" %}} | ["Die Gemeinde": Verfolgung](/appl/background/overview/_index#9e32) |
+| {{% bible val="Johannes:15,20" link="jhn:15,20" lang="de" %}} | ["Die Gemeinde": Verfolgung](/appl/background/overview/2#9e32) |
 | {{% bible val="Johannes:15,25" link="jhn:15,25" lang="de" %}} | ["Lebendiges Wasser": Johannes](/expl/content/paradise/the-new-jerusalem#8a3f) |
 | {{% bible val="Johannes:16,13" link="jhn:16,13" lang="de" %}} | ["Der zweifache Angriff": der Heilige Geist im Namen Jesu spricht](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Johannes:16,31-33" link="jhn:16,31-33" lang="de" %}} | ["Bereit für den zweiten Tod": wissen, dass Gott sie niemals verlässt](/expl/content/paradise/the-new-jerusalem#e855) |

@@ -67,12 +67,12 @@ docType: expl
 | {{% bible val="Exodus:12,14-20" link="exo:12,14-20" lang="en" %}} | ["The death of the firstborn": The Feast of the Unleavened Bread is introduced](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus:12,35-36" link="exo:12,35-36" lang="en" %}} | ["The fight against a second Hyksos": when they leave Egypt](/expl/bible/exodus/the-birth-of-moses#f92d) |
 | {{% bible val="Exodus:12,37" link="exo:12,37" lang="en" %}} | ["Never again": where also the Israelites also moved out from](/expl/bible/exodus/the-story-before-the-exodus#dc6a) |
-| {{% bible val="Exodus:12,38" link="exo:12,38" lang="en" %}} | ["The origin and purpose of Israel": a lot of others joined Israel when they leave Egypt](/appl/background/israel/_index#1bcd) |
+| {{% bible val="Exodus:12,38" link="exo:12,38" lang="en" %}} | ["The origin and purpose of Israel": a lot of others join Israel when they leave Egypt](/appl/background/israel/#1bcd) |
 | {{% bible val="Exodus:12,38" link="exo:12,38" lang="en" %}} | ["Origin of the Day of the Lord": took with them many other people who became part of Israel](/expl/background/israel/the-day-of-the-lord#674e) |
 | {{% bible val="Exodus:12,38" link="exo:12,38" lang="en" %}} | ["The Gentiles become part of Israel": Epygtians](/expl/background/israel/the-remnant-of-israel#0f15) |
 | {{% bible val="Exodus:12,38" link="exo:12,38" lang="en" %}} | ["The death of the firstborn": and many did](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus:12,43-49" link="exo:12,43-49" lang="en" %}} | ["The death of the firstborn": was open to anyone who wanted to join Israel](/expl/bible/exodus/the-plagues-in-egypt#e181) |
-| {{% bible val="Exodus:12,48-49" link="exo:12,48-49" lang="en" %}} | ["The origin and purpose of Israel": Everybody who wants to live permanently there and be part of the covenant becomes Israel](/appl/background/israel/_index#1bcd) |
+| {{% bible val="Exodus:12,48-49" link="exo:12,48-49" lang="en" %}} | ["The origin and purpose of Israel": everybody who wants to live permanently with Israel and be part of the covenant becomes Israel](/appl/background/israel/#1bcd) |
 | {{% bible val="Exodus:12,48-51" link="exo:12,48-51" lang="en" %}} | ["The Gentiles become part of Israel": same rights](/expl/background/israel/the-remnant-of-israel#0f15) |
 | {{% bible val="Exodus:13,8-9" link="exo:13,8-9" lang="en" %}} | ["The death of the firstborn": sign on the hand and forehead](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus:13,16" link="exo:13,16" lang="en" %}} | ["The second beast": picture of the remembrance of the power of God](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#2f0d) |
@@ -83,7 +83,7 @@ docType: expl
 | {{% bible val="Exodus:19,16-18" link="exo:19,16-18" lang="en" %}} | ["The number 4": thunder and lightning](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#3175) |
 | {{% bible val="Exodus:20,2" link="exo:20,2" lang="en" %}} | ["The covenant with Israel": I am the Lord your God.](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Exodus:20,2" link="exo:20,2" lang="en" %}} | ["The covenant with Israel": Who brought you out of Egypt out of the land of slavery](/expl/background/israel/gods-covenant#2225) |
-| {{% bible val="Exodus:20,2" link="exo:20,2" lang="en" %}} | ["A prophecy {#prophecy}": as you were slaves before](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Exodus:20,2" link="exo:20,2" lang="en" %}} | ["A prophecy {#prophecy}": as Israel was slaves before](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Exodus:20,3-6" link="exo:20,3-6" lang="en" %}} | ["The covenant with Israel": Have only one God](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Exodus:22,29" link="exo:22,29" lang="en" %}} | ["The two harvests": could technically also be from grapes](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
 | {{% bible val="Exodus:23,20" link="exo:23,20" lang="en" %}} | ["The exodus in Mark": leading angel in the Exodus](/expl/background/israel/the-second-exodus#70f4) |
@@ -103,5 +103,5 @@ docType: expl
 | {{% bible val="Exodus:32,19" link="exo:32,19" lang="en" %}} | ["The situation with Baal-Peor": unlikely](/expl/bible/keyword/the-story-of-balaam#8915) |
 | {{% bible val="Exodus:33,17-23" link="exo:33,17-23" lang="en" %}} | ["Jerusalem the Holy town": Gods glory is His mercy and compassion](/expl/content/paradise/the-new-jerusalem#c358) |
 | {{% bible val="Exodus:33,18-20" link="exo:33,18-20" lang="en" %}} | ["The throne room": When Moses asked to see God’s glory, he could not, but instead God showed him His mercy, so God’s glory can be described as His mercy](/expl/content/worship/worship-in-the-throne-room#2a89) |
-| {{% bible val="Exodus:34,28" link="exo:34,28" lang="en" %}} | ["Jesus": Receiving the Commandments](/appl/background/overview/_index#f315) |
+| {{% bible val="Exodus:34,28" link="exo:34,28" lang="en" %}} | ["Jesus": Receiving the Commandments](/appl/background/overview/2#f315) |
 | {{% bible val="Exodus:34,28" link="exo:34,28" lang="en" %}} | ["Some basics": Moses fasted for 40 days when he received the Law at Mount Sinai](/expl/content/beasts/666-the-number-of-the-beast#0630) |

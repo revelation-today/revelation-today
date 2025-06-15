@@ -10,7 +10,7 @@ docType: expl
 |-------|-----------|
 | {{% bible val="Numbers:12" link="num:12,-1" lang="en" %}} | ["The further story of Moses": remain calm and compassionate in difficult situations](/expl/bible/exodus/the-birth-of-moses#371c) |
 | {{% bible val="Numbers:12,3" link="num:12,3" lang="en" %}} | ["The further story of Moses": humble man on earth](/expl/bible/exodus/the-birth-of-moses#371c) |
-| {{% bible val="Numbers:14,34" link="num:14,34" lang="en" %}} | ["Jesus": Inspection of the Promised Land by the spies](/appl/background/overview/_index#f315) |
+| {{% bible val="Numbers:14,34" link="num:14,34" lang="en" %}} | ["Jesus": Inspection of the Promised Land by the spies](/appl/background/overview/2#f315) |
 | {{% bible val="Numbers:14,34" link="num:14,34" lang="en" %}} | ["Some basics": because of their unbelief they had to wander in the desert for 40 years](/expl/content/beasts/666-the-number-of-the-beast#0630) |
 | {{% bible val="Numbers:21" link="num:21,-1" lang="en" %}} | ["The well known story": conquering all the Amorites and Canaanites along the way](/expl/bible/keyword/the-story-of-balaam#c389) |
 | {{% bible val="Numbers:22,1-4" link="num:22,1-4" lang="en" %}} | ["The well known story": Moabites afraid and asking the Midianites to help](/expl/bible/keyword/the-story-of-balaam#c389) |

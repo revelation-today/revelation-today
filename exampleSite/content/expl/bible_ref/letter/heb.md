@@ -15,8 +15,8 @@ docType: expl
 | {{% bible val="Hebrews:7,11-28" link="heb:7,11-28" lang="en" %}} | ["The vision": Jesus also has the role of a priest](/expl/content/vision/the-vision#7487) |
 | {{% bible val="Hebrews:8,1-2" link="heb:8,1-2" lang="en" %}} | ["A few steps through history": cleansing of the heavenly sanctuary](/expl/topics/others/dispensionalism-a-little-history#f0fa) |
 | {{% bible val="Hebrews:8,6" link="heb:8,6" lang="en" %}} | ["The 70 years": new covenant of Jesus](/expl/bible/daniel/the-70-year-weeks#6576) |
-| {{% bible val="Hebrews:10,1-18" link="heb:10,1-18" lang="en" %}} | ["The temple": this is no longer necessary](/appl/content/witnesses/_index#5a8c) |
-| {{% bible val="Hebrews:10,1-18" link="heb:10,1-18" lang="en" %}} | ["The witnesses": The two witnesses are the church](/appl/content/witnesses/_index#3221) |
+| {{% bible val="Hebrews:10,1-18" link="heb:10,1-18" lang="en" %}} | ["The temple": this is no longer necessary](/appl/content/witnesses/#5a8c) |
+| {{% bible val="Hebrews:10,1-18" link="heb:10,1-18" lang="en" %}} | ["The witnesses": The two witnesses are the church](/appl/content/witnesses/#3221) |
 | {{% bible val="Hebrews:10,1-18" link="heb:10,1-18" lang="en" %}} | ["The 70 years": sacrifice is no longer needed](/expl/bible/daniel/the-70-year-weeks#6576) |
 | {{% bible val="Hebrews:11,13-16" link="heb:11,13-16" lang="en" %}} | ["Jerusalem the Holy town": God has prepared a city for the faithful](/expl/content/paradise/the-new-jerusalem#c358) |
 | {{% bible val="Hebrews:12,22" link="heb:12,22" lang="en" %}} | ["Jerusalem the Holy town": there is a heavenly Jerusalem](/expl/content/paradise/the-new-jerusalem#c358) |

@@ -9,7 +9,7 @@ Bu kitapta kullanılan 39 Kutsal Kitap pasajı vardır
 | Ayet | Referans |
 |-------|-----------|
 | {{% bible val="Yuhanna:1,11-14" link="jhn:1,11-14" lang="tr" %}} | ["The solution": Onu reddeden İsrail](/expl/bible/daniel/the-son-of-man-and-the-remnant#e03e) |
-| {{% bible val="Yuhanna:2,19-21" link="jhn:2,19-21" lang="tr" %}} | ["Tapınak": İsa](/appl/content/witnesses/_index#381b) |
+| {{% bible val="Yuhanna:2,19-21" link="jhn:2,19-21" lang="tr" %}} | ["Tapınak": İsa](/appl/content/witnesses/#381b) |
 | {{% bible val="Yuhanna:2,19-22" link="jhn:2,19-22" lang="tr" %}} | ["Yeni Antlaşma’da tapınak": İsa tapınaktır](/expl/bible/creation/the-temple-and-the-presence-of-god#1ad7) |
 | {{% bible val="Yuhanna:3" link="jhn:3,-1" lang="tr" %}} | ["İkinci ölüm nedir?": Yeniden doğduğumuzda ise ilk diriliş olarak adlandırabileceğimiz “ikinci yaşamımıza” sahip oluruz](/expl/content/1000y/the-thousand-year-kingdom#0495) |
 | {{% bible val="Yuhanna:3,3" link="jhn:3,3" lang="tr" %}} | ["Taptığımız şey oluruz": görebiliriz](/appl/topics/power/worship#a481) |
@@ -37,7 +37,7 @@ Bu kitapta kullanılan 39 Kutsal Kitap pasajı vardır
 | {{% bible val="Yuhanna:14,23" link="jhn:14,23" lang="tr" %}} | ["Bizim için bir yer": Bu sözcük Yuhanna’da sadece bir kez daha kullanılır (aynı bölümde!) ve burada Tanrı’nın içimizdeki konutuna atıfta bulunur](/expl/topics/others/the-rapture#3ebd) |
 | {{% bible val="Yuhanna:14,27-29" link="jhn:14,27-29" lang="tr" %}} | ["İkinci ölüm için hazır": esenliğe sahip olmanın](/expl/content/paradise/the-new-jerusalem#d33d) |
 | {{% bible val="Yuhanna:15,13" link="jhn:15,13" lang="tr" %}} | ["İki yönlü saldırı": Hiç kimse dostları için canını veren biri kadar sevgiye sahip olamaz](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
-| {{% bible val="Yuhanna:15,20" link="jhn:15,20" lang="tr" %}} | ["Kilise": zulüm](/appl/background/overview/_index#a565) |
+| {{% bible val="Yuhanna:15,20" link="jhn:15,20" lang="tr" %}} | ["Kilise": zulüm](/appl/background/overview/2#a565) |
 | {{% bible val="Yuhanna:15,25" link="jhn:15,25" lang="tr" %}} | ["Yaşayan su": Yuhanna’da](/expl/content/paradise/the-new-jerusalem#34a7) |
 | {{% bible val="Yuhanna:16,13" link="jhn:16,13" lang="tr" %}} | ["İki yönlü saldırı": Kutsal Ruh’un İsa’nın yetkisiyle konuşması gibi](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Yuhanna:16,31-33" link="jhn:16,31-33" lang="tr" %}} | ["İkinci ölüm için hazır": Tanrı’nın onları asla terk etmeyeceğini bilmenin karşılığıdır](/expl/content/paradise/the-new-jerusalem#d33d) |

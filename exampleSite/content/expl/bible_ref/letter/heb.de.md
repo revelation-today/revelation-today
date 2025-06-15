@@ -15,7 +15,7 @@ docType: expl
 | {{% bible val="Hebräer:7,11-28" link="heb:7,11-28" lang="de" %}} | ["Die Vision": Jesus tritt hier auch in der Rolle eines Priesters](/expl/content/vision/the-vision#7855) |
 | {{% bible val="Hebräer:8,1-2" link="heb:8,1-2" lang="de" %}} | ["Ein kurzer Steifzug durch die Geschichte": Reinigung des himmlischen Heiligtums](/expl/topics/others/dispensionalism-a-little-history#0f48) |
 | {{% bible val="Hebräer:8,6" link="heb:8,6" lang="de" %}} | ["Die 70 Jahrwochen": Neuen Bund mit Jesus und den Nationen](/expl/bible/daniel/the-70-year-weeks#d777) |
-| {{% bible val="Hebräer:10,1-18" link="heb:10,1-18" lang="de" %}} | ["Der Tempel": nicht mehr der Fall](/appl/content/witnesses/_index#f910) |
+| {{% bible val="Hebräer:10,1-18" link="heb:10,1-18" lang="de" %}} | ["Der Tempel": nicht mehr der Fall](/appl/content/witnesses/#f910) |
 | {{% bible val="Hebräer:10,1-18" link="heb:10,1-18" lang="de" %}} | ["Die 70 Jahrwochen": dieser nicht mehr nötig ist](/expl/bible/daniel/the-70-year-weeks#d777) |
 | {{% bible val="Hebräer:11,13-16" link="heb:11,13-16" lang="de" %}} | ["Jerusalem, die Heilige Stadt": Gott hat eine Stadt für die Gläubigen bereitet](/expl/content/paradise/the-new-jerusalem#a373) |
 | {{% bible val="Hebräer:12,22" link="heb:12,22" lang="de" %}} | ["Jerusalem, die Heilige Stadt": es gibt ein himmlisches Jerusalem](/expl/content/paradise/the-new-jerusalem#a373) |

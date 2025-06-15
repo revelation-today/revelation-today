@@ -16,4 +16,4 @@ Bu kitapta kullanılan 9 Kutsal Kitap pasajı vardır
 | {{% bible val="Hakimler:4,8-9" link="jdg:4,8-9" lang="tr" %}} | ["Deborah ve Jael": o da katılır ama ordu liderleri Sisera’ya karşı son darbeyi vurmayacağını, bunun bir kadın tarafından yapılacağını duyurur](/expl/content/bowls/the-key-to-armageddon#8338) |
 | {{% bible val="Hakimler:4,15-21" link="jdg:4,15-21" lang="tr" %}} | ["Deborah ve Jael": Ancak Heber’in karısı Yael bu fırsatı değerlendirerek Sisera uyurken onu öldürür](/expl/content/bowls/the-key-to-armageddon#8338) |
 | {{% bible val="Hakimler:9,8-9" link="jdg:9,8-9" lang="tr" %}} | ["Zeytin ağacı": İsrail’deki bir yargı](/expl/background/israel/the-church-is-part-of-israel#5ef1) |
-| {{% bible val="Hakimler:16,30" link="jdg:16,30" lang="tr" %}} | ["Tanıklar": Samson’la](/appl/content/witnesses/_index#2470) |
+| {{% bible val="Hakimler:16,30" link="jdg:16,30" lang="tr" %}} | ["Tanıklar": Samson’la](/appl/content/witnesses/#2470) |

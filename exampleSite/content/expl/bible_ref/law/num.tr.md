@@ -10,7 +10,7 @@ Bu kitapta kullanılan 23 Kutsal Kitap pasajı vardır
 |-------|-----------|
 | {{% bible val="Çölde Sayım:12" link="num:12,-1" lang="tr" %}} | ["Musa’nın diğer öyküsü": zor durumlarda sakin ve şefkatli kalabilmeyi öğrenmektir](/expl/bible/exodus/the-birth-of-moses#3d63) |
 | {{% bible val="Çölde Sayım:12,3" link="num:12,3" lang="tr" %}} | ["Musa’nın diğer öyküsü": mütevazı insana geçmeyi](/expl/bible/exodus/the-birth-of-moses#3d63) |
-| {{% bible val="Çölde Sayım:14,34" link="num:14,34" lang="tr" %}} | ["İsa": casusların teftişi](/appl/background/overview/_index#3318) |
+| {{% bible val="Çölde Sayım:14,34" link="num:14,34" lang="tr" %}} | ["İsa": casusların teftişi](/appl/background/overview/2#3318) |
 | {{% bible val="Çölde Sayım:14,34" link="num:14,34" lang="tr" %}} | ["Bazı temel bilgiler": halk yeni toprakları 40 günde kontrol etti](/expl/content/beasts/666-the-number-of-the-beast#bdd5) |
 | {{% bible val="Çölde Sayım:14,34" link="num:14,34" lang="tr" %}} | ["Bazı temel bilgiler": inançsızlıkları nedeniyle 40 yıl boyunca çölde dolaşmak zorunda kaldılar](/expl/content/beasts/666-the-number-of-the-beast#bdd5) |
 | {{% bible val="Çölde Sayım:21" link="num:21,-1" lang="tr" %}} | ["İyi bilinen hikaye": tüm Amorluları ve Kenanlıları fethettiği](/expl/bible/keyword/the-story-of-balaam#81bf) |

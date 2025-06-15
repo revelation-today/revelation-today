@@ -15,7 +15,7 @@ Bu kitapta kullanılan 12 Kutsal Kitap pasajı vardır
 | {{% bible val="İbraniler:7,11-28" link="heb:7,11-28" lang="tr" %}} | ["Vizyon": İsa aynı zamanda bir kâhin rolüne sahip olduğu için](/expl/content/vision/the-vision#727c) |
 | {{% bible val="İbraniler:8,1-2" link="heb:8,1-2" lang="tr" %}} | ["Tarih boyunca birkaç adım": göksel kutsal alanın temizlenmesine atıfta bulunduğunu düşündü](/expl/topics/others/dispensionalism-a-little-history#abac) |
 | {{% bible val="İbraniler:8,6" link="heb:8,6" lang="tr" %}} | ["70 yıl": İsa’nın yeni antlaşması](/expl/bible/daniel/the-70-year-weeks#66c9) |
-| {{% bible val="İbraniler:10,1-18" link="heb:10,1-18" lang="tr" %}} | ["Tapınak": artık buna gerek yoktur](/appl/content/witnesses/_index#381b) |
+| {{% bible val="İbraniler:10,1-18" link="heb:10,1-18" lang="tr" %}} | ["Tapınak": artık buna gerek yoktur](/appl/content/witnesses/#381b) |
 | {{% bible val="İbraniler:10,1-18" link="heb:10,1-18" lang="tr" %}} | ["70 yıl": sunulara son verecektir](/expl/bible/daniel/the-70-year-weeks#66c9) |
 | {{% bible val="İbraniler:11,13-16" link="heb:11,13-16" lang="tr" %}} | ["Kutsal Şehir Kudüs": Tanrı sadıklar için bir şehir hazırladı](/expl/content/paradise/the-new-jerusalem#2a00) |
 | {{% bible val="İbraniler:12,22" link="heb:12,22" lang="tr" %}} | ["Kutsal Şehir Kudüs": göksel bir Kudüs var](/expl/content/paradise/the-new-jerusalem#2a00) |

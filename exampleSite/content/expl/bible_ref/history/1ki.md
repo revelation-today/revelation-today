@@ -20,9 +20,9 @@ docType: expl
 | {{% bible val="1.Kings:11,3" link="1ki:11,3" lang="en" %}} | ["The patriarch": Solomon and his downfall](/expl/background/israel/the-role-of-family-in-the-bible#7e2f) |
 | {{% bible val="1.Kings:16,31" link="1ki:16,31" lang="en" %}} | ["The Harlot": 1 Ki.16/31](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="1.Kings:16,31" link="1ki:16,31" lang="en" %}} | ["The problem":  idolatry to Israel as queen](/expl/content/letters/the-letter-to-the-church-in-thyatira#2153) |
+| {{% bible val="1.Kings:17,1" link="1ki:17,1" lang="en" %}} | ["Elijah and the drought (1. Kings 16/29–18/35)": Enough rain](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1.Kings:17,1" link="1ki:17,1" lang="en" %}} | ["Elijah and the drought (1. Kings 16/29–18/35)": sends Elijah to call for a drought](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1.Kings:17,6-24" link="1ki:17,6-24" lang="en" %}} | ["Elijah and the drought (1. Kings 16/29–18/35)":  went to a widow in Sidon with a dying son whom he saved, so that woman believed in God](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
-| {{% bible val="1.Kings:17,8" link="1ki:17,8" lang="en" %}} | ["Elijah and the drought (1. Kings 16/29–18/35)": Enough rain](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1.Kings:18" link="1ki:18,-1" lang="en" %}} | ["Elijah": This is one of the most famous stories in the Old Testament describing the standing of one prophet of God against several hundred prophets of Baal](/expl/content/bowls/the-key-to-armageddon#d43b) |
 | {{% bible val="1.Kings:18" link="1ki:18,-1" lang="en" %}} | ["Armageddon": the depressive prophet saves a nation - Karmel is the mountain near Megiddo](/quick/content/bowls#None) |
 | {{% bible val="1.Kings:18,4" link="1ki:18,4" lang="en" %}} | ["The Harlot": Persecutes and kills saints](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |

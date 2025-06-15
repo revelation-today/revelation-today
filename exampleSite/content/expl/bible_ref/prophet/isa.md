@@ -4,7 +4,7 @@ weight: 22
 docType: expl
 ---
 
-118 bible verses have been used in this book.
+119 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -15,7 +15,7 @@ docType: expl
 | {{% bible val="Isaiah:2,2-4" link="isa:2,2-4" lang="en" %}} | ["The Gentiles become part of Israel": earlier passage in Isaiah](/expl/background/israel/the-remnant-of-israel#0f15) |
 | {{% bible val="Isaiah:5,1-7" link="isa:5,1-7" lang="en" %}} | ["The teachings of Jesus": parable of the vineyard that bears no fruit](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Isaiah:5,1-7" link="isa:5,1-7" lang="en" %}} | ["Gods vineyard": vineyard to Israel](/expl/background/israel/the-church-is-part-of-israel#3501) |
-| {{% bible val="Isaiah:6" link="isa:6,-1" lang="en" %}} | ["A prophecy {#prophecy}": Isa.6](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Isaiah:6" link="isa:6,-1" lang="en" %}} | ["A prophecy {#prophecy}": Isaiah 6](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Isaiah:6,1-9" link="isa:6,1-9" lang="en" %}} | ["The background and context": the calling of Isaiah](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Isaiah:6,1-13" link="isa:6,1-13" lang="en" %}} | ["When the rapture happens": Isaiah](/expl/topics/others/the-rapture#d1b5) |
 | {{% bible val="Isaiah:6,8-10" link="isa:6,8-10" lang="en" %}} | ["We become what we worship": told to preach to Israel, but they would not understand](/appl/topics/power/worship#9eba) |
@@ -37,6 +37,7 @@ docType: expl
 | {{% bible val="Isaiah:19,18-25" link="isa:19,18-25" lang="en" %}} | ["The Gentiles become part of Israel": In that day five cities in Egypt will speak the language of Canaan and swear allegiance to the Lord Almighty. One of them will be called the City of the Sun. 19 In that day there will be an altar to the Lord in the heart of Egypt, and a monument to the Lord at its border. 20 It will be a sign and witness to the Lord Almighty in the land of Egypt. When they cry out to the Lord because of their oppressors, he will send them a saviour and defender, and he will rescue them. 21 So the Lord will make himself known to the Egyptians, and in that day they will acknowledge the Lord. They will worship with sacrifices and grain offerings; they will make vows to the Lord and keep them. 22 The Lord will strike Egypt with a plague; he will strike them and heal them. They will turn to the Lord, and he will respond to their pleas and heal them. 23 In that day there will be a highway from Egypt to Assyria. The Assyrians will go to Egypt and the Egyptians to Assyria. The Egyptians and Assyrians will worship together. 24 In that day Israel will be the third, along with Egypt and Assyria, a blessing on the earth. 25 The Lord Almighty will bless them, saying, ‘Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance.’](/expl/background/israel/the-remnant-of-israel#0f15) |
 | {{% bible val="Isaiah:22,15-25" link="isa:22,15-25" lang="en" %}} | ["Jesus’ view": reference to Shebna and Eliakim](/expl/content/letters/the-letter-to-the-church-in-philadelphia#294f) |
 | {{% bible val="Isaiah:22,21-22" link="isa:22,21-22" lang="en" %}} | ["Jesus’ view": key is given to Eliakim, so that he can provide for the needy](/expl/content/letters/the-letter-to-the-church-in-philadelphia#294f) |
+| {{% bible val="Isaiah:22,22" link="isa:22,22" lang="en" %}} | ["Symmetric patterns": Isa.22/22](/expl/background/literature/literary-tools-in-the-book-of-revelation#d519) |
 | {{% bible val="Isaiah:23,1-3" link="isa:23,1-3" lang="en" %}} | ["The economic aspect": port for the world and made everyone rich while being paid in naturalia (here with grain)](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Isaiah:23,15-18" link="isa:23,15-18" lang="en" %}} | ["The religious aspect": called a harlot](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Isaiah:23,15-18" link="isa:23,15-18" lang="en" %}} | ["The economic aspect": Tyre](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
@@ -100,7 +101,7 @@ docType: expl
 | {{% bible val="Isaiah:60,11" link="isa:60,11" lang="en" %}} | ["The internal features": Your gates will always stand open, they will never be shut, day or night, so that people may bring you the wealth of the nations — their kings led in triumphal procession.](/expl/content/paradise/the-new-jerusalem#bf9a) |
 | {{% bible val="Isaiah:60,12" link="isa:60,12" lang="en" %}} | ["The internal features": will therefore not suffer with others](/expl/content/paradise/the-new-jerusalem#bf9a) |
 | {{% bible val="Isaiah:60,19" link="isa:60,19" lang="en" %}} | ["The internal features": Isaiah](/expl/content/paradise/the-new-jerusalem#bf9a) |
-| {{% bible val="Isaiah:61,1-2" link="isa:61,1-2" lang="en" %}} | ["Already but not yet": passage of Isaiah](/expl/background/israel/jesus-and-the-covenant#e3c4) |
+| {{% bible val="Isaiah:61,1-2" link="isa:61,1-2" lang="en" %}} | ["Already but not yet {#already}": passage of Isaiah](/expl/background/israel/jesus-and-the-covenant#already) |
 | {{% bible val="Isaiah:61,1-2" link="isa:61,1-2" lang="en" %}} | ["The new Exodus in Luke": h was the sign of the second Exodus](/expl/background/israel/the-second-exodus#1f7d) |
 | {{% bible val="Isaiah:61,10" link="isa:61,10" lang="en" %}} | ["Jerusalem the Holy town": is further developed](/expl/content/paradise/the-new-jerusalem#c358) |
 | {{% bible val="Isaiah:62,1-2" link="isa:62,1-2" lang="en" %}} | ["Jerusalem the Holy town": gets a new name](/expl/content/paradise/the-new-jerusalem#c358) |

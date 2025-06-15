@@ -67,12 +67,12 @@ docType: expl
 | {{% bible val="2.Mose:12,14-20" link="exo:12,14-20" lang="de" %}} | ["Der Tod der Erstgeburt": Das Fest der ungesäuerten Brote eingeführt](/expl/bible/exodus/the-plagues-in-egypt#4f21) |
 | {{% bible val="2.Mose:12,35-36" link="exo:12,35-36" lang="de" %}} | ["Das Vermeiden eines “zweiten Hyksos”": Ende verlassen sie Ägypten voller Reichtümer](/expl/bible/exodus/the-birth-of-moses#4472) |
 | {{% bible val="2.Mose:12,37" link="exo:12,37" lang="de" %}} | ["Nie wieder": Städte lagen im Nordwesten, von wo aus Israel auswanderte](/expl/bible/exodus/the-story-before-the-exodus#1933) |
-| {{% bible val="2.Mose:12,38" link="exo:12,38" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": denn viele von ihnen kamen mit Israel, als sie Ägypten verließen](/appl/background/israel/_index#bfb6) |
+| {{% bible val="2.Mose:12,38" link="exo:12,38" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": denn viele von ihnen kamen mit Israel, als sie Ägypten verließen](/appl/background/israel/#bfb6) |
 | {{% bible val="2.Mose:12,38" link="exo:12,38" lang="de" %}} | ["Ursprung des Tages des Herrn": nahm es viele andere Menschen mit, die dadurch auch Teil Israels wurden.](/expl/background/israel/the-day-of-the-lord#4fec) |
 | {{% bible val="2.Mose:12,38" link="exo:12,38" lang="de" %}} | ["Die Nationen werden Teil von Israel": Ägypter](/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="2.Mose:12,38" link="exo:12,38" lang="de" %}} | ["Der Tod der Erstgeburt": für viele der Ausschlag mit dem Gott Israels auszuziehen](/expl/bible/exodus/the-plagues-in-egypt#4f21) |
 | {{% bible val="2.Mose:12,43-49" link="exo:12,43-49" lang="de" %}} | ["Der Tod der Erstgeburt": offen für alle, die zu Israel gehören wollten](/expl/bible/exodus/the-plagues-in-egypt#4f21) |
-| {{% bible val="2.Mose:12,48-49" link="exo:12,48-49" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": Jeder, der dauerhaft mit Israel lebt, kann Teil des Bundes mit Israel werden](/appl/background/israel/_index#bfb6) |
+| {{% bible val="2.Mose:12,48-49" link="exo:12,48-49" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": Jeder, der dauerhaft mit Israel lebt, kann Teil des Bundes mit Israel werden](/appl/background/israel/#bfb6) |
 | {{% bible val="2.Mose:12,48-51" link="exo:12,48-51" lang="de" %}} | ["Die Nationen werden Teil von Israel": die gleichen Rechte](/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="2.Mose:13,8-9" link="exo:13,8-9" lang="de" %}} | ["Der Tod der Erstgeburt": Zeichen an Hand und Stirn](/expl/bible/exodus/the-plagues-in-egypt#4f21) |
 | {{% bible val="2.Mose:13,16" link="exo:13,16" lang="de" %}} | ["Das zweite Tier": Zeichen der Erinnerung an die Macht Gottes](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |

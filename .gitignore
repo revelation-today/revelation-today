@@ -1,5 +1,6 @@
 node_modules/
 public/
 resources/
+**/*.pyc
 
 .hugo_build.lock

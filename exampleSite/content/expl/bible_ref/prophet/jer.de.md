@@ -4,7 +4,7 @@ weight: 23
 docType: expl
 ---
 
-21 Bibelstellen wurden in diesem Buch verwendet.
+22 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -16,6 +16,7 @@ docType: expl
 | {{% bible val="Jeremia:4,30" link="jer:4,30" lang="de" %}} | ["Der religiöse Aspekt": Ihr Kleid ist scharlachrot, sie schmückt sich selbst mit Gold](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Jeremia:4,30" link="jer:4,30" lang="de" %}} | ["Der religiöse Aspekt": Ihre Liebhaber verachten sie und wollen sie töten](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Jeremia:4,30" link="jer:4,30" lang="de" %}} | ["Der wirtschaftliche Aspekt": Anziehungskraft durch Wohlstand](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
+| {{% bible val="Jeremia:10" link="jer:10,-1" lang="de" %}} | ["Der zweifache Angriff": verspottet werden](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Jeremia:10,6-7" link="jer:10,6-7" lang="de" %}} | ["Das Lied des Mose": Jeremia](/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
 | {{% bible val="Jeremia:11,15" link="jer:11,15" lang="de" %}} | ["Geliebt vom Herrn": Israel, wenn es den Bund bricht](/expl/background/israel/the-church-is-part-of-israel#e326) |
 | {{% bible val="Jeremia:11,16" link="jer:11,16" lang="de" %}} | ["Der Ölbaum": Erinnerung, dass sie den Bund gebrochen haben](/expl/background/israel/the-church-is-part-of-israel#b358) |

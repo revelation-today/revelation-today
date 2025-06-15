@@ -32,15 +32,15 @@ Bu kitapta kullanılan 62 Kutsal Kitap pasajı vardır
 | {{% bible val="Yaratılış:10,8-12" link="gen:10,8-12" lang="tr" %}} | ["Erkek sığınağı olarak kasabalar": Ancak şehir hala önemli bir özellikti](/expl/bible/creation/the-temple-and-the-presence-of-god#ca70) |
 | {{% bible val="Yaratılış:11,1-9" link="gen:11,1-9" lang="tr" %}} | ["Erkek sığınağı olarak kasabalar": Babil kulesinde felaketle](/expl/bible/creation/the-temple-and-the-presence-of-god#ca70) |
 | {{% bible val="Yaratılış:11,1-9" link="gen:11,1-9" lang="tr" %}} | [""Yeni cennet ve yeni dünya (Böl. 21-22)"": kimlik](/quick/content/paradise#None) |
-| {{% bible val="Yaratılış:11,1-10" link="gen:11,1-10" lang="tr" %}} | ["İsrail’in kökeni ve amacı": sonunda insanlar kendilerine bir isim yapmaya karar verdiler ve Babil’de göğe ulaşan bir kule inşa etmek istediler](/appl/background/israel/_index#ce07) |
+| {{% bible val="Yaratılış:11,1-10" link="gen:11,1-10" lang="tr" %}} | ["İsrail’in kökeni ve amacı": sonunda insanlar kendilerine bir isim yapmaya karar verdiler ve Babil’de göğe ulaşan bir kule inşa etmek istediler](/appl/background/israel/#ce07) |
 | {{% bible val="Yaratılış:11,27-31" link="gen:11,27-31" lang="tr" %}} | ["Ataerkil": üç oğlu olan Terah’tır: Haran, Avram ve Nahor. Haran ölürken](/expl/background/israel/the-role-of-family-in-the-bible#3a5d) |
 | {{% bible val="Yaratılış:11,31" link="gen:11,31" lang="tr" %}} | ["Karkamış’tan önceki hikaye": brahim’in geldiği yer olan](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#f7c8) |
-| {{% bible val="Yaratılış:12,1-2" link="gen:12,1-2" lang="tr" %}} | ["İsrail’in kökeni ve amacı": Tanrı bunu durdurdu ve İbrahim’i](/appl/background/israel/_index#ce07) |
+| {{% bible val="Yaratılış:12,1-2" link="gen:12,1-2" lang="tr" %}} | ["İsrail’in kökeni ve amacı": Tanrı bunu durdurdu ve İbrahim’i](/appl/background/israel/#ce07) |
 | {{% bible val="Yaratılış:12,1-3" link="gen:12,1-3" lang="tr" %}} | ["Erkek sığınağı olarak kasabalar": Tanrı sonunda İsrail’in geldiği İbrahim’den bir isim yapmaya karar verdi](/expl/bible/creation/the-temple-and-the-presence-of-god#ca70) |
 | {{% bible val="Yaratılış:12,1-4" link="gen:12,1-4" lang="tr" %}} | ["Ataerkil": Avram’ın bakımını üstlendiği bir oğul bırakır](/expl/background/israel/the-role-of-family-in-the-bible#3a5d) |
 | {{% bible val="Yaratılış:12,2-3" link="gen:12,2-3" lang="tr" %}} | ["Rab’bin Günü’nün Kökeni": tüm uluslar için bir bereket olmaktı](/expl/background/israel/the-day-of-the-lord#45df) |
 | {{% bible val="Yaratılış:12,2-3" link="gen:12,2-3" lang="tr" %}} | ["Dahili özellikler": Tüm ulusları kutsamak için İbrahim’le başladı](/expl/content/paradise/the-new-jerusalem#1c33) |
-| {{% bible val="Yaratılış:12,3" link="gen:12,3" lang="tr" %}} | ["İsrail’in kökeni ve amacı": soyundan gelenlerin tüm dünyayı kutsamasını istedi](/appl/background/israel/_index#ce07) |
+| {{% bible val="Yaratılış:12,3" link="gen:12,3" lang="tr" %}} | ["İsrail’in kökeni ve amacı": soyundan gelenlerin tüm dünyayı kutsamasını istedi](/appl/background/israel/#ce07) |
 | {{% bible val="Yaratılış:12,3" link="gen:12,3" lang="tr" %}} | ["Bulutlarla birlikte geliyor": Avram’ın kendisi aracılığıyla tüm ulusların kutsanacağı vaadinde olduğu gibi benzer bir ifadedir](/expl/content/vision/setting-the-foundation#4542) |
 | {{% bible val="Yaratılış:14" link="gen:14,-1" lang="tr" %}} | ["Ailenin önemi": to deliver from captivity](/expl/background/israel/the-role-of-family-in-the-bible#524d) |
 | {{% bible val="Yaratılış:15" link="gen:15,-1" lang="tr" %}} | ["İbrahim ile yapılan antlaşma": Kutsal Kitap’ta İbrahim’le ilgili öykü böyle bir sahneyi anlatır](/expl/background/israel/gods-covenant#908c) |

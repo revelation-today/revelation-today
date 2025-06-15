@@ -11,7 +11,7 @@ docType: expl
 | {{% bible val="Psalm:1,4" link="psa:1,4" lang="en" %}} | ["The two harvests": blowing away](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
 | {{% bible val="Psalm:2" link="psa:2,-1" lang="en" %}} | ["The child": Ps.2](/expl/content/jesus/a-different-christmas-story#None) |
 | {{% bible val="Psalm:2" link="psa:2,-1" lang="en" %}} | ["The solution": Psalm 2](/expl/content/letters/the-letter-to-the-church-in-thyatira#09f8) |
-| {{% bible val="Psalm:23" link="psa:23,-1" lang="en" %}} | [""Literally or symbolically"": sheep that eat grass](/quick/background/literature/_index#None) |
+| {{% bible val="Psalm:23" link="psa:23,-1" lang="en" %}} | [""Literally or symbolically"": sheep that eat grass](/quick/background/literature/#None) |
 | {{% bible val="Psalm:36,8-9" link="psa:36,8-9" lang="en" %}} | ["Living water": gives abundant to drink](/expl/content/paradise/the-new-jerusalem#bac3) |
 | {{% bible val="Psalm:45,5-6" link="psa:45,5-6" lang="en" %}} | ["The mystery of the first horseman": Psalms, there is a description of an Israelite king conquering his enemies with a bow](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Psalm:52,8" link="psa:52,8" lang="en" %}} | ["Olive tree": King David](/expl/background/israel/the-church-is-part-of-israel#e179) |

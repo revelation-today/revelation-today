@@ -8,4 +8,4 @@ docType: expl
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="Roma:9" link="rom:9,-1" lang="ind" %}} | [""Latar belakang sejarah"": berakar dari orang Yahudi](/quick/background/history/_index#None) |
+| {{% bible val="Roma:9" link="rom:9,-1" lang="ind" %}} | [""Latar belakang sejarah"": berakar dari orang Yahudi](/quick/background/history/#None) |

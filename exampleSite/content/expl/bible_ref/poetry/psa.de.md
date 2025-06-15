@@ -11,7 +11,7 @@ docType: expl
 | {{% bible val="Psalm:1,4" link="psa:1,4" lang="de" %}} | ["Die beiden Ernten": Verstreuen](/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
 | {{% bible val="Psalm:2" link="psa:2,-1" lang="de" %}} | ["Das Kind": Psalm 2](/expl/content/jesus/a-different-christmas-story#a89c) |
 | {{% bible val="Psalm:2" link="psa:2,-1" lang="de" %}} | ["Die Lösung": Psalm 2](/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
-| {{% bible val="Psalm:23,2" link="psa:23,2" lang="de" %}} | [""Wörtlich oder symbolisch"": Schafe, die Gras fressen](/quick/background/literature/_index#None) |
+| {{% bible val="Psalm:23,2" link="psa:23,2" lang="de" %}} | [""Wörtlich oder symbolisch"": Schafe, die Gras fressen](/quick/background/literature/#None) |
 | {{% bible val="Psalm:36,8-9" link="psa:36,8-9" lang="de" %}} | ["Lebendiges Wasser": gibt reichlich zu trinken](/expl/content/paradise/the-new-jerusalem#8a3f) |
 | {{% bible val="Psalm:45,5-6" link="psa:45,5-6" lang="de" %}} | ["Das Geheimnis des ersten Reiters": Psalmen gibt es eine Beschreibung eines israelitischen Königs, der seine Feinde mit einem Bogen beisegt](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Psalm:52,8" link="psa:52,8" lang="de" %}} | ["Der Ölbaum": David](/expl/background/israel/the-church-is-part-of-israel#b358) |
@@ -29,7 +29,7 @@ docType: expl
 | {{% bible val="Psalm:96,7-10" link="psa:96,7-10" lang="de" %}} | ["Die ersten drei Engel": Inhalt dieser Botschaft ist auch Teil dieses Psalms](/expl/content/harvest/gods-army-and-the-seven-angels#ad85) |
 | {{% bible val="Psalm:98,1-2" link="psa:98,1-2" lang="de" %}} | ["Das Lied des Mose": 98](/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
 | {{% bible val="Psalm:104,26" link="psa:104,26" lang="de" %}} | ["Der Kontext der ersten Leser": Gott aber nur ein Spielzeug](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#a261) |
-| {{% bible val="Psalm:104,26" link="psa:104,26" lang="de" %}} | ["Ein Sack voller Referenzen": Leviathan für Gott nur ein Spielzeug](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Psalm:104,26" link="psa:104,26" lang="de" %}} | ["Leviathan und Behemoth": Leviathan ist für Gott nur ein Spielzeug](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Psalm:105,1" link="psa:105,1" lang="de" %}} | ["Das Lied des Mose": Psalm 105](/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
 | {{% bible val="Psalm:106,36-38" link="psa:106,36-38" lang="de" %}} | ["Bereit für den zweiten Tod": Kinder opfern](/expl/content/paradise/the-new-jerusalem#e855) |
 | {{% bible val="Psalm:115,4-8" link="psa:115,4-8" lang="de" %}} | ["Der zweifache Angriff": mehr als nur ein Götze ist](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |

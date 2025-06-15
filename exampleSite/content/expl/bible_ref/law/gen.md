@@ -31,15 +31,15 @@ docType: expl
 | {{% bible val="Genesis:10,8-12" link="gen:10,8-12" lang="en" %}} | ["The garden Eden as place of fellowship with God": city was still an important feature](/expl/bible/creation/the-temple-and-the-presence-of-god#None) |
 | {{% bible val="Genesis:11,1-9" link="gen:11,1-9" lang="en" %}} | ["The garden Eden as place of fellowship with God": the Tower to Babel](/expl/bible/creation/the-temple-and-the-presence-of-god#None) |
 | {{% bible val="Genesis:11,1-9" link="gen:11,1-9" lang="en" %}} | [""The new heaven and new earth (Ch. 21-22)"": identity](/quick/content/paradise#None) |
-| {{% bible val="Genesis:11,1-10" link="gen:11,1-10" lang="en" %}} | ["The origin and purpose of Israel": decided to make a name for themselves and wanted to build a tower in Babel that reaches the heaven](/appl/background/israel/_index#1bcd) |
+| {{% bible val="Genesis:11,1-10" link="gen:11,1-10" lang="en" %}} | ["The origin and purpose of Israel": decide to make a name for themselves by building a tower in Babel that should reach the heavens](/appl/background/israel/#1bcd) |
 | {{% bible val="Genesis:11,27-31" link="gen:11,27-31" lang="en" %}} | ["The patriarch": Terah who had three sons: Haran, Abram and Nahor. When Haran dies, he leaves a son](/expl/background/israel/the-role-of-family-in-the-bible#7e2f) |
 | {{% bible val="Genesis:11,31" link="gen:11,31" lang="en" %}} | ["The story before Karkemish": Abraham came from](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#9897) |
-| {{% bible val="Genesis:12,1-2" link="gen:12,1-2" lang="en" %}} | ["The origin and purpose of Israel": made a name out of Abraham](/appl/background/israel/_index#1bcd) |
+| {{% bible val="Genesis:12,1-2" link="gen:12,1-2" lang="en" %}} | ["The origin and purpose of Israel": made a name out of Abraham](/appl/background/israel/#1bcd) |
 | {{% bible val="Genesis:12,1-3" link="gen:12,1-3" lang="en" %}} | ["The garden Eden as place of fellowship with God": God chose to make a name out of Abraham](/expl/bible/creation/the-temple-and-the-presence-of-god#None) |
 | {{% bible val="Genesis:12,1-4" link="gen:12,1-4" lang="en" %}} | ["The patriarch": Abram takes care of](/expl/background/israel/the-role-of-family-in-the-bible#7e2f) |
 | {{% bible val="Genesis:12,2-3" link="gen:12,2-3" lang="en" %}} | ["Origin of the Day of the Lord": covenant was to be a blessing to all nations](/expl/background/israel/the-day-of-the-lord#674e) |
 | {{% bible val="Genesis:12,2-3" link="gen:12,2-3" lang="en" %}} | ["The internal features": Abraham to be a blessing to all nations](/expl/content/paradise/the-new-jerusalem#bf9a) |
-| {{% bible val="Genesis:12,3" link="gen:12,3" lang="en" %}} | ["The origin and purpose of Israel": wanted that his descendant are a blessing to the whole world](/appl/background/israel/_index#1bcd) |
+| {{% bible val="Genesis:12,3" link="gen:12,3" lang="en" %}} | ["The origin and purpose of Israel": Gods plan is that his descendants will be a blessing to the whole world](/appl/background/israel/#1bcd) |
 | {{% bible val="Genesis:12,3" link="gen:12,3" lang="en" %}} | ["Coming with the clouds": Abram’s promise that through him all nations will be blessed](/expl/content/vision/setting-the-foundation#e267) |
 | {{% bible val="Genesis:14" link="gen:14,-1" lang="en" %}} | ["The importance of family": to deliver from captivity](/expl/background/israel/the-role-of-family-in-the-bible#8181) |
 | {{% bible val="Genesis:15" link="gen:15,-1" lang="en" %}} | ["The covenant with Abraham": Abraham describes such a scene](/expl/background/israel/gods-covenant#d269) |

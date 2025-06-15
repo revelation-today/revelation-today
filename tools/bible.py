@@ -60,6 +60,8 @@ def parse_line(file_path, lang, line, last_link, last_header, title):
     match_link = re.match(r"<a name=\"([^\"]+)\"></a>", line)
     if match_link:
         last_link = match_link.group(1)
+        if "witnesses.de" in file_path:
+            print(last_link, 222, file_path)
     match = re.findall(r"(\{\{\% bible val=\"([^\"]+)\" link=\"([^\"]+)\")", line)
     if match:
         for all, val, link in match:
@@ -70,7 +72,10 @@ def parse_line(file_path, lang, line, last_link, last_header, title):
     return last_link, last_header, title
                 
 def parse_bible(file_path, lang, title, last_header, last_link, link, val):
-    book = link.split(":")[0]#
+    book = link.split(":")[0]
+#    if "witnesses.de" in file_path:
+#    if file_path == "/appl/content/witnesses":
+#        print(file_path, 222,  last_link)
     if book not in BOOKS:
         print("Did not find book {0} in {1}, {2}".format(book, file_path, val))
     book_type = BOOKS[book]["type"]
@@ -187,9 +192,11 @@ def write_verse(fp, lang, book, data):
     verse = str(data[7])
     filename = data[0]
     filename = re.sub(r"\\\\", "/", filename)
-    filename = re.sub(r"\./\.\./exampleSite/content", "", filename)
+    filename = re.sub(r"\\", "/", filename)
+    filename = re.sub(r".*./exampleSite/content", "", filename)
     filename = re.sub(r"\.md", "", filename)
     filename = re.sub(r"\." + lang, "", filename)
+    filename = re.sub(r"_index", "", filename)
     filename = filename.split("..")[-1]
     ref = str(data[4])
     if verse and verse != "-1":

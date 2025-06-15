@@ -45,16 +45,16 @@ Bu kitapta kullanılan 60 Kutsal Kitap pasajı vardır
 | {{% bible val="Matta:13,44-46" link="mat:13,44-46" lang="tr" %}} | ["İsa’nın öğretileri": gizli hazine ve inci ](/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Matta:13,47-50" link="mat:13,47-50" lang="tr" %}} | ["İsa’nın öğretileri": da balık ağı benzetmesi](/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Matta:15,23-24" link="mat:15,23-24" lang="tr" %}} | ["İsa’nın hikayesi": Yahudilerle antlaşmayı yeniler](/expl/bible/daniel/the-70-year-weeks#f724) |
-| {{% bible val="Matta:15,24" link="mat:15,24" lang="tr" %}} | ["Yeni bir başlangıç": katılmaya istekli olan İsrail’den başlayarak yeni bir antlaşma başlattı](/appl/background/israel/_index#b08f) |
+| {{% bible val="Matta:15,24" link="mat:15,24" lang="tr" %}} | ["Yeni bir başlangıç": katılmaya istekli olan İsrail’den başlayarak yeni bir antlaşma başlattı](/appl/background/israel/#b08f) |
 | {{% bible val="Matta:15,24" link="mat:15,24" lang="tr" %}} | ["The solution": Ve çağrısı İsrail’i eski haline getirmek ve mümkün olduğunca çok kişiyi kendisine çağırmaktı](/expl/bible/daniel/the-son-of-man-and-the-remnant#e03e) |
 | {{% bible val="Matta:16,5-12" link="mat:16,5-12" lang="tr" %}} | ["semaino": 5000 kişiyi doyurmak](/expl/background/literature/literally-or-symbolic#a772) |
 | {{% bible val="Matta:16,18" link="mat:16,18" lang="tr" %}} | ["İki tanığın karakteri": İsa kilisenin üstesinden gelinmeyeceğini söylemedi m](/expl/content/witnesses/the-two-witnesses#bdb3) |
-| {{% bible val="Matta:18" link="mat:18,-1" lang="tr" %}} | [""Secara harfiah atau simbolis"": mengampuni 7 kali 70, yaitu 490 kali](/quick/background/literature/_index#None) |
-| {{% bible val="Matta:18" link="mat:18,-1" lang="tr" %}} | [""Secara harfiah atau simbolis"": cungkillah mata kita jika ia menyebabkan kita berbuat dosa](/quick/background/literature/_index#None) |
+| {{% bible val="Matta:18" link="mat:18,-1" lang="tr" %}} | [""Secara harfiah atau simbolis"": mengampuni 7 kali 70, yaitu 490 kali](/quick/background/literature/#None) |
+| {{% bible val="Matta:18" link="mat:18,-1" lang="tr" %}} | [""Secara harfiah atau simbolis"": cungkillah mata kita jika ia menyebabkan kita berbuat dosa](/quick/background/literature/#None) |
 | {{% bible val="Matta:20,25-28" link="mat:20,25-28" lang="tr" %}} | ["Daha fazlası var": kendimize Tanrı’nın krallığında hüküm ](/expl/bible/daniel/the-four-kingdoms-in-daniel#38f8) |
 | {{% bible val="Matta:21,33-45" link="mat:21,33-45" lang="tr" %}} | ["İsa’nın öğretileri": Ancak İsa bu benzetmeyi, kendisini reddetmeleri halinde İsrail’i tamamen yok etme yargısıyla birlikte yeniden kullanır.](/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Matta:22,36-39" link="mat:22,36-39" lang="tr" %}} | ["Karanlık taraf": Sevgi daha yüksek bir iyi olduğu için](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad) |
-| {{% bible val="Matta:23,15" link="mat:23,15" lang="tr" %}} | ["İsrail’in kökeni ve amacı": Ancak bu o kadar uzağa ulaşmadı.](/appl/background/israel/_index#ce07) |
+| {{% bible val="Matta:23,15" link="mat:23,15" lang="tr" %}} | ["İsrail’in kökeni ve amacı": Ancak bu o kadar uzağa ulaşmadı.](/appl/background/israel/#ce07) |
 | {{% bible val="Matta:24" link="mat:24,-1" lang="tr" %}} | ["Bir kıyamet {#apocalypse}": Mt.24](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Matta:24" link="mat:24,-1" lang="tr" %}} | ["Zeytin ağacına bakış açısı": 24](/expl/topics/others/the-rapture#e1d2) |
 | {{% bible val="Matta:24,3" link="mat:24,3" lang="tr" %}} | ["Bulutlarla birlikte geliyor": İsa’nın son zamanlardan bahsettiği](/expl/content/vision/setting-the-foundation#4542) |

@@ -39,7 +39,7 @@ docType: expl
 | {{% bible val="Daniel:6" link="dan:6,-1" lang="en" %}} | ["A quick walk through": Dan.6](/expl/bible/daniel/the-book-of-daniel#9a3b) |
 | {{% bible val="Daniel:6,17" link="dan:6,17" lang="en" %}} | ["But aren’t there also differences?": Daniel](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="en" %}} | ["The Daniel frame": Daniel chapter 7 ](/expl/background/literature/literally-or-symbolic#c39c) |
-| {{% bible val="Daniel:7" link="dan:7,-1" lang="en" %}} | ["An apocalypse {#apocalypse}": Dan.7-12](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
+| {{% bible val="Daniel:7" link="dan:7,-1" lang="en" %}} | ["An apocalypse {#apocalypse}": Daniel 7-12](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="en" %}} | ["A quick walk through": Dan.7](/expl/bible/daniel/the-book-of-daniel#9a3b) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="en" %}} | ["Whats the point?": 7](/expl/bible/daniel/the-book-of-daniel#b05e) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="en" %}} | ["The four kingdoms": chapter 7 describes them as beasts](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |

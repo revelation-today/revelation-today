@@ -46,16 +46,16 @@ docType: expl
 | {{% bible val="Matthäus:13,44-46" link="mat:13,44-46" lang="de" %}} | ["Die Lehren Jesu": der verborgene Schatz und die Perle](/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matthäus:13,47-50" link="mat:13,47-50" lang="de" %}} | ["Die Lehren Jesu": Gleichnis vom Fischnetz](/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matthäus:15,23-24" link="mat:15,23-24" lang="de" %}} | ["Die Geschichte von Jesus": erneuert den Bund mit den Juden](/expl/bible/daniel/the-70-year-weeks#abfc) |
-| {{% bible val="Matthäus:15,24" link="mat:15,24" lang="de" %}} | ["Ein neuer Anfang": neuen Bund mit dem Teil von Israel, der wollte ](/appl/background/israel/_index#12dc) |
+| {{% bible val="Matthäus:15,24" link="mat:15,24" lang="de" %}} | ["Ein neuer Anfang": neuen Bund mit dem Teil von Israel, der wollte ](/appl/background/israel/#12dc) |
 | {{% bible val="Matthäus:15,24" link="mat:15,24" lang="de" %}} | ["Die Lösung": seine Berufung war es, so viele Israeliten wie möglich wiederherzustellen, damit sie der Berufung Israels folgen konnten](/expl/bible/daniel/the-son-of-man-and-the-remnant#bcd4) |
 | {{% bible val="Matthäus:16,5-12" link="mat:16,5-12" lang="de" %}} | ["semaino": Die Speisung der 5000](/expl/background/literature/literally-or-symbolic#09b2) |
 | {{% bible val="Matthäus:16,18" link="mat:16,18" lang="de" %}} | ["Der Charakter der beiden Zeugen": niemand die Gemeinde überwältigen kann](/expl/content/witnesses/the-two-witnesses#5f50) |
-| {{% bible val="Matthäus:18,9" link="mat:18,9" lang="de" %}} | [""Wörtlich oder symbolisch"": unsere Augen ausreißen, wenn sie uns zur Sünde verleiten](/quick/background/literature/_index#None) |
-| {{% bible val="Matthäus:18,21-25" link="mat:18,21-25" lang="de" %}} | [""Wörtlich oder symbolisch"": 7 mal 70, also 490 mal vergeben](/quick/background/literature/_index#None) |
+| {{% bible val="Matthäus:18,9" link="mat:18,9" lang="de" %}} | [""Wörtlich oder symbolisch"": unsere Augen ausreißen, wenn sie uns zur Sünde verleiten](/quick/background/literature/#None) |
+| {{% bible val="Matthäus:18,21-25" link="mat:18,21-25" lang="de" %}} | [""Wörtlich oder symbolisch"": 7 mal 70, also 490 mal vergeben](/quick/background/literature/#None) |
 | {{% bible val="Matthäus:20,20-28" link="mat:20,20-28" lang="de" %}} | [""Das 1000-jährige Reich"": Art von Herrschaft](/expl/content/1000y/the-thousand-year-kingdom#None) |
 | {{% bible val="Matthäus:20,25-28" link="mat:20,25-28" lang="de" %}} | ["Aber da ist mehr": Herrschaft](/expl/bible/daniel/the-four-kingdoms-in-daniel#e6a6) |
 | {{% bible val="Matthäus:21,33-45" link="mat:21,33-45" lang="de" %}} | ["Die Lehren Jesu": Gleichnis von den untreuen Weinbauern, in dem durch das Gericht ganz Israel ausgerottet wird wenn es ihn abweist](/expl/background/israel/jesus-and-the-covenant#221c) |
-| {{% bible val="Matthäus:23,15" link="mat:23,15" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": Aber die Reichweite war begrenzt](/appl/background/israel/_index#bfb6) |
+| {{% bible val="Matthäus:23,15" link="mat:23,15" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": Aber die Reichweite war begrenzt](/appl/background/israel/#bfb6) |
 | {{% bible val="Matthäus:24" link="mat:24,-1" lang="de" %}} | ["Eine Apokalypse {#apocalypse}": Mt.24](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Matthäus:24" link="mat:24,-1" lang="de" %}} | ["Die Perspektive des Ölbaumes": 24](/expl/topics/others/the-rapture#fb48) |
 | {{% bible val="Matthäus:24,3" link="mat:24,3" lang="de" %}} | ["Er kommt mit den Wolken": Jesus über die Endzeit spricht](/expl/content/vision/setting-the-foundation#aaf2) |

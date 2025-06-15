@@ -8,4 +8,4 @@ docType: expl
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="Mazmur:23" link="psa:23,-1" lang="ind" %}} | [""Secara harfiah atau simbolis"": domba yang makan rumput](/quick/background/literature/_index#None) |
+| {{% bible val="Mazmur:23" link="psa:23,-1" lang="ind" %}} | [""Secara harfiah atau simbolis"": domba yang makan rumput](/quick/background/literature/#None) |

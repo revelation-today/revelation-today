@@ -9,7 +9,7 @@ docType: expl
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="John:1,11-14" link="jhn:1,11-14" lang="en" %}} | ["The solution": Israel who rejected Him](/expl/bible/daniel/the-son-of-man-and-the-remnant#77b0) |
-| {{% bible val="John:2,19-21" link="jhn:2,19-21" lang="en" %}} | ["The temple": Jesus](/appl/content/witnesses/_index#5a8c) |
+| {{% bible val="John:2,19-21" link="jhn:2,19-21" lang="en" %}} | ["The temple": Jesus](/appl/content/witnesses/#5a8c) |
 | {{% bible val="John:2,19-22" link="jhn:2,19-22" lang="en" %}} | ["The temple in the New Testament": Jesus is the temple](/expl/bible/creation/the-temple-and-the-presence-of-god#None) |
 | {{% bible val="John:3" link="jhn:3,-1" lang="en" %}} | ["So what is the second death?": we are born again we have our “second life”](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="John:3,3" link="jhn:3,3" lang="en" %}} | ["We become what we worship": we can see](/appl/topics/power/worship#9eba) |
@@ -36,7 +36,7 @@ docType: expl
 | {{% bible val="John:14,23" link="jhn:14,23" lang="en" %}} | ["A place for us": used one other time in John (in the same chapter!), where it is refers to God’s dwelling in us](/expl/topics/others/the-rapture#11c1) |
 | {{% bible val="John:14,27-29" link="jhn:14,27-29" lang="en" %}} | ["Ready for the second death": to have peace](/expl/content/paradise/the-new-jerusalem#0819) |
 | {{% bible val="John:15,13" link="jhn:15,13" lang="en" %}} | ["The twofold attack": Nobody has more love as the one that gives his live for his friends.](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
-| {{% bible val="John:15,20" link="jhn:15,20" lang="en" %}} | ["The Church": persecuted](/appl/background/overview/_index#9e32) |
+| {{% bible val="John:15,20" link="jhn:15,20" lang="en" %}} | ["The Church": persecuted](/appl/background/overview/2#9e32) |
 | {{% bible val="John:15,25" link="jhn:15,25" lang="en" %}} | ["Living water": John](/expl/content/paradise/the-new-jerusalem#bac3) |
 | {{% bible val="John:16,13" link="jhn:16,13" lang="en" %}} | ["The twofold attack": Holy Spirit speaks with the authority of Jesus](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="John:16,31-33" link="jhn:16,31-33" lang="en" %}} | ["Ready for the second death": know that God never leaves them](/expl/content/paradise/the-new-jerusalem#0819) |

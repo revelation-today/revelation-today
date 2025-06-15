@@ -4,12 +4,13 @@ weight: 0
 docType: expl
 ---
 
-63 Bibelstellen wurden in diesem Buch verwendet.
+64 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
 | {{% bible val="1.Mose:1" link="gen:1,-1" lang="de" %}} | ["Die Frau": Schöpfungsgeschichte](/expl/content/jesus/a-different-christmas-story#5a05) |
 | {{% bible val="1.Mose:2,1-3" link="gen:2,1-3" lang="de" %}} | ["Einige Basics": Welt in sieben Tagen erschaffen wurde](/expl/content/beasts/666-the-number-of-the-beast#74d6) |
+| {{% bible val="1.Mose:2,7" link="gen:2,7" lang="de" %}} | ["Der zweifache Angriff": Gott](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="1.Mose:2,8-15" link="gen:2,8-15" lang="de" %}} | ["Der Garten Eden als Ort der Gemeinschaft mit Gott": einen Garten anlegt, den sie pflegen sollen](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
 | {{% bible val="1.Mose:2,9-14" link="gen:2,9-14" lang="de" %}} | [""Neuer Himmel und neue Erde (Kap. 21-22)"": Garten Eden](/quick/content/paradise#None) |
 | {{% bible val="1.Mose:2,10-12" link="gen:2,10-12" lang="de" %}} | ["Symbole von Gottes Gegenwart": Schöpfungsgeschichte, in der die Flüsse dort mit Edelsteinen in Verbindung gebracht werden](/expl/content/paradise/the-new-jerusalem#126e) |
@@ -32,15 +33,15 @@ docType: expl
 | {{% bible val="1.Mose:10,8-12" link="gen:10,8-12" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": Stadt ist immer noch ein wichtiges Element](/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
 | {{% bible val="1.Mose:11,1-9" link="gen:11,1-9" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": Desaster von Babel endete](/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
 | {{% bible val="1.Mose:11,1-9" link="gen:11,1-9" lang="de" %}} | [""Neuer Himmel und neue Erde (Kap. 21-22)"": Identität](/quick/content/paradise#None) |
-| {{% bible val="1.Mose:11,1-10" link="gen:11,1-10" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": Namen für sich zu machen und wollten einen Turm bauen, der bis in den Himmel reich](/appl/background/israel/_index#bfb6) |
+| {{% bible val="1.Mose:11,1-10" link="gen:11,1-10" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": Namen für sich zu machen und wollten einen Turm bauen, der bis in den Himmel reich](/appl/background/israel/#bfb6) |
 | {{% bible val="1.Mose:11,27-31" link="gen:11,27-31" lang="de" %}} | ["Der Patriarch": Geschichte von Terach und seinen drei Söhnen Haran, Abram und Nahor. Als Haran stirbt](/expl/background/israel/the-role-of-family-in-the-bible#75b9) |
 | {{% bible val="1.Mose:11,31" link="gen:11,31" lang="de" %}} | ["Die Geschichte vor Karkemisch": Abraham stammte](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#dd2e) |
-| {{% bible val="1.Mose:12,1-2" link="gen:12,1-2" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": entschied sich, aus Abraham (zu der Zeit immer noch Abram genannt) einen Namen zu machen](/appl/background/israel/_index#bfb6) |
+| {{% bible val="1.Mose:12,1-2" link="gen:12,1-2" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": entschied sich, aus Abraham (zu der Zeit immer noch Abram genannt) einen Namen zu machen](/appl/background/israel/#bfb6) |
 | {{% bible val="1.Mose:12,1-3" link="gen:12,1-3" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": Gott erwählte Abraham und machte aus ihm einen Namen](/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
 | {{% bible val="1.Mose:12,1-4" link="gen:12,1-4" lang="de" %}} | ["Der Patriarch": Sohn (Lot), den Abram wie seinen eigenen Sohn behandelt](/expl/background/israel/the-role-of-family-in-the-bible#75b9) |
 | {{% bible val="1.Mose:12,2-3" link="gen:12,2-3" lang="de" %}} | ["Ursprung des Tages des Herrn": ein Segen für die Nationen zu sein](/expl/background/israel/the-day-of-the-lord#4fec) |
 | {{% bible val="1.Mose:12,2-3" link="gen:12,2-3" lang="de" %}} | ["Die internen Features": Abraham, um ein Segen für alle Völker zu sein](/expl/content/paradise/the-new-jerusalem#284a) |
-| {{% bible val="1.Mose:12,3" link="gen:12,3" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": seine Nachkommen ein Segen für die Welt sein sollten](/appl/background/israel/_index#bfb6) |
+| {{% bible val="1.Mose:12,3" link="gen:12,3" lang="de" %}} | ["Der Ursprung und der Sinn von Israel": seine Nachkommen ein Segen für die Welt sein sollten](/appl/background/israel/#bfb6) |
 | {{% bible val="1.Mose:12,3" link="gen:12,3" lang="de" %}} | ["Er kommt mit den Wolken": Verheißung an Abraham stammt, dass durch ihn alle Geschlechter der Erde gesegnet werden](/expl/content/vision/setting-the-foundation#aaf2) |
 | {{% bible val="1.Mose:14" link="gen:14,-1" lang="de" %}} | ["Die Wichtigkeit der Familie": aus der Gefangenschaft befreien](/expl/background/israel/the-role-of-family-in-the-bible#7234) |
 | {{% bible val="1.Mose:15" link="gen:15,-1" lang="de" %}} | ["Der Bund mit Abraham": Abraham beschreibt solch eine Szene](/expl/background/israel/gods-covenant#7cbd) |

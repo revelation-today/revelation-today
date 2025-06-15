@@ -8,7 +8,7 @@ docType: expl
 
 | Verse | Reference |
 |-------|-----------|
-| {{% bible val="Mark:1,1-15" link="mrk:1,1-15" lang="en" %}} | ["Already but not yet": He says that the Day of the Lord has come (the Kingdom of God)](/expl/background/israel/jesus-and-the-covenant#e3c4) |
+| {{% bible val="Mark:1,1-15" link="mrk:1,1-15" lang="en" %}} | ["Already but not yet {#already}": He says that the Day of the Lord has come (the Kingdom of God)](/expl/background/israel/jesus-and-the-covenant#already) |
 | {{% bible val="Mark:1,2" link="mrk:1,2" lang="en" %}} | ["The exodus in Mark": I will send my messenger](/expl/background/israel/the-second-exodus#70f4) |
 | {{% bible val="Mark:1,3" link="mrk:1,3" lang="en" %}} | ["The exodus in Mark": A voice of one calling in the wilderness, “Prepare the way for the Lord, make straight paths for him.”](/expl/background/israel/the-second-exodus#70f4) |
 | {{% bible val="Mark:1,4" link="mrk:1,4" lang="en" %}} | ["The exodus in Mark": “And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.](/expl/background/israel/the-second-exodus#70f4) |
@@ -28,7 +28,7 @@ docType: expl
 | {{% bible val="Mark:5,43" link="mrk:5,43" lang="en" %}} | ["The twofold attack": Mk.5/43](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Mark:10,29-30" link="mrk:10,29-30" lang="en" %}} | ["The story of Israel": Mark](/appl/topics/hero/who-rules-the-world#af6b) |
 | {{% bible val="Mark:13" link="mrk:13,-1" lang="en" %}} | ["The teachings of Jesus": the destruction of Jerusalem and the temple](/expl/background/israel/jesus-and-the-covenant#b343) |
-| {{% bible val="Mark:13" link="mrk:13,-1" lang="en" %}} | ["An apocalypse {#apocalypse}": Mk.13](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
+| {{% bible val="Mark:13" link="mrk:13,-1" lang="en" %}} | ["An apocalypse {#apocalypse}": Mark 13](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Mark:13,5-9" link="mrk:13,5-9" lang="en" %}} | ["The mystery of the first horseman": Mark](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Mark:13,10" link="mrk:13,10" lang="en" %}} | ["Interpretations": the gospel is being preached all over the world](/expl/content/seals/the-mystery-of-the-four-horse-men#1fbb) |
 | {{% bible val="Mark:13,10" link="mrk:13,10" lang="en" %}} | ["The mystery of the first horseman": refer to the proclaiming of the gospel before all the bad things happen](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |

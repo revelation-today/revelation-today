@@ -45,7 +45,7 @@ docType: expl
 | {{% bible val="Jesaja:23,17" link="isa:23,17" lang="de" %}} | ["Der wirtschaftliche Aspekt": durch ihren Handel ihren Hurenlohn zurückerhält](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Jesaja:25,8" link="isa:25,8" lang="de" %}} | ["Wischt alle Tränen ab": Verheißung aus Jesaja, wo Tränen und Tod fliehen](/expl/content/paradise/the-new-jerusalem#a74c) |
 | {{% bible val="Jesaja:27,1" link="isa:27,1" lang="de" %}} | ["Der Kontext der ersten Leser": Jesaja](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#a261) |
-| {{% bible val="Jesaja:27,1" link="isa:27,1" lang="de" %}} | ["Ein Sack voller Referenzen": nicht aber für Gott](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Jesaja:27,1" link="isa:27,1" lang="de" %}} | ["Leviathan und Behemoth": in Bezug auf Gott](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Jesaja:28,16" link="isa:28,16" lang="de" %}} | ["Das Ende der Reiche": Eckstein](/expl/bible/daniel/the-four-kingdoms-in-daniel#415e) |
 | {{% bible val="Jesaja:32,15" link="isa:32,15" lang="de" %}} | ["Das Ausgießen des Geistes": (Jes.32/15)](/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Jesaja:35,7" link="isa:35,7" lang="de" %}} | ["Die internen Features": kurz vorher Wassermassen fließen](/expl/content/paradise/the-new-jerusalem#284a) |

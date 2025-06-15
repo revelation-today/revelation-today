@@ -8,7 +8,7 @@ docType: expl
 
 | Verse | Reference |
 |-------|-----------|
-| {{% bible val="Zechariah:1,7" link="zec:1,7" lang="en" %}} | ["A prophecy {#prophecy}": done more elaborately](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Zechariah:1,7" link="zec:1,7" lang="en" %}} | ["A prophecy {#prophecy}": more elaborately](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Zechariah:1,8-15" link="zec:1,8-15" lang="en" %}} | ["First observations": four horses of different colors to inspect the earth](/expl/content/seals/the-mystery-of-the-four-horse-men#0edc) |
 | {{% bible val="Zechariah:1,16" link="zec:1,16" lang="en" %}} | ["The measurement of the city": God has mercy again over Jerusalem](/expl/content/paradise/the-new-jerusalem#5b7b) |
 | {{% bible val="Zechariah:2,2" link="zec:2,2" lang="en" %}} | ["The measurement of the city": city](/expl/content/paradise/the-new-jerusalem#5b7b) |

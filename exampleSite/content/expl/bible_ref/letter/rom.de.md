@@ -15,8 +15,8 @@ docType: expl
 | {{% bible val="Römer:8,14-39" link="rom:8,14-39" lang="de" %}} | ["Die Geschichte Israels": erfahrbar im Leben mit dem Heiligen Geist](/appl/topics/hero/who-rules-the-world#e6be) |
 | {{% bible val="Römer:8,19-22" link="rom:8,19-22" lang="de" %}} | ["Der Hintergrund": Bittet die Schöpfung Got](/expl/content/bowls/the-bowls-of-wrath#3526) |
 | {{% bible val="Römer:8,35-36" link="rom:8,35-36" lang="de" %}} | ["Die Große Trübsal": sie kann uns nicht von Jesus trennen,](/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
-| {{% bible val="Römer:9" link="rom:9,-1" lang="de" %}} | ["Ein neuer Anfang": Die Gemeinde hat Israel nicht ersetzt, sondern Israel hat seine Mission erfüllt, indem es die Nationen zum neuen Israel hinzugefügt hat](/appl/background/israel/_index#12dc) |
-| {{% bible val="Römer:9" link="rom:9,-1" lang="de" %}} | [""Historischer Hintergrund"": ihre Wurzel in den Juden](/quick/background/history/_index#None) |
+| {{% bible val="Römer:9" link="rom:9,-1" lang="de" %}} | ["Ein neuer Anfang": Die Gemeinde hat Israel nicht ersetzt, sondern Israel hat seine Mission erfüllt, indem es die Nationen zum neuen Israel hinzugefügt hat](/appl/background/israel/#12dc) |
+| {{% bible val="Römer:9" link="rom:9,-1" lang="de" %}} | [""Historischer Hintergrund"": ihre Wurzel in den Juden](/quick/background/history/#None) |
 | {{% bible val="Römer:9,25" link="rom:9,25" lang="de" %}} | ["Geliebt vom Herrn": Im Brief an die Römer](/expl/background/israel/the-church-is-part-of-israel#e326) |
 | {{% bible val="Römer:11,13-24" link="rom:11,13-24" lang="de" %}} | ["Die Gemeinde und Israel": Gemeinde nun Teil von Israel ist](/expl/topics/others/dispensionalism-and-its-critic#049e) |
 | {{% bible val="Römer:11,16" link="rom:11,16" lang="de" %}} | ["Die beiden Ernten": Unterpfand für die gesamte Ernte](/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |

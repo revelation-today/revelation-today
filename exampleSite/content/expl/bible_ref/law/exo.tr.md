@@ -67,12 +67,12 @@ Bu kitapta kullanılan 97 Kutsal Kitap pasajı vardır
 | {{% bible val="Mısırdan Çıkış:12,14-20" link="exo:12,14-20" lang="tr" %}} | ["İlk doğanın ölümü": mayasız ekmek bayramı başlatılır](/expl/bible/exodus/the-plagues-in-egypt#d9b7) |
 | {{% bible val="Mısırdan Çıkış:12,35-36" link="exo:12,35-36" lang="tr" %}} | ["İkinci bir Hyksos’a karşı mücadele": Mısır’dan ayrıldıklarında ](/expl/bible/exodus/the-birth-of-moses#e6bc) |
 | {{% bible val="Mısırdan Çıkış:12,37" link="exo:12,37" lang="tr" %}} | ["Bir daha asla.": zorunda kaldı](/expl/bible/exodus/the-story-before-the-exodus#c93d) |
-| {{% bible val="Mısırdan Çıkış:12,38" link="exo:12,38" lang="tr" %}} | ["İsrail’in kökeni ve amacı": Mısır’dan ayrıldıklarında pek çok kişi İsrail’e katıldı](/appl/background/israel/_index#ce07) |
+| {{% bible val="Mısırdan Çıkış:12,38" link="exo:12,38" lang="tr" %}} | ["İsrail’in kökeni ve amacı": Mısır’dan ayrıldıklarında pek çok kişi İsrail’e katıldı](/appl/background/israel/#ce07) |
 | {{% bible val="Mısırdan Çıkış:12,38" link="exo:12,38" lang="tr" %}} | ["Rab’bin Günü’nün Kökeni": İsrail’in bir parçası olan pek çok başka insanı da beraberinde götürdü](/expl/background/israel/the-day-of-the-lord#45df) |
 | {{% bible val="Mısırdan Çıkış:12,38" link="exo:12,38" lang="tr" %}} | ["Yahudi olmayanlar İsrail’in bir parçası olur": Epigtyalılar](/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Mısırdan Çıkış:12,38" link="exo:12,38" lang="tr" %}} | ["İlk doğanın ölümü": birçoğu da bunu yaptı](/expl/bible/exodus/the-plagues-in-egypt#d9b7) |
 | {{% bible val="Mısırdan Çıkış:12,43-49" link="exo:12,43-49" lang="tr" %}} | ["İlk doğanın ölümü": İsrail’e katılmak isteyen herkese açık](/expl/bible/exodus/the-plagues-in-egypt#d9b7) |
-| {{% bible val="Mısırdan Çıkış:12,48-49" link="exo:12,48-49" lang="tr" %}} | ["İsrail’in kökeni ve amacı": Orada kalıcı olarak yaşamak ve antlaşmanın bir parçası olmak isteyen herkes İsrail olur](/appl/background/israel/_index#ce07) |
+| {{% bible val="Mısırdan Çıkış:12,48-49" link="exo:12,48-49" lang="tr" %}} | ["İsrail’in kökeni ve amacı": Orada kalıcı olarak yaşamak ve antlaşmanın bir parçası olmak isteyen herkes İsrail olur](/appl/background/israel/#ce07) |
 | {{% bible val="Mısırdan Çıkış:12,48-51" link="exo:12,48-51" lang="tr" %}} | ["Yahudi olmayanlar İsrail’in bir parçası olur": aynı haklara sahip](/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Mısırdan Çıkış:13,8-9" link="exo:13,8-9" lang="tr" %}} | ["İlk doğanın ölümü": Eldeki ve alındaki işaretten söz edilir](/expl/bible/exodus/the-plagues-in-egypt#d9b7) |
 | {{% bible val="Mısırdan Çıkış:13,16" link="exo:13,16" lang="tr" %}} | ["İkinci canavar": sadakate neden olan Tanrı’nın gücünün anımsanmasının bir resmiydi](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#929e) |
@@ -103,5 +103,5 @@ Bu kitapta kullanılan 97 Kutsal Kitap pasajı vardır
 | {{% bible val="Mısırdan Çıkış:32,19" link="exo:32,19" lang="tr" %}} | ["Baal-Peor ile ilgili durum": olası değil](/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Mısırdan Çıkış:33,17-23" link="exo:33,17-23" lang="tr" %}} | ["Kutsal Şehir Kudüs": Tanrı’nın görkemi, kilisenin de yansıtması gereken merhameti ve şefkatidir](/expl/content/paradise/the-new-jerusalem#2a00) |
 | {{% bible val="Mısırdan Çıkış:33,18-20" link="exo:33,18-20" lang="tr" %}} | ["Taht odası": Musa Tanrı’nın yüceliğini görmek istediğinde göremedi, ama bunun yerine Tanrı ona merhametini gösterdi, bu nedenle Tanrı’nın yüceliği O’nun merhameti olarak tanımlanabilir.](/expl/content/worship/worship-in-the-throne-room#54a4) |
-| {{% bible val="Mısırdan Çıkış:34,28" link="exo:34,28" lang="tr" %}} | ["İsa": Emirlerin alınması](/appl/background/overview/_index#3318) |
+| {{% bible val="Mısırdan Çıkış:34,28" link="exo:34,28" lang="tr" %}} | ["İsa": Emirlerin alınması](/appl/background/overview/2#3318) |
 | {{% bible val="Mısırdan Çıkış:34,28" link="exo:34,28" lang="tr" %}} | ["Bazı temel bilgiler": örneğin Musa Sina Dağı’nda yasayı alırken 40 gün oruç tuttu](/expl/content/beasts/666-the-number-of-the-beast#bdd5) |
