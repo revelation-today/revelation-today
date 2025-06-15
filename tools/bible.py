@@ -6,8 +6,6 @@ from bible_config import *
 
 BASE = os.path.join(os.path.dirname(__file__), "..", "exampleSite", "content", "expl")
 BIBLE_BASE = os.path.join(BASE, "bible_ref")
-print(os.path.abspath(BASE))
-print(os.path.abspath(BIBLE_BASE))
 LANG_BASE = os.path.join(BASE, "..", "..", "i18n")
 
 if os.path.exists(BIBLE_BASE):
@@ -72,7 +70,9 @@ def parse_line(file_path, lang, line, last_link, last_header, title):
     return last_link, last_header, title
                 
 def parse_bible(file_path, lang, title, last_header, last_link, link, val):
-    book = link.split(":")[0]
+    book = link.split(":")[0]#
+    if book not in BOOKS:
+        print("Did not find book {0} in {1}, {2}".format(book, file_path, val))
     book_type = BOOKS[book]["type"]
     chapter = link.split(":")[1].split(",")[0]
     chapter_st = int(chapter.split("-")[0])
@@ -186,10 +186,10 @@ def write_verse(fp, lang, book, data):
     chapter = str(data[6])
     verse = str(data[7])
     filename = data[0]
-    filename = re.sub("\\\\", "/", filename)
-    filename = re.sub("\./\.\./exampleSite/content", "", filename)
-    filename = re.sub("\.md", "", filename)
-    filename = re.sub("\." + lang, "", filename)
+    filename = re.sub(r"\\\\", "/", filename)
+    filename = re.sub(r"\./\.\./exampleSite/content", "", filename)
+    filename = re.sub(r"\.md", "", filename)
+    filename = re.sub(r"\." + lang, "", filename)
     filename = filename.split("..")[-1]
     ref = str(data[4])
     if verse and verse != "-1":
