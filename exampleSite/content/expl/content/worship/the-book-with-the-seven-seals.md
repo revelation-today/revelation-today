@@ -28,8 +28,7 @@ So, when the voice asks "who is able to open the scroll", this means "who is abl
 It is not clear at this point to what is refers concretly: You could call it the prophets, or the Old Testament, or just God’s plan, etc. but one thing is clear: It means who will rule the world. 
 {{% bible val="Since it seems thatno one was able to open it, John is obviously in deep trouble" link="rev:5,2-4" lang="en" %}}.
 
-{{% bible val="But there is one who can open it: The Lion of Judah. This is what John hears, but what he sees is the slaughtered lamb. 
-They are two aspects of the same reality: the apparently helpless lamb is the victorious, invincible lion" link="rev:5,5-7" lang="en" %}}: 
+{{% bible val="But there is one who can open it: The Lion of Judah. This is what John hears, but what he sees is the slaughtered lamb. They are two aspects of the same reality: the apparently helpless lamb is the victorious, invincible lion" link="rev:5,5-7" lang="en" %}}: 
 It is the {{% int_link val="mystery of a hero" link="/appl/topics/hero/a-real-hero" %}}. This is a challenging image, because all apocalyptic hopes present a strong ruler who overthrows the forces of evil with power.
 
 Another surprising aspect is the worship of the Lamb.
@@ -43,8 +42,7 @@ And God let this happen. This shows that Jesus is really God, because only God i
 When Jesus opens the seals, He makes sure {{% int_link val="that the devil's plans are exposed" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}. 
 Satan wants to rule the world, and the first four seals show what he intends to bring about on the earth.
 
-{{% bible val="Since the saints are not excluded from harship (we will see why during the trumpets), they suffer and ask when this will end. 
-Their request is granted (they receive white linen garments). From there on the vindication of the saints and the answer to their prayers is a common theme in the book." link="rev:6,9-11" lang="en" %}}
+{{% bible val="Since the saints are not excluded from hardship (we will see why during the trumpets), they suffer and ask when this will end. Their request is granted (they receive white linen garments). From there on the vindication of the saints and the answer to their prayers is a common theme in the book." link="rev:6,9-11" lang="en" %}}
 
 {{% bible val="The main reaction is Jesus’ great judgment" link="rev:6,12-17" lang="en" %}}. This is truly the {{% int_link val="Day of the Lord" link="/expl/background/israel/the-day-of-the-lord" %}}, 
 where everyone is accountable and cannot hide, which is the Last Judgement.
