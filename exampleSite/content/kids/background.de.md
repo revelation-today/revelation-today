@@ -1,7 +1,7 @@
 ---
 title: "Hintergrund"
 weight: 5
-prev: /welcome/kids
+prev: /kids/tour
 next: /kids/content/vision
 ---
 
