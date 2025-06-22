@@ -20,26 +20,26 @@ layout: hextra-home
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-button text="Why this website?" link="/welcome/teaser" >}}
+{{< hextra/hero-button text="Why this website?" link="welcome/teaser" >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-button text="Quick explanation of the Book of Revelation" link="/quick/content" >}}
+{{< hextra/hero-button text="Quick explanation of the Book of Revelation" link="quick/content" >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-button text="Preaching inspirations for the Book of Revelation" link="/appl/content" >}}
+{{< hextra/hero-button text="Preaching inspirations for the Book of Revelation" link="appl/content" >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-button text="All the information to understand the Book of Revelation" link="/expl/content" >}}
+{{< hextra/hero-button text="All the information to understand the Book of Revelation" link="expl/content" >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-button text="Background information for the Book of Revelation" link="/expl/background" >}}
+{{< hextra/hero-button text="Background information for the Book of Revelation" link="expl/background" >}}
 </div>
 
 <div class="hx:mb-6">
-{{< hextra/hero-button text="Questions? Contact me" link="/contact" >}}
+{{< hextra/hero-button text="Questions? Contact me" link="contact" >}}
 </div>
 
