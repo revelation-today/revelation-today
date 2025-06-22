@@ -35,8 +35,9 @@
             {{- $expl = .GetPage .Params.expl -}}
           {{- end -}}            
           {{- $about := .GetPage "/about/ressources" -}}
+          {{- $help := .GetPage "/help" -}}
         {{- if $prev -}}
-            {{ partial "custom/page" (dict "context" . "base" $base "prev" $prev "next" $next "story" $story "quick" $quick "appl" $appl "expl" $expl "about" $about "title" .Title "content" .Content "docType" .Params.docType "lang" .Language.Lang "relPermalink" .RelPermalink "readingTime" .ReadingTime "params" .Params "regPages" .Site.RegularPages) -}}
+            {{ partial "custom/page" (dict "context" . "base" $base "prev" $prev "next" $next "story" $story "quick" $quick "appl" $appl "expl" $expl "about" $about "help" $help "title" .Title "content" .Content "docType" .Params.docType "lang" .Language.Lang "relPermalink" .RelPermalink "readingTime" .ReadingTime "params" .Params "regPages" .Site.RegularPages) -}}
         {{- else -}}
           <h1>{{ .Title }}</h1>
           {{ .Content }}

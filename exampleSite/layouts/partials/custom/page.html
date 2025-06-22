@@ -9,6 +9,7 @@
 {{- $appl := .appl -}}
 {{- $expl := .expl -}}
 {{- $about := .about -}}
+{{- $help := .help -}}
 {{- $title := .title -}}
 {{- $content := .content -}}
 {{- $lang := .lang -}}
@@ -45,7 +46,7 @@
 {{- end -}}
 
 {{- partial "custom/title.html" (dict "docType" $docType "title" $title) -}}
-    {{ partial "shortcodes/card" (dict "title" $howToRead  "link" "/help") }}
+    {{ partial "shortcodes/card" (dict "title" $howToRead  "link" $help.RelPermalink) }}
             {{/* Scroll To Bottom */}}
      <center>
         <button aria-hidden="false" id="toBottom" onClick="scrollDown();" class="hx-transition-all hx-duration-75 hx-opacity-100 hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50">

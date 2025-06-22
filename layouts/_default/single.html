@@ -44,7 +44,8 @@
             {{- $expl = .GetPage .Params.expl -}}
           {{- end -}}            
           {{- $about := .GetPage "/about/ressources" -}}
-        {{ partial "custom/page" (dict "context" . "base" $base "prev" $prev "next" $next "story" $story "quick" $quick "appl" $appl "expl" $expl "about" $about "title" .Title "content" .Content "docType" .Params.docType "lang" .Language.Lang "relPermalink" .RelPermalink "readingTime" .ReadingTime "params" .Params "regPages" .Site.RegularPages) -}}
+          {{- $help := .GetPage "/help" -}}
+               {{ partial "custom/page" (dict "context" . "base" $base "prev" $prev "next" $next "story" $story "quick" $quick "appl" $appl "expl" $expl "about" $about "help" $help "title" .Title "content" .Content "docType" .Params.docType "lang" .Language.Lang "relPermalink" .RelPermalink "readingTime" .ReadingTime "params" .Params "regPages" .Site.RegularPages) -}}
 
         <div class="hx-mt-16"></div>
         {{ partial "components/comments.html" . }}

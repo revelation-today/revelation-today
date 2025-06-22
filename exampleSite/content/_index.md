@@ -19,32 +19,27 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<img src="https://revelation-today.github.io/revelation-today/images/UnderConstruction.jpg" width="200">
+<div class="hx:mb-6">
+{{< hextra/hero-button text="Why this website?" link="/welcome/teaser" >}}
+</div>
 
-<div class="hx-mt-6"></div>
+<div class="hx:mb-6">
+{{< hextra/hero-button text="Quick explanation of the Book of Revelation" link="/quick/content" >}}
+</div>
 
-{{< hextra/feature-grid>}}
-  {{< hextra/feature-card
-    title="Why this book?"
-    link="welcome/teaser"
-    subtitle="Why you should understand the Book of Revelation!"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/man.jpg"
-    source="https://pixabay.com/photos/man-thinking-doubt-question-mark-5723449/"
-    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
-  >}}
-  </br></br>
+<div class="hx:mb-6">
+{{< hextra/hero-button text="Preaching inspirations for the Book of Revelation" link="/appl/content" >}}
+</div>
 
-  {{< hextra/feature-card
-    title="Get started"
-    link="welcome"
-    subtitle="Let's start!"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/gloves.jpg"
-    source="https://pixabay.com/photos/gloves-tools-protection-1192164/"
-    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
-  >}}
-{{< /hextra/feature-grid >}}
+<div class="hx:mb-6">
+{{< hextra/hero-button text="All the information to understand the Book of Revelation" link="/expl/content" >}}
+</div>
+
+<div class="hx:mb-6">
+{{< hextra/hero-button text="Background information for the Book of Revelation" link="/expl/background" >}}
+</div>
+
+<div class="hx:mb-6">
+{{< hextra/hero-button text="Questions? Contact me" link="/contact" >}}
+</div>
 
