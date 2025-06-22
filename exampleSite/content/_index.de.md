@@ -18,31 +18,41 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
+{{< hextra/feature-grid >}}
 
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Warum diese Webseite?" link="welcome/teaser" >}}
-</div>
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Kurzerklärung des Buches Offenbarung" link="quick/content" >}}
-</div>
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Predigt-Inspirationen" link="appl/content" >}}
-</div>
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Wie erkläre ich das Buch Offenbarung für Kinder" link="kids/content" >}}
-</div>
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="All Infos, um das Buch Offenbarung zu verstehen" link="expl/content" >}}
-</div>
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Hintergrund Informationen zum Buch Offenbarung" link="expl/background" >}}
-</div>
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Fragen? Kontaktiere mich" link="contact" >}}
-</div>
+  {{< hextra/feature-card
+    title="Warum diese Webseite?"
+    icon="sparkles"
+    link="welcome/teaser"
+  >}}
+  {{< hextra/feature-card
+    title="Kurzerklärung des Buches Offenbarung"
+    icon="sparkles"
+    link="quick/content"
+  >}}
+  {{< hextra/feature-card
+    title="Predigt-Inspirationen"
+    icon="sparkles"
+    link="appl/content"
+  >}}
+  {{< hextra/feature-card
+    title="Wie erkläre ich das Buch Offenbarung für Kinder"
+    icon="sparkles"
+    link="kids/content"
+  >}}
+  {{< hextra/feature-card
+    title="Alle Infos, um das Buch Offenbarung zu verstehen"
+    icon="sparkles"
+    link="expl/content"
+  >}}
+  {{< hextra/feature-card
+    title="Hintergrund Informationen zum Buch Offenbarung"
+    icon="sparkles"
+    link="expl/background"
+  >}}
+  {{< hextra/feature-card
+    title="Fragen? Kontaktier' mich"
+    icon="sparkles"
+    link="contact"
+  >}}
+{{< /hextra/feature-grid >}}

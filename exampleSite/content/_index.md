@@ -19,27 +19,36 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Why this website?" link="welcome/teaser" >}}
-</div>
+{{< hextra/feature-grid >}}
 
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Quick explanation of the Book of Revelation" link="quick/content" >}}
-</div>
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Preaching inspirations for the Book of Revelation" link="appl/content" >}}
-</div>
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="All the information to understand the Book of Revelation" link="expl/content" >}}
-</div>
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Background information for the Book of Revelation" link="expl/background" >}}
-</div>
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Questions? Contact me" link="contact" >}}
-</div>
-
+  {{< hextra/feature-card
+    title="Why this website?"
+    icon="sparkles"
+    link="welcome/teaser"
+  >}}
+  {{< hextra/feature-card
+    title="Quick explanation of the Book of Revelation"
+    icon="sparkles"
+    link="quick/content"
+  >}}
+  {{< hextra/feature-card
+    title="Preaching inspirations for the Book of Revelation"
+    icon="sparkles"
+    link="appl/content"
+  >}}
+  {{< hextra/feature-card
+    title="All the information to understand the Book of Revelation"
+    icon="sparkles"
+    link="expl/content"
+  >}}
+  {{< hextra/feature-card
+    title="Background information for the Book of Revelation"
+    icon="sparkles"
+    link="expl/background"
+  >}}
+  {{< hextra/feature-card
+    title="Questions? Contact me"
+    icon="sparkles"
+    link="contact"
+  >}}
+{{< /hextra/feature-grid >}}
