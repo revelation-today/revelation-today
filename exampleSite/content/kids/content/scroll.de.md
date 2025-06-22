@@ -14,7 +14,7 @@ docType: kids
 
 ## Überblick
 
-Jtzt wird es Zeit für das zweite Geheimnis. Das erste Geheimnis war das Geheimnis der Gemeinde. Wir haben Jesus gesehen, der am Kreuz alles besiegt hat, wie die Gemeinde als Armee auftritt und schließlich im Gebet den Menschen alle falschen Sicherheiten wegnimmt.
+Jetzt wird es Zeit für das zweite Geheimnis. Das erste Geheimnis war das Geheimnis der Gemeinde. Wir haben Jesus gesehen, der am Kreuz alles besiegt hat, wie die Gemeinde als Armee auftritt und schließlich im Gebet den Menschen alle falschen Sicherheiten wegnimmt.
 
 Doch das schien keinen Erfolg zu haben, denn am Ende hingen die Menschen noch viel mehr an den falschen Dingen. Deswegen braucht es das zwite Geheimnis: Das Geheimnis Gottes. Und darum geht es hier.
 
