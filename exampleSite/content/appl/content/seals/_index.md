@@ -2,7 +2,7 @@
 title: "Ch.5-6: The paradox of the seven seals"
 weight: 40
 base: /quick/content/seals
-story: /story/tour
+story: /story/content/seals
 deeper:
     - name: A real hero
       link: /topics/hero/short/a-real-hero

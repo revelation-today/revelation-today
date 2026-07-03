@@ -2,7 +2,7 @@
 title: "Ch.10: A little scroll with big impact"
 weight: 70
 base: /quick/content/scroll
-story: /story/tour
+story: /story/content/scroll
 deeper:
     - name: The little scroll
       link:  /expl/content/scroll/the-little-scroll

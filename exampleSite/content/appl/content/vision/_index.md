@@ -2,7 +2,7 @@
 title: "Ch.1: The vision"
 weight: 10
 base: /quick/content/vision
-story: /story/tour
+story: /story/content/vision
 deeper:
     - name: How the book starts
       link:  /expl/content/letters/setting-the-foundation
@@ -53,3 +53,9 @@ Well, the book of Revelation agrees and focuses on the last point, but how is th
 
 - To be a visible example and witness to the world
 - Its strength lies in its dependence on Jesus.
+
+### Reflection
+
+- This vision defines the church's purpose as being light while depending on Jesus. Which half of that do you find harder?
+- What would it look like for your church to measure success the way Jesus does here, rather than by numbers or activity?
+- Stars only shine while held in Jesus' hand. Where in your life have you tried to shine under your own strength instead?

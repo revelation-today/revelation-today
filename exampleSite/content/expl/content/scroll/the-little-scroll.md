@@ -2,7 +2,7 @@
 title: "The little scroll"
 weight: 2
 base: /quick/content/scroll
-story: /story/tour
+story: /story/content/scroll
 prev: /expl/content/trumpets/the-trumpets-in-revelation
 next: /expl/content/witnesses/the-two-witnesses
 docType: expl

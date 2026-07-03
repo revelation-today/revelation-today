@@ -54,3 +54,10 @@ But the {{% int_link val="Day of the Lord has only partially arrived, so we are 
 
 {{% bible val="The church did not replace Israel, but Israel fulfilled its mission by reaching the Gentiles so that they (and any Jew who is willing) could form the Church" link="rom:9" lang="en" %}}.
 
+### Reflection
+
+- Before reading this, how did you think about the relationship between Israel and the church?
+- Why does it matter that the church didn't replace Israel, but that Israel's mission was fulfilled through reaching the nations?
+- What difference does it make to your reading of Revelation to know that Jews and Gentiles together make up "true Israel"?
+- Where do you see old family, ethnic, or tribal loyalties creating division inside the church today?
+

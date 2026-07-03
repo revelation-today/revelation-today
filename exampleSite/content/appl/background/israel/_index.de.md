@@ -42,3 +42,10 @@ Der {{% int_link val="Tag des Herrn ist erst teilweise gekommen, wir leben also 
 
 {{% bible val="Die Gemeinde hat Israel nicht ersetzt, sondern Israel hat seine Mission erfüllt, indem es die Nationen zum neuen Israel hinzugefügt hat" link="rom:9" lang="de" %}}.
 
+### Reflektion
+
+- Wie hast du dir das Verhältnis zwischen Israel und der Gemeinde vorgestellt, bevor du das hier gelesen hast?
+- Warum ist es wichtig, dass die Gemeinde Israel nicht ersetzt hat, sondern dass Israels Auftrag durch die Nationen erfüllt wurde?
+- Was verändert es an deinem Verständnis der Offenbarung, dass Juden und Nationen zusammen das "wahre Israel" bilden?
+- Wo siehst du heute, dass alte familiäre, ethnische oder Gruppen-Loyalitäten Spaltung in die Gemeinde bringen?
+

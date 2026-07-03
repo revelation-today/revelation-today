@@ -4,7 +4,7 @@ weight: 60
 story: /story/tour
 appl: /appl/content/trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
-prev: /kids/content/seals
+prev: /kids/content/army
 next: /kids/content/scroll
 docType: kids
 ---

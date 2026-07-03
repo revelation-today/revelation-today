@@ -2,7 +2,7 @@
 title: "The letters to the seven churches"
 weight: 7
 base: /quick/content/letters
-story: /story/tour
+story: /story/content/letters
 prev: /expl/content/letters/the-angel-of-the-churches
 next: /expl/content/letters/the-letter-to-the-church-in-ephesus
 docType: expl

@@ -71,3 +71,9 @@ Inwieweit beeinflusst deiner Meinung nach deine Vorprägung das, was du in dem B
 Ist dir bewusst, dass die zentralen Themen Anbetung, Zeugnis und Wiederherstellung sind und dass viele der heutigen Anbetungslieder von der Offenbarung inspiriert sind?
 
 Bist du bereit, das Buch mit neuen Augen zu sehen? Vielleicht wirst du wie in diesem [Video](https://www.youtube.com/watch?v=KB_lTKZm1Ts&amp;pp=ygUTYXdhcmVuZXNzIHRlc3QgYmVhcg%3D%3D) überrascht sein (Ich weiß, es ist alt, aber vielleicht nicht für jeden).
+
+### Reflektion
+
+- Welches der drei Genres (Brief, Prophetie, Apokalypse) hattest du vorher noch nie bedacht?
+- Verändert es etwas für dich zu wissen, dass der "Held" dieser Apokalypse ein geschlachtetes Lamm ist, kein siegreicher Krieger?
+- Was hast du über die Offenbarung angenommen, das du jetzt überdenken musst?

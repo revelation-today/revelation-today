@@ -66,3 +66,10 @@ Zorlukları da güçlü yanları gibi bireyseldir, bu nedenle bazı kiliselerin 
 - Sevgi gerçek değil: Asıl çağrılarının izini kaybettiler, belki de tüm iyi şeylere kendilerini kaptırdılar ve tüm bunların nedenini unuttular.
 - Kötü liderlik ve aldatma: Önderlik yanlış öğretime izin verdi, hatta bunun kaynağı oldu. Bunun tüm kilise üzerinde yıkıcı bir etkisi oldu.
 - Yanlış öz değerlendirme: Övgü almayan Laodikya kilisesi büyük olasılıkla kendini çok beğenen bir kiliseydi. Sardes de kendi başlarının çaresine bakabileceklerini düşünüyordu. Bu, yıkıcı olan çok kötü bir yanılgıydı.
+
+### Yansıma
+
+- Bu yedi kilisenin hangi güçlü yönlerini kendi kilisende görüyorsun? Hangi zorluklarını?
+- Efes her şeyi doğru yaptı ama ilk sevgisini kaybetti - bu, kimse fark etmeden sende ya da kilisende de olabilir mi?
+- Bugün hangisi daha tehlikeli: kilisenin dışından gelen baskı mı, yoksa içeride sessizce hoş görülen yanlış öğreti mi?
+- İsa mücadele eden bir kiliseyi asla bırakmaz, Laodikya’yı bile. Bunu bugün nerede duymaya ihtiyacın var?

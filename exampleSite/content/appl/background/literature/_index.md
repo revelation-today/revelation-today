@@ -60,3 +60,9 @@ How much does reading this book through your interpretive lens affect what you n
 Did you know that the key themes are worship, witness, and restoration, and that many of today’s worship songs are based on this book?
 
 Would you be willing to see this with fresh eyes? You might be surprised like in this [video](https://www.youtube.com/watch?v=KB_lTKZm1Ts&amp;pp=ygUTYXdhcmVuZXNzIHRlc3QgYmVhcg%3D%3D) (I know it’s old, but maybe not for everyone).
+
+### Reflection
+
+- Which of the three genres (letter, prophecy, apocalypse) had you never considered before reading this?
+- Does it change anything for you to know the "hero" of this apocalypse is a slaughtered lamb, not a conquering warrior?
+- What's one thing you assumed about Revelation that you've now had to reconsider?

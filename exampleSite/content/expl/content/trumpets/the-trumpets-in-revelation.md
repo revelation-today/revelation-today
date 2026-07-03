@@ -2,7 +2,7 @@
 title: "The trumpets in Revelation"
 weight: 2
 base: /quick/content/trumpets
-story: /story/tour
+story: /story/content/trumpets
 prev: /expl/content/army/the-end-time-and-the-great-tribulation
 next: /expl/content/scroll/the-little-scroll
 docType: expl

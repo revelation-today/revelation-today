@@ -2,7 +2,7 @@
 title: "Ch.2-3: The problem"
 weight: 20
 base: /quick/content/letters
-story: /story/tour
+story: /story/content/letters
 deeper:
     - name: The angels of the churches
       link:  /expl/content/letters/the-angel-of-the-churches
@@ -67,3 +67,10 @@ Their challenges are as individual as their strengths, so some of the strengths 
 - Love is not genuine: They have lost sight of their original calling, perhaps getting so caught up in all the good things that they have forgotten the reason for it all.
 - Poor leadership and deception: The leadership allowed or was the source of false teaching. This had a devastating effect on the entire church.
 - False self-assessment: Laodicea, which received no praise, was probably a church that thought highly of itself. Also, Sardes thought they could do it on their own. This was a very bad misconception that was destructive.
+
+### Reflection
+
+- Which of these seven churches' strengths do you recognize in your own church? Which of their challenges?
+- Ephesus did everything right but lost its first love - could that be true of you, or your church, without anyone noticing?
+- Which is more dangerous today: pressure from outside the church, or false teaching quietly tolerated inside it?
+- Jesus never gives up on a struggling church, not even Laodicea. Where do you need to hear that today?

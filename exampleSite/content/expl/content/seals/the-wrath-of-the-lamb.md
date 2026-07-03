@@ -2,7 +2,7 @@
 title: "The wrath of the Lamb"
 weight: 4
 base: /quick/content/seals
-story: /story/tour
+story: /story/content/seals
 prev: /expl/content/seals/the-mystery-of-the-four-horse-men
 next: /expl/content/army/the-144000
 docType: expl

@@ -44,3 +44,10 @@ Bununla birlikte İsrail’i de yeniden tanımladı. Kendisini “{{% int_link v
 
 {{% bible val="Kilise İsrail’in yerini almamıştır, ancak İsrail kilisede Yahudi olmayanlara ulaşma görevini yerine getirmiştir." link="rom:9" lang="tr" %}}
 
+### Yansıma
+
+- Bunu okumadan önce İsrail ile kilise arasındaki ilişkiyi nasıl düşünüyordun?
+- Kilisenin İsrail’in yerini almaması, bunun yerine İsrail’in görevinin uluslara ulaşarak tamamlanmış olmasının önemi nedir?
+- Yahudilerin ve diğer ulusların birlikte "gerçek İsrail"i oluşturduğunu bilmek, Vahiy’i okuyuşunu nasıl değiştiriyor?
+- Bugün eski aile, etnik ya da grup bağlılıklarının kilise içinde bölünmeye yol açtığını nerede görüyorsun?
+

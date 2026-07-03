@@ -54,6 +54,12 @@ Vahiy kitabı da aynı fikirde ve son noktaya odaklanıyor ama bu nasıl olmalı
 - dünyaya görünür bir örnek ve tanık olmak
 - güçleri İsa’ya olan bağımlılıklarında yatar
 
+### Yansıma
+
+- Bu vizyon, kilisenin amacını İsa’ya bağımlı kalarak ışık olmak şeklinde tanımlıyor. Bunun hangi yarısı sana daha zor geliyor?
+- Kilisen başarıyı burada İsa’nın yaptığı gibi ölçseydi - sayılara ya da faaliyete göre değil - nasıl görünürdü?
+- Yıldızlar yalnızca İsa’nın elinde tutulduğunda parlar. Hayatında kendi gücünle parlamaya çalıştığın yerler nereler?
+
 ## Genel Bakış
 
 <a name="dfec"></a>

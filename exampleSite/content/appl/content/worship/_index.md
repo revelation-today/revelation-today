@@ -2,7 +2,7 @@
 title: "Ch.4: The answer to all questions"
 weight: 30
 base: /quick/content/worship
-story: /story/tour
+story: /story/content/worship
 deeper:
     - name: Worship at the throne
       link:  /expl/content/worship/worship-in-the-throne-room

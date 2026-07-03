@@ -1,7 +1,7 @@
 ---
 title: "The two harvests (Ch. 14)"
 weight: 110
-story: /story/tour
+story: /story/content/harvest
 appl: /appl/content/harvest
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /quick/content/beasts

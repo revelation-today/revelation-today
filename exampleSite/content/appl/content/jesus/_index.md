@@ -2,7 +2,7 @@
 title: "Ch.12: Jesus and the fall of the devil"
 weight: 90
 base: /quick/content/jesus
-story: /story/tour
+story: /story/content/jesus
 prev: /appl/content/witnesses
 next: /appl/content/beasts
 docType: appl

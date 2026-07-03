@@ -69,3 +69,9 @@ Bu kitabı kendi yorum gözlüğünüzle okumak fark ettiklerinizi ne kadar etki
 Ana konuların ibadet, tanıklık ve restorasyon olduğunu ve günümüzdeki ibadet şarkılarının çoğunun bu kitaba dayandığını biliyor muydunuz?
 
 Bunu yeni gözlerle görmek ister misiniz? [Oyuncuların birbirlerine ne sıklıkta pas verdiklerini saymanız gereken bu videodaki gibi şaşırabilirsiniz ](https://www.youtube.com/watch?v=KB_lTKZm1Ts&amp;pp=ygUTYXdhcmVuZXNzIHRlc3QgYmVhcg%3D%3D)(eski olduğunu biliyorum, ama belki herkes için değil)
+
+### Yansıma
+
+- Bu üç türden (mektup, kehanet, kıyamet) hangisini bu kitabı okumadan önce hiç düşünmemiştin?
+- Bu kıyametin "kahramanının" zafer kazanan bir savaşçı değil de kesilmiş bir kuzu olduğunu bilmek senin için bir şey değiştiriyor mu?
+- Vahiy hakkında varsaydığın ama şimdi yeniden düşünmen gereken bir şey var mı?

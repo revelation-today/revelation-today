@@ -2,7 +2,7 @@
 title: "Ch.17-19: The Harlot: The complexity of evil"
 weight: 130
 base: /quick/content/harlot
-story: /story/tour
+story: /story/content/harlot
 deeper:
     - name: "Who is the harlot: Part 1"
       link:  /expl/content/harlot/who-is-the-harlot-babylon-part-1

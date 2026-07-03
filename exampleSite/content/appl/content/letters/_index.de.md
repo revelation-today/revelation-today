@@ -66,3 +66,10 @@ Ihre Herausforderungen sind so individuell wie ihre Stärken, so dass wir manche
 - Die Liebe ist nicht aufrichtig: Sie haben ihren ursprünglichen Auftrag aus den Augen verloren, vielleicht weil sie so sehr in gute Taten vertieft sind, dass sie den Grund für all das vergessen haben.
 - Schlechte Leitung und falsche Lehre: Die Leitung lässt falsche Lehre zu oder ist selbst die Ursache dafür. Das hat schwerwiegende Folgen für die ganze Gemeinde.
 - Falsches Selbstverständnis: Laodizea wurde nicht gelobt, weil sie von sich selbst hoch dachten und Jesus nicht sahen. Auch in Sardis gab es ein solches Denken. Das ist ein kaum zu überschätzender und sehr zerstörerischer Fehler.
+
+### Reflektion
+
+- Welche Stärken dieser sieben Gemeinden erkennst du in deiner eigenen Gemeinde wieder? Welche ihrer Herausforderungen?
+- Ephesus hat alles richtig gemacht, aber die erste Liebe verloren - könnte das auch auf dich oder deine Gemeinde zutreffen, ohne dass es jemand merkt?
+- Was ist heute gefährlicher: Druck von außen auf die Gemeinde oder falsche Lehre, die im Inneren stillschweigend geduldet wird?
+- Jesus gibt eine kämpfende Gemeinde nie auf, nicht einmal Laodizea. Wo brauchst du das heute zu hören?

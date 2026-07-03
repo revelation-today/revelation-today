@@ -2,7 +2,7 @@
 title: "The letter to the church in Philadelphia"
 weight: 60
 base: /quick/content/letters
-story: /story/tour
+story: /story/content/letters
 prev: /expl/content/letters/the-letter-to-the-church-in-sardis
 next: /expl/content/letters/the-letter-to-the-church-in-laodicea
 docType: expl

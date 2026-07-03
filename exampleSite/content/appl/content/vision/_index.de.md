@@ -54,6 +54,12 @@ Die Offenbarung betont den letzten Teil, aber die Frage bleibt, wie das geschehe
 - ein sichtbares Zeichen und Zeugnis für die Welt zu sein und
 - ihre Kraft ganz aus der Abhängigkeit von Jesus zu schöpfen.
 
+### Reflektion
+
+- Diese Vision beschreibt die Aufgabe der Gemeinde: Licht zu sein und dabei von Jesus abhängig zu bleiben. Welche der beiden Hälften fällt dir schwerer?
+- Wie würde es aussehen, wenn deine Gemeinde Erfolg so messen würde, wie Jesus es hier tut - statt an Zahlen oder Aktivität?
+- Sterne leuchten nur, solange sie in Jesu Hand gehalten werden. Wo hast du versucht, aus eigener Kraft zu leuchten?
+
 ## Überblick über die Gemeinden
 
 <a name="86b5"></a>

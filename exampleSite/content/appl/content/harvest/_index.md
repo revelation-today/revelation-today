@@ -2,7 +2,7 @@
 title: "Ch.14: The weapons of the church and the fate of the nations"
 weight: 110
 base: /quick/content/harvest
-story: /story/tour
+story: /story/content/harvest
 deeper:
     - name: Gods army and the seven angels
       link:  /expl/content/harvest/gods-army-and-the-seven-angels

@@ -2,7 +2,7 @@
 title: "The vision"
 weight: 3
 base: /quick/content/vision
-story: /story/tour
+story: /story/content/vision
 sources: 
     - pages: 205–222
       ref: beale_rev

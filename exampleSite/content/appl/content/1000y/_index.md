@@ -2,7 +2,7 @@
 title: "Ch.20: 1000 years of Paradise?"
 weight: 140
 base: /quick/content/1000y
-story: /story/tour
+story: /story/content/1000y
 deeper: 
     - name: The 1000 year kingdom
     - link: /content/1000y/expl/the-thousand-year-kingdom

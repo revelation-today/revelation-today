@@ -67,4 +67,11 @@ Ve kilise ne yapılabileceğini sorabilir. Vahiy kitabı bu konuda yardımcı ol
 - uzlaşmaya çağrılıyoruz
 - açgözlülük gibi insan doğasının temel sorunlarını etkilemeye çağrılıyoruz
 
+### Yansıma
+
+- Karşılığında senden tam bağlılık isteyen, modern bir "Pax Romana" - güvenlik ya da refah vaadi - nerede görüyorsun?
+- Korktuğunda, Tanrı’ya dönmeden önce ilk olarak kime ya da neye yöneliyorsun?
+- İlk kilise, yalnızca tek bir Tanrı’ya taptığı için hoşgörüsüzlükle suçlandı. Bugün aynı baskıyı nerede hissediyorsun?
+- Kültürünün seni tapınmaya çağırdığı şeye tapınmayı reddetmek sana somut olarak neye mal olurdu?
+
 

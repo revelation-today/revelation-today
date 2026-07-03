@@ -65,3 +65,10 @@ And the church may wonder what can be done. And the book of Revelation gives som
 - We are called to reconciliation.
 - We are called to address the basic problems of human nature, such as greed.
 
+### Reflection
+
+- Where do you see a modern "Pax Romana" - a promise of security or prosperity that quietly demands your full loyalty in return?
+- Who or what do you turn to first when you're afraid, before you turn to God?
+- The early church was accused of intolerance for worshiping only one God. Where do you feel that same pressure today?
+- What would it cost you, concretely, to refuse to bow to whatever your culture asks you to bow to?
+

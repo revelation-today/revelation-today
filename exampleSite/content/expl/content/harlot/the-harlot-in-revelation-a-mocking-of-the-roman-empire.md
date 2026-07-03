@@ -2,7 +2,7 @@
 title: "The Harlot in Revelation: A mocking of the Roman Empire"
 weight: 5
 base: /quick/content/harlot
-story: /story/tour
+story: /story/content/harlot
 prev: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 next: /expl/content/1000y/the-thousand-year-kingdom
 docType: expl

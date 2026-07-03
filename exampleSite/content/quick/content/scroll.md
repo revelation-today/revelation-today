@@ -1,7 +1,7 @@
 ---
 title: "The small scroll (Ch. 10)"
 weight: 70
-story: /story/tour
+story: /story/content/scroll
 appl: /appl/content/scroll
 expl: /expl/content/scroll/the-little-scroll
 prev: /quick/content/trumpets

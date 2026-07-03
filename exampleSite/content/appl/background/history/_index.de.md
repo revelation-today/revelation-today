@@ -65,3 +65,10 @@ Und die Gemeinde fragt sich vielleicht, was sie tun kann. Und das Buch Offenbaru
 - Wir sind aufgerufen, Versöhner zu sein.
 - Wir sind berufen, Antworten auf die großen Fragen der Menschheit zu geben, zum Beispiel auf die Gier.
 
+### Reflektion
+
+- Wo siehst du eine moderne "Pax Romana" - ein Versprechen von Sicherheit oder Wohlstand, das im Gegenzug leise deine volle Loyalität fordert?
+- An wen oder was wendest du dich zuerst, wenn du Angst hast, bevor du dich an Gott wendest?
+- Die frühe Gemeinde wurde für Intoleranz beschuldigt, weil sie nur einen Gott anbetete. Wo spürst du heute denselben Druck?
+- Was würde es dich konkret kosten, dich zu weigern, das anzubeten, was deine Kultur von dir verlangt?
+

@@ -1,7 +1,7 @@
 ---
 title: "The harlot (Ch. 17-19)"
 weight: 130
-story: /story/tour
+story: /story/content/harlot
 appl: /appl/content/harlot
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 prev: /quick/content/bowls

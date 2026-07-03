@@ -2,7 +2,7 @@
 title: "Ch.15-16: The wrath of God"
 weight: 120
 base: /quick/content/harvest
-story: /story/tour
+story: /story/content/bowls
 deeper:
     - name: The bowls of wrath
       link:  /expl/content/bowls/the-bowls-of-wrath

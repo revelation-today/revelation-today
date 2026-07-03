@@ -2,7 +2,7 @@
 title: "Ch.13: The perfect “gospel”"
 weight: 100
 base: /quick/content/beasts
-story: /story/tour
+story: /story/content/beasts
 deeper: 
     - name: The two beasts
       link:  /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation

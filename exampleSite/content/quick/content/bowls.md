@@ -1,7 +1,7 @@
 ---
 title: "The bowls of wrath (Ch. 15-16)"
 weight: 120
-story: /story/tour
+story: /story/content/bowls
 appl: /appl/content/bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 prev: /quick/content/harvest

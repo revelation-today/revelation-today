@@ -61,6 +61,12 @@ menu:
         icon: map
       pageRef: /welcome
       weight: 1
+    - identifier: guide
+      name: Chapter by chapter
+      params:
+        icon: table
+      pageRef: /guide
+      weight: 2
     - identifier: contact
       name: Contact
       params:
