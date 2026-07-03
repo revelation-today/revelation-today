@@ -2,7 +2,7 @@
 title: "Die beiden Tiere in der Offenbarung"
 weight: 1
 base: /quick/content/beasts
-story: /story/content/witnesses
+story: /story/tour
 prev: /expl/content/jesus/a-different-christmas-story
 next: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
 docType: expl

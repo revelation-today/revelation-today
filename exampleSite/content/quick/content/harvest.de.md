@@ -1,12 +1,13 @@
 ---
 title: "Die beiden Ernten (Kap. 14)"
 weight: 110
-story: /story/content/harvest
+story: /story/tour
 appl: /appl/content/harvest
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /quick/content/witnesses
 next: /quick/content/bowls
 docType: quick
+kids: /kids/content/harvest
 ---
 
 

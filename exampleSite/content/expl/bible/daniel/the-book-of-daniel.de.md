@@ -2,7 +2,7 @@
 title: "Überblick über das Buch Daniel"
 weight: 10
 base: /quick/bible/daniel
-story: /story/bible/daniel
+story: /story/tour
 prev: /expl/bible/keyword/the-origin-of-babel
 next: /expl/bible/daniel/the-four-kingdoms-in-daniel
 docType: expl

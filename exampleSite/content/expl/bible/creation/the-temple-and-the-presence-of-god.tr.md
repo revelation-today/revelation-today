@@ -2,7 +2,7 @@
 title: "“Tapınak” ve Tanrı’nın varlığı"
 weight: 10
 base: /quick/bible/creation
-story: /story/bible/creation
+story: /story/tour
 prev: /expl/bible/creation/the-creation
 next: /expl/bible/creation/the-story-of-uzzah
 docType: expl

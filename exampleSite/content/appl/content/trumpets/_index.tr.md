@@ -2,7 +2,7 @@
 title: "Böl.8-9: Dua ve sarsılmazlık"
 weight: 60
 base: /quick/content/trumpets
-story: /story/content/trumpets
+story: /story/tour
 deeper:
     - name: Duanın gücü
       link: /topics/power/short/the-key-of-prayer
@@ -19,6 +19,7 @@ deeper:
 prev: /appl/content/army
 next: /appl/content/scroll
 docType: appl
+kids: /kids/content/trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 ---
 

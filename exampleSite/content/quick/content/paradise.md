@@ -1,12 +1,13 @@
 ---
 title: "The new heaven and new earth (Ch. 21-22)"
 weight: 150
-story: /story/content/1000y
+story: /story/tour
 appl: /appl/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /quick/content/1000y
 next: /welcome/done_quick
 docType: quick
+kids: /kids/content/paradise
 ---
 
 {{% bible val="Chapter 21" link="rev:21" lang="en" %}} and {{% bible val="22" link="rev:22" lang="en" %}}.

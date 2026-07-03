@@ -1,12 +1,13 @@
 ---
 title: "Worship (Ch. 4-5)"
 weight: 20
-story: /story/content/worship
+story: /story/tour
 appl: /appl/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals
 docType: quick
+kids: /kids/content/worship
 ---
 
 {{% bible val="Chapter 4" link="rev:4" lang="en" %}} and {{% bible val="5" link="rev:5" lang="en" %}}.

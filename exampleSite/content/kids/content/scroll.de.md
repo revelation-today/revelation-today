@@ -1,7 +1,7 @@
 ---
 title: "Die kleine Rolle (Kap. 10)"
 weight: 70
-story: /story/content/scroll
+story: /story/tour
 appl: /appl/content/scroll
 expl: /expl/content/scroll/the-little-scroll
 prev: /kids/content/trumpets

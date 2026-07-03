@@ -1,12 +1,13 @@
 ---
 title: "The bowls of wrath (Ch. 15-16)"
 weight: 120
-story: /story/content/harvest
+story: /story/tour
 appl: /appl/content/bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 prev: /quick/content/harvest
 next: /quick/content/harlot
 docType: quick
+kids: /kids/content/bowls
 ---
 
 {{% bible val="Chapter 15-16" link="rev:15" lang="en" %}}

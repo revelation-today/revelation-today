@@ -8,6 +8,7 @@
 {{- $quick := .quick -}}
 {{- $appl := .appl -}}
 {{- $expl := .expl -}}
+{{- $kids := .kids -}}
 {{- $about := .about -}}
 {{- $help := .help -}}
 {{- $title := .title -}}
@@ -26,6 +27,7 @@
 {{- $story_n := (T "story") | default "Story" -}}
 {{- $explanation := (T "explanation") | default "Explanation" -}}
 {{- $application := (T "application") | default "Application" -}}
+{{- $kids_n := (T "kids") | default "Kids" -}}
 {{- $toBottom := (T "toBottom") | default "To bottom" -}}
 {{- partial "custom/bible" (dict "lang" $lang) -}}
 {{- $prefix := "" -}}
@@ -84,25 +86,30 @@
     </div>
   {{- end -}}
   
-{{/*  {{- if $story -}}  
+  {{- if $story -}}
     <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
     {{ partial "shortcodes/card" (dict "title" $story_n "subtitle" $story.Title "link" $story.RelPermalink "icon" "pencil") }}
     </div>
   {{- end -}}
-*/}}
 
-  {{- if $appl -}}  
+  {{- if $appl -}}
     <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
     {{ partial "shortcodes/card" (dict "title" $application "subtitle" $appl.Title "link" $appl.RelPermalink "icon" "chat") }}
     </div>
   {{- end -}}
 
-  {{- if $expl -}}  
+  {{- if $expl -}}
     <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
     {{ partial "shortcodes/card" (dict "title" $explanation "subtitle" $expl.Title "link" $expl.RelPermalink "icon" "chat") }}
     </div>
   {{- end -}}
-    
+
+  {{- if $kids -}}
+    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
+    {{ partial "shortcodes/card" (dict "title" $kids_n "subtitle" $kids.Title "link" $kids.RelPermalink "icon" "academic-cap") }}
+    </div>
+  {{- end -}}
+
   {{ partial "custom/deeper" (dict "params" $params.deeper "pages" $regPages) }}
   
   {{ partial "custom/sources" (dict "page" $about "params" $params.sources) }}

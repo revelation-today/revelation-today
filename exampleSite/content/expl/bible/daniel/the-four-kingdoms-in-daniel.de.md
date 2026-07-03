@@ -2,7 +2,7 @@
 title: "Die vier Königreiche in Daniel"
 weight: 20
 base: /quick/bible/daniel
-story: /story/bible/daniel
+story: /story/tour
 prev: /expl/bible/daniel/the-book-of-daniel
 next: /expl/bible/daniel/the-son-of-man-and-the-remnant
 docType: expl

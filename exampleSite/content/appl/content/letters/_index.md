@@ -2,7 +2,7 @@
 title: "Ch.2-3: The problem"
 weight: 20
 base: /quick/content/letters
-story: /story/content/letters
+story: /story/tour
 deeper:
     - name: The angels of the churches
       link:  /expl/content/letters/the-angel-of-the-churches
@@ -25,6 +25,7 @@ deeper:
 prev: /appl/content/vision
 next: /appl/content/worship
 docType: appl
+kids: /kids/content/letters
 expl: /expl/content/letters/the-angel-of-the-churches
 ---
 

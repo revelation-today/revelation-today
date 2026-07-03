@@ -2,13 +2,14 @@
 title: "Kap.20: 1000 Jahre Paradies?"
 weight: 140
 base: /quick/content/1000y
-story: /story/content/1000y
+story: /story/tour
 deeper: 
     - name: Das Tausendjährige Reich
     - link: /content/1000y/expl/the-thousand-year-kingdom
 prev: /appl/content/harlot
 next: /appl/content/paradise
 docType: appl
+kids: /kids/content/1000y
 expl: /expl/content/1000y/the-thousand-year-kingdom
 ---
 

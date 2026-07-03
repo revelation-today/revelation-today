@@ -1,7 +1,7 @@
 ---
 title: "The two witnesses (Ch. 11)"
 weight: 80
-story: /story/content/witnesses
+story: /story/tour
 appl: /appl/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /quick/content/scroll
@@ -10,6 +10,7 @@ deeper:
     - name: The secret of the 3,5 years
       link:  /expl/bible/daniel/the-secret-of-the-3-5-years
 docType: quick
+kids: /kids/content/witnesses
 ---
 
 {{% bible val="Chapter 11" link="rev:11" lang="en" %}}.

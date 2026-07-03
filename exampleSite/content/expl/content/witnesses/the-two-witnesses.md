@@ -2,7 +2,7 @@
 title: "The two witnesses"
 weight: 2
 base: /quick/content/witnesses
-story: /story/content/witnesses
+story: /story/tour
 prev: /expl/content/scroll/the-little-scroll
 next: /expl/content/jesus/a-different-christmas-story
 docType: expl

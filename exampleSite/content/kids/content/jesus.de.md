@@ -1,7 +1,7 @@
 ---
 title: "Der Sieg Jesu (Kap. 12)"
 weight: 90
-story: /story/content/witnesses
+story: /story/tour
 appl: /appl/content/jesus
 expl: /expl/content/jesus/a-different-christmas-story
 prev: /kids/content/witnesses

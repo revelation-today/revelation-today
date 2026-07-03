@@ -2,13 +2,14 @@
 title: "Kap.14: Die Waffen der Gemeinde und das Schicksal der Nationen"
 weight: 110
 base: /quick/content/harvest
-story: /story/content/harvest
+story: /story/tour
 deeper:
     - name: Gottes Armee und die sieben Engel
       link:  /expl/content/harvest/gods-army-and-the-seven-angels
 prev: /appl/content/jesus
 next: /appl/content/bowls
 docType: appl
+kids: /kids/content/harvest
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 ---
 

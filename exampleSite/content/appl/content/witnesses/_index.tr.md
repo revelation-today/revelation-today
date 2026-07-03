@@ -2,7 +2,7 @@
 title: "Böl.11: Dünyayı değiştiren güç"
 weight: 80
 base: /quick/content/witnesses
-story: /story/content/witnesses
+story: /story/tour
 deeper:
     - name: Tapınak
       link:  /expl/bible/creation/the-temple-and-the-presence-of-god
@@ -13,6 +13,7 @@ deeper:
 prev: /appl/content/scroll
 next: /appl/content/jesus
 docType: appl
+kids: /kids/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Die beiden Zeugen (Kap. 11)"
 weight: 80
-story: /story/content/witnesses
+story: /story/tour
 appl: /appl/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /kids/content/scroll

@@ -2,13 +2,14 @@
 title: "Böl.14: Tanrı’nın ordusu ve ulusların kaderi: İşte böyle sona eriyor"
 weight: 110
 base: /quick/content/harvest
-story: /story/content/harvest
+story: /story/tour
 deeper:
     - name: Tanrı’nın ordusu ve yedi melek
       link:  /expl/content/harvest/gods-army-and-the-seven-angels
 prev: /appl/content/jesus
 next: /appl/content/bowls
 docType: appl
+kids: /kids/content/harvest
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 ---
 

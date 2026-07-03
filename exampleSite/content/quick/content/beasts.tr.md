@@ -1,12 +1,13 @@
 ---
 title: "Ejderha ve iki canavar (Böl. 13)"
 weight: 100
-story: /story/content/witnesses
+story: /story/tour
 appl: /appl/content/beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /quick/content/jesus
 next: /quick/content/harvest
 docType: quick
+kids: /kids/content/beasts
 ---
 
 {{% bible val="Bölüm 13" link="rev:13" lang="tr" %}}

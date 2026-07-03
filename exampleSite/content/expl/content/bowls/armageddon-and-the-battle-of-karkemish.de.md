@@ -2,7 +2,7 @@
 title: "Armageddon und die Schlacht von Karkemisch"
 weight: 4
 base: /quick/content/harvest
-story: /story/content/harvest
+story: /story/tour
 prev: /expl/content/bowls/the-key-to-armageddon
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl

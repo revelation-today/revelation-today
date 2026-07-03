@@ -2,7 +2,7 @@
 title: "Sardis’teki kiliseye mektup"
 weight: 50
 base: /quick/content/letters
-story: /story/content/letters
+story: /story/tour
 prev: /expl/content/letters/the-letter-to-the-church-in-thyatira
 next: /expl/content/letters/the-letter-to-the-church-in-philadelphia
 docType: expl

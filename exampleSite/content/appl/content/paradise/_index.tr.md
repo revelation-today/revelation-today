@@ -2,7 +2,7 @@
 title: "Böl.21-22: Cennet ve cehennem ne hakkında?"
 weight: 150
 base: /quick/content/paradise
-story: /story/content/1000y
+story: /story/tour
 deeper:
     - name: Yeni Kudüs
       link:  /expl/content/paradise/the-new-jerusalem
@@ -11,6 +11,7 @@ deeper:
 prev: /appl/content/1000y
 next: /appl/topics/hero/a-real-hero
 docType: appl
+kids: /kids/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
 ---
 

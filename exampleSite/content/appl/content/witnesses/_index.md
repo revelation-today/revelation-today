@@ -2,7 +2,7 @@
 title: "Ch.11: The force that changes the world"
 weight: 80
 base: /quick/content/witnesses
-story: /story/content/witnesses
+story: /story/tour
 deeper:
     - name: The temple
       link:  /expl/bible/creation/the-temple-and-the-presence-of-god
@@ -13,6 +13,7 @@ deeper:
 prev: /appl/content/scroll
 next: /appl/content/jesus
 docType: appl
+kids: /kids/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 ---
 

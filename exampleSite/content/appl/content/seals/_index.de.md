@@ -2,7 +2,7 @@
 title: "Kap.5-6: Das Paradox der sieben Siegel"
 weight: 40
 base: /quick/content/seals
-story: /story/content/seals
+story: /story/tour
 deeper:
     - name: Ein echter Held
       link: /topics/hero/short/a-real-hero
@@ -17,6 +17,7 @@ deeper:
 prev: /appl/content/worship
 next: /appl/content/army
 docType: appl
+kids: /kids/content/seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 ---
 

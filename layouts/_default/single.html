@@ -40,12 +40,16 @@
             {{- $appl = .GetPage .Params.appl -}}
           {{- end -}}
           {{- $expl := "" -}}
-          {{- if .Params.expl -}}  
+          {{- if .Params.expl -}}
             {{- $expl = .GetPage .Params.expl -}}
-          {{- end -}}            
+          {{- end -}}
+          {{- $kids := "" -}}
+          {{- if .Params.kids -}}
+            {{- $kids = .GetPage .Params.kids -}}
+          {{- end -}}
           {{- $about := .GetPage "/about/ressources" -}}
           {{- $help := .GetPage "/help" -}}
-               {{ partial "custom/page" (dict "context" . "base" $base "prev" $prev "next" $next "story" $story "quick" $quick "appl" $appl "expl" $expl "about" $about "help" $help "title" .Title "content" .Content "docType" .Params.docType "lang" .Language.Lang "relPermalink" .RelPermalink "readingTime" .ReadingTime "params" .Params "regPages" .Site.RegularPages) -}}
+               {{ partial "custom/page" (dict "context" . "base" $base "prev" $prev "next" $next "story" $story "quick" $quick "appl" $appl "expl" $expl "kids" $kids "about" $about "help" $help "title" .Title "content" .Content "docType" .Params.docType "lang" .Language.Lang "relPermalink" .RelPermalink "readingTime" .ReadingTime "params" .Params "regPages" .Site.RegularPages) -}}
 
         <div class="hx-mt-16"></div>
         {{ partial "components/comments.html" . }}

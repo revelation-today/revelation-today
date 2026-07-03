@@ -2,7 +2,7 @@
 title: "Der Auszug aus Ägypten: Die Vorgeschichte"
 weight: 10
 base: /quick/bible/creation
-story: /story/bible/creation
+story: /story/tour
 prev: /expl/bible/creation/the-story-of-uzzah
 next: /expl/bible/exodus/the-birth-of-moses
 docType: expl

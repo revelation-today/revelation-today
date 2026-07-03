@@ -1,12 +1,13 @@
 ---
 title: "Gazap kaseleri (Böl. 15-16)"
 weight: 120
-story: /story/content/harvest
+story: /story/tour
 appl: /appl/content/bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 prev: /quick/content/harvest
 next: /quick/content/harlot
 docType: quick
+kids: /kids/content/bowls
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Die Sendschreiben (Kap. 2-3)"
 weight: 10
-story: /story/content/letters
+story: /story/tour
 appl: /appl/content/letters
 expl: /expl/content/letters/the-angel-of-the-churches
 prev: /kids/content/vision

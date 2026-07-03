@@ -2,7 +2,7 @@
 title: "Die Engel der Gemeinden"
 weight: 4
 base: /quick/content/letters
-story: /story/content/letters
+story: /story/tour
 deeper:
     - name: Die Sendschreiben
       link:  /expl/content/letters/the-letters-to-the-seven-churches

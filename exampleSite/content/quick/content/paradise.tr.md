@@ -1,12 +1,13 @@
 ---
 title: "Yeni cennet ve yeni dünya (Böl. 21-22)"
 weight: 150
-story: /story/content/1000y
+story: /story/tour
 appl: /appl/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /quick/content/1000y
 next: /welcome/done_quick
 docType: quick
+kids: /kids/content/paradise
 ---
 
 

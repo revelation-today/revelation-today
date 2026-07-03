@@ -2,7 +2,7 @@
 title: "666: The number of the beast"
 weight: 4
 base: /quick/content/beasts
-story: /story/content/witnesses
+story: /story/tour
 prev: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
 next: /expl/content/beasts/the-nature-of-the-beast
 docType: expl

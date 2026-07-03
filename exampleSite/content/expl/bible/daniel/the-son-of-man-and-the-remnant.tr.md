@@ -2,7 +2,7 @@
 title: "İnsanoğlu"
 weight: 30
 base: /quick/bible/daniel
-story: /story/bible/daniel
+story: /story/tour
 prev: /expl/bible/daniel/the-four-kingdoms-in-daniel
 next: /expl/bible/daniel/the-70-year-weeks
 docType: expl

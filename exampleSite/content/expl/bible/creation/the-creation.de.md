@@ -2,7 +2,7 @@
 title: "Die Schöpfung"
 weight: 1
 base: /quick/bible/creation
-story: /story/bible/creation
+story: /story/tour
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/bible/creation/the-temple-and-the-presence-of-god
 docType: expl

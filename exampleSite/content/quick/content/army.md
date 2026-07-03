@@ -1,12 +1,13 @@
 ---
 title: "The army of God (Ch. 7)"
 weight: 50
-story: /story/content/seals
+story: /story/tour
 appl: /appl/content/army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 prev: /quick/content/seals
 next: /quick/content/trumpets
 docType: quick
+kids: /kids/content/army
 ---
 
 {{% bible val="Chapter 7" link="rev:7" lang="en" %}}

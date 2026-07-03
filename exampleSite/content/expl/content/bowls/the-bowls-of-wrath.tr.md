@@ -2,7 +2,7 @@
 title: "Gazap Kaseleri"
 weight: 2
 base: /quick/content/harvest
-story: /story/content/harvest
+story: /story/tour
 prev: /expl/content/harvest/gods-army-and-the-seven-angels
 next: /expl/content/bowls/the-key-to-armageddon
 docType: expl

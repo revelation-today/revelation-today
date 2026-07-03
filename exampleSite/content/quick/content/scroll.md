@@ -1,12 +1,13 @@
 ---
 title: "The small scroll (Ch. 10)"
 weight: 70
-story: /story/content/scroll
+story: /story/tour
 appl: /appl/content/scroll
 expl: /expl/content/scroll/the-little-scroll
 prev: /quick/content/trumpets
 next: /quick/content/witnesses
 docType: quick
+kids: /kids/content/scroll
 ---
 
 {{% bible val="Chapter 10" link="rev:10" lang="en" %}}

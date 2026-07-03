@@ -1,7 +1,7 @@
 ---
 title: "Anbetung (Kap. 4-5)"
 weight: 20
-story: /story/content/worship
+story: /story/tour
 appl: /appl/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /kids/content/letters

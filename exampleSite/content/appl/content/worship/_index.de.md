@@ -2,7 +2,7 @@
 title: "Kap.4: Die Antwort auf alle Fragen"
 weight: 30
 base: /quick/content/worship
-story: /story/content/worship
+story: /story/tour
 deeper:
     - name: Die Anbetung im Thronsaal
       link:  /expl/content/worship/worship-in-the-throne-room
@@ -11,6 +11,7 @@ deeper:
 prev: /appl/content/letters
 next: /appl/content/seals
 docType: appl
+kids: /kids/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
 ---
 

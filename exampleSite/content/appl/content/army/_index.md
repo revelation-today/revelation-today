@@ -2,7 +2,7 @@
 title: "Ch.7: The strange army"
 weight: 50
 base: /quick/content/army
-story: /story/content/seals
+story: /story/tour
 deeper:
     - name: The 144.000
       link:  /expl/content/army/the-144000
@@ -11,6 +11,7 @@ deeper:
 prev: /appl/content/seals
 next: /appl/content/trumpets
 docType: appl
+kids: /kids/content/army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 ---
 

@@ -2,7 +2,7 @@
 title: "Das Sendschreiben an Smyrna"
 weight: 20
 base: /quick/content/letters
-story: /story/content/letters
+story: /story/tour
 prev: /expl/content/letters/the-letter-to-the-church-in-ephesus
 next: /expl/content/letters/the-letter-to-the-church-in-pergamon
 docType: expl

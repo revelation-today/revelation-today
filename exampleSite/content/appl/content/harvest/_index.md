@@ -2,13 +2,14 @@
 title: "Ch.14: The weapons of the church and the fate of the nations"
 weight: 110
 base: /quick/content/harvest
-story: /story/content/harvest
+story: /story/tour
 deeper:
     - name: Gods army and the seven angels
       link:  /expl/content/harvest/gods-army-and-the-seven-angels
 prev: /appl/content/jesus
 next: /appl/content/bowls
 docType: appl
+kids: /kids/content/harvest
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 ---
 

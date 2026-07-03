@@ -2,7 +2,7 @@
 title: "Ch.1: The vision"
 weight: 10
 base: /quick/content/vision
-story: /story/content/vision
+story: /story/tour
 deeper:
     - name: How the book starts
       link:  /expl/content/letters/setting-the-foundation
@@ -29,6 +29,7 @@ deeper:
 prev: /appl/background/israel
 next: /appl/content/letters
 docType: appl
+kids: /kids/content/vision
 expl: /expl/content/vision/setting-the-foundation
 ---
 

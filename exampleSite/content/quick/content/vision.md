@@ -1,12 +1,13 @@
 ---
 title: "The vision (Ch. 1)"
 weight: 1
-story: /story/content/vision
+story: /story/tour
 appl: /appl/content/vision
 expl: /expl/content/vision/setting-the-foundation
 prev: /quick/bible/daniel
 next: /quick/content/letters
 docType: quick
+kids: /kids/content/vision
 ---
 
 {{% bible val="Chapter 1" link="rev:1" lang="en" %}}.

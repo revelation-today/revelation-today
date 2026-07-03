@@ -1,7 +1,7 @@
 ---
 title: "Neuer Himmel und neue Erde (Kap. 21-22)"
 weight: 150
-story: /story/content/1000y
+story: /story/tour
 appl: /appl/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/content/1000y

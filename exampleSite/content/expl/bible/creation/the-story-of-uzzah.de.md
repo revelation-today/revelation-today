@@ -2,7 +2,7 @@
 title: "Die Geschichte von Usa"
 weight: 50
 base: /quick/bible/creation
-story: /story/bible/creation
+story: /story/tour
 prev: /expl/bible/creation/the-temple-and-the-presence-of-god
 next: /expl/bible/exodus/the-story-before-the-exodus
 docType: expl
@@ -20,7 +20,7 @@ Bevor Israels erster König Saul auf dem Thron saß {{% bible val="Israel befand
 
 {{% bible val="Nach dieser Zeit wollte David, der nächste König, die Arche nach Jerusalem bringen. Er wurde dabei von den beiden Söhnen Abinadabs begleitet: Usa und Ahio. Die Lade wurde auf einen Wagen gesetzt und von Ochsen getragen. Als die Ochsen strauchelten, streckte Usa die Hand aus und versuchte zu verhindern, dass die Lade vom Wagen rutschte. Und Gott tötete ihn für diese Tat." link="2sa:6,1-7" lang="en" %}}
 
-König David ist darüber schockiert und braucht drei Monate, um es noch einmal zu versuchen, aber dieses Mal anders.
+König David ist darüber schockiert und braucht drei Monate, um es noch einmal zu versuchen, {{% bible val="aber dieses Mal anders"  link="2sa:6,12-15" lang="en" %}}.
 
 # Was ist hier los?
 

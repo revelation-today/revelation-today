@@ -1,12 +1,13 @@
 ---
 title: "Vizyon (Böl. 1)"
 weight: 1
-story: /story/content/vision
+story: /story/tour
 appl: /appl/content/vision
 expl: /expl/content/vision/setting-the-foundation
 prev: /quick/bible/daniel
 next: /quick/content/letters
 docType: quick
+kids: /kids/content/vision
 ---
 
 
