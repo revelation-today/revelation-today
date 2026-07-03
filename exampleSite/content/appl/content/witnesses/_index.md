@@ -17,51 +17,40 @@ kids: /kids/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 ---
 
-There are two witnesses who change the whole world and prepare it for the kingdom of God. Who are they and what is their secret?
+What actually changes the world? Armies have tried. Empires have tried. Movements with millions of followers have tried and burned out. Revelation 11 gives a strange answer: two witnesses, dressed in sackcloth, who accomplish more by dying than anyone else in the book accomplishes by winning. If that sounds backwards, good — you're paying attention.
 
-## Our text
+## Measuring what matters
 
-<a name="f023"></a>
-We are moving quickly forward and reached {{% bible val="chapter 11" link="rev:11" lang="en" %}}.
+The chapter opens with someone measuring the temple — but not all of it. Some parts get measured and claimed for God; the outer court is left to be trampled. In the Old Testament, the temple existed mainly for sacrifice. That's over now — Jesus was the final sacrifice. So what's left to measure? Watch where the measuring rod goes: from the temple, to the altar, down to {{% bible val="the worshipers themselves" link="rev:11,1-2" lang="en" %}}. God isn't interested in a building anymore. He's interested in you — specifically, in your worship, your loyalty, all the way down to whether you'll stay faithful even when it costs you everything, the way the martyrs under the altar already have. That's the real estate God claims. Everything else can be trampled and it won't touch what matters.
 
-## The temple
+## Two witnesses, one church
 
-<a name="5a8c"></a>
-The first thing we need to understand (about the scroll) is the temple. The temple is a picture of God’s presence. In the Old Testament it was the Garden of Eden or a building, but in the New Testament it could be {{% bible val="Jesus" link="jhn:2,19-21" lang="en" %}} or the {{% bible val="Church" link="1co:3,17" lang="en" %}}. While in the Old Testament the main purpose is to offer sacrifices {{% bible val="this is no longer necessary" link="heb:10,1-18" lang="en" %}}. Instead, what God wants is worshipers. We are to be faithful to God. What this means is shown by the two witnesses.
+Then two witnesses appear, and people have argued for centuries about who they are. Are they two individuals? Reincarnated prophets? Here's the clue the text itself gives us: they're called {{% bible val="the two olive trees and the two lampstands" link="rev:11,4" lang="en" %}} — language lifted straight from Zechariah, and lampstands are exactly what the seven churches were called back in chapter 1. Add in that they minister for the same 3.5 years that stretches, symbolically, across the entire church age between Jesus' first and second coming, and the picture becomes clear: these two witnesses are the church. Not two people. Us.
 
-## The witnesses
+Why two, if it's one church? Because in Scripture, one witness proves nothing — it takes two to establish testimony. And notice how they act: not as two separate figures competing, but as one voice speaking through two mouths. They're modeled on Moses and Elijah — turning water to blood like Moses before Pharaoh, calling down fire and shutting up the sky like Elijah before Israel. One a witness to the watching world, one a witness calling God's own people back to himself. Outward and inward. That's the church's full calling: testimony to those far off, and repentance called out to those already close.
 
-<a name="3221"></a>
-I make this short: {{% bible val="The two witnesses are the church" link="heb:10,1-18" lang="en" %}}.
+## Dressed for mourning, not for triumph
 
-The two witnesses following the lifestyle of Jesus:
+Here's what should unsettle you: these witnesses wear sackcloth. Not armor. Not glory. Sackcloth — the clothing of mourning, of repentance, of prophets warning of judgment to come. They perform real signs and real wonders, the same kind Moses and Elijah once used to prove there is only one God worth trusting. But unlike Moses and Elijah, their miracles don't turn the tide. Nothing changes while they're powerful. And then the beast kills them, and the world throws a party — refusing them burial, {{% bible val="celebrating in the streets" link="rev:11,9-10" lang="en" %}} because these two nuisances are finally silent.
 
-- They act humbly
-- They act in authority
-- They die where Jesus died.
-- People are relieved when they die.
-- They resurrect
-- They ascend to heaven
+Wait — didn't Jesus say the church would never be overcome? Look closely at the word used here. It's not the same word Jesus used when he promised the gates of hell wouldn't prevail — that's a permanent defeat. This is a one-time, temporary overcoming, and critically, it only happens after {{% bible val="they finish their testimony" link="rev:11,7" lang="en" %}}. The beast doesn't get to silence the witnesses on its own schedule. It only gets a moment, after the job is already done.
 
-This is not a literal imitation of Jesus, but the church should go the way that Jesus went. The church member doesn’t have to die of persecution, but we should be willing to give up our lives.
+## Defeat that becomes victory
 
-And just as Jesus’ death on the cross looks like a defeat, so it was not for the Church. The beast can only overcome them when they have finished their testimony, and their death itself will be the greatest testimony (there may even be a parallel to {{% bible val="Samson" link="jdg:16,30" lang="en" %}}).
+Then something no one at that party expected: after three and a half days, breath enters the witnesses and they rise, and a voice calls them up to heaven {{% bible val="in a cloud" link="rev:11,12" lang="en" %}} — the same way Jesus ascended. Their story is Jesus' story on repeat: faithful even to death, and triumphant precisely because of it, not in spite of it. That's the pattern. That's always been the pattern.
 
-The two witnesses are modeled after Moses (water to blood) and Elijah (no rain, fire from heaven). But all the signs and authority did not make a difference as they did in the time of Moses and Elijah. The change came when they died and God resurrected them. When they died and God sanctified them, the majority of the people really turned their lives over to God.Does this mean that when all the people die from persecution, God will resurrect them and take them up to heaven? We need to look at this picture a little more broadly. There is a saying: The blood of the martyrs is the seed of the Church. We don’t have to save our lives to be a witness. The Church will continue even if we leave. God will call us when the time comes.
+Look at what happens next, and let it surprise you: an earthquake kills seven thousand people — ten percent — and the rest, ninety percent, are so overwhelmed that they {{% bible val="give glory to the God of heaven" link="rev:11,13" lang="en" %}}. In the Old Testament it's usually a small remnant that gets saved while the majority falls under judgment. Here it flips. It is the church's death — not its miracles, not its power, not its cleverness — that finally turns the world. This is the reversal of the Esther story: there God's people were threatened, fought back, and won by force, and their enemies still send each other gifts to mark the day. Here, the witnesses don't fight back at all. They die. And their enemies convert.
+
+There's an old saying for this: the blood of the martyrs is the seed of the church. You don't have to engineer your own survival to be useful to God. You don't have to win every argument, out-power every threat, or outlast every enemy. Your calling is to finish your testimony — however long or short that turns out to be — and trust that God does the rest, in his timing, in his way.
+
+So which are you becoming — a beast or a witness? The beasts in the very next chapter get their power handed to them by the dragon and never show a flicker of weakness; the witnesses get their power from worship and aren't afraid to look weak, even to die. One path manipulates, terrifies, and demands worship. The other simply stays faithful until the work is finished. Only one of them actually changes the world.
 
 ### Reflection
 
-<a name="06e1"></a>
-- Why do you have time with God? What do you expect from it?
-- How much time do you spend with God when it is about you and the people around you? How much time is it? God, do with me what you want, where do you want to send me, how can I glorify you?
-- How do you feel when people mock Jesus? What do you do? How do you respond?
-- Can you be humble and admit your mistakes as a Christian when the world mocks Jesus and the church? How can you be stronger in such a situation?
-- Do you still believe in God’s power and supernatural intervention? Have you seen it make a difference?
-- Have you experienced healing and restoration that came not through prayer or preaching, but in an unspectacular way?
-- How far would you go for Jesus? What would happen if you were killed for your faith?
-- Do you think your witness is complete when you die? What part of the Church depends on you alone?
-- The blood of the martyrs is the seed of the Church. Do you believe this?
-- Can you think of examples where this has happened?
-- Can you see a parallel between the two witnesses and how the early church functioned?
-- What is more important to you than your own life?
-- Do you believe that the Church has the potential to change the world?
+- How much of your time with God is about what you want from him, versus simply asking, "God, do with me what you want"?
+- How do you respond when people mock Jesus or the church — do you get defensive, or can you stay humble even then?
+- Do you still believe in God's power to intervene supernaturally? Have you seen it make a difference in your own life?
+- The witnesses triumph through faithfulness to the point of death, not through invincibility. Where are you tempted to act more like the beast — proving strength — instead of the witness, allowing weakness?
+- How far would you go for Jesus? What would it cost you to finish your testimony?
+- "The blood of the martyrs is the seed of the church" — do you believe that? Can you think of examples where it's proven true?
+- Do you think the church's mission depends on you alone, or can you trust God to finish what he starts even after you're gone?

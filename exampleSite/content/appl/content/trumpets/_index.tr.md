@@ -2,19 +2,19 @@
 title: "Böl.8-9: Dua ve sarsılmazlık"
 weight: 60
 base: /quick/content/trumpets
-story: /story/tour
+story: /story/content/trumpets
 deeper:
     - name: Duanın gücü
       link: /topics/power/short/the-key-of-prayer
     - name: Göçten önceki hikaye
       link:  /expl/bible/exodus/the-story-before-the-exodus
-    - name: Musa’nın doğumu
+    - name: Musa'nın doğumu
       link:  /expl/bible/exodus/the-birth-of-moses
-    - name: Firavun’un yüreğinin katılaşması
+    - name: Firavun'un yüreğinin katılaşması
       link:  /expl/bible/exodus/the-hardening-of-pharaohs-heart
-    - name: Mısır’daki belalar
+    - name: Mısır'daki belalar
       link:  /expl/bible/exodus/the-plagues-in-egypt
-    - name: Yedi trompet
+    - name: Yedi borazan
       link:  /expl/content/trumpets/the-trumpets-in-revelation
 prev: /appl/content/army
 next: /appl/content/scroll
@@ -23,63 +23,40 @@ kids: /kids/content/trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 ---
 
-Trompetler birçok insana dünya çapında felaketler ve hatta askeri eylemlerle ilgili ahir zaman senaryoları konusunda ilham vermiştir. Ancak daha yakından baktığımızda duanın rolü ve zorluklarla nasıl başa çıkılacağı hakkında çok şey görürüz.
+Bankan iflas etse, telefonunun çekmediği bir daha asla düzelmese, doktorun tedavinin işe yaramadığını söylese, ve güvendiğin haber kaynağının baştan beri sana yalan söylediği ortaya çıksa - hepsi aynı hafta içinde. Vahiy 8 ve 9'da olan, aşağı yukarı budur. Ve seni durdurması gereken kısım şu: her şey bir dua toplantısıyla başlıyor.
 
-## Bizim metnimiz
+## Her şeyi başlatan dua
 
-<a name="5dfc"></a>
-Hızla ilerliyoruz ve {{% bible val="8" link="rev:8" lang="tr" %}}. ve {{% bible val="9" link="rev:9" lang="tr" %}}. bölümlere ulaştık.
+Daha ilk borazan çalmadan, bir melek buhur alır, onu {{% bible val="Tanrı'nın halkının dualarıyla" link="rev:8,1-6" lang="tr" %}} karıştırır ve karışımı yeryüzüne fırlatır. Gök gürlemesi, şimşekler, bir deprem - ve ardından borazanlar başlar. Sıraya dikkat et. Önce dualar geliyor. Felaketler sonra geliyor. Bir şekilde bizim dualarımız - çoğu zaman zayıf ve kekeleyen - tek başlarına yeterince güçlü olmadıkları için güçlü bir melek tarafından taşınarak, bu olaylar zincirini harekete geçirmeye yardım ediyor.
 
-## Ne için dua etmeli
+Bunun üzerinde biraz düşün. Dualarımızın Tanrı'dan bizi kutsamasını, korumasını, önümüzdeki yolu düzleştirmesini istediğini düşünmeyi severiz. Ama ya bazı dualarımız - adalet için olanlar, krallığın gelmesi için olanlar, insanların sonunda gerçeği görmesi için olanlar - aslında Tanrı'dan her şeyi altüst etmesini istiyorsa? O duanın burada cevaplandığı şekilde cevaplanmasını gerçekten ister misin? Çünkü şimdi geleni rahat karşılamayacaksın.
 
-<a name="694d"></a>
-Yedinci mühür aynı zamanda trompet serisinin de girişidir. Ve şaşırtıcı bir şekilde trompet serileri, güçlü bir melek tarafından Tanrı’ya yükseltilen azizlerin (zayıf) duaları tarafından tetiklenir.
+## Güvendiğin her şey elinden alınıyor
 
-Melekler dualar kabul edilene kadar borazanlarla beklerler, ancak bizim dualarımız gerçekten borazanlarla yaratılan tüm tahribata neden olur mu? Yoksa tüm bunların gerçekleşmesi için farklı şekilde mi dua etmeliyiz?
+İlk dört borazan, Mısır'ın belalarını yeniden okumak gibi - çünkü tam olarak onların üzerine kurulmuşlar. {{% bible val="Birinci borazan" link="rev:8,7" lang="tr" %}} bitki örtüsünün üçte birini yok eder: yiyecek kaynağını. {{% bible val="İkinci borazan" link="rev:8,8-9" lang="tr" %}} deniz canlılarının üçte birini öldürür ve gemileri yok eder: ticaretini ve gelirini. {{% bible val="Üçüncü borazan" link="rev:8,10-11" lang="tr" %}} tatlı suyun üçte birini zehirler: temel hayatta kalışını. {{% bible val="Dördüncü borazan" link="rev:8,12-13" lang="tr" %}} güneşin, ayın ve yıldızların üçte birini karartır: yönünü bulma duygunu, gündüzün ve gecenin kendisini.
 
-Ama aslında neler oluyor? Her türlü zorluğa neden olan altı borazan vardır, ama sonunda insanlar yüreklerini katılaştırırlar. Tövbe etmediler ki bu da en azından borazanların amacının bir parçasıydı. Ancak yedinci borazandan sonra birçok insan Tanrı’ya saygı duyar. Ve bunu yaparlar, çünkü bununla birlikte giden ve tanıklık eden imanlılar vardır.
+Mısır'da belalar, Firavun'u ve ilahlarını gerçekte oldukları gibi ifşa etti - güçsüz, kimseyi koruyamayan, hiçbir gerçek şey sağlayamayan. Borazanlar bize de aynısını yapıyor. Tanrı yerine sessizce dayandığımız her şeyi, katman katman soyup çıkarıyorlar: maaş çeki, kiler, hayatının yol haritası. Hiçbiri, sandığımız kadar sağlam değilmiş. Her seferinde sadece üçte biri - bu dünyanın sonu değil, bir uyarı atışı. Ama uyarı atışları hissedilmek içindir.
 
-İnsanların Tanrı’nın bereketini görmeleri için sık sık dua ederiz, İsa’yı bulmaları için dua ederiz. Ama yaşamlarının sağlam bir temeli olup olmadığını kontrol etmeleri için Tanrı’nın (zorlu) durumlar getirmesi için dua ediyor muyuz? Ve günlük yaşamımızda sağlam bir temel bulurlar mı? Bu cesarete sahip miyiz, yoksa lütfen İsa bizi de kutsasın da iyi bir yaşamımız olsun diye mi?
+İşte enkazın içinde gizli olan iyi haber: raflar boşken bile Tanrı sağlıyor. Güvencelerin elinden alındığında korkuyla kıvranarak yaşamak zorunda değilsin, çünkü zaten onlarda güvende olman gerekmiyordu. Bu bir trajedi değil. Seni izleyen herkese, panik yapmayarak bir tanıklık olma fırsatı.
 
-## İlk dört borazan
+## Bu bile yetmediğinde
 
-<a name="5116"></a>
-Trompetler bize Tanrı’nın tanrıları ve liderleri ifşa ettiği ve onların güvenlik ve sağlayış veremeyeceğini ancak Tanrı’nın verebileceğini gösterdiği Mısır’dan Çıkış’ı hatırlatır. Bu trompet için de geçerlidir:
+Beşinci ve altıncı borazan daha karanlık bir yere gidiyor. Bu ikisi doğal afet değil - şeytani güç tarafından serbest bırakılıyorlar. Düşmüş bir yıldız uçurumu açar, insanları öyle işkenceyle eziyet eden çekirgeler salar ki insanlar {{% bible val="ölmeyi özler ama ölemezler" link="rev:9,6" lang="tr" %}}. Tanrı'nın kendi halkı mühürlenip korunuyor - illa acıdan değil, ama o özel umutsuzluktan. Sonra eski dünyanın yazacak daha büyük bir sayısı olmadığı kadar büyük bir şeytani ordu, insanlığın üçte birini öldürüyor.
 
-- birinci borazan: hasat ve yiyecek alır
-- i̇ki̇nci̇ trompet: i̇çme suyunu alir
-- üçüncü trompet: baliği besi̇n kaynaği olarak alin
-- dördüncü trompet: ticaret rotaları için yön ve temel olarak yıldızları ve ayı alır
+Bu artık konforlarını kaybetmekle ilgili değil. Bu, sağlık, akıl sağlığı, hayatın kendisiyle ilgili. Ve işte mide bulandıran kısım: bu bile insanları Tanrı'ya döndürmüyor. {{% bible val="Tövbe etmediler" link="rev:9,20-21" lang="tr" %}}. Her şeylerini kaybetmişken, kendilerini gerçekten kurtarabilecek Tanrı'ya yönelmek yerine, kendilerini yok eden cinlere daha sıkı sarılıyorlar.
 
-Trompetler dünyayı sarsar ve güvendiğimiz bazı şeylerin güvenilir olmadığını ortaya çıkarır. Ama diğerleri güvenilirdir: Her şey altüst olduğunda bile Tanrı bizi sağlar. Endişelenmemize ya da korku içinde yaşamamıza gerek yoktur ve buna tanıklık edebiliriz.
+Onlara çok çabuk gülme. Dünyan sarsıldığında neye güvendiğine bak - banka bakiyesi, sigorta poliçesi, iş unvanı, doktorun güven veren sözleri - Tanrı'nın senden gerçekte istediğiyle karşılaştır: cömertlik, alçakgönüllülük, sana karşılık veremeyecek insanlara hizmet, göremediğin bir Ruh'u izlemek. Bu bölümdeki insanlardan o kadar da farklı değiliz. Sadece henüz bunu kanıtlamamız istenmedi.
 
-## Beşinci ve altıncı trompet
+## Borazanların yapamadığı - ve yapabilen
 
-<a name="162b"></a>
-Sonraki iki trompet ise çok daha fazlasıdır:
+İşte zor sonuç: sıkıntının tek başına bir insan yüreğini değiştirmeye gücü yetmez. Borazanlar bunu kesin olarak kanıtlıyor. İnsanlar yiyeceklerini, sularını, yönlerini, sağlıklarını, hatta akıl sağlıklarını kaybedebilir ve yine de cinleri Tanrı'ya tercih edebilirler. Acı çekmek birini kurtarmaya yetseydi, bu bölümler bir uyanışla biterdi. Bitmiyorlar.
 
-- bunlara şeytani güçler neden olur
-- İnsanların yaşama arzusunu kaybetmesine ve nihayetinde öldürülmesine neden olurlar
-- Tanrı’nın halkı için özel bir koruması vardır (7. bölümdeki mühür onları yaşamlarından vazgeçmekten korur)
-
-Bu, öze doğru gelir. (Ruhsal ve fiziksel) sağlığa ve hatta yaşamın kendisine dokunuluyor. İnsanlar bunun bile güvenli olmadığını kabul etmelidir.
-
-Ama bu onları tüm bunları veren Tanrı’ya tövbe etmeye götürmez, tam tersine bu felaketleri getiren iblislere tapınmaya terk eder.
-
-Bu, gülüp geçmememiz gereken bir ironidir çünkü biz de çok daha iyi durumda değiliz: Bu dünyaya (bankadaki para, iş, sigorta, sağlık hizmetleri, …) çoğu zaman Tanrı’dan (cömertlik, muhtaçlara hizmet etmek, affetmek, alçakgönüllülük, Tanrı’nın Ruhunu takip etmek, …) daha çok güveniyoruz. Peki bunun iblislerle ne ilgisi var? Birkaç bölüm sonra göreceğiz.
-
-## Sonuç
-
-<a name="61a2"></a>
-Bu felaketlere bakış açısının çok farklı olduğunu gördük: Mühürlerde şeytanın maskesinin düşürülmesi ve kutsalların sadık bir şekilde dayanması anlatılırken, burada inanmayanların kalplerinin dönüştürülmesine odaklanılmaktadır. Bu öyküler insanların gözlerini ve yüreklerini açmaya yöneliktir.
-
-Diğer yandan: Zor zamanlar bir kalbi değiştirmek için yeterli değildir. Daha fazlasına ihtiyaç vardır ve bu küçük kitapla ortaya çıkacaktır.
+Ama şunu fark et - bu son söz değil. Yedinci borazan, birkaç bölüm sonrasına kadar çalmıyor - ve arada bir şey oluyor. Tanrı, felaket üzerine değil, ibadet ve tanıklık üzerine kurulu bambaşka bir tanıklık türüne sesleniyor. Oraya varacağız. Şimdilik, kendine sor: gerçekte ne için dua ediyorsun? Sadece bereket için mi dua ediyorsun, yoksa Tanrı'dan üzerinde durduğun her sahte güvenceyi ifşa etmesini isteyecek cesaretin var mı - bunun sana neye mal olabileceğini bilsen bile?
 
 ### Yansıma
 
-<a name="9660"></a>
-- Dualarınızın içeriği nedir?
-- Yanlış güvencelerin ortadan kalkması için nasıl dua edersiniz? Sizce Tanrı bu duaya nasıl cevap verir?
-- Yanlış güvenceleriniz elinizden alınırsa ne olur? Nedir bunlar? Onlardan vazgeçmeye istekli misiniz?
-- Yaşamınızdaki sarsılmaz güvenceler nelerdir?
-- Hangi güvencenizden vazgeçemezsiniz? Tanrı’yla ilişkinizi kaybettiğinizde de vazgeçmez miydiniz?
+- Duaların içeriği nedir - senin için bereket mi, yoksa net görebilme cesareti mi?
+- Yanlış güvencelerinin elinden alınması için nasıl dua ederdin? Sence Tanrı bu duaya nasıl karşılık verir?
+- Yanlış güvencelerin elinden alınsa ne olurdu? Bunlar nedir? Onlardan vazgeçmeye istekli misin?
+- Borazanlar, sıkıntının tek başına bir yüreği değiştiremeyeceğini kanıtlıyor. Bunu kendi hayatında ya da sevdiğin birinde gördün mü?
+- Hangi güvenceden vazgeçemezsin - Tanrı'yla ilişkini kaybetmek pahasına olsa bile?

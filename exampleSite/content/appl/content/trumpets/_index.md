@@ -23,63 +23,40 @@ kids: /kids/content/trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 ---
 
-The trumpets have inspired many people to think of end-time scenarios involving global catastrophes or even military action. But when we look closer, we see much about the role of prayer and how to deal with distress.
+Imagine your bank fails, your phone loses signal for good, your doctor tells you the treatment isn't working, and the news you trusted turns out to have been lying to you the whole time. All in one week. That is roughly what happens in Revelation 8 and 9. And here is the part that should stop you cold: it starts with a prayer meeting.
 
-## Our text
+## The prayer that started it all
 
-<a name="8552"></a>
-We are moving quickly forward and reached {{% bible val="chapter 8" link="rev:8" lang="en" %}} and {{% bible val="9" link="rev:9" lang="en" %}}.
+Before a single trumpet sounds, an angel takes incense and mixes it with {{% bible val="the prayers of God's people" link="rev:8,1-6" lang="en" %}}, and throws the mixture down to earth. Thunder, lightning, an earthquake — and then the trumpets begin. Look closely at the order. The prayers come first. The disasters follow. Somehow, our prayers, weak and stammering as they often are, carried by a strong angel because they weren't strong enough on their own, help set this chain of events in motion.
 
-## What to pray for
+Sit with that. We like to think our prayers ask God to bless us, protect us, smooth the road ahead. But what if some of our prayers — the ones about justice, about the kingdom coming, about people finally seeing the truth — actually ask God to shake things up? Do you really want that prayer answered the way it gets answered here? Because what comes next is not comfortable.
 
-<a name="b9e2"></a>
-The seventh seal is also the introduction of the trumpet series. And surprisingly, the trumpet series is triggered by the (weak) prayers of the saints, lifted up to God by a strong angel.
+## Everything you trust, taken away
 
-The angels wait with the trumpets until the prayers are fulfilled, but do our prayers really cause all the devastation caused by the trumpets? Or should we pray differently for all this to happen?
+The first four trumpets read like the plagues of Egypt all over again — because that's exactly what they're modeled on. {{% bible val="The first trumpet" link="rev:8,7" lang="en" %}} wipes out a third of the vegetation: your food supply. {{% bible val="The second trumpet" link="rev:8,8-9" lang="en" %}} kills a third of sea life and destroys ships: your trade and your income. {{% bible val="The third trumpet" link="rev:8,10-11" lang="en" %}} poisons a third of fresh water: your basic survival. {{% bible val="The fourth trumpet" link="rev:8,12-13" lang="en" %}} darkens a third of the sun, moon, and stars: your sense of direction, day and night themselves.
 
-But what is really going on? There are six trumpets that cause all kinds of tribulations, but in the end, people harden their hearts. They did not repent, which was at least part of the purpose of the trumpets. But after the seventh trumpet, many people worshiped God. And they do so because there are believers who have gone along and are a testimony.
+In Egypt, the plagues exposed Pharaoh and his gods for what they were — powerless, unable to protect anyone, unable to provide anything real. The trumpets do the same thing to us. They peel back, one layer at a time, everything we quietly lean on instead of God: the paycheck, the pantry, the roadmap for our lives. None of it was ever as solid as we assumed. Only a third each time — this isn't the end of the world, it's a warning shot. But warning shots are meant to be felt.
 
-We often pray for people to see God’s blessing, we pray for people to find Jesus. But do we pray that God would bring (challenging) situations for them to see if their life has a solid foundation? And would they find a solid foundation in our daily lives? Do we have that courage, or do we ask Jesus to bless us to have a good life?
+Here's the good news buried in the wreckage: God provides even when the shelves are bare. You don't have to live gripped by fear when your securities get stripped away, because you were never supposed to be secure in them in the first place. That's not a tragedy. That's an opportunity to be a testimony to everyone watching you not panic.
 
-## The first four trumpets
+## When even that isn't enough
 
-<a name="52f8"></a>
-The trumpets remind us of the Exodus from Egypt, where God exposed the gods and leaders and showed that they couldn’t provide security and provision, but God could. It is the same with the trumpets:
+The fifth and sixth trumpets go somewhere darker. These two aren't natural disasters — they're unleashed by demonic power. A fallen star opens the abyss, releasing locusts that torment people so badly they {{% bible val="long to die and cannot" link="rev:9,6" lang="en" %}}. God's own people are sealed and protected — not necessarily from the suffering, but from that particular despair. Then a demonic army, numbered so large the ancient world had no bigger number to write, kills a third of humanity.
 
-- First trumpet: takes the harvest and food
-- Second trumpet: takes drinking water
-- Third trumpet: takes fish as food source
-- Fourth trumpet: takes stars and moon for orientation and base for trade routes
+This is no longer about losing your comforts. This is about health, sanity, life itself being touched. And here is the gut-punch: even this doesn't turn people back to God. {{% bible val="They did not repent" link="rev:9,20-21" lang="en" %}}. Having lost everything else, they cling tighter to the very demons destroying them, rather than let go and turn to the God who could actually save them.
 
-The trumpets shake the world and reveal that certain things we rely on are not reliable. But others are: God provides for us even when things fall apart. We don’t have to worry or live in fear and we can be a testimony.
+Don't laugh at them too quickly. Look at what you trust when your world gets shaky — the bank balance, the insurance policy, the job title, the doctor's reassurance — versus what God actually asks of you: generosity, humility, serving people who can't repay you, following a Spirit you can't see. We are not so different from the people in this chapter. We just haven't been asked to prove it yet.
 
-## The fifth and sixth trumpet
+## What the trumpets can't do — and what can
 
-<a name="e243"></a>
-The next two trumpets are much more challenging:
+So here's the hard conclusion: hardship alone cannot change a human heart. The trumpets prove that conclusively. People can lose their food, their water, their direction, their health, and even their sanity, and still choose the demons over God. If suffering were enough to save anyone, these chapters would end in revival. They don't.
 
-- They are caused by demonic forces.
-- They cause people to lose the will to live and eventually kill people.
-- God has a special protection for His people (the seal of chapter 7 protects them from giving up their lives).
-
-This goes to the core. Health (mental and physical) is touched and even life itself. People must realize that even this is not safe.
-
-But this does not bring them to repentance to God who is the Giver of all this, but leaves them to worship the demons who are the very ones who bring these disasters.
-
-This is an irony that we should not laugh at, for we are not much better: We often trust this world (money in the bank, job, insurance, health care, …) more than God (generosity, serving the needy, forgiveness, humility, following God’s Spirit, …). But what does this have to do with demons? We will see in a few chapters.
-
-## The conclusion
-
-<a name="5993"></a>
-We have seen that the view of these plagues is very different: While the seals describe the unmasking of the devil against the faithful perseverance of the saints, here the focus is on the transformation of the heart of the unbelievers. These stories are designed to open people’s eyes and hearts.
-
-On the other hand: Hard times are not enough to change a heart. It needs more, and this will be revealed in the little book.
+But notice this isn't the last word. The seventh trumpet doesn't sound until several chapters later — and something happens in between. God calls out for a different kind of witness altogether, one built not on catastrophe but on worship and testimony. We'll get there. For now, ask yourself what you actually pray for. Do you pray only for blessing, or do you have the courage to ask God to expose whatever false security you're standing on — even knowing what that might cost you?
 
 ### Reflection
 
-<a name="8774"></a>
-- What is the content of your prayers?
-- How would you pray for false securities to be taken away? How do you think God would answer that prayer?
+- What is the content of your prayers — blessing for you, or the courage to see clearly?
+- How would you pray for your false securities to be taken away? How do you think God would answer that prayer?
 - What would happen if your false securities were taken away? What are they? Are you willing to give them up?
-- What are the unshakable securities in your life?
-- What security cannot you give up? Would you not give them up if you lost your relationship with God?
+- The trumpets prove that hardship alone cannot change a heart. Have you seen that proven true in your own life or in someone you love?
+- What security could you not give up — even if keeping it cost you your relationship with God?

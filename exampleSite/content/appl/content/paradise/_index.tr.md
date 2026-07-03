@@ -15,39 +15,44 @@ kids: /kids/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
 ---
 
-Vahiy kitabı cennetle ilgili büyük bir sonla biter. Ancak daha yakından baktığımızda, okurken kolayca gözden kaçırabileceğiniz çok şey vardır. Gelin birlikte bakalım.
+Çocuklara anlattığımız her masal "ve sonsuza dek mutlu yaşadılar" diye biter, ve bunun aslında ne anlama geldiğini hiç sormayız. Sadece zor kısmın bittiğini varsayarız. Vahiy de bir "sonsuza dek mutlu yaşadılar" ile bitiyor — ama yavaşlayıp gerçekten bakarsanız, bu beklediğiniz soruyu yanıtlamıyor. Size esas olarak neyi kazanacağınızı söylemiyor. Size sonunda, tam olarak kiminle birlikte olacağınızı söylüyor.
 
-## Bizim metnimiz
+## Deniz yok artık
 
-<a name="04d1"></a>
-{{% bible val="Bölüm 21" link="rev:21" lang="tr" %}} ve {{% bible val="22'de" link="rev:22" lang="tr" %}} hızla ilerliyoruz.
+{{% bible val="Bundan sonra yeni bir gökle yeni bir yeryüzü gördüm. Çünkü önceki gökle yeryüzü ortadan kalkmıştı. Deniz de yoktu artık." link="rev:21,1" lang="tr" %}} Denizle ilgili o ayrıntı gözden kaçırılması kolay, ama bu kitap boyunca deniz canavarların geldiği yer olmuştu — canavar 13. bölümde ondan çıkmıştı, ve 20. bölümde ölülerin teslim edildiği yer de orasıydı. Yani Yuhanna artık deniz olmadığını söylediğinde, coğrafyayı tasvir etmiyor. Size kötülüğün geleceği *hiçbir yer kalmadığını* söylüyor. Yenildiği bir yer değil. Var olmayı bırakmış bir yer.
 
-## Cennetin kilit noktası
+## Bir emlak ilanı değil, bir düğün
 
-<a name="c018"></a>
-Yeni cennetin tasvirine baktığımızda muhtemelen acı ve kederin sona erdiğini ya da yeni cennetteki lüks ortamı düşünürüz. Ama aslında konu bu değildir.
+{{% bible val="Kutsal kentin, yeni Yeruşalim'in gökten, Tanrı'nın yanından indiğini gördüm. Güveyi için hazırlanmış süslü bir gelin gibiydi." link="rev:21,2" lang="tr" %}} Ve sonra bütün kitabın kendisine doğru yol aldığı cümle: {{% bible val="İşte, Tanrı'nın konutu insanların arasındadır. Tanrı onların arasında yaşayacak. Onlar O'nun halkı olacaklar, Tanrı'nın kendisi de onların arasında bulunacak." link="rev:21,3" lang="tr" %}}
 
-Ancak dikkatleri diğer bazı kilit noktalara çekmek istiyorum:
+Bunun ne olmadığına dikkat edin. "Güzel bir yerde yaşayabileceksiniz" değil. Bu bir düğün. Bu öykünün en ilk sayfalarında, bir bahçede, bir adamla bir kadın günün serinliğinde Tanrı'yla birlikte yürüyordu, sonra bu son buldu. O andan beri olan her şey — Vahiy kitabının tamamı dahil — o yakınlığa geri dönen uzun yolun kendisiydi. İşte düğün günü bu.
 
-- Yeni Kudüs yeryüzüne iner: Bu yeryüzünde bir gerçeklik olacak, soyut bir varoluş değil, Pater Noster’de dua ettiğimiz gibi yeni bir beden olacak (“gökte olduğu gibi yerde de” gerçek olacak).
-- Yaşam ağacı: Cennetin tasvirinin sonunda insanlar yaşam ağacına erişebilirler, bu da Tanrı ile insan arasındaki ayrılığın çözüldüğü ve ilişkinin yeniden kurulduğu anlamına gelir.
-- Tapınak: Bu bölümde tapınakla ilgili pek çok terim kullanılır. Ancak bir tapınak olmayacaktır. Bunun yerine Yeni Yeruşalim Kutsalların Kutsalı şeklindedir. Bu, Tanrı’yla en yakın ilişki içinde olmanın bir resmidir ve tam bağlılığımızın bir başka örneğidir, çünkü hemen etrafı cehennemdir (ya hep içeride ya hep dışarıda).
-- Uluslar: Ulusların içeri gireceği söylenir.
-- Yahudiler ve kilise: Kilise ve İsrail’i tanımlayan ve bir uzlaşmayı (daha önce gerçekleşmesi gereken ;-)) tarif eden unsurlar vardır.
+{{% bible val="Onların gözlerinden bütün yaşları silecek. Artık ölüm olmayacak. Artık ne yas, ne ağlayış, ne de ıstırap olacak. Çünkü önceki düzen ortadan kalktı." link="rev:21,4" lang="tr" %}} Bugüne kadar taşıdığınız her keder türü, tek tek adlandırılmış ve tek tek sona erdirilmiş. Anılar silindiği için değil, gözyaşını silen kişi, sonunda ağlamayı bırakmanın güvenli olmasının sebebi olduğu için.
 
-Yeni Yeruşalim’in amacı, herkesin düşüşten önce olduğu gibi Tanrı’yla yakın bir ilişkiye sahip olmasıdır.
+{{% bible val="Tahtta oturan, 'İşte her şeyi yeniliyorum!' dedi." link="rev:21,5" lang="tr" %}} Eskilerin yerine *yeni şeyler yapıyorum* değil. Bu yaratılışı, bu dünyayı, ayaklarınızın altındaki o gerçek toprağı yeniliyor — ruhani bir yedeğe atmak için bir kenara atmıyor.
 
-## Peki ya cehennem?
+## Sadece bir kişinin girmesine izin verilen bir oda
 
-<a name="3135"></a>
-Cehennem basitçe bunun yokluğudur: Tanrı’yla ilişkinin olmaması ve bununla birlikte şu anda kanıksadığımız umut, sevgi, şefkat, neşe, huzur gibi tüm nimetlerin de olmaması. Bunların hepsi Tanrı’ya kur yapma dönemi (gerçek olanı önceden tattığımız dönem) sona erdiği için yok olmuştur.
+İşte üzerinde en uzun süre durulmaya değer ayrıntı. Yuhanna Yeni Yeruşalim'i ölçtüğünde, kusursuz bir küp çıkıyor karşımıza. Bütün Eski Antlaşma'ya bakın, o şekilde başka tam olarak tek bir nesne bulacaksınız: En Kutsal Yer, tapınağın en iç odası, Tanrı'nın varlığıyla o kadar dolu olan tek yer ki, yalnızca başkâhin girebilirdi — o bile yılda sadece bir kez, ve elinde kan olmadan, karşılaşmadan sağ çıkamama ihtimaline karşı.
 
-Tüm bunları duyduktan sonra iyi karar verin. Ne yapacaksınız? Şimdi nasıl yaşayacaksınız?
+Sonsuzluktaki adresinizin şekli bu. Dış avlular değil. "Sıradan insanların yaklaşmasına izin verilen kadar yakın" değil. Yılda bir gün, titreyerek girilen, tek bir kişiye ayrılmış oda. Şu anda yaşadığınız yer burası, ve artık sizin için içeri girecek bir kâhine ihtiyacınız yok, çünkü bütün şehir bu ölçüye göre inşa edilmiş.
+
+Ve tam bu yüzden kenarında bir orta yol yok. Duvarların dışı, bu kitabın yirmi bölüm boyunca sizi uyardığı her şeyle aynı nefeste anlatılıyor. Tanrı sizi yakınına almaya isteksiz olduğu için değil — bütün şehir yakınlık için tasarlanmış — ama hiç "evet" demediğiniz bir düğüne sürüklenemeyeceğiniz için. O duvarın hangi tarafında olduğunuz o gün belirlenmiyor. Bu hafta, şu anda neye "evet" dediğinizle belirleniyor.
+
+## Her vaat, tahsil ediliyor
+
+2. ve 3. bölümlerdeki yedi mektubu hatırlayın — her biri "galip gelene" bir vaatle bitiyordu. Efes'e yaşam ağacı vaat edildi. Sardes'e beyaz giysiler ve yaşam kitabında tutulan bir isim vaat edildi. Filadelfya'ya bir sütun olma, bir daha asla ayrılmama vaat edildi. İzmir'e ikinci ölümden dokunulmamış kalma vaat edildi. Bu vaatlerin her biri burada, bu iki bölümde, adıyla ödeniyor. Bu, öyküye sonradan eklenmiş yeni bir bitiş değil — kitabın yazdığı her çek, bir anda bozduruluyor.
+
+Ve son görüntü, var olan en eski görüntü: {{% bible val="Sonra bana billur gibi berrak yaşam suyu ırmağını gösterdi; Tanrı'nın ve Kuzu'nun tahtından çıkıyor... Irmağın iki yanında yaşam ağacı bulunuyordu." link="rev:22,1-2" lang="tr" %}} Bir ırmak, ve bir ağaç, bir bahçede, ve Tanrı halkının arasında yürüyor. Yaratılış 3 bir kapıyı çarptı. Vahiy 22 aynı kapı, şimdi ardına kadar açık, alevli kılıç gitmiş, ve içeri girmenize engel olan tek şey kendi isteksizliğiniz.
+
+## Peki şimdi ne olacak
+
+İşte bu kitabın en baştan, "ihtiyacı olanlara lütuf ve esenlik" diyen ilk bölümden, yedi mektuba, aralarındaki her mühre, borazana ve kâseye kadar sorduğu gerçek soru bu: *geleceği merak ediyor musunuz* değil, *gerçekte kimin düğünü için giyindiniz*. Davet bu bütün süre boyunca açık kaldı. Şehir zaten size uyacak şekilde ölçüldü.
 
 ### Yansıma
 
-<a name="5010"></a>
-- Neden cennete gitmek istiyorsunuz?
-- Diğer faydaların hiçbiri olmasa bile (sürekli acı, zulüm, hastalık, …) sonsuzluğu Tanrı ile geçirmek ister miydiniz? Eğer istemiyorsanız, neden?
-- Tüm sıkıntılarınız ortadan kalkacak olsa bile katlanamadığınız ya da umursamadığınız bir kişiyle sonsuza kadar yaşar mıydınız?
-- Bu cennet vizyonu şu anda dünyadaki yaşamınızı nasıl şekillendiriyor?
+- Cennete neden gitmek istiyorsunuz — Tanrı'ya yakınlık için mi, yoksa şu anda hoşlanmadığınız her şeyin yokluğu için mi? Sadece birincisi olsaydı, ne fark ederdi?
+- Diğer bütün faydalar olmasa bile (artık acı, hastalık, kayıp olmasa bile) sonsuzluğu Tanrı'yla geçirmek ister miydiniz? Eğer bu kolay bir "evet" ise, bu size ne gösteriyor?
+- Yeni Yeruşalim, yeryüzünde yalnızca başkâhinin girebildiği o tek odanın şeklinde. Bunun şimdiden sizin adresiniz olduğuna gerçekten inanmak bu hafta neyi değiştirirdi?
+- Yedi mektuptaki her vaat bu pasajda yerine geliyor. Bu vaatlerden hangisinin bugün yerine geldiğini kişisel olarak duymaya ihtiyacınız var?
+- Bu son vizyonu, sıradan bir Salı gününüzü yaşama biçiminizi nasıl değiştiriyor?

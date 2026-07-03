@@ -2,7 +2,7 @@
 title: "Pasal 13: Injil yang Sempurna"
 weight: 100
 base: /quick/content/beasts
-story: /story/tour
+story: /story/content/beasts
 deeper:
     - name: Kedua Binatang Itu
       link:  /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
@@ -19,119 +19,55 @@ kids: /kids/content/beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 ---
 
-Pasal ini tampak seperti dua monster yang membawa kehancuran, tetapi ini adalah salah satu pasal terdalam dalam Kitab Wahyu.
+Izinkan saya menggambarkan sebuah gereja kepadamu. Semua orang kagum padanya. Tidak ada yang meragukan bahwa Allah nyata di sana - mukjizat-mukjizatnya tak terbantahkan, seluruh dunia membicarakannya. Para pengkritik sudah diam, sebab siapa yang bisa membantah hasil sehebat itu? Setiap musuh Injil sudah bertobat atau tersingkir, dan bahkan ekonomi pun tunduk pada gerakan ini - kalau kamu di dalamnya, kamu makmur; kalau kamu di luar, kamu bahkan tidak bisa berdagang.
 
-## Teks Kita
+Sekarang jujurlah: apakah ada bagian dari dirimu yang tertarik pada gambaran itu? Diamlah sejenak untuk pasal ini, sebab impian itu justru yang sedang diadili di sini - dan putusannya akan mengejutkanmu.
 
-<a name="b0c3"></a>
-Kita sudah sampai di {{% bible val="Pasal 13" link="rev:13" lang="ind" %}}.
+## Sang naga membangun gerejanya sendiri
 
-## Strategi Iblis
+Pasal 12 berakhir dengan sang naga yang murka, setelah kehilangan sang anak, kalah dalam peperangan di surga, kehilangan cengkeramannya atas perempuan itu - empat kekalahan beruntun. Maka sekarang, {{% bible val="naga itu pun bertumpu di atas pasir di tepi laut" link="rev:12,18" lang="ind" %}} dan memanggil bala bantuan. {{% bible val="seekor binatang keluar dari dalam laut, bertanduk sepuluh dan berkepala tujuh... Dan mereka menyembah naga itu, karena ia telah memberikan kuasanya kepada binatang itu, dan mereka menyembah binatang itu, katanya: 'Siapakah yang sama seperti binatang ini, dan siapakah yang dapat berperang melawan dia?'" link="rev:13,1-4" lang="ind" %}} Lalu seekor binatang kedua, {{% bible val="keluar dari dalam bumi... Ia menjalankan seluruh kuasa binatang yang pertama di depan matanya, dan ia menyebabkan seluruh bumi dan semua penghuninya menyembah binatang yang pertama" link="rev:13,11-12" lang="ind" %}}, melakukan tanda-tanda, menurunkan api dari langit, bahkan membuat sebuah patung yang tidak bernyawa bisa berbicara.
 
-<a name="de0c"></a>
+Inilah yang perlu segera kamu lihat: ini bukan sekadar dua monster yang melakukan kekerasan. Perhatikan bentuknya - tiga sosok, yang satu memberikan seluruh kuasanya kepada yang kedua, yang kedua disembah dan diberi kuasa, yang ketiga mengarahkan semua orang kembali menyembah yang kedua dan menghidupkan apa yang seharusnya mati. Itu bukan kebetulan. Itu pemalsuan. Sang naga sedang membangun Tritunggal tiruannya sendiri: ia berperan sebagai Bapa yang memberikan segala kuasa; binatang pertama berperan sebagai Kristus yang bangkit, terluka namun tetap hidup, disembah oleh bangsa-bangsa; binatang kedua berperan sebagai Roh Kudus, mengarahkan semua penyembahan kembali kepada binatang pertama dan meniupkan kehidupan palsu ke dalam sebuah berhala. Inilah antikristus, dalam arti tertua dari kata itu: bukan sekadar *melawan* Kristus, melainkan berdiri *sebagai pengganti*-Nya, menjalankan gerejanya sendiri yang palsu, dengan mukjizat, martir, dan injilnya sendiri - dan itu meyakinkan. Binatang kedua membuat patung-patung berbicara, yang justru satu-satunya hal yang selalu diejek para nabi karena berhala-berhala tidak sanggup melakukannya, dan menurunkan api dari langit, tanda yang sama yang pernah dipakai Elia untuk membuktikan Allah mana yang nyata. Berdiri di pasar Romawi menyaksikan semua ini, kamu punya segala alasan untuk terguncang.
 
-### Serangan Ganda
+## Impian yang harus kamu bangunkan darinya
 
-<a name="e011"></a>
-Karena Iblis tidak berhasil menghancurkan Yesus maupun Israel, sekarang ia menyerang gereja dengan dua cara
+Bayangkan: sebuah dunia di mana kekristenan - atau sesuatu yang menyebut dirinya demikian - dipuji semua orang, tak terkalahkan, tak tertandingi, tanpa keraguan lagi tentang keberadaan Allah karena mukjizat terjadi sesuka hati, dan pemerintahan Kristen menguasai politik dan ekonomi sehingga tidak ada lagi yang perlu diperdebatkan. Setiap musuh dikalahkan. Setiap lutut bertelut, mau atau tidak.
 
-- melalui kekerasan: penganiayaan, tekanan ekonomi dan finansial, dan
-- melalui tipu daya
+Kalau itu impianmu - dan jujurlah, kebanyakan dari kita pernah menginginkan versi tertentu dari itu - bangunlah. Itu mimpi buruk yang mengenakan kostum injil. Perhatikan apa yang sebenarnya harus terjadi supaya "kabar baik" ini menjadi nyata: bukan bahwa dunia *memilih* Allah, melainkan bahwa dunia *dipaksa* tunduk lewat ketakutan, tontonan, dan ancaman kehilangan mata pencaharian jika tidak patuh.
 
-Tipu dayanya adalah dengan meniru Tritunggal, yang bukan hanya mencemarkan nama gereja, tetapi juga menarik orang-orang yang sungguh-sungguh ingin mengikut Yesus. Sang naga meniru Allah Bapa, binatang pertama meniru Yesus yang bangkit, dan binatang kedua meniru Roh Kudus yang dapat memberi hidup.
+## Mengapa kejahatannya bukan seperti yang kamu kira
 
-Inilah antikristus ("anti" bisa juga berarti "sebagai pengganti"). Ia menggantikan Yesus dan membangun gerejanya sendiri. Masalahnya adalah dunia tidak dapat membedakan antara Tritunggal yang asli dan yang palsu.
+Masalah dengan kerajaan sang binatang bukanlah karena ia tidak berkuasa, tidak bermukjizat, tidak punya kisah kebangkitan, atau tidak menjangkau seluruh dunia. Ia memiliki semua itu - setiap fitur yang kadang diharapkan orang Kristen ada lebih banyak dalam iman mereka sendiri. Masalahnya sepenuhnya terletak pada *cara* ia mencapainya.
 
-Dan itu juga tampak sangat meyakinkan
+Binatang pertama disembah, tetapi bukan karena ia mengasihi seseorang sampai mati - melainkan karena ia menakutkan, dan tidak ada yang bisa melawannya. Yesus mati sepenuhnya, karena kasih, bagi orang-orang yang tidak layak menerimanya. Binatang pertama bahkan tidak benar-benar mati - {{% bible val="salah satu kepalanya seperti kena luka parah yang mematikan, tetapi luka yang mematikan itu sembuh" link="rev:13,3" lang="ind" %}} - sebuah luka, bukan kematian, satu kepala dari tujuh. Injilnya bukan "lihatlah betapa besar kasihku padamu," melainkan "lihatlah, siapa yang mungkin bisa melawanku." Itu adalah ketakutan yang mengenakan kostum kasih.
 
-- Sang naga tampak memiliki segala kuasa di dunia ini dan ia memerintah.
-- Binatang pertama telah mati dan bangkit kembali.
-- Binatang kedua dapat memberi nafas hidup kepada sebuah patung (dalam Perjanjian Lama, berhala selalu diejek karena tidak bisa melakukan hal itu).
-- Binatang kedua dapat menurunkan api dari langit, tanda keilahian, seperti yang kita lihat pada Elia.
+Binatang kedua melakukan tanda-tanda, tetapi bukan untuk mengundang siapa pun dengan bebas seperti cara Roh menarik orang yang bersedia. Ia melakukan tanda-tanda untuk memanipulasi: terimalah tandanya, atau dibunuh; terimalah tandanya, atau kehilangan kemampuan membeli roti bagi keluargamu. {{% bible val="dan ia menyebabkan, sehingga kepada semua orang, kecil atau besar, kaya atau miskin, merdeka atau hamba, diberi tanda pada tangan kanannya atau pada dahinya, dan tidak seorang pun yang dapat membeli atau menjual selain dari mereka yang memakai tanda itu" link="rev:13,16-17" lang="ind" %}} Itu adalah paksaan yang mengenakan wajah keagamaan. Dan sang naga mengklaim kendali penuh sebagaimana Bapa memilikinya - tetapi pemerintahan Bapa memberi ruang bagi kebebasan sejati, bahkan bagi pertanyaan yang menyakitkan, "bagaimana mungkin Allah yang penuh kasih membiarkan semua ini terjadi?" Sang naga tidak sanggup menoleransi pertanyaan itu, sebab ia tidak menawarkan kasih. Ia menawarkan dominasi, dan dominasi tidak punya kesabaran terhadap siapa pun yang mungkin berkata tidak.
 
-Dan itu semua sangat menggoda.
+Jadi inilah jalan pintas tertua dan paling menggoda bagi gereja, dan pasal ini menyebutnya secara langsung: tidak ada jalan pintas menuju Kerajaan Allah. Gereja pernah memakan umpan ini sebelumnya - perang salib, pemaksaan pertobatan, inkuisisi, "tujuan menghalalkan cara" yang dibungkus sebagai semangat rohani - dan setiap kali gereja meraih alat-alat sang binatang untuk membangun Kerajaan Allah, gereja itu sendiri berubah menjadi sang binatang. Kita harus menolak untuk memberitakan Injil dengan ketakutan akan neraka, dengan manipulasi, atau dengan kebohongan yang menghibur bahwa tujuan kita menghalalkan cara apa pun yang memenangkannya.
 
-## Impian Itu
+## Tanda itu, dulu dan sekarang
 
-<a name="8a64"></a>
-Bisakah kamu membayangkan sebuah dunia di mana kekristenan dipuji oleh seluruh dunia dan dianggap tak terkalahkan?
+Apa sebenarnya tanda pada tangan dan dahi itu, secara praktis, bagi para pembaca pertama? Kesetiaan kepada kultus pemujaan kaisar - dilakukan di depan umum, diawasi oleh tetanggamu, dipaksakan lewat bisa-tidaknya kamu tetap berdagang di kotamu sendiri. Binatang pertama adalah Roma sendiri: tak terbunuh, sebab ketika satu kaisar mati, kaisar berikutnya menggantikan perannya dan kekaisaran terus menuntut penyembahan. Binatang kedua adalah jaringan setempat yang menjadikan kesetiaan pada kultus itu syarat untuk bertahan hidup sehari-hari dan secara ekonomi - para pejabat, perkumpulan dagang, para pengusaha. Semua itu sebenarnya bukan tentang Roma; di balik setiap kaisar dan setiap perkumpulan dagang berdirilah sang naga, dan itulah sebabnya perjuangan gereja tidak pernah sungguh-sungguh melawan para penguasa itu sendiri, melainkan melawan kuasa rohani yang memakai mereka.
 
-Bisakah kamu membayangkan sebuah dunia di mana semua orang menyembah Allah dan semua musuh orang Kristen dikalahkan dan dimusnahkan?
+Tanda itu tidak pernah hilang, ia hanya berhenti membutuhkan sebuah kuil. Tidak harus berupa cip di tanganmu. Bisa jadi itu etos kerjamu, kartu kreditmu, ponsel pintarmu, tayangan-tayangan yang tidak bisa kamu bayangkan hidup tanpanya - apa pun yang secara diam-diam dituntut budayamu sebagai bukti bahwa kamu termasuk di dalamnya, didukung oleh ketakutan yang sama yang selalu dipakai sang binatang.
 
-Bisakah kamu membayangkan sebuah dunia di mana tidak ada keraguan tentang keberadaan dan kemahakuasaan Allah, dan di mana tanda-tanda serta mukjizat terjadi setiap hari?
+## Dinilai dan gagal: 6, 6, 6
 
-Bisakah kamu membayangkan sebuah dunia yang diperintah oleh orang Kristen yang memiliki kendali penuh atas keputusan politik, ekonomi, dan keuangan?
+Dan di sinilah pasal ini berubah dari peringatan menjadi kelegaan: {{% bible val="Yang penting di sini ialah hikmat: barangsiapa yang bijaksana, baiklah ia menghitung bilangan binatang itu, karena bilangan itu adalah bilangan seorang manusia, dan bilangannya ialah enam ratus enam puluh enam." link="rev:13,18" lang="ind" %}} Bukan satu angka enam. Tiga angka - setiap anggota dari Tritunggal tiruan ini sedang dinilai, dan masing-masing gagal tepat di titik yang seharusnya berhasil jika ia yang asli.
 
-Itu kedengarannya seperti kabar baik, terlalu baik untuk menjadi kenyataan. Atau lebih tepatnya, terlalu buruk untuk menjadi kenyataan.
+Sang naga mengklaim segala kuasa Bapa - tetapi otoritasnya diberikan kepadanya dan dibatasi hanya empat puluh dua bulan. Nilai: enam. Binatang pertama mengklaim kematian dan kebangkitan Sang Anak - tetapi ia hanya terluka, bukan mati, dan ia mati untuk membuat orang takut, bukan karena ia mengasihi mereka. Nilai: enam. Binatang kedua mengklaim karya Roh yang mengundang dan memberi hidup - tetapi ia tidak pernah mengundang, hanya mengancam dan mempertontonkan. Nilai: enam. Enam, enam, enam: angka manusia, yang berusaha mencapai angka Allah, yaitu tujuh, dan selalu kurang satu. Perbedaannya tidak pernah soal siapa yang lebih berkuasa. Selalu soal kasih - satu-satunya hal yang tidak bisa dipalsukan oleh sang binatang, sehebat apa pun efek khususnya.
 
-Jika itu adalah impianmu, bangunlah, karena itu adalah mimpi buruk sang naga dan kedua binatang itu!
+Angka yang sama muncul dalam kisah ketiga sahabat Daniel, yang dilemparkan ke dalam perapian api karena menolak sujud pada sebuah patung emas yang, anehnya, berukuran enam puluh hasta kali enam kali enam. Jawaban mereka kepada sang tiran layak dihafalkan: *Allah kami sanggup melepaskan kami, tetapi sekalipun tidak, kami tidak akan sujud.* Itulah sikap yang dituntut pasal ini darimu - bukan keyakinan bahwa Allah pasti akan membebaskanmu dari harga ketaatan, melainkan tekad untuk tetap setia sekalipun Ia tidak melakukannya, sambil percaya bahwa akhir cerita sudah ditentukan bahkan ketika bagian tengahnya tampak seperti perapian api.
 
-## Kenyataannya
+## Jadi trinitas mana sebenarnya yang kamu sembah
 
-<a name="9778"></a>
-Kenyataan ini digambarkan dalam pasal ini melalui sang naga dan kedua binatang. Ia tidak bisa menghentikan kekristenan, jadi ia justru mendorongnya - versi jahatnya. Tetapi apa yang membuatnya begitu jahat? Cara bagaimana hal itu terjadi.
-
-Ia menampilkan sosok Yesus yang bangkit, tetapi reaksinya bukan "Betapa besar kasih-Nya", melainkan "Siapa yang bisa melawannya?" Alasannya adalah rasa takut.
-
-Semua orang menyembah binatang itu karena mereka melihat bagaimana ia menghancurkan komunitas. Persatuan tercipta melalui penindasan dan ketakutan.
-
-Binatang itu dapat melakukan mukjizat, tetapi itu bukan berkat, melainkan manipulasi, sebab siapa yang tidak menyembah dan menerima tandanya akan dibunuh. Itu adalah tontonan untuk mengesankan orang, dan ancaman bagi mereka yang tidak ikut serta.
-
-Tidak ada jalan pintas menuju Kerajaan Allah. Gambaran ini menggoda, dan gereja telah gagal - dan terus gagal - dalam perang salib, penginjilan paksa, inkuisisi, dan lain-lain. Tetapi kehendak yang tidak bersyarat untuk mendirikan Kerajaan Allah dengan cara apa pun membuat gereja menjadi binatang buas.
-
-Dan itulah yang dilihat oleh dunia, dan kita harus melakukan segala upaya untuk menunjukkan wajah sejati gereja. Itu bukan berarti menghindari setiap konflik, melainkan menghadapi setiap perselisihan dengan cara-cara Yesus.
-
-Kita tidak boleh menyebarkan Injil dengan ketakutan (akan neraka) atau dengan mengikuti arus, atau percaya bahwa tujuan menghalalkan segala cara.
-
-## Tanda di Tangan dan Dahi
-
-<a name="f58d"></a>
-Inilah tanda yang diberikan Allah kepada umat-Nya saat keluar dari Mesir: "Sudahkah kamu melihat apa yang telah Kulakukan di Mesir? Kamu bisa percaya bahwa Aku akan melindungi dan memelihara kamu."
-
-Iblis berkata: "Lihatlah sekelilingmu. Entah kamu sengsara dan mati, atau kamu bersumpah setia kepadaku." Tanda di tangan dan di dahi adalah tanda penyerahan diri dalam tindakan dan pikiran.
-
-Kamu mungkin pernah mendengar bahwa itu adalah sebuah cip, tetapi tidak harus demikian - bisa jadi itu adalah etos kerjamu, kartu kreditmu, ponsel pintarmu, atau televisimu. 2000 tahun yang lalu, itu adalah perilakumu di ruang publik.
-
-Iblis menggunakan tipu daya dan bekerja secara tersembunyi.
-
-## Kenyataan Sejarah
-
-<a name="ed62"></a>
-Seperti apa hal ini secara konkret pada zaman Yohanes?
-
-Binatang pertama adalah kaisar di Roma dengan kekuasaan politik dan militernya serta kultus pemujaan kaisar (kaisar adalah perantara berkat para dewa). Ia tampak tak terkalahkan, sebab bahkan jika ia mati, penggantinya akan menduduki posisinya.
-
-Binatang kedua adalah para pejabat setempat yang mendorong dan memaksakan kultus pemujaan kaisar, serta ekonomi dan masyarakat yang bergantung padanya.
-
-Tanda di tangan dan dahi adalah perilaku di ruang publik yang mengikuti kultus pemujaan kaisar, di mana orang diawasi oleh tetangga dan rekan kerja agar tidak menyimpang dari jalan yang benar.
-
-Tetapi intinya adalah bahwa semua orang, bahkan kaisar sekalipun, adalah boneka Iblis yang bekerja di balik layar. Musuh yang sesungguhnya bukanlah kaisar, para pejabat, atau masyarakat, melainkan kuasa-kuasa rohani yang ada di balik semua itu.
-
-## Kegagalan Iblis
-
-<a name="cdae"></a>
-Meskipun tiruan Tritunggal ini begitu meyakinkan, ia dinilai dengan angka 666. Ini bisa memiliki beberapa arti:
-
-- Iblis meniru Tritunggal, tetapi gagal dalam setiap aspeknya dan mendapat nilai enam untuk masing-masing (angka manusia, bukan angka Allah).
-- 666 dalam kisah teman-teman Daniel di dalam perapian api adalah dorongan untuk bertahan, bahkan ketika Allah tidak campur tangan.
-- 666 adalah peringatan agar tidak tergoda oleh Iblis.
-
-Sekali lagi, apa alasan kegagalan Iblis? Dalam setiap pribadi Tritunggal tiruan itu, ada sesuatu yang penting yang hilang:
-
-- Allah adalah penguasa yang mahakuasa, tetapi Ia tidak memaksakan itu kepada siapa pun, jika tidak, hampir tidak ada orang yang akan bertanya: "Bagaimana Allah bisa membiarkan semua kejahatan ini terjadi?" Iblis, di sisi lain, menghancurkan segala sesuatu yang tidak sesuai dengan kehendaknya.
-- Yesus mati karena kasih-Nya kepada kita, tetapi binatang pertama hanya menakut-nakuti orang.
-- Sementara Yesus benar-benar mati sepenuhnya, binatang pertama hanya terluka.
-- Roh Kudus tidak memaksa orang dan tidak mempertontonkan mereka, tetapi binatang kedua justru melakukan hal itu dan menggunakan manipulasi serta intimidasi.
-
-Jadi perbedaan mendasar antara Iblis dan Yesus pada masa ini bukanlah kekuasaan atau keberhasilan, melainkan kasih yang kita gunakan dalam berinteraksi dengan orang lain, dan kemampuan kita untuk menerima kelemahan. Saya harap ini bukan kabar baru bagimu, tetapi kisah ini menjelaskannya dengan cara yang sangat mengena.
+Setiap godaan dalam pasal ini nyata, bukan karikatur. Kamu memang kadang berharap orang tidak menganggap imanmu bodoh. Kamu memang kadang menginginkan bukti yang tak terbantahkan, Allah yang secara kasatmata menghancurkan setiap musuh, gereja yang terlalu kuat untuk ditertawakan. Keinginan itu tidak gila. Tetapi pasal ini menarik garis persis di tempat yang seharusnya: bukan pada kekuasaan, bukan pada mukjizat, bahkan bukan pada kemenangan - melainkan pada kasih. Tritunggal yang asli menang dengan berdarah bagi orang-orang yang tidak layak menerimanya. Yang palsu menang dengan membuat orang terlalu takut untuk berkata tidak. Selebihnya, dari kejauhan, keduanya bisa tampak identik. Satu perbedaan itu adalah keseluruhan perbedaannya.
 
 ### Refleksi
 
-<a name="1f8a"></a>
-- Apakah kamu pernah terjatuh dalam impian ini? Dalam hal apa?
-- Pernahkah kamu menggunakan senjata sang binatang (kekerasan, ketakutan, manipulasi, intimidasi, ...) dan apa hasilnya?
-- Apakah kamu melihat dengan jelas perbedaan antara tipu daya dan kenyataan di dalam gereja? Bisakah kamu mengenalinya dalam masyarakat kita?
-- Mana yang menjadi binatang pertama dan mana yang menjadi binatang kedua di lingkunganmu? Bagaimana kamu bisa tetap setia?
-- Dengan cara apa (bahkan yang halus sekalipun) orang-orang hari ini menunjukkan kesetiaan mereka kepada binatang itu?
-- Konsekuensi apa yang diberikan oleh "binatang-binatang" masa kini jika kamu tidak menyerah?
-- Di mana kamu ditantang untuk menyerah (karena putus asa, karena keyakinan, karena godaan)?
+- Apakah "impian" yang digambarkan di awal khotbah ini sedikit banyak menggodamu - versi kekristenan yang tak terbantahkan, tak tertandingi, dihormati semua orang? Bagian mana yang paling menarik bagimu?
+- Pernahkah kamu meraih alat-alat sang binatang - ketakutan, tekanan, manipulasi, "tujuan menghalalkan cara" - untuk berusaha membangun sesuatu yang baik? Apa yang sebenarnya terjadi?
+- Sang binatang gagal bukan pada kekuasaan, melainkan pada kasih. Di manakah dalam hidupmu sendiri kamu pernah mengacaukan antara terlihat mengesankan atau berhasil dengan benar-benar mengasihi orang lain?
+- Seperti apa tanda binatang itu dalam lingkunganmu sendiri hari ini - pekerjaan, uang, teknologi, tekanan sosial? Di mana kamu merasakan tekanan untuk patuh hanya demi bisa terus "membeli dan menjual"?
+- Sahabat-sahabat Daniel berkata, "Allah kami sanggup melepaskan kami, tetapi sekalipun tidak, kami tidak akan sujud." Adakah bidang di mana kamu hanya setia karena kamu berharap Allah akan membebaskanmu dari harganya?
+- Di manakah kamu sedang ditekan untuk menyerah sekarang - karena takut, karena lelah, atau karena tawaran yang benar-benar menggoda? Berapa harga yang harus kamu bayar untuk tetap setia di sana minggu ini?

@@ -13,37 +13,34 @@ kids: /kids/content/scroll
 expl: /expl/content/scroll/the-little-scroll
 ---
 
-There is a small scroll that John has to eat and it is never mentioned again. What do we do with it, and does it have anything to do with the scroll with the seven seals?
+Have you ever finished a job only to be handed a second one nobody warned you about? That's where we land in Revelation 10. Six trumpets have sounded, the world has been shaken to its foundations, and people still refuse to turn to God. Dead end. So what happens next? Not the seventh trumpet — not yet. Instead, a scroll shows up, and someone has to eat it.
 
-## Our text
+## Back to the beginning
 
-<a name="b17d"></a>
-We are moving quickly forward and reached {{% bible val="chapter 10" link="rev:10" lang="en" %}}.
+To understand this scroll, we have to rewind to chapter 5, where a much bigger scroll appeared and only Jesus was found worthy to open it. That was the moment the whole story turned — Jesus, the slain Lamb, takes the scroll and begins to unroll history itself. Here in chapter 10, a mighty angel — some say it's Christ himself, robed in cloud, face like the sun, a rainbow over his head — comes down holding a little scroll, already open, in his hand.
 
-## The scroll
+Don't let the word "little" fool you into thinking this is a footnote. This scroll is directly connected to the first one. And what it tells us should reorder how you think about the cross. Jesus' death and resurrection accomplished everything necessary for salvation — that's settled, that's finished. But it was not the end of the plan. There is still something the church must do. Not to add to what Jesus did, but to carry it forward. God's redemption plan has an active, ongoing role for you in it, and you don't get to sit this one out just because Jesus already won.
 
-<a name="acd1"></a>
-After the first six trumpets, we are brought back to the beginning to move forward. We pick up the story of the seals where Jesus was the only one worthy to open the scroll.
+Notice, too, where this angel stands: one foot on the sea, one foot on the land — claiming both. In a few chapters, those exact two places are where the beasts will come crawling up from, looking unstoppable, looking like they own the world. But they don't. The territory was already claimed. Whatever power the beast displays later, you're not meant to be afraid of it, because the ground under its feet already belongs to someone else.
 
-Here we have the Son of Man, Jesus, riding on a cloud with a scroll in his hand (do not be confused by the term “small”). We should not think that Jesus’ death on the cross was enough. The Church has an active and obligatory part in it.
+## Sweet in the mouth, bitter in the stomach
 
-Before we look at this plan, there are some important observations:
+Then comes the strange command: eat the scroll. John isn't the first one asked to do this — Ezekiel ate a scroll too, and it made the message part of him before he ever preached a word of it. This isn't information to skim. It's something you take in, digest, and let become part of your own body before you can speak it to anyone else.
 
-- The angel has one foot on the sea and one on the earth: he shows dominion and control over these areas. These are the two places where the devil calls the two beasts, and where the Church doesn’t have to be afraid, even though the beast looks impenetrable.
-- The mystery of God is revealed. After the mystery of the church in chapter 1, we now see this before we see the mystery of the devil in chapter 17. What is the mystery of God and how does it affect the church?
-- John has to eat the scroll and it is sweet in the mouth but bitter in the stomach: The scroll is good news, as we will see shortly, but it is also bitter because it involves suffering. However, bitter food is helpful for good digestion: So the Church is not only being asked to do something, but it will also be for the good of the Church itself.
+And the taste is exactly right: {{% bible val="sweet as honey in the mouth" link="rev:10,9-10" lang="en" %}}, but sour in the stomach. Sweet, because the message is genuinely good news — the mystery of God, the truth that Christ has already triumphed. Bitter, because living it out means suffering. It means testimony that costs you something. You cannot preach this and stay comfortable. But think about bitter food for a moment — the kind that's actually good for your digestion, the kind that does something useful once it's inside you, even though it doesn't taste like dessert. That bitterness is not punishment. It's for your good. The scroll doesn't just use the church. It matures the church.
 
-## The calling
+## A mystery still unfolding
 
-<a name="fbd0"></a>
-We will see in the next chapters that this call in the scrolls is to save the nations, which describes all the people of the world. After the last two chapters, it is clear that suffering and hard times will not bring about the change.
+There's a detail easy to rush past: seven thunders speak, and John is about to write down what they said — and he's told to seal it up instead. We are not owed every answer. Some things about God's plan stay hidden, on purpose, and our task isn't to decode every mystery but to be faithful with what has already been revealed.
 
-It is the witness of the Church. And by witness I do not mean a good lifestyle. But we will see that in the next chapter.
+What has been revealed is this: after two chapters proving that hardship and catastrophe cannot turn a human heart toward God, something else is introduced that can — the mystery of God, unfolding through weakness rather than power. Just as Jesus conquered not through raw force but through a cross, the church will follow that same pattern. Not more disaster. Not louder threats. A witness, lived out at cost, carried by people who have swallowed the whole message — sweetness and bitterness together — and let it become part of who they are.
+
+That's the calling handed to you in this chapter. Not comfort. Not spectacle. A scroll to eat, and then a life to live from it. What that witness actually looks like — we'll see next.
 
 ### Reflection
 
-<a name="1bde"></a>
-- Do you think the church can overcome unless it is willing to suffer?
-- Are you overwhelmed by the powers of this world or do you have confidence in God no matter what is reported in the news and what is going on in the world?
-- Do you think there is more in your life and it is time to step up?
-- Do you have a calling in your life but are unsure and have never really stepped up?
+- The scroll is sweet in the mouth but bitter in the stomach. Where in your faith have you experienced both — real joy alongside real cost?
+- Jesus' death on the cross was enough for salvation, but the church still has an active part to play. What do you think your part is?
+- Do you believe the church can succeed without being willing to suffer for it?
+- Are you overwhelmed by the state of the world, or do you have confidence in God regardless of the headlines?
+- Is there a calling on your life that you've sensed but never really stepped into?

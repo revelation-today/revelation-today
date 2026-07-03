@@ -19,116 +19,55 @@ kids: /kids/content/beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 ---
 
-Bu bölüm yıkıma koşan iki canavar gibi görünüyor, ancak bu tüm kitaptaki en derin bölümlerden biri. Hadi hazırlanalım.
+Size bir kilise tarif edeyim. Herkes ona hayran. Kimse orada Tanrı'nın gerçek olduğundan şüphe etmiyor — mucizeler tartışılmaz, bütün dünya bundan konuşuyor. Eleştirmenler sustu, çünkü böyle sonuçlara karşı kim tartışabilir ki? Müjdenin her düşmanı ya iman etti ya da bir kenara itildi, ve ekonominin kendisi bile bu harekete göre şekilleniyor — içindeysen zenginleşiyorsun, dışındaysan iş bile yapamıyorsun.
 
-## Bizim metnimiz
+Şimdi dürüstçe söyleyin: içinizin bir köşesi bu tabloya çekiliyor mu? Bu bölüme sessizce oturun, çünkü tam da bu hayal şu anda yargılanıyor — ve karar sizi şaşırtacak.
 
-<a name="023e"></a>
-Hızla ilerliyoruz ve {{% bible val="13. bölüme" link="rev:13" lang="tr" %}} ulaştık.
+## Bir ejderha kendine kilise kuruyor
 
-## Şeytan’ın stratejisi
+12. bölüm ejderhanın öfkeyle bitmesiyle sona ermişti: çocuğu kaybetmiş, gökteki savaşı kaybetmiş, kadını elinden kaçırmış — art arda dört başarısızlık. Şimdi ise {{% bible val="ejderha denizin kıyısında durdu" link="rev:12,18" lang="tr" %}} ve takviye çağırıyor. {{% bible val="denizden çıkan, on boynuzlu, yedi başlı bir canavar... İnsanlar ejderhaya tapındılar, çünkü canavara kendi yetkisini o vermişti. Canavara da tapınarak, 'Canavar gibisi var mı? Onunla kim savaşabilir?' dediler." link="rev:13,1-4" lang="tr" %}} Sonra ikinci bir canavar, {{% bible val="topraktan çıkan... Kendi önünde, ilk canavarın bütün yetkisini kullanıyor, yeryüzünü ve orada yaşayanları ilk canavara tapınmaya zorluyor" link="rev:13,11-12" lang="tr" %}}, belirtiler gerçekleştiriyor, gökten ateş yağdırıyor, hatta cansız bir heykeli bile konuşturuyor.
 
-<a name="080c"></a>
+Hemen görülmesi gereken şey şu: bu sadece şiddet uygulayan iki canavar değil. Şekline bakın — üç figür, biri bütün yetkisini ikinciye veriyor, ikincisi tapınılıyor ve güçlendiriliyor, üçüncüsü herkesi ikinciye tapınmaya yönlendiriyor ve ölmesi gerekeni canlandırıyor. Bu rastgele değil. Bu bir sahtekârlık. Ejderha kendine sahte bir üçleme kuruyor: bütün yetkiyi veren Baba'yı oynuyor; ilk canavar, yaralı ama diri, uluslar tarafından tapınılan dirilmiş Mesih'i oynuyor; ikinci canavar, bütün tapınmayı ilk canavara yönlendiren ve bir puta sahte yaşam üfleyen Kutsal Ruh'u oynuyor. Bu, en eski anlamıyla Deccal'dir: sadece Mesih'e *karşı* değil, O'nun *yerine geçen*, kendi sahte kilisesini, kendi mucizeleriyle, kendi şehitleriyle, kendi müjdesiyle yürüten biri — ve bu ikna edici. İkinci canavar heykelleri konuşturuyor, ki bu tam olarak her peygamberin putları alay konusu ettiği o tek şey — putların yapamadığı şey. Ve gökten ateş indiriyor, İlyas'ın bir zamanlar hangi Tanrı'nın gerçek olduğunu kanıtlamak için kullandığı işaretin ta kendisini. Roma'daki bir pazar yerinde durup bunu izleseydiniz, sarsılmamak için hiçbir sebebiniz olmazdı.
 
-## Çifte saldırı
+## Uyanmanız gereken rüya
 
-<a name="6529"></a>
-Şeytan İsa’yı ya da İsrail’i yenemediği için kiliseye saldırır. Bunu iki şekilde yapar
+Şunu hayal edin: Hıristiyanlığın — ya da öyle iddia eden bir şeyin — herkes tarafından övüldüğü, yenilmez, sorgulanamaz bir dünya; mucizeler emirle gerçekleştiği için Tanrı'nın varlığından şüphe kalmamış; Hıristiyan yönetimin siyaseti ve ekonomiyi kontrol ettiği için tartışılacak hiçbir şey kalmamış. Her düşman yenilmiş. Her diz, ister istemez eğilmiş.
 
-- kaba kuvvetle: zulüm, ekonomik ve mali baskı
-- tarafından aldatma
+Eğer bu sizin rüyanızsa — ve dürüst olun, çoğumuz bunun bir versiyonunu diledik — uyanın. Bu, müjde kostümü giymiş bir kâbus. Bu "iyi haberin" gerçek olması için aslında neyin gerekli olacağına dikkat edin: dünyanın Tanrı'yı *seçmesi* değil, korku, gösteri ve uymazsan geçim kaynağını kaybetme tehdidiyle itaate *üretilmesi*.
 
-Üçlüyü taklit ederek hem kiliseyi gözden düşürür hem de İsa’yı takip etmek isteyen insanları kiliseye çeker. Ejderha tüm güce sahip olan Baba Tanrı’yı, birinci canavar dirilmiş Mesih’i, ikincisi ise yaşam verme gücüne sahip olan Kutsal Ruh’u taklit eder.
+## Kötülüğü sandığınız gibi değil
 
-Deccal’in anlamı budur (“anti” aynı zamanda “yerine” anlamına da gelebilir). Mesih’in yerine geçer ve kendi kilisesini inşa eder. Dünya gerçek ve sahte üçleme arasında ayrım yapamaz. Ve bu gerçekten inandırıcı görünüyor:
+Canavarın krallığındaki sorun, gücü, mucizeleri, bir diriliş öyküsü ya da dünya çapında bir erişimi olmaması değil. Hepsine sahip — Hıristiyanların bazen kendi imanlarında daha fazla olmasını dilediği her özelliğe. Sorun tamamen *nasıl* oraya vardığında.
 
-- Ejderha bu dünyadaki tüm güce sahip gibi görünüyor.
-- ilk canavar öldürüldü ve diriltildi
-- ikinci canavar bir heykele hayat verebilir (Eski Ahit’te bunu yapamadıkları için putlarla alay edilirdi)
-- ikinci canavar da gökten ateş gelmesine izin verebilir, bunun nihai işareti Tanrı’dır (İlyas’ın hikayesine bakın)
+İlk canavara tapınılıyor, ama kimseyi ölümüne sevdiği için değil — çünkü korkutucu, ve kimse ona karşı savaşamıyor. İsa tamamen öldü, sevgiden, hak etmeyen insanlar için. İlk canavar tam olarak ölmüyor bile — {{% bible val="başlarından biri ölümcül bir yara almış gibiydi, ama bu ölümcül yara iyileşmişti" link="rev:13,3" lang="tr" %}} — bir yara, bir ölüm değil, yedi baştan biri. Onun müjdesi "seni ne kadar sevdiğime bak" değil, "kim benimle savaşabilir, bak" şeklinde. Bu, sevgi kostümü giymiş korkudur.
 
-Ve bu çok cazip.
+İkinci canavar belirtiler gerçekleştiriyor, ama Ruh'un istekli insanları çektiği gibi özgürce davet etmek için değil. Manipüle etmek için belirtiler gerçekleştiriyor: işareti al, yoksa öldürülürsün; işareti al, yoksa ailene ekmek alacak gücün kalmaz. {{% bible val="küçük büyük, zengin yoksul, özgür köle, herkesi sağ eline ya da alnına bir işaret koydurmaya zorluyor. Öyle ki, bu işaret olmadan, hiç kimse alım satım yapamayacaktı" link="rev:13,16-17" lang="tr" %}} Bu, dini bir yüz takmış zorlamadır. Ve ejderha, Baba'nın sahip olduğu gibi tam bir kontrol iddia ediyor — ama Baba'nın hükümranlığı gerçek özgürlüğe yer açar, hatta "sevgi dolu bir Tanrı buna nasıl izin verir?" gibi acı verici bir soruya bile. Ejderha bu soruya tahammül edemez, çünkü sevgi sunmuyor. Egemenlik sunuyor, ve egemenliğin "hayır" diyebilecek kimseye sabrı yoktur.
 
-## Rüya
+İşte kilisenin en eski ve en cazip kestirme yolu, ve bu bölüm bunu doğrudan adlandırıyor: Tanrı'nın krallığına giden bir kestirme yol yoktur. Kilise bu yemi daha önce yuttu — haçlı seferleri, zorla din değiştirmeler, engizisyonlar, gayret kılığına girmiş "amaç aracı haklı çıkarır" mantığı — ve her seferinde Tanrı'nın krallığını inşa etmek için canavarın araçlarına uzandığında, kilise canavar haline geldi. Müjdeyi cehennem korkusuyla, manipülasyonla ya da davamızın kazandıracağı her aracı haklı çıkardığına dair rahatlatıcı yalanla vaaz etmeyi reddetmeliyiz.
 
-<a name="bc8c"></a>
-Hıristiyanlığın tüm dünya tarafından övüldüğü ve tüm insanların bunu hiçbir şeyin yenemeyeceği konusunda hemfikir olduğu bir dünya hayal edebiliyor musunuz?
+## İşaret, o zaman ve şimdi
 
-Tüm dünyanın Tanrı’ya taptığını ve Tanrı’nın tüm düşmanlarının yenilgiye uğratıldığını hayal edebiliyor musunuz?
+Bunu ilk okuyanlar için elde ve alında bulunan işaret pratikte neydi? İmparator kültüne bağlılık — kamuya açık, komşularınız tarafından izlenen, kendi kasabanızda hâlâ iş yapıp yapamayacağınızla dayatılan. İlk canavar Roma'nın ta kendisiydi: öldürülemez, çünkü bir Sezar öldüğünde, bir sonraki role adım atar ve imparatorluk tapınma talep etmeye devam eder. İkinci canavar ise kültüne bağlılığı günlük ve ekonomik hayatta kalmanın koşulu haline getiren yerel ağdı — memurlar, loncalar, işletmeler. Bunların hiçbiri gerçekte Roma'yla ilgili değildi; her imparatorun ve her loncanın arkasında ejderha duruyordu, ve kilisenin mücadelesinin hiçbir zaman yetkililerin kendisine karşı değil, onları kullanan ruhani güce karşı olmasının sebebi tam olarak buydu.
 
-Tanrı’nın varlığı konusunda hiçbir şüphenin olmadığı, büyük mucizelerin ve işaretlerin her gün yaşandığı bir dünya hayal edebiliyor musunuz?
+İşaret ortadan kalkmadı, sadece bir tapınağa ihtiyaç duymaktan vazgeçti. Elinizde bir çip olması gerekmiyor. Çalışma ahlakınız olabilir, kredi kartınız, akıllı telefonunuz, onsuz yaşayamayacağınızı düşündüğünüz diziler olabilir — kültürünüzün, canavarın hep kullandığı aynı korkuyla desteklenerek sessizce ait olduğunuzun kanıtı olarak talep ettiği her ne ise.
 
-Tüm dünyanın siyaseti, ekonomiyi ve maliyeyi kontrol eden Hıristiyan bir yönetim altında olduğunu hayal edebiliyor musunuz?
+## Notu geçmedi: 6, 6, 6
 
-Bu gerçek olamayacak kadar iyi bir müjde. Ya da gerçek olamayacak kadar kötü.
+Ve işte bölümün uyarıdan rahatlamaya döndüğü nokta: {{% bible val="Bu konu bilgelik gerektirir. Anlayabilen, canavara ait sayıyı hesaplasın. Çünkü sayı insanı simgeler. Sayısı 666'dır." link="rev:13,18" lang="tr" %}} Tek bir altı değil. Üç tanesi — bu sahte üçlemenin her üyesi notlanıyor, ve her biri, gerçeğinin başarılı olacağı tam noktada başarısız oluyor.
 
-Eğer bu sizin rüyanızsa, uyanın, çünkü bu bir kabus!!!
+Ejderha, Baba'nın bütün gücünü iddia ediyor — ama yetkisi kendisine verilmiş ve kırk iki ayla sınırlı. Not: altı. İlk canavar, Oğul'un ölümünü ve dirilişini iddia ediyor — ama sadece yaralandı, öldürülmedi, ve insanları sevdiği için değil, korkutmak için öldü. Not: altı. İkinci canavar, Ruh'un davet eden, hayat veren işini iddia ediyor — ama asla davet etmiyor, sadece tehdit ediyor ve gösteri yapıyor. Not: altı. Altı, altı, altı: insanın sayısı, Tanrı'nın sayısı olan yediye ulaşmaya çabalayan ve her seferinde bir eksik kalan. Fark hiçbir zaman kimin daha güçlü olduğuyla ilgili değildi. Her zaman sevgiyle ilgiliydi — özel efektler ne kadar iyi olursa olsun, canavarın taklit edemediği tek şeyle.
 
-## Gerçeklik
+Bu sayı, Daniel'in üç arkadaşının öyküsünde de karşımıza çıkıyor: altmış arşın yüksekliğinde, altı arşın genişliğinde altın bir heykele secde etmeyi reddettikleri için fırına atılırlar. Zorbaya verdikleri cevap ezberlemeye değer: *Tanrımız bizi kurtarabilir, ama kurtarmasa bile, secde etmeyeceğiz.* Bu bölümün sizden istediği duruş tam olarak bu — Tanrı'nın sizi itaatin bedelinden kurtaracağına dair bir güven değil, kurtarmasa bile sadık kalma kararlılığı; ortası bir fırın gibi görünse bile sonun çoktan belirlendiğine güvenmek.
 
-<a name="f78a"></a>
-Bu bölümde şeytan tarafından ortaya konan gerçek budur. Hıristiyanlığı durduramadı, bu yüzden onu teşvik ediyor — kötü versiyonunu. Ama bunda bu kadar kötü olan nedir? Basitçe bunu nasıl başardığıdır.
+## Peki siz gerçekte hangi üçlemeye tapınıyorsunuz
 
-Dirilen Mesih’i temsil eder, ancak verilen yanıt “bizi ne kadar çok sevdiği” değil, “onunla kim savaşabilir” şeklindedir. Bunun nedeni korkudur.
-
-Herkes canavara tapıyor, çünkü onun kiliseyi nasıl “yendiğini” görüyorlar. Bunun nedeni baskıdır.
-
-Canavar bile mucizeler gerçekleştirebilir, ancak sonuç rahatlık değil, manipülasyondur: Herkes işareti alır, aksi takdirde öldürülürler. Bu, insanları etkilemek için bir gösteri ve itaat etmeyen insanlar için bir iptir.
-
-Tanrı’nın krallığı için kestirme bir yol yoktur. Bu baştan çıkarıcıdır ve kilise Tanrı’nın krallığını inşa etmek için haçlı seferlerinde, zorla din değiştirmede ve engizisyonda başarısız olmuş ve canavar haline gelmiştir.
-
-Dünyanın gördüğü budur ve kilisenin farklı göründüğünü göstermek için her türlü çabayı göstermeliyiz. Çatışmalardan kaçınmamalı, İsa’nın araçlarıyla bu çatışmaların üstesinden gelmeye çalışmalıyız.
-
-Müjde’yi korku (cehennem), manipülasyon ya da inancımızın araçları haklı çıkardığını düşünme araçlarıyla vaaz etmemeliyiz.
-
-## Eldeki ve alındaki işaret
-
-<a name="145e"></a>
-Bu, Tanrı’nın Mısır’da halkıyla yaptığı gibi bir antlaşmanın işaretidir: “Mısırlılara neler yaptığımı görüyorsunuz, bana güvenin, sizi koruyacak ve geçiminizi sağlayacak gücüm var.”
-
-Şeytan ise şöyle der: “Etrafınıza bakın, ya acı çeker ve ölürsünüz ya da bana biat edersiniz.” Eldeki ve alındaki işaret, yapmanın ve düşünmenin teslimiyetidir.
-
-Bunun bir çip olması gerekmez. Çalışma ahlakınız, kredi kartınız, akıllı telefonunuz, TV programlarınız olabilir. 2000 yıl önce toplum içindeki davranışlardı.
-
-Şeytan aldatma yöntemini kullanır.
-
-## Tarihi gerçeklik
-
-<a name="a2a4"></a>
-Şu anda pratikte ne anlama geliyordu?
-
-İlk canavar, siyasi ve askeri gücü ve imparator kültüyle (imparator tanrıların kutsamalarının aracısıdır) Roma’daki imparatordu. Fethedilmesi imkansız gibi görünmektedir, bir imparator ölürse sıradaki gelir.
-
-İkinci canavar ise imparator kültünü, ekonomiyi ve tüm çevre toplumunu yöneten yerel yetkililerdi.
-
-Başınızdaki ve alnınızdaki işaret, komşularınız ve meslektaşlarınız tarafından izlenen tarikata, çizgiden çıkmamanız için itaat etmenizdi.
-
-Tüm bunlarda önemli olan nokta, onların perde arkasındaki ejderhanın kuklaları olduklarıdır, bu nedenle saldırı hiçbir zaman Romalılara karşı olmamıştır ve bugün de yetkililere karşı değil, arkasındaki ruhani güçlere karşı olmalıdır.
-
-## Şeytanların başarısızlığı
-
-<a name="c21d"></a>
-Üçlemenin bu kopyası kulağa çok inandırıcı gelse de 666 ile derecelendirilmiştir. Bu üç farklı şekilde görülebilir:
-
-- Şeytan üçlemeyi taklit eder, ancak aşağıda açıklanan tüm yönlerde başarısız olur ve her biri için altı alır (Tanrı’nın değil, insanın sayısı)
-- 666, Daniels’ın arkadaşlarının öyküsünde Tanrı müdahale etmese bile direnmeleri için bir uyarıdır
-- 666, Şeytan’ın verdiği tekliflerle ayartılmamanız için bir uyarıdır
-
-Peki neden başarısız oluyor? Üçlemenin her bir kişisinde karar verici unsur eksikti
-
-- Tanrı hükümdardır, ancak bunu dayatmaz, aksi takdirde kimse “Sevgi dolu bir Tanrı nasıl olur da tüm bu kötülüğe izin verir?” diye sormaz. Şeytan kendisiyle uyumlu olmayan her şeyi parçalar
-- İsa bizim için sevgisinden öldü, ilk canavar sadece insanları korkutuyordu. İsa tam olarak öldü, ilk canavar sadece yaralandı.
-- Kutsal Ruh insanları zorlamaz ve gösterileri kullanır, ikinci canavar bunu manipüle etmek için kullanır.
-
-Yani Şeytan ve İsa gibi davrananlar arasındaki ayırt edici nokta güç ya da başarı değil, insanlarla etkileşimimizdeki sevgidir. Bu yeni bir şey olmayabilir ama bu öyküde çok etkileyici bir şekilde sunulmuştur.
+Bu bölümdeki her ayartı gerçek, karikatür değil. Bazen insanların imanınızı aptalca bulmasını istemiyorsunuz. Bazen tartışılmaz bir kanıt, her düşmanı gözle görülür şekilde ezen bir Tanrı, alay edilemeyecek kadar güçlü bir kilise istiyorsunuz. Bu arzuların hiçbiri çılgınca değil. Ama bu bölüm çizgiyi tam olarak çizilmesi gereken yere çiziyor: güçte değil, mucizelerde değil, hatta zaferde bile değil — sevgide. Gerçek Üçleme, onu hak etmeyen insanlar uğruna kanayarak kazanır. Sahte olan ise insanları hayır demeye korkutarak kazanır. Uzaktan bakıldığında ikisi hakkındaki her şey aynı görünebilir. Ama bu tek fark, bütün farktır.
 
 ### Yansıma
 
-<a name="c3f7"></a>
-- Yukarıdaki rüyaya siz de kapıldınız mı? Hangi açıdan?
-- Hiç canavarın silahlarını (güç, korku, manipülasyon, …) kullandınız mı ve bunun sonucu ne oldu?
-- Kilisenin aldatmacası ile gerçekliği arasındaki farkı açıkça görebiliyor musunuz? Bunu toplumumuzda görebiliyor musunuz?
-- Çevrenizdeki birinci ve ikinci canavar nedir? Nasıl sadık kalabilirsiniz?
-- Bugün insanlar canavara bağlılıklarını hangi yollarla (üstü kapalı bile olsa) gösteriyor?
-- Eğer itaat etmezseniz günümüz canavarlarının sonuçları nelerdir?
-- Nerede teslim olmaya zorlanıyorsunuz (çaresizlikten, inançtan, ayartılmaktan)?
+- Bu vaazın başında anlatılan "rüya" sizi hiç ayarttı mı — Hıristiyanlığın tartışılmaz, sorgulanamaz, evrensel olarak saygı gören versiyonu? Hangi kısmı size en çok cazip geldi?
+- Hiç canavarın araçlarına — korkuya, baskıya, manipülasyona, "amaç aracı haklı çıkarır" mantığına — uzandınız mı, iyi bir şey inşa etmek için? Gerçekte ne oldu?
+- Canavar güçte değil, sevgide başarısız oluyor. Kendi hayatınızda, etkileyici ya da başarılı olmayı, insanları gerçekten sevmekle nerede karıştırdınız?
+- Bugün kendi çevrenizde canavarın işareti neye benziyor — iş, para, teknoloji, sosyal baskı? "Alışveriş yapabilmek" için nerede uyum sağlama baskısı hissediyorsunuz?
+- Daniel'in arkadaşları "Tanrımız bizi kurtarabilir, ama kurtarmasa bile secde etmeyeceğiz" dedi. Sadece Tanrı'nın sizi bedelinden kurtaracağını beklediğiniz için sadık kaldığınız bir alan var mı?
+- Şu anda korkudan, tükenmişlikten ya da gerçekten cazip bir teklif yüzünden nerede teslim olmaya zorlanıyorsunuz? Bu hafta sadakat size neye mal olur?

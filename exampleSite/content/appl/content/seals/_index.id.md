@@ -21,61 +21,40 @@ kids: /kids/content/seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 ---
 
-Gulungan kitab dengan ketujuh meterai adalah titik penting dalam Kitab Wahyu.
+Bayangkan seorang politisi menunggang kuda putih memasuki kota, secara harfiah maupun kiasan. Mahkota sudah ada di kepalanya. Janji-janji besar: aku akan menaklukkan musuh-musuhmu, aku akan membereskan yang rusak, cukup dukung aku. Kamu sudah pernah melihat sosok ini, di setiap generasi, di setiap negara, mengenakan seragam yang berbeda-beda. Nah, inilah pertanyaan yang tidak nyaman yang ingin diajukan pasal ini kepadamu: ketika penunggang itu muncul, bagaimana kamu bisa membedakannya dari Yesus? Wahyu 6 mengatakan sebagian besar dunia tidak bisa. Kebingungan itulah inti dari keempat penunggang kuda, dan pada akhirnya kamu akan melihat mengapa jawabannya tidak pernah berupa penunggang kuda kita sendiri yang lebih besar dan lebih kuat.
 
-Sebenarnya apa inti dari bagian ini, apa itu kitab ini, dan siapa para penunggang kuda itu?
+## Penipu di atas kuda putih
 
-## Teks Kita
+<a name="a892"></a>
+Kita sekarang berada di {{% bible val="pasal 6" link="rev:6" lang="ind" %}}, tepat setelah Anak Domba yang telah disembelih mengambil gulungan kitab yang tidak bisa dibuka siapa pun selain Dia. Perhatikan apa yang terjadi begitu Ia mulai membuka meterai-meterai itu: {{% bible val="aku melihat: sesungguhnya, ada seekor kuda putih dan orang yang menungganginya memegang sebuah panah dan kepadanya dikaruniakan sebuah mahkota, lalu ia maju sebagai pemenang untuk merebut kemenangan" link="rev:6,1-2" lang="ind" %}}. Kuda putih. Mahkota. Bahasa penaklukan. Kalau kamu tidak tahu lebih baik, kamu akan mengira ini Yesus sendiri yang sedang berjalan dalam kemenangan - dan justru itulah jebakannya.
 
-<a name="35f4"></a>
-Sekarang kita berada di {{% bible val="Pasal 5" link="rev:5" lang="ind" %}} dan {{% bible val="6" link="rev:6" lang="ind" %}}.
+Lihat apa yang menyusul: kuda merah yang mengambil damai dari bumi dan mengubah orang menjadi pembunuh, kuda hitam yang memegang timbangan sementara sebuah suara berseru bahwa upah sehari nyaris tidak cukup membeli sesuap roti - barang-barang mewah tetap tak tersentuh, tapi orang miskin dihimpit ketidakadilan - dan akhirnya kuda pucat yang penunggangnya bernama Maut, dengan Kerajaan Maut mengikut di belakangnya. Itu bukan kampanye seorang pahlawan. Itu adalah anatomi sebuah penipuan: janji-janji besar, lalu penganiayaan terhadap siapa pun yang tidak mau ikut, lalu pencekikan ekonomi terhadap orang miskin sementara yang berkecukupan tetap nyaman, lalu kehancurannya. Inilah {{% int_link val="rahasia keempat penunggang kuda" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} - iblis tidak datang dengan wajah jahat. Ia datang seperti jawaban atas doa-doamu, mengenakan mahkota yang kamu inginkan dikenakan seorang pahlawan, menunggangi warna yang kamu kaitkan dengan kesucian dan kemenangan. Dan ia harus disingkapkan, sebab banyak orang baru menyadari perbedaannya setelah pedang dan kelaparan itu tiba.
 
-## Kitab dan Sang Anak Domba
+## Paradoks ini milik kita, bukan milik Allah
 
-<a name="384a"></a>
-Di tengah seluruh harmoni penyembahan di ruang takhta, muncullah kitab dengan ketujuh meterai itu. Kita masih perlu bersabar sedikit sampai kita memahami isi kitab itu, tetapi mari kita lihat dulu dampaknya.
+<a name="d2bc"></a>
+Di sinilah kebanyakan dari kita jadi bingung, dan kebingungan itu ada pada diri kita, bukan pada Allah. Kamu mungkin pernah mengatakannya, mungkin minggu ini: mengapa Allah tidak turun tangan saja dan menghentikan para diktator, perdagangan manusia, kekerasan itu? Kita ingin Ia bertindak - lalu ketika kitab ini menunjukkan-Nya bertindak, dengan gempa bumi dan penghakiman dan bulan semerah darah, kita justru mundur dan menyebutnya masalah teologis. Kita tidak bisa menuntut keduanya sekaligus, dan ternyata kita keliru menilai dua-duanya.
 
-Pertanyaan besarnya adalah: siapa yang layak membuka kitab ini? Ketika tidak ada seorang pun yang ditemukan, Yohanes menangis. Kitab ini tampaknya memiliki makna yang sangat penting bagi gereja. Namun akhirnya ada kelegaan, Yohanes MENDENGAR: Singa dari Yehuda layak membuka kitab itu.
+Pertama: Allah sebenarnya sudah turun tangan menghadapi kejahatan - hanya bukan dengan cara yang kita mau. Kita hanya tahu dua alat, hukuman dan pengurungan, dan kita baru memakainya begitu kejahatan melewati batas yang menurut kita cukup serius - pembunuhan, ya; kecemburuan diam-diam, kita biarkan saja. Allah jauh lebih radikal daripada itu. Kejahatan tetap kejahatan bahkan dalam bentuknya yang kecil dan ditoleransi, karena ia selalu bertumbuh kalau diberi waktu dan kesempatan, jadi respons-Nya menyasar semuanya, bukan hanya yang jadi berita utama. Kedua: tujuan-Nya tidak pernah sekadar menghukum. Tujuannya memulihkan orang supaya mereka berhenti berbuat jahat sejak awal. Semua yang tampak drastis dalam kitab ini mengarah pada tujuan itu, sesulit apa pun itu terlihat di tengah-tengah prosesnya.
 
-Singa membawa gambaran seorang pahlawan besar, yang menghancurkan musuh-musuh dan dengan demikian menyelamatkan umat Allah. Itulah yang kita harapkan atau nantikan, tetapi itu bukanlah yang Yohanes LIHAT.
+## Bertahanlah, jangan membalas
 
-Ia melihat seekor anak domba yang disembelih: Yesus di kayu salib. Sang pahlawan besar menang bukan melalui kekuasaan, melainkan melalui pengorbanan-Nya. Anak domba inilah pahlawan dari seluruh Kitab Wahyu.
+<a name="7278"></a>
+Jadi apa yang harus dilakukan gereja selagi si singa palsu sedang menipu orang di luar sana? {{% bible val="jiwa-jiwa mereka yang telah dibunuh oleh karena firman Allah dan karena kesaksian yang mereka miliki" link="rev:6,9-11" lang="ind" %}} berseru, "berapa lama lagi?" - dan mereka diberitahu untuk menunggu sedikit lebih lama, mengenakan jubah putih, sampai jumlah mereka genap. Bukan "lawan seperti cara para penunggang kuda itu melawan." Lanjutkan kesaksianmu. Bertahanlah. Itu saja. Itulah strateginya, karena inti dari semuanya adalah agar dunia bisa melihat, dengan jelas, perbedaan antara apa yang dihasilkan janji-janji iblis dan apa yang dihasilkan Yesus - perbedaan yang akan dipertajam lagi oleh sangkakala-sangkakala. Pikirkan berapa banyak gerakan dan lembaga - ada yang bangga sekuler, ada yang bangga Kristen - yang akhirnya menghasilkan buah para penunggang kuda itu: kendali yang berkedok kepedulian, pembalasan yang berkedok keadilan. Dan pikirkan betapa seringnya jalan yang tampak tanpa harapan, ketekunan yang sabar tanpa kekuasaan, justru menjadi jalan yang benar-benar membawa terobosan.
 
-Dan bukan hanya itu: seluruh bumi dan seluruh surga mengarahkan penyembahan mereka sepenuhnya kepada Sang Anak Domba, yang kini berada di pusat perhatian dengan persetujuan penuh dari Allah! Yesus adalah satu-satunya yang boleh disembah di samping Allah. Yohanes ditegur dua kali dalam Kitab Wahyu karena ia menyembah malaikat wahyu itu.
+## Murka yang ditakuti semua orang dan tidak bisa disebut siapa pun
 
-## Paradoks Itu
+<a name="ddd6"></a>
+Lalu tibalah meterai keenam, dan itu sengaja dibuat mengerikan: matahari menjadi hitam, bulan menjadi merah darah, bintang-bintang berjatuhan, dan {{% bible val="raja-raja di bumi dan pembesar-pembesar serta perwira-perwira dan orang-orang kaya serta orang-orang berkuasa dan semua budak serta orang merdeka bersembunyi ke dalam gua-gua dan celah-celah batu karang di gunung. Dan mereka berkata kepada gunung-gunung dan kepada batu-batu karang itu: rubuhlah menimpa kami dan sembunyikanlah kami terhadap Dia, yang duduk di atas takhta itu dan terhadap murka Anak Domba itu" link="rev:6,15-16" lang="ind" %}}. Perhatikan sesuatu yang luar biasa: ungkapan "murka Anak Domba" ini muncul tepat satu kali dalam seluruh Alkitab, di sinilah tempatnya - dan itu bukan menggambarkan apa yang dilakukan Yesus, melainkan apa yang diduga akan dilakukan-Nya kepada mereka oleh orang-orang yang ketakutan dan merasa bersalah, sama seperti Adam dan Hawa bersembunyi di taman setelah mereka berdosa. Teks itu tidak pernah benar-benar menunjukkan Yesus bertindak dengan amarah. Teks itu menunjukkan sebuah dunia yang begitu tertipu oleh singa palsu itu sehingga ketika Sang Singa yang sejati muncul, mereka tidak bisa membayangkan-Nya sebagai apa pun selain sosok yang akan membinasakan mereka.
 
-<a name="ad46"></a>
-Semua ini tampak seperti sebuah kontradiksi, tetapi kontradiksi itu bukan ada pada Allah, melainkan pada diri kita. Sebab betapa seringnya kita berkata: Mengapa Allah tidak turun tangan dan menghentikan semua kejahatan di dunia ini, tetapi ketika Alkitab berbicara tentang penghakiman Allah, kita justru punya masalah teologis yang harus kita jelaskan. Sebab bagaimana mungkin Allah begitu kejam?
-
-Tetapi kita keliru dalam dua hal:
-
-- Allah memang turun tangan, tetapi bukan dengan cara kita. Kita hanya melihat hukuman atau pengurungan sebagai jawaban atas kejahatan. Tetapi dengan itu kita tidak konsisten, sebab kita hanya mempertimbangkan tingkat kejahatan tertentu (pembunuhan harus dihukum, tetapi kecemburuan bisa ditoleransi). Namun Allah lebih radikal: kejahatan diperlakukan sama, karena kejahatan bertumbuh seiring waktu dan keadaan yang mendukungnya. Jadi Ia memperhatikan segalanya.
-- Yang menjadi perhatian utama-Nya bukanlah menghukum orang jahat, melainkan pada akhirnya memulihkan mereka, agar mereka berhenti berbuat jahat. Kitab Wahyu memberikan kesan yang sangat dramatis, tetapi fokusnya bukanlah penghakiman Allah, melainkan sebuah perhatian yang jauh berbeda, yang akan kita pelajari nanti.
-
-## Sang Singa Palsu
-
-<a name="1c89"></a>
-Ada seorang tokoh yang tidak berkata apa-apa, tetapi dengan senang hati ingin mengambil peran sebagai Singa dari Yehuda. Ia akan menyelesaikan segala sesuatu dengan ketegasan yang diperlukan dan dengan banyak kekaguman.
-
-Tetapi ia harus disingkapkan, sebab ia adalah Iblis, dan keempat penunggang kuda apokaliptik adalah cara untuk menyingkapkannya: dari janji-janji besar tentang perang dan kelaparan hingga kehancuran total. Ini diawali dengan pembukaan keempat meterai pertama. Sebab Iblis ingin tetap tersembunyi.
-
-Tetapi bagaimana dengan gerakan-gerakan yang bukan Kristen dan yang melakukan hal-hal baik? Dan bagaimana dengan banyak hal yang dilakukan gereja tetapi hanya membawa malapetaka? Mungkin kamu terkejut betapa banyak organisasi "duniawi" yang dipengaruhi oleh nilai-nilai Kristen, dan betapa seringnya gereja mencoba melakukan hal-hal secara "duniawi". Ada jalan yang tampak menjanjikan tetapi berujung pada kehancuran, dan jalan lain yang tampak tanpa harapan tetapi berujung pada terobosan. Kita akan mendengar lebih banyak tentang hal ini.
-
-Pada meterai kelima kita melihat apa yang harus dilakukan gereja pada masa ini: ia harus melanjutkan kesaksiannya dan bertahan! Dengan begitu dunia bisa melihat dengan jelas bahwa karya Iblis dan karya Yesus ada dalam gereja. Tetapi ini akan diperdalam lagi dalam sangkakala-sangkakala. Meterai keenam adalah gambaran yang sangat mengguncangkan. Yesus muncul dan mengakhiri segalanya. Orang-orang bersembunyi karena mereka semua takut pada murka Sang Anak Domba. Kita akan sering melihat pola ini lagi, tetapi berikut ini gambaran singkatnya:
-
-- Iblis menipu dunia dengan berpura-pura menjadi Yesus.
-- Karena penampilannya, orang-orang berpikir Yesus dan gereja itu jahat.
-- Tetapi kesaksian gereja adalah unsur penentu yang membuat perbedaan.
-
-Namun semuanya bergantung pada apakah gereja memiliki kesaksian yang baik.
+Itulah pola yang berjalan di bawah seluruh kitab ini: iblis menipu dunia untuk berpikir bahwa Kristuslah bahayanya dan dialah penyelamatnya, dan yang membongkar kebohongan itu, berulang kali, bukanlah unjuk kekuatan yang lebih besar dari surga. Melainkan kesaksian umat yang hidup dengan cara yang berbeda. Segala sesuatu - segala sesuatu - bergantung pada apakah kesaksian gereja mengatakan kebenaran tentang penunggang kuda mana yang mana.
 
 ### Refleksi
 
-<a name="2420"></a>
-- Mengapa kamu percaya bahwa Yesus dan kematian serta kebangkitan-Nya adalah jawaban atas masalah-masalah dunia ini?
-- Seperti apa dunia ini jika Yesus turun tangan dengan kuasa dan kekuatan setiap kali ada kejahatan?
-- Seperti apa dunia ini jika gereja bertindak seperti Yesus, sebuah gereja yang menyembuhkan, mendamaikan, dan menguatkan, tetapi juga menetapkan batasan, sebuah gereja yang tidak bekerja dengan ketakutan dan kekerasan, prasangka dan penghakiman?
-- Apakah kamu percaya bahwa dunia tanpa Yesus bisa diperbaiki?
-- Bagaimana reaksimu ketika orang berbicara buruk tentang gereja?
-- Janji apa yang pernah dibuat oleh sebuah organisasi atau pemerintah yang kamu ingat, yang pada akhirnya justru menimbulkan lebih banyak penderitaan? Inisiatif apa yang benar-benar membawa perubahan meski tampak tanpa harapan? Apa bedanya?
+<a name="8333"></a>
+- Menurutmu mengapa kematian dan kebangkitan Yesus - pengorbanan, bukan penaklukan - adalah jawaban sesungguhnya atas masalah-masalah dunia?
+- Seperti apa dunia ini kalau Yesus turun tangan dengan kekuatan dan paksaan mentah melawan setiap kejahatan, seperti yang dijanjikan penunggang kuda pertama?
+- Bagaimana kamu membedakan antara "kuda putih" yang benar-benar penyelamatan dan yang sesungguhnya penipuan - dalam politik, dalam gereja, dalam hidupmu sendiri?
+- Seperti apa jadinya kalau gereja bertindak seperti Yesus: menyembuhkan dan mendamaikan dan menetapkan batasan, tanpa jatuh pada ketakutan, prasangka, atau penghakiman?
+- Bisakah kamu memikirkan sebuah janji - dari seseorang, sebuah organisasi, sebuah pemerintah - yang terdengar seperti kemenangan tapi berujung menimbulkan lebih banyak penderitaan? Usaha apa yang tampak tanpa harapan tapi justru membuat perbedaan?
+- Bagaimana reaksimu ketika orang berbicara buruk tentang gereja? Apakah responsmu membuat Anak Domba yang sejati lebih mudah atau lebih sulit dilihat?

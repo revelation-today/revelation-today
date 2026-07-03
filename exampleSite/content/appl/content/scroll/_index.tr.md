@@ -1,10 +1,10 @@
 ---
-title: "Böl.10: Büyük etkisi olan küçük bir kaydırma"
+title: "Böl.10: Büyük etkisi olan küçük bir tomar"
 weight: 70
 base: /quick/content/scroll
-story: /story/tour
+story: /story/content/scroll
 deeper:
-    - name: Küçük parşömen
+    - name: Küçük tomar
       link:  /expl/content/scroll/the-little-scroll
 prev: /appl/content/trumpets
 next: /appl/content/witnesses
@@ -13,37 +13,34 @@ kids: /kids/content/scroll
 expl: /expl/content/scroll/the-little-scroll
 ---
 
-Yuhanna’nın yemesi gereken küçük bir tomar vardır ve bundan bir daha hiç bahsedilmez. Bununla ne yapacağız ve bunun yedi mühürlü tomarla bir ilgisi var mı?
+Bir işi bitirdiğinde, kimsenin seni önceden uyarmadığı ikinci bir işle karşılaştığın oldu mu hiç? Vahiy 10'da tam olarak orada duruyoruz. Altı borazan çaldı, dünya temellerine kadar sarsıldı, ve insanlar hâlâ Tanrı'ya dönmeyi reddediyor. Çıkmaz sokak. Peki sırada ne var? Yedinci borazan değil - henüz değil. Bunun yerine bir tomar beliriyor, ve birinin onu yemesi gerekiyor.
 
-## Bizim metnimiz
+## Başa dönüş
 
-<a name="e93e"></a>
-Hızla ilerliyoruz ve {{% bible val="10. bölüme" link="rev:10" lang="tr" %}} ulaştık.
+Bu tomarı anlamak için 5. bölüme geri sarmamız gerekiyor; orada çok daha büyük bir tomar belirmiş ve onu açmaya layık bulunan tek kişi İsa olmuştu. Bütün hikayenin döndüğü an oydu - kesilmiş Kuzu İsa, tomarı alıp tarihin kendisini açmaya başlar. Burada, 10. bölümde, güçlü bir melek - bazılarına göre Mesih'in kendisi, buluta sarınmış, yüzü güneş gibi, başının üzerinde bir gökkuşağı - elinde, zaten açılmış küçük bir tomarla iniyor.
 
-## Parşömen
+"Küçük" sözcüğü seni kandırıp bunun bir dipnot olduğunu düşündürmesin. Bu tomar, ilkiyle doğrudan bağlantılı. Ve bize anlattığı şey, çarmıh hakkında düşünme biçimini yeniden düzenlemeli. İsa'nın ölümü ve dirilişi kurtuluş için gerekli olan her şeyi başardı - bu kesin, bu tamamlandı. Ama bu planın sonu değildi. Kilisenin hâlâ yapması gereken bir şey var. İsa'nın yaptığına bir şey eklemek için değil, onu ileri taşımak için. Tanrı'nın kurtuluş planında senin için aktif, devam eden bir rol var, ve İsa zaten kazandı diye kenara çekilip izleyemezsin.
 
-<a name="e6ab"></a>
-İlk altı borazandan sonra ilerlemek için başa dönüyoruz. İsa’nın tomarı açmaya layık tek kişi olduğu mühürlerin hikâyesine devam ediyoruz.
+Şuna da dikkat et: bu melek nerede duruyor - bir ayağı denizde, bir ayağı karada - ikisini de sahipleniyor. Birkaç bölüm sonra, canavarlar tam da bu iki yerden sürünerek çıkacak, durdurulamaz görünecek, dünyaya sahipmiş gibi davranacaklar. Ama değiller. Toprak zaten sahiplenilmişti. Canavar daha sonra ne kadar güç gösterirse göstersin, ondan korkmana gerek yok, çünkü ayaklarının altındaki zemin zaten başka birine ait.
 
-Burada, elinde bir tomarla (“küçük” terimi kafanızı karıştırmasın) insanoğlu İsa gibi bir bulutun üzerinde gidiyoruz. İsa’nın çarmıhtaki ölümünün gerekli olan tek şey olduğunu düşünmemeliyiz. Kilisenin üzerinde aktif ve zorunlu bir rol vardır.
+## Ağızda tatlı, midede ekşi
 
-Bu plana bakmadan önce, bazı önemli gözlemler var:
+Sonra garip bir emir geliyor: tomarı ye. John bunu yapması istenen ilk kişi değil - Hezekiel de bir tomar yemişti, ve bu, mesajı vaaz etmeden önce onu kendisinin bir parçası haline getirmişti. Bu göz gezdirilecek bir bilgi değil. İçine alacağın, sindireceğin, başka birine söyleyebilmeden önce kendi bedeninin bir parçası olmasına izin vereceğin bir şey.
 
-- Meleğin bir ayağı denizde, bir ayağı da yeryüzündedir: bu alanlar üzerindeki hakimiyetini ve kontrolünü gösterir. Buralar şeytanın iki canavarı çağırdığı ve kilisenin korkmasına gerek olmayan, canavarın bile nüfuz edemediği iki yerdir.
-- Tanrı’nın gizemi açığa çıkar. Bölüm 1'deki kilisenin gizeminden sonra, şimdi de 17. bölümde şeytanın gizemini görüyoruz. Tanrı’nın gizemi nedir ve kiliseyi nasıl etkiler?
-- Yuhanna’nın tomarı yemesi gerekir ve tomar ağızda tatlı ama midede acıdır: Sonuçta tomar iyi haberdir, bunu birazdan göreceğiz, ama aynı zamanda acı ile bağlantılı olduğu için acıdır. Ancak acı yiyecekler iyi bir sindirim için yararlıdır: Yani kiliseden sadece bir şey yapması istenmiyor, aynı zamanda bu kilisenin kendi yararına da olacaktır.
+Ve tadı tam da beklendiği gibi: {{% bible val="ağızda bal gibi tatlı" link="rev:10,9-10" lang="tr" %}}, ama midede ekşi. Tatlı, çünkü mesaj gerçekten iyi haber - Tanrı'nın sırrı, Mesih'in zaten zafer kazandığı gerçeği. Acı, çünkü bunu yaşamak acı çekmek demek. Sana bir bedeli olan bir tanıklık demek. Bunu vaaz edip rahat kalamazsın. Ama bir an acı yiyecek üzerinde düşün - sindirimin için gerçekten iyi olan, içine girdiğinde işe yarayan türden, tadı tatlı olmasa bile. O acılık bir ceza değil. Senin iyiliğin için. Tomar kiliseyi sadece kullanmıyor. Kiliseyi olgunlaştırıyor.
 
-## Çağrı
+## Hâlâ açılmakta olan bir sır
 
-<a name="7168"></a>
-Sonraki bölümlerde tomarlardaki bu çağrının, dünyadaki tüm insanları tanımlayan ulusları kurtarmak için olduğunu göreceğiz. Son iki bölümden sonra, acı ve zor zamanların değişimi sağlamayacağı açıktır.
+Kolayca atlanabilecek bir ayrıntı var: yedi gök gürlemesi konuşuyor, ve John söylediklerini yazmak üzereyken, bunun yerine mühürlemesi söyleniyor. Bize her cevap borçlu değil. Tanrı'nın planıyla ilgili bazı şeyler kasıtlı olarak gizli kalıyor, ve görevimiz her sırrı çözmek değil, zaten açıklanmış olana sadık kalmak.
 
-Bu kilisenin tanıklığıdır. Tanıklıktan kastım iyi bir yaşam tarzı değildir. Ama bunu bir sonraki bölümde göreceğiz.
+Açıklanmış olan şu: sıkıntının ve felaketin bir insan yüreğini Tanrı'ya döndüremeyeceğini kanıtlayan iki bölümün ardından, bunu yapabilecek başka bir şey ortaya konuyor - güç yoluyla değil, zayıflık yoluyla açılan Tanrı'nın sırrı. Tıpkı İsa'nın kaba kuvvetle değil bir çarmıhla galip gelmesi gibi, kilise de aynı örneği izleyecek. Daha fazla felaket değil. Daha yüksek sesli tehditler değil. Bir bedeli olan, bütün mesajı - tatlılığı ve acılığıyla birlikte - yutmuş ve kendi kimliğinin bir parçası haline getirmiş insanlar tarafından taşınan bir tanıklık.
+
+İşte bu bölümde sana verilen çağrı bu. Konfor değil. Gösteri değil. Yenecek bir tomar, ve ardından ondan yaşanacak bir hayat. Bu tanıklığın gerçekte neye benzediğini - bir sonrakinde göreceğiz.
 
 ### Yansıma
 
-<a name="4b6d"></a>
-- Acı çekmeye hazır olmayan kilisenin üstesinden gelebileceğini düşünüyor musunuz?
-- Bu dünyanın güçleri sizi bunaltıyor mu yoksa haberlerde bildirilenler ve dünyada olup bitenler ne olursa olsun Tanrı’ya güveniyor musunuz?
-- Hayatınızda daha fazlası olduğunu ve öne çıkma zamanınızın geldiğini düşünüyor musunuz?
-- Hayatınızda bir çağrı var ama emin değil misiniz ve bunun için gerçekten hiç gitmediniz mi?
+- Tomar ağızda tatlı ama midede acı. İmanında hem gerçek bir sevinç hem gerçek bir bedel birlikte yaşadığın bir an oldu mu?
+- İsa'nın çarmıhtaki ölümü kurtuluş için yeterliydi, ama kilisenin hâlâ oynayacağı aktif bir rol var. Senin payının ne olduğunu düşünüyorsun?
+- Kilisenin, acı çekmeye istekli olmadan başarılı olabileceğine inanıyor musun?
+- Dünyanın gidişatı seni eziyor mu, yoksa manşetler ne olursa olsun Tanrı'ya güveniyor musun?
+- Hissettiğin ama hiç gerçekten adım atmadığın bir çağrı var mı hayatında?

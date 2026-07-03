@@ -15,37 +15,33 @@ kids: /kids/content/army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 ---
 
-Kamu pasti pernah mendengar tentang 144.000 orang itu, tetapi siapakah mereka, mengapa mereka dihitung, dan apa tujuannya?
+Kalau kukatakan kepadamu bahwa kamu sedang direkrut ke dalam sebuah pasukan, dihitung, ditandai, dan dikirim untuk berperang - bagaimana perasaanmu? Sebagian darimu akan merasa ngeri. Sebagian lagi ingin tahu senjata apa yang akan kamu terima. Hampir tidak ada yang akan menebak jawaban yang diberikan pasal ini: senjatamu adalah ketekunan, medan perangmu adalah penyembahan, dan kamu sudah menang bahkan sebelum pertempuran dimulai. Itulah pasukan aneh dalam Wahyu 7, dan itu sangat berkaitan dengan bagaimana kamu seharusnya bertahan menghadapi apa pun wujud "kesengsaraan besar" dalam hidupmu sendiri.
 
-## Teks Kita
+## Seruan yang dijawab dengan cara yang tak terduga
 
-<a name="804c"></a>
-Kita bergerak maju dengan pasti menuju {{% bible val="Pasal 7" link="rev:7" lang="ind" %}}.
+<a name="c775"></a>
+{{% bible val="Pasal 7" link="rev:7" lang="ind" %}} membawa kita mundur, bukan maju. Ingat meterai kelima - jiwa-jiwa di bawah mezbah yang berseru "berapa lama lagi?" karena penderitaan mereka terasa tak tertahankan dan tak berkesudahan. Mudah saja membaca itu sebagai: orang-orang kudus adalah korban, menunggu pasif sampai akhirnya Yesus datang dan menghentikannya. Pasal ini berkata: tidak sepenuhnya begitu. Sebelum meterai berikutnya bahkan dibuka, seorang malaikat diutus untuk memeteraikan hamba-hamba Allah di dahi mereka - tanda perlindungan, jenis tanda yang sama yang dilihat nabi Yehezkiel diberikan kepada orang-orang yang berdukacita atas kejahatan di sekeliling mereka, tepat sebelum penghakiman jatuh atas semua orang lain. Lalu Yohanes mendengar sebuah angka: seratus empat puluh empat ribu, dua belas ribu dari setiap suku Israel, dihitung seperti pasukan yang dikerahkan untuk berperang. Bukan penderita yang pasif. Sebuah pasukan.
 
-## Pasukan Allah
+## Apa yang kaudengar, apa yang kaulihat
 
-<a name="a6e3"></a>
-Dalam pasal ini kita kembali ke meterai kelima. Orang-orang kudus digambarkan sebagai orang yang menderita, yang bertanya sampai kapan semua ini akan berlangsung. Ini memberi kesan seolah-olah orang-orang kudus meminta Yesus untuk mengakhiri penderitaan yang tak tertahankan ini secepat mungkin. Tetapi kesan itu keliru, dan di sini kita mendapatkan pemahaman yang lebih baik.
+<a name="681a"></a>
+Tapi perhatikan apa yang terjadi berikutnya, sebab ini gerakan yang sama yang sudah pernah dilakukan kitab ini. Di pasal 5, Yohanes mendengar tentang Singa yang menang - lalu berpaling dan melihat Anak Domba yang disembelih. Di sini, Yohanes mendengar sebuah angka - penghitungan militer yang tepat, seratus empat puluh empat ribu - dan lalu {{% bible val="aku melihat: sesungguhnya, suatu kumpulan besar orang banyak yang tidak dapat terhitung banyaknya, dari segala bangsa dan suku dan kaum dan bahasa, berdiri di hadapan takhta dan di hadapan Anak Domba" link="rev:7,9" lang="ind" %}}. Yang terhitung menjadi tak terhitung. Pasukan suku bangsa menjadi setiap bangsa di bumi. Ini bukan dua kelompok yang berbeda - mereka orang yang sama, digambarkan dua kali, sekali dalam bahasa peperangan dan sekali dalam bahasa penyembahan, karena dalam ekonomi Allah keduanya ternyata satu hal yang sama.
 
-Orang-orang kudus tidak sekadar menunggu sampai waktunya habis, melainkan mereka aktif berperan dalam rencana Allah, dan untuk itu kita perlu melihat lebih dekat pasal ini.
+Dan siapakah mereka? Seorang tua-tua memberitahu Yohanes dengan jelas: {{% bible val="mereka ini adalah orang-orang yang keluar dari kesusahan yang besar; dan mereka telah mencuci jubah mereka dan membuatnya putih di dalam darah Anak Domba" link="rev:7,14" lang="ind" %}}. Bukan orang-orang yang terhindar dari penderitaan. Orang-orang yang berjalan melewatinya. Kesengsaraan Besar bukanlah jendela waktu tujuh tahun yang melayang di suatu titik dalam masa depanmu - itu istilah yang dipakai Daniel untuk ujian yang memurnikan dan memisahkan umat Allah dari mereka yang murtad, kesesakan yang sama yang diperingatkan Yesus kepada murid-murid-Nya, hal yang sama yang oleh Paulus disebut pemicu pengharapan, hal yang tidak dapat memisahkanmu dari kasih Allah. Itu sudah berlangsung sejak Kristus pertama kali mengalahkan sang naga, dan sang naga, murka dan kehabisan waktu, mengarahkan amarahnya lebih dulu kepada Israel lalu kepada gereja. Kamu sudah hidup di dalamnya sekarang.
 
-Allah memeteraikan umat-Nya - sebagai persiapan untuk apa yang akan datang. Kemudian Ia menghitung mereka seperti sebuah pasukan. Orang-orang kudus/gereja adalah kekuatan penting dalam rencana Allah. Itulah yang didengar Yohanes, tetapi ia melihat sesuatu yang berbeda: sekumpulan orang yang tak terhitung banyaknya (yang keluar dari Kesengsaraan Besar), yang memuji Allah dan hidup dalam hadirat-Nya.
+## Pasukan yang menang dengan tidak berperang seperti pasukan
 
-Apa yang terjadi di sini? Ini adalah prinsip yang sama seperti sebelum pembukaan meterai-meterai: Yohanes mendengar tentang singa dari Yehuda yang kuat dan perkasa, tetapi ia melihat seekor anak domba. Di sini kita memiliki hal yang sama: Yohanes mendengar penghitungan pasukan sebanyak 144.000, tetapi melihat sekumpulan penyembah yang tak terhitung banyaknya, yang keluar dari Kesengsaraan Besar. Namun kedua kelompok itu sama.
+<a name="2cd4"></a>
+Jadi apa artinya kumpulan penyembah yang tak terhitung banyaknya ini disebut pasukan Allah? Artinya kemenangan gereja tidak pernah datang dari kekuasaan, atau mukjizat, atau argumen paling cerdik di ruangan itu. Itu datang dari caramu bertahan. Seorang prajurit yang menghabiskan seluruh pertempuran ketakutan akan terluka atau mati tidak berguna dalam pertempuran itu - ia sudah dilumpuhkan oleh rasa takutnya sendiri. Itulah sebabnya kamu dimeteraikan lebih dulu. Meterai itu bukan berarti kamu dibebaskan dari penderitaan; para martir di bawah mezbah itu juga dimeteraikan, dan itu tidak menyelamatkan mereka dari kematian. Artinya adalah kedudukanmu di hadapan Allah bukan yang sedang dipertaruhkan selagi kamu bertempur. Kamu tidak perlu memenangkan keselamatanmu sendiri di tengah pertempuran, karena itu tidak pernah menjadi tugasmu - itu sudah selesai. Yang membebaskanmu untuk benar-benar bertempur: bukan dengan kekerasan, bukan dengan ketakutan, tetapi dengan penyembahan dan ketekunan, satu-satunya dua senjata yang pernah diberikan kepada pasukan ini.
 
-Gereja harus menyembah Allah dan hanya Dia saja, atau ia akan kehilangan dasar keberadaannya. Kemenangannya bukan datang melalui kekuasaan atau mukjizat atau kata-kata yang meyakinkan, melainkan yang menentukan adalah kesaksiannya yang setia dan ketekunannya di masa sulit (maupun masa baik). Bersabarlah, kita akan melihat ini lebih dalam lagi.
-
-Di sini juga menjadi jelas bahwa dalam kekristenan bukan soal diselamatkan dan masuk surga saja. Dalam Kitab Wahyu tidak ada petunjuk tentang bagaimana kita bisa menghindari semua kesulitan. Kita dimeteraikan, jadi kita tidak perlu khawatir akan hilang atau putus asa karena hidup ini, melainkan kita diutus ke medan perang, meski dengan senjata yang berbeda.
-
-Kita digambarkan seperti sebuah pasukan: prajurit yang terus-menerus khawatir apakah mereka akan terluka atau terbunuh, tidak siap untuk bertempur. Kita adalah prajurit dalam pasukan Allah, tetapi kita tidak berperang dengan kekerasan, melainkan dengan penyembahan, doa, kesaksian, dan ketekunan.
+Itu bukan koreksi kecil - itu membongkar sebuah kesalahpahaman yang sangat umum tentang apa artinya menjadi orang Kristen. Ini bukan pernah menjadi kisah tentang diselamatkan lalu menunggu waktu habis sampai masuk surga. Kalau memang begitu, pasal ini akan berisi petunjuk cara menghindari kesengsaraan. Tapi tidak. Ini gambaran tentang orang-orang yang melewatinya dan keluar di ujung yang lain sambil menyembah. Imanmu tidak diukur dari seberapa baik kamu menghindari api itu, melainkan apakah kamu tetap menyembah di tengah-tengahnya.
 
 ### Refleksi
 
-<a name="7031"></a>
-- Dalam pasal ini, ibadah dikaitkan dengan peperangan? Apa artinya itu? Dengan senjata apa kamu berjuang untuk dunia ini?
-- Apakah kamu berjuang untuk dunia ini, atau kamu hanya menunggu (mungkin sambil bercerita tentang Yesus kepada orang lain) sambil menantikan keselamatanmu?
-- Apakah kamu peduli dengan kerusakan lingkungan, eksploitasi global, perdagangan manusia, dan banyak hal lainnya, atau kamu hanya menunggu Yesus (semoga segera) datang kembali dan membereskan segalanya?
-- Atau justru sebaliknya, kamu berpikir baik saja kalau keadaan semakin memburuk, supaya Yesus datang lebih cepat?
-- Bagaimana rasanya menjadi bagian dari pasukan Allah?
-- Dihitung berarti tidak hilang. Apa artinya itu bagimu?
-- Pasukan Allah keluar dari Kesengsaraan Besar. Apa yang akan terjadi pada imanmu ketika kamu diuji? Apakah imanmu semakin kuat atau justru runtuh? Apakah kamu percaya bahwa Allah bisa menguatkan imanmu saat diuji? Di atas apa imanmu berdiri?
+<a name="8e53"></a>
+- Pasal ini mengaitkan penyembahan dengan peperangan. Apa artinya itu dalam praktiknya - seperti apa "bertempur" lewat penyembahan minggu ini?
+- Seperti apa jadinya kalau kamu berhenti memperlakukan hidup Kristenmu sebagai "menunggu diselamatkan" dan mulai memperlakukannya sebagai "sudah terdaftar dalam pasukan"?
+- Apakah kamu peduli dengan kesengsaraan yang terjadi di sekitarmu sekarang - eksploitasi, perdagangan manusia, ketidakadilan - atau kamu hanya menunggu Yesus membereskannya nanti? Atau, jujur saja, kadang kamu justru ingin keadaan makin buruk karena itu berarti Ia akan datang lebih cepat?
+- Bagaimana rasanya mengetahui kamu sudah dimeteraikan - bahwa keselamatanmu bukan yang dipertaruhkan selagi kamu bertahan dalam kesulitan?
+- Kumpulan orang itu keluar "dari" kesengsaraan besar, bukan mengelilinginya. Kesengsaraan apa yang sedang kamu alami sekarang, dan seperti apa jadinya kalau kamu menyembah untuk melewatinya, bukan sekadar bertahan hidup?
+- Dihitung berarti kamu tidak akan hilang dalam kerumunan. Apa arti jaminan itu bagimu secara pribadi?

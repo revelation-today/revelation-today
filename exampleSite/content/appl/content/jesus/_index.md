@@ -10,50 +10,48 @@ kids: /kids/content/jesus
 expl: /expl/content/jesus/a-different-christmas-story
 ---
 
-We are now entering a chapter full of strange images and events. But the story is very simple and you know it very well.
+You know the Christmas story. Shepherds, a manger, a star, three travelers arriving with gifts. It's been told so many times, in so many pageants with bathrobes and cardboard crowns, that it's almost impossible to hear it fresh anymore. So tonight I want to tell you the same story a different way - the way John tells it, with a pregnant woman clothed in the sun and a red dragon waiting to devour her child the moment he's born. Same story. Same night. But this version shows you what was actually happening while the shepherds were watching their flocks.
 
-## Our text
+## The scene nobody puts on a Christmas card
 
-<a name="e630"></a>
-We are moving quickly forward and reached {{% bible val="chapter 12" link="rev:12" lang="en" %}}.
+{{% bible val="A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. She was pregnant and cried out in pain as she was about to give birth." link="rev:12,1-2" lang="en" %}} Then the other sign: {{% bible val="an enormous red dragon with seven heads and ten horns... The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born." link="rev:12,3-4" lang="en" %}}
 
-## Christ is born
+Who is this woman? Not Mary - nothing anywhere else in Scripture links Mary to the sun, moon, and stars. This is Israel, pictured the same way Joseph once dreamed his family pictured: sun, moon, eleven stars bowing to him - twelve, counting Joseph himself, the twelve tribes. Israel was promised she would give birth to the Messiah, and she did it under the worst possible conditions: occupied by Rome, crushed by taxes, watching every rebellion against Caesar get put down without mercy. That's the manger. Not soft candlelight - a woman screaming in labor while a monster waits to kill what she's carrying.
 
-<a name="7fa6"></a>
-The woman with sun, moon and stars giving birth to a child with an iron stuff attacked by a red dragon looks a bit puzzling, but it is the nativity story.
+And the child? {{% bible val="She gave birth to a son, a male child, who 'will rule all the nations with an iron sceptre.'" link="rev:12,5" lang="en" %}} That's not decoration - it's Psalm 2, it's Isaiah's Messiah who strikes the earth with the rod of his mouth, it's Jesus himself later in this book claiming that very scepter as his own. Everyone in the first church who heard this knew exactly whose birth this was.
 
-The woman is Israel who gives birth to Jesus who is attacked by the devil (dragon). And Jesus’ life was in danger from the moment he was born. It is not described in detail, but jumps directly to his ascension.
+## The one who loses every single time
 
-The devil is displayed as the big loser
+Here's what you need to see about the dragon in this chapter: he loses. Not eventually. Not in some cosmic sense that takes theology to explain. He loses immediately, repeatedly, and completely, every time he tries anything.
 
-- He cannot defeat a newborn child.
-- While Jesus ascends to heaven, he is thrown out of heaven.
-- He is unable to defeat Israel.
-- His attempt to destroy the seed of Jesus (the Church) in the next chapter is also an epic failure.
+He positions himself to devour the child - {{% bible val="he cannot" link="rev:12,1-6" lang="en" %}}. The child is snatched up to God's throne before the dragon can lay a hand on him. Herod tries to finish the job with swords through Bethlehem, and Jesus is carried to Egypt and back untouched. The devil tempts him in the wilderness for forty days, and Jesus answers every offer with Scripture and walks away. Even the cross - the dragon's best and final shot - ends with an empty tomb and an ascension he can't stop. Then, still in this chapter, {{% bible val="war breaks out in heaven" link="rev:12,7-9" lang="en" %}}, and Michael throws him down to earth. Then he turns on the woman, Israel herself, and {{% bible val="he cannot" link="rev:12,13-17" lang="en" %}} destroy her either. Four attempts. Four failures. And in the very next chapter, he'll try a fifth time - going after the woman's other children, meaning us, the church - and that will fail too.
 
-But is this the reality? The devil does not look defeated. He seems to be in complete control of the earth and Christians are on the run.
+This is not a story about a battle that's still undecided. This is a story about someone who has already lost, thrashing.
 
-But this chapter exposes that. The devil is causing as much damage as he can {{% bible val="BECAUSE he knows he is defeated" link="rev:12,11-12" lang="en" %}}. His display of power is an acknowledgment of his defeat.
+## Why the loser is still doing so much damage
 
-And we should be aware of that. When we are attacked as Jesus was, it is not defeat. We should remain faithful and continue our witness.
+So here's the obvious problem: if the devil is such a spectacular failure, why does the world still look like he's winning? Why are Christians still getting arrested, still going broke, still watching their churches shrink while emperor-worship fills the stadiums? If this is what losing looks like, what does winning look like?
 
-In this chapter and the chapter before and after, you see strange times: 42 months, 1260 days, and 3.5 times. They all refer to the same time frame: 1260 days = 42 months (30 days per month) = 3.5 years (3.5 times). This describes all the same times between Jesus’ first and second coming.
+John gives you the answer directly, and it's the hinge the whole chapter turns on: {{% bible val="Therefore rejoice, you heavens and you who dwell in them! But woe to the earth and the sea, because the devil has gone down to you! He is filled with fury, because he knows that his time is short." link="rev:12,12" lang="en" %}} Read that again. He is not raging *because* he's winning. He is raging *because he knows he's already lost* and the clock is running out. His display of power on earth right now is not evidence against his defeat - it's the proof of it. A cornered animal doesn't fight harder because it's confident. It fights harder because it's out of options.
 
-We have the two witnesses acting in authority and the devil ruling. This happens at the same time that the victory of the Church is different from the victory of the Beast. The beast wants to destroy its enemies, but the Church wants to restore its enemies and its relationship with God, even if it means that the Church suffers and seems to be destroyed and defeated.
+That changes what you're looking at when you watch the news, or watch your own hard year unfold. The devil doesn't look defeated. He looks like he's in complete control. But this chapter tells you plainly: don't trust what it looks like. Trust what you've just been told about how this ends.
 
-## So what does it mean for us
+## Two kingdoms, two ways of winning
 
-<a name="596b"></a>
-So what is the takeaway for us?
+There's one more thing worth noticing, because it's easy to miss under all the dragon imagery: the beast and the church aren't just fighting over who wins. They're fighting with completely different definitions of victory. The beast wants to destroy its enemies - eliminate them, silence them, make them disappear. The church, following its King, wants to *restore* its enemies - to win them back into relationship with God, even if that costs the church everything it has, even if it looks, from the outside, like total defeat.
 
-We often think of ourselves as either victors or defeated (maybe because we don’t have enough faith). But this is not true. This Christmas story shows that there is a difference between how our situation looks and how it will end.
+That's what you saw two chapters ago with the two witnesses, killed in the street and then raised up before a watching city. That's what you're going to see again in the next chapter, when the beast looks unstoppable and the church looks crushed. The pattern doesn't change: the church that looks defeated is not defeated. It is doing exactly what its King did - bleeding for the sake of the people who are hurting it, and trusting a resurrection that hasn't been visible yet.
 
-We can be weak and feel helpless (and it’s okay to allow those feelings), but we don’t have to despair as long as we are faithful followers of Jesus.
+## So what do you do with this on an ordinary week
+
+We tend to sort ourselves into two categories: winners and losers, strong faith and weak faith, like the outcome of our week is a referendum on how much we believe. This chapter refuses that math entirely. It shows you a woman screaming in labor and a King thrown out into exile before his throne is secure and a devil who is furious precisely because time is running out on him - and it calls all of that *victory*, because of how the story ends, not how it currently looks.
+
+You are allowed to feel weak. You are allowed to feel like you're losing. This chapter doesn't ask you to pretend otherwise. It just asks you to keep being faithful in the middle of it, because the ending has already been secured by someone else's blood, not by how convincing your faith feels on a Tuesday.
 
 ### Reflection
 
-<a name="e9a1"></a>
-- Can you take some time and let this story play out? Try to imagine it! Feel with all the characters!
-- Do you know similar stories in the Bible where the weak overcome?
-- What does it mean to you to see Satan thrown out of heaven, but creating as much chaos as possible because he has so little time? How does this affect your life as a Christian?
-- Can you see Satan as the perpetual loser in the world around you?
+- Try replaying this chapter slowly in your imagination - the woman, the child, the dragon. What does it feel like to sit inside that scene rather than just read past it?
+- Where else in Scripture have you seen the weak overcome the strong? What do those stories have in common with this one?
+- The devil isn't raging *despite* his defeat - he's raging *because* he knows he's defeated and running out of time. How does that change how you read a hard week in your own life or in the news?
+- The beast destroys its enemies; the church tries to restore them, even at a cost to itself. Where is that harder for you than it sounds?
+- Can you honestly picture Satan as the perpetual loser in the world around you right now? What would change if you could?

@@ -33,60 +33,54 @@ kids: /kids/content/vision
 expl: /expl/content/vision/setting-the-foundation
 ---
 
-Was hat eine 2000 Jahre alte Gemeinde mit unserer heutigen Situation zu tun? Haben wir heute nicht ganz andere Herausforderungen? Du wirst überrascht sein, wie wenig sich die Welt für die Gemeinde verändert hat.
+Wenn ich dich fragen würde, wer diese Welt gerade wirklich regiert - was würdest du sagen? Politiker? Wer auch immer die Märkte kontrolliert, oder die Schlagzeilen, oder den Algorithmus? Vor zweitausend Jahren war die Antwort genauso offensichtlich. Rom regierte die Welt, und jeder wusste es - man konnte Cäsars Gesicht auf jeder Münze sehen.
 
-## Unser Text
+Dann schrieb ein alter Mann, verbannt auf eine Gefängnisinsel, weil er sich weigerte, etwas anderes zu sagen, einen Brief mit einer anderen Botschaft. Nicht *irgendwann*. Nicht *sobald wir gewonnen haben*. Schon jetzt. Und er ist an dich gerichtet.
 
-<a name="0ab1"></a>
-Wir müssen die {{% bible val="ersten drei Kapitel der Offenbarung" link="rev:1" lang="de" %}} lesen, um ein besseres Verständnis zu bekommen.
+## Gnade und Friede für Menschen, die sie nötig haben
 
-## Warum brauchen wir Gemeinden?
+{{% bible val="Johannes an die sieben Gemeinden in der Provinz Asia: Gnade sei mit euch und Friede von dem, der da ist und der da war und der da kommt, und von den sieben Geistern vor seinem Thron" link="rev:1,4" lang="de" %}}.
 
-<a name="180b"></a>
-Ist das wirklich eine Frage? Nun, wir brauchen Gemeinden, weil
+Beachte, was hier gegeben wird, bevor überhaupt etwas verlangt wird: Gnade und Friede. Keine Motivationsrede. Keine To-do-Liste. Denn Johannes weiß bereits, wogegen diese Gemeinden ankämpfen müssen, und er weiß, dass sie das aus eigener Kraft nicht schaffen können. Das gilt bis heute. Was auch immer diese Woche von dir verlangt - du hast Gnade und Friede erhalten, bevor du auch nur eine einzige Anweisung bekommen hast.
 
-- Das ist der Ort, wo Gläubige sich treffen und in ihrem Leben ermutigt werden.
-- Hier erhalten wir Segen und Lehre, um unser Leben erfolgreich zu führen und in den Himmel zu kommen.
-- Aber der Hauptgrund ist, dass die Gemeinden wachsen und alle gerettet werden und in den Himmel kommen.
+Und von wem kommt das? "Der da ist und der da war und der da kommt" - der, der über die Zeit selbst herrscht, nicht nur über diese Nachrichtenlage oder diese Wahl oder diese Diagnose. Was auch kommen mag, er ist schon dort und wartet auf dich.
 
-Die Offenbarung betont den letzten Teil, aber die Frage bleibt, wie das geschehen soll. Das Buch beginnt mit einer Vision Jesu, der die Vision der Gemeinde mit zwei Dingen beschreibt: Sternen und Leuchtern. Diese beschreiben das Ziel der Gemeinde:
+## Ein König, der für dich blutete - und dich zu einem machte
 
-- ein sichtbares Zeichen und Zeugnis für die Welt zu sein und
-- ihre Kraft ganz aus der Abhängigkeit von Jesus zu schöpfen.
+{{% bible val="und von Jesus Christus, welcher ist der treue Zeuge und Erstgeborene von den Toten und der Fürst der Könige auf Erden. Ihm, der uns liebt und uns von unseren Sünden gewaschen hat in seinem Blut und uns gemacht hat zu einem Königreich, zu Priestern für seinen Gott und Vater: ihm sei Ehre und Macht von Ewigkeit zu Ewigkeit! Amen." link="rev:1,5-6" lang="de" %}}
+
+Lies den letzten Teil noch einmal: *hat gemacht*. Nicht *wird machen*, nicht *wird machen, wenn wir treu genug sind*. Es ist bereits geschehen. Du bist, jetzt in diesem Moment, ein König oder eine Königin, ein Priester vor Gott. Das ist keine Metapher, die dich an einem schweren Tag ermutigen soll - das ist deine tatsächliche Berufsbezeichnung.
+
+Aber sieh dir an, wie dieser König seinen Thron bekommen hat. Nicht durch Eroberung. Indem er für Menschen blutete, die es nicht verdient hatten. Wenn das seine Art zu herrschen ist, dann ist es auch die Art, wie er dich einlädt zu herrschen - nicht, indem du lauter wirst oder mächtiger als alle um dich herum, sondern indem du Menschen so liebst, wie er dich zuerst geliebt hat.
+
+## Jedes Auge wird ihn sehen
+
+{{% bible val="Siehe, er kommt mit den Wolken, und es wird ihn jedes Auge sehen, auch die ihn durchstochen haben, und wehklagen werden über ihn alle Geschlechter der Erde. Ja, Amen." link="rev:1,7" lang="de" %}}
+
+Dieser Satz ist aus Daniel und Sacharja zusammengesetzt - der Menschensohn kommt in Herrlichkeit, und Israel blickt endlich auf den, den es durchbohrt hat, und weint um ihn wie ein Vater um seinen einzigen Sohn. Nur dass es hier nicht mehr nur Israel ist. Es sind alle Völker, alle Nationen. Die Klage könnte in zwei Richtungen gehen: Trauer, die zur Umkehr wird, oder Trauer, die nur Angst vor dem ist, was kommt. Der Text lässt das bewusst offen - denn genau das ist immer noch die offene Frage, wenn jemand zum ersten Mal von Jesus hört, und es ist die Frage, die dein Leben mit beantworten helfen soll.
+
+## Die Vision selbst
+
+Dann dreht sich Johannes um, und was er sieht, ist kaum zu beschreiben: sieben goldene, brennende Leuchter, und mittendrin einer mit Augen wie Feuerflammen, Füßen wie glühendes Erz aus dem Ofen, einer Stimme wie rauschendes Wasser, einem Gesicht, zu hell, um es anzusehen, einem Schwert, das aus seinem Mund kommt. Johannes bleibt nicht stehen. Er fällt nieder wie ein Toter.
+
+Und das Erste, was diese überwältigende Gestalt tut, ist, ihm die Hand aufzulegen und zu sagen: {{% bible val="Fürchte dich nicht! Ich bin der Erste und der Letzte und der Lebendige; ich war tot, und siehe, ich bin lebendig von Ewigkeit zu Ewigkeit und habe die Schlüssel des Todes und der Hölle." link="rev:1,17-18" lang="de" %}}
+
+Das ist das Muster, bei dem es sich zu verweilen lohnt. Die Vision ist erschreckend - und die allerersten Worte daraus sind *fürchte dich nicht*. Was in deinem Leben auch zu groß, zu fremd oder zu hoffnungslos erscheint - dieselbe Stimme sagt dir dasselbe.
+
+## Leuchter und Sterne: wofür du eigentlich hier bist
+
+Schließlich erklärt Jesus das Bild: {{% bible val="die sieben Sterne sind die Engel der sieben Gemeinden, und die sieben Leuchter sind sieben Gemeinden" link="rev:1,20" lang="de" %}}. Zwei Bilder, und sie haben zwei Dinge gemeinsam.
+
+Erstens: Beide sind Lichtquellen. Sterne zur Orientierung in einer dunklen Nacht, ein Leuchter als einziges Licht in einem fensterlosen Raum. Zweitens - und das ist der Teil, den wir lieber überspringen würden: Keines von beiden leuchtet aus eigener Kraft. Ein Stern ist nichts, bis er an den Himmel gesetzt wird; ein Leuchter ist nur Metall, bis Öl darin ist. Jedes bisschen Licht, das die beiden abgeben, ist geliehen.
+
+Das ist die ganze Berufsbeschreibung der Gemeinde, noch einmal anders gesagt: Sei Licht für die Welt - und tu das ganz und gar in Abhängigkeit von der Kraft eines anderen. Nicht mehr Programme, mehr Zahlen, mehr Sichtbarkeit aus eigener Kraft. Nur das: Leuchte, weil du von Jesus abhängig bist, nicht weil du herausgefunden hast, wie man selbst leuchtet.
+
+Also steht am Ende dieser ganzen Vision die Frage, vor der du stehst: Ist deine Gemeinde - bist du - tatsächlich ein Zeugnis, das jemanden, der zusieht, überzeugen würde? Nicht beeindrucken. Überzeugen, dass es sich lohnt, Jesus mit dem eigenen Leben zu vertrauen, so wie du ihm deins anvertraut hast.
 
 ### Reflektion
 
 - Diese Vision beschreibt die Aufgabe der Gemeinde: Licht zu sein und dabei von Jesus abhängig zu bleiben. Welche der beiden Hälften fällt dir schwerer?
 - Wie würde es aussehen, wenn deine Gemeinde Erfolg so messen würde, wie Jesus es hier tut - statt an Zahlen oder Aktivität?
-- Sterne leuchten nur, solange sie in Jesu Hand gehalten werden. Wo hast du versucht, aus eigener Kraft zu leuchten?
-
-## Überblick über die Gemeinden
-
-<a name="86b5"></a>
-Wenn wir die sieben Gemeinden betrachten, sehen wir, dass die Briefe symmetrisch angeordnet sind:
-
-- Die erste und die letzte (Ephesus und Laodizea) sind totale Versager: Während die erste kurz davor steht, ihr Ziel zu verlieren (Drohung, den Leuchter wegzunehmen), ist die letzte diejenige, die nicht das geringste Lob erhält.
-- Die zweite und vorletzte (Smyrna und Philadelphia) sind die einzigen, die keine einzige Kritik erhalten.
-- Die dritte und vorletzte (Pergamon und Sardis) sind Gemeinden mit einer gemischten Bewertung (Pergamon hat einige gute Dinge, lässt aber Irrlehren zu, in Sardis gibt es zumindest einige Gläubige, die gut sind).
-- Schließlich haben wir die Mitte (Thyatira), die eine Gemeinde beschreibt, an der Jesus ein Exempel statuieren will.
-
-Wenn wir das zusammenfassen (harte Kritik am Anfang, am Ende und in der Mitte, Lob an ganz unbedeutenden Stellen), dann haben wir eine Gemeinde, die bzgl. der Vision völlig versagt. Aber was heißt das im Einzelnen?
-
-## Die Stärken
-
-<a name="21f0"></a>
-Das ist ein Aspekt, den wir oft übersehen und nur auf die Schwächen schauen. Aber wir sollten uns Zeit nehmen, denn die Stärken von damals sind vielleicht nicht unsere Stärken und wir können daraus lernen, sie nicht zu unterschätzen.
-
-- Ihre guten Werke und ihr Dienst: Sie reden nicht nur, sie leben nach dem, was sie predigen. Sie helfen den Armen und ermutigen die Leidenden.
-- Ihre Ausdauer: Sie sind treu, wenn es schwierig wird, sie geben nicht einfach auf. Und sie erleben viel: Armut wegen ihres Glaubens, Gefängnis und sogar den Tod.
-- Ihre Liebe: Sie dienen nicht aus Pflichtgefühl, sondern leben den Nächsten wirklich.
-- Nehmen keine falsche Lehre an: Wenn die Lehre falsch ist, helfen auch keine guten Absichten, und das Ergebnis kann das Gegenteil von dem sein, was Gott will.
-
-## Die Herausforderungen
-
-<a name="1657"></a>
-Ihre Herausforderungen sind so individuell wie ihre Stärken, so dass wir manche Themen als Stärke in der einen und als Schwäche in der anderen Gemeinde haben.
-
-- Die Liebe ist nicht aufrichtig: Sie haben ihren ursprünglichen Auftrag aus den Augen verloren, vielleicht weil sie so sehr in gute Taten vertieft sind, dass sie den Grund für all das vergessen haben.
-- Schlechte Leitung und falsche Lehre: Die Leitung lässt falsche Lehre zu oder ist selbst die Ursache dafür. Das hat schwerwiegende Folgen für die ganze Gemeinde.
-- Falsches Selbstverständnis: Laodizea wurde nicht gelobt, weil sie von sich selbst hoch dachten und Jesus nicht sahen. Auch in Sardis gab es ein solches Denken. Das ist ein kaum zu überschätzender und sehr zerstörerischer Fehler.
+- Sterne leuchten nur, solange sie in Jesu Hand gehalten werden. Wo hast du versucht, aus eigener Kraft zu leuchten, statt dich tragen zu lassen?
+- "Fürchte dich nicht" kommt direkt nach dem überwältigendsten Moment der ganzen Vision. Was in deinem Leben braucht gerade diese Worte?
+- Du bist bereits zu einem König oder Priester vor Gott gemacht worden - nicht irgendwann, sondern jetzt. Was würde sich diese Woche ändern, wenn du wirklich danach leben würdest?

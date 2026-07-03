@@ -2,7 +2,7 @@
 title: "Böl.5-6: Yedi mühür paradoksu"
 weight: 40
 base: /quick/content/seals
-story: /story/tour
+story: /story/content/seals
 deeper:
     - name: Gerçek bir kahraman
       link: /topics/hero/short/a-real-hero
@@ -21,52 +21,35 @@ kids: /kids/content/seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 ---
 
-Yedi mühür, kitabın gerçekten kafa karıştırıcı ve hatta rahatsız edici göründüğü zamandır. Bütün bunlar ne hakkında? Yedi mühürlü kitapta ne var ve bu atlılar kim?
+Beyaz bir ata binip kasabaya giren bir politikacı düşün, gerçek ya da mecazi anlamda. Taç zaten başında. Büyük vaatler: düşmanlarını yeneceğim, bozuk olanı düzelteceğim, sadece arkamda dur. Bu figürü daha önce gördün, her nesilde, her ülkede, farklı üniformalarla. İşte bu bölümün sana sormak istediği rahatsız edici soru: o atlı çıkageldiğinde, onu İsa'dan nasıl ayırt edersin? Vahiy 6 diyor ki, dünyanın çoğu ayırt edemiyor. Dört atlının bütün meselesi bu kafa karışıklığı, ve sonunda göreceksin ki bunun cevabı hiçbir zaman kendi daha büyük, daha güçlü atlımız olmayacaktı.
 
-## Bizim metnimiz
+## Beyaz attaki sahtekâr
 
-<a name="de71"></a>
-Şu anda {{% bible val="5" link="rev:5" lang="tr" %}}. ve {{% bible val="6" link="rev:6" lang="tr" %}}. bölümlerdeyiz.
+Şimdi {{% bible val="6. bölümdeyiz" link="rev:6" lang="tr" %}}, boğazlanmış Kuzu'nun başka kimsenin açamadığı tomarı almasının hemen ardından. Mühürleri kırmaya başladığı anda ne olduğuna bak: {{% bible val="Bakınca beyaz bir at gördüm. Binicisinin yayı vardı. Kendisine bir taç verildi ve galip gelen biri olarak zafer kazanmaya çıktı" link="rev:6,1-2" lang="tr" %}}. Beyaz at. Taç. Fetih dili. Bilmesen, bunun zafer içinde çıkagelen İsa'nın kendisi olduğunu düşünürdün - ve tuzak da tam bu.
 
-## Kitap ve kuzu
+Ardından geleni izle: dünyadan barışı kaldırıp insanları katile çeviren kızıl bir at, elinde terazi tutan ve bir günlük ücretin ancak bir günlük ekmeğe yettiğini haykıran bir ses eşliğinde siyah bir at - lüks mallar dokunulmamış, ama yoksullar adaletsizlik altında ezilmiş - ve son olarak, binicisinin adı Ölüm olan, ardında Ölüler Diyarı'nı sürükleyen soluk renkli bir at. Bu bir kahramanlık öyküsü değil. Bu bir dolandırıcılığın anatomisi: büyük vaatler, sonra katılmayanların zulmü, sonra rahat olanlar rahat kalırken yoksulların ekonomik boğulması, sonra enkaz. Bu {{% int_link val="dört atlının gizemi" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} - şeytan kötü görünerek at sürmez. Dualarının cevabı gibi görünerek, bir kahramanın taşımasını istediğin tacı takarak, saflık ve zaferle özdeşleştirdiğin renge binerek gelir. Ve ifşa edilmesi gerekir, çünkü pek çok insan kılıç ve kıtlık gelene kadar farkı hiç fark etmez.
 
-<a name="fa3f"></a>
-İbadetin tüm ahengi içinde yedi mühürlü bir kitap ortaya çıkar. Kitabın içinde ne olduğunu açıklamanın yeri burası değil, bana biraz sabır gösterin ama bu kitabın muazzam etkileri var.
+## Paradoks Tanrı'nın değil, bizim
 
-Asıl soru şudur: Kitabı açmaya kim layıktır? Kimse bulunamayınca Yuhanna hüngür hüngür ağlamaya başlar. Bu çok dramatik bir andır. Ama sonra duyuru yapılır: Yahuda’nın aslanı buna layıktır.
+İşte çoğumuzun içine dolandığı yer burası, ve dolaşan düğüm Tanrı'da değil, bizde. Bunu söylemişsindir, belki bu hafta bile: Tanrı neden araya girip diktatörleri, insan kaçakçılığını, istismarı durdurmuyor? O'nun harekete geçmesini istiyoruz - sonra kitap O'nu depremlerle, yargıyla, kan kırmızısı aylarla harekete geçerken gösterdiğinde geri çekilip buna teolojik bir sorun diyoruz. İkisini birden isteyemeyiz, ve meğer ikisini de yanlış değerlendirmişiz.
 
-Bu, düşmanları yok eden, Tanrı’nın halkını kurtaran ve tüm baskıları sona erdiren güçlü bir kahraman ister. Hepimiz bunu umarız ama Yuhanna’nın gördüğü bu değildir.
+Birincisi: Tanrı kötülüğe zaten müdahale ediyor - sadece bizim istediğimiz şekilde değil. Biz sadece iki araç biliyoruz, ceza ve hapis, ve bunlara ancak kötülük bizim yeterince ciddi saydığımız bir sınırı aştığında başvururuz - cinayete evet, ama sessiz kıskançlığa göz yumarız. Tanrı bundan daha radikaldir. Kötülük küçük, hoş görülen biçimlerinde bile kötülüktür, çünkü zamanla ve fırsat bulduğunda her zaman büyür, bu yüzden O'nun tepkisi sadece manşetlere çıkan türü değil, hepsini hedef alır. İkincisi: O'nun amacı hiçbir zaman sadece cezalandırmak olmadı. Amaç, insanları öyle bir onarmak ki en başta kötülük yapmayı bıraksınlar. Bu kitapta köklü görünen her şey, ortasındayken görmek ne kadar zor olsa da, bu hedefe yönelik.
 
-Kesilmiş bir kuzu görür, çarmıhtaki İsa’yı. Güçle değil, fedakârlıkla fethedilen bir zafer!
+## Dayan, misilleme yapma
 
-Sadece bu da değil: Tüm yer ve gök Tanrı’ya olan tapınmalarını artık merkezde olan kuzuya tapınmaya dönüştürür ve Tanrı bunu onaylar! İsa, Tanrı dışında tapınılmaya layık olan tek kişidir — Yahya bunu bir meleğe iki kez denedi ve ağır bir şekilde azarlandı.
+Peki sahte aslan insanları kandırırken kilise ne yapar? {{% bible val="Tanrı'nın sözü ve sürdürdükleri tanıklık nedeniyle boğazlanmış olanların canları" link="rev:6,9-11" lang="tr" %}} "ne zamana dek?" diye haykırır - ve onlara biraz daha beklemeleri söylenir, beyazlar giydirilmiş halde, sayı tamamlanana dek. "Atlıların savaştığı gibi karşılık ver" değil. Tanıklığına devam et. Dayan. Hepsi bu. Strateji bu, çünkü bütün mesele, dünyanın şeytanın vaatlerinin ürettiği şey ile İsa'nın ürettiği şey arasındaki farkı açıkça görebilmesi - ki borazanlar bu farkı daha da keskinleştirecek. Kaç hareketin ve kurumun - kimi gururla laik, kimi gururla Hristiyan - sonunda atlıların meyvesini ürettiğini düşün: özen kılığına girmiş kontrol, adalet kılığına girmiş misilleme. Ve umutsuz görünen şeyin - güçsüz, sabırlı dayanışın - aslında ne sıklıkla gerçekten sonuç verdiğini düşün.
 
-## Bizim paradoksumuz
+## Herkesin korktuğu ve kimsenin adlandıramadığı gazap
 
-<a name="d960"></a>
-Bu hikâyedeki paradoks Tanrı değil, biziz. Ne kadar sık söylüyoruz: Tanrı neden müdahale etmiyor ve diktatörleri, suçları, istismarı ve daha pek çok şeyi durdurmuyor? Bu yüzden harekete geçmesini bekliyoruz. Ve kitaptaki tüm bu şiddet içeren resimlerle teolojik bir sorun yaşıyoruz.
+Sonra altıncı mühür gelir, ve bilerek dehşet vericidir: güneş kararır, ay kan kırmızısına döner, yıldızlar düşer, ve {{% bible val="yeryüzünün kralları, prensleri, komutanları, zenginleri, güçlüleri, köle ve özgür olan herkes mağaralara ve dağların kayalıklarına saklandı. Dağlara ve kayalara şöyle seslendiler: 'Üzerimize çöküp bizi tahtta oturanın yüzünden ve Kuzu'nun gazabından saklayın!'" link="rev:6,15-16" lang="tr" %}} Dikkat çekici bir şeye bak: "Kuzu'nun gazabı" ifadesi bütün Kutsal Kitap'ta tam olarak bir kez geçer, tam burada - ve bu, İsa'nın yaptığı şeyi değil, dehşete kapılmış, suçlu insanların O'nun kendilerine ne yapacağını sandığını anlatır, tıpkı Adem ile Havva'nın günah işledikten sonra bahçede saklanması gibi. Metin bize İsa'nın öfkeyle hareket ettiğini hiçbir zaman göstermez. Bize gösterdiği, sahte aslan tarafından öylesine derinden kandırılmış bir dünyadır ki, gerçek olan ortaya çıktığında, O'nu kendilerini yok edecek biri olarak hayal etmekten başka bir şey yapamazlar.
 
-Her iki açıdan da yanılıyoruz:
+Bu kitabın tamamının altında akan örüntü bu: şeytan dünyayı, tehlikenin Mesih olduğuna ve kurtuluşun kendisi olduğuna inandırır, ve bu yalanı tekrar tekrar açığa çıkaran şey, gökten gelen daha büyük bir güç gösterisi değildir. Farklı yaşayan bir halkın tanıklığıdır. Her şey - her şey - kilisenin tanıklığının hangi atlının hangisi olduğu konusunda doğruyu söyleyip söylemediğine bağlıdır.
 
-- Tanrı tüm kötülüklere müdahale ediyor ama bizim yolumuzdan değil. Biz sadece cezalandırma ya da hapsetme seçeneklerini görüyoruz. Kötülüğü yayılmayacak şekilde kontrol altına almanın ve sadece belirli bir kötülük seviyesini göz önünde bulundurmanın yolları (cinayet cezalandırılmalıdır, ama kıskançlık normaldir). Tanrı daha radikaldir: Kötülük küçük şeylerde bile kötüdür çünkü zamanla ve koşullar altında büyür. Bu yüzden hepsiyle mücadele eder.
-- Onun eylemi cezalandırmak değil, kötülüğü durdurmaları için insanları onarmaktır. Kitaptaki tüm içerikler gerçekten sert görünmektedir, ancak odak noktaları cezanın infazı değil, keşfedeceğimiz çok farklı bir niyetleri vardır.
+### Reflection
 
-## Yahuda’nın sahte aslanı
-
-<a name="df04"></a>
-Konuşmayan bir kişi var ama o aslan gibi davranacak. Parlak zırhı ve ihtiyaç duyduğu tüm güçle olayları çözmek istiyor. Ve ifşa edilmesi gerekiyor. Bu şeytandır: Dört atlı bu yolun ifşasıdır: büyük vaatlerden zulme ve savaşa, açlığa ve tamamen yıkıma. Bunlar ilk dört mührün açılmasıdır.
-
-Beşinci mühürde kilisenin bunlara göre nasıl hareket etmesi gerektiğini görürüz. Çok basit: Tanıklıklarına devam etmeli ve dayanmalıdırlar. Böylece dünya şeytanların ve İsa’nın çalışmalarının sonucunu açıkça görebilir. Bu konu trompetlerde çok daha ayrıntılı bir şekilde ele alınacaktır.
-
-Altıncı mühür tam bir dramatiktir. İsa ortaya çıkar ve her şeyi sona erdirir. İnsanlar kuzunun gazabından saklanmak isterler. İsa gerçekten öfkeli olduğu ve herkesin korkması gerektiği izlenimini verir. Bunu çok daha fazla detaylandırmalıyız, ama kısa kelimelerle, çünkü bu tüm kitap boyunca gördüğünüz bir modeldir: Şeytan tüm dünyayı Mesih olarak kandırıyor gibi görünür, insanlar Tanrı’nın kötü olduğunu düşünür, ancak kilisenin tanıklığı farkı yaratan önemli unsurdur.
-
-Yani her şey kilisenin iyi tanıklığına bağlıdır.
-
-### Yansıma
-
-- Sence İsa’nın ölümü ve dirilişi neden bu dünyanın sorunlarına cevap oluyor?
-- İsa her kötülüğe güç ve kuvvetle müdahale etseydi dünya nasıl görünürdü?
-- Kilise İsa gibi davransaydı - iyileştiren, barıştıran, cesaretlendiren ama aynı zamanda sınır koyan; korku, şiddet, önyargı ve mahkûm etme ile çalışmayan bir kilise - dünya nasıl görünürdü?
-- Sence İsa’sız bir dünya düzeltilebilir mi?
-- İnsanlar kilise hakkında kötü konuştuğunda nasıl tepki veriyorsun?
-- Sonunda daha çok acıya yol açan, bir kurum ya da hükümet tarafından verilmiş bir vaat hatırlıyor musun? Umutsuz görünse bile gerçekten fark yaratan bir girişim var mıydı? Aradaki fark neydi?
+- Sence İsa'nın ölümü ve dirilişi - fetih değil, fedakârlık - neden dünyanın sorunlarına gerçek cevap oluyor?
+- İsa her kötülüğe çıplak güç ve kuvvetle müdahale etseydi, ilk atlının vaat ettiği gibi, dünya nasıl görünürdü?
+- Politikada, kilisede, kendi hayatında, gerçekten bir kurtuluş olan "beyaz at" ile aslında bir dolandırıcılık olanı nasıl ayırt edersin?
+- Kilise İsa gibi davransaydı - iyileştiren, barıştıran, sınır koyan, ama korkuya, önyargıya ya da mahkûm etmeye başvurmayan - dünya nasıl görünürdü?
+- Fetih gibi görünüp sonunda daha çok acıya yol açan bir vaat hatırlıyor musun - bir kişiden, bir kurumdan, bir hükümetten? Umutsuz görünüp de gerçekten fark yaratan bir çaba var mıydı?
+- İnsanlar kilise hakkında kötü konuştuğunda nasıl tepki veriyorsun? Tepkin gerçek Kuzu'yu görmeyi kolaylaştırıyor mu, zorlaştırıyor mu?

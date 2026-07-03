@@ -21,55 +21,40 @@ kids: /kids/content/seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 ---
 
-The seven seals is the time when the book becomes really confusing and even disturbing. What is it all about? What is in the book of the seven seals, and who are these riders?
+Picture a politician riding into town on a white horse, literally or otherwise. Crown already on his head. Big promises: I will conquer your enemies, I will fix what's broken, just get behind me. You've seen this figure before, in every generation, in every country, wearing different uniforms. Now here's the uncomfortable question this chapter wants to ask you: when that rider shows up, how would you tell him apart from Jesus? Revelation 6 says most of the world can't. That confusion is the whole point of the four horsemen, and by the end you'll see why the answer to it was never going to be a bigger, stronger horseman of our own.
 
-## Our text
+## The imposter on the white horse
 
 <a name="a892"></a>
-We are now in {{% bible val="chapter 5" link="rev:5" lang="en" %}} and {{% bible val="6" link="rev:6" lang="en" %}}.
+We're in {{% bible val="chapter 6" link="rev:6" lang="en" %}} now, right after the Lamb who was slain took the scroll no one else could open. Watch what happens the moment he starts breaking the seals: {{% bible val="I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest" link="rev:6,1-2" lang="en" %}}. White horse. Crown. Conquest language. If you didn't know better, you'd think this was Jesus himself riding out in triumph — and that's exactly the trap.
 
-## The book and the Lamb
+Look at what follows: a red horse that takes peace from the earth and turns people into killers, a black horse holding scales while a voice cries out that a day's wages barely buys a day's bread — luxury goods untouched, but the poor crushed by injustice — and finally a pale horse whose rider is named Death, with Hades trailing behind him. That's not a hero's campaign. That's the anatomy of a con: grand promises, then persecution of anyone who won't buy in, then economic strangulation of the poor while the comfortable stay comfortable, then the wreckage. This is {{% int_link val="the mystery of the four horsemen" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} — the devil doesn't ride in looking evil. He rides in looking like the answer to your prayers, wearing the crown you wanted a hero to wear, riding the color you associate with purity and victory. And he has to be exposed, because plenty of people never notice the difference until the sword and the famine arrive.
 
-<a name="fb16"></a>
-In all the harmony of worship, a book with seven seals appears. This is not the place to explain what is in the book, have some patience with me, but the tremendous effects of this book.
-
-The big question is: Who is worthy to open the book? When no one is found, John begins to cry bitterly. It is a very dramatic moment. But then the announcement is made: The Lion of Judah is worthy.
-
-This calls for a strong hero to destroy the enemies and save the people of God and end all oppression. This is what we all hope for, but this is not what John sees.
-
-He sees a slaughtered lamb, Jesus on the cross. A victory not by power but by sacrifice!
-
-And not only that: The whole of heaven and earth turns their worship of God into worship of the Lamb who is now in the center, and God approves! Jesus is the only one besides God who is worthy of worship — John tried this twice to an angel and was severely rebuked.
-
-## Our paradox
+## The paradox is ours, not God's
 
 <a name="d2bc"></a>
-The paradox in this story is not God, it is us. How often do we say: Why does God not intervene and stop the dictators and the crimes and the abuses and many other things? So we expect him to act. And then we have a theological problem with all these violent images in the book.
+Here's where most of us get tangled up, and the tangle is in us, not in God. You've said it, maybe this week: why doesn't God just step in and stop the dictators, the trafficking, the abuse? We want him to act — and then when the book shows him acting, with earthquakes and judgment and blood-red moons, we recoil and call it a theological problem. We can't have it both ways, and it turns out we've misjudged both halves of it.
 
-Well, we are wrong on both aspects:
+First: God already is intervening in evil — just not the way we would. We only know two tools, punishment and containment, and we only reach for them once evil crosses a line we've decided is serious enough — murder, yes; quiet jealousy, we let that slide. God is more radical than that. Evil is evil even in the small, tolerated forms, because it always grows given time and opportunity, so his response goes after all of it, not just the headline-grabbing kind. Second: his aim was never merely to punish. It's to restore people so they stop doing evil in the first place. Everything in this book that looks drastic is aimed at that goal, however hard that is to see in the middle of it.
 
-- God intervenes in all evil, but not in our way. We only see the options of punishment or imprisonment. Ways to contain the evil so that it doesn’t spread and to consider it only with a certain level of evilness (murder must be punished, but jealousy is okay). God is more radical: evil is evil even in small things, because it grows with time and circumstances. So he attacks them all.
-- His action is not to punish, but to restore people so that they stop doing evil. All the contents of the book look really drastic, but their focus is not on the execution of punishment, but they have a very different intention that we will explore.
-
-## The fake lion of Judah
+## Endure, don't retaliate
 
 <a name="7278"></a>
-There is one who has not spoken, but he would act like a lion. He wants to fix things with shiny armor and all the power he needs. And he must be exposed. It is the devil. The four horsemen are the exposure of this path: from great promises to persecution and war to famine and total destruction. These are the opening of the first four seals.
+So what does the church do while the fake lion is out there fooling people? {{% bible val="the souls of those slain because of the word of God and the testimony they had maintained" link="rev:6,9-11" lang="en" %}} cry out, "how long?" — and they are told to wait a little longer, clothed in white, until the number is complete. Not "fight back the way the horsemen fight." Continue your witness. Endure. That's it. That's the strategy, because the whole point is for the world to be able to see, plainly, the difference between what the devil's promises produce and what Jesus produces — a difference the trumpets will make even sharper. Think about how many movements and institutions — some proudly secular, some proudly Christian — end up producing the horsemen's fruit: control dressed as care, retaliation dressed as justice. And think about how often the way that looks hopeless, patient endurance without power, is the one that actually breaks through.
 
-But what about movements that are not Christian and do good things? And what about the many things the church does that only create suffering? You might be surprised how many “worldly” organizations are influenced by Christian values and how often the church tries to do it in a “worldly” way. There is one way that looks promising but leads to destruction and another that looks hopeless but brings breakthrough. We will see much more of this.
+## The wrath everyone fears and no one can name
 
-In the fifth seal we see how the church is to respond to them. Very simple: They are to continue their witness and endure. This is so that the world can clearly see the result of the work of the devils and Jesus. This will be much more elaborated in the trumpets.
+<a name="ddd6"></a>
+Then comes the sixth seal, and it is terrifying on purpose: sun black, moon blood-red, stars falling, and {{% bible val="the kings of the earth, the princes, the generals, the rich, the mighty, and everyone else, both slave and free, hid in caves and among the rocks of the mountains. They called to the mountains and the rocks, 'Fall on us and hide us from the face of him who sits on the throne and from the wrath of the Lamb'" link="rev:6,15-16" lang="en" %}}. Notice something remarkable: this phrase, "the wrath of the Lamb," appears exactly once in the entire Bible, right here — and it describes not what Jesus does, but what terrified, guilty people assume he's about to do to them, the same way Adam and Eve hid in the garden after they sinned. The text never actually shows us Jesus acting in rage. It shows us a world so thoroughly deceived by the fake lion that when the real one appears, they can't imagine him as anything but their destroyer.
 
-The sixth seal is full of drama. Jesus comes and ends it all. The people want to hide from the wrath of the Lamb. Jesus gives the impression that he is really angry and that everyone should be afraid. We need to go into this much more, but in short, because this is a pattern you see throughout the book: The devil seems to deceive the whole world that he is Christ, people think that God is bad, but the testimony of the church is the important element that makes the difference.
-
-So everything depends on the good witness of the Church.
+That's the pattern running under this entire book: the devil deceives the world into thinking Christ is the danger and he himself is the rescue, and the thing that breaks that lie open, again and again, is not a bigger show of force from heaven. It's the testimony of a people who lived differently. Everything — everything — depends on whether the church's witness tells the truth about which rider is which.
 
 ### Reflection
 
 <a name="8333"></a>
-- Why do you think that Jesus and his death and resurrection are the answer to the problems of this world?
-- What would the world look like if Jesus intervened with power and strength against every evil?
-- What would the world look like if the church acted like Jesus, a church that heals and reconciles and encourages but also sets boundaries, a church that does not work with fear and violence, prejudice and condemnation?
-- Do you think a world without Jesus is fixable?
-- How do you respond when people speak ill of the church?
-- Can you think of a promise made by an organization or government that ended up causing more pain? What initiative really made a difference, even when it seemed hopeless? What was the difference?
+- Why do you think that Jesus's death and resurrection — sacrifice, not conquest — is the real answer to the world's problems?
+- What would the world look like if Jesus intervened with raw power and force against every evil, the way the first horseman promises?
+- How do you tell the difference between a "white horse" that's really a rescue and one that's really a con — in politics, in the church, in your own life?
+- What would it look like for the church to act like Jesus: healing and reconciling and setting boundaries, without resorting to fear, prejudice, or condemnation?
+- Can you think of a promise — from a person, an organization, a government — that sounded like conquest and ended up causing more pain? What effort that looked hopeless actually made a difference?
+- How do you respond when people speak ill of the church? Does your response make the real Lamb easier or harder to see?

@@ -2,29 +2,29 @@
 title: "Böl.1: Vizyon"
 weight: 10
 base: /quick/content/vision
-story: /story/tour
+story: /story/content/vision
 deeper:
     - name: Kitap nasıl başlıyor
       link:  /expl/content/letters/setting-the-foundation
-    - name: İsa’nın vizyonu
+    - name: İsa'nın vizyonu
       link:  /expl/content/vision/the-vision
     - name: Kiliselerin melekleri
       link:  /expl/content/letters/the-angel-of-the-churches
     - name: Kiliseler için mektup
       link:  /expl/content/letters/the-letters-to-the-seven-churches
-    - name: Efes’e mektup
+    - name: Efes'e mektup
       link:  /expl/content/letters/the-letter-to-the-church-in-ephesus
-    - name: İzmir’e mektup
+    - name: İzmir'e mektup
       link:  /expl/content/letters/the-letter-to-the-church-in-smyrna
-    - name: Pergamon’a mektup
+    - name: Pergamon'a mektup
       link:  /expl/content/letters/the-letter-to-the-church-in-pergamon
-    - name: Thyatira’ya mektup
+    - name: Thyatira'ya mektup
       link:  /expl/content/letters/the-letter-to-the-church-in-thyatira
-    - name: Sardes’e mektup
+    - name: Sardes'e mektup
       link:  /expl/content/letters/the-letter-to-the-church-in-sardis
-    - name: Philadelphia’ya mektup
+    - name: Philadelphia'ya mektup
       link:  /expl/content/letters/the-letter-to-the-church-in-philadelphia
-    - name: Laodikya’ya mektup
+    - name: Laodikya'ya mektup
       link:  /expl/content/letters/the-letter-to-the-church-in-laodicea
 prev: /appl/background/israel
 next: /appl/content/letters
@@ -33,60 +33,54 @@ kids: /kids/content/vision
 expl: /expl/content/vision/setting-the-foundation
 ---
 
-2000 yıl önceki cemaatlerin şu anki durumumuzla ne ilgisi var? Bugün çok farklı zorluklarla karşı karşıya değil miyiz? Dünyanın ya da kilisenin ne kadar az değiştiğine şaşıracaksınız.
+Şu anda dünyaya gerçekten kimin hükmettiğini sorsam, ne cevap verirdin? Politikacılar mı? Piyasaları, manşetleri ya da algoritmayı elinde tutanlar mı? İki bin yıl önce cevap tıpkı böyle apaçık görünüyordu. Roma dünyaya hükmediyordu ve bunu herkes biliyordu - Sezar'ın yüzünü her madeni parada görebilirdiniz.
 
-## Bizim metnimiz
+Sonra, bunun aksini söylediği için sürgün edilip bir hapis adasına atılmış yaşlı bir adam oturdu ve bambaşka bir şey yazdı. *Bir gün* değil. *Kazandığımızda* değil. Şimdiden. Ve bu mektup sana yazılmış.
 
-<a name="7aff"></a>
-Bazı temel bilgileri belirlemek için kitabın {{% bible val="ilk üç bölümüne" link="rev:1" lang="tr" %}} çok hızlı bir şekilde göz atacağız.
+## İhtiyacı olanlara lütuf ve esenlik
 
-## Kiliseye neden ihtiyacımız var?
+{{% bible val="Yuhanna'dan Asya İli'ndeki yedi kiliseye selam! Var olan, var olmuş ve gelecek olan Tanrı'dan, O'nun tahtının önündeki yedi ruhtan sizlere lütuf ve esenlik olsun" link="rev:1,4" lang="tr" %}}.
 
-<a name="162d"></a>
-Bu gerçek bir soru mu? Kiliseye ihtiyaç duymamızın pek çok nedeni var
+Onlardan bir şey istenmeden önce ne verildiğine dikkat et: lütuf ve esenlik. Bir moral konuşması değil. Bir yapılacaklar listesi değil. Çünkü Yuhanna bu kiliselerin neyle karşı karşıya olduğunu biliyor ve buna kendi güçleriyle dayanamayacaklarını da biliyor. Bu bizim için de geçerli. Bu hafta senden ne istenirse istensin, tek bir talimat almadan önce lütuf ve esenlik elinde zaten vardı.
 
-- burası inananların yaşamda cesaretlendirilmek için düzenli olarak bir araya gelebilecekleri tek yerdir
-- Hayatınızı yönetmenize ve toplumu etkilemenize yardımcı olacak bir kutsama ve öğreti aldığınız yer
-- ana görev ki̇li̇seleri̇ büyütmekti̇r ki̇ herkes kurtulsun ve hepi̇mi̇z cennete gi̇debi̇leli̇m
+Peki bu kimden geliyor? "Var olan, var olmuş ve gelecek olan" - sadece bu haftanın gündemine, bu seçime ya da o teşhise değil, zamanın kendisine hükmeden. Önünde ne olursa olsun, O zaten oradadır ve seni bekliyor.
 
-Vahiy kitabı da aynı fikirde ve son noktaya odaklanıyor ama bu nasıl olmalı? Kitap, kilisenin amacını iki nesneyle açıklayan İsa’nın görümüyle başlar: yıldızlar ve kuzu sehpaları. Bunlar kilisenin amacını tanımlamaktadır:
+## Senin için kanayan ve seni de kral yapan bir kral
 
-- dünyaya görünür bir örnek ve tanık olmak
-- güçleri İsa’ya olan bağımlılıklarında yatar
+{{% bible val="Sadık tanık, ölülerin ilki, dünya krallarının önderi olan İsa Mesih'ten sizlere lütuf ve esenlik olsun. Bizi seven, kanıyla bizi günahlarımızdan özgür kılan ve bizi bir krallar topluluğu, Babası Tanrı'nın hizmetinde kâhinler yapan O'na sonsuzlara dek yücelik ve güç olsun! Amin." link="rev:1,5-6" lang="tr" %}}
+
+Son kısmı bir daha oku: *bizi ... yapan*. *Yapacak olan* değil, *yeterince sadık olursak belki yapacak olan* değil. Zaten yapılmış bitmiş. Şu anda, tam da şu anda, bir kralsın, bir kraliçesin, Tanrı'nın önünde bir kâhinsin. Bu, zor bir günde moral bulman için bir mecaz değil - bu senin gerçek görev tanımın.
+
+Ama bu Kral tahtına nasıl çıktı, ona bak. Fetihle değil. Hak etmeyen insanlar için kan dökerek. O böyle hükmediyorsa, seni de böyle hükmetmeye çağırıyor demektir - çevrendekilerden daha gür sesli ya da daha güçlü olarak değil, insanları O'nun seni sevdiği gibi severek.
+
+## Her göz O'nu görecek
+
+{{% bible val="İşte bulutlarla geliyor! Her göz O'nu görecek, O'nu bağırlarına saplayanlar bile. O'nun için dövünecek yeryüzünün bütün oymakları. Evet, âmin!" link="rev:1,7" lang="tr" %}}
+
+Bu satır Daniel ile Zekeriya'dan birbirine dikilmiş: İnsanoğlu görkem içinde geliyor, İsrail sonunda bağırlarına sapladıkları kişiye bakıp tek oğlu için yas tutan bir baba gibi ağlıyor. Ama artık bu sadece İsrail değil. Her halk, her millet. Bu yas iki türlü olabilir: tövbeye dönüşen bir keder, ya da sadece gelecek olandan duyulan korku. Metin bunu bilerek açık bırakıyor - çünkü biri İsa'yı ilk kez duyduğunda hâlâ açık olan soru bu, ve senin hayatının cevaplamaya yardım etmesi gereken soru da bu.
+
+## Vizyonun kendisi
+
+Sonra Yuhanna arkasını döner ve gördüğü şey neredeyse tarif edilemeyecek kadar çoktur: altın parlayan yedi kandillik, ve aralarında duran biri - gözleri ateş gibi, ayakları fırından çıkmış parlayan tunç gibi, sesi çağlayan sular gibi, yüzü bakılamayacak kadar parlak, ağzından çıkan bir kılıç. Yuhanna ayakta kalamaz. Ölü gibi yere yığılır.
+
+Ve bu ezici görüntünün yaptığı ilk şey elini üzerine koyup şunu söylemektir: {{% bible val="Korkma! İlk ve Son Ben'im. Diri Olan Ben'im. Ölmüştüm, ama işte sonsuzluklar boyunca diriyim. Ölümün ve ölüler diyarının anahtarları bendedir." link="rev:1,17-18" lang="tr" %}}
+
+Üzerinde durmaya değer örüntü bu. Vizyon dehşet verici - ve içinden çıkan ilk sözler *korkma*. Hayatında ne varsa çok büyük, çok tuhaf ya da çok ileri gitmiş gelsin, sana aynı sesin aynı şeyi söylediğini bil.
+
+## Kandillikler ve yıldızlar: aslında burada ne için varsın
+
+Sonunda İsa resmi açıklar: {{% bible val="yedi yıldız yedi kilisenin melekleri, yedi kandillik ise yedi kilisedir" link="rev:1,20" lang="tr" %}}. İki imge, ve iki ortak yanları var.
+
+Birincisi: ikisi de ışık kaynağı. Karanlık gökte yön bulmak için yıldızlar, penceresiz bir odada tek ışık kaynağı olarak bir kandillik. İkincisi - ve bunu atlamayı tercih ederiz - ikisi de kendi gücüyle parlamaz. Bir yıldız gökyüzüne yerleştirilene kadar hiçbir şeydir; bir kandillik içinde yağ olmadıkça sadece metaldir. İkisinin de verdiği her zerre ışık ödünç alınmıştır.
+
+İşte bu, kilisenin görev tanımının tamamı, yeniden söylenmiş hâli: dünya için ışık ol - ve bunu tamamen başkasının gücüne yaslanarak yap. Daha fazla program, daha fazla sayı, kendi çabanla daha fazla görünürlük değil. Sadece şu: parla, çünkü kendini nasıl parlatacağını çözdüğün için değil, İsa'ya bağımlı olduğun için parlıyorsun.
+
+İşte bu vizyonun seni bırakıp gittiği soru şu: kilisen - sen - izleyen birini gerçekten ikna edecek bir tanık mısın? Onları etkilemek değil. İsa'nın, kendi hayatını O'na emanet ettiğin gibi, kendi hayatlarını da emanet etmeye değer olduğuna ikna etmek.
 
 ### Yansıma
 
-- Bu vizyon, kilisenin amacını İsa’ya bağımlı kalarak ışık olmak şeklinde tanımlıyor. Bunun hangi yarısı sana daha zor geliyor?
-- Kilisen başarıyı burada İsa’nın yaptığı gibi ölçseydi - sayılara ya da faaliyete göre değil - nasıl görünürdü?
-- Yıldızlar yalnızca İsa’nın elinde tutulduğunda parlar. Hayatında kendi gücünle parlamaya çalıştığın yerler nereler?
-
-## Genel Bakış
-
-<a name="dfec"></a>
-Yedi kiliseye baktığınızda simetrik bir biçimde düzenlendiklerini görürsünüz:
-
-- ilk ve sonuncusu (Efes ve Laodikya) tam bir başarısızlıktır: ilki amacını kaybetmek üzereyken (kuzu ayağı kaldırılmış) sonuncusu en ufak bir övgü almayan tek kişidir
-- ikinci ve sondan ikinci (İzmir ve Philadelphia) hiç eleştiri almayan tek şehirlerdir.
-- Üçüncü ve sonuncu kiliseler (Bergama ve Sardes) değerlendirmelerinde karışık olan kiliselerdir (Bergama’da bazı iyi şeyler vardır ama yanlış öğretilere izin verir, Sardes’te en azından iyi şeyler yapan insanlar vardır)
-- Son olarak ortadaki parça (Thyatira) İsa’nın örnek almak istediği bir kiliseden söz eder
-
-Tüm bunları bir arada ele alırsak (başta, sonda ve ortada sert eleştiri ve sadece çok popüler olmayan noktalarda övgü), kilise İsa’nın kendileri hakkında sahip olduğu vizyonu gerçekleştirmek için gerçekten kötü bir durumdadır. Ama bu ayrıntılı olarak ne anlama geliyor?
-
-## Güçlü yönler
-
-<a name="9deb"></a>
-Genellikle zayıf noktalara baktığımız için bunu kolayca gözden kaçırabiliriz, ancak onların güçlü yönleri üzerinde biraz düşünmeliyiz çünkü bunlar bugün bizim güçlü yönlerimiz olmayabilir.
-
-- Onların iyi işleri ve hizmetleri: Sadece konuşmuyorlar, vaaz ettiklerine göre yaşıyorlar, yoksullara yardım ediyorlar ve acı çekenleri cesaretlendiriyorlar.
-- Dayanıklılık: Zor zamanlarda bile sadıktırlar, kolay kolay pes etmezler. Her türlü zorlukla karşı karşıyadırlar: inançları nedeniyle yoksulluk, hapis, hatta ölüm
-- Onların sevgisi: Görev icabı hareket etmezler ama komşularını gerçekten severler.
-- Yanlış öğretiyi kabul etmeyin: Teoloji yanlışsa iyi niyetli olabilirsiniz ama tanıklığınız Tanrı’nın amaçladığının tam tersi olabilir
-
-## Zorluklar
-
-<a name="a25d"></a>
-Zorlukları da güçlü yanları gibi bireyseldir, bu nedenle bazı kiliselerin güçlü yanları diğerlerinin zayıf yanlarıdır.
-
-- Sevgi gerçek değil: Asıl çağrılarının izini kaybettiler, belki de tüm iyi şeylere kendilerini kaptırdılar ve tüm bunların nedenini unuttular.
-- Kötü liderlik ve aldatma: Önderlik yanlış öğretime izin verdi, hatta bunun kaynağı oldu. Bunun tüm kilise üzerinde yıkıcı bir etkisi oldu.
-- Yanlış öz değerlendirme: Övgü almayan Laodikya kilisesi büyük olasılıkla kendini çok beğenen bir kiliseydi. Sardes de kendi başlarının çaresine bakabileceklerini düşünüyordu. Bu, yıkıcı olan çok kötü bir yanılgıydı.
+- Bu vizyon kilisenin amacını İsa'ya bağımlı kalarak ışık olmak şeklinde tanımlıyor. Bunun hangi yarısı sana daha zor geliyor?
+- Kilisen başarıyı burada İsa'nın yaptığı gibi ölçseydi - sayılara ya da faaliyete göre değil - nasıl görünürdü?
+- Yıldızlar yalnızca İsa'nın elinde tutulduğunda parlar. Hayatında kendi gücünle parlamaya çalıştığın yerler nereler?
+- "Korkma" sözü, vizyonun en ezici anının hemen ardından geliyor. Hayatında şu anda bu sözleri duyması gereken ne var?
+- Zaten bir kral ya da kâhin yapıldın Tanrı'nın önünde - bir gün değil, şimdiden. Bunun gerçek olduğuna göre yaşasan bu hafta ne değişirdi?

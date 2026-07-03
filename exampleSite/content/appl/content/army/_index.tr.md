@@ -2,7 +2,7 @@
 title: "Böl.7: Garip ordu"
 weight: 50
 base: /quick/content/army
-story: /story/tour
+story: /story/content/army
 deeper:
     - name: 144.000
       link:  /expl/content/army/the-144000
@@ -15,36 +15,29 @@ kids: /kids/content/army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 ---
 
-144.000 birçok kişinin duyduğu bir ifadedir. Onlar kimlerdir? Ve neden sayılmışlardır? Amaçları nedir?
+Bir orduya askere alındığını, sayıldığını, işaretlendiğini ve savaşmaya gönderildiğini söylesem, bu sana nasıl gelirdi? Kiminiz dehşete kapılırdı. Kiminiz hangi silahı alacağını sormak isterdi. Neredeyse hiçbiriniz bu bölümün verdiği cevabı tahmin edemezdi: silahın dayanıklılık, savaşın ibadet, ve savaş başlamadan önce zaten kazandın. İşte Vahiy 7'nin garip ordusu bu, ve bunun, kendi hayatında "büyük sıkıntının" neye benzediğiyle nasıl hayatta kalman gerektiğiyle her şeyi ilgisi var.
 
-## Bizim metnimiz
+## Yan yoldan cevaplanan feryat
 
-<a name="aedb"></a>
-Hızla ilerliyoruz ve {{% bible val="7. bölüme" link="rev:7" lang="tr" %}} ulaştık.
+{{% bible val="7. bölüm" link="rev:7" lang="tr" %}} bizi ileri değil, geriye götürür. Beşinci mührü hatırla - sunağın altındaki canlar, acıları dayanılmaz ve bitmeyecek gibi hissettirdiği için "ne zamana dek?" diye feryat ediyordu. Bunu şöyle okumak kolay olurdu: kutsallar kurbandır, İsa'nın sonunda gelip buna son vermesini pasifçe bekliyorlar. Bu bölüm diyor ki: tam olarak değil. Bir sonraki mühür açılmadan önce bile, Tanrı'nın kullarını alınlarından mühürlemesi için bir melek gönderilir - bir koruma işareti, tıpkı peygamber Hezekiel'in, çevrelerindeki kötülüğe yas tutan insanların üzerine konduğunu gördüğü işaret gibi, herkesin üzerine yargı düşmeden hemen önce. Sonra Yuhanna bir sayı duyar: yüz kırk dört bin, İsrail'in her oymağından on iki bin, savaşa çağrılmış bir ordu gibi sayılmış. Pasif acı çekenler değil. Bir ordu.
 
-## Tanrı’nın ordusu
+## Duyduğun şey, gördüğün şey
 
-<a name="718f"></a>
-Bu bölüm bağlam içinde geriye atlar ve bize beşinci mühre daha derin bir bakış sunar. Orada kutsallar bunun ne kadar süreceğini soran acı çeken kişiler olarak sunulmuştu. İlk bakışta bu, azizlerin acı çektiği ve İsa’nın buna bir son vermesini istedikleri izlenimini verir, çünkü bu dayanılmazdır, ancak bu bölüm bize bu konuda çok derin bir içgörü verir.
+Ama şimdi ardından gelene bak, çünkü bu kitabın daha önce yaptığı aynı hamle. 5. bölümde Yuhanna galip gelen bir Aslan duymuştu - dönüp baktığında boğazlanmış bir Kuzu görmüştü. Burada Yuhanna bir sayı duyar - kesin, askeri bir sayım, yüz kırk dört bin - ve sonra {{% bible val="baktı ve tahtın ve Kuzu'nun önünde durmakta olan, her ulustan, her oymaktan, her halktan ve her dilden oluşan, kimsenin sayamayacağı kadar büyük bir kalabalık gördü" link="rev:7,9" lang="tr" %}}. Sayılabilir olan sayılamaz hale gelir. Oymaklardan oluşan bir ordu, yeryüzündeki her ulus olur. Bunlar iki farklı grup değil - aynı insanlar, iki kez tarif edilmiş, biri savaş diliyle biri ibadet diliyle, çünkü Tanrı'nın ekonomisinde bu ikisi aynı şey olduğu ortaya çıkıyor.
 
-Kutsallar sadece buna katlanmakla kalmaz, Tanrı’nın kurtuluşunda aktif bir rol alırlar. Daha yakından bakalım.
+Peki bunlar kim? Bir ihtiyar Yuhanna'ya açıkça söyler: {{% bible val="bunlar o büyük sıkıntıdan geçip gelenlerdir. Kaftanlarını Kuzu'nun kanıyla yıkamış, bembeyaz etmişlerdir" link="rev:7,14" lang="tr" %}}. Acıdan kaçınmış insanlar değil. İçinden geçmiş insanlar. Büyük Sıkıntı, geleceğinde bir yerde asılı duran yedi yıllık bir pencere değil - bu, Daniel'in Tanrı'nın halkını arındıran ve yoldan sapanlardan ayıran sınav için kullandığı terim, İsa'nın öğrencilerini uyardığı aynı sıkıntı, Pavlus'un bir umut katalizörü dediği aynı şey, Tanrı'nın sevgisinden seni ayıramayacak olan şey. Mesih ejderhayı ilk yendiğinden beri, ve öfkeden çılgına dönmüş, zamanı azalmış ejderha öfkesini önce İsrail'e sonra kiliseye çevirdiğinden beri işliyor. Sen zaten bunun içinde yaşıyorsun.
 
-Tanrı halkını işaretler — yaklaşmakta olan şeyler için bir koruma işareti. Bundan sonra onları sayar. Onları bir ordu olarak sayar. Tanrı’nın planında önemli bir güç olarak sunulurlar. Yuhanna bunları duyar, ama gördüğü şey çok farklıdır: Bunlar büyük sıkıntıdan çıkan, Tanrı’yı öven ve Tanrı’nın huzurunda yaşayan insanlarla aynı insanlardır.
+## Bir ordu gibi savaşmadan kazanan bir ordu
 
-Bunu daha önce mühürlerin açılmasından önce de görmüştük: Yuhanna (güçlü ve şiddetli) Yahuda Aslanı’nı işitir ama bir kuzu görür. Burada da aynı durum söz konusudur: Yuhanna 144.000 kişilik orduyu duyar, ama büyük sıkıntıdan gelecek olan sayılamayacak kadar çok tapınan kişi görür. Bunların hepsi aynı kişilerdir.
+Peki bu sayılamaz ibadet edenler kalabalığının Tanrı'nın ordusu olarak adlandırılması ne anlama gelir? Bu, kilisenin zaferinin hiçbir zaman güçten, mucizelerden ya da odadaki en zekice tartışmadan gelmeyeceği anlamına gelir. Nasıl dayandığından gelir. Bütün savaş boyunca incinmekten ya da ölmekten korkan bir asker, savaşta işe yaramaz - kendi korkusu tarafından çoktan etkisiz hale getirilmiştir. İşte bu yüzden önce mühürlendin. Mühür acı çekmekten muaf olduğun anlamına gelmez; sunağın altındaki şehitler de mühürlenmişti, ve bu onları korumadı. Anlamı şu: savaşırken riske attığın şey Tanrı'yla olan konumun değil. Kendi kurtuluşunu savaşın ortasında kazanmak zorunda değilsin, çünkü bu hiçbir zaman senin işin olmadı - zaten çözülmüş durumda. Bu da seni gerçekten savaşmak için özgür bırakır: şiddetle değil, korkuyla değil, bu orduya verilmiş yalnızca iki silahla - ibadet ve dayanıklılıkla.
 
-Kilise Tanrı’ya ve yalnızca O’na tapınmalıdır, yoksa temelini kaybeder. Zaferi güç, mucizeler ya da akıllıca sözlerle değil, sıkıntılarına nasıl dayandıklarıyla gelecek. Hala cevaplanmamış pek çok soru var, ama cevaplanacaklar, sabırlı olun.
+Bu küçük bir düzeltme değil - Hristiyan olmanın ne demek olduğuna dair çok yaygın bir yanlış okumayı tersine çeviriyor. Bu hiçbir zaman kurtulup sonra cennete kadar süreyi bekleyerek geçirme öyküsü olmadı. Öyle olsaydı, bu bölüm sıkıntıdan kaçınma talimatları olurdu. Değil. Bu, sıkıntının içinden geçip diğer tarafa ibadet ederek çıkan insanların tarifi. İmanın, ateşten ne kadar iyi kaçındığınla değil, tam ortasındayken ibadet etmeye devam edip etmediğinle ölçülür.
 
-Ayrıca bu öykü bize Hıristiyan olmanın kurtulup cennete gelmekle ilgili OLMADIĞINI anlatır. Vahiy kitabı bize tüm sıkıntıları nasıl aşacağımıza dair bir ipucu vermiyor. Bizler mühürlüyüz, bunlar hakkında endişelenmemeliyiz, bir şeyler olduğunda ve şüphe duyduğumuzda ya da hata yaptığımızda kurtuluşumuzu kaybederiz.
+### Reflection
 
-Bizler bir ordu olarak tanımlanırız — her zaman yaralanabileceklerinden ya da ölebileceklerinden endişe eden askerler savaşa uygun değildir. Bizler Tanrı’nın ordusunun askerleriyiz, ama şiddet ordusu değil, ibadet ve tahammül ordusuyuz ve kendi kurtuluşumuza değil, Tanrı’nın planına bakmayı bıraktığımızda fethederiz.
-
-### Yansıma
-
-<a name="86de"></a>
-- Bu bölümde ibadet savaşla ilişkilendiriliyor? Bu ne anlama geliyor? Bu dünya için savaşırken hangi silahları kullanıyorsunuz?
-- Bu dünya için savaşıyor musunuz yoksa bekleyip (belki bazı insanlara İsa’yı anlatıp) kurtuluşunuzu mu bekliyorsunuz?
-- Çevrenin tahrip edilmesi, küresel sömürü, insan kaçakçılığı ve daha pek çok şey umurunuzda mı yoksa İsa geri gelip (umarım yakında) bunları düzeltene kadar bekleyecek misiniz? Ya da tam tersi, işlerin daha kötüye gitmesinin iyi olduğunu çünkü İsa’nın daha erken geleceğini mi düşünüyorsunuz?
-- Tanrı’nın ordusunun bir parçası olmak size nasıl hissettiriyor?
-- Sayılmak, kaybolmamak anlamına gelir. Bu sizin için ne anlama geliyor?
-- Tanrı’nın ordusu Büyük Sıkıntı’dan geliyor. Size meydan okunduğunda imanınıza ne olacak? Daha mı güçlü olacak yoksa parçalanacak mı? Sınandığınızda Tanrı’nın imanınızı güçlendirebileceğine inanıyor musunuz? İnancınız neye dayanıyor?
+- Bu bölüm ibadeti savaşa bağlıyor. Bu pratikte ne anlama geliyor - ibadet ederek "savaşmak" bu hafta gerçekte neye benziyor?
+- Hristiyan hayatını "kurtarılmayı beklemek" olarak görmeyi bırakıp "zaten askere alındım" olarak görmeye başlamak nasıl olurdu?
+- Şu anda etrafında olan sıkıntı - sömürü, insan kaçakçılığı, adaletsizlik - umurunda mı, yoksa İsa'nın bunu daha sonra düzeltmesini mi bekliyorsun? Ya da, dürüst olmak gerekirse, bazen işlerin daha kötüye gitmesini mi istiyorsun çünkü bu O'nun daha erken geleceği anlamına geliyor?
+- Mühürlü olduğunu bilmek - sıkıntıya dayanırken kurtuluşunun risk altında olmadığını - bir şeyleri nasıl değiştiriyor?
+- Kalabalık büyük sıkıntının "içinden" geliyor, etrafından değil. Şu anda hangi sıkıntının ortasındasın, ve sadece hayatta kalmak yerine bunun içinden ibadet ederek geçmek neye benzerdi?
+- Sayılmış olmak, kalabalıkta kaybolmayacağın anlamına gelir. Bu güvence senin için kişisel olarak ne ifade ediyor?

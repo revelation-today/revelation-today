@@ -1,20 +1,20 @@
 ---
-title: "Pasal 8-9: Doa dan Hal yang Tidak Tergoyahkan"
+title: "Pasal 8-9: Doa dan Yang Tak Tergoyahkan"
 weight: 60
 base: /quick/content/trumpets
-story: /story/tour
+story: /story/content/trumpets
 deeper:
-    - name: Kuasa Doa
+    - name: Kuasa doa
       link: /topics/power/short/the-key-of-prayer
-    - name: Latar Belakang Kisah Keluaran dari Mesir
+    - name: Kisah sebelum keluaran dari Mesir
       link:  /expl/bible/exodus/the-story-before-the-exodus
     - name: Kelahiran Musa
       link:  /expl/bible/exodus/the-birth-of-moses
-    - name: Pengerasan Hati Firaun
+    - name: Pengerasan hati Firaun
       link:  /expl/bible/exodus/the-hardening-of-pharaohs-heart
     - name: Tulah-tulah di Mesir
       link:  /expl/bible/exodus/the-plagues-in-egypt
-    - name: Ketujuh Sangkakala
+    - name: Ketujuh sangkakala
       link:  /expl/content/trumpets/the-trumpets-in-revelation
 prev: /appl/content/army
 next: /appl/content/scroll
@@ -23,63 +23,40 @@ kids: /kids/content/trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 ---
 
-Sangkakala-sangkakala ini telah mengilhami banyak orang untuk membayangkan skenario akhir zaman dengan bencana global dan aksi militer besar-besaran. Namun kita akan melihat bahwa ini sebenarnya adalah pelajaran tentang doa dan cara menghadapi kesulitan.
+Bayangkan bank tempatmu menabung bangkrut, sinyal ponselmu hilang untuk selamanya, dokter memberitahumu pengobatan itu tidak berhasil, dan berita yang selama ini kamu percayai ternyata selalu berbohong. Semuanya dalam satu minggu. Itulah kurang lebih yang terjadi di Wahyu 8 dan 9. Dan inilah bagian yang seharusnya membuatmu terhenti sejenak: semuanya dimulai dari sebuah pertemuan doa.
 
-## Teks Kita
+## Doa yang memulai semuanya
 
-<a name="738f"></a>
-Kita lanjutkan ke {{% bible val="Pasal 8" link="rev:8" lang="ind" %}} dan {{% bible val="9" link="rev:9" lang="ind" %}}.
+Sebelum satu pun sangkakala berbunyi, seorang malaikat mengambil kemenyan dan mencampurnya dengan {{% bible val="doa-doa umat Allah" link="rev:8,1-6" lang="ind" %}}, lalu melemparkan campuran itu ke bumi. Guruh, kilat, gempa bumi - lalu sangkakala-sangkakala mulai berbunyi. Perhatikan baik-baik urutannya. Doa datang lebih dulu. Bencana menyusul kemudian. Entah bagaimana, doa-doa kita, selemah dan seterbata-bata apa pun biasanya, dibawa oleh malaikat yang kuat karena doa kita sendiri tidak cukup kuat, ikut menggerakkan rangkaian peristiwa ini.
 
-## Untuk Apa Kita Harus Berdoa
+Renungkan itu sejenak. Kita suka berpikir bahwa doa kita meminta Allah memberkati kita, melindungi kita, meluruskan jalan di depan kita. Tapi bagaimana jika sebagian doa kita - doa tentang keadilan, tentang kedatangan Kerajaan Allah, tentang orang-orang yang akhirnya melihat kebenaran - sebenarnya meminta Allah untuk mengguncang segala sesuatu? Apakah kamu sungguh ingin doa itu dijawab dengan cara yang terjadi di sini? Sebab yang terjadi selanjutnya sama sekali tidak nyaman.
 
-<a name="a18f"></a>
-Meterai ketujuh juga menjadi pengantar bagi ketujuh sangkakala. Menariknya, pemicu sangkakala-sangkakala ini adalah doa (yang lemah), yang dibawa oleh seorang malaikat yang kuat ke hadapan Allah di ruang takhta.
+## Segala yang kamu andalkan, diambil
 
-Baiklah, para malaikat menunggu dengan sangkakala-sangkakala itu sampai doa kita sampai di hadapan Allah, tetapi apakah doa-doa kita benar-benar menyebabkan semua ini, atau bahkan haruskah kita berdoa untuk terjadinya bencana?!?
+Empat sangkakala pertama membaca seperti tulah-tulah di Mesir terulang kembali - karena memang persis itulah polanya. {{% bible val="Sangkakala pertama" link="rev:8,7" lang="ind" %}} memusnahkan sepertiga tumbuh-tumbuhan: sumber makananmu. {{% bible val="Sangkakala kedua" link="rev:8,8-9" lang="ind" %}} membunuh sepertiga makhluk laut dan menghancurkan kapal-kapal: perdagangan dan penghasilanmu. {{% bible val="Sangkakala ketiga" link="rev:8,10-11" lang="ind" %}} meracuni sepertiga air tawar: kelangsungan hidupmu yang paling dasar. {{% bible val="Sangkakala keempat" link="rev:8,12-13" lang="ind" %}} menggelapkan sepertiga matahari, bulan, dan bintang-bintang: arah hidupmu, bahkan siang dan malam itu sendiri.
 
-Apa yang sebenarnya terjadi di sini? Keenam sangkakala pertama menimbulkan berbagai hal, tetapi pada akhirnya dilaporkan bahwa orang-orang telah mengeraskan hati mereka. Mereka tidak berpaling dari berhala-berhala mereka, padahal itu setidaknya sebagian dari tujuan sangkakala-sangkakala itu. Tetapi setelah sangkakala ketujuh di pasal 11, sebagian besar orang memberikan kemuliaan kepada Allah karena kedua saksi itu.
+Di Mesir, tulah-tulah itu menyingkapkan Firaun dan para dewanya apa adanya - tidak berdaya, tidak sanggup melindungi siapa pun, tidak sanggup menyediakan apa pun yang nyata. Sangkakala-sangkakala ini melakukan hal yang sama kepada kita. Satu per satu, mereka mengupas semua hal yang diam-diam kita andalkan selain Allah: gaji bulanan, isi lemari makanan, rencana hidup yang sudah kita susun rapi. Tidak satu pun dari semua itu pernah sekokoh yang kita kira. Hanya sepertiga setiap kalinya - ini bukan akhir dunia, ini tembakan peringatan. Tapi tembakan peringatan memang dimaksudkan untuk dirasakan.
 
-Kita sering berdoa agar orang-orang mengalami berkat Allah atau "menemukan" Yesus. Tetapi apakah kita juga berdoa agar orang-orang itu mengalami situasi (yang menantang) dan bertanya-tanya apakah hidup mereka dibangun di atas fondasi yang kokoh? Apakah mereka kemudian akan menemukan dasar yang teguh dalam hidup kita? Ataukah kita lebih memilih untuk berdoa: berkatilah sesamaku dan aku juga, supaya kami semua bisa hidup dengan baik?
+Inilah kabar baik yang tersembunyi di antara reruntuhan itu: Allah tetap menyediakan bahkan ketika rak-rak sudah kosong. Kamu tidak perlu hidup dicengkeram ketakutan ketika semua jaminanmu dilucuti, sebab kamu memang tidak pernah seharusnya merasa aman karena hal-hal itu. Itu bukan tragedi. Itu kesempatan untuk menjadi kesaksian bagi semua orang yang melihat kamu tidak panik.
 
-## Empat Sangkakala Pertama
+## Ketika itu pun belum cukup
 
-<a name="e2b8"></a>
-Sangkakala-sangkakala ini menunjukkan banyak kesejajaran dengan peristiwa keluaran dari Mesir, di mana Allah menunjukkan kepada para dewa dan penguasa bahwa mereka tidak bisa memberikan rasa aman dan penyediaan, hanya Allah yang bisa. Prinsip ini juga ditemukan dalam sangkakala-sangkakala:
+Sangkakala kelima dan keenam membawa kita ke tempat yang lebih gelap. Kedua sangkakala ini bukan bencana alam - keduanya dilepaskan oleh kuasa iblis. Sebuah bintang yang jatuh membuka jurang maut, melepaskan belalang-belalang yang menyiksa orang begitu hebatnya sampai mereka {{% bible val="ingin mati tetapi tidak bisa" link="rev:9,6" lang="ind" %}}. Umat Allah sendiri dimeteraikan dan dilindungi - bukan berarti terhindar dari penderitaan itu, tetapi terhindar dari keputusasaan semacam itu. Kemudian datang pasukan iblis, jumlahnya begitu besar sehingga dunia kuno tidak punya angka yang lebih besar lagi untuk menuliskannya, membunuh sepertiga umat manusia.
 
-- sangkakala pertama: mengambil hasil panen,
-- sangkakala kedua: mengambil air minum,
-- sangkakala ketiga: mengambil ikan sebagai sumber makanan terakhir,
-- sangkakala keempat: mengambil bintang, bulan, dan matahari: sumber orientasi khususnya untuk perdagangan.
+Ini bukan lagi soal kehilangan kenyamanan. Ini menyangkut kesehatan, akal sehat, hidup itu sendiri yang tersentuh. Dan inilah pukulan telaknya: bahkan ini pun tidak membuat orang berbalik kepada Allah. {{% bible val="Mereka tidak bertobat" link="rev:9,20-21" lang="ind" %}}. Setelah kehilangan segala yang lain, mereka justru semakin erat berpegang pada roh-roh jahat yang sedang menghancurkan mereka, alih-alih melepaskannya dan berpaling kepada Allah yang sebenarnya sanggup menyelamatkan mereka.
 
-Sangkakala-sangkakala ini mengguncang dunia dan menyadarkan semua orang bahwa banyak hal yang kita anggap sudah semestinya, ternyata tidak demikian. Tetapi Allah tetap memelihara kita, bahkan ketika segalanya runtuh. Kita tidak perlu khawatir atau hidup dalam ketakutan.
+Jangan buru-buru menertawakan mereka. Lihat apa yang kamu andalkan ketika duniamu mulai goyah - saldo di bank, polis asuransi, jabatan pekerjaan, kata-kata menenangkan dari dokter - dibandingkan dengan apa yang sebenarnya Allah minta darimu: kemurahan hati, kerendahan hati, melayani orang yang tidak bisa membalasmu, mengikuti Roh yang tidak bisa kamu lihat. Kita tidak jauh berbeda dari orang-orang dalam pasal ini. Kita hanya belum diuji untuk membuktikannya.
 
-## Sangkakala Kelima dan Keenam
+## Yang tidak sanggup dilakukan sangkakala - dan yang sanggup
 
-<a name="cd8e"></a>
-Kedua sangkakala berikutnya ini menunjukkan beberapa keistimewaan:
+Jadi inilah kesimpulan yang berat: kesesakan saja tidak sanggup mengubah hati manusia. Sangkakala-sangkakala ini membuktikannya secara tuntas. Orang bisa kehilangan makanan, air, arah hidup, kesehatan, bahkan akal sehat mereka, dan tetap memilih roh-roh jahat daripada Allah. Kalau penderitaan saja cukup untuk menyelamatkan seseorang, pasal-pasal ini akan berakhir dengan kebangunan rohani. Tapi tidak.
 
-- Keduanya disebabkan oleh setan-setan.
-- Keduanya membuat orang kehilangan keinginan untuk hidup dan akhirnya mati.
-- Allah memberikan perlindungan khusus bagi umat-Nya (meterai dalam pasal 7 melindungi mereka dari menyerah pada hidup mereka).
-
-Di sini menyentuh hal yang paling mendasar. Kesehatan (rohani maupun jasmani) terancam, bahkan kehidupan itu sendiri. Orang-orang harus menerima bahwa hal itu pun tidak terjamin.
-
-Tetapi itu tidak membuat mereka berbalik kepada Allah yang memberikan semuanya itu, melainkan mereka terus menyembah setan-setan yang mendatangkan kengerian ini atas mereka.
-
-Ini adalah ironi yang tidak seharusnya kita tertawakan, sebab seringkali kita pun tidak lebih baik: kita lebih memercayai dunia (uang di bank, pekerjaan, asuransi, jaminan sosial pemerintah, ...) daripada Allah (kemurahan hati, pelayanan kepada orang miskin, pengampunan, kerendahan hati, mengikuti Roh Allah). Tetapi apa hubungannya dengan setan-setan? Kita akan melihatnya dalam beberapa pasal mendatang.
-
-## Rangkuman
-
-<a name="b5bc"></a>
-Kita telah melihat bahwa meterai-meterai dan sangkakala-sangkakala itu sangat berbeda namun juga serupa: dalam meterai-meterai, intinya adalah menyingkapkan Iblis sementara orang-orang percaya bertahan; dalam sangkakala-sangkakala, intinya adalah mengubah hati orang-orang yang tidak percaya. Dalam kedua kisah ini, intinya adalah membuka mata manusia.
-
-Tetapi: kesulitan saja tidak cukup untuk mengubah hati. Diperlukan lebih dari itu, dan ada sebuah kitab kecil yang memberikan jawabannya.
+Namun perhatikan, ini bukan kata terakhir. Sangkakala ketujuh baru berbunyi beberapa pasal kemudian - dan ada sesuatu yang terjadi di antaranya. Allah memanggil sebuah kesaksian yang sama sekali berbeda, yang dibangun bukan di atas bencana, melainkan di atas penyembahan dan kesaksian hidup. Kita akan sampai ke sana. Untuk saat ini, tanyakan pada dirimu sendiri: apa sebenarnya isi doamu? Apakah kamu hanya berdoa untuk berkat, atau apakah kamu punya keberanian untuk meminta Allah menyingkapkan rasa aman palsu apa pun yang sedang kamu pijak - bahkan sambil tahu apa risikonya bagimu?
 
 ### Refleksi
 
-<a name="85b8"></a>
-- Apa isi doa-doamu?
-- Bagaimana kamu akan berdoa agar rasa aman yang palsu diambil? Menurutmu, bagaimana Allah akan menjawab doa ini?
-- Apa yang akan terjadi jika rasa aman palsumu diambil? Apa saja rasa aman itu? Apakah kamu siap melepaskannya?
-- Rasa aman apa yang tidak tergoyahkan dalam hidupmu?
-- Rasa aman apa yang tidak bisa kamu lepaskan? Apakah kamu tetap tidak mau melepaskannya, bahkan jika itu berarti kamu akan kehilangan hubunganmu dengan Allah?
+- Apa isi doa-doamu - berkat untuk dirimu sendiri, atau keberanian untuk melihat dengan jernih?
+- Bagaimana kamu akan berdoa supaya rasa aman palsumu diambil? Menurutmu, bagaimana Allah akan menjawab doa itu?
+- Apa yang akan terjadi kalau rasa aman palsumu diambil? Apa saja rasa aman itu? Apakah kamu rela melepaskannya?
+- Sangkakala-sangkakala ini membuktikan bahwa kesesakan saja tidak sanggup mengubah hati. Pernahkah kamu melihat kebenaran itu terbukti dalam hidupmu sendiri atau dalam hidup orang yang kamu kasihi?
+- Rasa aman apa yang tidak bisa kamu lepaskan - bahkan kalau mempertahankannya berarti kehilangan hubunganmu dengan Allah?
