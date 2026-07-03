@@ -49,6 +49,10 @@ scroll, witnesses, jesus, beasts, harvest, bowls, harlot, 1000y, paradise`).
   Indonesian has none of the underlying topic articles, and the four English-only
   `today/*` articles above only produce English-only theme terms (`fear`,
   `manipulation`, `purpose`; `hero` also exists in de/tr via the other hero articles).
+- **`/kids/lessons/*` (51 full Sunday-school lesson plans, ported from `sermon_kids/`)
+  is German-only by design** — the source material only exists in German, and porting
+  51 long lesson plans to en/tr/ind is a separate, much bigger job than incorporating
+  them. Don't link to it from non-German hub pages until/unless it's translated.
 - **Indonesian UI strings (`i18n/ind.yaml`) aren't being picked up at build time.**
   `ind.yaml` has real translations for every key (`tour: "Tur"`, `contact: "Hubungi
   kami"`, etc.), but the built `ind` site's navbar falls back to the English `name:`

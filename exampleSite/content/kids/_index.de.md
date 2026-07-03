@@ -10,3 +10,5 @@ Jede Seite endet mit einem Abschnitt "Für Bibelforscher" für Kinder, die noch 
 **Am besten geeignet für:** Kinder von etwa 8-12 Jahren, gemeinsam oder allein gelesen, ein Kapitel nach dem anderen.
 
 [Kinder-Tour starten →]({{< relref "kids/tour" >}})
+
+Bereitest du einen Kindergottesdienst oder eine Jungschar-Stunde vor? Es gibt zu jedem Thema auch einen [vollständigen Unterrichtsentwurf]({{< relref "kids/lessons" >}}) mit Spielen, Bastelideen und Gesprächsfragen.
