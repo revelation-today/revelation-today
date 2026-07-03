@@ -12,54 +12,62 @@ scroll, witnesses, jesus, beasts, harvest, bowls, harlot, 1000y, paradise`).
 
 | Track | EN | DE | TR | IND |
 |---|---|---|---|---|
-| Poetic story (`story`) | 15/15 | 10/15 | 10/15 | 0/15 |
-| Quick summary (`quick`) | 15/15 | 15/15 | 15/15 | 0/15 |
-| Application (`appl`) | 15/15 | 15/15 | 15/15 | 0/15 |
-| Deep dive (`expl`) | 15/15 | 15/15 | 15/15 | 0/15 |
-| Kids (`kids`) | 15/15 | 15/15 | 0/15 | 0/15 |
+| Poetic story (`story`) | 15/15 | 15/15 | 15/15 | 15/15 |
+| Quick summary (`quick`) | 15/15 | 15/15 | 15/15 | 15/15 |
+| Application (`appl`) | 15/15 | 15/15 | 15/15 | 15/15 |
+| Deep dive (`expl`) | 15/15 | 15/15 | 15/15 | 15/15 |
+| Kids (`kids`) | 15/15 | 15/15 | 15/15 | 15/15 |
+
+All four languages are now at full chapter-level parity across all five tracks.
 
 ## Hub pages (`_index.md` for the track itself, e.g. `/quick`)
 
 | Track | EN | DE | TR | IND |
 |---|---|---|---|---|
 | story | ok | ok | ok | ok |
-| quick | ok | ok | ok | **missing** |
+| quick | ok | ok | ok | ok |
 | appl | ok | ok | ok | ok |
 | expl | ok | ok | ok | ok |
-| kids | ok | ok | **missing** | **missing** |
+| kids | ok | ok | ok | ok |
 
-## Known specific gaps
+## Deep dive (`expl`) extras beyond the 15 chapter hubs
 
-- **Indonesian is a skeleton, not a track.** Every chapter-level page is missing in
-  all 5 tracks (0/15 everywhere above). Only hub pages, `welcome`, `about`, `contact`,
-  and some of `appl/topics` exist. Treat `ind` as "not started" for content work, not
-  "partially translated."
-- **Story, German/Turkish: 5 chapters missing** (`army`, `beasts`, `bowls`, `jesus`,
-  `paradise`). These predate this round of work — only 10 of the 15 per-chapter story
-  pages ever existed in de/tr. Their `story:` front-matter fields intentionally point
-  back to `/story/tour` (the single long-form page) instead of a 404, but a de/tr reader
-  following the Story card from those 5 chapters loses the "jump to just this bit"
-  experience that English/other-complete chapters have.
-- **Kids track: Turkish and Indonesian don't exist at all** (0/15, hub missing, tour
-  missing). German and English are at parity (15/15).
-- **`appl/topics/today/{fear,hero,manipulation,purpose}.md` are English-only** — no
-  `.de.md`/`.tr.md`/`.ind.md` counterparts. (`appl/topics/hero/*` and
-  `appl/topics/power/*` are fully translated into de/tr.)
-- **`/themes` (theme taxonomy) is only tagged for en/de/tr topic articles** — since
-  Indonesian has none of the underlying topic articles, and the four English-only
-  `today/*` articles above only produce English-only theme terms (`fear`,
-  `manipulation`, `purpose`; `hero` also exists in de/tr via the other hero articles).
+`expl` has a lot of content beyond the one-hub-per-chapter table above: multiple detail
+articles per chapter folder, plus `expl/background`, `expl/bible`, and `expl/topics`.
+These are now also at full en/de/tr/ind parity (roughly 174 files per language, matching
+German — the previously-complete reference language).
+
+## Remaining known gaps
+
 - **`/kids/lessons/*` (51 full Sunday-school lesson plans, ported from `sermon_kids/`)
-  is German-only by design** — the source material only exists in German, and porting
-  51 long lesson plans to en/tr/ind is a separate, much bigger job than incorporating
-  them. Don't link to it from non-German hub pages until/unless it's translated.
-- **Indonesian UI strings (`i18n/ind.yaml`) aren't being picked up at build time.**
-  `ind.yaml` has real translations for every key (`tour: "Tur"`, `contact: "Hubungi
-  kami"`, etc.), but the built `ind` site's navbar falls back to the English `name:`
-  values regardless (confirmed on pre-existing keys like `tour`/`contact`, not just the
-  ones added in this pass) — so this is a pre-existing site bug, not a missing
-  translation. Worth a dedicated look at why Hugo isn't loading the `ind` bundle before
-  investing more translation effort into that file.
+  is still German-only by design** — the source material only exists in German, and
+  porting 51 long lesson plans to en/tr/ind is a separate, much bigger job than
+  incorporating them. Don't link to it from non-German hub pages until/unless it's
+  translated.
+- **Indonesian UI strings (`i18n/ind.yaml`) still aren't being picked up at build
+  time.** `ind.yaml` has real translations for every key (`tour: "Tur"`, `contact:
+  "Hubungi kami"`, etc.), but the built `ind` site's navbar falls back to the English
+  `name:` values regardless (confirmed on pre-existing keys like `tour`/`contact`, not
+  just newly-added ones) — this is a pre-existing site/template bug, not a missing
+  translation, and content parity doesn't fix it. Worth a dedicated look at why Hugo
+  isn't loading the `ind` i18n bundle.
+- **A handful of pre-existing content quirks were carried over faithfully during this
+  translation pass rather than silently "fixed"** (since fixing content during a
+  translation task risks introducing inconsistencies across languages):
+  - `appl/content/vision` and `appl/content/letters` (German, and now also Indonesian)
+    have duplicated content between the two files.
+  - `expl/topics/others/judgment-in-the-book-of-revelation` has a malformed markdown
+    table in German (now also Indonesian).
+  - `appl/topics/hero/who-rules-the-world.ind.md` references `era_en.jpg` since no
+    `era_ind.jpg` exists.
+  - These are worth cleaning up separately, in whichever language they're first
+    noticed, rather than as a "translation" change.
+- **Minor terminology/quality note**: the Indonesian content was produced by six
+  parallel translation passes (one per track) rather than a single pass, so there may
+  be small cross-track terminology inconsistencies (e.g. a term rendered slightly
+  differently in `expl` vs `appl`) that a native-speaker read-through would catch.
+  Spot-checks during this pass found the terminology reasonably consistent (each pass
+  was told to match existing site usage), but this hasn't been exhaustively verified.
 
 ## How to use this
 
