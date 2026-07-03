@@ -26,7 +26,7 @@ Kutsal Kitap'ın tüm kitapları arasında Vahiy Kitabı özellikle tuhaf ve anl
 - 1000 yıllık krallık, kafası kesilen insanların hüküm sürdüğü
 - ...
 
-Bu vaaz hakkında iyi bir vaaz bile duymamış olabilirsiniz, eğer varsa ve bu kitap sizin durumunuzla hiç ilgili görünmüyor.
+Bu kitap hakkında iyi bir vaaz bile duymamış olabilirsiniz, hatta hiç duymamış olabilirsiniz - ve zaman zaman bu kitap günümüz dünyasıyla hiç ilgili görünmeyebilir.
 
 ## Farklı bir bakış
 
@@ -41,11 +41,20 @@ Roma İmparatorluğu'nun baskı ve hilelerinin yarattığı zorlukların üstesi
 
 Bu kitap bir teselli ve teşviktir
 - aldatıcı ve düşmüş bir dünyada
-- sürücülerini kaybeden kiliseler için
-- İnancınızda neyin gerçekten önemli olduğu duygusunu kaybettiyseniz
-- ki̇li̇se bu dünyada nasil fark yaratir?
+- odağını kaybetmiş kiliseler için
+- inancınızda neyin gerçekten önemli olduğu duygusunu kaybettiyseniz
+- çünkü kilisenin bu dünyada nasıl fark yaratacağına dair yol gösterir
 
-Ve merkez gelecekteki felaketler değil, İsa ve ona tapınmadır.
+Bu kitabın asıl konusu gelecekteki felaketler değil, İsa'dır - ve ona tapınmanın ne anlama geldiğidir.
+
+Şunları keşfedeceksiniz:
+- {{% int_link val="acı çekmenin tek başına insanları neden hiçbir zaman Tanrı'ya getirmediğini" link="/quick/content/trumpets" %}}
+- {{% int_link val="ibadetin sandığınız şey olmadığını" link="/quick/content/worship" %}}
+- {{% int_link val="insanları Tanrı'ya götürmenin sırrını" link="/quick/content/witnesses" %}}
+- {{% int_link val="Armagedon'un gerçekte ne olduğunu" link="/quick/content/bowls" %}}
+- {{% int_link val="Büyük Sıkıntı'nın ne olduğunu ve bir kaçırılma olup olmadığını" link="/quick/content/army" %}}
+- {{% int_link val="Tanrı'nın kilise için vizyonunun gerçekte ne olduğunu" link="/quick/content/vision" %}}
+- {{% int_link val="duanın neden bu kadar önemli olduğunu ve neye yol açtığını" link="/quick/content/trumpets" %}}
 
 ## Yolculuk
 
@@ -58,6 +67,9 @@ Ancak bu kitabın faydalarından yararlanmak için sizi şöyle bir yolculuğa d
 - somut uygulamaya bakınız
 
 Bu rehberi ilginize göre kendi kendinize veya gruplar halinde keşfedebilirsiniz. Birkaç seçeneğiniz var:
-- Menüye gidin ve ilgilendiğiniz konulara göz atın.
-- Arama çubuğuna gidin ve anahtar kelimeleri arayın
+- Beş turdan birini seçin, {{% int_link val="on dakikalık şiirsel yeniden anlatımdan" link="/story" %}} {{% int_link val="ayet ayet, kaynaklarıyla birlikte tam açıklamaya" link="/expl" %}} kadar
+- {{% int_link val="bölüm bölüm rehber" link="/guide" %}} ile doğrudan istediğiniz bölüme atlayın
+- Bunun yerine [temalara]({{< relref "themes" >}}) göre gözatın - kaçırılma, 666, Armagedon ve daha fazlası
+- Belirli bir anahtar kelime için arama çubuğunu kullanın
+- Ya da sadece keşfedin!
 - Aşağıdaki turlardan birine katılarak etrafa göz atabilirsiniz

@@ -15,7 +15,7 @@ docType: kids
 
 Mühürleri açmaya layık olan İsa olduğuna göre, şimdi hemen devam ediyoruz.
 
-O bunu yaptığında ne olur? Aslında İsa'nın yerinde olmayı ve tomarı kendisi almayı çok isteyen biri var. Bu da Şeytan (onunla birkaç kez daha karşılaşacağız). Şeytan pek konuşmadı, çünkü herkes onun kötü olduğunu biliyor.
+O bunu yaptığında ne olur? Aslında İsa'nın yerinde olmayı ve tomarı kendisi almayı çok isteyen biri var. Bu da Şeytan (onunla birkaç kez daha karşılaşacağız). Ama Şeytan'ın sözü pek geçmiyor, çünkü herkes onun kötü olduğunu biliyor.
 
 Gerçekten herkes mi? İsa'ya değil de her türlü başka şeye inanan kaç kişi tanıyorsun? İsa, mühürlerle herkese Şeytan'ın iyi biri olmadığını açıkça gösteriyor.
 

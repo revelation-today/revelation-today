@@ -45,16 +45,16 @@ This book is a comfort and encouragement
 - if you have personally lost the sense of what is really important in your faith
 - as it advises the Church how to make a difference in this world
 
-Its core subject is not about future disasters, but about Jesus and the worship of Him.
+Its core subject is not future disaster, but Jesus, and what it means to worship him.
 
 You will see
-- {{% int_link val="suffering brings people not to God" link="/quick/content/trumpets" %}}
+- {{% int_link val="why suffering alone never brings people to God" link="/quick/content/trumpets" %}}
 - {{% int_link val="worship is not what you may think" link="/quick/content/worship" %}}
-- {{% int_link val="the secret to lead people to God" link="/quick/content/witnesses" %}}
-- {{% int_link val="what Armageddon really is" link="/quick/content/worship" %}}
-- {{% int_link val="what the Great Tribulation is and if there is a rapture" link="/quick/content/army" %}}
-- {{% int_link val="what is Gods vision for the Church" link="/quick/content/vision" %}}
-- {{% int_link val="why prayer is so important and what is results in" link="/quick/content/trumpets" %}}
+- {{% int_link val="the secret to leading people to God" link="/quick/content/witnesses" %}}
+- {{% int_link val="what Armageddon really is" link="/quick/content/bowls" %}}
+- {{% int_link val="what the Great Tribulation is, and whether there is a rapture" link="/quick/content/army" %}}
+- {{% int_link val="what God's vision for the Church actually is" link="/quick/content/vision" %}}
+- {{% int_link val="why prayer matters so much, and what it accomplishes" link="/quick/content/trumpets" %}}
 
 ## The journey
 
@@ -67,7 +67,8 @@ In order to reap the benefits of this book, I invite you on a journey where you:
 - see concrete application
 
 This website can be used as a guide on your topic of interests, as an in-depth self-study or for small groups. You have several options:
-- use the menu to browse the topics you are interested in
-- use the search bar and search for keywords
-- take one of the guided tours related to your focus e.g. application, overview, poetic
+- take one of the five tours, from a {{% int_link val="ten-minute poetic retelling" link="/story" %}} to a {{% int_link val="fully footnoted verse-by-verse explanation" link="/expl" %}}
+- jump straight to any passage with the {{% int_link val="chapter-by-chapter guide" link="/guide" %}}
+- browse by [theme]({{< relref "themes" >}}) instead - the rapture, 666, Armageddon, and more
+- use the search bar for a specific keyword
 - just explore!

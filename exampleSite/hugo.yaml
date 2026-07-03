@@ -29,7 +29,7 @@ languages:
     languageName: English
     weight: 20
     title: The Book of Revelation
-  ind:
+  id:
     languageName: Bahasa Indonesia
     weight: 30
     title: Kitab Wahyu

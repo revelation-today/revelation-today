@@ -5,7 +5,6 @@ next: /welcome/teaser
 layout: hextra-home
 ---
 
-
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
     Vahiy Kitabı
@@ -14,38 +13,66 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  İncil'in son kitabı garip bir gizem değildir
+  Kutsal Kitap'ın son kitabı garip bir gizem değil
   &nbsp;<br class="sm:hx-block hx-hidden" />
-  ama etkili öğrencilik için bir rehber
+  etkili öğrencilik için bir rehberdir.
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<img src="https://revelation-today.github.io/revelation-today/images/UnderConstruction.jpg" width="200">
+{{< hextra/feature-grid >}}
 
-<div class="hx-mt-6"></div>
-
-{{< hextra/feature-grid>}}
   {{< hextra/feature-card
-    title="Neden bu kitap?"
+    title="Neden bu web sitesi?"
+    subtitle="Buraya yeni mi geldin? Bu kitabın neden önemli olduğuyla başla."
+    icon="sparkles"
     link="welcome/teaser"
-    subtitle="Vahiy Kitabı'nı neden anlamalısınız?"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/man.jpg"
-    source="https://pixabay.com/photos/man-thinking-doubt-question-mark-5723449/"
-    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
-  </br></br>
-
   {{< hextra/feature-card
-    title="Başlayın"
-    link="welcome"
-    subtitle="Hadi başlayalım"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/gloves.jpg"
-    source="https://pixabay.com/photos/gloves-tools-protection-1192164/"
-    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+    title="Şiirsel hikâye"
+    subtitle="Bütün kitap birkaç dakikada, tek bir hikâye olarak."
+    icon="book-open"
+    link="story"
+  >}}
+  {{< hextra/feature-card
+    title="Hızlı açıklama"
+    subtitle="Bölüm bölüm, sade bir dille."
+    icon="lightning-bolt"
+    link="quick"
+  >}}
+  {{< hextra/feature-card
+    title="Uygulama"
+    subtitle="Vaaz, öğretim ya da küçük grup için hazırlanmış."
+    icon="pencil"
+    link="appl"
+  >}}
+  {{< hextra/feature-card
+    title="Derinlemesine"
+    subtitle="Ayet ayet, kaynaklarıyla birlikte tam açıklama."
+    icon="light-bulb"
+    link="expl"
+  >}}
+  {{< hextra/feature-card
+    title="Çocuklar için"
+    subtitle="Aynı hikâye, çocuklar için sade bir şekilde anlatılmış."
+    icon="academic-cap"
+    link="kids"
+  >}}
+  {{< hextra/feature-card
+    title="Bölüm bölüm"
+    subtitle="Tek bir tablo, her bölüm, beş derinlik bir arada."
+    icon="table"
+    link="guide"
+  >}}
+  {{< hextra/feature-card
+    title="Temalar"
+    subtitle="Kaçırılma, 666, dispensasyonalizm ve daha fazlası."
+    icon="collection"
+    link="/tr/themes"
+  >}}
+  {{< hextra/feature-card
+    title="Sorularınız mı var? Bana ulaşın"
+    subtitle=""
+    icon="chat"
+    link="contact"
   >}}
 {{< /hextra/feature-grid >}}
-

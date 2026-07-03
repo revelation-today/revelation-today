@@ -19,7 +19,7 @@ docType: kids
 
 Tanrı'nın çocuklarına yaptıkları bütün kötülükler yüzünden iğrenç şeyler yaşamak zorunda kalıyorlar.
 
-Ve inatları yüzünden - değişmek ya da özür dilemek ya da benzer bir şey yapmak istemedikleri için - öyle bir sıcak soğuk oluyorlar ki dillerini ısırıyorlar, ama yine de değişmek istemiyorlar.
+Ve inatları yüzünden - değişmek ya da özür dilemek ya da benzer bir şey yapmak istemedikleri için - öyle bunalıyorlar ki dillerini ısırıyorlar, ama yine de değişmek istemiyorlar.
 
 Ve sonra olması gereken oluyor. Hepsi büyük yalana inanıyor ve Armagedon denilen bir yerde toplanıyorlar (bu gerçek bir yer değil, bir kod adı). Ve orada sözde kötülere karşı savaşmak için toplanıyorlar. Ama Şeytan onların hepsini kandırmış. Çünkü hepsi kaybedecek ve tamamen utanacaklar, çünkü aslında tek iyi olana karşı savaşmaya gelmişler.
 
@@ -57,5 +57,5 @@ Ek bilgi: Armagedon. Tanrı Şeytan'la alay ediyor. Çünkü bu ismin üç anlam
 Armagedon hikâyelerinden bazılarını biliyor musun?
 - Toplantı dağı (Yşa. 14:12-15)
 - Bir ev kadını, Megiddo'da bir ordu komutanını yeniliyor (Hâk. 4:12-22)
-- Elias, Tanrı'nın tek bir peygamberi, Megiddo'nun yanındaki dağ olan Karmel'de 850 kişiye karşı zafer kazanıyor (bu kadar kişi nereye sığar, hayal edebiliyor musunuz?) (1. Krallar 17)
+- İlyas, Tanrı'nın tek bir peygamberi, Megiddo'nun yanındaki dağ olan Karmel'de 850 kişiye karşı zafer kazanıyor (bu kadar kişi nereye sığar, hayal edebiliyor musunuz?) (1. Krallar 17)
 - Kral Yoşiya, Megiddo'daki savaşa gidiyor ve ölüyor, ama bununla İsrail'i kurtarıyor ve dünya tarihini değiştiriyor (2. Tarihler 35:20-25)

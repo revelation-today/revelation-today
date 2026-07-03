@@ -45,7 +45,16 @@ Dieses Buch ist ein Trost und eine Ermutigung
 - wenn du das Gefühl dafür verloren hast, was in deinem Glauben wirklich wichtig ist
 - wie die Kirche in dieser Welt einen Unterschied macht
 
-Und im Mittelpunkt stehen nicht zukünftige Katastrophen, sondern Jesus und die Anbetung seiner Person.
+Und im Mittelpunkt stehen nicht zukünftige Katastrophen, sondern Jesus und was es bedeutet, ihn anzubeten.
+
+Du wirst entdecken
+- {{% int_link val="warum Leid allein noch nie jemanden zu Gott gebracht hat" link="/quick/content/trumpets" %}}
+- {{% int_link val="dass Anbetung nicht das ist, was du vielleicht denkst" link="/quick/content/worship" %}}
+- {{% int_link val="das Geheimnis, wie man Menschen zu Gott führt" link="/quick/content/witnesses" %}}
+- {{% int_link val="was Harmagedon wirklich ist" link="/quick/content/bowls" %}}
+- {{% int_link val="was die große Trübsal ist und ob es eine Entrückung gibt" link="/quick/content/army" %}}
+- {{% int_link val="was Gottes Vision für die Gemeinde wirklich ist" link="/quick/content/vision" %}}
+- {{% int_link val="warum Gebet so wichtig ist und was es bewirkt" link="/quick/content/trumpets" %}}
 
 ## Die Reise
 
@@ -57,7 +66,9 @@ Aber um den Nutzen dieses Buches zu ernten, lade ich dich auf eine Reise ein, au
 - Ermutigung findest
 - die konkrete Anwendung siehst
 
-Du bist herzlich eingeladen, diesen Leitfaden nach Ihrem Interesse zu entdecken, im Selbststudium oder in Gruppen. Du hast mehrere Möglichkeiten:
-- Gehe auf das Menü und suche nach den Themen, die dich interessieren.
-- Gehe auf die Suchleiste und suchen nach bestimmten Stichworten.
-- Nimm an einer der untenstehenden Touren teil, die dir ebenfalls einige Möglichkeiten bietet, dich umzusehen.
+Du bist herzlich eingeladen, diesen Leitfaden nach deinem Interesse zu entdecken, im Selbststudium oder in Gruppen. Du hast mehrere Möglichkeiten:
+- Nimm eine der fünf Touren, von der {{% int_link val="zehnminütigen poetischen Nacherzählung" link="/story" %}} bis zur {{% int_link val="vollständigen, mit Quellen belegten Erklärung Vers für Vers" link="/expl" %}}
+- Spring direkt zu einer Stelle mit dem {{% int_link val="Kapitel-für-Kapitel-Leitfaden" link="/guide" %}}
+- Stöbere stattdessen nach [Themen]({{< relref "themes" >}}) - die Entrückung, 666, Harmagedon und mehr
+- Nutze die Suchleiste für ein bestimmtes Stichwort
+- Oder erkunde einfach drauflos!

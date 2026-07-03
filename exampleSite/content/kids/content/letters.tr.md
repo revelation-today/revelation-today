@@ -29,7 +29,7 @@ Sonra çok görkemli bir şehir olan Sart var. İmanlarını gayet iyi idare edi
 
 Ardından Filadelfiya'yı görüyoruz. Buradaki insanlar çok çaba gösteriyor, düşmanlıkla karşılaşıyor ve gerçekten yoksullar. Ama zor olduğunda bile İsa'ya sadık kalıyorlar.
 
-Ve son olarak Laodikya var. Birçok insan bu kiliseden olmak istiyor, çünkü oradaki insanlar zengin ve sağlıklı. Ve muhtemelen orada insanlar kendilerinin herkesten daha iyi olduğunu düşünüyordu.
+Ve son olarak Laodikya var. Birçok insan bu kiliseden olmak istiyor, çünkü oradaki insanlar zengin ve sağlıklı. Ve muhtemelen orada insanlar kendilerini herkesten daha iyi görüyordu.
 
 Evet, doğru. İzmir ve Filadelfiya gerçekten harika. Çünkü acı çekseler bile İsa'ya sadık kalıyorlar.
 

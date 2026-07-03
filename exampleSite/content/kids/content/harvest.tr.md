@@ -23,6 +23,6 @@ Bu netleştikten sonra, büyük hasat geliyor. Aslında iki hasat var, çünkü 
 
 İlk hasat, toplanan ve İsa'yla birlikte olacak insanlar; belki de sizin iyi bir örnek olduğunuzu ve ona sadık olduğunuzu gördükleri için oradalar.
 
-Ama diğerleri sadece toplanmıyor, sıkılıyorlar. Kanları akmak zorunda, çünkü İsa'nın kanına ihtiyaçları olmadığını düşünmüşlerdi.
+Ama diğerleri sadece toplanmıyor, bir üzüm gibi sıkıştırılıyorlar. Kanları akmak zorunda, çünkü İsa'nın kanına ihtiyaçları olmadığını düşünmüşlerdi.
 
 ## Kutsal Kitap Kâşifleri için

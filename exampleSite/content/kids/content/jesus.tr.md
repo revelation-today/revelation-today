@@ -29,7 +29,7 @@ Ama hikâye devam ediyor. Gördüğünüz gibi, bu bölüm Şeytan'la ilgili ve 
 
 Şimdi hikâye bir kez daha anlatılıyor, bu sefer gökyüzü perspektifinden. Burada da kaybediyor ve Mikail tarafından gökten atılıyor. Artık o kadar öfkeli ki, her şeyi mahvetmek istiyor ve hiçbir şeyi umursamıyor, çünkü sonunun her an gelebileceğini biliyor.
 
-Biz İsa geri geldiğinde seviniyoruz, ama Şeytan bunu düşünmek bile titriyor.
+Biz İsa geri geldiğinde seviniyoruz, ama Şeytan bunu düşünmekten bile titriyor.
 
 Önce yine kadına saldırıyor, ama başaramıyor, çünkü doğa bile Şeytan'a karşı. Çünkü yeryüzü, kadını boğmak için gönderilen suyu yutuveriyor.
 

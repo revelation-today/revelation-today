@@ -22,37 +22,56 @@ layout: hextra-home
 
   {{< hextra/feature-card
     title="Warum diese Webseite?"
+    subtitle="Neu hier? Starte mit der Frage, warum dieses Buch wichtig ist."
     icon="sparkles"
     link="welcome/teaser"
   >}}
   {{< hextra/feature-card
-    title="Kurzerklärung des Buches Offenbarung"
-    icon="sparkles"
-    link="quick/content"
+    title="Poetische Geschichte"
+    subtitle="Das ganze Buch in ein paar Minuten, als eine Geschichte erzählt."
+    icon="book-open"
+    link="story"
   >}}
   {{< hextra/feature-card
-    title="Predigt-Inspirationen"
-    icon="sparkles"
-    link="appl/content"
+    title="Kurzerklärung"
+    subtitle="Abschnitt für Abschnitt, in einfacher Sprache."
+    icon="lightning-bolt"
+    link="quick"
   >}}
   {{< hextra/feature-card
-    title="Wie erkläre ich das Buch Offenbarung für Kinder"
-    icon="sparkles"
-    link="kids/content"
+    title="Anwendung"
+    subtitle="Aufbereitet für Predigt, Unterricht oder Kleingruppe."
+    icon="pencil"
+    link="appl"
   >}}
   {{< hextra/feature-card
-    title="Alle Infos, um das Buch Offenbarung zu verstehen"
-    icon="sparkles"
-    link="expl/content"
+    title="Zur Vertiefung"
+    subtitle="Die vollständige, mit Quellen belegte Erklärung, Vers für Vers."
+    icon="light-bulb"
+    link="expl"
   >}}
   {{< hextra/feature-card
-    title="Hintergrund Informationen zum Buch Offenbarung"
-    icon="sparkles"
-    link="expl/background"
+    title="Für Kinder"
+    subtitle="Dieselbe Geschichte, einfach erzählt für Kinder."
+    icon="academic-cap"
+    link="kids"
+  >}}
+  {{< hextra/feature-card
+    title="Kapitel für Kapitel"
+    subtitle="Eine Tabelle, jedes Kapitel, alle fünf Ebenen auf einen Blick."
+    icon="table"
+    link="guide"
+  >}}
+  {{< hextra/feature-card
+    title="Themen"
+    subtitle="Die Entrückung, 666, Dispensationalismus und mehr."
+    icon="collection"
+    link="/de/themes"
   >}}
   {{< hextra/feature-card
     title="Fragen? Kontaktier' mich"
-    icon="sparkles"
+    subtitle=""
+    icon="chat"
     link="contact"
   >}}
 {{< /hextra/feature-grid >}}

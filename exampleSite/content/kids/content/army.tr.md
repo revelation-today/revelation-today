@@ -30,7 +30,7 @@ Bunlar burada cevaplanacak önemli sorular.
 En önemlisi önce: mühürlenme.
 
 - Her şey başlamadan önce Tanrı bir şeyi açıkça belirtiyor: bizi koruyor. Tanrı ordusunu mühürlüyor. Peki bu tam olarak nedir? Tam olarak açıklanmıyor, ama bu, Tanrı'nın ordusuna ait olduğumuzu gösteren bir işaret. Bu, beşinci borazana geldiğimizde çok önemli olacak. Herkes üzgün ve çökmüşken, bizim cesaretimiz ve umudumuz olacak. Bunu kimse bizden alamaz.
-- Sonra Tanrı'nın ordusu sayılıyor. Bu, hiç kimsenin kaybolmadığından emin olmak için önemli. 144.000 hayal etmesi bile zor, devasa bir sayı. Ve bu sadece Yuhanna'nın duyduğu.
+- Sonra Tanrı'nın ordusu sayılıyor. Bu, hiç kimsenin kaybolmadığından emin olmak için önemli. 144.000, hayal edilmesi bile zor, devasa bir sayı. Ve bu sadece Yuhanna'nın duyduğu.
 - Gerçekte ise sayılamayacak kadar büyük bir topluluk. Ama bir ordudan hayal ettiğinden çok farklı:
   -- Onlar Tanrı'ya tapanlar. Yani kimseye zarar vermek istemiyorlar, tam tersine iyilik yapıp insanları İsa'ya davet ediyorlar.
   -- Büyük sıkıntıdan geliyorlar. Bu, İsa'nın ilk gelişinden beri Tanrı'nın halkının, hiçbir yanlış yapmasa bile acı çekmek zorunda kaldığı zaman dilimi. İnsanlar bazen sadece İsa'ya inandığımız için bizden nefret ediyor.

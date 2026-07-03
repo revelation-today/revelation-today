@@ -16,7 +16,7 @@ docType: kids
 
 ## Genel Bakış
 
-Burada, ortaya çıkıp pek çok şey yapan iki tanıktan bahsediliyor. Ama tanık gerçekte nedir? Tanıklar, dramatik bir şey yaşamış ve bu yüzden bunu yaşamamış insanlardan farklı yaşayan kişilerdir.
+Burada, ortaya çıkıp pek çok şey yapan iki tanıktan bahsediliyor. Ama tanık gerçekte nedir? Tanıklar, başlarından çarpıcı bir şey geçtiği için artık bunu yaşamamış insanlardan farklı yaşayan kişilerdir.
 
 Bir bisiklet kazasına tanık olabilirsin ve bundan sonra bisikletini daha dikkatli sürersin; ya da birinin bir iltifat aldığı için üzüntüsünün bittiğine tanık olursun ve bunun ne fark yarattığını gördüğün için sen de iltifat etmeye başlarsın.
 

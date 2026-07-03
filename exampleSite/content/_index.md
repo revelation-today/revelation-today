@@ -23,32 +23,56 @@ layout: hextra-home
 
   {{< hextra/feature-card
     title="Why this website?"
+    subtitle="New here? Start with why this book matters."
     icon="sparkles"
     link="welcome/teaser"
   >}}
   {{< hextra/feature-card
-    title="Quick explanation of the Book of Revelation"
-    icon="sparkles"
-    link="quick/content"
+    title="Poetic story"
+    subtitle="The whole book in a few minutes, told as one story."
+    icon="book-open"
+    link="story"
   >}}
   {{< hextra/feature-card
-    title="Preaching inspirations for the Book of Revelation"
-    icon="sparkles"
-    link="appl/content"
+    title="Quick summary"
+    subtitle="Section by section, in plain language."
+    icon="lightning-bolt"
+    link="quick"
   >}}
   {{< hextra/feature-card
-    title="All the information to understand the Book of Revelation"
-    icon="sparkles"
-    link="expl/content"
+    title="Application"
+    subtitle="Prepared for preaching, teaching, or small groups."
+    icon="pencil"
+    link="appl"
   >}}
   {{< hextra/feature-card
-    title="Background information for the Book of Revelation"
-    icon="sparkles"
-    link="expl/background"
+    title="Deep dive"
+    subtitle="The full, footnoted explanation, verse by verse."
+    icon="light-bulb"
+    link="expl"
+  >}}
+  {{< hextra/feature-card
+    title="Kids"
+    subtitle="The same story, retold simply for children."
+    icon="academic-cap"
+    link="kids"
+  >}}
+  {{< hextra/feature-card
+    title="Chapter by chapter"
+    subtitle="One table, every chapter, all five depths at once."
+    icon="table"
+    link="guide"
+  >}}
+  {{< hextra/feature-card
+    title="Themes"
+    subtitle="The rapture, 666, dispensationalism, and more."
+    icon="collection"
+    link="/themes"
   >}}
   {{< hextra/feature-card
     title="Questions? Contact me"
-    icon="sparkles"
+    subtitle=""
+    icon="chat"
     link="contact"
   >}}
 {{< /hextra/feature-grid >}}

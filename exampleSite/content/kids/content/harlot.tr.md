@@ -19,9 +19,9 @@ Peki fahişe aslında nedir? Kutsal Kitap'ta bu, dışarıdan güzel görünen a
 
 Bu fahişe, dünyanın krallarına ne yapmaları gerektiğini söylüyor ve insanların acısına seviniyor. Onda her şey yanlış ve kötü.
 
-Fahişe, bütün kralları da kontrolü altında tutan canavarın üzerinde oturuyor. Tanrı bu canavarla alay ediyor, çünkü Tanrı devreye girince canavarın hiçbir gücü kalmıyor. Çünkü Tanrı'nın bir planı var. Canavar, gelini (kilise ve göğün bir resmi) nefret ediyor ve krallarla birlikte onu yok etmek istiyor. Ve Tanrı bunu, fahişeyi yargılamak için kullanıyor.
+Fahişe, bütün kralları da kontrolü altında tutan canavarın üzerinde oturuyor. Tanrı bu canavarla alay ediyor, çünkü Tanrı devreye girince canavarın hiçbir gücü kalmıyor. Çünkü Tanrı'nın bir planı var. Canavar, gelinden (kilise ve göğün bir resmi) nefret ediyor ve krallarla birlikte onu yok etmek istiyor. Ve Tanrı bunu, fahişeyi yargılamak için kullanıyor.
 
-Fahişe, gelin kadar güzel görünmeye çalışıyor. Bu yüzden Tanrı, bütün kralları sahte gelini saldırmaya yönlendiriyor - ve bu, fahişenin kendisi! Yani Şeytan'ın krallığı kendi kendini yok ediyor; fahişe, hep kontrol ettiği canavar ve krallar tarafından yok ediliyor.
+Fahişe, gelin kadar güzel görünmeye çalışıyor. Bu yüzden Tanrı, bütün kralları sahte geline saldırmaya yönlendiriyor - ve bu, fahişenin kendisi! Yani Şeytan'ın krallığı kendi kendini yok ediyor; fahişe, hep kontrol ettiği canavar ve krallar tarafından yok ediliyor.
 
 Şimdi fahişe hakkında daha fazlasını öğreniyoruz. Bütün krallar şimdi fahişe için ağlıyor. Ama fahişe onlar için aslında hiç önemli değildi. Onlar sadece ondan ne alabileceklerini düşünüyorlardı. Ve o yok edildiğinde, sadece kayıplarına yanıyorlar.
 
@@ -33,7 +33,7 @@ Ve hemen ardından İsa, büyük ordusuyla (Armagedon'da toplanan) canavarı yen
 
 Fahişe, gelinin tam tersi ve gelinin asla nasıl olmaması gerektiğini anlatıyor.
 
-Canavarın üzerindeki fahişe ne kadar güçlü ve yenilmez görünse de, Tanrı onunla alay ediyor ve tam da onun gücü sonunu getiriyor, çünkü o kötü ve kötülük istiyor - kendi dostlarına karşı bile.
+Canavarın üzerindeki fahişe ne kadar güçlü ve yenilmez görünse de, Tanrı onunla alay ediyor ve tam da gücü onun sonunu getiriyor, çünkü o kötü ve kötülük istiyor - kendi dostlarına karşı bile.
 
 ## Kutsal Kitap Kâşifleri için
 
