@@ -10,8 +10,8 @@ next: /story/content/scroll
 docType: story
 ---
 
-It is time for the Church to release its power, with the same force as Jesus. Just as the Crucified One shakes the world, so does the prayer of the Church - and it is that prayer which sounds the trumpets that shake the earth.
+Now it is the Church's turn to shake the world - not with weapons, but the way Jesus always did: through what looks like weakness. Prayer rises like incense, and the trumpets sound, and the earth itself begins to tremble.
 
-When food, water, trade, and security are all taken away, will this finally drive people to look for the real thing? No. They continue to cling to their idols.
+Food fails. Water turns bitter. Trade collapses. Security disappears. Surely now people will finally look up and ask what is real?
 
-They will not let go, even when their idols turn against them and take away their last hope, until they would rather end their lives than let go. And still, in all their tremendous suffering, they cling to what cannot save them.
+They do not. Even as their idols turn on them - even as those same idols strip away every last shred of hope, until death starts to look like relief - people cling tighter, not looser. Suffering alone has never been enough to change a human heart.

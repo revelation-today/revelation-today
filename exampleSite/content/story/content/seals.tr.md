@@ -1,17 +1,22 @@
 ---
-title: "Kötülük uyanıyor — orduya katılın (Bölüm 6–7)"
+title: "Mühürler (Bölüm 6)"
 weight: 40
 base: /quick/content/seals
+appl: /appl/content/seals
+expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /story/content/worship
-next: /story/content/trumpets
+next: /story/content/army
 docType: story
 ---
 
-{{% bible val="Bölüm 6–7" link="rev:6" lang="tr" %}}
+Mühürler birer birer açılıyor, ve her biri bir şeyi serbest bırakıyor.
 
-<a name="c33e"></a>
-Bu dünyayı yönetmeye niyetli olan yalnızca İsa değildir ve İsa bunu ortaya çıkarmak için mühürleri kırar. Şeytan da aynı şeyi iddia eder ve parlak bir zırhla ortaya çıkar, ancak İsa tüm bu vaatlerin ardında insanlara karşı şiddetin yattığını, adaletsizlikle tehdit ederek yaşadığını ve bunun sonucunda tam bir felaketle sonuçlandığını gösterir.
+Önce beyaz bir at dörtnala çıkıyor - elinde yay olan bir binici, kendisine bir taç veriliyor, şimdiden fetih peşinde. Bir kalp atımı boyunca zafer gibi görünüyor. Değil: İsa, bağlılığını isteyen tek kişi değil, ve bu binici sahte - gerçek Kral'ın atının rengini bir yalanı satmak için ödünç alıyor.
 
-Kilise bunun dışında değildir. Hayır, o bunun tam ortasındadır ve Tanrı’ya haykırmaktadır. Ama biz, kilise, İsa gelip her şeyi sona erdirene kadar kalmak zorundayız.
+Kostümü çıkar, ve geriye sadece şiddet kalır. Beyaz atın arkasından kan kırmızısı bir at geliyor, ve barış yeryüzünden bir kabuk gibi koparılıyor - insanlar çekilmiş kılıçlarla birbirine dönüyor. Kırmızı atın arkasından siyah bir at geliyor, binicisi elinde bir terazi tutuyor: bir günlük ekmek için bir günlük ücret, oysa zeytinyağı ve şarap hâlâ ödeyebilenler için korunuyor. Ve siyah atın arkasından kül renginde bir at geliyor, binicisinin adı Ölüm, ve ölüler diyarı onun peşinden geliyor.
 
-Bu gerçekleşene kadar Tanrı’nın ordusuna katılmamız gerekir. Ama bu neye benziyor? Bizim savaşımız şeytan gibi şiddetle değil, Rablerine olan sevgilerinden dolayı her şeye katlanan tapınanlardan oluşan bir ordudur.
+Fetih savaşa, savaş kıtlığa, kıtlık da ölüme yol açıyor.
+
+Sonra ordular değil bir sunak ortaya çıkaran mühür açılıyor - ve altında, sadakatleri yüzünden öldürülenlerin ruhları, tek bir sesle haykırıyor: Ne zamana dek, ey kutsal ve gerçek olan Efendimiz, yeryüzünü yargılayıp kanımızın öcünü almayacaksın? Onlara biraz daha beklemeleri söyleniyor.
+
+Sonra gökyüzünün kendisi cevap veriyor: güneş kararıyor, ay kan rengine dönüyor, yıldızlar silkelenen bir ağaçtan düşen meyveler gibi dökülüyor, ve gökyüzü sarılan bir tomar gibi katlanıyor. Dünya çoktan kendi getirdiği felakette boğuluyor, ve kilise de enkazın tam ortasında durup haykırıyor.

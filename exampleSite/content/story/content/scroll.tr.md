@@ -1,14 +1,14 @@
 ---
-title: "Gerçeklik kontrolü (Bölüm 10)"
-weight: 60
+title: "Küçük tomar (Bölüm 10)"
+weight: 70
 base: /quick/content/scroll
+appl: /appl/content/scroll
+expl: /expl/content/scroll/the-little-scroll
 prev: /story/content/trumpets
 next: /story/content/witnesses
 docType: story
 ---
 
-{{% bible val="Bölüm 10" link="rev:10" lang="tr" %}}
+İlk darbe başarısız oldu. Zor zamanlar hemen her şeyi kırabilir - yanlış bir şeye kilitlenmiş bir yürek dışında.
 
-<a name="f65c"></a>
-Kilise başarısız oldu. İlk saldırıları kalplerin katılaşmasından başka bir şeyle sonuçlanmadı. Zor zamanlar tek başına insanları değiştirmez. Onları değiştiren Tanrı’nın gizemidir. Ve bu şimdi açıklanacak ve sindirilmesi biraz zaman alacak.
-
+Bunun üzerine bir tomar beliriyor, ve Yuhanna'ya onu yemesi söyleniyor - ve içindeki bir şey her şeyi değiştirecek, sindirmesi zaman alsa da. Bu başka bir felaket değil. Bu bir vahiy: Tanrı'nın kendisi hakkında, ağızda tatlı ama yutması zor, sadece yargının başaramadığı yerde açığa çıkmak üzere olan gerçek bir şey.

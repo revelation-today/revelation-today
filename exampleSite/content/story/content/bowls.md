@@ -10,6 +10,8 @@ next: /story/content/harlot
 docType: story
 ---
 
-Now God's zeal steps forward. His actions shake the devil's kingdom, again and again, until it collapses. He targets false loyalty, the attacks against his people, and every hardened heart - until, at last, the devil's deception lies fully exposed.
+Now God's zeal pours out like something long held back and finally released - bowl after bowl, wave after wave, until the kingdom built on lies has nowhere left to stand. Every bowl lands exactly where it is aimed: false worship, cruelty toward God's people, hearts too hardened to break even now.
 
-They gather for one final battle, at a place with a name loaded with irony - Armageddon - certain of victory. But it is the last stand of a kingdom already finished.
+The armies of the earth gather for one last stand, at a place whose name has become a byword for disaster: Armageddon. They come certain of victory.
+
+They are already finished. They just do not know it yet.

@@ -1,14 +1,15 @@
 ---
-title: "Realitätscheck (Kapitel 10)"
-weight: 60
+title: "Die kleine Schriftrolle (Kapitel 10)"
+weight: 70
 base: /quick/content/scroll
+appl: /appl/content/scroll
+expl: /expl/content/scroll/the-little-scroll
+kids: /kids/content/scroll
 prev: /story/content/trumpets
 next: /story/content/witnesses
 docType: story
 ---
 
-{{% bible val="Kapitel 10" link="rev:10" lang="de" %}}
+Der erste Schlag ist gescheitert. Harte Zeiten können fast alles aufbrechen - außer ein Herz, das auf das Falsche gesetzt ist.
 
-<a name="4ab1"></a>
-Die Kirche hat versagt. Ihr erster Schlag führte zu nichts als verhärteten Herzen. Harte Zeiten allein verändern die Menschen nicht. Es ist das Geheimnis Gottes, das sie verändert. Und das wird jetzt offenbart, und es braucht einige Zeit, um es zu verdauen.
-
+Da erscheint eine Schriftrolle, und Johannes soll sie essen - und etwas darin wird alles verändern, auch wenn es Zeit braucht, es zu verdauen. Das ist keine weitere Katastrophe. Es ist eine Offenbarung: etwas Wahres über Gott selbst, süß im Mund und schwer zu schlucken, das gleich dort durchbrechen wird, wo Gericht allein es nicht vermochte.

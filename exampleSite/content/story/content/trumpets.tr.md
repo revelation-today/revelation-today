@@ -1,16 +1,16 @@
 ---
-title: "İlk grev (Bölüm 8–9)"
-weight: 50
+title: "Borazanlar (Bölüm 8-9)"
+weight: 60
 base: /quick/content/trumpets
-prev: /story/content/seals
+appl: /appl/content/trumpets
+expl: /expl/content/trumpets/the-trumpets-in-revelation
+prev: /story/content/army
 next: /story/content/scroll
 docType: story
 ---
 
-{{% bible val="Bölüm 8–9" link="rev:8" lang="tr" %}}
+Şimdi sıra kilisede, dünyayı sarsmak - silahlarla değil, İsa'nın her zaman yaptığı gibi: zayıflık gibi görünen bir şeyle. Dua tütsü gibi yükseliyor, ve borazanlar çalıyor, ve yeryüzünün kendisi titremeye başlıyor.
 
-<a name="3037"></a>
-Kilisenin gücünü ortaya koymasının zamanı gelmiştir. Çarmıha gerilen İsa’nın dünyayı sarsmasıyla aynı güçle, kilisenin duası da aynı şeyi yapar. Dünyayı sarsan trompet sesine neden olurlar. Yiyecek, su, ticaret, güvenlik — hepsi yok olmuştur. Bu durum insanları gerçek olanı aramaya itecek mi? Hayır! Putlarına sadık kalırlar.
+Yiyecek tükeniyor. Su acılaşıyor. Ticaret çöküyor. Güvenlik ortadan kalkıyor. Şimdi insanlar sonunda yukarı bakıp gerçek olanın ne olduğunu soracak mı?
 
-Putları onlara karşı dönüp umutlarını yitirmelerine neden olduğunda bile gevşemezler, öyle ki yaşamlarına son vermek isterler ama yapamazlar ve sonunda bunu yaparlar. Kilise korunur — onlar pes etmezler. Ama insanlar büyük acılar çeker ama yine de putlarına bağlı kalırlar.
-
+Sormuyorlar. Putları onlara karşı döndüğünde bile - o putlar son umut kırıntısını da alıp götürse, ölüm bir rahatlama gibi görünmeye başlasa bile - insanlar daha gevşek değil, daha sıkı tutunuyor. Acı çekmek tek başına hiçbir zaman bir insan yüreğini değiştirmeye yetmedi.

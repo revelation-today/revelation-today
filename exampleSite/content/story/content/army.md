@@ -10,8 +10,8 @@ next: /story/content/trumpets
 docType: story
 ---
 
-Already there is so much suffering in the world, and the Church stands right in the middle of the chaos. But she must remain steady, until Jesus comes and ends it all.
+Before it gets any worse, something happens: God's people are sealed. Marked. Claimed, in the middle of the storm, as unmistakably his.
 
-Until then, we are called to actively fight in the army of God. What does that look like? Our fight is not fought with violence, like the devil's tactics - instead we fight as an army of worshipers, who endure anything out of love for their Lord.
+This is the army of God - though it fights like no army you have ever seen. No swords, no borrowed violence, just relentless worship and a loyalty that outlasts everything the enemy can throw at it.
 
-Before the battle even begins, we are sealed - marked as belonging to him. No matter how the chaos rages, we already know whose side we are on.
+Whatever comes next, one thing is already settled: you know whose side you are on.

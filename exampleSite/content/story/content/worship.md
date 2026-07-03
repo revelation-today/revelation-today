@@ -10,10 +10,10 @@ next: /story/content/seals
 docType: story
 ---
 
-So it's up to you, and me, and the rest of the Church, to get up and get ready for the great adventure ahead. Things must change - but how?
+So it falls to you - to all of us - to get up and get ready for what is coming. But how do you prepare for something this big?
 
-Jesus wants us to look up. The answer is in heaven, in the throne room of God. It is the place of worship, where we find our position in relation to him. We all have access to it, at any time.
+Jesus says: look up. The answer is not a strategy - it is a throne room. Heaven opens, and there it is: the place where everyone and everything finds its true position before God. The door stands open, always.
 
-But if you think worship in the throne room will simply solve all our problems, think again. Worship is far more than that: it is laying down our crowns, and giving our full loyalty to God in every part of our lives. And it is here that we meet Jesus the Crucified.
+Do not mistake worship for an easy fix, though. It costs something. It means laying your own crown down and giving God every part of your life, without exception. And in that room, one figure stands out from all the rest: a Lamb, looking as if it had been slain.
 
-He is our true hero and guide through this vast journey. He alone is worthy to rule the world. And once we accept his invitation, we begin a journey with no turning back.
+He is the hero of this whole story - worthy, when no one else was found worthy, to open what needed opening and rule what needed ruling. Once you follow him through that door, there is no going back to who you were before.

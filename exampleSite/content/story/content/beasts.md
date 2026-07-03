@@ -10,11 +10,11 @@ next: /story/content/harvest
 docType: story
 ---
 
-Let's look at the dragon's record so far:
-- He wanted to destroy Jesus - and failed.
-- He tried to defend his place in heaven - and was cast out.
-- He tried to destroy Israel - and failed again.
+Look at the dragon's scoreboard so far:
+- He tried to kill Jesus, and failed.
+- He tried to keep his place in heaven, and was thrown out.
+- He tried to wipe out Israel, and failed again.
 
-So now, out of the sea and out of the earth, he raises two beasts to finish the job for him: one to rule by force, one to deceive by wonders, both to be worshiped in his place. Together they imitate God, Christ, and the Spirit so closely that many are fooled.
+So he reaches for new weapons - two beasts, one clawing up out of the sea, one crawling up out of the earth. One rules by brute force, one deceives with wonders and signs, and together they are a grotesque copy of God, Christ, and the Spirit - close enough to fool almost everyone.
 
-But look closely, and the imitation is already a laughing stock. The beast conquers, but only by violence. It performs signs, but only to terrify. Whatever it builds will not stand - because the one it copies has already won.
+But look closer, and the imitation is already cracking. The beast conquers only by violence, dazzles only by trickery, and builds nothing that will last - because the One it is copying has already won, permanently.

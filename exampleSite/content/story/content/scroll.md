@@ -10,6 +10,6 @@ next: /story/content/witnesses
 docType: story
 ---
 
-The Church has tried its first strike, and the result is nothing but hardened hearts. Hard times alone do not change people.
+The first strike has failed. Hard times can crack open just about anything - except a heart set on the wrong thing.
 
-It takes the mystery of God to change them, and that mystery is about to be revealed - though it will take us some time to digest it.
+So a scroll appears, and John is told to eat it - and something in it will change everything, though it will take time to digest. This is not another disaster. It is a revelation: something true about God himself, sweet in the mouth and hard to swallow, about to break through where judgment alone could not.

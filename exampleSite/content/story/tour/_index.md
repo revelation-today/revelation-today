@@ -6,170 +6,170 @@ next: /welcome/done_story
 docType: story
 ---
 
-This will guide you through the story of Revelation. It will give you a quick overview of what this book is all about.
-
-It won't take long to read - you will be done in a few minutes.
+Here is the story of Revelation, start to finish, in a few minutes flat. No footnotes, no jargon - just the story.
 
 # How everything started
 
-In the beginning everything was good. God created everything perfectly, and then he installed Adam in the Garden of Eden as governor over it all.
+In the beginning, everything breathed. Light broke over water, the seas pulled back from dry ground, and every living thing found its place - until God knelt in the dust, shaped a man with his own hands, and breathed his own breath into him. Adam woke into a garden humming with life, and God handed him the whole of it to tend and to rule.
 
-Really, was everything good? Well, one thing was not good and this was that man was alone. So, God created Adam’s counterpart: Eve. Things then were very good.
+One thing alone was not good: Adam was alone. So God built Eve out of Adam's own side, and for one shining moment, everything was exactly as it should be.
 
-However Adam started to love the things God had given him more than God himself and his relationship with God broke fell apart.
+It did not last. Adam looked at everything God had given him - and wanted it more than he wanted God. That one small shift cracked the world in two.
 
-Adam and his descendants were banished from the Garden and so they decided to build towns and settle down. However, God still longed for fellowship with man, so he singled out Abraham to be his earthly companion. Abraham chose to live in relationship with God and he chose God over the gift of Isaac, his long-awaited son.
+Driven from the garden, Adam's children built their own gardens instead: cities, towers, kingdoms - anything to replace what they had lost. But God had not given up on friendship with the people he made. He turned to one man, Abraham, and asked him to walk away from everything familiar and trust him instead. Abraham said yes - even, in the end, when it cost him the son he had waited a lifetime for.
 
-And out of Abraham God made the people of Israel. 
+Out of Abraham, God grew a whole nation: Israel.
 
 # The promise
 
-With Israel things seem to change, but the question remains: Would the people love God’s gifts more than God and fail again? 
+Israel carried the promise - but not a different pattern. Would they love the gifts more than the Giver, the way Adam had?
 
-As we know, the covenant between God and man broke down because the majority of people turned their backs on God.
+They did. Generation after generation drifted, until the covenant lay in ruins and the people were driven from their own land, just as Adam had once been driven from his garden.
 
-But He promised a Redeemer who would come to Earth to set up an eternal kingdom for every person who wants to join.
+But God was not finished. He promised a Redeemer - someone who would come and build a kingdom that would never fall, open to anyone willing to walk through the door.
 
 # New beginnings ({{% bible val="Chapter 1" link="rev:1" lang="en" %}})
 
-Did you hear the news? It is true. The kingdom that we awaited is here! It has arrived and we are kings and priests. 
+Picture the scene first: an old man alone on a rocky island in the middle of the sea, exiled there for refusing to bow to anyone but Jesus. A Sunday morning like any other - until a voice behind him cracks like a trumpet, and everything changes.
 
-Before we celebrate this, there is an important task at hand, that can not wait. 
+He turns, and the vision breaks over him all at once: seven lampstands burning gold in the air, and standing among them, someone impossible to describe and impossible to look away from. Eyes like fire. Feet like bronze pulled glowing from a furnace. A voice like the roar of a waterfall, and a face too bright to look at directly, like staring straight into the sun. Seven stars rest in his right hand, and a sword - sharp on both edges - comes from his mouth.
 
-We see in a breathtaking vision what is the purpose of the church: To be the light of the world while being fully dependent on Jesus. Nothing more is expected from the Church, but also nothing less.
+John does not stay standing. He falls like a dead man.
 
-The question is: Is the Church ready for this?
+Then comes a hand on his shoulder, and words that undo the fear before it even finishes forming: "Don't be afraid. I am the First and the Last, the Living One. I died - and look, I am alive forever. And I hold the keys of Death and of the Grave itself."
+
+Word breaks through like sunrise: it is true. The kingdom you have been waiting for has already arrived, and you - yes, you - are a king and a priest in it.
+
+Before the celebration, one urgent thing has to be said. This vision cuts straight to the heart of what the Church is actually for: to shine, like those seven lampstands - burning not on her own fuel, but held alight by the very one standing among them. Nothing more is asked of her. Nothing less will do.
+
+So: is she ready?
 
 More: {{% int_link val="the vision" link="/quick/content/vision" %}}
 
 # A grand disaster ({{% bible val="Chapter 2-3" link="rev:2-3" lang="en" %}})
 
-Let’s look at the seven churches. 
+Seven churches, seven letters, seven mirrors held up to seven very different congregations.
 
-We start with Ephesus, the hard-working church. They work, endure, and keep the teachings of Jesus, but the main thing, love, the reason why they exist, is missing. This church has no purpose and because of this it would be better she did not exist!
+Ephesus works itself to exhaustion - correct in every doctrine, faithful in every duty - and has quietly let love slip through its fingers. Without it, all the labor amounts to nothing. Better, Jesus says, that this church did not exist at all than to go on like this.
 
-But the next church, Smyrna, is very different. This small town is overwhelmed by an ungodly society; the church is being persecuted and hated by the Jews. While this is not a church you might want to belong to, it is one of the only two churches that receive only praises from Jesus.
+Smyrna could not be more different. Poor, hated, squeezed on every side by a hostile city - and she is one of only two churches Jesus has nothing but praise for.
 
-Also, Pergamon is under high pressure as the throne of Satan himself is in there. They go through a great deal - even martyrdom - but they allow wrong teaching and that leads the people away from God.
+Pergamum stands its ground in the shadow of Satan's own throne. Some die for it. And yet inside the walls, false teaching has slipped in unchallenged, quietly leading people away.
 
-In Thyatira things are even worse. Here, the cause of the trouble is the leadership itself.
+In Thyatira, the rot starts at the top: the leadership itself has gone astray.
 
-Sardes is not much better. This congregation think they can manage everything without God’s help and they nearly always completely fail.
+Sardis looks alive from the outside. Underneath, she is already dead - convinced she can manage just fine without God, and failing at nearly everything because of it.
 
-The church at Philadelphia also receives only praises from Jesus. However, this is still not the church you’d want to join, because on top of all the other problems, the members of this church are financially exhausted.
+Philadelphia is the other church Jesus praises without reservation - small, worn down, with nothing left in the bank, and still faithful.
 
-This leaves us with Laodicea which is the only church that don't receive any kind of praise from Jesus, but the church is very impressed by itself. 
-Yet even Jesus though is not impressed with them, he does not give up on them. Instead he gives loving advice, warnings and promises.
+Then there is Laodicea: lukewarm, self-satisfied, blind to how poor she really is - the only church that receives no praise at all. And yet even here, Jesus does not walk away. He knocks. He warns. He still wants in.
 
 More: {{% int_link val="the letters" link="/quick/content/letters" %}}
 
 # Guidance is ahead ({{% bible val="Chapter 4-5" link="rev:4-5" lang="en" %}})
 
-So, it’s up to you and me and the rest of the Church to get up and get ready for the big adventure. Things must change, but how?
+So it falls to you - to all of us - to get up and get ready for what is coming. But how do you prepare for something this big?
 
-Jesus wants us to look up. The solution is in heaven, in the throne room of God. It is the place of worship where we find our position in relation to God. We all have access to it at any time.
+Jesus says: look up. The answer is not a strategy - it is a throne room. Heaven opens, and there it is: the place where everyone and everything finds its true position before God. The door stands open, always.
 
-But if you think that worshipping (in the throne room) will solve all the problems, you are wrong. 
-Worship is so much more than you think: It is laying down your crown and expressing our full loyalty to God in all aspects of our lives. And it is here that we meet Jesus the Crucified.
+Do not mistake worship for an easy fix, though. It costs something. It means laying your own crown down and giving God every part of your life, without exception. And in that room, one figure stands out from all the rest: a Lamb, looking as if it had been slain.
 
-He is our real hero and guide throughout this huge journey. He is worthy to rule the world. 
-But we should understand that when we accept his invitation, we start a journey and there is no turning back.
+He is the hero of this whole story - worthy, when no one else was found worthy, to open what needed opening and rule what needed ruling. Once you follow him through that door, there is no going back to who you were before.
 
 More: {{% int_link val="worship" link="/quick/content/worship" %}}
 
 # Evil awakes - you need to join the army ({{% bible val="Chapter 6-7" link="rev:6-7" lang="en" %}})
 
-Jesus breaks the seals to reveal that he is not the only one who intends to rule our world. Satan claims the same position and he shows up in shiny armor. 
-Yet, Jesus shows us that behind all Satan’s promises lie violence towards the people who go along with him. 
-Jesus wants us to live for him and to overcome injustice because the consequence of not doing that is total disaster. 
+The seals break, one by one, and each one lets something loose.
 
-Already, there is so much suffering in the world. The Church is right in the middle of the chaos and cries out to God. 
-But we, the Church, must remain steady until Jesus comes and ends it all.
+First a white horse gallops out - a rider with a bow, handed a crown, already bent on conquest. For one heartbeat it looks like victory. It is not: Jesus is not the only one who wants your allegiance, and this rider is a counterfeit, borrowing the color of the true King's horse to sell a lie.
 
-Until this happens, we need to actively fight in the army of God. What does this look like? 
-Our fight is not with violence (like the devil’s tactics); instead we fight as an army of worshipers that endures anything out of the love for their Lord.
+Strip away the costume, and violence is all that is left. Behind the white horse comes a blood-red one, and peace is torn off the earth like a scab - people turning on people with drawn swords. Behind the red horse comes a black one, its rider holding a pair of scales: a day's wages for a day's bread, while oil and wine stay safe for those who can still afford them. And behind the black horse comes a horse the color of ash, and its rider's name is Death, with the grave riding at his heels.
+
+Conquest gives way to war, war to famine, and famine to death.
+
+Then the seal breaks that reveals not armies but an altar - and under it, the souls of those killed for staying loyal, crying out with one voice: how long, O Lord, holy and true, until you judge the earth and avenge our blood? They are told to wait, just a little longer.
+
+The sky itself answers next: the sun goes black, the moon turns to blood, the stars fall like fruit shaken from a tree, and the sky peels back like a scroll being rolled up. The world is already drowning in what it has brought on itself, and the Church stands in the middle of the wreckage, crying out too.
+
+But before it gets any worse, something happens: God's people are sealed. Marked. Claimed, in the middle of the storm, as unmistakably his.
+
+This is the army of God - though it fights like no army you have ever seen. No swords, no borrowed violence, just relentless worship and a loyalty that outlasts everything the enemy can throw at it. Whatever comes next, one thing is already settled: you know whose side you are on.
 
 More: {{% int_link val="the seals" link="/quick/content/seals" %}}, {{% int_link val="army of god" link="/quick/content/army" %}}
 
-
 # The first strike ({{% bible val="Chapter 8-9" link="rev:8-9" lang="en" %}})
 
-It is time for the Church to launch its power with the same force as Jesus. 
-Just as the Crucified shakes the world, the prayer of the Church does the same, and they cause the trumpet sound that shakes the earth. 
-When food, water, trade, security is all gone, will this drive the people to look for the real deal? No! They continue to stick to their idols.
+Now it is the Church's turn to shake the world - not with weapons, but the way Jesus always did: through what looks like weakness. Prayer rises like incense, and the trumpets sound, and the earth itself begins to tremble.
 
-They don’t even let go when their idols turn against them and take away their hope, so that they would rather end their lives. 
-Even though the lost suffer tremendously, they still stick to their idols. 
+Food fails. Water turns bitter. Trade collapses. Security disappears. Surely now people will finally look up and ask what is real?
+
+They do not. Even as their idols turn on them - even as those same idols strip away every last shred of hope, until death starts to look like relief - people cling tighter, not looser. Suffering alone has never been enough to change a human heart.
 
 More: {{% int_link val="the trumpets" link="/quick/content/trumpets" %}}
 
 # Reality check ({{% bible val="Chapter 10" link="rev:10" lang="en" %}})
 
-The Church has failed. Their first strike resulted in nothing but hardened hearts. Hard times alone do not change people. 
+The first strike has failed. Hard times can crack open just about anything - except a heart set on the wrong thing.
 
-It is the mystery of God that changes them. And this mystery will be revealed now - although it will take us some time to digest.
+So a scroll appears, and John is told to eat it - and something in it will change everything, though it will take time to digest. This is not another disaster. It is a revelation: something true about God himself, sweet in the mouth and hard to swallow, about to break through where judgment alone could not.
 
 More: {{% int_link val="the small scroll" link="/quick/content/scroll" %}}
 
 # The big clash ({{% bible val="Chapter 11-13" link="rev:11-13" lang="en" %}})
 
-This is the time when we see the material and the spiritual world as they really are. 
-Firstly, the temple of God’s presence is not a place where we have to gain favor in order to please God, it is the place where we show our hearts by loving him and staying loyal and faithful to him in this world.
+Step past the curtain, and you see both worlds as they truly are. The temple is not a place you earn your way into - it is where your loyalty either shows itself, or does not.
 
-The Church does not look convincing now. It witnesses to the world with authority but is constantly on the defencive and is finally destroyed. 
-And then the whole world celebrates. How can this be?
+Two witnesses testify with everything they have, and the world kills them for it, then throws a party over the bodies. For three and a half days, it looks like total defeat.
 
-And yet, this is not the end. In their deepest and weakest moment, the Church is victorious. 
-The world needs to see that in times of suffering we have a convincing hope and that they too can hang on to this hope. 
-This is only possible if the Church is ready to walk as a witness in difficult times. In doing this we’ll resemble Jesus perfectly: 
-despite authority being on the run, it finally conquers, is resurrected, and lifted up.
+Then they stand up. That is exactly the pattern the Church herself is asked to live: not a victory that skips over suffering, but one that walks straight through it and comes out the other side standing.
 
-But what happens when the Church is weak when the devil is around? Let’s have a look at his achievements:
-- He wanted to destroy Jesus - and failed.
-- He tried to defend his place in heaven - and was cast out.
-- He tried to destroy Israel - and failed again.
-- Finally, he decides to persecute the Church and imitate God - and becomes a laughing stock.
+Now the same story is told again, pulled back to reveal the frame around it - a very different Christmas story, played out across the sky itself. A woman appears, clothed with the sun, the moon under her feet, twelve stars circling her head like a crown. She is pregnant, and crying out in the pain of labor. Then the sky tears open again, and something far worse appears: an enormous red dragon, seven heads crowned, ten horns, a tail vast enough to sweep a third of the stars out of heaven and hurl them to the earth. He plants himself directly in front of the woman, waiting - the instant the child is born, he means to swallow him whole.
 
-Our task is not to defeat the devil - Jesus has already done that - but to draw the people into a relationship with God.
+The child is born anyway - a son who will rule every nation - and before the dragon's jaws can close, the boy is snatched up, safe, to God's own throne. War breaks out in heaven: Michael and his angels against the dragon and his, and the dragon loses. There is no place for him there anymore. He is hurled down to the earth, beaten by the blood of the Lamb and the plain testimony of people who refused to save their own lives to escape him. Furious, and running out of time, he turns his rage on the woman instead - and on everyone who belongs to her.
+
+Take heart anyway: defeating the dragon was never your job. Jesus already did that, in heaven, before it ever reached you. Look at the dragon's scoreboard: he tried to kill Jesus, and failed. He tried to keep his place in heaven, and was thrown out. He tried to wipe out Israel, and failed again.
+
+So now he reaches for new weapons - two beasts, one out of the sea, one out of the earth. One rules by brute force, one deceives with wonders, and together they are a grotesque copy of God, Christ, and the Spirit, close enough to fool almost everyone. But look closer: the imitation is already cracking. It conquers only by violence and builds nothing that will last, because the One it is copying has already won.
 
 More: {{% int_link val="the witnesses" link="/quick/content/witnesses" %}}, {{% int_link val="Jesus" link="/quick/content/jesus" %}}, {{% int_link val="dragon and beasts" link="/quick/content/beasts" %}}
 
 # Victory ({{% bible val="Chapter 14-16" link="rev:14-16" lang="en" %}})
 
-Jesus’ victory at the Cross and the testimony of the Church did it all and now the enemy is scattered around. 
-The faithful sing in victory; the only skill they required was loyalty to God.
+Jesus already won it at the cross, and the Church has kept faith with that victory ever since - and now the enemy's forces scatter like smoke. On a sea of glass and fire, the faithful sing. Their only qualification was staying loyal.
 
-But the ones that tried to avoid the consequences by playing along with the devil, now face a worse consequence.
+Not everyone gets to sing. The ones who played it safe and sided with the beast to avoid the cost now face a far heavier one. Two sickles swing across the earth - one harvest gathers in, one is for judgment. Truth stops being theoretical.
 
-It is time to check. The two harvests reveal the hard reality: some will be saved and others are lost.
+Then God's zeal pours out like something long held back and finally released - bowl after bowl, until the kingdom built on lies has nowhere left to stand. The armies of the earth gather for one last stand, at a place whose name has become a byword for disaster: Armageddon. They come certain of victory.
 
-Now God’s zeal steps in. 
-His actions shake the kingdom of the devil again and again until it collapses. God targets false loyalty, the attacks against his people, and hardening of their hearts. But at last the deception of the devil has been revealed.
+They are already finished. They just do not know it yet.
 
 More: {{% int_link val="two harvests" link="/quick/content/harvest" %}}, {{% int_link val="bowls of wrath" link="/quick/content/bowls" %}}
 
 # The ultimate battle ({{% bible val="Chapter 17-19" link="rev:17-19" lang="en" %}})
 
-There is one more dark mystery that needs to be revealed before God’s ultimate goal is reached, and it becomes very clear that this goal is not to defeat the devil, but to ensure the union of God with his people.
+One deception still waits to be unmasked before the story can end - and unmasking it reveals what this was always about: not simply defeating evil, but God binding himself to his people forever, like a marriage.
 
-It is the perfect deception, and many in the Church fall for it too: A beautiful woman blesses the whole world with prosperity. 
-She is ornamented with the jewels of the Church, but if you take away the dress the beast: the strong enforcer of the devil is revealed. 
-This woman is not the bride of Christ, she is a harlot!
+Here is the deception: a woman, dazzling, draped in jewels that should have belonged to the bride, promising prosperity to anyone who will drink from her cup. Pull back the dress, though, and there is the beast underneath, teeth and all. She is no bride. She is a harlot - and plenty inside the Church itself have fallen for the act.
 
-Many are deceived by this perfect charade. 
-This last attack seems to be perfect, but the opposite is the case: the people who are directed by the devil to attack the Church are actually being guided by Jesus to destroy the harlot instead.
+Her final performance looks flawless. It is not. The very powers the devil sends to destroy the Church turn instead and tear the harlot apart - his own weapon, used against him.
 
-Now the way is free to finally destroy the devil and his minions.
+The road is finally clear to finish him for good.
 
 More: {{% int_link val="the harlot" link="/quick/content/harlot" %}}
 
 # A new beginning ({{% bible val="Chapter 20-22" link="rev:20-22" lang="en" %}})
 
-It is done. Finally! You may not have noticed it but the church was always in power but with a different kind of power and during this time she guided the fate of humanity. 
-But it is time for the Final Judgment where we learn who will spend eternity with God and will be banished from his presence.
+It is done, even if you never saw it happening. All along, while it looked like the Church was losing, she was ruling - just not with the kind of power anyone was watching for. Now comes the last reckoning: a final judgment, where it is decided, once and for all, who spends eternity with God, and who has chosen, all along, not to.
 
-After this, the bride meets the groom and joins him for all eternity.
+And then: a wedding. A city comes down out of heaven, dressed like a bride on her wedding day, and a voice from the throne says what everyone has been waiting the whole story to hear: "Look - God's home is now among his people. He will live with them. He will wipe every tear from their eyes. There will be no more death, no more mourning, no more crying, no more pain, because all of that has already passed away."
 
-And, having understood the story, you can go ahead and live accordingly in your daily life.
+The city itself is almost too much to describe: walls of jasper, streets of gold so pure it looks like glass, foundations set with every color of jewel, twelve gates and each one carved from a single pearl. There is no temple anywhere in it, because God himself, and the Lamb, are the temple now. There is no sun and no moon, because they are simply not needed anymore: the glory of God is the light, the Lamb is the lamp, and the gates never close because there is no more night left to shut them against.
+
+Through the middle of it runs a river, clear as crystal, flowing straight from the throne of God, with a tree on either bank bearing fruit every month, and leaves for healing every nation that ever bled. The curse - the one that started all the way back in a different garden - is gone for good. God's people will see his face at last, wear his name, and reign with him forever.
+
+The bride and the groom, together at last, for good. God himself moves in with his people - no more distance left to close.
+
+And now that you know the story - go and live like you believe it.
 
 More: {{% int_link val="1000 years" link="/quick/content/1000y" %}}, {{% int_link val="heaven" link="/quick/content/paradise" %}}

@@ -1,16 +1,25 @@
 ---
-title: "Ein neuer Anfang (Kapitel 1)"
+title: "Die Vision (Kapitel 1)"
 weight: 1
 base: /quick/content/vision
-prev: /story/bible/daniel
+appl: /appl/content/vision
+expl: /expl/content/vision/setting-the-foundation
+kids: /kids/content/vision
+prev: /story/tour
 next: /story/content/letters
 docType: story
 ---
 
-{{% bible val="Kapitel 1" link="rev:1" lang="de" %}}
+Stell dir zuerst die Szene vor: ein alter Mann, allein auf einer felsigen Insel mitten im Meer, dorthin verbannt, weil er sich weigerte, sich vor irgendjemandem außer Jesus zu beugen. Ein Sonntagmorgen wie jeder andere - bis eine Stimme hinter ihm wie eine Posaune erklingt und sich alles ändert.
 
-<a name="55d5"></a>
-Aber vielleicht fragst du dich, ob es nicht noch mehr zu sagen gibt als: Jesus ist für meine Sünden gestorben, und ich sollte dies akzeptieren und anderen von Zeit zu Zeit davon erzählen (Zeugnis geben). Nun, da ist mehr. Es ist viel mehr, und ich weiß nicht, ob Ihnen das gefällt. Denn wir sind Könige und Königinnen und haben eine Verantwortung für diese Welt. Die Uhr tickt, und wir haben eine wichtige Aufgabe vor uns. Die Rettung der ganzen Welt. Und dabei geht es nicht um mich, sondern um die Gemeinde und ihr Geheimnis.
+Er dreht sich um, und die Vision bricht auf einmal über ihn herein: sieben goldene Leuchter, die in der Luft brennen, und mittendrin jemand, der unmöglich zu beschreiben und unmöglich zu übersehen ist. Augen wie Feuer. Füße wie Bronze, glühend aus dem Schmelzofen gezogen. Eine Stimme wie das Tosen eines Wasserfalls, und ein Gesicht, zu hell, um es direkt anzusehen, wie ein Blick direkt in die Sonne. Sieben Sterne ruhen in seiner rechten Hand, und aus seinem Mund kommt ein Schwert, geschärft auf beiden Seiten.
 
-Die Gemeinde soll das Licht der Welt sein und aus der Kraft Jesu leben. Das ist nicht mehr und nicht weniger, als Jesus von der Gemeinde denkt. Aber wird die Gemeinde diesem Anspruch gerecht?
+Johannes bleibt nicht stehen. Er fällt wie ein Toter zu Boden.
 
+Dann kommt eine Hand auf seine Schulter, und Worte, die die Angst auflösen, noch bevor sie sich ganz formen kann: „Fürchte dich nicht. Ich bin der Erste und der Letzte, der Lebendige. Ich war tot - und siehe, ich lebe für immer und ewig. Und ich habe die Schlüssel des Todes und des Totenreichs.“
+
+Die Nachricht bricht herein wie der Sonnenaufgang: Es ist wahr. Das Reich, auf das du gewartet hast, ist schon da, und du - ja, du - bist darin König und Priester.
+
+Bevor gefeiert wird, muss eine dringende Sache gesagt werden. Diese Vision trifft genau ins Herz dessen, wofür die Gemeinde eigentlich da ist: zu leuchten, wie diese sieben Leuchter - nicht aus eigener Kraft brennend, sondern am Leben gehalten von dem, der mitten unter ihnen steht. Nicht mehr wird von ihr erwartet. Aber auch nicht weniger.
+
+Ist sie also bereit?

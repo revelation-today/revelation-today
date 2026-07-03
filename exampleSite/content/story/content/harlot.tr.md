@@ -1,20 +1,18 @@
 ---
-title: "Nihai savaş (Bölüm 17–19)"
-weight: 90
+title: "Fahişe (Bölüm 17-19)"
+weight: 130
 base: /quick/content/harlot
-prev: /story/content/harlot
+appl: /appl/content/harlot
+expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
+prev: /story/content/bowls
 next: /story/content/1000y
 docType: story
 ---
 
-{{% bible val="Bölüm 17–19" link="rev:17" lang="tr" %}}
+Hikâye bitmeden önce açığa çıkarılmayı bekleyen bir aldatmaca daha var - ve onu açığa çıkarmak, bunun her zaman ne hakkında olduğunu gösteriyor: kötülüğü yenmekten çok, Tanrı'nın kendisini halkına, bir evlilikteki gibi, sonsuza dek bağlaması.
 
-<a name="517a"></a>
-Hedefe ulaşılana kadar açığa çıkarılması gereken bir ve karanlık bir gizem daha vardır. Ve amacın şeytanı yenmek değil, Tanrı’nın halkıyla birleşmesi olduğu çok açık hale gelir.
+İşte aldatmaca: göz kamaştırıcı bir kadın, aslında geline ait olması gereken mücevherlerle süslenmiş, kâsesinden içen herkese refah vaat ediyor. Ama elbiseyi kaldır, ve altından dişleriyle birlikte canavar çıkıyor. O bir gelin değil. O bir fahişe - ve kilisenin içinden de pek çoğu bu gösteriye kanmış durumda.
 
-Bu kilisenin mükemmel bir aldatmacasıdır: Tüm dünyayı refahla kutsayan güzel bir kadın. Kilisenin mücevherleriyle süslenmiştir ve pek çok kişi bunun bir parçasıdır. Ama elbiseyi kaldırdığınızda canavar ortaya çıkar — şeytanın güçlü uygulayıcısı. Ve bu kadın Mesih’in gelini değil, bir fahişedir.
+Son performansı kusursuz görünüyor. Değil. Şeytanın kiliseyi yok etmek için gönderdiği güçlerin ta kendisi, bunun yerine fahişeyi paramparça ediyor - kendi silahı, kendisine karşı kullanılıyor.
 
-Pek çok kişi bu mükemmel maskaralıkla kandırılmaktadır. Bu son saldırı mükemmel gibi görünüyordu. Ama durum tam tersidir. Şeytan tarafından kiliseye saldırmaları için yönlendirilen insanlar, İsa tarafından bunun yerine fahişeyi yok etmeleri için yönlendirilirler.
-
-Artık şeytanı ve yardakçılarını nihayet yok etmenin yolu açılmıştır.
-
+Onu sonunda bitirmek için yol artık açık.

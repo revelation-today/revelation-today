@@ -1,30 +1,29 @@
 ---
-title: "Die Ernüchterung (Kapitel 2–3)"
+title: "Die Briefe an die Gemeinden (Kapitel 2-3)"
 weight: 10
 base: /quick/content/letters
+appl: /appl/content/letters
+expl: /expl/content/letters/the-angel-of-the-churches
+kids: /kids/content/letters
 prev: /story/content/vision
 next: /story/content/worship
 docType: story
 ---
 
-{{% bible val="Kapitel 2–3" link="rev:2" lang="de" %}}
+Sieben Gemeinden, sieben Briefe, sieben Spiegel, die sieben ganz unterschiedlichen Gemeinden vorgehalten werden.
 
-<a name="83ff"></a>
-Schau dir jetzt die Gemeinden an. Wir beginnen mit Ephesus, der hart arbeitenden Gemeinde. Sie arbeiten, halten durch und halten die Lehre sauber, aber das Wichtigste fehlt: Die Liebe, der Grund, warum sie existiert. Diese Gemeinde hat kein Ziel und könnte auch verschwinden.
+Ephesus arbeitet sich bis zur Erschöpfung ab - lehrmäßig korrekt, treu in jeder Pflicht - und hat dabei still die Liebe aus den Händen gleiten lassen. Ohne sie ist alle Mühe umsonst. Besser, sagt Jesus, diese Gemeinde gäbe es gar nicht, als so weiterzumachen.
 
-Aber ganz anders ist die nächste: Smyrna. Eine kleine Stadt, überwältigt von einer gottlosen Gesellschaft, die Gemeinde in Verfolgung und von den Juden gehasst. Das ist keine Gemeinde, in der man sein möchte, aber eine der beiden einzigen, die von Jesus hoch gelobt wird.
+Smyrna könnte kaum unterschiedlicher sein. Arm, gehasst, von einer feindseligen Stadt von allen Seiten bedrängt - und sie ist eine von nur zwei Gemeinden, für die Jesus nichts als Lob übrig hat.
 
-Auch Pergamon steht unter großem Druck, denn dort befindet sich der Thron des Satans selbst. Sie haben viel durchgemacht — sogar den Märtyrertod — aber sie lassen falsche Lehren zu, die die Menschen von Gott wegführen.
+Pergamon hält stand, im Schatten von Satans eigenem Thron. Manche sterben dafür. Und doch hat sich innerhalb der Mauern falsche Lehre unangefochten eingeschlichen und führt Menschen still von Gott weg.
 
-In Thyatira ist es noch schlimmer: Die Ursache der Probleme ist die Leitung selbst.
+In Thyatira beginnt die Fäulnis ganz oben: Die Leitung selbst ist vom Weg abgekommen.
 
-In Sardes ist es nicht viel besser, denn hier glauben die Menschen, sie könnten alles ohne Gottes Hilfe schaffen und versagen fast völlig.
+Sardes wirkt von außen lebendig. Von innen ist sie längst tot - überzeugt, es auch ohne Gott zu schaffen, und scheitert deshalb an fast allem.
 
-Aber Philadelphia ist ohne Tadel. Allerdings nicht die Gemeinde, der man beitreten möchte, denn zusätzlich zu all den anderen Problemen ist diese Gemeinde finanziell am Ende, einschließlich ihrer Mitglieder.
+Philadelphia ist die andere Gemeinde, die Jesus ohne Einschränkung lobt - klein, erschöpft, ohne jede Rücklage, und trotzdem treu.
 
-Bleibt noch Laodizea, das als einziges von Jesus gelobt wird, obwohl die Gemeinde von sich selbst sehr beeindruckt ist.
-
-Aber Jesus gibt sie nicht auf, er gibt ihnen individuelle Ratschläge, Warnungen und Verheißungen.
+Dann ist da noch Laodizea: lauwarm, selbstzufrieden, blind dafür, wie arm sie wirklich ist - die einzige Gemeinde, die kein Lob erhält. Und doch wendet Jesus sich selbst hier nicht ab. Er klopft an. Er warnt. Er will immer noch hinein.
 
 ![](/images/Churches_de.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" -->
-

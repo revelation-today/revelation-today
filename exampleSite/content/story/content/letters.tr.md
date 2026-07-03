@@ -1,16 +1,28 @@
 ---
-title: "Büyük bir felaket (Bölüm 2–3)"
+title: "Kiliselere mektuplar (Bölüm 2-3)"
 weight: 10
 base: /quick/content/letters
+appl: /appl/content/letters
+expl: /expl/content/letters/the-angel-of-the-churches
 prev: /story/content/vision
 next: /story/content/worship
 docType: story
 ---
 
-{{% bible val="Bölüm 2–3" link="rev:2" lang="tr" %}}
+Yedi kilise, yedi mektup, yedi çok farklı topluluğa tutulan yedi ayna.
 
-<a name="83ff"></a>
-Şimdi kiliselere bakın. Çalışkan kilise Efes’le başlıyoruz. Çalışıyorlar, katlanıyorlar ve öğretiyi temiz tutuyorlar, ama asıl şey eksik: Sevgi, var olmalarının nedeni. Bu kilisenin hiçbir amacı yoktur ve yok olabilir.Ama bir sonraki kilise çok farklıdır: Smyrna. Küçük bir kasaba, dinsiz bir toplum tarafından ezilmiş, kilise zulüm altında ve Yahudiler tarafından nefret ediliyor. Bu, içinde olmak isteyebileceğiniz bir kilise değil, ama İsa’dan büyük övgüler alan iki kiliseden biri.Ayrıca Bergama Şeytan’ın tahtının da orada olması nedeniyle büyük baskı altındadır. Çok şey atlatırlar — şehitlik bile — ama insanları Tanrı’dan uzaklaştıran yanlış öğretilere izin verirler.Thyatira’da durum daha da kötüdür: Sorunun nedeni önderliğin kendisidir.Sardes’te durum daha iyi değildir, çünkü burada insanlar Tanrı’nın yardımı olmadan her şeyi halledebileceklerini düşünürler ve neredeyse tamamen başarısız olurlar.Ancak Philadelphia suçsuzdur. Ancak katılmak isteyeceğiniz bir kilise değildir, çünkü diğer tüm sorunların yanı sıra bu kilise üyeleri de dahil olmak üzere mali açıdan tükenmiştir.Geriye bir tek Laodikya kalıyor ki, o da İsa’dan her türlü övgüyü alan tek kilisedir, hatta kilise kendisinden çok etkilenmiştir.Ancak İsa onlardan vazgeçmez, bireysel öğütler, uyarılar ve vaatler verir.
+Efes kendini tükenene kadar çalıştırıyor - her öğretide doğru, her görevde sadık - ve sevgiyi sessizce elinden kaçırmış. Onsuz, bütün emek boşuna. İsa'ya göre, böyle devam edeceğine bu kilisenin hiç var olmaması daha iyi.
+
+Sonraki kilise, İzmir, bundan çok farklı. Yoksul, nefret edilen, düşman bir şehir tarafından her yandan sıkıştırılan - ve İsa'nın yalnızca övgü dolu sözler söylediği iki kiliseden biri.
+
+Bergama, Şeytan'ın kendi tahtının gölgesinde direniyor. Bazıları bunun için ölüyor. Yine de surların içinde, yanlış öğreti fark edilmeden sızmış ve insanları sessizce yoldan çıkarıyor.
+
+Tiyatira'da çürüme en tepeden başlıyor: önderliğin kendisi yoldan sapmış.
+
+Sart dışarıdan canlı görünüyor. İçeriden ise çoktan ölü - Tanrı'sız da idare edebileceğine ikna olmuş, ve bu yüzden neredeyse her konuda başarısız.
+
+Filadelfiya, İsa'nın çekincesiz övdüğü diğer kilise - küçük, yorgun, elinde hiçbir şey kalmamış, ve hâlâ sadık.
+
+Sonra Laodikya var: ne sıcak ne soğuk, kendinden hoşnut, gerçekte ne kadar yoksul olduğunu görmeyen - hiçbir övgü almayan tek kilise. Yine de İsa burada bile geri çekilmiyor. Kapıyı çalıyor. Uyarıyor. Hâlâ içeri girmek istiyor.
 
 ![](/images/Churches_tr.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" -->
-

@@ -10,10 +10,10 @@ next: /story/content/1000y
 docType: story
 ---
 
-One more dark mystery must be revealed before God's ultimate goal is reached - and it becomes clear that this goal was never merely to defeat the devil, but to unite himself with his people.
+One deception still waits to be unmasked before the story can end - and unmasking it reveals what this was always about: not simply defeating evil, but God binding himself to his people forever, like a marriage.
 
-It is the perfect deception, and many in the Church fall for it too: a beautiful woman, blessing the whole world with prosperity, adorned with jewels that should belong to the bride. But take away the dress, and the beast is revealed - the devil's enforcer underneath. This woman is no bride. She is a harlot.
+Here is the deception: a woman, dazzling, draped in jewels that should have belonged to the bride, promising prosperity to anyone who will drink from her cup. Pull back the dress, though, and there is the beast underneath, teeth and all. She is no bride. She is a harlot - and plenty inside the Church itself have fallen for the act.
 
-Many are taken in by the charade. But this last attack, which looks so perfect, is nothing of the sort: the very powers the devil sends to attack the Church are turned by Jesus to destroy the harlot instead.
+Her final performance looks flawless. It is not. The very powers the devil sends to destroy the Church turn instead and tear the harlot apart - his own weapon, used against him.
 
-Now the way is open, at last, to destroy the devil and his allies for good.
+The road is finally clear to finish him for good.

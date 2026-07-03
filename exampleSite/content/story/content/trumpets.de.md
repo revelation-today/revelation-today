@@ -1,16 +1,17 @@
 ---
-title: "Der erste Angriff (Kapitel 8–9)"
-weight: 50
+title: "Die Posaunen (Kapitel 8-9)"
+weight: 60
 base: /quick/content/trumpets
-prev: /story/content/seals
+appl: /appl/content/trumpets
+expl: /expl/content/trumpets/the-trumpets-in-revelation
+kids: /kids/content/trumpets
+prev: /story/content/army
 next: /story/content/scroll
 docType: story
 ---
 
-{{% bible val="Kapitel 8–9" link="rev:8" lang="de" %}}
+Jetzt ist es an der Gemeinde, die Welt zu erschüttern - nicht mit Waffen, sondern so, wie Jesus es immer tat: durch das, was wie Schwäche aussieht. Gebet steigt auf wie Weihrauch, und die Posaunen erklingen, und die Erde selbst beginnt zu beben.
 
-<a name="3037"></a>
-Es ist an der Zeit, dass die Gemeinde ihre Macht entfaltet. Mit der gleichen Kraft, mit der Jesus als Gekreuzigter die Welt erschüttert, tut das Gebet der Gemeinde dasselbe. Sie lösen die Trompeten aus, der die Erde erschüttert. Nahrung, Wasser, Handel, Sicherheit — alles ist weg. Wird das die Menschen dazu bringen, sich nach dem Wahren umzusehen? Nein! Sie halten an ihren Götzen fest.
+Nahrung versagt. Wasser wird bitter. Handel bricht zusammen. Sicherheit verschwindet. Werden die Menschen jetzt endlich aufschauen und fragen, was wirklich zählt?
 
-Sie lassen auch dann nicht locker, wenn ihre Götzen sich gegen sie wenden und sie selbst die Hoffnung verlieren lassen, so dass sie am liebsten ihr Leben beenden würden, es aber nicht können und es schließlich doch tun. Die Gemeinde ist geschützt — sie wird nicht aufgeben. Aber die Menschen leiden enorm und halten trotzdem an ihren Götzen fest.
-
+Nein. Selbst als sich ihre Götzen gegen sie wenden - selbst als dieselben Götzen ihnen den letzten Rest Hoffnung nehmen, bis der Tod wie eine Erleichterung erscheint -, klammern sich die Menschen noch fester, nicht loser. Leid allein hat noch nie ausgereicht, um ein menschliches Herz zu verändern.

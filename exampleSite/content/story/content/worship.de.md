@@ -1,20 +1,19 @@
 ---
-title: "Hilfe naht (Chapter 4–5)"
+title: "Anbetung (Kapitel 4-5)"
 weight: 20
 base: /quick/content/worship
+appl: /appl/content/worship
+expl: /expl/content/worship/worship-in-the-throne-room
+kids: /kids/content/worship
 prev: /story/content/letters
 next: /story/content/seals
 docType: story
 ---
 
-{{% bible val="Chapter 4–5" link="rev:4" lang="de" %}}
+Also liegt es an dir - an uns allen -, aufzustehen und uns bereitzumachen für das, was kommt. Aber wie bereitet man sich auf etwas so Großes vor?
 
-<a name="55b1"></a>
-Es liegt also an Ihnen und mir und der ganzen Gemeinde, aufzustehen und sich auf das große Abenteuer vorzubereiten, indem wir nach oben schauen.
+Jesus sagt: Schau nach oben. Die Antwort ist keine Strategie - sie ist ein Thronsaal. Der Himmel öffnet sich, und da ist er: der Ort, an dem alles und jeder seinen wahren Platz vor Gott findet. Die Tür steht immer offen.
 
-Die Lösung für all das liegt im Himmel: Der Thronsaal Gottes, zu dem wir alle jederzeit Zugang haben. Es ist der Ort der Anbetung, wo wir unseren Platz in der Beziehung zu Gott finden.
+Verwechsle Anbetung aber nicht mit einer schnellen Lösung. Sie kostet etwas. Sie bedeutet, die eigene Krone abzulegen und Gott jeden Teil deines Lebens zu geben, ohne Ausnahme. Und in diesem Saal sticht eine Gestalt aus allen anderen hervor: ein Lamm, das aussieht, als wäre es geschlachtet worden.
 
-Aber wenn Sie denken, dass Sitzen und Anbetung alle Probleme lösen, liegen Sie falsch, denn Anbetung ist so viel mehr: Es ist die volle Treue zu Gott in allen Aspekten unseres Lebens. Und hier treffen wir auf Jesus, den Gekreuzigten.
-
-Er ist unser wahrer Held und Leiter auf dieser großen Reise, denn er ist würdig, die Welt zu regieren. Aber wenn wir dies akzeptieren und leben, beginnen wir eine Reise, auf der es kein Zurück mehr gibt.
-
+Er ist der Held dieser ganzen Geschichte - würdig, wo sonst niemand für würdig befunden wurde, zu öffnen, was geöffnet werden musste, und zu regieren, was regiert werden musste. Sobald du ihm durch diese Tür folgst, gibt es kein Zurück mehr zu dem, der du vorher warst.

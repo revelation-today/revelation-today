@@ -1,20 +1,17 @@
 ---
-title: "Der Sieg (Kapitel 14–16)"
-weight: 80
+title: "Die zwei Ernten (Kapitel 14)"
+weight: 110
 base: /quick/content/harvest
-prev: /story/content/witnesses
-next: /story/content/harlot
+appl: /appl/content/harvest
+expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
+kids: /kids/content/harvest
+prev: /story/content/beasts
+next: /story/content/bowls
 docType: story
 ---
 
-{{% bible val="Kapitel 14–16" link="rev:14" lang="de" %}}
+Jesus hat es am Kreuz bereits gewonnen, und die Gemeinde hat diesem Sieg seitdem die Treue gehalten - und jetzt zerstreuen sich die Kräfte des Feindes wie Rauch. Auf einem Meer aus Glas und Feuer singen die Treuen. Ihre einzige Qualifikation war, treu geblieben zu sein.
 
-<a name="37a3"></a>
-Der Sieg Jesu am Kreuz und das Zeugnis der Kirche haben alles bewirkt, und der Feind ist in alle Winde zerstreut. Die Gläubigen singen im Siegesrausch — ihr einziges erforderliches Können war die Treue zu Gott.
+Nicht alle dürfen singen. Diejenigen, die auf Nummer sicher gegangen sind und sich mit dem Tier eingelassen haben, um die Kosten zu vermeiden, stehen jetzt vor einer weit schwereren Rechnung.
 
-Aber für diejenigen, die mit dem Teufel mitgespielt haben, um Konsequenzen zu vermeiden: Sie werden jetzt keine leichtere Konsequenz erleben.
-
-Es ist Zeit zu prüfen. Die beiden Ernten offenbaren die harte Realität. Einige werden gerettet werden, andere gehen verloren.
-
-Und das ist die Zeit, in der Gottes Eifer einsetzt. Sein Handeln wird erschüttern und wieder erschüttern gegen falsche Loyalität, Angriffe auf sein Volk, Verhärtung der Herzen und die Täuschung des Teufels, bis dieses Reich völlig zusammenbricht.
-
+Zwei Sicheln fahren über die Erde. Eine Ernte wird eingebracht. Eine Ernte ist für das Gericht. Das ist der Moment, in dem die Wahrheit aufhört, theoretisch zu sein.

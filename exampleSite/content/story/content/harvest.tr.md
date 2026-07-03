@@ -1,20 +1,16 @@
 ---
-title: "Zafer (Bölüm 14–16])"
-weight: 80
+title: "İki hasat (Bölüm 14)"
+weight: 110
 base: /quick/content/harvest
-prev: /story/content/witnesses
-next: /story/content/harlot
+appl: /appl/content/harvest
+expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
+prev: /story/content/beasts
+next: /story/content/bowls
 docType: story
 ---
 
-{{% bible val="Bölüm 14–16" link="rev:14" lang="tr" %}}
+İsa bunu çarmıhta çoktan kazandı, ve kilise o zaferin sadakatini o günden beri koruyor - ve şimdi düşmanın güçleri duman gibi dağılıyor. Cam ve ateşten bir denizde, sadık olanlar şarkı söylüyor. Tek niteliği sadık kalmaktı.
 
-<a name="37a3"></a>
-İsa’nın çarmıhtaki zaferi ve kilisenin tanıklığı her şeyi yaptı ve düşman etrafa dağıldı. İmanlılar zafer şarkıları söylerler — onların tek becerisi Tanrı’ya sadakatti.
+Herkes şarkı söyleyemiyor. Bedelden kaçınmak için canavarın yanında yer alıp güvende oynayanlar, şimdi çok daha ağır bir bedelle karşı karşıya.
 
-Ama sonuçtan kaçınmak için şeytanla birlikte oynayanlar için: Artık daha kolay bir sonuçla karşılaşmayacaksınız.
-
-Kontrol etme zamanı geldi. İki hasat orada acı gerçeği ortaya çıkarır. Bazıları kurtulacak, diğerleri kaybolacak.
-
-Ve bu Tanrı’nın gayretinin devreye girme zamanıdır. Sahte sadakate, halkına saldırmaya, yürekleri katılaştırmaya ve şeytanın aldatmacasına karşı, bu krallık tamamen çökene kadar sarsacak ve sarsacaktır.
-
+Yeryüzü boyunca iki orak sallanıyor. Bir hasat içeri toplanıyor. Bir hasat yargı için. Gerçeğin artık teorik olmaktan çıktığı an bu.
