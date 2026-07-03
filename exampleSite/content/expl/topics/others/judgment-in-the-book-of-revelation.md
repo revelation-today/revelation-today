@@ -1,5 +1,6 @@
 ---
 title: "Judgment in the book of revelation"
+themes: ["judgment"]
 weight: 5
 prev: /expl/topics/others/the-rapture
 next: /welcome/done

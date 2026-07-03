@@ -1,5 +1,6 @@
 ---
 title: "A real hero"
+themes: ["hero"]
 prev: /appl/content/paradise
 next: /appl/topics/hero/who-rules-the-world
 docType: appl

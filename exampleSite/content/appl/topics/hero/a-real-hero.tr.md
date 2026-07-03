@@ -1,5 +1,6 @@
 ---
 title: "Gerçek kahraman nedir?"
+themes: ["Kahraman"]
 prev: /appl/content/paradise
 next: /appl/topics/hero/who-rules-the-world
 docType: appl

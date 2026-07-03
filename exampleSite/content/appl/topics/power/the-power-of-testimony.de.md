@@ -1,5 +1,6 @@
 ---
 title: "Die Kraft des Zeugnisses"
+themes: ["Zeugnis"]
 weight: 2
 prev: /appl/topics/power/worship
 next: /appl/topics/power/the-key-of-prayer

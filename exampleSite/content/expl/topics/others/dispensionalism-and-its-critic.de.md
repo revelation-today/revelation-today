@@ -1,5 +1,6 @@
 ---
 title: "Kritik am Dispensionalismus"
+themes: ["Dispensationalismus"]
 weight: 2
 prev: /expl/topics/others/dispensionalism-a-little-history
 next: /expl/topics/others/the-rapture

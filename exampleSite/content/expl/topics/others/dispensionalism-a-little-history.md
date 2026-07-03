@@ -1,5 +1,6 @@
 ---
 title: "Dispensionalism — A little history"
+themes: ["dispensationalism"]
 weight: 1
 prev: /expl/content/paradise/heaven-and-hell
 next: /expl/topics/others/dispensionalism-and-its-critic

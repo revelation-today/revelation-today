@@ -1,5 +1,6 @@
 ---
 title: "666 im historischen Kontext"
+themes: ["666"]
 weight: 3
 base: /quick/content/beasts
 story: /story/tour

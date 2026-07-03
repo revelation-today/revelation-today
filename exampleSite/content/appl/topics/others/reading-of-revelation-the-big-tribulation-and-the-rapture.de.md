@@ -1,5 +1,6 @@
 ---
 title: "Die Endzeit: Die große Trübsal und die Entrückung"
+themes: ["Entrückung", "Trübsal"]
 prev: /appl/topics/power/the-key-of-prayer
 next: /welcome/done_appl
 docType: appl

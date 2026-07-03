@@ -1,5 +1,6 @@
 ---
 title: "Duanın anahtarı"
+themes: ["Dua"]
 weight: 3
 prev: /appl/topics/power/the-power-of-testimony
 next: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture

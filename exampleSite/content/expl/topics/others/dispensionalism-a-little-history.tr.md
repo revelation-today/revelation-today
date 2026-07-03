@@ -1,5 +1,6 @@
 ---
 title: "Dispansionalizm — Küçük bir tarihçe"
+themes: ["Dispensasyonalizm"]
 weight: 1
 prev: /expl/content/paradise/heaven-and-hell
 next: /expl/topics/others/dispensionalism-and-its-critic

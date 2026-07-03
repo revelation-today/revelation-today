@@ -1,5 +1,6 @@
 ---
 title: "The rapture"
+themes: ["rapture"]
 weight: 3
 prev: /expl/topics/others/dispensionalism-and-its-critic
 next: /expl/topics/others/judgment-in-the-book-of-revelation

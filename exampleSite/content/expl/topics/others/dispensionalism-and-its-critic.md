@@ -1,5 +1,6 @@
 ---
 title: "Dispensionalism and its critic"
+themes: ["dispensationalism"]
 weight: 2
 prev: /expl/topics/others/dispensionalism-a-little-history
 next: /expl/topics/others/the-rapture

@@ -1,5 +1,6 @@
 ---
 title: "Who rules the world"
+themes: ["hero"]
 prev: /appl/topics/hero/a-real-hero
 next: /appl/topics/power/worship
 docType: appl

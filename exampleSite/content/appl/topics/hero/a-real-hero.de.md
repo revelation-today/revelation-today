@@ -1,5 +1,6 @@
 ---
 title: "Echte Helden"
+themes: ["Held"]
 prev: /appl/content/paradise
 next: /appl/topics/hero/who-rules-the-world
 docType: appl

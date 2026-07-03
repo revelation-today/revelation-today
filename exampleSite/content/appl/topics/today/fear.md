@@ -1,5 +1,6 @@
 ---
 title: "No need to fear"
+themes: ["fear"]
 weight: 7
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Vahiy kitabındaki yargı"
+themes: ["Yargı"]
 weight: 5
 prev: /expl/topics/others/the-rapture
 next: /welcome/done

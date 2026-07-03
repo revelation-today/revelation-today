@@ -1,5 +1,6 @@
 ---
 title: "Gericht im Buch Offenbarung"
+themes: ["Gericht"]
 weight: 5
 prev: /expl/topics/others/the-rapture
 next: /welcome/done

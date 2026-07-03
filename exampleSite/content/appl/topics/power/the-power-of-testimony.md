@@ -1,5 +1,6 @@
 ---
 title: "The power of testimony"
+themes: ["testimony"]
 weight: 2
 prev: /appl/topics/power/worship
 next: /appl/topics/power/the-key-of-prayer

@@ -1,5 +1,6 @@
 ---
 title: "Tarihsel bağlamda canavarlar ve 666"
+themes: ["666"]
 weight: 3
 base: /quick/content/beasts
 story: /story/tour

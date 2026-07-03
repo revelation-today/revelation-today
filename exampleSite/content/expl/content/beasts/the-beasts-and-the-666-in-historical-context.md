@@ -1,5 +1,6 @@
 ---
 title: "The beasts and the 666 in historical context"
+themes: ["666"]
 weight: 3
 base: /quick/content/beasts
 story: /story/content/beasts

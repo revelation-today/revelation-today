@@ -1,5 +1,6 @@
 ---
 title: "Die Zahl des Tieres"
+themes: ["666"]
 weight: 4
 base: /quick/content/beasts
 story: /story/tour

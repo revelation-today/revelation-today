@@ -1,5 +1,6 @@
 ---
 title: "Dünyayı kim yönetiyor"
+themes: ["Kahraman"]
 prev: /appl/topics/hero/a-real-hero
 next: /appl/topics/power/worship
 docType: appl

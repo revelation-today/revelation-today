@@ -1,5 +1,6 @@
 ---
 title: "666: The number of the beast"
+themes: ["666"]
 weight: 4
 base: /quick/content/beasts
 story: /story/content/beasts

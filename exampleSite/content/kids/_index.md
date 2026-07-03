@@ -1,6 +1,6 @@
 ---
-title: "Summary"
-weight: 20
+title: "Kids"
+weight: 50
 ---
 
 This is Revelation retold for kids: the same 22 chapters, the same real story, but in short, simple pages a child can read alone or with a parent — no scary movie-style predictions, just Jesus, the Church, and the dragon who always loses.

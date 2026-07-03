@@ -1,5 +1,6 @@
 ---
 title: "İbadet"
+themes: ["Tapınma"]
 weight: 1
 prev: /appl/topics/hero/who-rules-the-world
 next: /appl/topics/power/the-power-of-testimony
