@@ -6,7 +6,7 @@ sources:
       ref: beale_rev
     - pages: 384–407
       ref: bauckham_climax
-prev: /expl/background/structure/the-three-mysteries
+prev: /expl/background/structure/the-structure-of-the-book-of-revelation
 next: /expl/background/israel/the-role-of-family-in-the-bible
 docType: expl
 appl: /appl/background/structure

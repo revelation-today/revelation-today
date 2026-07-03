@@ -10,7 +10,7 @@ sources:
     - pages: 108–170
       ref: beale_rev
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
-next: /expl/background/structure/the-three-mysteries
+next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
 appl: /appl/background/structure
 ---
