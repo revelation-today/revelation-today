@@ -8,99 +8,82 @@ next: /expl/bible/creation/the-temple-and-the-presence-of-god
 docType: expl
 ---
 
-To understand the end of the Bible, you must understand the beginning of the Bible. Did you know that the tree of life that we see in the story of the Fall, or the sign of Cain, are both seen again in the book of Revelation?
+To understand the end of the Bible, you have to understand its beginning. Did you know that the tree of life from the story of the Fall, and the sign given to Cain, both reappear in the book of Revelation?
 
 ## The poem
 
 <a name="5b27"></a>
-In ancient mythologies, creation was often the byproduct of a battle between the gods and came out of chaos.
+In the ancient mythologies surrounding Israel, creation was typically the byproduct of a battle between the gods, emerging out of chaos.
 
-But creation in the Bible is written as a poem (the refrain is “God saw and it was good, and it was evening and morning, the … day”), as a work of art.
+The Bible tells it differently: creation there is written as a poem, with its own recurring refrain — "God saw that it was good, and there was evening and there was morning, the ... day" — the whole account crafted as a work of art.
 
-It was intended and designed. In the first three days the houses of creation (light, water, earth), in the next three their inhabitants (sun/moon/stars, fish, land and air animals) and finally the summary of the rest, the Shabbat.
+It's also clearly intended and designed: the first three days form the "houses" of creation (light, water, earth), the next three fill them with inhabitants (sun, moon and stars; fish; land and air animals), and the seventh day sums up the rest with the Sabbath.
 
-And all was well. Man and woman, as God’s representatives (made in God’s image), were placed as rulers over everything. Man and woman are both created equally as representatives of God.
+And it was all very good. Man and woman, God's representatives made in his image, were placed as rulers over everything — created equally, both of them, to represent God.
 
 ## The drama
 
 <a name="91ed"></a>
-The next part is a drama that unfolds from the creation story. While the poem describes the building structure, the drama describes the intention and begins with man and Eden.
+The next part of Genesis is a drama that grows out of the creation account. Where the poem laid out the structure, the drama reveals the intention, and it begins with the man and the garden of Eden.
 
-Man had all freedom except one thing: he was not to eat of the tree of the knowledge of good and evil.
+The man had complete freedom except for one restriction: he was not to eat from the tree of the knowledge of good and evil.
 
-Man had everything: a task to cultivate and protect the garden, creative ownership (he could give animals names and thus identity), an intimate relationship with God, but one thing was missing: the one thing that God does not call good.
+He had everything else — a task to cultivate and protect the garden, creative ownership expressed in naming the animals (and so giving them identity), and an intimate relationship with God. But one thing was still missing, the one thing God does not call good: he was alone.
 
-God lives in relationship and is defined by it (God is love and love only makes sense in relationship), but man was alone. So God looked for a counterpart, but did not find any, so he created the woman out of him. The man was amazed and called her “wow-man”, but God called her “helper”, which is best translated as “life-saver”. And that is where the fall begins. All she needed was a tipping stone and the shape of a serpent.
+God himself exists in relationship and is defined by it — God is love, and love only makes sense in relationship — so he looked for a counterpart for the man, found none suitable among the animals, and made the woman out of him instead. The man was amazed and called her "wow-man," but God called her "helper" — a word better translated "life-saver." And that is exactly where the fall begins: all it takes from there is a tipping point, and the shape of a serpent.
 
 ## The tipping stone
 
 <a name="3f85"></a>
-The serpent approached the woman (not the man) and challenged her about the tree of knowledge of good and evil. As we can see, the woman was very careful not to violate the commandment to eat from it. To make sure that never happened, she created another commandment for herself as the guardian (or the man): do not touch it.
+The serpent approaches the woman, not the man, and challenges her about the tree of the knowledge of good and evil. Notice how careful she is not to violate the actual commandment: to guard against ever eating from it, she adds a commandment of her own — as guardian, presumably on the man's behalf — not even to touch it.
 
-The devil could challenge this, and the new commandment did not help, because the fruit was nice to look at, and she ate it.
+That extra commandment is exactly what the devil exploits, and it offers no real protection: the fruit is appealing to look at, and she eats it.
 
-And she gave it to the man. Well, she didn’t have to go looking for him because he was there all the time and he was quiet. This is a very challenging thought because male means “to remember”. So if he is to be good at anything, it is to remember what God said and who he is.
+Then she gives it to the man — and he doesn't need to be found, because he has been right there the whole time, silent. That silence is telling, since the Hebrew word for "male" carries the sense "to remember." If there is one thing he is supposed to be good at, it's remembering what God said and who he is. Instead, both of them fail. The result is shame, and shame drives them to hide from God and to blame each other — it breaks every relationship it touches.
 
-But they both fail. The result is shame, which makes them hide from God and blame each other. Shame has broken all relationships.
-
-## God’s recovery plan
+## God's recovery plan
 
 <a name="deaf"></a>
-God could have exposed them, but he chose not to. He plays naive and asks: Adam, where are you? The perfect opportunity for Adam to come out of his shame and share with God.
+God could have exposed them outright, but he doesn't. Instead he plays naive and asks, "Adam, where are you?" — the perfect opening for Adam to step out of his shame and come clean with God.
 
-Adam only points out the symptoms of his shame. He hid because he was naked. He had been naked before and there was no shame.So God asked more directly: Have you eaten of the tree of which you should not eat?
+Adam, though, only points to the symptoms of his shame: he hid because he was naked, even though he had been naked before with no shame at all. So God presses more directly: have you eaten from the tree you were told not to eat from?
 
-Adam does not confess, but blames everyone but himself: The woman YOU gave me. In fact, he blames God and the woman he admires so much.
-
-The woman only admits that she ate from the tree, but not to give it to the man.
+Even then, Adam doesn't confess — he blames everyone but himself: "the woman *you* gave me." In one line he manages to blame both God and the woman he had just been so amazed by. The woman, for her part, admits only that she ate from the tree, not that she gave it to the man.
 
 ## The consequence
 
 <a name="9174"></a>
-God judges the serpent without any mitigating conditions. The woman is promised to bring forth the savior who will destroy the serpent.
+God judges the serpent without a single mitigating word, and promises that the woman will bring forth the savior who destroys it.
 
-The man’s judgment shows where the problem was: Because you listened to the voice of the woman!
-
-The woman was a dream come true that he received from God. But instead of bringing him closer to God, he replaced God with God’s gift.
-
-He obeyed the word of the woman, not the word of God. The fruit was only there to show the problem that was already there: The man did not lead the woman to God, but waited for her leadership, which was not given to her, so she was led by the serpent — a creature over which the man had dominion.
+The man's judgment names the actual problem: "because you listened to the voice of your wife." The woman had been a dream come true, a gift straight from God — but instead of letting her draw him closer to God, the man let God's gift replace God himself. He obeyed her word instead of God's word. The fruit only exposed a problem that was already there: the man never led the woman to God in the first place. He waited for her to lead instead, a role never given to her, and so she ended up led by the serpent — a creature the man himself had been given dominion over.
 
 ## The unthinkable
 
 <a name="ac70"></a>
-They have to leave the garden, but first their shame is covered with animal skins. And this is the overwhelming thought, because animal skins don’t grow on trees. God had to damage His own creation and let animals die to cover the shame of man. These animals died instead of man and woman, and wearing these clothes should make them never forget that.
+They have to leave the garden, but first their shame is covered — with animal skins. Sit with that for a moment, because animal skins don't grow on trees. God has to damage his own creation and let animals die just to cover the shame of the man and woman. Those animals die in their place, and the clothing made from their skins is meant to make sure Adam and Eve never forget it.
 
 ## A new beginning
 
 <a name="e861"></a>
-After they left the garden, Eve became pregnant and made a significant statement: I have had a child with the Lord. Well, it was obviously Adam’s, but the name Cain (treasure) shows her thinking behind it. Perhaps Cain was her return ticket to the Garden, as he could be the savior who destroys the serpent. This becomes even more obvious when she names the second born Abel (nothing).
+After they leave the garden, Eve becomes pregnant and makes a striking statement: "I have gotten a child with the help of the Lord." It was obviously Adam's child, but the name she gives him — Cain, meaning "treasure" — shows what she's really thinking. Perhaps she hopes Cain is her ticket back into the garden, the promised savior who will destroy the serpent. That hope becomes even clearer when she names her second son Abel — meaning "nothing" or "vapor."
 
 ## The explosion
 
 <a name="bf83"></a>
-It was hard for Cain to be the one on whom all expectation rested, and also for Abel to be the one on whom nothing was expected. They both suffered from the loss their parents imposed on them, but it also made them compare themselves to each other.
+It was hard for Cain to carry all his parents' expectation, and just as hard for Abel to have none placed on him at all. Both brothers suffered from the loss their parents had imposed on them, and that loss pushed them to compare themselves with each other.
 
-One day they made a sacrifice, Cain from the grain and Abel from the sheep, and God accepted Abel’s, but not Cain’s, and he became furious.
+One day they each bring a sacrifice — Cain from the grain, Abel from the flock — and God accepts Abel's but not Cain's. Cain becomes furious.
 
-What was the problem?
+What was the problem? Cain doesn't seem to understand the reason, but Abel may well have offered his sacrifice deliberately, in remembrance of what God did back in Eden to cover his parents' shame.
 
-Cain did not understand the reason, but Abel may have done this on purpose in remembrance of what God did in Eden.
-
-Cain was angry and here God immediately steps in and warns Cain. Sin in this situation is not described as a wrongdoing, but as an intention with a purpose.
-
-But Cain does not listen and kills his brother. When Cain is confronted, he repents and feels unable to bear the consequences, so God places a sign of protection on him.
+As Cain's anger builds, God steps in immediately to warn him. Notably, sin here isn't described as an act already committed, but as an intention with a purpose still forming. Cain doesn't listen, and he kills his brother. When he is confronted, he repents, and — feeling unable to bear the consequences of what he's done — God places a protective sign on him.
 
 ## The scandal
 
 <a name="d090"></a>
-Cain’s descendants continue to grow and find refuge in cities and innovations. In the seventh generation after Adam comes Lamech who shows his true face.
+Cain's descendants keep growing, finding refuge in cities and in the innovations of civilization. Then, in the seventh generation after Adam, Lamech shows his true face.
 
-- He is the first who is reported to have two wives and he mocks God’s sign on his ancestor Cain.
-- He has already killed someone, God’s sign was to avoid further killing.
-- Lamech’s consequences will be much greater than God’s consequences, is he greater than God?
+He is the first man on record to take two wives, and he openly mocks the protective sign God had placed on his ancestor Cain. He has already killed a man — the very thing that sign was meant to prevent — and boasts that the consequences for anyone who touches him will be far greater than God's own promised consequences for Cain. Is he claiming to be greater than God himself?
 
-But they are also a laughing stock.
-
-- He does not tell this to the whole world, but only has the courage to boast in front of his wife.
-- And who exactly will avenge Lamech when he is killed? His wives?
+And yet he is also, in his own way, a laughing stock. He doesn't dare announce this boast to the world — only to his wife, in private. And who, exactly, is left to avenge Lamech if someone kills him? His wives?
 

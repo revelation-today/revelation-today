@@ -4,7 +4,7 @@ title: "Weitere wichtige Geschichten"
 weight: 3
 ---
 
-Es gibt noch einige weitere wichtige Geschichten, die einige Fragen beantworten
+Ein paar weitere Schlüsselgeschichten helfen, Fragen zu beantworten, die in der Offenbarung immer wieder auftauchen:
 - Was ist die Bedeutung von Babel?
 - Was hat Bileam mit Götzendienst zu tun?
 - Was ist gemeint, wenn wir über den Tempel sprechen?

@@ -14,32 +14,30 @@ sources:
       ref: fee_rev
 ---
 
-Smyrna’yı biliyor musunuz? Tanımalısınız çünkü orada suçsuz bir kilise bulacaksınız, ama belki sizin için doğru kilise olmayabilir
+İzmir'i tanır mısınız? Tanımalısınız — orada, kusursuzluğu beklediğiniz kadar davetkâr görünmese de, suçlanmamış bir kilise bulacaksınız.
 
-{{% bible val="İzmir, İsa’dan herhangi bir azar işitmeyen iki kiliseden biridir" link="rev:2,8-11" lang="tr" %}}. Peki bu sır nedir?
+{{% bible val="İzmir, İsa'dan hiç azar işitmeyen sadece iki kiliseden biridir." link="rev:2,8-11" lang="tr" %}} Peki sırları nedir?
 
 ## Tarihsel arka plan
 
 <a name="89a1"></a>
-Smyrna, Efes’in yaklaşık 70 km kuzeyinde, mükemmel bir limana sahip bir koyda yer alıyordu. Şehrin zenginliğinin nedeni buydu ve onu ekonomik açıdan önemli bir şehir haline getirmişti.
+İzmir, Efes'in yaklaşık 70 km kuzeyinde, mükemmel bir limana sahip bir koyun kıyısında yer alıyordu — bu ekonomik açıdan önemli şehrin zenginliğinin kaynağı da buydu.
 
-20. yılda imparatoru onurlandıran bir tapınak inşa edildi ve böylece imparatora tapınmada önde gelen şehirlerden biri haline geldi.
+MS 20 yılında orada imparatoru onurlandıran bir tapınak inşa edildi, bu da İzmir'i imparator ibadetinin önde gelen merkezlerinden biri hâline getirdi. Kilisenin kendisinin nasıl başladığı hakkında çok az şey bilinmektedir; belki de Pavlus tarafından, Efes'te kiliseyi kurduğu dönemlerde kurulmuştur.
 
-Kilisenin kökeni hakkında çok az şey bilinmektedir, belki de Pavlus tarafından Efes’te kiliseyi kurarken bulunmuştur.
-
-## İsa’nın görüşü
+## İsa'nın görüşü
 
 <a name="f280"></a>
-İsa kiliseye ölümü yenen dirilmiş kişi olarak yaklaşır. Bu, her yönden saldırıya uğrayan kilisenin ihtiyaç duyduğu bir vizyondur:
+İsa bu kiliseye, ölümü çoktan yenmiş diri olan kişi olarak yaklaşır — her yönden saldırı altında olan bu kilisenin çok ihtiyaç duyduğu bir vizyon:
 
-- Muhtemelen Gildes’e katılmadıkları için mali olarak savaşmak zorundalar.
-- kilise hakkında iftira atan bazı Yahudiler var ve muhtemelen hapse girmelerinin nedeni de onlar (şeytan bazılarınızı hapse atacak, Yahudiler Şeytan’ın bir sinagogudur)
+- Muhtemelen put ibadetine katılmayı gerektiren ticaret loncalarına katılmayı reddettikleri için mali açıdan sıkıştırılıyorlar.
+- Bazı yerel Yahudiler kiliseye iftira atıyor ve muhtemelen Hristiyanların hapse atılmasının arkasında da onlar var — bu yüzden "İblis bazılarınızı hapse atacak" denir ve bu grup "Şeytan'ın havrası" olarak adlandırılır.
 
-{{% bible val="10 güne" link="rev:2,10" lang="tr" %}} yapılan atıf, kralların sofrasından kirli bir yiyeceğe adanmış putla kendilerini kirletmemek için sadece sebze yedikleri {{% bible val="Daniel’in öyküsüyle" link="dan:1,8-14" lang="tr" %}} bir bağlantıdır.
+{{% bible val="On güne" link="rev:2,10" lang="tr" %}} yapılan atıf, kralın sofrasından gelen kirli yiyecekle kendini kirletmemek için on gün boyunca sadece sebze yiyen {{% bible val="Daniel'in öyküsüne" link="dan:1,8-14" lang="tr" %}} işaret eder.
 
 ## Bakış açısı
 
 <a name="a1e3"></a>
-İsa söz veriyor: Tahammül ettiklerinde ikinci ölümden zarar görmeyecekler. {{% bible val="İsa ölümden dirilişe geçerek üstesinden geldi ve hafta gibi görünüyor" link="rev:5,5-6" lang="tr" %}}, bu {{% bible val="yüzden onlarla birlikte hükmedecek" link="rev:20,4-6" lang="tr" %}}. Bu bir paradokstur. Bu nasıl olmalıdır?
+İsa, bu acıya dayanırlarsa ikinci ölümden zarar görmeyeceklerini vaat eder. Bunu vaat edebilir, çünkü kendisi bu yoldan önce geçmiştir: {{% bible val="ölümden dirilişe geçmiş ve boğazlanmış biri olarak görünmüştür" link="rev:5,5-6" lang="tr" %}}, öyle ki {{% bible val="imanlılar O'nunla birlikte hüküm sürebilsin" link="rev:20,4-6" lang="tr" %}}. Üzerinde durmaya değer bir paradoks bu — gerçekte nasıl işliyor?
 
-Biz ne kadar çok şey yapamazsak, İsa o kadar çok çalışabilir. {{% int_link val="Ancak çaresizlikten bunalıp pes etme tehlikesi vardır" link="/expl/content/beasts/666-the-number-of-the-beast" %}}. Durumu çözmemiz değil, O’nunla birlikte dayanmamız gerekir.
+Örüntü şöyle görünüyor: kendi başımıza yapabildiğimiz şey ne kadar azalırsa, İsa'nın çalışması için o kadar çok alan açılıyor. Bununla birlikte, {{% int_link val="umutsuzluğa öyle kapılıp pes etme tehlikesi" link="/expl/content/beasts/666-the-number-of-the-beast" %}} gerçektir. Bizden içinde bulunduğumuz kötü durumları çözmemiz değil, yalnızca O'nunla birlikte bunlara dayanmamız istenir.

@@ -11,43 +11,43 @@ sources:
       ref: beale_rev
 ---
 
-You know the story of Balaam and the donkey, but do you know why and how Balaam deceived Israel into idolatry.
+You know the story of Balaam and the donkey — but do you know why and how Balaam deceived Israel into idolatry?
 
-Don’t believe me? Here is the proof: “{{% bible val="Nevertheless, I have a few things against you: there are some among you who hold to the teaching of Balaam, who taught Balak to entice the Israelites to sin so that they ate food sacrificed to idols and committed sexual immorality." link="rev:2,14" lang="en" %}}”
+Don’t believe me? Here is the proof: "{{% bible val="Nevertheless, I have a few things against you: there are some among you who hold to the teaching of Balaam, who taught Balak to entice the Israelites to sin so that they ate food sacrificed to idols and committed sexual immorality." link="rev:2,14" lang="en" %}}"
 
-## The well known story
+## The well-known story
 
 <a name="c389"></a>
-It all starts with the victory story of Israel {{% bible val="conquering all the Amorites and Canaanites along the way" link="num:21" lang="en" %}} which makes the {{% bible val="Moabites afraid and asking the Midianites to help" link="num:22,1-4" lang="en" %}}.
+It all starts with Israel’s victorious campaign, {{% bible val="conquering all the Amorites and Canaanites along the way" link="num:21" lang="en" %}}, which leaves the {{% bible val="Moabites afraid enough to ask the Midianites for help" link="num:22,1-4" lang="en" %}}.
 
-But why? The {{% bible val="Moabites have a promise that Israel will not invade them" link="deu:2,8-9" lang="en" %}} and they {{% bible val="are descended from Lot" link="gen:19,30-37" lang="en" %}}, the Midianites should also not worry either, since {{% bible val="Moses was married to the daughter-in-law of one of their priests" link="exo:3,1" lang="en" %}}. And the {{% bible val="Midianites are descendants of Abraham" link="gen:25,1-2" lang="en" %}}.
+But why would either nation feel threatened? The {{% bible val="Moabites have a promise that Israel will not invade them" link="deu:2,8-9" lang="en" %}}, since they {{% bible val="are descended from Lot" link="gen:19,30-37" lang="en" %}}; and the Midianites have little reason to worry either, since {{% bible val="Moses was married to the daughter of one of their priests" link="exo:3,1" lang="en" %}}, and the {{% bible val="Midianites are themselves descendants of Abraham" link="gen:25,1-2" lang="en" %}}. Fear, it seems, overrides all of that.
 
-The {{% bible val="Moabites send messengers to Balaam to ask him to curse Israe" link="num:22,5-7" lang="en" %}}l. The {{% bible val="Lord makes it clear to Balaam that he is not allowed to do so and sends them back" link="num:22,8-14" lang="en" %}}. So the king of the {{% bible val="Moabites (Balak) send against more and higher officials to Balaam and he asks the Lord again" link="num:22,15-21" lang="en" %}}.
+So the {{% bible val="Moabites send messengers to Balaam, asking him to curse Israel" link="num:22,5-7" lang="en" %}}. The {{% bible val="Lord makes it clear to Balaam that he is not allowed to do this, and sends the messengers back" link="num:22,8-14" lang="en" %}}. Undeterred, the king of the {{% bible val="Moabites, Balak, sends even more and higher-ranking officials to Balaam, who asks the Lord again" link="num:22,15-21" lang="en" %}}.
 
-Why? Why does Balaam ask again? He heard the answer. Did he think he could change God’s mind? Obviously, because God let him go. But there are consequences — {{% bible val="you know, the story with the donkey" link="num:22,22-35" lang="en" %}}.
+Why would Balaam ask again? He had already heard the answer. Did he think he could change God’s mind? Apparently so — because this time God lets him go. But going comes with consequences, {{% bible val="as the story with the donkey makes clear" link="num:22,22-35" lang="en" %}}.
 
-Balaam now seems to be obedient to God and blesses Israel as God wants. Balak gets furious and {{% bible val="sends him back" link="num:24,25" lang="en" %}}. And there the story ends — that is what you think.
+Balaam then appears obedient, blessing Israel just as God wants. Balak, furious, {{% bible val="sends him away" link="num:24,25" lang="en" %}}, and there the story seems to end. Or so you would think.
 
 ## The situation with Baal-Peor
 
 <a name="8915"></a>
-Immediately thereafter, {{% bible val="the Moabites and Midianites throw a feast for the Israelites, resulting in sexual immorality and idolatry" link="num:25,1-2" lang="en" %}}.
+Immediately after that, {{% bible val="the Moabites and Midianites throw a feast for the Israelites, resulting in sexual immorality and idolatry" link="num:25,1-2" lang="en" %}}.
 
-How could this happen. {{% bible val="God is angry and he calls Mose to kill the leader who allowed this to happen" link="num:25,3-4" lang="en" %}}. But {{% bible val="Mose is disobedient and calls the leaders and asks them to kill the people who have committed idolatry" link="num:25,5" lang="en" %}}. As a {{% bible val="result, a plague killed about 24,000 people of the Israelites" link="num:25,8-9" lang="en" %}}. This {{% bible val="was only stopped because Pinehas, grandson of Aaron, intervened and stopped this" link="num:25,6-8" lang="en" %}}.
+How could this happen? {{% bible val="God is angry and commands Moses to kill the leaders who allowed this to happen" link="num:25,3-4" lang="en" %}}. But instead, {{% bible val="Moses is disobedient: he tells the judges to kill only the people who actually committed idolatry" link="num:25,5" lang="en" %}}. As a result, {{% bible val="a plague kills about 24,000 of the Israelites" link="num:25,8-9" lang="en" %}}, and it {{% bible val="is stopped only when Phinehas, grandson of Aaron, intervenes" link="num:25,6-8" lang="en" %}}.
 
-As {{% bible val="the results, God commands Mose to destroy the Midianites" link="num:25,16-18" lang="en" %}}.
+In the aftermath, {{% bible val="God commands Moses to destroy the Midianites" link="num:25,16-18" lang="en" %}}.
 
-What happened to Moses in this story? Did he not take this seriously, but this is {{% bible val="unlikely" link="exo:32,19" lang="en" %}}, perhaps he was more concerned about how to deal with his father-in-law’s people.
+Did Moses fail to take this seriously? That seems {{% bible val="unlikely" link="exo:32,19" lang="en" %}}; perhaps he was simply more hesitant, given how to deal with his father-in-law’s people.
 
-However, it takes a long time until {{% bible val="Israel fights against the Midianites" link="num:31" lang="en" %}} ({{% bible val="his last action before he dies" link="num:31,2" lang="en" %}}). They killed all the Midianite {{% bible val="men" link="num:31,2" lang="en" %}} and {{% bible val="women" link="num:31,15-17" lang="en" %}} who had deceived them.
+Even so, it takes a long time before {{% bible val="Israel finally fights against the Midianites" link="num:31" lang="en" %}} — {{% bible val="Moses’ last action before he dies" link="num:31,2" lang="en" %}}. Israel kills all the Midianite {{% bible val="men" link="num:31,2" lang="en" %}} and the {{% bible val="women" link="num:31,15-17" lang="en" %}} who had deceived them.
 
-But there is a surprise: {{% bible val="Balaam is one of those killed, he stayed with the Midianites" link="num:31,8" lang="en" %}}.
+But there is a surprise waiting in the account: {{% bible val="Balaam is among those killed — he had been staying with the Midianites all along" link="num:31,8" lang="en" %}}.
 
 ## What happened?
 
 <a name="6bd5"></a>
-So what was going on? Balaam was not happy because he could not finish his work and please Balak, the king of the Moabites. As long as God was with them, he could do nothing. But if he could separate God from Israel, or even make God turn against Israel, he would have accomplished his task.
+So what was actually going on? Balaam was unhappy that he could not finish his commission and please Balak, king of the Moabites. As long as God stood with Israel, there was nothing Balaam could do directly. But if he could drive a wedge between God and Israel — or even provoke God to turn against His own people — he would have accomplished his task after all.
 
-So he makes a party and draws Israel from God to the Midianite women.
+So he arranges a feast, and through it draws Israel away from God toward the Midianite women.
 
-It was Balaam’s pride that brought him down, but it was Moses’ leadership that caused the death of the Israelites.
+It was Balaam’s pride that brought about his own downfall, but it was Moses’ leadership — or lack of it in that moment — that led to the death of so many Israelites.

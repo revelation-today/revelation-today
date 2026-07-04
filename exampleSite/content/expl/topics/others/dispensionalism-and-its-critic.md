@@ -13,100 +13,100 @@ sources:
       ref: goreman
 ---
 
-Dispensationalism is discussed and may be very confusing for the reader to understand. Here are some small points of criticism of Dispensionalism.
+Dispensationalism gets discussed constantly, and it can be genuinely confusing to pin down, since it comes in so many varieties. What follows are a handful of sharp, specific criticisms — including some aimed at "Left Behind," the version most readers will actually recognize.
 
-It is hard to criticize Dispensionalism because of its great variety, but I will try to keep it sharp and also include aspects from “Left Behind”.
+It is hard to criticize dispensationalism as a whole precisely because of that variety, but the points below try to stay sharp and concrete rather than attacking a vague caricature.
 
-### Literal understanding
+### A literal reading that isn't consistently literal
 
 <a name="dac4"></a>
-It is argued that this approach will use the Bible literally which is basically good, but such an approach would not reflect the literature of the Bible in each case.
+Dispensationalism prides itself on reading the Bible literally, which sounds responsible enough on the surface. The trouble is that this approach doesn't actually reflect how the Bible's literature works in every case.
 
-There is poetic literature such as the Song of Songs. If you took everything literally, Sulamith would look like [that](https://www.pinterest.com/pin/414894184412811101/). There are several other places, where it is unlikely that this is meant {{% bible val="literally" link="isa:55,12" lang="en" %}}.
+Take the Song of Songs, which is poetic literature through and through. Read it with a flat literalism and Sulamith ends up looking like [this](https://www.pinterest.com/pin/414894184412811101/) — plainly not the intent. Several other passages carry the same warning sign, including one where the text itself signals it isn't meant {{% bible val="literally" link="isa:55,12" lang="en" %}}.
 
-Furthermore, Dispensationalists are inconsistent in their application of this principle. They agree that the {{% bible val="beast will not have seven heads and ten horns" link="rev:13,1" lang="en" %}}. Even {{% bible val="Gog and Magog" link="rev:20,8" lang="en" %}} are mentioned with the reference to {{% bible val="God destroying the bow and arrows" link="ezk:39,3" lang="en" %}}, these are interpreted as aircrafts and missiles.
+More tellingly, dispensationalists don't even apply their own principle consistently. They agree, for instance, that the {{% bible val="beast will not have seven heads and ten horns" link="rev:13,1" lang="en" %}} in any literal, visible sense. And when {{% bible val="Gog and Magog" link="rev:20,8" lang="en" %}} show up alongside a reference to {{% bible val="God destroying the bow and arrows" link="ezk:39,3" lang="en" %}}, dispensationalists happily read "bow and arrows" as aircraft and missiles — a thoroughly non-literal move for a hermeneutic that claims literalism as its badge.
 
-### Lack of literature understanding
+### A theory that misreads the literature itself
 
 <a name="6ad3"></a>
-The theory does not take into account the nature of the literature: An apocalyptic, prophetic “ set “ of letters. It interprets it as a description of history.
+The deeper problem is that the theory doesn't reckon with what kind of literature it's dealing with. Revelation is an apocalyptic, prophetic set of letters, not a chronicle — yet dispensationalism interprets it as though it were a straightforward description of history unfolding in sequence.
 
-### No relevance for the original readers
+### A theory with no relevance for the original readers
 
 <a name="ae8f"></a>
-The theory makes no sense to the original readers. The argument that it is about things in the future does not count because the book of Daniel also looks far into the future, but that {{% bible val="book was sealed (until the time was ready)" link="dan:8,26" lang="en" %}}, but this is not the case with {{% bible val="Revelation" link="rev:22,10" lang="en" %}}.
+On this reading, the book would have made no sense at all to the people it was originally written for. The usual defense — that Revelation is about the future, so of course the first readers couldn't fully grasp it — doesn't hold up. The book of Daniel also looks far into the future, but that {{% bible val="book was sealed until the time was ready" link="dan:8,26" lang="en" %}}. {{% bible val="Revelation" link="rev:22,10" lang="en" %}} is explicitly told not to be sealed, which points the other way: it was meant to be understood by its first audience, not decoded centuries later.
 
-### Context based
+### A theory that skips over context
 
 <a name="eba9"></a>
-The theory often makes claims without explanation, or uses an arsenal of Bible verses that are not considered in their context.
+The theory often asserts claims without explaining them, or marshals an arsenal of Bible verses pulled loose from their context.
 
-The main {{% bible val="2000 year delay in the prophecy of the 70 years" link="dan:9,26-27" lang="en" %}} depends on a very specific reading, even punctuation, of this verse that is supported only in the King James translations.
+A good example is the {{% bible val="2000 year delay in the prophecy of the 70 years" link="dan:9,26-27" lang="en" %}}, a cornerstone of the system. It hinges on one very specific reading — down to the punctuation — of a verse, and that particular punctuation is supported only in the King James translation tradition.
 
-### Prediction of the future
+### Predicting the future, again and again
 
 <a name="96d8"></a>
-This interpretation is very often used to claim that some specific element of current politics is predicted in the book of Revelation, or even that the path of history up to the present day was laid out in the book.
+This interpretive style is very often used to claim that some specific element of current politics was predicted in the book of Revelation, or even that the whole path of history up to the present day was laid out there in advance.
 
-There are several flaws in this approach:
+Several flaws run through this approach:
 
-- God’s detailed plan is not fixed even when proclaimed by prophets, see the story of {{% bible val="Jonah" link="jon:3,4-10" lang="en" %}} or {{% bible val="Hesekiah" link="isa:38,1-5" lang="en" %}}.
-- As a prophetic book, the intention is not to predict, but to describe (possible) consequences and to encourage people to act so that these things don’t happen.
-- There have been so many “fits” with historical events that were so convincing, but all of them have been revised as time has gone on, so the amount of all these fitting predictions is the best argument against it. 😎
-- The prediction is often done with a special tunnel view, e.g. the seven letters to the churches are seen as 7 epochs of the church and we are now living in the last era of Laodicea, the lukewarm church. This may be an interpretation of some Western churches, but it would be a very wrong view of the many churches that are now in tribulation.
+- God's detailed plans are not fixed even when they are proclaimed by prophets — see the story of {{% bible val="Jonah" link="jon:3,4-10" lang="en" %}} or {{% bible val="Hezekiah" link="isa:38,1-5" lang="en" %}}, where the announced outcome changes.
+- As a prophetic book, Revelation's intention is not to predict but to describe possible consequences and to press people to act so that those consequences don't have to happen.
+- There have been so many supposedly perfect "fits" with historical events, each convincing in its day, that have since been quietly revised as time moved on. The sheer number of abandoned fits is itself the best argument against the method that produced them.
+- The predictions are often built on a narrow tunnel view. The seven letters to the churches, for example, are read as seven epochs of church history, with the claim that we are now living in the last era, that of lukewarm Laodicea. That might describe some Western churches, but it would badly misdescribe the many churches around the world currently living through real tribulation.
 
 ### No rapture
 
 <a name="436d"></a>
-{{% int_link val="There is no rapture." link="/expl/topics/others/the-rapture" %}}
+Perhaps the clearest problem of all: {{% int_link val="there is no rapture." link="/expl/topics/others/the-rapture" %}}
 
 ### The third temple
 
 <a name="3d3b"></a>
-The theory speaks of a new temple being built in Jerusalem, based on the {{% bible val="fact that the temple is given to the Gentiles in Revelation" link="rev:11,1-2" lang="en" %}}. Since there is no temple as a building right now existing, it must be built. This interpretation does not take into account that the temple is {{% int_link val="not necessarily a building" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} but a description of the presence of God.
+The theory holds that a new temple must be built in Jerusalem, reasoning from the {{% bible val="fact that the temple is given to the Gentiles in Revelation" link="rev:11,1-2" lang="en" %}} — since no such building exists today, it argues, one must still be constructed. But this reading misses that the temple is {{% int_link val="not necessarily a building" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}; throughout Revelation it functions as a description of God's presence, not a piece of architecture waiting to be rebuilt.
 
-Therefore, there is statement that a new temple building will be erected.
+The claim that a literal new temple building will be erected simply doesn't follow from the text.
 
 ### The tribulation
 
 <a name="629d"></a>
-{{% int_link val="This is a longer story" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
+The tribulation deserves its own treatment: {{% int_link val="that is a longer story, told here" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}.
 
 ### The church and Israel
 
 <a name="40c6"></a>
-The theory places the church as an intermediate construct between the Old Testament and the 1000 year kingdom due to the “dispensations”: After the time of the church, the covenant with Israel will be restored and ethnic Israel will rule over the world. The church is raptured at this time because the term “church” does not exist after chapter 3 and does not appear until chapter 21.
+The theory treats the church as an intermediate construct, wedged between the Old Testament and the 1000-year kingdom by the logic of the "dispensations." On this scheme, once the church age ends, the covenant with Israel is restored and ethnic Israel rules the world, while the church itself is raptured away — a conclusion drawn largely from the fact that the term "church" doesn't appear between chapter 3 and chapter 21.
 
-There are several things wrong with this. But before I get to those, I want to acknowledge that this view is a good counterpart to the theory that God rejected Israel, which gave the church the excuse to persecute the Jews in the Middle Ages.
+There are several things wrong with this construction. But before getting to them, it's worth acknowledging that this view is at least a good counterweight to the older theory that God rejected Israel outright — a theory that gave the church an excuse to persecute Jews throughout the Middle Ages.
 
-So what is wrong?
+So what exactly is wrong with it?
 
-- The church is {{% int_link val="identified with Israel" link="/expl/background/israel/the-church-is-part-of-israel" %}} in the sense that the church has become the fulfillment of Israel’s original calling and the {{% bible val="church is part of Israel" link="rom:11,13-24" lang="en" %}}.
-- There is {{% bible val="no longer a wall/distinction between Israel and the Gentiles" link="eph:2,11-22" lang="en" %}}.
-- It is not the church that is temporal {{% bible val="but the covenant at Sinai" link="gal:3,15-29" lang="en" %}}, while faith in Christ is the fulfillment of the covenant with Abraham.
-- The church does not disappear because the term disappears.
-- If all Israel will rule what is about the people who do not believe in God at all — and this was even better in the Old Testament, where there were no atheists ;-).
+- The church is {{% int_link val="identified with Israel" link="/expl/background/israel/the-church-is-part-of-israel" %}} in the sense that it has become the fulfillment of Israel's original calling, and {{% bible val="the church is part of Israel" link="rom:11,13-24" lang="en" %}}.
+- There is {{% bible val="no longer a wall or distinction between Israel and the Gentiles" link="eph:2,11-22" lang="en" %}}.
+- It is not the church that is temporary, {{% bible val="but the covenant at Sinai" link="gal:3,15-29" lang="en" %}}, while faith in Christ fulfills the earlier covenant with Abraham.
+- The church does not disappear from the story just because the word "church" disappears from the text.
+- If ethnic Israel alone is to rule, what becomes of the people who do not believe in God at all? Even the Old Testament handled that question more directly, if only because it had no shortage of unbelievers to address.
 
-### The most important things
+### The most important things, oddly sidelined
 
 <a name="e917"></a>
-The most important things in the theory are the rapture and the tribulation, both of which are mentioned once. Other topics, which occur much more frequently and are the content of the book, are neglected.
+The rapture and the tribulation, the two ideas the theory leans on most heavily, are each mentioned only once or twice in the entire Bible. Meanwhile, the themes that actually occur again and again — and that make up the bulk of the book's real content — are pushed to the margins.
 
-### The reason for faith
+### The reason for faith it offers
 
 <a name="9d26"></a>
-The reason for faith in this theory is fear — if you do not believe, you will not be part of the rapture and will be left behind. Fear is not a {{% int_link val="trait of the church but, of the beast" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Furthermore, faith is reduced to being saved, not becoming like Christ, loving your neighbor, or influencing society.
+The reason for faith that this theory ultimately holds out is fear: believe, or you will miss the rapture and be left behind. But fear is {{% int_link val="a trait of the beast, not of the church" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. On top of that, faith gets reduced to a single transaction — being saved — with little left over for becoming like Christ, loving one's neighbor, or shaping society for good.
 
-### The weapons of warfare
+### The weapons of warfare it imagines
 
 <a name="14cf"></a>
-Faith is described in a very militaristic way, joining the army, which is {{% bible val="not a reflection of Revelation" link="rev:14,1-5" lang="en" %}}: {{% bible val="Jesus goes to war alone with the sword of his mouth" link="rev:19,21" lang="en" %}}. This is a very symbolic act and does not imply a violent act of war.
+Faith, in this framework, gets cast in heavily militaristic terms, complete with an army to join. That picture is {{% bible val="not what Revelation actually shows" link="rev:14,1-5" lang="en" %}}: {{% bible val="Jesus goes to war alone, armed only with the sword of his mouth" link="rev:19,21" lang="en" %}}. That is a deliberately symbolic image, not a call to literal, violent warfare.
 
-### Is wrongly political
+### Its politics
 
 <a name="3bc8"></a>
-The theory makes statements about politics that are unsupported by the Bible and even contradictory:
+The theory also makes political claims that the Bible does not support, and that are sometimes self-contradictory:
 
-- It is anti-Catholic.
-- It is uncritically pro-American and pro-Israel (note: the Old Testament was very critical of Israel).
-- It sees the war in the Middle East as part of God’s plan and therefore a good thing.
+- It tends toward anti-Catholicism.
+- It is uncritically pro-American and pro-Israel, even though the Old Testament itself is frequently critical of Israel.
+- It treats the current wars in the Middle East as part of God's plan, and therefore as something to welcome rather than mourn.

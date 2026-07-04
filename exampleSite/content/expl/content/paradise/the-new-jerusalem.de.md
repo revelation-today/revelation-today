@@ -12,31 +12,31 @@ sources:
       ref: beale_rev
 ---
 
-Wie Himmel und Erde aussehen werden, ist im Einzelnen schwer zu sagen, aber die Offenbarung gibt uns dennoch einige Einblicke.
+Wie wird der Himmel sein, und wie wird die Hölle sein? Die Offenbarung beantwortet keine der beiden Fragen erschöpfend, aber sie gibt zu beiden echte Einblicke.
 
 ## Der Aufbau des Kapitels
 
 <a name="8c47"></a>
-Das Kapitel hat eine Gemeinsamkeit mit dem {{% bible val="Löwen" link="rev:5,5" lang="de" %}}, der das {{% bible val="Lamm" link="rev:5,6" lang="de" %}} ist oder {{% bible val="der Armee Gottes" link="rev:7,4-8" lang="de" %}}, die die {{% bible val="Anbeter aus allen Nationen sind, die aus der Großen Trübsal kommen" link="rev:7,17" lang="de" %}}.
+Kapitel 21 beginnt mit demselben literarischen Kunstgriff, der schon früher im Buch verwendet wurde, wo sich der {{% bible val="Löwe" link="rev:5,5" lang="de" %}} als das {{% bible val="Lamm" link="rev:5,6" lang="de" %}} herausstellt und {{% bible val="die Armee Gottes" link="rev:7,4-8" lang="de" %}} sich als {{% bible val="Anbeter aus jeder Nation herausstellt, die aus der großen Trübsal kommen" link="rev:7,9-17" lang="de" %}}: Johannes hört das eine und sieht das andere.
 
-Hier {{% bible val="hört Johannes von der Braut Gottes" link="rev:21,9" lang="de" %}}, die er {{% bible val="als das Neue Jerusalem sieht" link="rev:21,10" lang="de" %}}, was zeigt, dass es sich nicht um eine wörtliche Beschreibung handelt (Frauen und Städte unterscheiden sich erheblich), sondern um eine symbolische Beschreibung und eine starke Betonung, dass wir unsere jüdischen Wurzeln nicht vernachlässigen dürfen.
+Auch hier {{% bible val="hört Johannes von der Braut Gottes" link="rev:21,9" lang="de" %}}, {{% bible val="sieht sie dann aber als das Neue Jerusalem" link="rev:21,10" lang="de" %}}. Diese Nichtübereinstimmung ist der Punkt – eine Frau und eine Stadt sind offensichtlich nicht dasselbe – und sie signalisiert, dass dies eine symbolische, keine wörtliche Beschreibung ist, während sie dennoch auf ihren jüdischen Wurzeln besteht.
 
-Der Abschnitt läßt sich wie folgt einteilen:
+Der Abschnitt lässt sich wie folgt gliedern:
 
-21/1–8: Einführung in das neue Jerusalem, das eine Zusammenfassung des darauffolgenden Abschnitts ist (ähnlich wie Jes. 60)
+21,1–8: Einführung in das Neue Jerusalem, die den folgenden Abschnitt zusammenfasst (ähnlich wie {{% bible val="Jes. 60" link="isa:60,1-20" lang="de" %}}), wobei jeder Vers einen späteren Abschnitt vorwegnimmt:
 
-- 21/2 -&gt; 21/9–11
-- 21/3 -&gt; 21/22–24; 22/3
-- 21/6 -&gt; 22/1
-- 21/8 -&gt; 21/27a
+- 21,2 -&gt; 21,9–11
+- 21,3 -&gt; 21,22–24; 22,3
+- 21,6 -&gt; 22,1
+- 21,8 -&gt; 21,27a
 
-22/9–22/5: Das neue Jerusalem
+21,9–22,5: Das Neue Jerusalem im Detail:
 
-- 21/9–14: Erster Eindruck von der Stadt
-- 21/15–17: Maße der Stadt
-- 21/18–21: Material der Stadt
-- 21/22–27: Innere Merkmale der Stadt
-- 22/1–5: Symbole der Gegenwart Gottes
+- 21,9–14: erster Eindruck von der Stadt
+- 21,15–17: Maße der Stadt
+- 21,18–21: Material der Stadt
+- 21,22–27: innere Merkmale der Stadt
+- 22,1–5: Symbole der Gegenwart Gottes
 
 ## Einführung in das Neue Jerusalem
 
@@ -45,116 +45,91 @@ Der Abschnitt läßt sich wie folgt einteilen:
 ## Alles ist neu
 
 <a name="2da9"></a>
-“{{% bible val="Und ich sah einen neuen Himmel und eine neue Erde; denn der erste Himmel und die erste Erde waren vergangen, und das Meer gibt es nicht mehr." link="rev:21,1" lang="de" %}}”
+„{{% bible val="Und ich sah einen neuen Himmel und eine neue Erde, denn der erste Himmel und die erste Erde waren vergangen, und das Meer gibt es nicht mehr." link="rev:21,1" lang="de" %}}"
 
-“Neu” bezieht sich nicht nur auf etwas Neues, sondern beschreibt eine Qualität: {{% bible val="Das Erste ist vorübergehend, aber das Neue ist dauerhaft" link="isa:66,22" lang="de" %}}.
-
-Hier {{% bible val="werden sich viele der Verheißungen des Alten Testaments erfüllen" link="isa:65,17-25" lang="de" %}}.
+„Neu" beschreibt hier nicht nur etwas, das gerade erst entstanden ist – es beschreibt eine Qualität. Der erste Himmel und die erste Erde waren {{% bible val="vorübergehend, aber die neuen sind dauerhaft" link="isa:66,22" lang="de" %}}, und in ihnen {{% bible val="erfüllen sich viele der Verheißungen des Alten Testaments" link="isa:65,17-25" lang="de" %}}.
 
 ## Kein Meer mehr
 
 <a name="eee1"></a>
-Es wird gesagt, dass es {{% bible val="kein Meer mehr geben wird" link="rev:21,1" lang="de" %}}. Das Meer ist
+Der Vers sagt auch, es {{% bible val="werde kein Meer mehr geben" link="rev:21,1" lang="de" %}}, was von Bedeutung ist wegen dessen, wofür das Meer in der ganzen Schrift steht. Es ist der Ort, an dem das Böse seinen Ursprung hat, wie in der {{% bible val="Offenbarung" link="rev:13,1" lang="de" %}} selbst, oder bei den Meeresungeheuern {{% bible val="Leviatan" link="psa:74,13-14" lang="de" %}} und {{% bible val="Rahab" link="isa:51,9-10" lang="de" %}}, oder bei bösen Königen, die als Meeresungeheuer personifiziert werden, wie dem {{% bible val="Pharao" link="ezk:32,2" lang="de" %}}, oder beim {{% bible val="Meer selbst als bösem Medium" link="psa:93,3-4" lang="de" %}}. Es ist auch {{% bible val="der Ort der Toten" link="rev:20,13" lang="de" %}}, zusammen mit dem Hades.
 
-- der Ort des Ursprungs des Bösen wie in der {{% bible val="Offenbarung" link="rev:13,1" lang="de" %}} oder durch die Beschreibung der Meeresungeheuer {{% bible val="Leviathan" link="psa:74,13-14" lang="de" %}} oder {{% bible val="Rahab" link="isa:51,9-10" lang="de" %}} oder durch die Personifizierung böser Könige als Meeresungeheuer wie der {{% bible val="Pharao" link="ezk:32,2" lang="de" %}}, böse Könige im Allgemeinen oder das {{% bible val="Meer selbst als böses Medium" link="psa:93,3-4" lang="de" %}}.
-- der {{% bible val="Ort des Todes" link="rev:20,13" lang="de" %}} zusammen mit dem Hades.
-
-Wenn es also kein Meer mehr gibt, dann gibt es auch keinen Ort, an dem das Böse wohnen und die Gläubigen unterdrücken kann. {{% bible val="Das Meer befindet sich zudem außerhalb der Stadt" link="rev:20,14-15" lang="de" %}}.
+Wenn es also kein Meer mehr gibt, gibt es auch keinen Ort mehr, an dem das Böse wohnen und die Gläubigen unterdrücken kann – tatsächlich {{% bible val="wird das Meer aus der Stadt hinausgeworfen" link="rev:20,14-15" lang="de" %}}, zusammen mit allem anderen, was dort nicht hingehört.
 
 ## Jerusalem, die Heilige Stadt
 
 <a name="a373"></a>
-“{{% bible val="Und ich, Johannes, sah die heilige Stadt, das neue Jerusalem, von Gott aus dem Himmel herabsteigen, zubereitet wie eine für ihren Mann geschmückte Braut." link="rev:21,2" lang="de" %}}”
+„{{% bible val="Und ich sah die heilige Stadt, das neue Jerusalem, von Gott aus dem Himmel herabsteigen, bereitet wie eine für ihren Mann geschmückte Braut." link="rev:21,2" lang="de" %}}"
 
-Jerusalem ist die {{% bible val="schön gekleidete Stadt bei Jesaja" link="isa:52,1-10" lang="de" %}}, deren {{% bible val="Bild weiterentwickelt wird" link="isa:61,10" lang="de" %}}, die einen {{% bible val="neuen Namen bekommt" link="isa:62,1-2" lang="de" %}} und eine {{% bible val="innige Beziehung zu Gott hat — Gott freut sich über sie" link="isa:62,3-5" lang="de" %}}.
+Dieses Bild wurzelt tief in Jesaja, wo Jerusalem die {{% bible val="schön gekleidete Stadt" link="isa:52,1-10" lang="de" %}} ist, ein Bild, das {{% bible val="weiterentwickelt wird" link="isa:61,10" lang="de" %}}, bis sie {{% bible val="einen neuen Namen erhält" link="isa:62,1-2" lang="de" %}} und {{% bible val="in eine innige Beziehung zu Gott tritt, der sich über sie freut" link="isa:62,3-5" lang="de" %}}.
 
-Dieser Gedanke wird im Neuen Testament aufgegriffen als
+Das Neue Testament greift denselben Gedanken auf:
 
 - {{% bible val="Gott hat eine Stadt für die Gläubigen bereitet" link="heb:11,13-16" lang="de" %}}
 - {{% bible val="wir haben ein Bürgerrecht im Himmel" link="php:3,20" lang="de" %}}
 - {{% bible val="es gibt ein himmlisches Jerusalem" link="heb:12,22" lang="de" %}}
 - {{% bible val="Jerusalem ist frei" link="gal:4,26-31" lang="de" %}}
 
-Es gibt eine interessante Parallele zu {{% bible val="den Versen 10 und 11" link="rev:21,10-11" lang="de" %}}:
-
-Vers 2: das neue Jerusalem, das von Gott aus dem Himmel herabkommt, vorbereitet wie eine schön gekleidete Braut für ihren Mann.
-
-Vers 10–11: Heilige Stadt, Jerusalem, von Gott aus dem Himmel herabgekommen. Sie erstrahlte in der Herrlichkeit Gottes.
-
-Das schöne Kleid der Braut ist die Herrlichkeit Gottes. Und {{% bible val="Gottes Herrlichkeit ist seine Barmherzigkeit und sein Erbarmen" link="exo:33,17-23" lang="de" %}}, die auch die Kirche widerspiegeln soll.
+Es gibt auch eine interessante Parallele innerhalb der Offenbarung selbst, zwischen Vers 2 und {{% bible val="den Versen 10 und 11" link="rev:21,10-11" lang="de" %}}: Vers 2 zeigt das neue Jerusalem, das „von Gott aus dem Himmel herabsteigt, bereitet wie eine für ihren Mann geschmückte Braut", während die Verse 10–11 die „heilige Stadt Jerusalem, von Gott aus dem Himmel herabsteigend" zeigen, die „mit der Herrlichkeit Gottes erstrahlte". Legt man beide nebeneinander, zeigt sich: Das schöne Kleid der Braut ist die Herrlichkeit Gottes – und {{% bible val="Gottes Herrlichkeit ist seine Barmherzigkeit und sein Erbarmen" link="exo:33,17-23" lang="de" %}}, die auch die Gemeinde widerspiegeln soll.
 
 ## Gott lebt mit seinem Volk
 
 <a name="f42c"></a>
-”{{% bible val="Und ich hörte eine laute Stimme aus dem Himmel sagen: Siehe, das Zelt Gottes bei den Menschen! Und er wird bei ihnen wohnen; und sie werden seine Völker sein, und Gott selbst wird bei ihnen sein, ihr Gott." link="rev:21,3" lang="de" %}}”
+„{{% bible val="Und ich hörte eine laute Stimme vom Thron her sagen: Siehe, die Hütte Gottes ist nun bei den Menschen, und er wird bei ihnen wohnen. Sie werden sein Volk sein, und Gott selbst wird bei ihnen sein und ihr Gott sein." link="rev:21,3" lang="de" %}}"
 
-Die laute Stimme war schon beim {{% bible val="Gericht über das Reich des Satans" link="rev:16,17" lang="de" %}} und beim{{% bible val=" Gericht über Babel" link="rev:19,5" lang="de" %}} zu hören.
+Diese laute Stimme trat bereits früher auf, beim {{% bible val="Gericht über das Reich Satans" link="rev:16,17" lang="de" %}} und beim {{% bible val="Gericht über Babel" link="rev:19,5" lang="de" %}}.
 
-Dass Gott mit seinem Volk lebt, ist eine {{% bible val="Verheißung im Pentateuch" link="lev:26,11-12" lang="de" %}}, die in {{% bible val="Hesekiel" link="ezk:37,27" lang="de" %}} aufgegriffen wird, als {{% bible val="er in den Tempel zurückkehrt" link="ezk:43,7" lang="de" %}} und sogar die {{% bible val="Nationen einschließt" link="zec:2,10-11" lang="de" %}}. Dies ist auch ein Thema im {{% bible val="Neuen Testament" link="2co:6,16" lang="de" %}} und in der Offenbarung.
+Dass Gott bei seinem Volk wohnt, ist eine {{% bible val="Verheißung im Pentateuch" link="lev:26,11-12" lang="de" %}}, die in {{% bible val="Hesekiel" link="ezk:37,27" lang="de" %}} aufgegriffen wird, wenn er {{% bible val="in den Tempel zurückkehrt" link="ezk:43,7" lang="de" %}} und {{% bible val="sogar die Nationen einschließt" link="zec:2,10-11" lang="de" %}}. Das ist auch ein Thema im {{% bible val="Neuen Testament" link="2co:6,16" lang="de" %}} und in der Offenbarung.
 
 ## Wischt alle Tränen ab
 
 <a name="a74c"></a>
-“{{% bible val="Und Gott wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein, weder Leid noch Geschrei noch Schmerz wird mehr sein; denn das Erste ist vergangen." link="rev:21,4" lang="de" %}}”
+„{{% bible val="Er wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein, weder Leid noch Geschrei noch Schmerz wird mehr sein; denn das Erste ist vergangen." link="rev:21,4" lang="de" %}}"
 
-Dies ist eine weitere {{% bible val="Verheißung aus Jesaja, wo Tränen und Tod fliehen" link="isa:25,8" lang="de" %}}, aber auch {{% bible val="Weinen" link="isa:35,10" lang="de" %}} und {{% bible val="Seufzen" link="isa:51,11" lang="de" %}}.
-
-Das {{% bible val="erste wird mit all seiner Trauer verschwinden" link="isa:65,17-20" lang="de" %}}, und {{% bible val="wir sollten mit dieser Vision nicht zurück, sondern nach vorne schauen" link="isa:43,18" lang="de" %}}.
+Dies ist eine weitere Verheißung aus {{% bible val="Jesaja, wo Tränen und Tod fliehen" link="isa:25,8" lang="de" %}}, zusammen mit {{% bible val="Weinen" link="isa:35,10" lang="de" %}} und {{% bible val="Seufzen" link="isa:51,11" lang="de" %}}. Die {{% bible val="alte Ordnung wird vergangen sein, samt all ihrer Trauer" link="isa:65,17-20" lang="de" %}}, und wir {{% bible val="sollen diese Vision lesen, indem wir nach vorne, nicht zurückblicken" link="isa:43,18" lang="de" %}}.
 
 ## Alle Dinge werden neu
 
 <a name="d592"></a>
-“{{% bible val="Und der auf dem Thron saß, sprach: Siehe, ich mache alles neu! Und er sprach zu mir: Schreibe; denn diese Worte sind wahrhaftig und gewiss!" link="rev:21,5" lang="de" %}}”
+„{{% bible val="Und der auf dem Thron saß, sprach: Siehe, ich mache alles neu! Und er sprach zu mir: Schreibe, denn diese Worte sind wahrhaftig und gewiss." link="rev:21,5" lang="de" %}}"
 
-“{{% bible val="Alles ist neu" link="isa:43,18-19" lang="de" %}}” ist in{{% bible val=" Jesus erfüllt, der mit uns die neue Schöpfung begonnen hat" link="2co:5,17" lang="de" %}}.
+Die Verheißung, dass {{% bible val="Gott alle Dinge neu macht" link="isa:43,18-19" lang="de" %}}, erfüllt sich in {{% bible val="Jesus, der die neue Schöpfung mit uns begonnen hat" link="2co:5,17" lang="de" %}}.
 
 ## Lebendiges Wasser
 
 <a name="8a3f"></a>
-“{{% bible val="Und er sprach zu mir: Es ist geschehen! Ich bin das A und das O, der Anfang und das Ende. Ich will dem Dürstenden geben aus dem Quell des Wassers des Lebens umsonst!" link="rev:21,6" lang="de" %}}”
+„{{% bible val="Und er sprach zu mir: Es ist geschehen! Ich bin das Alpha und das Omega, der Anfang und das Ende. Ich will dem Dürstenden umsonst geben aus der Quelle des Wassers des Lebens." link="rev:21,6" lang="de" %}}"
 
-Dies ist die Erfüllung von {{% bible val="Jesaja" link="isa:49,10" lang="de" %}}, wo Gott umsonst zu trinken gibt. Der Begriff “[umsonst](https://biblehub.com/greek/1432.htm)” wird bei {{% bible val="Johannes" link="jhn:15,25" lang="de" %}}, {{% bible val="Matthäus" link="mat:10,8" lang="de" %}}, im {{% bible val="Korintherbrief" link="2co:11,7" lang="de" %}}, {{% bible val="Galaterbrief" link="gal:2,21" lang="de" %}}, {{% bible val="Römerbrief" link="rom:3,24" lang="de" %}} und {{% bible val="Thessalonicherbrief" link="2th:3,8" lang="de" %}} verwendet und sehr oft mit “freie Gabe” gleichgesetzt.
+Dies erfüllt {{% bible val="Jesaja" link="isa:49,10" lang="de" %}}, wo Gott umsonst zu trinken gibt. Der Ausdruck „[umsonst](https://biblehub.com/greek/1432.htm)" kehrt im ganzen Neuen Testament wieder – bei {{% bible val="Johannes" link="jhn:15,25" lang="de" %}}, {{% bible val="Matthäus" link="mat:10,8" lang="de" %}}, in den Briefen an die {{% bible val="Korinther" link="2co:11,7" lang="de" %}}, {{% bible val="Galater" link="gal:2,21" lang="de" %}}, {{% bible val="Römer" link="rom:3,24" lang="de" %}} und {{% bible val="Thessalonicher" link="2th:3,8" lang="de" %}} – und wird sehr häufig mit dem Gedanken eines frei gegebenen Geschenks verbunden.
 
-Das lebendige Wasser hat seine {{% bible val="Quelle in Gott" link="jer:2,13" lang="de" %}}, er {{% bible val="gibt reichlich zu trinken" link="psa:36,8-9" lang="de" %}}, sogar {{% bible val="überfließend" link="jol:3,5" lang="de" %}} und natürlich erfüllt in {{% bible val="Jesus mit der Frau am Brunnen " link="jhn:4,10" lang="de" %}}und als {{% bible val="eine Verheißung für alle, die an ihn glauben" link="jhn:7,38" lang="de" %}}.
+Das lebendige Wasser hat seine Quelle in {{% bible val="Gott" link="jer:2,13" lang="de" %}}, der {{% bible val="reichlich zu trinken gibt" link="psa:36,8-9" lang="de" %}}, bis hin zum {{% bible val="Überfließen" link="jol:3,18" lang="de" %}}. Erfüllt wird es natürlich in Jesus, sowohl bei der {{% bible val="Frau am Brunnen" link="jhn:4,10" lang="de" %}} als auch als {{% bible val="Verheißung an alle, die an ihn glauben" link="jhn:7,38" lang="de" %}}.
 
 ## Die Überwinder
 
 <a name="eb5e"></a>
-“{{% bible val="Wer überwindet, der wird alles erben, und ich werde sein Gott sein, und er wird mein Sohn sein." link="rev:21,7" lang="de" %}}”
+„{{% bible val="Wer überwindet, der wird dies alles erben, und ich werde sein Gott sein, und er wird mein Kind sein." link="rev:21,7" lang="de" %}}"
 
-{{% bible val="Jesaja verbindet den Bund mit Gott mit dem Wasser zum Trinken." link="isa:55,1-3" lang="de" %}}
+{{% bible val="Jesaja verbindet Gottes Bund mit dem Wasser, das zu trinken gegeben wird" link="isa:55,1-3" lang="de" %}}, und knüpft diesen Vers damit an denselben Bildbrunnen zurück.
 
-Die Gemeinden, die in Kapitel 2 und 3 überwunden haben, sehen hier die Verheißungen
+Die Verheißungen an die Gemeinden, die in den Kapiteln 2 und 3 überwinden, finden hier alle ihre Erfüllung:
 
-- {{% bible val="Ephesus" link="rev:2,7" lang="de" %}} ist verheißen, {{% bible val="vom Baum des Lebens zu essen" link="rev:22,2" lang="de" %}}.
-- {{% bible val="Philadelphia" link="rev:3,12" lang="de" %}} ist verheißen, eine {{% bible val="Säule im neuen Tempel zu sein" link="rev:21,22-24" lang="de" %}}, {{% bible val="Teil des neuen Jerusalem" link="rev:21,2" lang="de" %}} zu sein, und dass {{% bible val="Gottes Name auf sie geschrieben" link="rev:22,4" lang="de" %}} wird.
-- {{% bible val="Sardes" link="rev:3,5" lang="de" %}} ist verheißen, {{% bible val="im Buch des Lebens zu stehen" link="rev:21,27" lang="de" %}} und {{% bible val="weiße Kleider zu haben" link="rev:21,2" lang="de" %}}.
-- {{% bible val="Pergamon" link="rev:2,17" lang="de" %}} und {{% bible val="Thyatira" link="rev:2,28" lang="de" %}} sind verheißen, einen {{% bible val="hellen Stein" link="rev:21,11" lang="de" %}}({{% bible val="e" link="rev:21,18-21" lang="de" %}}) zu haben.
-- {{% bible val="Thyatira" link="rev:2,26-27" lang="de" %}} und {{% bible val="Laodizea" link="rev:3,21" lang="de" %}} sind verheißen, mit {{% bible val="Jesus zu herrschen" link="rev:22,5" lang="de" %}}.
-- {{% bible val="Smyrna" link="rev:2,11" lang="de" %}} ist verheißen, vom {{% bible val="zweiten Tod ausgeschlossen zu werden" link="rev:21,7-8" lang="de" %}}.
+- {{% bible val="Ephesus" link="rev:2,7" lang="de" %}} wird verheißen, {{% bible val="vom Baum des Lebens zu essen" link="rev:22,2" lang="de" %}}
+- {{% bible val="Philadelphia" link="rev:3,12" lang="de" %}} wird verheißen, eine {{% bible val="Säule im neuen Tempel zu sein" link="rev:21,22-24" lang="de" %}}, {{% bible val="Teil des Neuen Jerusalems zu sein" link="rev:21,2" lang="de" %}}, und dass {{% bible val="Gottes Name auf sie geschrieben wird" link="rev:22,4" lang="de" %}}
+- {{% bible val="Sardes" link="rev:3,5" lang="de" %}} wird verheißen, {{% bible val="im Buch des Lebens zu stehen" link="rev:21,27" lang="de" %}} und {{% bible val="weiße Kleider zu tragen" link="rev:21,2" lang="de" %}}
+- {{% bible val="Pergamon" link="rev:2,17" lang="de" %}} und {{% bible val="Thyatira" link="rev:2,28" lang="de" %}} wird ein {{% bible val="heller Stein" link="rev:21,11" lang="de" %}} ({{% bible val="oder Steine" link="rev:21,18-21" lang="de" %}}) verheißen
+- {{% bible val="Thyatira" link="rev:2,26-27" lang="de" %}} und {{% bible val="Laodizea" link="rev:3,21" lang="de" %}} wird verheißen, mit {{% bible val="Jesus zu herrschen" link="rev:22,5" lang="de" %}}
+- {{% bible val="Smyrna" link="rev:2,11" lang="de" %}} wird verheißen, vom {{% bible val="zweiten Tod ausgenommen zu sein" link="rev:21,7-8" lang="de" %}}
 
 ## Bereit für den zweiten Tod
 
 <a name="e855"></a>
-“{{% bible val="Die Feiglinge aber und die Ungläubigen und mit Gräueln Befleckten und Mörder und Unzüchtigen und Zauberer und Götzendiener und alle Lügner — ihr Teil wird in dem See sein, der von Feuer und Schwefel brennt; das ist der zweite Tod." link="rev:21,8" lang="de" %}}”
+„{{% bible val="Die Feiglinge aber und Ungläubigen und mit Gräueln Befleckten und Mörder und Unzüchtigen und Zauberer und Götzendiener und alle Lügner – ihr Teil wird in dem See sein, der von Feuer und Schwefel brennt; das ist der zweite Tod." link="rev:21,8" lang="de" %}}"
 
-Die Liste dieser Menschen ist das Gegenstück zu den {{% bible val="Überwindern" link="rev:21,7" lang="de" %}}.
+Diese Liste der Verurteilten ist das direkte Gegenstück zur Liste der {{% bible val="Überwinder" link="rev:21,7" lang="de" %}}, die gerade genannt wurde.
 
-[Feiglinge](https://biblehub.com/greek/1169.htm) sind diejenigen, die {{% bible val="aus Furcht nicht handeln" link="mat:8,26" lang="de" %}} und das Gegenstück zu denen sind, die {{% bible val="Frieden haben" link="jhn:14,27-29" lang="de" %}}, {{% bible val="Gott vertrauen" link="jhn:14,1" lang="de" %}} und {{% bible val="wissen, dass Gott sie niemals verlässt" link="jhn:16,31-33" lang="de" %}}.
+[Feiglinge](https://biblehub.com/greek/1169.htm) sind diejenigen, {{% bible val="die aus Furcht heraus handeln" link="mat:8,26" lang="de" %}} – das Gegenstück zu denen, die {{% bible val="Frieden haben" link="jhn:14,27-29" lang="de" %}}, {{% bible val="Gott vertrauen" link="jhn:14,1" lang="de" %}} und {{% bible val="wissen, dass Gott sie niemals verlässt" link="jhn:16,31-33" lang="de" %}}. „Mörder, Unzüchtige, Zauberer und Götzendiener" kann Ungläubige beschreiben, aber ebenso gut Menschen innerhalb der Gemeinde, die Kompromisse eingehen, wie es in {{% bible val="Pergamon" link="rev:2,14" lang="de" %}} und {{% bible val="Thyatira" link="rev:2,20-21" lang="de" %}} geschah. All diese Sünden gehen tatsächlich auf den Götzendienst zurück: Mord, so wie Götzendiener {{% bible val="Kinder opfern" link="psa:106,36-38" lang="de" %}} oder {{% bible val="Gläubige töten" link="rev:13,15" lang="de" %}}; sexuelle Unmoral, verknüpft mit Tempelprostitution; und das Praktizieren magischer Künste, das {{% bible val="die Schrift direkt mit Götzendienst verbindet" link="deu:18,9-11" lang="de" %}}, wie bei {{% bible val="Isebel" link="2ki:9,22" lang="de" %}}.
 
-“Mörder, Unzüchtige, Zauberer und Götzendiener” können Ungläubige oder Menschen in der Kirche sein, die Kompromisse eingehen wie in {{% bible val="Pergamon" link="rev:2,14" lang="de" %}} und {{% bible val="Thyatira" link="rev:2,20-21" lang="de" %}}.
-
-Sie alle sind mit dem Götzendienst verbunden:
-
-- Mörder wie die, die {{% bible val="Kinder opfern" link="psa:106,36-38" lang="de" %}} oder {{% bible val="Gläubige töten" link="rev:13,15" lang="de" %}}
-- sexuelle Unmoral steht in Verbindung mit Tempelprostitution
-- magische Künste praktizieren die, die {{% bible val="Götzendienst " link="deu:18,9-11" lang="de" %}}treiben, also auch {{% bible val="Isebel" link="2ki:9,22" lang="de" %}}
-
-Lügner haben den Glauben verraten, weil {{% bible val="sie sich Apostel nennen" link="rev:2,2" lang="de" %}}, auf {{% bible val="Satans Weise handeln" link="rev:3,9" lang="de" %}}, {{% bible val="falsches Zeugnis ablegen" link="1jn:2,4" lang="de" %}}, dem {{% bible val="Wort Jesu nicht gehorchen" link="1jn:2,4" lang="de" %}}, {{% bible val="leugnen, dass Jesus der Herr ist" link="1jn:2,22" lang="de" %}}, {{% bible val="ihre Brüder oder Schwestern hassen" link="1jn:4,20" lang="de" %}} und {{% bible val="nicht glauben, dass wir in Jesus ewiges Leben haben" link="1jn:5,10" lang="de" %}}.
-
-Die Liste wird {{% bible val="ganz am Ende" link="rev:22,15" lang="de" %}} und in {{% bible val="einer kürzeren Version am Ende des Kapitels" link="rev:21,27" lang="de" %}} wiederholt, endet aber in allen Fällen mit “Lügner”, denn {{% bible val="es ist wichtig, dass wir mit unseren Worten und Taten konsequent sind" link="tit:1,16" lang="de" %}}.
-
-Der {{% bible val="ultimative Lügner ist Satan" link="jhn:8,44" lang="de" %}}, und wir wollen uns sehr von ihm unterscheiden.
+Lügner schließlich haben den Glauben verraten – {{% bible val="sie nennen sich Apostel" link="rev:2,2" lang="de" %}}, {{% bible val="handeln aber nach Satans Art" link="rev:3,9" lang="de" %}}, {{% bible val="legen falsches Zeugnis ab" link="act:6,13" lang="de" %}}, {{% bible val="missachten Jesu Wort" link="1jn:2,4" lang="de" %}}, {{% bible val="leugnen, dass Jesus der Herr ist" link="1jn:2,22" lang="de" %}}, {{% bible val="hassen ihre Brüder und Schwestern" link="1jn:4,20" lang="de" %}} und {{% bible val="glauben nicht, dass wir in Jesus ewiges Leben haben" link="1jn:5,10" lang="de" %}}. Die Liste wird {{% bible val="ganz am Ende" link="rev:22,15" lang="de" %}} des Buches wiederholt, sowie in einer {{% bible val="kürzeren Fassung am Ende dieses Kapitels" link="rev:21,27" lang="de" %}}, und endet in jedem Fall mit „Lügner", denn es ist {{% bible val="wesentlich, dass unsere Worte und Taten übereinstimmen" link="tit:1,16" lang="de" %}}. Denn der {{% bible val="ultimative Lügner ist Satan" link="jhn:8,44" lang="de" %}} selbst, und hier ist ein Ort, an dem wir uns so deutlich wie möglich von ihm unterscheiden wollen.
 
 ## Details des Neuen Jerusalems
 
@@ -163,104 +138,59 @@ Der {{% bible val="ultimative Lügner ist Satan" link="jhn:8,44" lang="de" %}}, 
 ## {{% bible val="Der erste Eindruck" link="rev:21,9-14" lang="de" %}}
 
 <a name="c99e"></a>
-Das neue Jerusalem ist das Gegenstück zu Babel, wenn wir den {{% int_link val="größeren Zusammenhang betrachten" link="/expl/content/1000y/the-thousand-year-kingdom" %}}. Das {{% bible val="neue Jerusalem stellt eine Frau (die Braut) dar" link="rev:21,2" lang="de" %}}, so wie Babel eine Frau (die Hure) darstellt, was auch in {{% bible val="Jesaja" link="isa:62,1-5" lang="de" %}} zum Ausdruck kommt.
+Das Neue Jerusalem ist das Gegenstück zu Babel, wenn wir den {{% int_link val="größeren Zusammenhang betrachten" link="/expl/content/1000y/the-thousand-year-kingdom" %}}. Das {{% bible val="Neue Jerusalem stellt eine Frau (die Braut) dar" link="rev:21,2" lang="de" %}}, genau wie Babel eine Frau (die Hure) darstellt, was sich auch bei {{% bible val="Jesaja" link="isa:62,1-5" lang="de" %}} widerspiegelt.
 
-- Babel ist das Wirtschaftssystem, das mit der Macht des Herrschers verteilt wird, und Unmoral wird mit Götzendienst (Untreue) betrieben, aber das Volk Gottes ist ihm treu.
+- Babel ist das Wirtschaftssystem, das mit der Macht des Herrschers verteilt wird, und Unmoral geschieht dort mit Götzendienst (Untreue), aber Gottes Volk ist ihm treu
 - Babel verursacht Leid, während Jerusalem das Leid beseitigt
-- Babel zerstört sich selbst und Jerusalem bleibt für immer
-- Babel wird reich durch Ausbeutung und Verfolgung, Jerusalem aber ist reich als Gottes Geschenk
+- Babel zerstört sich selbst, und Jerusalem bleibt für immer
+- Babel wird reich durch Ausbeutung und Verfolgung, aber Jerusalem ist reich als Gottes Geschenk
 
-Die zwölf Tore beziehen sich auf die 12 Stämme und die 12 Grundsteine auf die 12 Apostel. Die {{% bible val="2 mal 12 spiegeln die ewige Anbetung im Himmel wider" link="rev:4,4" lang="de" %}}, sind aber auch eine Mahnung, nach Versöhnung zwischen Juden und Nicht-Juden zu suchen, {{% int_link val="deren Konflikt im ganzen Buch beschrieben wird" link="/expl/background/israel/israel-and-the-church" %}}.
+Die zwölf Tore beziehen sich auf die zwölf Stämme, und die zwölf Grundsteine auf die zwölf Apostel. Das {{% bible val="Zwölf-mal-zwei spiegelt die ewige Anbetung im Himmel wider" link="rev:4,4" lang="de" %}}, ist aber auch eine Mahnung, Versöhnung zwischen Juden und Nicht-Juden zu suchen, {{% int_link val="einen Konflikt, der sich durch das ganze Buch zieht" link="/expl/background/israel/israel-and-the-church" %}}.
 
-Das Seltsame ist, dass die Apostel das Fundament der Stämme sind (Kirchenfundament für Israel), aber {{% bible val="das macht Sinn, wenn man bedenkt, dass Jesus die Erfüllung Israels ist, die von der Kirche vollbracht wird" link="eph:2,20" lang="de" %}}. {{% bible val="Juda wird in dem Buch auch als der erste der Stämme aufgeführt, was Jesus widerspiegelt." link="rev:7,4-8" lang="de" %}}
+Es gibt jedoch etwas Merkwürdiges in dieser Anordnung: Die Apostel bilden das Fundament der Stämme – die Gemeinde als Fundament für Israel. Das ergibt Sinn, sobald man sieht, dass {{% bible val="Jesus die Erfüllung Israels ist, ausgearbeitet durch die Gemeinde" link="eph:2,20" lang="de" %}}. Dazu passt auch, dass Juda {{% bible val="an anderer Stelle im Buch als Erster unter den Stämmen aufgeführt wird, was Jesus widerspiegelt" link="rev:7,4-8" lang="de" %}}.
 
 ## {{% bible val="Die Maße der Stadt" link="rev:21,15-17" lang="de" %}}
 
 <a name="bf4e"></a>
-Die Vermessung der Stadt basiert auf {{% bible val="Hesekiel" link="ezk:40,3-5" lang="de" %}}, die die Stadt als {{% bible val="Sicherheit" link="deu:3,5" lang="de" %}} gegen {{% bible val="zerstörerische Kräfte" link="rev:21,27" lang="de" %}} zeigt und einen Kontrast zum alten Jerusalem darstellt, dessen Mauern zerstört wurden.
+Die Vermessung der Stadt greift auf {{% bible val="Hesekiel" link="ezk:40,3-5" lang="de" %}} zurück, wo das Vermessen {{% bible val="Sicherheit" link="deu:3,5" lang="de" %}} gegen {{% bible val="zerstörerische Kräfte" link="rev:21,27" lang="de" %}} anzeigt – ein bewusster Kontrast zum alten Jerusalem, dessen Mauern zerstört wurden. Bei Hesekiel wird der Tempel selbst {{% bible val="als Quadrat vermessen" link="ezk:45,2-3" lang="de" %}}, während {{% bible val="die Stadt um ihn herum eine andere Form hat, wobei der Tempel in ihrer Mitte liegt" link="ezk:48,8-13" lang="de" %}}. Bei Sacharja vermisst Gott die {{% bible val="Stadt" link="zec:2,2" lang="de" %}}, damit {{% bible val="die Menschen Zuflucht finden" link="zec:2,6" lang="de" %}}, da {{% bible val="Gott sich Jerusalem erneut erbarmt hat" link="zec:1,16" lang="de" %}}. Ein Großteil der Sprache in Offenbarung 21 stammt aus diesen Tempelbeschreibungen, besonders aus den letzten neun Kapiteln Hesekiels – doch {{% bible val="es wird im Neuen Jerusalem überhaupt keinen Tempel geben" link="rev:21,22" lang="de" %}}.
 
-In Hesekiel wird der Tempel {{% bible val="als quadratisch gemessen" link="ezk:45,2-3" lang="de" %}}, während {{% bible val="die Stadt eine andere Form hat, aber der Tempel in der Mitte liegt" link="ezk:48,8-13" lang="de" %}}.
+Schaut man genauer hin, stellt man fest, dass die Stadt eine seltsame Form hat: Sie ist ein {{% bible val="Würfel" link="rev:21,16" lang="de" %}}. Das einzige Objekt im Alten Testament mit dieser Form ist {{% bible val="das Allerheiligste" link="2ch:3,8" lang="de" %}}. Warum wird diese Form hier wieder aufgegriffen? Weil das Allerheiligste auf eine reale Beschränkung im alten Tempel hinwies: Gott wohnte dort, und je weiter man davon entfernt stand, desto weiter war man von ihm entfernt. Jetzt, im Neuen Jerusalem, steht jeder gleich nah bei Gott. Mehr noch: {{% bible val="alle Ungläubigen befinden sich außerhalb der Stadt" link="rev:22,14-15" lang="de" %}}, das heißt außerhalb des Allerheiligsten überhaupt – auch hier gilt also wieder: Man ist entweder ganz drinnen oder ganz draußen.
 
-In Sacharja misst Gott die {{% bible val="Stadt" link="zec:2,2" lang="de" %}}, so dass die {{% bible val="Menschen Zuflucht finden" link="zec:2,6" lang="de" %}}, weil {{% bible val="Gott sich wieder über Jerusalem erbarmt hat" link="zec:1,16" lang="de" %}}.
-
-Wie Sie sehen, ist ein Großteil der Sprache in diesem Kapitel der Beschreibung des Tempels entnommen, insbesondere aus den letzten 9 Kapiteln von Hesekiel.
-
-Aber {{% bible val="es wird keinen Tempel geben" link="rev:21,22" lang="de" %}}.
-
-Wenn du genauer hinsiehst, wirst du die seltsame Form der Stadt sehen, die ein {{% bible val="Kubus" link="rev:21,16" lang="de" %}} ist. Wenn du im Alten Testament nachsiehst, wirst du nur ein Objekt mit dieser Form finden: Das {{% bible val="Allerheiligste" link="2ch:3,8" lang="de" %}}. Warum ist das so?
-
-Weil das ein Problem des Tempels war: Gott befand sich im Allerheiligsten, und je weiter man davon entfernt war, desto weiter war man von Gott entfernt.
-
-Jetzt ist jeder Gott am nächsten. Aber nicht nur das. {{% bible val="Alle Ungläubigen befinden sich außerhalb der Stadt" link="rev:22,14-15" lang="de" %}}, also außerhalb des Allerheiligsten, was bedeutet: Man ist entweder ganz drinnen oder ganz draußen.
-
-Ein weiterer Aspekt ist, dass die Größe der Stadt in etwa der Größe der hellenistischen Welt (Römisches Reich) zu dieser Zeit entspricht, so dass es Platz für jeden gibt, der bereit ist, hineinzugehen.
+Ein weiteres Detail ist bemerkenswert: Die Größe der Stadt entspricht ungefähr der Größe der hellenistischen Welt – des Römischen Reiches – zu jener Zeit, das heißt, es ist genug Platz für jeden, der bereit ist einzutreten.
 
 ## {{% bible val="Das Material der Stadt" link="rev:21,18-21" lang="de" %}}
 
 <a name="aef1"></a>
-Das Material erinnert an die {{% bible val="Wiederherstellung Jerusalems nach ihrem Leiden" link="isa:54" lang="de" %}}. Der Hinweis auf das {{% bible val="Gold spiegelt Gottes Herrlichkeit wider" link="1ki:6,20-22" lang="de" %}} (alle Steine sind wie {{% bible val="Jaspis" link="rev:21,11" lang="de" %}}).
+Das Material erinnert an die {{% bible val="Wiederherstellung Jerusalems nach ihrem Leiden" link="isa:54" lang="de" %}}: Das {{% bible val="Gold spiegelt Gottes Herrlichkeit wider" link="1ki:6,20-22" lang="de" %}}, ebenso wie {{% bible val="der Jaspis unter den Steinen" link="rev:21,11" lang="de" %}}.
 
-Die 12 Steine spiegeln das {{% bible val="Bruststück des Hohepriesters" link="exo:28,17-20" lang="de" %}} wider (das die {{% bible val="Lose enthält, um den Willen Gottes zu erbitten" link="exo:28,30" lang="de" %}} und {{% bible val="quadratisch" link="exo:28,16" lang="de" %}} ist). {{% bible val="Jeder Stein steht für einen der Stämme Israels" link="exo:28,21" lang="de" %}}. Diese {{% bible val="stellen aber jetzt die 12 Apostel dar" link="rev:21,14" lang="de" %}}. Wir werden auch als {{% bible val="lebendige Steine im Haus Gottes bezeichnet" link="1pe:2,5" lang="de" %}}.
+Die zwölf Steine spiegeln das {{% bible val="Brustschild des Hohepriesters" link="exo:28,17-20" lang="de" %}} wider, das {{% bible val="die Lose enthielt, mit denen Gottes Wille erfragt wurde" link="exo:28,30" lang="de" %}} und selbst {{% bible val="quadratisch" link="exo:28,16" lang="de" %}} war. Jeder {{% bible val="Stein stand für einen Stamm Israels" link="exo:28,21" lang="de" %}}, und hier {{% bible val="stehen die zwölf Steine stattdessen für die zwölf Apostel" link="rev:21,14" lang="de" %}} – passend, denn auch wir werden {{% bible val="lebendige Steine im Haus Gottes genannt" link="1pe:2,5" lang="de" %}}. Bemerkenswert ist auch, dass der {{% bible val="Tempel Salomos selbst mit vier Reihen von Steinen gebaut wurde" link="1ki:7,9-12" lang="de" %}}, was dasselbe Muster wie das {{% bible val="Brustschild" link="exo:28,17" lang="de" %}} widerspiegelt.
 
-Interessant ist, dass auch {{% bible val="der Tempel Salomos mit vier Reihen von Steinen " link="1ki:7,9-12" lang="de" %}}genau wie das {{% bible val="Bruststück des Priesters" link="exo:28,17" lang="de" %}} strukturiert ist.
+Eine Anmerkung zur Übersetzung ist hier wichtig: Unsere deutschen Übersetzungen lesen meist „das erste Fundament war mit Jaspis geschmückt", aber [eine bessere Übersetzung lautet „das erste Fundament *ist* Jaspis"](https://biblehub.com/interlinear/revelation/21-19.htm) – das Fundament ist nicht nur mit dem Stein verziert, es besteht aus ihm.
 
-Unsere Übersetzung sagt, dass “das erste Fundament mit Jaspis verziert ist”, [aber eine bessere Übersetzung ist “das erste Fundament IST Jaspis”](https://biblehub.com/interlinear/revelation/21-19.htm).
-
-Die Erwähnung der {{% bible val="Straße im Neuen Jerusalem" link="rev:21,21" lang="de" %}} erinnert an {{% bible val="die beiden Zeugen, deren Leichnam bloßgestellt wurde" link="rev:11,8" lang="de" %}}, aber jetzt ist die Straße ihnen zu Ehren. Unsere frühere Schande wird durch ewige Herrlichkeit ersetzt werden.
+Die Erwähnung der {{% bible val="Straße im Neuen Jerusalem" link="rev:21,21" lang="de" %}} erinnert an {{% bible val="die beiden Zeugen, deren Leichen einst auf einer Straße zur Schau gestellt wurden" link="rev:11,8" lang="de" %}} – nur dass dieselbe Straße nun zu ihren Ehren dasteht. Unsere frühere Schande wird durch ewige Herrlichkeit ersetzt werden.
 
 ## {{% bible val="Die internen Features" link="rev:21,22-27" lang="de" %}}
 
 <a name="284a"></a>
-Die Aussage, dass {{% bible val="die Stadt weder Sonne noch Mond braucht" link="rev:21,23" lang="de" %}}, ist eine Anspielung auf {{% bible val="Jesaja" link="isa:60,19" lang="de" %}}, wo der letzte Abschnitt “dein Gott wird deine Herrlichkeit sein” durch “das Lamm ist ihre Leuchte” ersetzt wird, Jesus ist also Gottes [Herrlichkeit/Schönheit](https://biblehub.com/hebrew/strongs_8597.htm). Dies ist auch die Erfüllung der {{% bible val="Verse 2 und 5 von Hesekiel 43" link="ezk:43,2-5" lang="de" %}}.
+Die Aussage, {{% bible val="dass die Stadt weder Sonne noch Mond braucht" link="rev:21,23" lang="de" %}}, greift auf {{% bible val="Jesaja" link="isa:60,19" lang="de" %}} zurück, wo die Zeile „dein Gott wird deine Herrlichkeit sein" hier durch „das Lamm ist ihre Leuchte" ersetzt wird – Jesus ist also Gottes [Herrlichkeit, oder Schönheit](https://biblehub.com/hebrew/strongs_8597.htm). Das erfüllt auch {{% bible val="Hesekiel 43,2 und 5" link="ezk:43,2-5" lang="de" %}}.
 
-Die Aussage, dass {{% bible val="die Völker kommen und ihre Pracht und Herrlichkeit und Ehre in die Stadt bringen werden" link="rev:21,24-26" lang="de" %}}, lässt sich besser verstehen, wenn man {{% bible val="Jesaja" link="isa:60,3-11" lang="de" %}} betrachtet, wo dieselben Sätze verwendet werden, aber Herrlichkeit und Ehre dort durch Reichtum ersetzt wird.
+Die {{% bible val="Aussage, dass die Nationen ihre Pracht, Herrlichkeit und Ehre in die Stadt bringen werden" link="rev:21,24-26" lang="de" %}}, versteht sich leichter neben {{% bible val="Jesaja" link="isa:60,3-11" lang="de" %}}, der dieselben Formulierungen verwendet, aber von Reichtum spricht, wo die Offenbarung von Herrlichkeit und Ehre spricht.
 
-“{{% bible val="Und Heidenvölker werden zu deinem Licht kommen, und Könige zu dem Glanz, der über dir aufgeht. … die Schätze der Heidenvölker werden zu dir kommen." link="isa:60,3-5" lang="de" %}}”
+Die Parallele ist eng genug, um sie nebeneinanderzustellen. Jesaja: „{{% bible val="Nationen werden zu deinem Licht kommen und Könige zu dem Glanz, der über dir aufgeht. … zu dir wird der Reichtum der Nationen kommen" link="isa:60,3-5" lang="de" %}}." Offenbarung: „{{% bible val="Die Nationen werden in ihrem Licht wandeln, und die Könige der Erde werden ihre Pracht in sie bringen" link="rev:21,24" lang="de" %}}." Und wieder Jesaja: „{{% bible val="Deine Tore werden allezeit offenstehen, sie werden weder bei Tag noch bei Nacht geschlossen werden, damit man zu dir den Reichtum der Nationen bringe und ihre Könige im Triumphzug herbeigeführt werden." link="isa:60,11" lang="de" %}}" Offenbarung: „{{% bible val="An keinem Tag werden ihre Tore je geschlossen werden, denn dort wird keine Nacht sein. Und man wird die Herrlichkeit und die Ehre der Nationen in sie bringen." link="rev:21,25-26" lang="de" %}}"
 
-“{{% bible val="Und die Heidenvölker, die gerettet werden, werden in ihrem Licht wandeln, und die Könige der Erde werden ihre Herrlichkeit und Ehre in sie bringen." link="rev:21,24" lang="de" %}}”
+Bei Jesaja bringen die Nationen ihren Reichtum, um anzuerkennen, dass Gott mit Israel ist, und {{% bible val="deshalb nicht mehr mit den anderen leiden werden" link="isa:60,12" lang="de" %}} – sie kommen und bringen die gute Nachricht von Gottes Rettung mit sich. Eine spätere Stelle, „{{% bible val="Ich will ihr den Frieden zuwenden wie einen Strom und den Reichtum der Nationen wie einen überflutenden Bach" link="isa:66,12" lang="de" %}}", verbindet ebenfalls die Gabe der Nationen mit dem Frieden mit Israel. In beiden Texten sind die beschriebene Herrlichkeit, Ehre und Pracht kein Attribut, das die Nationen bereits besitzen, sondern etwas, das sie Gott geben – nicht {{% bible val="die Art von Ruhm und Reichtum, die sie einst von Babel bezogen" link="rev:18,3" lang="de" %}}. Stattdessen {{% bible val="bringen sie sich selbst dar, um Gott zu dienen" link="rev:22,3-5" lang="de" %}}.
 
-und
+Aber wer sind diese Könige, und werden alle Nationen gerettet? Es scheint, dass einige von ihnen umkehren und Gott die Ehre geben, aber nicht alle – {{% bible val="dieselbe Stelle bei Jesaja, der wir gefolgt sind, beschreibt sowohl gute als auch schlechte Könige" link="isa:60,1-14" lang="de" %}}, ein Muster, {{% bible val="das sich auch anderswo findet" link="isa:19,17-18" lang="de" %}}. Das ist tatsächlich Israels Berufung, die ihre Erfüllung erreicht: Sie begann mit {{% bible val="Abraham, berufen, ein Segen für alle Nationen zu sein" link="gen:12,2-3" lang="de" %}}, ging über auf Israel beim Exodus, und wurde schließlich in Jesus erfüllt, der die Nationen nach Israel hineinbrachte – das heißt, in die Gemeinde. So {{% bible val="kommen die Nationen jetzt" link="rev:21,24-27" lang="de" %}}, wenn auch nicht alle: nur die, die an Christus glauben, denn {{% bible val="der Schlussvers des Kapitels schließt ungläubige Nationen weiterhin aus" link="rev:21,27" lang="de" %}}.
 
-“{{% bible val="Deine Tore sollen stets offen stehen und Tag und Nacht nicht zugeschlossen werden, damit der Reichtum der Heidenvölker herzugebracht und ihre Könige herbeigeführt werden können." link="isa:60,11" lang="de" %}}”
-
-“{{% bible val="Und ihre Tore sollen niemals geschlossen werden den ganzen Tag; denn dort wird keine Nacht sein. Und man wird die Herrlichkeit und die Ehre der Völker in sie bringen." link="rev:21,25-26" lang="de" %}}”
-
-In Jesaja bringen sie ihren Reichtum mit, um anzuerkennen, dass Gott mit Israel ist und {{% bible val="deshalb nicht mit anderen leiden werden" link="isa:60,12" lang="de" %}}. Sie kommen, um die gute Nachricht von der Rettung durch Gott zu bringen.
-
-Die Aussage “{{% bible val="Ich will ihr den Frieden geben wie einen Strom und den Reichtum der Völker wie einen reißenden Strom" link="isa:66,12" lang="de" %}}” in einem späteren Abschnitt verbindet ebenfalls die Gabe der Völker mit dem Frieden mit Israel.
-
-Die Herrlichkeit und Ehre und Pracht ist kein Attribut der Völker, sondern das, was sie Gott geben (nicht {{% bible val="ihren eigenen Ruhm/Reichtum, wie sie ihn von Babel bekommen" link="rev:18,3" lang="de" %}}).
-
-{{% bible val="Sie bringen sich selbst, um Gott zu dienen." link="rev:22,3-5" lang="de" %}}
-
-Aber wer sind diese Könige? Werden alle Völker gerettet werden? Es scheint, dass einige von ihnen Buße tun und Gott die Ehre geben, aber leider nicht alle. Der {{% bible val="Kontext in Jesaja, den wir zuvor betrachtet haben, beschreibt gute und schlechte Könige" link="isa:60,1-14" lang="de" %}}, wie es {{% bible val="auch in anderen Abschnitten steht" link="isa:19,17-18" lang="de" %}}.
-
-Die Berufung Israels ist nun erfüllt. Sie begann mit {{% bible val="Abraham, um ein Segen für alle Völker zu sein" link="gen:12,2-3" lang="de" %}}, sie ging auf Israel über, wo sie mit dem Exodus begann, und sie wurde schließlich in Jesus erfüllt, der die Völker nach Israel (auch bekannt als die Kirche) brachte. Und {{% bible val="jetzt kommen die Völker" link="rev:21,24-27" lang="de" %}}. Diese Nationen sind nicht alle Nationen, sondern nur diejenigen, die an Christus glauben, denn {{% bible val="der letzte Vers schließt die ungläubigen Nationen ein" link="rev:21,27" lang="de" %}}.
-
-Die {{% bible val="Tore sind nicht offen, um mit der Außenwelt in Kontakt zu treten, sondern um das Ergebnis der Aktion zu zeigen und die Sicherheit zu demonstrieren (es wird keine Nacht geben)" link="rev:21,25" lang="de" %}}.
-
-Während die Gläubigen hineingehen können, {{% bible val="können die Ungläubigen nicht hineingehen" link="rev:21,27" lang="de" %}}, was sich auch in zwei {{% bible val="Stellen" link="isa:52,1" lang="de" %}} in {{% bible val="Jesaja" link="isa:35,8" lang="de" %}} widerspiegelt, wo {{% bible val="kurz vorher Wassermassen fließen" link="isa:35,7" lang="de" %}}, und hier in der Offenbarung kommt das Wasser nach diesem Vers.
+Die {{% bible val="Tore sind nicht für den Austausch mit einer Außenwelt geöffnet" link="rev:21,25" lang="de" %}} – es gibt keine solche Welt mehr, mit der man Handel treiben könnte –, sondern um das Ergebnis dessen zu zeigen, was bereits geschehen ist, und die Sicherheit, die damit einhergeht: Es wird keine Nacht geben. Und während die Gläubigen hineinkommen können, {{% bible val="können die Ungläubigen es nicht" link="rev:21,27" lang="de" %}}, was sich in zwei {{% bible val="verwandten Stellen" link="isa:52,1" lang="de" %}} bei {{% bible val="Jesaja" link="isa:35,8" lang="de" %}} widerspiegelt. Dort erscheinen {{% bible val="Wasserteiche kurz vor" link="isa:35,7" lang="de" %}} derselben Aussage darüber, wer eintreten darf und wer nicht; hier in der Offenbarung folgt das Wasser stattdessen danach.
 
 ## {{% bible val="Symbole von Gottes Gegenwart" link="rev:22,1-5" lang="de" %}}
 
 <a name="126e"></a>
-Dies basiert auf
+Dieses abschließende Bild schöpft aus mehreren alttestamentlichen Flüssen: dem {{% bible val="Fluss, der vom Altar fließt" link="ezk:47,1-9" lang="de" %}}, dem {{% bible val="Fluss, der fließt, wenn Jerusalem wiederaufgebaut wird" link="zec:14,8" lang="de" %}}, und dem {{% bible val="Wasser aus dem Haus des Herrn, das die Bäume bewässert" link="jol:3,18" lang="de" %}}. Es spiegelt auch die {{% bible val="Schöpfungsgeschichte wider, in der die Flüsse ebenfalls mit Edelsteinen verbunden sind" link="gen:2,10-12" lang="de" %}}, genau wie in der {{% bible val="Offenbarung" link="rev:21,19-20" lang="de" %}}.
 
-- dem {{% bible val="Fluss vom Altar" link="ezk:47,1-9" lang="de" %}},
-- dem {{% bible val="Fluss, wenn Jerusalem wieder aufgebaut wird" link="zec:14,8" lang="de" %}} und
-- dem {{% bible val="Wasser aus dem Haus des Herrn, das die Bäume bewässert" link="jol:3,5" lang="de" %}}
+Die Quelle von alldem ist der Thron Gottes und des Lammes, und Wasser ist in der ganzen Schrift eng mit dem Heiligen Geist verbunden: {{% bible val="wenn Gott uns ein neues Herz gibt" link="ezk:36,25-27" lang="de" %}}, wenn wir {{% bible val="aus Wasser und Geist geboren werden" link="jhn:3,5" lang="de" %}}, im {{% bible val="lebendigen Wasser und der Anbetung im Geist" link="jhn:4,10-24" lang="de" %}}, und bei {{% bible val="Wasser und Geist als gemeinsamen Zeugen" link="1jn:5,7-8" lang="de" %}}.
 
-Es gibt auch eine Beschreibung in der {{% bible val="Schöpfungsgeschichte, in der die Flüsse dort mit Edelsteinen in Verbindung gebracht werden" link="gen:2,10-12" lang="de" %}}, wie in der {{% bible val="Offenbarung" link="rev:21,19-20" lang="de" %}}.
+Schließlich schließt sich der Kreis zurück zum Anfang, zur Schöpfung und zum Sündenfall: {{% bible val="Der Baum des Lebens kehrt zurück, und jeder hat Zugang zu ihm" link="rev:22,2" lang="de" %}}. Alles Böse ist verschwunden, und wir sind frei, uns ganz auf den Dienst an Gott zu konzentrieren.
 
-Die Quelle von all dem ist (der Thron) Gottes und des Lammes. Wasser wird oft mit dem Heiligen Geist in Verbindung gebracht
-
-- {{% bible val="wenn Gott uns ein neues Herz schenkt," link="ezk:36,25-27" lang="de" %}}
-- wir {{% bible val="aus Wasser und Geist geboren werden" link="jhn:3,5" lang="de" %}}
-- wir {{% bible val="lebendiges Wasser empfangen und Anbetung im Geist tun" link="jhn:4,10-24" lang="de" %}}
-- {{% bible val="als Wasser und Geist als Zeugen" link="1jn:5,7-8" lang="de" %}}
-
-Schließlich schließt sich der Kreis zum Anfang (der Schöpfung und des Sündenfalls): {{% bible val="Der Baum des Lebens ist wieder da und jeder hat Zugang zu ihm." link="rev:22,2" lang="de" %}}
-
-Alles Böse ist verschwunden, und wir können uns ganz auf den Dienst an Gott konzentrieren.
-
-Der {{% bible val="Name auf der Stirn" link="rev:22,4" lang="de" %}} war ursprünglich {{% bible val="auf der Stirn der Priester" link="exo:28,36-38" lang="de" %}} und zeigt, dass {{% bible val="der Charakter Gottes in ihnen und nun uns eingeprägt ist" link="1jn:3,2" lang="de" %}}.
+Der {{% bible val="Name auf der Stirn" link="rev:22,4" lang="de" %}} wurde {{% bible val="ursprünglich auf der Stirn des Priesters getragen" link="exo:28,36-38" lang="de" %}}, und hier zeigt er, {{% bible val="dass Gottes eigener Charakter, einst dem Priester eingeprägt, nun uns eingeprägt ist" link="1jn:3,2" lang="de" %}}.

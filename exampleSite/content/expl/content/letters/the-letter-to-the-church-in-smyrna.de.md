@@ -14,32 +14,30 @@ sources:
       ref: fee_rev
 ---
 
-Kennst du die Gemeinde von Smyrna? Das solltest du, denn dort findest du eine Gemeinde, die in den Augen Jesu ohne Tadel ist, aber vielleicht nicht deine Traumgemeinde.
+Kennst du Smyrna? Solltest du - dort findest du eine tadellose Gemeinde, auch wenn diese Tadellosigkeit vielleicht nicht so einladend wirkt, wie du erwarten würdest.
 
-{{% bible val="Smyrna ist eine von zwei Gemeinden, die von Jesus überhaupt nicht getadelt werden" link="rev:2,8-11" lang="de" %}}. Was ist ihr Geheimnis?
+{{% bible val="Smyrna ist eine von nur zwei Gemeinden, die von Jesus keinerlei Tadel erhält." link="rev:2,8-11" lang="de" %}} Was ist also ihr Geheimnis?
 
-## Der historische Hintergrund
+## Historischer Hintergrund
 
 <a name="d1ed"></a>
-Smyrna lag ca. 70 km nördlich von Ephesus in einer Bucht, die über keinen hervorragenden Hafen verfügte. Dies war der Grund für den Reichtum der Stadt und machte sie zu einem wirtschaftlichen Zentrum.
+Smyrna lag etwa 70 km nördlich von Ephesus, an einer Bucht mit einem hervorragenden Hafen - der Quelle des Reichtums dieser wirtschaftlich bedeutenden Stadt.
 
-Im Jahre 20 n. Chr. wurde zu Ehren des Kaisers ein Tempel errichtet und Smyrna wurde zu einer der führenden Städte in der Verehrung des Kaisers.
+Im Jahr 20 n. Chr. wurde dort ein Tempel zu Ehren des Kaisers errichtet, was Smyrna zu einem der führenden Zentren des Kaiserkults machte. Über die Anfänge der Gemeinde selbst ist wenig bekannt; möglicherweise wurde sie von Paulus etwa zur selben Zeit gegründet, als er die Gemeinde in Ephesus gründete.
 
-Über den Ursprung der Gemeinde ist wenig bekannt, vielleicht wurde sie von Paulus in Verbindung mit Ephesus gegründet.
-
-## Jesus Sicht
+## Jesu Sicht
 
 <a name="aa4a"></a>
-Jesus begegnet der Gemeinde als der Auferstandene, der den Tod überwunden hat. Diese Vision braucht die Gemeinde, denn sie wird von allen Seiten angegriffen:
+Jesus begegnet dieser Gemeinde als der Auferstandene, der den Tod bereits besiegt hat - eine Vision, die sie dringend braucht, denn sie wird von allen Seiten angegriffen:
 
-- Sie hat finanzielle Schwierigkeiten, vermutlich weil sie nicht zu einer Handelsgruppe gehört.
-- Es gibt einige Juden, die die Gemeinde verleumden, und das ist wahrscheinlich der Grund, warum einige ins Gefängnis gehen (Satan wird einige von euch ins Gefängnis werfen, die Juden sind eine Synagoge Satans).
+- Sie wird finanziell in die Enge getrieben, wahrscheinlich weil sie sich weigert, den Handelsgilden beizutreten, die eine Teilnahme am Götzendienst voraussetzten.
+- Einige örtliche Juden verleumden die Gemeinde und stecken wahrscheinlich auch dahinter, dass Christen ins Gefängnis geworfen werden - daher "der Teufel wird einige von euch ins Gefängnis werfen", und diese Gruppe wird "Synagoge des Satans" genannt.
 
-Der Hinweis auf die {{% bible val="10 Tage" link="rev:2,10" lang="de" %}} bezieht sich auf die Geschichte von {{% bible val="Daniel, der nur Gemüse aß, um sich nicht durch das unreinen (den Götzen geweihte) Fleisch an der Tafel des Königs zu verunreinigen" link="dan:1,8-14" lang="de" %}}.
+Der Hinweis {{% bible val="auf zehn Tage" link="rev:2,10" lang="de" %}} verweist zurück auf die {{% bible val="Geschichte von Daniel" link="dan:1,8-14" lang="de" %}}, der zehn Tage lang nur Gemüse aß, um sich nicht durch unreine Speise von der Tafel des Königs zu verunreinigen.
 
 ## Die Perspektive
 
 <a name="302f"></a>
-Jesus verheißt: Wenn sie standhalten, wird ihnen der zweite Tod nicht schaden. Jesus hat ihn überwunden, indem er {{% bible val="durch den Tod in die Auferstehung gegangen ist, was als Schwäche gesehen werden kann" link="rev:5,5-6" lang="de" %}}, aber {{% bible val="so regiert er und mit ihm die Gemeinde" link="rev:20,4-6" lang="de" %}}. Das ist eine Paradox. Wie soll das funktionieren?
+Jesus verspricht, dass ihnen der zweite Tod nichts anhaben wird, wenn sie dieses Leiden durchstehen. Er kann ihnen das zusagen, weil er denselben Weg schon vor ihnen gegangen ist, {{% bible val="durch den Tod hindurch in die Auferstehung, und erscheint als einer, der geschlachtet wurde" link="rev:5,5-6" lang="de" %}}, damit {{% bible val="die Gläubigen mit ihm herrschen können" link="rev:20,4-6" lang="de" %}}. Das ist ein Paradox, das es wert ist, darüber nachzudenken: Wie funktioniert das eigentlich?
 
-Je mehr wir versagen, desto mehr kann Jesus wirken. Es besteht die Gefahr, dass wir {{% int_link val="von der Verzweiflung so überwältigt werden, dass wir aufgeben" link="/expl/content/beasts/666-the-number-of-the-beast" %}}. Wir sollen die Situationen nicht lösen, sondern sie mit ihm aushalten.
+Das Muster scheint dies zu sein: Je weniger wir selbst ausrichten können, desto mehr Raum bleibt für Jesus zu wirken. Allerdings besteht eine echte {{% int_link val="Gefahr, von der Verzweiflung so überwältigt zu werden, dass wir aufgeben" link="/expl/content/beasts/666-the-number-of-the-beast" %}}. Wir werden nicht aufgefordert, die schwierigen Situationen, in denen wir uns befinden, zu lösen, sondern sie gemeinsam mit ihm zu ertragen.

@@ -4,5 +4,4 @@ title: "Daniel'in kitabı"
 weight: 4
 ---
 
-Daniel kitabı, uzunluğuna kıyasla Vahiy'de en çok atıfta bulunulan kitaptır. Ve kitabın son 6 bölümü bir şekilde Vahiy kitabı kadar gizemlidir.
-Ama buna adım adım birlikte bakacağız.
+Uzunluğu göz önüne alındığında Daniel, Vahiy'de en çok atıfta bulunulan kitaptır — ve son altı bölümü, Vahiy'in kendisi kadar gizemlidir. Bu bölümleri birlikte, adım adım inceleyeceğiz.

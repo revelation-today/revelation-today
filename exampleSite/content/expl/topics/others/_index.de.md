@@ -4,6 +4,6 @@ title: "Weitere Themen"
 weight: 4
 ---
 
-Dies sind einige andere übergreifende Themen, die einige Missverständnisse klären sollen.
+Dieser Abschnitt versammelt einige weitere übergreifende Themen, mit dem Ziel, verbreitete Missverständnisse zu klären.
 
-Ein Thema ist die Entrückung und die Trübsal. Auch wenn die Menschen nicht daran glauben, soll dies einen kleinen Überblick und eine Reflexion über diese Theologie geben.
+Eines dieser Themen ist die Entrückung und ihr Verhältnis zur Trübsal. Viele Menschen haben davon gehört, und nicht wenige glauben daran. Die Artikel hier bieten daher einen kurzen Überblick über die dahinterstehende Theologie und einige Überlegungen dazu, ob sie stichhaltig ist.

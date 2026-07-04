@@ -7,39 +7,33 @@ docType: expl
 appl: /appl/background/israel
 ---
 
-Penyebutan orang Yahudi dan orang Kristen dalam Kitab Wahyu cukup kontroversial. Apa alasannya dan bagaimana hal ini diselesaikan?
+Penyebutan orang Yahudi dan Israel dalam Kitab Wahyu sungguh kontroversial. Mengapa kitab ini berbicara tentang mereka dengan cara seperti itu, dan bagaimana ketegangan ini dapat diselesaikan?
 
-## Permusuhan Orang Yahudi
+## Ketegangan dengan Orang Yahudi
 
 <a name="36d7"></a>
-Pada zaman jemaat-jemaat mula-mula, agama Yahudi diterima di Kekaisaran Romawi karena tradisinya yang panjang, dan orang Yahudi dapat menjalani iman mereka selama mereka menunjukkan kesetiaan tertentu kepada kaisar.
+Pada zaman jemaat mula-mula, agama Yahudi dihormati oleh Kekaisaran Romawi karena sejarahnya yang panjang, dan orang Yahudi bebas menjalankan iman mereka selama mereka tetap setia kepada kaisar.
 
-Tetapi orang Kristen semakin menyebar dan tidak memberikan penghormatan (penyembahan) yang diharapkan kaisar. Selain itu, orang-orang Kristen ini berkeliling dan membujuk orang lain untuk mengikuti orang Yahudi bernama Yesus dan juga tidak memberikan penghormatan kepada kaisar.
+Namun, orang Kristen menolak memberikan kepada kaisar penyembahan yang ia harapkan — dan yang lebih buruk lagi di mata Roma, mereka berkeliling membujuk orang-orang untuk mengikuti seorang Yahudi bernama Yesus.
 
-Karena orang Kristen dipandang oleh kaisar sebagai sebuah sekte Yahudi, orang Yahudi mendapat tekanan, yang mendorong mereka untuk mengadukan orang Kristen kepada orang Romawi, guna menunjukkan kepada kaisar bahwa orang Yahudi sama sekali tidak sepaham dengan orang Kristen.
+Karena kaisar pada mulanya memandang agama Kristen hanya sebagai sebuah sekte Yahudi, komunitas Yahudi mendapati diri mereka berada di bawah tekanan akibat kaitan ini. Itulah sebagian alasan mengapa beberapa orang Yahudi terdorong untuk mengadukan orang Kristen kepada orang Romawi: itu adalah cara untuk memastikan kaisar memahami bahwa mereka, setidaknya, tidak berpihak kepada orang Kristen.
 
 ## Orang Yahudi dalam Kitab Wahyu
 
 <a name="b028"></a>
-Kitab ini hanya membahas satu hal: Yesus dan segala sesuatu yang berkaitan dengan-Nya. Hal ini juga berlaku bagi orang Yahudi.
+Kitab Wahyu hanya membahas satu hal: Yesus, dan segala sesuatu yang diputuskan berdasarkan diri-Nya. Hal itu juga berlaku bagi bagaimana kitab ini memperlakukan orang Yahudi.
 
-Pada bagian di atas kita telah melihat bahwa ada ketegangan antara orang Kristen dan orang Yahudi. Hal ini juga terjadi di Smirna dan Filadelfia, di mana orang Yahudi memusuhi jemaat yang mengaku percaya kepada Yesus. Akibatnya, orang-orang Yahudi ini disebut jemaah Iblis (sinagoge Setan). Ketika dikatakan bahwa orang Yahudi di Filadelfia akan berlutut, ini tidak terutama berarti bahwa mereka tunduk kepada jemaat, melainkan bahwa mereka menerima Yesus sebagai Tuhan mereka.
+Kita telah melihat ketegangan antara orang Kristen dan orang Yahudi ini terjadi secara nyata di Smirna dan Filadelfia, di mana orang Yahudi setempat menyerang jemaat karena bersaksi tentang Yesus — itulah sebabnya Yohanes menyebut mereka sinagoge Iblis. Ketika orang-orang Yahudi yang sama di Filadelfia kemudian dikatakan akan sujud di hadapan jemaat, maksudnya bukanlah bahwa mereka tunduk kepada jemaat sebagai sebuah lembaga, melainkan bahwa mereka sampai kepada penerimaan akan Yesus.
 
-Juga dalam pasal 11, di mana digambarkan tempat para saksi itu dibunuh (tempat Yesus juga mati), Yerusalem disebut sebagai Sodom (tempat dosa) dan Mesir (tempat perbudakan). Di sini bahkan penyebutan namanya secara langsung dihindari.
+Dinamika yang sama muncul dalam pasal 11. Tempat di mana kedua saksi itu dibunuh secara rohani digambarkan sebagai Sodom (tempat dosa) dan Mesir (tempat perbudakan) — sebuah gambaran tentang Yerusalem, sebab di situlah Tuhan mereka, Yesus, dibunuh. Yang menarik, bahkan nama "Yerusalem" pun sengaja dihindari di sini.
 
-Di tempat-tempat lain dalam Kitab Wahyu juga, Israel etnis (tergantung penafsiran atas 144.000 orang di pasal 7) tidak disebutkan, melainkan hanya dalam hubungannya dengan Yesus.
+Namun demikian, di tengah segala ketegangan itu, Kitab Wahyu tidak pernah mengarahkan argumennya untuk menentang Israel secara etnis (seberapa besar bobot pernyataan ini bergantung pada bagaimana seseorang menafsirkan 144.000 orang di pasal 7). Apa yang sebenarnya dibahas kitab ini di sepanjang halamannya adalah hubungan orang-orang dengan Yesus, bukan etnisitas mereka.
 
-Di sisi lain, gereja adalah bagian dari Israel dan ada pernyataan-pernyataan jelas yang menggambarkan orang Yahudi dan orang Kristen bersama-sama, misalnya 24 tua-tua di pasal 4, yang mewakili 12 suku Israel dan 12 rasul, atau yang namanya terukir di Yerusalem Baru.
-
-Sorga juga bukan tempat yang netral, dan menariknya disebut sebagai Yerusalem Baru.
-
-Dan tidak akan mengherankan jika Yesus akan muncul di Yerusalem yang fisik pada kedatangan-Nya yang kedua.
-
-Lalu mengapa ada pernyataan yang begitu kontroversial tentang orang Yahudi? Karena gereja adalah bagian dari Israel dan karena itu tidak boleh kehilangan akarnya, sekalipun ada serangan terbuka dari orang Yahudi terhadap gereja.
+Itu karena gereja adalah bagian dari Israel, bukan penggantinya. Kitab Wahyu menyatakan kesatuan ini secara eksplisit di beberapa tempat: 24 tua-tua di pasal 4 mewakili 12 suku dan 12 rasul bersama-sama, dan nama-nama 12 suku serta 12 rasul terukir berdampingan di Yerusalem Baru. Sorga sendiri, yang patut diperhatikan, tidak digambarkan sebagai suatu wilayah netral tanpa tempat, melainkan sebagai Yerusalem Baru — yang membuatnya tidak mengherankan jika Yesus akan muncul di Yerusalem yang fisik pada kedatangan-Nya yang kedua. Inilah kunci mengapa bahasa Kitab Wahyu tentang orang Yahudi bisa terdengar begitu tajam: justru karena gereja adalah bagian dari Israel, ia tidak dapat memutuskan akarnya sendiri, bahkan ketika sebagian orang Yahudi secara terang-terangan menyerangnya.
 
 ## Ringkasan
 
 <a name="7a9f"></a>
-Tantangan bagi gereja adalah mempertahankan ketegangan antara menjadi bagian dari Israel dan diserang oleh Israel.
+Tantangan bagi gereja, kalau begitu, adalah memegang kedua kebenaran ini sekaligus — menjadi bagian dari Israel sekaligus, pada saat yang sama, terkadang diserang oleh Israel.
 
-Saya kira kita dapat belajar banyak dari cara kita memperlakukan denominasi-denominasi lain dan orang Yahudi.
+Ada banyak hal yang bisa kita pelajari dari kitab ini tentang cara menghadapi ketegangan serupa pada masa kini, baik antara denominasi gereja yang berbeda-beda maupun dalam hubungan kita dengan orang Yahudi.

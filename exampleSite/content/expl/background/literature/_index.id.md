@@ -4,11 +4,11 @@ title: Apa yang saya baca ini?
 weight: 2
 ---
 
-Jika kita mengetahui jenis sastra apa yang terkandung dalam sebuah kitab, kita dapat menghindari banyak kesalahpahaman.
+Memahami jenis sastra suatu kitab dapat menghindarkan kita dari banyak kesalahpahaman.
 
-Izinkan saya memberikan sebuah contoh sederhana: Ketika Paulus mengatakan bahwa Yesus telah bangkit dari kematian, bagi orang Kristen itu adalah kebenaran yang tidak dapat disangkal, tetapi mungkin tidak benar jika Yesus mengatakan bahwa seorang laki-laki berjalan dari Damaskus ke Yerusalem. Bagaimana bisa demikian? Yesus sendiri yang mengatakannya. Tetapi sebelumnya Ia mengatakan bahwa Ia sedang menyampaikan sebuah perumpamaan.
+Berikut contoh sederhananya: ketika Paulus mengatakan bahwa Yesus bangkit dari kematian, itu adalah kebenaran yang tidak dapat ditawar bagi orang Kristen. Tetapi ketika Yesus sendiri berkata bahwa ada seorang laki-laki yang berjalan dari Damsyik ke Yerusalem, kisah itu tidak perlu benar-benar terjadi secara harfiah agar tetap benar — sebab Yesus sudah memberi tahu kita sebelumnya bahwa Ia sedang menyampaikan sebuah perumpamaan. Kategorinya sama, yaitu "sesuatu yang dikatakan Yesus," tetapi keduanya adalah klaim kebenaran yang sangat berbeda, karena genrenya berbeda.
 
-Jika kita melihat lebih dalam ke dalam kitab ini, kita akan melihat bahwa ini bukanlah jawaban yang sederhana, sebab kitab ini terdiri atas tiga jenis:
-- sebuah surat - apa pun yang tertulis di sana harus berlaku bagi para pembaca pertama (termasuk pasal 4-20)
-- sebuah nubuat - yang tujuannya bukanlah untuk meramalkan, melainkan untuk memprovokasi, agar mencegah masa depan yang diberitakan, lihat kisah Yunus
-- sebuah apokalips - yang bukanlah apa yang orang kira, melainkan sebuah genre sastra perlawanan yang provokatif
+Kitab Wahyu juga tidak memberi kita jawaban yang sederhana, sebab kitab ini sesungguhnya terdiri dari tiga genre sekaligus:
+- sebuah surat — apa pun yang tertulis di dalamnya pasti berlaku bagi para pembaca pertama, termasuk materi dalam pasal 4–20, bukan hanya pasal 1–3
+- sebuah nubuat — yang tujuannya bukan untuk meramalkan masa depan, melainkan untuk memicu perubahan yang mencegah masa depan yang diberitakan itu, seperti dalam kisah Yunus
+- sebuah apokalips — bukan seperti yang biasanya dipahami orang, melainkan sebuah genre sastra perlawanan yang provokatif

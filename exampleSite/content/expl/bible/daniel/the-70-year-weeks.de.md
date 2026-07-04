@@ -11,89 +11,77 @@ sources:
       ref: daniel
 ---
 
-Die 70 Jahrwochen sind ein geheimnisumwitterter Teil der Bibel mit noch interessanteren Interpretationen über die Endzeit. Werfen wir einen genaueren Blick darauf.
+Die 70 Jahrwochen gehören zu den geheimnisvollsten Abschnitten der Bibel und haben nicht wenige interessante Auslegungen über die Endzeit hervorgebracht. Schauen wir uns genauer an, worum es dabei geht.
 
 ## Was ist eine Jahrwoche
 
 <a name="f6e6"></a>
-In der Schöpfung hat Gott den siebenten Tag, den Sabbat, für heilig erklärt. Aber eine gibt auch ein “Sabbatjahr”: {{% bible val="Jedes siebente Jahr soll das Land ruhen" link="lev:25,1-7" lang="de" %}} und die {{% bible val="Menschen sollen im Vertrauen auf Gottes Versorgung leben" link="lev:25,20-22" lang="de" %}}.
+Bei der Schöpfung heiligte Gott den siebten Tag als Ruhetag, den Sabbat. Derselbe Rhythmus wurde später auf ein „Sabbatjahr“ ausgeweitet: {{% bible val="jedes siebte Jahr sollte das Land ruhen" link="lev:25,1-7" lang="de" %}}, und {{% bible val="das Volk sollte darauf vertrauen, dass Gott dadurch für es sorgen würde" link="lev:25,20-22" lang="de" %}}.
 
-Doch dazu kam es nie, denn {{% bible val="Israel ging deswegen für 70 Jahre ins Exil" link="2ch:36,20-21" lang="de" %}}, wie es {{% bible val="Jeremia" link="jer:25,11-12" lang="de" %}} prophezeit hatte. Da das Sabbatjahr nur alle 7 Jahre stattfindet, sprechen wir von 7*70=490 Jahren, also der gesamten Zeit, in der Israel als Staat existiert hat. Eine Jahrwoche bei Daniel besteht also aus 7 Jahre (sie wird Woche genannt, um die Parallelität zum Sabbattag — dem siebenter Tag der Woche — zu zeigen).
+Dazu kam es nie. Als Israel {{% bible val="ins Exil ging, geschah das für 70 Jahre — ein Jahr für jedes Sabbatjahr, das dem Land vorenthalten worden war" link="2ch:36,20-21" lang="de" %}}, genau wie es {{% bible val="Jeremia" link="jer:25,11-12" lang="de" %}} prophezeit hatte. Da ein Sabbatjahr nur alle sieben Jahre eintritt, bedeuten 70 versäumte Sabbatjahre 7×70=490 Jahre — die gesamte Zeitspanne, in der Israel bis dahin als Nation bestanden hatte. Deshalb bedeutet eine „Woche“ bei Daniel sieben Jahre: Der Begriff greift bewusst den Sabbat auf, den siebten Tag der Woche.
 
 ## Die Verheißung
 
 <a name="1bc2"></a>
-[Wenn wir von 605 v. Chr. als dem ersten Jahr des Exils ausgehen](https://seminary.bju.edu/theology-in-3d/so-was-it-70-years-or-not/), kommen wir auf das Jahr 539 v. Chr., als Babel zerstört wurde und {{% bible val="das Exil unter dem ersten Perserkönig endete" link="2ch:36,22-23" lang="de" %}}. {{% bible val="Als die Zeit erfüllt war" link="dan:9,1-2" lang="de" %}}, {{% bible val="betete Daniel ein Gebet der Buße für sein Volk" link="dan:9,3-19" lang="de" %}}. Die Antwort darauf war die Erklärung der 70 Jahre, die nur 4 Verse umfasst:
+[Wenn wir 605 v. Chr. als das Jahr rechnen, in dem das Exil begann](https://seminary.bju.edu/theology-in-3d/so-was-it-70-years-or-not/), kommen wir auf das Jahr 539 v. Chr., als Babel zerstört wurde und {{% bible val="das Exil unter dem ersten Perserkönig endete" link="2ch:36,22-23" lang="de" %}}. Daniel lebte zu jener Zeit und {{% bible val="kannte die Verheißung, die Gott gegeben hatte" link="jer:29,10" lang="de" %}}, sodass er, {{% bible val="als die Zeit gekommen war" link="dan:9,1-2" lang="de" %}}, {{% bible val="ein Bußgebet für sein Volk betete" link="dan:9,3-19" lang="de" %}}. Die Antwort, die er erhält, ist nur vier Verse lang, doch es lohnt sich, sie genauer zu betrachten:
 
-{{% bible val="“Über dein Volk und über deine heilige Stadt sind 70 Wochen bestimmt, um der Übertretung ein Ende zu machen und die Sünden abzutun, um die Missetat zu sühnen und eine ewige Gerechtigkeit herbeizuführen, um Gesicht und Weissagung zu versiegeln und ein Allerheiligstes zu salben. 25 So wisse und verstehe: Vom Erlass des Befehls zur Wiederherstellung und zum Aufbau Jerusalems bis zu dem Gesalbten, dem Fürsten, vergehen 7 Wochen und 62 Wochen; Straßen und Gräben werden wieder gebaut, und zwar in bedrängter Zeit. 26 Und nach den 62 Wochen wird der Gesalbte ausgerottet werden, und ihm wird nichts zuteilwerden; die Stadt aber samt dem Heiligtum wird das Volk des zukünftigen Fürsten zerstören, und sie geht unter in der überströmenden Flut; und bis ans Ende wird es Krieg geben, fest beschlossene Verwüstungen. 27 Und er wird mit den Vielen einen festen Bund schließen eine Woche lang; und in der Mitte der Woche wird er Schlacht- und Speisopfer aufhören lassen, und neben dem Flügel werden Gräuel der Verwüstung aufgestellt, und zwar bis die fest beschlossene Vernichtung sich über den Verwüster ergießt.”" link="dan:9,24-27" lang="de" %}}
+„{{% bible val="Siebzig Jahrwochen sind bestimmt über dein Volk und über deine heilige Stadt, um der Übertretung ein Ende zu machen und die Sünden abzutun, um die Schuld zu sühnen und eine ewige Gerechtigkeit herbeizuführen, um Gesicht und Weissagung zu versiegeln und ein Allerheiligstes zu salben. 25 So wisse und verstehe: Vom Erlass des Wortes an, Jerusalem wiederherzustellen und aufzubauen, bis zu dem Gesalbten, dem Fürsten, vergehen sieben Jahrwochen und zweiundsechzig Jahrwochen; Straßen und Gräben werden wieder gebaut, und zwar in bedrängter Zeit. 26 Und nach den zweiundsechzig Jahrwochen wird der Gesalbte umgebracht werden und nichts mehr haben; und das Volk des kommenden Fürsten wird die Stadt und das Heiligtum zerstören, und das Ende kommt durch eine Flut, und bis ans Ende wird es Krieg geben, festbeschlossene Verwüstungen. 27 Und er wird für viele einen Bund bekräftigen, eine Jahrwoche lang; und in der Mitte der Jahrwoche wird er Schlacht- und Speisopfer aufhören lassen. Und auf dem Tempel wird ein Gräuel der Verwüstung stehen, bis das festbeschlossene Ende sich über den Verwüster ergießt." link="dan:9,24-27" lang="de" %}}“
 
-70 Jahrwochen ist die Zeitspanne von 70*7=490 Jahre.
+„Siebzig Jahrwochen“ sind 70×7=490 Jahre — dieselbe Zeitspanne von Sabbatjahren, deren Vernachlässigung Israel überhaupt erst ins Exil geführt hatte.
 
-Vers 24 beschreibt das Endergebnis nach diesen 490 Jahren:
+Vers 24 legt sechs Dinge dar, die diese 490 Jahre erreichen sollen:
 
-- “Für dein Volk und deine Stadt, um der Übertretung eine Ende zu machen”. Die Übertretung bezieht sich auf die {{% bible val="Juden, die Antiochus Epiphanes IV unterstützten" link="dan:9,24-27" lang="de" %}}, wie in {{% bible val="Kapitel 11" link="dan:11,32" lang="de" %}} beschrieben.
-- Der Sünde ein Ende zu setzen (wörtlich “versiegeln”, was die gleichen Konsonanten hat wie “wegnehmen”) ist ein großes Ziel.
-- “Missetat zu sühnen”: sühnen bezieht sich auf den {{% bible val="großen Versöhnungstag" link="lev:16" lang="de" %}}, an dem alle Sünden vergeben werden (aber hier ist es eine ewige Sühne).
-- Bringt eine ewige Gerechtigkeit.
-- Vision und Prophetie versiegeln: Versiegeln ist oft Bestätigung
-- “ein Allerheiligstes zu salben”: Das Allerheiligste wäre der Tempel, aber es kann {{% bible val="Jesus" link="rom:3,25" lang="de" %}} sein, der sogar {{% bible val="größer als der Tempel" link="mat:12,6" lang="de" %}} ist und gesalbt wurde.
+- **Der Übertretung ein Ende machen, für dein Volk und deine heilige Stadt.** „Übertretung“ verweist auf die {{% bible val="Juden, die Antiochus Epiphanes IV. unterstützten" link="dan:9,24-27" lang="de" %}}, die später in {{% bible val="Kapitel 11" link="dan:11,32" lang="de" %}} beschrieben werden.
+- **Der Sünde ein Ende setzen** — wörtlich „versiegeln“, was im Hebräischen dieselben Konsonanten hat wie „wegnehmen“. So oder so ist das ein ehrgeiziges Ziel.
+- **Alle Schuld sühnen.** „Sühnen“ verweist zurück auf den {{% bible val="Versöhnungstag" link="lev:16" lang="de" %}}, der in seinem eigenen Kontext alle Sünden bedecken sollte — eine Sühne, die von Dauer sein sollte.
+- **Eine ewige Gerechtigkeit herbeiführen.**
+- **Die Vision und Prophetie versiegeln** — „versiegeln“ hier im Sinne von Bestätigung.
+- **Ein Allerheiligstes salben.** Das Allerheiligste würde naheliegend den Tempel meinen, aber das könnte stattdessen auf {{% bible val="Jesus" link="rom:3,25" lang="de" %}} verweisen, der {{% bible val="größer ist als der Tempel" link="mat:12,6" lang="de" %}} und selbst der Gesalbte ist.
 
-Wenn wir uns das anschauen, dann ist das mehr, als in der Geschichte bisher geschehen ist, und das ist zum Teil das, was Jesus am Kreuz getan hat: Er ist für unsere Sünden gestorben, er hat uns durch den Heiligen Geist seine Gebote ins Herz geschrieben und vieles mehr.
+Zusammengenommen gehen diese sechs Ziele weit über alles hinaus, was in der Geschichte je erreicht wurde — außer dem, was Jesus am Kreuz tat: Er bezahlte für alle Sünde, schrieb durch den Heiligen Geist Gottes Gebote in unsere Herzen, und noch viel mehr.
 
 ## Die 70 Jahrwochen
 
 <a name="d777"></a>
-Lassen Sie uns den Rest auch noch aufschlüsseln. Der Rest soll in drei Teile geteilt werden:
+Nun wollen wir den Rest des Textes aufschlüsseln. Er teilt die 70 Wochen in drei Abschnitte: 7 Wochen (der Erlass, den Tempel in Jerusalem wieder aufzubauen), 62 Wochen (der Tempel wird tatsächlich gebaut) und 1 letzte Woche (um alles zu vollenden).
 
-- 7 Wochen (Erlass, den Tempel wieder aufzubauen)
-- 62 Wochen (der Tempel ist gebaut)
-- 1 Woche (um alles zu vollenden)
+Vers 25 lautet: {{% bible val="So wisse und verstehe: Vom Erlass des Wortes an, Jerusalem wiederherzustellen und aufzubauen, bis zu dem Gesalbten, dem Fürsten, vergehen sieben Jahrwochen und zweiundsechzig Jahrwochen; Straßen und Gräben werden wieder gebaut, und zwar in bedrängter Zeit." link="dan:9,24-27" lang="de" %}}
 
-Vers 25: {{% bible val="So wisse und verstehe: Vom Erlass des Befehls zur Wiederherstellung und zum Aufbau Jerusalems bis zu dem Gesalbten, dem Fürsten, vergehen 7 Wochen und 62 Wochen; Straßen und Gräben werden wieder gebaut, und zwar in bedrängter Zeit." link="dan:9,25" lang="de" %}}
+Das Wort, Jerusalem wieder aufzubauen, erging {{% bible val="durch den Propheten Jeremia" link="jer:30,18" lang="de" %}} in den Jahren 588/587 v. Chr., während des Falls Jerusalems. Das markiert den Beginn der ersten 7×7=49 Jahre, die 539 v. Chr. enden, als {{% bible val="der Gesalbte, Kyrus" link="isa:45,1" lang="de" %}}, {{% bible val="einen Erlass ausgibt, Jerusalem wieder aufzubauen" link="2ch:36,22-23" lang="de" %}}.
 
-Das Wort, Jerusalem wieder aufzubauen, wurde von {{% bible val="Jeremia" link="jer:30,18" lang="de" %}} im Jahre 588/587 v. Chr. während der Eroberung Jerusalems verkündigt. Das dauert 7*7=49 Jahre und endet in 539 v.u.Z., als der {{% bible val="Gesalbte Kyrus" link="isa:45,1" lang="de" %}} einen {{% bible val="Erlaß macht, Jersualem wieder aufzubauen" link="2ch:36,22-23" lang="de" %}}.
+Es dauert dann eine Weile, bis der Tempel selbst wieder aufgebaut ist — das geschieht unter Nehemia im Jahr 440 v. Chr. —, und 62×7=434 Jahre vergehen, während der Tempel steht, wenn auch in ständigen Schwierigkeiten: Israel wird vom {{% bible val="Beginn des Baus" link="neh:4" lang="de" %}} an durch eine lange Abfolge politischer Umwälzungen und wechselnder Herrscher (Perser, Griechen, die syrisch-ägyptischen Reiche und schließlich Rom) hin- und hergeworfen. Das bringt uns bis 6 v. Chr.
 
-Es dauert seine Zeit, bis der Tempel wieder aufgebaut ist, aber im Jahre 440 v. Chr. unter Nehemiah ist die Aufgabe erfüllt und 62*7=434 Jahre steht der Tempel und geht durch viele Schwierigkeiten, da Israel {{% bible val="seit dem Bau " link="neh:4" lang="de" %}}durch politische Unruhen und wechselnde Herrscher (Perser, Greichen, Syrer/Ägypter, Römer) durchhalten musste.
+{{% bible val="Und nach den zweiundsechzig Jahrwochen wird der Gesalbte umgebracht werden und nichts mehr haben; und das Volk des kommenden Fürsten wird die Stadt und das Heiligtum zerstören, und das Ende kommt durch eine Flut, und bis ans Ende wird es Krieg geben, festbeschlossene Verwüstungen." link="dan:9,24-27" lang="de" %}}
 
-Vers 26: {{% bible val="Und nach den 62 Wochen wird der Gesalbte ausgerottet werden, und ihm wird nichts zuteilwerden; die Stadt aber samt dem Heiligtum wird das Volk des zukünftigen Fürsten zerstören, und sie geht unter in der überströmenden Flut; und bis ans Ende wird es Krieg geben, fest beschlossene Verwüstungen." link="dan:9,26" lang="de" %}}
+Hier ist der Gesalbte nicht mehr Kyrus, sondern Jesus, geboren im Jahr 6 v. Chr. „Umgebracht werden und nichts mehr haben“ übersetzt eine aramäische Wendung, die [„abgeschnitten werden“](https://biblehub.com/interlinear/daniel/9-26.htm) bedeuten kann, aber auch [„einen Bund schneiden“](https://biblehub.com/hebrew/3772.htm) — er starb, um einen Bund zu schließen. „Das Volk des Fürsten“ bezieht sich auf den Kaiser Tiberius und seine Legionen; der Text verwendet das Wort „Fürst“, was möglicherweise den {{% bible val="Fürsten dieser Welt" link="jhn:12,31" lang="de" %}} anklingen lässt. Das Volk jenes Herrschers kam und zerstörte die Stadt und das Heiligtum im Jahr 70 n. Chr. Das Ende kam wie eine Flut römischer Legionen, wobei der Krieg andauerte, bis Israel schließlich im Jahr 135 n. Chr. nach einem letzten Aufstand aus dem Land vertrieben wurde. Die Verwüstung, so betont der Text, war beschlossen — von Gott.
 
-Der Gesalbte ist hier nicht Kyrus, sondern Jesus, der 6 v. Chr. geboren wurde. “Ausgerottet werden und nichts haben” hat im Aramäischen “[ausgerottet = abgeschnitten](https://biblehub.com/interlinear/daniel/9-26.htm)” auch die Bedeutung “[einen Bund schneiden = einen Bund schließen](https://biblehub.com/hebrew/3772.htm)”. Er starb, um einen Bund zu schließen.
+{{% bible val="Und er wird für viele einen Bund bekräftigen, eine Jahrwoche lang; und in der Mitte der Jahrwoche wird er Schlacht- und Speisopfer aufhören lassen. Und auf dem Tempel wird ein Gräuel der Verwüstung stehen, bis das festbeschlossene Ende sich über den Verwüster ergießt." link="dan:9,24-27" lang="de" %}}
 
-Das Volk des zukünftigen Fürsten sind die Römer unter dem Kaiser Tiberius ({{% bible val="Bezug zu Prinz dieser Welt" link="jhn:12,31" lang="de" %}}?). Er wird kommen und die Stadt und das Heiligtum (den Tempel) im Jahre 70 zerstören.
+Da das Subjekt dieses letzten Satzes immer noch Gott aus dem vorherigen Satzteil ist, ist es Gott, der einen {{% bible val="Bund mit vielen" link="jer:31,31-34" lang="de" %}} bekräftigt — den {{% bible val="neuen Bund Jesu" link="heb:8,6" lang="de" %}}.
 
-Das Ende kommt wie eine Flut (von römischen Legionen) und es wird immer wieder Krieg geben bis zum Ende, als Israel im Jahre 135 deportiert wird. Das ist (von Gott) fest beschlossen.
+In der Mitte jener letzten „Woche“ setzt er Schlacht- und Speisopfer außer Kraft, weil {{% bible val="Opfer nicht mehr nötig ist" link="heb:10,1-18" lang="de" %}}.
 
-Vers 27: {{% bible val="Und er wird mit den Vielen einen festen Bund schließen eine Woche lang; und in der Mitte der Woche wird er Schlacht- und Speisopfer aufhören lassen, und neben dem Flügel werden Gräuel der Verwüstung aufgestellt, und zwar bis die fest beschlossene Vernichtung sich über den Verwüster ergießt." link="dan:9,27" lang="de" %}}
-
-Als letztes wird Gott {{% bible val="mit vielen einen Bund schließen" link="jer:31,31-34" lang="de" %}}, den {{% bible val="Neuen Bund mit Jesus und den Nationen" link="heb:8,6" lang="de" %}}.
-
-In der Mitte der “Sieben” wird er dem Opferdienstes ein Ende setzen, weil {{% bible val="dieser nicht mehr nötig ist" link="heb:10,1-18" lang="de" %}}.
-
-Er wird Gräuel der Verwüstung aufrichten ([im Original heißt es “er wird aufrichten](https://biblehub.com/interlinear/daniel/9-27.htm)), wir haben also immer noch Tiberius. Es handelt sich um “[Flügel der Verwüstung](https://biblehub.com/interlinear/daniel/9-27.htm)”, die sich auf den Reichsadler der Römer beziehen. “Bis die Vernichtung ausgeschüttet ist” kann man besser übersetzen mit “bis das beschlossene Ende auf den Zerstörer gestzt ist” und meint, also bis das Römische Reich fällt, was uns wieder {{% int_link val="zu Daniel 7 zurückbringt" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}.
+Das Subjekt wechselt dann wieder zu Tiberius für den Gräuel der Verwüstung ([das hebräische Original sagt eigentlich nicht „er“, sondern „einer, der verwüstet“](https://biblehub.com/interlinear/daniel/9-27.htm)). Der Text spricht von „Flügeln“ des Gräuels, was wahrscheinlich auf das römische Legionsadler-Feldzeichen verweist. „Bis das beschlossene Ende sich über ihn ergießt“ lässt sich besser wiedergeben mit „bis das beschlossene Ende über den Verwüster kommt“ — das heißt, bis das Römische Reich selbst fällt, was uns {{% int_link val="zurück zu Daniel Kapitel 7" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}} bringt.
 
 ## Die letzte Woche
 
 <a name="1ed3"></a>
-Nun, hier wird es etwas kompliziert, wenn wir die letzten sieben Jahre betrachten. Der Grund dafür ist, dass hier zwei Geschichten erzählt werden.
+Die letzte Woche — die letzten sieben Jahre — erweist sich als komplizierter, denn der Text scheint zwei Geschichten gleichzeitig zu erzählen, von denen jede ihre eigene Version davon beschreibt, wie die Dinge enden.
 
-Die erste Geschichte ist die Geschichte Israels und des Tempels und des Landes, die zu einem Ende kommt und durch den Neuen Bund mit Jesus einen neuen Anfang mit Israel nimmt.
-
-Beide Geschichten sind um 40 Jahre zeitversetzt. Aber wie ist das möglich? Jesus war zu Beginn seiner Berufung 40 Tage in der Wüste und hat all den Versuchungen widerstanden, an denen Israel beim Auszug aus Ägypten in der Wüste gescheitert ist. Deshalb musste Israel 40 Jahre in der Wüste umherwandern, bis es ins Gelobte Land kam. Hier wird die Geschichte auf den Kopf gestellt: Jesus hat den Versuchungen nicht nachgegeben und richtet einen neuen Bund auf, so dass Israel noch extra 40 Jahre bekommt, um in den neuen Bund zu wechseln.
+Die erste ist die Geschichte Israels, dessen Jerusalem, Tempel und Land ein Ende finden, nur um in den Neuen Bund aufgenommen zu werden, den Jesus errichtet, um mit den Juden neu zu beginnen. Die zweite ist die Geschichte Jesu selbst. Beide Geschichten laufen, seltsamerweise, um 40 Jahre versetzt voneinander ab. Wie ist das möglich? Jesus verbrachte zu Beginn seines Dienstes 40 Tage in der Wüste und widerstand genau den Versuchungen, denen Israel in der Wüste nach dem Auszug aus Ägypten nicht widerstehen konnte — jenes Versagen, das Israel 40 Jahre Umherirren kostete, bevor es je das Gelobte Land erreichte. Hier wird die Geschichte auf den Kopf gestellt: Jesus gibt der Versuchung nicht nach, und indem er einen neuen Bund errichtet, gewährt er Israel im Grunde 40 zusätzliche Jahre, um in ihn einzutreten.
 
 ## Die Geschichte Israels
 
 <a name="76e7"></a>
-Im Jahre 66 begann der erste jüdische Krieg, und nach der Hälfte der sieben Jahre wurde der Tempel zerstört und nicht wieder aufgebaut. Auf den Flügeln des Zerstörers wurde er zerstört und somit war der Opferdienst nicht mehr möglich.
-
-Der Krieg endete nach sieben Jahren im Jahr 73 und nach weiteren Unruhen wurde Israel schließlich nach einem weiteren Krieg deportiert. Israel hatte Tempel, Stadt und Land verloren.
+Im Jahr 66 beginnt der jüdische Krieg. Sein Mittelpunkt — dreieinhalb Jahre später — bringt die Zerstörung des Tempels, der nie wieder aufgebaut wird; die Opfer enden damit, abgeschnitten „auf den Flügeln des Verwüsters“. Der Krieg selbst endet 73, sieben Jahre nach seinem Beginn, und nach weiteren Unruhen wird Israel 135 nach einem weiteren Krieg deportiert. Am Ende hat Israel den Tempel, die Stadt und das Land verloren.
 
 ## Die Geschichte von Jesus
 
 <a name="abfc"></a>
-Im Jahre {{% bible val="27" link="luk:3,1" lang="de" %}} (mit der Annahme, das [Tiberius Herrschaft im Jahre 12](https://www.tyndalebulletin.org/article/37789-reckoning-tiberius-s-reign-and-jesus-s-baptism-first-and-second-century-evidence-concerning-tiberius-s-fifteenth-year-luke-3-1.pdf) begann) wird Jesus berufen und mit dem Heiligen Geist getauft und er {{% bible val="erneuert den Bund mit den Juden" link="mat:15,23-24" lang="de" %}}. In der Mitte der sieben Jahre (Jahr 31) stirbt er und steht wieder auf, und der Bund umfaßt nun auch die Heiden. Mit seinem Tod ist auch der Opferdienst nicht mehr nötig.
+Im Jahr {{% bible val="27" link="luk:3,1" lang="de" %}} — unter der Annahme, dass [Tiberius' Herrschaft im Jahr 12 begann](https://www.tyndalebulletin.org/article/37789-reckoning-tiberius-s-reign-and-jesus-s-baptism-first-and-second-century-evidence-concerning-tiberius-s-fifteenth-year-luke-3-1.pdf) — wird Jesus berufen und mit dem Heiligen Geist getauft, und er {{% bible val="erneuert den Bund mit den Juden" link="mat:15,23-24" lang="de" %}}. Am Mittelpunkt der sieben Jahre, im Jahr 31, stirbt er und ersteht wieder auf, und der Bund erstreckt sich nun auch auf die Nichtjuden; mit seinem Tod ist der Opferdienst nicht mehr nötig.
 
-Das Ende der sieben Jahre fällt ins Jahr 34. Das ist das Jahr, in dem {{% bible val="vermutlich Stephanus gesteinigt wird." link="act:7" lang="de" %}} nach seiner Rede, in dem er Israel anklagt, seinen Bund verlassen zu haben. Hier wird das erste Mal nach Jesu Tod von einem Christen gesprochen, der wegen seines Glaubens stirbt und die erste Erwähnung von Paulus, der den Glauben sehr stark auch unter Nichtjuden verbreiten wird. 
+Die sieben Jahre enden im Jahr 34, dem Jahr, in dem {{% bible val="vermutlich Stephanus zu Tode gesteinigt wird" link="act:7" lang="de" %}}, nach einer Rede, in der er Israel beschuldigt, seinen Bund verlassen zu haben. Das ist das erste Mal nach Jesu Tod, dass ein Christ für seinen Glauben stirbt, und es ist auch die erste Erwähnung von Paulus, der später den Glauben mit großem Eifer unter den Nichtjuden verbreiten wird.
 
-Es ist die Zeit, in der die Gemeinde in voller Konsequenz Jesus nachfolgt. Der neue Bund ist nun wirklich aktiv.
+Das ist der Moment, in dem die Gemeinde beginnt, Jesus in vollem Umfang nachzufolgen — der neue Bund ist nun wirklich aktiv.
 
 ![](/images/70years_de.jpg)

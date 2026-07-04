@@ -4,11 +4,11 @@ title: What am I reading?
 weight: 2
 ---
 
-Understanding what type of literature a book is, avoids a lot of missunderstandings.
+Understanding what type of literature a book is avoids a lot of misunderstandings.
 
-Let me give you a simple example: When Paul says that Jesus is resurrected from the death, it is an undebatable truth for a Christian, but it might not be true when Jesus said there is a man going from Damaskus to Jerusalem. How can this be? Jesus himself said this. But he said before, he is telling a parable.
+Here's a simple example: when Paul says that Jesus was resurrected from the dead, that's a non-negotiable truth for a Christian. But when Jesus himself says there was a man traveling from Damascus to Jerusalem, that story doesn't need to have literally happened to be true — because Jesus told us beforehand that he was telling a parable. Same category, "something Jesus said," but two very different claims to truth, because the genre is different.
 
-When we look into the book we will see that this is not a simple answer as this book is composed of three types:
-- a letter - whatever is written there must be applicable for the first readers (including chapter 4-20)
-- a prophecy - which purpose is not to predict, but to provoke in order to prevent the announced future, see the story of Jonah
-- an apocalypse - this is not what you think it is, but a genre of provocatative resistance literature
+Revelation doesn't give us a simple answer either, because the book is actually composed of three genres at once:
+- a letter — whatever is written must have been applicable to the first readers, which includes the material in chapters 4–20, not just 1–3
+- a prophecy — whose purpose isn't to predict the future but to provoke a change that prevents the announced future, as in the story of Jonah
+- an apocalypse — not what most people assume that word means, but a genre of provocative resistance literature

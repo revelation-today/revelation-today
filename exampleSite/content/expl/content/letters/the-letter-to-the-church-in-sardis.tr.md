@@ -14,42 +14,36 @@ sources:
       ref: fee_rev
 ---
 
-Ölü bir kilise neye benzer? Oraya nasıl yeni bir hayat verebilirsiniz? Merak mı ediyorsunuz? {{% bible val="Sardis’e yazılan" link="rev:3,1-6" lang="tr" %}} mektuba bir göz atın.
+Ölü bir kilise neye benzer, ve ona nasıl yeni bir yaşam aşılanır? {{% bible val="Sardes'e yazılan mektup" link="rev:3,1-6" lang="tr" %}} her iki soruyu da yanıtlıyor.
 
 ## Tarihsel arka plan
 
 <a name="38d4"></a>
-Sardis kesinlikle en uzun geçmişe sahip olan kenttir. Kasaba iklim açısından mükemmel bir konuma sahiptir (bir dağ silsilesinin ve verimli bir vadinin kenarında).
+Sardes, yedi şehir arasında en uzun geçmişe sahip olanıydı, ve bunun için ideal bir konumdaydı — bir dağ sırasının kenarında, verimli bir vadinin içinde, elverişli bir iklimle.
 
-Dağlarla bağlantısı olmayan ve kayalıklarla çevrili bir sokaktan 500 metre yukarıda yer aldığı için neredeyse zapt edilemezdi. Bu nedenle kasaba kendini abarttı, örneğin kasaba zaptedilemez olarak kabul edilen yerde iki kez fethedildi.
+Şehir her zaman önemli olmuştu. MÖ 17'de büyük bir deprem onu yıktığında, imparatorluk himayesinde yeniden inşa edildi, ve dokuz yıl sonra minnettar şehir imparator onuruna bir tapınak inşa etmek için başvurdu.
 
-Kasaba her zaman büyük bir öneme sahip olmuştur, örneğin M.Ö. 17 yılında büyük bir depremle yıkıldığında, imparator Tiberius’un öncülüğünde yeniden inşa edilmiş ve dokuz yıl sonra imparatoru onurlandıran bir tapınak inşa etmek için başvuruda bulunulmuştur.
+Sardes ayrıca doğal bir kaleydi; deniz seviyesinden 500 metre yükseklikte, uçurumlarla çevrili, ama hiçbir komşu dağa bağlı değildi. Bu konum aşırı bir özgüven doğurdu: şehir kendini ele geçirilemez sanıyordu, yine de düşmanlar onu tam olarak herkesin ulaşılamaz sandığı yerlerden sızarak iki kez fethetti.
 
-## İsa’nın görüşü
+## İsa'nın görüşü
 
 <a name="4754"></a>
-{{% bible val="İsa kiliseye ruhun doluluğu içinde yaklaşır ve onlara dünyaya ışık olma çağrılarını hatırlatır." link="rev:3,1" lang="tr" %}}
+İsa {{% bible val="bu kiliseye Ruh'un tam gücüyle yaklaşır ve onlara dünyaya ışık olma çağrılarını hatırlatır" link="rev:3,1" lang="tr" %}}.
 
-Çok az övgü vardır (sadece birkaçı suçsuzdur).
-
-Ama daha çok azarlama: Kilise öldü, çalışmaları tamamlanmadı ve hızlı hareket etmeleri gerekiyor. Sorun nedir?
+Burada övgü azdır — kilisede yalnızca bir avuç imanlı suçsuz olarak nitelenir — bunun yerine bol miktarda kınama vardır: kilise ölüdür, işleri tamamlanmamıştır, ve gerçek bir amaç kurtarmak istiyorsa hızlı hareket etmesi gerekir. Peki ne yanlış gitti?
 
 ## Sorun
 
 <a name="6a43"></a>
-Asıl sorun yanlış öz farkındalıklarıdır. Şehri gözlerinde fazla büyütmeleri.
+Temel sorun, sahte bir öz-önem duygusudur. Şehrin kendi ele geçirilemez konumuna duyduğu aşırı özgüven kiliseye de bulaşmış, ve kilise Kutsal Ruh'un gücü olmadan da işleyebileceğine inanır hâle gelmiştir.
 
-Temel sorunları Kutsal Ruh olmadan kilise olabilmeleriydi.
+Kilisenin {{% bible val="geriye kalan da ölmeden önce uyanması gereken ölü biri olarak tarif edilmesi" link="rev:3,1-2" lang="tr" %}}, {{% bible val="Ruh'un gelip ölü olana yeni yaşam üflediği Hezekiel'deki kuru kemikler vadisi vizyonunu" link="ezk:37" lang="tr" %}} yankılar. Aynı şekilde, İsa'nın "{{% bible val="işlerinizi Tanrı'nın gözünde eksiksiz bulmadım" link="rev:3,2" lang="tr" %}}" suçlaması, "{{% bible val="her iyi ve kusursuz armağanın ışıkların Babası Tanrı'dan geldiği" link="jas:1,17" lang="tr" %}}" hatırlatmasını çağrıştırır — başka bir deyişle, Tanrı bir işi onlar aracılığıyla yapan taraf olmadıkça hiçbir iş gerçekten tam sayılmaz.
 
-{{% bible val="Ölü olmaya ve ölmek üzere olanı uyandırmaya" link="rev:3,1-2" lang="tr" %}} yapılan gönderme, {{% bible val="Kutsal Ruh’un gelip yeni bir yaşam üflediği ölü kemikler vizyonuyla" link="ezk:37" lang="tr" %}} güçlü bir bağlantıya sahiptir.
-
-Ayrıca, “{{% bible val="yaptıklarınızı Tanrı’nın gözünde eksik bulduğunuza" link="rev:3,2" lang="tr" %}}” yapılan atıf, “{{% bible val="tüm eksiksiz işlerin ışıkların babası Tanrı’dan geldiği" link="jas:1,17" lang="tr" %}}” gerçeğini hatırlatmaktadır.
-
-Hızlı hareket etmeliler yoksa Tanrı onları gafil avlar, çünkü Kutsal Ruh’suz bir yaşam sürdürülebilir değildir.
+Kutsal Ruh olmadan bir yaşam sürdürülebilir değildir. Sardes hızlı hareket etmelidir, yoksa Rab'bin dönüşü kiliseyi tamamen habersiz yakalayacaktır.
 
 ## Söz
 
 <a name="9a20"></a>
-Beyaz elbiseler mahkemede aklanmanın bir işaretidir.
+Buradaki beyaz giysiler bir mahkemede beraatin işaretidir. İsimlerinin Yaşam Kitabı'ndan silinmeyeceği vaadi, göksel vatandaşlıklarını kaybetmeyecekleri anlamına gelir — ancak bu vaat yalnızca tövbe edenlere aittir.
 
-Yaşam kitabından isimlerin silinmemesi, cennetteki vatandaşlıklarını kaybetmedikleri anlamına gelir. Ama sadece tövbe ederlerse. Bu bir uyandırma çağrısıdır! Şok etme amaçlı.
+Bu mektup, sonuçta, ölmekte olan bir kiliseyi şoklayıp yeniden harekete geçirmeyi amaçlayan bir uyanış çağrısıdır.

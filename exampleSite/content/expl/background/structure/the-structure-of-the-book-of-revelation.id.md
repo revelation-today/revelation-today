@@ -15,65 +15,63 @@ docType: expl
 appl: /appl/background/structure
 ---
 
-Pada pandangan pertama, Kitab Wahyu tampak sangat tidak tertata. Satu bencana disusul oleh bencana lainnya, lalu dimulai lagi dari awal. Tetapi jika kita perhatikan lebih saksama, kita akan mengenali sebuah struktur yang cermat dan susunan yang menyeluruh.
+Kitab Wahyu tampak tidak teratur pada pandangan pertama — satu bencana disusul bencana lainnya, dan kemudian siklus itu dimulai lagi dari awal. Tetapi perhatikan lebih dekat, dan sebuah struktur artistik serta keterampilan yang disengaja pun tersingkap.
 
 ## Tantangannya
 
 <a name="690e"></a>
-Kitab ini penuh dengan simbol-simbol dan rujukan-rujukan kepada bagian-bagian Alkitab lainnya, untuk mengingatkan kita akan tujuan gereja.
+Kitab ini penuh dengan simbol-simbol dan rujukan kepada bagian-bagian lain dari Alkitab, semuanya untuk mengingatkan kita akan tujuan kita sebagai gereja.
 
-Kitab Wahyu pertama-tama menceritakan apa yang telah dilakukan Allah, kemudian menggambarkan apa yang diharapkan-Nya dari gereja: menjadi terang di dunia, tetapi pada saat yang sama sepenuhnya bergantung pada-Nya — hanya dengan cara itulah gereja benar-benar dapat menjadi terang.
+Kitab ini dibuka dengan apa yang telah dilakukan Allah dan apa yang diharapkan-Nya dari gereja sebagai tanggapan: menjadi terang, dan bergantung kepada-Nya.
 
-Tetapi setelah {{% int_link val="gereja dinilai berdasarkan hal itu" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}, hasilnya sangat mengecewakan: hanya dua jemaat yang tidak ditegur (pada posisi yang tampaknya kurang penting dalam kisah itu), dua di antaranya (di awal dan di akhir daftar) merupakan sebuah bencana besar, dan di tengah-tengah diberitakan tentang sebuah jemaat yang akan dijadikan contoh oleh Yesus.
+Dari situ, {{% int_link val="jemaat-jemaat dinilai" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}, dan hasilnya sangat mencemaskan. Hanya dua dari ketujuh jemaat yang keluar tanpa cela, dan keduanya ditempatkan pada posisi yang tampak kurang penting dalam daftar itu. Dua jemaat lainnya benar-benar sebuah bencana, mengapit rangkaian itu di awal dan akhirnya, dan tepat di tengah-tengah terdapat sebuah jemaat yang begitu bermasalah sehingga Yesus secara khusus menjadikannya sebagai contoh peringatan bagi jemaat-jemaat lainnya.
 
 ## Jawabannya
 
 <a name="c99d"></a>
-Allah memberikan jawaban yang menjadi jangkar bagi gereja: tempat penyembahan kekal kepada Allah yang tidak berubah.
+Menghadapi tantangan itu, Allah memberikan sebuah jangkar bagi hidup kita: tempat {{% int_link val="penyembahan yang kekal dan tidak berubah" link="/appl/topics/power/worship" %}} di hadapan Allah yang kekal dan tidak berubah.
 
-Di tempat inilah meterai-meterai, sangkakala-sangkakala, dan cawan-cawan itu berasal, dan setiap unsur ini berakhir dengan guruh, kilat, dan gempa bumi, sama seperti yang terdapat di ruang takhta. Dan setiap dari ketiga rangkaian ini menunjukkan bagaimana Kerajaan Allah akan datang.
+Segala sesuatu yang menyusul — meterai-meterai, sangkakala-sangkakala, dan cawan-cawan — mengalir dari tempat itu, masing-masing rangkaian berakhir dengan rangkaiannya sendiri berupa guruh, kilat, dan gempa bumi, menggemakan apa yang telah ada di ruang takhta. Bersama-sama, ketiga rangkaian ini menyingkapkan aspek-aspek berbeda dari bagaimana Kerajaan Allah akan digenapi.
 
-Setiap dari ketiga rangkaian ini memiliki sebuah selingan (meterai-meterai dan sangkakala-sangkakala) atau sebuah lampiran (sangkakala-sangkakala dan cawan-cawan), tempat sebuah tema diperdalam. Dan pada lampiran cawan-cawan itu, lingkaran ditutup dengan Yerusalem Baru.
+Setiap dari ketiga rangkaian ini juga membawa selingannya sendiri: meterai-meterai dan sangkakala-sangkakala masing-masing berhenti sejenak untuk memperdalam tema itu, sementara sangkakala-sangkakala dan cawan-cawan masing-masing melampirkan sebuah lampiran yang mengembangkannya lebih jauh. Lampiran cawan-cawan itu berlangsung hingga pasal terakhir, yaitu Yerusalem Baru itu sendiri.
 
 ## Meterai-Meterai Itu
 
 <a name="3431"></a>
-Kelompok pertama adalah meterai-meterai. Meterai-meterai ini adalah akibat dari apa yang telah dilakukan Yesus di kayu salib: menghakimi Iblis dan dunia karena persekutuan mereka dengannya, di mana doa orang-orang kudus memainkan peran penting.
+Rangkaian pertama adalah {{% int_link val="meterai-meterai" link="/expl/content/worship/the-book-with-the-seven-seals" %}}. Meterai-meterai ini menyatakan apa yang telah dicapai Yesus di kayu salib beserta konsekuensinya: menyingkapkan iblis dan menghakimi dunia karena persekutuannya dengannya, sambil juga memperhitungkan doa-doa orang-orang kudus.
 
-Uraian ini disela pada pasal 7 oleh pengumpulan bala tentara Allah.
-
-Setelah itu menyusul meterai ketujuh, yang sekaligus menjadi pembuka bagi sangkakala-sangkakala itu.
+Rangkaian ini disela dalam pasal 7 oleh {{% int_link val="pengumpulan bala tentara Allah" link="/expl/content/army/the-144000" %}}, dan ditutup dengan meterai ketujuh, yang sekaligus menjadi pengantar bagi bunyi sangkakala-sangkakala.
 
 ## Sangkakala-Sangkakala Itu
 
 <a name="d06e"></a>
-{{% int_link val="Sangkakala-sangkakala" link="/expl/content/trumpets/the-trumpets-in-revelation" %}} itu adalah jawaban atas doa-doa orang-orang kudus, dengan sedikit kejutan. Kita akan berharap bahwa doa-doa itu membawa penghiburan dan damai, tetapi di sini justru sebaliknya yang terjadi. Penyediaan kebutuhan dan keamanan diambil, bahkan hidup itu sendiri, sehingga setiap orang dapat mengenali bahwa Allah sendirilah sumber penyediaan dan keamanan.
+{{% int_link val="Sangkakala-sangkakala" link="/expl/content/trumpets/the-trumpets-in-revelation" %}} itu menjawab doa-doa kita, tetapi dengan sebuah kejutan yang mengherankan. Kita mungkin mengharapkan doa-doa kita membawa penghiburan dan damai; sebaliknya, yang terjadi justru kebalikannya. Sangkakala-sangkakala itu mengambil penyediaan kebutuhan dan keamanan, dan akhirnya hidup itu sendiri, sehingga setiap orang sampai pada kesadaran bahwa hanya Allah yang menjadi sumber sejati penyediaan dan keamanan.
 
-Tetapi orang-orang tidak mau menerima hal ini. Karena itu Yohanes dipanggil untuk {{% int_link val="bernubuat sekali lagi (tentang rahasia Allah)" link="/expl/content/scroll/the-little-scroll" %}}. Dan ketika sangkakala ketujuh berbunyi, {{% int_link val="rahasia itu disingkapkan dalam kemunculan kedua saksi" link="/expl/content/witnesses/the-two-witnesses" %}}.
+Tetapi orang-orang menolak menerima pelajaran itu, sehingga Yohanes dipanggil {{% int_link val="sekali lagi untuk bernubuat dan bersaksi" link="/expl/content/scroll/the-little-scroll" %}}. Sebelum sangkakala ketujuh berbunyi, rahasia bait Allah disingkapkan, dan {{% int_link val="kedua saksi itu dinyatakan" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
-{{% int_link val="Mereka telah memilih jalan mereka seperti Yesus, yang kemenangan-Nya atas Iblis kini ditunjukkan, sebab Dialah satu-satunya saksi yang sejati." link="/expl/content/jesus/a-different-christmas-story" %}}
+Setelah itu, {{% int_link val="kisah kemenangan Yesus atas iblis sebagai saksi yang sejati ditunjukkan" link="/expl/content/jesus/a-different-christmas-story" %}}, disusul dengan {{% int_link val="penyingkapan iblis dan antek-anteknya sebagai sebuah tipu daya yang gagal" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-{{% int_link val="Kemudian menyusul upaya putus asa Iblis dan para pengikutnya untuk menghentikan hal ini, yang tampak baik dari luar tetapi sama sekali tanpa harapan." link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}
-
-Keseluruhan kisah ini berakhir dengan bala tentara Allah (yang telah kita lihat di pasal 7) dan upah mereka, yaitu penghakiman atau penyelamatan bangsa-bangsa, yang merupakan upah bala tentara Allah.
+Keseluruhan rangkaian ini ditutup dengan penampilan bala tentara Allah yang setia — bala tentara yang sama yang telah kita jumpai di pasal 7 — menerima upah mereka, bersamaan dengan penghakiman atas semua orang yang setia kepada iblis dan "upah" mereka sendiri yang sangat berbeda.
 
 ## Cawan-Cawan Itu
 
 <a name="7980"></a>
-Bagian terakhir dikhususkan bagi {{% int_link val="karya Allah yang tak terbendung untuk membawa umat manusia ke dalam Kerajaan-Nya" link="/expl/content/bowls/the-bowls-of-wrath" %}}. Dalam cawan-cawan itu kita melihat perjuangan Allah melawan rintangan-rintangan untuk menyelamatkan umat manusia. Keseluruhannya berakhir dengan kehancuran kerajaan Iblis.
+Bagian utama terakhir beralih kepada {{% int_link val="hasrat Allah yang tak kenal lelah agar umat manusia melihat Kerajaan-Nya datang" link="/expl/content/bowls/the-bowls-of-wrath" %}}. Dalam cawan-cawan itu, kita menyaksikan Allah berperang melawan setiap rintangan yang tersisa yang menghalangi keselamatan umat manusia, berakhir dengan kehancuran kerajaan iblis.
 
-Tetapi dalam lampirannya, tema ini diperdalam sekali lagi.
+Lampiran yang melekat pada bagian ini masuk jauh lebih dalam ke rincian:
 
-- Sasaran utama tindakan Allah adalah {{% int_link val="sundal Babel yang misterius itu" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}
-- Setelah penghakiman atas sundal itu, tersedia ruang bagi mempelai Kristus untuk menikahi kekasihnya.
-- Setelah penggambaran kehancuran total kerajaan Iblis, yang di dalamnya tertanam gambaran Kerajaan Seribu Tahun, semuanya tergenapi.
-- Akhirnya, sebagai lawan dari sundal Babel, mempelai Yerusalem turun ke bumi dalam segala kemegahannya.
+- Sasaran utama Allah adalah {{% int_link val="sundal misterius bernama Babel" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}.
+- Setelah sundal itu dihakimi, pernikahan Mempelai Kristus — yaitu gereja — akhirnya dapat berlangsung.
+- Kehancuran kerajaan iblis dilaporkan dua kali, dalam pasal 19 dan 20, dengan kerajaan seribu tahun terselip di antara kedua catatan itu.
+- Akhirnya, sebagai lawan yang disengaja dari sundal itu, Mempelai itu ditampilkan dalam kemuliaan penuh.
 
-Kitab ini ditutup dengan beberapa nasihat yang mendorong pembaca untuk menanggapi semuanya ini dengan sungguh-sungguh.
+Kitab ini kemudian ditutup dengan serangkaian peringatan terakhir, menegaskan betapa seriusnya semua ini.
 
 ## Untuk Dibaca Lebih Lanjut
 
 <a name="db91"></a>
+Untuk sebuah alur pasal demi pasal melalui sisa kajian ini, beserta latar belakang tentang struktur sastra Ibrani yang mendasarinya, lihat:
+
 - {{% int_link val="Bagaimana membaca sastra Ibrani" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}}
 - Ps 1: {{% int_link val="Tantangan-tantangan jemaat" link="/expl/content/letters/the-angel-of-the-churches" %}}
 - Ps 2–3: {{% int_link val="Surat-surat kepada jemaat" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}

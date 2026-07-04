@@ -10,94 +10,56 @@ docType: expl
 appl: /appl/background/israel
 ---
 
-Kutsal Kitap ataerkil yapıları destekler ve teşvik eder mi? Kadınların o kadar da önemli olmadığı düşüncesini destekliyor mu? Çok uzaktasınız ama antik kültürde ailenin nasıl olduğunu açıklamama izin verin.
+Kutsal Kitap ataerkil yapıları destekleyip teşvik eder mi? Kadınların erkeklerden daha az önemli olduğunu mu öğretir? Aslında durum göründüğünden daha karmaşıktır — antik kültürde ailenin gerçekte nasıl işlediğini ve bunun Kutsal Kitap'ın geri kalanını okurken neden önemli olduğunu ele alalım.
 
 ## Ailenin önemi
 
 <a name="524d"></a>
-Antik dünyada gerçekten bir hukuk sistemi, sigorta veya destek olanakları yoktu. Her şey aile içinde halledilirdi. Ve aile klanın yanında (önem derecesine bağlı olarak), klan kabilenin içinde ve kabile de ulusun içinde karar verirdi.
+Antik dünyada gerçek bir hukuk sistemi, sigorta ya da sosyal güvenlik ağı yoktu. Her şey doğduğunuz aile üzerinden yürürdü. Aile, klan içinde (o ailenin ne kadar önemli olduğuna göre ağırlıklandırılmış) kararlar alır, klan kabile içinde, kabile de ulus içinde işlerdi.
 
-Toplum, en küçük birim olarak aile ile birlikte çalışmıştır. Bu nedenle sadece bir aileye ait olmak değil, aynı zamanda hangi aileye ait olduğunuz, hangi rolde olduğunuz, cinsiyetiniz ve doğum sıranız da önemliydi.
+Toplum aşağıdan yukarıya, en küçük birim olarak aile üzerine kurulmuştu. Bu yüzden yalnızca bir aileye ait olmanız değil, hangi aileye ait olduğunuz, o ailede hangi rolü oynadığınız, cinsiyetiniz ve doğum sıranız da son derece önemliydi.
 
-Sistem Kutsal Kitap’ta ağır bir şekilde eleştirilir, çünkü dullar ve yetimler gibi bir ailesi olmayan ya da nüfuzu az olan ailelerin dezavantajlı olduğu açıktır. Tanrı’nın [dul](https://www.bibleserver.com/search/TR/dul) ve yetimlerin savunucusu olarak ortaya çıktığı ve {{% bible val="hatta bunu imanın temel bir unsuru" link="jas:1,27" lang="tr" %}} haline getirdiği pek çok örnek vardır.
+Kutsal Kitap bu sistemi keskin biçimde eleştirir, çünkü bu sistem arkasında ailesi olmayan herkesi — dulları, yetimleri ve zayıf konumdaki aileleri — açıkça güvencesiz bırakıyordu. Kutsal Kitap'ın Tanrı'yı defalarca [dulların](https://www.bibleserver.com/search/NIV/widows) ve yetimlerin savunucusu olarak öne çıkarmasının, hatta onlara bakmayı {{% bible val="imanın temel bir unsuru" link="jas:1,27" lang="tr" %}} hâline getirmesinin nedeni budur.
 
-Ayrıca Tanrı krallar gibi önemli kişileri 
-- {{% bible val="önemsiz ailelerden" link="rut:4,16-17" lang="tr" %}} 
-    - Rut yarı Moavlıydı ve kral Davut’un büyükannesiydi ya 
-- da yabancılardan ({{% bible val="İsa’nın soy ağacındaki üç yabancı kadına bakın" link="mat:1,2-16" lang="tr" %}}: 
-    - {{% bible val="Kenanlı Tamar" link="gen:38" lang="tr" %}}, 
-    - {{% bible val="yarı Moavlı Rut" link="rut:1,1-4" lang="tr" %}} ve 
-    - {{% bible val="bir Hitit’in karısı olan Batşeba" link="2sa:11,3" lang="tr" %}} seçmeyi sever.
+Tanrı'nın ayrıca önemli kişileri — hem de kralları — tam olarak kültürün göz ardı edeceği ailelerden seçme alışkanlığı vardır:
 
-Kutsal Kitap kurtarıcıyı vurgular ({{% bible val="kurtarılması gereken en yakın akraba" link="lev:25,47-49" lang="tr" %}}). Bu kişi yakın akrabalardan birinin başı derde girdiğinde yardım etmekle yükümlüdür. Bu
-- {{% bible val="to deliver from captivity" link="gen:14" lang="tr" %}}
-- kişiyi kölelikten kurtarmak için ödeme yapmak
-- {{% bible val="mülkü geri satın alır" link="lev:25,25-26" lang="tr" %}}
-- {{% bible val="beladan kurtulmak için evlen" link="rut:4" lang="tr" %}} ya da {{% bible val="dul kadın için zürriyet sağla" link="gen:38,8" lang="tr" %}}
-- ...
+- {{% bible val="önemsiz aileler" link="rut:4,16-17" lang="tr" %}}: Rut yarı Moavlıydı, yine de Kral Davut'un büyükannesi oldu.
+- yabancılar ({{% bible val="İsa'nın soy ağacındaki üç yabancı kadına bakın" link="mat:1,2-16" lang="tr" %}}): {{% bible val="Kenanlı Tamar" link="gen:38" lang="tr" %}}, {{% bible val="yarı Moavlı Rut" link="rut:1,1-4" lang="tr" %}} ve bir Hititli'nin karısı olan {{% bible val="Batşeba" link="2sa:11,3" lang="tr" %}}.
 
-Bu, {{% bible val="Tanrı üstlendi" link="isa:44,24" lang="tr" %}} çünkü toplum çoğu zaman bunu yapmakta başarısız oldu, bu da {{% bible val=" Hıristiyan inancında önemli bir konudur" link="eph:1,7" lang="tr" %}}.
+Kutsal Kitap ayrıca kurtarıcının rolüne de ağırlık verir — {{% bible val="başı dertte olan bir akrabayı kurtarması gereken en yakın akraba" link="lev:25,47-49" lang="tr" %}}. Bu kişi, en yakın akrabalarından biri ciddi bir zorlukla karşılaştığında devreye girmekle yükümlüydü: {{% bible val="esaretten kurtarmak" link="gen:14" lang="tr" %}}, birini köleliğinden kurtarmak için ödeme yapmak, satılmış {{% bible val="bir mülkü geri satın almak" link="lev:25,25-26" lang="tr" %}} ya da beladan {{% bible val="kurtarmak için biriyle evlenmek" link="rut:4" lang="tr" %}} ve {{% bible val="dul bir kadın için soy sağlamak" link="gen:38,8" lang="tr" %}}.
 
-## Ataerkil
+Bu, Tanrı'nın kendi üzerine aldığı bir roldür: {{% bible val="Tanrı'nın kurtarıcı rolünü üstlenmesi" link="isa:44,24-28" lang="tr" %}}, tam olarak insan toplumunun bu rolü çoğu zaman doldurmakta başarısız olmasından dolayıdır — ve bu, {{% bible val="Hıristiyan imanının temel bir konusu" link="eph:1,7" lang="tr" %}} hâline gelir.
+
+## Aile reisi
 
 <a name="3a5d"></a>
-Aile şunlardan oluşur
+Aile birimi; aile reisinden (en yaşlı erkek üye) ve eşinden, oğullarından ve kızlarından, oğullarının eşlerinden ve çocuklarından oluşurdu. Böyle bir aile üç kuşağa yayılabilir ve birlikte yaşayıp çalışan otuz kişiye kadar ulaşabilirdi.
 
-- patrik (en yaşlı erkek üye) ve eşi
-- oğulları ve kızları
-- oğulların eşleri ve çocukları
+Aile reisinin görevi, ailenin maddi desteğini sağlamak, aile içinde hukuku, adaleti ve ahlakı uygulamak ve hastalık, savaş ya da kıtlık zamanlarında dezavantajlı üyelere bakmaktı. En uç durumlarda — kıtlık, ağır borç — aile reisi kimin hayatta kalacağına, kimin kölelik yoluna gideceğine ve kimin oradan geri satın alınacağına bile karar vermek zorunda kalırdı.
 
-Bir aile en fazla üç kuşak ve 30 kişiden oluşabilirdi. Bu aile birlikte çalışır ve yaşardı.
+Aile reisi öldüğünde ya da aile tek bir birim olarak işleyemeyecek kadar büyüdüğünde aile bölünür ve ortaya çıkan her ailedeki en yaşlı erkek yeni aile reisi olurdu. {{% bible val="Üç oğlu olan Terah: Haran, Avram ve Nahor. Haran öldüğünde geride bir oğul bırakır" link="gen:11,27-31" lang="tr" %}} ve {{% bible val="Avram onun bakımını üstlenir" link="gen:12,1-4" lang="tr" %}} — bu, sistemin amaçlandığı gibi işlediğini gösterir.
 
-Patriğin görevi şuydu
+O dönemde bir erkeğin birden fazla eşi olması yaygındı — genellikle ilk eş oğul doğurmadığında — ama Kutsal Kitap bu uygulamayı sürekli eleştirir, çünkü birden fazla eşe sahip olmak neredeyse her zaman sorun yaratırdı. Bu örüntü {{% bible val="belanın ta kendisi olan Lamek'ten" link="gen:4,23-26" lang="tr" %}} başlayıp, {{% bible val="İbrahim'in çocuk sahibi olmak için hizmetçisini kullandığı dramdan" link="gen:16" lang="tr" %}}, {{% bible val="Yakup'un eşleri arasındaki doğum yarışından" link="gen:30,1-24" lang="tr" %}} ve {{% bible val="Elkana'nın öyküsünden" link="1sa:1,1-7" lang="tr" %}} geçerek Davut'a ve onun farklı eşlerinden olan oğullarına, {{% bible val="Süleyman'a ve onun çöküşüne" link="1ki:11,3" lang="tr" %}} kadar uzanır. Yasa, bunun yol açtığı gerilimi bile düzenlemek zorunda kaldı; {{% bible val="bir erkeğin iki karısı olduğu durumlar için bir müdahale" link="deu:21,17" lang="tr" %}} öngördü.
 
-- ailenin finansal desteği
-- hak, hukuk ve ahlakı uygulamak
-- Aile içinde dezavantajlı olanlarla ilgilenmek (örneğin hasta, savaş, kıtlık). Olağanüstü durumlarda (kıtlık, borçlar, …) aile reisi kimin hayatta kalıp kimin kalmayacağına, kimin köleliğe gideceğine ve kimin satın alınacağına karar vermek zorundaydı.
-
-Aile reisi öldüğünde ya da aile çok büyüdüğünde, aile bölünür ve her ailedeki en yaşlı erkek aile reisi olur.
-
-Bunun nasıl iyi işlediğine dair bir örnek, {{% bible val="üç oğlu olan Terah’tır: Haran, Avram ve Nahor. Haran ölürken" link="gen:11,27-31" lang="tr" %}}, {{% bible val="Avram’ın bakımını üstlendiği bir oğul bırakır" link="gen:12,1-4" lang="tr" %}}.
-
-Bu dönemde birden fazla eşe sahip olmak yaygındı (örneğin birinin erkek çocuk vermemesi durumunda). Birden fazla eşe sahip olmak her zaman sorunlara yol açtığı için bu durum genel olarak eleştirilmiştir
-
-- {{% bible val="belanın ta kendisi olan Lamech ile başlayarak" link="gen:4,23-26" lang="tr" %}}
-- {{% bible val="Çocuk sahibi olmak için hizmetçisini kullanan İbrahim’in dramı" link="gen:16" lang="tr" %}}
-- {{% bible val="Jacobs’un eşlerinin doğum savaşı" link="gen:30,1-24" lang="tr" %}}
-- {{% bible val="Elkanah’ın hikayesi" link="1sa:1" lang="tr" %}}
-- Davut ve farklı eşlerden olan oğlu
-- {{% bible val="Salomon ve çöküşü" link="1ki:11,3" lang="tr" %}}
-- {{% bible val="Bir erkeğin iki karısı olduğunda müdahale" link="deu:21,17" lang="tr" %}}
-
-{{% bible val="Kadınların yasalara göre miras almalarına izin verilmiş" link="num:36" lang="tr" %}}, {{% bible val="bağımsız bir iş kurmaları, hatta aile reisi gibi davranmaları ve kocaları tarafından övülmeleri teşvik edilmiştir" link="pro:31,15-31" lang="tr" %}}.
+Bu arka plana karşı, {{% bible val="kadınların yasaya göre miras almasına izin verildiğini" link="num:36" lang="tr" %}} ve kadınların {{% bible val="bağımsız bir iş kurmaya, hatta aile reisi gibi davranıp kocaları tarafından övülmeye" link="pro:31,15-31" lang="tr" %}} teşvik edildiğini belirtmekte fayda var.
 
 ## Miras
 
 <a name="82a3"></a>
-İlk doğan oğul, {{% bible val="kardeşleri arasında lider bir role" link="gen:43,33" lang="tr" %}} sahiptir ve babasının potansiyel halefi olduğu için {{% bible val="çifte mirasa sahip" link="deu:21,17" lang="tr" %}} olur. Bu yüzden babası öldükten sonra tüm aileye bakmayı öğrenmesi gerekiyordu.
+İlk doğan oğul, {{% bible val="kardeşleri arasında öncü bir role" link="gen:43,33" lang="tr" %}} sahipti ve {{% bible val="çifte mirası alırdı" link="deu:21,17" lang="tr" %}}, çünkü babasının olası halefiydi ve babası öldükten sonra tüm aileye bakabilmesi için fiilen erken yaştan itibaren yetiştirilmesi gerekiyordu.
 
-Örnek olarak, {{% bible val="Yusuf kaybolduğunda" link="gen:37,21-30" lang="tr" %}} en {{% bible val="büyük oğul" link="exo:6,14" lang="tr" %}} olarak çok sıkıntı çeken ve {{% bible val="ailesi için oğluna söz veren Ruben verilebilir" link="gen:42,37" lang="tr" %}}.
+{{% bible val="En büyük oğul olarak Ruben" link="exo:6,14" lang="tr" %}} bu sorumluluğu eylemde gösterir: {{% bible val="Yusuf kaybolduğunda çok sıkıntı çekti" link="gen:37,21-30" lang="tr" %}} ve daha sonra kefil olarak {{% bible val="ailesi için oğlunu rehin gösterdi" link="gen:42,37" lang="tr" %}}.
 
-Ancak en büyük oğul bir ailenin iyi bir lideri olmayabilir ve bu nedenle Tanrı bu düzeni {{% bible val="Yakup" link="gen:25,25-26" lang="tr" %}}, {{% bible val="Manaşşe" link="gen:48,13-20" lang="tr" %}} ya da {{% bible val="Davut" link="1sa:16,1-13" lang="tr" %}} ile sık sık bozar.
+Ama en büyük oğul her zaman bir aile için en iyi lider olmuyordu ve Tanrı beklenen düzeni defalarca tersine çevirir — {{% bible val="Yakup" link="gen:25,25-26" lang="tr" %}}, {{% bible val="Manaşşe" link="gen:48,13-20" lang="tr" %}} ve {{% bible val="Davut" link="1sa:16,1-13" lang="tr" %}}, hepsi bir ağabeyin yerini alır.
 
-Bir kadın için çok zor bir durumdu.
+Bir kadın ise gerçekten güvencesiz bir konumla karşı karşıyaydı: önce babasının ailesine aitti, sonra eş olup kocasının ailesine katılırdı ve son olarak, kocasının ölümünden sonra oğullarından birinin ailesi içinde bakımı üstlenilirdi. Kutsal Kitap, {{% bible val="tüm bu ağlardan düşen bir kadını gösterir" link="rut:1,1-5" lang="tr" %}} — Rut'u — ve yine de {{% bible val="kurtarıcısı Boaz tarafından korunduğunu" link="rut:4" lang="tr" %}} anlatır. Tamar da böyle bir örnektir: {{% bible val="Yahuda kendisine bir koca vermediği için bir aile tarafından korunmaktan mahrum kalan ve bu yüzden doğru bulunan Tamar" link="deu:24,19-21" lang="tr" %}}.
 
-- babasının ailesi
-- eş olur ve kocasının ailesine katılır
-- kocası öldükten sonra oğulları tarafından ailelerinden birine katılması sağlanacaktır.
-
-{{% bible val="Kutsal Kitap, tüm bu ağlardan düşen" link="rut:1,1-5" lang="tr" %}} ve {{% bible val="kurtarıcısı Boas tarafından hala korunan bir kadını gösterir" link="rut:4" lang="tr" %}}.
-
-{{% bible val="Bir başka örnek de, Yahuda kendisine bir koca vermediği ve böylece bir aile tarafından korunduğu için doğru olarak yargılanan Tamar’dır." link="deu:24,19-21" lang="tr" %}}
-
-## Arazi
+## Toprak
 
 <a name="ba14"></a>
-Toprak, ailenin geçimini sağladığı yerdi ve bu toprak babadan oğula geçerdi.
-
-Eğer aile toprağı satmak zorunda kalırsa, toprak mahvolurdu, bu {{% bible val="yüzden Kutsal Kitap toprağın geri verilmesini sağlar" link="lev:25,10" lang="tr" %}}.
+Toprak, bir ailenin geçimini sağladığı kaynaktı ve babadan oğula geçerdi. Onu kaybetmek yıkım demekti; bu yüzden Kutsal Kitap bir güvence içerir: {{% bible val="toprak, belirlenen zamanda geri verilir" link="lev:25,10" lang="tr" %}}, böylece hiçbir ailenin kaybı kalıcı olmaz.
 
 ## Tanrı ve aile
 
 <a name="7049"></a>
-Tanrı baba olarak, İsa ise diğerleriyle ilgilenen ilk doğan olarak resmedilir ve hep birlikte yaşayabilmemiz için {{% bible val="çok daireli bir ev" link="jhn:14,1-3" lang="tr" %}} verir.
+Bu bütün tablo, Kutsal Kitap'ın Tanrı'dan söz ederken kullandığı merceğe dönüşür: O bir baba olarak, İsa ise diğerlerine bakan ilk doğan oğul olarak resmedilir ve hepimiz birlikte yaşayabilelim diye {{% bible val="birçok konutu olan bir ev verir" link="jhn:14,1-3" lang="tr" %}}.

@@ -14,42 +14,36 @@ sources:
       ref: fee_rev
 ---
 
-Wie sieht eine tote Gemeinschaft aus? Wie wird sie wieder lebendig? Willst du mehr wissen? Dann lies den {{% bible val="Brief an Sardes" link="rev:3,1-6" lang="de" %}} an.
+Wie sieht eine tote Gemeinde aus, und wie haucht man ihr neues Leben ein? Der {{% bible val="Brief an Sardis" link="rev:3,1-6" lang="de" %}} beantwortet beide Fragen.
 
-## Der historische Hintergrund
+## Historischer Hintergrund
 
 <a name="9a3a"></a>
-Sardes hat mit Abstand die längste Geschichte. Die Stadt liegt klimatisch ideal am Rande einer Bergkette in einem fruchtbaren Tal.
+Sardis hatte die längste Geschichte aller sieben Städte und war dafür ideal gelegen - am Rand eines Gebirgszugs, in einem fruchtbaren Tal, mit einem günstigen Klima.
 
-Sie war nahezu uneinnehmbar, da sie 500 m über dem Tal lag, keine Verbindung zu den umliegenden Bergen hatte und von Felsen umgeben war. Aus diesem Grund überschätzte sich die Stadt oft selbst und wurde beispielsweise zweimal von feindlichen Armeen an Stellen eingenommen, die uneinnehmbar schienen.
+Die Stadt hatte schon immer Gewicht. Als sie 17 v. Chr. durch ein gewaltiges Erdbeben zerstört wurde, wurde sie unter kaiserlicher Förderung wieder aufgebaut, und neun Jahre später bat die dankbare Stadt darum, einen Tempel zu Ehren des Kaisers errichten zu dürfen.
 
-Die Stadt galt als sehr wichtig. Als sie z.B. im Jahre 17 v. Chr. durch ein Erdbeben zerstört wurde, wurde sie unter Kaiser Tiberius wieder aufgebaut und bereits nach 9 Jahren wurde ein Tempel für den Kaiser errichtet.
+Sardis war zudem eine natürliche Festung, 500 Meter über dem Meeresspiegel gelegen, von Klippen umringt, aber ohne Verbindung zu den umliegenden Bergen. Diese Lage erzeugte Selbstüberschätzung: Die Stadt hielt sich für uneinnehmbar, doch Feinde eroberten sie zweimal, beide Male, indem sie sich genau an den Stellen einschlichen, die als unerreichbar galten.
 
 ## Jesu Sicht
 
 <a name="4d09"></a>
-Jesus spricht zur {{% bible val="Gemeinde in der Fülle des Heiligen Geistes und erinnert sie daran, dass sie das Licht der Welt sein sollen" link="rev:3,1" lang="de" %}}.
+Jesus {{% bible val="begegnet dieser Gemeinde in der vollen Kraft des Geistes und erinnert sie an ihre Berufung, Licht für die Welt zu sein" link="rev:3,1" lang="de" %}}.
 
-Es gibt sehr wenig Lob: nur für einige wenige, die ohne Schuld sind.
-
-Aber es gibt umso mehr Tadel: Die Gemeinde ist tot, ihre Werke sind unzulänglich und sie müssen schnell handeln. Aber wo liegt das Problem?
+Es gibt hier wenig Lob - nur eine Handvoll Gläubige in der Gemeinde werden als tadellos bezeichnet - und stattdessen viel Tadel: Die Gemeinde ist tot, ihre Werke sind unvollständig, und sie muss schnell handeln, wenn sie noch einen echten Zweck zurückgewinnen will. Was ist also schiefgelaufen?
 
 ## Das Problem
 
 <a name="c0b1"></a>
-Das Hauptproblem ist die mangelnde Selbstwahrnehmung. Die Selbstüberschätzung der Stadt hat auf sie abgefärbt.
+Das Grundproblem ist ein falsches Gefühl der eigenen Bedeutung. Die Selbstüberschätzung der Stadt bezüglich ihrer uneinnehmbaren Lage ist auf die Gemeinde abgefärbt, die inzwischen glaubt, ohne die Kraft des Heiligen Geistes auskommen zu können.
 
-Sie dachten, sie könnten als Gemeinde ohne die Hilfe des Heiligen Geistes wirksam sein.
+Die Beschreibung der Gemeinde {{% bible val="als tot, die aufwachen muss, bevor auch der Rest stirbt" link="rev:3,1-2" lang="de" %}}, erinnert an die {{% bible val="Vision vom Tal der toten Gebeine bei Hesekiel, wo der Geist kommt und neues Leben in das Tote haucht" link="ezk:37" lang="de" %}}. Ebenso erinnert der Vorwurf, Jesus habe "{{% bible val="ihre Werke vor Gott nicht als vollständig befunden" link="rev:3,2" lang="de" %}}", an die Erinnerung, dass "{{% bible val="jede gute und vollkommene Gabe von Gott kommt, dem Vater des Lichts" link="jas:1,17" lang="de" %}}" - mit anderen Worten: Kein Werk ist wirklich vollständig, wenn nicht Gott selbst es durch sie tut.
 
-Der Hinweis “{{% bible val="wache auf und stärke, was am Sterben ist" link="rev:3,1-2" lang="de" %}}” hat einen starken Bezug zum {{% bible val="Tal der toten Gebeine, über das der Heilige Geist kommt und neues Leben schenkt" link="ezk:37" lang="de" %}}.
-
-Auch der Hinweis “{{% bible val="habe deine Werke nicht für vollkommen befunden vor Gott" link="rev:3,2" lang="de" %}}” erinnert daran, dass “{{% bible val="alle vollkommenen Werke von Gott kommen, dem Vater des Lichts" link="jas:1,17" lang="de" %}}”.
-
-Sie müssen schnell handeln oder Gott wird sie überraschend treffen, denn ein Leben ohne den Heiligen Geist ist auf Dauer nicht möglich.
+Ein Leben ohne den Heiligen Geist ist einfach nicht tragfähig. Sardis muss schnell handeln, sonst wird die Rückkehr des Herrn die Gemeinde völlig überraschen.
 
 ## Die Verheißung
 
 <a name="1e06"></a>
-Die weißen Gewänder sind ein Zeichen des Freispruchs vor Gericht.
+Weiße Gewänder stehen hier für einen Freispruch vor Gericht. Die Verheißung, dass ihre Namen nicht aus dem Buch des Lebens gestrichen werden, bedeutet, dass sie ihr Bürgerrecht im Himmel nicht verlieren werden - doch diese Verheißung gilt nur denen, die Buße tun.
 
-Dass ihr Name nicht aus dem Buch des Lebens gestrichen wird, bedeutet, dass sie ihr Bürgerrecht im Himmel nicht verlieren. Aber nur, wenn sie Buße tun. Das ist ein Weckruf! Die Absicht ist, die Gemeinde aufzurütteln und zu erschüttern.
+Dieser Brief ist am Ende ein Weckruf, der eine sterbende Gemeinde aufrütteln und zum Handeln bewegen soll.

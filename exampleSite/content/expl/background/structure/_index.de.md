@@ -4,5 +4,4 @@ title: Der Aufbau des Buches
 weight: 4
 ---
 
-Das Buch sieht sehr chaotisch aus und eilt von einer Katastrophe zur nächsten. Doch das Gegenteil ist der Fall. Das Buch ist sehr gut organisiert und absichtlich geordnet.
-Wir werden in diesen Artikeln einen besseren Blick darauf werfen.
+Das Buch wirkt auf den ersten Blick chaotisch und stürzt von einer Katastrophe direkt in die nächste. Doch das Gegenteil ist der Fall: Es ist sehr gut organisiert und bewusst gestaltet. Die folgenden Artikel werfen einen genaueren Blick darauf, wie.

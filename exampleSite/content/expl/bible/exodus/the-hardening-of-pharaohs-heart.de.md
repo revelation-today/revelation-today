@@ -8,19 +8,16 @@ next: /expl/bible/exodus/the-plagues-in-egypt
 docType: expl
 ---
 
-Ist es denn gerecht, dass Gott das Herz des Pharao verhärtet? Er hatte ja keine andere Wahl, als böse zu sein, und dafür wird er bestraft.
+Ist es fair von Gott, das Herz des Pharao zu verhärten, sodass der Pharao keine andere Wahl hat, als grausam zu handeln — und dafür dann trotzdem bestraft wird?
 
-Gott sagt, {{% bible val="er wollte das Herz des Pharaoh verhärten" link="exo:4,21" lang="de" %}}, damit er das Volk Gottes nicht ziehen läßt.
+Gott sagt unmissverständlich, dass {{% bible val="er das Herz des Pharao verhärten wird" link="exo:4,21" lang="de" %}}, damit der Pharao das Volk nicht ziehen lässt. Doch der hebräische Text ist vielschichtiger, als diese eine deutsche Formulierung vermuten lässt. Im Verlauf der Erzählung werden drei verschiedene hebräische Wörter verwendet, um diese Verhärtung zu beschreiben:
 
-Zum besseren Verständnis hier ein paar Worte zum Hintergrund. Im Hebräischen gibt es drei verschiedene Wörter, die mit “verhärten” übersetzt werden:
+- [chazaq](https://biblehub.com/hebrew/2388.htm), was verhärten oder stärken bedeutet
+- [qashah](https://biblehub.com/hebrew/7185.htm), was hart, streng oder heftig bedeutet
+- [kabad](https://biblehub.com/hebrew/3513.htm), was schwer, gewichtig oder lastend bedeutet
 
-- [chazad](https://biblehub.com/hebrew/2388.htm) mit der Bedeutung stark werden, stärken,
-- [qashah](https://biblehub.com/hebrew/7185.htm) mit der Bedeutung hart, schwer oder heftig,
-- [kabad](https://biblehub.com/hebrew/3513.htm) mit der Bedeutung schwerwiegend oder Last.
+Folgt man den Links, zeigt sich, dass jedes Wort ein breites Spektrum möglicher Übersetzungen abdeckt. Alle drei Verben werden für Gottes Verhärtung des Herzens des Pharao verwendet, aber ebenso häufig auch dafür, dass der Pharao sein eigenes Herz verhärtet.
 
-Wenn man sich die Bibelstellen in diesen Links anschaut (leider nur auf Englisch), sieht man eine große Variabilität dieser Worte. In dieser Geschichte werden alle drei Worte verwendet, aber an vielen Stellen ist es der Pharao, der sein Herz verhärtet.
+Genau diese Überschneidung ist der Schlüssel zu dieser Passage. Geht man die Beispiele durch, zeigt sich folgendes Muster: Gott verhärtete das Herz des Pharao nicht, um ihn gegen seinen Willen zum Bösen zu zwingen, sondern damit der Pharao nicht in dem Moment einfach aufgab, in dem er Gott am Werk sah — damit er die Kraft hatte, weiter Widerstand zu leisten, was er, wie sich zeigt, immer wieder aus eigenem Antrieb tat.
 
-Nimm dir Zeit, diesen Abschnitt zu lesen. Die Grundidee ist folgende: Gott macht das Herz des Pharao stark, so dass er nicht “einknickt”, wenn er Gottes überwältigendes Handeln sieht, sondern die Kraft hat, Gott etwas entgegenzusetzen, wovon er oft Gebrauch macht.
-
-Dass der Pharao eine sehr aktiven Rolle spielt, sieht man bei der ersten wirklich vernichtenden Plage des Hagel, wo er zugibt, dass {{% bible val="er gesündigt hat" link="exo:9,27" lang="de" %}}, aber {{% bible val="als der Hagel aufhört, sündigt er wieder und verhärtet sein Herz" link="exo:9,34" lang="de" %}}.
-
+Am deutlichsten wird die eigene Verantwortung des Pharao während der verheerenden Hagelplage, wo er zunächst {{% bible val="zugab, gesündigt zu haben" link="exo:9,27" lang="de" %}} — und dann, sobald der Hagel aufhörte, {{% bible val="erneut sündigte und sein eigenes Herz verhärtete" link="exo:9,34" lang="de" %}}.

@@ -11,116 +11,118 @@ sources:
       ref: rossing
 ---
 
-Pengangkatan (rapture) adalah sebuah topik yang memikat, yang membangkitkan imajinasi sebagian orang dan membuat sebagian lainnya ketakutan dan ngeri (pengangkatan telah terjadi dan saya tertinggal). Tetapi apakah pengangkatan itu? Apakah hal itu alkitabiah? Dan apa artinya bagi orang-orang percaya?
+Pengangkatan (rapture) adalah sebuah topik yang memikat. Topik ini telah membangkitkan imajinasi banyak orang dan membuat lebih banyak lagi ketakutan. Tetapi apa sebenarnya pengangkatan itu? Apakah hal itu alkitabiah? Dan apa artinya bagi orang-orang percaya jika hal itu benar?
 
 ## Pengantar
 
 <a name="ae33"></a>
-Pengangkatan adalah keyakinan bahwa akan datang sebuah {{% int_link val="Kesengsaraan Besar" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}, di mana semua orang percaya terlebih dahulu diangkat ke surga dan menyaksikan penghakiman itu dari kejauhan. Ini terdengar agak aneh, sebab ini akan menjadi sebuah konsep baru, dan {{% bible val="Yesus mengatakan sesuatu yang sama sekali berbeda" link="mat:13,36-42" lang="ind" %}}. Dan hal ini tidak alkitabiah. Jadi jangan takut jika Anda berpikir bahwa pengangkatan sudah terjadi dan Anda tertinggal.
+Pengangkatan adalah keyakinan bahwa sebelum apa yang disebut {{% int_link val="Kesengsaraan Besar" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}} tiba, semua orang percaya akan diambil dan dibawa ke surga, menyaksikan penghakiman itu berlangsung dari tempat yang aman. Ini seharusnya sudah terdengar agak janggal, sebab itu berarti memperkenalkan sebuah konsep yang sama sekali baru, yang {{% bible val="Yesus sendiri memberikan kesan yang berbeda tentangnya" link="mat:13,36-42" lang="ind" %}}. Dan memang, setelah diteliti lebih dekat, gagasan ini sama sekali tidak alkitabiah — jadi jika Anda khawatir pengangkatan sudah terjadi dan Anda tertinggal, Anda dapat menyingkirkan ketakutan itu.
 
-Sebagian orang menganggap pengangkatan sebagai salah satu pernyataan terpenting dalam Alkitab dan mendukungnya dengan beberapa ayat Alkitab yang memberi kesan bahwa ada dasar alkitabiah yang kuat untuk hal ini.
+Sebagian orang menjadikan pengangkatan seolah-olah itu adalah pernyataan Alkitab yang jelas dan eksplisit, dan menunjuk pada ayat-ayat Alkitab tertentu yang tampaknya mendukungnya.
 
-Mari kita lihat ayat-ayat ini lebih dekat. Ini bukan hanya menunjukkan di mana argumentasinya keliru, tetapi juga membantu menghindari kesalahan-kesalahan serupa.
+Artikel ini menelusuri ayat-ayat tersebut satu per satu. Dengan begitu, kita tidak hanya menunjukkan di mana argumen pengangkatan itu keliru — tetapi juga memberi contoh cara membaca Alkitab dengan lebih cermat, yang berguna jauh melampaui topik ini saja.
 
 ## Bagian yang Tampak Jelas
 
 <a name="80db"></a>
-"{{% bible val="Tetapi kami tidak mau, saudara-saudara, bahwa kamu tidak mengetahui tentang mereka yang telah meninggal, supaya kamu jangan berdukacita seperti orang-orang lain yang tidak mempunyai pengharapan. Karena jikalau kita percaya, bahwa Yesus telah mati dan telah bangkit, maka kita percaya juga bahwa mereka yang telah meninggal dalam Yesus akan dikumpulkan Allah bersama-sama dengan Dia. Ini kami katakan kepadamu dengan firman Tuhan: kita yang hidup, yang masih tinggal sampai kedatangan Tuhan, sekali-kali tidak akan mendahului mereka yang telah meninggal. Sebab pada waktu tanda diberi, yaitu pada waktu penghulu malaikat berseru dan sangkakala Allah berbunyi, maka Tuhan sendiri akan turun dari sorga dan mereka yang mati dalam Kristus akan lebih dahulu bangkit; sesudah itu, kita yang hidup, yang masih tinggal, akan diangkat bersama-sama dengan mereka dalam awan menyongsong Tuhan di angkasa. Demikianlah kita akan selama-lamanya bersama-sama dengan Tuhan." link="1th:4,13-17" lang="ind" %}}"
+{{% bible val="Saudara-saudara, kami tidak mau kamu tidak mengetahui tentang mereka yang telah meninggal, supaya kamu jangan berdukacita seperti orang-orang lain yang tidak mempunyai pengharapan. Sebab jikalau kita percaya bahwa Yesus telah mati dan telah bangkit, maka kita percaya juga bahwa Allah, oleh Yesus, akan mengumpulkan bersama-sama dengan Dia mereka yang telah meninggal. Ini kami katakan kepadamu dengan firman Tuhan: kita yang hidup, yang masih tinggal sampai kedatangan Tuhan, sekali-kali tidak akan mendahului mereka yang telah meninggal. Sebab Tuhan sendiri akan turun dari sorga dengan seruan perintah, dengan suara penghulu malaikat, dan dengan sangkakala Allah, dan mereka yang mati dalam Kristus akan lebih dahulu bangkit. Sesudah itu, kita yang hidup, yang masih tinggal, akan diangkat bersama-sama dengan mereka dalam awan menyongsong Tuhan di angkasa. Demikianlah kita akan selama-lamanya bersama-sama dengan Tuhan. Karena itu, hiburkanlah seorang akan yang lain dengan perkataan-perkataan ini." link="1th:4,13-18" lang="ind" %}}
 
-Inilah bagian yang paling terkenal yang "membuktikan" pengangkatan, tetapi mari kita lihat lebih dekat. Dalam bagian ini, kami menandai dengan tebal apa yang tampak seperti argumen untuk pengangkatan, dan dengan miring apa yang terlewatkan dalam argumentasi tersebut.
+Inilah bagian yang paling terkenal yang dikutip sebagai "bukti" pengangkatan, sehingga layak untuk diamati lebih dekat. Jika dibaca dengan cermat, ternyata bagian ini memuat baik sesuatu yang terdengar seperti argumen untuk pengangkatan maupun, tepat di sampingnya, rincian-rincian yang justru terlewatkan oleh argumen itu.
 
 ### Konteks yang Lebih Luas
 
 <a name="feca"></a>
-Bagian ini berbicara tentang tema kebangkitan. Inilah tema utamanya, sementara "diangkat" hanya disebutkan sekilas dalam satu pernyataan. Orang-orang di jemaat itu bertanya-tanya apa yang akan terjadi pada saat kedatangan kembali Yesus dengan orang-orang yang sudah meninggal. Akankah mereka tersisih? Bagian ini mengatakan bahwa kita semua akan bersama-sama ketika Yesus datang. Pertama-tama datang kebangkitan orang mati, kemudian barulah kita bersama-sama dengan Yesus.
+Mulailah dengan apa yang sebenarnya menjadi pokok bahasan bagian ini: kebangkitan, bukan pengangkatan. "Diangkat" hanya muncul dalam satu klausa saja dari keseluruhan bagian ini. Kekhawatiran yang mendorong perkataan Paulus adalah bahwa orang-orang percaya di jemaat itu cemas bahwa mereka yang telah meninggal akan entah bagaimana kehilangan kesempatan ketika Yesus datang kembali. Jawabannya adalah bahwa ketika Yesus datang, semua orang akan bersama-sama dengan Kristus — orang mati dibangkitkan lebih dahulu, kemudian orang yang masih hidup bergabung dengan mereka. Inti dari bagian ini adalah pertemuan kembali, bukan pengungsian.
 
 ### Memaksakan Sebuah Tafsiran pada Teks
 
 <a name="0bb2"></a>
-Setiap kita memiliki sebuah teologi, dan ketika kita membaca Alkitab, kita menerapkan pandangan itu pada teks dan membacanya melalui kacamata tafsiran kita. Teks ini menyatakan bahwa Yesus menyambut orang-orang percaya di udara, tetapi tidak mengatakan bahwa Ia kemudian membawa mereka ke surga. Jika kita menyertakan argumen pertama (tentang kebangkitan orang mati), {{% bible val="maka kita sampai pada Penghakiman Terakhir" link="rev:20,13" lang="ind" %}}, di mana digambarkan bahwa {{% bible val="Yerusalem Baru turun ke bumi" link="rev:21,2" lang="ind" %}}, artinya Yesus tidak datang untuk membawa orang-orang percaya ke surga, melainkan tujuan-Nya adalah bumi.
+Setiap orang membaca Alkitab dengan sebuah teologi yang sudah lebih dahulu ada di tangannya, dan kacamata itulah yang membentuk apa yang kita perhatikan. Di sini, teks mengatakan bahwa orang-orang yang masih hidup akan menyongsong Yesus di angkasa — tetapi tidak pernah dikatakan bahwa Ia kemudian berbalik dan membawa mereka naik ke surga. Gabungkan hal ini dengan poin di atas (semua ini terjadi bersamaan dengan kebangkitan orang mati), maka waktunya justru sejalan dengan {{% bible val="Penghakiman Terakhir" link="rev:20,13" lang="ind" %}}, yang dalam Kitab Wahyu ditempatkan tepat sebelum {{% bible val="Yerusalem Baru turun ke bumi" link="rev:21,2" lang="ind" %}}. Tujuan Yesus dalam adegan itu adalah bumi, bukan surga — Ia tidak datang untuk menjemput siapa pun dan membawanya pergi.
 
 ### Kata Kunci yang Terlewatkan
 
 <a name="0f61"></a>
-Ketika sebuah kata kunci muncul, kata itu harus diselidiki lebih dekat. Apa arti "diangkat" (tidak ada terjemahan yang netral, penerjemah selalu membawa sudut pandangnya sendiri)? Ada [beberapa alat bantu yang dapat digunakan oleh orang awam yang bukan teolog dengan sedikit pengetahuan bahasa Inggris](https://biblehub.com/interlinear/1_thessalonians/4-17.htm).
+Setiap kali sebuah kata kunci menarik perhatian seperti ini, kata itu layak diselidiki secara langsung. Jadi, apa sebenarnya arti "diangkat"? Perlu diingat bahwa tidak ada terjemahan yang benar-benar netral di sini — orang yang menerjemahkannya adalah seorang penafsir, bukan sekadar penerjemah — tetapi ada alat bantu yang memungkinkan setiap pembaca memeriksa sendiri hasil kerja itu, seperti [interlinear ini](https://biblehub.com/interlinear/1_thessalonians/4-17.htm).
 
-Dan di sana kita menemukan kata "[harpazo](https://biblehub.com/greek/harpage_sometha_726.htm)", yang [arti dasarnya adalah "merenggut"](https://biblehub.com/greek/strongs_726.htm) dan dalam Alkitab dapat memiliki berbagai makna
+Setelah ditelusuri, kata dasarnya adalah "[harpazo](https://biblehub.com/greek/726.htm)," yang pada akarnya berarti "merenggut." Kata ini muncul di seluruh Perjanjian Baru dengan beberapa makna yang berbeda:
 
-- {{% bible val="merebut Kerajaan Surga dengan paksa" link="mat:11,12" lang="ind" %}}
-- {{% bible val="pencuri merampas harta" link="mat:12,29" lang="ind" %}}
-- {{% bible val="Iblis mencuri benih yang ditaburkan dalam hati" link="mat:13,19" lang="ind" %}}
-- {{% bible val="orang-orang hendak menjadikan Yesus raja dengan paksa" link="jhn:6,15" lang="ind" %}}
-- {{% bible val="serigala menerkam kawanan domba" link="jhn:10,12" lang="ind" %}}
-- {{% bible val="tidak seorang pun dapat merenggut kita dari tangan Yesus" link="jhn:10,28" lang="ind" %}}
-- {{% bible val="tidak seorang pun dapat merenggut kita dari tangan Allah" link="jhn:10,29" lang="ind" %}}
-- {{% bible val="Filipus diangkat oleh Roh" link="act:8,39" lang="ind" %}}
-- {{% bible val="Paulus direnggut dari amukan massa dan dibawa ke tempat aman" link="act:23,10" lang="ind" %}}
-- {{% bible val="seseorang diangkat dalam roh ke tingkat surga yang ketiga" link="2co:12,2" lang="ind" %}}
-- {{% bible val="seseorang diangkat dalam roh ke firdaus" link="2co:12,4" lang="ind" %}}
-- {{% bible val="orang-orang percaya dibawa bersama orang-orang yang telah meninggal ke awan-awan" link="1th:4,17" lang="ind" %}}
-- {{% bible val="orang-orang percaya diselamatkan dari api" link="jud:23" lang="ind" %}}
-- {{% bible val="anak itu diselamatkan dari naga itu" link="rev:12,5" lang="ind" %}}
+- {{% bible val="merenggut Kerajaan Surga dengan paksa" link="mat:11,12" lang="ind" %}},
+- {{% bible val="seorang pencuri merampas harta" link="mat:12,29" lang="ind" %}},
+- {{% bible val="Iblis mencuri benih yang ditaburkan dalam hati" link="mat:13,19" lang="ind" %}},
+- {{% bible val="orang-orang hendak menjadikan Yesus raja dengan paksa" link="jhn:6,15" lang="ind" %}},
+- {{% bible val="seekor serigala menerkam kawanan domba" link="jhn:10,12" lang="ind" %}},
+- {{% bible val="tidak seorang pun dapat merenggut kita dari tangan Yesus" link="jhn:10,28" lang="ind" %}},
+- {{% bible val="tidak seorang pun dapat merenggut kita dari tangan Allah" link="jhn:10,29" lang="ind" %}},
+- {{% bible val="Filipus diangkat oleh Roh" link="act:8,39" lang="ind" %}},
+- {{% bible val="Paulus direnggut dari amukan massa dan dibawa ke tempat yang aman" link="act:23,10" lang="ind" %}},
+- {{% bible val="seseorang diangkat dalam roh ke tingkat surga yang ketiga" link="2co:12,2" lang="ind" %}},
+- {{% bible val="seseorang diangkat dalam roh ke firdaus" link="2co:12,4" lang="ind" %}},
+- {{% bible val="orang-orang percaya diangkat ke awan-awan bersama orang-orang yang telah meninggal" link="1th:4,17" lang="ind" %}},
+- {{% bible val="orang-orang percaya diselamatkan dari api" link="jud:23" lang="ind" %}},
+- {{% bible val="sang anak diselamatkan dari naga itu" link="rev:12,5" lang="ind" %}}.
 
-Meskipun maknanya sangat beragam, ada satu kesamaan: ini adalah sebuah tindakan yang tidak disengaja oleh objeknya (diselamatkan, direnggut dari tangan, dicuri, dalam keadaan terangkat, ...) dan tidak merujuk pada sebuah pemindahan fisik ke surga.
+Maknanya sangat beragam, tetapi semuanya memiliki satu kesamaan: dalam setiap kasus, objek dari kata kerja itu mengalami sesuatu yang tidak disengaja olehnya sendiri — ia diselamatkan, direnggut dari sebuah tangan, dicuri, atau dibawa pergi — dan tidak satu pun dari makna-makna ini menggambarkan sebuah kenaikan fisik ke surga.
 
-Isi dari tindakan itu justru ditemukan dalam kata "[apantesis](https://biblehub.com/greek/529.htm)", yang dalam Perjanjian Baru hanya muncul di dua tempat lain: {{% bible val="pada kedatangan sang mempelai laki-laki" link="mat:25,6" lang="ind" %}} dan {{% bible val="ketika Paulus disambut di Roma" link="act:28,15" lang="ind" %}}. Dalam kedua kasus itu, orang-orang keluar untuk menyambut orang itu dan mengikutinya di jalan yang telah ia lalui. [Makna kata ini juga menunjukkan](https://biblehub.com/greek/529.htm) bahwa kata ini umumnya digunakan ketika seorang tokoh penting datang ke sebuah kota, orang-orang menemuinya di luar kota dan mengantarnya MASUK ke dalam kota. Dan Yesus sedang dalam perjalanan menuju bumi, bukan menuju surga.
+Namun, kata yang sebenarnya menggambarkan *tindakan* menyongsong Yesus dalam ayat 17 adalah kata yang berbeda: [apantesis](https://biblehub.com/greek/529.htm), yang hanya muncul di dua tempat lain dalam Perjanjian Baru — {{% bible val="pada kedatangan sang mempelai laki-laki" link="mat:25,6" lang="ind" %}} dan {{% bible val="penyambutan yang diberikan kepada Paulus di Roma" link="act:28,15" lang="ind" %}}. Dalam kedua kasus itu, orang-orang keluar untuk menyambut sosok yang datang, lalu berbalik dan mengiringinya kembali menempuh jalan yang telah ia lalui. [Penggunaan kata ini](https://biblehub.com/greek/529.htm) mencerminkan kebiasaan menyambut seorang tamu penting di luar kota lalu mengantarnya masuk. Diterapkan di sini, arah perjalanan Yesus jelas menuju ke bawah, ke arah bumi, bukan kembali naik ke surga.
 
 ### Ayat-Ayat Pendukung
 
 <a name="1d1e"></a>
-Gambaran atau perbandingan ini tidak disebutkan di tempat lain mana pun dalam Alkitab. Ayat-ayat Alkitab lain yang konon menunjukkan pengangkatan menggunakan gambaran yang sama sekali berbeda. Karena itu, berhati-hatilah dengan sebuah teologi yang diturunkan dari satu ayat Alkitab yang tidak diulangi lagi, terutama jika pernyataannya singkat dan tema ayat itu sesungguhnya sama sekali berbeda.
+Gambaran khusus ini tidak pernah digunakan lagi di tempat lain mana pun dalam Alkitab. Ayat-ayat lain yang biasanya dikutip untuk mendukung pengangkatan justru bertumpu pada gambaran-gambaran yang sama sekali berbeda, sehingga kehati-hatian diperlukan setiap kali sebuah teologi dibangun di atas sebuah ayat yang tidak dikuatkan di tempat lain — terlebih lagi ketika pernyataannya singkat dan pokok bahasan utamanya sesungguhnya adalah hal yang lain sama sekali.
 
-Jadi kita telah melihat bahwa bagian ini justru menunjukkan KEBALIKAN dari pengangkatan: Yesuslah yang turun bersama kerajaan-Nya.
+Jadi, bertentangan dengan penggunaan populernya, bagian ini justru menunjukkan kebalikan dari pengangkatan: Yesus turun ke bumi bersama kerajaan-Nya, bukan orang-orang percaya naik untuk menyongsong-Nya di surga.
 
 ## Mereka yang Ditinggalkan
 
 <a name="e8c4"></a>
-"{{% bible val="Sebab sebagaimana halnya pada zaman Nuh, demikian pula halnya kelak pada kedatangan Anak Manusia. Sebab sebagaimana mereka pada zaman sebelum air bah itu makan dan minum, kawin dan mengawinkan, sampai kepada hari Nuh masuk ke dalam bahtera, dan mereka tidak tahu akan sesuatu, sebelum air bah itu datang dan melenyapkan mereka semua, demikian pulalah halnya kelak pada kedatangan Anak Manusia. Pada waktu itu kalau ada dua orang di ladang, yang seorang akan dibawa dan yang seorang akan ditinggalkan; dan kalau ada dua orang perempuan sedang memutar batu kilangan, yang seorang akan dibawa dan yang seorang akan ditinggalkan. Karena itu berjaga-jagalah, sebab kamu tidak tahu pada hari mana Tuhanmu datang." link="mat:24,37-42" lang="ind" %}}"
+{{% bible val="Sebab sebagaimana halnya pada zaman Nuh, demikian pula halnya kelak pada kedatangan Anak Manusia. Sebab sebagaimana mereka pada zaman sebelum air bah itu makan dan minum, kawin dan mengawinkan, sampai kepada hari Nuh masuk ke dalam bahtera, dan mereka tidak tahu akan sesuatu, sebelum air bah itu datang dan melenyapkan mereka semua, demikian pulalah halnya kelak pada kedatangan Anak Manusia. Pada waktu itu kalau ada dua orang di ladang, yang seorang akan dibawa dan yang seorang akan ditinggalkan; dan kalau ada dua orang perempuan sedang memutar batu kilangan, yang seorang akan dibawa dan yang seorang akan ditinggalkan. Karena itu berjaga-jagalah, sebab kamu tidak tahu pada hari mana Tuhanmu datang." link="mat:24,37-42" lang="ind" %}}
 
-Bagian ini juga digunakan untuk mengargumentasikan pengangkatan. Yang satu diangkat, yang lain tertinggal.
+Sekali lagi, bagian ini dibaca sebagai argumen untuk pengangkatan: satu orang diangkat, yang lain ditinggalkan.
 
 ### Asumsi-Asumsi
 
 <a name="7b1d"></a>
-Dengan kacamata tafsiran pengangkatan, "dibawa" berarti berlaku bagi orang-orang baik dan "ditinggalkan" bagi orang-orang jahat, tetapi ini tidak benar, sebab kata itu tidak mengatakan demikian, misalnya kata ini digunakan ketika {{% bible val="Iblis meninggalkan Yesus" link="mat:4,11" lang="ind" %}}. Tetapi di sini kedatangan Anak Manusia dibandingkan dengan air bah pada zaman Nuh. Namun "dibawa" dalam konteks air bah berarti "menuju penghakiman". Jika kedatangan air bah dibandingkan dengan kedatangan Anak Manusia, itu justru berarti bahwa orang-orang jahatlah yang "dibawa" dan orang-orang baiklah yang "ditinggalkan". Dan juga tidak dikatakan ke mana mereka "dibawa". Bisa jadi ini merujuk pada polisi rahasia Kekaisaran Romawi, yang "membawa pergi" orang-orang percaya karena iman mereka.
+Melalui kacamata tafsiran pengangkatan, dibawa pergi tampak seperti hasil yang baik dan ditinggalkan tampak seperti hasil yang buruk. Tetapi bahasa di sekitarnya sebenarnya tidak mendukung pembacaan itu — {{% bible val="Iblis, misalnya, adalah pihak yang meninggalkan Yesus setelah pencobaan" link="mat:4,11" lang="ind" %}}, yang jelas bukan tanda kebaikan. Di sini, Yesus membandingkan kedatangan-Nya dengan air bah pada zaman Nuh, dan dalam kisah air bah itu, "dibawa pergi" berarti dibawa oleh penghakiman, dihanyutkan oleh air. Jika makna yang sama berlaku pada kedatangan Anak Manusia, maka "dibawa pergi" dalam konteks ini kemungkinan besar menandai orang-orang jahat, sementara mereka yang ditinggalkan justru adalah orang-orang yang selamat.
+
+Perhatikan juga bahwa teks ini tidak pernah menyebutkan ke mana orang-orang yang "dibawa" itu dibawa. Gambaran ini bisa jadi sama mudahnya merujuk pada polisi rahasia Kekaisaran Romawi yang menangkap orang-orang percaya karena iman mereka, seperti halnya merujuk pada apa pun yang berkaitan dengan surga.
 
 ### Konteksnya
 
 <a name="3b92"></a>
-Apa yang sesungguhnya menjadi topik kisah ini? Tujuan sesungguhnya sangat samar. Mungkin Matius sengaja berbicara secara ambigu. Intinya adalah bahwa kita harus siap sedia, sebagaimana {{% bible val="dikatakan ayat sebelumnya" link="mat:24,36" lang="ind" %}}, sebab pemisahan itu terjadi di tengah-tengah pekerjaan (tidak ada waktu untuk bersiap-siap).
+Jadi, apa sebenarnya yang menjadi pokok bahasan bagian ini? Nasib pasti dari mereka yang dibawa dan mereka yang ditinggalkan sengaja dibiarkan samar — Matius bahkan mungkin menggunakan ambiguitas itu dengan sengaja. Inti sesungguhnya adalah kesiapan: {{% bible val="sebagaimana dikatakan ayat tepat sebelum bagian ini" link="mat:24,36" lang="ind" %}}, saat itu bisa tiba di tengah-tengah kehidupan yang biasa, tanpa peringatan lebih dahulu untuk bersiap-siap.
 
 ## Perspektif Pohon Zaitun
 
 <a name="fb48"></a>
-Matius {{% bible val="24" link="mat:24" lang="ind" %}} dan {{% bible val="25" link="mat:25" lang="ind" %}} juga digunakan sebagai argumen untuk pengangkatan. Yesus ditanya apa yang akan terjadi pada akhir zaman. Sebagian orang menafsirkan hal ini sebagai berdirinya negara Israel pada tahun 1948 dan masa sesudahnya.
+Matius pasal {{% bible val="24" link="mat:24" lang="ind" %}} dan {{% bible val="25" link="mat:25" lang="ind" %}} juga sering dipakai sebagai argumen untuk pengangkatan. Dalam pasal-pasal ini, Yesus ditanya apa yang akan terjadi pada hari-hari terakhir, dan sebagian pembaca menafsirkan jawaban-Nya sebagai gambaran tentang masa yang dimulai dengan berdirinya negara Israel pada tahun 1948.
 
-Tema yang dibahas di sini adalah kehancuran bait Allah dengan segala akibat traumatis dari perang Yahudi tahun 66–73, dan ini adalah sebuah persiapan menghadapi penganiayaan dan kesulitan-kesulitan lain yang akan datang, agar tetap setia di dalamnya. Semua perumpamaan ini tidak merujuk pada sebuah waktu tertentu, melainkan merupakan dorongan yang terus-menerus dari Yesus. Pesan moral dari perumpamaan tentang kambing dan domba bukanlah tema akhir zaman, melainkan sudah menjadi kriteria penting dalam Perjanjian Lama untuk memenuhi perintah-perintah Allah.
+Namun tema-tema yang sebenarnya dibahas Yesus di sini adalah kehancuran bait Allah, dengan segala trauma dari perang Yahudi tahun 66–73, dan sebuah seruan untuk tetap setia melalui penganiayaan dan kesengsaraan yang masih akan datang. Tidak satu pun dari perumpamaan-perumpamaan ini mengaitkan dirinya pada sebuah tanggal masa depan yang spesifik; sebaliknya, semuanya menyerukan komitmen yang terus-menerus kepada Yesus. Begitu pula, etika domba dan kambing bukanlah sebuah tuntutan khusus akhir zaman — ia menggemakan sebuah standar yang berlaku di sepanjang Perjanjian Lama tentang bagaimana orang percaya memenuhi perintah-perintah Allah.
 
-Menafsirkan {{% bible val="perumpamaan tentang pohon ara" link="mat:24,32" lang="ind" %}} sebagai merujuk pada peristiwa tahun 1948 dan berdirinya Israel adalah sebuah tafsiran yang sangat jauh, yang tidak dikonfirmasi di tempat lain mana pun dalam Alkitab. Pohon ara juga tidak selalu berarti gambaran Israel, melainkan dalam {{% int_link val="Perjanjian Baru merupakan gambaran gereja" link="/expl/background/israel/the-church-is-part-of-israel" %}}.
+Menafsirkan {{% bible val="perumpamaan tentang pohon ara" link="mat:24,32" lang="ind" %}} sebagai acuan tersembunyi pada tahun 1948 dan berdirinya Israel adalah sebuah tafsiran yang sangat dipaksakan, dan tidak ada bagian lain mana pun dalam Alkitab yang mendukungnya. Gambaran itu tidak menunjuk pada negara Israel modern; gambaran itu menunjuk pada gereja, sebab dalam Perjanjian Baru gerejalah yang {{% int_link val="menerima banyak gambaran Perjanjian Lama yang dahulu diterapkan pada Israel" link="/expl/background/israel/the-church-is-part-of-israel" %}}.
 
 ## Sebuah Tempat bagi Kita
 
 <a name="6812"></a>
-"{{% bible val="Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku. Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu." link="jhn:14,1-2" lang="ind" %}}"
+"[Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku. Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu.](https://www.bibleserver.com/NIV/John14%3A1-2)"
 
-Apa hubungan ayat ini dengan pengangkatan? Nah, diasumsikan bahwa inilah tempat orang-orang percaya akan berada selama Kesengsaraan Besar.
+Bagaimana hubungan ayat ini dengan pengangkatan? Asumsinya adalah bahwa "tempat-tempat tinggal" ini adalah tempat orang-orang percaya akan menunggu selama kesengsaraan besar berlangsung.
 
-Mari kita lihat kata kuncinya: [mone](https://biblehub.com/greek/3438.htm). Kata ini muncul {{% bible val="hanya sekali lagi dalam pasal ini dan menggambarkan bagaimana Allah tinggal di dalam kita" link="jhn:14,23" lang="ind" %}}. Artinya, sebagaimana kita tinggal di dalam Kristus, demikian pula Yesus tinggal di dalam kita. Dalam konteks ini, kata "tempat tinggal" berarti lebih daripada sekadar "rumah" (menjadi bagian dari keluarga Allah).
+Tetapi perhatikan baik-baik kata yang diterjemahkan sebagai "tempat tinggal": [mone](https://biblehub.com/greek/3438.htm). Kata ini {{% bible val="hanya muncul satu kali lagi dalam Injil Yohanes — dalam pasal yang sama ini — di mana kata itu merujuk pada Allah yang tinggal di dalam kita" link="jhn:14,23" lang="ind" %}}. Kesejajaran itu memberikan gambaran yang berbeda: orang-orang percaya memiliki tempat tinggal di dalam Kristus, dan Kristus memiliki tempat tinggal di dalam orang-orang percaya. Dibaca dengan cara ini, "tempat" di sini berarti sesuatu yang lebih dekat dengan menjadi bagian dari sebuah keluarga daripada menempati sebuah ruangan harfiah — ini soal menjadi bagian dari keluarga Allah, bukan sebuah ruang tunggu untuk masa kesengsaraan besar.
 
-## Kapankah Pengangkatan Itu Terjadi?
+## Kapan Pengangkatan Itu Terjadi
 
 <a name="ab7c"></a>
-Waktu pengangkatan ditempatkan dalam Kitab Wahyu pada awal pasal 4:
+Jika ada satu momen dalam Kitab Wahyu yang berfungsi seperti sebuah "pengangkatan," momen itu ditempatkan pada awal pasal 4, bukan pada suatu titik yang masih akan datang.
 
-"{{% bible val="Kemudian dari pada itu aku melihat: Sesungguhnya, sebuah pintu terbuka di sorga dan suara yang dahulu kudengar seperti bunyi sangkakala, berkata kepadaku, katanya: Naiklah ke sini dan Aku akan menunjukkan kepadamu apa yang harus terjadi sesudah ini. Segera aku dikuasai oleh Roh dan lihatlah, sebuah takhta terdapat di sorga dan di takhta itu duduk Seorang." link="rev:4,1-2" lang="ind" %}}"
+"{{% bible val="Kemudian dari pada itu aku melihat: Sesungguhnya, sebuah pintu terbuka di sorga dan suara yang dahulu kudengar seperti bunyi sangkakala, berkata kepadaku, katanya: Naiklah ke sini dan Aku akan menunjukkan kepadamu apa yang harus terjadi sesudah ini. Segera aku dikuasai oleh Roh dan lihatlah, sebuah takhta terdapat di sorga dan di takhta itu duduk seorang." link="rev:4,1-2" lang="ind" %}}"
 
-Ayat Alkitab ini menggambarkan bagaimana Yohanes diangkat dalam roh dan mendapat sebuah penglihatan di surga, tempat asal meterai-meterai, sangkakala-sangkakala, dan cawan-cawan itu. Ini memberinya sebuah perspektif surgawi atas hal-hal ini.
+Bagian ini menggambarkan Yohanes diangkat dalam Roh untuk menerima sebuah penglihatan dari surga — sudut pandang tempat meterai-meterai, sangkakala-sangkakala, dan cawan-cawan itu semua berlangsung. Ini memberinya sebuah pandangan surgawi atas peristiwa-peristiwa itu, tidak lebih dari itu.
 
-Tidak ada penyebutan bahwa ia tinggal di sana selamanya, dan juga tidak ada petunjuk tentang seluruh gereja.
+Tidak dikatakan sama sekali bahwa Yohanes tinggal di sana secara permanen, dan tidak dikatakan pula bahwa seluruh gereja diangkat bersamanya.
 
-Sebaliknya, ini merujuk pada gambaran Perjanjian Lama tentang penghakiman surgawi, sebagaimana ditemukan pada {{% bible val="Yesaya" link="isa:6,1-13" lang="ind" %}} atau dalam {{% bible val="Kitab Raja-Raja" link="1ki:22,19-23" lang="ind" %}}.
+Sebaliknya, ini menggemakan pola Perjanjian Lama tentang sidang surgawi, adegan yang sama yang ditemukan dalam {{% bible val="Kitab Yesaya" link="isa:6,1-13" lang="ind" %}} atau {{% bible val="Kitab Raja-Raja" link="1ki:22,19-23" lang="ind" %}}.
 
 ## Kesimpulan
 
 <a name="ec29"></a>
-Argumentasi untuk pengangkatan bertumpu pada ayat-ayat Alkitab yang menggambarkan situasi-situasi berbeda, yang dibaca secara keliru, dilepaskan dari konteksnya, dan mengabaikan makna kata-kata kuncinya. Jadi, tidak ada bukti alkitabiah untuk pengangkatan.
+Setiap argumen untuk pengangkatan bertumpu pada ayat-ayat yang sebenarnya menggambarkan sesuatu yang sama sekali berbeda — ayat-ayat yang ditafsirkan secara keliru, dilepaskan dari konteksnya, atau dibaca melampaui makna sesungguhnya dari kata-kata kuncinya. Jika digabungkan, tidak ada bukti alkitabiah untuk sebuah pengangkatan.

@@ -11,72 +11,59 @@ sources:
       ref: dabar_daniel
 ---
 
-Daniel kitabı pek çok ahir zaman yorumunun kaynağı gibi görünmektedir. Tüm bunların neyle ilgili olduğuna daha yakından bakalım ve temel bilgilerle başlayalım.
+Daniel kitabı, pek çok son zamanlar yorumunun kaynağı gibi görünmektedir. Temellerden başlayarak, tüm bunların ne hakkında olduğuna daha yakından bakalım.
 
-## Dört Krallık
+## Dört krallık
 
 <a name="b8b5"></a>
-Daniel’deki 2. ve 7. bölümler bize dört farklı imparatorluğa bir bakış sunar. {{% bible val="2. bölüm bir heykel görümünü kullanırken" link="dan:2" lang="tr" %}}, {{% bible val="7. bölüm onları canavar olarak tanımlar" link="dan:7" lang="tr" %}}.
+Daniel'in 2. ve 7. bölümleri, birbirini izleyen dört krallığa bir bakış sunar — {{% bible val="2. bölüm bir heykel görümü aracılığıyla" link="dan:2" lang="tr" %}}, {{% bible val="7. bölüm ise bir dizi canavar aracılığıyla" link="dan:7" lang="tr" %}}. Her iki bölüm de krallıkları birbirini izleyen bir sıra hâlinde sunar: 2. bölüm bunu açıkça yaparken, 7. bölüm bunu canavarların birbirini fethedip yerini alması yoluyla gösterir.
 
-Her iki bölüm de onları ardışık olarak tanımlamaktadır (2. bölüm açıkça, 7. bölüm birbirlerini fethederek ve yer değiştirerek).
+2. bölüm bize açık bir başlangıç noktası verir, çünkü {{% bible val="ilk krallık Babil'dir" link="dan:2,37-38" lang="tr" %}}. Babil, {{% bible val="Med-Pers İmparatorluğu tarafından yıkıldı" link="dan:5,30" lang="tr" %}}. Bazı yorumcular Med ve Pers imparatorluklarını birbirini izleyen iki ayrı imparatorluk olarak ele alır, ama bu tarihle örtüşmez — ikisi, Babil'i yıkmadan önce zaten birleşmişti.
 
-Bölüm 2'ye baktığımızda, {{% bible val="ilk olarak Babil’i" link="dan:2,37-38" lang="tr" %}} ele alarak bir başlangıç noktasına sahip oluruz. {{% bible val="Babil, Med/Pers imparatorluğu tarafından yıkılmıştır" link="dan:5,30" lang="tr" %}}. Bazı yorumcular Med ve Pers imparatorluklarını birbirini izleyen iki farklı imparatorluk olarak görürler, ancak bu tarihi yansıtmaz çünkü her iki imparatorluk da yıkılan Babil’den ÖNCE birleşmişlerdir.
+Üçüncü krallık, {{% bible val="Med-Pers İmparatorluğu'nu fetheden Büyük İskender yönetimindeki Yunan imparatorluğudur" link="dan:8,19-21" lang="tr" %}}. İskender'in ölümünden sonra bu imparatorluk dörde bölündü ve sonunda dördüncü ve son krallık olan Roma tarafından yutuldu.
 
-Üçüncüsü, {{% bible val="Med/Pers imparatorluğunu fetheden Büyük İskender yönetimindeki Yunan imparatorluğudur" link="dan:8,19-21" lang="tr" %}}. Bu imparatorluk Büyük İskender’in ölümünden sonra 4 imparatorluğa bölündü ve sonunda Roma imparatorluğu tarafından tüketildi.
+7. bölüm, Babil'den başlayarak aynı tabloyu farklı bir imgelemle çizer:
 
-Yedinci bölüme baktığımızda da benzer bir tablo görürüz.
+"{{% bible val="Birbirinden farklı dört büyük yaratık denizden çıktı. Birinci yaratık aslana benziyordu, kartal kanatları vardı. Ben bakarken kanatları koparıldı, yaratık yerden kaldırıldı, insan gibi ayakları üzerine durduruldu ve ona bir insan yüreği verildi." link="dan:7,3-4" lang="tr" %}}"
 
-Babil ile başlıyor:
-
-“{{% bible val="Denizden birbirinden farklı dört büyük yaratık çıktı. “Birinci yaratık aslana benziyordu, kartal kanatları vardı. Ben bakarken kanatları koparıldı, yaratık yerden kaldırıldı, insan gibi ayakları üzerine durduruldu. Ona bir insan yüreği verildi." link="dan:7,3-4" lang="tr" %}}”
-
-Babil, [heykel](https://en.wikipedia.org/wiki/Lion_of_Babylon) veya [portre](https://en.wikipedia.org/wiki/Lion_of_Babylon) olarak aslanla sembolize edilmiş ve muhtemelen Yeremya tarafından Edom’un yargılanmasını anlatan {{% bible val="aslan ve kartal" link="jer:49,19-22" lang="tr" %}} olarak atıfta bulunulmuştur.
+Babil, hem [heykellerde](https://en.wikipedia.org/wiki/Lion_of_Babylon) hem de [portrelerde](https://en.wikipedia.org/wiki/Lion_of_Babylon) bir aslanla simgelenmişti; Yeremya da muhtemelen Edom'un yargılanmasını {{% bible val="aslan ve kartal" link="jer:49,19-22" lang="tr" %}} imgesiyle anlatırken aynı simgeden yararlanır.
 
 Sırada Persler var:
 
-“{{% bible val="İkinci yaratık ayıya benziyordu. Bir yanı üzerinde doğrulmuştu. Ağzında, dişleri arasında üç kaburga kemiği vardı. Ona, Haydi kalk, yiyebildiğin kadar et ye! dediler.’" link="dan:7,5" lang="tr" %}}”
+"{{% bible val="Ardından bir başka yaratık, ayıya benzeyen ikinci bir yaratık gördüm. Bir yanı üzerinde doğrulmuştu. Ağzında, dişleri arasında üç kaburga kemiği vardı. Ona, ‹Haydi kalk, yiyebildiğin kadar et ye!› dediler." link="dan:7,5" lang="tr" %}}"
 
-Bir tarafa yağan ayı, Med ve Perslerin ortaklığına atıfta bulunurken, daha sonra gelenler daha küçük olan ama sonunda liderliği ele geçirenlerdir.
+Bir yanı üzerinde doğrulan ayı, Pers tarafının başlangıçta daha küçük olduğu ama sonunda önderliği ele geçirdiği ortak Med-Pers İmparatorluğu'nu betimler. Üç kaburga kemiği, "yutma" buyruğuyla birlikte, imparatorluğun üç büyük fethini anlatır: Lidya (MÖ 547), Babil (MÖ 539) ve Mısır (MÖ 525).
 
-Üç kaburga kemiği ve yutmaya yapılan atıf Lidya (MÖ 547), Babil (MÖ 539) ve Mısır’ın (MÖ 525) üç ana fethini anlatmaktadır.
+Ardından Yunanlılar geliyor:
 
-Yunanlı tarafından takip edildi:
+"{{% bible val="Bundan sonra baktım, sırtında dört kuş kanadı olan parsa benzer bir başka yaratık gördüm. Bu yaratığın dört başı vardı ve ona egemenlik verildi." link="dan:7,6" lang="tr" %}}"
 
-“{{% bible val="Sonra baktım, parsa benzer bir başka yaratık gördüm. Sırtında dört kuş kanadı vardı. Bu yaratığın dört başı vardı ve ona egemenlik verilmişti." link="dan:7,6" lang="tr" %}}”
+Leopar, İskender'in krallığının Yunanistan'dan Hindistan'a kadar yirmi yıldan kısa bir sürede hızla yayılışını yakalar. Ölümünün ardından krallık, dört halef devlete — dört başa — bölündü.
 
-Leopar, krallığının yirmi yıldan kısa bir sürede Yunanistan’dan Hindistan’a kadar hızla genişlemesini çok iyi anlatmaktadır. Ölümünden sonra krallık, 4 başı temsil eden 4 halefe bölündü
+Son olarak Romalılar:
 
-Sonunda Romalılar geliyor:
+"{{% bible val="Bundan sonra gece görümlerimde korkunç, ürkütücü, çok güçlü dördüncü bir yaratık gördüm. Büyük demir dişleri vardı; yiyip parçalıyor, artakalanı ayakları altında çiğniyordu." link="dan:7,7" lang="tr" %}}"
 
-“{{% bible val="Bundan sonraki gece görümlerimde korkunç, ürkütücü, çok güçlü dördüncü bir yaratık gördüm. Büyük demir dişleri vardı; yiyip parçalıyor, artakalanı ayakları altında çiğniyordu. Kendisinden önceki yaratıklara benzemiyordu. On boynuzu vardı." link="dan:7,7" lang="tr" %}}”
-
-Romalılar son Yunan imparatorluklarını fethettiler ve onlarla ilgili her şeyi teslim eden en büyük imparatorluk oldular. Demir aynı zamanda {{% bible val="bölüm 2'nin" link="dan:2,40" lang="tr" %}} de {{% bible val="malzemesiydi" link="dan:2,40" lang="tr" %}}.
+Roma, son Yunan halef krallıklarını fethetti ve o zamana dek görülmüş en büyük imparatorluk hâline geldi; demir gücüyle her şeyi ezip geçti — bu, {{% bible val="2. bölümdeki dördüncü krallığın malzemesi olan" link="dan:2,40" lang="tr" %}} aynı demirdir.
 
 ## Krallıkların sonu
 
 <a name="bcbd"></a>
-Her iki bölümde de son tanrısal bir olayla açıklanır. 2. bölümde bu olay, “{{% bible val="insan eliyle kesilmemiş bir taş, demir ve kilden yapılmış ayakları üzerindeki surete çarptı ve onları parçaladı" link="dan:2,34" lang="tr" %}}” ve “{{% bible val="surete çarpan taş büyük bir dağ oldu ve tüm dünyayı doldurdu" link="dan:2,35" lang="tr" %}}” şeklinde anlatılır.
+Her iki bölüm de aynı şekilde biter: tanrısal bir olayla. 2. bölümde bu, "{{% bible val="insan eliyle kesilmemiş bir taşın, demirden ve kilden yapılmış ayakları üzerindeki heykele çarpıp onu parçalaması" link="dan:2,34" lang="tr" %}}" ve "{{% bible val="heykele çarpan taşın büyük bir dağ olup tüm dünyayı doldurması" link="dan:2,35" lang="tr" %}}" olarak anlatılır.
 
-Bu, {{% bible val="kilisenin temeli" link="eph:2,19-22" lang="tr" %}} olan {{% bible val="İsa Mesih’in" link="1pe:2,4-8" lang="tr" %}} {{% bible val="köşe taşı" link="isa:28,16" lang="tr" %}} olduğunu hatırlatır. O, “insan eliyle” üretilmemiştir ve kiliseye yönetme yetkisini veren dünyanın yöneticisi olmuştur.
+Bu, başka bir yerde {{% bible val="İsa Mesih" link="1pe:2,4-8" lang="tr" %}} olarak tanımlanan ve {{% bible val="Kilise'nin temeli" link="eph:2,19-22" lang="tr" %}} olan {{% bible val="köşe taşını" link="isa:28,16" lang="tr" %}} hatırlatır. O, "insan eliyle" yapılmamıştı ve dünyanın hükümdarı olarak kiliseye yönetme yetkisini verdi. 7. bölüm, aynı müdahaleyi başka bir açıdan gösterir: {{% bible val="Eskiden Beri Var Olan ve İnsanoğlu, krallıkların üstesinden gelir" link="dan:7,9-12" lang="tr" %}} ve {{% bible val="sonsuz bir krallık kurar" link="dan:7,13-14" lang="tr" %}}.
 
-7. bölüme baktığımızda da bir müdahaleyle karşılaşırız: Günümüzdeki kadim olan ve {{% bible val="krallıkların üstesinden gelerek sonsuz" link="dan:7,9-12" lang="tr" %}} bir {{% bible val="krallık kuracak " link="dan:7,13-14" lang="tr" %}}olan insanoğlu. İnsanoğlu kimdir? Daniel’in bağlamında, {{% bible val="insanoğlu olarak " link="dan:7,14" lang="tr" %}}bir {{% bible val="krallık alan İsrail’dir" link="dan:7,18" lang="tr" %}}, ancak bu, insanoğlu kendisi için kullandığı tek unvan [olduğu için gerçek İsrail olarak İsa’da yerine getirilmiştir](https://www.bibleserver.com/search/TR/insano%C4%9Flu).
+Peki bu İnsanoğlu kimdir? Daniel'in kendi bağlamında bu, İsrail'dir — {{% bible val="krallığı alan" link="dan:7,18" lang="tr" %}} onlardır, {{% bible val="İnsanoğlu" link="dan:7,14" lang="tr" %}} unvanı altında. Ama bu, gerçek İsrail olarak İsa'da yerine gelir; [İnsanoğlu'nun, İsa'nın kendisi için kullandığı tek unvan olduğunu](https://www.bibleserver.com/search/NIV/son%20of%20man) belirtmekte fayda var.
 
 ## Daha fazlası var
 
 <a name="38f8"></a>
-Bölüm 2 ve 7'nin aynı dört krallıktan bahsettiğini ve İsa doğduğunda ve çarmıhta imparatorlukları fethettiğinde Roma İmparatorluğu’nda sona erdiğini gördük. Ancak uygun olmayan bazı şeyler vardır:
+2. ve 7. bölümler açıkça aynı dört krallığı anlatır ve İsa'nın doğduğu ve çarmıhta imparatorlukları fethettiği dönemde Roma'da son bulur. Ama bazı ayrıntılar bu okumaya tam olarak uymaz. 2. bölüm, heykelin ayaklarıyla temsil edilen ek krallıklardan söz eder. 2. bölümdeki taş — İsa'nın ilk gelişi — heykelin tamamını bir anda yok etmedi, çünkü Roma bundan sonra 400 yıldan uzun süre ayakta kaldı. 7. bölümdeki dördüncü canavarın tasviri de Roma'yla tam örtüşmez: kendisinden önceki tüm canavarlardan farklı, korkunç ve ürkütücü olarak tanımlanır ve on boynuzu vardır, oysa Roma bu yönlerden önceki imparatorluklardan özellikle farklı değildi ve on boynuz Roma tarihinde hiçbir zaman net bir şekilde bir şeye karşılık gelmedi. Ve 7. bölümdeki İnsanoğlu'nun gelişi sahnesi nihai bir yargı gibi okunur, oysa bu sadece Roma olsaydı, o yargı gerçekleştikten sonra pek bir şey değişmezdi.
 
-- 2. bölüm heykelin ayaklarını temsil eden diğer krallıklardan bahseder
-- bölüm 2'deki taş (İsa’nın ilk gelişi) tüm heykeli yok etmedi (Roma İmparatorluğu 400 yıldan fazla bir süre hala oradaydı)
-- bölüm 7'deki dördüncü canavarın açıklaması Roma İmparatorluğu’nu tam olarak tanımlamıyor (korkunç ve dehşet verici, kendisinden önceki tüm canavarlardan farklı ve on boynuzu vardı) — bu imparatorluk bu yönleriyle kendisinden öncekilerden çok farklı değildi, on boynuz çok anlamlı değil ve Roma tarihinde hiçbir zaman sabitlenmedi
-- bölüm 7'deki insanoğlunun geliş sahnesi nihai bir yargıya benziyor, ancak bu Roma İmparatorluğu olacaksa, yargı çağrısından sonra pek bir şey değişmiyor gibi görünüyor
+Bunun nasıl çözüleceği konusunda hayli tartışma var; işte kısmen başkalarından ödünç aldığım kendi görüşüm. Öykü, İsa'nın dünyaya gelişiyle sona ermiyor — bu, dünya tarihinde büyük bir değişimi başlatıyor: artık dünyayı yöneten kilisedir. Müjde'nin ibadet, dua, tanıklık ve sebat yoluyla yayılmasıyla dünya değişmektedir.
 
-Bu konuda pek çok düşünce var, işte benim görüşüm (diğerlerinden ödünç alınmıştır).
+Ama biz bundan gerçekte ne kadar yararlanıyoruz? Yeni bir dünya yerine, tarih bize cehennem korkusu üzerine kurulu haçlı seferleri, engizisyonlar ve zorla din değiştirmeler sunuyor. Aynı zamanda, İsa'nın krallığı bu dünyadan olmadığı için, yönetimdeki bu değişim beklediğimiz kadar açık görünmez. İsa ve kilise dünyanın yönetimini devraldıkça, {{% bible val="Tanrı'nın krallığında hüküm sürmenin" link="mat:20,25-28" lang="tr" %}} gerçekte ne anlama geldiğini kendimize sormalıyız.
 
-Hikaye İsa’nın dünyaya gelişiyle sona ermedi, ancak bu dünya tarihinde büyük bir değişim başlattı: Kilise artık dünyayı yönetiyor! Müjde’yi ibadet, dua, tanıklık ve dayanıklılıkla yayarak dünya değişiyor. Ama biz bundan ne kadar yararlanıyoruz? Yeni bir dünyadan ziyade, dünyanın haçlı seferleri, engizisyon, cehennem korkusuyla zorla din değiştirmelerle kaplandığını görüyoruz.
+Roma, İsrail üzerinde doğrudan egemenlik kuran dört krallığın sonuncusudur. İsa aracılığıyla kurulan yeni antlaşmadan sonra, Tanrı'nın halkı tüm dünyaya yayılmıştır ve artık onların hepsini kapsayan tek bir imparatorluk yoktur.
 
-Öte yandan, İsa’nın krallığı bu dünyadan olmadığı için hükümdarlığın değişimi o kadar da açık bir şekilde görülmez. İsa ve kilise dünyanın yönetimini devraldığında, {{% bible val="kendimize Tanrı’nın krallığında hüküm " link="mat:20,25-28" lang="tr" %}}sürmenin ne anlama geldiğini sormamız gerekir.
-
-Roma İmparatorluğu, İsrail üzerinde doğrudan egemenliği olan dört imparatorluğun sonuncusudur. İsa’yla yapılan yeni antlaşmadan sonra Tanrı’nın halkı tüm dünyaya yayılmıştır ve hepsini kapsayan bir imparatorluk yoktur.
-
-Daniel’in 7. bölümde daha fazlasını sorduğu 10 kral ve 3 boynuz hakkında çok fazla tartışma vardır, ancak bunları {{% int_link val="şeytani üçlüyü" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve on kralı tekrar gördüğümüz Vahiy Kitabı bağlamında tartışmalıyız.
+On kral ve üç boynuz etrafında — ki Daniel'in kendisi 7. bölümde bunlar hakkında daha fazla bilgi ister — çok daha fazla tartışma vardır, ama bu tartışma, {{% int_link val="şeytani üçlüyle" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve on krallarla yeniden karşılaştığımız Vahiy kitabının bağlamına aittir.

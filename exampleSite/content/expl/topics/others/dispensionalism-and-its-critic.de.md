@@ -13,96 +13,100 @@ sources:
       ref: goreman
 ---
 
-Der Dispensionalismus wird oft diskutiert und kann für den Leser sehr verwirrend sein. Hier sind einige Punkte der Kritik an dieser Theorie.Es ist schwierig, den Dispensionalismus zu kritisieren, aber ich werde versuchen, mich kurz zu fassen und auch ein wenig “Left Behind” zu betrachten.
+Der Dispensionalismus wird ständig diskutiert, und er lässt sich nur schwer greifen, weil er in so vielen Spielarten vorkommt. Im Folgenden stehen einige scharf umrissene, konkrete Kritikpunkte — darunter auch einige, die sich gegen „Left Behind” richten, die Variante, die die meisten Leser tatsächlich kennen werden.
 
-## Wörtliches Verständnis
+Gerade wegen dieser Vielfalt ist es schwer, den Dispensionalismus als Ganzes zu kritisieren, aber die folgenden Punkte versuchen, scharf und konkret zu bleiben, statt ein vages Zerrbild anzugreifen.
+
+## Wörtlich, aber nicht konsequent wörtlich
 
 <a name="7102"></a>
-Es wird argumentiert, dass dieser Ansatz die Bibel wörtlich nimmt, was an sich gut ist, aber ein solcher Ansatz muss auch die Art des biblischen Abschnitts berücksichtigen.
+Der Dispensionalismus ist stolz darauf, die Bibel wörtlich zu lesen, was auf den ersten Blick verantwortungsbewusst klingt. Das Problem ist, dass dieser Ansatz nicht widerspiegelt, wie die Literatur der Bibel in jedem Fall tatsächlich funktioniert.
 
-Es gibt poetische Literatur in der Bibel wie das Hohelied der Liebe. Würde man alles wörtlich nehmen, sähe Sulamith aus dem Hohelied der Liebe [so](https://www.pinterest.com/pin/414894184412811101/) aus. Und es gibt einige Stellen, bei denen es wirklich schwierig ist zu glauben, dass sie wörtlich gemeint sein könnten.
+Man nehme das Hohelied, das durch und durch poetische Literatur ist. Liest man es mit flacher Wörtlichkeit, sieht Sulamith am Ende [so](https://www.pinterest.com/pin/414894184412811101/) aus — offenkundig nicht die Absicht des Textes. Mehrere andere Stellen tragen dasselbe Warnsignal, darunter eine, bei der der Text selbst anzeigt, dass er nicht {{% bible val="wörtlich" link="isa:55,12" lang="de" %}} gemeint ist.
 
-Außerdem sind die Dispensionalisten inkonsequent mit diesem Prinzip. Sie stimmen zu, dass {{% bible val="das erste Tier nicht sieben Köpfe und zehn Hörner hat" link="rev:13,1" lang="de" %}}. Aber {{% bible val="Gog und Magog" link="rev:20,8" lang="de" %}} und die {{% bible val="Pfeile und Bogen, die Gott ihnen aus der Hand reißt" link="ezk:39,3" lang="de" %}}, werden als Raketen und Flugzeuge gedeutet.
+Bezeichnender noch: Dispensionalisten wenden ihr eigenes Prinzip nicht einmal konsequent an. Sie stimmen zum Beispiel zu, dass {{% bible val="das Tier keine sieben Köpfe und zehn Hörner haben wird" link="rev:13,1" lang="de" %}} in irgendeinem wörtlichen, sichtbaren Sinn. Und wenn {{% bible val="Gog und Magog" link="rev:20,8" lang="de" %}} zusammen mit einem Hinweis darauf auftauchen, dass {{% bible val="Gott Bogen und Pfeile zerstört" link="ezk:39,3" lang="de" %}}, deuten Dispensionalisten „Bogen und Pfeile” bereitwillig als Flugzeuge und Raketen — ein durch und durch unwörtlicher Schritt für eine Hermeneutik, die Wörtlichkeit als ihr Markenzeichen beansprucht.
 
-## Fehlendes Verständnis von antiker Literatur
+## Eine Theorie, die die Literatur selbst missversteht
 
 <a name="0bf6"></a>
-Die Theorie ignoriert die Art der Literatur der Offenbarung: eine apokalyptische, prophetische Sammlung von Briefen. Der Dispensionalismus interpretiert alles als historisches Werk.
+Das tiefere Problem ist, dass die Theorie nicht berücksichtigt, mit welcher Art von Literatur sie es zu tun hat. Die Offenbarung ist eine apokalyptische, prophetische Sammlung von Briefen, keine Chronik — doch der Dispensionalismus legt sie aus, als wäre sie eine schlichte Beschreibung der Geschichte, die sich der Reihe nach entfaltet.
 
-## Nicht relevant für die ersten Leser
+## Eine Theorie ohne Relevanz für die ersten Leser
 
 <a name="1325"></a>
-Diese Theorie macht für die ersten Leser keinen Sinn. Das Argument, dass es sich wie beim Buch Daniel um Dinge handelt, die in der Zukunft liegen, ist nicht stichhaltig, da das Buch Daniel versiegelt wurde (bis die Zeit erfüllt ist), was bei der {{% bible val="Offenbarung" link="rev:22,10" lang="de" %}} nicht der Fall ist. Außerdem ist die Offenbarung (auch) ein {{% int_link val="Brief, der vor allem für die ersten Leser relevant sein muss" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}.
+Nach dieser Lesart hätte das Buch für die Menschen, für die es ursprünglich geschrieben wurde, überhaupt keinen Sinn ergeben. Die übliche Verteidigung — dass die Offenbarung von der Zukunft handelt und die ersten Leser sie deshalb natürlich nicht vollständig erfassen konnten — hält nicht stand. Auch das Buch Daniel blickt weit in die Zukunft, aber {{% bible val="dieses Buch wurde versiegelt, bis die Zeit erfüllt war" link="dan:8,26" lang="de" %}}. Der {{% bible val="Offenbarung" link="rev:22,10" lang="de" %}} wird ausdrücklich gesagt, sie solle nicht versiegelt werden, was in die entgegengesetzte Richtung weist: Sie sollte von ihrem ersten Publikum verstanden werden, nicht Jahrhunderte später entschlüsselt werden.
 
-## Kontext basiert
+## Eine Theorie, die den Kontext übergeht
 
 <a name="423b"></a>
-Die Theorie macht oft Annahmen, die nicht erklärt werden, oder verwendet ein Arsenal von Bibelversen, die nicht in ihrem Kontext betrachtet werden.
+Die Theorie stellt oft Behauptungen auf, ohne sie zu erklären, oder fährt ein Arsenal von Bibelversen auf, die aus ihrem Kontext gelöst sind.
 
-Die wesentlichen {{% bible val="2000 Jahre Verzögerung in der Prophetie der 70 Jahre" link="dan:9,26-27" lang="de" %}} hängt von einer sehr speziellen Lesart ab, und zwar von der Interpunktion, die nur von der King James-Übersetzung unterstützt wird.
+Ein gutes Beispiel ist die {{% bible val="2000-jährige Verzögerung in der Prophezeiung der 70 Jahre" link="dan:9,26-27" lang="de" %}}, ein Eckpfeiler des Systems. Sie hängt von einer ganz bestimmten Lesart ab — bis hin zur Zeichensetzung — eines Verses, und genau diese Zeichensetzung wird nur von der King-James-Übersetzungstradition gestützt.
 
-## Voraussage über die Zukunft
+## Immer wieder die Zukunft vorhersagen
 
 <a name="9e2a"></a>
-Die Interpretation ist oft von der aktuellen Politik geprägt, die angeblich in der Offenbarung vorausgesagt wird, oder dass die gesamte Geschichte bis heute in der Offenbarung vorausgesagt wird.
+Dieser Auslegungsstil wird sehr oft benutzt, um zu behaupten, ein bestimmtes Element der aktuellen Politik sei im Buch der Offenbarung vorhergesagt worden, oder sogar, der gesamte Lauf der Geschichte bis zur Gegenwart sei dort im Voraus festgelegt worden.
 
-Mit diesem Ansatz sind einige Probleme verbunden:
+Mehrere Schwächen durchziehen diesen Ansatz:
 
-- Gottes detaillierter Heilsplan steht auch dann nicht fest, selbst wenn er durch Propheten verkündet wird, wie die Geschichten von {{% bible val="Jona" link="jon:3,4-10" lang="de" %}} und {{% bible val="Hiskia " link="isa:38,1-5" lang="de" %}}zeigen.
-- Als ein prophetisches Buch ist es nicht das Ziel, die Zukunft zu vorauszusehen, sondern mögliche Konsequenzen aufzeigen, um Menschen zu ermutigen, sich so zu verhalten, dass diese nicht eintreten.
-- Es gibt so viele „Übereinstimmungen“ mit geschichtlichen Ereignissen, die überzeugend argumentiert wurden, aber alle mit der Zeit revidiert wurden, dass das beste Argument dagegen ist die Fülle der „passenden“ Erfüllungen ist. 😎
-- Die Voraussage wird mit einem Tunnelblick getan. So werden z.B. die sieben Sendschreiben als sieben Teile der Kirchengeschichte interpretiert und wir leben (überraschenderweise!) in der Zeit Laodizeas, der lauwarmen Gemeinde. Das mag auf die westlichen Kirchen zutreffen, ist aber für die vielen Gemeinden weltweit, die unter Verfolgung leiden, völlig falsch.
+- Gottes detaillierte Pläne stehen nicht fest, selbst wenn sie durch Propheten verkündet werden — man denke an die Geschichte von {{% bible val="Jona" link="jon:3,4-10" lang="de" %}} oder {{% bible val="Hiskia" link="isa:38,1-5" lang="de" %}}, wo sich das angekündigte Ergebnis ändert.
+- Als prophetisches Buch besteht die Absicht der Offenbarung nicht darin, vorherzusagen, sondern mögliche Konsequenzen zu beschreiben und Menschen zum Handeln zu drängen, damit diese Konsequenzen nicht eintreten müssen.
+- Es gab so viele angeblich perfekte „Übereinstimmungen” mit geschichtlichen Ereignissen, jede zu ihrer Zeit überzeugend, die seither, während die Zeit voranschritt, still und leise revidiert wurden. Allein die schiere Zahl der aufgegebenen Deutungen ist das beste Argument gegen die Methode, die sie hervorgebracht hat.
+- Die Vorhersagen beruhen oft auf einem engen Tunnelblick. Die sieben Sendschreiben an die Gemeinden zum Beispiel werden als sieben Epochen der Kirchengeschichte gelesen, mit der Behauptung, wir lebten jetzt in der letzten Epoche, der des lauwarmen Laodizea. Das mag auf manche westliche Kirchen zutreffen, würde aber die vielen Gemeinden weltweit, die gerade eine echte Trübsal durchleben, gründlich falsch beschreiben.
 
 ## Keine Entrückung
 
 <a name="7246"></a>
-{{% int_link val="Es wird keine Entrückung geben" link="/expl/topics/others/the-rapture" %}}.
+Das vielleicht klarste Problem von allen: {{% int_link val="Es gibt keine Entrückung." link="/expl/topics/others/the-rapture" %}}
 
 ## Der dritte Tempel
 
 <a name="6193"></a>
-Die Theorie spricht von einen dritten Tempel, der in Jerusalem gebaut werden soll, basierend auf der {{% bible val="Bibelstelle, dass der Außenbezirk des Tempels den Heiden gegeben wird" link="rev:11,1-2" lang="de" %}}. Da es momentan keinen Tempel gibt, muss er gebaut werden. Diese Interpretation beachtet nicht, dass der{{% int_link val=" Tempel nicht notwendigerweise ein Gebäude ist, sondern die Beschreibung der Gegenwart Gottes" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}.
+Die Theorie vertritt, dass in Jerusalem ein neuer Tempel gebaut werden muss, ausgehend von der {{% bible val="Tatsache, dass der Tempel in der Offenbarung den Nationen gegeben wird" link="rev:11,1-2" lang="de" %}} — da heute kein solches Gebäude existiert, so das Argument, müsse noch eines errichtet werden. Diese Lesart übersieht jedoch, dass der Tempel {{% int_link val="nicht notwendigerweise ein Gebäude ist" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}; in der gesamten Offenbarung fungiert er als Beschreibung der Gegenwart Gottes, nicht als ein Bauwerk, das darauf wartet, wiedererrichtet zu werden.
+
+Die Behauptung, es werde buchstäblich ein neues Tempelgebäude errichtet, ergibt sich schlicht nicht aus dem Text.
 
 ## Die Trübsal
 
 <a name="055e"></a>
-{{% int_link val="Das ist eine längere Geschichte" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}.
+Die Trübsal verdient eine eigene Behandlung: {{% int_link val="Das ist eine längere Geschichte, die hier erzählt wird" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}.
 
 ## Die Gemeinde und Israel
 
 <a name="049e"></a>
-Diese Theorie sieht die Gemeinde als ein Zwischenprodukt zwischen dem Alten Testament und dem Tausendjährigen Reich aufgrund der „Haushaltungen”: Nach der Zeit der Gemeinde wird der Bund mit Israel wiederhergestellt und das ethnische Israel wird die Welt regieren. Die Gemeinde wird entrückt und existiert zwischen den Kapiteln 3 und 21 der Offenbarung nicht mehr.
+Die Theorie behandelt die Gemeinde als Zwischenkonstrukt, eingeklemmt zwischen dem Alten Testament und dem Tausendjährigen Reich nach der Logik der „Haushaltungen”. Nach diesem Schema wird, sobald das Zeitalter der Gemeinde endet, der Bund mit Israel wiederhergestellt und das ethnische Israel regiert die Welt, während die Gemeinde selbst entrückt wird — eine Schlussfolgerung, die weitgehend aus der Tatsache gezogen wird, dass der Begriff „Gemeinde” zwischen Kapitel 3 und Kapitel 21 nicht vorkommt.
 
-An dieser Theorie ist einiges falsch, aber sie ist zumindest ein Gegengewicht zu der Theorie, dass Gott Israel verworfen hat, was der Gemeinde genug Vorwände gab, die Juden zu verfolgen.
+An dieser Konstruktion ist einiges falsch. Aber bevor wir dazu kommen, sei anerkannt, dass diese Sicht immerhin ein gutes Gegengewicht zu der älteren Theorie ist, Gott habe Israel rundweg verworfen — eine Theorie, die der Kirche im Mittelalter einen Vorwand gab, Juden zu verfolgen.
 
-Also, was ist jetzt mit diesem Ansatz falsch?
+Was genau ist also falsch daran?
 
-- Die {{% int_link val="Gemeinde wird als Israel identifiziert" link="/expl/background/israel/the-church-is-part-of-israel" %}}, da die Gemeinde die Erfüllung der Berufung Israels ist und die {{% bible val="Gemeinde nun Teil von Israel ist" link="rom:11,13-24" lang="de" %}}.
-- Es gibt {{% bible val="keinen Unterschied (Mauer) zwischen Israel und den Nationen" link="eph:2,11-22" lang="de" %}}.
-- Nicht die Gemeinde ist nur vorübergehend, sondern der {{% bible val="Bund am Sinai, während der Bund mit Jesus die Erfüllung des Bundes mit Abraham ist" link="gal:3,15-29" lang="de" %}}.
-- Die Gemeinde verschwindet nicht, nur weil der Ausdruck verschwindet. In dem ersten drei Kapiteln werden konkrete Gemeinden in Kleinasien angesprochen mit ihren Problemen und Verheißungen. Diese Verheißungen werden dann konkret im Kapitel 21 wieder aufgenommen.
-- Wenn ganz Israel regieren soll, was passiert mit den Juden, die nicht an Gott glauben – und das waren im Alten Testament vermutlich noch weniger.
+- Die Gemeinde wird {{% int_link val="mit Israel identifiziert" link="/expl/background/israel/the-church-is-part-of-israel" %}} in dem Sinn, dass sie zur Erfüllung von Israels ursprünglicher Berufung geworden ist, und {{% bible val="die Gemeinde ist Teil von Israel" link="rom:11,13-24" lang="de" %}}.
+- Es gibt {{% bible val="keine Mauer und keinen Unterschied mehr zwischen Israel und den Nationen" link="eph:2,11-22" lang="de" %}}.
+- Nicht die Gemeinde ist vorübergehend, {{% bible val="sondern der Bund vom Sinai" link="gal:3,15-29" lang="de" %}}, während der Glaube an Christus den früheren Bund mit Abraham erfüllt.
+- Die Gemeinde verschwindet nicht aus der Geschichte, nur weil das Wort „Gemeinde” aus dem Text verschwindet.
+- Wenn allein das ethnische Israel regieren soll, was wird dann aus den Menschen, die überhaupt nicht an Gott glauben? Sogar das Alte Testament ging direkter mit dieser Frage um, und sei es nur, weil es an Ungläubigen, die es ansprechen musste, keinen Mangel hatte.
 
-## Die wichtigsten Grundlagen
+## Die wichtigsten Dinge, seltsam an den Rand gedrängt
 
 <a name="7e97"></a>
-Die wichtigste Teil dieser Theorie (Drangsal und Entrückung) werden nur einmal, wenn überhaupt in der Bibel erwähnt. Andere Themen, die in der Offenbarung mehr Raum einnehmen, werden ignoriert.
+Die Entrückung und die Trübsal, die beiden Ideen, auf die sich die Theorie am stärksten stützt, werden in der gesamten Bibel jeweils nur ein- oder zweimal erwähnt. Unterdessen werden die Themen, die tatsächlich immer wieder vorkommen — und die den Großteil des eigentlichen Inhalts des Buches ausmachen —, an den Rand gedrängt.
 
-## Die Grundlage des Glaubens
+## Der Beweggrund für den Glauben, den sie anbietet
 
 <a name="ab07"></a>
-Der Grund für den Glauben ist in dieser Theorie die Angst — wenn du nicht glaubst, wirst du nicht entrückt und wirst zurückgelassen. Aber {{% int_link val="Angst ist keine Eigenschaft der Gemeinde, sondern des Tieres" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Außerdem wird der Glaube darauf reduziert, “gerettet” zu sein, nicht wie Jesus zu werden oder den Nächsten zu lieben und die Gesellschaft zu beeinflussen.
+Der Beweggrund für den Glauben, den diese Theorie letztlich anbietet, ist die Angst: Glaube, sonst verpasst du die Entrückung und wirst zurückgelassen. Aber Angst ist {{% int_link val="ein Merkmal des Tieres, nicht der Gemeinde" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Hinzu kommt, dass der Glaube auf eine einzige Transaktion reduziert wird — gerettet zu sein —, während wenig übrig bleibt für das Christuswerden, das Lieben des Nächsten oder das Gestalten der Gesellschaft zum Guten.
 
-## Die christliche Waffenrüstung
+## Die Waffen der Kriegsführung, die sie sich vorstellt
 
 <a name="7b85"></a>
-Den Glauben mit einer militärischen Aussage zu beschreiben, ist {{% bible val="keine Aussage der Offenbarung, sondern die Sprache ist Parodie dieser Überzeugungen" link="rev:14,1-5" lang="de" %}}. Beispiel: {{% bible val="Jesus zieht mit dem Schwert seines Mundes in den Krieg" link="rev:19,21" lang="de" %}}. Das ist eine symbolische Handlung und bezieht sich nicht auf die Gewalt des Krieges.
+Der Glaube wird in diesem Rahmen in stark militaristischen Begriffen gefasst, einschließlich einer Armee, der man beitreten kann. Dieses Bild ist {{% bible val="nicht das, was die Offenbarung tatsächlich zeigt" link="rev:14,1-5" lang="de" %}}: {{% bible val="Jesus zieht allein in den Krieg, bewaffnet nur mit dem Schwert seines Mundes" link="rev:19,21" lang="de" %}}. Das ist ein bewusst symbolisches Bild, kein Aufruf zu buchstäblicher, gewaltsamer Kriegsführung.
 
-## Es ist politisch falsch
+## Ihre Politik
 
 <a name="7ee1"></a>
-Die Theorie macht Aussagen über die Welt, die nicht in der Bibel stehen oder ihr sogar widersprechen:
+Die Theorie stellt außerdem politische Behauptungen auf, die die Bibel nicht stützt und die sich mitunter selbst widersprechen:
 
-- Sie ist unbegründet antikatholisch.
-- Sie ist unkritisch pro-amerikanisch und pro-israelisch (Anmerkung: Das Alte Testament war sehr kritisch gegenüber Israel).
-- Sie sieht den Krieg im Nahen Osten als Teil von Gottes Plan und daher als etwas Gutes, das man als Christ unterstützen sollte (dass dort Krieg ausbricht).
+- Sie neigt zu Antikatholizismus.
+- Sie ist unkritisch pro-amerikanisch und pro-israelisch, obwohl das Alte Testament selbst häufig kritisch gegenüber Israel ist.
+- Sie behandelt die gegenwärtigen Kriege im Nahen Osten als Teil von Gottes Plan und damit als etwas, das man begrüßen statt betrauern sollte.

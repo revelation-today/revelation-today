@@ -4,8 +4,8 @@ title: "The little scroll (Ch.10)"
 weight: 9
 ---
 
-After the dead end with the trumpets the church needs new inspiration. This comes with a little scroll that John needs to internalize.
+After the dead end of the trumpets — nine plagues, and still no repentance — the church needs new inspiration, and it arrives in the form of a little scroll that John is told to internalize.
 
-This is the mystery of God. God conquers in weakness as Jesus did. When the church follows the footsteps of Jesus is will be successful.
+That scroll carries the mystery of God: he conquers through weakness, the way Jesus did on the cross. When the church follows that same path, it succeeds, even though success looks nothing like victory in the world's terms.
 
-But what is the essential here: The next 6 chapters will show this.
+That's the thread the next six chapters trace out.

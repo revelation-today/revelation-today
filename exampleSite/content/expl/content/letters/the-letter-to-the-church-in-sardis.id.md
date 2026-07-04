@@ -14,42 +14,36 @@ sources:
       ref: fee_rev
 ---
 
-Seperti apa rupa jemaat yang mati? Bagaimana ia dapat hidup kembali? Ingin tahu lebih banyak? Maka bacalah {{% bible val="surat kepada Sardis" link="rev:3,1-6" lang="ind" %}}.
+Seperti apa rupa sebuah jemaat yang mati, dan bagaimana caranya menyuntikkan kehidupan baru ke dalamnya? {{% bible val="Surat kepada Sardis" link="rev:3,1-6" lang="ind" %}} menjawab kedua pertanyaan itu.
 
 ## Latar Belakang Historis
 
 <a name="9a3a"></a>
-Sardis memiliki sejarah yang jauh lebih panjang dibandingkan yang lain. Secara iklim, kota ini terletak di lokasi yang ideal, di tepi sebuah pegunungan di dalam lembah yang subur.
+Sardis memiliki sejarah terpanjang di antara ketujuh kota itu, dan letaknya pun ideal untuk itu - bertengger di tepi sebuah jajaran pegunungan, di dalam lembah yang subur, dengan iklim yang mendukung.
 
-Kota ini hampir tak tertaklukkan, karena terletak 500 m di atas lembah, tidak memiliki jalur penghubung ke pegunungan sekitarnya, dan dikelilingi oleh batu karang. Karena alasan inilah kota ini sering meremehkan ancaman terhadap dirinya sendiri, dan misalnya dua kali ditaklukkan oleh pasukan musuh di titik-titik yang tampaknya tak dapat ditembus.
+Kota ini selalu diperhitungkan. Ketika sebuah gempa bumi besar menghancurkannya pada tahun 17 SM, kota itu dibangun kembali di bawah perlindungan kaisar, dan sembilan tahun kemudian kota yang penuh syukur itu mengajukan permohonan untuk membangun sebuah kuil demi menghormati sang kaisar.
 
-Kota ini dianggap sangat penting. Ketika misalnya kota ini dihancurkan oleh gempa bumi pada tahun 17 SM, kota ini dibangun kembali di bawah Kaisar Tiberius, dan hanya sembilan tahun kemudian sebuah kuil didirikan untuk kaisar.
+Sardis juga merupakan benteng alami, berdiri 500 meter di atas permukaan laut, dikelilingi tebing-tebing curam, namun tidak terhubung dengan pegunungan mana pun di sekitarnya. Kedudukan itu menumbuhkan rasa percaya diri yang berlebihan: kota ini meyakini dirinya tidak dapat ditaklukkan, namun musuh berhasil menaklukkannya dua kali, keduanya dengan menyelinap masuk lewat titik-titik yang justru dianggap semua orang mustahil dijangkau.
 
 ## Pandangan Yesus
 
 <a name="4d09"></a>
-Yesus berbicara kepada {{% bible val="gereja dalam kepenuhan Roh Kudus dan mengingatkan mereka bahwa mereka seharusnya menjadi terang dunia" link="rev:3,1" lang="ind" %}}.
+Yesus {{% bible val="mendatangi jemaat ini dalam kepenuhan kuasa Roh dan mengingatkan mereka akan panggilan mereka untuk menjadi terang bagi dunia" link="rev:3,1" lang="ind" %}}.
 
-Pujian yang diberikan sangat sedikit: hanya untuk beberapa orang yang tidak bercela.
-
-Tetapi teguran yang diberikan jauh lebih banyak: gereja ini mati, perbuatan-perbuatan mereka tidak sempurna, dan mereka harus segera bertindak. Tetapi di mana letak masalahnya?
+Hanya ada sedikit pujian di sini - hanya segelintir orang percaya dalam jemaat itu yang disebut tidak bercela - dan sebaliknya ada begitu banyak teguran: jemaat ini mati, perbuatan-perbuatan mereka tidak lengkap, dan mereka perlu bertindak cepat jika ingin memulihkan tujuan sejati mereka. Jadi apa yang salah?
 
 ## Masalahnya
 
 <a name="c0b1"></a>
-Masalah utamanya adalah kurangnya persepsi diri. Sikap meremehkan ancaman yang dimiliki kota ini telah menular kepada mereka.
+Masalah utamanya adalah rasa percaya diri yang keliru terhadap dirinya sendiri. Rasa percaya diri berlebihan kota itu atas kedudukannya yang tak tertaklukkan telah menular kepada jemaat, yang akhirnya percaya bahwa mereka bisa berfungsi tanpa kuasa Roh Kudus.
 
-Mereka mengira mereka dapat menjadi gereja yang efektif tanpa pertolongan Roh Kudus.
+Gambaran jemaat ini {{% bible val="sebagai mati, yang perlu dibangunkan sebelum apa yang tersisa pun ikut mati" link="rev:3,1-2" lang="ind" %}} menggemakan {{% bible val="penglihatan tentang lembah tulang-tulang kering dalam Kitab Yehezkiel, tempat Roh datang dan meniupkan hidup baru ke dalam apa yang telah mati" link="ezk:37" lang="ind" %}}. Begitu pula, tuduhan bahwa Yesus "{{% bible val="mendapati perbuatanmu tidak sempurna di hadapan Allah-Ku" link="rev:3,2" lang="ind" %}}" mengingatkan kita bahwa "{{% bible val="setiap pemberian yang baik dan sempurna datang dari Allah, Bapa segala terang" link="jas:1,17" lang="ind" %}}" - dengan kata lain, tidak ada pekerjaan yang benar-benar sempurna kecuali Allah sendiri yang mengerjakannya melalui mereka.
 
-Peringatan “{{% bible val="berjaga-jagalah dan kuatkanlah apa yang masih tinggal dan yang sudah hampir mati" link="rev:3,1-2" lang="ind" %}}” memiliki kaitan kuat dengan {{% bible val="lembah tulang-tulang kering, tempat Roh Kudus datang dan memberikan hidup baru" link="ezk:37" lang="ind" %}}.
-
-Peringatan “{{% bible val="Aku tidak menemukan perbuatanmu sempurna di hadapan Allah-Ku" link="rev:3,2" lang="ind" %}}” juga mengingatkan bahwa “{{% bible val="semua pemberian yang sempurna datang dari Allah, Bapa segala terang" link="jas:1,17" lang="ind" %}}”.
-
-Mereka harus segera bertindak, atau Allah akan mendatangi mereka secara tiba-tiba, karena hidup tanpa Roh Kudus tidak mungkin bertahan dalam jangka panjang.
+Hidup tanpa Roh Kudus sekadar tidak dapat bertahan. Sardis harus segera bertindak, atau kedatangan Tuhan akan mengejutkan jemaat ini sepenuhnya tanpa persiapan.
 
 ## Janji
 
 <a name="1e06"></a>
-Jubah putih adalah tanda pembebasan di dalam pengadilan.
+Jubah putih di sini menandakan pembebasan di dalam pengadilan. Janji bahwa nama mereka tidak akan dihapus dari Kitab Kehidupan berarti mereka tidak akan kehilangan kewarganegaraan mereka di surga - meskipun janji ini hanya berlaku bagi mereka yang bertobat.
 
-Bahwa nama mereka tidak akan dihapus dari kitab kehidupan berarti bahwa mereka tidak akan kehilangan kewarganegaraan mereka di surga. Tetapi hanya jika mereka bertobat. Ini adalah panggilan untuk terjaga! Maksudnya adalah untuk menggugah dan mengguncang gereja ini.
+Surat ini, pada akhirnya, adalah sebuah seruan untuk bangun, dimaksudkan untuk mengejutkan sebuah jemaat yang sekarat agar kembali bertindak.

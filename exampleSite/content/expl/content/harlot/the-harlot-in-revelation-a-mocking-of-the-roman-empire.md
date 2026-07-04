@@ -12,46 +12,46 @@ sources:
       ref: aune_rev
 ---
 
-The story of the harlot Babel in the book of Revelation in the Bible is one of the most complex stories and uses a lot of subtle irony about the Roman Empire. Ready for this?
+The story of the harlot Babylon in Revelation is one of the most layered in the book, and it leans heavily on subtle irony aimed at the Roman Empire. Ready for it?
 
 ## The coin
 
 <a name="55d4"></a>
-Let us take a look at a popular coin that was available around this time.
+Start with a coin that would have been common currency at the time.
 
 ![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
 
-On the obverse you can see Emperor Vespasian (reigned from 69 to 79) and the inscription “Imp Ceasar Vespasianus Aug PM TP PP COS III” which means “Emperor Ceasar Vespasian Augustus Pontifex Maximus (Greatest Priest), Tribunicia Potestas (Tribunal Power), Pater Patriae (Father of the Fatherland), Consul for the third time” which is a praise of the power and achievement of the emperor.
+On the obverse is Emperor Vespasian (reigned 69–79) with the inscription "Imp Caesar Vespasianus Aug PM TP PP COS III" — "Emperor Caesar Vespasian Augustus, Pontifex Maximus (Greatest Priest), Tribunicia Potestas (Tribunal Power), Pater Patriae (Father of the Fatherland), Consul for the third time." In short, a résumé of the emperor's power and achievements.
 
-On the reverse side is the goddess Roma in military dress, sitting on the seven hills of Rome. She has a small sword on her knee, symbolizing the military power of Rome. To the left and right of her is SC (Senatus Consultum = by decree of the Senate).
+The reverse shows the goddess Roma in military dress, seated on the seven hills of Rome, a small sword resting on her knee as a symbol of Rome's military power. To her left and right is the abbreviation SC (Senatus Consultum, "by decree of the Senate").
 
-On the right side you see the male representation of the river Tiber (surrounding Rome) bowing to Roma. On the lower left you can see a small female wolf nursing Remus and Romulus (describing the founding story of Rome, founded in 753 B.C. by the Ascendants of Troy). And finally, at the very bottom, Roma is written, perhaps in reference to the [secret name of Rome: Amor](https://www.quartahospitalityinrome.com/en/Rome-and-the-secret-of-its-name/), which means love.
+On the right, a male figure representing the river Tiber, which surrounds Rome, bows before Roma. In the lower left, a she-wolf nurses Romulus and Remus, recalling the founding story of Rome in 753 BC by the descendants of Troy. At the very bottom is the word Roma — possibly a nod to [Rome's secret name, Amor](https://www.quartahospitalityinrome.com/en/Rome-and-the-secret-of-its-name/), which reversed spells "love."
 
-So the reverse side of the coin praises the power and permanence of Rome.What does the text in Revelation say about this?
+So the reverse of the coin is a straightforward celebration of Rome's power and permanence. What does Revelation do with that same imagery?
 
-- When a woman is described as a wolf, it means that she is a prostitute (even in normal Latin), the secret name Amor makes it even worse.
-- The goddess of Rome is described here as a harlot, not only that, but as the mother of all harlots.
-- The hills of Rome represent the beast and the kings who will destroy Roma (the prostitute) — Roma is the victim of the city she protects.
-- Roma does not protect herself from enemies with the sword, but she is covered with the blood of the saints.
+- Describing a woman as a wolf was, even in ordinary Latin, a way of calling her a prostitute — and the secret name Amor only sharpens the insult.
+- The goddess of Rome is recast here as a harlot — not just any harlot, but the mother of all harlots.
+- The hills of Rome, rather than supporting her, become the beast and the kings who destroy her: Roma ends up the victim of the very city she was meant to protect.
+- And instead of protecting herself from enemies with her sword, she is covered in the blood of the saints.
 
-The coin depicting the {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} is transformed into an image of contempt and disgust, reminding every believer who sees it in everyday life that Rome cannot be trusted — a very effective counter-propaganda.
+The coin's celebration of the {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} is turned, point by point, into an image of contempt and disgust — a reminder to every believer who handled that coin in daily life that Rome could not be trusted. It's remarkably effective counter-propaganda.
 
 ## The Ekphrasis
 
 <a name="66fb"></a>
-The {{% bible val="first half of chapter 17" link="rev:17,1-13" lang="en" %}} is the only part of Revelation with an interpreting angel on a static picture (even in chapter 21 — the New Jerusalem — the angel only shows, does not explain, and there is action — the city comes down, water flows, trees bear fruit). In chapter 17 we have a very static picture. And the focus is on understanding the prostitute based on the beast.
+The {{% bible val="first half of chapter 17" link="rev:17,1-13" lang="en" %}} is the only part of Revelation where an angel interprets a static picture for the reader. Even in chapter 21, describing the New Jerusalem, the angel simply shows without explaining, and the scene is full of motion — the city comes down, water flows, trees bear fruit. Chapter 17, by contrast, is a frozen tableau, and the whole focus is on understanding the prostitute by way of the beast she sits on.
 
-And this text has the style of an ekphrasis, which is the mainly rhetorical description of an object of art (it could also be others like people, festivals, …). The first one was the description of the shield of Achilles in the Ilias (Battle of Troy).
+The passage is written in the style of an ekphrasis, a rhetorical description of a work of art (though the form could also describe people or festivals). The genre's most famous example is the description of the shield of Achilles in the Iliad.
 
-This type of literature was very popular in Rome from the first century BC. The main element is the {{% bible val="bewildered narrator" link="rev:17,7" lang="en" %}}, because the point of it was to either to have a deeper understanding of the picture or to see the deeper/hidden meaning of the picture which is sometimes hard to decipher like the “Tabula of Cebes” which was probably the most popular ekphrasis.
+Ekphrasis was popular in Rome from the first century BC on, and its central device is a {{% bible val="bewildered narrator" link="rev:17,7" lang="en" %}} — because the point was either to deepen the reader's understanding of the picture, or to reveal a hidden meaning that's genuinely hard to decipher, as in the "Tabula of Cebes," probably the most famous ekphrasis of all.
 
-This tabula may also be a basis for Revelation 17. It describes a group of people who see a picture on a dedication plaque in a temple that they don’t understand. An old man comes and [explains it to them (see chapter 8)](https://archive.org/details/cebestabletwithi00cebeiala/page/n4/mode/1up?view=theater):
+That tabula may well be a source behind Revelation 17. It describes a crowd looking at a picture on a dedication plaque in a temple, unable to make sense of it, until an old man arrives and [explains it to them (see chapter 8)](https://archive.org/details/cebestabletwithi00cebeiala/page/n4/mode/1up?view=theater):
 
-- Life is represented by three rings separated by walls.
-- The goal is to get into the middle ring, which is a kind of Garden of Eden that can only be reached after overcoming distractions (wealth, indulgence, …) and following virtues (temperance, fortitude, …).
-- There is a great crowd that wants to enter.
-- At the first gate there is a woman offering a cup to everyone, her name: deception, the drink: error and lack of knowledge.
+- Life is pictured as three rings separated by walls.
+- The goal is to reach the middle ring, a kind of Garden of Eden reachable only by overcoming distractions like wealth and indulgence, and by practicing virtues like temperance and fortitude.
+- A great crowd wants to get in.
+- At the first gate stands a woman offering a cup to everyone. Her name is Deception; the drink is Error and Lack of Knowledge.
 
-Another parallel to Revelation 17 could be the [Ode of Salomon](https://en.wikipedia.org/wiki/Odes_of_Solomon) 38/9–14, where error and lack of knowledge imitate the bride and groom. The wine at this wedding made the people vomit their understanding.
+Another possible parallel is the [Odes of Solomon](https://en.wikipedia.org/wiki/Odes_of_Solomon) 38:9–14, where Error and Lack of Knowledge disguise themselves as the bride and groom at a wedding, and the wine there makes the guests vomit up their own understanding.
 
-So the point of the ekphrasis is to show thatUnderstanding this deception is the first step toward God’s kingdom.If you are deceived by Rome, there is little hope for you.This deception is so great that it is hard to miss.
+Both parallels point to the same purpose behind the ekphrasis in Revelation 17: understanding this deception is the first step toward God's kingdom. If Rome has deceived you, there's little hope left for you — and yet the deception is so brazen that it's meant to be hard to miss.

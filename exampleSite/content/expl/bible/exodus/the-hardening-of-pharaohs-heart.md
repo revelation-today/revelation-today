@@ -8,19 +8,17 @@ next: /expl/bible/exodus/the-plagues-in-egypt
 docType: expl
 ---
 
-Is it fair for God to harden Pharaoh’s heart so that he has no choice but to be mean and be punished for it?
+Is it fair for God to harden Pharaoh’s heart, so that Pharaoh has no choice but to act cruelly — and then gets punished for it anyway?
 
-God says {{% bible val="He will harden Pharaoh’s heart" link="exo:4,21" lang="en" %}} so that he will not let the people go.
+God says plainly that {{% bible val="He will harden Pharaoh’s heart" link="exo:4,21" lang="en" %}} so that Pharaoh will not let the people go. But the Hebrew text is more layered than that single English phrase suggests. Three different Hebrew words are used across the narrative to describe this hardening:
 
-There are three different words in Hebrew that reflect the hardening of the heart.
+- [chazaq](https://biblehub.com/hebrew/2388.htm), meaning to harden or strengthen
+- [qashah](https://biblehub.com/hebrew/7185.htm), meaning to be hard, severe, or fierce
+- [kabad](https://biblehub.com/hebrew/3513.htm), meaning heavy, weighty, or burdensome
 
-- [chazad](https://biblehub.com/hebrew/2388.htm), which means to harden, to strengthen
-- [qashah](https://biblehub.com/hebrew/7185.htm), which means to be hard, severe, or fierce
-- [kabad](https://biblehub.com/hebrew/3513.htm), which means heavy, weighty or burdensome
+Follow the links and you’ll see each word covers a wide range of possible translations. All three verbs are used for God’s hardening of Pharaoh’s heart, but they are also used, just as often, for Pharaoh hardening his own heart.
 
-If you look at the link, you can see that there is a wide range of translations of these verbs. The hardening of the heart by God uses all three of these verbs, but there are many examples where Pharaoh also hardens his heart.
+That overlap is the key to the passage. Going through the examples, the pattern that emerges is this: God hardened Pharaoh’s heart not to force him into evil against his will, but so that Pharaoh would not simply give up the moment he saw God at work — so that he would have the strength to keep resisting God, which, as it turns out, he did again and again on his own.
 
-Take your time to go through the examples, but the idea is this: God hardened Pharaoh’s heart so that he would not give up when he saw God working, but would have the strength to resist God, which he used very often.
-
-Pharaoh’s active rule is revealed during the first devastating plague of the hail, where {{% bible val="he admitted that he had sinned" link="exo:9,27" lang="en" %}}, and {{% bible val="when the hail stopped he sinned again and hardened his heart" link="exo:9,34" lang="en" %}}.
+Pharaoh’s own agency in this is clearest during the devastating plague of hail, where he first {{% bible val="admitted that he had sinned" link="exo:9,27" lang="en" %}} — and then, the moment the hail stopped, {{% bible val="sinned again and hardened his own heart" link="exo:9,34" lang="en" %}}.
 

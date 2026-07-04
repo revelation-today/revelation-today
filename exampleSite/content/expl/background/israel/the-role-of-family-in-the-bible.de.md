@@ -10,95 +10,56 @@ docType: expl
 appl: /appl/background/israel
 ---
 
-Befürwortet die Bibel patriarchale Strukturen? Sagt sie, dass Frauen nicht gleichwertig sind? Ganz und gar nicht. Lass mich erklären, wie die Familie damals funktionierte.
+Unterstützt und fördert die Bibel patriarchale Strukturen? Lehrt sie, dass Frauen weniger zählen als Männer? Das Bild ist komplizierter als das — lass mich erklären, wie Familie in der antiken Kultur tatsächlich aussah und warum das für das Lesen der übrigen Schrift wichtig ist.
 
 ## Die Wichtigkeit der Familie
 
 <a name="7234"></a>
-Damals gab es kein richtiges Rechtssystem, keine Versicherungen, keine Renten. Alles wurde in der Familie geregelt, in der man lebte. Und die Familie entschied im Clan (je nach Bedeutung), der Clan im Stamm und der Stamm in der Nation.
+In der antiken Welt gab es kein echtes Rechtssystem, keine Versicherung, kein soziales Sicherungsnetz. Alles lief über die Familie, in die man hineingeboren wurde. Die Familie traf Entscheidungen innerhalb des Clans (gewichtet danach, wie bedeutend diese Familie war), der Clan agierte innerhalb des Stammes, und der Stamm innerhalb der Nation.
 
-Die Gesellschaft funktionierte von unten nach oben, mit der Familie als kleinster Einheit. Deshalb war es nicht nur wichtig, einer Familie anzugehören, sondern auch, welcher Familie man angehörte, welche Rolle man spielte, welches Geschlecht man hatte und ob man der Erstgeborene war.
+Die Gesellschaft war von unten nach oben aufgebaut, mit der Familie als ihrer kleinsten Einheit. Deshalb war es enorm wichtig, nicht nur, dass man einer Familie angehörte, sondern welcher Familie, welche Rolle man in ihr spielte, welches Geschlecht man hatte und welchen Platz man in der Geburtsreihenfolge einnahm.
 
-Dieses System wird in der Bibel heftig kritisiert, da es offensichtlich alle Menschen benachteiligt, die keine Familie haben (Witwen, Waisen) oder deren Familie wenig Einfluss hat. Es gibt sehr viele Beispiele, in denen Gott als Verteidiger der [Witwen](https://www.bibleserver.com/search/SLT/Witwen) und [Waisen](https://www.bibleserver.com/search/SLT/Waisen) auftritt und dies sogar zu einem {{% bible val="Schlüsselelement des Glaubens" link="jas:1,27" lang="de" %}} macht.
+Die Bibel übt an diesem System scharfe Kritik, denn es ließ Menschen offensichtlich ohne Sicherungsnetz zurück, sobald sie keine Familie hinter sich hatten — Witwen, Waisen und Familien mit geringem Ansehen. Deshalb zeigt die Schrift immer wieder, wie Gott als Verteidiger der [Witwen](https://www.bibleserver.com/search/SLT/Witwen) und Waisen einschreitet und die Fürsorge für sie sogar zu einem {{% bible val="Schlüsselelement des Glaubens" link="jas:1,27" lang="de" %}} macht.
 
-Gott hat auch wichtige Personen wie 
-- Könige aus unbedeutenden Familien erwählt 
-    - Rut, die halb Moabiterin und die Großmutter von König David war oder 
-- Ausländer ({{% bible val="wie die drei ausländischen Frauen im Stammbaum Jesu" link="mat:1,2-16" lang="de" %}}: 
-    - die {{% bible val="Kanaaniterin Tamar" link="gen:38" lang="de" %}}, 
-    - die {{% bible val="halb Moabiterin Rut" link="rut:1,1-4" lang="de" %}} und 
-    - {{% bible val="Bathseba, die Frau eines Hethiters" link="2sa:11,3" lang="de" %}}.
+Gott hat auch die Angewohnheit, wichtige Menschen — sogar Könige — gerade aus den Familien zu erwählen, die die Kultur übersehen hätte:
 
-Die Bibel hebt den Erlöser hervor ({{% bible val="der nächste Angehörige, der gerettet werden muss" link="lev:25,47-49" lang="de" %}}). Diese Person ist dafür verantwortlich, zu helfen, wenn ein Angehöriger in Schwierigkeiten gerät. Dies war
-- {{% bible val="aus der Gefangenschaft befreien" link="gen:14" lang="de" %}}
-- bezahlt, um die Person aus der Sklaverei zu befreien
-- {{% bible val="kauft Eigentum zurück" link="lev:25,25-26" lang="de" %}}
-- {{% bible val="heiraten, um aus der Not zu kommen" link="rut:4" lang="de" %}} oder {{% bible val="Nachkommenschaft für Witwe sichern" link="gen:38,8" lang="de" %}}
-- ...
+- {{% bible val="unbedeutende Familien" link="rut:4,16-17" lang="de" %}}: Rut war halb Moabiterin und wurde dennoch die Großmutter König Davids.
+- Ausländer ({{% bible val="man beachte die drei ausländischen Frauen im Stammbaum Jesu" link="mat:1,2-16" lang="de" %}}): die {{% bible val="Kanaaniterin Tamar" link="gen:38" lang="de" %}}, die {{% bible val="halb moabitische Rut" link="rut:1,1-4" lang="de" %}}, und {{% bible val="Bathseba" link="2sa:11,3" lang="de" %}}, die Frau eines Hethiters.
 
-Es ist eine Rolle, die {{% bible val="Gott übernommen hat" link="isa:44,24-28" lang="de" %}}, weil die Gesellschaft es oft versäumt hat, dies zu tun, was {{% bible val=" ein zentrales Thema im christlichen Glauben" link="eph:1,7" lang="de" %}} ist.
+Die Bibel legt auch Gewicht auf die Rolle des Lösers — {{% bible val="den nächsten Verwandten, der einen Angehörigen in Not retten muss" link="lev:25,47-49" lang="de" %}}. Diese Person war dafür verantwortlich, einzuschreiten, sobald ein naher Verwandter in ernsthafte Schwierigkeiten geriet: um {{% bible val="aus der Gefangenschaft zu befreien" link="gen:14" lang="de" %}}, um jemanden aus der Sklaverei freizukaufen, um {{% bible val="verkauften Besitz zurückzukaufen" link="lev:25,25-26" lang="de" %}}, oder um {{% bible val="durch Heirat aus der Not zu holen" link="rut:4" lang="de" %}} und {{% bible val="Nachkommenschaft für eine Witwe zu sichern" link="gen:38,8" lang="de" %}}.
+
+Es ist eine Rolle, die Gott selbst übernimmt: {{% bible val="Gott übernahm" link="isa:44,24-28" lang="de" %}} den Part des Lösers, gerade weil die menschliche Gesellschaft so oft versagte, ihn auszufüllen — und er wird zu {{% bible val="einem Schlüsselthema im christlichen Glauben" link="eph:1,7" lang="de" %}}.
 
 ## Der Patriarch
 
 <a name="75b9"></a>
-Die Familie besteht aus
+Die Familieneinheit bestand aus dem Patriarchen (dem ältesten männlichen Mitglied) und seiner Frau, ihren Söhnen und Töchtern sowie den Frauen und Kindern der Söhne. Eine solche Familie konnte drei Generationen umfassen und bis zu dreißig Personen zählen, die alle zusammen lebten und arbeiteten.
 
-- dem Patriarchen (ältester Mann) und seiner Frau,
-- ihren Söhnen und Töchtern,
-- den Frauen und Kindern der Söhne,
-- …
+Die Aufgabe des Patriarchen war es, die Familie finanziell zu unterstützen, Recht, Gerechtigkeit und Moral innerhalb der Familie durchzusetzen und sich um ihre benachteiligten Mitglieder in Krankheit, Krieg oder Hungersnot zu kümmern. In den extremsten Situationen — Hungersnot, erdrückende Schulden — musste der Patriarch sogar entscheiden, wer überlebte und wer nicht, wer in die Sklaverei ging und wer wieder freigekauft wurde.
 
-Eine Familie konnte bis zu drei Generationen und bis zu 30 Personen umfassen. Die Familie lebte und arbeitete gemeinsam.
+Wenn der Patriarch starb oder wenn die Familie zu groß wurde, um als eine Einheit zu funktionieren, teilte sie sich, und der älteste Mann in jeder der entstehenden Familien wurde der neue Patriarch. {{% bible val="Terach, der drei Söhne hatte: Haran, Abram und Nahor. Als Haran stirbt, hinterlässt er einen Sohn" link="gen:11,27-31" lang="de" %}}, um den sich {{% bible val="Abram kümmert" link="gen:12,1-4" lang="de" %}} — ein Beispiel dafür, wie das System wie vorgesehen funktionierte.
 
-Die Aufgaben des Familienoberhauptes waren
+Es war damals üblich, dass ein Mann mehrere Frauen nahm — oft, wenn die erste keine Söhne gebar —, aber die Bibel steht dieser Praxis durchweg kritisch gegenüber, da mehr als eine Frau zu haben fast immer Ärger verursachte. Das Muster reicht von {{% bible val="Lamech, der selbst schon Ärger war" link="gen:4,23-26" lang="de" %}}, über das {{% bible val="Drama, als Abraham mit seiner Magd Kinder bekam" link="gen:16" lang="de" %}}, den {{% bible val="Gebärkrieg der Frauen Jakobs" link="gen:30,1-24" lang="de" %}} und die Geschichte {{% bible val="Elkanas" link="1sa:1,1-7" lang="de" %}}, bis hin zu David mit seinen Söhnen von verschiedenen Frauen und {{% bible val="Salomo und seinem Niedergang" link="1ki:11,3" lang="de" %}}. Das Gesetz musste sogar für die daraus entstehende Spannung Regeln aufstellen, mit einem {{% bible val="Eingriff für den Fall, dass ein Mann zwei Frauen hat" link="deu:21,17" lang="de" %}}.
 
-- die Familie finanziell zu unterstützen
-- Recht, Gesetz und Moral durchzusetzen
-- sich um die Benachteiligten in der Familie zu kümmern (z.B. Kranke, in Zeiten von Krieg oder Hungersnot). In Extremsituationen (Hungersnot, Schulden, …) musste der Patriarch auch entscheiden, wer überlebt und wer nicht, wer in die Sklaverei verkauft und wer freigekauft wird.
-
-Wenn der Patriarch starb oder die Familie zu groß wurde, teilte sie sich und der älteste Mann jeder neuen Familie wurde der neue Patriarch.
-
-Ein Beispiel dafür ist die {{% bible val="Geschichte von Terach und seinen drei Söhnen Haran, Abram und Nahor. Als Haran stirbt" link="gen:11,27-31" lang="de" %}}, hinterlässt er einen {{% bible val="Sohn (Lot), den Abram wie seinen eigenen Sohn behandelt" link="gen:12,1-4" lang="de" %}}.
-
-Zu dieser Zeit war es üblich, mehrere Frauen zu haben (falls eine keine Söhne gebären konnte). Dies wird in der Bibel an mehreren Stellen in Frage gestellt
-
-- Es beginnt mit {{% bible val="Lamech, der ein Problem an sich ist" link="gen:4,23-26" lang="de" %}}.
-- Es geht weiter mit dem {{% bible val="Drama mit Abraham, der mit seiner Magd Kinder bekommt (in der Kultur akzeptiert)" link="gen:16" lang="de" %}},
-- der {{% bible val="Gebärkrieg von Jakobs Frauen" link="gen:30,1-24" lang="de" %}}
-- der Geschichte von {{% bible val="Elkana" link="1sa:1,1-7" lang="de" %}},
-- David und {{% bible val="seinen Söhne von verschiedenen Frauen" link="2sa:13" lang="de" %}},
-- {{% bible val="Salomo und seinem Fall" link="1ki:11,3" lang="de" %}},
-- bis hin zu {{% bible val="speziellen Interventionen für Männer mit mehreren Frauen" link="deu:21,17" lang="de" %}}.
-
-{{% bible val="Frauen durften nach der Bibel erben" link="num:36" lang="de" %}} und wurden ermutigt, {{% bible val="ein unabhängiges Geschäft zu führen, oder die Aufgaben eines Patriarchen zu übernehmen und dafür von ihren Ehemännern gelobt zu werden" link="pro:31,15-31" lang="de" %}}.
+Vor diesem Hintergrund ist es bemerkenswert, dass {{% bible val="Frauen nach dem Gesetz erben durften" link="num:36" lang="de" %}} und zu einem {{% bible val="eigenständigen Geschäft ermutigt wurden, sogar als Patriarchinnen auftraten und dafür von ihren Ehemännern gelobt wurden" link="pro:31,15-31" lang="de" %}}.
 
 ## Das Erbe
 
 <a name="50b0"></a>
-Der erstgeborene Sohn hat {{% bible val="gegenüber seinen Geschwistern ein leitende Rolle " link="gen:43,33" lang="de" %}}und bekam als potentielle Nachfolger seines Vaters den {{% bible val="doppelten Anteil am Erbe" link="deu:21,17" lang="de" %}}. Er musste so lernen, für die Familie zu sorgen, wenn sein Vater nicht mehr da war.
+Der erstgeborene Sohn hatte eine {{% bible val="führende Rolle unter seinen Geschwistern" link="gen:43,33" lang="de" %}} und {{% bible val="erhielt den doppelten Erbanteil" link="deu:21,17" lang="de" %}}, da er der voraussichtliche Nachfolger seines Vaters war und im Grunde von früh an darauf vorbereitet werden musste, sich um die ganze Familie zu kümmern, sobald sein Vater nicht mehr da war.
 
-Ein Beispiel ist {{% bible val="Ruben, der als ältester Sohn" link="exo:6,14" lang="de" %}} sehr {{% bible val="besorgt war, als Josef verschollen ist" link="gen:37,21-30" lang="de" %}} und {{% bible val="bot seinen Sohn als Pfand für seine Familie" link="gen:42,37" lang="de" %}}.
+{{% bible val="Ruben, der als ältester Sohn" link="exo:6,14" lang="de" %}} diese Verantwortung sichtbar macht: Er war {{% bible val="sehr beunruhigt, als Josef verloren ging" link="gen:37,21-30" lang="de" %}}, und {{% bible val="verpfändete später seinen eigenen Sohn für seine Familie" link="gen:42,37" lang="de" %}} als Sicherheit.
 
-Aber der älteste Sohn ist nicht immer der beste Leiter und so unterbrach Gott dieses Schema selbst bei {{% bible val="Jakob" link="gen:25,25-26" lang="de" %}}, {{% bible val="Manasse" link="gen:48,13-20" lang="de" %}} oder {{% bible val="David" link="1sa:16,1-13" lang="de" %}}.
+Aber der älteste Sohn war nicht immer der beste Leiter für eine Familie, und Gott durchbricht wiederholt die erwartete Ordnung — bei {{% bible val="Jakob" link="gen:25,25-26" lang="de" %}}, {{% bible val="Manasse" link="gen:48,13-20" lang="de" %}} und {{% bible val="David" link="1sa:16,1-13" lang="de" %}}, die alle einen älteren Bruder verdrängen.
 
-Eine schwierige Situation war die Situation der Frau, denn sie gehörte zur
-
-- Familie ihres Vaters,
-- Wird Ehefrau und wird Teil der Familie ihres Mannes,
-- Wird durch ihre Söhne versorgt, nachdem ihr Mann stirbt und sie zu deren Familie gehört.
-
-Die Bibel zeigt eine Frau, die {{% bible val="durch dieses Netz gefallen ist" link="rut:1,1-5" lang="de" %}} und {{% bible val="durch ihren Erlöser Boas gerettet wurde" link="rut:4" lang="de" %}}.
-
-Ein anderer Fall ist {{% bible val="Tamar, die für gerecht erklärt wurde, weil Juda sie nicht versorgt hat und ihr einen Ehemann gegeben hat, damit sie durch eine Familie beschützt wird" link="gen:38,26" lang="de" %}}.
+Eine Frau hingegen befand sich in einer wirklich prekären Lage: Sie gehörte zunächst zur Familie ihres Vaters, wurde dann Ehefrau und trat der Familie ihres Mannes bei, und wurde schließlich nach dem Tod ihres Mannes von ihren Söhnen innerhalb einer von deren Familien versorgt. Die Bibel {{% bible val="zeigt eine Frau, die durch all diese Netze fiel" link="rut:1,1-5" lang="de" %}} — Rut — und dennoch {{% bible val="von ihrem Löser Boas aufgefangen wurde" link="rut:4" lang="de" %}}. Tamar ist ein weiterer solcher Fall: {{% bible val="Tamar, die für gerecht erklärt wird, weil Juda ihr keinen Ehemann gab, der sie durch eine Familie beschützt hätte" link="deu:24,19-21" lang="de" %}}.
 
 ## Das Land
 
 <a name="5938"></a>
-Das Land war die Lebensgrundlage der Familie. Das Land wurde vom Vater an den Sohn weitergegeben.
-
-Wenn eine Familie ihr Land verkaufen müßte, wären sie ruiniert, also sicherte die Bibel zu, dass {{% bible val="das Land zurückgegeben wird" link="lev:25,10" lang="de" %}}.
+Land war die Ressource, von der eine Familie lebte, und es ging vom Vater auf den Sohn über. Es zu verlieren bedeutete Ruin, weshalb die Bibel eine Schutzmaßnahme einbaut: Das {{% bible val="Land wird zur festgesetzten Zeit zurückgegeben" link="lev:25,10" lang="de" %}}, damit der Verlust einer Familie nicht dauerhaft wird.
 
 ## Gott und die Familie
 
 <a name="26ef"></a>
-Gott wird als Vater dargestellt, Jesus als Erstgeborener, der sich um seine Geschwister kümmert, und er gibt ein {{% bible val="Haus mit vielen Zimmern" link="jhn:14,1-3" lang="de" %}}, damit alle zusammen wohnen können.
+Dieses ganze Bild wird zur Linse, durch die die Bibel von Gott spricht: Er wird als Vater dargestellt, Jesus als der Erstgeborene, der sich um die anderen kümmert, und er {{% bible val="gibt ein Haus mit vielen Wohnungen" link="jhn:14,1-3" lang="de" %}}, damit wir alle zusammen leben können.

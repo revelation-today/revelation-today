@@ -4,9 +4,8 @@ title: "Worship (Ch.4-5)"
 weight: 3
 ---
 
-Worship is a key topic in the Book of Revelation, and it sets the scene for the start of the series of seals, trumpets and bowls.
+Worship is a key topic in the Book of Revelation, setting the scene for the whole series of seals, trumpets, and bowls that follows.
 
-Worship is a central theme of the book and as all the plagues origin from the place of worship, it impacts the nature of these "plagues". 
-They are dispensed with mercy and passion, and will revealmore about this during the further study of the book.
+It's a central theme of the book: because all the plagues originate from the place of worship, that origin shapes the very nature of these "plagues." They are dispensed with mercy and compassion, as we'll see in more depth as we work through the book.
 
-Worship is also the place where the struggling churches find the answer and strength to face their battles.
+Worship is also where the struggling churches find the answer and the strength to face their battles.

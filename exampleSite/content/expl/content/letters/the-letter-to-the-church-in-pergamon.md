@@ -17,52 +17,42 @@ sources:
       ref: fee_rev
 ---
 
-This church is about to fail and, although it seems to be because of Balaam, he is not really the problem.
+This church is on the verge of failing, and although it looks like Balaam is to blame, he isn't really the problem.
 
 {{% bible val="The church in Pergamon" link="rev:2,12-17" lang="en" %}}
 
 ## The historical background
 
 <a name="1d2e"></a>
-Pergamon was an important city four centuries before the Book of Revelation was written. The city was built on a rock about 20 km from the sea.
+Pergamon was already an important city four centuries before Revelation was written. It was built on a rock outcropping about 20 km from the sea.
 
-For a long time, the city was the seat of the Attides, who were a leading power in the area. The last ruler made this city a gift to the Roman Emperor. 
-In 29 B.C. a temple was built in honor of the Emperor, and shortly afterwards another temple was built for another Emperor. 
-So, this city was certainly in the good books of the Emperors and didn’t want to lose this important privileged position.
+For a long time, the city was the seat of the Attalid dynasty, a leading power in the region. When the last Attalid ruler died, he willed the city to the Roman Emperor. In 29 BC, a temple was built there in the emperor's honor, and shortly afterward another temple went up for a second emperor. Pergamon was, in other words, solidly in the emperors' good graces — and had no intention of losing that privileged position.
 
-There were also many other temples in Pergamon - dedicated to Zeus, Athena, Dionysis and Asclepius.
+The city was also home to many other temples, dedicated to Zeus, Athena, Dionysus, and Asclepius.
 
-## Jesus’ view
+## Jesus' view
 
 <a name="84e8"></a>
-Jesus knows that this church has a hard life, and he approaches them {{% bible val="with a very sharp sword to separate" link="rev:2,12" lang="en" %}} (godly teachings from falsehoods).
+Jesus knows this church has a hard life, and he approaches them {{% bible val="wielding a very sharp sword" link="rev:2,12" lang="en" %}} — the instrument for separating godly teaching from falsehood.
 
-Jesus calls this place: “{{% bible val="where the Satan dwells and has his throne" link="rev:2,13" lang="en" %}}”. He is probably referring to all the temples in Pergamon. The church was doing well. 
-They endured and did not renounce His name — which shows how hard it was to live there — even to the point of martyrdom. Their situation is comparable to Smyrna, or worse.
+He calls Pergamon the place "{{% bible val="where Satan dwells and has his throne" link="rev:2,13" lang="en" %}}," almost certainly a reference to the sheer density of temples in the city. And by that measure, the church has been doing well: they endured and did not renounce Jesus' name, even to the point of martyrdom — a fact that shows just how hard it was to live there as a Christian. Their situation is comparable to Smyrna's, if not worse.
 
-But there is one thing that breaks them: {{% bible val="Balaam and the Nikolaitans" link="rev:2,14-15" lang="en" %}} - or is it some other problem?
+Yet one thing is breaking them from within: {{% bible val="Balaam and the Nicolaitans" link="rev:2,14-15" lang="en" %}}. Or is the real problem something else?
 
 ## The problem
 
 <a name="607a"></a>
-The {{% int_link val="story of Balaam shows the failure of an in consistent leadership" link="/expl/bible/keyword/the-story-of-balaam" %}}. There is probably a similar problem with the Nicolaitans.
+The {{% int_link val="story of Balaam shows the failure of inconsistent leadership" link="/expl/bible/keyword/the-story-of-balaam" %}}, and the Nicolaitans likely represent a similar failure. In both cases, the church's leadership has shown no strong commitment against false doctrine.
 
-There is no strong commitment from the leadership regarding false doctrine. 
-An examination of the promise that Jesus offers indicates that they lack faith and keep searching for comforting teachings, which probably has led them to compromising their faith.
-
-And since every doctrine has an effect on our actions, these teaching also have an effect on their behavior and witness. 
-Perhaps the false teaching encourages the joint dinners dedicated to idols.
+A close look at the promise Jesus offers this church suggests why: they lack faith, and keep searching instead for teaching that comforts rather than confronts — a habit that has probably led them into compromising their faith. Since every doctrine shapes behavior, this loose teaching has consequences for how they live and what they witness to. It may well be what has encouraged the very thing at issue here: joint dinners dedicated to idols.
 
 ## The solution
 
 <a name="72a9"></a>
-The faithful will receive hidden {{% bible val="manna" link="deu:8,16" lang="en" %}}. God provides the supernatural, so we must trust Him even when things seem hopeless.
+The faithful are promised hidden {{% bible val="manna" link="deu:8,16" lang="en" %}} — a reminder that God provides the supernatural, and that we must trust him even when circumstances look hopeless.
 
-They will receive a white stone with a new name. A white stone can have two meanings:
+They are also promised a white stone bearing a new name. A white stone carried two possible meanings in that world: it was used {{% bible val="in court, to cast a vote of acquittal" link="act:26,10" lang="en" %}} — fitting, since these believers would need to be cleared of the charge of joining idol feasts before they could take part in the {{% bible val="marriage supper of the Lamb" link="rev:19,9" lang="en" %}} — and it could also serve as a pass granting entry, perhaps to that same wedding supper.
 
-- It was used in {{% bible val="court to vote" link="act:26,10" lang="en" %}}, A white stone would indicate innocence (e.g., from being accused of attending meals dedicated to idols) and would enable them to attend the {{% bible val="marriage supper of the Lamb" link="rev:19,9" lang="en" %}}.
-- It was used as a pass for entry (perhaps to the marriage supper of the Lamb).
+A new name, in Scripture, is usually tied to a {{% bible val="new identity" link="gen:17,5" lang="en" %}}, and knowing that name signals an intimate relationship between the person and God.
 
-A new name is usually associated with a {{% bible val="new identity" link="gen:17,5" lang="en" %}}, and knowing the new name indicates an intimate relationship between these people and God.
-
-God offers the church a new beginning if the church wants it. But {{% bible val="if they decide not to take it, Jesus will fight against them" link="rev:2,16" lang="en" %}}.
+God is offering this church a genuine new beginning, if they want it. But {{% bible val="if they refuse it, Jesus will fight against them" link="rev:2,16" lang="en" %}}.

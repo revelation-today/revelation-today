@@ -12,211 +12,226 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-Bagaimana para pembaca pertama membaca Kitab Wahyu? Tidak ada judul atau paragraf, hanya teks. Mari kita lihat cara membaca yang sama sekali berbeda ini.
+Bagaimana sebenarnya para pembaca pertama membaca Kitab Wahyu? Tidak ada judul, tidak ada pemisah paragraf, tidak ada pasal atau ayat — hanya rangkaian teks yang mengalir tanpa henti. Mari kita lihat cara membaca yang sangat berbeda ini, dan apa artinya bagi cara kita mempelajari kitab ini sekarang.
 
 ## Pengantar
 
 <a name="a0ab"></a>
-Sastra Ibrani sangat berbeda dari sastra kita. Sastra itu tidak memiliki pasal atau ayat, melainkan huruf-huruf yang tersusun dalam baris-baris dengan sangat sedikit petunjuk grafis atau visual, karena teks-teks itu lebih sering dibacakan (didengarkan) daripada dilihat.
+Sastra Ibrani bekerja dengan cara yang sangat berbeda dari sastra kita. Sastra itu tidak memiliki pasal atau ayat, hanya huruf-huruf yang tersusun dalam baris-baris dengan sangat sedikit petunjuk grafis atau visual, karena teks itu dimaksudkan untuk dibacakan dan didengar, bukan dipindai dengan mata di atas halaman.
 
-Ada petunjuk-petunjuk yang menunjukkan di mana sebuah kisah dimulai dan berakhir, bagaimana kisah-kisah itu saling berhubungan dan tersusun, dan di mana letak titik beratnya. Tetapi bahkan pemutusan sebuah struktur semacam itu juga dapat memberikan sinyal kepada pembaca. Kita mendapatkan pemahaman yang jauh lebih menyeluruh jika kita mempelajari dan memahami struktur-struktur ini, tetapi kita tidak boleh memaksakannya, sehingga kita melihat sebuah struktur padahal penulisnya tidak memaksudkannya demikian.
+Meski begitu, teks tersebut membawa petunjuk-petunjuk tentang di mana sebuah kisah dimulai dan berakhir, bagaimana kisah-kisah itu saling berhubungan dan tersusun, dan di mana letak penekanannya — bahkan sebuah jeda yang disengaja dalam struktur itu pun dapat memberi sinyal kepada pembaca. Belajar mengenali struktur-struktur ini memberi kita pemahaman yang jauh lebih kaya tentang teks, tetapi kita harus berhati-hati agar tidak memaksakan pola pada bagian-bagian yang sebenarnya tidak dimaksudkan demikian oleh penulisnya.
 
 ## Langkah-Langkah Awal
 
 <a name="ec8b"></a>
-Untuk memahami sastra semacam ini, akan membantu jika kita mengikuti tiga langkah berikut:
+Untuk membaca jenis sastra ini dengan baik, akan membantu jika kita mengikuti tiga langkah berikut.
 
-1. mengenali satuan (unit)nya
+1. Mengenali satuannya (unit).
 
-- Satuan-satuan ini dapat berupa kata atau satuan teks yang lebih besar.
-- Hal ini bahkan terjadi secara berjenjang, karena otak manusia tidak dapat menangani terlalu banyak satuan kecil. Karena itu biasanya satuan-satuan ini dibagi menjadi 3 sampai 9 bagian dan kemudian digabungkan menjadi satu satuan yang lebih besar.
+    - Satuan dapat terjadi pada tingkat satu kata saja atau mencakup blok teks yang jauh lebih besar.
+    - Hal ini terjadi dalam skala bertingkat, karena otak manusia tidak dapat melacak terlalu banyak satuan kecil sekaligus — sehingga satuan-satuan itu biasanya dikelompokkan menjadi set berisi 3 sampai 9, yang kemudian dikumpulkan menjadi sebuah "satuan super" yang lebih besar.
 
-2. menganalisis susunan satuan-satuan ini
+2. Menganalisis bagaimana satuan-satuan ini disusun.
 
-- dapat berupa pengulangan, paralel, atau nonlinear
+    - Susunannya bisa berulang, paralel, atau nonlinear.
 
-3. memperhatikan hubungan antara struktur dan maknanya
+3. Mempertimbangkan bagaimana struktur itu berkaitan dengan makna.
 
-- menunjukkan di mana letak titik berat penulis
-- dalam struktur simetris, titik berat sering kali berada di tengah
-- perpaduan antara paralel dan pertentangan dalam sebuah struktur juga dapat digunakan untuk memberi penekanan
-- gangguan dalam alur juga dapat menarik perhatian
+    - Struktur menunjukkan di mana letak fokus penulis.
+    - Dalam struktur simetris, penekanan biasanya berada di tengah.
+    - Perpaduan antara paralelisme dan pertentangan dalam sebuah struktur juga dapat digunakan untuk memberi penekanan.
+    - Jeda dalam alur juga dapat menarik perhatian pembaca.
 
 ## Mengenali Satuan-Satuan
 
 <a name="2cdd"></a>
-Langkah pertama adalah mengenali satuan-satuannya. Ini terdiri atas tiga bagian: penanda awal, penanda akhir, dan kemandirian.
+Langkah pertama, yaitu mengenali satuan itu sendiri, terbagi menjadi tiga bagian: penanda awal, penanda akhir, dan kemandirian.
 
-Penanda awal juga dapat digabungkan:
+Penanda awal dapat muncul sendiri atau dalam kombinasi:
 
-- judul
-- kalimat pengantar ("Inilah keturunan-keturunan")
-- rumus pembuka yang lazim ("dengarlah", "beginilah firman Tuhan")
-- pertanyaan retoris
-- perubahan waktu, tempat, tokoh atau pembicara, tema, genre, tempo alur cerita, kala (tense), atau suasana
+- sebuah judul,
+- sebuah kalimat pengantar ("inilah keturunan-keturunan"),
+- rumus pembuka yang lazim ("dengarlah," "beginilah firman TUHAN"),
+- sebuah pertanyaan retoris,
+- pergeseran waktu, tempat, tokoh atau pembicara, tema, genre, tempo, kala (tense), atau suasana.
 
-Penanda akhir dapat berupa
+Penanda akhir dapat mencakup:
 
-- rumus penutup
-- refrein puitis
-- kesimpulan atau ringkasan
-- kilas balik
+- sebuah rumus penutup,
+- sebuah refrein puitis,
+- sebuah kesimpulan atau ringkasan,
+- sebuah kilas balik.
 
-Satuan sebagai sebuah kesatuan yang mandiri, utuh dalam dirinya, dan lengkap
+Sebuah satuan juga harus berfungsi sebagai sebuah kesatuan yang mandiri, utuh dalam dirinya, dan lengkap, yang ditandai oleh:
 
-- keseragaman dalam hal waktu, tempat, pelaku, tema, genre, tempo alur cerita, ...
-- mudah dikenali oleh pembaca/pendengar
-- keserasian isi
-- cakupan: biasanya 15–20 halaman (besar), atau satu pasal dalam Alkitab (sedang), atau satu kalimat atau beberapa paragraf (kecil)
-- biasanya 7 atau 13, 14 satuan, tetapi 3 atau 5 juga mungkin
+- keunikan dalam hal waktu, tempat, pelaku, tema, genre, atau kecepatan tindakan,
+- mudah diakses oleh audiens,
+- keserasian internal isinya,
+- ukuran yang konsisten — biasanya 15–20 halaman (besar), satu pasal Alkitab (sedang), atau satu kalimat hingga beberapa paragraf (kecil),
+- jumlah yang lazim yaitu 7 atau 13–14 satuan, meskipun 3 atau 5 juga mungkin.
 
 ## Susunan Satuan-Satuan
 
 <a name="a88d"></a>
-Ada tiga jenis yang dapat dikombinasikan:
+Ada tiga jenis dasar susunan, dan semuanya juga dapat dikombinasikan:
 
-- linear (a-b-c-d-e-f)
-- paralel (a-b-c-a'-b'-c')
-- simetris (a-b-c-'b'-a')
+- linear (a-b-c-d-e-f),
+- paralel (a-b-c-a'-b'-c'),
+- simetris (a-b-c-'b'-a').
 
 Banyak kombinasi yang mungkin:
 
-- a-b-c-d-e-a' menggabungkan pola linear dan simetris, seperti sebuah pidato yang dimulai dengan sebuah asumsi dan diakhiri dengan ringkasan yang membuktikan asumsi itu.
-- a-b-c-d-'b'-c'-a' adalah sebuah simetri yang dimodifikasi, gabungan dari pola simetris dan paralel, dan akan mengarahkan perhatian pembaca pada peralihan b'-c'.
-- a-a'-b-b'-c-c'-d-d' menggabungkan pola linear dan paralel dan dapat, misalnya, menceritakan kisah-kisah paralel tetapi berbeda seperti Kej.38/2–50/26. Kisah yang sama dapat dilihat dalam skema yang berbeda-beda, misalnya Kej.37/2–50/26 dapat dilihat sebagai a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a' atau a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
+- a-b-c-d-e-a' menggabungkan pola linear dan simetris — seperti sebuah kalimat yang dibuka dengan sebuah asumsi dan ditutup dengan ringkasan yang membuktikan asumsi itu.
+- a-b-c-d-'b'-c'-a' adalah sebuah simetri yang dimodifikasi, memadukan pola simetris dan paralel, yang secara khusus mengarahkan perhatian pembaca pada peralihan b'-c'.
+- a-a'-b-b'-c-c'-d-d' menggabungkan pola linear dan paralel dan dapat menceritakan kisah-kisah yang paralel tetapi berbeda, seperti dalam Kej.38/2–50/26.
 
-## Pola Linear
+Kisah yang sama bahkan dapat dibaca dalam lebih dari satu pola sekaligus. Kej.37/2–50/26, misalnya, dapat dibaca sebagai a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a', atau sama validnya sebagai a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
+
+### Pola Linear
 
 <a name="82c0"></a>
-Pola ini mudah dikenali. Pola ini dapat berupa
+Pola linear adalah yang paling mudah diikuti. Pola ini dapat berupa:
 
-- kronologis, seperti kisah-kisah dengan tumpang tindih dalam garis waktu, kilas balik, atau kurung waktu lainnya
-- non-kronologis, misalnya berdasarkan ruang (utara, timur, selatan, barat) atau disusun menurut abjad.
+- kronologis — kisah-kisah dengan sedikit tumpang tindih dalam garis waktu, sebuah kilas balik, atau perangkat pembingkaian lainnya, atau
+- non-kronologis — disusun secara spasial (utara, timur, selatan, barat), berdasarkan pengelompokan, atau menurut abjad.
 
-## Pola Paralel
+### Pola Paralel
 
 <a name="c1a5"></a>
-Pola ini dapat disusun sebagai a-b-c-a'-b'-c', di mana setiap x' memiliki tema, struktur, dsb. yang serupa dengan x, misalnya Mzm.19/1–2 a: langit b: menceritakan c: kemuliaan Allah a': langit b': memberitakan c': karya tangan-Nya.
+Pola paralel mengikuti skema seperti a-b-c-a'-b'-c', di mana setiap x' memiliki tema atau struktur yang serupa dengan x yang bersesuaian. Perhatikan Mzm.19/1–2:
 
-Bisa saja ada bagian-bagian yang tidak sesuai dengan pola, dapat berada di akhir (a-b-c-a'-b'-c', d), di tengah (a-b-c-d-a'-b'-c'), atau jarang di awal (a-b-c-d-a'-b'-c').
+- a: langit
+- b: menceritakan
+- c: kemuliaan Allah
+- a': langit
+- b': memberitakan
+- c': karya tangan-Nya
 
-Pola paralel mungkin tidak begitu mudah dikenali, tetapi memberikan sebuah titik kepuasan dan antisipasi. Contohnya adalah pada dongeng-dongeng seperti kisah tiga babi kecil (pada rumah kedua kita mengira sudah mengenali polanya, dan pengarang dapat mengejutkan kita pada rumah ketiga, yang memberi kita sebuah pelajaran).
+Beberapa bagian mungkin sama sekali tidak sesuai dengan pola — bagian itu bisa muncul di akhir (a-b-c-a'-b'-c', d), berada di tengah (a-b-c-d-a'-b'-c'), atau, lebih jarang, muncul di awal (a-b-c-d-a'-b'-c').
 
-Pola paralel memudahkan daya ingat dan dapat memperkenalkan perbandingan, kontras, penekanan, penjelasan, ilustrasi.
+Pola paralel tidak selalu mudah dikenali, tetapi menciptakan rasa antisipasi dan kepuasan yang nyata begitu dikenali. Kita melihat efek yang sama dalam dongeng-dongeng seperti Tiga Babi Kecil: pada rumah kedua kita mengira sudah mempelajari polanya, dan pengarang kemudian dapat mengejutkan kita pada rumah ketiga, tempat ia menyampaikan pelajarannya.
 
-Contoh: Yunus
+Sebuah pola paralel:
 
-- a: <span style="background:green">tugas Yunus</span> dan <span style="background:red">ketidaktaatannya</span> (1/1–3)
-	- b: <span style="background:green">Yunus dan para pelaut</span> <span style="background:red">kafir</span>: <span style="background:green">TUHAN itu murah hati</span> (1/4–16)
-		- c: <span style="background:green">tanggapan Yunus atas belas kasihan TUHAN</span>: <span style="background:red">puji-pujian</span> (1/17–2/10)
-- a': <span style="background:green">tugas Yunus yang kedua</span> dan <span style="background:red">ketaatannya</span> (3/1–3a)
-	- b': <span style="background:green">Yunus dan orang-orang</span> <span style="background:red">Niniwe yang kafir</span>: <span style="background:green">TUHAN itu murah hati</span> (3/3b-10)
-		- c': <span style="background:green">tanggapan Yunus atas belas kasihan TUHAN</span>: <span style="background:red">kejengkelan</span> (4/1–4)
+- membuat materi lebih mudah diingat,
+- dan dapat memperkenalkan perbandingan, kontras, penekanan, penjelasan, atau ilustrasi.
+
+Ambil Yunus sebagai contoh. Dalam tabel-tabel di bawah ini, **tebal** menandai satu tema yang berulang dan *miring* menandai pasangannya, sehingga Anda dapat menelusuri bagaimana setiap unsur pada paruh pertama dijawab oleh padanannya pada paruh kedua:
+
+- a: **tugas** Yunus dan *ketidaktaatannya* (1/1–3)
+	- b: Yunus dan *para pelaut kafir*: **TUHAN itu murah hati** (1/4–16)
+		- c: **tanggapan Yunus atas belas kasihan TUHAN**: *puji-pujian* (1/17–2/10)
+- a': **penugasan kembali** Yunus dan *ketaatannya* (3/1–3a)
+	- b': Yunus dan *orang-orang Niniwe yang kafir*: **TUHAN itu murah hati** (3/3b-10)
+		- c': **tanggapan Yunus atas belas kasihan TUHAN**: *kejengkelan* (4/1–4)
 - d: pelajaran dari TUHAN (4/5–11)
 
-Struktur ini memberikan kesan bahwa doa Yunus yang pertama bersifat munafik dan doa keduanya bersifat egois, tetapi susunan kisah ini dapat menyampaikan hal tersebut melalui strukturnya, tanpa harus bersifat menggurui.
+Struktur ini meninggalkan kesan bahwa doa Yunus yang pertama bersifat munafik dan doa keduanya bersifat egois — sebuah penilaian yang tidak pernah dinyatakan secara langsung oleh kisah ini, tetapi disampaikan sepenuhnya melalui susunannya sendiri, tanpa pernah bersifat menggurui.
 
-## Pola Simetris
+### Pola Simetris
 
 <a name="1bc4"></a>
-Ini adalah pola seperti a-b-b'-a', misalnya Yes.22/22 (jika kita perhatikan kata "membuka/menutup")
+Pola ini mengikuti skema seperti a-b-b'-a', seperti dalam {{% bible val="Yes.22/22" link="isa:22,22" lang="ind" %}}, yang bermain dengan gagasan "membuka/menutup":
 
 - a: ia akan membuka
 	- b: dan tidak seorang pun akan menutup
 	- b': ia akan menutup
 - a': dan tidak seorang pun akan membuka
 
-Pola ini memiliki bentuk seperti bagian kiri huruf X (dalam bahasa Yunani ini adalah huruf Chi). Pola semacam ini disebut kiasme (chiasmus).
+Jika digambarkan, pola ini membentuk separuh kiri dari huruf X — huruf Yunani Chi — itulah sebabnya pola semacam ini disebut kiasme (chiasmus).
 
-Pola ini juga dapat diterapkan pada seluruh kitab dalam Alkitab, misalnya Hakim-Hakim 3/7–16/31
+Teknik yang sama dapat membentuk seluruh kitab dalam Alkitab, seperti dalam {{% bible val="Hak.3/7–16/31" link="jdg:3,7-16,31" lang="ind" %}}. Di sini juga, **tebal** menandai satu tema yang berulang dan *miring* menandai pasangannya, sehingga Anda dapat melihat bagaimana satuan-satuan luar saling menjawab di sekitar titik balik pusatnya:
 
-- a: Otniel dan <span style="background:green">istrinya</span> yang <span style="background:red">baik</span> (3/7–11)
-	- b: Ehud dan <span style="background:red">kemenangan</span> di <span style="background:green">tempat-tempat penyeberangan Sungai Yordan</span> (3/12–31)
-		- c: Debora: <span style="background:green">tengkorak</span> <span style="background:red">musuh</span> <span style="background:green">diremukkan oleh seorang perempuan</span> (4/1–5/31)
+- a: Otniel dan **istrinya** yang *baik* (3/7–11)
+	- b: Ehud dan *kemenangan* di **tempat-tempat penyeberangan Sungai Yordan** (3/12–31)
+		- c: Debora: **tengkorak** *musuh* **diremukkan oleh seorang perempuan** (4/1–5/31)
 			- d: Gideon: titik balik (6/1–8/32)
-		- c': Abimelekh: <span style="background:green">tengkorak</span> <span style="background:red">seorang hakim</span> <span style="background:green">diremukkan oleh seorang perempuan</span> (8/33–10/5)
-	- b': Yefta dan <span style="background:red">perang saudara</span> di <span style="background:green">tempat-tempat penyeberangan Sungai Yordan</span> (10/6–12/15)
-- a': Simson dan <span style="background:green">istri-istrinya</span> yang <span style="background:red">jahat</span> (13/1–16/31)
+		- c': Abimelekh: **tengkorak** *seorang hakim* **diremukkan oleh seorang perempuan** (8/33–10/5)
+	- b': Yefta dan *perang saudara* di **tempat-tempat penyeberangan Sungai Yordan** (10/6–12/15)
+- a': Simson dan **istri-istrinya** yang *jahat* (13/1–16/31)
 
-Cara ini memiliki beberapa kelebihan:
+Pendekatan simetris semacam ini memiliki beberapa keuntungan nyata:
 
-- Keindahan: kualitas estetis dari sebuah penyajian yang seimbang
-- Koherensi: simetri memperkuat kesatuan
-- Kelengkapan: pembaca/pendengar melihat kapan lingkaran itu tertutup
-- Poros yang berlawanan arah: pada jumlah satuan yang ganjil (lihat di atas), ada sebuah poros yang menjadi tujuan kedua sisi, sehingga menjadikannya titik fokus yang alami. Dalam contoh di atas, kisah Gideon adalah titik baliknya.
-- Bantuan ingatan: para pendengar dapat lebih mudah mengingat butir-butir yang berurutan (biasanya mereka menghafalkannya). Kesempatan untuk menggunakan pengulangan: menambahkan peluang untuk membandingkan, mengulang, menekankan, menjelaskan, atau menggambarkan.
+- **Keindahan** — kualitas estetis dari sebuah penyajian yang seimbang.
+- **Koherensi** — simetri memperkuat kesatuan keseluruhan.
+- **Kelengkapan** — audiens merasakan struktur itu mengerucut dan menutup lingkarannya.
+- **Poros tandingan** — ketika jumlah satuannya ganjil, seperti di atas, muncul sebuah titik balik alami yang menjadi condongan kedua sisi. Dalam contoh Kitab Hakim-Hakim, kisah Gideon adalah titik fokus itu.
+- **Bantuan ingatan** — audiens dapat lebih mudah mengingat butir-butir yang berurutan, bahkan sering kali cukup untuk menghafal seluruh rangkaiannya.
+- **Peluang untuk pengulangan** — membandingkan, mengontraskan, mengulang, menekankan, menjelaskan, atau menggambarkan menjadi lebih mudah.
 
-Cara ini juga memiliki kekurangan:
+Ada juga biayanya:
 
-- Menuntut lebih banyak dari pembaca/pendengar untuk dapat mengenalinya.
-- Membutuhkan lebih banyak usaha dari penulis.
+- pola ini menuntut lebih banyak dari audiens untuk mengenalinya,
+- dan menuntut lebih banyak usaha dari penulis untuk menyusunnya.
 
-Meskipun ada kekurangan-kekurangan ini, bentuk simetris sangat dihargai pada zaman kuno.
+Meski begitu, bentuk simetris sangat dihargai di dunia kuno, terlepas dari biaya tersebut.
 
 ## Memahami Struktur-Struktur
 
 <a name="a6b0"></a>
-Struktur teks memiliki pengaruh besar terhadap makna, misalnya ketika sebuah teks tidak dimaksudkan untuk secara eksplisit menggurui, melainkan mendidik, seperti dalam kisah tiga babi kecil. Ada tiga cara utama untuk menyampaikan makna melalui struktur:
+Struktur sebuah teks sering kali membawa sebagian besar maknanya — terutama ketika teks itu tidak dimaksudkan untuk menyatakan maksudnya secara eksplisit, melainkan untuk memberi dampak, seperti cara kisah tiga babi kecil bekerja pada para pendengarnya.
 
-- struktur keseluruhan komposisi
-- pengulangan yang terstruktur
-- posisi penekanan
+Ada tiga cara utama sebuah struktur dapat menyampaikan makna:
 
-## Struktur Umum
+- struktur komposisi keseluruhan,
+- pengulangan yang terstruktur,
+- dan posisi penekanan.
+
+### Struktur Umum
 
 <a name="9c94"></a>
-Struktur keseluruhan dapat menyampaikan pesan penulis.
+Struktur keseluruhan sebuah bagian dapat membawa pesan penulis dengan sendirinya — bentuk keseluruhannya menjadi bagian dari apa yang sedang disampaikan.
 
-## Pengulangan yang Terstruktur
+### Pengulangan yang Terstruktur
 
 <a name="5820"></a>
-Tidak semua struktur digunakan untuk menunjukkan sebuah makna, kadang-kadang hal itu hanya untuk keindahan artistik semata, misalnya
+Tidak setiap pengulangan struktural ada di sana untuk menyampaikan makna; kadang-kadang pengulangan itu ada semata-mata untuk keindahan artistik. Tiga jenis umum berikut memenuhi fungsi dekoratif itu:
 
-- struktural: membantu menciptakan sebuah skema struktural dari komposisi, misalnya penyebutan ketiga putra Nuh sebelum dan sesudah air bah (Kej.6/9–10 dan 9/18–19) menciptakan keseimbangan dan merangkum kisah itu.
-- elaborasi: satuan kedua dari sepasang satuan yang berkaitan mengembangkan tema lebih jauh, misalnya Kej.28/6–9 memperkenalkan istri Esau, sementara Kej.36 menggambarkan sisa keluarga Esau.
-- perspektif kedua: mengangkat kembali satuan pertama dari sudut pandang yang berbeda atau merangkumnya, misalnya penyeberangan Sungai Yordan dari dua sudut pandang (Yos.3,9–17: dari timur penyeberangan dimulai dan diselesaikan; Yos.4,10–13: dari barat penyeberangan berlangsung dan diselesaikan).
+- **Struktural** — membantu membangun kerangka bagi komposisi. Menyebutkan ketiga putra Nuh baik sebelum maupun sesudah air bah (Kej.6/9–10 dan 9/18–19), misalnya, menciptakan keseimbangan dan mengapit kisah itu.
+- **Elaborasi** — satuan kedua dalam sepasang satuan mengembangkan tema lebih jauh. Kej.28/6–9 memperkenalkan istri Esau, dan Kej.36 kemudian menelusuri seluruh sisa keluarga Esau.
+- **Perspektif kedua** — satuan kedua menceritakan kembali satuan pertama dari sudut pandang yang berbeda, atau merangkumnya. Penyeberangan Sungai Yordan diceritakan dari dua sudut: Yos.3/9–17 menunjukkan penyeberangan itu dimulai dan selesai dari sisi timur, dan Yos.4/10–13 menunjukkan peristiwa yang sama berlangsung dan selesai dari sisi barat.
 
-Di sisi lain, hal ini juga dapat digunakan untuk menyampaikan makna, misalnya dalam doa Yunus (Yun.2/2–9 dan 4/1–3).
+Tetapi pengulangan yang terstruktur juga dapat digunakan untuk menyampaikan makna secara langsung, seperti dalam doa Yunus (Yun.2/2–9 dan 4/1–3).
 
-Keuntungannya adalah bahwa penulis dapat menunjukkan sesuatu secara halus, yang sangat dihargai oleh pendengar, sebab kebanyakan orang tidak suka jika sesuatu ditunjukkan secara langsung dan akan cepat bosan jika hal itu terus dilakukan. Ini mengundang pendengar untuk menemukan makna itu, ikut terlibat, dan ikut berpikir. Hal ini membuat komunikasi menjadi lebih menarik, menyenangkan, dan dengan demikian lebih efektif. Bayangkan betapa membosankannya jika inti cerita tiga babi kecil sudah dijelaskan sejak awal.
+Keuntungan melakukannya dengan cara ini adalah penulis dapat menyampaikan sebuah maksud secara halus, yang dihargai oleh audiens — kebanyakan orang enggan digurui dan cepat lelah dengan sebuah maksud yang ditekankan secara langsung. Struktur yang lebih halus mengundang pendengar untuk menemukan sendiri maknanya, untuk ikut terlibat, untuk memikirkannya. Hal itu membuat komunikasi menjadi lebih menarik, lebih menyenangkan, dan pada akhirnya lebih efektif. Bayangkan betapa mengguruinya kesan yang timbul jika kisah Tiga Babi Kecil dibuka dengan menyatakan moralnya begitu saja.
 
-Hal ini dapat terjadi dalam bahasa Ibrani dengan berbagai cara:
+Sastra Ibrani mencapai hal ini dengan beberapa cara yang berbeda:
 
-- penekanan: melalui pengulangan, sebuah butir dapat ditonjolkan, misalnya Dan.2 dan 7, bahwa kerajaan-kerajaan manusia akan bangkit tetapi juga akan jatuh, dan hanya Kerajaan Allah yang bertahan.
-- menonjolkan sebuah pola: mengarahkan perhatian pada sebuah pola tertentu, khususnya pola perilaku, misalnya Yunus di antara bangsa-bangsa kafir. Yunus menolak untuk taat kepada Allah, tetapi bangsa-bangsa kafir itu dengan sukarela menerimanya dan memohon belas kasihan.
-- perbandingan: dua satuan atau lebih dapat disejajarkan untuk menunjukkan kesamaan antara dua hal yang tampaknya tidak serupa, misalnya Amos 1–2, ketika Israel dihakimi sama seperti bangsa-bangsa asing.
-- kontras: juga dapat menonjolkan perbedaan antara dua hal yang tampak serupa tetapi sebenarnya tidak, misalnya Kej.38 dan 39 menunjukkan dua putra Yakub yang dihadapkan pada ajakan seksual yang terlarang dari seorang perempuan, dan dalam kedua kisah itu perempuan penggoda menyimpan sebuah tanda dari laki-laki itu untuk digunakan kemudian sebagai bukti melawannya, tetapi selebihnya sangat berbeda, seperti Yehuda yang gagal total namun berhasil, sementara Yusuf setia namun dihukum.
-- pembalikan: dapat menunjukkan pembalikan sesuatu (1Raja-Raja 3–11: pendirian pemerintahan Salomo dan pembangunan bait Allah; 2Raja-Raja 18–25: berakhirnya pemerintahan itu dan kehancuran bait Allah)
-- timbal balik: menunjukkan tindakan-tindakan yang saling berbalasan dalam satuan-satuan yang bersesuaian (Kidung Agung 2/8–17: ajakan pemuda kepada gadis muda untuk bergabung dengannya; 7/11–8/4: sang gadis mengajaknya pergi ke pedesaan bersama)
-- penyelesaian (atau penggenapan): menekankan hubungan erat antara awal kisah, ketegangan atau ramalan, dan penyelesaian atau penggenapan akhir (Kej.12/1–9: kemandulan Abram dan Sara; 21/1–7: kelahiran Ishak)
-- totalitas: menunjukkan totalitas sebuah fenomena dengan menampilkan kedua sisi sebuah merismus (siang dan malam, laki-laki dan perempuan) (Yes.2/10–22: perendahan laki-laki yang sombong pada masa depan; 3/16–17: perendahan perempuan yang sombong pada masa depan)
+- **Penekanan** — mengulangi sebuah maksud untuk menegaskannya, seperti dalam Daniel 2 dan 7, di mana pola yang berulang menegaskan bahwa kerajaan-kerajaan manusia akan bangkit dan jatuh, sementara hanya Kerajaan Allah yang bertahan.
+- **Menegaskan sebuah pola** — menarik perhatian pada sebuah pola yang berulang, terutama pola perilaku, seperti dengan Yunus dan bangsa-bangsa kafir: Yunus enggan taat kepada Allah, sementara orang-orang kafir di sekitarnya dengan sukarela menerima pesan itu dan memohon belas kasihan.
+- **Perbandingan** — dua satuan atau lebih disandingkan untuk menunjukkan kesamaan antara hal-hal yang tampaknya tidak serupa, seperti dalam Amos 1–2, di mana Israel dihakimi dengan standar yang persis sama seperti bangsa-bangsa asing.
+- **Kontras** — gerakan sebaliknya, menunjukkan perbedaan antara hal-hal yang tampak serupa tetapi sebenarnya tidak. Kejadian 38 dan 39 sama-sama menunjukkan seorang putra Yakub yang dihadapkan pada ajakan seksual terlarang dari seorang perempuan, dan dalam kedua kisah itu perempuan tersebut menyimpan sebuah tanda dari laki-laki itu untuk digunakan kemudian sebagai bukti — namun segala sesuatu yang lain berbeda: Yehuda gagal total namun tetap makmur, sementara Yusuf tetap setia dan justru dihukum karenanya.
+- **Pembalikan** — menyoroti pembalikan sebuah keadaan, seperti antara 1Raj.3–11 (kebangkitan pemerintahan Salomo dan pembangunan bait Allah) dan 2Raj.18–25 (berakhirnya pemerintahan itu dan kehancuran bait Allah).
+- **Timbal balik** — menunjukkan tindakan timbal balik di antara satuan-satuan yang bersesuaian, seperti dalam Kidung Agung 2/8–17 (pemuda itu mengajak sang gadis muda untuk bergabung dengannya) dan 7/11–8/4 (sang gadis mengajaknya bergabung dengannya di pedesaan).
+- **Penyelesaian (atau penggenapan)** — menekankan hubungan erat antara ketegangan, penantian, atau ramalan pada pembukaan sebuah kisah dan penyelesaiannya pada penutup, seperti antara Kej.12/1–9 (kemandulan Abram dan Sara) dan 21/1–7 (kelahiran Ishak).
+- **Totalitas** — menunjukkan totalitas sebuah fenomena dengan menampilkan kedua sisi sebuah merismus, seperti siang dan malam atau laki-laki dan perempuan, seperti antara Yes.2/10–22 (perendahan laki-laki yang sombong di masa depan) dan 3/16–17 (perendahan perempuan yang sombong di masa depan).
 
-## Posisi-Posisi yang Menonjol
+### Posisi-Posisi yang Menonjol
 
 <a name="4b40"></a>
-Posisi juga dapat digunakan untuk memperkuat atau menyampaikan sebuah makna. Pendongeng-pendongeng modern menempatkan pesan penting pada satuan kedua dari terakhir, karena itulah puncaknya, sementara satuan terakhir disediakan untuk penyelesaian (fade out).
+Posisi dalam sebuah struktur juga dapat memperkuat atau menyampaikan makna. Pendongeng modern cenderung menempatkan pesan terpentingnya pada satuan kedua dari terakhir, karena itulah puncaknya, dan menyisakan satuan terakhir untuk penyelesaian, untuk memudar perlahan.
 
-Dalam sastra Ibrani, dalam struktur linear dan paralel, hal ini biasanya adalah satuan terakhir, karena itulah kata-kata terakhir yang didengar pendengar. Dalam skema paralel dengan jumlah ganjil, posisi satuan terakhir ditonjolkan oleh satuan yang tidak sesuai dengan pola, misalnya a-b-c-a'-b'-c'-d.
+Sastra Ibrani bekerja secara berbeda. Dalam struktur linear dan paralel, posisi yang menonjol adalah satuan yang paling terakhir, karena itulah yang didengar audiens paling akhir.
 
-Dalam skema simetris, pada jumlah ganjil biasanya bagian tengah adalah tempat yang ditonjolkan, tetapi pada jumlah genap justru bagian pertama dan terakhir, seperti dalam Kel.21/2–22/27 (di mana awal dan akhir membahas kejahatan berat dan perhatian bagi orang miskin).
+- Dalam skema paralel dengan jumlah ganjil, satuan terakhir yang tidak berpasangan ditonjolkan karena berdiri di luar pola, seperti dalam a-b-c-a'-b'-c'-d.
+- Dalam skema simetris, bagian tengah biasanya menjadi posisi yang menonjol ketika jumlah satuannya ganjil; ketika genap, penonjolan justru jatuh pada satuan pertama dan terakhir, seperti dalam Kel.21/2–22/27, di mana awal dan akhir sama-sama membahas kejahatan yang layak dihukum mati dan kebaikan kepada orang miskin.
 
-Maknanya bisa berupa
+Posisi yang menonjol itu dapat membawa beberapa jenis makna:
 
-- titik balik: pusatnya adalah titik balik dalam kisah, misalnya Ehud (Hak.3/12–30), di mana titik baliknya adalah ketika ia membunuh sang raja. Struktur keseluruhan Kitab Hakim-Hakim juga menempatkan Gideon sebagai titik baliknya.
-- puncak: hal ini juga terjadi dalam kisah Ehud, yaitu titik dengan ketegangan terbesar
-- bagian tengah: menampilkan puncak, misalnya Kidung Agung 3/6–5/1 adalah pernikahan; pusat 1&2 Tawarikh adalah Salomo, pembangun bait Allah (2Taw.1–9)
-- jeda yang bermakna (atau interlude): jeda yang mencolok dalam alur cerita atau argumentasi komposisi, untuk menyampaikan sebuah butir yang sangat bermakna. 2Raja-Raja 2/1–8/6 adalah sebuah jeda dalam penyebutan dosa-dosa raja yang nyaris tanpa henti, yang diselingi oleh karya Elisa. Rat.3/21–32 menyela ratapan tragis yang nyaris tanpa henti itu, untuk merenungkan kasih Allah yang mendalam.
+- **Titik balik** — pusatnya menandai titik balik sesungguhnya dari kisah itu, seperti dengan Ehud (Hak.3/12–30), di mana titik baliknya terjadi ketika ia membunuh sang raja. Struktur keseluruhan Kitab Hakim-Hakim juga berputar pada Gideon.
+- **Puncak** — titik pusat yang sama juga bisa menjadi momen ketegangan tertinggi, seperti kembali terlihat dalam kisah Ehud.
+- **Bagian tengah** — pusatnya secara langsung mewakili puncaknya, seperti pernikahan di jantung Kidung Agung 3/6–5/1, atau Salomo, pembangun bait Allah, di pusat Kitab Tawarikh (2Taw.1–9).
+- **Jeda yang bermakna (atau interlude)** — sebuah jeda yang disengaja dalam alur tindakan atau argumen yang menyampaikan sebuah maksud yang sangat bermakna. 2Raj.2/1–8/6 menyela barisan dosa raja-raja yang nyaris tanpa henti dengan pelayanan Elisa, dan Rat.3/21–32 menyela sebuah ratapan tragis untuk merenungkan kasih Allah yang mendalam.
 
-## Nilai Analisis Struktur
+## Nilai Analisis Struktural
 
 <a name="74d9"></a>
-Ada banyak alasan untuk ini:
+Mengenali struktur-struktur ini memberi banyak manfaat.
 
-- Mengakui keahlian sastra: kita dapat mengakui keterampilan dan ketelitian yang tertuang dalam teks, dan sebuah teks yang pada pandangan pertama tampak kacau dapat ternyata merupakan susunan yang elegan.
-- Mengenali batas-batas satuan: kita dapat menafsirkan teks dengan lebih baik jika kita dapat menyusun strukturnya, misalnya 1Raja-Raja 1–2 adalah akhir dari Kitab Samuel dan bukan pengantar bagi sisa Kitab Raja-Raja. Demikian pula kelima Kitab Musa dan Kitab Yosua adalah satu kesatuan — tidak pernah dimaksudkan bahwa Kitab-Kitab Musa berakhir dengan Israel yang hampir sampai di rumah dan kisahnya yang hampir selesai.
-- Menemukan gagasan dasar di balik keseluruhan susunan sebuah satuan memungkinkan pemahaman yang lebih baik atas alur teks, misalnya kedua kisah Abraham yang berbohong tentang istrinya terkait dengan kedua janji kepada Ismael dan pengembaraan keluarga Lot. Demikian pula dalam Kidung Agung, pernikahan berada di pusat karena alasan puitis, dan keintiman sebelumnya tidak menunjukkan hubungan seksual pranikah, melainkan menunjukkan susunannya sebagai sebuah kiasme. Panggilan Yesaya dalam Yes.6 juga tampak salah tempat (karena seharusnya menjadi awal), tetapi sebenarnya merupakan bagian tengah dari Yes.1–12.
-- Memperjelas hubungan bagian-bagian dengan keseluruhan: terutama pada satuan-satuan yang lebih panjang, hal ini dapat membantu menyusun teks, misalnya Yes.26–35 dan 40–48 menjelaskan fungsi timbal balik mereka, dengan Yes.36–39 dilihat sebagai pusat tematis di antara keduanya. Pengulangan: pengulangan membingungkan pembaca modern, tetapi membantu pendengar mengenali struktur teks, misalnya "petang" dan "pagi" serta "hari yang ke sekian" menunjukkan penutupan setiap hari dalam Kej.1
-- Memperhatikan satuan-satuan yang tampaknya tidak sesuai: beberapa bagian tampak salah tempat, tetapi analisis struktural membantu memahami posisinya, misalnya Kej.38 tampak menyela kisah Yusuf, tetapi digunakan untuk mengontraskan perilakunya dengan kejadian di rumah Potifar. Perlakuan tidak adil terhadap Yusuf ini, sementara Yehuda lolos tanpa hukuman, akan mengarah pada pasal paralelnya di mana Yehuda ditolak dan hak kesulungan diberikan kepada Yusuf.
-- Memperjelas sebuah satuan melalui perbandingan dengan padanannya: makna sebuah fungsi dari suatu satuan dapat diperjelas melalui perbandingan dengan padanannya, misalnya doa syukur Yunus dalam Yun.2 atas pembebasannya, berbeda dengan doanya yang marah dan menyimpan dendam dalam Yun.4 atas pembebasan penduduk Niniwe, yang mengungkapkan sifat egosentris Yunus dalam pasal 2.
-- Menemukan titik pusat sebuah satuan: jika kita menemukan titik pusat dari struktur itu, kita akan dengan mudah menemukan pesan sentral sebuah kitab atau bagian yang lebih panjang.
-- Menemukan tema komposisi: tema utama dikembangkan melalui struktur keseluruhan, misalnya tema kuat tentang penyembahan berhala dalam perjanjian di Sinai dalam Kel.19/3–4–Ul.10/10, atau timbal balik dalam Kidung Agung.
+- **Menghargai keahlian sastra** — kita mulai menghargai keterampilan dan ketelitian di balik teks, sehingga tulisan yang pada awalnya tampak kacau ternyata menyingkapkan dirinya sebagai susunan yang elegan.
+- **Mengenali batas-batas satuan** — melihat strukturnya membantu kita menafsirkan teks dengan benar. 1Raj.1–2, misalnya, sesungguhnya adalah kesimpulan dari Kitab Samuel, bukan pengantar bagi sisa Kitab Raja-Raja; dan kelima Kitab Musa bersama Kitab Yosua membentuk satu kesatuan, karena kisah itu tidak pernah dimaksudkan berakhir dengan Israel hanya berada di ambang tanah perjanjian.
+- **Menemukan alasan di balik susunan sebuah satuan** — ini memperdalam pemahaman kita tentang bagaimana teks itu mengalir. Kedua kisah Abraham berbohong tentang istrinya, misalnya, terkait dengan kedua janji tentang Ismael dan dengan perpindahan keluarga Lot. Kidung Agung menempatkan pernikahan di pusatnya karena alasan puitis, dan keintiman yang digambarkan sebelumnya bukanlah pengesahan hubungan seksual pranikah, melainkan bagian dari susunan kiastik yang disengaja. Panggilan Yesaya dalam pasal 6 tampak salah tempat, karena orang akan mengharapkannya di awal kitab, namun ia berada di pusat Yes.1–12 karena sebuah alasan.
+- **Memperjelas hubungan bagian-bagian dengan keseluruhan** — sangat berguna dalam satuan-satuan yang panjang. Yes.26–35 dan 40–48 saling mencerminkan fungsinya, dengan Yes.36–39 berfungsi sebagai pusat tematis di antara keduanya.
+- **Menjelaskan pengulangan** — pengulangan dapat membingungkan pembaca modern, tetapi membantu pendengar mula-mula melacak struktur teks. Refrein "petang" dan "pagi" yang berulang, serta hitungan setiap hari, menandai selesainya setiap hari dalam Kejadian 1.
+- **Menjelaskan satuan-satuan yang tampaknya salah tempat** — beberapa bagian tampak salah tempat sampai analisis struktural memperjelas posisinya. Kejadian 38 tampak menyela kisah Yusuf, tetapi keberadaannya adalah untuk mengontraskan perilaku Yehuda dengan tindakan Yusuf di rumah Potifar — perlakuan tidak adil Yehuda terhadap Tamar, yang tidak membawa konsekuensi nyata baginya, mempersiapkan pasal berikutnya di mana Yehuda melepaskan hak kesulungannya sendiri demi Yusuf.
+- **Memperjelas sebuah satuan melalui padanannya** — makna atau fungsi sebuah satuan sering kali dapat diperjelas hanya dengan membandingkannya dengan padanan strukturalnya di tempat lain dalam teks.

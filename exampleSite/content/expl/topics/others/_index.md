@@ -4,6 +4,6 @@ title: "Others"
 weight: 4
 ---
 
-This is some other overarching topics which is to clarify some missunderstanding.
+This section gathers a few other overarching topics, aimed at clarifying some common misunderstandings.
 
-One topic is regarding the rapture and the tribulation. Mayn people ehar about it or believe it, but this should give a little overview and reflection on this theology.
+One of them is the rapture and its relationship to the tribulation. Many people have heard of it, and quite a few believe it, so the articles here offer a brief overview of the theology behind it and some reflection on whether it holds up.

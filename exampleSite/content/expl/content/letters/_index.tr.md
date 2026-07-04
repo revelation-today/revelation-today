@@ -4,8 +4,8 @@ title: "Kiliseler için mektuplar (Böl.2-3)"
 weight: 2
 ---
 
-Tanrı'nın kilise için vizyonu nedir? Sadece kurtarılmak ve cennete gitmek mi?
+Tanrı'nın kilise için vizyonu nedir? Sadece kurtarılıp cennete gitmek mi?
 
-Tanrı'nın vizyonu dünyaya ışık olmamızdır - Tanrı'nın karakteri için tartışılmaz bir örnek olmalıyız - ama aynı zamanda Tanrı'ya tam bağımlılık içinde yürümeliyiz.
+Daha fazlası. O'nun vizyonu, dünyaya ışık olmamız, Tanrı'nın karakterinin tartışılmaz bir örneği olmamız ve O'na tam bağımlılık içinde yürüyen bir halk olmamızdır.
 
-Hepsi bu kadar. Ancak yedi kiliseye baktığımızda çoğunun mücadele ettiğini ve zafer kazananların bizi davet etmediğini görürüz. Neden mi?
+Çağrımız işte bu - ne fazlası ne eksiği. Yine de yedi kiliseye baktığımızda çoğunun mücadele ettiğini, zaferle çıkanların bile bize pek davetkâr görünmediğini fark ederiz. Neden acaba?

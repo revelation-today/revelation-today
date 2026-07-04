@@ -4,8 +4,8 @@ title: "Tuaian Bangsa-Bangsa (Pasal 14)"
 weight: 13
 ---
 
-Setelah adu kekuatan yang mengesankan antara sang naga dan kedua binatang buas, hasilnya jelas: orang-orang kudus menang, tetapi dengan cara yang tidak biasa. Kekuatan mereka adalah kesetiaan mereka kepada Yesus.
+Setelah pertunjukan kuasa yang mengesankan dari sang naga dan kedua binatang buas, pesan pasal ini jelas: orang-orang kudus menang, tetapi dengan cara yang tidak biasa — kekuatan mereka adalah kesetiaan kepada Yesus, bukan perlawanan dengan kekerasan.
 
-Barangsiapa berpikir untuk mengambil jalan mudah dan berkompromi dengan sang naga, akan merasakan akibatnya.
+Siapa pun yang tergoda mengambil jalan yang lebih mudah dan berkompromi dengan sang naga akan menanggung akibatnya.
 
-Dan akhirnya datanglah penghakiman besar dalam bagian ini: bangsa-bangsa akan dikumpulkan, entah untuk diselamatkan atau untuk dihakimi.
+Dan akhirnya datanglah penghakiman besar dalam bagian ini: bangsa-bangsa dikumpulkan, entah untuk diselamatkan atau untuk dihakimi.

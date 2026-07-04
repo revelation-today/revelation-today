@@ -4,6 +4,6 @@ title: "Overarching topics"
 weight: 7
 ---
 
-There are some topics that we will show and discuss here as they are not tight to a chapter but going through the whole book.
+Some topics don't belong to a single chapter — they run through the whole book. This section collects those cross-cutting themes and discusses them on their own terms.
 
 [Browse by theme →]({{< relref "themes" >}})

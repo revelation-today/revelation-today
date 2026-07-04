@@ -7,40 +7,34 @@ docType: expl
 appl: /appl/background/israel
 ---
 
-Vahiy Kitabı’nda Yahudiler ve İsrail’den bahsedilmesi oldukça tartışmalıdır. Bunun nedeni nedir ve nasıl çözülür?
+Vahiy'de Yahudilerden ve İsrail'den söz edilişi gerçekten tartışmalıdır. Kitap onlardan neden bu şekilde söz eder ve bu gerilim nasıl çözülebilir?
 
-## Yahudilerin düşmanlığı
+## Yahudilerle gerilim
 
 <a name="f583"></a>
-İlk kilise döneminde Yahudi dini, uzun geçmişleri nedeniyle Roma İmparatorluğu tarafından saygı görüyordu ve Yahudiler imparatora sadık kaldıkları sürece inançlarını yaşayabiliyorlardı.
+İlk kilise döneminde Yahudi dini, uzun geçmişi nedeniyle Roma İmparatorluğu tarafından saygı görüyordu; Yahudiler, imparatora sadık kaldıkları sürece inançlarını özgürce yaşayabiliyorlardı.
 
-Ama şimdi Hıristiyanlar ortaya çıktılar ve imparatora beklendiği gibi saygı göstermediler (tapınmadılar). Bunun da ötesinde, etrafta dolaşıp tüm insanları Yahudi İsa’yı takip etmeye ve imparatora saygı göstermemeye yönlendiriyorlar.
+Hıristiyanlar ise imparatorun beklediği tapınmayı ona göstermeyi reddettiler — daha da kötüsü, Roma'nın bakış açısından, etrafta dolaşıp insanları İsa adlı bir Yahudi'yi izlemeye ikna ediyorlardı.
 
-İmparator Hıristiyanları bir Yahudi mezhebi olarak gördüğü için Yahudiler baskı altındaydı. Bu durum Yahudileri, imparatorun Yahudilerin kendilerinin yanında yer almadığını anlamasını sağlamak için Hıristiyanları Romalılara karşı suçlamaya yöneltti
+İmparator başlangıçta Hıristiyanlığı sadece bir Yahudi mezhebi olarak gördüğü için, Yahudi topluluğu bu ilişki yüzünden baskı altında kaldı. Bazı Yahudilerin Hıristiyanları Romalılar önünde suçlamaya yönelmesinin nedenlerinden biri de kısmen budur: bu, imparatorun en azından kendilerinin Hıristiyanların tarafında olmadığını anlamasını sağlamanın bir yoluydu.
 
-## Vahiy’de Yahudiler
+## Vahiy'de Yahudiler
 
 <a name="7cd5"></a>
-Kitap tek bir şey hakkındadır: İsa ve onun hakkında karar verilen her şey. Bu Yahudiler için de aynıdır.
+Vahiy Kitabı tek bir şey üzerinedir: İsa ve O'nun ışığında karara bağlanan her şey. Kitabın Yahudileri ele alışı da bundan farklı değildir.
 
-Önceki bölümde Hıristiyanlar ve Yahudiler arasında bir gerginlik olduğunu gördük. Bu durum, İsa’ya tanıklık eden kiliseye saldırdıkları İzmir ve Philadelphia’da da açıkça görülmektedir. Sonuç olarak bu Yahudiler Şeytan’ın sinagogu olarak adlandırılırlar. Daha sonra Filadelfiya’daki Yahudiler’in oradaki kilisenin önünde eğildikleri söylendiğinde, bu onların İsa’yı kabul ettikleri anlamına gelir, kiliseye boyun eğdikleri anlamına değil.
+Hıristiyanlarla Yahudiler arasındaki gerilimin somut olarak İzmir ve Filadelfiya'da yaşandığını zaten gördük; buralarda yerel Yahudiler İsa'ya tanıklık eden kiliseye saldırır — Yuhanna'nın onları Şeytan'ın sinagogu olarak adlandırmasının nedeni de budur. Aynı Filadelfiyalı Yahudiler'in daha sonra kilisenin önünde eğildikleri söylendiğinde, buradaki nokta onların kiliseye kurum olarak boyun eğmesi değil, İsa'yı kabul etmeye gelmeleridir.
 
-Ayrıca 11. bölümde, ruhsal olarak Sodom (günah yeri) ve Mısır (kölelik yeri) olarak tanımlanan iki tanığın öldürüldüğü yer, Yeruşalim’in bir tanımıdır (çünkü Rableri İsa orada öldürülmüştür). Burada ismin söylenmesinden bile kaçınılır.
+Aynı dinamik 11. bölümde de karşımıza çıkar. İki tanığın öldürüldüğü yer, ruhsal olarak Sodom (bir günah yeri) ve Mısır (bir kölelik yeri) olarak tanımlanır — bu, Yeruşalim'in bir tasviridir, çünkü Rableri İsa'nın öldürüldüğü yer orasıdır. Dikkat çekici biçimde, burada "Yeruşalim" adının kendisinden bile kaçınılır.
 
-Ayrıca Vahiy Kitabı’nın hiçbir yerinde etnik İsrail’le olan ilişkiden bahsedilmez (7. bölümdeki 144000'i okuyuşunuza bağlı olarak), sadece İsa ile olan ilişkiden bahsedilir.
+Yine de, bütün bu gerilime rağmen Vahiy, argümanını hiçbir zaman etnik İsrail'in kendisine karşı çevirmez (bunun ne kadar ağırlık taşıdığı, 7. bölümdeki 144.000'i nasıl okuduğunuza bağlıdır). Kitabın baştan sona ele aldığı şey, insanların etnik kökeni değil, İsa'yla olan ilişkileridir.
 
-Öte yandan, kilise İsrail’in bir parçasıdır ve Yahudilerle Hıristiyanların bir arada olduğunu anlatan açık ifadeler vardır, örneğin 4. bölümdeki 24 ihtiyar, 12 oymağı ve 12 havariyi temsil eder ya da 12 oymağın ve 12 havarinin isimleri Yeni Yeruşalim’e kazınmıştır.
-
-Ayrıca cennet tarafsız bir yer olarak değil, Yeni Yeruşalim olarak tanımlanmaktadır.
-
-İsa’nın ikinci gelişinde fiziksel Yeruşalim’de ortaya çıkması hiç de şaşırtıcı olmayacaktır.
-
-Neden Yahudilere yönelik bu kadar tartışmalı bir açıklama var? Çünkü kilise İsrail’in bir parçasıdır ve bu nedenle Yahudilerin bir kısmı kiliseye açık bir saldırı içinde olsa bile köklerini kesemez.
+Bunun nedeni, kilisenin İsrail'in yerini alan bir şey değil, İsrail'in bir parçası olmasıdır. Vahiy bu birliği birkaç yerde açıkça ortaya koyar: 4. bölümdeki 24 ihtiyar, 12 oymağı ve 12 elçiyi birlikte temsil eder ve 12 oymağın ile 12 elçinin isimleri Yeni Yeruşalim'de yan yana kazınmıştır. Cennetin kendisi de, dikkat çekici biçimde, tarafsız, mekânsız bir alan olarak değil, Yeni Yeruşalim olarak tasvir edilir — bu yüzden İsa'nın ikinci gelişinde fiziksel Yeruşalim'de ortaya çıkması hiç de şaşırtıcı olmaz. Vahiy'in Yahudiler hakkındaki dilinin neden bu kadar keskin çıkabildiğinin anahtarı da tam olarak budur: kilise İsrail'in bir parçası olduğu için, bazı Yahudiler ona açıkça saldırdığında bile kendi köklerini kesip atamaz.
 
 ## Sonuç
 
 <a name="a396"></a>
-Kilisenin önündeki zorluk, İsrail’in bir parçası olmakla İsrail’in saldırısına uğramak arasındaki gerilimi idare etmektir.
+Kilisenin önündeki zorluk, iki gerçeği aynı anda taşımaktır: hem İsrail'in bir parçası olmak hem de zaman zaman İsrail tarafından saldırıya uğramak.
 
-Bence kitaptan, farklı kilise adaylıklarında veya Yahudilerle birbirimize nasıl davrandığımız konusunda çok şey öğrenebiliriz
+Bu kitaptan, ister farklı kilise mezhepleri arasında ister Yahudi halkıyla ilişkimizde olsun, bugün aynı türden bir gerilimde nasıl yol alacağımıza dair öğrenebileceğimiz çok şey vardır.
 

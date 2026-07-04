@@ -12,30 +12,28 @@ sources:
       ref: beale_rev
 ---
 
-Anlaşılması zor olan bir şeye yedi mühürlü kitap dendiğini hiç duydunuz mu? Ve bu İncil’den geliyor. Evet, İncil’den geliyor ama çok farklı bir anlamı var.
+"Bu, yedi mühürlü bir kitap" deyimini duydunuz mu — büyük bir gizem anlamına gelir? Bu ifade aslında bu bölümden gelir — ama insanların sandığı anlamı taşımaz.
 
 ## Yedi mühürlü kitap
 
 <a name="95a9"></a>
-Kusursuz tapınma yerinde, tüm dikkatleri üzerine çeken yedi mühürlü bir tomar ortaya çıkar. Ama yedi mühürlü tomar/kitap nedir?
+Kusursuz ibadetin yeri olan taht odasında, {{% bible val="tüm dikkatleri üzerine çeken yedi mühürlü bir tomar belirir" link="rev:5,1" lang="tr" %}}. Peki bu yedi mühürlü tomar nedir?
 
-Eski zamanlarda bazı belgeler bir yetkili tarafından yazılır ve yedi tanık tarafından mühürlenirdi. Parşömenin yanlışlıkla açılmadığından emin olmak için dışına bir özet yazılırdı. Çünkü tomarın açılması, içeriğinin geçerli hale gelmesi anlamına gelir. Bir tomarın içeriği bir vasiyetname ya da yeni bir yasa olabilir.
+Eski dünyada bazı belgeler bir yetkili tarafından yazılır ve yedi tanık tarafından mühürlenirdi. İçeriğin bir özeti dışına yazılırdı, böylece tomarın yanlışlıkla açılması engellenirdi — çünkü açılması, içeriğinin yasal olarak geçerli hale gelmesi, yürürlüğe girmesi anlamına gelirdi. Böyle bir tomarın içeriği bir vasiyetname ya da yeni bir yasa olabilirdi.
 
-Dolayısıyla ses onu kimin açabileceğini söylediğinde, bu tomarın içeriğini kimin uygulayabileceğine gönderme yapılıyordu. Buna peygamberler ya da Eski Antlaşma ya da sadece Tanrı’nın planı diyebilirsiniz ki bu da dünyayı yönetmek anlamına gelir. Kimse onu açamadığına göre, belli ki Yuhanna derin bir sıkıntı içindeydi.
+Dolayısıyla ses "tomarı açmaya kim layıktır" diye sorduğunda, aslında "bu tomarın içeriğini kim yürürlüğe koyabilir" demek istiyordu. Bu noktada tomarın somut olarak neye işaret ettiği tam olarak net değildir — buna peygamberler, Eski Antlaşma ya da sadece Tanrı'nın planı diyebilirsiniz — ama bir şey açıktır: onu her kim açarsa, dünyaya hükmedecektir. {{% bible val="Kimse onu açmaya muktedir olamadığından, Yuhanna anlaşılır bir şekilde derin bir sıkıntıya düşer" link="rev:5,2-4" lang="tr" %}}.
 
-Ama sadece biri onu açabilirdi: Yahuda’nın aslanı. Yuhanna’nın duyduğu şey budur, ama gördüğü şey kesilmiş kuzudur. Bunlar aynı gerçeğin iki yönüdür: Açıkça görülen çaresiz kuzu, muzaffer yenilmez aslandır: Bir kahramanın gizemi. Tüm kıyamet umutları kötü güçleri güçle deviren güçlü bir hükümdar sunduğundan, bu zorlu bir tablodur.
+{{% bible val="Ama onu açabilecek biri vardır: Yahuda'nın Aslanı. Yuhanna'nın duyduğu budur — ama gördüğü kesilmiş bir kuzudur. Bu ikisi aynı gerçeğin iki yönüdür: görünüşte çaresiz olan kuzu, aslında muzaffer ve yenilmez aslandır" link="rev:5,5-7" lang="tr" %}}. Bu, {{% int_link val="bir kahramanın gizemidir" link="/appl/topics/hero/a-real-hero" %}} — zorlu bir tablodur, çünkü her kıyamet umudu, kötülüğün güçlerini salt güçle deviren güçlü bir hükümdar tasavvur eder.
 
-Şaşırtıcı olan bir başka husus da kuzuya tapınılmasıdır.
-
-Bir önceki bölümde her şeyin tahtın etrafında toplandığını görmüştük. Şimdi her şey İsa’nın etrafında toplanıyor, her şeyin merkezinde o var ve ona tapınılıyor. Ve Tanrı da bunu onaylıyor. Bu İsa’nın gerçekten Tanrı olduğunu gösterir, çünkü sadece Tanrı’ya tapınılmasına izin verilir.
+Bir başka şaşırtıcı unsur da Kuzu'ya tapınılmasıdır. Önceki bölümde her şey tahtın etrafında dönüyordu; burada ise her şey İsa'nın etrafında toplanır — O'na tapınılır ve Tanrı buna izin verir. Bunun kendisi çok şey anlatır: İsa'nın gerçekten Tanrı olduğunu gösterir, çünkü yalnızca Tanrı'ya tapınılması doğrudur.
 
 ## Yedi mühür
 
 <a name="308c"></a>
-İsa mühürleri açtığında, şeytanın ortaya çıkarıldığından ve ifşa edildiğinden emin oldu. Dünyayı yönetmek istiyordu ama ilk dört mühür dünyayı ne hale getireceğini gösteriyordu.
+İsa mühürleri açtığında, {{% int_link val="şeytanın planlarının ifşa olmasını" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} sağlar. Şeytan dünyaya hükmetmek ister, ve ilk dört mühür onun yeryüzünde gerçekleştirmeyi tasarladığı şeyi tam olarak gösterir.
 
-Kutsallar orada dışlanmadığı için, bunu borazanlar sırasında göreceğiz, neden acı çekiyorlar ve bunun ne zaman sona ereceğini soruyorlar. Onların yakarışları onaylanır (beyaz keten olsun) ve kitap boyunca ana konu haline gelir: Kutsalların aklanması ve dualarının dinlenmesi.
+{{% bible val="Kutsallar sıkıntıdan muaf tutulmadığı için (nedenini borazanlar bölümünde göreceğiz), acı çekerler ve bunun ne zaman sona ereceğini sorarlar. İstekleri kabul edilir (kendilerine beyaz keten giysiler verilir). Bundan sonra kutsalların aklanması ve dualarının yanıtlanması, kitap boyunca ortak bir tema haline gelir." link="rev:6,9-11" lang="tr" %}}
 
-İlk eylem İsa’nın büyük yargısıdır. Bu gerçekten de herkesin hesap vereceği ve saklanamayacağı Rab’bin günüdür — son yargıda olduğu gibi.
+{{% bible val="Asıl tepki İsa'nın büyük yargısıdır" link="rev:6,12-17" lang="tr" %}}. Bu gerçekten de {{% int_link val="Rab'bin Günü'dür" link="/expl/background/israel/the-day-of-the-lord" %}} — herkesin hesap vereceği ve kimsenin saklanamayacağı Son Yargı.
 
-144000'in araya girmesinden sonra yedinci mühür açılır. Bu yarım saatlik bir sessizliği gösterir. Sessizliğin Kutsal Kitap’ta kendine has bir anlamı vardır ama Yahudi literatüründe cennetteki sessizlik zamanı ile Tanrı’nın azizlerin dualarını işittiği zaman arasında güçlü bir bağ vardır. Bu, azizlerin dualarının odak noktası haline geldiği beşinci mühür fikrini devam ettirir. Azizlerin duasından sadece mühürleri ve borazanları birbirine bağlayan ve orada merkezi bir rol oynayan dualardan bahsedilse bile
+{{% int_link val="144.000'in" link="/expl/content/army/the-144000" %}} araya girmesinin ardından yedinci mühür açılır ve yarım saatlik bir sessizlik getirir. Sessizliğin Kutsal Kitap'ta kendine özgü bir anlamı vardır, ve Yahudi edebiyatında gökteki bir sessizlik anı ile Tanrı'nın kutsalların dualarını işittiği an arasında güçlü bir bağ kurulur. Bu, {{% bible val="kutsalların dualarının odak noktası haline geldiği beşinci mühürdeki" link="rev:6,9-11" lang="tr" %}} fikri sürdürür. Kutsalların duasından yalnızca {{% bible val="iki kez" link="rev:8,2-5" lang="tr" %}} söz edilse de, bu dua mühürler ile borazanların temalarını birbirine bağlar ve her ikisinde de merkezi bir rol oynar.

@@ -7,33 +7,33 @@ docType: expl
 appl: /appl/background/israel
 ---
 
-The mention of Jews and Israel in Revelation is quite controversial. What is the reason for this and how can it be resolved?
+The mention of Jews and Israel in Revelation is genuinely controversial. Why does the book speak of them the way it does, and how can the tension be resolved?
 
 ## The tension with the Jews
 
 <a name="2558"></a>
-At the time of the early church, the Jewish religion was respected by the Roman Empire because of its long history, and the Jews could live their faith as long as they were loyal to the emperor.
+In the time of the early church, the Jewish religion was respected by the Roman Empire because of its long history, and Jews were free to practice their faith as long as they stayed loyal to the emperor.
 
-But now the Christians came and did not pay the respect (worship) to the emperor as expected. What is more, they are going around leading all the people to follow the Jew Jesus and not to pay respect to the emperor.
+Christians, however, refused to pay the emperor the worship he expected — and worse, from Rome's point of view, they were going around persuading people to follow a Jew named Jesus instead.
 
-Since the emperor saw the Christians as a Jewish sect, the Jews were under pressure. This led the Jews to accuse the Christians to the Romans to make sure the emperor understood that the Jews were not on their side.
+Because the emperor initially saw Christianity as simply a Jewish sect, the Jewish community found itself under pressure by association. That is part of why some Jews took to accusing Christians before the Romans: it was a way of making sure the emperor understood that they, at least, were not on the Christians' side.
 
 ## Jews in Revelation
 
 <a name="b216"></a>
-The book is about one thing: Jesus and everything decided about him. It is the same with the Jews.
+The book of Revelation is about one thing: Jesus, and everything that gets decided in light of him. That is true of how it treats the Jews as well.
 
-In the first part we saw that there was tension between Christians and Jews. This is also clearly the case in Smyrna and Philadelphia, where they attack the church that witnesses to Jesus. As a result, these Jews are called the synagogue of Satan. When it says that the Jews in Philadelphia later bow down to the church there, it means that they accept Jesus, not that they submit to the church.
+We already saw the tension between Christians and Jews playing out concretely in Smyrna and Philadelphia, where local Jews attack the church for witnessing to Jesus — which is why John calls them a synagogue of Satan. When those same Jews in Philadelphia are later said to bow down before the church, the point is not that they submit to the church as an institution, but that they come to accept Jesus.
 
-Also in chapter 11, the place where the two witnesses are killed, spiritually described as Sodom (place of sin) and Egypt (place of slavery), is a description of Jerusalem (because Jesus, their Lord, was killed there). Here even the name is avoided.
+The same dynamic surfaces in chapter 11. The place where the two witnesses are killed is spiritually described as Sodom (a place of sin) and Egypt (a place of slavery) — a description of Jerusalem, since that is where their Lord, Jesus, was killed. Tellingly, even the name "Jerusalem" is avoided here.
 
-Throughout the book of Revelation, the relationship to ethnic Israel is not mentioned (depending on your reading of the 144,000 in chapter 7), only the relationship to Jesus.
+And yet, for all that tension, Revelation never turns its argument against ethnic Israel as such (how much weight that carries depends on how you read the 144,000 in chapter 7). What the book actually addresses throughout is people's relationship to Jesus, not their ethnicity.
 
-On the other hand, the church is part of Israel, and there are clear statements that describe a unity of Jews and Christians, e.g. the 24 elders in chapter 4 representing the 12 tribes and the 12 apostles, or the names of the 12 tribes and the 12 apostles engraved in the New Jerusalem.Also, heaven is not described as a neutral place, but as the New Jerusalem.It would not be surprising at all if Jesus were to appear in the physical Jerusalem at His second coming.Why is there such a controversial statement about the Jews? Because the church is part of Israel and therefore cannot cut its roots, even though some Jews openly attack the church.
+That is because the church is part of Israel, not a replacement for it. Revelation makes this unity explicit in several places: the 24 elders in chapter 4 represent the 12 tribes and the 12 apostles together, and the names of the 12 tribes and the 12 apostles are engraved side by side in the New Jerusalem. Heaven itself, notably, is not pictured as some neutral, placeless realm but as the New Jerusalem — which makes it unsurprising if Jesus were to appear in the physical Jerusalem at his second coming. This is the key to why Revelation's language about the Jews can sound so sharp: precisely because the church is part of Israel, it cannot cut off its own roots, even when some Jews openly attack it.
 
 ## Conclusion
 
-The challenge for the church is to deal with the tension between being part of Israel and being attacked by Israel.
+The challenge for the church, then, is to hold both truths at once — being part of Israel while also, at times, being attacked by Israel.
 
-I think we can learn a lot from this book about how we deal with each other in different church denominations or with Jews.
+There is a lot we can learn from this book about how to navigate that same kind of tension today, whether between different church denominations or in our relationship with Jewish people.
 

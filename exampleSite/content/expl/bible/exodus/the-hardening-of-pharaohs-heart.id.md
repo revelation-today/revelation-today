@@ -8,18 +8,16 @@ next: /expl/bible/exodus/the-plagues-in-egypt
 docType: expl
 ---
 
-Apakah adil jika Allah mengeraskan hati Firaun? Bukankah ia tidak punya pilihan lain selain menjadi jahat, dan untuk itu ia dihukum?
+Adilkah jika Allah mengeraskan hati Firaun, sehingga Firaun tidak punya pilihan selain bertindak kejam — dan kemudian tetap dihukum karenanya?
 
-Allah berfirman bahwa {{% bible val="Ia hendak mengeraskan hati Firaun" link="exo:4,21" lang="ind" %}}, agar ia tidak membiarkan umat Allah pergi.
+Allah berfirman dengan jelas bahwa {{% bible val="Ia akan mengeraskan hati Firaun" link="exo:4,21" lang="ind" %}} sehingga Firaun tidak akan membiarkan umat itu pergi. Tetapi teks Ibrani jauh lebih berlapis daripada satu ungkapan tunggal itu. Tiga kata Ibrani yang berbeda digunakan sepanjang kisah ini untuk menggambarkan pengerasan ini:
 
-Untuk pemahaman yang lebih baik, berikut beberapa penjelasan latar belakangnya. Dalam bahasa Ibrani ada tiga kata berbeda yang diterjemahkan dengan "mengeraskan":
+- [chazaq](https://biblehub.com/hebrew/2388.htm), berarti mengeraskan atau menguatkan
+- [qashah](https://biblehub.com/hebrew/7185.htm), berarti menjadi keras, berat, atau garang
+- [kabad](https://biblehub.com/hebrew/3513.htm), berarti berat, bermuatan, atau menjadi beban
 
-- [chazaq](https://biblehub.com/hebrew/2388.htm) dengan arti menjadi kuat, menguatkan,
-- [qashah](https://biblehub.com/hebrew/7185.htm) dengan arti keras, berat, atau hebat,
-- [kabad](https://biblehub.com/hebrew/3513.htm) dengan arti berat atau beban.
+Ikuti tautan-tautan ini dan Anda akan melihat bahwa setiap kata mencakup rentang terjemahan yang luas. Ketiga kata kerja ini digunakan untuk pengerasan hati Firaun oleh Allah, tetapi sama seringnya juga digunakan untuk Firaun yang mengeraskan hatinya sendiri.
 
-Jika kita memperhatikan ayat-ayat Alkitab pada tautan-tautan ini (sayangnya hanya dalam bahasa Inggris), kita melihat variasi yang besar dalam penggunaan kata-kata ini. Dalam kisah ini ketiga kata itu digunakan, tetapi pada banyak tempat, Firaun sendirilah yang mengeraskan hatinya.
+Tumpang tindih inilah yang menjadi kunci bagian ini. Jika kita menelusuri contoh-contohnya, polanya menjadi jelas: Allah mengeraskan hati Firaun bukan untuk memaksanya berbuat jahat bertentangan dengan kehendaknya sendiri, melainkan supaya Firaun tidak begitu saja menyerah pada saat ia melihat karya Allah — supaya ia memiliki kekuatan untuk terus melawan Allah, yang ternyata memang berulang kali ia lakukan atas kehendaknya sendiri.
 
-Luangkan waktu untuk membaca bagian ini. Gagasan dasarnya adalah sebagai berikut: Allah membuat hati Firaun menjadi kuat, sehingga ia tidak "menyerah" ketika melihat karya Allah yang luar biasa, melainkan memiliki kekuatan untuk melawan Allah, yang sering kali benar-benar ia lakukan.
-
-Bahwa Firaun memainkan peran yang sangat aktif dapat dilihat pada tulah pertama yang benar-benar dahsyat, yaitu hujan es, di mana ia mengakui bahwa {{% bible val="ia telah berdosa" link="exo:9,27" lang="ind" %}}, tetapi {{% bible val="ketika hujan es berhenti, ia kembali berdosa dan mengeraskan hatinya" link="exo:9,34" lang="ind" %}}.
+Peran aktif Firaun sendiri dalam hal ini paling jelas terlihat pada tulah hujan es yang dahsyat, di mana ia pertama kali {{% bible val="mengakui bahwa ia telah berdosa" link="exo:9,27" lang="ind" %}} — dan kemudian, begitu hujan es berhenti, {{% bible val="berdosa lagi dengan mengeraskan hatinya sendiri" link="exo:9,34" lang="ind" %}}.

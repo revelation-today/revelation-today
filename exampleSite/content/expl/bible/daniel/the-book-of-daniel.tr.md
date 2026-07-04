@@ -1,5 +1,5 @@
 ---
-title: "Daniel’in kitabı"
+title: "Daniel'in kitabı"
 weight: 10
 base: /quick/bible/daniel
 story: /story/tour
@@ -11,62 +11,58 @@ sources:
       ref: daniel
 ---
 
-Kutsal Kitap’taki Daniel kitabının iki yönü var gibi görünmektedir: Biri, büyük bir iman örneği gösteren ilk 6 bölümdür, diğer 6 bölüm ise birçok garip teolojinin nedeni gibi görünen garip görümlerle doludur. Ancak bu doğru değildir.
+Daniel kitabının iki yönü var gibi görünür: ilk altı bölüm büyük bir iman örneği gibi okunurken, diğer altı bölüm birçok garip teolojinin kaynağı haline gelmiş tuhaf görümlerle doludur. Ama bu iki yarı, ilk bakışta göründüğü kadar birbirinden kopuk değildir.
 
 ## Hızlı bir gezinti
 
 <a name="b017"></a>
-Hızlıca bir göz atalım:
+Kitabı bölüm bölüm inceleyelim.
 
-{{% bible val="Dan.1" link="dan:1" lang="tr" %}}: Daniel ve üç “arkadaşının” Babil’e gidişini (daha önce arkadaş mıydılar yoksa yeni bir yere mi geldiler belli değil) ve Yahudi inancına düşman bir ortamda inançlarını sürdürmek zorunda kalışlarını anlatır.
+{{% bible val="Dan.1" link="dan:1" lang="tr" %}}: Daniel ve üç "arkadaşının" Babil'e varışını (daha önce arkadaş mıydılar yoksa orada mı arkadaş oldular, belli değil) ve buna düşman bir ortamda inançlarını sürdürmek zorunda kalışlarını anlatır.
 
-{{% bible val="Dan.2" link="dan:2" lang="tr" %}}: Daniel, Babil kralının (Nebukadnesar) gördüğü bir rüyanın yorumunu yapar: krallıkları temsil eden heykel gizemli bir taş tarafından yok edilir — bu konuya daha sonra daha ayrıntılı olarak geleceğiz.
+{{% bible val="Dan.2" link="dan:2" lang="tr" %}}: Daniel, Babil kralı Nebukadnessar'ın gördüğü bir rüyayı yorumlar: bir dizi krallığı temsil eden bir heykel, gizemli bir taş tarafından yok edilir. Bu konuya daha sonra döneceğiz.
 
-{{% bible val="Dan.3" link="dan:3" lang="tr" %}}: Babil kralı (böyle bir heykel) yapmaya karar verir ve herkesi ona tapınmaya zorlar. Ancak Daniels’in üç arkadaşı sadık kalır ve üstesinden gelir.
+{{% bible val="Dan.3" link="dan:3" lang="tr" %}}: Babil kralı böyle bir heykel yaptırmaya karar verir ve herkesi ona tapınmaya zorlar. Daniel'in üç arkadaşı sadık kalır ve bunun üstesinden gelir.
 
-{{% bible val="Dan.4" link="dan:4" lang="tr" %}}: Bu bölüm bizi, kralın gururunun, Tanrı’yı tüm dünyanın hükümdarı olarak tanıyana kadar onu nasıl bir canavar olarak alçalttığını anlatan başka bir rüya yorumuna götürür.
+{{% bible val="Dan.4" link="dan:4" lang="tr" %}}: Bu bir başka rüya yorumudur; kralın gururunun, Tanrı'yı tüm dünyanın hükümdarı olarak tanıyana kadar onu nasıl bir canavara dönüştürerek alçalttığını anlatır.
 
-{{% bible val="Dan.5" link="dan:5" lang="tr" %}}: Kral Nebukadnesar’ın halefi bir parti verir ve gururundan Yahudi tapınağından aldığı kadehi içmek için kullanır. Bunun sonucunda bir el onun yargısını duvara yazar. Aynı gece kral öldürülür ve krallığı sona erer ve Persler tarafından ele geçirilir. Bölüm 4'e benzer şekilde, gurur ve aşağılanma hakkındadır.
+{{% bible val="Dan.5" link="dan:5" lang="tr" %}}: Nebukadnessar'ın halefi bir ziyafet verir ve gururla Yahudi tapınağından alınan kadehlerden içer. Bir el duvara onun yargısını yazar; aynı gece kral öldürülür ve krallığı Perslere geçer. 4. bölüm gibi bu da gurur ve alçalma üzerine bir öyküdür.
 
-{{% bible val="Dan.6" link="dan:6" lang="tr" %}}: 3. bölümde olduğu gibi, Daniel inancına sadıktır, ölüme mahkum edilir (aslanların ininde), göksel olarak korunur ve (yeni) krallıkta terfi ettirilir.
+{{% bible val="Dan.6" link="dan:6" lang="tr" %}}: 3. bölümde olduğu gibi Daniel sadık kalır, ölüme — bu kez aslanlar ininde — mahkûm edilir, gökten korunur ve yeni krallıkta yükseltilir.
 
-{{% bible val="Dan.7" link="dan:7" lang="tr" %}}: Bu “garip” bölümlerin ilkidir. Merak etmeyin, onları inceleyeceğiz. Bölüm 2'de olduğu gibi, burada da birbirini izleyen dört imparatorluğu temsil eden dört (canavar) vardır.
+{{% bible val="Dan.7" link="dan:7" lang="tr" %}}: Bu, "garip" bölümlerin ilkidir. Merak etmeyin, onlara da sırayla bakacağız. 2. bölümde olduğu gibi, burada da dört canavar birbirini izleyen dört krallığı temsil eder.
 
-## Chiasm
+## Kiazm
 
 <a name="be58"></a>
-Burada 2. ve 7., 3. ve 6., 4. ve 5. bölümleri benzer bir temayla ama kasıtlı farklılıklarla birbirine bağlayan bir [kiazm](https://www.chiasmusxchange.com/explanatory-notes/) olduğunu fark etmişsinizdir.
+Burada 2. ve 7., 3. ve 6., 4. ve 5. bölümleri birbirine bağlayan bir kiazm fark etmiş olabilirsiniz — her çift ortak bir tema paylaşır, ama kasıtlı bir farkla.
 
-2. ve 7. bölümler her iki 4 krallığı da tanımlar, ancak 2. bölüm onları azalan değerde ve birbirlerini takip ederken ve sonunda gizemli bir taş tarafından yok edilirken, 7. bölüm onları birbirlerini yok eden, göklerin Tanrısı tarafından bastırılan ve Tanrı’nın halkına karşı düşmanlıklarıyla tanımlanan bir canavar olarak gösterir.
+2. ve 7. bölümlerin ikisi de dört krallığı anlatır, ama 2. bölüm bunları azalan bir değerde, birbirini izleyen ve sonunda gizemli bir taş tarafından hepsi birden yok edilen krallıklar olarak sunarken, 7. bölüm onları birbirini yok eden, göklerin Tanrısı tarafından bastırılan ve Tanrı'nın halkına düşmanlıklarıyla tanımlanan canavarlar olarak gösterir.
 
-3. ve 6. bölümler her ikisinin de zulümden kurtuluşunu anlatır, ancak 3. bölümde bu, yetkililer tarafından puta tapmaya zorlandığı bildirilen kötü hükümdardan çıkarken, 6. bölümde bu, Daniel’in inancını yaşayamayacağı konusunda kralı kandıran yetkililer tarafından yapılır. 6. bölüm kralın öyküsünü sona erdirir ve kralı iyi bir kral olarak orada bırakır. 3. bölüm ise eski kralın aşağılanması bölümüne yol açar
+3. ve 6. bölümlerin ikisi de zulümden bir kurtuluşu anlatır, ama tehdidin kaynağı tersine döner: 3. bölümde tehdit, memurları putlara tapmaya zorlayan hükümdarın kendisidir; 6. bölümde ise Daniel'in imanına mal olacak bir fermana kralı kandıran memurlardır. İki bölüm hatta farklı biter — 6. bölüm kralı iyi bir kral olarak temize çıkarırken, 3. bölüm bir sonraki bölümde gelecek olan eski kralın alçalmasına zemin hazırlar.
 
-4. ve 5. bölümler gurur ve aşağılanmayı anlatır. Dördüncü bölümde kral {{% bible val="gururu" link="dan:4,30" lang="tr" %}} yüzünden bir canavar gibi yaşayacak kadar aşağılanır, ancak Tanrı’ya yücelik verdikten sonra eski haline döner. 5. bölümde ise kral uyarıyı alır ve tepkisi Daniel’i terfi ettirmek olur, ancak aynı gece hem kendisi hem de krallığı ölür.
+4. ve 5. bölümlerin ikisi de gurur ve alçalma üzerine döner, ama sonuçları terstir. 4. bölümde kral, {{% bible val="gururu" link="dan:4,30" lang="tr" %}} yüzünden bir canavar gibi yaşayacak kadar alçaltılır, ama Tanrı'ya yücelik verdiğinde eski haline döner. 5. bölümde ise kral aynı uyarıyı alır ama tepkisi sadece Daniel'i terfi ettirmek olur — ve o gece hem kendisi hem de krallığı yok olur.
 
-Bu da kitabın merkezinin bu 6 bölüm olduğu perspektifini vermektedir (1. bölüm giriş, 8–12. bölümler ise eklerdir). Özellikle 2. ve 7. bölümlerin çerçevesi önemli görünmektedir).
+Bu örüntü, kitabın merkezinin bu altı bölüm olduğunu, 1. bölümün giriş, 8–12. bölümlerin ise ek niteliğinde olduğunu düşündürür. Özellikle 2. ve 7. bölümlerin eşleşmesi, kitabın geri kalanının nasıl okunması gerektiği konusunda özel bir ağırlık taşıyor gibi görünüyor.
 
-## Yürüyüş devam etti
+## Gezinti devam ediyor
 
 <a name="0e1c"></a>
-{{% bible val="Dan.8" link="dan:8" lang="tr" %}}: {{% bible val="Pers İmparatorluğu’nun Büyük İskender tarafından" link="dan:8,20-21" lang="tr" %}} çökertilmesi ve sonunda [Antiokus Epifanes IV’ün](https://www.gotquestions.org/Antiochus-Epiphanes.html) hükümdarlığına yol açan, İsrail’in siyasi bağımsızlığıyla sonuçlanan [Maccabean](https://en.wikipedia.org/wiki/Maccabean_Revolt) savaşıyla sonuçlanan Deccal’in Yahudi deneyimi çok kaba hatlarla anlatılmaktadır. {{% bible val="2300 sabah ve akşam " link="dan:8,14" lang="tr" %}}muhtemelen 6.12.176'da Antiokhos’un tapınağı kirletmesinden 31.1.163'te tapınağın adanmasından sonra tapınak dağının tahkim edilmesine kadar geçen süreyi ifade eder (4.12.164)
+{{% bible val="Dan.8" link="dan:8" lang="tr" %}}, {{% bible val="Pers İmparatorluğu'nun Büyük İskender tarafından çökertilmesini" link="dan:8,20-21" lang="tr" %}} kaba hatlarıyla anlatır; bu da sonunda [Antiokhos Epifanes IV'ün](https://www.gotquestions.org/Antiochus-Epiphanes.html) hükümdarlığına — Deccal figürünün Yahudi deneyimine — ve oradan da [Makabe Savaşı'na](https://en.wikipedia.org/wiki/Maccabean_Revolt) ve İsrail'in siyasi bağımsızlığına yol açar. {{% bible val="2300 sabah ve akşam" link="dan:8,14" lang="tr" %}} muhtemelen, tapınağın Antiokhos tarafından MÖ 6 Aralık 176'da kirletilmesinden, tapınağın yeniden adanmasının ardından tapınak dağının MÖ 31 Ocak 163'te (ya da tarihlerin nasıl hesaplandığına bağlı olarak MÖ 4 Aralık 164'te) tahkim edilmesine kadar geçen süreyi kapsar.
 
-{{% bible val="Dan.9" link="dan:9" lang="tr" %}}: Daniels’ın (İsrail’in sürgüne gittiği) 70 haftayla ilgili duası ve bunun ardındaki gizem, İsrail’in (ve yeni antlaşmanın) tüm kötülüklerden tamamen kurtuluşudur. Bu konuya daha derinlemesine bakacağız.
+{{% bible val="Dan.9" link="dan:9" lang="tr" %}}, Daniel'in 70 hafta hakkındaki duasını — İsrail'in sürgününün süresini — ve bunun ardındaki gizemi kaydeder: İsrail'in ve onunla birlikte Yeni Antlaşma'nın tüm kötülükten tam kurtuluşu. Bu bölümü başka bir yerde daha ayrıntılı inceleyeceğiz.
 
-{{% bible val="Dan.10" link="dan:10" lang="tr" %}}: Bu bölüm, 11. ve 12. bölümlerde gelecek olan son görüm için bir hazırlıktır.
+{{% bible val="Dan.10" link="dan:10" lang="tr" %}}, 11. ve 12. bölümlerde gelecek olan son görüm için zemin hazırlar.
 
-{{% bible val="Dan.11/1–35" link="dan:11,1-35" lang="tr" %}}: Bu bölüm yorumcuların hemfikir olduğu bir bölümdür çünkü tarih kitaplarıyla o kadar güçlü bir bağlantı vardır ki bunu inkar edemezsiniz: Persion krallarından (Daniel zamanı) Yahudi Deccal Antiochus Epiphanes IV’e kadar olan zamandır.
+{{% bible val="Dan.11/1–35" link="dan:11,1-35" lang="tr" %}}, yorumcuların büyük ölçüde hemfikir olduğu bir bölümdür, çünkü tarih kitaplarıyla bağlantısı inkâr edilemeyecek kadar güçlüdür: Daniel'in kendi döneminin Pers krallarından Yahudi Deccal figürü Antiokhos Epifanes IV'e kadar olan zamanı izler.
 
-{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="tr" %}}: Bu bölüm bir önceki bölümle sorunsuz bir bağlantı kuruyor gibi görünse de aslında tarihi olaylarla hiçbir bağlantısı yoktur. Bu bölüm daha çok Sur’a benzeyen bu kralın ve krallık türünün ardında yatan güçleri ve potansiyelleri {{% bible val="anlatır" link="ezk:28,13-17" lang="tr" %}}
+{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="tr" %}}, önceki bölümden sorunsuzca devam ediyor gibi görünse de, aslında tarihsel olaylarla açık bir bağlantısı yoktur. Bunun yerine, {{% bible val="Sur'un" link="ezk:28,13-17" lang="tr" %}} başka bir yerde katı bir tarihsel referans yerine bir tip olarak kullanılmasına benzer şekilde, bu tür bir kral ve krallığın ardındaki güçleri ve potansiyelleri anlatır.
 
-{{% bible val="Dan.12" link="dan:12" lang="tr" %}}: Bunlar, kutsal kişinin bütün bu zamanlarda dayanması için bazı son teşviklerdir.
+{{% bible val="Dan.12" link="dan:12" lang="tr" %}}, azizlere tüm bunlara dayanmaları için cesaret vererek kitabı kapatır.
 
-## Ne anlamı var ki?
+## Peki bunun anlamı ne?
 
 <a name="e7d4"></a>
-Hikâyenin birbiriyle örtüşen birkaç boyutu var:
+Burada öykünün birkaç boyutu iç içe geçer. Daniel ve arkadaşlarının iman ve kurtuluş öyküsü vardır; bu, İsrail'in ve varislerinin kurtuluşunun daha büyük öyküsünü yansıtır. Seküler güçlerin ve onların çöküşünün öyküsü vardır — ister bu, Babil kralının ve imparatorluğunun ({{% bible val="altın baş" link="dan:2,38" lang="tr" %}}) devrilmesi olsun, ister Tanrı'nın altında tüm dünyevi krallıkların çöküşü olsun ({{% bible val="2" link="dan:2,45" lang="tr" %}} ve {{% bible val="7" link="dan:7" lang="tr" %}}. bölümler), isterse Deccal figürü Antiokhos Epifanes IV'ten Makabe Savaşı yoluyla gelen daha özel kurtuluş olsun — ki bu da sonunda Roma'ya boyun eğmeye yol açar. Ve tüm bunların altında, {{% bible val="Tanrı'nın gizemli yoluyla" link="dan:9,24-27" lang="tr" %}} gerçekleştirilen ve sonsuza dek süren, {{% bible val="tüm dünyanın ve onun imparatorluklarının" link="dan:2,45" lang="tr" %}} tanrısal kurtuluşu akar.
 
-- Daniel ve arkadaşlarının iman öyküsü ve kurtuluşları, İsrail’in öyküsü ve varislerinin kurtuluşu
-- dünyevi güçler ve onların çöküşü, Babil kralının ve imparatorluğunun ({{% bible val="altının başı" link="dan:2,38" lang="tr" %}}) ya da Tanrı’nın yönetimindeki diğer tüm krallıkların (bölüm {{% bible val="2" link="dan:2,45" lang="tr" %}} ve {{% bible val="7" link="dan:7" lang="tr" %}}) çöküşü olsun ya daDeccal’den (Makabe savaşıyla IV. Antiochus Epiphanes) dünyevi kurtuluş, daha sonra Roma imparatorluğu tarafından boyun eğmeye yol açar
-- Tüm dünyanın tanrısal kurtuluşu ve {{% bible val="Tanrı’nın sonsuza dek tutan gizemli yolundaki" link="dan:2,45" lang="tr" %}} {{% bible val="imparatorlukları" link="dan:2,45" lang="tr" %}}
-
-Tüm bunları bir araya getirmek, dünyanın ebedi kaderinde (her bir) tek kişinin inancının önemini gösterir. Tanrı, bireylerin ince eylemleriyle hareket eder ve yenilmez bir krallık ortaya çıkarır.
+Bir araya geldiğinde bu iplikler, dünyanın ebedi kaderi içinde her bir kişinin imanının ne kadar ağırlık taşıdığını gösterir. Tanrı, bireylerin küçük, çoğu zaman gizli kalan eylemleri aracılığıyla çalışır ve onlar sayesinde yenilmez bir krallık ortaya çıkarır.

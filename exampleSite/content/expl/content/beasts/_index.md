@@ -4,6 +4,6 @@ title: "The unholy trinity (Ch.13)"
 weight: 12
 ---
 
-When you look at the beast you might be overwhelmed by the act of violence. But a second look shows, that this has to do a lot with deception.
+When you look at the beast, you might be overwhelmed by the sheer violence of it. But a second look shows that what's really driving it is deception.
 
-The dragon and the two beast form a trinity where the dragon imitates God the father, the first beast imitages Jesus and the second beast the Holy Spirit.
+The dragon and the two beasts form a counterfeit trinity: the dragon imitates God the Father, the first beast imitates Jesus, and the second beast imitates the Holy Spirit.

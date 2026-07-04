@@ -12,45 +12,45 @@ docType: expl
 appl: /appl/content/vision
 ---
 
-Vahiy Kitabı büyük bir patlamayla başlar. Yuhanna kandillerin arasında yürüyen ve elinde başlangıçlar olan inanılmaz bir figür görür. Bu görümün bir şekilde kitabın kapsamını belirlediği açık olsa da, asıl mesajın ne olduğunu merak edebilirsiniz.
+Vahiy kitabı büyük bir patlamayla başlar: Yuhanna, kandilliklerin arasında elinde yıldızlarla yürüyen olağanüstü bir figürü görümde görür. Bu görümün bir şekilde kitabın tamamının çerçevesini çizdiği açıktır — ama asıl mesaj tam olarak nedir?
 
 ## Genel Bakış
 
 <a name="2ce0"></a>
-Yuhanna (büyük olasılıkla havari) {{% bible val="İsa’yı takip eden radikal bir yaşam tarzının sonuçlarını" link="rev:1,9" lang="tr" %}} yaşayan biri olarak tanıtılır, ancak İsa’nın üç bölüme ayrılan bir vizyonuna sahiptir
+Yuhanna — büyük olasılıkla havari — {{% bible val="İsa’yı radikal bir biçimde izlemenin sonuçlarını yaşayan" link="rev:1,9" lang="tr" %}} biri olarak tanıtılır. Aldığı İsa görümü üç bölüme ayrılır:
 
-- görümün kendisi (12–16. ayetler)
-- onun tepkisi (ayet 17a)
-- ve yorum (17b’den 20'ye kadar olan ayetler)
+- görümün kendisi (12–16. ayetler),
+- onun tepkisi (17a. ayet),
+- ve yorum (17b’den 20’ye kadar olan ayetler).
 
-## Vizyon
+## Görüm
 
 <a name="727c"></a>
-Vizyonda bazı unsurlar yansıtılmaktadır ki bunlara kısaca göz atacağız:
+Görümün üzerinde durmaya değer birkaç unsuru vardır:
 
-- Lamba ayakları: Yuhanna’nın gördüğü ilk şey yedi kandil sehpasıdır. Bunlar büyük olasılıkla {{% bible val="Zekeriya’dan" link="zec:4,2-10" lang="tr" %}} alınmıştır. ([Eğer bu kitaba aşina değilseniz, kısa bir özetini okuyun](https://www.youtube.com/watch?v=_106IfO6Kc0)). Zekeriya’daki bu bölümde Kutsal Ruh’u temsil eden yedi kandil vardır. Kimlikleri hala belirsizdir ve sadece yorumda verilmiştir.
-- İnsanoğlu: Onların ortasında insan oğluna benzer biri vardı. Bu, [İsa’nın kendisine uyguladığı](https://www.bibleserver.com/search/TR/%C4%B0nsano%C4%9Flu) {{% bible val="Daniel’den" link="dan:7,13" lang="tr" %}} iyi bilinen bir resimdir.{{% bible val="İsa aynı zamanda bir kâhin rolüne sahip olduğu için" link="heb:7,11-28" lang="tr" %}}, (tapınaktaki) {{% bible val="kandillerle ilgilenmek onun sorumluluğudur" link="exo:30,7" lang="tr" %}}.
-- Altın kuşaklı cübbe: İsa’nın giydiği altın kuşaklı cüppe kâhinlik giysisi olabileceği gibi kraliyet giysisi de olabilir; İsa kâhin ve kral olarak sunulduğu için bu durum kasıtlı olarak muğlak bırakılmış olabilir.
-- Beyaz saç: Beyaz saç Daniel 7'deki görümü yansıtır.
-- Alev alev yanan ateş gibi gözler, tunç gibi bacaklar, yüksek ses: Bunların hepsi Yuhanna’nın son görüm için hazırlandığı ve görümün {{% bible val="meleksi bir savaşçı olan bir figür" link="dan:10,20" lang="tr" %}} tarafından verildiği {{% bible val="Daniel 10'un özellikleridir" link="dan:10,7" lang="tr" %}}.
+- **Kandillikler.** Yuhanna’nın gördüğü ilk şey, büyük olasılıkla {{% bible val="Zekeriya’dan" link="zec:4,2-10" lang="tr" %}} alınan yedi kandilliktir — bu kitaba aşina değilseniz, [kısa bir özetini burada bulabilirsiniz](https://www.youtube.com/watch?v=_106IfO6Kc0). O bölümde yedi kandil Kutsal Ruh’u temsil eder. Buradaki kimlikleri ise pasajın ilerleyen kısmındaki yoruma kadar belirsiz kalır.
+- **İnsanoğlu.** Kandilliklerin ortasında, {{% bible val="Daniel’den" link="dan:7,13" lang="tr" %}} bilinen ve [İsa’nın kendisine uyguladığı](https://www.bibleserver.com/search/TR/%C4%B0nsano%C4%9Flu) bir imge olan İnsanoğlu’na benzer biri durmaktadır. {{% bible val="İsa aynı zamanda kâhinlik görevini de üstlendiği için" link="heb:7,11-28" lang="tr" %}}, tıpkı tapınakta kâhinin görevi olduğu gibi, {{% bible val="kandilliklerle ilgilenmek" link="exo:30,7" lang="tr" %}} onun sorumluluğudur.
+- **Altın kuşaklı cüppe.** İsa’nın giydiği cüppe ve kuşak, hem kâhin hem de kral giysisi olarak okunabilir — bu belirsizlik muhtemelen kasıtlıdır, çünkü İsa hem kâhin hem de kral olarak sunulur.
+- **Beyaz saçlar.** Bu, Daniel 7’deki görümü yansıtır.
+- **Alev alev yanan ateş gibi gözler, cilalanmış tunç gibi bacaklar, gürleyen bir ses.** Bunların hepsi, {{% bible val="melek bir savaşçı olarak tanımlanan bir figürün" link="dan:10,20" lang="tr" %}} Daniel’i son görümüne hazırladığı {{% bible val="Daniel 10’un özellikleridir" link="dan:10,7" lang="tr" %}} — burada bu figür Yuhanna için de aynı rolü oynar.
 
-Burada İnsanoğlu, Daniel 7'deki “Günlerin Eskisi (Tanrı)” ile birleştirilmiştir.
+Böylece İnsanoğlu, Daniel 7’deki “Eskiden Beri Var Olan” (Tanrı) ile birleştirilmiş olur.
 
-## Yanıt
+## Tepki
 
 <a name="d80b"></a>
-Yuhanna, {{% bible val="Daniel’in görümlerine" link="dan:10,8-19" lang="tr" %}} benzer şekilde yere yığılır.
+Yuhanna yere yığılır, tıpkı {{% bible val="Daniel’in görümlerinin" link="dan:10,8-19" lang="tr" %}} ona yaptığı gibi.
 
-## Yorumlama
+## Yorum
 
 <a name="1a72"></a>
-İsa {{% bible val="bölümün başında" link="rev:1,5" lang="tr" %}} gördüğümüz tüm ifadeleri onaylar.
+İsa, {{% bible val="bölümün başında" link="rev:1,5" lang="tr" %}} gördüğümüz tüm ifadeleri doğrular.
 
-{{% bible val="Sonunda kandillerin ve yıldızların gizemi çözülür" link="rev:1,20" lang="tr" %}}. {{% int_link val="Onlar kilisenin farklı bir tanımını temsil etmektedir" link="/expl/content/letters/the-angel-of-the-churches" %}}. Peki bu ne anlama geliyor?
+Son olarak, {{% bible val="kandilliklerin ve yıldızların gizemi çözülür" link="rev:1,20" lang="tr" %}}: bunlar {{% int_link val="kilisenin farklı betimlemelerini" link="/expl/content/letters/the-angel-of-the-churches" %}} temsil eder. Peki bu ne anlama gelir?
 
-Kilise, aynı zamanda iki ana ortak noktası olan iki farklı resimle tanımlanmaktadır:
+Kilise iki farklı imgeyle betimlenir; bu ikisinin iki ortak noktası vardır:
 
-- ikisi de ışık kaynağıdır: yıldızlar yaratılıştaki yönelim olarak, lamba ise tapınaktaki tek ışık kaynağı olarak durur
-- Her ikisinin de İsa’ya ihtiyacı vardır: yıldızlar İsa’nın elinde olmadıkları zaman parlayamazlar, lamba da ancak yağ (Kutsal Ruh) olduğu zaman ayakta durur.
+- İkisi de ışık kaynağıdır: yıldızlar yaratılışta yön gösterir, kandillik ise tapınaktaki tek ışık kaynağıdır.
+- İkisi de İsa’ya bağımlıdır: yıldızlar ancak O’nun elinde oldukları sürece parlayabilir, kandil de ancak içinde yağ — Kutsal Ruh — olduğu sürece yanık kalır.
 
-Kilisenin amacı dünyaya ışık olmaları, dünyanın kurtulmasıdır. Kitabın amacı budur ve kilisenin sınandığı şey de budur: Kilise ulusları ikna eden bir tanıklık mı?
+Kilisenin amacı, dünyanın kurtulabilmesi için dünyaya ışık olmaktır. Kitabın amacı budur, ve kilisenin sınandığı nokta da budur: kilise, ulusları kazanmaya yetecek kadar ikna edici bir tanıklık mıdır?

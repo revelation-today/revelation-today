@@ -12,45 +12,44 @@ sources:
       ref: beale_rev
 ---
 
-Kuzu’nun gazabı nedir? Bu, inanç adına yapılan savaş eylemlerini destekler mi?
+Kuzu'nun gazabı nedir? Bu, iman adına yapılan savaş eylemlerine destek mi veriyor?
 
-İkinci soruyla başlayalım: Kesinlikle hayır. Yeni Ahit savaşımızın ruhsal olduğunu çok açık bir şekilde ortaya koymuştur.
+İkinci soruyla başlayayım: kesinlikle hayır. Yeni Antlaşma, bizim savaşımızın ruhsal olduğunu çok açık bir şekilde ortaya koyar.
 
-Metin şöyledir: “[Altıncı mührü açarken izledim. Büyük bir deprem oldu. Güneş keçi kılından yapılmış çul gibi karardı, bütün ay kan kırmızısına döndü ve gökteki yıldızlar, şiddetli bir rüzgârla sarsılan incir ağacından düşen incirler gibi yere düştü. Gökler dürülmüş bir tomar gibi geriledi, her dağ ve ada yerinden söküldü. Sonra yeryüzünün kralları, prensleri, komutanları, zenginleri, güçlüleri, köle ve özgür olan herkes mağaralara ve dağların kayalıklarına saklandı. Dağlara ve kayalara şöyle seslendiler: ‘Üzerimize çöküp bizi tahtta oturanın yüzünden ve Kuzu’nun gazabından saklayın! Çünkü onların gazabının büyük günü geldi ve ona kim dayanabilir?](https://www.bibleserver.com/TR/Vahiy6%3A12-17)”
+İşte metin: {{% bible val="Kuzu altıncı mührü açtığında baktım. Büyük bir deprem oldu. Güneş keçi kılından yapılmış çul gibi karardı, ay baştan başa kan rengine döndü. Gökteki yıldızlar, güçlü bir rüzgârla sarsılan incir ağacından dökülen ham incirler gibi yeryüzüne düştü. Gök, dürülen bir tomar gibi ortadan kalktı. Her dağ, her ada yerinden sökülüp alındı. Dünya kralları, büyükleri, komutanları, zenginleri, güçlüleri, özgürü kölesi herkes mağaralara, dağlardaki kayaların arasına gizlendi. Dağlara, kayalara, ‘Üzerimize düşün!’ dediler, ‘Tahtta oturanın yüzünden ve Kuzu'nun gazabından saklayın bizi! Çünkü onların gazap günü geldi. Buna kim dayanabilir?’" link="rev:6,12-17" lang="tr" %}}
 
-## Kuzu’nun Gazabı
+## Kuzu'nun Gazabı
 
 <a name="c1b2"></a>
-Kuzunun Gazabı, İncil’in her yerine yayılmış bir konu gibi görünse de, bu terim aslında altıncı mühür bağlamında sadece {{% bible val="BİR KEZ" link="rev:6,16" lang="tr" %}} vardır ve kuzunun tanımı değil, insanların onun hakkındaki algısıdır. {{% int_link val="Dört atlının İsa’nın kimliğine bürünerek yaptığı tüm tahribattan sonra insanlar İsa’nın" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} da aynı şekilde davranacağından korkmaktadır, ancak öyle değildir. Yargısı şiddetli olacaktır ({{% int_link val="Tanrı’dan kalıcı olarak ayrılma" link="/expl/content/paradise/heaven-and-hell" %}}) ama yıkıcı bir savaş şeklinde değil.
+Kuzu'nun gazabı, Kutsal Kitap boyunca işlenen bir tema gibi görünür, ama bu terimin kendisi aslında yalnızca {{% bible val="bir kez" link="rev:6,16" lang="tr" %}} geçer — tam da burada, altıncı mühürde. Bu, aslında Kuzu'nun bir tasviri değildir — daha çok insanların O'nu nasıl algıladığının bir tasviridir. {{% int_link val="İsa kılığına girmiş dört atlının" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} yol açtığı tüm yıkımdan sonra, insanlar doğal olarak İsa'nın da aynı şekilde davranacağından korkarlar. Ama O öyle yapmayacaktır. O'nun yargısı ağır olacaktır — {{% int_link val="Tanrı'dan kalıcı olarak ayrılma" link="/expl/content/paradise/heaven-and-hell" %}} — ama bu, yıkıcı bir savaş biçiminde olmayacaktır.
 
-Tüm bu sahne {{% bible val="Hoşea’yı" link="hos:10,6-8" lang="tr" %}} hatırlatmaktadır; İsrail putperestliklerinden dolayı utanç duymakta ve Tanrı’dan saklanmaya çalışmaktadır; {{% bible val="bu da insanın düşüşüne, günahından sonra Tanrı’dan saklanmaya çalışmasına geri dönmektedir" link="gen:3,8" lang="tr" %}}.
+Bu sahne, {{% bible val="Hoşea'yı" link="hos:10,6-8" lang="tr" %}} hatırlatır; orada İsrail, putperestliğinden utanç duyup rezil olmuş halde Tanrı'dan saklanmaya çalışır — bu da {{% bible val="Âdem ile Havva'nın günah işledikten sonra Tanrı'dan saklanmaya çalıştığı insanın düşüşüne" link="gen:3,8" lang="tr" %}} kadar uzanır.
 
-Bu da gösteriyor ki buradaki vurgu, insanlara zarar vermek isteyen öfkeli bir Tanrı’dan çok, yanlış yaptıklarını bildikleri için saklanan ve yargılanmayı bekleyen insanlar üzerinedir.
-
-Ancak burada anlatılan tek şey halkın korkusudur, İsa’nın ya da Tanrı’nın tepkisi gösterilmez.
+Buradaki vurgu, insanlara zarar vermeye can atan öfkeli bir Tanrı tasvirinde değil, ne yanlış yaptıklarını bilip ağır bir yargı bekleyen insanların saklanmasındadır. Ayrıca dikkat edin: yalnızca insanların korkusu betimlenir; İsa'nın ya da Tanrı'nın gerçek tepkisi hiçbir zaman gösterilmez.
 
 ## Gazabın anlamı
 
 <a name="7c69"></a>
-Bu pasajda kullanılan “[orge](https://biblehub.com/greek/3709.htm)” sözcüğü “kabarmak “tan türemiştir ve uzun zamandan beri birikmiş olan ve kendiliğinden patlak vermeyen bir muhalefeti tanımlamaktadır.
+Bu pasajda kullanılan sözcük "[orge](https://biblehub.com/greek/3709.htm)"dir; "kabarmak"tan türer ve uzun zamandır birikmekte olan bir direnci tanımlar — ani bir patlama değildir.
 
-Bir yandan insanlar Tanrı’ya karşı biriktirdiklerinin farkına varırken, diğer yandan{{% int_link val=" Tanrı sürekli olarak insanlara ulaşmaya çalışmış, ancak bunun sona erdiği bir nokta gelmiştir" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
+Bir yandan, insanlar Tanrı'ya karşı biriktirdiklerinin ancak şimdi farkına varmaktadır. Öte yandan, {{% int_link val="Tanrı insanlara ulaşmaya çalışmıştır, ama bu çabanın durduğu bir nokta gelir" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
 
-Bu, Tanrı’nın bir şeyler yapıp yapamayacağını görmeye çalışan ve insanlar istekli olmadığı için vazgeçen bir sosyal hizmet görevlisi gibi olduğu izlenimini vermemelidir. İnsanları eylemlerinin sonuçlarıyla yüzleştirecektir.
+Bu, Tanrı'nın yardım etmeye çalışıp sonra insanlar işbirliği yapmak istemediği için vazgeçen bir sosyal hizmet görevlisi gibi olduğu izlenimini vermemelidir. Aksine, bir zaman gelir ki O, insanları kendi eylemlerinin sonuçlarıyla yüzleştirir.
 
 ## Gazabın önemi
 
 <a name="6ade"></a>
-Tanrı’nın gazabını etik ve teolojik açıdan zor bir konu olarak görüyor olabilirsiniz, ancak bunun nedeni sizin (ve hatta ebeveynlerinizin) tarihsel olarak benzersiz bir durumda yaşıyor olmanız olabilir:
+Tanrı'nın gazabını etik ve teolojik açıdan zor bir konu bulabilirsiniz — ama bunun nedeni muhtemelen sizin, hatta ebeveynlerinizin bile, tarihsel olarak eşi benzeri olmayan bir durumda yaşıyor olmanızdır:
 
-- Despotizme, ekonomik ve siyasi istismara maruz kalmazsınız
-- Etnik kökeniniz veya dini ya da siyasi inançlarınız nedeniyle zulüm görmediniz
-- Bazı zenginler daha da zengin olmak istediği için arkadaşlarınızın ve ailenizin açlıktan öldüğünü görmediniz
-- Hayatınızda bir kez bile savaşa ya da kimsenin umurunda olmadığı için herkesi öldüren bir salgına tanık olmadınız
-- Hatta hayatınızda bir bakış açınız ve seçenekleriniz bile olabilir.
+- Despotizme ya da ekonomik ve siyasi istismara maruz kalmadınız.
+- İnsan ticaretine dair bir deneyiminiz yok.
+- Etnik kökeniniz ya da dini veya siyasi inançlarınız yüzünden zulüm görmediniz.
+- Bazı zenginler daha da zengin olmak istediği için arkadaşlarınızın ve ailenizin etrafınızda açlıktan ölmesini izlemediniz.
+- Kimsenin umursamadığı için herkesi öldüren bir savaş ya da salgın yaşamadınız.
+- Hayatınızda gerçek bir bakış açısına ve seçeneklere bile sahip olabilirsiniz.
 
-Size şunu söyleyeyim: Tarihin büyük bölümünde çoğu insan için bunlardan en az biri biliniyordu, örneğin [kölelik geçmişe ait bir olgu değil, yükselen bir olgudur](https://50forfreedom.org/modern-slavery/) ve tüm bunların arkasında doğrudan ya da dolaylı olarak bunlara neden olan insanlar vardır.
+Şunu söyleyeyim: tarih boyunca çoğu insan bunlardan en az biriyle tanışıktır. [Örneğin kölelik geçmişe ait bir olgu değildir, aksine artmaktadır](https://50forfreedom.org/modern-slavery/), ve bu kötülüğün arkasında, doğrudan ya da dolaylı olarak buna neden olan insanlar vardır — soyut güçler değil.
 
-Ve Tanrı acı çekenler adına hareket ederek haklılığını ortaya koyar.
+Yani Tanrı acı çekenler adına harekete geçtiğinde, bu eylem haklıdır.
 
-Başkalarına yaşattığımız acılardan sorumluyuz. Haksızlığımız tek bir duayla silinip gitmez. Tanrı taştan yüreğimizin değişmesini ister.
+Başkalarına yaşattığımız acıdan sorumluyuz, ve kötülüğümüzün sonuçları tek bir duayla öylece silinip gitmez. Tanrı, taştan yüreklerimizin gerçekten değişmesini ister.

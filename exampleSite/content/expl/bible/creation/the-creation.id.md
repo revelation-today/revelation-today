@@ -1,5 +1,5 @@
 ---
-title: "Penciptaan"
+title: "Kisah Penciptaan"
 weight: 1
 base: /quick/bible/creation
 story: /story/tour
@@ -8,99 +8,81 @@ next: /expl/bible/creation/the-temple-and-the-presence-of-god
 docType: expl
 ---
 
-Untuk memahami akhir Alkitab, kita juga perlu memahami permulaannya. Tahukah Anda bahwa pohon kehidupan, yang kita lihat pada kisah kejatuhan manusia ke dalam dosa, atau tanda pada Kain, muncul kembali dalam Kitab Wahyu?
+Untuk memahami akhir Alkitab, kita perlu memahami permulaannya. Tahukah Anda bahwa pohon kehidupan dari kisah kejatuhan, dan tanda yang diberikan kepada Kain, keduanya muncul kembali dalam Kitab Wahyu?
 
 ## Sajak Itu
 
 <a name="9ee8"></a>
-Dalam mitologi-mitologi kuno, dunia sering kali merupakan hasil sampingan dari sebuah pertarungan antara para dewa yang muncul dari kekacauan (chaos).
+Dalam mitologi-mitologi kuno di sekitar Israel, penciptaan biasanya merupakan hasil sampingan dari sebuah pertarungan antardewa, yang muncul dari kekacauan.
 
-Sangat berbeda dengan itu adalah kisah penciptaan dalam Alkitab, yang sebagai sebuah sajak merupakan sebuah karya seni (refreinnya berbunyi: "Allah melihat, dan itu baik, lalu jadilah petang dan jadilah pagi, hari ...").
+Alkitab menceritakannya secara berbeda: di sana, penciptaan ditulis sebagai sebuah sajak, dengan refreinnya sendiri yang berulang — "Allah melihat bahwa itu baik, lalu jadilah petang dan jadilah pagi, hari ..." — seluruh kisah ini dirangkai sebagai sebuah karya seni.
 
-Penciptaan itu disengaja dan dirancang. Pertama-tama tiga bangunan (terang, air, bumi), yang pada tiga hari berikutnya diisi oleh para penghuninya (matahari/bulan/bintang-bintang, ikan-ikan, makhluk-makhluk darat dan udara), dan akhirnya sebagai penutup, hari Sabat.
+Kisah ini juga jelas disengaja dan dirancang: tiga hari pertama membentuk "rumah-rumah" penciptaan (terang, air, bumi), tiga hari berikutnya mengisinya dengan para penghuni (matahari, bulan, dan bintang-bintang; ikan-ikan; binatang darat dan udara), dan hari ketujuh merangkum semuanya dengan hari Sabat.
 
-Dan semuanya sangat baik. Laki-laki dan perempuan diangkat sebagai wakil-wakil Allah yang berkuasa atas segala sesuatu. Mereka diciptakan menurut gambar Allah, artinya keduanya sama-sama mewakili Allah.
+Dan semuanya sangat baik. Laki-laki dan perempuan, wakil-wakil Allah yang diciptakan menurut gambar-Nya, ditempatkan sebagai penguasa atas segala sesuatu — diciptakan setara, keduanya, untuk mewakili Allah.
 
 ## Dramanya
 
 <a name="ed45"></a>
-Bagian berikutnya berbentuk sebuah drama yang menceritakan kembali kisah penciptaan. Sementara sajak itu menggambarkan susunan strukturnya, drama ini dimulai dengan tujuannya: manusia di Taman Eden.
+Bagian Kitab Kejadian selanjutnya adalah sebuah drama yang tumbuh dari kisah penciptaan itu. Jika sajak itu memaparkan strukturnya, drama ini menyingkapkan tujuannya, dan dimulai dengan sang laki-laki dan Taman Eden.
 
-Manusia memiliki segala kebebasan kecuali satu: ia tidak boleh makan dari pohon yang mengenal yang baik dan yang jahat.
+Laki-laki itu memiliki kebebasan penuh, kecuali satu larangan: ia tidak boleh makan dari pohon pengetahuan tentang yang baik dan yang jahat.
 
-Selain itu ia memiliki segalanya: tugas yang bermakna untuk mengolah taman itu, pengelolaan yang kreatif (ia dapat memberi nama, dan dengan demikian identitas, kepada binatang-binatang), hubungan yang erat dengan Allah, ..., tetapi ada satu hal yang kurang, sesuatu yang tidak dianggap baik oleh Allah.
+Ia memiliki segala hal lainnya — sebuah tugas untuk mengolah dan menjaga taman itu, kepemilikan kreatif yang diwujudkan dengan memberi nama kepada binatang-binatang (dan dengan demikian memberi mereka identitas), serta hubungan yang akrab dengan Allah. Tetapi satu hal masih kurang, satu-satunya hal yang tidak disebut baik oleh Allah: ia sendirian.
 
-Allah hidup dalam relasi-relasi dan didefinisikan melaluinya, tetapi manusia itu sendirian. Maka Allah mencari sebuah padanan bagi manusia itu, tetapi tidak menemukannya, dan menciptakan perempuan. Manusia itu begitu terpesona sehingga ia menyebutnya "isha" (perempuan), padanan dari "ish" (laki-laki) — sebuah seruan kagum, semacam "akhirnya ada yang sepadan denganku!" — tetapi Allah menyebutnya "penolong", yang paling tepat diterjemahkan sebagai "penyelamat hidup". Dan demikianlah semuanya dimulai, hanya perlu satu dorongan terakhir dari ular itu.
+Allah sendiri hidup dalam relasi dan didefinisikan olehnya — Allah adalah kasih, dan kasih hanya bermakna dalam relasi — maka Ia mencari padanan bagi laki-laki itu, tidak menemukan yang cocok di antara binatang-binatang, dan sebagai gantinya menciptakan perempuan dari dirinya. Laki-laki itu takjub dan menyebutnya "perempuan," tetapi Allah menyebutnya "penolong" — sebuah kata yang lebih tepat diterjemahkan "penyelamat hidup." Dan di situlah tepatnya kejatuhan itu dimulai: yang dibutuhkan sejak itu hanyalah satu titik balik, dan wujud seekor ular.
 
 ## Dorongan Terakhir
 
 <a name="cba5"></a>
-Ular itu mendekati perempuan itu (bukan laki-laki itu) dan bertanya kepadanya tentang pohon pengetahuan yang baik dan yang jahat. Seperti yang kita lihat, perempuan itu sangat berhati-hati agar tidak melanggar perintah itu. Untuk memastikan hal itu tidak terjadi, ia (atau laki-laki itu) menambahkan sebuah perintah lagi: jangan menyentuhnya.
+Ular itu mendekati perempuan itu, bukan laki-laki itu, dan menantangnya tentang pohon pengetahuan mengenai yang baik dan yang jahat. Perhatikan betapa hati-hatinya ia agar tidak melanggar perintah yang sesungguhnya: untuk menjaga diri agar tidak pernah memakannya, ia menambahkan sebuah perintah sendiri — sebagai penjaga, mungkin atas nama laki-laki itu — bahkan untuk tidak menyentuhnya sekalipun.
 
-Bagi Iblis tidaklah sulit untuk mempertanyakan hal ini, sebab perintah tambahan itu tidak menolongnya, karena ia melihat bahwa buah itu baik untuk dimakan.
+Perintah tambahan itulah yang justru dimanfaatkan oleh iblis, dan perintah itu tidak memberikan perlindungan yang sesungguhnya: buah itu tampak menarik untuk dilihat, dan ia pun memakannya.
 
-Dan ia memberikannya kepada suaminya. Ia tidak perlu mencarinya dan memberikannya kepadanya, sebab laki-laki itu ada di sana sepanjang waktu dan berdiam diri. Ini semakin mengherankan, mengingat "laki-laki" (Adam) berarti "yang mengingat". Setidaknya orang akan berharap bahwa ia mengingat dan berbicara.
-
-Tetapi laki-laki dan perempuan itu sama-sama gagal. Akibatnya adalah rasa malu, yang membuat mereka bersembunyi dari Allah dan saling menyalahkan. Rasa malu adalah ungkapan dari terputusnya relasi.
+Kemudian ia memberikannya kepada laki-laki itu — dan laki-laki itu tidak perlu dicari, sebab ia telah berada di sana sepanjang waktu, berdiam diri. Keheningan itu bermakna, sebab kata Ibrani untuk "laki-laki" mengandung makna "mengingat." Jika ada satu hal yang seharusnya ia kuasai, itu adalah mengingat apa yang telah dikatakan Allah dan siapa diri-Nya. Sebaliknya, mereka berdua gagal. Akibatnya adalah rasa malu, dan rasa malu itu mendorong mereka bersembunyi dari Allah serta saling menyalahkan — rasa malu itu merusak setiap relasi yang disentuhnya.
 
 ## Rencana Pemulihan Allah
 
 <a name="8cbd"></a>
-Allah dapat mempermalukan mereka, tetapi Ia tidak melakukannya. Ia berpura-pura tidak tahu dan bertanya: Adam, di manakah engkau? Ini adalah kesempatan sempurna bagi Adam untuk keluar dari rasa malunya dan membuka diri kepada Allah.
+Allah bisa saja langsung membongkar kesalahan mereka, tetapi Ia tidak melakukannya. Sebaliknya, Ia berpura-pura tidak tahu dan bertanya, "Adam, di manakah engkau?" — kesempatan sempurna bagi Adam untuk keluar dari rasa malunya dan berterus terang kepada Allah.
 
-Tetapi Adam hanya menunjuk pada gejalanya: ia bersembunyi karena telanjang (sebelumnya ia juga telanjang, tetapi tanpa rasa malu).
+Namun Adam hanya menunjuk pada gejala-gejala rasa malunya: ia bersembunyi karena telanjang, padahal sebelumnya ia pun telanjang tanpa rasa malu sama sekali. Maka Allah mendesak lebih langsung: sudahkah engkau makan dari pohon yang dilarang bagimu?
 
-Maka Allah bertanya lebih langsung: apakah engkau telah makan dari pohon yang Kularang engkau makan?
-
-Adam tidak mengakui dosanya, melainkan melemparkan kesalahan kepada semua orang lain: perempuan yang Engkau berikan kepadaku itulah yang memberikannya kepadaku. Ia menuduh Allah karena telah memberikan perempuan itu kepadanya.
-
-Perempuan itu hanya mengakui telah makan dari pohon itu, tetapi tidak mengakui telah memberikan sesuatu kepada laki-laki itu.
+Bahkan pada titik itu, Adam tidak mengaku — ia menyalahkan siapa saja selain dirinya sendiri: "perempuan yang Engkau berikan kepadaku." Dalam satu kalimat, ia berhasil menyalahkan baik Allah maupun perempuan yang baru saja begitu ia kagumi. Perempuan itu, pada bagiannya, hanya mengakui bahwa ia memakan buah dari pohon itu, bukan bahwa ia memberikannya kepada laki-laki itu.
 
 ## Konsekuensinya
 
 <a name="a804"></a>
-Allah menghakimi ular itu tanpa pertanyaan lebih lanjut. Perempuan itu menerima janji bahwa ia akan melahirkan sang penyelamat yang akan menghancurkan ular itu.
+Allah menghakimi ular itu tanpa satu kata pun yang meringankan, dan berjanji bahwa perempuan itu akan melahirkan sang penyelamat yang akan menghancurkannya.
 
-Penghakiman atas laki-laki itu menunjukkan di mana persoalan sesungguhnya terletak: karena ia mendengarkan suara perempuan itu!
-
-Perempuan itu adalah impian yang menjadi kenyataan, yang diberikan Allah kepadanya. Tetapi alih-alih membawanya lebih dekat kepada Allah, ia malah menggantikan Allah dengan pemberian Allah itu.
-
-Ia menaati perkataan perempuan itu, bukan perkataan Allah. Buah itu hanya berfungsi untuk menunjukkan persoalan yang sudah ada sejak awal: laki-laki itu tidak menuntun perempuan itu kepada Allah, melainkan menunggu tuntunannya, yang tidak pernah ia terima, sehingga perempuan itu mendengarkan petunjuk ular itu, sebuah makhluk yang seharusnya diperintah oleh laki-laki itu.
+Penghakiman atas laki-laki itu menyebut persoalan yang sesungguhnya: "karena engkau mendengarkan suara istrimu." Perempuan itu adalah sebuah impian yang menjadi nyata, sebuah pemberian langsung dari Allah — tetapi alih-alih membiarkan perempuan itu menariknya lebih dekat kepada Allah, laki-laki itu membiarkan pemberian Allah menggantikan Allah sendiri. Ia menaati perkataan perempuan itu, bukan perkataan Allah. Buah itu hanya menyingkapkan persoalan yang sudah ada sejak semula: sejak awal, laki-laki itu tidak pernah menuntun perempuan itu kepada Allah. Ia malah menunggu perempuan itu yang menuntun, sebuah peran yang tidak pernah diberikan kepadanya, sehingga akhirnya perempuan itu dituntun oleh ular — makhluk yang justru diberikan kepada laki-laki itu untuk dikuasai.
 
 ## Hal yang Tak Terbayangkan
 
 <a name="9de4"></a>
-Mereka harus meninggalkan taman itu, tetapi sebelumnya rasa malu mereka ditutupi dengan kulit binatang. Tunggu, kulit tidak tumbuh di pohon. Allah harus melukai ciptaan-Nya sendiri dan mengorbankan dua ekor binatang untuk menutupi rasa malu manusia itu. Binatang-binatang ini mati menggantikan manusia, dan mengenakan pakaian itu dimaksudkan untuk mengingatkan mereka akan apa yang telah dilakukan Allah.
+Mereka harus meninggalkan taman itu, tetapi terlebih dahulu rasa malu mereka ditutupi — dengan kulit binatang. Renungkanlah hal itu sejenak, sebab kulit binatang tidak tumbuh di pohon. Allah harus merusak ciptaan-Nya sendiri dan membiarkan binatang-binatang mati hanya untuk menutupi rasa malu laki-laki dan perempuan itu. Binatang-binatang itu mati menggantikan mereka, dan pakaian yang dibuat dari kulit mereka dimaksudkan untuk memastikan Adam dan Hawa tidak akan pernah melupakannya.
 
 ## Sebuah Permulaan Baru
 
 <a name="ce2a"></a>
-Setelah mereka meninggalkan taman itu, Hawa mengandung dan membuat sebuah pernyataan yang luar biasa: "Aku telah mendapat seorang anak laki-laki dengan pertolongan TUHAN." Tentu saja anak itu jelas berasal dari Adam, tetapi nama "Kain" (harta) menunjukkan pemikiran yang ada di baliknya. Ia berpikir bahwa Kain adalah tiket masuknya kembali ke taman itu dan bahwa dialah yang akan menghancurkan ular itu. Hal ini menjadi lebih jelas lagi ketika ia menamai adiknya Habel.
+Setelah mereka meninggalkan taman itu, Hawa mengandung dan membuat sebuah pernyataan yang mencolok: "Aku telah mendapat seorang anak laki-laki dengan pertolongan TUHAN." Anak itu jelas adalah anak Adam, tetapi nama yang ia berikan kepadanya — Kain, yang berarti "harta" — menunjukkan apa yang sesungguhnya ia pikirkan. Barangkali ia berharap Kain adalah tiketnya kembali ke taman itu, sang penyelamat yang dijanjikan yang akan menghancurkan ular itu. Harapan itu menjadi semakin jelas ketika ia menamai putra keduanya Habel — yang berarti "kesia-siaan" atau "uap."
 
 ## Ledakan Itu
 
 <a name="6a1a"></a>
-Bagi Kain, berat rasanya menanggung semua harapan yang dibebankan kepadanya, dan bagi Habel, tidak ada yang diharapkan darinya. Keduanya menderita di bawah beban orang tua mereka dan mulai membandingkan diri satu sama lain.
+Berat bagi Kain untuk menanggung seluruh harapan orang tuanya, dan sama beratnya bagi Habel untuk sama sekali tidak dibebani harapan apa pun. Kedua bersaudara ini sama-sama menderita akibat kehilangan yang dibebankan orang tua mereka, dan kehilangan itu mendorong mereka untuk saling membandingkan diri.
 
-Suatu hari mereka mempersembahkan korban kepada Allah: Kain dari hasil tanahnya, dan Habel dari domba-dombanya. Allah menerima korban Habel, tetapi tidak menerima korban Kain. Kain sangat marah! Tetapi apa persoalannya?
+Suatu hari mereka masing-masing membawa persembahan — Kain dari hasil ladang, Habel dari kawanan ternaknya — dan Allah menerima persembahan Habel, tetapi tidak menerima persembahan Kain. Kain pun menjadi sangat marah.
 
-Kain mungkin tidak memahami alasannya, tetapi Habel tampaknya bertindak dengan sengaja, mengenang apa yang telah dilakukan Allah di taman itu dengan kulit binatang.
+Apa persoalannya? Kain tampaknya tidak memahami alasannya, tetapi bisa jadi Habel sengaja mempersembahkan korbannya itu untuk mengenang apa yang telah dilakukan Allah di Eden guna menutupi rasa malu orang tua mereka.
 
-Kain marah, dan Allah segera bertindak dan memperingatkan Kain tentang dosa, yang di sini dipahami bukan sebagai tindakan yang keliru, melainkan sebagai tindakan yang disengaja dengan sebuah tujuan.
-
-Tetapi Kain tidak mendengarkan dan membunuh saudaranya. Ketika Kain diperhadapkan dengan perbuatannya, ia menyesal dan merasa tidak sanggup menanggung akibat perbuatannya, sehingga Allah menaruh sebuah tanda padanya, agar tidak seorang pun mencelakakannya.
+Ketika kemarahan Kain semakin memuncak, Allah segera bertindak untuk memperingatkannya. Menariknya, dosa di sini tidak digambarkan sebagai sebuah tindakan yang sudah dilakukan, melainkan sebagai sebuah niat dengan tujuan yang masih terbentuk. Kain tidak mendengarkan, dan ia membunuh saudaranya. Ketika ia diperhadapkan dengan perbuatannya, ia menyesal, dan — karena merasa tidak sanggup menanggung akibat perbuatannya — Allah menaruh sebuah tanda pelindung padanya.
 
 ## Skandal Itu
 
 <a name="3b92"></a>
-Keturunan Kain berkembang biak dan mencari perlindungan dalam kota-kota dan penemuan-penemuan. Pada generasi ketujuh setelah Adam, muncullah Lamekh, seorang keturunan Kain, dan ia menunjukkan wajah aslinya.
+Keturunan Kain terus bertambah banyak, mencari perlindungan di kota-kota dan dalam inovasi-inovasi peradaban. Kemudian, pada generasi ketujuh setelah Adam, Lamekh menunjukkan wajah aslinya.
 
-Ia adalah orang pertama yang dikisahkan memiliki dua istri, dan ia mengejek tanda Allah pada Kain:
+Ia adalah orang pertama yang tercatat mengambil dua istri, dan ia secara terang-terangan mengejek tanda pelindung yang telah diberikan Allah kepada leluhurnya, Kain. Ia sendiri sudah membunuh seseorang — justru hal yang seharusnya dicegah oleh tanda itu — dan menyombongkan diri bahwa konsekuensi bagi siapa pun yang menyentuhnya akan jauh lebih besar daripada konsekuensi yang dijanjikan Allah sendiri bagi Kain. Apakah ia mengklaim dirinya lebih besar daripada Allah sendiri?
 
-- Ia telah membunuh seseorang, padahal tanda pada Kain seharusnya melindunginya dari dibunuh oleh orang lain.
-- Lamekh mengancam dengan konsekuensi yang jauh lebih besar daripada Allah. Apakah ia lebih besar daripada Allah?
-
-Di sisi lain, ia mempermalukan dirinya sendiri.
-
-- Ia tidak membanggakan diri di hadapan seluruh dunia, melainkan hanya berani menyombongkan diri di hadapan kedua istrinya
-- Dan siapakah yang akan membalaskan dendam Lamekh jika ia dibunuh? Istri-istrinya?
+Namun, dengan caranya sendiri, ia juga menjadi bahan tertawaan. Ia tidak berani mengumumkan kesombongan ini kepada dunia — hanya kepada istrinya, secara pribadi. Dan siapa sebenarnya yang tersisa untuk membalaskan dendam Lamekh jika seseorang membunuhnya? Istri-istrinya?

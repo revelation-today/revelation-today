@@ -1,11 +1,11 @@
 ---
-linkTitle: "Küçük parşömen (Böl.10)"
-title: "Küçük parşömen (Böl.10)"
+linkTitle: "Küçük tomar (Böl.10)"
+title: "Küçük tomar (Böl.10)"
 weight: 9
 ---
 
-Trompetlerle ilgili çıkmazdan sonra kilisenin yeni bir esine ihtiyacı vardır. Bu, Yuhanna'nın içselleştirmesi gereken küçük bir tomarla birlikte gelir.
+Borazanların çıkmaz sokağından sonra — dokuz bela geçmiş, yine de tövbe eden yok — kilisenin yeni bir esine ihtiyacı vardır ve bu esin, Yuhanna'ya içselleştirmesi söylenen küçük bir tomar biçiminde gelir.
 
-Bu Tanrı'nın gizemidir. Tanrı, İsa'nın yaptığı gibi zayıflık içinde fetheder. Kilise İsa'nın ayak izlerini takip ettiğinde başarılı olacaktır.
+O tomar Tanrı'nın sırrını taşır: Tanrı, tıpkı İsa'nın çarmıhta yaptığı gibi, zayıflık yoluyla fetheder. Kilise aynı yoldan yürüdüğünde başarıya ulaşır — bu başarı dünyanın gözünde zafere hiç benzemese bile.
 
-Ama burada esas olan nedir? Sonraki 6 bölüm bunu gösterecektir.
+Sonraki altı bölümün izini sürdüğü konu budur.

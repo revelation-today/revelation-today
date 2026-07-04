@@ -11,22 +11,22 @@ sources:
       ref: sarna_exo
 ---
 
-Als Israel nach Ägypten kam, waren sie willkommen. Aber das nächste Mal, wenn wir von ihnen lesen, sind sie Sklaven. Was war geschehen?
+Als Israel zum ersten Mal nach Ägypten kam, wurde es willkommen geheißen. Als wir das nächste Mal von ihnen lesen, sind sie Sklaven. Was war in der Zwischenzeit geschehen?
 
-## Es begann alles mit den Hyksos
+## Alles begann mit den Hyksos
 
 <a name="de3d"></a>
-Die Zeit der Hyksos (wörtlich “Herrscher eines anderen Landes”) begann, als sich immer mehr asiatische Stämme (hauptsächlich aus Kanaan) mit den Ägyptern vermischten. Sie wurden in Ägypten immer stärker und 1720 v. Chr. hatten sie die volle Kontrolle über den östlichen Teil des Nildeltas und sogar eine Hauptstadt: Avaris.
+Die Geschichte beginnt mit den Hyksos (wörtlich „Herrscher aus einem anderen Land“), einer Gruppe, die an Einfluss gewann, als sich immer mehr asiatische Stämme — hauptsächlich aus Kanaan — mit der ägyptischen Bevölkerung vermischten. Ihre Präsenz wuchs stetig, bis sie um 1720 v. Chr. die volle Kontrolle über das östliche Nildelta hatten und sogar eine eigene Hauptstadt besaßen: Avaris.
 
-Von dort aus expandierten sie nach Süden und eroberten 1674 v. Chr. die damalige Hauptstadt Memphis. Damit bildeten die [Hyksos im 15. und 16. Jahrhundert v. Chr. eine Dynastie in Ägypten](https://de.wikipedia.org/wiki/Geschichte_des_Alten_%C3%84gypten#Die_Gro%C3%9Fe_Hyksos-Dynastie_um_Avaris) und brachten Semiten wie Josef in hohe Positionen.
+Von dort aus expandierten sie nach Süden, und 1674 v. Chr. eroberten sie Memphis, die frühere ägyptische Hauptstadt. Damit bildeten die [Hyksos die 15. und 16. Dynastie Ägyptens](https://de.wikipedia.org/wiki/Geschichte_des_Alten_%C3%84gypten#Die_Gro%C3%9Fe_Hyksos-Dynastie_um_Avaris), und unter ihrer Herrschaft konnten Semiten wie Josef zu hohen Ämtern aufsteigen.
 
 ## Nie wieder
 
 <a name="1933"></a>
-Die Hyksos wurden schließlich 1550 v. Chr. besiegt und Ägypten wollte um jeden Preis ein zweites Hyksos verhindern. Deshalb wollte der Pharao von dieser Zeit an, dass die Fremden klein und schwach gehalten wurden.
+Die Hyksos wurden schließlich um 1550 v. Chr. besiegt, und Ägypten war entschlossen, eine zweite Machtübernahme durch ein Hyksos-Volk niemals wieder zuzulassen. Genau diese Entschlossenheit trieb den Pharao dazu, die Israeliten klein und schwach zu halten.
 
-Es ist wahrscheinlich, dass Joseph während der Hyksoszeit lebte, da
+Mehrere Details legen nahe, dass Josef selbst zur Zeit der Hyksos lebte:
 
-- Das Land {{% bible val="Goschen (im Norden Ägyptens) war in der Nähe des Palastes, als Josef in Ägypten war" link="gen:45,10" lang="de" %}}
-- Israel wurde gezwungen, die {{% bible val="Städte Pithon und Ramses zu bauen" link="exo:1,11" lang="de" %}}, die wahrscheinlich unter [Ramses II](https://de.wikipedia.org/wiki/Ramses_II.) errichtet wurden. Diese {{% bible val="Städte lagen im Nordwesten, von wo aus Israel auswanderte" link="exo:12,37" lang="de" %}}.
-- Ramses’ Vater Sethos I baute einen Sommerpalast in der Nähe von Avaris (der damaligen Hauptstadt der Hyksos), was auch erklärt, warum Moses so schnell von der Prinzessin in der Nähe von Goschen gefunden wurde.
+- Das {{% bible val="Land Goschen im Nordwesten Ägyptens lag in der Nähe des Palastes, als Josef dort war" link="gen:45,10" lang="de" %}}.
+- Israel wurde später gezwungen, die {{% bible val="Städte Pitom und Ramses zu bauen" link="exo:1,11" lang="de" %}}, höchstwahrscheinlich unter [Ramses II.](https://de.wikipedia.org/wiki/Ramses_II.), der den Nordosten wieder aufbaute — genau die Region, {{% bible val="aus der die Israeliten schließlich auszogen" link="exo:12,37" lang="de" %}}.
+- Ramses’ Vater, Sethos I., baute einen Sommerpalast in der Nähe von Avaris, der früheren Hauptstadt der Hyksos. Auch dieses Detail erklärt, wie Mose so schnell von der Prinzessin gefunden werden konnte: Der Palast lag noch immer nahe bei Goschen.

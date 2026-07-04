@@ -4,5 +4,4 @@ title: Kitabın yapısı
 weight: 4
 ---
 
-Kitap çok kaotik görünüyor ve bir felaketten diğerine doğru ilerliyor. Ancak durum bunun tam tersidir. Kitap çok iyi organize edilmiş ve bilinçli bir şekilde düzenlenmiştir.
-Bu makalelerde buna daha iyi bakacağız.
+Kitap ilk bakışta kaotik görünür, bir felaketten diğerine doğru savrulur gibidir. Ama gerçek tam tersidir: çok iyi organize edilmiş ve bilinçli bir şekilde düzenlenmiştir. Aşağıdaki makaleler, bunun nasıl olduğuna daha yakından bakıyor.

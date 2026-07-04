@@ -23,81 +23,54 @@ sources:
       ref: beale_rev
 ---
 
-Bir Hıristiyan olarak {{% bible val="Luka" link="luk:2" lang="tr" %}}’nın klasik Noel hikâyesine aşina olabilirsiniz; çobanlar, ahırdaki bebek ve gizemli bir yıldızın peşinden giden üç uzak gezginle ilgili biraz romantik bir hikâye.
+Bir Hıristiyan olarak, muhtemelen {{% bible val="Luka" link="luk:2" lang="tr" %}}'da anlatılan klasik Noel hikâyesine oldukça aşinasınızdır: çobanlar ve bir ahırdaki bebekle ilgili biraz romantik bir öykü ile gizemli bir yıldızı takip eden üç uzak diyar gezgini.
 
-Bu hikâye Noel’in belli bir yönünü gösteriyor ve biz bu hikâyeyi o kadar sık duyduk ki, artık hiç duymuyoruz. Belki de Kutsal Kitap’tan başka bir Noel hikâyesi dinlemenin zamanı gelmiştir. Bunun için sizi Vahiy kitabının 12. bölümüne götürmek istiyorum.
+Bu hikâye Noel'in bir yönünü gösterir ve onu o kadar çok kez duyduk ki artık gerçekten duymuyoruz bile. Belki de Kutsal Kitap'tan başka bir Noel hikâyesi dinlemenin zamanı gelmiştir — bu kez Vahiy kitabının 12. bölümünden.
 
 ## Hikaye
 
 <a name="1bad"></a>
-{{% bible val="Gökte olağanüstü bir belirti, güneşe sarınmış bir kadın göründü. Ay ayaklarının altındaydı, başında on iki yıldızdan oluşan bir taç vardı. Kadın gebeydi. Doğum sancıları içinde kıvranıyor, feryat ediyordu. Ardından gökte başka bir belirti göründü: Yedi başlı, on boynuzlu, kızıl renkli büyük bir ejderhaydı bu. Yedi başında yedi taç vardı. Kuyruğuyla gökteki yıldızların üçte birini sürükleyip yeryüzüne attı. Sonra doğum yapmak üzere olan kadının önünde durdu; kadın doğurur doğurmaz ejderha çocuğu yutacaktı. Kadın bir oğul, bütün ulusları demir çomakla güdecek bir erkek çocuk doğurdu. Çocuk hemen alınıp Tanrı’ya, Tanrı’nın tahtına götürüldü." link="rev:12,1-5" lang="tr" %}}
+[Gökte olağanüstü bir belirti, güneşe sarınmış bir kadın göründü. Ay ayaklarının altındaydı, başında on iki yıldızdan oluşan bir taç vardı. Kadın gebeydi. Doğum sancıları içinde kıvranıyor, feryat ediyordu. Ardından gökte başka bir belirti göründü: Yedi başlı, on boynuzlu, kızıl renkli büyük bir ejderhaydı bu. Yedi başında yedi taç vardı. Kuyruğuyla gökteki yıldızların üçte birini sürükleyip yeryüzüne attı. Sonra doğum yapmak üzere olan kadının önünde durdu; kadın doğurur doğurmaz ejderha çocuğu yutacaktı. Kadın bir oğul, bütün ulusları demir çomakla güdecek bir erkek çocuk doğurdu. Çocuk hemen alınıp Tanrı'ya, Tanrı'nın tahtına götürüldü.](Rev.12/1–5)
 
-İlk başta bunu şöyle bir şey olarak düşünebilirsiniz
+İlk bakışta muhtemelen aklınıza şöyle bir şey gelir:
 
 ![](/images/Dragon-and-woman-revelation-luther-bibel.jpg) <!-- https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" -->
 
-Bu sahnede birçok gizemli figür var, ancak kimin kim olduğunu anlamaya çalışmadan önce bu sahneyi biraz oturtalım.
+Bu sahnede pek çok gizemli figür var, ama kimin kim olduğunu çözmeye çalışmadan önce sahneyi doğru bir perspektife oturtalım. Elimizde, bazı göksel niteliklere rağmen her şeyden önce tek bir şey olan bir kadın var: hamile ve doğum yapmak üzere — en hafif tabirle, büyük bir savaşa hiç hazır olmayan bir durumda. Karşısında ise tek bir amacı olan kocaman, öfkeli, kızıl bir ejderha var: çocuğu doğar doğmaz yutmak.
 
-Bazı ilahi niteliklere rağmen bir kadın var: hamile ve doğum yapmak üzere. En hafif deyimiyle, büyük bir savaşa hazır durumda değil.
-
-Diğer tarafta ise tek bir amacı olan devasa ve öfkeli (kırmızı) bir ejderha vardır: doğmak üzere olan çocuğu yutmak.
-
-Sonunu bilmeden bu sahneye baktığımızda, kesinlikle bu kadının hiç şansı olmadığını ve çocuğun da geleceği olmadığını söyleyebiliriz, ancak şaşırtıcı bir şekilde çocuk cennete taşınarak üstesinden gelir.
-
-Peki bu hikaye ne hakkında? Karakterlere bir göz atalım
+Sonunu bilmeden bu sahneye bakarsak, kesinlikle kadının hiçbir şansı olmadığını ve çocuğun da bir geleceği olmadığını söylerdik. Ama şaşırtıcı bir şekilde çocuk üstesinden gelir — göğe kapılarak. Peki bu hikâye aslında ne anlatıyor? Karakterlere bir göz atalım.
 
 ## Ejderha
 
 <a name="ddd2"></a>
-Tanımlanması gereken ilk kişi kolaydır: ejderha. 9. ayette “İblis ya da Şeytan denilen o eski yılan” olarak tanımlanır — Aden’deki düşüşü bile anımsatır.
+İlkini tanımak kolay. 9. ayette açıkça "İblis ya da Şeytan denilen o eski yılan" olarak adlandırılır — bu ifade hemen Aden'deki düşüşü hatırlatır.
 
 ## Çocuk
 
 <a name="8ae1"></a>
-Çocuğa bir göz atalım. Çok fazla açıklama yok ama çok göze çarpan bir özelliği var: demir asa. Kutsal Kitap’a bakalım ve ne bulabileceğimizi görelim; birkaç referans var:
+Çocuk hakkında pek az şey anlatılır, ama bir özellik hemen göze çarpar: demir çomak. Kutsal Kitap'ın geri kalanına baktığımızda, bu çocuğun kim olduğunu ortaya koyan birkaç referans buluruz:
+- {{% bible val="Mezmur 2" link="psa:2" lang="tr" %}}, yeryüzünün bütün krallarının Tanrı'ya isyan ettiği bir sahneyi anlatır; Tanrı onları, kendilerini demir bir çomakla yönetecek olan Oğlu'ndan korkmaları konusunda uyarır.
+- {{% bible val="Yeşaya 11/4" link="isa:11,4" lang="tr" %}}, yeryüzünü ağzının değneğiyle vuracak olan gelecek Mesih'i anlatır.
+- {{% bible val="Vahiy 2/27'de" link="rev:2,27" lang="tr" %}} İsa, kendisinden demir bir çomakla hükmeden kişi olarak söz eder.
 
-- {{% bible val="Mezmur 2" link="psa:2" lang="tr" %}}, tüm kralların Tanrı’ya isyan ettiği bir sahneyi anlatır, ancak Tanrı onları, kendilerini demir bir asayla yönetecek olan oğlundan korkmaları gerektiği konusunda tehdit eder
-- {{% bible val="Isa.11/4" link="isa:11,4" lang="tr" %}}, ağzının değneğiyle yeryüzüne vuracak olan Mesih’in gelişini anlatır
-- {{% bible val="Vahiy 2/27'de" link="rev:2,27" lang="tr" %}} İsa’nın kendisinden demir bir asayla hüküm süren kişi olarak söz edilir
+Bu referanslar, çocuğun İsa olduğunu ve bunun onun doğum hikâyesi olduğunu oldukça netleştirir. Peki güneşe, aya ve on iki yıldıza sarınmış bu tuhaf kadın kimdir? İsa'yı kimin doğurduğuna dair üç aday vardır:
+- Elbette Meryem, çünkü {{% bible val="İsa'yı o doğurdu" link="mat:1,18-24" lang="tr" %}}.
+- {{% bible val="Soyunun yılanı yok edeceği vaat edilen" link="gen:3,15" lang="tr" %}} Havva.
+- {{% bible val="Mesih'i doğuracağı vaat edilen" link="isa:66,7" lang="tr" %}} İsrail.
 
-Bu referanslar öykünün İsa’dan ve onun doğumundan bahsettiğini açıkça ortaya koymaktadır.
+Peki hikâye gerçekte hangisinden söz ediyor? Meryem ilk bakışta bariz seçim gibi görünür, ama Kutsal Kitap'ta hiçbir yerde Meryem ile güneş, ay ve yıldızlar arasında bir bağlantı kurulmaz — tam tersine, Meryem'i güneş, ay ve yıldızlarla ilişkilendiren şey Kutsal Yazı değil, bu kadının Meryem olması gerektiği varsayımından yola çıkan kilise geleneğidir. Havva için bir bağlantı öne sürülebilir, çünkü Âdem ve Havva, Yaratılış 1'deki yaratılış anlatısında güneş, ay ve yıldızlarla birlikte anılır — ama bu, hikâyemizin neden özellikle on iki yıldızdan söz ettiğini açıklamadan bırakır.
 
-## Kadın
+En iyi eşleşme İsrail'dir. İsrail ilk bakışta açıkça bir "kadın" değildir, ama Kutsal Kitap ondan {{% bible val="Siyon kızı" link="isa:62,11" lang="tr" %}} olarak söz eder. Daha yakın bir paralellik ise {{% bible val="Yusuf'un ikinci rüyasıdır" link="gen:37,9-10" lang="tr" %}}: orada güneşi, ayı ve on bir yıldızı görür, babası da bunu on bir kardeşi ve ebeveynleri olarak yorumlar — Yusuf'un kendisiyle birlikte toplamda on iki yıldız eder. Bu on iki, aşağı yukarı, İsrail'in on iki oymağıdır.
 
-<a name="8384"></a>
-Peki güneş, ay ve 12 yıldızla giydirilmiş olan bu tuhaf kadın kimdir? Üç aday vardır (İsa’yı doğuran)
-
-- {{% bible val="Meryem elbette İsa’yı doğurduğu için" link="mat:1,18-24" lang="tr" %}}
-- {{% bible val="Havva’ya yavrusunun yılanı yok edeceği vaat edildi" link="gen:3,15" lang="tr" %}}
-- {{% bible val="Ancak Mesih’i (İsa) getireceği vaat edilen İsrail de vardır" link="isa:66,7" lang="tr" %}}
-
-Peki bu hikaye kimden bahsediyor?
-
-- Meryem bariz gibi görünmektedir ancak İncil’in hiçbir yerinde Meryem ile oğul, ay ve yıldızlar arasında bir bağlantı yoktur — tam tersi: Meryem’in kilise geleneğinde güneş, ay ve yıldızlarla ilişkilendirilmesi, bu kadının Meryem olması gerektiği yorumundan kaynaklanmaktadır
-- Havva ile güneş, ay ve yıldızlar arasında bir bağlantı görebilirsiniz, çünkü Adem ve Havva {{% bible val="yaratılışta" link="gen:1" lang="tr" %}} onlarla birlikte anılır. Ancak hikayemizin neden 12 yıldızdan bahsettiğini açık tutuyor!
-- En iyi eşleşme, ilk bakışta gerçekte bir kadın olmayan ama Kutsal Kitap’ta {{% bible val="kızı Siyon" link="isa:62,11" lang="tr" %}} olarak anılacak olan İsrail’dir. {{% bible val="Yusuf’un ikinci rüyasına" link="gen:37,9-10" lang="tr" %}} baktığımızda çok yakın bir paralellik görürüz. Orada güneş, ay ve 11 yıldızdan bahseder ve babası bunu 1 kardeşi ve ebeveynleri (Yusuf dahil 12 yıldız yapar) üzerinde yorumlar. Ve bu 12 kardeş (aşağı yukarı) İsrail’in 12 kabilesidir.
-
-## Son olarak, hikaye
+## Son olarak, hikâye
 
 <a name="c879"></a>
-Peki Vahiy 12/1–5'in öyküsü nedir?
+Peki Vahiy 12/1-5'in hikâyesi nedir? İsrail'e, yani kadına, Mesih'i, yani çocuğu doğuracağı vaat edilmişti — bu vaat, İsrail'in Roma tarafından denetlendiği ve ezildiği, ağır bir baskı altında olduğu bir dönemde gerçekleşti. O yıllarda Roma'ya karşı birçok isyan patlak verdi ve hepsi bastırıldı.
 
-İsrail’e (kadın) Mesih’i (çocuk) doğuracağı vaat edildi. (Bu olay İsrail’in büyük baskı altında olduğu bir dönemde gerçekleşti: Roma tarafından kontrol ediliyor ve baskı altında tutuluyordu. Roma’ya karşı birçok isyan oldu ama hepsi bastırıldı).
+İsa işte bu baskının ortasında doğdu ve {{% bible val="Kral Hirodes onu öldürmek üzereyken" link="mat:2" lang="tr" %}} yakın bir tehlikeden kurtarıldı. İsa hizmetine başladığında {{% bible val="şeytan onu ayartmaya çalıştı" link="mat:4,1-11" lang="tr" %}} — bu girişim de başarısız oldu. İsa, her türlü karşı koymaya rağmen, hatta çarmıhta ölse bile başarılı olur ve sonunda ölümden diriltilip göğe yükseltilir (Vahiy 12/5, İsa'nın doğumu ile göğe yükselişi arasındaki her şeyi atlayıp doğrudan geçer).
 
-Bu dönemde İsa doğdu ve {{% bible val="Kral Hirodes onu öldürmek üzereyken" link="mat:2" lang="tr" %}} yakın bir tehlikeden kurtarıldı. İsa hizmetine başladığında, {{% bible val="şeytan onu ayartmaya çalışıyordu" link="mat:4,1-11" lang="tr" %}} — her iki girişim de başarısız oldu.
+Bu, Yeni Antlaşma'dan zaten bildiğimiz Noel hikâyesidir ve duygu doludur: kadının çaresizliğiyle iç içe geçen görkemi, çocuğu için duyduğu korku, ejderhanın öfkesi ve kararlılığı ve sonunda ejderhanın şaşırtıcı biçimde yenilgiye uğraması.
 
-İsa her türlü muhalefete rağmen başarılı olur, hatta çarmıhta ölür, sonunda ölümden dirilir ve göğe yükselir (Rev.12/5 İsa’nın doğumu ve göğe yükselişi arasındaki kısmı atlamıştır).
+## Örüntü: zayıflık içinde galip gelmek
 
-İşte Yeni Ahit’ten bildiğimiz Noel hikayesi budur ve bu hikaye duygularla doludur
-
-- kadının görkemiyle birlikte çaresizliği
-- çocuğu için duyduğu korku
-- ejderhanın öfkesi ve kararlılığı
-- ejderhanın şaşırtıcı üstesinden gelişi
-
-İsa’nın bunun üstesinden neden geldiği açıklanmamıştır, ancak görünüşte çaresiz olan ile üstesinden gelen arasındaki bu gerilim Vahiy kitabının her yerinde mevcuttur
-
-- Vahiy 2–3'te İsa’dan şikayet almayan sadece iki kilise Smyrna ve Philadelphia’dır (ki durumlarına bakıldığında ciddi sıkıntı içindedirler), ancak en çok güvene sahip olan kilise (Laodikya) İsa’dan tek bir iltifat bile almaz
-- {{% bible val="aslında kuzu olan aslan" link="rev:5,5-6" lang="tr" %}}
-- {{% bible val="mutlak kontrole sahip gibi görünen ama felakete sürüklenecek olan ejderha ve canavarla" link="rev:13" lang="tr" %}} ve {{% bible val="ona güvenen herkesle karşılaştırıldığında " link="rev:14,6-13" lang="tr" %}}{{% bible val="yenilmiş gibi görünen ama aslında üstesinden gelen ve yüceltilen iki tanık" link="rev:11,7-12" lang="tr" %}}
-- …
+Vahiy, İsa'nın tam olarak nasıl galip geldiğini hiçbir zaman açıklamaz, ama çaresiz görünen ile gerçekte galip gelen arasındaki bu gerilim kitabın geri kalanında da sürüp gider. Vahiy 2-3'te İsa'dan hiçbir eleştiri almayan yalnızca iki kilise vardır: Simirna ve Filadelfya — ki bunların ikisi de kendi koşulları göz önüne alındığında ciddi sıkıntı içindedir — oysa kendine en çok güvenen kilise olan Laodikya, İsa'dan tek bir övgü sözü bile almaz. Aynı örüntüyü {{% bible val="aslan olduğu ortaya çıkan kuzuda" link="rev:5,5-6" lang="tr" %}} ve yine {{% bible val="yenilmiş gibi görünüp aslında yücelikle galip gelen iki tanıkta" link="rev:11,7-12" lang="tr" %}} da görürüz — bunun karşısında ise, mutlak denetime sahipmiş gibi görünen ama {{% bible val="kendilerine güvenen herkesi de beraberinde sürükleyerek felakete uğrayacak olan" link="rev:14,6-13" lang="tr" %}} Vahiy 13'ün ejderhası ve canavarı vardır.

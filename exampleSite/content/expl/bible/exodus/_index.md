@@ -4,8 +4,6 @@ title: "The Exodus"
 weight: 2
 ---
 
-That the Exodus is a topic in Revelation might look like a big surprise. But looking again you will see quite a lot of parallels to the seven trumpets or the seven bowls.
+That the Exodus turns up as a topic in Revelation might look like a surprise at first. But look again, and you'll find a striking number of parallels to the seven trumpets and the seven bowls.
 
-On the other hand you might ask, what is there to discover, these are well known story.
-
-Well, lets have a look and be surprised.
+You might object that these are well-known stories with nothing new to discover. Let's take a closer look and see.

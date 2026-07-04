@@ -23,81 +23,58 @@ sources:
       ref: beale_rev
 ---
 
-Als Christ kennst du sicher die Weihnachtsgeschichte nach {{% bible val="Lukas" link="luk:2" lang="de" %}}, etwas romantisch mit ein paar Hirten und einem Kind in der Krippe und den drei Weisen, die einem Stern folgen.
+Als Christ kennst du wahrscheinlich die klassische Weihnachtsgeschichte aus {{% bible val="Lukas" link="luk:2" lang="de" %}} sehr gut: eine etwas romantische Erzählung von Hirten und einem Kind im Stall, dazu drei Reisende aus der Ferne, die einem geheimnisvollen Stern folgten.
 
-Wir haben die Weihnachtsgeschichte so oft gehört, dass wir sie gar nicht mehr richtig wahrnehmen. Aber diese Version der Geschichte zeigt einen neuen Aspekt, der uns ein neues Verständnis von Jesus geben kann. Ich nehme dich mit ins Kapitel 12 des Buches.
+Diese Geschichte zeigt einen Aspekt von Weihnachten, und wir haben sie schon so oft gehört, dass wir sie eigentlich gar nicht mehr richtig wahrnehmen. Vielleicht ist es Zeit, eine andere Weihnachtsgeschichte aus der Bibel zu hören – diese hier aus Offenbarung, Kapitel 12.
 
 ## Die Geschichte
 
 <a name="a0eb"></a>
-“{{% bible val="Und ein großes Zeichen erschien im Himmel: eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füßen, und auf ihrem Haupt eine Krone mit zwölf Sternen. 2 Und sie war schwanger und schrie in Wehen und Schmerzen der Geburt. 3 Und es erschien ein anderes Zeichen im Himmel: siehe, ein großer, feuerroter Drache, der hatte sieben Köpfe und zehn Hörner und auf seinen Köpfen sieben Kronen; 4 und sein Schwanz zog den dritten Teil der Sterne des Himmels nach sich und warf sie auf die Erde. Und der Drache stand vor der Frau, die gebären sollte, um ihr Kind zu verschlingen, wenn sie geboren hätte. 5 Und sie gebar einen Sohn, einen männlichen, der alle Heidenvölker mit eisernem Stab weiden wird; und ihr Kind wurde entrückt zu Gott und seinem Thron." link="rev:12,1-5" lang="de" %}}”
+[Und es erschien ein großes Zeichen im Himmel: eine Frau, bekleidet mit der Sonne, und der Mond unter ihren Füßen, und auf ihrem Haupt eine Krone mit zwölf Sternen. Sie war schwanger und schrie vor Wehen und Geburtsschmerzen. Und es erschien ein anderes Zeichen im Himmel: siehe, ein großer, feuerroter Drache mit sieben Köpfen und zehn Hörnern und sieben Kronen auf seinen Köpfen. Sein Schwanz fegte ein Drittel der Sterne vom Himmel und warf sie auf die Erde. Und der Drache stellte sich vor die Frau, die gebären sollte, um ihr Kind zu verschlingen, sobald es geboren war. Und sie gebar einen Sohn, ein männliches Kind, das ‚alle Völker mit eisernem Stab weiden wird'. Und ihr Kind wurde entrückt zu Gott und zu seinem Thron.](Offb.12/1–5)
 
-Auf den ersten Blick denkst du wahrscheinlich eher an so etwas:
+Auf den ersten Blick denkst du wahrscheinlich an so etwas:
 
 ![](/images/Dragon-and-woman-revelation-luther-bibel.jpg) <!-- https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" -->
 
-Diese Geschichte ist so voll von geheimnisvollen Figuren, dass es zunächst verwirrend ist. Aber lassen wir die Geschichte auf uns wirken.
+In dieser Szene gibt es viele geheimnisvolle Gestalten, aber bevor wir versuchen herauszufinden, wer wer ist, wollen wir die Szene erst einmal einordnen. Da ist eine Frau, die trotz einiger himmlischer Merkmale vor allem eines ist: schwanger und im Begriff zu gebären – gelinde gesagt in denkbar schlechter Verfassung für einen großen Kampf. Ihr gegenüber steht ein riesiger, zorniger, roter Drache mit nur einem Ziel: das Kind zu verschlingen, sobald es geboren ist.
 
-Wir haben eine Frau, die trotz ihrer himmlischen Attribute vor allem eines ist: schwanger und im Begriff zu gebären. Und, um das Offensichtliche zu sagen, unfähig zu kämpfen.
-
-Auf der anderen Seite ein riesiger und wütender (rot vor Wut) Drache, der nur ein Ziel kennt: das Kind, das gerade geboren wird, zu vernichten.
-
-Betrachtet man diese Szene, ohne das Ende zu kennen, scheint es klar zu sein, dass die Frau keine Chance und das Kind keine Zukunft hat. Und doch überwindet das Kind alles und wird in den Himmel entrückt.
-
-Doch worum geht es in dieser Geschichte eigentlich? Werfen wir zunächst einen Blick auf die Identität der Personen.
+Würden wir diese Szene betrachten, ohne das Ende zu kennen, würden wir sicher sagen, die Frau habe keine Chance und das Kind keine Zukunft. Überraschenderweise aber siegt das Kind – indem es in den Himmel entrückt wird. Worum geht es in dieser Geschichte also wirklich? Schauen wir uns die Figuren an.
 
 ## Der Drache
 
 <a name="b770"></a>
-Er ist am leichtesten zu identifizieren: Der Drache. In {{% bible val="Vers 9" link="rev:12,9" lang="de" %}} heißt es “die alte Schlange genannt Teufel und Satan” —erinnert an den Sündefall.
+Die erste Figur ist leicht zu identifizieren. In Vers 9 wird er unverblümt benannt als „die alte Schlange, die Teufel oder Satan genannt wird" – eine Formulierung, die sofort an den Sündenfall in Eden erinnert.
 
 ## Das Kind
 
 <a name="a89c"></a>
-Werfen wir einen Blick auf das Kind. Es gibt nicht viele Einzelheiten, aber eine Besonderheit: ein eisernes Zepter. Schauen wir, wo das in der Bibel vorkommt:
+Über das Kind erfahren wir wenig, aber ein Merkmal sticht deutlich hervor: das eiserne Zepter. Ein Blick auf den Rest der Bibel fördert einige Stellen zutage, die klären, um wen es sich handelt:
+- {{% bible val="Psalm 2" link="psa:2" lang="de" %}} beschreibt eine Szene, in der sich alle Könige der Erde gegen Gott auflehnen, und Gott warnt sie, seinen Sohn zu fürchten, der sie mit eisernem Zepter regieren wird.
+- {{% bible val="Jesaja 11,4" link="isa:11,4" lang="de" %}} beschreibt den kommenden Messias, der die Erde mit dem Stab seines Mundes schlagen wird.
+- In {{% bible val="Offb.2/27" link="rev:2,27" lang="de" %}} bezeichnet sich Jesus selbst als denjenigen, der mit eisernem Zepter regiert.
 
-- {{% bible val="Psalm 2" link="psa:2" lang="de" %}} beschreibt eine Szene, in der sich alle Könige der Erde gegen Gott auflehnen, aber Gott droht ihnen, dass sie seinen Sohn fürchten sollen, denn er wird sie mit eisernem Zepter regieren
-- {{% bible val="Jesaja" link="isa:11,4" lang="de" %}} beschreibt den kommenden Messias, der die Erde mit dem Stab seines Mundes schlagen wird
-- In der {{% bible val="Offenbarung" link="rev:2,27" lang="de" %}} beschreibt sich Jesus selbst als denjenigen, der mit einem eisernem Zepter regiert.
-
-Diese Referenzen machen es sehr deutlich, dass es hier um Jesus und seine Geburt geht.
+Diese Stellen machen ziemlich klar, dass das Kind Jesus ist und dass dies die Geschichte seiner Geburt ist. Aber wer ist dann die seltsame Frau, bekleidet mit Sonne, Mond und zwölf Sternen? Es gibt drei Kandidaten dafür, wer Jesus geboren hat:
 
 ## Die Frau
 
 <a name="5a05"></a>
-Aber wer ist diese seltsame Frau, die mit Sonne, Mond und 12 Sternen bekleidet ist? Zunächst gibt es drei Kandidaten (die mit der Geburt von Jesu in Verbindung gebracht werden können):
+- Maria natürlich, denn sie war es, {{% bible val="die Jesus gebar" link="mat:1,18-24" lang="de" %}}.
+- Eva, der verheißen wurde, dass {{% bible val="ihr Nachkomme die Schlange vernichten würde" link="gen:3,15" lang="de" %}}.
+- Israel, dem verheißen wurde, {{% bible val="den Messias zu gebären" link="isa:66,7" lang="de" %}}.
 
-- Maria natürlich, denn sie hat ihn {{% bible val="schließlich geboren" link="mat:1,18-24" lang="de" %}}.
-- Eva wurde versprochen, dass {{% bible val="ihr Nachkomme die Schlange vernichten würde" link="gen:3,15" lang="de" %}}.
-- Aber da ist auch Israel, dem verheißen wurde, den {{% bible val="Messias (Jesus) hervorzubringen" link="isa:66,7" lang="de" %}}.
+Von wem also handelt die Geschichte wirklich? Maria scheint die naheliegende Wahl zu sein, aber nirgendwo in der Bibel gibt es eine Verbindung zwischen Maria und Sonne, Mond und Sternen – im Gegenteil: Es ist die kirchliche Tradition, nicht die Schrift, die Maria später mit Sonne, Mond und Sternen in Verbindung brachte, ausgehend von der Annahme, diese Frau müsse Maria sein. Bei Eva ließe sich eine Verbindung herstellen, da Adam und Eva im Schöpfungsbericht von Genesis 1 gemeinsam mit Sonne, Mond und Sternen erwähnt werden – aber das lässt offen, warum unsere Geschichte hier ausdrücklich zwölf Sterne nennt.
 
-Aber wer von den dreien ist es nun?
-
-- Maria liegt auf der Hand, aber nirgendwo in der Bibel wird sie mit Sonne, Mond und Sternen in Verbindung gebracht. Eher im Gegenteil: Maria wurde in der kirchlichen Tradition mit Sonne, Mond und Sternen in Verbindung gebracht, AUFGRUND der Interpretation, dass Maria diese Frau ist.
-- Für Eva besteht eine Verbindung zu Sone, Mond und Sternen, da sie zusammen mit Adam und Eva in der {{% bible val="Schöpfungsgeschichte" link="gen:1" lang="de" %}} erwähnt werden. Aber das lässt die Frage offen, warum hier von 12 Sternen die Rede ist.
-- Die beste Übereinstimmung findet sich bei Israel, die zwar auf den ersten Blick nicht wie eine Frau aussieht, aber in der Bibel auch als Frau bezeichnet wird, z.B. {{% bible val="Tochter Zion" link="isa:62,11" lang="de" %}}. Wenn wir den {{% bible val="zweiten Traum Josefs" link="gen:37,9-10" lang="de" %}} betrachten, sehen wir eine große Übereinstimmung. Dort ist von Sonne, Mond und 11 Sternen die Rede und sein Vater interpretiert dies auf Joseph (den 12. Stern) und seine Brüder und Eltern. Da diese 12 Brüder die Stammväter Israels sind, ist Israel gemeint.
+Die beste Übereinstimmung ist Israel. Israel sieht auf den ersten Blick nicht offensichtlich wie eine „Frau" aus, aber die Bibel bezeichnet sie tatsächlich so, etwa als {{% bible val="Tochter Zion" link="isa:62,11" lang="de" %}}. Die engere Parallele ist jedoch {{% bible val="Josefs zweiter Traum" link="gen:37,9-10" lang="de" %}}: Dort sieht er Sonne, Mond und elf Sterne, und sein Vater deutet dies auf seine elf Brüder und seine Eltern – wobei Josef selbst der zwölfte Stern ist. Diese zwölf entsprechen mehr oder weniger den zwölf Stämmen Israels.
 
 ## Schließlich die Geschichte
 
 <a name="fb36"></a>
-Was ist nun die Geschichte dieser fünf Verse?
+Was ist also die Geschichte von Offb.12/1–5? Israel, der Frau, wurde verheißen, den Messias, das Kind, zu gebären – eine Verheißung, die sich zu einer Zeit erfüllte, als Israel unter starkem Druck stand, beherrscht und unterdrückt von Rom. In jenen Jahren erhoben sich viele Aufstände gegen Rom, und alle wurden niedergeschlagen.
 
-Israel (der Frau) wurde verheißen, den Messias (das Kind) zu gebären. Aber zur Zeit der Erfüllung stand Israel unter großem Druck: Es war unter römischer Herrschaft und wurde unterdrückt. Es gab viele Aufstände, aber alle wurden niedergeschlagen.
+In diesen Druck hinein wurde Jesus geboren, und er wurde aus unmittelbarer Gefahr gerettet, als {{% bible val="König Herodes ihn töten wollte" link="mat:2" lang="de" %}}. Als Jesus seinen Dienst begann, versuchte {{% bible val="der Teufel, ihn zu versuchen" link="mat:4,1-11" lang="de" %}} – auch dieser Versuch scheiterte. Jesus hat gegen jede Art von Widerstand Erfolg, stirbt sogar am Kreuz, wird schließlich von den Toten auferweckt und fährt in den Himmel auf (Offb.12/5 überspringt alles zwischen Jesu Geburt und seiner Himmelfahrt).
 
-In dieser Zeit wurde Jesus geboren und aus der unmittelbaren Gefahr gerettet, die {{% bible val="von Herodes ausging" link="mat:2" lang="de" %}}. Als Jesus seinen Dienst antrat, wurde er{{% bible val=" vom Teufel versucht " link="mat:4,1-11" lang="de" %}}— beide Male ohne Erfolg. Aber auch im weiteren Leben Jesu war sein Leben immer wieder bedroht.
+Das ist die Weihnachtsgeschichte, die wir bereits aus dem Neuen Testament kennen, und es ist eine Geschichte voller Emotionen: die Herrlichkeit der Frau neben ihrer Hilflosigkeit, die Angst um ihr Kind, der Zorn des Drachen und seine Entschlossenheit, und der überraschende Sieg über den Drachen am Ende.
 
-Trotz aller Angriffe überwindet Jesus alle Schwierigkeiten bis hin zum Tod am Kreuz und wird schließlich in den Himmel entrückt (in unserer Geschichte wird der Teil zwischen der Geburt Jesu und seiner Entrückung ausgelassen).
+## Das Muster: Überwinden durch Schwachheit
 
-So ist diese Geschichte voller Emotionen:
-
-- die Herrlichkeit der Frau (Israel) und ihre Hilflosigkeit,
-- die Angst um ihr Kind,
-- der Zorn des Drachen (Satan) und seine Entschlossenheit,
-- der überraschender Sieg über den Drachen.
-
-Wie genau Jesus überwindet, wird hier nicht beschrieben, aber das Thema der Spannung zwischen scheinbarer Hilflosigkeit und Überwindung findet sich an vielen Stellen in der Offenbarung und wird dort erklärt.
-
-- Die einzigen beiden Gemeinden, die von Jesus in den Sendschreiben nicht getadelt werden, sind Smyrna und Philadelphia (die sich aufgrund ihrer Umstände in echten Schwierigkeiten befinden), aber die Gemeinde mit dem größten Selbstbewusstsein (Laodizea) erhält kein einziges Lob.
-- {{% bible val="Der Löwe, der eigentlich ein Lamm ist" link="rev:5,5-6" lang="de" %}}.
-- {{% bible val="Die beiden Zeugen, die besiegt scheinen, aber am Ende überwinden und erhöht werden" link="rev:11,7-12" lang="de" %}} im Vergleich mit dem {{% bible val="Drachen und den Tieren, die scheinbar alles im Griff haben" link="rev:13" lang="de" %}}, aber {{% bible val="untergehen mit denen, die ihnen vertraut haben" link="rev:14,6-13" lang="de" %}}.
-- …
+Die Offenbarung erklärt nie genau, wie Jesus überwunden hat, aber diese Spannung – zwischen dem, der hilflos erscheint, und dem, der tatsächlich siegt – zieht sich durch das ganze übrige Buch. Die einzigen beiden Gemeinden, die in Offenbarung 2–3 überhaupt keinen Tadel von Jesus erhalten, sind Smyrna und Philadelphia, die beide angesichts ihrer Umstände in ernsten Schwierigkeiten stecken, während Laodizea, die Gemeinde mit dem größten Selbstvertrauen, nicht einen einzigen Punkt des Lobes von ihm bekommt. Dasselbe Muster zeigt sich bei {{% bible val="dem Löwen, der sich als das Lamm herausstellt" link="rev:5,5-6" lang="de" %}}, und wieder bei {{% bible val="den beiden Zeugen, die besiegt scheinen, aber tatsächlich mit Herrlichkeit überwinden" link="rev:11,7-12" lang="de" %}} – im Gegensatz zum Drachen und dem Tier aus Offenbarung 13, die absolute Kontrolle zu haben scheinen, aber dennoch {{% bible val="ins Verderben gehen und alle mit sich reißen werden, die auf sie vertraut haben" link="rev:14,6-13" lang="de" %}}.

@@ -4,6 +4,6 @@ title: "Kapsayıcı konular"
 weight: 7
 ---
 
-Burada göstereceğimiz ve tartışacağımız bazı konular var çünkü bunlar bir bölümle sınırlı değil, tüm kitap boyunca devam ediyor.
+Bazı konular tek bir bölümle sınırlı değildir — kitabın tamamı boyunca işlenir. Bu bölüm, bu kesişen temaları bir araya getirip kendi bağlamları içinde ele alır.
 
 [Konuya göre gözat →]({{< relref "themes" >}})

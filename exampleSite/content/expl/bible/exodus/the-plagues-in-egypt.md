@@ -7,8 +7,8 @@ prev: /expl/bible/exodus/the-hardening-of-pharaohs-heart
 next: /expl/bible/keyword/the-story-of-balaam
 docType: expl
 deeper:
-    - name: How everything begun
-      link:  /expl/bible/exodus/the-story-before-the-exodus0
+    - name: How everything began
+      link:  /expl/bible/exodus/the-story-before-the-exodus
     - name: The different hero
       link:  /expl/bible/exodus/the-birth-of-moses
     - name: The hardening of the heart
@@ -18,108 +18,105 @@ sources:
       ref: sarna_exo
 ---
 
-This is a story you have heard in Sunday School, but there is much to discover that you may not have heard before.
+This is a story you likely heard in Sunday School, but there is much more to discover in it than you may have heard before.
 
 ## The start
 
 <a name="dfee"></a>
-Moses and Aaron come back and {{% bible val="share the good news with the Israelites and they believe him" link="exo:4,29-31" lang="en" %}}. But when they {{% bible val="take this to the Pharaoh he only increases the workload and Israel is no longer interested in deliverance" link="exo:5" lang="en" %}}.
+Moses and Aaron return to Israel and {{% bible val="share the good news with the Israelites, who believe him" link="exo:4,29-31" lang="en" %}}. But when they {{% bible val="take their request to Pharaoh, he only increases the workload, and Israel loses all interest in deliverance" link="exo:5" lang="en" %}}.
 
-The next station is {{% bible val="that Moses goes to the Pharaoh and performs his miracles, but Pharaoh is not impressed" link="exo:7,8-13" lang="en" %}}.
+Next, {{% bible val="Moses goes to Pharaoh and performs his miracles, but Pharaoh is not impressed" link="exo:7,8-13" lang="en" %}}.
 
-Now after no one expects anything from Moses and Aaron anymore, God begins His work.
+Only once no one expects anything more from Moses and Aaron does God begin His work in earnest.
 
 ## The magicians
 
-The magicians play an important role in the text here. You could also call them egyptian priests, but the word for priest [kohen](https://biblehub.com/hebrew/3548.htm) 
-which is used for the priests assigned in Israel, [Melchisedek](https://biblehub.com/interlinear/genesis/14-18.htm), [Jethro, Moses father in law](https://biblehub.com/interlinear/exodus/2-16.htm) and even the [priests in Egypt](https://biblehub.com/interlinear/genesis/41-45.htm)
-is not used for the respective people during the plagues but [chartum](https://biblehub.com/hebrew/2748.htm) which distinguishes them from priests.
+The magicians play an important role in the account. You could also call them Egyptian priests, but the word normally used for priest, [kohen](https://biblehub.com/hebrew/3548.htm) — the word used for the priests appointed in Israel, for [Melchizedek](https://biblehub.com/interlinear/genesis/14-18.htm), for [Jethro, Moses’ father-in-law](https://biblehub.com/interlinear/exodus/2-16.htm), and even for the [priests in Egypt](https://biblehub.com/interlinear/genesis/41-45.htm) elsewhere in Genesis — is not the word used for these figures during the plagues. Instead the text calls them [chartum](https://biblehub.com/hebrew/2748.htm), a term that sets them apart from ordinary priests.
 
 ## The pattern
 
 <a name="e181"></a>
-The plagues follow certain patterns that are interesting to observe.
+The plagues follow certain patterns that are worth observing closely.
 
-- The first nine plagues are in groups of three.
+- The first nine plagues fall into three groups of three.
 - Plagues 1–3 bring inconvenience.
 - Plagues 4–6 bring destruction.
 - Plagues 7–9 bring fear.
-- The first plagues of each series (1,4,7) begin in the morning (with Pharaoh at the Nile checking the “health of the Nile”).
-- The last of the series (3,6,9) comes without warning.
+- The first plague of each group (1, 4, 7) begins in the morning, with Pharaoh at the Nile checking the "health of the Nile."
+- The last plague of each group (3, 6, 9) comes without warning.
 
-The StaffDuring the plagues 1–3, the staff is used by Aaron.No staff used during plagues 4–6.Moses uses the staff during plagues 7–9.
+The staff follows its own pattern: Aaron uses it during plagues 1–3, no staff is used during plagues 4–6, and Moses uses it during plagues 7–9.
 
-Magicians can imitate plague 1 and 2,cannot imitate plague 3 and see the finger of God in there,are so much “affected” by plague 6, that they cannot even appear later.
+The magicians follow a pattern too. They can imitate plagues 1 and 2, but cannot imitate plague 3 and recognize the finger of God behind it; and by plague 6 they are so badly afflicted themselves that they cannot even appear before Pharaoh again.
 
-As the plagues continued, Pharaoh’s heart grew harder and Moses increased his demands.In plagues 1–3 no distinction is made between Israelites and Egyptians, but from plague 4 on they are distinguished.
+As the plagues continue, Pharaoh’s heart grows harder and Moses’ demands grow larger. And starting with plague 4, a further distinction appears: in plagues 1–3 no line is drawn between Israelites and Egyptians, but from plague 4 onward they are clearly distinguished.
 
-The plagues are directed against {{% bible val="the power of the Egypt and its gods" link="exo:12,12" lang="en" %}}, but not against the people, {{% bible val="who are even warned" link="exo:9,18-21" lang="en" %}} and can always find refuge with the Israelites in Goshen.
+The plagues are directed against {{% bible val="the power of Egypt and its gods" link="exo:12,12" lang="en" %}}, not against the people themselves, {{% bible val="who are even given warning" link="exo:9,18-21" lang="en" %}} and can always find refuge with the Israelites in Goshen.
 
-The plagues are to show that God is the real one and that the Egyptians should seek refuge with Him along with the Israelites, which many did.
+The point of the plagues is to show that God is the real God, so that the Egyptians, too, might seek refuge in Him alongside Israel — which, in the end, many did.
 
 ## The plagues in detail
 
 ## {{% bible val="1, Water to blood" link="exo:7,14-25" lang="en" %}}
 
-The Nile turns to blood and all the water is unusable.
+The Nile turns to blood, and all its water becomes unusable.
 
-The Nile is the lifeblood of Egypt. The flood of the Nile makes the fields fertile and the water is the source of life for the people.The god of the Nile is the father of all the gods in Egypt. But this time he looks like he has been slaughtered.
+The Nile is the lifeblood of Egypt: its annual flood makes the fields fertile, and its water is the people’s source of life. The god of the Nile was regarded as the father of all the gods in Egypt — but this time, he looks as though he has been slaughtered.
 
 ## {{% bible val="2, Frogs" link="exo:8,1-15" lang="en" %}}
 
-Frogs become a plague and the Pharaoh sees God behind it and asks Moses to stop it.
+Frogs overrun the land, and this time Pharaoh recognizes God’s hand behind it and asks Moses to stop it.
 
-The goddess Heqet, wife of the Nile god, is the goddess of birth (and rebirth). Since the Pharaoh was playing birth control on the Israelite children, God is declaring who is in charge of new life.
+The goddess Heqet, wife of the Nile god, presided over birth and rebirth. Since Pharaoh had been the one controlling birth among the Israelite children, God is declaring, through her own symbol, who is really in charge of new life.
 
 ## {{% bible val="3, Gnats" link="exo:8,16-19" lang="en" %}}
 
-The magicians were unable to reproduce this action and see the finger or the god in it.
+This time the magicians cannot reproduce the plague, and they recognize the finger of God behind it.
 
-According to a story from Egyptian mythology, there was a god who blinded another god (while he was approaching him unnoticed). The finger of God thus has the meaning of an ominous event whose origin cannot be determined. The migicians admits that God is stronger.
+That phrase draws on a story from Egyptian mythology in which a god blinds another god while approaching him unnoticed. "The finger of God" carries the sense of an ominous event whose source cannot be traced or countered — and by using it, the magicians themselves admit that God is stronger than they are.
 
 ## {{% bible val="4, Flies" link="exo:8,20-32" lang="en" %}}
 
-Maybe a better word is bugs and is a real issue for to the Egyptians. Now they are exposed and God makes a distinction between Israel and Egypt that {{% bible val="only the Pharaoh had made before" link="exo:1,22" lang="en" %}}.
+"Flies" may be too narrow a translation — "bugs" is probably closer, and they become a real plague for the Egyptians. From this point on, God himself draws a distinction between Israel and Egypt, a distinction {{% bible val="only Pharaoh had drawn before" link="exo:1,22" lang="en" %}}.
 
 ## {{% bible val="5, Livestock" link="exo:9,1-7" lang="en" %}}
 
-The livestock affected by these plagues is key to many aspects of society:
-- Horses: needed for military
-- Donkey: for carrying loads
-- Camels: {{% bible val="for trade" link="gen:37,25" lang="en" %}}
-- Cattle, sheep, goats: important for daily work, food and clothing production
+The livestock struck by this plague was essential to nearly every part of Egyptian society:
+- horses, needed for the military
+- donkeys, for carrying loads
+- camels, {{% bible val="used for trade" link="gen:37,25" lang="en" %}}
+- cattle, sheep, and goats, vital for daily work, food, and clothing production
 
 ## {{% bible val="6, Boils" link="exo:9,8-12" lang="en" %}}
 
-Moses and Aaron throw dust into the air, which turns into boils. The magiciants cannot appear because they are unclean.Originally, throwing dust into the air is a rite of atonement performed by the sorcerer. Not only can the magicians no longer perform it, but the rite has been “demystified” as well.
+Moses and Aaron throw dust into the air, and it turns into boils on people and animals alike. This time the magicians cannot even appear before Pharaoh, since they are ceremonially unclean. The irony cuts deep: throwing dust into the air was originally a rite of atonement performed by these very sorcerers. Not only can they no longer perform it — the rite itself has now been thoroughly discredited.
 
 ## {{% bible val="7, Hail" link="exo:9,13-35" lang="en" %}}
 
-This is where it gets serious and {{% bible val="God strikes with the full force that He announces" link="exo:9,14" lang="en" %}}. And God {{% bible val="warns the people to take shelter" link="exo:9,20-21" lang="en" %}}. The hail that comes is devastating and was the worst they had ever seen and no god protected them from it.Pharaoh {{% bible val="admits that he has sinned" link="exo:9,27" lang="en" %}} (the [same word is used as when Pharaoh unknowingly took Abraham’s wife](https://biblehub.com/hebrew/2398.htm)) and {{% bible val="he has sinned again by hardening his heart" link="exo:9,34" lang="en" %}}.
+This is where it gets serious: {{% bible val="God strikes with the full force that He announces" link="exo:9,14" lang="en" %}}, and yet He still {{% bible val="warns the people to take shelter" link="exo:9,20-21" lang="en" %}}. The hail that falls is devastating — the worst they had ever seen — and no Egyptian god protects them from it. For the first time, Pharaoh {{% bible val="admits that he has sinned" link="exo:9,27" lang="en" %}}, using [the same word used when Pharaoh unknowingly took Abraham’s wife](https://biblehub.com/hebrew/2398.htm) — but as soon as the hail stops, {{% bible val="he sins again by hardening his heart" link="exo:9,34" lang="en" %}}.
 
 ## {{% bible val="8, Locusts" link="exo:10,1-20" lang="en" %}}
 
-The {{% bible val="locusts will come and destroy all that the hail has left" link="exo:10,5" lang="en" %}}. His {{% bible val="own officials beg the Pharaoh to do as Moses wishes" link="exo:10,7" lang="en" %}}. But Pharaoh still does not let the people go. As the {{% bible val="plagues continue, Pharaoh admits his sin" link="exo:10,16-17" lang="en" %}}.
+The {{% bible val="locusts come and destroy everything the hail had left standing" link="exo:10,5" lang="en" %}}. This time, Pharaoh’s {{% bible val="own officials beg him to do as Moses wishes" link="exo:10,7" lang="en" %}} — but he still refuses to let the people go, even as the {{% bible val="plagues continue and Pharaoh admits his sin" link="exo:10,16-17" lang="en" %}}.
 
-The people were exposed to the hail, even there was a god who’s only job was to protect from locusts, and there are special locust amulets that should protect from such a plague.
+The Egyptians had already been exposed by the hail, since there was a god whose only job was protection from locusts, along with special locust amulets meant to serve the same purpose — none of which worked.
+
 ## {{% bible val="9, Darkness" link="exo:10,21-29" lang="en" %}}
 
-The last of these is plagues was darkness. This was taken as a serious sign and in addition the life in Egypt stopped. Furthermore, Ra, the sun god, was a [very important god in Egypt](https://en.wikipedia.org/wiki/Ra#Worship). The Pharaoh does not admitting his sin this time, but {{% bible val="God strengthens his heart so much, that he threatens to kill Moses, Gods messenger, the next time he sees him" link="exo:10,27-28" lang="en" %}}.
+The last of these plagues is darkness — taken as a deeply serious sign, one that brought life in Egypt to a complete stop. Ra, the sun god, was [one of the most important gods in Egypt](https://en.wikipedia.org/wiki/Ra#Worship), which makes the darkness a direct strike at him. This time Pharaoh does not admit his sin; instead, {{% bible val="God strengthens his heart so much that he threatens to kill Moses, God’s own messenger, the next time he sees him" link="exo:10,27-28" lang="en" %}}.
 
 ## The tenth plague
 
-The tenth plague is delayed a little and is separate. It is the death of the firstborn.
+The tenth plague stands apart from the rest, delayed and set in its own category: the death of the firstborn.
 
 ## The death of the firstborn
 
-To understand this, we need a little background. When God called Moses He {{% bible val="revealed Himself as a father and called Israel His Firstborn" link="exo:4,22-23" lang="en" %}}.
+To understand why this plague is different, it helps to recall some background. When God first called Moses, He {{% bible val="revealed Himself as a father and called Israel His firstborn" link="exo:4,22-23" lang="en" %}}. So when Pharaoh tries to kill Israel, God responds in kind, by killing Egypt’s firstborn.
 
-When Pharaoh tries to kill Israel, God responds by killing of Egypt’s firstborn.
+There is a further layer to it. The firstborn is the heir: if Pharaoh dies, his firstborn takes his place — but if the firstborn dies, who is left to take over? And since the gods of Egypt were represented by animals (Horus the falcon, Heqet the frog, Hathor the cow), {{% bible val="the death of the firstborn animals was also a blow against the future of the Egyptian gods" link="exo:12,12" lang="en" %}} themselves.
 
-But there is another aspect. The firstborn is the heir. If the Pharaoh dies, his firstborn will take over, but if the firstborn dies, who will take over? Also, the gods of Egypt are represented by animals (Horus the falcon, Heqed the frog, Hathor the cow), and {{% bible val="the death of the first-born animals was also a blow against the future of the Egyptian gods" link="exo:12,12" lang="en" %}}.
+Because of {{% bible val="Pharaoh’s 'strong heart'" link="exo:10,7" lang="en" %}}, the people of Egypt {{% bible val="were already in favor of Moses" link="exo:11,3" lang="en" %}}, and the death of the firstborn (showing that Egypt had no future left to offer) helped push the Egyptians toward God, {{% bible val="and many did" link="exo:12,38" lang="en" %}} leave with Israel.
 
-Due {{% bible val="to Pharaoh’s “strong heart”" link="exo:10,7" lang="en" %}} the people of Egypt {{% bible val="were already in favor of Moses" link="exo:11,3" lang="en" %}} and the death of the first born in Egypt (showing that there was no future in Egypt) would help the Egyptians to move on with God {{% bible val="and many did" link="exo:12,38" lang="en" %}}.
+Before the tenth plague strikes, the {{% bible val="Passover is introduced" link="exo:12,1-13" lang="en" %}} — protection from the plague, but also the origin of the Lord’s Supper, and something like the birth of Israel as a people, since it {{% bible val="was open to anyone who wanted to join Israel" link="exo:12,43-49" lang="en" %}}. Alongside it, {{% bible val="the Feast of Unleavened Bread is introduced" link="exo:12,14-20" lang="en" %}}, underscoring that there is {{% bible val="no time to wait, only to hurry" link="exo:12,12" lang="en" %}}.
 
-Before this the{{% bible val="Passah is introduced" link="exo:12,1-13" lang="en" %}} (protection from the tenth plague but also the origin of the Lord’s supper) which could be seen as the birth of Israel and {{% bible val="was open to anyone who wanted to join Israel" link="exo:12,43-49" lang="en" %}}.{{% bible val="The Feast of the Unleavened Bread is introduced" link="exo:12,14-20" lang="en" %}} — there is n{{% bible val="o time to wait, but to hurry" link="exo:12,12" lang="en" %}}.
-
-The {{% bible val="sign on the hand and forehead" link="exo:13,8-9" lang="en" %}} is mentioned — the people should have a reminder that God brought them out of Egypt, He is more powerful than the Egyptian gods and Israel should not forget this. So the sign is a sign of loyalty to God.
+Finally, the {{% bible val="sign on the hand and forehead" link="exo:13,8-9" lang="en" %}} is introduced as a lasting reminder: God brought Israel out of Egypt, He is more powerful than the Egyptian gods, and Israel must not forget it. The sign, in other words, is a mark of loyalty to God.

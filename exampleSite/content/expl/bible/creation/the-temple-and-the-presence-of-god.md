@@ -10,41 +10,41 @@ sources:
     - ref: beale_dwell
 ---
 
-When we look at the subject of the temple in the Bible, we think it starts with Solomon (or Moses, if you look at the tabernacle) and ends with the destruction by the Romans in 70 AD or even the deportation to Babel in 587 BC.
+When we think about the temple in the Bible, we usually start with Solomon — or with Moses, if we go back to the tabernacle — and end with its destruction by the Romans in AD 70, or perhaps the deportation to Babel in 587 BC.
 
-But the story begins in Genesis and goes all the way to Revelation and is much broader.
+But the real story begins in Genesis and runs all the way to Revelation, and it's much broader than that.
 
-## The garden Eden as place of fellowship with God
+## The garden of Eden as a place of fellowship with God
 
-It begins in the Garden of Eden. God creates man and woman and has fellowship with them by {{% bible val="creating a garden for them to tend" link="gen:2,8-15" lang="en" %}}, where He {{% bible val="met with them regularly" link="gen:3,8-9" lang="en" %}}. 
+It begins in the Garden of Eden. God creates man and woman and lives in fellowship with them, {{% bible val="giving them a garden to tend" link="gen:2,8-15" lang="en" %}} and {{% bible val="meeting with them there regularly" link="gen:3,8-9" lang="en" %}}.
 
-Because to the fall of man, both had to leave the garden. The {{% bible val="ground for planting was cursed" link="gen:3,17-19" lang="en" %}}, but this was made worse {{% bible val="when Cain killed Abel" link="gen:4,12" lang="en" %}}.
+After the fall, both have to leave the garden. The {{% bible val="ground itself is cursed" link="gen:3,17-19" lang="en" %}}, and things only get worse {{% bible val="when Cain kills Abel" link="gen:4,12" lang="en" %}}.
 
-This was to much to Cain, and God had mercy and {{% bible val="made a sign on him to protect him" link="gen:4,13-15" lang="en" %}}. But Cain {{% bible val="sought his own security and built a city" link="gen:4,16-17" lang="en" %}}, and his successors built {{% bible val="their security and provision by establishing culture and progress" link="gen:4,16-17" lang="en" %}}. 
+The weight of that is too much for Cain to bear, and God shows him mercy, {{% bible val="placing a protective sign on him" link="gen:4,13-15" lang="en" %}}. But Cain {{% bible val="looks for his own security instead and builds a city" link="gen:4,16-17" lang="en" %}}, and his successors carry that further, building {{% bible val="their own security and provision through culture and progress" link="gen:4,16-17" lang="en" %}}.
 
-Cain’s line ends with Lamech, {{% bible val="who mocks God’s protection of Cain" link="gen:4,22-24" lang="en" %}}.Towns as mens refugeAdam gets a new son and {{% bible val="from that time on people begin to connect with God" link="gen:4,25-26" lang="en" %}}. But the {{% bible val="city was still an important feature" link="gen:10,8-12" lang="en" %}} that ended up in disaster in {{% bible val="the Tower to Babel" link="gen:11,1-9" lang="en" %}}. 
+Cain's line ends with Lamech, {{% bible val="who mocks the protection God gave Cain" link="gen:4,22-24" lang="en" %}}. Cities, in other words, become man's own substitute refuge. Adam then has another son, and {{% bible val="from that point on, people begin again to call on the name of the Lord" link="gen:4,25-26" lang="en" %}}. Yet the {{% bible val="city remains a significant feature" link="gen:10,8-12" lang="en" %}} of the story, and it eventually leads to disaster at {{% bible val="the tower of Babel" link="gen:11,1-9" lang="en" %}}.
 
-These people wanted to make a name for themselves, but {{% bible val="God chose to make a name out of Abraham" link="gen:12,1-3" lang="en" %}}, from whom Israel eventually came.
+The builders at Babel wanted to make a name for themselves, but instead {{% bible val="God chooses to make a name for Abraham" link="gen:12,1-3" lang="en" %}}, from whom Israel eventually comes.
 
 ## God comes to the town
 
-But God still longed to be in relationship with people. When he brought Israel out of Egypt (Ex. 1–14), he chose to live with them on “their terms” and joined them in a tent and later in a house, the temple.
+God still longed to be in relationship with people. So when he brought Israel out of Egypt (Exodus 1–14), he chose to live with them on their own terms, joining them first in a tent and later in a house — the temple.
 
-The Temple was covered with elements from the Garden of Eden, reflecting that “since man could not have fellowship with God in the Garden, God would have fellowship with man in the Temple. The intent of the Temple was that non-Israelites could participate.
+The temple was covered with imagery borrowed from the Garden of Eden, reflecting a simple logic: since man could no longer have fellowship with God in the garden, God would instead have fellowship with man in the temple. And the temple was intended from the start to allow non-Israelites to take part as well.
 
-The most holy part of the Temple was the Holy of Holies, where only the High Priest could enter once a year on the Day of Atonement. This was the place where Moses communicated with God and where the presence of God is.
+The innermost part of the temple was the Holy of Holies, which only the High Priest could enter, and only once a year, on the Day of Atonement. This was the place where Moses communicated with God, and where God's presence dwelt.
 
-God leaves with a promise to combine city and gardenWhen Israel broke the covenant with God, {{% bible val="His Presence left the Temple" link="ezk:10,18-19" lang="en" %}}, but later in the book the {{% bible val="return of God is promised (through the East Gate" link="ezk:43,1-2" lang="en" %}}). 
+Even so, God ultimately left that dwelling — but with a promise to one day reunite the images of city and garden. When Israel broke the covenant, {{% bible val="his presence left the temple" link="ezk:10,18-19" lang="en" %}}, but later in the same book, the {{% bible val="return of God is promised, entering again through the East Gate" link="ezk:43,1-2" lang="en" %}}.
 
-In the context of these chapters, a new aspect is mentioned that combines the image of the temple with that of the garden. It{{% bible val=" is the vision of a brook flowing from the altar in the temple and turning into a river that makes everything fertile and growing where it comes from" link="ezk:47" lang="en" %}}. You will see {{% bible val="this accomplished in the New Jerusalem" link="rev:22,1-5" lang="en" %}}. But there is still a long way to go.
+In the context of those chapters, a new image appears that fuses the temple with the garden: {{% bible val="a vision of a stream flowing out from the altar in the temple, becoming a river that makes everything grow and flourish wherever it reaches" link="ezk:47" lang="en" %}}. That vision finds {{% bible val="its fulfillment in the New Jerusalem" link="rev:22,1-5" lang="en" %}} — though at this point in the story, there is still a long way to go before we get there.
 
 ## The temple in the New Testament
 
-In the New Testament, {{% bible val="Jesus is the temple" link="jhn:2,19-22" lang="en" %}}. When He died the veil of the temple (in front of the Holy of Holies) was torn, showing that access to God in the Holy of Holies was open to everyone.
+In the New Testament, {{% bible val="Jesus himself is the temple" link="jhn:2,19-22" lang="en" %}}. When he died, the veil in front of the Holy of Holies was torn in two, showing that access to God was now open to everyone.
 
-When Jesus died, {{% bible val="the Temple became the church, just as the church is the body of Christ" link="1co:6,19" lang="en" %}}. 
+With his death, {{% bible val="the temple becomes the church, since the church is the body of Christ" link="1co:6,19" lang="en" %}}.
 
-And in the Book of Revelation, the Church is the Bride of Christ, which is also the New Jerusalem, where the fellowship between God and man is undisturbed.
+And in the book of Revelation, the church appears as the Bride of Christ, who is also the New Jerusalem — the place where fellowship between God and man is, at last, undisturbed.
 
 ## Dig deeper
 

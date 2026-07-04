@@ -4,6 +4,6 @@ title: "Topik Lainnya"
 weight: 4
 ---
 
-Ini adalah beberapa topik lintas tema lainnya, yang dimaksudkan untuk meluruskan beberapa kesalahpahaman.
+Bagian ini mengumpulkan beberapa topik lintas tema lainnya, yang dimaksudkan untuk meluruskan beberapa kesalahpahaman umum.
 
-Salah satu topiknya adalah pengangkatan (rapture) dan masa kesengsaraan besar. Meskipun ada orang yang tidak memercayainya, bagian ini dimaksudkan untuk memberikan sedikit tinjauan dan renungan atas teologi ini.
+Salah satunya adalah pengangkatan (rapture) dan kaitannya dengan masa kesengsaraan besar. Banyak orang pernah mendengarnya, dan tidak sedikit yang memercayainya, sehingga artikel-artikel di sini menyajikan tinjauan singkat atas teologi di baliknya serta renungan tentang apakah pandangan itu benar-benar dapat dipertahankan.

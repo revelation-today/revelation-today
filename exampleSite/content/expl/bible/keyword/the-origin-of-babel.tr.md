@@ -8,36 +8,35 @@ next: /expl/bible/daniel/the-book-of-daniel
 docType: expl
 ---
 
-Babil Kulesi’nin öyküsü, Daniel Peygamber’in öyküsü ve Vahiy Kitabı birbiriyle bağlantılıdır. İşte nasıl olduğunu görüyorsunuz.
+Babil Kulesi’nin öyküsü, Peygamber Daniel’in öyküsü ve Vahiy kitabı, meğer birbirine bağlıymış. İşte nasıl.
 
 ## Babil Kulesi
 
 <a name="7258"></a>
-Tufandan sonra uzun bir soyağacının ardından insanlar gökyüzüne uzanacak büyük bir bina inşa etmeye karar verirler
+Tufandan sonra uzun bir soyağacının ardından, insanlar gökyüzüne ulaşacak büyük bir kule inşa etmeye karar verirler; bunun için de iki gerekçe öne sürerler:
 
-- Kendilerine bir isim yapmak için
-- Dağınık olmayan merkezi bir noktaya sahip olmak
+- kendilerine bir ad yapmak
+- dağılıp gitmemek için merkezi bir nokta edinmek
 
-Bunun için büyük bir bina projeleri var. Ve şimdi eğlence başlıyor. Bunu cennete inşa etmek istediklerinde, Tanrı aşağı indi!!! insanların çabaları ve tehdidiyle alay eden buna bir göz atmak için. Ama Tanrı’nın onlar için hiçbir şeyin imkânsız olmayacağından endişe etmesi ne anlama geliyor? Muhtemelen o olmadan her şeyi yapabileceklerine ikna olmuşlardır.
+Bu, dev bir inşaat projesine dönüşür — ve sonra işin eğlenceli kısmı başlar. Onlar kulelerini göklere ulaştırmaya koyulur koyulmaz, Tanrı hem çabalarıyla hem de bu çabanın arkasındaki tehditle alay edercesine, bir göz atmak için aşağı iner. Tanrı’nın, onlar için hiçbir şeyin imkânsız olmayacağından endişe etmesi ne anlama gelir? Muhtemelen şu anlama gelir: Kendilerinin, O olmadan her şeyi yapabileceklerine ikna olmuşlardır.
 
-Ayrıca elde etmek istedikleri hiçbir şey elde edilememiş, tam tersine
+Ve gerçekten de, iki hedeflerinden hiçbiri gerçekleşmez — tam tersi olur.
 
-- Kendileri için bir isim yapmak istediler. Belli ki bu işe yaramadı, bunun yerine Tanrı İbrahim’den bir isim yarattı
-- Yayılmaktan kaçınmak istediler, ama Tanrı dillerini böldüğünde tam da bu oldu. Bu durum ancak Pentikost’la birlikte tersine döndü.
+- Kendilerine bir ad yapmak istediler. Bu onlar için hiç işe yaramadı, ama Tanrı bunun yerine İbrahim’den bir ad yarattı.
+- Dağılmaktan kaçınmak istediler, ama Tanrı dillerini böldüğünde başlarına gelen tam olarak dağılmak oldu. Bu durum ancak çok sonra, Pentikost’ta tersine döndü.
 
 ## Daniel Babil’de
 
 <a name="1c74"></a>
-İsrail Babil sürgününe gittiğinde, bu Babil’in Sinear topraklarında olduğu ve Babil kulesinin de orada bulunduğu belirtilmişti. Bu, bu ikisini birbirine bağlar.
+İsrail Babil’e sürgüne gittiğinde, metin bu Babil’in, ilk kulenin inşa edildiği yer olan Şinar topraklarında bulunduğunu belirtir. Bu ayrıntı, iki öyküyü birbirine bağlar.
 
-Ancak gurur da ikisi arasında ortak bir faktördür ve kısa varoluşları Tanrı tarafından sona erdirilmiştir. Daniels Babels, Tanrı tarafından çağrılan Koreş tarafından yenilgiye uğratılana kadar 100 yıldan daha az sürdü.
+Gurur da aralarındaki ortak bir bağdır, tıpkı Tanrı’nın her iki imparatorluğun da ömrünü kısa kesmiş olması gibi. Daniel’in Babil’i, bu amaç için Tanrı’nın çağırdığı Koreş tarafından yenilgiye uğratılana kadar 100 yıldan daha az sürdü.
 
-## Vahiy Kitabındaki Babil
+## Vahiy Kitabı’ndaki Babil
 
 <a name="082d"></a>
-Vahiy kitabındaki Babil, Daniel’in Babil’i ile de güçlü bağlara sahiptir.
+Vahiy kitabında da Babil, Daniel’in Babil’iyle aynı temel özellikleri paylaşarak yakından bağlantılıdır:
 
-- Gurur konusuna sahibiz
-- Hızlı bir Babil’in Düşüşü
-- Tanrı’nın halkı sürgünde yaşıyor
-
+- gurur teması
+- ani bir çöküş
+- Tanrı’nın halkının sürgünde yaşaması

@@ -4,8 +4,8 @@ title: "Fahişe (Böl.17-19)"
 weight: 15
 ---
 
-Fahişe kimdir? Vahiy Kitabı bunu biraz açık bırakır, böylece biz olup olmadığımızı kendimiz düzenli olarak kontrol edebiliriz. 
+Fahişe kimdir? Vahiy Kitabı bu soruyu biraz açık bırakır — sanki bilerek, böylece her okuyucu cevabın kendisine ne kadar yakın olduğunu sürekli kontrol etmek zorunda kalır.
 
-Bu, Şeytan'ın ve onun çalışmalarının, dünyaya müdahalesinin ve kilise için tehlikelerin en ayrıntılı açıklamasıdır. Ama aynı zamanda Roma imparatorluğuna ya da bugün her neyi temsil ediyorsa ona karşı da pek çok alay içerir.
+Bu bölümler, kitabın Şeytan'ın dünyadaki işleyişi ve kilise için oluşturduğu tehlikeler hakkındaki en ayrıntılı tablosunu sunar, ama aynı zamanda Roma İmparatorluğu'na — ya da bugün onun rolünü her kim oynuyorsa ona — yönelik alaycı bir tonla da örülüdür.
 
-Fahişenin tanımlanmasının ana noktası, Mesih'in gelininin kesinlikle nasıl olmaması gerektiğini tarif etmektir.
+Ama özünde fahişenin asıl amacı bir karşıtlık yoluyla uyarıdır: o, Mesih'in gelininin kesinlikle asla olmaması gereken şeyin resmidir.

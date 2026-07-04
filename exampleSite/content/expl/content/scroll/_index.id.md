@@ -4,8 +4,8 @@ title: "Kitab Kecil (Pasal 10)"
 weight: 9
 ---
 
-Setelah jalan buntu dengan sangkakala-sangkakala, gereja membutuhkan inspirasi baru. Inspirasi itu datang melalui sebuah gulungan kitab kecil yang harus dihayati oleh Yohanes.
+Setelah jalan buntu sangkakala-sangkakala — sembilan tulah datang dan berlalu, dan tetap tidak ada pertobatan — gereja membutuhkan inspirasi baru, dan inspirasi itu datang dalam bentuk sebuah kitab kecil yang harus dihayati oleh Yohanes.
 
-Inilah rahasia Allah. Allah menang dalam kelemahan, sebagaimana yang dilakukan Yesus. Jika gereja mengikuti jejak Yesus, gereja akan berhasil.
+Kitab kecil itu membawa rahasia Allah: Ia menang melalui kelemahan, sebagaimana yang dilakukan Yesus di kayu salib. Ketika gereja mengikuti jalan yang sama, gereja berhasil, sekalipun keberhasilan itu sama sekali tidak tampak seperti kemenangan menurut ukuran dunia.
 
-Tetapi apa inti persoalannya di sini: keenam pasal berikutnya akan menunjukkannya.
+Itulah benang merah yang akan ditelusuri oleh keenam pasal berikutnya.

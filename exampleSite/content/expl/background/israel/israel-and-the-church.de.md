@@ -7,40 +7,33 @@ docType: expl
 appl: /appl/background/israel
 ---
 
-Die Erwähnung von Juden und Christen in der Offenbarung ist recht kontrovers. Was ist der Grund dafür und wie wird es aufgelöst?
+Die Erwähnung von Juden und Israel in der Offenbarung ist wirklich umstritten. Warum spricht das Buch so von ihnen, und wie lässt sich diese Spannung auflösen?
 
-## Die Feindseligkeit der Juden
+## Die Spannung mit den Juden
 
 <a name="36d7"></a>
-Zur Zeit der ersten Gemeinden war die jüdische Religion aufgrund ihrer langen Tradition im Römischen Reich akzeptiert und die Juden konnten ihren Glauben leben, solange sie eine gewisse Loyalität gegenüber dem Kaiser zeigten.
+Zur Zeit der frühen Gemeinde wurde die jüdische Religion vom Römischen Reich wegen ihrer langen Geschichte respektiert, und Juden durften ihren Glauben frei ausüben, solange sie dem Kaiser gegenüber loyal blieben.
 
-Aber die Christen breiteten sich aus und brachten dem Kaiser nicht den Respekt (Anbetung) entgegen, den dieser erwartete. Außerdem zogen diese Christen umher und brachten andere dazu, dem Juden Jesus zu folgen und dem Kaiser ebenfalls nicht die Ehre zu erweisen.
+Die Christen jedoch weigerten sich, dem Kaiser die Verehrung zu erweisen, die er erwartete — und, aus römischer Sicht noch schlimmer, sie zogen umher und überredeten Menschen, stattdessen einem Juden namens Jesus zu folgen.
 
-Da die Christen für den Kaiser eine jüdische Sekte waren, gerieten die Juden unter Druck, was sie dazu veranlasste, die Christen bei den Römern zu denunzieren, um dem Kaiser zu zeigen, dass die Juden keineswegs mit den Christen übereinstimmten.
+Da der Kaiser das Christentum zunächst schlicht als jüdische Sekte ansah, geriet die jüdische Gemeinschaft durch diese Verbindung unter Druck. Das ist mit ein Grund, warum manche Juden dazu übergingen, Christen bei den Römern anzuzeigen: Es war eine Möglichkeit, dem Kaiser klarzumachen, dass zumindest sie nicht auf der Seite der Christen standen.
 
-## Die Juden in der Offenbarung
+## Juden in der Offenbarung
 
 <a name="b028"></a>
-In diesem Buch geht es um eines: Jesus und alles, was mit ihm zu tun hat. Das gilt auch für die Juden.
+In dem Buch der Offenbarung geht es um eine Sache: Jesus und alles, was im Licht seiner Person entschieden wird. Das gilt auch dafür, wie es die Juden behandelt.
 
-Im oberen Teil haben wir gesehen, dass es Spannungen zwischen Christen und Juden gab. Das war auch in Smyrna und Philadelphia der Fall, wo Juden die Gemeinde, die sich zu Jesus bekannte, angefeindet haben. Als Folge davon wurden diese Juden eine Synagoge des Satans genannt. Wenn es heißt, dass die Juden in Philadelphia ihre Knie beugen, dann ist damit nicht in erster Linie gemeint, dass sie sich der Gemeinde unterwerfen, sondern dass sie Jesus als ihren Herrn annehmen.
+Wir haben bereits gesehen, wie sich die Spannung zwischen Christen und Juden konkret in Smyrna und Philadelphia zeigt, wo örtliche Juden die Gemeinde angreifen, weil sie von Jesus Zeugnis gibt — weshalb Johannes sie eine Synagoge des Satans nennt. Wenn es später heißt, dass genau diese Juden in Philadelphia sich vor der Gemeinde niederwerfen, geht es nicht darum, dass sie sich der Gemeinde als Institution unterwerfen, sondern darum, dass sie Jesus annehmen.
 
-Auch in Kapitel 11, wo der Ort beschrieben wird, an dem die Zeugen getötet wurden (wo auch Jesus starb), wird Jerusalem als Sodom (Ort der Sünde) und Ägypten (Ort der Sklaverei) bezeichnet. Hier wird sogar vermieden, den Namen auszusprechen.
+Dieselbe Dynamik zeigt sich in Kapitel 11. Der Ort, an dem die beiden Zeugen getötet werden, wird geistlich als Sodom (ein Ort der Sünde) und Ägypten (ein Ort der Sklaverei) beschrieben — eine Beschreibung Jerusalems, denn dort wurde ihr Herr, Jesus, getötet. Bezeichnenderweise wird hier sogar der Name „Jerusalem“ vermieden.
 
-Auch an anderen Stellen der Offenbarung wird das ethnische Israel (je nach Interpretation der 144.000 in Kapitel 7) nicht erwähnt, sondern nur in seiner Beziehung zu Jesus.
+Und doch wendet sich die Offenbarung bei all dieser Spannung nie gegen das ethnische Israel als solches (wie viel Gewicht das hat, hängt davon ab, wie man die 144.000 in Kapitel 7 versteht). Worum es dem Buch durchgehend tatsächlich geht, ist die Beziehung der Menschen zu Jesus, nicht ihre Ethnie.
 
-Andererseits ist die Gemeinde ein Teil Israels und es gibt klare Aussagen, die Juden und Christen gemeinsam beschreiben, z.B. die 24 Ältesten in Kapitel 4, die die 12 Stämme Israels und die 12 Apostel repräsentieren oder deren Namen im Neuen Jerusalem eingemeißelt sind.
-
-Auch der Himmel ist kein neutraler Ort, der interessanterweise als Neues Jerusalem bezeichnet wird.
-
-Und es wäre keine Überraschung, wenn Jesus bei seinem zweiten Kommen im physischen Jerusalem erscheinen würde.
-
-Warum gibt es dann so kontroverse Aussagen über die Juden? Weil die Kirche ein Teil Israels ist und deshalb ihre Wurzeln nicht verlieren darf, auch wenn es offene Angriffe von Juden auf die Gemeinde gibt.
+Das liegt daran, dass die Gemeinde ein Teil Israels ist, kein Ersatz dafür. Die Offenbarung macht diese Einheit an mehreren Stellen ausdrücklich: Die 24 Ältesten in Kapitel 4 repräsentieren die 12 Stämme und die 12 Apostel gemeinsam, und die Namen der 12 Stämme und der 12 Apostel sind im Neuen Jerusalem nebeneinander eingraviert. Der Himmel selbst wird bezeichnenderweise nicht als irgendein neutraler, ortloser Bereich dargestellt, sondern als das Neue Jerusalem — weshalb es nicht überraschend wäre, wenn Jesus bei seinem zweiten Kommen im physischen Jerusalem erscheinen würde. Das ist der Schlüssel dazu, warum die Sprache der Offenbarung über die Juden so scharf klingen kann: gerade weil die Gemeinde ein Teil Israels ist, kann sie ihre eigenen Wurzeln nicht abschneiden, selbst wenn manche Juden sie offen angreifen.
 
 ## Zusammenfassung
 
 <a name="7a9f"></a>
-Die Herausforderung für die Kirche besteht darin, die Spannung aufrechtzuerhalten, ein Teil Israels zu sein und von Israel angegriffen zu werden.
+Die Herausforderung für die Gemeinde besteht also darin, beide Wahrheiten zugleich festzuhalten — Teil Israels zu sein und zugleich, mitunter, von Israel angegriffen zu werden.
 
-Ich denke, wir können viel von der Art und Weise lernen, wie wir mit anderen Konfessionen und mit Juden umgehen.
-
+Aus diesem Buch lässt sich viel darüber lernen, wie wir mit einer ähnlichen Spannung heute umgehen können, sei es zwischen verschiedenen Konfessionen oder in unserer Beziehung zum jüdischen Volk.

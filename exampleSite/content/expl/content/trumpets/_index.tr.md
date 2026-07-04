@@ -4,8 +4,8 @@ title: "Trompetler (Böl.8-9)"
 weight: 8
 ---
 
-Borazanlar doğrudan mühürlerin açıklamasını takip eder (son mühür henüz açılmıştır).
+Borazanlar, mühürlerin bıraktığı yerden hemen devam eder — son mühür daha az önce açılmıştır.
 
-Kutsalların duası daha önce gerçekleşir ve borazanların üflenmesine neden olur. Bu bizim duamızdır ve bu büyük etkiye sahiptir.
+Bir dua toplantısıyla başlarlar: kutsalların Tanrı'ya sunulan duaları, borazanların çalınmasını başlatan şeydir. Bu kadar ağırlık taşıyan şey bizim duamızdır.
 
-Borazanlar tüm güvenceleri (yiyecek, ticaret, yönelim, sağlık, umut, yaşam) ellerinden alacaktır, ancak insanlar kendilerini tedirgin eden iblislere tutunmaya karar verirler (5. ve 6. borazanlar iblislerden kaynaklanır). 
+Borazanlar, insanların güvendiği her güvenceyi teker teker ellerinden alır — yiyecek, ticaret, yön bulma, sağlık, umut, yaşamın kendisi. Yine de beşinci ve altıncı borazanda insanlar, kendilerine işkence eden iblislere sarılmayı, Tanrı'ya yönelmek yerine tercih ederler.

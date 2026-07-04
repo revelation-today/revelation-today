@@ -10,41 +10,45 @@ sources:
     - ref: beale_dwell
 ---
 
-Ketika kita memperhatikan tema bait Allah dalam Alkitab, kita mungkin berpikir bahwa tema ini dimulai dengan Salomo (atau Kemah Suci Musa) dan berakhir dengan kehancuran oleh orang Romawi pada tahun 70 M, atau bahkan sudah berakhir oleh orang Babel pada tahun 587 SM.
+Ketika kita memikirkan tentang bait Allah dalam Alkitab, biasanya kita mulai dengan Salomo — atau dengan Musa, jika kita kembali ke Kemah Suci — dan berakhir dengan kehancurannya oleh orang Romawi pada tahun 70 M, atau mungkin dengan pembuangan ke Babel pada tahun 587 SM.
 
-Tetapi tema ini sudah muncul sejak kisah penciptaan dan berlanjut hingga Kitab Wahyu.
+Tetapi kisah yang sesungguhnya dimulai sejak Kitab Kejadian dan berlanjut hingga ke Kitab Wahyu, dan jauh lebih luas daripada itu.
 
 ## Taman Eden sebagai Tempat Persekutuan dengan Allah
 
 <a name="f66f"></a>
-Semuanya dimulai dengan Taman Eden. Allah menciptakan laki-laki dan perempuan dan bersekutu dengan mereka dengan {{% bible val="menyediakan sebuah taman yang harus mereka pelihara" link="gen:2,8-15" lang="ind" %}} dan {{% bible val="di mana Ia bertemu dengan mereka" link="gen:3,8-9" lang="ind" %}}. Tetapi karena kejatuhan ke dalam dosa, keduanya harus meninggalkan taman itu. {{% bible val="Tanah itu dikutuk" link="gen:3,17-19" lang="ind" %}}, dan keadaan menjadi {{% bible val="lebih buruk lagi ketika Kain membunuh Habel" link="gen:4,12" lang="ind" %}}.
+Semuanya dimulai di Taman Eden. Allah menciptakan laki-laki dan perempuan dan hidup dalam persekutuan dengan mereka, {{% bible val="memberi mereka sebuah taman untuk dipelihara" link="gen:2,8-15" lang="ind" %}} dan {{% bible val="bertemu dengan mereka di sana secara teratur" link="gen:3,8-9" lang="ind" %}}.
 
-Hal itu berat bagi Kain, tetapi Allah memutuskan untuk {{% bible val="memberinya tanda dan melindunginya" link="gen:4,13-15" lang="ind" %}}. Namun Kain mencari {{% bible val="perlindungannya sendiri dan membangun sebuah kota" link="gen:4,16-17" lang="ind" %}}, dan {{% bible val="para keturunannya juga mencari keamanan mereka dalam kejayaan budaya dan kemajuan mereka" link="gen:4,16-17" lang="ind" %}}. Garis keturunan Kain berakhir dengan {{% bible val="Lamekh, yang mengejek perlindungan Allah" link="gen:4,22-24" lang="ind" %}}.
+Setelah kejatuhan, keduanya harus meninggalkan taman itu. {{% bible val="Tanah itu sendiri dikutuk" link="gen:3,17-19" lang="ind" %}}, dan keadaan hanya menjadi lebih buruk {{% bible val="ketika Kain membunuh Habel" link="gen:4,12" lang="ind" %}}.
 
-## Kota sebagai Tempat Perlindungan Manusia
+Beban itu terlalu berat untuk ditanggung Kain, dan Allah menunjukkan belas kasihan kepadanya, {{% bible val="menaruh sebuah tanda pelindung padanya" link="gen:4,13-15" lang="ind" %}}. Tetapi Kain justru {{% bible val="mencari keamanannya sendiri dan membangun sebuah kota" link="gen:4,16-17" lang="ind" %}}, dan para penerusnya membawa hal itu lebih jauh lagi, membangun {{% bible val="keamanan dan penghidupan mereka sendiri melalui kebudayaan dan kemajuan" link="gen:4,16-17" lang="ind" %}}.
 
-<a name="9299"></a>
-Adam memiliki seorang putra lagi, dan {{% bible val="sejak saat itu manusia kembali mencari persekutuan dengan Allah" link="gen:4,25-26" lang="ind" %}}. Tetapi {{% bible val="kota tetap menjadi unsur penting" link="gen:10,8-12" lang="ind" %}}, yang berakhir dengan {{% bible val="bencana menara Babel" link="gen:11,1-9" lang="ind" %}}.
+Garis keturunan Kain berakhir dengan Lamekh, {{% bible val="yang mengejek perlindungan yang telah diberikan Allah kepada Kain" link="gen:4,22-24" lang="ind" %}}. Dengan kata lain, kota-kota menjadi tempat perlindungan pengganti buatan manusia sendiri. Adam kemudian memiliki seorang putra lagi, dan {{% bible val="sejak saat itu, manusia kembali mulai berseru kepada nama TUHAN" link="gen:4,25-26" lang="ind" %}}. Namun {{% bible val="kota tetap menjadi unsur penting" link="gen:10,8-12" lang="ind" %}} dalam kisah ini, dan pada akhirnya membawa kepada bencana di {{% bible val="menara Babel" link="gen:11,1-9" lang="ind" %}}.
 
-Manusia ingin membuat nama bagi diri mereka sendiri, tetapi {{% bible val="Allah memilih Abraham dan menjadikan sebuah nama baginya" link="gen:12,1-3" lang="ind" %}}, yang kelak melahirkan Israel.
+Para pembangun di Babel ingin membuat nama bagi diri mereka sendiri, tetapi sebaliknya {{% bible val="Allah memilih untuk membuat sebuah nama bagi Abraham" link="gen:12,1-3" lang="ind" %}}, yang kelak melahirkan Israel.
 
 ## Allah Datang ke Kota
 
 <a name="5add"></a>
-Namun Allah masih tetap merindukan manusia. Ketika Ia membebaskan Israel dari perbudakan di Mesir (Keluaran 1–14), Ia memutuskan untuk tinggal bersama umat-Nya menurut syarat-syarat mereka, dan Ia tinggal di dalam sebuah kemah dan kemudian di dalam sebuah rumah, yaitu bait Allah.
+Allah tetap merindukan hubungan dengan manusia. Maka ketika Ia membawa Israel keluar dari Mesir (Keluaran 1–14), Ia memilih untuk hidup bersama mereka menurut syarat-syarat mereka sendiri, dengan bergabung bersama mereka mula-mula di dalam sebuah kemah dan kemudian di dalam sebuah rumah — bait Allah.
 
-Bait Allah itu dipenuhi dengan unsur-unsur Taman Eden dan sesuai dengan gagasan itu. Karena manusia di taman itu tidak dapat lagi bersekutu dengan Allah, Allah datang ke kota menemui manusia. Bait Allah itu dirancang sedemikian rupa sehingga orang bukan Israel pun dapat mengunjunginya.
+Bait Allah itu dipenuhi dengan citra yang dipinjam dari Taman Eden, mencerminkan sebuah logika sederhana: karena manusia tidak lagi dapat bersekutu dengan Allah di taman, maka Allah sebaliknya akan bersekutu dengan manusia di dalam bait-Nya. Dan sejak awal, bait Allah itu dimaksudkan agar orang-orang bukan Israel pun dapat turut ambil bagian di dalamnya.
 
-Bagian sentralnya adalah tempat mahakudus, yang hanya boleh dimasuki oleh imam besar satu kali dalam setahun, pada Hari Pendamaian. Di sinilah juga Allah berbicara dengan Musa, dan di sinilah Allah hadir di dalam bait-Nya.
+Bagian terdalam dari bait Allah adalah tempat mahakudus, yang hanya boleh dimasuki oleh imam besar, dan hanya sekali setahun, pada Hari Pendamaian. Inilah tempat Musa berbicara dengan Allah, dan tempat kehadiran Allah berdiam.
 
-## Allah Meninggalkan Janji bahwa Kota dan Taman Akan Menjadi Satu
+Meskipun demikian, pada akhirnya Allah meninggalkan tempat kediaman itu — tetapi dengan sebuah janji bahwa suatu hari kelak Ia akan menyatukan kembali gambaran kota dan taman itu. Ketika Israel melanggar perjanjian, {{% bible val="kehadiran-Nya meninggalkan bait itu" link="ezk:10,18-19" lang="ind" %}}, tetapi kemudian dalam kitab yang sama, {{% bible val="kembalinya Allah dijanjikan, masuk kembali melalui Pintu Gerbang Timur" link="ezk:43,1-2" lang="ind" %}}.
 
-<a name="3f30"></a>
-Ketika Israel melanggar perjanjian dengan Allah, {{% bible val="Allah meninggalkan bait-Nya" link="ezk:10,18-19" lang="ind" %}}, tetapi kemudian dikisahkan bahwa {{% bible val="Allah kembali lagi (melalui pintu gerbang timur) ke dalam bait-Nya" link="ezk:43,1-2" lang="ind" %}}. Dalam pasal-pasal ini diperkenalkan sebuah aspek baru — gambaran taman dan kota. Ini adalah kisah tentang {{% bible val="sungai kecil yang mengalir dari mezbah (di dalam bait Allah) dan menjadi sebuah sungai besar yang membawa kehidupan ke mana-mana" link="ezk:47" lang="ind" %}}. Hal ini akhirnya {{% bible val="akan digenapi di Yerusalem Baru melalui pohon kehidupan di dalam kota itu" link="rev:22,1-5" lang="ind" %}}, tetapi masih ada jalan panjang menuju ke sana.
+Dalam konteks pasal-pasal itu, muncul sebuah gambaran baru yang memadukan bait Allah dengan taman itu: {{% bible val="sebuah penglihatan tentang aliran air yang mengalir keluar dari mezbah di dalam bait itu, menjadi sebuah sungai yang membuat segala sesuatu tumbuh dan berkembang ke mana pun ia mengalir" link="ezk:47" lang="ind" %}}. Penglihatan itu menemukan {{% bible val="penggenapannya di Yerusalem Baru" link="rev:22,1-5" lang="ind" %}} — meskipun pada titik ini dalam kisahnya, masih ada jalan panjang sebelum kita sampai ke sana.
 
 ## Bait Allah dalam Perjanjian Baru
 
 <a name="379d"></a>
-Dalam Perjanjian Baru, {{% bible val="Yesuslah bait Allah itu" link="jhn:2,19-22" lang="ind" %}}. Ketika Ia mati, tirai di bait Allah di depan tempat mahakudus itu terbelah, yang menunjukkan bahwa kini semua orang memiliki akses langsung kepada Allah.
+Dalam Perjanjian Baru, {{% bible val="Yesus sendirilah bait Allah itu" link="jhn:2,19-22" lang="ind" %}}. Ketika Ia mati, tirai di depan tempat mahakudus itu terbelah menjadi dua, menunjukkan bahwa akses kepada Allah kini terbuka bagi semua orang.
 
-Ketika Yesus mati, {{% bible val="gerejalah yang menjadi bait Allah, sebab gereja adalah tubuh Kristus" link="1co:6,19" lang="ind" %}}. Dan dalam Kitab Wahyu, gereja adalah mempelai Kristus, yaitu Yerusalem Baru, tempat persekutuan antara Allah dan manusia tidak lagi terganggu.
+Dengan kematian-Nya, {{% bible val="bait Allah itu menjadi gereja, sebab gereja adalah tubuh Kristus" link="1co:6,19" lang="ind" %}}.
+
+Dan dalam Kitab Wahyu, gereja tampil sebagai Mempelai Kristus, yang juga adalah Yerusalem Baru — tempat di mana persekutuan antara Allah dan manusia, akhirnya, tidak lagi terganggu.
+
+## Selidiki Lebih Lanjut
+
+{{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources/index.html#beale_dwell" %}}

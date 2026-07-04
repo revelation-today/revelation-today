@@ -11,66 +11,59 @@ sources:
       ref: dabar_daniel
 ---
 
-Das Buch Daniel scheint die Quelle für viele endzeitliche Interpretationen zu sein. Schauen wir uns diese näher an.
+Das Buch Daniel scheint die Quelle vieler endzeitlicher Auslegungen zu sein. Schauen wir uns genauer an, worum es dabei eigentlich geht, und beginnen wir mit den Grundlagen.
 
 ## Die vier Königreiche
 
 <a name="c9a9"></a>
-In den Kapiteln 2 und 7 des Buches Daniel sehen wir vier Königreiche, die in {{% bible val="Kapitel 2 durch ein Standbild" link="dan:2" lang="de" %}} und in {{% bible val="Kapitel 7 durch vier Tiere" link="dan:7" lang="de" %}} beschrieben werden.
+Die Kapitel 2 und 7 des Buches Daniel geben uns jeweils einen Blick auf vier aufeinanderfolgende Königreiche — {{% bible val="Kapitel 2 durch die Vision einer Statue" link="dan:2" lang="de" %}}, {{% bible val="Kapitel 7 durch eine Reihe von Tieren" link="dan:7" lang="de" %}}. Beide Kapitel stellen die Königreiche als aufeinanderfolgend dar: Kapitel 2 tut dies ausdrücklich, während Kapitel 7 es dadurch zeigt, dass die Tiere einander erobern und ablösen.
 
-Beide Kapitel beschreiben sie als aufeinanderfolgend: Kapitel 2 explizit, Kapitel 7 durch gegenseitige Überwindung und Ablösung.
+Kapitel 2 gibt uns einen klaren Ausgangspunkt, denn {{% bible val="das erste Königreich ist Babel" link="dan:2,37-38" lang="de" %}}. Babel wurde {{% bible val="durch das medo-persische Reich zerstört" link="dan:5,30" lang="de" %}}. Manche Ausleger behandeln das medische und das persische Reich als zwei getrennte, aufeinanderfolgende Reiche, aber das entspricht nicht der Geschichte — die beiden waren bereits vereint, bevor sie Babel zerstörten.
 
-In Kapitel 2 sehen wir, dass der {{% bible val="Ausgangspunkt Babel" link="dan:2,37-38" lang="de" %}} ist. Babel wurde durch das Medo{{% bible val="-Persische Reich" link="dan:5,30" lang="de" %}} zerstört. Einige Ausleger sehen Medien und Persien als zwei verschiedene aufeinanderfolgende Reiche, aber das entspricht nicht wirklich der Geschichte, da beide vereinigt waren BEVOR sie Babel eroberten.
+Das dritte Königreich ist das {{% bible val="griechische Reich unter Alexander dem Großen, der das medo-persische Reich eroberte" link="dan:8,19-21" lang="de" %}}. Nach Alexanders Tod zerfiel dieses Reich in vier Teile, die schließlich in das vierte und letzte Königreich, Rom, aufgingen.
 
-Das dritte wäre dann das {{% bible val="griechische Reich unter Alexander dem Großen, das das persische Reich ablöste" link="dan:8,19-21" lang="de" %}}. Dieses zerfiel nach Alexanders Tod in vier Reiche, die schließlich von den Römern erobert wurden.
+Kapitel 7 zeichnet dasselbe Bild mit anderen Bildern, beginnend mit Babel:
 
-Kapitel 7 zeigt ein ähnliches Bild.
+„{{% bible val="Und vier große Tiere stiegen aus dem Meer herauf, verschieden voneinander. 4 Das erste war wie ein Löwe und hatte Adlerflügel. Ich schaute, bis ihm die Flügel ausgerissen wurden, und es wurde von der Erde aufgehoben und wie ein Mensch auf zwei Füße gestellt, und es wurde ihm ein menschliches Herz gegeben." link="dan:7,3-4" lang="de" %}}“
 
-Es beginnt mit {{% bible val="Babel" link="dan:7,3-4" lang="de" %}}.
+Babylon wurde sowohl auf [Statuen](https://en.wikipedia.org/wiki/Lion_of_Babylon) als auch auf [Porträts](https://en.wikipedia.org/wiki/Lion_of_Babylon) durch einen Löwen symbolisiert, und wahrscheinlich greift auch Jeremia auf dasselbe Bild zurück, wenn er das Gericht über Edom mit einem {{% bible val="Löwen und Adler" link="jer:49,19-22" lang="de" %}} beschreibt.
 
-Babel wurde durch Löwen in [Statuen](https://en.m.wikipedia.org/wiki/Lion_of_Babylon) oder Porträts dargestellt und wurde whrscheinlich auch von Jeremia als {{% bible val="Löwe und Adler im Gericht über Edom" link="jer:49,19-22" lang="de" %}} beschrieben.
+Als Nächstes kommen die Perser:
 
-Dann kommen die {{% bible val="Perser" link="dan:7,5" lang="de" %}}:
+„{{% bible val="Und siehe, ein anderes Tier, ein zweites, gleich einem Bären; das richtete sich auf einer Seite auf und hatte drei Rippen in seinem Maul zwischen seinen Zähnen, und man sprach zu ihm: Steh auf, friss viel Fleisch!" link="dan:7,5" lang="de" %}}“
 
-Der Bär, der auf einer Seite aufgerichtet ist, weil er das gemeinsame Reich der Perser und Meder beschreibt. Die Perser waren dabei der kleinere Teil, der aber später die Oberhand gewann.
+Der Bär, der sich auf einer Seite aufrichtet, stellt das gemeinsame medisch-persische Reich dar, in dem die persische Seite zunächst kleiner war, aber schließlich die Führung übernahm. Die drei Rippen zusammen mit dem Befehl zu „fressen“ beschreiben seine drei großen Eroberungen: Lydien (547 v. Chr.), Babel (539 v. Chr.) und Ägypten (525 v. Chr.).
 
-Die drei Rippen und der Hinweis auf das Fressen beziehen sich auf die drei großen Eroberungen von Lydien (547 v. Chr.), Babel (539 v. Chr.) und Ägypten (525 v. Chr.).
+Dann die Griechen:
 
-Ihnen folgten die Griechen.
+„{{% bible val="Danach schaute ich, und siehe, ein anderes, gleich einem Panther, das hatte vier Flügel wie ein Vogel auf seinem Rücken; und das Tier hatte vier Köpfe, und ihm wurde Macht gegeben." link="dan:7,6" lang="de" %}}“
 
-Der Leopard beschreibt sehr gut die schnelle Ausbreitung des Reiches von Griechenland bis nach Indien in weniger als 20 Jahren. Nach Alexanders Tod zerfällt das Reich in vier Teile, deren Herrscher die vier Köpfe darstellen.
+Der Leopard fängt die rasante Ausbreitung von Alexanders Reich ein, das sich in weniger als zwei Jahrzehnten von Griechenland bis nach Indien erstreckte. Nach seinem Tod zerfiel das Reich in vier Nachfolgestaaten — die vier Köpfe.
 
-Schließlich kommen die Römer.
+Schließlich die Römer:
 
-Die Römer besiegten die letzten griechischen Reiche mit eiserner Härte. Eisen wird auch {{% bible val="in Kapitel 2 als Material für das letzte der vier Reiche" link="dan:2,40" lang="de" %}} verwendet.
+„{{% bible val="Danach sah ich in den Nachtgesichten, und siehe, ein viertes Tier, schrecklich und furchtbar und sehr stark; es hatte große eiserne Zähne, fraß und zermalmte, und was übrig blieb, zertrat es mit seinen Füßen." link="dan:7,7" lang="de" %}}“
 
-## Das Ende der Reiche
+Rom eroberte das letzte der griechischen Nachfolgereiche und wurde das bislang größte Reich, das alles mit eiserner Kraft zermalmte — demselben Eisen, das als {{% bible val="Material des vierten Königreichs in Kapitel 2" link="dan:2,40" lang="de" %}} erscheint.
+
+## Das Ende der Königreiche
 
 <a name="415e"></a>
-In beide Kapiteln wird das Ende der Reiche durch ein von Gott bewirktes Ereignis beschrieben. In Kapitel 2 wird es durch einen {{% bible val="Stein beschrieben, der nicht von Menschenhand geformt" link="dan:2,34" lang="de" %}} wurde, der aber {{% bible val="dann zu etwas wurde, das die ganze Erde erfüllt" link="dan:2,35" lang="de" %}}.
+Beide Kapitel enden auf dieselbe Weise: mit einem göttlichen Eingreifen. In Kapitel 2 wird es so beschrieben: „{{% bible val="ein Stein wurde losgerissen, ohne dass Hände ihn berührten, und er traf das Standbild an seinen Füßen aus Eisen und Ton und zermalmte sie" link="dan:2,34" lang="de" %}}" und „{{% bible val="der Stein aber, der das Bild zertrümmert hatte, wurde zu einem großen Berg und füllte die ganze Erde." link="dan:2,35" lang="de" %}}“
 
-Das erinnert an den {{% bible val="Eckstein" link="isa:28,16" lang="de" %}}, der {{% bible val="Jesus" link="1pe:2,4-8" lang="de" %}} ist, der das {{% bible val="Fundament der Gemeinde" link="eph:2,19-22" lang="de" %}} ist. Er wurde nicht von Menschen gemacht und wurde zum Herrscher dieser Welt und gab diese Autorität an die Gemeinde weiter.
+Das erinnert an den {{% bible val="Eckstein" link="isa:28,16" lang="de" %}}, der anderswo als {{% bible val="Jesus Christus" link="1pe:2,4-8" lang="de" %}} identifiziert wird, der das {{% bible val="Fundament der Gemeinde" link="eph:2,19-22" lang="de" %}} ist. Er wurde nicht durch „Menschenhand“ gemacht, und er wurde zum Herrscher der Welt und übertrug der Gemeinde seine Autorität zu herrschen. Kapitel 7 zeigt dasselbe Eingreifen aus einem anderen Blickwinkel: {{% bible val="der Hochbetagte und der Menschensohn überwinden die Königreiche" link="dan:7,9-12" lang="de" %}}, und {{% bible val="er richtet ein ewiges Königreich auf" link="dan:7,13-14" lang="de" %}}.
 
-Wenn wir uns Kapitel 7 anschauen, sehen wir, wie der {{% bible val="Menschensohn die Reiche überwindet" link="dan:7,9-12" lang="de" %}} und ein {{% bible val="ewiges Reich aufrichtet" link="dan:7,13-14" lang="de" %}}. Doch wer ist der Menschensohn?
-
-Im Kontext von Daniel ist es Israel, weil es {{% bible val="wie der Menschensohn" link="dan:7,14" lang="de" %}} das {{% bible val="Königreich empfängt" link="dan:7,18" lang="de" %}}. Dies hat sich in Jesus erfüllt, der sich selbst [ausschließlich als Menschensohn bezeichnet hat](https://www.bibleserver.com/search/SLT/son%20of%20man).
+Wer also ist dieser Menschensohn? In Daniels eigenem Kontext ist es Israel — {{% bible val="sie empfangen das Königreich" link="dan:7,18" lang="de" %}} unter dem Titel {{% bible val="der Menschensohn" link="dan:7,14" lang="de" %}}. Aber das findet seine Erfüllung in Jesus als dem wahren Israel, und es ist bemerkenswert, dass [Menschensohn der einzige Titel ist, den er jemals für sich selbst verwendet](https://www.bibleserver.com/search/SLT/Menschensohn).
 
 ## Aber da ist mehr
 
 <a name="e6a6"></a>
-Wir haben gesehen, dass die Kapitel 2 und 7 von denselben 4 Reichen handeln und mit dem Römischen Reich enden, als Jesus auf die Erde kam und alle Reiche am Kreuz besiegte. Aber es gibt noch ein paar lose Enden:
+Die Kapitel 2 und 7 beschreiben eindeutig dieselben vier Königreiche und enden mit Rom zu der Zeit, als Jesus geboren wird und die Reiche am Kreuz besiegt. Aber ein paar Details passen nicht ganz zu dieser Lesart. Kapitel 2 erwähnt weitere Königreiche, die durch die Füße der Statue dargestellt werden. Der Stein in Kapitel 2 — Jesu erstes Kommen — zerstörte nicht die ganze Statue auf einmal, denn Rom bestand danach noch mehr als 400 Jahre weiter. Auch die Beschreibung des vierten Tieres in Kapitel 7 passt nicht vollständig zu Rom: Es wird als furchtbar und schrecklich bezeichnet, anders als alle Tiere zuvor, und mit zehn Hörnern versehen, doch Rom war in dieser Hinsicht nicht besonders anders als frühere Reiche, und die zehn Hörner lassen sich nie eindeutig etwas Festem in der römischen Geschichte zuordnen. Und die Szene, in der der Menschensohn in Kapitel 7 kommt, liest sich wie ein Endgericht, doch wenn es sich hier einfach um Rom handelte, würde sich nach diesem Gericht nicht wirklich viel ändern.
 
-- Kapitel 2 spricht von anderen Reichen, die die Füße des Standbildes darstellen.
-- Der Stein in Kapitel 2 (das erste Kommen Jesu) hat nicht die ganze Statue zerstört (das Römische Reich existierte noch 400 Jahre lang).
-- Die Beschreibung des vierten Tieres in Kapitel 7 ist keine vollständige Beschreibung des Römischen Reiches (schrecklich und furchterregend, anders als alle anderen und mit 10 Hörnern), aber dieses Reich war nicht grundlegend anders als die anderen davor, und die 10 Hörner konnten in der römischen Geschichte nie mit Sicherheit identifiziert werden.
-- Die Szene in Kapitel 7, in der der Menschensohn kommt, klingt wie das Jüngste Gericht, aber das macht wenig Sinn, wenn es sich um das Ende des Römischen Reiches handelt.
+Darüber gibt es einige Debatten, wie man das auflösen kann; hier ist meine eigene Sicht, teilweise von anderen übernommen. Die Geschichte endet nicht damit, dass Jesus auf die Erde kommt — sie beginnt einen bedeutenden Wandel in der Weltgeschichte: Die Gemeinde regiert nun die Erde. Durch die Ausbreitung des Evangeliums in Anbetung, Gebet, Zeugnis und Beharrlichkeit verändert sich die Welt.
 
-Viele haben darüber nachgedacht, hier sind meine Gedanken (basierend auf den Gedanken anderer)
+Aber wie sehr nutzen wir das eigentlich? Statt einer neuen Welt gibt uns die Geschichte Kreuzzüge, Inquisition und Zwangsbekehrungen, die auf der Angst vor der Hölle aufgebaut sind. Gleichzeitig ist der Wechsel der Herrschaft nicht so offensichtlich, wie man es erwarten könnte, denn Jesu Königreich ist nicht von dieser Welt. Während Jesus und die Gemeinde die Herrschaft über die Erde übernehmen, müssen wir uns fragen, was es eigentlich {{% bible val="bedeutet, im Reich Gottes zu herrschen" link="mat:20,25-28" lang="de" %}}.
 
-Die Geschichte ist mit dem ersten Kommen Jesu nicht zu Ende gegangen, sondern hat etwas Grundlegendes bewirkt: Die Gemeinde regiert jetzt die Welt! Durch die Verkündigung des Evangeliums, durch Gebet, Zeugnis und Beharrlichkeit verändert sich die Welt. Aber wie sieht das konkret aus? Sehen wir nicht vielmehr eine Welt, die geprägt ist von Kreuzzügen, Inquisition, Zwangsbekehrungen und Angst vor der Hölle?
+Rom ist das letzte der vier Königreiche, das direkte Herrschaft über Israel ausübt. Nach dem durch Jesus errichteten neuen Bund ist Gottes Volk über die ganze Erde verstreut, und es gibt kein einzelnes Reich mehr, das sie alle umfasst.
 
-Andererseits ist der Übergang der Herrschaft nicht so offensichtlich, denn sein Reich ist nicht von dieser Welt. Wenn Jesus und die Gemeinde die Herrschaft übernehmen, müssen wir uns fragen, was {{% bible val="Herrschaft" link="mat:20,25-28" lang="de" %}} im Reich Gottes eigentlich bedeutet.
-
-Das Römische Reich war das letzte Reich, das über Israel herrschte. Durch den Neuen Bund ist das Volk Gottes über die ganze Erde verstreut, und es gibt kein einziges Reich, das sie einschließt.
-
-Es gibt auch Diskussionen darüber, wer die zehn Könige und die drei Hörner in Kapitel 7 sind, aber wir müssen diese Themen im Zusammenhang mit der Offenbarung betrachten, wo wir die {{% int_link val="Dreieinigkeit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} und die zehn Könige wieder sehen.
+Es gibt noch viel mehr Kontroversen rund um die zehn Könige und die drei Hörner — ein Thema, nach dem Daniel selbst in Kapitel 7 weiter nachfragt —, aber diese Diskussion gehört in den Zusammenhang des Buches der Offenbarung, wo wir der {{% int_link val="bösen Dreieinigkeit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} und den zehn Königen wieder begegnen.

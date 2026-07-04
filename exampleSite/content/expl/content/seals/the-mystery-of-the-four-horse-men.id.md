@@ -17,93 +17,89 @@ sources:
       ref: beale_rev
 ---
 
-Dalam Kitab Wahyu kita melihat empat penunggang kuda apokaliptik yang membawa perang, kelaparan, dan kematian ke seluruh bumi. Namun penunggang kuda pertama tidak sesuai dengan pola ini dan menjadi topik yang diperdebatkan.
+Dalam Kitab Wahyu kita melihat empat penunggang kuda - penunggang apokaliptik yang membawa perang, kelaparan, dan kematian ke seluruh bumi. Namun penunggang kuda pertama tidak sesuai begitu saja dengan pola ini, dan ia menimbulkan banyak masalah: ini benar-benar topik yang diperdebatkan.
 
 ## Baik Dibaca Sebelumnya
 
 <a name="02bb"></a>
 - {{% int_link val="Latar Belakang Historis Kitab Ini" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}
-- {{% int_link val="Kitab Macam Apakah Wahyu Ini?" link="/expl/background/literature/expl/the-book-of-revelation-how-to-read-it" %}}
+- {{% int_link val="Kitab Macam Apakah Ini" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}
 
 ## Teksnya
 
 <a name="19b5"></a>
-Berikut ini terlebih dahulu {{% bible val="Teksnya" link="rev:6,1-8" lang="ind" %}}.
+Mari kita lihat dahulu teks Alkitabnya:
+
+"Maka aku melihat Anak Domba itu membuka yang pertama dari ketujuh meterai itu, dan aku mendengar yang pertama dari keempat makhluk itu berkata dengan suara bagaikan bunyi guruh: Marilah! 2 Dan aku melihat: sesungguhnya, ada seekor kuda putih dan orang yang menungganginya memegang sebuah panah dan kepadanya dikaruniakan sebuah mahkota, lalu ia maju sebagai pemenang untuk merebut kemenangan. 3 Dan ketika Anak Domba itu membuka meterai yang kedua, aku mendengar makhluk yang kedua berkata: Marilah! 4 Lalu majulah seekor kuda lain, seekor kuda merah padam dan orang yang menungganginya dikaruniakan kuasa untuk mengambil damai sejahtera dari atas bumi, sehingga mereka saling membunuh, dan kepadanya dikaruniakan sebilah pedang besar. 5 Dan ketika Anak Domba itu membuka meterai yang ketiga, aku mendengar makhluk yang ketiga berkata: Marilah! Dan aku melihat: sesungguhnya, seekor kuda hitam, dan orang yang menungganginya memegang sebuah timbangan di tangannya. 6 Dan aku mendengar seperti ada suara di tengah-tengah keempat makhluk itu berkata: Secupak gandum sedinar, dan tiga cupak jelai sedinar; dan janganlah rusakkan minyak dan anggur itu! 7 Dan ketika Anak Domba itu membuka meterai yang keempat, aku mendengar suara makhluk yang keempat berkata: Marilah! 8 Dan aku melihat: sesungguhnya, ada seekor kuda hijau kuning, dan orang yang menungganginya bernama Maut dan kerajaan maut mengikutinya. Dan kepada mereka diberikan kuasa atas seperempat dari bumi untuk membunuh dengan pedang, dengan kelaparan, dengan sampar dan dengan binatang-binatang buas yang di bumi." {{% bible val="Wahyu 6:1–8" link="rev:6,1-8" lang="ind" %}}
 
 ## Penafsiran-Penafsiran
 
 <a name="e536"></a>
-Ada dua penafsiran utama mengenai para penunggang kuda ini, dengan penunggang kuda pertama sebagai penentunya:
+Ada dua penafsiran utama, dan keduanya punya alasan masing-masing:
 
-- Penunggang kuda pertama itu baik dan melambangkan {{% bible val="penyebaran Injil ke seluruh dunia" link="mrk:13,10" lang="ind" %}}.
-- Penunggang kuda pertama itu jahat, sama seperti para penunggang kuda lainnya.
+- Penunggang kuda pertama melambangkan karakter yang baik - misalnya mencerminkan {{% bible val="pemberitaannya ke seluruh dunia" link="mrk:13,10" lang="ind" %}}.
+- Penunggang kuda pertama melambangkan karakter yang jahat, sama seperti para penunggang kuda lainnya.
 
 ## Pengamatan-Pengamatan Awal
 
 <a name="2795"></a>
-Jika kita melihat keseluruhan teks, ada kesejajaran-kesejajaran yang kuat.
+Jika kita memperhatikan teksnya dengan saksama, ada tiga kesejajaran kuat yang menonjol.
 
-- Teks pertama berasal dari {{% bible val="Zakharia, yang menggambarkan empat ekor kuda dengan warna berbeda yang menjelajahi bumi" link="zec:1,8-15" lang="ind" %}}.
-- {{% bible val="Beberapa pasal kemudian muncul empat kereta perang dengan kuda-kuda berwarna berbeda yang menjelajahi bumi" link="zec:6,1-8" lang="ind" %}}.
-- Gambaran tentang {{% bible val="keempat malapetaka Allah" link="ezk:14,12-23" lang="ind" %}} (pedang, kelaparan, binatang buas, dan sampar) menunjukkan kesejajaran yang sangat kuat dengan keempat penunggang kuda itu.
+Pertama, sebuah teks dalam kitab nabi Zakharia menggambarkan {{% bible val="empat ekor kuda dengan warna berbeda yang menjelajahi bumi" link="zec:1,8-15" lang="ind" %}}. Beberapa pasal kemudian, {{% bible val="empat kereta perang dengan warna berbeda mencerminkan angin-angin di bumi" link="zec:6,1-8" lang="ind" %}}. Dan gambaran tentang {{% bible val="keempat malapetaka Allah" link="ezk:14,12-23" lang="ind" %}} - pedang, kelaparan, binatang buas, dan sampar - sangat menyerupai aktivitas keempat kuda ini.
 
-Jika kita memperhatikan para penunggang kuda ini, kita melihat beberapa kesamaan, tetapi juga beberapa perbedaan.
+Jika kita memperhatikan para penunggang kuda itu sendiri, kita melihat baik kesamaan maupun perbedaan di antara mereka. Keempatnya dipanggil untuk bertindak; tidak satu pun dari mereka bertindak atas kehendaknya sendiri. Setiap penunggang diberi sesuatu untuk digunakan dalam tindakannya. Namun hanya penunggang kuda pertama yang secara eksplisit diperintahkan untuk melaksanakan tugasnya - untuk maju dan menang - sementara tidak ada instruksi semacam itu tentang bagaimana yang lain menjalankan tugas mereka. Tindakan penunggang kuda pertama tetap tidak jelas ("menang"), sedangkan bagi yang lain dijabarkan dengan gamblang: membawa perang, kelaparan, dan kematian.
 
-- Keempatnya diperintahkan untuk melakukan sesuatu, mereka tidak bertindak atas kehendak mereka sendiri.
-- Setiap penunggang kuda diberi sesuatu untuk dilakukan.
-- Hanya penunggang kuda pertama yang diberi sebuah tugas (“untuk menang”), sedangkan yang lainnya tidak diberi perintah tindakan.
-- Tindakan penunggang kuda pertama sangat tidak spesifik (untuk menang), sementara tindakan yang lainnya cukup jelas (membawa perang, kelaparan, dan kematian).
-- Penunggang kuda ketiga tidak memiliki ungkapan “dan diberikanlah kepadanya”, yang menunjukkan aktivitas atau otorisasi ilahi, tetapi ia memegang sebuah alat di tangannya. Sebaliknya, hasil dari tindakannya dinyatakan melalui sebuah pernyataan dari takhta di tengah-tengah keempat makhluk itu.
+Penunggang kuda ketiga berbeda lagi: ia tidak memiliki ungkapan "dan diberikanlah kepadanya." Sebaliknya, ia hanya memegang alatnya di tangannya, yang dengan sendirinya menandakan aktivitas atau otorisasi ilahi, dan sebuah pernyataan justru dikeluarkan dari takhta, dari tengah-tengah keempat makhluk hidup itu, bukan diserahkan langsung kepadanya.
 
 ## Rahasia Penunggang Kuda Ketiga
 
 <a name="3bc5"></a>
-“{{% bible val="Dan ketika Ia membuka meterai yang ketiga, aku mendengar makhluk yang ketiga berkata: Marilah dan lihatlah! Dan aku melihat: sesungguhnya, seekor kuda hitam, dan orang yang menungganginya memegang sebuah timbangan di tangannya. 6 Dan aku mendengar seperti ada suara di tengah-tengah keempat makhluk itu berkata: Secupak gandum sedinar, dan tiga cupak jelai sedinar; dan janganlah rusakkan minyak dan anggur itu!" link="rev:6,5-6" lang="ind" %}}’”
+"Dan ketika Anak Domba itu membuka meterai yang ketiga, aku mendengar makhluk yang ketiga berkata: Marilah! Dan aku melihat: sesungguhnya, seekor kuda hitam, dan orang yang menungganginya memegang sebuah timbangan di tangannya. Dan aku mendengar seperti ada suara di tengah-tengah keempat makhluk itu berkata: Secupak gandum sedinar, dan tiga cupak jelai sedinar; dan janganlah rusakkan minyak dan anggur itu!"
 
-Untuk memahami bagian ini, diperlukan sedikit pengetahuan latar belakang:
+Untuk memahami hal ini, kita memerlukan sedikit latar belakang.
 
-- Bahan makanan sering kali dijatah (misalnya dalam Alkitab pada penggambaran {{% bible val="kelaparan yang akan datang" link="lev:26,26" lang="ind" %}}, dalam {{% bible val="kelaparan yang sedang berlangsung" link="2ki:7,1" lang="ind" %}}, atau dalam {{% bible val="penglihatan kenabian tentang kelaparan" link="ezk:4,10-16" lang="ind" %}}).
-- Sebagai perbandingan: secupak gandum cukup untuk satu orang selama satu hari, tiga cupak jelai cukup untuk satu keluarga selama tiga hari, padahal jelai sebenarnya adalah pakan ternak. Gambaran ini menunjukkan bahwa harga-harga telah dinaikkan 8 hingga 16 kali lipat.
-- Minyak dan anggur dalam konteks Wahyu adalah barang-barang mewah. Tidak ada petunjuk di sini tentang pengurapan atau Perjamuan Kudus.
+Bahan makanan sering kali dijatah - entah karena kelaparan yang akan datang, kelaparan yang sedang berlangsung, atau peringatan kenabian tentangnya. Sebagai perbandingan: satu takaran gandum cukup untuk memberi makan satu orang selama satu hari, dan tiga takaran jelai (dipakai sebagai pakan ternak) cukup untuk satu keluarga selama tiga hari. Berdasarkan itu, kita dapat melihat bahwa harga-harga telah naik 8 hingga 16 kali lipat dari harga normal.
 
-Bagian ini tidak menggambarkan kelaparan pada umumnya, melainkan perlakuan yang tidak adil terhadap orang miskin. Sementara barang-barang mewah tetap terjaga (dari kenaikan harga dan kelangkaan), harga bahan pokok justru naik hingga tak terjangkau. Karena itu, seruan keempat makhluk ini harus dipahami sebagai seruan akan keadilan.
+Dalam konteks Wahyu, anggur dan minyak di sini berfungsi sebagai barang-barang mewah - dalam kitab ini keduanya tidak ada hubungannya dengan pengurapan atau Perjamuan Kudus.
+
+Jadi bagian ini tidak menggambarkan kelaparan pada umumnya, melainkan sebuah ancaman yang tidak adil yang ditujukan kepada orang miskin: sementara barang-barang mewah tetap terlindungi dari segala kerusakan (bahkan naik harganya), biaya bahan makanan pokok telah naik ke tingkat yang tak tertahankan. Itulah sebabnya suara di tengah-tengah keempat makhluk itu bukanlah sebuah perintah dari Allah, melainkan seruan akan keadilan.
 
 ## Rahasia Penunggang Kuda Pertama
 
 <a name="bdcd"></a>
-“{{% bible val="Dan aku melihat, ketika Anak Domba itu membuka satu dari ketujuh meterai itu, dan aku mendengar satu dari keempat makhluk itu berkata dengan suara bagaikan bunyi guruh: Marilah dan lihatlah! 2 Dan aku melihat: sesungguhnya, ada seekor kuda putih, dan orang yang menungganginya memegang sebuah panah; dan kepadanya dikaruniakan sebuah mahkota, dan ia maju sebagai pemenang untuk merebut kemenangan." link="rev:6,1-2" lang="ind" %}}”
+"Maka aku melihat Anak Domba itu membuka yang pertama dari ketujuh meterai itu, dan aku mendengar yang pertama dari keempat makhluk itu berkata dengan suara bagaikan bunyi guruh: Marilah! 2 Dan aku melihat: sesungguhnya, ada seekor kuda putih dan orang yang menungganginya memegang sebuah panah dan kepadanya dikaruniakan sebuah mahkota, lalu ia maju sebagai pemenang untuk merebut kemenangan."
 
-Ada beberapa argumen kuat mengapa penunggang kuda pertama ini baik:
+Ada beberapa argumen masuk akal untuk membaca penunggang kuda ini sebagai sosok yang baik:
 
-- Dalam {{% bible val="Mazmur ada gambaran seorang raja Israel yang mengalahkan musuh-musuhnya dengan sebuah panah" link="psa:45,5-6" lang="ind" %}}, yang {{% bible val="dalam Perjanjian Baru ditafsirkan sebagai Yesus" link="heb:1,8" lang="ind" %}}.
-- Ada petunjuk jelas mengenai {{% bible val="Anak Manusia di atas awan putih dengan sebuah sabit" link="rev:14,14" lang="ind" %}} atau {{% bible val="penunggang yang menang di atas kuda putih dengan mahkota di kepalanya" link="rev:19,11" lang="ind" %}}, yang keduanya menunjuk kepada Yesus atau seorang malaikat yang mewakili-Nya.
-- Istilah “pemenang” dapat merujuk kepada Yesus, karena Ia juga adalah seorang pemenang di bagian-bagian lain kitab ini.
-- Ia adalah penunggang kuda putih, dan putih bersifat positif di bagian-bagian lain kitab ini.
-- Ia tidak melakukan sesuatu yang buruk (hanya menang), sementara para penunggang lainnya melakukan hal-hal buruk, jadi {{% bible val="mungkin ini adalah pemberitaan Injil sebelum semua hal buruk terjadi" link="mrk:13,10" lang="ind" %}}.
+- Dalam {{% bible val="Mazmur, ada gambaran seorang raja Israel yang mengalahkan musuh-musuhnya dengan sebuah panah" link="psa:45,5-6" lang="ind" %}}, yang {{% bible val="ditafsirkan sebagai rujukan mesianis kepada Yesus" link="heb:1,8" lang="ind" %}}.
+- Ada rujukan-rujukan yang jelas kepada {{% bible val="sosok yang seperti Anak Manusia di atas awan putih dengan sebuah sabit untuk menuai bumi" link="rev:14,14" lang="ind" %}}, dan kepada {{% bible val="penunggang yang menang di atas kuda putih dengan mahkota di kepalanya" link="rev:19,11" lang="ind" %}}. Keduanya menunjuk kepada Yesus, atau setidaknya kepada seorang malaikat Allah.
+- Istilah "menang" bisa merujuk kepada Yesus, sebab Ia juga adalah sang penakluk di bagian-bagian lain kitab ini.
+- Ia menunggangi kuda putih, dan putih adalah simbol yang positif di tempat lain dalam kitab ini.
+- Ia sendiri tidak melakukan sesuatu yang negatif - ia hanya menang, seperti yang dilakukan orang-orang kudus - sementara yang lainlah yang membawa sesuatu yang merusak, sehingga ini bisa saja {{% bible val="merujuk pada pemberitaan Injil sebelum segala hal buruk itu terjadi" link="mrk:13,10" lang="ind" %}}.
 
-Di sisi lain, ada kesejajaran-kesejajaran yang justru menyatakan hal sebaliknya:
+Di sisi lain, ada petunjuk-petunjuk yang justru menunjuk pada hal yang sebaliknya:
 
-- Allah akan {{% bible val="mematahkan panah dari tangan Gog dan Magog" link="ezk:39,3" lang="ind" %}}, di mana panah di sini adalah senjata musuh akhir zaman.
-- Yesus bukan satu-satunya yang memiliki mahkota, melainkan {{% bible val="juga kuasa-kuasa iblis yang keluar dari bumi" link="rev:9,7" lang="ind" %}}.
-- “Menang” juga digunakan {{% bible val="di tempat lain untuk binatang itu" link="rev:13,7" lang="ind" %}}, {{% bible val="ketika ia menang atas orang-orang kudus" link="rev:11,7" lang="ind" %}}.
-- Karena rujukan keempat kuda dan kereta perang dalam Zakharia membentuk satu kesatuan, maka keempatnya di sini juga harus membentuk satu kesatuan, dan semuanya atau tidak satu pun dari mereka adalah milik Allah.
-- Bukan hanya keempat penunggang kuda pertama, tetapi juga keempat sangkakala pertama dan keempat cawan pertama membentuk satu kesatuan. Karena itu juga, keempat penunggang kuda pertama adalah satu kesatuan.
+- Allah akan {{% bible val="mematahkan panah dari tangan Gog dan Magog" link="ezk:39,3" lang="ind" %}}, yang mengidentifikasikan panah sebagai senjata musuh akhir zaman.
+- Yesus bukan satu-satunya yang memiliki mahkota: {{% bible val="kuasa-kuasa iblis yang keluar dari bumi juga memiliki mahkota" link="rev:9,7" lang="ind" %}}.
+- Tema "menang" digunakan di tempat lain untuk {{% bible val="merujuk pada binatang itu" link="rev:13,7" lang="ind" %}} yang {{% bible val="menang atas orang-orang kudus" link="rev:11,7" lang="ind" %}}.
+- Sama seperti keempat kuda dan kereta perang dalam Zakharia membentuk satu kesatuan, keempat kuda dalam Wahyu pun harus membentuk satu kesatuan pula - baik semuanya milik Allah, atau tidak satu pun.
+- Dan bukan hanya keempat penunggang kuda yang membentuk satu kesatuan: keempat sangkakala pertama dan keempat cawan pertama pun demikian. Jadi keempat penunggang kuda pertama pun seharusnya dibaca sebagai satu kesatuan.
 
-Ini membingungkan. Mengapa rujukan-rujukan ini menunjuk baik kepada makna baik maupun makna jahat? Kita perlu melihat kembali rujukan-rujukan itu:
+Ini membingungkan - mengapa ada rujukan-rujukan yang menunjuk baik kepada makna baik maupun makna jahat? Mari kita lihat lebih dekat dua bukti terakhir ini:
 
-- Penggunaan pertama sebuah panah ditemukan dalam {{% bible val="kisah Yakub, yang dengan tipu daya merebut berkat ayahnya" link="gen:27" lang="ind" %}}.
-- Ketiga wacana akhir zaman Yesus dalam {{% bible val="Markus" link="mrk:13,5-9" lang="ind" %}}, {{% bible val="Matius" link="mat:24,4-8" lang="ind" %}}, dan {{% bible val="Lukas" link="luk:21,8-11" lang="ind" %}} memiliki urutan yang mirip dengan yang ada dalam Wahyu: pada urutan kedua selalu muncul perang, kemudian kelaparan, dan pada Lukas juga sampar. Namun dalam semuanya dimulai dengan “Waspadalah, supaya kamu jangan disesatkan, sebab banyak orang akan datang dengan memakai nama-Ku”.
+- Penggunaan pertama sebuah panah dalam Alkitab berasal dari {{% bible val="kisah Yakub dan tipu dayanya terhadap ayahnya untuk mendapatkan berkat" link="gen:27" lang="ind" %}}.
+- Ketiga wacana Yesus tentang akhir zaman, dalam {{% bible val="Injil Markus" link="mrk:13,5-9" lang="ind" %}}, {{% bible val="Injil Matius" link="mat:24,4-8" lang="ind" %}}, dan {{% bible val="Injil Lukas" link="luk:21,8-11" lang="ind" %}}, mengikuti urutan yang sama seperti yang ditemukan dalam Wahyu: ketiganya dibuka dengan sesuatu seperti "Waspadalah supaya kamu jangan disesatkan, sebab banyak orang akan datang dengan memakai nama-Ku." Perang selalu muncul kedua, kemudian kelaparan, dan dalam Lukas ini diikuti pula oleh "sampar."
 
 ## Penyelesaiannya
 
 <a name="8d71"></a>
-Jadi, penunggang kuda pertama itu jahat, tetapi berpura-pura baik seperti Yesus. Ini juga masuk akal jika kita memperhatikan konteksnya. Dalam {{% bible val="pasal sebelumnya Yesus dinyatakan sebagai satu-satunya yang layak membuka kitab itu" link="rev:5" lang="ind" %}}, dan sekarang Iblis dinyatakan dalam hakikatnya yang sesungguhnya: ia mulai dengan menyerupai Sang Penebus agung, berlanjut melalui perang (penganiayaan terhadap orang-orang yang menyimpang) dan kelaparan yang disertai ketidakadilan, lalu akhirnya berujung pada kematian dan kehancuran. Karena itu, {{% bible val="meterai berikutnya langsung menggambarkan seruan orang-orang kudus, berapa lama lagi hal ini akan berlangsung" link="rev:6,9-11" lang="ind" %}} (penyingkapan kejahatan Iblis).
+Menjadi jelas bahwa penunggang kuda pertama itu jahat, tetapi berpura-pura baik - berpura-pura seperti Yesus. Hal ini juga masuk akal jika kita memperhatikan konteksnya: {{% bible val="pada pasal sebelumnya Yesus dinyatakan sebagai satu-satunya yang layak membuka gulungan kitab itu" link="rev:5" lang="ind" %}}, dan sekarang, sebagai jawabannya, hakikat sejati Iblis disingkapkan - bergerak dari sebuah janji besar (untuk menang), menuju perang (penganiayaan terhadap orang-orang yang tidak percaya), menuju kelaparan dan ketidakadilan (penunggang kuda ketiga), hingga akhirnya kematian dan kehancuran. Itulah sebabnya meterai berikutnya langsung menggambarkan seruan orang-orang benar: "{{% bible val="Berapa lama lagi hal ini akan berlangsung?" link="rev:6,9-11" lang="ind" %}}" Hakikat jahat keempat penunggang kuda itu kini menjadi jelas.
 
-Sekarang kesejajaran dengan {{% bible val="malapetaka-malapetaka Allah" link="ezk:14,12-23" lang="ind" %}} (binatang buas, pedang, kelaparan, sampar) juga masuk akal. Kita dapat mengaitkannya langsung dengan para penunggang kuda itu:
+Dan sekarang rujukan kepada {{% bible val="malapetaka-malapetaka Allah" link="ezk:14,12-23" lang="ind" %}} - binatang buas, pedang, kelaparan, dan sampar - juga menjadi masuk akal. Kita dapat memetakannya sebagai berikut:
 
-- Penunggang kuda pertama melambangkan binatang-binatang buas, ia memanggil {{% int_link val="kedua binatang itu" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} dari {{% bible val="pasal 13" link="rev:13" lang="ind" %}} dan melambangkan {{% bible val="penipuan" link="2co:11,14" lang="ind" %}} — ia membuat banyak janji.
-- Penunggang kuda kedua melambangkan pedang — ia menyerang dengan kekerasan orang-orang yang tidak percaya kepada janji-janji penunggang kuda pertama.
-- Penunggang kuda ketiga datang dengan kelaparan — ia memberikan tekanan ekonomi kepada orang-orang yang tidak ikut serta, seperti binatang kedua atau sang pelacur dalam {{% bible val="pasal 17" link="rev:17" lang="ind" %}}.
+- Penunggang kuda pertama melambangkan binatang-binatang buas, sebab ia {{% int_link val="memanggil kedua binatang itu" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} dalam {{% bible val="pasal 13" link="rev:13" lang="ind" %}} dan melambangkan {{% bible val="penipuan" link="2co:11,14" lang="ind" %}} - ia membuat banyak janji.
+- Penunggang kuda kedua melambangkan pedang yang diberikan kepadanya - ia menyerang siapa pun yang tidak mempercayai janji-janji itu, sama seperti binatang pertama dalam pasal 13.
+- Penunggang kuda ketiga melambangkan kelaparan, sebab orang-orang miskin akan menderita karenanya. Ini juga bisa dilihat sebagai tekanan ekonomi terhadap orang-orang yang tidak mau tunduk, memiskinkan mereka - peran yang sama yang dimainkan binatang kedua dalam pasal 13, yang juga terhubung dengan pelacur besar dalam {{% bible val="pasal 17" link="rev:17" lang="ind" %}}.
 - Penunggang kuda terakhir merangkum dampak dari trinitas jahat ini.
 
-Sebesar apa pun daya tarik tawaran Iblis itu, dan sekeras apa pun bunyinya seperti Yesus: janganlah menerimanya, sebab pada akhirnya akan berujung pada bencana — setidaknya dalam hubungan dengan Allah.
+Ingatlah ini: seberapa pun menariknya tawaran Iblis kelihatannya, dan seberapa pun ia menyerupai sesuatu dari Yesus, jangan tergoda olehnya - itu akan berakhir dalam bencana. Sebaliknya, jadilah bijaksana, dan Allah akan memberimu hikmat yang kamu butuhkan.

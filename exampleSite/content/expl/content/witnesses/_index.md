@@ -4,6 +4,6 @@ title: "The witnesses (Ch.11)"
 weight: 10
 ---
 
-This is a key chapter of the book. Here two witnesses show up.
+This is a key chapter of the book: two witnesses show up, testify, and are killed for it.
 
-They represent the church as they are identified as lambstands. Their success is not with wonders and miracles (as we would hope), but in their dedication to God and the weakness they allow so that at the end symbolically 90% of the people are saved.
+They represent the church, identified here as lampstands. Their success comes not through wonders and miracles, as we might hope, but through their dedication to God and their willingness to accept weakness and even death. It is that costly testimony, not any display of power, that leads symbolically to 90% of the people being saved in the end.

@@ -8,9 +8,9 @@ next: /expl/content/vision/setting-the-foundation
 docType: expl
 ---
 
-Kitab Wahyu penuh dengan keterangan waktu yang aneh, seperti 1260 hari, 42 bulan, dan sebagainya. Tetapi apa artinya? Haruskah dipahami secara harfiah?
+Kitab Wahyu penuh dengan rentang waktu yang aneh — 1260 hari, 42 bulan, dan seterusnya. Apa artinya semua ini, dan haruskah dipahami secara harfiah?
 
-## Anda Sebaiknya Melihat Terlebih Dahulu
+## Anda Sebaiknya Membaca Terlebih Dahulu
 
 <a name="7ed9"></a>
 - {{% int_link val="Tinjauan Kitab Daniel" link="/expl/bible/daniel/the-book-of-daniel" %}}
@@ -20,60 +20,47 @@ Kitab Wahyu penuh dengan keterangan waktu yang aneh, seperti 1260 hari, 42 bulan
 ## Sedikit Matematika
 
 <a name="472b"></a>
-Dalam pasal 11 hingga 13 Kitab Wahyu, ada empat tempat berbeda di mana waktu dinyatakan dengan tiga rentang waktu yang berbeda.
+Dalam Kitab Wahyu, pasal 11 hingga 13, ada empat tempat yang menyebutkan rentang waktu yang berbeda-beda.
 
-| Rentang Waktu | Rujukan |
-|------------|----------|
+| Waktu | Rujukan |
+|------|-----------|
 | 42 bulan | {{% bible val="pelataran luar bait Allah diserahkan kepada bangsa-bangsa lain" link="rev:11,2" lang="ind" %}} |
-| 1260 hari | {{% bible val="para saksi akan bernubuat" link="rev:11,3" lang="ind" %}} |
+| 1260 hari | {{% bible val="para saksi bernubuat" link="rev:11,3" lang="ind" %}} |
 | 1260 hari | {{% bible val="perempuan itu dipelihara di padang gurun" link="rev:12,6" lang="ind" %}} |
 | 3,5 masa | {{% bible val="perempuan itu dipelihara di padang gurun" link="rev:12,14" lang="ind" %}} |
-| 42 bulan | {{% bible val="binatang pertama itu menghujat Allah" link="rev:13,5" lang="ind" %}} |
+| 42 bulan | {{% bible val="binatang pertama itu menghujat" link="rev:13,5" lang="ind" %}} |
 
-3,5 masa dinyatakan sebagai satu masa, dua masa, dan setengah masa. Jika kita anggap satu bulan terdiri atas 30 hari, maka kita mendapatkan 1260 hari = 42 bulan = 3,5 tahun =? 3,5 masa.
+Jadi sebenarnya ada tiga ungkapan waktu yang berbeda di sini — yang ketiga, "3,5 masa," secara harfiah disebut "satu masa, dua masa, dan setengah masa." Jika kita mengandaikan satu bulan terdiri atas 30 hari, ketiganya menghasilkan panjang yang sama: 1260 hari = 42 bulan = 3,5 tahun = 3,5 masa.
 
-Apakah masa-masa ini berurutan atau menggambarkan aktivitas-aktivitas yang paralel?
+Hal itu memunculkan tiga pertanyaan yang layak diajukan sebelum kita melangkah lebih jauh. Apakah masa-masa ini berurutan satu demi satu, ataukah menggambarkan aktivitas-aktivitas yang paralel dan tumpang tindih? Apakah maknanya bersifat simbolis, ataukah harfiah sebagai durasi yang persis? Dan mengapa teks ini berpindah-pindah satuan — hari, bulan, "masa" — alih-alih menggunakan satu satuan saja?
 
-Apakah maknanya simbolis atau harfiah, artinya benar-benar 1260 hari?
+Untuk menjawab semua itu, pertama-tama kita perlu memahami latar belakangnya dalam Perjanjian Lama.
 
-Dan mengapa masa-masa ini tidak dinyatakan dalam satuan yang sama?
+## Elia dan Kekeringan (1 Raja-raja 16/29–18/35)
 
-Mari kita lihat dahulu latar belakang Perjanjian Lamanya.
+<a name="89d3"></a>
+Raja Ahab dari Israel menikahi Izebel dari Sidon, sebuah kota di utara Israel, dan perempuan itu membawa serta penyembahan kepada Baal dan Asyera — dewa-dewa kesuburan, yang dipercaya menjanjikan banyak anak, hasil panen yang baik, dan tentara yang kuat. Tetapi hampir semua itu bergantung pada satu hal: {{% bible val="hujan yang cukup" link="1ki:17,1" lang="ind" %}}.
 
-## Elia dan Kekeringan ({{% bible val="1Raj. 16/29–18/35" link="1ki:16,29-18,35" lang="ind" %}})
+Maka Allah {{% bible val="mengutus Elia untuk memaklumkan kekeringan" link="1ki:17,1" lang="ind" %}} yang {{% bible val="berlangsung selama 3,5 tahun" link="luk:4,25" lang="ind" %}}, dan selama itu Elia diberi makan oleh burung-burung gagak. Kemudian, ia {{% bible val="pergi kepada seorang janda di Sidon, yang anaknya yang sekarat ia selamatkan, dan perempuan itu pun percaya kepada Allah" link="1ki:17,6-24" lang="ind" %}} — seorang yang percaya dibangkitkan justru di wilayah asal Izebel sendiri.
 
-<a name="2b28"></a>
-Raja Ahab dari Israel menikahi Izebel dari Sidon (di utara Israel). Ia memperkenalkan dewa-dewa kesuburan, Baal dan Asyera, ke Israel (yang dianggap menjamin banyak anak, panen yang baik, dan tentara yang kuat dengan kuda-kuda). Dan kuncinya adalah: {{% bible val="hujan yang cukup" link="1ki:17,1" lang="ind" %}}.
-
-Maka {{% bible val="Allah mengutus Elia untuk memaklumkan kekeringan" link="1ki:17,1" lang="ind" %}}, yang berlangsung selama {{% bible val="3,5 tahun" link="luk:4,25" lang="ind" %}}. Ia sendiri tidak luput dari kekeringan itu, tetapi dipelihara oleh burung-burung gagak di tepi sebuah sungai kecil. Kemudian, ketika sungai itu mengering, ia pergi {{% bible val="kepada seorang janda di Sidon, yang anaknya yang sekarat ia selamatkan, dan perempuan itu percaya kepada Allah" link="1ki:17,6-24" lang="ind" %}}.
-
-Setelah bekerja di kota asal Izebel, terjadilah {{% bible val="pertarungan besar di Gunung Karmel" link="1ki:18,16-46" lang="ind" %}}. {{% bible val="Allah yang sejati adalah Dia yang dapat menurunkan api dari langit" link="1ki:18,24" lang="ind" %}}, sesuatu yang juga {{% bible val="dapat dilakukan oleh binatang kedua dalam Kitab Wahyu" link="rev:13,13" lang="ind" %}}!
-
-Pertanyaan besar di baliknya adalah: siapakah Allah yang sejati?
+Setelah campur tangan itu di wilayah asal Izebel, terjadilah {{% bible val="pertarungan besar di Gunung Karmel tentang siapa sesungguhnya Allah yang benar" link="1ki:18,16-46" lang="ind" %}}. Ujiannya sederhana: Allah yang benar adalah Dia yang dapat membuat {{% bible val="api turun dari langit" link="1ki:18,24" lang="ind" %}} — yang menariknya, {{% bible val="mukjizat yang sama juga dilakukan oleh binatang kedua" link="rev:13,13" lang="ind" %}} dalam Kitab Wahyu. Seluruh episode ini bergantung pada satu pertanyaan itu: siapakah Allah yang benar?
 
 ## Minggu Tahun dalam Daniel
 
 <a name="8ed0"></a>
-Dalam Daniel, {{% int_link val="70 minggu tahun berakhir dalam sebuah minggu yang terdiri atas dua bagian, masing-masing berlangsung tiga setengah tahun" link="/expl/bible/daniel/the-70-year-weeks" %}}. Bagian pertama menggambarkan masa Yesus di bumi, bagian kedua mungkin masa gereja. {{% bible val="Perjanjian Yesus juga digambarkan dalam minggu ini" link="dan:9,27" lang="ind" %}}.
+Daniel memberi kita {{% int_link val="70 minggu, yang terurai menjadi dua setengah-minggu, masing-masing tiga setengah tahun" link="/expl/bible/daniel/the-70-year-weeks" %}}. Setengah-minggu pertama mencakup masa Yesus di bumi, dan yang kedua, mungkin, karya gereja. Perjanjian Yesus sendiri {{% bible val="digambarkan diteguhkan dalam minggu ini" link="dan:9,27" lang="ind" %}}.
 
-Ketiga setengah tahun ini adalah apa yang sedang dibangun Allah di balik layar, dan yang melampaui kerajaan-kerajaan dunia ini.
+Ketiga setengah tahun ini, dengan demikian, adalah masa ketika Allah diam-diam sedang membangun sesuatu yang akan menggulingkan kerajaan-kerajaan dunia ini.
 
 ## Apakah Tiga Setengah Tahun dalam Kitab Wahyu
 
 <a name="1f16"></a>
-Mari kita telusuri pasal-pasalnya, dan mulai dengan pasal 13: {{% int_link val="inilah tipu daya yang dilakukan Iblis" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Kapan ini dimulai? Setelah pasal 12, tepat setelah kematian Yesus di kayu salib, ketika Iblis menyadari bahwa ia tidak dapat menghancurkan Yesus dan Israel, yang dilindungi oleh Allah.
+Mari kita telusuri nas-nasnya, dimulai dengan pasal 13, {{% int_link val="yang menggambarkan tipu daya Iblis" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Kapan ini dimulai? Menurut pasal 12, ini dimulai setelah kematian Yesus di kayu salib, ketika Iblis menyadari bahwa ia tidak dapat menghancurkan Israel karena Allah melindunginya — jadi, pada dasarnya, tepat setelah Yesus mati. Kapan ini berakhir? Tidak sampai harus berakhir: hingga Yesus datang kembali.
 
-Kapan ini berakhir? Tidak pernah, jika menurut kehendak Iblis, jadi hingga Yesus datang kembali.
+Pada saat yang sama, perempuan itu {{% bible val="dilindungi dari serangan Iblis" link="rev:12,6" lang="ind" %}} dan {{% bible val="dipelihara di padang gurun" link="rev:12,14" lang="ind" %}}. Masa ini dimulai pada saat Yesus menang di kayu salib, dan juga baru berakhir setelah Iblis sendiri disingkirkan — sekali lagi, pada kedatangan Yesus kembali.
 
-Pada masa yang sama, {{% bible val="perempuan itu dilindungi dari serangan Iblis" link="rev:12,6" lang="ind" %}} dan {{% bible val="dipelihara di padang gurun" link="rev:12,14" lang="ind" %}}. Kapan ini dimulai? Segera setelah kematian Yesus di kayu salib. Kapan ini berakhir? Selama Iblis masih bekerja, jadi hingga Yesus datang kembali.
+Kemudian ada {{% bible val="bait Allah" link="rev:11,1-2" lang="ind" %}}, yang tidak lagi digunakan untuk korban persembahan, melainkan sebagai tempat penyembahan. Ini pun dimulai dengan kematian Yesus, dan tidak ada petunjuk bahwa ini akan berakhir sebelum Ia kembali.
 
-Kemudian ada {{% bible val="bait Allah" link="rev:11,1-2" lang="ind" %}}. Bait ini tidak melayani pelayanan korban, melainkan penyembahan. Kapan ini dimulai? Dengan kematian Yesus. Kapan ini berakhir? Tidak ada alasan untuk berpikir bahwa ini berakhir sebelum kedatangan kembali Yesus.
+Yang tersisa adalah {{% bible val="1260 hari kedua saksi itu" link="rev:11,3" lang="ind" %}}, yang pasti mencakup seluruh masa antara kedatangan Yesus yang pertama dan yang kedua. Panjangnya masa ini saja menunjukkan bahwa "kedua saksi" itu sebenarnya bukan dua pribadi, melainkan kemungkinan besar adalah gereja.
 
-Kemudian tersisa {{% bible val="1260 hari kedua saksi itu" link="rev:11,3" lang="ind" %}}. Ini adalah seluruh masa antara kedatangan pertama dan kedua Yesus. Jadi {{% int_link val="ini bukan tentang dua orang, melainkan tentang gereja" link="/expl/content/witnesses/the-two-witnesses" %}}.
-
-Lalu mengapa satuan waktunya berbeda-beda (hari, bulan, ...)? Hari digunakan untuk tindakan-tindakan kedua saksi dan pemeliharaan Israel, bulan untuk pemerintahan Iblis dan kehancuran bait bagian luar, dan 3,5 tahun/masa untuk karya Allah yang tersembunyi. Mungkin saja panjang 1260 hari gereja itu dihadapkan dengan angka 42 bulan Iblis yang lebih pendek. Tetapi ini hanyalah sebuah dugaan yang saya sendiri tidak sepenuhnya yakin.
-
-## Apa Artinya Ini?
-
-<a name="051a"></a>
-Pemerintahan Iblis dan pemerintahan gereja berjalan paralel. Meskipun Iblis tampak menguasai dunia, sesungguhnya gerejalah yang menguasai dunia.
+Lalu mengapa teks ini berpindah-pindah satuan — di sini hari, di sana bulan? Hari-hari itu menandai masa pemerintahan kedua saksi dan pemeliharaan atas Israel; bulan-bulan itu menandai masa pemerintahan Iblis dan penginjakan pelataran luar bait Allah; dan tahun, atau "masa," menandai karya Allah yang tersembunyi. Salah satu dugaan adalah bahwa perbedaan ini dimaksudkan untuk menonjolkan 1260 hari gereja yang berlimpah dibandingkan dengan 42 bulan Iblis yang sedikit — meskipun ini memang sekadar dugaan; saya sendiri tidak memiliki jawaban yang pasti. Namun yang jelas ditunjukkan oleh kesejajaran ini adalah: pemerintahan Iblis dan pemerintahan gereja yang diberikan Allah berjalan berdampingan, dan meskipun dunia tampak seolah-olah dikuasai Iblis, gerejalah yang sesungguhnya memegang kendali.

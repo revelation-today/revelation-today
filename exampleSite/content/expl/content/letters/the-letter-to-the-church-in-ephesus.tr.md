@@ -14,46 +14,44 @@ sources:
       ref: fee_rev
 ---
 
-Efes’teki kilise iyi bir kilise örneğidir. Ama görünüş aldatıcıdır. İsa’nın yargısı felakettir.
+Efes'teki kilise, görünüşte örnek bir kilisedir. Ama görünüş aldatıcıdır, ve İsa yine de onlar hakkında yıkıcı bir yargıda bulunur.
 
 ## Tarihsel arka plan
 
 <a name="d798"></a>
-Efes, Roma İmparatorluğu’nun en büyük ve en önemli şehirlerinden biridir. Büyük limanı Küçük Asya’nın girişidir.
+Efes'in büyük limanı Küçük Asya'nın kapısıydı, bu da şehri Roma İmparatorluğu'nun en büyük ve en önemli şehirlerinden biri yapıyordu. Antik dünyanın büyük harikalarından biri olan Artemis Tapınağı, şehri aynı zamanda önemli bir turizm merkezi hâline getiriyordu.
 
-Efes ekonomik bir merkezdir ve Efes vatandaşlığına sahip çok sayıda diaspora Yahudisi (İsrail dışında yaşayan Yahudiler) vardır.
+Bu ekonomik merkez, tam Efes vatandaşlığına sahip büyük bir diaspora Yahudi topluluğuna — İsrail dışında yaşayan Yahudilere — ev sahipliği yapıyordu. Vahiy'de hitap edilen yedi kilise arasında bu, muhtemelen en büyüğüydü.
 
-Artemis tapınağı nedeniyle önemli bir turizm merkeziydi ve muhtemelen yedi kilisenin en büyüğüne sahipti.
-
-## İsa’nın görüşü
+## İsa'nın görüşü
 
 <a name="e582"></a>
-{{% bible val="İsa kiliseye yıldızları tutan ve kandillerin ortasında yürüyen biri olarak yaklaşır" link="rev:2,1" lang="tr" %}} ve {{% bible val="1. bölümün" link="rev:1,20" lang="tr" %}} temel mesajına gönderme yapar: Işık olmak ve O’na bağlı olmak. Eğer kilise bunu ciddiye almazsa çağrısını kaybedecektir!
+İsa burada kendini {{% bible val="yıldızları elinde tutan ve kandilliklerin arasında yürüyen kişi" link="rev:2,1" lang="tr" %}} olarak tanıtır ve {{% bible val="1. bölümde" link="rev:1,20" lang="tr" %}} zaten kurulmuş olan temel imgeyi devam ettirir: imanlıların ışık olması, ve bunu ancak O'na bağımlı olarak yapması amaçlanmıştır. Bu kilisenin bu imgeyi ciddiye alması gerekir, yoksa çağrısını tamamen kaybetme tehlikesiyle karşı karşıya kalır.
 
-Ancak İsa sorunu ele almadan önce bir sürü değerlendirme yapar:
+Ama İsa soruna değinmeden önce, gerçek bir övgü döktürür:
 
-- Yaptıkları işleri, sıkı çalışmalarını ve azimlerini biliyordu. Efes’te {{% bible val="şimdiden kargaşaya neden olan" link="act:19,23-41" lang="tr" %}} Artemis tapınağı ile ilgili zor bir iş yaşıyorlar
-- Diğer kiliselerden bazılarının sorunu olan yanlış öğretiş ya da yanlış elçiler tarafından aldatılmadılar.
-- İsa’nın adıyla zorluklara dayanır
+- İşlerini, sıkı çalışmalarını ve sebatlarını bilir. Tapınağının kültü {{% bible val="şehir çapında bir kargaşaya zaten yol açmış olan" link="act:19,23-41" lang="tr" %}} yakındaki Artemis Tapınağı'nın etkisine karşı koymak için sıkı çalışıyorlardı.
+- Diğer bazı kiliseler için ölümcül olacak bir sorun olan sahte öğretiş ya da sahte elçiler tarafından kandırılmadılar.
+- İsa'nın adı uğruna zorluklara katlanıyorlar.
 
 ## Sorun
 
 <a name="1874"></a>
-Ama yanlış olan bir şey var: İlk aşkı kaybetmek. Bu ne anlama geliyor? İsa’yla ilk karşılaştıklarında hissettikleri ve onun için her şeyi yapabilecekleri romantik duygu mu?
+Yine de bir konuda ciddi biçimde yanılmışlardır: ilk sevgilerini kaybetmişlerdir. Bu gerçekte ne anlama gelir? "İlk sevgi" sadece İsa'yla ilk karşılaşmanın, onun için her şeyi yapabileceğin o romantik heyecanı mı? Hayır — bundan çok daha derindir.
 
-{{% bible val="Matta’da" link="mat:24,12-14" lang="tr" %}} sevginin soğuyacağı ve Müjde’nin tüm uluslara tanık olarak duyurulacağı söylenir. Peki ama sevginin müjdenin tanığı olmakla ne ilgisi var? Çok ilgisi var.
+{{% bible val="Matta 24:12" link="mat:24,12-14" lang="tr" %}} iki şeyi yan yana koyar: müjde bütün uluslara bir tanıklık olarak duyurulurken, birçoklarının sevgisi soğuyacaktır. Peki "tanıklık" burada gerçekte ne anlama gelir? Bir tanık, hayatı değiştirici bir şeye bizzat tanık olduğu için hayatı değişmiş olan kişidir — sadece bir haberi tekrarlayan biri değil, tüm hayatı mesajın kendisi hâline gelmiş biri.
 
-- İsa’yı seviyorsak, onun mesajını paylaşacak, kardeşlerimizi ve dış dünyayı seveceğiz
-- Eğer kardeşlerimizi seversek, İsa’yı onlarda gördüğümüz gibi severiz ve müjdeyi tüm dünyayla paylaşmak için vaaz ederiz
-- Eğer dünyayı seviyorsak, İsa ve kilise onlara sunabileceğimiz en iyi şeydir
+Peki sevginin müjdeye tanıklık etmekle ne ilgisi var? Görünenden çok daha fazla:
 
-Dolayısıyla müjdeyi paylaşmak bir sevgi eylemidir ve bunlardan birinde soğumak diğerini de azaltacaktır.
+- İsa'yı seversek, kardeşlerimizi de severiz ve O'nun mesajını ve sevgisini dış dünyayla paylaşırız.
+- Kardeşlerimizi seversek, İsa'yı onlarda gördüğümüz gibi severiz ve müjdeyi tüm dünyaya taşırız.
+- Dünyayı seversek, İsa ve Kilise ona sunabileceğimiz en iyi şeydir.
 
-Efes köklü bir kilise olabilir, ruhsal zorluklarla başa çıkma yöntemleri vardır, ama muhtemelen bunu neden yaptıklarını unutmuşlardır ve her şeyi düzeltmek için kendilerine çok fazla odaklanmışlardır.
+Müjdeyi paylaşmak, öyleyse, kendisi bir sevgi eylemidir — ve ister sevgi ister tanıklık soğusun, diğeri de onunla birlikte azalır.
+
+Efes, ruhsal zorluklarla başa çıkmak için gerçek stratejiler geliştirmiş olduğundan, köklü, olgun bir kilise gibi görünebilir. Ama muhtemelen bütün bunları neden yaptığını unutmuştur ve sonunda işleri düzeltmek yerine kendine odaklanmış bir hâle gelmiştir.
 
 ## Çözüm
 
 <a name="4d61"></a>
-Yaşam ağacından yeme vaadi onları bahçede Tanrı’yla olan sorunsuz ilişkilerine geri götürür. Eğer devam etmek ve Tanrı’nın kullanmadığı bir kilise olmamak istiyorlarsa, buradan başlamaları gerekir.
-
-{{% bible val="Ve Yeni Yeruşalim’de bir vaatleri vardır" link="rev:22,1-5" lang="tr" %}}.
+Efes'in Tanrı'nın gerçekten kullanabileceği bir kiliseye dönüşmek istiyorsa, kaybettiği o yakın ilişkiyi Tanrı'yla yeniden inşa etmesi gerekir — Aden Bahçesi'nde yaşam ağacından yemekle resmedilen o ilişkiyi. Onları bu yönde teşvik etmek için kendilerine {{% bible val="Yeni Yeruşalim'e dair bir vaat" link="rev:22,1-5" lang="tr" %}} verilir.

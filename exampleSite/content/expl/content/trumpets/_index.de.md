@@ -4,8 +4,8 @@ title: "Die Posaunen (Kap.8-9)"
 weight: 8
 ---
 
-Die Posaunen folgen direkt auf die Beschreibung der Siegel (das letzte Siegel wird gerade geöffnet).
+Die Posaunen setzen genau dort an, wo die Siegel aufhören — das letzte Siegel ist gerade erst geöffnet worden.
 
-Das Gebet der Heiligen findet vorher statt und bewirkt, dass die Trompeten geblasen werden. Es ist unser Gebet und hat diese massive Wirkung.
+Sie beginnen mit einem Gebetstreffen: Die Gebete der Heiligen, die vor Gott gebracht werden, sind es, die die Posaunen zum Klingen bringen. Unser Gebet trägt ein solches Gewicht.
 
-Die Posaunen werden alle Sicherheiten wegnehmen (Nahrung, Handel, Orientierung, Gesundheit, Hoffnung, Leben), aber die Menschen entscheiden sich, an den Dämonen festzuhalten, die sie quälen (die 5. und 6. Posaune werden von Dämonen verursacht). 
+Eine nach der anderen nimmt die Posaunen den Menschen jede Sicherheit, auf die sie sich verlassen — Nahrung, Handel, Orientierung, Gesundheit, Hoffnung, das Leben selbst. Doch selbst dann, bei der fünften und sechsten Posaune, entscheiden sich die Menschen, an genau den Dämonen festzuhalten, die sie quälen, statt sich Gott zuzuwenden.

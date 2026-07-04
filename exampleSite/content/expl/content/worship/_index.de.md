@@ -4,8 +4,8 @@ title: "Anbetung (Kap.4-5)"
 weight: 3
 ---
 
-Die Anbetung ist ein zentrales Thema in der Offenbarung. Es ist der Ort, an dem alle Serien (Siegel, Posaunen und Schalen) beginnen.
+Die Anbetung ist ein Schlüsselthema der Offenbarung und bildet den Auftakt zur ganzen Abfolge von Siegeln, Posaunen und Schalen, die darauf folgt.
 
-Es ist das Zentrum des Buches und zeigt den Charakter der "Plagen". Sie geschehen mit Barmherzigkeit und Leidenschaft, aber das wird sich beim weiteren Studium des Buches zeigen.
+Sie ist ein zentrales Thema des Buches: Weil alle Plagen von diesem Ort der Anbetung ausgehen, prägt dieser Ursprung ihren Charakter. Sie werden mit Barmherzigkeit und Mitgefühl ausgeteilt, wie wir im weiteren Verlauf des Buches genauer sehen werden.
 
-Der Gottesdienst ist auch der Ort, an dem die kämpfenden Kirchen Antwort und Kraft finden, um ihre Kämpfe zu bestehen.
+Die Anbetung ist zugleich der Ort, an dem die kämpfenden Gemeinden die Antwort und die Kraft finden, ihren Kämpfen zu begegnen.

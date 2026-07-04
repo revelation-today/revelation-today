@@ -4,8 +4,6 @@ title: Israel
 weight: 5
 ---
 
-What is Israel and who belongs to Israel?
+What is Israel, and who actually belongs to it? The answer turns out to be more interesting — and less obvious — than you might expect, even within the Old Testament itself.
 
-This is a very interesting topic and even in the Old Testament not as you might think.
-
-We will take some time to discover this from the oriental understanding of family and covenant up to the time of Jesus.
+To get there, we'll work our way up from the ground: starting with how family and covenant worked in the ancient Near East, and following that thread all the way to the time of Jesus.

@@ -4,8 +4,6 @@ title: "Eksodus dari Mesir"
 weight: 2
 ---
 
-Bahwa eksodus dari Mesir menjadi sebuah tema dalam Kitab Wahyu mungkin terasa mengejutkan. Tetapi jika kita perhatikan lagi, kita akan melihat banyak kesejajaran dengan ketujuh sangkakala atau ketujuh cawan.
+Bahwa eksodus muncul sebagai sebuah tema dalam Kitab Wahyu mungkin terasa mengejutkan pada pandangan pertama. Tetapi jika kita perhatikan lagi, kita akan menemukan sejumlah kesejajaran yang mencolok dengan ketujuh sangkakala dan ketujuh cawan.
 
-Di sisi lain, orang mungkin bertanya-tanya, apa lagi yang perlu ditemukan, bukankah ini kisah-kisah yang sudah dikenal?
-
-Nah, mari kita selidiki dan biarkan diri kita terkejut.
+Anda mungkin berkeberatan bahwa ini hanyalah kisah-kisah yang sudah dikenal luas, tanpa ada lagi yang baru untuk ditemukan. Mari kita amati lebih dekat dan lihat sendiri.

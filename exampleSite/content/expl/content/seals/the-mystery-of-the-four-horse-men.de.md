@@ -17,7 +17,7 @@ sources:
       ref: beale_rev
 ---
 
-In der Offenbarung sehen wir vier apokalyptische Reiter, die Krieg, Hunger und Tod über die ganze Erde bringen. Der erste Reiter passt jedoch nicht ins Bild und wird kontrovers diskutiert.
+In der Offenbarung sehen wir vier apokalyptische Reiter, die Krieg, Hunger und Tod über die ganze Erde bringen. Doch der erste Reiter fügt sich nicht sauber in dieses Schema ein und bereitet einige Kopfschmerzen: Er ist ein wirklich umstrittenes Thema.
 
 ## Gut, davor zu lesen
 
@@ -28,82 +28,78 @@ In der Offenbarung sehen wir vier apokalyptische Reiter, die Krieg, Hunger und T
 ## Der Text
 
 <a name="19b5"></a>
-Hier ist zunächst einmal der {{% bible val="Text" link="rev:6,1-8" lang="de" %}}.
+Sehen wir uns zunächst den Bibeltext an:
+
+„Und ich sah, dass das Lamm der Siegel eines auftat, und ich hörte eines von den vier lebendigen Wesen sagen mit einer Stimme wie Donner: Komm! 2 Und ich sah, und siehe, ein weißes Pferd, und der darauf saß, hatte einen Bogen; und ihm wurde eine Krone gegeben, und er zog aus als ein Sieger und um zu siegen. 3 Und als es das zweite Siegel auftat, hörte ich das zweite lebendige Wesen sagen: Komm! 4 Und es zog aus ein anderes Pferd, ein feuerrotes; und dem, der darauf saß, wurde Macht gegeben, den Frieden von der Erde zu nehmen, damit die Menschen einander töteten; und ihm wurde ein großes Schwert gegeben. 5 Und als es das dritte Siegel auftat, hörte ich das dritte lebendige Wesen sagen: Komm! Und ich sah, und siehe, ein schwarzes Pferd, und der darauf saß, hatte eine Waage in seiner Hand. 6 Und ich hörte eine Stimme inmitten der vier lebendigen Wesen sagen: Ein Maß Weizen für einen Denar und drei Maß Gerste für einen Denar; und das Öl und den Wein beschädige nicht! 7 Und als es das vierte Siegel auftat, hörte ich die Stimme des vierten lebendigen Wesens sagen: Komm! 8 Und ich sah, und siehe, ein fahles Pferd, und der darauf saß, dessen Name war der Tod, und das Totenreich folgte ihm nach; und ihnen wurde Macht gegeben über den vierten Teil der Erde, zu töten mit Schwert und Hunger und Tod und durch die wilden Tiere der Erde.“ {{% bible val="Offb.6/1–8" link="rev:6,1-8" lang="de" %}}
 
 ## Interpretationen
 
 <a name="e536"></a>
-Es gibt zwei wesentliche Interpretationen der Reiter, wobei der erste Reiter der entscheidende ist:
+Es gibt zwei wesentliche Interpretationen, und beide haben ihre Berechtigung:
 
-- Der erste Reiter ist gut und steht für {{% bible val="die Verbreitung des Evangeliums in der ganzen Welt" link="mrk:13,10" lang="de" %}}.
-- Der erste Reiter ist böse, wie auch die anderen Reiter.
+- Der erste Reiter verkörpert einen guten Charakter — er steht zum Beispiel für {{% bible val="die Verkündigung des Evangeliums in der ganzen Welt" link="mrk:13,10" lang="de" %}}.
+- Der erste Reiter verkörpert einen bösen Charakter, wie auch die anderen Reiter.
 
 ## Erste Beobachtungen
 
 <a name="2795"></a>
-Wenn wir uns den gesamten Text anschauen, gibt es starke Parallelen.
+Bei genauerem Hinsehen fallen drei starke Parallelen auf.
 
-- Der erste Text ist von {{% bible val="Sacharja, der vier Pferde in verschiedenen Farben beschreibt, die die Erde durchziehen" link="zec:1,8-15" lang="de" %}}.
-- {{% bible val="Einige Kapitel später sind es vier Streitwagen mit verschiedenfarbigen Pferden, die die Erde durchstreifen" link="zec:6,1-8" lang="de" %}}.
-- Die Beschreibung der {{% bible val="vier Plagen Gottes" link="ezk:14,12-23" lang="de" %}} (Schwert, Hungersnot, wilde Tiere und Pest) weist sehr starke Parallelen zu den vier Reitern auf.
+Zunächst beschreibt ein Text beim Propheten Sacharja {{% bible val="vier Pferde in verschiedenen Farben, die die Erde erkunden" link="zec:1,8-15" lang="de" %}}. Ein paar Kapitel später {{% bible val="spiegeln vier Streitwagen in verschiedenen Farben die Winde der Erde wider" link="zec:6,1-8" lang="de" %}}. Und die Beschreibung der {{% bible val="vier Plagen Gottes" link="ezk:14,12-23" lang="de" %}} — Schwert, Hungersnot, wilde Tiere und Pest — ähnelt stark dem Wirken dieser vier Pferde.
 
-Wenn wir die Reiter betrachten, sehen wir einige Gemeinsamkeiten, aber auch einige Unterschiede.
+Betrachtet man die Reiter selbst, zeigen sich sowohl Gemeinsamkeiten als auch Unterschiede zwischen ihnen. Alle vier werden zum Handeln aufgerufen; keiner von ihnen handelt aus eigenem Antrieb. Jedem Reiter wird etwas gegeben, mit dem er handelt. Doch nur dem ersten Reiter wird ausdrücklich gesagt, was er tun soll — auszuziehen und zu siegen —, während für die anderen keine solche Anweisung gegeben wird, wie sie ihre Aufgabe ausführen sollen. Die Tätigkeit des ersten Reiters bleibt unbestimmt ("siegen"), während sie bei den anderen klar benannt wird: Krieg, Hunger und Tod bringen.
 
-- Alle vier werden aufgefordert, etwas zu tun, sie handeln nicht aus eigenem Antrieb.
-- Jeder Reiter bekommt etwas zu tun.
-- Nur der erste Reiter bekommt eine Aufgabe (“um zu überwinden”), die anderen bekommen keine Handlungsanweisung.
-- Die Tätigkeit des ersten Reiters ist sehr unspezifisch (zu überwinden), während die Tätigkeit der anderen ziemlich klar ist (Krieg, Hunger und Tod bringen).
-- Der dritte Reiter hat kein “und es wurde ihm gegeben”, was eine göttliche Aktivität oder Autorisierung darstellt, aber er hat ein Werkzeug in der Hand. Stattdessen wird das Ergebnis seiner Handlung durch eine Aussage vom Thron in der Mitte der vier Wesen gemacht.
+Der dritte Reiter ist noch einmal anders: Bei ihm fehlt die Formulierung "und es wurde ihm gegeben". Stattdessen hält er das Werkzeug einfach in seinen Händen, was für sich genommen bereits für ein göttliches Wirken oder eine göttliche Autorisierung steht, und die Aussage ergeht vom Thron her, aus der Mitte der vier lebendigen Wesen, statt ihm direkt übergeben zu werden.
 
 ## Das Geheimnis des dritten Reiters
 
 <a name="3bc5"></a>
-“{{% bible val="Und als es das dritte Siegel öffnete, hörte ich das dritte lebendige Wesen sagen: Komm und sieh! Und ich sah, und siehe, ein schwarzes Pferd, und der darauf saß, hatte eine Waage in seiner Hand. 6 Und ich hörte eine Stimme inmitten der vier lebendigen Wesen, die sprach: Ein Maß Weizen für einen Denar, und drei Maß Gerste für einen Denar; doch das Öl und den Wein schädige nicht!" link="rev:6,5-6" lang="de" %}}’”
+„Und als es das dritte Siegel auftat, hörte ich das dritte lebendige Wesen sagen: Komm! Und ich sah, und siehe, ein schwarzes Pferd, und der darauf saß, hatte eine Waage in seiner Hand. Und ich hörte eine Stimme inmitten der vier lebendigen Wesen sagen: Ein Maß Weizen für einen Denar und drei Maß Gerste für einen Denar; und das Öl und den Wein beschädige nicht!“
 
-Um diesen Abschnitt zu verstehen, ist ein wenig Hintergrundwissen erforderlich:
+Um das zu verstehen, braucht es ein wenig Hintergrundwissen.
 
-- Lebensmittel wurden oft rationiert (z.B. in der Bibel bei der Beschreibung {{% bible val="einer kommenden Hungersnot" link="lev:26,26" lang="de" %}}, in {{% bible val="einer aktuellen Hungersnot" link="2ki:7,1" lang="de" %}} oder in der {{% bible val="prophetischen Vision einer Hungersnot" link="ezk:4,10-16" lang="de" %}}).
-- Zum Vergleich: Ein Maß Weizen reicht für eine Person für einen Tag, drei Maß Gerste für eine Familie für drei Tage, wobei Gerste eigentlich Viehfutter ist. Diese Beschreibung deutet darauf hin, dass die Preise um das 8- bis 16-fache überhöht sind.
-- Wein und Öl sind im Kontext der Apokalypse Luxusgüter. Es gibt hier keinen Hinweis auf Ölung oder Abendmahl.
+Lebensmittel wurden häufig rationiert — sei es wegen einer bevorstehenden Hungersnot, einer bereits laufenden Hungersnot oder einer prophetischen Warnung davor. Zum Vergleich: Ein Maß Weizen reichte, um eine Person für einen Tag zu ernähren, und drei Maß Gerste (die als Tierfutter diente) reichten, um eine Familie drei Tage zu versorgen. Daran lässt sich ablesen, dass die Preise auf das 8- bis 16-fache des Normalpreises gestiegen sind.
 
-Diese Stelle beschreibt keine Hungersnot im Allgemeinen, sondern eine ungerechte Behandlung der Armen. Während die Luxusgüter verschont bleiben (Verteuerung und Verknappung), steigen die Preise für Grundnahrungsmittel ins Unbezahlbare. Deshalb ist der Ruf der vier Geschöpfe als Ruf nach Gerechtigkeit zu verstehen.
+Im Zusammenhang der Offenbarung fungieren Wein und Öl hier als Luxusgüter — sie stehen in diesem Buch in keinerlei Beziehung zur Salbung oder zum Abendmahl.
+
+Diese Stelle beschreibt also keine allgemeine Hungersnot, sondern eine ungerechte Bedrohung, die gezielt die Armen trifft: Während die Luxusgüter vor jedem Schaden bewahrt bleiben (und sogar im Preis steigen), sind die Kosten für Grundnahrungsmittel auf ein unerträgliches Niveau geklettert. Deshalb ist die Stimme inmitten der vier Wesen kein Befehl Gottes, sondern ein Schrei nach Gerechtigkeit.
 
 ## Das Geheimnis des ersten Reiters
 
 <a name="bdcd"></a>
-“{{% bible val="Und ich sah, wie das Lamm eines von den Siegeln öffnete, und ich hörte eines von den vier lebendigen Wesen wie mit Donnerstimme sagen: Komm und sieh! 2 Und ich sah, und siehe, ein weißes Pferd, und der darauf saß, hatte einen Bogen; und es wurde ihm eine Krone gegeben, und er zog aus als ein Sieger und um zu siegen." link="rev:6,1-2" lang="de" %}}”
+„Und ich sah, dass das Lamm der Siegel eines auftat, und ich hörte eines von den vier lebendigen Wesen sagen mit einer Stimme wie Donner: Komm! Und ich sah, und siehe, ein weißes Pferd, und der darauf saß, hatte einen Bogen; und ihm wurde eine Krone gegeben, und er zog aus als ein Sieger und um zu siegen.“
 
-Es gibt einige gute Argumente, warum der erste Reiter gut ist:
+Es gibt einige nachvollziehbare Argumente dafür, diesen Reiter als gut zu deuten:
 
-- In den {{% bible val="Psalmen gibt es eine Beschreibung eines israelitischen Königs, der seine Feinde mit einem Bogen beisegt" link="psa:45,5-6" lang="de" %}}, was{{% bible val=" im Neuen Testament auf Jesus gedeutet wird" link="heb:1,8" lang="de" %}}.
-- Es gibt klare Hinweise auf den {{% bible val="Menschensohn auf einer weißen Wolke mit einer Sichel" link="rev:14,14" lang="de" %}} oder den {{% bible val="siegreichen Reiter auf einem weißen Pferd mit einer Krone auf seinem Haupt" link="rev:19,11" lang="de" %}}, die beide auf Jesus oder einen Engel, der ihn repräsentierent, hinweisen.
-- Der Begriff Überwinder kann sich auf Jesus beziehen, da er auch in anderen Teilen des Buches ein Überwinder ist.
-- Er ist der weiße Reiter und weiß ist in anderen Teilen des Buches positiv.
-- Er macht nichts Schlechtes (überwindet), wie die anderen etwas Schlechtes bewirken, also {{% bible val="könnte es die Verkündigung des Evangeliums sein, bevor all die schlimmen Dinge geschehen" link="mrk:13,10" lang="de" %}}.
+- In den {{% bible val="Psalmen findet sich die Beschreibung eines israelitischen Königs, der seine Feinde mit einem Bogen besiegt" link="psa:45,5-6" lang="de" %}}, was {{% bible val="als messianischer Hinweis auf Jesus gedeutet wird" link="heb:1,8" lang="de" %}}.
+- Es gibt klare Bezüge zu dem, {{% bible val="der wie der Menschensohn auf einer weißen Wolke sitzt, mit einer scharfen Sichel, um die Erde zu ernten" link="rev:14,14" lang="de" %}}, und zu dem {{% bible val="siegreichen Reiter auf einem weißen Pferd mit einer Krone auf seinem Haupt" link="rev:19,11" lang="de" %}}. Beide verweisen auf Jesus oder zumindest auf einen Engel Gottes.
+- Der Begriff "siegen" könnte sich auf Jesus beziehen, da er auch an anderen Stellen des Buches der Überwinder ist.
+- Er reitet ein weißes Pferd, und Weiß ist andernorts im Buch ein positives Symbol.
+- Er selbst tut nichts Negatives — er siegt einfach, so wie es auch die Heiligen tun —, während es die anderen sind, die etwas Zerstörerisches bringen, sodass sich dies auch auf {{% bible val="die Verkündigung des Evangeliums vor all den schlimmen Ereignissen beziehen könnte" link="mrk:13,10" lang="de" %}}.
 
-Auf der anderen Seite gibt es Parallelen, die genau das Gegenteil behaupten:
+Auf der anderen Seite gibt es Hinweise, die genau in die entgegengesetzte Richtung weisen:
 
-- Gott wird den {{% bible val="Bogen aus der Hand von Gog und Magog schlagen" link="ezk:39,3" lang="de" %}}, wobei der Bogen hier die Waffe des Endzeitgegners ist
-- Jesus ist nicht der einzige, der eine Krone hat, sondern {{% bible val="auch die dämonische Mächte, die aus der Erde kommen" link="rev:9,7" lang="de" %}}.
-- Überwinden wird an {{% bible val="anderer Stelle auch für das Tier verwendet" link="rev:13,7" lang="de" %}}, {{% bible val="wenn es die Heiligen überwindet" link="rev:11,7" lang="de" %}}.
-- Da die Referenz der vier Pferde und Wagen in Sacharja eine Einheit bilden, müssen auch diese vier eine Einheit bilden und alle oder keiner von ihnen zu Gott gehören.
-- Nicht nur die ersten vier Reiter, sondern auch die ersten vier Posaunen und die ersten vier Schalen bilden eine Einheit. Auch deshalb sind die ersten vier Reiter eine Einheit.
+- Gott wird {{% bible val="Gog und Magog den Bogen aus der Hand schlagen" link="ezk:39,3" lang="de" %}}, wodurch der Bogen als Waffe des Endzeitgegners gekennzeichnet wird.
+- Jesus ist nicht der Einzige mit einer Krone: {{% bible val="auch die dämonischen Mächte, die aus der Erde kommen, tragen Kronen" link="rev:9,7" lang="de" %}}.
+- Das Motiv des Siegens wird an anderer Stelle verwendet, um {{% bible val="das Tier" link="rev:13,7" lang="de" %}} zu beschreiben, {{% bible val="das die Heiligen besiegt" link="rev:11,7" lang="de" %}}.
+- So wie die vier Pferde und Streitwagen bei Sacharja eine Einheit bilden, müssen auch die vier Pferde der Offenbarung eine Einheit bilden — entweder gehören sie alle zu Gott, oder keiner von ihnen.
+- Und nicht nur die vier Reiter bilden eine Einheit: Auch die ersten vier Posaunen und die ersten vier Schalen tun das. Also sollten auch die ersten vier Reiter als Einheit gelesen werden.
 
-Das ist verwirrend. Warum wird in den Referenzen sowohl auf eine gute als auch auf eine schlechte Bedeutung verwiesen? Wir müssen uns die Verweise noch einmal ansehen:
+Das ist verwirrend — warum gibt es Hinweise, die sowohl auf eine gute als auch auf eine böse Bedeutung hindeuten? Betrachten wir die beiden letzten Belege genauer:
 
-- Die erste Verwendung eines Bogens findet sich in der {{% bible val="Geschichte Jakobs, der sich durch Täuschung den Segen seines Vater erschleicht" link="gen:27" lang="de" %}}.
-- Die drei Endzeitreden Jesu bei {{% bible val="Markus" link="mrk:13,5-9" lang="de" %}}, {{% bible val="Matthäus" link="mat:24,4-8" lang="de" %}} und {{% bible val="Lukas" link="luk:21,8-11" lang="de" %}} haben eine ähnliche Reihenfolge wie in der Offenbarung: An zweiter Stelle kommt immer der Krieg, dann der Hunger und bei Lukas auch die Pest. Aber in allen beginnt es mit “Seht zu, dass ihr euch nicht verführen lasst, denn viele werden in meinem Namen kommen”.
+- Die erste Erwähnung eines Bogens in der Bibel stammt aus der {{% bible val="Geschichte von Jakob und seiner Täuschung seines Vaters, um den Segen zu erhalten" link="gen:27" lang="de" %}}.
+- Die drei Endzeitreden Jesu, bei {{% bible val="Markus" link="mrk:13,5-9" lang="de" %}}, {{% bible val="Matthäus" link="mat:24,4-8" lang="de" %}} und {{% bible val="Lukas" link="luk:21,8-11" lang="de" %}}, folgen derselben Reihenfolge wie in der Offenbarung: Alle drei beginnen mit einer Warnung wie "Seht zu, dass ihr nicht verführt werdet, denn viele werden in meinem Namen kommen." An zweiter Stelle kommt immer der Krieg, dann der Hunger, und bei Lukas folgt zusätzlich noch "die Pest".
 
 ## Die Auflösung
 
 <a name="8d71"></a>
-Der erste Reiter ist also böse, gibt aber vor, gut zu sein wie Jesus. Das ergibt auch Sinn, wenn man den Kontext betrachtet. Im {{% bible val="vorhergehenden Kapitel wird Jesus als derjenige offenbart, der würdig ist, das Buch zu öffnen" link="rev:5" lang="de" %}}, und nun wird Satan in seiner wahren Natur offenbart, die mit dem großem Erlöser beginnt, über Krieg (Verfolgung von Abweichlern), Hunger mit Ungerechtigkeit und schließlich in Tod und Zerstörung endet. Deshalb wird im {{% bible val="nächste Siegel direkt im Anschluß der Ruf der Heiligen beschrieben, wie lange das noch dauern soll" link="rev:6,9-11" lang="de" %}} (die Entlarvung der Bosheit Satans).
+Es wird deutlich: Der erste Reiter ist böse, gibt aber vor, gut zu sein — so wie Jesus. Das ergibt auch im Kontext Sinn: {{% bible val="Im vorherigen Kapitel wurde Jesus als der Einzige offenbart, der würdig ist, die Schriftrolle zu öffnen" link="rev:5" lang="de" %}}, und nun wird als Antwort darauf die wahre Natur des Teufels enthüllt — vom großen Versprechen (zu siegen) über Krieg (Verfolgung der Nichtgläubigen) und Hunger mit Ungerechtigkeit (der dritte Reiter) bis hin schließlich zu Tod und Zerstörung. Deshalb beschreibt das unmittelbar folgende Siegel den Schrei der Gerechten: "{{% bible val="Wie lange noch?" link="rev:6,9-11" lang="de" %}}" Die böse Natur aller vier Reiter ist nun offenkundig.
 
-Jetzt macht auch die Parallele auf {{% bible val="Gottes Plagen" link="ezk:14,12-23" lang="de" %}} Sinn (wilde Tiere, Schwert, Hunger, Pest). Wir können sie direkt den Pferden zuordnen
+Und jetzt ergibt auch der Bezug zu {{% bible val="Gottes Plagen" link="ezk:14,12-23" lang="de" %}} Sinn — wilde Tiere, Schwert, Hunger und Pest. Wir können sie so zuordnen:
 
-- Der erste Reiter steht für die wilden Tiere, er ruft die {{% int_link val="beiden Tiere" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} aus {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} und steht für die {{% bible val="Täuschung " link="2co:11,14" lang="de" %}}— er macht viele Versprechungen.
-- Der zweite Reiter steht für das Schwert — er greift die Menschen mit Gewalt an, die den Versprechungen des ersten Reiters nicht glauben.
-- Der dritte Reiter kommt mit dem Hunger — er übt wirtschaftlichen Druck auf die Menschen aus, die nicht mitziehen wie das zweite Tier oder die Hure in {{% bible val="Kapitel 17" link="rev:17" lang="de" %}}.
-- Der letzte Reiter fasst die Wirkung der Trinität zusammen.
+- Der erste Reiter steht für die wilden Tiere, denn er {{% int_link val="ruft die beiden Tiere" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} in {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} und verkörpert die {{% bible val="Täuschung" link="2co:11,14" lang="de" %}} — er macht viele Versprechungen.
+- Der zweite Reiter steht für das ihm gegebene Schwert — er greift jeden an, der sich nicht auf diese Versprechungen einlässt, genau wie das erste Tier in Kapitel 13.
+- Der dritte Reiter steht für den Hunger, denn die Armen leiden unter ihm. Das lässt sich auch als wirtschaftlicher Druck auf Andersdenkende verstehen, der sie verarmen lässt — dieselbe Rolle, die das zweite Tier in Kapitel 13 spielt, das seinerseits mit der Hure in {{% bible val="Kapitel 17" link="rev:17" lang="de" %}} verbunden ist.
+- Der letzte Reiter fasst die Wirkung dieser bösen Dreiheit zusammen.
 
-So verlockend das Angebot Satans auch sein mag, so sehr es auch nach Jesus klingt: Geh nicht darauf ein, sonst endet es in einer Katastrophe — zumindest in der Beziehung zu Gott.
+Eines sollte man sich merken: Wie verlockend das Angebot des Teufels auch aussehen mag und wie sehr es auch an Jesus erinnern mag — man sollte nicht darauf eingehen, es endet in einer Katastrophe. Stattdessen sollte man klug sein, und Gott wird die dazu nötige Weisheit schenken.

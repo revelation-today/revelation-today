@@ -9,7 +9,7 @@ docType: expl
 appl: /appl/content/beasts
 ---
 
-Satan und seine Helfer nehmen nicht nur in der Offenbarung, sondern auch in diesem Artikel einen großen Raum ein. Warum eigentlich? Sollten wir uns nicht mehr mit Gott beschäftigen? Nun, es gibt einen Grund: Wenn wir den Charakter Satans verstehen, haben wir auch ein besseres Verständnis von Gott.
+Der Teufel und all seine Helfer nehmen in der Offenbarung ziemlich viel Raum ein, und auch diese Artikelreihe hat ihm schon einige Artikel gewidmet. Warum eigentlich? Sollte die Mühe nicht besser in die Beschreibung Gottes fließen? Es gibt einen guten Grund dafür.
 
 ## Gut vorher zu lesen
 
@@ -18,51 +18,51 @@ Satan und seine Helfer nehmen nicht nur in der Offenbarung, sondern auch in dies
 - {{% int_link val="Der Charakter der Tiere" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}
 - {{% int_link val="Der Charakter der Hure" link="/expl/content/harlot/the-character-and-destiny-of-the-harlot" %}}
 
-## Der Charakter Satans
+## Der Charakter des Teufels
 
 <a name="f243"></a>
-Satan wird einerseits als aggressiv beschrieben, was für die Gläubigen schwierig ist, aber es ist klar, wie man damit umgehen kann. Aber er arbeitet auch mit Täuschung, und das ist noch gefährlicher, weil man nach dem ganzen Kampf müde wird und einen einfachen Ausweg sieht. Aber das Ergebnis ist Abhängigkeit und Loyalität gegenüber Satan. Deshalb beschreibt das Buch Gott und Satan, damit der Unterschied und die vermeintlichen Gemeinsamkeiten deutlicher werden.
+Der Teufel wird als aggressiv beschrieben, was für Gläubige schwer auszuhalten ist — aber immerhin weiß man dann, womit man es zu tun hat. Er ist aber auch ein Verführer, und das ist noch gefährlicher: Man kann des Kampfes müde werden und meinen, es gäbe einen einfachen Ausweg — und landet am Ende in der Gefolgschaft des Teufels, ohne es je ganz zu merken. Deshalb stellt das Buch Gott und Satan nebeneinander, damit man sowohl die Unterschiede als auch die trügerischen Ähnlichkeiten erkennt.
 
-## Die Beschreibung Satans
+## Die Beschreibung des Teufels
 
 <a name="7b88"></a>
-Satan erscheint immer in einer Dreieinigkeit, um den dreieinigen Gott zu imitieren.
+Der Teufel tritt immer in Gestalt einer Dreifaltigkeit auf, denn auch Gott selbst ist dreieinig.
 
-Das erste Mal geschieht dies nach der {{% bible val="Krönung Jesu" link="rev:5" lang="de" %}} (würdig, um das Buch zu öffnen) als die {{% bible val="vier apokalyptischen Reiter" link="rev:6,1-8" lang="de" %}} (der vierte ist die Zusammenfassung der ersten drei). Satans Aktionen werden sehr kurz beschrieben (8 Verse) und stehen im deutlichen Kontrast zur ewig währenden Anbetung Gottes.
+Das erste Mal geschieht das gleich nach der {{% bible val="Inthronisation Christi" link="rev:5" lang="de" %}}, als er allein für würdig befunden wird, die Schriftrolle zu öffnen — und der Teufel tritt {{% bible val="als vier apokalyptische Reiter" link="rev:6,1-8" lang="de" %}} auf, wobei der vierte die anderen drei zusammenfasst. Sein Auftreten wird hier in gerade einmal acht Versen beschrieben, ein scharfer Kontrast zu den zwei vollen Kapiteln ewiger Anbetung Gottes, die vorausgehen.
 
-Die vier Reiter treten als großer Sieger auf, aber nach nur 7 Versen hinterlassen sie völlige Zerstörung: Satan kann seine Versprechen nicht erfüllen.
+Der erste Reiter erscheint als der große Sieger, aber nur sieben Verse später hinterlässt er eine Szene völliger Zerstörung: Der Teufel kann seine Versprechen nicht einlösen.
 
-Das zweite Mal erscheint es wieder im {{% bible val="Kontrast zum Sieg Jesu" link="rev:6,1-8" lang="de" %}}. Satan wird als totaler Verlierer dargestellt:
+Das zweite Mal tritt er auf, als {{% bible val="Jesus erneut als Sieger erklärt wird" link="rev:12" lang="de" %}}, geboren von der Frau. Hier wird Satan als der endgültige Verlierer dargestellt:
 
-- {{% bible val="Er versucht das Kind zu töten — und versagt" link="rev:12,1-6" lang="de" %}}.
+- {{% bible val="Er versucht, das Kind zu vernichten — und scheitert" link="rev:12,1-6" lang="de" %}}.
 - {{% bible val="Er kämpft gegen Michael — und wird aus dem Himmel geworfen" link="rev:12,7-12" lang="de" %}}.
-- {{% bible val="Er versucht die Frau zu vernichten — und hat scheitert" link="rev:12,13-17" lang="de" %}}.
-- Er versucht, die {{% bible val="Nachkommen Jesu, die Gemeinde, zu zerstören — und versagt auch hier" link="rev:13" lang="de" %}}, was {{% int_link val="man an der Zahl 666 sehen kann" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
+- {{% bible val="Er versucht, die Frau zu vernichten — und scheitert" link="rev:12,13-17" lang="de" %}}.
+- {{% bible val="Er versucht, die Nachkommen Jesu, die Gemeinde, zu vernichten, und scheitert auch dabei" link="rev:13" lang="de" %}}, wie man an {{% int_link val="der Zahl 666" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}} sehen kann.
 
-Satan taucht bei der {{% bible val="sechsten Schale" link="rev:16,13" lang="de" %}} wieder auf und wird in den Kapiteln {{% bible val="19" link="rev:19,20" lang="de" %}} und {{% bible val="20" link="rev:20,10" lang="de" %}} gerichtet. Dies rahmt die Geschichte der Hure ein, in der auch das Tier und die Hure selbst erscheinen.
+Ein drittes Mal wird der Teufel gezeigt, {{% bible val="als Dreifaltigkeit bei der sechsten Schale" link="rev:16,13" lang="de" %}}, die dann in den Kapiteln {{% bible val="19" link="rev:19,20" lang="de" %}} und {{% bible val="20" link="rev:20,10" lang="de" %}} gerichtet wird. Diese Passagen rahmen die Geschichte der Hure ein, wo das Tier und die Hure gemeinsam auftreten.
 
-Diese drei Sichten werden miteinander verbunden, um die Taten Satans zu beschreiben.
+Diese drei Blickwinkel hängen zusammen und ergänzen sich gegenseitig zu einem Gesamtbild vom Wirken des Teufels.
 
-## Die falsche Dreieinigkeit
+## Die falsche Dreifaltigkeit
 
 <a name="ae7b"></a>
-Um das Wirken Satans besser zu verstehen, müssen wir uns die {{% bible val="zweite Geschichte mit dem Drachen und den beiden Tieren " link="rev:13" lang="de" %}}genauer ansehen.
+Um besser zu verstehen, wie der Teufel beschrieben wird, müssen wir uns die {{% bible val="zweite Geschichte vom Drachen und den beiden Tieren" link="rev:13" lang="de" %}} ansehen.
 
-Satan {{% int_link val="baut eine Dreieinigkeit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} auf, um die Gemeinde (und die Welt) zu täuschen, aber {{% int_link val="ohne Erfolg" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
+Er {{% int_link val="errichtet eine böse Dreifaltigkeit" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, um die Gemeinde zu täuschen, aber {{% int_link val="ohne Erfolg" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}}.
 
-Der {{% int_link val="Drache und die Tiere arbeiten zusammen," link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} um ihr Ziel zu erreichen, gehen aber unterschiedlich vor. Das erste Tier wendet Gewalt an, während das zweite Zeichen, Wunder, Einschüchterung und wirtschaftlichen Druck einsetzt, {{% int_link val="siehe auch der historische Kontex" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}t.
+Der {{% int_link val="Drache und die Tiere arbeiten zusammen, um ihr Ziel zu erreichen" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, gehen dabei aber unterschiedlich vor: Das erste Tier setzt auf Gewalt, während das zweite auf Zeichen, Wunder und wirtschaftlichen Druck setzt — {{% int_link val="siehe auch im historischen Kontext" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
 
-Wenn wir uns das Thema bei den {{% int_link val="apokalyptischen Reitern" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} betrachten, sehen wir das gleiche Muster:
+Betrachten wir nun {{% int_link val="die vier Reiter, finden wir dasselbe Muster" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
 
-- Zuerst kommt der Täuschende,
-- dann der Gewalttätige(bringt Krieg),
+- zuerst kommt der Täuscher,
+- gefolgt von dem, der Gewalt anwendet und Krieg bringt,
 - gefolgt von dem, der wirtschaftliche Ungerechtigkeit bringt.
 
-Der vierte ist dann die Zusammenfassung, so dass wir hier wieder eine Dreieinigkeit haben.
+Der vierte Reiter fasst alle drei zusammen — ein weiteres Beispiel für dasselbe Dreifaltigkeitsmuster.
 
-Schließlich können wir uns die Geschichte von der Hure ansehen. Bei der Vielzahl der Akteure in Kapitel 17 ist es schwierig, die Dreieinigkeit zu erkennen. Aber hier sind einige Beobachtungen.
+Schließlich gibt es noch die Geschichte der Hure. Trotz der vielen Akteure in Kapitel 17 ist eine Dreifaltigkeit dort zunächst nicht offensichtlich. Aber zwei Beobachtungen bringen sie ans Licht.
 
-Es gibt eine starke Parallele zwischen dem Tier in Kapitel 17 und dem Tier in Kapitel 13.
+Erstens gibt es eine starke Parallele zwischen dem Tier in Kapitel 17 und dem ersten Tier in Kapitel 13.
 
 | Das erste Tier aus Offenbarung 13 | Das Tier auf Offenbarung 17 |
 |-----------------------------------|-----------------------------|
@@ -73,7 +73,7 @@ Es gibt eine starke Parallele zwischen dem Tier in Kapitel 17 und dem Tier in Ka
 | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}} | {{% bible val="Kämpft gegen Lamm und wird überwunden" link="rev:17,14" lang="de" %}} </br> {{% bible val="Kämpft gegen Hure und vernichtet sie" link="rev:17,16" lang="de" %}} |
 | {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an" link="rev:13,8" lang="de" %}} | {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt" link="rev:17,8" lang="de" %}} |
 
-Genaus gibt es aber auch sehr große Parallelen zwischen dem zweiten Tier und der Hure
+Zweitens gibt es auch eine starke Verbindung zwischen dem zweiten Tier in Kapitel 13 und der Hure.
 
 ## Die Hure und das zweite Tier
 
@@ -88,20 +88,20 @@ Genaus gibt es aber auch sehr große Parallelen zwischen dem zweiten Tier und de
 | {{% bible val="Kann nicht kaufen oder verkaufen ohne Zeichen" link="rev:13,17" lang="de" %}} | {{% bible val="Kaufen und verkaufen nicht möglich ohne Hure" link="rev:18,3" lang="de" %}} ({{% bible val="Offb.18/11-17" link="rev:18,11-17" lang="de" %}}) |
 | {{% bible val="Benötigt Weisheit" link="rev:13,18" lang="de" %}} | {{% bible val="Benötigt Weisheit" link="rev:17,9" lang="de" %}} |
 
-Die Macht der Hure wird hier auch ins umgekehrt: Während sie in Kapitel 13 Feuer vom Himmel fallen lassen hat, wird sie nun durch Feuer vernichtet, während sie ein Zeichen an die Stirn macht, wird sie hier selbst an der Stirn gebrandmarkt (wie ein Sklave).
+Auch hier ist die Macht umgekehrt: Während das Tier in Kapitel 13 Feuer vom Himmel fallen lässt, wird sie in Kapitel 17 durch Feuer vernichtet; und während es dort Menschen ein Zeichen auf die Stirn setzt, wird sie hier selbst an der Stirn gebrandmarkt, wie eine Sklavin.
 
-Aber wo ist der dritte Teil? Er bleibt im Hintergrund wie in Kapitel 13 und macht auch bei den Reitern nichts. Aber man sieht ihn bei der {{% bible val="sechsten Schale" link="rev:16,13" lang="de" %}} und in Kapitel {{% bible val="20" link="rev:20,10" lang="de" %}}.
+Wo bleibt also das dritte Mitglied der Dreifaltigkeit in dieser Szene? Er hält sich im Hintergrund, genau wie in Kapitel 13 und bei der Beschreibung der Reiter — aber man sieht ihn bei {{% bible val="der sechsten Schale" link="rev:16,13" lang="de" %}} und in Kapitel {{% bible val="20" link="rev:20,10" lang="de" %}}.
 
-{{% int_link val="Das war auch im historischen Kontext zu sehen" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}: Zwei der Tiere sind deutlich sichtbar, aber Satan ist nicht direkt zu sehen.
+{{% int_link val="Das war auch im historischen Kontext so" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}: Man sieht die beiden Tiere, aber nicht den Teufel direkt.
 
 ## Die Entwicklung des Bildes
 
 <a name="02d8"></a>
-Wenn wir uns die Entwicklung des Bildes Satans ansieht, sehen wir ihn zunächst im ersten Reiter. Diese Szene folgt unmittelbar auf die Erklärung Jesu, dass er würdig sei, das Buch zu öffnen und {{% int_link val="der Welt das Heil zu bringen" link="/expl/content/worship/the-book-with-the-seven-seals" %}}. Satan ist nun bloßgestellt, denn Jesus hat den Platz eingenommen, den er haben wollte.
+Verfolgt man die Entwicklung dieses Bildes durch das Buch, begegnet man Satan zuerst in den vier Reitern. Diese Szene folgt unmittelbar darauf, dass Jesus als der Einzige erklärt wird, der würdig ist, die Schriftrolle zu öffnen und {{% int_link val="der Welt das Heil zu bringen" link="/expl/content/worship/the-book-with-the-seven-seals" %}} — und Satan wird sofort danach entlarvt, denn ein Sieg ohne bleibenden Bestand ist genau das, was er im ersten Reiter verspricht.
 
-Er erscheint siegreich, aber es wird immer deutlicher, dass er nur Zerstörung hinterlässt. Er bringt das Gegenteil von dem, was Jesus bringt. Aber was ist das?
+Er scheint der Sieger zu sein, doch am Ende hinterlässt er überall Zerstörung und Tod. Er wird als das genaue Gegenteil dessen entlarvt, was Jesus bringt. Aber was genau bringt Jesus, das der Teufel nicht kann?
 
-Diese Frage steht im Mittelpunkt der Geschichte vom Drachen und den beiden Tieren. Satan bietet {{% int_link val="einige verlockende Dinge an" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Aber das Scheitern ist besonders deutlich in der Alternative: {{% int_link val="den beiden Zeugen, die einen Lebensstil der Anbetung führen und ihr Zeugnis in Treue bis in den Tod geben" link="/expl/content/witnesses/the-two-witnesses" %}}.
+Das ist das Thema, das in der Geschichte vom Drachen und den beiden Tieren entfaltet wird. Dort hat {{% int_link val="Satan tatsächlich einiges wirklich Verlockendes anzubieten" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Doch der Text stellt dem eine klare Alternative gegenüber: {{% int_link val="die beiden Zeugen, die einen Lebensstil der Anbetung führen und in ihrem Zeugnis treu bleiben bis in den Tod" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
-All dies wird noch deutlicher, wenn Babel als das Gegenteil des Neuen Jerusalem beschrieben wird.
+Dieser Kontrast entfaltet sich schließlich vollständig in der letzten Vision, wo Babylon ausführlich als das dunkle Gegenstück zum Neuen Jerusalem beschrieben wird.
 

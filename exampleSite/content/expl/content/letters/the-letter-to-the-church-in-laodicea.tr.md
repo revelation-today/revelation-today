@@ -14,45 +14,34 @@ sources:
       ref: fee_rev
 ---
 
-Bu {{% bible val="mektup kiliselerde en çok vaaz edilen mektuptur" link="rev:3,14-22" lang="tr" %}} ve bu yüzden hepimiz ılık olma sorununu biliriz. Ama bu bağlamda ne anlama geldiğini gerçekten biliyor musunuz? Özellikle de bu kilise hiç övgü almayan tek kilise olduğunda, biraz bile!
+{{% bible val="Laodikya kilisesine yazılan mektup" link="rev:3,14-22" lang="tr" %}}, Vahiy'de en sık vaaz edilen mektuptur, bu yüzden çoğumuz ılık olma sorununu zaten biliyoruz. Ama bu imgenin arkasındaki bağlamı gerçekten biliyor muyuz? Bu burada her zamankinden daha önemli, çünkü Laodikya, hiç övgü almayan — bir tanesi bile — *tek* kilisedir.
 
 ## Tarihsel arka plan
 
 <a name="f1cd"></a>
-Laodikya birçok ticaret yolunun kesiştiği bir yerdeydi ve çok zengin bir kentti. Onlar:
+Laodikya birçok ticaret yolunun kesiştiği noktada yer alıyordu ve son derece zengin bir şehirdi:
 
-- Küçük Asya’nın İsviçre Bankası gibiydiler.
-- onlara ince ve değerli siyah yün veren koyun yetiştiriciliği vardı
-- göz merhemleriyle tanınan bir tıp merkeziydi.
+- Küçük Asya'nın İsviçre bankası gibi işlev görüyordu,
+- koyun yetiştiriciliği değerli siyah yün üretiyordu,
+- ve göz merhemleriyle ünlü, iyi bilinen bir tıp merkezine sahipti.
 
-## İsa’nın görüşü
+## İsa'nın görüşü
 
 <a name="27c6"></a>
-İsa bu kiliseye “Gerçek Tanık” ve “Amin” olarak gelir çünkü Laodikya sahtedir. Onların temel sorunu öz farkındalık eksikliğidir. Kendilerini “Tanrı’nın dünyaya armağanı” olarak görürler ama aslında {{% bible val="tam da iyi olduklarını düşündükleri konularda başarısızdırlar" link="rev:3,17" lang="tr" %}}.
+İsa bu kiliseye "Gerçek Tanık" ve "Amin" olarak gelir; bu, Laodikya'nın kendisinin sahte bir kilise olduğu göz önüne alındığında keskin bir zıtlıktır. Temel sorunları öz-farkındalık eksikliğidir: kendilerini dünyaya Tanrı'nın armağanı sanırlar, oysa gerçekte {{% bible val="tam da güçlü olduklarını sandıkları noktalarda başarısızdırlar" link="rev:3,17" lang="tr" %}}.
 
 ## Sorun
 
 <a name="1871"></a>
-Böylece İsa onlara göz hizasında yaklaşır. Bir tüccar olarak gelir ve onlara bedavaya mal teklif eder. Aynı malların en iyi versiyonuna zaten sahip olduklarını düşünürler. Büyük bir kilise olmak için “iyi” bir yaşam sürmenin yeterli olduğu anlayışına sahiptirler (büyük günah işlememek, ondalık vermek, İncil okumak, …).
+İsa onlara bir tüccar olarak yaklaşır — kolayca ilişki kurabilecekleri bir figür — ve zaten sahip olduklarını sandıkları malların en iyi hâlini onlara ücretsiz sunar. Saygın bir hayat sürmenin büyük bir kilise olmak için yeterli olduğunu varsayarlar: göze batan günahlar olmaması, sadık ondalık verme, düzenli Kutsal Kitap okuma ve benzeri.
 
-Sorun ılık olmaları. Bunu biraz açıklamama izin verin: Bu ne İsa için yanıp tutuşmak ne de sıkı bir ateist olmak anlamına gelir, ama aslında suyla ilgilidir.
+Gerçek sorunları ılık olmalarıdır, ve bu imge doğrudan suyun sıcaklığından alınmıştır. O kültürde su iki hâlde değerliydi: sıcak, kaplıca gibi şifa amaçlı yararlı olan, ya da soğuk, içmek için ferahlatıcı olan. Laodikya'nın kendi su kaynağı ise, dikkat çekici biçimde, bir su kemeri aracılığıyla ılık olarak geliyordu, yol boyunca sıcaklığını kaybetmiş hâlde — İsa'nın ruhsal bir teşhise dönüştürdüğü yerel bir şaka. Kilisenin bu iki yararlı nitelikten hiçbiri yoktur: yalnızca tadılır tadılmaz ağızdan tükürülen ılık su vardır.
 
-O zamanlarda su iki koşulda iyiydi:
-
-- Sıcak: böylece şifa amacıyla kaplıcalar gibi kullanılabilir
-- Soğuk: İçmek ferahlatıcıydı
-
-Ama Laodikya’da bunların hiçbiri yoktu — sadece içtiğinizde tükürdüğünüz ılık su vardı.
-
-Müjdecilik, dua, şifa, yoksullara hizmet ya da diğer bakanlıklar aracılığıyla etkili bir kilise olmanın birçok yolu vardır. Bunların bir amacı vardır, ama Laodikya bunların hiçbirine sahip değildi ve bu nedenle ılık su gibi hiçbir işe yaramıyordu.
+Etkili bir kilise olmanın birçok yolu vardır — müjdecilik, dua, şifa, yoksullara hizmet etmek ve daha fazlası — her birinin kendi gerçek amacı vardır. Laodikya cemaati bunların hiçbirine yerleşmemişti, ve kendi ılık suyu kadar işe yaramaz hâle gelmişti.
 
 ## Çözüm
 
 <a name="a366"></a>
-İsa onları kayıtsızlıktan kurtarır ve kapılarını çalar. Bu imansızlar için bir sunak çağrısı değil, {{% bible val="aşığın sevdiğine çağrısıdır" link="sng:5,1-5" lang="tr" %}}.
+İsa onları rehavetlerinden çağırır ve kapılarını çalar. Bu, imansızlara yönelik bir çağrı değildir — {{% bible val="sevgilinin sevdiğine çağrısıdır" link="sng:5,1-5" lang="tr" %}}.
 
-Ve eğer O’nu dinlerlerse, Tanrı’nın Taht Odası’ndaki tahtta O’nunla birlikte OTURACAKLAR.
-
-Durun bir dakika: Taht Odasında kimse oturmuyor, herkes ayakta duruyor!
-
-Peki bu Laodikya için ne anlama geliyor? Bu motivasyon onlar için yeterli mi?
+Ve eğer dinlerlerse, vaat şaşırtıcıdır: Tanrı'nın taht odasında, tahtın kendisinde, O'nunla birlikte *oturacaklardır*. Durup bunun ne anlama geldiğini düşünün — o taht odasında başka hiç kimse oturmaz; herkes ayakta durur. Bu vaat, Laodikya'yı kendini görme biçiminden sarsıp çıkarmaya yeter mi?

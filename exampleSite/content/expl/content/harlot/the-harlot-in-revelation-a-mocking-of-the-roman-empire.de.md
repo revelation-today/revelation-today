@@ -12,52 +12,46 @@ sources:
       ref: aune_rev
 ---
 
-Die Geschichte von der Hure Babel in der Offenbarung ist eine der komplexesten Erzählungen des Buches und verwendet sehr subtile Ironie gegen das Römische Reich. Bist du bereit?
+Die Geschichte der Hure Babel in der Offenbarung ist eine der vielschichtigsten des Buches, und sie stützt sich stark auf subtile Ironie, die auf das Römische Reich zielt. Bereit dafür?
 
 ## Die Münze
 
 <a name="12e6"></a>
-Werfen wir einen Blick auf eine damals weit verbreitete Münze:
+Beginnen wir mit einer Münze, die zu jener Zeit gängige Währung gewesen wäre.
 
 ![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
 
-Die Vorderseite zeigt Kaiser Vespasian (regierte von 69 bis 79) und die Inschrift “Imp Ceasar Vespasianus Aug PM TP PP COS III”, was soviel bedeutet wie “Kaiser Ceasar Vespasian Augustus Pontifex Maximus (Oberster Priester), Tribunicia Potestas (Gerichtsgewalt), Pater Patriae (Vater des Vaterlandes), Consul zum dritten Mal”, was die Macht und die Errungenschaften des Kaisers beschreibt.
+Auf der Vorderseite ist Kaiser Vespasian (regierte 69–79) mit der Inschrift „Imp Caesar Vespasianus Aug PM TP PP COS III" abgebildet — „Kaiser Caesar Vespasian Augustus, Pontifex Maximus (Oberster Priester), Tribunicia Potestas (Tribunengewalt), Pater Patriae (Vater des Vaterlandes), Consul zum dritten Mal." Kurz gesagt, ein Lebenslauf der Macht und Errungenschaften des Kaisers.
 
-Auf der Rückseite ist die Göttin Roma in Militärkleidung dargestellt, die auf den sieben Hügeln Roms sitzt. Sie hat ein kleines Schwert auf ihr Knie gestützt, was die militärische Stärke Roms ausdrückt. Links und rechts sieht man SC (Senatus Consultum = mit Zustimmung des Senats).
+Die Rückseite zeigt die Göttin Roma in militärischer Kleidung, sitzend auf den sieben Hügeln Roms, mit einem kleinen Schwert auf ihrem Knie als Symbol der militärischen Macht Roms. Zu ihrer Linken und Rechten steht die Abkürzung SC (Senatus Consultum, „auf Beschluss des Senats").
 
-Auf der rechten Seite sieht man die männliche Form des Flusses Tiber (der Rom umfließt), der sich zu Roma neigt. Links unten ist eine kleine Wölfin zu sehen, die Remus und Romulus säugt (Gründungsgeschichte Roms durch die Nachfolger Trojas). Und schließlich ganz unten der [geheime Name Roms: Amor](https://www.muenzen-ritter.de/68054-roemische-kaiserzeit-licinius-i-follis-320-fvz.html), was Liebe bedeutet.
+Rechts verneigt sich eine männliche Gestalt, die den Fluss Tiber darstellt, der Rom umgibt, vor Roma. Unten links säugt eine Wölfin Romulus und Remus, eine Erinnerung an die Gründungsgeschichte Roms im Jahr 753 v. Chr. durch die Nachkommen Trojas. Ganz unten steht das Wort Roma — möglicherweise ein Hinweis auf [Roms geheimen Namen Amor](https://www.quartahospitalityinrome.com/en/Rome-and-the-secret-of-its-name/), der rückwärts gelesen „Liebe" ergibt.
 
-Die Rückseite preist also die Macht und Beständigkeit Roms.
+Die Rückseite der Münze ist also eine unverhohlene Feier der Macht und Beständigkeit Roms. Was macht die Offenbarung mit genau dieser Bildsprache?
 
-Was hat der Text der Apokalypse mit dieser Münze zu tun?
+- Eine Frau als Wölfin zu bezeichnen war schon im gewöhnlichen Latein eine Art, sie eine Prostituierte zu nennen — und der geheime Name Amor verschärft diese Beleidigung nur noch.
+- Die Göttin Roms wird hier zur Hure umgedeutet — nicht irgendeiner Hure, sondern der Mutter aller Huren.
+- Die Hügel Roms, statt sie zu stützen, werden zum Tier und den Königen, die sie vernichten: Roma endet als Opfer genau der Stadt, die sie schützen sollte.
+- Und statt sich mit ihrem Schwert vor Feinden zu schützen, ist sie mit dem Blut der Heiligen bedeckt.
 
-- Wenn eine Frau damals als Wölfin bezeichnet wurde, so war das (auch im normalen Latein) eine Bezeichnung für eine Prostituierte, und der geheime Name Amor verschärfte diese Situation noch.
-- Die Schutzgöttin Roms wird hier nicht nur als Hure, sondern als Mutter aller Huren bezeichnet.
-- Die Hügel Roms stehen für das Tier und die Könige, die die Hure Rom zerstören werden — Roma ist das Opfer der Stadt, die sie beschützt.
-- Das Schwert Roms schützt nicht vor Feinden, sondern ist mit dem Blut der Heiligen getränkt.
+Die Feier der {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} auf der Münze wird Punkt für Punkt in ein Bild der Verachtung und des Abscheus verkehrt — eine Erinnerung an jeden Gläubigen, der diese Münze im Alltag in der Hand hielt, dass man Rom nicht trauen konnte. Es ist bemerkenswert wirksame Gegenpropaganda.
 
-Die Münze zeigt, wie der {{% int_link val="Römische Friede" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} in ein Bild des Ekels und des Abscheus verwandelt wird, das jeden Gläubigen, der die Münze sieht, daran erinnert, dass man Rom nicht trauen kann — eine wirksame Gegenpropaganda.
-
-## Die [Ekphrasis](https://de.wikipedia.org/wiki/Ekphrasis)
+## Die Ekphrasis
 
 <a name="d4d3"></a>
-Die {{% bible val="erste Hälfte von Kapitel 17" link="rev:17,1-13" lang="de" %}} der Offenbarung ist der einzige Bericht mit einem Engel, der ein statisches Bild interpretiert. Sogar in Kapitel 21 — das neue Jerusalem — zeigt der Engel nur und erklärt nicht, und das ist Aktion: die Stadt kommt herab, das Wasser fließt und die Bäume tragen Früchte. In Kapitel 17 haben wir ein statisches Bild. Und es geht darum, die Hure und das Tier zu verstehen.
+Die {{% bible val="erste Hälfte von Kapitel 17" link="rev:17,1-13" lang="de" %}} ist der einzige Teil der Offenbarung, in dem ein Engel dem Leser ein statisches Bild deutet. Selbst in Kapitel 21, bei der Beschreibung des Neuen Jerusalem, zeigt der Engel nur, ohne zu erklären, und die Szene ist voller Bewegung — die Stadt kommt herab, Wasser fließt, Bäume tragen Früchte. Kapitel 17 dagegen ist ein eingefrorenes Tableau, und der ganze Fokus liegt darauf, die Prostituierte mittels des Tieres zu verstehen, auf dem sie sitzt.
 
-Und dieser Text hat den Stil einer Ekphrasis, das ist die rhetorische Beschreibung eines Kunstobjekts (es könnte auch eine Person sein, ein Fest, …). Die erste Beschreibung dieser Art findet sich auf dem Schild des Achilles in der Ilias (Krieg um Troja).
+Der Abschnitt ist im Stil einer Ekphrasis geschrieben, einer rhetorischen Beschreibung eines Kunstwerks (wobei die Form auch Personen oder Feste beschreiben könnte). Das berühmteste Beispiel der Gattung ist die Beschreibung des Schildes des Achilles in der Ilias.
 
-Diese Art von Literatur war im ersten Jahrhundert v. Chr. in Rom sehr populär. Das Hauptelement ist ein {{% bible val="verblüffter Geschichtenerzähler" link="rev:17,7" lang="de" %}},denn es geht darum, ein tieferes Verständnis des Bildes zu erlangen oder die tiefere Bedeutung des Bildes zu verstehen, das manchmal schwer zu entziffern war, wie bei der “Tafel von Cebes”, der wohl berühmtesten Ekphrasis.
+Die Ekphrasis war in Rom ab dem ersten Jahrhundert v. Chr. beliebt, und ihr zentrales Stilmittel ist ein {{% bible val="verwirrter Erzähler" link="rev:17,7" lang="de" %}} — denn der Zweck war entweder, das Verständnis des Lesers für das Bild zu vertiefen, oder eine verborgene Bedeutung zu enthüllen, die wirklich schwer zu entschlüsseln ist, wie bei der „Tabula des Kebes", wohl der berühmtesten Ekphrasis überhaupt.
 
-Diese Tafel ist wahrscheinlich die Grundlage für Offenbarung 17. Sie beschreibt eine Gruppe von Menschen, die ein Bild auf einer Widmungstafel in einem Tempel beschreiben, das sie nicht verstehen. Ein alter Mann kommt und [erklärt es(siehe Kapitel 8)](https://archive.org/details/cebestabletwithi00cebeiala/page/n4/mode/1up?view=theater):
+Diese Tabula könnte durchaus eine Quelle hinter Offenbarung 17 sein. Sie beschreibt eine Menschenmenge, die ein Bild auf einer Weihetafel in einem Tempel betrachtet, ohne es zu verstehen, bis ein alter Mann kommt und [es ihnen erklärt (siehe Kapitel 8)](https://archive.org/details/cebestabletwithi00cebeiala/page/n4/mode/1up?view=theater):
 
-- Das Leben wird durch drei Ringe dargestellt, die durch Mauern voneinander getrennt sind.
-- Ziel ist es, in die Mitte des Gartens, eine Art Paradies, zu gelangen. Dieses kann aber nur erreicht werden, wenn man einige Ablenkungen (Glück, Faulheit, …) überwindet und den Tugenden (Mäßigung, Tapferkeit, …) folgt.
-- Eine große Menschenmenge will eintreten.
-- Am Eingang steht eine Frau und bietet jedem einen Becher an. Ihr Name: Täuschung, ihr Getränk: Irrtum und Dummheit.
+- Das Leben wird als drei Ringe dargestellt, die durch Mauern getrennt sind.
+- Das Ziel ist es, den mittleren Ring zu erreichen, eine Art Garten Eden, der nur erreichbar ist, indem man Ablenkungen wie Reichtum und Genusssucht überwindet und Tugenden wie Mäßigung und Standhaftigkeit übt.
+- Eine große Menschenmenge will hinein.
+- Am ersten Tor steht eine Frau, die jedem einen Becher anbietet. Ihr Name ist Täuschung; das Getränk ist Irrtum und Unwissenheit.
 
-Eine weitere Parallele zu Offenbarung 17 könnte die [Ode des Salomon](https://de.wikipedia.org/wiki/Oden_Salomos) 38/9–14 sein, wo Irrtum und Dummheit die Braut und den Bräutigam nachahmen. Der Wein bei der Hochzeit führt dazu, dass die Gäste ihren Verstand erbrechen.
+Eine weitere mögliche Parallele sind die [Oden Salomos](https://de.wikipedia.org/wiki/Oden_Salomos) 38,9–14, wo sich Irrtum und Unwissenheit bei einer Hochzeit als Braut und Bräutigam verkleiden, und der Wein dort die Gäste ihr eigenes Verständnis erbrechen lässt.
 
-Die Botschaft dieser Ekfrasis ist es zu zeigen, dass
-
-- Diese Täuschung zu durchschauen ist nur der erste Schritt auf dem Weg in das Reich Gottes.
-- Wenn du von Rom getäuscht wirst, gibt es wenig Hoffnung für dich.
-- Die Täuschung ist so groß, dass es schwer ist, sie zu übersehen. Wer sie einmal gesehen hat, kann sie nicht mehr übersehen.
+Beide Parallelen weisen auf denselben Zweck hinter der Ekphrasis in Offenbarung 17 hin: Diese Täuschung zu verstehen ist der erste Schritt zum Reich Gottes. Wenn Rom dich getäuscht hat, bleibt dir kaum noch Hoffnung — und doch ist die Täuschung so unverhohlen, dass sie eigentlich kaum zu übersehen sein sollte.

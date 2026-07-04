@@ -11,47 +11,51 @@ sources:
       ref: sarna_exo
 ---
 
-Kisah Musa bertentangan dengan segala kisah kepahlawanan pada zaman kuno, tetapi tetap merupakan sebuah kisah sukses — mengapa?
+Kisah Musa bertentangan dengan pola setiap kisah kepahlawanan yang dikenal di dunia kuno — namun tetap menjadi sebuah kisah sukses.
 
-Kisahnya sendiri hanya terdiri atas dua pasal dan layak dibaca terlebih dahulu. Pertama-tama muncul kisah bagaimana {{% bible val="Firaun berusaha menekan pertumbuhan Israel" link="exo:1" lang="ind" %}} untuk mencegah "{{% int_link val="Hyksos kedua" link="/expl/bible/exodus/the-story-before-the-exodus" %}}", kemudian menyusul {{% bible val="kisah Musa yang sesungguhnya" link="exo:2" lang="ind" %}}.
+Kisahnya hanya membutuhkan dua pasal Alkitab untuk diceritakan, dan keduanya layak dibaca terlebih dahulu: pertama {{% bible val="kisah bagaimana Israel ditekan pertumbuhannya" link="exo:1" lang="ind" %}} agar tidak menjadi {{% int_link val="Hyksos kedua" link="/expl/bible/exodus/the-story-before-the-exodus" %}}, kemudian {{% bible val="kisah Musa" link="exo:2" lang="ind" %}} itu sendiri.
 
-## Mencegah "Hyksos Kedua"
+## Melawan Hyksos Kedua
 
 <a name="4472"></a>
-Firaun mencoba segala cara untuk mencegah Israel menjadi bangsa yang besar. Tetapi apa pun yang ia coba tidak berhasil, bahkan kadang justru menghasilkan kebalikannya. Ini adalah sebuah parodi atas orang-orang yang berkuasa.
+Firaun melakukan segala yang ia bisa untuk mencegah orang Israel menjadi bangsa yang besar, tetapi apa pun yang ia coba, ia gagal — dan kegagalan itu berlangsung hampir seperti sebuah parodi, poin demi poin.
 
 | Pandangan Firaun | Kenyataan |
 |------------------|----------|
-| Firaun memandang dirinya sebagai wakil para dewa. | Tetapi ia bukanlah tokoh kunci dalam kisah ini. Ia bahkan tidak disebutkan namanya. Ia hanya berperan sebagai figuran, seperti para dewa yang diwakilinya — tidak satu pun dari mereka disebutkan namanya dalam kisah ini. Tetapi para pahlawan kisah ini memiliki nama, dan semuanya bukan orang Mesir, kebanyakan perempuan ({{% bible val="Sifra dan Pua, nama-nama bidan itu, kebetulan adalah nama Semit" link="exo:1,15" lang="ind" %}}, jadi orang asing). |
-| Firaun memaksa orang Israel melakukan pekerjaan berat, sampai mereka mati. | Namun bangsa itu justru bertambah banyak, dan pada {{% bible val="akhirnya mereka meninggalkan Mesir dengan penuh kekayaan" link="exo:12,35-36" lang="ind" %}}. Mereka bukan hanya bebas, tetapi juga dipulihkan martabatnya. |
-| Para bidan diperintahkan untuk membunuh bayi-bayi yang baru lahir. | Mereka menentang Firaun (sebagai orang asing), tetapi tidak dihukum karenanya, melainkan {{% bible val="diberkati Allah dengan anak-anak mereka sendiri" link="exo:1,21" lang="ind" %}}. |
-| Bayi-bayi yang baru lahir harus dibuang ke sungai Nil. | Ketika Musa dibuang ke sungai Nil, peti itu disebut dengan [kata yang sama](https://biblehub.com/hebrew/strongs_8392.htm) seperti bahtera Nuh, sebuah tempat keselamatan. |
-| Musa adalah tokoh kunci dalam kisah ini dan dialah yang mengalahkan Firaun. | Ia dibesarkan oleh {{% bible val="putri Firaun itu sendiri, dan ia membayar ibu kandungnya untuk mendampinginya pada tahun-tahun pertama hidupnya" link="exo:2,5-10" lang="ind" %}}. |
+| Firaun memandang dirinya sebagai wakil para dewa. | Ia bahkan bukan tokoh kunci dalam kisah ini — namanya sendiri tidak disebutkan, ia diperlakukan seperti pemeran latar, sama seperti para dewa yang diwakilinya, yang juga tidak satu pun disebutkan namanya. Sebaliknya, para pahlawan utama disebutkan namanya, dan kebanyakan dari mereka adalah perempuan serta bukan orang Mesir ({{% bible val="Sifra dan Pua, nama-nama bidan itu" link="exo:1,15" lang="ind" %}}, adalah nama-nama Semit). |
+| Firaun mempekerjakan budak-budak Israel begitu berat sehingga mereka mati. | Sebaliknya, bangsa itu terus bertambah banyak, dan pada saat mereka meninggalkan Mesir, mereka {{% bible val="dipenuhi kekayaan" link="exo:12,35-36" lang="ind" %}}. Mereka akhirnya bukan hanya bebas, tetapi juga dipulihkan martabatnya. |
+| Para bidan diperintahkan untuk membunuh bayi-bayi yang baru lahir. | Mereka menentang Firaun — meskipun mereka perempuan asing dari Asia — dan alih-alih dihukum, mereka {{% bible val="diberkati Allah dengan anak-anak" link="exo:1,21" lang="ind" %}}. |
+| Bayi-bayi yang baru lahir harus dibuang ke sungai Nil. | Musa diletakkan di sungai Nil dalam sebuah peti, menggunakan [kata yang sama](https://biblehub.com/hebrew/strongs_8392.htm) seperti bahtera Nuh, dan ia diselamatkan. |
+| Musa adalah tokoh kunci dalam kisah ini, orang yang akan menjatuhkan Firaun. | Sebaliknya, ia {{% bible val="dibesarkan oleh putri Firaun, sementara ibunya sendiri dibayar untuk menyusuinya" link="exo:2,5-10" lang="ind" %}}. |
 
 ## Kisah Musa
 
 <a name="659b"></a>
-Kisah Musa adalah kebalikan dari kisah-kisah kepahlawanan pada zaman itu. Saya tuliskan di sini kisah kepahlawanan yang normal, dan di bawahnya kisah Musa.
+Kisah Musa adalah kebalikan penuh dari kisah kepahlawanan zaman kuno yang khas. Tabel di bawah ini membandingkan pola yang biasa dengan apa yang sesungguhnya terjadi pada Musa.
 
-| Kisah Kepahlawanan yang Normal | Kisah Musa |
+| Kisah kepahlawanan yang normal | Kisah Musa |
 |--------------------------|-------------------------|
-| Kisah biasanya dimulai dengan sang pahlawan yang dibuang saat kelahirannya (Herkules, Oedipus, Romulus dan Remus, Koresh, ...). | Musa disembunyikan oleh ibunya yang penuh kasih, dan ia dijaga dengan baik, bahkan dapat didampingi olehnya pada tahun-tahun pertama hidupnya. |
-| Orang yang menemukan bayi itu biasanya berstatus rendah. | Musa dibesarkan di istana putri Firaun. |
-| Identitas anak itu tidak diketahui dan baru benar-benar terungkap pada akhir kisah. | Identitas Musa {{% bible val="sudah diketahui putri Firaun sejak awal" link="exo:2,6" lang="ind" %}}. |
-| Penemuan identitas sejatinya adalah titik balik dalam kisah dan memberinya status yang sesuai. | Identitas sejati Musa justru membawanya ke dalam kesulitan, dan ia harus melarikan diri untuk bertahan hidup. |
-| Alasan di balik kisah ini adalah untuk menunjukkan mengapa sang pahlawan pada akhirnya berhak atas kekuasaan. | Kisah ini tidak menunjukkan apa yang menjadi hak Musa, melainkan bagaimana Allah menyediakan dan mengendalikan situasi itu. |
+| Kisah dimulai ketika sang pahlawan dibuang sebagai bayi (Herkules, Oedipus, Romulus dan Remus, Koresh, ...). | Musa disembunyikan oleh ibunya yang penuh kasih, dan dijaga dengan saksama sampai ia berada dengan aman di tangan yang baik. |
+| Orang yang menemukan bayi itu biasanya berstatus rendah. | Musa dibesarkan oleh putri Firaun dan disusui oleh ibunya sendiri. |
+| Identitas anak itu tidak diketahui dan baru terungkap pada akhir kisah. | Identitas Musa {{% bible val="sudah diketahui putri Firaun sejak awal" link="exo:2,6" lang="ind" %}}. |
+| Terungkapnya identitas sejati sang pahlawan menjadi titik balik yang memberinya status yang layak ia terima. | Identitas sejati Musa justru membawanya ke dalam kesulitan, dan ia harus melarikan diri untuk bertahan hidup. |
+| Alasan kisah ini diceritakan adalah untuk menunjukkan hak sang pahlawan atas kekuasaan. | Kisah ini tidak menunjukkan hak Musa atas kekuasaan, melainkan penyediaan dan kendali Allah. |
 
 ## Kelanjutan Kisah Musa
 
 <a name="6430"></a>
-Tahap berikutnya, ia pergi ke padang gurun selama 40 tahun dan menjadi seorang gembala. Ini adalah sebuah kemampuan kunci bagi hamba Allah, yang dimiliki oleh {{% bible val="Yesus" link="jhn:10" lang="ind" %}}, tetapi {{% bible val="tidak dimiliki oleh banyak pemimpin di Israel" link="ezk:34" lang="ind" %}}. Banyak tokoh kunci dalam Alkitab adalah gembala (Abraham, Ishak, Yakub, Daud, Yesus, "Mzm.23").
+Babak berikutnya dalam hidupnya membawanya ke padang gurun selama 40 tahun untuk belajar menjadi gembala. Inilah yang membentuknya menjadi pemimpin yang baik — seperti {{% bible val="Yesus" link="jhn:10" lang="ind" %}} kelak — dan bukan {{% bible val="pemimpin yang buruk seperti para pemimpin Israel" link="ezk:34" lang="ind" %}}. Banyak tokoh kunci dalam Alkitab adalah gembala: Abraham, Ishak, Yakub, Daud, Yesus, dan pemazmur "Mzm.23".
 
-Bagi Musa, ini adalah masa untuk berubah dari seseorang dengan {{% bible val="temperamen yang tidak terkendali" link="exo:2,11-12" lang="ind" %}} menjadi {{% bible val="orang yang paling rendah hati di bumi" link="num:12,3" lang="ind" %}}, yang {{% bible val="tetap tenang dan penuh belas kasihan dalam situasi-situasi sulit" link="num:12" lang="ind" %}}.
+Barangkali makna dari 40 tahun itu adalah perjalanan dari {{% bible val="temperamen yang tidak terkendali" link="exo:2,11-12" lang="ind" %}} menuju menjadi {{% bible val="orang yang paling rendah hati di bumi" link="num:12,3" lang="ind" %}}, seseorang yang mampu {{% bible val="tetap tenang dan berbelas kasih dalam situasi-situasi sulit" link="num:12" lang="ind" %}}.
 
-Ini kedengarannya belum seperti bahan seorang pahlawan.
+Dengan ukuran apa pun, Musa tidak tampak seperti bahan seorang pahlawan.
 
-Ia seharusnya menyelamatkan bangsa Israel melalui perjanjian yang telah dibuat Allah dengan umat-Nya. Tetapi ia sendiri {{% bible val="gagal menyunatkan dirinya dan putranya (satu-satunya!! syarat dari perjanjian awal dengan Abraham), dan justru istrinya yang bukan orang Israel yang menyelamatkannya." link="exo:4,24-25" lang="ind" %}}
+Ialah yang seharusnya menyelamatkan Israel karena perjanjian yang dimiliki Allah dengan umat-Nya, namun {{% bible val="ia lupa menyunat anaknya sendiri — satu-satunya syarat dari perjanjian itu di pihaknya — sehingga istrinya yang bukan orang Israel harus menyelamatkannya" link="exo:4,24-25" lang="ind" %}}.
 
-Apa yang benar-benar harus ia pelajari (dan yang menjadikannya seorang pahlawan) adalah untuk percaya kepada Allah: salah satu contohnya adalah {{% bible val="ia harus melemparkan tongkatnya ke tanah, yang seketika berubah menjadi seekor ular, dan ia harus memegangnya pada ekornya agar berubah kembali menjadi tongkat (setiap anak tahu bahwa ular harus dipegang di kepalanya, jika tidak ia akan menggigit)." link="exo:4,2-5" lang="ind" %}}
+Memercayai Allah adalah sesuatu yang harus ia pelajari. Salah satu contoh yang mengena terjadi {{% bible val="ketika ia melemparkan tongkatnya ke tanah dan tongkat itu berubah menjadi ular, lalu ia diperintahkan untuk memegangnya pada ekor — padahal setiap anak tahu bahwa ular harus ditangkap dari belakang kepalanya, atau ia akan digigit" link="exo:4,2-5" lang="ind" %}}.
 
-Tetapi pada akhirnya semuanya berjalan baik, sebab pahlawan yang sesungguhnya bukanlah Musa, melainkan Allah.
+Pada akhirnya semuanya berjalan baik, sebab pahlawan sesungguhnya dalam kisah ini bukanlah Musa, melainkan Allah.
+
+## Menyelami lebih dalam
+
+{{% int_link val="Nahum Sarna, Exodus, halaman 27–37" link="/about/ressources/index.html#sarna_exo" %}}

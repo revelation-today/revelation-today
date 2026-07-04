@@ -4,5 +4,4 @@ title: "Die Schöpfungsgeschichte"
 weight: 1
 ---
 
-Die Schöpfungsgeschichte bildet die Grundlage für alles in der Bibel. Sie gibt einen tiefen Einblick in das Problem, das die Bibel behandelt.
-So wie die Schöpfungsgeschichte der Anfang der Geschichte ist, so ist die Offenbarung das Ende und das Verständnis des Problems am Anfang hilft uns sehr, die Lösung zu verstehen, die wir am Ende sehen.
+Die Schöpfungsgeschichte legt das Fundament für die ganze Bibel und gibt uns einen tiefen Einblick in das Problem, mit dem sich der Rest der Schrift beschäftigt. So wie die Schöpfung der Anfang der Geschichte ist, ist die Offenbarung ihr Ende — und wer das Problem am Anfang versteht, versteht auch die Lösung, die wir dort finden.

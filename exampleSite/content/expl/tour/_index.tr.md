@@ -6,11 +6,9 @@ next: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelati
 docType: expl
 ---
 
-Açıklamalar boyunca size rehberlik edeceğiz.
+Bu, derinlemesine inceleme bölümü: kitabın bu şekilde okunmasının neden tutarlı olduğuna dair ayrıntılı, kaynaklı bir açıklama - ayet ayet.
 
-Bu size neden bunun iyi bir anlayış olduğunu düşündüğüme dair daha ayrıntılı bir açıklama sunar. Çoğu sayfanın sonunda büyük teologlara ve onların Vahiy Kitabı'na katkılarına atıfta bulunduğum bir bağlantı görüyorsunuz. 
+Çoğu sayfanın sonunda, o sayfadaki argümanın arkasındaki teologlara ve araştırmalara bir bağlantı bulacaksınız. Bir sayfadaki açıklama sizi tam olarak tatmin etmiyorsa, dalmanız gereken kitaplar bunlar - buradaki okuma listesi bilerek kısa tutuldu.
 
-Oradaki açıklamalardan tatmin olmazsanız bu kitaplara dalabilir (kitap sayısını az tutmaya çalıştım) ve oradan daha ayrıntılı bilgi edinebilirsiniz.
-
-Baştan sona okumak isterseniz bu yaklaşık 6 saatinizi alacaktır. Tüm İncil ayetlerini kontrol etmek isterseniz biraz daha uzun sürecektir.
+Baştan sona okumak yaklaşık 6 saatinizi alır. Yol boyunca her İncil referansını kontrol etmek biraz daha uzun sürer.
 

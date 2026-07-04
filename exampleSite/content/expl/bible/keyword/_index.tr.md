@@ -1,10 +1,10 @@
 ---
 linkTitle: "Diğerleri"
-title: "Diğer önemli hikayeler"
+title: "Diğer önemli öyküler"
 weight: 3
 ---
 
-Bazı soruları yanıtlamak için daha önemli hikayeler var
+Birkaç önemli öykü daha, Vahiy'de sürekli karşımıza çıkan soruları yanıtlamamıza yardımcı olur:
 - Babil'in önemi nedir?
 - Balam'ın putperestlikle ne ilgisi vardır?
-- Tapınak hakkında konuştuğumuzda ne kastedilir?
+- Tapınaktan söz ederken ne kastediliyor?

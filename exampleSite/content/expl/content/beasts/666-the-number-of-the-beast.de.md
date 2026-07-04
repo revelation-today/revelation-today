@@ -13,104 +13,102 @@ sources:
       ref: bauckham_climax
 ---
 
-{{% bible val="Die magische Zahl des Tieres" link="rev:13,18" lang="de" %}} wurde (meiner Meinung nach zu Unrecht) benutzt, um die aktuelle Politik durch ein Zahlenschema zu verstehen. Denn die Antwort auf die Frage, was diese Zahl bedeutet, findet sich in der Bibel.
+{{% bible val="Die magische Zahl des Tieres" link="rev:13,18" lang="de" %}} wurde — meiner Meinung nach zu Unrecht — benutzt, um mit diesem oder jenem Zahlenschema die aktuelle Politik zu entschlüsseln. Die wirkliche Antwort findet man nicht durch die Suche außerhalb des Textes — sie steht bereits in der Bibel selbst.
 
-## Einige Basics
+## Einige Grundlagen
 
 <a name="74d6"></a>
-Zunächst brauchen wir etwas Hintergrund:
+Zunächst brauchen wir etwas Hintergrundwissen, bevor wir uns das genauer ansehen:
 
-- [Gematrie](https://de.wikipedia.org/wiki/Gematrie): Dies ist der am häufigsten verwendete Ansatz, um diese Zahl zu verstehen. Man ordnet jedem Buchstaben des Alphabets einen Zahlenwert zu und wenn die Summe 666 ergibt, hat man den Bösewicht gefunden. Wenn sich die gewünschte Zahl nicht ergibt, kann man es mit anderen Sprachen wie Hebräisch, Latein oder Griechisch versuchen. Wenn es dann immer noch nicht klappt, kannst du es mit einer dreifachen 6 versuchen — bei Reagan (Ronald Wilson Reagan, alle Buchstaben haben 6) oder im Internet (www, jeder Buchstabe hat den Wert 6). Mit [etwas Geduld kann man sehr viele Namen auf die 666 projizieren](https://de.wikipedia.org/wiki/Sechshundertsechsundsechzig#Deutungen). Diese Methode wurde so oft missbraucht, so dass ein “Schloss, in das jeder Schlüssel passt, nicht viel wert ist”.
-- Biblische Zahlen: In der Bibel werden Zahlen oft mit Ereignissen in Verbindung gebracht, z.B. {{% bible val="Mose fastete 40 Tage, um das Gesetz zu erhalten" link="exo:34,28" lang="de" %}}, die {{% bible val="Kundschafter beobachteten das Gelobte Land 40 Tage lang " link="num:13,25" lang="de" %}}und wegen ihres {{% bible val="Unglaubens mussten sie 40 Jahre lang durch die Wüste wandern" link="num:14,34" lang="de" %}}. Ist es ein Zufall, dass {{% bible val="Jesus 40 Tage fastete und die Herausforderungen meisterte, an denen Israel scheiterte" link="mat:4,1-11" lang="de" %}}? Die Zahl vierzig scheint sich mit dem [Glauben](https://www.bibleserver.com/search/SLT/40%20Tage) zu tun zu haben. Ebenso hat die Sieben mit Vollständigkeit zu tun, da die {{% bible val="Welt in sieben Tagen erschaffen wurde" link="gen:2,1-3" lang="de" %}}. Die Sechs hingegen bezieht sich auf den Menschen im Gegensatz zu Gott, da er am sechsten Tag erschaffen wurde. Auch {{% int_link val="in der Offenbarung werden Zahlen häufig symbolisch verwendet" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" %}}.
-- Die Offenbarung als Brief: Wir haben gesehen, dass die {{% int_link val="Offenbarung ein Brief ist, und wir daher den Bezug für die ersten Leser erkennen müssen" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}. Was könnte also die Zahl 666 für die damalige Gemeinde bedeutet haben?
+- **Gematrie**: Das ist der gängigste Weg, mit dem Menschen versuchen, die Zahl 666 zu entschlüsseln. Die [Gematrie](https://de.wikipedia.org/wiki/Gematrie) ordnet jedem Buchstaben des Alphabets einen Zahlenwert zu, und wenn die Buchstaben eines Namens 666 ergeben, gilt diese Person als „der Böse”. Passt ein Name nicht, weichen Anhänger dieser Methode auf Varianten des Namens aus, versuchen es in einer anderen Sprache (Hebräisch, Latein, Griechisch) oder greifen auf eine dreifache Sechs zurück — so landete Ronald Wilson Reagan unter Verdacht, das Tier zu sein, weil jeder seiner drei Namen sechs Buchstaben hat. Mit genug Geduld [lassen sich viele Namen aus Geschichte und Gegenwart auf die 666 projizieren](https://de.wikipedia.org/wiki/Sechshundertsechsundsechzig#Deutungen), und genau diese Beliebigkeit ist das Problem: Diese Methode wurde schwer missbraucht, denn ein Schloss, in das jeder Schlüssel passt, ist nicht viel wert.
+- **Zahlen**: In der Bibel sind Zahlen oft an bestimmte Ereignisse gebunden. {{% bible val="Mose fastete 40 Tage, als er das Gesetz am Berg Sinai empfing" link="exo:34,28" lang="de" %}}, {{% bible val="das Volk erkundete 40 Tage lang das neue Land" link="num:13,25" lang="de" %}}, und {{% bible val="wegen ihres Unglaubens mussten sie 40 Jahre in der Wüste umherwandern" link="num:14,34" lang="de" %}}. Ist es Zufall, dass {{% bible val="Jesus 40 Tage in der Wüste fastete und dabei denselben Herausforderungen begegnete" link="mat:4,1-11" lang="de" %}}, an denen Israel in seinen 40 Wanderjahren scheiterte? Man könnte sagen, die Zahl 40 ist mit {{% int_link val="Glaubenstaten" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" %}} verbunden. Ebenso weist die Zahl 7 auf Vollständigkeit und auf Gott hin, {{% bible val="der die Welt in 7 Tagen vollendete" link="gen:2,1-3" lang="de" %}}, während die Zahl 6 auf den Menschen verweist und auf die unvollkommenen Taten der Menschheit, da der Mensch am sechsten Tag erschaffen wurde. {{% int_link val="Mehr über Zahlen." link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" %}}
+- **Ein Brief**: Wir haben bereits gesehen, dass wir {{% int_link val="immer nach Hinweisen Ausschau halten sollten, die für die ursprünglichen Leser relevant waren" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}. Was hätte die 666 also zur Zeit der frühen Gemeinde bedeutet?
 
-## 6–6–6: Das Versagen der unheiligen Dreieinigkeit
+## 6–6–6: Das Versagen der bösen Dreifaltigkeit
 
 <a name="497d"></a>
-Ein Verständnis ergibt sich aus der Geschichte selbst, die {{% int_link val="hier" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} rzählt wird. Sie beschreibt den Versuch des Tieres, die Heilige Dreifaltigkeit nachzuahmen.
+Die erste Art, sie zu verstehen, ergibt sich direkt aus der Geschichte in {{% bible val="Offb. 13" link="rev:13" lang="de" %}} selbst, ausführlicher erklärt in {{% int_link val="einem anderen Artikel" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}: Das ganze Vorhaben des Tieres besteht darin, die Heilige Dreifaltigkeit aus Gott, Jesus und dem Heiligen Geist nachzuahmen.
 
-Aber bei den Heiligen funktioniert diese Täuschung nicht. Jedes Element wird mit einer Zahl „klassifiziert”, die die Überzeugungskraft der Nachahmung bewertet:
+Für Gläubige, die wissen, worauf sie achten müssen, fällt die Täuschung jedoch in sich zusammen, denn jedes Element der Nachahmung erhält eine Note, die bewertet, wie gut die Fälschung wirklich standhält:
 
-- Der Drache: er hat nicht wirklich alle Macht, die er dem ersten Tier geben kann — seine Macht ist nur geliehen (für 42 Monate) -&gt; 6
-- Das erste Tier: es gibt sein Leben aus Liebe zu den Menschen und ist wirklich gestorben. Nein, auch sein Tod war unecht (nur einer von sieben Köpfen) -&gt; 6
-- Das zweite Tier: hat es wirklich Menschen eingeladen und ist es ein Unterstützer wie der Heilige Geist — nein, es handelt mit Angst und Einschüchterung -&gt; 6
+- Der Drache — hält er wirklich die ganze Macht, die das erste Tier hat? Nein: Diese Macht wird ihm nur *gegeben*, und das auch nur für 42 Monate. Note: 6.
+- Das erste Tier — gab es sein Leben wirklich aus Liebe hin, und ist es wirklich gestorben? Nein: Selbst sein Tod war unecht, denn nur ein Kopf wurde tödlich getroffen. Note: 6.
+- Das zweite Tier — lädt es Menschen wirklich ein und berät sie so, wie es der Heilige Geist tut? Nein: Es handelt allein durch Angst und Einschüchterung. Note: 6.
 
-Wenn du gezählt hast, kommst du auch auf 6–6–6, die Zahl des Tieres. Wenn du Gott kennst, wirst du nicht getäuscht. Bleibe in der Liebe und du bist auf der sicheren Seite.
+Zählt man das zusammen, ergibt sich 6-6-6 — die Zahl des Tieres: eine dreifache Note „ungenügend”, ausgerechnet in den Punkten, auf die es bei der Nachahmung am meisten ankommt. Wer den wahren Gott kennt, den kann die Fälschung nicht täuschen. Bleib in der Liebe, und du bist sicher.
 
 ## Die 666 im Zusammenhang
 
 <a name="c413"></a>
-Die Zahl 666 hat einige sehr interessante {{% int_link val="arithmetische Eigenschaften" link="/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation/#f042" %}} und Links innerhalb des Buches der Offenbarung:
+Die Zahl 666 hat auch einige sehr interessante {{% int_link val="arithmetische Eigenschaften" link="/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation/#f042" %}} und Verbindungen an anderen Stellen im Buch der Offenbarung.
 
-- {{% int_link val="666 ist mit der Zahl 8 verwandt" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation/#arithmetics" %}}, die die Zahl der Auferstehung ist (Jesus ist am 8. Tag auferstanden — einen Tag nach dem Sabbat, also am ersten Tag der neuen Woche oder besser gesagt am ersten Tag der neuen Schöpfung!) Das Thema der Auferstehung ist auch in {{% bible val="der Beschreibung des ersten Tieres präsent" link="rev:13,3" lang="de" %}}, aber auch in {{% bible val="der sechsten Schale" link="rev:16,13" lang="de" %}} (Frösche stehen für die ägyptische Göttin der Geburt und Auferstehung) und in der {{% bible val="Beschreibung des Tieres, auf dem die Hure sitzt" link="rev:18,11" lang="de" %}}. Es gibt eine starke Ähnlichkeit zwischen [dieser Passage, die dies als Bedarf an Weisheit beschreibt](https://biblehub.com/interlinear/revelation/13-18.htm), und dem [Bedarf an Weisheit über das Tier, auf dem die Hure sitzt](https://biblehub.com/interlinear/revelation/17-9.htm), das später als einer {{% bible val="der sieben Köpfe (=Könige), aber auch als der achte (König) beschrieben wird" link="rev:17,11" lang="de" %}}!
-- Die Aussage identifiziert dies als die {{% bible val="Zahl eines Menschen" link="rev:13,18" lang="de" %}} und kommt {{% bible val="direkt im Vers vor der Erwähnung der 144.000" link="rev:14,1" lang="de" %}}, 
-was wiederum die 144.000 mit der 144 im neuen Jerusalem verknüpft (der Ort, an dem sie sein werden) verweist, {{% bible val="wo die Mauer als 12\*12=144(!) Einheiten eines Engels gemessen wird" link="rev:21,17" lang="de" %}}. 
-Das zeigt den Unterschied zwischen dem Tier (der erniedrigten Menschheit) und den Zeugen (die mit Engeln identifiziert werden).
+- Die 666 ist mit der Zahl 8 verbunden, die die Bibel mit Auferstehung assoziiert: Jesus stand am achten Tag auf — dem Tag nach dem Sabbat, also dem ersten Tag der neuen Woche, oder besser gesagt, dem ersten Tag der neuen Schöpfung. Auferstehung ist auch auffällig präsent in der {{% bible val="Beschreibung des ersten Tieres" link="rev:13,3" lang="de" %}}, in {{% bible val="der sechsten Schale" link="rev:16,13" lang="de" %}} (deren Frösche für die ägyptische Göttin der Geburt und Auferstehung stehen) und in der {{% bible val="Beschreibung des Tieres, auf dem die Hure sitzt" link="rev:18,11" lang="de" %}}. Es gibt auch eine starke Ähnlichkeit zwischen [dem Ruf nach Weisheit in dieser Passage](https://biblehub.com/interlinear/revelation/13-18.htm) und dem [Ruf nach Weisheit über das Tier, auf dem die Hure sitzt](https://biblehub.com/interlinear/revelation/17-9.htm), das später {{% bible val="als einer der sieben Köpfe (die Könige), aber auch als ein achter König beschrieben wird" link="rev:17,11" lang="de" %}}.
+- Der Text nennt dies eine {{% bible val="Zahl eines Menschen" link="rev:13,18" lang="de" %}} und platziert sie unmittelbar vor der {{% bible val="Erwähnung der 144.000" link="rev:14,1" lang="de" %}}, die ihrerseits auf das Neue Jerusalem vorausweist, {{% bible val="dessen Mauer nach menschlichem Maß mit 12×12=144 Ellen gemessen wird, was zugleich das Maß eines Engels ist" link="rev:21,17" lang="de" %}}. Auch wenn die genaue Bedeutung unklar bleibt, unterstreicht dies denselben Kontrast erneut: Das Tier steht für die erniedrigte Menschheit, während die Zeugen zum Rang von Engeln erhöht werden.
 
-Dies zeigt uns zwei Aspekte
+Zusammen weisen diese beiden Beobachtungen auf zwei Dinge hin:
 
-- Es handelt sich um ein ähnliches Thema wie {{% int_link val="Harmagedon" link="/expl/content/bowls/the-key-to-armageddon" %}}, wo etwas Eindrucksvolles als absolut schwach und das Schwache als überlegen dargestellt wird.
-- Die Passage hier weist auf die Auflösung des Geheimnisses der 666 als achtem König hin.
+- Dies spiegelt das Muster bei {{% int_link val="Harmagedon" link="/expl/content/bowls/the-key-to-armageddon" %}} wider, wo sich das Eindrucksvolle als völlig schwach erweist, während sich das Schwache als überlegen herausstellt.
+- Die Passage bereitet die Auflösung des Geheimnisses der 666 als achtem König vor, die als Nächstes folgt.
 
 ## Der achte König
 
 <a name="22e8"></a>
-Doch wer sollte dieser achte König sein? Die Geschichte von Nero würde dazu sehr gut passen. Es ist bekannt, dass er seine eigene Mutter umgebracht hat, aber andererseits war er bei den Menschen in Rom sehr beliebt. Er entfremdete sich von der römischen Aristokratie, war aber im Osten, insbesondere in Griechenland und bei den Parthern, sehr beliebt und wurde sogar verehrt. Sogar der erste Judäische Krieg fiel in Neros Zeit, die Juden dachten nicht schlecht über ihn, da der Krieg von Vespasian und Titus geführt wurde, aber für die Christen war Nero derjenige, der die ersten Verfolgungen begann und von vielen als der Antichrist verstanden wurde.
+Wer also wäre dieser achte König? Die Geschichte Neros passt bemerkenswert gut. Er war berüchtigt dafür, seine eigene Mutter getötet zu haben, war aber beim einfachen Volk Roms zugleich sehr beliebt. Bei der römischen Aristokratie machte er sich unbeliebt, wurde im Osten dagegen — besonders in Griechenland und bei den Parthern — regelrecht verehrt. Auch wenn der erste jüdische Krieg in Neros Zeit fiel, dachten die Juden nicht schlecht über ihn, da der Krieg selbst von Vespasian und Titus geführt wurde. Für die Christen jedoch war Nero derjenige, der die ersten Verfolgungen auslöste, und viele kamen dazu, ihn als den Antichristen zu sehen.
 
-Als Nero merkte, dass er bald sterben würde, gab es Gerüchte, dass er in den Osten zu seinen Gefolgsleuten gehen würde. Dies geschah jedoch nicht, stattdessen tötete er sich selbst mit einem Dolch, als er umzingelt war und der Senat ihn zum Staatsfeind erklärte. Da er jedoch kein ordentliches Begräbnis erhielt, verbreitete sich der Mythos, dass er gar nicht gestorben sei. In den folgenden Jahren gab es einige Hochstapler, die behaupteten, Nero zu sein, und die oft große parthische Unterstützung erhielten.
+Als Nero merkte, dass er sterben würde, verbreiteten sich Gerüchte, er fliehe in den Osten zu seinen dortigen Verbündeten. Das geschah nie — er wurde umzingelt, der Senat erklärte ihn zum Staatsfeind, und er tötete sich stattdessen mit einem Dolch. Weil er nie ein ordentliches Begräbnis erhielt, verbreitete sich der Mythos, er sei gar nicht gestorben. In den folgenden Jahren traten mehrere Hochstapler auf, die behaupteten, Nero zu sein, und einige von ihnen fanden erhebliche Unterstützung bei den Parthern.
 
-Dadurch wurde der Mythos vom wiederkehrenden Nero aufgefrischt. Da er mit den Parthern in Verbindung gebracht wurde, die eine Gefahr für Rom darstellten, wurde er eher als das Gericht über Rom angesehen.
+Das hielt den Mythos vom wiederkehrenden Nero am Leben. Da er nun mit den Parthern in Verbindung gebracht wurde — einer echten Bedrohung für Rom —, wurde er zunehmend als drohendes Gericht über Rom selbst gesehen.
 
-Sein unklares Ende (ob er tot ist oder nicht) macht die {{% bible val="erste Erscheinung des Tieres zu einer perfekten Ähnlichkeit mit ihm" link="rev:13,3" lang="de" %}}. Aber auch die {{% bible val="sechste Schale" link="rev:16,12" lang="de" %}} bezieht sich mit auf Nero, da dies einen Angriff der Parther beschreiben könnte.
+Sein unklares Ende, ob er nun wirklich tot war oder nicht, macht die {{% bible val="Erscheinung des ersten Tieres zu einem perfekten Abbild von ihm" link="rev:13,3" lang="de" %}}. Auch {{% bible val="die sechste Schale" link="rev:16,12" lang="de" %}} könnte in dieselbe Richtung weisen, da sie durchaus einen Angriff der Parther beschreiben könnte.
 
 ## Der Kaiser Trajan
 
 <a name="0a94"></a>
-Da wir mit der Gematrie begonnen haben, beginne ich aus folgenden Gründen mit einem Aspekt, der in diese Kategorie fällt:
+Da die Gematrie zu Beginn dieses Abschnitts zur Sprache kam, lohnt sich der Hinweis auf eine Gestalt, die aus zwei Gründen in diese Kategorie fällt:
 
-- Er ist für die ersten Leser relevant, da er zu dieser Zeit lebte.
-- Es {{% int_link val="spiegelt den doppelten Angriff des Tieres wieder" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
+- Er ist für die ersten Leser relevant, weil er zu ihrer eigenen Zeit lebte, und
+- er {{% int_link val="spiegelt den zweifachen Angriff des Tieres wider" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-Die Figur beschreibt den Kaiser [Trajan](https://de.wikipedia.org/wiki/Trajan) sehr gut, da
+Die Person, auf die diese Beschreibung passt, ist Kaiser [Trajan](https://de.wikipedia.org/wiki/Trajan), der:
 
-- er in dieser Zeit lebte (Kaiser von 98–117),
-- er die Verfolgung der Christen unterstützte, wenn sie sich nicht unterwarfen,
-- er als einer der [5 guten Kaiser](https://de.wikipedia.org/wiki/Trajan#Der_%E2%80%9Ebeste_Kaiser%E2%80%9C) galt aufgrund seiner militärischen Erfolge (unter seiner Herrschaft hatte Rom seine größte Ausdehnung), er ein Wohlfahrtsprogramm schuf, große Bauprojekte hatte und viel in Spiele investierte, was alles den [Römischen Frieden darstellt](https://de.wikipedia.org/wiki/Trajan#Der_%E2%80%9Ebeste_Kaiser%E2%80%9C).
+- zu dieser Zeit lebte (Kaiser von 98–117), was ihn zu einer passenden Illustration macht,
+- die Verfolgung der Christen unterstützte, wenn sie sich nicht fügten, und dennoch
+- als einer der [fünf guten Kaiser](https://de.wikipedia.org/wiki/Trajan#Der_%E2%80%9Ebeste_Kaiser%E2%80%9C) galt: Unter seiner Herrschaft erreichte das Römische Reich seine größte Ausdehnung, er richtete ein umfangreiches Wohlfahrtsprogramm ein, führte große Bauprojekte durch und investierte erheblich in öffentliche Spiele — all das Ausdruck des [Römischen Friedens](https://de.wikipedia.org/wiki/Pax_Romana).
 
 ## Daniels Freunde im Feuerofen
 
 <a name="92ea"></a>
-Eine andere Referenz ist die {{% bible val="Geschichte von Daniels Freunden im Feuerofen" link="dan:3" lang="de" %}}. Es gibt sehr viele Parallelen zum zweiten Tier. Wir haben die Statue, die von allen angebetet werden soll, und wer das nicht tut, wird durch Feuer getötet. Noch interessanter sind die {{% bible val="Maße der Statue" link="dan:3,1" lang="de" %}}: 60x6x6.
+Die zweite Referenz ist die Geschichte von {{% bible val="Daniels Freunden im Feuerofen" link="dan:3" lang="de" %}}, die viele Parallelen zum zweiten Tier aufweist. Auch hier gibt es eine Statue, die alle anbeten müssen, und wer beim Ungehorsam ertappt wird, wird durch Feuer getötet. Besonders interessant sind die {{% bible val="Maße der Statue" link="dan:3,1" lang="de" %}}: 18 Meter hoch, 1,80 Meter breit und tief.
 
-Der interessante Teil kommt, wenn die Freunde mit den Konsequenzen konfrontiert werden, wenn {{% bible val="sie die Statue nicht anbeten: “Wir vertrauen Gott, SELBST WENN ER UNS NICHT RETTET”" link="dan:3,16-18" lang="de" %}}. Diese 666 berührt den Aspekt unserer Reaktion auf Verfolgung. In der Offenbarung werden Abweichler getötet, oder können nicht mehr kaufen oder verkaufen, haben also große finanzielle Probleme. Die Geschichte erinnert uns daran, dass wir treu sein sollen, auch wenn Gott nicht eingreift, um uns zu helfen.
+Noch interessanter ist, wie die Freunde reagieren, als sie damit konfrontiert werden, {{% bible val="die Statue nicht angebetet zu haben" link="dan:3,16-18" lang="de" %}}: 'Wir vertrauen darauf, dass Gott uns retten kann — aber selbst wenn nicht, werden wir treu bleiben.' Hier berührt die 666 unsere eigene Reaktion auf Unterdrückung: Wer nicht mitmacht, wird getötet oder kann zumindest nicht kaufen oder verkaufen und gerät in echte finanzielle Not. Der Aufruf hier lautet, treu zu bleiben, auch wenn Gott nicht sichtbar eingreift.
 
-Aber was hat das mit dem Tier zu tun? Wir sehen es am Ende der Geschichte von Daniel. Als die Freunde treu blieben, kam einer wie ein „Sohn der Götter” und blieb bei ihnen bis zum Ende. In Schwierigkeiten können wir sicher sein, dass Jesus bei uns ist, und im nächsten Kapitel der Offenbarung wird alles auf den Kopf gestellt, und Satan und seine Anhänger kommen in echte Schwierigkeiten, während die Heiligen gut davonkommen.
+Aber was hat das mit dem Tier zu tun? Sieh dir an, wie die Geschichte in Daniel endet. Weil die Freunde treu blieben, wurden sie bewahrt — „einer wie der Sohn Gottes” stand mit ihnen im Feuer —, und die Geschichte endet mit einem guten Ausgang. In Schwierigkeiten können wir ebenso gewiss sein, dass Jesus bei uns ist, und das nächste Kapitel der Offenbarung dreht den Spieß auf dieselbe Weise um: Die Anhänger des Teufels geraten am Ende in ernsthafte Schwierigkeiten, während die Gläubigen gut davonkommen.
 
 ## Salomos Reichtum
 
 <a name="e63a"></a>
-Die nächste Referenz steht als Zahl am Anfang der {{% bible val="Zusammenfassung" link="1ki:10,14-29" lang="de" %}} von Salomos Leben. Es sind die letzten Worte, bevor {{% bible val="sein völliges Versagen beschrieben wird" link="1ki:11,1-13" lang="de" %}}.
+Die dritte Referenz zur 666 erscheint genauso ausgeschrieben in der Bibel, in der {{% bible val="Zusammenfassung des Lebens von König Salomo" link="1ki:10,14-29" lang="de" %}}, gleich zu deren Beginn — dem letzten Höhepunkt vor {{% bible val="der Beschreibung seines katastrophalen Scheiterns" link="1ki:11,1-13" lang="de" %}}.
 
-Warum geht es bei der Geschichte von Salomo? Sie beginnt als eine Geschichte der Gnade Gottes und beginnt mit {{% bible val="Bathseba" link="2sa:11" lang="de" %}}, in der {{% bible val="David nach Nathans Zurechtweisung sein Kind mit Bathseba verliert" link="2sa:12,1-23" lang="de" %}}, aber {{% bible val="Gott ihm ein anderes Kind schenkt, das Gottes Liebe zeigt: Salomo" link="2sa:12,24-25" lang="de" %}}. Nachdem Salomo den Thron bestiegen hat, bittet er {{% bible val="Gott um ein einsichtiges Herz anstelle von Reichtum und Macht. Da er so bittete, gibt ihm Gott auch diese beiden" link="1ki:3" lang="de" %}}.
+Was ist die Geschichte von Salomo? Sie beginnt mit der {{% bible val="Geschichte von Batseba" link="2sa:11" lang="de" %}}, die dazu führte, dass {{% bible val="Nathan ihn zurechtwies und das aus dieser Sünde geborene Kind starb" link="2sa:12,1-23" lang="de" %}} — doch {{% bible val="Gott schenkte ihm mit Batseba ein weiteres Kind, ein Zeichen von Gottes eigener Liebe" link="2sa:12,24-25" lang="de" %}}. Nachdem er inthronisiert worden war, {{% bible val="bat er Gott um ein verständiges Herz anstelle von Reichtum und Macht — und weil er darum bat, gab Gott ihm obendrein alle Macht und allen Reichtum" link="1ki:3" lang="de" %}}.
 
-Aber mit der Zeit sah er Gott als Quelle seines Segens, und der Segen bekam mehr sein Interesse als die Beziehung zu Gott. Am Ende war das sein {{% bible val="Untergang" link="1ki:11,1-13" lang="de" %}}. Oder findest du es nicht merkwürdig, dass {{% bible val="da genau 666 Schekel stehen, während alle anderen Zahlen gerundet sind" link="1ki:10,14" lang="de" %}}?
+In der Folge sah er Gott zunächst als Quelle seines Segens, doch der Segen selbst wurde ihm nach und nach wichtiger als die Beziehung zu Gott, und am Ende war das {{% bible val="sein Untergang" link="1ki:11,1-13" lang="de" %}}. Und wirkt es nicht merkwürdig, dass {{% bible val="er jährlich genau 666 Schekel Silber erhielt" link="1ki:10,14" lang="de" %}}, während jede andere Zahl in diesem Kapitel gerundet ist?
 
 ## Schlussfolgerung
 
 <a name="1275"></a>
-Was bedeutet das für die ersten Leser und für uns heute?
+Was ist also die Kernaussage, sowohl für die ersten Hörer als auch für uns?
 
-- Die Zahl 666 zeigt, dass das allmächtige und alles beherrschende Tier nicht so mächtig ist und dass die Heiligen keine Angst haben müssen, getäuscht zu werden.
-- Wir können stark sein und müssen uns nicht von Furcht leiten lassen, wenn es hart auf hart kommt (Verfolgung, Angst vor Tod und finanziellem Ruin) und Gott nicht erscheint und eingreift wie bei Daniel.
-- Wir sollen uns auch nicht von den Versprechungen des Satans verführen lassen und meinen, man könne Gott doch noch folgen, also das Beste von Gott und der gottlosen Dreieinigkeit nehmen, so wie Salomo versagt hat.
-- Ganz praktisch sieht man das bei Trajan in der Zeit, der Wohlstand und Sicherheit brachte, aber das Blut der Heiligen an seinen Händen hatte.
+- Die 666 zeigt, dass das große, überwältigende, alles beherrschende Tier letztlich ein Versager ist, sodass die Gläubigen keine Angst haben müssen.
+- Wir müssen stark bleiben und dürfen uns nicht von Furcht überwältigen lassen, wenn es hart auf hart kommt — Verfolgung, Todesangst, wirtschaftlicher Ausschluss —, selbst wenn Gott nicht sichtbar eingreift; das ist die Lektion von Daniels Freunden.
+- Wir sollten uns nicht von einem verlockenden Kompromiss verführen lassen, indem wir uns einreden, wir würden Gott weiterhin folgen, während wir in Wirklichkeit versuchen, das Beste aus Gott und der Welt herauszuholen — so wie Salomos Kompromiss ihn am Ende scheitern ließ.
+- Trajan veranschaulicht dieselbe Gefahr in seiner eigenen Zeit: Er schien Wohlstand und Sicherheit zu bringen, hatte aber das Blut der Christen an seinen Händen.
 
-Nach diesem Verständnis wollen wir nach den {{% int_link val="Prinzipien der 666" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} Ausschau halten und beurteilen, ob wir
+Es lohnt sich also, heute zu prüfen, wo wir dieselben {{% int_link val="Prinzipien der 666" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} um uns herum am Werk sehen, und zu beurteilen, ob sie:
 
-- wir diesen göttlichen Prinzipien folgen und bestehen oder
-- ob wir den Prinzipien Satans folgen, die verlockend klingen, uns aber letztlich ruinieren und von Gott entfernen.
+- Gottes Prinzipien folgen und deshalb Bestand haben werden, oder
+- den Prinzipien des Teufels folgen, die jetzt verlockend aussehen mögen, aber im Desaster enden und uns von Gott wegziehen werden.
 
-Frage dich nach diesem, ob du noch glaubst, dass die 666 und das Zeichen auf Hand und Stirn ein Computerchip sein könnte. Welche Informationen könnten auf einem solchen Chip gespeichert sein, die nicht schon längst durch unsere Lebensweise verfügbar sind?
+Wer meint, die 666 beziehe sich auf einen Computerchip, der irgendwann implantiert wird, sollte sich stattdessen fragen: Welche Information könnte ein solcher Chip liefern, die nicht schon längst verfügbar ist durch
 
 - Deine Google-Suchergebnisse,
 - Browserverlauf,

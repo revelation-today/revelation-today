@@ -4,8 +4,8 @@ title: "The harvest of the nations (Ch.14)"
 weight: 13
 ---
 
-After the impressive powerplay of the dragon and the two beasts the statement is clear: The saints are victorious but in an unusal way. Their strength is that they are loyal to Jesus.
+After the impressive display of power from the dragon and the two beasts, the message of this chapter is clear: the saints win, but in an unusual way — their strength is loyalty to Jesus, not resistance by force.
 
-Anybody thinking going the easy way and making compromises with the dragon will suffer the consequences.
+Anyone tempted to take the easier road and compromise with the dragon will face the consequences.
 
-And finally comes the big judgment in this part: The nations will either be collected as saved or for judgment. 
+And finally comes the great judgment of this section: the nations are gathered in, either for salvation or for judgment.

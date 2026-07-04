@@ -2,7 +2,7 @@
 title: "Cawan-Cawan Murka"
 weight: 2
 base: /quick/content/harvest
-story: /story/tour
+story: /story/content/bowls
 prev: /expl/content/harvest/gods-army-and-the-seven-angels
 next: /expl/content/bowls/the-key-to-armageddon
 docType: expl
@@ -15,7 +15,7 @@ sources:
       ref: beale_rev
 ---
 
-Cawan-cawan murka dalam Kitab Wahyu memberi kesan bahwa Allah marah kepada orang-orang yang tidak bertobat dan meluapkan amarah-Nya. Namun ini jauh dari kebenaran.
+Cawan-cawan murka dalam Kitab Wahyu bisa memberi kesan seolah-olah Allah akhirnya kehabisan kesabaran terhadap dunia yang tidak mau mendengar, dan melampiaskan satu ledakan amarah terakhir. Namun kesan itu justru terbalik - kebenarannya lebih dekat kepada yang sebaliknya.
 
 ## Baik Dibaca Sebelumnya
 
@@ -25,35 +25,30 @@ Cawan-cawan murka dalam Kitab Wahyu memberi kesan bahwa Allah marah kepada orang
 ## Latar Belakang
 
 <a name="3526"></a>
-Cawan-cawan ini, seperti rangkaian lainnya, juga berasal dari {{% bible val="ruang takhta" link="rev:15,1-5" lang="ind" %}} Allah. Tujuh malaikat datang, dan salah satu dari {{% bible val="empat makhluk (yang mewakili ciptaan)" link="rev:4,7" lang="ind" %}} {{% bible val="menyerahkan cawan-cawan itu kepada mereka" link="rev:15,6-7" lang="ind" %}}, yang merupakan perspektif menarik: apakah {{% bible val="ciptaan memohon kepada Allah" link="rom:8,19-22" lang="ind" %}} untuk {{% bible val="mengakhiri semuanya" link="rev:15,1" lang="ind" %}}?
+Sama seperti kedua rangkaian tulah lainnya, cawan-cawan murka ini juga berasal dari {{% bible val="ruang takhta Allah" link="rev:15,1-5" lang="ind" %}}. Tujuh malaikat muncul, dan salah satu dari {{% bible val="empat makhluk hidup (yang mewakili ciptaan)" link="rev:4,7" lang="ind" %}} {{% bible val="menyerahkan cawan-cawan murka itu kepada mereka" link="rev:15,6-7" lang="ind" %}} - suatu perincian yang menarik, sebab hal ini memunculkan pertanyaan apakah ini adalah {{% bible val="ciptaan itu sendiri yang memohon kepada Allah" link="rom:8,19-22" lang="ind" %}} untuk {{% bible val="mengakhiri semuanya" link="rev:15,1" lang="ind" %}}.
 
-“Murka Allah akan digenapi di dalamnya.” Apakah murka Allah itu? [Itu adalah dorongan penuh gairah untuk menyelesaikan masalah dunia dan tidak berhenti sampai hal itu terselesaikan](https://moodyaudio.com/products/good-and-beautiful-god-part-6).
+Cawan-cawan ini menggenapi murka Allah. Jadi, apa sebenarnya murka Allah itu? Itu adalah [ambisi penuh kasih-Nya untuk menyelesaikan persoalan dunia, dan Ia tidak berhenti sampai persoalan itu benar-benar terselesaikan](https://moodyaudio.com/products/good-and-beautiful-god-part-6).
 
-Mungkin engkau sudah menyadari bahwa ketujuh cawan dan {{% int_link val="ketujuh sangkakala" link="/expl/content/trumpets/the-trumpets-in-revelation" %}} memiliki banyak kesamaan, dan keduanya berkaitan dengan {{% int_link val="Keluarnya bangsa Israel dari Mesir" link="/expl/bible/exodus/the-plagues-in-egypt" %}}. Jadi murka Allah berkaitan dengan doa-doa orang-orang kudus. Sungguh pemikiran yang luar biasa! {{% bible val="Rencana Allah dipengaruhi oleh doa-doa kita" link="gen:18,20-33" lang="ind" %}}.
+Engkau mungkin sudah menyadari bahwa ketujuh cawan ini memiliki banyak kesamaan dengan {{% int_link val="ketujuh sangkakala" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, dan bahwa kedua rangkaian itu erat kaitannya dengan {{% int_link val="tulah-tulah di Mesir" link="/expl/bible/exodus/the-plagues-in-egypt" %}}. Namun yang menyatukan cawan-cawan ini adalah: murka Allah berkaitan erat dengan doa-doa orang-orang kudus. Sungguh sebuah pemikiran yang luar biasa - {{% bible val="rencana Allah dipengaruhi oleh doa-doa kita" link="gen:18,20-33" lang="ind" %}}.
 
 ## Cawan-Cawan Itu
 
 <a name="9855"></a>
-{{% bible val="Cawan pertama" link="rev:16,2" lang="ind" %}} ditujukan kepada semua orang yang telah menerima {{% bible val="tanda binatang itu" link="rev:12,16-17" lang="ind" %}} ({{% int_link val="simbol kesetiaan" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}). Inilah yang paling menjadi fokus Allah: [bagaimana mungkin manusia mempercayai sesuatu yang pada akhirnya justru menghancurkan mereka?](https://www.bibleserver.com/SLT/Offenbarung6%2C1-11) Terutama jemaat yang membiarkan dirinya disesatkan, padahal mereka mengetahui nasib Iblis.
+{{% bible val="Cawan pertama" link="rev:16,2" lang="ind" %}} menimpa semua orang yang telah menerima {{% bible val="tanda binatang itu" link="rev:12,16-17" lang="ind" %}} ({{% int_link val="sebuah simbol kesetiaan" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}). Inilah yang paling menjadi perhatian Allah: [bagaimana mungkin manusia terus mempercayai sosok yang pada akhirnya hanya mendatangkan kehancuran?](https://www.bibleserver.com/NIV/Revelation6%3A1-11) Pertanyaan itu berlaku terutama bagi jemaat, yang sudah mengetahui bagaimana kisah Iblis akan berakhir.
 
-{{% bible val="Cawan kedua dan ketiga" link="rev:16,3-7" lang="ind" %}} adalah reaksi Allah terhadap mereka yang telah membungkam para saksi-Nya (kita). Allah tidak berdiam diri. Ia tidak membalas dengan kematian, melainkan memaksa orang untuk merenung. Cawan kedua mungkin merujuk kepada {{% bible val="tulah pertama di Mesir" link="exo:7,17" lang="ind" %}} ({{% int_link val="pembunuhan atas dewa-dewa Mesir" link="/expl/bible/exodus/the-plagues-in-egypt" %}}) dan menunjukkan bahwa Iblis terungkap sebagai sosok yang tidak berdaya dan destruktif.
+{{% bible val="Cawan kedua dan ketiga" link="rev:16,3-7" lang="ind" %}} menjawab pembungkaman terhadap para saksi Allah - yaitu kita. Allah tidak berdiam diri; Ia membalas, tetapi bukan dengan membunuh. Sebaliknya, Ia memaksa orang untuk merenung. Jika dibaca dalam terang {{% bible val="tulah pertama di Mesir" link="exo:7,17" lang="ind" %}} ({{% int_link val="pembunuhan atas sumber para dewa Mesir" link="/expl/bible/exodus/the-plagues-in-egypt" %}}), cawan kedua menyingkapkan Iblis dengan cara yang sama: tidak berdaya dan semata-mata bersifat merusak.
 
-{{% bible val="Cawan keempat dan kelima" link="rev:16,8-11" lang="ind" %}} membahas tema yang serupa: {{% int_link val="pengerasan hati manusia" link="/expl/bible/exodus/the-hardening-of-pharaohs-heart" %}}. Manusia lebih memilih menderita daripada memberikan kemuliaan kepada Allah. Itu adalah pilihan mereka sendiri. {{% bible val="Mereka lebih memilih dibutakan oleh Iblis dan binasa bersamanya daripada merendahkan diri di hadapan Allah" link="rev:16,13-16" lang="ind" %}}.
+{{% bible val="Cawan keempat dan kelima" link="rev:16,8-11" lang="ind" %}} mengangkat tema yang berkaitan: {{% int_link val="pengerasan hati manusia" link="/expl/bible/exodus/the-hardening-of-pharaohs-heart" %}}. Ketika diberi pilihan, manusia lebih memilih menderita daripada memberikan kemuliaan kepada Allah - dan itulah tepatnya pilihan mereka. Mereka {{% bible val="lebih memilih ditipu oleh Iblis dan binasa bersamanya daripada merendahkan diri di hadapan Allah" link="rev:16,13-16" lang="ind" %}}.
 
-{{% bible val="Cawan keenam dan ketujuh" link="rev:16,12-21" lang="ind" %}} akhirnya menggambarkan kehancuran kerajaan Iblis beserta sekutu-sekutunya. Ini adalah yang terakhir, setelah Allah mencoba segala cara agar mereka
-
-- meninggalkan kesetiaan mereka kepada Iblis (cawan pertama),
-- mendengarkan para saksi Allah (cawan kedua dan ketiga),
-- melunakkan dan merendahkan hati mereka (cawan keempat dan kelima),
-- supaya mereka tidak dibutakan (cawan keenam),
+{{% bible val="Cawan keenam dan ketujuh" link="rev:16,12-21" lang="ind" %}} akhirnya menggambarkan kehancuran kerajaan Iblis beserta semua yang bersekutu dengannya. Itulah tahap terakhir dari sebuah rangkaian yang telah dibangun Allah sejak awal: pertama Ia memanggil manusia untuk berhenti bersumpah setia kepada Iblis (cawan pertama), kemudian untuk mendengarkan para saksi-Nya (cawan kedua dan ketiga), lalu untuk melunakkan dan merendahkan hati mereka (cawan keempat dan kelima), supaya mereka tidak tertipu (cawan keenam).
 
 ## Cawan Keenam
 
 <a name="9ced"></a>
-Sekarang kita perlu mengamati cawan keenam ini lebih saksama.
+Cawan keenam ini layak untuk diamati lebih saksama secara tersendiri.
 
-{{% bible val="Sungai Efrat mengering, sehingga membuka jalan bagi raja-raja dari timur" link="rev:16,12" lang="ind" %}}. Ini adalah pernyataan ironis yang sudah mengantisipasi kekalahan di Harmagedon, sebab menurut penulis sejarah Herodotus, Babel ditaklukkan oleh [orang Persia (dari timur) dengan mengalihkan aliran Sungai Efrat](https://www.oekumenisches-handbuch-online.de/babylon/babylon-mythos-und-wirklichkeit/die-eroberung-der-stadt-babylon-durch-die-perser/) (yang merupakan pertahanan alami kota itu). (Peristiwanya mungkin berlangsung berbeda, tetapi itulah gambaran umum pada zaman ketika Kitab Wahyu ditulis.)
+{{% bible val="Sungai Efrat dikeringkan untuk membuka jalan bagi raja-raja dari timur." link="rev:16,12" lang="ind" %}} Ini adalah pernyataan ironis yang mengantisipasi kisah Harmagedon. Menurut sejarawan Herodotus, Babel jatuh ke tangan orang Persia (yang datang dari timur) setelah mereka [mengalihkan aliran Sungai Efrat, yang selama ini menjadi pertahanan alami kota itu](https://en.wikipedia.org/wiki/Fall_of_Babylon#Historiography). Catatan itu mungkin akurat secara sejarah, mungkin juga tidak, tetapi itulah gambaran yang umum dipercaya pada zaman Kitab Wahyu ditulis - dan justru karena itulah gambaran ini begitu mengena.
 
-Begitu pula {{% bible val="tiga ekor katak yang keluar dari mulut naga itu" link="rev:16,13" lang="ind" %}} dan para pengikutnya memiliki latar belakang yang menarik. Katak adalah representasi dari [Heket, dewi kesuburan dan kebangkitan](https://de.wikipedia.org/wiki/Heket). Di sini ada kaitan dengan tulah kedua dan {{% bible val="sifat tak terkalahkan dari binatang pertama" link="rev:13,3-4" lang="ind" %}}.
+{{% bible val="Ketiga ekor katak yang keluar dari mulut sang naga dan para sekutunya" link="rev:16,13" lang="ind" %}} juga memiliki latar belakang yang menarik. Katak adalah hewan yang dikaitkan dengan [Heqet, dewi kesuburan dan kelahiran, yang juga dipercaya memiliki kuasa kebangkitan](https://en.wikipedia.org/wiki/Heqet) - yang menjadikan katak sebagai simbol yang tepat di sini, sebab {{% bible val="di sinilah tepatnya binatang yang telah bangkit itu mengklaim dirinya tak terkalahkan" link="rev:13,3-4" lang="ind" %}}.
 
-{{% bible val="Berkumpulnya pasukan-pasukan di Harmagedon" link="rev:16,14-16" lang="ind" %}} dikontraskan dengan {{% bible val="berkumpulnya burung-burung di pasal 19" link="rev:19,17-18" lang="ind" %}}, yang membuat kekalahan Iblis semakin ironis, sebab tampaknya pasukan Iblis dihancurkan oleh beberapa ekor burung saja.
+Satu ironi lagi menutup adegan ini. Berkumpulnya pasukan-pasukan di Harmagedon kelak tercermin dalam berkumpulnya burung-burung di pasal 19, dan kesejajaran itu membuat kekalahan Iblis semakin tajam: kesan yang tertinggal adalah bahwa pasukannya yang telah dikumpulkan itu pada akhirnya dikalahkan oleh tidak lebih dari sekumpulan burung.

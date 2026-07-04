@@ -15,33 +15,33 @@ sources:
       ref: beale_rev
 ---
 
-Ada sebuah kitab kecil yang harus dimakan oleh Yohanes, dan ada rahasia ketujuh guntur. Apa maknanya?
+Pasal 10 berpusat pada sebuah kitab kecil yang harus dimakan oleh Yohanes, dan pada rahasia ketujuh guntur, yang dimeteraikan tepat pada saat mereka berbicara. Apa makna kedua hal yang aneh ini?
 
 ## Motivasinya
 
 <a name="4809"></a>
-Setelah sangkakala keenam, tampaknya tidak ada apa pun lagi yang dapat menghalangi manusia untuk berpaling kepada roh-roh jahat yang menghancurkan mereka. Karena itu, ada sisipan panjang di antara sangkakala keenam dan ketujuh menjelang akhir pasal 11.
+Setelah sangkakala keenam, tampaknya tidak ada lagi apa pun yang dapat menyelamatkan manusia dari roh-roh jahat yang sedang membinasakan mereka: sembilan tulah telah datang dan berlalu, dan manusia tetap tidak bertobat. Jalan buntu itulah sebabnya mengapa pasal 10 dan 11 membentuk sebuah sisipan panjang di antara sangkakala keenam dan ketujuh — sangkakala ketujuh baru berbunyi menjelang akhir pasal 11.
 
-Harus ada sesuatu yang menyelamatkan manusia dari kehancuran mereka sendiri, dan itulah kesaksian setia jemaat — yang digambarkan melalui kedua saksi yang berakar dalam penyembahan kepada Allah.
+Dibutuhkan sesuatu selain penderitaan untuk membuat manusia berpaling kembali kepada Allah, dan teksnya menunjukkan jawabannya: kesaksian setia jemaat, yang digambarkan melalui kedua saksi yang kesaksiannya berakar dalam penyembahan kepada Allah, bukan dalam bencana.
 
 ## Malaikat dengan Kitab Kecil Itu
 
 <a name="9ea4"></a>
-Untuk itu muncullah seorang malaikat di atas awan putih. Entah ia adalah Yesus sendiri atau seorang malaikat yang mewakili-Nya: ia berkaitan erat dengan Yesus. Kehadiran sebuah kitab kecil juga menghubungkan peristiwa di sini dengan pasal 5, di mana Yesus membuka kitab dengan ketujuh meterai.
+Untuk memungkinkan kesaksian itu, muncullah seorang malaikat di atas awan putih. Entah ini Yesus sendiri atau seorang malaikat yang mewakili-Nya, adegan ini jelas terkait erat dengan-Nya — begitu pula kitab kecil yang dibawanya, yang mengingatkan kita pada kitab yang dibuka Yesus dahulu di pasal 5.
 
-Kitab kecil ini bukanlah kitab yang sama seperti dalam pasal 5, tetapi ada hubungannya. Di sini kitab yang lebih kecil ini harus dimakan oleh Yohanes agar ia menjadi saksi — sedangkan dalam pasal 5, tujuannya adalah untuk menyingkapkan kedok Iblis.
+Ini bukan kitab yang sama, tetapi ada hubungannya. Kitab di pasal 5 hanyalah "sebuah kitab", yang dibuka oleh Yesus untuk menyingkapkan kejatuhan Iblis; kitab yang ini secara jelas lebih kecil, dan alih-alih dibuka, kitab ini dimakan — oleh Yohanes, yang mewakili jemaat — supaya dapat diubah menjadi kesaksian.
 
-Dalam pasal 5, intinya adalah bahwa Yesus telah menang di kayu salib. Tetapi di sini, intinya adalah bahwa jemaat masih harus melakukan sesuatu yang menentukan bagi penggenapan rencana Allah.
+Hubungan antara keduanya adalah soal skala: Yesus telah mengalahkan Iblis di kayu salib, dan kemenangan itulah peristiwa utamanya. Yang tersisa adalah tugas yang lebih kecil, tetapi tetap penting, yang harus dilaksanakan jemaat demi menggenapi rencana Allah sepenuhnya.
 
-Sebagai penegasan, malaikat itu menaruh satu kaki di laut dan kaki yang lain di darat, untuk menunjukkan bahwa ia memiliki otoritas dan bahwa jemaat tidak perlu takut, sebab dalam pasal 13, kedua tempat itulah asal munculnya kedua binatang itu.
+Malaikat itu menegaskan bahwa jemaat tidak perlu takut menghadapi tugas ini dengan cara menaruh satu kaki di laut dan satu kaki di darat — tanah yang sama yang kelak, di pasal 13, akan melahirkan kedua binatang itu. Berdiri di atas keduanya adalah cara untuk menegaskan otoritas atas keduanya.
 
-Dan kemudian ada ketujuh guntur yang berbicara. Yohanes sangat ingin tahu apa yang mereka katakan, tetapi ia diperintahkan untuk memeteraikannya. Kita dapat berspekulasi, tetapi kita tidak akan dapat menerkanya sampai Allah menyingkapkannya kepada kita.
+Kemudian muncullah ketujuh guntur. Apa pun yang mereka katakan begitu menggoda rasa ingin tahu kita justru karena kita tidak pernah diberi tahu: Yohanes diperintahkan untuk memeteraikan perkataan mereka, bukan menuliskannya. Kita boleh berspekulasi sepuas-puasnya tentang isinya, tetapi kita tidak akan mengetahuinya sampai Allah berkenan menyingkapkannya.
 
 ## Memakan Kitab Kecil Itu
 
 <a name="e70c"></a>
-Yohanes diperintahkan untuk memakan gulungan kitab ini. Hal ini mengingatkan kita pada Yehezkiel, yang juga harus memakan sebuah gulungan kitab. Maksudnya adalah untuk menghayati isinya, yang kemudian harus ia beritakan. Demikian pula halnya dengan Yohanes: ia harus menghayati gulungan kitab itu. Tetapi apa isinya?
+Yohanes diperintahkan untuk memakan kitab itu, sebuah gambaran yang mengingatkan kita pada Yehezkiel yang memakan gulungan kitabnya sendiri: dalam kedua kasus itu, sang nabi harus menghayati pesan itu terlebih dahulu sebelum ia dapat memberitakannya. Yohanes melakukan hal yang sama di sini, menjadikan kitab itu miliknya sendiri sebelum ia dapat meneruskannya. Jadi, apa sebenarnya isi kitab itu?
 
-Isinya menggambarkan apa yang telah dilakukan Yesus (manis di mulut) dan apa akibatnya, yaitu penghakiman atas dunia (pahit di perut), serta apa artinya menjadi saksi di dunia ini, tempat seseorang dibenci oleh dunia dan tidak diperlakukan lebih baik daripada Yesus.
+Rasanya menceritakan kisahnya. Manis di mulut — yaitu apa yang telah dikerjakan Yesus — dan pahit di perut: penghakiman yang masih akan datang atas dunia, serta harga yang harus dibayar karena bersaksi kepada dunia yang membenci jemaat karena kesaksian itu, kebencian yang tidak boleh dibalas setimpal oleh jemaat, sebab jemaat dipanggil untuk mengikuti jejak Yesus, bukan untuk mengancam sebagaimana Ia diancam.
 
-Tetapi apa sebenarnya isi kitab kecil itu? Untuk itu kita harus membaca pasal-pasal berikutnya. Singkatnya: digambarkan bahwa melalui kesaksian jemaat, bangsa-bangsa akan dijangkau, dan hal itu akan berhasil.
+Jadi, apa sebenarnya kitab kecil ini? Pasal-pasal berikutnya menjawab pertanyaan ini dengan menunjukkannya dalam tindakan: inilah kesaksian yang dibawa jemaat kepada bangsa-bangsa, dan yang pada akhirnya akan disampaikan jemaat secara tuntas.

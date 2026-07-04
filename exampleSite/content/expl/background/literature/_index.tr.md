@@ -4,12 +4,11 @@ title: Ne okuyorum ben?
 weight: 2
 ---
 
-Bir kitabın ne tür bir edebiyat olduğunu anlamak, pek çok yanlış anlamayı önler.
+Bir kitabın hangi tür edebiyata ait olduğunu anlamak, birçok yanlış anlamanın önüne geçer.
 
-Size basit bir örnek vereyim: Pavlus İsa'nın ölümden dirildiğini söylediğinde, bu bir Hıristiyan için tartışılmaz bir gerçektir, ancak İsa'nın Damaskus'tan Kudüs'e giden bir adam olduğunu söylediğinde bu doğru olmayabilir. Bu nasıl olabilir? Bunu İsa'nın kendisi söyledi. Ama daha önce bir benzetme anlattığını söylemişti.
+İşte basit bir örnek: Pavlus, İsa'nın ölümden dirildiğini söylediğinde, bu bir Hıristiyan için pazarlığa açık olmayan bir gerçektir. Ama İsa'nın kendisi, Şam'dan Yeruşalim'e giden bir adam olduğunu söylediğinde, bu öykünün doğru olması için harfiyen gerçekleşmiş olması gerekmez — çünkü İsa bize önceden bunun bir benzetme olduğunu söylemiştir. Aynı kategori, "İsa'nın söylediği bir şey", ama iki çok farklı gerçeklik iddiası; çünkü tür farklıdır.
 
-Kitaba baktığımızda bunun basit bir yanıt olmadığını göreceğiz, çünkü bu kitap üç türden oluşmaktadır:
-- bir mektup - orada yazılanlar ilk okuyucular için geçerli olmalıdır (4-20. bölümler dahil)
-- amacı kehanette bulunmak değil, bildirilen geleceği önlemek için kışkırtmak olan bir kehanet, Yunus'un öyküsüne bakın
-- bir kıyamet - bu düşündüğünüz şey değil, provokatif direniş edebiyatının bir türü
-
+Vahiy Kitabı da bize basit bir yanıt vermez, çünkü kitap aslında aynı anda üç türden oluşur:
+- bir mektup — yazılan her şey ilk okuyucular için geçerli olmalıydı; bu da yalnızca 1–3. bölümleri değil, 4–20. bölümlerdeki malzemeyi de kapsar
+- bir kehanet — amacı geleceği önceden bildirmek değil, bildirilen geleceği önleyecek bir değişimi kışkırtmaktır; Yunus'un öyküsünde olduğu gibi
+- bir kıyamet — çoğu insanın bu kelimeden anladığı şey değil, kışkırtıcı bir direniş edebiyatı türü

@@ -4,8 +4,6 @@ title: Israel
 weight: 5
 ---
 
-Apakah Israel itu dan siapa yang termasuk ke dalam Israel?
+Apakah Israel itu, dan siapa sebenarnya yang termasuk ke dalamnya? Jawabannya ternyata lebih menarik — dan tidak sesederhana yang mungkin dipikirkan orang — bahkan di dalam Perjanjian Lama sendiri.
 
-Ini adalah topik yang sangat menarik dan bahkan di dalam Perjanjian Lama pun tidak sesederhana yang mungkin dipikirkan orang.
-
-Kita akan meluangkan sedikit waktu untuk menyelidiki hal ini, mulai dari pemahaman ketimuran tentang keluarga dan perjanjian hingga zaman Yesus.
+Untuk sampai ke sana, kita akan menelusurinya dari dasar: dimulai dari bagaimana keluarga dan perjanjian berfungsi di dunia Timur Dekat kuno, lalu mengikuti benang itu hingga ke zaman Yesus.

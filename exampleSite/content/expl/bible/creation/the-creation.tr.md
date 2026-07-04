@@ -8,100 +8,81 @@ next: /expl/bible/creation/the-temple-and-the-presence-of-god
 docType: expl
 ---
 
-Kutsal Kitap’ın sonunu anlamak için Kutsal Kitap’ın başlangıcını da anlamanız gerekir. Düşüş öyküsünde gördüğümüz yaşam ağacının ya da Kabil’deki işaretin Vahiy Kitabı’nda tekrar gösterildiğini biliyor muydunuz?
+Kutsal Kitap'ın sonunu anlamak için önce başlangıcını anlamak gerekir. Düşüş öyküsündeki yaşam ağacının ve Kabil'e verilen işaretin, ikisinin de Vahiy kitabında yeniden karşımıza çıktığını biliyor muydunuz?
 
 ## Şiir
 
-<a name="da4c"></a>
-Antik mitolojilerde yaratılış genellikle tanrılar arasındaki bir kavganın yan ürünüydü ve bir kaostan ortaya çıkmıştı.
+<a name="5b27"></a>
+İsrail'i çevreleyen antik mitolojilerde yaratılış, genellikle tanrılar arasındaki bir savaşın yan ürünüydü ve kaostan doğardı.
 
-Ancak İncil’deki yaratılış bir şiir olarak yazılmıştır (nakarat “Tanrı gördü ve iyi oldu, ve akşam ve sabah, … gün oldu”) bir sanat eseri olarak.
+Kutsal Kitap bunu farklı anlatır: oradaki yaratılış bir şiir olarak yazılmıştır, kendi tekrarlanan nakaratıyla — "Tanrı bunun iyi olduğunu gördü, akşam oldu, sabah oldu, ... gün" — ve bütün anlatı bir sanat eseri olarak işlenmiştir.
 
-Bu kasıtlı ve tasarlanmış bir şeydi. İlk üç günde yaratılışın evleri (ışık, su, toprak), sonraki üç günde sakinleri (güneş/ay/yıldızlar, balıklar, kara ve hava hayvanları) ve son olarak özet dinlenme, Şabat.
+Ayrıca açıkça kasıtlı ve tasarlanmıştır: ilk üç gün yaratılışın "evlerini" (ışık, su, toprak) oluşturur, sonraki üç gün bunları sakinleriyle doldurur (güneş, ay ve yıldızlar; balıklar; kara ve hava hayvanları), yedinci gün ise Şabat ile geri kalan her şeyi özetler.
 
-Ve her şey iyiydi. Erkek ve kadın Tanrı’nın temsilcileri olarak (Tanrı’nın suretinde yaratıldılar) her şeyin yöneticisi olarak belirlendi. Erkek ve kadın Tanrı’yı temsil etmek üzere eşit olarak yaratılmıştır.
+Ve hepsi çok iyiydi. Tanrı'nın suretinde yaratılmış temsilcileri olan erkek ve kadın, her şeyin üzerine yöneticiler olarak yerleştirildi — ikisi de Tanrı'yı temsil etmek üzere eşit olarak yaratıldı.
 
 ## Dram
 
-<a name="7aea"></a>
-Bir sonraki bölüm yaratılış hikayesinden ortaya çıkan bir dramadır. Şiir yapının inşasını anlatırken, drama niyeti anlatır ve insan ve Cennet ile başlar.
+<a name="91ed"></a>
+Yaratılış kitabının bir sonraki bölümü, yaratılış anlatısından doğan bir dramadır. Şiir yapıyı ortaya koyarken, dram niyeti ortaya çıkarır ve öykü, adamla ve Aden bahçesiyle başlar.
 
-İnsanın tek bir konuda özgürlüğü vardı: iyiyle kötüyü bilme ağacından yememeliydi.
+Adamın tam bir özgürlüğü vardı, tek bir kısıtlama dışında: iyiyle kötüyü bilme ağacından yememeliydi.
 
-İnsan her şeye sahipti: bahçeyi ekip biçme ve koruma görevi, yaratıcı mülkiyet (hayvanlara isim ve kimlik verebilirdi), Tanrı ile yakın ilişki, ama bir şey eksikti: Tanrı’nın iyi değil dediği tek şey.
+Geri kalan her şeye sahipti — bahçeyi işleyip koruma görevi, hayvanlara isim vererek (ve böylece onlara kimlik kazandırarak) ifade edilen yaratıcı bir sahiplik, ve Tanrı'yla yakın bir ilişki. Ama tek bir şey hâlâ eksikti, Tanrı'nın iyi demediği tek şey: yalnızdı.
 
-Tanrı ilişki içinde yaşar ve bununla tanımlanır (Tanrı dilsizdir ve sevgi sadece ilişki içinde anlam kazanır) ama insan yalnızdı. Bu yüzden Tanrı bir eş aradı ama bulamadı, bu yüzden ondan kadını yarattı. Adam şaşırdı ve ona “vay canına” dedi, ama Tanrı ona en iyi “hayat kurtarıcı” olarak çevrilebilecek “Yardımcı” adını verdi. Ve işte düşüş başladı. Sadece bir devrilme taşına ve yılanın şekline ihtiyaç vardı.
+Tanrı'nın kendisi ilişki içinde var olur ve bununla tanımlanır — Tanrı sevgidir, ve sevgi ancak ilişki içinde anlam kazanır — bu yüzden adam için bir eş aradı, hayvanlar arasında uygun birini bulamadı ve onun yerine ondan kadını yarattı. Adam hayrete düştü ve ona "vay canına kadın" dedi, ama Tanrı ona "yardımcı" adını verdi — daha iyi bir çeviriyle "hayat kurtarıcı." Ve düşüş tam da burada başlar: geriye kalan tek şey bir kırılma noktası ve bir yılanın biçimidir.
 
-## Devrilme taşı
+## Kırılma noktası
 
-<a name="2fce"></a>
-Yılan kadına yaklaştı (erkeğe değil) ve ona iyiyle kötüyü bilme ağacı hakkında meydan okudu. Gördüğümüz gibi kadın bu ağaçtan en ufak bir şey yememek için çok dikkatliydi. Bunun asla gerçekleşmemesini sağlamak için koruyucu (ya da erkek) olarak kendi başına başka bir emir yarattı: buna dokunma.
+<a name="3f85"></a>
+Yılan, adama değil kadına yaklaşır ve onu iyiyle kötüyü bilme ağacı konusunda sınar. Kadının asıl buyruğu çiğnememek için ne kadar dikkatli olduğuna dikkat edin: ondan hiçbir zaman yememeyi güvence altına almak için, muhtemelen adam adına bir koruyucu olarak, kendi buyruğunu ekler — ona dokunmamak.
 
-Şeytan buna meydan okuyabilirdi ve meyvenin görünüşü güzel olduğu ve yediği için yeni emir yardımcı olmadı.
+Şeytanın tam olarak istismar ettiği şey bu ek buyruktur ve bu, gerçek bir koruma sağlamaz: meyve göze hoş görünür ve kadın onu yer.
 
-Ve adama verdi. Etrafta dolaşıp onu bulmasına gerek yoktu çünkü o her zaman oradaydı ve sessizdi. Erkek “hatırlamak” anlamına geldiği için bu çok zorlayıcı bir düşüncedir. Yani eğer bir şeyde iyi olması gerekiyorsa, Tanrı’nın ne dediğini ve kim olduğunu hatırlamalıdır.
+Sonra onu adama verir — ve adamın bulunmasına gerek yoktur, çünkü zaten baştan beri oradadır, sessizce. Bu sessizlik anlamlıdır, çünkü İbranicede "erkek" sözcüğü "hatırlamak" anlamını da taşır. Eğer onun iyi olması gereken bir şey varsa, o da Tanrı'nın ne dediğini ve kendisinin kim olduğunu hatırlamaktır. Bunun yerine, ikisi de başarısız olur. Sonuç utançtır ve utanç onları Tanrı'dan saklanmaya ve birbirlerini suçlamaya iter — dokunduğu her ilişkiyi kırar.
 
-Ama ikisi de başarısız olur. Bunun sonucunda Tanrı’nın önünde saklanmalarına ve birbirlerini suçlamalarına neden olan utanç ortaya çıkar. Utanç tüm ilişkileri bozmuştur.
+## Tanrı'nın kurtarma planı
 
-## Tanrı kurtarma planı
+<a name="deaf"></a>
+Tanrı onları doğrudan ifşa edebilirdi, ama yapmaz. Bunun yerine bilmiyormuş gibi davranır ve sorar: "Adem, neredesin?" — Adem'in utancından çıkıp Tanrı'yla açık yüreklilikle konuşması için mükemmel bir fırsattır bu.
 
-<a name="af3c"></a>
-Tanrı onları açığa çıkarabilirdi ama yapmamaya karar verdi. Safı oynar ve sorar: Adem neredesin? Adem’in utancından çıkıp Tanrı’yla paylaşması için mükemmel bir fırsat.
+Ama Adem yalnızca utancının belirtilerine işaret eder: çıplak olduğu için saklandığını söyler, oysa daha önce de çıplaktı ve hiç utanmamıştı. Bu yüzden Tanrı daha doğrudan sorar: sana yememeni söylediğim ağaçtan mı yedin?
 
-Adem yalnızca utancının belirtilerine işaret eder. Çıplak olduğu için saklanıyordu. Daha önce de çıplaktı ve utanç duymuyordu.
-
-Bu yüzden Tanrı daha doğrudan sordu: Yememen gereken ağaçtan mı yedin?
-
-Adam itiraf etmiyor, kendisi dışında herkesi suçluyor: Senin bana verdiğin kadın. Aslında Tanrı’yı ve çok hayran olduğu kadını suçluyor.
-
-Kadın sadece ağaçtan yediğini kabul eder ama bunu erkeğe vermek istemez.
+O zaman bile Adem itiraf etmez — kendisi dışında herkesi suçlar: "*bana verdiğin* kadın." Tek bir cümlede hem Tanrı'yı hem de az önce hayranlık duyduğu kadını suçlamayı başarır. Kadın ise yalnızca ağaçtan yediğini kabul eder, onu adama verdiğini değil.
 
 ## Sonuç
 
-<a name="a510"></a>
-Tanrı yılanı hiçbir rahatlatıcı koşul olmaksızın yargılar. Kadın, yılanı yok edecek olan kurtarıcıyı doğurma vaadini alır.
+<a name="9174"></a>
+Tanrı yılanı, hafifletici tek bir söz bile söylemeden yargılar ve kadının, onu yok edecek kurtarıcıyı doğuracağını vaat eder.
 
-Erkeğin yargısı sorunun nerede olduğunu gösterir: Çünkü sen kadının sesini dinledin!
+Adamın yargısı, gerçek sorunu adlandırır: "çünkü karının sözünü dinledin." Kadın, Tanrı'dan gelen bir hediye, gerçekleşmiş bir düştü — ama adam, kadının kendisini Tanrı'ya yaklaştırmasına izin vermek yerine, Tanrı'nın hediyesinin Tanrı'nın yerini almasına izin verdi. Tanrı'nın sözü yerine kadının sözüne itaat etti. Meyve, zaten var olan bir sorunu ortaya çıkarmaktan başka bir şey yapmadı: adam, kadını Tanrı'ya yönlendirmemişti zaten. Bunun yerine kadının kendisine öncülük etmesini bekledi — ki bu rol ona hiç verilmemişti — ve sonunda yılan tarafından yönlendirildi, yani adamın kendisine egemenlik verildiği bir yaratık tarafından.
 
-Kadın, Tanrı’dan aldığı bir rüyanın gerçekleşmesiydi. Ama onu Tanrı’ya yaklaştırmak yerine Tanrı’nın yerine Tanrı’nın armağanını koydu.
+## Akıl almaz olan
 
-Tanrı’nın sözüne değil, kadının sözüne itaat etti. Meyve sadece zaten var olan sorunu göstermek için oradaydı: Adam kadını Tanrı’ya doğru yönlendirmedi, onun önderliğini bekledi ama bu ona verilmedi, bu yüzden kadın yılan tarafından yönlendirildi — adamın üzerinde egemenliği olan bir yaratık.
-
-## Akla hayale gelmeyen
-
-<a name="2639"></a>
-Bahçeyi terk etmeleri gerekir, ancak bundan önce utançları hayvan derileriyle örtülür. Hayvan derileri ağaçta yetişmediği için bu çok önemli bir düşüncedir. Tanrı’nın kendi yarattıklarına zarar vermesi ve insanların utancını örtmek için hayvanların ölmesine izin vermesi gerekiyordu. Kadın ve erkek yerine bu hayvanlar ölmüştür ve bu giysileri giymek onlara bunu asla unutturmamalıdır.
+<a name="ac70"></a>
+Bahçeyi terk etmeleri gerekir, ama önce utançları örtülür — hayvan postlarıyla. Bir an durup düşünün, çünkü hayvan postları ağaçta yetişmez. Tanrı, adamla kadının utancını örtmek için kendi yaratılışına zarar vermek ve hayvanların ölmesine izin vermek zorunda kalır. O hayvanlar onların yerine ölür ve postlarından yapılan giysiler, Adem'le Havva'nın bunu hiç unutmamasını sağlamak içindir.
 
 ## Yeni bir başlangıç
 
-<a name="1c54"></a>
-Bahçeden ayrıldıktan sonra Havva hamile kaldı ve önemli bir açıklama yaptı: Tanrı’dan bir çocuğum var. Belli ki Âdem’den olmuştu ama Kabil (hazine) ismi onun bunun arkasındaki düşüncesini gösterir. Belki de Kabil onun bahçeye dönüş biletiydi çünkü o yılanı yok eden Thebens olabilirdi. İkinci doğan çocuğa Habil (hiçbir şey) adını verdiğinde bu daha da belirginleşir.
+<a name="e861"></a>
+Bahçeden ayrıldıktan sonra Havva hamile kalır ve çarpıcı bir açıklama yapar: "Rab'bin yardımıyla bir çocuk edindim." Bu açıkça Adem'in çocuğuydu, ama ona verdiği isim — "hazine" anlamına gelen Kabil — asıl ne düşündüğünü gösterir. Belki de Kabil'in, bahçeye dönüş bileti, yılanı yok edecek vaat edilen kurtarıcı olacağını umuyordu. Bu umut, ikinci oğluna "hiçlik" ya da "buhar" anlamına gelen Habil adını verdiğinde daha da netleşir.
 
 ## Patlama
 
-<a name="9584"></a>
-Kabil için tüm beklentilerin üzerinde olduğu kişi olmak ve Habil için de kendisinden hiçbir şey beklenmeyen kişi olmak zordu. Her ikisi de ebeveynlerinin onlara yüklediği kayıplardan dolayı acı çektiler, ancak bu sayede birbirlerini kıyaslamaya da başladılar.
+<a name="bf83"></a>
+Kabil için ebeveynlerinin tüm beklentisini taşımak zordu, Habil için ise üzerine hiçbir beklenti konulmaması bir o kadar zordu. Her iki kardeş de ebeveynlerinin onlara yüklediği kayıptan acı çekti ve bu kayıp onları birbirleriyle kıyaslanmaya itti.
 
-Bir gün Kabil tahıldan, Habil koyundan birer kurban kesmişler ve Tanrı Habil’in kurbanını kabul etmiş, Kabil’inkini etmemiş. Öfkelendi. Sorun neydi?
+Bir gün ikisi de birer sunu getirir — Kabil ekinden, Habil sürüsünden — ve Tanrı Habil'inkini kabul eder, Kabil'inkini etmez. Kabil öfkeyle dolar.
 
-Kayin bunun nedenini anlamadı ama Habil bunu Tanrı’nın Aden’de yaptıklarını hatırlamak için kasıtlı olarak yapmış olabilir.
+Sorun neydi? Kabil bunun nedenini anlamış görünmüyor, ama Habil sunusunu belki de kasıtlı olarak, Tanrı'nın Aden'de ebeveynlerinin utancını örtmek için yaptığını anarak sunmuştur.
 
-Kayin öfke içindeydi ve burada Tanrı hemen müdahale ederek Kayin’i uyarır. Günah bu durumda yanlış bir eylem olarak değil, bir amacı olan niyet olarak tanımlanır.
-
-Ancak Kabil bunu duymaz ve kardeşini öldürür. Kabil yüzleştirildiğinde, pişman olur ve sonuçlarını taşıyamayacağını hisseder, Tanrı onu koruduğuna dair bir işaret yapar.
+Kabil'in öfkesi büyürken, Tanrı hemen araya girip onu uyarır. Dikkat çekicidir ki, günah burada zaten işlenmiş bir eylem olarak değil, hâlâ şekillenmekte olan bir amaçla bir niyet olarak tanımlanır. Kabil dinlemez ve kardeşini öldürür. Karşısına çıkarıldığında pişman olur ve yaptıklarının sonuçlarına dayanamayacağını hissederken, Tanrı ona koruyucu bir işaret koyar.
 
 ## Skandal
 
-<a name="dce8"></a>
-Kain’in soyu daha da büyür ve şehirlere ve yeniliklere sığınır. Adem’den sonra yedinci nesilde gerçek yüzünü gösteren Lamech gelir.
+<a name="d090"></a>
+Kabil'in soyu büyümeye devam eder, kentlerde ve uygarlığın yeniliklerinde sığınak bulur. Sonra, Adem'den sonraki yedinci kuşakta, Lemek gerçek yüzünü gösterir.
 
-İki karısı olduğu bildirilen ilk kişidir ve atası Kabil’in üzerindeki Tanrı işaretiyle alay eder.
+Kayıtlara geçen, iki eş alan ilk adamdır ve atası Kabil'e Tanrı'nın koyduğu koruyucu işaretle açıkça alay eder. Zaten bir adam öldürmüştür — o işaretin önlemesi gereken tam da o şeyi — ve kendisine dokunacak herkesin karşılaşacağı sonuçların, Tanrı'nın Kabil için vaat ettiği sonuçlardan çok daha büyük olacağını böbürlenerek söyler. Tanrı'nın kendisinden daha büyük olduğunu mu iddia ediyor?
 
-- Zaten birini öldürmüştü, Tanrı’nın işareti başka bir cinayetten kaçınmaktı.
-- Lamech’in sonuçları Tanrı’nın sonuçlarından çok daha büyük olacak, o Tanrı’dan daha mı büyük?
-
-Ama aynı zamanda gülünç durumdalar
-
-- Bunu tüm dünyaya söylemiyor ama sadece karısının önünde övünme cesaretini gösteriyor.
-- Peki Lamech öldürüldüğünde intikamını tam olarak kim alacak? Karısı mı?
-
+Ve yine de, kendi tarzında bir gülünç durumdadır da. Bu böbürlenmeyi dünyaya ilan etmeye cesaret edemez — yalnızca karısına, özel olarak söyler. Peki birisi Lemek'i öldürürse, tam olarak onun öcünü kim alacaktır? Karıları mı?

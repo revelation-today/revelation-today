@@ -9,38 +9,37 @@ docType: expl
 appl: /appl/content/paradise
 ---
 
-Was sind Himmel und Hölle? Kommen alle Menschen in den Himmel? Wenn nicht, wie kann ein guter Gott Menschen in die Hölle schicken?
+Was sind Himmel und Hölle? Kommen alle Menschen in den Himmel? Wie kann ein guter Gott Menschen in die Hölle schicken?
 
 ## Himmel und das Neue Jerusalem
 
 <a name="2f63"></a>
-Der Himmel wird von den meisten Menschen als ein Ort verstanden, an dem alle Menschen glücklich sind und ein gutes Leben führen, weil sie sich im irdischen Leben gut verhalten haben. Die Hölle dagegen ist der Ort, an dem Menschen leiden und gequält werden, weil sie böse sind. Aber das stimmt so nicht.
+Der Himmel wird meist als ein Ort vorgestellt, an dem Menschen glücklich sind und gut leben, weil sie gut waren, und die Hölle als ein Ort, an dem Menschen leiden und gequält werden, weil sie böse waren. Aber dieses populäre Bild trifft nicht ganz das, was die Offenbarung beschreibt.
 
-Die Offenbarung beschreibt den Himmel mit verschiedenen Matephoren: In Kapitel {{% bible val="7" link="rev:7,9-17" lang="de" %}} sehen wir die Heiligen getröstet, und in Kapitel {{% bible val="21" link="rev:21" lang="de" %}} wird der Himmel durch das Neue Jerusalem auf eine andere Art beschrieben. Aber alle diese Beschreibungen haben eines gemeinsam: Sie sind stark mit der Gemeinschaft mit Gott verbunden.
+Das Buch malt den Himmel mit ein paar unterschiedlichen Bildern: In Kapitel {{% bible val="sieben" link="rev:7,9-17" lang="de" %}} werden die Heiligen getröstet, und in Kapitel {{% bible val="21" link="rev:21" lang="de" %}} beschreibt das Neue Jerusalem den Himmel sehr viel ausführlicher. Beide Beschreibungen laufen auf einen zentralen Punkt zusammen: Der Himmel ist durch die Gemeinschaft mit Gott bestimmt.
 
-Darüber hinaus wird das {{% bible val="Neue Jerusalem auch als die Braut Christi beschrieben" link="rev:21,2" lang="de" %}}, was einen noch intimeren Eindruck in der Beziehung zu Gott vermittelt.
+Diese Nähe tritt noch deutlicher hervor, sobald man bemerkt, dass das {{% bible val="Neue Jerusalem als die Braut Christi beschrieben wird" link="rev:21,2" lang="de" %}}.
 
-Außerdem ist die Sprache von Kapitel 21 sehr stark von der Beschreibung des Tempels geprägt, dem Ort, an{{% int_link val=" dem Israel Gemeinschaft mit Gott hatte" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}. Der Tempel wiederum ist ein Abbild von Eden. Nicht nur das, das Neue Jerusalem has die Form eines {{% bible val="Kubus" link="rev:21,16" lang="de" %}}. Und das einzige Object im Alten Testament, das {{% bible val="diese Form hatte, war das Allerheiligste" link="2ch:3,8" lang="de" %}}, das so sehr von der Gegenwart Gottes erfüllt war, dass der lediglich Hohepriester es nur einmal im Jahr betreten durfte.
+Die Sprache von Kapitel 21 schöpft außerdem stark aus dem Tempel, {{% int_link val="dem Ort, an dem Israel Gemeinschaft mit Gott hatte" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} – und der Tempel selbst ist ein Abbild Edens. Die Form des Neuen Jerusalems macht diese Verbindung ausdrücklich: Es ist ein {{% bible val="Würfel" link="rev:21,16" lang="de" %}}, und das {{% bible val="einzige Objekt im Alten Testament mit dieser Form ist das Allerheiligste" link="2ch:3,8" lang="de" %}}, der Ort, an dem Gott wohnte – ein Raum, so sehr von seiner Gegenwart durchdrungen, dass nur der Hohepriester ihn betreten durfte, und das auch nur einmal im Jahr.
 
-Das Neue Jerusalem oder der Himmel wird als ein Ort der größten Nähe zu Hott beschrieben.
+Das Neue Jerusalem, also der Himmel, wird also als der Ort größtmöglicher Nähe zu Gott beschrieben.
 
 ## Hingabe
 
 <a name="477f"></a>
-Das Thema des Tempels wird auch in Kapitel 11 behandelt, wo der Tempel mit Anbetung in Verbindung gebracht wird, was wiederum eine Beschreibung von Treue und Hingabe ist, wenn man das Kapitel zu Ende liest.
+Das Tempelthema taucht in Kapitel elf erneut auf, wo es mit Anbetung verknüpft wird – und, liest man das Kapitel bis zum Ende, mit einer Treue, die selbst bis in den Tod hält.
 
-Während das Neue Jerusalem als ein Würfel beschrieben wird, ist ALLES außerhalb dieses Würfels die Hölle. Man ist also entweder ganz draußen oder ganz drinnen. Aber ist das nicht etwas extrem?
+Das Neue Jerusalem ist ein Würfel, und alles außerhalb davon ist die Hölle. Mit anderen Worten: Man ist entweder ganz drinnen oder ganz draußen. Das mag extrem klingen, ist es aber nicht, sobald man erkennt, worum es hier eigentlich geht: um Priorität. Wenn du dich nicht voll und ganz einer Sache hingibst, bedeutet das, dass dir etwas anderes wichtiger ist oder du ihr nicht vollständig vertraust – und das ist die entscheidende Frage in jeder Beziehung, auch in dieser.
 
-Ehrlich gesagt, nein. Denn hier geht es um die Priorität. Wenn man sich Gott nicht völlig hingibt, dann gibt es etwas, das für diese Person wichtiger ist und/oder etwas, dem sie mehr vertraut. Und das ist der Schlüssel in jeder Beziehung. Da der Himmel für die Ewigkeit ist, sollte man dort bleiben, auch wenn das Herz woanders ist.
-
-## Was ist dann die Hölle?
+## Worum geht es bei der Hölle?
 
 <a name="2be6"></a>
-Die Hölle lässt sich sehr einfach beschreiben. Sie ist der Ort ohne Beziehung zu Gott.
+Die Hölle lässt sich also ganz einfach beschreiben: Sie ist der Ort, an dem es keine Beziehung zu Gott gibt.
 
-Aber warum sollte es ein schlechter Ort sein? Weil alles Gute von Gott kommt. Ich spreche hier von Dingen, die wir für selbstverständlich halten, wie Hoffnung, Freude, Sinn oder Vergebung. Wir erfahren sie hier auf Erden, weil dies der Ort ist, an dem Gott um uns wirbt. Aber diese Zeit wird zu Ende gehen, und dann sind wir entweder mit Gott oder ohne Gott.Ohne Gott gibt es die Abwärtsspirale von Unvergebenheit, Bitterkeit, Hoffnungslosigkeit und Angst.
+Genau deshalb ist sie ein so schlimmer Ort. Alles Gute hat seinen Ursprung in Gott – auch die Dinge, die wir für selbstverständlich halten oder von denen wir annehmen, wir könnten sie selbst kontrollieren oder hervorbringen, wie Hoffnung, Freude, Frieden, Sinn oder Vergebung. Wir erfahren diese Dinge hier auf der Erde, weil dies der Ort ist, an dem Gott um uns wirbt. Aber diese Zeit wird enden, und dann werden wir entweder mit Gott sein oder ohne ihn – eine dritte Möglichkeit gibt es nicht.
 
-Gott wird niemanden zu einer Beziehung mit ihm zwingen. Wenn wir nicht ganz bei ihm sind, wird er uns gehen lassen. Aber die Konsequenz ist ein Leben ohne ihn und damit auch ein Leben ohne seine Gaben, die unser Leben wie die Hölle aussehen lassen. Wir haben das in der Schöpfungsgeschichte gesehen, wo der Mensch die Gaben Gottes wichtiger fand als Gott.
+Ohne Gott bleibt eine Abwärtsspirale aus Unversöhnlichkeit, Bitterkeit, Hoffnungslosigkeit und Furcht.
 
-Der Begriff Hölle wird oft als Drohung benutzt, um Angst zu erzeugen: Wenn du dich nicht bekehrst und Christ wirst, kommst du in die Hölle. Nun, das ist nicht ganz falsch, aber {{% int_link val="Angst und Manipulation sind die Werkzeuge Satans," link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} nicht der Gemeinde, die ihr {{% int_link val="Zeugnis" link="/appl/topics/power/the-power-of-testimony" %}} nutzt.
+Gott wird niemanden zur Gemeinschaft mit sich zwingen. Wenn wir nicht ganz bei ihm sein wollen, lässt er uns gehen – aber die Folge ist ein Leben ohne ihn und damit ohne seine Gaben, und genau das lässt dieses Leben im Bereich der Hölle verbleiben.
 
+Die Hölle wird oft als Drohung eingesetzt, um Angst zu erzeugen: Kehr um und werde Christ, sonst kommst du in die Hölle. Angesichts all dessen ist diese Behauptung nicht direkt falsch, aber sie verfehlt den Punkt. {{% int_link val="Angst und Manipulation sind Kennzeichen des Tieres" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} in der Offenbarung, nicht der Gemeinde. Das entscheidende Kennzeichen der Gemeinde ist stattdessen ihr {{% int_link val="Zeugnis" link="/appl/topics/power/the-power-of-testimony" %}}, das sie als {{% int_link val="Zeugin" link="/expl/content/witnesses/the-two-witnesses" %}} trägt.

@@ -13,76 +13,43 @@ docType: expl
 appl: /appl/background/israel
 ---
 
-{{% int_link val="Eski zamanlarda bir ailede olmak hayatta kalmak için gerekliydi" link="/expl/background/israel/the-role-of-family-in-the-bible" %}} (tedarik, koruma, …) ve önemli bir ailede olmak daha da iyiydi.
+{{% int_link val="Eski zamanlarda bir ailede olmak hayatta kalmak için gerekliydi" link="/expl/background/israel/the-role-of-family-in-the-bible" %}} — bu, geçim, koruma ve daha pek çok şey anlamına geliyordu — ve önemli bir ailede olmak daha da iyiydi. Ama doğru aileye doğmadıysanız bir aileye nasıl katılırdınız? Kutsal Kitap dört kapı tanır: evlilik, doğum, evlat edinme ve antlaşma.
 
-Ama bir aileye nasıl katılırsınız? Evlilikle, orada doğarak, evlat edinilerek ve bir SÖZLEŞME ile.
-
-## Tarihi sözleşmeler
+## Tarihi antlaşmalar
 
 <a name="909f"></a>
-Tarihsel olarak iki tür antlaşma vardır:
+Tarihsel olarak iki tür ittifak vardı. Birincisi eşitler arasındaydı; askeri ittifak ve karşılıklı destek sağlardı, bu tür bir antlaşmanın tarafları "kardeş" olarak da adlandırılabilirdi. İkincisi güçlü ile zayıf arasındaydı — bir fetih antlaşması — ve burada güçlü taraf efendi ya da baba, zayıf taraf ise köle ya da oğul olarak adlandırılırdı.
 
-- eşitler arasında (askeri ittifak, destek, kardeş olarak da adlandırılır)
-- güçlü ve zayıf arasında (fetih, efendi ve köle veya baba ve oğul olarak adlandırılır)
+İsrail'in Tanrı'yla ilişkisini anlamak için en önemlisi bu ikinci türdür, çünkü bir ülke diğerini fethettiğinde genellikle uygulanan model buydu. Güçlü ulusun zayıf toprak ve halk üzerinde yetkisi vardı — bir kukla kral atanabilir, fethedilen ulus haraç ödemeye zorlanırdı. Ama aynı zamanda güçlü ulus, zayıf ulusu düşmanlarına karşı korumak için askeri destek sağlamakla *yükümlüydü*. Neden? Çünkü zayıf taraf artık onların malıydı, fiilen aileleriydi ve insan kendi ailesini savunur.
 
-Şimdi ikinci tipe bir göz atalım. Bu normalde bir ülkenin diğerini fethetmesi durumunda söz konusu olur.
+Bu dinamiği {{% bible val="Givonluların Yeşu’yu kandırarak onunla bir antlaşma yapmasını sağladıkları olayda" link="jos:9" lang="tr" %}} görürüz: antlaşma bir kez var olunca Yeşu onunla bağlıydı, bu yüzden daha sonra {{% bible val="Amorlular’ın saldırısına uğradıklarında, onlardan hoşlanmasa bile Yeşu, Givonlular’ı korumak zorundaydı" link="jos:10,1-14" lang="tr" %}}.
 
-- Güçlü olanın toprak ve insanlar üzerinde otoritesi vardı (bir kral kurar ve toprağın sahibi olur),
-- zayıf olanı askerler ve haraçlarla destekler ve
-- güçlü olan zayıf olanı korumakla yükümlüdür.
+Bu yapı, birden fazla antlaşma etrafındaki kuralları da açıklar. Zayıf tarafın başka biriyle antlaşma yapmasına izin verilmezdi — çünkü tek bir babanız olabilir — oysa eşitler arasındaki antlaşmalar serbestçe çoğalabilirdi, çünkü birden fazla kardeşiniz olabilir. Bir babanın ise birçok oğlu olabileceğinden, güçlü bir ulus aynı anda birkaç zayıf ulusla birkaç antlaşma sürdürebilirdi. Zayıf taraf antlaşmayı bozarsa — genellikle haraç ödemeyi reddederek — sonucu toprağını kaybedip sürgüne gitmekti.
 
-{{% bible val="Bir örnek olarak Yeşu ve Givonlular onu kandırarak" link="jos:9" lang="tr" %}} bir antlaşma yapmasını sağladılar.{{% bible val=" Saldırıya uğradıklarında, onlardan hoşlanmasa bile onları koruması gerekiyordu." link="jos:10,1-14" lang="tr" %}}
+Kutsal Kitap bu doğrultuda halklar arasındaki antlaşmalarla doludur: {{% bible val="İbrahim ve Abimelek" link="gen:21,22-32" lang="tr" %}}, {{% bible val="İshak ve Filistliler" link="gen:26,12-33" lang="tr" %}}, {{% bible val="Yakup ve Laban" link="gen:31,22-54" lang="tr" %}}, {{% bible val="Gilead" link="1sa:11,1-11" lang="tr" %}} adamları ve {{% bible val="Ahab" link="1ki:20,1-34" lang="tr" %}}.
 
-Zayıf olan sözleşmeyi bozarsa (normalde haraç ödemeyi bıraktığında) bu toprağı kaybederdi. Sadece bir babanız olabileceği için zayıf olanın başkalarıyla böyle bir anlaşma yapmasına izin verilmezdi. (Birden fazla kardeşiniz olabileceği için birden fazla eşitler arasında antlaşmalar mümkündür. Bir babanın birçok oğlu olabileceği gibi, güçlü bir kişi de zayıf olanlarla birçok anlaşma yapabilir).
-
-Kutsal Kitap insanlar arasındaki antlaşmalarla doludur
-
-- {{% bible val="İbrahim ve Abimelek" link="gen:21,22-32" lang="tr" %}}
-- {{% bible val="Isaak ve Filistliler" link="gen:26,12-33" lang="tr" %}}
-- {{% bible val="Yakup ve Laban" link="gen:31,22-54" lang="tr" %}}
-- {{% bible val="Gilead" link="1sa:11,1-11" lang="tr" %}}
-- {{% bible val="Ahab" link="1ki:20,1-34" lang="tr" %}}
-
-“Antlaşma yapmak” kelimenin tam anlamıyla “antlaşma kesmek” anlamına gelir. Bunun aşağıdaki arka planı vardır: Antlaşma törenleri sırasında bir kurban
-
-- sözleşmeyi kutlayın
-- Sözleşme bozulursa ne olacağını göstermek için. Genellikle kurbanlar sıraya dizilir ve zayıf olanın sözleşmeyi bozması halinde başına gelecekleri göstermek için kurbanların arasından geçmesi gerekirdi.
+"Antlaşma yapmak" ifadesi tam anlamıyla "antlaşma kesmek" demektir; bu terim, antlaşma töreni sırasında bir kurban sunma uygulamasından gelir. Bu kurban iki şeyi aynı anda yapardı: antlaşmayı kutlardı ve zayıf taraf antlaşmayı bozarsa ne olacağını gösterirdi. İkiye kesilen hayvanlar iki sıra halinde dizilir, zayıf taraf da parçaların arasından yürürdü — sözünü bozarsa başına tam olarak ne geleceğini gösteren, canlı ve kasıtlı bir korkutma eylemiydi bu.
 
 ## İbrahim ile yapılan antlaşma
 
 <a name="908c"></a>
-{{% bible val="Kutsal Kitap’ta İbrahim’le ilgili öykü böyle bir sahneyi anlatır" link="gen:15" lang="tr" %}}. İbrahim ile yapılan antlaşma daha ayrıntılı olarak tanımlanır ({{% bible val="sünnet eklendiğinde" link="gen:17" lang="tr" %}})
+{{% bible val="Yaratılış 15’te" link="gen:15" lang="tr" %}} bu aynı kurban ve korkutma modeli açıkça bulunur, ama Tanrı’nın İbrahim’le yaptığı antlaşma, o dönemde uluslar arasında antlaşmaların normalde nasıl yapıldığını tam tersine çevirir. Tanrı İbrahim’e toprak ve mirasçılar vaat etti ve öykü, ikiye kesilip iki sıra halinde dizilen kurbanların aynı sahnesini içerir. Ama buradaki tuhaflık, hayvan parçalarının arasından zayıf taraf olan İbrahim’in değil, Tanrı’nın kendisinin geçmesidir.
 
-Ama burada temel verilir. Tanrı toprak ve mirasçılar vaat eder. Daha sonra kurban sahnesi gelir. {{% bible val="Burada garip olan şey, hayvanların arasından zayıf olan İbrahim’in değil, Tanrı’nın kendisinin geçmesidir" link="gen:15,17" lang="tr" %}}, yani antlaşmanın bozulmasını İbrahim’in tarafından taşıyacaktır.
+O anda Tanrı’yı temsil eden ateş parçaların arasından geçer: Tanrı, lanet altında İbrahim’in yerini alır. Böylece İbrahim daha sonra antlaşmayı bozduğunda — örneğin Hacer’i gebe bırakarak — İbrahim’in oğlu değil, Tanrı’nın kendi Oğlu ölür.
 
-Daha önce {{% bible val="Nuh ile yapılan antlaşma tek taraflıydı" link="gen:9,8-17" lang="tr" %}} (sadece daha güçlü olan Tanrı bir şey vaat etti)!
+İbrahim’le yapılan antlaşma daha sonra {{% bible val="sünnetin eklenmesiyle" link="gen:17" lang="tr" %}} daha ayrıntılı olarak tanımlanır.
 
 ## İsrail ile yapılan antlaşma
 
 <a name="aec8"></a>
-İsrail’le yapılan antlaşmayı anlamak için bazı ek bilgilere ihtiyacımız vardır.
+Tanrı’nın İsrail’le yaptığı antlaşmayı anlamak için, o dönemde bu tür antlaşmaların eski dünyada izlediği standart biçimi bilmek yardımcı olur.
 
-Bir sözleşme yapıldığında belirli bir şekli vardı
+Bu türden bir fetih antlaşmasının tipik olarak beş bölümü vardı. Önce, genellikle uzun ve ayrıntılı olan, güçlü tarafın unvanını ve adını veren giriş bölümü gelirdi — "Ben, İmparator Nero, Roma İmparatorluğu’nun başı, hükümdarların en değerlisi…" gibi kendini yücelten bir dil. İkinci sırada önsöz gelirdi: MÖ ikinci binyılın Hitit antlaşmalarında baskındı, ama birinci binyıldan kalma antlaşmalar genellikle bu daha yumuşak yaklaşımı atlayıp doğrudan "kurallarımızı kabul et yoksa…" demeyi tercih ederdi. Göründüğü yerde önsöz, güçlü tarafın zaten göstermiş olduğu sadakati ve iyiliği anlatırdı; bunun amacı tam olarak zayıf tarafı antlaşmaya gönüllü olarak girmeye teşvik etmekti. Üçüncü sırada talepler gelirdi — zayıf tarafın yapması gerekenler. Dördüncü sırada kutsama ve lanetler gelirdi: zayıf ulus kurallara uyduğu sürece güçlü tarafın askeri korumasını alırdı, ama bu kuralları çiğnemek laneti getirirdi — "tanrı(lar)ım seni hastalıkla vuracak, krallarını ortadan kaldıracak ve seni sürgüne gönderecek." Bunun arkasında, fatihin tanrısının fethedilenin tanrısından daha güçlü olduğu ve sürgün sırasında bir halkın tanrısının anavatanda kaldığı varsayımı yatıyordu (bu yüzden İsrail’in yerinde kalmak yerine Babil’e sürgün edilmesi önemliydi). Beşinci olarak, antlaşmanın tutulacağını garanti etmek için antlaşma anında tanıklar çağrılırdı — genellikle güçlü ulusun tanrıları. Antlaşma metninin kendisi daha sonra her iki tarafın tanrılarının evinde saklanır ve düzenli olarak yüksek sesle okunurdu.
 
-- preambel: (genellikle uzun ve kapsamlı) daha güçlü olanın unvanı ve adı
-- önsöz (sadece Hititler zamanında, MÖ ikinci binyıl): antlaşmaya
-- katılmaya teşvik etmek için daha güçlü olanın sadakatini ve iyiliğini gösterir
-- talepler: zayıf olanın yapması gerekenler
-- nimet ve kurs: daha güçlü olanın askeri desteği veya hastalık, kralların yeniden iyileştirilmesi veya daha zayıf olana sürgün
-- tanıklar çağrılır: normalde sözleşmenin ihlal edilmediğini gözlemleyen daha güçlü tanrılar
+Bu tam model, Tanrı’nın İsrail’le yaptığı antlaşmada da karşımıza çıkar. Giriş bölümü {{% bible val="Ben Tanrın Rab’bim…" link="exo:20,2" lang="tr" %}} sözüdür. Önsöz hemen ardından gelir: {{% bible val="…Seni Mısır’dan, kölelik diyarından çıkaran (senin için yaptığım her şeye bak ve senin için daha fazlasını yapacağımı bil)" link="exo:20,2" lang="tr" %}}. Talepler, ilk ve bir bakıma temel buyrukla başlar: {{% bible val="Tek bir Tanrın olsun" link="exo:20,3-6" lang="tr" %}}; On Emir’in geri kalanı da bundan gelir. Kutsama ve lanetler {{% bible val="Kutsama" link="deu:28,1-14" lang="tr" %}} ile {{% bible val="Lanet" link="deu:28,15-68" lang="tr" %}} bölümlerinde görünür — bu sonuçlar ancak İsrailliler sürgüne gittiğinde tam anlamıyla gerçekleşti, ama uyarılar ondan çok önce, {{% bible val="her aşaması İsrail’i seçimlerini yeniden düşünmeye sevk edecek şekilde tasarlanmış olarak" link="lev:26,1-46" lang="tr" %}} kademeli biçimde şiddetlendi ("hâlâ dinlemezseniz, ben de…"). Tanrı bu kademeli artışı, halkına antlaşmanın şartlarını sürekli hatırlatmak için kullandı. Son olarak, antlaşmaya çağrılan tanıklar {{% bible val="göğün ve yerin" link="deu:30,19" lang="tr" %}} kendisiydi.
 
-Sözleşme her iki tarafın tanrılarının evinde tutulur ve düzenli olarak kırmızıdır.
+Antlaşma ayrıca sürekli bir gereklilikle birlikte geldi: {{% bible val="tekrar tekrar okunması gerekiyordu" link="deu:31,9-13" lang="tr" %}} — {{% bible val="kral taç giydiğinde bunu yapmak zorundaydı" link="deu:17,18-19" lang="tr" %}} ve her yedi yılda bir tüm halka yüksek sesle okunurdu. Her okuma {{% bible val="ortak bir yemekle" link="exo:24,1-12" lang="tr" %}} birlikte yapılırdı ve her iki taraf da buyrukların birer kopyasını saklardı. Musa’nın Sina’da iki tablet almasının nedeni de budur: biri tapınakta Tanrı’yla kaldı, diğeri İsrail’in kopyasını temsil etti — yani sonuçta her iki kopya da tapınakta bulunuyordu.
 
-Bu model Tanrı’nın İsrail’le yaptığı antlaşmada da görülür:
+Önemli olan şu ki, birçok dünyevi antlaşmanın aksine, Tanrı’nın antlaşmasının şartları asla imkânsız değildi; zayıf tarafı başarısızlığa mahkûm etmiyordu. Tanrı’nın halkı şartları tutabilirdi. Sadece tutmamayı seçtiler.
 
-- Preambel: {{% bible val="Ben Tanrınız Rab’bim" link="exo:20,2" lang="tr" %}}.
-- önsöz: {{% bible val="Sizi Mısır’dan, kölelik diyarından çıkaran" link="exo:20,2" lang="tr" %}}
-- istekler: ilk (zımni): 10 emirde yer alan tek {{% bible val="bir Tanrı’ya sahip olmak" link="exo:20,3-6" lang="tr" %}}
-- {{% bible val="kutsama" link="deu:28,1-14" lang="tr" %}} ve {{% bible val="kurs" link="deu:28,15-68" lang="tr" %}}: {{% bible val="sürgünde sonuç olarak, ancak yavaş yavaş eğitim için " link="lev:26,1-46" lang="tr" %}}(“hala dinlemiyorsanız, ben dinleyeceğim”)
-- taniklar: {{% bible val="gök ve yer" link="deu:30,19" lang="tr" %}}
-
-{{% bible val="Kral için" link="deu:17,18-19" lang="tr" %}} bile {{% bible val="tekrar okuma zorunluluğu" link="deu:31,9-13" lang="tr" %}}. {{% bible val="Ortak bir yemek yenir" link="exo:24,1-12" lang="tr" %}} ve her iki tarafa da emirlerin birer kopyası verilirdi (tabletlerden biri tapınakta Tanrı’da, diğeri İsrail’in Tanrısı’nda kalırdı — yani her ikisi de tapınakta — Musa’nın iki tablete sahip olmasının nedeni budur).
-
-{{% bible val="Ayrıca Tanrı kendisini İsrail’in babası olarak adlandırır." link="exo:3,6" lang="tr" %}}
-
-Kutsal Kitap, “sevgi”, “iyilik”, “merhamet” veya “sadakat” ile tanımlanabilecek bir kelime olan “heset” = “antlaşma sadakati” kelimesini kullanır.
+Bütün bunlar boyunca Tanrı {{% bible val="kendisine İsrail’in Babası" link="exo:3,6" lang="tr" %}} der — antlaşma şartlarıyla bağlı olsa bile merhametli kalan bir baba. Kutsal Kitap bu birleşimi "hesed" sözcüğünde yakalar; genellikle "antlaşma sadakati" olarak çevrilen, bağlama göre "sevgi", "iyilik", "merhamet" ya da "sadakat" olarak da aktarılabilecek kadar zengin bir sözcüktür.

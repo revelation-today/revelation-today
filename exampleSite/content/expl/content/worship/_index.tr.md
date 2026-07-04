@@ -4,8 +4,8 @@ title: "İbadet (Böl.4-5)"
 weight: 3
 ---
 
-İbadet Vahiy Kitabı'nda kilit bir konudur. Tüm serilerin (mühürler, trompetler ve kaseler) başladığı yerdir.
+İbadet, Vahiy Kitabı'nda kilit bir konudur; ardından gelen mühürler, borazanlar ve kaseler dizisinin tamamı için sahneyi hazırlar.
 
-Kitabın merkezidir ve "belaların" karakterini gösterir. Bunlar merhamet ve tutkuyla yapılır, ancak bu kitabın daha ileri çalışmaları sırasında ortaya çıkacaktır.
+Bu, kitabın merkezi bir temasıdır: çünkü tüm belalar ibadet yerinden kaynaklandığı için, bu köken "belaların" doğasını da şekillendirir. Bunlar, kitap boyunca daha derinlemesine göreceğimiz gibi, merhamet ve şefkatle uygulanır.
 
-İbadet aynı zamanda mücadele eden kiliselerin savaşlarıyla yüzleşmek için cevap ve güç buldukları yerdir.
+İbadet, aynı zamanda mücadele eden kiliselerin, karşılaştıkları savaşlarla yüzleşmek için cevabı ve gücü buldukları yerdir.

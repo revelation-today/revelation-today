@@ -7,64 +7,25 @@ docType: expl
 appl: /appl/background/israel
 ---
 
-“Rab’bin Günü “nü duyduğunuzda dünyanın yok olacağını düşünürsünüz. Ancak durum böyle değildir. Daha fazlasını öğrenmek ve bunun nereden geldiğini görmek istiyorsanız, benimle kalın.
+"Rab'bin Günü" dediğinizde muhtemelen aklınıza dünyanın yok oluşu geliyor. Ama Kutsal Kitap'ta bu ifade tam olarak bunu kastetmez. Bu ifadenin gerçekte nereden geldiğini görmek için İsrail'in antlaşma tarihine kadar geri gitmemiz gerekiyor.
 
-## Rab’bin Günü’nün Kökeni
+## Rab'bin Günü'nün kökeni
 
 <a name="45df"></a>
-{{% int_link val="İsrail’in Tanrı’yla bir antlaşması vardı" link="/expl/background/israel/gods-covenant" %}}. Antlaşmanın amacı, {{% bible val="İbrahim’le yapılan antlaşmaya dayandığı" link="exo:3,6" lang="tr" %}} için {{% bible val="tüm uluslar için bir bereket olmaktı" link="gen:12,2-3" lang="tr" %}}.
+İsrail'in {{% int_link val="Tanrı'yla bir antlaşması vardı" link="/expl/background/israel/gods-covenant" %}} ve bu antlaşmanın amacı, {{% bible val="İbrahim'le yapılan antlaşmaya dayandığından" link="exo:3,6" lang="tr" %}} {{% bible val="tüm uluslar için bir bereket olmaktı" link="gen:12,2-3" lang="tr" %}}. Mısır'dan Çıkış'ın kendisinde bile İsrail, {{% bible val="İsrail'in bir parçası hâline gelen pek çok başka insanı da beraberinde götürdü" link="exo:12,38" lang="tr" %}} — uluslara bereket olma modeli daha en baştan oradaydı.
 
-İsrail Mısır’dan çıktığında, {{% bible val="İsrail’in bir parçası olan pek çok başka insanı da beraberinde götürdü" link="exo:12,38" lang="tr" %}}.
+Antlaşmayı tutmak, gerçek ve somut bir kutsama anlamına geliyordu: {{% bible val="verimli toprak ve bolluk" link="lev:26,3-5" lang="tr" %}}, {{% bible val="barış ve düşmanlara karşı zafer" link="lev:26,6-8" lang="tr" %}}, {{% bible val="Tanrı'nın halkıyla birlikte yaşaması" link="lev:26,11-12" lang="tr" %}} ve özgürlük, çünkü {{% bible val="artık köle olmayacaklardı" link="lev:26,13" lang="tr" %}}. Ama İsrail antlaşmayı tutmayı başaramadığında, bunun yerine laneti yaşadı; bu da {{% bible val="birçok iniş çıkıştan sonra" link="jdg:2,6-22" lang="tr" %}} nihayet {{% bible val="sürgüne" link="2ch:36,15-23" lang="tr" %}} ve {{% bible val="Tanrı'nın İsrail'i terk etmesine" link="ezk:11,22-24" lang="tr" %}} yol açtı.
 
-Antlaşmaya sadık kalmak kutsama anlamına geliyordu
+Yine de Tanrı {{% bible val="onlara merhamet edeceğini vaat etti" link="lev:26,40-46" lang="tr" %}} ve birçok peygamber sürgün sırasında bu gelecek restorasyondan söz etti: Yeşaya (40–55. bölümler), Hezekiel, Daniel ve Obadya.
 
-- {{% bible val="verimli toprakları ve taşkınları vardır" link="lev:26,3-5" lang="tr" %}}
-- {{% bible val="barışa sahiptir ve düşmanlarına karşı zafer kazanır" link="lev:26,6-8" lang="tr" %}}
-- {{% bible val="Tanrı halkıyla birlikte yaşar" link="lev:26,11-12" lang="tr" %}}
-- {{% bible val="artık köle olmayacak" link="lev:26,13" lang="tr" %}}
+İsrail nihayet sürgünden döndüğünde, görünürde her şey umut vericiydi — tapınak Ezra döneminde, sur Nehemya döneminde yeniden inşa edildi ve {{% bible val="Yeşu başkâhin olarak" link="zec:3" lang="tr" %}} Tanrı'nın krallığını kuracak olan {{% bible val="Zerubbabel'in yanında vali olarak" link="zec:4" lang="tr" %}} görevlendirildi. Ama daha yakından bakılınca, vaat edilen restorasyonun henüz gelmediği açıktı: halk her anlamlı ölçüde {{% bible val="hâlâ kölelik içindeydi" link="ezr:9" lang="tr" %}}, Pers yönetimi altında kendi topraklarına sahip değillerdi, {{% bible val="Rab'bin bereketi gelmemişti" link="hag:1,7-12" lang="tr" %}}, {{% bible val="toprak hâlâ lanet altındaydı" link="mal:3,10-11" lang="tr" %}} ve {{% bible val="Ruh'un dökülmesi gerçekleşmemişti" link="ezk:36,25-27" lang="tr" %}}.
 
-Ancak başarısız olduklarında, bunun sonucu {{% bible val="birçok iniş ve çıkıştan sonra " link="jdg:2,6-22" lang="tr" %}}{{% bible val="sürgün" link="2ch:36,15-23" lang="tr" %}} oldu ve {{% bible val="Tanrı İsrail’i terk etti" link="ezk:11,22-24" lang="tr" %}}.
+Yani önemli olan her ölçüte göre İsrail hâlâ sürgündeydi — ve Kutsal Kitap bu sürgünün ancak Rab'bin Günü'yle sona ereceğini söyler. Dönüşten sonra yazan peygamberlerin — Haggay, Zekeriya, Yeşaya 56–66 ve Malaki'nin — meselesi de budur.
 
-{{% bible val="Ama Tanrı onlara merhamet edeceğini vaat etti." link="lev:26,40-46" lang="tr" %}}
-
-Birçok peygamber bu konudan bahsetmiştir: Sürgün sırasında bunlar
-
-- Yeşaya (bölüm 40–55)
-- Hezekiel
-- Daniel
-- Obadiah
-
-İsrail nihayet sürgünden çıktığında her şey yoluna girmiş görünüyordu:
-
-- Tapınak Ezra döneminde yeniden inşa edildi
-- duvar Nehemya döneminde inşa edildi
-- {{% bible val="Yeşu başkâhin" link="zec:3" lang="tr" %}}, {{% bible val="Serubbabel ise Tanrı’nın krallığın" link="zec:4" lang="tr" %}}ı kuracak olan vali olarak görevlendirildi.
-
-Onlar
-
-- {{% bible val="hala kölelikteydi" link="ezr:9" lang="tr" %}}
-- toprağın sahibi değildi (Pers yönetimi altında)
-- {{% bible val="Rab’bin bereketi gelmedi" link="hag:1,7-12" lang="tr" %}}, {{% bible val="toprak hala yol altında" link="mal:3,10-11" lang="tr" %}}
-- {{% bible val="ruhun dökülmesi gerçekleşmedi" link="ezk:36,25-27" lang="tr" %}}
-
-Yani İsrail hâlâ sürgündedir ve bu sürgün Rab’bin Günü’nde sona erecektir.
-
-Bu, şu kitapta kehanet edilen şeylerdir
-
-- Haggai
-- Zekeriya
-- Yeşaya 56–66
-- Malachi
-
-## Rab’bin Gününün İçeriği
+## Rab'bin Günü'nün içeriği
 
 <a name="e5f1"></a>
-Tanrı’nın günü
+O hâlde Rab'bin Günü, basitçe "dünyanın sonu" değildir — antlaşmanın baştan beri vaat ettiği şeyi nihayet gerçekleştiren gündür. Bu gün {{% bible val="İsrail'in düşmanları üzerine yargı" link="jol:2,1-11" lang="tr" %}}, {{% bible val="İsrail'in restorasyonunu" link="jol:2,12-27" lang="tr" %}}, {{% bible val="İsrail'deki kötülerin yargılanmasını" link="zep:1,4-9" lang="tr" %}} ve Kutsal Ruh'un dökülmesi gibi Tanrı'nın geri kalan vaatlerinin yerine gelmesini getirir.
 
-- {{% bible val="İsrail’in düşmanları üzerinde yargı" link="jol:2,1-11" lang="tr" %}}
-- {{% bible val="İsrail’in restorasyonu" link="jol:2,12-27" lang="tr" %}}
-- {{% bible val="İsrail’deki kötülerin yargılanması" link="zep:1,4-9" lang="tr" %}}
-- Tanrı, Kutsal Ruh’un dökülmesi gibi vaatlerini yerine getirir.
-
-Ama bu sadece {{% int_link val="İsrail’in geri kalanının" link="/expl/background/israel/the-remnant-of-israel" %}} başına gelecektir.
+Ama bu yalnızca {{% int_link val="İsrail'in kalıntısının" link="/expl/background/israel/the-remnant-of-israel" %}} başına gelecektir — ulusun tamamının değil.
 

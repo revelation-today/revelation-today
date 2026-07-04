@@ -14,43 +14,41 @@ sources:
       ref: fee_rev
 ---
 
-Sorunun önderlik olduğu bir kilisede ne yaparsınız? Doğru, Thyatira’daki kiliseye yazılan mektubu okursunuz!
+Sorunu kendi önderliği olan bir kiliseyle ne yaparsınız? Thyatira'ya yazılan mektubun tam olarak ele aldığı durum budur.
 
-Bu kiliseye yazılan mektup, {{% bible val="muhtemelen en küçük kilise için yazılan en uzun mektuptur" link="rev:2,18-29" lang="tr" %}}.
+Uygun bir biçimde, {{% bible val="bu kiliseye yazılan mektup yedisinin en uzunudur" link="rev:2,18-29" lang="tr" %}}, oysa Thyatira muhtemelen hitap edilen kiliseler arasında en küçüğüydü.
 
 ## Tarihsel arka plan
 
 <a name="76fc"></a>
-Kasaba muhtemelen Pergamon’un askeri bir karakoluydu ve Pergamon’un 70 km güney doğusundaydı.
+Thyatira muhtemelen Pergamon'un güneydoğusunda 70 km uzaklıkta, onun bir askeri karakoluydu.
 
-Vahiy kitabının yazıldığı dönemde kasaba mor boya fabrikası ve bronz işçiliği ile tanınıyordu. Bu nedenle kasabanın bir gilde’si vardı ve bu gilde’nin koruyucusunu onurlandıran düzenli şölenler düzenleniyordu. Buna cinsel ahlaksızlığı teşvik eden kızlar da dahildi (bayramlar sadece erkekler içindi).
+Vahiy yazıldığı sırada şehir mor boya ve bronz işçiliğiyle tanınıyordu. Buna uygun olarak, koruyucu tanrısı onuruna düzenli bir şölen düzenleyen bir ticaret loncası vardı. Bu şölenler yalnızca erkeklere açıktı, ama eğlencenin bir parçası olarak kızları da içine alarak cinsel ahlaksızlığı teşvik ediyordu.
 
-## İsa’nın görüşü
+## İsa'nın görüşü
 
 <a name="5c6b"></a>
-İsa bu kasabaya Tanrı’nın Oğlu olarak yaklaşır; gözleri alev alev yanan bir ateş, ayakları ise tunçtan yapılmıştır. Bu, {{% bible val="Daniel’in arkadaşlarının fırında" link="dan:3" lang="tr" %}} {{% bible val="Tanrı’nın Oğlu" link="dan:3,25" lang="tr" %}} gibi birinin onlara yardım ettiği öyküsünü hatırlatabilir.
+İsa bu şehre Tanrı'nın Oğlu olarak yaklaşır; gözleri alev alev yanan ateş gibi, ayakları cilalanmış tunç gibidir — bu imge, {{% bible val="Daniel'in arkadaşlarının ateşli fırındaki öyküsünü" link="dan:3" lang="tr" %}} hatırlatır; orada {{% bible val="ilahların oğluna benzeyen biri" link="dan:3,25" lang="tr" %}} onlarla birlikte alevlerin içinde durmuştu.
 
-{{% bible val="İşler, sevgi (Efes’in mücadele ettiği), iman, azim ve her gün daha iyi olma (sürekli büyüme!) konusunda övgülerle doludur." link="rev:2,19" lang="tr" %}}
+{{% bible val="İşlerini, sevgilerini — tam olarak Efes'in zorlandığı noktada —, imanlarını, sebatlarını ve sürekli büyümelerini, ilk yaptıklarından şimdi daha fazlasını yaptıklarını" link="rev:2,19" lang="tr" %}} övgüyle karşılar.
 
 ## Sorun
 
 <a name="94db"></a>
-{{% bible val="Tek bir sorun vardır: İzebel" link="rev:2,20" lang="tr" %}}. {{% bible val="İsrail’e kraliçe olarak putperestliği getirdi" link="1ki:16,31" lang="tr" %}}. Ve burada, Thyatira’da putperestliği önderler olarak tanıtıyor.
+Yine de {{% bible val="tek bir sorun vardır: İzebel" link="rev:2,20" lang="tr" %}}. Eski Antlaşma'da İzebel, {{% bible val="İsrail'e putperestliği getiren kraliçeydi" link="1ki:16,31" lang="tr" %}}; burada Thyatira'da, bu isim kiliseye aynı şeyi yapmış bir önderi işaret ediyor.
 
-Durum Pergamon’a benzeyebilir ancak buradaki sorun daha ciddidir çünkü Thyatria’da sorun liderlikten kaynaklanmamakta, liderlik sorun olmaktadır.
-
-Önderlik putperestliği tanıttı, cinsel ahlaksızlığı teşvik etti ve Şeytan’ın yaptıklarına dair içgörüler vaat etti.
+İlk bakışta bu, Pergamon'un durumuna benzer görünür. Ama Thyatira'nın sorunu daha derindir, çünkü bu, önderlik *tarafından* yol açılan bir başarısızlık değildir — bizzat önderliğin kendisi bozulmanın kaynağıdır. Bu önder putperestliği içeri sokmuş, cinsel ahlaksızlığı teşvik etmiş ve takipçilerine "Şeytan'ın derin sırları" hakkında özel bir kavrayış vaat etmiştir.
 
 ## Çözüm
 
 <a name="ac15"></a>
-Kilise üyeleri ne yapmalıdır? İsyan mı etmeli? Kiliseyi terk mi etmeli?
+Peki bu kilisenin üyeleri ne yapmalı? İsyan mı etmeli? Tamamen ayrılmalı mı?
 
-{{% bible val="Yanıt İsa’ya tutunmak ve sadık kalmaktır" link="rev:2,24-25" lang="tr" %}}. İsa, kendisine karşı sorumlu oldukları için önderlikle ilgilenecektir:
+Bunun yerine verilen yanıt, {{% bible val="İsa'ya tutunmak ve sadık kalmaktır" link="rev:2,24-25" lang="tr" %}}. Önderlikle bizzat İsa ilgilenecektir, çünkü önderlik O'na hesap verecektir:
 
-- {{% bible val="tüm takipçileri tövbe etmeyi yeniden düşünmek için acı çekecek" link="rev:2,21-22" lang="tr" %}}
-- {{% bible val="diğer tüm kiliselere uyarı olarak yayılmayı durdurun" link="rev:2,23" lang="tr" %}}
+- {{% bible val="İzebel'in bütün takipçileri, tövbe etmeye yönelmeleri umuduyla acı çekecektir" link="rev:2,21-22" lang="tr" %}}.
+- {{% bible val="Bu acı çekiş, diğer bütün kiliseler için bir uyarı olarak hizmet edecektir" link="rev:2,23" lang="tr" %}}.
 
-Tahammül edenlere İsa, yanlış otorite altında tahammül ettikleri ve sadık kaldıkları için yetki vaat eder. Demir bir asayla yönetmek {{% bible val="Mezmur 2'den " link="psa:2" lang="tr" %}}alınmıştır.
+Bu sahte önderlik altında dayanıp sadık kalanlara İsa kendi otoritelerini vaat eder — {{% bible val="Mezmur 2'den" link="psa:2" lang="tr" %}} alınan bir dille, demir bir asayla hükmedeceklerdir.
 
-{{% bible val="Sabah yıldızı" link="rev:2,28" lang="tr" %}}, {{% bible val="sabah yıldızı olan İsa’yla" link="rev:22,16" lang="tr" %}} ilgili {{% bible val="yeni bir umudun doğuşuyla " link="2pe:1,19" lang="tr" %}}ilgili olabilir.
+Bununla birlikte vaat edilen {{% bible val="sabah yıldızı" link="rev:2,28" lang="tr" %}} muhtemelen, başka bir yerde {{% bible val="Sabah Yıldızı olarak adlandırılan" link="rev:22,16" lang="tr" %}} İsa'nın kendisinde bulunan {{% bible val="yeni bir umudun doğuşuna" link="2pe:1,19" lang="tr" %}} işaret eder.

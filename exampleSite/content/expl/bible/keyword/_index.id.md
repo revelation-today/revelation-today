@@ -4,7 +4,7 @@ title: "Kisah-Kisah Penting Lainnya"
 weight: 3
 ---
 
-Masih ada beberapa kisah penting lainnya yang menjawab beberapa pertanyaan
+Beberapa kisah penting lainnya membantu menjawab pertanyaan-pertanyaan yang berulang kali muncul dalam Kitab Wahyu:
 - Apa makna Babel?
 - Apa hubungan Bileam dengan penyembahan berhala?
 - Apa yang dimaksud ketika kita berbicara tentang bait Allah?

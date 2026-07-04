@@ -17,39 +17,36 @@ docType: expl
 appl: /appl/content/letters
 ---
 
-Dalam Kitab Wahyu, pada surat-surat kepada gereja-gereja terdapat kalimat yang berulang: “Tuliskanlah kepada malaikat jemaat”. Apakah gereja-gereja memiliki malaikat pelindung? Apakah para pemimpin gereja disebut malaikat? Mari kita telaah lebih teliti.
+Kitab Wahyu terus mengulang instruksi yang membingungkan ini: "Tuliskanlah kepada malaikat jemaat." Apakah setiap jemaat memiliki malaikat pelindung? Atau apakah "malaikat" hanyalah sebutan lain untuk pemimpin jemaat itu? Mari kita telaah lebih dekat.
 
 ## Penafsiran yang Tidak Mungkin
 
 <a name="e98c"></a>
-Mungkinkah malaikat jemaat-jemaat ini adalah malaikat yang menjaga gereja-gereja? Terasa agak aneh jika Yesus memberi Yohanes sebuah pesan yang ditulis untuk gereja-gereja, tetapi justru para malaikatlah yang menerimanya. Akan sulit juga bagi{{% bible val=" para malaikat untuk memikul tanggung jawab atas apa yang terjadi pada individu-individu di dalam gereja" link="rev:2,24-25" lang="ind" %}}.
+Mungkinkah "malaikat-malaikat jemaat" ini adalah malaikat pelindung yang menjaga setiap jemaat? Kemungkinan besar tidak - akan terasa aneh jika Yesus meminta Yohanes menulis kepada para malaikat itu sendiri, padahal ada cara yang jauh lebih langsung bagi Yesus untuk berkomunikasi dengan mereka. Dan secara praktis, bagaimana caranya Yohanes menyampaikan surat semacam itu? Selain itu, akan {{% bible val="sulit untuk menyalahkan malaikat itu jika sebagian anggota jemaat tidak setia" link="rev:2,24-25" lang="ind" %}}.
 
-Atau mungkinkah para pemimpin gereja disebut sebagai malaikat? Di sini juga akan sulit untuk meminta pertanggungjawaban mereka atas kesalahan individu-individu.
+Bisakah "malaikat" di sini justru berarti seorang *pemimpin* manusia? Itu pun tidak masuk akal, sebab akan sama anehnya jika seorang pemimpin disalahkan atas kegagalan anggota-anggota secara pribadi.
 
 ## Pengamatan
 
 <a name="e9dd"></a>
-Teks ini mengandung beberapa detail yang menarik:
+Beberapa pengamatan mengarahkan kita pada jawaban yang lebih baik:
 
-- Pada awalnya, Yohanes menerima {{% bible val="perintah untuk menulis kepada gereja-gereja" link="rev:1,11" lang="ind" %}}, bukan kepada malaikat.
-- Setiap surat dimulai dengan “{{% bible val="Tuliskanlah kepada malaikat jemaat" link="rev:2,1" lang="ind" %}}”, tetapi diakhiri dengan “{{% bible val="apa yang dikatakan Roh kepada jemaat-jemaat" link="rev:2,7" lang="ind" %}}”.
-- Malaikat-malaikat itu disapa seolah-olah mereka adalah gereja itu sendiri: “{{% bible val="Ingatlah betapa dalamnya engkau telah jatuh" link="rev:2,5" lang="ind" %}}”.
-- Dalam bahasa Yunani, teks terus berganti antara bentuk tunggal dan jamak: “{{% bible val="Janganlah takut terhadap apa yang harus engkau derita! Sesungguhnya, Iblis akan melemparkan beberapa orang dari antaramu ke dalam penjara supaya kamu dicobai, dan kamu akan beroleh kesusahan selama sepuluh hari. Hendaklah engkau setia sampai mati, dan Aku akan mengaruniakan kepadamu mahkota kehidupan" link="rev:2,10" lang="ind" %}}!”
-- Malaikat-malaikat ini digunakan tanpa kata sandang, yang tidak lazim dalam sastra Yahudi dan Kristen mula-mula.
-- Malaikat-malaikat ini tidak pernah disebutkan lagi setelahnya.
+- Yohanes diperintahkan untuk {{% bible val="menulis kepada ketujuh jemaat" link="rev:1,11" lang="ind" %}}, bukan kepada para malaikat.
+- Setiap surat dibuka dengan "{{% bible val="tuliskanlah kepada malaikat jemaat di" link="rev:2,1" lang="ind" %}}" tetapi ditutup dengan "{{% bible val="apa yang dikatakan Roh kepada jemaat-jemaat" link="rev:2,7" lang="ind" %}}" - malaikat dan jemaat disapa sebagai penerima yang sama.
+- Malaikat itu langsung dikatakan, "{{% bible val="Ingatlah betapa dalamnya engkau telah jatuh" link="rev:2,5" lang="ind" %}}" - bahasa yang cocok untuk sebuah jemaat, bukan makhluk roh.
+- Teks Yunani berpindah antara bentuk tunggal "engkau" dan bentuk jamak "kamu" (ditulis dengan huruf kapital di sini): "{{% bible val="Janganlah takut terhadap apa yang harus engkau derita! Sesungguhnya, Iblis akan melemparkan beberapa orang dari antara KAMU ke dalam penjara supaya KAMU dicobai, dan KAMU akan beroleh kesusahan selama sepuluh hari. Hendaklah engkau setia sampai mati, dan Aku akan mengaruniakan kepadamu mahkota kehidupan" link="rev:2,10" lang="ind" %}}."
+- Kata "malaikat" muncul di sini tanpa kata sandang tentu, yang tidak lazim dalam sastra Yahudi maupun Kristen mula-mula.
+- Malaikat-malaikat ini tidak pernah disebutkan lagi di bagian lain kitab ini.
 
-## Malaikat = Gereja-gereja
+## Malaikat = Jemaat
 
 <a name="ab47"></a>
-Mungkinkah yang dimaksud dengan malaikat-malaikat itu adalah gereja-gereja itu sendiri? Kita telah melihat di atas bahwa kedua istilah ini dapat dipertukarkan.
+Jika digabungkan, pengamatan-pengamatan ini mengarah pada jawaban yang lebih sederhana: "malaikat-malaikat jemaat" hanyalah cara lain untuk menyapa jemaat-jemaat itu sendiri. Malaikat dan jemaat dipakai secara bergantian sepanjang surat-surat ini.
 
-Selain itu:
+Ini sesuai dengan pola yang sudah mapan dalam sastra Yahudi, di mana satu kelompok utuh sering disapa seolah-olah mereka satu pribadi tunggal - {{% bible val="Puteri Sion" link="zep:3,14" lang="ind" %}} dan {{% bible val="Tirus" link="ezk:27" lang="ind" %}} adalah dua contohnya, dan Hosea berpindah antara sapaan tunggal dan jamak dengan cara yang sama dalam {{% bible val="pasal 9" link="hos:9,1-6" lang="ind" %}} dan {{% bible val="pasal 14" link="hos:14,1-3" lang="ind" %}}. Surat-surat kepada jemaat, demikian pula, biasanya tidak ditujukan kepada satu pribadi saja, dan di bagian lain jemaat-jemaat disapa dalam bentuk {{% bible val="jamak" link="zep:2,1-5" lang="ind" %}} baik dalam surat maupun nubuat.
 
-- Dalam sastra Ibrani, adalah hal yang lazim untuk menyapa sebuah kelompok melalui satu individu ({{% bible val="Puteri Sion" link="zep:3,14" lang="ind" %}}, {{% bible val="kota Tirus" link="ezk:27" lang="ind" %}}, Hosea berpindah dalam pasal {{% bible val="9" link="hos:9,1-6" lang="ind" %}} dan {{% bible val="14" link="hos:14,1-3" lang="ind" %}} dari bentuk tunggal ke jamak, {{% bible val="berbagai bangsa dalam penghakiman" link="zep:2,1-5" lang="ind" %}}).
-- Surat-surat kepada jemaat-jemaat pada umumnya tidak ditujukan kepada perseorangan.
+Jadi mengapa jemaat-jemaat itu disebut "malaikat" sama sekali? Ada beberapa alasan yang masuk akal:
 
-Namun mengapa gereja-gereja disebut sebagai malaikat?
-
-- Gereja-gereja dipahami sebagai satu kesatuan. Ini bukan soal keselamatan individu atau jalan pribadi seseorang dengan Allah, melainkan soal tanggung jawab sebagai keseluruhan.
-- Gereja sebagai malaikat (angelos = utusan) mengingatkan mereka akan tujuan surgawi mereka.
-- Sapaan sebagai malaikat dimaksudkan untuk menyadarkan mereka bahwa mereka tidak dapat memenuhi tugas mereka dengan kekuatan sendiri, melainkan bergantung pada Roh Kudus (pertolongan surgawi).
+- Gereja di seluruh dunia dimaksudkan untuk menjadi satu kesatuan, sama seperti malaikat adalah satu "unit" tunggal - intinya bukan perjalanan iman setiap orang percaya secara pribadi, melainkan tanggung jawab bersama jemaat itu sebagai satu keseluruhan.
+- Menyapa mereka sebagai malaikat (*angelos* berarti "utusan") mengingatkan mereka akan tujuan surgawi mereka.
+- Menyebut mereka malaikat juga menandakan bahwa mereka tidak dapat melakukan tugas ini dengan kekuatan sendiri - mereka membutuhkan pertolongan surgawi, melalui Roh Kudus.

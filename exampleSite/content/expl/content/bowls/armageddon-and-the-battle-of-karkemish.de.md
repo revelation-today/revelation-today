@@ -3,53 +3,54 @@ title: "Armageddon und die Schlacht von Karkemisch"
 weight: 4
 base: /quick/content/harvest
 story: /story/tour
-prev: /expl/content/bowls/the-key-to-armageddon
+prev: /expl/content/bowls/the-bowls-of-wrath
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl
 appl: /appl/content/bowls
 ---
 
-Was hat eine der bedeutendsten Schlachten des Vorderen Orients im ersten Jahrtausend v. Chr. mit der Endzeit zu tun? Mehr als das Wort „Schlacht”.
+Was hat eine der bedeutendsten Schlachten des Vorderen Orients im ersten Jahrtausend v. Chr. mit der Endzeitschlacht zu tun, die mit dem Ende der Welt verbunden ist? Wie sich zeigt, mehr als nur das Wort „Schlacht“.
 
 ## Die Geschichte vor Karkemisch
 
 <a name="dd2e"></a>
-Alles beginnt im Jahr 612 v. Chr., als die Babylonier die Stadt Ninive, damals Hauptstadt der Assyrer, erobern, wie der Prophet {{% bible val="Nahum" link="nam:1" lang="de" %}} berichtet, was wiederum zeigt, dass die Bekehrung der Menschen in Ninive durch {{% bible val="Jona " link="jon:1" lang="de" %}}nicht von Dauer war.
+Die Geschichte beginnt im Jahr 612 v. Chr., als die Babylonier Ninive überrannten, die frühere Hauptstadt der Assyrer. Der Prophet {{% bible val="Nahum" link="nam:1" lang="de" %}} beschreibt diesen Fall als Ergebnis davon, dass sich das Volk von dem Weg abgewandt hatte, den es eingeschlagen hatte, nachdem {{% bible val="Jona" link="jon:1" lang="de" %}} ihm dort einst gepredigt hatte.
 
-Die Assyrer zogen sich daraufhin nach Haran zurück, (dem Ort, aus dem {{% bible val="Abraham stammte" link="gen:11,31" lang="de" %}} und wo später seine Schwiegertochter {{% bible val="Rebekka" link="gen:24" lang="de" %}} und noch später {{% bible val="Jakob mit seinen Frauen" link="gen:28" lang="de" %}} lebte). Dies geschah im Jahre 609 v. Chr.
+Die überlebenden Assyrer zogen sich nach Haran zurück — demselben Ort, {{% bible val="aus dem Abraham stammte" link="gen:11,31" lang="de" %}} und der später die Heimat seiner Verwandten war, darunter seine Schwiegertochter Rebekka und, nach ihr, Jakob mit seinen Frauen. Dieser Rückzug fand 609 v. Chr. statt.
 
-Zu dieser Zeit fand {{% bible val="in der Nähe von Megiddo die Schlacht zwischen Josia, dem König von Israel, und Necho, dem König von Ägypten, statt . Josia starb in der Schlacht, " link="2ch:35,20-25" lang="de" %}}aber er verzögerte damit Necho, so dass dieser nicht rechtzeitig eintraf, um die Assyrer in Haran zu unterstützen, die von den Babyloniern angegriffen wurden (Haran wurde 608 v.u.Z. von den Babyloniern erobert).
+Etwa zur gleichen Zeit {{% bible val="fand in der Nähe von Megiddo eine Schlacht statt, in der Josia, König von Israel, gegen Necho, den Pharao Ägyptens, kämpfte" link="2ch:35,20-25" lang="de" %}}. Josia starb in dieser Schlacht, doch nicht bevor er Necho auf seinem Weg zur Unterstützung der Assyrer in Haran aufgehalten hatte.
 
-## Die Schlacht von Karkemisch und die Folgen
+## Die Schlacht von Karkemisch und ihre Folgen
 
 <a name="72a6"></a>
-Nach der Niederlage der Assyrer bei Haran konnte [Babylon im Jahre 605 v.u.Z. in der Schlacht von Karkemisch ](https://de.wikipedia.org/wiki/Schlacht_bei_Karkemi%C5%A1)(durch den König Nebukadnezar)[ die verbleibenden Streitkräfte von Assur und Ägypten vernichten](https://de.wikipedia.org/wiki/Schlacht_bei_Karkemi%C5%A1) .
+Nachdem das babylonische Reich die Assyrer bei Haran besiegt hatte, vernichtete es die verbliebenen Streitkräfte Assyriens und Ägyptens in der [Schlacht von Karkemisch im Jahr 605 v. Chr.](https://de.wikipedia.org/wiki/Schlacht_bei_Karkemi%C5%A1), die unter dem babylonischen König [Nebukadnezar](https://de.wikipedia.org/wiki/Nebukadnezar_II.) geschlagen wurde.
 
-Dies führte zum Fall der Assyrer und Ägypter, die sich nie wieder davon erholten, und zum Aufstieg der Babylonier.
+Diese Schlacht besiegelte den Untergang sowohl des assyrischen als auch des ägyptischen Reiches — keines der beiden erholte sich je wieder — und markierte zugleich den Beginn des Aufstiegs Babylons.
 
-Israel fiel unter die Herrschaft Babels, lehnte sich aber mehrmals auf und ging 587 v. Chr. ins Exil. Im Jahre 714 v.u.Z. ging das Nordreich Israels unter den Assyrern ins Exil, aber diese zerrissen die Familie, so dass diese Stämme bis heute verschollen sind. Aber die Stämme, die ins babylonische Exil gingen, konnten zusammenbleiben und kehrten im {{% bible val="Jahre 537 v.u.Z. und später nach Israel zurück" link="ezr:1,1-3" lang="de" %}} und existieren bis heute.
+Israel geriet unter babylonische Herrschaft, lehnte sich in den folgenden zwanzig Jahren mehrmals auf und ging schließlich 587 v. Chr. ins Exil. Das Nordreich Israels hatte bereits 714 v. Chr. unter den Assyrern das Exil erlitten, die jene Familien so gründlich zerstreuten, dass die nördlichen Stämme schlicht verschwanden. Den Stämmen, die unter Babylon ins Exil gingen, erging es anders: Sie wurden zusammengehalten, was bedeutete, dass sie im Jahr 537 v. Chr. {{% bible val="nach Israel zurückkehren" link="ezr:1,1-3" lang="de" %}} konnten und bis heute existieren.
 
-Hätte Josia nicht gegen Necho gekämpft und ihn in Haran aufgehalten, um ihn zu unterstützen, hätte Babel wahrscheinlich die Schlacht von Karkemisch nicht gewonnen. Dann wäre der Rest Israels in assyrische Gefangenschaft geraten und nicht mehr existent.
+Hätte Josia nicht bei Megiddo gegen Necho gekämpft und ihn auf dem Weg nach Haran aufgehalten, hätte Babylon die Schlacht von Karkemisch womöglich nicht gewonnen — und die südlichen Stämme Israels wären wohl unter den Assyrern ins Exil gegangen und hätten aufgehört zu existieren, so wie es den nördlichen Stämmen erging.
 
-## Harmagedon und Karkemisch
+## Armageddon und Karkemisch
 
 <a name="b3c1"></a>
-Aber was hat das mit der Schlacht von Harmagedon zu tun?
+Was also hat all das mit der Schlacht von {{% bible val="Armageddon" link="rev:16,12-16" lang="de" %}} zu tun? Mehrere Fäden verbinden die beiden.
 
-- Die Babylonier werden indirekt mit Harmagedon (Fluss Euphrat) in Verbindung gebracht.
-- Harmagedon kann als “Berg von Megiddo” übersetzt werden und steht damit im Zusammenhang mit der Schlacht Josias gegen Necho bei Megiddo.
-- Schlachten werden nicht auf Bergen ausgetragen, sondern dort versammeln sich die Armeen und die Schlacht findet im Tal statt. Die Schlacht von Megiddo wa die Vorbereitung für die Schlacht von Karkemisch, so wie Aramgeddon nicht der Ort der Schlacht war, sondern das Versammeln der Armee, die {{% bible val="später von Jesus geschlagen wurde" link="rev:19,11-21" lang="de" %}}.
-- Sowohl Megiddo als auch Harmagedon beschreiben den Schutz des Volkes Gottes (Megiddo bewahrt Israel vor der Zerstreuung, Harmagedon bereitet den endgültigen Sieg Jesu vor).
-- Jesus, der am Kreuz gestorben ist, besiegt die Heere, die sich in Harmagedon versammeln, Josia (eine andere Schreibweise für Jesus) gibt sein Leben, um die Existenz Israels zu sichern.
+Auch in der Schlacht von Armageddon sind die Babylonier indirekt präsent, durch die Erwähnung des Flusses Euphrat. Und schon der Name weist in dieselbe Richtung: Armageddon lässt sich mit „Berg von Megiddo“ übersetzen — genau dort, wo Josia sich Necho entgegenstellte.
+
+Die Parallele reicht tiefer als der gemeinsame Ort. Schlachten finden nicht tatsächlich auf einem Berg statt — dort versammeln sich die Armeen, während der Kampf im Tal darunter ausgetragen wird. Die Schlacht von Megiddo war der Aufmarschplatz für die Schlacht von Karkemisch, ebenso wie Armageddon nicht selbst der Ort der Schlacht ist, sondern der Sammelpunkt für ein Heer, das später {{% bible val="von Jesus besiegt wird" link="rev:19,11-21" lang="de" %}}.
+
+Beide Orte handeln zudem vom Schutz des Volkes Gottes — Megiddo, weil es Israels südliche Stämme vor der Zerstreuung bewahrte, Armageddon, weil es die Bühne für Jesu endgültigen Sieg bereitet. Und es gibt ein bemerkenswertes Echo darin, wie dieser Schutz erlangt wird: Jesus, der am Kreuz starb, besiegt das bei Armageddon versammelte Heer, und Josia — dessen Name eine andere Übertragung von „Jesus“ ist — gab sein eigenes Leben, um den Fortbestand Israels zu sichern.
 
 ## Die drei Könige von Israel
 
 <a name="da44"></a>
-Es gab drei Könige, deren Verhalten gegenüber Assyrien sehr aufschlussreich ist:
+Drei Könige Israels hatten jeweils eine aufschlussreiche Begegnung mit Assyrien, und jeder reagierte anders.
 
-- König {{% bible val="Ahaz" link="isa:7,1-14" lang="de" %}} stand unter großem Druck, sich an einem [Bündnis gegen Assur zu beteiligen](https://de.wikipedia.org/wiki/Nordreich_Israel#Antiassyrische_Koalition_und_Fall_Samarias), doch Gott bot ihm seine {{% bible val="volle Unterstützung an, die er jedoch ablehnte" link="isa:7,1-14" lang="de" %}} und stattdessen den assyrischen König um Hilfe bat, der das Nordreich Israel im Jahre 714 v. Chr. ins Exil schickte, aus dem es nie wieder zurückkehrte.
-- König Hiskia bewies Glauben, als die {{% bible val="Assyrer Jerusalem" link="isa:37" lang="de" %}} im Jahr [701 v. Chr.](https://www.bibelwissenschaft.de/wibilex/das-bibellexikon/lexikon/sachwort/anzeigen/details/hiskia/ch/e7aeb708ae10fcff10e9e6b4691abd46/#h6) angriffen, was mit dem Eingreifen eines Engels endete. Nach diesem Ereignis {{% bible val="wurde Hiskia krank und Gott sagte, ihm, er solle seine letzten Dinge regeln. Hiskia betete zu Gott und Gott änderte seinen Plan und gab Hiskia mehr Zeit zu leben" link="isa:38" lang="de" %}}. Kurz danach besucht ihn der babylonische König Merodach-Baladin und gratulierte ihm zu seiner Genesung. [Diesem König war es gelungen, Babylon für einige Zeit von Assur unabhängig zu machen](https://de.wikipedia.org/wiki/Marduk-apla-iddina_II.) und es schien, als könne Hiskia mit seiner (finanziellen) Unterstützung dafür sorgen, dass Babylon die Assyrer besiegt. So zeigt er dem babylonischen König seine Schätze. {{% bible val="Daraufhin konfrontiert ihn der Prophet Jesaja und erklärt ihm, das die Babylonier in der Zukunft die Feinde Israels werden und alles erobern werden" link="isa:39,3-7" lang="de" %}}. Doch Hiskias Antwort war: “{{% bible val="Kein Problem, solange es nicht zu meinen Lebzeiten geschieht." link="isa:39,8" lang="de" %}}”
-- Hiskias Enkel Josia unterschied sich sehr von ihm. {{% bible val="Seine Herrschaft begann, als er acht Jahre alt war und mit 18 Jahren erneuerte er den Tempel, wobei das Buch des Gesetzes gefunden wurde, indem Gottes Gericht über das ungerechte Israel aufgezeichnet war. Er ist erschüttert und fragt die Prophetin Hulda um Rat. Sie sagt, dass das Gericht nicht abzuwenden sei, aber dass es nicht zu seinen Lebzeiten passieren wird" link="2ki:22" lang="de" %}}. Obwohl die Situation die gleiche war wie die seines Großvaters, reagierte er anders. {{% bible val="Er brachte ganz Israel dazu, das Gesetz wieder zu befolgen" link="2ki:23,1-27" lang="de" %}}. Am Ende seines Lebens {{% bible val="gab er in der Schlacht von Megiddo sein Leben für die Zukunft Israels" link="2ki:23,28-30" lang="de" %}}. Er gab sein Leben für eine Zukunft, die er nicht sehen konnte.
+König {{% bible val="Ahas" link="isa:7,1-14" lang="de" %}} wurde unter Druck gesetzt, [einer Koalition gegen Assyrien beizutreten](https://de.wikipedia.org/wiki/Ahas#Politik), und ihm wurde {{% bible val="durch den Propheten Jesaja Gottes volle Unterstützung angeboten, die er jedoch ablehnte" link="isa:7,1-14" lang="de" %}}. Stattdessen suchte er Hilfe beim König von Assyrien — demselben König, der später die zehn Stämme des Nordreichs im Jahr 714 v. Chr. in ein Exil führen sollte, aus dem sie nie zurückkehrten.
 
-Wir haben drei Könige, die, obwohl sie Gott an ihrer Seite wussten, völlig unterschiedlich gehandelt haben.
+König Hiskia dagegen bewies Glauben, {{% bible val="als die Assyrer im Jahr 701 v. Chr." link="isa:37" lang="de" %}} Jerusalem angriffen, was zum siegreichen Eingreifen eines Engels führte. Kurz darauf {{% bible val="wurde er krank, und Gott sagte ihm, er solle seine Angelegenheiten ordnen; Hiskia betete, und Gott änderte seinen Entschluss und gewährte ihm mehr Lebensjahre" link="isa:38" lang="de" %}}. Daraufhin besuchte ihn der babylonische König Merodach-Baladan, um ihm zu seiner Genesung zu gratulieren — ein König, dem es gelungen war, [Babylon von den Assyrern unabhängig zu machen](https://de.wikipedia.org/wiki/Marduk-apla-iddina_II.). Offenbar hoffte Hiskia, eines Tages auch die Assyrer besiegen zu können, und so zeigte er, auf der Suche nach einem Verbündeten, all seine Schätze her und gewährte dem babylonischen König finanzielle Unterstützung. {{% bible val="Der Prophet Jesaja stellte ihn deswegen zur Rede und sagte ihm unverblümt, dass die Babylonier nicht seine Freunde seien" link="isa:39,3-7" lang="de" %}}. Hiskias Antwort war schlicht: {{% bible val="'Kein Problem, solange ich das nicht mehr erleben muss'" link="isa:39,8" lang="de" %}}.
 
+Hiskias Enkel Josia schlug nach keinem von beiden. {{% bible val="Er wurde mit acht Jahren König, und mit achtzehn machte er sich daran, den Tempel wiederherzustellen — wo das Buch des Gesetzes gefunden wurde, das Gottes Gericht über ein untreues Israel beschrieb. Erschüttert bat er die Prophetin Hulda um Rat. Sie sagte ihm, das Gericht sei unabänderlich, werde aber nicht zu seinen Lebzeiten hereinbrechen." link="2ki:22" lang="de" %}} Anders als sein Großvater gab sich Josia jedoch nicht mit persönlicher Erleichterung zufrieden. {{% bible val="Er brachte ganz Israel dazu, das Gesetz wieder zu halten" link="2ki:23,1-27" lang="de" %}}, und am Ende seines Lebens kämpfte er in der {{% bible val="Schlacht bei Megiddo, in der er starb" link="2ki:23,28-30" lang="de" %}} — und gab sein Leben für eine Zukunft, die er selbst nicht mehr erleben sollte.
+
+Drei Könige, drei ganz unterschiedliche Reaktionen auf Druck — und doch wussten alle drei, dass Gott auf ihrer Seite war.

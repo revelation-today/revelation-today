@@ -4,6 +4,6 @@ title: Spezielle Themen
 weight: 7
 ---
 
-Es gibt einige Themen, die wir hier zeigen und diskutieren werden, da sie nicht an ein Kapitel gebunden sind, sondern sich durch das ganze Buch ziehen.
+Manche Themen gehören nicht zu einem einzelnen Kapitel, sondern ziehen sich durch das ganze Buch. Dieser Abschnitt sammelt diese übergreifenden Themen und behandelt sie eigenständig.
 
 [Nach Thema durchsuchen →]({{< relref "themes" >}})

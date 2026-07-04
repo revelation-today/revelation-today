@@ -1,5 +1,5 @@
 ---
-title: "Uzzah'ın hikayesi"
+title: "Uzza'nın öyküsü"
 weight: 50
 base: /quick/bible/creation
 story: /story/tour
@@ -8,31 +8,30 @@ next: /expl/bible/exodus/the-story-before-the-exodus
 docType: expl
 ---
 
-Belki Uzza'nın öyküsünü ve gemiyi kurtardığı için Tanrı'nın onu nasıl cezalandırdığını hiç duymadınız. Bugün bizimle hiçbir ilgisi yokmuş gibi görünen tuhaf bir öyküdür. Hayır, şaşıracaksınız. Ama gelin adım adım ilerleyelim.
+Belki de Uzza'nın öyküsünü, ve Tanrı'nın onu antlaşma sandığını kurtarmaya çalıştığı için nasıl vurup öldürdüğünü hiç duymamışsınızdır. Tuhaf bir öyküdür ve bugün bizimle hiçbir ilgisi yokmuş gibi görünebilir. Ama vardır — ve nedeni sizi şaşırtabilir. Adım adım ilerleyelim.
 
-# Hikâye
+# Öykü
 
-İsrail'in ilk kralı Saul tahta çıkmadan önce {{% bible val="İsrail Filistliler'le savaş halindeydi ve savaşı kazanmaları için Antlaşma Sandığı'nı savaşa sokmak gibi görkemli bir fikirleri vardı" link="1sa:4,1-11" lang="en" %}}. Antlaşma sandığı Eski Ahit'te Tanrı'nın ikamet ettiği yerdi ve İsrail, Tanrı'nın düşmanlarının savaşı kazanmasına ve böylece sandığı ele geçirmesine asla izin vermeyeceğini düşünüyordu. Ama yanıldılar - Tanrı kendisini manipüle etmelerine izin vermedi.
+İsrail'in ilk kralı Saul tahta çıkmadan önce, {{% bible val="İsrail Filistliler'le savaş hâlindeydi ve savaşı kazanmak için Antlaşma Sandığı'nı savaş alanına getirmek gibi görkemli bir fikirleri vardı" link="1sa:4,1-11" lang="tr" %}}. Sandık, Eski Antlaşma'da Tanrı'nın bulunduğu yerdi ve İsrail, Tanrı'nın düşmanlarının savaşı kazanıp sandığı ele geçirmesine asla izin vermeyeceğini varsaymıştı. Yanılıyorlardı — Tanrı kendisinin bu şekilde kullanılmasına izin vermez.
 
-{{%bible val="Filistliler sandığı (ve onunla birlikte Tanrı'yı?) ele geçirdiler ve muzaffer olduklarını göstermek için onu Tanrılarının evinde sundular. Ama Tanrı bunu tersine çevirdi" link="1sa:5" lang="en" %}} ve {{% bible val="Filistliler sandığı geri göndermeye karar verdiler. Kâhinleri sandığı iki buzağı tarafından taşınan bir arabaya koymaya karar verdi." link="1sa:6" lang="en" %}} {{% bible val="Abinadab'ın evine vardı ve uzun yıllar orada kaldı" link="1sa:7,1" lang="en" %}}.
+{{% bible val="Filistliler sandığı (ve onunla birlikte belki Tanrı'yı da?) ele geçirdiler ve zafer kazandıklarını göstermek için kendi tanrılarının tapınağına yerleştirdiler. Ama Tanrı bunu tersine çevirdi" link="1sa:5" lang="tr" %}} ve {{% bible val="Filistliler sandığı geri göndermeye karar verdiler. Kâhinleri, sandığı bir armağanla birlikte bir arabaya koyup iki inek tarafından taşınmasına karar verdi." link="1sa:6" lang="tr" %}} Sandık {{% bible val="Avinadav'ın evine ulaştı ve orada uzun yıllar kaldı" link="1sa:7,1" lang="tr" %}}.
 
-{{%bible val="Bu süreden sonra, bir sonraki kral Davut Antlaşma Sandığı'nı Yeruşalim'e götürmek istedi. Buna Abinadav'ın iki oğlu da eşlik ediyordu: Uzza ve Ahio. Sandık bir arabaya kondu ve öküzler tarafından taşındı. Ancak öküzler tökezleyince Uzza uzanıp sandığın arabadan kaymasını engellemeye çalıştı. Tanrı da bu hareketi yüzünden onu öldürdü." link="2sa:6,1-7" lang="en" %}}
+{{% bible val="Bir süre sonra, bir sonraki kral Davut, sandığı Yeruşalim'e getirmek istedi. Buna Avinadav'ın iki oğlu, Uzza ve Ahyo eşlik etti. Sandık bir arabaya konuldu ve öküzler tarafından taşındı. Ama öküzler tökezleyince Uzza elini uzatıp sandığın arabadan kaymasını önlemeye çalıştı. Ve Tanrı bu eylemi yüzünden onu öldürdü." link="2sa:6,1-7" lang="tr" %}}
 
-Kral Davut bunun şokunu yaşar ve tekrar denemesi üç ayını alır, ama bu sefer farklı bir şekilde.
+Davut bundan derinden sarsılır ve yeniden denemesi — bu kez farklı bir şekilde — üç ayını alır.
 
-# Neler oluyor?
+# Peki neler oluyor?
 
-Durumu daha iyi anlamak için hikâyede biraz geriye gitmemiz gerekir. Tanrı Antlaşma Sandığı ve kutsal yerle ilgili talimatları verirken, bunların nasıl taşınması gerektiğini çok açık bir şekilde belirtmişti - Mısır'dan Çıkış sırasında çadır sürekli hareket halindeydi.
+Bunu anlamlandırmak için öyküde biraz daha geriye gitmemiz gerekir. Tanrı, çadırın sürekli hareket hâlinde olduğu Mısır'dan Çıkış günlerinde, sandık ve kutsal yerle ilgili buyruklarını verirken, bunların nasıl taşınması gerektiği konusunda çok açıktı.
 
-Tapınağın iç kısmı sadece Levililer tarafından taşınmalıdır. Onlar tüm İsrail'in Rabbi için kutsanmışlardır. Sandık Tanrı'nın yaşadığı yerdi ve Tanrı bir hayvan tarafından taşınmak değil, sevgili halkıyla yolculuk sırasında temas halinde olmak istiyordu.
+En içteki eşyalar, yalnızca tüm İsrail adına bu amaç için kutsanmış olan Levililer tarafından taşınacaktı. Sandık, Tanrı'nın yaşadığı yerdi ve O'nun bir hayvan tarafından taşınmaya hiç ilgisi yoktu — yolculuk boyunca kendi sevgili halkıyla fiziksel temas hâlinde kalmak istiyordu.
 
-Sandık İsrail'e geri döndüğünde, Filistliler daha iyisini bilmiyorlardı ve onu bir arabaya koydular. Ama İsrail daha iyi bilmeliydi. Sandık yaklaşık 20 yıl boyunca babasının evinde kaldığı için Uzza bile daha iyi bilmeliydi.
+Sandık Filistin topraklarından geri geldiğinde, Filistliler'in daha iyisini bilmeyip onu bir arabaya koymaları hoş görülebilirdi. Ama İsrail'in böyle bir mazereti yoktu, en azından Uzza'nın — sandık, babasının evinde yaklaşık 20 yıl boyunca durmuştu.
 
-Tanrı sandığı arabadan kaydırarak bu durumdan kurtulmak istedi, ama Uzza ona engel oldu ve Tanrı bu yüzden onu cezalandırdı.
+Görünüşe göre Tanrı, sandığı arabadan kaydırarak bu düzenlemeden kurtulmak istedi. Uzza onu durdurdu ve Tanrı bunun için onu cezalandırdı.
 
 # Peki ya bugün?
 
+Bugün bile Tanrı bize yaklaşmanın yollarını arıyor. Biz ise, kendi payımıza, O'nu kutulara kapatıp kolumuzun uzunluğunda tutmanın pek çok yolunu buluyoruz.
 
-Günümüz zamanında Tanrı bize yaklaşmak istiyor. Ama bizim O'nu uzak tutma ve kol mesafesinde tutma yöntemlerimiz var.
-
-Ama Tanrı bundan kurtulmak ister ama biz kendi iyiliği için onu durdurmak için elimizden geleni yaparız. Bu öyküde gördüğümüz gibi, Tanrı bizim için değerli olduğunu düşündüğümüz bir şeyi kırmaya isteklidir ama tamamen yanıldığımız ortaya çıkar.
+Tanrı bu kutulardan çıkmak istiyor, ama biz genellikle — kendimize bunun O'nun kendi iyiliği için olduğunu söyleyerek — O'nu durdurmak için elimizden geleni yapıyoruz. Bu öykünün gösterdiği gibi, Tanrı bize yaklaşmak uğruna değerli saydığımız bir şeyi kırmaya isteklidir ve sonunda ona bu kadar sıkı tutunmakla yanıldığımız ortaya çıkar.

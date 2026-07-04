@@ -9,37 +9,37 @@ docType: expl
 appl: /appl/content/paradise
 ---
 
-Apakah surga dan neraka itu? Apakah semua orang masuk surga? Jika tidak, bagaimana mungkin Allah yang baik mengirim orang ke neraka?
+Apakah surga dan neraka itu? Apakah semua orang masuk surga? Bagaimana mungkin Allah yang baik mengirim orang ke neraka?
 
 ## Surga dan Yerusalem Baru
 
 <a name="2f63"></a>
-Kebanyakan orang memahami surga sebagai tempat di mana semua orang berbahagia dan menjalani kehidupan yang baik karena mereka telah berkelakuan baik selama hidup di dunia. Neraka, sebaliknya, adalah tempat di mana orang menderita dan disiksa karena mereka jahat. Tetapi hal itu tidak sepenuhnya benar.
+Surga biasanya digambarkan sebagai tempat di mana orang berbahagia dan hidup dengan baik karena mereka orang baik, dan neraka sebagai tempat di mana orang menderita dan disiksa karena mereka jahat. Tetapi gambaran populer itu tidak sepenuhnya sama dengan apa yang digambarkan Kitab Wahyu.
 
-Kitab Wahyu menggambarkan surga dengan berbagai metafora: Pada pasal {{% bible val="7" link="rev:7,9-17" lang="ind" %}} kita melihat orang-orang kudus dihibur, dan pada pasal {{% bible val="21" link="rev:21" lang="ind" %}} surga digambarkan dengan cara lain melalui Yerusalem Baru. Namun semua gambaran ini memiliki satu kesamaan: semuanya sangat erat terkait dengan persekutuan dengan Allah.
+Kitab ini melukiskan surga dengan beberapa metafora yang berbeda: di pasal {{% bible val="tujuh" link="rev:7,9-17" lang="ind" %}} orang-orang kudus dihibur, dan di pasal {{% bible val="21" link="rev:21" lang="ind" %}} Yerusalem Baru menggambarkan surga jauh lebih panjang lebar. Kedua gambaran itu bertemu pada satu titik utama: surga didefinisikan oleh persekutuan dengan Allah.
 
-Selain itu, {{% bible val="Yerusalem Baru juga digambarkan sebagai mempelai Kristus" link="rev:21,2" lang="ind" %}}, yang memberikan kesan hubungan yang bahkan lebih intim dengan Allah.
+Kedekatan itu terasa semakin tajam begitu kita menyadari bahwa {{% bible val="Yerusalem Baru digambarkan sebagai Mempelai Perempuan Kristus" link="rev:21,2" lang="ind" %}}.
 
-Selain itu, bahasa pasal 21 sangat dipengaruhi oleh gambaran Bait Suci, tempat {{% int_link val="Israel bersekutu dengan Allah" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}. Bait Suci itu sendiri adalah gambaran dari Eden. Bukan hanya itu, Yerusalem Baru berbentuk {{% bible val="kubus" link="rev:21,16" lang="ind" %}}. Dan satu-satunya benda dalam Perjanjian Lama yang {{% bible val="memiliki bentuk ini adalah Ruang Mahakudus" link="2ch:3,8" lang="ind" %}}, yang begitu dipenuhi oleh hadirat Allah sehingga hanya imam besar yang boleh memasukinya, itu pun hanya sekali setahun.
+Bahasa pasal 21 juga banyak mengambil dari gambaran Bait Suci, {{% int_link val="tempat Israel bersekutu dengan Allah" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} — dan Bait Suci itu sendiri adalah cerminan dari Eden. Bentuk Yerusalem Baru membuat kaitan itu menjadi jelas: kota itu adalah sebuah {{% bible val="kubus" link="rev:21,16" lang="ind" %}}, dan {{% bible val="satu-satunya benda dalam Perjanjian Lama yang berbentuk demikian adalah Ruang Mahakudus" link="2ch:3,8" lang="ind" %}}, tempat Allah tinggal — sebuah ruang yang begitu dipenuhi hadirat-Nya sehingga hanya imam besar yang boleh memasukinya, dan itu pun hanya sekali setahun.
 
-Yerusalem Baru atau surga digambarkan sebagai tempat kedekatan yang paling intim dengan Allah.
+Jadi, Yerusalem Baru, atau surga, digambarkan sebagai tempat kedekatan yang paling mungkin dengan Allah.
 
 ## Penyerahan diri
 
 <a name="477f"></a>
-Tema Bait Suci juga dibahas dalam pasal 11, di mana Bait Suci dikaitkan dengan penyembahan, yang pada gilirannya merupakan gambaran kesetiaan dan penyerahan diri, jika kita membaca pasal itu sampai selesai.
+Tema Bait Suci muncul kembali di pasal sebelas, di mana tema itu dikaitkan dengan penyembahan — dan, jika kamu membaca pasal itu sampai selesai, dengan kesetiaan yang bertahan bahkan sampai mati.
 
-Sementara Yerusalem Baru digambarkan sebagai kubus tersebut, SEMUA yang berada di luar kubus ini adalah neraka. Jadi seseorang bisa sepenuhnya berada di dalam atau sepenuhnya berada di luar. Tetapi bukankah itu agak ekstrem?
+Yerusalem Baru adalah sebuah kubus, dan segala sesuatu di luarnya adalah neraka. Dengan kata lain, kamu berada sepenuhnya di dalam, atau sepenuhnya di luar. Itu mungkin terdengar ekstrem, tetapi sebenarnya tidak, begitu kita melihat apa yang sebenarnya sedang digambarkan: prioritas. Jika kamu tidak sepenuhnya menyerahkan diri kepada sesuatu, itu berarti ada hal lain yang lebih penting bagimu, atau kamu tidak sepenuhnya memercayainya — dan itulah persoalan utama dalam hubungan apa pun, termasuk hubungan ini.
 
-Sejujurnya, tidak. Sebab di sini yang menjadi persoalan adalah prioritas. Jika seseorang tidak menyerahkan diri sepenuhnya kepada Allah, berarti ada sesuatu yang lebih penting baginya dan/atau sesuatu yang lebih ia percayai. Dan itulah kunci dalam setiap hubungan. Karena surga bersifat kekal, seseorang harus benar-benar tinggal di sana sepenuhnya, bukan sekadar hadir secara fisik sementara hatinya berada di tempat lain.
-
-## Lalu, apakah neraka itu?
+## Apa itu sebenarnya neraka?
 
 <a name="2be6"></a>
-Neraka dapat digambarkan dengan sangat sederhana. Neraka adalah tempat tanpa hubungan dengan Allah.
+Neraka, kalau begitu, dapat digambarkan dengan cukup sederhana: neraka adalah tempat di mana tidak ada hubungan dengan Allah.
 
-Tetapi mengapa itu menjadi tempat yang buruk? Karena segala sesuatu yang baik berasal dari Allah. Yang saya maksud di sini adalah hal-hal yang kita anggap sudah semestinya ada, seperti pengharapan, sukacita, makna hidup, atau pengampunan. Kita mengalaminya di bumi ini karena inilah tempat di mana Allah sedang merayu kita. Tetapi masa ini akan berakhir, dan pada saat itu kita akan bersama Allah atau tanpa Allah. Tanpa Allah akan ada spiral menurun berupa sikap tidak mau mengampuni, kepahitan, keputusasaan, dan ketakutan.
+Itulah persisnya mengapa neraka menjadi tempat yang begitu buruk. Segala sesuatu yang baik berasal dari Allah — termasuk hal-hal yang kita anggap sudah semestinya ada, atau yang kita kira dapat kita kendalikan atau hasilkan sendiri, seperti pengharapan, sukacita, damai sejahtera, makna hidup, atau pengampunan. Kita mengalami semua itu di bumi ini karena di sinilah Allah sedang merayu kita. Tetapi masa itu akan berakhir, dan setelah itu kita akan bersama Allah atau tanpa Dia, tanpa pilihan ketiga.
 
-Allah tidak akan memaksa siapa pun untuk menjalin hubungan dengan-Nya. Jika kita tidak sepenuhnya berada bersama-Nya, Ia akan membiarkan kita pergi. Tetapi konsekuensinya adalah kehidupan tanpa Dia, dan dengan demikian juga kehidupan tanpa karunia-karunia-Nya, yang membuat hidup kita tampak seperti neraka. Kita telah melihat hal ini dalam kisah penciptaan, di mana manusia menganggap karunia-karunia Allah lebih penting daripada Allah sendiri.
+Tanpa Allah, yang tersisa adalah sebuah spiral menurun berupa sikap tidak mau mengampuni, kepahitan, keputusasaan, dan ketakutan.
 
-Istilah neraka sering digunakan sebagai ancaman untuk menimbulkan rasa takut: “Jika kamu tidak bertobat dan menjadi orang Kristen, kamu akan masuk neraka.” Pernyataan itu tidak sepenuhnya salah, tetapi {{% int_link val="ketakutan dan manipulasi adalah alat-alat Iblis," link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} bukan alat gereja, yang seharusnya menggunakan {{% int_link val="kesaksiannya" link="/appl/topics/power/the-power-of-testimony" %}}.
+Allah tidak akan memaksa siapa pun masuk ke dalam persekutuan dengan-Nya. Jika kita tidak mau sepenuhnya bersama-Nya, Ia akan membiarkan kita pergi — tetapi konsekuensinya adalah hidup tanpa Dia, dan karena itu tanpa karunia-karunia-Nya, dan itulah tepatnya yang membuat hidup itu berada dalam wilayah neraka.
+
+Neraka sering dipakai sebagai ancaman untuk menimbulkan ketakutan: bertobatlah dan jadilah orang Kristen, atau kamu akan masuk neraka. Mengingat semua yang telah kita bahas, klaim itu tidak sepenuhnya salah, tetapi ia melewatkan intinya. {{% int_link val="Ketakutan dan manipulasi adalah ciri khas binatang itu" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} dalam Kitab Wahyu, bukan ciri khas gereja. Ciri khas gereja justru adalah {{% int_link val="kesaksiannya" link="/appl/topics/power/the-power-of-testimony" %}}, yang dijalani sebagai seorang {{% int_link val="saksi" link="/expl/content/witnesses/the-two-witnesses" %}}.

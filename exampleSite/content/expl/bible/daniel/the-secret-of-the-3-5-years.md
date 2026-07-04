@@ -8,7 +8,7 @@ next: /expl/content/vision/setting-the-foundation
 docType: expl
 ---
 
-The book of Revelation in the Bible is full of strange time periods like 1260 days, 42 months, and so on. What do they mean? And do they have a literal meaning?
+The book of Revelation is full of strange time periods — 1260 days, 42 months, and so on. What do they mean, and are they meant to be taken literally?
 
 ## You may want to read before
 
@@ -30,48 +30,38 @@ In the book of Revelation, chapters 11 through 13, there are four references to 
 | 3,5 times | {{% bible val="Woman is protected in the desert" link="rev:12,14" lang="en" %}} |
 | 42 months | {{% bible val="The first beast blasphems" link="rev:13,5" lang="en" %}} |
 
-There are three different times called, the 3.5 times is called time, two times and half time. If we assume a month of 30 days, we get
+So there are really three distinct time expressions here — the third, "3.5 times," is literally called "time, two times, and half a time." If we assume a 30-day month, all three come out to the same length: 1260 days = 42 months = 3.5 years = 3.5 times.
 
-1260 days = 42 months = 3.5 years =? 3.5 times
+That raises three questions worth asking before we go further. Do these periods follow one another in sequence, or do they describe parallel, overlapping activities? Are they meant symbolically, or literally as exact durations? And why does the text switch between units — days, months, "times" — instead of using just one?
 
-So do these times follow each other or do they all describe parallel activities?
-
-Are the times symbolic or literal (exactly 1260 days)?
-
-And why are they not in the same unit (months or days)?
-
-Let’s first look at the Old Testament background.
+To answer any of that, we first need the Old Testament background.
 
 ## Elijah and the drought (1. Kings 16/29–18/35)
 
 <a name="89d3"></a>
-King Ahab of Israel marries Jezebel of Sidon (north of Israel). She introduces Baal and Ashera, the gods of fertility (many children, good harvests, strong armies — horses). But the key to this in most cases is: {{% bible val="Enough rain" link="1ki:17,1" lang="en" %}}.
+King Ahab of Israel marries Jezebel of Sidon, a city north of Israel, and she brings with her the worship of Baal and Asherah — gods of fertility, promising many children, good harvests, and strong armies. But almost all of that depends on one thing: {{% bible val="enough rain" link="1ki:17,1" lang="en" %}}.
 
-So God {{% bible val="sends Elijah to call for a drought" link="1ki:17,1" lang="en" %}} that {{% bible val="lasted 3,5 years" link="luk:4,25" lang="en" %}}. He is supplied by ravens. Later, he{{% bible val=" went to a widow in Sidon with a dying son whom he saved, so that woman believed in God" link="1ki:17,6-24" lang="en" %}}.
+So God {{% bible val="sends Elijah to announce a drought" link="1ki:17,1" lang="en" %}} that {{% bible val="lasts 3.5 years" link="luk:4,25" lang="en" %}}, during which Elijah is fed by ravens. Later, he {{% bible val="goes to a widow in Sidon whose dying son he saves, and she comes to believe in God" link="1ki:17,6-24" lang="en" %}} — a believer raised up in Jezebel's own home territory.
 
-After he intervened in Jezebel’s country of origin, the {{% bible val="great power struggle on Mount Carmel over who is the true God" link="1ki:18,16-46" lang="en" %}}. The true God is the one who can make {{% bible val="fire come down from heaven" link="1ki:18,24" lang="en" %}}, which is also {{% bible val="something the second beast can also do" link="rev:13,13" lang="en" %}}.
-
-The battle and the question here is, “Who is the true God?”.
+After that intervention on Jezebel's home turf comes the {{% bible val="great power struggle on Mount Carmel over who the true God really is" link="1ki:18,16-46" lang="en" %}}. The test is simple: the true God is the one who can make {{% bible val="fire come down from heaven" link="1ki:18,24" lang="en" %}} — notably, {{% bible val="the same feat the second beast performs" link="rev:13,13" lang="en" %}} in Revelation. The whole episode turns on that one question: who is the true God?
 
 ## The year week in Daniel
 
 <a name="96cb"></a>
-In Daniel there are the {{% int_link val="70 weeks which result in two half-weeks of 3.5 years each" link="/expl/bible/daniel/the-70-year-weeks" %}}. The first half-week describes the time of Jesus on earth and the second perhaps the work of the church. The covenant of Jesus is also {{% bible val="described as being in this week" link="dan:9,27" lang="en" %}}.
+Daniel gives us the {{% int_link val="70 weeks, which resolve into two half-weeks of 3.5 years each" link="/expl/bible/daniel/the-70-year-weeks" %}}. The first half-week covers Jesus' time on earth, and the second, perhaps, the work of the church. Jesus' covenant is itself {{% bible val="described as being established within this week" link="dan:9,27" lang="en" %}}.
 
-These 3.5 years are what God is building up in the background that will overthrow the kingdoms of this world.
+These 3.5 years, then, are the period in which God is quietly building something that will overthrow the kingdoms of this world.
 
-## What are the 3,5 years in Revelation
+## What are the 3.5 years in Revelation
 
 <a name="df73"></a>
-Let’s go through and start with chapter 13. {{% int_link val="This is the devil’s deception" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. When does it start? According to chapter 12, it happens after Jesus’ death on the cross, when he realizes that he cannot destroy Israel, which is protected by God, so pretty much after his death.
+Let's work through the passages, starting with chapter 13, {{% int_link val="which describes the devil’s deception" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. When does it start? According to chapter 12, it begins after Jesus' death on the cross, once the devil realizes he cannot destroy Israel because God protects her — so, essentially, right after Jesus dies. When does it stop? Not until it has to: until Jesus returns.
 
-When does he stop? Never if he doesn’t have to, so until Jesus comes back.
+At the same time, the woman is {{% bible val="protected from the devil’s attack" link="rev:12,6" lang="en" %}} and {{% bible val="provided for in the desert" link="rev:12,14" lang="en" %}}. This period begins the moment Jesus is victorious on the cross, and it likewise ends only once the devil himself is gone — again, at Jesus' return.
 
-At the same time the woman is {{% bible val="protected from the devil’s attack" link="rev:12,6" lang="en" %}} and {{% bible val="provided for in the desert" link="rev:12,14" lang="en" %}}. When does it begin? As soon as Jesus is victorious on the cross. When does it end? As long as the devil is around. So until Jesus returns.
+Then there is {{% bible val="the temple" link="rev:11,1-2" lang="en" %}}, no longer used for sacrifices but as a place of worship. That, too, begins with the death of Jesus, and there's no indication it will end before he returns.
 
-Then we have {{% bible val="the temple" link="rev:11,1-2" lang="en" %}}. It is no longer used for sacrifices, but as a place of worship. When does it begin? With the death of Jesus. When will it end? I don’t think it will end until Jesus returns.
+That leaves the {{% bible val="1260 days of the two witnesses" link="rev:11,3" lang="en" %}}, which must span the whole time between Jesus' first and second coming. That length alone suggests the "witnesses" aren't really two individuals but most likely the Church.
 
-That leaves the {{% bible val="1260 days of the two witnesses" link="rev:11,3" lang="en" %}}. This must be the whole time between Jesus’ first and second coming. So they are not really two people, but most likely the Church.
-
-So why are different units (days, months, …) used? The days are used when it comes to the reign of the witnesses and the provision of Israel, while the months are used for the reign of the devil and the destruction of the outskirts of the temple, and the 3.5 years/times are used for the hidden work of God. Perhaps the use is done to show the abundance of the 1260 days of the Church compared to the only 42 months of the devil. But this is a bit of a guess. I have no real idea.What does it mean?The rule of the devil and the absolute rule of the Church are parallel. Even though the world seems to be ruled by the devil, the Church is still in charge.
+So why does the text switch units — days here, months there? The days mark the reign of the witnesses and the provision for Israel; the months mark the devil's reign and the trampling of the temple's outer court; and the years, or "times," mark God's hidden work. One guess is that the difference is meant to highlight the Church's abundant 1260 days against the devil's meager 42 months — though that's admittedly speculative; I don't have a firm answer. What the parallel does make clear is this: the devil's rule and the Church's God-given rule run side by side, and even though the world looks as though the devil is in charge, the Church remains the one truly in charge.
 

@@ -15,99 +15,97 @@ docType: expl
 appl: /appl/background/history
 ---
 
-You may think that the book of Revelation in the Bible or the Pax Romana in Ancient Rome has nothing to do with your life today. You are wrong, and here is why.
+You may think that the book of Revelation, or the Pax Romana of ancient Rome, has nothing to do with your life today. You'd be wrong, and here's why.
 
 ## Pax Romana
 
 <a name="8c56"></a>
-Pax Romana, which means “Roman Peace”, refers to a period from 27 BC to 192 AD or a little later and describes the situation of:
+Pax Romana, meaning "Roman Peace," refers to a period from 27 BC to around 192 AD, marked by:
 
-- few civil wars and a strong empire
-- high prosperity (for most)
+- few civil wars and a strong, stable empire
+- high prosperity, at least for most
 - flourishing art and culture
-- (but it was also a time of persecution of Christians under Nero, Domitian and Trajan, although the systematic persecutions began in 253 AD)
+- yet also a time of sporadic persecution of Christians under Nero, Domitian, and Trajan, even though systematic empire-wide persecution didn't begin until 253 AD
 
-The idea was this:
+Underneath these conditions lay a coherent, almost theological idea:
 
-- The gods have chosen Rome
-- Rome and the emperors are the agents of the will, the salvation and the presence of the gods.
-- The blessings of the gods (security, peace, justice, wealth, fertility, etc.) are available to all who submit to Rome as their ruler.
-- The Pax Romana is the longed for “Golden Age”.
-- Therefore, the emperor is worthy of worship, loyalty, and equal titles as a god.
+- The gods have chosen Rome.
+- Rome and the emperors are the agents of the gods' will, salvation, and presence in the world.
+- The blessings of the gods — security, peace, justice, wealth, fertility, and so on — are available to everyone who submits to Rome as ruler.
+- The Pax Romana is itself the longed-for "Golden Age."
+- Therefore, the emperor is worthy of worship, loyalty, and titles equal to a god's.
 
-The downside was that this golden age was created by violence, oppression and pacification and was only golden for a few.
+The downside is that this golden age was built on violence, oppression, and forced pacification, and it was only golden for a few.
 
-The Pax Romana was propagated by:
+Rome propagated this vision relentlessly, through:
 
-- Works of art by people like Virgil or Epidictus
+- works of art by people like Virgil or Epictetus
 - impressive processions
 - games
 - statues
-- coins  
-- a constant and overwhelming presence; it was the center of all cultural activities
+- coins
+- a constant, overwhelming cultural presence — it was the center of nearly every public activity
 
-Therefore, it was present in entertainment, at work, in the market, even during meals. And everyone made sure that the entire community/city did not lose the favor of the emperor due to the bad behavior of individuals.
+As a result, the Pax Romana was inescapable: present in entertainment, at work, in the marketplace, even during meals. And the whole community made sure no individual's bad behavior cost the city the emperor's favor.
 
-Many cities (especially in Asia Minor, where the letters in Revelation were written) competed to build temples in honor of the emperor and the gods and to spread the Pax Romana. By doing so, they hoped to receive support from the emperor or at least a reduction in taxes.
+Many cities — especially in Asia Minor, where the letters in Revelation were written — competed with each other to build temples honoring the emperor and the gods and to spread the Pax Romana further. In doing so, they hoped to win the emperor's support, or at least a reduction in taxes.
 
 ## Pax Romana and Christians
 
-For the Christians, there were several serious problems:
+For Christians living under this system, several serious problems arose:
 
-- Jesus was their emperor (king of kings), especially since the gospels are written as euangeleon (the proclamation of a new emperor).
-- They {{% bible val="received provision from Jesus" link="mat:6,25-34" lang="en" %}} and did not rely on the emperor.
-- Some of the activities associated with the Pax Romana were against their beliefs (e.g. orgies as part of corporate activities).
-- Also, the means of “pacifying” the Roman Empire could not be reconciled with Christian beliefs.
-- They were accused of being intolerant because they said there was only one God, while the Roman Empire accepted all additional gods.
+- Jesus was their emperor — king of kings — especially since the gospels themselves were written as *euangelion*, the proclamation of a new emperor's reign.
+- They {{% bible val="received their provision from Jesus" link="mat:6,25-34" lang="en" %}}, not from the emperor.
+- Some of the activities woven into Pax Romana civic life, such as orgies as part of corporate functions, ran directly against their beliefs.
+- The very means Rome used to "pacify" the empire could not be reconciled with Christian conviction.
+- They were branded intolerant for insisting there was only one God, in an empire that comfortably accepted any number of additional gods.
 
-It was easy to conform (at least outwardly).
+Outward conformity was the easy path.
 
-As a result, they had three choices:
+That left Christians with essentially three choices:
 
-- Completely deny your faith, because {{% bible val="as part of the Roman Empire you can only have one master" link="mat:6,24" lang="en" %}}, Jesus or the emperor.
-- live out your faith fully and, in doing so risk social and economic isolation and ruin, imprisonment and even death.
-- outwardly conform (confess the emperor with your mouth) but inwardly remain faithful to Jesus (confess him with your heart). However, this makes your faith hypocritical.
+- Deny the faith completely, since {{% bible val="you can only serve one master" link="mat:6,24" lang="en" %}} — Jesus or the emperor, not both.
+- Live out the faith fully, risking social and economic isolation, ruin, imprisonment, and even death.
+- Conform outwardly — confessing the emperor with the mouth — while remaining inwardly faithful to Jesus, confessing him with the heart. The cost of this option is that it makes the faith hypocritical.
 
-The third option has been very compelling to many people and is a major theme in the book of Revelation. {{% int_link val="With the aspect of an apocalypse there are only two options — all for God or all against him" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}. So, the book of Revelation creates a counter-propaganda against the Pax Romana.
+That third option has proven compelling to many people across history, and it's a major theme running through Revelation. {{% int_link val="Because Revelation is an apocalypse, it allows only two options — all for God or all against him" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}, no comfortable middle ground. In that sense, the whole book functions as counter-propaganda against the Pax Romana.
 
 ## Christians and Jews
 
-The Jews were another source of conflict. Because of their long religious tradition, they were allowed to continue to practice their faith as long as it did not conflict with the Pax Romana — for example, they could celebrate Shabbat and carry out their temple activities.
+The Jews were another source of conflict. Because of their long religious tradition, they were permitted to keep practicing their faith as long as it didn't conflict with the Pax Romana — they could still celebrate Shabbat and carry out their temple activities, for instance.
 
-But now there was this Jewish sect, the Christians, who were not only disregarding the Pax Romana but were also converting many others throughout the Empire to do the same.
+But now there was this new Jewish sect, the Christians, who were not only disregarding the Pax Romana themselves but converting others throughout the empire to do the same. Rome responded by punishing the Jews for it, which in turn pushed the Jews to look for grounds to accuse the Christians of wrongdoing, so that Judaism itself could keep practicing undisturbed.
 
-Therefore, the Roman Empire punished the Jews. This made the Jews search for reasons to accuse the Christians of trespassing, so that they (the Jews) could continue to practice Judaism.
-
-This was hard on the Christians, and the book of Revelation also addresses this issue.
+This tension bore hard on the Christians, and Revelation addresses it directly.
 
 ## Jews in Revelation
 
-The book is about one thing: Jesus and everything decided about him. It is the same with the Jews.
+The book is ultimately about one thing: Jesus, and everything that gets decided in relation to him. That holds true even for how the book treats the Jews.
 
-In the first part we saw that there was tension between Christians and Jews. This is also clearly the case in Smyrna and Philadelphia, where they attacked the church that witnessed for Jesus. As a result, these Jews were called the synagogue of Satan. When it says that the Jews in Philadelphia later bowed down to the Church there, it means that they accepted Jesus, not that they submitted to the Church.
+We've already seen the tension between Christians and Jews in the historical situation; it surfaces clearly in the letters to Smyrna and Philadelphia, where Jewish opponents attacked the church for testifying about Jesus. Because of that, Revelation calls them the "synagogue of Satan." When the text later says the Jews in Philadelphia would bow down before the church, it means they would come to accept Jesus — not that they would submit to the institution of the church.
 
-Also in chapter 11, the place where the two witnesses are killed, it is spiritually described as Sodom (place of sin) and Egypt (place of slavery), this is a description of Jerusalem (because Jesus, their Lord, was killed there). Here even the name is avoided.
+The same dynamic appears in chapter 11, where the place where the two witnesses are killed is described, spiritually, as Sodom (a place of sin) and Egypt (a place of slavery). This is a description of Jerusalem — because Jesus, its rightful Lord, was killed there — and the name Jerusalem is pointedly avoided.
 
-Throughout the book of Revelation, the relationship to ethnic Israel is not mentioned (depending on your reading of the 144,000 in chapter 7), only the relationship to Jesus.
+Throughout Revelation, the relationship to ethnic Israel as such is never really addressed (how much weight you put on the 144,000 in chapter 7 depends on how you read that passage); the book's real concern is always the relationship to Jesus.
 
-On the other hand, the Church is part of Israel, and there are clear statements that describe a unity of Jews and Christians, e.g. the 24 elders in chapter 4 representing the 12 tribes and the 12 apostles, or the names of the 12 tribes and the 12 apostles engraved in the New Jerusalem.
+At the same time, the church is portrayed as part of Israel, not separate from it. Clear statements throughout the book describe a unity between Jews and Christians — the 24 elders in chapter 4, for instance, represent the 12 tribes and the 12 apostles together, and both the 12 tribes and the 12 apostles have their names engraved in the New Jerusalem.
 
-Also, heaven is not described as a neutral place, but as the New Jerusalem. It would not be surprising at all if Jesus were to appear in the physical Jerusalem at His second coming.
+Heaven itself, notably, is never described as some neutral place — it's described as the New Jerusalem. It would be no surprise at all if Jesus were to appear in the physical city of Jerusalem at his second coming.
 
-Why is there such a controversial statement about the Jews? Because the church is part of Israel and therefore cannot cut off its roots, even though some Jews openly attack the Church.
+So why does Revelation take such a pointed, even controversial stance on the Jews? Because the church is part of Israel and cannot cut off its own roots, even when some Jews are openly attacking it.
 
 ## Conclusion
 
-The challenge for the Church is to deal with the tension between being part of Israel and being attacked by Israel.
+The challenge for the church, then, is to hold together two things that pull in opposite directions: being part of Israel, and being attacked by Israel.
 
-I think we can learn a lot from this book about how we deal with each other in different church denominations or with Jews.
+There's a lot we can learn from this tension about how we relate to each other across different church denominations, and how we relate to Jewish people today.
 
 ## Take away
 
 Here are some questions for reflection:
 - How is the Pax Romana being articulated today? What happens when someone disagrees?
 - Who/what do you see as the source of your good life? From whom/what do you expect the solution to the problems in your life or the orientation in your life?
-- How do you react when this conflicts with being “politically correct”?
+- How do you react when this conflicts with being "politically correct"?
 - How do you threaten other people who disagree with you?
 - Do you feel the need to pretend in certain areas of your life? Why? What would happen if you didn’t pretend?
 - If you were in a situation where your personal opinion/belief would cost you a lot, would you still stand up for it? To what extent? What would you do in practice?

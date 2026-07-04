@@ -4,10 +4,10 @@ title: "Die Zornesschalen (Kap.15-16)"
 weight: 14
 ---
 
-Die Schalen des Zorns werden als letzte der Plagen aufgeführt und sind sehr intensiv.
+Die Zornesschalen werden als letzte der Plagenserien aufgeführt, und sie sind die intensivsten der drei Zyklen.
 
-Zunächst einmal: Wie kann ein liebender Gott voller Zorn sein? Das ist eine gute Frage und die kurze Antwort lautet: Dies ist eine Beschreibung von Gottes leidenschaftlichem Handeln und richtet sich gegen verstockte Herzen, falsches Vertrauen und die Tatsache, dass das Volk sein Volk zum Schweigen gebracht hat.
+Zunächst einmal: Wie kann ein liebender Gott voller Zorn sein? Das ist eine berechtigte Frage, und die kurze Antwort lautet: Dieser Zorn ist Gott, der mit Leidenschaft handelt — gerichtet gegen verstockte Herzen, falsches Vertrauen und die Zum-Schweigen-Bringung seines Volkes.
 
-Dieser Abschnitt zeigt, dass Gott nicht aufgibt, sondern alles gibt, um mit allen Menschen in Beziehung zu treten, aber auch respektiert, wenn sie sich von ihm abwenden.
+Dieser Abschnitt zeigt, dass Gott nicht aufgibt. Er gibt alles, was er hat, um alle Menschen in eine Beziehung mit sich zu ziehen, respektiert es aber dennoch, wenn sie sich abwenden.
 
-Dies ist auch der Abschnitt, in dem Armageddon erwähnt wird: Kein Ort, sondern ein Prinzip, das im Buch der Offenbarung sehr häufig vorkommt - der Sieg der hoffnungslos Schwachen gegen die unbesiegbar Starken.
+Dies ist auch der Abschnitt, in dem Armageddon erwähnt wird — kein Ort, sondern ein Prinzip, das sich durch das ganze Buch der Offenbarung zieht: der Sieg der hoffnungslos Schwachen über die unbesiegbar Starken.

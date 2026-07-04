@@ -17,47 +17,42 @@ sources:
       ref: fee_rev
 ---
 
-Bu kilise çöküşün eşiğinde ve tüm bunlar Balam yüzünden mi? Aslında sorun o değil.
+Bu kilise çöküşün eşiğinde, ve suçlu Balam gibi görünse de, aslında sorun o değil.
 
-{{% bible val="Pergamon’daki kilise" link="rev:2,12-17" lang="tr" %}}
+{{% bible val="Pergamon'daki kilise" link="rev:2,12-17" lang="tr" %}}
 
 ## Tarihsel arka plan
 
 <a name="67ad"></a>
-Pergamon, Vahiy kitabının yazılmasından 4 yüzyıl önce bile önemli bir kentti. Şehir denizden yaklaşık 20 km uzakta bir kayanın üzerine kurulmuştu.
+Pergamon, Vahiy yazılmadan dört yüzyıl önce bile önemli bir şehirdi. Denizden yaklaşık 20 km uzaktaki bir kaya çıkıntısının üzerine kurulmuştu.
 
-Kasaba uzun bir süre bu bölgede önde gelen bir güç olan Attides’in malikanesinin merkeziydi. Son hükümdar bu kasabayı imparatora hediye etmiştir. M.Ö. 29 yılında imparatorun onuruna bir tapınak inşa edilmiş, kısa bir süre sonra da başka bir imparator için bir tapınak daha yapılmıştır. Yani bu kasaba kesinlikle imparatorun gözdesiydi ve bunu kaybetmek istemiyordu.
+Şehir uzun süre, bölgenin önde gelen güçlerinden biri olan Attalos hanedanının merkeziydi. Son Attalos hükümdarı ölünce şehri Roma imparatoruna miras bıraktı. MÖ 29'da orada imparatorun onuruna bir tapınak inşa edildi, kısa bir süre sonra da ikinci bir imparator için başka bir tapınak yapıldı. Kısacası Pergamon imparatorların gözünde sağlam bir yer edinmişti — ve bu ayrıcalıklı konumu kaybetmeye hiç niyeti yoktu.
 
-Zeus, Athena, Dionysis ve Asklepios’u onurlandıran pek çok başka tapınak da vardı.
+Şehirde ayrıca Zeus, Athena, Dionysos ve Asklepios'a adanmış birçok başka tapınak da vardı.
 
-## İsa’nın görüşü
+## İsa'nın görüşü
 
 <a name="fa05"></a>
-İsa bu kilisenin zor bir yaşamı olduğunu bilir ve onları {{% bible val="ayırmak için çok keskin bir kılıçla" link="rev:2,12" lang="tr" %}} yaklaşır.
+İsa bu kilisenin zor bir hayatı olduğunu bilir ve onlara {{% bible val="çok keskin bir kılıç kuşanmış biri" link="rev:2,12" lang="tr" %}} olarak yaklaşır — ilahi öğretiyi sahtelikten ayıran bir araç.
 
-İsa bu yeri şöyle adlandırır: “{{% bible val="Şeytan’ın yaşadığı ve tahtının bulunduğu yer" link="rev:2,13" lang="tr" %}}”. Muhtemelen bununla tüm tapınakları kastetmektedir. Ve kilise iyi iş çıkardı. Katlandılar ve onun adından vazgeçmediler — bu da orada yaşamanın ne kadar zor olduğunu gösterir — hatta şehitlik noktasına kadar. Durumları İzmir’le karşılaştırılabilir, hatta daha da kötüdür.
+Pergamon'u "{{% bible val="Şeytan'ın yaşadığı ve tahtının bulunduğu yer" link="rev:2,13" lang="tr" %}}" olarak adlandırır, bu neredeyse kesinlikle şehirdeki tapınakların yoğunluğuna bir gönderme. Ve bu ölçüte göre kilise gayet iyi durumda: dayandılar ve İsa'nın adından vazgeçmediler, hatta şehitlik noktasına kadar — bu da orada Hristiyan olarak yaşamanın ne kadar zor olduğunu gösterir. Durumları İzmir'inkiyle kıyaslanabilir, belki daha da kötü.
 
-Ancak onları kıran bir şey vardır: {{% bible val="Balam ve Nikolaitler" link="rev:2,14-15" lang="tr" %}} mi yoksa başka bir sorun mu?
+Yine de onları içeriden çökerten bir şey var: {{% bible val="Balam ve Nikolaycılar" link="rev:2,14-15" lang="tr" %}}. Yoksa gerçek sorun başka bir şey mi?
 
 ## Sorun
 
 <a name="5385"></a>
-{{% int_link val="Balam’la ilgili öykü, sonuçta ortaya çıkan bir önderliğin başarısızlığını gösterir" link="/expl/bible/keyword/the-story-of-balaam" %}}. Nikolaylar’da da benzer bir sorun var gibi görünmektedir.
+{{% int_link val="Balam'ın öyküsü, tutarsız önderliğin başarısızlığını gösterir" link="/expl/bible/keyword/the-story-of-balaam" %}}, ve Nikolaycılar muhtemelen benzer bir başarısızlığı temsil ediyor. Her iki durumda da kilisenin önderliği sahte öğretiye karşı güçlü bir duruş sergilememiştir.
 
-Önderliğin yanlış öğretişle ilgili sıkı bir angajmanı yoktur. İsa’nın sunduğu vaade bakıldığında, sorunun onların iman eksikliği ve muhtemelen imanlarından ödün verme fikrini de beraberinde getiren rahatlatıcı öğretiş arayışları olduğu görülmektedir.
-
-Her öğreti aynı zamanda yapılanları da etkilediği için, davranışları ve tanıklıkları üzerinde de etkili olmuştur. Belki de yanlış öğretişin teşvik ettiği putlara adanmış yemeklere katılmak
+İsa'nın bu kiliseye sunduğu vaade yakından bakmak nedenini ortaya koyuyor: imandan yoksunlar, ve yüzleştiren değil rahatlatan bir öğretiyi aramaya devam ediyorlar — bu alışkanlık muhtemelen onları imanlarından ödün vermeye sürüklemiştir. Her öğreti davranışı biçimlendirdiğinden, bu gevşek öğretişin nasıl yaşadıkları ve neye tanıklık ettikleri üzerinde sonuçları vardır. Burada söz konusu olan şeyin, yani putlara adanmış ortak yemeklerin, teşvik edilmesine yol açan da muhtemelen bu olmuştur.
 
 ## Çözüm
 
 <a name="eebd"></a>
-{{% int_link val="Gizli kudret helvası" link="/expl/bible/keyword/the-story-of-balaam" %}} alacaklardır. Tanrı doğaüstü şeyler sağlar, ama işler umutsuz göründüğünde bile O’na güvenmemiz gerekir.
+Sadık kalanlara gizli {{% bible val="man" link="deu:8,16" lang="tr" %}} vaat edilir — Tanrı'nın doğaüstü şekilde sağladığının, ve durumlar umutsuz göründüğünde bile O'na güvenmemiz gerektiğinin bir hatırlatıcısı.
 
-İki anlamı olabilecek yeni bir isimle beyaz bir taş alacaklar:
+Ayrıca üzerinde yeni bir isim yazılı beyaz bir taş vaat edilir. O dünyada beyaz bir taşın iki olası anlamı vardı: {{% bible val="mahkemede beraat oyu vermek için" link="act:26,10" lang="tr" %}} kullanılırdı — bu uygundur, çünkü bu imanlıların {{% bible val="Kuzu'nun düğün ziyafetine" link="rev:19,9" lang="tr" %}} katılabilmeden önce putlara adanmış ziyafetlere katılma suçlamasından temize çıkması gerekirdi — ve aynı zamanda belki de o aynı düğün ziyafetine giriş sağlayan bir geçiş belgesi olarak da kullanılabilirdi.
 
-- {{% bible val="Mahkemede oy vermek için kullanılan" link="act:26,10" lang="tr" %}} beyaz taş, suçlu olmayanlara (örneğin putlara adanmış yemeklere katılma suçlamasından) atıfta bulunur ve {{% bible val="Kuzu’nun düğün yemeğine katılmaların" link="rev:19,9" lang="tr" %}}ı sağlardı
-- giriş izni olarak kullanılır (belki de Kuzu’nun düğün yemeğine)
+Kutsal Yazı'da yeni bir isim genellikle {{% bible val="yeni bir kimlikle" link="gen:17,5" lang="tr" %}} bağlantılıdır, ve o ismi bilmek kişi ile Tanrı arasındaki yakın bir ilişkinin işaretidir.
 
-Yeni bir isim normalde {{% bible val="yeni bir kimlikle" link="gen:17,5" lang="tr" %}} ilişkilidir ve yeni ismi bilmek bu kişiler arasında yakın bir ilişkiye işaret eder.
-
-Kilise isterse Tanrı yeni bir başlangıç sunar. {{% bible val="Ama istemezlerse, İsa onlara karşı savaşacaktır." link="rev:2,16" lang="tr" %}}
+Tanrı bu kiliseye, isterlerse, gerçek bir yeni başlangıç sunuyor. Ama {{% bible val="reddederlerse, İsa onlara karşı savaşacaktır" link="rev:2,16" lang="tr" %}}.

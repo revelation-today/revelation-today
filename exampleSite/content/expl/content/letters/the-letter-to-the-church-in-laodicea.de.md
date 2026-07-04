@@ -14,45 +14,34 @@ sources:
       ref: fee_rev
 ---
 
-Das ist wohl der {{% bible val="bekannteste Brief an die Gemeinde" link="rev:3,14-22" lang="de" %}} und wir alle kennen das Thema “lauwarm”. Aber verstehen wir wirklich den Zusammenhang? Vor allem, wenn es um eine Gemeinde geht, die kein Lob bekommt, nicht einmal ein kleines!
+Der {{% bible val="Brief an die Gemeinde von Laodizäa" link="rev:3,14-22" lang="de" %}} ist der am häufigsten gepredigte Brief der Offenbarung, sodass die meisten von uns das Problem der Lauheit schon kennen. Aber verstehen wir wirklich den Zusammenhang dahinter? Das ist hier wichtiger als sonst, denn Laodizäa ist die *einzige* Gemeinde, die überhaupt kein Lob erhält - nicht einmal ein kleines.
 
-## Der historische Hintergrund
+## Historischer Hintergrund
 
 <a name="19e8"></a>
-Laodicea lag an der Kreuzung mehrerer Handelsstraßen und war eine sehr reiche Stadt. Sie
+Laodizäa lag an der Kreuzung mehrerer Handelsrouten und war eine überaus wohlhabende Stadt:
 
-- war die “Schweizer Bank” Kleinasiens,
-- hatte eine Schafzucht, die sie mit feiner und wertvoller schwarzer Wolle versorgte,
-- hatte ein medizinisches Zentrum, das für seine Augensalbe bekannt war.
+- Sie fungierte gewissermaßen als die Schweizer Bank Kleinasiens,
+- ihre Schafzucht produzierte wertvolle schwarze Wolle,
+- und sie besaß ein bekanntes medizinisches Zentrum, das für seine Augensalbe berühmt war.
 
 ## Jesu Sicht
 
 <a name="ffea"></a>
-Jesus kommt als “treuer Zeuge” und “Amen”, weil Laodizea nicht echt ist. Ihr Hauptproblem ist die Selbstwahrnehmung. Sie denken, sie sind Gottes Geschenk an die Welt, aber in {{% bible val="Wirklichkeit versagen sie genau dort, wo sie sich kompetent fühlen" link="rev:3,17" lang="de" %}}.
+Jesus tritt dieser Gemeinde als der "treue Zeuge" und das "Amen" entgegen - ein gezielter Kontrast, denn Laodizäa selbst ist eine Gemeinde von der Art einer Fälschung. Ihr Kernproblem ist ein Mangel an Selbstwahrnehmung: Sie halten sich für Gottes Geschenk an die Welt, während sie in Wirklichkeit {{% bible val="genau in den Bereichen versagen, in denen sie sich für stark halten" link="rev:3,17" lang="de" %}}.
 
 ## Das Problem
 
 <a name="cee7"></a>
-Jesus begegnet ihnen auf Augenhöhe. Er kommt wie ein Kaufmann und bietet umsonst Güter an — dieselben Güter, von denen sie glauben, die beste Version schon zu haben. Sie denken wahrscheinlich, dass ein “gutes” Leben gut genug ist, um eine tolle Gemeinde zu sein (keine großen Sünden, Zehnten geben, die Bibel lesen, …).
+Jesus begegnet ihnen als Kaufmann - eine Figur, mit der sie sich identifizieren können - und bietet ihnen kostenlos genau die Güter an, von denen sie glauben, sie bereits in der besten erhältlichen Version zu besitzen. Sie nehmen an, dass ein anständiges Leben genügt, um eine großartige Gemeinde zu sein: keine offenkundigen Sünden, treue Zehnten, regelmäßiges Bibellesen und dergleichen.
 
-Das Problem ist, dass sie lauwarm sind. Lass mich das erklären: Es bedeutet nicht, dass sie entweder für Jesus brennen oder total gegen ihn sind, sondern es hat mit Wasser zu tun.
+Ihr eigentliches Problem ist, dass sie lauwarm sind, und das Bild stammt direkt von der Temperatur des Wassers. In jener Kultur wurde Wasser in zwei Zuständen geschätzt: heiß, nützlich für Heilzwecke wie eine heiße Quelle, oder kalt, erfrischend zum Trinken. Laodizäas eigene Wasserversorgung kam bezeichnenderweise lauwarm durch ein Aquädukt an, nachdem sie unterwegs ihre Hitze verloren hatte - ein lokaler Scherz, den Jesus in eine geistliche Diagnose verwandelt. Die Gemeinde besitzt keine der beiden nützlichen Eigenschaften: nur lauwarmes Wasser, das man im selben Moment wieder ausspuckt, in dem man es probiert.
 
-Damals gab es “gutes” Wasser in zwei Formen:
-
-- Heiß: Es konnte in heißen Quellen zur Heilung verwendet werden.
-- Kalt: Es war erfrischend zu trinken.
-
-Aber in Laodizea gab es nichts von beidem — nur lauwarmes Wasser, das man beim Trinken ausspuckt.
-
-Es gibt viele Wege, eine effektive Gemeinde zu sein: Evangelisation, Gebet, Heilung, Dienst an den Armen, …. Alles ist gut, aber Laodizea hatte nichts davon und war so nützlich wie lauwarmes Wasser.
+Es gibt viele Wege, eine wirksame Gemeinde zu sein - Evangelisation, Gebet, Heilung, Dienst an den Armen und mehr -, jeder mit seinem eigenen echten Zweck. Die Gemeinde von Laodizäa hatte sich in keinem davon eingerichtet und war ebenso nutzlos geworden wie ihr eigenes lauwarmes Wasser.
 
 ## Die Lösung
 
 <a name="3ba4"></a>
-Jesus ruft sie aus ihrer Bequemlichkeit heraus und klopft an ihre Tür. Aber es ist kein Ruf zur Bekehrung, {{% bible val="sondern der Ruf des Geliebten zu seiner Geliebten" link="sng:5,1-5" lang="de" %}}.
+Jesus ruft sie aus ihrer Selbstzufriedenheit heraus und klopft an ihre Tür. Das ist kein Aufruf zur Bekehrung, der sich an Ungläubige richtet - es ist {{% bible val="der Ruf des Liebenden an die Geliebte" link="sng:5,1-5" lang="de" %}}.
 
-Und WENN SIE IHN HÖREN, SITZEN SIE MIT IHM auf dem Thron im Thronsaal.
-
-Moment mal: Im Thronsaal sitzt niemand, alle stehen!
-
-Was bedeutet das nun für Laodizea? Ist das Motivation genug für sie?
+Und wenn sie zuhören, ist die Verheißung erstaunlich: Sie werden mit ihm auf dem Thron *sitzen*, im Thronsaal Gottes selbst. Halte einen Moment inne und bedenke, was das bedeutet - niemand sonst sitzt in diesem Thronsaal; alle anderen stehen. Ist diese Verheißung Grund genug, um Laodizäa aus seiner Selbstwahrnehmung aufzurütteln?

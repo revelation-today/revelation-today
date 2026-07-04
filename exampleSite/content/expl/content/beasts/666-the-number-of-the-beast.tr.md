@@ -13,94 +13,105 @@ sources:
       ref: bauckham_climax
 ---
 
-{{% bible val="Canavarın sihirli" link="rev:13,18" lang="tr" %}} sayısı — bence yanlış bir şekilde — güncel siyaseti bir numaralandırma şeması kullanarak yorumlamak için kullanılmıştır. Cevap araştırılmalıdır ve Kutsal Kitap’ın kendisinde bulunabilir.
+{{% bible val="Canavarın sihirli sayısı" link="rev:13,18" lang="tr" %}}, bana kalırsa yanlış bir şekilde, şu ya da bu numaralandırma şemasıyla güncel siyaseti çözmek için kullanılıp durdu. Gerçek yanıt metnin dışında aranarak bulunmaz — zaten Kutsal Kitap'ın kendisinde durur.
 
 ## Bazı temel bilgiler
 
 <a name="bdd5"></a>
-Bu konuyu daha derinlemesine incelemek için öncelikle biraz arka plana ihtiyacımız var:
+Öncelikle bu konuya daha ayrıntılı bakmadan önce biraz arka plana ihtiyacımız var:
 
-- [Gematria](https://en.wikipedia.org/wiki/Gematria): Bu 666 sayısını anlamak için kullanılan en yaygın yaklaşımdır. Alfabenin her bir değeri sayısal bir değere bağlanır ve değerlerin toplamı 666'ya ulaşırsa o kötü adamdır. Eğer bu uygun değilse ismin varyantlarını ya da İbranice, Latince, Yunanca gibi farklı dilleri kullanabilir ya da bunu üçlü bir altı olarak ele alabilirsiniz (yani Ronald Wilson Reagan canavar olarak kabul edilmiştir çünkü üç ismi 6 harften oluşmaktadır). [Biraz sabırla tarihteki ve günümüzdeki birçok ismi 666 ile eşleştirebileceğiniz gibi](https://en.wikipedia.org/wiki/Number_of_the_beast), bu yöntem çok fazla kötüye kullanılmıştır, çünkü “her anahtara uyan bir kilit çok değerli değildir”.
-- Sayılar: Kutsal Kitap’ta sayılar genellikle olaylarla ilişkilendirilir, {{% bible val="örneğin Musa Sina Dağı’nda yasayı alırken 40 gün oruç tuttu" link="exo:34,28" lang="tr" %}}, {{% bible val="halk yeni toprakları 40 günde kontrol etti" link="num:14,34" lang="tr" %}} ve {{% bible val="inançsızlıkları nedeniyle 40 yıl boyunca çölde dolaşmak zorunda kaldılar" link="num:14,34" lang="tr" %}}. Sizce {{% bible val="İsa’nın çölde 40 gün oruç tutması, İsrail’in 40 yıl boyunca çölde dolaşırken karşılaştığı zorluklarla yüzleşmesi bir tesadüf müydü" link="mat:4,1-11" lang="tr" %}}? 40 sayısının [inanç eylemleriyle](https://www.bibleserver.com/search/TR/k%C4%B1rk%20g%C3%BCn) ilgili olduğunu söyleyebiliriz. {{% bible val="Aynı şekilde 7 sayısı da tamamlanma ve Tanrı’nın dünyayı 7 günde tamamlamasıyla ilgilidir" link="gen:2,1-3" lang="tr" %}}. Öte yandan 6 sayısı, 6. günde yaratıldığı için insana ve insanın kusurlu eylemlerine atıfta bulunur. {{% int_link val="Sayılar hakkında daha fazla bilgi için bkz" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" %}}.
-- Bir mektup: {{% int_link val="Her zaman orijinal okuyucularla ilgili referanslara dikkat etmemiz gerektiğini gördük" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}. Peki 666 ilk kilise zamanında ne anlama geliyordu?
+- **Gematria**: 666 sayısını çözmek için insanların denediği en yaygın yol budur. [Gematria](https://en.wikipedia.org/wiki/Gematria), alfabenin her harfine sayısal bir değer atar; bir adın harfleri toplandığında 666 ediyorsa, o kişi "kötü adam" ilan edilir. Bir ad uymuyorsa, taraftarlar adın farklı biçimlerine geçer, başka bir dili (İbranice, Latince, Yunanca) dener ya da üçlü altı olarak okumaya başvurur — Ronald Wilson Reagan'ın canavar olmakla suçlanmasının nedeni de budur, çünkü üç adının her biri altı harften oluşur. Yeterince sabırla, [tarihten ve günümüzden pek çok adı 666'ya bağlayabilirsiniz](https://en.wikipedia.org/wiki/Number_of_the_beast) ve sorun tam olarak bu esneklikte yatar: bu yöntem ciddi biçimde kötüye kullanılmıştır, çünkü her anahtara uyan bir kilidin pek bir değeri yoktur.
+- **Sayılar**: Kutsal Kitap'ta sayılar sık sık belirli olaylarla ilişkilendirilir. {{% bible val="Musa, Sina Dağı'nda Yasa'yı alırken 40 gün oruç tuttu" link="exo:34,28" lang="tr" %}}, {{% bible val="halk yeni toprağı 40 gün boyunca gözetledi" link="num:13,25" lang="tr" %}} ve {{% bible val="imansızlıkları yüzünden 40 yıl çölde dolaşmak zorunda kaldılar" link="num:14,34" lang="tr" %}}. {{% bible val="İsa'nın çölde 40 gün oruç tutup" link="mat:4,1-11" lang="tr" %}} İsrail'in 40 yıllık çöl yolculuğunda karşılaştığı sınavlarla aynı sınavlarla karşılaşması bir rastlantı mı? 40 sayısının {{% int_link val="iman eylemleriyle" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" %}} bağlantılı olduğu söylenebilir. Aynı şekilde 7 sayısı tamamlanmaya ve Tanrı'ya işaret eder — {{% bible val="dünyayı 7 günde tamamlayan O'dur" link="gen:2,1-3" lang="tr" %}} — 6 sayısı ise insana ve insanlığın kusurlu eylemlerine işaret eder, çünkü insan altıncı günde yaratılmıştır. {{% int_link val="Sayılar hakkında daha fazlası." link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" %}}
+- **Bir mektup**: {{% int_link val="Her zaman ilk okuyucularla ilgili ipuçlarına dikkat etmemiz gerektiğini" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}} zaten görmüştük. Öyleyse 666, ilk kilise döneminde ne anlama geliyordu?
 
-## 6–6–6: Şeytani üçlünün başarısızlığı
+## 6–6–6: Kötü üçlünün başarısızlığı
 
 <a name="c1c9"></a>
-İlk anlayış, {{% bible val="başka bir makalede" link="rev:13" lang="tr" %}} açıklanan {{% bible val="Rev.13" link="rev:13" lang="tr" %}}'teki hikayeden gelmektedir. Bu öyküde canavarın Tanrı, İsa ve Kutsal Ruh’tan oluşan Kutsal Üçlü’yü taklit etme girişimi anlatılmaktadır.
+Bunu anlamanın ilk yolu, doğrudan {{% bible val="Va.13" link="rev:13" lang="tr" %}}'teki öyküden gelir; bu konu {{% int_link val="başka bir makalede" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} daha derinlemesine açıklanır: canavarın bütün projesi, Tanrı, İsa ve Kutsal Ruh'tan oluşan Kutsal Üçlü'yü taklit etmektir.
 
-Ancak inananlar için bu aldatma işe yaramıyor. Her bir unsur, taklidin etkisini “sınıflandıran” bir sayı ile nitelendirilir:
+Ama neye dikkat edeceğini bilen imanlılar için bu aldatmaca dağılır, çünkü taklidin her unsuru, sahtekârlığın gerçekte ne kadar tutarlı olduğunu ölçen bir notla değerlendirilir:
 
-- ejderha: gerçekten tüm gücü ilk canavara mı veriyor — hayır, gücü sadece (42 ay boyunca) veriliyor -&gt; 6
-- i̇lk canavar: canini i̇nsanlara olan sevgi̇si̇nden mi̇ veri̇yor ve gerçekten öldü mü — hayir, sadece bi̇r kafasi kesi̇ldi̇ği̇ i̇çi̇n ölümü bi̇le sahteydi̇ -&gt; 6
-- ikinci canavar: insanları gerçekten davet etti mi ve Kutsal Ruh gibi onların danışmanı oldu mu — hayır, sadece korku ve gözdağı ile hareket ediyor -&gt; 6
+- Ejderha — ilk canavarın sahip olduğu bütün güce gerçekten sahip mi? Hayır: o güç yalnızca *verilmiştir* ve yalnızca 42 ay için verilmiştir. Not: 6.
+- İlk canavar — canını gerçekten sevgiden mi verdi, gerçekten öldü mü? Hayır: yalnızca bir başı vurulduğu için ölümü bile sahteydi. Not: 6.
+- İkinci canavar — insanları Kutsal Ruh'un yaptığı gibi gerçekten davet edip yol gösteriyor mu? Hayır: yalnızca korku ve gözdağıyla hareket ediyor. Not: 6.
 
-Eğer benimle birlikte saydıysanız 6–6–6'yı bulursunuz. Canavarın sayısı. Eğer Tanrı’yı tanıyorsanız, kandırılamazsınız. Sevgiyle kalın ve kurtulun.
+Toplayın, 6-6-6'yı elde edersiniz — canavarın sayısı: taklidin en çok önem taşıdığı noktalarda, üç kez üst üste bir başarısızlık notu. Gerçek Tanrı'yı tanıyorsanız, sahtekârlık sizi kandıramaz. Sevgide kalın, güvende olursunuz.
 
 ## Bağlam içinde 666
 
 <a name="68bc"></a>
-666 sayısının bazı çok {{% int_link val="ilginç aritmetik özellikleri" link="/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation#bc16" %}} ve Vahiy kitabının içinde bağlantıları vardır
+666 sayısının Vahiy kitabının içinde bazı çok ilginç {{% int_link val="aritmetik özellikleri" link="/background/structure/expl/the-use-of-numbers-in-the-book-of-revelation#6395" %}} ve başka yerlere bağlantıları da vardır.
 
-- 666 sayısı dirilişle ilgili olan 8 sayısıyla ilişkilidir (İsa 8. günde dirilmiştir — Şabat’tan bir gün sonra, yani yeni haftanın ilk gününde ya da daha doğrusu yeni yaratılışın ilk gününde!!!). Diriliş konusu aynı zamanda {{% bible val="ilk canavarın tasvirinde" link="rev:13,3" lang="tr" %}}, {{% bible val="altıncı kâsede" link="rev:16,13" lang="tr" %}} (kurbağalar Mısır’ın doğum ve diriliş tanrıçasını temsil eder) ve {{% bible val="fahişenin oturduğu canavarın tasvirinde de öne çıkar" link="rev:18,11" lang="tr" %}}. [Bilgelik ihtiyacı olarak tanımlanan](https://biblehub.com/interlinear/revelation/13-18.htm) bu {{% bible val="bölüm ile daha sonra yedi baştan (=kral) biri ve aynı zamanda sekizincisi (kral) " link="rev:17,11" lang="tr" %}}olarak [tanımlanan fahişenin üzerinde oturduğu canavar hakkındaki bilgelik](https://biblehub.com/interlinear/revelation/17-9.htm) ihtiyacı arasında güçlü bir benzerlik vardır!
-- İfade bunu bir {{% bible val="insan sayısı olarak tanımlar" link="rev:13,18" lang="tr" %}} ve {{% bible val="144,000'den bahsedilmesinden" link="rev:14,1" lang="tr" %}} hemen önce gelir ki bu da yine duvarın bir meleğin [12*12=144(!) birimi olarak ölçüldüğü](https://biblehub.com/interlinear/revelation/21-17.htm) Yeni Yeruşalim’e (onların bulunacağı yer) bağlanır. Bunun ne anlama geldiği tam olarak açık olmasa da, canavar (alçaltılmış insanlık) ile tanıklar (meleklerin konumuna yüceltilmiş) arasındaki farkı bir kez daha göstermektedir
+- 666, Kutsal Kitap'ın dirilişle ilişkilendirdiği 8 sayısına bağlanır: İsa sekizinci günde dirildi — Şabat'tan sonraki gün, yani yeni haftanın ilk günü, ya da daha doğrusu yeni yaratılışın ilk günü. Diriliş, {{% bible val="ilk canavarın betimlenişinde" link="rev:13,3" lang="tr" %}}, {{% bible val="altıncı kâsede" link="rev:16,13" lang="tr" %}} (kurbağaları Mısır'ın doğum ve diriliş tanrıçasını temsil eder) ve {{% bible val="fahişenin üzerinde oturduğu canavarın betimlenişinde" link="rev:18,11" lang="tr" %}} de öne çıkar. [Bu pasajdaki bilgelik çağrısı](https://biblehub.com/interlinear/revelation/13-18.htm) ile daha sonra {{% bible val="yedi baştan (kraldan) biri, ama aynı zamanda sekizinci kral olarak da betimlenen" link="rev:17,11" lang="tr" %}} [fahişenin üzerinde oturduğu canavar hakkındaki bilgelik çağrısı](https://biblehub.com/interlinear/revelation/17-9.htm) arasında güçlü bir benzerlik vardır.
+- Metin bunu bir {{% bible val="insan sayısı" link="rev:13,18" lang="tr" %}} olarak adlandırır ve bunu doğrudan {{% bible val="144.000'den söz edilmesinden" link="rev:14,1" lang="tr" %}} önce yerleştirir; bu da Yeni Yeruşalim'e işaret eder — [duvarı, bir meleğin ölçüsü de olan insan ölçüsüyle 12×12=144 arşın olarak ölçülür](https://biblehub.com/interlinear/revelation/21-17.htm), bu ayrıntıyı {{% bible val="NIV" link="rev:21,17" lang="tr" %}} ESV kadar açık biçimde çevirmez. Tam anlamı belirsiz kalsa da, bu yine aynı karşıtlığın altını çizer: canavar aşağılanmış insanlığı temsil ederken, tanıklar meleklerin mertebesine yükseltilir.
 
-Bu bize iki yönü göstermektedir
+Bir arada ele alındığında, bunlar iki şeye işaret eder:
 
-- Bu, etkileyici bir şeyin kesinlikle zayıf, zayıf olanın ise üstün olarak gösterildiği {{% int_link val="Armageddon" link="/expl/content/bowls/the-key-to-armageddon" %}} ile benzer bir konudur.
-- Buradaki pasaj, sekizinci kral olarak 666'nın sırrının çözümüne işaret etmektedir.
+- Bu, {{% int_link val="Armagedon'daki" link="/expl/content/bowls/the-key-to-armageddon" %}} örüntüyü yansıtır: etkileyici görünen şeyin son derece güçsüz olduğu, güçsüz görünenin ise üstün çıktığı örüntü.
+- Bu pasaj, 666 gizeminin çözümünü sekizinci kral olarak kurar; bu konuya sırada bakacağız.
+
+## Sekizinci kral
+
+<a name="af40"></a>
+Peki bu sekizinci kral kim olabilir? Nero'nun öyküsü buna dikkat çekici biçimde uyar. Kendi annesini öldürmesiyle nam salmıştı, ama aynı zamanda Roma'nın sıradan halkı arasında çok popülerdi. Roma aristokrasisini kendinden uzaklaştırmıştı, ama Doğu'da — özellikle Yunanistan'da ve Partlar arasında — gerçekten popülerdi, hatta hayranlık görüyordu. İlk Yahudi savaşı Nero'nun döneminde gerçekleşmiş olsa da, Yahudiler onun hakkında kötü düşünmediler, çünkü savaşın kendisini yürüten Vespasianus ve Titus'tu. Ama Hristiyanlar için Nero, ilk zulümleri başlatan kişiydi ve pek çok kişi onu Deccal olarak görmeye başladı.
+
+Nero öleceğini anladığında, doğudaki müttefiklerine kaçtığına dair söylentiler yayıldı. Bu hiç gerçekleşmedi — kuşatıldı, Senato onu kamu düşmanı ilan etti ve o da kendini bir hançerle öldürdü. Kendisine uygun bir cenaze töreni yapılmadığı için, aslında hiç ölmediğine dair bir efsane yayıldı. Sonraki yıllarda, kendini Nero olarak tanıtan bir dizi sahtekâr ortaya çıktı ve bunlardan birkaçı Partlardan ciddi destek buldu.
+
+Bu, dönen Nero efsanesini canlı tuttu. Artık Roma için gerçek bir tehdit olan Partlarla ilişkilendirildiği için, giderek Roma'nın üzerine çöken bir yargı olarak görülmeye başlandı.
+
+Onun belirsiz sonu — gerçekten ölüp ölmediği — {{% bible val="ilk canavarın görünüşünü ona kusursuz biçimde benzetir" link="rev:13,3" lang="tr" %}}. {{% bible val="Altıncı kâse" link="rev:16,12" lang="tr" %}} de aynı yöne işaret ediyor olabilir, çünkü Partların bir saldırısını betimliyor olması pekâlâ mümkündür.
 
 ## İmparator Trajan
 
 <a name="db4a"></a>
-Bu bölümün başında gematriadan bahsettiğimiz için, aşağıdaki nedenlerden dolayı bu kategoriye giren bir hususla başlıyorum:
+Bu bölümün başında gematriadan söz edildiği için, iki nedenden ötürü bu kategoriye giren bir figüre değinmekte fayda var:
 
-- {{% int_link val="Bu dönemde yaşadığı için ilk okuyucular için önemlidir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}
-- canavarın çifte saldırısını yansıtıyor
+- ilk okuyucularla ilgilidir, çünkü onların kendi döneminde yaşamıştır, ve
+- {{% int_link val="canavarın çifte saldırısını yansıtır" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-Bu tanıma uyan kişi imparator [Trajan](https://en.wikipedia.org/wiki/Trajan)’dır.
+Bu tanıma uyan kişi İmparator [Trajan](https://en.wikipedia.org/wiki/Trajan)'dır; o:
 
-- o dönemde yaşıyordu (98–117 arası imparator) ve iyi bir örnek
-- uymadıkları takdirde Hıristiyanlara yapılan zulümleri desteklemiştir.
-- ancak askeri başarısı nedeniyle [5 iyi imparatordan biri](https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty#Five_Good_Emperors) olarak kabul edildi (onun döneminde Roma imparatorluğu en büyük genişlemesine sahip oldu), [büyük bir refah programı kurdu](https://en.wikipedia.org/wiki/Alimenta), [büyük bina projeleri vardı](https://en.wikipedia.org/wiki/Trajan#Building_projects) ve [oyunlara çok yatırım yapt](https://en.wikipedia.org/wiki/Trajan#Games)ı, bunların hepsi [Pax Romana’yı](https://en.wikipedia.org/wiki/Pax_Romana) yansıtıyordu
+- o dönemde yaşadı (98–117 arası imparatordu), bu da onu uygun bir örnek yapar,
+- Hristiyanlar uyum sağlamayı reddettiğinde onlara yönelik zulmü destekledi, ve yine de
+- [beş iyi imparatordan](https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty#Five_Good_Emperors) biri sayıldı: onun döneminde Roma İmparatorluğu en geniş sınırlarına ulaştı, kapsamlı bir [refah programı](https://en.wikipedia.org/wiki/Alimenta) kurdu, büyük [inşaat projeleri](https://en.wikipedia.org/wiki/Trajan#Building_projects) yürüttü ve [halk oyunlarına](https://en.wikipedia.org/wiki/Trajan#Games) büyük yatırım yaptı — bütün bunlar [Pax Romana'yı](https://en.wikipedia.org/wiki/Pax_Romana) somutlaştırıyordu.
 
-## Daniels’ın fırındaki arkadaşları
+## Daniel'in fırındaki arkadaşları
 
 <a name="1a8b"></a>
-İkinci referans, {{% bible val="Daniels’ın fırındaki arkadaşlarının" link="dan:3" lang="tr" %}} öyküsüdür. İkinci canavarla pek çok paralellik vardır. Burada insanların tapınması gereken ve görüldüğünde ateşle öldürülecek olan bir heykel vardır. {{% bible val="Heykelin boyutları " link="dan:3,1" lang="tr" %}}daha da ilginçtir: 60 feet yükseklik * 6 feet * 6 feet taban.
+İkinci referans, ikinci canavarla pek çok paralelliği olan {{% bible val="Daniel'in ateşli fırındaki arkadaşlarının" link="dan:3" lang="tr" %}} öyküsüdür. Burada da insanların tapması gereken bir heykel vardır ve itaatsizliği yakalanan herkes ateşle öldürülür. Özellikle ilginç olan {{% bible val="heykelin ölçüleridir" link="dan:3,1" lang="tr" %}}: tabanda 6 fit x 6 fit, yüksekliği 60 fit.
 
-İşin ilginç yanı, {{% bible val="heykele boyun eğmedikler" link="dan:3,16-18" lang="tr" %}}i için yüzleştirildiklerinde arkadaşlarının verdiği cevaptır: “Tanrı’nın bizi kurtarabileceğine inanıyoruz ama kurtarmasa bile sadık kalacağız”. Bu 666, baskıya (itaat etmeyenlerin öldürülmesi ya da alınıp satılamaması -&gt; finansal mücadele) verdiğimiz tepkiyle ilgili boyuta dokunur. Bu durumda Tanrı devreye girmese bile sadık olmalıyız.
+Daha da ilginç olanı, arkadaşların {{% bible val="heykele boyun eğmedikleri için" link="dan:3,16-18" lang="tr" %}} yüzleştirildiklerinde verdikleri yanıttır: "Tanrı'nın bizi kurtarabileceğine güveniyoruz — ama kurtarmasa bile sadık kalacağız." 666'nın bizim baskıya verdiğimiz tepkiyle buluştuğu nokta tam olarak burasıdır: uyum sağlamayanlar öldürülür, ya da en azından alım satım yapamaz ve gerçek bir mali mücadeleyle karşı karşıya kalır. Buradaki çağrı, Tanrı görünür biçimde müdahale etmese bile sadık kalmaktır.
 
-Ama canavarla ne ilgisi var? Bunu Daniel’deki öykünün sonunda görüyoruz. Dostlar sadık kaldıklarında korunmuşlardır ve “Tanrı’nın oğlu gibi biri” onlarla birliktedir ve sonunda mutlu bir sonla karşılaşırız. Sıkıntılar içindeyken İsa’nın bizimle olduğundan emin olabiliriz ve Vahiy’deki bir sonraki bölümde durum tersine döner, imanlılar iyi durumdayken şeytanın takipçilerinin başı ciddi belaya girer.
+Ama bunun canavarla ne ilgisi var? Daniel'deki öykünün nasıl bittiğine bakın. Arkadaşlar sadık kaldıkları için korundular — ateşin içinde "Tanrı Oğlu'na benzeyen biri" onlarla birlikte durdu — ve öykü mutlu bir sonla kapanır. Sıkıntı içindeyken, İsa'nın bizimle olduğundan tıpkı böyle emin olabiliriz ve Vahiy'in bir sonraki bölümü de aynı şekilde durumu tersine çevirir: Şeytan'ın takipçileri ciddi bir belaya düşerken, imanlılar iyi durumda çıkar.
 
-## Salomos zenginlikleri
+## Süleyman'ın zenginliği
 
 <a name="d311"></a>
-666'nın üçüncü referansını Kutsal Kitap’ta {{% bible val="Kral Salomon’un hayatının özetinin hemen başında" link="1ki:10,14-29" lang="tr" %}} aynen bu şekilde yazılı olarak buluruz. Bunlar onun {{% bible val="feci başarısızlığının anlatılmasından" link="1ki:11,1-13" lang="tr" %}} önceki son sözlerdir.
+666'ya üçüncü referans, Kutsal Kitap'ta tam olarak bu şekilde yazılı olarak {{% bible val="Kral Süleyman'ın yaşamının özetinde" link="1ki:10,14-29" lang="tr" %}}, tam da bu özetin başında görünür — {{% bible val="onun feci başarısızlığının anlatılmasından" link="1ki:11,1-13" lang="tr" %}} hemen önceki son yükseliş noktası.
 
-Salomon’un öyküsü ne hakkındadır? Öyküsü, {{% bible val="Natan’ın onu azarlaması ve bu yüzden çocuğunu kaybetmesiyle" link="2sa:12,1-23" lang="tr" %}} sonuçlanan {{% bible val="Batşeva" link="2sa:11" lang="tr" %}} öyküsüyle başlar, ancak {{% bible val="Tanrı ona Batşeva’dan Tanrı’nın sevgisini gösteren bir çocuk daha verir" link="2sa:12,24-25" lang="tr" %}}. {{% bible val="Tahta geçtikten sonra Tanrı’dan zenginlik ve güç yerine anlayışlı bir yürek istedi. Bunu istediği için tüm güce ve zenginliğe sahip oldu." link="1ki:3" lang="tr" %}}
+Süleyman'ın öyküsü nedir? {{% bible val="Bat-Şeva öyküsüyle" link="2sa:11" lang="tr" %}} başlar; bu da {{% bible val="Natan'ın onu azarlamasına ve bu günahtan doğan çocuğun ölümüne" link="2sa:12,1-23" lang="tr" %}} yol açar — yine de {{% bible val="Tanrı ona Bat-Şeva'dan, Tanrı'nın kendi sevgisinin bir işareti olan başka bir çocuk verir" link="2sa:12,24-25" lang="tr" %}}. Tahta çıktıktan sonra, {{% bible val="zenginlik ve güç yerine anlayışlı bir yürek istedi — ve bunu istediği için Tanrı ona bunun üstüne bütün gücü ve zenginliği de verdi" link="1ki:3" lang="tr" %}}.
 
-Sonuç olarak Tanrı’yı bereketinin kaynağı olarak gördü ve bereket Tanrı’yla olan ilişkisinden daha çok onu ilgilendirir oldu. {{% bible val="Sonunda bu onun düşüşü oldu" link="1ki:11,1-13" lang="tr" %}}. Bu bölümdeki diğer tüm sayılar yuvarlatılmışken, {{% bible val="her yıl tam 666 şel gümüş alması sizce de tuhaf değil mi" link="1ki:10,14" lang="tr" %}}?
+Sonuç olarak, Tanrı'yı bereketinin kaynağı olarak görmeye başladı, ama bereketin kendisi giderek Tanrı'yla ilişkisinden daha önemli hale geldi ve sonunda {{% bible val="bu onun çöküşü oldu" link="1ki:11,1-13" lang="tr" %}}. O bölümdeki her sayı yuvarlatılmışken, {{% bible val="her yıl tam olarak 666 şekel gümüş almasının" link="1ki:10,14" lang="tr" %}} tuhaf görünmemesi de garip değil mi?
 
 ## Sonuç
 
 <a name="6e5d"></a>
-Peki, ilk dinleyiciler ve bizim için bundan çıkarılacak sonuç nedir?
+Peki bundan hem ilk dinleyiciler hem de bizim için çıkarılacak ders nedir?
 
-- 666, aşırı güçlü ve kontrolcü büyük canavarın bir başarısızlık olduğunu ve inananların korkmasına gerek olmadığını gösterir.
-- İşler zorlaştığında (zulüm, ölüm korkusu ve ekonomik dışlanma) ve Tanrı müdahale etmek için ortaya çıkmadığında güçlü olmak ve korkuya kapılmamak gerekir, Daniel’e yapılan referansa bakın
-- Salomon’un başarısız olduğu gibi Tanrı’dan ve Evangelist üçlüden en iyisini almaya çalışarak (hala Tanrı’yı izlediğinizi düşünerek) ödün verirseniz çekici bir yaşam tarafından baştan çıkarılmamalısınız
-- Bu durum, kendi dönemlerinde zenginlik ve güvenlik getirmiş gibi görünen ancak ellerinde Hıristiyanların kanı bulunan Trajan örneğinde görülmüştür
+- 666, büyük, ezici, denetleyici canavarın sonunda bir başarısızlık olduğunu gösterir; bu yüzden imanlıların korkmasına gerek yoktur.
+- İşler zorlaştığında — zulüm, ölüm korkusu, ekonomik dışlanma — Tanrı görünür biçimde müdahale etmese bile güçlü kalmalı ve korkuya kapılmamalıyız; Daniel'in arkadaşlarının dersi budur.
+- Hâlâ Tanrı'yı izlediğimizi söyleyip aslında hem Tanrı'dan hem dünyadan en iyisini almaya çalışarak çekici bir uzlaşmaya kapılmamalıyız — tıpkı Süleyman'ın uzlaşmasının sonunda onu çökertmesi gibi.
+- Trajan, kendi döneminde aynı tehlikeyi gösterir: zenginlik ve güvenlik getiriyor gibi görünüyordu, ama elleri Hristiyanların kanıyla lekeliydi.
 
-Öyleyse bugün, {{% int_link val="666'nın ilkelerini" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} nasıl gördüğümüze bir göz atalım ve eğer
+Öyleyse bugün, çevremizde aynı {{% int_link val="666 ilkelerinin" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} nerede işlediğini incelemekte ve şunu değerlendirmekte fayda var:
 
-- bunlar tanrısal ilkeleri takip eder ve kalır veya
-- şeytanın cazip görünen ama felaketle sonuçlanacak ve Tanrı’dan uzaklaştıracak ilkelerini izler
+- Tanrı'nın ilkelerini mi izliyorlar ve bu yüzden kalıcı mı olacaklar, yoksa
+- şimdi çekici görünse de sonunda felaketle bitecek ve bizi Tanrı'dan uzaklaştıracak Şeytan'ın ilkelerini mi izliyorlar?
 
-Eğer 666'nın yerleştirilmiş bir bilgisayar çipi olduğunu düşünüyorsanız, bunu kendinize sorun. Ama bir de şu açıdan bakın: Bu çip halihazırda mevcut olmayan hangi bilgiyi verebilir?
+Eğer 666'nın vücuda yerleştirilmeyi bekleyen bir bilgisayar çipi olduğunu düşünüyorsanız, bunun yerine kendinize şunu sorun: Böyle bir çip, zaten şunlar aracılığıyla elde edilebilen hangi bilgiyi sağlayabilir ki:
 
 - Google aramanız
-- Tarama geçmişi
-- Akıllı telefon kullanımı (konum takibi dahil)
-- Kredi veya banka kartı kullanımı
-- Tonlarca sosyal medya kaydı mı?
+- Tarama geçmişiniz
+- Akıllı telefon kullanımınız (konum takibi dahil)
+- Kredi ya da banka kartı kullanımınız
+- Sayısız sosyal medya kaydınız?

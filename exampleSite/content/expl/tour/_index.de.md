@@ -6,11 +6,9 @@ next: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelati
 docType: expl
 ---
 
-Wir werden dich durch die Erklärungen führen.
+Dies ist die Vertiefungsebene: eine ausführliche, mit Quellen belegte Erklärung dafür, warum diese Lesart des Buches trägt - Vers für Vers.
 
-Hier findest du eine ausführlichere Erklärung, warum ich denke, dass dies ein gutes Verständnis ist. Am Ende der meisten Seiten findest du einen Link, wo ich auf große Theologen und ihren Beitrag zum Buch der Offenbarung verweise. 
+Am Ende der meisten Seiten findest du einen Link zu den Theologen und der Forschung hinter dem Argument dieser Seite. Wenn dich die Erklärung auf einer Seite nicht ganz überzeugt, sind das die Bücher, in die du eintauchen solltest - die Leseliste hier wurde bewusst kurz gehalten.
 
-Wenn du mit der Beschreibung dort nicht zufrieden bist, kannst du in diese Bücher eintauchen (ich habe versucht, die Anzahl der Bücher klein zu halten) und dort ausführlichere Informationen erhalten.
-
-Wenn du es durchlesen willst, wirst du etwa 6 Stunden brauchen. Wenn du alle Bibelverse nachlesen willst, wird es etwas länger dauern.
+Wenn du es komplett durchliest, dauert es etwa 6 Stunden. Wenn du dabei jeden Bibelvers nachschlägst, dauert es etwas länger.
 

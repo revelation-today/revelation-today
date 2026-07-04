@@ -17,64 +17,64 @@ sources:
       ref: beale_rev
 ---
 
-Taht odasındaki tapınma, kiliselerin mektuplarına verilen yanıttır. Neden? Ve bu nasıl oluyor da daha sonra gelecek olan tüm belalara bir giriş oluyor?
+Taht odasındaki ibadet, kiliselere yazılan mektuplarda ortaya konan sorunlara verilen cevaptır. Peki bu sahne nasıl oluyor da sonrasında gelen tüm belaların girişi haline geliyor — ve neden?
 
 ## Arka plan ve bağlam
 
 <a name="3e33"></a>
-Bu bölümden önceki son ayet zaten Tanrı'nın taht odasından bahsetmektedir, ancak kilisenin durumunu ele alan ilk üç bölümle daha fazla bağlantı vardır. Her iki bölümde de ortak ifadeler kullanılmaktadır
+Önceki bölümün son ayeti Tanrı'nın taht odasından zaten söz etmişti, ama bağlantılar daha derindir: taht odası bölümü, kilisenin durumunu ele alan ilk üç bölümdeki ifadeleri yankılar.
 
 <table><thead><tr>
     <th>Konu</th>
     <th>Mektuplar</th>
-    <th>Throne odası</th>
+    <th>Taht odası</th>
 </tr></thead><tbody>
 <tr>
-    <td><a href="https://biblehub.com/greek/2983.htm">otorite algısı</a></td>
-    <td>Tiyatira'da üstün gelenler için {{% bible val="sabah yıldızını almak" link="rev:2,28" lang="tr" %}} vaadinde</td>
-    <td>kuzu için {{% bible val="parşömen" link="rev:5,9" lang="tr" %}} ve {{% bible val="onur ve şeref" link="rev:5,12" lang="tr" %}} alacağı gibi</td>
+    <td>Yetkinin <a href="https://biblehub.com/greek/2983.htm">alınması</a></td>
+    <td>{{% bible val="Tiyatira'daki galiplere verilen sabah yıldızı vaadinde" lang="tr" link="rev:2,28" %}}</td>
+    <td>Kuzu'nun {{% bible val="tomarı" link="rev:5,9" lang="tr" %}} ve {{% bible val="onur ile yüceliği" link="rev:5,12" lang="tr" %}} almasında</td>
 </tr>
 <tr>
-    <td>gelen</td>
-    <td>{{% bible val="Laodikya tahta oturacak" link="rev:3,21" lang="tr" %}}</td>
-    <td>{{% bible val="kuzu üstesinden geldi ve parşömeni açmaya layık" link="rev:5,5" lang="tr" %}}</td>
+    <td>Galip gelen</td>
+    <td>{{% bible val="Laodikya'ya tahtta oturma vaadi verilir" link="rev:3,21" lang="tr" %}}</td>
+    <td>{{% bible val="Kuzu (ölümü) yendi ve tomarı açmaya layıktır" link="rev:5,5" lang="tr" %}}</td>
 </tr>
 <tr>
     <td>Tanrı'nın yedi ruhu</td>
-    <td>{{% bible val="Sardis adresinde" link="rev:3,1" lang="tr" %}}</td>
-    <td>{{% bible val="thron'dan önceki açıklamae" link="rev:4,5" lang="tr" %}} olarak ve {{% bible val="kuzunun gözleri̇ni̇n tanimi" link="rev:5,6" lang="tr" %}}</td>
+    <td>{{% bible val="Sardis'e yazılan mektupta" link="rev:3,1" lang="tr" %}}</td>
+    <td>{{% bible val="tahtın önündeki tasvirde" link="rev:4,5" lang="tr" %}} ve {{% bible val="Kuzu'nun gözlerinin tasvirinde" link="rev:5,6" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>azizlerin beyaz giysileri</td>
-    <td>{{% bible val="Sardis'teki fatihler" link="rev:3,5" lang="tr" %}} ve {{% bible val="İsa'nın Laodikya'ya teklifi" link="rev:3,18" lang="tr" %}}</td> 
-    <td>{{% bible val="24 ihtiyarın kıyafeti" link="rev:4,4" lang="tr" %}}</td>
+    <td>Kutsalların beyaz giysileri</td>
+    <td>{{% bible val="Sardis'te galip gelenler beyaz giysi giyer" link="rev:3,5" lang="tr" %}}, ve {{% bible val="İsa'nın Laodikya'ya teklifi" link="rev:3,18" lang="tr" %}}</td>
+    <td>{{% bible val="24 ihtiyarın beyaz giysileri" link="rev:4,4" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>Tahtlarda oturan azizler</td>
-    <td>için {{% bible val="Laodikya'daki üstün gelenler" link="rev:3,21" lang="tr" %}}</td>
-    <td>as {{% bible val="24 ihtiyar" link="rev:4,4" lang="tr" %}}</td>
+    <td>Tahtlarda oturan kutsallar</td>
+    <td>{{% bible val="Laodikya'daki galiplere" link="rev:3,21" lang="tr" %}} verilen vaat</td>
+    <td>{{% bible val="24 ihtiyarın" link="rev:4,4" lang="tr" %}} durumu</td>
 </tr>
 <tr>
-    <td>taçları olan azizler</td>
-    <td>{{% bible val="Smyrna'da söz veriyorum" link="rev:2,10" lang="tr" %}} ve {{% bible val="Philadelphia'da gerçeklik" link="rev:3,11" lang="tr" %}} gibi</td>
-    <td>{{% bible val="24 ihtiyarın resmi" link="rev:4,4" lang="tr" %}}</td>
+    <td>Kutsalların taçları</td>
+    <td>{{% bible val="Smyrna'ya vaat edildiği" link="rev:2,10" lang="tr" %}} ve {{% bible val="Filadelfya'da gerçekleştiği" link="rev:3,11" lang="tr" %}} gibi</td>
+    <td>{{% bible val="24 ihtiyarın tasvirinde olduğu" link="rev:4,4" lang="tr" %}} gibi</td>
 </tr>
 <tr>
-    <td>açık bir kapı görüntüsü</td>
-    <td>{{% bible val="Philadelphia'da gerçeklik" link="rev:3,8" lang="tr" %}} ve {{% bible val="Laodikya'da dilek" link="rev:3,20" lang="tr" %}}</td>
-    <td>{{% bible val="taht odasına giriş" link="rev:4,1" lang="tr" %}}</td> 
+    <td>Açık kapı imgesi</td>
+    <td>{{% bible val="Filadelfya'daki gerçeklikte" link="rev:3,8" lang="tr" %}} ve {{% bible val="Laodikya'nın dileğinde" link="rev:3,20" lang="tr" %}}</td>
+    <td>{{% bible val="taht odasının girişi olarak" link="rev:4,1" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>ruhunda coşku ile trompet gibi ses</td>
-    <td>{{%bible val="kiliselerle ilgili vizyon" link="rev:1,10-12" lang="tr" %}}</td>
-    <td>{{% bible val="vizyonu burada başlat" link="rev:4,1-2" lang="tr" %}}</td>
+    <td>Ruhta coşkuyla birlikte borazan gibi bir ses</td>
+    <td>{{% bible val="Kiliselere ilişkin görümün başlangıcında" link="rev:1,10-12" lang="tr" %}}</td>
+    <td>{{% bible val="Taht odasındaki görümün başlangıcında" link="rev:4,1-2" lang="tr" %}}</td>
 </tr>
 </tbody>
 </table>
 
-Bu ilişkiler kiliseye ruhsal gerçeklikleriyle ilgili bir vizyon vermeli ama aynı zamanda Mesih'in örneğini izlemelidir. Bu görümde gösterilen gerçeklik, kilisenin üzerinde hareket etmesi gereken gerçekliğin bir parçasıdır.
+Bu paralellikler kiliseye kendi ruhsal gerçekliğine dair bir görüm ve Mesih'in örneğini nasıl izleyeceğine dair bir model sunar. Bu görümde gösterilen gerçeklik, kilisenin harekete geçmesi gereken şeyin bir parçasıdır.
 
-{{%bible val="Daniel 7" link="dan:7" lang="tr" %}} Vahiy'in 4. ve 5. bölümleriyle çarpıcı bir paralelliğe sahiptir:
+{{% bible val="Daniel 7" link="dan:7" lang="tr" %}}, Vahiy Kitabı'nın 4. ve 5. bölümleriyle çarpıcı bir paralellik taşır:
 
 <table><thead><tr>
     <th>Konu</th>
@@ -82,12 +82,12 @@ Bu ilişkiler kiliseye ruhsal gerçeklikleriyle ilgili bir vizyon vermeli ama ay
     <th>Vahiy 4-5</th>
 </tr></thead><tbody>
 <tr>
-    <td>giriş cümleleri</td>
+    <td>Giriş ifadeleri</td>
     <td>{{% bible val="Daniel" link="dan:7,9" lang="tr" %}}</td>
     <td>{{% bible val="Vahiy" link="rev:4,1" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>cennetteki̇ ti̇ron</td>
+    <td>Gökteki taht</td>
     <td>{{% bible val="Daniel" link="dan:7,9" lang="tr" %}}</td>
     <td>{{% bible val="Vahiy" link="rev:4,2" lang="tr" %}}</td>
 </tr>
@@ -97,120 +97,119 @@ Bu ilişkiler kiliseye ruhsal gerçeklikleriyle ilgili bir vizyon vermeli ama ay
     <td>{{% bible val="Vahiy" link="rev:4,2" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>Tanrı'nın tanımı</td>
+    <td>Tanrı'nın tasviri</td>
     <td>{{% bible val="Daniel" link="dan:7,9" lang="tr" %}}</td>
     <td>{{% bible val="Vahiy" link="rev:4,3" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>tahtın önünde ateş</td>
+    <td>Tahtın önünde ateş</td>
     <td>{{% bible val="Daniel" link="dan:7,9-10" lang="tr" %}}</td>
     <td>{{% bible val="Vahiy" link="rev:4,5" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>cennet hizmetkarı tahtı çevreliyor</td>
+    <td>Göksel hizmetkarlar tahtı çevreler</td>
     <td>{{% bible val="Daniel" link="dan:7,10" lang="tr" %}}</td>
-    <td>Vahiy ({{% bible val="24 yaşlı" link="rev:4,4" lang="tr" %}}, {{% bible val="4 canlı varlık" link="rev:4,6-10" lang="tr" %}} ve {{% bible val="melekler" link="rev:5,11" lang="tr" %}})</td>
+    <td>Vahiy ({{% bible val="24 ihtiyar" link="rev:4,4" lang="tr" %}}, {{% bible val="4 canlı yaratık" link="rev:4,6-10" lang="tr" %}} ve {{% bible val="melekler" link="rev:5,11" lang="tr" %}})</td>
 </tr>
 <tr>
-    <td>tahttan önce ki̇taplar</td>
+    <td>Tahtın önünde kitaplar</td>
     <td>{{% bible val="Daniel" link="dan:7,10" lang="tr" %}}</td>
     <td>{{% bible val="Vahiy" link="rev:5,1-5" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>kitaplar açıldı</td>
+    <td>Kitaplar açılır</td>
     <td>{{% bible val="Daniel" link="dan:7,10" lang="tr" %}}</td>
     <td>{{% bible val="Vahiy" link="rev:5,9" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>ilahi (mesihi) figür otorite almak için tahta yaklaşır</td>
+    <td>İlahi (mesihsel) bir figür yetki almak için tahta yaklaşır</td>
     <td>{{% bible val="Daniel" link="dan:7,13-14" lang="tr" %}}</td>
-    <td>Vahiy'de ({{% bible val="Açıklama" link="rev:5,5-7" lang="tr" %}} olarak, çünkü {{% bible val="onları tüm uluslardan satın aldı" link="rev:5,9" lang="tr" %}} ki {{% bible val="hepsi ona övgü veriyor" link="rev:5,12-13" lang="tr" %}})</td>
+    <td>Vahiy'de ({{% bible val="tasvir edildiği gibi" link="rev:5,5-7" lang="tr" %}}, çünkü {{% bible val="İsa onları tüm uluslardan satın aldı" link="rev:5,9" lang="tr" %}}, ve {{% bible val="hepsi ona övgü sunar" link="rev:5,12-13" lang="tr" %}})</td>
 </tr>
 <tr>
-    <td>kapsam: tüm halklar, uluslar ve diller</td>
+    <td>Kapsam: tüm halklar, uluslar ve diller</td>
     <td>{{% bible val="Daniel" link="dan:7,14" lang="tr" %}} </td>
     <td>{{% bible val="Vahiy" link="rev:5,9" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>görenin vizyonu görürken yaşadığı sıkıntı</td>
+    <td>Görümü görenin yaşadığı sıkıntı</td>
     <td>{{% bible val="Daniel" link="dan:7,15" lang="tr" %}}</td>
     <td>{{% bible val="Vahiy" link="rev:5,4" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>kâhinin taht hizmetkârlarından birinden ilahi konsey alması</td>
+    <td>Görümü görenin, taht hizmetkarlarından birinden göksel bir açıklama alması</td>
     <td>{{% bible val="Daniel" link="dan:7,16" lang="tr" %}}</td>
     <td>{{% bible val="Vahiy" link="rev:5,5" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>bir krallık üzerinde hüküm sürme yetkisi verilen azizler</td>
+    <td>Kutsallara bir krallık üzerinde hüküm sürme yetkisi verilir</td>
     <td>{{% bible val="Daniel" link="dan:7,18" lang="tr" %}}, sadece {{% bible val="iki kez" link="dan:7,22" lang="tr" %}} değil, {{% bible val="üç kez" link="dan:7,27" lang="tr" %}}</td>
     <td>{{% bible val="Vahiy" link="rev:5,10" lang="tr" %}}</td>
 </tr>
 <tr>
-    <td>Tanrı'nın sonsuz saltanatına ilişkin son söz</td>
+    <td>Sonuç olarak Tanrı'nın sonsuz egemenliğinden söz edilir</td>
     <td>{{% bible val="Daniel" link="dan:7,27" lang="tr" %}}</td>
     <td>{{% bible val="Vahiy" link="rev:5,13-14" lang="tr" %}}</td>
 </tr>
 </tbody>
 </table>
 
-Birçok paralellik olsa da, her iki pasajda olayların sırasının farklı olduğunu kolayca görebilirsiniz.
+Paralellikler çok kapsamlı olsa da, iki pasaj arasında olayların sırasının farklı olduğunu kolayca görebilirsiniz.
 
-Bu sahne melek konseyini hatırlatmaktadır.
+Bu sahne aynı zamanda melek meclisi imgesini de hatırlatır, örneğin:
 
-- {{% bible val="Isaiah’ın çağrısı ya da" link="isa:6,1-9" lang="tr" %}}
-- {{% bible val="Ahabs’ın ölümüyle ilgili karar" link="1ki:22,19-23" lang="tr" %}}
+- {{% bible val="Yeşaya'nın çağrılışında" link="isa:6,1-9" lang="tr" %}}, ya da
+- {{% bible val="Ahav'ın ölümüyle ilgili kararda" link="1ki:22,19-23" lang="tr" %}}.
 
-## Neden ibadet cevaptır?
+## İbadet neden cevaptır?
 
 <a name="0138"></a>
-Kiliselerdeki sorunlara baktığımızda bunları aşağıdaki gibi kategorize edebiliriz:
+Kiliselerdeki sorunlar şöyle gruplandırılabilir:
 
-- Yanlış davranışa yol açan yanlış öğreti (Pergamon, Thyatira)
-- Yanlış öz değerlendirme yanlış eylemlere yol açar (Sardis, Laodikya)
-- Yanlış öncelik anlamsızlığa yol açar (Efes)
-- Koşullar çok ağır olduğunda pes etme riski (Smyrna, Philadelphia)
+- yanlış öğreti yanlış davranışa yol açar (Bergama, Tiyatira),
+- yanlış öz değerlendirme yanlış eylemlere yol açar (Sardis, Laodikya),
+- yanlış öncelikler anlamsızlığa yol açar (Efes),
+- çok zor koşullar pes etme riskini artırır (Smyrna, Filadelfya).
 
-Hepsi için cevap ibadettir.
+Bunların hepsi için cevap ibadettir:
 
-- Orijinali daha iyi ve daha iyi bilirsek yanlış öğretiden daha az etkileniriz
-- Tanrı’yı tanır ve O’na olduğu gibi tapınırsak, kendimizi daha iyi anlar ve O’na nerede ihtiyaç duyduğumuzu görürüz
-- Eğer Tanrı’ya göre yerimizi bulursak, önceliklerimiz de yerine oturur; çünkü “Tanrı ilk sırada değilse, diğer her şey yanlış yerdedir.”
-- Tanrı’ya güvenir ve O’nunla sadakat içinde yürürsek, sarsılmaz bir şey bulduğumuz için kolay kolay sarsılmayız
+- Aslı — Tanrı'nın kendisini — ne kadar çok tanır ve anlarsak, yanlış öğretilerden o kadar az etkileniriz.
+- Tanrı'yı tanıdığımızda ve O'na gerçekte olduğu gibi tapındığımızda, kendimizi daha iyi anlar ve O'na nerede ihtiyaç duyduğumuzu görürüz.
+- Tanrı'yla ilişkimizde yerimizi bulduğumuzda, önceliklerimiz de yerine oturur: Tanrı ilk sırada değilse, geri kalan her şey yanlış yerde olur.
+- Tanrı'ya güvenip O'nunla sadakatle yürüdüğümüzde, kolayca sarsılmayız, çünkü sarsılmaz bir şey bulmuşuzdur.
 
 ## Taht odası
 
 <a name="54a4"></a>
-Yuhanna’nın ilk izlenimi, Tanrı’yı doğrudan görmeyi bile imkânsız kılan Tanrı’nın yüceliğidir. {{% bible val="Musa Tanrı’nın yüceliğini görmek istediğinde göremedi, ama bunun yerine Tanrı ona merhametini gösterdi, bu nedenle Tanrı’nın yüceliği O’nun merhameti olarak tanımlanabilir." link="exo:33,18-20" lang="tr" %}} Yargılar merhamet bakış açısından olacaktır.
+Yuhanna'nın ilk izlenimi Tanrı'nın yüceliğidir — o kadar güçlüdür ki Tanrı'yı doğrudan görmek imkânsızdır. {{% bible val="Musa Tanrı'nın yüceliğini görmek istediğinde göremedi, bunun yerine Tanrı ona merhametini gösterdi. Böylece Tanrı'nın yüceliği, O'nun merhameti olarak tanımlanabilir" link="exo:33,18-20" lang="tr" %}}. Bu yüzden sonrasında gelen yargıları merhamet açısından okumalıyız.
 
-İkinci nokta {{% bible val="gökkuşağıdır" link="rev:4,3" lang="tr" %}}. {{% bible val="Bu Nuh’la yapılan antlaşmayı hatırlatır; Tanrı yayını bir daha yeryüzünü sular altında bırakmayacağına ve mevsimleri koruyacağına dair bir söz olarak oraya koymuştur — bu antlaşmada Nuh’tan hiçbir talepte bulunulmamıştır" link="gen:9,8-11" lang="tr" %}}. Bu da taht odasındaki karaktere bir başka ışık tutmaktadır. Yargılar vardır ama bunlar sınırlıdır.
+Dikkat edilmesi gereken ikinci ayrıntı {{% bible val="gökkuşağıdır" link="rev:4,3" lang="tr" %}}. {{% bible val="Bu, Tanrı'nın yeryüzünü bir daha asla tufanla kaplamayacağına ve mevsimleri koruyacağına dair verdiği söz olarak gökkuşağını yarattığı Nuh'la yapılan antlaşmanın bir hatırlatıcısıdır. Bu antlaşmada Nuh'tan hiçbir talep yoktur" link="gen:9,8-11" lang="tr" %}}. Bu ayrıntı, taht odasından çıkan belaların doğasına kendi ışığını tutar: yargılar vardır, ama sınırlıdırlar.
 
-Sonuncusu {{% bible val="camdan denizdir" link="rev:4,6" lang="tr" %}}. Bunun üç çağrışımı vardır:
+Son ayrıntı ise üç çağrışımı olan {{% bible val="camdan denizdir" link="rev:4,6" lang="tr" %}}:
+- {{% bible val="gökteki Tanrı'nın yüceliği" link="ezk:1,22" lang="tr" %}} ve {{% bible val="Mısır'dan Çıkış sırasında yeryüzündeki yüceliği" link="exo:24,10" lang="tr" %}},
+- {{% bible val="İsrail'in Mısır'dan Çıkış sırasında Kızıldeniz'i geçişi" link="exo:15,8" lang="tr" %}},
+- {{% bible val="Süleyman'ın tapınağındaki tunç deniz" link="2ki:25,13" lang="tr" %}}.
 
-- {{% bible val="Tanrı’nın cennetteki" link="ezk:1,22" lang="tr" %}} ve {{% bible val="Mısır’dan Çıkış sırasındaki görkemi" link="exo:24,10" lang="tr" %}},
-- {{% bible val="Süleyman Tapınağı’nın bronz denizi" link="2ki:25,13" lang="tr" %}} ve
-- {{% bible val="İsrail’in Mısır’dan Çıkış’ta Kızıldeniz’i geçmesi" link="exo:15,8" lang="tr" %}} (Deniz, {{% bible val="kötü insanlar" link="isa:57,20" lang="tr" %}} da dahil olmak üzere {{% bible val="kötülüğün yeridir" link="psa:74,10-17" lang="tr" %}} ve camdan deniz de katılaşmış kötülüğün bir resmidir).
+Deniz aynı zamanda {{% bible val="kötülüğün yeridir" link="psa:74,10-17" lang="tr" %}} ve {{% bible val="kötü insanlarla" link="isa:57,20" lang="tr" %}} ilişkilendirilir — dolayısıyla camdan deniz, katılaşmış kötülüğün bir tasviridir.
 
-Bu, Tanrı’nın halkına yakın olduğunu ve onları koruduğunu gösterir. Kutsallar da belalar sırasında orada olacaklar, ama Tanrı onları koruyacaktır.
+Bir araya getirildiğinde, camdan deniz Tanrı'nın halkına yakın olduğunu ve onları koruduğunu gösterir. Kutsallar belalar sırasında hâlâ orada olacaklar, ama Tanrı onlarla birlikte olacak ve onları bu süreçte koruyacaktır.
 
-Göreceğiniz gibi buradaki tema da budur: Her bela ya da duyuru dizisi taht odasında başlar. Burası kitaptaki merkezi yerdir. Bu nedenle burayı anlamak önemlidir.
+İşte bu sahne boyunca işleyen tema budur: her bela dizisi, her duyuru, taht odasında başlar. Burası kitaptaki merkezi yerdir, bu yüzden burayı anlamak bu kadar önemlidir.
 
-Yaklaşan olaylara baktığımızda şunu görürüz
-
-- {{% int_link val="Mühürlerde çok büyük sıkıntılar vardır, ancak Şeytan’ın kötülüğünü açığa çıkarmak, mümkün olduğunca çok kişiyi kurtarmak ve hızlı bir sonla gelmek için oradadırlar." link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
-- {{% int_link val="Borazanlar insanların güvendiği yanlış şeyleri açığa çıkarır ve beşinci ve altıncı borazanlarda belanın nedeni insanların güvendiği iblislerdir." link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
-- {{% int_link val="Çanaklar, Tanrı’nın insanların aldanmaması ve altıncı ve yedinci çanaklarda canavarla birlikte batmaması için her şeyi koyduğu yerdir." link="/expl/content/bowls/the-bowls-of-wrath" %}}
+Önümüzdeki olaylara baktığımızda şunu görürüz:
+- {{% int_link val="mühürler muazzam sıkıntılara yol açar, ama amaçları Şeytan'ın kötülüğünü ifşa etmek, mümkün olduğunca çok insanı kurtarmak ve zamanın sonunu hızlandırmaktır" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}};
+- {{% int_link val="borazanlar insanların güvendiği sahte şeyleri ifşa eder — beşinci ve altıncı borazanlar, sıkıntının gerçek nedeninin insanların iblislere olan güveni olduğunu ortaya koyar" link="/expl/content/trumpets/the-trumpets-in-revelation" %}};
+- {{% int_link val="kaseler, Tanrı'nın insanları aldanmaktan uzak tutmak için her şeyi açığa çıkardığı yerdir; altıncı ve yedinci kase canavarın ve takipçilerinin sonunu gösterir" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
 
 ## İbadet
 
 <a name="e932"></a>
-Eski zamanlarda tapınak (göksel taht odasının bir yansıması olan) dünyanın bir temsilidir. Tanrı merkezdedir ve etrafındaki her şey onunla ilişkili olarak yerini bulur.
+Eski dünyada, göksel taht odasının bir yansıması olan tapınağın kendisi, tüm dünyayı temsil ederdi. Tanrı merkezdedir, ve etrafındaki her şey O'nunla ilişkisinde kendi yerini bulur.
 
-{{% bible val="Hezekiel’in" link="ezk:1,5-21" lang="tr" %}} ilham verdiği {{% bible val="dört yaratık" link="rev:4,7" lang="tr" %}} tarafından temsil edilen yaratılışa sahibiz
+Yaratılışın kendisi, {{% bible val="Hezekiel'in" link="ezk:1,5-21" lang="tr" %}} daha önce tasvir ettiği {{% bible val="dört yaratık" link="rev:4,7" lang="tr" %}} tarafından temsil edilir:
+- kara hayvanlarının hükümdarı aslan,
+- evcil hayvanların en güçlüsü öküz,
+- yaratılışın hükümdarı insan,
+- havanın hükümdarı kartal.
 
-- Kara hayvanlarının hükümdarı aslan
-- Öküz evcilleştirilmiş hayvanların en güçlüsü
-- Yaratılışın yöneticisi olarak insan
-- Havanın hakimi kartal
-
-Onlara, Davut’un tanıttığı {{% bible val="24 kâhin" link="1ch:24,3-19" lang="tr" %}}, {{% bible val="24 Levili bekçi" link="1ch:26,17-19" lang="tr" %}} ve{{% bible val=" 24 daimi tapınmacının yanı" link="1ch:25" lang="tr" %}} sıra İsrail’in 12 kabilesini ve kilisenin temeli olan 12 havariyi yansıtan {{% bible val="24 ihtiyar katılır" link="rev:4,4" lang="tr" %}}. Bu, İsrail ve Kilise’nin tüm çatışmalara rağmen bir olarak anlaşılması gerektiği anlamına gelir. Kilise bir tapınma kilisesi olarak tanımlanır.
+Onlara, Davut'un kurduğu {{% bible val="24 kâhin bölümünü" link="1ch:24,3-19" lang="tr" %}}, {{% bible val="24 Levili kapı bekçisini" link="1ch:26,17-19" lang="tr" %}} ve {{% bible val="24 daimi tapınmacıyı" link="1ch:25" lang="tr" %}} yankılayan, ama aynı zamanda İsrail'in 12 oymağını ve Kilise'nin temeli olan 12 havariyi de çağrıştıran {{% bible val="24 ihtiyar" link="rev:4,4" lang="tr" %}} katılır. Bir başka deyişle, İsrail ve Kilise, tüm çatışmalarına rağmen tek bir bütün olarak görülmelidir. Kilise, özünde, bir ibadet kilisesi olarak tanımlanır.

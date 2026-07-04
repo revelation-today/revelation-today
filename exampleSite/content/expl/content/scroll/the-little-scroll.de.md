@@ -15,33 +15,33 @@ sources:
       ref: beale_rev
 ---
 
-Es gibt ein kleines Buch, das Johannes den soll und das Geheimnis der sieben Donner. Was hat es damit auf sich?
+Kapitel 10 dreht sich um ein kleines Büchlein, das Johannes essen soll, und um das Geheimnis der sieben Donner, die in dem Moment versiegelt werden, in dem sie sprechen. Was bedeuten diese beiden seltsamen Details?
 
-## Die Motivation
+## Warum die Geschichte hier innehält
 
 <a name="4809"></a>
-Nach der sechsten Posaune scheint es nichts zu geben, was die Menschen davon abhält, sich den Dämonen zuzuwenden, die sie zerstören. Deshalb gibt es einen langen Einschub zwischen der sechsten und der siebten Posaune am Ende von Kapitel 11.
+Nach der sechsten Posaune sieht es so aus, als könnte nichts die Menschen mehr vor den Dämonen retten, die sie zerstören: Neun Plagen sind gekommen und gegangen, und noch immer kehrt niemand um. Diese Sackgasse ist der Grund, warum die Kapitel 10 und 11 einen längeren Einschub zwischen der sechsten und der siebten Posaune bilden – die siebte erklingt erst am Ende von Kapitel 11.
 
-Es muss etwas geben, das die Menschen vor ihrem eigenen Unglück bewahrt, und das ist das treue Zeugnis der Gemeinde — dargestellt durch die zwei Zeugen, die in der Anbetung gegründet sind.
+Es braucht etwas anderes als Not, um die Menschen zu Gott zurückzuführen, und der Text zeigt die Antwort: das treue Zeugnis der Gemeinde, dargestellt durch zwei Zeugen, deren Zeugnis in der Anbetung Gottes verwurzelt ist und nicht in der Katastrophe.
 
 ## Der Engel mit dem Büchlein
 
 <a name="9ea4"></a>
-Dazu erscheint ein Engel auf einer weißen Wolke. Ob es sich nun um Jesus selbst oder um einen Engel handelt, der ihn vertritt: Er ist mit Jesus verbunden. Auch die Existenz eines Büchleins verbindet die Ereignisse hier mit Kapitel 5, wo Jesus das Buch mit den sieben Siegeln öffnet.
+Um dieses Zeugnis möglich zu machen, erscheint ein Engel auf einer weißen Wolke. Ob es sich dabei um Jesus selbst handelt oder um einen Engel, der ihn vertritt – die Szene ist unverkennbar mit ihm verbunden, und dasselbe gilt für das Büchlein, das er trägt und das an die Schriftrolle erinnert, die Jesus bereits in Kapitel 5 geöffnet hat.
 
-Dieses kleine Buch ist nicht dasselbe wie in Kapitel 5, aber es gibt eine Verbindung. Hier ist es ein kleineres Buch, das Johannes essen soll, um Zeuge zu sein — in Kapitel 5 geht es darum, Satan bloßzustellen.
+Es ist nicht dieselbe Schriftrolle, aber sie steht mit ihr in Verbindung. Die Schriftrolle aus Kapitel 5 ist schlicht „eine Schriftrolle", die Jesus öffnet, um Satans Sturz aufzudecken; dieses Büchlein hier ist ausdrücklich kleiner, und statt geöffnet zu werden, wird es gegessen – von Johannes, der stellvertretend für die Gemeinde steht –, damit es in Zeugnis verwandelt werden kann.
 
-In Kapitel 5 ging es darum, dass Jesus am Kreuz gesiegt hat. Aber hier geht es darum, dass die Gemeinde noch etwas tun muss, was für die Erfüllung von Gottes Plan entscheidend ist.
+Die Verbindung zwischen beiden ist eine Frage des Ausmaßes: Jesus hat Satan am Kreuz besiegt, und dieser Sieg ist das Hauptereignis. Was bleibt, ist eine kleinere, aber dennoch unverzichtbare Aufgabe, die die Gemeinde erfüllen muss, damit Gottes Plan zur Vollendung kommt.
 
-Zur Bestätigung setzt der Engel einen Fuß auf das Meer und den anderen auf das Land, um zu zeigen, dass er Autorität hat und dass die Gemeinde nichts zu befürchten hat, denn in Kapitel 13 sind dies die beiden Orte, aus denen die Tiere kommen.
+Der Engel macht deutlich, dass die Gemeinde bei dieser Aufgabe nichts zu befürchten hat, indem er einen Fuß auf das Meer und einen auf das Land setzt – genau den Boden, aus dem in Kapitel 13 die beiden Tiere hervorgehen werden. Über beiden zu stehen bedeutet, Autorität über beide zu beanspruchen.
 
-Und dann sind da die sieben Donner, die sprechen. Johannes ist sehr daran interessiert, was sie sagen, aber er soll es versiegeln. Wir können spekulieren, aber wir werden es nicht erraten, bis Gott es uns offenbart.
+Dann kommen die sieben Donner. Was auch immer sie sagen, es bleibt gerade deshalb reizvoll, weil wir es nie erfahren: Johannes wird befohlen, ihre Worte zu versiegeln, statt sie aufzuschreiben. Wir können über ihren Inhalt spekulieren, so viel wir wollen, aber wir werden es erst erfahren, wenn Gott sich entscheidet, es zu offenbaren.
 
 ## Das Essen des Büchleins
 
 <a name="e70c"></a>
-Johannes soll diese Schriftrolle essen. Das erinnert an Ezechiel, der auch eine Schriftrolle essen soll. Es ging darum, den Inhalt zu verinnerlichen, den er später predigen sollte. So ist es auch bei Johannes: Er soll die Schriftrolle verinnerlichen. Aber was ist der Inhalt?
+Johannes soll das Büchlein essen – ein Bild, das an Ezechiel erinnert, der ebenfalls seine eigene Schriftrolle isst: In beiden Fällen muss der Prophet die Botschaft verinnerlichen, bevor er sie predigen kann. Johannes tut hier dasselbe: Er macht sich das Büchlein zu eigen, bevor er es weitergeben kann. Was stellt sich also als sein Inhalt heraus?
 
-Es beschreibt, was Jesus getan hat (süß im Mund) und was die Folgen sind (bitter im Magen), was das Gericht über die Welt ist und was es heißt, Zeuge in dieser Welt zu sein, in der man von der Welt gehasst und nicht besser behandelt wird als Jesus.
+Der Geschmack erzählt die Geschichte. Im Mund ist es süß – das, was Jesus bereits vollbracht hat –, und im Magen bitter: das Gericht, das noch über die Welt kommt, und die Kosten dafür, in einer Welt Zeugnis abzulegen, die die Gemeinde dafür hasst, ein Hass, den die Gemeinde nicht mit gleicher Münze heimzahlen soll, da sie berufen ist, Jesus nachzufolgen, statt zu drohen, wie ihm gedroht wurde.
 
-Aber was genau sagt das Büchlein? Dazu müssen wir die nächsten Kapitel lesen. Kurz gesagt: Es wird beschrieben, dass durch das Zeugnis der Gemeinde die Völker erreicht werden sollen, und das wird auch gelingen.
+Was also ist dieses Büchlein am Ende? Die folgenden Kapitel beantworten die Frage, indem sie es in Aktion zeigen: Es ist das Zeugnis, das die Gemeinde zu den Völkern trägt und das sie am Ende vollständig ausliefern wird.

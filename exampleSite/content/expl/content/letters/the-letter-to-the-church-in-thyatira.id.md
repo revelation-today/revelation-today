@@ -14,43 +14,41 @@ sources:
       ref: fee_rev
 ---
 
-Apa yang harus dilakukan terhadap sebuah gereja yang pemimpinnya sendiri menjadi masalah? Benar, kita membaca surat kepada Tiatira.
+Apa yang harus dilakukan terhadap sebuah jemaat yang masalahnya adalah kepemimpinannya sendiri? Inilah persis keadaan yang dibahas dalam surat kepada Tiatira.
 
-{{% bible val="Surat kepada gereja di Tiatira" link="rev:2,18-29" lang="ind" %}} adalah yang terpanjang, meskipun kemungkinan besar gereja ini adalah yang terkecil.
+Selayaknya, {{% bible val="surat kepada jemaat ini adalah yang terpanjang dari ketujuhnya" link="rev:2,18-29" lang="ind" %}}, meskipun Tiatira kemungkinan besar adalah yang terkecil di antara jemaat-jemaat yang disapa.
 
 ## Latar Belakang Historis
 
 <a name="aa89"></a>
-Kota ini kemungkinan merupakan pos militer Pergamus, dan terletak 70 km sebelah tenggara Pergamus.
+Tiatira mungkin merupakan sebuah pos militer Pergamus, terletak 70 km di sebelah tenggaranya.
 
-Pada masa Kitab Wahyu, kota ini dikenal karena industri pewarnaan ungu dan pengerjaan perunggunya. Karena itu, di kota ini juga terdapat perkumpulan pedagang yang secara rutin merayakan pesta untuk menghormati santo pelindungnya. Gadis-gadis muda juga ikut serta dalam pesta-pesta ini, yang mendorong terjadinya percabulan seksual (pesta-pesta ini hanya untuk laki-laki).
+Pada masa Kitab Wahyu ditulis, kota ini dikenal karena industri pewarna ungu dan pengerjaan perunggunya. Karena itu, kota ini memiliki perkumpulan dagang yang secara rutin mengadakan pesta untuk menghormati dewa pelindungnya. Pesta-pesta ini hanya untuk laki-laki, tetapi perayaannya mendorong percabulan dengan melibatkan gadis-gadis muda sebagai bagian dari hiburannya.
 
 ## Pandangan Yesus
 
 <a name="f2ed"></a>
-Yesus menemui gereja ini sebagai Anak Allah dengan mata seperti nyala api dan kaki seperti tembaga. Hal ini mungkin mengingatkan pada kisah {{% bible val="sahabat-sahabat Daniel di dalam dapur api" link="dan:3" lang="ind" %}}, di mana seseorang seperti {{% bible val="anak dewa-dewa" link="dan:3,25" lang="ind" %}} juga menolong mereka.
+Yesus mendatangi kota ini sebagai Anak Allah, dengan mata seperti nyala api dan kaki seperti tembaga berkilau - gambaran yang mengingatkan pada {{% bible val="kisah sahabat-sahabat Daniel di dalam dapur api" link="dan:3" lang="ind" %}}, tempat seseorang {{% bible val="seperti anak dewa-dewa" link="dan:3,25" lang="ind" %}} berdiri bersama mereka di tengah nyala api.
 
-Yesus penuh dengan {{% bible val="pujian atas perbuatan mereka, kasih mereka (di mana Efesus mengalami kesulitan), iman mereka, ketekunan mereka, dan bahwa mereka semakin bertumbuh" link="rev:2,19" lang="ind" %}}.
+Ia penuh dengan {{% bible val="pujian atas perbuatan mereka, kasih mereka - justru hal yang menjadi pergumulan Efesus - iman mereka, ketekunan mereka, dan pertumbuhan mereka yang terus berlanjut, berbuat lebih banyak sekarang dibandingkan semula" link="rev:2,19" lang="ind" %}}.
 
 ## Masalahnya
 
 <a name="2981"></a>
-Hanya ada {{% bible val="satu masalah: Izebel" link="rev:2,20" lang="ind" %}}. Sebagai {{% bible val="ratu Israel, dialah yang memperkenalkan penyembahan berhala" link="1ki:16,31" lang="ind" %}}. Dan di Tiatira, ia kembali memperkenalkannya, kali ini dalam peran kepemimpinan.
+Namun ada {{% bible val="satu masalah: Izebel" link="rev:2,20" lang="ind" %}}. Dalam Perjanjian Lama, Izebel adalah {{% bible val="ratu yang memperkenalkan penyembahan berhala kepada Israel" link="1ki:16,31" lang="ind" %}}; di sini, di Tiatira, nama itu menandai seorang pemimpin yang melakukan hal yang sama terhadap jemaat.
 
-Situasi ini tampak mirip dengan yang terjadi di Pergamus, tetapi masalahnya jauh lebih serius, karena hal ini bukan sekadar dibiarkan oleh para pemimpin, melainkan para pemimpin itu sendirilah yang menjadi masalahnya.
-
-Para pemimpin mendukung penyembahan berhala dan percabulan seksual, serta menjanjikan wawasan ke dalam kedalaman-kedalaman Iblis.
+Sepintas, ini tampak mirip dengan keadaan di Pergamus. Tetapi masalah Tiatira lebih dalam lagi, sebab ini bukan kegagalan yang *disebabkan oleh* kepemimpinan - kepemimpinan itu sendirilah sumber kerusakannya. Pemimpin ini telah memperkenalkan penyembahan berhala, mendorong percabulan, dan menjanjikan kepada para pengikutnya wawasan khusus tentang "seluk-beluk Iblis yang tersembunyi."
 
 ## Solusinya
 
 <a name="5b20"></a>
-Apa yang harus dilakukan oleh gereja ini? Memberontak? Meninggalkan gereja?
+Jadi apa yang harus dilakukan oleh anggota-anggota jemaat ini? Memberontak? Pergi meninggalkan jemaat itu sepenuhnya?
 
-Jawabannya adalah: {{% bible val="berpegang teguh kepada Yesus dan tetap setia" link="rev:2,24-25" lang="ind" %}}. Yesus akan berurusan dengan kepemimpinan itu, karena mereka harus mempertanggungjawabkannya kepada-Nya:
+Sebaliknya, jawaban yang diberikan adalah untuk {{% bible val="berpegang teguh kepada Yesus dan tetap setia" link="rev:2,24-25" lang="ind" %}}. Yesus sendiri yang akan menangani kepemimpinan itu, karena mereka harus mempertanggungjawabkannya kepada-Nya:
 
-- {{% bible val="Semua pengikutnya akan menderita, supaya mereka mempertimbangkan untuk bertobat" link="rev:2,21-22" lang="ind" %}}.
-- {{% bible val="Yesus akan menghentikan mereka sebagai peringatan bagi gereja-gereja lain" link="rev:2,23" lang="ind" %}}.
+- {{% bible val="Semua pengikut Izebel akan menderita, dengan harapan mereka akan tergerak untuk bertobat" link="rev:2,21-22" lang="ind" %}}.
+- {{% bible val="Penderitaan ini akan menjadi peringatan bagi setiap jemaat lainnya" link="rev:2,23" lang="ind" %}}.
 
-Kepada mereka yang bertekun dan tetap setia, Yesus menjanjikan kuasa, sebagaimana Ia sendiri memilikinya di bawah otoritas yang salah. Memerintah dengan tongkat besi berasal dari {{% bible val="Mazmur 2" link="psa:2" lang="ind" %}}.
+Kepada mereka yang bertahan dan tetap setia di bawah kepemimpinan palsu ini, Yesus menjanjikan otoritas bagi mereka sendiri - mereka akan memerintah dengan tongkat besi, bahasa yang diambil dari {{% bible val="Mazmur 2" link="psa:2" lang="ind" %}}.
 
-{{% bible val="Bintang Timur" link="rev:2,28" lang="ind" %}} dapat merujuk pada {{% bible val="harapan baru di dalam Yesus" link="2pe:1,19" lang="ind" %}}, yang adalah {{% bible val="Bintang Timur" link="rev:22,16" lang="ind" %}}.
+{{% bible val="Bintang timur" link="rev:2,28" lang="ind" %}} yang dijanjikan bersamaan dengan itu kemungkinan menunjuk pada {{% bible val="fajar harapan baru" link="2pe:1,19" lang="ind" %}} yang terdapat dalam diri Yesus sendiri, yang di tempat lain {{% bible val="disebut Bintang Timur" link="rev:22,16" lang="ind" %}}.

@@ -16,95 +16,77 @@ sources:
       ref: bauckham_climax
 ---
 
-Vahiy Kitabı’ndaki 14. bölüm Kutsal Kitap’taki en şaşırtıcı bölümlerden biridir ve biraz kaybolmuş ve diğer bölümlerle bağlantısı kopmuş gibi görünür. Bu yüzden daha yakından bakmamız gerekir.
+Vahiy Kitabı'nın 14. bölümü, Kutsal Kitap'ın en şaşırtıcı bölümlerinden biridir — ilk bakışta çevresindeki her şeyden kopuk gibi görünür. Ama öncesi ve sonrasıyla birlikte okunduğunda, aslında bir menteşe olduğu ortaya çıkar: Önceki bölüme cevap veren ve sonrakini hazırlayan bir bölüm. Daha yakından bakmayı hak ediyor.
 
 ## 144.000
 
 <a name="181d"></a>
-Bölüm, tomarı almaya layık görülen {{% int_link val="kuzunun ayakta durduğu 5. bölümden" link="/expl/content/worship/the-book-with-the-seven-seals" %}} devam eder ve {{% int_link val="bunu 144.000 kişiden bahsedilen 7. bölümle birleştirir" link="/expl/content/army/the-144000" %}}. Şimdi tahtın önünde birleşmişlerdir (1. ayette Siyon Dağı’ndan söz edilmesi göksel Yeruşalim’e bir gönderme olabilir).
+Bölüm, iki önceki ipucunu birden ele alarak açılır: Tomarı almaya layık bulunan {{% int_link val="5. bölümdeki ayakta duran Kuzu" link="/expl/content/worship/the-book-with-the-seven-seals" %}} ve {{% int_link val="144.000 kişiden söz edilen 7. bölüm" link="/expl/content/army/the-144000" %}}. Şimdi aynı 144.000 kişi tahtın önünde toplanmıştır — 1. ayette geçen Siyon Dağı ifadesi göksel Yeruşalim'e bir gönderme olabilir.
 
-144.000 kişinin alınlarında kimliklerini ve aidiyetlerini (Tanrı’ya ait olduklarını) tanımlayan kuzu ve Tanrı’nın adı vardır, bu nedenle 7. bölümdeki mühürlemenin farklı bir yansımasıdır.
+144.000 kişinin alınlarında Kuzu'nun ve Tanrı'nın adı vardır; bu, kimliklerini ve kime ait olduklarını belirtir. Bu, 7. bölümde anlatılan aynı mühürlemenin farklı bir açıdan gösterimidir. Yeni bir ezgi söylerler — muhtemelen {{% bible val="5. bölümdekiyle" link="rev:5,9-10" lang="tr" %}} aynı tondan; orada da Kuzu'ya sunulan tapınma melekler aracılığıyla bütün yaratılışa taşınır.
 
-Yeni bir şarkı söylerler ve bu şarkı muhtemelen {{% bible val="5. bölümdek" link="rev:5,9-10" lang="tr" %}}i bağlamı oluşturur; bu sahne aynı zamanda meleklerin tüm yaratılışa ulaşarak kuzuya tapınmasını anlatmaktadır.
+Bu sahne, ejderha ile iki canavarın gücünün doruğunda olduğu anların hemen ardından gelir: Kutsalları yener, herkesi kendilerine taptırır, tüm dünyayı aldatır ve onu kendi malları gibi damgalarlar. Bunca baskının ardından Tanrı'nın halkının ezilmiş olmasını beklemek doğal olurdu. Oysa onlar hâlâ ayaktadır, dudaklarında bir övgü ve zafer ezgisiyle — şeytanın bütün gösterişine rağmen hikâyenin şu ana kadarki gerçek kaybedeni olduğunun kanıtı:
 
-Bu bölüm ejderhanın ve iki canavarın ezici baskısından hemen sonra gelir. Kutsalları fethederler, herkesi kendilerine taptırırlar, tüm dünyayı kandırırlar ve onları kendilerininmiş gibi gösterirler.
+- {{% bible val="Çocuğu yok etmeyi başaramaz" link="rev:12,1-6" lang="tr" %}}.
+- {{% bible val="Gökteki yerini kaybeder" link="rev:12,7-12" lang="tr" %}}.
+- {{% bible val="Kadını yok etmeyi başaramaz" link="rev:12,13-17" lang="tr" %}}.
+- {{% bible val="İki canavar aracılığıyla yürüttüğü zulüm ve baskı" link="rev:13" lang="tr" %}}, kendisi için {{% int_link val="bir felakete" link="/expl/content/beasts/666-the-number-of-the-beast" %}} dönüşür.
+- {{% int_link val="Kutsallara karşı kazandığı zafer ise tam tersine döner" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
-Bu çok korkutucu bir durumdur ama Tanrı’nın halkı hâlâ ayaktadır. Tüm bunların içinde dudaklarında bir övgü (ve zafer) şarkısı vardır ve şeytan tüm hikâyenin gerçek kaybedenidir:
+144.000 kişi yalnızca şeytanın saldırısından sağ çıkmakla kalmaz — {{% int_link val="küçük tomarın kaderini" link="/expl/content/scroll/the-little-scroll" %}} de yerine getirirler. Peki sırları nedir? Metin bunu açıkça ortaya koyar:
 
-- {{% bible val="çocuğu yok etmekte başarısız olur" link="rev:12,1-6" lang="tr" %}}
-- {{% bible val="cennetteki konumunu kaybeder" link="rev:12,7-12" lang="tr" %}}
-- {{% bible val="kadını yok etmeyi başaramadı" link="rev:12,13-17" lang="tr" %}}
-- {{% bible val="iki canavarla olan algısı ve baskısı" link="rev:13" lang="tr" %}} {{% int_link val="bir felakettir" link="/expl/content/beasts/666-the-number-of-the-beast" %}}
-- {{% int_link val="ve azizlere karşı kazandığı zafer geri tepti" link="/expl/content/witnesses/the-two-witnesses" %}}
+“{{% bible val="Kendilerini kadınlarla lekelememiş olanlar bunlardır. Pak kişilerdir. Kuzu nereye giderse ardısıra giderler. Tanrı'ya ve Kuzu'ya ait olacakların ilk bölümü olmak üzere insanlar arasından satın alınmışlardır. Ağızlarından hiç yalan çıkmamıştır. Kusursuzdurlar." link="rev:14,4-5" lang="tr" %}}”
 
-Sadece bu da değil, {{% int_link val="küçük parşömenle ilgili kaderlerini de yerine getirdiler" link="/expl/content/scroll/the-little-scroll" %}}. Ama onların sırrı nedir? Burada yazıyor:
-
-“{{% bible val="Kendilerini kadınlarla lekelememiş olanlar bunlardır. Pak kişilerdir. Kuzu nereye giderse ardısıra giderler. Tanrı’ya ve Kuzu’ya ait olacakların ilk bölümü olmak üzere insanlar arasından satın alınmışlardır. Ağızlarından hiç yalan çıkmamıştır. Kusursuzdurlar." link="rev:14,4-5" lang="tr" %}}”
-
-- Onlar bakiredir: Bu ilk başta garip gelebilir, ama medeni durumlarına değil, Mesih’e sadık olduklarına işaret eder. Onlar için O’nun kadar değerli bir şey yoktur.
-- Kuzuyu izlerler: Ödün vermezler. Ona tamamen sadıktırlar ve kuzuya güvenirler.
-- Çünkü “satın alınmışlardır”: Yüksek bir bedelle yardım edildiklerini bilirler.
-- Ağızlarında yalan bulunmaz: {{% bible val="Baskı altındayken tereddüt etmeyen" link="1pe:2,22" lang="tr" %}} İsa gibi sadık tanıklardır.
-
-Bunu özetlemek gerekirse: İsa’nın izinde tanıklıklarını ödün vermeden yaşadılar ve zorluklara ve hatta şehitliğe katlandılar.
+Bu tanımdaki her ifadenin bir ağırlığı vardır. Onlara "pak" denir — bu ilk bakışta tuhaf gelse de medeni durumla ilgili değildir; Mesih'e olan bağlılıklarına işaret eder, çünkü onlar için O'ndan daha değerli hiçbir şey yoktur. Kuzu'yu izlerler; yani ödün vermezler, sadakatleri ve güvenleri tamdır. "Satın alınmışlardır" — yani yüksek bir bedelle satın alındıklarının bilincindedirler. Ve ağızlarından hiç yalan çıkmamıştır, çünkü tıpkı {{% bible val="baskı altında bile sarsılmayan" link="1pe:2,22" lang="tr" %}} İsa gibi sadık tanıklar olmuşlardır. Kısacası, ödün vermeden, sıkıntıya ve hatta şehitliğe katlanarak İsa'nın izinden tanıklıklarını yaşamışlardır.
 
 ## İlk üç melek
 
 <a name="040b"></a>
-İlk üç melek bu gerilimi yansıtmaktadır:
+İlk üç melek, bölümün baştan beri işlediği aynı gerilimi yansıtır: 144.000 kişi sadık kalıp canavara direnirken ve Mesih'e gelen uluslara tanıklık ederken, diğerleri canavarın baskısına ve aldatmacasına boyun eğer.
 
-- 144.000 kişi sadıktır ve canavarlara karşı koyar ve Mesih’i bulan uluslar için bir tanıklıktır
-- insanlar strese ve canavarın aldatmacasına teslim oluyor
+İlk melek gelip ebedi müjdeyi duyurur:
 
-İlk melek geldi ve ebedi müjdeyi ilan etti:
+“{{% bible val="onun, yeryüzünde yaşayanlara -her ulusa, her oymağa, her dile, her halka- iletmek üzere sonsuza dek kalıcı olan Müjde'si vardı. Yüksek sesle şöyle diyordu: ‹‹Tanrı'dan korkun! O'nu yüceltin! Çünkü O'nun yargılama saati geldi. Göğü, yeri, denizi, su pınarlarını yaratana tapının!" link="rev:14,6-7" lang="tr" %}}”
 
-“{{% bible val="Bundan sonra göğün ortasında uçan başka bir melek gördüm. Yeryüzünde yaşayanlara -her ulusa, her oymağa, her dile, her halka- iletmek üzere sonsuza dek kalıcı olan Müjde’yi getiriyordu. Yüksek sesle şöyle diyordu: ‹‹Tanrı’dan korkun! O’nu yüceltin! Çünkü O’nun yargılama saati geldi. Göğü, yeri, denizi, su pınarlarını yaratana tapının!" link="rev:14,6-7" lang="tr" %}}”
+"Ebedi müjde" çarpıcı bir ifadedir ve kökeni Mezmur 96'ya dayanır: "[Kurtarışını gün be gün duyurun](https://biblehub.com/interlinear/psalms/96-2.htm)." Bu ayette "kurtarış" olarak çevrilen İbranice kelime "[basar](https://biblehub.com/hebrew/1319.htm)"dır; Yunanca metin bunu evangelion — müjde — olarak çevirir. "Gün be gün" ifadesi de, tıpkı {{% bible val="Süleyman'ın Özdeyişleri'nde" link="pro:8,30" lang="tr" %}} olduğu gibi, "sonsuza dek" anlamı taşıyabilir.
 
-Ebedi müjde çok ilginç bir terimdir ve Mezmur 96'dan alınmıştır: “[Günden güne onun kurtuluşunu ilan edin](https://biblehub.com/interlinear/psalms/96-2.htm)”. Bu ayette geçen “[basar](https://biblehub.com/hebrew/1319.htm)” (kurtuluş) terimi Yunanca metinlerde evangelion olarak çevrilmiştir. “Günden güne” ifadesi sonsuza kadar anlamına gelebilir, örneğin {{% bible val="Atasözleri’nde" link="pro:8,30" lang="tr" %}}.
+Mezmur 96, bu iyi haberi bütün {{% bible val="ulusları ve halkları" link="psa:96,3" lang="tr" %}} kapsayacak şekilde duyurmaya devam eder ve bu {{% bible val="haberin içeriği kısa mezmurun geri kalanında da" link="psa:96,7-10" lang="tr" %}} işlenir. Dikkat çekici olan şu ki, mezmur "Rab'be yeni bir ezgi söyleyin" diyerek başlar — az önce 144.000 için kullanılan aynı ifadeyle. Mezmurun baştan sona işlediği tema, Tanrı'nın kral olduğu ve bütün ulusların O'na tapınmaya davet edildiğidir.
 
-Mezmur 96 bunu tüm {{% bible val="uluslara ve insanlara" link="psa:96,3" lang="tr" %}} bildirmeye devam eder. Bu {{% bible val="mesajın içeriği de bu kısa Mezmur’un bir parçasıdır" link="psa:96,7-10" lang="tr" %}}. Ayrıca Mezmur, 144.000 kişinin tanımı olan “Rab’be yeni bir ezgi söyleyin” ile başlar.
+İkinci melek Babil üzerindeki zaferi duyururken, üçüncü melek canavara boyun eğen herkes için sert bir yargı uyarısı getirir. İkisi birlikte, iki tanığın çoktan verdiği {{% bible val="tövbe çağrısını" link="rev:11,3" lang="tr" %}} ve {{% bible val="uyarı niteliğindeki yargıları" link="rev:11,5" lang="tr" %}} yansıtır.
 
-Mezmur, Tanrı’nın kral olduğunu ve tüm ulusların ona tapınmaya DAVET EDİLDİĞİNİ iddia eder.
-
-İkinci melek Babil’e karşı kazanılan zaferi ilan ederken, üçüncü melek canavara boyun eğen herkes için şiddetli bir yargı uyarısı getirir. Bu aynı zamanda iki tanığın {{% bible val="tövbe çağrısını" link="rev:11,3" lang="tr" %}} ve {{% bible val="uyarı yargılarını" link="rev:11,5" lang="tr" %}} da yansıtır.
-
-Asıl soru şu: Sonuç ne olacak? Uluslar bizi dinleyecek mi? Tanıklarla ilgili hikayeden biliyoruz: {{% int_link val="Dinleyecekler" link="/expl/content/witnesses/the-two-witnesses" %}}
+Bu da şu soruyu gündeme getirir: Uluslar gerçekten dinleyecek mi? Cevabı tanıkların öyküsünden zaten biliyoruz — {{% int_link val="dinleyecekler" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
 ## İki hasat
 
 <a name="c8c5"></a>
-Bu bildiriden sonra dört karakter daha ortaya çıkar: üç melek ve elinde tahıl ve üzüm hasadı olan insanoğluna benzer biri. Bunlar ne anlama geliyor? Bunların ikisi de yargı mı? Yoel’e dayanmaktadırlar: “{{% bible val="Orağı salla, çünkü (tahıl) hasadı olgunlaştı. Gelin, üzümleri ezin, çünkü bağ doldu ve fıçılar taştı — kötülükleri o kadar büyük ki!" link="jol:3,13" lang="tr" %}}”
+Üç melek konuşmasını bitirdikten sonra dört figür daha ortaya çıkar: üç melek daha ve insanoğluna benzeyen biri; her biri bir hasatla ilişkilendirilir — biri tahıl, biri üzüm. Bu iki hasat ne anlama gelir? İkisi de yargı tablosu mudur?
 
-Her ikisi de Yoel’de yargıya, özellikle de Vahiy’de {{% bible val="Yeşaya’daki intikam gününe" link="isa:63,1-6" lang="tr" %}} atıfta bulunan “{{% bible val="Tanrı’nın gazabının şaraphanesi" link="rev:14,19" lang="tr" %}}” olarak adlandırılan şaraphaneye atıfta bulunur. {{% bible val="Bu aynı zamanda birkaç ayet önceki Babil yargısını da yansıtmaktadır" link="rev:14,10" lang="tr" %}}.
+İkisi de Yoel'den alınmıştır: “{{% bible val="Orağı sallayın, çünkü (tahıl) hasadı olgunlaştı. Gelin, üzümleri çiğneyin, çünkü şarap teknesi doldu, fıçılar taşıyor — kötülükleri o kadar büyük ki!" link="jol:3,13" lang="tr" %}}”
 
-Ancak tahıl hasadına doğru büyük bir farklılık var:
+Yoel'de her iki görüntü de yargıya işaret eder, özellikle de şarap teknesi — Vahiy bunu açıkça {{% bible val="Tanrı'nın gazabının şarap teknesi" link="rev:14,19" lang="tr" %}} olarak adlandırır ve bu, {{% bible val="Yeşaya'daki intikam gününün" link="isa:63,1-6" lang="tr" %}} bir yankısıdır. Aynı zamanda {{% bible val="az önce anlatılan Babil yargısını" link="rev:14,10" lang="tr" %}} da yansıtır.
 
-- 144.000 kişi ilk meyve olarak adlandırılır ve bu meyve {{% bible val="normalde tahıldan (kuzu sunusu da dahil) alınır" link="lev:23,9-14" lang="tr" %}}. İlk meyve normalde {{% bible val="tüm hasadın " link="rom:11,16" lang="tr" %}}bir rehinidir, bu nedenle tüm uluslardan kurtarılan 144.000 kişi tüm uluslardan bir ilktir. İlk meyve {{% bible val="teknik olarak üzümden de olabilirdi" link="exo:22,29" lang="tr" %}} ama bu garip bir yorum olurdu (Tanrı’nın intikamının ilk meyvesi olarak şehitler?)
-- Bağbozumu hem toplamayı hem de ezmeyi içerirken, tahıl hasadında SADECE biçme vardır. Çünkü tahıl ya {{% bible val="harmanlanmayı" link="jer:51,33" lang="tr" %}}, ya {{% bible val="değneğin yakılmasını" link="mat:3,12" lang="tr" %}} ya {{% bible val="da savrulmayı izlerken" link="psa:1,4" lang="tr" %}}, {{% bible val="biçmek insanları Tanrı’nın Egemenliği’ne getirmenin simgesidir" link="mrk:4,29" lang="tr" %}}.
-- Tahıl hasadı “bulutun üzerinde oturan ve taç giyen insanoğluna benzer biri” tarafından yapılır. Bu, {{% bible val="tüm ulusların kendisine tapındığı ebedi krallığı aldığı Daniel’e bir göndermedir." link="dan:7,13-14" lang="tr" %}}
+Ama tahıl hasadı oldukça farklı işler. Onu ayıran üç ayrıntı var. Birincisi, 144.000 kişi ilk meyve olarak adlandırılır; ilk meyve {{% bible val="normalde tahıldan alınırdı" link="lev:23,9-14" lang="tr" %}} (bir kuzu sunusuyla birlikte) ve {{% bible val="gelecek olan tam hasadın bir güvencesi" link="rom:11,16" lang="tr" %}} olarak sunulurdu — böylece her ulustan kurtarılan 144.000 kişi, bütün ulusların ilk meyvesi olarak durur. İlk meyve teknik olarak {{% bible val="üzümden de olabilirdi" link="exo:22,29" lang="tr" %}}, ama burada bu tuhaf bir okuma olurdu — şehitler gerçekten Tanrı'nın intikamının ilk meyvesi mi olacak? İkincisi, şarap teknesi hem toplamayı hem üzümleri ezmeyi içerirken, tahıl hasadı sadece biçmekle sona erer. Tahıl toplandıktan sonra gelenler — {{% bible val="harman dövme" link="jer:51,33" lang="tr" %}}, {{% bible val="samanın yakılması" link="mat:3,12" lang="tr" %}} ya da {{% bible val="rüzgârla savrulma" link="psa:1,4" lang="tr" %}} — tamamen dışarıda bırakılır; ayrıca Kutsal Kitap'ın başka yerlerinde {{% bible val="biçmenin kendisi insanları Tanrı'nın Egemenliği'ne getirmenin simgesidir" link="mrk:4,29" lang="tr" %}}. Üçüncüsü, tahıl hasadını yapan "bulut üzerinde oturan, başında taç olan insanoğluna benzer biri"dir — bu ifade {{% bible val="Daniel'e" link="dan:7,13-14" lang="tr" %}} kadar uzanır; orada o kişi ebedi krallığı alır ve bütün uluslar ona tapınır.
 
-Yani sonuçta uluslar için iki seçenek vardır: Yargı ya da Kurtuluş. İki tanığın öyküsü çoğunluğun Tanrı’ya yücelik vermesiyle sona erer, ancak burada konu bir an için açık bırakılır.
+Böylece iki hasat birlikte uluslar için iki seçeneği ortaya koyar: yargı ya da kurtuluş. İki tanığın öyküsü, çoğunluğun Tanrı'ya yücelik vermesiyle sonuçlanmıştı — ama burada, bir an için, sonuç açık bırakılır.
 
-## Musa’nın şarkısı
+## Musa'nın şarkısı
 
 <a name="e8d4"></a>
-Bir sonraki sahne bizi camdan denizin ({{% bible val="Kızıldeniz’in yarılması" link="psa:78,13" lang="tr" %}}), Musa’nın şarkısının ve Kuzu’nun şarkısının işaret ettiği {{% int_link val="yeni göçün" link="/expl/background/israel/the-second-exodus" %}} içine davet eder.
+Bir sonraki sahne bizi yeni bir çıkışın içine çeker; bunun işareti hem cam deniz — Kızıldeniz'in yarılmasının bir yankısı — hem de birlikte söylenen Musa'nın şarkısı ve Kuzu'nun şarkısıdır:
 
-“[‘Tanrı kulu Musa’nın ve Kuzu’nun ezgisini söylüyorlardı: ‹‹Her Şeye Gücü Yeten Rab Tanrı, Senin işlerin büyük ve şaşılası işlerdir. Ey ulusların kralı, Senin yolların doğru ve adildir. Ya Rab, senden kim korkmaz, Adını kim yüceltmez? Çünkü kutsal olan yalnız sensin. Bütün uluslar gelip sana tapınacaklar. Çünkü adil işlerin açıkça görüldü.](https://www.bibleserver.com/TR/Vahiy15%3A3-4)“
+“[‘Büyük ve şaşılası işlerin var, ey Her Şeye Gücü Yeten Rab Tanrı. Yolların doğru ve adildir, ey ulusların Kralı. Ya Rab, senden kim korkmaz, adını kim yüceltmez? Çünkü kutsal olan yalnız sensin. Bütün uluslar gelip sana tapınacak, çünkü adil işlerin açığa çıktı.’](https://www.bibleserver.com/NIV/Revelation15%3A3-4)“
 
-{{% bible val="Musa’nın şarkısı Kızıldeniz mucizesinden sonraki övgüleri anlatır" link="exo:15,1-19" lang="tr" %}}. Ancak söylenen sözler Musa’nın söylediklerinden çok farklıdır.
+{{% bible val="Musa'nın asıl şarkısı, Kızıldeniz'deki mucizenin ardından söylenen övgüyü anlatır" link="exo:15,1-19" lang="tr" %}}, ama burada söylenen sözler Musa'nın gerçekte söylediklerinden oldukça farklıdır — yani "Musa'nın şarkısı" etiketi yalnızca bir kaynağı işaret etmekle kalmaz; bilinçli bir paralellik kurar.
 
-Çıkış Yeşaya’da ele alınır ve {{% bible val="Yeşaya" link="isa:11,15-16" lang="tr" %}}’daki iki ilahide {{% bible val="yeni bir çıkış" link="isa:12" lang="tr" %}} olarak ifade edilir, bu ilahiler aynı zamanda {{% bible val="Mezmur 105'e" link="psa:105,1" lang="tr" %}} de {{% bible val="atıfta bulunur" link="isa:12,4" lang="tr" %}} (bu ilahi de çıkıştan bahseder). Bu bağlantıdaki ifade, ulusların Tanrı’nın Kızıldeniz’deki eyleminden etkilendiğidir.
+Bu paralellik, Çıkış'ın kendisinden daha derine gider. Çıkış öyküsü {{% bible val="Yeşaya'da" link="isa:11,15-16" lang="tr" %}} yeniden ele alınır ve {{% bible val="yeni bir Çıkış" link="isa:12" lang="tr" %}} olarak, {{% bible val="Mezmur 105'i de yankılayan" link="isa:12,4" lang="tr" %}} {{% bible val="iki ilahi" link="psa:105,1" lang="tr" %}} boyunca işlenir; o mezmur da Çıkış'ı anımsatır. Bütün bunları birbirine bağlayan ortak iplik şudur: Uluslar da Tanrı'nın Kızıldeniz'deki eyleminden etkilenmiştir.
 
-Ancak Musa’nın şarkısının 11. ayetine daha fazla baktığımızda, bunun {{% bible val="Yeremya" link="jer:10,6-7" lang="tr" %}} ve {{% bible val="Mezmur 86" link="psa:86,8-10" lang="tr" %}} ve {{% bible val="98" link="psa:98,1-2" lang="tr" %}} ile de bağlantılı olduğunu görürüz.
+Vahiy'deki şarkının 11. ayetine daha yakından bakıldığında, bunun Yeremya'ya ve Mezmur {{% bible val="86" link="psa:86,8-10" lang="tr" %}} ile {{% bible val="98" link="psa:98,1-2" lang="tr" %}}'e de bağlandığı görülür. Bir araya getirildiğinde, bütün bu iplikler Musa'nın ve Kuzu'nun şarkısının içeriğini tek bir savda birleştirir:
 
-Tüm bu bağlantılar birlikte Mose ve Kuzu’nun Şarkısı’nın içeriğini oluşturur. Öykü şu şekilde sunulmuştur
+- Ya Rab, ilahlar arasında senin gibisi kim var?
+- Bunu, kurtuluş eylemleri olan mucizeler yaparak gösterir.
+- Böylece tek gerçek Tanrı olduğunu kanıtlar.
+- Ve bu, bütün ulusları O'na tapınmaya getirir.
 
-- Tanrılar arasında senin gibi kim var ya RAB?
-- Kurtuluş eylemi olarak harikalar yaratmada gösterilen
-- onun tek Tanrı olduğunu göstererek
-- bu nedenle tüm ulusları kendisine tapınmaya getirir
+Başka bir deyişle bu şarkı, bütün ulusların Tanrı'ya gelip O'na tapınacağının bir bildirisidir — bu da düşmanlarını yargılaması aracılığıyla gerçekleşir. Kutlanan şey aslında şehitlerin kurtuluşu değildir; Tanrı'nın eylemlerinin uluslardan çıkardığı övgüdür.
 
-Şarkı, tüm ulusların Tanrı’ya gelip O’na tapınacaklarına dair bir bildiridir. Bunu düşmanlarını yargılayarak yapar. Kutlama şehitlerin kurtuluşuyla ilgili değil, Tanrı’nın ulusları kurtardığı için övgüdür.
-
-Gazap kaseleriyle Tanrı’nın, tapınmayı reddeden ve ejderhayla canavarlara sadık kalan uluslara nasıl davrandığını görürüz.
+Bu da bir sonrakine zemin hazırlar: Gazap kaseleriyle birlikte, Tanrı'nın kendisine tapınmayı reddedip ejderha ile canavarlara sadık kalan uluslarla nasıl ilgilendiğini göreceğiz.

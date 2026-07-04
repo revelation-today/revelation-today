@@ -4,8 +4,6 @@ title: "Mısır'dan göç"
 weight: 2
 ---
 
-That the exodus is a topic in Revelation might look like a big surprise. But looking again you will see quite a lot of parallels to the seven trumpets or the seven bowls.
+Mısır'dan Çıkış'ın Vahiy'de bir konu olarak karşımıza çıkması ilk bakışta şaşırtıcı görünebilir. Ama daha yakından bakınca, yedi borazan ve yedi tas ile şaşırtıcı sayıda paralellik bulursunuz.
 
-On the other hand you might ask, what is there to discover, these are well known story.
-
-Well, lets have a look and be surprised.
+Buna, bunların iyi bilinen öyküler olduğunu ve keşfedecek yeni bir şey olmadığını söyleyerek itiraz edebilirsiniz. Gelin daha yakından bakalım ve görelim.

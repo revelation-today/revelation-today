@@ -4,16 +4,9 @@ title: Hintergrund
 weight: 4
 ---
 
-Als gute Grundlage für unsere Arbeit müssen wir ein besseres Verständnis für die folgenden Themen entwickeln:
-- Was war die historische Situation der ersten Leser? 
-    - Welche Themen könnten angesprochen werden?
-    - Wie würden sie sie lesen?
-- Welche Art von Literatur lesen wir?
-    - Müssen wir alles wörtlich nehmen?
-    - Oder eher symbolisch?
-    - Wie hilft es uns, den Schwerpunkt des Autors zu verstehen?
-- Wie ist das Buch aufgebaut?
-    - Wann beginnt ein neuer Abschnitt?
-    - Was ist die Kernaussage eines Abschnitts?
-- Als Topper:
-    - Wir brauchen ein besseres Verständnis für die Rolle Israels
+Bevor wir die Offenbarung selbst aufschlagen, hilft es, in vier Bereichen ein Fundament zu legen.
+
+- **Die historische Situation der ersten Leser.** Welchen Herausforderungen standen sie gegenüber, und welche Themen des Buches waren wahrscheinlich auf genau diese Herausforderungen ausgerichtet? Wie hätten sie als Leser des ersten Jahrhunderts verstanden, was sie hörten?
+- **Die Art der Literatur, die wir lesen.** Sollen wir alles wörtlich nehmen, oder ist vieles davon symbolisch gemeint? So oder so: Wie hilft uns die Kenntnis der Gattung zu erkennen, wo der eigentliche Schwerpunkt des Autors liegt?
+- **Die Struktur des Buches.** Wo endet ein Abschnitt und wo beginnt der nächste, und was ist die Kernaussage, um die jeder Abschnitt aufgebaut ist?
+- **Die Rolle Israels.** Als Abschluss all dessen brauchen wir ein klareres Verständnis davon, wie Israel in die Argumentation des Buches passt.

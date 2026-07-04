@@ -4,8 +4,8 @@ title: "Ulusların hasadı (Böl.14)"
 weight: 13
 ---
 
-Ejderha ve iki canavarın etkileyici güç gösterisinden sonra ifade açıktır: Kutsallar zafer kazanmıştır ama alışılmadık bir şekilde. Onların gücü İsa'ya sadık olmalarıdır.
+Ejderha ve iki canavarın etkileyici güç gösteriminden sonra bu bölümün mesajı açıktır: Kutsallar kazanır, ama alışılmadık bir biçimde — güçleri zorla direnmek değil, İsa'ya sadık kalmaktır.
 
-Kolay yoldan gitmeyi ve ejderhayla uzlaşmayı düşünen herkes sonuçlarına katlanacaktır.
+Kolay yolu seçip ejderhayla uzlaşmaya kalkışan herkes bunun bedelini ödeyecektir.
 
-Ve son olarak bu bölümdeki büyük yargı gelir: Uluslar ya kurtulmuş olarak ya da yargılanmak üzere toplanacaktır. 
+Ve son olarak bu bölümün büyük yargısı gelir: Uluslar ya kurtuluşa ya da yargıya toplanır.

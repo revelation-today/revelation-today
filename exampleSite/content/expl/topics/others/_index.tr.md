@@ -4,6 +4,6 @@ title: "Diğerleri"
 weight: 4
 ---
 
-Bu, bazı yanlış anlaşılmaları açıklığa kavuşturmak için diğer bazı kapsayıcı konulardır.
+Bu bölüm, bazı yaygın yanlış anlamaları netleştirmeyi amaçlayan birkaç kapsayıcı konuyu bir araya getirir.
 
-Konulardan biri kendinden geçme ve sıkıntı ile ilgilidir. İnsanlar buna inanabilir ya da inanmayabilir, ancak bu teoloji hakkında küçük bir genel bakış ve düşünce vermelidir.
+Bunlardan biri göğe alınma (rapture) ve bunun büyük sıkıntıyla ilişkisidir. Pek çok kişi bunu duymuştur ve epeyce kişi buna inanır; bu nedenle buradaki yazılar, bu öğretinin arkasındaki teolojiye kısa bir genel bakış sunar ve bunun gerçekten tutarlı olup olmadığı üzerine bir değerlendirme yapar.

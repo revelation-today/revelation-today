@@ -9,40 +9,38 @@ docType: expl
 appl: /appl/content/paradise
 ---
 
-Cennet ve cehennem nedir? Bütün insanlar cennete gider mi? İyi bir Tanrı insanları nasıl cehenneme gönderebilir?
+Cennet ve cehennem nedir? Bütün insanlar cennete mi gider? İyi bir Tanrı insanları nasıl cehenneme gönderebilir?
 
-## Cennet ve Yeni Yeruşalayim
+## Cennet ve Yeni Yeruşalim
 
 <a name="1d44"></a>
-Cennet çoğunlukla insanların iyi oldukları için mutlu oldukları ve iyi bir yaşam sürdükleri bir yer olarak anlaşılır. Diğer taraftaki cehennem ise insanların kötü oldukları için acı çektikleri ve işkence gördükleri bir yerdir. Ancak bu tamamen doğru değildir.
+Cennet genellikle insanların iyi oldukları için mutlu oldukları ve iyi bir hayat sürdükleri bir yer, cehennem ise insanların kötü oldukları için acı çektikleri ve işkence gördükleri bir yer olarak tasvir edilir. Ama bu popüler tasvir, Vahiy'in anlattığıyla tam olarak örtüşmez.
 
-Vahiy cenneti farklı metaforlarla anlatır: {{% bible val="Yedinci bölümde" link="rev:7,9-17" lang="tr" %}} azizlerin nasıl teselli edildiğini ve {{% bible val="21. bölümde" link="rev:21" lang="tr" %}} Yeni Yeruşalim’in cenneti daha geniş bir şekilde tanımladığını görürsünüz. Bu tasvirlerin her ikisinin de ana bir noktası vardır: Tanrı’yla paydaşlığa sıkı sıkıya bağlıdırlar.
+Kitap cenneti birkaç farklı metaforla resmeder: {{% bible val="yedinci" link="rev:7,9-17" lang="tr" %}} bölümde azizler teselli edilir, {{% bible val="21." link="rev:21" lang="tr" %}} bölümde ise Yeni Yeruşalim cenneti çok daha ayrıntılı biçimde tanımlar. Her iki tasvir de tek bir ana noktada birleşir: Cennet, Tanrı'yla paydaşlıkla tanımlanır.
 
-{{% bible val="Ayrıca Yeni Yeruşalim Mesih’in Gelini olarak tanımlanarak" link="rev:21,2" lang="tr" %}} konuya daha da samimi bir boyut kazandırılmıştır.
+{{% bible val="Yeni Yeruşalim'in Mesih'in Gelini olarak tanımlandığını" link="rev:21,2" lang="tr" %}} fark ettiğinizde bu yakınlık daha da belirgin hale gelir.
 
-Ayrıca 21. bölümdeki dil, {{% int_link val="İsrail’in Tanrı’yla paydaşlık ettiği yer olan tapınakla çok ilgilidir" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}. Öte yandan tapınak Aden’in bir yansımasıdır. Sadece bu da değil, Yeni Yeruşalim’in şekli {{% bible val="bir küp" link="rev:21,16" lang="tr" %}} şeklindedir. {{% bible val="Eski Ahit’te bu şekle sahip olan tek nesne, Tanrı’nın yaşadığı yer olan Kutsalların Kutsalı’dır" link="2ch:3,8" lang="tr" %}}. Tanrı’nın varlığıyla öylesine yoğun bir şekilde dolu olan bu yere yılda bir kez sadece Baş Kâhin’in girmesine izin verilirdi.
+21. bölümün dili aynı zamanda {{% int_link val="İsrail'in Tanrı'yla paydaşlık ettiği yer olan tapınaktan" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} yoğun biçimde beslenir — tapınağın kendisi de Aden'in bir yansımasıdır. Yeni Yeruşalim'in şekli bu bağlantıyı açıkça ortaya koyar: şehir bir {{% bible val="küptür" link="rev:21,16" lang="tr" %}} ve {{% bible val="Eski Ahit'te bu şekle sahip tek nesne Kutsalların Kutsalı'dır" link="2ch:3,8" lang="tr" %}} — Tanrı'nın yaşadığı, varlığıyla öylesine dolu olduğu için sadece başkâhinin, o da yılda bir kez girebildiği yer.
 
-Bu yüzden Yeni Yeruşalim ya da cennet Tanrı’yla en yakın olunan yer olarak tanımlanır.
+Böylece Yeni Yeruşalim, yani cennet, Tanrı'yla mümkün olan en büyük yakınlığın yaşandığı yer olarak tanımlanır.
 
 ## Bağlılık
 
 <a name="a2fa"></a>
-Tapınak konusu, bu yerin tapınmayla bağlantılı olduğu on birinci bölümde de yansıtılır; bu bölümü sonuna kadar okuduğunuzda ölüme kadar sadakatin bir açıklamasıdır.
+Tapınak teması on birinci bölümde yeniden karşımıza çıkar; burada tapınmayla ilişkilendirilir — ve o bölümü sonuna kadar okursanız, ölüme kadar süren bir sadakatle de ilişkilendirilir.
 
-Yeni Yeruşalim bu küp olarak tanımlanırken, dışındaki her yer cehennem olarak tanımlanır. Yani ya tamamen içindesinizdir ya da tamamen dışındasınızdır. Bu biraz aşırı değil mi?
-
-Aslında değil. Çünkü öncelikten bahsediyor. Bir şeye tam olarak bağlı değilseniz, daha önemli bir şey vardır ve/veya ona tam olarak güvenmiyorsunuzdur. Ve her ilişkide bu çok önemlidir.
+Yeni Yeruşalim bir küptür ve onun dışındaki her şey cehennemdir. Başka bir deyişle, ya tamamen içeridesinizdir ya da tamamen dışarıda. Kulağa aşırı gelebilir, ama aslında anlatılmak istenen şeyi gördüğünüzde öyle olmadığını anlarsınız: mesele önceliktir. Bir şeye tam olarak bağlı değilseniz, bu ya başka bir şeyin sizin için daha önemli olduğu ya da ona tam olarak güvenmediğiniz anlamına gelir — ve bu, bu ilişki dahil her ilişkideki kilit meseledir.
 
 ## Cehennem ne hakkında?
 
 <a name="5170"></a>
-Cehennem çok basit bir şekilde tarif edilebilir. Tanrı ile ilişkinin olmadığı yerdir.
+O halde cehennem oldukça basit bir şekilde tanımlanabilir: Tanrı'yla bir ilişkinin olmadığı yer.
 
-Ama neden bu kadar kötü bir yer? Çünkü tüm iyi şeylerin kaynağı Tanrı’dır. Ve burada umut, sevinç, huzur, amaç ya da bağışlanma gibi kanıksadığımız ya da kontrol edebileceğimizi veya üretebileceğimizi düşündüğümüz şeylerden de bahsediyorum. Bunları burada, yeryüzünde deneyimliyoruz çünkü burası Tanrı’nın bize kur yaptığı yer. Ancak bu zaman sona erecek ve o zaman Tanrı ile ya da Tanrısız olacağız.
+İşte tam da bu yüzden bu kadar kötü bir yerdir. Her iyi şeyin kaynağı Tanrı'dır — umut, sevinç, huzur, amaç veya bağışlanma gibi, çoğu zaman hafife aldığımız ya da kendi kontrolümüzde olduğunu veya kendimiz üretebileceğimizi sandığımız şeyler de dahil. Bunları burada, yeryüzünde deneyimliyoruz, çünkü burası Tanrı'nın bize kur yaptığı yerdir. Ama bu dönem sona erecek ve o zaman ya Tanrı'yla ya da Tanrı'sız olacağız; üçüncü bir seçenek yok.
 
-Tanrı olmadan aşağı doğru bir sarmal ya da affetmeme, acı, umutsuzluk ve korku olacaktır.
+Tanrı'sız geriye kalan şey, bağışlamama, acılık, umutsuzluk ve korkudan oluşan aşağı doğru bir sarmaldır.
 
-Tanrı kimseyi kendisiyle paydaşlık etmesi için zorlamaz. Onunla tam olarak birlikte olmak istemiyorsak, gitmemize izin verecektir. Ancak bunun sonucu, O’nsuz ve dolayısıyla armağanlarından da yoksun bir yaşamdır ki bu da yaşamımızı cehennem diyarında bırakır.
+Tanrı hiç kimseyi kendisiyle paydaşlığa zorlamaz. Eğer O'nunla tamamen birlikte olmak istemiyorsak, gitmemize izin verir — ama bunun sonucu O'nsuz, dolayısıyla armağanlarından da yoksun bir hayattır; ve tam da bu, o hayatı cehennem alanında bırakan şeydir.
 
-Cehennem genellikle korku yaratmak için kullanılır: Eğer tövbe etmez ve Hıristiyan olmazsanız cehenneme gidersiniz. Yukarıda gördüklerimize göre bu gerçekten yanlış değildir, {{% int_link val="ancak mesele şu ki korku ve manipülasyon canavarın özellikleridir (Vahiy’de)" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, ancak kilisenin özelliği esas {{% int_link val="olarak tanık" link="/expl/content/witnesses/the-two-witnesses" %}} olarak {{% int_link val="tanıklıklarıdır" link="/appl/topics/power/the-power-of-testimony" %}}.
+Cehennem sık sık korku üretmek için bir tehdit olarak kullanılır: tövbe edip Hıristiyan olun, yoksa cehenneme gidersiniz. Yukarıda anlatılanlar göz önüne alındığında bu iddia tam olarak yanlış değildir, ama meselenin özünü kaçırır. Vahiy'de {{% int_link val="korku ve manipülasyon canavarın özellikleridir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, kilisenin değil. Kilisenin belirleyici özelliği ise {{% int_link val="tanık" link="/expl/content/witnesses/the-two-witnesses" %}} olarak taşıdığı {{% int_link val="tanıklığıdır" link="/appl/topics/power/the-power-of-testimony" %}}.
 

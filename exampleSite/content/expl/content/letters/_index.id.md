@@ -4,9 +4,8 @@ title: "Surat-surat kepada Gereja-gereja (Pasal 2-3)"
 weight: 2
 ---
 
-Apa visi Allah bagi gereja?
-Apakah hanya sekadar diselamatkan dan masuk surga?
+Apa visi Allah bagi Gereja? Apakah hanya sekadar diselamatkan dan masuk surga?
 
-Allah memiliki visi bahwa kita seharusnya menjadi terang bagi dunia - kita seharusnya menjadi teladan yang tak terbantahkan bagi karakter Allah - tetapi juga hidup dalam ketergantungan penuh kepada Allah.
+Lebih dari itu. Visi-Nya adalah agar kita menjadi terang bagi dunia, teladan yang tak terbantahkan bagi karakter Allah, dan umat yang hidup dalam ketergantungan penuh kepada-Nya.
 
-Itu saja. Tetapi ketika kita melihat ketujuh gereja, kita melihat bahwa sebagian besar dari mereka mengalami masalah, dan yang menang pun tidak terlihat menarik bagi kita. Namun mengapa demikian?
+Itulah keseluruhan panggilan itu - tidak lebih, tidak kurang. Namun ketika kita melihat ketujuh jemaat, kita mendapati bahwa sebagian besar dari mereka sedang bergumul, dan bahkan mereka yang keluar sebagai pemenang pun tidak terlihat begitu menarik bagi kita. Mengapa demikian?

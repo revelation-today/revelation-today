@@ -8,52 +8,51 @@ next: /expl/bible/exodus/the-hardening-of-pharaohs-heart
 docType: expl
 ---
 
-Musa’nın hikayesi antik dünyada bilinen tüm kahramanlık hikayelerinin senaryosuna aykırıdır, ancak bu bir başarı hikayesidir.
+Musa’nın öyküsü, antik dünyada bilinen her kahramanlık hikayesinin senaryosuna aykırı işler — ve yine de bir başarı öyküsüdür.
 
-Bu hikâye Kutsal Kitap’ta sadece iki bölüm uzunluğundadır ve daha önce okunmaya değerdir. İlk olarak, {{% int_link val="ikinci bir Hiksos’tan" link="/expl/bible/exodus/the-story-before-the-exodus" %}} kaçınmak için {{% bible val="İsrailoğullarını küçük tutmanın hikâyesi" link="exo:1" lang="tr" %}} ve daha sonra {{% bible val="Musa’nın hikâyesi" link="exo:2" lang="tr" %}}
+Anlatılması Kutsal Kitap’ta sadece iki bölüm tutar, ikisini de önceden okumaya değer: önce ikinci bir {{% int_link val="Hiksos" link="/expl/bible/exodus/the-story-before-the-exodus" %}} ortaya çıkmasın diye {{% bible val="İsrailoğulları’nı küçük tutma öyküsü" link="exo:1" lang="tr" %}}, sonra da {{% bible val="Musa’nın öyküsü" link="exo:2" lang="tr" %}} kendisi.
 
-## İkinci bir Hyksos’a karşı mücadele
+## İkinci bir Hiksos’a karşı mücadele
 
 <a name="e6bc"></a>
-Firavun İsraillilerin büyük bir halk olmasını engellemek için her şeyi yapıyor ama ne yaparsa yapsın başarısız oluyor. Bu bir tür parodidir.
+Firavun, İsrailliler’in büyük bir halk olmasını engellemek için elinden geleni yapar, ama ne denerse denesin başarısız olur — ve bu başarısızlık, neredeyse madde madde bir parodi gibi işler.
 
-| Pharao'nun Görünümü | Gerçeklik |
-|---------------------|-----------|
-| Firavun kendisini Tanrıların temsilcisi olarak görürHikayede kilit bir kişi değil. | İsmiyle bile anılmıyor. Temsil ettiği tanrılar gibi ona da bir arka plan aktörü gibi davranılıyor — hiçbirinin adı geçmiyor.Ancak ana kahramanlar isimdir ve çoğunlukla kadındırlar ve hepsi Mısırlı değildir ({{% bible val="Schifra ve Pua, ebelerin" link="exo:1,15" lang="tr" %}} adı semitiktir). |
-| Firavun İsrailli kölelerin ölmesi için onlara ağır işler yükledi. | Hatta halk giderek daha da zenginleşir ve sonunda {{% bible val="Mısır’dan ayrıldıklarında " link="exo:12,35-36" lang="tr" %}}zenginliklerle doludurlar. Sonunda sadece özgür olmakla kalmazlar, aynı zamanda itibarları da iade edilir. |
-| ebeler yeni doğan bebekleri öldürmeli | Firavunu (Asyalı yabancılar olarak) reddederler ve cezalandırılmayıp {{% bible val="Tanrı tarafından çocuklarla kutsanırlar" link="exo:1,21" lang="tr" %}} |
-| yeni doğan bebekler Nil’e atılmalı | Musa, Nuh’un Gemisi ile [aynı anlama](https://biblehub.com/hebrew/strongs_8392.htm) gelen bir sepetin içinde Nil nehrine bırakılır ve kurtarılır. |
-| Musa hikâyenin anahtarıdır | Firavun’u alaşağı edecek kişidir{{% bible val="Firavunun kızı tarafından büyütülür ve annesine onu büyütmesi için para ödenir" link="exo:2,5-10" lang="tr" %}} |
+| Firavun’un bakışı | Gerçeklik |
+|--------------------|-----------|
+| Firavun kendini tanrıların temsilcisi olarak görür. | Oysa o öykünün kilit bir kişisi bile değildir — adıyla anılmaz, temsil ettiği ve hiçbirinin adı geçmeyen tanrılar gibi bir arka plan figürü olarak ele alınır. Buna karşılık asıl kahramanlar adlarıyla anılır ve çoğunlukla kadındır, hepsi de Mısırlı değildir ({{% bible val="ebelerin adı olan Şifra ve Pua" link="exo:1,15" lang="tr" %}}, Sami kökenli adlardır). |
+| Firavun, İsrailli köleleri ölesiye çalıştırmak ister. | Bunun yerine halk sayıca artmaya devam eder ve Mısır’dan {{% bible val="ayrıldıklarında" link="exo:12,35-36" lang="tr" %}} servetle yüklüdürler. Sonunda yalnızca özgür kalmakla kalmaz, onurları da geri verilmiş olur. |
+| Ebelere yeni doğan bebekleri öldürmeleri emredilir. | Onlar ise — üstelik yabancı Asyalı kadınlar olarak — Firavun’a karşı gelirler ve cezalandırılmak yerine {{% bible val="Tanrı tarafından çocuklarla kutsanırlar" link="exo:1,21" lang="tr" %}}. |
+| Yeni doğan bebekler Nil’e atılmalıdır. | Musa, Nuh’un Gemisi için kullanılanla [aynı sözcükle](https://biblehub.com/hebrew/strongs_8392.htm) anılan bir sepetin içinde Nil’e bırakılır ve kurtarılır. |
+| Musa öyküdeki kilit kişidir, Firavun’u alaşağı edecek olandır. | Bunun yerine {{% bible val="Firavun’un kızı tarafından büyütülür, üstelik kendi annesine onu emzirmesi için para ödenir" link="exo:2,5-10" lang="tr" %}}. |
 
 ## Musa’nın hikayesi
 
 <a name="ae0c"></a>
-Musa’nın hikayesi, eski çağlardaki bir kahramanlık hikayesinin tam tersidir. Normal hikayeyi kalın, Musa’nın hikayesini ise italik olarak yazacağım.
+Musa’nın öyküsü, tipik antik kahramanlık öyküsünün tam tersidir. Aşağıdaki tablo alışılmış kalıbı Musa’nın başına gerçekte gelenlerle karşılaştırıyor.
 
-| Bir kahramanın normal hikayesi | Musa'nın hikayesi |
-|--------------------------------|-------------------|
-| hikaye kahramanın bebekken terk edilmesiyle başlar (Herkül, Oedipus, Romulus ve Remus, Cyros, ...) | Moses sevgi dolu annesi tarafından saklandı ve iyi bakılana kadar dikkatle izlendi. |
-| çocuğu bulan kişi normalde düşük statüdedir | Musa Firavun’un kızı tarafından büyütüldü ve kendi annesi tarafından emzirildi. |
-| Çocuğun kimliği bilinmiyor ve ancak sonunda ortaya çıkıyor | Musa’nın kimliği {{% bible val="en başından beri Firavun’un kızı tarafından bilinmektedir" link="exo:2,6" lang="tr" %}}. |
-| gerçek kimliğinin keşfi bir dönüm noktasıdır ve ona ilgili statüyü sağlar | Musa’nın gerçek kimliği başını belaya sokar ve hayatta kalmak için kaçması gerekir. |
-| hikayenin nedeni kahramanın güç iddiasını göstermektir | Öykü Musa’nın iddiasını değil, Tanrı’nın sağlayışını ve kontrolünü gösterir. |
+| Sıradan kahramanlık öyküsü | Musa’nın öyküsü |
+|----------------------------|-------------------|
+| Öykü, kahraman bebekken terk edildiğinde başlar (Herkül, Oidipus, Romulus ve Remus, Kiros…). | Musa, sevgi dolu annesi tarafından saklanır ve güvenli ellere teslim edilene kadar özenle gözetilir. |
+| Çocuğu bulan kişi genellikle düşük statülüdür. | Musa, Firavun’un kızı tarafından büyütülür ve kendi annesi tarafından emzirilir. |
+| Çocuğun kimliği bilinmez ve ancak sonunda ortaya çıkar. | Musa’nın kimliği {{% bible val="en başından beri Firavun’un kızı tarafından bilinir" link="exo:2,6" lang="tr" %}}. |
+| Gerçek kimliğinin ortaya çıkması, ona hak ettiği statüyü kazandıran dönüm noktasıdır. | Musa’nın gerçek kimliği ise onu belaya sokar ve hayatta kalabilmek için kaçmak zorunda kalır. |
+| Öykünün anlatılma amacı, kahramanın güç iddiasını göstermektir. | Öykü Musa’nın değil, Tanrı’nın sağlayışını ve egemenliğini gösterir. |
 
 ## Musa’nın diğer öyküsü
 
 <a name="3d63"></a>
-Onun için bir sonraki bölüm 40 yıl boyunca çöle gitmek ve çoban olmayı öğrenmektir. Bu, {{% bible val="İsrail’in liderleri gib" link="ezk:34" lang="tr" %}}i kötü bir lider değil, {{% bible val="İsa" link="jhn:10" lang="tr" %}} gibi iyi bir lider olmak için bir anahtardır. İncil’deki birçok önemli şahsiyet çobandı (İbrahim, İshak, Yakup, Davut, İsa, “Mez.23”)
+Hayatındaki bir sonraki bölüm, onu 40 yıl boyunca çölde çobanlık öğrenmeye gönderir. Onu iyi bir lidere dönüştüren de tam olarak budur — sonradan {{% bible val="İsa" link="jhn:10" lang="tr" %}} gibi biri olması için, {{% bible val="İsrail’in liderleri gibi kötü bir lider" link="ezk:34" lang="tr" %}} olması için değil. Kutsal Kitap’taki birçok önemli kişi çobandı: İbrahim, İshak, Yakup, Davut, İsa ve “Mez. 23”ün mezmur yazarı.
 
-Belki de bu, {{% bible val="kontrolsüz bir öfkeden" link="exo:2,11-12" lang="tr" %}} yeryüzündeki en {{% bible val="mütevazı insana geçmeyi" link="num:12,3" lang="tr" %}}, {{% bible val="zor durumlarda sakin ve şefkatli kalabilmeyi öğrenmektir" link="num:12" lang="tr" %}}.
+Belki de bu 40 yılın anlamı, {{% bible val="dizginlenemeyen bir öfkeden" link="exo:2,11-12" lang="tr" %}} yeryüzündeki en {{% bible val="alçakgönüllü insan" link="num:12,3" lang="tr" %}} olmaya, {{% bible val="zor durumlarda bile sakin ve şefkatli kalabilen" link="num:12" lang="tr" %}} biri olmaya uzanan yolculuktur.
 
-Musa pek kahraman gibi görünmüyor.
+Sıradan ölçütlere göre bakıldığında, Musa hiç de kahraman malzemesi gibi görünmez.
 
-Tanrı’nın halkıyla yaptığı antlaşma gereği İsrail halkını kurtarması gerekir, {{% bible val="ancak oğlunu sünnet etmeyi unuttuğu için (ki bu antlaşmanın kendi tarafındaki tek koşuluydu) İsrailli olmayan karısının onu kurtarması gerektiğini atlar" link="exo:4,24-25" lang="tr" %}}.
+İsrail’i, Tanrı’nın halkıyla yaptığı antlaşma gereği kurtaracak kişi odur; yine de {{% bible val="kendi oğlunu sünnet etmeyi unutur — antlaşmanın kendi tarafına düşen tek koşulu — öyle ki İsrailli olmayan karısı onu kurtarmak zorunda kalır" link="exo:4,24-25" lang="tr" %}}.
 
-Öğrenmesi gereken tek şey Tanrı’ya güvenmekti: {{% bible val="Bunu öğrendiği örneklerden biri, yılana dönüşen asasını yere attığında onu kuyruğundan yakalaması gerektiğidir (her çocuk başının arkasından yakalamanız gerektiğini bilir, yoksa yılan sizi ısırır)" link="exo:4,2-5" lang="tr" %}}.
+Tanrı’ya güvenmeyi de öğrenmesi gerekir. Bunun çarpıcı bir örneği, {{% bible val="asasını yere attığında yılana dönüşmesi ve ona kuyruğundan tutması söylenmesidir — oysa her çocuk bilir ki bir yılan başının hemen arkasından tutulur, yoksa sizi ısırır" link="exo:4,2-5" lang="tr" %}}.
 
-Sonunda her şey yoluna girer çünkü hikâyenin gerçek kahramanı Musa değil Tanrı’dır.
+Sonunda her şey yoluna girer, çünkü öykünün gerçek kahramanı hiçbir zaman Musa değil, Tanrı’dır.
 
-## Daha fazla kazma
+## Daha derine in
 
-{{% int_link val="Nahum Sarna, Exodus, sayfalar 27–37" link="/about/ressources/index.html#sarna_exo" %}}
-
+{{% int_link val="Nahum Sarna, Exodus, sayfa 27–37" link="/about/ressources/index.html#sarna_exo" %}}

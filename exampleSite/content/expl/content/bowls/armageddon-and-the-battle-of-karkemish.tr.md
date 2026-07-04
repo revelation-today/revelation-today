@@ -9,47 +9,48 @@ docType: expl
 appl: /appl/content/bowls
 ---
 
-Peki Mesih’ten önceki ilk bin yılın yakın doğusundaki en önemli savaşlardan birinin dünyanın sonuyla bağlantılı olan ahir zaman savaşıyla ne ilgisi var? Savaş kelimesinden çok daha fazlası.
+M.Ö. birinci binyılın Orta Doğu'sundaki en önemli savaşlardan birinin, dünyanın sonuyla bağlantılı ahir zaman savaşıyla ne ilgisi olabilir? Ortaya çıkan şu ki, sadece "savaş" kelimesinden çok daha fazlası.
 
-## Karkamış’tan önceki hikaye
+## Karkamış'tan önceki hikâye
 
 <a name="f7c8"></a>
-M.Ö. 612'de Babilliler’in Asurlular’ın eski başkenti Niniveh’i ele geçirmesiyle başlar; bu olay {{% bible val="Nahum" link="nam:1" lang="tr" %}} peygamberde de anlatılır ve {{% bible val="Yunus" link="jon:1" lang="tr" %}} peygamberin orada vaaz vermesinin ardından halkın yolundan dönmesinin bir sonucudur.
+Hikâye M.Ö. 612'de, Babillilerin Asurluların eski başkenti Ninova'yı ele geçirmesiyle başlar. Peygamber {{% bible val="Nahum" link="nam:1" lang="tr" %}}, bu düşüşü, halkın daha önce {{% bible val="Yunus" link="jon:1" lang="tr" %}} peygamberin orada vaaz vermesinin ardından tuttukları yoldan geri dönmesinin bir sonucu olarak anlatır.
 
-Asurlular, İ{{% bible val="brahim’in geldiği yer olan" link="gen:11,31" lang="tr" %}} Haran’a ve daha sonra damadı {{% bible val="Rebeka" link="gen:24" lang="tr" %}} ve daha sonra da {{% bible val="Yakup ve eşleri gibi" link="gen:28" lang="tr" %}} akrabalarına geri döndüler. Bu olay MÖ 609 yılında gerçekleşmiştir.
+Sağ kalan Asurlular, {{% bible val="İbrahim'in geldiği" link="gen:11,31" lang="tr" %}} ve daha sonra gelini Rebeka'nın, ardından da Yakup ile eşlerinin yaşadığı yer olan Haran'a çekildiler. Bu geri çekiliş M.Ö. 609'da gerçekleşti.
 
-{{% bible val="Aynı zamanda Megiddo yakınlarında İsrail Kralı Yoşiya’nın Mısır Firavunu Neko’ya karşı savaştığı bir savaş vardı" link="2ch:35,20-25" lang="tr" %}}. Yoşiya bu savaşta öldü, ama Haran’daki Asurlular’ı desteklemeye giden Neko’yu geciktirdi.
+Aynı dönemde, {{% bible val="Megiddo yakınlarında İsrail Kralı Yoşiya'nın Mısır Firavunu Neko'ya karşı savaştığı bir çarpışma yaşandı" link="2ch:35,20-25" lang="tr" %}}. Yoşiya bu savaşta öldü, ama ölmeden önce Neko'yu Haran'daki Asurlulara yardıma giden yolda geciktirmeyi başardı.
 
 ## Karkamış savaşı ve sonuçları
 
 <a name="7fa7"></a>
-Asurluları Haran’da yenilgiye uğratan Babil İmparatorluğu, MÖ 605 yılında Babil Kralı [Nebukadnesar](https://en.wikipedia.org/wiki/Nebuchadnezzar_II) tarafından yapılan [Karekemiş Savaşı’nda](https://en.wikipedia.org/wiki/Battle_of_Carchemish) Assur ve Mısır’ın kalan kuvvetlerini de nihayet yenmeyi başarır.
+Asurluları Haran'da yendikten sonra Babil İmparatorluğu ilerlemeye devam etti ve Asur ile Mısır'ın geriye kalan kuvvetlerini M.Ö. 605'te [Karkamış Savaşı'nda](https://en.wikipedia.org/wiki/Battle_of_Carchemish) ezdi; bu savaş Babil kralı [Nebukadnessar](https://en.wikipedia.org/wiki/Nebuchadnezzar_II) komutasında yapıldı.
 
-Bu durum Asur ve Mısır imparatorluklarının çöküşüne neden olmuş, her ikisi de bir daha toparlanamamış ve Babil imparatorluğunun yükselişini başlatmıştır.
+Bu savaş hem Asur hem de Mısır imparatorluklarının sonunu getirdi - ikisi de bir daha asla toparlanamadı - ve Babil'in yükselişinin başlangıcı oldu.
 
-Bununla birlikte İsrail Babil’in egemenliği altına girdi ancak sonraki 20 yıl içinde birkaç kez isyan etti ve MÖ 587'de sürgüne gitti. MÖ 714'te İsrail’in kuzey kesimi Asurlular tarafından sürgüne gönderildi ve bu sürgün İsrailli aileleri parçaladı, böylece bu kuzey kabileleri yok oldu. Ancak Babilliler tarafından sürgüne gönderilen kabileler bir arada tutuldular, böylece MÖ 537'de{{% bible val=" İsrail’e geri dönebildiler" link="ezr:1,1-3" lang="tr" %}} ve bugün hala varlar.
+İsrail Babil egemenliği altına girdi, sonraki yirmi yıl boyunca birkaç kez isyan etti ve sonunda M.Ö. 587'de sürgüne gönderildi. İsrail'in kuzey kesimi ise daha önce, M.Ö. 714'te Asurlular tarafından sürgüne gönderilmişti; Asurlular bu aileleri öylesine dağıtmıştı ki kuzey oymakları tamamen ortadan kayboldu. Babil tarafından sürgün edilen oymakların kaderi farklı oldu: bir arada tutuldular, bu sayede M.Ö. 537'de {{% bible val="İsrail'e geri dönebildiler" link="ezr:1,1-3" lang="tr" %}} ve bugün hâlâ var olmayı sürdürüyorlar.
 
-Eğer Yoşiya Megiddo’daki savaşta Neko’yla savaşıp onu Haran savaşına ertelemeseydi, Babil Karkamış savaşını kazanamayabilir ve İsrail’in güney kabileleri Asurlular’ın yönetiminde sürgüne gidip bir daha var olmayabilirdi.
+Eğer Yoşiya, Megiddo'da Neko'yla savaşıp onu Haran yolunda geciktirmeseydi, Babil Karkamış'ta kazanamayabilirdi - ve İsrail'in güney oymakları da tıpkı kuzey oymakları gibi Asurlular tarafından sürgüne gönderilip yok olabilirdi.
 
-## Armageddon ve Karkemish
+## Armageddon ve Karkamış
 
 <a name="f9f7"></a>
-Ama bunun {{% bible val="Armagedon" link="rev:16,12-16" lang="tr" %}} savaşıyla ne ilgisi var?
+Peki bütün bunların {{% bible val="Armagedon" link="rev:16,12-16" lang="tr" %}} Savaşı'yla ne ilgisi var? Onları birbirine bağlayan birkaç iplik var.
 
-- Armagedon (Fırat Nehri) savaşında Babillilerden dolaylı olarak bahsedilmektedir
-- Armagedon “Megiddo Dağı” olarak çevrilebilir ve Yoşiya’nın Neko ile yaptığı savaşla bağlantılıdır.
-- Savaşlar bir dağda gerçekleşmez, ancak ordu orada toplanır ve savaş vadide gerçekleşir. Megiddo savaşı Karkamış savaşı için bir hazırlık olduğu gibi Armagedon da savaşın yapıldığı yer değil, daha sonra {{% bible val="İsa" link="rev:19,11-21" lang="tr" %}} tarafından yenilgiye uğratılacak olan ordunun toplandığı yerdir.
-- Hem Megiddo hem de Armagedon Tanrı’nın halkını korumasını anlatır (Megiddo İsrail’in dağılmasını engeller, Armagedon ise İsa’nın nihai zaferini hazırlar).
-- Çarmıhta ölen İsa, Armagedon’da toplanan orduyu fethetti, Yoşiya (İsa isminin bir başka transkripsiyonu) İsrail’in varlığını korumak için canını verdi.
+Babilliler, Fırat Nehri'nden söz edilmesi yoluyla Armagedon Savaşı'nda da dolaylı olarak yer alır. İsmin kendisi de aynı yöne işaret eder: Armagedon, "Megiddo Dağı" olarak çevrilebilir - ki bu tam olarak Yoşiya'nın Neko'ya karşı durduğu yerdir.
 
-## İsrail’in üç kralı
+Paralellik, ortak konumdan daha derine iner. Savaşlar aslında bir dağın üzerinde yapılmaz - ordular orada toplanır, çarpışma ise aşağıdaki vadide gerçekleşir. Megiddo Savaşı, Karkamış Savaşı'nın hazırlık sahnesiydi; tıpkı Armagedon'un savaşın kendisinin yapıldığı yer değil, daha sonra {{% bible val="İsa tarafından" link="rev:19,11-21" lang="tr" %}} yenilgiye uğratılacak bir ordunun toplanma noktası olması gibi.
+
+Her iki yer de Tanrı'nın halkının korunmasını anlatır - Megiddo, İsrail'in güney oymaklarını dağılmaktan kurtardığı için; Armagedon ise İsa'nın nihai zaferinin zeminini hazırladığı için. Ve bu korumanın nasıl kazanıldığında çarpıcı bir yankı vardır: Çarmıhta ölen İsa, Armagedon'da toplanan orduyu yener; adı "İsa" isminin bir başka biçimi olan Yoşiya ise İsrail'in varlığını korumak için kendi canını verdi.
+
+## İsrail'in üç kralı
 
 <a name="0554"></a>
-Assur’la anlayışlı bir ilişki içinde olan üç kral vardı.
+İsrail'in üç kralının her biri Asur'la çarpıcı bir karşılaşma yaşadı ve her biri farklı tepki verdi.
 
-- Kral {{% bible val="Ahaz" link="isa:7,1-14" lang="tr" %}}, [Asur’a karşı bir koalisyona katılması için baskı altındaydı](https://en.wikipedia.org/wiki/Ahaz#Destruction_of_Northern_Kingdom) ve {{% bible val="peygamber Yeşaya tarafından Tanrı’nın tam desteği teklif edildi, ancak o bunu reddetti" link="isa:7,1-14" lang="tr" %}}, bunun yerine kuzeydeki 10 kabileyi MÖ 714'te bir daha asla geri dönemeyecekleri sürgüne götüren Asur kralından yardım istedi.
-- Kral Hesekiya, {{% bible val="Asurlular M.Ö. 701 yılında Yeruşalim’e saldırdığında bir meleğin müdahalesiyle zaferle sonuçlanan bir iman gösterir" link="isa:37" lang="tr" %}}. {{% bible val="Bu olaydan sonra hastalanır ve Tanrı ona son işlerini halletmesini söyler. Hesekiya Tanrı’ya dua eder ve Tanrı fikrini değiştirerek ona yaşaması için daha fazla zaman verir" link="isa:38" lang="tr" %}}. Bunun sonucunda Babil kralı Merodach-Baladin onu ziyaret eder ve bu iyileşme için onu kutlar. Bu [kral Babil’i Asurlular’dan bağımsız hale getirmeyi başarır](https://en.wikipedia.org/wiki/Marduk-apla-iddina_II) ve öyle görünüyor ki Hesekiya, Babil kralına sahip olduğu tüm hazineleri göstererek onu (maddi olarak) desteklediğinde Asurlular’ı da uzun vadede yenmeyi ummaktadır. {{% bible val="Peygamber Yeşaya, Babilliler’in onun dostu olmadığını söyleyerek onunla yüzleşiyordu" link="isa:39,3-7" lang="tr" %}}. Ama Hesekiya kendi kendine şöyle dedi: “{{% bible val="Bunu yaşamak zorunda kalmadığım sürece sorun yok" link="isa:39,8" lang="tr" %}}”
-- Hesekiya’nın torunu Yoşiya onlardan çok farklıdır. {{% bible val="Yoşiya 8 yaşındayken hükümdarlığa başlar ve 18 yaşındayken, Tanrı’nın sadakatsiz İsrail’i yargılamasının anlatıldığı yasa kitabı bulunduğunda tapınağı restore etmesi gerekir. Şok olur ve peygamber Huldah’dan tavsiye ister. Huldah, yargının değişmez olduğunu ama onun zamanında gerçekleşmeyeceğini söyler" link="2ki:22" lang="tr" %}}. Ama onun tepkisi dedelerinden farklı olmuştur. {{% bible val="Yasayı yerine getirmek için tüm İsrail’i geri getirdi" link="2ki:23,1-27" lang="tr" %}}. {{% bible val="Yaşamının sonunda Megiddo’da savaştı ve orada öldü" link="2ki:23,28-30" lang="tr" %}}. Görmediği bir gelecek için canını verdi.
+Kral {{% bible val="Ahaz" link="isa:7,1-14" lang="tr" %}}, [Asur'a karşı bir koalisyona katılması için baskı gördü](https://en.wikipedia.org/wiki/Ahaz#Destruction_of_Northern_Kingdom) ve {{% bible val="peygamber Yeşaya aracılığıyla Tanrı'nın tam desteği kendisine sunuldu, ama o bunu reddetti" link="isa:7,1-14" lang="tr" %}}. Bunun yerine Asur kralından yardım istedi - kuzeydeki on oymağı, bir daha geri dönemeyecekleri bir sürgüne, M.Ö. 714'te götürecek olan kraldan.
 
-Baskı zamanlarında farklı davranan üç kralımız var ve hepsi de Tanrı’nın yanlarında olduğunu biliyordu.
+Kral Hizkiya ise bunun tam tersine, {{% bible val="Asurlular Yeruşalim'e saldırdığında" link="isa:37" lang="tr" %}} [M.Ö. 701'de](https://en.wikipedia.org/wiki/Hezekiah#Political_moves_and_Assyrian_invasion) iman gösterdi ve bu, bir meleğin zaferle sonuçlanan müdahalesine yol açtı. Kısa süre sonra {{% bible val="hastalandı ve Tanrı ona işlerini düzene koymasını söyledi; Hizkiya dua etti, Tanrı fikrini değiştirdi ve ona yaşaması için daha fazla zaman bağışladı" link="isa:38" lang="tr" %}}. Bunun üzerine, [Babil'i Asurlulardan bağımsız kılmayı başarmış olan](https://en.wikipedia.org/wiki/Marduk-apla-iddina_II) Babil kralı Merodak-Baladan, iyileşmesini kutlamak için onu ziyaret etti. Görünüşe göre Hizkiya, bir gün Asurluları da yenmeyi umuyordu; bu yüzden bir müttefik bulma umuduyla tüm hazinelerini gösterdi ve Babil kralına maddi destek sağladı. {{% bible val="Peygamber Yeşaya onunla bu konuda yüzleşti ve Babillilerin dostu olmadığını açıkça söyledi" link="isa:39,3-7" lang="tr" %}}. Hizkiya'nın verdiği cevap yalnızca şuydu: {{% bible val="'Yeter ki bunu kendim yaşamak zorunda kalmayayım'" link="isa:39,8" lang="tr" %}}.
 
+Hizkiya'nın torunu Yoşiya ise ikisine de benzemedi. {{% bible val="Sekiz yaşında kral oldu ve on sekiz yaşında tapınağı yeniden inşa etmeye girişti - orada, sadakatsiz İsrail üzerindeki Tanrı'nın yargısını anlatan yasa kitabı bulundu. Sarsılan Yoşiya, peygamber Hulda'dan yol göstermesini istedi. Hulda ona yargının değişmez olduğunu, ama bunun kendi yaşadığı sürede gerçekleşmeyeceğini söyledi." link="2ki:22" lang="tr" %}} Ama dedesinin aksine Yoşiya, kişisel bir rahatlamayla yetinmedi. {{% bible val="Tüm İsrail'i yasaya uymaya geri getirdi" link="2ki:23,1-27" lang="tr" %}} ve hayatının sonunda {{% bible val="öldüğü Megiddo savaşına" link="2ki:23,28-30" lang="tr" %}} girdi - göremeyeceği bir gelecek için canını vererek.
+
+Üç kral, baskı karşısında birbirinden çok farklı üç tepki - ama üçü de Tanrı'nın kendi taraflarında olduğunu biliyordu.

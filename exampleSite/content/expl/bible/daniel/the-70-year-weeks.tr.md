@@ -11,89 +11,75 @@ sources:
       ref: daniel
 ---
 
-70 yıllık haftalar, Kutsal Kitap’ın gizem yüklü bir bölümüdür ve ahir zamanla ilgili daha da ilginç yorumlar içerir. Gelin tüm bunların ne hakkında olduğuna daha yakından bakalım
+70 yıllık haftalar, Kutsal Kitap'ın en gizemli bölümlerinden biridir ve son zamanlar hakkında pek çok ilginç yoruma kapı açmıştır. Bunun ne anlama geldiğine daha yakından bakalım.
 
-## Bir yıllık hafta nedir
+## Yıl haftası nedir
 
 <a name="7a7b"></a>
-Yaratılış sırasında Tanrı yedinci günü Şabat olarak adlandırılan bir dinlenme günü olarak kutsamıştı, ancak “sabbatical yıl” hakkında da bir yasa vardı: {{% bible val="Her yedinci yılda toprak dinlenmeli" link="lev:25,1-7" lang="tr" %}} ve {{% bible val="insanlar Tanrı’nın kendilerine sağlayacağına güvenerek yaşamalıdır" link="lev:25,20-22" lang="tr" %}}.
+Tanrı yaratılışta yedinci günü bir dinlenme günü, Şabat olarak kutsadı. Aynı ritim daha sonra bir "Şabat yılı"na genişletildi: {{% bible val="her yedinci yılda toprak dinlenmeliydi" link="lev:25,1-7" lang="tr" %}} ve {{% bible val="halk bu süre boyunca Tanrı'nın kendilerini besleyeceğine güvenmeliydi" link="lev:25,20-22" lang="tr" %}}.
 
-Ancak İsrail sürgüne gittiğinde {{% bible val="Yeremya’nın" link="jer:25,11-12" lang="tr" %}} {{% bible val="kehanet ettiği gibi 70 yıl gerçekleşmediği için" link="2ch:36,20-21" lang="tr" %}} bu asla gerçekleşmeyecek gibi görünüyor. Şabat yılı sadece yedinci yılda bir gerçekleştiğinden, 7*70=490 yıllık bir zamandan, yani İsrail’in bir devlet olarak var olduğu tüm zamandan bahsediyoruz. Yani Daniel’de bir yıl ya da hafta 7 yıldan oluşur (Şabat günü ile paralelliği göstermek için hafta olarak adlandırılır — bir haftanın yedinci günü)
+Bu hiçbir zaman gerçekleşmedi. {{% bible val="Yeremya'nın" link="jer:25,11-12" lang="tr" %}} önceden bildirdiği gibi, İsrail {{% bible val="sürgüne gittiğinde, bu tam 70 yıl sürdü — toprağın mahrum bırakıldığı her bir Şabat yılı için bir yıl" link="2ch:36,20-21" lang="tr" %}}. Bir Şabat yılı yalnızca yedi yılda bir geldiğinden, kaçırılan 70 Şabat yılı, 7×70=490 yıl anlamına gelir — İsrail'in o zamana kadar bir ulus olarak var oluşunun tüm süresi. Bu yüzden Daniel'de bir "hafta" yedi yıl anlamına gelir: terim kasıtlı olarak Şabat'a, haftanın yedinci gününe göndermede bulunur.
 
-## Söz
+## Vaat
 
 <a name="9594"></a>
-[MÖ 605 yılını sürgünün ilk bölümü olarak sayarsak](https://seminary.bju.edu/theology-in-3d/so-was-it-70-years-or-not/), Babil’in yıkıldığı ve {{% bible val="sürgünün ilk Pers kralı döneminde sona erdiği" link="2ch:36,22-23" lang="tr" %}} 539 yılına ulaşırız. Daniel bu dönemde yaşıyordu ve {{% bible val="Tanrı’nın verdiği sözü biliyordu" link="jer:29,10" lang="tr" %}}. Bu yüzden zamanı {{% bible val="geldiğinde halkı için tövbe duası etti" link="dan:9,3-19" lang="tr" %}}. Onun yanıtı, sadece 4 ayet olan 70 yılın açıklamasıdır, ancak bunları açıklamak biraz zaman alır:
+[MÖ 605'i sürgünün başladığı yıl sayarsak](https://seminary.bju.edu/theology-in-3d/so-was-it-70-years-or-not/), bu bizi Babil'in yıkıldığı ve {{% bible val="sürgünün ilk Pers kralı döneminde sona erdiği" link="2ch:36,22-23" lang="tr" %}} MÖ 539'a götürür. Daniel o dönemde yaşıyordu ve {{% bible val="Tanrı'nın verdiği vaadi biliyordu" link="jer:29,10" lang="tr" %}}; bu yüzden {{% bible val="zaman geldiğinde" link="dan:9,1-2" lang="tr" %}} {{% bible val="halkı için bir tövbe duası etti" link="dan:9,3-19" lang="tr" %}}. Aldığı yanıt yalnızca dört ayet uzunluğundadır, ama açıklanması biraz zaman alır:
 
-“{{% bible val="‹‹Başkaldırıyı ortadan kaldırmak, günaha son vermek, suçu bağışlatmak, sonsuza dek kalıcı doğruluğu sağlamak, görüm ve peygamberliği mühürlemek, En Kutsal’ı meshetmek için senin halkına ve kutsal kentine yetmiş hafta kadar zaman saptanmıştır. ‹‹Şunu bil ve anla: Yeruşalim’i yeniden kurmak için buyruğun verilmesinden, meshedilmiş olan önderin gelişine dek yedi hafta geçecek. Altmış iki hafta içinde Yeruşalim yeniden sokaklarla, hendeklerle kurulacak. Ancak bu sıkıntılı zamanlarda olacak. Bu altmış iki hafta sonunda meshedilmiş olan öldürülecek ve onu destekleyen olmayacak. Gelecek önderin halkı, kenti ve kutsal yeri yerle bir edecek. Sonu tufanla olacak: Savaş sona dek sürecek. Yıkımların da olacağı kararlaştırıldı. Gelecek önder birçoklarıyla bir haftalık sağlam bir antlaşma yapacak. Haftanın yarısı geçince, kurbanı da sunuyu da kaldıracak. Kararlaştırılan yıkım başına gelinceye dek yok edici önder tapınağın üst bölümüne yıkıcı iğrenç şeyler yerleştirecek.››" link="dan:9,24-27" lang="tr" %}}”
+"{{% bible val="‹‹Halkın ve kutsal kentin için başkaldırıyı ortadan kaldırmak, günaha son vermek, suçu bağışlatmak, sonsuza dek kalıcı doğruluğu sağlamak, görüm ve peygamberliği mühürlemek, En Kutsal'ı meshetmek üzere yetmiş hafta kararlaştırılmıştır. Şunu bil ve anla: Yeruşalim'i yeniden kurmak ve onarmak için buyruğun verilmesinden, meshedilmiş olan önderin gelişine dek yedi hafta ve altmış iki hafta geçecek. Sokaklar ve hendeklerle yeniden inşa edilecek, ama sıkıntılı zamanlarda. Bu altmış iki hafta sonunda meshedilmiş olan öldürülecek ve onu destekleyen olmayacak. Gelecek önderin halkı, kenti ve kutsal yeri yerle bir edecek. Sonu bir tufan gibi olacak: Savaş sona dek sürecek, yıkımlar da kararlaştırılmıştır. Gelecek önder birçoklarıyla bir hafta için sağlam bir antlaşma yapacak. Haftanın yarısında kurbanı da sunuyu da kaldıracak. Kararlaştırılan yıkım başına dökülünceye dek, tapınağın üzerine yıkıcı iğrenç şeyler yerleştirecek.›› " link="dan:9,24-27" lang="tr" %}}"
 
-70 yedili 70*7=490 yıllık bir zaman dilimidir, çünkü İsrail’in sürgüne gitmek zorunda kalmasının nedeni olan sabbatical yıllardan bahsediyoruz.
+"Yetmiş hafta" 70×7=490 yıldır — İsrail'i sürgüne gönderen o Şabat yıllarının ihmalinin süresiyle aynıdır.
 
-24. ayet 490 yılın sonucunu açıklar:
+24. ayet, bu 490 yılın gerçekleştirmesi gereken altı şeyi sıralar:
 
-- Halkın ve kutsal kentin için günah işlemeyi bitir. Aşırılık, {{% bible val="11. bölümde " link="dan:11,32" lang="tr" %}}anlatılan {{% bible val="Antiokus Epifanes IV’ü destekleyen Yahudilere" link="dan:9,24-27" lang="tr" %}} bir göndermedir.
-- Günaha son vermek (kelimenin tam anlamıyla “mühürlemek”, “kaldırmak” ile aynı sessiz harflere sahiptir) iddialı bir hedeftir
-- (tüm) kötülükler için kefaret: kefaret, aynı bağlamda tüm günahları ortadan kaldırması gereken {{% bible val="Kefaret Günü’ne" link="lev:16" lang="tr" %}} atıfta bulunur (ebedi bir kefaret)
-- sonsuz bir doğruluk getirmek
-- vizyon ve kehaneti mühürlemek: mühürlemek burada onaylamak anlamına gelir
-- En Kutsal Yeri meshetmek: En Kutsal Yer tapınak olabilir, ama belki de bu {{% bible val="tapınaktan daha büyük" link="mat:12,6" lang="tr" %}} olan ve aynı zamanda meshedilmiş olan {{% bible val="İsa’dır" link="rom:3,25" lang="tr" %}}
+- **Halkınız ve kutsal kentiniz için başkaldırıyı ortadan kaldırmak.** "Başkaldırı", {{% bible val="11. bölümde" link="dan:11,32" lang="tr" %}} daha sonra anlatılan, {{% bible val="Antiokhos Epifanes IV'ü destekleyen Yahudilere" link="dan:9,24-27" lang="tr" %}} işaret eder.
+- **Günaha son vermek** — kelimenin tam anlamıyla "mühürlemek"; İbranicede bu sözcük "kaldırmak" ile aynı ünsüzleri paylaşır. Her iki durumda da bu iddialı bir hedeftir.
+- **Tüm kötülüğü bağışlatmak.** "Bağışlatmak", kendi bağlamında tüm günahları örtmesi gereken {{% bible val="Kefaret Günü'ne" link="lev:16" lang="tr" %}} işaret eder — kalıcı olması amaçlanan bir kefaret.
+- **Sonsuza dek kalıcı doğruluğu getirmek.**
+- **Görüm ve peygamberliği mühürlemek** — burada "mühürlemek" onu onaylamak anlamına gelir.
+- **En Kutsal Yer'i meshetmek.** En Kutsal Yer doğal olarak tapınağı akla getirir, ama bu belki de tapınaktan daha büyük olan ve meshedilmiş olanın kendisi olan {{% bible val="İsa'ya" link="rom:3,25" lang="tr" %}} işaret ediyor olabilir — {{% bible val="tapınaktan daha büyük olan" link="mat:12,6" lang="tr" %}} O'na.
 
-Buna baktığımızda, tüm bunların tarihte gördüklerimizin ve sadece İsa tarafından çarmıhta yapılanların çok ötesine ulaştığını görürüz: O tüm günahların bedelini ödedi, Kutsal Ruh’la birlikte buyruklarını yüreğimize verdi ve çok daha fazlasını yaptı.
+Bir arada ele alındığında, bu altı hedef İsa'nın çarmıhta yaptıklarının dışında tarihte gerçekleşen hiçbir şeyle kıyaslanamayacak kadar ileri gider: tüm günahın bedelini ödedi, Kutsal Ruh aracılığıyla Tanrı'nın buyruklarını yüreklerimize yazdı ve çok daha fazlasını yaptı.
 
 ## 70 yıl
 
 <a name="66c9"></a>
-Şimdi geri kalanını inceleyelim. Testin geri kalanı 70 haftayı üç bölüme ayırır
+Şimdi metnin geri kalanını inceleyelim. Metin, 70 haftayı üç bölüme ayırır: 7 hafta (Yeruşalim'deki tapınağı yeniden inşa etme fermanı), 62 hafta (tapınağın fiilen inşa edilmesi) ve her şeyi tamamlayacak son 1 hafta.
 
-- 7 (Yeruşalim’deki tapınağın inşa edilmesi emri)
-- 62 (tapınak inşa edilir)
-- 1 (bitirmek için)
+25. ayet şöyle der: {{% bible val="Şunu bil ve anla: Yeruşalim'i yeniden kurmak ve onarmak için buyruğun verilmesinden, meshedilmiş olan önderin gelişine dek yedi hafta ve altmış iki hafta geçecek. Sokaklar ve hendeklerle yeniden inşa edilecek, ama sıkıntılı zamanlarda." link="dan:9,24-27" lang="tr" %}}
 
-25. ayet: ‘{{% bible val="Şunu bilin ve anlayın: Yeruşalim’i onarıp yeniden inşa etme sözü yayıldığı andan Meshedilmiş Olan, yani yönetici gelinceye dek yedi “yedili” ve altmış iki “yedili” dönem olacak. Sokaklar ve hendeklerle yeniden inşa edilecek, ama sıkıntı zamanlarında." link="dan:9,25" lang="tr" %}}
+Yeruşalim'i yeniden inşa etme sözü, Yeruşalim'in düşüşü sırasında, MÖ 588/587'de {{% bible val="peygamber Yeremya aracılığıyla" link="jer:30,18" lang="tr" %}} verildi. Bu, ilk 7×7=49 yılın başlangıcını işaret eder ve bu yıllar, {{% bible val="meshedilmiş olan Koreş'in" link="isa:45,1" lang="tr" %}} {{% bible val="Yeruşalim'i yeniden inşa etme fermanını çıkardığı" link="2ch:36,22-23" lang="tr" %}} MÖ 539'da sona erer.
 
-Yeruşalim’i yeniden inşa etme sözü Yeruşalim’in düşüşü sırasında 588/587 yılında peygamber {{% bible val="Yeremya" link="jer:30,18" lang="tr" %}} tarafından verilir. Bu ilk 7*7 =49 yıl sürer ve 539 yılında {{% bible val="Meshedilmiş Olan Koreş’in Yeruşalim’in yeniden inşası için bir ferman çıkarmasıyla sona erer" link="isa:45,1" lang="tr" %}}.
+Ardından tapınağın kendisinin yeniden inşa edilmesi biraz zaman alır — bu, MÖ 440'ta Nehemya döneminde gerçekleşir — ve tapınak ayakta kalırken 62×7=434 yıl geçer, ama bu süre sürekli sıkıntılarla doludur: İsrail, {{% bible val="inşaatın başlangıcından" link="neh:4" lang="tr" %}} itibaren uzun bir siyasi çalkantılar ve değişen egemenler (Persler, Yunanlılar, Suriye-Mısır krallıkları ve nihayet Roma) dizisi içinde bir o yana bir bu yana sürüklenir. Bu bizi MÖ 6'ya getirir.
 
-Tapınağın yeniden inşası Nehemya’nın yönetiminde 440 yılına kadar sürer ve tapınağın inşa edilip ayakta kalmasının üzerinden 62*7=434 yıl geçer, ancak İsrail {{% bible val="binanın başlangıcından" link="neh:4" lang="tr" %}} itibaren siyasi sorunlar ve İsrail’e hükmeden egemenliklerin (Persler, Yunanlılar, Suriye-Mısırlılar, Romalılar) değişmesi nedeniyle birçok sıkıntı yaşar. Şu anda MÖ 6 yılındayız
+{{% bible val="Bu altmış iki hafta sonunda meshedilmiş olan öldürülecek ve onu destekleyen olmayacak. Gelecek önderin halkı, kenti ve kutsal yeri yerle bir edecek. Sonu bir tufan gibi olacak: Savaş sona dek sürecek, yıkımlar da kararlaştırılmıştır." link="dan:9,24-27" lang="tr" %}}
 
-{{% bible val="Bu altmış iki hafta sonunda meshedilmiş olan öldürülecek ve onu destekleyen olmayacak. Gelecek önderin halkı, kenti ve kutsal yeri yerle bir edecek. Sonu tufanla olacak: Savaş sona dek sürecek. Yıkımların da olacağı kararlaştırıldı." link="dan:9,26" lang="tr" %}}
+Burada meshedilmiş olan artık Koreş değil, MÖ 6'da doğan İsa'dır. "Öldürülecek ve onu destekleyen olmayacak" ifadesi, ["kesilip atılmak"](https://biblehub.com/interlinear/daniel/9-26.htm) anlamına da gelebilen ama aynı zamanda ["antlaşma kesmek"](https://biblehub.com/hebrew/3772.htm) anlamına da gelebilen bir Aramice ifadeyi çevirir — bir antlaşma yapmak için öldü. "Gelecek önderin halkı", imparator Tiberius ve lejyonlarına işaret eder; metin "prens" sözcüğünü kullanır, bu da {{% bible val="bu dünyanın prensine" link="jhn:12,31" lang="tr" %}} bir gönderme olabilir. O önderin halkı, MS 70'te gelip kenti ve kutsal yeri yerle bir etti. Son, Roma lejyonlarının bir tufanı gibi geldi ve İsrail'in son bir ayaklanmanın ardından MS 135'te topraktan sürülmesine kadar savaş sürdü. Metin, bu yıkımın — Tanrı tarafından — kararlaştırıldığında ısrar eder.
 
-Burada Meshedilmiş Olan Koreş değil, M.Ö. 6 yılında doğan İsa’dır. “Öldürüldü ve hiçbir şeyi yok” Aramice metinde “[kesildi](https://biblehub.com/interlinear/daniel/9-26.htm)” anlamına gelir ve bu aynı zamanda “[bir antlaşma kesildi](https://biblehub.com/hebrew/3772.htm)” anlamına da gelebilir. O bir antlaşma yapmak için öldü.
+{{% bible val="Gelecek önder birçoklarıyla bir hafta için sağlam bir antlaşma yapacak. Haftanın yarısında kurbanı da sunuyu da kaldıracak. Kararlaştırılan yıkım başına dökülünceye dek, tapınağın üzerine yıkıcı iğrenç şeyler yerleştirecek." link="dan:9,24-27" lang="tr" %}}
 
-Hükümdarın halkı imparator Tiberius’tur. Burada kullanılan sözcük Prens’tir ({{% bible val="bu dünyanın prensiyle mi" link="jhn:12,31" lang="tr" %}} ilgili?). O gelecek ve 70 yılında kenti ve kutsal alanı (tapınağı) yok edecektir.
+Bu son cümlenin öznesi hâlâ önceki tümceden gelen Tanrı olduğundan, {{% bible val="birçoklarıyla bir antlaşma yapan" link="jer:31,31-34" lang="tr" %}} — {{% bible val="İsa'nın yeni antlaşmasını" link="heb:8,6" lang="tr" %}} kuran — Tanrı'dır.
 
-Son bir sel gibi (Roma lejyonları) gelecek ve 135 yılında İsrail’in İsrail’den sürüldüğü son savaşa kadar savaş olacaktır. Issızlık (Tanrı tarafından) kararlaştırılmıştır.
+O son "hafta"nın ortasında, {{% bible val="artık kurbana gerek kalmadığı için" link="heb:10,1-18" lang="tr" %}} kurban ve sunuyu ortadan kaldırır.
 
-{{% bible val="Gelecek önder birçoklarıyla bir haftalık sağlam bir antlaşma yapacak. Haftanın yarısı geçince, kurbanı da sunuyu da kaldıracak. Kararlaştırılan yıkım başına gelinceye dek yok edici önder tapınağın üst bölümüne yıkıcı iğrenç şeyler yerleştirecek.›" link="dan:9,27" lang="tr" %}}
+Ardından özne, yıkım getiren iğrençlik için tekrar Tiberius'a döner ([orijinal İbranice metin aslında "o" değil, "ıssızlaştıran kişi" der](https://biblehub.com/interlinear/daniel/9-27.htm)). Metin, muhtemelen Roma lejyon kartalı sancağına işaret eden iğrençliğin "kanatlarından" söz eder. "Kararlaştırılan son onun üzerine dökülünceye dek" ifadesi daha doğru şekilde "kararlaştırılan son, ıssızlaştırana konuncaya dek" olarak çevrilebilir — yani Roma İmparatorluğu'nun kendisi çökene dek, ki bu da bizi {{% int_link val="Daniel'in 7. bölümüne geri götürür" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}.
 
-Son özne Tanrı olduğu için, {{% bible val="İsa’nın yeni antlaşması" link="heb:8,6" lang="tr" %}} olan {{% bible val="birçok kişiyle bir antlaşma yapacaktır" link="jer:31,31-34" lang="tr" %}}.
-
-“Yedi “nin ortasında, kurbanlara artık ihtiyaç kalmadığı için kurban ve {{% bible val="sunulara son verecektir" link="heb:10,1-18" lang="tr" %}}.
-
-O iğrençliği kuracak ([orijinalde o değil, “ıssızlaştıran” ifadesi kullanılmıştır](https://biblehub.com/interlinear/daniel/9-27.htm)), dolayısıyla burada konu değişiyor ve Tiberius’a geri dönüyoruz. Orijinalde Romalıların Lejyon Kartalı’na atıfta bulunan iğrençlik kanatlarından söz edilir. Hüküm onun üzerine dökülünceye kadar daha iyi bir şekilde şöyle tercüme edilebilir: “Hükmedilen son ıssızlaştırıcının üzerine konuncaya kadar” Roma İmparatorluğu yıkılıncaya kadar anlamına gelir ki bu da bizi {{% int_link val="Daniel 7. bölüme" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}} geri götürür.
-
-## Geçen hafta
+## Son hafta
 
 <a name="42f9"></a>
-Son haftaya (son yedi yıla) geldiğimizde bu biraz karmaşık bir hal aldı. Nedeni ise nihai sonucu anlatan bazı bölümler ve bir arada anlatılan iki hikaye olması.
+Son hafta — son yedi yıl — daha karmaşık bir hâl alır, çünkü metin aynı anda iki öykü anlatıyor gibi görünür; her biri işlerin nasıl sona erdiğinin kendi versiyonunu tarif eder.
 
-İlk hikâye İsrail’in Kudüs’ü, tapınağı ve topraklarıyla birlikte sona eren ve İsa tarafından Yahudilerle yeni bir başlangıç yapmak üzere kurulan yeni antlaşma tarafından ele alınan hikâyesidir.
+Birincisi, Yeruşalim'i, Tapınağı ve toprağı sona eren, ama İsa'nın Yahudilerle yeniden başlamak için kurduğu Yeni Antlaşma'ya alınan İsrail'in öyküsüdür. İkincisi ise İsa'nın kendi öyküsüdür. Tuhaf bir biçimde, iki öykü de birbirinden 40 yıl arayla ilerler. Bu nasıl mümkün olabilir? İsa, hizmetinin başında çölde 40 gün geçirmiş ve İsrail'in Mısır'dan çıktıktan sonra çölde direnemediği aynı ayartmalara direnmiştir — bu başarısızlık İsrail'e, Vaat Edilmiş Topraklara ulaşmadan önce 40 yıl çölde dolaşmaya mal olmuştu. Burada öykü tersine döner: İsa ayartmaya boyun eğmez ve yeni bir antlaşma kurarak İsrail'e ona girmesi için fazladan 40 yıl kazandırmış olur.
 
-İki hikaye de zamanın 40 yıl ötesinde. Ama bu nasıl mümkün olabilir? İsa çağrısının başlangıcında 40 gün boyunca çölde kalmış ve İsrail'in Mısır'dan ayrılırken çölde üstesinden gelemediği tüm ayartmalara direnmiştir. Bu yüzden İsrail Vaat Edilmiş Topraklara ulaşana kadar 40 yıl boyunca çölde dolaşmak zorunda kalmıştır. Burada hikâye tersine dönmektedir: İsa ayartmalara boyun eğmez ve yeni bir antlaşma yapar, böylece İsrail'in yeni antlaşmaya girmesi için fazladan 40 yılı olur.
+### İsrail'in öyküsü
 
-## İsrail’in hikayesi
+MS 66 yılında Yahudi Savaşı başlar. Ortasında — yedi buçuk yıl kadar sonra — tapınağın yıkımı gelir; tapınak bir daha inşa edilmez ve onunla birlikte kurbanlar da "yıkıcının kanatları üzerinde" son bulur. Savaşın kendisi, başlamasından yedi yıl sonra, MS 73'te sona erer ve daha sonraki huzursuzlukların ardından İsrail, bir savaş daha yaşandıktan sonra MS 135'te sürgün edilir. Sonunda İsrail; tapınağını, kentini ve toprağını kaybetmiştir.
 
-<a name="8bed"></a>
-66 yılında, yedi yılın yarısında yeniden inşa edilmeyen tapınağın yıkımına neden olan Yahudi savaşı başlar. Terk edicinin kanatlarında tapınak yıkılır ve onunla birlikte kurbanlar da artık mümkün değildir.
+### İsa'nın öyküsü
 
-Savaş 7 yıl sonra 73'te sona erer ve bundan sonra bazı huzursuzluklardan sonra İsrail 135'te başka bir savaştan sonra sınır dışı edilir. İsrail tapınağı, şehri ve toprağı kaybetmiştir.
+{{% bible val="MS 27" link="luk:3,1" lang="tr" %}} yılında — [Tiberius'un saltanatının MS 12'de başladığı varsayımıyla](https://www.tyndalebulletin.org/article/37789-reckoning-tiberius-s-reign-and-jesus-s-baptism-first-and-second-century-evidence-concerning-tiberius-s-fifteenth-year-luke-3-1.pdf) — İsa çağrılır, Kutsal Ruh'la vaftiz edilir ve {{% bible val="Yahudilerle antlaşmayı yeniler" link="mat:15,23-24" lang="tr" %}}. Yedi yılın ortasında, MS 31'de ölür ve dirilir; antlaşma artık öteki uluslara da uzanır ve ölümüyle birlikte kurban hizmetine artık gerek kalmaz.
 
-## İsa’nın hikayesi
+Yedi yıl, İsrail'i antlaşmayı terk etmekle suçlayan bir konuşmanın ardından {{% bible val="muhtemelen İstefanos'un taşlanarak öldürüldüğü" link="act:7" lang="tr" %}} MS 34 yılında sona erer. Bu, İsa'nın ölümünden sonra bir Hıristiyanın imanı uğruna öldüğü ilk olaydır; aynı zamanda, imanı Yahudi olmayanlar arasında güçlü bir şekilde yayacak olan Pavlus'tan ilk kez söz edildiği andır.
 
-<a name="f724"></a>
-{{% bible val="27" link="luk:3,1" lang="tr" %}} yılında ([Tiberius'un saltanatının 12 yılında başladığı varsayımıyla](https://www.tyndalebulletin.org/article/37789-reckoning-tiberius-s-reign-and-jesus-s-baptism-first-and-second-century-evidence-concerning-tiberius-s-fifteenth-year-luke-3-1.pdf)) İsa çağrılır ve Kutsal Ruh'la vaftiz edilir ve {{% bible val="Yahudilerle antlaşmayı yeniler" link="mat:15,23-24" lang="tr" %}}. Yedi yılın ortasında (31. yıl) ölür ve tekrar dirilir ve antlaşma artık Yahudi olmayanları da kapsar. Onun ölümüyle birlikte kurban hizmeti artık gerekli değildir.
-
-Yedi yılın sonu, İsrail'i antlaşmayı terk etmekle suçladığı konuşmasından sonra {{% bible val="muhtemelen \İstefanos'un ta\şlanarak öldürüldü\ğü" link="act:7" lang="tr" %}} 34 yılına denk gelir. İsa'nın ölümünden sonra ilk kez bir Hıristiyan inancı uğruna ölür ve Yahudi olmayanlar arasında inancı çok güçlü bir şekilde yayacak olan Pavlus'tan ilk kez söz edilir. 
-
-Kilisenin İsa'yı tam anlamıyla takip ettiği zamandır. Yeni antlaşma artık gerçekten aktiftir.
+Bu, kilisenin İsa'yı tam anlamıyla izlemeye başladığı andır — yeni antlaşma artık gerçekten yürürlüktedir.
 
 ![](/images/70years_tr.jpg)

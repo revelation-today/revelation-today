@@ -1,5 +1,5 @@
 ---
-title: "Vahiy’deki fahişe: Roma İmparatorluğu ile alay ediliyor"
+title: "Vahiy'deki fahişe: Roma İmparatorluğu ile alay ediliyor"
 weight: 5
 base: /quick/content/harlot
 story: /story/tour
@@ -12,52 +12,46 @@ sources:
       ref: aune_rev
 ---
 
-Kutsal Kitap’taki Vahiy Kitabı’nda yer alan fahişe Babil’in hikâyesi en karmaşık hikâyelerden biridir ve Roma İmparatorluğu’na dair pek çok ince ironi kullanır. Hazır mısınız?
+Vahiy'deki fahişe Babil'in hikâyesi kitaptaki en katmanlı hikâyelerden biridir ve büyük ölçüde Roma İmparatorluğu'na yönelik ince bir ironiye dayanır. Hazır mısın?
 
 ## Madeni para
 
 <a name="cbea"></a>
-Bu dönemde mevcut olan popüler bir madeni paraya göz atalım
+O dönemde yaygın olarak kullanılan bir madeni parayla başlayalım.
 
 ![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
 
-Ön sayfada İmparator Vespasianus’u (69–79 yılları arasında hüküm sürmüştür) ve “İmparator Ceasar Vespasianus Aug PM TP PP COS III” yani “İmparator Ceasar Vespasian Augustus Pontifex Maximus (en büyük rahip), Tribunicia Potestas (mahkeme gücü), Pater Patriae (anavatanın babası), üçüncü kez Konsül” yazısını görebilirsiniz ki bu imparatorun gücüne ve başarısına bir övgüdür.
+Ön yüzde, "Imp Caesar Vespasianus Aug PM TP PP COS III" — yani "İmparator Sezar Vespasianus Augustus, Pontifex Maximus (En Büyük Rahip), Tribunicia Potestas (Halk Temsilciliği Yetkisi), Pater Patriae (Anavatanın Babası), Üçüncü Kez Konsül" yazısıyla birlikte İmparator Vespasianus (hüküm sürdüğü yıllar 69–79) yer alır. Kısacası, imparatorun gücünün ve başarılarının bir özeti.
 
-Arka sayfada Roma’nın yedi tepesinde oturan askeri kıyafetli tanrıça Roma’yı görüyorsunuz. Dizinde Roma’nın askeri gücünü simgeleyen küçük bir kılıç vardır. Bunun sağında ve solunda SC (Senatus Consultum = Senato kararı ile) yazmaktadır.
+Arka yüzde, askeri kıyafetli tanrıça Roma, Roma'nın yedi tepesi üzerinde otururken görülür; dizinde, Roma'nın askeri gücünün simgesi olan küçük bir kılıç durur. Sağında ve solunda SC (Senatus Consultum, "Senato kararıyla") kısaltması yer alır.
 
-Sağ tarafta Roma’ya doğru eğilen Tiber nehrinin (Roma’yı çevreleyen) erkek temsilini görüyorsunuz. Sol alt kısımda Remus ve Romulus’u emziren küçük dişi kurdu görüyorsunuz (M.Ö. 753 yılında Troya’nın soyundan gelenler tarafından kurulan Roma’nın kuruluş hikayesini anlatıyor). Ve son olarak en altta Roma yazıyor, belki de [Roma’nın gizli ismine atıfta bulunuyor: Aşk anlamına gelen Amor](https://www.quartahospitalityinrome.com/en/Rome-and-the-secret-of-its-name/).
+Sağda, Roma'yı çevreleyen Tiber nehrini temsil eden erkek bir figür, Roma'nın önünde eğilir. Sol altta, dişi bir kurt Romulus ve Remus'u emzirir; bu, Roma'nın MÖ 753'te Truva'nın soyundan gelenler tarafından kuruluş hikâyesini hatırlatır. En altta ise Roma sözcüğü yer alır — belki de [Roma'nın gizli adı olan ve tersten okununca "aşk" anlamına gelen Amor'a](https://www.quartahospitalityinrome.com/en/Rome-and-the-secret-of-its-name/) bir gönderme.
 
-Yani madalyonun arka yüzünde Roma’nın gücü ve sonsuzluğu övülmektedir.
+Yani madalyonun arka yüzü, Roma'nın gücünün ve kalıcılığının açık bir kutlamasıdır. Peki Vahiy Kitabı bu aynı imgeyle ne yapar?
 
-Peki vahiydeki metin bu konuda ne diyor?
+- Bir kadını kurt olarak tanımlamak, sıradan Latince'de bile onu fahişe olarak adlandırmanın bir yoluydu — gizli ad Amor da bu hakareti daha da keskinleştirir.
+- Roma'nın tanrıçası burada bir fahişe olarak yeniden çizilir — hem de sıradan bir fahişe değil, tüm fahişelerin anası olarak.
+- Roma'nın tepeleri, onu desteklemek yerine, onu yok eden canavar ve krallar hâline gelir: Roma, korumak için var olduğu şehrin kurbanı olur.
+- Ve kendini düşmanlardan kılıcıyla korumak yerine, azizlerin kanıyla örtülür.
 
-- eğer bir kadın kurt olarak tanımlanıyorsa, bu onun bir fahişe olduğu anlamına gelir (normal Latince’de bile), gizli isim Amor bunu daha da kötüleştirir
-- Roma’nın tanrıçası burada bir fahişe olarak tanımlanıyor, sadece bu değil tüm fahişelerin anası olarak
-- Roma’nın tepeleri, Roma’yı (fahişe) yok edecek olan canavarı ve kralları temsil eder — Roma, koruduğu şehrin kurbanıdır
-- Roma düşmanlara karşı kılıçla korunmaz ama azizlerin kanıyla örtülür
-
-{{% int_link val="Pax Romana’yı" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} gösteren sikke, günlük hayatta bu sikkeyi gören her mümine Roma’ya güvenilemeyeceğini hatırlatan bir horgörü ve tiksinti resmine dönüştürülmüştür — çok etkili bir karşı propaganda.
+Madalyonun {{% int_link val="Pax Romana'yı" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} kutlaması, adım adım, tiksinti ve hor görü dolu bir imgeye dönüştürülür — bu parayı günlük hayatında elinde tutan her mümine, Roma'ya güvenilemeyeceğini hatırlatan bir uyarı. Bu, olağanüstü etkili bir karşı propagandadır.
 
 ## Ekphrasis
 
 <a name="585e"></a>
-{{% bible val="Bölüm 17'nin ilk yarısı" link="rev:17,1-13" lang="tr" %}} Vahiy’de durağan bir resim üzerinde yorum yapan bir meleğin olduğu tek bölümdür (bölüm 21'de bile — yeni Yeruşalim — melek sadece gösterir, açıklamaz ve eylem vardır — şehir aşağı iner, su akar, ağaçlar meyve verir). 17. bölümde çok durağan bir resim vardır. Ve odak noktası canavara dayanan fahişeyi anlamaktır.
+{{% bible val="17. bölümün ilk yarısı" link="rev:17,1-13" lang="tr" %}}, Vahiy'de bir meleğin okuyucu için durağan bir resmi yorumladığı tek bölümdür. Yeni Yeruşalim'i betimleyen 21. bölümde bile melek yalnızca gösterir, açıklama yapmaz, ve sahne hareketle doludur — şehir iner, su akar, ağaçlar meyve verir. 17. bölüm ise buna karşılık dondurulmuş bir tablodur ve tüm odak, fahişeyi üzerinde oturduğu canavar aracılığıyla anlamak üzerinedir.
 
-Ve bu metin, bir sanat nesnesinin (insanlar, festivaller, … gibi başkaları da olabilir) esas olarak retorik açıklaması olan bir ekphrasis tarzına sahiptir. Bunlardan ilki İlias’taki (Truva Savaşı) Achill’in kalkanının tasviriydi.
+Bu pasaj, bir sanat eserinin retorik bir tasviri olan ekphrasis üslubuyla yazılmıştır (bu tür insanları ya da festivalleri de betimleyebilir). Bu türün en ünlü örneği, İlyada'daki Aşil'in kalkanının tasviridir.
 
-Bu edebiyat türü Roma’da milattan önce birinci yüzyıldan beri oldukça popülerdi. Ana unsur {{% bible val="şaşkın hikaye anlatıcısıdır" link="rev:17,7" lang="tr" %}} çünkü bunun amacı ya resmin daha derin bir anlayışına sahip olmak ya da muhtemelen en popüler ekphrasis olan “Cebes’in Tabulası” gibi bazen çözülmesi zor olan resmin daha derin / gizli anlamını görmekti.
+Ekphrasis, Roma'da MÖ birinci yüzyıldan itibaren popülerdi ve bu türün merkezi aracı {{% bible val="şaşkın bir anlatıcıdır" link="rev:17,7" lang="tr" %}} — çünkü amaç ya okuyucunun resmi daha derinden anlamasını sağlamak ya da muhtemelen tüm zamanların en ünlü ekphrasis'i olan "Cebes'in Tabulası"nda olduğu gibi, çözülmesi gerçekten zor olan gizli bir anlamı ortaya çıkarmaktı.
 
-Bu tabula Vahiy 17 için de bir temel olabilir. Bir tapınaktaki adak levhasının üzerinde anlamadıkları bir resim gören bir grup insanı anlatır. Yaşlı bir adam gelir ve [onlara bunu açıklar (bkz. bölüm 8)](https://archive.org/details/cebestabletwithi00cebeiala/page/n4/mode/1up?view=theater):
+O tabula, Vahiy 17'nin arkasındaki bir kaynak olabilir. Bir tapınaktaki adak levhası üzerindeki bir resme bakan ve onu anlamlandıramayan bir kalabalığı anlatır; ta ki yaşlı bir adam gelip [onu onlara açıklayana kadar (bkz. 8. bölüm)](https://archive.org/details/cebestabletwithi00cebeiala/page/n4/mode/1up?view=theater):
 
-- yaşam duvarlarla ayrılmış üç halka ile temsil edilir
-- Amaç, ancak dikkat dağıtıcı unsurları (servet, düşkünlük, …) geçtikten ve erdemleri (ölçülülük, metanet, …) takip ettikten sonra ulaşılabilecek bir tür cennet bahçesi olan orta halkaya gelmektir.
-- İçeri girmek isteyen büyük bir kalabalık var.
-- ilk kapıda herkese bir kadeh sunan bir kadın, adı: aldatma, içeceği: hata ve bilgi eksikliği
+- Yaşam, duvarlarla ayrılmış üç halka olarak resmedilir.
+- Amaç, servet ve düşkünlük gibi dikkat dağıtıcı şeyleri aşarak ve ölçülülük ile metanet gibi erdemleri uygulayarak ancak ulaşılabilecek bir tür Aden bahçesi olan orta halkaya varmaktır.
+- Büyük bir kalabalık içeri girmek ister.
+- İlk kapıda, herkese bir kadeh sunan bir kadın durur. Adı Aldatma'dır; içecek ise Hata ve Bilgisizlik'tir.
 
-Vahiy 17 ile bir başka paralellik de, hata ve bilgi eksikliğinin gelin ve damadı taklit ettiği [Salomon 38/9–14 Kasidesi](https://en.wikipedia.org/wiki/Odes_of_Solomon) olabilir. Bu düğündeki şarap insanların anlayışlarını kusmalarına neden olur.
+Bir başka olası paralellik de, Hata ve Bilgisizlik'in bir düğünde gelin ve damat kılığına girdiği ve oradaki şarabın konuklara kendi anlayışlarını kusturduğu [Süleyman'ın Kasideleri](https://en.wikipedia.org/wiki/Odes_of_Solomon) 38:9–14'tür.
 
-Yani ekphrasis’in amacı şunu göstermektir
-
-- Bu aldatmacayı anlamak Tanrı’nın krallığına doğru atılacak ilk adımdır.
-- Roma tarafından kandırılırsanız sizin için çok az umut vardır
-- bu aldatmaca o kadar büyük ki, gözden kaçırmak zor
+Her iki paralellik de Vahiy 17'deki ekphrasis'in aynı amacına işaret eder: bu aldatmacayı anlamak, Tanrı'nın krallığına doğru atılan ilk adımdır. Eğer Roma seni aldattıysa, geriye pek az umut kalır — yine de bu aldatmaca, gözden kaçırılması neredeyse imkânsız olacak kadar arsızdır.

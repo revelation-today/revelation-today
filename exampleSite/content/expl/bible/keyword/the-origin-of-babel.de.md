@@ -8,36 +8,35 @@ next: /expl/bible/daniel/the-book-of-daniel
 docType: expl
 ---
 
-Die Geschichte des Turmbaus zu Babel, des Propheten Daniel und der Offenbarung sind miteinander verknüpft. Und hier siehst du, warum?
+Die Geschichte vom Turmbau zu Babel, die Geschichte des Propheten Daniel und das Buch der Offenbarung erweisen sich als miteinander verknüpft. Hier siehst du, wie.
 
 ## Der Turmbau zu Babel
 
 <a name="491e"></a>
-Lange Zeit nach der Sintflut beschließen die Menschen, einen Turm zu bauen, der bis zum Himmel reicht.
+Nach einer langen Genealogie im Anschluss an die Sintflut beschließen die Menschen, einen großen Turm zu bauen, der bis zum Himmel reichen soll — aus zwei genannten Gründen:
 
-- um sich einen Namen zu machen und
-- um einen Punkt zu haben, von dem aus sie nicht zerstreut werden.
+- um sich einen Namen zu machen
+- um einen zentralen Punkt zu haben, damit sie nicht zerstreut werden
 
-Und das war ein gewaltiges Bauvorhaben. Und jetzt kommt der lustige Teil. Sie wollten bis in den Himmel bauen, und Gott kommt herab, um es zu sehen! Das ist die reinste Ironie des Ganzen, dieser Turm ist sicher keine Bedrohung für Gott. Aber warum war er beunruhigt? Wahrscheinlich, weil er dachte, sie könnten alles ohne ihn machen.
+Es wird ein gewaltiges Bauprojekt — und dann beginnt der eigentlich amüsante Teil. Kaum machen sie sich daran, ihren Turm bis zum Himmel zu bauen, kommt Gott herab, um sich das anzusehen, in einer Geste, die sowohl ihre Anstrengung als auch die dahinterstehende Bedrohung verspottet. Was bedeutet es, dass Gott besorgt ist, nichts werde ihnen mehr unmöglich sein? Wahrscheinlich, dass sie sich eingeredet haben, alles ohne ihn tun zu können.
 
-Die Menschen haben mit dem Bau nicht das erreicht, was sie sich erhofft hatten.
+Und tatsächlich erreichen sie keines ihrer beiden Ziele — es geschieht genau das Gegenteil.
 
-- Sie wollten sich einen Namen machen. Das hat offensichtlich nicht geklappt, weil Gott aus Abraham einen Namen gemacht hat.
-- Sie wollten nicht zerstreut werden, aber genau das war die Folge, als Gott ihre Sprachen zerteilte, was erst mit Pfingsten wieder aufgehoben wurde.
+- Sie wollten sich einen Namen machen. Das hat nie funktioniert, aber Gott machte stattdessen aus Abraham einen Namen.
+- Sie wollten nicht zerstreut werden, aber genau die Zerstreuung ist es, was geschieht, als Gott ihre Sprachen teilt. Das wurde erst später, an Pfingsten, wieder rückgängig gemacht.
 
 ## Daniel in Babel
 
 <a name="644d"></a>
-Als Israel ins babylonische Exil geht, wird erwähnt, dass Babel im Land Sinear liegt, das auch das Land ist, in dem der Turmbau zu Babel geschah.
+Als Israel ins babylonische Exil zog, vermerkt der Text, dass dieses Babel im Land Schinar lag — genau dort, wo einst der ursprüngliche Turm gebaut worden war. Dieses Detail verknüpft die beiden Geschichten miteinander.
 
-Aber auch der Hochmut ist ein gemeinsames Thema und dass ihre kurze Existenz von Gott beendet wurde. Das Königreich Babel bestand nur 100 Jahre, bevor es durch den von Gott berufenen Kyrus zerstört wurde.
+Stolz ist ein gemeinsames Motiv zwischen ihnen, ebenso die Tatsache, dass Gott die Existenz beider Reiche verkürzte. Daniels Babylon bestand weniger als 100 Jahre, bevor es von Kyrus besiegt wurde, den Gott genau zu diesem Zweck berufen hatte.
 
-## Babel in der Offenbarung
+## Babel im Buch der Offenbarung
 
 <a name="d54a"></a>
-In der Offenbarung hat Babel starke Verbindungen zum Buch Babel.
+Im Buch der Offenbarung ist Babylon ebenso eng mit dem Babylon Daniels verbunden und teilt dieselben Schlüsselmerkmale:
 
-- Das Thema Stolz
-- Der schnelle Fall Babels
-- Gottes Volk lebt dort im Exil und muss ausziehen
-
+- das Motiv des Stolzes
+- einen raschen Fall
+- Gottes Volk, das im Exil lebt

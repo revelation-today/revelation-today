@@ -7,25 +7,19 @@ docType: expl
 appl: /appl/background/israel
 ---
 
-When Jesus came to earth, He “surprised” people with His message and His behavior, which was truly shocking to the Jews. Why and what does this have to do with the covenant?
+When Jesus came to earth, His message and behavior "surprised" people — and for the Jews of His day, that surprise was genuinely shocking. Why, and what does any of this have to do with the covenant?
 
 ## The expectation of the Day of the Lord
 
 <a name="d8b5"></a>
-At the time of Jesus, the Jews were awaiting the Day of the Lord, and there were a variety of interpretations of how this day might become a reality:
-
-- (partial) withdrawal from society and increased observance of the law (Qumran),
-- Increased observance of the law in society (Pharisees),
-- Israel is rejected and God chooses the Romans (Jewish historian Josephus),
-- Increased observance of the law and submission to and cooperation with the Roman leadership (Sadducees),
-- Increased observance of the law and active resistance against the Romans (Zelotes)
+At the time of Jesus, the Jews were awaiting the Day of the Lord, but they disagreed sharply on how it would actually arrive. Qumran expected a (partial) withdrawal from society paired with increased observance of the law. The Pharisees pushed for increased observance of the law within society as it stood. The Jewish historian Josephus concluded that Israel had been rejected and that God had instead chosen the Romans. The Sadducees favored increased observance of the law alongside submission to and cooperation with Roman leadership. And the Zealots wanted increased observance of the law combined with active resistance against Rome.
 
 ## The challenge
 
 <a name="298a"></a>
-When the Bible talks about Jesus in the New Testament, it is very challenging. Let us look at the [beginning of the gospel of Mark](https://biblehub.com/interlinear/mark/1-1.htm). The gospel in Greek is evangeliou, which was usually used to announce the birth of a new emperor. This was already a political challenge to the emperor is Rome: The real king is Jesus.
+Reading how the New Testament actually presents Jesus is genuinely challenging against that backdrop. Take the [beginning of the gospel of Mark](https://biblehub.com/interlinear/mark/1-1.htm): the Greek word for "gospel" there is *evangeliou*, a term normally used to announce the birth of a new emperor. That word choice alone was already a political challenge aimed at the emperor in Rome — the real king, Mark is saying, is Jesus.
 
-But this goes on. Immediately after this, Mark refers to Isaiah, where the Day of the Lord is announced. Jesus did many things related to the history of Israel and its promises:
+And Mark doesn't stop there. Immediately afterward he quotes Isaiah, at the exact point where the Day of the Lord is announced. From there, Jesus does a whole series of things tied directly to Israel's history and its promises:
 
 - The {{% bible val="calling of the 12 disciples" link="mrk:3,13-19" lang="en" %}} to a {{% bible val="mountain" link="luk:6,12-13" lang="en" %}} recalls the new creation of Israel (from 12 tribes) where the covenant was made on Mount Sinai.
 - {{% bible val="The 40 days of temptation of Jesus in the desert" link="luk:4,1-13" lang="en" %}} are reminiscent of the temptations that Israel faced in the desert during the Exodus and failed (provision of water and bread, miracles, idolatry) and therefore had to wander in the desert for 40 years (after Israel believed the spies who wandered for 40 days) — interestingly 40 years after Jesus completed his mission in 30 AD the temple was destroyed.
@@ -38,20 +32,13 @@ But this goes on. Immediately after this, Mark refers to Isaiah, where the Day o
 ## The teachings of Jesus
 
 <a name="b343"></a>
-The teachings of Jesus were very confrontational toward Israel, for example, he picks up the {{% bible val="parable of the vineyard that bears no fruit" link="isa:5,1-7" lang="en" %}} from Isaiah which is a pruning of Israel. But Jesus {{% bible val="reuses this parable with the judgment to completely destroy Israel if they reject him" link="mat:21,33-45" lang="en" %}}.
+Jesus's teaching was also deeply confrontational toward Israel. He picks up Isaiah's {{% bible val="parable of the vineyard that bears no fruit" link="isa:5,1-7" lang="en" %}}, itself a picture of Israel being pruned, but Jesus {{% bible val="reuses this parable with the judgment to completely destroy Israel if they reject him" link="mat:21,33-45" lang="en" %}} — raising the stakes far beyond pruning.
 
-The Day of the Lord will not be the restoration of Jerusalem and the temple as in Ezekiel 40 to 48, but {{% bible val="the destruction of Jerusalem and the temple" link="mrk:13" lang="en" %}}.
+In the same vein, the Day of the Lord Jesus announces will not bring the restoration of Jerusalem and the temple pictured in Ezekiel 40–48, but rather {{% bible val="the destruction of Jerusalem and the temple" link="mrk:13" lang="en" %}}.
 
-The coming of the Kingdom (Israel will reign with the Day of the Lord) will come in a hidden way
+Yet the coming of the Kingdom — Israel reigning as the Day of the Lord arrives — comes in a deliberately hidden way, and Jesus returns to this theme repeatedly: in the {{% bible val="parable of the sower" link="mrk:4,1-20" lang="en" %}}; in the {{% bible val="weeds in the field" link="mat:13,24-30" lang="en" %}} and the {{% bible val="parable of the fish net" link="mat:13,47-50" lang="en" %}}; in the {{% bible val="growth of the seed" link="mrk:4,26-29" lang="en" %}}; and in the {{% bible val="parable of the mustard seed" link="mrk:4,30-32" lang="en" %}}, where a seed roughly a millimeter across grows into a tree two to three meters tall. Since a {{% bible val="tree is a picture for God's kingdom" link="ezk:17" lang="en" %}} elsewhere in Scripture, the parable is saying that the smallest thing becomes the biggest — a reversal that {{% bible val="should be known to Israel" link="deu:7,7" lang="en" %}} already, from its own election as the smallest of nations. The same hiddenness appears in the image of {{% bible val="yeast, which changes the whole dough" link="mat:13,33" lang="en" %}} — notable because yeast was never used in the Old Testament as a picture for God's kingdom — where a small, hidden amount unstoppably becomes a large one, and in {{% bible val="the hidden treasure and the pearl" link="mat:13,44-46" lang="en" %}}, where the treasure must first be sought, and once found, demands that everything else be given up for it.
 
-- {{% bible val="parable of the sower" link="mrk:4,1-20" lang="en" %}},
-- {{% bible val="weeds in the field" link="mat:13,24-30" lang="en" %}} or the {{% bible val="parable of the fish net" link="mat:13,47-50" lang="en" %}},
-- {{% bible val="growth of the seed" link="mrk:4,26-29" lang="en" %}},
-- {{% bible val="parable of the mustard seed" link="mrk:4,30-32" lang="en" %}} (sees is 1mm, but tree two to three meters), {{% bible val="tree is a picture for God’s kingdom" link="ezk:17" lang="en" %}}, so the smallest becomes the biggest ({{% bible val="should be known to Israel" link="deu:7,7" lang="en" %}}),
-- {{% bible val="yeast, which changes the whole dough" link="mat:13,33" lang="en" %}} (yeast was never used in the Old Testament as picture for the Kingdom of God) — a small amount turns unstoppably into a large amount in the hidden,
-- {{% bible val="the hidden treasure and the pearl" link="mat:13,44-46" lang="en" %}} — the treasure must be sought, and when it is found, everything else must be given up.
-
-The description of the beatitudes is also a challenge to Israel — because it challenges Israel to be true Israel, for all the promises are given to those who are faithful to Jesus:
+The beatitudes carry the same confrontational edge. They challenge Israel to become true Israel, since every promise in them belongs only to those faithful to Jesus:
 
 - {{% bible val="The poor in spirit will receive the kingdom" link="mat:5,3" lang="en" %}}.
 - {{% bible val="Those who mourn shall be comforted (with national rebirth)" link="mat:5,4" lang="en" %}}.

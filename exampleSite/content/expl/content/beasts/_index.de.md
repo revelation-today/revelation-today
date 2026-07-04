@@ -4,6 +4,6 @@ title: "Die unheilige Dreifaltigkeit (Kap.13)"
 weight: 12
 ---
 
-Wenn man die Bestie sieht, ist man vielleicht überwältigt von der Gewalt. Aber ein zweiter Blick zeigt, dass dies viel mit Täuschung zu tun hat.
+Wenn man das Tier betrachtet, ist man vielleicht überwältigt von der schieren Gewalt. Doch ein zweiter Blick zeigt: Was wirklich dahintersteckt, ist Täuschung.
 
-Der Drache und die beiden Tiere bilden eine Dreifaltigkeit, wobei der Drache Gott den Vater, das erste Tier Jesus und das zweite Tier den Heiligen Geist imitiert.
+Der Drache und die beiden Tiere bilden eine gefälschte Dreifaltigkeit: Der Drache imitiert Gott den Vater, das erste Tier imitiert Jesus, und das zweite Tier imitiert den Heiligen Geist.

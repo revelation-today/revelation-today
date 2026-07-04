@@ -17,54 +17,51 @@ sources:
       ref: fee_rev
 ---
 
-Harmagedon: ein Weltuntergangsszenario? Nein, denn es ist kein Ort. Es ist ein Konzept. Du willst wissen warum? Dann lies weiter.
+Armageddon: eine Katastrophe, die die Welt zerstören wird? Nein — denn es ist überhaupt kein Ort. Es ist ein Konzept. Willst du wissen, warum? Dann lies weiter.
 
 ## Die Übersetzung
 
 <a name="8763"></a>
-Der Begriff Harmagedon wird {{% bible val="in der Bibel nur ein einziges Mal erwähnt " link="rev:16,16" lang="de" %}}und zwar mit dem Hinweis, dass es sich um einen hebräischer Begriff handelt. Der direkte Text gibt keinen weiteren Aufschluss. Schauen wir uns also den hebräischen Begriff an.
+Der Begriff Armageddon wird nur ein einziges Mal {{% bible val="in der Bibel erwähnt," link="rev:16,16" lang="de" %}} mit dem Hinweis, dass es sich um einen hebräischen Begriff handelt — der interlineare Text selbst gibt jedoch keinen weiteren Aufschluss darüber, was er bedeutet. Gehen wir die Sache also Schritt für Schritt an.
 
-“Ar” bedeutet im Hebräischen “Berg”. Aber welcher? Hier gibt es drei Möglichkeiten, die alle sinnvoll erscheinen:
+„Ar“ bedeutet im Hebräischen „Berg“, aber welcher Berg? Es gibt drei Möglichkeiten, und alle drei erweisen sich, wie ich meine, als relevant.
 
-- Es kann “Berg der Versammlung” bedeuten nach einer Passage bei {{% bible val="Jesaja" link="isa:14,13" lang="de" %}}, wo der Fall Babels beschrieben wird. Aber der vorangehende Verse “{{% bible val="vom Himmel gefallen, du Morgenstern" link="isa:14,12" lang="de" %}}” zeigt, dass es sich um die geistliche Macht hinter Babylon handelt und Satan gemeint ist. Das ganze Kapitel ist eine {{% bible val="Verspottung" link="isa:14,3-4" lang="de" %}} des scheinbar Unbesiegbaren, der besiegt wird.
-- Es kann aber auch “Berg von Megiddo” bedeuten, was einer weiteren Erklärung bedarf, da es mehrere Ereignisse mit Megiddo und dem Berg gab.
-- Und schließlich kann es auch “Berg der Schlachtung” bedeuten, was wir noch untersuchen werden.
+Es kann „Berg der Versammlung“ bedeuten, hergeleitet aus {{% bible val="einer Passage bei Jesaja" link="isa:14,13" lang="de" %}}, die den Fall Babylons beschreibt. Der Vers unmittelbar davor — Babylon, dargestellt als „vom Himmel gefallen, du Morgenstern, Sohn der Morgenröte“ — beschreibt tatsächlich eher die Mächte hinter Babylon als Babylon selbst und dürfte sich auf Satan beziehen. Das ganze Kapitel ist eine {{% bible val="Verspottung" link="isa:14,3-4" lang="de" %}} des scheinbar Unbesiegbaren, der vollständig vernichtet wird.
+
+Es kann auch „Berg von Megiddo“ bedeuten. Diese Deutung braucht mehr Raum zur Entfaltung, denn bei Megiddo und seinem Berg ereigneten sich sehr viele Geschehnisse.
+
+Und schließlich kann es „Berg der Schlachtung“ bedeuten, was wir uns ebenfalls ansehen werden.
 
 ## Debora und Jael
 
 <a name="adae"></a>
-Die erste Erwähnung eines Kampfes bei Megiddo ist mit den Richtern {{% bible val="Debora und Barak" link="jdg:4" lang="de" %}} verbunden. Vielleicht hast du von dieser Geschichte gehört, aber erinnerst du dich an Jael? Fangen wir also am Anfang an.
+Die erste Erwähnung einer Schlacht bei Megiddo betrifft die Richter {{% bible val="Debora und Barak" link="jdg:4" lang="de" %}}. Vielleicht kennst du die Geschichte, aber erinnerst du dich an Jael und ihre Rolle darin? Fangen wir von vorne an.
 
-Israel war, wie so oft im Buch der Richter, {{% bible val="unter fremder Herrschaft, die das Volk unterdrückte" link="jdg:4,1-3" lang="de" %}}. und da war die {{% bible val="Richterin Deborah, die einen Richter namens Barak aufforderte, Gottes Verheißung zu folgen und Israel zu befreien, wie Gott es versprochen hatte" link="jdg:4,3-7" lang="de" %}}. Aber Barak ist unsicher und will nur in den Kampf ziehen, wenn Deborah mitzieht, was sie auch tut, aber nur um zu sagen, {{% bible val="dass er nicht den Heerführer besiegen wird, sondern dass dies durch eine Frau geschehen wird" link="jdg:4,8-9" lang="de" %}}. Und diese Frau ist nicht Debora, und hier kommt Jael ins Spiel.
+Israel stand, wie so oft im Buch der Richter, {{% bible val="unter einem fremden Herrscher, der es unterdrückte" link="jdg:4,1-3" lang="de" %}}. Debora {{% bible val="ruft einen Richter namens Barak dazu auf, Gottes Verheißung zu folgen und Israel zu befreien, da Gott versprochen hatte, sie zu erretten" link="jdg:4,3-7" lang="de" %}}, doch Barak ist unsicher und will nur gehen, wenn Debora ihn begleitet. Sie stimmt zu — kündigt aber zugleich an, {{% bible val="dass nicht er den entscheidenden Schlag gegen ihren Heerführer Sisera führen wird; das wird stattdessen eine Frau tun" link="jdg:4,8-9" lang="de" %}}. Falls du jetzt denkst, diese Frau sei Debora, liegst du falsch. Hier kommt Jael ins Spiel.
 
-Als Barak die Armee besiegt, flieht der Heerführer Sisera und versucht, in Hebers Haus Zuflucht zu finden (denn diese Familie war mit Siseras König befreundet). {{% bible val="Aber Hebers Frau Jael nutzt die Gelegenheit und tötet Sisera im Schlaf." link="jdg:4,15-21" lang="de" %}}
+Nachdem Barak die Armee besiegt hat, flieht Sisera und sucht Zuflucht im Haus Hebers, da Hebers Familie mit Siseras König auf gutem Fuß stand. Das rettet ihn nicht: {{% bible val="Hebers Frau Jael nutzt die Gelegenheit und tötet Sisera, während er schläft" link="jdg:4,15-21" lang="de" %}}.
 
 ## Elia
 
 <a name="5f7a"></a>
-Der Berg bei Megiddo ist der Karmel. {{% bible val="Und dort spielt sich eine der bekanntesten Geschichten des Alten Testaments ab, in der ein Prophet Gottes Hunderten von Baalspriestern gegenübersteht." link="1ki:18" lang="de" %}}
+Der Berg bei Megiddo heißt Karmel, und {{% bible val="hier spielt sich eine der bekanntesten Geschichten des Alten Testaments ab: ein Prophet Gottes steht mehreren Hundert Baalspropheten gegenüber" link="1ki:18" lang="de" %}}.
 
-Der Hintergrund: Der König Ahab von Israel hat durch seine Frau Isebel (aus Sidon im Norden Israels) den Kult des Baal (ein Fruchtbarkeitsgott) nach Israel gebracht. Baals Hautaufgabe ist es, Regen zu bringen (sonst gibt es keine Ernte). Die {{% bible val="neue Königin verfolgt und tötet alle Propheten, so dass scheinbar nur ein Prophet übrig bleibt: Elija" link="1ki:19,10" lang="de" %}}. Dank der Prophezeiung eines einfachen Mannes wie ihm kommt eine dreieinhalbjährige Dürre über das Land, und in einem großen Finale auf dem Karmel stellt er sich den Propheten und besiegt sie.
+Zunächst etwas Hintergrund. König Ahab von Israel führte zusammen mit seiner Frau Isebel aus Sidon (einem Königreich nördlich von Israel) den Kult des Baal ein, des Fruchtbarkeitsgottes, zu dessen Hauptaufgaben es gehörte, Regen zu bringen — ohne den es keine Ernte gäbe. Königin Isebel {{% bible val="jagt die Propheten Gottes, bis scheinbar nur noch einer übrig ist: Elia" link="1ki:19,10" lang="de" %}}. Nach Elias Prophezeiung bleibt der Regen dreieinhalb Jahre lang aus, und der ganze Konflikt spitzt sich auf dem Berg Karmel zu, wo er mehreren Hundert Baalspropheten gegenübertritt und sie besiegt.
 
-{{% bible val="Doch die Geschichte ist noch nicht zu Ende. Die Königin ist außer sich und will Elija töten. Elia gibt auf und will sterben, aber Gott beruft ihn, Elisa und Jehu zu salben." link="1ki:19" lang="de" %}}
+Die Geschichte endet dort jedoch nicht. {{% bible val="Die Königin ist wütend und will ihn tot sehen; Elia wiederum gibt auf und will sterben, doch Gott ruft ihn zurück, um Elisa und Jehu zu salben." link="1ki:19" lang="de" %}}
 
-Als der Heerführer {{% bible val="Jehu gesalbt wird" link="2ki:9" lang="de" %}}, zerstört er das ganze Netzwerk Isebels, das bis ins Südreich reicht. Und er verfolgte den König von Juda und tötete ihn. In Megiddo!
+Als Jehu, {{% bible val="der Heerführer, schließlich gesalbt wird" link="2ki:9" lang="de" %}}, macht er sich daran, Isebels gesamtes Netzwerk bis nach Juda auszulöschen. Dabei kreuzt Jehu den Weg des Königs von Juda und erschießt ihn — und der König von Juda stirbt ausgerechnet in Megiddo.
 
 ## Josia
 
 <a name="2a48"></a>
-{{% int_link val="Dazu gibt es einen eigenen Eintrag" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}. Ein König lässt sein Leben, als er den Pharao angreift, der auf dem Weg ist, Assur zu helfen, und rettet so die Zukunft Israels. Einige Randbemerkungen:
+{{% int_link val="Dazu gibt es einen eigenen Beitrag" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}, aber kurz gesagt: Ein König gibt sein Leben im Kampf gegen den König von Ägypten, der auf dem Weg war, den Assyrern gegen das aufstrebende babylonische Reich zu helfen. Ein paar Anmerkungen sind es wert, hinzugefügt zu werden.
 
-- Assur war zu dieser Zeit das Volk, das Israel ständig unterdrückte und nur deshalb aufhielt, weil es gerade von Babel bedrängt wurde.
-- Ägypten war der Ort, aus dem Israel aus der Sklaverei kam, aber seitdem war es für Israel immer jemand, {{% bible val="auf den Israel alle Hoffnungen setzte, der Israel aber immer wieder enttäuschte" link="2ki:18,21" lang="de" %}}. Es scheint, dass Josia der einzige König Israels war, der jemals gegen Ägypten gekämpft hat.
+Assyrien hatte Israel bis zu diesem Zeitpunkt ständig unterdrückt und hörte nur deshalb damit auf, weil Babylon ihm stattdessen Schwierigkeiten bereitete. Ägypten wiederum nahm einen merkwürdigen Platz in Israels Geschichte ein — es war der Ort, aus dem Israel aus der Sklaverei herausgekommen war, diente aber dennoch immer wieder als {{% bible val="Rückfallplan für Israel, der meist in Enttäuschung endete" link="2ki:18,21" lang="de" %}}. Es scheint, dass Josia der erste König Israels überhaupt war, der direkt gegen Ägypten kämpfte.
 
 ## Schlussfolgerung
 
 <a name="6c2d"></a>
-Harmagedon steht für das Paradox, das wir im gesamten Neuen Testament, vor allem aber in der Offenbarung finden: Der Unschlagbare wird vernichtet und der Schwache überwindet.
+Armageddon steht für ein Paradox, das sich durch das gesamte Neue Testament zieht, besonders aber durch das Buch der Offenbarung: Der Unbesiegbare wird vernichtet, und der Schwache siegt. Die obigen Geschichten zeichnen dieses Muster immer wieder nach.
 
-- Das Totenreich verspottet den, der die ganze Welt erobert hat.
-- Eine Hausfrau besiegt einen Feldherrn.
-- Ein einziger Prophet führt Israel zu Gott zurück im Angesicht hunderter Götzenpropheten der Königin.
-- Ein einziger Feldherr stürzt zwei Könige ohne jede Vorbereitung.
-- Ein König eines kleinen Reiches kämpft gegen Weltmächte, wird vernichtet und sichert so die Zukunft seines Volkes.
+Der Ort des Todes verspottet den, der alles besiegt hat. Eine Hausfrau besiegt einen Heerführer. Ein einzelner Prophet bringt ganz Israel zu Gott zurück und besiegt Hunderte Propheten der bösen Königin. Ein einzelner Heerführer stürzt seinen eigenen König und den benachbarten König, ohne jede wirkliche Vorbereitung. Ein König eines winzigen Reiches kämpft gegen eine Weltmacht, wird besiegt und getötet — und sichert durch seinen Tod die Zukunft seines Volkes.

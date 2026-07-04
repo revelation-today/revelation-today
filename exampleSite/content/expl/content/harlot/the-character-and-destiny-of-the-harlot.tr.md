@@ -14,46 +14,48 @@ sources:
       ref: bauckham_climax
 ---
 
-Fahişenin kim olduğunu anladıktan sonra, Kutsal Kitap’ın yanıtladığı hala açık sorular vardır. Onun davranışı ve “taktiği” nedir? Biz nasıl davranmalıyız? Onun düşmesine ne sebep olur?
+Fahişenin kim olduğunu öğrendikten sonra geriye birkaç açık soru kalıyor ve Kutsal Kitap onları da yanıtlıyor: Onun davranışı, "taktiği" nedir? Buna nasıl karşılık vermeliyiz? Ve onun düşüşüne asıl neden olan nedir?
 
-## Daha önce okumak için faydalı
+## Önce okumakta fayda var
 
 <a name="093a"></a>
-- [Fahişe kimdir? Bölüm 1](/content/harlot/expl/who-is-the-harlot-babylon-part-1)
-- [Fahişe kimdir? Bölüm 2](/content/harlot/expl/who-is-the-harlot-babylon-part-2)
+- {{% int_link val="Fahişe kimdir? Bölüm 1" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}
+- {{% int_link val="Fahişe kimdir? Bölüm 2" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}
 
 ## Fahişenin karakteri
 
 <a name="4c52"></a>
-Fahişeye giriş bölümünde, fahişenin ekonomik sistemi yansıttığını gördük. Putperestlik ve adaletsizlikle bağlantının görüldüğü İzebel’le paralellik kuruyoruz.
+Fahişe üzerine önceki makaleler, onun ekonomik sistemi yansıttığını gösterdi ve putperestlik ile adaletsizlik arasındaki aynı bağlantının ortaya çıktığı İzebel'le paralellik kurdu.
 
-Fahişe, {{% bible val="13. bölümdeki askeri ve siyasi gücü yansıtan ikinci canavarın " link="rev:13" lang="tr" %}}üzerinde oturur. Canavarın kaba kuvvetinin acımasızlığını zenginliğin çekiciliğiyle örter. Yöneticileri sarhoş ederek kendi istediği gibi davranmalarını sağlar. Bölüm 13'teki ikinci canavar gibi algıyla çalışır, para üzerinde kontrolü vardır ve bu araçları kullanarak hükmedebilir ve yok edebilir.
+Fahişe, askeri ve siyasi gücü temsil eden {{% bible val="13. bölümün ikinci canavarının" link="rev:13" lang="tr" %}} üzerinde oturur. Canavarın kaba kuvvetinin acımasızlığını zenginliğin çekiciliğiyle örter ve yöneticileri, kendi isteklerini yerine getirsinler diye sarhoş eder. Tıpkı ikinci canavar gibi algı üzerinden çalışır — parayı kontrol eder ve bununla hem inşa edebilir hem de yıkabilir.
 
-{{% bible val="Mallar listesine baktığımızda" link="rev:18,12-13" lang="tr" %}}, insanların (ruhların) diğer mallar gibi listelendiğini görürüz. Düşünme: Şirketlerin çalışanlarına, onların varlıkları oldukları için yatırım yapmaları ne anlama geliyor?
+Onun mal listesi ve ardından yakılan ağıt, ikisi de Sur üzerine söylenen eski şarkıya dayanır: {{% bible val="Sur kralı, Yeni Yeruşalim'dekiyle" link="ezk:28,13" lang="tr" %}} {{% bible val="aynı türden taşlarla" link="rev:21,19-20" lang="tr" %}} tanımlanır ve {{% bible val="Sur'daki taşlar orada doğrulukla ilişkilendirilir" link="ezk:28,12-18" lang="tr" %}}.
 
-{{% bible val="Kendisini dokunulmaz" link="rev:18,7" lang="tr" %}} ve yıkılmaz olarak görüyor (bankaların hükümet tarafından kurtarılmasını hatırlayabilirsiniz).
+{{% bible val="Onun mal listesine" link="rev:18,12-13" lang="tr" %}} bakınca, insanların — canların — diğer her emtiayla yan yana listelendiğini görürsün. Bunun üzerinde durmakta fayda var: bir şirketin çalışanlarını aynı anlamda birer varlık olarak görmesi ne anlama gelir?
 
-Peki ekonomik büyüme ve (ilgili bilimsel araştırmalar) kötü müdür? Hayır, ticarete ve mal alışverişine ve bunun için de paraya ihtiyacımız var, ancak bunun arkasındaki ruh nedir? Ve biz buna nasıl karşılık veriyoruz?
+{{% bible val="Kendini dokunulmaz görür" link="rev:18,7" lang="tr" %}} ve yıkımın ötesinde — bu da akla bankaların devlet tarafından kurtarılmasını getirebilir.
 
-{{% bible val="Ekonomi çöktüğünde ve yaşam standartlarımız düştüğünde diğerleriyle birlikte yas tutuyor muyuz" link="rev:18,10" lang="tr" %}}? {{% bible val="İşimizi başka ülkelere kaptırdığımızda" link="rev:18,17" lang="tr" %}}? İşimizi güvence altına almak için askeri müdahaleleri desteklediğimizde? {{% bible val="Eğer öyleyse, Babil’deyiz ve buradan ayrılmamız gerekiyor" link="rev:18,4" lang="tr" %}}.
+Bunların hiçbiri ekonomik büyümeyi ya da onun arkasındaki araştırmayı doğası gereği kötü yapmaz. Ticaret ve mal ile paranın el değiştirmesi gereklidir. Asıl soru, bunun ardında hangi ruhun yattığı ve buna nasıl karşılık verdiğimizdir.
+
+{{% bible val="Ekonomi çöktüğünde" link="rev:18,10" lang="tr" %}} ve yaşam standardımız düştüğünde herkesle birlikte yas mı tutuyoruz? {{% bible val="İşler başka ülkelere taşındığında" link="rev:18,17" lang="tr" %}}? İş çıkarlarımızı korumak için askeri müdahaleleri destekliyor muyuz? Cevap evetse, Babil'in içinde duruyoruz demektir — {{% bible val="ve oradan çıkmamız gerekir" link="rev:18,4" lang="tr" %}}.
 
 ## Onun düşüşünün gizemi
 
 <a name="ca14"></a>
-Babil’in sonu çok ilgi çekicidir. {{% bible val="Canavarın üzerinde oturuyor" link="rev:17,3" lang="tr" %}} ve {{% bible val="kralları kontrol ediyo" link="rev:17,2" lang="tr" %}}r, {{% bible val="ancak bunlar onu yok edecek" link="rev:17,16" lang="tr" %}} ve {{% bible val="sonra bunun için ağlayacaklar" link="rev:18,9" lang="tr" %}}!?!
+Babil'in sonu gerçekten ilgi çekicidir. {{% bible val="Canavarın üzerinde oturur" link="rev:17,3" lang="tr" %}} ve {{% bible val="kralları kontrol eder" link="rev:17,2" lang="tr" %}}, yine de {{% bible val="onu yok edenler tam olarak onlardır" link="rev:17,16" lang="tr" %}} — ve sonra {{% bible val="ardından onun için ağlarlar" link="rev:18,9" lang="tr" %}}. Neden kendi güç kaynaklarına sırt çevirsinler ki?
 
-{{% bible val="Bunun basit yanıtı, Tanrı’nın bunu onların zihinlerine vermiş olmasıdır" link="rev:17,17" lang="tr" %}}. Ama dahası da var:
+{{% bible val="En basit yanıt, Tanrı'nın bunu onların yüreğine koymuş olmasıdır" link="rev:17,17" lang="tr" %}}, ama bunun altında yatan daha fazlası var:
 
-- İnsanlar fikirlerini değiştirir (bugün dostum, yarın düşmanım), ama Tanrı değişmez. Babil burada yöneticilerin desteğine güveniyordu, ama bu aldatıcı bir şeydi. Çünkü sonuçta bu dünyada herkes kendi çıkarını gözetir.
-- Bu, kötülüğün kutsalları yendiği ama Tanrı’nın onlara zafer kazandırdığı {{% bible val="Daniel" link="dan:7,21-22" lang="tr" %}}’in gerçekleşmesidir (tanıklarla ya da 1000 yıllık krallıkla ilgili olarak kitaba yayılmış bir konudur). Kötülüğün kazanmış gibi göründüğü ve yüzünü gösterdiği zamanda, Tanrı durumu tersine çevirir.
-- Canavar ve krallar kutsallara saldırır, ama İsa onları yener. Kilise saldırıya uğradığında İsa devreye girer.
-- Fahişe dışarıdan gelin gibi görünür ve ikinci canavarın (kuzu gibi iki boynuzlu) aldatmacasına bakarken bu amaçlanmıştır. Öyleyse burada söz konusu olan, Şeytan’ın kendi aldatmacasına kanması olabilir mi? Krallar kutsalları yok etmek isterler ({{% bible val="belli nedenlerden dolayı" link="rev:11,6-10" lang="tr" %}}) ama kutsalları fahişeyle karıştırırlar ve onu yok ederler! Ama bu nasıl olabilir? [Batı toplumunun ve başarılı ekonomisinin ana parçaları, aynı zamanda dünya çapında Hıristiyan temelleri ve değerleri üzerine inşa edilmiştir](https://www.pdfdrive.com/the-book-that-made-your-world-how-the-bible-created-the-soul-of-western-civilization-e200370906.html).
+- İnsanlar sadakatlerini değiştirir — bugünün dostu yarının düşmanıdır — ama Tanrı değişmez. Babil, yöneticilerin desteğine güveniyordu ve bu destek her zaman aldatıcı çıkacaktı, çünkü sonunda bu dünyadaki herkes önce kendi çıkarını gözetir.
+- Bu, {{% bible val="Daniel'de" link="dan:7,21-22" lang="tr" %}} zaten kurulmuş bir örüntüyü tamamlar: kötülük kutsalları yenilgiye uğratır, ama Tanrı yine de zaferi onlara verir — bu tema, tanıklarda ve bin yıllık krallıkta olduğu gibi Vahiy boyunca tekrar tekrar karşımıza çıkar. Kötülük tam kazanıyor gibi göründüğü ve gerçek yüzünü gösterdiği anda, Tanrı durumu tersine çevirir.
+- Canavar ve krallar kutsallara saldırır, ama İsa onları yener; kilise saldırıya uğradığı tam anda devreye girer.
+- Fahişe dışarıdan bakınca geline benzer — bu benzerlik kasıtlıdır, kuzu gibi iki boynuzu olan ikinci canavarın yürüttüğü aynı aldatmacanın bir parçasıdır. Öyleyse bu, Şeytan'ın kendi aldatmacasına kanmasının bir örneği olabilir: krallar {{% bible val="anlaşılır nedenlerle" link="rev:11,6-10" lang="tr" %}} kutsalları yok etmek ister, ama fahişeyi kutsallarla karıştırıp onun yerine onu yok ederler. Böyle bir karışıklık nasıl olabilir? [Batı toplumunun ve dünya çapında başarılı olan ekonomisinin büyük bölümünün Hıristiyan temelleri ve değerleri üzerine kurulduğunu](https://www.pdfdrive.com/the-book-that-made-your-world-how-the-bible-created-the-soul-of-western-civilization-e200370906.html) düşün — ikisi arasındaki çizgiler beklediğimizden daha fazla bulanıklaşabilir.
 
-## Karar
+## Yargı
 
 <a name="0414"></a>
-Yargılama onun eylemleri temelinde yapılır:
+Onun yargısı, eylemleriyle tam olarak örtüşür:
 
-- kendini dokunulmaz gördü -&gt; bir saat içinde düşecek (çok kısa bir süre)
-- {{% bible val="başkalarına uyguladığı" link="rev:18,22-24" lang="tr" %}} {{% bible val="aynı ölçülerle" link="rev:18,6" lang="tr" %}} yargılanır ([çifte ölçü, eşdeğer demenin farklı bir yoludur](https://meredithkline.com/klines-works/articles-and-essays/double-trouble/))
-- Bir rahibin kızının zina yapması durumunda verilen hüküm olan ateş tarafından tüketilir, Babil’den uzak durmak ve çekilmemek için bir başka güçlü uyarı
+- Kendini dokunulmaz sandı, bu yüzden tek bir saat içinde düşer — metnin tasvir edebileceği kadar kısa bir süre.
+- {{% bible val="Başkalarına uyguladığı" link="rev:18,22-24" lang="tr" %}} {{% bible val="aynı ölçüyle" link="rev:18,6" lang="tr" %}} yargılanacaktır ([burada "iki kat ölçü" basitçe "eşdeğer" demenin başka bir yoludur](https://meredithkline.com/klines-works/articles-and-essays/double-trouble/)).
+- Ateşle tüketilecektir — bir kâhinin kızı zina ettiğinde öngörülen aynı yargı — Babil'den uzak durmak ve onun çekiciliğine direnmek için güçlü bir uyarı.

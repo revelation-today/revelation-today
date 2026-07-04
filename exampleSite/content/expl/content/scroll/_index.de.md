@@ -4,8 +4,8 @@ title: "Das kleine Buch (Kap.10)"
 weight: 9
 ---
 
-Nach der Sackgasse mit den Posaunen braucht die Kirche neue Inspiration. Diese kommt mit einer kleinen Schriftrolle, die Johannes verinnerlichen muss.
+Nach der Sackgasse der Posaunen – neun Plagen, und immer noch keine Umkehr – braucht die Kirche neue Inspiration. Sie kommt in Form einer kleinen Schriftrolle, die Johannes verinnerlichen soll.
 
-Das ist das Geheimnis Gottes. Gott siegt in der Schwachheit, wie Jesus es tat. Wenn die Kirche den Fußstapfen Jesu folgt, wird sie erfolgreich sein.
+Diese Schriftrolle trägt das Geheimnis Gottes in sich: Er siegt durch Schwachheit, so wie Jesus es am Kreuz tat. Wenn die Kirche diesem selben Weg folgt, hat sie Erfolg – auch wenn dieser Erfolg nach den Maßstäben der Welt überhaupt nicht wie ein Sieg aussieht.
 
-Aber was ist das Wesentliche hier: Die nächsten 6 Kapitel werden das zeigen.
+Das ist der rote Faden, den die nächsten sechs Kapitel weiterverfolgen.

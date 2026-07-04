@@ -4,8 +4,8 @@ title: "Sang Pelacur Babel (Ps.17-19)"
 weight: 15
 ---
 
-Siapakah sang pelacur itu? Kitab Wahyu membiarkan hal ini sedikit terbuka, sehingga kita dapat memeriksa diri kita sendiri secara teratur apakah kitalah orangnya.
+Siapakah sang pelacur itu? Kitab Wahyu membiarkan pertanyaan ini sedikit terbuka — tampaknya dengan sengaja, sehingga setiap pembaca harus terus memeriksa apakah jawabannya sedekat itu dengan dirinya sendiri.
 
-Ini adalah gambaran paling rinci tentang Iblis, pekerjaannya, keterlibatannya di dunia, serta bahaya-bahaya yang ditimbulkannya bagi gereja. Tetapi bagian ini juga mengandung banyak sindiran terhadap Kekaisaran Romawi, atau apa pun yang mewakilinya pada masa kini.
+Pasal-pasal ini memberikan gambaran paling rinci dalam kitab ini tentang pekerjaan Iblis di dunia dan bahaya-bahaya yang ditimbulkannya bagi gereja, tetapi pasal-pasal ini juga sarat dengan sindiran terhadap Kekaisaran Romawi, atau apa pun yang memainkan peran itu pada masa kini.
 
-Inti utama dari penggambaran sang pelacur adalah menunjukkan gambaran yang jelas-jelas tidak boleh dimiliki oleh mempelai Kristus.
+Namun inti dari sosok sang pelacur adalah sebuah peringatan lewat kontras: ia adalah gambaran dari apa yang tidak boleh sekali-kali menjadi diri mempelai Kristus.

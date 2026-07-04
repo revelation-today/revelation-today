@@ -14,50 +14,44 @@ sources:
       ref: fee_rev
 ---
 
-The Church of Ephesus seems to be a good example of a church. But appearances are deceptive and Jesus delivers a devastating judgment on them.
+The church in Ephesus looks, on the surface, like a model church. But appearances are deceptive, and Jesus delivers a devastating judgment on them anyway.
 
 ## Historical background
 
 <a name="4a32"></a>
-Ephesus' large port was the entrance to Asia Minor and the city was one of the largest and most important cities in the Roman Empire. In addition, the Template of Artemis made Ephesus an important tourist destination.
+Ephesus' large port was the gateway into Asia Minor, making the city one of the largest and most important in the Roman Empire. The Temple of Artemis, one of the ancient world's great wonders, also made it a major tourist destination.
 
-This economic center had a large Jewish diaspora community (Jews who live outside of Israel); these people were also Ephesian citizens.
+This economic center was home to a large Jewish diaspora community — Jews living outside Israel — who held full Ephesian citizenship. Of the seven churches addressed in Revelation, this one was probably the largest.
 
-Of the sever churches mentioned in the Book of Revelation this church was probably the largest one.
-
-## Jesus’ view
+## Jesus' view
 
 <a name="c6bc"></a>
-Here Jesus refes to himself {{% bible val="who holds the stars and walks among the lampstands" link="rev:2,1" lang="en" %}}; this is a reference to the key message of {{% bible val="chapter 1" link="rev:1,20" lang="en" %}}. 
-Beleivers are to be a light and to depend on Him. The church must take this to heart or it will lose its calling!
+Jesus introduces himself here as {{% bible val="the one who holds the stars and walks among the lampstands" link="rev:2,1" lang="en" %}}, picking up the key image already established in {{% bible val="chapter 1" link="rev:1,20" lang="en" %}}: believers are meant to be a light, and to depend on him for it. This church needs to take that image to heart, or it risks losing its calling altogether.
 
-But before Jesus addresses the problem, he pours out a lot of praise:
+Before Jesus addresses the problem, though, he pours out real praise:
 
-- He knows their deeds, their hard work and their perseverance. They have been working hard to counteract the effect of the nearby temple of Artemis. This template {{% bible val="has already caused an uproar in Ephesus" link="act:19,23-41" lang="en" %}}.
-- They are not deceived by false teaching or false apostles; this is the problem for some of the other churches.
-- They are enduring hardship in Jesus’ name.
+- He knows their deeds, their hard work, and their perseverance. They have been working hard to counter the influence of the nearby temple of Artemis, whose cult {{% bible val="had already caused a citywide uproar" link="act:19,23-41" lang="en" %}}.
+- They have not been taken in by false teaching or false apostles — a problem that will prove fatal for some of the other churches.
+- They are enduring hardship for the sake of Jesus' name.
 
 ## The problem
 
 <a name="235e"></a>
-But they have got one thing wrong: they have lost their first love. What does that mean? Is "first love" that romantic feeling when they first met Jesus and would do anything for Him? No, it goes far beyond hits.
+Yet they have gotten one thing badly wrong: they have lost their first love. What does that actually mean? Is "first love" simply the romantic rush of first meeting Jesus, when you'd have done anything for him? No — it runs far deeper than that.
 
-{{% bible val="Matthew 24:12" link="mat:24,12-14" lang="en" %}} says that for many, their love will grow cold and the gospel will be preached to all nations as a witness to all nations. 
-What witness actually mean? A witness is someone who's life is changed because he witnesses something life changing. It is not just telling some news, but this persons whole life is a message.
+{{% bible val="Matthew 24:12" link="mat:24,12-14" lang="en" %}} pairs two things together: for many, love will grow cold, even as the gospel is preached to all nations as a witness. What does "witness" actually mean here? A witness is someone whose life has been changed because they witnessed something life-changing themselves — not someone merely repeating news, but someone whose whole life has become the message.
 
-But what does love have to do with witnessing to the gospel? A great deal.
+So what does love have to do with witnessing to the gospel? A great deal, as it turns out:
 
-- If we love Jesus, we will love our brother and sisters and share His message and love with the outside world.
-- If we love our brothers and sisters, we will love Jesus as we see Him in them and preach the gospel with the whole world.
-- If we love the world, Jesus and the Church is the best we can offer them.
+- If we love Jesus, we will love our brothers and sisters, and share his message and love with the world outside.
+- If we love our brothers and sisters, we will love Jesus as we see him in them, and carry the gospel to the whole world.
+- If we love the world, Jesus and the Church are the best thing we have to offer it.
 
-Sharing the gospel is therefore an act of love, and if either of these things grows cold, the other will diminish.
+Sharing the gospel, then, is itself an act of love — and if either love or witness grows cold, the other diminishes with it.
 
-Ephesus may appears to be an established church as they developed a way of dealing with spiritual challenges, but they have probably forgotten why they are doing it and are focusing too much on themselves rather than making everything right.
+Ephesus may look like an established, mature church, since it has developed real strategies for handling spiritual challenges. But it has likely forgotten why it does any of this in the first place, and has ended up focused on itself rather than on setting things right.
 
 ## The solution
 
 <a name="88fa"></a>
-If they want to mature and be a church that God can use, they have to start building the intimate relationship with God up again, represented by the eating from the tree of life in the Garden of Eden. 
-
-To encourage them, they get a {{% bible val="promise regarding the New Jerusalem" link="rev:22,1-5" lang="en" %}}.
+If Ephesus wants to mature into a church God can actually use, it has to rebuild the intimate relationship with God it has lost — the relationship pictured by eating from the tree of life in the Garden of Eden. To encourage them toward that end, they are given a {{% bible val="promise concerning the New Jerusalem" link="rev:22,1-5" lang="en" %}}.

@@ -17,40 +17,36 @@ docType: expl
 appl: /appl/content/letters
 ---
 
-İncil’in Vahiy kitabında tekrarlanan bir ifade vardır: Kilisenin meleğine yaz. Kiliselerin koruyucu melekleri var mı? Kiliselerin önderleri melek midir? Peki, daha derin bir bakış atalım
+Vahiy kitabı boyunca aynı şaşırtıcı buyruk tekrarlanır: "Kilisenin meleğine yaz." Kiliselerin koruyucu melekleri mi var? Yoksa "melek" kilisenin önderi için kullanılan başka bir sözcük mü? Daha yakından bakalım.
 
 ## Olası olmayan yorumlar
 
 <a name="7774"></a>
-Kiliselerin melekleri kiliseleri gözetleyen koruyucu melekler olabilir mi? Muhtemelen hayır, çünkü İsa’nın Yuhanna’ya meleklere yazması gereken bir mesaj iletmesi biraz gariptir — başka yollar da vardır. Hem meleklere nasıl yazarsınız ki? {{% bible val="Ayrıca kilisedeki bazı üyeler sadık değilse meleği suçlamak zor olacaktır" link="rev:2,24-25" lang="tr" %}}.
+"Kiliselerin melekleri" her cemaati gözeten koruyucu melekler olabilir mi? Muhtemelen hayır — İsa'nın, kendileriyle iletişim kurmanın çok daha doğrudan yolları varken, Yuhanna'ya meleklerin kendisine yazdırması garip olurdu. Pratik açıdan da Yuhanna böyle bir mektubu meleklere nasıl ulaştırırdı? Üstelik {{% bible val="kilisedeki bazı üyeler sadık değilse meleği suçlamak zor olurdu" link="rev:2,24-25" lang="tr" %}}.
 
-Ya da melek olarak anılan bir lider olabilir. Bireylerin başarısızlıkları için onu suçlamak da zor olurdu.
+Peki "melek" insan bir *önder* anlamına mı geliyor? Bu da tutarlı değil, çünkü bireysel üyelerin başarısızlıklarından bir önderi sorumlu tutmak da aynı derecede garip olurdu.
 
 ## Gözlemler
 
 <a name="22d1"></a>
-Bazı gözlemler yapmak için biraz zaman ayıralım
+Birkaç gözlem bizi daha iyi bir cevaba yönlendiriyor:
 
-- Yuhanna’dan meleklere değil, {{% bible val="yedi kiliseye yazması" link="rev:1,11" lang="tr" %}} istenir.
-- her mektup “{{% bible val="meleğine yaz" link="rev:2,1" lang="tr" %}}” diye başlar ama “{{% bible val="ruh kiliselere ne diyor" link="rev:2,7" lang="tr" %}}” diye biter
-- meleklere kiliseler olarak hitap edilir: “{{% bible val="Nasıl düştüğünüzü düşünün" link="rev:2,5" lang="tr" %}}”
-- Yunanca metin tekil ve çoğul (büyük harf) arasında geçiş yapmaktadır: “{{% bible val="Çekmek üzere olduğunuz acılardan korkmayın. Size söylüyorum, şeytan sizi sınamak için aranızdan bazılarını hapse atacak ve on gün boyunca zulüm göreceksiniz. Ölüm noktasına kadar bile sadık kalın, ben de size zafer tacı olarak yaşam vereyim." link="rev:2,10" lang="tr" %}}”
-- Burada melekler, Yahudi ya da erken dönem Hıristiyan literatüründe alışılmadık bir şekilde artikelsiz olarak kullanılmıştır
-- bu meleklere kitabın geri kalanında bir daha asla atıfta bulunulmadı
+- Yuhanna'ya meleklere değil, {{% bible val="yedi kiliseye yazması" link="rev:1,11" lang="tr" %}} söylenir.
+- Her mektup "{{% bible val="...meleğine yaz" link="rev:2,1" lang="tr" %}}" diye açılır, ama "{{% bible val="Ruh'un kiliselere ne dediğini işitsin" link="rev:2,7" lang="tr" %}}" diye kapanır — melek ve kilise aynı muhatap olarak ele alınır.
+- Meleğe doğrudan şöyle denir: "{{% bible val="Nasıl düştüğünü hatırla" link="rev:2,5" lang="tr" %}}" — bu, ruhsal bir varlığa değil, bir cemaate uyan bir dildir.
+- Yunanca metin tekil "sen" ile çoğul "siz" (burada büyük harflerle gösterilmiştir) arasında geçiş yapar: "{{% bible val="Çekmek üzere olduğun acılardan korkma. Size söylüyorum, İblis SİZİ sınamak için aranızdan bazılarını hapse atacak ve on gün boyunca sıkıntı çekeceksiniz. Ölüme dek sadık kal, sana yaşam tacını vereceğim." link="rev:2,10" lang="tr" %}}"
+- "Melekler" burada belirli artikel olmadan geçer, bu da Yahudi ya da erken Hıristiyan literatürü için alışılmadıktır.
+- Bu melekler kitabın başka hiçbir yerinde bir daha anılmaz.
 
 ## Melekler = Kiliseler
 
 <a name="1220"></a>
-Peki ya kiliselerin melekleri kiliselerin kendisine hitap etmenin başka bir yoluysa? Yukarıdaki gözlem, bunların değiştirilebilir olduğunu göstermektedir.
+Bunları bir araya getirdiğimizde, daha basit bir cevaba varırız: "kiliselerin melekleri", kiliselerin kendisine hitap etmenin başka bir yoludur. Melek ve kilise boyunca birbirinin yerine kullanılır.
 
-Ayrıca
+Bu, Yahudi literatüründe zaten iyice yerleşmiş bir örüntüye uyar; burada bütün bir topluluk sanki tek bir kişiymiş gibi hitap edilir — {{% bible val="Siyon Kızı" link="zep:3,14" lang="tr" %}} ve {{% bible val="Sur" link="ezk:27" lang="tr" %}} bunun iki örneğidir, Hoşea da {{% bible val="9. bölümde" link="hos:9,1-6" lang="tr" %}} ve {{% bible val="14. bölümde" link="hos:14,1-3" lang="tr" %}} aynı şekilde tekil ile çoğul arasında geçiş yapar. Aynı şekilde, kiliselere yazılan mektuplar da normalde tek bir kişiye yazılmazdı; başka yerlerde de kiliselere gerek mektuplarda gerek peygamberlik sözlerinde {{% bible val="çoğul" link="zep:2,1-5" lang="tr" %}} olarak hitap edilir.
 
-- Yahudi literatüründe bir grubu birey olarak adlandırmak normaldir ({{% bible val="kızı Siyon" link="zep:3,14" lang="tr" %}}, {{% bible val="Tyrus" link="ezk:27" lang="tr" %}}, Hoşea, {{% bible val="Hoş.9" link="hos:9,1-6" lang="tr" %}} ve {{% bible val="14'te" link="hos:14,1-3" lang="tr" %}} tekilden çoğula geçmiştir)
-- kiliselere yazılan mektuplar genellikle bireylere yazılmaz
-- kiliselere mektuplarda veya peygamberlik konuşmalarında {{% bible val="çoğul" link="zep:2,1-5" lang="tr" %}} olarak da hitap edilir
+Öyleyse kiliselere neden "melek" densin ki? Birkaç neden mantıklı görünüyor:
 
-Öyleyse kiliselere neden melek olarak hitap edilsin ki?
-
-- Kilise, bir meleğin bir “birim” olması gibi birlik içinde olmalıdır. Bu onların özel kurtuluşları/Tanrı’ya giden yolları değil, bir bütün olarak sorumluluk almalarıdır.
-- Onlara melek (angelos = haberci) olarak hitap ederek, ilahi amaçlarını hatırlatır.
-- Onlardan melek olarak bahsedilmesi, işlerini kendi güçleriyle halledemeyeceklerini, ilahi desteğe (Kutsal Ruh) ihtiyaç duyduklarını gösterir.
+- Dünya çapındaki Kilise'nin bir birlik olması amaçlanmıştır, tıpkı bir meleğin tek bir "birim" olması gibi — mesele tek bir imanlının bireysel Tanrı yürüyüşü değil, cemaatin bir bütün olarak paylaştığı sorumluluktur.
+- Onlara melek (*angelos*, "haberci" demektir) olarak hitap etmek, onlara semavi amaçlarını hatırlatır.
+- Onlara melek denmesi, ayrıca bu işi kendi başlarına yapamayacaklarının, Kutsal Ruh aracılığıyla semavi yardıma ihtiyaç duyduklarının bir işaretidir.

@@ -10,88 +10,84 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-The book of Revelation uses a lot of images that seem to be out of our world. Do we need to stretch our imaginations or are these just symbols? Well, both. Read on for a better understanding.
+The book of Revelation is full of images that seem to belong to another world entirely. Do we need to stretch our imaginations to picture them literally, or are they simply symbols? The answer, it turns out, is both — read on for why.
 
 ## Not an easy answer
 
 <a name="95e0"></a>
-There is no simple answer to whether something in the Bible is symbolic, literal, or both.
+There's no simple, one-size-fits-all answer to whether something in the Bible is symbolic, literal, or both at once.
 
-Something can be symbolic, but it can also occur in reality, such as the Nile turning to blood, referring to {{% bible val="the symbolic killing of the Nile god, while the water actually became red like blood" link="exo:7,14-24" lang="en" %}}.The literal form becomes symbolic, so that the 12 true sons of Jacob, forming the twelve tribes chosen by God, become a symbol of being chosen.In this article we will look at how to read and interpret the book of Revelation.
+Something can be symbolic and still occur in reality — the Nile turning to blood, for instance, refers to {{% bible val="the symbolic killing of the Nile god, while the water actually did turn red like blood" link="exo:7,14-24" lang="en" %}}. A literal fact can also become symbolic in its own right: the 12 actual sons of Jacob, who formed the twelve tribes chosen by God, went on to become a lasting symbol of being chosen at all. With that flexibility in mind, this article looks at how to read and interpret the book of Revelation.
 
 ## The scope of the book
 
 <a name="b0bd"></a>
-For this we must understand that this book reflects different types of literature that we must take into account: {{% int_link val="apocalyptic, prophetic, letter" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}.
+To do that, we need to recognize that Revelation blends several types of literature at once: {{% int_link val="apocalyptic, prophetic, and letter" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}. Each of these contributes a different angle on the book's scope.
 
-We need to consider the scope of the book:
+- **Historical context, from the letter.** We should expect some clear historical references that made sense to the first readers, which is why several of the plagues carry a specific historical referent for that original audience.
+- **Spiritual context, from the apocalyptic.** The book wants to provoke its readers into making a decision, so it reaches for harsh images to produce a reaction, and it may use symbolic language to describe a spiritual reality we otherwise couldn't see directly.
+- **Goal-oriented context, from the prophetic.** The book aims to encourage and motivate people to stand against evil, inviting them to look back at the fulfillment from anywhere across the roughly 2,000 years since. Because the events described are unlikely to map onto every generation's literal history in the same way, it's likely that historical prototypes are being molded into symbolic patterns meant to recur.
 
-- Historical context for the first readers (as a letter) — we expect some clear historical references that make sense to the first reader, so some of the plagues have a historical reference (for the first readers!).
-- The spiritual context (apocalyptic): The book wants to provoke the readers to make a decision and uses harsh images to get a reaction and may use symbolic words to describe a spiritual reality that we don’t see directly.
-- The goal view (prophetic): The book is meant to encourage and motivate people to stand up against evil and asks them to look back from the fulfillment to our time, which totals 2000 years. The events described there are unlikely to describe all of history as it should apply to all generations, so it is likely that prototypes of events are molded into symbolic events.
-
-But let us take a closer look at the text itself.
+With that framework in place, let's look more closely at the text itself.
 
 ## The Daniel frame
 
 <a name="c39c"></a>
-There are some key passages in the book of Revelation that have a strong connection to the {{% bible val="prophecy in Daniel chapter 2" link="dan:2,28-45" lang="en" %}} that should help us better understand the book. This passage {{% int_link val="parallels" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}} {{% bible val="Daniel chapter 7 " link="dan:7" lang="en" %}}which has many references in the book of Revelation.
+Some key passages in Revelation are strongly connected to the {{% bible val="prophecy in Daniel chapter 2" link="dan:2,28-45" lang="en" %}}, and that connection helps us understand the book better. This passage {{% int_link val="parallels" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}} {{% bible val="Daniel chapter 7" link="dan:7" lang="en" %}}, which itself has many echoes throughout Revelation.
 
-The passage is the only one in the prophetic books that uses the word “mystery”, which occurs three times in Revelation (mystery of the {{% bible val="church" link="rev:1,20" lang="en" %}}, mystery of {{% bible val="God" link="rev:10,7" lang="en" %}}, mystery of the {{% bible val="beast" link="rev:17,5" lang="en" %}}).
+The Daniel 2 passage is the only one among the prophetic books that uses the word "mystery" — a word that occurs three times in Revelation as well: the mystery of the {{% bible val="church" link="rev:1,20" lang="en" %}}, the mystery of {{% bible val="God" link="rev:10,7" lang="en" %}}, and the mystery of the {{% bible val="beast" link="rev:17,5" lang="en" %}}.
 
-The beginning of the prophecy “He showed … what thing must take place in the latter days” is quoted at the {{% bible val="beginning" link="rev:1,1" lang="en" %}} of the book and {{% bible val="just before the letters to the churches" link="rev:1,19" lang="en" %}}.
+The prophecy's opening line, "he showed … what thing must take place in the latter days," is echoed at the very {{% bible val="beginning" link="rev:1,1" lang="en" %}} of Revelation and again {{% bible val="just before the letters to the churches" link="rev:1,19" lang="en" %}}.
 
-The beginning of the book is “to show … what things must take place quickly” shows that the time that Daniel prophesied has come (in the latter days vs. quickly) while just before the letters to the churches the term “in the latter days” is used as in Daniel.
+Revelation's own opening, "to show … what things must take place quickly," signals that the time Daniel prophesied has now arrived — notice the shift from "in the latter days" to "quickly" — while the phrase just before the letters to the churches reverts to Daniel's own wording, "in the latter days."
 
-Also the introduction after the letters uses the same phrase: “{{% bible val="I will show you what must take place after this" link="rev:4,1" lang="en" %}}”.
+The introduction that follows the letters uses the same formula again: "{{% bible val="I will show you what must take place after this" link="rev:4,1" lang="en" %}}."
 
-They all mirror the beginning of the vision in Daniel (“{{% bible val="has shown the king what will take place in the future" link="dan:2,45" lang="en" %}}”), while the end of the vision is very close to the end of the visions of Revelation: “{{% bible val="to show his servants the things that must soon take place" link="rev:22,6" lang="en" %}}”.
+All of these mirror the opening of Daniel's vision — "{{% bible val="has shown the king what will take place in the future" link="dan:2,45" lang="en" %}}" — while the closing of Revelation's vision comes just as close to the ending of Daniel's: "{{% bible val="to show his servants the things that must soon take place" link="rev:22,6" lang="en" %}}."
 
-The similarities do not seem great because here we have a translation, but it is hard to send a reference to the Greek translation of Daniel and compare it with the Greek text in Revelation.
+In English translation the parallels can look a little thin, but they become much clearer once you compare the Greek of Daniel's Septuagint translation directly against the Greek text of Revelation.
 
-So what is the conclusion? The book of Revelation uses the same phrases that surround the vision in Daniel, which describes a symbolic image of empires in the form of a statue being destroyed by a stone that fills the earth, which are also symbols.
+So what should we conclude? Revelation deliberately borrows the language that frames Daniel's vision — a vision that pictures empires symbolically, as a statue destroyed by a stone that then fills the whole earth, itself another symbol.
 
-So the book seems to be primarily symbolic. But let us look at another aspect.
+That points toward the book being primarily symbolic. But there's another angle worth considering.
 
 ## deiknumi and semaino {#deiknumi}
 
 <a name="27d2"></a>
-No, this heading is not a typo but describes the two words that show the purpose of the book: “{{% bible val="The Revelation from Jesus Christ, which God gave him to show (deiknumi) his servants what must soon take place. He made it known (semaino) by sending his angel to his servant John" link="rev:1,1" lang="en" %}}”.
-
-These two verbs should give us a good understanding of how God wanted to show and make known the contents of this book:
+No, that heading isn't a typo — it names the two Greek verbs that reveal the book's own stated purpose: "{{% bible val="The Revelation from Jesus Christ, which God gave him to show (deiknumi) his servants what must soon take place. He made it known (semaino) by sending his angel to his servant John" link="rev:1,1" lang="en" %}}." Looking closely at these two verbs gives us real insight into how God intended to show and make known the contents of this book.
 
 ### [semaino](https://biblehub.com/greek/4591.htm)
 
 <a name="e9fa"></a>
-This is the word we find as a parallel to the story in Daniel where it shows the interpretation of a symbolic vision. This word is used only 5 times in the New Testament.
+This is the same word used in the Greek of Daniel for the interpretation of a symbolic vision, and it appears only 5 times in the whole New Testament.
 
-- Once in a generic to (to {{% bible val="specify" link="act:25,27" lang="en" %}}),
-- another time showing a potentially {{% bible val="symbolic prophecy" link="act:11,28" lang="en" %}}, given the {{% bible val="symbolic meaning of the same prophet" link="act:21,10-11" lang="en" %}} while
-- the other three are symbolic descriptions of Jesus death on the cross in John chapters {{% bible val="12" link="jhn:12,33" lang="en" %}}, {{% bible val="18" link="jhn:18,32" lang="en" %}} and {{% bible val="21" link="jhn:21,19" lang="en" %}}.
+- Once in a generic sense, meaning simply to {{% bible val="specify" link="act:25,27" lang="en" %}}.
+- Once describing a potentially {{% bible val="symbolic prophecy" link="act:11,28" lang="en" %}}, tied to the {{% bible val="symbolic significance of that same prophet" link="act:21,10-11" lang="en" %}}.
+- Three more times describing, symbolically, the nature of Jesus's death on the cross, in John chapters {{% bible val="12" link="jhn:12,33" lang="en" %}}, {{% bible val="18" link="jhn:18,32" lang="en" %}}, and {{% bible val="21" link="jhn:21,19" lang="en" %}}.
 
-The noun is often used to describe Jesus’ miracles as signs of his character or mission, e.g.
+The related noun is often used for Jesus's miracles as signs pointing to his character or mission. For example:
 
-- It shows {{% bible val="His power to give spiritual life" link="jhn:4,46-54" lang="en" %}} as well as {{% bible val="spiritual resurrection" link="jhn:5,19-29" lang="en" %}}
-- {{% bible val="The feeding of the 5000" link="mat:16,5-12" lang="en" %}} shows Jesus’ power to give spiritual food
+- It marks {{% bible val="his power to give spiritual life" link="jhn:4,46-54" lang="en" %}}, as well as {{% bible val="spiritual resurrection" link="jhn:5,19-29" lang="en" %}}.
+- {{% bible val="The feeding of the 5000" link="mat:16,5-12" lang="en" %}} shows Jesus's power to give spiritual food.
 
-The word semaino can also mean to make known or announce, but if John wanted to show this aspect, he would have used the more appropriate word gnorizo, which he did not use.
+The word *semaino* can also simply mean "to make known" or "announce," but if John had wanted to emphasize that sense here, he had a more natural word available — *gnorizo* — and chose not to use it.
 
 ### [deiknumi](https://biblehub.com/greek/1166.htm)
 
 <a name="08d2"></a>
-This word in written in the context of a symbolic vision of an angel (“{{% bible val="made it known by sending his angel to his servant John" link="rev:1,1" lang="en" %}}”), which is also the reference to the book Daniel, see above. Also in other places in the book John uses it to describe a vision that he saw, usually combined with seeing and interpreting of the symbol he saw
+This word appears in the context of a symbolic vision delivered by an angel — "{{% bible val="made it known by sending his angel to his servant John" link="rev:1,1" lang="en" %}}" — which is itself another echo of Daniel, as noted above. Elsewhere in the book, John uses the same word to describe a vision he saw, typically paired with both seeing and interpreting the symbol in question:
 
-- {{% bible val="The angels shows him the heavenly throne room" link="rev:4,1" lang="en" %}} and what happens there like lamb opening a scroll.
-- {{% bible val="The introduction to the vision of the harlot" link="rev:17,1" lang="en" %}} in the wilderness surrounded by many waters.
+- {{% bible val="The angel shows him the heavenly throne room" link="rev:4,1" lang="en" %}} and everything that happens there, like the Lamb opening a scroll.
+- {{% bible val="The introduction to the vision of the harlot" link="rev:17,1" lang="en" %}} in the wilderness, surrounded by many waters.
 - {{% bible val="The Bride is shown as the city of New Jerusalem" link="rev:21,9-10" lang="en" %}}.
 - {{% bible val="The river of the water of life is shown" link="rev:22,1" lang="en" %}}.
-- {{% bible val="The summary, which is also a reference to Daniel" link="rev:22,6" lang="en" %}}.
-- {{% bible val="The summary of all the things he saw and heard" link="rev:22,8" lang="en" %}} which were {{% bible val="sometimes different things describing symbolically the same thing" link="rev:5,5-6" lang="en" %}}.
+- {{% bible val="The closing summary, itself another reference back to Daniel" link="rev:22,6" lang="en" %}}.
+- {{% bible val="The summary of everything John saw and heard" link="rev:22,8" lang="en" %}}, which included {{% bible val="different images describing the same underlying reality symbolically" link="rev:5,5-6" lang="en" %}}.
 
 ## Conclusion
 
 <a name="44ce"></a>
-All these observations show that we should first assume the symbolic character of a content, especially when it is not clear.
+Taken together, these observations suggest we should default to assuming a symbolic reading wherever the text isn't clearly literal.
 
-You will also see that the book is full of things that are obviously symbols: the lamb, the dragon, the beast with heads and horns, the book with seven seals, the sword coming out of the mouth of Jesus, …
+And indeed, the book is full of things that are obviously symbolic: the lamb, the dragon, the beast with its heads and horns, the book with seven seals, the sword coming out of the mouth of Jesus, and more.
 

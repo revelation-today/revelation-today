@@ -6,6 +6,6 @@ weight: 17
 
 Seperti apakah langit baru dan bumi baru itu nantinya?
 
-Itu akan menjadi tempat yang luar biasa, tetapi unsur kunci dari tempat ini adalah persekutuan penuh dengan Allah dan hidup dalam penyerahan diri sepenuhnya kepada-Nya.
+Itu akan menjadi tempat yang luar biasa, tetapi ciri utamanya bukanlah pemandangannya — melainkan persekutuan penuh dengan Allah dan hidup yang dijalani dalam penyerahan diri sepenuhnya kepada-Nya.
 
 Itulah sebabnya surga bukan untuk semua orang ...

@@ -4,6 +4,6 @@ title: "Die beiden Zeugen (Kap.11)"
 weight: 10
 ---
 
-Dies ist ein Schlüsselkapitel des Buches. Hier tauchen zwei Zeugen auf.
+Dies ist ein Schlüsselkapitel des Buches: Zwei Zeugen treten auf, legen Zeugnis ab und werden dafür getötet.
 
-Sie repräsentieren die Kirche, da sie als Lämmer identifiziert werden. Ihr Erfolg liegt nicht in Wundern und Wundertaten (wie wir hoffen würden), sondern in ihrer Hingabe an Gott und der Schwäche, die sie zulassen, so dass am Ende symbolisch 90 % der Menschen gerettet werden.
+Sie repräsentieren die Gemeinde, hier als Leuchter bezeichnet. Ihr Erfolg kommt nicht durch Zeichen und Wunder, wie wir vielleicht hoffen würden, sondern durch ihre Hingabe an Gott und ihre Bereitschaft, Schwachheit und sogar den Tod anzunehmen. Es ist dieses kostspielige Zeugnis, nicht irgendeine Machtdemonstration, das am Ende symbolisch dazu führt, dass 90 % der Menschen gerettet werden.

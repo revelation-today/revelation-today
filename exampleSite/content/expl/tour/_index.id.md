@@ -6,11 +6,9 @@ next: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelati
 docType: expl
 ---
 
-Kami akan memandu Anda melalui penjelasannya.
+Inilah jalur pendalaman: penjelasan rinci dan bersumber tentang mengapa cara membaca kitab ini masuk akal - ayat demi ayat.
 
-Ini memberi Anda penjelasan yang lebih rinci mengapa saya pikir ini adalah pemahaman yang baik. Anda dapat melihat di akhir sebagian besar halaman, sebuah tautan di mana saya merujuk kepada para teolog besar dan kontribusi mereka terhadap Kitab Wahyu. 
+Di akhir sebagian besar halaman, Anda akan menemukan tautan ke para teolog dan penelitian di balik argumen halaman itu. Jika penjelasan pada suatu halaman belum sepenuhnya meyakinkan Anda, itulah buku-buku yang perlu Anda selami - daftar bacaan di sini sengaja dibuat singkat.
 
-Jika Anda tidak puas dengan penjelasan di sana, Anda dapat menyelami buku-buku ini (saya mencoba untuk menjaga agar jumlah bukunya tetap sedikit) dan mendapatkan informasi yang lebih rinci dari sana.
-
-Ini akan memakan waktu sekitar 6 jam jika Anda ingin membacanya sampai selesai. Jika Anda ingin memeriksa semua ayat Alkitab, maka akan membutuhkan waktu yang lebih lama.
+Membaca dari awal sampai akhir memakan waktu sekitar 6 jam. Memeriksa setiap rujukan Alkitab di sepanjang jalan akan memakan waktu sedikit lebih lama.
 

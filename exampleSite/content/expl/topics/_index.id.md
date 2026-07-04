@@ -4,6 +4,6 @@ title: Topik Khusus
 weight: 7
 ---
 
-Ada beberapa topik yang akan kita tampilkan dan bahas di sini, karena topik-topik ini tidak terikat pada satu pasal saja, melainkan terjalin di sepanjang kitab ini.
+Ada beberapa topik yang tidak terikat pada satu pasal saja, melainkan terjalin di sepanjang seluruh kitab ini. Bagian ini mengumpulkan tema-tema lintas pasal tersebut dan membahasnya tersendiri.
 
 [Cari berdasarkan tema →]({{< relref "themes" >}})

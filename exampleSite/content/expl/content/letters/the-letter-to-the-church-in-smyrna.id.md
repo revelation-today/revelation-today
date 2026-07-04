@@ -14,32 +14,30 @@ sources:
       ref: fee_rev
 ---
 
-Apakah kamu mengenal gereja Smirna? Kamu sebaiknya mengenalnya, karena di sana kamu akan menemukan gereja yang tidak bercela di mata Yesus, tetapi mungkin bukan gereja impianmu.
+Apakah kamu mengenal Smirna? Sebaiknya kamu mengenalnya - di sanalah terdapat sebuah jemaat yang tidak bercela, meskipun ketidakbercelaan itu mungkin tidak terlihat semenarik yang kamu bayangkan.
 
-{{% bible val="Smirna adalah satu dari dua gereja yang sama sekali tidak ditegur oleh Yesus" link="rev:2,8-11" lang="ind" %}}. Apa rahasianya?
+{{% bible val="Smirna adalah satu dari hanya dua jemaat yang sama sekali tidak menerima teguran dari Yesus" link="rev:2,8-11" lang="ind" %}}. Jadi apa rahasianya?
 
 ## Latar Belakang Historis
 
 <a name="d1ed"></a>
-Smirna terletak sekitar 70 km sebelah utara Efesus, di sebuah teluk yang tidak memiliki pelabuhan yang unggul. Justru karena itulah kota ini menjadi kaya dan berkembang menjadi pusat ekonomi.
+Smirna terletak sekitar 70 km sebelah utara Efesus, di sebuah teluk dengan pelabuhan yang sangat baik - sumber kekayaan kota yang penting secara ekonomi ini.
 
-Pada tahun 20 M, sebuah kuil didirikan untuk menghormati kaisar, dan Smirna menjadi salah satu kota terdepan dalam penyembahan kaisar.
-
-Tentang asal-usul gereja ini sedikit yang diketahui, mungkin gereja ini didirikan oleh Paulus bersamaan dengan Efesus.
+Pada tahun 20 M, sebuah kuil dibangun di sana untuk menghormati kaisar, menjadikan Smirna salah satu pusat terdepan penyembahan kaisar. Hanya sedikit yang diketahui tentang bagaimana jemaat ini bermula; kemungkinan didirikan oleh Paulus sekitar waktu yang sama ketika ia mendirikan jemaat di Efesus.
 
 ## Pandangan Yesus
 
 <a name="aa4a"></a>
-Yesus menemui gereja ini sebagai dia yang telah bangkit, yang telah mengalahkan maut. Penglihatan ini sangat dibutuhkan oleh gereja ini, karena mereka diserang dari segala penjuru:
+Yesus mendekati jemaat ini sebagai Dia yang telah bangkit dan telah mengalahkan maut - sebuah penglihatan yang sangat mereka butuhkan, karena mereka sedang diserang dari segala penjuru:
 
-- Mereka mengalami kesulitan keuangan, kemungkinan karena mereka tidak tergabung dalam suatu kelompok dagang.
-- Ada beberapa orang Yahudi yang memfitnah gereja ini, dan inilah kemungkinan besar alasan mengapa beberapa orang dijebloskan ke penjara (Iblis akan melemparkan beberapa dari kamu ke dalam penjara - orang-orang Yahudi itu adalah sinagoge Iblis).
+- Mereka terhimpit secara finansial, kemungkinan karena mereka menolak bergabung dengan perkumpulan dagang, yang mengharuskan keikutsertaan dalam penyembahan berhala.
+- Beberapa orang Yahudi setempat memfitnah jemaat ini, dan kemungkinan besar juga berada di balik penjebloskan orang-orang Kristen ke penjara - itulah sebabnya "Iblis akan melemparkan beberapa dari kamu ke dalam penjara," dan kelompok ini disebut "jemaah Iblis."
 
-Rujukan pada {{% bible val="10 hari" link="rev:2,10" lang="ind" %}} merujuk pada kisah {{% bible val="Daniel, yang hanya makan sayur-sayuran agar tidak menajiskan dirinya dengan makanan najis (yang dipersembahkan kepada berhala) dari meja raja" link="dan:1,8-14" lang="ind" %}}.
+Rujukan pada {{% bible val="sepuluh hari" link="rev:2,10" lang="ind" %}} mengarah kembali kepada {{% bible val="kisah Daniel" link="dan:1,8-14" lang="ind" %}}, yang hanya makan sayur-sayuran selama sepuluh hari agar tidak menajiskan dirinya dengan makanan najis dari meja raja.
 
 ## Perspektif
 
 <a name="302f"></a>
-Yesus berjanji: jika mereka bertahan, kematian yang kedua tidak akan mencelakai mereka. Yesus telah mengalahkan maut {{% bible val="melalui kematian menuju kebangkitan, yang bisa dilihat sebagai kelemahan" link="rev:5,5-6" lang="ind" %}}, tetapi {{% bible val="dengan cara itulah Ia memerintah, dan bersama-Nya gereja" link="rev:20,4-6" lang="ind" %}}. Ini adalah sebuah paradoks. Bagaimana ini bisa terjadi?
+Yesus berjanji bahwa jika mereka bertekun menanggung penderitaan ini, mereka tidak akan dirugikan oleh kematian yang kedua. Ia dapat menawarkan ini kepada mereka karena Ia sendiri telah menempuh jalan yang sama lebih dahulu, {{% bible val="melalui kematian menuju kebangkitan dan tampil sebagai yang telah disembelih" link="rev:5,5-6" lang="ind" %}}, supaya {{% bible val="orang-orang percaya dapat memerintah bersama-Nya" link="rev:20,4-6" lang="ind" %}}. Itu adalah sebuah paradoks yang layak direnungkan: bagaimana sebenarnya ini bisa terjadi?
 
-Semakin kita gagal, semakin Yesus dapat bekerja. Ada bahaya bahwa kita {{% int_link val="menjadi begitu kewalahan oleh keputusasaan sehingga kita menyerah" link="/expl/content/beasts/666-the-number-of-the-beast" %}}. Kita tidak diharuskan untuk menyelesaikan situasi-situasi itu, melainkan untuk menanggungnya bersama-Nya.
+Polanya tampaknya seperti ini - semakin kita tidak mampu berbuat apa-apa dengan kekuatan sendiri, semakin ada ruang bagi Yesus untuk bekerja. Meski demikian, ada bahaya nyata {{% int_link val="menjadi begitu tenggelam dalam keputusasaan sehingga kita menyerah" link="/expl/content/beasts/666-the-number-of-the-beast" %}}. Kita tidak diminta untuk menyelesaikan sendiri keadaan buruk yang kita hadapi, hanya untuk menanggungnya bersama-Nya.

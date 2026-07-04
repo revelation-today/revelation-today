@@ -11,22 +11,22 @@ sources:
       ref: sarna_exo
 ---
 
-İsrailliler Mısır’a geldiklerinde hoş karşılanmışlardı, bir sonraki okuyuşumuzda ise kölelerdi. Ne oldu peki?
+İsrail ilk Mısır’a geldiğinde iyi karşılanmıştı. Onlardan bir sonraki söz edildiğinde ise köledirler. Aradaki bu süre içinde ne oldu?
 
 ## Her şey Hiksoslar ile başladı
 
 <a name="4a9f"></a>
-Hiksoslar (kelimenin tam anlamıyla “başka bir ülkeden gelen hükümdar”) dönemi, daha fazla Asyalı kabilenin (çoğunlukla Kenanlı) Mısırlılarla karışmasıyla başladı. Giderek çoğaldılar ve MÖ 1720'de Nil deltasının doğu kesiminde tam kontrole sahip oldular ve hatta bir başkentleri bile vardı: Avaris.
+Öykü Hiksoslar ile başlar (sözcük anlamıyla “başka bir ülkenin hükümdarları”); bu, giderek daha çok sayıda Asyalı kabilenin — çoğunlukla Kenan’dan — Mısır halkıyla karışmasıyla güç kazanan bir gruptu. Varlıkları öyle büyüdü ki MÖ 1720’ye gelindiğinde Nil Deltası’nın doğu kesimini tümüyle kontrol altına aldılar ve hatta kendi başkentleri olan Avaris’e sahip oldular.
 
-Buradan güneye doğru genişlemiş ve MÖ 1674'te eski başkent Memphis’i fethetmiştir. [Bu sayede Hiksoslar Mısır’da 15. ve 16. hanedanı kurmuş](https://en.wikipedia.org/wiki/Second_Intermediate_Period_of_Egypt) ve Yusuf gibi Semitlerin yüksek mevkilere gelmesini desteklemişlerdir.
+Oradan güneye doğru yayıldılar ve MÖ 1674’te eski Mısır başkenti Memfis’i ele geçirdiler. [Böylece Hiksoslar Mısır’ın 15. ve 16. hanedanlarını oluşturdu](https://en.wikipedia.org/wiki/Second_Intermediate_Period_of_Egypt) ve onların yönetimi altında Yusuf gibi Samiler yüksek makamlara yükselebildi.
 
-## Bir daha asla.
+## Bir daha asla
 
 <a name="c93d"></a>
-Hiksoslar nihayet MÖ 1550 civarında yenildi ve Mısır ikinci bir Hiksos’tan kaçınmak istedi. Pharao’nun bu halkı küçük ve zayıf tutmak istemesinin nedeni buydu.
+Hiksoslar sonunda MÖ 1550 civarında yenilgiye uğratıldı ve Mısır, ikinci bir Hiksos ele geçirmesinin bir daha asla yaşanmamasına kararlıydı. Firavun’u İsrailliler’i küçük ve güçsüz tutmaya iten de bu kararlılıktı.
 
-Yusuf’un Hiksoslar zamanında yaşamış olması muhtemeldir.
+Birkaç ayrıntı, Yusuf’un bizzat Hiksos döneminde yaşadığını düşündürür:
 
-- {{% bible val="Yusuf oradayken (Mısır’ın en kuzeyindeki) Goşen toprakları saraya yakındı" link="gen:45,10" lang="tr" %}}
-- {{% bible val="İsrail, Pithon ve Ramses şehirlerini" link="exo:1,11" lang="tr" %}} inşa etmek {{% bible val="zorunda kaldı" link="exo:12,37" lang="tr" %}} ki bu muhtemelen kuzeydoğuyu yeniden inşa [eden II](https://en.wikipedia.org/wiki/Ramesses_II).
-- Ramses’in babası I. Sethos Avaris (eski Hiksos başkenti) yakınlarında bir yazlık saray inşa ettirir; bu da Musa’nın prenses tarafından neden bu kadar çabuk bulunduğunu açıklar, çünkü burası hâlâ Goşen yakınlarındadır
+- {{% bible val="Yusuf oradayken Mısır’ın kuzeybatısındaki Goşen toprakları saraya yakındı" link="gen:45,10" lang="tr" %}}.
+- İsrail daha sonra {{% bible val="Pitom ve Ramses şehirlerini inşa etmek" link="exo:1,11" lang="tr" %}} zorunda bırakıldı; büyük olasılıkla kuzeydoğuyu yeniden inşa eden [II. Ramses](https://en.wikipedia.org/wiki/Ramesses_II) döneminde — İsrailliler’in sonunda {{% bible val="ayrılıp çıktığı" link="exo:12,37" lang="tr" %}} bölge de tam olarak burasıydı.
+- Ramses’in babası I. Sethos, eski Hiksos başkenti Avaris’in yakınında bir yazlık saray inşa ettirmişti. Bu ayrıntı da, Musa’nın prenses tarafından neden bu kadar çabuk bulunduğunu açıklar: saray hâlâ Goşen’e yakındı.

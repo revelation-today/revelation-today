@@ -8,35 +8,35 @@ next: /expl/bible/daniel/the-book-of-daniel
 docType: expl
 ---
 
-Kisah menara Babel, nabi Daniel, dan Kitab Wahyu saling berkaitan. Dan di sinilah Anda akan melihat mengapa demikian.
+Kisah Menara Babel, kisah nabi Daniel, dan Kitab Wahyu ternyata saling berkaitan. Berikut penjelasannya.
 
 ## Menara Babel
 
 <a name="491e"></a>
-Lama sesudah air bah, manusia memutuskan untuk membangun sebuah menara yang mencapai langit,
+Setelah silsilah panjang sesudah air bah, manusia memutuskan untuk membangun sebuah menara besar yang mencapai langit, dengan dua alasan yang dinyatakan:
 
-- untuk membuat nama bagi diri mereka sendiri, dan
-- untuk memiliki sebuah titik agar mereka tidak tercerai-berai.
+- untuk membuat nama bagi diri mereka sendiri
+- untuk memiliki sebuah titik pusat, supaya mereka tidak tercerai-berai
 
-Dan itu adalah proyek pembangunan yang luar biasa besar. Dan sekarang bagian yang lucu. Mereka ingin membangun hingga ke langit, dan Allah turun untuk melihatnya! Ini adalah ironi murni dari keseluruhan kisah ini — menara itu jelas bukanlah ancaman bagi Allah. Tetapi mengapa Ia merasa terganggu? Kemungkinan besar karena Ia berpikir mereka bisa melakukan segalanya tanpa Dia.
+Itu menjadi sebuah proyek pembangunan yang sangat besar — dan di situlah bagian yang menarik dimulai. Begitu mereka mulai membangun menara mereka hingga ke langit, Allah turun untuk melihatnya, sebuah tindakan yang mengejek baik usaha mereka maupun ancaman di baliknya. Apa artinya ketika Allah prihatin bahwa tidak ada yang mustahil bagi mereka? Kemungkinan besar, mereka telah meyakinkan diri sendiri bahwa mereka dapat melakukan segalanya tanpa Dia.
 
-Manusia tidak mencapai apa yang mereka harapkan melalui pembangunan ini.
+Dan pada kenyataannya, tidak satu pun dari kedua tujuan mereka tercapai — yang terjadi justru sebaliknya.
 
-- Mereka ingin membuat nama bagi diri mereka sendiri. Jelas hal itu tidak berhasil, sebab justru Allahlah yang membuat sebuah nama dari Abraham.
-- Mereka tidak ingin tercerai-berai, tetapi justru itulah akibatnya, ketika Allah mengacaukan bahasa mereka, yang baru dipulihkan pada hari Pentakosta.
+- Mereka ingin membuat nama bagi diri mereka sendiri. Itu tidak pernah berhasil bagi mereka, tetapi Allah kemudian membuat sebuah nama dari Abraham.
+- Mereka ingin menghindari tercerai-berai, tetapi tercerai-berai itulah tepatnya yang terjadi ketika Allah mengacaukan bahasa mereka. Hal itu baru dipulihkan kemudian, pada hari Pentakosta.
 
 ## Daniel di Babel
 
 <a name="644d"></a>
-Ketika Israel dibuang ke pengasingan di Babel, disebutkan bahwa Babel terletak di tanah Sinear, yang juga merupakan tanah tempat menara Babel dibangun.
+Ketika Israel dibuang ke pengasingan di Babel, teks mencatat bahwa Babel ini berdiri di tanah Sinear — tempat yang persis sama dengan tempat menara yang asli dibangun. Detail itu menghubungkan kedua kisah ini.
 
-Tetapi kesombongan juga menjadi tema yang sama, dan bagaimana keberadaan mereka yang singkat itu diakhiri oleh Allah. Kerajaan Babel hanya bertahan 100 tahun sebelum dihancurkan oleh Koresh yang dipanggil Allah.
+Kesombongan juga menjadi benang merah di antara keduanya, begitu pula fakta bahwa Allah memotong pendek keberadaan kedua kerajaan itu. Babel pada zaman Daniel bertahan kurang dari 100 tahun sebelum dikalahkan oleh Koresh, yang telah dipanggil Allah untuk tujuan itu.
 
 ## Babel dalam Kitab Wahyu
 
 <a name="d54a"></a>
-Dalam Kitab Wahyu, Babel memiliki keterkaitan yang kuat dengan kisah Babel ini.
+Dalam Kitab Wahyu, Babel sama eratnya terkait dengan Babel pada zaman Daniel, berbagi ciri-ciri kunci yang sama:
 
-- Tema kesombongan
-- Kejatuhan Babel yang cepat
-- Umat Allah hidup di sana dalam pembuangan dan harus keluar
+- tema kesombongan
+- kejatuhan yang cepat
+- umat Allah yang hidup dalam pembuangan

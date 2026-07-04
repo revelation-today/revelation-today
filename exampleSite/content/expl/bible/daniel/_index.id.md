@@ -4,5 +4,4 @@ title: "Kitab Daniel"
 weight: 4
 ---
 
-Kitab Daniel, dibandingkan dengan panjangnya, adalah kitab dengan rujukan terbanyak dalam Kitab Wahyu. Dan keenam pasal terakhir kitab ini entah bagaimana sama misteriusnya dengan Kitab Wahyu.
-Tetapi kita akan menyelidikinya bersama-sama, langkah demi langkah.
+Mengingat panjangnya, Daniel adalah kitab dengan rujukan terbanyak dalam Kitab Wahyu — dan keenam pasal terakhirnya sama misteriusnya dengan Kitab Wahyu itu sendiri. Mari kita telusuri kitab ini bersama-sama, langkah demi langkah.

@@ -2,7 +2,7 @@
 title: "Kunci Menuju Harmagedon"
 weight: 3
 base: /quick/content/harvest
-story: /story/tour
+story: /story/content/bowls
 prev: /expl/content/bowls/the-bowls-of-wrath
 next: /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 docType: expl
@@ -17,54 +17,51 @@ sources:
       ref: fee_rev
 ---
 
-Harmagedon: sebuah skenario kiamat? Tidak, sebab itu bukan sebuah tempat. Itu adalah sebuah konsep. Ingin tahu mengapa? Maka teruslah membaca.
+Harmagedon: sebuah bencana yang akan menghancurkan dunia? Bukan - sebab itu sama sekali bukan suatu tempat. Itu adalah sebuah konsep. Ingin tahu alasannya? Teruslah membaca.
 
 ## Terjemahannya
 
 <a name="8763"></a>
-Istilah Harmagedon {{% bible val="hanya disebutkan satu kali dalam Alkitab" link="rev:16,16" lang="ind" %}}, dengan keterangan bahwa itu adalah istilah Ibrani. Teksnya sendiri tidak memberikan penjelasan lebih lanjut. Maka mari kita lihat istilah Ibrani itu.
+Istilah Harmagedon hanya disebutkan satu kali {{% bible val="dalam Alkitab," link="rev:16,16" lang="ind" %}} dengan catatan bahwa itu adalah istilah Ibrani - meskipun teks interlinear itu sendiri tidak memberikan penjelasan lebih lanjut tentang artinya. Jadi mari kita telusuri langkah demi langkah.
 
-“Ar” dalam bahasa Ibrani berarti “gunung”. Tetapi gunung yang mana? Ada tiga kemungkinan di sini, dan semuanya tampak masuk akal:
+"Ar" berarti "gunung" dalam bahasa Ibrani, tetapi gunung yang mana? Ada tiga kemungkinan, dan menurut saya, ketiganya ternyata relevan.
 
-- Bisa berarti “gunung perkumpulan”, merujuk pada sebuah bagian dalam {{% bible val="Yesaya" link="isa:14,13" lang="ind" %}}, yang menggambarkan kejatuhan Babel. Tetapi ayat sebelumnya, “{{% bible val="betapa engkau telah jatuh dari langit, hai Bintang Timur" link="isa:14,12" lang="ind" %}}”, menunjukkan bahwa yang dimaksud adalah kuasa rohani di balik Babel, yaitu Iblis sendiri. Seluruh pasal itu adalah {{% bible val="ejekan" link="isa:14,3-4" lang="ind" %}} terhadap sosok yang tampaknya tak terkalahkan namun akhirnya dikalahkan.
-- Namun bisa juga berarti “gunung Megido”, yang memerlukan penjelasan lebih lanjut, karena ada beberapa peristiwa yang berkaitan dengan Megido dan gunung tersebut.
-- Dan akhirnya bisa juga berarti “gunung pembantaian”, yang juga akan kita telusuri.
+Bisa berarti "gunung perkumpulan", diambil dari {{% bible val="sebuah bagian dalam Yesaya" link="isa:14,13" lang="ind" %}} yang menggambarkan kejatuhan Babel. Ayat tepat sebelum bagian itu - Babel digambarkan sebagai "jatuh dari langit, hai Bintang Timur, anak Fajar" - sebenarnya lebih menggambarkan kuasa-kuasa di balik Babel daripada Babel itu sendiri, dan bisa jadi merujuk kepada Iblis. Seluruh pasal itu adalah {{% bible val="ejekan" link="isa:14,3-4" lang="ind" %}} terhadap sosok yang tak terkalahkan namun akhirnya dihancurkan sepenuhnya.
+
+Bisa juga berarti "gunung Megido". Yang ini memerlukan penjelasan lebih panjang, sebab banyak peristiwa terjadi di Megido dan gunung yang menyertainya.
+
+Dan akhirnya, bisa juga berarti "gunung pembantaian", yang juga akan kita telusuri.
 
 ## Debora dan Yael
 
 <a name="adae"></a>
-Penyebutan pertama tentang pertempuran di Megido berkaitan dengan para hakim {{% bible val="Debora dan Barak" link="jdg:4" lang="ind" %}}. Mungkin engkau pernah mendengar kisah ini, tetapi apakah engkau ingat Yael? Maka mari kita mulai dari awal.
+Penyebutan pertama tentang pertempuran di dekat Megido berkaitan dengan para hakim {{% bible val="Debora dan Barak" link="jdg:4" lang="ind" %}}. Mungkin engkau sudah mengenal kisah ini, tetapi apakah engkau ingat Yael dan perannya di dalamnya? Mari kita mulai dari awal.
 
-Israel, seperti yang sering terjadi dalam Kitab Hakim-Hakim, {{% bible val="berada di bawah kekuasaan asing yang menindas bangsa itu" link="jdg:4,1-3" lang="ind" %}}. Lalu ada {{% bible val="Hakim Debora, yang meminta seorang hakim bernama Barak untuk mengikuti janji Allah dan membebaskan Israel, sebagaimana yang telah dijanjikan Allah" link="jdg:4,3-7" lang="ind" %}}. Tetapi Barak ragu-ragu dan hanya mau maju berperang jika Debora ikut bersamanya, yang memang dilakukannya, tetapi hanya untuk mengatakan {{% bible val="bahwa ia tidak akan mengalahkan panglima musuh itu, sebab hal itu akan dilakukan oleh seorang perempuan" link="jdg:4,8-9" lang="ind" %}}. Dan perempuan itu bukanlah Debora, dan di sinilah Yael berperan.
+Israel, seperti yang sering terjadi dalam Kitab Hakim-Hakim, {{% bible val="berada di bawah kekuasaan asing yang menindas mereka" link="jdg:4,1-3" lang="ind" %}}. Debora {{% bible val="memanggil seorang hakim bernama Barak untuk mengikuti janji Allah dan membebaskan Israel, sebab Allah telah berjanji untuk menyelamatkan mereka" link="jdg:4,3-7" lang="ind" %}}, tetapi Barak ragu-ragu dan hanya mau maju jika Debora ikut bersamanya. Debora setuju - tetapi tidak tanpa mengumumkan {{% bible val="bahwa Barak tidak akan menjadi orang yang memberikan pukulan terakhir kepada Sisera, panglima pasukan mereka; seorang perempuan lain yang akan melakukannya" link="jdg:4,8-9" lang="ind" %}}. Jika engkau mengira perempuan itu adalah Debora, engkau keliru. Di sinilah Yael berperan.
 
-Ketika Barak mengalahkan pasukan itu, panglima Sisera melarikan diri dan mencoba mencari perlindungan di rumah Heber (sebab keluarga itu bersahabat dengan raja yang dilayani Sisera). {{% bible val="Tetapi Yael, istri Heber, memanfaatkan kesempatan itu dan membunuh Sisera saat ia sedang tidur." link="jdg:4,15-21" lang="ind" %}}
+Setelah Barak mengalahkan pasukan itu, Sisera melarikan diri dan mencari perlindungan di kemah keluarga Heber, sebab keluarga Heber memiliki hubungan baik dengan raja yang dilayani Sisera. Namun itu tidak menyelamatkannya: {{% bible val="Yael, istri Heber, memanfaatkan kesempatan itu untuk membunuh Sisera saat ia sedang tidur" link="jdg:4,15-21" lang="ind" %}}.
 
 ## Elia
 
 <a name="5f7a"></a>
-Gunung di dekat Megido adalah Karmel. {{% bible val="Dan di sanalah terjadi salah satu kisah paling terkenal dalam Perjanjian Lama, ketika seorang nabi Allah berhadapan dengan ratusan nabi Baal." link="1ki:18" lang="ind" %}}
+Gunung di dekat Megido disebut Karmel, dan {{% bible val="inilah salah satu kisah paling terkenal dalam Perjanjian Lama: seorang nabi Allah berdiri melawan beberapa ratus nabi Baal" link="1ki:18" lang="ind" %}}.
 
-Latar belakangnya: Raja Ahab dari Israel, melalui istrinya Izebel (dari Sidon di utara Israel), membawa kultus Baal (dewa kesuburan) masuk ke Israel. Tugas utama Baal adalah mendatangkan hujan (kalau tidak, tidak akan ada panen). {{% bible val="Ratu yang baru itu mengejar dan membunuh semua nabi, sehingga tampaknya hanya tersisa satu nabi: Elia" link="1ki:19,10" lang="ind" %}}. Berkat nubuat dari orang sederhana seperti dia, kekeringan selama tiga setengah tahun melanda negeri itu, dan dalam sebuah puncak besar di Gunung Karmel, ia berhadapan dengan para nabi Baal dan mengalahkan mereka.
+Sedikit latar belakang terlebih dahulu. Raja Ahab dari Israel, bersama istrinya Izebel dari Sidon (sebuah kerajaan di utara Israel), memperkenalkan kultus Baal, dewa kesuburan, yang salah satu tugas utamanya adalah mendatangkan hujan - tanpa itu tidak akan ada panen. Ratu Izebel {{% bible val="memburu para nabi Allah hingga tampaknya hanya tersisa satu: Elia" link="1ki:19,10" lang="ind" %}}. Setelah nubuat Elia, hujan berhenti selama tiga setengah tahun, dan seluruh konflik itu mencapai puncaknya di Gunung Karmel, tempat ia berhadapan dengan beberapa ratus nabi Baal dan mengalahkan mereka.
 
-{{% bible val="Namun kisahnya belum berakhir. Sang ratu murka dan ingin membunuh Elia. Elia menyerah dan ingin mati, tetapi Allah memanggilnya untuk mengurapi Elisa dan Yehu." link="1ki:19" lang="ind" %}}
+Namun kisahnya belum berakhir di situ. {{% bible val="Sang ratu murka dan ingin membunuhnya; Elia sendiri menyerah dan ingin mati, tetapi Allah memanggilnya kembali untuk mengurapi Elisa dan Yehu" link="1ki:19" lang="ind" %}}.
 
-Ketika panglima {{% bible val="Yehu diurapi" link="2ki:9" lang="ind" %}}, ia menghancurkan seluruh jaringan Izebel yang menjangkau hingga ke Kerajaan Selatan. Dan ia mengejar raja Yehuda dan membunuhnya. Di Megido!
+Ketika Yehu, {{% bible val="panglima pasukan itu, akhirnya diurapi" link="2ki:9" lang="ind" %}}, ia melanjutkan dengan membasmi seluruh jaringan Izebel sampai ke Yehuda. Dalam prosesnya, Yehu bertemu dengan raja Yehuda dan memanahnya - dan raja Yehuda itu tewas, dari semua tempat yang ada, justru di Megido.
 
 ## Yosia
 
 <a name="2a48"></a>
-{{% int_link val="Untuk hal ini ada tulisan tersendiri" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}. Seorang raja mengorbankan nyawanya ketika ia menyerang firaun yang sedang dalam perjalanan untuk membantu Asyur, dan dengan demikian menyelamatkan masa depan Israel. Beberapa catatan tambahan:
+{{% int_link val="Ada tulisan tersendiri untuk hal ini" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}, tetapi ringkasnya adalah: seorang raja mengorbankan nyawanya dalam pertempuran melawan raja Mesir, yang sedang dalam perjalanan untuk membantu orang Asyur melawan kekaisaran Babel yang sedang bangkit. Ada beberapa catatan tambahan yang perlu ditambahkan.
 
-- Asyur pada waktu itu adalah bangsa yang terus-menerus menindas Israel, dan hanya berhenti karena sedang ditekan oleh Babel.
-- Mesir adalah tempat asal keluarnya Israel dari perbudakan, tetapi sejak saat itu Mesir selalu menjadi pihak {{% bible val="yang menjadi tumpuan segala harapan Israel, tetapi selalu mengecewakan Israel" link="2ki:18,21" lang="ind" %}}. Tampaknya Yosia adalah satu-satunya raja Israel yang pernah berperang melawan Mesir.
+Asyur telah terus-menerus menindas Israel hingga saat itu, dan baru berhenti karena Babel mulai menyusahkan mereka. Mesir, sementara itu, menempati posisi yang aneh dalam kisah Israel - Mesir adalah tempat Israel keluar dari perbudakan, namun tetap saja terus-menerus menjadi {{% bible val="rencana cadangan bagi Israel, yang biasanya berakhir dengan kekecewaan" link="2ki:18,21" lang="ind" %}}. Tampaknya Yosia adalah raja Israel pertama yang pernah berperang langsung melawan Mesir.
 
 ## Kesimpulan
 
 <a name="6c2d"></a>
-Harmagedon melambangkan paradoks yang kita temukan di seluruh Perjanjian Baru, tetapi terutama dalam Kitab Wahyu: yang tak terkalahkan dihancurkan, dan yang lemah menang.
+Harmagedon melambangkan sebuah paradoks yang berlaku sepanjang Perjanjian Baru, dan terutama sepanjang Kitab Wahyu: yang tak terkalahkan dihancurkan, dan yang lemah menang. Kisah-kisah di atas menelusuri pola yang sama itu berulang kali.
 
-- Dunia orang mati mengejek dia yang telah menaklukkan seluruh dunia.
-- Seorang ibu rumah tangga mengalahkan seorang panglima perang.
-- Seorang nabi tunggal membawa Israel kembali kepada Allah di hadapan ratusan nabi berhala sang ratu.
-- Seorang panglima tunggal menjatuhkan dua raja tanpa persiapan apa pun.
-- Seorang raja dari kerajaan kecil berperang melawan kekuatan-kekuatan dunia, dihancurkan, dan dengan demikian menjamin masa depan bangsanya.
+Tempat kematian mengejek dia yang telah menaklukkan segalanya. Seorang ibu rumah tangga mengalahkan seorang panglima pasukan. Seorang nabi tunggal membawa seluruh Israel kembali kepada Allah dan mengalahkan ratusan nabi ratu yang jahat itu. Seorang panglima tunggal menggulingkan rajanya sendiri dan raja tetangga tanpa persiapan yang berarti. Seorang raja dari kerajaan kecil berperang melawan kekuatan dunia, dikalahkan dan dibunuh - dan dengan kematiannya itu, menjamin masa depan bangsanya.

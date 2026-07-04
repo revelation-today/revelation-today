@@ -7,63 +7,24 @@ docType: expl
 appl: /appl/background/israel
 ---
 
-Ketika mendengar istilah "Hari Tuhan", orang mungkin membayangkan kehancuran dunia. Tetapi bukan itu maksudnya. Istilah ini memiliki latar belakang yang berbeda.
+Ketika mendengar istilah "Hari Tuhan", Anda mungkin membayangkan kehancuran dunia. Tetapi itu bukanlah makna sebenarnya dari ungkapan ini dalam Alkitab. Untuk melihat dari mana istilah ini sebenarnya berasal, kita perlu menelusurinya kembali melalui sejarah perjanjian Israel.
 
 ## Asal Mula Hari Tuhan
 
 <a name="4fec"></a>
-Israel memiliki sebuah {{% int_link val="perjanjian dengan Allah" link="/expl/background/israel/gods-covenant" %}}. Alasan dari perjanjian ini adalah {{% bible val="untuk menjadi berkat bagi bangsa-bangsa" link="gen:12,2-3" lang="ind" %}}, sebab perjanjian ini didasarkan pada {{% bible val="perjanjian dengan Abraham" link="exo:3,6" lang="ind" %}}.
+Israel memiliki sebuah {{% int_link val="perjanjian dengan Allah" link="/expl/background/israel/gods-covenant" %}}, dan tujuan dari {{% bible val="perjanjian itu adalah untuk menjadi berkat bagi segala bangsa" link="gen:12,2-3" lang="ind" %}}, sebab perjanjian itu {{% bible val="didasarkan pada perjanjian dengan Abraham" link="exo:3,6" lang="ind" %}}. Bahkan pada peristiwa Keluaran itu sendiri, Israel {{% bible val="membawa serta banyak orang lain yang kemudian menjadi bagian dari Israel" link="exo:12,38" lang="ind" %}} — pola menjadi berkat bagi bangsa-bangsa ini sudah ada sejak awal.
 
-Ketika Israel keluar dari Mesir, {{% bible val="mereka membawa serta banyak orang lain, yang dengan demikian juga menjadi bagian dari Israel" link="exo:12,38" lang="ind" %}}.
+Menaati perjanjian berarti menerima berkat yang nyata dan dapat dirasakan: {{% bible val="tanah yang subur dan berkelimpahan" link="lev:26,3-5" lang="ind" %}}, {{% bible val="damai dan kemenangan atas musuh-musuh" link="lev:26,6-8" lang="ind" %}}, {{% bible val="Allah tinggal bersama umat-Nya" link="lev:26,11-12" lang="ind" %}}, dan kebebasan, sebab {{% bible val="mereka tidak akan lagi menjadi budak" link="lev:26,13" lang="ind" %}}. Tetapi ketika Israel gagal menaati perjanjian itu, mereka justru mengalami kutuk, yang — setelah {{% bible val="banyak pasang surut" link="jdg:2,6-22" lang="ind" %}} — akhirnya berujung pada {{% bible val="pembuangan" link="2ch:36,15-23" lang="ind" %}} dan {{% bible val="Allah meninggalkan Israel" link="ezk:11,22-24" lang="ind" %}}.
 
-Setia kepada perjanjian berarti menerima berkat-berkat perjanjian itu, yaitu
+Meski demikian, Allah berjanji {{% bible val="akan berbelas kasihan kepada mereka" link="lev:26,40-46" lang="ind" %}}, dan banyak nabi berbicara tentang pemulihan yang akan datang ini bahkan selama masa pembuangan itu sendiri: Yesaya (pasal 40–55), Yehezkiel, Daniel, dan Obaja.
 
-- memiliki tanah yang subur dan berkelimpahan,
-- memiliki damai dan mengalahkan musuh-musuh,
-- Allah tinggal bersama umat-Nya,
-- tidak lagi menjadi budak.
+Ketika Israel akhirnya kembali dari pembuangan, keadaan tampak menjanjikan pada permukaannya — bait Allah dibangun kembali di bawah Ezra, tembok kota dibangun kembali di bawah Nehemia, dan {{% bible val="Yosua diangkat sebagai imam besar" link="zec:3" lang="ind" %}} bersama {{% bible val="Zerubabel sebagai penguasa" link="zec:4" lang="ind" %}} yang akan mendirikan Kerajaan Allah. Tetapi jika diperhatikan lebih dekat, pemulihan yang dijanjikan itu jelas belum tiba: umat itu {{% bible val="masih berada dalam perbudakan" link="ezr:9" lang="ind" %}} dalam segala arti yang berarti, mereka tidak memiliki tanah mereka sendiri di bawah kekuasaan Persia, {{% bible val="berkat Tuhan belum juga datang" link="hag:1,7-12" lang="ind" %}} dan {{% bible val="negeri itu masih berada di bawah kutuk" link="mal:3,10-11" lang="ind" %}}, serta {{% bible val="pencurahan Roh belum terjadi" link="ezk:36,25-27" lang="ind" %}}.
 
-Namun ketika mereka melanggar perjanjian, setelah mengalami banyak {{% bible val="pasang surut" link="jdg:2,6-22" lang="ind" %}}, akhirnya mereka jatuh ke dalam {{% bible val="pembuangan" link="2ch:36,15-23" lang="ind" %}} dan {{% bible val="Allah meninggalkan Israel" link="ezk:11,22-24" lang="ind" %}}.
-
-Tetapi Allah berjanji bahwa Ia {{% bible val="akan berbelas kasihan kepada mereka" link="lev:26,40-46" lang="ind" %}}.
-
-Banyak nabi telah berbicara tentang hal ini, dan pada masa pembuangan mereka adalah
-
-- Yesaya (pasal 40–55)
-- Yehezkiel
-- Daniel
-- Obaja
-
-Ketika Israel akhirnya kembali dari pembuangan, keadaannya awalnya tampak baik:
-
-- Bait Allah dibangun kembali di bawah Ezra.
-- Tembok kota didirikan di bawah Nehemia.
-- {{% bible val="Yosua diangkat sebagai imam besar" link="zec:3" lang="ind" %}} dan {{% bible val="Zerubabel sebagai gubernur (raja)" link="zec:4" lang="ind" %}}, untuk mendirikan Kerajaan Allah.
-
-Tetapi mereka
-
-- {{% bible val="masih berada dalam perbudakan/penjajahan" link="ezr:9" lang="ind" %}},
-- tidak memiliki tanah itu (masih di bawah kekuasaan Persia),
-- {{% bible val="berkat Tuhan belum juga datang" link="hag:1,7-12" lang="ind" %}}, {{% bible val="negeri itu masih di bawah kutuk" link="mal:3,10-11" lang="ind" %}},
-- {{% bible val="pencurahan Roh Kudus belum terjadi" link="ezk:36,25-27" lang="ind" %}}.
-
-Jadi Israel sebenarnya masih dalam pembuangan, dan pembuangan itu akan berakhir dengan Hari Tuhan.
-
-Tentang hal ini dinubuatkan dalam
-
-- Hagai
-- Zakharia
-- Yesaya 56–66
-- Maleakhi
+Jadi, dengan ukuran apa pun yang penting, Israel sebenarnya masih dalam pembuangan — dan Alkitab menyatakan bahwa pembuangan itu hanya akan berakhir dengan Hari Tuhan. Itulah beban yang dibawa oleh para nabi yang menulis setelah masa kembalinya umat itu: Hagai, Zakharia, Yesaya 56–66, dan Maleakhi.
 
 ## Isi dari Hari Tuhan
 
 <a name="af7c"></a>
-Hari Tuhan akan membawa
+Hari Tuhan, kalau begitu, bukan sekadar "akhir dunia" — melainkan hari yang akhirnya mendatangkan apa yang selalu dijanjikan oleh perjanjian itu. Hari itu membawa {{% bible val="penghakiman atas musuh-musuh Israel" link="jol:2,1-11" lang="ind" %}}, {{% bible val="pemulihan Israel" link="jol:2,12-27" lang="ind" %}}, {{% bible val="penghakiman atas orang-orang fasik di Israel" link="zep:1,4-9" lang="ind" %}}, dan penggenapan janji-janji Allah yang tersisa, seperti pencurahan Roh Kudus.
 
-- {{% bible val="penghakiman atas musuh-musuh Israel" link="jol:2,1-11" lang="ind" %}}
-- {{% bible val="pemulihan Israel" link="jol:2,12-27" lang="ind" %}}
-- {{% bible val="penghakiman atas orang-orang yang tidak adil di Israel" link="zep:1,4-9" lang="ind" %}}
-- Allah menggenapi janji pencurahan Roh Kudus.
-
-Namun hal ini hanya terjadi bagi {{% int_link val="sisa Israel" link="/expl/background/israel/the-remnant-of-israel" %}}.
+Tetapi hal ini hanya akan terjadi bagi {{% int_link val="sisa Israel" link="/expl/background/israel/the-remnant-of-israel" %}} — bukan bagi bangsa itu secara keseluruhan.

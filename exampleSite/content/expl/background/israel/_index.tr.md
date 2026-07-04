@@ -4,8 +4,6 @@ title: İsrail
 weight: 5
 ---
 
-İsrail nedir ve kimler İsrail'e aittir?
+İsrail nedir ve gerçekte kim ona aittir? Cevap, Eski Ahit'in kendi içinde bile beklediğinizden daha ilginç ve daha az açık çıkıyor.
 
-Bu çok ilginç bir konudur ve Eski Ahit'te bile düşündüğünüz gibi değildir.
-
-Doğulu aile ve antlaşma anlayışından İsa'nın zamanına kadar bunu keşfetmek için biraz zaman ayıracağız.
+Oraya varmak için temelden başlayacağız: eski Yakın Doğu'da aile ve antlaşmanın nasıl işlediğinden yola çıkıp bu ipliği İsa'nın zamanına kadar takip edeceğiz.

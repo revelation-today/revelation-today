@@ -4,8 +4,8 @@ title: "Die Hure Babel (Kap.17-19)"
 weight: 15
 ---
 
-Wer ist die Hure? Das Buch der Offenbarung lässt dies ein wenig offen, so dass wir regelmäßig selbst prüfen können, ob wir es sind. 
+Wer ist die Hure? Die Offenbarung lässt die Frage ein Stück weit offen — anscheinend absichtlich, damit jeder Leser immer wieder prüfen muss, ob die Antwort ihm unangenehm nahekommt.
 
-Dies ist die detaillierteste Beschreibung des Satans und seines Wirkens und seiner Verstrickung in der Welt und der Gefahren für die Kirche. Sie enthält aber auch eine Menge Spott gegen das Römische Reich oder was auch immer dieses heute darstellt.
+Diese Kapitel zeichnen das detaillierteste Bild des Buches vom Wirken Satans in der Welt und den Gefahren, die daraus für die Gemeinde entstehen, aber sie sind auch durchzogen von Spott über das Römische Reich, oder was auch immer heute diese Rolle einnimmt.
 
-Der Hauptpunkt der Beschreibung der Hure ist die Beschreibung, wie die Braut Christi definitiv nicht sein sollte.
+Im Kern ist die Hure jedoch eine Warnung durch Kontrast: Sie ist ein Bild dessen, was die Braut Christi niemals werden darf.

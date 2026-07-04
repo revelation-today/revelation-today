@@ -4,8 +4,6 @@ title: Israel
 weight: 5
 ---
 
-Was ist Israel und wer gehört zu Israel?
+Was ist Israel, und wer gehört eigentlich dazu? Die Antwort ist interessanter — und weniger offensichtlich — als man erwarten würde, selbst innerhalb des Alten Testaments.
 
-Das ist ein sehr interessantes Thema und selbst im Alten Testament nicht so, wie man denken könnte.
-
-Wir werden uns etwas Zeit nehmen, um dies vom orientalischen Verständnis von Familie und Bund bis zur Zeit Jesu zu entdecken.
+Um dorthin zu gelangen, arbeiten wir uns von Grund auf vor: Wir beginnen damit, wie Familie und Bund im alten Orient funktionierten, und verfolgen diesen roten Faden bis zur Zeit Jesu.

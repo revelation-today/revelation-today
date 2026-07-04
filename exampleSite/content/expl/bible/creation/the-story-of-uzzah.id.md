@@ -8,30 +8,30 @@ next: /expl/bible/exodus/the-story-before-the-exodus
 docType: expl
 ---
 
-Mungkin Anda belum pernah mendengar kisah Uza dan bagaimana Allah menghukumnya karena telah menyelamatkan tabut perjanjian itu. Ini adalah kisah yang aneh, yang tampaknya sama sekali tidak relevan bagi kita saat ini. Tetapi sesungguhnya tidak demikian. Mari kita perhatikan langkah demi langkah.
+Mungkin Anda belum pernah mendengar kisah Uza, dan bagaimana Allah menghukumnya mati karena berusaha menyelamatkan tabut perjanjian. Ini adalah kisah yang aneh, dan bisa tampak sama sekali tidak relevan bagi kita hari ini. Padahal relevan — dan alasannya mungkin akan mengejutkan Anda. Mari kita telusuri langkah demi langkah.
 
 # Kisahnya
 
-Sebelum Saul, raja pertama Israel, duduk di atas takhta, {{% bible val="Israel sedang berperang dengan orang Filistin dan mendapat ide gemilang untuk membawa tabut perjanjian ke medan perang agar mereka menang" link="1sa:4,1-11" lang="ind" %}}. Tabut perjanjian adalah tempat Allah bersemayam dalam Perjanjian Lama, dan Israel mengira bahwa Allah tidak akan pernah membiarkan musuh-Nya memenangkan pertempuran dan merampas tabut perjanjian itu. Tetapi mereka keliru — Allah tidak mengizinkan mereka memanipulasi diri-Nya.
+Sebelum Saul, raja pertama Israel, dinobatkan, {{% bible val="Israel sedang berperang melawan orang Filistin dan mendapat ide gemilang untuk membawa tabut perjanjian ke medan perang agar mereka menang" link="1sa:4,1-11" lang="ind" %}}. Tabut itu adalah tempat kediaman Allah dalam Perjanjian Lama, dan Israel mengira Allah tidak akan pernah membiarkan musuh mereka memenangkan pertempuran itu dan merampas tabut-Nya. Mereka keliru — Allah tidak membiarkan diri-Nya dimanipulasi seperti itu.
 
-{{% bible val="Orang Filistin merampas tabut perjanjian itu (dan Allah bersamanya?) dan memajangnya di rumah allah mereka, untuk menunjukkan bahwa merekalah yang menang. Tetapi Allah membalikkan keadaan" link="1sa:5" lang="ind" %}}, dan {{% bible val="orang Filistin memutuskan untuk mengembalikan tabut itu. Imam mereka memutuskan untuk menaruh tabut itu di atas sebuah kereta baru yang ditarik oleh dua ekor sapi betina." link="1sa:6" lang="ind" %}} Tabut itu {{% bible val="tiba di rumah Abinadab dan tinggal di sana selama bertahun-tahun" link="1sa:7,1" lang="ind" %}}.
+{{% bible val="Orang Filistin merampas tabut itu (dan Allah bersamanya?) dan memajangnya di rumah allah mereka untuk menunjukkan bahwa merekalah yang menang. Tetapi Allah membalikkan keadaan ini" link="1sa:5" lang="ind" %}}, dan {{% bible val="orang Filistin memutuskan untuk mengirim kembali tabut itu. Imam mereka memutuskan untuk menaruh tabut itu di atas sebuah kereta bersama beberapa persembahan, ditarik oleh dua ekor anak sapi." link="1sa:6" lang="ind" %}} Tabut itu {{% bible val="tiba di rumah Abinadab dan tinggal di sana selama bertahun-tahun" link="1sa:7,1" lang="ind" %}}.
 
-{{% bible val="Setelah masa itu, Daud, raja berikutnya, ingin membawa tabut itu ke Yerusalem. Ia ditemani oleh kedua putra Abinadab: Uza dan Ahyo. Tabut itu ditaruh di atas sebuah kereta dan ditarik oleh lembu-lembu. Ketika lembu-lembu itu tersandung, Uza mengulurkan tangannya dan berusaha mencegah tabut itu tergelincir dari kereta. Dan Allah membunuhnya karena perbuatan itu." link="2sa:6,1-7" lang="ind" %}}
+{{% bible val="Setelah masa itu, Daud, raja berikutnya, ingin membawa tabut itu ke Yerusalem. Ia ditemani oleh kedua putra Abinadab, yaitu Uza dan Ahio. Tabut itu ditaruh di atas sebuah kereta dan ditarik oleh lembu-lembu. Tetapi ketika lembu-lembu itu tersandung, Uza mengulurkan tangannya dan berusaha mencegah tabut itu tergelincir dari kereta. Dan karena perbuatan itu, Allah membunuhnya." link="2sa:6,1-7" lang="ind" %}}
 
-Raja Daud sangat terkejut karenanya dan membutuhkan waktu tiga bulan untuk mencobanya lagi, {{% bible val="tetapi kali ini dengan cara yang berbeda" link="2sa:6,12-15" lang="ind" %}}.
+Daud sangat terguncang karena peristiwa itu, dan butuh waktu tiga bulan baginya untuk mencoba lagi — kali ini, dengan cara yang berbeda.
 
 # Apa yang Sedang Terjadi di Sini?
 
-Untuk memahami situasi ini dengan lebih baik, kita perlu mundur sedikit dalam sejarah. Ketika Allah memberikan petunjuk-petunjuk tentang tabut perjanjian dan tempat kudus itu, Ia menjelaskan dengan sangat jelas bagaimana benda-benda itu harus diangkut — pada masa eksodus, kemah itu senantiasa berpindah-pindah.
+Untuk memahami hal ini, kita perlu kembali sedikit lebih jauh dalam kisah ini. Ketika Allah memberikan petunjuk-petunjuk tentang tabut dan tempat kudus itu, Ia sangat jelas tentang bagaimana benda-benda itu harus diangkut, jauh sejak masa Keluaran, ketika kemah itu senantiasa berpindah-pindah.
 
-Bagian dalam bait Allah hanya boleh diangkut oleh orang-orang Lewi. Mereka dikuduskan bagi TUHAN dari seluruh Israel. Tabut itu adalah tempat Allah bersemayam, dan Ia tidak ingin diangkut oleh binatang, melainkan ingin bersentuhan dengan umat-Nya yang terkasih selama perjalanan itu.
+Perlengkapan bagian dalam hanya boleh diangkut oleh orang-orang Lewi, yang dikuduskan untuk tugas ini atas nama seluruh Israel. Tabut itu adalah tempat kediaman Allah, dan Ia sama sekali tidak berkenan diangkut oleh seekor binatang — Ia ingin tetap bersentuhan langsung, sepanjang perjalanan, dengan umat-Nya yang terkasih.
 
-Ketika tabut itu kembali ke Israel, orang Filistin tidak mengetahui yang lebih baik dan menaruhnya di atas sebuah kereta. Tetapi Israel seharusnya tahu lebih baik. Bahkan Uza pun seharusnya tahu lebih baik, sebab tabut itu tinggal di rumah ayahnya selama kurang lebih 20 tahun.
+Pada saat tabut itu kembali dari wilayah Filistin, orang Filistin masih bisa dimaafkan karena tidak mengetahui hal yang lebih baik dan menaruhnya di atas kereta. Israel tidak memiliki alasan semacam itu, dan Uza yang paling tidak memilikinya — tabut itu telah berada di rumah ayahnya selama kurang lebih 20 tahun.
 
-Allah ingin membebaskan diri-Nya dari situasi ini dengan mendorong tabut itu jatuh dari kereta, tetapi Uza mencegah-Nya melakukan hal itu, dan Allah menghukumnya karena hal itu.
+Tampaknya Allah ingin membebaskan diri-Nya dari susunan ini dengan membiarkan tabut itu tergelincir dari kereta. Uza mencegah-Nya melakukan hal itu, dan Allah menghukumnya karena perbuatan itu.
 
 # Dan Bagaimana dengan Zaman Kita?
 
-Pada zaman sekarang, Allah mencari kedekatan dengan kita. Tetapi kita memiliki cara kita sendiri untuk mengurung-Nya dan menjaga jarak dari-Nya.
+Bahkan hingga hari ini, Allah mencari cara untuk mendekat kepada kita. Dan kita, pada gilirannya, memiliki banyak cara untuk mengurung-Nya dan menjaga-Nya tetap berjarak.
 
-Tetapi Allah ingin keluar dari tatanan ini, sementara kita berusaha sekuat tenaga untuk menghentikan-Nya, demi kebaikan-Nya sendiri (menurut anggapan kita). Seperti yang kita lihat dalam kisah ini, Allah bersedia menghancurkan sesuatu yang kita anggap berharga bagi Allah, tetapi ternyata kita sama sekali keliru.
+Allah ingin membebaskan diri dari kotak-kotak itu, tetapi kita sering kali berusaha sekuat tenaga untuk mencegah-Nya — demi apa yang kita anggap sebagai kebaikan-Nya sendiri. Seperti yang ditunjukkan kisah ini, Allah bersedia menghancurkan sesuatu yang kita anggap berharga demi mendekat kepada kita, dan ternyata kita keliru karena berpegang padanya begitu erat.

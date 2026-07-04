@@ -15,139 +15,135 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-Die Offenbarung hat viele Menschen zu verschiedenen Dingen inspiriert, von denen die meisten nichts mit der Bibel und ihrem Anliegen zu tun haben. Ich erspare dir diese Aufzählung, denn ich denke, du weißt, wovon die Rede ist. Aber ist es überhaupt möglich, ein solches Buch sinnvoll zu lesen? Dazu müssen wir das Wesen dieses Buches besser verstehen.
+Die Offenbarung hat Menschen zu allerlei Dingen inspiriert, von denen die wenigsten etwas mit dem Buch selbst zu tun haben. Ich erspare dir die Liste, aber du weißt vermutlich, wovon ich spreche. Wie also lässt sich dieses seltsame Buch überhaupt lesen und verstehen?
 
-Aber die Antwort ist nicht so einfach und braucht Zeit.
+Um eine Antwort zu finden, müssen wir zunächst klären, um was für ein Buch es sich hier eigentlich handelt.
+
+Die Antwort ist nicht einfach und erfordert etwas Geduld beim Durcharbeiten — aber die Mühe lohnt sich.
 
 ## Was ist ein Genre?
 
 <a name="8c70"></a>
-Ein Genre ist eine Art von Literatur. Je nach Genre liest du ein Buch anders:
+Ein Genre ist eine Art von Literatur, und das Genre eines Textes bestimmt, wie wir an ihn herangehen sollten.
 
-- Ein wissenschaftliches Buch suchst du nach Beweisen und erwartest nichts anderes als die Wahrheit,
-- aber bei einem Gedicht erwartest du das nicht, sondern suchst Schönheit in Metaphern,
-- während du von einem Brief eine persönliche Note erwartest und keine allgemeinen Aussagen, die nichts mit dir und deiner Situation zu tun haben.
+Liest du zum Beispiel einen wissenschaftlichen Aufsatz, erwartest du Belege und nichts als die reine Wahrheit. Schlägst du ein Gedicht auf, erwartest du davon nichts dergleichen — stattdessen hältst du Ausschau nach eindrücklichen Metaphern, die Gefühle wecken. Öffnest du einen Brief, der persönlich an dich gerichtet ist, erwartest du, dass er voller persönlicher Bezüge und Inhalte ist, die genau auf deine Situation zugeschnitten sind.
 
-Das Buch Offenbarung ist deshalb so schwer zu verstehen, weil es
+Die Offenbarung ist aus drei sich verstärkenden Gründen schwer gut zu lesen:
 
-- nicht nur ein Genre ist, sondern 3 (Brief, Prophetie und Apokalypse),
-- alle diese Gattungen werden hier nicht in ihrer typischen Form verwendet — dazu später mehr,
-- die Gattung Apokalypse den meisten Lesern unbekannt ist und daher leicht missverstanden wird.
+- Sie ist nicht nur eine Art von Literatur, sondern gleich drei zugleich — Brief, Prophetie und Apokalypse.
+- Keine dieser drei Gattungen wird hier in ihrer typischen Form verwendet, wie wir weiter unten sehen werden.
+- Besonders die Gattung der Apokalypse ist den meisten modernen Lesern anderswo nie begegnet, was Missverständnisse besonders leicht macht.
 
-Im weiteren Verlauf dieses Artikels werde ich auf diese drei Gattungen eingehen, was sie kennzeichnet und was sie ausmacht und wie uns dies hilft, das Buch besser zu verstehen.
+Der Rest dieses Artikels arbeitet diese drei Gattungen der Reihe nach durch — was jede von ihnen ausmacht und was das für unser Verständnis der Offenbarung bedeutet.
 
 ## Ein Brief {#letter}
 
 <a name="letter"></a>
-Beginnen wir mit dem Brief. Es gibt viele Aspekte, die Offenbarung den Charakter eines Briefes verleihen:
+Beginnen wir mit dem Aspekt des Briefes. Mehrere Merkmale kennzeichnen die Offenbarung deutlich als Brief:
 
-- {{% bible val="die formale Einleitung" link="rev:1,4-6" lang="de" %}}, die in allen Briefen in der Bibel zu finden ist,
-- {{% bible val="der formale Schluss" link="rev:22,21" lang="de" %}}, der ebenfalls in den meisten Briefen der Bibel vorkommt,
-- die Tatsache, dass das Buch als {{% bible val="Brief an sieben Gemeinden" link="rev:1,10-11" lang="de" %}} geschrieben ist, der in {{% bible val="Kapitel 2 und 3" link="rev:2" lang="de" %}} beginnt, sich aber über das ganze Buch erstreckt, z.B. wird die Erfüllung der Verheißungen an die Gemeinden in {{% bible val="Kapitel 21" link="rev:21" lang="de" %}} gegeben.
+- {{% bible val="die formale Einleitung" link="rev:1,4-6" lang="de" %}}, wie sie aus jedem anderen Brief der Bibel bekannt ist.
+- {{% bible val="der formale Schluss" link="rev:22,21" lang="de" %}}, der ebenso in vielen Briefen des Neuen Testaments verwendet wird.
+- die Tatsache, dass sich das Buch selbst {{% bible val="als Brief an sieben Gemeinden" link="rev:1,10-11" lang="de" %}} vorstellt. Dieser Rahmen wird zu Beginn von {{% bible val="Kapitel 2 und 3" link="rev:2" lang="de" %}} ausdrücklich sichtbar, aber die dort angesprochenen Themen ziehen sich durch das ganze übrige Buch — viele der Verheißungen, die diesen konkreten Gemeinden gegeben werden, finden zum Beispiel ihre Antwort in {{% bible val="Kapitel 21" link="rev:21" lang="de" %}}.
 
-Das Buch folgt jedoch nicht der[ Standardform eines Briefes in der Bibel](https://catholic-resources.org/Bible/NT_Letters.htm). Das liegt daran, dass
+Natürlich folgt das Buch nicht in jeder Hinsicht [der Standardform eines Briefes in der Bibel](https://catholic-resources.org/Bible/NT_Letters.htm):
 
-- es nicht nur ein Brief, sondern auch Prophetie und Apokalyptik ist und
-- an 7 Gemeinden gleichzeitig gerichtet ist!
+- Es ist nicht nur ein Brief — es ist zugleich prophetisch und apokalyptisch.
+- Es ist gleichzeitig an sieben Gemeinden gerichtet, nicht an einen einzelnen Empfänger.
 
-Aber es bleibt im Fluss eines Briefes
+Dennoch bewahrt die Offenbarung den grundlegenden Aufbau eines Briefes:
 
-- erinnert die Gemeinde daran, wer Jesus ist (Kapitel 1),
-- adressiert die wesentlichen Probleme und ihre Konsequenzen (Kapitel 2–3),
-- gibt einige theologische Erklärungen zur Lösung der Probleme (Kapitel 4–21/5) und
-- enthält einige abschließende Ermahnungen (Kapitel 22/6–21).
+- Sie macht der Gemeinde bewusst, wer Jesus ist (Kapitel 1),
+- sie spricht die grundlegenden Probleme der Gemeinden und deren Konsequenzen an (Kapitel 2–3),
+- sie gibt eine theologische Erklärung, wie damit umzugehen ist (Kapitel 4–21/5),
+- und sie schließt mit einigen abschließenden Worten (Kapitel 22/6–21).
 
-Wenn wir dieses Buch lesen, sollten wir in den Kapiteln 4–21 einen Leitfaden erwarten, wie die damaligen Gemeinden mit den spezifischen Problemen ihrer Zeit umgehen konnten. Das heißt nicht, dass wir heute ganz andere Probleme haben (ganz im Gegenteil) und dass diese Themen für uns nicht wichtig wären, aber wenn die Mehrheit des Buches (selbst für uns) nur in der Zukunft angewendet werden kann, dann haben wir nicht bedacht, dass dieses Buch auch ein Brief ist.
+Wenn wir das erkennen, ergibt es Sinn, dass der Stoff in den Kapiteln 4–21 als Orientierung für diese Gemeinden dienen sollte — für die konkreten Probleme, mit denen sie zu ihrer Zeit konfrontiert waren. Das bedeutet nicht, dass wir heute mit identischen Problemen zu tun haben oder dass diese Antworten nicht auch auf unser Leben angewendet werden können; es bedeutet lediglich, dass der Brief zuerst mit Blick auf sie geschrieben wurde.
+
+Wenn wir annehmen, der Großteil dieses Buches beziehe sich nur auf Ereignisse in ferner Zukunft, haben wir den Briefcharakter des Buches vollständig übersehen.
 
 ## Eine Prophetie {#prophecy}
 
 <a name="prophecy"></a>
-Wenn man das Wort Prophetie hört, denken die meisten Menschen an einen übernatürlichen Blick in die Zukunft, um zu beschreiben, was auf uns zukommt.
+Wenn Menschen das Wort „Prophetie" hören, stellen sich die meisten einen übernatürlichen Blick oder eine Vision der Zukunft vor, die vor allem kommende Dinge vorhersagt.
 
-Das ist nicht ganz falsch, aber der Schwerpunkt der prophetischen Bücher in der Bibel liegt woanders.
+Dieser Gedanke ist nicht grundsätzlich falsch, aber bei den prophetischen Büchern der Bibel trägt das Wort eine etwas andere Bedeutung.
 
-Die prophetische Literatur des Alten Testaments hat ihren Ursprung im Bund, den Gott mit Israel am Berg Sinai geschlossen hat. Gott gab nicht einfach eine Liste von Regeln, an die sich alle halten sollten, sondern er formte eine neue Mentalität:
+Die prophetische Literatur des Alten Testaments war im Bund am Berg Sinai verwurzelt. Dort gab Gott den Menschen nicht bloß eine Liste von Regeln — er gab ihnen eine ganze Denkweise. Er legte fest:
 
-- Alle sind vor dem Gesetz gleich.
-- Habt Mitleid mit dem Hilflosen, denn {{% bible val="ihr seid auch Sklaven gewesen" link="exo:20,2" lang="de" %}}, {{% bible val="denn Gott schützt die Schwachen" link="deu:10,18" lang="de" %}}, wie es {{% bible val="selbst bei dem Festen gefordert ist" link="lev:23,22" lang="de" %}}.
-- Das wichtigste Gebot ist {{% bible val="die Liebe zu Gott und zum Nächsten" link="lev:19,18" lang="de" %}}, was auch im {{% bible val="Neuen Testament mit der Aussage bestätigt wird, dass jeder unser Nächster ist" link="lev:19,18" lang="de" %}}.
+- Wir alle sind vor dem Gesetz gleich,
+- wir sollen den Hilflosen Barmherzigkeit erweisen, {{% bible val="so wie Israel selbst einst versklavt war" link="exo:20,2" lang="de" %}} und {{% bible val="Gott die Hilflosen schützt" link="deu:10,18" lang="de" %}}, wie in {{% bible val="3. Mose 23,22" link="lev:23,22" lang="de" %}},
+- und das wichtigste Gebot ist {{% bible val="Gott zu lieben und den Nächsten zu lieben" link="lev:19,18" lang="de" %}} — ein Gebot, das {{% bible val="im Neuen Testament bestätigt wird, wo wir erfahren, dass jeder Mensch unser Nächster ist" link="luk:10,25-37" lang="de" %}}.
 
-Die Propheten traten auf, wenn die Menschen das Gesetz und die Mentalität, die ihm zugrunde lag, missachteten. Ihre Botschaft lautete in etwa wie folgt:
+Als das Volk diese Prinzipien verließ, mussten die Propheten sie zurückrufen. Ihre grundlegende Botschaft lautete:
 
-- Gott hat euch das Gesetz gegeben, aber seht, ihr habt es gebrochen (oft, weil ihr den Götzen gefolgt seid, was Ungerechtigkeit gegenüber den Armen zur Folge hatte).
-- Darum WIRD Gott euch richten (Zukunft), wie es {{% bible val="schon im Gesetz angekündigt " link="lev:26" lang="de" %}}ist. Die Absicht war, das Volk zu erziehen (das sieht man an der {{% bible val="Wiederholung: “Wenn ihr immer noch nicht”" link="lev:26" lang="de" %}})
-- Aber {{% bible val="er WIRD Gnade haben" link="lev:26,44" lang="de" %}}, besonders, wenn {{% bible val="sie daraus lernen" link="lev:26,44" lang="de" %}}.
+- Gott hat euch das Gesetz gegeben, und seht — ihr habt es gebrochen, meist indem ihr Götzen nachgejagt seid, was wiederum Ungerechtigkeit gegenüber den Armen zur Folge hatte.
+- Deshalb wird Gott euch richten, eine zukünftige Konsequenz, {{% bible val="die schon im Gesetz selbst angekündigt ist" link="lev:26" lang="de" %}}. Es ging dabei nie um Strafe um ihrer selbst willen, sondern um die Erziehung des Volkes Gottes — man beachte, wie {{% bible val="sich die Formulierung wiederholt" link="lev:26,21" lang="de" %}} in verschiedenen Variationen von „wenn ihr immer noch nicht", wobei Gott jedes Mal den Druck erhöht, um zu sehen, ob Israel sein Verhalten endlich ändern würde.
+- Doch {{% bible val="er zeigt Gnade, wenn wir umkehren" link="lev:26,44" lang="de" %}}, besonders {{% bible val="sobald wir zeigen, dass wir die Lektion gelernt haben" link="lev:26,40-42" lang="de" %}}.
 
-Demzufolge ist das Anliegen einer Prophetie
+Die wesentlichen Merkmale der prophetischen Botschaft sind also:
 
 - die Unterdrückten zu trösten,
-- die Ungerechten in ihrem Verhalten und Denken herauszufordern,
-- in eine konkrete historische Situation zu hineinzusprechen,
-- sich an das Volk Gottes zu richten (denn nur sie hatten den Bund).
+- die Ungerechten herauszufordern, ihr Verhalten zu ändern,
+- beides innerhalb einer konkreten historischen Situation zu tun,
+- und damit im Grunde wie ein Rundschreiben an das Volk Gottes zu wirken.
 
-Das heißt aber nicht, dass es auf eine bestimmte historische Situation beschränkt ist und wir uns nicht in einer vergleichbaren Situation befinden können.
+Das bedeutet nicht, dass die Botschaft auf das erste und zweite Jahrhundert beschränkt war oder dass wir uns nie in einer vergleichbaren Situation wiederfinden könnten.
 
-Die Offenbarung verwendet verschiedene Elemente einer Prophetie:
+Die Offenbarung greift viele dieser prophetischen Elemente auf. Sie:
 
-- {{% bible val="Sie beginnt" link="lev:26,44" lang="de" %}} ähnlich wie andere prophetische Bücher des Alten Testaments.
-- Sie hat {{% bible val="Visionen mit einer Berufung" link="lev:26,44" lang="de" %}} wie auch {{% bible val="Jesaja" link="isa:6" lang="de" %}}.
-- Sie nimmt Bezug auf viele prophetische Bücher des Alten Testaments wie Jesaja, Jeremia, Daniel, Sachaja, Ezechiel, …
-- Das Buch mahnt: Zieht aus Babel aus, {{% bible val="lasst die Liebe nicht erkalten" link="isa:6" lang="de" %}}, {{% bible val="erlaubt keine falsche Lehre" link="rev:2,14-15" lang="de" %}}, …
-- Es spricht Trost aus: {{% bible val="Gottes Volk ist geschützt" link="rev:2,14-15" lang="de" %}}, {{% bible val="niemand geht verloren" link="rev:7,5-8" lang="de" %}}, {{% bible val="Gottes Reich wird definitiv kommen" link="rev:21" lang="de" %}}.
+- {{% bible val="beginnt mit einem Abschnitt" link="rev:1,1-3" lang="de" %}}, der den Anfang vieler alttestamentlicher prophetischer Bücher widerspiegelt.
+- enthält {{% bible val="eine Vision verbunden mit einer Berufung" link="rev:1,9-20" lang="de" %}}, dasselbe Muster, das sich auch in {{% bible val="Jesaja 6" link="isa:6" lang="de" %}} findet.
+- nimmt Bezug auf zahlreiche prophetische Bücher des Alten Testaments, darunter Jesaja, Jeremia, Daniel, Sacharja und Hesekiel.
+- warnt ihre Leser, aus Babel auszuziehen — {{% bible val="lasst eure Liebe nicht erkalten" link="rev:2,4" lang="de" %}}, {{% bible val="duldet keine falsche Lehre" link="rev:2,14-15" lang="de" %}}, und so weiter.
+- spendet Trost: {{% bible val="Gottes Volk ist geschützt" link="rev:7,1-4" lang="de" %}}, {{% bible val="niemand wird verloren gehen" link="rev:7,5-8" lang="de" %}}, {{% bible val="Gottes Reich wird gewiss kommen" link="rev:21" lang="de" %}}.
 
-Das Ziel der Prophetie ist es, das Verhalten zu ändern, oft mit einer emotionalen Szene, um eine Reaktion des Lesers zu provozieren.
+Das Ziel der Prophetie ist es, Verhalten zu verändern, und sie setzt dabei typischerweise auf eindrückliche Bilder, um bei ihren Lesern oder Hörern eine Reaktion hervorzurufen.
 
-Aber es gibt noch einen weiteren Aspekt. Der Sinn einer Prophetie ist, dass sie nicht eintrifft. Das klingt jetzt etwas verwunderlich, aber wird in dem Buch {{% bible val="Jona" link="jon:4" lang="de" %}} klar, als Jona sich weigert, gegen die Feinde Israels (Ninive ist der Außenposten der Assyrer) zu prophezeien, da diese sich bekehren könnten und das Gericht nicht eintritt, was ja dann auch geschieht.
+Es gibt aber noch einen weiteren Aspekt, den es hinzuzufügen lohnt: Manchmal existiert Prophetie gerade deshalb, damit sie nicht eintrifft. Das mag überraschend klingen, ist aber genau das, was im Buch {{% bible val="Jona" link="jon:4" lang="de" %}} geschieht, wo Jona sich weigert, gegen die Feinde Israels zu prophezeien — Ninive, einen Außenposten der Assyrer —, gerade weil sie sich bekehren könnten, was bedeuten würde, dass Gottes angedrohtes Gericht niemals eintritt. Und genau das geschieht dann auch.
 
-Es handelt sich nicht um eine typische Prophezeiung des Alten Testaments, da eine Vision oft nur mit einem einfachen “und ich sah” angekündigt wird und nicht so detailliert wie {{% bible val="an anderen Stellen" link="zec:1,7" lang="de" %}} des Alten Testaments.
+Auch die Prophetie der Offenbarung folgt in ihrer Form nicht dem gewöhnlichen alttestamentlichen Muster. Ihre Visionen werden meist mit einem schlichten „und ich sah" eingeleitet, während alttestamentliche Visionen in der Regel {{% bible val="weitaus kunstvoller" link="zec:1,7" lang="de" %}} eingeleitet werden.
 
 ## Eine Apokalypse {#apocalypse}
 
 <a name="apocalypse"></a>
-Das sind die ersten Worte des Buches: “Apokalypse von Jesus Christus”. Das Wort bedeutet wörtlich “Offenbarung”, wird aber leicht missverstanden, weil es Geheimnisse über die Zukunft suggeriert. In einer Apokalypse geht es aber nicht um das Ende der Welt. Wir kennen in der Bibel einige apokalyptische Texte: {{% bible val="Dan.7–12" link="dan:7" lang="de" %}}; {{% bible val="Mk.13" link="mrk:13" lang="de" %}}; {{% bible val="Mt.24" link="mat:24" lang="de" %}} und {{% bible val="Lk.21" link="luk:21" lang="de" %}}, und wir haben schon mit diesen Texten unsere Schwierigkeiten.
+Die ersten Worte des Buches lauten „_Apokalypsis Iesou Christou_", übersetzt „Die Offenbarung Jesu Christi". Das Wort „_apokalypsis_" bedeutet wörtlich „Offenbarung", aber eine direkte Übersetzung führt hier in die Irre, denn es geht nicht um eine geheime Vorhersage eines Ereignisses in naher oder ferner Zukunft. Es geht auch nicht wirklich um das Ende der Welt — sondern um das Ende böser Herrscher und der Gesellschaften, die um sie herum aufgebaut sind. Die einzigen weiteren apokalyptischen Texte der Bibel finden sich in {{% bible val="Daniel 7–12" link="dan:7" lang="de" %}}, {{% bible val="Markus 13" link="mrk:13" lang="de" %}}, {{% bible val="Matthäus 24" link="mat:24" lang="de" %}} und {{% bible val="Lukas 21" link="luk:21" lang="de" %}} — und auch diese sind notorisch schwer zu verstehen.
 
-Aber fangen wir am Anfang an: Die Apokalypse ist ein Genre wie jedes andere. Obwohl es keine endgültige Definition gibt, was genau ein apokalyptisches Buch ist, gibt es einige Gesichtspunkte, die uns helfen können.
+Fangen wir am Anfang an: Die Apokalypse ist ein Genre wie jedes andere. Es gibt keine einzige, vollständige Definition dessen, was ein Buch apokalyptisch macht, aber es gibt genug Anhaltspunkte, die uns helfen, ein solches Buch gut zu lesen.
 
-Das Ziel eines solchen Buches ist
+Ein solches Buch will das Volk Gottes durch eine Krise hindurch ermutigen, etwa durch Verfolgung, und tut dies durch:
 
-- das Volk Gottes in einer Krise (z.B. Verfolgung, Unterdrückung durch Fremde) zu ermutigen
+- schneidende Kritik an den Unterdrückern,
+- leidenschaftliche Aufrufe zum Widerstand,
+- und Vertrauen auf Gottes endgültigen Sieg über das Böse.
 
-durch
+Sie erreicht das durch [Dualismus](https://www.dwds.de/wb/Dualismus), der auf zwei Ebenen wirkt:
 
-- scharfe Kritik an den Unterdrückern,
-- leidenschaftliche Aufrufe zum Widerstand und
-- volles Vertrauen auf Gottes endgültigen Sieg über das Böse.
+- **in der Zeit** — das gegenwärtige Zeitalter ist böse, aber eine bessere Zeit kommt, und nur Gott kann diese Veränderung herbeiführen.
+- **im Charakter** — ein kosmischer und geistlicher Dualismus (Gott gegen Satan, Engel gegen Dämonen, Himmel gegen Hölle) erzeugt einen entsprechenden moralischen Dualismus (Gut gegen Böse, je nach Bündnis mit Gott oder mit Satan und seinen Verbündeten).
 
-Das geschieht durch einen [Dualismus](https://www.dwds.de/wb/Dualismus)
+Die Absicht dahinter ist, jeden zu zwingen, sich für eine Seite zu entscheiden. Einen neutralen Boden gibt es nicht.
 
-- In Bezug auf die Zeit: Es gibt eine gegenwärtige böse Zeit, aber es wird eine zukünftige gute Zeit kommen, und nur Gott kann diese Veränderung herbeiführen.
-- In Bezug auf den Charakter: es gibt einen geistlichen Dualismus (Gott vs. Satan, Engel vs. Dämonen, Himmel vs. Hölle), der einen Dualismus im Nichtgeistlichen nach sich zieht (Gut vs. Böse durch das Bündnis mit Gott oder Satan und ihren Verbündeten)
+Die symbolische Sprache schärft diese doppelte Realität, statt sie zu verschleiern — sie will keine zukünftige Realität wörtlich beschreiben, sondern uns geistliche Einsicht in die gegenwärtige geben.
 
-Im Klartext heißt das, jeder muss sich für eine Seite entscheiden, es gibt keinen neutralen Boden.
-
-Es wird viel Symbolsprache verwendet, um auf die (duale) Realität aufmerksam zu machen und den Unterschied zwischen diesen beiden Realitäten zu verdeutlichen. Es geht nicht so sehr um eine Beschreibung der Zukunft, sondern um ein spirituelles Verständnis der gegenwärtigen Realität, in der Handeln notwendig ist.
-
-Die heute am ehesten vergleichbare literarische Form wäre der politische Cartoon.
+Der modernen Welt am nächsten kommt eine Apokalypse vielleicht als politische Karikatur.
 
 ![](/images/20200620_WWD000.avif) <!-- https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" -->
 
-Wenn du dieses Bild siehst, wirst du seine Botschaft verstehen, ohne an die Existenz von Drachen zu glauben oder daran, dass sie jemals Yoga praktizieren.
+Betrachten wir eine solche Karikatur, verstehen wir die Botschaft sofort, ohne anzunehmen, dass Drachen Yoga praktizieren oder überhaupt existieren. Die Offenbarung funktioniert genauso, und wir können dieselben Elemente in ihr am Werk sehen:
 
-In der Offenbarung haben wir ähnliche Elemente:
-
-- Es gibt einen bösen Herrscher (der gegen das Volk Gottes arbeitet), aber eine bessere Zeit kommt mit der neuen Schöpfung in Kapitel 21.
-- Das Buch lässt keinen Raum für Kompromisse und ist voller Entweder-Oder (Lamm oder Drache, Jerusalem oder Babel, Siegel Gottes oder Zeichen des Tieres, Anbeter Gottes oder Anbeter des Tieres, …), es stellt die politische Ordnung und die Ideologie in Frage (nicht der Kaiser in Rom, sondern Jesus ist der wahre König, nicht der römische Friede, sondern das Reich Gottes, nicht die Treue zum Kaiser, sondern der Glaube an Jesus).
+- Es gibt eindeutig einen bösen Herrscher, der sich gegen das Volk Gottes stellt, aber Kapitel 21 versichert uns, dass mit der neuen Schöpfung eine bessere Zeit kommt.
+- Das Buch lässt keinen Raum für Kompromisse. Es ist vollständig aus „Entweder-oder"-Paaren aufgebaut — Lamm gegen Drache, Jerusalem gegen Babel, das Siegel Gottes gegen das Malzeichen des Tieres, Anbeter Gottes gegen Anbeter des Tieres —, wobei jedes Paar die politische Ordnung und die dahinterstehende Ideologie infrage stellt. Der entscheidende Punkt ist dabei stets: Der wahre König ist Jesus, nicht der Kaiser; das wahre Ziel ist das Reich Gottes, nicht der römische Frieden; und gefordert ist der Glaube an Jesus, nicht die Treue zum Kaiser.
 
 ## Zusammenfassung {#summary}
 
 <a name="summary"></a>
-Wenn wir das Buch lesen, müssen wir es unter folgenden Aspekten lesen
+Das Buch gut zu lesen bedeutet, drei Dinge zugleich im Blick zu behalten. Die Offenbarung ist:
 
-- als Brief: es muss für die ersten Leser vor 2000 Jahren Sinn gemacht haben und anwendbar gewesen sein
-- als Prophetie: es soll Menschen ermutigen, in schwierigen Situationen zu handeln — nicht in der Zukunft, sondern jetzt, mit emotional bewegenden Bildern
-- als Apokalypse: sie zwingt zu kompromisslosem Leben, karikiert die Mächtigen dieser Welt und zeigt uns die “Entweder-oder”-Welt.
+- ein Brief, der für reale Menschen im ersten und zweiten Jahrhundert Sinn ergeben musste.
+- eine Prophetie, die Menschen ermutigen soll, hier und jetzt anders zu handeln — nicht erst irgendwann in der Zukunft —, und die dafür starkes, emotional bewegendes Material einsetzt.
+- eine Apokalypse, die das Volk Gottes zwingt, Kompromisse abzulehnen und sich korrupten Herrschern zu widersetzen, indem sie die Welt als „Entweder-oder"-Entscheidung beschreibt.
 
-Mit anderen Worten, das Buch ist nicht
+Was das Buch *nicht* ist:
 
-- ein Blick in die Zukunft (für antike Leser), um Ereignisse zu beschreiben, die mit dem Leben der ersten Leser nichts zu tun hatten oder
-- eine Beschreibung, wie man sich durch die Verhältnisse durchwursteln kann, sondern wie wir konkret Stellung beziehen.
+- ein Blick in die ferne Zukunft (aus Sicht seiner antiken Hörer), der Ereignisse beschreibt, die mit ihnen überhaupt nichts zu tun hatten.
+- eine schlichte Beschreibung dessen, wie die Zukunft aussehen wird.

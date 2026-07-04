@@ -8,77 +8,59 @@ next: /expl/content/vision/setting-the-foundation
 docType: expl
 ---
 
-Kutsal Kitap’taki Vahiy kitabı 1260 gün, 42 ay ve benzeri garip zaman dilimleriyle doludur. Bunlar ne anlama gelmektedir? Ve gerçek anlamda bir anlamları var mı?
+Vahiy kitabı, 1260 gün, 42 ay gibi tuhaf zaman dilimleriyle doludur. Bunlar ne anlama gelir ve gerçek anlamda mı alınmaları gerekir?
 
-## Daha önce okumak isteyebilirsiniz
+## Önce okumak isteyebilirsiniz
 
 <a name="f73a"></a>
-- {{% int_link val="Daniel’in kitabı" link="/expl/bible/daniel/the-book-of-daniel" %}}
-- {{% int_link val="Daniel’deki dört krallık" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}
-- {{% int_link val="70 yıl" link="/expl/bible/daniel/the-70-year-weeks" %}}
+- {{% int_link val="Daniel'in kitabı" link="/expl/bible/daniel/the-book-of-daniel" %}}
+- {{% int_link val="Daniel'deki dört krallık" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}
+- {{% int_link val="70 yıllık haftalar" link="/expl/bible/daniel/the-70-year-weeks" %}}
 
 ## Biraz matematik
 
 <a name="05a6"></a>
-Vahiy Kitabı’nın 11 ila 13. bölümlerinde farklı zamanlara ilişkin dört referans vardır.
+Vahiy kitabının 11 ile 13. bölümleri arasında, farklı zamanlara dair dört referans bulunur.
 
 | Zaman | Referans |
 |-------|----------|
-| 42 ay | {{% bible val="Tapınağın dış alanı paganlara bırakılmıştır" link="rev:11,2" lang="tr" %}} |
-| 1260 gün | {{% bible val="kehanet ile tanıklık" link="rev:11,3" lang="tr" %}} |
-| 1260 gün | {{% bible val="Kadın çölde korunuyor" link="rev:12,6" lang="tr" %}} |
-| 3,5 kez | {{% bible val="Kadın çölde korunuyor" link="rev:12,14" lang="tr" %}} |
-| 42 ay | {{% bible val="İlk canavar küfrediyor" link="rev:13,5" lang="tr" %}} |
+| 42 ay | {{% bible val="Tapınağın dış alanı paganlara bırakılır" link="rev:11,2" lang="tr" %}} |
+| 1260 gün | {{% bible val="peygamberlikle tanıklık eden tanıklar" link="rev:11,3" lang="tr" %}} |
+| 1260 gün | {{% bible val="Kadın çölde korunur" link="rev:12,6" lang="tr" %}} |
+| 3,5 zaman | {{% bible val="Kadın çölde korunur" link="rev:12,14" lang="tr" %}} |
+| 42 ay | {{% bible val="İlk canavar küfreder" link="rev:13,5" lang="tr" %}} |
 
-Üç farklı zaman söz konusudur; 3,5 zaman, iki zaman ve yarım zaman olarak belirtilir. Eğer 30 günlük bir ay varsayarsak
+Yani burada gerçekte üç farklı zaman ifadesi vardır — üçüncüsü, "3,5 zaman", tam olarak "bir zaman, iki zaman ve yarım zaman" olarak adlandırılır. Bir ayı 30 gün varsayarsak, üçü de aynı uzunluğa denk gelir: 1260 gün = 42 ay = 3,5 yıl = 3,5 zaman.
 
-1260 gün = 42 ay = 3,5 yıl =? 3,5 kat
+Bu da devam etmeden önce sormaya değer üç soru doğurur. Bu dönemler birbirini sırayla mı izliyor, yoksa paralel, örtüşen etkinlikleri mi anlatıyor? Sembolik mi yoksa tam süreler olarak gerçek anlamda mı alınmalılar? Ve metin neden tek bir birim kullanmak yerine gün, ay, "zaman" arasında geçiş yapıyor?
 
-Peki bu zamanlar birbirini takip ediyor mu yoksa hepsi paralel faaliyetleri mi tanımlıyor?
-
-Zamanlar sembolik mi yoksa gerçek anlamda mı (tam olarak 1260 gün)?
-
-Ve neden aynı birimde (aylar veya günler) değiller?
-
-Önce Eski Antlaşma’nın arka planına bir göz atalım.
+Bunları yanıtlamak için önce Eski Antlaşma arka planına ihtiyacımız var.
 
 ## İlyas ve kuraklık (1. Krallar 16/29–18/35)
 
-<a name="08ef"></a>
-İsrail Kralı Ahav Sidonlu (İsrail’in kuzeyi) İzebel’le evlenir. Bereket tanrıları olan Baal ve Aşera’yı (çok çocuk, iyi hasat, güçlü ordular — atlar) tanıtır. Ancak bunun anahtarı çoğu durumda şudur: {{% bible val="Yeterli yağmur" link="1ki:17,8" lang="tr" %}}.
+<a name="89d3"></a>
+İsrail Kralı Ahav, İsrail'in kuzeyindeki bir kent olan Sidonlu İzebel'le evlenir; o da beraberinde Baal ve Aşera'ya tapınmayı getirir — bunlar bereket tanrılarıdır ve çok çocuk, bol hasat, güçlü ordular vaat ederler. Ama bunların neredeyse tamamı tek bir şeye bağlıdır: {{% bible val="yeterli yağmura" link="1ki:17,1" lang="tr" %}}.
 
-{{% bible val="Bunun üzerine Tanrı İlyas’ı" link="1ki:17,1" lang="tr" %}} {{% bible val="3,5 yıl" link="luk:4,25" lang="tr" %}} sürecek bir kuraklık çağrısı yapması için gönderir. Ona kuzgunlar yardım eder. {{% bible val="Daha sonra Sidon’da ölmek üzere olan bir oğlu olan dul bir kadına gider ve onu kurtarır, böylece kadın Tanrı’ya inanır." link="1ki:17,6-24" lang="tr" %}}
+Bu yüzden Tanrı, {{% bible val="3,5 yıl süren" link="luk:4,25" lang="tr" %}} bir kuraklığı duyurması için {{% bible val="İlyas'ı gönderir" link="1ki:17,1" lang="tr" %}}; bu süre boyunca İlyas'ı kuzgunlar besler. Daha sonra {{% bible val="Sidon'da, ölmek üzere olan oğlunu kurtardığı bir dul kadına gider ve kadın Tanrı'ya inanır" link="1ki:17,6-24" lang="tr" %}} — İzebel'in kendi memleketinde yetişen bir imanlı.
 
-İzebel’in memleketine müdahale ettikten sonra, {{% bible val="Karmel dağında gerçek Tanrı’nın kim olduğu konusunda büyük bir güç mücadelesi" link="1ki:18,16-46" lang="tr" %}} yaşanır. Gerçek Tanrı, {{% bible val="ikinci canavarın da yapabileceği" link="rev:13,13" lang="tr" %}} {{% bible val="bir şey olan gökten ateş yağdırabilen Tanrı’dır" link="1ki:18,16-46" lang="tr" %}}.
+İzebel'in kendi topraklarındaki bu müdahalenin ardından, {{% bible val="gerçek Tanrı'nın kim olduğuna dair Karmel Dağı'ndaki büyük güç mücadelesi" link="1ki:18,16-46" lang="tr" %}} gelir. Sınama basittir: gerçek Tanrı, {{% bible val="gökten ateş indirebilen" link="1ki:18,24" lang="tr" %}} Tanrı'dır — dikkat çekici biçimde, bu, Vahiy'de {{% bible val="ikinci canavarın da yaptığı" link="rev:13,13" lang="tr" %}} aynı gösteridir. Bütün bu bölüm, tek bir soru üzerinde döner: gerçek Tanrı kimdir?
 
-Buradaki mücadele ve soru şudur: “Gerçek Tanrı kimdir?”
-
-## Daniel’de yıl haftası
+## Daniel'deki yıl haftası
 
 <a name="eb7b"></a>
-{{% int_link val="Daniel’de her biri 3,5 yıl uzunluğunda iki yarım haftayla sonuçlanan 70 hafta vardır" link="/expl/bible/daniel/the-70-year-weeks" %}}. İlk yarım hafta İsa’nın yeryüzündeki zamanını, ikincisi ise kilise çalışmalarını anlatır. Ayrıca İsa’nın antlaşmasının da bu{{% bible val=" hafta içinde olacağı anlatılır" link="dan:9,27" lang="tr" %}}.
+Daniel bize {{% int_link val="her biri 3,5 yıl olan iki yarım haftaya ayrılan 70 haftayı" link="/expl/bible/daniel/the-70-year-weeks" %}} verir. İlk yarım hafta İsa'nın yeryüzündeki zamanını, ikincisi ise belki de kilisenin işini kapsar. İsa'nın antlaşmasının {{% bible val="bu hafta içinde kurulduğu" link="dan:9,27" lang="tr" %}} zaten anlatılır.
 
-Bu 3,5 yıl, Tanrı’nın bu dünyanın krallıklarını yıkacak olan arka planda inşa ettiği şeydir.
+Bu 3,5 yıl, öyleyse, Tanrı'nın bu dünyanın krallıklarını devirecek olan şeyi sessizce inşa ettiği dönemdir.
 
-## Vahiy’deki 3,5 yıl nedir?
+## Vahiy'deki 3,5 yıl nedir
 
 <a name="b4e3"></a>
-Şimdi 13. bölümle başlayalım. {{% int_link val="Bu, şeytanın oynadığı aldatmacadı" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}r. Ne zaman başlıyor? 12. bölüme göre bu, İsa’nın çarmıhtaki ölümünden sonra, Tanrı tarafından korunan İsrail’i yok edemeyeceğini anladığında, yani ölümünden hemen sonra gerçekleşir.
+{{% int_link val="Şeytanın aldatmacasını anlatan" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} 13. bölümden başlayarak metinleri sırayla inceleyelim. Ne zaman başlar? 12. bölüme göre, İsa'nın çarmıhtaki ölümünden sonra, şeytan İsrail'i yok edemeyeceğini anladığında başlar, çünkü Tanrı onu korumaktadır — yani, esasen İsa'nın ölümünden hemen sonra. Ne zaman durur? Zorunlu kalana dek durmaz: İsa geri dönene kadar.
 
-Ne zaman duracak? Mecbur kalmadıkça asla, yani İsa geri gelene kadar.
+Aynı zamanda kadın, {{% bible val="şeytanın saldırısından korunur" link="rev:12,6" lang="tr" %}} ve {{% bible val="çölde beslenir" link="rev:12,14" lang="tr" %}}. Bu dönem, İsa'nın çarmıhtaki zaferinin anında başlar ve aynı şekilde ancak şeytanın kendisi ortadan kalktığında, yine İsa'nın gelişinde sona erer.
 
-{{% bible val="Aynı zamanda kadın şeytanların saldırısından korunur" link="rev:12,6" lang="tr" %}} ve {{% bible val="çölde sağlanır" link="rev:12,14" lang="tr" %}}. Ne zaman başlıyor? İsa’nın çarmıhtaki zaferinden hemen sonra. Ne zaman sona erer? Şeytan etrafta olduğu sürece. Yani İsa geri dönene kadar.
+Sonra {{% bible val="tapınak" link="rev:11,1-2" lang="tr" %}} vardır; artık kurbanlar için değil, bir ibadet yeri olarak kullanılır. Bu da İsa'nın ölümüyle başlar ve İsa geri dönmeden önce sona ereceğine dair hiçbir belirti yoktur.
 
-Sonra {{% bible val="tapınağımız" link="rev:11,1-2" lang="tr" %}} var. Artık kurbanlar için değil, ibadet yeri olarak kullanılıyor. Ne zaman başlıyor? İsa’nın ölümüyle. Ne zaman sona erecek? İsa geri gelene kadar biteceğini sanmıyorum.
+Geriye {{% bible val="iki tanığın 1260 günü" link="rev:11,3" lang="tr" %}} kalır; bu da İsa'nın birinci ve ikinci gelişi arasındaki tüm süreyi kapsamalıdır. Bu uzunluğun kendisi, "tanıkların" gerçekte iki kişi değil, büyük olasılıkla Kilise olduğunu düşündürür.
 
-{{% bible val="Böylece geriye iki tanığın 1260 günü kalır" link="rev:11,3" lang="tr" %}}. Bu da İsa’nın birinci ve ikinci gelişi arasındaki süreyi kapsıyor olmalıdır. Yani onlar gerçekten iki kişi değil, büyük olasılıkla kilisedir.
-
-Peki neden farklı birimler (günler, aylar, …) kullanılmaktadır? Tanıkların yönetimi ve İsrail’in sağlanması söz konusu olduğunda günler kullanılırken, şeytanın yönetimi ve tapınağın dış mahallelerinin yıkımı için aylar ve Tanrı’nın gizli işi için 3,5 yıl/zaman kullanılır. Belki de bu kullanım, şeytanın sadece 42 ayına kıyasla kilisenin 1260 gününün bolluğunu göstermek için yapılmıştır. Ama bu biraz tahmin. Gerçekten bir fikrim yok.
-
-## Bu ne anlama geliyor?
-
-<a name="1562"></a>
-Peki, bu ne anlama geliyor?
-
-Şeytanın egemenliği ile kilisenin mutlak egemenliği birbirine paraleldir. Dünya şeytan tarafından yönetiliyor gibi görünse bile, kilise hala sorumludur.
-
+Peki metin neden birim değiştiriyor — burada gün, orada ay? Günler, tanıkların egemenliğini ve İsrail'in korunmasını işaret eder; aylar, şeytanın egemenliğini ve tapınağın dış avlusunun çiğnenmesini işaret eder; yıllar ya da "zamanlar" ise Tanrı'nın gizli işini işaret eder. Bir tahmine göre bu fark, Kilise'nin bereketli 1260 gününü şeytanın sefil 42 ayına karşı vurgulamak içindir — ama bu elbette bir varsayım; kesin bir yanıtım yok. Paralelliğin açıkça ortaya koyduğu şey ise şudur: şeytanın egemenliğiyle Kilise'nin Tanrı vergisi egemenliği yan yana yürür ve dünya sanki şeytan yönetiyormuş gibi görünse de, gerçekte yöneten hâlâ Kilise'dir.

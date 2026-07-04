@@ -6,11 +6,9 @@ next: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelati
 docType: expl
 ---
 
-We will guide you through the explanations.
+This is the deep-dive track: a detailed, footnoted explanation of why this reading of the book holds up, verse by verse.
 
-This gives you a more detailed explanation to why I think this is a good understanding. You see at the end of most pages a link where I reference great theologians and their contribution to the Book of Revelation. 
+At the end of most pages you'll find a link to the theologians and scholarship behind that page's argument. If a page's explanation doesn't fully satisfy you, those are the books to go dig into — the reading list here has deliberately been kept short.
 
-If you are not satisfied with the description there you can dive into these books (I tried to keep the number of book small) and get more detailed information from there.
-
-This will take you about 6 hours if you want to read it through. If you want to check all the bible verse it will take a bit longer.
+Reading straight through takes about 6 hours. Checking every Bible reference along the way will take a bit longer.
 

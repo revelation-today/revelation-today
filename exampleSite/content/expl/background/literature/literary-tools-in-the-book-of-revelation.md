@@ -12,226 +12,226 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-How did the original audience read the book of Revelation? There were no headings or paragraphs, just plain text. Let us take a look at this very different way of reading.
+How did the original audience actually read the book of Revelation? There were no headings, no paragraph breaks, no chapters or verses — just a continuous run of text. Let's take a look at this very different way of reading, and what it means for how we study the book today.
 
 ## Introduction
 
 <a name="0559"></a>
-Hebrew literature is very different from ours. They did not have chapters or verses, but letters in rows with minimal graphic or visual indicators, since they were meant to be read aloud (heard) rather than seen.
+Hebrew literature works very differently from ours. It had no chapters or verses, just letters running in rows with minimal graphic or visual cues, because it was meant to be read aloud and heard, not scanned by eye on a page.
 
-There are indicators to show where a story begins and ends, how the stories are connected and organized, and where the emphasis is. But even the breaking of such structure can give a signal to the reader. We get a much richer understanding when we study and understand these structures, but we should not force it so that we see structure where the author did not intend it.
+Even so, the text carries indicators for where a story begins and ends, how stories connect and get organized, and where the emphasis falls — and even a deliberate break in that structure can signal something to the reader. Learning to recognize these structures gives us a much richer understanding of the text, but we have to be careful not to force patterns onto passages where the author never intended them.
 
-## Basis steps
+## Basic steps
 
 <a name="99e1"></a>
-To understand the literature, it is useful to follow these three steps
+To read this kind of literature well, it helps to follow three steps.
 
-1, Identify the unit
+1. Identify the unit.
 
-- Units can be on word level or larger units of text.
-- This even happens on a cascading level because the human brain cannot handle too many small units, so they are usually broken into 3 to 9 units and then collected into a super unit.
+    - Units can occur at the level of a single word or span much larger blocks of text.
+    - This happens on a cascading scale, because the human brain can't track too many small units at once — so they're usually grouped into sets of 3 to 9, which are then collected into a larger "super unit."
 
-2, Analyze the arrangement of these units
+2. Analyze how these units are arranged.
 
-- Could by repetitive, parallel, non-linear
+    - The arrangement could be repetitive, parallel, or non-linear.
 
-3, Consider the relationship of the structure to its meaning
+3. Consider how that structure relates to meaning.
 
-- Shows where the author’s focus is.
-- In a symmetrical structure, the emphasis is often in the center.
-- The mix of parallels and contrasts within a structure can also be used as emphasis.
-- Breaks in flow can also draw attention.
+    - It shows where the author's focus lies.
+    - In a symmetrical structure, the emphasis usually sits at the center.
+    - Mixing parallels and contrasts within a structure can itself be used for emphasis.
+    - Breaks in the flow can also draw the reader's attention.
 
 ## Identify units
 
 <a name="4287"></a>
-The first step is to identify the units. This has three parts: start markers, end markers, and independence.
+The first step, identifying the units themselves, breaks down into three parts: start markers, end markers, and independence.
 
-Start markers can also be combined:
+Start markers can appear on their own or in combination:
 
-- Title,
-- Introductory phrase (“these are the generations”),
-- Common opening phrase (“hear”, “thus says the Lord”),
-- Rhetorical questions,
-- Shift in time, place, characters or speakers, theme, genre, pace, tense or mood.
+- a title,
+- an introductory phrase ("these are the generations"),
+- a common opening phrase ("hear," "thus says the Lord"),
+- a rhetorical question,
+- a shift in time, place, characters or speakers, theme, genre, pace, tense, or mood.
 
-End markers could be
+End markers can include:
 
-- Closing formula,
-- Poetic refrain,
-- Conclusion or summary,
-- Flashback.
+- a closing formula,
+- a poetic refrain,
+- a conclusion or summary,
+- a flashback.
 
-Unit as an independent, self-contained and complete package
+A unit should also function as an independent, self-contained, complete package, marked by:
 
-- Uniqueness in time, place, participants, theme, genre, speed of action, …,
-- Easily accessible to the audience,
-- Compatibility in content,
-- Package size: typically 15–20 pages (large) or Bible chapter (medium) or single sentence or several paragraphs (small),
-- Usually 7 or 13, 14 units, but 3 or 5 are also possible.
+- uniqueness in time, place, participants, theme, genre, or speed of action,
+- easy accessibility to the audience,
+- internal compatibility of content,
+- a consistent package size — typically 15–20 pages (large), a Bible chapter (medium), or a single sentence to a few paragraphs (small),
+- a typical count of 7 or 13–14 units, though 3 or 5 are also possible.
 
 ## The arrangement of units
 
 <a name="6850"></a>
-There are three types that can be combined
+Three basic types of arrangement exist, and they can also be combined:
 
 - linear (a-b-c-d-e-f),
-- parallel (a-b-c-a’-b’-c’),
-- symmetric (a-b-c-’b’-a’).
+- parallel (a-b-c-a'-b'-c'),
+- symmetric (a-b-c-'b'-a').
 
-There are many combinations
+Many combinations are possible:
 
-- a-b-c-d-e-a’ combines linear and symmetric patterns, like a sentence that starts with an assumption and ends with a summary that proves the assumption.
-- a-b-c-d-’b’-c’-a’ is a modified symmetry, a combination of symmetric and parallel patterns, and would draw the reader’s attention to the b’-c’ switch.
-- a-a’-b-b’-c-c’-d-d’ combines linear and parallel patterns and can tell parallel but distinctive stories like Gen.38/2–50/26.
+- a-b-c-d-e-a' combines linear and symmetric patterns — like a sentence that opens with an assumption and closes with a summary that proves it.
+- a-b-c-d-'b'-c'-a' is a modified symmetry, blending symmetric and parallel patterns, which draws the reader's attention specifically to the b'-c' switch.
+- a-a'-b-b'-c-c'-d-d' combines linear and parallel patterns and can tell parallel but distinct stories, as in Gen. 38/2–50/26.
 
-The same story can be seen in different patterns, e.g. for Gen.37/2–50/26 it can be red as a-b-c-d-e-f-g-g’-f’-e’-d’-c’-b’-a’ or a-a’-b-b’-c-c’-d-d’-e-e’-f-f’-g-g’.
+The very same story can even be read in more than one pattern at once. Gen. 37/2–50/26, for example, can be read as a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a', or equally as a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
 
 ### Linear pattern
 
 <a name="c981"></a>
-They are easy to follow. They could be
+Linear patterns are the easiest to follow. They can be:
 
-- chronological, like stories with some overlap of the timeline or flashback or other brackets
-- non-chronological like spatial (north, east, south, west) or collection or along the alphabet
+- chronological — stories with some overlap in the timeline, a flashback, or other framing devices, or
+- non-chronological — organized spatially (north, east, south, west), by collection, or along the alphabet.
 
 ### Parallel pattern
 
 <a name="eb0a"></a>
-They can be set like a-b-c-a’-b’-c’, where the respective x’ has a similar theme, structure, … as x, e.g. Ps.19/1–2
+Parallel patterns follow a scheme like a-b-c-a'-b'-c', where each x' shares a similar theme or structure with its corresponding x. Take Ps. 19/1–2:
 
 - a: the heavens
 - b: tell of
-- c: God’s glory
-- a’: the heavens
-- b: proclaims
-- c: his work
+- c: God's glory
+- a': the heavens
+- b': proclaim
+- c': his work
 
-There may be parts that do not match, they may be at the end (a-b-c-a’-b’-c’, d), in the middle (a-b-c-d-a’-b’-c’), or rarely at the beginning (a-b-c-d-a’-b’-c’).
+Some parts may not fit the pattern at all — they can trail off at the end (a-b-c-a'-b'-c', d), sit in the middle (a-b-c-d-a'-b'-c'), or, more rarely, appear at the beginning (a-b-c-d-a'-b'-c').
 
-Parallel patterns may not be so easy to recognize, but they provide a point of satisfaction and anticipation. We have this in fairy tales like The Three Little Pigs (in the second house we think we know the pattern and the author can surprise us in the third house where he gives a lecture).
+Parallel patterns aren't always easy to spot, but they create a real sense of anticipation and satisfaction once recognized. We see the same effect in fairy tales like The Three Little Pigs: by the second house we think we've learned the pattern, and the author can then surprise us in the third, where he delivers the lecture.
 
-Parallel pattern
+A parallel pattern:
 
-- Makes it easier to remember
-- Can introduce comparison, contrast, emphasis, explanation, illustration
+- makes the material easier to remember,
+- and can introduce comparison, contrast, emphasis, explanation, or illustration.
 
-Example: Jonah
+Take Jonah as an example. In the tables below, **bold** marks one recurring theme and *italic* marks its paired counterpart, so you can trace how each element in the first half is answered by its match in the second:
 
-- a: Jonah’s <span style="background:green">commission</span> and <span style="background:red">disobedience</span> (1:1–3)
-	- b: Jonah and the <span style="background:red">Gentile Sailors</span>: <span style="background:green">YHWH is merciful</span> (1/4–16)
-		- c: <span style="background:green">Jonah’s Response to YHWH’S Mercy</span>: <span style="background:red">Praise</span> (1–17–2/10)
-- a’: Jonah’s <span style="background:green">Recommitment</span> and <span style="background:red">Obedience</span> (3/1–3a)
-	- b’: Jonah and the <span style="background:red">pagan Ninevites</span>: <span style="background:green">YHWH is merciful</span> (3/3b-10)
-		- c’: <span style="background:green">Jonah’s response to YHWH’s mercy</span>: <span style="background:red">resentment</span> (4/1–4)
-- d: YHWH’s lesson (4/5–11)
+- a: Jonah's **commission** and *disobedience* (1:1–3)
+	- b: Jonah and the *Gentile Sailors*: **YHWH is merciful** (1/4–16)
+		- c: **Jonah's Response to YHWH's Mercy**: *Praise* (1–17–2/10)
+- a': Jonah's **Recommitment** and *Obedience* (3/1–3a)
+	- b': Jonah and the *pagan Ninevites*: **YHWH is merciful** (3/3b-10)
+		- c': **Jonah's response to YHWH's mercy**: *resentment* (4/1–4)
+- d: YHWH's lesson (4/5–11)
 
-This structure gives the impression that his first prayer was hypocritical and his second selfish, but the arrangement of the story can convey this through the structure without being moralizing.
+This structure leaves the impression that Jonah's first prayer was hypocritical and his second selfish — a judgment the story never states outright but conveys entirely through its own arrangement, without ever moralizing.
 
 ### Symmetric patterns
 
 <a name="d519"></a>
-These are patterns like a-b-b’-a’ e.g. {{% bible val="Isa.22/22" link="isa:22,22" lang="en" %}} (looking at “open/close”) 
+These follow a pattern like a-b-b'-a', as in {{% bible val="Isa.22/22" link="isa:22,22" lang="en" %}}, which plays on the idea of "open/close":
 
-- a: he shall open 
-	- b: and no one will shut 
-	- b’: he shall shut 
-- a’: and no one will open
+- a: he shall open
+	- b: and no one will shut
+	- b': he shall shut
+- a': and no one will open
 
-This has the pattern of the left part of an X (in Greek this is the letter Chi). Such a pattern is also called a chiasm.
+Traced out, this forms the left half of an X — the Greek letter Chi — which is why this kind of pattern is called a chiasm.
 
-This can also be applied to enire books of the Bible, e.g.  {{% bible val="Judg.3/7–16/31" link="jdg:3,7-16,31" lang="en" %}} 
+The same technique can shape entire books of the Bible, as in {{% bible val="Judg.3/7–16/31" link="jdg:3,7-16,31" lang="en" %}}. Here too, **bold** marks one recurring theme and *italic* marks its paired counterpart, so you can see how the outer units answer each other around the central turning point:
 
-- a: Othniel and his <span style="background:red">good</span> <span style="background:green">wife</span> (3/7–11) 
-	- b: Ehud and the <span style="background:red">victory</span> at the <span style="background:green">Jordan fords</span> (3/12–31) 
-		- c: Deborah: <span style="background:red">enemy’s</span> <span style="background:green">skull crushed by woman</span> (4/1–5/31) 
-			- d: Gideon: turning point (6/1–8/32) 
-		- c’: Abimelech: <span style="background:red">judge’s</span> <span style="background:green">skull crushed by woman</span> (8/33–10/5) 
-	- b’: Jephthah and <span style="background:red">civil war</span> at the <span style="background:green">Jordan fords</span> (10/6–12/15) 
-- a’: Samson and his <span style="background:red">bad</span> <span style="background:green">wifes</span> (13/1–16/31)
+- a: Othniel and his *good* **wife** (3/7–11)
+	- b: Ehud and the *victory* at the **Jordan fords** (3/12–31)
+		- c: Deborah: *enemy's* **skull crushed by woman** (4/1–5/31)
+			- d: Gideon: turning point (6/1–8/32)
+		- c': Abimelech: *judge's* **skull crushed by woman** (8/33–10/5)
+	- b': Jephthah and *civil war* at the **Jordan fords** (10/6–12/15)
+- a': Samson and his *bad* **wives** (13/1–16/31)
 
-This approach has several advantages
+This kind of symmetrical approach has several real advantages:
 
-- Beauty: aesthetic quality of balanced presentation
-- Coherence: symmetry reinforces unity
-- Completeness: Audience sees when winding down and comes full circle.
-- Contrapuntal pivot: in the case of an uneven number of units, see above, there is a turning point where both sides strive for and make this natural focal point. In the example above, Gideon’s Rule is the focal point.
-- Memory aid: audience can remember successive point easier (usually learn it by heart)
-- Opportunities to use repetition: Adding opportunities to compare, contract, reiterate, emphasize, explain or illustrate.
+- **Beauty** — the aesthetic quality of a balanced presentation.
+- **Coherence** — symmetry reinforces the unity of the whole.
+- **Completeness** — the audience senses the structure winding down and coming full circle.
+- **Contrapuntal pivot** — when the number of units is uneven, as above, a natural turning point emerges that both halves lean toward. In the Judges example, Gideon's story is that focal point.
+- **Memory aid** — the audience can more easily recall successive points, often enough to learn the whole sequence by heart.
+- **Opportunities for repetition** — comparing, contrasting, reiterating, emphasizing, explaining, or illustrating becomes easier.
 
-This also has a disadvantage:
+It has a cost, too:
 
-- requires more from the audience to recognize it,
-- requires more work from the author.
+- it demands more from the audience to recognize it,
+- and it demands more work from the author to construct it.
 
-But in spite of all odds, the symmetrical form was very much appreciated in the ancient world.
+Even so, the symmetrical form was highly prized in the ancient world, in spite of that cost.
 
 ## Understanding structures
 
 <a name="45e5"></a>
-The structure of the text has a lot to do with the meaning, for example, when a text is not meant to be explicitly moralistic, but rather to have an impact, as in the story of the three little pigs.
+The structure of a text often carries a large part of its meaning — especially when the text isn't meant to state its point explicitly, but rather to have an impact, the way the story of the three little pigs works on its listeners.
 
-There are three main ways to convey meaning through structure
+There are three main ways a structure can convey meaning:
 
-- Overall compositional structure
-- Structured repetition
-- Position of emphasis
+- overall compositional structure,
+- structured repetition,
+- and position of emphasis.
 
 ### Overall structure
 
 <a name="8d71"></a>
-The overall structure can convey the author’s message.
+The overall structure of a passage can carry the author's message all on its own — the shape of the whole becomes part of what's being said.
 
 ### Structured repetition
 
 <a name="315d"></a>
-Not all structures are used to show meaning, sometimes it is just for artistic beauty, these are
+Not every structural repetition is there to convey meaning; sometimes it exists purely for artistic beauty. Three common types serve that decorative function:
 
-- Structural: helps create a structural scheme for the composition, e.g., listing Noah’s three sons before and after the flood (Gen 6/9–10 and 9/18–19) creates balances and brackets the story.
-- Elaboration: Second unit of the paired unit develops the theme, e.g., Gen 28/6–9 introduces Esau’s wife while Gen 36 traces the rest of Esau’s family.
-- Second perspective: Takes the first unit from a different point of view or summarizes it, e.g. the crossing of the Jordan gives two points of view (Josh.3/9–17: from the east a crossing begins and is completed, Josh.4/10–13: from the west as it proceeds and is completed).
+- **Structural** — helps build a scaffold for the composition. Listing Noah's three sons both before and after the flood (Gen 6/9–10 and 9/18–19), for example, creates balance and brackets the story.
+- **Elaboration** — the second unit in a paired set develops the theme further. Gen 28/6–9 introduces Esau's wife, and Gen 36 then traces the rest of Esau's family in full.
+- **Second perspective** — the second unit retells the first from a different point of view, or summarizes it. The crossing of the Jordan is told from two angles: Josh. 3/9–17 shows the crossing beginning and completing from the eastern side, and Josh. 4/10–13 shows the same event proceeding and completing from the western side.
 
-On the other hand, it can also be used to convey meaning, as in the prayer of Jonah (Jon.2/2–9 and 4/1–3).
+But structured repetition can also be used to convey meaning directly, as in the prayer of Jonah (Jon. 2/2–9 and 4/1–3).
 
-The advantage is that the author can make a point subtly, and this is much appreciated by the audience, since most people don’t like to be pointed out to and quickly tire of being pointed out to. This invites the listener to discover the meaning, to participate, to think. This makes communication more interesting, more enjoyable, and therefore more effective. Think about how pedantic it would be to explain the point at the beginning of The Three Little Pigs.
+The advantage of doing it this way is that the author can make a point subtly, which audiences appreciate — most people resist being lectured and grow tired quickly of a point hammered home directly. A subtler structure invites the listener to discover the meaning for themselves, to participate, to think it through. That makes the communication more interesting, more enjoyable, and ultimately more effective. Imagine how pedantic it would feel if The Three Little Pigs opened by simply stating its own moral.
 
-This can be done in several ways in the Hebrew language:
+Hebrew literature achieves this in several distinct ways:
 
-- Emphasis: by repeating a point can be emphasized, e.g. Dan. 2 and 7, that human kingdoms will rise, but they will fall and only God’s kingdom will remain.
-- To emphasize a pattern: to draw attention to a particular pattern, especially a pattern of behavior, e.g., Jonah’s case with the Gentiles. Jonah is reluctant to obey God, but the heathen readily accept and plead for mercy.
-- Compare: Two or more units can be compared to show the similarity between two things that do not seem similar, e.g. Amos 1–2 when Israel was judged the same as the foreign nations.
-- Contrast: may also show the difference between two things that seem the same but are not, e.g. Genesis 38 and 39 shows two sons of Jacob confronted with an illicit sexual invitation by a woman, and in both stories the temptress keeps a mark of the man to later use as evidence against him, but the rest is all different, how Judah fails completely and prospers while Joseph is faithful and punished.
-- Reversal: can show the reversal of something (1 Kings 3–11: establishment of Solomon’s reign and building of the temple, 2 Kings 18–25: end of Solomon’s reign and destruction of the temple).
-- Reciprocity: Shows reciprocal action in matching units (Songs 2/8–17: young man’s invitation to young woman to join him, 7/11–8/4: she invites him to join her in the country).
-- Resolution (or fulfillment): Emphasizes the close connection between the story’s opening tension, suspense, or prediction and its closing resolution or fulfillment (Gen 12/1–9: Abram and Sarah’s childlessness, 21/1–7: Isaac’s birth).
-- Totality: to show the totality of a phenomenon by showing both halves of a merism (day and night, man and woman) (Isa.2/10–22: future humiliation of proud man, 3/16–17: future humiliation of proud woman).
+- **Emphasis** — repeating a point drives it home, as in Daniel 2 and 7, where the repeated pattern insists that human kingdoms will rise and fall while only God's kingdom endures.
+- **Emphasizing a pattern** — drawing attention to a recurring pattern, especially a pattern of behavior, as with Jonah and the Gentiles: Jonah is reluctant to obey God, while the pagans around him readily accept the message and plead for mercy.
+- **Comparison** — two or more units are set side by side to reveal a similarity between things that don't seem alike, as in Amos 1–2, where Israel is judged by the very same standard as the foreign nations.
+- **Contrast** — the reverse move, showing a difference between things that look similar but aren't. Genesis 38 and 39 both show a son of Jacob confronted with an illicit sexual invitation from a woman, and in both stories the woman keeps a token from the man to use as evidence later — yet everything else diverges: Judah fails completely and still prospers, while Joseph stays faithful and is punished for it.
+- **Reversal** — highlighting the reversal of a situation, as between 1 Kings 3–11 (the rise of Solomon's reign and the building of the temple) and 2 Kings 18–25 (the end of that reign and the temple's destruction).
+- **Reciprocity** — showing reciprocal action across matching units, as in Song of Songs 2/8–17 (the young man invites the young woman to join him) and 7/11–8/4 (she invites him to join her in the country).
+- **Resolution (or fulfillment)** — emphasizing the close link between a story's opening tension, suspense, or prediction and its closing resolution, as between Gen 12/1–9 (Abram and Sarah's childlessness) and 21/1–7 (Isaac's birth).
+- **Totality** — showing the totality of a phenomenon by presenting both halves of a merism, such as day and night or man and woman, as between Isa. 2/10–22 (the future humiliation of proud men) and 3/16–17 (the future humiliation of proud women).
 
 ### Positions of Prominence
 
 <a name="e6b3"></a>
-Position can also be used to reinforce or convey meaning. Modern storytellers place important messages in the next-to-last unit because this is the climax and the last unit is for the denouement (fade out).
+Position within a structure can also reinforce or convey meaning. Modern storytellers tend to place their most important message in the next-to-last unit, since that's the climax, leaving the final unit for the denouement, the fade-out.
 
-In Hebrew literature, in linear and parallel structures, this is the last unit because these are the last words the audience hears.
+Hebrew literature works differently. In linear and parallel structures, the position of prominence is the very last unit, since that's what the audience hears last.
 
-- In an odd-numbered parallel scheme, the position of the last unit is accentuated by the unmatched unit, such as a-b-c-a’-b’-c’-d.
-- In a symmetric scheme, the center is usually the position of prominence if odd, but for an even number it is the first and last as in Ex.21/2–22/27 (where the beginning and end deal with capital offenses and kindness to the poor).
+- In an odd-numbered parallel scheme, the unmatched final unit is accentuated by standing outside the pattern, as in a-b-c-a'-b'-c'-d.
+- In a symmetric scheme, the center is usually the position of prominence when the number of units is odd; when it's even, prominence falls instead on the first and last units, as in Ex. 21/2–22/27, where the beginning and end both deal with capital offenses and with kindness to the poor.
 
-The meaning could be
+That position of prominence can carry several kinds of meaning:
 
-- Turning Point: The center is the turning point in the story, e.g. Ehud (Jugd. 3/12–30) where the turning point is when he kills the king. Also the whole structure of Judges has Gideon as a turning point.
-- Climax: This is also the case in Ehud’s story, the point of highest tension.
-- Centerpiece: represents the climax, e.g., Songs 3/6–5/1 is the wedding, Chr. Center is Solomon, the builder of the temple (2 Chr. 1–9).
-- Significant Pause (or Interlude): A notable pause in the action or argument of the composition to make a highly significant point.2 Kings 2/1–8/6 is a pause in the relentless, almost uninterrupted parade of the sins of the kings, broken by the ministry of Elisha.2 Kings 3/21–32: pauses in relentless tragic eulogy to reflect on the profound love of God.
+- **Turning point** — the center marks the story's actual turning point, as with Ehud (Judg. 3/12–30), where the turn comes when he kills the king. The entire structure of Judges likewise turns on Gideon.
+- **Climax** — the same center point can also be the moment of highest tension, as again in Ehud's story.
+- **Centerpiece** — the center represents the climax outright, as with the wedding at the heart of Song of Songs 3/6–5/1, or Solomon, the temple's builder, at the center of Chronicles (2 Chr. 1–9).
+- **Significant pause (or interlude)** — a deliberate pause in the action or argument that makes a highly significant point. 2 Kings 2/1–8/6 interrupts the relentless, almost unbroken parade of the kings' sins with the ministry of Elisha, and 2 Kings 3/21–32 pauses a tragic eulogy to reflect on the profound love of God.
 
 ## Value of structural analysis
 
 <a name="61c4"></a>
-There are many values
+Recognizing these structures pays off in several ways.
 
-- Appreciation of literary artistry: We can appreciate the skill and care that has gone into the text, and what may at first appear to be chaotic writing can be seen as an elegant arrangement.
-- Identification of unit boundaries: We can better interpret the text if we can structure it, e.g. 1 Kings 1–2 is the conclusion of Sam. and not the introduction to the rest of Kings. Also, the 5 books of Moses and Joshua are a unit — it was never intended to end the books of Moses with Israel almost home and the story almost complete.
-- Discovering the rationale behind a unitary layout: This gives us a better understanding of the flow of the text, e.g. the two stories of Abraham lying about his wife are linked to the two promises of Ishmael and the migrations of Lot’s family. Also Songs has the wedding in the middle for poetic reasons and the intimacy before does not support premarital sex but shows the arrangement as a chiasm. Also, Isaiah’s call in Isaiah 6 seems out of place (as it should be the beginning), but is central to Isaiah 1–12.
-- Clarifying the relationship of the parts to the whole: Especially in long units this can help to organize the text, e.g. Isa. 26–35 and 40–48 explain the reciprocal function, seeing Isa. 36–39 as the thematic center in between.
-- Explain repetitions: Repetitions confuse modern readers, but they help the hearer to perceive the structure of the text, e.g. morning and evening and the nth day shows the completion of each day in Gen.1.
-- Explanation of the apparently misplaced units: Some passages seem to be misplaced, but structural analysis helps to understand their position, e.g. Gen 38 seems to interrupt the story of Joseph, but was used to contrast his behavior at Potiphar’s place. This wrongful treatment of Joseph while Judah gets away with it will lead to the parallel chapter of disowning Judah and giving the firstborn right to Joseph.
-- Clarifying a unit by comparing it to its counterpart: The meaning of a function of a unit can be clarified by comparing it to its counterpart.
+- **Appreciation of literary artistry** — we come to appreciate the skill and care behind the text, so that writing which first looked chaotic reveals itself as an elegant arrangement.
+- **Identification of unit boundaries** — seeing the structure helps us interpret the text correctly. 1 Kings 1–2, for instance, is really the conclusion of Samuel, not the introduction to the rest of Kings; and the five books of Moses together with Joshua form a single unit, since the story was never meant to end with Israel merely on the verge of the promised land.
+- **Discovering the rationale behind a unit's layout** — this deepens our sense of how the text flows. The two stories of Abraham lying about his wife, for example, are linked to the two promises concerning Ishmael and to the migrations of Lot's family. Song of Songs places the wedding at its center for poetic reasons, and the intimacy described beforehand isn't an endorsement of premarital sex but part of a deliberate chiastic arrangement. Isaiah's call in chapter 6 seems out of place, since one would expect it at the very beginning of the book, yet it sits at the center of Isaiah 1–12 for a reason.
+- **Clarifying the relationship of parts to the whole** — especially useful in long units. Isa. 26–35 and 40–48 mirror each other in function, with Isa. 36–39 serving as the thematic center between them.
+- **Explaining repetitions** — repetition can confuse modern readers, but it helped the original hearer track the text's structure. The repeated refrain of morning and evening, and the count of each day, marks the completion of each day in Genesis 1.
+- **Explaining apparently misplaced units** — some passages seem out of place until structural analysis clarifies their position. Genesis 38 seems to interrupt the Joseph story, but it exists to contrast Judah's behavior with Joseph's conduct at Potiphar's house — Judah's wrongful treatment of Tamar, for which he faces no real consequence, sets up the later chapter where Judah gives up his own firstborn rights in favor of Joseph.
+- **Clarifying a unit by its counterpart** — the meaning or function of one unit can often be clarified simply by comparing it to its structural counterpart elsewhere in the text.

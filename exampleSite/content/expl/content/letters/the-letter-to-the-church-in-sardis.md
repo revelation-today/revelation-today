@@ -12,47 +12,36 @@ sources:
       ref: fee_rev
 ---
 
-What does a dead church look like? How do you inject new life into it? Curious? Check out the {{% bible val="letter to Sardis" link="rev:3,1-6" lang="en" %}}.
+What does a dead church look like, and how do you inject new life into it? The {{% bible val="letter to Sardis" link="rev:3,1-6" lang="en" %}} answers both questions.
 
 ## The historical background
 
 <a name="bf90"></a>
-Sardis has the longest history of all. The city is perfectly situated in terms of climate (it'son the edge of a mountain range and located inside a fertile valley).
+Sardis had the longest history of any of the seven cities, and was ideally situated for it — perched on the edge of a mountain range, inside a fertile valley, with a favorable climate.
 
-The city was always of great importance. For example, when it was destroyed by a massive earthquake in 17 BC, it was rebuilt under the leadership of the Emperor, 
-and nine years later the city applied out of gratitude for this for the construction of a temple in honor of the Emperor.
+The city had always mattered. When a massive earthquake destroyed it in 17 BC, it was rebuilt under imperial patronage, and nine years later the grateful city petitioned to build a temple in the emperor's honor.
 
-The city was a natural fortress because it was 500 meters above the sea level, surrounded by rocks, yet not connected to mountains. 
-Because of the location, the city overestimated itself.
-Yet enemies conquered it twice by gaining access through places that were considered impregnable.
+Sardis was also a natural fortress, standing 500 meters above sea level, ringed by cliffs, yet not connected to any neighboring mountains. That position bred overconfidence: the city believed itself impregnable, yet enemies conquered it twice, both times by slipping in through the very places everyone assumed were unreachable.
 
-## Jesus’s view
+## Jesus' view
 
 <a name="87a6"></a>
-Jesus {{% bible val="approached the church in the full power of the Spirit and reminded them of their call to be light to the world" link="rev:3,1" lang="en" %}}.
+Jesus {{% bible val="approaches this church in the full power of the Spirit and reminds them of their calling to be light to the world" link="rev:3,1" lang="en" %}}.
 
-There is little praise for this church only a few of the believers are blameless.
-
-There is a great deal of cencure: The church is dead, its works are not complete, and it must act quickly if is wants to be purposeful. What is the problem?
+There is little praise here — only a handful of believers in the church are called blameless — and a great deal of censure instead: the church is dead, its works are incomplete, and it needs to act quickly if it wants to recover any real purpose. So what has gone wrong?
 
 ## The problem
 
 <a name="8872"></a>
-The main problem is their false self-importance. The overestimation of the city's impregnable state has rubbed off on them, they think they can be a church without the power of the Holy Spirit.
+The core problem is a false sense of self-importance. The city's own overconfidence in its impregnable position has rubbed off on the church, which has come to believe it can function without the power of the Holy Spirit.
 
-The reference {{% bible val="to being dead and awakening what is about to die" link="rev:3,1-2" lang="en" %}} has a strong connection to the 
-{{% bible val="vision of the valley of dry bones in Ezekiel, where the Holy Spirit comes and breathes in new life" link="ezk:37" lang="en" %}}.
+The description of the church {{% bible val="as dead, in need of waking up before what remains also dies" link="rev:3,1-2" lang="en" %}} echoes the {{% bible val="vision of the valley of dry bones in Ezekiel, where the Spirit comes and breathes new life into what was dead" link="ezk:37" lang="en" %}}. Likewise, the charge that Jesus has "{{% bible val="found your deeds incomplete in the sight of God" link="rev:3,2" lang="en" %}}" recalls the reminder that "{{% bible val="every good and perfect gift comes from God, the Father of lights" link="jas:1,17" lang="en" %}}" — in other words, no work is truly complete unless God is the one doing it through them.
 
-Also, the reference to “{{% bible val="found your deeds incomplete in the sight of God" link="rev:3,2" lang="en" %}}” is a reminder that “{{% bible val="all complete work comes from God, the Father of lights" link="jas:1,17" lang="en" %}}”.
-
-Life without the Holy Spirit is not sustainable. The church at Sardis should act quickly, or the Lord's return will take them by surprise.
+Life without the Holy Spirit simply isn't sustainable. Sardis needs to act quickly, or the Lord's return will take the church entirely by surprise.
 
 ## The promise
 
 <a name="a7e5"></a>
-White robes are a sign of acquittal in a court.
+White robes here signal acquittal in a court of law. The promise that their names will not be blotted out of the Book of Life means they will not lose their citizenship in heaven — though this promise belongs only to those who repent.
 
-The fact that their names are not blotted out of the Book of Life means that they do not lose their citizenship in heaven. 
-However, this is only for those who repent. 
-
-This is a wake-up call! It's purpose is to shock them into action.
+This letter, in the end, is a wake-up call, meant to shock a dying church back into action.

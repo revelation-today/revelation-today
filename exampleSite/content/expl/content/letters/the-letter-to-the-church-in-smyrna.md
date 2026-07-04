@@ -14,38 +14,30 @@ sources:
       ref: fee_rev
 ---
 
-Are you familiar with Smyrna? You should be, because you will find a blameless church there - but it may not be the right one for you.
+Are you familiar with Smyrna? You should be — it's home to a blameless church, though that blamelessness may not look as inviting as you'd expect.
 
-{{% bible val="Smyrna is one of two churches that receives no rebuke from Jesus." link="rev:2,8-11" lang="en" %}} What is their secret?
+{{% bible val="Smyrna is one of only two churches that receives no rebuke from Jesus." link="rev:2,8-11" lang="en" %}} So what is their secret?
 
 ## Historical background
 
 <a name="46be"></a>
-Smyrna was located about 70 km north of Ephesus. It was located in a bay with an excellent harbor, and this was the reason for the wealth of this economically important city.
+Smyrna sat about 70 km north of Ephesus, on a bay with an excellent harbor — the source of this economically important city's wealth.
 
-In the year AD 20, a temple was built to honor the Emperor. Smyrna thus became one of the leading cities in the worship of the Emperor.
+In AD 20, a temple was built there to honor the emperor, making Smyrna one of the leading centers of emperor worship. Little is known about how the church itself began; it may have been founded by Paul around the time he established the church in Ephesus.
 
-Little is known about the origin of the church - perhaps it was established by Paul around the time he founded the church in Ephesus.
-
-## Jesus view
+## Jesus' view
 
 <a name="d931"></a>
-Jesus approaches the church as the risen one who has conquered death. This is a vision the church needs because it is being attacked from all sides:
+Jesus approaches this church as the risen one who has already conquered death — a vision they badly need, since they are under attack from every side:
 
-- They have to fight financially, probably because they won’t join the guilds.
-- There are some Jews who slander the Church. These same people are probably also why Christians are sent go to jail ("the devil will put some of you in jail" and Jews are "a synagogue of Satan").
+- They are squeezed financially, probably because they refuse to join the trade guilds, which required participation in idol worship.
+- Some local Jews slander the church, and are likely also behind Christians being thrown in jail — hence "the devil will put some of you in jail," and this group being called "a synagogue of Satan."
 
-The reference {{% bible val="to 10 days" link="rev:2,10" lang="en" %}} is a link to the {{% bible val="story of Daniel" link="dan:1,8-14" lang="en" %}}, 
-who ate only vegetables so as not to defile himself with unclean food from the king’s table.
+The reference {{% bible val="to ten days" link="rev:2,10" lang="en" %}} points back to the {{% bible val="story of Daniel" link="dan:1,8-14" lang="en" %}}, who ate only vegetables for ten days rather than defile himself with unclean food from the king's table.
 
 ## The perspective
 
 <a name="1a16"></a>
-Jesus promises that if they endure the suffering, they will not be harmed by the second death. 
+Jesus promises that if they endure this suffering, they will not be harmed by the second death. He can offer them this because he has walked the same road before them, {{% bible val="going through death into resurrection and appearing as one who was slain" link="rev:5,5-6" lang="en" %}}, so that {{% bible val="believers could reign with him" link="rev:20,4-6" lang="en" %}}. That is a paradox worth sitting with: how does it actually work?
 
-Jesus encourages them in their suffering as he has already overcome Satan by {{% bible val="going through death into resurrection and appearing as week" link="rev:5,5-6" lang="en" %}}, 
-so {{% bible val="believer could reign with him" link="rev:20,4-6" lang="en" %}}. This is a paradox. How does this paradox work?
-
-The more we are unable to do anything, the more Jesus can work. 
-However, there is a {{% int_link val="danger of being so overwhelmed by despair that we give up" link="/expl/content/beasts/666-the-number-of-the-beast" %}}. 
-We don’t have to solve bad situations, but we have to endure them with him.
+The pattern seems to be this — the more we are unable to do anything ourselves, the more room there is for Jesus to work. That said, there is a real {{% int_link val="danger of being so overwhelmed by despair that we give up" link="/expl/content/beasts/666-the-number-of-the-beast" %}}. We are not asked to solve the bad situations we find ourselves in, only to endure them together with him.

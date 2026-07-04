@@ -8,150 +8,126 @@ next: /expl/bible/keyword/the-story-of-balaam
 docType: expl
 deeper:
     - name: Wie alles begann
-      link:  /expl/bible/exodus/the-story-before-the-exodus0
-    - name: Ein anderer Held
+      link:  /expl/bible/exodus/the-story-before-the-exodus
+    - name: Der andere Held
       link:  /expl/bible/exodus/the-birth-of-moses
-    - name: Die Verhärtung des Herzen
+    - name: Die Verhärtung des Herzens
       link:  /expl/bible/exodus/the-hardening-of-pharaohs-heart
 sources:
     - pages: 38–80
       ref: sarna_exo
 ---
 
-Diese Geschichte kennst du wahrscheinlich schon aus dem Kindergottesdienst, aber vieles darin hast du villeicht noch nie gehört.
+Diese Geschichte hast du wahrscheinlich schon im Kindergottesdienst gehört, aber es gibt darin viel mehr zu entdecken, als du bisher vielleicht wahrgenommen hast.
 
 ## Der Anfang
 
 <a name="7fef"></a>
-Moses und Aaron kehren zurück und teilen die {{% bible val="guten Neuigkeiten, dass Gott sie befreien will und das Volk glaubt ihnen" link="exo:4,29-31" lang="de" %}}. Aber als sie {{% bible val="das vor den Pharao bringen, erhöht er ihre Arbeitslast und Israel ist nicht weiter interessiert an einer Befreiung" link="exo:5" lang="de" %}}.
+Mose und Aaron kehren nach Israel zurück und {{% bible val="teilen die gute Nachricht mit den Israeliten, die ihm glauben" link="exo:4,29-31" lang="de" %}}. Aber als sie {{% bible val="ihr Anliegen vor den Pharao bringen, erhöht dieser nur die Arbeitslast, und Israel verliert jedes Interesse an der Befreiung" link="exo:5" lang="de" %}}.
 
 Als nächstes {{% bible val="geht Mose zum Pharao und vollbringt seine Wunder, aber der Pharao ist nicht beeindruckt" link="exo:7,8-13" lang="de" %}}.
 
-Aber nun, nachdem niemand mehr etwas von Moses und Aaron erwartet, startet Gott sein Werk.
+Erst als niemand mehr etwas von Mose und Aaron erwartet, beginnt Gott ernsthaft mit seinem Werk.
+
+## Die Zauberer
+
+Die Zauberer spielen in der Erzählung eine wichtige Rolle. Man könnte sie auch ägyptische Priester nennen, aber das Wort, das normalerweise für Priester verwendet wird, [kohen](https://biblehub.com/hebrew/3548.htm) — das Wort, das für die in Israel eingesetzten Priester, für [Melchisedek](https://biblehub.com/interlinear/genesis/14-18.htm), für [Jitro, den Schwiegervater des Mose](https://biblehub.com/interlinear/exodus/2-16.htm), und sogar für die [Priester in Ägypten](https://biblehub.com/interlinear/genesis/41-45.htm) an anderer Stelle in Genesis verwendet wird — ist nicht das Wort, das für diese Gestalten während der Plagen verwendet wird. Stattdessen nennt der Text sie [chartum](https://biblehub.com/hebrew/2748.htm), ein Begriff, der sie von gewöhnlichen Priestern abhebt.
 
 ## Das Muster
 
 <a name="5768"></a>
-Die Plagen folgen einem Muster, und es ist sehr interessant, dieses Muster zu beobachten.
+Die Plagen folgen bestimmten Mustern, die es sich lohnt, genauer zu betrachten.
 
-Die ersten neun Plagen können in Dreiergruppen eingeteilt werden
+- Die ersten neun Plagen lassen sich in drei Dreiergruppen einteilen.
+- Die Plagen 1–3 bringen Unannehmlichkeiten.
+- Die Plagen 4–6 bringen Zerstörung.
+- Die Plagen 7–9 bringen Furcht.
+- Die erste Plage jeder Gruppe (1, 4, 7) beginnt am Morgen, wenn der Pharao am Nil ist, um den „Gesundheitszustand des Nils“ zu prüfen.
+- Die letzte Plage jeder Gruppe (3, 6, 9) kommt ohne Vorwarnung.
 
-- Die Plagen 1–3 bringen Unannehmlichkeiten
-- Plagen 4–6 bringen Zerstörung
-- Plagen 7–9 bringen ernsthafte Bedrohung
-- Die ersten Plagen jeder Serie (1, 4, 7) beginnen am Morgen (wenn der Pharao am Nil ist, um den “Gesundheitszustand des Nils” zu prüfen — der Nil ist der erste aller Götter in Ägypten und die Grundlage des Lebens im Land).
-- Die letzte Plage jeder Serie (3,6,9) kommt ohne Vorwarnung.
+Auch der Stab folgt seinem eigenen Muster: Aaron benutzt ihn bei den Plagen 1–3, bei den Plagen 4–6 kommt kein Stab zum Einsatz, und Mose benutzt ihn bei den Plagen 7–9.
 
-Der Stab
+Auch die Zauberer folgen einem Muster. Sie können die Plagen 1 und 2 nachahmen, aber Plage 3 können sie nicht nachahmen und erkennen darin den Finger Gottes; und bei Plage 6 sind sie selbst so schwer betroffen, dass sie nicht einmal mehr vor dem Pharao erscheinen können.
 
-- Die Plagen 1–3 werden mit dem Stab des Aaron ausgeführt.
-- Bei den Plagen 4–6 ist kein Stab im Spiel.
-- Bei den Plagen 7–9 benutzt Mose seinen Stab.
+Je weiter die Plagen fortschreiten, desto härter wird das Herz des Pharao und desto größer werden Mose’ Forderungen. Und ab Plage 4 zeigt sich eine weitere Unterscheidung: Bei den Plagen 1–3 wird keine Grenze zwischen Israeliten und Ägyptern gezogen, aber ab Plage 4 werden sie deutlich unterschieden.
 
-Die Zauberer
+Die Plagen richten sich gegen {{% bible val="die Macht Ägyptens und seiner Götter" link="exo:12,12" lang="de" %}}, nicht gegen die Menschen selbst, {{% bible val="die sogar gewarnt werden" link="exo:9,18-21" lang="de" %}} und jederzeit bei den Israeliten in Goschen Zuflucht finden können.
 
-- Sie können die Plagen 1 und 2 nachahmen.
-- Sie können Plage 3 nicht nachahmen und sehen darin den “Finger Gottes”.
-- Sie sind von Plage 6 so erschüttert, dass sie danach nicht mehr auftreten.
+Der Sinn der Plagen ist es zu zeigen, dass Gott der wahre Gott ist, damit auch die Ägypter neben Israel Zuflucht bei ihm suchen — was am Ende viele auch taten.
 
-Je weiter die Plagen fortschreiten, desto härter wird das Herz des Pharao und desto mehr fordert Moses.
+## Die Plagen im Detail
 
-Bei den Plagen 1–3 wird nicht zwischen Israeliten und Ägyptern unterschieden, ab der 4.
-
-Die Plagen richten sich gegen die {{% bible val="Macht Ägyptens und seiner Götter" link="exo:12,12" lang="de" %}}, nicht gegen die Menschen, die {{% bible val="manchmal sogar gewarnt " link="exo:9,18-21" lang="de" %}}werden und jederzeit bei den Israeliten in Goschen Zuflucht finden können.
-
-Die Plagen sollen zeigen, dass Gott der Einzige ist und dass die Ägypter mit Israel zu ihm fliehen sollen, was viele auch tun.
-
-## Die Plagen im Details
-
-<a name="e216"></a>
-
-### {{% bible val="1, Wasser zu Blut" link="exo:7,14-25" lang="de" %}}
+## {{% bible val="1, Wasser wird zu Blut" link="exo:7,14-25" lang="de" %}}
 
 <a name="b532"></a>
-Der Nil wird zu Blut und das Wasser wird unbrauchbar.
+Der Nil verwandelt sich in Blut, und sein gesamtes Wasser wird unbrauchbar.
 
-Der Nil ist die Lebensader Ägyptens. Die Flut düngt die Felder und das Wasser ist die Lebensgrundlage der Menschen.
+Der Nil ist die Lebensader Ägyptens: seine jährliche Überschwemmung macht die Felder fruchtbar, und sein Wasser ist die Lebensgrundlage der Menschen. Der Gott des Nils galt als Vater aller Götter Ägyptens — doch diesmal sieht es aus, als sei er abgeschlachtet worden.
 
-Der Nil ist aber auch der Vater aller Götter Ägyptens. Und mit dieser Plage scheint er abgeschlachtet.
-
-### {{% bible val="2, Frösche" link="exo:8,1-15" lang="de" %}}
+## {{% bible val="2, Frösche" link="exo:8,1-15" lang="de" %}}
 
 <a name="83d5"></a>
-Die Frösche werden zur Plage, und Pharao erkennt, dass Gott dahinter steckt, und bittet Moses, sie zu stoppen.
+Frösche überschwemmen das Land, und diesmal erkennt der Pharao Gottes Hand dahinter und bittet Mose, es zu beenden.
 
-Die Göttin Heqet, die Frau des Nilgottes, ist die Göttin der Geburt (und der Wiedergeburt). Als der Pharao mit den Kindern Israels Geburtenkontrolle spielt, macht Gott hier deutlich, wer die Kontrolle über das neue Leben hat.
+Die Göttin Heqet, die Frau des Nilgottes, herrschte über Geburt und Wiedergeburt. Da der Pharao derjenige gewesen war, der die Geburten unter den israelitischen Kindern kontrollierte, macht Gott hier, ausgerechnet durch ihr eigenes Symbol, deutlich, wer wirklich die Kontrolle über neues Leben hat.
 
-### {{% bible val="3, Mücken" link="exo:8,12-15" lang="de" %}}
+## {{% bible val="3, Mücken" link="exo:8,16-19" lang="de" %}}
 
 <a name="7c93"></a>
-Die Zauberer können dies nicht wiederholen und sehen darin den Finger Gottes.
+Diesmal können die Zauberer die Plage nicht nachbilden, und sie erkennen darin den Finger Gottes.
 
-In der ägyptischen Mythologie gibt es eine Geschichte, in der ein Gott einen anderen Gott mit seinen Fingern blind machte (als dieser sich ihm unbemerkt näherte). Dadurch wurde der “Finger Gottes” zu etwas Unheilvollem, dessen Ursprung nicht erforscht werden konnte. Die Zauberer erkennen, dass Gott stärker ist.
+Diese Formulierung greift eine Geschichte aus der ägyptischen Mythologie auf, in der ein Gott einen anderen blendet, indem er sich ihm unbemerkt nähert. „Der Finger Gottes“ trägt den Sinn eines unheilvollen Ereignisses, dessen Ursprung sich nicht zurückverfolgen oder abwehren lässt — und indem sie diesen Ausdruck verwenden, geben die Zauberer selbst zu, dass Gott stärker ist als sie.
 
-### {{% bible val="4, Hundsfliegen" link="exo:8,20-28" lang="de" %}}
+## {{% bible val="4, Fliegen" link="exo:8,20-32" lang="de" %}}
 
 <a name="ec69"></a>
-Eine bessere Übersetzung wäre wohl Ungeziefer und es war eine wahre Plage in Ägypten. Nun sind die Ägypter dem schutzlos ausgesetzt und Gott macht hier einen Unterschied zwischen Israel und Ägypten, den {{% bible val="vorher nur der Pharao gemacht hat" link="exo:1,22" lang="de" %}}.
+„Fliegen“ ist vielleicht eine zu enge Übersetzung — „Ungeziefer“ trifft es wohl besser, und es wird für die Ägypter zu einer echten Plage. Von diesem Punkt an zieht Gott selbst eine Grenze zwischen Israel und Ägypten, eine Unterscheidung, die {{% bible val="vorher nur der Pharao gemacht hatte" link="exo:1,22" lang="de" %}}.
 
-### {{% bible val="5, Viehseuche" link="exo:9,1-7" lang="de" %}}
+## {{% bible val="5, Viehseuche" link="exo:9,1-7" lang="de" %}}
 
 <a name="4f61"></a>
-Das Vieh, das von dieser Seuche betroffen war, beeinflusste die Gesellschaft an entscheidenden Stellen.
+Das von dieser Plage betroffene Vieh war für fast jeden Bereich der ägyptischen Gesellschaft unverzichtbar:
+- Pferde, benötigt für das Militär
+- Esel, für den Lastentransport
+- Kamele, {{% bible val="genutzt für den Handel" link="gen:37,25" lang="de" %}}
+- Rinder, Schafe und Ziegen, unverzichtbar für die tägliche Arbeit, Nahrung und Kleidungsherstellung
 
-- Pferde: wichtig für das Militär,
-- Esel: wichtig für den Lastentransport,
-- Kamele: wichtig für den {{% bible val="Handel" link="gen:37,25" lang="de" %}},
-- Kühe, Schafe, Böcke: wichtig für die tägliche Arbeit, Nahrung und Kleidung
-
-### {{% bible val="6, Geschwüre" link="exo:9,8-12" lang="de" %}}
+## {{% bible val="6, Geschwüre" link="exo:9,8-12" lang="de" %}}
 
 <a name="c6b1"></a>
-Moses und Aaron warfen Staub in die Luft, der bei den Menschen zu Beulen wurde. Die Zauberer konnten nun nicht mehr auftreten, da sie unrein waren.
+Mose und Aaron werfen Staub in die Luft, und er verwandelt sich in Geschwüre bei Menschen und Tieren gleichermaßen. Diesmal können die Zauberer nicht einmal mehr vor dem Pharao erscheinen, da sie rituell unrein sind. Die Ironie sitzt tief: Das Werfen von Staub in die Luft war ursprünglich ein Sühneritual, das genau diese Zauberer selbst durchführten. Sie können es nicht nur nicht mehr ausführen — das Ritual selbst ist nun gründlich diskreditiert.
 
-Ursprünglich war das Werfen von Staub ein Ritual der Zauberer. Nun konnten die Zauberer es nicht nur nicht mehr ausführen, sondern das ganze Ritual wurde “entmystifiziert”.
-
-### {{% bible val="7, Hagel" link="exo:9,13-35" lang="de" %}}
+## {{% bible val="7, Hagel" link="exo:9,13-35" lang="de" %}}
 
 <a name="70b2"></a>
-Hier wird es wirklich ernst und Gott trifft die {{% bible val="Gesellschaft mit voller Wucht, die er ankündigt" link="exo:9,14" lang="de" %}}. Er {{% bible val="warnt die Menschen sogar und rät ihnen, Schutz zu suchen" link="exo:9,20-21" lang="de" %}}. Der Hagel, der kommt, ist vernichtend und war vermutlich das Schlimmste, was sie bis dahin gesehen haben und kein Gott, der sie dafür beschützen konnte.
+Hier wird es ernst: {{% bible val="Gott schlägt mit der vollen Wucht zu, die er ankündigt" link="exo:9,14" lang="de" %}}, und dennoch {{% bible val="warnt er die Menschen, Schutz zu suchen" link="exo:9,20-21" lang="de" %}}. Der Hagel, der fällt, ist verheerend — der schlimmste, den sie je gesehen hatten —, und kein ägyptischer Gott beschützt sie davor. Zum ersten Mal {{% bible val="gibt der Pharao zu, gesündigt zu haben" link="exo:9,27" lang="de" %}}, und benutzt dabei [dasselbe Wort, das verwendet wird, als der Pharao unwissentlich Abrahams Frau nahm](https://biblehub.com/hebrew/2398.htm) — aber sobald der Hagel aufhört, {{% bible val="sündigt er erneut, indem er sein Herz verhärtet" link="exo:9,34" lang="de" %}}.
 
-Der Pharao {{% bible val="gibt zu, dass er gesündigt hat " link="exo:9,27" lang="de" %}}([dasselbe Wort, das der Pharao nutzt, als er unbewußt mit Abrahams Frau zusammen ist](https://biblehub.com/hebrew/2398.htm)), aber {{% bible val="er sündigt wieder, indem er sein Herz verhärtet" link="exo:9,34" lang="de" %}}.
-
-### {{% bible val="8, Heuschrecken" link="exo:10,1-20" lang="de" %}}
+## {{% bible val="8, Heuschrecken" link="exo:10,1-20" lang="de" %}}
 
 <a name="ae09"></a>
-Die {{% bible val="Heuschrecken kommen und fressen alles, was der Hagel übrigließ" link="exo:10,5" lang="de" %}}. Seine {{% bible val="eigenen Beamten bitten den Pharao, Mose zu geben, was er will" link="exo:10,7" lang="de" %}}. Aber der Pharao will dsa Volk immer noch nicht ziehen lassen. Als die Plage vorbei ist, {{% bible val="erkennt der Pharao wieder seine Sünde" link="exo:10,16-17" lang="de" %}}.
+Die {{% bible val="Heuschrecken kommen und vernichten alles, was der Hagel übrig gelassen hatte" link="exo:10,5" lang="de" %}}. Diesmal {{% bible val="flehen die eigenen Beamten des Pharao ihn an, zu tun, was Mose verlangt" link="exo:10,7" lang="de" %}} — aber er weigert sich weiterhin, das Volk ziehen zu lassen, selbst als {{% bible val="die Plagen andauern und der Pharao seine Sünde eingesteht" link="exo:10,16-17" lang="de" %}}.
 
-Das Volk war den Heuschrecken ausgesetzt, obwohl es einen Gott gab, dessen einzige Aufgabe es war, das Volk vor den Heuschrecken zu schützen. Es gab sogar spezielle Heuschreckenamulette zum Schutz.
+Die Ägypter waren bereits durch den Hagel bloßgestellt worden, denn es gab einen Gott, dessen einzige Aufgabe der Schutz vor Heuschrecken war, dazu spezielle Heuschreckenamulette mit demselben Zweck — nichts davon hatte funktioniert.
 
-### {{% bible val="9, Dunkelheit" link="exo:10,21-29" lang="de" %}}
+## {{% bible val="9, Finsternis" link="exo:10,21-29" lang="de" %}}
 
 <a name="49ef"></a>
-Die letzte dieser Plagen ist die Finsternis. Das war ein besonders schlimmes Zeichen, außerdem stand das gesamte Leben in Ägypten still. Zusätzlich war Ra, der Sonnengott, ein [sehr wichtiger Gott in Ägypten](https://de.wikipedia.org/wiki/Re_(%C3%A4gyptische_Mythologie)#Bedeutung).
+Die letzte dieser Plagen ist die Finsternis — sie wird als äußerst ernstes Zeichen aufgefasst, eines, das das Leben in Ägypten vollständig zum Stillstand bringt. Ra, der Sonnengott, war [einer der bedeutendsten Götter Ägyptens](https://de.wikipedia.org/wiki/Re_(%C3%A4gyptische_Mythologie)#Bedeutung), was die Finsternis zu einem direkten Schlag gegen ihn macht. Diesmal gesteht der Pharao seine Sünde nicht ein; stattdessen {{% bible val="stärkt Gott sein Herz so sehr, dass er droht, Mose, Gottes eigenen Boten, beim nächsten Wiedersehen zu töten" link="exo:10,27-28" lang="de" %}}.
 
-Diesmal bekennt der Pharao seine Sünde nicht, und {{% bible val="Gott stärkt sein Herz so stark, dass er Gottes Botschafter droht, ihn zu töten, wenn er ihn wiedersieht." link="exo:10,27-28" lang="de" %}}
-
-### Die zehnte Plage
+## Die zehnte Plage
 
 <a name="ae4a"></a>
-Die zehnte Plage kommt etwas später und nimmt einen besonderen Platz ein. Sie ist der Tod der Erstgeburt.
+Die zehnte Plage steht abseits der übrigen, verzögert und in einer eigenen Kategorie: der Tod der Erstgeburt.
 
 ## Der Tod der Erstgeburt
 
 <a name="4f21"></a>
-Dafür brauchen wir ein wenig Hintergrund. Als Gott Mose berief, gab er sich ihm als {{% bible val="Vater zu erkennen und Israel als seinen Erstgeborenen" link="exo:4,22-23" lang="de" %}}.
+Um zu verstehen, warum diese Plage anders ist, hilft ein Blick auf den Hintergrund. Als Gott Mose zum ersten Mal berief, {{% bible val="offenbarte er sich als Vater und nannte Israel seinen Erstgeborenen" link="exo:4,22-23" lang="de" %}}. Als der Pharao also versucht, Israel zu töten, antwortet Gott in gleicher Münze, indem er die Erstgeborenen Ägyptens tötet.
 
-Als der Pharao versucht, Israel zu töten, tötet Gott die Erstgeborenen Ägyptens.
+Es gibt noch eine weitere Ebene. Der Erstgeborene ist der Erbe: Wenn der Pharao stirbt, tritt sein Erstgeborener an seine Stelle — aber wenn der Erstgeborene stirbt, wer bleibt dann übrig, um die Nachfolge anzutreten? Und da die Götter Ägyptens durch Tiere dargestellt wurden (Horus der Falke, Heqet der Frosch, Hathor die Kuh), war {{% bible val="der Tod der erstgeborenen Tiere auch ein Schlag gegen die Zukunft der ägyptischen Götter" link="exo:12,12" lang="de" %}} selbst.
 
-Aber es gibt noch einen anderen Aspekt. Der Erstgeborene ist der Erbe. Wenn der Pharao stirbt, erbt sein Erstgeborener, aber wenn der Erstgeborene stirbt, wer erbt dann?
+Wegen {{% bible val="des „starken Herzens“ des Pharao" link="exo:10,7" lang="de" %}} war das Volk Ägyptens {{% bible val="bereits auf der Seite des Mose" link="exo:11,3" lang="de" %}}, und der Tod der Erstgeburt (der zeigte, dass Ägypten keine Zukunft mehr zu bieten hatte) trieb die Ägypter weiter zu Gott hin, {{% bible val="und viele taten es" link="exo:12,38" lang="de" %}} und zogen mit Israel aus.
 
-Die Götter Israels wurden in Tieren repräsentiert (Horus der Falke, Heqed die Fröschin, Hathor die Kuh und der {{% bible val="Tod der Erstgeburt der Tiere ist auch ein Schlag gegen die Zukunft der ägyptischen Götter" link="exo:12,12" lang="de" %}}.
+Bevor die zehnte Plage zuschlägt, wird das {{% bible val="Passah eingeführt" link="exo:12,1-13" lang="de" %}} — Schutz vor der Plage, aber auch der Ursprung des Abendmahls und so etwas wie die Geburtsstunde Israels als Volk, denn es {{% bible val="stand jedem offen, der sich Israel anschließen wollte" link="exo:12,43-49" lang="de" %}}. Zusammen damit wird das {{% bible val="Fest der ungesäuerten Brote eingeführt" link="exo:12,14-20" lang="de" %}}, das unterstreicht, dass {{% bible val="keine Zeit zum Warten bleibt, sondern nur zum Aufbruch" link="exo:12,12" lang="de" %}}.
 
-Aber aufgrund {{% bible val="Pharaos “starkem Herzen”" link="exo:10,7" lang="de" %}} und der Tatsache, dass die {{% bible val="Ägypter schon auf Seiten Moses" link="exo:11,3" lang="de" %}} waren und der Tod der Erstgeburt (Zeichen, dass es keine Zukunft in Ägypten gibt), waren {{% bible val="für viele der Ausschlag mit dem Gott Israels auszuziehen" link="exo:12,38" lang="de" %}}.
-
-Doch davor wurde
-
-- Das {{% bible val="Passah eingeführt" link="exo:12,1-13" lang="de" %}} (Schutz gegen die zehnte Plage und Ursprung des Abendmahls), was die Geburt Israel war und {{% bible val="offen für alle, die zu Israel gehören wollten" link="exo:12,43-49" lang="de" %}}.
-- {{% bible val="Das Fest der ungesäuerten Brote eingeführt" link="exo:12,14-20" lang="de" %}} — es gibt {{% bible val="keine Zeit zu warten, sondern aufzubrechen" link="exo:12,12" lang="de" %}}.
-- Das {{% bible val="Zeichen an Hand und Stirn" link="exo:13,8-9" lang="de" %}} wird erwähnt — die Menschen sollen sich erinnern, dass Gott sie aus Ägypten gebracht hat. Er ist mächtiger als die Götter Ägyptens und Israel soll das niemals vergessen. So das Zeichen ist ein Ausdruck der Loyalität zu Gott.
+Schließlich wird das {{% bible val="Zeichen an Hand und Stirn" link="exo:13,8-9" lang="de" %}} als bleibende Erinnerung eingeführt: Gott hat Israel aus Ägypten herausgeführt, er ist mächtiger als die ägyptischen Götter, und Israel darf das nicht vergessen. Das Zeichen ist mit anderen Worten ein Zeichen der Treue zu Gott.

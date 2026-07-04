@@ -4,8 +4,8 @@ title: "Yeni cennet ve yeni dünya (Böl.21-22)"
 weight: 17
 ---
 
-Yeni cennet ve dünya nasıl olacak?
+Yeni cennet ve yeryüzü nasıl olacak?
 
-Harika bir yer olacak, ama bu yerin kilit unsuru Tanrı'yla tam paydaşlık ve O'na tam bağlılık içinde yaşamaktır.
+Muhteşem bir yer olacak, ama onu asıl tanımlayan şey manzarası değil — Tanrı'yla tam bir paydaşlık ve O'na tam bir bağlılık içinde yaşanan bir hayattır.
 
-Cennetin herkes için olmamasının nedeni budur...
+Cennetin herkes için olmamasının nedeni de budur...

@@ -17,47 +17,42 @@ sources:
       ref: fee_rev
 ---
 
-Das ist eine Gemeinde, die kurz vor dem Scheitern steht. Und das alles wegen Bileam? Aber er ist nicht das eigentliche Problem.
+Diese Gemeinde steht kurz davor zu scheitern, und obwohl es so aussieht, als sei Bileam schuld, ist er nicht wirklich das Problem.
 
-{{% bible val="Das Sendschreiben an Pergamon" link="rev:2,12-17" lang="de" %}}
+{{% bible val="Die Gemeinde in Pergamon" link="rev:2,12-17" lang="de" %}}
 
-## Der historische Hintergrund
+## Historischer Hintergrund
 
 <a name="48a1"></a>
-Pergamon war schon 400 Jahre vor der Offenbarung eine bedeutende Stadt. Die Stadt wurde etwa 20 km von der Küste entfernt auf einem Felsen erbaut.
+Pergamon war bereits vier Jahrhunderte vor der Abfassung der Offenbarung eine bedeutende Stadt. Sie wurde auf einem Felsvorsprung etwa 20 km von der Küste entfernt erbaut.
 
-Die Stadt war lange Zeit Sitz des Herrscherhauses der Attiden, die diese Region beherrschten. Der letzte Herrscher schenkte die Stadt dem Kaiser. Im Jahre 29 v. Chr. wurde ein Tempel zu Ehren des Kaisers errichtet, kurz darauf ein weiterer Tempel zu Ehren eines anderen Kaisers. Die Stadt stand also in der Gunst des Kaisers, die sie nicht verlieren wollte.
+Lange Zeit war die Stadt Sitz der Dynastie der Attaliden, einer führenden Macht in der Region. Als der letzte Attaliden-Herrscher starb, vermachte er die Stadt testamentarisch dem römischen Kaiser. Im Jahr 29 v. Chr. wurde dort ein Tempel zu Ehren des Kaisers errichtet, und kurz darauf ein weiterer Tempel für einen zweiten Kaiser. Pergamon stand also fest in der Gunst der Kaiser - und hatte nicht die Absicht, diese privilegierte Stellung zu verlieren.
 
-Weitere Tempel waren Zeus, Athene, Dionysos und Asklepios geweiht.
+Die Stadt beherbergte außerdem viele weitere Tempel, die Zeus, Athene, Dionysos und Asklepios geweiht waren.
 
 ## Jesu Sicht
 
 <a name="dc77"></a>
-Jesus weiß, dass sich diese Gemeinde in einer schwierigen Zeit befindet und begegnet ihr mit{{% bible val=" einem sehr scharfen Schwert, um zu trennen" link="rev:2,12" lang="de" %}}.
+Jesus weiß, dass diese Gemeinde ein hartes Leben hat, und begegnet ihr {{% bible val="mit einem sehr scharfen Schwert" link="rev:2,12" lang="de" %}} - dem Werkzeug, um gottgemäße Lehre von Irrlehre zu trennen.
 
-Jesus nennt den Ort: “{{% bible val="Wo der Satan wohnt und seinen Thron hat" link="rev:2,13" lang="de" %}}”. Wahrscheinlich meint er damit alle Tempel, besonders den Zeustempel. Und die Gemeinde hielt aus. Sie harrten aus und verrieten den Namen Jesu nicht, bis er den Märtyrertod erlitt. Ihre Situation ist die gleiche wie in Smyrna oder sogar schlimmer.
+Er nennt Pergamon den Ort, "{{% bible val="wo der Satan wohnt und seinen Thron hat" link="rev:2,13" lang="de" %}}" - fast sicher ein Hinweis auf die schiere Dichte der Tempel in dieser Stadt. Und gemessen daran hat die Gemeinde sich gut gehalten: Sie haben ausgeharrt und den Namen Jesu nicht verleugnet, sogar bis zum Martyrium - eine Tatsache, die zeigt, wie schwer es war, dort als Christ zu leben. Ihre Situation ist vergleichbar mit der von Smyrna, wenn nicht sogar schlimmer.
 
-Aber es gibt ein Problem, das ihnen zum Verhängnis wird: {{% bible val="Bileam und die Nikolaiten" link="rev:2,14-15" lang="de" %}}, oder ist es eigentlich ein anderes Problem?
+Doch etwas zerstört sie von innen: {{% bible val="Bileam und die Nikolaiten" link="rev:2,14-15" lang="de" %}}. Oder liegt das eigentliche Problem woanders?
 
 ## Das Problem
 
 <a name="7e5f"></a>
-Die Geschichte von {{% int_link val="Bileam zeigt das völlige Versagen von Leiterschaf" link="/expl/bible/keyword/the-story-of-balaam" %}}t. Das Problem der Nikolaiten ist wahrscheinlich ähnlich.
+Die {{% int_link val="Geschichte von Bileam zeigt das Versagen einer widersprüchlichen Leiterschaft" link="/expl/bible/keyword/the-story-of-balaam" %}}, und die Nikolaiten stehen wahrscheinlich für ein ähnliches Versagen. In beiden Fällen hat die Leiterschaft der Gemeinde keine klare Haltung gegen falsche Lehre gezeigt.
 
-Es gibt kein Eingreifen der Leitung in Bezug auf die falsche Lehre. Wenn man sich die Verheißungen Jesu ansieht, dann war das Problem ihr mangelnder Glaube, und auf der Suche nach Stärkung waren sie empfänglich für Lehren, die ein Leben in Glaubenskompromissen anboten.
-
-Und da jede Lehre auch das Handeln beeinflusst, wirkte sich das natürlich auch auf ihr Verhalten und ihr Zeugnis aus. Es ist anzunehmen, dass auch die Teilnahme an Götzenmahlzeiten durch die Irrlehre gefördert wurde.
+Ein genauer Blick auf die Verheißung, die Jesus dieser Gemeinde gibt, deutet an, warum: Es fehlt ihnen an Glauben, und sie suchen stattdessen ständig nach einer Lehre, die tröstet statt konfrontiert - eine Gewohnheit, die sie wahrscheinlich dazu gebracht hat, Kompromisse mit ihrem Glauben einzugehen. Da jede Lehre das Verhalten prägt, hat diese lockere Lehre Folgen dafür, wie sie leben und wovon sie Zeugnis geben. Sie dürfte genau das begünstigt haben, worum es hier geht: gemeinsame Mahlzeiten zu Ehren von Götzen.
 
 ## Die Lösung
 
 <a name="85d8"></a>
-Sie bekommen verborgenes {{% bible val="Manna" link="deu:8,16" lang="de" %}}. Gott wird sie auf übernatürliche Weise versorgen, aber wir müssen ihm vertrauen, auch wenn es hoffnungslos erscheint.
+Den Treuen wird verborgenes {{% bible val="Manna" link="deu:8,16" lang="de" %}} verheißen - eine Erinnerung daran, dass Gott auf übernatürliche Weise versorgt, und dass wir ihm vertrauen müssen, selbst wenn die Umstände aussichtslos erscheinen.
 
-Sie erhalten einen weißen Stein mit einem neuen Namen, der zwei Bedeutungen hat:
+Ihnen wird außerdem ein weißer Stein mit einem neuen Namen verheißen. Ein weißer Stein hatte in jener Welt zwei mögliche Bedeutungen: Er wurde {{% bible val="vor Gericht verwendet, um für einen Freispruch zu stimmen" link="act:26,10" lang="de" %}} - passend, da diese Gläubigen von der Anklage, an Götzenmahlzeiten teilgenommen zu haben, freigesprochen werden müssten, bevor sie am {{% bible val="Hochzeitsmahl des Lammes" link="rev:19,9" lang="de" %}} teilnehmen könnten -, und er konnte auch als Zutrittskarte dienen, vielleicht zu ebendiesem Hochzeitsmahl.
 
-- Solche Steine wurden als Eintrittskarten verwendet (z.B. für ein Festmahl).
-- Ein weißer Stein wird im {{% bible val="Gericht genutzt" link="act:26,10" lang="de" %}}, wobei ein weißer Stein für unschuldig steht (z.B. nicht am Götzenmahl teilgenommen zu haben) und wäre eine {{% bible val="Eintrittskarte zum Hochzeitsmahl des Lamme" link="rev:19,9" lang="de" %}}s.
+Ein neuer Name ist in der Schrift meist mit einer {{% bible val="neuen Identität" link="gen:17,5" lang="de" %}} verbunden, und den Namen zu kennen, zeigt eine innige Beziehung zwischen der Person und Gott an.
 
-Ein neuer Name ist in der Regel mit einer {{% bible val="neuen Identität" link="gen:17,5" lang="de" %}} verbunden, und den neuen Namen zu kennen, zeigt dass man eine sehr enge Beziehung zu dieser Person hat.
-
-Gott bietet der Gemeinde eine neue Identität an, wenn sie es will. Wenn {{% bible val="nicht, wird Jesus gegen sie kämpfen" link="rev:2,16" lang="de" %}}.
+Gott bietet dieser Gemeinde einen echten Neuanfang an, wenn sie ihn will. Aber {{% bible val="wenn sie ihn ablehnen, wird Jesus gegen sie kämpfen" link="rev:2,16" lang="de" %}}.

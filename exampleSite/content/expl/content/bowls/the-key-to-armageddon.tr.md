@@ -17,54 +17,51 @@ sources:
       ref: fee_rev
 ---
 
-Armageddon: dünyayı yok edecek bir felaket mi? Hayır, çünkü bu bir yer değil. Bu bir kavram. Nedenini bilmek ister misiniz? Okumaya devam edin!
+Armageddon: Dünyayı yok edecek bir felaket mi? Hayır - çünkü bu aslında bir yer bile değil. Bu bir kavram. Nedenini mi merak ediyorsunuz? Okumaya devam edin.
 
 ## Çeviri
 
 <a name="2ff3"></a>
-Armegeddon terimi {{% bible val="Kutsal Kitap’ta" link="rev:16,16" lang="tr" %}} bir kez İbranice bir terim olduğu belirtilerek geçmektedir. Ara metin de anlamı hakkında daha fazla bilgi vermez. Bu yüzden adım adım ilerleyelim.
+Armagedon terimi {{% bible val="Kutsal Kitap'ta" link="rev:16,16" lang="tr" %}} yalnızca bir kez geçer ve İbranice bir terim olduğu belirtilir - ama satır arası metnin kendisi anlamı hakkında başka bir ipucu vermez. O halde konuyu adım adım çözelim.
 
-Ar, İbranicede dağ anlamına gelir. Ama hangisi? Elimizde üç olasılık var ve bence ikisi de konuyla ilgili:
+İbranicede "Ar" dağ anlamına gelir, ama hangi dağ? Üç olasılık var ve bence üçü de sonuçta konuyla ilgili çıkıyor.
 
-- {{% bible val="Yeşaya’da Babil’in" link="isa:14,13" lang="tr" %}} düşüşünün anlatıldığı bir pasajda “toplanma dağı” anlamına gelebilir. Ancak Babil’e “gökten düştü, Ey Gün yıldızı, Şafak oğlu” diye hitap etmeden önceki ayet daha çok Babil’in arkasındaki güçleri tanımlar ve Şeytan’a atıfta bulunabilir. Bütün bölüm, tamamen yok edilmiş olan yenilmezlikle {{% bible val="alay etmektedir" link="isa:14,3-4" lang="tr" %}}.
-- ancak “Megiddo dağı” anlamına da gelebilir. Megiddo ve dağında meydana gelen birçok olay olduğu için bu daha uzun bir açıklamadır.
-- ve son olarak “katliam dağı” anlamına gelebilir ki bunu da inceleyeceğiz.
+"Toplanma dağı" anlamına gelebilir; bu, Babil'in düşüşünü anlatan {{% bible val="Yeşaya'daki bir pasajdan" link="isa:14,13" lang="tr" %}} gelir. O ayetten hemen önceki dize - Babil'in "gökten düşmüş, ey Seher Yıldızı, Şafak'ın oğlu" olarak tasvir edildiği yer - aslında Babil'in kendisinden çok Babil'in arkasındaki güçleri anlatır ve muhtemelen Şeytan'a işaret eder. Bölümün tamamı, sonunda tamamen yok edilen o yenilmez gücün {{% bible val="alaya alınmasıdır" link="isa:14,3-4" lang="tr" %}}.
 
-## Deborah ve Jael
+Ayrıca "Megiddo dağı" anlamına da gelebilir. Bunun açıklaması daha uzun sürer, çünkü Megiddo'da ve dağında pek çok olay yaşanmıştır.
+
+Son olarak da "katliam dağı" anlamına gelebilir; buna da ayrıca bakacağız.
+
+## Debora ve Yael
 
 <a name="8338"></a>
-Megiddo yakınlarındaki bir savaştan ilk kez söz edilmesi hakimler {{% bible val="Debora ve Barak’la" link="jdg:4" lang="tr" %}} ilgilidir. Hikayeyi biliyor olabilirsiniz, ama Yael’i ve rolünü hatırlıyor musunuz? En baştan başlayalım.
+Megiddo yakınlarındaki bir savaştan ilk söz edildiği yer, hâkimler {{% bible val="Debora ve Barak'la" link="jdg:4" lang="tr" %}} ilgilidir. Hikâyeyi biliyor olabilirsiniz, ama Yael'i ve onun bu hikâyedeki rolünü hatırlıyor musunuz? Baştan başlayalım.
 
-İsrail, Hakimler kitabında sık sık olduğu gibi, {{% bible val="kendilerine baskı yapan yabancı bir yönetim altındaydı" link="jdg:4,1-3" lang="tr" %}}. Ve orada Debora, {{% bible val="Barak adında bir yargıcı Tanrı’nın vaadini yerine getirmeye ve İsrail’i Tanrı’nın onları kurtaracağına söz verdiği gibi özgür bırakmaya çağırır" link="jdg:4,3-7" lang="tr" %}}. Ama Barak kararsızdır ve ancak Debora ona katılırsa gelmek ister, {{% bible val="o da katılır ama ordu liderleri Sisera’ya karşı son darbeyi vurmayacağını, bunun bir kadın tarafından yapılacağını duyurur" link="jdg:4,8-9" lang="tr" %}}. Bu kadının Debora olduğunu düşünüyorsanız yanılıyorsunuz, çünkü Yael burada devreye girer.
+İsrail, Hâkimler kitabında sıkça olduğu gibi, {{% bible val="kendisine baskı yapan yabancı bir yönetici altındaydı" link="jdg:4,1-3" lang="tr" %}}. Debora, {{% bible val="Barak adlı bir hâkimi, Tanrı'nın vaadine uyup İsrail'i özgür kılması için çağırır, çünkü Tanrı onları kurtaracağını vaat etmiştir" link="jdg:4,3-7" lang="tr" %}}, ama Barak kararsızdır ve ancak Debora kendisiyle gelirse yola çıkacaktır. Debora kabul eder - ama {{% bible val="ordu komutanları Sisera'ya karşı son darbeyi kendisinin değil, bir kadının vuracağını" link="jdg:4,8-9" lang="tr" %}} da duyurmadan edemez. Bu kadının Debora olduğunu düşünüyorsanız yanılıyorsunuz. İşte tam burada Yael devreye girer.
 
-Barak orduyu yendikten sonra Sisera kaçar ve Heber’in evine sığınmaya çalışır (çünkü onlar Siseras kralının dostlarıydı). {{% bible val="Ancak Heber’in karısı Yael bu fırsatı değerlendirerek Sisera uyurken onu öldürür" link="jdg:4,15-21" lang="tr" %}}.
+Barak orduyu yendikten sonra Sisera kaçar ve Heber'in evine sığınır, çünkü Heber'in ailesi Sisera'nın kralıyla iyi ilişkiler içindedir. Ama bu onu kurtarmaz: {{% bible val="Heber'in karısı Yael, Sisera uyurken onu öldürme fırsatını değerlendirir" link="jdg:4,15-21" lang="tr" %}}.
 
-## Elijah
+## İlyas
 
 <a name="5c76"></a>
-Megiddo yakınlarındaki dağ Karmel’dir. {{% bible val="Bu, Eski Ahit’te Baal’ın yüzlerce peygamberine karşı Tanrı’nın bir peygamberinin duruşunu anlatan en bilinen öykülerden biridir" link="1ki:18" lang="tr" %}}.
+Megiddo yakınındaki dağın adı Karmel'dir ve {{% bible val="bu, Eski Ahit'in en ünlü hikâyelerinden biridir: Tanrı'nın tek bir peygamberi, yüzlerce Baal peygamberine karşı durur" link="1ki:18" lang="tr" %}}.
 
-Arka plan olarak: İsrail kralı Ahab, karısı Jesebel ile birlikte Sidon’dan (İsrail’in kuzeyindeki krallık) bir bereket tanrısı olan Baal kültünü getirmiştir. Başlıca görevlerinden biri yağmur yağdırmaktır (aksi takdirde iyi bir hasat olmaz). Yeni kraliçe aynı{{% bible val=" zamanda Tanrı’nın peygamberlerini de avlar, öyle ki geriye sadece bir peygamber kalır: İlyas" link="1ki:19,10" lang="tr" %}}. Onun kehanetinden sonra yağmur 3,5 yıl boyunca durur ve Karmel dağında yüzlerce peygambere karşı durduğu ve onları yendiği son hesaplaşmasını yapar.
+Önce biraz arka plan. İsrail kralı Ahab, Sidon'lu (İsrail'in kuzeyinde bir krallık) karısı İzebel ile birlikte, başlıca görevlerinden biri yağmur getirmek olan - yağmur olmadan hasat da olmayacağından - bereket tanrısı Baal kültünü ülkeye soktu. Kraliçe İzebel, {{% bible val="geriye yalnızca bir tanesi kalana dek Tanrı'nın peygamberlerinin peşine düşer: İlyas" link="1ki:19,10" lang="tr" %}}. İlyas'ın kehanetinden sonra yağmur üç buçuk yıl boyunca durur ve çatışmanın tamamı Karmel Dağı'nda doruğa ulaşır; burada İlyas yüzlerce Baal peygamberiyle karşı karşıya gelir ve onları yener.
 
-{{% bible val="Ama hikâye henüz bitmemiştir. Kraliçe üzgündür ve onu öldürmek ister. İlyas pes eder ve ölmek ister, ama Tanrı onu Elişa ve Yehu’yu meshetmesi için çağırır." link="1ki:19" lang="tr" %}}
+Ama hikâye burada bitmiyor. {{% bible val="Kraliçe öfkelenir ve onun ölmesini ister; İlyas ise pes eder ve ölmek ister, ama Tanrı onu geri çağırır ve Elişa ile Yehu'yu meshetmesini ister." link="1ki:19" lang="tr" %}}
 
-{{% bible val="Ordunun komutanı Yehu" link="2ki:9" lang="tr" %}} nihayet atandığında, Yahuda’ya kadar ulaşan Yeşebel ağının tamamını yok etti. Yehu Yahuda kralını takip ederken onu vurdu ve Yahuda kralı — tahmin edin ne oldu — Megiddo’da öldü!
+{{% bible val="Ordunun komutanı Yehu sonunda meshedildiğinde" link="2ki:9" lang="tr" %}}, Yahuda'ya kadar uzanan İzebel'in tüm ağını yok etmeye koyulur. Bu süreçte Yehu, Yahuda kralıyla karşılaşır ve onu vurur - ve Yahuda kralı, nerede dersiniz, Megiddo'da ölür.
 
-## Josiah
+## Yoşiya
 
 <a name="9ad1"></a>
-{{% int_link val="Bunun için ayrı bir giriş vardır" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}. Bir kral, Babil İmparatorluğu’na karşı Asurluları desteklemek için yola çıkan Mısır Kralı’yla savaşırken canını verir. Sadece birkaç not:
+{{% int_link val="Bunun için ayrı bir yazı var" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}, ama kısacası şu: Bir kral, yükselmekte olan Babil İmparatorluğu'na karşı Asurlulara yardım etmek üzere yola çıkan Mısır kralıyla savaşırken canını verir. Eklemeye değer birkaç not var.
 
-- Assur o dönemde İsrail’e sürekli baskı yapıyordu ve Babil sorun çıkardığı için bunu durduruyordu
-- Mısır bir yandan İsrail’in kölelikten kurtulduğu yerdi, ama her zaman İsrail için bir {{% bible val="yedek plandı ve normalde İsrail’i hayal kırıklığına uğrattı" link="2ki:18,21" lang="tr" %}}. Görünüşe göre Yoşiya İsrail’in Mısır’a karşı savaşan ilk kralıydı.
+Asur, o zamana kadar İsrail'e sürekli baskı uyguluyordu ve bunu ancak Babil kendisine sorun çıkarmaya başlayınca durdurdu. Mısır ise İsrail'in hikâyesinde tuhaf bir yer tutuyordu - İsrail'in köleliğinden çıktığı yerdi, ama aynı zamanda İsrail için {{% bible val="genellikle hayal kırıklığıyla sonuçlanan bir yedek plan" link="2ki:18,21" lang="tr" %}} olmaya devam etti. Görünüşe göre Yoşiya, Mısır'a karşı doğrudan savaşan ilk İsrail kralıydı.
 
 ## Sonuç
 
 <a name="733b"></a>
-Armagedon, Yeni Ahit’in tamamında, özellikle de Vahiy kitabında gördüğümüz bir paradoksu temsil eder: Yenilmez olan yok edilir ve zayıf olan fetheder.
+Armagedon, Yeni Ahit'in tamamında ve özellikle Vahiy Kitabı'nda işleyen bir paradoksu temsil eder: Yenilmez olan yok edilir, zayıf olan zafer kazanır. Yukarıdaki hikâyelerin hepsi aynı örüntüyü tekrar tekrar izler.
 
-- ölümün yeri her şeyi fethedenle alay eder
-- bir ev kadını bir ordu liderini yener
-- tek bir peygamber tüm İsrail’i Tanrı’ya döndürür ve kötü kraliçenin yüzlerce peygamberini yener
-- tek bir komutan hazırlık yapmadan kralını ve komşu kralı devirir
-- Küçük bir krallığın kralı bir dünya gücüne karşı savaşır, yenilir ve öldürülürse halkının geleceğini güvence altına alır
+Ölümün yaşandığı yer, her şeyi fetheden kişiyle alay eder. Bir ev kadını bir ordu komutanını yener. Tek bir peygamber, tüm İsrail'i Tanrı'ya geri döndürür ve kötü kraliçenin yüzlerce peygamberini yener. Tek bir komutan, neredeyse hiçbir hazırlık yapmadan hem kendi kralını hem de komşu kralı devirir. Küçük bir krallığın kralı bir dünya gücüyle savaşır, yenilir ve öldürülür - ve ölümüyle halkının geleceğini güvence altına alır.

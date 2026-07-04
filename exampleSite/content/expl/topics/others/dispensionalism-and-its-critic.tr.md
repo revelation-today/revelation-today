@@ -1,5 +1,5 @@
 ---
-title: "Dispensionalizm ve Eleştirisi"
+title: "Dispansiyonalizm ve Eleştirisi"
 themes: ["Dispensasyonalizm"]
 weight: 2
 prev: /expl/topics/others/dispensionalism-a-little-history
@@ -13,105 +13,105 @@ sources:
       ref: goreman
 ---
 
-Dispensiyonalizm tartışılmaktadır ve okuyucu için anlaşılması çok kafa karıştırıcı olabilir. İşte Dispensionalizm’in bazı küçük eleştiri noktaları.
+Dispansiyonalizm sürekli tartışılan bir konudur ve tam olarak neyi ifade ettiğini belirlemek gerçekten kafa karıştırıcı olabilir, çünkü çok sayıda çeşidi vardır. Aşağıda, "Left Behind" — çoğu okurun aşina olduğu versiyon — dahil olmak üzere birkaç keskin ve somut eleştiri sunulmaktadır.
 
-Çok çeşitli olduğu için Dispensionalizmi eleştirmek zordur, ancak bunu keskin tutmaya çalışacağım ve “Left Behind” dan da yönler ekleyeceğim.
+Dispansiyonalizmi bir bütün olarak eleştirmek, tam da bu çeşitlilik yüzünden zordur; ama aşağıdaki noktalar belirsiz bir karikatüre saldırmak yerine keskin ve somut kalmaya çalışır.
 
 ## Gerçekçi anlayış
 
 <a name="16f7"></a>
-Bu yaklaşımın Kutsal Kitap’ı harfi harfine kullanacağı, bunun da temelde iyi bir şey olduğu, ancak böyle bir yaklaşımın her durumda Kutsal Kitap’ın literatürünü yansıtmayacağı savunulmaktadır.
+Dispansiyonalizm, Kutsal Kitap'ı harfiyen okumakla övünür; bu, yüzeyde oldukça sorumlu bir tutum gibi görünür. Sorun şu ki, bu yaklaşım Kutsal Kitap edebiyatının her durumda nasıl işlediğini gerçekte yansıtmaz.
 
-Şarkıların şarkısı gibi şiirsel bir edebiyat vardır. [Her şey harfi harfine alınırsa Sulamith böyle görünecektir](https://www.pinterest.com/pin/414894184412811101/). {{% bible val="Bunun kelimesi kelimesine kastedilmiş olma ihtimalinin düşük olduğu başka yerler de var" link="isa:55,12" lang="tr" %}}.
+Baştan sona şiirsel bir edebiyat olan Ezgiler Ezgisi'ni ele alalım. Onu düz bir harfiyenlikle okursanız, Sulamit [böyle](https://www.pinterest.com/pin/414894184412811101/) görünür — ki bu açıkça amaçlanan anlam değildir. Başka birkaç pasaj da aynı uyarı işaretini taşır; bunlardan birinde metnin kendisi {{% bible val="harfiyen" link="isa:55,12" lang="tr" %}} anlaşılmasının amaçlanmadığını belirtir.
 
-Dahası, Dispensionalistler bu ilkeyi uygulamakta yetersiz kalırlar. {{% bible val="Canavarın yedi başlı ve on boynuzlu olmayacağı konusunda hemfikirdirler" link="rev:13,1" lang="tr" %}}. {{% bible val="Yecüc ve Mecüc’e" link="rev:20,8" lang="tr" %}} bile {{% bible val="Tanrı’nın yay ve okları yok etmesine atıfta bulunulur" link="ezk:39,3" lang="tr" %}}, bunlar uçaklar ve füzeler olarak yorumlanır.
+Daha da çarpıcı olanı, dispansiyonalistlerin kendi ilkelerini bile tutarlı biçimde uygulamamalarıdır. Örneğin, {{% bible val="canavarın hiçbir gerçek, görünür anlamda yedi başı ve on boynuzu olmayacağı" link="rev:13,1" lang="tr" %}} konusunda hemfikirdirler. Ve {{% bible val="Gog ve Magog" link="rev:20,8" lang="tr" %}}, {{% bible val="Tanrı'nın yay ve okları yok edeceğine" link="ezk:39,3" lang="tr" %}} dair bir ifadeyle birlikte geçtiğinde, dispansiyonalistler "yay ve oklar" ifadesini seve seve uçaklar ve füzeler olarak okurlar — harfiyenliği rozet gibi taşıyan bir yorum yöntemi için hiç de harfi harfine olmayan bir hamle.
 
 ## Literatür anlayışının eksikliği
 
 <a name="41cf"></a>
-Teori edebiyatın türünü dikkate almaz: Apokaliptik, kehanetsel bir mektup “seti”. Onu bir tarih açıklaması olarak yorumlar.
+Daha derindeki sorun, teorinin ele aldığı edebiyatın türünü hiç hesaba katmamasıdır. Vahiy, bir tarihsel kayıt değil, kıyametsel ve peygamberane bir mektuplar bütünüdür — yine de dispansiyonalizm onu, tarihin sırayla açılan düz bir betimlemesiymiş gibi yorumlar.
 
 ## Orijinal okuyucular için bir önemi yok
 
 <a name="a509"></a>
-Bu teori orijinal okuyucular için hiçbir anlam ifade etmemektedir. Gelecekteki olaylarla ilgili olduğu savı da geçerli değildir, çünkü Daniel kitabı da çok uzak geleceğe bakar, {{% bible val="ancak bu kitap mühürlenmiştir (zaman hazır olana kadar)" link="dan:8,26" lang="tr" %}}, ancak {{% bible val="Vahiy" link="rev:22,10" lang="tr" %}} için böyle bir durum söz konusu değildir.
+Bu okumaya göre, kitap ilk yazıldığı kişiler için hiçbir anlam taşımıyor olurdu. Alışılagelmiş savunma — Vahiy'in gelecekle ilgili olduğu, dolayısıyla ilk okuyucuların onu tam olarak kavrayamayacağı — tutmuyor. Daniel kitabı da çok uzak bir geleceğe bakar, ama o {{% bible val="kitap, zaman gelene dek mühürlenmişti" link="dan:8,26" lang="tr" %}}. {{% bible val="Vahiy" link="rev:22,10" lang="tr" %}} ise açıkça mühürlenmemesi söylenen bir kitaptır; bu da tam tersini işaret eder: kitap, yüzyıllar sonra çözülmek üzere değil, ilk okuyucuları tarafından anlaşılmak üzere yazılmıştır.
 
 ## Bağlama dayalı
 
 <a name="a4b2"></a>
-Teori sık sık açıklama yapmadan iddialarda bulunmakta ya da İncil’den ayetler kullanmakta, ancak bunlar kendi bağlamı içinde değerlendirilmemektedir.
+Teori çoğu zaman açıklama yapmadan iddialar öne sürer ya da bağlamından koparılmış bir Kutsal Kitap ayetleri cephaneliği kullanır.
 
-{{% bible val="70 yıl kehanetindeki asıl 2000 yıllık gecikme" link="dan:9,26-27" lang="tr" %}}, bu ayetlerin sadece Kral James çevirilerinde desteklenen çok özel bir okumasına, hatta noktalamasına bağlıdır.
+Bunun iyi bir örneği, sistemin köşe taşlarından biri olan {{% bible val="70 yıl kehanetindeki 2000 yıllık gecikmedir" link="dan:9,26-27" lang="tr" %}}. Bu, bir ayetin — noktalama işaretine varana kadar — çok özel bir okumasına dayanır ve bu belirli noktalama yalnızca King James çeviri geleneğinde desteklenir.
 
 ## Gelecek Tahmini
 
 <a name="e389"></a>
-Bu yorum sıklıkla güncel siyasetin belirli bir unsurunun Vahiy Kitabı’nda öngörüldüğünü ya da tarihin bugüne kadar izlediği yolun Kitap’ta belirlendiğini ifade etmek için kullanılır.
+Bu yorum tarzı, çoğu zaman güncel siyasetin belirli bir unsurunun Vahiy Kitabı'nda önceden bildirildiğini, hatta tarihin bugüne kadarki tüm seyrinin orada önceden çizildiğini iddia etmek için kullanılır.
 
-Bu yaklaşımın çeşitli kusurları vardır:
+Bu yaklaşıma birkaç kusur işlemiştir:
 
-- Tanrı’nın ayrıntılı planı peygamberler tarafından bildirilse bile sabit değildir, {{% bible val="Yunus" link="jon:3,4-10" lang="tr" %}}’un ya da {{% bible val="Hesekiya" link="isa:38,1-5" lang="tr" %}}’nın öyküsüne bakın
-- Bir kehanet kitabı olarak amaç kehanette bulunmak değil, (potansiyel) sonuçları tarif etmek ve insanları bunların gerçekleşmemesi için harekete geçmeye teşvik etmektir
-- Tarihi olayların o kadar çok “eşleşmesi” vardı ki, bunlar o kadar ikna ediciydi ki, ancak zaman geçtikçe hepsi revize edildi, böylece tüm bu uygun tahminlerin miktarı buna karşı en iyi argüman oldu 😎
-- Tahmin genellikle özel bir tünel bakış açısıyla yapılır, örneğin kiliselere gönderilen yedi mektup kilisenin 7 dönemi olarak görülür ve şu anda Laodikya’nın, ılık kilisenin son döneminde yaşıyoruz. Bu bazı batı kiliseleri için bir yorum olabilir ama şu anda sıkıntı altında olan birçok kilise için çok yanlış bir görüş olacaktır
+- Tanrı'nın ayrıntılı planları, peygamberler tarafından ilan edilmiş olsalar bile sabit değildir — sonucun değiştiği {{% bible val="Yunus" link="jon:3,4-10" lang="tr" %}} ya da {{% bible val="Hizkiya" link="isa:38,1-5" lang="tr" %}} öyküsüne bakın.
+- Peygamberlik kitabı olarak Vahiy'in amacı önceden bildirmek değil, olası sonuçları betimlemek ve insanları bu sonuçların gerçekleşmemesi için harekete geçmeye teşvik etmektir.
+- Zamanında ikna edici görünen, ama zaman ilerledikçe sessizce gözden geçirilen, sözde kusursuz "uyuşmalar" o kadar çok olmuştur ki, terk edilen bu uyuşmaların sayısının kendisi, onları üreten yönteme karşı en güçlü kanıttır.
+- Tahminler çoğu zaman dar bir tünel bakışına dayanır. Örneğin, kiliselere yazılan yedi mektup, kilise tarihinin yedi çağı olarak okunur ve şimdi son çağda, ılık Laodikya çağında yaşadığımız iddia edilir. Bu, bazı Batılı kiliseleri tarif ediyor olabilir; ama dünyanın dört bir yanında gerçek bir sıkıntı içinde yaşayan pek çok kiliseyi son derece yanlış tarif eder.
 
 ## Kıyamet yok
 
 <a name="039a"></a>
-{{% int_link val="Kıyamet falan yok." link="/expl/topics/others/the-rapture" %}}
+Belki de hepsinin en açık sorunu şudur: {{% int_link val="göğe alınma diye bir şey yoktur." link="/expl/topics/others/the-rapture" %}}
 
 ## Üçüncü tapınak
 
 <a name="1e67"></a>
-Teori Kudüs’te yeni bir tapınak inşa edileceğinden bahseder ki bu da {{% bible val="tapınağın Vahiy’de Yahudi olmayanlara verilmesine dayanır" link="rev:11,1-2" lang="tr" %}}. Şu anda bina olarak bir tapınak mevcut olmadığından, inşa edilmesi gerekir. {{% int_link val="Bu yorum, tapınağın bir bina değil" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}}, Tanrı’nın varlığının bir tasviri olduğunu dikkate almaz.
+Teori, {{% bible val="Vahiy'de tapınağın diğer uluslara verilmiş olması gerçeğinden" link="rev:11,1-2" lang="tr" %}} yola çıkarak Kudüs'te yeni bir tapınağın inşa edilmesi gerektiğini savunur — bugün böyle bir bina olmadığına göre, birinin hâlâ inşa edilmesi gerektiğini ileri sürer. Ama bu okuma, tapınağın {{% int_link val="illa bir bina olması gerekmediğini" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} gözden kaçırır; Vahiy boyunca tapınak, yeniden inşa edilmeyi bekleyen bir mimari parça değil, Tanrı'nın huzurunun bir tasviri olarak işlev görür.
 
-Bu nedenle yeni bir tapınak binasının inşa edileceğine dair bir ifade vardır.
+Gerçek, harfi harfine yeni bir tapınak binasının dikileceği iddiası, metinden hiçbir şekilde çıkmaz.
 
 ## Sıkıntı
 
 <a name="baa3"></a>
-{{% int_link val="Bu daha uzun bir hikaye" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
+Sıkıntı konusu kendi başına ele alınmayı hak ediyor: {{% int_link val="bu, daha uzun bir hikaye ve burada anlatılıyor" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}.
 
 ## Kilise ve İsrail
 
 <a name="5d19"></a>
-Teori, kiliseyi Eski Ahit ile 1000 yıllık krallık arasında “dağılmalar” nedeniyle bir ara yapı olarak ortaya koymaktadır: Kilisenin zamanından sonra İsrail’le olan antlaşma yeniden tesis edilecek ve etnik İsrail dünyaya hükmedecektir. Kilise terimi 3. bölümden sonra mevcut olmadığından ve sadece 21. bölümde geçtiğinden, kilise bu zamanda kendinden geçmiştir.
+Teori, kiliseyi Eski Ahit ile bin yıllık krallık arasına "dispensasyonlar" mantığıyla sıkıştırılmış ara bir yapı olarak ele alır. Bu şemaya göre, kilise çağı sona erdiğinde İsrail'le yapılan antlaşma yeniden yürürlüğe girer, etnik İsrail dünyaya hükmeder, kilisenin kendisi ise göğe alınır — bu sonuç büyük ölçüde "kilise" teriminin 3. bölümle 21. bölüm arasında hiç geçmemesi gerçeğinden çıkarılır.
 
-Bu konuda yanlış olan birçok şey vardır. Ancak bu konuya gelmeden önce, bu görüşün, kiliseye orta çağda Yahudilere zulmetmek için bahane veren Tanrı’nın İsrail’i reddettiği teorisine iyi bir karşılık olduğunu kabul etmek istiyorum.
+Bu kurguda yanlış olan birkaç şey vardır. Ama onlara geçmeden önce, şunu kabul etmekte fayda var: bu görüş, en azından, Tanrı'nın İsrail'i tamamen reddettiğini öne süren ve Orta Çağ boyunca kiliseye Yahudilere zulmetmek için bahane veren daha eski teoriye iyi bir denge unsuru oluşturur.
 
-Peki sorun ne?
+Peki tam olarak nesi yanlış?
 
-- {{% int_link val="kilise, İsrail’in orijinal" link="/expl/background/israel/the-church-is-part-of-israel" %}} çağrısının yerine getirilmesi ve {{% bible val="kilisenin İsrail’in bir parçası" link="rom:11,13-24" lang="tr" %}} olması yoluyla İsrail ile özdeşleştirilir
-- {{% bible val="İsrail ile diğer uluslar arasında artık bir duvar/ayrım yoktur" link="eph:2,11-22" lang="tr" %}}
-- {{% bible val="Kilise geçici değil, Sina’daki antlaşmadır" link="gal:3,15-29" lang="tr" %}}; Mesih’e iman ise İbrahim’le yapılan antlaşmanın yerine gelmesidir
-- kilise ortadan kalkmaz çünkü terim ortadan kalkar
-- Eğer tüm İsrail yönetecekse, Tanrı’ya hiç inanmayan insanlar ne olacak — ve bu ateistlerin olmadığı Eski Ahitlerde daha da iyiydi ;-)
+- Kilise, İsrail'in özgün çağrısının yerine gelmesi anlamında {{% int_link val="İsrail ile özdeşleştirilir" link="/expl/background/israel/the-church-is-part-of-israel" %}} ve {{% bible val="kilise İsrail'in bir parçasıdır" link="rom:11,13-24" lang="tr" %}}.
+- {{% bible val="İsrail ile diğer uluslar arasında artık bir duvar ya da ayrım yoktur" link="eph:2,11-22" lang="tr" %}}.
+- Geçici olan kilise değildir, {{% bible val="geçici olan Sina'daki antlaşmadır" link="gal:3,15-29" lang="tr" %}}; Mesih'e iman ise İbrahim'le yapılan daha önceki antlaşmayı yerine getirir.
+- Kilise, metinden "kilise" kelimesi kaybolduğu için hikâyeden kaybolmuş olmaz.
+- Eğer yalnızca etnik İsrail hükmedecekse, Tanrı'ya hiç inanmayan insanların hali ne olacak? Eski Ahit bile bu soruyu daha doğrudan ele almıştır — hiç değilse hitap edecek imansız insan sıkıntısı çekmiyordu.
 
 ## En önemli şeyler
 
 <a name="c445"></a>
-En önemlileri, her ikisinden de bir kez bahsedilen kendinden geçme ve sıkıntı teorisidir. Çok daha fazla yer alan ve kitabın içeriğini oluşturan diğer konular ihmal edilmiştir.
+Teorinin en ağırlıklı dayandığı iki fikir olan göğe alınma ve sıkıntı, Kutsal Kitap'ın tamamında yalnızca bir veya iki kez geçer. Bu arada, gerçekten tekrar tekrar geçen ve kitabın asıl içeriğinin büyük bölümünü oluşturan temalar ise kenara itilir.
 
 ## İnancın sebebi
 
 <a name="d9ea"></a>
-İmanın nedeni bu teoride korkudur — eğer inanmazsanız kendinden geçmenin bir parçası olmayacak ve geride bırakılacaksınız. {{% int_link val="Korku kilisenin değil, canavarın bir özelliğidir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Ayrıca iman sadece kurtarılmaya indirgenmiştir, Mesih gibi olmaya, komşunuzu sevmeye ya da toplumu etkilemeye değil.
+Bu teorinin nihayetinde sunduğu iman sebebi korkudur: ya inanırsınız, ya da göğe alınmayı kaçırıp geride bırakılırsınız. Ama korku, {{% int_link val="kilisenin değil, canavarın bir özelliğidir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Üstelik böylece iman, kurtulmak gibi tek bir işleme indirgenir; Mesih'e benzemeye, komşuyu sevmeye ya da toplumu iyiye doğru şekillendirmeye pek yer kalmaz.
 
 ## Savaş silahları
 
 <a name="6f89"></a>
-İman, {{% bible val="Vahiy’in bir yansıması olmayan orduya katılan çok militarist bir şekilde tanımlanır" link="rev:14,1-5" lang="tr" %}}: {{% bible val="İsa ağzındaki kılıçla tek başına savaşa gider" link="rev:19,21" lang="tr" %}}. Bu çok sembolik bir eylemdir ve şiddetli bir savaş eylemi anlamına gelmez.
+Bu çerçevede iman, katılınacak bir ordusuyla birlikte, ağır biçimde militarist terimlerle betimlenir. Oysa bu tablo {{% bible val="Vahiy'in gerçekte gösterdiği şey değildir" link="rev:14,1-5" lang="tr" %}}: {{% bible val="İsa savaşa tek başına gider, tek silahı ağzının kılıcıdır" link="rev:19,21" lang="tr" %}}. Bu, bilinçli olarak sembolik bir imgedir, harfi harfine, şiddetli bir savaş çağrısı değil.
 
 ## Yanlış bir şekilde siyasi
 
 <a name="51cc"></a>
-Teori, siyaset hakkında Kutsal Kitap’a dayanmayan ve hatta çelişen açıklamalar yapmaktadır:
+Teori ayrıca, Kutsal Kitap'ın desteklemediği ve zaman zaman kendi içinde çelişen siyasi iddialarda da bulunur:
 
-- Katolik karşıtıdır.
-- eleştirel olmayan Amerikan ve İsrail yanlısıdır (not: Eski Ahit İsrail’e karşı çok eleştireldir)
-- Orta Doğu’daki savaşı Tanrı’nın planının bir parçası ve dolayısıyla iyi bir şey olarak görür
+- Katolik karşıtlığına eğilimlidir.
+- Eski Ahit'in kendisi İsrail'e sıkça eleştirel yaklaşsa da, teori eleştirisiz biçimde Amerikan ve İsrail yanlısıdır.
+- Orta Doğu'daki mevcut savaşları Tanrı'nın planının bir parçası olarak görür ve bu yüzden onları yas tutulacak değil, hoş karşılanacak bir şey sayar.
 
 ## Daha fazla okuma
 
 <a name="b176"></a>
-Eğer çok daha fazla ayrıntıya girmek isterseniz, “[The rapture exposed](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143)” başlıklı makaleye bir göz atın.
+Konuya çok daha ayrıntılı girmek isterseniz, "[The rapture exposed](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143)" başlıklı esere bir göz atın.

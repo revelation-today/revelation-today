@@ -15,33 +15,33 @@ sources:
       ref: beale_rev
 ---
 
-There is a small scroll that John has to eat and the mystery of the seven thunders. What is the meaning of this?
+Chapter 10 centers on a small scroll that John is told to eat, and on the mystery of the seven thunders — sealed up the moment they speak. What do these two strange details mean?
 
-## The motivation
+## Why the story pauses here
 
 <a name="0e5a"></a>
-After the sixth trumpet, it looks like nothing is going to rescue the people from the demons that are destroying them. As a result, we have a longer interlude between the sixth and seventh trumpets, which come at the end of chapter 11. This connects chapters 10 and 11.
+After the sixth trumpet, it looks as though nothing is going to rescue people from the demons destroying them: nine plagues have come and gone, and still no one repents. That dead end is why chapters 10 and 11 form a longer interlude between the sixth and seventh trumpets — the seventh doesn't sound until the end of chapter 11.
 
-Something else must be needed to turn people away from their own disaster, and that is the faithful testimony of the church — represented by the witnesses who have their source in the worship of God.
+Something other than hardship is needed to turn people back to God, and the text points to the answer: the faithful testimony of the church, represented by two witnesses whose testimony is rooted in the worship of God rather than in disaster.
 
 ## The angel with the scroll
 
 <a name="6058"></a>
-To make this possible, an angel appears on a white cloud. Whether it is Jesus Himself or an angel representing Him: This is connected with Jesus. Also, the existence of a scroll links to the event in chapter 5 where Jesus opened a scroll.
+To make that testimony possible, an angel appears on a white cloud. Whether this is Jesus himself or an angel representing him, the scene is unmistakably tied to him — and so is the scroll he carries, which recalls the scroll Jesus opened back in chapter 5.
 
-This scroll is not the same as the one in chapter 5, but it is related to it. Here it is called a smaller scroll and was to be eaten by John/the church and be a witness — there it is just a scroll and is to be opened by Jesus to expose Satan.
+It isn't the same scroll, but it is related to it. The chapter 5 scroll is simply "a scroll," opened by Jesus to expose Satan's downfall; this one is explicitly smaller, and instead of being opened, it is eaten — by John, standing in for the church — so that it can be turned into testimony.
 
-The connection is that Jesus defeated Satan on the cross, which is the main part. But there is still something (small) for the church to do. This is essential to fulfill God’s plan.
+The link between the two is one of scale: Jesus defeated Satan on the cross, and that victory is the main event. What's left is a smaller task, but still an essential one, for the church to carry out in order to see God's plan through to completion.
 
-As assurance, the angel puts one foot on the sea and one on the land, showing that he rules over them (in chapter 13, the two beasts that come out of them), so the church has nothing to fear.
+The angel underlines that the church has nothing to fear from this task by planting one foot on the sea and one on the land — the very ground that, in chapter 13, will produce the two beasts. Standing over both is a way of asserting authority over both.
 
-And then there are the seven thunders that speak. We are very curious as to what they say, but they are sealed. So, sorry, we can speculate what it would be, but we will not find out until God reveals it.
+Then come the seven thunders. Whatever they say is tantalizing precisely because we're never told: John is ordered to seal up their words rather than write them down. We can speculate all we like about their content, but we won't find out until God chooses to reveal it.
 
 ## Eating the scroll
 
 <a name="c6ef"></a>
-John is asked to eat this scroll. This reminds us of Ezekiel and his eating of the scroll. He had to assimilate the message that he would later preach. This is the same for John. He makes this scroll his own. What is the content?
+John is told to eat the scroll, an image that recalls Ezekiel eating his own scroll: in both cases, the prophet has to internalize the message before he can preach it. John does the same here, making the scroll his own before he can pass it on. So what does that content turn out to be?
 
-It describes what Jesus has done (sweet in the mouth) and what the consequences are (bitter in the stomach), which is the judgment for the world, but much more, what not to do to give witness to the world that hates them and will not threaten them better than Jesus.
+The taste tells the story. It is sweet in the mouth — what Jesus has already accomplished — and bitter in the stomach: the judgment still coming on the world, and the cost of bearing witness to a world that hates the church for it, a hatred the church is not to answer in kind, since it is called to follow Jesus rather than threaten as he was threatened.
 
-But what is the scroll now? Looking at the next chapter(s), it is the testimony of the Church to reach the nations, which the Church will finally accomplish.
+So what is this scroll, in the end? The chapters that follow answer the question by showing it in action: it is the testimony that the church carries to the nations, and that the church will ultimately deliver in full.

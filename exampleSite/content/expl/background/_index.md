@@ -4,16 +4,9 @@ title: Background
 weight: 4
 ---
 
-As a good foundation for our work we need to get a better understanding of the following topics:
-- What was the historical situation of the first readers? 
-    - Which topics might be addressed?
-    - How would they read it?
-- What type of literature are we reading?
-    - Do we need to take everything literally?
-    - Or rather symbolic?
-    - How does it help us to understand the emphasis of the writer?
-- What is the structure of the book?
-    - When does a new section start?
-    - What is the key statement of a section?
-- As a topper:
-    - We need a better understanding of the role of Israel
+Before we open Revelation itself, it helps to lay a foundation in four areas.
+
+- **The historical situation of the first readers.** What challenges were they facing, and which topics in the book were likely addressed to those challenges? How would they, as first-century readers, have understood what they were hearing?
+- **The type of literature we're reading.** Should we take everything literally, or is much of it symbolic? Either way, how does recognizing the genre help us see where the writer's real emphasis lies?
+- **The structure of the book.** Where does one section end and the next begin, and what is the key statement that each section is built around?
+- **The role of Israel.** As a capstone to all of this, we need a clearer understanding of how Israel fits into the book's argument.

@@ -9,51 +9,37 @@ docType: expl
 appl: /appl/content/letters
 ---
 
-Vahiy Kitabı, belirlenmiş yedi kiliseye gönderilen yedi mektubu gösterir. Amaç nedir? Nasıl inşa edilir? Ve genel masaj nedir?
+Vahiy kitabı, yedi belirli kiliseye gönderilen yedi mektup içerir. Bu mektupların amacı nedir, nasıl düzenlenmiştir ve genel mesaj nedir?
 
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="cf1d"></a>
 - {{% int_link val="Kitabın tarihsel arka planı" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}
-- [Ne tür bir kitap bu?](/background/literature/expl/the-book-of-revelation-how-to-read-it)
+- {{% int_link val="Bu nasıl bir kitap" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}
 - {{% int_link val="Vizyon" link="/expl/content/vision/the-vision" %}}
 - {{% int_link val="Kiliselerin melekleri" link="/expl/content/letters/the-angel-of-the-churches" %}}
 
-## Vizyon
+## Mektupların ardındaki vizyon
 
 <a name="12bf"></a>
-Johannes mektuptan önce {{% int_link val="Tanrı’nın kiliseyi nasıl hayal ettiğini yazar" link="/expl/content/vision/the-vision" %}}.
+Mektupları yazmadan önce Yuhanna, {{% int_link val="Tanrı'nın kilise için vizyonunun" link="/expl/content/vision/the-vision" %}} nasıl olduğunu kaydeder. Mesaj şudur: yıldızlar ve kandillikler olarak resmedilen Kilise'nin ışık olması amaçlanmıştır — kandillikler Kilise'nin içinde ışık verir, yıldızlar dünyaya ışık verir — ama bunu ancak İsa'ya bağımlı olarak yapabilir, hiçbir zaman O'ndan bağımsız değil. Yedi kilisenin yargılandığı ölçüt tam olarak budur.
 
-Mesaj şudur: Yıldızlar ve kuzu duruşları olarak yansıtılan kilise ışık olmalıdır (kuzu kilisenin içinde durur ve yıldızlar dünyaya doğru), ancak bunu İsa’ya bağlı olarak yapmalıdırlar, onsuz değil.
+Bu bölümün başında {{% bible val="İsa'nın ne yaptığını" link="rev:1,5-6" lang="tr" %}} zaten görmüştük. Şimdi kiliselerin gerçekte içinde bulunduğu duruma, ve Tanrı'nın onları o vizyonun tarif ettiği çağrıya doğru ilerletmek için ne yaptığına dönüyoruz.
 
-İşte kiliseler bunun için yargılanır.
-
-Bölümün başında İsa’nın ne yaptığını gördük, şimdi kiliselerin içinde bulunduğu durumu görüyoruz ve Tanrı’nın kiliselerin mükemmelliğine doğru ilerlemek için ne yaptığını göreceğiz.
-
-## Mektuplar
+## Mektupların yapısı
 
 <a name="e24f"></a>
-Mektupların her birinde
+Her mektupta İsa aynı temel örüntüyü izler: kiliseye belirli bir şekilde hitap eder, iyi işleri için över, eksiklikleri için yüzleşir ve bir söz verir — ya eksikliklerinin üstesinden gelmeleri ya da iyi işlerini sürdürmeleri için.
 
-- İsa kiliselere belirli bir bakış açısıyla yaklaşır,
-- iyi davranışları için onları över ve
-- eksiklikleri için onlarla yüzleşir ve
-- Sonunda onlara eksikliklerinin üstesinden gelmeleri ya da iyi işlerini sürdürmeleri için bir söz verir.
+Yedi mektup kendi içinde simetrik olarak düzenlenmiştir:
 
-Harfler simetrik olarak düzenlenmiştir.
+- İlk ve son kilise en kötü durumda olanlardır. İlki, Efes, değişmezse kandilliğinin yerinden kaldırılacağı konusunda uyarılır — yukarıdaki vizyon açısından bu kilise amacını yitirmiştir ve artık var olmak için bir nedeni kalmamıştır. Sonuncusu, Laodikya, hiç övgü almayan tek kilisedir.
+- İkinci ve sondan ikinci (İzmir ve Filadelfiya) hiç azarlanmayan, yalnızca övgü alan iki kilisedir.
+- Üçüncü ve beşinci (Pergamon ve Sardes) hem iyi hem kötü yönlere sahiptir, dördüncüsü ise Thyatira, kötü önderliğin ne kadar zarar verebileceğine dair diğer kiliselere bir uyarı örneği olarak merkezde durur.
 
-İlk ve son kilise mutlak başarısızlıkları olan kiliselerdir. Son kilise Laodikya övgü almayan tek kilisedir ve ilk kilise eğer değişmezse kuzularının sallanacağı tehdidiyle karşı karşıyadır — yukarıdaki vizyon açısından bu kilise amacını yitirmiştir ve daha fazla var olmasına gerek yoktur.
+Eşleşen kiliseleri karşılaştırmak çarpıcı noktalar ortaya çıkarır:
 
-İkinci ve sonuncu kiliseler azarlanmayan kiliselerdir, sadece övgü alırlar.
-
-Üçüncüden beşinciye kadar olan bölümler bazıları iyi bazıları kötü olan kiliselerdir; dördüncü bölüm ise diğer kiliseler için örnek olarak kullanılmıştır.
-
-Çiftleri karşılaştırdığımızda ilginç noktalar buluyoruz:
-
-Efes ve Laodikya: Efes her şeyi doğru yapar ama ilk sevgisini kaybetmiştir, Laodikya ise hiçbir şeyi doğru yapmaz ama kendi kendini aldatan bir dünyada yaşar. Ama sevgi olmadan her şeyi doğru yapsanız da Laodikya’dan daha iyi olamazsınız ve amacınızı kaybedersiniz.
-
-Smyrna ve Philadelphia: Her iki kilise de zulüm altındadır: İzmir hapse girmekten korkar, Filadelfiya ise yoksuldur. Her ikisinde de Yahudi muhalefeti vardır. Filadelfiya’da Yahudilerin din değiştireceğine dair söz verilirken, İzmir’de böyle bir durum söz konusu değildir. Ancak durum ne olursa olsun, her iki kilise de çalışmalarını sürdürme konusunda imanı korumalıdır. Vaat, İsa’nın onlara yol göstereceğidir, tüm faaliyetlerinin başarılı olacağı değil.
-
-Bergama ve Sardeis: Bergama’daki zina ile Sardeis’teki Ruh’un eksikliğini karşılaştırmak zor görünüyor. Sorun her iki kilisede de önderliğin yanlış etkilere (belki öğretiş şeklinde) izin vermesi nedeniyle var olabilir mi? Öyleyse önderlik Kutsal Ruh’a özgürlük tanımaya özen göstermeli ama herkesin öğretisine değil.
-
-Thyatira: Ana mesaj budur ve ana nokta kötü bir önderliktir ve İsa herkesin tanık olması için bu kiliseyi yargılayacaktır. Belki de ana nokta önderlerin kiliseye tanıklık etmesinin önemini vurgulamaktır.
+- **Efes ve Laodikya.** Efes her şeyi doğru yapar ama ilk sevgisini kaybetmiştir. Laodikya ise tam tersine hiçbir şeyi doğru yapmaz ve kendi kendini aldatan bir sisin içinde yaşar. Ders her iki yönde de geçerlidir: sevgi olmadan geri kalan her şeyi doğru yapabilirsin, yine de Laodikya'dan daha iyi durumda olmazsın — sevgisiz bir kilise amacını yitirmiştir.
+- **İzmir ve Filadelfiya.** Her ikisi de dışarıdan gelen muhalefetle karşı karşıyadır — İzmir hapse atılmaktan korkar, Filadelfiya yoksullukla mücadele eder — ve her iki durumda da baskı Yahudi muhalefetinden gelir. Filadelfiya'ya bu muhaliflerin sonunda din değiştireceği vaat edilir; İzmir'e böyle bir vaat verilmez. Yine de her iki durumda da kiliselere sadece imanlarını korumaları ve işlerini sürdürmeleri söylenir. İsa onlara, giriştikleri her şeyin başarılı olacağını değil, kendilerini bu sürecin içinden geçireceğini vaat eder.
+- **Pergamon ve Sardes.** Pergamon'un cinsel ahlaksızlığını Sardes'in ruhsal cansızlığıyla karşılaştırmak adaletsiz görünebilir, ama altta yatan sorun her ikisinde de aynı olabilir: yanlış etkilerin içeri sızmasına izin veren bir önderlik — ister denetlenmeyen sahte öğretiş yoluyla, ister Ruh'un işinin denetlenmeyen yokluğu yoluyla. Kilise önderliğinin dikkatli bir çizgide yürümesi gerekir — Kutsal Ruh'a çalışması için alan tanırken, kapıyı herkesin öğretisine açık bırakmadan.
+- **Thyatira.** Merkezde tek başına duran Thyatira'ya yazılan mektup, temelde kötü önderlikle ilgilidir. İsa hem önderleri hem de takipçilerini günahları için yargılayacaktır, ve diğer kiliselerin bunu not etmesi amaçlanmıştır — kötü önderliğin bir kilisenin tanıklığına ne kadar zarar verdiğine dair keskin bir hatırlatma.

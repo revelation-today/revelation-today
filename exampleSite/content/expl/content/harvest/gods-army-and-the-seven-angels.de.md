@@ -16,93 +16,77 @@ sources:
       ref: bauckham_climax
 ---
 
-Kapitel 14 der Offenbarung ist eines der verwirrendsten Kapitel und scheint am falschen Platz zu sein. Wir müssen also einen genaueren Blick darauf werfen.
+Kapitel 14 der Offenbarung ist eines der rätselhaftesten Kapitel der Bibel – auf den ersten Blick wirkt es losgelöst von allem, was davor und danach kommt. Liest man es aber im Zusammenhang mit dem, was vorausgeht und folgt, entpuppt es sich als Scharnier: ein Kapitel, das das vorherige beantwortet und das kommende vorbereitet. Es lohnt sich, genauer hinzuschauen.
 
 ## Die 144.000
 
 <a name="67e8"></a>
-Dieses Kapitel nimmt den Gedanken des {{% int_link val="Lammes aus Kapitel 5" link="/expl/content/worship/the-book-with-the-seven-seals" %}}, das würdig war, das Buch zu öffnen, wieder auf und verbindet ihn {{% int_link val="mit Kapitel 7" link="/expl/content/army/the-144000" %}}, wo von den 144.000 die Rede ist.Sie werden nun vor dem Thron dargestellt (die Erwähnung des Berges Zion in Vers 1 könnte ein Hinweis auf das himmlische Jerusalem sein).
+Das Kapitel greift zu Beginn zwei frühere Handlungsfäden auf: das {{% int_link val="Lamm, das in Kapitel 5 aufsteht" link="/expl/content/worship/the-book-with-the-seven-seals" %}} und für würdig befunden wird, die Schriftrolle zu empfangen, und {{% int_link val="Kapitel 7, wo von den 144.000 die Rede ist" link="/expl/content/army/the-144000" %}}. Nun werden dieselben 144.000 vor dem Thron versammelt – die Erwähnung des Berges Zion in Vers 1 könnte durchaus auf das himmlische Jerusalem hinweisen.
 
-Die 144.000 haben den Namen des Lammes und ihren Gott an ihren Stirnen (im Gegensatz zu dem Zeichen an Hand und Stirn im vorhergehenden Kapitel). Dies definiert ihre Identität und Zugehörigkeit zu Gott und bringt hier auch den Gedanken der Versiegelung aus Kapitel 7 ins Spiel.
+Die 144.000 tragen den Namen des Lammes und Gottes auf ihrer Stirn, ein Zeichen ihrer Identität und ihrer Zugehörigkeit. Das ist ein anderer Blickwinkel auf dieselbe Versiegelung, die bereits in Kapitel 7 beschrieben wurde. Sie singen ein neues Lied, wahrscheinlich in derselben Tonlage wie {{% bible val="Kapitel 5" link="rev:5,9-10" lang="de" %}}, wo die Anbetung des Lammes ebenso von Engeln zur ganzen Schöpfung hinausgetragen wird.
 
-Sie singen ein neues Lied, dessen Kontext dem von {{% bible val="Kapitel 5" link="rev:5,9-10" lang="de" %}} ähnelt, wo beschrieben wird, wie die Anbetung des Lammes auf die ganze Schöpfung ausgedehnt wird.
-
-Dieser Abschnitt folgt unmittelbar auf den überwältigenden Druck des Drachen und der beiden Tiere. Diese überwältigen die Heiligen, bringen alle dazu, das erste Tier anzubeten, verführen die ganze Erde und betrachten die Menschen als ihr Eigentum.
-
-Das ist einschüchternd, aber die Heiligen widerstehen. In all dem haben sie ein Loblied (und ein Siegeslied) auf den Lippen, denn Satan ist der eigentliche Verlierer in dieser Geschichte:
+Diese Szene folgt unmittelbar auf den Drachen und die beiden Tiere auf dem Höhepunkt ihrer Macht: Sie überwinden die Heiligen, erzwingen Anbetung, verführen die ganze Erde und beanspruchen sie als ihr Eigentum. Angesichts all dieses Drucks wäre es naheliegend zu erwarten, dass Gottes Volk zermalmt wird. Stattdessen steht es noch immer, mit einem Lied des Lobes und des Sieges auf den Lippen – ein Beweis dafür, dass der Teufel trotz all seines Prahlens der eigentliche Verlierer der bisherigen Geschichte ist:
 
 - {{% bible val="Es gelingt ihm nicht, das Kind zu vernichten" link="rev:12,1-6" lang="de" %}}.
-- {{% bible val="Er verliert seine Position im Himmel" link="rev:12,7-12" lang="de" %}}.
-- {{% bible val="Er kann die Frau nicht vernichten" link="rev:12,13-17" lang="de" %}}.
-- {{% bible val="Seine Täuschung und Unterdrückung durch die beiden Tiere" link="rev:13" lang="de" %}} ist eine {{% int_link val="Katastrophe" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
-- {{% int_link val="Und sein Sieg über die Heiligen verkehrt sich ins Gegenteil" link="/expl/content/witnesses/the-two-witnesses" %}}.
+- {{% bible val="Er verliert seine Stellung im Himmel" link="rev:12,7-12" lang="de" %}}.
+- {{% bible val="Es gelingt ihm nicht, die Frau zu vernichten" link="rev:12,13-17" lang="de" %}}.
+- {{% bible val="Seine Verfolgung und Unterdrückung durch die beiden Tiere" link="rev:13" lang="de" %}} verwandelt sich für ihn in eine {{% int_link val="Katastrophe" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
+- {{% int_link val="Und sein Sieg über die Heiligen schlägt gegen ihn selbst zurück" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
-Aber nicht nur das, er hat damit auch den {{% int_link val="Inhalt des kleinen Buches erfüllt." link="/expl/content/scroll/the-little-scroll" %}} Doch was ist das Geheimnis der 144.000? Es ist hier beschrieben:
+Die 144.000 überstehen nicht nur den Angriff des Teufels – sie erfüllen auch die {{% int_link val="Bestimmung des kleinen Büchleins" link="/expl/content/scroll/the-little-scroll" %}}. Was ist ihr Geheimnis? Der Text sagt es direkt:
 
-“[Diese sind es, die sich mit Frauen nicht befleckt haben; denn sie sind jungfräulich [rein]. Diese sind es, die dem Lamm nachfolgen, wohin es auch geht. Diese sind aus den Menschen erkauft worden als Erstlinge für Gott und das Lamm, 5 und in ihrem Mund ist kein Betrug gefunden worden; denn sie sind unsträflich vor dem Thron Gottes.](https://www.bibleserver.com/SLT/Offenbarung14%2C4-5)”
+„{{% bible val="Diese sind es, die sich mit Frauen nicht befleckt haben; denn sie sind jungfräulich. Diese folgen dem Lamm nach, wohin es auch geht. Diese sind aus den Menschen erkauft worden als Erstlinge für Gott und das Lamm, und in ihrem Mund ist keine Lüge gefunden worden; sie sind untadelig." link="rev:14,4-5" lang="de" %}}"
 
-- Sie sind Jungfrauen: Das klingt zunächst merkwürdig, bezieht sich aber nicht auf ihren Ehestand, sondern auf ihre Treue zu Jesus. Es gibt für sie nichts Kostbareres als ihn.
-- Sie folgen dem Lamm: Sie gehen keine Kompromisse ein. Sie sind dem Lamm völlig treu und vertrauen ihm.
-- Weil “sie erkauft sind”: Sie sind wertvoll, weil sie teuer erkauft sind.
-- Keine Lüge wurde in ihrem Mund gefunden: Sie sind treue Zeugen wie {{% bible val="Jesus, der treu blieb, wenn er in Anfechtung war" link="1pe:2,22" lang="de" %}}.
-
-Zusammenfassend lässt sich sagen: Sie haben ihr Zeugnis in der Nachfolge Jesu kompromisslos gelebt und dafür Schwierigkeiten bis hin zum Martyrium auf sich genommen.
+Jeder Ausdruck dieser Beschreibung hat Gewicht. Sie werden Jungfrauen genannt – was zunächst merkwürdig klingt, sich aber nicht auf den Ehestand bezieht, sondern auf ihre Treue zu Christus, dem nichts kostbarer ist. Sie folgen dem Lamm, das heißt, sie gehen keine Kompromisse ein: Ihre Treue und ihr Vertrauen sind vollständig. Sie „sind erkauft worden", das heißt, sie wissen, dass sie zu einem hohen Preis erworben wurden. Und keine Lüge wurde in ihrem Mund gefunden, weil sie treue Zeugen waren, ganz wie Jesus, {{% bible val="der unter Druck nicht wankte" link="1pe:2,22" lang="de" %}}. Kurz gesagt: Sie lebten ihr Zeugnis kompromisslos in den Fußstapfen Jesu, ertrugen Not und sogar das Martyrium.
 
 ## Die ersten drei Engel
 
 <a name="ad85"></a>
-Die ersten drei Engel nehmen diese Spannung auf:
-
-- Die 144.000 sind treu und widerstehen den Tieren und sind ein Zeugnis für die Völker, die zu Jesus finden.
-- Die Menschen geben der Anspannung nach und lassen sich von den Tieren täuschen.
+Die ersten drei Engel spiegeln dieselbe Spannung wider, die sich im Kapitel bereits aufgebaut hat: Die 144.000 stehen treu und widerstehen dem Tier, während sie den Völkern Zeugnis geben, die zu Christus kommen, wohingegen andere dem Druck und der Täuschung des Tieres nachgeben.
 
 Der erste Engel kommt und verkündet das ewige Evangelium:
 
-“{{% bible val="Und ich sah einen anderen Engel inmitten des Himmels fliegen, der hatte ein ewiges Evangelium zu verkündigen denen, die auf der Erde wohnen, und zwar jeder Nation und jedem Volksstamm und jeder Sprache und jedem Volk. 7 Der sprach mit lauter Stimme: Fürchtet Gott und gebt ihm die Ehre, denn die Stunde seines Gerichts ist gekommen; und betet den an, der den Himmel und die Erde und das Meer und die Wasserquellen gemacht hat!" link="rev:14,6-7" lang="de" %}}”
+„{{% bible val="er hatte das ewige Evangelium zu verkündigen denen, die auf der Erde wohnen – jeder Nation und jedem Stamm, jeder Sprache und jedem Volk. Er sprach mit lauter Stimme: 'Fürchtet Gott und gebt ihm die Ehre, denn die Stunde seines Gerichts ist gekommen. Betet den an, der den Himmel, die Erde, das Meer und die Wasserquellen gemacht hat.'" link="rev:14,6-7" lang="de" %}}"
 
-“Ewiges Evangelium” ist ein sehr interessanter Begriff, der aus Psalm 96 stammt: “[Singt dem HERRN, preist seinen Namen, verkündigt Tag für Tag sein Heil!](https://biblehub.com/interlinear/psalms/96-2.htm)”. Das Wort “[basar](https://biblehub.com/hebrew/1319.htm)” (Heil) wird im griechischen Text mit “evangelion” übersetzt. Der Ausdruck “Tag für Tag” kann ewig bedeuten wie im{{% bible val="Buch der Sprüche" link="pro:8,30" lang="de" %}} zu sehen ist.
+„Ewiges Evangelium" ist ein bemerkenswerter Ausdruck, und er geht zurück auf Psalm 96: „[Verkündigt Tag für Tag sein Heil](https://biblehub.com/interlinear/psalms/96-2.htm)." Das hebräische Wort hinter „Heil" ist dort „[basar](https://biblehub.com/hebrew/1319.htm)", das der griechische Text mit evangelion übersetzt – Evangelium. Und der Ausdruck „Tag für Tag" kann auch „ewig" bedeuten, genau wie in {{% bible val="den Sprüchen" link="pro:8,30" lang="de" %}}.
 
-Im weiteren Verlauf von Psalm 96 wird dies für alle {{% bible val="Nationen und Völker erklärt" link="psa:96,3" lang="de" %}}. Der {{% bible val="Inhalt dieser Botschaft ist auch Teil dieses Psalms" link="psa:96,7-10" lang="de" %}}. Außerdem beginnt der Psalm mit “Singt dem Herrn ein neues Lied”, was auch die Beschreibung der 144.000 ist.
+Psalm 96 verkündet diese gute Nachricht im weiteren Verlauf allen {{% bible val="Nationen und Völkern" link="psa:96,3" lang="de" %}}, und der Inhalt dieser {{% bible val="Botschaft zieht sich auch durch den Rest dieses kurzen Psalms" link="psa:96,7-10" lang="de" %}}. Bemerkenswert ist, dass der Psalm mit „Singt dem Herrn ein neues Lied" beginnt – genau der Beschreibung, die vorher für die 144.000 verwendet wurde. Sein durchgehendes Argument ist, dass Gott König ist und alle Nationen eingeladen sind, ihn anzubeten.
 
-Der Psalm beansprucht, dass Gott König ist und alle Nationen EINGELADEN sind, ihn anzubeten.
+Der zweite Engel verkündet den Sieg über Babylon, während der dritte eine ernste Warnung vor dem Gericht für jeden ausspricht, der dem Tier nachgibt. Zusammen spiegeln sie den {{% bible val="Ruf zur Umkehr" link="rev:11,3" lang="de" %}} und die {{% bible val="warnenden Gerichte" link="rev:11,5" lang="de" %}} wider, die schon die beiden Zeugen überbracht haben.
 
-Ein zweiter Engel kommt und verkündet den Sieg über Babel, während ein dritter Engel deutliche Warnungen des Gerichtes ausspricht für alle, die dem Tier nachgeben. Das spiegelt auch den {{% bible val="Ruf zur Umkehr" link="rev:11,3" lang="de" %}} und die {{% bible val="Zeichenhandlungen" link="rev:11,5" lang="de" %}} der Zeugen wieder.
-
-Die Frage ist: Wie wird das ausgehen? Werden die Völker hören? Aus der Geschichte der Zeugen wissen wir: {{% int_link val="Sie werden!" link="/expl/content/witnesses/the-two-witnesses" %}}
+Das wirft die naheliegende Frage auf: Werden die Völker tatsächlich hören? Die Antwort kennen wir bereits aus der Geschichte der Zeugen – {{% int_link val="sie werden es" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
 ## Die beiden Ernten
 
 <a name="45b1"></a>
-Nach ihm kommen vier Wesen: drei Engel und einer, der aussieht wie der Menschensohn, die die Weizen- und Traubenernte einbringen. Aber was bedeutet das? Sind beide Gerichtshandlungen? Zunächst einmal haben beide ihren Ursprung in {{% bible val="Joel" link="jol:3,5" lang="de" %}}.
+Nachdem die drei Engel zu Ende gesprochen haben, erscheinen vier weitere Gestalten: drei weitere Engel und einer wie ein Menschensohn, jeder mit einer Ernte verbunden – einer Getreideernte und einer Weinlese. Was bedeuten diese beiden Ernten? Sind beide Bilder des Gerichts?
 
-In Joel ist beides Gericht, und die Weinpresse in der Offenbarung wird auch die “{{% bible val="Weinpresse des Zornes Gottes" link="rev:14,19" lang="de" %}}” genannt, ein {{% bible val="Hinweis auf den Tag der Rache des Herrn" link="isa:63,1-6" lang="de" %}}. Das stimmt mit dem {{% bible val="Gericht über Babel einige Verse vorher" link="rev:14,10" lang="de" %}} überein.
+Beide sind Joel entnommen: „{{% bible val="Schwingt die Sichel, denn die Ernte ist reif. Kommt, tretet die Trauben, denn die Kelter ist voll und die Bottiche laufen über – so groß ist ihre Bosheit!" link="jol:3,13" lang="de" %}}"
 
-Bei der Weizenernte gibt es jedoch einige wesentliche Unterschiede:
+Bei Joel weisen beide Bilder auf Gericht hin, besonders die Kelter – die die Offenbarung ausdrücklich als {{% bible val="die Kelter des Zornes Gottes" link="rev:14,19" lang="de" %}} bezeichnet, ein Echo des {{% bible val="Tages der Rache bei Jesaja" link="isa:63,1-6" lang="de" %}}. Es spiegelt auch das {{% bible val="Gericht über Babylon nur wenige Verse zuvor" link="rev:14,10" lang="de" %}} wider.
 
-- Die 144.000 sind die Erstlingsgaben, die {{% bible val="normalerweise vom Getreide genommen werden" link="lev:23,9-14" lang="de" %}} (mit einem Lammopfer). Die Erstlingsfrucht war ein {{% bible val="Unterpfand für die gesamte Ernte" link="rom:11,16" lang="de" %}}, so die 144.000 die von allen Nationen erkauft wurden, die Erstlingsgabe der Nationen. Eine {{% bible val="Erstlingsgabe kann auch von den Trauben" link="exo:22,29" lang="de" %}} kommen, aber das wäre eine merkwürdige Interpretation (Märtyrer als Erstlingsgabe der Rache Gottes?)
-- Während die Weinpresse das Sammeln UND das Treten der Presse beinhaltet, wird beim Weizen NUR das Ernten berichtet. Beim Getreide folgt nachher normalerweise das {{% bible val="Dreschen" link="jer:51,33" lang="de" %}}, {{% bible val="Verbrennen" link="mat:3,12" lang="de" %}} oder {{% bible val="Verstreuen" link="psa:1,4" lang="de" %}} der Spreu, während die {{% bible val="Ernte ohne dies ein Zeichen dafür ist, dass Menschen in Gottes Reich kommen" link="mrk:4,29" lang="de" %}}.
-- Die Weizenernte ist eingebracht von “{{% bible val="einem, auf einer Wolke sitzend, der wie ein Menschensohn aussieht und eine Krone auf dem Kopf hat" link="rev:14,14" lang="de" %}}”. Dies ist ein Bezug auf {{% bible val="Daniel, wo beschrieben wird, wie der Menschensohn ein ewiges Königreich erhält und alle Nationen ihn anbeten" link="dan:7,13-14" lang="de" %}}.
+Doch die Getreideernte funktioniert offenbar ganz anders. Drei Einzelheiten heben sie ab. Erstens werden die 144.000 als Erstlinge bezeichnet, die {{% bible val="normalerweise vom Getreide genommen wurden" link="lev:23,9-14" lang="de" %}} (zusammen mit einem Lammopfer) und als {{% bible val="Unterpfand für die noch ausstehende volle Ernte" link="rom:11,16" lang="de" %}} dienten – die 144.000, erkauft aus jeder Nation, stehen also als Erstling aller Nationen da. Ein Erstling könnte technisch auch {{% bible val="von Trauben stammen" link="exo:22,29" lang="de" %}}, aber das ergäbe hier eine merkwürdige Lesart – sollen die Märtyrer tatsächlich der Erstling von Gottes Rache sein? Zweitens umfasst die Kelter sowohl das Sammeln als auch das Zertreten der Trauben, während die Getreideernte beim Schneiden endet. Was nach dem Einbringen des Getreides folgt – {{% bible val="Dreschen" link="jer:51,33" lang="de" %}}, {{% bible val="das Verbrennen der Spreu" link="mat:3,12" lang="de" %}} oder das {{% bible val="Fortwehen" link="psa:1,4" lang="de" %}} – wird ganz ausgelassen, und an anderer Stelle in der Schrift ist {{% bible val="das Ernten selbst ein Symbol dafür, Menschen in das Reich Gottes zu bringen" link="mrk:4,29" lang="de" %}}. Drittens wird die Getreideernte von „einem wie dem Menschensohn, der auf einer Wolke sitzt und eine Krone trägt" eingebracht – eine Formulierung, die zurückreicht {{% bible val="zu Daniel, wo er das ewige Königreich empfängt und alle Nationen ihn anbeten" link="dan:7,13-14" lang="de" %}}.
 
-Daraus ergeben sich für die Nationen zwei Möglichkeiten: Gericht oder Erlösung. Die Geschichte der zwei Zeugen bringt die Mehrheit dazu, Gott die Ehre zu geben, aber es gibt noch eine offene Frage — vorerst.
+Die beiden Ernten zusammen legen also zwei Möglichkeiten für die Nationen dar: Gericht oder Rettung. Die Geschichte der beiden Zeugen endete damit, dass die Mehrheit Gott die Ehre gab – aber hier bleibt der Ausgang für einen Moment offen.
 
 ## Das Lied des Mose
 
 <a name="6689"></a>
-Die nächste Szene lädt uns zum “{{% int_link val="zweiten Auszug" link="/expl/background/israel/the-second-exodus" %}}” ein, der durch das gläserne Meer ({{% bible val="Teilung des Roten Meeres" link="psa:78,13" lang="de" %}}) und das Lied des Mose und des Lammes dargestellt wird.
+Die nächste Szene führt uns in einen neuen Exodus, angezeigt durch das gläserne Meer – ein Echo der Teilung des Roten Meeres – und durch das Lied des Mose und das Lied des Lammes, die gemeinsam gesungen werden:
 
-“[Und sie singen das Lied Moses, des Knechtes Gottes, und das Lied des Lammes und sprechen: Groß und wunderbar sind deine Werke, o Herr, Gott, du Allmächtiger! Gerecht und wahrhaftig sind deine Wege, du König der Heiligen! 4 Wer sollte dich nicht fürchten, o Herr, und deinen Namen nicht preisen? Denn du allein bist heilig. Ja, alle Völker werden kommen und vor dir anbeten, denn deine gerechten Taten sind offenbar geworden!](https://www.bibleserver.com/SLT/Offenbarung15%2C3-4)“
+„[Groß und wunderbar sind deine Werke, Herr, Gott, du Allmächtiger. Gerecht und wahrhaftig sind deine Wege, König der Nationen. Wer wird dich nicht fürchten, Herr, und deinen Namen preisen? Denn du allein bist heilig. Alle Nationen werden kommen und vor dir anbeten, denn deine gerechten Taten sind offenbar geworden.](https://www.bibleserver.com/NIV/Revelation15%3A3-4)"
 
-{{% bible val="Das Lied des Mose beschreibt die Taten Gottes am Roten Meer" link="exo:15,1-19" lang="de" %}}. Aber die Worte sind ganz anders als das, was Mose singt.
+{{% bible val="Das ursprüngliche Lied des Mose beschreibt das Lob, das dem Wunder am Roten Meer folgte" link="exo:15,1-19" lang="de" %}}, aber die hier gesungenen Worte unterscheiden sich deutlich von dem, was Mose tatsächlich sagte – die Bezeichnung „Lied des Mose" tut also mehr, als nur eine Quelle zu benennen; sie zieht eine bewusste Parallele.
 
-Das Thema des Auszuges wird wieder in {{% bible val="Jesaja " link="isa:11,15-16" lang="de" %}}aufgegriffen und als {{% bible val="neuer Auszug" link="isa:12" lang="de" %}} in zwei Liedern in Jesaja beschrieben, die {{% bible val="dort" link="isa:12,4" lang="de" %}} auch auf {{% bible val="Psalm 105" link="psa:105,1" lang="de" %}} (der ebenfalls vom Auszug berichtet) Bezug nehmen. Die Aussage in dieser Kette ist, dass die Nationen durch Gottes Handeln am Roten Meer beeinflusst werden.
+Diese Parallele reicht tiefer als der Exodus selbst. Die Exodus-Geschichte wird erneut in {{% bible val="Jesaja" link="isa:11,15-16" lang="de" %}} aufgegriffen und als {{% bible val="neuer Exodus" link="isa:12" lang="de" %}} in zwei Liedern verarbeitet, die auch {{% bible val="ein Echo" link="isa:12,4" lang="de" %}} von {{% bible val="Psalm 105" link="psa:105,1" lang="de" %}} sind, der ebenfalls an den Exodus erinnert. Der rote Faden, der all dies verbindet, ist, dass auch die Nationen von Gottes Handeln am Roten Meer betroffen sind.
 
-Wenn wir Vers 11 im Lied des Mose betrachten, sehen wir die Verbindung zu {{% bible val="Jeremia" link="jer:10,6-7" lang="de" %}}, Psalm {{% bible val="86" link="psa:86,8-10" lang="de" %}} und Psalm {{% bible val="98" link="psa:98,1-2" lang="de" %}}.
+Schaut man noch genauer auf Vers 11 des Liedes in der Offenbarung, verbindet er sich außerdem mit Jeremia sowie mit Psalm {{% bible val="86" link="psa:86,8-10" lang="de" %}} und {{% bible val="98" link="psa:98,1-2" lang="de" %}}. Zusammengenommen verweben diese Fäden den Inhalt des Liedes des Mose und des Lammes zu einem einzigen Argument:
 
-Das alles ist der Inhalt des Liedes von Mose und dem Lamm. Die Geschichte lautet also
+- Wer ist wie du, Herr, unter den Göttern?
+- Er zeigt dies, indem er Wunder als Taten der Befreiung wirkt.
+- Damit erweist er sich als der eine wahre Gott.
+- Und das bringt alle Nationen dazu, ihn anzubeten.
 
-- Wer ist Herr unter den Göttern wie du?
-- Du zeigst dich in den Wundern der Befreiung
-- Du erweist dich als der einzig wahre Gott.
-- Darum kommen alle Völker, dich anzubeten.
+Das Lied ist mit anderen Worten eine Proklamation, dass alle Nationen zu Gott kommen und ihn anbeten werden – bewirkt durch sein Gericht über ihre Feinde. Sein Jubel gilt nicht wirklich der Rettung der Märtyrer; er gilt dem Lob, das Gottes Taten den Nationen entlockt haben.
 
-Dieses Lied ist eine Proklamation, dass alle Völker kommen, um Gott anzubeten. Er tut dies, indem er ihre Feinde richtet. Der Jubel gilt nicht der Rettung der Märtyrer, sondern der Rettung der Völker durch Gott.In den folgenden Schalen sehen wir, wie Gott mit den Völkern umgeht, die sich weigern, ihn anzubeten und stattdessen dem Tier treu sind.
+Das bereitet vor, was als Nächstes kommt: Mit den Zornesschalen sehen wir, wie Gott mit den Nationen umgeht, die sich weigern, ihn anzubeten, und stattdessen dem Drachen und den Tieren treu bleiben.

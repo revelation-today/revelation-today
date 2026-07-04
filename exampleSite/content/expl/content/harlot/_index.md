@@ -4,8 +4,8 @@ title: "The Harlot (Ch.17-19)"
 weight: 15
 ---
 
-Who is the Harlot? The Book of Revelation leaves this a bit open so that we can check regularly ourselves if it is us. 
+Who is the Harlot? Revelation leaves the question a little open — deliberately, it seems, so that each reader has to keep checking whether the answer is uncomfortably close to home.
 
-This is the most detailed description of Satan and his work and his involvement in the world and the dangers for the church. But it contains also a lot of mockery against the Roman empire or whatever this represents today.
+These chapters give the book's most detailed picture of Satan's work in the world and the dangers it poses for the church, but they're also laced with mockery of the Roman Empire, or whatever plays that role today.
 
-The main point of the description of the harlot is the describe how the bride of Christ should definitely not be.
+At its core, though, the point of the harlot is a warning by contrast: she's a picture of exactly what the bride of Christ must never become.

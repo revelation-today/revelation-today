@@ -1,5 +1,5 @@
 ---
-title: "Küçük parşömen"
+title: "Küçük tomar"
 weight: 2
 base: /quick/content/scroll
 story: /story/tour
@@ -15,33 +15,33 @@ sources:
       ref: beale_rev
 ---
 
-There is a little scroll that John needs to eat and the mystery of the seven thunders. What is the meaning of this?
+10. bölümün merkezinde Yuhanna'nın yemesi istenen küçük bir tomar ve söyler söylemez mühürlenen yedi gök gürlemesinin gizemi yer alır. Bu iki tuhaf ayrıntı ne anlama gelir?
 
-## Motivasyon
+## Hikaye neden burada duraklıyor
 
 <a name="70c6"></a>
-Altıncı borazandan sonra insanları, onları yok eden cinlerden hiçbir şey uzaklaştıramayacak gibi görünüyor. Sonuç olarak, 11. bölümün sonunda gelen altıncı ve yedinci borazan arasında daha uzun bir ara vardır. Bu da 10. bölümle 11. bölüm arasında bağlantı kurar.
+Altıncı borazandan sonra, insanları kendilerini yok eden cinlerden kurtaracak hiçbir şey yokmuş gibi görünür: dokuz bela gelip geçmiştir ve hâlâ kimse tövbe etmez. İşte bu çıkmaz, 10. ve 11. bölümlerin altıncı ve yedinci borazan arasında uzun bir ara bölüm oluşturmasının nedenidir — yedinci borazan ancak 11. bölümün sonunda çalar.
 
-İnsanların kendi felaketlerinden dönmeleri için başka bir şeye daha ihtiyaç vardır ve bu da kilisenin sadık tanıklığıdır — kaynağı Tanrı’ya tapınma olan tanıklarla temsil edilir.
+İnsanları Tanrı'ya geri döndürmek için sıkıntıdan başka bir şey gerekir ve metin bize cevabı gösterir: tanıklığının kaynağı felaket değil, Tanrı'ya tapınma olan iki tanıkla temsil edilen, kilisenin sadık tanıklığı.
 
-## Parşömenli melek
+## Tomarı taşıyan melek
 
 <a name="2d6a"></a>
-Bunu mümkün kılmak için beyaz bir bulutun üzerinde bir melek belirir. Bu İsa’nın kendisi mi yoksa onu temsil eden bir melek mi? Bu İsa’yla bağlantılıdır. Ayrıca bir tomarın varlığı, İsa’nın tomarı açtığı 5. bölümdeki olayla da bağlantılıdır.
+Bu tanıklığı mümkün kılmak için beyaz bir bulutun üzerinde bir melek belirir. Bu İsa'nın kendisi mi, yoksa onu temsil eden bir melek mi olduğu tartışmalı olsa da, sahne açıkça İsa'yla bağlantılıdır — taşıdığı tomar da öyle, çünkü bu tomar İsa'nın 5. bölümde açtığı tomarı hatırlatır.
 
-Bu tomar 5. bölümdekiyle aynı değildir ama onunla bağlantılıdır. Burada daha küçük bir tomar olarak adlandırılır ve Yuhanna/kilise tarafından yenmeli ve tanıklık etmelidir — orada sadece bir tomardır ve Şeytan’ı ifşa etmek için İsa tarafından açılmalıdır.
+Bu, aynı tomar değildir, ama onunla ilişkilidir. 5. bölümdeki tomar sadece "bir tomar"dır ve Şeytan'ın yıkılışını ortaya çıkarmak için İsa tarafından açılır; buradaki tomarsa açıkça daha küçüktür ve açılmak yerine yenir — kiliseyi temsilen Yuhanna tarafından — böylece tanıklığa dönüştürülebilir.
 
-Bağlantı, İsa’nın çarmıhta Şeytan’ı fethetmiş olmasıdır ki bu ana kısımdır. Ancak kilisenin hala yapması gereken (küçük) bir şey vardır. Tanrı’nın planını gerçekleştirmek için bu şarttır.
+İkisi arasındaki bağlantı bir ölçek meselesidir: İsa Şeytan'ı çarmıhta yendi ve asıl olay budur. Geriye kalan, daha küçük ama yine de vazgeçilmez bir görevdir; Tanrı'nın planının tamamlanması için kilisenin yerine getirmesi gerekir.
 
-Güvence olarak melek bir ayağını denize, diğerini de karaya koyar, bu da onun bunlara hükmettiğini gösterir (13. bölümde iki canavar bundan çıkar), dolayısıyla kilisenin korkacak bir şeyi yoktur.
+Melek, bir ayağını denize bir ayağını karaya basarak — 13. bölümde iki canavarın çıkacağı toprağın ta kendisine — kilisenin bu görevden korkacak bir şeyi olmadığını vurgular. Her ikisinin üzerinde durmak, ikisi üzerindeki yetkiyi ilan etmenin bir yoludur.
 
-Ve sonra konuşan yedi gök gürültüsü vardır. Ne söylediklerini çok merak ediyoruz, ama mühürlenmişler. Çok üzgünüm, bunun ne olabileceğini tahmin edebiliriz ama Tanrı açıklayana kadar bunu anlayamayacağız.
+Ardından yedi gök gürlemesi gelir. Ne söyledikleri tam da bize hiç anlatılmadığı için merak uyandırır: Yuhanna'ya sözlerini yazmak yerine mühürlemesi emredilir. İçeriği hakkında istediğimiz kadar tahmin yürütebiliriz, ama Tanrı açıklamayı seçene kadar bunu öğrenemeyeceğiz.
 
-## Parşömeni yemek
+## Tomarı yemek
 
 <a name="b778"></a>
-Yuhanna’dan bu tomarı yemesi istenir. Bu bize Hezekiel’i ve onun tomarı yemesini hatırlatır. Daha sonra vaaz edeceği mesajı içselleştirmesi gerekiyordu. Yuhanna için de aynı şey geçerlidir. Bu tomarı kendi tomarı haline getirir. İçeriği nedir?
+Yuhanna'ya tomarı yemesi söylenir; bu, Hezekiel'in kendi tomarını yemesini hatırlatan bir imgedir: her iki durumda da peygamber, mesajı vaaz edebilmeden önce onu içselleştirmek zorundadır. Yuhanna da burada aynısını yapar; tomarı kendisine mal etmeden onu başkalarına iletemez. Peki bu içerik sonunda ne olur?
 
-İsa’nın ne yaptığını (ağızda tatlı) ve sonuçlarının ne olduğunu (midede acı) anlatır ki bu dünya için bir yargıdır ama daha çok onlardan nefret eden ve onları İsa’dan daha iyi tehdit etmeyecek olan dünyaya tanıklık etmenin ne anlama gelmediğini anlatır.
+Tat, hikayeyi anlatır. Ağızda tatlıdır — İsa'nın çoktan başardığı şey — ve midede acıdır: dünyanın üzerine hâlâ gelmekte olan yargı ve kiliseden nefret eden bir dünyaya tanıklık etmenin bedeli; kilise, tehdit edildiği gibi tehditle karşılık vermemeye, bunun yerine İsa'yı izlemeye çağrılmış olduğu için bu nefrete aynı şekilde cevap vermeyecektir.
 
-Ama şimdi tomar nedir? Bir sonraki bölüm(ler)e baktığımızda, kilisenin sonunda başaracağı uluslara ulaşmak için kilisenin tanıklığıdır.
+Peki bu tomar sonuçta nedir? Sonraki bölümler bunu eylem hâlinde göstererek cevaplar: bu, kilisenin uluslara taşıdığı ve sonunda eksiksiz olarak teslim edeceği tanıklıktır.
