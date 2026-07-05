@@ -1,0 +1,46 @@
+---
+title: "Sangkakala-Sangkakala Peringatan"
+weight: 34
+docType: sermon
+audience_group: "deep-dive-guide"
+audience_track: "deep-dive"
+expl: /expl/content/trumpets/the-trumpets-in-revelation
+prev: /sermons/deep-dive/33-what-is-the-great-tribulation
+next: /sermons/deep-dive/35-the-little-scroll-sweet-and-bitter
+---
+
+## Pembuka
+
+Tanyakan: "Jika Anda tahu bahwa doa-doa Anda — bahkan yang kecil dan tersendat-sendat — sesungguhnya memicu peristiwa-peristiwa besar di dunia, apakah itu akan mengubah keseriusan Anda dalam berdoa?" Simpan pertanyaan itu, karena ternyata itulah tepatnya yang diklaim sedang terjadi dalam Wahyu 8. Sebelum satu sangkakala pun berbunyi, pasal ini dibuka bukan dengan inisiatif seorang malaikat, melainkan dengan sebuah pertemuan doa.
+
+## Pengajaran inti
+
+Meterai ketujuh dibuka dengan "sunyi senyap di sorga kira-kira setengah jam lamanya" (Wahyu 8:1) — sendirinya terkait dengan tradisi Yahudi yang menghubungkan kesunyian surgawi dengan saat Allah memperhatikan doa-doa umat-Nya, meneruskan tema dari para martir meterai kelima yang berseru "berapa lama lagi?" (6:9-11). Kemudian: "doa-doa semua orang kudus" naik di hadapan takhta sebagai kemenyan, dan "malaikat itu mengambil pedupaan itu, mengisinya dengan api dari mezbah, dan melemparkannya ke bumi" — memicu guntur, kilat, dan gempa bumi yang menandai baik berakhirnya meterai-meterai maupun dimulainya sangkakala-sangkakala dalam satu gerakan yang sama (8:3-5; lihat expl/content/trumpets/the-trumpets-in-revelation.md).
+
+**Perhatikan urutannya dengan saksama.** Pada ayat 2, ketujuh malaikat sudah memegang sangkakala mereka — tetapi belum ada yang terjadi. Mereka sedang menunggu. Yang memicu bunyi sangkakala adalah doa, yang dipanjatkan oleh orang-orang biasa, yang sering kali tersendat-sendat, dibawa ke mezbah oleh seorang malaikat yang kuat karena doa-doa itu sendiri tidak akan pernah cukup berbobot untuk sampai ke sana. Renungkan itu: apa pun yang terungkap dalam dua pasal berikutnya, teks ini memberi kredit kepada doa-doa umat Allah sebagai pemicunya. Itu semestinya membingkai ulang seberapa serius Anda menganggap doa Anda sendiri — dan itu memunculkan pertanyaan kedua yang sungguh tidak nyaman yang tidak dijawab teks ini untuk Anda: apakah Anda sungguh menginginkan doa-doa Anda dijawab persis seperti yang terjadi di sini?
+
+**Pola di balik sangkakala-sangkakala itu.** Tulah-tulah ini secara sengaja mengulang tulah-tulah Mesir (lihat expl/bible/exodus/the-plagues-in-egypt.md) untuk sebuah kekaisaran baru dan Firaun yang baru. Sama seperti tulah-tulah Keluaran menyingkapkan dewa-dewa Mesir sebagai penipuan yang tak berdaya, sangkakala-sangkakala ini mengoyak — satu lapisan demi satu lapisan — apa pun yang dipercayai manusia selain Allah: tumbuh-tumbuhan dan persediaan makanan (menggemakan tulah hujan es, Keluaran 9:22-25); kehidupan laut dan perkapalan, sebuah sindiran tajam terhadap kekayaan maritim Roma/Babel (menggemakan air yang berubah menjadi darah, Keluaran 7:21); air tawar yang diracuni (tulah Mesir yang sama lagi); sepertiga matahari, bulan, dan bintang digelapkan, mengoyak arah orientasi itu sendiri (menggemakan kegelapan total Keluaran 10:22-23). Ibrani 12:26-28 membingkai tujuannya secara langsung: segala sesuatu yang dapat digoncangkan akan digoncangkan, supaya yang tidak dapat digoncangkan tetap ada — ciptaan sedang diuji untuk menyingkapkan apa yang sesungguhnya diandalkan manusia ketika rasa aman mereka yang biasa dikoyak habis.
+
+**Mengapa selalu sepertiga, tidak pernah semuanya?** Tulah-tulah ini jatuh pada ciptaan yang sudah berada di bawah kuasa dosa, dan pecahan "sepertiga" secara sengaja menggemakan sepertiga bintang (malaikat) yang jatuh bersama Iblis lebih awal dalam gambaran kitab ini sendiri (lihat sesi 37 tentang Wahyu 12). Ini adalah peringatan yang bertahap dan meningkat — bukan penghakiman total, belum.
+
+**Sangkakala kelima dan keenam mengubah sasaran.** Jika keempat yang pertama mengoyak apa yang diandalkan manusia untuk hidup, kedua sangkakala ini mengejar kehidupan itu sendiri, secara eksplisit berasal dari setan: sebuah bintang yang jatuh membuka jurang maut (bahasa yang di tempat lain menggambarkan kejatuhan Iblis, Lukas 10:18, dan roh-roh jahat secara umum, Wahyu 12:4, 9-10), melepaskan siksaan yang begitu parah sehingga orang-orang "ingin mati, tetapi maut lari dari mereka" (9:6) — namun bahkan belalang-belalang ini tetap berada di bawah kendali tertinggi Allah, sama seperti Iblis memerlukan izin sebelum menyentuh Ayub (Ayub 2:4-6). Ini pun menggemakan Mesir: tulah belalang yang akhirnya membuat Firaun mengakui dosanya sendiri (Keluaran 10:7, 13-17). Sangkakala keenam meningkat lebih jauh, melepaskan pasukan berjumlah 200 juta di sungai Efrat — sebuah angka yang dibangun dari satuan terbesar yang dapat diungkapkan dalam penghitungan bahasa Yunani biasa, dimaksudkan untuk menggambarkan sesuatu yang secara fungsional tak terhitung, bukan jumlah pasukan militer yang harfiah.
+
+**Kesimpulan yang menyedihkan.** Setelah sembilan tulah sangkakala, "manusia lain, yang tidak turut mati oleh malapetaka itu, tidak juga bertobat" (9:20-21). Penghakiman bukanlah keseluruhan maksudnya — tulah-tulah ini dimaksudkan untuk memberi manusia alasan sesungguhnya untuk berpaling kepada Allah. Sebaliknya, manusia justru semakin erat berpegang pada berhala-berhala itu sendiri yang tidak dapat menawarkan apa-apa kepada mereka. Penolakan itu berulang lagi nanti pada cawan keempat dan kelima (16:8-11) — sebuah pola yang konsisten dan menyedihkan di sepanjang kitab ini: peringatan yang meningkat tidak secara otomatis menghasilkan pertobatan.
+
+**Apa yang terjadi sebelum sangkakala ketujuh.** Karena kesulitan saja tidak pernah mengubah hati, Allah mencoba sesuatu yang sama sekali berbeda dalam pasal 11: bukan tulah lainnya, melainkan kesaksian dua saksi, berakar pada penyembahan alih-alih bencana (11:1-12) — subjek sesi berikutnya dalam seri ini. Kesaksian mereka, bahkan melalui kematian mereka sendiri, menghasilkan sesuatu yang tidak pernah dicapai sembilan sangkakala tulah: perpalingan sesungguhnya kepada Allah.
+
+## Sebuah pertanyaan jujur yang perlu diajukan
+
+Bahan sumber berargumen bahwa respons orang banyak yang "ketakutan" terhadap pembenaran kedua saksi (11:13) sebaiknya dibaca sebagai "kagum takjub" alih-alih ketakutan yang sesungguhnya, berdasarkan penggunaan kata Yunani yang sama di tempat lain (perempuan-perempuan di kubur kosong, murid-murid yang melihat Kristus yang bangkit, Kornelius, dan pejabat Romawi Feliks). Itu layak dipegang dengan sedikit lebih longgar daripada yang disajikan bahan sumber — dalam setiap teks pembanding itu, ketakutan yang sesungguhnya tetap hadir, dan Feliks khususnya menjadi takut dan menolak Paulus alih-alih bertobat, yang justru menjadi contoh terlemah untuk sebuah argumen bahwa "ketakutan" langsung mengarah pada penyerahan diri. Cara yang lebih cermat untuk menyatakan poin ini: kata itu menggambarkan ketakutan yang dahsyat dan mengguncangkan — ketakutan takjub yang sama yang ditemukan di kubur kosong — dan ketakutan semacam ini, alih-alih menghalangi respons yang positif, justru sering kali adalah yang mendahului penyembahan di tempat lain dalam Kitab Suci. Pengamatan bahwa kesaksian setia kedua saksi mencapai lebih banyak daripada sembilan tulah tetap berlaku; itu hanya tidak memerlukan pendefinisian ulang "ketakutan" menjadi "tidak benar-benar takut" untuk membuktikan poin itu.
+
+## Pertanyaan diskusi
+
+1. Jika doa-doa Anda sendiri sungguh memicu peristiwa sebesar ini, sebagaimana diklaim perikop ini, bagaimana itu mengubah pemahaman Anda tentang apa yang sesungguhnya dicapai doa?
+2. Sangkakala-sangkakala ini secara sistematis mengoyak makanan, air, perdagangan, bahkan terang dan gelap itu sendiri — rasa aman dasar kehidupan sehari-hari. Apa padanan modern dari apa yang dipercayai manusia selain Allah yang mungkin perlu dikoyak dalam hidup Anda sendiri?
+3. Meskipun sembilan tulah meningkat, manusia "tetap tidak bertobat." Menurut Anda mengapa penghakiman yang semakin intens jarang sekali menghasilkan pertobatan sesungguhnya — dan apa yang itu sarankan tentang bagaimana Allah memilih untuk menjangkau manusia?
+4. Kesaksian dua saksi (bahkan melalui kematian) mencapai lebih banyak daripada sembilan tulah sangkakala digabungkan. Apa yang itu sarankan tentang kekuatan relatif kesaksian yang setia dibandingkan penghakiman yang dramatis sebagai cara menjangkau manusia?
+5. Bahkan belalang-belalang setan pada sangkakala kelima beroperasi di bawah batasan ilahi yang eksplisit, sama seperti Iblis memerlukan izin sebelum menyentuh Ayub. Bagaimana itu membentuk pemahaman Anda tentang seberapa besar kendali yang sesungguhnya dimiliki kejahatan dibandingkan seberapa besar yang tampak dimilikinya?
+
+## Doa penutup
+
+Berdoalah secara khusus dan konkret — bukan dalam generalisasi yang samar — percaya bahwa doa-doa ini cukup penting untuk menjadi bagian dari apa yang Allah kerjakan di dunia, persis seperti yang disarankan pemicu sangkakala itu. Mintalah kepada Allah untuk menyingkapkan apa pun yang Anda andalkan selain Dia, sebelum hal itu perlu dikoyak dengan cara yang lebih keras, dan berdoalah untuk hati yang menanggapi peringatan dengan pertobatan, bukan mengeratkan genggaman pada apa yang pada akhirnya tidak dapat menolong.

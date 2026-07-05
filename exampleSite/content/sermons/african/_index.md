@@ -1,0 +1,15 @@
+---
+title: "Revelation Today: African Regional Pack"
+weight: 10
+docType: sermon
+---
+
+# Welcome
+
+This series walks through the book of Revelation for churches across Sub-Saharan Africa's independent, Pentecostal, and charismatic movements — congregations that, more than almost anywhere else in the global church right now, read Scripture expecting God to show up. That expectation is a gift to this whole series. Revelation is a book written for people who take the spiritual world seriously, who believe worship changes the atmosphere, and who know in their bones that Jesus is still alive and still reigning. You already believe the things this book asks its readers to believe. That is not a small thing, and it should not be treated as one.
+
+Three strengths of this audience shape how these sessions are written. First, a vibrant, expectant faith — the confidence that God still acts, still heals, still speaks, still wins — is exactly the posture Revelation was written to produce in its first readers, and exactly the posture too many other traditions have lost. Second, an existing vocabulary for spiritual discernment — the conviction that there really are competing spiritual powers at work in the world, and that believers are called to tell true worship from false — puts this audience streets ahead of readers who treat Revelation's dragon and beasts as mere literary decoration. Third, in some of the contexts this pack serves, believers carry a courage forged under real, ongoing pressure — economic exclusion, social hostility, and in parts of the Sahel, Nigeria, and Sudan, outright violence — that makes Revelation's promises to the suffering church something other than a history lesson.
+
+That same context also raises real questions this series tries to engage honestly rather than skip past. Health-and-wealth teaching is not a fringe position in much of the region's fastest-growing church movements — it is often the mainstream — and Revelation's harlot Babylon material speaks directly and pointedly into that, not as an attack on anyone personally, but as an invitation to examine what we've been taught to expect from God. Likewise, this audience's strong existing spiritual-warfare framework — territorial spirits, generational curses, ancestral influence — resonates immediately with Revelation's dragon and beast imagery, but we'll be careful to let the text's own specific claims drive the teaching rather than importing more onto it than it actually says. And for many believers, the relationship between honoring family, ancestors, and cultural heritage on one hand, and the exclusive worship the Lamb calls for on the other, is a real, live pastoral question — one session in this series (Babel and Balaam) takes it up directly, as an open question asked in love, never as a verdict against anyone's family or culture.
+
+Wherever you are reading this from — a context of relative peace or a context of real and present danger — this series is written with you in mind, not as an afterthought. Revelation was written for exactly this kind of church. Welcome.
