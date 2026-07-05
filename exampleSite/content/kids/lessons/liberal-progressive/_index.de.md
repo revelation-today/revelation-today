@@ -1,5 +1,5 @@
 ---
-title: "Offenbarung heute: Eine westlich liberal-progressive Anpassung"
+title: "Kinder in liberal-progressiven Gemeinden"
 weight: 107
 docType: kids
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Latin American Regional Pack: Revelation Today"
+title: "Kids in Latin America"
 weight: 108
 docType: kids
 ---

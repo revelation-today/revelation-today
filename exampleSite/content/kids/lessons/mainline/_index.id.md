@@ -1,5 +1,5 @@
 ---
-title: "Adaptasi Mainline: Wahyu Hari Ini"
+title: "Anak-anak di Gereja Mainline"
 weight: 106
 docType: kids
 ---

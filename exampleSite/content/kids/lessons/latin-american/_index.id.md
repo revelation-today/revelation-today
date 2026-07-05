@@ -1,5 +1,5 @@
 ---
-title: "Paket Regional Amerika Latin: Wahyu Hari Ini"
+title: "Anak-anak di Amerika Latin"
 weight: 108
 docType: kids
 ---

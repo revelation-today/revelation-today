@@ -1,5 +1,5 @@
 ---
-title: "Wahyu Hari Ini: Sebuah Paket Regional Asia"
+title: "Anak-anak di Asia"
 weight: 110
 docType: kids
 ---

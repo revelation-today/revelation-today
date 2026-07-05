@@ -1,5 +1,5 @@
 ---
-title: "Wahyu Hari Ini: Paket Regional Afrika"
+title: "Anak-anak di Afrika"
 weight: 109
 docType: kids
 ---

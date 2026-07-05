@@ -1,5 +1,5 @@
 ---
-title: "Catholic Adaptation: Revelation Today"
+title: "Kids in Catholic Churches"
 weight: 103
 docType: kids
 ---

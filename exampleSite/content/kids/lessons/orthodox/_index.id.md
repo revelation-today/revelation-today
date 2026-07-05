@@ -1,5 +1,5 @@
 ---
-title: "Wahyu Hari Ini: Sebuah Adaptasi Ortodoks"
+title: "Anak-anak di Gereja Ortodoks"
 weight: 104
 docType: kids
 ---

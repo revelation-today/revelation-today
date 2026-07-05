@@ -1,5 +1,5 @@
 ---
-title: "Offenbarung heute: Ein asiatisches Regionalpaket"
+title: "Kinder in Asien"
 weight: 110
 docType: kids
 ---

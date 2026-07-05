@@ -1,5 +1,5 @@
 ---
-title: "Wahyu Hari Ini: Adaptasi Liberal / Progresif Barat"
+title: "Anak-anak di Gereja Liberal dan Progresif"
 weight: 107
 docType: kids
 ---

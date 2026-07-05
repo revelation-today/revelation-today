@@ -1,5 +1,5 @@
 ---
-title: "Adaptasi Katolik: Wahyu Hari Ini"
+title: "Anak-anak di Gereja Katolik"
 weight: 103
 docType: kids
 ---

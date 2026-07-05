@@ -1,5 +1,5 @@
 ---
-title: "Revelation Today: A Middle Eastern Adaptation"
+title: "Kids in the Middle East"
 weight: 111
 docType: kids
 ---

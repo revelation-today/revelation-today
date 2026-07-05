@@ -1,5 +1,5 @@
 ---
-title: "Vahiy Bugün: Bir Ortodoks Uyarlaması"
+title: "Ortodoks Kiliselerinde Çocuklar"
 weight: 104
 docType: kids
 ---

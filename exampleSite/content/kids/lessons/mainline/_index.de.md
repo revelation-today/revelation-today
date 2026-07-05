@@ -1,5 +1,5 @@
 ---
-title: "Mainline-Anpassung: Offenbarung heute"
+title: "Kinder in landeskirchlichen Gemeinden"
 weight: 106
 docType: kids
 ---

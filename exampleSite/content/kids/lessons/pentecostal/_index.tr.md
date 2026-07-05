@@ -1,5 +1,5 @@
 ---
-title: "Pentekostal / Karizmatik Uyarlaması: Vahiy Bugün"
+title: "Pentekostal ve Karizmatik Kiliselerde Çocuklar"
 weight: 105
 docType: kids
 ---

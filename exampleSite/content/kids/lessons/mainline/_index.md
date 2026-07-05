@@ -1,5 +1,5 @@
 ---
-title: "Mainline Adaptation: Revelation Today"
+title: "Kids in Mainline Churches"
 weight: 106
 docType: kids
 ---

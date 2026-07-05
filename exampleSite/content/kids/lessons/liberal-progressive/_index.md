@@ -1,5 +1,5 @@
 ---
-title: "Revelation Today: A Western Liberal / Progressive Mainline Adaptation"
+title: "Kids in Liberal & Progressive Churches"
 weight: 107
 docType: kids
 ---

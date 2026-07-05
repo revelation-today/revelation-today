@@ -1,5 +1,5 @@
 ---
-title: "Adaptasi Pentakosta / Karismatik: Wahyu Hari Ini"
+title: "Anak-anak di Gereja Pentakosta dan Karismatik"
 weight: 105
 docType: kids
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Vahiy Bugün: Batılı Liberal / İlerici Ana Akım Uyarlaması"
+title: "Liberal ve İlerici Kiliselerde Çocuklar"
 weight: 107
 docType: kids
 ---

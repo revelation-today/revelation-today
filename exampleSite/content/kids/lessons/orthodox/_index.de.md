@@ -1,5 +1,5 @@
 ---
-title: "Offenbarung heute: Eine orthodoxe Bearbeitung"
+title: "Kinder in orthodoxen Gemeinden"
 weight: 104
 docType: kids
 ---

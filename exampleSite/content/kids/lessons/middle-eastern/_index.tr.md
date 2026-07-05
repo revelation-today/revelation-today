@@ -1,5 +1,5 @@
 ---
-title: "Bugün Vahiy: Orta Doğu Uyarlaması"
+title: "Orta Doğu'da Çocuklar"
 weight: 111
 docType: kids
 ---

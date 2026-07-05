@@ -1,5 +1,5 @@
 ---
-title: "Offenbarung heute: Das afrikanische Regionalpaket"
+title: "Kinder in Afrika"
 weight: 109
 docType: kids
 ---

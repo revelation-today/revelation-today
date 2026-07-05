@@ -1,5 +1,5 @@
 ---
-title: "Pfingstliche / Charismatische Anpassung: Offenbarung Heute"
+title: "Kinder in pfingstlich-charismatischen Gemeinden"
 weight: 105
 docType: kids
 ---

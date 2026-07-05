@@ -1,5 +1,5 @@
 ---
-title: "Die Offenbarung heute: Eine Anpassung für den Nahen Osten"
+title: "Kinder im Nahen Osten"
 weight: 111
 docType: kids
 ---

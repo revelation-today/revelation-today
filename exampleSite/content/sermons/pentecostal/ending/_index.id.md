@@ -1,0 +1,5 @@
+---
+title: "Akhir dan Refleksi (Wahyu 20–22)"
+weight: 4
+docType: sermon
+---

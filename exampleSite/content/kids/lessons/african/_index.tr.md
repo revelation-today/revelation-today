@@ -1,5 +1,5 @@
 ---
-title: "Vahiy Bugün: Afrika Bölgesel Paketi"
+title: "Afrika'da Çocuklar"
 weight: 109
 docType: kids
 ---

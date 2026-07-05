@@ -1,5 +1,5 @@
 ---
-title: "Pentecostal / Charismatic Adaptation: Revelation Today"
+title: "Kids in Pentecostal & Charismatic Churches"
 weight: 105
 docType: kids
 ---

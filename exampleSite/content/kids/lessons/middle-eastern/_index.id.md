@@ -1,5 +1,5 @@
 ---
-title: "Wahyu Hari Ini: Adaptasi untuk Timur Tengah"
+title: "Anak-anak di Timur Tengah"
 weight: 111
 docType: kids
 ---

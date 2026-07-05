@@ -1,5 +1,5 @@
 ---
-title: "Katholische Adaption: Offenbarung heute"
+title: "Kinder in katholischen Gemeinden"
 weight: 103
 docType: kids
 ---

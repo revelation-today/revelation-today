@@ -1,5 +1,5 @@
 ---
-title: "Vahiy Bugün: Bir Asya Bölgesel Paketi"
+title: "Asya'da Çocuklar"
 weight: 110
 docType: kids
 ---

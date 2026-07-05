@@ -1,5 +1,5 @@
 ---
-title: "Mainline Uyarlaması: Bugün Vahiy"
+title: "Mainline Kiliselerde Çocuklar"
 weight: 106
 docType: kids
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Revelation Today: African Regional Pack"
+title: "Kids in Africa"
 weight: 109
 docType: kids
 ---

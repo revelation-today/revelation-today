@@ -1,5 +1,5 @@
 ---
-title: "Katolik Uyarlaması: Vahiy Bugün"
+title: "Katolik Kiliselerinde Çocuklar"
 weight: 103
 docType: kids
 ---

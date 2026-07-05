@@ -1,5 +1,5 @@
 ---
-title: "Revelation Today: An Asian Regional Pack"
+title: "Kids in Asia"
 weight: 110
 docType: kids
 ---

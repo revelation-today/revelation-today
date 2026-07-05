@@ -1,5 +1,5 @@
 ---
-title: "Revelation Today: An Orthodox Adaptation"
+title: "Kids in Orthodox Churches"
 weight: 104
 docType: kids
 ---

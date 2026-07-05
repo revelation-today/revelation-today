@@ -1,5 +1,5 @@
 ---
-title: "Latin Amerika Bölgesel Paketi: Vahiy Bugün"
+title: "Latin Amerika'da Çocuklar"
 weight: 108
 docType: kids
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Regionalpaket Lateinamerika: Die Offenbarung heute"
+title: "Kinder in Lateinamerika"
 weight: 108
 docType: kids
 ---

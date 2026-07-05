@@ -2,6 +2,8 @@
 baseURL: "https://revelation-today.net/"
 title: "The Book of Revelation"
 
+timeout: 300000
+
 enableRobotsTXT: true
 enableGitInfo: true
 # enableEmoji: false
