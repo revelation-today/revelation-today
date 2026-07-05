@@ -100,20 +100,26 @@ menu:
         icon: academic-cap
       pageRef: /kids
       weight: 7
+    - identifier: sermons
+      name: Sermons
+      params:
+        icon: speakerphone
+      pageRef: /sermons
+      weight: 8
     - identifier: contact
       name: Contact
       params:
         icon: chat
       pageRef: /contact
-      weight: 8
+      weight: 9
     - identifier: help
       name: Help
       pageRef: /help
       params:
         type: help
-      weight: 9
-    - name: Search
       weight: 10
+    - name: Search
+      weight: 11
       params:
         type: search
 
