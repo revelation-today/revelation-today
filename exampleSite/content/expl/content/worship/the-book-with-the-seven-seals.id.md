@@ -2,7 +2,7 @@
 title: "Kitab dengan Tujuh Meterai"
 weight: 20
 base: /quick/content/worship
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/worship/worship-in-the-throne-room
 next: /expl/content/seals/the-mystery-of-the-four-horse-men
 docType: expl

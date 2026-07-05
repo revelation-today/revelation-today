@@ -2,7 +2,7 @@
 title: "Heaven and hell"
 weight: 3
 base: /quick/content/paradise
-story: /story/content/paradise
+story: /story/general/content/paradise
 prev: /expl/content/paradise/the-new-jerusalem
 next: /expl/topics/others/dispensionalism-a-little-history
 docType: expl

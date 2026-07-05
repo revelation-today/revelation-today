@@ -2,7 +2,7 @@
 title: "Kedua Binatang dalam Kitab Wahyu"
 weight: 1
 base: /quick/content/beasts
-story: /story/content/beasts
+story: /story/general/content/beasts
 prev: /expl/content/jesus/a-different-christmas-story
 next: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
 docType: expl

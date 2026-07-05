@@ -2,7 +2,7 @@
 title: Welcome
 weight: 1
 prev: /welcome/teaser
-next: /story/tour
+next: /story/general/tour
 ignore: true
 ---
 

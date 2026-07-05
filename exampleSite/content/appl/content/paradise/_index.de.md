@@ -2,7 +2,7 @@
 title: "Kap.21-22: Was sind Himmel und Hölle?"
 weight: 150
 base: /quick/content/paradise
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Das Neue Jersusalem
       link:  /expl/content/paradise/the-new-jerusalem

@@ -2,7 +2,7 @@
 title: "The plagues in Egypt"
 weight: 40
 base: /quick/bible/creation
-story: /story/tour
+story: /story/general/tour
 prev: /expl/bible/exodus/the-hardening-of-pharaohs-heart
 next: /expl/bible/keyword/the-story-of-balaam
 docType: expl

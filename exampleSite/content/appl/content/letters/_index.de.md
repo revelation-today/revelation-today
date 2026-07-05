@@ -2,7 +2,7 @@
 title: "Kap.2-3: Das Problem"
 weight: 20
 base: /quick/content/letters
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Die Engel der Gemeinden
       link:  /expl/content/letters/the-angel-of-the-churches

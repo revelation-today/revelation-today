@@ -2,7 +2,7 @@
 title: "Kap.14: Die Waffen der Gemeinde und das Schicksal der Nationen"
 weight: 110
 base: /quick/content/harvest
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Gottes Armee und die sieben Engel
       link:  /expl/content/harvest/gods-army-and-the-seven-angels

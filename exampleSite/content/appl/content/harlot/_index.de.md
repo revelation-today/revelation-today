@@ -2,7 +2,7 @@
 title: "Kap.17-19: Die Hure: Die Komplexität des Bösen"
 weight: 130
 base: /quick/content/harlot
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: "Wer ist die Hure: Teil 1"
       link:  /expl/content/harlot/who-is-the-harlot-babylon-part-1

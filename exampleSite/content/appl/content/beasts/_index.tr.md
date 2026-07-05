@@ -2,7 +2,7 @@
 title: "Böl.13: Mükemmel “müjde”"
 weight: 100
 base: /quick/content/beasts
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: İki canavar
       link:  /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation

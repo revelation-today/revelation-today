@@ -2,7 +2,7 @@
 title: "Ch.1: The vision"
 weight: 10
 base: /quick/content/vision
-story: /story/content/vision
+story: /story/general/content/vision
 deeper:
     - name: How the book starts
       link:  /expl/content/letters/setting-the-foundation

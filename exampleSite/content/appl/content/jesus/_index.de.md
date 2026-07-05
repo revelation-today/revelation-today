@@ -2,7 +2,7 @@
 title: "Kap.12: Jesus und der Sturz des Teufels"
 weight: 90
 base: /quick/content/jesus
-story: /story/tour
+story: /story/general/tour
 prev: /appl/content/witnesses
 next: /appl/content/beasts
 docType: appl

@@ -2,7 +2,7 @@
 title: "Pasal 14: Senjata Gereja dan Nasib Bangsa-bangsa"
 weight: 110
 base: /quick/content/harvest
-story: /story/content/harvest
+story: /story/general/content/harvest
 deeper:
     - name: Pasukan Allah dan Ketujuh Malaikat
       link:  /expl/content/harvest/gods-army-and-the-seven-angels

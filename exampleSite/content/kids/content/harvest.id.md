@@ -1,7 +1,7 @@
 ---
 title: "Kedua Panen (Pasal 14)"
 weight: 110
-story: /story/tour
+story: /story/general/tour
 appl: /appl/content/harvest
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /kids/content/beasts

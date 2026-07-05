@@ -2,7 +2,7 @@
 title: "Kap.7: Die sonderbare Armee"
 weight: 50
 base: /quick/content/army
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Die 144.000
       link:  /expl/content/army/the-144000

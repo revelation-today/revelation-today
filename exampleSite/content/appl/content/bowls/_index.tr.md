@@ -2,7 +2,7 @@
 title: "Böl.15-16: Tanrı'nın gazabı"
 weight: 120
 base: /quick/content/harvest
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Gazap kaseleri
       link:  /expl/content/bowls/the-bowls-of-wrath

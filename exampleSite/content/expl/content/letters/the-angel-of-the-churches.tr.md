@@ -2,7 +2,7 @@
 title: "Kiliselerin melekleri"
 weight: 4
 base: /quick/content/letters
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Kiliseler için mektup
       link:  /expl/content/letters/the-letters-to-the-seven-churches

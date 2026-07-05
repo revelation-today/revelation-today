@@ -2,7 +2,7 @@
 title: "Surat kepada Laodikia"
 weight: 70
 base: /quick/content/letters
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/letters/the-letter-to-the-church-in-philadelphia
 next: /expl/content/worship/worship-in-the-throne-room
 docType: expl

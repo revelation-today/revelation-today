@@ -2,7 +2,7 @@
 title: "Pasal 1: Sang Penglihatan"
 weight: 10
 base: /quick/content/vision
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Pembukaan Kitab
       link:  /expl/content/letters/setting-the-foundation

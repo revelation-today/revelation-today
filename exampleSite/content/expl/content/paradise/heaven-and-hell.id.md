@@ -2,7 +2,7 @@
 title: "Surga dan neraka"
 weight: 3
 base: /quick/content/paradise
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/paradise/the-new-jerusalem
 next: /expl/topics/others/dispensionalism-a-little-history
 docType: expl

@@ -1,7 +1,7 @@
 ---
 title: "The Vision (Ch. 1)"
 weight: 1
-story: /story/tour
+story: /story/general/tour
 appl: /appl/content/vision
 expl: /expl/content/vision/setting-the-foundation
 prev: /kids/background

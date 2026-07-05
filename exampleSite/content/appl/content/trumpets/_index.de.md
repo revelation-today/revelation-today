@@ -2,7 +2,7 @@
 title: "Kap.8-9: Gebet und das Unerschütterliche"
 weight: 60
 base: /quick/content/trumpets
-story: /story/content/trumpets
+story: /story/general/content/trumpets
 deeper:
     - name: Die Kraft des Gebets
       link: /topics/power/short/the-key-of-prayer

@@ -2,7 +2,7 @@
 title: "Pasal 20: Firdaus 1000 Tahun?"
 weight: 140
 base: /quick/content/1000y
-story: /story/content/1000y
+story: /story/general/content/1000y
 deeper: 
     - name: Kerajaan Seribu Tahun
     - link: /content/1000y/expl/the-thousand-year-kingdom

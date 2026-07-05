@@ -1,7 +1,7 @@
 ---
 title: "Creation"
 weight: 1
-story: /story/tour
+story: /story/general/tour
 expl: /expl/bible/creation/the-creation
 prev: /welcome/quick
 next: /quick/bible/daniel

@@ -2,7 +2,7 @@
 title: "Böl.12: İsa ve şeytanın düşüşü"
 weight: 90
 base: /quick/content/jesus
-story: /story/tour
+story: /story/general/tour
 prev: /appl/content/witnesses
 next: /appl/content/beasts
 docType: appl

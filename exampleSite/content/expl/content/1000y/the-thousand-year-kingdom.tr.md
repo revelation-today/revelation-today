@@ -2,7 +2,7 @@
 title: "1000 yıllık krallık"
 weight: 2
 base: /quick/content/1000y
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 next: /expl/content/paradise/the-new-jerusalem
 docType: expl

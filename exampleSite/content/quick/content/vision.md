@@ -1,7 +1,7 @@
 ---
 title: "The vision (Ch. 1)"
 weight: 1
-story: /story/content/vision
+story: /story/general/content/vision
 appl: /appl/content/vision
 expl: /expl/content/vision/setting-the-foundation
 prev: /quick/bible/daniel

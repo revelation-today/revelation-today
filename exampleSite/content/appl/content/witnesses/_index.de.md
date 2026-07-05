@@ -2,7 +2,7 @@
 title: "Kap.11: Die Macht, die die Welt verändert"
 weight: 80
 base: /quick/content/witnesses
-story: /story/content/witnesses
+story: /story/general/content/witnesses
 deeper:
     - name: Der Tempel
       link:  /expl/bible/creation/the-temple-and-the-presence-of-god

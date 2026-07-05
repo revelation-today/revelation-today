@@ -2,7 +2,7 @@
 title: "Pasal 2-3: Masalahnya"
 weight: 20
 base: /quick/content/letters
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Malaikat Jemaat-jemaat
       link:  /expl/content/letters/the-angel-of-the-churches

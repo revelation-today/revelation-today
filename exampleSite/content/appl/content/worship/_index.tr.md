@@ -2,7 +2,7 @@
 title: "Böl.4: Tüm soruların cevabı"
 weight: 30
 base: /quick/content/worship
-story: /story/content/worship
+story: /story/general/content/worship
 deeper:
     - name: Tahtta ibadet
       link:  /expl/content/worship/worship-in-the-throne-room

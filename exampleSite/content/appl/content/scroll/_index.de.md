@@ -2,7 +2,7 @@
 title: "Kap.10: Ein kleines Büchlein mit großer Wirkung"
 weight: 70
 base: /quick/content/scroll
-story: /story/content/scroll
+story: /story/general/content/scroll
 deeper:
     - name: Das kleine Büchlein
       link:  /expl/content/scroll/the-little-scroll

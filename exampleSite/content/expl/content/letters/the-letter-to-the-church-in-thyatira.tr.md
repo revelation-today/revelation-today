@@ -2,7 +2,7 @@
 title: "Thyatira’daki kiliseye mektup"
 weight: 40
 base: /quick/content/letters
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/letters/the-letter-to-the-church-in-pergamon
 next: /expl/content/letters/the-letter-to-the-church-in-sardis
 docType: expl

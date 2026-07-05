@@ -2,7 +2,7 @@
 title: "Pasal 5-6: Paradoks Ketujuh Meterai"
 weight: 40
 base: /quick/content/seals
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Seorang Pahlawan Sejati
       link: /topics/hero/short/a-real-hero

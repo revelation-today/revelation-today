@@ -2,7 +2,7 @@
 title: "Vahiy’deki trompetler"
 weight: 2
 base: /quick/content/trumpets
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/army/the-end-time-and-the-great-tribulation
 next: /expl/content/scroll/the-little-scroll
 docType: expl

@@ -1,7 +1,7 @@
 ---
 title: "New Heaven and New Earth (Ch. 21-22)"
 weight: 150
-story: /story/tour
+story: /story/general/tour
 appl: /appl/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/content/1000y

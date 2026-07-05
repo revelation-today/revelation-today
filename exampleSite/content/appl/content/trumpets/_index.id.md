@@ -2,7 +2,7 @@
 title: "Pasal 8-9: Doa dan Yang Tak Tergoyahkan"
 weight: 60
 base: /quick/content/trumpets
-story: /story/content/trumpets
+story: /story/general/content/trumpets
 deeper:
     - name: Kuasa doa
       link: /topics/power/short/the-key-of-prayer

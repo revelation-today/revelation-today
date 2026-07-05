@@ -1,7 +1,7 @@
 ---
 title: "Mektuplar (Böl. 2-3)"
 weight: 10
-story: /story/tour
+story: /story/general/tour
 appl: /appl/content/letters
 expl: /expl/content/letters/the-angel-of-the-churches
 prev: /kids/content/vision

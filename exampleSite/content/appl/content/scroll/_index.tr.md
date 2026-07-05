@@ -2,7 +2,7 @@
 title: "Böl.10: Büyük etkisi olan küçük bir tomar"
 weight: 70
 base: /quick/content/scroll
-story: /story/content/scroll
+story: /story/general/content/scroll
 deeper:
     - name: Küçük tomar
       link:  /expl/content/scroll/the-little-scroll

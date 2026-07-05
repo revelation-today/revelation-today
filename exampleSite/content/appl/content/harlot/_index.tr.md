@@ -2,7 +2,7 @@
 title: "Böl.17-19: Fahişe: Kötülüğün karmaşıklığı"
 weight: 130
 base: /quick/content/harlot
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Fahişe kimdir? Bölüm 1
       link:  /expl/content/harlot/who-is-the-harlot-babylon-part-1

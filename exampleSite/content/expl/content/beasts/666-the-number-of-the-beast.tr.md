@@ -3,7 +3,7 @@ title: "666: Canavarın numarası"
 themes: ["666"]
 weight: 4
 base: /quick/content/beasts
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
 next: /expl/content/beasts/the-nature-of-the-beast
 docType: expl

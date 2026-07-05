@@ -2,7 +2,7 @@
 title: "The book of Daniel"
 weight: 10
 base: /quick/bible/daniel
-story: /story/tour
+story: /story/general/tour
 prev: /expl/bible/keyword/the-origin-of-babel
 next: /expl/bible/daniel/the-four-kingdoms-in-daniel
 docType: expl

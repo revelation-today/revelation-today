@@ -2,7 +2,7 @@
 title: "The 70 year weeks"
 weight: 40
 base: /quick/bible/daniel
-story: /story/tour
+story: /story/general/tour
 prev: /expl/bible/daniel/the-son-of-man-and-the-remnant
 next: /expl/bible/daniel/the-secret-of-the-3-5-years
 docType: expl

@@ -1,7 +1,7 @@
 ---
 title: "Der Drache und die beiden Tiere (Kap. 13)"
 weight: 100
-story: /story/tour
+story: /story/general/tour
 appl: /appl/content/beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /quick/content/jesus

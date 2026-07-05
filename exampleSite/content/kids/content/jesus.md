@@ -1,7 +1,7 @@
 ---
 title: "Jesus' Victory (Ch. 12)"
 weight: 90
-story: /story/tour
+story: /story/general/tour
 appl: /appl/content/jesus
 expl: /expl/content/jesus/a-different-christmas-story
 prev: /kids/content/witnesses

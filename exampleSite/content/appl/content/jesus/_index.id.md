@@ -2,7 +2,7 @@
 title: "Pasal 12: Yesus dan Kejatuhan Iblis"
 weight: 90
 base: /quick/content/jesus
-story: /story/content/jesus
+story: /story/general/content/jesus
 prev: /appl/content/witnesses
 next: /appl/content/beasts
 docType: appl

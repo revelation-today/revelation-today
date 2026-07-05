@@ -1,7 +1,7 @@
 ---
 title: "The trumpets (Ch. 8-9)"
 weight: 60
-story: /story/content/trumpets
+story: /story/general/content/trumpets
 appl: /appl/content/trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 prev: /quick/content/seals

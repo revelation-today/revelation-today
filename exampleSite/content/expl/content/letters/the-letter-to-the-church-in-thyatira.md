@@ -2,7 +2,7 @@
 title: "The letter to the church in Thyatira"
 weight: 40
 base: /quick/content/letters
-story: /story/content/letters
+story: /story/general/content/letters
 prev: /expl/content/letters/the-letter-to-the-church-in-pergamon
 next: /expl/content/letters/the-letter-to-the-church-in-sardis
 docType: expl

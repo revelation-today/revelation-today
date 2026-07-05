@@ -3,7 +3,7 @@ title: "Tarihsel bağlamda canavarlar ve 666"
 themes: ["666"]
 weight: 3
 base: /quick/content/beasts
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 next: /expl/content/beasts/666-the-number-of-the-beast
 docType: expl

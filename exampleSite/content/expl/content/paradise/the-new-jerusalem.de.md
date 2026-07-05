@@ -2,7 +2,7 @@
 title: "Das neue Jerusalem"
 weight: 2
 base: /quick/content/paradise
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/1000y/the-thousand-year-kingdom
 next: /expl/content/paradise/heaven-and-hell
 docType: expl

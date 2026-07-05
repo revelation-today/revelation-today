@@ -1,7 +1,7 @@
 ---
 title: "Die Schöpfungsgeschichte"
 weight: 1
-story: /story/tour
+story: /story/general/tour
 expl: /expl/bible/creation/the-creation
 prev: /welcome
 next: /quick/bible/daniel

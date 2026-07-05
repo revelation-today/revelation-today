@@ -2,7 +2,7 @@
 title: "The angel of the churches"
 weight: 4
 base: /quick/content/letters
-story: /story/content/letters
+story: /story/general/content/letters
 deeper:
     - name: The letter to the churches
       link:  /expl/content/letters/the-letters-to-the-seven-churches

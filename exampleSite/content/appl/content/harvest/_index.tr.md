@@ -2,7 +2,7 @@
 title: "Böl.14: Kilisenin silahları ve ulusların kaderi"
 weight: 110
 base: /quick/content/harvest
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Tanrı'nın ordusu ve yedi melek
       link:  /expl/content/harvest/gods-army-and-the-seven-angels

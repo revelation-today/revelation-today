@@ -2,7 +2,7 @@
 title: "Böl.11: Dünyayı değiştiren güç"
 weight: 80
 base: /quick/content/witnesses
-story: /story/content/witnesses
+story: /story/general/content/witnesses
 deeper:
     - name: Tapınak
       link:  /expl/bible/creation/the-temple-and-the-presence-of-god

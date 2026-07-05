@@ -2,7 +2,7 @@
 title: "Böl.2-3: Sorun"
 weight: 20
 base: /quick/content/letters
-story: /story/content/letters
+story: /story/general/content/letters
 deeper:
     - name: Kiliselerin melekleri
       link:  /expl/content/letters/the-angel-of-the-churches

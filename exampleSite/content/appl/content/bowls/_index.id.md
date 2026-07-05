@@ -2,7 +2,7 @@
 title: "Pasal 15-16: Murka Allah"
 weight: 120
 base: /quick/content/harvest
-story: /story/content/bowls
+story: /story/general/content/bowls
 deeper:
     - name: Cawan-cawan Murka
       link:  /expl/content/bowls/the-bowls-of-wrath

@@ -2,7 +2,7 @@
 title: "Identitas kedua saksi dalam Kitab Wahyu"
 weight: 2
 base: /quick/content/witnesses
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/scroll/the-little-scroll
 next: /expl/content/jesus/a-different-christmas-story
 docType: expl

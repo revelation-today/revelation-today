@@ -2,7 +2,7 @@
 title: "Der Zorn des Lammes"
 weight: 4
 base: /quick/content/seals
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/seals/the-mystery-of-the-four-horse-men
 next: /expl/content/army/the-144000
 docType: expl

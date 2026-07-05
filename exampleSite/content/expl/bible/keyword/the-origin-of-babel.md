@@ -2,7 +2,7 @@
 title: "The origin of Babel"
 weight: 20
 base: /quick/bible/daniel
-story: /story/tour
+story: /story/general/tour
 prev: /expl/bible/keyword/the-story-of-balaam
 next: /expl/bible/daniel/the-book-of-daniel
 docType: expl

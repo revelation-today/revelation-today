@@ -2,7 +2,7 @@
 title: "Ch.2-3: The problem"
 weight: 20
 base: /quick/content/letters
-story: /story/content/letters
+story: /story/general/content/letters
 deeper:
     - name: The angels of the churches
       link:  /expl/content/letters/the-angel-of-the-churches

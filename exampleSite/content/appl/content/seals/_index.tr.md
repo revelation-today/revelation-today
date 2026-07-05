@@ -2,7 +2,7 @@
 title: "Böl.5-6: Yedi mühür paradoksu"
 weight: 40
 base: /quick/content/seals
-story: /story/content/seals
+story: /story/general/content/seals
 deeper:
     - name: Gerçek bir kahraman
       link: /topics/hero/short/a-real-hero

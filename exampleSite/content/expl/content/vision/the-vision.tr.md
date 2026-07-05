@@ -2,7 +2,7 @@
 title: "Vizyon"
 weight: 3
 base: /quick/content/vision
-story: /story/tour
+story: /story/general/tour
 sources: 
     - pages: 205–222
       ref: beale_rev

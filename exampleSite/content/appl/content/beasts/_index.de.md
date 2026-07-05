@@ -2,7 +2,7 @@
 title: "Kap.13: Das perfekte „Evangelium“"
 weight: 100
 base: /quick/content/beasts
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Die beiden Tiere
       link:  /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation

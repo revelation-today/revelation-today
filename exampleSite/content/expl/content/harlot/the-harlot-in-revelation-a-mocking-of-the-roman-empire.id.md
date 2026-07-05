@@ -2,7 +2,7 @@
 title: "Sang Pelacur Babel: Sebuah Nyanyian Ejekan terhadap Kekaisaran Romawi"
 weight: 5
 base: /quick/content/harlot
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 next: /expl/content/1000y/the-thousand-year-kingdom
 docType: expl

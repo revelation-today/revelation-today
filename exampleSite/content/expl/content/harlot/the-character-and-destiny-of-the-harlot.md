@@ -2,7 +2,7 @@
 title: "The character and destiny of the harlot"
 weight: 4
 base: /quick/content/harlot
-story: /story/content/harlot
+story: /story/general/content/harlot
 prev: /expl/content/harlot/who-is-the-harlot-babylon-part-2
 next: /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 docType: expl

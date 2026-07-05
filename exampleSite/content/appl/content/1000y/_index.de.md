@@ -2,7 +2,7 @@
 title: "Kap.20: 1000 Jahre Paradies?"
 weight: 140
 base: /quick/content/1000y
-story: /story/tour
+story: /story/general/tour
 deeper: 
     - name: Das Tausendjährige Reich
     - link: /content/1000y/expl/the-thousand-year-kingdom

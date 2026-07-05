@@ -2,7 +2,7 @@
 title: "Rahasia Tiga Setengah Tahun Akhir Zaman"
 weight: 50
 base: /quick/bible/daniel
-story: /story/tour
+story: /story/general/tour
 prev: /expl/bible/daniel/the-70-year-weeks
 next: /expl/content/vision/setting-the-foundation
 docType: expl

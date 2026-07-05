@@ -2,7 +2,7 @@
 title: "Bagian 1: Siapakah Sang Pelacur Babel?"
 weight: 2
 base: /quick/content/harlot
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-2
 docType: expl

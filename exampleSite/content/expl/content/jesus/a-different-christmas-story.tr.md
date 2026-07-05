@@ -2,7 +2,7 @@
 title: "Farklı bir Noel hikayesi"
 weight: 2
 base: /quick/content/jesus
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/witnesses/the-two-witnesses
 next: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 docType: expl

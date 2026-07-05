@@ -2,7 +2,7 @@
 title: "Böl.7: Garip ordu"
 weight: 50
 base: /quick/content/army
-story: /story/content/army
+story: /story/general/content/army
 deeper:
     - name: 144.000
       link:  /expl/content/army/the-144000

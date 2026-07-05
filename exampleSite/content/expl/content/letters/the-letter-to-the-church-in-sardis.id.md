@@ -2,7 +2,7 @@
 title: "Surat kepada Sardis"
 weight: 50
 base: /quick/content/letters
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/letters/the-letter-to-the-church-in-thyatira
 next: /expl/content/letters/the-letter-to-the-church-in-philadelphia
 docType: expl

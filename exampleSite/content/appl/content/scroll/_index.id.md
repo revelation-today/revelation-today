@@ -2,7 +2,7 @@
 title: "Pasal 10: Kitab Kecil dengan Dampak Besar"
 weight: 70
 base: /quick/content/scroll
-story: /story/content/scroll
+story: /story/general/content/scroll
 deeper:
     - name: Kitab kecil itu
       link:  /expl/content/scroll/the-little-scroll

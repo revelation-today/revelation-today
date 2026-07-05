@@ -3,7 +3,7 @@ title: "Angka Binatang Itu"
 themes: ["666"]
 weight: 4
 base: /quick/content/beasts
-story: /story/content/beasts
+story: /story/general/content/beasts
 prev: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
 next: /expl/content/beasts/the-nature-of-the-beast
 docType: expl

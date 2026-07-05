@@ -2,7 +2,7 @@
 title: "Pasal 7: Pasukan yang Aneh"
 weight: 50
 base: /quick/content/army
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: 144.000 Orang
       link:  /expl/content/army/the-144000

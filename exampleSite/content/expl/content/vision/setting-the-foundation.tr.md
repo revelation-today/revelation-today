@@ -2,7 +2,7 @@
 title: "Temelin oluşturulması"
 weight: 2
 base: /quick/content/vision
-story: /story/tour
+story: /story/general/tour
 sources: 
     - pages: 181–222
       ref: beale_rev

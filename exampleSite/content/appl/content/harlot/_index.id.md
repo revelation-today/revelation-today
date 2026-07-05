@@ -2,7 +2,7 @@
 title: "Pasal 17-19: Sang Pelacur: Kompleksitas Kejahatan"
 weight: 130
 base: /quick/content/harlot
-story: /story/content/harlot
+story: /story/general/content/harlot
 deeper:
     - name: "Siapakah Sang Pelacur: Bagian 1"
       link:  /expl/content/harlot/who-is-the-harlot-babylon-part-1

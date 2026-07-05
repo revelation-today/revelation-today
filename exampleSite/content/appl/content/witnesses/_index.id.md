@@ -2,7 +2,7 @@
 title: "Pasal 11: Kuasa yang Mengubah Dunia"
 weight: 80
 base: /quick/content/witnesses
-story: /story/content/witnesses
+story: /story/general/content/witnesses
 deeper:
     - name: Bait Allah
       link:  /expl/bible/creation/the-temple-and-the-presence-of-god

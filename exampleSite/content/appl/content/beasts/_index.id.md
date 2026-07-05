@@ -2,7 +2,7 @@
 title: "Pasal 13: Injil yang Sempurna"
 weight: 100
 base: /quick/content/beasts
-story: /story/content/beasts
+story: /story/general/content/beasts
 deeper:
     - name: Kedua Binatang Itu
       link:  /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation

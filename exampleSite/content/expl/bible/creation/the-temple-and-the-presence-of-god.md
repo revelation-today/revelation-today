@@ -2,7 +2,7 @@
 title: "The “temple” and the presence of God"
 weight: 10
 base: /quick/bible/creation
-story: /story/tour
+story: /story/general/tour
 prev: /expl/bible/creation/the-creation
 next: /expl/bible/creation/the-story-of-uzzah
 docType: expl

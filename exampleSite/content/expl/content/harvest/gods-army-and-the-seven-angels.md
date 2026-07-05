@@ -2,7 +2,7 @@
 title: "Gods army and the seven angels"
 weight: 2
 base: /quick/content/harvest
-story: /story/content/harvest
+story: /story/general/content/harvest
 prev: /expl/content/beasts/the-nature-of-the-beast
 next: /expl/content/bowls/the-bowls-of-wrath
 docType: expl

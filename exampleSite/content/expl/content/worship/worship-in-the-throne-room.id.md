@@ -2,7 +2,7 @@
 title: "Penyembahan di Ruang Takhta Allah"
 weight: 2
 base: /quick/content/worship
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/letters/the-letter-to-the-church-in-laodicea
 next: /expl/content/worship/the-book-with-the-seven-seals
 docType: expl

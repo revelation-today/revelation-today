@@ -2,7 +2,7 @@
 title: "Pasal 21-22: Apa Itu Surga dan Neraka?"
 weight: 150
 base: /quick/content/paradise
-story: /story/content/paradise
+story: /story/general/content/paradise
 deeper:
     - name: Yerusalem Baru
       link:  /expl/content/paradise/the-new-jerusalem

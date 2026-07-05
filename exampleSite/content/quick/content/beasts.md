@@ -1,7 +1,7 @@
 ---
 title: "The dragon and the two beasts (Ch. 13)"
 weight: 100
-story: /story/content/beasts
+story: /story/general/content/beasts
 appl: /appl/content/beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /quick/content/jesus

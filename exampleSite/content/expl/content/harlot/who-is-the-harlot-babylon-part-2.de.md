@@ -2,7 +2,7 @@
 title: "Teil 2: Wer ist die Hure Babel?"
 weight: 3
 base: /quick/content/harlot
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 next: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 docType: expl

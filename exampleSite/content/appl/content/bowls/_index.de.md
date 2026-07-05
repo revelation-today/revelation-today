@@ -2,7 +2,7 @@
 title: "Kap.15-16: Der Zorn Gottes"
 weight: 120
 base: /quick/content/harvest
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Die Zornesschalen
       link:  /expl/content/bowls/the-bowls-of-wrath

@@ -2,7 +2,7 @@
 title: "Die Geschichte von Moses"
 weight: 20
 base: /quick/bible/creation
-story: /story/tour
+story: /story/general/tour
 prev: /expl/bible/exodus/the-story-before-the-exodus
 next: /expl/bible/exodus/the-hardening-of-pharaohs-heart
 docType: expl

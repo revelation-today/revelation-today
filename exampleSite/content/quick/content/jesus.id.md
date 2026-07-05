@@ -1,7 +1,7 @@
 ---
 title: "Kemenangan Yesus (Pasal 12)"
 weight: 90
-story: /story/tour
+story: /story/general/tour
 appl: /appl/content/jesus
 expl: /expl/content/jesus/a-different-christmas-story
 prev: /quick/content/witnesses

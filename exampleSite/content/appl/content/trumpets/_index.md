@@ -2,7 +2,7 @@
 title: "Ch.8-9: Prayer and the Unwavering"
 weight: 60
 base: /quick/content/trumpets
-story: /story/content/trumpets
+story: /story/general/content/trumpets
 deeper:
     - name: The power of prayer
       link: /topics/power/short/the-key-of-prayer

@@ -1,7 +1,7 @@
 ---
 title: "The seals (Ch. 6)"
 weight: 40
-story: /story/content/seals
+story: /story/general/content/seals
 appl: /appl/content/seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /quick/content/worship

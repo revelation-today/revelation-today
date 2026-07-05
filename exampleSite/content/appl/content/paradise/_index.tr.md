@@ -2,7 +2,7 @@
 title: "Böl.21-22: Cennet ve cehennem ne hakkında?"
 weight: 150
 base: /quick/content/paradise
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Yeni Kudüs
       link:  /expl/content/paradise/the-new-jerusalem

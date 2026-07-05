@@ -2,7 +2,7 @@
 title: "Balam’ın öyküsü"
 weight: 30
 base: /quick/bible/creation
-story: /story/tour
+story: /story/general/tour
 prev: /expl/bible/exodus/the-plagues-in-egypt
 next: /expl/bible/keyword/the-origin-of-babel
 docType: expl

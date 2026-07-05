@@ -2,7 +2,7 @@
 title: "The story of Uzzah"
 weight: 50
 base: /quick/bible/creation
-story: /story/tour
+story: /story/general/tour
 prev: /expl/bible/creation/the-temple-and-the-presence-of-god
 next: /expl/bible/exodus/the-story-before-the-exodus
 docType: expl

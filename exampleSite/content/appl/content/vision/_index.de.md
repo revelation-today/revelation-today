@@ -2,7 +2,7 @@
 title: "Kap.1: Die Vision"
 weight: 10
 base: /quick/content/vision
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Der Auftakt des Buches
       link:  /expl/content/letters/setting-the-foundation

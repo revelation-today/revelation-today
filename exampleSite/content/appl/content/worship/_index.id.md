@@ -2,7 +2,7 @@
 title: "Pasal 4: Jawaban atas Segala Pertanyaan"
 weight: 30
 base: /quick/content/worship
-story: /story/tour
+story: /story/general/tour
 deeper:
     - name: Penyembahan di Ruang Takhta
       link:  /expl/content/worship/worship-in-the-throne-room

@@ -2,7 +2,7 @@
 title: "Ch.7: The strange army"
 weight: 50
 base: /quick/content/army
-story: /story/content/army
+story: /story/general/content/army
 deeper:
     - name: The 144.000
       link:  /expl/content/army/the-144000

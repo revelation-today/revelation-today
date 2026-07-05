@@ -2,7 +2,7 @@
 title: "Surat kepada Efesus"
 weight: 10
 base: /quick/content/letters
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/letters/the-letters-to-the-seven-churches
 next: /expl/content/letters/the-letter-to-the-church-in-smyrna
 docType: expl

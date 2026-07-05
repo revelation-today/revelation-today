@@ -2,7 +2,7 @@
 title: "Böl.20: 1000 yıllık cennet mi?"
 weight: 140
 base: /quick/content/1000y
-story: /story/tour
+story: /story/general/tour
 deeper: 
     - name: 1000 yıllık krallık
     - link: /content/1000y/expl/the-thousand-year-kingdom

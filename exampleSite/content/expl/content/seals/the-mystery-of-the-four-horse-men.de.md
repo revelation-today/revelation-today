@@ -2,7 +2,7 @@
 title: "Das Geheimnis der vier apokalyptischen Reiter"
 weight: 3
 base: /quick/content/seals
-story: /story/tour
+story: /story/general/tour
 prev: /expl/content/worship/the-book-with-the-seven-seals
 next: /expl/content/seals/the-wrath-of-the-lamb
 docType: expl

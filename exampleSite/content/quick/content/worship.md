@@ -1,7 +1,7 @@
 ---
 title: "Worship (Ch. 4-5)"
 weight: 20
-story: /story/content/worship
+story: /story/general/content/worship
 appl: /appl/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters

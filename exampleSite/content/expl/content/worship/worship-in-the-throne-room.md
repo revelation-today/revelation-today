@@ -2,7 +2,7 @@
 title: "Worship in the throne room"
 weight: 2
 base: /quick/content/worship
-story: /story/content/worship
+story: /story/general/content/worship
 prev: /expl/content/letters/the-letter-to-the-church-in-laodicea
 next: /expl/content/worship/the-book-with-the-seven-seals
 docType: expl
