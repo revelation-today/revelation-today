@@ -1,5 +1,5 @@
 ---
-title: "Gott hört „Wie lange?“"
+title: "Wie lange hat Gott Geduld?"
 weight: 5
 docType: kids
 audience_group: "middle-eastern"
