@@ -4,17 +4,42 @@ prev: /
 next: /welcome/teaser
 ---
 
-Let me give you an idea how the page works and how you navigate.
-- You get back to the **homepage** by clicking on the left top part of the page
-- You can give me **feedback** by clicking on "Contact" in the menu (on the top of the page for widescreen or in the menu for small screen like smartphones).
-- You can **open the menu** on a small screen by pressing the "=" on the top right of the page.
-- You can change into **dark mode** (energy saving) by pressing on the moon symbol on the bottom of the page.
+Here's a quick guide to finding your way around this site.
 
-You have also a **search menu** where you can search your topic - for widescreen on the top right, on a small screen on top of the menu.
+## Getting around
 
-Bible verses are written in purple and show you the bible verse. Have a look at this {{% bible val="example" link="rev:12,1-6" lang="en" %}}.
+- **Home icon** in the menu takes you back to the homepage at any time.
+- **Menu bar** at the top (or behind the "≡" icon on a phone) lists every section: the poetic
+  story, the quick walkthrough, sermons, the deep dive, kids' material, the chapter-by-chapter
+  guide, and themes.
+- **Search** (the magnifying glass, top right on a wide screen, or above the menu on a phone)
+  lets you jump straight to a keyword instead of browsing.
+- **Dark mode** - tap the moon/sun icon at the bottom of the page to switch, easier on the eyes
+  in the evening.
 
-The website is organized in tours that lead you systematically around, but on each topic you can switch between them. In the menu you will see all the topics contained in this tour. If you are interested in the dragon and the two beasts you can start a {{% int_link val="tour" link="/welcome" %}} (e.g. {{% int_link val="application" link="/welcome/appl" %}}) and navigate directly to this part.
+## Finding what you need
 
-You can also have a look at the {{% int_link val="used bible verses" link="/expl/bible_ref/poetry/psa" %}}.
+This site offers the same material at five different depths - a ten-minute story, a one-hour
+summary, ready-to-preach sermons, a fully footnoted deep dive, and a simple version for kids.
+You don't need to pick just one:
 
+- Already know which chapter you're curious about? The
+  {{% int_link val="chapter-by-chapter guide" link="/guide" %}} puts all five depths side by
+  side, one row per chapter - jump straight to what you need.
+- Have a specific question instead - the rapture, 666, Armageddon? Browse by
+  {{% int_link val="theme" link="/themes" %}}.
+- Not sure where to start at all? The {{% int_link val="welcome tour" link="/welcome" %}} walks
+  you through the options.
+
+Wherever you land, every page links onward to the other depths on the same passage, so you can
+always go deeper (or simpler) without losing your place.
+
+## Reading the pages
+
+Bible verses appear in purple - hover or tap one to read it, like this
+{{% bible val="example" link="rev:12,1-6" lang="en" %}}. You can also browse the
+{{% int_link val="full list of Bible verses used on this site" link="/expl/bible_ref" %}}.
+
+## Questions or feedback?
+
+Click "Contact" in the menu - I'd genuinely like to hear from you.

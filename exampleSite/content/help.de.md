@@ -1,19 +1,47 @@
 ---
-Titel: Hilfe
+title: Hilfe
 prev: /
 next: /welcome/teaser
 ---
 
-Ich möchte dir eine Idee geben, wie die Seite funktioniert und wie du navigierst.
-- Du gelangst zurück zur **Homepage**, indem du auf den linken oberen Teil der Seite klickst
-- Du kannst mir **Feedback** geben, indem du auf "Kontakt" im Menü klickst (oben auf der Seite für Breitbildschirme oder im Menü für kleine Bildschirme wie Smartphones).
-- Du kannst **das Menü** auf einem kleinen Bildschirm öffnen, indem du das "=" oben rechts auf der Seite drückst.
-- Du kannst in den **Dunkelmodus** (Energiesparmodus) wechseln, indem du auf das Mondsymbol unten auf der Seite drückst.
+Hier eine kurze Orientierung, wie du dich auf dieser Seite zurechtfindest.
 
-Du hast auch ein **Suchmenü**, wo du dein Thema suchen kannst - für den Breitbildschirm oben rechts, auf einem kleinen Bildschirm oben im Menü.
+## Navigation
 
-Die Bibelverse sind in lila geschrieben und zeigen dir den Bibelvers. Schau dir dieses {{% bible val=" Beispiel" link="rev:12,1-6" lang="en" %}} an.
+- **Home-Symbol** im Menü bringt dich jederzeit zurück zur Startseite.
+- **Menüleiste** oben (oder hinter dem "≡"-Symbol auf dem Smartphone) listet alle Bereiche auf:
+  die poetische Geschichte, den Schnelldurchgang, die Predigten, die Vertiefung, das
+  Kinderangebot, den Kapitel-für-Kapitel-Leitfaden und die Themen.
+- **Suche** (die Lupe, oben rechts auf breiten Bildschirmen, oder über dem Menü auf dem
+  Smartphone) bringt dich direkt zu einem Stichwort, ohne dass du dich durchklicken musst.
+- **Dunkelmodus** - tippe auf das Mond-/Sonnensymbol unten auf der Seite, um zu wechseln,
+  angenehmer für die Augen am Abend.
 
-Die Seite ist in Touren gegliedert, die dich systematisch herumführen, aber bei jedem Thema kannst du zwischen ihnen wechseln. Im Menü siehst du alle Themen, die in dieser Tour enthalten sind. Wenn du dich für den Drachen und die beiden Tiere interessierst, kannst du eine {{% int_link val=" Tour" link="/welcome" %}} (z.B. {{% int_link val=" Anwendung" link="/welcome/appl" %}}) und direkt zu diesem Teil navigieren.
+## Das Richtige finden
 
-Du kannst einen Blick auf alle {{% int_link val="benutzten Bibelverse" link="/expl/bible_ref/poetry/psa" %}} werfen.
+Diese Seite bietet denselben Stoff in fünf verschiedenen Tiefen an - eine zehnminütige
+Geschichte, eine einstündige Zusammenfassung, predigtfertige Botschaften, eine vollständig
+belegte Vertiefung und eine einfache Fassung für Kinder. Du musst dich nicht für eine
+Variante entscheiden:
+
+- Weißt du schon, welches Kapitel dich interessiert? Der
+  {{% int_link val="Kapitel-für-Kapitel-Leitfaden" link="/guide" %}} stellt alle fünf Tiefen
+  nebeneinander, eine Zeile pro Kapitel - geh direkt dorthin, wo du hinwillst.
+- Hast du stattdessen eine bestimmte Frage - die Entrückung, 666, Armageddon? Stöbere nach
+  {{% int_link val="Thema" link="/themes" %}}.
+- Bist du dir gar nicht sicher, wo du anfangen sollst? Die {{% int_link val="Willkommens-Tour" link="/welcome" %}}
+  führt dich durch die Möglichkeiten.
+
+Wo immer du landest - jede Seite verlinkt weiter zu den anderen Tiefen desselben Textabschnitts,
+sodass du jederzeit tiefer gehen (oder es einfacher haben) kannst, ohne den Faden zu verlieren.
+
+## Die Seiten lesen
+
+Bibelverse erscheinen in lila - fahre mit der Maus darüber oder tippe darauf, um den Vers zu
+lesen, wie hier {{% bible val="Beispiel" link="rev:12,1-6" lang="de" %}}. Du kannst auch die
+{{% int_link val="vollständige Liste der auf dieser Seite verwendeten Bibelverse" link="/expl/bible_ref" %}}
+durchstöbern.
+
+## Fragen oder Feedback?
+
+Klick im Menü auf "Kontakt" - ich freue mich wirklich, von dir zu hören.
