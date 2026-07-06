@@ -60,11 +60,11 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - identifier: tour
-      name: Tour
+    - identifier: home
+      name: Home
       params:
-        icon: map
-      pageRef: /welcome
+        icon: home
+      pageRef: /
       weight: 1
     - identifier: story
       name: Poetic story
