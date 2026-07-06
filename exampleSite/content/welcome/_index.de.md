@@ -58,9 +58,9 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
-    title="Anwendung"
-    link="../appl/tour"
-    subtitle="Entdecke, wie du das Buch in deinem Leben anwenden kannst."
+    title="Predigten"
+    link="../sermons"
+    subtitle="Fertige Botschaften, direkt zum Predigen oder Lehren."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
     source="https://pixabay.com/photos/heart-crown-sweetheart-structure-2943576/"

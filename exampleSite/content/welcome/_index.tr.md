@@ -43,12 +43,26 @@ Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize g�
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
-    title="Uygulamalar"
-    link="../appl/tour"
-    subtitle="Kitabı hayatınızda nasıl uygulayacağınızı keşfedin."
+    title="Vaazlar"
+    link="../sermons"
+    subtitle="Vaaz vermeye ya da öğretmeye hazır tam mesajlar."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
     source="https://pixabay.com/photos/heart-crown-sweetheart-structure-2943576/"
+    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}
+</br></br>
+
+{{< hextra/feature-grid>}}
+  {{< hextra/feature-card
+    title="Çocuklar için"
+    link="../kids/tour"
+    subtitle="Çocuklar için sade bir şekilde anlatılmış."
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/kids.jpg"
+    source="https://pixabay.com/photos/girl-child-kid-young-lying-511883/"
     imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}

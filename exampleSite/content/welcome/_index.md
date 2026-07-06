@@ -43,9 +43,9 @@ You want to know more about this book. You are welcome to discover this guide ba
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
-    title="Applications"
-    link="../appl/tour"
-    subtitle="Discover how to apply the book in your life."
+    title="Sermons"
+    link="../sermons"
+    subtitle="Full messages, ready to preach or teach from."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/images/heart.jpg"
     source="https://pixabay.com/photos/heart-crown-sweetheart-structure-2943576/"

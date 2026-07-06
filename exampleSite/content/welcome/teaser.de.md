@@ -5,70 +5,36 @@ next: /welcome
 weight: 2
 ---
 
-## Das Problem
+Lass mich raten, warum du hier bist.
 
-In der heutigen Welt werden wir überwältigt von 
-- neuen Informationen, die wir verarbeiten müssen
-- ethischen und politischen Fragen, die schwer zu beantworten sind
-- neue Technologien, die unsere Aufmerksamkeit erfordern
+Vielleicht hat jemand "666" erwähnt, oder Harmagedon, oder das Malzeichen des Tieres, und du hattest keine Ahnung, was das überhaupt bedeutet. Vielleicht bist du damit aufgewachsen, dass dieses Buch als Countdown zur Katastrophe gepredigt wurde, und es hat dich ängstlicher zurückgelassen, nicht hoffnungsvoller. Vielleicht hast du es selbst gelesen, ganz allein, und bist verwirrter herausgekommen, als du reingegangen bist. Oder vielleicht bist du einfach neugierig, warum das seltsamste Buch der Bibel zweitausend Jahre später immer noch Gesprächsthema ist.
 
-und es ist manchmal schwer, in der Bibel Orientierung und Motivation zu finden.
+Was auch immer dich hierher gebracht hat - willkommen. Du brauchst kein Vorwissen, um anzufangen, und du musst auch nicht schon mit allem übereinstimmen, was du bisher über dieses Buch gehört hast. Alles, was du brauchst, ist die Bereitschaft, mit frischen Augen hinzuschauen.
 
-## Die Lösung?
+## Warum dieses Buch, warum jetzt
 
-Von allen Büchern der Bibel ist das Buch der Offenbarung besonders seltsam und schwer zu verstehen. Es ist voll von Katastrophen und seltsamen Bildern
-- die Zahl des Tieres: 666
-- die vier Reiter
-- ein Buch mit sieben Siegeln
-- ein Zeichen an Hand und Stirn
-- Engel der Kirchen
-- Armageddon
-- das 1000-jährige Reich, in dem enthauptete Menschen herrschen
-- ...
+Hier ist die ehrliche Wahrheit: Das Buch der Offenbarung hat ein Imageproblem. Es wurde benutzt, um Weltuntergangs-Kalender zu verkaufen, schlechte Filme zu befeuern und Menschen mit Angst in die Kirchenbank zu treiben. Wenn das dein Bild von diesem Buch ist, liegst du nicht falsch - so wurde es tatsächlich oft verkauft.
 
-Vielleicht hast du noch nicht einmal eine gute Predigt zu diesem Thema gehört, wenn überhaupt, und dieses Buch scheint in deiner Situation überhaupt nicht relevant für dich zu sein.
+Aber das ist nicht, was dieses Buch wirklich ist. Es wurde an sieben echte Gemeinden in sieben echten Städten geschrieben, zu einer Zeit, in der die Nachfolge Jesu dich dein Geschäft, deinen Ruf, deine Sicherheit oder dein Leben kosten konnte. Es ist in erster Linie kein Rätsel zum Entschlüsseln oder ein Countdown zu einer zukünftigen Katastrophe. Es ist ein Brief an entmutigte, unter Druck stehende, ganz normale Menschen, der sie daran erinnert, wer wirklich die Welt regiert - und warum das eine gute Nachricht ist.
 
-## Eine andere Sichtweise
+Und genau deshalb ist es heute noch genauso wichtig. Wir stehen vielleicht keinen römischen Kaisern gegenüber, die Anbetung fordern, aber wir wissen, wie es sich anfühlt, von schlechten Nachrichten überwältigt zu sein, unsicher, wem wir vertrauen können, versucht, einfach mitzumachen, um es uns bequem zu machen. Dieses Buch wurde für Menschen genau in dieser Situation geschrieben. Sein eigentliches Thema war nie die zukünftige Katastrophe - es ist Jesus, und was es bedeutet, wirklich ihn anzubeten, statt allem anderen, was um diesen Platz in unserem Leben konkurriert.
 
-Das ist aber ganz und gar nicht der Fall. Dieses Buch gibt Orientierung für Christen 
-- unter Verfolgung, 
-- in Armut, 
-- mit schlechter Führung, 
-- die unter falscher Lehre leiden
-- die den Heiligen Geist vermissen
+## Was dich erwartet
 
-Und es war eines der am meisten gelesenen Bücher des frühen Christentums, das ihnen half, die Herausforderungen der Unterdrückung und des Betrugs des Römischen Reiches zu meistern, und das auch heute noch von großer Bedeutung ist.
+Unterwegs findest du echte Antworten auf Fragen, die dich wahrscheinlich schon lange beschäftigen - warum Leid allein noch nie jemandes Herz wirklich verändert hat, warum Anbetung im Zentrum dieses Buches steht statt der Angst, was die Große Trübsal wirklich ist und ob es eine "Entrückung" gibt, was Harmagedon tatsächlich bedeutet, und wie Gottes eigene Vision für seine Gemeinde aussieht, wenn sie so lebt, wie sie gemeint ist.
 
-Dieses Buch ist ein Trost und eine Ermutigung
-- in einer trügerischen und gefallenen Welt
-- für Kirchen, die ihren Schwung verloren haben
-- wenn du das Gefühl dafür verloren hast, was in deinem Glauben wirklich wichtig ist
-- wie die Kirche in dieser Welt einen Unterschied macht
+Nichts davon wird als letztes Wort präsentiert. Diese Seite ist ein ehrlicher Versuch, den Text sorgfältig zu lesen und ernst zu nehmen - nicht die letzte Autorität dazu. Du darfst gerne widersprechen, schwierige Fragen stellen und mit deinen Zweifeln sitzen bleiben, die ganze Zeit über.
 
-Und im Mittelpunkt stehen nicht zukünftige Katastrophen, sondern Jesus und was es bedeutet, ihn anzubeten.
+## Wie du dich zurechtfindest
 
-Du wirst entdecken
-- {{% int_link val="warum Leid allein noch nie jemanden zu Gott gebracht hat" link="/quick/content/trumpets" %}}
-- {{% int_link val="dass Anbetung nicht das ist, was du vielleicht denkst" link="/quick/content/worship" %}}
-- {{% int_link val="das Geheimnis, wie man Menschen zu Gott führt" link="/quick/content/witnesses" %}}
-- {{% int_link val="was Harmagedon wirklich ist" link="/quick/content/bowls" %}}
-- {{% int_link val="was die große Trübsal ist und ob es eine Entrückung gibt" link="/quick/content/army" %}}
-- {{% int_link val="was Gottes Vision für die Gemeinde wirklich ist" link="/quick/content/vision" %}}
-- {{% int_link val="warum Gebet so wichtig ist und was es bewirkt" link="/quick/content/trumpets" %}}
+Du musst diese Seite nicht von Anfang bis Ende lesen, und du musst schon gar nicht alles lesen. Wähle die Tiefe, die gerade zu dir passt:
 
-## Die Reise
+- **Die poetische Geschichte** - das ganze Buch in etwa zehn Minuten, einfach als eine durchgehende Geschichte erzählt.
+- **Der Schnelldurchlauf** - Abschnitt für Abschnitt, in einfacher Sprache, mit gerade so viel historischem Hintergrund wie nötig.
+- **Predigten** - fertige Botschaften, direkt zum Predigen oder Lehren, inklusive Fassungen für unterschiedliche Zielgruppen.
+- **Die Vertiefung** - die vollständige, mit Quellen belegte Erklärung, für wann immer du bei einer bestimmten Passage tiefer einsteigen willst.
+- **Für Kinder** - dieselbe Geschichte, einfach erzählt, für die jüngsten Leser in deinem Leben.
 
-Aber um den Nutzen dieses Buches zu ernten, lade ich dich auf eine Reise ein, auf der
-- du alles durch die Brille der ersten Leser lesen lernst
-- all die ungewöhnlichen Bilder zu verstehen lernst
-- solide Argumente von führenden Theologen zu sehen bekommst
-- die Relevanz für unsere Zeit erkennen kannst
-- Ermutigung findest
-- die konkrete Anwendung siehst
+Wenn du schon weißt, welche Passage dich interessiert, legt der {{% int_link val="Kapitel-für-Kapitel-Leitfaden" link="/guide" %}} alle fünf Tiefen nebeneinander, eine Zeile pro Kapitel - spring direkt rein. Wenn dich eher ein bestimmtes Thema beschäftigt - die Entrückung, 666, Harmagedon und mehr - stöbere nach [Themen]({{< relref "themes" >}}). Oder nutze einfach die Suchleiste und schau, was dabei herauskommt.
 
-Du bist herzlich eingeladen, diesen Leitfaden nach deinem Interesse zu entdecken, im Selbststudium oder in Gruppen. Du hast mehrere Möglichkeiten:
-- Nimm eine der fünf Touren, von der {{% int_link val="zehnminütigen poetischen Nacherzählung" link="/story" %}} bis zur {{% int_link val="vollständigen, mit Quellen belegten Erklärung Vers für Vers" link="/expl" %}}
-- Spring direkt zu einer Stelle mit dem {{% int_link val="Kapitel-für-Kapitel-Leitfaden" link="/guide" %}}
-- Stöbere stattdessen nach [Themen]({{< relref "themes" >}}) - die Entrückung, 666, Harmagedon und mehr
-- Nutze die Suchleiste für ein bestimmtes Stichwort
-- Oder erkunde einfach drauflos!
+Wie auch immer du hierhergefunden hast - willkommen. Fangen wir an.

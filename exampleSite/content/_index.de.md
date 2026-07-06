@@ -39,10 +39,10 @@ layout: hextra-home
     link="quick"
   >}}
   {{< hextra/feature-card
-    title="Anwendung"
-    subtitle="Aufbereitet für Predigt, Unterricht oder Kleingruppe."
-    icon="pencil"
-    link="appl"
+    title="Predigten"
+    subtitle="Fertige Botschaften, direkt zum Predigen oder Lehren."
+    icon="speakerphone"
+    link="sermons"
   >}}
   {{< hextra/feature-card
     title="Zur Vertiefung"

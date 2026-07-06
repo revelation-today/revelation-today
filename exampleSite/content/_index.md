@@ -40,10 +40,10 @@ layout: hextra-home
     link="quick"
   >}}
   {{< hextra/feature-card
-    title="Application"
-    subtitle="Prepared for preaching, teaching, or small groups."
-    icon="pencil"
-    link="appl"
+    title="Sermons"
+    subtitle="Full messages, ready to preach or teach from."
+    icon="speakerphone"
+    link="sermons"
   >}}
   {{< hextra/feature-card
     title="Deep dive"

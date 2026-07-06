@@ -40,10 +40,10 @@ layout: hextra-home
     link="quick"
   >}}
   {{< hextra/feature-card
-    title="Uygulama"
-    subtitle="Vaaz, öğretim ya da küçük grup için hazırlanmış."
-    icon="pencil"
-    link="appl"
+    title="Vaazlar"
+    subtitle="Vaaz vermeye ya da öğretmeye hazır tam mesajlar."
+    icon="speakerphone"
+    link="sermons"
   >}}
   {{< hextra/feature-card
     title="Derinlemesine"

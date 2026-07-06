@@ -5,70 +5,36 @@ next: /welcome
 weight: 2
 ---
 
-## Masalahnya
+Coba saya tebak mengapa Anda ada di sini.
 
-Di dunia saat ini kita dibanjiri oleh 
-- informasi baru yang perlu kita proses
-- pertanyaan-pertanyaan etis dan politis yang sulit untuk dijawab
-- teknologi-teknologi baru yang menuntut perhatian kita
+Mungkin seseorang menyebut "666" kepada Anda, atau Armagedon, atau tanda binatang itu, dan Anda sama sekali tidak tahu apa artinya. Mungkin Anda dibesarkan dengan mendengar kitab ini dikhotbahkan sebagai hitungan mundur menuju bencana, dan itu membuat Anda lebih cemas, bukan lebih penuh harapan. Mungkin Anda pernah membacanya sendiri, dan malah semakin bingung dari sebelumnya. Atau mungkin Anda hanya penasaran mengapa kitab teraneh dalam Alkitab ini masih dibicarakan dua ribu tahun kemudian.
 
-Oleh karena itu, terkadang sulit untuk menemukan bimbingan dan motivasi dalam Alkitab.
+Apa pun yang membawa Anda ke sini - selamat datang. Anda tidak perlu pengetahuan sebelumnya untuk memulai, dan Anda juga tidak perlu sudah setuju dengan apa pun yang pernah Anda dengar tentang kitab ini. Yang Anda butuhkan hanyalah kesediaan untuk melihatnya dengan mata yang segar.
 
-## Solusinya?
+## Mengapa kitab ini, mengapa sekarang
 
-Dari semua kitab dalam Alkitab, Kitab Wahyu adalah kitab yang paling aneh dan sulit untuk dimengerti. Kitab ini penuh dengan peristiwa-peristiwa apokaliptik dan gambaran-gambaran yang aneh, misalnya
-- jumlah binatang itu: 666
-- empat penunggang kuda
-- sebuah buku dengan tujuh meterai
-- tanda di tangan dan dahi
-- malaikat-malaikat gereja
-- armageddon
-- kerajaan 1000 tahun
-- ...
+Inilah kebenaran yang jujur: Kitab Wahyu punya masalah citra. Kitab ini pernah dipakai untuk menjual kalender kiamat, memicu film-film buruk, dan menakut-nakuti orang agar datang ke gereja. Jika itulah gambaran yang Anda miliki tentang kitab ini, Anda tidak sepenuhnya salah - memang begitulah kitab ini sering "dijual."
 
-Anda mungkin belum pernah mendengar khotbah yang bagus tentang buku ini, jika ada dan kadang-kadang tampaknya tidak relevan dengan dunia saat ini
+Tapi bukan itulah kitab ini sebenarnya. Kitab ini ditulis untuk tujuh jemaat sungguhan, di tujuh kota sungguhan, pada masa ketika mengikut Yesus bisa membuat Anda kehilangan usaha, reputasi, keamanan, bahkan nyawa. Kitab ini bukan terutama teka-teki untuk dipecahkan atau hitungan mundur menuju bencana di masa depan. Ini adalah surat kepada orang-orang biasa yang patah semangat dan tertekan, mengingatkan mereka siapa yang sebenarnya berkuasa atas dunia ini - dan mengapa itu adalah kabar baik.
 
-## Pandangan yang berbeda
+Dan justru karena itulah kitab ini masih relevan sampai sekarang. Kita mungkin tidak berhadapan dengan kaisar Romawi yang menuntut penyembahan, tapi kita tahu rasanya kewalahan oleh berita buruk, tidak yakin harus percaya kepada siapa, tergoda untuk ikut arus demi kenyamanan hidup. Kitab ini ditulis untuk orang-orang yang persis berada dalam situasi itu. Inti dari kitab ini tidak pernah benar-benar tentang bencana masa depan - intinya adalah Yesus, dan apa artinya benar-benar menyembah Dia, bukan hal lain yang bersaing untuk tempat itu dalam hidup kita.
 
-Namun sebenarnya tidak demikian. Buku ini dimaksudkan untuk menolong orang Kristen dan memberikan orientasi kepada mereka yang 
-- yang berada di bawah penganiayaan, 
-- dalam kemiskinan, 
-- dengan kepemimpinan yang buruk, 
-- menderita di bawah pengajaran yang salah
-- kehilangan Roh Kudus
+## Apa yang bisa Anda harapkan
 
-Kitab ini merupakan salah satu kitab yang paling banyak dibaca oleh Gereja mula-mula, yang menolong mereka menghadapi tantangan penindasan dan tipu daya Kekaisaran Romawi, dan juga masih tetap relevan sampai sekarang.
+Dalam perjalanannya, Anda akan menemukan jawaban nyata untuk pertanyaan yang mungkin sudah lama mengganggu Anda - mengapa penderitaan saja tidak pernah benar-benar mengubah hati siapa pun, mengapa penyembahan berada di pusat kitab ini, bukan rasa takut, apa sebenarnya Kesengsaraan Besar itu dan apakah ada "pengangkatan" (rapture), apa sebenarnya arti Armagedon, dan seperti apa visi Allah sendiri bagi gereja-Nya ketika gereja itu hidup sesuai dengan visi tersebut.
 
-Buku ini adalah penghiburan dan dorongan
-- dalam dunia yang penuh tipu daya dan kejatuhan
-- untuk gereja-gereja yang telah kehilangan fokus mereka
-- jika Anda secara pribadi telah kehilangan pengertian tentang apa yang benar-benar penting dalam iman Anda
-- bagaimana gereja membuat perbedaan di dunia ini
+Tidak ada satu pun dari ini yang disajikan sebagai kata terakhir. Situs ini adalah satu upaya jujur untuk membaca teks dengan saksama dan menanggapinya dengan serius - bukan otoritas akhir atasnya. Anda boleh tidak setuju, mengajukan pertanyaan-pertanyaan sulit, dan tetap bergumul dengan keraguan Anda, sepanjang perjalanan ini.
 
-Inti dari buku ini bukanlah bencana di masa depan, melainkan Yesus - dan apa artinya menyembah Dia.
+## Cara menemukan arah Anda
 
-Anda akan menemukan
-- {{% int_link val="mengapa penderitaan saja tidak pernah membawa orang kepada Allah" link="/quick/content/trumpets" %}}
-- {{% int_link val="bahwa penyembahan bukanlah seperti yang mungkin Anda kira" link="/quick/content/worship" %}}
-- {{% int_link val="rahasia untuk membawa orang kepada Allah" link="/quick/content/witnesses" %}}
-- {{% int_link val="apa sebenarnya Armagedon itu" link="/quick/content/bowls" %}}
-- {{% int_link val="apa itu Kesengsaraan Besar dan apakah ada pengangkatan" link="/quick/content/army" %}}
-- {{% int_link val="apa sebenarnya visi Allah bagi gereja" link="/quick/content/vision" %}}
-- {{% int_link val="mengapa doa begitu penting dan apa hasilnya" link="/quick/content/trumpets" %}}
+Anda tidak harus membaca situs ini dari awal sampai akhir, dan Anda pasti tidak harus membaca semuanya. Pilih saja kedalaman yang sesuai dengan kebutuhan Anda sekarang:
 
-## Perjalanan
+- **Kisah puitis** - seluruh kitab dalam sekitar sepuluh menit, diceritakan sederhana sebagai satu kisah yang mengalir.
+- **Penjelasan singkat** - bagian demi bagian, dengan bahasa sederhana, dengan latar belakang sejarah secukupnya.
+- **Khotbah** - pesan lengkap, siap untuk dikhotbahkan atau diajarkan, termasuk versi yang disesuaikan untuk berbagai kalangan.
+- **Penjelasan mendalam** - penjelasan lengkap dengan sumber, untuk kapan pun Anda ingin mendalami suatu bagian tertentu.
+- **Untuk anak-anak** - kisah yang sama, diceritakan sederhana, untuk pembaca termuda dalam hidup Anda.
 
-Untuk memetik manfaat dari buku ini, saya mengundang Anda dalam sebuah perjalanan di mana
-- Anda dapat melihat melalui lensa pembaca pertama
-- Anda dapat memahami semua gambar-gambar yang tidak biasa
-- Anda mendapatkan rangkuman penafsiran yang solid dan berlandaskan dari gambaran-gambaran yang ditemukan di dalam buku ini dari para teolog yang sudah mapan
-- melihat relevansinya untuk zaman kita
-- menemukan dorongan semangat 
-- melihat penerapan yang konkret
+Jika Anda sudah tahu bagian mana yang Anda penasaran, {{% int_link val="panduan bab demi bab" link="/guide" %}} menempatkan kelima kedalaman ini berdampingan, satu baris untuk setiap bab - langsung saja masuk. Jika yang menarik perhatian Anda adalah topik tertentu - pengangkatan, 666, Armagedon, dan banyak lagi - jelajahi berdasarkan [tema]({{< relref "themes" >}}). Atau gunakan saja bilah pencarian dan lihat apa yang muncul.
 
-Situs web ini dapat digunakan sebagai panduan tentang topik yang Anda minati, sebagai studi mandiri yang mendalam atau bahkan untuk kelompok kecil. Anda memiliki beberapa pilihan:
-- Ikuti salah satu dari lima tur, mulai dari {{% int_link val="kisah puitis sepuluh menit" link="/story" %}} hingga {{% int_link val="penjelasan lengkap ayat demi ayat dengan sumbernya" link="/expl" %}}
-- Langsung menuju bagian mana pun dengan {{% int_link val="panduan bab demi bab" link="/guide" %}}
-- Atau jelajahi berdasarkan [tema]({{< relref "themes" >}}) - pengangkatan, 666, Armagedon, dan banyak lagi
-- Gunakan bilah pencarian untuk kata kunci tertentu
-- Atau jelajahi saja!
+Bagaimanapun caranya Anda sampai di sini - selamat datang. Mari kita mulai.

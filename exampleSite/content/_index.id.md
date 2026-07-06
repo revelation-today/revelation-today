@@ -40,10 +40,10 @@ layout: hextra-home
     link="quick"
   >}}
   {{< hextra/feature-card
-    title="Aplikasi"
-    subtitle="Disiapkan untuk berkhotbah, mengajar, atau kelompok kecil."
-    icon="pencil"
-    link="appl"
+    title="Khotbah"
+    subtitle="Pesan lengkap, siap untuk dikhotbahkan atau diajarkan."
+    icon="speakerphone"
+    link="sermons"
   >}}
   {{< hextra/feature-card
     title="Penjelasan mendalam"
