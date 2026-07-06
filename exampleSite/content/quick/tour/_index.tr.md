@@ -1,14 +1,13 @@
 ---
-title: Hikaye boyunca tur
+title: Hızlı tur
 weight: 1
 prev: /welcome
 next: /quick/background/literature
 docType: quick
 ---
 
+Bu tur seni hikayenin akışı boyunca yönlendirir.
 
-Hikaye boyunca size rehberlik edeceğiz.
+Kitabın her bölümü için kısa bir açıklama sunar. Daha derin bir anlayış için her öğedeki bağlantıları kullanabilirsin.
 
-Bu turda kitabın her bölümünün kabaca bir açıklamasını alacaksınız, her öğe için daha derin bir anlayış için bağlantılar da var.
-
-Eğer sadece okursanız yaklaşık bir saat içinde bitirmiş olacaksınız.
+Baştan sona hızlıca okumak yaklaşık bir saat sürer.

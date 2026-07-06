@@ -2,34 +2,23 @@
 title: "The two harvests (Ch. 14)"
 weight: 110
 story: /story/general/content/harvest
-appl: /appl/content/harvest
-expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
+expl: /expl/content/harvest/gods-army-and-the-seven-angels
 prev: /quick/content/beasts
 next: /quick/content/bowls
 docType: quick
 kids: /kids/content/harvest
 ---
 
-{{% bible val="Chapter 14" link="rev:14" lang="en" %}}).
+{{% bible val="Chapter 14" link="rev:14" lang="en" %}}.
 
-After the impressive presentation of the dragon and the two beasts one thing is clear. The victors are the saints. And their main strenght is ther loyalty to God (being virgins). The standing at the sea of glass as a reminder that God is souvereign over all evil and sing the victory song.
+After the beast's total, terrifying takeover in chapter 13, one thing is now clear: the victors are the 144,000, standing firm on Mount Zion, their defining trait being loyalty to God alone. They stand beside the sea of glass, singing a song of victory that only they can learn - a reminder that God remains sovereign over all of this.
 
-Now comes the repercussion for the followers of the beast. But before this comes an angels and announces that the gospel is for everybody on this earth.
+Before judgment falls on the beast's followers, an angel first announces the gospel to every nation, tribe, language, and people on earth. Two more angels then pronounce judgment on Babylon and on anyone who worships the beast.
 
-The next two angels declare judgment over the followers of the beast. 
-
-The remaining four angels are describing two harvests.
-
-The 
-- first harvest is a collection of the faithful
-    - a figure resembling the son of man (Jesus) is leading this
-    - there is only a collection not processing of the harvest
-- while the second one is the judgment of the unfaithful
-    - here also the harvest if processed (grapes are trampled)
-    - their blood will flow (Jesus blood is not covering them)
-
-And here the circle closes to the first angel. How did the nations respond? Did they take the gospel to heart.
+The remaining scenes describe two harvests. The first is a grain harvest, gathered in by a figure resembling the Son of Man - the faithful, simply collected, with no judgment attached. The second is a harvest of grapes, thrown into "the great winepress of God's wrath," trampled until blood flows - the followers of the beast, judged rather than gathered.
 
 ![](/images/harvest_en.jpg)
 
-Because this was the content of the {{% int_link val="little scroll" link="/quick/content/scroll" %}}: The church must act like Jesus (mystery of God), so that all nations are saved.
+This closes the loop back to the first angel's question: did the nations actually receive the gospel that was proclaimed to them? That was exactly the content of the {{% int_link val="little scroll" link="/quick/content/scroll" %}} back in chapter 10 - the church carrying Christ's own pattern to the nations, so that they might be saved rather than judged.
+
+[Read the fuller explanation →]({{< relref "expl/content/harvest/gods-army-and-the-seven-angels" >}})

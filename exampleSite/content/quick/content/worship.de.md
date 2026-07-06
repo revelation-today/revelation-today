@@ -1,8 +1,7 @@
 ---
 title: "Anbetung (Kap. 4-5)"
 weight: 20
-story: /story/general/tour
-appl: /appl/content/worship
+story: /story/general/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals
@@ -10,42 +9,24 @@ docType: quick
 kids: /kids/content/worship
 ---
 
-
 {{% bible val="Kapitel 4" link="rev:4" lang="de" %}} und {{% bible val="5" link="rev:5" lang="de" %}}.
 
-## Die Antwort auf alle Fragen
+## Die Antwort auf jedes Problem aus Kapitel 2-3
 
-Was ist die Antwort auf diese Situation. Gott gerät nicht in Panik, sondern lädt dazu ein, einen Blick in den Thronsaal zu werfen.
+Bevor irgendetwas anderes geschieht, darf Johannes einen Blick in den himmlischen Thronsaal werfen - und das ist die Antwort auf alles, womit die sieben Gemeinden gerungen haben. Gott gerät nicht in Panik. Jeder und alles in diesem Raum findet seinen wahren Platz im Verhältnis zu ihm, und alle geben ihm die Ehre und legen jeden Anspruch auf eigenen Status ab, an dem sie sonst festhalten könnten.
 
-Es ist ein Ort der vollen Hingabe an ihn. Er steht im Mittelpunkt, und jeder findet seinen Platz, je nachdem, wie er mit Gott verbunden ist. Und alle geben ihm die Ehre und geben ihre Rechte auf.
+Diese Art von Anbetung ist das eigentliche Heilmittel für das, woran Ephesus, Sardes und Laodizea krankten: Gott richtig zu kennen schützt vor falscher Lehre und vor einem verzerrten Blick auf uns selbst, und die volle Hingabe an ihn macht es einer Gemeinde möglich, auf seine Versorgung zu vertrauen und echte Risiken für ihn einzugehen - so wie Smyrna und Philadelphia es bereits taten.
 
-Hier finden wir die Antworten auf die Probleme
-- Gott besser kennenlernen 
-    - schützt uns vor falschen Lehren
-    - schützt uns davor, uns selbst falsch zu sehen
-- sich ihm voll und ganz zu unterwerfen
-    - vertrauen wir auf ihn und erfahren wir, dass er uns versorgt
-    - lasst uns für ihn ein Risiko eingehen
-    
-## Die Quelle der Plagen
+## Woher die Plagen kommen
 
-Andererseits haben alle Plagen (Siegel, Posaunen, Schalen) ihren Ursprung im Thronsaal, der mit Anbetung gefüllt ist. Wie ist das zu verstehen?
+Auffälligerweise haben alle Plagen im Rest des Buches - Siegel, Posaunen, Schalen - ihren Ursprung in genau diesem Thronsaal voller Anbetung. Das lässt sich mit der kommenden Verwüstung nur schwer zusammenbringen, aber es lohnt sich, daran festzuhalten, während sich die Plagen entfalten: Alles, was folgt, kommt von demselben Thron, der von Barmherzigkeit umgeben ist - nicht aus einer anderen, härteren Quelle.
 
-Dies erfordert ein besseres Verständnis der Plagen, aber es gibt mehrere Anzeichen dafür, dass das, was aus diesem Raum kommt, mit Barmherzigkeit und Liebe bedeckt ist. Wir müssen dies berücksichtigen, wenn es später um die Plagen geht.
+## Die Schriftrolle, die nur einer öffnen kann
 
-## Die Schriftrolle
+Die siebenfach versiegelte Schriftrolle ({{% bible val="Offenbarung 5,1-5" link="rev:5,1-5" lang="de" %}}) war für die ersten Leser des Johannes ein vertrauter Rechtsgegenstand: ein von Zeugen versiegeltes Dokument, dessen Inhalt außen zusammengefasst war und das rechtskräftig wird - wie ein Testament oder ein Erlass -, sobald es geöffnet wird. Die Frage, wer "würdig" ist, sie zu öffnen, meint nicht, wer sie *lesen darf*, sondern wer bevollmächtigt ist, sie *zu vollstrecken* - es scheint um nichts Geringeres zu gehen als Gottes eigenen Plan für die Geschichte.
 
-Die {{% bible val="Schriftrolle mit den sieben Siegeln" link="rev:5,1-5" lang="de" %}} ist das erste, was in dem Buch sehr seltsam ist. Aber zur Zeit des ersten Lesers war es ganz normal. Es handelte sich um ein Dokument, das von sieben Zeugen versiegelt wurde, wobei der Inhalt auf der Außenseite zusammengefasst wurde, so dass das Dokument, wenn es geöffnet wird, wie ein Gesetz oder ein Testament wirksam wird.
-
-Die Frage, wer würdig ist, es zu öffnen, ist nicht "wer darf es lesen", sondern "wer darf es vollstrecken". Auch wenn hier nicht ganz klar ist, was der Inhalt ist, scheint es der Plan Gottes zu sein, denn Johannes ist am Boden zerstört, weil niemand für würdig befunden wird, die Schriftrolle zu öffnen.
-
-Derjenige wird für würdig befunden: Natürlich, Jesus. Aber die Art und Weise, wie dies dargestellt wird, gibt uns ein tieferes Verständnis des Buches.
-
-Johannes **hört** am Anfang nur, dass er der Löwe von Juda ist (ein starker und mächtiger Charakter), aber was er **sieht**, ist das Gegenteil: Ein geschlachtetes Lamm. 
-
-In der prophetischen Literatur **sehen** wir normalerweise eine Vision, bei der der Empfänger von dem Bild überwältigt ist und eine Übersetzung in etwas benötigt, das er versteht und das er **hört**.
+Niemand wird für würdig befunden - bis Johannes gesagt wird, der Löwe von Juda habe gesiegt. Doch als er sich umdreht, *sieht* er gar keinen Löwen: ein Lamm, wie geschlachtet. Johannes *hört* das eine und *sieht* etwas anderes, das es völlig neu deutet - der siegreiche Messias, den alle erwartet haben, siegt in Wahrheit durch Opfer. Dasselbe Hören/Sehen-Muster wiederholt sich später bei den 144.000 (Kapitel 7): angekündigt als Heer, offenbart als anbetende Menge.
 
 ![](/images/hear_de.jpg)
 
-Dies wird hier umgedreht: Das sehr bekannte Thema des Messias, der die Herrscher stürzt, wird durch das Opferlamm erklärt. Das ist der Weg, wie Gott diese Welt erobert und Gericht hält. Genau das gleiche Bild haben wir später mit den {{% bible val="144.000" link="rev:7,5-17" lang="de" %}} (eine Armee, die eigentlich Anbeter sind, die aus der Trübsal kommen).
-
+[Die ausführlichere Erklärung lesen →]({{< relref "expl/content/worship/the-book-with-the-seven-seals" >}})

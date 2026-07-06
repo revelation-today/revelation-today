@@ -1,8 +1,7 @@
 ---
 title: "Tanrı'nın ordusu (Böl. 7)"
 weight: 50
-story: /story/general/tour
-appl: /appl/content/army
+story: /story/general/content/army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 prev: /quick/content/seals
 next: /quick/content/trumpets
@@ -10,34 +9,22 @@ docType: quick
 kids: /kids/content/army
 ---
 
-{{% bible val="Bölüm 7" link="rev:7" lang="tr" %}}
+{{% bible val="Bölüm 7" link="rev:7" lang="tr" %}}.
 
-Son bölümdeki dramatik eylemlerden sonra çözülmesi gereken birkaç şey vardır:
-- Kilise tüm bu ezici eylemlerle nasıl başa çıkacak?
-- Kilise sadece bekleyip katlanmalı mı yoksa aktif bir rolü var mı?
+Mühürlerin dramından sonra iki sorunun yanıtlanması gerekir: kilise gelmekte olanı nasıl atlatacak ve etkin bir rolü var mı — yoksa yalnızca bekleyip dayanacak mı?
 
-## Kilisenin korunması
+## Kilisenin mühürlenmesi
 
-Bölüm {{% bible val="mühürlemenin tanımı" link="rev:7,1-4" lang="tr" %}} ile başlar. Bir melekten kutsallar mühürlenene kadar beklemesi istenir. Bu faaliyetler {{% bible val="borazanların belaları" link="rev:9" lang="tr" %}}'dır. Özellikle {{% bible val="beşinci borazan" link="rev:9" lang="tr" %}} önemlidir çünkü burada tüm insanlar {{% bible val="mühürlenmiş olanların dışında bırakılır" link="rev:9,1-6" lang="tr" %}}.
+Bölüm, Tanrı'nın kulları mühürlenene dek yıkımı geride tutan meleklerle açılır ({{% bible val="Vahiy 7:1-4" link="rev:7,1-4" lang="tr" %}}). Bu mührün önemi daha sonra ortaya çıkar: insanların ölmeyi özleyecek ama ölemeyecek kadar kötü işkence gördüğü beşinci borazan belası ({{% bible val="9. bölüm" link="rev:9" lang="tr" %}}), "alınlarında Tanrı'nın mührü bulunmayanları" açıkça ayrı tutar. Mühürlenmiş olanlar sıkıntıdan tümüyle muaf tutulmaz; ama ona dayanacak güç ve bunun ortasında başkaları için bir tanıklık olarak kalma yeteneği verilir onlara.
 
-Bu, insanların tüm umutlarını kaybettikleri ve ölmek istedikleri ama ölemedikleri belalardır. Biz kutsallar bundan kurtulduk, yani belayla karşı karşıyayız ama buna dayanacak ve başkalarına tanıklık edecek gücü elde ediyoruz.
+## Ordu olmayan bir ordu
 
-## Kilisenin görevi
+Yuhanna'nın bundan sonra *işittiği* şey bir sayımdır: 144.000 kişilik bir ordu, İsrail'in her oymağından 12.000 kişi — Mısır'dan Çıkış sırasında çölde yapılan sayımı yansıtır ve tüm bu gerilimin ortasında kilisenin İsrail'deki köklerini hatırlatır.
 
-Şu anda kilisenin ne yapması gerektiği çok açık değildir, ancak kilise çok ilginç bir şekilde tanımlanmaktadır.
+Ama Yuhanna baktığında *gördüğü* şey bambaşkadır: "her ulustan, her oymaktan, her halktan ve her dilden" tahtın önünde tapınan, sayılamayacak kadar büyük bir kalabalık — "büyük sıkıntıdan geçip gelenler" olarak tanımlanırlar. Apokaliptik beklentiyle yoğrulmuş birinci yüzyıl okuyucuları, Mesih'in gerçek anlamda askeri bir fetih yöneteceğini beklerdi — buysa başka bir şeydir. Kilisenin gerçek silahlarının tapınma (Tanrı'ya sadakat) ve sabırla dayanma (başkalarına tanıklık) olduğu ortaya çıkar — hepsi Kuzu'nun huzurunda yürütülür.
 
-Bir yandan bir {{% bible val="ordu" link="rev:7,5-8" lang="tr" %}} olarak tanımlanır (sayım, çıkış sırasında ordunun sayımını hatırlatır). Ve bu ordu, İsa'nın mensup olduğu Yahuda kabilesinin önderliğinde İsrail'in her kabilesinden 12.000 kişidir. Ancak bu sadece Yuhanna'nın duyduklarıdır. 
+## Büyük Sıkıntı nedir?
 
-Ancak gördüğü gerçek çok farklıdır. Bu {{% bible val="Büyük Sıkıntı'dan çıkan sayılamayacak kadar çok tapınan" link="rev:7,9-17" lang="tr" %}} bir topluluktur. 
+Büyük Sıkıntı yalnızca hâlâ gelecekte olan bir olay değildir — Vahiy onu çoktan başlamış bir şeye bağlar: İsa'nın çarmıhtaki ölümüne ve Şeytan'ın gökten kovulmasına (daha sonra, 12. bölümde anlatılan bir sahne). Bundan önce Tanrı'nın halkı esas olarak kendi günahının *sonucu* olarak acı çekiyordu. O zamandan beri, hiçbir suçla ilgisi olmayan sadık acı çekiş, İsa'yı izlemenin bir parçası haline geldi — sunağın altındaki şehitlerin zaten içine çekildiği örüntü budur.
 
-Bu kulağa çok güçlü bir gerilim gibi geliyor. Muzaffer olmalıyız, tapınmamızda (Tanrı'ya sadakat) ve inançlı dayanıklılığımızda (başkalarına tanıklık) böyle olmalıyız. Bütün bunları kuzunun (İsa'nın) huzurunda yapıyoruz.
-
-## Büyük Sıkıntı
-
-Büyük Sıkıntı nedir? Hala gelecek mi? 
-
-Büyük Sıkıntı, İsa çarmıhta öldüğünde ve Şeytan cennetten kovulduğunda başladı.
-
-Bu zamana kadar Tanrı'nın halkı bir topluluk olarak sadece günah işlediklerinde acı çekmek zorundaydı. Şimdi bu durum değişti. Kötü bir şey yapmadan acı çekiyoruz.
-
-![](/image/Drangsal_tr.jpg)
+![](/images/Drangsal_tr.jpg)

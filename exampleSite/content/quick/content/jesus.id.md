@@ -1,8 +1,7 @@
 ---
 title: "Kemenangan Yesus (Pasal 12)"
 weight: 90
-story: /story/general/tour
-appl: /appl/content/jesus
+story: /story/general/content/jesus
 expl: /expl/content/jesus/a-different-christmas-story
 prev: /quick/content/witnesses
 next: /quick/content/beasts
@@ -10,25 +9,20 @@ docType: quick
 kids: /kids/content/jesus
 ---
 
+{{% bible val="Pasal 12" link="rev:12" lang="id" %}}.
 
-{{% bible val="Pasal 12" link="rev:12" lang="ind" %}}).
+## Catatan kegagalan Iblis yang tak terputus
 
-## Kegagalan Iblis yang Terus-menerus
+Pasal 12 menceritakan kembali kisah Natal dari sudut pandang kosmis: seorang perempuan (Israel) melahirkan seorang anak (Yesus), dan seekor naga (Iblis), bersama sepertiga dari bintang-bintang - para malaikat yang jatuh - menunggu untuk menelan anak itu begitu ia lahir, menggemakan upaya Herodes terhadap bayi Yesus. Anak itu justru direnggut naik ke takhta Allah.
 
-Kisah ini dimulai dengan sebuah kisah Natal yang berbeda: Sang perempuan (Israel) melahirkan Yesus (sang anak), yang berusaha dibinasakan oleh Iblis (sang naga) dengan bantuan semua malaikatnya yang telah jatuh (sepertiga dari bintang-bintang), segera setelah Yesus lahir (pembunuhan oleh Herodes).
+Dilihat dari sisi surga, peristiwa yang sama berlangsung sebagai peperangan: Mikhael (yang dihubungkan dengan "anak manusia" dalam pasal-pasal akhir kitab Daniel, dan dengan demikian dengan Yesus) berperang melawan naga itu dan melemparkannya keluar dari surga untuk selamanya - kemenangan yang, patut dicatat, diraih "oleh darah Anak Domba dan oleh perkataan kesaksian mereka." Dengan geram naga itu berbalik menyerang sang perempuan sendiri, tetapi bahkan air bah yang dikirimnya untuk mengejar perempuan itu gagal - ditelan oleh bumi, menggemakan Laut Merah yang menelan pasukan Firaun sehingga Israel dapat meloloskan diri, dan "sayap-sayap rajawali" yang diberikan kepadanya mengingatkan pada janji Allah sendiri dalam {{% bible val="Yesaya 40:31" link="isa:40,31" lang="id" %}}.
 
-Tetapi pada akhirnya Yesus menang dan terangkat naik ke surga.
+Akhirnya naga itu berbalik menyerang "keturunannya yang lain" - semua orang yang mengikut Yesus. Sampai titik ini dalam pasal tersebut, polanya sudah tak terbantahkan: setiap upaya yang dilakukan naga itu berakhir dengan kegagalan.
 
-Sekarang mari kita balik semuanya ini dari perspektif surgawi: Mikhael, yang dihubungkan dengan Anak Manusia (Yesus) pada bagian kedua kitab Daniel, berperang melawan Iblis, yang kini dilemparkan keluar dari surga. Sebagai catatan tambahan: kemenangan atas Iblis juga diraih melalui kesaksian orang-orang kudus.
+![](/images/jesus_en.jpg)
 
-Sejahat apa pun dirinya, Iblis berusaha membinasakan Israel yang telah melahirkan Yesus, tetapi itu pun gagal. Aliran air dari mulutnya mengingatkan pada keluarnya bangsa Israel melalui Laut Merah yang menelan bumi supaya Israel dapat melintasinya, dan sayap-sayap rajawali adalah sebuah {{% bible val="janji dari kitab Yesaya" link="isa:40,31" lang="ind" %}}.
+## Mengapa kesusahan itu semakin hebat
 
-Sekarang Iblis mengumpulkan dua binatang untuk menyerang keturunan sang anak, yaitu mereka yang mengikuti Yesus (gereja). Nah, Anda bisa menebak bagaimana akhirnya. Iblis telah gagal dalam segala yang dilakukannya.
+Setelah kekalahannya, sebuah suara mengumumkan bahwa ini adalah kabar buruk bagi bumi ({{% bible val="Wahyu 12:12" link="rev:12,12" lang="id" %}}) - bukan karena Iblis telah menjadi lebih kuat, melainkan karena ia tahu "waktunya sudah singkat." Musuh yang telah kalah dan tidak punya apa-apa lagi untuk dipertaruhkan tidak akan mundur; ia menimbulkan kerusakan sebanyak mungkin dalam perjalanannya keluar. Itulah wujud Kesusahan Besar yang diperkenalkan pasal ini: bukan penderitaan sebagai hukuman atas kesalahan, melainkan dampak dari musuh yang sedang kalah dan mengamuk sebelum waktunya benar-benar habis.
 
-![](/images/jesus_de.jpg)
-
-## Kesengsaraan Itu
-
-Setelah Iblis dilemparkan keluar dari surga, dikatakan {{% bible val="bahwa ini adalah kabar buruk bagi orang-orang di bumi" link="rev:12,12" lang="ind" %}}. Setelah kekalahannya, orang mungkin mengira Iblis akan bersembunyi, tetapi yang terjadi justru sebaliknya. Ia hanya memiliki sedikit waktu, sehingga ia menimbulkan kerusakan sebanyak mungkin.
-
-Jadi, alih-alih hidup yang tenang, kita sekarang menghadapi serangan-serangan Iblis yang tidak beralasan, yang juga disebut Kesengsaraan Besar: kita menderita tanpa melakukan kesalahan apa pun.
+[Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/jesus/a-different-christmas-story" >}})

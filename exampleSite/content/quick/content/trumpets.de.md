@@ -1,8 +1,7 @@
 ---
 title: "Die Posaunen (Kap. 8-9)"
 weight: 60
-story: /story/general/tour
-appl: /appl/content/trumpets
+story: /story/general/content/trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 prev: /quick/content/seals
 next: /quick/content/scroll
@@ -10,31 +9,18 @@ docType: quick
 kids: /kids/content/trumpets
 ---
 
-
 {{% bible val="Kapitel 8" link="rev:8" lang="de" %}} und {{% bible val="9" link="rev:9" lang="de" %}}.
 
-## Das Gebet
+## Gebet setzt die Posaunen in Gang
 
-Das Kapitel beginnt mit dem letzten Siegel und stellt die Posaunen vor. Nach dem letzten Siegel folgt eine Zeit der Stille im Himmel. In der jüdischen Literatur ist dies typischerweise die Zeit, in der Gott die Gebete der Heiligen erhört.
+Nach dem siebten Siegel wird es still im Himmel - in der jüdischen Tradition der Moment, in dem Gott den Gebeten seines Volkes genau zuhört. Und genau das geschieht als Nächstes: Die Engel stehen bereit, ihre Posaunen zu blasen, warten aber, bis zuerst die Gebete der Heiligen dargebracht sind. Die Posaunen werden durch Gebet in Gang gesetzt, so wie die Siegel durch Jesu Tod am Kreuz in Gang gesetzt wurden. Das ist eine bemerkenswerte Aussage darüber, was Gebet tatsächlich bewirkt.
 
-Und das ist es, was folgt. Aber es gibt noch ein wichtiges Element zu beachten: Die Engel bereiten sich darauf vor, die Posaune zu blasen, aber sie warten: Sie warten darauf, dass die Gebete Gott vorgelegt werden.
+## Was die Posaunen tun
 
-Was für eine Aussage! Die Gebete lösen die Posaunen aus, so wie Jesu Tod am Kreuz die Siegel und die Passion Gottes die Schalen ausgelöst hat. Was für eine Aussage über die Bedeutung des Gebets.
+Eng an die Plagen Ägyptens angelehnt, nehmen die ersten vier Posaunen den Menschen die gewöhnlichen Sicherheiten, auf die sie sich verlassen: Wasser, Nahrung, die natürliche Ordnung, Handel und Wirtschaft. Die nächsten zwei, getrieben von dämonischen Mächten, gehen noch weiter: inneren Frieden und Hoffnung, dann das Leben selbst.
 
-## Die Posaunen
+Und hier kommt die überraschende Wendung: Statt die Menschen nur weiter zu verhärten, beschreibt die Offenbarung eine wirklich gemischte Reaktion - echte, wenn auch unvollständige Schritte zur Umkehr stehen neben anhaltendem Trotz, besonders bei denen, die sich weiter an genau die Götzen klammern, die sie gerade im Stich gelassen haben. Gericht allein verändert ein Herz selten vollständig, aber es wird auch nicht als Sackgasse dargestellt - es ist ein weiterer Appell, neben allem anderen im Buch, falsche Sicherheiten loszulassen, bevor es zu spät ist.
 
-Die Posaunen tun vor allem eines: Sie nehmen den Menschen alle Sicherheiten, die sie haben.
-- Wasser
-- Nahrung
-- Orientierung
-- Handel/Ökonomie
-
-Aber es geht weiter, jetzt verursacht durch dämonisches Wesen: 
-- Gesundheit und Hoffnung
-- das Leben selbst
-
-Aber nach all dem, was passiert, ändern die Menschen immer noch nicht ihr Herz. Sie klammern sich an dieselben Dämonen, die ihnen die Hoffnung, das Wohlbefinden und sogar das Leben genommen haben. Das scheint eine Sackgasse zu sein. Die Menschen sind jetzt noch mehr verschlossen. Die Lösung ist das nächste Kapitel, in dem das Geheimnis Gottes offenbart wird. Doch zuvor wollen wir einen Blick auf die Kirche werfen.
-
-Sie ist geschützt ({{% bible val="durch das Siegel" link="rev:7,1-4" lang="de" %}}) vor der {{% bible val="fünften Posaune" link="rev:9,4-6" lang="de" %}} - sie werden die Hoffnung nicht verlieren, während sie all die Schwierigkeiten ertragen und sogar ihr Leben verlieren. Aber das Aushalten des Verlustes derselben Sicherheiten und sogar ihres Lebens macht dies zu einem großartigen Zeugnis, das die Menschen erkennen lässt, was wirkliche Sicherheiten sind.
+Die Gemeinde dagegen - schon in Kapitel 7 versiegelt - wird von der Qual der fünften Posaune ausdrücklich ausgenommen ({{% bible val="Offenbarung 9,4-6" link="rev:9,4-6" lang="de" %}}). Das heißt nicht, dass es leicht wird: Auch Gläubige verlieren dieselben Sicherheiten, und manche verlieren ihr Leben. Aber diesen Verlust zu ertragen, ohne die Hoffnung zu verlieren, wird genau zu der Art von Zeugnis, das einer zuschauenden Welt zeigt, wie echte Sicherheit aussieht.
 
 ![](/images/trumpets_de.jpg)

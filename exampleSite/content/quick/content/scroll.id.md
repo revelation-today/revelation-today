@@ -1,8 +1,7 @@
 ---
 title: "Gulungan Kitab Kecil (Pasal 10)"
 weight: 70
-story: /story/general/tour
-appl: /appl/content/scroll
+story: /story/general/content/scroll
 expl: /expl/content/scroll/the-little-scroll
 prev: /quick/content/trumpets
 next: /quick/content/witnesses
@@ -10,12 +9,12 @@ docType: quick
 kids: /kids/content/scroll
 ---
 
-{{% bible val="Pasal 10" link="rev:10" lang="ind" %}}
+{{% bible val="Pasal 10" link="rev:10" lang="id" %}}.
 
-Setelah usaha yang gagal untuk menarik orang-orang kepada Allah melalui doa, sebuah rahasia baru harus dinyatakan. Kali ini adalah rahasia Allah.
+Penghakiman semata belum mengubah hati manusia - maka kini sebuah rahasia baru dinyatakan: rahasia Allah sendiri, dan apa yang Ia minta dari gereja-Nya.
 
-Seluruh adegan ini dimulai dengan seorang malaikat yang tampak seperti {{% bible val="Yesus" link="rev:1,13-16" lang="ind" %}}, sebagaimana Ia digambarkan oleh {{% bible val="nabi Daniel sebagai Anak Manusia" link="rev:1,7" lang="ind" %}}. Dan ia memegang sebuah gulungan kitab kecil di tangannya. Ini menghubungkan kisah ini dengan rujukan lain tentang gulungan kitab yang {{% bible val="layak dibuka oleh Yesus" link="rev:5,1-7" lang="ind" %}}.
+Seorang malaikat yang perkasa muncul, digambarkan dengan cara yang sama seperti Yohanes menggambarkan Yesus dalam pasal 1 - dan ia memegang sebuah gulungan kitab kecil. Ini dengan sengaja menggemakan gulungan kitab yang lebih besar yang hanya Yesus didapati layak membukanya dalam pasal 5. Yohanes diperintahkan memakan gulungan kitab ini: manis di mulutnya, seperti Injil itu sendiri, tetapi menjadi pahit di perutnya - cicipan dari apa yang akan datang di pasal berikutnya. Yesus sudah meraih kemenangan yang menentukan di kayu salib; gulungan kitab kecil ini menunjukkan bahwa masih ada peran yang mahal namun hakiki yang tersisa bagi gereja untuk membawa kemenangan itu kepada bangsa-bangsa.
 
-Yohanes harus memakan gulungan kitab ini (menghayatinya), yang rasanya manis (itulah Injil), tetapi juga pahit - hal ini akan kita lihat khususnya pada pasal berikutnya. Gulungan kitab ini menyatakan rahasia Allah: yaitu menjadi serupa dengan Yesus. Apa artinya ini akan kita pelajari dalam pasal-pasal berikutnya.
+Sebelum peran itu dijabarkan, satu detail menenteramkan hati: malaikat itu menjejakkan satu kaki di atas laut dan satu di atas darat ({{% bible val="Wahyu 10:5" link="rev:10,5" lang="id" %}}) - tepat dua tempat dari mana binatang-binatang itu akan muncul dalam pasal 13. Apa pun yang akan datang, Allah sudah berdiri di atasnya, dalam kendali penuh.
 
-Tetapi sebelum kita masuk ke sana, kita diingatkan bahwa Allah {{% bible val="memiliki kendali penuh atas segala sesuatu yang kita hadapi" link="rev:10,5" lang="ind" %}}: Sebagaimana kita lihat binatang-binatang itu keluar dari bumi dan laut, menginjakkan kaki di atas tanah berarti memiliki kendali atas sesuatu.
+[Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/scroll/the-little-scroll" >}})

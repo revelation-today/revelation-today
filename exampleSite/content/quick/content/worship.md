@@ -2,7 +2,6 @@
 title: "Worship (Ch. 4-5)"
 weight: 20
 story: /story/general/content/worship
-appl: /appl/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals
@@ -12,41 +11,22 @@ kids: /kids/content/worship
 
 {{% bible val="Chapter 4" link="rev:4" lang="en" %}} and {{% bible val="5" link="rev:5" lang="en" %}}.
 
-## The Answer to all questions
+## The answer to every problem in chapters 2-3
 
-What is the answer to this situation. God is not panicking but invites as to have glimpe in the thronroom.
+Before anything else happens, John is given a glimpse into heaven's throne room - and it's the answer to everything the seven churches were struggling with. God is not panicking. Everyone and everything in the room finds its true place in relation to him, and all give him glory, laying down whatever claims to status they might otherwise hold onto.
 
-It is a place of full devotion to him. He is in the center and everybody finds his place based on how he is related to God. And all give him the glory and giving up their rights.
+That kind of worship is the real cure for what ailed Ephesus, Sardis, and Laodicea: knowing God rightly protects against wrong teaching and against a distorted view of ourselves, and full submission to him is what lets a church trust his provision and take real risks for him, the way Smyrna and Philadelphia already were.
 
-Here we find the answers to the problems
-- knowing God better 
-    - protects as from wrong teaching
-    - protecs of from seeing ourselves in the wrong way
-- submitting fully to him
-    - let us trust in him and experience that he provides
-    - let us takes risk for him
-    
-## The source of the plagues
+## Where the plagues come from
 
-On the other hand all the plauges (seals, trumpets, bowls) have their origin in the throne room which is filled with worship. How does this makes sense?
+Strikingly, every plague that follows in the rest of the book - seals, trumpets, bowls - originates from this same throne room, filled with worship. That can be hard to square with the devastation to come, but it's worth holding onto as the plagues unfold: everything that follows comes from the same throne surrounded by mercy, not from a different, harsher source.
 
-This requires a better understanding of the plagues, but there are several indicators that what comes out of this is covered with mercy and love. 
-We need to take this into account when it comes to the plagues later.
+## The scroll only one can open
 
-## The scroll
+The scroll sealed seven times ({{% bible val="Revelation 5:1-5" link="rev:5,1-5" lang="en" %}}) would have been a familiar legal object to John's first readers: a document sealed by witnesses, its contents summarized on the outside, which becomes legally active - like a will or a decree - once opened. The question of who is "worthy" to open it isn't about who is *allowed to read* it, but who is *authorized to execute* it - it appears to be nothing less than God's own plan for history.
 
-The {{% bible val="scroll with the seven seals" link="rev:5,1-5" lang="en" %}} is the first thing in the book that is very strange. 
-But in the time of the first reader it ws very normal. It was a document sealed by seven witnesses, the contetn cummarized on the outside, so that when it is opened, the document becomes active like a law or a testament.
-
-The question who is worthy to open this is not "who is allowed to read it", but "who is allowed to exeute this". Even it is not fully clear here what the content is, it seesm to be the plan of God as John is devastated as noone is found worthy to open the scroll.
-
-The one is found worthy: Of course, Jesus. But the way this is presented gives us a deeper understanding of the book.
-
-John only **hears** at the beginning, that he is the lion of Judah (a strong and mighty character), but what he **sees** is the opposite: A lamb slaugthered. 
-
-In the prophetic literature we normally **sees** a vision where the recipient is overwhelmed by the picture and needs translation into something he understand which he **hears**.
+No one is found worthy - until John is told the Lion of Judah has triumphed. But when he turns to look, what he *sees* is not a lion at all: a Lamb, looking as if it had been slain. John *hears* one thing and *sees* another that reinterprets it entirely - the conquering Messiah everyone expected turns out to conquer through sacrifice. The same hear/see pattern repeats later with the 144,000 (chapter 7): announced as an army, revealed as a worshiping multitude.
 
 ![](/images/hear_en.jpg)
 
-This is turned around here: The very know topic of the Messiah that overthrows the rulers is explained by the sacrificial lamb. This is the way how God conquers this world and makes judgment. The exact same picture we have with the {{% bible val="144.000" link="rev:7,5-17" lang="en" %}} later (an army which are actually worshippers coming out of tribulation).
-
+[Read the fuller explanation →]({{< relref "expl/content/worship/the-book-with-the-seven-seals" >}})

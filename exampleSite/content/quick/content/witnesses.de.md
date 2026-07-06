@@ -1,8 +1,7 @@
 ---
-title: "Die beiden Zeugen (Kap. 11)"
+title: "Die zwei Zeugen (Kap. 11)"
 weight: 80
-story: /story/general/tour
-appl: /appl/content/witnesses
+story: /story/general/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /quick/content/scroll
 next: /quick/content/jesus
@@ -13,28 +12,18 @@ docType: quick
 kids: /kids/content/witnesses
 ---
 
-
 {{% bible val="Kapitel 11" link="rev:11" lang="de" %}}.
 
-In diesem Kapitel wird das Geheimnis Gottes offenbart. 
-
-Das Kapitel besteht aus drei Teilen
-- der Tempel
-- die zwei Zeugen
-- die Nachwirkungen und die Offenbarung der Gegenwart Gottes
-
-und dies alles wird behandelt (die nächsten drei Kapitel), aber eine seltsame Zeitspanne, die identisch ist und die Zeit vom ersten Kommen Jesu bis zu seinem zweiten Kommen beschreibt: 1260 Tage = 42 Monate = 3,5 Mal (Jahre). Dies ist die Zeit, in der Gott seinen Plan gemäß {{% bible val="Daniel" link="dan:9,24-27" lang="de" %}} vollendet und eine Zeit der Frage, wer der wahre Gott ist (basierend auf {{% bible val="Elija" link="1ki:19" lang="de" %}}.
+Dieses Kapitel ist, zusammen mit der folgenden Vision, von einer merkwürdigen, aber durchgängigen Zeitangabe geprägt - 1.260 Tage, 42 Monate, "eine Zeit, Zeiten und eine halbe Zeit" - alles Bezeichnungen für dieselben 3½ Jahre. Diese Zahl (entlehnt aus Daniel 9 und der 3½-jährigen Dürre unter Elia in 1. Könige) ist kein buchstäblicher Countdown, sondern beschreibt offenbar die ganze Zeitspanne zwischen dem ersten und dem zweiten Kommen Christi: die Zeit, in der Gottes Plan zur Vollendung kommt, und die Zeit, in der sich die eigentliche Frage entscheidet - wer der wahre Gott ist.
 
 ## Der Tempel
 
-Das Szenario beginnt mit dem Tempel, der nicht mehr für Opfer genutzt wird, sondern der Ort der Anbetung ist. Alles andere ist zur Zerstörung freigegeben. Da der Tempel die Gegenwart Gottes ist, bedeutet dies, dass die Gegenwart Gottes durch Anbetung definiert wird, was Hingabe und Treue zu ihm allein bedeutet.
+Die Szene beginnt in einem Tempel, der nicht mehr für Tieropfer genutzt wird, sondern für Anbetung - alles außerhalb ist der Zertrampelung preisgegeben. Da der Tempel für Gottes Gegenwart steht, lautet die Botschaft: Seine Gegenwart wird jetzt durch Anbetung bestimmt - ungeteilte Hingabe und Treue zu ihm allein, wo immer sie zu finden ist.
 
-## Die Zeugen
+## Die zwei Zeugen
 
-Das ist es, was die Zeugen tun. Sie widmen sich ganz dem Leben von Christus. Sie kommen in Sackkleidern, sie vollbringen Zeichen und Wunder, aber der entscheidende Punkt kommt, wenn sie an ihrem schwächsten Punkt sind.
+Genau das verkörpern die zwei Zeugen: völlige Hingabe an das Muster von Christi eigenem Leben. In Sacktuch gekleidet, tun sie echte Zeichen - aber der entscheidende Moment kommt an ihrem schwächsten Punkt, nicht an ihrem mächtigsten. Sie werden besiegt, getötet und öffentlich gedemütigt - und dann, wie Jesus, zum Leben erweckt und in den Himmel aufgenommen. Das ist weniger die buchstäbliche Biografie zweier bestimmter Personen als ein Bild dafür, wie weit Treue geht: Was die Zeugen wirksam macht, sind nicht ihre Wunder, sondern ihre Treue bis durch die scheinbare Niederlage hindurch.
 
-Sie werden besiegt, getötet und zur Demütigung ausgesetzt. Aber ebenso wie Christus werden sie auferweckt, um zu leben und in den Himmel aufzusteigen. 
+Dann kommt eine unerwartete Wendung: Ein großes Erdbeben bringt Gericht, aber 90 Prozent der Menschen in der Stadt überleben es und geben Gott die Ehre - eine auffällige Umkehrung des sonst üblichen biblischen Musters, bei dem nur ein kleiner Rest verschont bleibt. Hier kommt eine überwältigende Mehrheit durch.
 
-Dies ist keine Beschreibung eines buchstäblichen Verhaltens, sondern zeigt, wie weit sie in ihrer Treue zu Christus gehen.
-
-Und dann geschieht das Wunder: Ein großes Gericht kommt, aber 90%(!!!) der Menschen werden gerettet. Was für ein überwältigender Erfolg.
+[Die ausführlichere Erklärung lesen →]({{< relref "expl/content/witnesses/the-two-witnesses" >}})

@@ -1,14 +1,13 @@
 ---
-title: Tour durch das Buch
+title: Kurzer Rundgang
 weight: 1
 prev: /welcome
 next: /quick/background/literature
 docType: quick
 ---
 
+Dieser Rundgang führt dich durch den Handlungsverlauf.
 
-Wir werden dich durch die Storyline führen.
+Zu jedem Teil des Buches bekommst du eine kurze Erklärung. Über die Links zu den einzelnen Punkten kannst du tiefer einsteigen.
 
-Auf dieser Tour erhältst du eine grobe Erklärung zu jedem Teil des Buches, zu jedem Punkt gibt es auch Links für ein tieferes Verständnis.
-
-Wenn du nur durchliest, wirst du in etwa einer Stunde fertig sein.
+Wer alles einmal durchliest, braucht etwa eine Stunde.

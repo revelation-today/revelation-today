@@ -1,8 +1,7 @@
 ---
-title: "İbadet (Böl. 4-5)"
+title: "Tapınma (Böl. 4-5)"
 weight: 20
-story: /story/general/tour
-appl: /appl/content/worship
+story: /story/general/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals
@@ -10,42 +9,24 @@ docType: quick
 kids: /kids/content/worship
 ---
 
-
 {{% bible val="Bölüm 4" link="rev:4" lang="tr" %}} ve {{% bible val="5" link="rev:5" lang="tr" %}}.
 
-## Tüm soruların cevabı
+## 2-3. bölümlerdeki her sorunun yanıtı
 
-Bu duruma verilecek cevap nedir? Tanrı panik yapmıyor ama taht odasına bakmaya davet ediyor.
+Daha başka bir şey olmadan önce Yuhanna'ya göğün taht odasına bir bakış sunulur — ve bu, yedi kilisenin boğuştuğu her şeyin yanıtıdır. Tanrı panik içinde değildir. Odadaki herkes ve her şey, O'nunla ilişkisi içinde gerçek yerini bulur ve hepsi, tutunabilecekleri her tür konum iddiasını bir kenara bırakarak O'na yücelik verir.
 
-Burası kendisine tam bağlılığın olduğu bir yerdir. O merkezdedir ve herkes Tanrı'yla olan ilişkisine göre yerini bulur. Ve herkes ona yücelik verir ve kendi haklarından vazgeçer.
+Böyle bir tapınma, Efes'in, Sart'ın ve Laodikya'nın derdine gerçek çaredir: Tanrı'yı doğru tanımak, yanlış öğretiye ve kendimize dair çarpık bir bakışa karşı korur; O'na tam teslimiyet ise bir kilisenin O'nun sağlayışına güvenmesini ve O'nun için gerçek riskler almasını mümkün kılar — tıpkı İzmir ve Filadelfya'nın zaten yaptığı gibi.
 
-Burada sorunların yanıtlarını buluruz
-- Tanrı'yı daha iyi tanımak 
-    - yanlış öğretiden korur
-    - kendimizi yanlış şekilde görmekten korur
-- ona tamamen teslim olmak
-    - O'na güvenelim ve bize sağladıklarını deneyimleyelim
-    - onun için risk alalım
-    
-## Belaların kaynağı
+## Belaların geldiği yer
 
-Öte yandan tüm levhaların (mühürler, trompetler, kaseler) kökeni tapınmayla dolu olan taht odasındadır. Bu nasıl mantıklı olabilir?
+Çarpıcı olan şu: kitabın geri kalanında gelen her bela — mühürler, borazanlar, taslar — tapınmayla dolu bu aynı taht odasından kaynaklanır. Bunu, gelecek olan yıkımla bağdaştırmak zor olabilir; ama belalar açılırken şunu akılda tutmakta yarar var: bundan sonra gelen her şey, merhametle çevrili bu aynı tahttan gelir — farklı, daha acımasız bir kaynaktan değil.
 
-Bu, belaların daha iyi anlaşılmasını gerektirir, ancak bundan çıkan şeyin merhamet ve sevgiyle kaplı olduğuna dair birkaç gösterge vardır. Daha sonraki belalar söz konusu olduğunda bunu dikkate almamız gerekir.
+## Yalnızca bir kişinin açabildiği tomar
 
-## Parşömen
+Yedi kez mühürlenmiş tomar ({{% bible val="Vahiy 5:1-5" link="rev:5,1-5" lang="tr" %}}), Yuhanna'nın ilk okuyucuları için tanıdık bir hukuki nesne olurdu: tanıklarca mühürlenmiş, içeriği dış yüzünde özetlenmiş bir belge; açıldığında — bir vasiyet ya da ferman gibi — hukuken yürürlüğe girerdi. Onu açmaya kimin "layık" olduğu sorusu, kimin onu *okumasına izin verildiği* değil, kimin onu *yürütmeye yetkili olduğu* sorusudur — söz konusu olan, Tanrı'nın tarih için kendi planından başka bir şey değil gibidir.
 
-{{% bible val="Yedi mühürlü tomar" link="rev:5,1-5" lang="tr" %}} kitapta çok garip olan ilk şeydir. Ancak ilk okuyucunun zamanında bu çok normaldi. Yedi tanık tarafından mühürlenmiş, içeriği dışarıda toplanmış bir belgeydi, böylece açıldığında belge bir yasa ya da vasiyet gibi etkin hale geliyordu.
+Kimse layık bulunmaz — ta ki Yuhanna'ya Yahuda Aslanı'nın galip geldiği söylenene dek. Ama dönüp baktığında *gördüğü* şey hiç de bir aslan değildir: boğazlanmış gibi duran bir Kuzu. Yuhanna bir şey *işitir* ve onu tamamen yeniden yorumlayan başka bir şey *görür* — herkesin beklediği fetheden Mesih'in, kurban olma yoluyla fethettiği ortaya çıkar. Aynı işit/gör kalıbı daha sonra 144.000 ile (7. bölüm) tekrarlanır: bir ordu olarak duyurulur, tapınan bir kalabalık olarak açığa çıkar.
 
-Bunu kimin açmaya layık olduğu sorusu, "kimin okumasına izin verildiği" değil, "kimin bunu uygulamaya koymasına izin verildiği" sorusudur. Burada içeriğin ne olduğu tam olarak belli olmasa da, parşömeni açmaya kimse layık görülmediği için Yuhanna'nın harap olmasıyla Tanrı'nın planı olduğu görülür.
+![](/images/hear_tr.jpg)
 
-Tek bir kişi layık görülür: Tabii ki İsa. Ancak bunun sunuluş şekli bize kitabı daha derin bir şekilde anlamamızı sağlar.
-
-Yuhanna başlangıçta kendisinin Yahuda'nın aslanı (güçlü ve kudretli bir karakter) olduğunu sadece **işitir**, ama **gördüğü** şey bunun tam tersidir: Katledilmiş bir kuzu. 
-
-Peygamberlik literatüründe normal olarak, alıcının resimden bunaldığı ve **işittiği** şeyi anlayabileceği bir şeye çevirmeye ihtiyaç duyduğu bir vizyon **görürüz**.
-
-![](/images/hear_en.jpg)
-
-Burada bu konu tersine çevrilmiştir: Yöneticileri deviren Mesih'in çok bilinen konusu kurbanlık kuzu ile açıklanır. Bu, Tanrı'nın bu dünyayı nasıl fethettiği ve yargıladığının yoludur. Aynı resim daha sonra {{% bible val="144.000" link="rev:7,5-17" lang="tr" %}} ile de karşımıza çıkar (aslında sıkıntıdan çıkan tapınanlar olan bir ordu).
-
+[Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/worship/the-book-with-the-seven-seals" >}})

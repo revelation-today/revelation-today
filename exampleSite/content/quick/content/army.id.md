@@ -1,8 +1,7 @@
 ---
 title: "Pasukan Allah (Pasal 7)"
 weight: 50
-story: /story/general/tour
-appl: /appl/content/army
+story: /story/general/content/army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 prev: /quick/content/seals
 next: /quick/content/trumpets
@@ -10,34 +9,22 @@ docType: quick
 kids: /kids/content/army
 ---
 
-{{% bible val="Pasal 7" link="rev:7" lang="ind" %}}
+{{% bible val="Pasal 7" link="rev:7" lang="id" %}}.
 
-Setelah peristiwa-peristiwa dramatis pada pasal terakhir, ada beberapa hal yang perlu diperjelas:
-- Bagaimana gereja akan menghadapi semua peristiwa yang luar biasa ini?
-- Haruskah gereja hanya menunggu dan bertahan, atau adakah peran aktif baginya?
+Setelah drama meterai-meterai itu, dua pertanyaan perlu dijawab: bagaimana gereja akan bertahan menghadapi apa yang akan datang, dan adakah peran aktif baginya - atau apakah gereja hanya menunggu sampai semuanya berlalu?
 
-## Perlindungan Gereja
+## Pemeteraian gereja
 
-Pasal ini dimulai dengan {{% bible val="penjelasan tentang pemeteraian" link="rev:7,1-4" lang="ind" %}}. Seorang malaikat diminta untuk menunggu sampai orang-orang kudus dimeteraikan, sebelum {{% bible val="malapetaka-malapetaka sangkakala" link="rev:9" lang="ind" %}} dilepaskan. Khususnya {{% bible val="sangkakala kelima" link="rev:9" lang="ind" %}} penting, karena di sinilah semua orang yang {{% bible val="dimeteraikan dikecualikan" link="rev:9,1-6" lang="ind" %}}.
+Pasal ini dibuka dengan para malaikat yang menahan kehancuran sampai hamba-hamba Allah dimeteraikan ({{% bible val="Wahyu 7:1-4" link="rev:7,1-4" lang="id" %}}). Meterai itu penting di kemudian hari: malapetaka sangkakala kelima ({{% bible val="pasal 9" link="rev:9" lang="id" %}}), ketika orang-orang disiksa begitu hebat sehingga mereka ingin mati tetapi tidak bisa, secara tegas mengecualikan "mereka yang tidak memiliki meterai Allah di dahinya." Orang-orang yang dimeteraikan tidak dibebaskan sepenuhnya dari kesulitan, tetapi mereka diberi kekuatan untuk bertahan dan tetap menjadi kesaksian bagi orang lain di tengah-tengahnya.
 
-Inilah malapetaka-malapetaka yang membuat orang-orang kehilangan segala harapan dan ingin mati, tetapi tidak bisa. Kita, orang-orang kudus, terhindar dari hal ini, yang berarti kita akan tetap menghadapi kesulitan, tetapi kita mendapatkan kekuatan untuk bertahan dan menjadi kesaksian bagi orang lain.
+## Pasukan yang bukan pasukan
 
-## Tugas Gereja
+Apa yang *didengar* Yohanes berikutnya adalah sebuah penghitungan: pasukan berjumlah 144.000, 12.000 dari setiap suku Israel, menggemakan sensus yang diadakan di padang gurun pada masa keluaran dari Mesir - sebuah pengingat, di tengah segala ketegangan ini, akan akar gereja di dalam Israel.
 
-Pada titik ini belum begitu jelas apa yang harus dilakukan gereja, tetapi gereja digambarkan dengan cara yang sangat menarik.
+Tetapi apa yang *dilihat* Yohanes ketika ia memandang sama sekali berbeda: kumpulan besar yang tidak terhitung banyaknya "dari segala bangsa, suku, kaum dan bahasa," yang menyembah di hadapan takhta, yang dikenali sebagai mereka yang telah "keluar dari kesusahan yang besar." Para pembaca abad pertama yang akrab dengan pengharapan apokaliptik tentu menantikan Mesias memimpin penaklukan militer harfiah - ini sesuatu yang lain. Senjata gereja yang sesungguhnya ternyata adalah penyembahan (kesetiaan kepada Allah) dan ketekunan yang sabar (kesaksian bagi orang lain), yang dijalankan di hadirat Anak Domba.
 
-Di satu sisi, gereja digambarkan sebagai {{% bible val="pasukan" link="rev:7,5-8" lang="ind" %}} (penghitungannya mengingatkan pada penghitungan pasukan pada masa keluaran dari Mesir). Dan pasukan itu terdiri dari 12.000 orang dari setiap suku Israel, dipimpin oleh suku Yehuda, dari mana Yesus berasal. Tetapi itu hanyalah apa yang didengar Yohanes.
+## Apakah Kesusahan Besar itu?
 
-Namun kenyataan yang dilihatnya sangat berbeda. Yaitu [sejumlah besar penyembah yang tak terhitung banyaknya, yang keluar dari kesengsaraan besar](https://www.bibleserver.com/SLT/Offenbarung7%3A9-17).
+Kesusahan Besar bukan hanya peristiwa masa depan yang masih akan datang - kitab Wahyu mengaitkannya dengan sesuatu yang sudah dimulai: kematian Yesus di kayu salib dan pengusiran Iblis dari surga (adegan yang digambarkan kemudian, dalam pasal 12). Sebelum itu, umat Allah terutama menderita sebagai *akibat* dari dosa mereka sendiri. Sejak saat itu, penderitaan dalam kesetiaan yang sama sekali tidak berkaitan dengan kesalahan telah menjadi bagian dari makna mengikut Yesus - pola yang sudah dialami para martir di bawah mezbah.
 
-Ini terdengar seperti ketegangan yang sangat kuat. Kita seharusnya menang, dan kita memang menang dalam penyembahan kita (kesetiaan kepada Allah) dan ketekunan iman kita (kesaksian bagi orang lain). Dalam semua ini kita melakukannya di hadirat Anak Domba (Yesus).
-
-## Kesengsaraan Besar
-
-Apa itu Kesengsaraan Besar? Apakah itu masih akan datang?
-
-Kesengsaraan Besar dimulai ketika Yesus mati di kayu salib dan Iblis diusir dari surga.
-
-Sampai saat itu, umat Allah sebagai suatu komunitas hanya harus menderita ketika mereka berdosa. Sekarang hal itu telah berubah. Kita menderita tanpa melakukan sesuatu yang jahat.
-
-![](/Bild/Drangsal_de.jpg)
+![](/images/Drangsal_en.jpg)

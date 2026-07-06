@@ -1,8 +1,7 @@
 ---
 title: "Die Armee Gottes (Kap. 7)"
 weight: 50
-story: /story/general/tour
-appl: /appl/content/army
+story: /story/general/content/army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 prev: /quick/content/seals
 next: /quick/content/trumpets
@@ -10,34 +9,22 @@ docType: quick
 kids: /kids/content/army
 ---
 
-{{% bible val="Kapitel 7" link="rev:7" lang="de" %}}
+{{% bible val="Kapitel 7" link="rev:7" lang="de" %}}.
 
-Nach den dramatischen Ereignissen des letzten Kapitels gibt es einige Dinge, die geklärt werden müssen:
-- Wie wird die Kirche mit all diesen überwältigenden Ereignissen umgehen?
-- Soll die Kirche einfach abwarten und aushalten oder hat sie eine aktive Rolle?
+Nach dem Drama der Siegel müssen zwei Fragen beantwortet werden: Wie wird die Gemeinde überstehen, was kommt - und hat sie eine aktive Rolle, oder wartet sie das Ganze nur ab?
 
-## Der Schutz der Kirche
+## Die Versiegelung der Gemeinde
 
-Das Kapitel beginnt mit der {{% bible val="Beschreibung der Versiegelung" link="rev:7,1-4" lang="de" %}}. Ein Engel wird aufgefordert, zu warten, bis die Heiligen versiegelt sind. Diese Aktivitäten sind die {{% bible val="Posaunengerichte" link="rev:9" lang="de" %}}. Besonders die {{% bible val="fünfte Posaune" link="rev:9" lang="de" %}} ist wichtig, da hier alle Menschen {{% bible val="ausgeschlossen sind, die versiegelt sind" link="rev:9,1-6" lang="de" %}}.
+Das Kapitel beginnt damit, dass Engel die Zerstörung zurückhalten, bis die Knechte Gottes versiegelt sind ({{% bible val="Offenbarung 7,1-4" link="rev:7,1-4" lang="de" %}}). Dieses Siegel wird später wichtig: Die Plage der fünften Posaune ({{% bible val="Kapitel 9" link="rev:9" lang="de" %}}), in der Menschen so gequält werden, dass sie sich den Tod wünschen, aber nicht sterben können, nimmt ausdrücklich die aus, "die das Siegel Gottes auf ihrer Stirn haben". Die Versiegelten bleiben nicht von allen Schwierigkeiten verschont, aber sie bekommen die Kraft, sie zu ertragen, und bleiben mitten darin ein Zeugnis für andere.
 
-Dies sind die Plagen, bei denen die Menschen alle Hoffnung verlieren und sterben wollen, aber nicht können. Wir, die Heiligen, werden davon verschont, was bedeutet, dass wir mit Schwierigkeiten konfrontiert werden, aber wir bekommen die Kraft, dies zu ertragen und ein Zeugnis für andere zu sein.
+## Ein Heer, das keines ist
 
-## Die Aufgabe der Kirche
+Was Johannes als Nächstes *hört*, ist eine Zählung: ein Heer von 144.000, je 12.000 aus jedem Stamm Israels - ein Echo der Musterung in der Wüste beim Auszug aus Ägypten und mitten in all dieser Spannung eine Erinnerung an die Wurzeln der Gemeinde in Israel.
 
-Zu diesem Zeitpunkt ist nicht so klar, was die Kirche tun soll, aber die Kirche wird auf eine sehr interessante Weise beschrieben.
+Doch was Johannes *sieht*, als er hinschaut, ist etwas ganz anderes: eine unzählbare Menge "aus allen Nationen, Stämmen, Völkern und Sprachen", die vor dem Thron anbetet und als die bezeichnet wird, die "aus der großen Trübsal kommen". Leser des ersten Jahrhunderts, geprägt von apokalyptischer Erwartung, hätten mit einem Messias gerechnet, der einen buchstäblichen militärischen Eroberungszug anführt - hier geschieht etwas anderes. Die wahren Waffen der Gemeinde sind Anbetung (Treue zu Gott) und geduldiges Ausharren (Zeugnis für andere), gelebt in der Gegenwart des Lammes.
 
-Zum einen wird sie als ein {{% bible val="Heer" link="rev:7,5-8" lang="de" %}} beschrieben (die Zählung erinnert an die Zählung des Heeres beim Exodus). Und das Heer besteht aus 12.000 aus jedem Stamm Israels, angeführt von dem Stamm Juda, aus dem Jesus stammt. Aber das ist nur das, was Johannes hört. 
+## Was ist die Große Trübsal?
 
-Aber die Realität, die er sieht, ist ganz anders. Es ist eine [ungezählte Zahl von Anbetern, die aus der großen Trübsal kommen] (https://www.bibleserver.com/SLT/Offenbarung7%3A9-17). 
+Die Große Trübsal ist nicht nur ein zukünftiges Ereignis, das noch aussteht - die Offenbarung verbindet sie mit etwas, das bereits begonnen hat: dem Tod Jesu am Kreuz und der Vertreibung Satans aus dem Himmel (eine Szene, die später in Kapitel 12 beschrieben wird). Davor litt Gottes Volk vor allem als *Folge* der eigenen Sünde. Seitdem gehört treues Leiden, das nichts mit eigener Schuld zu tun hat, zur Nachfolge Jesu dazu - genau das Muster, in dem die Märtyrer unter dem Altar schon standen.
 
-Das klingt nach einer sehr starken Spannung. Wir sollen siegreich sein, das sind wir in unserer Anbetung (Treue zu Gott) und unserem gläubigen Ausharren (Zeugnis für andere). Bei all dem tun wir dies in der Gegenwart des Lammes (Jesus).
-
-## Die Große Trübsal
-
-Was ist die Große Trübsal? Wird sie noch kommen? 
-
-Die Große Trübsal begann, als Jesus am Kreuz starb und Satan aus dem Himmel vertrieben wurde.
-
-Bis zu diesem Zeitpunkt musste das Volk Gottes als Gemeinschaft nur leiden, wenn es sündigte. Jetzt hat sich das geändert. Wir leiden, ohne etwas Böses getan zu haben.
-
-![](/Bild/Drangsal_de.jpg)
+![](/images/Drangsal_de.jpg)

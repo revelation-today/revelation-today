@@ -1,8 +1,7 @@
 ---
-title: "Neuer Himmel und neue Erde (Kap. 21-22)"
+title: "Der neue Himmel und die neue Erde (Kap. 21-22)"
 weight: 150
-story: /story/general/tour
-appl: /appl/content/paradise
+story: /story/general/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /quick/content/1000y
 next: /welcome/done_quick
@@ -10,14 +9,18 @@ docType: quick
 kids: /kids/content/paradise
 ---
 
-
 {{% bible val="Kapitel 21" link="rev:21" lang="de" %}} und {{% bible val="22" link="rev:22" lang="de" %}}.
 
-Wir sind endlich an unserem Ziel angekommen: Das Neue Jerusalem. Es ist der Ort, an dem wir die Ewigkeit verbringen. Und dieser Ort hat einige sehr interessante Eigenschaften:
-- Es ist voller {{% bible val="kostbarer Elemente" link="rev:21,19-21" lang="de" %}} (Perlen so groß wie Tore, Edelsteine, Gold, das sogar zum Pflastern der Straßen verwendet wird) und ein {{% bible val="Fluss und der Baum des Lebens" link="rev:22,1-2" lang="de" %}} wie im {{% bible val="Garten Eden" link="gen:2,9-14" lang="de" %}}.
-- Sie hat Elemente einer {{% bible val="Stadt" link="rev:21,10-17" lang="de" %}} (der Ort, an dem die Menschen {{% bible val="Schutz" link="gen:4,16-17" lang="de" %}} und {{% bible val="Identität" link="gen:11,1-9" lang="de" %}} suchten, nachdem sie ihre Beziehung zu Gott verloren hatten)
-- Sie ist {{% bible val="persönlich" link="rev:21,9-10" lang="de" %}}, denn wir sind die Braut.
+Endlich kommen wir am Neuen Jerusalem an - dem Ort, an dem die Ewigkeit verbracht wird. Ein paar Details lohnen den Blick:
 
-Dies sind alles Elemente, die sich auf den Tempel beziehen. Aber es wird {{% bible val="keinen Tempel" link="rev:21,22" lang="de" %}} geben, denn der Tempel basiert auf Distanz (wer auch immer man ist, man kann Gott immer näher kommen - Heide, Jude, Levit, Priester, Hohepriester) und nur der Hohepriester kann einmal im Jahr in die wirkliche Gegenwart Gottes - das Allerheiligste - gehen.
+- Es ist voller kostbarer Materialien ({{% bible val="Offenbarung 21,19-21" link="rev:21,19-21" lang="de" %}} - Perlen so groß wie Tore, mit Edelsteinen besetzte Grundmauern, Straßen aus Gold), und ein Fluss und der Baum des Lebens ({{% bible val="Offenbarung 22,1-2" link="rev:22,1-2" lang="de" %}}) stammen direkt aus dem Garten Eden ({{% bible val="1. Mose 2,9-14" link="gen:2,9-14" lang="de" %}}).
+- Es hat die Merkmale einer Stadt ({{% bible val="Offenbarung 21,10-17" link="rev:21,10-17" lang="de" %}}) - genau das, was die Menschheit sich für Schutz und Identität gebaut hat ({{% bible val="1. Mose 4,16-17" link="gen:4,16-17" lang="de" %}}, {{% bible val="1. Mose 11,1-9" link="gen:11,1-9" lang="de" %}}), nachdem sie die direkte Beziehung zu Gott verloren hatte.
+- Es ist zutiefst persönlich ({{% bible val="Offenbarung 21,9-10" link="rev:21,9-10" lang="de" %}}) - beschrieben als Braut, und wir sind es, die diese Beschreibung tragen.
 
-Doch damit ist jetzt Schluss, denn das neue Jerusalem hat die {{% bible val="Form des Allerheiligsten" link="rev:21,16" lang="de" %}}. Aber {{% bible val="direkt davor ist das, was wir als Hölle bezeichnen würden" link="rev:22,14-15" lang="de" %}}. Dies beschreibt den Zweck des neuen Jerusalem. Es geht darum, in Beziehung zu Gott zu stehen: Du bist entweder ganz drin oder ganz draußen - die Hauptbotschaft des Buches.
+All das greift Tempel-Bilder auf. Aber es gibt hier ausdrücklich "keinen Tempel" ({{% bible val="Offenbarung 21,22" link="rev:21,22" lang="de" %}}) - denn ein Tempel existiert, um Distanz zu Gott zu verwalten, mit abgestuftem Zugang (Außenstehender, Israelit, Levit, Priester), und nur der Hohepriester durfte je den innersten Raum betreten, das Allerheiligste, und selbst er nur einmal im Jahr.
+
+Dieses System der Distanz ist vorbei: Das Neue Jerusalem hat die Form eines perfekten Würfels ({{% bible val="Offenbarung 21,16" link="rev:21,16" lang="de" %}}) - exakt die Form des Allerheiligsten selbst. Was einst einer einzigen Person an einem einzigen Tag im Jahr vorbehalten war, steht jetzt jedem offen, der zu Gott gehört.
+
+Direkt vor seinen Toren aber liegt das, was wir Hölle nennen würden ({{% bible val="Offenbarung 22,14-15" link="rev:22,14-15" lang="de" %}}) - und dieser Kontrast bringt das zentrale Anliegen des ganzen Buches auf den Punkt: Beziehung zu Gott, entweder ganz angenommen oder ganz verweigert. So gesehen ist die Hölle keine von außen angefügte Strafe - sie ist schlicht das, was übrig bleibt, wenn die Quelle des Lebens selbst fehlt, für immer.
+
+[Die ausführlichere Erklärung lesen →]({{< relref "expl/content/paradise/heaven-and-hell" >}})

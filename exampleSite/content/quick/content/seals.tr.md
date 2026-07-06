@@ -1,8 +1,7 @@
 ---
 title: "Mühürler (Böl. 6)"
 weight: 40
-story: /story/general/tour
-appl: /appl/content/seals
+story: /story/general/content/seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /quick/content/worship
 next: /quick/content/army
@@ -10,36 +9,26 @@ docType: quick
 kids: /kids/content/seals
 ---
 
-
-{{% bible val="Bölüm 6" link="rev:6" lang="tr" %}}
+{{% bible val="Bölüm 6" link="rev:6" lang="tr" %}}.
 
 ## Dört atlı
 
-İsa'nın tomarı açmaya layık olduğu gösterildikten sonra yapılması gereken ilk önemli şey vardır: Aynı şeyi iddia eden kişiyi, yani Şeytan'ı ifşa etmek.
+İsa'nın tomarı açmaya layık olduğu gösterildiğine göre, önce bir şeyin olması gerekir: aynı yetkiyi iddia edenin — Şeytan'ın — ifşa edilmesi.
 
-İsa ilk dört mühürde onu ifşa eder. Önce muzaffer ve büyük vaatlerle ortaya çıkar. Ancak İsa onu daha fazlasını göstermeye zorladıkça, savaşa ve zulme, daha sonra açlığa (yoksulların) ve son olarak da ölüme ve yıkıma dönüşür. Bunlar dört atlı.
+İlk dört mühür tam olarak bunu yapar. Şeytan'ın atlısı önce beyaz bir at üzerinde belirir; muzaffer görünür, taçlıdır, vaatlerle doludur — ama mühürler devam ettikçe aynı atlının önce savaş, sonra zenginler el değmeden kalırken yoksullar için ekonomik sıkıntı, sonra da ölüm ve yıkım getirdiği ortaya çıkar. Dört atlı birlikte, Tanrı'nın peygamberler aracılığıyla uyardığı dört yargıyı yansıtır: vahşi hayvanlar, kılıç, kıtlık, veba — ve ilk atlının ödünç alınmış beyaz atı ile tacı, daha sonra aynı kılıkla ortaya çıkacak olan canavarı şimdiden ima eder.
 
-Tanrı'nın gönderdiği dört bela temel alınarak bir araya getirilmişlerdir: vahşi hayvanlar, kılıç, açlık ve veba. Doğrudan atlıların sırasını eşleştirirler, ilki vahşi hayvanları temsil ederken, daha sonra ortaya çıkacak olan Şeytan ve canavar arasındaki bağlantıya işaret eder.
+Şeytan'ın sunacak gerçek hiçbir şeyi yoktur — yalnızca taklit. Bu, kitap boyunca tekrarlanan sahte bir üçlemenin ilk görünüşüdür: aynı üç parçalı kalıp {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} {{% int_link val="ejderha ve iki canavar" link="/quick/content/beasts" %}} ile, {{% bible val="17. bölümde" link="rev:17" lang="tr" %}} ise {{% int_link val="fahişe ve canavar" link="/quick/content/harlot" %}} ile yeniden karşımıza çıkar — her seferinde Mesih'in gerçek gücünün aynı boş taklidini ifşa ederek.
 
-Şeytan'ın boş vaatlerden başka sunabileceği bir şey yoktur. Bu yüzden yapabileceği tek şeyi yapar: Mesih'i taklit eder, ama artık açığa çıkmıştır.
+![](/images/trinity_tr.jpg)
 
-Bu üçlü resim (burada dördüncü atlı diğer üçünün sadece bir özetidir) kitapta devam eder:
-- {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} iki canavar ve Şeytan'ın arka planda ejderha olarak yer aldığı bir {{% int_link val="üçleme" link="/appl/content/beasts" %}} de görürüz
-- Ayrıca {{% int_link val="fahişe ve canavar" link="/quick/content/harlot" %}} (13. bölümün ilk canavarı) ile {{% bible val="17. bölüm" link="rev:17" lang="tr" %}} bu konuyu yansıtır. Burada Şeytan daha da gizlidir.
+## Sunağın altındaki canlar
 
-![](/images/trinity_en.jpg)
+Beşinci mühür, sunağın altından haykıran şehitlerin canlarını gösterir: "Ya Egemen Rab, yeryüzünde yaşayanları yargılaman daha ne kadar sürecek?" Bunlar, Şeytan'ın sahtekârlığını görüp bunu yaşamlarıyla ödemiş imanlılardır. Onlara beyaz kaftanlar verilir — İsa'nın, haklı olduklarına dair kendi hükmü — ve biraz daha beklemeleri söylenir; çünkü başkaları onların gördüğünü henüz görmemiştir.
 
-#ä Sunağın altındaki ruhlar
+Kitabın süregelen gerilimi budur: bu çağ ne kadar uzun sürerse, o kadar çok insan gerçeği fark edip İsa'ya dönme fırsatı bulur — ama ne kadar uzun sürerse, sadık olanlar da başkalarının henüz kavramadığı bir gerçek uğruna o kadar uzun acı çekmeye devam eder.
 
-Bu da sunağın altındaki ruhların çığlıklarıyla sonuçlanır. Kim bunlar? Bu, Şeytan'ın ifşası yüzünden acı çeken kilisedir. Onlar canavarın doğasını anladılar ve buna göre yaşıyorlar. Bunun sona ermesini ve beyaz giysiler giymeyi istiyorlar çünkü İsa onların doğru olduğunu kabul ediyor. Ama diğerleri henüz bunu anlamamıştır. 
+## Sona erdiğinde
 
-Ve bu da kitabın gerilimidir: Ne kadar uzun sürerse, o kadar çok insan bunu anlayabilir ve İsa'yla birlikte olmaya karar verebilir. Ama Şeytan'ı ifşa etmek ne kadar uzun sürerse, doğruların acı çekmesi de o kadar uzun sürer.
+Altıncı mühür, bu sonun kesin bir biçimde geleceğini gösterir — uzayıp giden bir mücadele değil, dramatik ve nihai bir eylem. Her yerdeki insanlar "Kuzu'nun gazabından" dehşete kapılır; ama metin bunun tam nedenini açık bırakır: kendi suçlu vicdanları mı, gerçek güç karşısında duyulan basit korku mu, yoksa — Şeytan'ın sahtekârlığından yola çıkarak — İsa'nın onlara canavarın davranacağı gibi davranacağı varsayımı mı?
 
-## Bitti
-
-Ama her şeyin biteceği zaman gelecek. İsa gelir ve son noktayı koyar. Bu bir ileri geri savaş değil, İsa'nın bu işi nasıl kararlılıkla bitirdiğinin çok dramatik bir resmidir.
-
-Yeryüzündeki bütün insanlar kuzunun gazabından korkarlar. Ama bunun gerçek nedeninin ne olduğu biraz açık bırakılır.
-- Dürüst olmadıklarına dair kendi bilinçleri mi?
-- Çok güçlü olduğu için İsa'dan korkmaları
-- Atlıyı İsa'nın sahte bir temsili olarak düşünmeleri ve İsa'nın kendilerine Şeytan'ın yaptığı gibi davranacağını varsaymaları.
+[Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}})

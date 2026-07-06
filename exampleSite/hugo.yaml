@@ -66,29 +66,29 @@ menu:
         icon: map
       pageRef: /welcome
       weight: 1
-    - identifier: guide
-      name: Chapter by chapter
-      params:
-        icon: table
-      pageRef: /guide
-      weight: 2
     - identifier: story
       name: Poetic story
       params:
         icon: book-open
       pageRef: /story
-      weight: 3
+      weight: 2
     - identifier: quick
       name: Quick
       params:
         icon: lightning-bolt
       pageRef: /quick
-      weight: 4
-    - identifier: application
-      name: Application
+      weight: 3
+    - identifier: kids
+      name: Kids
       params:
-        icon: pencil
-      pageRef: /appl
+        icon: academic-cap
+      pageRef: /kids
+      weight: 4
+    - identifier: sermons
+      name: Sermons
+      params:
+        icon: speakerphone
+      pageRef: /sermons
       weight: 5
     - identifier: explanation
       name: Deep dive
@@ -96,17 +96,17 @@ menu:
         icon: light-bulb
       pageRef: /expl
       weight: 6
-    - identifier: kids
-      name: Kids
+    - identifier: guide
+      name: Chapter by chapter
       params:
-        icon: academic-cap
-      pageRef: /kids
+        icon: table
+      pageRef: /guide
       weight: 7
-    - identifier: sermons
-      name: Sermons
+    - identifier: themes
+      name: Themes
       params:
-        icon: speakerphone
-      pageRef: /sermons
+        icon: question-mark-circle
+      pageRef: /themes
       weight: 8
     - identifier: contact
       name: Contact

@@ -1,8 +1,7 @@
 ---
 title: "İki tanık (Böl. 11)"
 weight: 80
-story: /story/general/tour
-appl: /appl/content/witnesses
+story: /story/general/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /quick/content/scroll
 next: /quick/content/jesus
@@ -13,28 +12,18 @@ docType: quick
 kids: /kids/content/witnesses
 ---
 
-
 {{% bible val="Bölüm 11" link="rev:11" lang="tr" %}}.
 
-Tanrı'nın gizemi bu bölümde açıklanacaktır. 
-
-Bölüm üç kısımdan oluşmaktadır
-- tapınak
-- iki tanık
-- Sonrası ve Tanrı'nın varlığının açığa çıkması
-
-ve bunların hepsi kapsanmıştır (sonraki üç bölüm) ancak aynı olan ve İsa'nın ilk gelişinden ikinci gelişine kadar olan zamanı tanımlayan garip bir zaman dilimi: 1260 gün = 42 ay = 3,5 kat (yıl). Bu, {{% bible val="Daniel" link="dan:9,24-27" lang="tr" %}}'e göre Tanrı'nın planını tamamladığı ve gerçek Tanrı'nın kim olduğu sorusunun sorulduğu zamandır ({{% bible val="Elija'ya" link="1ki:19" lang="tr" %}} göre).
+Bu bölüm, onu izleyen görümle birlikte, garip ama tutarlı bir zaman dilimiyle damgalanmıştır — 1.260 gün, 42 ay, "bir vakit, vakitler ve yarım vakit" — hepsi aynı 3,5 yılı adlandırır. Bu sayı, gerçek bir geri sayım olmaktan çok (Daniel 9'dan ve 1. Krallar'daki İlyas'ın 3,5 yıllık kuraklığından ödünç alınmıştır), Mesih'in ilk ve ikinci gelişi arasındaki çağın tamamını tanımlıyor gibidir: Tanrı'nın planının tamamlanmaya ulaşması için geçen zaman ve asıl sorunun — gerçek Tanrı'nın kim olduğunun — karara bağlandığı zaman.
 
 ## Tapınak
 
-Sahne, artık kurban kesmek için kullanılmayan ama ibadet yeri olan tapınakla başlar. Geri kalan her şey yıkım için serbest bırakılmıştır. Tapınak Tanrı'nın varlığı olduğuna göre, Tanrı'nın varlığının sadece ona bağlılık ve sadakat anlamına gelen ibadetle tanımlandığı anlamına gelir.
+Sahne, artık hayvan kurbanı için değil, tapınma için kullanılan bir tapınakta açılır — onun dışındaki her şey çiğnenmeye terk edilmiştir. Tapınak Tanrı'nın varlığını temsil ettiğine göre, mesaj şudur: O'nun varlığı artık tapınmayla tanımlanır — nerede bulunursa bulunsun, yalnız O'na yönelik bölünmemiş adanmışlık ve sadakatle.
 
-## Tanıklar
+## İki tanık
 
-Tanıkların yaptığı da budur. Kendilerini tamamen Mesih'in yaşamına adarlar. Çuval giysiler içinde gelirler, işaretler ve mucizeler yaparlar ama önemli nokta, en zayıf oldukları anda gelir.
+İki tanığın cisimleştirdiği tam da budur: Mesih'in kendi yaşam örüntüsüne tam adanmışlık. Çul giymişlerdir, gerçek belirtiler yaparlar — ama belirleyici an, en güçlü oldukları noktada değil, en zayıf oldukları noktada gelir. Yenilirler, öldürülürler ve herkesin önünde aşağılanırlar — sonra da, İsa gibi, diriltilip göğe alınırlar. Bu, iki belirli kişinin gerçek yaşam öyküsünden çok, sadakatin ne kadar ileri gittiğinin bir resmidir: tanıkları etkili kılan mucizeleri değil, görünürdeki yenilginin sonuna dek süren bağlılıklarıdır.
 
-Yenilirler, öldürülürler ve aşağılanmaya maruz kalırlar. Ama Mesih gibi onlar da diriltilir ve göğe yükseltilirler. 
+Sonra beklenmedik bir dönüş gelir: büyük bir deprem yargı getirir, ama kentin halkının yüzde 90'ı bundan sağ çıkar ve Tanrı'yı yüceltir — Kutsal Kitap'ın, yalnızca küçük bir bakiyenin esirgendiği daha alışıldık örüntüsünün çarpıcı bir tersine çevrilişi. Burada ezici bir çoğunluk kurtulur.
 
-Bu gerçek bir davranışın tasviri değildir ama Mesih'e olan sadakatlerinde ne kadar ileri gittiklerini gösterir.
-
-Ve sonra mucize gerçekleşir: Büyük bir yargı gelir ama insanların %90'ı(!!!) kurtulur. Ne kadar büyük bir başarı.
+[Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/witnesses/the-two-witnesses" >}})

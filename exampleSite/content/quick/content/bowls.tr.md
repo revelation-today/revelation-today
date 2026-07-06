@@ -1,8 +1,7 @@
 ---
-title: "Gazap kaseleri (Böl. 15-16)"
+title: "Gazap tasları (Böl. 15-16)"
 weight: 120
-story: /story/general/tour
-appl: /appl/content/bowls
+story: /story/general/content/bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 prev: /quick/content/harvest
 next: /quick/content/harlot
@@ -10,37 +9,24 @@ docType: quick
 kids: /kids/content/bowls
 ---
 
+{{% bible val="Bölüm 15-16" link="rev:15" lang="tr" %}}.
 
-{{% bible val="Bölüm 15-16" link="rev:15" lang="tr" %}}
+## Yedi tas
 
-## Kaseler
+İki hasat, insanların sonsuzluğu ya Tanrı'yla ya da O'nsuz geçireceğini gösterdi. Şimdi Tanrı'nın son yanıtı gelir — art arda boşaltılan, her biri belirli bir reddedişe karşılık gelen yedi tas:
 
-Hasatlar, ulusların sonsuzluğu ya Tanrı'sız ya da Tanrı'yla birlikte geçirebileceklerini göstermiştir. Tanrı buna nasıl tepki verecek? Ne yapacaktır?
+- **1. tas**: bağlılıklarını canavara verdiler
+- **2-3. taslar**: haykıran ama duymazdan gelinen Tanrı halkının kanını döktüler
+- **4-5. taslar**: tövbe etmek yerine yüreklerini katılaştırdılar
+- **6. tas**: bunun üzerine Tanrı sonuna kadar gitmelerine izin verir — kötülükle tam, açık bir ittifak
+- **7. tas**: ve Tanrı bütün o sistemi bir daha kalkmamak üzere yıkar
 
-Bunlar son eylemler olarak belirtilir. Tanrı bu kaselerde önemli konulara değinir. Bunlar şunlardır
-- 1. Kase: Şeytan'a bağlılıklarını bildirdiler
-- 2-3. Kase: Onun şahitlerini (bizi) öldürdüler! Onlar dinlemek istemediler
-- 4-5. Kase: Yüreklerini katılaştırdılar.
-- 6. Kase: Bu nedenle Tanrı onlara Şeytan'la tam bir ittifaka kadar gitmelerini sağlayacaktır.
-- 7. Kase: Ve Tanrı Şeytan "ın krallığını sonsuza dek yok eder.
-
-Bu bize Tanrı'nın ne yapacağını çabucak açıklar. Buradaki senaryo, Tanrı'nın bunu sonuna kadar, kimse artık değişmek istemeyene kadar yapacağını anlatır.
+Bu, gelişigüzel boşalan bir gazap değildir — Tanrı'nın, başvurulacak hiçbir şey kalmayana dek olası her çağrının peşinden gitmesidir.
 
 ## Armagedon
 
-Çok ilginç bir konu var: Armageddon. Bundan {{% bible val="sadece bir kez" link="rev:16,12-16" lang="tr" %}} bahsedilmektedir ve bunun ne hakkında olduğu açık değildir.
+Armagedon bütün kitapta yalnızca bir kez geçer ({{% bible val="Vahiy 16:12-16" link="rev:16,12-16" lang="tr" %}}) ve adın kendisi gerçek bir ağırlık taşır. Üç şekilde okunabilir: "katliam dağı" (destansı bir savaş), "toplanma dağı" (Yeşaya 14'ün, hiçe indirilen tanrı özentisiyle alay edişini yankılar) ya da "Megiddo dağı" — Eski Antlaşma'da beklenmedik kahramanların kazandığı savaşlarla dolu bir dağlık bölge: bir ordu komutanının hakkından gelen bir ev kadını, Yael ({{% bible val="Hakimler 4" link="jdg:4" lang="tr" %}}); yakındaki Karmel Dağı'nda bir ulusu kurtaran, cesareti kırılmış bir peygamber ({{% bible val="1. Krallar 18" link="1ki:18" lang="tr" %}}); tek bir günde iki kralı deviren bir adam ({{% bible val="2. Krallar 9" link="2ki:9" lang="tr" %}}); ve savaşta ölümü yine de tarihin akışını değiştiren bir kral ({{% bible val="2. Tarihler 35:20-24" link="2ch:35,20-24" lang="tr" %}}).
 
-Armageddon kelimesinin üç çevirisi vardır:
-- Katliam dağı -> bu destansı bir savaş olacak
-- Meclis Dağı -> {{% bible val="Tanrı gibi olmak isteyen ancak hiçbir şeye indirgenemeyen Şeytan'a bir gönderme" link="isa:14,3-23" lang="tr" %}}
-- Megiddo Dağı -> Alışılmadık kahramanlarla birçok savaşın yaşandığı yer
-    - {{% bible val="Jael adında bir ev kadını bir ordu liderinin üstesinden gelir" link="jdg:4" lang="tr" %}}
-    - {{% bible val="depresif peygamber bir ulusu kurtarır - Karmel Megiddo yakınlarındaki dağdır" link="1ki:18" lang="tr" %}}
-    - {{% bible val="tek bir adam aynı gün iki ülkenin hükümdarını devirir" link="1ki:9" lang="tr" %}}
-    - {{% bible val="bir kral savaşa girer, savaşı kaybeder ve ölür, ama tarihi değiştirir" link="2ch:35,20-24" lang="tr" %}}
-    
-Bir şey açıktır: Savaş Armagedon'da olmaz, çünkü burada da gösterildiği gibi orduların toplandığı yerler dağlardır.
+Gözden kaçması kolay bir ayrıntı var: ordular Armagedon'da *toplanır*, ama savaşın kendisi orada yapılmaz — dağlar toplanma noktalarıdır, savaş alanları değil. Yedinci tas sonucu yalnızca kısaca özetler ({{% bible val="Vahiy 16:17-21" link="rev:16,17-21" lang="tr" %}}); asıl savaş daha sonra, Babil'in yıkılışından ve Kuzu'nun düğününden sonra, İsa beyaz giysili atlı olarak çıktığında anlatılır ({{% bible val="Vahiy 19:11-21" link="rev:19,11-21" lang="tr" %}}) — o da kendi "ordusunu" çarpıcı biçimde ironik bir yolla toplar: yenilenlerin üzerine ziyafete çağrılan akbabalar. Onun tek gerçek kaygısı kazanıp kazanmayacağı değildir — sonrasındaki temizliktir.
 
-Savaş daha sonra anlatılacaktır. Kısa bir şekilde {{% bible val="yedinci kasede" link="rev:16,17-21" lang="tr" %}}, ama ayrıntılı olarak (fahişenin kaderi ve gelinin düğünü anlatıldıktan sonra), İsa {{% bible val="beyaz atlı" link="rev:19,11-21" lang="tr" %}} olarak geldiğinde. 
-
-Ayrıca çok ironik bir şekilde "ordusunu" da toplar. Bu ordu, öldürülen ordudan ziyafet çekecek olan {{% bible val="akbabalardır" link="rev:19,17-18" lang="tr" %}}. 
+[Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/bowls/the-key-to-armageddon" >}})

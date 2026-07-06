@@ -1,8 +1,7 @@
 ---
 title: "Kedua Saksi (Pasal 11)"
 weight: 80
-story: /story/general/tour
-appl: /appl/content/witnesses
+story: /story/general/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /quick/content/scroll
 next: /quick/content/jesus
@@ -13,28 +12,18 @@ docType: quick
 kids: /kids/content/witnesses
 ---
 
+{{% bible val="Pasal 11" link="rev:11" lang="id" %}}.
 
-{{% bible val="Pasal 11" link="rev:11" lang="ind" %}}.
-
-Dalam pasal ini rahasia Allah dinyatakan.
-
-Pasal ini terdiri dari tiga bagian
-- Bait Suci
-- kedua saksi
-- akibat-akibatnya dan penyingkapan hadirat Allah
-
-dan semua ini dibahas (bersama dua pasal berikutnya), tetapi dengan satu rentang waktu yang aneh, yang identik dan menggambarkan masa dari kedatangan Yesus yang pertama sampai kedatangan-Nya yang kedua: 1260 hari = 42 bulan = 3,5 masa (tahun). Ini adalah masa ketika Allah menyelesaikan rencana-Nya sesuai dengan {{% bible val="kitab Daniel" link="dan:9,24-27" lang="ind" %}} dan sebuah masa pertanyaan tentang siapa Allah yang sesungguhnya (berdasarkan kisah {{% bible val="Elia" link="1ki:19" lang="ind" %}}).
+Pasal ini, bersama penglihatan yang menyusulnya, ditandai oleh sebuah rentang waktu yang aneh namun konsisten - 1.260 hari, 42 bulan, "satu masa, dua masa dan setengah masa" - semuanya menyebut 3½ tahun yang sama. Alih-alih hitungan mundur harfiah, angka ini (dipinjam dari Daniel 9 dan masa kekeringan 3½ tahun pada zaman Elia dalam 1 Raja-raja) tampaknya menggambarkan seluruh zaman di antara kedatangan Kristus yang pertama dan yang kedua: waktu yang dibutuhkan sampai rencana Allah mencapai kegenapannya, dan waktu ketika pertanyaan yang sesungguhnya - siapakah Allah yang sejati - diputuskan.
 
 ## Bait Suci
 
-Skenario ini dimulai dengan Bait Suci, yang tidak lagi digunakan untuk korban persembahan, melainkan menjadi tempat penyembahan. Segala sesuatu yang lain diserahkan untuk dihancurkan. Karena Bait Suci adalah hadirat Allah, ini berarti bahwa hadirat Allah didefinisikan oleh penyembahan, yang berarti kesetiaan dan pengabdian hanya kepada-Nya.
+Adegan ini dibuka di sebuah Bait Suci yang tidak lagi digunakan untuk korban binatang melainkan untuk penyembahan - segala sesuatu di luarnya diserahkan untuk diinjak-injak. Karena Bait Suci melambangkan hadirat Allah, pesannya adalah bahwa hadirat-Nya kini didefinisikan oleh penyembahan: pengabdian yang tak terbagi dan kesetiaan kepada Dia saja, di mana pun itu ditemukan.
 
-## Kedua Saksi Itu
+## Kedua saksi itu
 
-Itulah yang dilakukan kedua saksi itu. Mereka mengabdikan diri mereka sepenuhnya kepada kehidupan Kristus. Mereka datang dengan mengenakan kain kabung, mereka melakukan tanda-tanda dan mukjizat-mukjizat, tetapi titik yang menentukan datang ketika mereka berada pada titik terlemah mereka.
+Tepat itulah yang diwujudkan oleh kedua saksi itu: pengabdian total pada pola kehidupan Kristus sendiri. Berpakaian kain kabung, mereka melakukan tanda-tanda yang nyata - tetapi saat yang menentukan datang pada titik terlemah mereka, bukan pada titik terkuat mereka. Mereka dikalahkan, dibunuh, dan dipermalukan di depan umum - lalu, seperti Yesus, dibangkitkan dan diangkat ke surga. Ini bukanlah riwayat hidup harfiah dua orang tertentu, melainkan gambaran seberapa jauh kesetiaan itu pergi: yang membuat para saksi itu berdampak bukanlah mukjizat-mukjizat mereka, melainkan kesetiaan mereka sampai tuntas melewati kekalahan yang tampak.
 
-Mereka dikalahkan, dibunuh, dan dijadikan tontonan untuk dipermalukan. Tetapi sama seperti Kristus, mereka dibangkitkan untuk hidup dan naik ke surga.
+Lalu datanglah kejutan: gempa bumi yang besar membawa penghakiman, tetapi 90 persen penduduk kota selamat dan memberikan kemuliaan kepada Allah - pembalikan yang mencolok dari pola alkitabiah yang lebih lazim, di mana hanya sisa kecil yang diluputkan. Di sini, mayoritas yang sangat besar berhasil melewatinya.
 
-Ini bukanlah gambaran tentang perilaku yang harfiah, melainkan menunjukkan seberapa jauh mereka pergi dalam kesetiaan mereka kepada Kristus.
-
-Dan kemudian terjadilah mukjizat itu: sebuah penghakiman besar datang, tetapi 90%(!!!) orang diselamatkan. Sungguh sebuah keberhasilan yang luar biasa.
+[Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/witnesses/the-two-witnesses" >}})

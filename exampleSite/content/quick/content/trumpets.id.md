@@ -1,8 +1,7 @@
 ---
 title: "Sangkakala-sangkakala (Pasal 8-9)"
 weight: 60
-story: /story/general/tour
-appl: /appl/content/trumpets
+story: /story/general/content/trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 prev: /quick/content/seals
 next: /quick/content/scroll
@@ -10,31 +9,18 @@ docType: quick
 kids: /kids/content/trumpets
 ---
 
+{{% bible val="Pasal 8" link="rev:8" lang="id" %}} dan {{% bible val="9" link="rev:9" lang="id" %}}.
 
-{{% bible val="Pasal 8" link="rev:8" lang="ind" %}} dan {{% bible val="9" link="rev:9" lang="ind" %}}.
+## Doa menggerakkan sangkakala-sangkakala
 
-## Doa Itu
+Setelah meterai ketujuh, surga menjadi sunyi - dalam tradisi Yahudi, itulah saat Allah mendengarkan dengan saksama doa-doa umat-Nya. Dan tepat itulah yang terjadi berikutnya: para malaikat siap meniup sangkakala mereka, tetapi menunggu sampai doa-doa orang-orang kudus dipersembahkan terlebih dahulu. Sangkakala-sangkakala itu digerakkan oleh doa, sama seperti meterai-meterai digerakkan oleh kematian Yesus di kayu salib. Ini pernyataan yang mencolok tentang apa yang sesungguhnya dikerjakan oleh doa.
 
-Pasal ini dimulai dengan meterai terakhir dan memperkenalkan sangkakala-sangkakala itu. Setelah meterai terakhir, ada masa hening di surga. Dalam sastra Yahudi, ini biasanya adalah saat ketika Allah mendengarkan doa-doa orang-orang kudus.
+## Apa yang dilakukan sangkakala-sangkakala itu
 
-Dan itulah yang terjadi selanjutnya. Tetapi ada satu unsur penting yang perlu diperhatikan: Para malaikat bersiap-siap untuk meniup sangkakala, tetapi mereka menunggu: mereka menunggu doa-doa itu dipersembahkan kepada Allah.
+Dengan pola yang erat mengikuti tulah-tulah Mesir, keempat sangkakala pertama mencabut rasa aman sehari-hari yang diandalkan manusia: air, makanan, tatanan alam, perdagangan dan ekonomi. Dua sangkakala berikutnya, yang digerakkan oleh kuasa-kuasa iblis, melangkah lebih jauh lagi: ketenangan batin dan harapan, lalu kehidupan itu sendiri.
 
-Sungguh sebuah pernyataan! Doa-doa itulah yang memicu sangkakala-sangkakala, sama seperti kematian Yesus di kayu salib memicu meterai-meterai dan penderitaan Allah memicu cawan-cawan. Sungguh sebuah pernyataan tentang pentingnya doa.
+Inilah kejutannya: alih-alih hanya semakin mengeraskan hati manusia, kitab Wahyu menggambarkan tanggapan yang sungguh-sungguh beragam - gerakan pertobatan yang nyata, meski sebagian, berjalan berdampingan dengan pembangkangan yang terus berlanjut, terutama di antara mereka yang masih berpegang erat pada berhala-berhala yang justru baru saja mengecewakan mereka. Penghakiman semata jarang mengubah hati sepenuhnya, tetapi ia juga tidak digambarkan sebagai jalan buntu - ia adalah satu lagi seruan, bersama segala hal lain dalam kitab ini, untuk melepaskan rasa aman yang palsu sebelum terlambat.
 
-## Sangkakala-sangkakala Itu
+Sementara itu, gereja - yang sudah dimeteraikan dalam pasal 7 - secara khusus dikecualikan dari siksaan sangkakala kelima ({{% bible val="Wahyu 9:4-6" link="rev:9,4-6" lang="id" %}}). Itu tidak berarti perjalanan yang mudah: orang-orang percaya tetap kehilangan rasa aman yang sama, dan sebagian kehilangan nyawa. Tetapi menanggung kehilangan itu tanpa kehilangan harapan justru menjadi kesaksian yang memperlihatkan kepada dunia yang menyaksikannya seperti apa rasa aman yang sejati.
 
-Sangkakala-sangkakala itu terutama melakukan satu hal: mengambil semua rasa aman yang dimiliki manusia.
-- Air
-- Makanan
-- Orientasi/arah
-- Perdagangan/ekonomi
-
-Tetapi berlanjut lagi, kali ini disebabkan oleh makhluk-makhluk iblis:
-- kesehatan dan harapan
-- kehidupan itu sendiri
-
-Tetapi setelah semua yang terjadi, manusia tetap tidak mengubah hati mereka. Mereka masih berpegang teguh pada roh-roh jahat yang sama, yang telah mengambil harapan, kesejahteraan, bahkan kehidupan mereka. Ini tampak seperti jalan buntu. Manusia sekarang bahkan lebih tertutup lagi. Solusinya ada pada pasal berikutnya, di mana rahasia Allah dinyatakan. Namun sebelum itu, mari kita lihat dahulu keadaan gereja.
-
-Gereja dilindungi ({{% bible val="oleh meterai itu" link="rev:7,1-4" lang="ind" %}}) dari {{% bible val="sangkakala kelima" link="rev:9,4-6" lang="ind" %}} - mereka tidak akan kehilangan harapan selagi mereka menanggung segala kesulitan itu, bahkan kehilangan nyawa mereka sekalipun. Tetapi menanggung kehilangan semua rasa aman yang sama itu, bahkan nyawa mereka sendiri, menjadikan ini sebuah kesaksian yang luar biasa, yang membuat orang-orang menyadari apa sesungguhnya rasa aman yang sejati.
-
-![](/images/trumpets_de.jpg)
+![](/images/trumpets_en.jpg)

@@ -1,8 +1,7 @@
 ---
-title: "Vizyon (Böl. 1)"
+title: "Görüm (Böl. 1)"
 weight: 1
-story: /story/general/tour
-appl: /appl/content/vision
+story: /story/general/content/vision
 expl: /expl/content/vision/setting-the-foundation
 prev: /quick/bible/daniel
 next: /quick/content/letters
@@ -10,17 +9,14 @@ docType: quick
 kids: /kids/content/vision
 ---
 
-
 {{% bible val="Bölüm 1" link="rev:1" lang="tr" %}}.
 
-Zaman geldi. Daniel'in kehaneti yerine geldi ve kilise dünyayı yönetiyor! Ne harika bir haber. Ancak kilisenin şimdi harekete geçmesi gerekiyor.
+Vahiy kitabı, nasıl bir kitap olduğunu bize daha en baştan söyleyerek açılır: İsa'dan gelen, Yuhanna aracılığıyla iletilen ve şimdi itaat edilmesi gereken acil bir mesajdır — gelecek bir neslin çözmesi için rafa kaldırılacak bir bulmaca değil. "Vakit yakındır" ifadesi kitabın en başında ve en sonunda olmak üzere iki kez söylenir. Bu çerçeve, bundan sonra gelen her şey için önemlidir.
 
-Tehlikede olan çok şey var. Tüm ulusların kurtuluşu kilisenin nasıl davranacağına bağlıdır: İsa geri döndüğünde onu reddedecekler mi yoksa kucaklayacaklar mı?
+Sonra görümün kendisi gelir: İsa'dan başka kimsenin önünde eğilmeyi reddettiği için Patmos'a sürgün edilen Yuhanna, dirilmiş Mesih'i yedi altın kandilliğin arasında dururken görür; elinde yedi yıldız tutar, gözleri ateş gibi, sesi gürül gürül akan sular gibidir. Yuhanna ölü gibi yere yığılır — ve İsa'nın ilk sözleri "Korkma" olur. O, ölmüş ve sonsuza dek diri olan, ölümün anahtarlarını elinde tutandır.
 
-Tanrı'nın kilise için bir vizyonu vardır. Eğer kilise bu vizyona göre yaşarsa başarılı olacaktır.
+Ardından kandillikler ve yıldızlar doğrudan açıklanır: bunlar yedi kilise ve onların "melekleri" (habercileri) demektir — yani bu görüm aslında kilisenin kendi kimliği ve çağrısı hakkındadır. İmge sadedir ve tek bir düşünceyi iki kez tekrarlar: kilise, tıpkı bir kandilliğin yaptığı gibi karanlık bir dünyaya ışık saçmalıdır — ama bunu ancak kendisi dışındaki bir kaynaktan beslenerek yapabilir; nasıl ki bir kandillik yağa muhtaçtır ve yıldızlar ancak yerlerinde tutuldukları için parlar. Asıl mesele kendi kendine yeterlilik değil, bağımlılıktır.
 
-Tabii ki İsa görümün ortasındadır ve kilise kuzu sırıkları ve yıldızlar olarak temsil edilir. Mesaj çoğaltılmış ve basittir:
-- Kilise, kuzu sırıkları (tapınaktaki tek ışık olarak) ve yıldızlar gibi dünyada bir ışık olmalıdır.
-- ancak İsa'ya güçlü bir bağımlılık içinde (eldeki yıldızlar, kuzuların yağa ihtiyacı var - Kutsal Ruh)
+İsa'nın sonraki iki bölümde yedi kiliseye söyleyeceği her şey, onları bu tek görüme göre ölçecektir: gerçekten böyle bir ışık mı oluyorlar, böyle bir bağımlılık içinde mi yaşıyorlar?
 
-İsa'nın kiliseyle karşılaştırdığı şey budur. Ne bulacak?
+[Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/vision/the-vision" >}})

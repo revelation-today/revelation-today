@@ -1,8 +1,7 @@
 ---
 title: "Die Siegel (Kap. 6)"
 weight: 40
-story: /story/general/tour
-appl: /appl/content/seals
+story: /story/general/content/seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /quick/content/worship
 next: /quick/content/army
@@ -10,36 +9,26 @@ docType: quick
 kids: /kids/content/seals
 ---
 
+{{% bible val="Kapitel 6" link="rev:6" lang="de" %}}.
 
-{{% bible val="Kapitel 6" link="rev:6" lang="de" %}}
+## Die vier Reiter
 
-## Die vier apokalyptischen Reiter
+Nachdem Jesus sich als würdig erwiesen hat, die Schriftrolle zu öffnen, muss zuerst eines geschehen: Der entlarvt werden, der dieselbe Autorität für sich beansprucht - Satan.
 
-Nachdem Jesus sich als würdig erwiesen hat, die Schriftrolle zu öffnen, gibt es zunächst eine wichtige Aufgabe zu erfüllen: Denjenigen zu entlarven, der dasselbe behauptet - Satan.
+Genau das tun die ersten vier Siegel. Satans Reiter erscheint zuerst auf einem weißen Pferd - siegreich, gekrönt, voller Versprechen. Doch mit den weiteren Siegeln zeigt sich derselbe Reiter als Bringer von Krieg, dann von wirtschaftlicher Not für die Armen, während die Reichen unberührt bleiben, dann von Tod und Zerstörung. Zusammen greifen die vier Reiter die vier Gerichte auf, vor denen Gott durch die Propheten gewarnt hat: wilde Tiere, Schwert, Hunger, Pest - und das geliehene weiße Pferd und die Krone des ersten Reiters deuten schon auf das Tier hin, das später in derselben Verkleidung auftreten wird.
 
-Jesus entlarvt ihn in den ersten vier Siegeln. Zuerst zeigt er sich als Sieger und mit großen Versprechungen. Aber als Jesus ihn zwingt, mehr zu zeigen, kommt es zu Krieg und Verfolgung, später zum Verhungern (der Armen) und schließlich zu Tod und Zerstörung. Dies sind die vier apokalyptischen Reiter.
-
-Sie sind in Anlehnung an die vier Plagen zusammengestellt, die Gott schickt: wilde Tiere, Schwert, Hunger und die Pest. Sie bilden direkt die Reihenfolge der apokalyptische Reiter ab. Während der erste apokalyptische Reiter die wilden Tiere repräsentiert, weist er bereits auf die Verbindung zwischen Satan und dem Tier hin, das später auftaucht.
-
-Satan hat nichts zu bieten als leere Versprechungen. Also tut er das Einzige, was er tun kann: Er ahmt Christus nach, aber er ist nun entlarvt.
-
-Dieses Bild der Dreifaltigkeit (hier ist der vierte apokalyptische Reiter nur eine Zusammenfassung der anderen drei) setzt sich im Buch fort:
-- In {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} sehen wir auch eine {{% int_link val="Dreieinigkeit" link="/quick/content/beasts" %}} mit den beiden Bestien und Satan als dem Drachen im Hintergrund
-- Auch {{% bible val="Kapitel 17" link="rev:17" lang="de" %}} mit der {{% int_link val="Hure und dem Tier" link="/quick/content/harlot" %}} (erstes Tier von Kapitel 13) spiegelt dieses Thema wider. Hier ist Satan noch mehr verborgen.
+Satan hat nichts Echtes zu bieten - nur Nachahmung. Hier erscheint zum ersten Mal eine gefälschte Dreieinigkeit, die sich durch das ganze Buch zieht: Dasselbe dreiteilige Muster taucht in {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} mit dem {{% int_link val="Drachen und den zwei Tieren" link="/quick/content/beasts" %}} wieder auf, und noch einmal in {{% bible val="Kapitel 17" link="rev:17" lang="de" %}} mit der {{% int_link val="Hure und dem Tier" link="/quick/content/harlot" %}} - und jedes Mal wird dieselbe leere Nachahmung der wirklichen Macht Christi entlarvt.
 
 ![](/images/trinity_de.jpg)
 
 ## Die Seelen unter dem Altar
 
-Dies führt zu dem Schrei der Seelen unter dem Altar. Wer sind diese? Dies ist die Kirche, die unter der Entlarvung Satans leidet. Sie haben die Natur des Tieres verstanden und leben entsprechend. Sie wollen, dass das aufhört und sie bekommen weiße Gewänder, weil Jesus zustimmt, dass sie gerecht sind. Aber andere haben es noch nicht verstanden. 
+Das fünfte Siegel zeigt die Seelen der Märtyrer, die unter dem Altar rufen: "Wie lange noch, Herr, bis du die Bewohner der Erde richtest?" Das sind Gläubige, die Satans Fälschung durchschaut und dafür mit ihrem Leben bezahlt haben. Sie bekommen weiße Gewänder - Jesu eigenes Urteil, dass sie im Recht waren - und sollen noch eine kurze Zeit warten, weil andere noch nicht gesehen haben, was sie gesehen haben.
 
-Und das ist die Spannung des Buches: Je länger es dauert, desto mehr Menschen könnten es verstehen und sich für Jesus entscheiden. Aber je länger es dauert, Satan zu entlarven, desto länger leiden die Gerechten.
+Das ist die bleibende Spannung des Buches: Je länger diese Zeit dauert, desto mehr Menschen haben die Chance, die Wahrheit zu erkennen und sich Jesus zuzuwenden - aber je länger sie dauert, desto länger leiden die Treuen für eine Wahrheit, die andere noch nicht begriffen haben.
 
-## Es ist vorbei.
+## Wenn es endet
 
-Aber die Zeit wird kommen, wenn alles vorbei ist. Jesus kommt und macht ein Ende. Das ist kein Kampf hin und her, sondern ein sehr dramatisches Bild davon, wie entschlossen Jesus die Sache beendet.
+Das sechste Siegel zeigt: Das Ende wird kommen, und zwar entschieden - kein zäher Kampf hin und her, sondern ein dramatischer, endgültiger Akt. Überall fürchten sich die Menschen vor dem "Zorn des Lammes", wobei der Text offen lässt, warum genau: ihr eigenes schlechtes Gewissen, die schlichte Angst vor echter Macht, oder die Annahme - genährt durch Satans Fälschung -, Jesus werde mit ihnen so umgehen, wie das Tier es getan hätte.
 
-Alle Menschen auf der Erde fürchten sich vor dem Zorn des Lammes. Aber es wird ein wenig offen gelassen, was wirklich die Ursache ist
-- Ihr eigenes Bewusstsein über die Ungerechtigkeit?
-- Ihre Angst vor Jesus, weil er so mächtig ist
-- Ihr Nachdenken über die apokalyptischen Reiter als falsche Darstellung von Jesus und die Annahme, dass Jesus mit ihnen so umgehen wird wie Satan.
+[Die ausführlichere Erklärung lesen →]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}})

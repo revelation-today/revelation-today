@@ -2,7 +2,6 @@
 title: "The small scroll (Ch. 10)"
 weight: 70
 story: /story/general/content/scroll
-appl: /appl/content/scroll
 expl: /expl/content/scroll/the-little-scroll
 prev: /quick/content/trumpets
 next: /quick/content/witnesses
@@ -10,16 +9,12 @@ docType: quick
 kids: /kids/content/scroll
 ---
 
-{{% bible val="Chapter 10" link="rev:10" lang="en" %}}
+{{% bible val="Chapter 10" link="rev:10" lang="en" %}}.
 
-After the unsuccessful attempt to draw the people to God by prayer it needs a new mystery to be revealed. This time it is the mystery of God.
+Judgment alone hasn't turned people's hearts - so now a new mystery is revealed: the mystery of God himself, and what he's asking of his church.
 
-The whole scene starts with an angel that appears like {{% bible val="Jesus" link="rev:1,13-16" lang="en" %}} from his description from the 
-{{% bible val="prophet Daniel as the son of man" link="rev:1,7" lang="en" %}}. And he has a little scroll in his hand. 
-This links this to the story with the other reference to the scroll which {{% bible val="Jesus was worthy to open" link="rev:5,1-7" lang="en" %}}.
+A mighty angel appears, described the same way John described Jesus in chapter 1 - and holds a little scroll. This deliberately echoes the larger scroll Jesus alone was found worthy to open back in chapter 5. John is told to eat this scroll: sweet in his mouth, like the gospel itself, but turning bitter in his stomach - a taste of what's coming in the next chapter. Jesus already secured the decisive victory at the cross; this little scroll shows there's still a costly, essential role left for the church to carry that victory to the nations.
 
-John needs to eat (internalise) this scroll which is sweet (its the gospel), but also bitter -  we will see especially in the next chapter. 
-This scroll reveals the mystery of God: It is to be like Jesus. What this means is revealed in the next chapters. 
+Before that role is spelled out, one detail reassures: the angel plants one foot on the sea and one on the land ({{% bible val="Revelation 10:5" link="rev:10,5" lang="en" %}}) - the very two places the beasts will rise from in chapter 13. Whatever is coming, God is already standing over it, in full control.
 
-But before we go in there we are reminded that God is {{% bible val="in full control over whatever we are facing" link="rev:10,5" lang="en" %}}: 
-As we see the beasts comes form earth and sea and the angel putting a foot down on earth and sea means God is in control over this situation.
+[Read the fuller explanation →]({{< relref "expl/content/scroll/the-little-scroll" >}})

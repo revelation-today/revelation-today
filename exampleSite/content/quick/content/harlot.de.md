@@ -1,8 +1,7 @@
 ---
 title: "Die Hure (Kap. 17-19)"
 weight: 130
-story: /story/general/tour
-appl: /appl/content/harlot
+story: /story/general/content/harlot
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 prev: /quick/content/bowls
 next: /quick/content/1000y
@@ -10,40 +9,30 @@ docType: quick
 kids: /kids/content/harlot
 ---
 
-{{% bible val="Kapitel 17" link="rev:17" lang="en" %}}, {{% bible val="18" link="rev:18" lang="en" %}} und {{% bible val="19" link="rev:19" lang="en" %}}.
+{{% bible val="Kapitel 17" link="rev:17" lang="de" %}}, {{% bible val="18" link="rev:18" lang="de" %}} und {{% bible val="19" link="rev:19" lang="de" %}}.
 
-## Das Geheimnis der Hure?
+## Die Hure wird entlarvt
 
-Die Geschichte ist nun eine Ergänzung zu den Schalen (wie wir es auch mit den Siegeln und den Posaunen hatten). Sie vergrößert das Hauptthema des Zorns Gottes, was nichts Neues ist, aber sie fasst all das Böse, das wir vorher hatten, in einem komplexen Bild zusammen: Die Hure, die Babel ist und die auf einem Tier sitzt.
-
-Es wird beschrieben, dass die Hure den Herrscher der Erde manipuliert und die Heiligen tötet. Die Hure sitzt auf einem Tier, das später einen Krieg gegen Jesus und die Heiligen inszenieren wird.
-
-Das Tier selbst wird mit der Kontrolle über die Könige der Erde beschrieben.
+So wie die Siegel und die Posaunen jeweils eine ergänzende Vision hatten, ergänzt dieser Abschnitt die Schalen und fasst alles Böse, das wir bisher gesehen haben, in einem komplexen Bild zusammen: eine Hure namens Babylon, die auf einem Tier reitet, das die Könige der Erde beherrscht, die Herrscher manipuliert und die Heiligen tötet.
 
 ![](/images/Hure+Tier_de.jpg)
 
-Dies scheint eine unaufhaltsame Kraft gegen die Heiligen zu sein. Aber hier kommt die Ironie: Das Tier ({{% bible val="das erste Tier aus Kapitel 13, das dort als unbesiegbar dargestellt wurde" link="rev:13,3-4" lang="en" %}}) ist alles andere als unbesiegbar, sondern wird im Vergleich zu {{% bible val="Gott" link="rev:1,8" lang="en" %}} als {{% bible val="unzuverlässig" link="rev:17,8-11" lang="en" %}} verspottet.
+Das sieht unaufhaltsam aus - doch dasselbe Tier, das in Kapitel 13 unbesiegbar schien, wird jetzt offen als unzuverlässig verspottet, eine verblassende Nachahmung neben dem Gott, der wirklich der ist, "der ist und der war und der kommt" ({{% bible val="Offenbarung 1,8" link="rev:1,8" lang="de" %}}). Weder Tier noch Hure triumphieren am Ende über die Heiligen; stattdessen wenden sich genau die Könige, die dem Tier ihre Macht gegeben haben, gegen die Hure und vernichten sie selbst - weil Gott es von Anfang an so geplant hat.
 
-Außerdem wird es dem Tier und der Hure nicht gelingen, die Heiligen zu überwinden, sondern sie werden von den Königen vernichtet, die ihre ganze Macht dem Tier gegeben haben. Wie kann das geschehen? Weil Gott es so bestimmt hat. Wir werden später sehen, warum.
+Die Hure ist das dunkle Gegenstück zur Braut Christi (der Gemeinde) und steht für wirtschaftliche und finanzielle Macht, die sich attraktiv herausgeputzt hat - der Erscheinung der Braut ähnlich genug, dass Gläubige auf der Suche nach einem leichteren, wohlhabenderen Weg ihre Gastfreundschaft für echten Segen halten könnten.
 
-Die Hure selbst ist das Gegenstück zur Braut Christi (der Kirche) und repräsentiert in erster Linie wirtschaftliche und finanzielle Macht. Aber das ist noch nicht alles. Die Hure sieht der Braut äußerlich sehr ähnlich und könnte der Wirt für Christen sein, die es sich leicht machen und mit dem Strom schwimmen wollen (und das Zeichen des Tieres empfangen).
+## Ihre Wirkung und ihr Gericht
 
-Die Hure beeinflusste die Herrscher dieser Welt, um Wohlstand zu bringen (seien Sie also vorsichtig, wenn dies Ihr Hauptziel als Christ ist).
+Unter der Oberfläche steckt die Hure hinter der Ungerechtigkeit der Hungersnot des dritten Siegels: Mangel für die Armen neben unangetastetem Luxus für die Reichen - Menschen werden wie Handelsware behandelt. Am Wohlstand selbst ist nichts falsch - auch Gott schenkt ihn -, aber wenn er wichtiger wird als Gott, ist das Bürgerschaft in Babylon, nicht im Neuen Jerusalem. Eine Gemeinde, die nur bequemen Segen will, ohne den Preis des Zeugnisses, ist stillschweigend zum Gast der Hure geworden statt zur Braut.
 
-## Die Auswirkungen und das Gericht der Hure
-
-Die Hure, auch wenn sie von außen wie die Kirche aussieht, ist ein erbitterter Feind der Kirche und ihrer Zeugen und richtet Unheil an. Bei näherer Betrachtung ist die Hure die Ursache für das {{% bible val="dritte Siegel" link="rev:6,5-6" lang="de" %}}: Hunger, der auf wirtschaftlicher Ungerechtigkeit beruht, aber die Verfügbarkeit von Luxusgütern und die Versorgung der Reichen trotz des Leidens der Massen sicherstellt. Menschen werden als Material wie andere Ressourcen betrachtet.
-
-Die perfekte Kirche zu sein (eine Kirche, die sich auf Segen und Wohlstand konzentriert und nicht auf unbequemes Zeugnis und Märtyrertum) ist auch die Bestimmung der Hure: Während das Tier versucht, die Kirche anzugreifen, greift Jesus ein und statt der Kirche ist die Hure das Ziel. Die Könige, als Vertreter des Tieres, bringen das Gericht über die Hure.
-
-Die Hure ist hochmütig und hält sich für unantastbar, deshalb wird ihr Gericht schnell kommen, wie es über das historische Babel kam. Babel wird mit doppeltem Maß gemessen werden, d. h. sie wird genau das erleiden, was sie an andere verteilt hat.
+Als Jesus eingreift, wird die Hure - nicht die Gemeinde - zum Ziel, gerichtet von genau den Königen, die einst dem Tier dienten. Stolz und ihrer eigenen Sicherheit gewiss, kommt ihr Sturz plötzlich, genau wie beim historischen Babylon, und mit demselben Maß, mit dem sie anderen zugeteilt hat.
 
 ![](/images/Hure_de.jpg)
 
-Warum wird die Beschreibung der Hure so ausführlich behandelt (mehr als zwei Kapitel)? Weil wir aus der Bequemlichkeit in die Gerechtigkeit gerufen werden. Wenn wir {{% bible val="Teil der Hure" link="rev:18,4" lang="de" %}} sind, wird das zu Götzendienst führen (im Alten Testament ist Götzendienst mit Handel verbunden), und das wird unser Verhalten dahingehend verändern, dass wir Menschen nicht lieben, sondern ausbeuten.
+Warum widmet das Buch ihr mehr als zwei Kapitel? Weil es uns verändert, "Teil" der Hure zu sein ({{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}}) - Treue gegen Reichtum einzutauschen, so wie Götzendienst und Handel im Alten Testament verknüpft waren, formt unseren Umgang mit Menschen um: von Liebe zu Ausbeutung.
 
 ## Und jetzt?
 
-Die Hure ist verurteilt worden, und die Braut Christi ist nun bereit für die Hochzeit. Die Kirche ist nun bereit, ihren Bräutigam zu sehen. Aber zuerst bringt er Gericht über den Rest der bösen Dreifaltigkeit.
+Nachdem die Hure gerichtet ist, ist die Braut endlich bereit für ihre Hochzeit. Zuerst aber macht Jesus dem ein Ende, was vom Tier und dem falschen Propheten noch übrig ist - nicht mit einer Schlacht, sondern mit einem Gerichtssaal: ein Schwert aus seinem Mund, das jeden der Reihe nach richtet.
 
-Er kommt mit einem Schwert aus seinem Mund und richtet jeden allein (die Engel sind nur da, um den Teufel und den falschen Propheten zu fangen). Dies ist keine Schlacht, sondern eher ein Gerichtssaal. Jesus bringt das endgültige Urteil.
+[Die ausführlichere Erklärung lesen →]({{< relref "expl/content/harlot/who-is-the-harlot-babylon-part-2" >}})

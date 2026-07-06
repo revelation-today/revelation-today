@@ -1,8 +1,7 @@
 ---
 title: "Langit Baru dan Bumi Baru (Pasal 21-22)"
 weight: 150
-story: /story/general/tour
-appl: /appl/content/paradise
+story: /story/general/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /quick/content/1000y
 next: /welcome/done_quick
@@ -10,14 +9,18 @@ docType: quick
 kids: /kids/content/paradise
 ---
 
+{{% bible val="Pasal 21" link="rev:21" lang="id" %}} dan {{% bible val="22" link="rev:22" lang="id" %}}.
 
-{{% bible val="Pasal 21" link="rev:21" lang="ind" %}} dan {{% bible val="22" link="rev:22" lang="ind" %}}.
+Akhirnya kita tiba di Yerusalem Baru - tempat kekekalan dijalani. Ada beberapa detail yang patut diperhatikan:
 
-Kita akhirnya sampai di tujuan kita: Yerusalem Baru. Inilah tempat di mana kita akan menghabiskan kekekalan. Dan tempat ini memiliki beberapa ciri yang sangat menarik:
-- Tempat ini penuh dengan {{% bible val="unsur-unsur berharga" link="rev:21,19-21" lang="ind" %}} (mutiara yang sebesar pintu gerbang, batu-batu permata, emas yang bahkan digunakan untuk melapisi jalan-jalan) dan sebuah {{% bible val="sungai serta pohon kehidupan" link="rev:22,1-2" lang="ind" %}} seperti di {{% bible val="Taman Eden" link="gen:2,9-14" lang="ind" %}}.
-- Tempat ini memiliki unsur-unsur sebuah {{% bible val="kota" link="rev:21,10-17" lang="ind" %}} (tempat di mana manusia mencari {{% bible val="perlindungan" link="gen:4,16-17" lang="ind" %}} dan {{% bible val="jati diri" link="gen:11,1-9" lang="ind" %}} setelah kehilangan hubungan mereka dengan Allah)
-- Tempat ini bersifat {{% bible val="pribadi" link="rev:21,9-10" lang="ind" %}}, karena kitalah sang mempelai perempuan.
+- Kota itu penuh dengan bahan-bahan yang berharga ({{% bible val="Wahyu 21:19-21" link="rev:21,19-21" lang="id" %}} - mutiara sebesar pintu gerbang, fondasi yang bertatahkan batu permata, jalan-jalan dari emas), serta sungai dan pohon kehidupan ({{% bible val="Wahyu 22:1-2" link="rev:22,1-2" lang="id" %}}) yang langsung berasal dari Taman Eden ({{% bible val="Kejadian 2:9-14" link="gen:2,9-14" lang="id" %}}).
+- Kota itu memiliki ciri-ciri sebuah kota ({{% bible val="Wahyu 21:10-17" link="rev:21,10-17" lang="id" %}}) - justru apa yang dibangun manusia demi perlindungan dan jati diri ({{% bible val="Kejadian 4:16-17" link="gen:4,16-17" lang="id" %}}, {{% bible val="Kejadian 11:1-9" link="gen:11,1-9" lang="id" %}}) setelah kehilangan hubungan langsung dengan Allah.
+- Kota itu sangat pribadi ({{% bible val="Wahyu 21:9-10" link="rev:21,9-10" lang="id" %}}) - digambarkan sebagai mempelai perempuan, dan kitalah yang menyandang gambaran itu.
 
-Semua ini adalah unsur-unsur yang merujuk pada Bait Suci. Tetapi {{% bible val="tidak akan ada Bait Suci" link="rev:21,22" lang="ind" %}}, karena Bait Suci didasarkan pada jarak (siapa pun Anda, Anda selalu bisa semakin dekat dengan Allah - orang bukan Yahudi, orang Yahudi, orang Lewi, imam, imam besar), dan hanya imam besar yang dapat masuk ke hadirat Allah yang sesungguhnya - Ruang Maha Kudus - satu kali dalam setahun.
+Semua ini mengambil dari citra Bait Suci. Tetapi secara tegas dikatakan "tidak ada Bait Suci" di sini ({{% bible val="Wahyu 21:22" link="rev:21,22" lang="id" %}}) - karena Bait Suci ada untuk mengelola jarak dari Allah, dengan lapisan-lapisan akses (orang luar, orang Israel, orang Lewi, imam), dan hanya imam besar yang pernah diizinkan masuk ke ruang terdalam, Ruang Maha Kudus, itu pun hanya sekali setahun.
 
-Namun sekarang hal itu berakhir, karena Yerusalem Baru memiliki {{% bible val="bentuk Ruang Maha Kudus" link="rev:21,16" lang="ind" %}}. Tetapi {{% bible val="tepat di luarnya adalah apa yang akan kita sebut neraka" link="rev:22,14-15" lang="ind" %}}. Ini menggambarkan tujuan dari Yerusalem Baru. Semuanya tentang berada dalam hubungan dengan Allah: Anda sepenuhnya di dalam atau sepenuhnya di luar - pesan utama dari kitab ini.
+Sistem jarak itu telah berakhir: Yerusalem Baru berbentuk kubus yang sempurna ({{% bible val="Wahyu 21:16" link="rev:21,16" lang="id" %}}) - persis bentuk Ruang Maha Kudus itu sendiri. Apa yang dahulu dikhususkan bagi satu orang, satu hari dalam setahun, kini terbuka bagi setiap orang yang menjadi milik Allah.
+
+Namun tepat di luar pintu-pintu gerbangnya ada apa yang kita sebut neraka ({{% bible val="Wahyu 22:14-15" link="rev:22,14-15" lang="id" %}}) - dan kontras itu merangkum pokok perhatian utama seluruh kitab ini: hubungan dengan Allah, yang dipeluk sepenuhnya atau ditolak sepenuhnya. Neraka, dalam terang ini, bukanlah hukuman eksternal yang dipasang dari luar - ia semata-mata apa yang tersisa ketika sumber kehidupan itu sendiri tidak ada, untuk selama-lamanya.
+
+[Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/paradise/heaven-and-hell" >}})

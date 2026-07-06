@@ -4,7 +4,6 @@ weight: 5
 prev: /quick/background/literature
 next: /quick/bible/creation
 docType: quick
-appl: /appl/background/history
 expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 

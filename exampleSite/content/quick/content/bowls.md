@@ -2,7 +2,6 @@
 title: "The bowls of wrath (Ch. 15-16)"
 weight: 120
 story: /story/general/content/bowls
-appl: /appl/content/bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 prev: /quick/content/harvest
 next: /quick/content/harlot
@@ -10,37 +9,24 @@ docType: quick
 kids: /kids/content/bowls
 ---
 
-{{% bible val="Chapter 15-16" link="rev:15" lang="en" %}}
+{{% bible val="Chapter 15-16" link="rev:15" lang="en" %}}.
 
-## The bowls
+## The seven bowls
 
-The harvests have shown that the nations can spend either in eternity without God or with him. How will God react on this. What will he do?
+The two harvests showed that people will spend eternity either with God or without him. Now comes God's final response - seven bowls, poured out one after another, each addressing a specific refusal:
 
-These are stated as the final actions. God is addressing the important topics in these bowls. They are:
-- Bowl 1: They gave allegiance to Satan
-- Bowl 2-3: They killed his witnesses (us)! They did not want to listen
-- Bowl 4-5: They hardened their hearts
-- Bowl 6: Therefore God will give them that they go all the way to full alliance with Satan
-- Bowl 7: And God destroys Satans kingdom one and forever.
+- **Bowl 1**: they gave their allegiance to the beast
+- **Bowls 2-3**: they shed the blood of God's people, who cried out and were ignored
+- **Bowls 4-5**: they hardened their hearts rather than repenting
+- **Bowl 6**: so God allows them to go all the way - full, open alliance with evil
+- **Bowl 7**: and God brings that whole system down, once and for all
 
-This wraps us quickly what God is going to do. The scenary here describes that God will do this to the end, until nobody wants to change anymore.
+This isn't wrath breaking loose arbitrarily - it's God pursuing every possible appeal, all the way to the point where nothing is left to appeal to.
 
 ## Armageddon
 
-There is one very interesting topic: Armageddon. This is mentioned {{% bible val="only once" link="rev:16,12-16" lang="en" %}} and it seems not be clear what this is about.
+Armageddon appears only once in the whole book ({{% bible val="Revelation 16:12-16" link="rev:16,12-16" lang="en" %}}), and the name itself carries real weight. It can be read three ways: "mountain of slaughter" (an epic battle), "mountain of assembly" (echoing Isaiah 14's mockery of a would-be god brought down to nothing), or "mountain of Megiddo" - a hill country layered with Old Testament battles won by unlikely heroes: a housewife, Jael, overcoming an army commander ({{% bible val="Judges 4" link="jdg:4" lang="en" %}}); a discouraged prophet saving a nation on nearby Mount Carmel ({{% bible val="1 Kings 18" link="1ki:18" lang="en" %}}); one man toppling two kings in a single day ({{% bible val="2 Kings 9" link="2ki:9" lang="en" %}}); and a king whose death in battle nonetheless changed the course of history ({{% bible val="2 Chronicles 35:20-24" link="2ch:35,20-24" lang="en" %}}).
 
-The word Armageddon has three translations:
-- Mountain of slaughter -> this will be an epic battle
-- Mountain of assembly -> {{% bible val="A reference to Satan who want to be like God but it lowered to nothing" link="isa:14,3-23" lang="en" %}}
-- Mountain of Megiddo -> The place where several battles happen with untypical heros
-    - {{% bible val="a housewife named Jael overcoming an army leader" link="jdg:4" lang="en" %}}
-    - {{% bible val="the depressive prophet saves a nation - Karmel is the mountain near Megiddo" link="1ki:18" lang="en" %}}
-    - {{% bible val="a single man overthrows the ruler of two countries on the same day" link="2ki:9" lang="en" %}}
-    - {{% bible val="a king goes into battle, looses the battle and dies, but changes history" link="2ch:35,20-24" lang="en" %}}
-    
-One thing is clear: The battle happens not in Armageddon as mountains are the places where the armies assemble as also show here.
+One detail is easy to miss: armies *gather* at Armageddon, but the battle itself isn't fought there - mountains are assembly points, not battlefields. The seventh bowl only summarizes the outcome briefly ({{% bible val="Revelation 16:17-21" link="rev:16,17-21" lang="en" %}}); the actual battle is described later, after Babylon's downfall and the wedding of the Lamb, when Jesus rides out as the white-robed rider ({{% bible val="Revelation 19:11-21" link="rev:19,11-21" lang="en" %}}) - who gathers his own "army" in a strikingly ironic way: vultures, invited to feast on the defeated. His only real concern isn't whether he'll win - it's the cleanup afterward.
 
-The battle is described later. In the short form in the {{% bible val="seventh bowl" link="rev:16,17-21" lang="en" %}}, but in detail (after the destiny of the harlot and the wedding of the bride is described), when Jesus comes as {{% bible val="the white rider" link="rev:19,11-21" lang="en" %}}. 
-
-He also assembles "his army" in a very ironic way. The army are the {{% bible val="vultures" link="rev:19,17-18" lang="en" %}} that will feast from the slayed army. 
-So his concern is not that he might not win, but how to clean up afterwards.
+[Read the fuller explanation →]({{< relref "expl/content/bowls/the-key-to-armageddon" >}})

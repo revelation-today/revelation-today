@@ -1,36 +1,24 @@
 ---
 title: "İki hasat (Böl. 14)"
 weight: 110
-story: /story/general/tour
-appl: /appl/content/harvest
-expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
-prev: /quick/content/witnesses
+story: /story/general/content/harvest
+expl: /expl/content/harvest/gods-army-and-the-seven-angels
+prev: /quick/content/beasts
 next: /quick/content/bowls
 docType: quick
 kids: /kids/content/harvest
 ---
 
-
 {{% bible val="Bölüm 14" link="rev:14" lang="tr" %}}.
 
-Ejderha ve iki canavarın etkileyici sunumundan sonra bir şey açıktır. Galip gelenler azizlerdir. Ve asıl güçleri Tanrı'ya olan sadakatleridir (bakireler olmaları). Tanrı'nın tüm kötülükler üzerinde egemen olduğunu hatırlatmak için camdan denizde dururlar ve zafer şarkısını söylerler.
+Canavarın 13. bölümdeki topyekûn, dehşet verici ele geçirişinden sonra artık bir şey açıktır: galip gelenler, Siyon Dağı'nda dimdik duran 144.000'dir ve onları tanımlayan özellik, yalnız Tanrı'ya sadakattir. Cam denizin yanında durur, yalnızca kendilerinin öğrenebildiği bir zafer ezgisi söylerler — Tanrı'nın tüm bunlar üzerinde egemen kaldığının bir hatırlatıcısı.
 
-Şimdi sıra canavarın takipçilerine verilecek cezaya gelir. Ama bundan önce bir melek gelir ve Müjde'nin bu dünyadaki herkes için olduğunu duyurur.
+Yargı, canavarın izleyicilerinin üzerine inmeden önce, bir melek müjdeyi yeryüzündeki her ulusa, her oymağa, her dile ve her halka duyurur. Ardından iki melek daha Babil ve canavara tapan herkes üzerine yargı bildirir.
 
-Sonraki iki melek canavarın izleyicileri üzerinde yargı ilan eder. 
-
-Kalan dört melek iki hasadı anlatır.
-
-Bunlar 
-- ilk hasat sadıkların bir koleksiyonudur
-    - İnsanoğluna (İsa) benzeyen bir figür buna önderlik ediyor
-    - hasadın işlenmesi değil sadece toplanması söz konusudur
-- ikincisi ise sadakatsizlerin yargılanmasıdır.
-    - burada da hasat işlenirse (üzümler çiğnenir)
-    - kanları akacak (İsa'nın kanı onları örtmüyor)
-
-Ve burada çember ilk meleğe doğru kapanır. Uluslar nasıl karşılık verdi? Müjdeyi yürekten kabul ettiler mi?
+Kalan sahneler iki hasadı anlatır. İlki bir tahıl hasadıdır; İnsanoğlu'na benzeyen bir kişi tarafından toplanır — sadıklar, yargı eklenmeden, yalnızca bir araya getirilir. İkincisi ise üzüm hasadıdır; "Tanrı'nın gazabının büyük masarasına" atılır, kan akıncaya dek çiğnenir — canavarın izleyicileri, toplanmak yerine yargılanır.
 
 ![](/images/harvest_tr.jpg)
 
-Çünkü {{% int_link val="küçük tomarın" link="/quick/content/scroll" %}} içeriği buydu: Kilise İsa gibi davranmalıdır (Tanrı'nın gizemi), böylece tüm uluslar kurtulur.
+Bu, çemberi ilk meleğin sorusuna geri kapatır: uluslar kendilerine duyurulan müjdeyi gerçekten kabul ettiler mi? 10. bölümdeki {{% int_link val="küçük tomarın" link="/quick/content/scroll" %}} içeriği tam da buydu — kilisenin, uluslar yargılanmak yerine kurtulsun diye Mesih'in kendi örneğini onlara taşıması.
+
+[Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/harvest/gods-army-and-the-seven-angels" >}})

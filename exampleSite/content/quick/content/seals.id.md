@@ -1,8 +1,7 @@
 ---
 title: "Meterai-meterai (Pasal 6)"
 weight: 40
-story: /story/general/tour
-appl: /appl/content/seals
+story: /story/general/content/seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /quick/content/worship
 next: /quick/content/army
@@ -10,36 +9,26 @@ docType: quick
 kids: /kids/content/seals
 ---
 
+{{% bible val="Pasal 6" link="rev:6" lang="id" %}}.
 
-{{% bible val="Pasal 6" link="rev:6" lang="ind" %}}
+## Keempat penunggang kuda
 
-## Keempat Penunggang Kuda Apokaliptik
+Setelah Yesus terbukti layak membuka gulungan kitab itu, satu hal harus terjadi terlebih dahulu: menyingkapkan dia yang mengklaim kewenangan yang sama - Iblis.
 
-Setelah Yesus terbukti layak untuk membuka gulungan kitab itu, ada satu tugas penting yang harus diselesaikan terlebih dahulu: menyingkapkan sosok yang mengklaim hal yang sama - Iblis.
+Keempat meterai pertama melakukan tepat hal itu. Penunggang kuda Iblis mula-mula tampil di atas kuda putih, tampak berjaya, bermahkota, penuh janji - tetapi seiring meterai-meterai berikutnya dibuka, penunggang yang sama tersingkap membawa perang, lalu kesulitan ekonomi bagi orang miskin sementara orang kaya tak tersentuh, lalu kematian dan kehancuran. Bersama-sama keempat penunggang kuda itu menggemakan keempat penghakiman yang Allah peringatkan melalui para nabi: binatang buas, pedang, kelaparan, sampar - dan kuda putih serta mahkota pinjaman penunggang pertama sudah mengisyaratkan binatang yang akan muncul kemudian dengan penyamaran yang sama.
 
-Yesus menyingkapkannya dalam keempat meterai pertama. Mula-mula ia tampil sebagai pemenang dan dengan janji-janji besar. Tetapi ketika Yesus memaksanya untuk menunjukkan lebih banyak lagi, muncullah perang dan penganiayaan, kemudian kelaparan (orang-orang miskin), dan akhirnya kematian dan kehancuran. Inilah keempat penunggang kuda apokaliptik.
+Iblis tidak memiliki apa pun yang nyata untuk ditawarkan - hanya tiruan. Inilah kemunculan pertama trinitas tandingan yang terus berulang di sepanjang kitab ini: pola tiga bagian yang sama muncul lagi dalam {{% bible val="pasal 13" link="rev:13" lang="id" %}} dengan {{% int_link val="naga dan kedua binatang" link="/quick/content/beasts" %}}, dan lagi dalam {{% bible val="pasal 17" link="rev:17" lang="id" %}} dengan {{% int_link val="pelacur dan binatang itu" link="/quick/content/harlot" %}} - setiap kali menyingkapkan tiruan kosong yang sama atas kuasa Kristus yang sejati.
 
-Mereka disusun berdasarkan keempat malapetaka yang dikirim Allah: binatang buas, pedang, kelaparan, dan sampar. Mereka secara langsung mencerminkan urutan para penunggang kuda apokaliptik. Sementara penunggang kuda apokaliptik pertama mewakili binatang buas, ia sudah menunjukkan hubungan antara Iblis dan binatang yang akan muncul kemudian.
+![](/images/trinity_en.jpg)
 
-Iblis tidak memiliki apa pun untuk ditawarkan selain janji-janji kosong. Jadi ia melakukan satu-satunya hal yang bisa dilakukannya: ia meniru Kristus, tetapi kini ia telah disingkapkan.
+## Jiwa-jiwa di bawah mezbah
 
-Gambaran trinitas tandingan ini (di sini penunggang kuda apokaliptik keempat hanyalah ringkasan dari ketiga lainnya) berlanjut dalam kitab ini:
-- Dalam {{% bible val="pasal 13" link="rev:13" lang="ind" %}} kita juga melihat sebuah {{% int_link val="trinitas tandingan" link="/quick/content/beasts" %}} dengan kedua binatang itu dan Iblis sebagai sang naga di latar belakang
-- Juga {{% bible val="pasal 17" link="rev:17" lang="ind" %}} dengan {{% int_link val="sang pelacur dan binatang itu" link="/quick/content/harlot" %}} (binatang pertama dari pasal 13) mencerminkan tema ini. Di sini Iblis bahkan lebih tersembunyi.
+Meterai kelima menampakkan jiwa-jiwa para martir yang berseru dari bawah mezbah: "Berapa lama lagi, ya Penguasa yang kudus, hingga Engkau menghakimi penduduk bumi?" Mereka adalah orang-orang percaya yang telah melihat menembus tiruan Iblis dan membayarnya dengan nyawa mereka. Mereka diberi jubah putih - putusan Yesus sendiri bahwa mereka benar - dan diminta menanti sedikit waktu lagi, sementara orang-orang lain belum melihat apa yang telah mereka lihat.
 
-![](/images/trinity_de.jpg)
+Itulah ketegangan yang terus berjalan dalam kitab ini: semakin lama zaman ini berlangsung, semakin banyak orang berkesempatan mengenali kebenaran dan berbalik kepada Yesus - tetapi semakin lama zaman ini berlangsung, semakin lama pula orang-orang setia terus menderita demi kebenaran yang belum dipahami orang lain.
 
-## Jiwa-jiwa di Bawah Mezbah
+## Ketika semuanya berakhir
 
-Ini membawa kita pada teriakan jiwa-jiwa di bawah mezbah. Siapakah mereka ini? Mereka adalah gereja yang menderita akibat penyingkapan Iblis. Mereka telah memahami hakikat binatang itu dan hidup sesuai dengan pemahaman itu. Mereka ingin agar ini berakhir, dan mereka menerima jubah putih karena Yesus mengakui bahwa mereka benar. Tetapi yang lain belum memahaminya.
+Meterai keenam menunjukkan bahwa akhir itu akan datang, dengan tegas - bukan pergumulan yang berlarut-larut, melainkan tindakan akhir yang dramatis. Orang-orang di mana-mana ketakutan akan "murka Anak Domba", meskipun teksnya membiarkan terbuka apa persisnya alasannya: hati nurani mereka sendiri yang bersalah, ketakutan belaka terhadap kuasa yang nyata, atau anggapan - berdasarkan tiruan Iblis - bahwa Yesus akan memperlakukan mereka sebagaimana binatang itu akan memperlakukan mereka.
 
-Dan inilah ketegangan dalam kitab ini: Semakin lama waktu berlalu, semakin banyak orang mungkin memahaminya dan memilih untuk bersama Yesus. Tetapi semakin lama waktu yang dibutuhkan untuk menyingkapkan Iblis, semakin lama pula penderitaan orang-orang benar itu.
-
-## Semuanya Telah Berakhir
-
-Namun akan tiba waktunya ketika semuanya berakhir. Yesus datang dan mengakhirinya. Ini bukanlah pertarungan yang maju-mundur, melainkan sebuah gambaran yang sangat dramatis tentang betapa tegasnya Yesus mengakhiri semuanya.
-
-Semua orang di bumi ketakutan akan murka Anak Domba itu. Tetapi tidak terlalu jelas apa sebenarnya penyebabnya
-- Kesadaran mereka sendiri akan ketidakadilan?
-- Ketakutan mereka terhadap Yesus karena Ia begitu berkuasa
-- Pemikiran mereka tentang para penunggang kuda itu sebagai gambaran palsu tentang Yesus, dan anggapan bahwa Yesus akan memperlakukan mereka sebagaimana Iblis melakukannya.
+[Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}})

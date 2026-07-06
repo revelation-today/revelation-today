@@ -1,8 +1,7 @@
 ---
 title: "Fahişe (Böl. 17-19)"
 weight: 130
-story: /story/general/tour
-appl: /appl/content/harlot
+story: /story/general/content/harlot
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 prev: /quick/content/bowls
 next: /quick/content/1000y
@@ -12,38 +11,28 @@ kids: /kids/content/harlot
 
 {{% bible val="Bölüm 17" link="rev:17" lang="tr" %}}, {{% bible val="18" link="rev:18" lang="tr" %}} ve {{% bible val="19" link="rev:19" lang="tr" %}}.
 
-## Fahişenin gizemi mi?
+## Fahişenin maskesinin düşürülmesi
 
-Bu öykü şimdi kaselere bir ektir (mühürler ve borazanlarda da olduğu gibi). Tanrı'nın gazabının ana teması olan şeyi büyütüyor Bu yeni bir şey değil, ama daha önce sahip olduğumuz tüm kötülükleri tek bir karmaşık resimde özetliyor: Babil olan ve bir canavarın üzerinde oturan fahişe.
-
-Fahişe, yeryüzünün hükümdarını manipüle eden ve kutsalları öldüren biri olarak tanımlanır. Fahişe, daha sonra İsa'ya ve kutsallara karşı savaş düzenleyecek olan bir canavarın üzerinde oturmaktadır.
-
-Canavarın kendisi yeryüzünün kralları üzerinde kontrol sahibi olarak tanımlanır.
+Mühürlerin ve borazanların her birinin tamamlayıcı bir görümü olduğu gibi, bu kısım da tasları tamamlar ve şimdiye dek gördüğümüz tüm kötülüğü tek bir karmaşık imgede toplar: Babil adında bir fahişe; yeryüzünün krallarını denetleyen bir canavara binmiş, hükümdarları manipüle ediyor ve kutsalları öldürüyor.
 
 ![](/images/Hure+Tier_tr.jpg)
 
-Bu, kutsallara karşı durdurulamaz bir güç gibi görünmektedir. Ama ironi burada ortaya çıkar: Canavar ({{% bible val="13. bölümdeki yenilmez olarak tasvir edilen ilk canavar" link="rev:13,3-4" lang="tr" %}}) yenilmez olmaktan çok uzaktır ama {{% bible val="Tanrı" link="rev:1,8" lang="tr" %}} ile karşılaştırıldığında {{% bible val="güvenilmez" link="rev:17,8-11" lang="tr" %}} olarak alay edilmektedir.
+Durdurulamaz görünür — ama 13. bölümde yenilmez gibi görünen aynı canavarla şimdi açıkça alay edilir: güvenilmezdir; gerçekten "var olan, var olmuş ve gelecek olan" Tanrı'nın ({{% bible val="Vahiy 1:8" link="rev:1,8" lang="tr" %}}) yanında solup giden bir taklittir. Sonuçta ne canavar ne de fahişe kutsallara galip gelir; tam tersine, canavarı güçlendiren kralların ta kendileri dönüp fahişeyi kendi elleriyle yok eder — çünkü Tanrı bunu en baştan böyle planlamıştır.
 
-Dahası, canavar ve fahişe azizleri alt etmeyi başaramayacak, ancak tüm güçlerini canavara veren krallar tarafından yok edilecektir. Bu nasıl gerçekleşebilir? Çünkü Tanrı böyle olmasını istedi. Bunun nedenini daha sonra göreceğiz.
+Fahişe, Mesih'in Gelini'nin (kilisenin) karanlık karşılığıdır; çekici görünecek biçimde süslenmiş ekonomik ve mali gücü temsil eder — gelinin kendi görünüşüne o kadar yakındır ki, daha kolay ve daha müreffeh bir yol arayan imanlılar onun konukseverliğini meşru bir bereket sanabilir.
 
-Fahişenin kendisi Mesih'in Gelini'nin (Kilise) karşılığıdır ve öncelikle ekonomik ve mali gücü temsil eder. Ama dahası da var. Fahişe dışarıdan geline çok benzemektedir ve kolay yolu seçip akışa uymak isteyen (ve canavarın işaretini alan) Hıristiyanlar için ev sahibi olabilir.
+## Etkisi ve yargısı
 
-Fahişe bu dünyanın yöneticilerini refah getirmeleri için etkilemiştir (bu yüzden bir Hıristiyan olarak öncelikli hedefiniz buysa dikkatli olun).
+Yüzeyin altında, üçüncü mührün kıtlığındaki adaletsizliğin arkasında fahişe vardır: zenginler için el değmemiş lüks sürerken yoksullar için kıtlık; insanların mal gibi görülmesi. Refahın kendisinde yanlış bir şey yoktur — onu Tanrı da verir — ama Tanrı'dan daha önemli hale geldiğinde bu, Yeni Yeruşalim'in değil Babil'in vatandaşlığıdır. Tanıklığın bedelini ödemeden yalnızca rahat bir bereket isteyen bir kilise, sessizce gelin olmaktan çıkıp fahişenin konuğu olmuştur.
 
-## Fahişenin etkisi ve yargısı
+İsa müdahale ettiğinde hedef kilise değil fahişe olur; bir zamanlar canavara hizmet eden kralların ta kendileri tarafından yargılanır. Gururlu ve kendi güvenliğinden emin olan fahişenin çöküşü ansızın gelir — tıpkı tarihteki Babil'de olduğu gibi — ve başkalarına dağıttığı ölçünün aynısıyla.
 
-Fahişe, dışarıdan kilise gibi görünse de, kilisenin ve tanıklarının azılı bir düşmanıdır ve kargaşaya neden olur. Daha yakından incelendiğinde, fahişe {{% bible val="üçüncü mührün" link="rev:6,5-6" lang="tr" %}} nedenidir: Açlık, ekonomik adaletsizliğe dayanır, ancak lüks malların mevcudiyetini sağlar ve kitlelerin acı çekmesine rağmen zenginleri sağlar. İnsanlar diğer kaynaklar gibi malzeme olarak kabul edilir.
+![](/images/Hure_en.jpg)
 
-Mükemmel kilise (rahatsız edici tanıklık ve şehitliğe değil, bereket ve refaha odaklanan kilise) olmak da fahişenin kaderidir: Canavar kiliseye saldırmaya çalışırken İsa müdahale eder ve hedef kilise yerine fahişedir. Krallar, canavarın temsilcileri olarak fahişeye yargı getirirler.
-
-Fahişe gururludur ve kendini dokunulmaz olarak görür, bu nedenle tarihi Babil'de olduğu gibi yargısı çabuk gelecektir. Babil çifte ölçü ile yargılanacaktır, yani başkalarına dağıttığı şeyin aynısını çekecektir.
-
-![](/images/Hure_tr.jpg)
-
-Fahişenin tanımına neden bu kadar uzun vurgu yapılıyor (iki bölümden fazla)? Çünkü bizler rahatlıktan adalete çağrılıyoruz. {{% bible val="Eğer fahişenin bir parçasıysak" link="rev:18,4" lang="tr" %}}, bu bizi putperestliğe götürecektir (Eski Ahit'te putperestlik ticaretle bağlantılıdır) ve bu da insanları sevmeyip sömürdüğümüz davranışlarımızı değiştirecektir.
+Kitap ona neden iki bölümden fazla yer ayırıyor? Çünkü fahişenin "bir parçası olmak" ({{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}}) — Eski Antlaşma'da putperestlikle ticaretin iç içe geçmesi gibi, sadakati zenginlikle takas etmek — insanlara davranışımızı sevgiden sömürüye doğru yeniden biçimlendirir.
 
 ## Peki ya şimdi?
 
-Fahişe yargılandı, yani şimdi Mesih'in Gelini düğün için hazır. Kilise artık Damadını görmeye hazırdır. Ama önce O, şeytani üçlünün geri kalanını yargılar.
+Fahişe yargılandığına göre, gelin sonunda düğününe hazırdır. Ama önce İsa, canavardan ve sahte peygamberden geriye kalanları bitirir — bir savaşla değil, bir mahkemeyle: ağzından çıkan bir kılıç, her birini sırayla yargılar.
 
-Ağzından çıkardığı bir kılıçla gelir ve her birini tek başına yargılar (melekler sadece şeytanı ve sahte peygamberi yakalamak için oradadır). Bu bir savaş değil, daha çok bir mahkeme salonudur. İsa son yargıyı getirir.
+[Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/harlot/who-is-the-harlot-babylon-part-2" >}})

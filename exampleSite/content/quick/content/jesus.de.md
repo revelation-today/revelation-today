@@ -1,8 +1,7 @@
 ---
 title: "Der Sieg Jesu (Kap. 12)"
 weight: 90
-story: /story/general/tour
-appl: /appl/content/jesus
+story: /story/general/content/jesus
 expl: /expl/content/jesus/a-different-christmas-story
 prev: /quick/content/witnesses
 next: /quick/content/beasts
@@ -10,25 +9,20 @@ docType: quick
 kids: /kids/content/jesus
 ---
 
+{{% bible val="Kapitel 12" link="rev:12" lang="de" %}}.
 
-{{% bible val="Kapitel 12" link="rev:12" lang="de" %}}).
+## Satans lückenlose Bilanz des Scheiterns
 
-## Satans ständiges Versagen
+Kapitel 12 erzählt die Weihnachtsgeschichte aus kosmischer Perspektive neu: Eine Frau (Israel) bringt ein Kind (Jesus) zur Welt, und ein Drache (Satan) wartet mit einem Drittel der Sterne - den gefallenen Engeln - darauf, es im Moment der Geburt zu verschlingen; ein Echo auf Herodes' Anschlag auf das Jesuskind. Stattdessen wird das Kind zu Gottes Thron entrückt.
 
-Die Geschichte beginnt mit einer anderen Weihnachtsgeschichte: Die Frau (Israel) bringt Jesus (das Kind) zur Welt, den Satan (der Drache) mit Hilfe aller seiner gefallenen Engel (ein Drittel der Sterne) zu vernichten versucht, sobald Jesus geboren ist (Tötung durch Herodes).
+Von der Himmelsseite aus gesehen spielt sich dasselbe Ereignis als Krieg ab: Michael (verbunden mit dem "Menschensohn" in den späteren Kapiteln Daniels und damit mit Jesus) kämpft gegen den Drachen und wirft ihn endgültig aus dem Himmel - gesiegt wird, wohlgemerkt, "durch das Blut des Lammes und das Wort ihres Zeugnisses". Wütend wendet sich der Drache gegen die Frau selbst, doch selbst die Flut, die er ihr nachschickt, scheitert - verschluckt von der Erde, ein Echo auf das Rote Meer, das das Heer des Pharao verschlang, damit Israel entkommen konnte; und die "Adlerflügel", die sie bekommt, erinnern an Gottes eigene Verheißung in {{% bible val="Jesaja 40,31" link="isa:40,31" lang="de" %}}.
 
-Aber Jesus überwindet schließlich und wird in den Himmel aufgefahren.
-
-Drehen wir das Ganze nun aus der himmlischen Perspektive um: Michael, der in der zweiten Hälfte von Daniel mit dem Menschensohn (Jesus) verbunden ist, kämpft mit Satan, der nun aus dem Himmel geworfen wird. Nebenbei bemerkt: Der Sieg über Satan wurde auch durch das Zeugnis der Heiligen errungen.
-
-So böse er auch ist, Satan versucht, Israel, das Jesus geboren hat, zu vernichten, aber auch das scheitert. Der Strom aus seinem Mund erinnert an den Auszug durch das Rote Meer, das die Erde verschluckte, damit Israel hindurchziehen konnte, und die Adlerflügel sind eine {{% bible val="Verheißung aus Jesaja" link="isa:40,31" lang="de" %}}.
-
-Nun versammelt Satan zwei Tiere, um den Samen des Kindes, der Jesus nachfolgt (die Kirche), anzugreifen. Nun, Sie können sich denken, wie das endet. Satan hat in allem, was er tat, versagt.
+Schließlich wendet sich der Drache gegen "die Übrigen von ihren Nachkommen" - alle, die Jesus nachfolgen. An diesem Punkt des Kapitels ist das Muster unübersehbar: Jeder einzelne Versuch des Drachen endet im Scheitern.
 
 ![](/images/jesus_de.jpg)
 
-## Die Drangsal
+## Warum die Trübsal zunimmt
 
-Nachdem Satan aus dem Himmel geworfen wurde, heißt es, {{% bible val="dass dies eine schlechte Nachricht für die Menschen auf der Erde ist" link="rev:12,12" lang="de" %}}. Nach seiner Niederlage würde man erwarten, dass Satan sich bedeckt hält, aber das Gegenteil ist der Fall. Er hat nur wenig Zeit, also richtet er so viel Schaden wie möglich an.
+Nach seiner Niederlage verkündet eine Stimme, dass dies eine schlechte Nachricht für die Erde ist ({{% bible val="Offenbarung 12,12" link="rev:12,12" lang="de" %}}) - nicht weil Satan stärker geworden wäre, sondern weil er weiß, dass "seine Zeit kurz ist". Ein besiegter Feind, der nichts mehr zu verlieren hat, zieht sich nicht zurück; er richtet auf dem Weg nach draußen so viel Schaden an wie möglich. Das ist die Gestalt der Großen Trübsal, die dieses Kapitel einführt: kein Leiden als Strafe für Fehlverhalten, sondern die Folgen eines verlierenden Feindes, der um sich schlägt, bevor seine Zeit vollends abläuft.
 
-Anstelle eines einfachen Lebens haben wir nun unprovozierte Angriffe Satans, die auch als die Große Trübsal bezeichnet werden: Wir leiden, ohne etwas falsch gemacht zu haben.
+[Die ausführlichere Erklärung lesen →]({{< relref "expl/content/jesus/a-different-christmas-story" >}})

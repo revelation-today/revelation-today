@@ -1,8 +1,7 @@
 ---
-title: "Küçük parşömen (Böl. 10)"
+title: "Küçük tomar (Böl. 10)"
 weight: 70
-story: /story/general/tour
-appl: /appl/content/scroll
+story: /story/general/content/scroll
 expl: /expl/content/scroll/the-little-scroll
 prev: /quick/content/trumpets
 next: /quick/content/witnesses
@@ -10,13 +9,12 @@ docType: quick
 kids: /kids/content/scroll
 ---
 
+{{% bible val="Bölüm 10" link="rev:10" lang="tr" %}}.
 
-{{% bible val="Bölüm 10" link="rev:10" lang="tr" %}}
+Yargı tek başına insanların yüreklerini döndürmedi — bu yüzden şimdi yeni bir giz açıklanır: Tanrı'nın kendi gizi ve kilisesinden ne istediği.
 
-İnsanları dua yoluyla Tanrı'ya çekmeye yönelik başarısız girişimden sonra, ortaya çıkarılacak yeni bir gizeme ihtiyaç vardır. Bu kez Tanrı'nın gizemi söz konusudur.
+Güçlü bir melek belirir; Yuhanna'nın 1. bölümde İsa'yı tanımladığı sözlerle tanımlanır — ve elinde küçük bir tomar tutar. Bu, bilinçli olarak, 5. bölümde yalnızca İsa'nın açmaya layık bulunduğu büyük tomarı yankılar. Yuhanna'ya bu tomarı yemesi söylenir: ağzında tatlıdır, tıpkı müjdenin kendisi gibi, ama midesinde acılaşır — bir sonraki bölümde gelecek olanın bir ön tadı. İsa kesin zaferi çarmıhta çoktan kazandı; bu küçük tomar, o zaferi uluslara taşımak için kiliseye hâlâ bedeli ağır, vazgeçilmez bir rol kaldığını gösterir.
 
-Tüm sahne, {{% bible val="Daniel peygamberin insanoğlu olarak" link="rev:1,7" lang="tr" %}} tanımlamasından {{% bible val="İsa" link="rev:1,13-16" lang="tr" %}} gibi görünen bir melekle başlar. Ve elinde küçük bir tomar vardır. Bu, {{% bible val="İsa'nın açmaya layık olduğu" link="rev:5,1-7" lang="tr" %}} tomarla ilgili diğer referansla öyküye bağlanır.
+Bu rol açıklanmadan önce bir ayrıntı içimizi rahatlatır: melek bir ayağını denize, bir ayağını karaya basar ({{% bible val="Vahiy 10:5" link="rev:10,5" lang="tr" %}}) — 13. bölümde canavarların yükseleceği tam da o iki yer. Ne gelirse gelsin, Tanrı zaten onun üzerinde durmaktadır, tam denetim O'ndadır.
 
-Yuhanna'nın tatlı (müjde) ama aynı zamanda acı olan bu tomarı yemesi (içselleştirmesi) gerekir - özellikle bir sonraki bölümde göreceğiz. Bu tomar Tanrı'nın gizemini açığa çıkarır: İsa gibi olmaktır. Bunun ne anlama geldiği sonraki bölümlerde açıklanacaktır. 
-
-Ama oraya girmeden önce bize Tanrı'nın {{% bible val="karşılaştığımız her şey üzerinde tam kontrol sahibi olduğu" link="rev:10,5" lang="tr" %}} hatırlatılır: Gördüğümüz gibi canavarlar karadan ve denizden gelir ve ayak basmak bir şey üzerinde kontrol sahibi olmak anlamına gelir.
+[Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/scroll/the-little-scroll" >}})

@@ -1,36 +1,24 @@
 ---
-title: "Die beiden Ernten (Kap. 14)"
+title: "Die zwei Ernten (Kap. 14)"
 weight: 110
-story: /story/general/tour
-appl: /appl/content/harvest
-expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
-prev: /quick/content/witnesses
+story: /story/general/content/harvest
+expl: /expl/content/harvest/gods-army-and-the-seven-angels
+prev: /quick/content/beasts
 next: /quick/content/bowls
 docType: quick
 kids: /kids/content/harvest
 ---
 
+{{% bible val="Kapitel 14" link="rev:14" lang="de" %}}.
 
-{{% bible val="Kapitel 14" link="rev:14" lang="de" %}}).
+Nach der totalen, furchterregenden Machtübernahme des Tieres in Kapitel 13 ist jetzt eines klar: Die Sieger sind die 144.000, die fest auf dem Berg Zion stehen, und ihr entscheidendes Merkmal ist die Treue zu Gott allein. Sie stehen am gläsernen Meer und singen ein Siegeslied, das nur sie lernen können - eine Erinnerung daran, dass Gott über all dem souverän bleibt.
 
-Nach der eindrucksvollen Darstellung des Drachens und der beiden Tiere ist eines klar. Die Sieger sind die Gläubigen. Und ihre Hauptstärke ist ihre Treue zu Gott (als Jungfrauen). Sie stehen am gläsernen Meer als Mahnung, dass Gott über alles Böse souverän ist und singen das Siegeslied.
+Bevor das Gericht über die Anhänger des Tieres hereinbricht, verkündet zuerst ein Engel das Evangelium jeder Nation, jedem Stamm, jeder Sprache und jedem Volk auf der Erde. Zwei weitere Engel sprechen dann das Gericht über Babylon aus und über jeden, der das Tier anbetet.
 
-Nun kommt die Strafe für die Anhänger des Tieres. Aber vorher kommt ein Engel und verkündet, dass das Evangelium für alle Menschen auf dieser Erde gilt.
-
-Die nächsten beiden Engel verkünden das Gericht über die Anhänger des Tieres. 
-
-Die restlichen vier Engel beschreiben zwei Ernten.
-
-Die 
-- erste Ernte ist eine Sammlung der Gläubigen
-    - eine Gestalt, die dem Menschensohn (Jesus) ähnelt, führt sie an
-    - es handelt sich nur um eine Sammlung, nicht um die Verarbeitung der Ernte
-- während die zweite das Gericht über die Ungläubigen ist
-    - auch hier wird die Ernte verarbeitet (Trauben werden zertrampelt)
-    - ihr Blut wird fließen (Jesu Blut bedeckt sie nicht)
-
-Und hier schließt sich der Kreis zum ersten Engel. Wie haben die Völker reagiert? Haben sie sich das Evangelium zu Herzen genommen.
+Die übrigen Szenen beschreiben zwei Ernten. Die erste ist eine Getreideernte, eingebracht von einer Gestalt, die dem Menschensohn gleicht - die Treuen, die einfach eingesammelt werden, ohne dass ein Gericht damit verbunden wäre. Die zweite ist eine Traubenernte, geworfen in "die große Kelter des Zornes Gottes", zertreten, bis Blut fließt - die Anhänger des Tieres, die gerichtet statt eingesammelt werden.
 
 ![](/images/harvest_de.jpg)
 
-Denn das war der Inhalt der {{% int_link val="kleinen Schriftrolle" link="/quick/content/scroll" %}}: Die Kirche muss wie Jesus handeln (Geheimnis Gottes), damit alle Völker gerettet werden.
+Damit schließt sich der Kreis zur Frage des ersten Engels: Haben die Völker das Evangelium, das ihnen verkündet wurde, wirklich angenommen? Genau das war der Inhalt der {{% int_link val="kleinen Schriftrolle" link="/quick/content/scroll" %}} in Kapitel 10 - die Gemeinde, die das Lebensmuster Christi zu den Völkern trägt, damit sie gerettet und nicht gerichtet werden.
+
+[Die ausführlichere Erklärung lesen →]({{< relref "expl/content/harvest/gods-army-and-the-seven-angels" >}})

@@ -1,8 +1,7 @@
 ---
 title: "Penyembahan (Pasal 4-5)"
 weight: 20
-story: /story/general/tour
-appl: /appl/content/worship
+story: /story/general/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals
@@ -10,41 +9,24 @@ docType: quick
 kids: /kids/content/worship
 ---
 
+{{% bible val="Pasal 4" link="rev:4" lang="id" %}} dan {{% bible val="5" link="rev:5" lang="id" %}}.
 
-{{% bible val="Pasal 4" link="rev:4" lang="ind" %}} dan {{% bible val="5" link="rev:5" lang="ind" %}}.
+## Jawaban atas semua masalah dalam pasal 2-3
 
-## Jawaban atas Segala Pertanyaan
+Sebelum hal lain terjadi, Yohanes diberi kesempatan melihat sekilas ke dalam ruang takhta surga - dan itulah jawaban atas segala pergumulan ketujuh jemaat. Allah tidak panik. Setiap orang dan segala sesuatu di ruangan itu menemukan tempatnya yang sejati dalam hubungannya dengan Dia, dan semuanya memberikan kemuliaan kepada-Nya, sambil meletakkan segala klaim status yang mungkin ingin mereka pertahankan.
 
-Apa jawaban atas situasi ini? Allah tidak panik, melainkan mengundang kita untuk melihat sekilas ke dalam ruang takhta.
+Penyembahan semacam itulah obat yang sesungguhnya bagi penyakit Efesus, Sardis, dan Laodikia: mengenal Allah dengan benar melindungi dari ajaran yang salah dan dari pandangan yang keliru tentang diri sendiri, dan penyerahan penuh kepada-Nya itulah yang memampukan sebuah jemaat memercayai pemeliharaan-Nya dan berani mengambil risiko nyata bagi Dia, sebagaimana yang sudah dilakukan Smirna dan Filadelfia.
 
-Itu adalah tempat pengabdian penuh kepada-Nya. Dialah pusatnya, dan setiap orang menemukan tempatnya masing-masing sesuai dengan bagaimana ia terhubung dengan Allah. Dan semuanya memberikan kemuliaan kepada-Nya serta melepaskan hak-hak mereka.
+## Dari mana malapetaka-malapetaka itu berasal
 
-Di sinilah kita menemukan jawaban atas masalah-masalah itu
-- mengenal Allah lebih baik
-    - melindungi kita dari ajaran-ajaran sesat
-    - melindungi kita agar tidak salah memandang diri kita sendiri
-- menyerahkan diri sepenuhnya kepada-Nya
-    - kita percaya kepada-Nya dan mengalami bahwa Ia menyediakan bagi kita
-    - kita berani mengambil risiko demi Dia
+Yang mencolok, setiap malapetaka yang menyusul di sisa kitab ini - meterai, sangkakala, cawan - berasal dari ruang takhta yang sama ini, yang dipenuhi penyembahan. Hal itu bisa terasa sulit diselaraskan dengan kehancuran yang akan datang, tetapi patut kita pegang selama malapetaka-malapetaka itu terungkap: segala sesuatu yang menyusul datang dari takhta yang sama yang dikelilingi belas kasihan, bukan dari sumber lain yang lebih kejam.
 
-## Sumber Malapetaka-malapetaka Itu
+## Gulungan kitab yang hanya dapat dibuka oleh satu Pribadi
 
-Di sisi lain, semua malapetaka (meterai, sangkakala, cawan) berasal dari ruang takhta yang dipenuhi dengan penyembahan. Bagaimana ini bisa dipahami?
+Gulungan kitab yang dimeteraikan tujuh kali ({{% bible val="Wahyu 5:1-5" link="rev:5,1-5" lang="id" %}}) adalah benda hukum yang lazim bagi para pembaca pertama tulisan Yohanes: sebuah dokumen yang dimeteraikan oleh para saksi, dengan isinya diringkas di bagian luar, yang menjadi berlaku secara hukum - seperti surat wasiat atau ketetapan - begitu dibuka. Pertanyaan tentang siapa yang "layak" membukanya bukanlah tentang siapa yang *boleh membacanya*, melainkan siapa yang *berwenang melaksanakannya* - dan isinya tampaknya tidak kurang dari rencana Allah sendiri bagi sejarah.
 
-Ini membutuhkan pemahaman yang lebih baik tentang malapetaka-malapetaka itu, tetapi ada beberapa petunjuk bahwa apa yang keluar dari tempat ini diselimuti oleh belas kasihan dan kasih sayang. Kita perlu mempertimbangkan hal ini ketika nanti kita membahas malapetaka-malapetaka itu.
+Tidak seorang pun ditemukan layak - sampai Yohanes diberi tahu bahwa Singa dari Yehuda telah menang. Tetapi ketika ia berpaling untuk melihat, yang *dilihatnya* sama sekali bukan seekor singa: seekor Anak Domba, tampak seperti telah disembelih. Yohanes *mendengar* satu hal dan *melihat* hal lain yang menafsirkannya kembali secara menyeluruh - Mesias penakluk yang dinanti-nantikan semua orang ternyata menaklukkan melalui pengorbanan. Pola dengar/lihat yang sama terulang kemudian pada ke-144.000 itu (pasal 7): diumumkan sebagai pasukan, dinyatakan sebagai kumpulan besar penyembah.
 
-## Gulungan Kitab Itu
+![](/images/hear_en.jpg)
 
-{{% bible val="Gulungan kitab dengan ketujuh meterai" link="rev:5,1-5" lang="ind" %}} adalah hal pertama dalam kitab ini yang sangat aneh. Namun pada zaman pembaca pertama, hal itu sangatlah lumrah. Itu adalah sebuah dokumen yang dimeteraikan oleh tujuh saksi, dengan isinya diringkas di bagian luar, sehingga ketika dokumen itu dibuka, dokumen itu menjadi berlaku seperti sebuah undang-undang atau surat wasiat.
-
-Pertanyaan tentang siapa yang layak membukanya bukanlah "siapa yang boleh membacanya", melainkan "siapa yang berwenang melaksanakannya". Meskipun di sini belum sepenuhnya jelas apa isinya, tampaknya itu adalah rencana Allah, karena Yohanes sangat hancur hati sebab tidak seorang pun ditemukan layak untuk membuka gulungan kitab itu.
-
-Sosok itu ditemukan layak: tentu saja, Yesus. Tetapi cara hal ini disajikan memberi kita pemahaman yang lebih mendalam tentang kitab ini.
-
-Pada awalnya Yohanes hanya **mendengar** bahwa Ia adalah singa dari Yehuda (sosok yang kuat dan perkasa), tetapi apa yang **dilihatnya** justru sebaliknya: seekor Anak Domba yang telah disembelih.
-
-Dalam sastra kenabian, kita biasanya **melihat** sebuah penglihatan di mana penerimanya kewalahan oleh gambaran itu dan membutuhkan penerjemahan ke dalam sesuatu yang dapat dipahaminya, yang kemudian ia **dengar**.
-
-![](/images/hear_de.jpg)
-
-Di sini hal itu dibalik: tema yang sangat dikenal tentang Mesias yang menggulingkan para penguasa dijelaskan melalui Anak Domba korban itu. Inilah cara Allah menaklukkan dunia ini dan menjatuhkan penghakiman. Gambaran yang persis sama kita jumpai kemudian dengan {{% bible val="144.000" link="rev:7,5-17" lang="ind" %}} (sebuah pasukan yang sebenarnya adalah para penyembah yang keluar dari kesengsaraan itu).
+[Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/worship/the-book-with-the-seven-seals" >}})

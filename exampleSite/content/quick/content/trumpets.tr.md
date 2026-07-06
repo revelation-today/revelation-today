@@ -1,8 +1,7 @@
 ---
-title: "Trompetler (Böl. 8-9)"
+title: "Borazanlar (Böl. 8-9)"
 weight: 60
-story: /story/general/tour
-appl: /appl/content/trumpets
+story: /story/general/content/trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 prev: /quick/content/seals
 next: /quick/content/scroll
@@ -10,31 +9,18 @@ docType: quick
 kids: /kids/content/trumpets
 ---
 
-
 {{% bible val="Bölüm 8" link="rev:8" lang="tr" %}} ve {{% bible val="9" link="rev:9" lang="tr" %}}.
 
-## Dua
+## Borazanları harekete geçiren dua
 
-Bu bölüm son mühürle başlar ve borazanları tanıtır. Son mühürden sonra cennette bir sessizlik dönemi yaşanır. Yahudi literatüründe bu genellikle Tanrı'nın kutsalların dualarını dinlediği zamandır.
+Yedinci mühürden sonra gökte sessizlik olur — Yahudi geleneğinde bu, Tanrı'nın halkının dualarına dikkatle kulak verdiği andır. Hemen ardından olan da tam olarak budur: melekler borazanlarını çalmaya hazırdır, ama önce kutsalların dualarının sunulmasını beklerler. Mühürler nasıl İsa'nın çarmıhtaki ölümüyle harekete geçirildiyse, borazanlar da duayla harekete geçirilir. Duanın gerçekte neyi başardığına dair çarpıcı bir ifadedir bu.
 
-Ve bunu izleyen şey de budur. Ancak dikkate alınması gereken önemli bir unsur vardır: Melekler borazanı çalmak için hazırlanırlar ama beklerler: Duaların Tanrı'ya sunulmasını beklerler.
+## Borazanlar ne yapar?
 
-Ne güzel bir ifade: Dualar borazanlara neden olduğu gibi, İsa'nın çarmıhtaki ölümü de mühürlere ve Tanrı'nın çanaklara olan tutkusuna neden olmuştur. Duanın önemi hakkında ne güzel bir açıklama.
+Mısır'ın belaları örnek alınarak biçimlendirilen ilk dört borazan, insanların dayandığı sıradan güvenceleri birer birer söker alır: su, yiyecek, doğal düzen, ticaret ve ekonomi. Şeytani güçlerin sürüklediği sonraki iki borazan daha da ileri gider: iç huzuru ve umudu, sonra da yaşamın kendisini.
 
-## Borazanlar
+İşte şaşırtıcı dönüş: Vahiy, insanların yalnızca daha da katılaştığını değil, gerçekten karışık bir tepkiyi anlatır — kısmi de olsa gerçek tövbe yönelişleri, süregelen başkaldırıyla yan yana ilerler; özellikle de kendilerini az önce yüzüstü bırakan putlara hâlâ tutunanlar arasında. Yargı tek başına bir yüreği nadiren tümüyle değiştirir; ama bir çıkmaz sokak olarak da sunulmaz — kitaptaki diğer her şeyle birlikte, çok geç olmadan sahte güvenceleri bırakmaya yönelik bir çağrıdır daha.
 
-Trompetler esas olarak tek bir şey yapar: İnsanların sahip olduğu tüm güvenceleri ortadan kaldırır.
-- su
-- Yemek
-- oryantasyon
-- ticaret/ekonomi
-
-Ama devam ediyor, şimdi şeytani varlık neden oluyor: 
-- sağlik ve umut
-- hayatın kendisi
-
-Ancak tüm bu olanlardan sonra insanlar hala kalplerini değiştirmiyorlar. Umutlarını, refahlarını ve hatta yaşamlarını ellerinden alan aynı şeytanlara bile tutunuyorlar. Bu bir çıkmaz sokak gibi görünüyor. İnsanlar artık daha da içine kapanmıştır. Çözüm, Tanrı'nın gizeminin açıklandığı bir sonraki bölümdür. Ama önce kiliseye bir göz atalım.
-
-Kilise {{% bible val="beşinci borazandan" link="rev:9,4-6" lang="tr" %}} korunmuştur ({{% bible val="mühür tarafından" link="rev:7,1-4" lang="tr" %}}) - tüm sıkıntılara katlanırken ve hatta yaşamlarını kaybederken umutlarını kaybetmeyeceklerdir. Ancak aynı güvencelerin ve hatta hayatlarının kaybına katlanmak, insanların gerçek güvencelerin ne olduğunu görmelerini sağlamak için bunu harika bir tanıklık haline getirir.
+Bu arada kilise — 7. bölümde zaten mühürlenmiş olan — beşinci borazanın işkencesinden özellikle ayrı tutulur ({{% bible val="Vahiy 9:4-6" link="rev:9,4-6" lang="tr" %}}). Bu, rahat bir yolculuk demek değildir: imanlılar da aynı güvenceleri yitirir, kimileri yaşamını kaybeder. Ama bu kaybı umudu yitirmeden göğüslemek, izleyen dünyaya gerçek güvencenin neye benzediğini gösteren tam da o tür bir tanıklık haline gelir.
 
 ![](/images/trumpets_tr.jpg)

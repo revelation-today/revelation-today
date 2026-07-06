@@ -1,30 +1,28 @@
 ---
 title: "Sang Naga dan Kedua Binatang (Pasal 13)"
 weight: 100
-story: /story/general/tour
-appl: /appl/content/beasts
+story: /story/general/content/beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /quick/content/jesus
 next: /quick/content/harvest
 docType: quick
 kids: /kids/content/beasts
 ---
-{{% bible val="Pasal 13" link="rev:13" lang="ind" %}}
 
-Iblis telah dikalahkan. Segala sesuatu yang dimulainya telah gagal. Sekarang ia menyerang gereja.
+{{% bible val="Pasal 13" link="rev:13" lang="id" %}}.
 
-Dan ia melakukannya dengan dua cara:
-- dengan kekerasan mentah dan penganiayaan
-- dengan tipu daya
+Iblis telah dikalahkan - segala yang diupayakannya dalam pasal 12 gagal. Kini, karena tidak punya apa-apa lagi untuk dipertaruhkan, ia mengalihkan perhatiannya kepada gereja, menyerang di dua garis depan sekaligus: kekerasan mentah dan penganiayaan, serta tipu daya.
 
-Poin kedua ini sangat penting, karena memberikan banyak wawasan. Sang naga dan kedua binatang itu menciptakan sebuah trinitas tandingan yang menyerupai Allah, Yesus, dan Roh Kudus, dengan meniru tema kuasa dan otoritas, kebangkitan, dan mukjizat.
+Tipu daya itulah yang lebih banyak menyingkapkan. Sang naga, disertai seekor binatang dari laut dan seekor binatang dari bumi, membentuk parodi gelap dari Allah, Kristus, dan Roh Kudus - masing-masing meniru kuasa dan otoritas yang sejati, semacam kebangkitan, dan tanda-tanda ajaib. Dalam konteks abad pertama, ini menunjuk langsung kepada Roma: sebuah kekaisaran yang menuntut penyembahan kaisar sebagai allah yang hidup, didukung oleh mesin propaganda keagamaan (binatang kedua) yang membuat seluruh sistem itu tampak kudus.
 
-Meskipun pada pandangan pertama ini tampak seperti tipu daya yang sempurna, ada perbedaan besar. Sementara Yesus melakukan segala sesuatu karena kasih, dalam kelemahan, dan mengizinkan penolakan, sang naga dan antek-anteknya sama sekali tidak mengizinkan hal itu dan justru merupakan kebalikannya sepenuhnya.
+Betapapun meyakinkannya tiruan itu pada pandangan pertama, perbedaannya bersifat menentukan. Yesus memerintah melalui kasih, dalam kelemahan yang tampak, rela ditolak. Sistem Iblis memerintah melalui ketakutan, manipulasi, penganiayaan, dan kematian, dan sama sekali tidak pernah sanggup menunjukkan kelemahan.
 
-![](/images/trinity_de.jpg)
+![](/images/trinity_en.jpg)
 
-Itulah perbedaan antara gereja dan perbuatan Iblis. Sementara Iblis dapat menggunakan banyak kuasa, gerejalah yang dikenal karena bekerja dengan kasih tanpa ketakutan atau manipulasi.
+Kontras itulah yang seharusnya membedakan gereja dari semua orang yang terpedaya oleh tiruan itu: bukan kuasa yang lebih besar, melainkan kerelaan untuk mengasihi tanpa perlu ketakutan atau manipulasi sebagai penopangnya.
 
-Binatang kedua juga menarik: ia memiliki {{% bible val="dua tanduk seperti anak domba, tetapi suaranya seperti naga" link="rev:13,11" lang="ind" %}}. Orang-orang akan terjebak dalam tipu daya ini karena penampilannya seperti anak domba. Perbedaannya hanya terletak pada suaranya. Dan hanya domba-domba Yesuslah yang mendengar suara-Nya.
+Binatang kedua digambarkan memiliki "dua tanduk seperti anak domba, tetapi ia berbicara seperti naga" ({{% bible val="Wahyu 13:11" link="rev:13,11" lang="id" %}}) - cukup mirip dengan Anak Domba yang sejati untuk memperdaya hampir semua orang. Satu-satunya hal yang membongkarnya adalah suaranya - dan hanya mereka yang sudah mengenal suara Yesus yang dapat membedakannya.
 
-Jadi dunia tertipu, tetapi gereja mampu mengenali perbedaannya dan bertindak sesuai dengan itu.
+Adapun angka 666: alih-alih sebuah kode yang menunjuk satu tokoh tertentu di masa depan, angka itu berfungsi sebagai putusan kitab Wahyu sendiri atas seluruh trinitas tandingan ini - kurang satu dari kesempurnaan yang dilambangkan oleh 777, sebuah kegagalan yang spektakuler dan terulang tiga kali.
+
+[Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) · [Binatang-binatang itu dalam konteks sejarahnya →]({{< relref "expl/content/beasts/the-beasts-and-the-666-in-historical-context" >}})

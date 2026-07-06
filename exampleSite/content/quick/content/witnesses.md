@@ -2,7 +2,6 @@
 title: "The two witnesses (Ch. 11)"
 weight: 80
 story: /story/general/content/witnesses
-appl: /appl/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /quick/content/scroll
 next: /quick/content/jesus
@@ -15,30 +14,16 @@ kids: /kids/content/witnesses
 
 {{% bible val="Chapter 11" link="rev:11" lang="en" %}}.
 
-The mystery of God will be revealed in this chapter. 
-
-The chapter consists of three parts
-- the temple
-- the two witnesses
-- the aftermath and revelation of Gods presence
-
-and this is all covered (including the next two chapters) with a strange timeslot which is identical and describes the time from Jesus first coming to his second coming: 
-1260 days = 42 months = 3,5 times (years). 
-This is the time when God completes his plan according to {{% bible val="Daniel" link="dan:9,24-27" lang="en" %}} and a time of the question who is the real God (based on {{% bible val="Elija" link="1ki:19" lang="en" %}}.
+This chapter, together with the vision that follows, is marked by a strange but consistent time period - 1,260 days, 42 months, "a time, times and half a time" - all naming the same 3½ years. Rather than a literal countdown, this figure (borrowed from Daniel 9 and Elijah's 3½-year drought in 1 Kings) seems to describe the whole age between Christ's first and second comings: the time it takes for God's plan to reach completion, and the time in which the real question - who is the true God - gets settled.
 
 ## The temple
 
-The scenary starts with the temple which is no longer used for sacrifices, but it is the place of worship. 
-Everything else is released for destruction. 
-As the temple is the presence of God it means that the presence of God is defined by worship which means devotion and loyalty to him alone.
+The scene opens in a temple no longer used for animal sacrifice but for worship - everything outside it is given over to be trampled. Since the temple represents God's presence, the message is that his presence is now defined by worship: undivided devotion and loyalty to him alone, wherever that's found.
 
-## The witnesses
+## The two witnesses
 
-This is what the witnesses do. They fully devote them selves to the life of Christ. 
-They come in sack clothes, they perform signs and miracles, but the important point comes, when they are at their weakest point.
+That's exactly what the two witnesses embody: total devotion to the pattern of Christ's own life. Dressed in sackcloth, they perform real signs - but the decisive moment comes at their weakest point, not their most powerful. They are defeated, killed, and publicly humiliated - and then, like Jesus, raised to life and taken up to heaven. This isn't a literal biography of two specific individuals so much as a picture of how far faithfulness goes: what makes the witnesses effective isn't their miracles, it's their loyalty all the way through apparent defeat.
 
-The are defeated, killed and exposed for humiliation. But as well as Christ they are raised to live and raised to heaven. This is the story of Jesus. 
+Then comes an unexpected turn: a great earthquake brings judgment, but 90 percent of the city's people survive it and give glory to God - a striking reversal of the more usual biblical pattern where only a small remnant is spared. Here, an overwhelming majority make it through.
 
-This is not a description of a literal behaviour but shows how far they go in the loyalty to Christ. And this is what makes the difference, not their authority and miracles.
-
-And than the miracle happens: A big judgment comes but 90%(!!!) of the people are saved. This is another paradox as normally biblical description of judgment leaves 10%. What an overwhelming success.
+[Read the fuller explanation →]({{< relref "expl/content/witnesses/the-two-witnesses" >}})

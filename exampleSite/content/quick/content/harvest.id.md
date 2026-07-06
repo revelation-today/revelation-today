@@ -1,35 +1,24 @@
 ---
 title: "Kedua Penuaian (Pasal 14)"
 weight: 110
-story: /story/general/tour
-appl: /appl/content/harvest
-expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
-prev: /quick/content/witnesses
+story: /story/general/content/harvest
+expl: /expl/content/harvest/gods-army-and-the-seven-angels
+prev: /quick/content/beasts
 next: /quick/content/bowls
 docType: quick
 kids: /kids/content/harvest
 ---
 
+{{% bible val="Pasal 14" link="rev:14" lang="id" %}}.
 
-{{% bible val="Pasal 14" link="rev:14" lang="ind" %}}).
+Setelah pengambilalihan total yang menakutkan oleh binatang itu dalam pasal 13, satu hal kini menjadi jelas: para pemenangnya adalah ke-144.000 itu, yang berdiri teguh di atas Bukit Sion, dengan ciri utama kesetiaan kepada Allah saja. Mereka berdiri di tepi lautan kaca, menyanyikan nyanyian kemenangan yang hanya dapat dipelajari oleh mereka - sebuah pengingat bahwa Allah tetap berdaulat atas semuanya ini.
 
-Setelah penggambaran yang mengesankan tentang sang naga dan kedua binatang itu, satu hal menjadi jelas. Para pemenangnya adalah orang-orang percaya. Dan kekuatan utama mereka adalah kesetiaan mereka kepada Allah (sebagai perawan-perawan). Mereka berdiri di atas lautan kaca sebagai peringatan bahwa Allah berdaulat atas segala kejahatan, dan mereka menyanyikan nyanyian kemenangan.
+Sebelum penghakiman menimpa para pengikut binatang itu, seorang malaikat terlebih dahulu memberitakan Injil kepada segala bangsa, suku, bahasa, dan kaum di bumi. Dua malaikat berikutnya lalu mengumumkan penghakiman atas Babel dan atas siapa pun yang menyembah binatang itu.
 
-Sekarang datanglah hukuman bagi para pengikut binatang itu. Tetapi sebelum itu, seorang malaikat datang dan memberitakan bahwa Injil berlaku bagi semua orang di bumi ini.
+Adegan-adegan selanjutnya menggambarkan dua penuaian. Yang pertama adalah penuaian gandum, yang dikumpulkan oleh sesosok yang menyerupai Anak Manusia - orang-orang setia, yang hanya dikumpulkan, tanpa penghakiman apa pun. Yang kedua adalah penuaian buah anggur, yang dilemparkan ke dalam "kilangan besar murka Allah," diinjak-injak sampai darah mengalir - para pengikut binatang itu, yang dihakimi, bukan dikumpulkan.
 
-Kedua malaikat berikutnya memberitakan penghakiman atas para pengikut binatang itu.
+![](/images/harvest_en.jpg)
 
-Keempat malaikat yang tersisa menggambarkan dua penuaian.
+Ini menutup lingkaran kembali ke pertanyaan malaikat pertama: apakah bangsa-bangsa sungguh menerima Injil yang diberitakan kepada mereka? Justru itulah isi {{% int_link val="gulungan kitab kecil" link="/quick/content/scroll" %}} dalam pasal 10 - gereja membawa pola hidup Kristus sendiri kepada bangsa-bangsa, supaya mereka diselamatkan dan bukan dihakimi.
 
-- Penuaian pertama adalah pengumpulan orang-orang percaya
-    - sesosok yang menyerupai Anak Manusia (Yesus) memimpinnya
-    - ini hanya sekadar pengumpulan, bukan pengolahan hasil panen
-- sedangkan penuaian kedua adalah penghakiman atas orang-orang yang tidak percaya
-    - di sini hasil panen juga diolah (buah anggur diinjak-injak)
-    - darah mereka akan mengalir (darah Yesus tidak menutupi mereka)
-
-Dan di sinilah lingkaran itu kembali ke malaikat pertama. Bagaimana tanggapan bangsa-bangsa? Apakah mereka menerima Injil itu dengan sungguh-sungguh?
-
-![](/images/harvest_de.jpg)
-
-Sebab itulah isi dari {{% int_link val="gulungan kitab kecil" link="/quick/content/scroll" %}}: Gereja harus bertindak seperti Yesus (rahasia Allah), supaya semua bangsa diselamatkan.
+[Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/harvest/gods-army-and-the-seven-angels" >}})

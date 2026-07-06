@@ -1,30 +1,28 @@
 ---
-title: "Der Drache und die beiden Tiere (Kap. 13)"
+title: "Der Drache und die zwei Tiere (Kap. 13)"
 weight: 100
-story: /story/general/tour
-appl: /appl/content/beasts
+story: /story/general/content/beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /quick/content/jesus
 next: /quick/content/harvest
 docType: quick
 kids: /kids/content/beasts
 ---
-{{% bible val="Kapitel 13" link="rev:13" lang="de" %}}
 
-Satan ist besiegt. Alles, was er angefangen hat, ist gescheitert. Jetzt greift er die Kirche an.
+{{% bible val="Kapitel 13" link="rev:13" lang="de" %}}.
 
-Und er tut dies auf zweierlei Weise:
-- Mit roher Gewalt und Verfolgung
-- mit Täuschung
+Satan ist besiegt - alles, was er in Kapitel 12 versucht hat, ist gescheitert. Jetzt, wo er nichts mehr zu verlieren hat, richtet er seine Aufmerksamkeit auf die Gemeinde und greift an zwei Fronten gleichzeitig an: mit roher Gewalt und Verfolgung - und mit Täuschung.
 
-Der zweite Punkt ist sehr wichtig, denn er gibt viele Einblicke. Der Drache und die beiden Tiere schaffen eine Dreifaltigkeit, die Gott, Jesus und dem Heiligen Geist ähnelt, indem sie das Thema Macht und Autorität, Auferstehung und Wunder aufgreifen.
+Die Täuschung ist die aufschlussreichere von beiden. Der Drache bildet zusammen mit einem Tier aus dem Meer und einem Tier aus der Erde eine dunkle Parodie auf Gott, Christus und den Heiligen Geist - jeder ahmt echte Macht und Autorität nach, eine Art Auferstehung und Wunderzeichen. Im Umfeld des ersten Jahrhunderts zielte das direkt auf Rom: ein Reich, das die Anbetung des Kaisers als lebendigen Gott verlangte, gestützt von einer religiösen Propagandamaschine (dem zweiten Tier), die das ganze System heilig aussehen ließ.
 
-Auch wenn dies auf den ersten Blick wie eine perfekte Täuschung aussieht, gibt es große Unterschiede. Während Jesus alles aus Liebe, in Schwäche tut und Ablehnung zulässt, lassen der Drache und seine Lakaien dies überhaupt nicht zu und sind das komplette Gegenteil.
+So überzeugend die Fälschung auf den ersten Blick wirkt - die Unterschiede sind entscheidend. Jesus herrscht durch Liebe, in scheinbarer Schwäche, bereit, abgelehnt zu werden. Satans System herrscht durch Angst, Manipulation, Verfolgung und Tod - und kann es sich niemals leisten, Schwäche zu zeigen.
 
 ![](/images/trinity_de.jpg)
 
-Das ist der Unterschied zwischen der Kirche und dem Tun Satans. Während Satan viel Macht einsetzen kann, ist es die Kirche, die sich dadurch auszeichnet, dass sie aus Liebe und ohne Angst oder Manipulation arbeitet. 
+Genau dieser Kontrast sollte die Gemeinde von allen unterscheiden, die auf die Fälschung hereinfallen: nicht größere Macht, sondern die Bereitschaft zu lieben, ohne Angst oder Manipulation als Rückhalt zu brauchen.
 
-Das zweite Tier ist ebenfalls interessant: Es hat {{% bible val="zwei Hörner wie ein Lamm, aber die Stimme eines Drachens" link="rev:13,11" lang="de" %}}. Die Menschen werden auf die Täuschung hereinfallen, weil es wie ein Lamm aussieht. Der Unterschied besteht nur in der Stimme. Und nur Jesu Schafe hören seine Stimme.
+Das zweite Tier wird beschrieben mit "zwei Hörnern wie ein Lamm, aber es redete wie ein Drache" ({{% bible val="Offenbarung 13,11" link="rev:13,11" lang="de" %}}) - dem echten Lamm ähnlich genug, um fast alle zu täuschen. Das Einzige, was es verrät, ist seine Stimme - und nur wer die Stimme Jesu schon kennt, hört den Unterschied.
 
-Die Welt wird also getäuscht, aber die Kirche ist in der Lage, den Unterschied zu erkennen und entsprechend zu handeln.
+Und die Zahl 666: Statt ein Code zu sein, der eine bestimmte zukünftige Einzelperson benennt, ist sie das eigene Urteil der Offenbarung über diese ganze gefälschte Dreieinigkeit - jeweils eins zu wenig gegenüber der Vollkommenheit der 777, ein spektakuläres, dreifach wiederholtes Scheitern.
+
+[Die ausführlichere Erklärung lesen →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) · [Die Tiere in ihrem historischen Umfeld →]({{< relref "expl/content/beasts/the-beasts-and-the-666-in-historical-context" >}})
