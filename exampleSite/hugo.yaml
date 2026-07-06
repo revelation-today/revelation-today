@@ -27,18 +27,302 @@ languages:
     languageName: Deutsch
     weight: 10
     title: Das Buch Offenbarung
+    menus:
+      main:
+        - identifier: home
+          name: Start
+          params:
+            icon: home
+          pageRef: /
+          weight: 1
+        - identifier: story
+          name: Poetische Geschichte
+          params:
+            icon: book-open
+          pageRef: /story
+          weight: 2
+        - identifier: quick
+          name: Schnell
+          params:
+            icon: lightning-bolt
+          pageRef: /quick
+          weight: 3
+        - identifier: kids
+          name: Kinder
+          params:
+            icon: academic-cap
+          pageRef: /kids
+          weight: 4
+        - identifier: sermons
+          name: Predigten
+          params:
+            icon: speakerphone
+          pageRef: /sermons
+          weight: 5
+        - identifier: explanation
+          name: Vertiefung
+          params:
+            icon: light-bulb
+          pageRef: /expl
+          weight: 6
+        - identifier: guide
+          name: Kapitel für Kapitel
+          params:
+            icon: table
+          pageRef: /guide
+          weight: 7
+        - identifier: themes
+          name: Themen
+          params:
+            icon: question-mark-circle
+          pageRef: /themes
+          weight: 8
+        - identifier: contact
+          name: Kontakt
+          params:
+            icon: chat
+          pageRef: /contact
+          weight: 9
+        - identifier: help
+          name: Hilfe
+          pageRef: /help
+          params:
+            type: help
+          weight: 10
+        - name: Suche
+          weight: 11
+          params:
+            type: search
+      sidebar:
+        - identifier: about
+          name: "Über"
+          pageRef: "/about"
+          weight: 4
   en:
     languageName: English
     weight: 20
     title: The Book of Revelation
+    menus:
+      main:
+        - identifier: home
+          name: Home
+          params:
+            icon: home
+          pageRef: /
+          weight: 1
+        - identifier: story
+          name: Poetic story
+          params:
+            icon: book-open
+          pageRef: /story
+          weight: 2
+        - identifier: quick
+          name: Quick
+          params:
+            icon: lightning-bolt
+          pageRef: /quick
+          weight: 3
+        - identifier: kids
+          name: Kids
+          params:
+            icon: academic-cap
+          pageRef: /kids
+          weight: 4
+        - identifier: sermons
+          name: Sermons
+          params:
+            icon: speakerphone
+          pageRef: /sermons
+          weight: 5
+        - identifier: explanation
+          name: Deep dive
+          params:
+            icon: light-bulb
+          pageRef: /expl
+          weight: 6
+        - identifier: guide
+          name: Chapter by chapter
+          params:
+            icon: table
+          pageRef: /guide
+          weight: 7
+        - identifier: themes
+          name: Themes
+          params:
+            icon: question-mark-circle
+          pageRef: /themes
+          weight: 8
+        - identifier: contact
+          name: Contact
+          params:
+            icon: chat
+          pageRef: /contact
+          weight: 9
+        - identifier: help
+          name: Help
+          pageRef: /help
+          params:
+            type: help
+          weight: 10
+        - name: Search
+          weight: 11
+          params:
+            type: search
+      sidebar:
+        - identifier: about
+          name: "About"
+          pageRef: "/about"
+          weight: 4
   id:
     languageName: Bahasa Indonesia
     weight: 30
     title: Kitab Wahyu
+    menus:
+      main:
+        - identifier: home
+          name: Beranda
+          params:
+            icon: home
+          pageRef: /
+          weight: 1
+        - identifier: story
+          name: Kisah Puitis
+          params:
+            icon: book-open
+          pageRef: /story
+          weight: 2
+        - identifier: quick
+          name: Cepat
+          params:
+            icon: lightning-bolt
+          pageRef: /quick
+          weight: 3
+        - identifier: kids
+          name: Anak-anak
+          params:
+            icon: academic-cap
+          pageRef: /kids
+          weight: 4
+        - identifier: sermons
+          name: Khotbah
+          params:
+            icon: speakerphone
+          pageRef: /sermons
+          weight: 5
+        - identifier: explanation
+          name: Mendalam
+          params:
+            icon: light-bulb
+          pageRef: /expl
+          weight: 6
+        - identifier: guide
+          name: Bab demi Bab
+          params:
+            icon: table
+          pageRef: /guide
+          weight: 7
+        - identifier: themes
+          name: Tema
+          params:
+            icon: question-mark-circle
+          pageRef: /themes
+          weight: 8
+        - identifier: contact
+          name: Kontak
+          params:
+            icon: chat
+          pageRef: /contact
+          weight: 9
+        - identifier: help
+          name: Bantuan
+          pageRef: /help
+          params:
+            type: help
+          weight: 10
+        - name: Cari
+          weight: 11
+          params:
+            type: search
+      sidebar:
+        - identifier: about
+          name: "Tentang"
+          pageRef: "/about"
+          weight: 4
   tr:
     languageName: Türkçe
     weight: 40
     title: Vihay
+    menus:
+      main:
+        - identifier: home
+          name: Ana Sayfa
+          params:
+            icon: home
+          pageRef: /
+          weight: 1
+        - identifier: story
+          name: Şiirsel Hikaye
+          params:
+            icon: book-open
+          pageRef: /story
+          weight: 2
+        - identifier: quick
+          name: Hızlı
+          params:
+            icon: lightning-bolt
+          pageRef: /quick
+          weight: 3
+        - identifier: kids
+          name: Çocuklar
+          params:
+            icon: academic-cap
+          pageRef: /kids
+          weight: 4
+        - identifier: sermons
+          name: Vaazlar
+          params:
+            icon: speakerphone
+          pageRef: /sermons
+          weight: 5
+        - identifier: explanation
+          name: Derinlemesine
+          params:
+            icon: light-bulb
+          pageRef: /expl
+          weight: 6
+        - identifier: guide
+          name: Bölüm Bölüm
+          params:
+            icon: table
+          pageRef: /guide
+          weight: 7
+        - identifier: themes
+          name: Temalar
+          params:
+            icon: question-mark-circle
+          pageRef: /themes
+          weight: 8
+        - identifier: contact
+          name: İletişim
+          params:
+            icon: chat
+          pageRef: /contact
+          weight: 9
+        - identifier: help
+          name: Yardım
+          pageRef: /help
+          params:
+            type: help
+          weight: 10
+        - name: Ara
+          weight: 11
+          params:
+            type: search
+      sidebar:
+        - identifier: about
+          name: "Hakkında"
+          pageRef: "/about"
+          weight: 4
 
 module:
   hugoVersion:
@@ -57,79 +341,6 @@ markup:
     noClasses: false
 
 enableInlineShortcodes: true
-
-menu:
-  main:
-    - identifier: home
-      name: Home
-      params:
-        icon: home
-      pageRef: /
-      weight: 1
-    - identifier: story
-      name: Poetic story
-      params:
-        icon: book-open
-      pageRef: /story
-      weight: 2
-    - identifier: quick
-      name: Quick
-      params:
-        icon: lightning-bolt
-      pageRef: /quick
-      weight: 3
-    - identifier: kids
-      name: Kids
-      params:
-        icon: academic-cap
-      pageRef: /kids
-      weight: 4
-    - identifier: sermons
-      name: Sermons
-      params:
-        icon: speakerphone
-      pageRef: /sermons
-      weight: 5
-    - identifier: explanation
-      name: Deep dive
-      params:
-        icon: light-bulb
-      pageRef: /expl
-      weight: 6
-    - identifier: guide
-      name: Chapter by chapter
-      params:
-        icon: table
-      pageRef: /guide
-      weight: 7
-    - identifier: themes
-      name: Themes
-      params:
-        icon: question-mark-circle
-      pageRef: /themes
-      weight: 8
-    - identifier: contact
-      name: Contact
-      params:
-        icon: chat
-      pageRef: /contact
-      weight: 9
-    - identifier: help
-      name: Help
-      pageRef: /help
-      params:
-        type: help
-      weight: 10
-    - name: Search
-      weight: 11
-      params:
-        type: search
-
-  sidebar:
-    - identifier: about
-      name: "About"
-      pageRef: "/about"
-      weight: 4
 
 params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
