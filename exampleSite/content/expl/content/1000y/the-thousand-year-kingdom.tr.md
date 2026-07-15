@@ -4,7 +4,7 @@ weight: 2
 base: /quick/content/1000y
 story: /story/general/tour
 prev: /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
-next: /expl/content/paradise/the-new-jerusalem
+next: /expl/content/1000y/pre-post-and-amillennialism
 docType: expl
 appl: /appl/content/1000y
 sources:

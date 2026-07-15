@@ -19,7 +19,7 @@ Die Offenbarung beginnt mit ein paar Sätzen, die man leicht überliest — und 
 <a name="7a04"></a>
 „{{% bible val="Offenbarung Jesu Christi, die Gott ihm gegeben hat, um seinen Knechten zu zeigen, was rasch geschehen soll; und er hat sie bekannt gemacht und durch seinen Engel seinem Knecht Johannes gesandt" link="rev:1,1" lang="de" %}}"
 
-Das Buch beginnt mit voller Wucht, als „Offenbarung Jesu Christi" (griechisch „Apokalypsis Iesou Christou"), „die Gott ihm gab, um seinen Knechten zu zeigen, was bald geschehen muss".
+Das Buch beginnt mit voller Wucht, als „Offenbarung Jesu Christi" (griechisch „Apokalypsis Iesou Christou"), „die Gott ihm gab, um seinen Knechten zu zeigen, was bald geschehen muss". (Wer dieser Johannes war und wann er schrieb, sind beides tatsächlich umstrittene Fragen — siehe {{% int_link val="wer die Offenbarung geschrieben hat, und wann" link="/expl/topics/others/who-wrote-revelation-and-when" %}} für einen kurzen Überblick und warum das für die Lesart mancher späterer Artikel wichtig ist.)
 
 Das Wort „Apokalypse" weckt vermutlich bestimmte Bilder in deinem Kopf — aber genau das ist hier nicht gemeint. Selbst die genaue, wörtliche Übersetzung „Offenbarung Jesu" lässt noch Fragen offen, denn {{% int_link val="Apokalypse ist eine literarische Gattung, die vorgibt, wie dieses Buch gelesen werden soll" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}: Es ist ein Buch, das provoziert und zum Handeln auffordert, kein Code, der geknackt werden muss.
 

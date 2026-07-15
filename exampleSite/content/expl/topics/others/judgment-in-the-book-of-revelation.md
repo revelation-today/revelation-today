@@ -2,7 +2,7 @@
 title: "Judgment in the book of revelation"
 themes: ["judgment"]
 weight: 5
-prev: /expl/topics/others/the-rapture
+prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /welcome/done
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture

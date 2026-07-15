@@ -45,6 +45,12 @@ In the {{% int_link val="reference articles" link="/welcome/expl" %}} you will f
 
 ## Good to read additionally
 
+<a name="bock_millennium"></a>
+
+### Darrell L. Bock (ed.): Three Views on the Millennium and Beyond
+
+A single volume where three scholars each defend their own view of the millennium — premillennial, postmillennial, and amillennial — and respond directly to one another. Useful for seeing the strongest form of each argument, made by someone who actually holds it, rather than a summary from an outsider.
+
 <a name="aune_rev"></a>
 
 ### David Aune: Revelation

@@ -19,7 +19,7 @@ Vahiy kitabı, kolayca gözden kaçırabileceğimiz ama sonrasında gelen her ş
 <a name="1995"></a>
 “{{% bible val="İsa Mesih’in vahyidir bu. Tanrı, yakında olması gerekenleri kullarına göstermek için bu vahyi O’na verdi; O da meleğini göndererek bunu kulu Yuhanna’ya bildirdi." link="rev:1,1" lang="tr" %}}”
 
-Kitap yoğun bir girişle başlar: “İsa Mesih’in Vahyi” (Yunanca Apokalypsis Iesou Christou), “Tanrı’nın, kullarına yakında olması gerekenleri göstermek için O’na verdiği” vahiy.
+Kitap yoğun bir girişle başlar: “İsa Mesih’in Vahyi” (Yunanca Apokalypsis Iesou Christou), “Tanrı’nın, kullarına yakında olması gerekenleri göstermek için O’na verdiği” vahiy. (Bu Yuhanna'nın kim olduğu ve ne zaman yazdığı, gerçekten tartışmalı sorulardır — kısa bir genel bakış ve bunun bazı sonraki makalelerin nasıl okunduğu için neden önemli olduğunu görmek için bkz. {{% int_link val="Vahiy'i kim, ne zaman yazdı" link="/expl/topics/others/who-wrote-revelation-and-when" %}}.)
 
 “Kıyamet” kelimesi muhtemelen zihninizde belirli görüntüler uyandırıyor — ama burada kastedilen bu değildir. Doğru, birebir çeviri olan “İsa’nın Vahyi” ifadesi bile soruları açık bırakır, çünkü {{% int_link val="kıyamet, bu kitabın nasıl okunması gerektiğini belirleyen bir edebi türdür" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}: çözülecek bir şifre değil, kışkırtan ve eylem talep eden bir kitaptır.
 

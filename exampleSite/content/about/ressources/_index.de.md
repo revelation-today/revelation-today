@@ -33,6 +33,12 @@ Es ist ein [kompromiertes und sehr interessantes Buch,](https://www.wob.com/en-g
 
 ## Weiterführende Bücher
 
+<a name="bock_millennium"></a>
+
+### Darrell L. Bock (Hrsg.): Three Views on the Millennium and Beyond
+
+Ein einzelner Band, in dem drei Theologen jeweils ihre eigene Sicht des Millenniums verteidigen – prämillennialistisch, postmillennialistisch und amillennialistisch – und direkt aufeinander antworten. Nützlich, um die stärkste Form jedes Arguments zu sehen, vorgetragen von jemandem, der die Position tatsächlich vertritt, statt von einer Zusammenfassung aus fremder Feder.
+
 <a name="goreman"></a>
 
 ### Michael Goreman: Reading Revelation Responsible

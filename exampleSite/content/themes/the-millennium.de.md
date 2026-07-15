@@ -1,7 +1,7 @@
 ---
 title: "Was ist das Millennium - das tausendjährige Reich?"
 weight: 10
-expl: /expl/content/1000y/the-thousand-year-kingdom
+expl: /expl/content/1000y/pre-post-and-amillennialism
 docType: themes
 ---
 
@@ -9,4 +9,4 @@ docType: themes
 
 Offenbarung 20 ist zudem eine der wenigen Stellen im ganzen Buch, die im übrigen Neuen Testament kaum eine Parallele hat - auch deshalb ist sie so umstritten. Eine Lesart, die es sich zu verstehen lohnt: Vielleicht blickt die Passage zurück, nicht nach vorn - als symbolischer Rückblick auf das Zeitalter zwischen Christi erstem und zweitem Kommen, in dem die, die im Glauben gestorben sind (darunter ausdrücklich die Märtyrer, die um ihres Zeugnisses willen enthauptet wurden), schon jetzt mit ihm herrschen, auf verborgene, aber sehr reale Weise. Welche Sicht du auch vertrittst oder gerade erkundest - dieser Text will etwas Hoffnungsvolles sagen: dass Treue, selbst bis in den Tod, nie vergeblich ist - sie ist bereits eine Art Herrschaft.
 
-[Mehr lesen →]({{< relref "expl/content/1000y/the-thousand-year-kingdom" >}})
+[Mehr lesen →]({{< relref "expl/content/1000y/pre-post-and-amillennialism" >}})

@@ -31,6 +31,12 @@ Bu çok yoğun ve faydalı bir referans. Okuması oldukça kolay ve içgörüler
 
 ## Ek olarak okumak güzel
 
+<a name="bock_millennium"></a>
+
+### Darrell L. Bock (ed.): Three Views on the Millennium and Beyond
+
+Üç farklı ilahiyatçının kendi milenyum görüşünü — premilenyalist, postmilenyalist ve amilenyalist — savunduğu ve birbirine doğrudan yanıt verdiği tek bir cilt. Her argümanın en güçlü halini, dışarıdan bir özetleyici yerine o görüşü gerçekten savunan biri tarafından anlatılmış şekilde görmek için faydalı.
+
 <a name="aune_rev"></a>
 
 ### David Aune: Revelation

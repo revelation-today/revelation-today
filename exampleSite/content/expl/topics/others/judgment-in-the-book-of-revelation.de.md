@@ -2,7 +2,7 @@
 title: "Gericht im Buch Offenbarung"
 themes: ["Gericht"]
 weight: 5
-prev: /expl/topics/others/the-rapture
+prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /welcome/done
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture

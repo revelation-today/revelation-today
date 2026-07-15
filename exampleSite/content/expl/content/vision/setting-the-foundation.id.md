@@ -19,7 +19,7 @@ Kitab Wahyu dibuka dengan beberapa pernyataan yang mudah kita lewatkan begitu sa
 <a name="7a04"></a>
 "{{% bible val="Inilah wahyu Yesus Kristus, yang dikaruniakan Allah kepada-Nya, supaya ditunjukkan-Nya kepada hamba-hamba-Nya apa yang harus segera terjadi. Dan oleh malaikat-Nya yang diutus-Nya, Ia telah menyatakannya kepada hamba-Nya Yohanes" link="rev:1,1" lang="ind" %}}"
 
-Kitab ini dibuka dengan nada yang tegas, sebagai "Wahyu Yesus Kristus" (dalam bahasa Yunani, Apokalypsis Iesou Christou), "yang dikaruniakan Allah kepada-Nya, supaya ditunjukkan-Nya kepada hamba-hamba-Nya apa yang harus segera terjadi".
+Kitab ini dibuka dengan nada yang tegas, sebagai "Wahyu Yesus Kristus" (dalam bahasa Yunani, Apokalypsis Iesou Christou), "yang dikaruniakan Allah kepada-Nya, supaya ditunjukkan-Nya kepada hamba-hamba-Nya apa yang harus segera terjadi". (Siapa Yohanes ini, dan kapan ia menulis, keduanya adalah pertanyaan yang benar-benar diperdebatkan — lihat {{% int_link val="siapa yang menulis Kitab Wahyu, dan kapan" link="/expl/topics/others/who-wrote-revelation-and-when" %}} untuk ringkasan singkat dan mengapa hal ini penting bagi cara beberapa artikel selanjutnya membaca teks tersebut.)
 
 Kata "apokalips" mungkin memunculkan bayangan tertentu di benakmu - tetapi bukan itu maksudnya di sini. Bahkan terjemahan yang akurat dan literal, "Wahyu Yesus", masih menyisakan pertanyaan, sebab {{% int_link val="apokalips adalah sebuah genre sastra yang menentukan bagaimana kitab ini seharusnya dibaca" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}: ini adalah kitab yang memprovokasi dan menuntut tindakan, bukan kode yang harus dipecahkan.
 

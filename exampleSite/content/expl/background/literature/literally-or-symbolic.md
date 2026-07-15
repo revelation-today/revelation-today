@@ -5,7 +5,7 @@ sources:
     - pages: 50–69
       ref: beale_rev
 prev: /expl/background/literature/the-book-of-revelation-how-to-read-it
-next: /expl/background/literature/full-of-biblical-references
+next: /expl/background/literature/preterist-historicist-futurist-or-idealist
 docType: expl
 appl: /appl/background/literature
 ---

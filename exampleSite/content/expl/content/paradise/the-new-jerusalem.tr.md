@@ -3,7 +3,7 @@ title: "Yeni Kudüs"
 weight: 2
 base: /quick/content/paradise
 story: /story/general/tour
-prev: /expl/content/1000y/the-thousand-year-kingdom
+prev: /expl/content/1000y/pre-post-and-amillennialism
 next: /expl/content/paradise/heaven-and-hell
 docType: expl
 appl: /appl/content/paradise

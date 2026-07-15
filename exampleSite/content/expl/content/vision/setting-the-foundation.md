@@ -19,7 +19,7 @@ The book of Revelation begins with a few statements that are easy to skim past, 
 <a name="33b5"></a>
 “{{% bible val="The revelation from Jesus Christ, which God gave him to show his servants what must soon take place. He made it known by sending his angel to his servant John." link="rev:1,1" lang="en" %}}”
 
-The book opens intensely, as the "Revelation of Jesus Christ" (Apokalypsis Iesou Christou in Greek), "which God gave him to show his servants what must soon take place."
+The book opens intensely, as the "Revelation of Jesus Christ" (Apokalypsis Iesou Christou in Greek), "which God gave him to show his servants what must soon take place." (Who this John was, and when he wrote, are both genuinely debated questions — see {{% int_link val="who wrote Revelation, and when" link="/expl/topics/others/who-wrote-revelation-and-when" %}} for a short overview and why it matters for how some later articles read the text.)
 
 The word "apocalypse" probably triggers certain images in your mind — but that's not what it means here. Even the accurate, literal translation, "Revelation of Jesus," still leaves questions open, because {{% int_link val="apocalypse is a literary genre that describes how to read this book" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}: it's a book that provokes and demands action, not a code to be cracked.
 

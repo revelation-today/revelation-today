@@ -4,7 +4,7 @@ weight: 30
 sources:
     - pages: 82–83
       ref: beale_rev
-prev: /expl/background/literature/literally-or-symbolic
+prev: /expl/background/literature/preterist-historicist-futurist-or-idealist
 next: /expl/background/literature/literary-tools-in-the-book-of-revelation
 docType: expl
 appl: /appl/background/literature

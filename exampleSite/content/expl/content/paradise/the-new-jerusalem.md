@@ -3,7 +3,7 @@ title: "The New Jerusalem"
 weight: 2
 base: /quick/content/paradise
 story: /story/general/content/paradise
-prev: /expl/content/1000y/the-thousand-year-kingdom
+prev: /expl/content/1000y/pre-post-and-amillennialism
 next: /expl/content/paradise/heaven-and-hell
 docType: expl
 appl: /appl/content/paradise
