@@ -79,7 +79,7 @@ Teori ini memperlakukan gereja sebagai sebuah konstruksi antara, terjepit di ant
 
 Ada beberapa hal yang keliru dalam konstruksi ini. Tetapi sebelum membahasnya, perlu diakui bahwa pandangan ini setidaknya menjadi penyeimbang yang baik terhadap teori lama yang menyatakan bahwa Allah telah sepenuhnya menolak Israel — sebuah teori yang memberi gereja alasan untuk menganiaya orang Yahudi sepanjang Abad Pertengahan.
 
-Jadi, apa sebenarnya yang keliru dari pandangan ini?
+Jadi, apa sebenarnya yang keliru dari pandangan ini? (Pandangan alternatif yang diuraikan di bawah ini biasa disebut teologi perjanjian — satu gereja, satu umat Allah, sepanjang kedua Perjanjian itu.)
 
 - Gereja {{% int_link val="diidentifikasikan dengan Israel" link="/expl/background/israel/the-church-is-part-of-israel" %}} dalam arti bahwa gereja telah menjadi penggenapan dari panggilan Israel semula, dan {{% bible val="gereja adalah bagian dari Israel" link="rom:11,13-24" lang="ind" %}}.
 - {{% bible val="Tidak ada lagi tembok pemisah atau perbedaan antara Israel dan bangsa-bangsa lain" link="eph:2,11-22" lang="ind" %}}.

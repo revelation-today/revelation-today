@@ -57,6 +57,19 @@ Anda ingin tahu lebih banyak tentang buku ini. Anda dipersilakan untuk mempelaja
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
+    title="Penerapan"
+    link="../appl"
+    subtitle="Apa yang sebenarnya dituntutnya darimu."
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/lamp.jpg"
+    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}
+</br></br>
+
+{{< hextra/feature-grid>}}
+  {{< hextra/feature-card
     title="Untuk anak-anak"
     link="../kids/tour"
     subtitle="Diceritakan sederhana untuk anak-anak."

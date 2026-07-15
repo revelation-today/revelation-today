@@ -79,7 +79,7 @@ Die Theorie behandelt die Gemeinde als Zwischenkonstrukt, eingeklemmt zwischen d
 
 An dieser Konstruktion ist einiges falsch. Aber bevor wir dazu kommen, sei anerkannt, dass diese Sicht immerhin ein gutes Gegengewicht zu der älteren Theorie ist, Gott habe Israel rundweg verworfen — eine Theorie, die der Kirche im Mittelalter einen Vorwand gab, Juden zu verfolgen.
 
-Was genau ist also falsch daran?
+Was genau ist also falsch daran? (Die im Folgenden skizzierte Alternative wird gewöhnlich Bundestheologie genannt — eine Gemeinde, ein Volk Gottes, über beide Testamente hinweg.)
 
 - Die Gemeinde wird {{% int_link val="mit Israel identifiziert" link="/expl/background/israel/the-church-is-part-of-israel" %}} in dem Sinn, dass sie zur Erfüllung von Israels ursprünglicher Berufung geworden ist, und {{% bible val="die Gemeinde ist Teil von Israel" link="rom:11,13-24" lang="de" %}}.
 - Es gibt {{% bible val="keine Mauer und keinen Unterschied mehr zwischen Israel und den Nationen" link="eph:2,11-22" lang="de" %}}.

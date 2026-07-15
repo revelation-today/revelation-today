@@ -79,7 +79,7 @@ The theory treats the church as an intermediate construct, wedged between the Ol
 
 There are several things wrong with this construction. But before getting to them, it's worth acknowledging that this view is at least a good counterweight to the older theory that God rejected Israel outright — a theory that gave the church an excuse to persecute Jews throughout the Middle Ages.
 
-So what exactly is wrong with it?
+So what exactly is wrong with it? (The alternative sketched below is usually called covenant theology — one church, one people of God, across both Testaments.)
 
 - The church is {{% int_link val="identified with Israel" link="/expl/background/israel/the-church-is-part-of-israel" %}} in the sense that it has become the fulfillment of Israel's original calling, and {{% bible val="the church is part of Israel" link="rom:11,13-24" lang="en" %}}.
 - There is {{% bible val="no longer a wall or distinction between Israel and the Gentiles" link="eph:2,11-22" lang="en" %}}.

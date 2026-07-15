@@ -57,6 +57,19 @@ Bu kitap hakkında daha fazla bilgi edinmek istiyorsunuz. Bu rehberi ilginize g�
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
+    title="Uygulama"
+    link="../appl"
+    subtitle="Senden gerçekte ne istediği."
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/lamp.jpg"
+    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}
+</br></br>
+
+{{< hextra/feature-grid>}}
+  {{< hextra/feature-card
     title="Çocuklar için"
     link="../kids/tour"
     subtitle="Çocuklar için sade bir şekilde anlatılmış."

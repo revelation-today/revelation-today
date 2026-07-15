@@ -44,6 +44,19 @@ Du möchtest mehr über dieses Buch erfahren. Du bist herzlich eingeladen, diese
    
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
+    title="Anwendung"
+    link="../appl"
+    subtitle="Was es konkret von dir verlangt."
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/lamp.jpg"
+    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}
+</br></br>
+
+{{< hextra/feature-grid>}}
+  {{< hextra/feature-card
     title="Für Kinder"
     link="../kids/tour"
     subtitle="Für Kinder aufbereitet."

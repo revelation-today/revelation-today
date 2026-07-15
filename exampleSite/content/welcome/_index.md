@@ -71,6 +71,19 @@ You want to know more about this book. You are welcome to discover this guide ba
 
 {{< hextra/feature-grid>}}
   {{< hextra/feature-card
+    title="Application"
+    link="../appl"
+    subtitle="What it actually asks of you."
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="/images/lamp.jpg"
+    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+  >}}
+{{< /hextra/feature-grid >}}
+</br></br>
+
+{{< hextra/feature-grid>}}
+  {{< hextra/feature-card
     title="For kids"
     link="../kids/tour"
     subtitle="Told simply, for children."

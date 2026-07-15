@@ -65,32 +65,38 @@ languages:
             icon: light-bulb
           pageRef: /expl
           weight: 6
+        - identifier: application
+          name: Anwendung
+          params:
+            icon: heart
+          pageRef: /appl
+          weight: 7
         - identifier: guide
           name: Kapitel für Kapitel
           params:
             icon: table
           pageRef: /guide
-          weight: 7
+          weight: 8
         - identifier: themes
           name: Themen
           params:
             icon: question-mark-circle
           pageRef: /themes
-          weight: 8
+          weight: 9
         - identifier: contact
           name: Kontakt
           params:
             icon: chat
           pageRef: /contact
-          weight: 9
+          weight: 10
         - identifier: help
           name: Hilfe
           pageRef: /help
           params:
             type: help
-          weight: 10
-        - name: Suche
           weight: 11
+        - name: Suche
+          weight: 12
           params:
             type: search
       sidebar:
@@ -140,32 +146,38 @@ languages:
             icon: light-bulb
           pageRef: /expl
           weight: 6
+        - identifier: application
+          name: Application
+          params:
+            icon: heart
+          pageRef: /appl
+          weight: 7
         - identifier: guide
           name: Chapter by chapter
           params:
             icon: table
           pageRef: /guide
-          weight: 7
+          weight: 8
         - identifier: themes
           name: Themes
           params:
             icon: question-mark-circle
           pageRef: /themes
-          weight: 8
+          weight: 9
         - identifier: contact
           name: Contact
           params:
             icon: chat
           pageRef: /contact
-          weight: 9
+          weight: 10
         - identifier: help
           name: Help
           pageRef: /help
           params:
             type: help
-          weight: 10
-        - name: Search
           weight: 11
+        - name: Search
+          weight: 12
           params:
             type: search
       sidebar:
@@ -215,32 +227,38 @@ languages:
             icon: light-bulb
           pageRef: /expl
           weight: 6
+        - identifier: application
+          name: Penerapan
+          params:
+            icon: heart
+          pageRef: /appl
+          weight: 7
         - identifier: guide
           name: Bab demi Bab
           params:
             icon: table
           pageRef: /guide
-          weight: 7
+          weight: 8
         - identifier: themes
           name: Tema
           params:
             icon: question-mark-circle
           pageRef: /themes
-          weight: 8
+          weight: 9
         - identifier: contact
           name: Kontak
           params:
             icon: chat
           pageRef: /contact
-          weight: 9
+          weight: 10
         - identifier: help
           name: Bantuan
           pageRef: /help
           params:
             type: help
-          weight: 10
-        - name: Cari
           weight: 11
+        - name: Cari
+          weight: 12
           params:
             type: search
       sidebar:
@@ -290,32 +308,38 @@ languages:
             icon: light-bulb
           pageRef: /expl
           weight: 6
+        - identifier: application
+          name: Uygulama
+          params:
+            icon: heart
+          pageRef: /appl
+          weight: 7
         - identifier: guide
           name: Bölüm Bölüm
           params:
             icon: table
           pageRef: /guide
-          weight: 7
+          weight: 8
         - identifier: themes
           name: Temalar
           params:
             icon: question-mark-circle
           pageRef: /themes
-          weight: 8
+          weight: 9
         - identifier: contact
           name: İletişim
           params:
             icon: chat
           pageRef: /contact
-          weight: 9
+          weight: 10
         - identifier: help
           name: Yardım
           pageRef: /help
           params:
             type: help
-          weight: 10
-        - name: Ara
           weight: 11
+        - name: Ara
+          weight: 12
           params:
             type: search
       sidebar:

@@ -79,7 +79,7 @@ Teori, kiliseyi Eski Ahit ile bin yıllık krallık arasına "dispensasyonlar" m
 
 Bu kurguda yanlış olan birkaç şey vardır. Ama onlara geçmeden önce, şunu kabul etmekte fayda var: bu görüş, en azından, Tanrı'nın İsrail'i tamamen reddettiğini öne süren ve Orta Çağ boyunca kiliseye Yahudilere zulmetmek için bahane veren daha eski teoriye iyi bir denge unsuru oluşturur.
 
-Peki tam olarak nesi yanlış?
+Peki tam olarak nesi yanlış? (Aşağıda özetlenen alternatif görüş genellikle antlaşma teolojisi olarak adlandırılır — her iki Ahit boyunca tek bir kilise, tek bir Tanrı halkı.)
 
 - Kilise, İsrail'in özgün çağrısının yerine gelmesi anlamında {{% int_link val="İsrail ile özdeşleştirilir" link="/expl/background/israel/the-church-is-part-of-israel" %}} ve {{% bible val="kilise İsrail'in bir parçasıdır" link="rom:11,13-24" lang="tr" %}}.
 - {{% bible val="İsrail ile diğer uluslar arasında artık bir duvar ya da ayrım yoktur" link="eph:2,11-22" lang="tr" %}}.
