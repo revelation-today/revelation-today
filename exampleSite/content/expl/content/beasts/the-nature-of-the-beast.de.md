@@ -30,7 +30,7 @@ Der Teufel tritt immer in Gestalt einer Dreifaltigkeit auf, denn auch Gott selbs
 
 Das erste Mal geschieht das gleich nach der {{% bible val="Inthronisation Christi" link="rev:5" lang="de" %}}, als er allein für würdig befunden wird, die Schriftrolle zu öffnen — und der Teufel tritt {{% bible val="als vier apokalyptische Reiter" link="rev:6,1-8" lang="de" %}} auf, wobei der vierte die anderen drei zusammenfasst. Sein Auftreten wird hier in gerade einmal acht Versen beschrieben, ein scharfer Kontrast zu den zwei vollen Kapiteln ewiger Anbetung Gottes, die vorausgehen.
 
-Der erste Reiter erscheint als der große Sieger, aber nur sieben Verse später hinterlässt er eine Szene völliger Zerstörung: Der Teufel kann seine Versprechen nicht einlösen.
+Der erste Reiter erscheint als der große Sieger, aber nur wenige Verse später hinterlässt er eine Szene völliger Zerstörung: Der Teufel kann seine Versprechen nicht einlösen.
 
 Das zweite Mal tritt er auf, als {{% bible val="Jesus erneut als Sieger erklärt wird" link="rev:12" lang="de" %}}, geboren von der Frau. Hier wird Satan als der endgültige Verlierer dargestellt:
 
@@ -67,7 +67,7 @@ Erstens gibt es eine starke Parallele zwischen dem Tier in Kapitel 17 und dem er
 | Das erste Tier aus Offenbarung 13 | Das Tier auf Offenbarung 17 |
 |-----------------------------------|-----------------------------|
 | {{% bible val="Hat 7 Köpfe und 10 Hörner" link="rev:13,1" lang="de" %}} | {{% bible val="Hat 7 Köpfe und 10 Hörner" link="rev:17,3" lang="de" %}} |
-| {{% bible val="Kopf wie geschlachtet, wächst nach" link="rev:13,3" lang="de" %}} | {{% bible val="5 Könige gefallen, der siebente kommt noch" link="rev:17,10" lang="de" %}} |
+| {{% bible val="Kopf wie geschlachtet, wächst nach" link="rev:13,3" lang="de" %}} | {{% bible val="5 Könige gefallen, der siebente kommt noch" link="rev:17,10" lang="de" %}} (beides verweist auf die geheimnisvolle Kontinuität und Rückkehr des Tieres, vgl. {{% bible val="das Tier, das war und nicht ist und wiederkommen wird" link="rev:17,8" lang="de" %}}) |
 | {{% bible val="Wer kann gegen das Tier kämpfen" link="rev:13,4" lang="de" %}} | {{% bible val="Tier macht Krieg gegen König der Könige" link="rev:17,14" lang="de" %}} |
 | {{% bible val="Gotteslästerliche Reden" link="rev:13,5-6" lang="de" %}} | {{% bible val="Gotteslästerliche Name" link="rev:17,3" lang="de" %}} |
 | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}} | {{% bible val="Kämpft gegen Lamm und wird überwunden" link="rev:17,14" lang="de" %}} </br> {{% bible val="Kämpft gegen Hure und vernichtet sie" link="rev:17,16" lang="de" %}} |
@@ -80,15 +80,15 @@ Zweitens gibt es auch eine starke Verbindung zwischen dem zweiten Tier in Kapite
 | Das zweite Tier aus Offenbarung 13 | Die Hure |
 |------------------------------------|----------|
 | {{% bible val="Kommt aus Erde" link="rev:13,11" lang="de" %}} | {{% bible val="Sitzt in Wüste" link="rev:17,3" lang="de" %}} |
-| {{% bible val="Hat zwei Hörner wie ein Lamm" link="rev:13,11" lang="de" %}} | {{% bible val="Ist gekleidet wie die Braut des Lammes" link="rev:17,4" lang="de" %}} |
+| {{% bible val="Hat zwei Hörner wie ein Lamm" link="rev:13,11" lang="de" %}} | {{% bible val="Ist reich gekleidet und geschmückt" link="rev:17,4" lang="de" %}}, was an das spätere Bild der Braut im Buch erinnert ({{% bible val="die Braut des Lammes" link="rev:21,9" lang="de" %}}) |
 | {{% bible val="Agiert in Macht des (ersten) Tieres" link="rev:13,12" lang="de" %}} | {{% bible val="Sitzt auf dem (ersten) Tier" link="rev:17,3" lang="de" %}} |
-| {{% bible val="Kann Feuer vom Himmel fallen lassen" link="rev:13,13" lang="de" %}} | {{% bible val="Wird durch Feuer gerichtet" link="rev:17,16" lang="de" %}} ({{% bible val="Offb.18/9" link="rev:18,9" lang="de" %}}) |
+| {{% bible val="Kann Feuer vom Himmel fallen lassen" link="rev:13,13" lang="de" %}} | {{% bible val="Wird durch Feuer vernichtet" link="rev:17,16" lang="de" %}} ({{% bible val="Offb.18/9" link="rev:18,9" lang="de" %}}) |
 | {{% bible val="Alle, die es nicht anbeten werden getötet" link="rev:13,15" lang="de" %}} | {{% bible val="Trinkt Blut der Heiligen" link="rev:17,6" lang="de" %}} |
 | {{% bible val="Macht allen ein Zeichen an Stirn und Hand" link="rev:13,16" lang="de" %}} | {{% bible val="Hat Zeichen auf Stirn: Babel" link="rev:17,5" lang="de" %}} |
-| {{% bible val="Kann nicht kaufen oder verkaufen ohne Zeichen" link="rev:13,17" lang="de" %}} | {{% bible val="Kaufen und verkaufen nicht möglich ohne Hure" link="rev:18,3" lang="de" %}} ({{% bible val="Offb.18/11-17" link="rev:18,11-17" lang="de" %}}) |
+| {{% bible val="Kann nicht kaufen oder verkaufen ohne Zeichen" link="rev:13,17" lang="de" %}} | {{% bible val="Händler, die mit ihr Handel trieben, können nichts mehr kaufen oder verkaufen, jetzt da sie gefallen ist" link="rev:18,11" lang="de" %}} ({{% bible val="Offb.18/11-17" link="rev:18,11-17" lang="de" %}}) |
 | {{% bible val="Benötigt Weisheit" link="rev:13,18" lang="de" %}} | {{% bible val="Benötigt Weisheit" link="rev:17,9" lang="de" %}} |
 
-Auch hier ist die Macht umgekehrt: Während das Tier in Kapitel 13 Feuer vom Himmel fallen lässt, wird sie in Kapitel 17 durch Feuer vernichtet; und während es dort Menschen ein Zeichen auf die Stirn setzt, wird sie hier selbst an der Stirn gebrandmarkt, wie eine Sklavin.
+Auch hier ist die Macht umgekehrt: Während das Tier in Kapitel 13 Feuer vom Himmel fallen lässt, wird sie in Kapitel 17 durch Feuer vernichtet; und während es dort Menschen ein Zeichen auf die Stirn setzt, trägt sie hier selbst einen Namen auf ihrer Stirn, als gehöre sie jemandem oder sei zum Gericht gezeichnet.
 
 Wo bleibt also das dritte Mitglied der Dreifaltigkeit in dieser Szene? Er hält sich im Hintergrund, genau wie in Kapitel 13 und bei der Beschreibung der Reiter — aber man sieht ihn bei {{% bible val="der sechsten Schale" link="rev:16,13" lang="de" %}} und in Kapitel {{% bible val="20" link="rev:20,10" lang="de" %}}.
 

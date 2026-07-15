@@ -21,7 +21,7 @@ Kitab Wahyu dibuka dengan beberapa pernyataan yang mudah kita lewatkan begitu sa
 
 Kitab ini dibuka dengan nada yang tegas, sebagai "Wahyu Yesus Kristus" (dalam bahasa Yunani, Apokalypsis Iesou Christou), "yang dikaruniakan Allah kepada-Nya, supaya ditunjukkan-Nya kepada hamba-hamba-Nya apa yang harus segera terjadi". (Siapa Yohanes ini, dan kapan ia menulis, keduanya adalah pertanyaan yang benar-benar diperdebatkan — lihat {{% int_link val="siapa yang menulis Kitab Wahyu, dan kapan" link="/expl/topics/others/who-wrote-revelation-and-when" %}} untuk ringkasan singkat dan mengapa hal ini penting bagi cara beberapa artikel selanjutnya membaca teks tersebut.)
 
-Kata "apokalips" mungkin memunculkan bayangan tertentu di benakmu - tetapi bukan itu maksudnya di sini. Bahkan terjemahan yang akurat dan literal, "Wahyu Yesus", masih menyisakan pertanyaan, sebab {{% int_link val="apokalips adalah sebuah genre sastra yang menentukan bagaimana kitab ini seharusnya dibaca" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}: ini adalah kitab yang memprovokasi dan menuntut tindakan, bukan kode yang harus dipecahkan.
+Kata "apokalips" mungkin memunculkan bayangan tertentu di benakmu - tetapi bukan itu maksudnya di sini. Bahkan terjemahan yang akurat dan literal, "Wahyu Yesus", masih menyisakan pertanyaan, sebab {{% int_link val="apokalips adalah sebuah genre sastra yang menentukan bagaimana kitab ini seharusnya dibaca" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}: ini adalah kitab yang memprovokasi dan menuntut tindakan, bukan kode yang harus dipecahkan. Bahkan, Kitab Wahyu menyebutkan genrenya sendiri beberapa kali dalam ayat-ayat pembuka ini: kitab ini adalah sebuah "apokalips" (ayat 1), sebuah "nubuat" (ayat 3), dan dibingkai sebagai sebuah surat, dibuka sebagaimana surat abad pertama mana pun akan dibuka (lihat "Dasar" di bawah). Kitab Wahyu paling baik dibaca sebagai perpaduan yang disengaja dari ketiganya - apokaliptik, kenabian, dan epistolar - bukan sebagai satu genre tunggal.
 
 Di tengah semua ini, kita tidak boleh lupa bahwa kitab ini berbicara tentang Yesus - Dialah pusatnya. Ada dua cara menerjemahkan "Yesus Kristus" di sini:
 
@@ -40,7 +40,7 @@ Ayat sesudahnya membuat urgensinya semakin jelas: "Berbahagialah ia yang membaca
 - Waktunya sudah dekat. Tidak banyak waktu tersisa; kita harus bertindak sekarang. Tidak ada yang berubah dalam hal itu selama 2.000 tahun terakhir.
 - Ini adalah sebuah nubuat: sebuah peringatan mendesak bagi jemaat untuk bertindak.
 
-"Waktunya sudah dekat" bukan berarti akhir zaman bisa terjadi kapan saja secara acak; ini adalah ungkapan yang melebih-lebihkan kedekatan waktu, sama seperti {{% bible val="Injil Markus" link="mrk:1,15" lang="ind" %}} memakai [ungkapan yang sama](https://biblehub.com/interlinear/mark/1-15.htm) untuk menggambarkan bagaimana Kerajaan Allah sudah datang.
+"Waktunya sudah dekat" bukan berarti akhir zaman bisa terjadi kapan saja secara acak; ini adalah ungkapan yang melebih-lebihkan kedekatan waktu, menggunakan akar kata yang sama (bahasa Yunani *engys/engizō*, "dekat, telah mendekat") yang juga dipakai {{% bible val="Injil Markus" link="mrk:1,15" lang="ind" %}} [dalam konstruksi yang berkaitan](https://biblehub.com/interlinear/mark/1-15.htm) untuk menggambarkan bagaimana Kerajaan Allah telah mendekat.
 
 ## Dasar
 
@@ -50,12 +50,12 @@ Sekarang muncul sebuah bagian yang gaya penulisannya mirip dengan pembukaan sura
 "{{% bible val="Dari Yohanes kepada ketujuh jemaat yang di Asia: Kasih karunia dan damai sejahtera menyertai kamu, dari Dia, yang ada dan yang sudah ada dan yang akan datang, dan dari ketujuh Roh yang ada di hadapan takhta-Nya" link="rev:1,4" lang="ind" %}}"
 
 - Kasih karunia dan damai sejahtera diberikan kepada jemaat-jemaat itu karena mereka akan membutuhkannya - mereka tidak dapat menghadapi tantangan-tantangan yang akan datang dengan kekuatan sendiri.
-- Yesus adalah Yang Kekal, "yang ada, yang sudah ada, dan yang akan datang" (ayat 4 dan 8). Ia adalah Penguasa waktu, Yang Mahakuasa. Kebenaran yang sama diungkapkan melalui "Alfa dan Omega", huruf pertama dan terakhir dalam alfabet Yunani: Ia adalah yang awal dan yang akhir, dan Ia tidak berubah.
-- Ungkapan "ketujuh Roh di hadapan takhta-Nya" terdengar agak aneh pada awalnya. {{% bible val="Dalam kitab nabi Zakharia, pelita-pelita itu diidentikkan dengan Roh Kudus" link="zec:4,6" lang="ind" %}}, dan pelita-pelita itu kemungkinan besar sesuai dengan {{% bible val="ketujuh kaki dian yang melambangkan jemaat-jemaat" link="rev:1,20" lang="ind" %}}. Ungkapan "di hadapan takhta" muncul kembali di {{% bible val="pasal 4" link="rev:4,5" lang="ind" %}}: Roh Kudus datang dari takhta Allah untuk melaksanakan rencana-Nya.
+- Allah Bapa adalah Yang Kekal, "yang ada, yang sudah ada, dan yang akan datang" (ayat 4) - Penguasa waktu, Yang Mahakuasa. Kebenaran yang sama diungkapkan melalui "Alfa dan Omega", huruf pertama dan terakhir dalam alfabet Yunani: Ia adalah yang awal dan yang akhir, dan Ia tidak berubah. Kitab Wahyu kemudian juga menerapkan gelar-gelar kekal yang setara kepada Yesus sendiri (1:17-18; 22:13), menunjukkan bahwa Bapa dan Anak berbagi identitas ilahi ini.
+- Ungkapan "ketujuh Roh di hadapan takhta-Nya" terdengar agak aneh pada awalnya. {{% bible val="Dalam kitab nabi Zakharia, penglihatan tentang pelita itu dikaitkan dengan Roh - 'bukan dengan keperkasaan dan bukan dengan kekuatan, melainkan dengan Roh-Ku'" link="zec:4,2-6" lang="ind" %}}, dan pelita-pelita itu kemungkinan besar sesuai dengan {{% bible val="ketujuh kaki dian yang melambangkan jemaat-jemaat" link="rev:1,20" lang="ind" %}}. Ungkapan "di hadapan takhta" muncul kembali di {{% bible val="pasal 4" link="rev:4,5" lang="ind" %}}: Roh Kudus datang dari takhta Allah untuk melaksanakan rencana-Nya.
 
 "{{% bible val="dan dari Yesus Kristus, Saksi yang setia, yang pertama bangkit dari antara orang mati dan yang berkuasa atas raja-raja bumi ini. Bagi Dia, yang mengasihi kita dan yang telah melepaskan kita dari dosa kita oleh darah-Nya" link="rev:1,5" lang="ind" %}}"
 
-- Di sini kembali muncul tema Yesus sebagai saksi yang setia - tema ini terus berulang di sepanjang kitab karena itulah kunci dari segalanya. Perpaduan "saksi yang setia", "yang pertama bangkit" (yang sulung), dan "raja atas raja-raja" diambil dari {{% bible val="Mazmur 89" link="psa:89,19-32" lang="ind" %}}, yang berbicara tentang anak Daud.
+- Di sini kembali muncul tema Yesus sebagai saksi yang setia - tema ini terus berulang di sepanjang kitab karena itulah kunci dari segalanya. Perpaduan "saksi yang setia", "yang pertama bangkit" (yang sulung), dan "raja atas raja-raja" diambil dari {{% bible val="Mazmur 89" link="psa:89,19-32" lang="ind" %}} - namun di sana "saksi yang setia" adalah bulan, yang bersaksi di langit atas kesetiaan perjanjian Allah kepada Daud (ayat 37); Kitab Wahyu mengambil gambaran kesaksian itu dan menerapkannya langsung kepada sang raja keturunan Daud sendiri.
 - "Yang pertama bangkit dari antara orang mati" adalah dorongan untuk tetap setia sekalipun sampai mati, sebab kematian bukanlah akhir.
 - "Ia mengasihi kita dan telah melepaskan kita dari dosa kita" adalah pengingat bahwa Yesus berpihak kepada kita.
 
@@ -85,9 +85,9 @@ Jika kita menyatukan nas-nas ini, muncullah sebuah gambaran:
 - Ada respons emosional yang mendalam - perkabungan atas seorang raja yang dikasihi.
 - Hal ini berkaitan dengan kematian Yesus, Anak Manusia.
 - Hasilnya adalah semua bangsa akan menyembah Dia, sama seperti yang telah dijanjikan kepada Abram.
-- Namun teks ini membiarkan terbuka bagaimana reaksi bangsa-bangsa itu ("memukul dada karena Dia") - sebagian karena pertobatan bagi Juru Selamat mereka, sebagian lagi karena takut akan penghakiman.
+- Namun teks ini membiarkan terbuka bagaimana reaksi bangsa-bangsa itu ("memukul dada karena Dia") - sebagian karena pertobatan bagi Juru Selamat mereka, sebagian lagi karena takut akan penghakiman. (Kitab Wahyu di tempat lain memperlakukan "bangsa-bangsa" dan "raja-raja bumi" sebagai terkait erat dengan Roma, kekaisaran yang justru mengeksekusi Yesus melalui gubernurnya - sehingga perkabungan bangsa-bangsa ini tidak sejauh yang tampak pada awalnya.)
 
-Jadi, nas ini bukan menggambarkan murka Yesus yang akan datang atas orang-orang tertentu yang membunuh-Nya (toh bangsa-bangsa itu sebenarnya tidak terlibat langsung dalam hal itu). Ini adalah seruan untuk bertobat dan diselamatkan, ditujukan kepada bangsa-bangsa.
+Jadi, teks ini tidak menyelesaikan reaksi mana yang lebih dominan, dan Kitab Wahyu kembali kepada ambiguitas yang sama ini di sepanjang kitab - "kedatangan bersama awan-awan" yang sama ini bisa berarti penyelamatan bagi mereka yang bertobat dan penghakiman bagi mereka yang tidak (bandingkan Wahyu 6:15-17). Yang pasti adalah hasil yang terus-menerus ditegaskan kembali oleh Kitab Wahyu: setiap bangsa, tanpa kecuali, suatu hari akan berhadapan dengan Yesus.
 
 ## Kesimpulan
 

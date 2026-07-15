@@ -14,12 +14,12 @@ sources:
       ref: aune_rev
 ---
 
-Vahiy 20'deki bin yıllık krallık, kitaptaki neredeyse başka her hangi bir bölümden daha fazla rakip teori doğurmuştur. Bir teoriden yola çıkmak yerine, metnin kendisinden ve bağlamından başlayalım ve yeni ve taze bir bakışın ne ortaya çıkardığını görelim.
+Vahiy 20'deki bin yıllık krallık, kitaptaki neredeyse başka her hangi bir bölümden daha fazla rakip teori doğurmuştur. Bir teoriden yola çıkmak yerine, metnin kendisinden ve bağlamından başlayalım ve yeni ve taze bir bakışın ne ortaya çıkardığını görelim. Aşağıdakiler, bu bölüm üzerine uzun süredir savunulan birkaç Hristiyan görüşten birini savunuyor — {{% int_link val="sonraki makale" link="/expl/content/1000y/pre-post-and-amillennialism" %}} tartışmanın tamamını ortaya koyuyor ve alternatiflere adil bir dinleme hakkı tanıyor.
 
 Baştan akılda tutulması gereken birkaç soru var, çünkü bunlar çoğu okuyucunun metne fark etmeden getirdiği varsayımları ortaya çıkarır:
 
 - [Kim kime ve nerede egemenlik sürecek?](https://www.bibleserver.com/NIV/Revelation20%3A4)
-- Neden doğrudan yeni bir gök ve yeni bir yer değil de araya bir bin yıl giriyor — eğer alternatif herkesin bulutların üzerinde oturup arp çalması ise, metnin buna neden ihtiyacı olsun?
+- Neden doğrudan yeni bir gök ve yeni bir yer değil de araya bir bin yıl giriyor — eğer alternatif sonsuz durumun doğrudan başlaması ise, metnin buna neden ihtiyacı olsun?
 - Bu {{% bible val="tek ayet" link="rev:20,4" lang="tr" %}} dışında, Kutsal Kitap'ın başka neresinde bin yıllık krallık kavramı görülür?
 - O bin yıl boyunca gerçekleştiğini varsaydığımız {{% bible val="egemenlik sürme" link="mat:20,20-28" lang="tr" %}} tam olarak ne tür bir şeydir?
 
@@ -42,16 +42,16 @@ Ondan sonra gelen her şeyi şekillendiren bir bağlam noktası var: bin yıllı
 ## Son iki savaş mı?
 
 <a name="ba47"></a>
-Üç savaş sahnesi arasında güçlü paralellikler var: {{% bible val="İsa'nın bin yıllık krallıktan 'önceki' savaşı" link="rev:19,11-21" lang="tr" %}}, {{% bible val="bin yıllık krallıktan sonraki Gog ve Magog savaşı" link="rev:19,7-10" lang="tr" %}}, ve Hezekiel'in {{% bible val="38." link="ezk:38" lang="tr" %}} ve {{% bible val="39. bölümlerindeki" link="ezk:39" lang="tr" %}} iki Gog ve Magog görümü. Üçü de aynı şekli paylaşır: savaş için büyük bir toplanma, kalabalık bir ordunun savaştığı bir "son zaman savaşı" ve Tanrı'nın ezici, nihai zaferi.
+Üç savaş sahnesi arasında güçlü paralellikler var: {{% bible val="İsa'nın bin yıllık krallıktan 'önceki' savaşı" link="rev:19,11-21" lang="tr" %}}, {{% bible val="bin yıllık krallıktan sonraki Gog ve Magog savaşı" link="rev:20,7-10" lang="tr" %}}, ve Hezekiel'in {{% bible val="38." link="ezk:38" lang="tr" %}} ve {{% bible val="39. bölümlerindeki" link="ezk:39" lang="tr" %}} iki Gog ve Magog görümü. Üçü de aynı şekli paylaşır: savaş için büyük bir toplanma, kalabalık bir ordunun savaştığı bir "son zaman savaşı" ve Tanrı'nın ezici, nihai zaferi.
 
 Eğer bu paralellikler göründükleri gibi bir anlam taşıyorsa, o zaman 19. bölümdeki İsa'nın savaşı ile 20. bölümdeki Gog ve Magog savaşı aynı olayın iki kez anlatımı olur, bu da bin yıllık krallığın aslında 19. bölümdeki olaylardan zaman olarak önce geldiği anlamına gelir.
 
 Peki bunlar iki farklı savaş olamaz mı? Bunları aynı saymaya karşı çıkan birkaç itiraz var:
 
-- 19. bölüm {{% bible val="kılıçla" link="rev:19,15" lang="tr" %}} yıkımı anlatırken, 20. bölüm {{% bible val="ateşle" link="rev:20,9" lang="tr" %}} olanı anlatır — farklı silahlar, bu da farklı savaşları düşündürebilir. Ama aynı örüntü Hezekiel'in kendi iki görümünde de görülür; her ikisinde de her iki silah geçer: 38. bölümde {{% bible val="kılıç" link="ezk:38,21" lang="tr" %}} ve {{% bible val="ateş" link="ezk:38,22" lang="tr" %}}, 39. bölümde ise {{% bible val="kılıç" link="ezk:39,17-21" lang="tr" %}} ve {{% bible val="ateş" link="ezk:39,6" lang="tr" %}}. Yani silah değişimi, iki ayrı olayı kesin olarak kanıtlamaz.
+- 19. bölüm {{% bible val="kılıçla" link="rev:19,15" lang="tr" %}} yıkımı anlatırken, 20. bölüm {{% bible val="ateşle" link="rev:20,9" lang="tr" %}} olanı anlatır — farklı silahlar, bu da farklı savaşları düşündürebilir. Ama aynı örüntü Hezekiel'in kendi iki görümünde de görülür: 38. bölüm {{% bible val="kılıcı" link="ezk:38,21" lang="tr" %}} {{% bible val="ateşle" link="ezk:38,22" lang="tr" %}} birleştirir, 39. bölüm ise {{% bible val="ateşi" link="ezk:39,6" lang="tr" %}} {{% bible val="kuşlar ve yabani hayvanlar için bir leş ziyafetiyle" link="ezk:39,17-21" lang="tr" %}} birleştirir; bu da {{% bible val="Vahiy 19'daki" link="rev:19,17-18" lang="tr" %}} kuş ziyafetine paralellik gösterir. Yani silah değişimi, iki ayrı olayı kesin olarak kanıtlamaz — Hezekiel'in aynı savaşa dair iki görümü zaten bölümden bölüme imgelerini değiştiriyor.
 - 19. ve 20. bölümler farklı gerçekleşme derecelerini anlatıyor olabilir, ama ikisi de {{% bible val="Hezekiel" link="ezk:38" lang="tr" %}}, {{% bible val="Zekeriya" link="zec:12" lang="tr" %}} ve {{% bible val="Zefanya" link="zep:3" lang="tr" %}}'da anlatılan son zaman savaşlarını yakından izleyen bir dil kullanır — ve bu üçünde de anlatılan savaş, birkaç aşamadan biri değil, nihai olandır.
 - 19. bölüm {{% bible val="insan ordularını" link="rev:19,19" lang="tr" %}} anlatırken, 20. bölüm {{% bible val="şeytani orduları" link="rev:20,8" lang="tr" %}} anlatır — ama metin, 20. bölümdeki orduların salt şeytani olduğunu gerçekten nerede söylüyor? Her iki metni {{% bible val="altıncı kâseyle" link="rev:16,14" lang="tr" %}} birlikte dikkatle tekrar okuyun: her iki bölümde de Şeytan insan ordularına önderlik ediyor, dolayısıyla varsayılan ayrım geçerli olmayabilir.
-- Daniel {{% bible val="7. bölümdeki" link="dan:7" lang="tr" %}} olayların sırası, şeytanın ancak kutsalların egemenliğinden sonra yenildiği gerekçesiyle birden fazla savaşı destekleyebilir mi? Ama Daniel'in görümü son derece tekrarlıdır: kutsalların egemenliği {{% bible val="8" link="dan:7,8" lang="tr" %}}, {{% bible val="13–14" link="dan:7,14" lang="tr" %}}, {{% bible val="19–22" link="dan:7,19-22" lang="tr" %}}, {{% bible val="23–25" link="dan:7,23-25" lang="tr" %}} ve {{% bible val="27" link="dan:7,27" lang="tr" %}}. ayetlerde geçerken, canavarın yargılanması {{% bible val="9–11" link="dan:7,9-11" lang="tr" %}} ve {{% bible val="26" link="dan:7,26" lang="tr" %}}. ayetlerde geçer — bunlar aynı olayların yeniden ele alınmasıdır, kesin bir zaman çizelgesi değil. Üstelik {{% bible val="kitabın açılması" link="dan:7,10" lang="tr" %}} her şeyden önce gerçekleşir, bu da diziyi kesin bir kronoloji olarak okuma girişimini zorlaştırır.
+- Daniel {{% bible val="7. bölümdeki" link="dan:7" lang="tr" %}} olayların sırası, şeytanın ancak kutsalların egemenliğinden sonra yenildiği gerekçesiyle birden fazla savaşı destekleyebilir mi? Ama Daniel'in görümü son derece tekrarlıdır: kutsalların egemenliği {{% bible val="13–14" link="dan:7,14" lang="tr" %}}, {{% bible val="18" link="dan:7,18" lang="tr" %}}, {{% bible val="19–22" link="dan:7,19-22" lang="tr" %}} ve {{% bible val="27" link="dan:7,27" lang="tr" %}}. ayetlerde geçerken, canavarın yargılanması {{% bible val="9–11" link="dan:7,9-11" lang="tr" %}} ve {{% bible val="26" link="dan:7,26" lang="tr" %}}. ayetlerde geçer — bunlar aynı olayların yeniden ele alınmasıdır, kesin bir zaman çizelgesi değil. Üstelik {{% bible val="kitabın açılması" link="dan:7,10" lang="tr" %}} her şeyden önce gerçekleşir, bu da diziyi kesin bir kronoloji olarak okuma girişimini zorlaştırır.
 
 ## Bir savaş için daha fazla argüman
 
@@ -93,7 +93,7 @@ Bu açıkça Vahiy 21'de anlatılan yeni gök ve yeryüzüne işaret ediyor — 
 - Yeni Gök ve Yer'e, ya da Yeni Yeruşalim'e dair aklınızda nasıl bir tablo var?
 - Kehanetlerden hangisi Yeni Yeruşalim'de gerçekleşemez, ve neden?
 - Kutsal Kitap'ta "Yeni Gök ve Yer öncesi" bir dönem nerede duyurulmuştur? Bunun ruhsal gerekçesi nedir?
-- Sizce Milenyum, Yeni Gök ve Yer'den daha mı iyi olacak? Öyleyse hangi bakımdan? Değilse, insanlar neden bin yıl beklesin de gerçek olanı hemen almasın?
+- Sizce Milenyum, Yeni Gök ve Yer'in kendisinin sağlamadığı bir şey mi katacak? Öyleyse ne — değilse, neden önce gelmesi gereksin?
 
 ## Hikayenin konusu nedir?
 
@@ -102,7 +102,7 @@ Eğer 20. bölüm ayrı bir gelecekteki dönemi anlatmıyorsa, izlediği hikaye 
 - {{% bible val="37/1–14" link="ezk:37,1-14" lang="tr" %}}: Tanrı halkının Kutsal Ruh tarafından diriltilmesi, bu da 20. bölümdeki {{% bible val="dirilişe" link="rev:20,4" lang="tr" %}} karşılık gelir — Pentikost'a işaret eder.
 - {{% bible val="37/15–28" link="ezk:37,15-28" lang="tr" %}}: Mesih'in krallığı, {{% bible val="20. bölümdeki" link="rev:20,4-6" lang="tr" %}} kutsalların egemenliğine karşılık gelir — İsa'nın birinci ve ikinci gelişi arasında kilisenin tanıklık zamanı.
 - {{% bible val="38–39" link="ezk:38" lang="tr" %}}: {{% bible val="Gog ve Magog savaşı" link="rev:20,7-10" lang="tr" %}}, İsa'nın ikinci gelişine karşılık gelir.
-- {{% bible val="40–48" link="ezk:40" lang="tr" %}}: yeni bir tapınak ve Yeni Yeruşalim'in son görümü, {{% bible val="21. bölüme" link="rev:21" lang="tr" %}} karşılık gelir.
+- {{% bible val="40–48" link="ezk:40" lang="tr" %}}: yeni bir tapınak ve Yeni Yeruşalim'in son görümü, {{% bible val="21. bölüme" link="rev:21" lang="tr" %}} karşılık gelir — ama Vahiy 21:22'nin açıkça Yeni Yeruşalim'de *hiç* tapınak olmadığını, çünkü "Her Şeye Gücü Yeten Rab Tanrı ve Kuzu, onun tapınağıdır" dediğini belirtmekte fayda var; bu yüzden bu karşılık, Hezekiel'in çok somut tapınağı birebir bir eşleşme olarak değil, sonradan gerçek bir yapı olmadan yerine gelen bir sembol olarak okunduğunda en iyi işler.
 
 ## İkinci ölüm ve ilk diriliş hakkında ne var?
 
@@ -111,14 +111,12 @@ Eğer 20. bölüm ayrı bir gelecekteki dönemi anlatmıyorsa, izlediği hikaye 
 
 Bu, henüz yakından incelemediğimiz oldukça şaşırtıcı bir metin. Az önce bunun İsa'nın birinci ve ikinci gelişi arasındaki zamanı anlattığı sonucuna vardık, ama metni olduğu gibi okuduğunuzda, olayların sırası tuhaf görünüyor: insanlar tanıklıkları yüzünden başları kesilerek öldürülüyor, bir süre yalnızca birer ruh olarak var oluyorlar, sonra yeniden hayata dönüp egemenlik sürüyorlar.
 
-Çoğu çevirinin sessizce yumuşattığı bir başka tuhaflık daha var. Metin harfiyen şöyle başlar: "[Ve tahtlar gördüm, ve onların üzerine oturdular, ve onlara yargı yetkisi verildi](https://biblehub.com/interlinear/revelation/20-4.htm)." Ama "onlar" ve "onlara" için geriye dönüp bir öncül arayın — açık bir tane yok; en yakın aday aslında iki ayet önce sözü edilen şeytandır. Üstelik metindeki her fiil aynı zaman kipindedir (hepsi [aorist](https://en.wikipedia.org/wiki/Aorist)), yani bu eylemler arasında hiçbir dilbilgisel zamansal sıralama işareti yoktur.
-
-"Onlar"ın kimliği ancak sonradan açıklığa kavuşur: "canavara tapmamış ve işaretini almamış olanlar." Bir grubu, kim olduğunu açıklamadan önce adlandıran bu örüntüye [hysteron-proteron](https://en.wikipedia.org/wiki/Hysteron_proteron) ("sondan öne") denir; öyküyü ters sırayla anlatarak ilk kısmı vurgulamanın bir yoludur. Vahiy'de birkaç kez daha karşımıza çıkar:
+Çoğu çevirinin sessizce yumuşattığı bir başka tuhaflık daha var. Metin harfiyen şöyle başlar: "[Ve tahtlar gördüm, ve onların üzerine oturdular, ve onlara yargı yetkisi verildi](https://biblehub.com/interlinear/revelation/20-4.htm)." Ama "onlar" ve "onlara" için geriye dönüp bir öncül arayın — açık bir tane yok; en yakın aday, iki ayet önce sözü edilen "şeytan"dır, ama o da tekil olduğu için zaten çoğul bir fiilin dilbilgisel öncülü olamaz. Başka bir deyişle, metin cümlenin bu noktasında öncül vermez; "onlar"ın kimliği ancak sonradan açıklığa kavuşur: "canavara tapmamış ve işaretini almamış olanlar." Bir grubu, kim olduğunu açıklamadan önce adlandıran bu örüntü, Vahiy'in başka yerlerinde de karşımıza çıkar; bu, klasik [hysteron-proteron](https://en.wikipedia.org/wiki/Hysteron_proteron) ("sondan öne") figürüyle yakından ilişkilidir (ama onunla tam olarak özdeş değildir) — bir cümlenin, vurgu için mantıksal olarak daha sonra gelen olayı daha önceki olaydan önce koyduğu figür:
 - {{% bible val="elinde olana sarıl ve tövbe et" link="rev:3,3" lang="tr" %}},
 - {{% bible val="zenginim, servet kazandım" link="rev:3,17" lang="tr" %}},
 - {{% bible val="mideni ekşitecek, ama ağzında bal gibi tatlı olacak" link="rev:10,9" lang="tr" %}}.
 
-Olayların gerçekte gerçekleştiği sırayla, tersten okununca, metin daha mantıklı hale gelir: egemenlik sürüyorlar çünkü canavara tapmadılar, onun işaretini almadılar, ve bunun için başları kesildi.
+Olayların gerçekte gerçekleştiği sırayla, tersten okununca, metin daha mantıklı hale gelir: egemenlik sürüyorlar çünkü canavara tapmadılar, onun işaretini almadılar, ve bunun için başları kesildi. Ayrıca dilbilgisinin sırayı işaretlemekten tamamen kaçınmadığını belirtmekte fayda var: "başı kesilmiş olanlar" mükemmel (perfect) bir ortaçtır, ve bu geleneksel olarak o eylemin çevresindeki ana fiillerden önce tamamlandığını işaret eder — yani Yunancada bir tür sıralama duygusu mevcuttur, metnin bütünü (6. ayete kadar şimdiki ve gelecek zamana da geçen) tek ve kesin bir zaman çizelgesi olarak okunmaya direnmiş olsa bile.
 
 ## Kafamız kesilecek mi?
 

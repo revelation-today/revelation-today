@@ -17,14 +17,14 @@ docType: expl
 appl: /appl/content/letters
 ---
 
-Die Offenbarung wiederholt immer wieder dieselbe rätselhafte Anweisung: "Schreibe dem Engel der Gemeinde." Haben Gemeinden Schutzengel? Oder ist "Engel" einfach ein anderes Wort für den Leiter der Gemeinde? Schauen wir genauer hin.
+Die Offenbarung wiederholt immer wieder dieselbe rätselhafte Anweisung: "Schreibe dem Engel der Gemeinde." Haben Gemeinden Schutzengel? Oder ist "Engel" einfach ein anderes Wort für den Leiter der Gemeinde? Schauen wir genauer hin. Diese Frage hat unter Auslegern keine einhellig anerkannte Antwort — Deutungen als Schutzengel, als menschlicher Bote und als Personifikation finden bis heute alle ihre Verfechter. Die im Folgenden vertretene Lesart ist die, der diese Seite folgt, kein feststehender Konsens.
 
 ## Unwahrscheinliche Deutungen
 
 <a name="e98c"></a>
-Könnten die "Engel der Gemeinden" Schutzengel sein, die über jede Gemeinde wachen? Wohl kaum - es wäre merkwürdig, wenn Jesus Johannes beauftragen würde, an die Engel selbst zu schreiben, obwohl es weit direktere Wege gäbe, wie Jesus mit ihnen kommunizieren könnte. Und ganz praktisch: Wie sollte Johannes einen solchen Brief überhaupt zustellen? Außerdem wäre es {{% bible val="schwer, dem Engel die Schuld zu geben, wenn einzelne Mitglieder der Gemeinde nicht treu sind" link="rev:2,24-25" lang="de" %}}.
+Könnten die "Engel der Gemeinden" Schutzengel sein, die über jede Gemeinde wachen? Wohl kaum - es wäre merkwürdig, wenn Jesus Johannes beauftragen würde, an die Engel selbst zu schreiben, obwohl es weit direktere Wege gäbe, wie Jesus mit ihnen kommunizieren könnte. Außerdem unterscheidet Johannes im Brief an Thyatira den Engel ausdrücklich von den einzelnen Gläubigen: Er sagt "den Übrigen in Thyatira", dass ihnen keine weitere Last auferlegt wird ({{% bible val="Ich will euch, den Übrigen, die diese Lehre nicht angenommen haben, keine andere Last auferlegen" link="rev:2,24-25" lang="de" %}}) — eine Sprache, die nur Sinn ergibt, wenn „der Engel" und „die Mitglieder" nicht strikt dieselben Personen sind.
 
-Könnte "Engel" stattdessen einen menschlichen *Leiter* meinen? Auch das hält nicht stand, denn es wäre ebenso merkwürdig, einen Leiter für das Versagen einzelner Mitglieder verantwortlich zu machen.
+Könnte "Engel" stattdessen einen menschlichen *Leiter* meinen? Auch das erklärt das Muster nicht vollständig. Es stimmt zwar, dass Propheten anderswo Leiter für das Versagen ihres Volkes verantwortlich machen (Hesekiel 34; Jeremia 23), sodass dieser Einwand allein die Deutung nicht ausschließen kann. Aber die Briefe mischen eine Anrede in der Einzahl ("Ich kenne deine Werke ...") mit Konsequenzen in der Mehrzahl, die gewöhnliche Mitglieder treffen ("der Teufel wird einige von *euch* ins Gefängnis werfen", Offb. 2,10) — was besser zu einer Deutung als Gesamtheit passt als zu einem einzelnen Amtsträger.
 
 ## Beobachtungen
 
@@ -35,7 +35,7 @@ Einige Beobachtungen weisen uns auf eine bessere Antwort hin:
 - Jeder Brief beginnt mit "{{% bible val="schreibe dem Engel der Gemeinde" link="rev:2,1" lang="de" %}}", endet aber mit "{{% bible val="was der Geist den Gemeinden sagt" link="rev:2,7" lang="de" %}}" - der Engel und die Gemeinde werden als derselbe Adressat angesprochen.
 - Der Engel wird direkt angesprochen: "{{% bible val="Bedenke, wovon du gefallen bist" link="rev:2,5" lang="de" %}}" - eine Sprache, die zu einer Gemeinde passt, nicht zu einem Geistwesen.
 - Der griechische Text wechselt zwischen einem singularischen und einem pluralischen "du" (hier in Großbuchstaben wiedergegeben): "{{% bible val="Fürchte nichts von dem, was du leiden wirst. Siehe, der Teufel wird einige von EUCH ins Gefängnis werfen, um EUCH zu prüfen, und EUCH wird Bedrängnis treffen zehn Tage lang. Sei treu bis in den Tod, so werde ich dir die Krone des Lebens geben" link="rev:2,10" lang="de" %}}."
-- "Engel" erscheint hier ohne bestimmten Artikel, was für die jüdische oder frühchristliche Literatur ungewöhnlich ist.
+- "Angelos" (Bote) wird auch anderswo im Neuen Testament für gewöhnliche menschliche Boten verwendet, nicht nur für übernatürliche Wesen (Lukas 7,24; Lukas 9,52; Jakobus 2,25) — das Wort selbst erfordert also keine Deutung als Geistwesen.
 - Diese Engel werden sonst nirgendwo im Buch noch einmal erwähnt.
 
 ## Engel = Gemeinden

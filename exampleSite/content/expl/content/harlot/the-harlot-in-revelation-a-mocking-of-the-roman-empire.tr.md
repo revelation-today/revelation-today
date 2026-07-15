@@ -21,11 +21,11 @@ O dönemde yaygın olarak kullanılan bir madeni parayla başlayalım.
 
 ![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
 
-Ön yüzde, "Imp Caesar Vespasianus Aug PM TP PP COS III" — yani "İmparator Sezar Vespasianus Augustus, Pontifex Maximus (En Büyük Rahip), Tribunicia Potestas (Halk Temsilciliği Yetkisi), Pater Patriae (Anavatanın Babası), Üçüncü Kez Konsül" yazısıyla birlikte İmparator Vespasianus (hüküm sürdüğü yıllar 69–79) yer alır. Kısacası, imparatorun gücünün ve başarılarının bir özeti.
+Ön yüzde, "Imp Caesar Vespasianus Aug P M TR P P P COS III" — yani "İmparator Sezar Vespasianus Augustus, Pontifex Maximus (En Büyük Rahip), Tribunicia Potestas (Halk Temsilciliği Yetkisi), Pater Patriae (Anavatanın Babası), Üçüncü Kez Konsül" yazısıyla birlikte İmparator Vespasianus (hüküm sürdüğü yıllar 69–79) yer alır. Kısacası, imparatorun gücünün ve başarılarının bir özeti.
 
 Arka yüzde, askeri kıyafetli tanrıça Roma, Roma'nın yedi tepesi üzerinde otururken görülür; dizinde, Roma'nın askeri gücünün simgesi olan küçük bir kılıç durur. Sağında ve solunda SC (Senatus Consultum, "Senato kararıyla") kısaltması yer alır.
 
-Sağda, Roma'yı çevreleyen Tiber nehrini temsil eden erkek bir figür, Roma'nın önünde eğilir. Sol altta, dişi bir kurt Romulus ve Remus'u emzirir; bu, Roma'nın MÖ 753'te Truva'nın soyundan gelenler tarafından kuruluş hikâyesini hatırlatır. En altta ise Roma sözcüğü yer alır — belki de [Roma'nın gizli adı olan ve tersten okununca "aşk" anlamına gelen Amor'a](https://www.quartahospitalityinrome.com/en/Rome-and-the-secret-of-its-name/) bir gönderme.
+Sağda, Roma'yı çevreleyen Tiber nehrini temsil eden erkek bir figür, Roma'nın önünde eğilir. Sol altta, dişi bir kurt Romulus ve Remus'u emzirir; bu, Roma'nın geleneksel kuruluş efsanesini hatırlatır — kentin, Romalı eskiçağ araştırmacısı Varro tarafından MÖ 753'e tarihlenmesini ve Truva'dan kaçan mültecilerin soyundan, Romulus ve Remus aracılığıyla geldiğine dair kendi anlattığı köken hikâyesini. En altta ise Roma sözcüğü yer alır — belki de Roma'nın tersten okununca "aşk" anlamına gelen bir "gizli ad" geleneğine, Amor'a bir gönderme (bu gelenek, diğerlerinin yanı sıra, Servius'un Vergilius'un Aeneis'i üzerine geç antik dönem şerhinde de yankılanır).
 
 Yani madalyonun arka yüzü, Roma'nın gücünün ve kalıcılığının açık bir kutlamasıdır. Peki Vahiy Kitabı bu aynı imgeyle ne yapar?
 
@@ -35,6 +35,8 @@ Yani madalyonun arka yüzü, Roma'nın gücünün ve kalıcılığının açık 
 - Ve kendini düşmanlardan kılıcıyla korumak yerine, azizlerin kanıyla örtülür.
 
 Madalyonun {{% int_link val="Pax Romana'yı" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} kutlaması, adım adım, tiksinti ve hor görü dolu bir imgeye dönüştürülür — bu parayı günlük hayatında elinde tutan her mümine, Roma'ya güvenilemeyeceğini hatırlatan bir uyarı. Bu, olağanüstü etkili bir karşı propagandadır.
+
+Bu, tek başına duran bir retorik hamle değildir. "Babil," dönemin Yahudi ve erken Hristiyan yazınında Roma için tanınmış bir kod addır — en açık biçimde 1. Petrus 5:13'te, ayrıca 2. Baruh, 4. Ezra ve Sibylline Kehanetleri 5 gibi eserlerde de. Babil, MÖ 586'da Süleyman'ın tapınağını yıkmıştı; Roma ise MS 70'te İkinci Tapınağı yıktı. Roma'ya "Babil" demek, onu Tanrı'nın tapınağını yıkan ve buna karşılık Tanrı'nın yargısıyla karşılaşan gururlu bir pagan imparatorluk tipolojisinin aynı örüntüsüne yerleştiriyordu.
 
 ## Ekphrasis
 

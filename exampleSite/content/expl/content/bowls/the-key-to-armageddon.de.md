@@ -17,16 +17,16 @@ sources:
       ref: fee_rev
 ---
 
-Armageddon: eine Katastrophe, die die Welt zerstören wird? Nein — denn es ist überhaupt kein Ort. Es ist ein Konzept. Willst du wissen, warum? Dann lies weiter.
+Armageddon: eine Katastrophe, die die Welt zerstören wird? Nein — denn was auch immer an realer Geografie hinter dem Namen steht, Johannes verwendet ihn als Symbol, nicht um ein wörtliches Schlachtfeld zu benennen. Willst du wissen, warum? Dann lies weiter.
 
 ## Die Übersetzung
 
 <a name="8763"></a>
 Der Begriff Armageddon wird nur ein einziges Mal {{% bible val="in der Bibel erwähnt," link="rev:16,16" lang="de" %}} mit dem Hinweis, dass es sich um einen hebräischen Begriff handelt — der interlineare Text selbst gibt jedoch keinen weiteren Aufschluss darüber, was er bedeutet. Gehen wir die Sache also Schritt für Schritt an.
 
-„Ar“ bedeutet im Hebräischen „Berg“, aber welcher Berg? Es gibt drei Möglichkeiten, und alle drei erweisen sich, wie ich meine, als relevant.
+„Har“ bedeutet im Hebräischen „Berg“, aber welcher Berg? Megiddo selbst liegt auf einem Tell, keinem markanten Berg, was mit ein Grund dafür ist, dass mehr als eine Herleitung vorgeschlagen wurde. Es gibt drei Möglichkeiten, und alle drei erweisen sich, wie ich meine, als relevant.
 
-Es kann „Berg der Versammlung“ bedeuten, hergeleitet aus {{% bible val="einer Passage bei Jesaja" link="isa:14,13" lang="de" %}}, die den Fall Babylons beschreibt. Der Vers unmittelbar davor — Babylon, dargestellt als „vom Himmel gefallen, du Morgenstern, Sohn der Morgenröte“ — beschreibt tatsächlich eher die Mächte hinter Babylon als Babylon selbst und dürfte sich auf Satan beziehen. Das ganze Kapitel ist eine {{% bible val="Verspottung" link="isa:14,3-4" lang="de" %}} des scheinbar Unbesiegbaren, der vollständig vernichtet wird.
+Es kann „Berg der Versammlung“ bedeuten, hergeleitet aus {{% bible val="einer Passage bei Jesaja" link="isa:14,13" lang="de" %}}, die den Fall Babylons beschreibt. Der Vers unmittelbar davor — Babylon, dargestellt als „vom Himmel gefallen, du Morgenstern, Sohn der Morgenröte“ — beschreibt tatsächlich eher die Mächte hinter Babylon als Babylon selbst und dürfte sich durchaus auf Satan beziehen, auch wenn diese Deutung erst durch die spätere christliche Tradition zum Standard wurde; der unmittelbare Kontext nennt den König von Babylon als Ziel des Spotts, und viele moderne Ausleger lesen die Rede vom „Morgenstern“ als gängiges altorientalisches Bild für einen maßlosen König, das erst später typologisch auf Satan übertragen wurde. Das ganze Kapitel ist eine {{% bible val="Verspottung" link="isa:14,3-4" lang="de" %}} des scheinbar Unbesiegbaren, der vollständig vernichtet wird.
 
 Es kann auch „Berg von Megiddo“ bedeuten. Diese Deutung braucht mehr Raum zur Entfaltung, denn bei Megiddo und seinem Berg ereigneten sich sehr viele Geschehnisse.
 
@@ -48,7 +48,7 @@ Der Berg bei Megiddo heißt Karmel, und {{% bible val="hier spielt sich eine der
 
 Zunächst etwas Hintergrund. König Ahab von Israel führte zusammen mit seiner Frau Isebel aus Sidon (einem Königreich nördlich von Israel) den Kult des Baal ein, des Fruchtbarkeitsgottes, zu dessen Hauptaufgaben es gehörte, Regen zu bringen — ohne den es keine Ernte gäbe. Königin Isebel {{% bible val="jagt die Propheten Gottes, bis scheinbar nur noch einer übrig ist: Elia" link="1ki:19,10" lang="de" %}}. Nach Elias Prophezeiung bleibt der Regen dreieinhalb Jahre lang aus, und der ganze Konflikt spitzt sich auf dem Berg Karmel zu, wo er mehreren Hundert Baalspropheten gegenübertritt und sie besiegt.
 
-Die Geschichte endet dort jedoch nicht. {{% bible val="Die Königin ist wütend und will ihn tot sehen; Elia wiederum gibt auf und will sterben, doch Gott ruft ihn zurück, um Elisa und Jehu zu salben." link="1ki:19" lang="de" %}}
+Die Geschichte endet dort jedoch nicht. {{% bible val="Die Königin ist wütend und will ihn tot sehen; Elia wiederum gibt auf und will sterben, doch Gott ruft ihn zurück, um Elisa und Jehu zu salben." link="1ki:19" lang="de" %}} Auf dem Weg dorthin korrigiert Gott sanft Elias Verzweiflung: Er hatte gedacht, er sei der letzte Treue, der übrig geblieben ist, doch Gott offenbart ihm siebentausend in Israel, die sich nie vor Baal gebeugt haben — dasselbe Muster von „die Schwachen besiegen die Unbesiegbaren", das sich durch diese ganze Geschichtensammlung zieht.
 
 Als Jehu, {{% bible val="der Heerführer, schließlich gesalbt wird" link="2ki:9" lang="de" %}}, macht er sich daran, Isebels gesamtes Netzwerk bis nach Juda auszulöschen. Dabei kreuzt Jehu den Weg des Königs von Juda und erschießt ihn — und der König von Juda stirbt ausgerechnet in Megiddo.
 
@@ -64,4 +64,4 @@ Assyrien hatte Israel bis zu diesem Zeitpunkt ständig unterdrückt und hörte n
 <a name="6c2d"></a>
 Armageddon steht für ein Paradox, das sich durch das gesamte Neue Testament zieht, besonders aber durch das Buch der Offenbarung: Der Unbesiegbare wird vernichtet, und der Schwache siegt. Die obigen Geschichten zeichnen dieses Muster immer wieder nach.
 
-Der Ort des Todes verspottet den, der alles besiegt hat. Eine Hausfrau besiegt einen Heerführer. Ein einzelner Prophet bringt ganz Israel zu Gott zurück und besiegt Hunderte Propheten der bösen Königin. Ein einzelner Heerführer stürzt seinen eigenen König und den benachbarten König, ohne jede wirkliche Vorbereitung. Ein König eines winzigen Reiches kämpft gegen eine Weltmacht, wird besiegt und getötet — und sichert durch seinen Tod die Zukunft seines Volkes.
+Der Ort des Todes verspottet den, der alles besiegt hat. Eine Hausfrau besiegt einen Heerführer. Ein einzelner Prophet bringt ganz Israel zu Gott zurück und besiegt Hunderte Propheten der bösen Königin. Ein einzelner Heerführer stürzt seinen eigenen König und den benachbarten König, ohne jede wirkliche Vorbereitung. Ein König eines winzigen Reiches kämpft gegen eine Weltmacht, wird besiegt und getötet — und sichert durch seinen Tod die Zukunft seines Volkes. Es ist dasselbe Muster, das Paulus direkt benennt — „Gott hat erwählt, was in der Welt schwach ist, um das Starke zuschanden zu machen" (1. Korinther 1,27) — und dieselbe Umkehrung, die am Thron selbst dargestellt wird, wo sich der Löwe von Juda als geschlachtetes Lamm erweist (Offenbarung 5,5–6).

@@ -119,7 +119,7 @@ Diese Parallelen geben der Gemeinde eine Vision ihrer eigenen geistlichen Wirkli
 <tr>
     <td>Bücher werden geöffnet</td>
     <td>{{% bible val="Daniel" link="dan:7,10" lang="de" %}}</td>
-    <td>{{% bible val="Offenbarung" link="rev:5,9" lang="de" %}}</td>
+    <td>{{% bible val="Offenbarung (das Lamm wird für würdig erklärt, sie zu öffnen; das eigentliche Öffnen beginnt erst in 6,1)" link="rev:5,9" lang="de" %}}</td>
 </tr>
 <tr>
     <td>Göttliche (messianische) Gestalt nähert sich dem Thron, um Vollmacht zu empfangen</td>
@@ -154,7 +154,7 @@ Diese Parallelen geben der Gemeinde eine Vision ihrer eigenen geistlichen Wirkli
 </tbody>
 </table>
 
-So umfangreich die Parallelen sind, erkennt man doch leicht, dass die Reihenfolge der Ereignisse in beiden Abschnitten unterschiedlich ist.
+So umfangreich die Parallelen sind, erkennt man doch leicht, dass die Reihenfolge der Ereignisse in beiden Abschnitten unterschiedlich ist. (Die hier bereits verheißene gemeinsame Herrschaft der Heiligen wird oft mit der tausendjährigen Herrschaft aus Offenbarung 20 in Verbindung gebracht — wie beide zusammenhängen, ist eine eigene, umstrittene Frage; siehe {{% int_link val="Prämillennialismus, Postmillennialismus und Amillennialismus im Vergleich" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
 
 Diese Szene erinnert außerdem an das Bild des himmlischen Rates, wie zum Beispiel
 
@@ -181,14 +181,14 @@ Für all das ist die Anbetung die Antwort:
 ## Der Thronsaal
 
 <a name="0938"></a>
-Johannes' erster Eindruck ist die Herrlichkeit Gottes — so überwältigend, dass es unmöglich ist, Gott direkt zu sehen. {{% bible val="Als Mose bat, Gottes Herrlichkeit zu sehen, konnte er es nicht, sondern Gott zeigte ihm stattdessen seine Gnade. So lässt sich Gottes Herrlichkeit als seine Gnade beschreiben" link="exo:33,18-20" lang="de" %}}. Wir sollten die folgenden Gerichte also aus der Perspektive der Gnade lesen.
+Johannes' erster Eindruck ist die Herrlichkeit Gottes — so überwältigend, dass es unmöglich ist, Gott direkt zu sehen. {{% bible val="Als Mose bat, Gottes Herrlichkeit zu sehen, konnte er es nicht — doch Gott ließ seine Güte an ihm vorüberziehen und verkündete seinen Namen: barmherzig und gnädig, und doch einer, der den Schuldigen nicht ungestraft lässt. Gottes Herrlichkeit hält Barmherzigkeit und Gerechtigkeit zusammen" link="exo:33,18-20" lang="de" %}}. Wir sollten die folgenden Gerichte also aus der Perspektive eben dieser Herrlichkeit lesen: echte Barmherzigkeit, zusammengehalten mit echter Gerechtigkeit.
 
 Das zweite bemerkenswerte Detail ist der {{% bible val="Regenbogen" link="rev:4,3" lang="de" %}}. {{% bible val="Er erinnert an den Bund mit Noah, in dem Gott den Regenbogen als sein Versprechen setzte, die Erde nie wieder mit einer Flut zu vernichten und die Jahreszeiten zu erhalten. Diesem Bund war keine Bedingung an Noah geknüpft" link="gen:9,8-11" lang="de" %}}. Dieses Detail wirft ein eigenes Licht auf die Art der Plagen, die aus dem Thronsaal hervorgehen: Es gibt Gericht, aber es ist begrenzt.
 
 Das letzte Detail ist das {{% bible val="gläserne Meer" link="rev:4,6" lang="de" %}}, das drei Assoziationen trägt:
 - {{% bible val="Gottes Herrlichkeit im Himmel" link="ezk:1,22" lang="de" %}} und {{% bible val="auf der Erde während des Auszugs" link="exo:24,10" lang="de" %}},
 - {{% bible val="Israels Durchzug durch das Rote Meer beim Auszug" link="exo:15,8" lang="de" %}},
-- das {{% bible val="bronzene Meer in Salomos Tempel" link="2ki:25,13" lang="de" %}}.
+- das bronzene Meer in Salomos Tempel ({{% bible val="seine Herstellung" link="1ki:7,23-26" lang="de" %}}).
 
 Das Meer ist zugleich der {{% bible val="Ort des Bösen" link="psa:74,10-17" lang="de" %}} und wird mit {{% bible val="bösen Menschen" link="isa:57,20" lang="de" %}} in Verbindung gebracht — das gläserne Meer ist also ein Bild des erstarrten Bösen.
 
@@ -206,10 +206,12 @@ Blicken wir voraus auf die kommenden Ereignisse, sehen wir:
 <a name="e545"></a>
 In der antiken Welt repräsentierte der Tempel — selbst ein Abbild des himmlischen Thronsaals — die ganze Welt. Gott steht im Zentrum, und alles um ihn herum findet seinen Platz in der Beziehung zu ihm.
 
-Die Schöpfung selbst wird durch {{% bible val="die vier Lebewesen" link="rev:4,7" lang="de" %}} dargestellt, die bereits {{% bible val="Hesekiel" link="ezk:1,5-21" lang="de" %}} beschrieben hat:
+Schöpfung ist eine traditionelle Deutung der {{% bible val="vier Lebewesen" link="rev:4,7" lang="de" %}}, die bereits {{% bible val="Hesekiel" link="ezk:1,5-21" lang="de" %}} beschrieben hat:
 - der Löwe, Herrscher der Landtiere,
 - der Ochse, stärkstes der Haustiere,
 - der Mensch, Herrscher der Schöpfung,
 - der Adler, Herrscher der Lüfte.
 
-Zu ihnen gesellen sich die {{% bible val="24 Ältesten" link="rev:4,4" lang="de" %}}, die an die {{% bible val="24 Priesterordnungen" link="1ch:24,3-19" lang="de" %}}, die {{% bible val="24 levitischen Torwächter" link="1ch:26,17-19" lang="de" %}} und die {{% bible val="24 von David eingesetzten ständigen Anbeter" link="1ch:25" lang="de" %}} erinnern — zugleich aber auch an die 12 Stämme Israels und die 12 Apostel als Fundament der Gemeinde. Israel und die Gemeinde sind mit anderen Worten trotz aller Konflikte als eine Einheit zu verstehen. Die Gemeinde ist im Kern als eine anbetende Gemeinde definiert.
+Doch Hesekiels eigene Parallelvision benennt diese Klasse von Wesen ausdrücklich als Cherubim (Hes 10,20) — die höchste Ordnung der engelhaften Throndiener. Beide Deutungen haben echte Grundlage: Die vier Lebewesen könnten das gesamte geschaffene Leben repräsentieren, das sich zur Anbetung versammelt, oder sie könnten die cherubischen Wesen sein, die diese Anbetung anführen, oder beides zugleich.
+
+Zu ihnen gesellen sich die {{% bible val="24 Ältesten" link="rev:4,4" lang="de" %}}, die an die {{% bible val="24 Priesterordnungen" link="1ch:24,3-19" lang="de" %}}, die {{% bible val="24 levitischen Torwächter" link="1ch:26,17-19" lang="de" %}} und die {{% bible val="24 von David eingesetzten ständigen Anbeter" link="1ch:25" lang="de" %}} erinnern — zugleich aber auch an die 12 Stämme Israels und die 12 Apostel als Fundament der Gemeinde. (Manche Ausleger sehen die Ältesten stattdessen als Mitglieder des himmlischen Rates — eine Ordnung von Engeln statt erlöster Menschen; die Identifikation ist umstritten. Doch die priesterlichen und davidischen Anbetungsanklänge machen die Deutung als Repräsentanten von Gottes Volk hier zur naheliegenderen Lesart.) Israel und die Gemeinde sind mit anderen Worten trotz aller Konflikte als eine Einheit zu verstehen. Die Gemeinde ist im Kern als eine anbetende Gemeinde definiert.

@@ -21,11 +21,11 @@ Beginnen wir mit einer Münze, die zu jener Zeit gängige Währung gewesen wäre
 
 ![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
 
-Auf der Vorderseite ist Kaiser Vespasian (regierte 69–79) mit der Inschrift „Imp Caesar Vespasianus Aug PM TP PP COS III" abgebildet — „Kaiser Caesar Vespasian Augustus, Pontifex Maximus (Oberster Priester), Tribunicia Potestas (Tribunengewalt), Pater Patriae (Vater des Vaterlandes), Consul zum dritten Mal." Kurz gesagt, ein Lebenslauf der Macht und Errungenschaften des Kaisers.
+Auf der Vorderseite ist Kaiser Vespasian (regierte 69–79) mit der Inschrift „Imp Caesar Vespasianus Aug P M TR P P P COS III" abgebildet — „Kaiser Caesar Vespasian Augustus, Pontifex Maximus (Oberster Priester), Tribunicia Potestas (Tribunengewalt), Pater Patriae (Vater des Vaterlandes), Consul zum dritten Mal." Kurz gesagt, ein Lebenslauf der Macht und Errungenschaften des Kaisers.
 
 Die Rückseite zeigt die Göttin Roma in militärischer Kleidung, sitzend auf den sieben Hügeln Roms, mit einem kleinen Schwert auf ihrem Knie als Symbol der militärischen Macht Roms. Zu ihrer Linken und Rechten steht die Abkürzung SC (Senatus Consultum, „auf Beschluss des Senats").
 
-Rechts verneigt sich eine männliche Gestalt, die den Fluss Tiber darstellt, der Rom umgibt, vor Roma. Unten links säugt eine Wölfin Romulus und Remus, eine Erinnerung an die Gründungsgeschichte Roms im Jahr 753 v. Chr. durch die Nachkommen Trojas. Ganz unten steht das Wort Roma — möglicherweise ein Hinweis auf [Roms geheimen Namen Amor](https://www.quartahospitalityinrome.com/en/Rome-and-the-secret-of-its-name/), der rückwärts gelesen „Liebe" ergibt.
+Rechts verneigt sich eine männliche Gestalt, die den Fluss Tiber darstellt, der Rom umgibt, vor Roma. Unten links säugt eine Wölfin Romulus und Remus, eine Erinnerung an Roms traditionelle Gründungslegende — die eigene Datierung der Stadt durch den römischen Altertumsforscher Varro auf 753 v. Chr., und ihre selbst erzählte Abstammung von trojanischen Flüchtlingen über Romulus und Remus. Ganz unten steht das Wort Roma — möglicherweise ein Hinweis auf Roms Tradition eines „geheimen Namens", Amor, der rückwärts gelesen „Liebe" ergibt (eine Tradition, die unter anderem im spätantiken Kommentar des Servius zu Vergils Aeneis nachklingt).
 
 Die Rückseite der Münze ist also eine unverhohlene Feier der Macht und Beständigkeit Roms. Was macht die Offenbarung mit genau dieser Bildsprache?
 
@@ -35,6 +35,8 @@ Die Rückseite der Münze ist also eine unverhohlene Feier der Macht und Bestän
 - Und statt sich mit ihrem Schwert vor Feinden zu schützen, ist sie mit dem Blut der Heiligen bedeckt.
 
 Die Feier der {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} auf der Münze wird Punkt für Punkt in ein Bild der Verachtung und des Abscheus verkehrt — eine Erinnerung an jeden Gläubigen, der diese Münze im Alltag in der Hand hielt, dass man Rom nicht trauen konnte. Es ist bemerkenswert wirksame Gegenpropaganda.
+
+Das ist keine isolierte rhetorische Spitze. „Babylon" selbst ist in der jüdischen und frühchristlichen Literatur jener Zeit ein anerkannter Deckname für Rom — am deutlichsten in 1. Petrus 5,13, aber auch in Werken wie 2. Baruch, 4. Esra und den Sibyllinischen Orakeln 5. Babylon hatte 586 v. Chr. den Tempel Salomos zerstört; Rom zerstörte 70 n. Chr. den Zweiten Tempel. Rom „Babylon" zu nennen, stellte es in dasselbe typologische Muster eines stolzen heidnischen Reiches, das Gottes Tempel zerstört und dafür seinerseits Gottes Gericht erfährt.
 
 ## Die Ekphrasis
 

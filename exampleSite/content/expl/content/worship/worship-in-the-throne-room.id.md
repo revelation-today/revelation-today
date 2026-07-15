@@ -119,7 +119,7 @@ Kesejajaran-kesejajaran ini memberikan jemaat sebuah penglihatan tentang realita
 <tr>
     <td>Kitab-kitab dibuka</td>
     <td>{{% bible val="Daniel" link="dan:7,10" lang="ind" %}}</td>
-    <td>{{% bible val="Wahyu" link="rev:5,9" lang="ind" %}}</td>
+    <td>{{% bible val="Wahyu (Anak Domba dinyatakan layak untuk membukanya; pembukaannya sendiri dimulai di pasal 6:1)" link="rev:5,9" lang="ind" %}}</td>
 </tr>
 <tr>
     <td>Sosok ilahi (mesianik) mendekati takhta untuk menerima otoritas</td>
@@ -154,7 +154,7 @@ Kesejajaran-kesejajaran ini memberikan jemaat sebuah penglihatan tentang realita
 </tbody>
 </table>
 
-Meskipun kesejajarannya sangat banyak, kamu bisa dengan mudah melihat bahwa urutan peristiwa berbeda antara kedua nas ini.
+Meskipun kesejajarannya sangat banyak, kamu bisa dengan mudah melihat bahwa urutan peristiwa berbeda antara kedua nas ini. (Pemerintahan bersama para kudus yang telah dijanjikan di sini sering dikaitkan dengan pemerintahan seribu tahun dalam Wahyu 20 - bagaimana keduanya berhubungan adalah pertanyaan tersendiri yang masih diperdebatkan; lihat {{% int_link val="perbandingan premilenialisme, postmilenialisme, dan amilenialisme" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
 
 Adegan ini juga mengingatkan kita pada gambaran dewan malaikat, seperti pada
 
@@ -181,14 +181,14 @@ Untuk semuanya itu, penyembahan adalah jawabannya:
 ## Ruang Takhta
 
 <a name="0938"></a>
-Kesan pertama Yohanes adalah kemuliaan Allah - begitu dahsyat sehingga mustahil untuk memandang Allah secara langsung. {{% bible val="Ketika Musa meminta untuk melihat kemuliaan Allah, ia tidak diperkenankan, tetapi sebagai gantinya Allah menunjukkan kepadanya kasih karunia-Nya. Dengan demikian kemuliaan Allah dapat digambarkan sebagai kasih karunia-Nya" link="exo:33,18-20" lang="ind" %}}. Maka penghakiman-penghakiman yang akan menyusul seharusnya kita baca dari sudut pandang kasih karunia ini.
+Kesan pertama Yohanes adalah kemuliaan Allah - begitu dahsyat sehingga mustahil untuk memandang Allah secara langsung. {{% bible val="Ketika Musa meminta untuk melihat kemuliaan Allah, ia tidak diperkenankan - namun Allah membiarkan kebaikan-Nya lewat di hadapannya dan menyerukan nama-Nya: penuh belas kasihan dan kasih karunia, namun juga Dia yang tidak akan membiarkan yang bersalah tidak dihukum. Kemuliaan Allah menyatukan belas kasihan dan keadilan" link="exo:33,18-20" lang="ind" %}}. Maka penghakiman-penghakiman yang akan menyusul seharusnya kita baca dari sudut pandang kemuliaan yang sama ini: belas kasihan sejati, yang disatukan dengan keadilan sejati.
 
 Detail kedua yang layak diperhatikan adalah {{% bible val="pelangi" link="rev:4,3" lang="ind" %}}. {{% bible val="Ini mengingatkan pada perjanjian dengan Nuh, ketika Allah menciptakan pelangi sebagai janji-Nya untuk tidak pernah lagi membanjiri bumi dan untuk menjaga musim-musim tetap berjalan. Tidak ada tuntutan apa pun bagi Nuh dalam perjanjian ini" link="gen:9,8-11" lang="ind" %}}. Detail ini memberi cahaya tersendiri pada sifat malapetaka-malapetaka yang keluar dari ruang takhta ini: ada penghakiman, tetapi penghakiman itu dibatasi.
 
 Detail terakhir adalah {{% bible val="lautan kaca" link="rev:4,6" lang="ind" %}}, yang membawa tiga asosiasi:
 - {{% bible val="kemuliaan Allah di surga" link="ezk:1,22" lang="ind" %}} dan {{% bible val="di bumi pada masa keluarnya bangsa Israel dari Mesir" link="exo:24,10" lang="ind" %}},
 - {{% bible val="penyeberangan Laut Merah oleh bangsa Israel pada masa keluarnya mereka dari Mesir" link="exo:15,8" lang="ind" %}},
-- {{% bible val="lautan tembaga di Bait Suci Salomo" link="2ki:25,13" lang="ind" %}}.
+- lautan tembaga di Bait Suci Salomo ({{% bible val="pembuatannya" link="1ki:7,23-26" lang="ind" %}}).
 
 Laut juga adalah {{% bible val="tempat kejahatan" link="psa:74,10-17" lang="ind" %}} dan dikaitkan dengan {{% bible val="orang-orang jahat" link="isa:57,20" lang="ind" %}} - sehingga lautan kaca ini adalah gambaran kejahatan yang telah membeku.
 
@@ -206,10 +206,12 @@ Jika kita melihat ke depan pada peristiwa-peristiwa yang akan datang, kita melih
 <a name="e545"></a>
 Pada masa kuno, Bait Suci - yang sendiri merupakan cerminan dari ruang takhta surgawi - merepresentasikan seluruh dunia. Allah berada di pusat, dan segala sesuatu di sekeliling-Nya menemukan tempatnya dalam hubungan dengan-Nya.
 
-Ciptaan sendiri direpresentasikan oleh {{% bible val="keempat makhluk hidup" link="rev:4,7" lang="ind" %}} yang sudah digambarkan {{% bible val="oleh Yehezkiel" link="ezk:1,5-21" lang="ind" %}}:
+Ciptaan adalah salah satu tafsiran tradisional atas {{% bible val="keempat makhluk hidup" link="rev:4,7" lang="ind" %}} yang sudah digambarkan {{% bible val="oleh Yehezkiel" link="ezk:1,5-21" lang="ind" %}}:
 - singa, penguasa binatang darat,
 - lembu, yang terkuat di antara hewan ternak,
 - manusia, penguasa ciptaan,
 - rajawali, penguasa udara.
 
-Mereka bergabung dengan {{% bible val="kedua puluh empat tua-tua" link="rev:4,4" lang="ind" %}}, yang menggemakan {{% bible val="24 rombongan imam" link="1ch:24,3-19" lang="ind" %}}, {{% bible val="24 penjaga pintu gerbang orang Lewi" link="1ch:26,17-19" lang="ind" %}}, dan {{% bible val="24 penyembah tetap" link="1ch:25" lang="ind" %}} yang ditetapkan oleh Daud - tetapi juga menggemakan 12 suku Israel dan 12 rasul sebagai dasar jemaat. Dengan kata lain, Israel dan jemaat harus dipandang sebagai satu kesatuan, terlepas dari segala konflik di antara keduanya. Jemaat, pada intinya, didefinisikan sebagai jemaat yang menyembah.
+Namun penglihatan paralel Yehezkiel sendiri secara eksplisit menyebut kelas makhluk ini sebagai kerub (Yeh 10:20) - tatanan tertinggi dari para malaikat penjaga takhta. Kedua tafsiran ini sama-sama memiliki dasar yang kuat: keempat makhluk hidup ini bisa mewakili seluruh ciptaan yang berkumpul dalam penyembahan, atau mereka adalah makhluk-makhluk kerub yang memimpin penyembahan itu, atau keduanya sekaligus.
+
+Mereka bergabung dengan {{% bible val="kedua puluh empat tua-tua" link="rev:4,4" lang="ind" %}}, yang menggemakan {{% bible val="24 rombongan imam" link="1ch:24,3-19" lang="ind" %}}, {{% bible val="24 penjaga pintu gerbang orang Lewi" link="1ch:26,17-19" lang="ind" %}}, dan {{% bible val="24 penyembah tetap" link="1ch:25" lang="ind" %}} yang ditetapkan oleh Daud - tetapi juga menggemakan 12 suku Israel dan 12 rasul sebagai dasar jemaat. (Sebagian penafsir justru memandang para tua-tua ini sebagai anggota dewan surgawi - sebuah tatanan malaikat, bukan manusia yang telah ditebus; identifikasi ini masih diperdebatkan. Namun gema imamat dan penyembahan ala Daud membuat pembacaan sebagai wakil umat Allah menjadi yang paling cocok di sini.) Dengan kata lain, Israel dan jemaat harus dipandang sebagai satu kesatuan, terlepas dari segala konflik di antara keduanya. Jemaat, pada intinya, didefinisikan sebagai jemaat yang menyembah.

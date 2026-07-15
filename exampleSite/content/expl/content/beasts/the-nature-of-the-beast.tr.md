@@ -30,7 +30,7 @@ Tanrı'nın kendisi üç olduğu için Şeytan da her zaman bir üçlü biçimin
 
 İlk kez {{% bible val="Mesih tahta çıktıktan hemen sonra" link="rev:5" lang="tr" %}} görülür; Mesih tomarı açmaya layık bulunan tek kişidir ve Şeytan {{% bible val="dört atlı olarak" link="rev:6,1-8" lang="tr" %}} ortaya çıkar — dördüncüsü diğer üçünü özetler. Buradaki eylemi yalnızca sekiz ayette anlatılır; bu, öncesindeki Tanrı'ya sonsuz tapınmayı betimleyen iki tam bölümle keskin bir tezat oluşturur.
 
-İlk atlı büyük bir galip olarak görünür, ama yalnızca yedi ayet sonra geride tam bir yıkım sahnesi bırakır: Şeytan verdiği sözleri yerine getiremez.
+İlk atlı büyük bir galip olarak görünür, ama yalnızca birkaç ayet sonra geride tam bir yıkım sahnesi bırakır: Şeytan verdiği sözleri yerine getiremez.
 
 İkinci kez, kadından doğan {{% bible val="İsa'nın yeniden muzaffer ilan edildiği" link="rev:12" lang="tr" %}} sahnede ortaya çıkar. Burada Şeytan nihai kaybeden olarak gösterilir:
 
@@ -67,7 +67,7 @@ Son olarak, fahişenin öyküsü var. 17. bölümdeki pek çok oyuncuya rağmen,
 | Vahiy 13'teki ilk canavar | Vahiy 17'deki canavar |
 |----------------------------------|----------------------------|
 | {{% bible val="7 başı ve 10 boynuzu vardır" link="rev:13,1" lang="tr" %}} | {{% bible val="7 başı ve 10 boynuzu vardır" link="rev:17,3" lang="tr" %}} |
-| {{% bible val="Başı boğazlanmış gibidir, yeniden büyür" link="rev:13,3" lang="tr" %}} | {{% bible val="5 kral düşmüştür, yedincisi henüz gelmedi" link="rev:17,10" lang="tr" %}} |
+| {{% bible val="Başı boğazlanmış gibidir, yeniden büyür" link="rev:13,3" lang="tr" %}} | {{% bible val="5 kral düşmüştür, yedincisi henüz gelmedi" link="rev:17,10" lang="tr" %}} (ikisi de canavarın gizemli sürekliliğine ve geri dönüşüne işaret eder, krş. {{% bible val="var olan, şimdi olmayan ve yeniden gelecek olan canavar" link="rev:17,8" lang="tr" %}}) |
 | {{% bible val="Canavara karşı kim savaşabilir" link="rev:13,4" lang="tr" %}} | {{% bible val="Canavar Kralların Kralı'na karşı savaş açar" link="rev:17,14" lang="tr" %}} |
 | {{% bible val="Küfür dolu konuşma" link="rev:13,5-6" lang="tr" %}} | {{% bible val="Küfür dolu ad" link="rev:17,3" lang="tr" %}} |
 | {{% bible val="Kutsallarla savaşır ve onları yener" link="rev:13,7" lang="tr" %}} | {{% bible val="Kuzu'yla savaşır ve yenilir" link="rev:17,14" lang="tr" %}} </br> {{% bible val="Fahişeyle savaşır ve onu yok eder" link="rev:17,16" lang="tr" %}}. |
@@ -80,15 +80,15 @@ Son olarak, fahişenin öyküsü var. 17. bölümdeki pek çok oyuncuya rağmen,
 | Vahiy 13'teki ikinci canavar | Fahişe |
 |-----------------------------------|------------|
 | {{% bible val="Yeryüzünden gelir" link="rev:13,11" lang="tr" %}} | {{% bible val="Çölde oturur" link="rev:17,3" lang="tr" %}} |
-| {{% bible val="Kuzu gibi iki boynuzu vardır" link="rev:13,11" lang="tr" %}} | {{% bible val="Kuzu'nun gelini gibi giyinmiştir" link="rev:17,4" lang="tr" %}} |
+| {{% bible val="Kuzu gibi iki boynuzu vardır" link="rev:13,11" lang="tr" %}} | {{% bible val="Zengin biçimde giyinmiş ve süslenmiştir" link="rev:17,4" lang="tr" %}}, kitabın ilerisinde geçen {{% bible val="Kuzu'nun gelini" link="rev:21,9" lang="tr" %}} imgesini anımsatır |
 | {{% bible val="(İlk) canavarın gücüyle hareket eder" link="rev:13,12" lang="tr" %}} | {{% bible val="(İlk) canavarın üzerinde oturur" link="rev:17,3" lang="tr" %}} |
-| {{% bible val="Gökten ateş yağdırabilir" link="rev:13,13" lang="tr" %}} | {{% bible val="Ateşle yönetilecektir" link="rev:17,16" lang="tr" %}} ({{% bible val="Va.18/9" link="rev:18,9" lang="tr" %}}) |
+| {{% bible val="Gökten ateş yağdırabilir" link="rev:13,13" lang="tr" %}} | {{% bible val="Ateşle yok edilecektir" link="rev:17,16" lang="tr" %}} ({{% bible val="Va.18/9" link="rev:18,9" lang="tr" %}}) |
 | {{% bible val="Kendisine tapmayan herkes öldürülür" link="rev:13,15" lang="tr" %}} | {{% bible val="Kutsalların kanını içer" link="rev:17,6" lang="tr" %}} |
 | {{% bible val="Alına ve ele bir işaret vurdurur" link="rev:13,16" lang="tr" %}} | {{% bible val="Alnında bir işaret vardır: Babil" link="rev:17,5" lang="tr" %}} |
-| {{% bible val="İşaret olmadan alım satım yapılamaz" link="rev:13,17" lang="tr" %}} | {{% bible val="İşaret olmadan alım satım yapılamaz" link="rev:18,3" lang="tr" %}} ({{% bible val="Va.18/11-17" link="rev:18,11-17" lang="tr" %}}) |
+| {{% bible val="İşaret olmadan alım satım yapılamaz" link="rev:13,17" lang="tr" %}} | {{% bible val="Onunla ticaret yapan tüccarlar, o düştüğüne göre artık hiçbir şey alıp satamaz" link="rev:18,11" lang="tr" %}} ({{% bible val="Va.18/11-17" link="rev:18,11-17" lang="tr" %}}) |
 | {{% bible val="Bilgelik gerektirir" link="rev:13,18" lang="tr" %}} | {{% bible val="Bilgelik gerektirir" link="rev:17,9" lang="tr" %}} |
 
-Burada da gücün tersine döndüğüne dikkat edin: 13. bölümde canavar gökten ateş yağdırırken, 17. bölümde kendisi ateşle yok edilir; orada insanların alnına işaret vururken, burada kendisi bir köle gibi alnından damgalanır.
+Burada da gücün tersine döndüğüne dikkat edin: 13. bölümde canavar gökten ateş yağdırırken, 17. bölümde kendisi ateşle yok edilir; orada insanların alnına işaret vururken, burada kendi alnında bir ad taşır, sanki birine aitmiş ya da yargı için işaretlenmiş gibi.
 
 Peki bu sahnede üçlünün üçüncü üyesi nerede? 13. bölümde ve atlıların betimlenişinde olduğu gibi, o da arka planda kalır — ama onu {{% bible val="altıncı kâsede" link="rev:16,13" lang="tr" %}} ve {{% bible val="20." link="rev:20,10" lang="tr" %}} bölümde görürsünüz.
 

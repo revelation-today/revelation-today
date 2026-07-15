@@ -26,12 +26,17 @@ Mektupları yazmadan önce Yuhanna, {{% int_link val="Tanrı'nın kilise için v
 
 Bu bölümün başında {{% bible val="İsa'nın ne yaptığını" link="rev:1,5-6" lang="tr" %}} zaten görmüştük. Şimdi kiliselerin gerçekte içinde bulunduğu duruma, ve Tanrı'nın onları o vizyonun tarif ettiği çağrıya doğru ilerletmek için ne yaptığına dönüyoruz.
 
+## Neden bu yedisi, bu sırayla
+
+<a name="5a12"></a>
+Efes, İzmir, Pergamon, Thyatira, Sardes, Filadelfiya, Laodikya: bu rastgele bir liste değildir. Bu, mektubu (ve Vahiy kitabının tamamını) taşıyan bir habercinin izleyeceği gerçek bir Roma yolunun sırasıdır — eyaletin başlıca limanı ve merkezi olan Efes'ten başlayıp, kıyı boyunca kuzeye İzmir'e ve oradan Pergamon'a ilerler, ardından güneydoğuya dönerek Hermus ve Kogamos vadilerinden Thyatira, Sardes ve Filadelfiya üzerinden geçer, son olarak güneydoğu iç kesimindeki Laodikya'da sona erer. Bu düzenlemenin sergilediği hangi tematik örüntüler olursa olsun, dizilimin kendisi Asya eyaleti boyunca gerçek, yaklaşık dairesel bir posta güzergâhını izler.
+
 ## Mektupların yapısı
 
-<a name="e24f"></a>
-Her mektupta İsa aynı temel örüntüyü izler: kiliseye belirli bir şekilde hitap eder, iyi işleri için över, eksiklikleri için yüzleşir ve bir söz verir — ya eksikliklerinin üstesinden gelmeleri ya da iyi işlerini sürdürmeleri için.
+<a name="4b58"></a>
+Her mektupta İsa büyük ölçüde benzer bir örüntü izler: kiliseye belirli bir şekilde hitap eder — çoğu zaman kendisiyle ilgili betimlemeyi 1. bölümdeki vizyondan alarak —, övgüye değer olanı över ve "üstün gelene" bir söz verir. Ama her mektupta bu bölümlerin hepsi bulunmaz: İzmir ve Filadelfiya hiç azarlanmaz, Laodikya ise hiç övülmez.
 
-Yedi mektup kendi içinde simetrik olarak düzenlenmiştir:
+Bu temel örüntünün üzerine, yedi mektup ayrıca bazı yorumcuların fark ettiği tematik bir simetri de sergiler:
 
 - İlk ve son kilise en kötü durumda olanlardır. İlki, Efes, değişmezse kandilliğinin yerinden kaldırılacağı konusunda uyarılır — yukarıdaki vizyon açısından bu kilise amacını yitirmiştir ve artık var olmak için bir nedeni kalmamıştır. Sonuncusu, Laodikya, hiç övgü almayan tek kilisedir.
 - İkinci ve sondan ikinci (İzmir ve Filadelfiya) hiç azarlanmayan, yalnızca övgü alan iki kilisedir.
@@ -40,6 +45,6 @@ Yedi mektup kendi içinde simetrik olarak düzenlenmiştir:
 Eşleşen kiliseleri karşılaştırmak çarpıcı noktalar ortaya çıkarır:
 
 - **Efes ve Laodikya.** Efes her şeyi doğru yapar ama ilk sevgisini kaybetmiştir. Laodikya ise tam tersine hiçbir şeyi doğru yapmaz ve kendi kendini aldatan bir sisin içinde yaşar. Ders her iki yönde de geçerlidir: sevgi olmadan geri kalan her şeyi doğru yapabilirsin, yine de Laodikya'dan daha iyi durumda olmazsın — sevgisiz bir kilise amacını yitirmiştir.
-- **İzmir ve Filadelfiya.** Her ikisi de dışarıdan gelen muhalefetle karşı karşıyadır — İzmir hapse atılmaktan korkar, Filadelfiya yoksullukla mücadele eder — ve her iki durumda da baskı Yahudi muhalefetinden gelir. Filadelfiya'ya bu muhaliflerin sonunda din değiştireceği vaat edilir; İzmir'e böyle bir vaat verilmez. Yine de her iki durumda da kiliselere sadece imanlarını korumaları ve işlerini sürdürmeleri söylenir. İsa onlara, giriştikleri her şeyin başarılı olacağını değil, kendilerini bu sürecin içinden geçireceğini vaat eder.
+- **İzmir ve Filadelfiya.** Her ikisi de dışarıdan gelen muhalefetle karşı karşıyadır, ve her iki durumda da baskı Yahudi muhalefetinden gelir. İzmir hem yoksullukla hem de hapse atılma tehdidiyle karşı karşıyadır (2:9-10); Filadelfiya'nın ise "az bir gücü" vardır — şehirdeki sınırlı sayısı veya konumu (3:8). Filadelfiya'ya bu muhaliflerin sonunda Tanrı'nın kiliseye olan sevgisini kabul etmek zorunda kalacağı vaat edilir; İzmir'e böyle bir vaat verilmez. Yine de her iki durumda da kiliselere sadece imanlarını korumaları ve işlerini sürdürmeleri söylenir. İsa onlara, giriştikleri her şeyin başarılı olacağını değil, kendilerini bu sürecin içinden geçireceğini vaat eder.
 - **Pergamon ve Sardes.** Pergamon'un cinsel ahlaksızlığını Sardes'in ruhsal cansızlığıyla karşılaştırmak adaletsiz görünebilir, ama altta yatan sorun her ikisinde de aynı olabilir: yanlış etkilerin içeri sızmasına izin veren bir önderlik — ister denetlenmeyen sahte öğretiş yoluyla, ister Ruh'un işinin denetlenmeyen yokluğu yoluyla. Kilise önderliğinin dikkatli bir çizgide yürümesi gerekir — Kutsal Ruh'a çalışması için alan tanırken, kapıyı herkesin öğretisine açık bırakmadan.
 - **Thyatira.** Merkezde tek başına duran Thyatira'ya yazılan mektup, temelde kötü önderlikle ilgilidir. İsa hem önderleri hem de takipçilerini günahları için yargılayacaktır, ve diğer kiliselerin bunu not etmesi amaçlanmıştır — kötü önderliğin bir kilisenin tanıklığına ne kadar zarar verdiğine dair keskin bir hatırlatma.

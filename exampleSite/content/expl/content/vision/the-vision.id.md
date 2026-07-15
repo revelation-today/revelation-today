@@ -17,7 +17,7 @@ Kitab Wahyu dibuka dengan kejutan besar: Yohanes mendapat penglihatan tentang so
 ## Ikhtisar
 
 <a name="1bab"></a>
-Yohanes - kemungkinan besar sang rasul - diperkenalkan sebagai seseorang yang {{% bible val="mengalami konsekuensi dari gaya hidup radikal mengikut Yesus" link="rev:1,9" lang="ind" %}}. Penglihatan yang ia terima tentang Yesus terbagi dalam tiga bagian:
+Yohanes - kemungkinan besar sang rasul (identifikasi tradisional, meskipun sebagian kecil pakar berpendapat bahwa ini adalah sosok terpisah yang dikenal sebagai "Yohanes sang Penatua") - diperkenalkan sebagai seseorang yang {{% bible val="berada di pulau Patmos, diasingkan - menurut tradisi yang banyak dipegang - karena kesaksiannya tentang Yesus, meskipun diperdebatkan apakah ini pengasingan resmi Romawi atau ladang misi yang dipilihnya sendiri" link="rev:1,9" lang="ind" %}}. Penglihatan yang ia terima tentang Yesus terbagi dalam tiga bagian:
 
 - penglihatan itu sendiri (ayat 12–16),
 - reaksinya (ayat 17a),
@@ -32,7 +32,7 @@ Beberapa unsur dalam penglihatan ini layak untuk kita renungkan:
 - **Anak Manusia.** Di tengah-tengah kaki-kaki dian itu berdiri sosok seperti Anak Manusia - gambaran yang dikenal luas dari {{% bible val="Kitab Daniel" link="dan:7,13" lang="ind" %}} yang [diterapkan Yesus pada diri-Nya sendiri](https://www.bibleserver.com/search/SLT/Menschensohn). Karena {{% bible val="Yesus juga memegang peran sebagai imam" link="heb:7,11-28" lang="ind" %}}, maka adalah {{% bible val="tanggung jawab-Nya untuk merawat kaki-kaki dian" link="exo:30,7" lang="ind" %}}, sama seperti itu adalah tugas imam di Bait Suci.
 - **Jubah dengan ikat pinggang emas.** Jubah dan ikat pinggang yang dikenakan Yesus bisa dibaca sebagai pakaian imam atau pakaian raja - sebuah ambiguitas yang mungkin memang disengaja, sebab Yesus digambarkan sekaligus sebagai imam dan raja.
 - **Rambut putih.** Ini menggemakan penglihatan Daniel pasal 7.
-- **Mata bagaikan nyala api, kaki bagaikan tembaga yang berkilau, suara yang nyaring.** Semua ini adalah {{% bible val="ciri-ciri dari Daniel pasal 10" link="dan:10,7" lang="ind" %}}, di mana {{% bible val="sosok yang dikenali sebagai malaikat pejuang" link="dan:10,20" lang="ind" %}} mempersiapkan Daniel untuk penglihatan terakhirnya - peran yang sama yang dijalankan sosok ini bagi Yohanes di sini.
+- **Mata bagaikan nyala api, kaki bagaikan tembaga yang berkilau, suara yang nyaring.** Semua ini adalah {{% bible val="ciri-ciri dari Daniel pasal 10" link="dan:10,6" lang="ind" %}}, di mana {{% bible val="sosok yang dikenali sebagai malaikat pejuang" link="dan:10,20" lang="ind" %}} mempersiapkan Daniel untuk penglihatan terakhirnya - peran yang sama yang dijalankan sosok ini bagi Yohanes di sini.
 
 Jadi Anak Manusia di sini dipadukan dengan "Yang Lanjut Usianya" (Allah) dari Daniel pasal 7.
 

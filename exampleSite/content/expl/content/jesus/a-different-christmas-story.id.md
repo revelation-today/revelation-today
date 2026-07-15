@@ -23,7 +23,7 @@ sources:
       ref: beale_rev
 ---
 
-Sebagai orang Kristen, engkau tentu sudah sangat mengenal kisah Natal klasik menurut {{% bible val="Injil Lukas" link="luk:2" lang="ind" %}}: kisah yang agak romantis tentang para gembala dan seorang bayi di kandang, serta tiga musafir dari jauh yang mengikuti sebuah bintang misterius.
+Sebagai orang Kristen, engkau tentu sudah sangat mengenal kisah Natal klasik yang disusun dari {{% bible val="Injil Lukas" link="luk:2" lang="ind" %}} dan {{% bible val="Injil Matius" link="mat:2" lang="ind" %}}: kisah yang agak romantis tentang para gembala dan seorang bayi yang dibaringkan di palungan, serta para musafir dari jauh yang mengikuti sebuah bintang misterius (tradisi belakangan, bukan teks itu sendiri, yang menetapkan jumlah mereka tiga orang, berdasarkan tiga hadiah yang mereka bawa).
 
 Kisah itu menunjukkan satu sisi Natal, dan kita sudah begitu sering mendengarnya sehingga kita hampir tidak benar-benar menyimaknya lagi. Barangkali sudah saatnya kita mendengar kisah Natal yang lain dari Alkitab — kali ini dari Kitab Wahyu pasal 12.
 
@@ -51,7 +51,7 @@ Tokoh pertama mudah dikenali. Dalam ayat 9, ia disebut secara langsung sebagai "
 Sang anak digambarkan dengan sedikit rincian, tetapi satu ciri menonjol dengan jelas: tongkat besi. Menelusuri bagian lain Alkitab, kita menemukan beberapa rujukan yang menjelaskan siapa dia sebenarnya:
 - {{% bible val="Mazmur 2" link="psa:2" lang="ind" %}} menggambarkan sebuah adegan di mana semua raja di bumi memberontak terhadap Allah, dan Allah memperingatkan mereka untuk takut kepada Anak-Nya, yang akan memerintah mereka dengan tongkat besi.
 - {{% bible val="Yesaya 11/4" link="isa:11,4" lang="ind" %}} menggambarkan Mesias yang akan datang, yang akan memukul bumi dengan tongkat dari mulut-Nya.
-- Dalam {{% bible val="Wahyu 2/27" link="rev:2,27" lang="ind" %}}, Yesus sendiri menyebut diri-Nya sebagai Dia yang memerintah dengan tongkat besi.
+- Dalam {{% bible val="Wahyu 19/15" link="rev:19,15" lang="ind" %}}, Yesus sendiri - sang penunggang yang disebut Setia dan Benar - adalah Dia yang memerintah bangsa-bangsa dengan tongkat besi.
 
 Rujukan-rujukan ini membuat cukup jelas bahwa sang anak adalah Yesus dan bahwa ini adalah kisah kelahiran-Nya.
 
@@ -59,9 +59,9 @@ Rujukan-rujukan ini membuat cukup jelas bahwa sang anak adalah Yesus dan bahwa i
 
 <a name="5a05"></a>
 Tetapi siapakah perempuan aneh yang berselubungkan matahari, bulan, dan dua belas bintang ini? Ada tiga calon untuk siapa yang melahirkan Yesus:
-- Maria, tentu saja, sebab {{% bible val="dialah yang melahirkan Yesus" link="mat:1,18-24" lang="ind" %}}.
+- Maria, tentu saja, sebab {{% bible val="dialah yang melahirkan Yesus" link="mat:1,18-25" lang="ind" %}}.
 - Hawa, yang dijanjikan bahwa {{% bible val="keturunannya akan membinasakan si ular" link="gen:3,15" lang="ind" %}}.
-- Israel, yang dijanjikan akan {{% bible val="melahirkan sang Mesias" link="isa:66,7" lang="ind" %}}.
+- Israel: Mikha menggambarkan {{% bible val="seorang perempuan yang menderita sakit bersalin melahirkan sang penguasa yang dijanjikan dari Betlehem" link="mic:5,2-3" lang="ind" %}}, dan Yesaya menggambarkan {{% bible val="Sion yang tiba-tiba melahirkan seorang anak - sebuah bangsa yang lahir kembali dalam sehari" link="isa:66,7" lang="ind" %}}.
 
 Jadi, yang manakah yang sebenarnya dimaksud dalam kisah ini? Maria tampak seperti pilihan yang jelas, tetapi tidak ada satu tempat pun dalam Alkitab yang mengaitkan Maria dengan matahari, bulan, dan bintang-bintang — justru sebaliknya: tradisi gerejalah, bukan Kitab Suci, yang belakangan mengaitkan Maria dengan matahari, bulan, dan bintang, berdasarkan anggapan bahwa perempuan inilah pastilah Maria. Untuk Hawa, seseorang bisa berargumen ada hubungannya, karena Adam dan Hawa disebutkan bersama matahari, bulan, dan bintang-bintang dalam kisah penciptaan di Kejadian 1 — tetapi hal itu masih menyisakan pertanyaan mengapa kisah kita di sini menyebutkan dua belas bintang secara khusus.
 

@@ -119,7 +119,7 @@ Bu paralellikler kiliseye kendi ruhsal gerçekliğine dair bir görüm ve Mesih'
 <tr>
     <td>Kitaplar açılır</td>
     <td>{{% bible val="Daniel" link="dan:7,10" lang="tr" %}}</td>
-    <td>{{% bible val="Vahiy" link="rev:5,9" lang="tr" %}}</td>
+    <td>{{% bible val="Vahiy (Kuzu'nun onları açmaya layık olduğu ilan edilir; açılışın kendisi 6:1'de başlar)" link="rev:5,9" lang="tr" %}}</td>
 </tr>
 <tr>
     <td>İlahi (mesihsel) bir figür yetki almak için tahta yaklaşır</td>
@@ -154,7 +154,7 @@ Bu paralellikler kiliseye kendi ruhsal gerçekliğine dair bir görüm ve Mesih'
 </tbody>
 </table>
 
-Paralellikler çok kapsamlı olsa da, iki pasaj arasında olayların sırasının farklı olduğunu kolayca görebilirsiniz.
+Paralellikler çok kapsamlı olsa da, iki pasaj arasında olayların sırasının farklı olduğunu kolayca görebilirsiniz. (Burada zaten vaat edilen kutsalların ortak egemenliği, genellikle Vahiy 20'deki bin yıllık egemenlikle ilişkilendirilir - ikisinin nasıl ilişkili olduğu ayrı, tartışmalı bir sorudur; bkz. {{% int_link val="premilenyalizm, postmilenyalizm ve amilenyalizm karşılaştırması" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
 
 Bu sahne aynı zamanda melek meclisi imgesini de hatırlatır, örneğin:
 
@@ -181,14 +181,14 @@ Bunların hepsi için cevap ibadettir:
 ## Taht odası
 
 <a name="54a4"></a>
-Yuhanna'nın ilk izlenimi Tanrı'nın yüceliğidir — o kadar güçlüdür ki Tanrı'yı doğrudan görmek imkânsızdır. {{% bible val="Musa Tanrı'nın yüceliğini görmek istediğinde göremedi, bunun yerine Tanrı ona merhametini gösterdi. Böylece Tanrı'nın yüceliği, O'nun merhameti olarak tanımlanabilir" link="exo:33,18-20" lang="tr" %}}. Bu yüzden sonrasında gelen yargıları merhamet açısından okumalıyız.
+Yuhanna'nın ilk izlenimi Tanrı'nın yüceliğidir — o kadar güçlüdür ki Tanrı'yı doğrudan görmek imkânsızdır. {{% bible val="Musa Tanrı'nın yüceliğini görmek istediğinde göremedi — ama Tanrı iyiliğini önünden geçirdi ve adını ilan etti: merhametli ve lütufkâr, ama suçluyu cezasız bırakmayan biri. Tanrı'nın yüceliği merhametle adaleti bir arada tutar" link="exo:33,18-20" lang="tr" %}}. Bu yüzden sonrasında gelen yargıları, bu aynı yücelik açısından okumalıyız: gerçek merhamet, gerçek adaletle bir arada tutulmuş halde.
 
 Dikkat edilmesi gereken ikinci ayrıntı {{% bible val="gökkuşağıdır" link="rev:4,3" lang="tr" %}}. {{% bible val="Bu, Tanrı'nın yeryüzünü bir daha asla tufanla kaplamayacağına ve mevsimleri koruyacağına dair verdiği söz olarak gökkuşağını yarattığı Nuh'la yapılan antlaşmanın bir hatırlatıcısıdır. Bu antlaşmada Nuh'tan hiçbir talep yoktur" link="gen:9,8-11" lang="tr" %}}. Bu ayrıntı, taht odasından çıkan belaların doğasına kendi ışığını tutar: yargılar vardır, ama sınırlıdırlar.
 
 Son ayrıntı ise üç çağrışımı olan {{% bible val="camdan denizdir" link="rev:4,6" lang="tr" %}}:
 - {{% bible val="gökteki Tanrı'nın yüceliği" link="ezk:1,22" lang="tr" %}} ve {{% bible val="Mısır'dan Çıkış sırasında yeryüzündeki yüceliği" link="exo:24,10" lang="tr" %}},
 - {{% bible val="İsrail'in Mısır'dan Çıkış sırasında Kızıldeniz'i geçişi" link="exo:15,8" lang="tr" %}},
-- {{% bible val="Süleyman'ın tapınağındaki tunç deniz" link="2ki:25,13" lang="tr" %}}.
+- Süleyman'ın tapınağındaki tunç deniz ({{% bible val="yapımı" link="1ki:7,23-26" lang="tr" %}}).
 
 Deniz aynı zamanda {{% bible val="kötülüğün yeridir" link="psa:74,10-17" lang="tr" %}} ve {{% bible val="kötü insanlarla" link="isa:57,20" lang="tr" %}} ilişkilendirilir — dolayısıyla camdan deniz, katılaşmış kötülüğün bir tasviridir.
 
@@ -206,10 +206,12 @@ Bir araya getirildiğinde, camdan deniz Tanrı'nın halkına yakın olduğunu ve
 <a name="e932"></a>
 Eski dünyada, göksel taht odasının bir yansıması olan tapınağın kendisi, tüm dünyayı temsil ederdi. Tanrı merkezdedir, ve etrafındaki her şey O'nunla ilişkisinde kendi yerini bulur.
 
-Yaratılışın kendisi, {{% bible val="Hezekiel'in" link="ezk:1,5-21" lang="tr" %}} daha önce tasvir ettiği {{% bible val="dört yaratık" link="rev:4,7" lang="tr" %}} tarafından temsil edilir:
+Yaratılış, {{% bible val="Hezekiel'in" link="ezk:1,5-21" lang="tr" %}} daha önce tasvir ettiği {{% bible val="dört yaratığın" link="rev:4,7" lang="tr" %}} geleneksel yorumlarından biridir:
 - kara hayvanlarının hükümdarı aslan,
 - evcil hayvanların en güçlüsü öküz,
 - yaratılışın hükümdarı insan,
 - havanın hükümdarı kartal.
 
-Onlara, Davut'un kurduğu {{% bible val="24 kâhin bölümünü" link="1ch:24,3-19" lang="tr" %}}, {{% bible val="24 Levili kapı bekçisini" link="1ch:26,17-19" lang="tr" %}} ve {{% bible val="24 daimi tapınmacıyı" link="1ch:25" lang="tr" %}} yankılayan, ama aynı zamanda İsrail'in 12 oymağını ve Kilise'nin temeli olan 12 havariyi de çağrıştıran {{% bible val="24 ihtiyar" link="rev:4,4" lang="tr" %}} katılır. Bir başka deyişle, İsrail ve Kilise, tüm çatışmalarına rağmen tek bir bütün olarak görülmelidir. Kilise, özünde, bir ibadet kilisesi olarak tanımlanır.
+Ancak Hezekiel'in kendi paralel görümü bu yaratık sınıfını açıkça keruvlar olarak adlandırır (Hez 10:20) - meleksel taht hizmetkarlarının en yüksek düzeyi. Her iki yorumun da gerçek bir dayanağı vardır: dört yaratık, ibadette toplanan tüm yaratılmış yaşamı temsil ediyor olabilir, ya da bu ibadete öncülük eden keruvsal varlıklar olabilirler, ya da her ikisi birden.
+
+Onlara, Davut'un kurduğu {{% bible val="24 kâhin bölümünü" link="1ch:24,3-19" lang="tr" %}}, {{% bible val="24 Levili kapı bekçisini" link="1ch:26,17-19" lang="tr" %}} ve {{% bible val="24 daimi tapınmacıyı" link="1ch:25" lang="tr" %}} yankılayan, ama aynı zamanda İsrail'in 12 oymağını ve Kilise'nin temeli olan 12 havariyi de çağrıştıran {{% bible val="24 ihtiyar" link="rev:4,4" lang="tr" %}} katılır. (Bazı yorumcular ihtiyarları bunun yerine göksel meclisin üyeleri olarak görür - kurtarılmış insanlardan çok melek bir düzen; bu kimliklendirme tartışmalıdır. Ama kâhinlik ve Davut'un tapınma yankıları, burada Tanrı'nın halkının temsilcisi okumasını daha doğal bir uyum haline getirir.) Bir başka deyişle, İsrail ve Kilise, tüm çatışmalarına rağmen tek bir bütün olarak görülmelidir. Kilise, özünde, bir ibadet kilisesi olarak tanımlanır.

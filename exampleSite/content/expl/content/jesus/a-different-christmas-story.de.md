@@ -23,7 +23,7 @@ sources:
       ref: beale_rev
 ---
 
-Als Christ kennst du wahrscheinlich die klassische Weihnachtsgeschichte aus {{% bible val="Lukas" link="luk:2" lang="de" %}} sehr gut: eine etwas romantische Erzählung von Hirten und einem Kind im Stall, dazu drei Reisende aus der Ferne, die einem geheimnisvollen Stern folgten.
+Als Christ kennst du wahrscheinlich die klassische Weihnachtsgeschichte aus {{% bible val="Lukas" link="luk:2" lang="de" %}} und {{% bible val="Matthäus" link="mat:2" lang="de" %}} sehr gut: eine etwas romantische Erzählung von Hirten und einem Kind, das in eine Krippe gelegt wird, und weit gereisten Besuchern, die einem geheimnisvollen Stern folgten (erst spätere Tradition, nicht der Text selbst, legte ihre Zahl auf drei fest, ausgehend von den drei Gaben, die sie mitbrachten).
 
 Diese Geschichte zeigt einen Aspekt von Weihnachten, und wir haben sie schon so oft gehört, dass wir sie eigentlich gar nicht mehr richtig wahrnehmen. Vielleicht ist es Zeit, eine andere Weihnachtsgeschichte aus der Bibel zu hören – diese hier aus Offenbarung, Kapitel 12.
 
@@ -51,16 +51,16 @@ Die erste Figur ist leicht zu identifizieren. In Vers 9 wird er unverblümt bena
 Über das Kind erfahren wir wenig, aber ein Merkmal sticht deutlich hervor: das eiserne Zepter. Ein Blick auf den Rest der Bibel fördert einige Stellen zutage, die klären, um wen es sich handelt:
 - {{% bible val="Psalm 2" link="psa:2" lang="de" %}} beschreibt eine Szene, in der sich alle Könige der Erde gegen Gott auflehnen, und Gott warnt sie, seinen Sohn zu fürchten, der sie mit eisernem Zepter regieren wird.
 - {{% bible val="Jesaja 11,4" link="isa:11,4" lang="de" %}} beschreibt den kommenden Messias, der die Erde mit dem Stab seines Mundes schlagen wird.
-- In {{% bible val="Offb.2/27" link="rev:2,27" lang="de" %}} bezeichnet sich Jesus selbst als denjenigen, der mit eisernem Zepter regiert.
+- In {{% bible val="Offb.19/15" link="rev:19,15" lang="de" %}} ist Jesus selbst – der Reiter, der Treu und Wahrhaftig genannt wird – derjenige, der die Völker mit eisernem Zepter regiert.
 
 Diese Stellen machen ziemlich klar, dass das Kind Jesus ist und dass dies die Geschichte seiner Geburt ist. Aber wer ist dann die seltsame Frau, bekleidet mit Sonne, Mond und zwölf Sternen? Es gibt drei Kandidaten dafür, wer Jesus geboren hat:
 
 ## Die Frau
 
 <a name="5a05"></a>
-- Maria natürlich, denn sie war es, {{% bible val="die Jesus gebar" link="mat:1,18-24" lang="de" %}}.
+- Maria natürlich, denn sie war es, {{% bible val="die Jesus gebar" link="mat:1,18-25" lang="de" %}}.
 - Eva, der verheißen wurde, dass {{% bible val="ihr Nachkomme die Schlange vernichten würde" link="gen:3,15" lang="de" %}}.
-- Israel, dem verheißen wurde, {{% bible val="den Messias zu gebären" link="isa:66,7" lang="de" %}}.
+- Israel: Micha zeichnet {{% bible val="eine Frau in Geburtswehen, die den verheißenen Herrscher aus Bethlehem gebiert" link="mic:5,2-3" lang="de" %}}, und Jesaja zeichnet {{% bible val="Zion, die plötzlich einen Sohn zur Welt bringt – eine ganze Nation, an einem einzigen Tag neu geboren" link="isa:66,7" lang="de" %}}.
 
 Von wem also handelt die Geschichte wirklich? Maria scheint die naheliegende Wahl zu sein, aber nirgendwo in der Bibel gibt es eine Verbindung zwischen Maria und Sonne, Mond und Sternen – im Gegenteil: Es ist die kirchliche Tradition, nicht die Schrift, die Maria später mit Sonne, Mond und Sternen in Verbindung brachte, ausgehend von der Annahme, diese Frau müsse Maria sein. Bei Eva ließe sich eine Verbindung herstellen, da Adam und Eva im Schöpfungsbericht von Genesis 1 gemeinsam mit Sonne, Mond und Sternen erwähnt werden – aber das lässt offen, warum unsere Geschichte hier ausdrücklich zwölf Sterne nennt.
 

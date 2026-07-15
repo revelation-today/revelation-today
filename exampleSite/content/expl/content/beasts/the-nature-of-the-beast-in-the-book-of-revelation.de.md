@@ -37,14 +37,14 @@ Und der Drache wurde zornig über die Frau und ging hin, um Krieg zu führen mit
 <a name="78d1"></a>
 Die vorhergehenden Verse beschreiben den Angriff des Drachen auf das Kind (Jesus) und seine Mutter. Er scheitert beide Male völlig, und nun versammelt er zwei weitere Tiere, die hier im Detail beschrieben werden — und diese Beschreibung ist nicht aus dem Nichts erfunden. Sie greift eine Handvoll alttestamentlicher Stellen auf, die die ersten Leser sofort wiedererkannt hätten.
 
-- Der erste Bezug geht zurück auf das Buch {{% bible val="Hiob 40/15–41/37" link="job:40,15" lang="de" %}}, eine lange Passage, die Behemoth und Leviathan beschreibt, zwei Tiere aus dem Meer und von der Erde — genau wie die Tiere in Offb.13 ebenfalls aus dem Meer und von der Erde kommen. Sie sind für den Menschen unbesiegbar, aber nicht für Gott ({{% bible val="Jes.27/1" link="isa:27" lang="de" %}}); {{% bible val="Ps.104" link="psa:104,26" lang="de" %}} vermittelt sogar den Eindruck, dass Leviathan im Vergleich zu Gott nicht mehr als ein Spielzeug ist.
-- Ein ähnlicher Hinweis findet sich in {{% bible val="Offb.10/3" link="rev:10,3" lang="de" %}}, wo der Engel seinen Fuß auf Land und Meer setzt und damit Anspruch auf beide erhebt.
-- Das erste Tier übernimmt seine Beschreibung aus {{% bible val="Dan.7" link="dan:7" lang="de" %}}, wo vier Tiere beschrieben werden: das erste wie ein Löwe, das zweite wie ein Bär, das dritte wie ein Leopard. Zusammen haben sie sieben Köpfe (jedes eines, außer dem dritten, das vier hat), und das vierte Tier trägt zehn Kronen, {{% bible val="die zehn Könige sind" link="dan:7,24" lang="de" %}} — ein Detail, das Dan.7 sogar mit dem Tier der Hure in {{% bible val="Offb.17" link="rev:17,12" lang="de" %}} verbindet. Welchen Sinn hat also der Rückgriff auf Dan.7? Liest man das Kapitel bis zum Ende, zeigt sich: Sein ganzer Sinn besteht darin, zu zeigen, dass das Tier besiegt wird.
-- Die nächste große Parallele ist {{% bible val="Dan.3" link="dan:3" lang="de" %}}, die bekannte Geschichte von Daniels Freunden im Feuerofen. Sie beschreibt die Situation des zweiten Tieres: eine Statue, die angebetet werden muss, Menschen, die mit Feuer bestraft werden, wenn sie sich weigern, und sogar eine 666 in {{% bible val="Dan.3" link="dan:3,1" lang="de" %}}, in den Maßen der Statue. Die Geschichte endet damit, dass Daniels Freunde gerettet werden und {{% bible val="der König Gott anerkennt und lobt und die Freunde daraufhin befördert" link="dan:3,28-30" lang="de" %}}.
+- Der erste Bezug geht zurück auf das Buch {{% bible val="Hiob 40/15–41/34" link="job:40,15" lang="de" %}}, eine lange Passage, die Behemoth und Leviathan beschreibt, zwei Tiere aus dem Meer und von der Erde — genau wie die Tiere in Offb.13 ebenfalls aus dem Meer und von der Erde kommen. Sie sind für den Menschen unbesiegbar, aber nicht für Gott ({{% bible val="Jes.27/1" link="isa:27" lang="de" %}}); {{% bible val="Ps.104" link="psa:104,26" lang="de" %}} lässt sich sogar so lesen, dass Leviathan im Vergleich zu Gott nicht mehr als ein Spielzeug ist, wobei das Hebräische mehrdeutig ist und die meisten Übersetzungen den Leviathan selbst, nicht Gott, als denjenigen auffassen, der „spielt”.
+- Ein ähnlicher Hinweis findet sich in {{% bible val="Offb.10/2" link="rev:10,2" lang="de" %}}, wo der Engel seinen Fuß auf Land und Meer setzt und damit Anspruch auf beide erhebt.
+- Das erste Tier übernimmt seine Beschreibung aus {{% bible val="Dan.7" link="dan:7" lang="de" %}}, wo vier Tiere beschrieben werden: das erste wie ein Löwe, das zweite wie ein Bär, das dritte wie ein Leopard. Zusammen haben sie sieben Köpfe (nur die vier Köpfe des dritten Tieres werden ausdrücklich genannt, in {{% bible val="Dan.7/6" link="dan:7,6" lang="de" %}}; bei den anderen drei wird angenommen, dass sie jeweils einen Kopf haben), und das vierte Tier trägt zehn Hörner, {{% bible val="die zehn Könige sind" link="dan:7,24" lang="de" %}} — ein Detail, das Dan.7 sogar mit dem Tier der Hure in {{% bible val="Offb.17" link="rev:17,12" lang="de" %}} verbindet. Welchen Sinn hat also der Rückgriff auf Dan.7? Liest man das Kapitel bis zum Ende, zeigt sich: Sein ganzer Sinn besteht darin, zu zeigen, dass das Tier besiegt wird.
+- Die nächste große Parallele ist {{% bible val="Dan.3" link="dan:3" lang="de" %}}, die bekannte Geschichte von Daniels Freunden im Feuerofen. Sie beschreibt die Situation des zweiten Tieres: eine Statue, die angebetet werden muss, Menschen, die mit Feuer bestraft werden, wenn sie sich weigern, und sogar ein Echo der Sechs in {{% bible val="Dan.3" link="dan:3,1" lang="de" %}}, wo die Statue 60 Ellen mal 6 Ellen misst und die Listen der Beamten und Instrumente, die sich vor ihr verneigen müssen, in Sechsergruppen wiederholt werden. Die Geschichte endet damit, dass Daniels Freunde gerettet werden und {{% bible val="der König Gott anerkennt und lobt und die Freunde daraufhin befördert" link="dan:3,28-30" lang="de" %}}.
 
 Auf den ersten Blick erweckt dieses Kapitel den Eindruck, der Drache und seine Tiere seien unbesiegbare Herrscher und Unterdrücker. Doch sieh dir an, wie jede dieser alttestamentlichen Quellen endet, und die Beweise schreien geradezu „Verlierer”, sobald sie Gott und seinem Volk gegenüberstehen.
 
-Dabei entspricht die Erscheinung des ersten Tieres keinem einzelnen der {{% bible val="vier Reiche in Daniel" link="dan:7,1-8" lang="de" %}} — es übernimmt Merkmale von allen zugleich, wie die folgende Tabelle zeigt.
+Dabei entspricht die Erscheinung des ersten Tieres keinem einzelnen der {{% bible val="vier Reiche in Daniel" link="dan:7,17" lang="de" %}} — es übernimmt Merkmale von allen zugleich, wie die folgende Tabelle zeigt.
 
 <p>Das erste Tier und die Tiere in Daniel</p>
 
@@ -86,13 +86,13 @@ Das geschieht auf zweierlei Weise:
 Beginnen wir mit ein paar Beobachtungen, die in diese Richtung weisen:
 
 - Der Drache und die beiden Tiere sind drei, wie die Heilige Dreifaltigkeit.
-- Der {{% bible val="Drache gibt dem ersten Tier alle Autorität" link="rev:13,2" lang="de" %}}, so wie {{% bible val="Gott Jesus alle Autorität gibt" link="php:2,9-11" lang="de" %}}.
+- Der {{% bible val="Drache gibt dem ersten Tier alle Autorität" link="rev:13,2" lang="de" %}}, so wie {{% bible val="Gott Jesus alle Autorität im Himmel und auf Erden gibt" link="mat:28,18" lang="de" %}}.
 - Das {{% bible val="erste Tier scheint getötet worden zu sein und steht wieder auf" link="rev:13,3" lang="de" %}}, so wie auch Jesus gestorben und auferstanden ist.
-- {{% bible val="Jedes Knie beugt sich vor dem ersten Tier," link="rev:13,7" lang="de" %}} wie es {{% bible val="vor Jesus gebeugt wird" link="php:2,10" lang="de" %}}.
+- {{% bible val="Alle, die auf der Erde wohnen, beten das erste Tier an" link="rev:13,8" lang="de" %}}, so wie {{% bible val="sich einst jedes Knie vor Jesus beugen wird" link="php:2,10" lang="de" %}}.
 - {{% bible val="Alle beten das erste Tier an" link="rev:13,8" lang="de" %}}, wie {{% bible val="Jesus angebetet werden sollte" link="rev:5,8-14" lang="de" %}}.
 - {{% bible val="Das zweite Tier hat zwei Hörner" link="rev:13,11" lang="de" %}} wie auch das {{% bible val="Lamm" link="rev:5,6" lang="de" %}}.
 - Das {{% bible val="zweite Tier spricht in der Autorität des ersten Tieres" link="rev:13,12" lang="de" %}}, so wie {{% bible val="der Heilige Geist im Namen Jesu spricht" link="jhn:16,13" lang="de" %}}.
-- {{% bible val="Es kann Feuer vom Himmel fallen lassen" link="rev:13,13" lang="de" %}}, was {{% bible val="laut Elija ein Zeichen des wahren Gottes ist" link="1ki:18,24" lang="de" %}}.
+- {{% bible val="Es kann Feuer vom Himmel fallen lassen" link="rev:13,13" lang="de" %}}, was an {{% bible val="Elijas Zeichen für den wahren Gott" link="1ki:18,38" lang="de" %}} erinnert.
 - {{% bible val="Es kann ein Standbild zum Leben erwecken" link="rev:13,15" lang="de" %}}, was zeigt, dass es {{% bible val="mehr als nur ein Götze ist" link="psa:115,4-8" lang="de" %}} und an das {{% bible val="Wirken des Heiligen Geistes bei Hesekiel erinnert" link="ezk:37" lang="de" %}}.
 
 
@@ -105,11 +105,11 @@ Zusammengenommen wird deutlich, dass Satan eine böse Dreifaltigkeit bildet:
 | Der Drache und die beiden Tiere | Vater, Sohn und Heiliger Geist |
 |---------------------------------|--------------------------------|
 | {{% bible val="Repräsentiert Königreiche dieser Welt" link="rev:13,1" lang="de" %}} | {{% bible val="Jesu Reich ist nicht von dieser Welt" link="jhn:18,36" lang="de" %}} |
-| [Seine Auferstehung erzeugt Furcht (‚Wer kann mit ihm kämpfen?‘)](https://www.bibleserver.com/NIV/Revelation13%2C3) | {{% bible val="Niemand hat eine größere Liebe, als der, der sein Leben für seine Freunde gibt." link="jhn:15,13" lang="de" %}} |
+| {{% bible val="Seine Auferstehung erzeugt Furcht (Wer kann mit ihm kämpfen?)" link="rev:13,3-4" lang="de" %}} | {{% bible val="Niemand hat eine größere Liebe, als der, der sein Leben für seine Freunde gibt." link="jhn:15,13" lang="de" %}} |
 | {{% bible val="Eines seiner Köpfe hatte eine tödliche Wunde" link="rev:13,3" lang="de" %}} | Jesus starb und ist völlig wiederauferstanden |
 | {{% bible val="Macht ist nur für 42 Monate" link="rev:13,5" lang="de" %}} | {{% bible val="Jesus regiert in Ewigkeit" link="rev:1,18" lang="de" %}} ({{% bible val="Hebr.6/20" link="heb:6,20" lang="de" %}}) |
-| {{% bible val="Zweite Tier spricht wie ein Drache" link="rev:13,11" lang="de" %}} |  |
-| {{% bible val="Tut große Dinge vor den Menschen" link="rev:13,13-14" lang="de" %}} | {{% bible val="Jesus wirkt oft im Verborgenen" link="mat:4,5-7" lang="de" %}} ({{% bible val="Mt.9/30" link="mat:9,30" lang="de" %}}, {{% bible val="Mk.5/43" link="mrk:5,43" lang="de" %}}) |
+| {{% bible val="Zweite Tier spricht wie ein Drache" link="rev:13,11" lang="de" %}} | {{% bible val="Der Heilige Geist redet nicht aus sich selbst heraus" link="jhn:16,13" lang="de" %}} |
+| {{% bible val="Tut große Dinge vor den Menschen" link="rev:13,13-14" lang="de" %}} | {{% bible val="Jesus wirkt oft im Verborgenen" link="mat:9,30" lang="de" %}} ({{% bible val="Mk.5/43" link="mrk:5,43" lang="de" %}}) |
 | {{% bible val="Tötet alle, die ihn nicht anbeten" link="rev:13,15" lang="de" %}} | {{% bible val="Der Heilige Geist kann betrübt werden" link="eph:4,30" lang="de" %}} und {{% bible val="übt keinen Druck aus" link="2co:3,17" lang="de" %}} |
 
 ## Die dunkle Seite
@@ -118,10 +118,9 @@ Zusammengenommen wird deutlich, dass Satan eine böse Dreifaltigkeit bildet:
 Deine erste Reaktion mag sein, dass das einfach böse ist. Aber bei genauerem Hinsehen wirkt manches davon durchaus verlockend:
 
 - Menschen sind {{% bible val="erstaunt, wenn sie die Stärke des Tieres sehen" link="rev:13,4" lang="de" %}} — und wünschten wir uns nicht manchmal, dass niemand mehr dächte, {{% bible val="unser Glaube wäre töricht" link="1co:1,22-23" lang="de" %}}, oder dass unsere Gebete sichtbar so mächtig wären?
-- Das Tier erhält eine {{% bible val="weltweite Verbreitung des Evangeliums" link="rev:13,8" lang="de" %}}, die Menschen einfach annehmen — wäre das nicht eine Erleichterung, wenn du es satt hast, Menschen zu Gott einzuladen, nur um abgelehnt zu werden?
+- Das Tier bringt es dazu, dass {{% bible val="die ganze Welt es ohne Widerstand anbetet" link="rev:13,8" lang="de" %}} — wäre das nicht eine Erleichterung, wenn du es satt hast, Menschen zu Gott einzuladen, nur um abgelehnt zu werden?
 - Oder willst du {{% bible val="mehr Zeichen und Wunder sehen" link="rev:13,14" lang="de" %}}, weil du langsam zweifelst, ob Gott wirklich da ist?
-- Oder {{% bible val="suchst du Heilung für geliebte Menschen" link="rev:13,15" lang="de" %}}, die kein Gebet bisher gebracht hat?
-- Oder willst du einen {{% bible val="Gott, der seine Feinde und Übeltäter direkt vernichtet" link="rev:13,15" lang="de" %}} — eine Antwort auf die Frage, warum ein guter Gott das Böse nicht einfach stoppt?
+- Oder willst du einen {{% bible val="Gott, der Unterwerfung erzwingt und Widerstand direkt vernichtet" link="rev:13,15" lang="de" %}} — eine Antwort auf die Frage, warum ein guter Gott das Böse nicht einfach stoppt?
 - Oder willst du, dass {{% bible val="alle Menschen sich unserem Wertesystem unterwerfen" link="rev:13,16-17" lang="de" %}}?
 
 Diese gefälschte Dreifaltigkeit bietet all das an, wonach wir uns von Zeit zu Zeit sehnen mögen. Aber etwas daran ist zutiefst falsch.

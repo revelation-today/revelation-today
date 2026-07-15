@@ -21,7 +21,7 @@ Die Offenbarung beginnt mit ein paar Sätzen, die man leicht überliest — und 
 
 Das Buch beginnt mit voller Wucht, als „Offenbarung Jesu Christi" (griechisch „Apokalypsis Iesou Christou"), „die Gott ihm gab, um seinen Knechten zu zeigen, was bald geschehen muss". (Wer dieser Johannes war und wann er schrieb, sind beides tatsächlich umstrittene Fragen — siehe {{% int_link val="wer die Offenbarung geschrieben hat, und wann" link="/expl/topics/others/who-wrote-revelation-and-when" %}} für einen kurzen Überblick und warum das für die Lesart mancher späterer Artikel wichtig ist.)
 
-Das Wort „Apokalypse" weckt vermutlich bestimmte Bilder in deinem Kopf — aber genau das ist hier nicht gemeint. Selbst die genaue, wörtliche Übersetzung „Offenbarung Jesu" lässt noch Fragen offen, denn {{% int_link val="Apokalypse ist eine literarische Gattung, die vorgibt, wie dieses Buch gelesen werden soll" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}: Es ist ein Buch, das provoziert und zum Handeln auffordert, kein Code, der geknackt werden muss.
+Das Wort „Apokalypse" weckt vermutlich bestimmte Bilder in deinem Kopf — aber genau das ist hier nicht gemeint. Selbst die genaue, wörtliche Übersetzung „Offenbarung Jesu" lässt noch Fragen offen, denn {{% int_link val="Apokalypse ist eine literarische Gattung, die vorgibt, wie dieses Buch gelesen werden soll" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}: Es ist ein Buch, das provoziert und zum Handeln auffordert, kein Code, der geknackt werden muss. Tatsächlich benennt die Offenbarung ihre eigene Gattung gleich mehrfach in diesen einleitenden Versen: Sie ist eine „Apokalypse" (V. 1), eine „Prophetie" (V. 3), und sie ist als Brief gerahmt, der so beginnt, wie jeder Brief des ersten Jahrhunderts beginnen würde (siehe „Die Basis" weiter unten). Am besten liest man die Offenbarung als eine bewusste Mischung aus allen dreien — apokalyptisch, prophetisch und brieflich — nicht als eine einzige Gattung.
 
 Bei alldem sollten wir nicht vergessen, dass es in diesem Buch um Jesus geht — er steht im Zentrum. Es gibt zwei Möglichkeiten, „Jesu Christi" zu übersetzen:
 
@@ -40,7 +40,7 @@ Der Vers danach macht die Dringlichkeit noch deutlicher: „Glückselig ist, der
 - Die Zeit ist nahe. Es bleibt nicht viel Zeit; wir sollten jetzt handeln. Daran hat sich in den letzten 2000 Jahren nichts geändert.
 - Es ist eine Prophetie: eine eindringliche Erinnerung an die Gemeinde, zu handeln.
 
-„Die Zeit ist nahe" bedeutet nicht, dass das Ende in jedem beliebigen Moment eintreten kann; es ist eine zugespitzte Ausdrucksweise für unmittelbare Nähe, genau wie {{% bible val="Markus" link="mrk:1,15" lang="de" %}} [dieselbe Formulierung](https://biblehub.com/interlinear/mark/1-15.htm) verwendet, um zu beschreiben, dass das Reich Gottes bereits gekommen ist.
+„Die Zeit ist nahe" bedeutet nicht, dass das Ende in jedem beliebigen Moment eintreten kann; es ist eine zugespitzte Ausdrucksweise für unmittelbare Nähe, die dieselbe Wurzel verwendet (griechisch *engys/engizō*, „nahe, ist nahegekommen"), die auch {{% bible val="Markus" link="mrk:1,15" lang="de" %}} [in einer verwandten Konstruktion](https://biblehub.com/interlinear/mark/1-15.htm) gebraucht, um zu beschreiben, dass das Reich Gottes bereits nahegekommen ist.
 
 ## Die Basis
 
@@ -50,12 +50,12 @@ Nun folgt ein Abschnitt, der klingt wie der Anfang eines neutestamentlichen Brie
 „{{% bible val="Johannes an die sieben Gemeinden, die in Asia sind: Gnade sei mit euch und Friede von dem, der ist und der war und der kommt, und von den sieben Geistern, die vor seinem Thron sind" link="rev:1,4" lang="de" %}}"
 
 - Gnade und Friede werden den Gemeinden gegeben, weil sie beides brauchen werden — aus eigener Kraft können sie den bevorstehenden Herausforderungen nicht begegnen.
-- Jesus ist der Ewige, „der ist und der war und der kommt" (Verse 4 und 8). Er ist der Herr der Zeit, der Allmächtige. Dieselbe Wahrheit drückt sich in „Alpha und Omega" aus, dem ersten und letzten Buchstaben des griechischen Alphabets: Er ist Anfang und Ende, und er verändert sich nicht.
-- Die Formulierung „sieben Geister vor seinem Thron" klingt zunächst etwas merkwürdig. {{% bible val="Beim Propheten Sacharja werden die Lampen mit dem Heiligen Geist identifiziert" link="zec:4,6" lang="de" %}}, und diese Lampen entsprechen wahrscheinlich den {{% bible val="sieben Leuchtern, die für die Gemeinden stehen" link="rev:1,20" lang="de" %}}. Der Ausdruck „vor dem Thron" wird in {{% bible val="Kapitel 4" link="rev:4,5" lang="de" %}} wieder aufgegriffen: Der Heilige Geist geht vom Thron Gottes aus, um seinen Plan auszuführen.
+- Gott, der Vater, ist der Ewige, „der ist und der war und der kommt" (Vers 4) — der Herr der Zeit, der Allmächtige. Dieselbe Wahrheit drückt sich in „Alpha und Omega" aus, dem ersten und letzten Buchstaben des griechischen Alphabets: Er ist Anfang und Ende, und er verändert sich nicht. Die Offenbarung überträgt später entsprechende ewige Titel auch auf Jesus selbst (1,17-18; 22,13) und zeigt damit, dass Vater und Sohn diese göttliche Identität teilen.
+- Die Formulierung „sieben Geister vor seinem Thron" klingt zunächst etwas merkwürdig. {{% bible val="Beim Propheten Sacharja wird die Vision von den Lampen mit dem Geist verbunden — 'nicht durch Heer oder Kraft, sondern durch meinen Geist'" link="zec:4,2-6" lang="de" %}}, und diese Lampen entsprechen wahrscheinlich den {{% bible val="sieben Leuchtern, die für die Gemeinden stehen" link="rev:1,20" lang="de" %}}. Der Ausdruck „vor dem Thron" wird in {{% bible val="Kapitel 4" link="rev:4,5" lang="de" %}} wieder aufgegriffen: Der Heilige Geist geht vom Thron Gottes aus, um seinen Plan auszuführen.
 
 „{{% bible val="und von Jesus Christus, dem treuen Zeugen, dem Erstgeborenen aus den Toten und dem Fürsten über die Könige der Erde. Ihm, der uns geliebt hat und uns von unseren Sünden gewaschen hat durch sein Blut" link="rev:1,5" lang="de" %}}"
 
-- Hier begegnet uns erneut das Thema Jesu als treuer Zeuge — es zieht sich durch das ganze Buch, weil es der Schlüssel zu allem ist. Die Kombination aus „treuer Zeuge", „Erstgeborener" und „Fürst über die Könige" stammt aus {{% bible val="Psalm 89" link="psa:89,19-32" lang="de" %}}, der vom Sohn Davids handelt.
+- Hier begegnet uns erneut das Thema Jesu als treuer Zeuge — es zieht sich durch das ganze Buch, weil es der Schlüssel zu allem ist. Die Kombination aus „treuer Zeuge", „Erstgeborener" und „Fürst über die Könige" stammt aus {{% bible val="Psalm 89" link="psa:89,19-32" lang="de" %}} — dort ist der „treue Zeuge" jedoch der Mond, der am Himmel für Gottes Bundestreue gegenüber David bezeugt (Vers 37); die Offenbarung überträgt dieses Zeugnis-Bild direkt auf den davidischen König selbst.
 - „Erstgeborener aus den Toten" ist eine Ermutigung, treu zu bleiben, selbst bis in den Tod — denn der Tod ist nicht das Ende.
 - „Er liebt uns und hat uns von unseren Sünden befreit" erinnert daran, dass Jesus für uns ist.
 
@@ -85,9 +85,9 @@ Setzt man diese Stellen zusammen, ergibt sich ein Bild:
 - Es gibt eine tiefe emotionale Reaktion — Trauer um einen geliebten König.
 - Sie hat mit dem Tod Jesu zu tun, des Menschensohns.
 - Das Ergebnis ist, dass alle Völker ihn anbeten werden, genau wie Abram versprochen wurde.
-- Doch der Text lässt offen, wie die Völker reagieren („sie schlagen sich seinetwegen an die Brust") — manche aus Reue über ihren Retter, andere aus Furcht vor dem Gericht.
+- Doch der Text lässt offen, wie die Völker reagieren („sie schlagen sich seinetwegen an die Brust") — manche aus Reue über ihren Retter, andere aus Furcht vor dem Gericht. (Die Offenbarung behandelt an anderen Stellen „die Völker" und „die Könige der Erde" als eng mit Rom verbunden — genau dem Reich, das Jesus durch seinen Statthalter hinrichten ließ —, sodass die Trauer der Völker nicht so fern liegt, wie es zunächst scheinen mag.)
 
-Die Passage beschreibt also nicht den kommenden Zorn Jesu gegen die konkreten Menschen, die ihn getötet haben (die Völker waren daran ja gar nicht wirklich beteiligt). Es ist ein Aufruf zur Umkehr und zum Heil für die Völker.
+Der Text entscheidet also nicht, welche Reaktion überwiegt, und die Offenbarung kehrt im Verlauf des ganzen Buches immer wieder zu dieser Mehrdeutigkeit zurück — dasselbe „Kommen mit den Wolken" kann Rettung für die bedeuten, die Buße tun, und Gericht für die, die es nicht tun (vergleiche Offb 6,15-17). Sicher ist, worauf die Offenbarung immer wieder hinausläuft: Jede Nation, ohne Ausnahme, wird sich eines Tages mit Jesus auseinandersetzen müssen.
 
 ## Schlussfolgerung
 

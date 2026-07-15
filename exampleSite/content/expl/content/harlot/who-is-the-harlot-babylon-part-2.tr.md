@@ -31,11 +31,11 @@ Fahişe Babil'i anlamak, Bölüm 1'de gördüğümüz gibi biraz karmaşık, ama
 Ama {{% bible val="17" link="rev:17,4" lang="tr" %}}. ve {{% bible val="18. bölümlerde" link="rev:18,16" lang="tr" %}}, Vahiy'deki fahişe Eski Ahit'in başkâhinini andıran malzemelerle giydirilir:
 
 - {{% bible val="konut çadırı için sunulan bağış" link="exo:25,3-7" lang="tr" %}}
-- {{% bible val="efod (iç giysiler)" link="exo:25,3-7" lang="tr" %}}
+- {{% bible val="efod (başkâhinin dış giysisi)" link="exo:28,6-14" lang="tr" %}}
 - {{% bible val="göğüs zırhı" link="exo:28,15-20" lang="tr" %}}
 - {{% bible val="ama aynı zamanda tapınakta kullanılanlar" link="2ch:2,13-14" lang="tr" %}}
 
-Başkâhinin üzerinde {{% bible val="'Rab'be adanmıştır' yazılı" link="exo:28,35-38" lang="tr" %}} levhasının karanlık karşılığı, fahişenin alnına yazılan isimdir: "{{% bible val="Büyük Babil, fahişelerin ve yeryüzündeki iğrençliklerin anası" link="rev:17,5" lang="tr" %}}."
+Başkâhinin üzerinde {{% bible val="'Rab'be adanmıştır' yazılı" link="exo:28,36-38" lang="tr" %}} levhasının karanlık karşılığı, fahişenin alnına yazılan isimdir: "{{% bible val="Büyük Babil, fahişelerin ve yeryüzündeki iğrençliklerin anası" link="rev:17,5" lang="tr" %}}."
 
 Bu paralellik yargıya kadar sürer: {{% bible val="fuhuş yapan bir kâhinin kızı ateşte yakılırdı" link="lev:21,9" lang="tr" %}} ve {{% bible val="Babil'in başına gelen yargı tam olarak budur" link="rev:18,8" lang="tr" %}}.
 
@@ -43,7 +43,7 @@ Hezekiel de aynı resmi başka bir açıdan verir: Tanrı, {{% bible val="aynı 
 
 Bu, tek seferlik bir imge de değil — Eski Ahit'te birkaç şehir aynı şekilde tanımlanır:
 
-- Sur, tapınağın inşasına yardım etmek için {{% bible val="Tanrı'yla bir antlaşma yaptı" link="1ki:5,12" lang="tr" %}}, yine de {{% bible val="Yahudileri esarete sattığı için yargılanmaya çağrıldı" link="amo:1,9" lang="tr" %}} ve {{% bible val="fahişe olarak adlandırıldı" link="isa:23,15-18" lang="tr" %}}.
+- Sur, tapınağın inşasına yardımcı olan {{% bible val="Süleyman'la siyasi bir antlaşma yaptı" link="1ki:5,12" lang="tr" %}}, yine de {{% bible val="Yahudileri esarete sattığı için yargılanmaya çağrıldı" link="amo:1,9" lang="tr" %}} ve {{% bible val="fahişe olarak adlandırıldı" link="isa:23,15-18" lang="tr" %}}.
 - Ninova {{% bible val="Rab'bin önünde alçaldı ve Rab onlara merhamet etti" link="jon:3,5-10" lang="tr" %}}, ama {{% bible val="sonrasında bir fahişe olduğu için yargılandı" link="nam:3,4-7" lang="tr" %}}.
 - İsrail'in Tanrı'yla bir antlaşması vardı ama sadakatini o kadar sık bozdu ki o da {{% bible val="fahişe olarak adlandırıldı" link="ezk:16,15-41" lang="tr" %}}; Hezekiel'de özellikle vurgulanan, İsrail'in diğer uluslara olan siyasi ve ekonomik bağımlılığı ve bunun beraberinde getirdiği putperestliktir.
 
@@ -58,7 +58,7 @@ Fahişe terimi, dini, siyasi, ekonomik ya da bu üçünün bir karışımı olsu
 
 Ekonomik ilişkiler, {{% bible val="tapınak hediyeleri" link="mic:1,7" lang="tr" %}}, {{% bible val="ekonomik bağımlılıklar" link="nam:3,4" lang="tr" %}} ya da {{% bible val="siyasi evlilik ittifakları (İzebel'in kendisi de başka bir krallıkla evlenmişti)" link="2ki:9,22" lang="tr" %}} yoluyla dini ilişkilere dönüşme eğilimindedir. {{% bible val="Babil'in yeryüzünün krallarıyla yaptığı zinaya" link="rev:17,2" lang="tr" %}} en güçlü bağlantı Sur'dur; Sur {{% bible val="yeryüzünün bütün krallıklarıyla ticaret yapacaktır" link="isa:23,17" lang="tr" %}} — ya da daha gerçek bir çeviriyle, [yeryüzünün krallıklarıyla fuhuş yapacaktır](https://biblehub.com/interlinear/isaiah/23-17.htm). Vahiy'deki {{% bible val="Babil'in ticaret mallarının listesi" link="rev:18,12-13" lang="tr" %}}, {{% bible val="Sur için verilen aynı listeyi" link="ezk:27" lang="tr" %}} yakından izler. Sur, {{% bible val="dünyanın limanıydı; kendisi ürünle — bu durumda tahılla — ödeme alırken herkesi zengin ediyordu" link="isa:23,1-3" lang="tr" %}} ve {{% bible val="bölümün sonunda açıkça fahişe olarak adlandırılır; ulusların zenginliğinden elde ettiği kazanç 'fahişelik ücreti' olarak tanımlanır" link="isa:23,16-18" lang="tr" %}}.
 
-Vahiy aynı bağlantıyı kurar: krallar {{% bible val="Babil'le fuhuş yapar" link="rev:18,3" lang="tr" %}} ve {{% bible val="bunun sonucunda zenginleşirler" link="rev:18,9" lang="tr" %}}. Fahişenin kendi giysileri ve mücevherleri, {{% bible val="aynı ticaret listesinden" link="ezk:27" lang="tr" %}} alınmıştır ve kendileri de zenginliğin sembolleridir. Yani fahişe, {{% bible val="Yahuda'nın bu kadar çekici bulduğu" link="jer:4,30" lang="tr" %}} ve {{% bible val="İzebel'in kullandığı" link="2ki:9,30" lang="tr" %}} aynı tuzakla, zenginlik yoluyla puta tapmaya özendirir.
+Vahiy aynı bağlantıyı kurar: krallar {{% bible val="Babil'le fuhuş yapar" link="rev:18,3" lang="tr" %}} ve {{% bible val="bunun sonucunda zenginleşirler" link="rev:18,9" lang="tr" %}}. Fahişenin kendi giysileri ve mücevherleri, {{% bible val="aynı ticaret listesinden" link="ezk:27" lang="tr" %}} alınmıştır ve kendileri de zenginliğin sembolleridir. Yani fahişe, {{% bible val="Yahuda'nın bu kadar çekici bulduğu" link="jer:4,30" lang="tr" %}} aynı tuzakla ve {{% bible val="İzebel'in kendi hikâyesinde" link="2ki:9,30" lang="tr" %}} de görülen, baştan çıkarıcı bir etki için kullanılan aynı kendini süsleme temasıyla zenginlik yoluyla puta tapmaya özendirir; ancak orada vurgu maddi zenginlikten çok kozmetik üzerindedir.
 
 ## Babil mürted kilise mi?
 

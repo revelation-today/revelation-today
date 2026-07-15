@@ -17,7 +17,7 @@ Vahiy kitabı büyük bir patlamayla başlar: Yuhanna, kandilliklerin arasında 
 ## Genel Bakış
 
 <a name="2ce0"></a>
-Yuhanna — büyük olasılıkla havari — {{% bible val="İsa’yı radikal bir biçimde izlemenin sonuçlarını yaşayan" link="rev:1,9" lang="tr" %}} biri olarak tanıtılır. Aldığı İsa görümü üç bölüme ayrılır:
+Yuhanna — büyük olasılıkla havari (geleneksel kimliklendirme, ancak bilginlerin bir azınlığı "İhtiyar Yuhanna" olarak bilinen ayrı bir figürü savunur) — {{% bible val="Patmos adasında, yaygın geleneğe göre İsa hakkındaki tanıklığı yüzünden sürgün edilmiş, ancak bunun resmi bir Roma sürgünü mü yoksa kendi seçtiği bir misyon alanı mı olduğu tartışmalı" link="rev:1,9" lang="tr" %}} biri olarak tanıtılır. Aldığı İsa görümü üç bölüme ayrılır:
 
 - görümün kendisi (12–16. ayetler),
 - onun tepkisi (17a. ayet),
@@ -32,7 +32,7 @@ Görümün üzerinde durmaya değer birkaç unsuru vardır:
 - **İnsanoğlu.** Kandilliklerin ortasında, {{% bible val="Daniel’den" link="dan:7,13" lang="tr" %}} bilinen ve [İsa’nın kendisine uyguladığı](https://www.bibleserver.com/search/TR/%C4%B0nsano%C4%9Flu) bir imge olan İnsanoğlu’na benzer biri durmaktadır. {{% bible val="İsa aynı zamanda kâhinlik görevini de üstlendiği için" link="heb:7,11-28" lang="tr" %}}, tıpkı tapınakta kâhinin görevi olduğu gibi, {{% bible val="kandilliklerle ilgilenmek" link="exo:30,7" lang="tr" %}} onun sorumluluğudur.
 - **Altın kuşaklı cüppe.** İsa’nın giydiği cüppe ve kuşak, hem kâhin hem de kral giysisi olarak okunabilir — bu belirsizlik muhtemelen kasıtlıdır, çünkü İsa hem kâhin hem de kral olarak sunulur.
 - **Beyaz saçlar.** Bu, Daniel 7’deki görümü yansıtır.
-- **Alev alev yanan ateş gibi gözler, cilalanmış tunç gibi bacaklar, gürleyen bir ses.** Bunların hepsi, {{% bible val="melek bir savaşçı olarak tanımlanan bir figürün" link="dan:10,20" lang="tr" %}} Daniel’i son görümüne hazırladığı {{% bible val="Daniel 10’un özellikleridir" link="dan:10,7" lang="tr" %}} — burada bu figür Yuhanna için de aynı rolü oynar.
+- **Alev alev yanan ateş gibi gözler, cilalanmış tunç gibi bacaklar, gürleyen bir ses.** Bunların hepsi, {{% bible val="melek bir savaşçı olarak tanımlanan bir figürün" link="dan:10,20" lang="tr" %}} Daniel’i son görümüne hazırladığı {{% bible val="Daniel 10’un özellikleridir" link="dan:10,6" lang="tr" %}} — burada bu figür Yuhanna için de aynı rolü oynar.
 
 Böylece İnsanoğlu, Daniel 7’deki “Eskiden Beri Var Olan” (Tanrı) ile birleştirilmiş olur.
 

@@ -21,11 +21,11 @@ Mari kita mulai dengan sebuah koin yang pada masa itu merupakan mata uang yang u
 
 ![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
 
-Pada bagian depan tampak Kaisar Vespasianus (memerintah tahun 69–79) dengan tulisan "Imp Caesar Vespasianus Aug PM TP PP COS III" — "Kaisar Caesar Vespasianus Augustus, Pontifex Maximus (Imam Agung), Tribunicia Potestas (Kekuasaan Tribun), Pater Patriae (Bapak Tanah Air), Konsul untuk ketiga kalinya." Singkatnya, sebuah ringkasan kekuasaan dan pencapaian sang kaisar.
+Pada bagian depan tampak Kaisar Vespasianus (memerintah tahun 69–79) dengan tulisan "Imp Caesar Vespasianus Aug P M TR P P P COS III" — "Kaisar Caesar Vespasianus Augustus, Pontifex Maximus (Imam Agung), Tribunicia Potestas (Kekuasaan Tribun), Pater Patriae (Bapak Tanah Air), Konsul untuk ketiga kalinya." Singkatnya, sebuah ringkasan kekuasaan dan pencapaian sang kaisar.
 
 Bagian belakang menampilkan dewi Roma dalam pakaian militer, duduk di atas ketujuh bukit Roma, dengan sebilah pedang kecil bertumpu di lututnya sebagai lambang kekuatan militer Roma. Di kiri dan kanannya terdapat singkatan SC (Senatus Consultum, "atas keputusan Senat").
 
-Di sebelah kanan, sesosok pria yang melambangkan Sungai Tiber, yang mengelilingi Roma, membungkuk di hadapan Roma. Di kiri bawah, seekor serigala betina menyusui Romulus dan Remus, mengingatkan pada kisah pendirian Roma pada tahun 753 SM oleh keturunan Troya. Di bagian paling bawah terdapat kata Roma — mungkin sebuah sindiran pada [nama rahasia Roma, Amor](https://www.quartahospitalityinrome.com/en/Rome-and-the-secret-of-its-name/), yang jika dibalik ejaannya berarti "cinta."
+Di sebelah kanan, sesosok pria yang melambangkan Sungai Tiber, yang mengelilingi Roma, membungkuk di hadapan Roma. Di kiri bawah, seekor serigala betina menyusui Romulus dan Remus, mengingatkan pada legenda pendirian Roma yang tradisional — penanggalan kota itu sendiri oleh sejarawan kuno Romawi, Varro, pada tahun 753 SM, dan kisah asal-usulnya sendiri sebagai keturunan para pengungsi Troya melalui Romulus dan Remus. Di bagian paling bawah terdapat kata Roma — mungkin sebuah sindiran pada tradisi Roma tentang sebuah "nama rahasia," Amor, yang jika dibalik ejaannya berarti "cinta" (sebuah tradisi yang juga bergema, antara lain, dalam tafsir Servius di zaman akhir kuno atas karya Aeneid karya Virgil).
 
 Jadi bagian belakang koin ini adalah sebuah perayaan langsung atas kekuasaan dan keabadian Roma. Apa yang dilakukan kitab Wahyu dengan gambaran yang sama itu?
 
@@ -35,6 +35,8 @@ Jadi bagian belakang koin ini adalah sebuah perayaan langsung atas kekuasaan dan
 - Dan alih-alih melindungi dirinya dari musuh dengan pedangnya, ia justru berlumuran darah orang-orang kudus.
 
 Perayaan koin itu atas {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} dibalikkan, titik demi titik, menjadi gambaran kehinaan dan kejijikan — sebuah pengingat bagi setiap orang percaya yang memegang koin itu dalam kehidupan sehari-hari bahwa Roma tidak dapat dipercaya. Ini adalah kontra-propaganda yang sungguh efektif.
+
+Ini bukanlah gerakan retoris yang berdiri sendiri. "Babel" sendiri adalah nama sandi yang dikenal luas untuk Roma dalam tulisan-tulisan Yahudi dan Kristen mula-mula pada masa itu — paling jelas dalam 1 Petrus 5:13, dan juga dalam karya-karya seperti 2 Barukh, 4 Ezra, dan Sibylline Oracles 5. Babel telah menghancurkan Bait Salomo pada tahun 586 SM; Roma menghancurkan Bait Kedua pada tahun 70 M. Menyebut Roma sebagai "Babel" menempatkannya dalam pola tipologis yang sama: sebuah kekaisaran kafir yang sombong, yang menghancurkan bait Allah dan, pada gilirannya, menghadapi penghakiman Allah.
 
 ## Ekfrasis
 

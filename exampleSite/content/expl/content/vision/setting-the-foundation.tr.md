@@ -21,7 +21,7 @@ Vahiy kitabı, kolayca gözden kaçırabileceğimiz ama sonrasında gelen her ş
 
 Kitap yoğun bir girişle başlar: “İsa Mesih’in Vahyi” (Yunanca Apokalypsis Iesou Christou), “Tanrı’nın, kullarına yakında olması gerekenleri göstermek için O’na verdiği” vahiy. (Bu Yuhanna'nın kim olduğu ve ne zaman yazdığı, gerçekten tartışmalı sorulardır — kısa bir genel bakış ve bunun bazı sonraki makalelerin nasıl okunduğu için neden önemli olduğunu görmek için bkz. {{% int_link val="Vahiy'i kim, ne zaman yazdı" link="/expl/topics/others/who-wrote-revelation-and-when" %}}.)
 
-“Kıyamet” kelimesi muhtemelen zihninizde belirli görüntüler uyandırıyor — ama burada kastedilen bu değildir. Doğru, birebir çeviri olan “İsa’nın Vahyi” ifadesi bile soruları açık bırakır, çünkü {{% int_link val="kıyamet, bu kitabın nasıl okunması gerektiğini belirleyen bir edebi türdür" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}: çözülecek bir şifre değil, kışkırtan ve eylem talep eden bir kitaptır.
+“Kıyamet” kelimesi muhtemelen zihninizde belirli görüntüler uyandırıyor — ama burada kastedilen bu değildir. Doğru, birebir çeviri olan “İsa’nın Vahyi” ifadesi bile soruları açık bırakır, çünkü {{% int_link val="kıyamet, bu kitabın nasıl okunması gerektiğini belirleyen bir edebi türdür" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}: çözülecek bir şifre değil, kışkırtan ve eylem talep eden bir kitaptır. Aslında Vahiy, bu açılış ayetlerinde kendi türünü birkaç kez adlandırır: bir "kıyamet" (apokalips) (1. ayet), bir "peygamberlik sözü" (3. ayet) ve herhangi bir birinci yüzyıl mektubunun açılacağı şekilde açılan, mektup olarak çerçevelenmiş bir metindir (aşağıdaki "Taban" bölümüne bakın). Vahiy en iyi şekilde bu üçünün - kıyamet, peygamberlik ve mektup türünün - bilinçli bir karışımı olarak okunur, tek bir tür olarak değil.
 
 Bütün bunların ortasında, kitabın İsa’yla ilgili olduğunu unutmamalıyız — merkezinde O vardır. “İsa Mesih’in” ifadesini çevirmenin iki yolu vardır:
 
@@ -40,7 +40,7 @@ Bir sonraki ayet aciliyeti daha da netleştirir: “Bu peygamberlik sözlerini y
 - Zaman yakındır. Fazla vaktimiz yok; şimdi harekete geçmeliyiz. Son 2000 yılda bu konuda hiçbir şey değişmedi.
 - Bu bir peygamberliktir: Kilise’yi harekete geçmeye çağıran acil bir hatırlatmadır.
 
-“Zaman yakındır” ifadesi, sonun rastgele herhangi bir anda gerçekleşebileceği anlamına gelmez; bu, {{% bible val="Markos’un" link="mrk:1,15" lang="tr" %}} Tanrı’nın egemenliğinin çoktan geldiğini anlatmak için [aynı ifadeyi](https://biblehub.com/interlinear/mark/1-15.htm) kullanmasına benzer, abartılı bir yakınlık ifadesidir.
+“Zaman yakındır” ifadesi, sonun rastgele herhangi bir anda gerçekleşebileceği anlamına gelmez; bu, aynı kökü kullanan abartılı bir yakınlık ifadesidir (Yunanca *engys/engizō*, “yakın, yaklaşmış”) — {{% bible val=”Markos’un” link=”mrk:1,15” lang=”tr” %}} Tanrı’nın egemenliğinin çoktan yaklaştığını anlatmak için [benzer bir yapıda](https://biblehub.com/interlinear/mark/1-15.htm) kullandığı kökle aynıdır.
 
 ## Taban
 
@@ -50,12 +50,12 @@ Bir sonraki ayet aciliyeti daha da netleştirir: “Bu peygamberlik sözlerini y
 “{{% bible val="Yuhanna’dan Asya İli’ndeki yedi kiliseye selam! Var olan, var olmuş ve gelecek olandan, O’nun tahtının önündeki yedi ruhtan," link="rev:1,4" lang="tr" %}}”
 
 - Lütuf ve esenlik kiliselere verilir, çünkü önlerindeki zorluklarla kendi başlarına baş edemeyeceklerinden buna ihtiyaç duyacaklardır.
-- İsa sonsuz olandır, “var olan, var olmuş ve gelecek olan” (4. ve 8. ayetler). O zamanın Hükümdarı’dır, Her Şeye Gücü Yeten’dir. Aynı gerçek “Alfa ve Omega” ile de ifade edilir — Yunan alfabesinin ilk ve son harfleri: O başlangıç ve sondur, ve değişmez.
-- “Tahtın önündeki yedi ruh” ifadesi ilk bakışta biraz tuhaf gelir. {{% bible val="Peygamber Zekeriya’da kandiller Kutsal Ruh’la özdeşleştirilir" link="zec:4,6" lang="tr" %}}, ve bu kandiller muhtemelen {{% bible val="kiliseleri simgeleyen yedi kandillikle" link="rev:1,20" lang="tr" %}} örtüşür. “Tahtın önünde” ifadesi {{% bible val="4. bölümde" link="rev:4,5" lang="tr" %}} yeniden karşımıza çıkar: Kutsal Ruh, Tanrı’nın planını yerine getirmek için O’nun tahtından gelir.
+- Tanrı Baba sonsuz olandır, “var olan, var olmuş ve gelecek olan” (4. ayet) — zamanın Hükümdarı, Her Şeye Gücü Yeten. Aynı gerçek “Alfa ve Omega” ile de ifade edilir — Yunan alfabesinin ilk ve son harfleri: O başlangıç ve sondur, ve değişmez. Vahiy kitabı daha sonra eşdeğer sonsuzluk unvanlarını İsa’nın kendisine de uygular (1:17-18; 22:13), böylece Baba ile Oğul’un bu ilahi kimliği paylaştığını gösterir.
+- “Tahtın önündeki yedi ruh” ifadesi ilk bakışta biraz tuhaf gelir. {{% bible val=”Peygamber Zekeriya’da kandil görümü Ruh’la ilişkilendirilir — ‘ne kudretle, ne kuvvetle, ancak benim Ruhum’la olacak’” link=”zec:4,2-6” lang=”tr” %}}, ve bu kandiller muhtemelen {{% bible val="kiliseleri simgeleyen yedi kandillikle" link="rev:1,20" lang="tr" %}} örtüşür. “Tahtın önünde” ifadesi {{% bible val="4. bölümde" link="rev:4,5" lang="tr" %}} yeniden karşımıza çıkar: Kutsal Ruh, Tanrı’nın planını yerine getirmek için O’nun tahtından gelir.
 
 “{{% bible val="ve sadık tanık, ölüler arasından ilk doğan, dünya krallarının hükümdarı İsa Mesih’ten sizlere lütuf ve esenlik olsun. Bizi seven, kanıyla bizi günahlarımızdan özgür kılan," link="rev:1,5" lang="tr" %}}”
 
-- İşte İsa’nın sadık tanık olma teması yeniden karşımıza çıkıyor — kitap boyunca tekrar tekrar döner, çünkü her şeyin anahtarı budur. “Sadık tanık,” “ilk doğan” ve “kralların hükümdarı” ifadelerinin bir arada kullanılması, Davut’un oğlunu betimleyen {{% bible val="Mezmur 89’dan" link="psa:89,19-32" lang="tr" %}} alınmıştır.
+- İşte İsa’nın sadık tanık olma teması yeniden karşımıza çıkıyor — kitap boyunca tekrar tekrar döner, çünkü her şeyin anahtarı budur. “Sadık tanık,” “ilk doğan” ve “kralların hükümdarı” ifadelerinin bir arada kullanılması, {{% bible val=”Mezmur 89’dan” link=”psa:89,19-32” lang=”tr” %}} alınmıştır — ancak orada “sadık tanık” aydır, gökyüzünde Tanrı’nın Davut’a olan antlaşma sadakatine tanıklık eder (37. ayet); Vahiy kitabı bu tanıklık imgesini doğrudan Davut soyundan gelen krala uygular.
 - “Ölüler arasından ilk doğan” ifadesi, ölüme kadar sadık kalmamız için bir teşviktir, çünkü ölüm son değildir.
 - “Bizi seviyor ve bizi günahlarımızdan özgür kıldı” ifadesi, İsa’nın bizden yana olduğunun bir hatırlatmasıdır.
 
@@ -85,9 +85,9 @@ Bu pasajları bir araya getirdiğimizde ortaya bir tablo çıkar:
 - Derin bir duygusal tepki vardır — sevilen bir kral için tutulan yas.
 - Bu, İnsanoğlu İsa’nın ölümüyle ilgilidir.
 - Sonuç, Avram’a vaat edildiği gibi, bütün ulusların O’na tapınmasıdır.
-- Ama metin, ulusların nasıl tepki vereceğini (“O’nun uğruna göğüslerini döverek”) açık bırakır — kimileri kurtarıcıları için tövbe ederek, kimileri de yargı korkusuyla.
+- Ama metin, ulusların nasıl tepki vereceğini (“O’nun uğruna göğüslerini döverek”) açık bırakır — kimileri kurtarıcıları için tövbe ederek, kimileri de yargı korkusuyla. (Vahiy kitabı başka yerlerde "ulusları" ve "yeryüzünün krallarını" Roma’yla - İsa’yı valisi aracılığıyla idam eden imparatorlukla - iç içe geçmiş olarak ele alır; dolayısıyla bu yas, ilk bakışta göründüğünden uluslara o kadar da uzak değildir.)
 
-Yani bu pasaj, İsa’nın kendisini öldüren belirli insanlara karşı yakında gelecek gazabından söz etmiyor (ulusların bu olayla gerçek bir ilgisi yoktu zaten). Bu, uluslara yönelik bir tövbe ve kurtuluş çağrısıdır.
+Yani metin, hangi tepkinin baskın olduğunu çözüme kavuşturmaz ve Vahiy kitabı boyunca bu belirsizliğe defalarca geri döner - aynı "bulutlarla gelme" hem tövbe edenler için kurtuluş hem de etmeyenler için yargı anlamına gelebilir (Va.6:15-17 ile karşılaştırın). Kesin olan şey, Vahiy’in defalarca geri döndüğü sonuçtur: her ulus, istisnasız, bir gün İsa’yla hesaplaşacaktır.
 
 ## Sonuç
 

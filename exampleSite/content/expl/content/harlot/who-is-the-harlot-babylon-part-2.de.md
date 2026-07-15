@@ -30,18 +30,18 @@ Das Vorbild für die Hure in der {{% bible val="Offenbarung" link="rev:17" lang=
 
 Aber in den Kapiteln {{% bible val="17" link="rev:17,4" lang="de" %}} und {{% bible val="18" link="rev:18,16" lang="de" %}} ist die Hure in der Offenbarung mit Materialien bekleidet, die an den Hohepriester des Alten Testaments erinnern:
 - {{% bible val="die Opfergabe für die Stiftshütte" link="exo:25,3-7" lang="de" %}}
-- {{% bible val="das Efod (Untergewand)" link="exo:25,3-7" lang="de" %}}
+- {{% bible val="das Efod (das äußere Gewand des Hohepriesters)" link="exo:28,6-14" lang="de" %}}
 - {{% bible val="die Brusttasche" link="exo:28,15-20" lang="de" %}}
 - {{% bible val="aber auch im Tempel" link="2ch:2,13-14" lang="de" %}}
 
-Die Platte des Hohepriesters, {{% bible val="beschriftet mit 'Heilig dem Herrn'" link="exo:28,35-38" lang="de" %}}, hat ihr dunkles Gegenstück in dem Namen, der auf der Stirn der Hure geschrieben steht: „{{% bible val="Babylon, die Große, Mutter der Huren und der Gräuel der Erde" link="rev:17,5" lang="de" %}}".
+Die Platte des Hohepriesters, {{% bible val="beschriftet mit 'Heilig dem Herrn'" link="exo:28,36-38" lang="de" %}}, hat ihr dunkles Gegenstück in dem Namen, der auf der Stirn der Hure geschrieben steht: „{{% bible val="Babylon, die Große, Mutter der Huren und der Gräuel der Erde" link="rev:17,5" lang="de" %}}".
 
 Die Parallele setzt sich im Gericht fort: {{% bible val="Die Priestertochter, die zur Hure wurde, sollte mit Feuer verbrannt werden" link="lev:21,9" lang="de" %}}, und genau {{% bible val="das ist das Gericht, das über Babylon kommt" link="rev:18,8" lang="de" %}}.
 
 Hesekiel zeigt dasselbe Bild aus einem anderen Blickwinkel: Dort konfrontiert Gott Jerusalem damit, {{% bible val="wie eine Hure zu handeln, bekleidet mit denselben priesterlichen Gewändern" link="ezk:16,13-26" lang="de" %}}. In all diesen Texten wird die Hure als Gottes eigener Priester und Geliebte dargestellt, die untreu geworden ist.
 
 Das ist auch kein einmaliges Bild — mehrere Städte des Alten Testaments werden auf dieselbe Weise beschrieben:
-- Tyrus {{% bible val="schloss einen Bund mit Gott" link="1ki:5,12" lang="de" %}}, um beim Bau des Tempels zu helfen, wurde aber {{% bible val="zum Gericht gerufen, weil sie Juden in die Gefangenschaft verkaufte" link="amo:1,9" lang="de" %}}, und wurde {{% bible val="eine Hure genannt" link="isa:23,15-18" lang="de" %}}.
+- Tyrus {{% bible val="schloss ein politisches Abkommen mit Salomo" link="1ki:5,12" lang="de" %}}, das beim Bau des Tempels half, wurde aber {{% bible val="zum Gericht gerufen, weil sie Juden in die Gefangenschaft verkaufte" link="amo:1,9" lang="de" %}}, und wurde {{% bible val="eine Hure genannt" link="isa:23,15-18" lang="de" %}}.
 - Ninive {{% bible val="demütigte sich vor dem Herrn, und er hatte Erbarmen mit ihnen" link="jon:3,5-10" lang="de" %}}, aber {{% bible val="später wurde die Stadt gerichtet, weil sie eine Hure war" link="nam:3,4-7" lang="de" %}}.
 - Israel hatte einen Bund mit Gott, brach ihm aber so oft die Treue, dass auch Israel {{% bible val="eine Hure genannt wurde" link="ezk:16,15-41" lang="de" %}}; bei Hesekiel ist es speziell die politische und wirtschaftliche Abhängigkeit Israels von anderen Nationen, und der Götzendienst, der damit einherging, die ihr dieses Etikett einbringen.
 
@@ -56,7 +56,7 @@ Der Begriff „Hure" umfasst jede unerlaubte Beziehung — religiös, politisch,
 
 Wirtschaftliche Beziehungen neigen dazu, in religiöse Beziehungen umzukippen — durch {{% bible val="Tempelgaben" link="mic:1,7" lang="de" %}}, {{% bible val="wirtschaftliche Abhängigkeiten" link="nam:3,4" lang="de" %}} oder {{% bible val="politische Ehebündnisse (Isebel selbst heiratete in ein anderes Königreich)" link="2ki:9,22" lang="de" %}}. Die stärkste Verbindung zu {{% bible val="Babylons Hurerei mit den Königen der Erde" link="rev:17,2" lang="de" %}} ist Tyrus, die {{% bible val="mit allen Königreichen der Erde ihr Gewerbe treiben wird" link="isa:23,17" lang="de" %}} — oder, wörtlicher übersetzt, [Hurerei mit den Königreichen der Erde treibt](https://biblehub.com/interlinear/isaiah/23-17.htm). Die {{% bible val="Güterliste Babylons" link="rev:18,12-13" lang="de" %}} in der Offenbarung entspricht eng {{% bible val="derselben Liste für Tyrus" link="ezk:27" lang="de" %}}. Tyrus war {{% bible val="der Hafen der Welt gewesen, der alle reich machte, während sie selbst in Naturalien bezahlt wurde, in ihrem Fall Getreide" link="isa:23,1-3" lang="de" %}}, und am {{% bible val="Ende des Kapitels wird sie offen eine Hure genannt, ihr Gewinn aus dem Reichtum der Nationen als ihr 'Hurenlohn' bezeichnet" link="isa:23,16-18" lang="de" %}}.
 
-Die Offenbarung zieht dieselbe Verbindung: Die Könige {{% bible val="treiben Hurerei mit Babylon" link="rev:18,3" lang="de" %}} und {{% bible val="werden dadurch reich" link="rev:18,9" lang="de" %}}. Die Kleidung und der Schmuck der Hure selbst, entnommen {{% bible val="derselben Güterliste" link="ezk:27" lang="de" %}}, sind selbst Symbole des Reichtums. So verführt die Hure zum Götzendienst mittels Reichtum — derselbe Köder, den {{% bible val="Juda so anziehend fand" link="jer:4,30" lang="de" %}}, und derselbe, den {{% bible val="Isebel benutzte" link="2ki:9,30" lang="de" %}}.
+Die Offenbarung zieht dieselbe Verbindung: Die Könige {{% bible val="treiben Hurerei mit Babylon" link="rev:18,3" lang="de" %}} und {{% bible val="werden dadurch reich" link="rev:18,9" lang="de" %}}. Die Kleidung und der Schmuck der Hure selbst, entnommen {{% bible val="derselben Güterliste" link="ezk:27" lang="de" %}}, sind selbst Symbole des Reichtums. So verführt die Hure zum Götzendienst mittels Reichtum — derselbe Köder, den {{% bible val="Juda so anziehend fand" link="jer:4,30" lang="de" %}}, und dasselbe Thema der Selbstschmückung zu verführerischer Wirkung, das auch in {{% bible val="Isebels eigener Geschichte" link="2ki:9,30" lang="de" %}} erscheint, wobei dort der Schwerpunkt eher auf Kosmetik als auf materiellem Reichtum liegt.
 
 ## Ist Babylon die abgefallene Gemeinde?
 
