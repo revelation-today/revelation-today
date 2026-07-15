@@ -19,9 +19,9 @@ Efes'teki kilise, görünüşte örnek bir kilisedir. Ama görünüş aldatıcı
 ## Tarihsel arka plan
 
 <a name="d798"></a>
-Efes'in büyük limanı Küçük Asya'nın kapısıydı, bu da şehri Roma İmparatorluğu'nun en büyük ve en önemli şehirlerinden biri yapıyordu. Antik dünyanın büyük harikalarından biri olan Artemis Tapınağı, şehri aynı zamanda önemli bir turizm merkezi hâline getiriyordu.
+Efes'in büyük limanı Küçük Asya'nın kapısıydı, bu da şehri Roma İmparatorluğu'nun en büyük ve en önemli şehirlerinden biri yapıyordu. Antik dünyanın büyük harikalarından biri olan Artemis Tapınağı, şehri aynı zamanda önemli bir turizm merkezi hâline getiriyordu. Ama en parlak döneminde bile liman zaten dolmaya başlamıştı ve sürekli, pahalı bir şekilde taranması gerekiyordu — sonraki yüzyıllarda limanı sonunda boğacak olan, kaybedilmiş bir mücadele. Her zamanki kadar müreffeh görünürken sessizce kendisini ayakta tutan şeyi kaybeden bir kilise için uygun bir arka plan.
 
-Bu ekonomik merkez, tam Efes vatandaşlığına sahip büyük bir diaspora Yahudi topluluğuna — İsrail dışında yaşayan Yahudilere — ev sahipliği yapıyordu. Vahiy'de hitap edilen yedi kilise arasında bu, muhtemelen en büyüğüydü.
+Bu ekonomik merkez, şehrin Yunan nüfusu tarafından defalarca sorgulanan ve Roma yetkilileri önünde savunulması gereken sivil ve dinî haklara sahip büyük bir diaspora Yahudi topluluğuna — İsrail dışında yaşayan Yahudilere — ev sahipliği yapıyordu. Vahiy'de hitap edilen yedi kilise arasında bu, muhtemelen en büyüğüydü.
 
 ## İsa'nın görüşü
 
@@ -30,16 +30,16 @@ Bu ekonomik merkez, tam Efes vatandaşlığına sahip büyük bir diaspora Yahud
 
 Ama İsa soruna değinmeden önce, gerçek bir övgü döktürür:
 
-- İşlerini, sıkı çalışmalarını ve sebatlarını bilir. Tapınağının kültü {{% bible val="şehir çapında bir kargaşaya zaten yol açmış olan" link="act:19,23-41" lang="tr" %}} yakındaki Artemis Tapınağı'nın etkisine karşı koymak için sıkı çalışıyorlardı.
-- Diğer bazı kiliseler için ölümcül olacak bir sorun olan sahte öğretiş ya da sahte elçiler tarafından kandırılmadılar.
-- İsa'nın adı uğruna zorluklara katlanıyorlar.
+- İşlerini, sıkı çalışmalarını ve sebatlarını bilir. Efes'in pagan baskıya karşı direnme konusunda zaten bir geçmişi vardı — on yıllar önce, Pavlus'un vaazına karşı direniş {{% bible val="Artemis kültü yüzünden şehir çapında bir kargaşaya yol açmıştı" link="act:19,23-41" lang="tr" %}}. Sıkı çalışmaları ve sebatları en doğrudan biçimde sahte elçileri sınamakla ilgilidir, ama bu, müjde uğruna direnmenin gerçek bir bedeli olduğu bir şehre uyar.
+- Elçi olduğunu iddia edenleri sınadılar ve onları sahte buldular, ve pagan uygulamalarla uzlaşmayı teşvik ediyor görünen ve Pergamon ile Tiyatira'ya yazılan mektuplarda hâlâ süren bir tehdit olarak yeniden ortaya çıkacak bir grup olan {{% bible val="Nikolasçıların" link="rev:2,6" lang="tr" %}} uygulamalarından nefret ediyorlar.
+- İsa'nın adı uğruna zorluklara katlanıyorlar — Yuhanna yazdığı sırada bu zorluk, muhtemelen yalnızca eski Artemis çatışmasını değil, MS 89-90 civarında Flavius imparatorları için bir tapınak inşa edilmesinin ardından Efes'in İmparator kültünün *neokoros* (tapınak bekçisi) şehri olarak kazandığı yeni statüden gelen baskıyı da içeriyordu.
 
 ## Sorun
 
 <a name="1874"></a>
 Yine de bir konuda ciddi biçimde yanılmışlardır: ilk sevgilerini kaybetmişlerdir. Bu gerçekte ne anlama gelir? "İlk sevgi" sadece İsa'yla ilk karşılaşmanın, onun için her şeyi yapabileceğin o romantik heyecanı mı? Hayır — bundan çok daha derindir.
 
-{{% bible val="Matta 24:12" link="mat:24,12-14" lang="tr" %}} iki şeyi yan yana koyar: müjde bütün uluslara bir tanıklık olarak duyurulurken, birçoklarının sevgisi soğuyacaktır. Peki "tanıklık" burada gerçekte ne anlama gelir? Bir tanık, hayatı değiştirici bir şeye bizzat tanık olduğu için hayatı değişmiş olan kişidir — sadece bir haberi tekrarlayan biri değil, tüm hayatı mesajın kendisi hâline gelmiş biri.
+{{% bible val="Matta 24:12" link="mat:24,12-14" lang="tr" %}} iki şeyi yan yana koyar: müjde bütün uluslara bir tanıklık olarak duyurulurken, birçoklarının sevgisi soğuyacaktır. Peki "tanıklık" burada gerçekte ne anlama gelir? Yeni Antlaşma'da bir "tanık" (Yunanca *martys*), bizzat gördüğü şeye tanıklık eden kişidir — daha sonra "şehit" (mart, "martyr") sözcüğünü doğuran aynı kök, tanıklığı kendi hayatıyla mühürlenmiş biri. Şu nokta geçerliliğini korur: tanıklık, ikinci elden tekrardan değil, gerçek, yaşanmış deneyimden akar.
 
 Peki sevginin müjdeye tanıklık etmekle ne ilgisi var? Görünenden çok daha fazla:
 
@@ -54,4 +54,4 @@ Efes, ruhsal zorluklarla başa çıkmak için gerçek stratejiler geliştirmiş 
 ## Çözüm
 
 <a name="4d61"></a>
-Efes'in Tanrı'nın gerçekten kullanabileceği bir kiliseye dönüşmek istiyorsa, kaybettiği o yakın ilişkiyi Tanrı'yla yeniden inşa etmesi gerekir — Aden Bahçesi'nde yaşam ağacından yemekle resmedilen o ilişkiyi. Onları bu yönde teşvik etmek için kendilerine {{% bible val="Yeni Yeruşalim'e dair bir vaat" link="rev:22,1-5" lang="tr" %}} verilir.
+Efes'in Tanrı'nın gerçekten kullanabileceği bir kiliseye dönüşmek istiyorsa, kaybettiği o yakın ilişkiyi Tanrı'yla yeniden inşa etmesi gerekir — Aden Bahçesi'nde yaşam ağacından yemekle resmedilen o ilişkiyi. Onları bu yönde teşvik etmek için kendilerine bir vaat verilir: {{% bible val="Tanrı'nın cennetindeki yaşam ağacından yeme hakkı" link="rev:2,7" lang="tr" %}} — kitabın en sonunda, {{% bible val="Yeni Yeruşalim'de Tanrı'nın tahtından akan ırmağın kenarındaki yaşam ağacında" link="rev:22,1-5" lang="tr" %}} yeniden ele alınan bir imge.

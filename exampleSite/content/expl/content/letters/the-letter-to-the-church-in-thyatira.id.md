@@ -21,9 +21,9 @@ Selayaknya, {{% bible val="surat kepada jemaat ini adalah yang terpanjang dari k
 ## Latar Belakang Historis
 
 <a name="aa89"></a>
-Tiatira mungkin merupakan sebuah pos militer Pergamus, terletak 70 km di sebelah tenggaranya.
+Tiatira bermula sekitar tahun 300 SM sebagai koloni militer Seleukos yang menjaga jalan menuju utara dari Sardis dan Pergamus; setelah tahun 188 SM, kota ini berpindah ke bawah kekuasaan kerajaan Pergamus dan terus berfungsi sebagai kota garnisun perbatasan di sebelah tenggara Pergamus.
 
-Pada masa Kitab Wahyu ditulis, kota ini dikenal karena industri pewarna ungu dan pengerjaan perunggunya. Karena itu, kota ini memiliki perkumpulan dagang yang secara rutin mengadakan pesta untuk menghormati dewa pelindungnya. Pesta-pesta ini hanya untuk laki-laki, tetapi perayaannya mendorong percabulan dengan melibatkan gadis-gadis muda sebagai bagian dari hiburannya.
+Pada masa Kitab Wahyu ditulis, kota ini dikenal karena industri pewarna ungu dan pengerjaan perunggunya, serta karena jumlah perkumpulan dagangnya yang luar biasa banyak. Pesta-pesta perkumpulan semacam ini, di seluruh dunia Yunani-Romawi, biasanya menggabungkan makan bersama yang dipersembahkan kepada dewa pelindung perkumpulan itu dengan hiburan yang mendorong percabulan - sebuah pola yang menempatkan orang-orang percaya dalam perkumpulan dagang Tiatira di bawah tekanan nyata untuk berkompromi demi mempertahankan mata pencaharian mereka.
 
 ## Pandangan Yesus
 
@@ -35,9 +35,9 @@ Ia penuh dengan {{% bible val="pujian atas perbuatan mereka, kasih mereka - just
 ## Masalahnya
 
 <a name="2981"></a>
-Namun ada {{% bible val="satu masalah: Izebel" link="rev:2,20" lang="ind" %}}. Dalam Perjanjian Lama, Izebel adalah {{% bible val="ratu yang memperkenalkan penyembahan berhala kepada Israel" link="1ki:16,31" lang="ind" %}}; di sini, di Tiatira, nama itu menandai seorang pemimpin yang melakukan hal yang sama terhadap jemaat.
+Namun ada {{% bible val="satu masalah: Izebel" link="rev:2,20" lang="ind" %}} - hampir pasti sebuah julukan yang bernada polemik, bukan nama aslinya, menggemakan "Bileam" dua ayat sebelumnya dalam surat kepada Pergamus. Dalam Perjanjian Lama, Izebel adalah {{% bible val="ratu yang memperkenalkan penyembahan berhala kepada Israel" link="1ki:16,31-18,19" lang="ind" %}}; di sini, di Tiatira, nama itu menandai seorang pemimpin yang melakukan hal yang sama terhadap jemaat.
 
-Sepintas, ini tampak mirip dengan keadaan di Pergamus. Tetapi masalah Tiatira lebih dalam lagi, sebab ini bukan kegagalan yang *disebabkan oleh* kepemimpinan - kepemimpinan itu sendirilah sumber kerusakannya. Pemimpin ini telah memperkenalkan penyembahan berhala, mendorong percabulan, dan menjanjikan kepada para pengikutnya wawasan khusus tentang "seluk-beluk Iblis yang tersembunyi."
+Sepintas, ini tampak mirip dengan keadaan di Pergamus. Tetapi masalah Tiatira lebih dalam lagi. Di Pergamus, jemaat sekadar membiarkan sebuah kelompok yang mengikuti "ajaran Bileam" (2:14-15) - sebuah pengaruh dari luar yang gagal mereka singkirkan. Di Tiatira, sebaliknya, ajaran sesat itu berasal dari kepemimpinan jemaat sendiri yang diakui, seorang perempuan yang "menyebut dirinya nabiah" (2:20): ini bukan kegagalan yang *disebabkan oleh* kepemimpinan - kepemimpinan itu sendirilah sumber kerusakannya. Pemimpin ini telah memperkenalkan penyembahan berhala, mendorong percabulan, dan menjanjikan kepada para pengikutnya wawasan khusus tentang "seluk-beluk Iblis yang tersembunyi."
 
 ## Solusinya
 

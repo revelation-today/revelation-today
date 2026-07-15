@@ -21,9 +21,9 @@ Uygun bir biçimde, {{% bible val="bu kiliseye yazılan mektup yedisinin en uzun
 ## Tarihsel arka plan
 
 <a name="76fc"></a>
-Thyatira muhtemelen Pergamon'un güneydoğusunda 70 km uzaklıkta, onun bir askeri karakoluydu.
+Thyatira, MÖ 300 civarında Sardis ve Pergamon'dan kuzeye giden yolu koruyan bir Selevkos askeri kolonisi olarak başladı; MÖ 188'den sonra Pergamon krallığının yönetimine geçti ve Pergamon'un güneydoğusunda bir sınır garnizon kenti olarak hizmet vermeye devam etti.
 
-Vahiy yazıldığı sırada şehir mor boya ve bronz işçiliğiyle tanınıyordu. Buna uygun olarak, koruyucu tanrısı onuruna düzenli bir şölen düzenleyen bir ticaret loncası vardı. Bu şölenler yalnızca erkeklere açıktı, ama eğlencenin bir parçası olarak kızları da içine alarak cinsel ahlaksızlığı teşvik ediyordu.
+Vahiy yazıldığı sırada şehir mor boya ve bronz işçiliğiyle, ayrıca olağanüstü sayıda ticaret loncasıyla tanınıyordu. Bu tür lonca şölenleri, tüm Greko-Romen dünyasında, genellikle loncanın koruyucu tanrısına sunulan bir yemeği, cinsel ahlaksızlığı teşvik eden bir eğlenceyle birleştiriyordu — bu da Thyatira'nın loncalarındaki inananları, geçimlerini sürdürebilmek için uzlaşma yapmaları yönünde gerçek bir baskı altına sokan bir örüntüydü.
 
 ## İsa'nın görüşü
 
@@ -35,9 +35,9 @@ Vahiy yazıldığı sırada şehir mor boya ve bronz işçiliğiyle tanınıyord
 ## Sorun
 
 <a name="94db"></a>
-Yine de {{% bible val="tek bir sorun vardır: İzebel" link="rev:2,20" lang="tr" %}}. Eski Antlaşma'da İzebel, {{% bible val="İsrail'e putperestliği getiren kraliçeydi" link="1ki:16,31" lang="tr" %}}; burada Thyatira'da, bu isim kiliseye aynı şeyi yapmış bir önderi işaret ediyor.
+Yine de {{% bible val="tek bir sorun vardır: İzebel" link="rev:2,20" lang="tr" %}} — neredeyse kesinlikle gerçek adı değil, Pergamon'a yazılan mektupta iki ayet önce geçen "Balam"ı yankılayan alaycı bir takma ad. Eski Antlaşma'da İzebel, {{% bible val="İsrail'e putperestliği getiren kraliçeydi" link="1ki:16,31-18,19" lang="tr" %}}; burada Thyatira'da, bu isim kiliseye aynı şeyi yapmış bir önderi işaret ediyor.
 
-İlk bakışta bu, Pergamon'un durumuna benzer görünür. Ama Thyatira'nın sorunu daha derindir, çünkü bu, önderlik *tarafından* yol açılan bir başarısızlık değildir — bizzat önderliğin kendisi bozulmanın kaynağıdır. Bu önder putperestliği içeri sokmuş, cinsel ahlaksızlığı teşvik etmiş ve takipçilerine "Şeytan'ın derin sırları" hakkında özel bir kavrayış vaat etmiştir.
+İlk bakışta bu, Pergamon'un durumuna benzer görünür. Ama Thyatira'nın sorunu daha derindir. Pergamon'da kilise, sadece "Balam'ın öğretisini" (2:14-15) izleyen bir grubu hoş görüyordu — kovamadığı dışarıdan bir etki. Thyatira'da ise, sahte öğretiş kilisenin kendi tanınmış önderliğinden geliyor, kendini "peygamber" ilan eden bir kadından (2:20): bu, önderlik *tarafından* yol açılan bir başarısızlık değildir — bizzat önderliğin kendisi bozulmanın kaynağıdır. Bu önder putperestliği içeri sokmuş, cinsel ahlaksızlığı teşvik etmiş ve takipçilerine "Şeytan'ın derin sırları" hakkında özel bir kavrayış vaat etmiştir.
 
 ## Çözüm
 

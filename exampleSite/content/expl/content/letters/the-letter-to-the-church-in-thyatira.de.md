@@ -21,9 +21,9 @@ Passend dazu ist der {{% bible val="Brief an diese Gemeinde der längste der sie
 ## Historischer Hintergrund
 
 <a name="aa89"></a>
-Thyatira war möglicherweise ein militärischer Vorposten von Pergamon, 70 km südöstlich davon gelegen.
+Thyatira begann um 300 v. Chr. als seleukidische Militärkolonie, die die Straße nach Norden von Sardes und Pergamon aus bewachte; nach 188 v. Chr. kam es unter die Herrschaft des Pergamenischen Reiches und diente weiterhin als Grenzgarnisonsstadt südöstlich von Pergamon.
 
-Zur Zeit der Abfassung der Offenbarung war die Stadt bekannt für ihre Purpurfärberei und ihre Bronzeverarbeitung. Entsprechend gab es dort eine Handelsgilde, die regelmäßig ein Fest zu Ehren ihrer Schutzgottheit feierte. Diese Feste waren nur für Männer, doch die Feier förderte sexuelle Unmoral, indem Mädchen als Teil der Unterhaltung einbezogen wurden.
+Zur Zeit der Abfassung der Offenbarung war die Stadt bekannt für ihre Purpurfärberei und ihre Bronzeverarbeitung sowie für eine ungewöhnlich große Zahl an Handelsgilden. Gildenfeste dieser Art verbanden in der gesamten griechisch-römischen Welt üblicherweise eine der Schutzgottheit der Gilde dargebrachte Mahlzeit mit Unterhaltung, die sexuelle Unmoral förderte - ein Muster, das Gläubige in den Gilden Thyatiras unter echten Druck setzte, Kompromisse einzugehen, um ihren Lebensunterhalt zu behalten.
 
 ## Jesu Sicht
 
@@ -35,9 +35,9 @@ Er ist voller Lob {{% bible val="für ihre Werke, ihre Liebe - genau dort, wo Ep
 ## Das Problem
 
 <a name="2981"></a>
-Doch es gibt {{% bible val="ein Problem: Isebel" link="rev:2,20" lang="de" %}}. Im Alten Testament war Isebel {{% bible val="die Königin, die den Götzendienst in Israel einführte" link="1ki:16,31" lang="de" %}}; hier in Thyatira bezeichnet der Name eine Leiterin, die dasselbe mit der Gemeinde getan hat.
+Doch es gibt {{% bible val="ein Problem: Isebel" link="rev:2,20" lang="de" %}} - fast sicher ein polemischer Spitzname, nicht ihr wirklicher Name, der auf „Bileam" zwei Verse zuvor im Brief an Pergamon anspielt. Im Alten Testament war Isebel {{% bible val="die Königin, die den Götzendienst in Israel einführte" link="1ki:16,31-18,19" lang="de" %}}; hier in Thyatira bezeichnet der Name eine Leiterin, die dasselbe mit der Gemeinde getan hat.
 
-Auf den ersten Blick ähnelt das der Situation in Pergamon. Doch Thyatiras Problem reicht tiefer, denn es handelt sich nicht um ein Versagen, das *durch* die Leiterschaft verursacht wurde - die Leiterschaft selbst ist die Quelle der Verderbnis. Diese Leiterin hat Götzendienst eingeführt, sexuelle Unmoral gefördert und ihren Anhängern besondere Einsicht in "die Tiefen des Satans" versprochen.
+Auf den ersten Blick ähnelt das der Situation in Pergamon. Doch Thyatiras Problem reicht tiefer. In Pergamon duldete die Gemeinde lediglich eine Gruppierung, die „der Lehre Bileams" folgte (2,14-15) - ein äußerer Einfluss, den sie nicht auszuschließen vermochte. In Thyatira dagegen kommt die falsche Lehre von der anerkannten Leiterschaft der Gemeinde selbst, einer Frau, die sich selbst „Prophetin" nennt (2,20): Es handelt sich nicht um ein Versagen, das *durch* die Leiterschaft verursacht wurde - die Leiterschaft selbst ist die Quelle der Verderbnis. Diese Leiterin hat Götzendienst eingeführt, sexuelle Unmoral gefördert und ihren Anhängern besondere Einsicht in „die Tiefen des Satans" versprochen.
 
 ## Die Lösung
 
