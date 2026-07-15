@@ -14,7 +14,7 @@ Der {{% int_link val="vorherige Artikel" link="/expl/background/literature/liter
 
 Ein paar Fragen sind es wert, im Hinterkopf behalten zu werden:
 
-- Bedeutet {{% bible val="„was bald geschehen muss"" link="rev:1,1" lang="de" %}} und {{% bible val="„die Zeit ist nahe"" link="rev:1,3" lang="de" %}} — noch einmal wiederholt {{% bible val="ganz am Ende des Buches" link="rev:22,6" lang="de" %}} und {{% bible val="in der Anweisung, es nicht zu versiegeln" link="rev:22,10" lang="de" %}} —, dass die Ereignisse für die ersten Leser bereits im Wesentlichen begonnen hatten, oder beschreibt es, wie sich jede Generation seither angesichts der Wiederkunft Christi fühlen sollte, wie weit entfernt sie sich auch erweisen mag?
+- Bedeutet {{% bible val="'was bald geschehen muss'" link="rev:1,1" lang="de" %}} und {{% bible val="'die Zeit ist nahe'" link="rev:1,3" lang="de" %}} — noch einmal wiederholt {{% bible val="ganz am Ende des Buches" link="rev:22,6" lang="de" %}} und {{% bible val="in der Anweisung, es nicht zu versiegeln" link="rev:22,10" lang="de" %}} —, dass die Ereignisse für die ersten Leser bereits im Wesentlichen begonnen hatten, oder beschreibt es, wie sich jede Generation seither angesichts der Wiederkunft Christi fühlen sollte, wie weit entfernt sie sich auch erweisen mag?
 - Steht der Tempel, {{% bible val="den Johannes vermessen soll" link="rev:11,1-2" lang="de" %}}, noch als konkretes Detail des ersten Jahrhunderts, oder ist er ein Symbol ohne Bindung an ein bestimmtes Gebäude?
 - Verweist ein Symbol wie Babylon auf eine bestimmte Stadt oder ein bestimmtes Reich, oder auf ein wiederkehrendes Muster unterdrückerischer Macht, das immer wieder auftaucht?
 - Wie viel von den konkreten Details der sieben Sendschreiben aus dem ersten Jahrhundert — Nikolaiten, Kaiserkult, {{% int_link val="ein echtes Erdbeben hinter Laodizeas selbstgenügsamem Wohlstand" link="/expl/content/letters/the-letter-to-the-church-in-laodicea" %}} — muss im Blick bleiben, damit der Rest des Buches Sinn ergibt, statt bloß beiläufiges Beiwerk für eine rein zukünftige oder rein zeitlose Botschaft zu sein?
@@ -28,7 +28,7 @@ Diese Sichtweise gibt es in zwei sehr unterschiedlichen Stärken. Der *partielle
 
 **Dafür spricht:**
 
-- Es nimmt die im Buch selbst wiederholte Dringlichkeit — {{% bible val="„muss bald geschehen"" link="rev:1,1" lang="de" %}}, {{% bible val="„die Zeit ist nahe"" link="rev:1,3" lang="de" %}} — beim Wort, als Verheißung an die ersten Leser, nicht als ein Wort, das sich am Ende als „nicht vor weiteren zweitausend Jahren und mehr" gemeint herausstellt.
+- Es nimmt die im Buch selbst wiederholte Dringlichkeit — {{% bible val="'muss bald geschehen'" link="rev:1,1" lang="de" %}}, {{% bible val="'die Zeit ist nahe'" link="rev:1,3" lang="de" %}} — beim Wort, als Verheißung an die ersten Leser, nicht als ein Wort, das sich am Ende als „nicht vor weiteren zweitausend Jahren und mehr" gemeint herausstellt.
 - Dass der Tempel {{% int_link val="vermessen, aber noch nicht zerstört wird" link="/expl/topics/others/who-wrote-revelation-and-when" %}}, passt gut zu einem Buch, das vor 70 n. Chr. geschrieben und größtenteils erfüllt wurde.
 - Es hält die Offenbarung fest verankert in der konkreten Geschichte ihrer ersten Leser — dieselbe Intuition, die {{% int_link val="den historischen Hintergrund der Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} so hilfreich macht, um die Sendschreiben und die Plagen zu lesen.
 - Die Zählung der {{% bible val="sieben Könige" link="rev:17,9-11" lang="de" %}} liest sich am natürlichsten als eine reale Liste von Kaisern, nicht als ein Symbol ohne jeden historischen Bezugspunkt.
@@ -88,7 +88,7 @@ Die Offenbarung beschreibt keine einzelne Abfolge historischer Ereignisse — we
 - Es passt zur {{% int_link val="apokalyptischen Gattung selbst" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}, deren Dualismus — Gut gegen Böse, Jetzt gegen das kommende Zeitalter — nie dazu gedacht war, einen einzigen, abgeschlossenen Moment der Geschichte zu beschreiben.
 - Es umgeht die wiederholte Peinlichkeit gescheiterter Datierungen und Schlagzeilen-Zuordnungen, die sowohl den Historismus als auch den Futurismus geplagt hat.
 - Es macht das Buch unmittelbar auf jede Generation von Lesern anwendbar, passend zum eigenen Ziel der Prophetie, {{% int_link val="jetzt und hier zu einer Verhaltensänderung zu bewegen" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}, statt bloß ein zukünftiges Ereignis vorherzusagen.
-- Es passt zur Gewohnheit des Buches, zu rekapitulieren — denselben zugrunde liegenden Konflikt aus einem neuen Blickwinkel erneut zu erzählen — {{% int_link val="bereits in der Besprechung des öffnenden „und" von Kapitel 20 erwähnt" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.
+- Es passt zur Gewohnheit des Buches, zu rekapitulieren — denselben zugrunde liegenden Konflikt aus einem neuen Blickwinkel erneut zu erzählen — {{% int_link val="bereits in der Besprechung des öffnenden 'und' von Kapitel 20 erwähnt" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.
 
 **Dagegen spricht:**
 

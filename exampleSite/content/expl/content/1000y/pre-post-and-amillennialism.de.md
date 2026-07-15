@@ -40,7 +40,7 @@ Jesus kommt zuerst wieder, besiegt das Tier und den falschen Propheten und herrs
 
 - Er muss das einzelne „und", das Kapitel 20 eröffnet, als streng zeitlich lesen – entgegen dem Muster, das im übrigen Buch zu finden ist und im {{% int_link val="vorherigen Artikel" link="/expl/content/1000y/the-thousand-year-kingdom" %}} dargelegt wurde.
 - Er verlangt, dass die Schlacht aus Kapitel 19 und die Schlacht von Gog und Magog in Kapitel 20 zwei getrennte Endzeitschlachten sind, obwohl beide stark die eine, letzte Schlacht widerspiegeln, die in {{% bible val="Hesekiel 38" link="ezk:38" lang="de" %}}–{{% bible val="39" link="ezk:39" lang="de" %}} beschrieben wird.
-- Jesaja 65 wird eingeleitet mit {{% bible val="„neuer Himmel und neue Erde"" link="isa:65,17" lang="de" %}} – derselben Sprache, die die Offenbarung später für den endgültigen Zustand verwendet –, was dagegenspricht, den Text als Zwischenreich statt als die neue Schöpfung selbst zu lesen.
+- Jesaja 65 wird eingeleitet mit {{% bible val="'neuer Himmel und neue Erde'" link="isa:65,17" lang="de" %}} – derselben Sprache, die die Offenbarung später für den endgültigen Zustand verwendet –, was dagegenspricht, den Text als Zwischenreich statt als die neue Schöpfung selbst zu lesen.
 - Er braucht weiterhin eine Erklärung dafür, warum {{% bible val="Menschen während des Millenniums sterben" link="isa:65,20" lang="de" %}}, obwohl sie unter der direkten, sichtbaren Herrschaft Christi leben.
 - Besonders die dispensationalistische Spielart hängt davon ab, „Israel" und „Gemeinde" in zwei Völker mit zwei Bestimmungen aufzuteilen, was sich schlecht mit Stellen verträgt, die die Gemeinde zur Erbin der Verheißungen Israels erklären.
 

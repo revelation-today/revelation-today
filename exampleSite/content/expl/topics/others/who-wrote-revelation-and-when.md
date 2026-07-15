@@ -1,8 +1,8 @@
 ---
 title: "Who wrote Revelation, and when?"
 themes: ["authorship", "dating"]
-weight: 4
-prev: /expl/topics/others/the-rapture
+weight: 5
+prev: /expl/topics/others/why-so-many-believe-in-the-rapture
 next: /expl/topics/others/judgment-in-the-book-of-revelation
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
