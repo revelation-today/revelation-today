@@ -21,11 +21,11 @@ Start with a coin that would have been common currency at the time.
 
 ![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
 
-On the obverse is Emperor Vespasian (reigned 69–79) with the inscription "Imp Caesar Vespasianus Aug PM TP PP COS III" — "Emperor Caesar Vespasian Augustus, Pontifex Maximus (Greatest Priest), Tribunicia Potestas (Tribunal Power), Pater Patriae (Father of the Fatherland), Consul for the third time." In short, a résumé of the emperor's power and achievements.
+On the obverse is Emperor Vespasian (reigned 69–79) with the inscription "Imp Caesar Vespasianus Aug P M TR P P P COS III" — "Emperor Caesar Vespasian Augustus, Pontifex Maximus (Greatest Priest), Tribunicia Potestas (Tribunal Power), Pater Patriae (Father of the Fatherland), Consul for the third time." In short, a résumé of the emperor's power and achievements.
 
 The reverse shows the goddess Roma in military dress, seated on the seven hills of Rome, a small sword resting on her knee as a symbol of Rome's military power. To her left and right is the abbreviation SC (Senatus Consultum, "by decree of the Senate").
 
-On the right, a male figure representing the river Tiber, which surrounds Rome, bows before Roma. In the lower left, a she-wolf nurses Romulus and Remus, recalling the founding story of Rome in 753 BC by the descendants of Troy. At the very bottom is the word Roma — possibly a nod to [Rome's secret name, Amor](https://www.quartahospitalityinrome.com/en/Rome-and-the-secret-of-its-name/), which reversed spells "love."
+On the right, a male figure representing the river Tiber, which surrounds Rome, bows before Roma. In the lower left, a she-wolf nurses Romulus and Remus, recalling Rome's traditional founding legend — the city's own dating, by the Roman antiquarian Varro, to 753 BC, and its self-told descent from Trojan refugees via Romulus and Remus. At the very bottom is the word Roma — possibly a nod to Rome's tradition of a "secret name," Amor, which reversed spells "love" (a tradition echoed, among other places, in the late-antique commentary of Servius on Virgil's Aeneid).
 
 So the reverse of the coin is a straightforward celebration of Rome's power and permanence. What does Revelation do with that same imagery?
 
@@ -36,6 +36,8 @@ So the reverse of the coin is a straightforward celebration of Rome's power and 
 
 The coin's celebration of the {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} is turned, point by point, into an image of contempt and disgust — a reminder to every believer who handled that coin in daily life that Rome could not be trusted. It's remarkably effective counter-propaganda.
 
+This is not an isolated rhetorical move. "Babylon" itself is a recognized code name for Rome in Jewish and early Christian writing of the period — most clearly in 1 Peter 5:13, and also in works like 2 Baruch, 4 Ezra, and Sibylline Oracles 5. Babylon had destroyed Solomon's temple in 586 BC; Rome destroyed the Second Temple in 70 AD. Calling Rome "Babylon" placed it inside that same typological pattern of a proud pagan empire that destroys God's temple and, in turn, faces God's judgment.
+
 ## The Ekphrasis
 
 <a name="66fb"></a>
@@ -43,7 +45,7 @@ The {{% bible val="first half of chapter 17" link="rev:17,1-13" lang="en" %}} is
 
 The passage is written in the style of an ekphrasis, a rhetorical description of a work of art (though the form could also describe people or festivals). The genre's most famous example is the description of the shield of Achilles in the Iliad.
 
-Ekphrasis was popular in Rome from the first century BC on, and its central device is a {{% bible val="bewildered narrator" link="rev:17,7" lang="en" %}} — because the point was either to deepen the reader's understanding of the picture, or to reveal a hidden meaning that's genuinely hard to decipher, as in the "Tabula of Cebes," probably the most famous ekphrasis of all.
+Ekphrasis was popular in Rome from the first century BC on, and its central device is a {{% bible val="bewildered narrator" link="rev:17,7" lang="en" %}} — because the point was either to deepen the reader's understanding of the picture, or to reveal a hidden meaning that's genuinely hard to decipher, as in the "Tabula of Cebes," one of the best-known examples of this particular allegorical-ekphrasis tradition.
 
 That tabula may well be a source behind Revelation 17. It describes a crowd looking at a picture on a dedication plaque in a temple, unable to make sense of it, until an old man arrives and [explains it to them (see chapter 8)](https://archive.org/details/cebestabletwithi00cebeiala/page/n4/mode/1up?view=theater):
 

@@ -17,14 +17,14 @@ docType: expl
 appl: /appl/content/letters
 ---
 
-Revelation keeps repeating the same puzzling instruction: "Write to the angel of the church." Do churches have guardian angels? Or is "angel" just another word for the church's leader? Let's take a closer look.
+Revelation keeps repeating the same puzzling instruction: "Write to the angel of the church." Do churches have guardian angels? Or is "angel" just another word for the church's leader? Let's take a closer look. This question doesn't have a single agreed answer among commentators — guardian-angel, human-messenger, and personification readings all still have defenders today. The case below is the reading this site follows, not a settled consensus.
 
 ## Unlikely interpretations
 
 <a name="eda4"></a>
-Could the "angels of the churches" be guardian angels watching over each congregation? Probably not — it would be strange for Jesus to have John write to the angels themselves, when there are far more direct ways for Jesus to communicate with them. And practically speaking, how would John even deliver such a letter? Besides, it would be {{% bible val="hard to blame the angel if some of the members in the church are not faithful" link="rev:2,24-25" lang="en" %}}.
+Could the "angels of the churches" be guardian angels watching over each congregation? Probably not — it would be strange for Jesus to have John write to the angels themselves, when there are far more direct ways for Jesus to communicate with them. Besides, in the letter to Thyatira John distinguishes the angel from individual believers directly: he tells "the rest of you in Thyatira" that no further burden will be placed on them ({{% bible val="I will not place any other burden on the rest of you who have not followed this teaching" link="rev:2,24-25" lang="en" %}}) — language that only makes sense if "the angel" and "the members" are not strictly identical individuals.
 
-Could "angel" instead mean a human *leader*? That doesn't hold up either, since it would be just as strange to blame a leader for the failures of individual members.
+Could "angel" instead mean a human *leader*? That doesn't fully explain the pattern either. It's true that prophets elsewhere do hold leaders responsible for their people's failures (Ezekiel 34; Jeremiah 23), so this alone can't rule the reading out. But the letters mix singular address ("I know your works...") with plural consequences that fall on ordinary members ("the devil will put some of *you* in prison," Revelation 2:10) in a way that fits a corporate reading more naturally than an individual office-holder.
 
 ## Observations
 
@@ -35,7 +35,7 @@ A few observations point us toward a better answer:
 - Each letter opens with "{{% bible val="write to the angel of" link="rev:2,1" lang="en" %}}" but closes with "{{% bible val="what the Spirit says to the churches" link="rev:2,7" lang="en" %}}" — the angel and the church are addressed as the same recipient.
 - The angel is directly told, "{{% bible val="Consider how you have fallen" link="rev:2,5" lang="en" %}}" — language that fits a congregation, not a spirit being.
 - The Greek text shifts between a singular "you" and a plural "you" (rendered here in capitals): "{{% bible val="Do not be afraid of what you are about to suffer. I tell you, the devil will put some of YOU in prison to test YOU, and YOU will suffer persecution for ten days. Be faithful, even to the point of death, and I will give you life as your victor's crown." link="rev:2,10" lang="en" %}}"
-- "Angels" appears here without the definite article, which is unusual for Jewish or early Christian literature.
+- "Angelos" (messenger) is also used elsewhere in the New Testament of ordinary human messengers, not just supernatural beings (Luke 7:24; Luke 9:52; James 2:25) — so the word itself doesn't require a spirit-being reading.
 - These angels are never mentioned again anywhere else in the book.
 
 ## Angels = Churches

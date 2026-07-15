@@ -30,7 +30,7 @@ The devil always appears in the form of a trinity, since God himself is three.
 
 The first time is right {{% bible val="after the enthronement of Christ" link="rev:5" lang="en" %}}, when he alone is found worthy to open the scroll, and the devil shows up {{% bible val="as four horsemen" link="rev:6,1-8" lang="en" %}} — the fourth summarizing the other three. His action here is described in a mere eight verses, in sharp contrast to the two full chapters of eternal worship of God that precede it.
 
-The first horseman appears as the great victor, but only seven verses later he leaves a scene of total destruction: the devil cannot fulfill his promises.
+The first horseman appears as the great victor, but only a few verses later he leaves a scene of total destruction: the devil cannot fulfill his promises.
 
 The second time he appears is when {{% bible val="Jesus is declared victorious again" link="rev:12" lang="en" %}}, born of the woman. Here Satan is shown as the ultimate loser:
 
@@ -52,7 +52,7 @@ He sets {{% int_link val="up an evil trinity" link="/content/beasts/expl/the-nat
 
 The {{% int_link val="dragon and the beasts are described as working together to accomplish their goal" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, but they act differently: the first beast relies on violence, while the second relies on signs, miracles, and economic pressure — {{% int_link val="see also in the historical context" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
 
-If we now look {{% int_link val="at the four horsemen, we find the same pattern" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
+If we now look {{% int_link val="at the four horsemen, we find the same pattern" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} (developed in more detail there):
 
 - first comes the deceiver,
 - followed by the one who uses violence and brings war,
@@ -67,7 +67,7 @@ First, there is a strong parallel between the beast in chapter 17 and the first 
 | The first beast of Revelation 13 | The beast on Revelation 17 |
 |----------------------------------|----------------------------|
 | {{% bible val="Has 7 heads and 10 horns" link="rev:13,1" lang="en" %}} | {{% bible val="Has 7 heads and 10 horns" link="rev:17,3" lang="en" %}} |
-| {{% bible val="Head as if slaughtered, grows back" link="rev:13,3" lang="en" %}} | {{% bible val="5 kings fallen, the seventh yet to come" link="rev:17,10" lang="en" %}} |
+| {{% bible val="Head as if slaughtered, grows back" link="rev:13,3" lang="en" %}} | {{% bible val="5 kings fallen, the seventh yet to come" link="rev:17,10" lang="en" %}} (both point to the beast's mysterious continuity and return, cf. {{% bible val="the beast that was, and is not, and is to come" link="rev:17,8" lang="en" %}}) |
 | {{% bible val="Who can fight against the beast" link="rev:13,4" lang="en" %}} | {{% bible val="Beast makes war on King of Kings" link="rev:17,14" lang="en" %}} |
 | {{% bible val="Speech of blasphemy" link="rev:13,5-6" lang="en" %}} | {{% bible val="Blasphemous name" link="rev:17,3" lang="en" %}} |
 | {{% bible val="Fight against saints and defeat them" link="rev:13,7" lang="en" %}} | {{% bible val="Fights against Lamb and is overcome" link="rev:17,14" lang="en" %}} </br> {{% bible val="Fight against Harlot and destroys it" link="rev:17,16" lang="en" %}}. |
@@ -80,15 +80,15 @@ Second, there is also a strong connection between the second beast in chapter 13
 | The Second Beast of Revelation 13 | The Harlot |
 |-----------------------------------|------------|
 | {{% bible val="Comes from Earth" link="rev:13,11" lang="en" %}} | {{% bible val="Sits in desert" link="rev:17,3" lang="en" %}} |
-| {{% bible val="Has two horns like a lamb" link="rev:13,11" lang="en" %}} | {{% bible val="Is dressed like the bride of the lamb" link="rev:17,4" lang="en" %}} |
+| {{% bible val="Has two horns like a lamb" link="rev:13,11" lang="en" %}} | {{% bible val="Is richly dressed and adorned" link="rev:17,4" lang="en" %}}, recalling the bride's imagery later in the book ({{% bible val="the bride of the Lamb" link="rev:21,9" lang="en" %}}) |
 | {{% bible val="Acts in power of the (first) beast" link="rev:13,12" lang="en" %}} | {{% bible val="Sits on the (first) beast" link="rev:17,3" lang="en" %}} |
-| {{% bible val="Can make fire fall from the sky" link="rev:13,13" lang="en" %}} | {{% bible val="Will be directed by fire " link="rev:17,16" lang="en" %}} ({{% bible val="Offb.18/9" link="rev:18,9" lang="en" %}}) |
+| {{% bible val="Can make fire fall from the sky" link="rev:13,13" lang="en" %}} | {{% bible val="Will be destroyed by fire" link="rev:17,16" lang="en" %}} ({{% bible val="Rev.18/9" link="rev:18,9" lang="en" %}}) |
 | {{% bible val="All who do not worship it will be killed" link="rev:13,15" lang="en" %}} | {{% bible val="Drink blood of the saints" link="rev:17,6" lang="en" %}} |
-| {{% bible val="Make a sign on forehead and hand" link="rev:13,16" lang="en" %}} | {{% bible val="Has sign on forehead: Babel" link="rev:17,5" lang="en" %}} |
-| {{% bible val="Cannot buy or sell without characters" link="rev:13,17" lang="en" %}} | {{% bible val="Cannot buy or sell without sign" link="rev:18,3" lang="en" %}} ({{% bible val="Offb.18/11-17" link="rev:18,11-17" lang="en" %}}) |
+| {{% bible val="Make a mark on forehead and hand" link="rev:13,16" lang="en" %}} | {{% bible val="Has sign on forehead: Babel" link="rev:17,5" lang="en" %}} |
+| {{% bible val="Cannot buy or sell without the mark" link="rev:13,17" lang="en" %}} | {{% bible val="Merchants who traded with her can no longer buy or sell anything, now that she has fallen" link="rev:18,11" lang="en" %}} ({{% bible val="Rev.18/11-17" link="rev:18,11-17" lang="en" %}}) |
 | {{% bible val="Requires wisdom" link="rev:13,18" lang="en" %}} | {{% bible val="Requires wisdom" link="rev:17,9" lang="en" %}} |
 
-Notice how the power is reversed here too: while in chapter 13 the beast drops fire from heaven, in chapter 17 she is destroyed by fire; while she makes a mark on people's foreheads there, here she herself is branded on the forehead, like a slave.
+Notice how the power is reversed here too: while in chapter 13 the beast drops fire from heaven, in chapter 17 she is destroyed by fire; while she makes a mark on people's foreheads there, here her own forehead bears a name, as if she were owned or marked out for judgment.
 
 So where is the third member of the trinity in this scene? He stays in the background, just as he does in chapter 13 and in the description of the horsemen — but you do see him in {{% bible val="the sixth bowl" link="rev:16,13" lang="en" %}} and in chapter {{% bible val="20" link="rev:20,10" lang="en" %}}.
 
@@ -104,4 +104,3 @@ He appears to be the victorious one, but he ends up leaving destruction and deat
 That's the theme developed in the story of the dragon and the two beasts. There, {{% int_link val="Satan does have some genuinely appealing things to offer" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Yet the text sets a clear alternative alongside it: {{% int_link val="the two witnesses, who live a lifestyle of worship and stay faithful in their testimony even to death" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
 This contrast finally unfolds in full in the last vision, where Babylon is described in detail as the dark counterpart of the New Jerusalem.
-

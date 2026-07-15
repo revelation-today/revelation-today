@@ -22,14 +22,14 @@ The key to understanding the dragon and the two beasts is to remember that this 
 
 The two beasts coming up out of the sea and out of the earth are based on:
 
-- {{% bible val="Behemoth" link="job:40,15-24" lang="en" %}}, the beast from the earth, which is {{% bible val="slain by God with a sword in Job" link="job:40,19" lang="en" %}} and is likewise {{% bible val="wounded by a sword in Revelation" link="rev:13,14" lang="en" %}}, and
+- {{% bible val="Behemoth" link="job:40,15-24" lang="en" %}}, the beast from the earth, which only God, its maker, could approach with a sword ({{% bible val="Job 40:19" link="job:40,19" lang="en" %}}), and is likewise {{% bible val="wounded by a sword in Revelation" link="rev:13,14" lang="en" %}}, and
 - {{% bible val="Leviathan " link="job:41" lang="en" %}}, the beast from the sea, which has {{% bible val="flames coming out of its mouth" link="job:41,19" lang="en" %}}.
 
-These beasts {{% bible val="are subdued by God" link="job:7,12" lang="en" %}}, and Jewish tradition — including {{% bible val="Isaiah" link="isa:27,1" lang="en" %}} — expected God to conquer them fully in the end times.
+These beasts {{% bible val="are subdued by God" link="job:7,12" lang="en" %}}, and the Old Testament — including {{% bible val="Isaiah" link="isa:27,1" lang="en" %}} — expected God to conquer Leviathan fully in the end times; later Jewish tradition (2 Baruch 29, 4 Ezra 6) extends the same fate to Behemoth.
 
-Both beasts are no match for human beings, yet {{% bible val="even a toy for God" link="psa:104,26" lang="en" %}}.
+Both beasts are no match for human beings, and on one reading of the Hebrew, {{% bible val="even a toy for God" link="psa:104,26" lang="en" %}} — though most modern translations render this as Leviathan playing *in* the sea rather than being God's plaything; either way, the beasts are firmly under God's power.
 
-To the first readers, whatever came "out of the sea" meant something foreign — at that time, the emperor in Rome, or the governors who all arrived by sea via Ephesus, where ships approaching over the horizon genuinely look like they're rising up out of the water.
+To the first readers, whatever came "out of the sea" meant something foreign. This echoes Daniel 7, where the four beasts likewise rise out of a chaotic sea — but it also had a concrete local resonance: the emperor in Rome, or the governors who all arrived by sea via Ephesus, where ships approaching over the horizon genuinely look like they're rising up out of the water.
 
 "From the earth," by contrast, pointed to native political and economic authorities.
 
@@ -48,13 +48,13 @@ This is the emperor in Rome, coming from the sea. He is no different from all th
 ## The second beast
 
 <a name="2f0d"></a>
-This is the wide network of people who benefit from the emperor's favor — through tax breaks, financial support, or other privileges. For them, the {{% int_link val="emperor is a guarantee of the gods' blessings" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
+This is the wide network of people who benefit from the emperor's favor — through tax breaks, financial support, or other privileges (historically, this points to the *Asiarchs* and the provincial imperial-cult priesthoods of Roman Asia). For them, the {{% int_link val="emperor is a guarantee of the gods' blessings" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
 
-They make {{% bible val="sure that no one does anything to lose the favor of the emperor" link="rev:13,12" lang="en" %}}. They perform processions, build temples, work in and for the temples, sell meat dedicated to the idols, attend feasts for the idols, and much more — a comprehensive, everyday activity that doesn't look evil at all. {{% bible val="It does not look evil: 'Just go with the flow'." link="rev:13,11" lang="en" %}}
+They make {{% bible val="sure that the whole earth worships the first beast" link="rev:13,12" lang="en" %}}. They perform processions, build temples, work in and for the temples, sell meat dedicated to the idols, attend feasts for the idols, and much more — a comprehensive, everyday activity that doesn't look evil at all, described starting from {{% bible val="the moment this second beast rises up, looking harmless, like a lamb" link="rev:13,11" lang="en" %}}.
 
-The emperor's followers present him as the {{% bible val="only one in power, able to give life and provision, and beyond question." link="rev:13,13-14" lang="en" %}}
+The emperor's followers present him as {{% bible val="worthy of great signs and wonders" link="rev:13,13-14" lang="en" %}}.
 
-But how can the statue made by the second beast actually speak? A parallel from {{% bible val="the book of Daniel" link="dan:3,4-12" lang="en" %}} suggests an answer: ancient statues were sometimes rigged by priests or officials with a stake in the outcome, giving the appearance of a voice from the idol itself. The same dynamic seems to be at work here — the {{% bible val="idol gets its power from the people who support it" link="rev:13,15" lang="en" %}}.
+But how can the statue made by the second beast actually speak? Ancient sources describe statues sometimes rigged by priests or officials with a stake in the outcome, using hidden mechanisms to give the appearance of a voice from the idol itself. A related motif appears already in {{% bible val="the book of Daniel" link="dan:3,4-12" lang="en" %}}, where a statue must be worshiped on pain of death, even though there it does not itself speak. The same dynamic of manufactured authority seems to be at work here — the {{% bible val="idol gets its power from the people who support it" link="rev:13,15" lang="en" %}}.
 
 The people then receive a mark on their hands and foreheads. In the Old Testament, this was a {{% bible val="picture of the remembrance of the power of God" link="exo:13,16" lang="en" %}}, meant to secure loyalty: don't forget what you've seen here. For God, that meant the plagues in Egypt and the Exodus; for the devil, it's the system you cannot defeat.
 
@@ -63,6 +63,6 @@ If you refuse to fall in line, you {{% bible val="will be financially ruined " l
 ## What to do?
 
 <a name="0a91"></a>
-So what can Christians do to confront this system? The answer is given, for example, in chapter 14: they stay faithful to God and refuse to compromise, described there {{% bible val="because they are virgins" link="rev:14,4" lang="en" %}}. In chapter 13, that same loyalty is {{% bible val="described by worship" link="rev:13,8" lang="en" %}}.
+So what can Christians do to confront this system? The answer is given, for example, in chapter 14: they stay faithful to God and refuse to compromise, described there {{% bible val="because they are virgins" link="rev:14,4" lang="en" %}}. In chapter 13, we see the mirror image: those who fail that same test end up {{% bible val="worshiping the beast instead" link="rev:13,8" lang="en" %}}.
 
 And running through all of it: {{% bible val="perseverance" link="rev:13,10" lang="en" %}} and {{% bible val="wisdom to tell what is of God and what is not" link="rev:13,18" lang="en" %}}.

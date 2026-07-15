@@ -21,13 +21,13 @@ sources:
       ref: beale_rev
 ---
 
-As a Christian, you're probably very familiar with the classic Christmas story from {{% bible val="Luke" link="luk:2" lang="en" %}}: a somewhat romantic tale of shepherds and a baby in a barn, and three far-flung travelers who followed a mysterious star.
+As a Christian, you're probably very familiar with the classic Christmas story pieced together from {{% bible val="Luke" link="luk:2" lang="en" %}} and {{% bible val="Matthew" link="mat:2" lang="en" %}}: a somewhat romantic tale of shepherds and a baby laid in a manger, and far-flung travelers who followed a mysterious star (later tradition, not the text itself, fixed their number at three, based on the three gifts they brought).
 
 That story shows one aspect of Christmas, and we've heard it so many times that we no longer really hear it at all. Perhaps it's time to hear another Christmas story from the Bible — this one from Revelation, chapter 12.
 
 ## The story
 
-[A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. She was pregnant and cried out in pain as she was about to give birth. Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on its heads. Its tail swept a third of the stars out of the sky and flung them to the earth. The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born. She gave birth to a son, a male child, who ‘will rule all the nations with an iron sceptre.’ And her child was snatched up to God and to his throne.](Rev.12/1–5)
+{{% bible val="A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. She was pregnant and cried out in pain as she was about to give birth. Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on its heads. Its tail swept a third of the stars out of the sky and flung them to the earth. The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born. She gave birth to a son, a male child, who 'will rule all the nations with an iron sceptre.' And her child was snatched up to God and to his throne." link="rev:12,1-5" lang="en" %}}
 
 At first glance, you probably think of something like this:
 
@@ -46,12 +46,12 @@ The first one is easy to identify. In verse 9, he's named outright as "that anci
 The child gets little description, but one feature stands out prominently: the iron scepter. Looking around the rest of the Bible turns up a handful of references that fill in who this is:
 - {{% bible val="Ps.2" link="psa:2" lang="en" %}} describes a scene where all the kings of the earth rebel against God, and God warns them to fear his Son, who will rule them with an iron scepter.
 - {{% bible val="Isa.11/4" link="isa:11,4" lang="en" %}} describes the coming Messiah, who will strike the earth with the rod of his mouth.
-- In {{% bible val="Rev.2/27" link="rev:2,27" lang="en" %}}, Jesus refers to himself as the one who rules with an iron scepter.
+- In {{% bible val="Rev.19/15" link="rev:19,15" lang="en" %}}, Jesus himself — the rider called Faithful and True — is the one who rules the nations with an iron scepter.
 
 These references make it pretty clear that the child is Jesus and this is the story of his birth. But who, then, is the strange woman clothed with sun, moon, and twelve stars? There are three candidates for who gave birth to Jesus:
-- Mary, of course, as {{% bible val="she gave birth to Jesus" link="mat:1,18-24" lang="en" %}}.
+- Mary, of course, as {{% bible val="she gave birth to Jesus" link="mat:1,18-25" lang="en" %}}.
 - Eve, who was promised that {{% bible val="her offspring would destroy the serpent" link="gen:3,15" lang="en" %}}.
-- Israel, who was promised to {{% bible val="give birth to the Messiah" link="isa:66,7" lang="en" %}}.
+- Israel: Micah pictures {{% bible val="a woman in labor bearing the promised ruler from Bethlehem" link="mic:5,2-3" lang="en" %}}, and Isaiah pictures {{% bible val="Zion suddenly bringing forth a son — a whole nation reborn in a day" link="isa:66,7" lang="en" %}}.
 
 So which one is the story actually talking about? Mary would seem the obvious choice, but nowhere in the Bible is there a connection between Mary and the sun, moon, and stars — quite the opposite: it's Church tradition, not Scripture, that later associated Mary with the sun, moon, and stars, based on the assumption that this woman must be Mary. For Eve, one could argue a connection, since Adam and Eve are mentioned alongside the sun, moon, and stars in the creation account of Genesis 1 — but that leaves open why our story here specifies twelve stars.
 
@@ -59,7 +59,7 @@ The best match is Israel. Israel isn't obviously a "woman" at first sight, but t
 
 ## Finally, the story
 
-So what is the story of Rev.12/1–5? Israel, the woman, was promised to give birth to the Messiah, the child — a promise that came due at a time when Israel was under heavy pressure, controlled and oppressed by Rome. Many rebellions against Rome rose up in those years, and all of them were subdued.
+So what is the story of Rev.12/1–5? Israel, the woman, was promised to give birth to the Messiah, the child — a promise that came due at a time when Israel was under heavy pressure, controlled and oppressed by Rome. Several local uprisings against Rome flared up in the decades around Jesus's birth, and all of them were put down.
 
 It was into this pressure that Jesus was born, and he was rescued from imminent danger when {{% bible val="king Herod was about to kill him" link="mat:2" lang="en" %}}. As Jesus began his ministry, the {{% bible val="devil tried to tempt him" link="mat:4,1-11" lang="en" %}} — and that attempt failed too. Jesus succeeds in spite of opposition of every kind, even dying on the cross, and is finally raised from death and ascended to heaven (Rev.12/5 skips straight over everything between Jesus' birth and his ascension).
 
@@ -67,4 +67,4 @@ This is the Christmas story we already know from the New Testament, and it's a s
 
 ## The pattern: overcoming through weakness
 
-Revelation never explains exactly how Jesus overcame, but this tension — between the one who looks helpless and the one who actually overcomes — runs throughout the rest of the book. The only two churches that get no complaint at all from Jesus in Revelation 2–3 are Smyrna and Philadelphia, both of which are in serious trouble given their circumstances, while Laodicea, the church with the most confidence in itself, doesn't get a single point of praise from him. The same pattern shows up in {{% bible val="the lion who turns out to be the lamb" link="rev:5,5-6" lang="en" %}}, and again in {{% bible val="the two witnesses, who seem to be defeated but are actually overcome with glory" link="rev:11,7-12" lang="en" %}} — set against the dragon and the beast of Revelation 13, who seem to hold absolute control, yet {{% bible val="will go into disaster, taking with them everyone who trusted in them" link="rev:14,6-13" lang="en" %}}.
+Revelation never explains exactly how Jesus overcame, but this tension — between the one who looks helpless and the one who actually overcomes — runs throughout the rest of the book. The only two churches that get no complaint at all from Jesus in Revelation 2–3 are Smyrna and Philadelphia, both of which are in serious trouble given their circumstances, while Laodicea, the church with the most confidence in itself, doesn't get a single point of praise from him. The same pattern shows up in {{% bible val="the lion who turns out to be the lamb" link="rev:5,5-6" lang="en" %}}, and again in {{% bible val="the two witnesses, who seem to be defeated but are actually raised to glory" link="rev:11,7-12" lang="en" %}} — set against the dragon and the beast of Revelation 13, who seem to hold absolute control, yet {{% bible val="whose worshippers are warned of the disaster awaiting everyone who trusted in them" link="rev:14,6-13" lang="en" %}}.

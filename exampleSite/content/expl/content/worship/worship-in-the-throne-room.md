@@ -119,7 +119,7 @@ These parallels give the Church a vision of their own spiritual reality, and a m
 <tr>
     <td>Books are opened</td>
     <td>{{% bible val="Daniel" link="dan:7,10" lang="en" %}}</td>
-    <td>{{% bible val="Revelation" link="rev:5,9" lang="en" %}}</td>
+    <td>{{% bible val="Revelation (the Lamb is declared worthy to open them; the opening itself begins at 6:1)" link="rev:5,9" lang="en" %}}</td>
 </tr>
 <tr>
     <td>Divine (messianic) figure approaches throne to receive authority</td>
@@ -154,7 +154,7 @@ These parallels give the Church a vision of their own spiritual reality, and a m
 </tbody>
 </table>
 
-Although the parallels are extensive, you can easily see that the order of events differs between the two passages.
+Although the parallels are extensive, you can easily see that the order of events differs between the two passages. (The saints' shared reign, promised here already, is often connected to the thousand-year reign of Revelation 20 — how the two relate is a separate, debated question; see {{% int_link val="premillennialism, postmillennialism, and amillennialism compared" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
 
 This scene also recalls the image of the angelic council, as in
 
@@ -181,14 +181,14 @@ For all of them, worship is the answer:
 ## The throne room
 
 <a name="2a89"></a>
-John's first impression is the glory of God — so potent that it's impossible to see God directly. {{% bible val="When Moses asked to see God's glory, he could not, but instead God showed him his mercy. Thus God's glory can be described as his mercy" link="exo:33,18-20" lang="en" %}}. So we should read the judgments that follow from the viewpoint of mercy.
+John's first impression is the glory of God — so potent that it's impossible to see God directly. {{% bible val="When Moses asked to see God's glory, he could not — but God let his goodness pass by and proclaimed his name: merciful and gracious, yet one who will not leave the guilty unpunished. God's glory holds mercy and justice together" link="exo:33,18-20" lang="en" %}}. So we should read the judgments that follow from the viewpoint of this same glory: real mercy, held together with real justice.
 
-The second detail worth noting is the {{% bible val="rainbow" link="rev:4,3" lang="en" %}}. {{% bible val="This is a reminder of the covenant with Noah, where God created a rainbow as his promise never to flood the earth again and to maintain the seasons. There are no demands on Noah in this covenant" link="gen:9,8-11" lang="en" %}}. This detail casts its own light on the nature of the plagues that come out of the throne room: there are judgments, but they are limited.
+The second detail worth noting is the {{% bible val="rainbow" link="rev:4,3" lang="en" %}}. {{% bible val="This is a reminder of the covenant with Noah: God promises never again to destroy all life by flood, sealed with the rainbow — following his earlier pledge that seedtime and harvest, cold and heat, would never cease. There are no demands placed on Noah in the flood covenant itself" link="gen:9,8-11" lang="en" %}}. This detail casts its own light on the nature of the plagues that come out of the throne room: there are judgments, but they are limited.
 
 The last detail is the {{% bible val="sea of glass" link="rev:4,6" lang="en" %}}, which carries three associations:
 - {{% bible val="God's glory in heaven" link="ezk:1,22" lang="en" %}} and {{% bible val="on earth during the Exodus" link="exo:24,10" lang="en" %}},
 - {{% bible val="Israel's crossing of the Red Sea during the Exodus" link="exo:15,8" lang="en" %}},
-- the {{% bible val="bronze sea in Solomon's temple" link="2ki:25,13" lang="en" %}}.
+- the bronze sea in Solomon's temple ({{% bible val="its construction" link="1ki:7,23-26" lang="en" %}}).
 
 The sea is also the {{% bible val="place of evil" link="psa:74,10-17" lang="en" %}} and is linked with {{% bible val="evil people" link="isa:57,20" lang="en" %}} — so the sea of glass is a picture of congealed evil.
 
@@ -205,10 +205,12 @@ Looking ahead at the coming events, we see that:
 
 In the ancient world, the temple — itself a reflection of the heavenly throne room — represented the whole world. God is at the center, and everything around him finds its place in relation to him.
 
-Creation itself is represented by {{% bible val="the four creatures" link="rev:4,7" lang="en" %}} already described by {{% bible val="Ezekiel" link="ezk:1,5-21" lang="en" %}}:
+Creation is one traditional reading of {{% bible val="the four creatures" link="rev:4,7" lang="en" %}}, already described by {{% bible val="Ezekiel" link="ezk:1,5-21" lang="en" %}}:
 - the lion, ruler of the land animals,
 - the ox, strongest of the domesticated animals,
 - the man, ruler of creation,
 - the eagle, ruler of the air.
 
-They are joined by the {{% bible val="24 elders" link="rev:4,4" lang="en" %}}, echoing the {{% bible val="24 divisions of priests" link="1ch:24,3-19" lang="en" %}}, the {{% bible val="24 Levitical gatekeepers" link="1ch:26,17-19" lang="en" %}}, and the {{% bible val="24 permanent worshipers" link="1ch:25" lang="en" %}} that David established — but also evoking the 12 tribes of Israel and the 12 apostles as the foundation of the Church. Israel and the Church, in other words, should be seen as one entity despite all their conflicts. The Church, at its core, is defined as a church of worship.
+But Ezekiel's own parallel vision explicitly names this class of being as cherubim (Ezek 10:20) — the highest order of angelic throne-attendants. Both readings have real support: the four creatures may represent all created life gathered in worship, or they may be the cherubic beings who lead that worship, or both together.
+
+They are joined by the {{% bible val="24 elders" link="rev:4,4" lang="en" %}}, echoing the {{% bible val="24 divisions of priests" link="1ch:24,3-19" lang="en" %}}, the {{% bible val="24 Levitical gatekeepers" link="1ch:26,17-19" lang="en" %}}, and the {{% bible val="24 permanent worshipers" link="1ch:25" lang="en" %}} that David established — but also evoking the 12 tribes of Israel and the 12 apostles as the foundation of the Church. (Some interpreters instead take the elders as members of the heavenly council — an angelic order rather than redeemed humans; the identification is debated. But the priestly and Davidic-worship echoes make the representative-of-God's-people reading the more natural fit here.) Israel and the Church, in other words, should be seen as one entity despite all their conflicts. The Church, at its core, is defined as a church of worship.

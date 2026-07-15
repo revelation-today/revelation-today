@@ -35,7 +35,7 @@ Let's first look at the Bible text:
 ## Interpretations
 
 <a name="1fbb"></a>
-There are two main interpretations, and both have their merits:
+There are two main interpretations, and both have their merits — and both still find serious defenders among today's commentators:
 
 - The first rider embodies a good character — reflecting, for instance, {{% bible val="this represents him preaching all over the world" link="mrk:13,10" lang="en" %}}.
 - The first rider embodies an evil character, like the other riders.
@@ -45,9 +45,9 @@ There are two main interpretations, and both have their merits:
 <a name="0edc"></a>
 Looking closely at the text, three strong parallels stand out.
 
-First, a text in the prophet Zechariah describes {{% bible val="four horses of different colors inspecting the earth" link="zec:1,8-15" lang="en" %}}. A few chapters later, {{% bible val="four chariots of different colors reflect the winds of the earth" link="zec:6,1-8" lang="en" %}}. And the description of the {{% bible val="four plagues of God" link="ezk:14,12-23" lang="en" %}} — sword, famine, wild beasts, and pestilence — closely resembles the activities of these four horses.
+First, a text in the prophet Zechariah describes {{% bible val="several horses of different colors patrolling the earth" link="zec:1,8-15" lang="en" %}}. A few chapters later, {{% bible val="four chariots of different colors reflect the winds of the earth" link="zec:6,1-8" lang="en" %}}. And the description of the {{% bible val="four plagues of God" link="ezk:14,12-23" lang="en" %}} — sword, famine, wild beasts, and pestilence — closely resembles the activities of these four horses; note that the most direct echo is actually the fourth horseman alone, who in Rev 6:8 is given power to kill "by sword, famine and plague, and by the wild beasts" — nearly all four Ezekiel judgments in a single verse.
 
-Looking at the horsemen themselves, we see both similarities and differences between them. All four are called to act; none of them act on their own. Each rider is given some item to act with. Yet only the first horseman is explicitly told to perform his task — to ride out and conquer — while no such instruction is given for how the others carry out theirs. The activity of the first rider stays vague ("conquer"), while for the others it is spelled out clearly: bring war, hunger, and death.
+Looking at the horsemen themselves, we see both similarities and differences between them. All four are called to act; none of them act on their own. Each rider is given some item to act with. Yet the first horseman is uniquely marked out by a doubled verb in the Greek — he "rides out conquering, and in order that he might conquer" — an emphatic construction not used for the others. The activity of the first rider stays vague ("conquer"), while for the others it is spelled out clearly: bring war, hunger, and death.
 
 The third rider is different again: he lacks the clause "and it was given." Instead, he simply holds the instrument in his hands, which stands for a divine activity or authorization in its own right, and a statement is issued from the throne, from the midst of the four living creatures, rather than being handed to him directly.
 
@@ -58,7 +58,7 @@ The third rider is different again: he lacks the clause "and it was given." Inst
 
 To understand this, we need a little background.
 
-Food was often rationed — whether because of a coming famine, an actual famine already underway, or a prophetic warning of one. For reference: one measure of wheat was enough to feed one person for one day, and three measures of barley (used as animal feed) were enough to last a family three days. Based on that, we can see that prices have risen to 8–16 times the normal price.
+Food was often rationed — whether because of a coming famine, an actual famine already underway, or a prophetic warning of one. For reference: one measure of wheat was enough to feed one person for one day, and three measures of barley (cheaper, and normally used as animal feed) were enough to feed a small family for one day. A full day's wages would normally buy far more grain than this — so prices have risen to roughly 8–16 times the normal price.
 
 In the context of Revelation, wine and oil function as luxury goods here — they bear no relation in this book to anointing or to the Lord's Supper.
 
@@ -71,35 +71,35 @@ So this passage isn't describing a general famine, but rather an unfair threat a
 
 There are some reasonable arguments for reading this horseman as good:
 
-- In the {{% bible val="Psalms, there is a description of an Israelite king conquering his enemies with a bow" link="psa:45,5-6" lang="en" %}}, which is {{% bible val="interpreted as a messianic reference to Jesus" link="heb:1,8" lang="en" %}}.
-- There are clear references to the {{% bible val="one who looks like the Son of Man on a white cloud with a sickle to harvest the earth" link="rev:14,14" lang="en" %}}, and to the {{% bible val="victorious rider on a white horse with a crown on his head" link="rev:19,11" lang="en" %}}. Both point to Jesus, or at least to an angel of God.
+- In the {{% bible val="Psalms, there is a description of an Israelite king conquering his enemies with arrows" link="psa:45,5-6" lang="en" %}}, which is {{% bible val="interpreted as a messianic reference to Jesus" link="heb:1,8" lang="en" %}}.
+- There are references to the {{% bible val="one who looks like the Son of Man on a white cloud with a sickle to harvest the earth" link="rev:14,14" lang="en" %}}, and to the {{% bible val="victorious rider on a white horse with a crown on his head" link="rev:19,11-12" lang="en" %}}. Both point to Jesus, or at least to an angel of God — though it's worth noting the "crown" in Rev 19:12 is a *diadem* (royal crown, plural), a different Greek word from the single victor's "wreath" (*stephanos*) given the first horseman in Rev 6:2, which weakens the parallel somewhat.
 - The term "conquest" could refer to Jesus, since he is the conqueror in other passages of the book too.
 - He rides a white horse, and white is a positive symbol elsewhere in the book.
 - He does nothing negative himself — he simply conquers, as the saints do — while it's the others who bring something destructive, so this could {{% bible val="refer to the proclaiming of the gospel before all the bad things happen" link="mrk:13,10" lang="en" %}}.
 
 On the other hand, there are indications pointing to the exact opposite:
 
-- God will {{% bible val="strike the bow out of the hands of Gog and Magog" link="ezk:39,3" lang="en" %}}, identifying the bow as the weapon of the end-time enemy.
-- Jesus is not the only one with a crown: {{% bible val="the demonic forces coming out of the earth also have crowns" link="rev:9,7" lang="en" %}}.
-- The theme of conquering is used elsewhere to {{% bible val="refer to the beast" link="rev:13,7" lang="en" %}} {{% bible val="conquering the saints" link="rev:11,7" lang="en" %}}.
-- Just as the four horses and chariots in Zechariah form a single unit, the four horses in Revelation must likewise form a unity — either all belong to God, or none do.
-- And it isn't only the four horsemen that form a unit: the first four trumpets and the first four bowls do as well. So the first four horsemen should be read as a unit too.
+- God will {{% bible val="strike the bow out of the hands of Gog" link="ezk:39,3" lang="en" %}}, identifying the bow as the weapon of the end-time enemy.
+- Jesus is not the only one with a crown: {{% bible val="the demonic locusts from the Abyss also wear something like crowns" link="rev:9,7" lang="en" %}}.
+- The theme of conquering is used elsewhere to {{% bible val="refer to the beast" link="rev:13,7" lang="en" %}} {{% bible val="overpowering the two witnesses" link="rev:11,7" lang="en" %}}.
+- Just as the four horses and chariots in Zechariah likely form a single unit, the four horses in Revelation likely form a unity of some kind too — though note that in Zechariah the horses are God's own patrol agents reporting back to him, so this parallel alone doesn't settle whether the horsemen are evil or simply agents carrying out God's judgment; the case for "evil" has to rest on other evidence.
+- Some interpreters also see the first four trumpets and first four bowls as forming similar units, which would support reading the first four horsemen the same way — though this observation is suggestive rather than decisive on its own.
 
 This is confusing — why are there references pointing to both a good and an evil meaning? Let's look at the last two pieces of evidence more closely:
 
-- The first use of a bow in the Bible comes from the {{% bible val="story of Jacob and his deception of his father to get the blessing" link="gen:27" lang="en" %}}.
+- A bow is first used *as a weapon* in the Bible in the {{% bible val="story of Jacob's deception of his father, when Esau is sent to hunt with his bow" link="gen:27" lang="en" %}} — though the very first mention of a bow at all, the rainbow of Genesis 9:13, is a positive covenant sign, so this observation should be weighed as suggestive rather than decisive.
 - The three speeches Jesus gives about the end times, in {{% bible val="Mark" link="mrk:13,5-9" lang="en" %}}, {{% bible val="Matthew" link="mat:24,4-8" lang="en" %}}, and {{% bible val="Luke" link="luk:21,8-11" lang="en" %}}, follow the same order found in Revelation: all three open with something like "Beware that you are not deceived, because many will come in my name." War always comes second, then famine, and in Luke this is followed by "pestilence" as well.
 
 ## The resolution
 
 <a name="6235"></a>
-It becomes clear that the first horseman is evil but pretends to be good — to be like Jesus. That also makes sense in light of the context: {{% bible val="the previous chapter Jesus was revealed as the only one worthy of opening the scroll" link="rev:5" lang="en" %}}, and now the devil's true nature is revealed in response — moving from a great promise (to conquer), to war (persecution of non-believers), to hunger and injustice (the third horseman), to finally death and destruction. That is why the very next seal describes the cry of the righteous: "{{% bible val="How long this will go on?" link="rev:6,9-11" lang="en" %}}" The evil nature of all four horsemen is now clear.
+It becomes clear that the first horseman is evil but pretends to be good — to be like Jesus. That also makes sense in light of the context: {{% bible val="the previous chapter Jesus was revealed as the only one worthy of opening the scroll" link="rev:5" lang="en" %}}, and now the devil's true nature is revealed in response — moving from a great promise (to conquer), to war (persecution of non-believers), to hunger and injustice (the third horseman), to finally death and destruction. That is why the very next seal describes the cry of the righteous: "{{% bible val="How long this will go on?" link="rev:6,9-11" lang="en" %}}" The evil nature of all four horsemen is now clear — though it's worth noting that respected commentators today (e.g., Osborne, Mounce) still favor the positive reading of the first rider; the case made here is a considered position, not the only credible one.
 
-And now the reference to {{% bible val="God's plagues" link="ezk:14,12-23" lang="en" %}} — wild beasts, sword, famine, and pestilence — also makes sense. We can map them as follows:
+And now the reference to {{% bible val="God's plagues" link="ezk:14,12-23" lang="en" %}} — wild beasts, sword, famine, and pestilence — also makes sense. Beyond the direct echo already noted in the fourth horseman's own description (Rev 6:8), we can also map each rider suggestively as follows:
 
 - The first horseman represents the wild beasts, since he {{% int_link val="calls the two beasts" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} in {{% bible val="chapter 13" link="rev:13" lang="en" %}} and embodies {{% bible val="deception" link="2co:11,14" lang="en" %}} — he makes many promises.
 - The second horseman represents the sword given to him — he attacks anyone who doesn't buy into those promises, just like the first beast in chapter 13.
-- The third horseman represents hunger, because the poor will suffer under him. This can also be seen as economic pressure on nonconformists, impoverishing them — the same role played by the second beast in chapter 13, which itself connects to the harlot in {{% bible val="chapter 17" link="rev:17" lang="en" %}}.
+- The third horseman represents hunger, because the poor will suffer under him. This can also be seen as economic pressure on nonconformists, impoverishing them — plausibly (though not certainly) echoed by the second beast of chapter 13, itself tied by many interpreters to the harlot of {{% bible val="chapter 17" link="rev:17" lang="en" %}} in Revelation's broader symbolic pattern.
 - The last horseman sums up the effect of this evil trinity.
 
 Remember this: no matter how attractive the devil's offer may look, and no matter how much it may resemble something from Jesus, don't go for it — it will end in disaster. Be wise instead, and God will give you the wisdom you need.

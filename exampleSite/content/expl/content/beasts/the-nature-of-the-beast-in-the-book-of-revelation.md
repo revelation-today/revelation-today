@@ -37,14 +37,14 @@ Then the dragon became furious with the woman and went off to make war on the re
 <a name="a878"></a>
 The previous verses describe the dragon's attack on the child (Jesus) and his mother. He fails completely both times, so now he assembles two more beasts, described here in detail — and the description isn't invented out of nowhere. It draws on a handful of Old Testament passages that first readers would have recognized immediately.
 
-- The first reference goes back to the book of {{% bible val="Job 40/15–41/37" link="job:40,15" lang="en" %}}, a long passage describing Behemoth and Leviathan, two beasts from the sea and from the land — just as the beasts in Rev.13 also come from the sea and from the land. They are invincible to man, but not to God ({{% bible val="Isa.27/1" link="isa:27" lang="en" %}}); {{% bible val="Ps.104" link="psa:104,26" lang="en" %}} even gives the impression that Leviathan is no more than a toy compared to God.
-- A similar hint appears in {{% bible val="Rev.10/3" link="rev:10,3" lang="en" %}}, where the angel plants his foot on land and sea, claiming ownership of both.
-- The first beast takes its description from {{% bible val="Dan.7" link="dan:7" lang="en" %}}, which describes four beasts: the first like a lion, the second like a bear, the third like a leopard. Together they have seven heads (each has one, except the third, which has four), and the fourth beast has ten crowns, {{% bible val="which are ten kings" link="dan:7,24" lang="en" %}} — a detail that even connects Dan.7 with the harlot's beast in {{% bible val="Rev.17" link="rev:17,12" lang="en" %}}. So what's the point of reaching back to Dan.7? Read that chapter to the end, and you'll see: its whole point is to show that the beast is defeated.
-- The next major parallel is {{% bible val="Dan.3" link="dan:3" lang="en" %}}, the well-known story of Daniel's friends in the fiery furnace. This describes the situation of the second beast: a statue to be worshiped, people punished by fire if they refuse, and even a 666 in {{% bible val="Dan.3" link="dan:3,1" lang="en" %}}, in the measurements of the statue. The story ends with Daniel's friends saved and {{% bible val="the king acknowledging and praising God, then promoting the friends" link="dan:3,28-30" lang="en" %}}.
+- The first reference goes back to the book of {{% bible val="Job 40/15–41/34" link="job:40,15" lang="en" %}}, a long passage describing Behemoth and Leviathan, two beasts from the sea and from the land — just as the beasts in Rev.13 also come from the sea and from the land. They are invincible to man, but not to God ({{% bible val="Isa.27/1" link="isa:27" lang="en" %}}); {{% bible val="Ps.104" link="psa:104,26" lang="en" %}} can even be read as suggesting that Leviathan is no more than a toy compared to God, though the Hebrew is ambiguous and most translations take Leviathan itself, not God, as the one "playing."
+- A similar hint appears in {{% bible val="Rev.10/2" link="rev:10,2" lang="en" %}}, where the angel plants his foot on land and sea, claiming ownership of both.
+- The first beast takes its description from {{% bible val="Dan.7" link="dan:7" lang="en" %}}, which describes four beasts: the first like a lion, the second like a bear, the third like a leopard. Together they have seven heads (only the third beast's four heads are stated explicitly, in {{% bible val="Dan.7/6" link="dan:7,6" lang="en" %}}; the other three are assumed to have one each), and the fourth beast has ten horns, {{% bible val="which are ten kings" link="dan:7,24" lang="en" %}} — a detail that even connects Dan.7 with the harlot's beast in {{% bible val="Rev.17" link="rev:17,12" lang="en" %}}. So what's the point of reaching back to Dan.7? Read that chapter to the end, and you'll see: its whole point is to show that the beast is defeated.
+- The next major parallel is {{% bible val="Dan.3" link="dan:3" lang="en" %}}, the well-known story of Daniel's friends in the fiery furnace. This describes the situation of the second beast: a statue to be worshiped, people punished by fire if they refuse, and even an echo of six in {{% bible val="Dan.3" link="dan:3,1" lang="en" %}}, where the statue measures 60 cubits by 6 cubits and the lists of officials and instruments who must bow to it are repeated in sets of six. The story ends with Daniel's friends saved and {{% bible val="the king acknowledging and praising God, then promoting the friends" link="dan:3,28-30" lang="en" %}}.
 
 At first glance, this chapter gives the impression of the dragon and his beasts as unbeatable rulers and oppressors. But look at how each of these Old Testament sources ends, and the evidence screams "loser" the moment they face God and his people.
 
-That said, the first beast's appearance doesn't map onto any single one of the {{% bible val="four kingdoms in Daniel" link="dan:7,1-8" lang="en" %}} — it borrows features from all of them at once, as the table below shows.
+That said, the first beast's appearance doesn't map onto any single one of the {{% bible val="four kingdoms in Daniel" link="dan:7,17" lang="en" %}} — it borrows features from all of them at once, as the table below shows.
 
 <p>The first beast and the beasts in Daniel</p>.
 
@@ -68,12 +68,12 @@ Let's take a closer look at these two beasts. They act together and support each
 | Topic | First animal | Second animal |
 |-------|--------------|---------------|
 | origin | {{% bible val="From the sea" link="rev:13,1" lang="en" %}} | {{% bible val="From the Earth" link="rev:13,11" lang="en" %}} |
-| Identity (with Daniel) | {{% bible val="Animal with seven horns" link="rev:13,1" lang="en" %}} -> continuation and power of the realms | {{% bible val="Animal with two horns like lamb/son of man" link="rev:13,11" lang="en" %}} |
+| Identity (with Daniel) | {{% bible val="Animal with seven heads" link="rev:13,1" lang="en" %}} -> continuation and power of the realms | {{% bible val="Animal with two horns like lamb/son of man" link="rev:13,11" lang="en" %}} |
 | power | {{% bible val="Dragon gives power and throne" link="rev:13,2" lang="en" %}} | {{% bible val="Rules in power of the first beast" link="rev:13,12" lang="en" %}} |
 | Signs and worship | {{% bible val="Deadly wound is healed" link="rev:13,3" lang="en" %}} </br> {{% bible val="The whole earth is amazed" link="rev:13,3" lang="en" %}}
 {{% bible val="Worship dragon who gave power" link="rev:13,4" lang="en" %}} to beast  | {{% bible val="Forces all to worship the first beast whose wound was healed" link="rev:13,12" lang="en" %}}. </br> {{% bible val="Does great signs, makes fire fall from heaven, deceives by signs" link="rev:13,13-14" lang="en" %}} </br> {{% bible val="Gets power of the first beast" link="rev:13,14" lang="en" %}}. |
 | Bragging | {{% bible val="Who is like the beast(strong like it)" link="rev:13,4" lang="en" %}} </br> {{% bible val="great blasphemies against God and His people" link="rev:13,5-6" lang="en" %}}. | {{% bible val="Power image of the beast" link="rev:13,14" lang="en" %}} (man is made in the image of God -&gt; man is representative of God)</br> {{% bible val="Can give life so animal can speak" link="rev:13,14-15" lang="en" %}} but only God can give life.  |
-| Overcome saints | {{% bible val="Fight saints and defeat them" link="rev:13,7" lang="en" %}}. </br> {{% bible val="Has power over tribes, languages, and nations" link="rev:13,7" lang="en" %}} </br> {{% bible val="All on earth worship the beast who are not written in the book of life" link="rev:13,8" lang="en" %}}.| {{% bible val="Kill all who do not worship image" link="rev:13,15" lang="en" %}}.</br> {{% bible val="Make signs to all " link="rev:13,16" lang="en" %}} </br> {{% bible val="No one can buy or sell, unless they have the mark of the beast" link="rev:13,17" lang="en" %}}. |
+| Overcome saints | {{% bible val="Fight saints and defeat them" link="rev:13,7" lang="en" %}}. </br> {{% bible val="Has power over tribes, languages, and nations" link="rev:13,7" lang="en" %}} </br> {{% bible val="All on earth worship the beast who are not written in the book of life" link="rev:13,8" lang="en" %}}.| {{% bible val="Kill all who do not worship image" link="rev:13,15" lang="en" %}}.</br> {{% bible val="Make marks to all " link="rev:13,16" lang="en" %}} </br> {{% bible val="No one can buy or sell, unless they have the mark of the beast" link="rev:13,17" lang="en" %}}. |
 | caution | {{% bible val="If anyone has ears, listen!" link="rev:13,9" lang="en" %}} </br> {{% bible val="Here is patience and faith of the saints" link="rev:13,10" lang="en" %}}. | {{% bible val="Here is wisdom" link="rev:13,18" lang="en" %}}</br> {{% bible val="If anyone has understanding: Count" link="rev:13,18" lang="en" %}} |
 
 There's another interesting chiasmus hidden in that last row. "Here is ... patience and faith" pairs with "he who has ears, let him hear," and "here is wisdom" pairs with "if anyone has understanding, let him calculate" — which sets up an equivalence: hearing (which in Hebrew thought means obeying) is to patience and faith what understanding is to wisdom. In other words, knowledge is only the first step; it's meant to lead to action.
@@ -86,13 +86,13 @@ He does this in two ways:
 Start with a few observations that point that way:
 
 - The dragon and the two beasts are three, like the Holy Trinity.
-- The {{% bible val="dragon gives all authority to the first beast" link="rev:13,2" lang="en" %}}, just as {{% bible val="God gives all authority to Jesus" link="php:2,9-11" lang="en" %}}.
+- The {{% bible val="dragon gives all authority to the first beast" link="rev:13,2" lang="en" %}}, just as {{% bible val="God gives Jesus all authority in heaven and on earth" link="mat:28,18" lang="en" %}}.
 - The {{% bible val="first beast appears to be killed and resurrected from the death" link="rev:13,3" lang="en" %}}, just as Jesus died and was resurrected.
-- {{% bible val="Every knee bows to the first beast" link="rev:13,7" lang="en" %}} as {{% bible val="it does to Jesus" link="php:2,10" lang="en" %}}.
+- {{% bible val="All who dwell on earth worship the first beast" link="rev:13,8" lang="en" %}} as {{% bible val="every knee will one day bow to Jesus" link="php:2,10" lang="en" %}}.
 - {{% bible val="Everyone worships the first beast" link="rev:13,8" lang="en" %}} as {{% bible val="they should worship Jesus" link="rev:5,8-14" lang="en" %}}.
 - The {{% bible val=" second beast has two horns" link="rev:13,11" lang="en" %}} like a {{% bible val="lamb" link="rev:5,6" lang="en" %}}.
 - The {{% bible val="second beast speaks with the authority of the first beast" link="rev:13,12" lang="en" %}}, just as the {{% bible val="Holy Spirit speaks with the authority of Jesus" link="jhn:16,13" lang="en" %}}.
-- {{% bible val="It can make fire fall down from heaven in front of all the people" link="rev:13,13" lang="en" %}} as a reminder of {{% bible val="Elijah’s sign of the true God" link="1ki:18,24" lang="en" %}}.
+- {{% bible val="It can make fire fall down from heaven in front of all the people" link="rev:13,13" lang="en" %}} as a reminder of {{% bible val="Elijah’s sign of the true God" link="1ki:18,38" lang="en" %}}.
 - {{% bible val="It can make a statue come alive" link="rev:13,15" lang="en" %}}, {{% bible val="showing that it is more than an idol" link="psa:115,4-8" lang="en" %}} and recalling the {{% bible val="work of the Spirit in Ezekiel" link="ezk:37" lang="en" %}}.
 
 Put together, it becomes clear that Satan forms an evil trinity:
@@ -104,12 +104,12 @@ Put together, it becomes clear that Satan forms an evil trinity:
 | The dragon and the two beasts | Father, Son and Holy Spirit |
 |-------------------------------|-----------------------------|
 | {{% bible val="Represents kingdoms of this world" link="rev:13,1" lang="en" %}} | {{% bible val="Jesus' kingdom is not of this world" link="jhn:18,36" lang="en" %}} |
-| [His resurrections creates fear ("Who can fight with him?")](https://www.bibleserver.com/NIV/Revelation13%2C3) | {{% bible val="Nobody has more love as the one that gives his live for his friends." link="jhn:15,13" lang="en" %}} |
+| {{% bible val="His resurrection creates fear (Who can fight with him?)" link="rev:13,3-4" lang="en" %}} | {{% bible val="Nobody has more love than the one that gives his life for his friends." link="jhn:15,13" lang="en" %}} |
 | {{% bible val="One of his heads is deadly wounded." link="rev:13,3" lang="en" %}} | Jesus died fully and resurrected |
 | {{% bible val="Has power only for 42 months" link="rev:13,5" lang="en" %}} | {{% bible val="Jesus rules in eternity" link="rev:1,18" lang="en" %}} ({{% bible val="Hebr.6/20" link="heb:6,20" lang="en" %}}) |
-| {{% bible val="Second beast speaks like a dragon" link="rev:13,11" lang="en" %}} | |
-| {{% bible val="Does great things in front of people" link="rev:13,13-14" lang="en" %}} | {{% bible val="Jesus acts often in the hidden" link="mat:4,5-7" lang="en" %}} ({{% bible val="Mt.9/30" link="mat:9,30" lang="en" %}}, {{% bible val="Mk.5/43" link="mrk:5,43" lang="en" %}}) |
-| {{% bible val="Kills all that not worship him" link="rev:13,15" lang="en" %}} | {{% bible val="Holy Spirit can be afflicted" link="eph:4,30" lang="en" %}} and {{% bible val="does not force" link="2co:3,17" lang="en" %}} |
+| {{% bible val="Second beast speaks like a dragon" link="rev:13,11" lang="en" %}} | {{% bible val="The Holy Spirit does not speak on his own authority" link="jhn:16,13" lang="en" %}} |
+| {{% bible val="Does great things in front of people" link="rev:13,13-14" lang="en" %}} | {{% bible val="Jesus acts often in the hidden" link="mat:9,30" lang="en" %}} ({{% bible val="Mk.5/43" link="mrk:5,43" lang="en" %}}) |
+| {{% bible val="Kills all that not worship him" link="rev:13,15" lang="en" %}} | {{% bible val="Holy Spirit can be grieved" link="eph:4,30" lang="en" %}} and {{% bible val="does not force" link="2co:3,17" lang="en" %}} |
 
 ## The dark side
 
@@ -117,10 +117,9 @@ Put together, it becomes clear that Satan forms an evil trinity:
 Your first reaction might be that this is just evil. But on second thought, some of it might look appealing:
 
 - People are {{% bible val="astonished when they see the strength of the beast" link="rev:13,4" lang="en" %}} — and don't we sometimes wish that people wouldn't think {{% bible val="our faith is silly" link="1co:1,22-23" lang="en" %}}, or that our prayers were visibly that powerful?
-- The beast gets a {{% bible val="worldwide spread of the gospel" link="rev:13,8" lang="en" %}} that people simply accept — wouldn't that be a relief if you're tired of inviting people to God only to get rejected?
+- The beast gets {{% bible val="the whole world to worship it without resistance" link="rev:13,8" lang="en" %}} — wouldn't that be a relief if you're tired of inviting people to God only to get rejected?
 - Or do you want to {{% bible val="see more signs and wonders" link="rev:13,14" lang="en" %}} because you're beginning to doubt that God is really there?
-- Or are you {{% bible val="looking for healing for loved ones" link="rev:13,15" lang="en" %}} that no prayer has brought?
-- Or do you want a {{% bible val="God who destroys his enemies and evildoers" link="rev:13,15" lang="en" %}} outright — an answer to the question of why a good God doesn't just stop evil?
+- Or do you want a {{% bible val="God who forces submission and destroys resistance outright" link="rev:13,15" lang="en" %}} — an answer to the question of why a good God doesn't just stop evil?
 - Or do you want {{% bible val="all people to submit to our value system" link="rev:13,16-17" lang="en" %}}?
 
 This counterfeit trinity offers all the things we may long for from time to time. But something about it is deeply wrong.
