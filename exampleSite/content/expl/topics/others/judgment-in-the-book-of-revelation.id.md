@@ -1,7 +1,7 @@
 ---
 title: "Penghakiman dalam Kitab Wahyu"
 themes: ["Penghakiman"]
-weight: 5
+weight: 7
 prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /welcome/done
 docType: expl

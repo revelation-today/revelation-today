@@ -37,6 +37,12 @@ Bu çok yoğun ve faydalı bir referans. Okuması oldukça kolay ve içgörüler
 
 Üç farklı ilahiyatçının kendi milenyum görüşünü — premilenyalist, postmilenyalist ve amilenyalist — savunduğu ve birbirine doğrudan yanıt verdiği tek bir cilt. Her argümanın en güçlü halini, dışarıdan bir özetleyici yerine o görüşü gerçekten savunan biri tarafından anlatılmış şekilde görmek için faydalı.
 
+<a name="rapture_views"></a>
+
+### The Rapture: Pre-, Mid-, or Post-Tribulational?
+
+Yukarıdakine eşlik eden bir cilt; bu kez göğe alınmanın zamanlaması tartışması için: Yazarların her biri pretribülasyonist, midtribülasyonist ve posttribülasyonist konumları savunuyor ve birbirine doğrudan yanıt veriyor. Aynı nedenle faydalı — her görüşü, onu gerçekten savunan biri ağzından duymak için.
+
 <a name="aune_rev"></a>
 
 ### David Aune: Revelation

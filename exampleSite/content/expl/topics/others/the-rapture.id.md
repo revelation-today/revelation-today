@@ -3,7 +3,7 @@ title: "Pengangkatan (Rapture)"
 themes: ["Pengangkatan"]
 weight: 3
 prev: /expl/topics/others/dispensionalism-and-its-critic
-next: /expl/topics/others/who-wrote-revelation-and-when
+next: /expl/topics/others/pre-mid-prewrath-or-post-tribulational
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 sources: 

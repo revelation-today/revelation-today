@@ -1,7 +1,7 @@
 ---
 title: "Judgment in the book of revelation"
 themes: ["judgment"]
-weight: 6
+weight: 7
 prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /welcome/done
 docType: expl

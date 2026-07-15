@@ -51,6 +51,12 @@ In the {{% int_link val="reference articles" link="/welcome/expl" %}} you will f
 
 A single volume where three scholars each defend their own view of the millennium — premillennial, postmillennial, and amillennial — and respond directly to one another. Useful for seeing the strongest form of each argument, made by someone who actually holds it, rather than a summary from an outsider.
 
+<a name="rapture_views"></a>
+
+### The Rapture: Pre-, Mid-, or Post-Tribulational?
+
+A companion volume to the one above, this time for the rapture-timing debate: contributors each defend the pretribulational, midtribulational, and posttribulational positions and respond to one another directly. Useful for the same reason — hearing each view from someone who actually holds it.
+
 <a name="aune_rev"></a>
 
 ### David Aune: Revelation

@@ -39,6 +39,12 @@ Es ist ein [kompromiertes und sehr interessantes Buch,](https://www.wob.com/en-g
 
 Ein einzelner Band, in dem drei Theologen jeweils ihre eigene Sicht des Millenniums verteidigen – prämillennialistisch, postmillennialistisch und amillennialistisch – und direkt aufeinander antworten. Nützlich, um die stärkste Form jedes Arguments zu sehen, vorgetragen von jemandem, der die Position tatsächlich vertritt, statt von einer Zusammenfassung aus fremder Feder.
 
+<a name="rapture_views"></a>
+
+### The Rapture: Pre-, Mid-, or Post-Tribulational?
+
+Ein Begleitband zum obigen Werk, diesmal für die Debatte um den Zeitpunkt der Entrückung: Die Beitragenden verteidigen jeweils die prätribulationistische, midtribulationistische und posttribulationistische Position und antworten direkt aufeinander. Aus demselben Grund nützlich – jede Sicht von jemandem zu hören, der sie tatsächlich vertritt.
+
 <a name="goreman"></a>
 
 ### Michael Goreman: Reading Revelation Responsible

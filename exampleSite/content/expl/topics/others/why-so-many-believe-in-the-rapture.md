@@ -1,8 +1,8 @@
 ---
 title: "Why do so many thoughtful people believe in the rapture and dispensationalism?"
 themes: ["dispensationalism", "rapture"]
-weight: 4
-prev: /expl/topics/others/the-rapture
+weight: 5
+prev: /expl/topics/others/pre-mid-prewrath-or-post-tribulational
 next: /expl/topics/others/who-wrote-revelation-and-when
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture

@@ -1,7 +1,7 @@
 ---
 title: "Gericht im Buch Offenbarung"
 themes: ["Gericht"]
-weight: 5
+weight: 7
 prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /welcome/done
 docType: expl
