@@ -21,9 +21,9 @@ Fittingly, the {{% bible val="letter to this church is the longest of the seven"
 ## The historical background
 
 <a name="244a"></a>
-Thyatira was possibly a military outpost of Pergamon, located 70 km to its southeast.
+Thyatira began around 300 BC as a Seleucid military colony guarding the road north from Sardis and Pergamon; after 188 BC it passed into the Pergamene kingdom and continued to serve as a frontier garrison town southeast of Pergamon.
 
-By the time Revelation was written, the city was known for its purple-dye and bronze-working industries. Accordingly, it had a trade guild that held a regular feast in honor of its patron deity. These feasts were for men only, but the celebration encouraged sexual immorality by including girls as part of the entertainment.
+By the time Revelation was written, the city was known for its purple-dye and bronze-working industries, and for having an unusually large number of trade guilds. Guild feasts of this kind, across the Greco-Roman world, typically combined a meal offered to the guild's patron deity with entertainment that encouraged sexual immorality — a pattern that put believers in Thyatira's guilds under real pressure to compromise in order to keep their livelihood.
 
 ## Jesus' view
 
@@ -35,9 +35,9 @@ He is full of praise {{% bible val="for their deeds, their love — precisely wh
 ## The problem
 
 <a name="2153"></a>
-Yet there is {{% bible val="one problem: Jezebel" link="rev:2,20" lang="en" %}}. In the Old Testament, Jezebel was {{% bible val="the queen who introduced idolatry to Israel" link="1ki:16,31" lang="en" %}}; here in Thyatira, the name marks out a leader who has done the same thing to the church.
+Yet there is {{% bible val="one problem: Jezebel" link="rev:2,20" lang="en" %}} — almost certainly a polemical nickname, not her real name, echoing "Balaam" two verses earlier in the letter to Pergamon. In the Old Testament, Jezebel was {{% bible val="the queen who introduced idolatry to Israel" link="1ki:16,31-18,19" lang="en" %}}; here in Thyatira, the name marks out a leader who has done the same thing to the church.
 
-At first glance, this looks similar to Pergamon's situation. But Thyatira's problem runs deeper, because it isn't a failure caused *by* the leadership — the leadership itself is the source of the corruption. This leader has introduced idolatry, encouraged sexual immorality, and promised her followers special insight into "the deep things of Satan."
+At first glance, this looks similar to Pergamon's situation. But Thyatira's problem runs deeper. In Pergamon, the church merely tolerated a faction following "the teaching of Balaam" (2:14-15) — an outside influence it failed to expel. In Thyatira, the false teaching comes from the church's own recognized leadership, a woman who "calls herself a prophet" (2:20): it isn't a failure caused *by* the leadership — the leadership itself is the source of the corruption. This leader has introduced idolatry, encouraged sexual immorality, and promised her followers special insight into "the deep things of Satan."
 
 ## The solution
 
