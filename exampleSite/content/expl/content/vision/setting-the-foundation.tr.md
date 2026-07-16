@@ -40,7 +40,7 @@ Bir sonraki ayet aciliyeti daha da netleştirir: “Bu peygamberlik sözlerini y
 - Zaman yakındır. Fazla vaktimiz yok; şimdi harekete geçmeliyiz. Son 2000 yılda bu konuda hiçbir şey değişmedi.
 - Bu bir peygamberliktir: Kilise’yi harekete geçmeye çağıran acil bir hatırlatmadır.
 
-“Zaman yakındır” ifadesi, sonun rastgele herhangi bir anda gerçekleşebileceği anlamına gelmez; bu, aynı kökü kullanan abartılı bir yakınlık ifadesidir (Yunanca *engys/engizō*, “yakın, yaklaşmış”) — {{% bible val=”Markos’un” link=”mrk:1,15” lang=”tr” %}} Tanrı’nın egemenliğinin çoktan yaklaştığını anlatmak için [benzer bir yapıda](https://biblehub.com/interlinear/mark/1-15.htm) kullandığı kökle aynıdır.
+“Zaman yakındır” ifadesi, sonun rastgele herhangi bir anda gerçekleşebileceği anlamına gelmez; bu, aynı kökü kullanan abartılı bir yakınlık ifadesidir (Yunanca *engys/engizō*, “yakın, yaklaşmış”) — {{% bible val="Markos'un" link="mrk:1,15" lang="tr" %}} Tanrı’nın egemenliğinin çoktan yaklaştığını anlatmak için [benzer bir yapıda](https://biblehub.com/interlinear/mark/1-15.htm) kullandığı kökle aynıdır.
 
 ## Taban
 
@@ -51,11 +51,11 @@ Bir sonraki ayet aciliyeti daha da netleştirir: “Bu peygamberlik sözlerini y
 
 - Lütuf ve esenlik kiliselere verilir, çünkü önlerindeki zorluklarla kendi başlarına baş edemeyeceklerinden buna ihtiyaç duyacaklardır.
 - Tanrı Baba sonsuz olandır, “var olan, var olmuş ve gelecek olan” (4. ayet) — zamanın Hükümdarı, Her Şeye Gücü Yeten. Aynı gerçek “Alfa ve Omega” ile de ifade edilir — Yunan alfabesinin ilk ve son harfleri: O başlangıç ve sondur, ve değişmez. Vahiy kitabı daha sonra eşdeğer sonsuzluk unvanlarını İsa’nın kendisine de uygular (1:17-18; 22:13), böylece Baba ile Oğul’un bu ilahi kimliği paylaştığını gösterir.
-- “Tahtın önündeki yedi ruh” ifadesi ilk bakışta biraz tuhaf gelir. {{% bible val=”Peygamber Zekeriya’da kandil görümü Ruh’la ilişkilendirilir — ‘ne kudretle, ne kuvvetle, ancak benim Ruhum’la olacak’” link=”zec:4,2-6” lang=”tr” %}}, ve bu kandiller muhtemelen {{% bible val="kiliseleri simgeleyen yedi kandillikle" link="rev:1,20" lang="tr" %}} örtüşür. “Tahtın önünde” ifadesi {{% bible val="4. bölümde" link="rev:4,5" lang="tr" %}} yeniden karşımıza çıkar: Kutsal Ruh, Tanrı’nın planını yerine getirmek için O’nun tahtından gelir.
+- “Tahtın önündeki yedi ruh” ifadesi ilk bakışta biraz tuhaf gelir. {{% bible val="Peygamber Zekeriya'da kandil görümü Ruh'la ilişkilendirilir — 'ne kudretle, ne kuvvetle, ancak benim Ruhum'la olacak'" link="zec:4,2-6" lang="tr" %}}, ve bu kandiller muhtemelen {{% bible val="kiliseleri simgeleyen yedi kandillikle" link="rev:1,20" lang="tr" %}} örtüşür. “Tahtın önünde” ifadesi {{% bible val="4. bölümde" link="rev:4,5" lang="tr" %}} yeniden karşımıza çıkar: Kutsal Ruh, Tanrı’nın planını yerine getirmek için O’nun tahtından gelir.
 
 “{{% bible val="ve sadık tanık, ölüler arasından ilk doğan, dünya krallarının hükümdarı İsa Mesih’ten sizlere lütuf ve esenlik olsun. Bizi seven, kanıyla bizi günahlarımızdan özgür kılan," link="rev:1,5" lang="tr" %}}”
 
-- İşte İsa’nın sadık tanık olma teması yeniden karşımıza çıkıyor — kitap boyunca tekrar tekrar döner, çünkü her şeyin anahtarı budur. “Sadık tanık,” “ilk doğan” ve “kralların hükümdarı” ifadelerinin bir arada kullanılması, {{% bible val=”Mezmur 89’dan” link=”psa:89,19-32” lang=”tr” %}} alınmıştır — ancak orada “sadık tanık” aydır, gökyüzünde Tanrı’nın Davut’a olan antlaşma sadakatine tanıklık eder (37. ayet); Vahiy kitabı bu tanıklık imgesini doğrudan Davut soyundan gelen krala uygular.
+- İşte İsa’nın sadık tanık olma teması yeniden karşımıza çıkıyor — kitap boyunca tekrar tekrar döner, çünkü her şeyin anahtarı budur. “Sadık tanık,” “ilk doğan” ve “kralların hükümdarı” ifadelerinin bir arada kullanılması, {{% bible val="Mezmur 89'dan" link="psa:89,19-32" lang="tr" %}} alınmıştır — ancak orada “sadık tanık” aydır, gökyüzünde Tanrı’nın Davut’a olan antlaşma sadakatine tanıklık eder (37. ayet); Vahiy kitabı bu tanıklık imgesini doğrudan Davut soyundan gelen krala uygular.
 - “Ölüler arasından ilk doğan” ifadesi, ölüme kadar sadık kalmamız için bir teşviktir, çünkü ölüm son değildir.
 - “Bizi seviyor ve bizi günahlarımızdan özgür kıldı” ifadesi, İsa’nın bizden yana olduğunun bir hatırlatmasıdır.
 

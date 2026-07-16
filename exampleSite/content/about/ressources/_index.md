@@ -37,7 +37,7 @@ In the {{% int_link val="reference articles" link="/welcome/expl" %}} you will f
 
 [This is a main reference but a 1000 pager](https://www.logos.com/product/3467/the-book-of-revelation). There is much more in there than I refer to. I am not agree with everything but follow mainly his argumentation. He goes deep into grammar and other texts. If this is to detailed you can also go for [the smaller version](https://www.hugendubel.de/de/taschenbuch/g_k_beale_david_campbell-revelation_a_shorter_commentary-22090575-produkt-details.html?affId=3048435&amp;tduid=8f4bdc9f4e3da77eb0c918bfb1c8e410&amp;utm_source=trd&amp;utm_medium=af&amp;partner=tradedoubler&amp;utm_campaign=Redbrain+DE&amp;adCode=920R20D30I20L&amp;utm_content=Lkg).
 
-<a name="backham_rev"></a>
+<a name="bauckham_rev"></a>
 
 ### Richard Bauckham: The theology of the book of Revelation
 
@@ -123,13 +123,13 @@ A companion volume to the one above, this time for the rapture-timing debate: co
 
 ### Nahum Sarna: Understanding Genesis
 
-If you want to know more about the creation story. [He wrote a good book with lots of background information](https://www.amazon.de/-/en/Nahum-M-Sarna/dp/0805210636).
+If you want to know more about the creation story. [He wrote a good book with lots of background information](https://www.amazon.com/Understanding-Genesis-Heritage-Biblical-Israel/dp/0805202536).
 
 <a name="sarna_exo"></a>
 
 ### Nahum Sarna: Exodus
 
-If you want to step deeper into the understanding of Exodus. [He wrote an interesting book](https://www.amazon.com/Understanding-Genesis-Heritage-Biblical-Israel/dp/0805202536).
+If you want to step deeper into the understanding of Exodus. [He wrote an interesting book](https://www.amazon.de/-/en/Nahum-M-Sarna/dp/0805210636).
 
 <a name="daniel"></a>
 

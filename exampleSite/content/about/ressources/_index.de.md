@@ -4,6 +4,20 @@ prev: /about
 next: /welcome/expl
 ---
 
+## Grundsätze der Auslegung
+
+<a name="a5fe"></a>
+Ich versuche, diese Artikel nicht abstrakt zu halten, sondern auf den Alltag anwendbar zu machen — nicht als Liste von Anweisungen, sondern eher als Wahrnehmung und Leitfragen. Tut mir leid, das Leben ist nicht so einfach, und du brauchst die Führung des Heiligen Geistes ;-)
+
+Ich beanspruche nicht, die eine und einzige Wahrheit über die Offenbarung darzulegen. Dies ist die Sicht, die ich über mehrere Jahrzehnte entwickelt habe, und ich lerne noch immer dazu. Fühl dich also frei, meine Argumente infrage zu stellen. Wenn du einen guten Einwand hast, passe ich die Artikel gerne an.
+
+In meiner Argumentation versuche ich, so transparent wie möglich zu sein, und verwende keine Autoritätsargumente (der große und berühmte Prediger X hat das gesagt, also muss es stimmen), sondern folge diesen Prioritäten:
+
+- Was die Bibel sagt, um eine Stelle zu verstehen
+- Literarischer Hintergrund: einen Brief anders lesen als ein prophetisches Buch
+- Historischer Hintergrund, um den Alltag der Menschen besser zu verstehen
+- Bezüge zu jüdischer oder außerbiblischer christlicher Literatur
+
 ## Das Material
 
 <a name="0820"></a>
@@ -57,7 +71,7 @@ Ein Begleitband zum obigen Werk, diesmal für die Debatte um den Zeitpunkt der E
 
 [Es ist auch ein sehr umfangreiches Werk](https://www.logos.com/product/208586/revelation-3-vols) und nicht billig, aber es bietet einen sehr breiten historischen Hintergrund, viele theologische Positionen und eine gründliche grammatikalische Analyse. Es ist manchmal etwas schwer zu lesen und gibt nicht auf alle Fragen eine Antwort, sondern lässt einige offen. Der Autor hat die Gabe, einige komplexe Themen sehr einfach darzustellen. Es ist sicher kein Einstiegsbuch, aber eine umfangreiche Bibliothek.
 
-<a name="bauckhak_climax"></a>
+<a name="bauckham_climax"></a>
 
 ### Richard Bauckham: The climax of prophecy
 

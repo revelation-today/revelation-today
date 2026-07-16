@@ -4,6 +4,20 @@ prev: /about
 next: /welcome/expl
 ---
 
+## Yorumlama İlkeleri
+
+<a name="a5fe"></a>
+Bu makaleleri soyut değil, günlük hayata uygulanabilir kılmaya çalışıyorum — bir talimatlar listesi olarak değil, daha çok farkındalık ve yol gösterici sorular olarak. Üzgünüm, hayat o kadar kolay değil ve Kutsal Ruh'un rehberliğine ihtiyacınız var ;-)
+
+Vahiy hakkında tek ve mutlak gerçeği sunduğumu iddia etmiyorum. Bu, on yıllar boyunca geliştirdiğim bir görüştür ve hâlâ öğreniyorum. Bu yüzden argümanlarıma meydan okumaktan çekinmeyin. İyi bir noktanız varsa, makaleleri seve seve güncellerim.
+
+Argümanlarımda olabildiğince şeffaf olmaya çalışıyorum ve otorite argümanları kullanmıyorum (büyük ve ünlü vaiz X böyle dedi, öyleyse doğru olmalı); bunun yerine şu önceliklere göre ilerliyorum:
+
+- Bir pasajı anlamak için Kutsal Kitap'ın ne dediği
+- Edebi arka plan: bir mektubu peygamberlik kitabından farklı okumak
+- İnsanların günlük yaşamını daha iyi anlamak için tarihsel arka plan
+- Yahudi ya da İncil dışı Hristiyan literatürüne referanslar
+
 ## Malzemeler
 
 <a name="c135"></a>
@@ -109,7 +123,7 @@ Tapınak konusu hakkında [harika bir kitap](https://www.amazon.de/-/en/G-K-Beal
 
 ### Nahum Sarna: Understanding Genesis
 
-Çıkış’ı daha derinlemesine anlamak istiyorsanız. [İlginç bir kitap yazmış.](https://www.amazon.com/Understanding-Genesis-Heritage-Biblical-Israel/dp/0805202536)
+Yaratılış öyküsü hakkında daha fazla bilgi edinmek istiyorsanız, [çok fazla arka plan bilgisi içeren iyi bir kitap yazmış](https://www.amazon.com/Understanding-Genesis-Heritage-Biblical-Israel/dp/0805202536).
 
 <a name="sarna_exo"></a>
 
