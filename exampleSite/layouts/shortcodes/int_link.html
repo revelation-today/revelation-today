@@ -2,14 +2,21 @@
 {{- $val := .Get "val" -}}
 {{- $link := .Get "link" -}}
 
+{{- $linkParts := split $link "#" -}}
+{{- $path := index $linkParts 0 -}}
+{{- $fragment := "" -}}
+{{- if gt (len $linkParts) 1 -}}
+  {{- $fragment = index $linkParts 1 -}}
+{{- end -}}
+{{- if not (hasSuffix $path "/") -}}
+  {{- $path = print $path "/" -}}
+{{- end -}}
+
 {{- range union .Site.RegularPages .Site.Sections -}}
-  {{- if not (hasSuffix $link "/") -}}
-    {{- $link = print $link "/" -}}
-  {{- end -}}
-  {{- if hasSuffix .RelPermalink (index (split $link "#") 0) -}}
+  {{- if hasSuffix .RelPermalink $path -}}
     {{- $final_link := .RelPermalink -}}
-    {{- if strings.Contains $link "#" -}}
-        {{- $final_link = print .RelPermalink "#" (index (split (index (split $link "#") 1) "/") 0) -}}
+    {{- if ne $fragment "" -}}
+        {{- $final_link = print .RelPermalink "#" (index (split $fragment "/") 0) -}}
     {{- end -}}
      <a href="{{- $final_link -}}" class="internal"><span>{{- $val -}}</span></a>
   {{- end -}}
