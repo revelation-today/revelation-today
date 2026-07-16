@@ -17,6 +17,8 @@ Dispensationalism gets discussed constantly, and it can be genuinely confusing t
 
 It is hard to criticize dispensationalism as a whole precisely because of that variety, but the points below try to stay sharp and concrete rather than attacking a vague caricature.
 
+Worth flagging up front: most of what follows, especially the political critiques near the end and the flat rejection of a future rapture, engages dispensationalism's classical, popularly-known form — Scofield, Lindsey, *Left Behind* — the version most readers will actually have encountered. Since the 1980s, a "progressive dispensationalism" (associated with scholars like Craig Blaising, Darrell Bock, and Robert Saucy) has revised a good deal of this: a closer relationship between Israel and the church, less rigid literalism, and real engagement with the wider scholarly conversation. The critiques of hermeneutical inconsistency and genre below still apply broadly across the family; the political and church/Israel critiques land more precisely on the older, more popular form.
+
 ### A literal reading that isn't consistently literal
 
 <a name="dac4"></a>
@@ -67,6 +69,10 @@ The theory holds that a new temple must be built in Jerusalem, reasoning from th
 
 The claim that a literal new temple building will be erected simply doesn't follow from the text.
 
+A more serious version of this argument doesn't lean on Revelation 11 at all, but on {{% bible val="Ezekiel's detailed vision of a rebuilt temple, complete with measurements and a restored sacrificial system" link="ezk:40,1-4" lang="en" %}} — the real anchor for most third-temple expectation, and a text Revelation itself never directly addresses. It deserves a real answer, not a bypass through Revelation 11.
+
+Two things are worth noting. First, Ezekiel's own vision resists a purely literal reading on its own terms: the {{% bible val="river flowing from the temple deepens within a few thousand cubits from a trickle to a river too deep to cross" link="ezk:47,1-5" lang="en" %}}, and the {{% bible val="mountain the temple sits on" link="ezk:40,2" lang="en" %}} doesn't match Jerusalem's actual geography — both signal that this, like Revelation's own cubic New Jerusalem, is a symbolic vision of restored worship and God's presence, using architecture the exiles could picture, not an engineering blueprint. Second, a literal rebuilt temple with a literal restored sacrificial system sits in real tension with Hebrews' argument that {{% bible val="Christ's single sacrifice ended the need for repeated offerings" link="heb:10,1-14" lang="en" %}} — a tension dispensationalists themselves resolve differently (some read Ezekiel's sacrifices as memorial rather than atoning), which is itself a sign the passage is harder than "it gives measurements, so it must be literal" allows.
+
 ### The tribulation
 
 <a name="629d"></a>
@@ -90,12 +96,14 @@ So what exactly is wrong with it? (The alternative sketched below is usually cal
 ### The most important things, oddly sidelined
 
 <a name="e917"></a>
-The rapture and the tribulation, the two ideas the theory leans on most heavily, are each mentioned only once or twice in the entire Bible. Meanwhile, the themes that actually occur again and again — and that make up the bulk of the book's real content — are pushed to the margins.
+The rapture — the specific idea of believers being physically caught up and removed from the earth before a tribulation period — rests on very little textual real estate: essentially one debated passage (1 Thessalonians 4:17's *harpazo*), read through a specific lens. {{% int_link val="The Great Tribulation, by contrast, is not rare at all" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}} — it recurs across a dozen New Testament passages, from Daniel through the Gospels, Acts, Paul, Peter, and Revelation itself. The real imbalance isn't that both ideas are equally thin; it's that the theory builds an elaborate, specific timeline on the thinner of the two, while treating the richer, recurring theme of tribulation as though it describes only one future seven-year period rather than the church's entire experience between Christ's two comings.
 
 ### The reason for faith it offers
 
 <a name="9d26"></a>
 The reason for faith that this theory ultimately holds out is fear: believe, or you will miss the rapture and be left behind. But fear is {{% int_link val="a trait of the beast, not of the church" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. On top of that, faith gets reduced to a single transaction — being saved — with little left over for becoming like Christ, loving one's neighbor, or shaping society for good.
+
+This isn't only a theological abstraction. Rossing documents real, reported cases of children in rapture-anticipating households coming home from school to an empty house and panicking that the rapture had happened without them — a concrete, human cost of building faith's motivation on the fear of being left behind, rather than on love.
 
 ### The weapons of warfare it imagines
 

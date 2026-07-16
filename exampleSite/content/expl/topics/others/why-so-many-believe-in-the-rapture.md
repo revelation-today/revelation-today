@@ -38,6 +38,8 @@ Dispensationalism's "literal wherever possible" instinct didn't come from nowher
 <a name="c8d5"></a>
 Dispensationalism reads current events — the modern state of Israel, wars in the Middle East, geopolitical instability — as meaningful, even as confirming signs. That is a profoundly compelling offer in genuinely unsettled times: it says the anxiety you already feel about the world is not just noise, it is *significant*, part of a plan that is actively moving toward resolution. That pull operates through real communities — churches, conferences, bestselling books and films — not through some deficiency in individual reasoning. Smart people are exactly as capable as anyone else of being formed by the community and media they trust.
 
+The scale is worth naming concretely: the *Left Behind* novels alone sold more than 65 million copies. This isn't a fringe curiosity — it's one of the most commercially successful theological frameworks in modern publishing history.
+
 ## Holding the disagreement honestly
 
 <a name="7f6e"></a>

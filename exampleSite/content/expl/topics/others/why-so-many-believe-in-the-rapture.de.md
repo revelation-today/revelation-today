@@ -38,6 +38,8 @@ Der Instinkt des Dispensationalismus, „wörtlich, wo immer möglich" zu lesen,
 <a name="d84e"></a>
 Der Dispensationalismus liest aktuelle Ereignisse — den modernen Staat Israel, Kriege im Nahen Osten, geopolitische Instabilität — als bedeutsam, ja sogar als bestätigende Zeichen. Das ist ein zutiefst überzeugendes Angebot in wirklich unruhigen Zeiten: Es sagt, die Angst, die du ohnehin schon angesichts der Welt spürst, sei nicht bloß Lärm, sondern *bedeutsam*, Teil eines Plans, der aktiv auf seine Auflösung zusteuert. Diese Anziehungskraft wirkt durch reale Gemeinschaften — Gemeinden, Konferenzen, Bestsellerbücher und Filme —, nicht durch irgendein Defizit im individuellen Denken. Kluge Menschen sind genauso wie alle anderen dazu fähig, von der Gemeinschaft und den Medien geprägt zu werden, denen sie vertrauen.
 
+Das Ausmaß lohnt sich konkret zu benennen: Allein die *Left Behind*-Romane verkauften sich mehr als 65 Millionen Mal. Das ist keine Randerscheinung — es ist eines der kommerziell erfolgreichsten theologischen Konzepte der modernen Verlagsgeschichte.
+
 ## Die Uneinigkeit ehrlich halten
 
 <a name="e6a3"></a>

@@ -32,10 +32,12 @@ Kilise, gelecekteki yedi yıllık sıkıntının herhangi bir kısmı başlamada
 - {{% bible val="'Tanrı bizi gazaba uğramamıza değil'" link="1th:5,9" lang="tr" %}} ifadesini, yalnızca sıkıntının son yargı dökümünden değil, tüm sıkıntı döneminden korunma güvencesi olarak alır.
 - Kilise, {{% bible val="Vahiy'in 4. ve 19. bölümleri arasında" link="rev:4,1" lang="tr" %}} bir daha hiç adıyla anılmaz; bu da bazılarına göre kilisenin sahneyi çoktan terk ettiğinin kanıtıdır.
 - Netlik dolu bir yakınlık duygusunu korur — Mesih önce gerçekleşmesi gereken hiçbir şey olmadan her an geri dönebilir.
+- {{% bible val="'şimdi engelleyen, aradan çekilinceye kadar engellemeye devam edecek,' kötülük adamı ortaya çıkmadan önce" link="2th:2,6-7" lang="tr" %}} ifadesini, Ruh'la dolu kilisenin, nihai dinden dönüş patlak vermeden önce ortadan kaldırılması olarak okur — bu da pretribülasyonizme en açık sıralı argümanını verir: yalnızca bir kaçırılmanın gerçekleşmesi değil, bunun *ilk önce* gerçekleşmesi.
 
 **Aleyhinde olan:**
 
 - {{% int_link val="Önceki makalenin kelime incelemesi" link="/expl/topics/others/the-rapture" %}}, 1. Selanikliler 4:17'deki "karşılamak" (*apantēsis*) kelimesinin, gelmekte olan bir devlet büyüğünü karşılamak için dışarı çıkıp yolun geri kalanında ona eşlik etmeyi betimlediğini, alıp götürülmeyi değil, gösteriyor — bu da gizli, ayrı bir gidişe karşı bir kanıttır.
+- Pavlus, 2. Selanikliler 2'de engelleyeni hiçbir zaman adıyla anmaz. Ciddi yorumcular bunu farklı biçimlerde tanımlar: Kutsal Ruh'un dünyadaki engelleyici varlığı, müjdenin sürmekte olan vaazı, insan hükümeti, ya da hatta başmelek Mikail ({{% bible val="Mikail'in kendi engelleyici rolüyle karşılaştırın" link="dan:12,1" lang="tr" %}}) — bunların hiçbiri kilisenin kendisinin yeryüzünden bedenen kaldırılmasını gerektirmez, yalnızca belirli bir engelleyici etkinin geri çekilmesini ya da bir kenara konmasını gerektirir.
 - Kilisenin 4-19. bölümlerde "kilise" adıyla anılmaması bir sessizlik argümanıdır; aynı bölümler inananlara sürekli başka isimlerle doğrudan seslenir — {{% bible val="kutsallar" link="rev:13,7" lang="tr" %}}, {{% bible val="Tanrı'nın buyruklarını tutan ve İsa'ya tanıklığa sarılanlar" link="rev:12,17" lang="tr" %}}, {{% bible val="Tanrı'nın sözü uğruna öldürülenler" link="rev:6,9" lang="tr" %}}.
 - 1830'larda Darby'den önce hiçbir yazar pretribülasyonist bir göğe alınma öğretmedi; bu görüşün erken kilisede hiçbir desteği yoktur — Yeni Antlaşma'nın kendi açık öğretisi olduğu iddia edilen bir şey için çarpıcı bir boşluk.
 - "Deneme saatinden korunmak" ifadesi, başka yerlerde aynı yapıyı, {{% bible val="tehlikenin olduğu yerden alınmak değil, tehlike ortasında güvende tutulmak" link="jhn:17,15" lang="tr" %}} için kullanır; orada İsa, Baba'nın inananları *kötü olandan* korumasını diler, ama açıkça onları dünyadan almamasını *istemez*.
@@ -82,7 +84,7 @@ Gizli ya da başka türlü, ayrı bir göğe alınma olayı yoktur. İnananlar, 
 **Lehinde olan:**
 
 - {{% bible val="1. Selanikliler 4:17" link="1th:4,17" lang="tr" %}}'deki "karşılamak" (*apantēsis*) kelimesinin gerçek anlamına uyar: gelmekte olan bir figürü karşılamak için dışarı çıkıp geldiği yoldan geri götürmek — bu da Mesih'in yönünün aşağıya, yeryüzüne doğru olduğunu gösterir, inananların yönünün yukarıya, yeryüzünden uzağa doğru olduğunu değil.
-- Dispansiyonalizmin bir alternatif ortaya atmasından önce kilisenin on sekiz yüzyıl boyunca benimsediği okumadır — {{% int_link val="yeniden keşfedilmiş sade bir Kutsal Kitap anlamı değil, gerçekten yeni bir gelişme" link="/expl/topics/others/dispensionalism-a-little-history" %}}.
+- Dispansiyonalizmin bir alternatif ortaya atmasından önce kilisenin on sekiz yüzyıl boyunca benimsediği okumadır — {{% int_link val="yeniden keşfedilmiş sade bir Kutsal Kitap anlamı değil, gerçekten yeni bir gelişme" link="/expl/topics/others/dispensionalism-a-little-history" %}} (bkz. {{% int_link val="Justin Martyr'ın kendi erken, dispansiyonalist olmayan premilenyalizmi" link="/expl/topics/others/dispensionalism-a-little-history" %}} — Darby'den önceki her görüş gibi, o da ayrı bir pretribülasyonist göğe alınmayı hiç varsaymadı).
 - Vahiy'in belalarını hiç tek ve katı bir takvim olarak okumaya gerek duymaz, çünkü içinde yeri bulunması gereken bir göğe alınma tarihi yoktur.
 - {{% bible val="İsa'nın kendi son zaman öğretisine" link="mat:24,29-31" lang="tr" %}} uyar; orada seçilmişlerin toplanması, sıkıntıdan *sonra* ve O'nun görünür gelişi *sırasında*, melekler ve borazanla birlikte gerçekleşir, yıllarca ayrı iki aşamada değil.
 
@@ -91,6 +93,15 @@ Gizli ya da başka türlü, ayrı bir göğe alınma olayı yoktur. İnananlar, 
 - "Deneme saatinden korunmak" hâlâ bir yanıt gerektirir; {{% int_link val="İsa'nın öğrencileri dünyadan almadan kötü olandan korumasını dilediği duasında olduğu gibi" link="/expl/topics/others/the-rapture" %}}, denemeden *korunma* değil denemenin *içinden* korunma olarak okunur, ama bu okuma varsayılmak yerine her durumda ayrı ayrı savunulmalıdır.
 - {{% int_link val="bu kadar çok içten okuru pretribülasyonist bir okumaya çeken" link="/expl/topics/others/why-so-many-believe-in-the-rapture" %}} duygusal ve psikolojik çekiciliğin daha azını sunar — korkutucu bir dünyadan her an çıkılabilecek bir kapı, anlaşılır biçimde, "sona kadar dayanmaktan" daha kolay tutunulacak bir umuttur.
 - Pek çok posttribülasyonist, göğe alınmayı yedi yılın sonuna yerleştirse bile, Daniel'in yetmişinci haftasının harfi harfine gelecekteki bir yedi yılı betimlediğini varsaymaya devam eder — bu sitenin büyük sıkıntı okuması, bu öncülü posttribülasyonizmin kendi başına genellikle yaptığından daha köklü biçimde sorgular.
+
+## Bu seçim neden yalnızca akademik değil
+
+<a name="prac1"></a>
+Bunlar yalnızca bir takvimi okumanın dört yolu değil — her biri, bugün gerçek bir zorlukla yüzleşen birinin bundan nasıl bir anlam çıkaracağı için gerçek bir ağırlık taşır.
+
+Pretribülasyonist bir okuma, işler kötüleşmeden önce bir çıkış rahatlığı sunar. Ama popüler biçiminde, {{% int_link val="dispansiyonalizm eleştirisinde ayrıntılı biçimde ele alınan" link="/expl/topics/others/dispensionalism-and-its-critic" %}} bir siyasi tutumu da beslemiştir: Orta Doğu'daki çatışmayı, özlenen bir kaçışı hızlandırdığı okunduğu için, yas tutulacak değil hoş karşılanacak bir şey olarak ele alan bir tutum. Barbara Rossing'in anlatımına göre, bu görüş aynı zamanda yaratılışa uzun vadeli özenin sessizce zayıflamasına da yol açmıştır: Yakında terk edeceğinizi düşündüğünüz bir gezegene neden yatırım yapasınız ki?
+
+Posttribülasyonist bir okuma böyle bir çıkış sunmaz — ve bu tam olarak onun ruhsal bedelidir. {{% int_link val="Sona kadar dayanmak, kötüleşmeden önce gideceksin demekten daha ağır bir mesajdır" link="/expl/topics/others/why-so-many-believe-in-the-rapture" %}}, özellikle zaten acı çekmekte olan biri için. Bu, onu daha az doğru yapmaz. Ama bunun hiçbir zaman yalnızca Yunanca fiiller ve Daniel'in takvimi üzerine bir tartışma olmadığı anlamına gelir.
 
 ## Peki hangisi?
 

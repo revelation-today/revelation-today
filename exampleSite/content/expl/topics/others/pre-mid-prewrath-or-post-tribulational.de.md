@@ -32,10 +32,12 @@ Die Gemeinde wird von der Erde entfernt, bevor irgendein Teil einer künftigen s
 - Sie nimmt {{% bible val="'Gott hat uns nicht zum Zorn bestimmt'" link="1th:5,9" lang="de" %}} als Garantie, von der gesamten Trübsalszeit verschont zu bleiben, nicht nur von ihrem abschließenden Gerichtsausbruch.
 - Die Gemeinde wird {{% bible val="zwischen Kapitel 4 und 19 der Offenbarung" link="rev:4,1" lang="de" %}} nie wieder namentlich erwähnt, was manchen als Beleg dafür gilt, dass sie die Szene bereits verlassen hat.
 - Sie bewahrt ein klares Gefühl der Unmittelbarkeit — Christus könnte jederzeit wiederkommen, ohne dass noch etwas vorher geschehen müsste.
+- Sie liest {{% bible val="'wer jetzt zurückhält, wird das tun, bis er aus dem Weg geräumt wird,' bevor der Mensch der Bosheit offenbart wird" link="2th:2,6-7" lang="de" %}} so, dass die Gemeinde — erfüllt vom Geist — entfernt wird, bevor der letzte Abfall losbricht, was dem Prätribulationismus sein klarstes sequentielles Argument gibt: nicht nur, dass eine Entrückung geschieht, sondern dass sie *zuerst* geschieht.
 
 **Dagegen spricht:**
 
 - {{% int_link val="Die Wortstudie des vorherigen Artikels" link="/expl/topics/others/the-rapture" %}} zeigt, dass „treffen" (*apantēsis*) in 1. Thessalonicher 4,17 beschreibt, einem ankommenden Würdenträger entgegenzugehen, um ihn den Rest des Weges zu geleiten, nicht, fortgetragen zu werden — was gegen jede geheime, gesonderte Abreise spricht.
+- Paulus nennt den Zurückhaltenden in 2. Thessalonicher 2 nie beim Namen. Ernstzunehmende Ausleger identifizieren ihn unterschiedlich als die zurückhaltende Gegenwart des Heiligen Geistes in der Welt, die fortgesetzte Verkündigung des Evangeliums, menschliche Regierung oder sogar den Erzengel Michael (vergleiche {{% bible val="Michaels eigene zurückhaltende Rolle" link="dan:12,1" lang="de" %}}) — nichts davon erfordert, dass die Gemeinde selbst buchstäblich von der Erde entfernt wird, nur dass ein bestimmter zurückhaltender Einfluss zurücktritt oder beiseitegesetzt wird.
 - Das Fehlen des Begriffs „Gemeinde" in den Kapiteln 4–19 ist ein Argument aus dem Schweigen; dieselben Kapitel sprechen Gläubige durchgehend unter anderen Namen direkt an — {{% bible val="die Heiligen" link="rev:13,7" lang="de" %}}, {{% bible val="die Gottes Gebote halten und am Zeugnis Jesu festhalten" link="rev:12,17" lang="de" %}}, {{% bible val="die um des Wortes Gottes willen getötet wurden" link="rev:6,9" lang="de" %}}.
 - Kein Autor vor Darby in den 1830er-Jahren lehrte eine prätribulationale Entrückung; die Sicht findet in der gesamten frühen Kirche keinerlei Unterstützung — eine auffällige Lücke für etwas, das als klare Lehre des Neuen Testaments selbst beansprucht wird.
 - „Bewahrt vor der Stunde der Versuchung" verwendet dieselbe Konstruktion andernorts für {{% bible val="Bewahrung inmitten der Gefahr, nicht Entfernung aus dem Ort der Gefahr" link="jhn:17,15" lang="de" %}}, wo Jesus betet, der Vater möge die Gläubigen *vor dem Bösen* bewahren, während er ausdrücklich *nicht* darum bittet, sie aus der Welt herauszunehmen.
@@ -82,7 +84,7 @@ Es gibt überhaupt kein gesondertes Entrückungsereignis, weder geheim noch ande
 **Dafür spricht:**
 
 - Sie passt zur tatsächlichen Bedeutung von „treffen" (*apantēsis*) in {{% bible val="1. Thessalonicher 4,17" link="1th:4,17" lang="de" %}}: einer ankommenden Gestalt entgegengehen, um sie den Weg zurückzugeleiten, den sie gekommen ist — was Christi Bewegungsrichtung als abwärts, zur Erde hin, ausweist, nicht die Bewegungsrichtung der Gläubigen als aufwärts, von ihr weg.
-- Sie ist die Lesart, die die Kirche achtzehn Jahrhunderte lang vertrat, bevor der Dispensationalismus eine Alternative einführte — {{% int_link val="eine wirklich neue Entwicklung, kein wiederentdeckter einfacher Schriftsinn" link="/expl/topics/others/dispensionalism-a-little-history" %}}.
+- Sie ist die Lesart, die die Kirche achtzehn Jahrhunderte lang vertrat, bevor der Dispensationalismus eine Alternative einführte — {{% int_link val="eine wirklich neue Entwicklung, kein wiederentdeckter einfacher Schriftsinn" link="/expl/topics/others/dispensionalism-a-little-history" %}} (vergleiche {{% int_link val="Justin Martyrs eigenen frühen, nicht-dispensationalistischen Prämillennialismus" link="/expl/topics/others/dispensionalism-a-little-history" %}}, der — wie jede andere Sicht vor Darby — überhaupt keine gesonderte prätribulationale Entrückung annahm).
 - Sie braucht Offenbarungs Plagen überhaupt nicht als einen einzigen, strengen Fahrplan zu lesen, da es keinen Entrückungstermin gibt, den man darin verorten müsste.
 - Sie passt zu {{% bible val="Jesu eigener Endzeitlehre" link="mat:24,29-31" lang="de" %}}, wo die Versammlung der Auserwählten *nach* der Trübsal und *bei* seinem sichtbaren Kommen geschieht, mit Engeln und Posaune zusammen, nicht in zwei getrennten, Jahre auseinanderliegenden Stufen.
 
@@ -91,6 +93,15 @@ Es gibt überhaupt kein gesondertes Entrückungsereignis, weder geheim noch ande
 - „Bewahrt vor der Stunde der Versuchung" braucht immer noch eine Antwort; gelesen als Bewahrung *hindurch* statt Entfernung *davor*, wie bei {{% int_link val="Jesu Gebet, der Vater möge die Jünger vor dem Bösen bewahren, ohne sie aus der Welt herauszunehmen" link="/expl/topics/others/the-rapture" %}}, aber diese Lesart muss von Fall zu Fall begründet werden, statt vorausgesetzt zu werden.
 - Sie bietet weniger von der emotionalen und psychologischen Anziehungskraft, die {{% int_link val="so viele aufrichtige Leser zu einer prätribulationalen Lesart zieht" link="/expl/topics/others/why-so-many-believe-in-the-rapture" %}} — eine jederzeit mögliche Tür aus einer beängstigenden Welt hinaus ist verständlicherweise eine leichter festzuhaltende Hoffnung als „durchhalten bis zum Ende".
 - Viele Posttribulationisten setzen weiterhin voraus, dass Daniels siebzigste Jahrwoche eine wörtliche künftige Siebenjahresperiode beschreibt, auch wenn sie die Entrückung an deren Ende ansetzen — eine Prämisse, die die eigene Lesart der Großen Trübsal auf dieser Seite grundsätzlicher infrage stellt, als der Posttribulationismus es für sich selbst gewöhnlich tut.
+
+## Warum die Wahl nicht nur akademisch ist
+
+<a name="prac1"></a>
+Das sind nicht nur vier Arten, einen Kalender zu lesen — jede trägt echtes Gewicht dafür, wie jemand, der heute wirkliche Not erlebt, einen Sinn darin findet.
+
+Eine prätribulationale Lesart bietet den Trost eines Auswegs, bevor es schlimmer wird. Aber in ihrer populären Form hat sie auch eine politische Haltung genährt — {{% int_link val="ausführlich behandelt in der Kritik am Dispensionalismus" link="/expl/topics/others/dispensionalism-and-its-critic" %}} —, die Konflikte im Nahen Osten eher als etwas zu Begrüßendes denn als etwas zu Betrauerndes behandelt, da Konflikte dort als Beschleunigung einer ersehnten Flucht gelesen werden. Sie hat, nach Barbara Rossings Darstellung, auch die langfristige Sorge um die Schöpfung leise untergraben: Warum in einen Planeten investieren, den man ohnehin bald verlassen will?
+
+Eine posttribulationale Lesart bietet keinen solchen Ausweg — und genau das ist ihr seelsorgerlicher Preis. {{% int_link val="Durchhalten bis zum Ende ist eine schwerere Botschaft zu ertragen als du wirst weg sein, bevor es schlimm wird" link="/expl/topics/others/why-so-many-believe-in-the-rapture" %}}, besonders für jemanden, der bereits leidet. Das macht sie nicht weniger wahr. Es bedeutet aber, dass dies nie nur eine Debatte über griechische Verben und Daniels Kalender war.
 
 ## Welche also?
 

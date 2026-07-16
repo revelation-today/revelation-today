@@ -17,6 +17,8 @@ Dispensasionalisme terus-menerus diperbincangkan, dan bisa jadi sungguh membingu
 
 Sulit untuk mengkritik dispensasionalisme secara keseluruhan justru karena keragamannya itu, tetapi poin-poin di bawah ini berusaha tetap tajam dan konkret, bukan menyerang sebuah karikatur yang kabur.
 
+Perlu ditegaskan sejak awal: sebagian besar yang akan dibahas berikut ini — terutama kritik-kritik politik menjelang akhir dan penolakan mutlak terhadap pengangkatan di masa depan — membahas bentuk klasik dan populer dari dispensasionalisme: Scofield, Lindsey, "Left Behind" — versi yang paling banyak dikenal pembaca. Sejak tahun 1980-an, "dispensasionalisme progresif" (dikaitkan dengan para sarjana seperti Craig Blaising, Darrell Bock, dan Robert Saucy) telah merevisi banyak hal ini: hubungan yang lebih erat antara Israel dan gereja, literalisme yang tidak terlalu kaku, dan keterlibatan yang sungguh-sungguh dengan percakapan akademis yang lebih luas. Kritik terhadap inkonsistensi hermeneutis dan genre di bawah ini masih berlaku secara luas bagi seluruh kelompok ini; kritik politik dan kritik gereja/Israel lebih tepat mengenai bentuk yang lebih lama dan lebih populer.
+
 ### Pembacaan Harfiah yang Tidak Konsisten
 
 <a name="7102"></a>
@@ -67,6 +69,10 @@ Teori ini menyatakan bahwa sebuah bait baru harus dibangun di Yerusalem, dengan 
 
 Klaim bahwa sebuah bangunan bait yang harfiah akan didirikan sama sekali tidak mengikuti dari teks itu sendiri.
 
+Versi argumen ini yang lebih serius sama sekali tidak bersandar pada Wahyu 11, melainkan pada {{% bible val="penglihatan terperinci Yehezkiel tentang bait yang dibangun kembali, lengkap dengan ukuran-ukuran dan sistem persembahan kurban yang dipulihkan" link="ezk:40,1-4" lang="ind" %}} — landasan sesungguhnya bagi sebagian besar harapan akan bait ketiga, sebuah teks yang tidak pernah dibahas langsung oleh Kitab Wahyu sendiri. Ini layak mendapat jawaban yang sungguh-sungguh, bukan sekadar dilewati lewat Wahyu 11.
+
+Ada dua hal yang patut dicatat. Pertama, penglihatan Yehezkiel sendiri menolak pembacaan yang murni harfiah menurut ketentuannya sendiri: {{% bible val="sungai yang mengalir dari bait itu, dalam beberapa ribu hasta, berubah dari aliran kecil menjadi sungai yang terlalu dalam untuk diseberangi" link="ezk:47,1-5" lang="ind" %}}, dan {{% bible val="gunung tempat bait itu berdiri" link="ezk:40,2" lang="ind" %}} tidak sesuai dengan geografi Yerusalem yang sebenarnya — keduanya menandakan bahwa ini, seperti Yerusalem Baru yang berbentuk kubus dalam Kitab Wahyu sendiri, adalah penglihatan simbolis tentang ibadah yang dipulihkan dan kehadiran Allah, yang menggunakan arsitektur yang dapat dibayangkan oleh orang-orang buangan, bukan cetak biru teknik bangunan. Kedua, sebuah bait yang dibangun kembali secara harfiah dengan sistem persembahan kurban yang dipulihkan secara harfiah berada dalam ketegangan nyata dengan argumen Kitab Ibrani bahwa {{% bible val="satu kali persembahan Kristus mengakhiri keperluan akan persembahan yang berulang-ulang" link="heb:10,1-14" lang="ind" %}} — sebuah ketegangan yang diselesaikan secara berbeda-beda oleh kaum dispensasionalis sendiri (sebagian membaca persembahan kurban Yehezkiel sebagai peringatan, bukan sebagai penebusan) — hal ini sendiri menjadi tanda bahwa bagian ini lebih sulit daripada yang diizinkan oleh pembacaan sederhana "ada ukurannya, jadi pasti harfiah".
+
 ### Kesengsaraan Besar Itu
 
 <a name="055e"></a>
@@ -90,12 +96,14 @@ Jadi, apa sebenarnya yang keliru dari pandangan ini? (Pandangan alternatif yang 
 ### Hal-Hal Terpenting yang Justru Dikesampingkan
 
 <a name="7e97"></a>
-Pengangkatan dan kesengsaraan besar, dua gagasan yang paling diandalkan oleh teori ini, masing-masing hanya disebutkan satu atau dua kali dalam seluruh Alkitab. Sementara itu, tema-tema yang justru muncul berulang kali — dan yang menjadi sebagian besar isi sesungguhnya dari kitab ini — malah disingkirkan ke pinggiran.
+Pengangkatan — gagasan spesifik bahwa orang-orang percaya akan diangkat secara jasmani dan disingkirkan dari bumi sebelum masa kesengsaraan — bersandar pada landasan tekstual yang sangat tipis: pada dasarnya hanya satu bagian yang diperdebatkan (kata "harpazo" dalam 1 Tesalonika 4:17), yang dibaca melalui sudut pandang tertentu. {{% int_link val="Sebaliknya, Kesengsaraan Besar sama sekali tidak jarang disebutkan" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}} — tema ini muncul berulang kali di lebih dari selusin bagian Perjanjian Baru, dari Daniel, melalui Injil-Injil, Kisah Para Rasul, tulisan Paulus, Petrus, hingga Kitab Wahyu sendiri. Ketidakseimbangan yang sesungguhnya bukanlah bahwa kedua gagasan itu sama-sama tipis; melainkan bahwa teori ini membangun garis waktu yang rumit dan spesifik di atas gagasan yang lebih tipis di antara keduanya, sementara memperlakukan tema kesengsaraan yang lebih kaya dan berulang seolah-olah hanya menggambarkan satu periode tujuh tahun di masa depan, bukan keseluruhan pengalaman gereja di antara kedua kedatangan Kristus.
 
 ### Alasan Beriman yang Ditawarkannya
 
 <a name="ab07"></a>
 Alasan beriman yang pada akhirnya ditawarkan oleh teori ini adalah ketakutan: percayalah, atau Anda akan kehilangan kesempatan diangkat dan tertinggal. Tetapi ketakutan {{% int_link val="adalah sifat binatang itu, bukan sifat gereja" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Selain itu, iman direduksi menjadi sekadar satu transaksi tunggal — yaitu diselamatkan — dengan sedikit ruang yang tersisa untuk menjadi serupa dengan Kristus, mengasihi sesama, atau membentuk masyarakat menjadi lebih baik.
+
+Ini bukan sekadar abstraksi teologis. Rossing mendokumentasikan kasus-kasus nyata yang dilaporkan tentang anak-anak dalam rumah tangga yang menantikan pengangkatan, yang pulang sekolah mendapati rumah kosong dan panik karena mengira pengangkatan telah terjadi tanpa mereka — sebuah ongkos manusiawi yang konkret dari membangun motivasi iman di atas ketakutan akan ditinggalkan, bukan di atas kasih.
 
 ### Senjata Peperangan yang Dibayangkannya
 

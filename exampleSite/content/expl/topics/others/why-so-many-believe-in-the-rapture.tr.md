@@ -38,6 +38,8 @@ Dispansiyonalizmin "mümkün olan her yerde harfiyen" içgüdüsü hiçbir yerde
 <a name="d84e"></a>
 Dispansiyonalizm, güncel olayları — modern İsrail devletini, Orta Doğu'daki savaşları, jeopolitik istikrarsızlığı — anlamlı, hatta doğrulayıcı işaretler olarak okur. Bu, gerçekten çalkantılı zamanlarda son derece ikna edici bir tekliftir: Dünya hakkında zaten hissettiğiniz kaygının sadece gürültü olmadığını, *anlamlı* olduğunu, aktif biçimde bir çözüme doğru ilerleyen bir planın parçası olduğunu söyler. Bu çekim gücü, bireysel akıl yürütmedeki bir eksiklik yoluyla değil, gerçek topluluklar — kiliseler, konferanslar, çok satan kitaplar ve filmler — aracılığıyla işler. Zeki insanlar, güvendikleri topluluk ve medya tarafından şekillendirilmeye tıpkı herkes kadar açıktır.
 
+Ölçeği somut biçimde belirtmekte fayda var: yalnızca *Left Behind* romanları 65 milyondan fazla sattı. Bu marjinal bir merak konusu değil — modern yayıncılık tarihinin ticari olarak en başarılı teolojik çerçevelerinden biridir.
+
 ## Anlaşmazlığı dürüstçe ele almak
 
 <a name="e6a3"></a>

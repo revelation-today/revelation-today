@@ -63,7 +63,7 @@ A companion volume to the one above, this time for the rapture-timing debate: co
 
 [This is a huge work](https://www.logos.com/product/208586/revelation-3-vols) and also not cheap, but gives a lot of historical background, many theological positions and thorough grammatical analysis. It is sometimes hard to read and there is not always an answer on difficult passage but leaves the answer open. Definitely not to start with but an extensive library.
 
-<a name="goreham"></a>
+<a name="goreman"></a>
 
 ### Michael Goreman: Reading Revelation Responsible
 

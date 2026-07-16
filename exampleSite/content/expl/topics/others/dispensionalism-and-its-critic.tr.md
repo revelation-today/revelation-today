@@ -17,6 +17,8 @@ Dispansiyonalizm sürekli tartışılan bir konudur ve tam olarak neyi ifade ett
 
 Dispansiyonalizmi bir bütün olarak eleştirmek, tam da bu çeşitlilik yüzünden zordur; ama aşağıdaki noktalar belirsiz bir karikatüre saldırmak yerine keskin ve somut kalmaya çalışır.
 
+Baştan belirtmekte fayda var: aşağıdakilerin çoğu — özellikle sona doğru yer alan siyasi eleştiriler ve gelecekteki bir göğe alınmanın toptan reddi — dispansiyonalizmin klasik, yaygın olarak bilinen biçimini ele alır: Scofield, Lindsey, "Left Behind" — çoğu okurun gerçekten karşılaştığı versiyon. 1980'lerden bu yana, "ilerici dispansiyonalizm" (Craig Blaising, Darrell Bock ve Robert Saucy gibi ilahiyatçılarla ilişkilendirilen) bunun büyük bölümünü gözden geçirmiştir: İsrail ile kilise arasında daha yakın bir ilişki, daha az katı bir harfiyenlik ve daha geniş akademik tartışmayla gerçek bir etkileşim. Aşağıdaki yorumbilimsel tutarsızlık ve edebi tür eleştirileri hâlâ bütün aileye geniş ölçüde uygulanabilir; siyasi ve kilise/İsrail eleştirileri ise daha çok eski, daha popüler biçimi hedef alır.
+
 ## Gerçekçi anlayış
 
 <a name="16f7"></a>
@@ -67,6 +69,10 @@ Teori, {{% bible val="Vahiy'de tapınağın diğer uluslara verilmiş olması ge
 
 Gerçek, harfi harfine yeni bir tapınak binasının dikileceği iddiası, metinden hiçbir şekilde çıkmaz.
 
+Bu argümanın daha ciddi bir versiyonu Vahiy 11'e hiç dayanmaz; bunun yerine {{% bible val="Hezekiel'in, ölçüleri ve yeniden kurulmuş bir kurban sistemiyle birlikte yeniden inşa edilmiş bir tapınağa dair ayrıntılı görümüne" link="ezk:40,1-4" lang="tr" %}} dayanır — üçüncü tapınak beklentisinin gerçek dayanağı budur ve Vahiy'in kendisinin hiç doğrudan ele almadığı bir metindir. Bu, Vahiy 11 üzerinden bir kaçamakla değil, gerçek bir yanıtla karşılanmayı hak eder.
+
+İki şey dikkat çekicidir. Birincisi, Hezekiel'in kendi görümü, kendi içinde bile salt harfi bir okumaya direnir: {{% bible val="tapınaktan akan ırmak, birkaç bin arşın içinde bir sızıntıdan geçilmez derinlikte bir ırmağa dönüşür" link="ezk:47,1-5" lang="tr" %}}, ve {{% bible val="tapınağın üzerinde bulunduğu dağ" link="ezk:40,2" lang="tr" %}} Yeruşalim'in gerçek coğrafyasıyla örtüşmez — her ikisi de, Vahiy'in kendi küp biçimli Yeni Yeruşalim'i gibi, bunun sürgündekilerin hayal edebileceği bir mimariyi kullanan, yeniden kurulmuş tapınmanın ve Tanrı'nın huzurunun sembolik bir görümü olduğuna, bir mühendislik planı olmadığına işaret eder. İkincisi, harfi harfine yeniden inşa edilmiş bir tapınak ile harfi harfine yeniden kurulmuş bir kurban sistemi, İbraniler'in {{% bible val="Mesih'in tek seferlik kurbanının tekrarlanan sunuların gereğini sona erdirdiği" link="heb:10,1-14" lang="tr" %}} yönündeki argümanıyla gerçek bir gerilim içindedir — dispansiyonalistlerin kendilerinin bile farklı biçimlerde çözdüğü bir gerilim (bazıları Hezekiel'in kurbanlarını kefaret edici değil, anma amaçlı olarak okur) — bu da pasajın, "ölçüler veriyor, öyleyse harfi olmalı" türünden basit bir okumanın izin verdiğinden daha zor olduğunun bir işaretidir.
+
 ## Sıkıntı
 
 <a name="baa3"></a>
@@ -90,12 +96,14 @@ Peki tam olarak nesi yanlış? (Aşağıda özetlenen alternatif görüş genell
 ## En önemli şeyler
 
 <a name="c445"></a>
-Teorinin en ağırlıklı dayandığı iki fikir olan göğe alınma ve sıkıntı, Kutsal Kitap'ın tamamında yalnızca bir veya iki kez geçer. Bu arada, gerçekten tekrar tekrar geçen ve kitabın asıl içeriğinin büyük bölümünü oluşturan temalar ise kenara itilir.
+Göğe alınma — inananların bir sıkıntı döneminden önce bedenen yakalanıp yeryüzünden alınması fikri — çok az bir metinsel temele dayanır: esasen tek bir tartışmalı pasaj (1. Selanikliler 4:17'deki "harpazo"), belirli bir mercekten okunur. {{% int_link val="Buna karşılık Büyük Sıkıntı hiç de nadir değildir" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}} — Daniel'den başlayıp İncillere, Elçilerin İşleri'ne, Pavlus'a, Petrus'a ve Vahiy'in kendisine kadar bir düzine Yeni Antlaşma pasajında tekrar tekrar geçer. Buradaki asıl dengesizlik, iki fikrin de eşit derecede zayıf olması değildir; teorinin, ikisinden daha zayıf olanı üzerine ayrıntılı, özel bir zaman çizelgesi kurarken, sıkıntı gibi daha zengin ve tekrar eden bir temayı sanki yalnızca gelecekteki tek bir yedi yıllık dönemi betimliyormuş gibi ele alması, oysa bu temanın aslında kilisenin Mesih'in iki gelişi arasındaki bütün deneyimini betimlemesidir.
 
 ## İnancın sebebi
 
 <a name="d9ea"></a>
 Bu teorinin nihayetinde sunduğu iman sebebi korkudur: ya inanırsınız, ya da göğe alınmayı kaçırıp geride bırakılırsınız. Ama korku, {{% int_link val="kilisenin değil, canavarın bir özelliğidir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Üstelik böylece iman, kurtulmak gibi tek bir işleme indirgenir; Mesih'e benzemeye, komşuyu sevmeye ya da toplumu iyiye doğru şekillendirmeye pek yer kalmaz.
+
+Bu yalnızca teolojik bir soyutlama değildir. Rossing, göğe alınmayı bekleyen hanelerdeki çocukların okuldan eve dönüp boş bir evle karşılaştıklarında, göğe alınmanın kendileri olmadan gerçekleştiğini düşünerek paniğe kapıldıkları gerçek, bildirilmiş vakaları belgeler — imanın motivasyonunu sevgi yerine geride bırakılma korkusu üzerine kurmanın somut, insani bir bedelidir bu.
 
 ## Savaş silahları
 

@@ -38,6 +38,8 @@ Naluri dispensasionalisme untuk "membaca secara harfiah di mana pun memungkinkan
 <a name="d84e"></a>
 Dispensasionalisme membaca peristiwa-peristiwa masa kini — negara Israel modern, perang-perang di Timur Tengah, ketidakstabilan geopolitik — sebagai sesuatu yang bermakna, bahkan sebagai tanda-tanda yang menegaskan. Itu adalah sebuah tawaran yang sangat meyakinkan di masa-masa yang benar-benar penuh gejolak: sistem ini mengatakan bahwa kecemasan yang sudah kamu rasakan tentang dunia ini bukan sekadar kebisingan, melainkan *bermakna*, bagian dari sebuah rencana yang secara aktif bergerak menuju penyelesaiannya. Daya tarik itu bekerja melalui komunitas-komunitas nyata — gereja, konferensi, buku-buku dan film-film laris — bukan melalui kekurangan tertentu dalam penalaran perorangan. Orang-orang cerdas persis sama mampunya seperti siapa pun untuk dibentuk oleh komunitas dan media yang mereka percayai.
 
+Skalanya patut disebutkan secara konkret: novel-novel *Left Behind* saja telah terjual lebih dari 65 juta kopi. Ini bukan sekadar keingintahuan pinggiran — ini adalah salah satu kerangka teologis yang paling sukses secara komersial dalam sejarah penerbitan modern.
+
 ## Menghadapi perbedaan pendapat secara jujur
 
 <a name="e6a3"></a>
