@@ -39,7 +39,7 @@ Bunun ardından {{% bible val="Tanrı, Musa’ya Midyanlılar’ı yok etmesini 
 
 Musa bunu yeterince ciddiye almadı mı? Bu pek {{% bible val="olası görünmüyor" link="exo:32,19" lang="tr" %}}; belki de kayınpederinin halkıyla nasıl başa çıkacağı konusunda yalnızca daha çekingen davrandı.
 
-Yine de {{% bible val="İsrail’in sonunda Midyanlılar’a karşı savaşması" link="num:31" lang="tr" %}} — {{% bible val="Musa’nın ölümünden önceki son eylemi" link="num:31,2" lang="tr" %}} — uzun zaman alır. İsrail, Midyanlı {{% bible val="erkeklerin" link="num:31,2" lang="tr" %}} hepsini ve kendilerini ayartmış olan {{% bible val="kadınları" link="num:31,15-17" lang="tr" %}} öldürür.
+Yine de {{% bible val="İsrail’in sonunda Midyanlılar’a karşı savaşması" link="num:31" lang="tr" %}} — {{% bible val="Musa’nın ölümünden önceki son eylemi" link="num:31,1-2" lang="tr" %}} — uzun zaman alır. İsrail, Midyanlı {{% bible val="erkeklerin" link="num:31,1-2" lang="tr" %}} hepsini ve kendilerini ayartmış olan {{% bible val="kadınları" link="num:31,15-17" lang="tr" %}} öldürür.
 
 Ama anlatıda bir sürpriz daha vardır: {{% bible val="öldürülenler arasında Balam da bulunur — meğer o zamana dek Midyanlılar’ın yanında kalıyormuş" link="num:31,8" lang="tr" %}}.
 

@@ -56,9 +56,9 @@ Derinlemesine bakıldığında, altta yatan kelime "[harpazo](https://biblehub.c
 - {{% bible val="Filipus'un Ruh tarafından kapılıp götürülmesi" link="act:8,39" lang="tr" %}},
 - {{% bible val="Pavlus'un öfkeli kalabalığın elinden kapılıp güvenliğe götürülmesi" link="act:23,10" lang="tr" %}},
 - {{% bible val="birinin Ruh'ta üçüncü göğe kapılıp götürülmesi" link="2co:12,2" lang="tr" %}},
-- {{% bible val="birinin Ruh'ta cennete kapılıp götürülmesi" link="2co:12,4" lang="tr" %}},
+- {{% bible val="birinin Ruh'ta cennete kapılıp götürülmesi" link="2co:12,3-4" lang="tr" %}},
 - {{% bible val="inananların ölülerle birlikte bulutlara kapılıp götürülmesi" link="1th:4,17" lang="tr" %}},
-- {{% bible val="inananların ateşten kurtarılması" link="jud:23" lang="tr" %}},
+- {{% bible val="inananların ateşten kurtarılması" link="jud:1,23" lang="tr" %}},
 - {{% bible val="çocuğun ejderhadan kurtarılması" link="rev:12,5" lang="tr" %}}.
 
 Anlamlar hayli çeşitlidir, ama ortak bir noktaları var: her durumda fiilin nesnesine istem dışı bir şey yapılır — kurtarılır, bir elden kapılır, çalınır ya da alıp götürülür — ve bunların hiçbiri göğe fiziksel bir yükselişi betimlemez.

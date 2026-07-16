@@ -57,7 +57,7 @@ Sina'yı hatırlatan "{{% bible val="gök gürültüsü ve şimşek" link="exo:1
 ## 4x7 kombinasyonu
 
 <a name="4df9"></a>
-Eğer {{% bible val="yedi gök gürlemesi" link="rev:10,3-7" lang="tr" %}} başka bir yargı dizisi olarak sayılırsa — ya da kiliselere yazılan mektuplar kendi başlarına yargılayıcı bir karaktere sahip olarak okunursa — o zaman kitap, tüm dünyanın yargılanmasıyla ilgili toplam 4x7 yargı içerir; bu da {{% bible val="yedi kat yargının kendisinin dört kez tekrarlandığı Yasa'yı" link="lev:26,14-46" lang="tr" %}} yankılar.
+Eğer {{% bible val="yedi gök gürlemesi" link="rev:10,2-7" lang="tr" %}} başka bir yargı dizisi olarak sayılırsa — ya da kiliselere yazılan mektuplar kendi başlarına yargılayıcı bir karaktere sahip olarak okunursa — o zaman kitap, tüm dünyanın yargılanmasıyla ilgili toplam 4x7 yargı içerir; bu da {{% bible val="yedi kat yargının kendisinin dört kez tekrarlandığı Yasa'yı" link="lev:26,14-46" lang="tr" %}} yankılar.
 
 {{% bible val="Orağın yedi kez anılması" link="rev:14,14-19" lang="tr" %}} da dünya çapındaki yargının aynı eksiksizliğine işaret eder.
 

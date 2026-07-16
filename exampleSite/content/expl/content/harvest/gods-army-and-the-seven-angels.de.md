@@ -61,7 +61,7 @@ Das wirft die naheliegende Frage auf: Werden die Völker tatsächlich hören? Ei
 <a name="45b1"></a>
 Nachdem die drei Engel zu Ende gesprochen haben, erscheinen vier weitere Gestalten: drei weitere Engel und einer wie ein Menschensohn, jeder mit einer Ernte verbunden – einer Getreideernte und einer Weinlese. Was bedeuten diese beiden Ernten? Sind beide Bilder des Gerichts?
 
-Beide sind Joel entnommen: „{{% bible val="Schwingt die Sichel, denn die Ernte ist reif. Kommt, tretet die Trauben, denn die Kelter ist voll und die Bottiche laufen über – so groß ist ihre Bosheit!" link="jol:3,13" lang="de" %}}"
+Beide sind Joel entnommen: „{{% bible val="Schwingt die Sichel, denn die Ernte ist reif. Kommt, tretet die Trauben, denn die Kelter ist voll und die Bottiche laufen über – so groß ist ihre Bosheit!" link="jol:4,13" lang="de" %}}"
 
 Bei Joel weisen beide Bilder auf Gericht hin, besonders die Kelter – die die Offenbarung ausdrücklich als {{% bible val="die Kelter des Zornes Gottes" link="rev:14,19" lang="de" %}} bezeichnet, ein Echo des {{% bible val="Tages der Rache bei Jesaja" link="isa:63,1-6" lang="de" %}}. Es spiegelt auch den {{% bible val="wenige Verse zuvor angekündigten Fall Babylons" link="rev:14,8" lang="de" %}} wider. Weil beide Erntebilder in der Offenbarung auf denselben Vers bei Joel zurückgehen, verstehen viele Ausleger – darunter Beale, der oben bereits zitiert wurde – die Getreideernte auf dieselbe Weise wie die Kelter: als ein weiteres Bild des Gerichts, im Einklang mit Jesu eigener Erntesprache vom Ende des Zeitalters in Matthäus 13, wo die Engel sowohl Weizen als auch Unkraut „am Ende der Welt" einsammeln.
 

@@ -190,7 +190,7 @@ Detail terakhir adalah {{% bible val="lautan kaca" link="rev:4,6" lang="ind" %}}
 - {{% bible val="penyeberangan Laut Merah oleh bangsa Israel pada masa keluarnya mereka dari Mesir" link="exo:15,8" lang="ind" %}},
 - lautan tembaga di Bait Suci Salomo ({{% bible val="pembuatannya" link="1ki:7,23-26" lang="ind" %}}).
 
-Laut juga adalah {{% bible val="tempat kejahatan" link="psa:74,10-17" lang="ind" %}} dan dikaitkan dengan {{% bible val="orang-orang jahat" link="isa:57,20" lang="ind" %}} - sehingga lautan kaca ini adalah gambaran kejahatan yang telah membeku.
+Laut juga adalah {{% bible val="tempat kejahatan" link="psa:74,9-17" lang="ind" %}} dan dikaitkan dengan {{% bible val="orang-orang jahat" link="isa:57,20" lang="ind" %}} - sehingga lautan kaca ini adalah gambaran kejahatan yang telah membeku.
 
 Jika digabungkan, lautan kaca ini menandakan bahwa Allah dekat dengan umat-Nya dan melindungi mereka. Orang-orang kudus akan tetap hadir selama malapetaka-malapetaka itu berlangsung, tetapi Allah akan menyertai mereka dan melindungi mereka melewatinya.
 

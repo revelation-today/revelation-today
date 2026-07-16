@@ -23,7 +23,7 @@ Kunci untuk memahami sang naga dan kedua binatang itu adalah mengingat bahwa {{%
 Kedua binatang yang keluar dari laut dan dari bumi itu didasarkan pada:
 
 - {{% bible val="Behemot" link="job:40,15-24" lang="ind" %}}, binatang dari bumi, yang hanya {{% bible val="Allah, penciptanya, yang dapat mendekatinya dengan pedang" link="job:40,19" lang="ind" %}} dan sama-sama {{% bible val="dilukai dengan pedang dalam Kitab Wahyu" link="rev:13,14" lang="ind" %}}, dan
-- {{% bible val="Lewiatan" link="job:41" lang="ind" %}}, binatang dari laut, yang {{% bible val="dari mulutnya keluar nyala api" link="job:41,19" lang="ind" %}}.
+- {{% bible val="Lewiatan" link="job:41" lang="ind" %}}, binatang dari laut, yang {{% bible val="dari mulutnya keluar nyala api" link="job:41,18-19" lang="ind" %}}.
 
 Kedua binatang ini {{% bible val="ditundukkan oleh Allah" link="job:7,12" lang="ind" %}}, dan Perjanjian Lama — termasuk kitab {{% bible val="Yesaya" link="isa:27,1" lang="ind" %}} — mengharapkan Allah untuk mengalahkan Lewiatan sepenuhnya pada akhir zaman; tradisi Yahudi yang lebih belakangan (2 Barukh 29, 4 Ezra 6) memperluas nasib yang sama kepada Behemot.
 

@@ -39,7 +39,7 @@ Sesudah itu, {{% bible val="Allah memerintahkan Musa untuk memusnahkan orang Mid
 
 Apakah Musa gagal menganggap ini serius? Sepertinya {{% bible val="tidak" link="exo:32,19" lang="ind" %}}; mungkin ia hanya lebih ragu-ragu, mengingat bagaimana ia harus memperlakukan bangsa mertuanya.
 
-Meski begitu, butuh waktu lama sebelum {{% bible val="Israel akhirnya memerangi orang Midian" link="num:31" lang="ind" %}} — {{% bible val="tindakan terakhir Musa sebelum kematiannya" link="num:31,2" lang="ind" %}}. Israel membunuh semua {{% bible val="laki-laki" link="num:31,2" lang="ind" %}} Midian dan {{% bible val="perempuan" link="num:31,15-17" lang="ind" %}} yang telah menyesatkan mereka.
+Meski begitu, butuh waktu lama sebelum {{% bible val="Israel akhirnya memerangi orang Midian" link="num:31" lang="ind" %}} — {{% bible val="tindakan terakhir Musa sebelum kematiannya" link="num:31,1-2" lang="ind" %}}. Israel membunuh semua {{% bible val="laki-laki" link="num:31,1-2" lang="ind" %}} Midian dan {{% bible val="perempuan" link="num:31,15-17" lang="ind" %}} yang telah menyesatkan mereka.
 
 Tetapi ada kejutan yang menanti dalam kisah ini: {{% bible val="Bileam termasuk di antara mereka yang dibunuh — ia ternyata tetap tinggal bersama orang Midian selama ini" link="num:31,8" lang="ind" %}}.
 

@@ -24,7 +24,7 @@ Vahiy kitabı, yedi belirli kiliseye gönderilen yedi mektup içerir. Bu mektupl
 <a name="12bf"></a>
 Mektupları yazmadan önce Yuhanna, {{% int_link val="Tanrı'nın kilise için vizyonunun" link="/expl/content/vision/the-vision" %}} nasıl olduğunu kaydeder. Mesaj şudur: yıldızlar ve kandillikler olarak resmedilen Kilise'nin ışık olması amaçlanmıştır — kandillikler Kilise'nin içinde ışık verir, yıldızlar dünyaya ışık verir — ama bunu ancak İsa'ya bağımlı olarak yapabilir, hiçbir zaman O'ndan bağımsız değil. Yedi kilisenin yargılandığı ölçüt tam olarak budur.
 
-Bu bölümün başında {{% bible val="İsa'nın ne yaptığını" link="rev:1,5-6" lang="tr" %}} zaten görmüştük. Şimdi kiliselerin gerçekte içinde bulunduğu duruma, ve Tanrı'nın onları o vizyonun tarif ettiği çağrıya doğru ilerletmek için ne yaptığına dönüyoruz.
+Bu bölümün başında {{% bible val="İsa'nın ne yaptığını" link="rev:1,4-6" lang="tr" %}} zaten görmüştük. Şimdi kiliselerin gerçekte içinde bulunduğu duruma, ve Tanrı'nın onları o vizyonun tarif ettiği çağrıya doğru ilerletmek için ne yaptığına dönüyoruz.
 
 ## Neden bu yedisi, bu sırayla
 

@@ -908,4 +908,4 @@ docType: expl
 | {{% bible val="Revelation:22,15" link="rev:22,15" lang="en" %}} | ["Ready for the second death": at the very end](/expl/content/paradise/the-new-jerusalem#0819) |
 | {{% bible val="Revelation:22,16" link="rev:22,16" lang="en" %}} | ["The solution": is the morning star](/expl/content/letters/the-letter-to-the-church-in-thyatira#09f8) |
 | {{% bible val="Revelation:22,21" link="rev:22,21" lang="en" %}} | ["A letter {#letter}": the formal ending](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
-| {{% bible val="Revelation:23,6" link="rev:23,6" lang="en" %}} | ["The Harlot": Rev.23/26](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
+| {{% bible val="Revelation:23,6" link="rev:22,6" lang="en" %}} | ["The Harlot": Rev.23/26](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |

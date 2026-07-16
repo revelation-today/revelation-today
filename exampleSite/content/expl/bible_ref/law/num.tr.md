@@ -27,7 +27,7 @@ Bu kitapta kullanılan 23 Kutsal Kitap pasajı vardır
 | {{% bible val="Çölde Sayım:25,8-9" link="num:25,8-9" lang="tr" %}} | ["Baal-Peor ile ilgili durum": Bunun sonucunda İsrailliler’den yaklaşık 24.000 kişi veba salgınında ölür](/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Çölde Sayım:25,16-18" link="num:25,16-18" lang="tr" %}} | ["Baal-Peor ile ilgili durum": Bunun sonucunda Tanrı Mose’ye Midyanlıları yok etmesini buyurur.](/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Çölde Sayım:31" link="num:31,-1" lang="tr" %}} | ["Baal-Peor ile ilgili durum": Ancak İsrail’in Midyanlılar’a karşı savaşması (ölmeden önceki son eylemi) ](/expl/bible/keyword/the-story-of-balaam#ce04) |
-| {{% bible val="Çölde Sayım:31,2" link="num:31,2" lang="tr" %}} | ["Baal-Peor ile ilgili durum": erkek](/expl/bible/keyword/the-story-of-balaam#ce04) |
+| {{% bible val="Çölde Sayım:31,2" link="num:31,1-2" lang="tr" %}} | ["Baal-Peor ile ilgili durum": erkek](/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Çölde Sayım:31,8" link="num:31,8" lang="tr" %}} | ["Baal-Peor ile ilgili durum": Balam öldürülenlerden biridir, Midyanlılar’la birlikte kalır.](/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Çölde Sayım:31,15-17" link="num:31,15-17" lang="tr" %}} | ["Baal-Peor ile ilgili durum": kadınları](/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Çölde Sayım:36" link="num:36,-1" lang="tr" %}} | ["Ataerkil": Kadınların yasalara göre miras almalarına izin verilmiş](/expl/background/israel/the-role-of-family-in-the-bible#3a5d) |

@@ -9,7 +9,7 @@ Bu kitapta kullanılan 20 Kutsal Kitap pasajı vardır
 | Ayet | Referans |
 |-------|-----------|
 | {{% bible val="Luka:2" link="luk:2,-1" lang="tr" %}} | [""Farklı bir Noel hikayesi"": Luka](/expl/content/jesus/a-different-christmas-story#None) |
-| {{% bible val="Luka:2,32" link="luk:2,32" lang="tr" %}} | ["Bakanlık": (Lk.2/32)](/expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Luka:2,32" link="luk:2,30-32" lang="tr" %}} | ["Bakanlık": (Lk.2/32)](/expl/background/israel/the-church-is-part-of-israel#d3e5) |
 | {{% bible val="Luka:3,1" link="luk:3,1" lang="tr" %}} | ["İsa’nın hikayesi": 27](/expl/bible/daniel/the-70-year-weeks#f724) |
 | {{% bible val="Luka:3,4-6" link="luk:3,4-6" lang="tr" %}} | ["Luka’daki yeni Çıkış": “Peygamber Yeşaya’nın sözlerinin yazılı olduğu kitapta denildiği gibi: ‘Çölde bir ses şöyle sesleniyor: “Rab’bin yolunu hazırlayın, O’na düz yollar açın. Her vadi doldurulacak, her dağ ve tepe alçaltılacak. Eğri büğrü yollar düzleşecek, engebeli yollar pürüzsüzleşecek. Ve bütün insanlar Tanrı’nın kurtuluşunu görecek.” ‘“](/expl/background/israel/the-second-exodus#bfa6) |
 | {{% bible val="Luka:4,1-13" link="luk:4,1-13" lang="tr" %}} | ["Meydan okuma": İsa’nın çölde 40 gün süren ayartılmaları](/expl/background/israel/jesus-and-the-covenant#1481) |

@@ -15,7 +15,7 @@ Kedengarannya aneh pada mulanya. Bukankah gereja lebih besar daripada Israel? At
 ## Rahasia Bangsa-Bangsa Lain
 
 <a name="56b8"></a>
-Dalam suratnya kepada jemaat di Efesus, Paulus menulis: "{{% bible val="yaitu, bahwa kepadaku telah dinyatakan rahasia itu dengan wahyu, seperti yang telah kutulis di atas dengan singkat. Karena itu, jika kamu membacanya, kamu dapat mengetahui, betapa aku menyadari rahasia Kristus itu, rahasia yang pada zaman angkatan-angkatan dahulu tidak diberitahukan kepada anak-anak manusia, tetapi yang sekarang telah dinyatakan dalam Roh kepada rasul-rasul-Nya yang kudus dan kepada nabi-nabi-Nya, yaitu, bahwa orang-orang bukan Yahudi, telah turut menjadi ahli waris, dan anggota tubuh, dan peserta dalam janji yang diberikan dalam Kristus Yesus melalui Injil" link="eph:3,3-6" lang="ind" %}}"
+Dalam suratnya kepada jemaat di Efesus, Paulus menulis: "{{% bible val="yaitu, bahwa kepadaku telah dinyatakan rahasia itu dengan wahyu, seperti yang telah kutulis di atas dengan singkat. Karena itu, jika kamu membacanya, kamu dapat mengetahui, betapa aku menyadari rahasia Kristus itu, rahasia yang pada zaman angkatan-angkatan dahulu tidak diberitahukan kepada anak-anak manusia, tetapi yang sekarang telah dinyatakan dalam Roh kepada rasul-rasul-Nya yang kudus dan kepada nabi-nabi-Nya, yaitu, bahwa orang-orang bukan Yahudi, telah turut menjadi ahli waris, dan anggota tubuh, dan peserta dalam janji yang diberikan dalam Kristus Yesus melalui Injil" link="eph:3,2-6" lang="ind" %}}"
 
 "Rahasia" di sini bukanlah sebuah misteri yang tersembunyi, melainkan sebuah tindakan Allah yang hampir tak terpercaya: bangsa-bangsa lain kini berbagi warisan yang sama, tubuh yang sama, dan janji yang sama dengan Israel. Mereka disatukan di dalam Kristus, yang sendirinya merupakan {{% bible val="penggenapan dari Yesaya" link="isa:57,19" lang="ind" %}}.
 
@@ -30,7 +30,7 @@ Banyak istilah yang digunakan Perjanjian Lama untuk Israel kini diterapkan kepad
 
 Kita menemukan istilah yang sama lagi ketika {{% bible val="Paulus mengatakan kepada jemaat Tesalonika bahwa mereka telah dipilih" link="1th:1,4" lang="ind" %}}. Menariknya, di sini ia juga menggunakan kata "ekklesia" — istilah yang sama yang dipakai Perjanjian Lama untuk Israel yang berkumpul untuk menyembah Allah.
 
-Dalam {{% bible val="surat kepada jemaat di Roma" link="rom:9,25" lang="ind" %}}, Paulus mengutip bagaimana nabi {{% bible val="Hosea menyebut Israel sebagai kekasih Allah" link="hos:2,23" lang="ind" %}}, dan menerapkan sebutan yang sama itu, yang kini telah digenapi, kepada bangsa-bangsa lain.
+Dalam {{% bible val="surat kepada jemaat di Roma" link="rom:9,25" lang="ind" %}}, Paulus mengutip bagaimana nabi {{% bible val="Hosea menyebut Israel sebagai kekasih Allah" link="hos:2,22-23" lang="ind" %}}, dan menerapkan sebutan yang sama itu, yang kini telah digenapi, kepada bangsa-bangsa lain.
 
 ## Anak Allah
 
@@ -53,7 +53,7 @@ Gereja, pada gilirannya, disebut anak Allah, sama seperti Yesus adalah Anak Alla
 ## Sunat
 
 <a name="ea38"></a>
-Sunat juga {{% bible val="berasal dari Abraham" link="jhn:7,22" lang="ind" %}}. Paulus menyatakan {{% bible val="bahwa orang Yahudi yang hanya disunat secara \'lahiriah\' tetapi tidak dalam hatinya bukanlah orang Yahudi sejati" link="rom:2,26-29" lang="ind" %}}, sebuah pernyataan yang {{% bible val="ia tegaskan kembali kemudian" link="php:3,2-3" lang="ind" %}} dengan menunjukkan bahwa {{% bible val="sunat yang sejati hanya mungkin terjadi di dalam Kristus" link="php:3,2-3" lang="ind" %}}.
+Sunat juga {{% bible val="berasal dari Abraham" link="jhn:7,21-22" lang="ind" %}}. Paulus menyatakan {{% bible val="bahwa orang Yahudi yang hanya disunat secara \'lahiriah\' tetapi tidak dalam hatinya bukanlah orang Yahudi sejati" link="rom:2,26-29" lang="ind" %}}, sebuah pernyataan yang {{% bible val="ia tegaskan kembali kemudian" link="php:3,2-3" lang="ind" %}} dengan menunjukkan bahwa {{% bible val="sunat yang sejati hanya mungkin terjadi di dalam Kristus" link="php:3,2-3" lang="ind" %}}.
 
 ## Bait Allah
 

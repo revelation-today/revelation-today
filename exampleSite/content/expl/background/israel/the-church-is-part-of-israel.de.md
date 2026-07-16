@@ -41,7 +41,7 @@ Israel wird im Alten Testament wiederholt Gottes Sohn genannt:
 - {{% bible val="in den Anweisungen, wie sich das Volk selbst behandeln soll" link="deu:14,1" lang="de" %}},
 - {{% bible val="als Israel vergessen hatte, dass Gott sein Vater ist" link="isa:1,2-4" lang="de" %}},
 - {{% bible val="als Bestätigung, wie Gott für seine Kinder sorgt" link="isa:63,8" lang="de" %}},
-- {{% bible val="als Israel eine Zukunft als erwachsene Kinder Gottes verheißen wird" link="hos:1,10" lang="de" %}},
+- {{% bible val="als Israel eine Zukunft als erwachsene Kinder Gottes verheißen wird" link="hos:1,9-10" lang="de" %}},
 - {{% bible val="wenn Gott sich an den Auszug erinnert" link="hos:11,1" lang="de" %}},
 - {{% bible val="als Israels Stamm Ephraim Erstgeborener genannt wird" link="jer:31,9" lang="de" %}},
 - und {{% bible val="als Erstgeborener in Davids Linie bezeichnet" link="psa:89,27" lang="de" %}}.
@@ -110,7 +110,7 @@ Der Ausdruck „eifrig, Gutes zu tun“ ist ein Ruf an Israel, Gott gehorsam zu 
 ## Ausgießung des Geistes
 
 <a name="e989"></a>
-Du kennst vielleicht schon die {{% bible val="Prophetie Joels" link="jol:2,28-32" lang="de" %}} über die Ausgießung des Geistes, die sich {{% bible val="an Pfingsten erfüllt" link="act:2,16-21" lang="de" %}}. Doch schaut man genauer auf den Zusammenhang, zeigt sich ein wichtiger Punkt.
+Du kennst vielleicht schon die {{% bible val="Prophetie Joels" link="jol:2,27-32" lang="de" %}} über die Ausgießung des Geistes, die sich {{% bible val="an Pfingsten erfüllt" link="act:2,16-21" lang="de" %}}. Doch schaut man genauer auf den Zusammenhang, zeigt sich ein wichtiger Punkt.
 
 Joels Prophetie beschreibt die Wiederherstellung Israels ab {{% bible val="Vers 18" link="jol:2,18" lang="de" %}} und besonders ab dem {{% bible val="darauffolgenden Vers, der ausdrücklich von Israel spricht" link="jol:3,1" lang="de" %}}. Mehr noch: Die Ausgießung des Geistes war nur {{% bible val="Israel" link="ezk:36,27" lang="de" %}} und dem {{% bible val="Knecht" link="isa:42,1" lang="de" %}} verheißen — niemals direkt den Nationen.
 

@@ -58,12 +58,12 @@ Setelah ditelusuri, kata dasarnya adalah "[harpazo](https://biblehub.com/greek/7
 - {{% bible val="seseorang diangkat dalam roh ke tingkat surga yang ketiga" link="2co:12,2" lang="ind" %}},
 - {{% bible val="seseorang diangkat dalam roh ke firdaus" link="2co:12,4" lang="ind" %}},
 - {{% bible val="orang-orang percaya diangkat ke awan-awan bersama orang-orang yang telah meninggal" link="1th:4,17" lang="ind" %}},
-- {{% bible val="orang-orang percaya diselamatkan dari api" link="jud:23" lang="ind" %}},
+- {{% bible val="orang-orang percaya diselamatkan dari api" link="jud:1,23" lang="ind" %}},
 - {{% bible val="sang anak diselamatkan dari naga itu" link="rev:12,5" lang="ind" %}}.
 
 Maknanya sangat beragam, tetapi semuanya memiliki satu kesamaan: dalam setiap kasus, objek dari kata kerja itu mengalami sesuatu yang tidak disengaja olehnya sendiri — ia diselamatkan, direnggut dari sebuah tangan, dicuri, atau dibawa pergi — dan tidak satu pun dari makna-makna ini menggambarkan sebuah kenaikan fisik ke surga.
 
-Namun, kata yang sebenarnya menggambarkan *tindakan* menyongsong Yesus dalam ayat 17 adalah kata yang berbeda: [apantesis](https://biblehub.com/greek/529.htm), yang hanya muncul di dua tempat lain dalam Perjanjian Baru — {{% bible val="pada kedatangan sang mempelai laki-laki" link="mat:25,6" lang="ind" %}} dan {{% bible val="penyambutan yang diberikan kepada Paulus di Roma" link="act:28,15" lang="ind" %}}. Dalam kedua kasus itu, orang-orang keluar untuk menyambut sosok yang datang, lalu berbalik dan mengiringinya kembali menempuh jalan yang telah ia lalui. [Penggunaan kata ini](https://biblehub.com/greek/529.htm) mencerminkan kebiasaan menyambut seorang tamu penting di luar kota lalu mengantarnya masuk. Diterapkan di sini, arah perjalanan Yesus jelas menuju ke bawah, ke arah bumi, bukan kembali naik ke surga.
+Namun, kata yang sebenarnya menggambarkan *tindakan* menyongsong Yesus dalam ayat 17 adalah kata yang berbeda: [apantesis](https://biblehub.com/greek/529.htm), yang hanya muncul di dua tempat lain dalam Perjanjian Baru — {{% bible val="pada kedatangan sang mempelai laki-laki" link="mat:25,5-6" lang="ind" %}} dan {{% bible val="penyambutan yang diberikan kepada Paulus di Roma" link="act:28,15" lang="ind" %}}. Dalam kedua kasus itu, orang-orang keluar untuk menyambut sosok yang datang, lalu berbalik dan mengiringinya kembali menempuh jalan yang telah ia lalui. [Penggunaan kata ini](https://biblehub.com/greek/529.htm) mencerminkan kebiasaan menyambut seorang tamu penting di luar kota lalu mengantarnya masuk. Diterapkan di sini, arah perjalanan Yesus jelas menuju ke bawah, ke arah bumi, bukan kembali naik ke surga.
 
 ### Ayat-Ayat Pendukung
 

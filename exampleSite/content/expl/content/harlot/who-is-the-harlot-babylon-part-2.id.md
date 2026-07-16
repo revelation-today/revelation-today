@@ -29,8 +29,8 @@ Model bagi sang pelacur dalam {{% bible val="kitab Wahyu" link="rev:17" lang="in
 - {{% bible val="Namun para kekasihnya menghinanya dan ingin membunuhnya" link="jer:4,30" lang="ind" %}}.
 
 Namun dalam pasal {{% bible val="17" link="rev:17,4" lang="ind" %}} dan {{% bible val="18" link="rev:18,16" lang="ind" %}}, sang pelacur dalam kitab Wahyu berpakaian dengan bahan-bahan yang menggemakan pakaian Imam Besar dalam Perjanjian Lama:
-- {{% bible val="persembahan untuk kemah suci" link="exo:25,3-7" lang="ind" %}}
-- {{% bible val="efod (pakaian luar Imam Besar)" link="exo:28,6-14" lang="ind" %}}
+- {{% bible val="persembahan untuk kemah suci" link="exo:25,1-7" lang="ind" %}}
+- {{% bible val="efod (pakaian luar Imam Besar)" link="exo:28,5-14" lang="ind" %}}
 - {{% bible val="tutup dada" link="exo:28,15-20" lang="ind" %}}
 - {{% bible val="tetapi juga di dalam bait suci" link="2ch:2,13-14" lang="ind" %}}
 
@@ -42,7 +42,7 @@ Kitab Yehezkiel memberikan gambaran yang sama dari sudut lain, di mana Allah men
 
 Ini bukan gambaran yang berdiri sendiri — beberapa kota dalam Perjanjian Lama digambarkan dengan cara yang sama:
 - Tirus {{% bible val="membuat perjanjian politik dengan Salomo" link="1ki:5,12" lang="ind" %}} yang membantu pembangunan bait suci, namun kemudian {{% bible val="dipanggil untuk dihakimi karena menjual orang-orang Yahudi ke dalam perbudakan" link="amo:1,9" lang="ind" %}} dan {{% bible val="disebut sebagai pelacur" link="isa:23,15-18" lang="ind" %}}.
-- Niniwe {{% bible val="merendahkan dirinya di hadapan TUHAN, dan Ia berbelas kasihan kepada mereka" link="jon:3,5-10" lang="ind" %}}, namun {{% bible val="kemudian kota itu dihakimi karena menjadi pelacur" link="nam:3,4-7" lang="ind" %}}.
+- Niniwe {{% bible val="merendahkan dirinya di hadapan TUHAN, dan Ia berbelas kasihan kepada mereka" link="jon:3,4-10" lang="ind" %}}, namun {{% bible val="kemudian kota itu dihakimi karena menjadi pelacur" link="nam:3,4-7" lang="ind" %}}.
 - Israel memiliki perjanjian dengan Allah tetapi begitu sering mengkhianatinya sehingga ia pun {{% bible val="disebut sebagai pelacur" link="ezk:16,15-41" lang="ind" %}}; dalam kitab Yehezkiel, secara khusus ketergantungan politik dan ekonomi Israel kepada bangsa-bangsa lain, beserta penyembahan berhala yang menyertainya, itulah yang membuatnya layak menyandang sebutan itu.
 
 Pola yang muncul di sini konsisten: sang pelacur adalah gambaran dari hubungan dengan Allah yang dahulu ada, namun kini telah berpaling kepada penyembahan berhala. Itulah peringatan bagi gereja — jangan biarkan dirimu dijadikan pelacur oleh dunia, seperti {{% bible val="Pergamus melalui Bileam" link="rev:2,14" lang="ind" %}} atau {{% bible val="Tiatira melalui Izebel" link="rev:2,20-22" lang="ind" %}}.

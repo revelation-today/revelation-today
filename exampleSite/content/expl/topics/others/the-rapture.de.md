@@ -58,7 +58,7 @@ Gräbt man nach, findet man das zugrunde liegende Wort „[harpazo](https://bibl
 - {{% bible val="jemand wird im Geist in den dritten Himmel entrückt" link="2co:12,2" lang="de" %}},
 - {{% bible val="jemand wird im Geist ins Paradies entrückt" link="2co:12,4" lang="de" %}},
 - {{% bible val="Gläubige werden zusammen mit den Toten in die Wolken entrückt" link="1th:4,17" lang="de" %}},
-- {{% bible val="Gläubige werden aus dem Feuer gerettet" link="jud:23" lang="de" %}},
+- {{% bible val="Gläubige werden aus dem Feuer gerettet" link="jud:1,23" lang="de" %}},
 - {{% bible val="das Kind wird vor dem Drachen gerettet" link="rev:12,5" lang="de" %}}.
 
 Die Bedeutungen reichen weit auseinander, aber eines haben sie gemeinsam: In jedem Fall widerfährt dem Objekt des Verbs etwas Unfreiwilliges — es wird gerettet, aus einer Hand gerissen, gestohlen oder fortgetragen —, und keine dieser Bedeutungen beschreibt einen physischen Aufstieg in den Himmel.

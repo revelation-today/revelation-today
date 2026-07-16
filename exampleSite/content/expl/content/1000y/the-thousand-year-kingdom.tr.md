@@ -130,7 +130,7 @@ Peki bu, sadece imanları uğruna gerçekten ölen insanların hükmedeceği anl
 - {{% bible val="canlarını (onu o kadar değerli görmeyecek kadar) sevmeyen galip gelenler" link="rev:12,10" lang="tr" %}},
 - {{% bible val="ölüm karşısında sadık kalanlar" link="rev:2,10" lang="tr" %}},
 - {{% bible val="İsa'ya sadık kalanlar" link="rev:14,1-5" lang="tr" %}},
-- ve {{% bible val="krallar ve kâhinler olarak adlandırılan hepimiz" link="rev:1,6" lang="tr" %}}, {{% bible val="egemenlik sürenler" link="rev:5,9-10" lang="tr" %}}.
+- ve {{% bible val="krallar ve kâhinler olarak adlandırılan hepimiz" link="rev:1,4-6" lang="tr" %}}, {{% bible val="egemenlik sürenler" link="rev:5,9-10" lang="tr" %}}.
 
 Yani egemenlik, bu sadakatin bedeli ister canları, ister {{% bible val="ekonomik ya da sosyal baskı" link="rev:13,15-17" lang="tr" %}} gibi daha küçük bir şey olsun, Tanrı'ya sadık kalan herkese aittir.
 

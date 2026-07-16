@@ -24,7 +24,7 @@ Kutsal Kitap bu sistemi keskin biçimde eleştirir, çünkü bu sistem arkasınd
 Tanrı'nın ayrıca önemli kişileri — hem de kralları — tam olarak kültürün göz ardı edeceği ailelerden seçme alışkanlığı vardır:
 
 - {{% bible val="önemsiz aileler" link="rut:4,16-17" lang="tr" %}}: Rut yarı Moavlıydı, yine de Kral Davut'un büyükannesi oldu.
-- yabancılar ({{% bible val="İsa'nın soy ağacındaki üç yabancı kadına bakın" link="mat:1,2-16" lang="tr" %}}): {{% bible val="Kenanlı Tamar" link="gen:38" lang="tr" %}}, {{% bible val="yarı Moavlı Rut" link="rut:1,1-4" lang="tr" %}} ve bir Hititli'nin karısı olan {{% bible val="Batşeba" link="2sa:11,3" lang="tr" %}}.
+- yabancılar ({{% bible val="İsa'nın soy ağacındaki üç yabancı kadına bakın" link="mat:1,1-16" lang="tr" %}}): {{% bible val="Kenanlı Tamar" link="gen:38" lang="tr" %}}, {{% bible val="yarı Moavlı Rut" link="rut:1,1-4" lang="tr" %}} ve bir Hititli'nin karısı olan {{% bible val="Batşeba" link="2sa:11,3" lang="tr" %}}.
 
 Kutsal Kitap ayrıca kurtarıcının rolüne de ağırlık verir — {{% bible val="başı dertte olan bir akrabayı kurtarması gereken en yakın akraba" link="lev:25,47-49" lang="tr" %}}. Bu kişi, en yakın akrabalarından biri ciddi bir zorlukla karşılaştığında devreye girmekle yükümlüydü: {{% bible val="esaretten kurtarmak" link="gen:14" lang="tr" %}}, birini köleliğinden kurtarmak için ödeme yapmak, satılmış {{% bible val="bir mülkü geri satın almak" link="lev:25,25-26" lang="tr" %}} ya da beladan {{% bible val="kurtarmak için biriyle evlenmek" link="rut:4" lang="tr" %}} ve {{% bible val="dul bir kadın için soy sağlamak" link="gen:38,8" lang="tr" %}}.
 

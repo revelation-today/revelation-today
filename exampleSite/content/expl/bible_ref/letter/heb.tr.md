@@ -10,7 +10,7 @@ Bu kitapta kullanılan 12 Kutsal Kitap pasajı vardır
 |-------|-----------|
 | {{% bible val="İbraniler:1,8" link="heb:1,8" lang="tr" %}} | ["İlk atlının gizemi": İsa’ya işaret eden Mesihçi bir tasvir olarak yorumlanır](/expl/content/seals/the-mystery-of-the-four-horse-men#dba7) |
 | {{% bible val="İbraniler:2,11" link="heb:2,11" lang="tr" %}} | ["Tanrı’nın oğlu": hepimiz onun tarafından](/expl/background/israel/the-church-is-part-of-israel#bb1b) |
-| {{% bible val="İbraniler:6,5" link="heb:6,5" lang="tr" %}} | ["İsrail’in hikayesi": Ancak gelecek çağın gücü zaten mevcuttur](/appl/topics/hero/who-rules-the-world#3370) |
+| {{% bible val="İbraniler:6,5" link="heb:6,4-5" lang="tr" %}} | ["İsrail’in hikayesi": Ancak gelecek çağın gücü zaten mevcuttur](/appl/topics/hero/who-rules-the-world#3370) |
 | {{% bible val="İbraniler:6,20" link="heb:6,20" lang="tr" %}} | ["İki yönlü saldırı": Ibr.6/20](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="İbraniler:7,11-28" link="heb:7,11-28" lang="tr" %}} | ["Vizyon": İsa aynı zamanda bir kâhin rolüne sahip olduğu için](/expl/content/vision/the-vision#727c) |
 | {{% bible val="İbraniler:8,1-2" link="heb:8,1-2" lang="tr" %}} | ["Tarih boyunca birkaç adım": göksel kutsal alanın temizlenmesine atıfta bulunduğunu düşündü](/expl/topics/others/dispensionalism-a-little-history#abac) |

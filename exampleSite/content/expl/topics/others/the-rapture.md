@@ -58,7 +58,7 @@ Digging in, the underlying word is "[harpazo](https://biblehub.com/greek/726.htm
 - {{% bible val="someone is caught up in the Spirit to the third heaven" link="2co:12,2" lang="en" %}},
 - {{% bible val="someone is caught up in the Spirit to Paradise" link="2co:12,4" lang="en" %}},
 - {{% bible val="believers are caught up into the clouds with the dead" link="1th:4,17" lang="en" %}},
-- {{% bible val="believers are saved from fire" link="jud:23" lang="en" %}},
+- {{% bible val="believers are saved from fire" link="jud:1,23" lang="en" %}},
 - {{% bible val="the child is saved from the dragon" link="rev:12,5" lang="en" %}}.
 
 The meanings vary widely, but they share one thing in common: in every case, the object of the verb has something involuntary done to it — it is saved, snatched from a hand, stolen, or carried off — and none of these describes a physical ascension into heaven.

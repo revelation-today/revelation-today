@@ -8,7 +8,7 @@ Bu kitapta kullanılan 60 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
-| {{% bible val="Matta:1,2-16" link="mat:1,2-16" lang="tr" %}} | ["Ailenin önemi": İsa’nın soy ağacındaki üç yabancı kadına bakın](/expl/background/israel/the-role-of-family-in-the-bible#524d) |
+| {{% bible val="Matta:1,2-16" link="mat:1,1-16" lang="tr" %}} | ["Ailenin önemi": İsa’nın soy ağacındaki üç yabancı kadına bakın](/expl/background/israel/the-role-of-family-in-the-bible#524d) |
 | {{% bible val="Matta:1,5" link="mat:1,5" lang="tr" %}} | ["Yahudi olmayanlar İsrail’in bir parçası olur": dahil](/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Matta:1,5" link="mat:1,5" lang="tr" %}} | ["Yahudi olmayanlar İsrail’in bir parçası olur": İsa](/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Matta:1,18-24" link="mat:1,18-24" lang="tr" %}} | ["Kadın": Meryem elbette İsa’yı doğurduğu için](/expl/content/jesus/a-different-christmas-story#8384) |
@@ -53,7 +53,7 @@ Bu kitapta kullanılan 60 Kutsal Kitap pasajı vardır
 | {{% bible val="Matta:18" link="mat:18,-1" lang="tr" %}} | [""Secara harfiah atau simbolis"": cungkillah mata kita jika ia menyebabkan kita berbuat dosa](/quick/background/literature/#None) |
 | {{% bible val="Matta:20,25-28" link="mat:20,25-28" lang="tr" %}} | ["Daha fazlası var": kendimize Tanrı’nın krallığında hüküm ](/expl/bible/daniel/the-four-kingdoms-in-daniel#38f8) |
 | {{% bible val="Matta:21,33-45" link="mat:21,33-45" lang="tr" %}} | ["İsa’nın öğretileri": Ancak İsa bu benzetmeyi, kendisini reddetmeleri halinde İsrail’i tamamen yok etme yargısıyla birlikte yeniden kullanır.](/expl/background/israel/jesus-and-the-covenant#9f5f) |
-| {{% bible val="Matta:22,36-39" link="mat:22,36-39" lang="tr" %}} | ["Karanlık taraf": Sevgi daha yüksek bir iyi olduğu için](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad) |
+| {{% bible val="Matta:22,36-39" link="mat:22,35-39" lang="tr" %}} | ["Karanlık taraf": Sevgi daha yüksek bir iyi olduğu için](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad) |
 | {{% bible val="Matta:23,15" link="mat:23,15" lang="tr" %}} | ["İsrail’in kökeni ve amacı": Ancak bu o kadar uzağa ulaşmadı.](/appl/background/israel/#ce07) |
 | {{% bible val="Matta:24" link="mat:24,-1" lang="tr" %}} | ["Bir kıyamet {#apocalypse}": Mt.24](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Matta:24" link="mat:24,-1" lang="tr" %}} | ["Zeytin ağacına bakış açısı": 24](/expl/topics/others/the-rapture#e1d2) |

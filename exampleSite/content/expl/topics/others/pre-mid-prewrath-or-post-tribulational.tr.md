@@ -45,7 +45,7 @@ Kilise, gelecekteki yedi yıllık sıkıntının herhangi bir kısmı başlamada
 ## Midtribülasyonist
 
 <a name="mt2b"></a>
-Göğe alınma, yedi yılın tam ortasında, {{% bible val="yedinci borazanla" link="rev:11,15" lang="tr" %}} ve {{% bible val="'son borazanla'" link="1co:15,52" lang="tr" %}} ilişkilendirilerek gerçekleşir; böylece kilise ilk, daha hafif yarıyı — canavarın zulmünü — atlatır, ama Tanrı'nın kendi gazabının kâselerde döküldüğü ikinci yarıdan önce kaldırılır.
+Göğe alınma, yedi yılın tam ortasında, {{% bible val="yedinci borazanla" link="rev:11,15" lang="tr" %}} ve {{% bible val="'son borazanla'" link="1co:15,51-52" lang="tr" %}} ilişkilendirilerek gerçekleşir; böylece kilise ilk, daha hafif yarıyı — canavarın zulmünü — atlatır, ama Tanrı'nın kendi gazabının kâselerde döküldüğü ikinci yarıdan önce kaldırılır.
 
 **Lehinde olan:**
 

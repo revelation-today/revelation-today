@@ -107,7 +107,7 @@ Di sinilah keadaan menjadi serius: {{% bible val="Allah menyerang dengan seluruh
 ### {{% bible val="8, Belalang" link="exo:10,1-20" lang="ind" %}}
 
 <a name="ae09"></a>
-{{% bible val="Belalang datang dan menghancurkan segala sesuatu yang masih tersisa dari hujan es" link="exo:10,5" lang="ind" %}}. Kali ini, {{% bible val="para pejabat Firaun sendiri memohon kepadanya untuk melakukan apa yang diinginkan Musa" link="exo:10,7" lang="ind" %}} — tetapi ia tetap menolak membiarkan umat itu pergi, bahkan ketika {{% bible val="tulah-tulah terus berlanjut dan Firaun mengakui dosanya" link="exo:10,16-17" lang="ind" %}}.
+{{% bible val="Belalang datang dan menghancurkan segala sesuatu yang masih tersisa dari hujan es" link="exo:10,4-5" lang="ind" %}}. Kali ini, {{% bible val="para pejabat Firaun sendiri memohon kepadanya untuk melakukan apa yang diinginkan Musa" link="exo:10,7" lang="ind" %}} — tetapi ia tetap menolak membiarkan umat itu pergi, bahkan ketika {{% bible val="tulah-tulah terus berlanjut dan Firaun mengakui dosanya" link="exo:10,16-17" lang="ind" %}}.
 
 Orang Mesir sebenarnya sudah dipermalukan oleh hujan es, karena ada seorang dewa yang satu-satunya tugasnya adalah melindungi dari belalang, ditambah lagi jimat-jimat belalang khusus yang dimaksudkan untuk tujuan yang sama — tidak satu pun dari semua itu berhasil.
 

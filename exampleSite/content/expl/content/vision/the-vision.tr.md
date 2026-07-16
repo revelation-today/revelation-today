@@ -44,7 +44,7 @@ Yuhanna yere yığılır, tıpkı {{% bible val="Daniel’in görümlerinin" lin
 ## Yorum
 
 <a name="1a72"></a>
-İsa, {{% bible val="bölümün başında" link="rev:1,5" lang="tr" %}} gördüğümüz tüm ifadeleri doğrular.
+İsa, {{% bible val="bölümün başında" link="rev:1,4-5" lang="tr" %}} gördüğümüz tüm ifadeleri doğrular.
 
 Son olarak, {{% bible val="kandilliklerin ve yıldızların gizemi çözülür" link="rev:1,20" lang="tr" %}}: bunlar {{% int_link val="kilisenin farklı betimlemelerini" link="/expl/content/letters/the-angel-of-the-churches" %}} temsil eder. Peki bu ne anlama gelir?
 

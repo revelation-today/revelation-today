@@ -17,4 +17,4 @@ Bu kitapta kullanılan 10 Kutsal Kitap pasajı vardır
 | {{% bible val="2.Korintliler:11,7" link="2co:11,7" lang="tr" %}} | ["Yaşayan su": Korintlilere Mektup’ta](/expl/content/paradise/the-new-jerusalem#34a7) |
 | {{% bible val="2.Korintliler:11,14" link="2co:11,14" lang="tr" %}} | ["Karar": aldatmayı](/expl/content/seals/the-mystery-of-the-four-horse-men#12b0) |
 | {{% bible val="2.Korintliler:12,2" link="2co:12,2" lang="tr" %}} | ["Kayıp anahtar kelimeler": Birisi Ruh’la üçüncü göğe yükseltilir.](/expl/topics/others/the-rapture#470b) |
-| {{% bible val="2.Korintliler:12,4" link="2co:12,4" lang="tr" %}} | ["Kayıp anahtar kelimeler": Birisi Ruh’la cennete götürülür.](/expl/topics/others/the-rapture#470b) |
+| {{% bible val="2.Korintliler:12,4" link="2co:12,3-4" lang="tr" %}} | ["Kayıp anahtar kelimeler": Birisi Ruh’la cennete götürülür.](/expl/topics/others/the-rapture#470b) |

@@ -51,4 +51,4 @@ Bunun yerine verilen yanıt, {{% bible val="İsa'ya tutunmak ve sadık kalmaktı
 
 Bu sahte önderlik altında dayanıp sadık kalanlara İsa kendi otoritelerini vaat eder — {{% bible val="Mezmur 2'den" link="psa:2" lang="tr" %}} alınan bir dille, demir bir asayla hükmedeceklerdir.
 
-Bununla birlikte vaat edilen {{% bible val="sabah yıldızı" link="rev:2,28" lang="tr" %}} muhtemelen, başka bir yerde {{% bible val="Sabah Yıldızı olarak adlandırılan" link="rev:22,16" lang="tr" %}} İsa'nın kendisinde bulunan {{% bible val="yeni bir umudun doğuşuna" link="2pe:1,19" lang="tr" %}} işaret eder.
+Bununla birlikte vaat edilen {{% bible val="sabah yıldızı" link="rev:2,26-28" lang="tr" %}} muhtemelen, başka bir yerde {{% bible val="Sabah Yıldızı olarak adlandırılan" link="rev:22,16" lang="tr" %}} İsa'nın kendisinde bulunan {{% bible val="yeni bir umudun doğuşuna" link="2pe:1,19" lang="tr" %}} işaret eder.

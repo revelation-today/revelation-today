@@ -130,7 +130,7 @@ Bu sahte üçlü birlik, zaman zaman özleyebileceğimiz her şeyi sunar. Ama on
 
 Kısacası canavar, Tanrı'nın durduğu her şeyin tam karşıtını temsil eder: manipülasyon, gözdağı, ceza ve insanları bir sisteme zorlamak. Ne yazık ki kilise de sık sık tam olarak bunu yapar — ve bu bölüm kiliseye bunu yapmamasını salık verir.
 
-"Daha büyük iyilik uğruna sevgi dolu eylemleri bir kenara bırakmak" diye bir şey yoktur, çünkü {{% bible val="sevginin kendisi o daha büyük iyiliktir" link="mat:22,36-39" lang="tr" %}}.
+"Daha büyük iyilik uğruna sevgi dolu eylemleri bir kenara bırakmak" diye bir şey yoktur, çünkü {{% bible val="sevginin kendisi o daha büyük iyiliktir" link="mat:22,35-39" lang="tr" %}}.
 
 ## İkinci canavarın gizemi
 

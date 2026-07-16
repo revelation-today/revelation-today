@@ -95,7 +95,7 @@ Kitab Wahyu memanfaatkan banyak unsur kenabian ini. Kitab ini:
 - mencakup {{% bible val="sebuah penglihatan yang dipasangkan dengan sebuah panggilan" link="rev:1,9-20" lang="ind" %}}, pola yang sama yang ditemukan dalam {{% bible val="Yesaya 6" link="isa:6" lang="ind" %}}.
 - merujuk pada banyak kitab nubuat Perjanjian Lama, termasuk Yesaya, Yeremia, Daniel, Zakharia, dan Yehezkiel.
 - memperingatkan para pembacanya untuk keluar dari Babel — {{% bible val="jangan biarkan kasihmu menjadi dingin" link="rev:2,4" lang="ind" %}}, {{% bible val="jangan tolerir ajaran sesat" link="rev:2,14-15" lang="ind" %}}, dan seterusnya.
-- menawarkan penghiburan: {{% bible val="umat Allah dilindungi" link="rev:7,1-4" lang="ind" %}}, {{% bible val="tidak seorang pun akan hilang" link="rev:7,5-8" lang="ind" %}}, {{% bible val="Kerajaan Allah pasti akan datang" link="rev:21" lang="ind" %}}.
+- menawarkan penghiburan: {{% bible val="umat Allah dilindungi" link="rev:7,1-4" lang="ind" %}}, {{% bible val="tidak seorang pun akan hilang" link="rev:7,4-8" lang="ind" %}}, {{% bible val="Kerajaan Allah pasti akan datang" link="rev:21" lang="ind" %}}.
 
 Tujuan nubuat adalah mengubah perilaku, dan nubuat biasanya mengandalkan gambaran yang hidup untuk memprovokasi sebuah reaksi dari para pembaca atau pendengarnya.
 

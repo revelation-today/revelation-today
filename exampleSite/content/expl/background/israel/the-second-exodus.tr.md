@@ -46,7 +46,7 @@ Her iki müjdede de "yol", Mısır'dan Çıkış'ın kendisidir: Tanrı'nın İs
 <a name="f704"></a>
 Luka, Elçilerin İşleri kitabında bu aynı "yol" ifadesine altı kez döner:
 
-- {{% bible val="Saul'un din değiştirmesi sırasında" link="act:9,2" lang="tr" %}},
+- {{% bible val="Saul'un din değiştirmesi sırasında" link="act:9,1-2" lang="tr" %}},
 - {{% bible val="Efes'te" link="act:19,9" lang="tr" %}}, hatta {{% bible val="iki kez" link="act:19,23" lang="tr" %}},
 - {{% bible val="Pavlus'un Yeruşalim'deki kalabalığa yaptığı konuşmada" link="act:22,4" lang="tr" %}},
 - ve {{% bible val="Felix'e yaptığı konuşmasında" link="act:24,14" lang="tr" %}}, orada da {{% bible val="iki kez" link="act:24,22" lang="tr" %}}.
@@ -58,13 +58,13 @@ Bunun yanında, Elçilerin İşleri, Çıkış temasını taşıyan altı ana me
 - {{% bible val="Kutsal Ruh'un gelişi" link="act:2" lang="tr" %}},
 - {{% bible val="Davut'un krallığının restorasyonu" link="act:15,13-18" lang="tr" %}},
 - {{% bible val="dışlanmışların Tanrı'nın halkına dahil edilmesi" link="act:8,28-38" lang="tr" %}},
-- ve İsrail'in ilk tövbesi — {{% bible val="Pentikost'ta" link="act:2,41-47" lang="tr" %}}, {{% bible val="ilk kilisede" link="act:5,14" lang="tr" %}}, {{% bible val="İstefanos'un seçiminde" link="act:6,1-7" lang="tr" %}} ve {{% bible val="Antakya'daki kilisede" link="act:11,24" lang="tr" %}} — ta ki sonunda {{% bible val="kitap, Yeşaya'nın" link="isa:6,9-10" lang="tr" %}} {{% bible val="başladığı sözlerle sona erene" link="act:28,26-27" lang="tr" %}} kadar: İsrail'in mesajı reddetmesi.
+- ve İsrail'in ilk tövbesi — {{% bible val="Pentikost'ta" link="act:2,41-47" lang="tr" %}}, {{% bible val="ilk kilisede" link="act:5,14" lang="tr" %}}, {{% bible val="İstefanos'un seçiminde" link="act:6,1-7" lang="tr" %}} ve {{% bible val="Antakya'daki kilisede" link="act:11,23-24" lang="tr" %}} — ta ki sonunda {{% bible val="kitap, Yeşaya'nın" link="isa:6,9-10" lang="tr" %}} {{% bible val="başladığı sözlerle sona erene" link="act:28,26-27" lang="tr" %}} kadar: İsrail'in mesajı reddetmesi.
 
 Elçilerin İşleri boyunca işleyen bağlantılı bir tema da "Tanrı'nın sözü"dür; bu söz {{% bible val="İstefanos'un seçilmesinden sonra" link="act:6,7" lang="tr" %}}, {{% bible val="Hirodes'in ölümünden sonra" link="act:12,24" lang="tr" %}} ve {{% bible val="Pavlus'un Efes'teki zamanında" link="act:19,20" lang="tr" %}} ilerler. Bu, Yeşaya'daki aynı temayla ilgili kilit pasajları yansıtır: {{% bible val="Tanrı neyle karşılaştırılabilir" link="isa:40,18-24" lang="tr" %}}, {{% bible val="O putlardan daha güvenilirdir" link="isa:41,4-10" lang="tr" %}}, {{% bible val="putların boşluğu" link="isa:44,9-20" lang="tr" %}} ve {{% bible val="Babil'in putları" link="isa:46,1-13" lang="tr" %}}.
 
 Bir araya getirildiğinde, bu karşılaştırma Elçilerin İşleri ile Yeşaya arasındaki gerçek bir gerilimi ortaya çıkarır: Tanrı'nın putlar üzerinde egemen olduğu gösterilir, yine de İsrail onlara tutunmayı sürdürür. Bu gerilim özellikle {{% bible val="Elçilerin İşleri 17'de" link="act:17" lang="tr" %}} doruğa ulaşır; burada Yahudilerin Pavlus'a karşı direnişi büyük olasılıkla putlara olan bu aynı bağlılıktan kaynaklanır.
 
-Bu putlar ya da arkalarındaki kişiler kendileri için tanrılık iddia ettiğinde — {{% bible val="Simun" link="act:8,4-24" lang="tr" %}}, {{% bible val="Hirodes" link="act:12,20-23" lang="tr" %}} ve {{% bible val="Elimas" link="act:13,10-11" lang="tr" %}} örneklerinde olduğu gibi — yargı özel bir şiddetle duyurulur.
+Bu putlar ya da arkalarındaki kişiler kendileri için tanrılık iddia ettiğinde — {{% bible val="Simun" link="act:8,4-24" lang="tr" %}}, {{% bible val="Hirodes" link="act:12,20-23" lang="tr" %}} ve {{% bible val="Elimas" link="act:13,9-11" lang="tr" %}} örneklerinde olduğu gibi — yargı özel bir şiddetle duyurulur.
 
 ## Özet
 
