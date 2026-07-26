@@ -15,9 +15,16 @@ Whatever brought you here - welcome. You don't need any prior knowledge to start
 
 Here's the honest truth: the Book of Revelation has an image problem. It's been used to sell doomsday calendars, fuel bad movies, and scare people into pews. If that's the picture you've been given, you're not being unreasonable - that really is how it's often been sold.
 
+![](/images/Crazy.jpg)
+
 But that's not what this book actually is. It was written to seven real churches, in seven real cities, at a time when following Jesus could cost you your business, your reputation, your safety, or your life. It's not primarily a puzzle to decode or a countdown to a future disaster. It's a letter to discouraged, pressured, ordinary people, reminding them who is actually in charge of the world - and why that's good news.
 
 And that's exactly why it still matters today. We may not face Roman emperors demanding worship, but we know what it's like to feel overwhelmed by bad news, unsure who to trust, tempted to go along with whatever keeps life comfortable. This book was written for people in exactly that position. Its subject was never really future disaster - it's Jesus, and what it means to actually worship him instead of whatever else is competing for that place in our lives.
+
+<div style="display:flex; gap:1em; flex-wrap:wrap; margin: 1.5em 0;">
+  <img src="/images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="">
+  <img src="/images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="">
+</div>
 
 ## What you can expect
 
