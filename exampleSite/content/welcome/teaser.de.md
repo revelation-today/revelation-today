@@ -22,8 +22,8 @@ Aber das ist nicht, was dieses Buch wirklich ist. Es wurde an sieben echte Gemei
 Und genau deshalb ist es heute noch genauso wichtig. Wir stehen vielleicht keinen römischen Kaisern gegenüber, die Anbetung fordern, aber wir wissen, wie es sich anfühlt, von schlechten Nachrichten überwältigt zu sein, unsicher, wem wir vertrauen können, versucht, einfach mitzumachen, um es uns bequem zu machen. Dieses Buch wurde für Menschen genau in dieser Situation geschrieben. Sein eigentliches Thema war nie die zukünftige Katastrophe - es ist Jesus, und was es bedeutet, wirklich ihn anzubeten, statt allem anderen, was um diesen Platz in unserem Leben konkurriert.
 
 <div style="display:flex; gap:1em; flex-wrap:wrap; margin: 1.5em 0;">
-  <img src="/images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="">
-  <img src="/images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="">
+  {{< static_img src="images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="" >}}
+  {{< static_img src="images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="" >}}
 </div>
 
 ## Was dich erwartet

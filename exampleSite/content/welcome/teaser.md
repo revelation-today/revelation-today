@@ -22,8 +22,8 @@ But that's not what this book actually is. It was written to seven real churches
 And that's exactly why it still matters today. We may not face Roman emperors demanding worship, but we know what it's like to feel overwhelmed by bad news, unsure who to trust, tempted to go along with whatever keeps life comfortable. This book was written for people in exactly that position. Its subject was never really future disaster - it's Jesus, and what it means to actually worship him instead of whatever else is competing for that place in our lives.
 
 <div style="display:flex; gap:1em; flex-wrap:wrap; margin: 1.5em 0;">
-  <img src="/images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="">
-  <img src="/images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="">
+  {{< static_img src="images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="" >}}
+  {{< static_img src="images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="" >}}
 </div>
 
 ## What you can expect

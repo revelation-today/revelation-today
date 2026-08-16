@@ -1,0 +1,24 @@
+{{- /*
+  An <img> for a file under static/, with the baseURL path applied.
+
+  Markdown images (![](/images/x.jpg)) get this for free from the
+  render-image hook, but a raw <img> tag written in content bypasses that
+  hook, so its src stays anchored to the domain root. On this site the
+  baseURL carries a path (/revelation-today/), so such a tag 404s in
+  production while still working in local dev -- a failure that only shows
+  up once deployed.
+
+  Use this wherever a raw <img> is needed, e.g. inside a flex row:
+
+    {{< static_img src="images/ww3.jpg" style="width:48%;" alt="" >}}
+
+  src is relative to static/; a leading slash is tolerated.
+*/ -}}
+{{- $src := .Get "src" | default "" -}}
+{{- $style := .Get "style" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- with $src -}}
+  <img src="{{ relURL (strings.TrimPrefix "/" .) }}"{{ with $style }} style="{{ . | safeCSS }}"{{ end }} alt="{{ $alt }}" loading="lazy" />
+{{- else -}}
+  {{- errorf "static_img: src is required (%s)" $.Position -}}
+{{- end -}}

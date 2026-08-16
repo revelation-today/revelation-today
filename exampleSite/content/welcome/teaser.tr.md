@@ -22,8 +22,8 @@ Ama bu kitabın gerçekte ne olduğu bu değil. Yedi gerçek şehirdeki yedi ger
 Ve tam da bu yüzden bugün de aynı derecede önemli. Tapınma talep eden Roma imparatorlarıyla karşı karşıya olmayabiliriz, ama kötü haberlerle bunalmanın, kime güveneceğini bilememenin, hayatı rahat tutan her şeye ayak uydurma isteğinin ne demek olduğunu biliyoruz. Bu kitap tam da bu durumdaki insanlar için yazıldı. Asıl konusu hiçbir zaman gelecekteki felaket olmadı - konusu İsa, ve hayatımızda o yeri kapmaya çalışan her şey yerine gerçekten ona tapınmanın ne anlama geldiği.
 
 <div style="display:flex; gap:1em; flex-wrap:wrap; margin: 1.5em 0;">
-  <img src="/images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="">
-  <img src="/images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="">
+  {{< static_img src="images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="" >}}
+  {{< static_img src="images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="" >}}
 </div>
 
 ## Seni neler bekliyor
