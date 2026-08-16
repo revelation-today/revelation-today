@@ -1,5 +1,6 @@
 ---
 title: "Anak Usia Dini: Yesus Menang, dan Dia Mengasihi Kita"
+linkTitle: "Anak Kecil (usia 4-7)"
 weight: 101
 docType: kids
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Anak: Kurikulum Sekolah Minggu Inti"
+linkTitle: "Anak (usia 8-12)"
 weight: 100
 docType: kids
 ---

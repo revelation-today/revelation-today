@@ -1,5 +1,6 @@
 ---
 title: "Grundschule: Der Kern-Sonntagsschulkurs"
+linkTitle: "Grundschule (8-12 Jahre)"
 weight: 100
 docType: kids
 ---

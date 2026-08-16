@@ -1,5 +1,6 @@
 ---
 title: "Erken Çocukluk: İsa Kazanır, ve O Bizi Seviyor"
+linkTitle: "Okul Öncesi (4-7 yaş)"
 weight: 101
 docType: kids
 ---

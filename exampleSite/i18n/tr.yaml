@@ -42,3 +42,6 @@ message: Mesaj
 share: Düşüncelerinizi paylaşın
 about: proje hakkında
 howtoread: Sayfanın okunmasına ilişkin notlar
+lesson: "Ders"
+lessonOf: "/"
+youAreHere: "Buradasınız"

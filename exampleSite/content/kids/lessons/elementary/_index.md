@@ -1,5 +1,6 @@
 ---
 title: "Elementary: The Core Sunday-School Series"
+linkTitle: "Elementary (ages 8-12)"
 weight: 100
 docType: kids
 ---

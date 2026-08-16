@@ -1,5 +1,6 @@
 ---
 title: "Revelation Today: Teen Track"
+linkTitle: "Teens (ages 13-18)"
 weight: 102
 docType: kids
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Wahyu Hari Ini: Jalur Remaja"
+linkTitle: "Remaja (usia 13-18)"
 weight: 102
 docType: kids
 ---

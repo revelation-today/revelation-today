@@ -1,5 +1,6 @@
 ---
 title: "Die Geschichte für Bibel-Entdecker"
+linkTitle: "Für Bibel-Entdecker (8-12 Jahre)"
 weight: 10
 ---
 

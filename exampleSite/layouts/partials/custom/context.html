@@ -1,0 +1,62 @@
+{{- /*
+  "You are here" line, rendered small and muted directly above the page title.
+
+  The sidebar carries this context on desktop, but it collapses on a phone and
+  leaves the reader with no way to tell that they are in, say, the elementary
+  kids track rather than the teen one. This fills the slot that the layouts
+  previously held open with a bare <br>.
+
+  It is not a heading: small muted text, wrapping rather than clipping, with
+  every segment but the last a link back up the tree.
+
+  Segments come from .Ancestors, so section titles are already translated.
+  Two things are suppressed:
+    - grouping directories that carry no meaning for the reader ($skip below,
+      plus any section with hideInTrail: true in front matter)
+    - the current page itself, since its title is the H1 immediately beneath
+
+  A position counter ("Lesson 2 of 16") is appended only for pages that declare
+  audience_group, i.e. the kids lesson tracks, where the ordering is a genuine
+  numbered course. Elsewhere weights are not sequential and a counter would lie.
+*/ -}}
+
+{{- $page := . -}}
+{{- $skip := slice "lessons" "content" -}}
+
+{{- $parts := slice -}}
+{{- range .Ancestors.Reverse -}}
+  {{- $slug := path.Base .RelPermalink -}}
+  {{- if not (or .IsHome .Params.hideInTrail (in $skip $slug)) -}}
+    {{- $parts = $parts | append (dict "title" (partial "utils/title" .) "url" .RelPermalink) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* position within a numbered lesson track */ -}}
+{{- $group := .Params.audience_group -}}
+{{- if and $group (gt .Weight 0) -}}
+  {{- range .Ancestors -}}
+    {{- if eq (path.Base .RelPermalink) $group -}}
+      {{- $total := len .RegularPagesRecursive -}}
+      {{- if and (gt $total 0) (le $page.Weight $total) -}}
+        {{- $label := printf "%s %d %s %d" ((T "lesson") | default "Lesson") $page.Weight ((T "lessonOf") | default "of") $total -}}
+        {{- $parts = $parts | append (dict "title" $label "url" "") -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $parts -}}
+  <nav aria-label="{{ (T "youAreHere") | default "You are here" }}"
+       class="hx-mt-1.5 hx-mb-1 hx-flex hx-flex-wrap hx-items-center hx-gap-x-1.5 hx-gap-y-0.5 hx-text-xs hx-leading-5 hx-text-gray-500 dark:hx-text-gray-400 contrast-more:hx-text-current">
+    {{- range $i, $p := $parts -}}
+      {{- if $i }}<span aria-hidden="true" class="hx-select-none hx-text-gray-300 dark:hx-text-gray-600">&middot;</span>{{ end -}}
+      {{- if $p.url -}}
+        <a href="{{ $p.url }}" class="hx-transition-colors hover:hx-text-gray-900 dark:hover:hx-text-gray-100">{{ $p.title }}</a>
+      {{- else -}}
+        <span class="hx-font-medium hx-text-gray-700 dark:hx-text-gray-200 contrast-more:hx-font-bold">{{ $p.title }}</span>
+      {{- end -}}
+    {{- end -}}
+  </nav>
+{{- else -}}
+  <br class="hx-mt-1.5 hx-text-sm" />
+{{- end -}}

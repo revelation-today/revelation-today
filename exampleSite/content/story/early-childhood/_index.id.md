@@ -1,5 +1,6 @@
 ---
 title: "Cerita untuk Anak-Anak Kecil"
+linkTitle: "Anak Kecil (usia 4-7)"
 weight: 10
 ---
 

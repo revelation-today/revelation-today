@@ -1,5 +1,6 @@
 ---
 title: "Rencana Pelajaran Sekolah Minggu"
+hideInTrail: true
 weight: 7
 ---
 

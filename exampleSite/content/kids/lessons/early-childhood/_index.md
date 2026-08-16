@@ -1,5 +1,6 @@
 ---
 title: "Early Childhood: Jesus Wins, and He Loves Us"
+linkTitle: "Early Childhood (ages 4-7)"
 weight: 101
 docType: kids
 ---

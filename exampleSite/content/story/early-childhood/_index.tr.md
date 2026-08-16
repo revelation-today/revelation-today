@@ -1,5 +1,6 @@
 ---
 title: "Küçükler İçin Hikaye"
+linkTitle: "Küçükler (4-7 yaş)"
 weight: 10
 ---
 

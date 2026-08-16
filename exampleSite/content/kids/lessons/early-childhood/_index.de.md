@@ -1,5 +1,6 @@
 ---
 title: "Kleinkinder: Jesus gewinnt, und er liebt uns"
+linkTitle: "Kleinkinder (4-7 Jahre)"
 weight: 101
 docType: kids
 ---

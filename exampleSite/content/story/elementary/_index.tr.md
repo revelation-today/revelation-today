@@ -1,5 +1,6 @@
 ---
 title: "Kutsal Kitap Kâşifleri İçin Bu Hikaye"
+linkTitle: "Kutsal Kitap Kâşifleri (8-12 yaş)"
 weight: 10
 ---
 

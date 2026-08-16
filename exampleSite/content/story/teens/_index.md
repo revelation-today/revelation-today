@@ -1,5 +1,6 @@
 ---
 title: "The Story: No Softening"
+linkTitle: "No Softening (ages 13-18)"
 weight: 10
 ---
 

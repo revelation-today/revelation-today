@@ -1,5 +1,6 @@
 ---
 title: "The Story for Little Ones"
+linkTitle: "For Little Ones (ages 4-7)"
 weight: 10
 ---
 

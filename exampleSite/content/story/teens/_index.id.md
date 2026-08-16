@@ -1,5 +1,6 @@
 ---
 title: "Kisahnya: Tanpa Dihaluskan"
+linkTitle: "Tanpa Dihaluskan (usia 13-18)"
 weight: 10
 ---
 

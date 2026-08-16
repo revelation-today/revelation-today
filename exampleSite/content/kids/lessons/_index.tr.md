@@ -1,5 +1,6 @@
 ---
 title: "Pazar Okulu Ders Planları"
+hideInTrail: true
 weight: 7
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Unterrichtsentwürfe für den Kindergottesdienst"
+hideInTrail: true
 weight: 7
 ---
 

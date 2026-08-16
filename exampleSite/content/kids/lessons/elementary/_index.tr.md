@@ -1,5 +1,6 @@
 ---
 title: "İlkokul: Ana Pazar Okulu Programı"
+linkTitle: "İlkokul (8-12 yaş)"
 weight: 100
 docType: kids
 ---

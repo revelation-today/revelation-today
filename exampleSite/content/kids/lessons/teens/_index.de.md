@@ -1,5 +1,6 @@
 ---
 title: "Offenbarung heute: Teen-Track"
+linkTitle: "Teenager (13-18 Jahre)"
 weight: 102
 docType: kids
 ---

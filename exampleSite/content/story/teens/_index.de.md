@@ -1,5 +1,6 @@
 ---
 title: "Die Story: ungeschönt"
+linkTitle: "Ungeschönt (13-18 Jahre)"
 weight: 10
 ---
 

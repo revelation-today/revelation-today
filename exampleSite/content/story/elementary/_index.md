@@ -1,5 +1,6 @@
 ---
 title: "The Story for Bible Explorers"
+linkTitle: "For Bible Explorers (ages 8-12)"
 weight: 10
 ---
 

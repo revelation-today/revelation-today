@@ -1,5 +1,6 @@
 ---
 title: "Sunday School Lesson Plans"
+hideInTrail: true
 weight: 7
 ---
 

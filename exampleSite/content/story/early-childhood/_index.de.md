@@ -1,5 +1,6 @@
 ---
 title: "Die Geschichte für die Kleinsten"
+linkTitle: "Für die Kleinsten (4-7 Jahre)"
 weight: 10
 ---
 

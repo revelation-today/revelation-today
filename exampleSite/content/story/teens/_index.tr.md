@@ -1,5 +1,6 @@
 ---
 title: "Hikaye: Yumuşatma Yok"
+linkTitle: "Yumuşatma Yok (13-18 yaş)"
 weight: 10
 ---
 

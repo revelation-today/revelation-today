@@ -1,5 +1,6 @@
 ---
 title: "Vahiy Bugün: Gençlik Serisi"
+linkTitle: "Gençler (13-18 yaş)"
 weight: 102
 docType: kids
 ---

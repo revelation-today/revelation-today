@@ -1,5 +1,6 @@
 ---
 title: "Kisah untuk Penjelajah Alkitab"
+linkTitle: "Penjelajah Alkitab (usia 8-12)"
 weight: 10
 ---
 
