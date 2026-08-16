@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/seals/the-wrath-of-the-lamb
 prev: /kids/lessons/liberal-progressive/worship-and-seals/04-four-horsemen-unmasked
 next: /kids/lessons/liberal-progressive/worship-and-seals/06-144000-great-tribulation
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Allah Tidak Berpaling dari Ketidakadilan
 

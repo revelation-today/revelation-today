@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/lessons/catholic/ending/11-heaven-and-hell
 next: /kids/lessons/catholic/worship-and-seals/13-the-two-witnesses
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # The New Jerusalem: Our Eternal Home
 

@@ -3,8 +3,23 @@ title: "Unterrichtsentwürfe für den Kindergottesdienst"
 weight: 7
 ---
 
-Das sind die vollständigen Unterrichtsentwürfe, aus denen die kurzen Lesetexte oben entstanden sind: fertige Einheiten für den Kindergottesdienst oder die Jungschar, mit Einstieg, Geschichte, Anwendung, Merkvers, Gebet und Ideen für die Vorbereitung (Spiele, Bastelideen, Gesprächsfragen, Liedvorschläge).
+Vollständige Unterrichtsentwürfe für die Offenbarung, in drei Altersstufen. Jede Einheit
+enthält einen Einstieg, die biblische Geschichte, eine Anwendung, einen Merkvers, ein Gebet
+und einen Anhang mit Vorbereitungsideen - Spiele, Bastelideen, Gesprächsfragen und
+Liedvorschläge.
 
-Neben der zentralen Reihe für die Grundschulstufe enthält dieser Bereich auch Entwürfe für die ganz Kleinen (early-childhood) und für Jugendliche (teens) sowie für eine Reihe weiterer Zielgruppen - regional (Lateinamerika, Afrika, Asien, Naher Osten) und konfessionell (katholisch, orthodox, pfingstlich-charismatisch, landeskirchlich, liberal-progressiv). Passende vollständige Predigtmanuskripte für Erwachsene zu diesen Zielgruppen finden sich unter [Predigten]({{< relref "sermons" >}}).
+| Stufe | Alter | Einheiten |
+|---|---|---|
+| [Vorschulalter]({{< relref "kids/lessons/early-childhood" >}}) - *Jesus siegt, und er hat uns lieb* | 4-7 | 16 |
+| [Grundschulalter]({{< relref "kids/lessons/elementary" >}}) - *die zentrale Reihe* | 8-12 | 16 |
+| [Jugendliche]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 |
 
-Anders als die Lesetexte oben sind diese Entwürfe fürs **Vorbereiten und Anleiten** einer Gruppe gedacht, nicht zum stillen Selberlesen - jede Einheit dauert ca. 15 Minuten.
+Alle drei Stufen gehen die Offenbarung in fünf Teilen durch: Hintergrund und erste Vision,
+die sieben Gemeinden, der Thronsaal und was von dort ausgeht, der große Konflikt und das
+Ende. Was sich zwischen den Stufen unterscheidet, ist die Tiefe - nicht die Geschichte.
+
+Diese Entwürfe sind fürs **Vorbereiten und Anleiten** einer Gruppe gedacht, nicht zum
+stillen Selberlesen.
+
+Passende vollständige Predigtmanuskripte für Erwachsene finden sich unter
+[Predigten]({{< relref "sermons" >}}).

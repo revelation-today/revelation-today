@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 prev: /kids/lessons/latin-american/conflict/07-who-is-the-harlot-babylon
 next: /kids/lessons/latin-american/ending/09-the-thousand-year-kingdom
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Ketika Istana Pasir Itu Runtuh
 ### Mengapa "teman-teman" Babel berbalik melawannya

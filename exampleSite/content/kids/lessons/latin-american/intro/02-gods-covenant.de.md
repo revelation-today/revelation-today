@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/background/israel/gods-covenant
 prev: /kids/lessons/latin-american/intro/01-living-under-pax-romana
 next: /kids/lessons/latin-american/worship-and-seals/03-worship-in-the-throne-room
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Das Versprechen, das Gott mit seinem eigenen Blut gab
 ### Eine Geschichte über das größte Versprechen, das je gegeben wurde

@@ -7,7 +7,13 @@ expl: /expl/content/letters/the-angel-of-the-churches
 prev: /kids/content/vision
 next: /kids/content/worship
 docType: kids
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 {{% bible val="Bölüm 2" link="rev:2" lang="en" %}} ve {{% bible val="3" link="rev:3" lang="en" %}}.
 

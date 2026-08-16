@@ -3,10 +3,21 @@ title: "Kids"
 weight: 50
 ---
 
-This is Revelation retold for kids: the same 22 chapters, the same real story, but in short, simple pages a child can read alone or with a parent — no scary movie-style predictions, just Jesus, the Church, and the dragon who always loses.
+Revelation for children, taught in three age-tiered tracks. Each is a full set of
+Sunday-school lesson plans — an opening activity, the Bible story, an application, a memory
+verse, a prayer, and prep ideas for the leader.
 
-Each page ends with a "For Bible Explorers" section for kids who want to dig a little deeper, and links back to the fuller explanations if a grown-up wants to follow along.
+| Track | Ages | Sessions | Length |
+|---|---|---|---|
+| [Early Childhood]({{< relref "kids/lessons/early-childhood" >}}) | 4–7 | 16 | about 10 minutes |
+| [Elementary]({{< relref "kids/lessons/elementary" >}}) | 8–12 | 16 | about 15 minutes |
+| [Teens]({{< relref "kids/lessons/teens" >}}) | 13–18 | 20 | about 15 minutes |
 
-**Best for:** children roughly 8-12, read together or alone, one chapter at a time.
+**Elementary is the core track.** Early childhood takes one picture per session and stays
+there; teens handles the genuinely difficult material — doubt, pressure, and the arguments
+about what Revelation means — directly.
 
-[Start the tour for kids →]({{< relref "kids/tour" >}})
+No scary movie-style predictions, no timelines to memorise, no dates to calculate. Just
+Jesus, the Church, and the dragon who always loses.
+
+[Browse the lesson plans →]({{< relref "kids/lessons" >}})

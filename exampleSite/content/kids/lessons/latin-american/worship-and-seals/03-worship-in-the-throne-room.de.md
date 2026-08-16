@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /kids/lessons/latin-american/intro/02-gods-covenant
 next: /kids/lessons/latin-american/worship-and-seals/04-the-four-horsemen-unmasked
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Die größte Party im Himmel
 ### Was Johannes sah, bevor irgendetwas anderes geschah

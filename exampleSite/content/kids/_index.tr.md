@@ -3,10 +3,21 @@ title: "Çocuklar için"
 weight: 50
 ---
 
-Burada Vahiy kitabı çocuklar için yeniden anlatılıyor: aynı 22 bölüm, aynı gerçek hikâye, ama bir çocuğun tek başına ya da bir yetişkinle birlikte okuyabileceği kısa ve basit sayfalarda - korkutucu kıyamet görüntüleri değil, İsa, kilise ve her zaman kaybeden ejderha.
+Vahiy kitabı çocuklar için, üç yaş grubunda öğretiliyor. Her grup, eksiksiz bir Pazar Okulu
+ders planı dizisidir - açılış etkinliği, Kutsal Kitap hikâyesi, uygulama, ezber ayeti, dua
+ve öğretmen için hazırlık fikirleriyle birlikte.
 
-Her sayfa, biraz daha derine inmek isteyen çocuklar için "Kutsal Kitap Kâşifleri için" bölümüyle bitiyor ve bir yetişkin de okumak isterse daha ayrıntılı açıklamalara geri bağlantı veriyor.
+| Grup | Yaş | Ders | Süre |
+|---|---|---|---|
+| [Okul Öncesi]({{< relref "kids/lessons/early-childhood" >}}) | 4-7 | 16 | yaklaşık 10 dakika |
+| [İlkokul]({{< relref "kids/lessons/elementary" >}}) | 8-12 | 16 | yaklaşık 15 dakika |
+| [Gençler]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 | yaklaşık 15 dakika |
 
-**En uygun olduğu durum:** yaklaşık 8-12 yaş arası çocuklar, birlikte ya da tek başına okunur, bir bölümden diğerine.
+**İlkokul grubu ana dizidir.** Okul öncesinde her ders tek bir görüntü üzerinde kalır;
+gençlerde ise gerçekten zor konular doğrudan ele alınır - kuşku, akran baskısı ve Vahiy'in
+ne anlama geldiğine dair tartışmalar.
 
-[Çocuklar için turu başlat →]({{< relref "kids/tour" >}})
+Korkutucu kıyamet görüntüleri yok, ezberlenecek zaman çizelgeleri yok, tarih hesapları yok.
+Sadece İsa, kilise ve her zaman kaybeden ejderha.
+
+[Ders planlarına git →]({{< relref "kids/lessons" >}})

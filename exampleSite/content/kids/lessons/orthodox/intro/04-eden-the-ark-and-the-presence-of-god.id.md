@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/bible/creation/the-temple-and-the-presence-of-god
 prev: /kids/lessons/orthodox/intro/03-gods-covenant
 next: /kids/lessons/orthodox/worship-and-seals/05-worship-in-the-throne-room
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Allah Ingin Tinggal Dekat Denganmu
 ### Dari taman ke altar sampai kepadamu

@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 prev: /kids/lessons/asian
 next: /kids/lessons/asian/intro/02-what-kind-of-book-is-this
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Siapa Sebenarnya yang Jadi Bos?
 ### Kisah dari zaman ketika Kitab Wahyu ditulis

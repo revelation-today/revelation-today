@@ -3,10 +3,21 @@ title: "Untuk Anak-anak"
 weight: 50
 ---
 
-Di sini kitab Wahyu diceritakan ulang untuk anak-anak: 22 pasal yang sama, kisah nyata yang sama, tapi dalam halaman-halaman pendek dan sederhana yang bisa dibaca sendiri oleh seorang anak atau bersama orang tua - bukan gambar-gambar seram tentang kiamat, tapi cerita tentang Yesus, gereja, dan naga yang selalu kalah.
+Kitab Wahyu untuk anak-anak, diajarkan dalam tiga jenjang usia. Setiap jenjang berisi
+rencana pelajaran Sekolah Minggu yang lengkap - dengan kegiatan pembuka, cerita Alkitab,
+penerapan, ayat hafalan, doa, dan ide-ide persiapan bagi pengajar.
 
-Setiap halaman diakhiri dengan bagian "Untuk Penjelajah Alkitab" bagi anak-anak yang ingin menggali lebih dalam, dan ada tautan kembali ke penjelasan yang lebih lengkap kalau ada orang dewasa yang ingin ikut membaca.
+| Jenjang | Usia | Sesi | Durasi |
+|---|---|---|---|
+| [Usia Dini]({{< relref "kids/lessons/early-childhood" >}}) | 4-7 | 16 | sekitar 10 menit |
+| [Sekolah Dasar]({{< relref "kids/lessons/elementary" >}}) | 8-12 | 16 | sekitar 15 menit |
+| [Remaja]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 | sekitar 15 menit |
 
-**Paling cocok untuk:** anak-anak usia sekitar 8-12 tahun, dibaca bersama atau sendiri, satu pasal setiap kali.
+**Jenjang sekolah dasar adalah rangkaian intinya.** Untuk usia dini, setiap sesi berfokus
+pada satu gambaran saja; untuk remaja, bagian-bagian yang benar-benar sulit dibahas secara
+langsung - keraguan, tekanan teman sebaya, dan perdebatan tentang arti Kitab Wahyu.
 
-[Mulai tur untuk anak-anak →]({{< relref "kids/tour" >}})
+Tidak ada gambaran kiamat yang menakutkan, tidak ada garis waktu untuk dihafal, tidak ada
+perhitungan tanggal. Hanya Yesus, gereja, dan naga yang selalu kalah.
+
+[Lihat rencana pelajaran →]({{< relref "kids/lessons" >}})

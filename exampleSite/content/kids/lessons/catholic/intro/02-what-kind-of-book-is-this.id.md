@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/background/literature/the-book-of-revelation-how-to-read-it
 prev: /kids/lessons/catholic/intro/01-pax-romana
 next: /kids/lessons/catholic/intro/03-gods-covenant
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Buku Seperti Apa Ini? Surat, Nubuat, Apokalips
 

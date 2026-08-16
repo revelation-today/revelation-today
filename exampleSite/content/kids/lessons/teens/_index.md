@@ -6,6 +6,8 @@ docType: kids
 
 # Revelation Today: Teen Track
 
+This is the oldest track in our Revelation Today teaching series, written for **ages 13 to 18**. It sits above our elementary track (roughly ages 8 to 12) and our early-childhood track (ages 4 to 7), and unlike either of those it assumes you can handle the parts of Revelation that are genuinely difficult — the violence, the doubt, and the arguments about what it all means.
+
 Welcome. This series exists because the book of Revelation was never meant to sit quietly at the back of the Bible, ignored until someone makes a movie about it. It was written to real churches, full of real people your age and older, who were under real pressure to fit in with a culture that had a very different king in mind than Jesus. That's closer to your life than you might think.
 
 You're at an age where you're expected to just go along with a lot of things — what everyone's watching, what everyone's posting, who you need to impress to be considered normal. You're also at an age where you're finally allowed to ask the hard questions out loud: Does this actually make sense? Is this fair? Why does everyone act like this is fine when it clearly isn't? That instinct — to notice when something doesn't add up, to call out hypocrisy instead of politely ignoring it — is not a phase to grow out of. It's exactly the instinct this book was written to sharpen. Adults often lose their edge on this over time, learning to look away from things that should bother them. You haven't yet, and that makes you good at reading Revelation, not bad at it.

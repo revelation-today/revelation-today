@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/background/israel/gods-covenant
 prev: /kids/lessons/orthodox/intro/02-hidden-architecture-not-chaos-but-design
 next: /kids/lessons/orthodox/intro/04-eden-the-ark-and-the-presence-of-god
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Tanrı'nın İkimiz İçin de Tuttuğu Söz
 ### Çok sıra dışı bir söz hakkında bir hikâye

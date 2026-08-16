@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/background/literature/the-book-of-revelation-how-to-read-it
 prev: /kids/lessons/liberal-progressive
 next: /kids/lessons/liberal-progressive/intro/02-pax-romana
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Ein Brief, eine Warnung und ein Comic — alles in einem Buch
 

@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/jesus/a-different-christmas-story
 prev: /kids/lessons/pentecostal/conflict/07-the-unholy-trinity
 next: /kids/lessons/pentecostal/conflict/09-the-bowls-of-wrath-and-armageddon
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Die Weihnachtsgeschichte, die du noch nie gehört hast
 ### Offenbarung 12

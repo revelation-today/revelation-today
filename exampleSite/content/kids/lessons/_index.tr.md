@@ -3,8 +3,22 @@ title: "Pazar Okulu Ders Planları"
 weight: 7
 ---
 
-Çocuklara Vahiy kitabını öğretmek için tam Pazar okulu ders planları: bir açılış etkinliği, İncil'deki hikaye, bir uygulama, bir ezber ayeti, bir dua ve hazırlık fikirleri (oyunlar, el işleri, tartışma soruları, şarkı önerileri) içerir.
+Vahiy kitabını çocuklara öğretmek için eksiksiz Pazar Okulu ders planları, üç yaş grubunda.
+Her ders bir açılış etkinliği, Kutsal Kitap hikâyesi, uygulama, ezber ayeti, dua ve hazırlık
+fikirleri içeren bir ek bölüm barındırır - oyunlar, el işleri, tartışma soruları ve şarkı
+önerileri.
 
-Temel ilkokul çağı serisinin yanı sıra, bu bölüm erken çocukluk dönemi ve gençler için uyarlanmış dersleri ve ayrıca çeşitli özel kitleler için hazırlanmış dersleri de içerir - bölgesel (Latin Amerika, Afrika, Asya, Orta Doğu) ve mezhepsel (Katolik, Ortodoks, Pentekostal/Karizmatik, Anaakım, Liberal/İlerici). Yetişkin kitleler için bu gruplara karşılık gelen tam vaaz metinleri [Vaazlar]({{< relref "sermons" >}}) altında bulunmaktadır.
+| Grup | Yaş | Ders |
+|---|---|---|
+| [Okul Öncesi]({{< relref "kids/lessons/early-childhood" >}}) - *İsa Kazanır ve Bizi Sever* | 4-7 | 16 |
+| [İlkokul]({{< relref "kids/lessons/elementary" >}}) - *ana dizi* | 8-12 | 16 |
+| [Gençler]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 |
 
-Yukarıdaki kısa okuma sayfalarından farklı olarak, bu ders planları bir grubu **hazırlamak ve yönetmek** içindir, sessizce kişisel okuma için değil - her oturum yaklaşık 15 dakika sürer.
+Üç grup da Vahiy'i beş bölümde baştan sona işler: arka plan ve ilk görüm, yedi kilise, taht
+odası ve oradan çıkanlar, büyük çatışma ve son. Gruplar arasında değişen şey derinliktir -
+hikâye değil.
+
+Bu planlar bir grubu **hazırlamak ve yönetmek** içindir, sessiz kişisel okuma için değil.
+
+Yetişkin dinleyiciler için eksiksiz vaaz metinleri [Vaazlar]({{< relref "sermons" >}})
+bölümünde yer alır.

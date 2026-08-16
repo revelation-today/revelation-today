@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/seals/the-wrath-of-the-lamb
 prev: /kids/lessons/middle-eastern/worship-and-seals/04-worship-in-the-throne-room
 next: /kids/lessons/middle-eastern/worship-and-seals/06-the-two-witnesses
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Gott hört „Wie lange?“
 ### Der Schrei unter dem Altar

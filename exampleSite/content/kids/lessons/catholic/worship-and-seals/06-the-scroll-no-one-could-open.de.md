@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/worship/the-book-with-the-seven-seals
 prev: /kids/lessons/catholic/worship-and-seals/05-worship-in-the-throne-room
 next: /kids/lessons/catholic/conflict/07-a-different-christmas-story
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Die Schriftrolle, die niemand öffnen konnte
 

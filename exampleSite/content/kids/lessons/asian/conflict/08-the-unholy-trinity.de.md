@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /kids/lessons/asian/conflict/07-a-different-christmas-story
 next: /kids/lessons/asian/intro/09-babel-and-balaam
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Der Nachahmer-Bösewicht
 ### Der Drache und seine zwei Bestien

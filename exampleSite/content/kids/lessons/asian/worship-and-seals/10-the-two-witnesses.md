@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /kids/lessons/asian/intro/09-babel-and-balaam
 next: /kids/lessons/asian/ending/11-the-thousand-year-kingdom-heaven-and-hell
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Two Brave Witnesses
 ### They looked defeated — but they weren't

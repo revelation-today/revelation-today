@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /kids/lessons/liberal-progressive/worship-and-seals/03-worship-in-the-throne-room
 next: /kids/lessons/liberal-progressive/worship-and-seals/05-the-wrath-of-the-lamb
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Der Reiter, der nicht war, wie er aussah
 

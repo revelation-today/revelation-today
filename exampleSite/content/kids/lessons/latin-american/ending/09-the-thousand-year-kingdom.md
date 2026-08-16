@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/1000y/the-thousand-year-kingdom
 prev: /kids/lessons/latin-american/conflict/08-the-character-and-destiny-of-the-harlot
 next: /kids/lessons/latin-american/ending/10-heaven-and-hell
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Kings and Queens Already
 ### A surprising kind of reigning

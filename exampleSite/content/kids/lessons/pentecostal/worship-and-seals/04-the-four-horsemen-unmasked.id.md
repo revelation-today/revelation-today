@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /kids/lessons/pentecostal/worship-and-seals/03-the-scroll-no-one-could-open
 next: /kids/lessons/pentecostal/worship-and-seals/05-the-144000-counting-gods-army
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Penunggang Kuda yang Terlihat Seperti Pemenang
 ### Wahyu 6

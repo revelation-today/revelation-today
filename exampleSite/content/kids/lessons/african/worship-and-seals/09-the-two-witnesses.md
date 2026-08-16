@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /kids/lessons/african/worship-and-seals/08-the-144000-and-the-great-tribulation
 next: /kids/lessons/african/intro/10-babel-and-balaam
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 ## A gentle start
 

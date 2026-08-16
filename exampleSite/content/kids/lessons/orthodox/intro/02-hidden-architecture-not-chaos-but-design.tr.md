@@ -6,7 +6,13 @@ audience_group: "orthodox"
 audience_track: "kids"
 prev: /kids/lessons/orthodox/intro/01-what-kind-of-book-is-this
 next: /kids/lessons/orthodox/intro/03-gods-covenant
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Tanrı'nın Kusursuz Planı, Karmaşa Değil
 ### Vahiy'in göründüğü kadar karmaşık olmamasının nedeni

@@ -6,7 +6,13 @@ audience_group: "orthodox"
 audience_track: "kids"
 prev: /kids/lessons/orthodox/worship-and-seals/06-the-scroll-no-one-could-open
 next: /kids/lessons/orthodox/conflict/08-a-different-christmas-story
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # The Trick Rider and the Patient Lamb
 ### Four horses and a big misunderstanding

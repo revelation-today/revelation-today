@@ -6,7 +6,13 @@ audience_group: "mainline"
 audience_track: "kids"
 prev: /kids/lessons/mainline/worship-and-seals/06-four-horsemen-wrath-of-lamb
 next: /kids/lessons/mainline/conflict/08-harlot-babylon
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Tim Tiruan
 ### Trinitas yang tidak kudus

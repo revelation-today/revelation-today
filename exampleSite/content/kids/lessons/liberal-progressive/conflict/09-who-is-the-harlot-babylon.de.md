@@ -7,7 +7,13 @@ audience_track: "kids"
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 prev: /kids/lessons/liberal-progressive/conflict/08-the-unholy-trinity
 next: /kids/lessons/liberal-progressive/ending/10-heaven-and-hell
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Die Stadt, die reich aussah, es aber nicht wirklich war
 

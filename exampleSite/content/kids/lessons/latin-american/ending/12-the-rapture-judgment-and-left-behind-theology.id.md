@@ -6,7 +6,13 @@ audience_group: "latin-american"
 audience_track: "kids"
 expl: /expl/topics/others/the-rapture
 prev: /kids/lessons/latin-american/ending/11-the-new-jerusalem
+draft: true
 ---
+
+> **RETIRED.** This page is superseded by the three age-tiered Sunday-school tracks
+> (early childhood 4–7, elementary 8–12, teens 13–18). It is kept in the
+> repository for reference and is no longer published.
+
 
 # Yesus Turun ke Bawah, Bukan Mengangkat Kita Pergi
 ### Apa yang sebenarnya terjadi saat Yesus datang kembali

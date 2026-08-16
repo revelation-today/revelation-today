@@ -1,0 +1,5 @@
+---
+title: "The Great Conflict (Rev. 12–19)"
+weight: 4
+docType: kids
+---
