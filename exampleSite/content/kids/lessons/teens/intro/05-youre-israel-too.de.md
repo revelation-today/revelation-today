@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/04-a-promise-god-keeps-even-when-we-break-it
 next: /kids/lessons/teens/intro/06-daniel-staying-yourself-under-pressure
 ---
 
+> **Bibel:** {{% bible val="2. Mose 19:5–6" link="exo:19,5-6" lang="de" %}}
+
 ## Wo gehörst du eigentlich hin?
 
 Denk an das letzte Mal, als du einen Raum betreten hast und sofort versucht hast herauszufinden, ob du da hingehörst. Vielleicht war es eine neue Schule, ein Jugendgruppen-Retreat, wo du niemanden kanntest, oder ein Familientreffen bei der Verwandtschaft deiner Mutter, wo du dich wie der Außenseiter fühlst. Menschen sind darauf gepolt zu fragen: "Gehöre ich hier wirklich dazu, oder werde ich hier nur geduldet?"

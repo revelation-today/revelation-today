@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/letters/the-angel-of-the-churches
 prev: /kids/lessons/elementary/intro/02-the-vision
 next: /kids/lessons/elementary/worship-and-seals/04-worship-in-heaven
+story: /story/elementary/content/letters
 ---
 # The Seven Letters
 ### Revelation 2–3
+
+> **Story to read:** [The Letters to the Churches]({{< relref "story/elementary/content/letters" >}})  
+> **Bible:** {{% bible val="Revelation 2–3" link="rev:2" lang="en" %}}
+
 
 ## 1. School reports
 

@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/05-youre-israel-too
 next: /kids/lessons/teens/intro/07-daniels-countdown
 ---
 
+> **Alkitab:** {{% bible val="Daniel 1" link="dan:1" lang="ind" %}}
+
 ## Tekanan untuk Menghilang ke Dalam Kerumunan
 
 Kamu tahu perasaan itu: kamu masuk ke grup chat baru, tim baru, tahun ajaran baru, dan ada buku aturan yang tidak diucapkan yang harus kamu pahami dengan cepat — apa yang harus dipakai, apa yang harus ditertawakan, pendapat apa yang aman untuk diucapkan dengan lantang, apa yang kamu pura-pura tidak pedulikan. Tidak ada yang memberimu buku aturan itu. Kamu hanya diharapkan untuk menyerapnya dan berbaur, atau membayar harga sosialnya.

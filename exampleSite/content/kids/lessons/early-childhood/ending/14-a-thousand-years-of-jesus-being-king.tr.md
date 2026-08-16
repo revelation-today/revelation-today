@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/conflict/13-bad-things-dont-win
 next: /kids/lessons/early-childhood/ending/15-heaven-is-being-close-to-god
+story: /story/early-childhood/content/1000y
 ---
 
 # İsa'nın Bin Yıl Boyunca Kral Olması
+
+> **Okunacak hikâye:** [The Millennium]({{< relref "story/early-childhood/content/1000y" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 20" link="rev:20" lang="tr" %}}
+
 
 ## Resim
 

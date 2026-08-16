@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/04-a-promise-god-keeps-even-when-we-break-it
 next: /kids/lessons/teens/intro/06-daniel-staying-yourself-under-pressure
 ---
 
+> **Alkitab:** {{% bible val="Keluaran 19:5–6" link="exo:19,5-6" lang="ind" %}}
+
 ## Kamu Sebenarnya Termasuk yang Mana?
 
 Pikirkan saat terakhir kamu masuk ke sebuah ruangan dan langsung mencoba mencari tahu apakah kamu termasuk di situ. Mungkin itu sekolah baru, retret kelompok pemuda di mana kamu tidak kenal siapa pun, atau kumpul keluarga dari pihak ibumu di mana kamu merasa seperti orang luar. Manusia dirancang untuk bertanya: "Apakah aku benar-benar bagian dari ini, atau aku hanya ditoleransi di sini?"

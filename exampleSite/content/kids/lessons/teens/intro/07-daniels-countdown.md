@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/06-daniel-staying-yourself-under-pressure
 next: /kids/lessons/teens/intro/08-the-son-of-man
 ---
 
+> **Bible:** {{% bible val="Daniel 9:24–27" link="dan:9,24-27" lang="en" %}}
+
 ## When You Don't Know How Much Longer
 
 You've probably had a season where you just wanted to know: how much longer does this last? Waiting for test results, waiting to hear back from a school, waiting for a friendship to either heal or finally end, waiting for a hard family situation to resolve. The not-knowing is often worse than the hard thing itself. It's disorienting to feel like you're stuck in a holding pattern with no end date.

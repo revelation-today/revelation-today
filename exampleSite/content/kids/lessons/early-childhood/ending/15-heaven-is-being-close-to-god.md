@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/ending/14-a-thousand-years-of-jesus-being-king
 next: /kids/lessons/early-childhood/ending/16-our-new-home-the-new-jerusalem
+story: /story/early-childhood/content/1000y
 ---
 
 # Heaven Is Being Close to God
+
+> **Story to read:** [The Millennium]({{< relref "story/early-childhood/content/1000y" >}})  
+> **Bible:** {{% bible val="Revelation 20" link="rev:20" lang="en" %}}
+
 
 ## The Picture
 

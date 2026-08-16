@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/03-the-best-party-in-heaven
 next: /kids/lessons/early-childhood/worship-and-seals/05-the-horses-are-not-the-boss
+story: /story/early-childhood/content/worship
 ---
 
 # Singa yang Ternyata Anak Domba
+
+> **Cerita untuk dibacakan:** [Worship in the Throne Room]({{< relref "story/early-childhood/content/worship" >}})  
+> **Alkitab:** {{% bible val="Wahyu 4–5" link="rev:4" lang="ind" %}}
+
 
 ## Gambarannya
 

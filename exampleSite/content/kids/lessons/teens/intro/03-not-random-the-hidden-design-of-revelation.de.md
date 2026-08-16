@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/02-reading-revelation-right
 next: /kids/lessons/teens/intro/04-a-promise-god-keeps-even-when-we-break-it
 ---
 
+> **Bibel:** {{% bible val="Offenbarung 1:19" link="rev:1,19" lang="de" %}}
+
 ## Wenn sich alles wie Chaos anfühlt
 
 Scroll durch eine normale Nachrichtenwoche, und es kann sich anfühlen, als würde die Welt einfach zufällig Katastrophen generieren — eine Krise nach der anderen, kein Muster, kein Plan, nur Chaos in Dauerschleife. Nimm dazu noch dein eigenes Leben — Noten, Freundschaften, Familienkram, das ständige Hintergrundrauschen von "mache ich das eigentlich okay" — und es ist leicht, bei derselben Schlussfolgerung zu landen: Niemand steuert das hier wirklich. Es ist alles nur Rauschen.

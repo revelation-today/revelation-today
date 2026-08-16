@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/04-the-lion-who-is-really-a-lamb
 next: /kids/lessons/early-childhood/worship-and-seals/06-god-counts-every-one-of-us
+story: /story/early-childhood/content/seals
 ---
 
 # Kuda-Kuda Itu Bukan Bos
+
+> **Cerita untuk dibacakan:** [The Seals]({{< relref "story/early-childhood/content/seals" >}})  
+> **Alkitab:** {{% bible val="Wahyu 6" link="rev:6" lang="ind" %}}
+
 
 ## Gambarannya
 

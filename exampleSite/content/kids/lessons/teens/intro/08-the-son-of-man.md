@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/07-daniels-countdown
 next: /kids/lessons/teens/intro/09-why-god-wants-to-be-close-not-just-in-charge
 ---
 
+> **Bible:** {{% bible val="Daniel 7:13–14" link="dan:7,13-14" lang="en" %}}
+
 ## The One Title Jesus Actually Chose
 
 Scroll through the way people describe themselves online — the bios, the labels, the identities people build and rebuild constantly, trying to find the one that finally fits. Now consider this: Jesus, who could have claimed literally any title he wanted — King, Messiah, Son of God, Lord of All — almost always calls himself just one thing: "the Son of Man." It's the only self-description he consistently uses. That's strange enough to be worth digging into. Why that one, out of everything available to him?

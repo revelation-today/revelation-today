@@ -11,7 +11,7 @@ fikirleri içeren bir ek bölüm barındırır - oyunlar, el işleri, tartışma
 | Grup | Yaş | Ders |
 |---|---|---|
 | [Okul Öncesi]({{< relref "kids/lessons/early-childhood" >}}) - *İsa Kazanır ve Bizi Sever* | 4-7 | 16 |
-| [İlkokul]({{< relref "kids/lessons/elementary" >}}) - *ana dizi* | 8-12 | 16 |
+| [İlkokul]({{< relref path="kids/lessons/elementary" lang="en" >}}) - *ana dizi* | 8-12 | 16 |
 | [Gençler]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 |
 
 Üç grup da Vahiy'i beş bölümde baştan sona işler: arka plan ve ilk görüm, yedi kilise, taht

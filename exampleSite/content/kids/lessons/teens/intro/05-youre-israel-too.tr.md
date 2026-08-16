@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/04-a-promise-god-keeps-even-when-we-break-it
 next: /kids/lessons/teens/intro/06-daniel-staying-yourself-under-pressure
 ---
 
+> **Kutsal Kitap:** {{% bible val="Mısır'dan Çıkış 19:5–6" link="exo:19,5-6" lang="tr" %}}
+
 ## Gerçekte Nereye Aitsin?
 
 Bir odaya girip hemen oraya ait olup olmadığını anlamaya çalıştığın son zamanı düşün. Belki yeni bir okuldu, kimseyi tanımadığın bir gençlik grubu kampıydı, ya da annenin tarafında dışarıdan biri gibi hissettiğin bir aile toplantısıydı. İnsanlar şunu sormak üzere kurulmuştur: "Ben gerçekten bunun parçası mıyım, yoksa burada sadece tahammül mü ediliyorum?"

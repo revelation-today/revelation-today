@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /kids/lessons/elementary/worship-and-seals/08-the-little-scroll
 next: /kids/lessons/elementary/conflict/10-jesus-victory
+story: /story/elementary/content/witnesses
 ---
 # The Two Witnesses
 ### Revelation 11
+
+> **Story to read:** [The Two Witnesses]({{< relref "story/elementary/content/witnesses" >}})  
+> **Bible:** {{% bible val="Revelation 11" link="rev:11" lang="en" %}}
+
 
 ## 1. What is a witness?
 

@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/06-daniel-staying-yourself-under-pressure
 next: /kids/lessons/teens/intro/08-the-son-of-man
 ---
 
+> **Alkitab:** {{% bible val="Daniel 9:24–27" link="dan:9,24-27" lang="ind" %}}
+
 ## Ketika Kamu Tidak Tahu Berapa Lama Lagi
 
 Kamu mungkin pernah mengalami masa di mana kamu hanya ingin tahu: berapa lama lagi ini akan berlangsung? Menunggu hasil tes, menunggu kabar dari sekolah, menunggu pertemanan entah membaik atau akhirnya berakhir, menunggu situasi keluarga yang sulit terselesaikan. Ketidaktahuan seringkali lebih buruk dari hal sulit itu sendiri. Rasanya membingungkan untuk merasa terjebak dalam pola tunggu tanpa tanggal berakhir.

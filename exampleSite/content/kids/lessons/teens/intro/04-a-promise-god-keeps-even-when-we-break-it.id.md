@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/03-not-random-the-hidden-design-of-revelation
 next: /kids/lessons/teens/intro/05-youre-israel-too
 ---
 
+> **Alkitab:** {{% bible val="Kejadian 15" link="gen:15" lang="ind" %}}
+
 ## Kesepakatan yang curang melawanmu
 
 Kamu mungkin sudah pernah menemui versi dari ini: syarat dan ketentuan yang tidak dibaca siapa pun, tugas kelompok di mana satu orang mengerjakan semuanya dan semua orang mendapat nilai, "pertemanan" yang hanya berfungsi selama kamu tetap berguna. Beberapa kesepakatan terlihat adil di permukaan tapi diam-diam dibangun agar satu pihak tidak bisa benar-benar menang.

@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/05-the-horses-are-not-the-boss
 next: /kids/lessons/early-childhood/worship-and-seals/07-loud-trumpets-big-warnings
+story: /story/early-childhood/content/army
 ---
 
 # God Counts Every One of Us
+
+> **Story to read:** [The Army of God]({{< relref "story/early-childhood/content/army" >}})  
+> **Bible:** {{% bible val="Revelation 7" link="rev:7" lang="en" %}}
+
 
 ## The Picture
 

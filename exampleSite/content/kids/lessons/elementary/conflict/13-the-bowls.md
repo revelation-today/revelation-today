@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/bowls/the-bowls-of-wrath
 prev: /kids/lessons/elementary/conflict/12-the-two-harvests
 next: /kids/lessons/elementary/conflict/14-the-harlot-and-the-bride
+story: /story/elementary/content/bowls
 ---
 # The Bowls
 ### Revelation 15–16
+
+> **Story to read:** [The Bowls of Wrath]({{< relref "story/elementary/content/bowls" >}})  
+> **Bible:** {{% bible val="Revelation 15–16" link="rev:15" lang="en" %}}
+
 
 ## 1. What does angry mean?
 

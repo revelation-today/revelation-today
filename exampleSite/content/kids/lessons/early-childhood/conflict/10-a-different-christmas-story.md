@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/09-brave-helpers
 next: /kids/lessons/early-childhood/conflict/11-the-copycat-villain
+story: /story/early-childhood/content/jesus
 ---
 
 # A Different Christmas Story
+
+> **Story to read:** [The Victory of Jesus]({{< relref "story/early-childhood/content/jesus" >}})  
+> **Bible:** {{% bible val="Revelation 12" link="rev:12" lang="en" %}}
+
 
 ## The Picture
 

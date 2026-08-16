@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/04-a-promise-god-keeps-even-when-we-break-it
 next: /kids/lessons/teens/intro/06-daniel-staying-yourself-under-pressure
 ---
 
+> **Bible:** {{% bible val="Exodus 19:5–6" link="exo:19,5-6" lang="en" %}}
+
 ## Where Do You Actually Belong?
 
 Think about the last time you walked into a room and immediately tried to figure out if you belonged there. Maybe it was a new school, a youth group retreat where you didn't know anyone, or a family gathering on your mom's side where you feel like the outsider. Humans are wired to ask: "Am I actually part of this, or am I just tolerated here?"

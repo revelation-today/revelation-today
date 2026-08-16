@@ -8,7 +8,8 @@
     "tr" "tcl02"
     "ind" "fayh"
 -}}
-{{- $translation := index $translations $lang -}}
+{{- /* optional per-call override, e.g. trans="hfa" for younger German readers */ -}}
+{{- $translation := cond (ne (.Get "trans") "") (.Get "trans") (index $translations $lang) -}}
 {{- $book := index (split $link ":") 0 -}}
 {{- $chapter := index (split (index (split $link ":") 1) ",") 0 -}}
 {{- $verse := index (split (index (split $link ",") 1) "-") 0 -}}

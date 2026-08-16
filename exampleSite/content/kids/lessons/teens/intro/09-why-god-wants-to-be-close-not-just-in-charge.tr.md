@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/08-the-son-of-man
 next: /kids/lessons/teens/intro/10-the-exodus-pattern
 ---
 
+> **Kutsal Kitap:** {{% bible val="Mısır'dan Çıkış 25:8" link="exo:25,8" lang="tr" %}}
+
 ## Sorunun altındaki soru
 
 Biri sana "Tanrı senden gerçekte ne istiyor" diye sorsa, ne derdin? İtaat? İyi davranış? Pazara kadar çok fazla batırmamak?

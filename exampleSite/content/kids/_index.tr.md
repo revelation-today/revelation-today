@@ -10,7 +10,7 @@ ve öğretmen için hazırlık fikirleriyle birlikte.
 | Grup | Yaş | Ders | Süre |
 |---|---|---|---|
 | [Okul Öncesi]({{< relref "kids/lessons/early-childhood" >}}) | 4-7 | 16 | yaklaşık 10 dakika |
-| [İlkokul]({{< relref "kids/lessons/elementary" >}}) | 8-12 | 16 | yaklaşık 15 dakika |
+| [İlkokul]({{< relref path="kids/lessons/elementary" lang="en" >}}) | 8-12 | 16 | yaklaşık 15 dakika |
 | [Gençler]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 | yaklaşık 15 dakika |
 
 **İlkokul grubu ana dizidir.** Okul öncesinde her ders tek bir görüntü üzerinde kalır;

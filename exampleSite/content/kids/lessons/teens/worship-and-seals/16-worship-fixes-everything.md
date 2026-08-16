@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /kids/lessons/teens/letters/15-the-churches-nobody-praised-enough
 next: /kids/lessons/teens/worship-and-seals/17-the-four-horsemen-and-the-wrath-of-the-lamb
+story: /story/teens/content/worship
 ---
+
+> **Story to read:** [Worship in the Throne Room]({{< relref "story/teens/content/worship" >}})  
+> **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}
 
 ## When Everything Feels Like Too Much
 

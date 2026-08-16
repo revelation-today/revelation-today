@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/10-the-exodus-pattern
 next: /kids/lessons/teens/intro/12-a-vision-too-big-to-ignore
 ---
 
+> **Alkitab:** {{% bible val="Kejadian 11:1–9" link="gen:11,1-9" lang="ind" %}}
+
 ## Dua Cara Orang Menghancurkan Hidupnya Sendiri
 
 Pada dasarnya ada dua cara seseorang berakhir hancur. Satu: kamu berusaha begitu keras membangun dirimu — namamu, citramu, reputasimu — sampai kamu membangun hal yang sepenuhnya salah. Dua: seseorang yang bahkan tidak kamu anggap musuh membujukmu ke dalam kompromi, satu langkah yang terdengar masuk akal pada satu waktu, sampai kamu berada di tempat yang tidak pernah kamu maksudkan untuk dituju.

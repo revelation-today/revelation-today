@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/lessons/elementary/ending/15-the-thousand-years
 next: /kids/lessons/elementary
+story: /story/elementary/content/paradise
 ---
 # New Heaven and New Earth
 ### Revelation 21–22
+
+> **Story to read:** [New Heaven and New Earth]({{< relref "story/elementary/content/paradise" >}})  
+> **Bible:** {{% bible val="Revelation 21–22" link="rev:21" lang="en" %}}
+
 
 ## 1. What do you think heaven is like?
 

@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/03-not-random-the-hidden-design-of-revelation
 next: /kids/lessons/teens/intro/05-youre-israel-too
 ---
 
+> **Bibel:** {{% bible val="1. Mose 15" link="gen:15" lang="de" %}}
+
 ## Der Deal, der gegen dich manipuliert ist
 
 Du kennst wahrscheinlich schon eine Version davon: die AGB, die niemand liest, das Gruppenprojekt, bei dem eine Person die Arbeit macht und alle die Note bekommen, die "Freundschaft", die nur funktioniert, solange du nützlich bleibst. Manche Deals sehen an der Oberfläche fair aus, sind aber heimlich so gebaut, dass eine Seite gar nicht wirklich gewinnen kann.

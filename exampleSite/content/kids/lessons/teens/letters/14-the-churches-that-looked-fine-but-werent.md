@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/letters/the-letter-to-the-church-in-ephesus
 prev: /kids/lessons/teens/letters/13-real-letters-to-real-churches
 next: /kids/lessons/teens/letters/15-the-churches-nobody-praised-enough
+story: /story/teens/content/letters
 ---
+
+> **Story to read:** [The Letters to the Churches]({{< relref "story/teens/content/letters" >}})  
+> **Bible:** {{% bible val="Revelation 2–3" link="rev:2" lang="en" %}}
 
 ## The Profile That Looks Perfect
 

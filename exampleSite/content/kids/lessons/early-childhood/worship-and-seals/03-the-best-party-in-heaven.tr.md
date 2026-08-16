@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/letters/02-letters-just-for-you
 next: /kids/lessons/early-childhood/worship-and-seals/04-the-lion-who-is-really-a-lamb
+story: /story/early-childhood/content/worship
 ---
 
 # Gökteki En Güzel Parti
+
+> **Okunacak hikâye:** [Worship in the Throne Room]({{< relref "story/early-childhood/content/worship" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 4–5" link="rev:4" lang="tr" %}}
+
 
 ## Resim
 

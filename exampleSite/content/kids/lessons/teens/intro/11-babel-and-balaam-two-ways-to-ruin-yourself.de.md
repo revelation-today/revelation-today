@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/10-the-exodus-pattern
 next: /kids/lessons/teens/intro/12-a-vision-too-big-to-ignore
 ---
 
+> **Bibel:** {{% bible val="1. Mose 11:1–9" link="gen:11,1-9" lang="de" %}}
+
 ## Zwei Wege, wie Menschen ihr eigenes Leben ruinieren
 
 Es gibt im Grunde zwei Wege, wie eine Person am Ende ruiniert ist. Erstens: Du gibst dir so viel Mühe, dich selbst aufzubauen — deinen Namen, dein Image, deinen Ruf —, dass du komplett das Falsche baust. Zweitens: Jemand, den du nicht einmal als Feind wahrnimmst, redet dich in einen Kompromiss hinein, einen vernünftig klingenden Schritt nach dem anderen, bis du irgendwo bist, wo du nie hinwolltest.

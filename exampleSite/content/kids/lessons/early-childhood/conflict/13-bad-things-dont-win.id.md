@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/conflict/12-faithful-even-when-its-hard
 next: /kids/lessons/early-childhood/ending/14-a-thousand-years-of-jesus-being-king
+story: /story/early-childhood/content/bowls
 ---
 
 # Hal-Hal Buruk Tidak Menang
+
+> **Cerita untuk dibacakan:** [The Bowls of Wrath]({{< relref "story/early-childhood/content/bowls" >}})  
+> **Alkitab:** {{% bible val="Wahyu 15–16" link="rev:15" lang="ind" %}}
+
 
 ## Gambarannya
 

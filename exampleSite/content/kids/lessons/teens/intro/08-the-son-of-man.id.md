@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/07-daniels-countdown
 next: /kids/lessons/teens/intro/09-why-god-wants-to-be-close-not-just-in-charge
 ---
 
+> **Alkitab:** {{% bible val="Daniel 7:13–14" link="dan:7,13-14" lang="ind" %}}
+
 ## Satu Gelar yang Sebenarnya Dipilih Yesus
 
 Scroll cara orang menggambarkan diri mereka di internet — bio, label, identitas yang terus-menerus dibangun dan dibangun ulang orang, mencoba menemukan yang akhirnya cocok. Sekarang pertimbangkan ini: Yesus, yang bisa saja mengklaim gelar apa pun yang Dia mau — Raja, Mesias, Anak Allah, Tuhan Segalanya — hampir selalu menyebut diri-Nya hanya satu hal: "Anak Manusia." Itu satu-satunya deskripsi diri yang konsisten Dia gunakan. Itu cukup aneh untuk digali. Kenapa yang itu, dari semua yang tersedia bagi-Nya?

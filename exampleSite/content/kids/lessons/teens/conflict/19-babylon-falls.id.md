@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 prev: /kids/lessons/teens/conflict/18-the-beast-the-number-and-why-666-isnt-about-you
 next: /kids/lessons/teens/ending/20-the-ending-you-actually-want
+story: /story/teens/content/harlot
 ---
+
+> **Cerita untuk dibacakan:** [The Harlot]({{< relref "story/teens/content/harlot" >}})  
+> **Alkitab:** {{% bible val="Wahyu 17–19" link="rev:17" lang="ind" %}}
 
 ## Jebakan yang Tidak Terlihat Seperti Jebakan
 

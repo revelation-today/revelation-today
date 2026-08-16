@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/09-why-god-wants-to-be-close-not-just-in-charge
 next: /kids/lessons/teens/intro/11-babel-and-balaam-two-ways-to-ruin-yourself
 ---
 
+> **Bible:** {{% bible val="Exodus 12" link="exo:12" lang="en" %}}
+
 ## What are you actually trusting to hold you together?
 
 Think about what you'd panic over losing. Your phone. Your friend group. Your grades. Your spot on the team. A certain follower count. These things aren't evil — but notice how much weight you've quietly put on them. Somewhere along the way, they became more than nice things you have. They became things you're depending on to feel like you're okay.

@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/03-not-random-the-hidden-design-of-revelation
 next: /kids/lessons/teens/intro/05-youre-israel-too
 ---
 
+> **Kutsal Kitap:** {{% bible val="Yaratılış 15" link="gen:15" lang="tr" %}}
+
 ## Sana karşı ayarlanmış anlaşma
 
 Muhtemelen bunun bir versiyonuyla zaten karşılaştın: kimsenin okumadığı şartlar ve koşullar, bir kişinin işi yaptığı ama herkesin notu aldığı grup projesi, sadece işine yaradığın sürece işleyen "arkadaşlık." Bazı anlaşmalar yüzeyde adil görünür ama aslında bir tarafın gerçekten kazanamayacağı şekilde sessizce kurulmuştur.

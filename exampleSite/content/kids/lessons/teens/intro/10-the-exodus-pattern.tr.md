@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/09-why-god-wants-to-be-close-not-just-in-charge
 next: /kids/lessons/teens/intro/11-babel-and-balaam-two-ways-to-ruin-yourself
 ---
 
+> **Kutsal Kitap:** {{% bible val="Mısır'dan Çıkış 12" link="exo:12" lang="tr" %}}
+
 ## Seni gerçekte bir arada tutan neye güveniyorsun?
 
 Kaybetmekten panikleyeceğin şeyi düşün. Telefonun. Arkadaş grubun. Notların. Takımdaki yerin. Belirli bir takipçi sayısı. Bu şeyler kötü değil — ama onlara sessizce ne kadar ağırlık yüklediğine dikkat et. Bir noktada, sahip olduğun güzel şeylerden fazlası haline geldiler. İyi olduğunu hissetmek için bağımlı olduğun şeyler haline geldiler.

@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /kids/lessons/elementary/letters/03-the-seven-letters
 next: /kids/lessons/elementary/worship-and-seals/05-the-seals
+story: /story/elementary/content/worship
 ---
 # Worship in Heaven
 ### Revelation 4–5
+
+> **Story to read:** [Worship in the Throne Room]({{< relref "story/elementary/content/worship" >}})  
+> **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}
+
 
 ## 1. Handing something over
 

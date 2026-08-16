@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /kids/lessons/elementary/conflict/10-jesus-victory
 next: /kids/lessons/elementary/conflict/12-the-two-harvests
+story: /story/elementary/content/beasts
 ---
 # The Dragon and the Two Beasts
 ### Revelation 13
+
+> **Story to read:** [The Dragon and the Two Beasts]({{< relref "story/elementary/content/beasts" >}})  
+> **Bible:** {{% bible val="Revelation 13" link="rev:13" lang="en" %}}
+
 
 ## 1. Copycats
 

@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 prev: /kids/lessons/teens
 next: /kids/lessons/teens/intro/02-reading-revelation-right
+story: /story/teens/content/background
 ---
+
+> **Cerita untuk dibacakan:** [The Deal Everyone Took]({{< relref "story/teens/content/background" >}})  
+> **Alkitab:** {{% bible val="Wahyu 1:9" link="rev:1,9" lang="ind" %}}
 
 ## Kesepakatan yang tidak pernah diucapkan siapa pun
 

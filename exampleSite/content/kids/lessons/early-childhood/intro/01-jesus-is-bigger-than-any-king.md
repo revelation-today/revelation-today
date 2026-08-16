@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood
 next: /kids/lessons/early-childhood/letters/02-letters-just-for-you
+story: /story/early-childhood/content/vision
 ---
 
 # Jesus Is Bigger Than Any King
+
+> **Story to read:** [The Vision]({{< relref "story/early-childhood/content/vision" >}})  
+> **Bible:** {{% bible val="Revelation 1" link="rev:1" lang="en" %}}
+
 
 ## The Picture
 

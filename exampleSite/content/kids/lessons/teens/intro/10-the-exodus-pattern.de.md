@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/09-why-god-wants-to-be-close-not-just-in-charge
 next: /kids/lessons/teens/intro/11-babel-and-balaam-two-ways-to-ruin-yourself
 ---
 
+> **Bibel:** {{% bible val="2. Mose 12" link="exo:12" lang="de" %}}
+
 ## Worauf verlässt du dich eigentlich, damit du dich zusammenhältst?
 
 Denk darüber nach, worüber du in Panik geraten würdest, es zu verlieren. Dein Handy. Deine Freundesgruppe. Deine Noten. Deinen Platz im Team. Eine bestimmte Follower-Zahl. Diese Dinge sind nicht böse — aber bemerke, wie viel Gewicht du heimlich auf sie gelegt hast. Irgendwann auf dem Weg sind sie zu mehr geworden als schöne Dinge, die du hast. Sie sind zu Dingen geworden, von denen du abhängst, um dich okay zu fühlen.

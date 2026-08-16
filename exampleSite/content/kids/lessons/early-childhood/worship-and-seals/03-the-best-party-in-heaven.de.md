@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/letters/02-letters-just-for-you
 next: /kids/lessons/early-childhood/worship-and-seals/04-the-lion-who-is-really-a-lamb
+story: /story/early-childhood/content/worship
 ---
 
 # Das schönste Fest im Himmel
+
+> **Geschichte zum Vorlesen:** [Worship in the Throne Room]({{< relref "story/early-childhood/content/worship" >}})  
+> **Bibel:** {{% bible val="Offenbarung 4–5" link="rev:4" lang="de" trans="hfa" %}}
+
 
 ## Das Bild
 

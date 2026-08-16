@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/05-youre-israel-too
 next: /kids/lessons/teens/intro/07-daniels-countdown
 ---
 
+> **Kutsal Kitap:** {{% bible val="Daniel 1" link="dan:1" lang="tr" %}}
+
 ## Kalabalığın İçinde Kaybolma Baskısı
 
 O hissi biliyorsun: yeni bir grup sohbetine, yeni bir takıma, yeni bir okul yılına giriyorsun, ve hızlıca çözmen gereken söylenmemiş bir kural kitabı var — ne giyileceği, neye gülüneceği, hangi fikirlerin yüksek sesle söylenmesinin güvenli olduğu, neyi umursamıyormuş gibi yapman gerektiği. Kimse sana kural kitabını vermiyor. Sadece onu özümseyip uyum sağlaman ya da sosyal bedelini ödemen bekleniyor.

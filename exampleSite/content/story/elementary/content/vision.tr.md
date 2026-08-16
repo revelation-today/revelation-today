@@ -5,7 +5,7 @@ base: /quick/content/vision
 appl: /appl/content/vision
 expl: /expl/content/vision/setting-the-foundation
 kids: /kids/content/vision
-prev: /story/elementary/tour
+prev: /story/elementary/content/background
 next: /story/elementary/content/letters
 docType: story
 ---

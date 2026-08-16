@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/conflict/12-faithful-even-when-its-hard
 next: /kids/lessons/early-childhood/ending/14-a-thousand-years-of-jesus-being-king
+story: /story/early-childhood/content/bowls
 ---
 
 # Kötü Şeyler Kazanmaz
+
+> **Okunacak hikâye:** [The Bowls of Wrath]({{< relref "story/early-childhood/content/bowls" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 15–16" link="rev:15" lang="tr" %}}
+
 
 ## Resim
 

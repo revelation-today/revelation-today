@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood
 next: /kids/lessons/early-childhood/letters/02-letters-just-for-you
+story: /story/early-childhood/content/vision
 ---
 
 # Jesus ist größer als jeder König
+
+> **Geschichte zum Vorlesen:** [The Vision]({{< relref "story/early-childhood/content/vision" >}})  
+> **Bibel:** {{% bible val="Offenbarung 1" link="rev:1" lang="de" trans="hfa" %}}
+
 
 ## Das Bild
 

@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/01-your-own-pax-romana
 next: /kids/lessons/teens/intro/03-not-random-the-hidden-design-of-revelation
 ---
 
+> **Bibel:** {{% bible val="Offenbarung 1:1–3" link="rev:1,1-3" lang="de" %}}
+
 ## Die Genre-Falle
 
 Stell dir vor, jemand zeigt dir eine politische Karikatur — die Zeichnung eines Landes als knurrender Drache, der Feuer auf ein kleineres Land spuckt, das als verängstigtes Lamm gezeichnet ist. Du würdest das sofort verstehen. Niemand denkt, der Künstler glaube, Drachen seien echt, oder ein echtes Land habe wortwörtlich Schuppen. Du liest das Bild richtig, ohne es überhaupt zu versuchen, weil du das Genre schon kennst: Das ist ein Kommentar, kein Foto.

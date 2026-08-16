@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/02-reading-revelation-right
 next: /kids/lessons/teens/intro/04-a-promise-god-keeps-even-when-we-break-it
 ---
 
+> **Bible:** {{% bible val="Revelation 1:19" link="rev:1,19" lang="en" %}}
+
 ## When everything feels like chaos
 
 Scroll through a normal week of news and it can feel like the world is just randomly generating disasters — one crisis after another, no pattern, no plan, just chaos on a loop. Add in your own life — grades, friendships, family stuff, the constant background hum of "am I doing okay" — and it's easy to land on the same conclusion: nobody's actually steering this. It's all just noise.

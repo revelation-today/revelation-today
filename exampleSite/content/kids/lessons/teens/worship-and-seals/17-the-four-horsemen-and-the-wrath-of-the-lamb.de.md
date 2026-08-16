@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /kids/lessons/teens/worship-and-seals/16-worship-fixes-everything
 next: /kids/lessons/teens/conflict/18-the-beast-the-number-and-why-666-isnt-about-you
+story: /story/teens/content/seals
 ---
+
+> **Geschichte zum Vorlesen:** [The Seals]({{< relref "story/teens/content/seals" >}})  
+> **Bibel:** {{% bible val="Offenbarung 6" link="rev:6" lang="de" %}}
 
 ## Wenn sich die Gewinnerseite als Fake herausstellt
 

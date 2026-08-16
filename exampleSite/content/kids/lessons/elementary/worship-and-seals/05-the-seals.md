@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /kids/lessons/elementary/worship-and-seals/04-worship-in-heaven
 next: /kids/lessons/elementary/worship-and-seals/06-gods-army
+story: /story/elementary/content/seals
 ---
 # The Seals
 ### Revelation 6
+
+> **Story to read:** [The Seals]({{< relref "story/elementary/content/seals" >}})  
+> **Bible:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}
+
 
 ## 1. Spot the fake
 

@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/06-god-counts-every-one-of-us
 next: /kids/lessons/early-childhood/worship-and-seals/08-a-sweet-and-sour-scroll
+story: /story/early-childhood/content/trumpets
 ---
 
 # Terompet Nyaring, Peringatan Besar
+
+> **Cerita untuk dibacakan:** [The Trumpets]({{< relref "story/early-childhood/content/trumpets" >}})  
+> **Alkitab:** {{% bible val="Wahyu 8–9" link="rev:8" lang="ind" %}}
+
 
 ## Gambarannya
 

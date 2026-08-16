@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/01-your-own-pax-romana
 next: /kids/lessons/teens/intro/03-not-random-the-hidden-design-of-revelation
 ---
 
+> **Kutsal Kitap:** {{% bible val="Vahiy 1:1–3" link="rev:1,1-3" lang="tr" %}}
+
 ## Tür tuzağı
 
 Birinin sana siyasi bir karikatür uzattığını hayal et — bir ülkeyi kükreyen, ateş püsküren bir ejderha olarak, daha küçük bir ülkeyi de korkmuş bir kuzu olarak çizen bir resim. Bunu anında anlarsın. Kimse çizerin ejderhaların gerçek olduğuna ya da gerçek bir ülkenin gerçekten pullu olduğuna inandığını düşünmez. Görüntüyü, denemeden bile doğru okursun, çünkü türü zaten biliyorsun: bu bir yorum, fotoğraf değil.

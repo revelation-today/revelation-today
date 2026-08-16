@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/beasts/666-the-number-of-the-beast
 prev: /kids/lessons/teens/worship-and-seals/17-the-four-horsemen-and-the-wrath-of-the-lamb
 next: /kids/lessons/teens/conflict/19-babylon-falls
+story: /story/teens/content/beasts
 ---
+
+> **Okunacak hikâye:** [The Dragon and the Two Beasts]({{< relref "story/teens/content/beasts" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}}
 
 ## Söylentileri Duydun
 

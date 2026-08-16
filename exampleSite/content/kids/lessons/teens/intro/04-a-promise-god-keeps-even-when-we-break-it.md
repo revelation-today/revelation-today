@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/03-not-random-the-hidden-design-of-revelation
 next: /kids/lessons/teens/intro/05-youre-israel-too
 ---
 
+> **Bible:** {{% bible val="Genesis 15" link="gen:15" lang="en" %}}
+
 ## The deal that's rigged against you
 
 You've probably already met a version of this: the terms and conditions nobody reads, the group project where one person does the work and everyone gets the grade, the "friendship" that only works as long as you keep being useful. Some deals look fair on the surface but are quietly built so one side can't actually win.

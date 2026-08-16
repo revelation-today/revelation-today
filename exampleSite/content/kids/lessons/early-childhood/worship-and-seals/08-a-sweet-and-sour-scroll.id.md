@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/07-loud-trumpets-big-warnings
 next: /kids/lessons/early-childhood/worship-and-seals/09-brave-helpers
+story: /story/early-childhood/content/scroll
 ---
 
 # Gulungan Kitab yang Manis dan Asam
+
+> **Cerita untuk dibacakan:** [The Small Scroll]({{< relref "story/early-childhood/content/scroll" >}})  
+> **Alkitab:** {{% bible val="Wahyu 10" link="rev:10" lang="ind" %}}
+
 
 ## Gambarannya
 

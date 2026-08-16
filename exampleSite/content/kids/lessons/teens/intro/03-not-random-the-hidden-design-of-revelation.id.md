@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/02-reading-revelation-right
 next: /kids/lessons/teens/intro/04-a-promise-god-keeps-even-when-we-break-it
 ---
 
+> **Alkitab:** {{% bible val="Wahyu 1:19" link="rev:1,19" lang="ind" %}}
+
 ## Ketika semuanya terasa kacau
 
 Scroll berita seminggu biasa dan rasanya seperti dunia sedang secara acak menghasilkan bencana — satu krisis demi krisis, tanpa pola, tanpa rencana, hanya kekacauan yang berulang. Tambahkan hidupmu sendiri — nilai, pertemanan, urusan keluarga, dengungan latar yang terus-menerus soal "apakah aku baik-baik saja" — dan mudah sekali untuk sampai pada kesimpulan yang sama: tidak ada yang benar-benar mengendalikan ini. Semuanya cuma kebisingan.

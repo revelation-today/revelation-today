@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 prev: /kids/lessons/elementary/worship-and-seals/06-gods-army
 next: /kids/lessons/elementary/worship-and-seals/08-the-little-scroll
+story: /story/elementary/content/trumpets
 ---
 # The Trumpets
 ### Revelation 8–9
+
+> **Story to read:** [The Trumpets]({{< relref "story/elementary/content/trumpets" >}})  
+> **Bible:** {{% bible val="Revelation 8–9" link="rev:8" lang="en" %}}
+
 
 ## 1. What would you do?
 

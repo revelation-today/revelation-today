@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/01-your-own-pax-romana
 next: /kids/lessons/teens/intro/03-not-random-the-hidden-design-of-revelation
 ---
 
+> **Bible:** {{% bible val="Revelation 1:1–3" link="rev:1,1-3" lang="en" %}}
+
 ## The genre trap
 
 Imagine someone hands you a political cartoon — a drawing of a country as a snarling dragon breathing fire on a smaller country drawn as a frightened lamb. You'd understand it instantly. Nobody thinks the artist believes dragons are real, or that a real country literally has scales. You read the image correctly without even trying, because you already know the genre: this is commentary, not a photograph.

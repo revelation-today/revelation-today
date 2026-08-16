@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/10-the-exodus-pattern
 next: /kids/lessons/teens/intro/12-a-vision-too-big-to-ignore
 ---
 
+> **Kutsal Kitap:** {{% bible val="Yaratılış 11:1–9" link="gen:11,1-9" lang="tr" %}}
+
 ## İnsanların kendi hayatlarını mahvetmesinin iki yolu
 
 Bir insanın mahvolmasının temelde iki yolu var. Bir: kendini yükseltmek için o kadar çok çabalıyorsun — adın, imajın, itibarın — ki tamamen yanlış şeyi inşa ediyorsun. İki: düşman olarak bile görmediğin biri seni bir tavize ikna ediyor, her seferinde makul görünen bir adımla, ta ki hiç gitmek istemediğin bir yerde bulana kadar.

@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/04-the-lion-who-is-really-a-lamb
 next: /kids/lessons/early-childhood/worship-and-seals/06-god-counts-every-one-of-us
+story: /story/early-childhood/content/seals
 ---
 
 # The Horses Are Not the Boss
+
+> **Story to read:** [The Seals]({{< relref "story/early-childhood/content/seals" >}})  
+> **Bible:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}
+
 
 ## The Picture
 

@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/ending/14-a-thousand-years-of-jesus-being-king
 next: /kids/lessons/early-childhood/ending/16-our-new-home-the-new-jerusalem
+story: /story/early-childhood/content/1000y
 ---
 
 # Gökyüzü Tanrı'ya Yakın Olmaktır
+
+> **Okunacak hikâye:** [The Millennium]({{< relref "story/early-childhood/content/1000y" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 20" link="rev:20" lang="tr" %}}
+
 
 ## Resim
 

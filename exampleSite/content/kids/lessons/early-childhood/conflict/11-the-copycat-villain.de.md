@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/conflict/10-a-different-christmas-story
 next: /kids/lessons/early-childhood/conflict/12-faithful-even-when-its-hard
+story: /story/early-childhood/content/beasts
 ---
 
 # Der Nachahmer-Bösewicht
+
+> **Geschichte zum Vorlesen:** [The Dragon and the Two Beasts]({{< relref "story/early-childhood/content/beasts" >}})  
+> **Bibel:** {{% bible val="Offenbarung 13" link="rev:13" lang="de" trans="hfa" %}}
+
 
 ## Das Bild
 

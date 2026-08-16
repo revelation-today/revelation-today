@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 prev: /kids/lessons/elementary/conflict/13-the-bowls
 next: /kids/lessons/elementary/ending/15-the-thousand-years
+story: /story/elementary/content/harlot
 ---
 # The Harlot and the Bride
 ### Revelation 17–19
+
+> **Story to read:** [The Harlot]({{< relref "story/elementary/content/harlot" >}})  
+> **Bible:** {{% bible val="Revelation 17–19" link="rev:17" lang="en" %}}
+
 
 ## 1. Two invitations
 

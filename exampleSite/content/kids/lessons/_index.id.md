@@ -11,7 +11,7 @@ diskusi, dan saran lagu.
 | Jenjang | Usia | Sesi |
 |---|---|---|
 | [Usia Dini]({{< relref "kids/lessons/early-childhood" >}}) - *Yesus Menang, dan Ia Mengasihi Kita* | 4-7 | 16 |
-| [Sekolah Dasar]({{< relref "kids/lessons/elementary" >}}) - *rangkaian inti* | 8-12 | 16 |
+| [Sekolah Dasar]({{< relref path="kids/lessons/elementary" lang="en" >}}) - *rangkaian inti* | 8-12 | 16 |
 | [Remaja]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 |
 
 Ketiga jenjang menelusuri Kitab Wahyu dalam lima bagian: latar belakang dan penglihatan

@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/jesus/a-different-christmas-story
 prev: /kids/lessons/elementary/worship-and-seals/09-the-two-witnesses
 next: /kids/lessons/elementary/conflict/11-the-dragon-and-the-two-beasts
+story: /story/elementary/content/jesus
 ---
 # Jesus' Victory
 ### Revelation 12
+
+> **Story to read:** [The Victory of Jesus]({{< relref "story/elementary/content/jesus" >}})  
+> **Bible:** {{% bible val="Revelation 12" link="rev:12" lang="en" %}}
+
 
 ## 1. A Christmas story you haven't heard
 

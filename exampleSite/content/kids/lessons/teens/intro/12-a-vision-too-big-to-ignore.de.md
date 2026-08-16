@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/vision/the-vision
 prev: /kids/lessons/teens/intro/11-babel-and-balaam-two-ways-to-ruin-yourself
 next: /kids/lessons/teens/letters/13-real-letters-to-real-churches
+story: /story/teens/content/vision
 ---
+
+> **Geschichte zum Vorlesen:** [The Vision]({{< relref "story/teens/content/vision" >}})  
+> **Bibel:** {{% bible val="Offenbarung 1" link="rev:1" lang="de" %}}
 
 ## Hast du schon mal etwas gehört, an dem du nicht einfach vorbeiscrollen konntest?
 

@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /kids/lessons/teens/letters/15-the-churches-nobody-praised-enough
 next: /kids/lessons/teens/worship-and-seals/17-the-four-horsemen-and-the-wrath-of-the-lamb
+story: /story/teens/content/worship
 ---
+
+> **Okunacak hikâye:** [Worship in the Throne Room]({{< relref "story/teens/content/worship" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 4–5" link="rev:4" lang="tr" %}}
 
 ## Her Şey Çok Fazla Hissettirdiğinde
 

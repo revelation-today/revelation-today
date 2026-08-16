@@ -6,7 +6,11 @@ audience_group: "teens"
 audience_track: "teens"
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/lessons/teens/conflict/19-babylon-falls
+story: /story/teens/content/paradise
 ---
+
+> **Story to read:** [New Heaven and New Earth]({{< relref "story/teens/content/paradise" >}})  
+> **Bible:** {{% bible val="Revelation 21–22" link="rev:21" lang="en" %}}
 
 ## What You've Probably Already Absorbed
 

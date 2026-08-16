@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/conflict/13-bad-things-dont-win
 next: /kids/lessons/early-childhood/ending/15-heaven-is-being-close-to-god
+story: /story/early-childhood/content/1000y
 ---
 
 # A Thousand Years of Jesus Being King
+
+> **Story to read:** [The Millennium]({{< relref "story/early-childhood/content/1000y" >}})  
+> **Bible:** {{% bible val="Revelation 20" link="rev:20" lang="en" %}}
+
 
 ## The Picture
 

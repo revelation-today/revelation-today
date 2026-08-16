@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/ending/14-a-thousand-years-of-jesus-being-king
 next: /kids/lessons/early-childhood/ending/16-our-new-home-the-new-jerusalem
+story: /story/early-childhood/content/1000y
 ---
 
 # Surga Adalah Dekat dengan Allah
+
+> **Cerita untuk dibacakan:** [The Millennium]({{< relref "story/early-childhood/content/1000y" >}})  
+> **Alkitab:** {{% bible val="Wahyu 20" link="rev:20" lang="ind" %}}
+
 
 ## Gambarannya
 

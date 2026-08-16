@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/05-youre-israel-too
 next: /kids/lessons/teens/intro/07-daniels-countdown
 ---
 
+> **Bibel:** {{% bible val="Daniel 1" link="dan:1" lang="de" %}}
+
 ## Der Druck, in der Masse zu verschwinden
 
 Du kennst das Gefühl: Du kommst in einen neuen Gruppenchat, ein neues Team, ein neues Schuljahr, und es gibt ein unausgesprochenes Regelwerk, das du schnell herausfinden sollst — was man anzieht, worüber man lacht, welche Meinungen man laut äußern darf, was man vorgibt, egal zu finden. Niemand gibt dir das Regelwerk in die Hand. Du sollst es einfach aufsaugen und dich anpassen, oder den sozialen Preis dafür zahlen.

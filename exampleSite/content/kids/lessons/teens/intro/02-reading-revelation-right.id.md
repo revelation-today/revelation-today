@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/01-your-own-pax-romana
 next: /kids/lessons/teens/intro/03-not-random-the-hidden-design-of-revelation
 ---
 
+> **Alkitab:** {{% bible val="Wahyu 1:1–3" link="rev:1,1-3" lang="ind" %}}
+
 ## Jebakan genre
 
 Bayangkan seseorang menyerahkan kartun politik kepadamu — gambar sebuah negara sebagai naga yang mendengus mengeluarkan api ke negara yang lebih kecil yang digambar sebagai domba ketakutan. Kamu akan langsung mengerti. Tidak ada yang berpikir sang seniman percaya naga itu benar-benar ada, atau bahwa negara sungguhan benar-benar bersisik. Kamu membaca gambar itu dengan benar tanpa perlu berusaha, karena kamu sudah tahu genre-nya: ini komentar, bukan foto.

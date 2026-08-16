@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood
 next: /kids/lessons/early-childhood/letters/02-letters-just-for-you
+story: /story/early-childhood/content/vision
 ---
 
 # İsa Her Kraldan Daha Büyüktür
+
+> **Okunacak hikâye:** [The Vision]({{< relref "story/early-childhood/content/vision" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 1" link="rev:1" lang="tr" %}}
+
 
 ## Resim
 

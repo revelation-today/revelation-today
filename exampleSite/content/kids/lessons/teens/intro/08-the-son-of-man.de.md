@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/07-daniels-countdown
 next: /kids/lessons/teens/intro/09-why-god-wants-to-be-close-not-just-in-charge
 ---
 
+> **Bibel:** {{% bible val="Daniel 7:13–14" link="dan:7,13-14" lang="de" %}}
+
 ## Der eine Titel, den Jesus wirklich wählte
 
 Scroll durch die Art, wie sich Menschen online beschreiben — die Bios, die Labels, die Identitäten, die Menschen ständig bauen und neu bauen, auf der Suche nach der einen, die endlich passt. Bedenke jetzt Folgendes: Jesus, der buchstäblich jeden Titel hätte beanspruchen können, den er wollte — König, Messias, Sohn Gottes, Herr über alles —, nennt sich fast immer nur eine Sache: "der Menschensohn". Das ist die einzige Selbstbezeichnung, die er durchgehend benutzt. Das ist merkwürdig genug, um es genauer zu untersuchen. Warum genau dieser Titel, aus allem, was ihm zur Verfügung stand?

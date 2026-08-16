@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/letters/the-angel-of-the-churches
 prev: /kids/lessons/teens/intro/12-a-vision-too-big-to-ignore
 next: /kids/lessons/teens/letters/14-the-churches-that-looked-fine-but-werent
+story: /story/teens/content/letters
 ---
+
+> **Okunacak hikâye:** [The Letters to the Churches]({{< relref "story/teens/content/letters" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 2–3" link="rev:2" lang="tr" %}}
 
 ## İstemediğin Karneler
 

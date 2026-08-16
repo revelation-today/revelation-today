@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/conflict/11-the-copycat-villain
 next: /kids/lessons/early-childhood/conflict/13-bad-things-dont-win
+story: /story/early-childhood/content/harvest
 ---
 
 # Setia Walau Sulit
+
+> **Cerita untuk dibacakan:** [The Two Harvests]({{< relref "story/early-childhood/content/harvest" >}})  
+> **Alkitab:** {{% bible val="Wahyu 14" link="rev:14" lang="ind" %}}
+
 
 ## Gambarannya
 

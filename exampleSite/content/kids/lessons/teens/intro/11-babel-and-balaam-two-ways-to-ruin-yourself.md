@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/10-the-exodus-pattern
 next: /kids/lessons/teens/intro/12-a-vision-too-big-to-ignore
 ---
 
+> **Bible:** {{% bible val="Genesis 11:1–9" link="gen:11,1-9" lang="en" %}}
+
 ## Two ways people wreck their own lives
 
 There are basically two ways a person ends up ruined. One: you try so hard to build yourself up — your name, your image, your reputation — that you build the wrong thing entirely. Two: someone you don't even see as an enemy talks you into a compromise, one reasonable-sounding step at a time, until you're somewhere you never meant to go.

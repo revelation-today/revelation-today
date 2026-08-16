@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/1000y/the-thousand-year-kingdom
 prev: /kids/lessons/elementary/conflict/14-the-harlot-and-the-bride
 next: /kids/lessons/elementary/ending/16-new-heaven-and-new-earth
+story: /story/elementary/content/1000y
 ---
 # The Thousand Years
 ### Revelation 20
+
+> **Story to read:** [The Millennium]({{< relref "story/elementary/content/1000y" >}})  
+> **Bible:** {{% bible val="Revelation 20" link="rev:20" lang="en" %}}
+
 
 ## 1. Grown-ups disagreeing
 

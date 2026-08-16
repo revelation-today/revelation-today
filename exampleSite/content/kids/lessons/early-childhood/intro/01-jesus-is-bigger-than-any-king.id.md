@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood
 next: /kids/lessons/early-childhood/letters/02-letters-just-for-you
+story: /story/early-childhood/content/vision
 ---
 
 # Yesus Lebih Besar dari Raja Mana Pun
+
+> **Cerita untuk dibacakan:** [The Vision]({{< relref "story/early-childhood/content/vision" >}})  
+> **Alkitab:** {{% bible val="Wahyu 1" link="rev:1" lang="ind" %}}
+
 
 ## Gambarannya
 

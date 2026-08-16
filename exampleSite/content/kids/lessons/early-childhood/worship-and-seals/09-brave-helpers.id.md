@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/08-a-sweet-and-sour-scroll
 next: /kids/lessons/early-childhood/conflict/10-a-different-christmas-story
+story: /story/early-childhood/content/witnesses
 ---
 
 # Penolong-Penolong yang Berani
+
+> **Cerita untuk dibacakan:** [The Two Witnesses]({{< relref "story/early-childhood/content/witnesses" >}})  
+> **Alkitab:** {{% bible val="Wahyu 11" link="rev:11" lang="ind" %}}
+
 
 ## Gambarannya
 

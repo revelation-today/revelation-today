@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/intro/01-jesus-is-bigger-than-any-king
 next: /kids/lessons/early-childhood/worship-and-seals/03-the-best-party-in-heaven
+story: /story/early-childhood/content/letters
 ---
 
 # Surat Khusus untukmu
+
+> **Cerita untuk dibacakan:** [The Letters to the Churches]({{< relref "story/early-childhood/content/letters" >}})  
+> **Alkitab:** {{% bible val="Wahyu 2–3" link="rev:2" lang="ind" %}}
+
 
 ## Gambarannya
 

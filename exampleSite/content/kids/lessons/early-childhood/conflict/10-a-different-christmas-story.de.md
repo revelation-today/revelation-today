@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/09-brave-helpers
 next: /kids/lessons/early-childhood/conflict/11-the-copycat-villain
+story: /story/early-childhood/content/jesus
 ---
 
 # Eine andere Weihnachtsgeschichte
+
+> **Geschichte zum Vorlesen:** [The Victory of Jesus]({{< relref "story/early-childhood/content/jesus" >}})  
+> **Bibel:** {{% bible val="Offenbarung 12" link="rev:12" lang="de" trans="hfa" %}}
+
 
 ## Das Bild
 

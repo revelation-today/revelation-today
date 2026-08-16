@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /kids/lessons/teens/worship-and-seals/16-worship-fixes-everything
 next: /kids/lessons/teens/conflict/18-the-beast-the-number-and-why-666-isnt-about-you
+story: /story/teens/content/seals
 ---
+
+> **Story to read:** [The Seals]({{< relref "story/teens/content/seals" >}})  
+> **Bible:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}
 
 ## When the Winning Side Turns Out to Be Fake
 

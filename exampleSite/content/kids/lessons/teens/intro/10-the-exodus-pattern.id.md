@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/09-why-god-wants-to-be-close-not-just-in-charge
 next: /kids/lessons/teens/intro/11-babel-and-balaam-two-ways-to-ruin-yourself
 ---
 
+> **Alkitab:** {{% bible val="Keluaran 12" link="exo:12" lang="ind" %}}
+
 ## Apa Sebenarnya yang Kamu Percaya untuk Menopangmu?
 
 Pikirkan apa yang akan membuatmu panik kalau kehilangannya. Ponselmu. Kelompok temanmu. Nilai-nilaimu. Posisimu di tim. Jumlah follower tertentu. Hal-hal ini tidak jahat — tapi perhatikan betapa besar beban yang diam-diam kamu letakkan padanya. Entah bagaimana, itu menjadi lebih dari sekadar hal-hal baik yang kamu miliki. Itu menjadi hal-hal yang kamu andalkan untuk merasa baik-baik saja.

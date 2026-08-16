@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/conflict/10-a-different-christmas-story
 next: /kids/lessons/early-childhood/conflict/12-faithful-even-when-its-hard
+story: /story/early-childhood/content/beasts
 ---
 
 # Taklitçi Kötü Adam
+
+> **Okunacak hikâye:** [The Dragon and the Two Beasts]({{< relref "story/early-childhood/content/beasts" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}}
+
 
 ## Resim
 

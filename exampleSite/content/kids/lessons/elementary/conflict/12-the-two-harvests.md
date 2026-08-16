@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /kids/lessons/elementary/conflict/11-the-dragon-and-the-two-beasts
 next: /kids/lessons/elementary/conflict/13-the-bowls
+story: /story/elementary/content/harvest
 ---
 # The Two Harvests
 ### Revelation 14
+
+> **Story to read:** [The Two Harvests]({{< relref "story/elementary/content/harvest" >}})  
+> **Bible:** {{% bible val="Revelation 14" link="rev:14" lang="en" %}}
+
 
 ## 1. Sorting
 

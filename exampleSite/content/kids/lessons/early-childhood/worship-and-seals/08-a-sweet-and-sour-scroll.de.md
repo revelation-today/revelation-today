@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/07-loud-trumpets-big-warnings
 next: /kids/lessons/early-childhood/worship-and-seals/09-brave-helpers
+story: /story/early-childhood/content/scroll
 ---
 
 # Eine süße und saure Schriftrolle
+
+> **Geschichte zum Vorlesen:** [The Small Scroll]({{< relref "story/early-childhood/content/scroll" >}})  
+> **Bibel:** {{% bible val="Offenbarung 10" link="rev:10" lang="de" trans="hfa" %}}
+
 
 ## Das Bild
 

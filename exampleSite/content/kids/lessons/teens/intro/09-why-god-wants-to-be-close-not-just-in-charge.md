@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/08-the-son-of-man
 next: /kids/lessons/teens/intro/10-the-exodus-pattern
 ---
 
+> **Bible:** {{% bible val="Exodus 25:8" link="exo:25,8" lang="en" %}}
+
 ## The question underneath the question
 
 If someone asked you "what does God actually want from you," what would you say? Obedience? Good behavior? To not mess up too badly before Sunday?

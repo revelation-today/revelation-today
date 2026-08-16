@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/vision/setting-the-foundation
 prev: /kids/lessons/elementary/intro/01-who-is-really-in-charge
 next: /kids/lessons/elementary/letters/03-the-seven-letters
+story: /story/elementary/content/vision
 ---
 # The Vision
 ### Revelation 1
+
+> **Story to read:** [The Vision]({{< relref "story/elementary/content/vision" >}})  
+> **Bible:** {{% bible val="Revelation 1" link="rev:1" lang="en" %}}
+
 
 ## 1. A surprising question
 

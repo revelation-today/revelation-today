@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/vision/the-vision
 prev: /kids/lessons/teens/intro/11-babel-and-balaam-two-ways-to-ruin-yourself
 next: /kids/lessons/teens/letters/13-real-letters-to-real-churches
+story: /story/teens/content/vision
 ---
+
+> **Cerita untuk dibacakan:** [The Vision]({{< relref "story/teens/content/vision" >}})  
+> **Alkitab:** {{% bible val="Wahyu 1" link="rev:1" lang="ind" %}}
 
 ## Pernahkah Kamu Mendengar Sesuatu yang Tidak Bisa Kamu Scroll Lewati Begitu Saja?
 

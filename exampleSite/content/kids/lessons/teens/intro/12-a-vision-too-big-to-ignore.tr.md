@@ -7,7 +7,11 @@ audience_track: "teens"
 expl: /expl/content/vision/the-vision
 prev: /kids/lessons/teens/intro/11-babel-and-balaam-two-ways-to-ruin-yourself
 next: /kids/lessons/teens/letters/13-real-letters-to-real-churches
+story: /story/teens/content/vision
 ---
+
+> **Okunacak hikâye:** [The Vision]({{< relref "story/teens/content/vision" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 1" link="rev:1" lang="tr" %}}
 
 ## Hiç sadece kaydırıp geçemediğin bir şey duydun mu?
 

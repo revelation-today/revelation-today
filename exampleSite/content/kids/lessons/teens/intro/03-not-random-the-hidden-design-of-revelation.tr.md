@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/02-reading-revelation-right
 next: /kids/lessons/teens/intro/04-a-promise-god-keeps-even-when-we-break-it
 ---
 
+> **Kutsal Kitap:** {{% bible val="Vahiy 1:19" link="rev:1,19" lang="tr" %}}
+
 ## Her şey kaos gibi hissettiğinde
 
 Normal bir haftanın haberlerini kaydır, dünyanın rastgele felaketler ürettiği hissine kapılabilirsin — bir kriz diğerinin ardından, hiçbir örüntü yok, hiçbir plan yok, sadece döngüde kaos. Buna kendi hayatını da ekle — notlar, arkadaşlıklar, aile meseleleri, "iyi miyim acaba" diye sürekli arka planda çalan o ses — ve aynı sonuca varmak kolay: bunu gerçekten yönlendiren kimse yok. Hepsi sadece gürültü.

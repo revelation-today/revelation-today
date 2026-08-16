@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/scroll/the-little-scroll
 prev: /kids/lessons/elementary/worship-and-seals/07-the-trumpets
 next: /kids/lessons/elementary/worship-and-seals/09-the-two-witnesses
+story: /story/elementary/content/scroll
 ---
 # The Little Scroll
 ### Revelation 10
+
+> **Story to read:** [The Small Scroll]({{< relref "story/elementary/content/scroll" >}})  
+> **Bible:** {{% bible val="Revelation 10" link="rev:10" lang="en" %}}
+
 
 ## 1. Eating your homework
 

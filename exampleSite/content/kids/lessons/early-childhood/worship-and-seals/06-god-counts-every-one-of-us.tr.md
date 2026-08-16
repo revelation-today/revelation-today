@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/05-the-horses-are-not-the-boss
 next: /kids/lessons/early-childhood/worship-and-seals/07-loud-trumpets-big-warnings
+story: /story/early-childhood/content/army
 ---
 
 # Tanrı Her Birimizi Sayıyor
+
+> **Okunacak hikâye:** [The Army of God]({{< relref "story/early-childhood/content/army" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 7" link="rev:7" lang="tr" %}}
+
 
 ## Resim
 

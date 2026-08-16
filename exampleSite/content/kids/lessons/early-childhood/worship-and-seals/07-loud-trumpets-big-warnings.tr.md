@@ -6,9 +6,14 @@ audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/worship-and-seals/06-god-counts-every-one-of-us
 next: /kids/lessons/early-childhood/worship-and-seals/08-a-sweet-and-sour-scroll
+story: /story/early-childhood/content/trumpets
 ---
 
 # Yüksek Sesli Borular, Büyük Uyarılar
+
+> **Okunacak hikâye:** [The Trumpets]({{< relref "story/early-childhood/content/trumpets" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 8–9" link="rev:8" lang="tr" %}}
+
 
 ## Resim
 

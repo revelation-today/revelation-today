@@ -5,9 +5,14 @@ docType: kids
 audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/ending/15-heaven-is-being-close-to-god
+story: /story/early-childhood/content/paradise
 ---
 
 # Our New Home, the New Jerusalem
+
+> **Story to read:** [New Heaven and New Earth]({{< relref "story/early-childhood/content/paradise" >}})  
+> **Bible:** {{% bible val="Revelation 21–22" link="rev:21" lang="en" %}}
+
 
 ## The Picture
 

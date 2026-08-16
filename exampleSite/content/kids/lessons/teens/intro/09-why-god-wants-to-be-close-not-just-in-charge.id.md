@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/08-the-son-of-man
 next: /kids/lessons/teens/intro/10-the-exodus-pattern
 ---
 
+> **Alkitab:** {{% bible val="Keluaran 25:8" link="exo:25,8" lang="ind" %}}
+
 ## Pertanyaan di Balik Pertanyaan
 
 Kalau seseorang bertanya kepadamu "apa sebenarnya yang Allah inginkan darimu," apa yang akan kamu katakan? Ketaatan? Perilaku baik? Untuk tidak terlalu kacau sebelum hari Minggu?

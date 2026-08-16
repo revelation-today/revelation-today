@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/06-daniel-staying-yourself-under-pressure
 next: /kids/lessons/teens/intro/08-the-son-of-man
 ---
 
+> **Kutsal Kitap:** {{% bible val="Daniel 9:24–27" link="dan:9,24-27" lang="tr" %}}
+
 ## Daha Ne Kadar Olduğunu Bilmediğinde
 
 Muhtemelen sadece şunu bilmek istediğin bir dönemin oldu: bu ne kadar daha sürecek? Test sonuçlarını beklemek, bir okuldan haber beklemek, bir arkadaşlığın ya iyileşmesini ya da nihayet bitmesini beklemek, zor bir aile durumunun çözülmesini beklemek. Bilmemek, genelde zor şeyin kendisinden daha kötüdür. Bitiş tarihi olmayan bir bekleme döngüsüne sıkışmış hissetmek yön duygunu bozar.

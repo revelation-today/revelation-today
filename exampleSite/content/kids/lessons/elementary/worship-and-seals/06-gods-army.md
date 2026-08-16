@@ -7,9 +7,14 @@ audience_track: "kids"
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 prev: /kids/lessons/elementary/worship-and-seals/05-the-seals
 next: /kids/lessons/elementary/worship-and-seals/07-the-trumpets
+story: /story/elementary/content/army
 ---
 # God's Army
 ### Revelation 7
+
+> **Story to read:** [The Army of God]({{< relref "story/elementary/content/army" >}})  
+> **Bible:** {{% bible val="Revelation 7" link="rev:7" lang="en" %}}
+
 
 ## 1. Draw an army
 

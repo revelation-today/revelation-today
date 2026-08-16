@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/05-youre-israel-too
 next: /kids/lessons/teens/intro/07-daniels-countdown
 ---
 
+> **Bible:** {{% bible val="Daniel 1" link="dan:1" lang="en" %}}
+
 ## The Pressure to Disappear Into the Crowd
 
 You know the feeling: you walk into a new group chat, a new team, a new school year, and there's an unspoken rulebook you're supposed to figure out fast — what to wear, what to laugh at, what opinions are safe to have out loud, what you pretend not to care about. Nobody hands you the rulebook. You're just supposed to absorb it and blend in, or pay the social cost.

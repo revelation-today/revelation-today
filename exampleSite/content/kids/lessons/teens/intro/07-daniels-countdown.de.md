@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/06-daniel-staying-yourself-under-pressure
 next: /kids/lessons/teens/intro/08-the-son-of-man
 ---
 
+> **Bibel:** {{% bible val="Daniel 9:24–27" link="dan:9,24-27" lang="de" %}}
+
 ## Wenn du nicht weißt, wie viel länger noch
 
 Du hattest wahrscheinlich schon eine Phase, in der du einfach wissen wolltest: Wie viel länger dauert das noch? Warten auf Testergebnisse, warten auf Rückmeldung von einer Schule, warten darauf, dass eine Freundschaft entweder heilt oder endlich endet, warten darauf, dass sich eine schwierige Familiensituation löst. Das Nicht-Wissen ist oft schlimmer als die schwierige Sache selbst. Es ist verwirrend, sich in einer Warteschleife ohne Enddatum gefangen zu fühlen.

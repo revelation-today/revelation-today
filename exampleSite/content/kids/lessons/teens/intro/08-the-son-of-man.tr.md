@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/07-daniels-countdown
 next: /kids/lessons/teens/intro/09-why-god-wants-to-be-close-not-just-in-charge
 ---
 
+> **Kutsal Kitap:** {{% bible val="Daniel 7:13–14" link="dan:7,13-14" lang="tr" %}}
+
 ## İsa'nın Gerçekten Seçtiği Tek Unvan
 
 İnsanların kendilerini internette nasıl tanımladığına bir bak — biyografiler, etiketler, insanların sürekli inşa edip yeniden inşa ettiği, sonunda tam oturan birini bulmaya çalıştığı kimlikler. Şimdi şunu düşün: İsa, kelimenin tam anlamıyla istediği herhangi bir unvanı talep edebilirdi — Kral, Mesih, Tanrı'nın Oğlu, Her Şeyin Rabbi — ama neredeyse her zaman kendine sadece tek bir şey diyor: "İnsanoğlu." Tutarlı bir şekilde kullandığı tek kendini tanımlama bu. Bu, üzerine eğilmeye değecek kadar garip. Elindeki her şeyin arasından neden o?

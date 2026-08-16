@@ -5,9 +5,14 @@ docType: kids
 audience_group: "early-childhood"
 audience_track: "early-childhood"
 prev: /kids/lessons/early-childhood/ending/15-heaven-is-being-close-to-god
+story: /story/early-childhood/content/paradise
 ---
 
 # Yeni Yuvamız, Yeni Yeruşalim
+
+> **Okunacak hikâye:** [New Heaven and New Earth]({{< relref "story/early-childhood/content/paradise" >}})  
+> **Kutsal Kitap:** {{% bible val="Vahiy 21–22" link="rev:21" lang="tr" %}}
+
 
 ## Resim
 

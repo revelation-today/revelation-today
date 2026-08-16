@@ -9,6 +9,8 @@ prev: /kids/lessons/teens/intro/08-the-son-of-man
 next: /kids/lessons/teens/intro/10-the-exodus-pattern
 ---
 
+> **Bibel:** {{% bible val="2. Mose 25:8" link="exo:25,8" lang="de" %}}
+
 ## Die Frage unter der Frage
 
 Wenn dich jemand fragen würde "Was will Gott eigentlich von dir", was würdest du sagen? Gehorsam? Gutes Verhalten? Bis Sonntag nicht zu viel Mist bauen?
