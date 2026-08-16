@@ -11,7 +11,7 @@ Liedvorschläge.
 | Stufe | Alter | Einheiten |
 |---|---|---|
 | [Vorschulalter]({{< relref "kids/lessons/early-childhood" >}}) - *Jesus siegt, und er hat uns lieb* | 4-7 | 16 |
-| [Grundschulalter]({{< relref path="kids/lessons/elementary" lang="en" >}}) - *die zentrale Reihe* | 8-12 | 16 |
+| [Grundschulalter]({{< relref path="kids/lessons/elementary" >}}) - *die zentrale Reihe* | 8-12 | 16 |
 | [Jugendliche]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 |
 
 Alle drei Stufen gehen die Offenbarung in fünf Teilen durch: Hintergrund und erste Vision,

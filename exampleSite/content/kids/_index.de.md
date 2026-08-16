@@ -10,7 +10,7 @@ biblischer Geschichte, Anwendung, Merkvers, Gebet und Vorbereitungsideen für di
 | Stufe | Alter | Einheiten | Dauer |
 |---|---|---|---|
 | [Vorschulalter]({{< relref "kids/lessons/early-childhood" >}}) | 4-7 | 16 | ca. 10 Minuten |
-| [Grundschulalter]({{< relref path="kids/lessons/elementary" lang="en" >}}) | 8-12 | 16 | ca. 15 Minuten |
+| [Grundschulalter]({{< relref path="kids/lessons/elementary" >}}) | 8-12 | 16 | ca. 15 Minuten |
 | [Jugendliche]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 | ca. 15 Minuten |
 
 **Die Grundschulstufe ist die zentrale Reihe.** Im Vorschulalter bleibt jede Einheit bei

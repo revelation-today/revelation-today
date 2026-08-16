@@ -10,7 +10,7 @@ penerapan, ayat hafalan, doa, dan ide-ide persiapan bagi pengajar.
 | Jenjang | Usia | Sesi | Durasi |
 |---|---|---|---|
 | [Usia Dini]({{< relref "kids/lessons/early-childhood" >}}) | 4-7 | 16 | sekitar 10 menit |
-| [Sekolah Dasar]({{< relref path="kids/lessons/elementary" lang="en" >}}) | 8-12 | 16 | sekitar 15 menit |
+| [Sekolah Dasar]({{< relref path="kids/lessons/elementary" >}}) | 8-12 | 16 | sekitar 15 menit |
 | [Remaja]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 | sekitar 15 menit |
 
 **Jenjang sekolah dasar adalah rangkaian intinya.** Untuk usia dini, setiap sesi berfokus
