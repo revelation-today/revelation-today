@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The bowls of wrath (Ch. 15-16)"
 weight: 120
 base: /quick/content/bowls

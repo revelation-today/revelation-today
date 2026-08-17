@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Die Armee Gottes (Kapitel 7)"
 weight: 50
 base: /quick/content/army

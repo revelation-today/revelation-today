@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Die Briefe an die Gemeinden (Kapitel 2-3)"
 weight: 10
 base: /quick/content/letters

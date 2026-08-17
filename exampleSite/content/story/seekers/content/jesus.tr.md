@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "İsa'nın zaferi (Bölüm 12)"
 weight: 90
 base: /quick/content/jesus

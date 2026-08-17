@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The two witnesses (Ch. 11)"
 weight: 80
 base: /quick/content/witnesses

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Langit baru dan bumi baru (Pasal 21-22)"
 weight: 150
 base: /quick/content/paradise

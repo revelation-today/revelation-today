@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Der Sieg Jesu (Kapitel 12)"
 weight: 90
 base: /quick/content/jesus

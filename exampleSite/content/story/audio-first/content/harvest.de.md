@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Die zwei Ernten (Kapitel 14)"
 weight: 110
 base: /quick/content/harvest

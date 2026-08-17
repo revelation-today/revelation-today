@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Worship (Ch. 4-5)"
 weight: 20
 base: /quick/content/worship

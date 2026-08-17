@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Tanrı'nın ordusu (Bölüm 7)"
 weight: 50
 base: /quick/content/army

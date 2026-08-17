@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Surat-surat kepada jemaat-jemaat (Pasal 2-3)"
 weight: 10
 base: /quick/content/letters

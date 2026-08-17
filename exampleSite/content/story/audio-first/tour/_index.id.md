@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Tur melalui kisah
 weight: 1
 prev: /welcome

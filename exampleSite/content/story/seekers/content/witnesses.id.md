@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Dua saksi (Pasal 11)"
 weight: 80
 base: /quick/content/witnesses

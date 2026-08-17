@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "İki hasat (Bölüm 14)"
 weight: 110
 base: /quick/content/harvest

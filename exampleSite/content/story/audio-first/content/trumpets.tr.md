@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Borazanlar (Bölüm 8-9)"
 weight: 60
 base: /quick/content/trumpets

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Görüm (Bölüm 1)"
 weight: 1
 base: /quick/content/vision

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The two harvests (Ch. 14)"
 weight: 110
 base: /quick/content/harvest

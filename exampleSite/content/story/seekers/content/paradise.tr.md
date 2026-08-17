@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Yeni gök ve yeni yeryüzü (Bölüm 21-22)"
 weight: 150
 base: /quick/content/paradise

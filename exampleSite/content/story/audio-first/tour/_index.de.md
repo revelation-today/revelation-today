@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Tour durch die Geschichte
 weight: 1
 prev: /welcome

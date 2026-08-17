@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "İki tanık (Bölüm 11)"
 weight: 80
 base: /quick/content/witnesses

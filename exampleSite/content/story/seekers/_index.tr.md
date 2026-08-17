@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Hikâye: Dürüst Bir Bakış"
 weight: 10
 ---

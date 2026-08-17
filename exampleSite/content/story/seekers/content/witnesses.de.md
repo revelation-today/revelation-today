@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Die zwei Zeugen (Kapitel 11)"
 weight: 80
 base: /quick/content/witnesses

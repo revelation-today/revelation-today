@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The new heaven and new earth (Ch. 21-22)"
 weight: 150
 base: /quick/content/paradise

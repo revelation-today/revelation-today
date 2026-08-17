@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Dua tuaian (Pasal 14)"
 weight: 110
 base: /quick/content/harvest

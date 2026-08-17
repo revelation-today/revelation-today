@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Kisah Ini: Untuk Didengar"
 weight: 10
 ---

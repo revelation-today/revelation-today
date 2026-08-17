@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Kiliselere mektuplar (Bölüm 2-3)"
 weight: 10
 base: /quick/content/letters

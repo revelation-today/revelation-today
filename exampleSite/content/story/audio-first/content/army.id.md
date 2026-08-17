@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Pasukan Allah (Pasal 7)"
 weight: 50
 base: /quick/content/army

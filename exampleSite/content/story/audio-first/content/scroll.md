@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The small scroll (Ch. 10)"
 weight: 70
 base: /quick/content/scroll

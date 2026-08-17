@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Kemenangan Yesus (Pasal 12)"
 weight: 90
 base: /quick/content/jesus

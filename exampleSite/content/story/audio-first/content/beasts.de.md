@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Der Drache und die zwei Tiere (Kapitel 13)"
 weight: 100
 base: /quick/content/beasts

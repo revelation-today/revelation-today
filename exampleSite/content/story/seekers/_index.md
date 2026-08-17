@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The Story: An Honest Look"
 weight: 10
 ---

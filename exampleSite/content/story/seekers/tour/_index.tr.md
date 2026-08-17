@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Hikaye boyunca tur
 weight: 1
 prev: /welcome

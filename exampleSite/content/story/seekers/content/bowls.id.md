@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Cawan-cawan murka (Pasal 15-16)"
 weight: 120
 base: /quick/content/bowls

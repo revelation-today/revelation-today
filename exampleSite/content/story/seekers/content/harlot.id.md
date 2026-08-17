@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Pelacur itu (Pasal 17-19)"
 weight: 130
 base: /quick/content/harlot

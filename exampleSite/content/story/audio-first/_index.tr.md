@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Hikaye: Dinlemek İçin"
 weight: 10
 ---

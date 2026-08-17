@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The seals (Ch. 6)"
 weight: 40
 base: /quick/content/seals

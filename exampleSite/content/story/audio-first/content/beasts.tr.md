@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Ejderha ve iki canavar (Bölüm 13)"
 weight: 100
 base: /quick/content/beasts

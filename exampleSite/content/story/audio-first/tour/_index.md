@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Tour through story
 weight: 1
 prev: /welcome

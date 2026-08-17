@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Meterai-meterai (Pasal 6)"
 weight: 40
 base: /quick/content/seals

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The army of God (Ch. 7)"
 weight: 50
 base: /quick/content/army

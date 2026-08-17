@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Kisahnya: Sebuah Tinjauan Jujur"
 weight: 10
 ---

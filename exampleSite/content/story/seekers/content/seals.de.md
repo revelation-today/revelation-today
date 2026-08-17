@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Die Siegel (Kapitel 6)"
 weight: 40
 base: /quick/content/seals

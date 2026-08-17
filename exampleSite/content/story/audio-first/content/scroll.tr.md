@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Küçük tomar (Bölüm 10)"
 weight: 70
 base: /quick/content/scroll

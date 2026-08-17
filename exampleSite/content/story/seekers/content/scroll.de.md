@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Die kleine Schriftrolle (Kapitel 10)"
 weight: 70
 base: /quick/content/scroll

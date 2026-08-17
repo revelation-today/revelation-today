@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Naga dan dua binatang buas (Pasal 13)"
 weight: 100
 base: /quick/content/beasts

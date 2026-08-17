@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The victory of Jesus (Ch. 12)"
 weight: 90
 base: /quick/content/jesus

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Gazap tasları (Bölüm 15-16)"
 weight: 120
 base: /quick/content/bowls

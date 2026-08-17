@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Gulungan kecil (Pasal 10)"
 weight: 70
 base: /quick/content/scroll

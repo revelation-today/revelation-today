@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The letters to the churches (Ch. 2-3)"
 weight: 10
 base: /quick/content/letters

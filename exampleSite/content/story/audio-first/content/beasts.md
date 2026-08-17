@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The dragon and the two beasts (Ch. 13)"
 weight: 100
 base: /quick/content/beasts

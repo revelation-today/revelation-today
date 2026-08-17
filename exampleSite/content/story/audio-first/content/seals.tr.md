@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Mühürler (Bölüm 6)"
 weight: 40
 base: /quick/content/seals

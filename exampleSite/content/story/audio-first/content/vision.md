@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The vision (Ch. 1)"
 weight: 1
 base: /quick/content/vision
