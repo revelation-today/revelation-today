@@ -33,4 +33,5 @@ length, and framing to fit who's reading (or listening).
 | [You Are There]({{< relref "story/pentecostal/tour" >}}) | Present-tense, immersive telling |
 | [What Real Security Looks Like]({{< relref "story/prosperity-gospel/tour" >}}) | Contexts where health-and-wealth teaching has traction |
 | [Echoes and Threads]({{< relref "story/literary/tour" >}}) | Readers who know Daniel, Ezekiel, and Isaiah by heart |
+| [When Nothing Changes]({{< relref "story/disillusioned/tour" >}}) | Readers who have stopped expecting the world to get better |
 | [You Are Safe Here]({{< relref "story/trauma-informed/tour" >}}) | Readers processing real trauma or recent violence |
