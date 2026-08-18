@@ -4,7 +4,7 @@ weight: 40
 base: /quick/content/seals
 appl: /appl/content/seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
-kids: /kids/content/seals
+kids: /kids/lessons/elementary/worship-and-seals/05-the-seals
 prev: /story/general/content/worship
 next: /story/general/content/army
 docType: story

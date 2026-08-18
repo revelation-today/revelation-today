@@ -6,7 +6,7 @@ expl: /expl/content/jesus/a-different-christmas-story
 prev: /quick/content/witnesses
 next: /quick/content/beasts
 docType: quick
-kids: /kids/content/jesus
+kids: /kids/lessons/elementary/conflict/10-jesus-victory
 ---
 
 {{% bible val="Pasal 12" link="rev:12" lang="id" %}}.

@@ -10,7 +10,7 @@ docType: expl
 |-------|-----------|
 | {{% bible val="Offenbarung:1" link="rev:1,-1" lang="de" %}} | ["Unser Text": ersten drei Kapitel der Offenbarung](/appl/content/vision/#0ab1) |
 | {{% bible val="Offenbarung:1" link="rev:1,-1" lang="de" %}} | ["Ein kleiner Überblick": Geheimnis der Gemeinde: Licht für Welt und abhängig von Jesus](/expl/background/structure/the-three-mysteries#994f) |
-| {{% bible val="Offenbarung:1" link="rev:1,-1" lang="de" %}} | [""Die Vision (Kap. 1)"": Kapitel 1](/kids/content/vision#None) |
+| {{% bible val="Offenbarung:1" link="rev:1,-1" lang="de" %}} | [""Die Vision (Kap. 1)"": Kapitel 1](/kids/lessons/elementary/intro/02-the-vision#None) |
 | {{% bible val="Offenbarung:1" link="rev:1,-1" lang="de" %}} | [""Die Vision (Kap. 1)"": Kapitel 1](/quick/content/vision#None) |
 | {{% bible val="Offenbarung:1" link="rev:1,-1" lang="de" %}} | [""Ein neuer Anfang (Kapitel 1)"": Kapitel 1](/story/content/vision#None) |
 | {{% bible val="Offenbarung:1,1" link="rev:1,1" lang="de" %}} | ["Was geschehen muss": Beginn der Offenbarung](/expl/background/literature/literally-or-symbolic#af5e) |
@@ -52,7 +52,7 @@ docType: expl
 | {{% bible val="Offenbarung:2" link="rev:2,-1" lang="de" %}} | ["Unser Text": Kapitel 2 und 3 der Offenbarung](/appl/content/letters/#0ab1) |
 | {{% bible val="Offenbarung:2" link="rev:2,-1" lang="de" %}} | ["Ein Brief {#letter}": Kapitel 2 und 3](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
 | {{% bible val="Offenbarung:2" link="rev:2,-1" lang="de" %}} | ["Ein kleiner Überblick": Realität der Gemeinde: folgt nicht der Vision](/expl/background/structure/the-three-mysteries#994f) |
-| {{% bible val="Offenbarung:2" link="rev:2,-1" lang="de" %}} | [""Die Sendschreiben (Kap. 2-3)"": Kapitel 2](/kids/content/letters#None) |
+| {{% bible val="Offenbarung:2" link="rev:2,-1" lang="de" %}} | [""Die Sendschreiben (Kap. 2-3)"": Kapitel 2](/kids/lessons/elementary/letters/03-the-seven-letters#None) |
 | {{% bible val="Offenbarung:2" link="rev:2,-1" lang="de" %}} | [""Die Sendschreiben (Kap. 2-3)"": Kapitel 2](/quick/content/letters#None) |
 | {{% bible val="Offenbarung:2" link="rev:2,-1" lang="de" %}} | [""Die Ernüchterung (Kapitel 2–3)"": Kapitel 2–3](/story/content/letters#None) |
 | {{% bible val="Offenbarung:2,1" link="rev:2,1" lang="de" %}} | ["Beobachtungen": Schreibe dem Engel der Gemeinde](/expl/content/letters/the-angel-of-the-churches#e9dd) |
@@ -99,7 +99,7 @@ docType: expl
 | {{% bible val="Offenbarung:2,28" link="rev:2,28" lang="de" %}} | ["Die Lösung": Morgenstern](/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
 | {{% bible val="Offenbarung:2,28" link="rev:2,28" lang="de" %}} | ["Die Überwinder": Thyatira](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Offenbarung:2,28" link="rev:2,28" lang="de" %}} | ["Der Hintergrund und Kontext": Morgenstern zu bekommen](/expl/content/worship/worship-in-the-throne-room#e638) |
-| {{% bible val="Offenbarung:3" link="rev:3,-1" lang="de" %}} | [""Die Sendschreiben (Kap. 2-3)"": 3](/kids/content/letters#None) |
+| {{% bible val="Offenbarung:3" link="rev:3,-1" lang="de" %}} | [""Die Sendschreiben (Kap. 2-3)"": 3](/kids/lessons/elementary/letters/03-the-seven-letters#None) |
 | {{% bible val="Offenbarung:3" link="rev:3,-1" lang="de" %}} | [""Die Sendschreiben (Kap. 2-3)"": 3](/quick/content/letters#None) |
 | {{% bible val="Offenbarung:3,1" link="rev:3,1" lang="de" %}} | ["Jesu Sicht": Gemeinde in der Fülle des Heiligen Geistes und erinnert sie daran, dass sie das Licht der Welt sein sollen](/expl/content/letters/the-letter-to-the-church-in-sardis#4d09) |
 | {{% bible val="Offenbarung:3,1" link="rev:3,1" lang="de" %}} | ["Der Hintergrund und Kontext": Ansprache an Sardes](/expl/content/worship/worship-in-the-throne-room#e638) |
@@ -129,7 +129,7 @@ docType: expl
 | {{% bible val="Offenbarung:3,21" link="rev:3,21" lang="de" %}} | ["Der Hintergrund und Kontext": Überwinder in Laodizea](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Offenbarung:4" link="rev:4,-1" lang="de" %}} | ["Unser Text": Kapitel 4](/appl/content/worship/#ba47) |
 | {{% bible val="Offenbarung:4" link="rev:4,-1" lang="de" %}} | ["Ein kleiner Überblick": Gottes Gegenwart im Himmel](/expl/background/structure/the-three-mysteries#994f) |
-| {{% bible val="Offenbarung:4" link="rev:4,-1" lang="de" %}} | [""Anbetung (Kap. 4-5)"": Kapitel 4](/kids/content/worship#None) |
+| {{% bible val="Offenbarung:4" link="rev:4,-1" lang="de" %}} | [""Anbetung (Kap. 4-5)"": Kapitel 4](/kids/lessons/elementary/worship-and-seals/04-worship-in-heaven#None) |
 | {{% bible val="Offenbarung:4" link="rev:4,-1" lang="de" %}} | [""Anbetung (Kap. 4-5)"": Kapitel 4](/quick/content/worship#None) |
 | {{% bible val="Offenbarung:4" link="rev:4,-1" lang="de" %}} | [""Hilfe naht (Chapter 4–5)"": Chapter 4–5](/story/content/worship#None) |
 | {{% bible val="Offenbarung:4,1" link="rev:4,1" lang="de" %}} | ["Was geschehen muss": Ich werde dir zeigen, was danach geschehen muss](/expl/background/literature/literally-or-symbolic#af5e) |
@@ -160,7 +160,7 @@ docType: expl
 | {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | ["Ein kleiner Überblick": Jesu Sieg im Himmel](/expl/background/structure/the-three-mysteries#994f) |
 | {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | ["Die Beschreibung Satans": Krönung Jesu](/expl/content/beasts/the-nature-of-the-beast#7b88) |
 | {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | ["Die Auflösung": vorhergehenden Kapitel wird Jesus als derjenige offenbart, der würdig ist, das Buch zu öffnen](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
-| {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | [""Anbetung (Kap. 4-5)"": 5](/kids/content/worship#None) |
+| {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | [""Anbetung (Kap. 4-5)"": 5](/kids/lessons/elementary/worship-and-seals/04-worship-in-heaven#None) |
 | {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | [""Anbetung (Kap. 4-5)"": 5](/quick/content/worship#None) |
 | {{% bible val="Offenbarung:5,1" link="rev:5,1" lang="de" %}} | ["Das Buch mit den sieben Siegeln": ein Buch mit sieben Siegeln auf](/expl/content/worship/the-book-with-the-seven-seals#99a2) |
 | {{% bible val="Offenbarung:5,1-5" link="rev:5,1-5" lang="de" %}} | ["Der Hintergrund und Kontext": Offenbarung](/expl/content/worship/worship-in-the-throne-room#e638) |
@@ -199,7 +199,7 @@ docType: expl
 | {{% bible val="Offenbarung:5,13-14" link="rev:5,13-14" lang="de" %}} | ["Der Hintergrund und Kontext": Offenbarung](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Offenbarung:6" link="rev:6,-1" lang="de" %}} | ["Unser Text": 6](/appl/content/seals/#35f4) |
 | {{% bible val="Offenbarung:6" link="rev:6,-1" lang="de" %}} | ["Ein kleiner Überblick": Satans Plan gegen die Menschheit schlägt fehl](/expl/background/structure/the-three-mysteries#994f) |
-| {{% bible val="Offenbarung:6" link="rev:6,-1" lang="de" %}} | [""Die Siegel (Kap. 6)"": Kapitel 6](/kids/content/seals#None) |
+| {{% bible val="Offenbarung:6" link="rev:6,-1" lang="de" %}} | [""Die Siegel (Kap. 6)"": Kapitel 6](/kids/lessons/elementary/worship-and-seals/05-the-seals#None) |
 | {{% bible val="Offenbarung:6" link="rev:6,-1" lang="de" %}} | [""Die Siegel (Kap. 6)"": Kapitel 6](/quick/content/seals#None) |
 | {{% bible val="Offenbarung:6" link="rev:6,-1" lang="de" %}} | [""Das Böse erwacht — tritt in die Armee Gottes ein (Kapitel 6–7)"": Kapitel 6–7](/story/content/seals#None) |
 | {{% bible val="Offenbarung:6,1-2" link="rev:6,1-2" lang="de" %}} | ["Das Geheimnis des ersten Reiters": Und ich sah, wie das Lamm eines von den Siegeln öffnete, und ich hörte eines von den vier lebendigen Wesen wie mit Donnerstimme sagen: Komm und sieh! 2 Und ich sah, und siehe, ein weißes Pferd, und der darauf saß, hatte einen Bogen; und es wurde ihm eine Krone gegeben, und er zog aus als ein Sieger und um zu siegen.](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
@@ -222,7 +222,7 @@ docType: expl
 | {{% bible val="Offenbarung:6,12-17" link="rev:6,12-17" lang="de" %}} | ["Die sieben Siegel": Antwort ist das Endgericht](/expl/content/worship/the-book-with-the-seven-seals#8be0) |
 | {{% bible val="Offenbarung:7" link="rev:7,-1" lang="de" %}} | ["Unser Text": Kapitel 7](/appl/content/army/#804c) |
 | {{% bible val="Offenbarung:7" link="rev:7,-1" lang="de" %}} | ["Ein kleiner Überblick": Versiegeln der Gläubigen, Armee der 144.000 aus allen Nationen dienen im Tempel, die aus großen Trübsal kommen](/expl/background/structure/the-three-mysteries#994f) |
-| {{% bible val="Offenbarung:7" link="rev:7,-1" lang="de" %}} | [""Die Armee Gottes (Kap. 7)"": Kapitel 7](/kids/content/army#None) |
+| {{% bible val="Offenbarung:7" link="rev:7,-1" lang="de" %}} | [""Die Armee Gottes (Kap. 7)"": Kapitel 7](/kids/lessons/elementary/worship-and-seals/06-gods-army#None) |
 | {{% bible val="Offenbarung:7" link="rev:7,-1" lang="de" %}} | [""Die Armee Gottes (Kap. 7)"": Kapitel 7](/quick/content/army#None) |
 | {{% bible val="Offenbarung:7,1" link="rev:7,1" lang="de" %}} | ["Die Zahl 4": die 4 Winde](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
 | {{% bible val="Offenbarung:7,1-4" link="rev:7,1-4" lang="de" %}} | ["Der Schutz der Kirche": Beschreibung der Versiegelung](/quick/content/army#None) |
@@ -242,7 +242,7 @@ docType: expl
 | {{% bible val="Offenbarung:7,15-17" link="rev:7,15-17" lang="de" %}} | ["Die Armee Gottes": werden nun von Gott getröstet](/expl/content/army/the-144000#e329) |
 | {{% bible val="Offenbarung:7,17" link="rev:7,17" lang="de" %}} | ["Der Aufbau des Kapitels": Anbeter aus allen Nationen sind, die aus der Großen Trübsal kommen](/expl/content/paradise/the-new-jerusalem#8c47) |
 | {{% bible val="Offenbarung:8" link="rev:8,-1" lang="de" %}} | ["Unser Text": Kapitel 8](/appl/content/trumpets/#738f) |
-| {{% bible val="Offenbarung:8" link="rev:8,-1" lang="de" %}} | [""Die Posaunen (Kap. 8-9)"": Kapitel 8](/kids/content/trumpets#None) |
+| {{% bible val="Offenbarung:8" link="rev:8,-1" lang="de" %}} | [""Die Posaunen (Kap. 8-9)"": Kapitel 8](/kids/lessons/elementary/worship-and-seals/07-the-trumpets#None) |
 | {{% bible val="Offenbarung:8" link="rev:8,-1" lang="de" %}} | [""Die Posaunen (Kap. 8-9)"": Kapitel 8](/quick/content/trumpets#None) |
 | {{% bible val="Offenbarung:8" link="rev:8,-1" lang="de" %}} | [""Der erste Angriff (Kapitel 8–9)"": Kapitel 8–9](/story/content/trumpets#None) |
 | {{% bible val="Offenbarung:8,1-5" link="rev:8,1-5" lang="de" %}} | ["Ein kleiner Überblick": Ansage der Posaunen](/expl/background/structure/the-three-mysteries#994f) |
@@ -257,7 +257,7 @@ docType: expl
 | {{% bible val="Offenbarung:8,12-13" link="rev:8,12-13" lang="de" %}} | ["Die ersten vier Posaunen": Die vierte Posaune](/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Offenbarung:9" link="rev:9,-1" lang="de" %}} | ["Unser Text": 9](/appl/content/trumpets/#738f) |
 | {{% bible val="Offenbarung:9" link="rev:9,-1" lang="de" %}} | ["Ein kleiner Überblick": Geplagt durch die Dämonen, auf die vertraut](/expl/background/structure/the-three-mysteries#994f) |
-| {{% bible val="Offenbarung:9" link="rev:9,-1" lang="de" %}} | [""Die Posaunen (Kap. 8-9)"": 9](/kids/content/trumpets#None) |
+| {{% bible val="Offenbarung:9" link="rev:9,-1" lang="de" %}} | [""Die Posaunen (Kap. 8-9)"": 9](/kids/lessons/elementary/worship-and-seals/07-the-trumpets#None) |
 | {{% bible val="Offenbarung:9" link="rev:9,-1" lang="de" %}} | ["Der Schutz der Kirche": Posaunengerichte](/quick/content/army#None) |
 | {{% bible val="Offenbarung:9" link="rev:9,-1" lang="de" %}} | ["Der Schutz der Kirche": fünfte Posaune](/quick/content/army#None) |
 | {{% bible val="Offenbarung:9" link="rev:9,-1" lang="de" %}} | [""Die Posaunen (Kap. 8-9)"": 9](/quick/content/trumpets#None) |
@@ -273,7 +273,7 @@ docType: expl
 | {{% bible val="Offenbarung:9,20-21" link="rev:9,20-21" lang="de" %}} | ["Die fünfte und sechste Posaune": Menschen sich nicht bekehrten](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Offenbarung:10" link="rev:10,-1" lang="de" %}} | ["Unser Text": Kapitel 10](/appl/content/scroll/#eb3b) |
 | {{% bible val="Offenbarung:10" link="rev:10,-1" lang="de" %}} | ["Ein kleiner Überblick": Geheimnis Gottes: Gott regiert](/expl/background/structure/the-three-mysteries#994f) |
-| {{% bible val="Offenbarung:10" link="rev:10,-1" lang="de" %}} | [""Die kleine Rolle (Kap. 10)"": Kapitel 10](/kids/content/scroll#None) |
+| {{% bible val="Offenbarung:10" link="rev:10,-1" lang="de" %}} | [""Die kleine Rolle (Kap. 10)"": Kapitel 10](/kids/lessons/elementary/worship-and-seals/08-the-little-scroll#None) |
 | {{% bible val="Offenbarung:10" link="rev:10,-1" lang="de" %}} | [""Die kleine Rolle (Kap. 10)"": Kapitel 10](/quick/content/scroll#None) |
 | {{% bible val="Offenbarung:10" link="rev:10,-1" lang="de" %}} | [""Realitätscheck (Kapitel 10)"": Kapitel 10](/story/content/scroll#None) |
 | {{% bible val="Offenbarung:10,1" link="rev:10,1" lang="de" %}} | ["Ein kleines Wort mit großen Konsequenzen": der Engel mit dem kleinen Buch](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
@@ -287,7 +287,7 @@ docType: expl
 | {{% bible val="Offenbarung:10,9" link="rev:10,9" lang="de" %}} | ["Was hat es mit dem zweitem Tod und der ersten Auferstehung auf sich?": Wurde bitter im Bauch, aber süß im Mund](/expl/content/1000y/the-thousand-year-kingdom#299a) |
 | {{% bible val="Offenbarung:11" link="rev:11,-1" lang="de" %}} | ["Unser Text": Kapitel 11](/appl/content/witnesses/#33c1) |
 | {{% bible val="Offenbarung:11" link="rev:11,-1" lang="de" %}} | [""Die Identität der beiden Zeugen in der Offenbarung"": Kapitel 11](/expl/content/witnesses/the-two-witnesses#None) |
-| {{% bible val="Offenbarung:11" link="rev:11,-1" lang="de" %}} | [""Die beiden Zeugen (Kap. 11)"": Kapitel 11](/kids/content/witnesses#None) |
+| {{% bible val="Offenbarung:11" link="rev:11,-1" lang="de" %}} | [""Die beiden Zeugen (Kap. 11)"": Kapitel 11](/kids/lessons/elementary/worship-and-seals/09-the-two-witnesses#None) |
 | {{% bible val="Offenbarung:11" link="rev:11,-1" lang="de" %}} | [""Die beiden Zeugen (Kap. 11)"": Kapitel 11](/quick/content/witnesses#None) |
 | {{% bible val="Offenbarung:11" link="rev:11,-1" lang="de" %}} | [""Der große Zusammenprall (Kapitel 11–13)"": Kapitel 11–13](/story/content/witnesses#None) |
 | {{% bible val="Offenbarung:11,1-2" link="rev:11,1-2" lang="de" %}} | ["Was sind die 3,5 Jahre in der Offenbarung": Tempel](/expl/bible/daniel/the-secret-of-the-3-5-years#1f16) |
@@ -356,7 +356,7 @@ docType: expl
 | {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | ["Die Hure": Rettete Mutter](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | ["Die Zeugen und die Tiere": ständige Verlierer ist](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | ["Die Zeugen und die Tiere": zweite](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | [""Der Sieg Jesu (Kap. 12)"": Kapitel 12](/kids/content/jesus#None) |
+| {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | [""Der Sieg Jesu (Kap. 12)"": Kapitel 12](/kids/lessons/elementary/conflict/10-jesus-victory#None) |
 | {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | [""Der Sieg Jesu (Kap. 12)"": Kapitel 12](/quick/content/jesus#None) |
 | {{% bible val="Offenbarung:12,1" link="rev:12,1" lang="de" %}} | ["Das Binden Satans": 12](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Offenbarung:12,1" link="rev:12,1" lang="de" %}} | ["Die Hure": Hat Sicherheit im Himmel](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
@@ -406,7 +406,7 @@ docType: expl
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Schließlich die Geschichte": Drachen und den Tieren, die scheinbar alles im Griff haben](/expl/content/jesus/a-different-christmas-story#fb36) |
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Die Auflösung": Kapitel 13](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Die Zeugen und die Tiere": Tiere](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | [""Der Drache und die beiden Tiere (Kap. 13)"": Kapitel 13](/kids/content/beasts#None) |
+| {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | [""Der Drache und die beiden Tiere (Kap. 13)"": Kapitel 13](/kids/lessons/elementary/conflict/11-the-dragon-and-the-two-beasts#None) |
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | [""Der Drache und die beiden Tiere (Kap. 13)"": Kapitel 13](/quick/content/beasts#None) |
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Die vier apokalyptischen Reiter": Kapitel 13](/quick/content/seals#None) |
 | {{% bible val="Offenbarung:13,1" link="rev:13,1" lang="de" %}} | ["Das erste Tier ": es hat 10 Hörner](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
@@ -585,7 +585,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Die Zeugen und die Tiere": zweite Tier](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:14" link="rev:14,-1" lang="de" %}} | ["Unser Text": Kapitel 14](/appl/content/harvest/#5b8f) |
 | {{% bible val="Offenbarung:14" link="rev:14,-1" lang="de" %}} | ["Ein kleiner Überblick": Der Sieg der treuen 144.000 (von gesamter Menschheit) auf Berg Zion vor seinem Thron, Gericht über Babel, die beiden Ernten](/expl/background/structure/the-three-mysteries#994f) |
-| {{% bible val="Offenbarung:14" link="rev:14,-1" lang="de" %}} | [""Die beiden Ernten (Kap. 14)"": Kapitel 14](/kids/content/harvest#None) |
+| {{% bible val="Offenbarung:14" link="rev:14,-1" lang="de" %}} | [""Die beiden Ernten (Kap. 14)"": Kapitel 14](/kids/lessons/elementary/conflict/12-the-two-harvests#None) |
 | {{% bible val="Offenbarung:14" link="rev:14,-1" lang="de" %}} | [""Die beiden Ernten (Kap. 14)"": Kapitel 14](/quick/content/harvest#None) |
 | {{% bible val="Offenbarung:14" link="rev:14,-1" lang="de" %}} | [""Der Sieg (Kapitel 14–16)"": Kapitel 14–16](/story/content/harvest#None) |
 | {{% bible val="Offenbarung:14,1" link="rev:14,1" lang="de" %}} | ["Die 666 im Zusammenhang": direkt im Vers vor der Erwähnung der 144.000](/expl/content/beasts/666-the-number-of-the-beast#c413) |
@@ -605,7 +605,7 @@ docType: expl
 | {{% bible val="Offenbarung:14,19" link="rev:14,19" lang="de" %}} | ["Die beiden Ernten": Weinpresse des Zornes Gottes](/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
 | {{% bible val="Offenbarung:15" link="rev:15,-1" lang="de" %}} | ["Unser Text": Kapitel 15](/appl/content/bowls/#5322) |
 | {{% bible val="Offenbarung:15" link="rev:15,-1" lang="de" %}} | ["Ein kleiner Überblick": Ansage der Schalen](/expl/background/structure/the-three-mysteries#994f) |
-| {{% bible val="Offenbarung:15" link="rev:15,-1" lang="de" %}} | [""Die Zornesschalen (Kap. 15-16)"": Kapitel 15-16](/kids/content/bowls#None) |
+| {{% bible val="Offenbarung:15" link="rev:15,-1" lang="de" %}} | [""Die Zornesschalen (Kap. 15-16)"": Kapitel 15-16](/kids/lessons/elementary/conflict/13-the-bowls#None) |
 | {{% bible val="Offenbarung:15" link="rev:15,-1" lang="de" %}} | [""Die Zornesschalen (Kap. 15-16)"": Kapitel 15-16](/quick/content/bowls#None) |
 | {{% bible val="Offenbarung:15,1" link="rev:15,1" lang="de" %}} | ["Weitere Argumente für eine Schlacht": Zu Beginn der Schalen wird gesagt, dass dies die letzten Plagen sind](/expl/content/1000y/the-thousand-year-kingdom#6a0c) |
 | {{% bible val="Offenbarung:15,1" link="rev:15,1" lang="de" %}} | ["Der Hintergrund": anzen ein Ende zu setzen](/expl/content/bowls/the-bowls-of-wrath#3526) |
@@ -650,7 +650,7 @@ docType: expl
 | {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | ["Der religiöse Aspekt": Offenbarung](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | ["Der religiöse Aspekt": 17](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | ["Die Auflösung": Kapitel 17](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
-| {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": Kapitel 17](/kids/content/harlot#None) |
+| {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": Kapitel 17](/kids/lessons/elementary/conflict/14-the-harlot-and-the-bride#None) |
 | {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": Kapitel 17](/quick/content/harlot#None) |
 | {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | ["Die vier apokalyptischen Reiter": Kapitel 17](/quick/content/seals#None) |
 | {{% bible val="Offenbarung:17,1" link="rev:17,1" lang="de" %}} | ["deiknumi": Die Einleitung der Vision von der Hure](/expl/background/literature/literally-or-symbolic#360a) |
@@ -726,7 +726,7 @@ docType: expl
 | {{% bible val="Offenbarung:18" link="rev:18,-1" lang="de" %}} | ["Unser Text": 18](/appl/content/harlot/#2f15) |
 | {{% bible val="Offenbarung:18" link="rev:18,-1" lang="de" %}} | ["Ein kleiner Überblick": Warnung an die Gemeinde: von Babel trennen/unterscheiden](/expl/background/structure/the-three-mysteries#994f) |
 | {{% bible val="Offenbarung:18" link="rev:18,-1" lang="de" %}} | ["Der religiöse Aspekt": 18](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
-| {{% bible val="Offenbarung:18" link="rev:18,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": 18](/kids/content/harlot#None) |
+| {{% bible val="Offenbarung:18" link="rev:18,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": 18](/kids/lessons/elementary/conflict/14-the-harlot-and-the-bride#None) |
 | {{% bible val="Offenbarung:18" link="rev:18,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": 18](/quick/content/harlot#None) |
 | {{% bible val="Offenbarung:18,1" link="rev:18,1" lang="de" %}} | ["Ein kleines Wort mit großen Konsequenzen": das Gericht über Babel](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Offenbarung:18,3" link="rev:18,3" lang="de" %}} | ["Die Hure und das zweite Tier": Kaufen und verkaufen nicht möglich ohne Hure](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
@@ -765,7 +765,7 @@ docType: expl
 | {{% bible val="Offenbarung:18,22-24" link="rev:18,22-24" lang="de" %}} | ["Das Gericht über die Hure": dem sie anderen Böses angetan hat](/expl/content/harlot/the-character-and-destiny-of-the-harlot#db66) |
 | {{% bible val="Offenbarung:18,23" link="rev:18,23" lang="de" %}} | ["Die Hure": Nutzt Zauberei benutzen](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:19" link="rev:19,-1" lang="de" %}} | ["Unser Text": 19](/appl/content/harlot/#2f15) |
-| {{% bible val="Offenbarung:19" link="rev:19,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": 19](/kids/content/harlot#None) |
+| {{% bible val="Offenbarung:19" link="rev:19,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": 19](/kids/lessons/elementary/conflict/14-the-harlot-and-the-bride#None) |
 | {{% bible val="Offenbarung:19" link="rev:19,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": 19](/quick/content/harlot#None) |
 | {{% bible val="Offenbarung:19" link="rev:19,-1" lang="de" %}} | [""Die letzte Herausforderung (Kapitel 17–19)"": Kapitel 17–19](/story/content/harlot#None) |
 | {{% bible val="Offenbarung:19,1-10" link="rev:19,1-10" lang="de" %}} | ["Ein kleiner Überblick": Gottes Heirat mit der Braut](/expl/background/structure/the-three-mysteries#994f) |
@@ -796,7 +796,7 @@ docType: expl
 | {{% bible val="Offenbarung:19,21" link="rev:19,21" lang="de" %}} | ["Die christliche Waffenrüstung": Jesus zieht mit dem Schwert seines Mundes in den Krieg](/expl/topics/others/dispensionalism-and-its-critic#7b85) |
 | {{% bible val="Offenbarung:20" link="rev:20,-1" lang="de" %}} | ["Unser Text": Kapitel 20](/appl/content/1000y/#cedf) |
 | {{% bible val="Offenbarung:20" link="rev:20,-1" lang="de" %}} | ["Ein kleiner Überblick": Satan ist gebunden während die Treuen regieren in Gottes Geliebter Stadt, letztes Gericht](/expl/background/structure/the-three-mysteries#994f) |
-| {{% bible val="Offenbarung:20" link="rev:20,-1" lang="de" %}} | [""Das tausendjährige Reich (Kap. 20)"": Kapitel 20](/kids/content/1000y#None) |
+| {{% bible val="Offenbarung:20" link="rev:20,-1" lang="de" %}} | [""Das tausendjährige Reich (Kap. 20)"": Kapitel 20](/kids/lessons/elementary/ending/15-the-thousand-years#None) |
 | {{% bible val="Offenbarung:20" link="rev:20,-1" lang="de" %}} | [""Das tausendjährige Reich (Kap. 20)"": Kapitel 20](/quick/content/1000y#None) |
 | {{% bible val="Offenbarung:20" link="rev:20,-1" lang="de" %}} | [""Ein neuer Anfang (Kapitel 20–22)"": Kapitel 20–22](/story/content/1000y#None) |
 | {{% bible val="Offenbarung:20,1" link="rev:20,1" lang="de" %}} | ["Das Binden Satans": 20](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
@@ -840,7 +840,7 @@ docType: expl
 | {{% bible val="Offenbarung:21" link="rev:21,-1" lang="de" %}} | ["Was ist die Erzählschiene?": Kapitel 21](/expl/content/1000y/the-thousand-year-kingdom#008e) |
 | {{% bible val="Offenbarung:21" link="rev:21,-1" lang="de" %}} | ["Himmel und das Neue Jerusalem": 21](/expl/content/paradise/heaven-and-hell#2f63) |
 | {{% bible val="Offenbarung:21" link="rev:21,-1" lang="de" %}} | ["Ein kurzer Steifzug durch die Geschichte":  ein Kapitel später in der Offenbarung](/expl/topics/others/dispensionalism-a-little-history#0f48) |
-| {{% bible val="Offenbarung:21" link="rev:21,-1" lang="de" %}} | [""Neuer Himmel und neue Erde (Kap. 21-22)"": Kapitel 21](/kids/content/paradise#None) |
+| {{% bible val="Offenbarung:21" link="rev:21,-1" lang="de" %}} | [""Neuer Himmel und neue Erde (Kap. 21-22)"": Kapitel 21](/kids/lessons/elementary/ending/16-new-heaven-and-new-earth#None) |
 | {{% bible val="Offenbarung:21" link="rev:21,-1" lang="de" %}} | [""Neuer Himmel und neue Erde (Kap. 21-22)"": Kapitel 21](/quick/content/paradise#None) |
 | {{% bible val="Offenbarung:21,1" link="rev:21,1" lang="de" %}} | ["Alles ist neu": Und ich sah einen neuen Himmel und eine neue Erde; denn der erste Himmel und die erste Erde waren vergangen, und das Meer gibt es nicht mehr.](/expl/content/paradise/the-new-jerusalem#2da9) |
 | {{% bible val="Offenbarung:21,1" link="rev:21,1" lang="de" %}} | ["Kein Meer mehr": kein Meer mehr geben wird](/expl/content/paradise/the-new-jerusalem#eee1) |
@@ -906,7 +906,7 @@ docType: expl
 | {{% bible val="Offenbarung:21,27" link="rev:21,27" lang="de" %}} | ["Die internen Features": der letzte Vers schließt die ungläubigen Nationen ein](/expl/content/paradise/the-new-jerusalem#284a) |
 | {{% bible val="Offenbarung:21,27" link="rev:21,27" lang="de" %}} | ["Die internen Features": können die Ungläubigen nicht hineingehen](/expl/content/paradise/the-new-jerusalem#284a) |
 | {{% bible val="Offenbarung:22" link="rev:22,-1" lang="de" %}} | ["Unser Text": 22](/appl/content/paradise/#49a1) |
-| {{% bible val="Offenbarung:22" link="rev:22,-1" lang="de" %}} | [""Neuer Himmel und neue Erde (Kap. 21-22)"": 22](/kids/content/paradise#None) |
+| {{% bible val="Offenbarung:22" link="rev:22,-1" lang="de" %}} | [""Neuer Himmel und neue Erde (Kap. 21-22)"": 22](/kids/lessons/elementary/ending/16-new-heaven-and-new-earth#None) |
 | {{% bible val="Offenbarung:22" link="rev:22,-1" lang="de" %}} | [""Neuer Himmel und neue Erde (Kap. 21-22)"": 22](/quick/content/paradise#None) |
 | {{% bible val="Offenbarung:22,1" link="rev:22,1" lang="de" %}} | ["deiknumi": Der Strom des Lebens, der vom Thron im Neuen Jerusalem ausgeht](/expl/background/literature/literally-or-symbolic#360a) |
 | {{% bible val="Offenbarung:22,1-2" link="rev:22,1-2" lang="de" %}} | [""Neuer Himmel und neue Erde (Kap. 21-22)"": Fluss und der Baum des Lebens](/quick/content/paradise#None) |

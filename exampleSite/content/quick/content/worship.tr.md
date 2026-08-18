@@ -6,7 +6,7 @@ expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals
 docType: quick
-kids: /kids/content/worship
+kids: /kids/lessons/elementary/worship-and-seals/04-worship-in-heaven
 ---
 
 {{% bible val="Bölüm 4" link="rev:4" lang="tr" %}} ve {{% bible val="5" link="rev:5" lang="tr" %}}.

@@ -9,7 +9,7 @@ deeper:
     - name: Rahasia dari 3,5 tahun
       link:  /expl/bible/daniel/the-secret-of-the-3-5-years
 docType: quick
-kids: /kids/content/witnesses
+kids: /kids/lessons/elementary/worship-and-seals/09-the-two-witnesses
 ---
 
 {{% bible val="Pasal 11" link="rev:11" lang="id" %}}.

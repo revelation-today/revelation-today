@@ -9,7 +9,7 @@ deeper:
     - name: The secret of the 3,5 years
       link:  /expl/bible/daniel/the-secret-of-the-3-5-years
 docType: quick
-kids: /kids/content/witnesses
+kids: /kids/lessons/elementary/worship-and-seals/09-the-two-witnesses
 ---
 
 {{% bible val="Kapitel 11" link="rev:11" lang="de" %}}.

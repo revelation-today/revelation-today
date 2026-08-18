@@ -4,7 +4,7 @@ weight: 60
 base: /quick/content/trumpets
 story: /story/general/content/trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
-kids: /kids/content/trumpets
+kids: /kids/lessons/elementary/worship-and-seals/07-the-trumpets
 docType: appl
 ---
 

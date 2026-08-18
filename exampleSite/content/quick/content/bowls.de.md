@@ -6,7 +6,7 @@ expl: /expl/content/bowls/the-bowls-of-wrath
 prev: /quick/content/harvest
 next: /quick/content/harlot
 docType: quick
-kids: /kids/content/bowls
+kids: /kids/lessons/elementary/conflict/13-the-bowls
 ---
 
 {{% bible val="Kapitel 15-16" link="rev:15" lang="de" %}}.

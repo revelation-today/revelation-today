@@ -5,7 +5,7 @@ weight: 90
 base: /quick/content/jesus
 appl: /appl/content/jesus
 expl: /expl/content/jesus/a-different-christmas-story
-kids: /kids/content/jesus
+kids: /kids/lessons/elementary/conflict/10-jesus-victory
 prev: /story/audio-first/content/witnesses
 next: /story/audio-first/content/beasts
 docType: story

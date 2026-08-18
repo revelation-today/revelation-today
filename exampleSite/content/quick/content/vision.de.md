@@ -6,7 +6,7 @@ expl: /expl/content/vision/setting-the-foundation
 prev: /quick/bible/daniel
 next: /quick/content/letters
 docType: quick
-kids: /kids/content/vision
+kids: /kids/lessons/elementary/intro/02-the-vision
 ---
 
 {{% bible val="Kapitel 1" link="rev:1" lang="de" %}}.

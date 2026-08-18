@@ -4,7 +4,7 @@ weight: 150
 base: /quick/content/paradise
 appl: /appl/content/paradise
 expl: /expl/content/paradise/the-new-jerusalem
-kids: /kids/content/paradise
+kids: /kids/lessons/elementary/ending/16-new-heaven-and-new-earth
 prev: /story/oral-storytelling/content/1000y
 next: /welcome/done_story
 ---

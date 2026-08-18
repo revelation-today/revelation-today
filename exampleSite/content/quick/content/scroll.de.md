@@ -6,7 +6,7 @@ expl: /expl/content/scroll/the-little-scroll
 prev: /quick/content/trumpets
 next: /quick/content/witnesses
 docType: quick
-kids: /kids/content/scroll
+kids: /kids/lessons/elementary/worship-and-seals/08-the-little-scroll
 ---
 
 {{% bible val="Kapitel 10" link="rev:10" lang="de" %}}.

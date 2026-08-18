@@ -5,7 +5,7 @@ weight: 20
 base: /quick/content/worship
 appl: /appl/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
-kids: /kids/content/worship
+kids: /kids/lessons/elementary/worship-and-seals/04-worship-in-heaven
 prev: /story/audio-first/content/letters
 next: /story/audio-first/content/seals
 docType: story

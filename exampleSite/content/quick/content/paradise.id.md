@@ -6,7 +6,7 @@ expl: /expl/content/paradise/the-new-jerusalem
 prev: /quick/content/1000y
 next: /welcome/done_quick
 docType: quick
-kids: /kids/content/paradise
+kids: /kids/lessons/elementary/ending/16-new-heaven-and-new-earth
 ---
 
 {{% bible val="Pasal 21" link="rev:21" lang="id" %}} dan {{% bible val="22" link="rev:22" lang="id" %}}.

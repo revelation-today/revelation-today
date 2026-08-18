@@ -4,7 +4,7 @@ weight: 120
 base: /quick/content/bowls
 appl: /appl/content/bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
-kids: /kids/content/bowls
+kids: /kids/lessons/elementary/conflict/13-the-bowls
 prev: /story/liberal-progressive/content/harvest
 next: /story/liberal-progressive/content/harlot
 docType: story

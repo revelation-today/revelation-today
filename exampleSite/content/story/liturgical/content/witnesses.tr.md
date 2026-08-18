@@ -4,7 +4,7 @@ weight: 80
 base: /quick/content/witnesses
 appl: /appl/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
-kids: /kids/content/witnesses
+kids: /kids/lessons/elementary/worship-and-seals/09-the-two-witnesses
 prev: /story/liturgical/content/scroll
 next: /story/liturgical/content/jesus
 docType: story

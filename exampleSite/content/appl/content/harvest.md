@@ -4,7 +4,7 @@ weight: 110
 base: /quick/content/harvest
 story: /story/general/content/harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
-kids: /kids/content/harvest
+kids: /kids/lessons/elementary/conflict/12-the-two-harvests
 docType: appl
 ---
 

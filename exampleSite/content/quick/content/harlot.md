@@ -6,7 +6,7 @@ expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 prev: /quick/content/bowls
 next: /quick/content/1000y
 docType: quick
-kids: /kids/content/harlot
+kids: /kids/lessons/elementary/conflict/14-the-harlot-and-the-bride
 ---
 
 {{% bible val="Chapter 17" link="rev:17" lang="en" %}}, {{% bible val="18" link="rev:18" lang="en" %}}, and {{% bible val="19" link="rev:19" lang="en" %}}.

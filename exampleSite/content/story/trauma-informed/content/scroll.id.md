@@ -4,7 +4,7 @@ weight: 70
 base: /quick/content/scroll
 appl: /appl/content/scroll
 expl: /expl/content/scroll/the-little-scroll
-kids: /kids/content/scroll
+kids: /kids/lessons/elementary/worship-and-seals/08-the-little-scroll
 prev: /story/trauma-informed/content/trumpets
 next: /story/trauma-informed/content/witnesses
 docType: story

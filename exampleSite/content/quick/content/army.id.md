@@ -6,7 +6,7 @@ expl: /expl/content/army/the-end-time-and-the-great-tribulation
 prev: /quick/content/seals
 next: /quick/content/trumpets
 docType: quick
-kids: /kids/content/army
+kids: /kids/lessons/elementary/worship-and-seals/06-gods-army
 ---
 
 {{% bible val="Pasal 7" link="rev:7" lang="id" %}}.

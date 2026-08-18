@@ -6,7 +6,7 @@ expl: /expl/content/trumpets/the-trumpets-in-revelation
 prev: /quick/content/seals
 next: /quick/content/scroll
 docType: quick
-kids: /kids/content/trumpets
+kids: /kids/lessons/elementary/worship-and-seals/07-the-trumpets
 ---
 
 {{% bible val="Pasal 8" link="rev:8" lang="id" %}} dan {{% bible val="9" link="rev:9" lang="id" %}}.

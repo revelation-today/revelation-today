@@ -6,7 +6,7 @@ expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /quick/content/jesus
 next: /quick/content/harvest
 docType: quick
-kids: /kids/content/beasts
+kids: /kids/lessons/elementary/conflict/11-the-dragon-and-the-two-beasts
 ---
 
 {{% bible val="Kapitel 13" link="rev:13" lang="de" %}}.
