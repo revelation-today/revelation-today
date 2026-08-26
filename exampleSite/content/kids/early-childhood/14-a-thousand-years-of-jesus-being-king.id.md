@@ -10,7 +10,7 @@ next: /kids/early-childhood/15-heaven-is-being-close-to-god
 
 # Seribu Tahun Yesus Menjadi Raja
 
-> **Cerita untuk dibacakan:** [The Millennium]({{< relref "story/early-childhood/content/1000y" >}})  
+> **Cerita untuk dibacakan:** [The Millennium]({{< relref "story/early-childhood/tour#1000y" >}})  
 > **Alkitab:** {{% bible val="Wahyu 20" link="rev:20" lang="ind" %}}
 
 

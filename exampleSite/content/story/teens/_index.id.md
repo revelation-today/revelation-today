@@ -1,7 +1,7 @@
 ---
 title: "Kisahnya: Tanpa Dihaluskan"
 linkTitle: "Tanpa Dihaluskan (usia 13-18)"
-weight: 10
+weight: 130
 ---
 
 Ini bukan versi yang sudah diencerkan. Wahyu itu tentang orang-orang seusiamu yang dikucilkan, ditertawakan, dan diancam karena menolak pura-pura — dan tentang seorang Raja yang tidak pernah sekali pun menyuruh mereka pura-pura. Tanpa bagan pengangkatan, tanpa pemecahan kode rahasia, tanpa trik ala film horor. Cuma kisah yang sebenarnya: tekanan yang nyata, harga yang nyata, akhir yang nyata. Sepuluh menit dari awal sampai selesai, dan kamu nggak akan pernah lagi membaca "akhir dunia" dengan cara yang sama.

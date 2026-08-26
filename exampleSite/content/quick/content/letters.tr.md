@@ -1,7 +1,8 @@
 ---
 title: "Kiliselere mektuplar (Böl. 2-3)"
 weight: 10
-story: /story/general/content/letters
+story: /story/general/tour
+story_anchor: letters
 expl: /expl/content/letters/the-angel-of-the-churches
 prev: /quick/content/vision
 next: /quick/content/worship

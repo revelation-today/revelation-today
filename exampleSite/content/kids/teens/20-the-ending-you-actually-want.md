@@ -8,7 +8,7 @@ expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/teens/19-babylon-falls
 ---
 
-> **Story to read:** [New Heaven and New Earth]({{< relref "story/teens/content/paradise" >}})  
+> **Story to read:** [New Heaven and New Earth]({{< relref "story/teens/tour#paradise" >}})  
 > **Bible:** {{% bible val="Revelation 21–22" link="rev:21" lang="en" %}}
 
 ## What You've Probably Already Absorbed

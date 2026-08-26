@@ -1,7 +1,8 @@
 ---
 draft: true
 title: "Kisahnya: Sebuah Tinjauan Jujur"
-weight: 10
+linkTitle: "Sebuah Tinjauan Jujur (tanpa latar belakang)"
+weight: 20
 ---
 
 Kalau kamu sampai di sini karena penasaran — mungkin seorang teman pernah menyebutnya, mungkin kamu memang selalu bertanya-tanya apa sebenarnya isi kitab terakhir Alkitab yang aneh itu, dengan naga-naganya dan angka 666 — selamat datang. Kamu tidak perlu punya latar belakang gereja atau Alkitab untuk mulai dari sini. Kamu juga tidak perlu sudah memercayai apa pun. Yang diminta darimu hanyalah kesediaan untuk membaca kisah yang sebenarnya dengan mata yang segar, bukan versi yang sudah puluhan tahun dijajakan budaya pop.

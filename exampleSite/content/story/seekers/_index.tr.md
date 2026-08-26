@@ -1,7 +1,8 @@
 ---
 draft: true
 title: "Hikâye: Dürüst Bir Bakış"
-weight: 10
+linkTitle: "Dürüst Bir Bakış (ön bilgi gerekmez)"
+weight: 20
 ---
 
 Eğer bunu meraktan açtıysan - belki bir arkadaşın bahsetti, belki de Kutsal Kitap'ın o garip son kitabında, ejderhalar ve 666 sayısıyla, gerçekte ne yazdığını hep merak ettin - hoş geldin. Buraya başlamak için kilise ya da Kutsal Kitap konusunda hiçbir geçmiş bilgiye ihtiyacın yok. Zaten bir şeye inanman da gerekmiyor. Senden istenen tek şey, popüler kültürün on yıllardır sattığı versiyon yerine, gerçek hikâyeyi taze bir gözle okumaya istekli olman.

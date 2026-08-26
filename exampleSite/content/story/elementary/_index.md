@@ -1,7 +1,7 @@
 ---
 title: "The Story for Bible Explorers"
 linkTitle: "For Bible Explorers (ages 8-12)"
-weight: 10
+weight: 120
 ---
 
 Ever met heroes who win without ever swinging a sword? This is the Book of Revelation told as a real adventure story — an old man exiled on a lonely island, brave underdog friends who won't back down no matter what, a dragon-villain who looks unbeatable... and isn't. It's written for kids ages 8 to 12 (and for the parents and teachers reading along with them) who are ready for real excitement, real danger, and an ending better than anything a storybook could make up.

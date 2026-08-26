@@ -11,7 +11,7 @@ next: /kids/elementary/11-the-dragon-and-the-two-beasts
 # Kemenangan Yesus
 ### Wahyu 12
 
-> **Cerita untuk dibacakan:** [Perempuan, Bayi, dan Naga (Pasal 12)]({{< relref "story/elementary/content/jesus" >}})  
+> **Cerita untuk dibacakan:** [Perempuan, Bayi, dan Naga (Pasal 12)]({{< relref "story/elementary/tour#jesus" >}})  
 > **Alkitab:** {{% bible val="Wahyu 12" link="rev:12" lang="ind" %}}
 
 

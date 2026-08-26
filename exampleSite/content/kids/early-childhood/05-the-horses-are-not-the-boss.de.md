@@ -10,7 +10,7 @@ next: /kids/early-childhood/06-god-counts-every-one-of-us
 
 # Die Pferde haben nicht das Sagen
 
-> **Geschichte zum Vorlesen:** [The Seals]({{< relref "story/early-childhood/content/seals" >}})  
+> **Geschichte zum Vorlesen:** [The Seals]({{< relref "story/early-childhood/tour#seals" >}})  
 > **Bibel:** {{% bible val="Offenbarung 6" link="rev:6" lang="de" trans="hfa" %}}
 
 

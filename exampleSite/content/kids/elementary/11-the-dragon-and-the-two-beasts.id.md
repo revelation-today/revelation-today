@@ -11,7 +11,7 @@ next: /kids/elementary/12-the-two-harvests
 # Naga dan Dua Binatang
 ### Wahyu 13
 
-> **Cerita untuk dibacakan:** [Naga Itu Menyewa Dua Monster (Pasal 13)]({{< relref "story/elementary/content/beasts" >}})  
+> **Cerita untuk dibacakan:** [Naga Itu Menyewa Dua Monster (Pasal 13)]({{< relref "story/elementary/tour#beasts" >}})  
 > **Alkitab:** {{% bible val="Wahyu 13" link="rev:13" lang="ind" %}}
 
 

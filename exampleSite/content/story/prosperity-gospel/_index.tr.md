@@ -1,6 +1,7 @@
 ---
 title: "Hikaye: Gerçek Güvenlik Neye Benzer"
-weight: 10
+linkTitle: "Gerçek Güvenlik (refah öğretisi)"
+weight: 250
 ---
 
 Bu, Vahiy'in baştan sona aynı hikâyesi - ama çarmıhsız bir bereket, güvenlik ya da atılım vaadine bir zamanlar kapılmış olan herkes için özel bir özenle anlatılıyor; bu kitabın alaya almadan ciddiye aldığı bir özlem. Vahiy'in bu vaatle en doğrudan yüzleştiği anlarda biraz daha uzun duruyor: ilk atlının sahte fethi, canavarın ibadetle satın alınan sahte güvenliği ve fahişenin şiddet üzerine kurulu görkemi. Kitabın baştan beri yöneldiği yerde son buluyor: güvenliği kalıcı, hak edilmemiş ve karşılıksız verilmiş bir yeni Yeruşalim - satın alınacak bir formül değil, güvenilecek bir Kişi.

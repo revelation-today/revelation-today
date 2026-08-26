@@ -1,5 +1,6 @@
 ---
 title: "Kisah puitis"
+linkTitle: "Kisah puitis (mulai di sini)"
 weight: 10
 ---
 

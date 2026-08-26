@@ -10,7 +10,7 @@ next: /kids/elementary/02-the-vision
 # Siapa yang Sebenarnya Berkuasa?
 ### Latar Belakang
 
-> **Cerita untuk dibacakan:** [Kaisar yang Ingin Menjadi Allah (Latar Belakang)]({{< relref "story/elementary/content/background" >}})  
+> **Cerita untuk dibacakan:** [Kaisar yang Ingin Menjadi Allah (Latar Belakang)]({{< relref "story/elementary/tour#background" >}})  
 > **Alkitab:** {{% bible val="Wahyu 1:9" link="rev:1,9" lang="ind" %}}
 
 

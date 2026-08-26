@@ -2,7 +2,8 @@
 title: "Taklide daha yakından bak"
 weight: 100
 base: /quick/content/beasts
-story: /story/general/content/beasts
+story: /story/general/tour
+story_anchor: beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 kids: /kids/elementary/11-the-dragon-and-the-two-beasts
 docType: appl

@@ -2,7 +2,8 @@
 title: "Geh und lebe, als würdest du es glauben"
 weight: 150
 base: /quick/content/paradise
-story: /story/general/content/paradise
+story: /story/general/tour
+story_anchor: paradise
 expl: /expl/content/paradise/the-new-jerusalem
 kids: /kids/elementary/16-new-heaven-and-new-earth
 docType: appl

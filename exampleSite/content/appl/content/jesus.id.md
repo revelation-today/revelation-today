@@ -2,7 +2,8 @@
 title: "Mengalahkan sang naga bukanlah tugasmu"
 weight: 90
 base: /quick/content/jesus
-story: /story/general/content/jesus
+story: /story/general/tour
+story_anchor: jesus
 expl: /expl/content/jesus/a-different-christmas-story
 kids: /kids/elementary/10-jesus-victory
 docType: appl

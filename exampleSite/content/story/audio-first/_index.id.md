@@ -1,7 +1,8 @@
 ---
 draft: true
 title: "Kisah Ini: Untuk Didengar"
-weight: 10
+linkTitle: "Untuk Didengar (dibacakan)"
+weight: 30
 ---
 
 Di sini kitab Wahyu diceritakan sebagai satu kisah yang mengalir, ditulis khusus untuk dibacakan dengan suara keras, bukan untuk dibaca dalam hati. Kisah ini untuk para pendengar - siapa saja yang menerima firman lewat telinga, bukan lewat mata; entah karena tunanetra, kurang lancar membaca, atau memang lebih suka mendengarkan. Setiap kalimat dibentuk supaya jelas saat diucapkan: pendek, langsung, mudah diikuti tanpa perlu melihat satu kata pun di halaman. Isinya sama kaya dan sama lengkap dengan versi tulisan. Hanya iramanya yang berubah, disesuaikan untuk telinga, bukan untuk mata.

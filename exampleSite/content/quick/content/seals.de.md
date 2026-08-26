@@ -1,7 +1,8 @@
 ---
 title: "Die Siegel (Kap. 6)"
 weight: 40
-story: /story/general/content/seals
+story: /story/general/tour
+story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /quick/content/worship
 next: /quick/content/army

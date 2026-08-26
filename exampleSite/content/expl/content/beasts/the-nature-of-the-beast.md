@@ -2,7 +2,8 @@
 title: "The nature of the beast"
 weight: 6
 base: /quick/content/beasts
-story: /story/general/content/beasts
+story: /story/general/tour
+story_anchor: beasts
 prev: /expl/content/beasts/666-the-number-of-the-beast
 next: /expl/content/harvest/gods-army-and-the-seven-angels
 docType: expl

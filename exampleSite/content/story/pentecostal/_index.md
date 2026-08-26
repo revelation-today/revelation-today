@@ -1,6 +1,7 @@
 ---
 title: "The Story: You Are There"
-weight: 10
+linkTitle: "You Are There (present tense)"
+weight: 320
 ---
 
 Stop reading about it. Step into it. This is Revelation retold in the present tense, breathless and immediate, dropping you into the vision exactly as John receives it — caught up in the Spirit, swept along, unable to look away. No history lesson, no distance, no footnotes: just the throne room opening in front of you right now.

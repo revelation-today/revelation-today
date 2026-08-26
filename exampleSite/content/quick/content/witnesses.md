@@ -1,7 +1,8 @@
 ---
 title: "The two witnesses (Ch. 11)"
 weight: 80
-story: /story/general/content/witnesses
+story: /story/general/tour
+story_anchor: witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /quick/content/scroll
 next: /quick/content/jesus

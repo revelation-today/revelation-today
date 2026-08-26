@@ -1,7 +1,7 @@
 ---
 title: "The Story: For When It Looks Like Nothing Changes"
-linkTitle: "When Nothing Changes"
-weight: 10
+linkTitle: "When Nothing Changes (disillusionment)"
+weight: 220
 ---
 
 This is Revelation for readers who have stopped expecting the world to get better.

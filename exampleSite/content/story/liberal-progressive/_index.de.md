@@ -1,6 +1,7 @@
 ---
 title: "Die Geschichte: Gerechtigkeit, nicht Rache"
-weight: 10
+linkTitle: "Gerechtigkeit, nicht Rache (Gewaltbilder)"
+weight: 240
 ---
 
 Hier wird die Offenbarung als eine einzige, zusammenhängende Geschichte erzählt - dieselben Ereignisse, dieselben Bilder, dieselben schweren Kapitel wie in jeder anderen Erzählung - aber gelesen durch die Linse, die das Buch selbst mitliefert: als Schrei einer verfolgten Gemeinschaft nach Gerechtigkeit, nicht als Zuschauerlust an Gewalt. Wo die Plagen fallen und die Heere sich sammeln, hält diese Fassung gerade lange genug inne, um zu fragen, was der Text eigentlich beim Namen nennt - die Gewalt des Imperiums selbst, die auf es zurückfällt; Ausbeutung, der endlich ihr wahrer Preis genannt wird -, bevor die Geschichte weitergeht.

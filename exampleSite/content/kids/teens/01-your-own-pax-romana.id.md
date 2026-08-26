@@ -8,7 +8,7 @@ expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelati
 next: /kids/teens/02-reading-revelation-right
 ---
 
-> **Cerita untuk dibacakan:** [The Deal Everyone Took]({{< relref "story/teens/content/background" >}})  
+> **Cerita untuk dibacakan:** [The Deal Everyone Took]({{< relref "story/teens/tour#background" >}})  
 > **Alkitab:** {{% bible val="Wahyu 1:9" link="rev:1,9" lang="ind" %}}
 
 ## Kesepakatan yang tidak pernah diucapkan siapa pun

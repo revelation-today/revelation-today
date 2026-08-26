@@ -11,7 +11,7 @@ next: /kids/elementary/09-the-two-witnesses
 # Küçük Tomar
 ### Vahiy 10
 
-> **Okunacak hikâye:** [Bal Tadındaki — ve Dertli — Tomar (Bölüm 10)]({{< relref "story/elementary/content/scroll" >}})  
+> **Okunacak hikâye:** [Bal Tadındaki — ve Dertli — Tomar (Bölüm 10)]({{< relref "story/elementary/tour#scroll" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 10" link="rev:10" lang="tr" %}}
 
 

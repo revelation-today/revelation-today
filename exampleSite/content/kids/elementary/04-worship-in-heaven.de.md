@@ -11,7 +11,7 @@ next: /kids/elementary/05-the-seals
 # Anbetung im Himmel
 ### Offenbarung 4–5
 
-> **Geschichte zum Vorlesen:** [Die Tür im Himmel (Kapitel 4-5)]({{< relref "story/elementary/content/worship" >}})  
+> **Geschichte zum Vorlesen:** [Die Tür im Himmel (Kapitel 4-5)]({{< relref "story/elementary/tour#worship" >}})  
 > **Bibel:** {{% bible val="Offenbarung 4–5" link="rev:4" lang="de" trans="hfa" %}}
 
 

@@ -11,7 +11,7 @@ next: /kids/elementary/04-worship-in-heaven
 # Yedi Mektup
 ### Vahiy 2–3
 
-> **Okunacak hikâye:** [Yedi Takıma Yedi Mektup (Bölüm 2-3)]({{< relref "story/elementary/content/letters" >}})  
+> **Okunacak hikâye:** [Yedi Takıma Yedi Mektup (Bölüm 2-3)]({{< relref "story/elementary/tour#letters" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 2–3" link="rev:2" lang="tr" %}}
 
 

@@ -10,7 +10,7 @@ prev: /kids/elementary/15-the-thousand-years
 # Neuer Himmel und neue Erde
 ### Offenbarung 21–22
 
-> **Geschichte zum Vorlesen:** [Endlich zu Hause (Kapitel 21-22)]({{< relref "story/elementary/content/paradise" >}})  
+> **Geschichte zum Vorlesen:** [Endlich zu Hause (Kapitel 21-22)]({{< relref "story/elementary/tour#paradise" >}})  
 > **Bibel:** {{% bible val="Offenbarung 21–22" link="rev:21" lang="de" trans="hfa" %}}
 
 

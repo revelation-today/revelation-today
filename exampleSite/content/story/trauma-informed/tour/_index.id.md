@@ -6,9 +6,10 @@ next: /welcome/done_story
 docType: story
 ---
 
+
 Inilah kisah kitab Wahyu, dari awal sampai akhir. Ini kisah yang utuh - tidak ada yang dilewati - tetapi dituturkan perlahan di tempat yang perlu kelembutan, dan cepat di tempat yang tidak perlu diulur-ulur. Setiap kali sesuatu yang berat akan datang, kami akan memberi tahu kamu sebelum ia tiba, sehingga kamu tidak pernah dikejutkan. Dan kami berjanji sekarang: kisah ini berakhir baik. Kisah ini berakhir dengan setiap air mata yang dihapuskan.
 
-# Bagaimana semuanya bermula
+## Bagaimana semuanya bermula
 
 Pada mulanya, segala sesuatu bernapas. Terang merekah di atas air, dan setiap makhluk hidup menemukan tempatnya - sampai Allah berlutut di debu tanah, membentuk seorang manusia dengan tangan-Nya sendiri, dan menghembuskan napas-Nya sendiri ke dalamnya. Adam terbangun di sebuah taman yang riuh oleh kehidupan, dan Allah menyerahkan semuanya kepadanya untuk dipelihara.
 
@@ -16,88 +17,206 @@ Hanya satu hal yang tidak baik: Adam sendirian. Maka Allah membangun Hawa dari r
 
 Itu tidak bertahan lama. Adam menginginkan apa yang Allah berikan kepadanya lebih daripada ia menginginkan Allah, dan pergeseran kecil itu meretakkan dunia menjadi dua. Terusir dari taman, anak-anak Adam mencari jalan kembali - membangun kota dan kerajaan untuk mengisi kekosongan itu - dan Allah tetap terus mengulurkan tangan kepada mereka. Ia berpaling kepada satu orang, Abraham, dan memintanya untuk percaya kepada-Nya. Abraham berkata ya. Dari Abraham, Allah menumbuhkan sebuah bangsa yang utuh: Israel.
 
-# Janji itu
+## Janji itu
 
 Israel membawa janji itu, tetapi menyimpang seperti Adam dulu - lebih mencintai pemberian daripada Sang Pemberi - sampai bangsa itu kehilangan tanahnya, seperti Adam dulu kehilangan tamannya.
 
 Tetapi Allah belum selesai dengan mereka. Ia menjanjikan seorang Penebus: seseorang yang akan datang dan membangun sebuah kerajaan yang tidak akan pernah runtuh, terbuka bagi siapa pun yang mau melangkah masuk melalui pintunya.
 
-# Awal yang baru (Pasal 1)
+## Penglihatan itu (Pasal 1) {#vision}
 
-Bayangkan seorang lelaki tua, sendirian di sebuah pulau berbatu di tengah laut, dibuang ke sana karena imannya. Pagi Minggu yang biasa - sampai sebuah suara di belakangnya, seperti sangkakala, mengubah segalanya.
+Bayangkan seorang lelaki tua, sendirian di sebuah pulau berbatu di tengah laut, dibuang ke sana karena imannya. Pagi Minggu yang biasa - sampai sebuah suara di belakangnya, terdengar seperti sangkakala, mengubah segalanya.
 
-Ia berbalik, dan penglihatan itu datang sekaligus: tujuh kaki dian emas, dan di tengah-tengahnya berdiri sosok yang hampir mustahil dilukiskan. Mata seperti nyala api, suara seperti air terjun, wajah seterang matahari di siang hari. Yohanes rebah seperti orang mati.
+Ia berbalik, dan penglihatan itu datang sekaligus: tujuh kaki dian emas menyala di udara, dan di tengah-tengahnya berdiri sosok yang hampir mustahil dilukiskan. Mata seperti nyala api. Suara seperti air terjun. Wajah seterang matahari di siang hari. Yohanes rebah seperti orang mati.
 
-Tetapi sebuah tangan menyentuh bahunya, dan kata-kata yang lembut menyambutnya bahkan sebelum rasa takut itu sempat terbentuk sepenuhnya: "Jangan takut. Aku yang Awal dan yang Akhir, yang hidup. Aku telah mati - dan lihatlah, Aku hidup sampai selama-lamanya. Aku memegang kunci maut dan kerajaan maut." Inilah hal pertama yang perlu kamu ketahui tentang seluruh kisah ini: Dia yang menceritakannya sudah memegang setiap kunci yang mungkin bisa menakutkanmu.
+Tetapi sebuah tangan menyentuh bahunya sebelum rasa takut itu sempat terbentuk sepenuhnya, dan kata-kata yang lembut menyambutnya di sana: "Jangan takut. Aku yang Awal dan yang Akhir, yang hidup. Aku telah mati - dan lihatlah, Aku hidup sampai selama-lamanya. Aku memegang kunci maut dan kerajaan maut."
 
-Kabar itu menyebar seperti fajar menyingsing: kerajaan yang selama ini kau nanti-nantikan sudah tiba, dan kamu punya tempat di dalamnya. Satu hal yang diminta sebagai balasannya - agar gereja bersinar seperti kaki-kaki dian itu, bukan dengan kekuatannya sendiri, melainkan dihidupkan oleh Dia yang berdiri tepat di tengah-tengahnya.
+Itulah hal pertama yang layak diketahui tentang seluruh kisah ini: Dia yang menceritakannya sudah memegang setiap kunci yang mungkin bisa menakutkanmu.
 
-# Bencana yang besar (Pasal 2-3)
+Kabar itu menyebar seperti fajar menyingsing - kerajaan yang selama ini kau nanti-nantikan sudah tiba, dan kamu punya tempat di dalamnya, sebagai raja dan imam. Satu hal yang diminta sebagai balasannya: agar gereja bersinar, seperti ketujuh kaki dian itu, bukan dari bahan bakarnya sendiri, melainkan dihidupkan oleh Dia yang berdiri tepat di tengah-tengahnya.
 
-Tujuh jemaat menerima tujuh surat, masing-masing sebuah cermin. Ada yang letih, sudah bekerja keras tetapi membiarkan kasih terlepas dari genggaman. Ada yang miskin dan dibenci, dan Yesus hanya punya kelembutan bagi mereka. Ada yang membiarkan kompromi-kompromi kecil menyusup diam-diam. Satu tampak hidup padahal di baliknya sudah aus. Satu lagi kecil, letih, dan tetap setia - dan Yesus mengasihinya karena itu. Dan satu, yang nyaman dan puas dengan dirinya sendiri, tidak bisa melihat betapa banyak yang ia lewatkan.
+Jadi, sudah siapkah gereja itu?
 
-Bahkan kepada jemaat yang terakhir itu, yang paling sedikit hal baiknya, Yesus tidak berpaling pergi. Ia mengetuk. Ia masih ingin masuk.
+{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/elementary/02-the-vision" >}}
 
-# Tuntunan ada di depan (Pasal 4-5)
+## Surat-surat kepada jemaat-jemaat (Pasal 2-3) {#letters}
 
-Jadi bagaimana kita bersiap untuk apa yang akan datang? Yesus berkata: pandanglah ke atas. Surga terbuka, dan di sana ada ruang takhta - tempat di mana segala sesuatu akhirnya menemukan posisinya yang sejati dan kokoh di hadapan Allah. Pintunya terbuka, selalu.
+Tujuh jemaat, tujuh surat, tujuh cermin yang diangkat di hadapan tujuh jemaat yang sangat berbeda - dan kepada setiap jemaat itu, Yesus sendiri yang menulis kepada mereka, secara pribadi, dengan menyebut nama. Tidak ada jemaat di sini yang asing bagi-Nya, sejauh apa pun ia menyimpang atau seberat apa pun keadaannya.
 
-Di ruangan itu, satu sosok menonjol: seekor Anak Domba, tampak seperti pernah disembelih, tetapi kini sungguh-sungguh hidup. Dialah pahlawan seluruh kisah ini - layak untuk membuka apa yang perlu dibuka, dan untuk memegang dengan aman apa pun yang akan datang. Ke mana pun kamu sedang melangkah, kamu sedang melangkah menuju Dia.
+Efesus bekerja sampai kelelahan - benar dalam ajaran, setia dalam tugas - tetapi diam-diam telah membiarkan kasih terlepas dari genggamannya di sepanjang jalan. Tanpa kasih itu, semua jerih payah itu tidak berarti banyak, dan yang Yesus minta kembali adalah kasihnya, bukan jerih payahnya.
 
-# Allah melihatmu - bahkan di sini (Pasal 6-7)
+Smirna tidak bisa lebih berbeda lagi: miskin, dan dibenci, terhimpit dari segala sisi oleh kota yang memusuhinya. Dan ia adalah satu dari hanya dua jemaat yang bagi mereka Yesus tidak punya apa-apa selain pujian. Kepada jemaat yang sedang melewati kesukaran yang nyata, Ia tidak memberikan teguran sama sekali - hanya penghiburan, dan keberanian untuk apa yang masih ada di depan.
 
-Sekarang kisah ini berbelok ke hal-hal yang berat - maka biarlah kami katakan dengan jelas, sebelum kita melangkah lebih jauh: tidak ada satu pun dari yang berikut ini yang luput dari pandangan Allah, dan tidak ada satu pun yang mendapat kata terakhir.
+Pergamus bertahan di tempat yang sulit, bahkan dengan harga yang nyata, meskipun ada ajaran sesat yang menyusup tanpa disadari di sepanjang jalan. Di Tiatira, masalahnya bermula dari atas, dari kepemimpinannya sendiri. Sardis tampak hidup dari luar, tetapi di baliknya sudah aus dan hampir kosong, karena diam-diam mencoba mengatur segalanya tanpa Allah.
 
-Empat penunggang kuda datang, satu demi satu, dan dunia yang mereka lalui tahu betul apa yang mereka wakili: penaklukan yang memakai mahkota palsu, pertikaian, kelangkaan, dan kehilangan. Kami tidak akan berlama-lama pada mereka. Mereka lewat seperti badai lewat - nyata, dan terasa, lalu berlalu.
+Filadelfia adalah jemaat satunya lagi yang dipuji Yesus tanpa keberatan apa pun - kecil, letih, tanpa apa pun yang tersisa di tabungan, dan tetap setia. Ia menjanjikan kepadanya sebuah pintu terbuka yang tidak dapat ditutup oleh siapa pun.
 
-Inilah yang lebih penting: di balik semua itu, Allah melihat orang-orang yang telah menderita karena tetap setia kepada-Nya. Mereka tidak hilang di tengah keramaian atau terlupakan di tengah kebisingan. Mereka dikumpulkan dekat, cukup dekat untuk dilihat dan didengar, dan mereka berseru dengan jujur - berapa lama lagi, ya Tuhan? - dan mereka dijawab dengan lembut, bukan diabaikan. Allah tidak jauh dari siapa pun yang pernah menangiskan pertanyaan itu.
+Lalu ada Laodikia: nyaman, puas dengan dirinya sendiri, tidak sadar betapa banyak yang sebenarnya ia lewatkan - satu-satunya jemaat yang tidak menerima pujian sama sekali.
 
-Dan sebelum hal lain terjadi, Allah melakukan sesuatu yang luar biasa: Ia memeteraikan umat-Nya. Ia menandai mereka, satu per satu, sebagai milik-Nya yang tak terbantahkan - diakui, dilindungi, dikenal namanya, tepat di tengah-tengah badai. Apa pun yang datang, hal ini sudah pasti lebih dulu: kamu milik-Nya, dan tidak ada yang bisa menghapus tanda itu.
+Dan bahkan kepada jemaat itu, yang paling sedikit hal baiknya, Yesus tidak berpaling pergi. Ia mengetuk. Ia menegurnya dengan lembut, karena kasih, bukan karena marah. Ia masih ingin masuk.
 
-Inilah tentara Allah, dan sama sekali tidak tampak seperti tentara - tanpa pedang, tanpa kekerasan pinjaman, hanya penyembahan dan kesetiaan yang tidak bisa dikikis oleh apa pun.
+{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/elementary/03-the-seven-letters" >}}
 
-# Pukulan pertama (Pasal 8-9)
+## Penyembahan (Pasal 4-5) {#worship}
 
-Sekarang ciptaan sendiri bergidik sebagai protes - makanan gagal, air menjadi pahit, tanah bergetar. Ini singkat dan ini berat, tetapi ini berlalu. Tidak banyak hati yang berubah karenanya; penderitaan saja memang jarang mengubah hati. Yang penting adalah bahwa bahkan di sini, tidak ada yang acak dan tidak ada yang luput dari pengawasan.
+Jadi bagaimana kita bersiap untuk apa yang akan datang? Yesus berkata: pandanglah ke atas.
 
-# Melihat kenyataan (Pasal 10)
+Jawabannya bukan sebuah strategi, bukan sebuah rencana, bukan seperangkat benteng yang harus dibangun. Jawabannya adalah sebuah ruang takhta. Surga terbuka, dan di sanalah tempat itu - satu-satunya tempat yang kokoh di seluruh ciptaan, di mana setiap orang dan segala sesuatu akhirnya menemukan posisinya yang sejati dan mantap di hadapan Allah. Apa pun yang sedang bergeser di dunia, ruangan ini tidak bergeser. Pintunya berdiri terbuka, selalu, bagi siapa pun yang datang.
 
-Penghakiman saja memang tidak akan pernah cukup. Maka sebagai gantinya, Yohanes diberi sesuatu yang lebih manis dan lebih dekat: sebuah gulungan kitab kecil untuk dimakan, kebenaran Allah sendiri, yang berakar di dalam dirinya bahkan sebelum ia sepenuhnya memahaminya. Sesuatu yang lebih baik daripada rasa takut sedang datang.
+Penyembahan di sini menuntut sesuatu yang nyata: meletakkan mahkotamu sendiri, menyerahkan kepada Allah setiap bagian hidupmu tanpa menyimpan sisanya. Dan di ruangan itu, satu sosok menonjol di antara semuanya - bukan seorang pejuang, bukan seorang hakim yang menunggu untuk menghantam, melainkan seekor Anak Domba, tampak seperti pernah disembelih, tetapi sepenuhnya, semulianya hidup. Pribadi yang paling berkuasa di ruangan itu adalah Dia yang pernah terluka dan tidak tinggal dalam luka-Nya.
 
-# Dijatuhkan, lalu dibangkitkan (Pasal 11-13)
+Dialah pahlawan seluruh kisah ini - layak, ketika tidak ada seorang pun yang didapati layak, untuk membuka apa yang perlu dibuka dan untuk memegang dengan aman apa pun yang akan datang. Itu layak direnungkan sejenak: apa pun yang datang berikutnya dalam kisah ini sudah dipegang oleh tangan yang cukup lembut karena pernah terluka sendiri. Begitu kamu mengikuti Dia melewati pintu itu, kamu dipegang oleh-Nya untuk selamanya, dan tidak ada jalan kembali untuk berdiri sendirian di luar pintu itu.
 
-Dua saksi menuturkan kebenaran sejelas yang mereka bisa, dan dunia berbalik melawan mereka karenanya. Untuk sesaat - hanya sesaat, tiga setengah hari - tampaknya itu akhir bagi mereka.
+{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/elementary/04-worship-in-heaven" >}}
 
-Itu bukan akhirnya. Mereka berdiri kembali, hidup, di depan semua orang yang mengira sudah menang. Inilah pola yang teranyam di sepanjang seluruh kitab ini: bukan kemenangan yang melompati hal-hal yang berat, melainkan kemenangan yang berjalan menembusnya sampai tuntas dan keluar di sisi seberang dalam keadaan berdiri tegak. Apa pun yang menjatuhkanmu, itu juga bukan akhir dari kisahmu.
+## Meterai-meterai (Pasal 6) {#seals}
 
-Kebenaran yang sama dituturkan lagi, dari sudut yang berbeda - seperti langit sendiri yang terbuka. Seorang perempuan muncul, berselubungkan matahari, mahkota bintang melingkari kepalanya, hendak melahirkan. Sesuatu yang mengerikan menunggu di hadapannya, ingin mencelakai anak itu begitu ia lahir. Tetapi anak itu lahir dengan selamat, dan sebelum bahaya apa pun bisa menyentuhnya, ia diangkat, aman, ke takhta Allah sendiri. Kuatkanlah hatimu oleh gambaran itu saja: apa pun yang mengancammu, tangan Allah lebih cepat.
+Sebelum kita melangkah lebih jauh: apa yang berikut ini memang berat, tetapi singkat, dan itu bukan akhir dari kisah ini - maka biarkanlah ia lewat tanpa menggenggamnya terlalu erat.
 
-Lalu perang pecah jauh di atas jangkauan pandangan kita, dan ancaman itu dilemparkan ke bawah dan kehilangan tempatnya untuk selamanya, sudah dikalahkan oleh Anak Domba. Karena tahu waktunya singkat, ia berpaling untuk membuat kekacauan di bumi sedikit lebih lama, meminjam kuasa yang sebenarnya bukan miliknya dan cepat kehabisan waktu. Topeng apa pun yang dikenakannya, itu hanya topeng - akhir yang sesungguhnya sudah diputuskan, dan diputuskan untuk kebaikan.
+Meterai-meterai dibuka, satu demi satu, dan empat penunggang kuda datang. Yang pertama tampak seperti kemenangan tetapi bukan; itu penaklukan yang memakai mahkota palsu. Di belakangnya menyusul pertikaian, lalu kelangkaan, lalu kehilangan - yang satu mengikuti yang lain, seperti musim-musim yang berat kadang datang beruntun.
 
-# Kemenangan (Pasal 14-16)
+Lalu terjadi sesuatu yang berbeda: sebuah meterai terbuka, bukan pada pasukan, melainkan pada sebuah mezbah. Di bawahnya ada orang-orang yang tetap setia kepada Allah bahkan ketika itu merenggut segalanya dari mereka. Mereka tidak dilupakan atau hilang di tengah kebisingan - mereka dikumpulkan dekat, dilihat, dan didengar, berseru dengan jujur: berapa lama lagi, ya Tuhan, sampai Engkau meluruskan semuanya ini? Mereka dijawab dengan lembut, bukan diabaikan: segera, tinggal sedikit waktu lagi.
 
-Yesus sudah memenangkan ini, di kayu salib, dan setiap orang yang tetap setia kepada-Nya turut ambil bagian dalam kemenangan itu. Bayangkanlah, alih-alih medan perang mana pun, kerumunan orang berdiri di atas lautan kaca dan api, bernyanyi - satu-satunya syarat mereka adalah tetap setia. Gambaran itu layak dipegang erat-erat.
+Langit sendiri gemetar melihat apa yang telah terlepas ke dunia, seolah-olah ciptaan pun ikut berduka - dan di tengah-tengah reruntuhan itu, umat Allah ikut berseru bersamanya, dan mereka tidak sendirian dalam melakukannya.
 
-Hal-hal yang sulit masih terjadi untuk sedikit waktu lagi - konsekuensi yang akhirnya menyusul sebuah dunia yang dibangun di atas kebohongan - tetapi semuanya singkat, dan semuanya yang terakhir dari jenisnya. Sebuah pasukan berkumpul di tempat yang bernama Harmagedon, yakin akan menang. Mereka sudah tamat. Mereka hanya belum mengetahuinya.
+{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
-# Terurai (Pasal 17-19)
+## Tentara Allah (Pasal 7) {#army}
 
-Satu tipu daya terakhir dibuka kedoknya: sesuatu yang tampak memukau dan aman ternyata bukan keduanya. Ia runtuh dengan sendirinya, dihancurkan oleh kekuatan-kekuatan yang dulu membesarkannya. Kamu tidak perlu membayangkan rinciannya. Yang penting adalah bahwa setiap kebohongan yang dibawa kisah ini akhirnya kehabisan jalan, dan jalan pun terbuka bagi apa yang datang berikutnya.
+Sebelum keadaan menjadi lebih buruk, terjadi sesuatu yang luar biasa, dan itu layak menjadi tempat berhenti sejenak: umat Allah dimeteraikan.
 
-# Awal yang baru (Pasal 20-22)
+Ditandai, satu per satu, dengan nama. Bukan dihitung sebagai kerumunan lalu dibiarkan begitu saja, melainkan diakui satu demi satu - setiap orang dihampiri, diperhatikan, dan diberi tanda yang berkata, dengan jelas, tanpa keraguan: yang ini milik-Ku. Itu terjadi di tengah-tengah badai, bukan setelahnya, seolah-olah Allah tidak sanggup menunggu satu saat pun lagi untuk memastikan umat-Nya tahu milik siapa mereka, sebelum apa pun yang lain diminta dari mereka.
 
-Sudah selesai, walaupun dari tempat kita berdiri tidak pernah tampak selesai. Selama ini, sementara umat Allah tampak kalah, mereka diam-diam memerintah bersama Dia - bukan dengan jenis kekuasaan yang diperhatikan dunia, tetapi nyata sepenuhnya. Kini tiba perhitungan terakhir yang adil: siapa yang telah memilih Allah, dan siapa yang, sejak awal, memilih sebaliknya. Ini diselesaikan dengan lembut dan diselesaikan dengan benar.
+Pikirkanlah apa artinya itu: tidak ada yang datang berikutnya - tidak ada ancaman, tidak ada bahaya, tidak ada apa pun yang bisa dilemparkan dunia - yang berhak memutuskan kamu milik siapa. Itu sudah diputuskan, dan dimeteraikan, lebih dulu. Bukan diperoleh dengan usaha. Bukan bersyarat pada seberapa tegar kamu bertahan menghadapi apa yang akan datang. Diberikan begitu saja, seperti orang tua yang menandai anaknya sebagai miliknya sebelum melepasnya keluar pintu.
 
-Dan kemudian - inilah bagian yang layak untuk memperlambat langkah sepenuhnya, bagian yang telah dituju oleh seluruh kisah panjang ini sejak halaman pertama - sebuah pernikahan.
+Inilah tentara Allah, dan sama sekali tidak tampak seperti tentara mana pun yang pernah kamu bayangkan. Tanpa pedang. Tanpa kekerasan pinjaman, tanpa merebut wilayah dengan paksa. Hanya orang-orang, yang dimeteraikan dan tenang, yang terus menyembah menembus apa pun yang datang, dengan kesetiaan yang tampaknya tidak bisa dikikis habis oleh apa pun.
 
-Sebuah kota turun dari surga, berdandan seperti pengantin perempuan di hari pernikahannya, dan sebuah suara berbicara dari takhta, dan suara itu mengatakan hal yang telah dinanti-nantikan sepanjang kisah oleh setiap hati yang letih, berduka, dan ketakutan: "Lihatlah - kediaman Allah sekarang ada di tengah-tengah umat-Nya. Ia akan tinggal bersama mereka. Ia akan menghapus setiap air mata dari mata mereka."
+Maka apa pun yang dikandung pasal-pasal di depan, peganglah ini lebih dulu: kamu sudah ditemukan, sudah ditandai, sudah dijaga aman di pusat segalanya. Itu bukan akhirnya - itu titik awal bagi segala sesuatu yang menyusul.
 
-Diamlah sejenak dengan kalimat itu. Ia akan menghapus setiap air mata dari mata mereka - bukan mengabaikannya, bukan menjelaskannya supaya berlalu, melainkan menghapusnya, seperti yang akan kamu lakukan bagi seseorang yang kamu kasihi. Dan kemudian janji itu meluas lebih jauh lagi: tidak akan ada lagi maut. Tidak ada lagi perkabungan. Tidak ada lagi tangisan. Tidak ada lagi rasa sakit. Semuanya - setiap kehilangan yang pernah kamu pikul, setiap malam yang nyaris tak sanggup kamu lalui - akan sudah berlalu.
+{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" kids="/kids/elementary/06-gods-army" >}}
 
-Kota itu sendiri hampir terlalu megah untuk diserap: tembok seperti permata yaspis, jalan-jalan seperti emas yang begitu murni sampai tampak seperti kaca, gerbang-gerbang yang masing-masing dipahat dari satu mutiara utuh, berdiri terbuka. Terbuka, dan tidak pernah tertutup lagi - karena tidak ada lagi malam yang harus ditahan di luar, tidak ada lagi bahaya yang harus dijaga, tidak ada lagi apa pun di luar sana yang bisa mengancam apa yang ada di dalam. Allah sendirilah terangnya. Tidak ada lagi yang perlu dipertahankan di sini.
+## Sangkakala-sangkakala (Pasal 8-9) {#trumpets}
 
-Dan melalui tengah-tengah kota itu mengalir sebuah sungai, jernih bagaikan kristal, mengalir langsung dari takhta Allah sendiri, dengan sebatang pohon di kedua tepiannya yang berbuah di setiap musim - dan daun-daunnya untuk kesembuhan. Menyembuhkan setiap bangsa yang pernah berdarah, setiap kaum yang pernah terusir dari rumahnya, setiap orang yang pernah membutuhkan sesuatu untuk memulihkan apa yang tidak bisa dipulihkan dengan cara lain. Kutuk yang meretakkan dunia, jauh di taman yang pertama itu, dibatalkan di sini, sepenuhnya dan untuk selamanya.
+Sekarang giliran gereja untuk mengguncang dunia - bukan dengan senjata, melainkan dengan cara yang selalu dipakai Yesus: melalui apa yang tampak seperti kelemahan. Doa naik seperti dupa, sangkakala-sangkakala berbunyi, dan ciptaan sendiri bergidik.
 
-Umat Allah akan melihat wajah-Nya. Mereka akan menyandang nama-Nya. Mereka akan beristirahat, akhirnya, di sebuah rumah yang tidak bisa lagi direbut dari mereka. Pengantin perempuan dan pengantin laki-laki, bersama pada akhirnya, tanpa jarak yang tersisa di antara mereka.
+Makanan gagal. Air menjadi pahit. Perdagangan dan rasa aman sama-sama menipis. Ini berat, dan ini tidak berlangsung selamanya - sebuah musim guncangan, bukan keadaan yang menetap.
 
-Dan sekarang, karena kamu tahu bagaimana akhirnya - kamu bisa memikul apa pun yang masih berat hari ini, dengan tahu persis ke mana semuanya menuju.
+Meskipun begitu, tidak banyak hati yang berbalik karenanya. Kesukaran saja memang jarang berhasil; sesuatu yang lebih lembut dan lebih sejati masih dibutuhkan, dan itu sudah dalam perjalanan.
+
+{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
+
+## Gulungan kitab kecil (Pasal 10) {#scroll}
+
+Pukulan pertama telah gagal. Masa-masa sukar bisa meretakkan hampir apa saja - kecuali hati yang sudah menambatkan diri pada hal yang keliru. Penderitaan, dengan sendirinya, tidak memperbaiki manusia. Sesuatu yang lain dibutuhkan.
+
+Maka sesuatu yang lebih lembut tiba, di tengah-tengah segala kebisingan itu: sebuah gulungan kitab kecil, dan Yohanes disuruh memakannya, bukan sekadar membacanya. Gulungan itu dimaksudkan untuk menjadi bagian dari dirinya, sebagaimana sesuatu yang benar harus diterima sepenuhnya ke dalam diri sebelum ia sungguh-sungguh bisa mengubah apa pun. Rasanya manis mula-mula, lalu terasa lebih berat - karena kebenaran tentang Allah memang seperti itu: disambut hangat, dan sekaligus berbobot, meminta sesuatu yang nyata dari siapa pun yang menerimanya.
+
+Ini bukan bencana yang lain lagi. Ini kebalikannya - sebuah penyingkapan, sesuatu yang benar dan baik tentang siapa Allah sesungguhnya, yang tiba dengan tenang di tengah-tengah segala yang riuh. Butuh waktu untuk mengendap. Itu boleh. Ada hal-hal yang terlalu penting untuk dipahami sekaligus, dan ini salah satunya.
+
+{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" kids="/kids/elementary/08-the-little-scroll" >}}
+
+## Kedua saksi (Pasal 11) {#witnesses}
+
+Melangkahlah melewati tirai, dan kamu melihat kedua dunia sebagaimana adanya. Kesetiaan kepada Allah bukan sesuatu yang membuatmu memperoleh tempat - kesetiaan itu semata-mata memperlihatkan dirinya, dengan satu atau lain cara, ketika diuji.
+
+Dua saksi menuturkan kebenaran sejelas yang mereka tahu, dan dunia berbalik melawan mereka karenanya. Untuk sesaat - hanya sesaat, tiga setengah hari - tampaknya itulah akhirnya. Bagi semua yang menonton, tampaknya kisah sudah usai dan pihak yang salah telah menang. Kami mengatakan ini kepadamu langsung di muka, supaya kamu tidak dibiarkan duduk di dalam saat itu lebih lama daripada yang perlu: itu tidak bertahan, dan bukan begitu kisah ini berakhir.
+
+Karena kemudian mereka berdiri. Hidup, di atas kaki mereka sendiri, terlihat jelas oleh orang-orang yang mengira sudah menang dan bahkan sudah berhenti memperhatikan. Apa yang tampak selesai ternyata belum selesai. Apa yang tampak kalah bangkit kembali, di depan semua orang.
+
+Inilah pola yang teranyam di sepanjang seluruh kitab ini, dan di sepanjang setiap kisah serupa sesudahnya: bukan kemenangan yang melompati hal-hal yang berat seolah-olah tidak pernah terjadi, melainkan kemenangan yang berjalan menembusnya sampai tuntas - menembus hari-hari yang terasa seperti akhir - dan keluar di sisi seberang, berdiri, bernapas, hidup. Jika saat ini kamu sedang menjalani versi tiga setengah harimu sendiri, pasal ini ditulis khusus untukmu: apa pun yang telah menjatuhkanmu bukanlah kata terakhir atas kisahmu. Bangkit kembalilah yang menjadi kata terakhirnya.
+
+{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" kids="/kids/elementary/09-the-two-witnesses" >}}
+
+## Kemenangan Yesus (Pasal 12) {#jesus}
+
+Sekarang kisah yang sama dituturkan lagi, ditarik mundur untuk memperlihatkan bingkai di sekelilingnya - kisah Natal yang berbeda, yang berlangsung di sepanjang langit. Seorang perempuan muncul, berselubungkan matahari, mahkota bintang melingkari kepalanya. Ia hendak melahirkan.
+
+Sesuatu yang besar dan mengancam menunggu di hadapannya, ingin mencelakai anak itu begitu ia tiba. Kita tidak perlu berlama-lama padanya - cukup tahu bahwa ia nyata, dan bahwa ia tidak mendapatkan apa yang ia inginkan.
+
+Anak itu lahir dengan selamat, dan sebelum bahaya apa pun bisa menyentuhnya, ia diangkat ke takhta Allah sendiri, aman untuk selamanya. Jauh di atas, di tempat yang tidak bisa kita lihat sepenuhnya, sebuah pertempuran terjadi dan diselesaikan - ancaman itu kehilangan tempatnya di sana sama sekali dan dilemparkan ke bawah, sudah dikalahkan oleh Anak Domba.
+
+Karena tahu waktunya singkat, ia berpaling untuk mengganggu dunia sedikit lebih lama. Tetapi kuatkanlah hatimu: mengalahkannya tidak pernah menjadi tugasmu. Yesus sudah melakukannya, sebelum ancaman itu pernah sampai kepadamu. Tugasmu hanyalah terus mengarahkan orang-orang kepada Dia, seberapa pun riuhnya kebisingan itu untuk sementara waktu.
+
+{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" kids="/kids/elementary/10-jesus-victory" >}}
+
+## Naga dan kedua binatang (Pasal 13) {#beasts}
+
+Lihatlah papan skor si naga sejauh ini: ia mencoba membunuh Yesus, dan gagal. Ia mencoba mempertahankan tempatnya di surga, dan dilemparkan keluar. Ia mencoba melenyapkan umat Allah, dan gagal lagi.
+
+Maka ia meraih alat-alat baru - dua binatang, satu naik dari dalam laut, satu dari dalam bumi. Yang satu memerintah dengan kekerasan, yang satu menipu dengan muslihat yang memukau, dan bersama-sama mereka mempertontonkan tiruan yang suram dari Allah, Kristus, dan Roh, cukup mirip untuk mengecoh orang yang tidak memperhatikan dengan saksama.
+
+Tetapi perhatikanlah lebih dekat, dan tiruan itu sudah retak. Ia menaklukkan hanya dengan kekerasan, menyilaukan hanya dengan tipu daya, dan tidak membangun apa pun yang akan bertahan - karena Dia yang sedang ditirunya sudah menang, untuk selamanya. Kuasa apa pun yang tampaknya ia miliki, itu pinjaman, dan sedang menipis habis.
+
+{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/11-the-dragon-and-the-two-beasts" >}}
+
+## Dua tuaian (Pasal 14) {#harvest}
+
+Yesus sudah memenangkan ini di kayu salib, dan setiap orang yang tetap setia kepada-Nya turut ambil bagian sepenuhnya dalam kemenangan itu. Bayangkanlah, alih-alih medan perang mana pun, kerumunan orang yang berdiri bersama di atas lautan kaca dan api, bernyanyi - bukan karena jalan menuju ke sana mudah, melainkan karena satu-satunya syarat mereka untuk berdiri di sana adalah semata-mata tetap setia melewatinya.
+
+Tidak semua orang bisa ikut bernyanyi di kerumunan itu. Ada yang memilih cari aman di sepanjang jalan, ikut arus kuasa tiruan dalam kisah ini demi menghindari harganya, dan kini menghadapi sesuatu yang lebih berat daripada yang tadinya mereka coba hindari.
+
+Dua tuaian terjadi, berdampingan, dikumpulkan oleh tangan yang sama: yang satu dibawa masuk dengan sukacita, akhirnya pulang, dan yang satu dikumpulkan untuk penghakiman. Kami tidak akan berlama-lama pada tuaian yang kedua itu - hanya mengatakan dengan jelas bahwa itu terjadi, dan bahwa itu adil. Ini semata-mata saat ketika apa yang selama ini diam-diam benar - siapa yang setia, dan siapa yang tidak - akhirnya berhenti tersembunyi, dan semua orang akhirnya bisa melihat dengan jelas.
+
+{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
+
+## Cawan-cawan murka (Pasal 15-16) {#bowls}
+
+Sekarang sesuatu yang lama ditahan akhirnya dilepaskan - cawan demi cawan, gelombang demi gelombang - sampai kerajaan yang dibangun di atas kebohongan tidak punya lagi tempat berpijak. Ini berat, dan ini yang terakhir dari jenisnya: setiap cawan jatuh tepat di sasaran bidikannya, pada apa yang menjadi penyebab luka itu sejak semula, bukan pada mereka yang menderita karenanya.
+
+Pasukan-pasukan bumi berkumpul untuk perlawanan terakhir, di sebuah tempat yang namanya telah menjadi kiasan untuk bencana: Harmagedon. Mereka datang dengan yakin akan menang.
+
+Mereka sudah tamat. Mereka hanya belum mengetahuinya.
+
+{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/elementary/13-the-bowls" >}}
+
+## Pelacur itu (Pasal 17-19) {#harlot}
+
+Satu tipu daya terakhir menunggu untuk dibuka kedoknya sebelum kisah ini bisa berakhir - dan membuka kedok itu menyingkapkan tentang apa sebenarnya semuanya ini sejak awal: bukan sekadar mengalahkan yang jahat, melainkan Allah yang mengikatkan diri-Nya kepada umat-Nya untuk selamanya, seperti sebuah pernikahan.
+
+Inilah tipu dayanya: sesuatu yang memukau, berhiaskan permata yang seharusnya menjadi milik pengantin perempuan, menjanjikan hal-hal baik kepada siapa pun yang memercayainya. Namun di baliknya, ia bukan seperti yang tampak - dan banyak orang, bahkan di dalam gereja sendiri, terpedaya oleh sandiwaranya.
+
+Akhirnya tidak lembut - ia terurai sepenuhnya, dicabik-cabik oleh kekuatan-kekuatan yang dulu justru melayaninya. Kita tidak membutuhkan rinciannya; yang penting adalah bahwa ia jatuh, dan tidak bangkit lagi.
+
+Jalan akhirnya terbuka bagi apa yang datang berikutnya.
+
+{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/elementary/14-the-harlot-and-the-bride" >}}
+
+## Kerajaan seribu tahun (Pasal 20) {#1000y}
+
+Sudah selesai, walaupun kamu tidak pernah melihatnya terjadi. Selama ini, sementara dari luar tampak seperti umat Allah sedang kalah - terabaikan, tertindas, mudah diremehkan - mereka sesungguhnya diam-diam memerintah bersama Dia sepanjang waktu itu. Bukan dengan jenis kekuasaan yang diperhatikan siapa pun, tanpa pasukan atau takhta yang bisa dipotret siapa pun, tetapi nyata sepenuhnya, dan bertahan jauh lebih lama daripada apa pun yang tampak lebih mengesankan. Pemerintahan yang tenang dan tersembunyi itu telah membentuk hasil akhir dari segala sesuatu, bahkan bagian-bagian yang tidak diperhatikan siapa pun.
+
+Kini tiba perhitungan terakhir: sebuah penghakiman akhir, dan perlu diketahui bahwa di sini itu bukan kata yang menakutkan. Ia diselesaikan dengan lembut, dan diselesaikan dengan benar - sekali untuk selamanya, tanpa kebingungan, tanpa seorang pun yang terlewatkan atau diperlakukan tidak adil dalam prosesnya. Semata-mata diputuskan, dengan jujur dan untuk selamanya, siapa yang menghabiskan kekekalan bersama Allah, dan siapa yang, sejak awal, telah memilih untuk tidak. Tidak ada yang terburu-buru. Tidak ada yang dibiarkan tak pasti. Dan kemudian, akhirnya, jalan benar-benar terbuka bagi apa yang datang berikutnya.
+
+{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/elementary/15-the-thousand-years" >}}
+
+## Langit baru dan bumi baru (Pasal 21-22) {#paradise}
+
+Inilah bagian yang layak dinikmati perlahan-lahan - bagian yang dituju oleh seluruh kisah panjang ini sejak halaman pertamanya.
+
+Sebuah pernikahan. Sebuah kota turun dari langit, berdandan seperti pengantin perempuan di hari pernikahannya, dan sebuah suara berbicara dari takhta, mengucapkan hal yang selama ini dinanti-nantikan oleh setiap hati yang lelah, berduka, dan ketakutan sepanjang kisah ini:
+
+"Lihatlah - kediaman Allah kini ada di tengah-tengah umat-Nya. Ia akan tinggal bersama mereka."
+
+Renungkanlah itu sejenak. Bukan sekadar berkunjung. Bukan mengawasi dari kejauhan. Tinggal bersama mereka - dekat, untuk selamanya, tanpa keterpisahan lagi yang harus ditanggung.
+
+"Ia akan menghapus setiap air mata dari mata mereka."
+
+Bukan mengabaikan air mata itu. Bukan menjelaskannya begitu saja atau memintamu berpura-pura air mata itu tidak pernah ada. Menghapusnya - seperti yang dilakukan seseorang yang mengasihimu, dengan lembut, dengan tangan-Nya sendiri, air mata demi air mata, selama waktu yang dibutuhkan.
+
+"Tidak akan ada lagi maut, tidak ada lagi perkabungan, tidak ada lagi tangisan, tidak ada lagi rasa sakit, karena semuanya itu telah berlalu."
+
+Bacalah daftar itu sekali lagi, perlahan, dan biarkan setiap bagiannya meresap: tidak ada lagi maut - kehilangan yang merenggut orang-orang darimu tidak akan terjadi lagi. Tidak ada lagi perkabungan - dukacita yang selama ini mengikutimu akhirnya akan meletakkan bebannya. Tidak ada lagi tangisan - bukan karena perasaan dilarang, melainkan karena tidak akan tersisa apa pun yang layak ditangisi. Tidak ada lagi rasa sakit - bukan yang ditimpakan kepadamu, dan bukan pula yang menetap dalam ingatan lama setelah bahayanya berlalu. Semuanya, segala yang selama ini kaupikul, akan sudah berlalu. Sudah - artinya pada saat kamu menyadarinya, semua itu sudah ada di belakangmu, bukan sesuatu yang masih harus ditanggung.
+
+Kota itu sendiri hampir tak terlukiskan. Tembok seperti permata yaspis. Jalan-jalan seperti emas yang begitu murni hingga tampak seperti kaca. Dasar-dasar tembok bertatahkan permata segala warna, seolah-olah tanahnya pun dipilih dengan penuh perhatian. Dua belas pintu gerbang, masing-masing dipahat dari satu mutiara utuh - dan inilah sesuatu yang layak diperhatikan dengan saksama: pintu-pintu gerbang itu tidak pernah ditutup. Bukan karena tidak ada yang berjaga, melainkan karena tidak ada lagi apa pun di luar sana yang perlu diwaspadai. Tidak ada lagi malam. Tidak ada lagi bahaya. Tidak ada lagi keperluan untuk mengunci pintu terhadap siapa pun atau apa pun, untuk selama-lamanya.
+
+Tidak ada Bait Suci di mana pun di kota ini, karena Allah sendiri, dan Anak Domba itu, kini adalah Bait Sucinya - artinya tidak ada lagi jarak sedikit pun antara umat-Nya dan hadirat-Nya. Tidak ada matahari dan tidak ada bulan, karena keduanya memang tidak dibutuhkan: kemuliaan Allah adalah terangnya, hangat dan tak pernah padam, tanpa senja dan tanpa rentang malam yang gelap yang harus dilalui seorang diri.
+
+Dan melalui tengah-tengah kota mengalir sebuah sungai, jernih bagai kristal, langsung dari takhta Allah. Di kedua tepinya berdiri sebatang pohon, berbuah di setiap musim, dan daun-daunnya adalah untuk kesembuhan - menyembuhkan setiap bangsa yang pernah terluka, setiap kaum yang pernah terusir dari rumahnya, setiap orang yang pernah membutuhkan sesuatu untuk memulihkan apa yang tidak dapat dipulihkan dengan cara lain. Luka apa pun yang masih kaubawa, ada sehelai daun di pohon itu yang bertuliskan namanya.
+
+Kutuk yang meretakkan dunia, jauh di belakang, di sebuah taman yang lain, di sini dipulihkan seluruhnya - sepenuhnya, dan untuk selamanya. Umat Allah akhirnya akan memandang wajah-Nya. Mereka akan menyandang nama-Nya. Mereka akan beristirahat, akhirnya, di sebuah rumah yang tidak akan pernah lagi dapat direnggut dari mereka.
+
+Pengantin perempuan dan mempelai laki-laki, akhirnya bersama, untuk selamanya. Allah sendiri pindah dan tinggal bersama umat-Nya - dan tidak ada lagi jarak yang tersisa untuk dijembatani, tidak sekarang, tidak akan pernah lagi.
+
+Kamu sudah cukup banyak memikul untuk satu kisah. Biarlah bagian inilah yang kausimpan.
+
+{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/elementary/16-new-heaven-and-new-earth" >}}

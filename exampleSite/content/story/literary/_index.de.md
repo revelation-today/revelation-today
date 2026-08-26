@@ -1,6 +1,7 @@
 ---
 title: "Die Geschichte: Echos und Fäden"
-weight: 10
+linkTitle: "Echos und Fäden (wer Daniel/Ezechiel kennt)"
+weight: 340
 ---
 
 Wer lange genug in Daniels Tieren und Ezechiels Rädern und Thron gelebt hat, wer „Manna, aufbewahrt in einem Krug" und „Sacktuch über der Sonne" hören kann, ohne dass man es ihm erklären müsste, für den ist diese Erzählung gemacht. Sie ist die Offenbarung als eine ungebrochene Geschichte, von Anfang bis Ende, dicht genug geschrieben, um ein Gedächtnis zu belohnen, das in Daniel, Ezechiel, Jesaja und Exodus getränkt ist - ohne je innezuhalten, um auf das Echo zu zeigen. Keine Fußnoten, kein „wie der Prophet es vorhersagte". Die Sprache trägt einfach, was du schon in dir trägst, und die Wiedererkennungen tauchen von selbst auf, genau dann, wenn sie bereit sind.

@@ -9,7 +9,7 @@ prev: /kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you
 next: /kids/teens/20-the-ending-you-actually-want
 ---
 
-> **Okunacak hikâye:** [The Harlot]({{< relref "story/teens/content/harlot" >}})  
+> **Okunacak hikâye:** [The Harlot]({{< relref "story/teens/tour#harlot" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 17–19" link="rev:17" lang="tr" %}}
 
 ## Tuzak Gibi Görünmeyen Tuzak

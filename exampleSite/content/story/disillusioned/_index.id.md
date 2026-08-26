@@ -1,7 +1,7 @@
 ---
 title: "Kisah Ini: Untuk Saat Tidak Ada yang Berubah"
-linkTitle: "Saat Tidak Ada yang Berubah"
-weight: 10
+linkTitle: "Saat Tidak Ada yang Berubah (kekecewaan)"
+weight: 220
 ---
 
 Ini kitab Wahyu untuk pembaca yang sudah berhenti berharap dunia akan membaik.

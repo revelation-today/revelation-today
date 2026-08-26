@@ -10,7 +10,7 @@ next: /kids/early-childhood/11-the-copycat-villain
 
 # Farklı Bir Noel Hikayesi
 
-> **Okunacak hikâye:** [The Victory of Jesus]({{< relref "story/early-childhood/content/jesus" >}})  
+> **Okunacak hikâye:** [The Victory of Jesus]({{< relref "story/early-childhood/tour#jesus" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 12" link="rev:12" lang="tr" %}}
 
 

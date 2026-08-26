@@ -10,7 +10,7 @@ next: /kids/early-childhood/09-brave-helpers
 
 # Gulungan Kitab yang Manis dan Asam
 
-> **Cerita untuk dibacakan:** [The Small Scroll]({{< relref "story/early-childhood/content/scroll" >}})  
+> **Cerita untuk dibacakan:** [The Small Scroll]({{< relref "story/early-childhood/tour#scroll" >}})  
 > **Alkitab:** {{% bible val="Wahyu 10" link="rev:10" lang="ind" %}}
 
 

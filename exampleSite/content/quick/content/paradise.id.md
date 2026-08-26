@@ -1,7 +1,8 @@
 ---
 title: "Langit Baru dan Bumi Baru (Pasal 21-22)"
 weight: 150
-story: /story/general/content/paradise
+story: /story/general/tour
+story_anchor: paradise
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /quick/content/1000y
 next: /welcome/done_quick

@@ -1,5 +1,6 @@
 ---
 title: "Şiirsel hikaye"
+linkTitle: "Şiirsel hikaye (buradan başlayın)"
 weight: 10
 ---
 

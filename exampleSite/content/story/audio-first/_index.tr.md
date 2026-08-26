@@ -1,7 +1,8 @@
 ---
 draft: true
 title: "Hikaye: Dinlemek İçin"
-weight: 10
+linkTitle: "Dinlemek İçin (sesli okuma)"
+weight: 30
 ---
 
 Burada Vahiy kitabı tek, akıcı bir hikaye olarak anlatılıyor - özellikle sessizce okunmak için değil, sesli okunmak için yazılmış. Dinleyiciler için hazırlandı - Kutsal Yazı'yı gözle değil kulakla alan herkes için: görme engelli olan, okuma güçlüğü çeken ya da sadece dinlemeyi tercih eden herkes. Her cümle, konuşma dilinde net anlaşılsın diye biçimlendirildi: kısa, doğrudan, sayfadaki tek bir kelimeyi bile görmeden kolayca takip edilebilir. İçerik, yazılı sürümdeki aynı zengin ve eksiksiz hikaye. Sadece ritim değişti - göz yerine kulağa uysun diye.

@@ -1,7 +1,7 @@
 ---
 title: "Hikaye: Yumuşatma Yok"
 linkTitle: "Yumuşatma Yok (13-18 yaş)"
-weight: 10
+weight: 130
 ---
 
 Bu, yumuşatılmış versiyon değil. Vahiy, senin yaşındaki insanların sahtekarlık yapmayı reddettiği için dışlanması, alaya alınması ve tehdit edilmesiyle ilgili — ve onlardan hiçbir zaman sahtekarlık yapmalarını istemeyen bir Kral'la ilgili. Ne göğe alınma şemaları, ne şifre çözme oyunları, ne de korku filmi numaraları var burada. Sadece gerçek hikaye: gerçek baskı, gerçek bedel, gerçek son. Baştan sona on dakika — ve "dünyanın sonu"nu bir daha asla aynı şekilde okumayacaksın.

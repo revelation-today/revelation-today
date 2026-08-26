@@ -1,37 +1,44 @@
 ---
-title: "Poetic story"
+title: "The Story"
+linkTitle: "The Story"
 weight: 10
 ---
 
-Revelation, told as one continuous story, in plain, poetic language — from the Garden of Eden
-to the New Jerusalem — with no footnotes and no jargon.
+Revelation told as one continuous story, from the Garden of Eden to the New Jerusalem — no footnotes, no jargon. Every version below tells the same events with the same theology. What changes is the voice, the length, and who it is written for.
 
-Start with the **general** version below — it's the fastest way into the book, about 10
-minutes, start to finish. Whenever a passage deserves a closer look, it links onward to the
-quick walkthrough, so you never lose your way back to the deeper tracks.
+**Each version is a single page.** Read it start to finish in one sitting; at every section, links lead on to the quick explanation, the application, the full explanation and the matching kids lesson.
 
-**Best for:** a first encounter with the book, or a quick refresher on how it all fits
-together.
+Not sure where to start? Take the **Poetic Story** — it is the fastest way into the book.
 
-[Start the story →]({{< relref "story/general/tour" >}})
+## Start here
 
-## Other versions of this story
+| Version | Best for | Length |
+|---|---|---|
+| [Poetic Story]({{< relref "story/general/tour" >}}) | A first encounter with the book, or a quick refresher | ~15 min |
 
-The same story, retold for different readers. Same events, same theology — different voice,
-length, and framing to fit who's reading (or listening).
+## Children and teenagers
 
-| Version | Best for |
-|---|---|
-| [General]({{< relref "story/general/tour" >}}) | A first encounter, or a quick refresher |
-| [For Little Ones]({{< relref "story/early-childhood/tour" >}}) | Ages 4-7, read aloud by a parent |
-| [Bible Explorers]({{< relref "story/elementary/tour" >}}) | Ages 8-12, an adventure story |
-| [No Softening]({{< relref "story/teens/tour" >}}) | Teens — real stakes, no watered-down version |
-| [Told Aloud]({{< relref "story/oral-storytelling/tour" >}}) | Performed live, with a group answering the refrain |
-| [For Those Paying the Price]({{< relref "story/persecuted/tour" >}}) | Short and memorizable, for high-risk contexts |
-| [Justice, Not Vengeance]({{< relref "story/liberal-progressive/tour" >}}) | Readers wrestling with the book's violent imagery |
-| [The Liturgy Unveiled]({{< relref "story/liturgical/tour" >}}) | Catholic and Orthodox readers |
-| [You Are There]({{< relref "story/pentecostal/tour" >}}) | Present-tense, immersive telling |
-| [What Real Security Looks Like]({{< relref "story/prosperity-gospel/tour" >}}) | Contexts where health-and-wealth teaching has traction |
-| [Echoes and Threads]({{< relref "story/literary/tour" >}}) | Readers who know Daniel, Ezekiel, and Isaiah by heart |
-| [When Nothing Changes]({{< relref "story/disillusioned/tour" >}}) | Readers who have stopped expecting the world to get better |
-| [You Are Safe Here]({{< relref "story/trauma-informed/tour" >}}) | Readers processing real trauma or recent violence |
+| Version | Best for | Length |
+|---|---|---|
+| [For Little Ones]({{< relref "story/early-childhood/tour" >}}) | Ages 4-7, read aloud by a parent or teacher | ~5 min |
+| [For Bible Explorers]({{< relref "story/elementary/tour" >}}) | Ages 8-12, told as an adventure story | ~25 min |
+| [No Softening]({{< relref "story/teens/tour" >}}) | Ages 13-18 — real stakes, no watered-down version | ~35 min |
+
+## When life is hard
+
+| Version | Best for | Length |
+|---|---|---|
+| [You Are Safe Here]({{< relref "story/trauma-informed/tour" >}}) | Readers processing real trauma or recent violence | ~20 min |
+| [When Nothing Changes]({{< relref "story/disillusioned/tour" >}}) | Readers who have stopped expecting the world to get better | ~20 min |
+| [For Those Paying the Price]({{< relref "story/persecuted/tour" >}}) | High-risk contexts — short and memorizable | ~10 min |
+| [Justice, Not Vengeance]({{< relref "story/liberal-progressive/tour" >}}) | Readers wrestling with the book's violent imagery | ~35 min |
+| [What Real Security Looks Like]({{< relref "story/prosperity-gospel/tour" >}}) | Contexts where health-and-wealth teaching has traction | ~35 min |
+
+## By tradition and telling
+
+| Version | Best for | Length |
+|---|---|---|
+| [The Liturgy Unveiled]({{< relref "story/liturgical/tour" >}}) | Catholic and Orthodox readers | ~30 min |
+| [You Are There]({{< relref "story/pentecostal/tour" >}}) | Present-tense, immersive telling | ~25 min |
+| [Told Aloud]({{< relref "story/oral-storytelling/tour" >}}) | Performed live, with a group answering the refrain | ~25 min |
+| [Echoes and Threads]({{< relref "story/literary/tour" >}}) | Readers who know Daniel, Ezekiel and Isaiah by heart | ~35 min |

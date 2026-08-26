@@ -2,7 +2,8 @@
 title: "Acı tek başına yüreğini değiştirmeyecek"
 weight: 60
 base: /quick/content/trumpets
-story: /story/general/content/trumpets
+story: /story/general/tour
+story_anchor: trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 kids: /kids/elementary/07-the-trumpets
 docType: appl

@@ -2,7 +2,8 @@
 title: "Wenn die Welt auseinanderbricht, wem gibst du die Schuld?"
 weight: 40
 base: /quick/content/seals
-story: /story/general/content/seals
+story: /story/general/tour
+story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 kids: /kids/elementary/05-the-seals
 docType: appl

@@ -11,7 +11,7 @@ next: /kids/elementary/06-gods-army
 # Meterai-meterai
 ### Wahyu 6
 
-> **Cerita untuk dibacakan:** [Empat Penunggang Kuda dan Sebuah Pertanyaan (Pasal 6)]({{< relref "story/elementary/content/seals" >}})  
+> **Cerita untuk dibacakan:** [Empat Penunggang Kuda dan Sebuah Pertanyaan (Pasal 6)]({{< relref "story/elementary/tour#seals" >}})  
 > **Alkitab:** {{% bible val="Wahyu 6" link="rev:6" lang="ind" %}}
 
 

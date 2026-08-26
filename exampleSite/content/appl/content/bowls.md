@@ -2,7 +2,8 @@
 title: "Certain of victory, already finished"
 weight: 120
 base: /quick/content/bowls
-story: /story/general/content/bowls
+story: /story/general/tour
+story_anchor: bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 kids: /kids/elementary/13-the-bowls
 docType: appl

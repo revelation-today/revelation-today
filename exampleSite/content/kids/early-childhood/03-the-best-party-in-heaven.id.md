@@ -10,7 +10,7 @@ next: /kids/early-childhood/04-the-lion-who-is-really-a-lamb
 
 # Pesta Terbaik di Surga
 
-> **Cerita untuk dibacakan:** [Worship in the Throne Room]({{< relref "story/early-childhood/content/worship" >}})  
+> **Cerita untuk dibacakan:** [Worship in the Throne Room]({{< relref "story/early-childhood/tour#worship" >}})  
 > **Alkitab:** {{% bible val="Wahyu 4–5" link="rev:4" lang="ind" %}}
 
 

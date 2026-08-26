@@ -11,7 +11,7 @@ next: /kids/elementary/10-jesus-victory
 # Dua Saksi
 ### Wahyu 11
 
-> **Cerita untuk dibacakan:** [Dua Saksi yang Tak Mau Tetap Terkapar (Pasal 11)]({{< relref "story/elementary/content/witnesses" >}})  
+> **Cerita untuk dibacakan:** [Dua Saksi yang Tak Mau Tetap Terkapar (Pasal 11)]({{< relref "story/elementary/tour#witnesses" >}})  
 > **Alkitab:** {{% bible val="Wahyu 11" link="rev:11" lang="ind" %}}
 
 

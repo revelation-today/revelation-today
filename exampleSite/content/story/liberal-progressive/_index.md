@@ -1,6 +1,7 @@
 ---
 title: "The Story: Justice, Not Vengeance"
-weight: 10
+linkTitle: "Justice, Not Vengeance (violent imagery)"
+weight: 240
 ---
 
 This is Revelation told as one continuous story - the same events, the same images, the same hard chapters as any other telling - but read through the lens the book itself supplies: a persecuted community's cry for justice, not a spectator's taste for violence. Where the plagues fall and the armies gather, this version pauses just long enough to ask what the text is actually naming - empire's own violence, turned back on itself; exploitation, finally priced correctly - before the story moves on.

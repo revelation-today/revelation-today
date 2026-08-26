@@ -1,6 +1,7 @@
 ---
 title: "The Story: The Liturgy Unveiled"
-weight: 10
+linkTitle: "The Liturgy Unveiled (Catholic/Orthodox)"
+weight: 310
 ---
 
 For Catholic and Orthodox readers, Revelation is not a foreign book. It is, quite literally, familiar: the same incense, the same "Holy, holy, holy," the same white-robed multitude bowing before the altar that fills your church every Sunday - or every Divine Liturgy - already belongs to this book. This is Revelation told as one continuous story, built around its worship scenes, showing how the throne room John saw on Patmos is the same room your own parish steps into each week.

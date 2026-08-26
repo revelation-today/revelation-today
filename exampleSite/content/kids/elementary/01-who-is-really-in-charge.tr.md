@@ -10,7 +10,7 @@ next: /kids/elementary/02-the-vision
 # Gerçekte Kim Yönetiyor?
 ### Arka Plan
 
-> **Okunacak hikâye:** [Tanrı Olmak İsteyen İmparator (Arka Plan)]({{< relref "story/elementary/content/background" >}})  
+> **Okunacak hikâye:** [Tanrı Olmak İsteyen İmparator (Arka Plan)]({{< relref "story/elementary/tour#background" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 1:9" link="rev:1,9" lang="tr" %}}
 
 

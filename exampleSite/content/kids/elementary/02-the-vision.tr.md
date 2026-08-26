@@ -11,7 +11,7 @@ next: /kids/elementary/03-the-seven-letters
 # Görüm
 ### Vahiy 1
 
-> **Okunacak hikâye:** [Adadaki Ses (Bölüm 1)]({{< relref "story/elementary/content/vision" >}})  
+> **Okunacak hikâye:** [Adadaki Ses (Bölüm 1)]({{< relref "story/elementary/tour#vision" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 1" link="rev:1" lang="tr" %}}
 
 

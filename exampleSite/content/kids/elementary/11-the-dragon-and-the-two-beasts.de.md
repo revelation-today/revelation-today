@@ -11,7 +11,7 @@ next: /kids/elementary/12-the-two-harvests
 # Der Drache und die zwei Tiere
 ### Offenbarung 13
 
-> **Geschichte zum Vorlesen:** [Der Drache heuert zwei Ungeheuer an (Kapitel 13)]({{< relref "story/elementary/content/beasts" >}})  
+> **Geschichte zum Vorlesen:** [Der Drache heuert zwei Ungeheuer an (Kapitel 13)]({{< relref "story/elementary/tour#beasts" >}})  
 > **Bibel:** {{% bible val="Offenbarung 13" link="rev:13" lang="de" trans="hfa" %}}
 
 

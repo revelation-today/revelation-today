@@ -1,5 +1,6 @@
 ---
 title: "Poetische Geschichte"
+linkTitle: "Poetische Geschichte (Einstieg)"
 weight: 10
 ---
 

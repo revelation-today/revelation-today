@@ -9,7 +9,7 @@ prev: /kids/teens/13-real-letters-to-real-churches
 next: /kids/teens/15-the-churches-nobody-praised-enough
 ---
 
-> **Okunacak hikâye:** [The Letters to the Churches]({{< relref "story/teens/content/letters" >}})  
+> **Okunacak hikâye:** [The Letters to the Churches]({{< relref "story/teens/tour#letters" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 2–3" link="rev:2" lang="tr" %}}
 
 ## Mükemmel Görünen Profil

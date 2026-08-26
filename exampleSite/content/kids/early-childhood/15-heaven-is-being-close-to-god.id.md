@@ -10,7 +10,7 @@ next: /kids/early-childhood/16-our-new-home-the-new-jerusalem
 
 # Surga Adalah Dekat dengan Allah
 
-> **Cerita untuk dibacakan:** [The Millennium]({{< relref "story/early-childhood/content/1000y" >}})  
+> **Cerita untuk dibacakan:** [The Millennium]({{< relref "story/early-childhood/tour#1000y" >}})  
 > **Alkitab:** {{% bible val="Wahyu 20" link="rev:20" lang="ind" %}}
 
 

@@ -11,7 +11,7 @@ next: /kids/elementary/14-the-harlot-and-the-bride
 # Die Schalen
 ### Offenbarung 15–16
 
-> **Geschichte zum Vorlesen:** [Sieben Schalen und ein letztes Schlachtfeld (Kapitel 15-16)]({{< relref "story/elementary/content/bowls" >}})  
+> **Geschichte zum Vorlesen:** [Sieben Schalen und ein letztes Schlachtfeld (Kapitel 15-16)]({{< relref "story/elementary/tour#bowls" >}})  
 > **Bibel:** {{% bible val="Offenbarung 15–16" link="rev:15" lang="de" trans="hfa" %}}
 
 

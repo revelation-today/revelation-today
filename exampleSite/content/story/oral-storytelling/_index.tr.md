@@ -1,6 +1,7 @@
 ---
 title: "Hikâye: Sesli Anlatım"
-weight: 10
+linkTitle: "Sesli Anlatım (gruplar için)"
+weight: 330
 ---
 
 Bu, Vahiy kitabının sessizce okunacak bir sayfa değil, sesli bir performans metni olarak sunuluşudur. Bir araya gelmiş bir topluluğa yüksek sesle anlatılmak üzere bir hikâye anlatıcısı ya da ihtiyar için yazılmıştır; topluluk da bizzat katılır - bir nakaratı geri seslendirir, ritmi hisseder, hikâyeleri her zaman taşındığı yoldan, kulaktan kulağa, nesilden nesile kendi ağızlarında eve taşır.

@@ -2,7 +2,8 @@
 title: "The New Jerusalem"
 weight: 2
 base: /quick/content/paradise
-story: /story/general/content/paradise
+story: /story/general/tour
+story_anchor: paradise
 prev: /expl/content/1000y/pre-post-and-amillennialism
 next: /expl/content/paradise/heaven-and-hell
 docType: expl

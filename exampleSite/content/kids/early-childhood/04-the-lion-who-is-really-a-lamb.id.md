@@ -10,7 +10,7 @@ next: /kids/early-childhood/05-the-horses-are-not-the-boss
 
 # Singa yang Ternyata Anak Domba
 
-> **Cerita untuk dibacakan:** [Worship in the Throne Room]({{< relref "story/early-childhood/content/worship" >}})  
+> **Cerita untuk dibacakan:** [Worship in the Throne Room]({{< relref "story/early-childhood/tour#worship" >}})  
 > **Alkitab:** {{% bible val="Wahyu 4–5" link="rev:4" lang="ind" %}}
 
 

@@ -11,7 +11,7 @@ next: /kids/elementary/16-new-heaven-and-new-earth
 # The Thousand Years
 ### Revelation 20
 
-> **Story to read:** [The Millennium]({{< relref "story/elementary/content/1000y" >}})  
+> **Story to read:** [The Millennium]({{< relref "story/elementary/tour#1000y" >}})  
 > **Bible:** {{% bible val="Revelation 20" link="rev:20" lang="en" %}}
 
 

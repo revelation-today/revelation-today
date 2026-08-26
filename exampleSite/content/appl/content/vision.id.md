@@ -2,7 +2,8 @@
 title: "Apakah kamu siap bersinar?"
 weight: 1
 base: /quick/content/vision
-story: /story/general/content/vision
+story: /story/general/tour
+story_anchor: vision
 expl: /expl/content/vision/setting-the-foundation
 kids: /kids/elementary/02-the-vision
 docType: appl

@@ -18,6 +18,10 @@
 {{- $readTime := .readingTime -}}
 {{- $params := .params -}}
 {{- $regPages := .regPages -}}
+{{- /* the poetic story is now one page per version; story_anchor names the section */ -}}
+{{- $storyLink := "" -}}
+{{- with $story -}}{{- $storyLink = .RelPermalink -}}{{- end -}}
+{{- with $params.story_anchor -}}{{- $storyLink = print $storyLink "#" . -}}{{- end -}}
 {{- $howToRead := (T "howtoread") | default "How to read this page" -}}
 {{- $readingTime := (T "readingtime") | default "Appr. reading time" -}}
 {{- $minute := (T "minute") | default "minute" -}}
@@ -88,7 +92,7 @@
   
   {{- if $story -}}
     <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
-    {{ partial "shortcodes/card" (dict "title" $story_n "subtitle" $story.Title "link" $story.RelPermalink "icon" "pencil") }}
+    {{ partial "shortcodes/card" (dict "title" $story_n "subtitle" $story.Title "link" $storyLink "icon" "pencil") }}
     </div>
   {{- end -}}
 

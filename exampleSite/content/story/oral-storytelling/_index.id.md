@@ -1,6 +1,7 @@
 ---
 title: "Kisah yang Dituturkan Secara Lisan"
-weight: 10
+linkTitle: "Dituturkan Secara Lisan (untuk kelompok)"
+weight: 330
 ---
 
 Inilah kitab Wahyu sebagai naskah pertunjukan, bukan halaman yang dibaca dalam diam. Naskah ini ditulis untuk seorang pencerita atau tua-tua yang menuturkannya dengan suara lantang kepada sekelompok orang yang berkumpul, dengan orang-orang itu sendiri ikut ambil bagian - menyahut sebuah refrein, merasakan iramanya, membawa pulang kisah ini lewat mulut mereka sendiri, sebagaimana kisah-kisah selalu berpindah: dari telinga ke telinga, dari satu generasi ke generasi berikutnya.

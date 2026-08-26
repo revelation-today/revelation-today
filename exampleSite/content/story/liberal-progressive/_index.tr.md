@@ -1,6 +1,7 @@
 ---
 title: "Hikaye: İntikam değil, adalet"
-weight: 10
+linkTitle: "İntikam Değil, Adalet (şiddet imgeleri)"
+weight: 240
 ---
 
 Burada Vahiy kitabı tek, akıcı bir hikaye olarak anlatılıyor - aynı olaylar, aynı imgeler, diğer her anlatımdaki aynı zor bölümler - ama kitabın kendisinin sunduğu mercekten okunarak: bir seyircinin şiddet merakıyla değil, zulüm gören bir topluluğun adalet çığlığıyla. Belalar yağdığında ve ordular toplandığında, bu versiyon metnin aslında neyi adlandırdığını sormak için tam yeterince duraklıyor - imparatorluğun kendi şiddeti, kendine geri dönüyor; sömürü, nihayet gerçek bedeliyle fiyatlandırılıyor - ve hikaye sonra devam ediyor.

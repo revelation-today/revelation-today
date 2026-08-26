@@ -11,7 +11,7 @@ next: /kids/elementary/10-jesus-victory
 # The Two Witnesses
 ### Revelation 11
 
-> **Story to read:** [The Two Witnesses]({{< relref "story/elementary/content/witnesses" >}})  
+> **Story to read:** [The Two Witnesses]({{< relref "story/elementary/tour#witnesses" >}})  
 > **Bible:** {{% bible val="Revelation 11" link="rev:11" lang="en" %}}
 
 

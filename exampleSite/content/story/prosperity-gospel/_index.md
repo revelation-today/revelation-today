@@ -1,6 +1,7 @@
 ---
 title: "The Story: What Real Security Looks Like"
-weight: 10
+linkTitle: "What Real Security Looks Like (prosperity teaching)"
+weight: 250
 ---
 
 This is the same story of Revelation, start to finish, told with extra care for anyone who has ever been drawn to the promise of blessing, security, or breakthrough without the cross - a longing this book takes seriously rather than mocking. It lingers a little longer at the moments where Revelation confronts that promise most directly: the first horseman's counterfeit conquest, the beast's counterfeit security bought with worship, and the harlot's glamor built on violence. It ends where the whole book has been heading all along: a New Jerusalem whose security is permanent, undeserved, and freely given - a Person to be trusted, not a formula to be purchased.

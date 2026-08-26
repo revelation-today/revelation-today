@@ -10,7 +10,7 @@ next: /kids/early-childhood/10-a-different-christmas-story
 
 # Cesur Yardımcılar
 
-> **Okunacak hikâye:** [The Two Witnesses]({{< relref "story/early-childhood/content/witnesses" >}})  
+> **Okunacak hikâye:** [The Two Witnesses]({{< relref "story/early-childhood/tour#witnesses" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 11" link="rev:11" lang="tr" %}}
 
 

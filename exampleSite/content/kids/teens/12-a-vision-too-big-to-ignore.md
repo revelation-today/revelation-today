@@ -9,7 +9,7 @@ prev: /kids/teens/11-babel-and-balaam-two-ways-to-ruin-yourself
 next: /kids/teens/13-real-letters-to-real-churches
 ---
 
-> **Story to read:** [The Vision]({{< relref "story/teens/content/vision" >}})  
+> **Story to read:** [The Vision]({{< relref "story/teens/tour#vision" >}})  
 > **Bible:** {{% bible val="Revelation 1" link="rev:1" lang="en" %}}
 
 ## Have you ever heard something you couldn't just scroll past?

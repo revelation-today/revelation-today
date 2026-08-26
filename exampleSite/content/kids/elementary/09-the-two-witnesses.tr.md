@@ -11,7 +11,7 @@ next: /kids/elementary/10-jesus-victory
 # İki Tanık
 ### Vahiy 11
 
-> **Okunacak hikâye:** [Yere Yıkılmayı Reddeden İki Tanık (Bölüm 11)]({{< relref "story/elementary/content/witnesses" >}})  
+> **Okunacak hikâye:** [Yere Yıkılmayı Reddeden İki Tanık (Bölüm 11)]({{< relref "story/elementary/tour#witnesses" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 11" link="rev:11" lang="tr" %}}
 
 

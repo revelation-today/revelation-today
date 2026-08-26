@@ -11,7 +11,7 @@ next: /kids/elementary/09-the-two-witnesses
 # The Little Scroll
 ### Revelation 10
 
-> **Story to read:** [The Small Scroll]({{< relref "story/elementary/content/scroll" >}})  
+> **Story to read:** [The Small Scroll]({{< relref "story/elementary/tour#scroll" >}})  
 > **Bible:** {{% bible val="Revelation 10" link="rev:10" lang="en" %}}
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Kisah: Keadilan, Bukan Balas Dendam"
-weight: 10
+linkTitle: "Keadilan, Bukan Balas Dendam (citra kekerasan)"
+weight: 240
 ---
 
 Di sini kitab Wahyu diceritakan sebagai satu kisah yang mengalir - peristiwa yang sama, gambaran yang sama, pasal-pasal berat yang sama seperti pada penceritaan mana pun - tetapi dibaca melalui sudut pandang yang disediakan oleh kitab ini sendiri: jeritan keadilan dari sebuah komunitas yang dianiaya, bukan selera penonton akan kekerasan. Pada titik-titik ketika wabah turun dan pasukan berkumpul, versi ini berhenti sejenak, secukupnya, untuk bertanya apa yang sebenarnya sedang disebut oleh teks itu - kekerasan kekaisaran sendiri, yang berbalik menghantam dirinya sendiri; eksploitasi, yang akhirnya dihargai setimpal - sebelum kisah ini berjalan terus.

@@ -1,7 +1,7 @@
 ---
 title: "Die Geschichte für die Kleinsten"
 linkTitle: "Für die Kleinsten (4-7 Jahre)"
-weight: 10
+weight: 110
 ---
 
 Dies ist die Offenbarung, erzählt für die allerjüngsten Zuhörer, im Alter von 4 bis 7 Jahren. Sie verwendet ganz kurze, einfache Sätze und Wörter, die ein kleines Kind schon kennt, mit einem sanften Refrain, der immer wieder wiederholt wird — „Jesus gewinnt, und er liebt uns.“ — wie ein Sprüchlein, das die Kinder auswendig lernen können. Alles Erschreckende (der Drache, die Tiere, die Plagen) wird abgemildert zu „der Bösewicht versucht etwas Gruseliges, und es klappt nicht“, ohne erschreckende Details. Sie ist dazu gedacht, von einem Elternteil oder einer Lehrkraft vorgelesen zu werden, in einer gemütlichen Sitzung, und endet mit dem warmen Versprechen eines sicheren, fröhlichen Zuhauses bei Jesus für immer.

@@ -11,7 +11,7 @@ next: /kids/elementary/15-the-thousand-years
 # Fahişe ve Gelin
 ### Vahiy 17–19
 
-> **Okunacak hikâye:** [Gelin Olmayan Kadın (Bölüm 17-19)]({{< relref "story/elementary/content/harlot" >}})  
+> **Okunacak hikâye:** [Gelin Olmayan Kadın (Bölüm 17-19)]({{< relref "story/elementary/tour#harlot" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 17–19" link="rev:17" lang="tr" %}}
 
 

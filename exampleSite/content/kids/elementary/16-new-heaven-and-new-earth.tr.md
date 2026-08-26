@@ -10,7 +10,7 @@ prev: /kids/elementary/15-the-thousand-years
 # Yeni Gök ve Yeni Yeryüzü
 ### Vahiy 21–22
 
-> **Okunacak hikâye:** [Sonunda Eve Dönüş (Bölüm 21-22)]({{< relref "story/elementary/content/paradise" >}})  
+> **Okunacak hikâye:** [Sonunda Eve Dönüş (Bölüm 21-22)]({{< relref "story/elementary/tour#paradise" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 21–22" link="rev:21" lang="tr" %}}
 
 

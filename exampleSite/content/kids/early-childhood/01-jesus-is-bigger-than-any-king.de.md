@@ -9,7 +9,7 @@ next: /kids/early-childhood/02-letters-just-for-you
 
 # Jesus ist größer als jeder König
 
-> **Geschichte zum Vorlesen:** [The Vision]({{< relref "story/early-childhood/content/vision" >}})  
+> **Geschichte zum Vorlesen:** [The Vision]({{< relref "story/early-childhood/tour#vision" >}})  
 > **Bibel:** {{% bible val="Offenbarung 1" link="rev:1" lang="de" trans="hfa" %}}
 
 

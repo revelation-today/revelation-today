@@ -2,7 +2,8 @@
 title: "What crown are you still holding onto?"
 weight: 20
 base: /quick/content/worship
-story: /story/general/content/worship
+story: /story/general/tour
+story_anchor: worship
 expl: /expl/content/worship/worship-in-the-throne-room
 kids: /kids/elementary/04-worship-in-heaven
 docType: appl

@@ -9,7 +9,7 @@ prev: /kids/teens/13-real-letters-to-real-churches
 next: /kids/teens/15-the-churches-nobody-praised-enough
 ---
 
-> **Geschichte zum Vorlesen:** [The Letters to the Churches]({{< relref "story/teens/content/letters" >}})  
+> **Geschichte zum Vorlesen:** [The Letters to the Churches]({{< relref "story/teens/tour#letters" >}})  
 > **Bibel:** {{% bible val="Offenbarung 2–3" link="rev:2" lang="de" %}}
 
 ## Das Profil, das perfekt aussieht

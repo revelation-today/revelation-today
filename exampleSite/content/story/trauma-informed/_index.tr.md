@@ -1,6 +1,7 @@
 ---
 title: "Hikaye: Burada Güvendesin"
-weight: 10
+linkTitle: "Burada Güvendesin (şiddet sonrası)"
+weight: 210
 ---
 
 Bu, Vahiy'in bütün hikayesi - nazikçe anlatılmış. İçinden hiçbir şey çıkarılmadı - ne tehlike, ne kayıp, ne de zor bölümler - ama hiçbirinin üzerinde de gereğinden uzun durulmuyor. Dürüst olmaya yetecek kadar anlatıyoruz, sonra da bu kitabın aslında sana hissettirmek istediği şeye doğru ilerliyoruz: görüldüğünü, tutulduğunu ve sonun iyi olduğunu.

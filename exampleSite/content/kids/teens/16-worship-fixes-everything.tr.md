@@ -9,7 +9,7 @@ prev: /kids/teens/15-the-churches-nobody-praised-enough
 next: /kids/teens/17-the-four-horsemen-and-the-wrath-of-the-lamb
 ---
 
-> **Okunacak hikâye:** [Worship in the Throne Room]({{< relref "story/teens/content/worship" >}})  
+> **Okunacak hikâye:** [Worship in the Throne Room]({{< relref "story/teens/tour#worship" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 4–5" link="rev:4" lang="tr" %}}
 
 ## Her Şey Çok Fazla Hissettirdiğinde

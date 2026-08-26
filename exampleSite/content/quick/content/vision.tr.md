@@ -1,7 +1,8 @@
 ---
 title: "Görüm (Böl. 1)"
 weight: 1
-story: /story/general/content/vision
+story: /story/general/tour
+story_anchor: vision
 expl: /expl/content/vision/setting-the-foundation
 prev: /quick/bible/daniel
 next: /quick/content/letters

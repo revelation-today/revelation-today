@@ -2,7 +2,8 @@
 title: "The book with the seven seals"
 weight: 20
 base: /quick/content/worship
-story: /story/general/content/worship
+story: /story/general/tour
+story_anchor: worship
 prev: /expl/content/worship/worship-in-the-throne-room
 next: /expl/content/seals/the-mystery-of-the-four-horse-men
 docType: expl

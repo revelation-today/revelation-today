@@ -1,7 +1,7 @@
 ---
 title: "Cerita untuk Anak-Anak Kecil"
 linkTitle: "Anak Kecil (usia 4-7)"
-weight: 10
+weight: 110
 ---
 
 Di sini kitab Wahyu diceritakan untuk pendengar yang paling kecil, usia 4 sampai 7 tahun. Ceritanya memakai kalimat yang sangat pendek dan sederhana, serta kata-kata yang sudah dikenal anak kecil, dengan sebuah kalimat ulangan yang lembut - "Yesus menang, dan Dia mengasihi kita." - seperti nyanyian kecil yang bisa mereka hafal. Semua yang menakutkan (naga, binatang-binatang buas, wabah-wabah) dilembutkan menjadi "si jahat mencoba sesuatu yang menyeramkan, tapi tidak berhasil," tanpa digambarkan secara menakutkan sama sekali. Cerita ini dimaksudkan untuk dibacakan oleh orang tua atau guru, dalam satu waktu yang nyaman, dan berakhir dengan janji yang hangat tentang rumah selamanya yang aman dan bahagia bersama Yesus.

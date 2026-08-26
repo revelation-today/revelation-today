@@ -9,7 +9,7 @@ prev: /kids/teens/16-worship-fixes-everything
 next: /kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you
 ---
 
-> **Okunacak hikâye:** [The Seals]({{< relref "story/teens/content/seals" >}})  
+> **Okunacak hikâye:** [The Seals]({{< relref "story/teens/tour#seals" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}}
 
 ## Kazanan Taraf Sahte Çıktığında

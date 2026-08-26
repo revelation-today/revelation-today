@@ -10,7 +10,7 @@ next: /kids/early-childhood/14-a-thousand-years-of-jesus-being-king
 
 # Bad Things Don't Win
 
-> **Story to read:** [The Bowls of Wrath]({{< relref "story/early-childhood/content/bowls" >}})  
+> **Story to read:** [The Bowls of Wrath]({{< relref "story/early-childhood/tour#bowls" >}})  
 > **Bible:** {{% bible val="Revelation 15–16" link="rev:15" lang="en" %}}
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Die Geschichte: Die Liturgie enthüllt"
-weight: 10
+linkTitle: "Die Liturgie enthüllt (katholisch/orthodox)"
+weight: 310
 ---
 
 Für katholische und orthodoxe Leser ist die Offenbarung kein fremdes Buch. Sie ist, im wörtlichsten Sinne, vertraut: derselbe Weihrauch, dasselbe „Heilig, heilig, heilig", dieselbe weißgekleidete Schar, die sich vor dem Altar verneigt und die deine Kirche jeden Sonntag füllt - oder jede Göttliche Liturgie - gehört bereits zu diesem Buch. Hier wird die Offenbarung als eine einzige, zusammenhängende Geschichte erzählt, aufgebaut um ihre Anbetungsszenen, und sie zeigt: Der Thronsaal, den Johannes auf Patmos sah, ist derselbe Raum, den deine eigene Pfarrgemeinde Woche für Woche betritt.

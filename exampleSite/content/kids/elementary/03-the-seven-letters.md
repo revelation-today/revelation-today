@@ -11,7 +11,7 @@ next: /kids/elementary/04-worship-in-heaven
 # The Seven Letters
 ### Revelation 2–3
 
-> **Story to read:** [The Letters to the Churches]({{< relref "story/elementary/content/letters" >}})  
+> **Story to read:** [The Letters to the Churches]({{< relref "story/elementary/tour#letters" >}})  
 > **Bible:** {{% bible val="Revelation 2–3" link="rev:2" lang="en" %}}
 
 

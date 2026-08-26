@@ -1,7 +1,8 @@
 ---
 title: "Penyembahan (Pasal 4-5)"
 weight: 20
-story: /story/general/content/worship
+story: /story/general/tour
+story_anchor: worship
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals

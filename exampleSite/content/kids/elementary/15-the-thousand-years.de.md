@@ -11,7 +11,7 @@ next: /kids/elementary/16-new-heaven-and-new-earth
 # Die tausend Jahre
 ### Offenbarung 20
 
-> **Geschichte zum Vorlesen:** [Die Herrschaft, die man nicht sehen konnte (Kapitel 20)]({{< relref "story/elementary/content/1000y" >}})  
+> **Geschichte zum Vorlesen:** [Die Herrschaft, die man nicht sehen konnte (Kapitel 20)]({{< relref "story/elementary/tour#1000y" >}})  
 > **Bibel:** {{% bible val="Offenbarung 20" link="rev:20" lang="de" trans="hfa" %}}
 
 

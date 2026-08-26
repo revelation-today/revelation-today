@@ -9,7 +9,7 @@ prev: /kids/teens/16-worship-fixes-everything
 next: /kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you
 ---
 
-> **Cerita untuk dibacakan:** [The Seals]({{< relref "story/teens/content/seals" >}})  
+> **Cerita untuk dibacakan:** [The Seals]({{< relref "story/teens/tour#seals" >}})  
 > **Alkitab:** {{% bible val="Wahyu 6" link="rev:6" lang="ind" %}}
 
 ## Ketika Pihak yang Menang Ternyata Palsu

@@ -11,7 +11,7 @@ next: /kids/elementary/03-the-seven-letters
 # Penglihatan Itu
 ### Wahyu 1
 
-> **Cerita untuk dibacakan:** [Suara di Pulau Itu (Pasal 1)]({{< relref "story/elementary/content/vision" >}})  
+> **Cerita untuk dibacakan:** [Suara di Pulau Itu (Pasal 1)]({{< relref "story/elementary/tour#vision" >}})  
 > **Alkitab:** {{% bible val="Wahyu 1" link="rev:1" lang="ind" %}}
 
 

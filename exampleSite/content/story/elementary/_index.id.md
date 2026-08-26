@@ -1,7 +1,7 @@
 ---
 title: "Kisah untuk Penjelajah Alkitab"
 linkTitle: "Penjelajah Alkitab (usia 8-12)"
-weight: 10
+weight: 120
 ---
 
 Pernahkah kamu bertemu pahlawan yang menang tanpa sekali pun mengayunkan pedang? Inilah kitab Wahyu yang diceritakan sebagai kisah petualangan sungguhan — seorang lelaki tua yang dibuang ke pulau terpencil, sahabat-sahabat pemberani yang kelihatannya kecil dan lemah tapi pantang mundur apa pun yang terjadi, dan seekor naga jahat yang tampak tak terkalahkan... padahal tidak. Kisah ini ditulis untuk anak-anak usia 8 sampai 12 tahun (dan untuk orang tua serta guru yang membacanya bersama mereka) yang siap menghadapi kegembiraan sungguhan, bahaya sungguhan, dan akhir cerita yang lebih indah daripada dongeng mana pun.

@@ -9,7 +9,7 @@ prev: /kids/teens/17-the-four-horsemen-and-the-wrath-of-the-lamb
 next: /kids/teens/19-babylon-falls
 ---
 
-> **Geschichte zum Vorlesen:** [The Dragon and the Two Beasts]({{< relref "story/teens/content/beasts" >}})  
+> **Geschichte zum Vorlesen:** [The Dragon and the Two Beasts]({{< relref "story/teens/tour#beasts" >}})  
 > **Bibel:** {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}}
 
 ## Du hast die Gerüchte gehört

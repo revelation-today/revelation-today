@@ -1,6 +1,7 @@
 ---
 title: "Hikâye: Perdesi Aralanan Liturya"
-weight: 10
+linkTitle: "Perdesi Aralanan Liturya (Katolik/Ortodoks)"
+weight: 310
 ---
 
 Katolik ve Ortodoks okurlar için Vahiy yabancı bir kitap değildir. Kelimenin tam anlamıyla tanıdıktır: her Pazar - ya da her Kutsal Liturya'da - kilisenizi dolduran aynı buhur, aynı "Kutsal, kutsal, kutsal", sunağın önünde eğilen aynı beyaz kaftanlı kalabalık zaten bu kitaba aittir. Burada Vahiy, tapınma sahneleri etrafında örülmüş tek ve kesintisiz bir hikâye olarak anlatılıyor; Yuhanna'nın Patmos'ta gördüğü taht odasının, kendi cemaatinizin her hafta adım attığı odayla aynı oda olduğunu gösteriyor.

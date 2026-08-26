@@ -2,7 +2,8 @@
 title: "Hangi mektup sana yazıldı?"
 weight: 10
 base: /quick/content/letters
-story: /story/general/content/letters
+story: /story/general/tour
+story_anchor: letters
 expl: /expl/content/letters/the-angel-of-the-churches
 kids: /kids/elementary/03-the-seven-letters
 docType: appl

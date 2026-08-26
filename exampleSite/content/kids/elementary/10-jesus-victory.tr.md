@@ -11,7 +11,7 @@ next: /kids/elementary/11-the-dragon-and-the-two-beasts
 # İsa'nın Zaferi
 ### Vahiy 12
 
-> **Okunacak hikâye:** [Kadın, Bebek ve Ejderha (Bölüm 12)]({{< relref "story/elementary/content/jesus" >}})  
+> **Okunacak hikâye:** [Kadın, Bebek ve Ejderha (Bölüm 12)]({{< relref "story/elementary/tour#jesus" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 12" link="rev:12" lang="tr" %}}
 
 

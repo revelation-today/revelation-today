@@ -10,7 +10,7 @@ next: /kids/early-childhood/04-the-lion-who-is-really-a-lamb
 
 # Das schönste Fest im Himmel
 
-> **Geschichte zum Vorlesen:** [Worship in the Throne Room]({{< relref "story/early-childhood/content/worship" >}})  
+> **Geschichte zum Vorlesen:** [Worship in the Throne Room]({{< relref "story/early-childhood/tour#worship" >}})  
 > **Bibel:** {{% bible val="Offenbarung 4–5" link="rev:4" lang="de" trans="hfa" %}}
 
 

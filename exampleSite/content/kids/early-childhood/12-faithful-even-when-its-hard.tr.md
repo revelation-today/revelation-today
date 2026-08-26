@@ -10,7 +10,7 @@ next: /kids/early-childhood/13-bad-things-dont-win
 
 # Zor Olduğunda Bile Sadık
 
-> **Okunacak hikâye:** [The Two Harvests]({{< relref "story/early-childhood/content/harvest" >}})  
+> **Okunacak hikâye:** [The Two Harvests]({{< relref "story/early-childhood/tour#harvest" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 14" link="rev:14" lang="tr" %}}
 
 

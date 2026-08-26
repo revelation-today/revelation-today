@@ -11,7 +11,7 @@ next: /kids/elementary/16-new-heaven-and-new-earth
 # Seribu Tahun
 ### Wahyu 20
 
-> **Cerita untuk dibacakan:** [Pemerintahan yang Tak Terlihat (Pasal 20)]({{< relref "story/elementary/content/1000y" >}})  
+> **Cerita untuk dibacakan:** [Pemerintahan yang Tak Terlihat (Pasal 20)]({{< relref "story/elementary/tour#1000y" >}})  
 > **Alkitab:** {{% bible val="Wahyu 20" link="rev:20" lang="ind" %}}
 
 

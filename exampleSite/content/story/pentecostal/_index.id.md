@@ -1,6 +1,7 @@
 ---
 title: "Kisahnya: Kamu Ada di Sana"
-weight: 10
+linkTitle: "Kamu Ada di Sana (masa kini)"
+weight: 320
 ---
 
 Berhenti membaca tentangnya. Masuklah ke dalamnya. Inilah kitab Wahyu yang diceritakan kembali dalam waktu kini - terengah dan mendesak, menjatuhkanmu langsung ke dalam penglihatan itu persis seperti yang Yohanes terima: dikuasai Roh, terseret arus, tak sanggup berpaling. Tanpa pelajaran sejarah, tanpa jarak, tanpa catatan kaki: hanya ruang takhta yang terbuka di hadapanmu, saat ini juga.

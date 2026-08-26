@@ -2,7 +2,8 @@
 title: "Sweet in the mouth, hard to swallow"
 weight: 70
 base: /quick/content/scroll
-story: /story/general/content/scroll
+story: /story/general/tour
+story_anchor: scroll
 expl: /expl/content/scroll/the-little-scroll
 kids: /kids/elementary/08-the-little-scroll
 docType: appl

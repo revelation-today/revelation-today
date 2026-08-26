@@ -1,5 +1,6 @@
 ---
 title: "Poetic story"
+linkTitle: "Poetic Story (start here)"
 weight: 10
 ---
 

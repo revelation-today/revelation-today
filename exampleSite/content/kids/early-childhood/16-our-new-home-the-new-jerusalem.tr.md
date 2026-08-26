@@ -9,7 +9,7 @@ prev: /kids/early-childhood/15-heaven-is-being-close-to-god
 
 # Yeni Yuvamız, Yeni Yeruşalim
 
-> **Okunacak hikâye:** [New Heaven and New Earth]({{< relref "story/early-childhood/content/paradise" >}})  
+> **Okunacak hikâye:** [New Heaven and New Earth]({{< relref "story/early-childhood/tour#paradise" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 21–22" link="rev:21" lang="tr" %}}
 
 

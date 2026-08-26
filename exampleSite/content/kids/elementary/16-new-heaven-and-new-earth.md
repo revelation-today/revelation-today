@@ -10,7 +10,7 @@ prev: /kids/elementary/15-the-thousand-years
 # New Heaven and New Earth
 ### Revelation 21–22
 
-> **Story to read:** [New Heaven and New Earth]({{< relref "story/elementary/content/paradise" >}})  
+> **Story to read:** [New Heaven and New Earth]({{< relref "story/elementary/tour#paradise" >}})  
 > **Bible:** {{% bible val="Revelation 21–22" link="rev:21" lang="en" %}}
 
 

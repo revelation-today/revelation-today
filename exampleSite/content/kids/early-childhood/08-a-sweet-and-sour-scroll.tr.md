@@ -10,7 +10,7 @@ next: /kids/early-childhood/09-brave-helpers
 
 # Tatlı ve Ekşi Bir Tomar
 
-> **Okunacak hikâye:** [The Small Scroll]({{< relref "story/early-childhood/content/scroll" >}})  
+> **Okunacak hikâye:** [The Small Scroll]({{< relref "story/early-childhood/tour#scroll" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 10" link="rev:10" lang="tr" %}}
 
 

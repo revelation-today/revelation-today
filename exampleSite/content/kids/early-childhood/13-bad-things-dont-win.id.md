@@ -10,7 +10,7 @@ next: /kids/early-childhood/14-a-thousand-years-of-jesus-being-king
 
 # Hal-Hal Buruk Tidak Menang
 
-> **Cerita untuk dibacakan:** [The Bowls of Wrath]({{< relref "story/early-childhood/content/bowls" >}})  
+> **Cerita untuk dibacakan:** [The Bowls of Wrath]({{< relref "story/early-childhood/tour#bowls" >}})  
 > **Alkitab:** {{% bible val="Wahyu 15–16" link="rev:15" lang="ind" %}}
 
 

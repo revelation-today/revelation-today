@@ -10,7 +10,7 @@ next: /kids/early-childhood/15-heaven-is-being-close-to-god
 
 # İsa'nın Bin Yıl Boyunca Kral Olması
 
-> **Okunacak hikâye:** [The Millennium]({{< relref "story/early-childhood/content/1000y" >}})  
+> **Okunacak hikâye:** [The Millennium]({{< relref "story/early-childhood/tour#1000y" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 20" link="rev:20" lang="tr" %}}
 
 

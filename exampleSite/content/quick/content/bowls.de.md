@@ -1,7 +1,8 @@
 ---
 title: "Die Zornesschalen (Kap. 15-16)"
 weight: 120
-story: /story/general/content/bowls
+story: /story/general/tour
+story_anchor: bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 prev: /quick/content/harvest
 next: /quick/content/harlot

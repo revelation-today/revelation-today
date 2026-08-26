@@ -11,7 +11,7 @@ next: /kids/elementary/05-the-seals
 # Gökte Tapınma
 ### Vahiy 4–5
 
-> **Okunacak hikâye:** [Gökteki Kapı (Bölüm 4-5)]({{< relref "story/elementary/content/worship" >}})  
+> **Okunacak hikâye:** [Gökteki Kapı (Bölüm 4-5)]({{< relref "story/elementary/tour#worship" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 4–5" link="rev:4" lang="tr" %}}
 
 

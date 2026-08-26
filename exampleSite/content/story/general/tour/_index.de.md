@@ -6,9 +6,10 @@ next: /welcome/done_story
 docType: story
 ---
 
+
 Hier ist die Geschichte der Offenbarung, von Anfang bis Ende, in ein paar Minuten. Keine Fußnoten, keine Fachbegriffe - nur die Geschichte.
 
-# Wie alles begann
+## Wie alles begann
 
 Am Anfang atmete alles. Licht brach über dem Wasser hervor, die Meere wichen zurück und gaben trockenes Land frei, und jedes Lebewesen fand seinen Platz - bis Gott sich in den Staub kniete, mit seinen eigenen Händen einen Menschen formte und ihm seinen eigenen Atem einhauchte. Adam erwachte in einem Garten voller Leben, und Gott übergab ihm das Ganze, damit er es bebaue und über es herrsche.
 
@@ -20,7 +21,7 @@ Aus dem Garten vertrieben, bauten Adams Nachkommen sich eigene Gärten: Städte,
 
 Aus Abraham ließ Gott ein ganzes Volk wachsen: Israel.
 
-# Die Verheißung
+## Die Verheißung
 
 Israel trug die Verheißung in sich - aber nicht ein anderes Muster. Würden sie die Gaben mehr lieben als den Geber, so wie einst Adam?
 
@@ -28,7 +29,7 @@ Sie taten es. Generation um Generation entfernte sich, bis der Bund in Trümmern
 
 Aber Gott war noch nicht fertig. Er versprach einen Erlöser - jemanden, der kommen und ein Reich errichten würde, das niemals fallen würde, offen für jeden, der bereit ist, durch die Tür zu treten.
 
-# Neue Anfänge ({{% bible val="Kapitel 1" link="rev:1" lang="de" %}})
+## Die Vision (Kapitel 1) {#vision}
 
 Stell dir zuerst die Szene vor: ein alter Mann, allein auf einer felsigen Insel mitten im Meer, dorthin verbannt, weil er sich weigerte, sich vor irgendjemandem außer Jesus zu beugen. Ein Sonntagmorgen wie jeder andere - bis eine Stimme hinter ihm wie eine Posaune erklingt und sich alles ändert.
 
@@ -44,9 +45,9 @@ Bevor gefeiert wird, muss eine dringende Sache gesagt werden. Diese Vision triff
 
 Ist sie also bereit?
 
-Mehr: {{% int_link val="die Vision" link="/quick/content/vision" %}}
+{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/elementary/02-the-vision" >}}
 
-# Die Ernüchterung ({{% bible val="Kapitel 2-3" link="rev:2-3" lang="de" %}})
+## Die Briefe an die Gemeinden (Kapitel 2-3) {#letters}
 
 Sieben Gemeinden, sieben Briefe, sieben Spiegel, die sieben ganz unterschiedlichen Gemeinden vorgehalten werden.
 
@@ -64,9 +65,11 @@ Philadelphia ist die andere Gemeinde, die Jesus ohne Einschränkung lobt - klein
 
 Dann ist da noch Laodizea: lauwarm, selbstzufrieden, blind dafür, wie arm sie wirklich ist - die einzige Gemeinde, die kein Lob erhält. Und doch wendet Jesus sich selbst hier nicht ab. Er klopft an. Er warnt. Er will immer noch hinein.
 
-Mehr: {{% int_link val="die Briefe" link="/quick/content/letters" %}}
+![](/images/Churches_de.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" -->
 
-# Hilfe naht ({{% bible val="Kapitel 4-5" link="rev:4-5" lang="de" %}})
+{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/elementary/03-the-seven-letters" >}}
+
+## Anbetung (Kapitel 4-5) {#worship}
 
 Also liegt es an dir - an uns allen -, aufzustehen und uns bereitzumachen für das, was kommt. Aber wie bereitet man sich auf etwas so Großes vor?
 
@@ -76,9 +79,9 @@ Verwechsle Anbetung aber nicht mit einer schnellen Lösung. Sie kostet etwas. Si
 
 Er ist der Held dieser ganzen Geschichte - würdig, wo sonst niemand für würdig befunden wurde, zu öffnen, was geöffnet werden musste, und zu regieren, was regiert werden musste. Sobald du ihm durch diese Tür folgst, gibt es kein Zurück mehr zu dem, der du vorher warst.
 
-Mehr: {{% int_link val="Anbetung" link="/quick/content/worship" %}}
+{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/elementary/04-worship-in-heaven" >}}
 
-# Das Böse erwacht - tritt in die Armee Gottes ein ({{% bible val="Kapitel 6-7" link="rev:6-7" lang="de" %}})
+## Die Siegel (Kapitel 6) {#seals}
 
 Die Siegel brechen, eines nach dem anderen, und jedes lässt etwas los.
 
@@ -92,13 +95,19 @@ Dann bricht das Siegel, das keine Heere zeigt, sondern einen Altar - und darunte
 
 Der Himmel selbst antwortet als Nächstes: Die Sonne wird schwarz, der Mond wird wie Blut, die Sterne fallen wie Früchte von einem geschüttelten Baum, und der Himmel rollt sich zusammen wie eine Schriftrolle. Die Welt ertrinkt bereits in dem, was sie sich selbst zugefügt hat, und die Gemeinde steht mitten in den Trümmern und schreit ebenfalls.
 
-Aber bevor es noch schlimmer wird, geschieht etwas: Gottes Volk wird versiegelt. Markiert. Mitten im Sturm unverkennbar als sein Eigentum beansprucht.
+{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
-Das ist die Armee Gottes - auch wenn sie kämpft wie keine Armee, die du je gesehen hast. Keine Schwerter, keine geliehene Gewalt, nur beharrliche Anbetung und eine Treue, die alles überdauert, was der Feind ihr entgegenwirft. Was auch immer als Nächstes kommt - eines steht schon fest: Du weißt, auf welcher Seite du stehst.
+## Die Armee Gottes (Kapitel 7) {#army}
 
-Mehr: {{% int_link val="die Siegel" link="/quick/content/seals" %}}, {{% int_link val="die Armee Gottes" link="/quick/content/army" %}}
+Bevor es noch schlimmer wird, geschieht etwas: Gottes Volk wird versiegelt. Markiert. Mitten im Sturm unverkennbar als sein Eigentum beansprucht.
 
-# Der erste Angriff ({{% bible val="Kapitel 8-9" link="rev:8-9" lang="de" %}})
+Das ist die Armee Gottes - auch wenn sie kämpft wie keine Armee, die du je gesehen hast. Keine Schwerter, keine geliehene Gewalt, nur beharrliche Anbetung und eine Treue, die alles überdauert, was der Feind ihr entgegenwirft.
+
+Was auch immer als Nächstes kommt - eines steht schon fest: Du weißt, auf welcher Seite du stehst.
+
+{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" kids="/kids/elementary/06-gods-army" >}}
+
+## Die Posaunen (Kapitel 8-9) {#trumpets}
 
 Jetzt ist es an der Gemeinde, die Welt zu erschüttern - nicht mit Waffen, sondern so, wie Jesus es immer tat: durch das, was wie Schwäche aussieht. Gebet steigt auf wie Weihrauch, und die Posaunen erklingen, und die Erde selbst beginnt zu beben.
 
@@ -106,17 +115,17 @@ Nahrung versagt. Wasser wird bitter. Handel bricht zusammen. Sicherheit verschwi
 
 Nein. Selbst als sich ihre Götzen gegen sie wenden - selbst als dieselben Götzen ihnen den letzten Rest Hoffnung nehmen, bis der Tod wie eine Erleichterung erscheint -, klammern sich die Menschen noch fester, nicht loser. Leid allein hat noch nie ausgereicht, um ein menschliches Herz zu verändern.
 
-Mehr: {{% int_link val="die Posaunen" link="/quick/content/trumpets" %}}
+{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 
-# Realitätscheck ({{% bible val="Kapitel 10" link="rev:10" lang="de" %}})
+## Die kleine Schriftrolle (Kapitel 10) {#scroll}
 
 Der erste Schlag ist gescheitert. Harte Zeiten können fast alles aufbrechen - außer ein Herz, das auf das Falsche gesetzt ist.
 
 Da erscheint eine Schriftrolle, und Johannes soll sie essen - und etwas darin wird alles verändern, auch wenn es Zeit braucht, es zu verdauen. Das ist keine weitere Katastrophe. Es ist eine Offenbarung: etwas Wahres über Gott selbst, süß im Mund und schwer zu schlucken, das gleich dort durchbrechen wird, wo Gericht allein es nicht vermochte.
 
-Mehr: {{% int_link val="die kleine Schriftrolle" link="/quick/content/scroll" %}}
+{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" kids="/kids/elementary/08-the-little-scroll" >}}
 
-# Der große Zusammenprall ({{% bible val="Kapitel 11-13" link="rev:11-13" lang="de" %}})
+## Die zwei Zeugen (Kapitel 11) {#witnesses}
 
 Tritt hinter den Vorhang, und du siehst beide Welten, wie sie wirklich sind. Der Tempel ist kein Ort, den man sich verdienen muss - er ist der Ort, an dem sich deine Treue entweder zeigt oder eben nicht.
 
@@ -124,35 +133,58 @@ Zwei Zeugen bezeugen mit allem, was sie haben, und die Welt tötet sie dafür un
 
 Dann stehen sie auf. Genau das ist das Muster, das die Gemeinde selbst leben soll: kein Sieg, der das Leiden überspringt, sondern einer, der mitten hindurchgeht und auf der anderen Seite aufrecht wieder herauskommt.
 
+{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" kids="/kids/elementary/09-the-two-witnesses" >}}
+
+## Der Sieg Jesu (Kapitel 12) {#jesus}
+
 Jetzt wird dieselbe Geschichte noch einmal erzählt, aus größerer Entfernung, die den Rahmen sichtbar macht - eine ganz andere Weihnachtsgeschichte, die sich am Himmel selbst abspielt. Eine Frau erscheint, mit der Sonne bekleidet, den Mond unter ihren Füßen, zwölf Sterne wie eine Krone um ihren Kopf. Sie ist schwanger und schreit vor Geburtswehen.
 
 Dann reißt der Himmel erneut auf, und etwas weit Schlimmeres erscheint: ein gewaltiger roter Drache, sieben gekrönte Köpfe, zehn Hörner, ein Schwanz, groß genug, um ein Drittel der Sterne vom Himmel zu fegen und auf die Erde zu schleudern. Er stellt sich direkt vor die Frau und wartet - in dem Moment, in dem das Kind geboren wird, will er es verschlingen.
 
 Das Kind wird trotzdem geboren - ein Sohn, der einmal alle Völker mit eisernem Zepter regieren wird - und bevor die Kiefer des Drachen zuschnappen können, wird der Junge hinauf zu Gottes eigenem Thron gerettet.
 
-Krieg bricht im Himmel aus. Michael und seine Engel gegen den Drachen und die seinen - und der Drache verliert. Für ihn ist dort kein Platz mehr. Er wird hinab auf die Erde geworfen, besiegt durch das Blut des Lammes und das offene Zeugnis derer, die ihr eigenes Leben nicht liebten, um ihm zu entkommen.
+Krieg bricht im Himmel aus. Michael und seine Engel gegen den Drachen und die seinen - und der Drache verliert. Für ihn ist dort kein Platz mehr. Er wird hinab auf die Erde geworfen, und eine Stimme ruft: Der Ankläger ist endlich gestürzt, besiegt durch das Blut des Lammes und das offene Zeugnis derer, die ihr eigenes Leben nicht liebten, um ihm zu entkommen.
 
 Wütend, und weil ihm die Zeit davonläuft, wendet sich der Drache gegen die Frau - und als sie ihm entkommt, richtet er seinen Zorn stattdessen gegen alle, die zu ihr gehören.
 
-Fass trotzdem Mut: Den Drachen zu besiegen, war nie deine Aufgabe. Jesus hat das bereits getan, im Himmel, noch bevor es dich überhaupt erreicht hat. Sieh dir die Bilanz des Drachen bisher an: Er wollte Jesus töten - und scheiterte. Er wollte seinen Platz im Himmel behalten - und wurde hinausgeworfen. Er wollte Israel auslöschen - und scheiterte erneut.
+Fass trotzdem Mut: Den Drachen zu besiegen, war nie deine Aufgabe. Jesus hat das bereits getan, im Himmel, noch bevor es dich überhaupt erreicht hat. Deine Aufgabe ist es nur, Menschen weiterhin zu ihm hinzuführen - selbst während der Drache, der genau weiß, wie wenig Zeit ihm bleibt, umso heftiger wütet.
 
-Also greift er zu neuen Waffen - zwei Tieren, eines steigt aus dem Meer, eines kriecht aus der Erde herauf. Eines herrscht mit roher Gewalt, das andere täuscht mit Wundern und Zeichen, und zusammen sind sie eine groteske Kopie von Gott, Christus und dem Geist - nah genug dran, um fast jeden zu täuschen. Aber sieh genauer hin, und die Nachahmung bekommt schon Risse. Das Tier erobert nur durch Gewalt und baut nichts, was Bestand hat - weil der, den es kopiert, längst und endgültig gewonnen hat.
+{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" kids="/kids/elementary/10-jesus-victory" >}}
 
-Mehr: {{% int_link val="die Zeugen" link="/quick/content/witnesses" %}}, {{% int_link val="Jesus" link="/quick/content/jesus" %}}, {{% int_link val="Drache und Tiere" link="/quick/content/beasts" %}}
+## Der Drache und die zwei Tiere (Kapitel 13) {#beasts}
 
-# Der Sieg ({{% bible val="Kapitel 14-16" link="rev:14-16" lang="de" %}})
+Sieh dir die Bilanz des Drachen bisher an:
+- Er wollte Jesus töten - und scheiterte.
+- Er wollte seinen Platz im Himmel behalten - und wurde hinausgeworfen.
+- Er wollte Israel auslöschen - und scheiterte erneut.
+
+Also greift er zu neuen Waffen - zwei Tieren, eines steigt aus dem Meer, eines kriecht aus der Erde herauf. Eines herrscht mit roher Gewalt, das andere täuscht mit Wundern und Zeichen, und zusammen sind sie eine groteske Kopie von Gott, Christus und dem Geist - nah genug dran, um fast jeden zu täuschen.
+
+Aber sieh genauer hin, und die Nachahmung bekommt schon Risse. Das Tier erobert nur durch Gewalt, blendet nur durch Trickserei und baut nichts, was Bestand hat - weil der, den es kopiert, längst und endgültig gewonnen hat.
+
+{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/11-the-dragon-and-the-two-beasts" >}}
+
+## Die zwei Ernten (Kapitel 14) {#harvest}
 
 Jesus hat es am Kreuz bereits gewonnen, und die Gemeinde hat diesem Sieg seitdem die Treue gehalten - und jetzt zerstreuen sich die Kräfte des Feindes wie Rauch. Auf einem Meer aus Glas und Feuer singen die Treuen. Ihre einzige Qualifikation war, treu geblieben zu sein.
 
-Nicht alle dürfen singen. Diejenigen, die auf Nummer sicher gegangen sind und sich mit dem Tier eingelassen haben, um die Kosten zu vermeiden, stehen jetzt vor einer weit schwereren Rechnung. Zwei Sicheln fahren über die Erde. Eine Ernte wird eingebracht. Eine Ernte ist für das Gericht. Das ist der Moment, in dem die Wahrheit aufhört, theoretisch zu sein.
+Nicht alle dürfen singen. Diejenigen, die auf Nummer sicher gegangen sind und sich mit dem Tier eingelassen haben, um die Kosten zu vermeiden, stehen jetzt vor einer weit schwereren Rechnung.
 
-Dann ergießt sich Gottes Eifer wie etwas lange Zurückgehaltenes, das endlich freigelassen wird - Schale um Schale, bis das auf Lügen gebaute Reich nirgendwo mehr Halt findet. Die Heere der Erde versammeln sich zum letzten Gefecht, an einem Ort, dessen Name zum Inbegriff der Katastrophe geworden ist: Harmagedon. Sie kommen im festen Glauben an den Sieg.
+Zwei Sicheln fahren über die Erde. Eine Ernte wird eingebracht. Eine Ernte ist für das Gericht. Das ist der Moment, in dem die Wahrheit aufhört, theoretisch zu sein.
+
+{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
+
+## Die Zornschalen (Kapitel 15-16) {#bowls}
+
+Dann ergießt sich Gottes Eifer wie etwas lange Zurückgehaltenes, das endlich freigelassen wird - Schale um Schale, bis das auf Lügen gebaute Reich nirgendwo mehr Halt findet. Jede Schale trifft genau dort, wo sie treffen soll: falsche Anbetung, Grausamkeit gegen Gottes Volk, Herzen, die zu verhärtet sind, um selbst jetzt noch nachzugeben.
+
+Die Heere der Erde versammeln sich zum letzten Gefecht, an einem Ort, dessen Name zum Inbegriff der Katastrophe geworden ist: Harmagedon. Sie kommen im festen Glauben an den Sieg.
 
 Sie sind bereits erledigt. Sie wissen es nur noch nicht.
 
-Mehr: {{% int_link val="die zwei Ernten" link="/quick/content/harvest" %}}, {{% int_link val="die Zornschalen" link="/quick/content/bowls" %}}
+{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/elementary/13-the-bowls" >}}
 
-# Die letzte Herausforderung ({{% bible val="Kapitel 17-19" link="rev:17-19" lang="de" %}})
+## Die Hure (Kapitel 17-19) {#harlot}
 
 Eine Täuschung wartet noch darauf, entlarvt zu werden, bevor die Geschichte enden kann - und ihre Entlarvung zeigt, worum es die ganze Zeit ging: nicht einfach darum, das Böse zu besiegen, sondern darum, dass Gott sich für immer an sein Volk bindet, wie in einer Ehe.
 
@@ -162,11 +194,17 @@ Ihr letzter Auftritt wirkt makellos. Ist er nicht. Genau die Mächte, die der Te
 
 Der Weg ist endlich frei, um ihn endgültig zu erledigen.
 
-Mehr: {{% int_link val="die Hure" link="/quick/content/harlot" %}}
+{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/elementary/14-the-harlot-and-the-bride" >}}
 
-# Ein neuer Anfang ({{% bible val="Kapitel 20-22" link="rev:20-22" lang="de" %}})
+## Das Tausendjährige Reich (Kapitel 20) {#1000y}
 
-Es ist vollbracht, auch wenn du nie gesehen hast, wie es geschah. Die ganze Zeit über, während es aussah, als würde die Gemeinde verlieren, herrschte sie bereits - nur eben nicht mit der Art von Macht, auf die irgendjemand geachtet hätte. Diese Herrschaft hat den Ausgang von allem geprägt. Jetzt kommt die letzte Abrechnung: ein abschließendes Gericht, in dem endgültig entschieden wird, wer die Ewigkeit mit Gott verbringt - und wer sich die ganze Zeit über dagegen entschieden hat.
+Es ist vollbracht, auch wenn du nie gesehen hast, wie es geschah. Die ganze Zeit über, während es aussah, als würde die Gemeinde verlieren, herrschte sie bereits - nur eben nicht mit der Art von Macht, auf die irgendjemand geachtet hätte. Diese Herrschaft hat den Ausgang von allem geprägt.
+
+Jetzt kommt die letzte Abrechnung: ein abschließendes Gericht, in dem endgültig entschieden wird, wer die Ewigkeit mit Gott verbringt - und wer sich die ganze Zeit über dagegen entschieden hat.
+
+{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/elementary/15-the-thousand-years" >}}
+
+## Der neue Himmel und die neue Erde (Kapitel 21-22) {#paradise}
 
 Und dann: eine Hochzeit. Eine Stadt kommt vom Himmel herab, geschmückt wie eine Braut an ihrem Hochzeitstag, und eine Stimme vom Thron sagt, worauf die ganze Geschichte über gewartet wurde: „Siehe, die Wohnung Gottes ist jetzt bei den Menschen. Er wird bei ihnen wohnen. Er wird jede Träne von ihren Augen abwischen. Es wird keinen Tod mehr geben, keine Trauer, kein Geschrei, keinen Schmerz mehr, denn das Alte ist vergangen.“
 
@@ -174,6 +212,8 @@ Die Stadt selbst ist kaum zu beschreiben: Mauern aus Jaspis, Straßen aus so rei
 
 Mitten hindurch fließt ein Fluss, klar wie Kristall, direkt vom Thron Gottes, mit einem Baum an jedem Ufer, der jeden Monat Früchte trägt, und Blättern zur Heilung jeder Nation, die je geblutet hat. Der Fluch - der, der ganz am Anfang in einem anderen Garten begann - ist für immer verschwunden. Gottes Volk wird endlich sein Angesicht sehen, seinen Namen tragen und mit ihm regieren, für immer.
 
+Die Braut und der Bräutigam, endlich für immer zusammen. Gott selbst zieht bei seinem Volk ein - keine Distanz bleibt mehr zu überwinden.
+
 Und jetzt, wo du die Geschichte kennst - geh und lebe so, als würdest du sie glauben.
 
-Mehr: {{% int_link val="1000 Jahre" link="/quick/content/1000y" %}}, {{% int_link val="der Himmel" link="/quick/content/paradise" %}}
+{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/elementary/16-new-heaven-and-new-earth" >}}

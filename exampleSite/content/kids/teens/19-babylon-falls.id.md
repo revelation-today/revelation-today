@@ -9,7 +9,7 @@ prev: /kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you
 next: /kids/teens/20-the-ending-you-actually-want
 ---
 
-> **Cerita untuk dibacakan:** [The Harlot]({{< relref "story/teens/content/harlot" >}})  
+> **Cerita untuk dibacakan:** [The Harlot]({{< relref "story/teens/tour#harlot" >}})  
 > **Alkitab:** {{% bible val="Wahyu 17–19" link="rev:17" lang="ind" %}}
 
 ## Jebakan yang Tidak Terlihat Seperti Jebakan

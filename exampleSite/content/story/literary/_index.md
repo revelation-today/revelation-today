@@ -1,6 +1,7 @@
 ---
 title: "The Story: Echoes and Threads"
-weight: 10
+linkTitle: "Echoes and Threads (if you know Daniel/Ezekiel)"
+weight: 340
 ---
 
 If you have lived long enough inside Daniel's beasts and Ezekiel's wheeled throne, if you can hear "manna kept in a jar" and "sackcloth over the sun" without needing either explained, this telling is for you. It is Revelation as one unbroken story, start to finish, written dense enough to reward a memory soaked in Daniel, Ezekiel, Isaiah, and Exodus — without ever pausing to point at the echo. No footnotes, no "as the prophet foretold." The language simply carries what you already carry, and the recognitions surface on their own, exactly when they are ready to.

@@ -1,6 +1,7 @@
 ---
 title: "Die Geschichte: Wie echte Sicherheit aussieht"
-weight: 10
+linkTitle: "Wie echte Sicherheit aussieht (Wohlstandslehre)"
+weight: 250
 ---
 
 Dies ist dieselbe Geschichte der Offenbarung, von Anfang bis Ende - erzählt mit besonderer Behutsamkeit für alle, die sich je von dem Versprechen auf Segen, Sicherheit oder Durchbruch ohne das Kreuz haben anziehen lassen. Eine Sehnsucht, die dieses Buch ernst nimmt, statt sie zu verspotten. Sie verweilt etwas länger an den Stellen, an denen die Offenbarung diesem Versprechen am unmittelbarsten begegnet: bei der gefälschten Eroberung des ersten Reiters, bei der gefälschten Sicherheit des Tieres, die mit Anbetung erkauft wird, und beim Glanz der Hure, der auf Gewalt aufgebaut ist. Sie endet dort, wohin das ganze Buch von Anfang an unterwegs war: ein neues Jerusalem, dessen Sicherheit dauerhaft, unverdient und frei geschenkt ist - eine Person, der man vertraut, keine Formel, die man erwirbt.

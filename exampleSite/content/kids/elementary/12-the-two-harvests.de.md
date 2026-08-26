@@ -11,7 +11,7 @@ next: /kids/elementary/13-the-bowls
 # Die zwei Ernten
 ### Offenbarung 14
 
-> **Geschichte zum Vorlesen:** [Zwei Ernten (Kapitel 14)]({{< relref "story/elementary/content/harvest" >}})  
+> **Geschichte zum Vorlesen:** [Zwei Ernten (Kapitel 14)]({{< relref "story/elementary/tour#harvest" >}})  
 > **Bibel:** {{% bible val="Offenbarung 14" link="rev:14" lang="de" trans="hfa" %}}
 
 

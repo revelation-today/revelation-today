@@ -11,7 +11,7 @@ next: /kids/elementary/15-the-thousand-years
 # Die Hure und die Braut
 ### Offenbarung 17–19
 
-> **Geschichte zum Vorlesen:** [Die Frau, die nicht die Braut war (Kapitel 17-19)]({{< relref "story/elementary/content/harlot" >}})  
+> **Geschichte zum Vorlesen:** [Die Frau, die nicht die Braut war (Kapitel 17-19)]({{< relref "story/elementary/tour#harlot" >}})  
 > **Bibel:** {{% bible val="Offenbarung 17–19" link="rev:17" lang="de" trans="hfa" %}}
 
 

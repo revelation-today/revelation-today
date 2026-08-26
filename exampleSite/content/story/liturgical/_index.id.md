@@ -1,6 +1,7 @@
 ---
 title: "Kisah: Liturgi yang Tersingkap"
-weight: 10
+linkTitle: "Liturgi yang Tersingkap (Katolik/Ortodoks)"
+weight: 310
 ---
 
 Bagi pembaca Katolik dan Ortodoks, kitab Wahyu bukanlah kitab yang asing. Kitab ini, sesungguhnya, sangatlah akrab: dupa yang sama, seruan "Kudus, kudus, kudus" yang sama, kumpulan besar orang berjubah putih yang bersujud di hadapan altar - semuanya yang memenuhi gerejamu setiap hari Minggu, atau setiap Liturgi Ilahi, sudah menjadi milik kitab ini. Di sini kitab Wahyu diceritakan sebagai satu kisah yang mengalir, disusun di sekitar adegan-adegan ibadatnya, memperlihatkan bahwa ruang takhta yang dilihat Yohanes di Patmos adalah ruang yang sama yang dimasuki parokimu sendiri setiap pekan.

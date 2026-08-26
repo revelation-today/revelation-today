@@ -11,7 +11,7 @@ next: /kids/elementary/11-the-dragon-and-the-two-beasts
 # Jesus' Victory
 ### Revelation 12
 
-> **Story to read:** [The Victory of Jesus]({{< relref "story/elementary/content/jesus" >}})  
+> **Story to read:** [The Victory of Jesus]({{< relref "story/elementary/tour#jesus" >}})  
 > **Bible:** {{% bible val="Revelation 12" link="rev:12" lang="en" %}}
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Die Geschichte: Für die, die den Preis bezahlen"
-weight: 10
+linkTitle: "Für die, die den Preis bezahlen (Verfolgung)"
+weight: 230
 ---
 
 Hier wird die Offenbarung kurz erzählt - klein genug, um sie im Gedächtnis zu tragen, nicht auf Papier. Es ist dieselbe Geschichte, es sind dieselben Verheißungen, nur verdichtet auf das, was ein Mensch bei sich behalten kann: Gott sieht, was dir geschieht, es wird nicht ewig dauern, und treu zu bleiben, selbst bis in den Tod, ist keine Niederlage. Es ist ein Sieg, der schon errungen ist.

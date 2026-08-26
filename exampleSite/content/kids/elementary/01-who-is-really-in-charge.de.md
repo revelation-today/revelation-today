@@ -10,7 +10,7 @@ next: /kids/elementary/02-the-vision
 # Wer hat wirklich das Sagen?
 ### Die Welt, in die hinein die Offenbarung geschrieben wurde
 
-> **Geschichte zum Vorlesen:** [Der Kaiser, der ein Gott sein wollte (Hintergrund)]({{< relref "story/elementary/content/background" >}})  
+> **Geschichte zum Vorlesen:** [Der Kaiser, der ein Gott sein wollte (Hintergrund)]({{< relref "story/elementary/tour#background" >}})  
 > **Bibel:** {{% bible val="Offenbarung 1:9" link="rev:1,9" lang="de" trans="hfa" %}}
 
 

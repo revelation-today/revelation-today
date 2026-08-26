@@ -9,7 +9,7 @@ prev: /kids/teens/12-a-vision-too-big-to-ignore
 next: /kids/teens/14-the-churches-that-looked-fine-but-werent
 ---
 
-> **Story to read:** [The Letters to the Churches]({{< relref "story/teens/content/letters" >}})  
+> **Story to read:** [The Letters to the Churches]({{< relref "story/teens/tour#letters" >}})  
 > **Bible:** {{% bible val="Revelation 2–3" link="rev:2" lang="en" %}}
 
 ## Report Cards You Didn't Ask For

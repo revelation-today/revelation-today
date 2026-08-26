@@ -1,7 +1,7 @@
 ---
 title: "The Story: No Softening"
 linkTitle: "No Softening (ages 13-18)"
-weight: 10
+weight: 130
 ---
 
 This isn't the watered-down version. Revelation is about people your age getting frozen out, laughed at, and threatened for refusing to fake it — and about a King who never once asked them to fake it either. No rapture charts, no code-cracking, no scary-movie gimmicks. Just the real story: real pressure, real cost, real ending. Ten minutes, start to finish, and you'll never read "the end of the world" the same way again.

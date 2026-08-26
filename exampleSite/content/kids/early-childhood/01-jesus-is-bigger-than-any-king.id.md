@@ -9,7 +9,7 @@ next: /kids/early-childhood/02-letters-just-for-you
 
 # Yesus Lebih Besar dari Raja Mana Pun
 
-> **Cerita untuk dibacakan:** [The Vision]({{< relref "story/early-childhood/content/vision" >}})  
+> **Cerita untuk dibacakan:** [The Vision]({{< relref "story/early-childhood/tour#vision" >}})  
 > **Alkitab:** {{% bible val="Wahyu 1" link="rev:1" lang="ind" %}}
 
 

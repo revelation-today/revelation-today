@@ -11,7 +11,7 @@ next: /kids/elementary/07-the-trumpets
 # God's Army
 ### Revelation 7
 
-> **Story to read:** [The Army of God]({{< relref "story/elementary/content/army" >}})  
+> **Story to read:** [The Army of God]({{< relref "story/elementary/tour#army" >}})  
 > **Bible:** {{% bible val="Revelation 7" link="rev:7" lang="en" %}}
 
 

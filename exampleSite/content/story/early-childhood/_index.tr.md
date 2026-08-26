@@ -1,7 +1,7 @@
 ---
 title: "Küçükler İçin Hikaye"
 linkTitle: "Küçükler (4-7 yaş)"
-weight: 10
+weight: 110
 ---
 
 Bu, Vahiy kitabının en küçük dinleyiciler için, 4 ila 7 yaş arası çocuklar için anlatılmış halidir. Çok kısa, basit cümleler ve küçük bir çocuğun zaten bildiği kelimeler kullanır. Baştan sona nazik bir nakarat tekrarlanır — "İsa kazanır ve bizi sever." — ezbere öğrenebilecekleri bir tekerleme gibi. Korkutucu olabilecek her şey (ejderha, canavarlar, belalar) yumuşatılarak "kötü adam korkutucu bir şey dener ama işe yaramaz" şekline getirilmiştir; hiçbir şey korkutucu ayrıntılarla anlatılmaz. Bir anne, baba ya da öğretmen tarafından tek seferde, sıcak bir ortamda sesli okunmak üzere tasarlanmıştır ve İsa ile birlikte güvenli, mutlu bir sonsuza dek yuvanın sıcak vaadiyle sona erer.

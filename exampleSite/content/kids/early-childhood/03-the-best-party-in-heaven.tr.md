@@ -10,7 +10,7 @@ next: /kids/early-childhood/04-the-lion-who-is-really-a-lamb
 
 # Gökteki En Güzel Parti
 
-> **Okunacak hikâye:** [Worship in the Throne Room]({{< relref "story/early-childhood/content/worship" >}})  
+> **Okunacak hikâye:** [Worship in the Throne Room]({{< relref "story/early-childhood/tour#worship" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 4–5" link="rev:4" lang="tr" %}}
 
 

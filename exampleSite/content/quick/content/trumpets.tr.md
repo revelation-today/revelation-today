@@ -1,7 +1,8 @@
 ---
 title: "Borazanlar (Böl. 8-9)"
 weight: 60
-story: /story/general/content/trumpets
+story: /story/general/tour
+story_anchor: trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 prev: /quick/content/seals
 next: /quick/content/scroll

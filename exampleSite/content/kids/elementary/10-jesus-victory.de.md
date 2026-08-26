@@ -11,7 +11,7 @@ next: /kids/elementary/11-the-dragon-and-the-two-beasts
 # Jesu Sieg
 ### Offenbarung 12
 
-> **Geschichte zum Vorlesen:** [Die Frau, das Baby und der Drache (Kapitel 12)]({{< relref "story/elementary/content/jesus" >}})  
+> **Geschichte zum Vorlesen:** [Die Frau, das Baby und der Drache (Kapitel 12)]({{< relref "story/elementary/tour#jesus" >}})  
 > **Bibel:** {{% bible val="Offenbarung 12" link="rev:12" lang="de" trans="hfa" %}}
 
 

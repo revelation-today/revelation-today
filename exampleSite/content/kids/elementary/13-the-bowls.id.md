@@ -11,7 +11,7 @@ next: /kids/elementary/14-the-harlot-and-the-bride
 # Cawan-cawan
 ### Wahyu 15–16
 
-> **Cerita untuk dibacakan:** [Tujuh Cawan dan Satu Medan Perang Terakhir (Pasal 15-16)]({{< relref "story/elementary/content/bowls" >}})  
+> **Cerita untuk dibacakan:** [Tujuh Cawan dan Satu Medan Perang Terakhir (Pasal 15-16)]({{< relref "story/elementary/tour#bowls" >}})  
 > **Alkitab:** {{% bible val="Wahyu 15–16" link="rev:15" lang="ind" %}}
 
 

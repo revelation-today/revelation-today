@@ -1,6 +1,7 @@
 ---
 title: "Hikaye: Bedel ödeyenler için"
-weight: 10
+linkTitle: "Bedel Ödeyenler İçin (zulüm)"
+weight: 230
 ---
 
 Bu, Vahiy'in kısa anlatımı - kâğıtta değil, hafızanda taşıyabileceğin kadar küçük. Aynı hikaye, aynı vaatler, sadece bir insanın yanında tutabileceği kadara indirilmiş: Tanrı sana olanları görüyor, bu sonsuza dek sürmeyecek, ve ölüme kadar bile sadık kalmak yenilgi değil. Çoktan kazanılmış bir zaferdir.

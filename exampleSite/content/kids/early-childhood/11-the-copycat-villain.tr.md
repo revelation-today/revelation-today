@@ -10,7 +10,7 @@ next: /kids/early-childhood/12-faithful-even-when-its-hard
 
 # Taklitçi Kötü Adam
 
-> **Okunacak hikâye:** [The Dragon and the Two Beasts]({{< relref "story/early-childhood/content/beasts" >}})  
+> **Okunacak hikâye:** [The Dragon and the Two Beasts]({{< relref "story/early-childhood/tour#beasts" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}}
 
 

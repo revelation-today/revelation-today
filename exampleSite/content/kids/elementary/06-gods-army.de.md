@@ -11,7 +11,7 @@ next: /kids/elementary/07-the-trumpets
 # Gottes Heer
 ### Offenbarung 7
 
-> **Geschichte zum Vorlesen:** [Die Armee, die nicht kämpft (Kapitel 7)]({{< relref "story/elementary/content/army" >}})  
+> **Geschichte zum Vorlesen:** [Die Armee, die nicht kämpft (Kapitel 7)]({{< relref "story/elementary/tour#army" >}})  
 > **Bibel:** {{% bible val="Offenbarung 7" link="rev:7" lang="de" trans="hfa" %}}
 
 

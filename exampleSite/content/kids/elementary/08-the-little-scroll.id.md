@@ -11,7 +11,7 @@ next: /kids/elementary/09-the-two-witnesses
 # Gulungan Kecil
 ### Wahyu 10
 
-> **Cerita untuk dibacakan:** [Gulungan yang Rasanya Seperti Madu — dan Masalah (Pasal 10)]({{< relref "story/elementary/content/scroll" >}})  
+> **Cerita untuk dibacakan:** [Gulungan yang Rasanya Seperti Madu — dan Masalah (Pasal 10)]({{< relref "story/elementary/tour#scroll" >}})  
 > **Alkitab:** {{% bible val="Wahyu 10" link="rev:10" lang="ind" %}}
 
 

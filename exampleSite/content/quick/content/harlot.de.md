@@ -1,7 +1,8 @@
 ---
 title: "Die Hure (Kap. 17-19)"
 weight: 130
-story: /story/general/content/harlot
+story: /story/general/tour
+story_anchor: harlot
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 prev: /quick/content/bowls
 next: /quick/content/1000y

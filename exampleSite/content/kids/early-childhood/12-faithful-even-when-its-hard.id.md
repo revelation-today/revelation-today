@@ -10,7 +10,7 @@ next: /kids/early-childhood/13-bad-things-dont-win
 
 # Setia Walau Sulit
 
-> **Cerita untuk dibacakan:** [The Two Harvests]({{< relref "story/early-childhood/content/harvest" >}})  
+> **Cerita untuk dibacakan:** [The Two Harvests]({{< relref "story/early-childhood/tour#harvest" >}})  
 > **Alkitab:** {{% bible val="Wahyu 14" link="rev:14" lang="ind" %}}
 
 

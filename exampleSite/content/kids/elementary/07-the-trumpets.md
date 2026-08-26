@@ -11,7 +11,7 @@ next: /kids/elementary/08-the-little-scroll
 # The Trumpets
 ### Revelation 8–9
 
-> **Story to read:** [The Trumpets]({{< relref "story/elementary/content/trumpets" >}})  
+> **Story to read:** [The Trumpets]({{< relref "story/elementary/tour#trumpets" >}})  
 > **Bible:** {{% bible val="Revelation 8–9" link="rev:8" lang="en" %}}
 
 

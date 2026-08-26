@@ -2,7 +2,8 @@
 title: "Du weißt schon, auf wessen Seite du stehst"
 weight: 50
 base: /quick/content/army
-story: /story/general/content/army
+story: /story/general/tour
+story_anchor: army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 kids: /kids/elementary/06-gods-army
 docType: appl

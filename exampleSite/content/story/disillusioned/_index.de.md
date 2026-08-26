@@ -1,7 +1,7 @@
 ---
 title: "Die Geschichte: Für wenn sich nichts ändert"
-linkTitle: "Wenn sich nichts ändert"
-weight: 10
+linkTitle: "Wenn sich nichts ändert (Resignation)"
+weight: 220
 ---
 
 Das ist die Offenbarung für Leser, die nicht mehr damit rechnen, dass die Welt besser wird.

@@ -10,7 +10,7 @@ next: /kids/early-childhood/03-the-best-party-in-heaven
 
 # Briefe nur für dich
 
-> **Geschichte zum Vorlesen:** [The Letters to the Churches]({{< relref "story/early-childhood/content/letters" >}})  
+> **Geschichte zum Vorlesen:** [The Letters to the Churches]({{< relref "story/early-childhood/tour#letters" >}})  
 > **Bibel:** {{% bible val="Offenbarung 2–3" link="rev:2" lang="de" trans="hfa" %}}
 
 

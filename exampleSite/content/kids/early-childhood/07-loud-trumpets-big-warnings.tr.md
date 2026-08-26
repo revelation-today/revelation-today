@@ -10,7 +10,7 @@ next: /kids/early-childhood/08-a-sweet-and-sour-scroll
 
 # Yüksek Sesli Borular, Büyük Uyarılar
 
-> **Okunacak hikâye:** [The Trumpets]({{< relref "story/early-childhood/content/trumpets" >}})  
+> **Okunacak hikâye:** [The Trumpets]({{< relref "story/early-childhood/tour#trumpets" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 8–9" link="rev:8" lang="tr" %}}
 
 

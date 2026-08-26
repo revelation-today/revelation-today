@@ -1,6 +1,7 @@
 ---
 title: "The Story: For Those Who Are Paying the Price"
-weight: 10
+linkTitle: "For Those Paying the Price (persecution)"
+weight: 230
 ---
 
 This is Revelation told short - small enough to carry in your memory, not on paper. It is the same story, the same promises, just held down to what a person can keep close: God sees what is happening to you, this will not last forever, and staying faithful, even to death, is not defeat. It is victory already won.

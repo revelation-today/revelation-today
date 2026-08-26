@@ -10,7 +10,7 @@ next: /kids/early-childhood/15-heaven-is-being-close-to-god
 
 # A Thousand Years of Jesus Being King
 
-> **Story to read:** [The Millennium]({{< relref "story/early-childhood/content/1000y" >}})  
+> **Story to read:** [The Millennium]({{< relref "story/early-childhood/tour#1000y" >}})  
 > **Bible:** {{% bible val="Revelation 20" link="rev:20" lang="en" %}}
 
 

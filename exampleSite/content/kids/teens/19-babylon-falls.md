@@ -9,7 +9,7 @@ prev: /kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you
 next: /kids/teens/20-the-ending-you-actually-want
 ---
 
-> **Story to read:** [The Harlot]({{< relref "story/teens/content/harlot" >}})  
+> **Story to read:** [The Harlot]({{< relref "story/teens/tour#harlot" >}})  
 > **Bible:** {{% bible val="Revelation 17–19" link="rev:17" lang="en" %}}
 
 ## The Trap That Doesn't Look Like a Trap

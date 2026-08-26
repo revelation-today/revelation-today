@@ -11,7 +11,7 @@ next: /kids/elementary/04-worship-in-heaven
 # Die sieben Briefe
 ### Offenbarung 2–3
 
-> **Geschichte zum Vorlesen:** [Sieben Briefe an sieben Teams (Kapitel 2-3)]({{< relref "story/elementary/content/letters" >}})  
+> **Geschichte zum Vorlesen:** [Sieben Briefe an sieben Teams (Kapitel 2-3)]({{< relref "story/elementary/tour#letters" >}})  
 > **Bibel:** {{% bible val="Offenbarung 2–3" link="rev:2" lang="de" trans="hfa" %}}
 
 

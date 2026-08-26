@@ -1,7 +1,7 @@
 ---
 title: "Hikaye: Hiçbir Şey Değişmiyormuş Gibi Göründüğünde"
-linkTitle: "Hiçbir Şey Değişmediğinde"
-weight: 10
+linkTitle: "Hiçbir Şey Değişmediğinde (hayal kırıklığı)"
+weight: 220
 ---
 
 Bu, dünyanın düzeleceğini beklemeyi bırakmış okurlar için Vahiy.

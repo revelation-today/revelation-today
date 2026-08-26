@@ -10,7 +10,7 @@ next: /kids/early-childhood/09-brave-helpers
 
 # A Sweet and Sour Scroll
 
-> **Story to read:** [The Small Scroll]({{< relref "story/early-childhood/content/scroll" >}})  
+> **Story to read:** [The Small Scroll]({{< relref "story/early-childhood/tour#scroll" >}})  
 > **Bible:** {{% bible val="Revelation 10" link="rev:10" lang="en" %}}
 
 

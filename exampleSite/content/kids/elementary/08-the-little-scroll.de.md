@@ -11,7 +11,7 @@ next: /kids/elementary/09-the-two-witnesses
 # Die kleine Schriftrolle
 ### Offenbarung 10
 
-> **Geschichte zum Vorlesen:** [Die Schriftrolle, die nach Honig schmeckt - und nach Ärger (Kapitel 10)]({{< relref "story/elementary/content/scroll" >}})  
+> **Geschichte zum Vorlesen:** [Die Schriftrolle, die nach Honig schmeckt - und nach Ärger (Kapitel 10)]({{< relref "story/elementary/tour#scroll" >}})  
 > **Bibel:** {{% bible val="Offenbarung 10" link="rev:10" lang="de" trans="hfa" %}}
 
 

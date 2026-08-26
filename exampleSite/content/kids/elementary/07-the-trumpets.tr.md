@@ -11,7 +11,7 @@ next: /kids/elementary/08-the-little-scroll
 # Borazanlar
 ### Vahiy 8–9
 
-> **Okunacak hikâye:** [Yedi Borazan Dünyayı Sarsıyor (Bölüm 8-9)]({{< relref "story/elementary/content/trumpets" >}})  
+> **Okunacak hikâye:** [Yedi Borazan Dünyayı Sarsıyor (Bölüm 8-9)]({{< relref "story/elementary/tour#trumpets" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 8–9" link="rev:8" lang="tr" %}}
 
 

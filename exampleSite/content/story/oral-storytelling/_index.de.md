@@ -1,6 +1,7 @@
 ---
 title: "Die Geschichte: Laut erzählt"
-weight: 10
+linkTitle: "Laut erzählt (für Gruppen)"
+weight: 330
 ---
 
 Dies ist die Offenbarung als Aufführungsskript, keine Seite zum stillen Lesen. Es ist dafür geschrieben, dass ein Geschichtenerzähler oder Ältester es einer versammelten Gruppe laut vorträgt, wobei die Menschen selbst mitmachen - einen Ruf zurückrufen, den Rhythmus spüren, die Geschichte in ihrem eigenen Mund nach Hause tragen, so wie Geschichten schon immer gewandert sind: von Ohr zu Ohr, von einer Generation zur nächsten.

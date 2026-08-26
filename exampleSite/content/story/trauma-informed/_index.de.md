@@ -1,6 +1,7 @@
 ---
 title: "Die Geschichte: Hier bist du sicher"
-weight: 10
+linkTitle: "Hier bist du sicher (nach Gewalt)"
+weight: 210
 ---
 
 Dies ist die ganze Geschichte der Offenbarung, sanft erzählt. Nichts wird ausgelassen - nicht die Gefahr, nicht der Verlust, nicht die schweren Kapitel - aber bei nichts wird lange verweilt. Wir erzählen so viel, wie es ehrlich braucht, und bewegen uns dann auf das zu, was dieses Buch dir eigentlich vermitteln will: dass du gesehen wirst, dass du gehalten wirst, und dass das Ende gut ist.

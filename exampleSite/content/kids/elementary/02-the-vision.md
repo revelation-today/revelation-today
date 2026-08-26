@@ -11,7 +11,7 @@ next: /kids/elementary/03-the-seven-letters
 # The Vision
 ### Revelation 1
 
-> **Story to read:** [The Vision]({{< relref "story/elementary/content/vision" >}})  
+> **Story to read:** [The Vision]({{< relref "story/elementary/tour#vision" >}})  
 > **Bible:** {{% bible val="Revelation 1" link="rev:1" lang="en" %}}
 
 

@@ -1,7 +1,8 @@
 ---
 draft: true
 title: "The Story: To Be Heard"
-weight: 10
+linkTitle: "To Be Heard (read aloud)"
+weight: 30
 ---
 
 This is Revelation told as one continuous story, written specifically to be read aloud rather than read in silence. It is for listeners — anyone who takes in scripture by ear rather than by eye, whether blind, low-literacy, or simply someone who prefers to listen. Every sentence is shaped for spoken clarity: short, direct, easy to follow without ever seeing a word on a page. The content is the same rich, full story as the written version. Only the rhythm has changed, to fit the ear instead of the eye.

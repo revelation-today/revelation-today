@@ -1,6 +1,7 @@
 ---
 title: "The Story: You Are Safe Here"
-weight: 10
+linkTitle: "You Are Safe Here (after violence)"
+weight: 210
 ---
 
 This is the whole story of Revelation, told gently. Nothing in it is left out - not the danger, not the loss, not the hard chapters - but nothing is lingered on either. We tell you enough to be honest, and then we move toward what this book actually wants you to feel: that you are seen, that you are held, and that the ending is good.

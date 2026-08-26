@@ -1,6 +1,7 @@
 ---
 title: "Kisahnya: Di Sini Kamu Aman"
-weight: 10
+linkTitle: "Di Sini Kamu Aman (setelah kekerasan)"
+weight: 210
 ---
 
 Ini adalah seluruh kisah kitab Wahyu, dituturkan dengan lembut. Tidak ada yang dihilangkan - bahayanya tidak, kehilangannya tidak, pasal-pasal yang berat pun tidak - tetapi tidak ada juga yang diulur-ulur. Kami menceritakan secukupnya agar tetap jujur, lalu bergerak menuju apa yang sesungguhnya ingin kitab ini kamu rasakan: bahwa kamu dilihat, bahwa kamu dipeluk, dan bahwa akhir kisahnya baik.

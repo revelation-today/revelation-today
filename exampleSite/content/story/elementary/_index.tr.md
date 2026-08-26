@@ -1,7 +1,7 @@
 ---
 title: "Kutsal Kitap Kâşifleri İçin Bu Hikaye"
 linkTitle: "Kutsal Kitap Kâşifleri (8-12 yaş)"
-weight: 10
+weight: 120
 ---
 
 Hiç kılıç sallamadan kazanan kahramanlarla tanıştın mı? İşte Vahiy Kitabı, gerçek bir macera hikayesi olarak anlatılıyor — ıssız bir adaya sürgün edilmiş yaşlı bir adam, ne olursa olsun asla pes etmeyen cesur azınlık kahraman dostlar, yenilmez görünen ama aslında öyle olmayan bir ejderha-kötü adam... Bu hikaye, gerçek heyecana, gerçek tehlikeye ve hiçbir masal kitabının uyduramayacağı kadar güzel bir sona hazır olan 8-12 yaş arası çocuklar için (ve onlarla birlikte okuyan anne-babalar ve öğretmenler için) yazıldı.

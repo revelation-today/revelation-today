@@ -1,0 +1,20 @@
+{{- /* Per-section cross-links inside a merged one-page story.
+       Replaces the base/appl/expl/kids front-matter cards that the former
+       per-chapter pages carried, so every section still points at its own
+       quick explanation, application, explanation and kids lesson. */ -}}
+{{- $names := dict
+      "base" ((T "quick")       | default "Quick")
+      "appl" ((T "application") | default "Application")
+      "expl" ((T "explanation") | default "Explanation")
+      "kids" ((T "kids")        | default "Kids") -}}
+{{- $items := slice -}}
+{{- range $key := (slice "base" "appl" "expl" "kids") -}}
+  {{- with $.Get $key -}}
+    {{- with $.Site.GetPage . -}}
+      {{- $items = $items | append (printf `<a class="internal" href="%s"><span>%s</span></a>` .RelPermalink (index $names $key)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if $items -}}
+<p class="story-section-links">{{ delimit $items " · " | safeHTML }}</p>
+{{- end -}}

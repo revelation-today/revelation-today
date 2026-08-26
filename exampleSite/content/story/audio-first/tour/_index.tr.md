@@ -7,9 +7,10 @@ next: /welcome/done_story
 docType: story
 ---
 
+
 İşte Vahiy'in hikâyesi, baştan sona, sadece birkaç dakikada. Dipnot yok, teknik terim yok - sadece hikâye, her zaman duyulması gerektiği gibi anlatılıyor.
 
-# Her şey nasıl başladı
+## Her şey nasıl başladı
 
 Başlangıçta her şey nefes alıyordu. Işık suyun üzerinde parladı. Denizler geri çekildi, ve kuru toprak ortaya çıktı. Her canlı kendi yerini buldu. Sonra Tanrı toprağa diz çöktü. Kendi elleriyle bir insan biçimlendirdi, ve ona kendi nefesini üfledi. Adem, hayatla dolu bir bahçede uyandı, ve Tanrı bahçenin tümünü ona verdi - yetiştirsin ve üzerinde hüküm sürsün diye.
 
@@ -21,7 +22,7 @@ Adem ile Havva bahçeden kovuldu. Çocukları bunun yerine kendi bahçelerini ku
 
 Tanrı, İbrahim'den koca bir ulus yetiştirdi. İsrail.
 
-# Vaat
+## Vaat
 
 İsrail bu vaadi taşıdı. Ama Adem'in izlediği aynı yolu mu izleyecekti? Armağanları, Armağanı Veren'den daha mı çok sevecekti?
 
@@ -29,7 +30,7 @@ Sevdi. Nesilden nesile uzaklaştılar. Antlaşma yıkıntıya döndü. Halk kend
 
 Ama Tanrı onlarla işini bitirmemişti. Bir Kurtarıcı vaat etti. Biri gelecek ve asla yıkılmayacak bir krallık kuracaktı - kapısından geçmeye istekli olan herkese açık bir krallık.
 
-# Yeni başlangıçlar ({{% bible val="Bölüm 1" link="rev:1" lang="tr" %}})
+## Görüm (Bölüm 1) {#vision}
 
 Sahneyi gözünde canlandır. Yaşlı bir adam, denizin ortasındaki kayalık bir adada yalnız başına. Sadece İsa'nın önünde eğilmeyi kabul ettiği için oraya sürgün edilmiş. Her zamanki gibi bir Pazar sabahı - ta ki arkasından bir ses, bir borazan gibi çınlayana ve her şey değişene kadar.
 
@@ -45,9 +46,9 @@ Ama kutlama başlamadan önce, aciliyeti olan bir şey söylenmeli. Bu görüm, 
 
 Peki - kilise hazır mı?
 
-Görüm hakkında daha fazla: {{% int_link val="vizyon" link="/quick/content/vision" %}}
+{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/elementary/02-the-vision" >}}
 
-# Büyük bir felaket ({{% bible val="Bölüm 2-3" link="rev:2-3" lang="tr" %}})
+## Kiliselere mektuplar (Bölüm 2-3) {#letters}
 
 Yedi kilise. Yedi mektup. Yedi ayna, her biri çok farklı bir topluluğa tutuluyor.
 
@@ -65,9 +66,9 @@ Filadelfiya, İsa'nın çekincesiz övdüğü diğer kilise. Küçük. Yorgun. E
 
 Sonra Laodikya var. Ne sıcak ne soğuk. Kendinden hoşnut. Gerçekte ne kadar yoksul olduğunu görmüyor. Hiçbir övgü almayan tek kilise o. Yine de İsa burada bile çekip gitmiyor. Kapıyı çalıyor. Uyarıyor. Hâlâ içeri girmek istiyor.
 
-Mektuplar hakkında daha fazla: {{% int_link val="mektuplar" link="/quick/content/letters" %}}
+{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/elementary/03-the-seven-letters" >}}
 
-# Rehberlik önde ({{% bible val="Bölüm 4-5" link="rev:4-5" lang="tr" %}})
+## İbadet (Bölüm 4-5) {#worship}
 
 Yani kalkıp gelecek olana hazırlanmak sana - hepimize - düşüyor. Ama bu kadar büyük bir şeye nasıl hazırlanılır?
 
@@ -75,11 +76,11 @@ Yani kalkıp gelecek olana hazırlanmak sana - hepimize - düşüyor. Ama bu kad
 
 Ama ibadeti kolay bir çözümle karıştırma. Bir bedeli var. Kendi tacını yere koymak anlamına geliyor. Hayatının her alanını, istisnasız, Tanrı'ya vermek anlamına geliyor. Ve o odada, bir figür diğerlerinden ayrılıyor - boğazlanmış gibi görünen bir Kuzu.
 
-O, bu hikâyenin kahramanı. Açılması gerekeni açmaya ve yönetilmesi gerekeni yönetmeye yalnız o layık bulundu. Onu bu kapıdan bir kez takip ettin mi, eskiden olduğun kişiye artık dönüş yok.
+O, bütün bu hikayenin kahramanı. Açılması gerekeni açmaya ve yönetilmesi gerekeni yönetmeye yalnız o layık bulundu. Onu bu kapıdan bir kez takip ettin mi, eskiden olduğun kişiye artık dönüş yok.
 
-İbadet hakkında daha fazla: {{% int_link val="ibadet" link="/quick/content/worship" %}}
+{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/elementary/04-worship-in-heaven" >}}
 
-# Kötülük uyanıyor - orduya katılmalısın ({{% bible val="Bölüm 6-7" link="rev:6-7" lang="tr" %}})
+## Mühürler (Bölüm 6) {#seals}
 
 Mühürler birer birer açılıyor. Her biri bir şeyi serbest bırakıyor.
 
@@ -93,13 +94,19 @@ Sonra bir mühür açılıyor ve ordular değil, bir sunak ortaya çıkıyor. Al
 
 Sonra gökyüzünün kendisi cevap veriyor. Güneş kararıyor. Ay kan rengine dönüyor. Yıldızlar, silkelenen bir ağaçtan düşen meyveler gibi dökülüyor. Gökyüzü, sarılan bir tomar gibi katlanıyor. Dünya çoktan kendi getirdiği felakette boğuluyor, ve kilise de enkazın tam ortasında durup haykırıyor.
 
-Ama daha da kötüleşmeden önce bir şey oluyor. Tanrı'nın halkı mühürleniyor. İşaretleniyor. Fırtınanın tam ortasında, tartışmasız biçimde O'na ait olarak sahipleniliyor.
+{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
-Bu, Tanrı'nın ordusu - ama daha önce gördüğün hiçbir ordu gibi savaşmıyor. Kılıç yok. Ödünç alınmış şiddet yok. Sadece bitmek bilmeyen bir ibadet, ve düşmanın atabileceği her şeyden daha uzun süren bir sadakat. Bundan sonra ne gelirse gelsin, bir şey şimdiden kesin: hangi tarafta olduğunu biliyorsun.
+## Tanrı'nın ordusu (Bölüm 7) {#army}
 
-Daha fazla: {{% int_link val="mühürler" link="/quick/content/seals" %}}, {{% int_link val="Tanrı'nın ordusu" link="/quick/content/army" %}}
+Daha da kötüleşmeden önce bir şey oluyor. Tanrı'nın halkı mühürleniyor. İşaretleniyor. Fırtınanın tam ortasında, tartışmasız biçimde O'na ait olarak sahipleniliyor.
 
-# İlk darbe ({{% bible val="Bölüm 8-9" link="rev:8-9" lang="tr" %}})
+Bu, Tanrı'nın ordusu - ama daha önce gördüğün hiçbir ordu gibi savaşmıyor. Kılıç yok. Ödünç alınmış şiddet yok. Sadece bitmek bilmeyen bir ibadet, ve düşmanın atabileceği her şeyden daha uzun süren bir sadakat.
+
+Bundan sonra ne gelirse gelsin, bir şey şimdiden kesin: hangi tarafta olduğunu biliyorsun.
+
+{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" kids="/kids/elementary/06-gods-army" >}}
+
+## Borazanlar (Bölüm 8-9) {#trumpets}
 
 Şimdi dünyayı sarsma sırası kilisede. Silahlarla değil, İsa'nın her zaman çalıştığı gibi - zayıflık gibi görünen bir şeyle. Dua, tütsü gibi yükseliyor. Borazanlar çalıyor. Yeryüzünün kendisi titremeye başlıyor.
 
@@ -107,17 +114,17 @@ Yiyecek tükeniyor. Su acılaşıyor. Ticaret çöküyor. Güvenlik ortadan kalk
 
 Sormuyorlar. Putları onlara karşı dönüyor. O aynı putlar son umut kırıntısını da alıp götürüyor, ta ki ölüm bir rahatlama gibi görünmeye başlayana kadar. Ve insanlar yine de daha gevşek değil, daha sıkı tutunuyor. Acı çekmek tek başına hiçbir zaman bir insan yüreğini değiştirmeye yetmedi.
 
-Borazanlar hakkında daha fazla: {{% int_link val="borazanlar" link="/quick/content/trumpets" %}}
+{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 
-# Gerçeklik kontrolü ({{% bible val="Bölüm 10" link="rev:10" lang="tr" %}})
+## Küçük tomar (Bölüm 10) {#scroll}
 
 İlk darbe başarısız oldu. Zor zamanlar hemen her şeyi kırabilir - yanlış bir şeye kilitlenmiş bir yürek dışında.
 
 Bunun üzerine bir tomar beliriyor, ve Yuhanna'ya onu yemesi söyleniyor. İçindeki bir şey her şeyi değiştirecek, sindirmesi zaman alsa da. Bu başka bir felaket değil. Bu bir vahiy - Tanrı'nın kendisi hakkında gerçek bir şey. Ağızda tatlı, ama yutması zor. Ve yargının tek başına başaramadığı yerde açığa çıkmak üzere.
 
-Küçük tomar hakkında daha fazla: {{% int_link val="küçük tomar" link="/quick/content/scroll" %}}
+{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" kids="/kids/elementary/08-the-little-scroll" >}}
 
-# Büyük çatışma ({{% bible val="Bölüm 11-13" link="rev:11-13" lang="tr" %}})
+## İki tanık (Bölüm 11) {#witnesses}
 
 Perdenin arkasına geç, ve her iki dünyayı da gerçekte oldukları gibi gör. Tapınak, içine girmeyi hak etmen gereken bir yer değil. Sadakatinin ya kendini gösterdiği ya da göstermediği yer.
 
@@ -125,33 +132,57 @@ Perdenin arkasına geç, ve her iki dünyayı da gerçekte oldukları gibi gör.
 
 Sonra ayağa kalkıyorlar. Kilisenin kendisinden yaşaması istenen örnek tam olarak bu. Acıyı atlayan bir zafer değil - tam ortasından geçip diğer tarafta ayakta kalan bir zafer.
 
-Şimdi aynı hikâye bir daha anlatılıyor - bu kez biraz geriden, çerçeveyi görünür kılmak için. Bu çok farklı bir Noel hikâyesi, gökyüzünün kendisinde sahneleniyor. Bir kadın beliriyor, güneşe sarınmış, ayaklarının altında ay, başının çevresinde bir taç gibi on iki yıldız. Hamile, ve doğum sancıları içinde haykırıyor.
+{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" kids="/kids/elementary/09-the-two-witnesses" >}}
 
-Sonra gökyüzü yeniden yırtılıyor, ve çok daha kötü bir şey beliriyor. Devasa, kızıl bir ejderha - yedi taçlı baş, on boynuz, gökteki yıldızların üçte birini süpürüp yeryüzüne fırlatacak kadar büyük bir kuyruk. Kadının tam önünde konumlanıp bekliyor. Çocuk doğar doğmaz onu yutmayı planlıyor.
+## İsa'nın zaferi (Bölüm 12) {#jesus}
 
-Çocuk yine de doğuyor - tüm ulusları yönetecek bir oğul. Ejderhanın çenesi kapanmadan, çocuk güvenle Tanrı'nın kendi tahtına alınıyor. Gökte savaş çıkıyor. Mikail ve melekleri, ejderha ve onunkilerle savaşıyor - ve ejderha kaybediyor. Artık orada onun için bir yer yok. Yeryüzüne fırlatılıyor - Kuzu'nun kanıyla ve ondan kaçmak için kendi canlarını kurtarmayı reddeden insanların açık tanıklığıyla yenilmiş olarak. Öfkeli, ve zamanı azalırken, öfkesini bu kez kadına yöneltiyor - ve sonra da kadına ait olan herkese.
+Şimdi aynı hikaye bir daha anlatılıyor. Bu kez çerçeve geriye çekiliyor, baştan beri neler olduğunu göstermek için. Bu çok farklı bir Noel hikayesi, gökyüzünün kendisinde sahneleniyor. Bir kadın beliriyor, güneşe sarınmış. Ayaklarının altında ay var. Başının çevresinde, bir taç gibi, on iki yıldız dönüyor. Hamile, ve doğum sancıları içinde haykırıyor.
 
-Yine de cesaretini kaybetme. Ejderhayı yenmek hiçbir zaman senin görevin olmadı. İsa bunu, ejderha sana ulaşmadan önce, gökte çoktan yaptı. Ejderhanın karnesine bak. İsa'yı öldürmeye çalıştı, ve başarısız oldu. Gökteki yerini korumaya çalıştı, ve dışarı atıldı. İsrail'i yok etmeye çalıştı, ve yine başarısız oldu.
+Sonra gökyüzü yeniden yırtılıyor, ve çok daha kötü bir şey beliriyor. Devasa, kızıl bir ejderha görünüyor - yedi baş, her biri taçlı, ve on boynuz. Kuyruğu, gökteki yıldızların üçte birini süpürüp yeryüzüne fırlatacak kadar büyük. Kadının tam önünde konumlanıyor, ve bekliyor. Çocuk doğar doğmaz onu yutmayı planlıyor.
 
-Bu yüzden şimdi yeni silahlara uzanıyor - iki canavar. Biri denizden çıkıyor. Diğeri yerden sürünerek geliyor. Biri kaba güçle yönetiyor. Diğeri mucizelerle aldatıyor. Birlikte, Tanrı'nın, Mesih'in ve Ruh'un çarpık bir taklidini oluşturuyorlar - neredeyse herkesi kandıracak kadar yakın bir taklit. Ama daha yakından bak. Taklit şimdiden çatlıyor. Sadece şiddetle fethediyor. Kalıcı hiçbir şey inşa etmiyor. Çünkü taklit ettiği O, çoktan kazandı.
+Çocuk yine de doğuyor. O, tüm ulusları demir asayla yönetecek bir oğul. Ejderhanın çenesi kapanmadan, çocuk güvenle Tanrı'nın kendi tahtına alınıyor.
 
-Daha fazla: {{% int_link val="tanıklar" link="/quick/content/witnesses" %}}, {{% int_link val="İsa" link="/quick/content/jesus" %}}, {{% int_link val="ejderha ve canavarlar" link="/quick/content/beasts" %}}
+Sonra gökte savaş çıkıyor. Mikail ve melekleri, ejderha ve onun melekleriyle savaşıyor - ve ejderha kaybediyor. Artık gökte onun için bir yer yok. Yeryüzüne fırlatılıyor. Ve bir ses çınlıyor: suçlayıcı sonunda aşağı atıldı. Kuzu'nun kanıyla, ve ondan kaçmak için kendi canlarını kurtarmayı reddeden insanların açık tanıklığıyla yenildi.
 
-# Zafer ({{% bible val="Bölüm 14-16" link="rev:14-16" lang="tr" %}})
+Ejderha şimdi öfkeli, ve zamanı azalıyor. Önce kadına yöneliyor. Kadın onun elinden kurtuluyor - bunun üzerine öfkesini, kadına ait olan herkese çeviriyor.
 
-İsa bunu çarmıhta çoktan kazandı. Kilise o zaferin sadakatini o günden beri koruyor. Ve şimdi düşmanın güçleri duman gibi dağılıyor. Cam ve ateşten bir denizde, sadık olanlar şarkı söylüyor. Tek nitelikleri sadık kalmaktı.
+Yine de cesaretini kaybetme. Ejderhayı yenmek hiçbir zaman senin görevin olmadı. İsa bunu, ejderha sana ulaşmadan önce, gökte çoktan yaptı. Senin görevin basit: insanları O'na çekmeye devam et. Ejderha her zamankinden daha çok öfkelenirken bile, çünkü ne kadar az zamanı kaldığını çok iyi biliyor.
 
-Herkes şarkı söyleyemiyor. Bedelden kaçınmak için canavarın yanında yer alıp güvenli oynayanlar, şimdi çok daha ağır bir bedelle karşı karşıya. Yeryüzü boyunca iki orak sallanıyor - bir hasat içeri topluyor, biri yargı için. Gerçek artık teorik olmaktan çıkıyor.
+{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" kids="/kids/elementary/10-jesus-victory" >}}
 
-Sonra Tanrı'nın gayreti dökülüyor - uzun süre tutulmuş ve nihayet serbest bırakılmış bir şey gibi. Kâse üstüne kâse düşüyor, ta ki yalanlar üzerine kurulmuş krallığın ayakta durabileceği hiçbir yer kalmayana dek. Yeryüzünün orduları, adı felaketin simgesi haline gelmiş bir yerde son bir direniş için toplanıyor: Armagedon. Zaferden emin bir şekilde geliyorlar.
+## Ejderha ve iki canavar (Bölüm 13) {#beasts}
+
+Ejderhanın şimdiye kadarki karnesine bak. İsa'yı öldürmeye çalıştı, ve başarısız oldu. Gökteki yerini korumaya çalıştı, ve dışarı atıldı. İsrail'i yok etmeye çalıştı, ve onda da başarısız oldu.
+
+Bu yüzden şimdi yeni silahlara uzanıyor. İki canavar yükseliyor - biri denizden pençeleriyle tırmanıyor, diğeri yerden sürünerek çıkıyor. Biri kaba güçle yönetiyor. Diğeri harikalar ve belirtilerle aldatıyor. Birlikte, Tanrı'nın, Mesih'in ve Ruh'un çarpık bir taklidini oluşturuyorlar. Neredeyse herkesi kandıracak kadar yakın bir taklit.
+
+Ama daha yakından bak, ve taklit şimdiden çatlıyor. Canavar sadece şiddetle fethediyor. Sadece hileyle göz kamaştırıyor. Kalıcı hiçbir şey inşa etmiyor - çünkü taklit ettiği O, çoktan ve kalıcı olarak kazandı.
+
+{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/11-the-dragon-and-the-two-beasts" >}}
+
+## İki hasat (Bölüm 14) {#harvest}
+
+İsa zaferi çarmıhta çoktan kazandı. Kilise o zaferin sadakatini o günden beri koruyor. Şimdi düşmanın güçleri duman gibi dağılıyor. Cam ve ateşten bir denizde, sadık olanlar şarkı söylüyor. Tek nitelikleri sadık kalmaktı.
+
+Herkes şarkı söyleyemiyor. Bazıları güvenli oynadı. Bedelden kaçınmak için canavarın yanında yer aldılar. Şimdi çok daha ağır bir bedelle karşı karşıyalar.
+
+Yeryüzü boyunca iki orak sallanıyor. Bir hasat sadık olanları içeri topluyor. Diğer hasat yargı için. Bu, gerçeğin teorik olmaktan çıktığı an.
+
+{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
+
+## Gazap kâseleri (Bölüm 15-16) {#bowls}
+
+Şimdi Tanrı'nın gayreti dökülüyor. Uzun süre tutulmuş ve nihayet serbest bırakılmış bir şey gibi - kâse üstüne kâse, dalga üstüne dalga, ta ki yalanlar üzerine kurulmuş krallığın ayakta durabileceği hiçbir yer kalmayana dek. Her kâse tam hedeflendiği yere düşüyor. Sahte ibadet. Tanrı'nın halkına yapılan zulüm. Şimdi bile kırılamayacak kadar katılaşmış yürekler.
+
+Yeryüzünün orduları, adı felaketin simgesi haline gelmiş bir yerde son bir direniş için toplanıyor: Armagedon. Zaferden emin bir şekilde geliyorlar.
 
 Zaten bitmişler. Sadece bunu henüz bilmiyorlar.
 
-Daha fazla: {{% int_link val="iki hasat" link="/quick/content/harvest" %}}, {{% int_link val="gazap kâseleri" link="/quick/content/bowls" %}}
+{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/elementary/13-the-bowls" >}}
 
-# Nihai savaş ({{% bible val="Bölüm 17-19" link="rev:17-19" lang="tr" %}})
+## Fahişe (Bölüm 17-19) {#harlot}
 
-Hikâye bitmeden önce açığa çıkarılmayı bekleyen bir aldatmaca daha var. Onu açığa çıkarmak, bunun her zaman ne hakkında olduğunu gösteriyor. Sadece kötülüğü yenmek değil - Tanrı'nın kendisini halkına, bir evlilikteki gibi, sonsuza dek bağlaması.
+Hikaye bitmeden önce açığa çıkarılmayı bekleyen bir aldatmaca daha var. Onu açığa çıkarmak, bunun her zaman ne hakkında olduğunu gösteriyor. Sadece kötülüğü yenmek değil - Tanrı'nın kendisini halkına, bir evlilikteki gibi, sonsuza dek bağlaması.
 
 İşte aldatmaca. Göz kamaştırıcı bir kadın, aslında geline ait olması gereken mücevherlerle süslenmiş, kâsesinden içen herkese refah vaat ediyor. Ama elbiseyi kaldır, ve altından dişleriyle birlikte canavar çıkıyor. O bir gelin değil. O bir fahişe. Kilisenin içinden de pek çok kişi bu gösteriye kanmış durumda.
 
@@ -159,13 +190,19 @@ Son performansı kusursuz görünüyor. Değil. Şeytanın kiliseyi yok etmek i�
 
 Onu sonunda kesin olarak bitirmek için yol artık açık.
 
-Fahişe hakkında daha fazla: {{% int_link val="fahişe" link="/quick/content/harlot" %}}
+{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/elementary/14-the-harlot-and-the-bride" >}}
 
-# Yeni bir başlangıç ({{% bible val="Bölüm 20-22" link="rev:20-22" lang="tr" %}})
+## Bin yıllık krallık (Bölüm 20) {#1000y}
 
-Bitti, gerçekleştiğini hiç görmemiş olsan bile. Kilise kaybediyormuş gibi göründüğü onca zaman boyunca, aslında hüküm sürüyordu - sadece kimsenin beklediği türden bir güçle değil. Şimdi son hesaplaşma geliyor. Son bir yargı. Kimin sonsuzluğu Tanrı'yla geçireceğine - ve kimin, tüm bu süre boyunca, bunun tersini seçtiğine kesin olarak karar veriliyor.
+Bitti, gerçekleştiğini hiç görmemiş olsan bile. Kilise kaybediyormuş gibi göründüğü onca zaman boyunca, aslında hüküm sürüyordu. Bu, kimsenin beklediği türden bir güç değildi. Ama o hükümranlık her şeyin sonucunu biçimlendirdi.
 
-Ve sonra: bir düğün. Gökten bir şehir iniyor, düğün günündeki bir gelin gibi giydirilmiş. Tahttan bir ses, tüm hikâye boyunca herkesin duymayı beklediği şeyi söylüyor: "İşte - Tanrı'nın evi artık halkının arasında. Onlarla birlikte yaşayacak. Gözlerinden her damla yaşı silecek. Artık ölüm olmayacak, yas olmayacak, ağlayış olmayacak, acı olmayacak, çünkü bunların hepsi çoktan geçip gitti."
+Şimdi son hesaplaşma geliyor. Son bir yargı. Kimin sonsuzluğu Tanrı'yla geçireceğine - ve kimin, tüm bu süre boyunca, bunun tersini seçtiğine kesin olarak karar veriliyor.
+
+{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/elementary/15-the-thousand-years" >}}
+
+## Yeni gökler ve yeni yeryüzü (Bölüm 21-22) {#paradise}
+
+Ve sonra: bir düğün. Gökten bir şehir iniyor, düğün günündeki bir gelin gibi giydirilmiş. Tahttan bir ses, tüm hikaye boyunca herkesin duymayı beklediği şeyi söylüyor: "İşte - Tanrı'nın evi artık halkının arasında. Onlarla birlikte yaşayacak. Gözlerinden her damla yaşı silecek. Artık ölüm olmayacak, yas olmayacak, ağlayış olmayacak, acı olmayacak, çünkü bunların hepsi çoktan geçip gitti."
 
 Şehrin kendisi neredeyse tarif edilemez. Yeşim taşından duvarlar. Cam gibi görünecek kadar saf altından sokaklar. Her renkten mücevherle döşenmiş temeller. On iki kapı, her biri tek bir inciden oyulmuş. İçinde hiçbir tapınak yok, çünkü artık Tanrı'nın kendisi ve Kuzu, tapınağın ta kendisi. Güneş yok, ay yok, çünkü artık onlara gerek kalmadı. Tanrı'nın görkemi ışık. Kuzu, kandil. Ve kapılar hiç kapanmıyor, çünkü karşılarında kapatılacak bir gece kalmadı.
 
@@ -173,6 +210,6 @@ Ve sonra: bir düğün. Gökten bir şehir iniyor, düğün günündeki bir geli
 
 Gelin ve güvey, sonunda birlikte, hem de sonsuza dek. Tanrı'nın kendisi halkının yanına taşınıyor. Kapatılacak bir mesafe artık kalmadı.
 
-Ve şimdi hikâyeyi bildiğine göre - git ve ona inanıyormuş gibi yaşa.
+Ve şimdi hikayeyi bildiğine göre - git ve ona inanıyormuş gibi yaşa.
 
-Daha fazla: {{% int_link val="1000 yıl" link="/quick/content/1000y" %}}, {{% int_link val="cennet" link="/quick/content/paradise" %}}
+{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/elementary/16-new-heaven-and-new-earth" >}}

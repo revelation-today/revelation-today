@@ -10,7 +10,7 @@ next: /kids/early-childhood/05-the-horses-are-not-the-boss
 
 # Der Löwe, der eigentlich ein Lamm ist
 
-> **Geschichte zum Vorlesen:** [Worship in the Throne Room]({{< relref "story/early-childhood/content/worship" >}})  
+> **Geschichte zum Vorlesen:** [Worship in the Throne Room]({{< relref "story/early-childhood/tour#worship" >}})  
 > **Bibel:** {{% bible val="Offenbarung 4–5" link="rev:4" lang="de" trans="hfa" %}}
 
 

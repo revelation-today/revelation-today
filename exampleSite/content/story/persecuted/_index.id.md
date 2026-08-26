@@ -1,6 +1,7 @@
 ---
 title: "Kisah: Bagi Mereka yang Sedang Membayar Harganya"
-weight: 10
+linkTitle: "Bagi Mereka yang Membayar Harganya (penganiayaan)"
+weight: 230
 ---
 
 Inilah kitab Wahyu diceritakan secara singkat - cukup ringkas untuk disimpan dalam ingatan, bukan di atas kertas. Ini kisah yang sama, janji yang sama, hanya dipadatkan menjadi yang bisa terus dipegang erat oleh seseorang: Allah melihat apa yang terjadi padamu, ini tidak akan berlangsung selamanya, dan tetap setia, bahkan sampai mati, bukanlah kekalahan. Itu adalah kemenangan yang sudah dimenangkan.

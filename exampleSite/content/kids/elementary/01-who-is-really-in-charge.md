@@ -10,7 +10,7 @@ next: /kids/elementary/02-the-vision
 # Who Is Really in Charge?
 ### The world Revelation was written into
 
-> **Story to read:** [The Emperor Who Wanted to Be God]({{< relref "story/elementary/content/background" >}})  
+> **Story to read:** [The Emperor Who Wanted to Be God]({{< relref "story/elementary/tour#background" >}})  
 > **Bible:** {{% bible val="Revelation 1:9" link="rev:1,9" lang="en" %}}
 
 

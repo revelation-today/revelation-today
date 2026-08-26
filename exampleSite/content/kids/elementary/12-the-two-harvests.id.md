@@ -11,7 +11,7 @@ next: /kids/elementary/13-the-bowls
 # Dua Panen
 ### Wahyu 14
 
-> **Cerita untuk dibacakan:** [Dua Tuaian (Pasal 14)]({{< relref "story/elementary/content/harvest" >}})  
+> **Cerita untuk dibacakan:** [Dua Tuaian (Pasal 14)]({{< relref "story/elementary/tour#harvest" >}})  
 > **Alkitab:** {{% bible val="Wahyu 14" link="rev:14" lang="ind" %}}
 
 

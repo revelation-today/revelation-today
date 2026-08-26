@@ -1,6 +1,7 @@
 ---
 title: "Hikaye: Sen Oradasın"
-weight: 10
+linkTitle: "Sen Oradasın (şimdiki zaman)"
+weight: 320
 ---
 
 Onun hakkında okumayı bırak. İçine adım at. Burada Vahiy kitabı şimdiki zamanda yeniden anlatılıyor - nefes nefese ve dolaysız, seni görümün tam içine bırakıyor, tıpkı Yuhanna'nın onu aldığı gibi: Ruh'ta kapılıp götürülmüş, akıntıya sürüklenmiş, gözünü ayıramayan biri olarak. Tarih dersi yok, mesafe yok, dipnot yok: sadece şu anda, tam önünde açılan taht odası.

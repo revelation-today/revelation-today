@@ -1,7 +1,7 @@
 ---
 title: "Die Geschichte für Bibel-Entdecker"
 linkTitle: "Für Bibel-Entdecker (8-12 Jahre)"
-weight: 10
+weight: 120
 ---
 
 Hast du schon einmal von Helden gehört, die gewinnen, ohne auch nur ein Schwert zu schwingen? Dies ist das Buch der Offenbarung, erzählt als echte Abenteuergeschichte — ein alter Mann, verbannt auf eine einsame Insel, mutige Außenseiter-Freunde, die sich niemals unterkriegen lassen, ein Drachen-Bösewicht, der unbesiegbar wirkt... und es nicht ist. Geschrieben für Kinder von 8 bis 12 Jahren (und für die Eltern und Lehrer, die mitlesen), die bereit sind für echte Spannung, echte Gefahr und ein Ende, das besser ist als alles, was sich ein Märchenbuch je hätte ausdenken können.

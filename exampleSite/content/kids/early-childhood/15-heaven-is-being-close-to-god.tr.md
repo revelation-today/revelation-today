@@ -10,7 +10,7 @@ next: /kids/early-childhood/16-our-new-home-the-new-jerusalem
 
 # Gökyüzü Tanrı'ya Yakın Olmaktır
 
-> **Okunacak hikâye:** [The Millennium]({{< relref "story/early-childhood/content/1000y" >}})  
+> **Okunacak hikâye:** [The Millennium]({{< relref "story/early-childhood/tour#1000y" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 20" link="rev:20" lang="tr" %}}
 
 

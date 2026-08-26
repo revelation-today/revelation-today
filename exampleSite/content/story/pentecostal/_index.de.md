@@ -1,6 +1,7 @@
 ---
 title: "Die Geschichte: Du bist dabei"
-weight: 10
+linkTitle: "Du bist dabei (Gegenwartsform)"
+weight: 320
 ---
 
 Hör auf, darüber zu lesen. Tritt hinein. Hier wird die Offenbarung im Präsens nacherzählt, atemlos und unmittelbar - du wirst mitten in die Vision hineinversetzt, genau so, wie Johannes sie empfängt: vom Geist ergriffen, mitgerissen, unfähig wegzusehen. Keine Geschichtsstunde, keine Distanz, keine Fußnoten: nur der Thronsaal, der sich jetzt gerade vor dir öffnet.

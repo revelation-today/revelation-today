@@ -11,7 +11,7 @@ next: /kids/elementary/10-jesus-victory
 # Die zwei Zeugen
 ### Offenbarung 11
 
-> **Geschichte zum Vorlesen:** [Die zwei Zeugen, die nicht am Boden blieben (Kapitel 11)]({{< relref "story/elementary/content/witnesses" >}})  
+> **Geschichte zum Vorlesen:** [Die zwei Zeugen, die nicht am Boden blieben (Kapitel 11)]({{< relref "story/elementary/tour#witnesses" >}})  
 > **Bibel:** {{% bible val="Offenbarung 11" link="rev:11" lang="de" trans="hfa" %}}
 
 

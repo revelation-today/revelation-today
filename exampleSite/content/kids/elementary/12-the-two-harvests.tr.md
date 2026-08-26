@@ -11,7 +11,7 @@ next: /kids/elementary/13-the-bowls
 # İki Hasat
 ### Vahiy 14
 
-> **Okunacak hikâye:** [İki Hasat (Bölüm 14)]({{< relref "story/elementary/content/harvest" >}})  
+> **Okunacak hikâye:** [İki Hasat (Bölüm 14)]({{< relref "story/elementary/tour#harvest" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 14" link="rev:14" lang="tr" %}}
 
 

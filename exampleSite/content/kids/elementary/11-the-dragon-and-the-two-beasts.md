@@ -11,7 +11,7 @@ next: /kids/elementary/12-the-two-harvests
 # The Dragon and the Two Beasts
 ### Revelation 13
 
-> **Story to read:** [The Dragon and the Two Beasts]({{< relref "story/elementary/content/beasts" >}})  
+> **Story to read:** [The Dragon and the Two Beasts]({{< relref "story/elementary/tour#beasts" >}})  
 > **Bible:** {{% bible val="Revelation 13" link="rev:13" lang="en" %}}
 
 

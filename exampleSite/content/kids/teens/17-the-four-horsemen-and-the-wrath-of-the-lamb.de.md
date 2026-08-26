@@ -9,7 +9,7 @@ prev: /kids/teens/16-worship-fixes-everything
 next: /kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you
 ---
 
-> **Geschichte zum Vorlesen:** [The Seals]({{< relref "story/teens/content/seals" >}})  
+> **Geschichte zum Vorlesen:** [The Seals]({{< relref "story/teens/tour#seals" >}})  
 > **Bibel:** {{% bible val="Offenbarung 6" link="rev:6" lang="de" %}}
 
 ## Wenn sich die Gewinnerseite als Fake herausstellt

@@ -11,7 +11,7 @@ next: /kids/elementary/06-gods-army
 # Mühürler
 ### Vahiy 6
 
-> **Okunacak hikâye:** [Dört Atlı ve Bir Soru (Bölüm 6)]({{< relref "story/elementary/content/seals" >}})  
+> **Okunacak hikâye:** [Dört Atlı ve Bir Soru (Bölüm 6)]({{< relref "story/elementary/tour#seals" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}}
 
 

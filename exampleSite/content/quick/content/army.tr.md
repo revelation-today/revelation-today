@@ -1,7 +1,8 @@
 ---
 title: "Tanrı'nın ordusu (Böl. 7)"
 weight: 50
-story: /story/general/content/army
+story: /story/general/tour
+story_anchor: army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 prev: /quick/content/seals
 next: /quick/content/trumpets

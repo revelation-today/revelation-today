@@ -11,7 +11,7 @@ next: /kids/elementary/15-the-thousand-years
 # The Harlot and the Bride
 ### Revelation 17–19
 
-> **Story to read:** [The Harlot]({{< relref "story/elementary/content/harlot" >}})  
+> **Story to read:** [The Harlot]({{< relref "story/elementary/tour#harlot" >}})  
 > **Bible:** {{% bible val="Revelation 17–19" link="rev:17" lang="en" %}}
 
 

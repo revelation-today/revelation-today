@@ -11,7 +11,7 @@ next: /kids/elementary/05-the-seals
 # Penyembahan di Surga
 ### Wahyu 4–5
 
-> **Cerita untuk dibacakan:** [Pintu di Langit (Pasal 4-5)]({{< relref "story/elementary/content/worship" >}})  
+> **Cerita untuk dibacakan:** [Pintu di Langit (Pasal 4-5)]({{< relref "story/elementary/tour#worship" >}})  
 > **Alkitab:** {{% bible val="Wahyu 4–5" link="rev:4" lang="ind" %}}
 
 

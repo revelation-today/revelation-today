@@ -11,7 +11,7 @@ next: /kids/elementary/06-gods-army
 # The Seals
 ### Revelation 6
 
-> **Story to read:** [The Seals]({{< relref "story/elementary/content/seals" >}})  
+> **Story to read:** [The Seals]({{< relref "story/elementary/tour#seals" >}})  
 > **Bible:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}
 
 

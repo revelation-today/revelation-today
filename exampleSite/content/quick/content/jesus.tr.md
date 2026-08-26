@@ -1,7 +1,8 @@
 ---
 title: "İsa'nın zaferi (Böl. 12)"
 weight: 90
-story: /story/general/content/jesus
+story: /story/general/tour
+story_anchor: jesus
 expl: /expl/content/jesus/a-different-christmas-story
 prev: /quick/content/witnesses
 next: /quick/content/beasts

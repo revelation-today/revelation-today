@@ -1,7 +1,8 @@
 ---
 draft: true
 title: "The Story: An Honest Look"
-weight: 10
+linkTitle: "An Honest Look (no background needed)"
+weight: 20
 ---
 
 If you picked this up out of curiosity — maybe a friend mentioned it, maybe you've just always wondered what's actually in that strange last book of the Bible with the dragons and the number 666 — welcome. You don't need any background in church or the Bible to start here. You don't need to already believe anything either. All that's asked of you is a willingness to read the actual story with fresh eyes, instead of the version pop culture has been selling for decades.

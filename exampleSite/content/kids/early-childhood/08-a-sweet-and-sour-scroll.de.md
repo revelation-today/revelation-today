@@ -10,7 +10,7 @@ next: /kids/early-childhood/09-brave-helpers
 
 # Eine süße und saure Schriftrolle
 
-> **Geschichte zum Vorlesen:** [The Small Scroll]({{< relref "story/early-childhood/content/scroll" >}})  
+> **Geschichte zum Vorlesen:** [The Small Scroll]({{< relref "story/early-childhood/tour#scroll" >}})  
 > **Bibel:** {{% bible val="Offenbarung 10" link="rev:10" lang="de" trans="hfa" %}}
 
 

@@ -9,7 +9,7 @@ prev: /kids/teens/17-the-four-horsemen-and-the-wrath-of-the-lamb
 next: /kids/teens/19-babylon-falls
 ---
 
-> **Okunacak hikâye:** [The Dragon and the Two Beasts]({{< relref "story/teens/content/beasts" >}})  
+> **Okunacak hikâye:** [The Dragon and the Two Beasts]({{< relref "story/teens/tour#beasts" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}}
 
 ## Söylentileri Duydun

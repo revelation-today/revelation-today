@@ -10,7 +10,7 @@ next: /kids/early-childhood/04-the-lion-who-is-really-a-lamb
 
 # The Best Party in Heaven
 
-> **Story to read:** [Worship in the Throne Room]({{< relref "story/early-childhood/content/worship" >}})  
+> **Story to read:** [Worship in the Throne Room]({{< relref "story/early-childhood/tour#worship" >}})  
 > **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}
 
 

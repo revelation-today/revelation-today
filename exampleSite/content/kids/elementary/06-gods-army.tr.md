@@ -11,7 +11,7 @@ next: /kids/elementary/07-the-trumpets
 # Tanrı'nın Ordusu
 ### Vahiy 7
 
-> **Okunacak hikâye:** [Savaşmayan Ordu (Bölüm 7)]({{< relref "story/elementary/content/army" >}})  
+> **Okunacak hikâye:** [Savaşmayan Ordu (Bölüm 7)]({{< relref "story/elementary/tour#army" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 7" link="rev:7" lang="tr" %}}
 
 

@@ -11,7 +11,7 @@ next: /kids/elementary/06-gods-army
 # Die Siegel
 ### Offenbarung 6
 
-> **Geschichte zum Vorlesen:** [Vier Reiter und eine Frage (Kapitel 6)]({{< relref "story/elementary/content/seals" >}})  
+> **Geschichte zum Vorlesen:** [Vier Reiter und eine Frage (Kapitel 6)]({{< relref "story/elementary/tour#seals" >}})  
 > **Bibel:** {{% bible val="Offenbarung 6" link="rev:6" lang="de" trans="hfa" %}}
 
 

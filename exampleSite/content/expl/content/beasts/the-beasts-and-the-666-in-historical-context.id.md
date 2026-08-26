@@ -3,7 +3,8 @@ title: "666 dalam Konteks Historis"
 themes: ["666"]
 weight: 3
 base: /quick/content/beasts
-story: /story/general/content/beasts
+story: /story/general/tour
+story_anchor: beasts
 prev: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 next: /expl/content/beasts/666-the-number-of-the-beast
 docType: expl

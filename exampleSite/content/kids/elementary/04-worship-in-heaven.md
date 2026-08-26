@@ -11,7 +11,7 @@ next: /kids/elementary/05-the-seals
 # Worship in Heaven
 ### Revelation 4–5
 
-> **Story to read:** [Worship in the Throne Room]({{< relref "story/elementary/content/worship" >}})  
+> **Story to read:** [Worship in the Throne Room]({{< relref "story/elementary/tour#worship" >}})  
 > **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}
 
 

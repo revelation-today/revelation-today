@@ -10,7 +10,7 @@ next: /kids/early-childhood/13-bad-things-dont-win
 
 # Treu, auch wenn es schwer ist
 
-> **Geschichte zum Vorlesen:** [The Two Harvests]({{< relref "story/early-childhood/content/harvest" >}})  
+> **Geschichte zum Vorlesen:** [The Two Harvests]({{< relref "story/early-childhood/tour#harvest" >}})  
 > **Bibel:** {{% bible val="Offenbarung 14" link="rev:14" lang="de" trans="hfa" %}}
 
 

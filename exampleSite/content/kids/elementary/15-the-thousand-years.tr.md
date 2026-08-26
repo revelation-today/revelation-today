@@ -11,7 +11,7 @@ next: /kids/elementary/16-new-heaven-and-new-earth
 # Bin Yıl
 ### Vahiy 20
 
-> **Okunacak hikâye:** [Göremediğin Hükümranlık (Bölüm 20)]({{< relref "story/elementary/content/1000y" >}})  
+> **Okunacak hikâye:** [Göremediğin Hükümranlık (Bölüm 20)]({{< relref "story/elementary/tour#1000y" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 20" link="rev:20" lang="tr" %}}
 
 

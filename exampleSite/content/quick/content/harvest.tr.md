@@ -1,7 +1,8 @@
 ---
 title: "İki hasat (Böl. 14)"
 weight: 110
-story: /story/general/content/harvest
+story: /story/general/tour
+story_anchor: harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
 prev: /quick/content/beasts
 next: /quick/content/bowls

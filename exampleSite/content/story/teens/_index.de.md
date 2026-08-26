@@ -1,7 +1,7 @@
 ---
 title: "Die Story: ungeschönt"
 linkTitle: "Ungeschönt (13-18 Jahre)"
-weight: 10
+weight: 130
 ---
 
 Das hier ist nicht die entschärfte Version. In der Offenbarung geht es um Leute in deinem Alter, die ausgegrenzt, ausgelacht und bedroht werden, weil sie sich weigern, sich zu verstellen - und um einen König, der von ihnen nie verlangt hat, sich zu verstellen. Keine Entrückungs-Tabellen, kein Code-Knacken, keine Horrorfilm-Effekte. Nur die echte Geschichte: echter Druck, echte Kosten, echtes Ende. Zehn Minuten, von Anfang bis Ende, und danach liest du "das Ende der Welt" nie wieder gleich.

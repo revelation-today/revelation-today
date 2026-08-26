@@ -2,7 +2,8 @@
 title: "Victory that walks through defeat"
 weight: 80
 base: /quick/content/witnesses
-story: /story/general/content/witnesses
+story: /story/general/tour
+story_anchor: witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 kids: /kids/elementary/09-the-two-witnesses
 docType: appl

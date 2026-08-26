@@ -11,7 +11,7 @@ next: /kids/elementary/07-the-trumpets
 # Pasukan Allah
 ### Wahyu 7
 
-> **Cerita untuk dibacakan:** [Pasukan yang Tidak Bertarung (Pasal 7)]({{< relref "story/elementary/content/army" >}})  
+> **Cerita untuk dibacakan:** [Pasukan yang Tidak Bertarung (Pasal 7)]({{< relref "story/elementary/tour#army" >}})  
 > **Alkitab:** {{% bible val="Wahyu 7" link="rev:7" lang="ind" %}}
 
 

@@ -11,7 +11,7 @@ next: /kids/elementary/03-the-seven-letters
 # Die Vision
 ### Offenbarung 1
 
-> **Geschichte zum Vorlesen:** [Die Stimme auf der Insel (Kapitel 1)]({{< relref "story/elementary/content/vision" >}})  
+> **Geschichte zum Vorlesen:** [Die Stimme auf der Insel (Kapitel 1)]({{< relref "story/elementary/tour#vision" >}})  
 > **Bibel:** {{% bible val="Offenbarung 1" link="rev:1" lang="de" trans="hfa" %}}
 
 

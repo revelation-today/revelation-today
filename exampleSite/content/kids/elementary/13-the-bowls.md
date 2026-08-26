@@ -11,7 +11,7 @@ next: /kids/elementary/14-the-harlot-and-the-bride
 # The Bowls
 ### Revelation 15–16
 
-> **Story to read:** [The Bowls of Wrath]({{< relref "story/elementary/content/bowls" >}})  
+> **Story to read:** [The Bowls of Wrath]({{< relref "story/elementary/tour#bowls" >}})  
 > **Bible:** {{% bible val="Revelation 15–16" link="rev:15" lang="en" %}}
 
 

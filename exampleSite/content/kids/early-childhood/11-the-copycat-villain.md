@@ -10,7 +10,7 @@ next: /kids/early-childhood/12-faithful-even-when-its-hard
 
 # The Copycat Villain
 
-> **Story to read:** [The Dragon and the Two Beasts]({{< relref "story/early-childhood/content/beasts" >}})  
+> **Story to read:** [The Dragon and the Two Beasts]({{< relref "story/early-childhood/tour#beasts" >}})  
 > **Bible:** {{% bible val="Revelation 13" link="rev:13" lang="en" %}}
 
 

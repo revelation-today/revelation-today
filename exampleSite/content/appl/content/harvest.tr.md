@@ -2,7 +2,8 @@
 title: "Tek niteliğin sadık kalmaktı"
 weight: 110
 base: /quick/content/harvest
-story: /story/general/content/harvest
+story: /story/general/tour
+story_anchor: harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
 kids: /kids/elementary/12-the-two-harvests
 docType: appl

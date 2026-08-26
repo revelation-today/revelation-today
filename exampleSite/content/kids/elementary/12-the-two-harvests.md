@@ -11,7 +11,7 @@ next: /kids/elementary/13-the-bowls
 # The Two Harvests
 ### Revelation 14
 
-> **Story to read:** [The Two Harvests]({{< relref "story/elementary/content/harvest" >}})  
+> **Story to read:** [The Two Harvests]({{< relref "story/elementary/tour#harvest" >}})  
 > **Bible:** {{% bible val="Revelation 14" link="rev:14" lang="en" %}}
 
 

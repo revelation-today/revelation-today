@@ -1,7 +1,8 @@
 ---
 draft: true
 title: "Die Geschichte: Ein ehrlicher Blick"
-weight: 10
+linkTitle: "Ein ehrlicher Blick (ohne Vorkenntnisse)"
+weight: 20
 ---
 
 Wenn du das hier aus Neugier aufgeschlagen hast - vielleicht hat ein Freund davon erzählt, vielleicht hast du dich einfach schon immer gefragt, was eigentlich in diesem merkwürdigen letzten Buch der Bibel steckt, mit den Drachen und der Zahl 666 - dann herzlich willkommen. Du brauchst keinerlei Vorwissen über Kirche oder Bibel, um hier anzufangen. Du musst auch noch nichts glauben. Verlangt wird nur die Bereitschaft, die eigentliche Geschichte mit frischen Augen zu lesen - statt der Version, die die Popkultur seit Jahrzehnten verkauft.

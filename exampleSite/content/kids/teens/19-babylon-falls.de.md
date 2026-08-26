@@ -9,7 +9,7 @@ prev: /kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you
 next: /kids/teens/20-the-ending-you-actually-want
 ---
 
-> **Geschichte zum Vorlesen:** [The Harlot]({{< relref "story/teens/content/harlot" >}})  
+> **Geschichte zum Vorlesen:** [The Harlot]({{< relref "story/teens/tour#harlot" >}})  
 > **Bibel:** {{% bible val="Offenbarung 17–19" link="rev:17" lang="de" %}}
 
 ## Die Falle, die nicht wie eine Falle aussieht

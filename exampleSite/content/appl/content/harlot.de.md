@@ -2,7 +2,8 @@
 title: "Aus welchem Becher trinkst du?"
 weight: 130
 base: /quick/content/harlot
-story: /story/general/content/harlot
+story: /story/general/tour
+story_anchor: harlot
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 kids: /kids/elementary/14-the-harlot-and-the-bride
 docType: appl

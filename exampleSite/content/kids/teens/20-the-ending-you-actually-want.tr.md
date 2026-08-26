@@ -8,7 +8,7 @@ expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/teens/19-babylon-falls
 ---
 
-> **Okunacak hikâye:** [New Heaven and New Earth]({{< relref "story/teens/content/paradise" >}})  
+> **Okunacak hikâye:** [New Heaven and New Earth]({{< relref "story/teens/tour#paradise" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 21–22" link="rev:21" lang="tr" %}}
 
 ## Muhtemelen Zaten Özümsediğin Şey

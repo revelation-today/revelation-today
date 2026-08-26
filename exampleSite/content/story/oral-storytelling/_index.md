@@ -1,6 +1,7 @@
 ---
 title: "The Story: Told Aloud"
-weight: 10
+linkTitle: "Told Aloud (for groups)"
+weight: 330
 ---
 
 This is Revelation as a performance script, not a page to read in silence. It is written for a storyteller or elder to speak out loud to a gathered group, with the people themselves joining in - calling back a refrain, feeling the rhythm, carrying the story home in their own mouths the way stories have always traveled: by ear, from one generation to the next.

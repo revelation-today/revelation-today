@@ -9,7 +9,7 @@ prev: /kids/teens/16-worship-fixes-everything
 next: /kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you
 ---
 
-> **Story to read:** [The Seals]({{< relref "story/teens/content/seals" >}})  
+> **Story to read:** [The Seals]({{< relref "story/teens/tour#seals" >}})  
 > **Bible:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}
 
 ## When the Winning Side Turns Out to Be Fake

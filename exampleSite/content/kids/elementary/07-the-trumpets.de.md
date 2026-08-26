@@ -11,7 +11,7 @@ next: /kids/elementary/08-the-little-scroll
 # Die Posaunen
 ### Offenbarung 8–9
 
-> **Geschichte zum Vorlesen:** [Sieben Posaunen erschüttern die Welt (Kapitel 8-9)]({{< relref "story/elementary/content/trumpets" >}})  
+> **Geschichte zum Vorlesen:** [Sieben Posaunen erschüttern die Welt (Kapitel 8-9)]({{< relref "story/elementary/tour#trumpets" >}})  
 > **Bibel:** {{% bible val="Offenbarung 8–9" link="rev:8" lang="de" trans="hfa" %}}
 
 

@@ -10,7 +10,7 @@ next: /kids/early-childhood/10-a-different-christmas-story
 
 # Mutige Helfer
 
-> **Geschichte zum Vorlesen:** [The Two Witnesses]({{< relref "story/early-childhood/content/witnesses" >}})  
+> **Geschichte zum Vorlesen:** [The Two Witnesses]({{< relref "story/early-childhood/tour#witnesses" >}})  
 > **Bibel:** {{% bible val="Offenbarung 11" link="rev:11" lang="de" trans="hfa" %}}
 
 

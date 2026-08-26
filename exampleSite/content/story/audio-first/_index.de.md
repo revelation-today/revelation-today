@@ -1,7 +1,8 @@
 ---
 draft: true
 title: "Die Geschichte: Zum Anhören"
-weight: 10
+linkTitle: "Zum Anhören (Vorlesefassung)"
+weight: 30
 ---
 
 Hier wird die Offenbarung als eine einzige, zusammenhängende Geschichte erzählt, geschrieben eigens zum lauten Vorlesen statt zum stillen Lesen. Sie ist für Hörer gedacht - für alle, die die Schrift mit dem Ohr aufnehmen statt mit dem Auge, ob blind, wenig geübt im Lesen, oder einfach, weil sie lieber zuhören. Jeder Satz ist auf gesprochene Klarheit hin geformt: kurz, direkt, leicht zu verfolgen, auch ohne je ein Wort auf einer Seite zu sehen. Der Inhalt ist derselbe, reiche und vollständige Inhalt wie in der geschriebenen Fassung. Nur der Rhythmus hat sich geändert, damit er zum Ohr passt statt zum Auge.

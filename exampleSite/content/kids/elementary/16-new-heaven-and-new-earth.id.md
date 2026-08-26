@@ -10,7 +10,7 @@ prev: /kids/elementary/15-the-thousand-years
 # Langit Baru dan Bumi Baru
 ### Wahyu 21–22
 
-> **Cerita untuk dibacakan:** [Akhirnya Pulang (Pasal 21-22)]({{< relref "story/elementary/content/paradise" >}})  
+> **Cerita untuk dibacakan:** [Akhirnya Pulang (Pasal 21-22)]({{< relref "story/elementary/tour#paradise" >}})  
 > **Alkitab:** {{% bible val="Wahyu 21–22" link="rev:21" lang="ind" %}}
 
 

@@ -11,7 +11,7 @@ next: /kids/elementary/14-the-harlot-and-the-bride
 # Taslar
 ### Vahiy 15–16
 
-> **Okunacak hikâye:** [Yedi Tas ve Son Bir Savaş Alanı (Bölüm 15-16)]({{< relref "story/elementary/content/bowls" >}})  
+> **Okunacak hikâye:** [Yedi Tas ve Son Bir Savaş Alanı (Bölüm 15-16)]({{< relref "story/elementary/tour#bowls" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 15–16" link="rev:15" lang="tr" %}}
 
 
