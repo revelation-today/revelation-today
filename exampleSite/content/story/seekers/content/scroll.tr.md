@@ -5,7 +5,7 @@ weight: 70
 base: /quick/content/scroll
 appl: /appl/content/scroll
 expl: /expl/content/scroll/the-little-scroll
-kids: /kids/lessons/elementary/08-the-little-scroll
+kids: /kids/elementary/08-the-little-scroll
 prev: /story/seekers/content/trumpets
 next: /story/seekers/content/witnesses
 docType: story

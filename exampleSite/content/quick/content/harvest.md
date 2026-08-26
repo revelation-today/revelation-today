@@ -6,7 +6,7 @@ expl: /expl/content/harvest/gods-army-and-the-seven-angels
 prev: /quick/content/beasts
 next: /quick/content/bowls
 docType: quick
-kids: /kids/lessons/elementary/12-the-two-harvests
+kids: /kids/elementary/12-the-two-harvests
 ---
 
 {{% bible val="Chapter 14" link="rev:14" lang="en" %}}.

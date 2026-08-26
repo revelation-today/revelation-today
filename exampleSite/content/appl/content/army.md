@@ -4,7 +4,7 @@ weight: 50
 base: /quick/content/army
 story: /story/general/content/army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
-kids: /kids/lessons/elementary/06-gods-army
+kids: /kids/elementary/06-gods-army
 docType: appl
 ---
 

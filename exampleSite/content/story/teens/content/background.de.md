@@ -3,7 +3,7 @@ title: "Der Deal, den alle angenommen haben (Hintergrund)"
 weight: 0
 appl: /appl/content/vision
 expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
-kids: /kids/lessons/teens/01-your-own-pax-romana
+kids: /kids/teens/01-your-own-pax-romana
 prev: /story/teens/tour
 next: /story/teens/content/vision
 docType: story

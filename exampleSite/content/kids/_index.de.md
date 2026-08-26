@@ -3,22 +3,28 @@ title: "Für Kinder"
 weight: 50
 ---
 
-Die Offenbarung für Kinder, in drei Altersstufen unterrichtet. Jede Stufe ist eine
-vollständige Reihe von Unterrichtsentwürfen für den Kindergottesdienst - mit Einstieg,
-biblischer Geschichte, Anwendung, Merkvers, Gebet und Vorbereitungsideen für die Leitung.
+Die Offenbarung für Kinder, in drei Altersstufen. Jede Stufe ist eine vollständige Reihe von
+Unterrichtsentwürfen für den Kindergottesdienst - mit Einstieg, biblischer Geschichte,
+Anwendung, Merkvers, Gebet und einem Anhang mit Vorbereitungsideen: Spiele, Bastelideen,
+Gesprächsfragen und Liedvorschläge.
 
 | Stufe | Alter | Einheiten | Dauer |
 |---|---|---|---|
-| [Vorschulalter]({{< relref "kids/lessons/early-childhood" >}}) | 4-7 | 16 | ca. 10 Minuten |
-| [Grundschulalter]({{< relref path="kids/lessons/elementary" >}}) | 8-12 | 16 | ca. 15 Minuten |
-| [Jugendliche]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 | ca. 15 Minuten |
+| [Vorschulalter — Jesus siegt, und er hat uns lieb]({{< relref "kids/early-childhood" >}}) | 4-7 | 16 | ca. 10 Minuten |
+| [Grundschulalter — Wer hat wirklich das Sagen?]({{< relref "kids/elementary" >}}) | 8-12 | 16 | ca. 15 Minuten |
+| [Jugendliche — Bring deine Fragen mit]({{< relref "kids/teens" >}}) | 13-18 | 20 | ca. 15 Minuten |
 
-**Die Grundschulstufe ist die zentrale Reihe.** Im Vorschulalter bleibt jede Einheit bei
-einem einzigen Bild; bei den Jugendlichen kommen die wirklich schwierigen Themen direkt zur
-Sprache - Zweifel, Gruppendruck und der Streit darüber, was die Offenbarung eigentlich
-bedeutet.
+**Das Grundschulalter ist die zentrale Reihe.** Im Vorschulalter bleibt jede Einheit bei
+einem einzigen Bild; bei den Jugendlichen kommt das wirklich Schwierige direkt zur Sprache -
+Zweifel, Druck und der Streit darüber, was die Offenbarung eigentlich meint.
 
-Keine gruseligen Weltuntergangsbilder, keine Zeitleisten zum Auswendiglernen, keine
-Terminberechnungen. Nur Jesus, die Gemeinde und der Drache, der immer verliert.
+Alle drei Stufen gehen die Offenbarung in derselben Reihenfolge durch: Hintergrund und erste
+Vision, die sieben Gemeinden, der Thronsaal und was von dort ausgeht, der große Konflikt und
+das Ende. Was sich zwischen den Stufen unterscheidet, ist die Tiefe - nicht die Geschichte.
 
-[Zu den Unterrichtsentwürfen →]({{< relref "kids/lessons" >}})
+Keine gruseligen Filmprophezeiungen, keine Zeitleisten zum Auswendiglernen, keine Daten zum
+Ausrechnen. Nur Jesus, die Gemeinde und der Drache, der immer verliert.
+
+Diese Entwürfe sind fürs **Vorbereiten und Anleiten** einer Gruppe gedacht, nicht zum stillen
+Selberlesen. Passende vollständige Predigtmanuskripte für Erwachsene finden sich unter
+[Predigten]({{< relref "sermons" >}}).

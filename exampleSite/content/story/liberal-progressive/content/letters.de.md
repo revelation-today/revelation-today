@@ -4,7 +4,7 @@ weight: 10
 base: /quick/content/letters
 appl: /appl/content/letters
 expl: /expl/content/letters/the-angel-of-the-churches
-kids: /kids/lessons/elementary/03-the-seven-letters
+kids: /kids/elementary/03-the-seven-letters
 prev: /story/liberal-progressive/content/vision
 next: /story/liberal-progressive/content/worship
 docType: story

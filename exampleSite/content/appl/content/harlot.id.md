@@ -4,7 +4,7 @@ weight: 130
 base: /quick/content/harlot
 story: /story/general/content/harlot
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
-kids: /kids/lessons/elementary/14-the-harlot-and-the-bride
+kids: /kids/elementary/14-the-harlot-and-the-bride
 docType: appl
 ---
 

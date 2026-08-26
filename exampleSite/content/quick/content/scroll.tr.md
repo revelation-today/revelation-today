@@ -6,7 +6,7 @@ expl: /expl/content/scroll/the-little-scroll
 prev: /quick/content/trumpets
 next: /quick/content/witnesses
 docType: quick
-kids: /kids/lessons/elementary/08-the-little-scroll
+kids: /kids/elementary/08-the-little-scroll
 ---
 
 {{% bible val="Bölüm 10" link="rev:10" lang="tr" %}}.

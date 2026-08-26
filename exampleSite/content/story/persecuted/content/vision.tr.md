@@ -4,7 +4,7 @@ weight: 1
 base: /quick/content/vision
 appl: /appl/content/vision
 expl: /expl/content/vision/setting-the-foundation
-kids: /kids/lessons/elementary/02-the-vision
+kids: /kids/elementary/02-the-vision
 prev: /story/persecuted/tour
 next: /story/persecuted/content/letters
 docType: story

@@ -4,7 +4,7 @@ weight: 120
 base: /quick/content/bowls
 appl: /appl/content/bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
-kids: /kids/lessons/elementary/13-the-bowls
+kids: /kids/elementary/13-the-bowls
 prev: /story/disillusioned/content/harvest
 next: /story/disillusioned/content/harlot
 docType: story

@@ -6,7 +6,7 @@ expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /quick/content/worship
 next: /quick/content/army
 docType: quick
-kids: /kids/lessons/elementary/05-the-seals
+kids: /kids/elementary/05-the-seals
 ---
 
 {{% bible val="Chapter 6" link="rev:6" lang="en" %}}.

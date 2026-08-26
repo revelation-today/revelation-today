@@ -4,7 +4,7 @@ weight: 20
 base: /quick/content/worship
 appl: /appl/content/worship
 expl: /expl/content/worship/worship-in-the-throne-room
-kids: /kids/lessons/elementary/04-worship-in-heaven
+kids: /kids/elementary/04-worship-in-heaven
 prev: /story/liberal-progressive/content/letters
 next: /story/liberal-progressive/content/seals
 docType: story

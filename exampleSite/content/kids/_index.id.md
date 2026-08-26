@@ -3,21 +3,28 @@ title: "Untuk Anak-anak"
 weight: 50
 ---
 
-Kitab Wahyu untuk anak-anak, diajarkan dalam tiga jenjang usia. Setiap jenjang berisi
-rencana pelajaran Sekolah Minggu yang lengkap - dengan kegiatan pembuka, cerita Alkitab,
-penerapan, ayat hafalan, doa, dan ide-ide persiapan bagi pengajar.
+Kitab Wahyu untuk anak-anak, dalam tiga jenjang usia. Setiap jenjang adalah rangkaian
+lengkap rencana pelajaran Sekolah Minggu - kegiatan pembuka, cerita Alkitab, penerapan, ayat
+hafalan, doa, dan lampiran ide persiapan: permainan, kerajinan tangan, pertanyaan diskusi,
+dan saran lagu.
 
 | Jenjang | Usia | Sesi | Durasi |
 |---|---|---|---|
-| [Usia Dini]({{< relref "kids/lessons/early-childhood" >}}) | 4-7 | 16 | sekitar 10 menit |
-| [Sekolah Dasar]({{< relref path="kids/lessons/elementary" >}}) | 8-12 | 16 | sekitar 15 menit |
-| [Remaja]({{< relref "kids/lessons/teens" >}}) | 13-18 | 20 | sekitar 15 menit |
+| [Usia Dini — Yesus Menang, dan Ia Mengasihi Kita]({{< relref "kids/early-childhood" >}}) | 4-7 | 16 | sekitar 10 menit |
+| [Sekolah Dasar — Siapa yang Sebenarnya Berkuasa?]({{< relref "kids/elementary" >}}) | 8-12 | 16 | sekitar 15 menit |
+| [Remaja — Bawa Pertanyaanmu]({{< relref "kids/teens" >}}) | 13-18 | 20 | sekitar 15 menit |
 
-**Jenjang sekolah dasar adalah rangkaian intinya.** Untuk usia dini, setiap sesi berfokus
-pada satu gambaran saja; untuk remaja, bagian-bagian yang benar-benar sulit dibahas secara
-langsung - keraguan, tekanan teman sebaya, dan perdebatan tentang arti Kitab Wahyu.
+**Sekolah Dasar adalah rangkaian inti.** Usia dini mengambil satu gambar per sesi dan
+berhenti di situ; remaja menghadapi langsung bagian yang benar-benar sulit - keraguan,
+tekanan, dan perdebatan tentang apa arti Kitab Wahyu.
 
-Tidak ada gambaran kiamat yang menakutkan, tidak ada garis waktu untuk dihafal, tidak ada
-perhitungan tanggal. Hanya Yesus, gereja, dan naga yang selalu kalah.
+Ketiga jenjang menelusuri Kitab Wahyu dalam urutan yang sama: latar belakang dan penglihatan
+pembuka, tujuh jemaat, ruang takhta dan apa yang keluar dari sana, konflik besar, dan
+akhirnya. Yang berbeda antar jenjang adalah kedalamannya - bukan ceritanya.
 
-[Lihat rencana pelajaran →]({{< relref "kids/lessons" >}})
+Tidak ada ramalan seram ala film, tidak ada garis waktu untuk dihafal, tidak ada tanggal
+untuk dihitung. Hanya Yesus, jemaat-Nya, dan naga yang selalu kalah.
+
+Rencana ini dibuat untuk **mempersiapkan dan memimpin** sebuah kelompok, bukan untuk bacaan
+pribadi yang tenang. Naskah khotbah lengkap untuk audiens dewasa terdapat di
+[Khotbah]({{< relref "sermons" >}}).

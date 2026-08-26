@@ -5,7 +5,7 @@ weight: 100
 base: /quick/content/beasts
 appl: /appl/content/beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
-kids: /kids/lessons/elementary/11-the-dragon-and-the-two-beasts
+kids: /kids/elementary/11-the-dragon-and-the-two-beasts
 prev: /story/seekers/content/jesus
 next: /story/seekers/content/harvest
 docType: story
