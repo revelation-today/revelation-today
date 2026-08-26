@@ -1,7 +1,7 @@
 ---
 title: "Gençler — Sorularını Getir"
 linkTitle: "Gençler (13–18 yaş)"
-weight: 30
+weight: 40
 docType: kids
 ---
 
@@ -11,6 +11,8 @@ Bir sürü şeye sessizce ayak uydurman beklenen bir yaştasın — herkesin izl
 
 Bu seri, gerçekten zor olan konularda da dürüst olacak: bunların doğru olup olmadığından şüphe duymak, tuhaf biri olmamak için inandığın şeyi saklama baskısı hissetmek, internette "göğe alınma" filmleri ya da geri sayım videoları izleyip bunun gerçekten Vahiy'in öğrettiği şey olup olmadığını merak etmek (çoğunlukla değil, ve nedenini açıklayacağız) ve hayatınla asıl kimi memnun etmeye çalıştığını çözmek. Sana tepeden bakmayacağız ya da bu mücadelelerin gerçek olmadığını iddia etmeyeceğiz.
 
-20'den fazla oturum boyunca, Vahiy'in nereden geldiğini, nasıl inşa edildiğini ve gerçekte ne söylediğini ele alacağız — Yuhanna'nın ilk okuyucularının yaşadığı Roma dünyasından başlayıp, Vahiy'in sürekli ödünç aldığı Daniel'in görümlerinden geçip, yedi kiliseye yazılan mektuplara (gerçek gençlik grupları hakkında yazılmış karne gibi okunuyorlar) ve son olarak mühürlere, canavara, Babil'e ve tüm kitabın doğru gittiği sona varacağız. Her oturum, öğretisini doğrudan metnin kendisine dayandıracak, zaten güçlü olduğun bir yeri işaret edecek, büyümeye değer gerçek bir mücadeleyi adlandıracak ve gerçekten konuşmaya değer türden sorulara alan açacak.
+Bu seri **17 oturum** boyunca doğrudan Vahiy'in kendisini işler — açılış görümü, yedi kiliseye yazılan mektuplar (gerçek gençlik grupları hakkında yazılmış karne gibi okunuyorlar), taht odası, mühürler ve borazanlar, iki tanık, ejderha, canavar, Babil, bin yıl ve tüm kitabın doğru gittiği son. Her oturum, öğretisini doğrudan metnin kendisine dayandırır, zaten güçlü olduğun bir yeri işaret eder, büyümeye değer gerçek bir mücadeleyi adlandırır ve gerçekten konuşmaya değer türden sorulara alan açar.
+
+Vahiy'in *nereden geldiği* — Yuhanna'nın ilk okuyucularının yaşadığı Roma dünyası ve kitabın neredeyse her sayfada ödünç aldığı Daniel görümleri — artık on bir oturumluk kendi serisi: [Gençler: Hazırlık]({{< relref "kids/teens-prep" >}}). Önce onu işlemek zorunda değilsin, ama ilk okuyuşta tuhaf gelen hemen her şey orada zaten açıklanıyor.
 
 Bunun için beynini kapıda bırakman gerekmiyor. Sorularını getir. Şüphelerini getir. Arkadaşlarını getir. Bu kitap, tam da senin gibi insanlar için, tam da şu anda yaşadığın türden bir baskı altında yazıldı — sadece bunun ortaya çıkması birkaç oturum sürebilir.

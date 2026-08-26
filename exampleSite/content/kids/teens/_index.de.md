@@ -1,7 +1,7 @@
 ---
 title: "Jugendliche — Bring deine Fragen mit"
 linkTitle: "Jugendliche (13–18 Jahre)"
-weight: 30
+weight: 40
 docType: kids
 ---
 
@@ -11,6 +11,8 @@ Du bist in einem Alter, in dem von dir erwartet wird, einfach mitzumachen bei vi
 
 Diese Reihe wird auch ehrlich über das sprechen, was wirklich schwer ist: daran zu zweifeln, ob überhaupt irgendetwas davon wahr ist, den Druck zu spüren, zu verstecken, was du glaubst, damit du nicht der komische Typ bist, "Entrückungs"-Filme oder Countdown-Videos im Netz zu schauen und dich zu fragen, ob das wirklich das ist, was die Offenbarung lehrt (meistens ist es das nicht, und wir erklären dir, warum), und herauszufinden, wem du mit deinem Leben eigentlich gefallen willst. Wir werden nicht von oben herab mit dir reden oder so tun, als wären diese Kämpfe nicht echt.
 
-Über 20 Einheiten arbeiten wir uns durch, woher die Offenbarung kommt, wie sie aufgebaut ist und was sie wirklich sagt — angefangen bei der römischen Welt, in der Johannes' erste Leser lebten, über Daniels Visionen, aus denen die Offenbarung ständig schöpft, bis zu den Briefen an die sieben Gemeinden (die sich lesen wie Zeugnisse über echte Jugendgruppen), und schließlich zu den Siegeln, dem Tier, Babylon und dem Ende, auf das das ganze Buch hinausläuft. Jede Einheit verankert ihre Lehre im Text selbst, benennt eine Stelle, an der du schon stark bist, benennt einen echten Kampf, in dem es sich zu wachsen lohnt, und öffnet Raum für die Art von Fragen, über die es sich wirklich lohnt zu reden.
+In **17 Einheiten** geht diese Reihe direkt durch die Offenbarung selbst — die erste Vision, die Briefe an die sieben Gemeinden (die sich lesen wie Zeugnisse über echte Jugendgruppen), den Thronsaal, die Siegel und die Posaunen, die zwei Zeugen, den Drachen, das Tier, Babylon, die tausend Jahre und das Ende, auf das das ganze Buch hinausläuft. Jede Einheit verankert ihre Lehre im Text selbst, benennt eine Stelle, an der du schon stark bist, benennt einen echten Kampf, in dem es sich zu wachsen lohnt, und öffnet Raum für die Art von Fragen, über die es sich wirklich lohnt zu reden.
+
+Woher die Offenbarung *kommt* — die römische Welt, in der Johannes' erste Leser lebten, und Daniels Visionen, aus denen das Buch auf fast jeder Seite schöpft — ist jetzt eine eigene Reihe mit elf Einheiten: [Jugendliche: Vorlauf]({{< relref "kids/teens-prep" >}}). Du musst sie nicht zuerst durchgehen, aber fast alles, was beim ersten Lesen befremdlich wirkt, wird dort schon erklärt.
 
 Du musst deinen Verstand für diese Reihe nicht an der Tür abgeben. Bring deine Fragen mit. Bring deine Zweifel mit. Bring deine Freunde mit. Dieses Buch wurde für Menschen genau wie dich geschrieben, unter genau der Art von Druck, unter dem du schon lebst — es dauert nur ein paar Einheiten, bis das offensichtlich wird.

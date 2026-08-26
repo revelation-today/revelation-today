@@ -1,7 +1,7 @@
 ---
 title: "Remaja — Bawa Pertanyaanmu"
 linkTitle: "Remaja (13–18 tahun)"
-weight: 30
+weight: 40
 docType: kids
 ---
 
@@ -11,6 +11,8 @@ Kamu berada di usia di mana kamu diharapkan untuk ikut saja dengan banyak hal �
 
 Seri ini juga akan jujur soal hal-hal yang benar-benar sulit: meragukan apakah semua ini benar, merasa tertekan untuk menyembunyikan apa yang kamu percaya supaya tidak dianggap aneh, menonton film "rapture" atau video hitung mundur di internet dan bertanya-tanya apakah itu benar-benar yang diajarkan Wahyu (sebagian besar tidak, dan kita akan jelaskan kenapa), dan mencari tahu siapa sebenarnya yang sedang kamu coba senangkan dengan hidupmu. Kita tidak akan merendahkanmu atau berpura-pura pergumulan ini tidak nyata.
 
-Selama lebih dari 20 sesi, kita akan menelusuri dari mana Wahyu berasal, bagaimana kitab ini dibangun, dan apa sebenarnya yang dikatakannya — dimulai dari dunia Romawi tempat pembaca pertama Yohanes hidup, melalui penglihatan-penglihatan Daniel yang terus-menerus dipinjam oleh Wahyu, masuk ke surat-surat untuk tujuh jemaat (yang terbaca seperti rapor yang ditulis tentang kelompok pemuda sungguhan), dan akhirnya ke meterai-meterai, sang binatang, Babel, dan akhir cerita yang selama ini sedang dibangun oleh seluruh kitab ini. Setiap sesi akan mendasarkan pengajarannya pada teks itu sendiri, menyebutkan satu hal yang sudah menjadi kekuatanmu, menyebutkan satu pergumulan nyata yang layak untuk kamu kembangkan, dan membuka ruang untuk pertanyaan-pertanyaan yang benar-benar layak dibicarakan.
+Selama **17 sesi**, seri ini menelusuri langsung Wahyu itu sendiri — penglihatan pembuka, surat-surat untuk tujuh jemaat (yang terbaca seperti rapor yang ditulis tentang kelompok pemuda sungguhan), ruang takhta, meterai-meterai dan sangkakala-sangkakala, dua saksi, sang naga, sang binatang, Babel, seribu tahun, dan akhir cerita yang selama ini sedang dibangun oleh seluruh kitab ini. Setiap sesi mendasarkan pengajarannya pada teks itu sendiri, menyebutkan satu hal yang sudah menjadi kekuatanmu, menyebutkan satu pergumulan nyata yang layak untuk kamu kembangkan, dan membuka ruang untuk pertanyaan-pertanyaan yang benar-benar layak dibicarakan.
+
+Dari mana Wahyu *berasal* — dunia Romawi tempat pembaca pertama Yohanes hidup, dan penglihatan-penglihatan Daniel yang dipinjam kitab ini hampir di setiap halaman — kini menjadi serinya sendiri dengan sebelas sesi: [Remaja: Persiapan]({{< relref "kids/teens-prep" >}}). Kamu tidak harus menjalankannya lebih dulu, tetapi hampir semua yang terasa aneh pada bacaan pertama sudah dijelaskan di sana.
 
 Kamu tidak perlu meninggalkan otakmu di pintu untuk seri ini. Bawa pertanyaan-pertanyaanmu. Bawa keraguan-keraguanmu. Bawa teman-temanmu. Kitab ini ditulis untuk orang-orang persis sepertimu, di bawah tekanan yang persis seperti yang sudah kamu jalani — hanya saja mungkin butuh beberapa sesi sebelum itu menjadi jelas.

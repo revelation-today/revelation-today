@@ -3,7 +3,7 @@ title: "Çocuklar İçin"
 weight: 50
 ---
 
-Vahiy kitabı çocuklar için, üç yaş grubunda. Her grup eksiksiz bir Pazar Okulu ders planları
+Vahiy kitabı çocuklar için, dört grupta. Her grup eksiksiz bir Pazar Okulu ders planları
 dizisidir - açılış etkinliği, Kutsal Kitap hikâyesi, uygulama, ezber ayeti, dua ve hazırlık
 fikirleri içeren bir ek bölüm: oyunlar, el işleri, tartışma soruları ve şarkı önerileri.
 
@@ -11,7 +11,10 @@ fikirleri içeren bir ek bölüm: oyunlar, el işleri, tartışma soruları ve �
 |---|---|---|---|
 | [Okul Öncesi — İsa Kazanır ve Bizi Sever]({{< relref "kids/early-childhood" >}}) | 4-7 | 16 | yaklaşık 10 dakika |
 | [İlkokul — Gerçekte Kim Yönetiyor?]({{< relref "kids/elementary" >}}) | 8-12 | 16 | yaklaşık 15 dakika |
-| [Gençler — Sorularını Getir]({{< relref "kids/teens" >}}) | 13-18 | 20 | yaklaşık 15 dakika |
+| [Gençler: Hazırlık — Vahiy'i Açmadan Önce]({{< relref "kids/teens-prep" >}}) | 13-18 | 11 | yaklaşık 15 dakika |
+| [Gençler — Sorularını Getir]({{< relref "kids/teens" >}}) | 13-18 | 17 | yaklaşık 15 dakika |
+
+**Gençler: Hazırlık dördüncü bir yaş grubu değil, bir hazırlık aşamasıdır.** Roma dünyasını, Daniel görümlerini ve Vahiy'in bildiğini varsaydığı Eski Antlaşma örüntülerini ele alır — Gençler serisiyle aynı yaş, sadece ondan önce. Vakti kısıtlı bir grup atlayıp doğrudan Gençler'den başlayabilir.
 
 **İlkokul ana dizidir.** Okul öncesinde her ders tek bir resimde kalır; gençlerde ise
 gerçekten zor olan konular doğrudan ele alınır - şüphe, baskı ve Vahiy'in ne anlama geldiği

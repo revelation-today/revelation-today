@@ -73,7 +73,7 @@ Gördüğünü yazdı. Biri onu adadan kaçırdı. İki bin yıl sonra bu, Kutsa
 
 Kimse senden asla ateşe buhur atmanı istemeyecek. Soru yine de sana sorulacak, muhtemelen bu hafta ve neredeyse kesinlikle hiç soru gibi görünmeyen bir biçimde.
 
-{{< story_links appl="/appl/content/vision" expl="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" kids="/kids/teens/01-your-own-pax-romana" >}}
+{{< story_links appl="/appl/content/vision" expl="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" kids="/kids/teens-prep/01-your-own-pax-romana" >}}
 
 ## Görüm (Bölüm 1) {#vision}
 
@@ -93,7 +93,7 @@ Ama bütün bunların tadını çıkarmadan önce bir şart var. O yedi kandilli
 
 Peki: sen yanıyor musun, yoksa sadece rol mü yapıyorsun?
 
-{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/teens/12-a-vision-too-big-to-ignore" >}}
+{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/teens/01-a-vision-too-big-to-ignore" >}}
 
 ## Kiliselere mektuplar (Bölüm 2-3) {#letters}
 
@@ -115,7 +115,7 @@ Sonra Laodikya: rahat, hali vakti yerinde, kendinden memnun, ve kendi durumuna o
 
 İşte biraz canını acıtması gereken kısım: o yediyi bir daha oku, ama bu sefer yedi grup sohbeti, yedi arkadaş grubu, ortama boyun eğmenin yedi farklı yolu gibi oku. Sessizleşme, uyum sağlama, kimse sana tuhaf bakmasın diye inandıklarını kendine saklama baskısı — bu, telefonlar ve takipçilerle icat edilmiş bir şey değil. Bu kitabın ikinci bölümü; gerçek tehlike altındaki gerçek gençlere yazılmış, birinin kaydıracak bir akışı olmasından iki bin yıl önce.
 
-{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/teens/13-real-letters-to-real-churches" >}}
+{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/teens/02-real-letters-to-real-churches" >}}
 
 ## Tapınma (Bölüm 4-5) {#worship}
 
@@ -133,7 +133,7 @@ Biri hariç. Yuhanna bir aslan arıyor — fetheden türden, her şeyden daha ko
 
 İşte kahramanın bu. Bir savaş ağası değil. Rakiplerini kas gücüyle ezen biri değil. Ölerek kazanan ve sonra ölü kalmayı reddeden biri. Açılması gerekeni açmaya ve yönetilmesi gerekeni yönetmeye layık olan tek kişi O — ve bunu bir kez gördün mü, o açık kapıdan O'nu gerçekten bir kez takip ettin mi, görmemiş gibi yapamazsın. Beş dakika önce olduğun kişiye geri dönme şansın yok.
 
-{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/teens/16-worship-fixes-everything" >}}
+{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/teens/05-worship-fixes-everything" >}}
 
 ## Mühürler (Bölüm 6) {#seals}
 
@@ -153,7 +153,7 @@ Beşinci mühür: bu sefer at yok. Bir sunak, ve altında, tam olarak sadakatler
 
 Altıncı mühür: gökyüzünün kendisi artık bir arada duramıyor. Güneş kararıyor. Ay kan rengine dönüyor. Yıldızlar, sertçe silkelenen bir daldan dökülen meyveler gibi gökten düşüyor. Gökyüzü, temelli kapatılan bir tomar gibi geri kıvrılıyor. Dünya, kendi kendine kurduğu enkazda çoktan boğuluyor — ve hiçbir şey yapmamış insanlar da o enkazın içinde duruyor, herkesle birlikte onlar da haykırıyor. Doğru tarafta olmak, hiçbir şeyin acıtmayacağının sözü değildi hiçbir zaman.
 
-{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/17-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
+{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
 
 ## Tanrı'nın ordusu (Bölüm 7) {#army}
 
@@ -167,7 +167,7 @@ Bu, Tanrı'nın ordusu. Bunu yüksek sesle söyle ve ne beklediğini gözünde c
 
 Bu hikayede bundan sonra ne gelirse gelsin — ve çok şey geliyor — bir şey daha başlamadan kilitlenmiş durumda: kime ait olduğunu tam olarak biliyorsun.
 
-{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" >}}
+{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" kids="/kids/teens/07-the-crowd-nobody-could-count" >}}
 
 ## Borazanlar (Bölüm 8-9) {#trumpets}
 
@@ -181,7 +181,7 @@ Sormuyorlar. Kendi putlarının onlara sırt çevirmesini izlerken bile, o aynı
 
 Bu iki bölümün içine gömülü acı gerçek bu, ve üzerinde durmaya değer: acı, otomatik olarak iman üretmez. Dibi görmek, kimseyi otomatik olarak uyandırmaz. Bunun daha küçük bir versiyonunu muhtemelen zaten görmüşsündür — birinin, bırakmayı reddettiği şey tarafından tekrar tekrar incitilip yine de daha da yüklenmesini. Acı çekmek neredeyse her şeyi çatlatabilir. Seçimini çoktan yapmış bir kalbi çatlatamaz.
 
-{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" >}}
+{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/teens/08-the-warnings-nobody-listens-to" >}}
 
 ## Küçük tomar (Bölüm 10) {#scroll}
 
@@ -195,7 +195,7 @@ Bu, gelişigüzel bir ayrıntı değil. Bu kısa, tuhaf bölümün bütün mesel
 
 Zor zamanlar tek başına hiçbir zaman kimseyi değiştirecek şey olmayacaktı. Vahiy, insanları korkutup yola getirmek için tasarlanmış bir korku hikayesi değil. Dokuz bölümlük felaketin başaramadığı yerde gedik açan şey bir mesaj — gerçekten içine alman, yutman, üzerinde oturman, tatlısıyla acısıyla içeriden seni işlemesine izin vermen gereken bir şey. Yuhanna'ya hâlâ peygamberlik edecek daha çok şeyi olduğu söyleniyor — halklara, uluslara, dillere ve krallara. Bundan sonra olacak şey, yargının hiçbir zaman olamayacağı kadar kişisel olacak.
 
-{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" >}}
+{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" kids="/kids/teens/09-sweet-in-your-mouth-sour-in-your-stomach" >}}
 
 ## İki tanık (Bölüm 11) {#witnesses}
 
@@ -209,7 +209,7 @@ Sonra içlerine soluk giriyor, ve ayağa kalkıyorlar. İzleyen herkes bunu gör
 
 Bu, şok etkisi için araya sıkıştırılmış bir senaryo sürprizi değil — Kilise'den yaşaması istenen asıl örüntü tam olarak bu. Acının etrafından dolaşan bir kestirme değil, acı gelmeden yetişen bir kurtarma operasyonu değil. En kötüsünün tam içinden geçen bir yürüyüş — alayın içinden, görünürdeki topyekûn yenilginin içinden, düşüşünü kutlayan insanların içinden — ve öbür taraftan çıkmak, hâlâ ayakta, hâlâ nefes alarak, kazandıklarını sananların gözleri önünde haklı çıkarılmış olarak. Doğru olanı yapmanın seni sadece bir alay konusu yaptığını hissettiğin bir an olursa, bu bölüm sana şunu hatırlatıyor: hikaye, alay konusu olduğun yerde bitmiyor.
 
-{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" >}}
+{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" kids="/kids/teens/10-the-three-days-when-it-looked-like-you-lost" >}}
 
 ## İsa'nın zaferi (Bölüm 12) {#jesus}
 
@@ -223,7 +223,7 @@ Hemen ardından gökte savaş patlak veriyor: Mikail ve melekleri, ejderhaya ve 
 
 Öfkeden kudurmuş, ve kalmadığını bildiği zamanı tükenirken, ejderha kadına dönüyor — ve kadın kaçınca, öfkesini kadına ait olan herkese çeviriyor. Bu tarafta duruyorsan, o sensin. Bunu bir uyarı olarak oku, ama en çok da bir rahatlama olarak oku: ejderhayı yenmek, hiçbir zaman, hiçbir noktada senin görevin değildi. İsa bunu çoktan yaptı, gökte, bu kavga aşağı inip hayatına dokunmadan önce. Senin işin hiçbir zaman savaşı kazanmak değildi. Sadece insanlara, savaşı çoktan kazanmış olanı göstermeye devam etmek — ejderha, köşeye sıkışmış ve süresi tükenirken, üzerine her zamankinden daha sert gelse bile.
 
-{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" >}}
+{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" kids="/kids/teens/11-the-christmas-story-with-a-dragon-in-it" >}}
 
 ## Ejderha ve iki canavar (Bölüm 13) {#beasts}
 
@@ -237,7 +237,7 @@ Bu yüzden yeni silahlara uzanıyor — iki canavar. İlki denizden sürünerek 
 
 Ama bir daha bak, çünkü dikiş yerleri şimdiden görünüyor. Bütün bu operasyon güç ve hileyle dönüyor — özgürce sunulan hiçbir şey yok, tehditler ayakta tutmadan hayatta kalabilen hiçbir şey yok. Gerçekten kalıcı olan tek bir şey bile inşa edemiyor. Bu arada taklit ettiği şey, gerçek Kral, çoktan kazandı — kalıcı olarak, bu sahtekarlık daha denizden çıkmadan önce. Bunu bilmek baskıyı yok etmiyor. Sadece bütün bunlar bittiğinde hangi tarafın gerçekten hâlâ ayakta olacağını söylüyor.
 
-{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you" >}}
+{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/12-the-beast-the-number-and-why-666-isnt-about-you" >}}
 
 ## İki hasat (Bölüm 14) {#harvest}
 
@@ -251,7 +251,7 @@ Yeryüzünün üzerinden iki orak savruluyor. Bir melek tahıl hasadını topluy
 
 Bu bölüm, ertelediğin o seçimin — etrafındaki herkesin de sessiz sessiz kaçındığı o seçimin — artık askıda bırakabileceğin bir şey olmaktan çıktığı bölüm. Gerçek, dışında kalabileceğin bir tartışma olmaktan çıkıyor. Eninde sonunda herkes toplanıyor. Bu bölümün sana bıraktığı tek gerçek soru şu: sen hangi hasattasın?
 
-{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}
+{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/13-two-harvests-and-which-one-youre-in" >}}
 
 ## Gazap tasları (Bölüm 15-16) {#bowls}
 
@@ -265,7 +265,7 @@ Altıncı tas Fırat'ı kurutuyor — doğudan gelen krallara yol açılsın diy
 
 Onlar çoktan bitmiş durumda. Sadece henüz bilmiyorlar. Yedinci tas havanın ta kendisine dökülüyor, ve tahttan bir ses geliyor: tamamlandı. Şimşekler, gök gürültüleri, insanlık var olduğundan beri görülmüş en beter deprem, çöken şehirler, ezecek kadar ağır dolu — ve o zaman bile, bütün bunlarla yüzleşirken bile, insanlar dönmek yerine Tanrı'ya lanet ediyorlar. Armagedon'daki ordular dünya için savaşmak üzere olduklarını sanıyorlar. Aslında onun bitişini izlemek üzereler.
 
-{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" >}}
+{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/teens/14-when-knowing-better-changes-nothing" >}}
 
 ## Fahişe (Bölüm 17-19) {#harlot}
 
@@ -281,7 +281,7 @@ Ve sonra gök kendi kutlamasını yapıyor — bir parti elbisesi için değil, 
 
 Bu hiçbir zaman sadece baskıyı atlatma hikâyesi değildi. En başından beri, öbür tarafta bekleyen bir düğünün hikâyesiydi.
 
-{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/teens/19-babylon-falls" >}}
+{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/teens/15-babylon-falls" >}}
 
 ## Bin yıl (Bölüm 20) {#1000y}
 
@@ -295,7 +295,7 @@ Sonra bütün kitabın kendisine doğru yürüdüğü an geliyor: büyük beyaz 
 
 Bu, son hesaplaşma. Bir korkutma taktiği değil — bütün bu hikâyenin birinci bölümden beri sorduğu sorunun gerçek, nihai cevabı: söylemenin sana bir bedeli olduğunda, sen aslında kime aittin?
 
-{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" >}}
+{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/teens/16-the-thousand-years-that-isnt-a-countdown" >}}
 
 ## Yeni gök ve yeni yeryüzü (Bölüm 21-22) {#paradise}
 
@@ -309,4 +309,4 @@ Ortasından bir ırmak akıyor, kristal kadar berrak, doğrudan tahttan geliyor;
 
 Gelin ve güvey, sonunda bir arada, temelli olarak. Ve artık sonunun tam olarak nasıl bittiğini bildiğine göre — git ve buna gerçekten inanıyormuş gibi yaşa.
 
-{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/teens/20-the-ending-you-actually-want" >}}
+{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/teens/17-the-ending-you-actually-want" >}}

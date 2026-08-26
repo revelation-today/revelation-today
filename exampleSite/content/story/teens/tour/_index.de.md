@@ -73,7 +73,7 @@ Er schrieb auf, was er sah. Jemand schmuggelte es von der Insel. Zweitausend Jah
 
 Niemand wird dich je auffordern, Weihrauch auf ein Feuer zu werfen. Die Frage wird dir trotzdem gestellt, wahrscheinlich noch diese Woche, und mit ziemlicher Sicherheit in einer Form, die überhaupt nicht wie eine Frage aussieht.
 
-{{< story_links appl="/appl/content/vision" expl="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" kids="/kids/teens/01-your-own-pax-romana" >}}
+{{< story_links appl="/appl/content/vision" expl="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" kids="/kids/teens-prep/01-your-own-pax-romana" >}}
 
 ## Die Vision (Kapitel 1) {#vision}
 
@@ -93,7 +93,7 @@ Aber bevor sich das gut anfühlen darf, kommt noch ein Haken. Diese sieben Leuch
 
 Also: Brennst du, oder tust du nur so?
 
-{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/teens/12-a-vision-too-big-to-ignore" >}}
+{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/teens/01-a-vision-too-big-to-ignore" >}}
 
 ## Die Briefe an die Gemeinden (Kapitel 2-3) {#letters}
 
@@ -115,7 +115,7 @@ Dann Laodizea: bequem, wohlhabend, selbstzufrieden, und so blind für den eigene
 
 Hier kommt der Teil, der ein bisschen wehtun sollte: Lies diese sieben noch mal, als wären sie sieben Gruppenchats, sieben Freundeskreise, sieben verschiedene Arten, vor dem Raum einzuknicken. Der Druck, leise zu werden, sich anzupassen, deine Überzeugungen für dich zu behalten, damit dich niemand schräg anguckt - das haben nicht Handys und Follower erfunden. Das ist Kapitel zwei dieses Buches, geschrieben für echte Jugendliche in echter Gefahr, zweitausend Jahre bevor irgendjemand einen Feed zum Scrollen hatte.
 
-{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/teens/13-real-letters-to-real-churches" >}}
+{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/teens/02-real-letters-to-real-churches" >}}
 
 ## Anbetung (Kapitel 4-5) {#worship}
 
@@ -133,7 +133,7 @@ Bis auf einen. Johannes hält Ausschau nach einem Löwen - der erobernden Sorte,
 
 Das ist dein Held. Kein Kriegsherr. Keiner, der die Konkurrenz niedergerungen hat. Jemand, der gewonnen hat, indem er starb - und der sich dann weigerte, tot zu bleiben. Er ist der Einzige, der würdig ist, zu öffnen, was geöffnet werden muss, und zu regieren, was regiert werden muss, und sobald du das gesehen hast - sobald du ihm tatsächlich durch diese offene Tür gefolgt bist - kannst du es nicht mehr ungesehen machen. Du kommst nicht mehr zurück zu der Person, die du vor fünf Minuten warst.
 
-{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/teens/16-worship-fixes-everything" >}}
+{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/teens/05-worship-fixes-everything" >}}
 
 ## Die Siegel (Kapitel 6) {#seals}
 
@@ -153,7 +153,7 @@ Fünftes Siegel: kein Pferd diesmal. Ein Altar, und darunter die Seelen von Leut
 
 Sechstes Siegel: Der Himmel selbst hält nicht mehr zusammen. Die Sonne wird schwarz. Der Mond wird blutrot. Sterne fallen vom Himmel wie Früchte, die hart von einem Ast geschüttelt werden. Der Himmel rollt sich zusammen wie eine Schriftrolle, die endgültig zugerollt wird. Die Welt ertrinkt bereits in den Trümmern, die sie sich selbst gebaut hat - und die Leute, die nichts falsch gemacht haben, stehen genau in diesen Trümmern mit drin und schreien gleich mit allen anderen. Auf der richtigen Seite zu stehen, war nie ein Versprechen, dass nichts wehtut.
 
-{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/17-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
+{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
 
 ## Die Armee Gottes (Kapitel 7) {#army}
 
@@ -167,7 +167,7 @@ Hier ist, was das für dich bedeutet, jetzt gerade, bevor du überhaupt weißt, 
 
 Was auch immer als Nächstes in dieser Geschichte kommt - und da kommt einiges - eines steht schon fest, bevor es losgeht: Du weißt genau, zu wem du gehörst.
 
-{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" >}}
+{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" kids="/kids/teens/07-the-crowd-nobody-could-count" >}}
 
 ## Die Posaunen (Kapitel 8-9) {#trumpets}
 
@@ -181,7 +181,7 @@ Ist er nicht. Selbst während sie zusehen, wie ihre eigenen Götzen sich gegen s
 
 Das ist die harte Wahrheit, die in diesen zwei Kapiteln steckt, und es lohnt sich, dabei zu verweilen: Schmerz erzeugt nicht automatisch Glauben. Am Boden zu sein, weckt nicht automatisch irgendjemanden auf. Du hast wahrscheinlich schon eine kleinere Version davon gesehen - jemand, der immer wieder von genau der Sache verletzt wird, die er nicht loslassen will, und trotzdem erst recht weitermacht. Leid kann fast alles aufbrechen. Es kann kein Herz aufbrechen, das seine Entscheidung schon getroffen hat.
 
-{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" >}}
+{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/teens/08-the-warnings-nobody-listens-to" >}}
 
 ## Die kleine Schriftrolle (Kapitel 10) {#scroll}
 
@@ -195,7 +195,7 @@ Das ist kein beiläufiges Detail. Das ist der ganze Punkt dieses kurzen, seltsam
 
 Harte Zeiten allein würden nie das sein, was irgendjemanden verändert. Die Offenbarung ist keine Horrorgeschichte, gebaut, um Leute geradezuschrecken. Was durchbricht, wo neun Kapitel Katastrophe es nicht geschafft haben, ist eine Botschaft - etwas, das du tatsächlich aufnehmen musst, schlucken, dabei sitzen, es von innen an dir arbeiten lassen, Süße und Bitterkeit zusammen. Johannes wird gesagt, dass er noch mehr weissagen muss, über Völker und Nationen und Sprachen und Könige. Was als Nächstes passiert, wird persönlich sein, auf eine Art, wie Gericht es nie sein konnte.
 
-{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" >}}
+{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" kids="/kids/teens/09-sweet-in-your-mouth-sour-in-your-stomach" >}}
 
 ## Die zwei Zeugen (Kapitel 11) {#witnesses}
 
@@ -209,7 +209,7 @@ Dann fährt Atem in sie, und sie stehen auf. Alle, die zuschauen, sehen es. Blan
 
 Das ist kein Plottwist für den Schockeffekt - das ist das tatsächliche Muster, das die Gemeinde leben soll. Keine Abkürzung am Leiden vorbei, keine Rettung, die ankommt, bevor der Schmerz kommt. Ein Weg mitten durch das Schlimmste hindurch - durch Spott, durch scheinbar totale Niederlage, durch Leute, die deinen Absturz feiern - und auf der anderen Seite wieder raus, immer noch stehend, immer noch atmend, rehabilitiert vor genau den Leuten, die dachten, sie hätten gewonnen. Falls du dich je gefühlt hast, als hätte dich das Richtige-Tun nur zur Pointe gemacht: Dieses Kapitel ist deine Erinnerung, dass die Geschichte an der Pointe nicht vorbei ist.
 
-{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" >}}
+{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" kids="/kids/teens/10-the-three-days-when-it-looked-like-you-lost" >}}
 
 ## Der Sieg Jesu (Kapitel 12) {#jesus}
 
@@ -223,7 +223,7 @@ Direkt danach bricht Krieg im Himmel aus: Michael und seine Engel gegen den Drac
 
 Wütend, und weil ihm eine Zeit davonläuft, von der er weiß, dass er sie nicht hat, wendet sich der Drache gegen die Frau - und als sie entkommt, richtet er seine Wut gegen alle, die zu ihr gehören. Das bist du, wenn du auf dieser Seite stehst. Lies das als Warnung, aber lies es vor allem als Erleichterung: Den Drachen zu besiegen, war zu keinem einzigen Zeitpunkt dein Auftrag. Jesus hat das bereits erledigt, im Himmel, bevor dieser Kampf je bis in dein Leben runterreichte. Dein Job war nie, den Krieg zu gewinnen. Er ist nur, weiter auf den zu zeigen, der ihn schon gewonnen hat - selbst während der Drache, in die Enge getrieben und mit ablaufender Uhr, härter auf dich losgeht als je zuvor.
 
-{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" >}}
+{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" kids="/kids/teens/11-the-christmas-story-with-a-dragon-in-it" >}}
 
 ## Der Drache und die zwei Tiere (Kapitel 13) {#beasts}
 
@@ -237,7 +237,7 @@ Nimm die beiden zusammen, und du bekommst eine groteske Kopie des Echten - eine 
 
 Aber schau noch mal hin, denn die Nähte platzen schon. Der ganze Laden läuft auf Gewalt und Trickserei - nichts wird freiwillig angeboten, nichts überlebt ohne Drohungen, die es stützen. Er kann kein einziges Ding bauen, das wirklich Bestand hat. Währenddessen hat das, was er kopiert - der echte König - längst gewonnen, endgültig, bevor diese Fälschung überhaupt aus dem Meer geklettert ist. Das zu wissen, lässt den Druck nicht verschwinden. Es sagt dir nur, welche Seite am Ende tatsächlich noch stehen wird.
 
-{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you" >}}
+{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/12-the-beast-the-number-and-why-666-isnt-about-you" >}}
 
 ## Die zwei Ernten (Kapitel 14) {#harvest}
 
@@ -251,7 +251,7 @@ Zwei Sicheln fahren über die Erde. Ein Engel sammelt eine Getreideernte ein - d
 
 Das ist das Kapitel, in dem die Entscheidung, die du vor dir herschiebst - die, um die sich alle um dich herum genauso still drücken - aufhört, etwas zu sein, das man offenlassen kann. Wahrheit hört auf, eine Debatte zu sein, bei der man sich raushalten kann. Eingesammelt wird am Ende jeder. Die einzige echte Frage, die dieses Kapitel dir dalässt, ist, in welcher Ernte du bist.
 
-{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}
+{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/13-two-harvests-and-which-one-youre-in" >}}
 
 ## Die Zornschalen (Kapitel 15-16) {#bowls}
 
@@ -265,7 +265,7 @@ Die sechste Schale trocknet den Euphrat aus, um den Königen aus dem Osten den W
 
 Sie sind schon erledigt. Sie wissen es nur noch nicht. Die siebte Schale ergießt sich in die Luft selbst, und eine Stimme vom Thron sagt: Es ist geschehen. Blitze, Donner, das schlimmste Erdbeben, seit es Menschen gibt, einstürzende Städte, Hagel, schwer genug, um zu zermalmen - und selbst dann, selbst angesichts von all dem, verfluchen die Menschen Gott, statt umzukehren. Die Heere bei Harmagedon glauben, sie stehen kurz davor, um die Welt zu kämpfen. Sie stehen kurz davor, zuzusehen, wie sie endet.
 
-{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" >}}
+{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/teens/14-when-knowing-better-changes-nothing" >}}
 
 ## Die Hure (Kapitel 17-19) {#harlot}
 
@@ -281,7 +281,7 @@ Und dann feiert der Himmel seine eigene Feier - nicht über ein Partykleid, sond
 
 Das war nie nur eine Geschichte darüber, den Druck zu überleben. Es ging immer schon um eine Hochzeit, die auf der anderen Seite davon wartet.
 
-{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/teens/19-babylon-falls" >}}
+{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/teens/15-babylon-falls" >}}
 
 ## Das Millennium (Kapitel 20) {#1000y}
 
@@ -295,7 +295,7 @@ Dann kommt der Moment, auf den das ganze Buch zugelaufen ist: ein großer weiße
 
 Das ist die letzte Abrechnung. Keine Panikmache - die tatsächliche, endgültige Antwort auf die Frage, die diese ganze Geschichte seit Kapitel eins stellt: Zu wem hast du wirklich gehört, als es dich etwas gekostet hat, das zu sagen?
 
-{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" >}}
+{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/teens/16-the-thousand-years-that-isnt-a-countdown" >}}
 
 ## Der neue Himmel und die neue Erde (Kapitel 21-22) {#paradise}
 
@@ -309,4 +309,4 @@ Mittendurch fließt ein Fluss, klar wie Kristall, direkt vom Thron, mit einem Ba
 
 Die Braut und der Bräutigam, endlich zusammen, für immer. Und jetzt, wo du genau weißt, wie es endet - geh und lebe so, als würdest du es wirklich glauben.
 
-{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/teens/20-the-ending-you-actually-want" >}}
+{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/teens/17-the-ending-you-actually-want" >}}

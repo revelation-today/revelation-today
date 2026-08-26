@@ -1,7 +1,7 @@
 ---
 title: "Teens — Bring Your Questions"
 linkTitle: "Teens (ages 13–18)"
-weight: 30
+weight: 40
 docType: kids
 ---
 
@@ -13,6 +13,8 @@ You're at an age where you're expected to just go along with a lot of things —
 
 This series will also be honest about the stuff that's actually hard: doubting whether any of this is true, feeling pressure to hide what you believe so you're not the weird one, watching "rapture" movies or countdown videos online and wondering if that's really what Revelation teaches (it mostly isn't, and we'll explain why), and figuring out who you're actually trying to please with your life. We're not going to talk down to you or pretend these struggles aren't real.
 
-Over 20 sessions, we'll work through where Revelation comes from, how it's built, and what it actually says — starting with the Roman world John's first readers lived in, through Daniel's visions that Revelation constantly borrows from, into the letters to the seven churches (which read like report cards written about actual youth groups), and finally into the seals, the beast, Babylon, and the ending the whole book has been building toward. Every session will ground its teaching in the text itself, name a place where you're already strong, name a real struggle worth growing in, and open space for the kind of questions worth actually talking about.
+Over **17 sessions** this track works straight through Revelation itself — the opening vision, the letters to the seven churches (which read like report cards written about actual youth groups), the throne room, the seals and the trumpets, the two witnesses, the dragon, the beast, Babylon, the thousand years, and the ending the whole book has been building toward. Every session grounds its teaching in the text itself, names a place where you're already strong, names a real struggle worth growing in, and opens space for the kind of questions worth actually talking about.
+
+Where Revelation *comes from* — the Roman world John's first readers lived in, and the Daniel visions the book borrows from on nearly every page — is now its own eleven-session track, [Teens Prep]({{< relref "kids/teens-prep" >}}). You don't have to run it first, but almost everything that feels bizarre on a first read is already explained there.
 
 You don't have to check your brain at the door for this one. Bring your questions. Bring your doubts. Bring your friends. This book was written for people exactly like you, under exactly the kind of pressure you're already living with — it just might take a few sessions before that becomes obvious.

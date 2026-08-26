@@ -3,21 +3,17 @@
 {{- $next := .next -}}
 {{- $lesson := (T "lesson") | default "Lesson" -}}
 
-{{/* Kids lesson pages are numbered, so the arrows read "Lesson 15" rather than
-     repeating the full title. Everywhere else keeps the title. */}}
+{{/* Kids lesson pages are numbered. Under /kids/lessons/ the arrows read
+     "Lesson 15" instead of the title; in the age tracks the lesson titles carry a
+     Bible reference rather than a number, so prefix the number and keep the title.
+     Everywhere else keeps the title alone. */}}
 {{- $prevLabel := "" -}}
 {{- with $prev -}}
-  {{- $prevLabel = .Title -}}
-  {{- if and (in .RelPermalink "/kids/lessons/") .Weight -}}
-    {{- $prevLabel = printf "%s %d" $lesson .Weight -}}
-  {{- end -}}
+  {{- $prevLabel = partial "custom/prev_next_label" (dict "page" . "lesson" $lesson) -}}
 {{- end -}}
 {{- $nextLabel := "" -}}
 {{- with $next -}}
-  {{- $nextLabel = .Title -}}
-  {{- if and (in .RelPermalink "/kids/lessons/") .Weight -}}
-    {{- $nextLabel = printf "%s %d" $lesson .Weight -}}
-  {{- end -}}
+  {{- $nextLabel = partial "custom/prev_next_label" (dict "page" . "lesson" $lesson) -}}
 {{- end -}}
 
 {{- if or $prev $next -}}

@@ -96,7 +96,7 @@ is the last book in your Bible, and it is still asking.
 Nobody will ever ask you to throw incense on a fire. You will be asked the question anyway,
 probably this week, and almost certainly in a form that does not look like a question at all.
 
-{{< story_links appl="/appl/content/vision" expl="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" kids="/kids/teens/01-your-own-pax-romana" >}}
+{{< story_links appl="/appl/content/vision" expl="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" kids="/kids/teens-prep/01-your-own-pax-romana" >}}
 
 ## The vision (Ch. 1) {#vision}
 
@@ -116,7 +116,7 @@ But there's a catch before any of that gets to feel good. Those seven lampstands
 
 So: are you burning, or just performing?
 
-{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/teens/12-a-vision-too-big-to-ignore" >}}
+{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/teens/01-a-vision-too-big-to-ignore" >}}
 
 ## The letters to the churches (Ch. 2-3) {#letters}
 
@@ -138,7 +138,7 @@ Then Laodicea: comfortable, well-off, pleased with itself, and so blind to its o
 
 Here's the part that should sting a little: read those seven again like they're seven group chats, seven friend groups, seven different ways of caving to the room. The pressure to go quiet, blend in, keep your convictions to yourself so nobody looks at you funny — that's not something invented by phones and followers. It's chapter two of this book, written to actual kids in actual danger, two thousand years before anyone had a feed to scroll.
 
-{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/teens/13-real-letters-to-real-churches" >}}
+{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/teens/02-real-letters-to-real-churches" >}}
 
 ## Worship (Ch. 4-5) {#worship}
 
@@ -156,7 +156,7 @@ Except one. John looks for a lion — the conquering kind, the kind who wins by 
 
 That's your hero. Not a warlord. Not somebody who out-muscled the competition. Somebody who won by dying and then refused to stay dead. He's the only one worthy to open what needs opening and rule what needs ruling, and once you've seen that — once you've actually followed him through that open door — there's no unseeing it. You don't get to go back to being the person you were five minutes ago.
 
-{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/teens/16-worship-fixes-everything" >}}
+{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/teens/05-worship-fixes-everything" >}}
 
 ## The seals (Ch. 6) {#seals}
 
@@ -176,7 +176,7 @@ Fifth seal: no horse this time. An altar, and underneath it, the souls of people
 
 Sixth seal: the sky itself can't hold together anymore. The sun goes black. The moon turns the color of blood. Stars drop out of the sky like fruit shaken hard off a branch. The sky peels back like a scroll being rolled shut for good. The world is already drowning in the wreckage it built for itself — and the people who did nothing wrong are standing in that wreckage too, crying out right alongside everyone else. Being on the right side was never a promise that nothing would hurt.
 
-{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/17-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
+{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
 
 ## The army of God (Ch. 7) {#army}
 
@@ -190,7 +190,7 @@ Here's what that means for you, right now, before you know exactly how hard thin
 
 Whatever comes next in this story — and a lot is coming — one thing is already locked down before it starts: you know exactly whose you are.
 
-{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" >}}
+{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" kids="/kids/teens/07-the-crowd-nobody-could-count" >}}
 
 ## The trumpets (Ch. 8-9) {#trumpets}
 
@@ -204,7 +204,7 @@ They don't. Even watching their own idols turn on them, even as those same idols
 
 That's the hard truth buried in these two chapters, and it's worth sitting with: pain doesn't automatically produce faith. Hitting bottom doesn't automatically wake anyone up. You've probably already seen a smaller version of this — someone getting hurt over and over by the exact thing they won't let go of, and doubling down anyway. Suffering can crack open almost anything. It cannot crack open a heart that has already made its choice.
 
-{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" >}}
+{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/teens/08-the-warnings-nobody-listens-to" >}}
 
 ## The small scroll (Ch. 10) {#scroll}
 
@@ -218,7 +218,7 @@ That's not a throwaway detail. That's the whole point of this short, strange cha
 
 Hard times alone were never going to be the thing that changed anyone. Revelation isn't a horror story engineered to scare people straight. What breaks through where nine chapters of disaster couldn't is a message — something you have to actually take in, swallow, sit with, let work on you from the inside, sweetness and bitterness both. John is told he still has more to prophesy, to peoples and nations and languages and kings. The next thing that happens will be personal in a way judgment never could be.
 
-{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" >}}
+{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" kids="/kids/teens/09-sweet-in-your-mouth-sour-in-your-stomach" >}}
 
 ## The two witnesses (Ch. 11) {#witnesses}
 
@@ -232,7 +232,7 @@ Then breath enters them, and they stand up. Everyone watching sees it. Terror re
 
 That's not a plot twist thrown in for shock value — that's the actual pattern the Church is asked to live out. Not a shortcut around suffering, not a rescue that arrives before the pain does. A walk straight through the worst of it — through mockery, through apparent total defeat, through people celebrating your downfall — and out the other side, still standing, still breathing, vindicated in front of the very people who thought they'd won. If you ever feel like doing the right thing just made you a punchline, this chapter is your reminder that the story isn't over at the punchline.
 
-{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" >}}
+{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" kids="/kids/teens/10-the-three-days-when-it-looked-like-you-lost" >}}
 
 ## The victory of Jesus (Ch. 12) {#jesus}
 
@@ -246,7 +246,7 @@ War breaks out in heaven immediately after: Michael and his angels against the d
 
 Furious, and running out of time he knows he doesn't have, the dragon turns on the woman — and when she gets away, he turns his rage on everyone who belongs to her. That's you, if you're on this side. Read that as a warning, but read it mostly as a relief: beating the dragon was never, at any point, your assignment. Jesus already did that, in heaven, before this fight ever reached down to touch your life. Your job was never to win the war. It's just to keep pointing people toward the one who already has — even while the dragon, cornered and running out of clock, comes at you harder than ever.
 
-{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" >}}
+{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" kids="/kids/teens/11-the-christmas-story-with-a-dragon-in-it" >}}
 
 ## The dragon and the two beasts (Ch. 13) {#beasts}
 
@@ -260,7 +260,7 @@ Put the two of them together and you get a grotesque knockoff of the real thing 
 
 But look again, because the seams are already showing. This whole operation runs on force and trickery — nothing offered freely, nothing that survives without threats propping it up. It cannot build one single thing that actually lasts. Meanwhile the thing it's copying, the real King, already won, permanently, before this counterfeit ever climbed out of the sea. Knowing that doesn't make the pressure disappear. It just tells you which side is actually going to still be standing when this is over.
 
-{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you" >}}
+{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/12-the-beast-the-number-and-why-666-isnt-about-you" >}}
 
 ## The two harvests (Ch. 14) {#harvest}
 
@@ -274,7 +274,7 @@ Two sickles swing across the earth. One angel gathers a harvest of grain — tha
 
 This is the chapter where the choice you've been putting off, the one everyone around you has been quietly avoiding too, stops being something you can leave undecided. Truth stops being a debate you can sit out. Everyone gets gathered eventually. The only real question this chapter leaves you with is which harvest you're in.
 
-{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}
+{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/13-two-harvests-and-which-one-youre-in" >}}
 
 ## The bowls of wrath (Ch. 15-16) {#bowls}
 
@@ -288,7 +288,7 @@ The sixth bowl dries up the Euphrates to clear the way for kings from the east, 
 
 They're already finished. They just don't know it yet. The seventh bowl pours out into the air itself, and a voice from the throne says: it is done. Lightning, thunder, the worst earthquake since humanity has existed, cities collapsing, hail heavy enough to crush — and even then, even facing all of it, people curse God rather than turn. The armies at Armageddon think they're about to fight for the world. They're about to watch it end.
 
-{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" >}}
+{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/teens/14-when-knowing-better-changes-nothing" >}}
 
 ## The harlot (Ch. 17-19) {#harlot}
 
@@ -304,7 +304,7 @@ And then heaven throws its own celebration — not over a party dress, but over 
 
 This was never just a story about surviving the pressure. It was always about a wedding waiting on the other side of it.
 
-{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/teens/19-babylon-falls" >}}
+{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/teens/15-babylon-falls" >}}
 
 ## The millenium (Ch. 20) {#1000y}
 
@@ -318,7 +318,7 @@ Then comes the moment the whole book has been walking toward: a great white thro
 
 This is the last reckoning. Not a scare tactic — the actual, final answer to the question this whole story has been asking since chapter one: who did you actually belong to, when it cost you something to say so?
 
-{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" >}}
+{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/teens/16-the-thousand-years-that-isnt-a-countdown" >}}
 
 ## The new heaven and new earth (Ch. 21-22) {#paradise}
 
@@ -332,4 +332,4 @@ Through the middle of it runs a river, clear as crystal, straight from the thron
 
 The bride and the groom, together at last, for good. And now that you know exactly how it ends — go and live like you actually believe it.
 
-{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/teens/20-the-ending-you-actually-want" >}}
+{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/teens/17-the-ending-you-actually-want" >}}

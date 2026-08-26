@@ -73,7 +73,7 @@ Dia menuliskan apa yang dilihatnya. Seseorang menyelundupkannya keluar dari pula
 
 Tidak akan pernah ada yang memintamu melemparkan dupa ke api. Pertanyaannya tetap akan diajukan kepadamu, mungkin minggu ini, dan hampir pasti dalam bentuk yang sama sekali tidak terlihat seperti pertanyaan.
 
-{{< story_links appl="/appl/content/vision" expl="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" kids="/kids/teens/01-your-own-pax-romana" >}}
+{{< story_links appl="/appl/content/vision" expl="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" kids="/kids/teens-prep/01-your-own-pax-romana" >}}
 
 ## Penglihatan itu (Psl. 1) {#vision}
 
@@ -93,7 +93,7 @@ Tapi ada satu hal dulu sebelum semua itu boleh terasa enak. Ketujuh kaki dian it
 
 Jadi: kamu benar-benar menyala, atau cuma tampil?
 
-{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/teens/12-a-vision-too-big-to-ignore" >}}
+{{< story_links base="/quick/content/vision" appl="/appl/content/vision" expl="/expl/content/vision/setting-the-foundation" kids="/kids/teens/01-a-vision-too-big-to-ignore" >}}
 
 ## Surat-surat kepada jemaat (Psl. 2-3) {#letters}
 
@@ -115,7 +115,7 @@ Lalu Laodikia: nyaman, berkecukupan, puas dengan dirinya sendiri, dan begitu but
 
 Ini bagian yang seharusnya bikin sedikit tertusuk: baca lagi ketujuhnya seolah-olah itu tujuh grup chat, tujuh circle pertemanan, tujuh cara berbeda untuk menyerah pada tekanan sekitar. Dorongan untuk diam, membaur, menyimpan keyakinanmu sendiri supaya tidak ada yang memandangmu aneh — itu bukan penemuan ponsel dan jumlah followers. Itu ada di pasal dua kitab ini, ditulis untuk anak-anak muda sungguhan dalam bahaya sungguhan, dua ribu tahun sebelum ada yang punya feed untuk di-scroll.
 
-{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/teens/13-real-letters-to-real-churches" >}}
+{{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/teens/02-real-letters-to-real-churches" >}}
 
 ## Penyembahan (Psl. 4-5) {#worship}
 
@@ -133,7 +133,7 @@ Kecuali satu. Yohanes mencari-cari seekor singa — singa penakluk, yang menang 
 
 Itulah pahlawanmu. Bukan panglima perang. Bukan seseorang yang menang karena ototnya lebih besar dari lawannya. Seseorang yang menang dengan cara mati lalu menolak tetap mati. Dialah satu-satunya yang layak membuka apa yang harus dibuka dan memerintah apa yang harus diperintah, dan begitu kamu sudah melihatnya — begitu kamu benar-benar mengikuti Dia melewati pintu yang terbuka itu — kamu tidak bisa pura-pura belum lihat. Kamu tidak bisa kembali jadi orang yang sama seperti lima menit yang lalu.
 
-{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/teens/16-worship-fixes-everything" >}}
+{{< story_links base="/quick/content/worship" appl="/appl/content/worship" expl="/expl/content/worship/worship-in-the-throne-room" kids="/kids/teens/05-worship-fixes-everything" >}}
 
 ## Meterai-meterai (Psl. 6) {#seals}
 
@@ -153,7 +153,7 @@ Meterai kelima: kali ini tanpa kuda. Sebuah mezbah, dan di bawahnya, jiwa-jiwa o
 
 Meterai keenam: langit sendiri tidak sanggup lagi bertahan utuh. Matahari jadi hitam. Bulan berubah warna jadi darah. Bintang-bintang berjatuhan dari langit seperti buah yang diguncang keras dari dahannya. Langit tergulung seperti gulungan kitab yang ditutup untuk selamanya. Dunia sudah tenggelam dalam kehancuran yang dibangunnya sendiri — dan orang-orang yang tidak berbuat salah apa-apa ikut berdiri di tengah kehancuran itu, ikut berseru bersama semua orang. Berada di pihak yang benar tidak pernah jadi jaminan bahwa tidak akan ada yang sakit.
 
-{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/17-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
+{{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
 
 ## Pasukan Allah (Psl. 7) {#army}
 
@@ -167,7 +167,7 @@ Dan inilah artinya buat kamu, sekarang juga, sebelum kamu tahu persis seberapa b
 
 Apa pun yang datang berikutnya dalam kisah ini — dan yang datang banyak — satu hal sudah terkunci sebelum semuanya dimulai: kamu tahu persis milik siapa kamu.
 
-{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" >}}
+{{< story_links base="/quick/content/army" appl="/appl/content/army" expl="/expl/content/army/the-end-time-and-the-great-tribulation" kids="/kids/teens/07-the-crowd-nobody-could-count" >}}
 
 ## Sangkakala-sangkakala (Psl. 8-9) {#trumpets}
 
@@ -181,7 +181,7 @@ Ternyata tidak. Bahkan sambil menonton berhala-berhala mereka sendiri berbalik m
 
 Itulah kebenaran pahit yang terkubur di dua pasal ini, dan layak direnungkan pelan-pelan: rasa sakit tidak otomatis menghasilkan iman. Jatuh sampai ke dasar tidak otomatis membangunkan siapa pun. Kamu mungkin sudah pernah melihat versi kecilnya — seseorang yang disakiti berulang-ulang justru oleh hal yang tidak mau ia lepaskan, dan malah makin nekat. Penderitaan bisa memecahkan hampir apa saja. Tapi ia tidak bisa memecahkan hati yang sudah menjatuhkan pilihannya.
 
-{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" >}}
+{{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/teens/08-the-warnings-nobody-listens-to" >}}
 
 ## Gulungan kecil (Psl. 10) {#scroll}
 
@@ -195,7 +195,7 @@ Itu bukan detail iseng. Justru itulah inti seluruh pasal yang pendek dan aneh in
 
 Masa-masa sulit saja memang tidak akan pernah jadi hal yang mengubah siapa pun. Wahyu bukan cerita horor yang dirancang untuk menakut-nakuti orang supaya insaf. Yang menembus di tempat sembilan pasal bencana gagal adalah sebuah pesan — sesuatu yang harus benar-benar kamu terima, telan, endapkan, biarkan bekerja dalam dirimu dari dalam, manis dan pahitnya sekaligus. Yohanes diberi tahu bahwa ia masih harus bernubuat lagi, kepada banyak kaum dan bangsa dan bahasa dan raja. Hal berikutnya yang terjadi akan bersifat personal dengan cara yang tidak akan pernah bisa dicapai penghakiman.
 
-{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" >}}
+{{< story_links base="/quick/content/scroll" appl="/appl/content/scroll" expl="/expl/content/scroll/the-little-scroll" kids="/kids/teens/09-sweet-in-your-mouth-sour-in-your-stomach" >}}
 
 ## Dua saksi (Psl. 11) {#witnesses}
 
@@ -209,7 +209,7 @@ Lalu napas masuk ke dalam mereka, dan mereka berdiri. Semua yang menonton meliha
 
 Itu bukan plot twist yang diselipkan demi efek kejut — itu justru pola hidup yang diminta dari Gereja. Bukan jalan pintas mengitari penderitaan, bukan penyelamatan yang tiba sebelum rasa sakitnya datang. Melainkan berjalan lurus menembus bagian terburuknya — menembus ejekan, menembus kekalahan yang tampak total, menembus orang-orang yang merayakan kejatuhanmu — dan keluar di sisi lain, masih berdiri, masih bernapas, dibenarkan di depan orang-orang yang tadinya mengira mereka sudah menang. Kalau kamu pernah merasa berbuat benar cuma menjadikanmu bahan lelucon, pasal ini pengingatmu: cerita belum selesai di leluconnya.
 
-{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" >}}
+{{< story_links base="/quick/content/witnesses" appl="/appl/content/witnesses" expl="/expl/content/witnesses/the-two-witnesses" kids="/kids/teens/10-the-three-days-when-it-looked-like-you-lost" >}}
 
 ## Kemenangan Yesus (Psl. 12) {#jesus}
 
@@ -223,7 +223,7 @@ Perang langsung pecah di surga sesudahnya: Mikhael dan para malaikatnya melawan 
 
 Murka, dan kehabisan waktu yang ia tahu memang tidak ia punya, naga itu berbalik menyerang perempuan itu — dan ketika perempuan itu lolos, ia melampiaskan amarahnya kepada semua orang yang menjadi milik perempuan itu. Itu kamu, kalau kamu ada di pihak ini. Baca itu sebagai peringatan, tapi terutama baca itu sebagai kelegaan: mengalahkan naga itu tidak pernah, di titik mana pun, jadi tugasmu. Yesus sudah melakukannya, di surga, sebelum pertarungan ini turun menyentuh hidupmu. Tugasmu tidak pernah memenangkan perangnya. Tugasmu cuma terus menunjuk orang-orang kepada Dia yang sudah menang — bahkan sementara si naga, terdesak dan kehabisan waktu, menerjangmu lebih keras dari sebelumnya.
 
-{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" >}}
+{{< story_links base="/quick/content/jesus" appl="/appl/content/jesus" expl="/expl/content/jesus/a-different-christmas-story" kids="/kids/teens/11-the-christmas-story-with-a-dragon-in-it" >}}
 
 ## Naga dan dua binatang buas (Psl. 13) {#beasts}
 
@@ -237,7 +237,7 @@ Gabungkan keduanya dan kamu dapat tiruan murahan yang mengerikan dari yang asli 
 
 Tapi lihat sekali lagi, karena jahitannya sudah mulai kelihatan. Seluruh operasi ini berjalan di atas paksaan dan tipu daya — tidak ada yang ditawarkan dengan cuma-cuma, tidak ada yang bertahan tanpa ancaman yang menopangnya. Ia tidak bisa membangun satu hal pun yang benar-benar awet. Sementara itu yang ia tiru, sang Raja sejati, sudah menang, secara permanen, sebelum barang palsu ini sempat memanjat keluar dari laut. Tahu hal itu tidak bikin tekanannya lenyap. Tapi itu memberitahumu pihak mana yang benar-benar masih berdiri saat semua ini berakhir.
 
-{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/18-the-beast-the-number-and-why-666-isnt-about-you" >}}
+{{< story_links base="/quick/content/beasts" appl="/appl/content/beasts" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/12-the-beast-the-number-and-why-666-isnt-about-you" >}}
 
 ## Dua tuaian (Psl. 14) {#harvest}
 
@@ -251,7 +251,7 @@ Dua sabit mengayun melintasi bumi. Satu malaikat mengumpulkan tuaian gandum — 
 
 Inilah pasal di mana pilihan yang selama ini kamu tunda-tunda, yang juga diam-diam dihindari semua orang di sekitarmu, berhenti jadi sesuatu yang bisa kamu biarkan menggantung. Kebenaran berhenti jadi debat yang bisa kamu tonton dari pinggir. Semua orang akhirnya dituai. Satu-satunya pertanyaan sungguhan yang ditinggalkan pasal ini untukmu: kamu ada di tuaian yang mana.
 
-{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}
+{{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/13-two-harvests-and-which-one-youre-in" >}}
 
 ## Cawan-cawan murka (Psl. 15-16) {#bowls}
 
@@ -265,7 +265,7 @@ Cawan keenam mengeringkan Sungai Efrat untuk membuka jalan bagi raja-raja dari t
 
 Mereka sudah tamat. Mereka cuma belum tahu. Cawan ketujuh dituangkan ke udara itu sendiri, dan sebuah suara dari takhta berkata: sudah terlaksana. Kilat, guruh, gempa terdahsyat sejak manusia ada, kota-kota runtuh, hujan es cukup berat untuk meremukkan — dan bahkan saat itu, bahkan menghadapi semuanya, orang-orang mengutuki Allah dan tidak mau berbalik. Pasukan-pasukan di Harmagedon mengira mereka akan bertarung memperebutkan dunia. Yang akan mereka lakukan cuma menonton dunia itu berakhir.
 
-{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" >}}
+{{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/teens/14-when-knowing-better-changes-nothing" >}}
 
 ## Pelacur itu (Psl. 17-19) {#harlot}
 
@@ -281,7 +281,7 @@ Dan kemudian surga menggelar perayaannya sendiri — bukan atas gaun pesta, tapi
 
 Ini memang tidak pernah cuma kisah tentang bertahan dari tekanan. Dari awal ini selalu tentang sebuah pernikahan yang menunggu di seberangnya.
 
-{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/teens/19-babylon-falls" >}}
+{{< story_links base="/quick/content/harlot" appl="/appl/content/harlot" expl="/expl/content/harlot/who-is-the-harlot-babylon-part-1" kids="/kids/teens/15-babylon-falls" >}}
 
 ## Kerajaan seribu tahun (Psl. 20) {#1000y}
 
@@ -295,7 +295,7 @@ Lalu tiba momen yang dituju seluruh kitab ini sejak awal: takhta putih yang besa
 
 Inilah perhitungan terakhir. Bukan taktik menakut-nakuti — melainkan jawaban final yang sesungguhnya atas pertanyaan yang diajukan seluruh kisah ini sejak pasal satu: kamu sebenarnya milik siapa, ketika mengakuinya ada harganya?
 
-{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" >}}
+{{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/teens/16-the-thousand-years-that-isnt-a-countdown" >}}
 
 ## Langit baru dan bumi baru (Psl. 21-22) {#paradise}
 
@@ -309,4 +309,4 @@ Di tengah-tengahnya mengalir sebuah sungai, jernih seperti kristal, langsung dar
 
 Mempelai perempuan dan mempelai laki-laki, akhirnya bersama, untuk selamanya. Dan sekarang, setelah kamu tahu persis bagaimana akhirnya — pergilah dan hiduplah seolah kamu benar-benar memercayainya.
 
-{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/teens/20-the-ending-you-actually-want" >}}
+{{< story_links base="/quick/content/paradise" appl="/appl/content/paradise" expl="/expl/content/paradise/the-new-jerusalem" kids="/kids/teens/17-the-ending-you-actually-want" >}}
