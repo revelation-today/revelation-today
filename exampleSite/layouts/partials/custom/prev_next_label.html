@@ -1,20 +1,17 @@
 {{- /* Label for one prev/next arrow.
 
-       Kids lesson files are named NN-slug. Under /kids/lessons/ the arrow shows
-       "Lesson 15" on its own; in the age tracks the titles carry a Bible reference
-       instead of a number ("Rev. 15–18: Bad Things Don't Win"), so the number goes
-       in front and the title stays. Any other page keeps its plain title. */ -}}
+       Kids lesson files are named NN-slug, and their titles carry a Bible
+       reference rather than a number ("Rev. 17-18: Babylon Falls"), which says
+       nothing about where in the series you are heading. So every numbered kids
+       lesson shows "Lesson 15" on its own. Any other page keeps its plain title;
+       the full title is still on the link's title attribute. */ -}}
 {{- $page := .page -}}
 {{- $lesson := .lesson -}}
 {{- $label := $page.Title -}}
-{{- if $page.Weight -}}
-  {{- if in $page.RelPermalink "/kids/lessons/" -}}
-    {{- $label = printf "%s %d" $lesson $page.Weight -}}
-  {{- else -}}
-    {{- with $page.File -}}
-      {{- if findRE "^[0-9]{2}-" .BaseFileName -}}
-        {{- $label = printf "%d · %s" $page.Weight $page.Title -}}
-      {{- end -}}
+{{- if and $page.Weight (in $page.RelPermalink "/kids/") -}}
+  {{- with $page.File -}}
+    {{- if findRE "^[0-9]{2}-" .BaseFileName -}}
+      {{- $label = printf "%s %d" $lesson $page.Weight -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
