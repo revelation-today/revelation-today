@@ -52,6 +52,12 @@ layout: hextra-home
     link="expl"
   >}}
   {{< hextra/feature-card
+    title="Penerapan"
+    subtitle="Apa yang sebenarnya dituntut bagian ini darimu — satu halaman singkat per bab."
+    icon="heart"
+    link="appl"
+  >}}
+  {{< hextra/feature-card
     title="Untuk anak-anak"
     subtitle="Kisah yang sama, diceritakan sederhana untuk anak-anak."
     icon="academic-cap"

@@ -52,6 +52,12 @@ layout: hextra-home
     link="expl"
   >}}
   {{< hextra/feature-card
+    title="Uygulama"
+    subtitle="Metnin senden gerçekte ne istediği — her bölüm için kısa bir sayfa."
+    icon="heart"
+    link="appl"
+  >}}
+  {{< hextra/feature-card
     title="Çocuklar için"
     subtitle="Aynı hikâye, çocuklar için sade bir şekilde anlatılmış."
     icon="academic-cap"

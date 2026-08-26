@@ -52,6 +52,12 @@ layout: hextra-home
     link="expl"
   >}}
   {{< hextra/feature-card
+    title="Application"
+    subtitle="What the passage actually asks of you — one short page per chapter."
+    icon="heart"
+    link="appl"
+  >}}
+  {{< hextra/feature-card
     title="Kids"
     subtitle="The same story, retold simply for children."
     icon="academic-cap"

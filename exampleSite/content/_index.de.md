@@ -51,6 +51,12 @@ layout: hextra-home
     link="expl"
   >}}
   {{< hextra/feature-card
+    title="Anwendung"
+    subtitle="Was der Text konkret von dir will — eine kurze Seite pro Kapitel."
+    icon="heart"
+    link="appl"
+  >}}
+  {{< hextra/feature-card
     title="Für Kinder"
     subtitle="Dieselbe Geschichte, einfach erzählt für Kinder."
     icon="academic-cap"
