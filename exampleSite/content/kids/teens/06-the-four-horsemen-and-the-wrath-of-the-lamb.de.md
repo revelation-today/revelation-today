@@ -6,7 +6,7 @@ audience_group: "teens"
 audience_track: "teens"
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /kids/teens/05-worship-fixes-everything
-next: /kids/teens/12-the-beast-the-number-and-why-666-isnt-about-you
+next: /kids/teens/07-the-crowd-nobody-could-count
 ---
 
 > **Geschichte zum Vorlesen:** [The Seals]({{< relref "story/teens/tour#seals" >}})  

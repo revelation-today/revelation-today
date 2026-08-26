@@ -5,8 +5,8 @@ docType: kids
 audience_group: "teens"
 audience_track: "teens"
 expl: /expl/content/beasts/666-the-number-of-the-beast
-prev: /kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb
-next: /kids/teens/15-babylon-falls
+prev: /kids/teens/11-the-christmas-story-with-a-dragon-in-it
+next: /kids/teens/13-two-harvests-and-which-one-youre-in
 ---
 
 > **Geschichte zum Vorlesen:** [The Dragon and the Two Beasts]({{< relref "story/teens/tour#beasts" >}})  

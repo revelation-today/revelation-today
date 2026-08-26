@@ -5,8 +5,8 @@ docType: kids
 audience_group: "teens"
 audience_track: "teens"
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
-prev: /kids/teens/12-the-beast-the-number-and-why-666-isnt-about-you
-next: /kids/teens/17-the-ending-you-actually-want
+prev: /kids/teens/14-when-knowing-better-changes-nothing
+next: /kids/teens/16-the-thousand-years-that-isnt-a-countdown
 ---
 
 > **Cerita untuk dibacakan:** [The Harlot]({{< relref "story/teens/tour#harlot" >}})  

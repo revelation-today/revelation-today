@@ -5,7 +5,7 @@ docType: kids
 audience_group: "teens"
 audience_track: "teens"
 expl: /expl/content/paradise/the-new-jerusalem
-prev: /kids/teens/15-babylon-falls
+prev: /kids/teens/16-the-thousand-years-that-isnt-a-countdown
 ---
 
 > **Geschichte zum Vorlesen:** [New Heaven and New Earth]({{< relref "story/teens/tour#paradise" >}})  
