@@ -3,7 +3,7 @@ title: "Herkesin Kabul Ettiği Teklif (Arka Plan)"
 weight: 0
 appl: /appl/content/vision
 expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
-kids: /kids/lessons/teens/intro/01-your-own-pax-romana
+kids: /kids/lessons/teens/01-your-own-pax-romana
 prev: /story/teens/tour
 next: /story/teens/content/vision
 docType: story

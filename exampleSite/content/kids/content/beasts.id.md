@@ -1,7 +1,6 @@
 ---
 title: "Naga dan Kedua Binatang (Pasal 13)"
 weight: 100
-story: /story/general/tour
 appl: /appl/content/beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /kids/content/jesus

@@ -1,7 +1,6 @@
 ---
 title: "Gulungan Kecil (Pasal 10)"
 weight: 70
-story: /story/general/tour
 appl: /appl/content/scroll
 expl: /expl/content/scroll/the-little-scroll
 prev: /kids/content/trumpets

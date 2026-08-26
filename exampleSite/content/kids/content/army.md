@@ -1,7 +1,6 @@
 ---
 title: "God's Army (Ch. 7)"
 weight: 50
-story: /story/general/tour
 appl: /appl/content/army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 prev: /kids/content/seals

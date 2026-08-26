@@ -1,7 +1,6 @@
 ---
 title: "The Two Witnesses (Ch. 11)"
 weight: 80
-story: /story/general/tour
 appl: /appl/content/witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /kids/content/scroll

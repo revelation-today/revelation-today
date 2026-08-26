@@ -4,7 +4,7 @@ weight: 110
 base: /quick/content/harvest
 appl: /appl/content/harvest
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
-kids: /kids/lessons/elementary/conflict/12-the-two-harvests
+kids: /kids/lessons/elementary/12-the-two-harvests
 prev: /story/disillusioned/content/beasts
 next: /story/disillusioned/content/bowls
 docType: story

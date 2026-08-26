@@ -3,7 +3,7 @@ title: "Tanrı Olmak İsteyen İmparator (Arka Plan)"
 weight: 0
 appl: /appl/content/vision
 expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
-kids: /kids/lessons/elementary/intro/01-who-is-really-in-charge
+kids: /kids/lessons/elementary/01-who-is-really-in-charge
 prev: /story/elementary/tour
 next: /story/elementary/content/vision
 docType: story
