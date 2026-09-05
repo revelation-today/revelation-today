@@ -11,7 +11,7 @@ appl: /appl/content/1000y
 sources: 
     - pages: 972–1031
       ref: beale_rev
-    - pages: 1084–1090
+    - pages: 1084–1093
       ref: aune_rev
     - ref: bock_millennium
 ---
@@ -38,15 +38,31 @@ Bütün tartışmanın en keskin noktası budur ve premilenyalizmin en güçlü 
 
 {{% bible val="Vahiy 20:4–5" link="rev:20,4-5" lang="tr" %}} şehitlerin *dirildiğini* ve Mesih'le birlikte hüküm sürdüğünü, birkaç kelime sonra da ölülerin geri kalanının bin yıl tamamlanana dek *dirilmediğini* söyler. Yunanca fiil her iki cümlecikte de aynıdır: **ἔζησαν**.
 
-**Premilenyal argüman.** İkincisinin mezardan bedensel diriliş anlamına geldiğinde herkes hemfikir. Öyleyse birincisi de öyle olmalı — ve birincisi bedensel bir dirilişse, bin yıldan önce gerçekleşir ve iki bedensel diriliş arasında bin yıl vardır. Henry Alford'un 19. yüzyıldan kalma formülasyonu hâlâ başvurulan formülasyondur: aynı fiil, aynı cümle içinde, bir cümlecikte ruhsal dirilmek, hemen sonrakinde bedensel dirilmek anlamına gelebiliyorsa, dil artık kesin hiçbir şey aktarmıyor demektir. Premilenyalistler, Vahiy'in bu fiili Mesih'in kendi bedensel dirilişi için kullandığını eklerler — {{% bible val="ölmüştüm, ama işte sonsuzluklar boyunca diriyim" link="rev:1,18" lang="tr" %}} ve yine {{% bible val="ölmüş ve yaşama dönmüş olan" link="rev:2,8" lang="tr" %}} için — dolayısıyla kitabın kendi kullanımı mecaza değil, gerçek dirilişe işaret eder.
+**Premilenyal argüman.** İkincisinin mezardan bedensel diriliş anlamına geldiğinde herkes hemfikir. Öyleyse birincisi de öyle olmalı — ve birincisi bedensel bir dirilişse, bin yıldan önce gerçekleşir ve iki bedensel diriliş arasında bin yıl vardır. Henry Alford'un 19. yüzyıldan kalma formülasyonu hâlâ başvurulan formülasyondur: aynı fiil, aynı cümle içinde, bir cümlecikte ruhsal dirilmek, hemen sonrakinde bedensel dirilmek anlamına gelebiliyorsa, dil artık kesin hiçbir şey aktarmıyor demektir. Premilenyalistler sonra kitabın kendi kullanımına işaret ederler; bu kullanım göründüğünden dardır. Bu aorist biçim bütün Yeni Antlaşma'da yalnızca yedi kez geçer ve dördü Vahiy'dedir. Bu dördün ikisi tartışmalı değildir: {{% bible val="ölmüştü ve yaşama döndü" link="rev:2,8" lang="tr" %}}, Mesih için; ve {{% bible val="kılıç yarası iyileşip yaşama dönen" link="rev:13,14" lang="tr" %}} canavar için. İkisi de ölümden dönüşü anlatır. Aune'nin yorumu — bu ayetlerin ölçüt sayılan eleştirel incelemesi ve bu sayfanın kaynaklarından biri — aynı sonuca varır ve daha da ileri gider: fiil burada "ölümden diriltilmiş" anlamını taşır ve iki diriliş fikri ne kadar sorunlu olursa olsun, yazarın tam da bunu formüle ettiği sonucundan kaçınmak güçtür.
 
-**Amilenyal yanıt** üç bölümden oluşur ve genellikle kendisine tanınandan daha sağlamdır.
+**Amilenyal yanıt** dört bölümden oluşur ve genellikle kendisine tanınandan daha sağlamdır.
 
 - 4. ayetteki fiilin öznesi bedenler değil, **canlardır** — Yuhanna "başları kesilmiş olanların canlarını" görür. Canların dirilip hüküm sürmesi, bir şehidin ölümde başına gelenin doğal bir betimlemesidir; bir bedenin mezardan çıkmasının değil.
 - "Birinci" sözcüğü sayı saymıyor, yapısal bir iş görüyor. Vahiy *birinci* ve *ikinci* sözcüklerini bir dizideki iki öğeyi değil, iki **düzeni** işaretlemek için kullanır: {{% bible val="birinci gök ve birinci yeryüzü" link="rev:21,1" lang="tr" %}} geçip giden eski düzendir. Öyleyse "birinci diriliş" eski düzene ait olandır — imanlının ölümde Mesih'le yaşama geçişi — ve "ikinci ölüm" yeni düzene ait olan ölümdür. İki çift bilerek çaprazlanmıştır; metin bu yüzden birinci dirilişte olanlara {{% bible val="ikinci ölümün onlar üzerinde yetkisi olmadığını" link="rev:20,6" lang="tr" %}} vaat edebilir.
 - Bir fiil tek bir anlamı — *dirilmek* — koruyabilirken dirilen şey değişebilir. Canlar ölümde dirilir; bedenler sonda.
+- Ve Vahiy bu fiili başka bir yerde ruhsal yaşam için kullanır. Sart'a: {{% bible val="yaşıyorsun diye ad yapmışsın, ama ölüsün" link="rev:3,1" lang="tr" %}} — 20:4–5'teki diri/ölü eşleşmesinin aynısı ve besbelli bedenlerden söz etmiyor.
+
+**Bir kanıt daha ve iki taraf da onu sahipleniyor.** Vahiy'de Tanrı'nın kullarının anlatı içinde açıkça ölümden döndüğü tek yer iki tanıktır — ve Yuhanna bunu bu fiili hiç kullanmadan anlatır: {{% bible val="Tanrı'dan gelen bir yaşam soluğu onlara girdi ve ayakları üzerinde durdular" link="rev:11,11" lang="tr" %}}. Burada {{% bible val="Hezekiel 37:10" link="ezk:37,10" lang="tr" %}}'u alıntılıyor; Yunancasında şöyle geçer: "soluk onlara girdi **ve dirildiler** ve ayakları üzerinde durdular". Yuhanna girmeyi ve ayağa kalkmayı neredeyse kelimesi kelimesine korur, ortadaki fiili ise atar. Demek ki bu, diriltilmiş beden için onun sabit deyişi değil ve 20:4'te bu fiili seçmesi zorunlu değildi — ama aynı ölçüde, orada aynı şeyi kastetseydi 20:4'ü 11:11 gibi yazardı diye de savunulamaz.
 
 **Geriye ne kalıyor.** Amilenyal yanıt tutarlıdır ve "birinci/ikinci" gözlemi gerçekten zariftir. Ama cümlenin daha bariz okumasının premilenyalizmde olduğunu ve amilenyalizmin geri kalan çerçevesini korumak için burada bir bedel ödediğini söylemek adildir. Bu bedeli fazla bulan okur genellikle premilenyalist olur — ve bunu yaparken özensiz davranmış olmaz.
+
+## Temayı asıl taşıyan ne
+
+<a name="8b6d"></a>
+Tek bir fiilin peşine düşmek yanıltabilir; çünkü Vahiy ölüm-ve-yaşam temasını çoğunlukla bir sözcükle değil, bir görüntüyle taşır: **boğazlanmış, ve ayakta.**
+
+Görüntü kitabın merkezine yerleştirilir — {{% bible val="boğazlanmış gibi duran bir Kuzu" link="rev:5,6" lang="tr" %}} — ve sonra O'nu izleyen herkese devredilir. Sunağın altındaki şehitler, Kuzu için kullanılan sıfat-fiilin aynısını alır: {{% bible val="boğazlanmış olanların canları" link="rev:6,9" lang="tr" %}}. Büyük sıkıntıdan çıkan sayısız kalabalık {{% bible val="tahtın önünde durmaktadır" link="rev:7,9" lang="tr" %}}. İki tanık {{% bible val="ayakları üzerinde durdu" link="rev:11,11" lang="tr" %}}. 144.000 kişi {{% bible val="Siyon Dağı'nda Kuzu'yla birlikte durmaktadır" link="rev:14,1" lang="tr" %}}, canavarı yenenler {{% bible val="cam denizin başında durmaktadır" link="rev:15,2" lang="tr" %}} ve sonunda ölüler {{% bible val="tahtın önünde durur" link="rev:20,12" lang="tr" %}}.
+
+Ayakta durmak, öldürüldükten sonraki aklanmanın duruşudur ve önce İsa'ya, sonra O'nun halkına aittir.
+
+Sahtesi de yanı sıra ilerler — ve hangisinin düz sözcüğü kullandığına dikkat edin. Canavarın {{% bible val="ölümcül biçimde boğazlanmış gibi duran ve ölümcül yarası iyileşen" link="rev:13,3" lang="tr" %}} bir başı vardır ve {{% bible val="yaşama döndü" link="rev:13,14" lang="tr" %}}. Canavarın dirilişi *söylenir*; kilisenin dirilişi *gösterilir*.
+
+Bunu izleyen tartışma boyunca akılda tutmaya değer, çünkü hiçbir tarafın Vahiy 20'yi bir konkordansla çözemeyeceği anlamına gelir. 20:4 ne anlama gelirse gelsin, kitabın okurları için taşıdığı umut o tek ayette saklı değildir. Tanıklık uğruna öldürülen birinin sonunda ayağa kalktığı her sahneye dağılmıştır.
 
 ## Düğüm 2: "bağlandı" ne demek
 
@@ -70,7 +86,7 @@ Birincisi, **20:10 geriye, 19:20'ye bakıyor gibidir**. İblis ateş gölüne at
 
 İkincisi ve daha ağır olanı, **Vahiy 20 Hezekiel'in sırasını izler**. Hezekiel kuru kemiklerin dirilişinden (37), Gog ve Magog'un saldırısına (38–39), oradan tapınağa ve onarılmış kente (40–48) geçer. Vahiy 20 dirilip hüküm sürmekten (20:4), Gog ve Magog'a (20:8), oradan kente (21–22) geçer — ve Gog ile Magog'u açıkça adlandırır ki bu yaygın bir Eski Antlaşma ifadesi değildir. Yuhanna bir kaynağın sırasını izliyorsa, bu sıralamanın kanıtıdır.
 
-**Amilenyal yanıt.** Yinelemeli anlatım bu bölüm için icat edilmiş bir araç değil; kitabın olağan alışkanlığıdır ve {{% int_link val="önceki yazıda" link="/expl/content/1000y/the-thousand-year-kingdom" %}} uzun uzun gerekçelendirilir. 12. bölüm Şeytan'ın düşüşünü ve kilisenin korunduğu dönemi zaten anlatmıştır; 20. bölüm aynı şeyi başka bir açıdan yeniden anlatır. Belirleyici nokta şudur: 19. bölümdeki savaş da 20. bölümdeki savaş da {{% bible val="Hezekiel 38" link="ezk:38" lang="tr" %}}–{{% bible val="39" link="ezk:39" lang="tr" %}}'daki tek son savaştan beslenir. Bunlar iki ayrı savaşsa, Yuhanna tek bir Eski Antlaşma savaşını iki ayrı olay için iki kez kullanmış olur. Hezekiel'in sırasına gelince: benzerlik tematiktir — Yuhanna kitap boyunca Hezekiel'den yararlanır ama onu bölüm bölüm izlemez.
+**Amilenyal yanıt.** Yinelemeli anlatım bu bölüm için icat edilmiş bir araç değil; kitabın olağan alışkanlığıdır ve {{% int_link val="önceki yazıda" link="/expl/content/1000y/the-thousand-year-kingdom" %}} uzun uzun gerekçelendirilir. 12. bölüm Şeytan'ın düşüşünü ve kilisenin korunduğu dönemi zaten anlatmıştır; 20. bölüm aynı şeyi başka bir açıdan yeniden anlatır. Belirleyici nokta şudur: 19. bölümdeki savaş da 20. bölümdeki savaş da {{% bible val="Hezekiel 38" link="ezk:38" lang="tr" %}}–{{% bible val="39" link="ezk:39" lang="tr" %}}'daki tek son savaştan beslenir. Bunlar iki ayrı savaşsa, Yuhanna tek bir Eski Antlaşma savaşını iki ayrı olay için iki kez kullanmış olur. Hezekiel'in sırasına gelince: benzerlik tematiktir — Yuhanna kitap boyunca Hezekiel'den yararlanır ama onu bölüm bölüm izlemez. Ve somut bir örnek var: Hezekiel'in kuru kemikler vadisi, diziyi açan diriliş bölümüdür ve Yuhanna onu çoktan kullanmıştır: milenyumdan dokuz bölüm önce, {{% bible val="11:11" link="rev:11,11" lang="tr" %}}'de, neredeyse kelimesi kelimesine alıntılayarak. Hezekiel'in sırasını izliyor olsaydı, dizinin ilk hamlesini erken harcamış olurdu.
 
 **Geriye ne kalıyor.** Hezekiel argümanı iki yöne birden keser ve bu tartışmanın neden sürdüğünü iyi gösterir: aynı imalar dizisi "sırayla iki savaş" ile "iki kez anlatılan tek savaş" görüşlerini aşağı yukarı eşit derecede destekler; hangisini doğal bulduğunuz, kitabın ne kadar yineleme yaptığını baştan ne kadar kabul ettiğinize bağlıdır.
 
@@ -100,7 +116,7 @@ Bu son alışveriş, premilenyalizmin gündeme getirdiği {{% bible val="Yeşaya
 <a name="c5e2"></a>
 {{% int_link val="Önceki yazı" link="/expl/content/1000y/the-thousand-year-kingdom" %}} amilenyalizmi savunur; başlıca 2. ve 3. düğümler üzerinden: bağlanmanın açıkça belirtilmiş bir kapsamı vardır ve aynı Hezekiel savaşının hem 19. hem 20. bölümün arkasında durması, bunlar iki ayrı olaysa açıklanması güçtür. Buna 20. bölümün, 12. bölümdeki Şeytan'ın düşüşü anlatısını ne kadar yakından izlediğini de ekleyin. Yinelemeli okuma, kitabın geri kalanından en az şey isteyen okumadır.
 
-Dürüst bedel 1. düğümdür. Tek bir fiilin, birkaç kelime arayla iki kez, iki farklı türde dirilme anlamına gelmesi, amilenyalizmin okurdan istediği en zor şeydir — ve yukarıdaki yanıt, bedenler değil canlar, iki düzeni işaretleyen "birinci/ikinci", bir argümandır; kesin bir darbe değil. O cümleyi kitabın yineleme alışkanlığından daha ağır tartan okur premilenyalist olur ve bunu yaparken düzgün akıl yürütmüş olur.
+Dürüst bedel 1. düğümdür. Tek bir fiilin, birkaç kelime arayla iki kez, iki farklı türde dirilme anlamına gelmesi, amilenyalizmin okurdan istediği en zor şeydir — ve yukarıdaki yanıt, bedenler değil canlar, iki düzeni işaretleyen "birinci/ikinci", bir argümandır; kesin bir darbe değil. Ve açıkça söylenmeli: bu sayfanın kaynakları arasında yer alan Aune'nin yorumu, bu düğümü burada savunulan okumanın aleyhine karara bağlar. O cümleyi kitabın yineleme alışkanlığından daha ağır tartan okur premilenyalist olur ve bunu yaparken düzgün akıl yürütmüş olur.
 
 {{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources/index.html#bock_millennium" %}} her savın, onu gerçekten benimseyen biri tarafından tam gücüyle ortaya konduğu ve ötekilerin yanıt verdiği yerdir — bu tartışmanın yapılmaya değer olduğu tek biçim.
 
