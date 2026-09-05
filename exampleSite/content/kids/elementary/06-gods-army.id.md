@@ -68,6 +68,20 @@ tetap mungkin terjadi — tapi tidak ada satu pun yang bisa mengubah kepemilikan
 **Ayat hafalan:** „Keselamatan bagi Allah kami yang duduk di atas takhta dan bagi Anak Domba!"
 (Wahyu 7,10)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Kamu berada di suatu tempat dalam kumpulan besar yang tidak dapat dihitung siapa pun.
+
+Lihat ke kiri dan ke kanan. Siapa yang berdiri di sebelahmu? Dari mana asalnya? Nyanyian itu
+dalam bahasa apa — dan apakah kamu tetap mengerti?
+
+Lihat jubahmu. Sekarang putih. Seperti apa sebelumnya, sebelum dicuci?
+
+Sekarang angkat wajahmu. Ada seseorang berjalan menembus kerumunan sambil menghapus air mata
+dari wajah orang-orang. Perhatikan Dia semakin dekat.
+
 ## 7. Doa
 
 Tuhan, terima kasih karena pasukan-Mu berasal dari segala bangsa, dan kami boleh ada di

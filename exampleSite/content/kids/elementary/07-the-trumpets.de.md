@@ -80,6 +80,20 @@ Geheimnis, das Geheimnis der Gemeinde. Nächstes Mal beginnt das zweite: das Geh
 
 **Merkvers:** „Die Gebete der Heiligen stiegen vor Gott empor." (nach Offenbarung 8,4)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Bevor eine einzige Posaune ertönt, nimmt ein Engel eine goldene Schale voll mit den Gebeten
+von Gottes Leuten und schüttet sie ins Feuer, und der Rauch steigt auf.
+
+Denk an eine Sache, für die du diese Woche wirklich gebetet hast. Eine echte.
+
+Und jetzt sieh zu, wie sie in diese Schale kommt. Sieh zu, wie der Rauch sie hochträgt.
+Wonach riecht das?
+
+Von dort kommen die Posaunen. Dein Gebet war mit drin.
+
 ## 7. Gebet
 
 Gott, danke, dass unsere Gebete wirklich bei dir ankommen und wirklich etwas bewirken. Zeig uns,

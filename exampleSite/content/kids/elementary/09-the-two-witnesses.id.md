@@ -85,6 +85,20 @@ pengambilalihan sudah lama terjadi.
 
 **Ayat hafalan:** „Pemerintahan atas dunia dipegang oleh Tuhan kita." (Wahyu 11,15)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Kamu berdiri di jalan. Kedua saksi itu sudah tiga hari terbaring di sana, dan orang-orang
+saling mengirim hadiah karenanya.
+
+Lalu keduanya bangkit berdiri.
+
+Lihat wajah-wajah di sekitarmu. Apa yang terjadi pada mereka?
+
+Sekarang bertukar tempat. Kamu salah satu dari keduanya. Bagian mana yang paling berat —
+berbicara, atau terbaring diam dan menunggu?
+
 ## 7. Doa
 
 Tuhan Yesus, terima kasih karena Engkau paling kuat justru saat Engkau tampak paling lemah.

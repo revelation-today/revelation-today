@@ -70,6 +70,26 @@ Bukan „siapa yang tinggal di Efesus". Ketujuhnya ditujukan kepada semua orang.
 
 **Ayat hafalan:** „Lihat, Aku berdiri di muka pintu dan mengetok." (Wahyu 3,20)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Setiap dari ketujuh surat itu dimulai dengan Yesus mengambil satu bagian dari gambaran di
+pasal 1 — bagian yang dibutuhkan jemaat itu. Kepada mereka yang ketakutan, Dia datang sebagai
+Dia yang mati dan hidup kembali. Kepada mereka yang suam-suam kuku, sebagai Dia yang matanya
+seperti nyala api.
+
+Jadi: bagaimana Dia akan datang kepadamu?
+
+Apa yang akan Dia kenakan? Apa yang akan Dia pegang? Bagian mana yang pertama kali kamu
+perhatikan — mata-Nya, suara-Nya, tangan-Nya?
+
+Dan kalau Dia menulis namamu di bagian atas sebuah surat, kira-kira apa bunyi baris
+pertamanya?
+
+Apa pun yang terlintas, bandingkan dengan Yesus yang ada di Injil. Kalau tidak terdengar
+seperti Dia, lepaskan saja.
+
 ## 7. Doa
 
 Tuhan Yesus, terima kasih karena Engkau tahu apa yang kami kerjakan sebelum Engkau menegur

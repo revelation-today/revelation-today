@@ -71,6 +71,20 @@ Nicht „wir haben den Kampf gewonnen." Geschehen. Fertig. Dasselbe Wort, das Je
 
 **Merkvers:** „Es ist geschehen." (Offenbarung 16,17)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+In diesem Kapitel geht es um Gottes Zorn. Schau ihm deshalb direkt ins Gesicht, während die
+Schalen ausgegossen werden.
+
+Schreit er? Genießt er es? Ist er in Rage?
+
+Schau noch einmal hin. Wie sieht er aus, wenn die Menschen, die er gemacht hat, sich immer
+weiter weigern umzukehren?
+
+Traurig darf eine Antwort sein. Und etwas, wofür du noch kein Wort hast, auch.
+
 ## 7. Gebet
 
 Gott, danke, dass dein Zorn deine Weigerung ist, aufzugeben, bevor alles in Ordnung ist. Danke,

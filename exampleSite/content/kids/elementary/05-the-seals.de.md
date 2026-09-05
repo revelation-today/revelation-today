@@ -79,6 +79,20 @@ dran, und es sieht ganz anders aus, als man denkt.
 
 **Merkvers:** „Das Lamm ist würdig, die Buchrolle zu öffnen." (nach Offenbarung 5,9)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Die Pferde sind laut und der Himmel wird dunkel — schau deshalb einen Moment woanders hin.
+Schau den an, der die Rolle öffnet.
+
+Es ist das Lamm. Die Spuren seines eigenen Todes sind noch an ihm.
+
+Stell dir seine Hände am Siegel vor. Und jetzt schau ihm ins Gesicht. Ist er wütend? Hat er
+es eilig? Ist er traurig?
+
+Und wen schaut er an, während er öffnet?
+
 ## 7. Gebet
 
 Jesus, danke, dass du die Wahrheit darüber sagst, was wirklich böse ist, auch wenn es aufregend

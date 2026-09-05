@@ -83,6 +83,20 @@ Zweiundzwanzig Kapitel Drachen, Tiere, Posaunen und Schalen — und das letzte W
 **Merkvers:** „Siehe, die Wohnung Gottes bei den Menschen! Und er wird bei ihnen wohnen."
 (Offenbarung 21,3)
 
+## Schau selbst hin
+
+*Nimm dir für diese hier mehr Zeit. Es ist das letzte Mal, dass du hinschauen darfst.*
+
+Die Stadt kommt herunter und Gott zieht ein, und das Erste, was er tut, ist keine Rede. Er
+geht herum und wischt Gesichter ab.
+
+Mach die Augen zu. Er kommt zu dir. Was wischt er weg?
+
+Und jetzt schau hoch und hinaus. Was willst du als Erstes sehen? Wonach riechen die Früchte
+an dem Baum? Wer kommt da durchs Tor, auf den du gewartet hast?
+
+Und das Allerletzte im Buch ist eine Einladung: *„Komm."* Was willst du darauf antworten?
+
 ## 8. Gebet
 
 Vater, danke, dass das Ende darin besteht, dass du bei uns wohnst. Danke, dass du alles neu machst,

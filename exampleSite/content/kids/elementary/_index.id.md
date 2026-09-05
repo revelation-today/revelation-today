@@ -35,6 +35,33 @@ bahwa Yesus sudah menang dan mereka boleh berhenti takut.
 Di mana kitab ini memang aneh, kami mengatakannya. Di mana orang dewasa berbeda pendapat, itu
 pun kami katakan.
 
+## Melihat, bukan hanya mendengar
+
+Setiap pelajaran punya satu bagian pendek berjudul **Lihat sendiri**. Bagian ini mengajak
+anak-anak berdiri di dalam gambaran itu selama satu dua menit dan mengatakan apa yang mereka
+lihat, dengar, atau cium.
+
+Ini bukan teknik khusus dan bukan perlombaan. Wahyu tidak datang sebagai ceramah — Yohanes
+disuruh *melihat*, lalu menuliskan apa yang dilihatnya. Membacanya dengan mata terpejam
+berarti membacanya persis seperti kitab itu diberikan, dan anak-anak sudah lebih pandai
+melakukannya daripada kebanyakan orang dewasa.
+
+Tiga hal menjaga agar ini tetap sehat:
+
+- **Tidak ada yang wajib menghasilkan sesuatu.** Diam adalah jawaban yang sangat baik, begitu
+  juga "Aku tidak melihat apa-apa." Jangan pernah berkeliling dan menuntut giliran dari setiap
+  anak.
+- **Apa yang dibayangkan seorang anak bukanlah Alkitab.** Alkitablah ukurannya. Kalau sesuatu
+  tidak terdengar seperti Yesus yang ada di Injil, letakkan dengan lembut ke samping — dan
+  katakan dengan suara keras bahwa beginilah orang Kristen selalu mengujinya.
+- **Nubuat di sini berarti menunjuk kepada Yesus.** Wahyu sendiri mengatakannya: "kesaksian
+  Yesus adalah roh nubuat" (19:10). Ini bukan soal menebak masa depan. Kalau apa yang dilihat
+  seorang anak membuat Yesus tampak lebih besar, bagian ini sudah bekerja sebagaimana
+  mestinya.
+
+Sebagian anak akan bercerita banyak, sebagian lain tidak berkata apa-apa selama enam belas
+minggu. Keduanya tidak masalah.
+
 ## Lima bagian
 
 1. **Pengantar & Latar Belakang** — dunia tempat Wahyu ditulis, dan penglihatan pembuka

@@ -85,6 +85,19 @@ expense.
 **Memory verse:** "This calls for patient endurance and faithfulness on the part of God's
 people." (Revelation 13:10)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+Put the two of them side by side: the Lamb, and the beast that is copying him.
+
+Look carefully. What gives the copy away? It is not the size, and it is not the noise.
+
+Now look at the marks. The beast's mark goes on the hand and the forehead — on what you *do*
+and on what you *think*. God's mark goes on the forehead too.
+
+Where would somebody watching you this week have seen God's name written?
+
 ## 8. Prayer
 
 Jesus, thank you that you are the real one and not a copy. Help us to listen to how things

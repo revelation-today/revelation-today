@@ -72,6 +72,19 @@ Not "we won the fight." Done. Finished. The same word Jesus said on the cross.
 
 **Memory verse:** "It is done." (Revelation 16:17)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+This chapter is about God being angry, so look straight at his face while the bowls are being
+poured out.
+
+Is he shouting? Is he enjoying it? Has he lost his temper?
+
+Look again. What does he look like when the people he made keep refusing to turn round?
+
+Sad is allowed as an answer. So is something you do not have a word for yet.
+
 ## 7. Prayer
 
 God, thank you that your anger is you refusing to give up on putting things right. Thank you

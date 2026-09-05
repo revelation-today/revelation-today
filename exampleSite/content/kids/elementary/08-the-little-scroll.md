@@ -70,6 +70,20 @@ and we could not handle it without knowing who is holding it.
 **Memory verse:** "I took the little scroll and ate it. It tasted as sweet as honey."
 (Revelation 10:10)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+The angel holds out the little scroll and says: eat it.
+
+Take it. What does it feel like in your hands — heavy, light, warm?
+
+Put it in your mouth. It is sweet, like honey. Stay with the sweet part a moment: what is the
+good news in it?
+
+Then it turns. Where in you do you feel that? What is the hard part of knowing what you now
+know?
+
 ## 7. Prayer
 
 God, thank you that your words are sweet. Help us not just to know them but to take them in,

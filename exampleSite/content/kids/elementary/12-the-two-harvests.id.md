@@ -76,6 +76,19 @@ karena tidak sengaja.
 **Ayat hafalan:** „Yang penting di sini ialah ketekunan orang-orang kudus, yang menuruti perintah
 Allah dan iman kepada Yesus." (Wahyu 14,12)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Ada sebuah nyanyian di sini yang hanya bisa dipelajari oleh satu kelompok, dan mereka bisa
+mempelajarinya karena apa yang telah mereka lalui bersama Yesus.
+
+Dengarkanlah. Menurutmu tentang apa nyanyian itu? Keras atau lembut? Cepat atau lambat?
+
+Sekarang lihat dua ladang yang menunggu dituai. Di ladang mana kamu berdiri?
+
+Siapa yang berdiri bersamamu — dan adakah orang yang ingin kamu ajak menyeberang?
+
 ## 7. Doa
 
 Tuhan Yesus, terima kasih karena setia sudah cukup — kami tidak harus pintar atau kuat. Terima

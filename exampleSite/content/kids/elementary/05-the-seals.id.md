@@ -70,6 +70,20 @@ jawabannya adalah: kalian.
 
 **Ayat hafalan:** „Berapa lamakah lagi, ya Penguasa yang kudus dan benar?" (Wahyu 6,10)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Kuda-kuda itu berisik dan langit menjadi gelap, jadi lihatlah ke tempat lain sejenak.
+Lihatlah siapa yang membuka gulungan itu.
+
+Dia adalah Anak Domba. Bekas kematian-Nya sendiri masih ada pada-Nya.
+
+Bayangkan tangan-Nya di atas meterai itu. Sekarang lihat wajah-Nya. Apakah Dia marah? Apakah
+Dia terburu-buru? Apakah Dia sedih?
+
+Dan kepada siapa Dia memandang sementara Dia membukanya?
+
 ## 7. Doa
 
 Tuhan Yesus, dunia ini kadang menakutkan, dan Engkau tidak berpura-pura tidak. Terima kasih

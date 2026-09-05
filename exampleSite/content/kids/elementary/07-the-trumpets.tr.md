@@ -64,6 +64,19 @@ Uyarı ancak duyulursa işe yarar.
 
 **Ezber ayeti:** „Buhurun dumanı kutsalların dualarıyla birlikte Tanrı'nın önüne yükseldi." (Vahiy 8,4)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Tek bir borazan bile çalmadan önce, bir melek Tanrı'nın halkının dualarıyla dolu altın bir
+tası alıp ateşe boşaltıyor ve duman yükseliyor.
+
+Bu hafta gerçekten dua ettiğin bir şeyi düşün. Gerçek bir şey.
+
+Şimdi onun o tasa girişini izle. Dumanın onu yukarı taşıyışını izle. Nasıl kokuyor?
+
+Borazanlar oradan geliyor. Senin duan da içindeydi.
+
 ## 7. Dua
 
 Rab, cezalandırmadan önce uyardığın ve bize zaman kalsın diye kendini sınırladığın için teşekkür

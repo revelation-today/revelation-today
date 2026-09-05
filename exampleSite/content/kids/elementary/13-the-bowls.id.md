@@ -71,6 +71,20 @@ salib.
 
 **Ayat hafalan:** „Sudah terlaksana." (Wahyu 16,17)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Pasal ini tentang murka Allah, jadi pandanglah wajah-Nya langsung sementara cawan-cawan itu
+dicurahkan.
+
+Apakah Dia berteriak? Apakah Dia menikmatinya? Apakah Dia kehilangan kendali?
+
+Lihat sekali lagi. Seperti apa wajah-Nya ketika manusia yang Dia ciptakan terus-menerus
+menolak untuk berbalik?
+
+Sedih boleh menjadi jawaban. Begitu juga sesuatu yang belum ada katanya bagimu.
+
 ## 7. Doa
 
 Allah, terima kasih karena murka-Mu adalah penolakan-Mu untuk menyerah sebelum semuanya beres.

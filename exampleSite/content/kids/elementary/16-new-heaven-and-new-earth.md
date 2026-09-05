@@ -83,6 +83,21 @@ Twenty-two chapters of dragons, beasts, trumpets and bowls, and the last word is
 **Memory verse:** "Look! God's dwelling place is now among the people, and he will dwell with
 them." (Revelation 21:3)
 
+## Look for yourself
+
+*Take longer over this one. It is the last time you get to look.*
+
+The city comes down and God moves in, and the first thing he does is not a speech. He goes
+round wiping faces.
+
+Close your eyes. He gets to you. What is he wiping away?
+
+Now look up and out. What is the first thing you want to see? What do the fruit on the tree
+smell like? Who is coming through the gate that you have been hoping to see?
+
+And the very last thing in the book is an invitation: *"Come."* What do you want to say
+back?
+
 ## 8. Prayer
 
 Father, thank you that the ending is you living with us. Thank you that you make everything

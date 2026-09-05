@@ -66,6 +66,21 @@ Evren şarkıya katılıyor.
 
 **Ezber ayeti:** „Boğazlanmış Kuzu gücü almaya layıktır." (Vahiy 5,12)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Gözlerini kapat. Açık kapının hemen içinde duruyorsun.
+
+Ne duyuyorsun? Tahttan gök gürlemeleri geliyor, hiç durmayan bir ezgi ve pek çok ırmağın sesi
+gibi bir uğultu.
+
+Ne kokusu alıyorsun? Buhur yanıyor, ve o buhur dualardan yapılmış.
+
+Ne hissediyorsun — sıcak mı? Zemin sağlam mı? Rüzgâr var mı?
+
+Şimdi kendi ellerine bak. Bırakmak istemediğin bir şey mi tutuyorsun?
+
 ## 7. Dua
 
 Baba, her şeyin merkezinde korku değil bir şarkı olduğu için teşekkür ederiz. İsa, kendini vererek

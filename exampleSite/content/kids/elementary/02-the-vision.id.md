@@ -68,6 +68,20 @@ Bagi orang yang sedang diancam mati karena imannya, itu kalimat yang mengubah se
 
 **Ayat hafalan:** „Jangan takut! Aku adalah Yang Awal dan Yang Akhir." (Wahyu 1,17)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Yohanes berbalik dan melihat Yesus: rambut putih, mata seperti nyala api, suara seperti air
+terjun, dan wajah yang terlalu terang untuk dipandang.
+
+Pejamkan matamu dan biarkan Dia sebesar itu.
+
+Lalu ingat apa yang terjadi berikutnya. Yohanes jatuh seperti orang mati — dan Yesus
+mengulurkan tangan, meletakkan tangan kanan-Nya di atasnya dan berkata: *"Jangan takut."*
+
+Rasakan tangan itu di bahumu sendiri. Apa yang Dia katakan kepadamu?
+
 ## 7. Doa
 
 Tuhan Yesus, terima kasih karena Engkau kuat dan lembut sekaligus. Terima kasih karena tangan

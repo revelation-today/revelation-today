@@ -71,6 +71,19 @@ holding it is like.
 **Memory verse:** "Blessed and holy are those who share in the first resurrection."
 (Revelation 20:6)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+The books are opened, and beside them is another book with names in it.
+
+Picture somebody looking for your name.
+
+Who is doing the looking? What are his hands like? And what does his face do when he finds
+it?
+
+If that picture frightens you, look at his hands again. They still have the holes in them.
+
 ## 7. Prayer
 
 Jesus, thank you that Satan is chained and that his ending is already written. Thank you that

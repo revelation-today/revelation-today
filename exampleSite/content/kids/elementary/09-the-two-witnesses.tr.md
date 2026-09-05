@@ -80,6 +80,20 @@ oldu."
 
 **Ezber ayeti:** „Dünyanın egemenliği Rabbimiz'in oldu." (Vahiy 11,15)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Sokakta duruyorsun. İki tanık üç gündür orada yatıyor, ve insanlar bunun için birbirlerine
+hediye gönderiyor.
+
+Sonra ikisi ayağa kalkıyor.
+
+Çevrendeki yüzlere bak. Onlara ne oluyor?
+
+Şimdi yer değiştir. İkisinden biri sensin. Hangisi daha zor olurdu — konuşmak mı, yoksa
+kıpırdamadan yatıp beklemek mi?
+
 ## 7. Dua
 
 Rab İsa, en zayıf göründüğün anda en güçlü olduğun için teşekkür ederiz. Görünen yerde umut etmeye

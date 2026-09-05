@@ -68,6 +68,22 @@ Her mektup aynı cümleyle biter: „Kulağı olan, Ruh'un kiliselere ne dediği
 
 **Ezber ayeti:** „İşte kapıda durmuş, kapıyı çalıyorum." (Vahiy 3,20)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Yedi mektubun her biri, İsa'nın 1. bölümdeki görüntüden bir parça seçmesiyle başlar — o
+topluluğun ihtiyacı olan parçayı. Korkanlara, ölüp geri dönen kişi olarak gelir. Gevşemiş
+olanlara, gözleri ateş alevi gibi olan kişi olarak.
+
+Peki: sana nasıl gelirdi?
+
+Ne giyerdi? Elinde ne olurdu? Önce neyini fark ederdin — gözlerini, sesini, ellerini?
+
+Ve bir mektubun başına senin adını yazsaydı, sence ilk satırda ne yazardı?
+
+Aklına ne gelirse, onu İncil'deki İsa'nın yanına koy. O'na benzemiyorsa, bırak gitsin.
+
 ## 7. Dua
 
 Rab İsa, bizi düzeltmeden önce ne yaptığımızı bildiğin için teşekkür ederiz. Kapıyı çalışını

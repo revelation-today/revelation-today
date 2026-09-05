@@ -67,6 +67,20 @@ Kitap bu soruyu havada bırakır. Cevap bir sonraki bölümde gelir ve cevap şu
 
 **Ezber ayeti:** „Ne zamana dek, ey kutsal ve gerçek olan Efendimiz?" (Vahiy 6,10)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Atlar gürültülü ve gökyüzü kararıyor; bu yüzden bir an başka yere bak. Tomarı açanın kim
+olduğuna bak.
+
+O, Kuzu. Kendi ölümünün izleri hâlâ üzerinde.
+
+Mührün üzerindeki ellerini gözünde canlandır. Şimdi yüzüne bak. Öfkeli mi? Acelesi var mı?
+Üzgün mü?
+
+Ve mührü açarken kime bakıyor?
+
 ## 7. Dua
 
 Rab İsa, dünya bazen korkutucu ve sen bunu görmezden gelmiyorsun. Denetimin sende olduğu için teşekkür

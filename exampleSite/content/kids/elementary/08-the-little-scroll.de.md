@@ -70,6 +70,20 @@ wissen, wer es hält, könnten wir es nicht aushalten.
 
 **Merkvers:** „Ich nahm das Büchlein und aß es, und es war süß wie Honig." (Offenbarung 10,10)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Der Engel hält dir die kleine Schriftrolle hin und sagt: Iss sie.
+
+Nimm sie. Wie fühlt sie sich in deinen Händen an — schwer, leicht, warm?
+
+Steck sie in den Mund. Sie ist süß wie Honig. Bleib einen Moment beim Süßen: Was ist die gute
+Nachricht darin?
+
+Dann kippt es. Wo in dir merkst du das? Was ist das Schwere daran, jetzt zu wissen, was du
+weißt?
+
 ## 7. Gebet
 
 Gott, danke, dass deine Worte süß sind. Hilf uns, sie nicht nur zu kennen, sondern

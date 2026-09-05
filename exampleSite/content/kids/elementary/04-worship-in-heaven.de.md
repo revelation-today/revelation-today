@@ -87,6 +87,22 @@ Was auch immer die schwierigen Kapitel tun — es tut sie jemand Guter. Wozu, fi
 
 **Merkvers:** „Würdig ist das Lamm, das geschlachtet wurde." (Offenbarung 5,12)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Mach die Augen zu. Du stehst gleich hinter der offenen Tür.
+
+Was hörst du? Vom Thron her kommt Donner, und ein Singen, das nicht aufhört, und ein Rauschen
+wie von sehr vielen Flüssen.
+
+Was riechst du? Da brennt Weihrauch, und er besteht aus Gebeten.
+
+Was spürst du — ist es warm? Ist der Boden fest? Geht ein Wind?
+
+Und jetzt schau auf deine eigenen Hände. Hältst du etwas fest, das du lieber nicht abgeben
+würdest?
+
 ## 7. Gebet
 
 Vater, danke, dass man dir das Entscheiden anvertrauen kann. Jesus, danke, dass du gewonnen

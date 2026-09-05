@@ -67,6 +67,22 @@ Semesta ikut bernyanyi.
 
 **Ayat hafalan:** „Anak Domba yang disembelih itu layak menerima kuasa." (Wahyu 5,12)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Pejamkan matamu. Kamu berdiri tepat di dalam pintu yang terbuka.
+
+Apa yang kamu dengar? Ada guruh yang keluar dari takhta, nyanyian yang tidak berhenti, dan
+bunyi seperti banyak sekali sungai.
+
+Apa yang kamu cium? Ada dupa yang terbakar, dan dupa itu terbuat dari doa-doa.
+
+Apa yang kamu rasakan — apakah hangat? Apakah lantainya kokoh? Apakah ada angin?
+
+Sekarang lihat tanganmu sendiri. Apakah kamu sedang memegang sesuatu yang tidak ingin kamu
+lepaskan?
+
 ## 7. Doa
 
 Bapa, terima kasih karena di pusat segala sesuatu ada nyanyian, bukan ketakutan. Yesus, terima

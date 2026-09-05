@@ -69,6 +69,18 @@ Yedinci tas dökülüyor ve tahttan bir ses tek bir söz söylüyor: **„Tamam!
 
 **Ezber ayeti:** „Tamam!" (Vahiy 16,17)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Bu bölüm Tanrı'nın öfkesiyle ilgili; o yüzden taslar boşaltılırken doğrudan yüzüne bak.
+
+Bağırıyor mu? Keyif alıyor mu? Öfkesine mi kapılmış?
+
+Bir daha bak. Yarattığı insanlar dönmeyi sürekli reddederken yüzü nasıl görünüyor?
+
+Üzgün bir cevap olabilir. Henüz adını koyamadığın bir şey de olabilir.
+
 ## 7. Dua
 
 Tanrım, gazabın her şey düzelene kadar pes etmeyi reddetmen olduğu için teşekkür ederiz. Sana

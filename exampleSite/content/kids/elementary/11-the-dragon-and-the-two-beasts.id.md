@@ -85,6 +85,19 @@ mereka.
 
 **Ayat hafalan:** „Yang penting di sini ialah ketekunan dan iman orang-orang kudus." (Wahyu 13,10)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Letakkan keduanya berdampingan: Anak Domba, dan binatang yang menirunya.
+
+Perhatikan baik-baik. Apa yang membongkar tiruan itu? Bukan ukurannya, dan bukan suaranya.
+
+Sekarang lihat tandanya. Tanda binatang itu ada di tangan dan di dahi — pada apa yang kamu
+*lakukan* dan apa yang kamu *pikirkan*. Tanda Allah juga ada di dahi.
+
+Di mana orang yang memperhatikanmu minggu ini bisa membaca nama Allah padamu?
+
 ## 8. Doa
 
 Tuhan Yesus, terima kasih karena Engkau yang asli dan bukan tiruan. Tolong kami mendengarkan bunyi

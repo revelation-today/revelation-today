@@ -81,6 +81,20 @@ Yirmi iki bölüm ejderha, canavar, borazan ve tas — ve son söz *gel*.
 **Ezber ayeti:** „İşte, Tanrı'nın konutu insanların arasındadır. Tanrı onların arasında yaşayacak."
 (Vahiy 21,3)
 
+## Kendin bak
+
+*Buna daha uzun zaman ayır. Bakabileceğin son sefer bu.*
+
+Kent aşağı iniyor ve Tanrı oraya taşınıyor, ve yaptığı ilk şey bir konuşma değil. Dolaşıp
+yüzleri siliyor.
+
+Gözlerini kapat. Sıra sana geliyor. Ne siliyor?
+
+Şimdi başını kaldır ve dışarı bak. İlk görmek istediğin şey ne? Ağaçtaki meyveler nasıl
+kokuyor? Kapıdan içeri, görmeyi umduğun kim geliyor?
+
+Ve kitaptaki en son şey bir davet: *"Gel."* Sen ne cevap vermek istersin?
+
 ## 8. Dua
 
 Baba, sonun senin bizimle yaşaman olduğu için teşekkür ederiz. Her şeyi atmak yerine yenilediğin için

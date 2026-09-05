@@ -85,6 +85,21 @@ Dua puluh dua pasal berisi naga, binatang, sangkakala, dan cawan — dan kata te
 **Ayat hafalan:** „Lihatlah, kemah Allah ada di tengah-tengah manusia dan Ia akan diam bersama-sama
 dengan mereka." (Wahyu 21,3)
 
+## Lihat sendiri
+
+*Ambil waktu lebih lama untuk yang ini. Ini kesempatan terakhirmu untuk melihat.*
+
+Kota itu turun dan Allah pindah ke sana, dan hal pertama yang Dia lakukan bukanlah berpidato.
+Dia berkeliling menghapus air mata dari wajah orang-orang.
+
+Pejamkan matamu. Dia sampai kepadamu. Apa yang Dia hapus?
+
+Sekarang angkat wajahmu dan pandang ke luar. Apa hal pertama yang ingin kamu lihat? Bagaimana
+bau buah di pohon itu? Siapa yang datang lewat gerbang, yang selama ini kamu harapkan?
+
+Dan hal yang paling terakhir dalam kitab ini adalah sebuah undangan: *"Marilah."* Apa yang
+ingin kamu jawab?
+
 ## 8. Doa
 
 Bapa, terima kasih karena akhirnya adalah Engkau tinggal bersama kami. Terima kasih karena Engkau

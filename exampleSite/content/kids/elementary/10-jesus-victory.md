@@ -79,6 +79,20 @@ Not by fighting. By what Jesus did, and by telling the truth about it.
 **Memory verse:** "They triumphed over him by the blood of the Lamb and by the word of their
 testimony." (Revelation 12:11)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+The dragon is enormous, and it is loud, and it wants you to look at it. That is most of what
+it does.
+
+So look at it properly for a moment — and then watch it lose.
+
+It gets thrown down. Where are you standing when that happens? What does the ground do?
+
+And then heaven starts singing. What does that sound like from where you are — far off, or
+very near?
+
 ## 7. Prayer
 
 Jesus, thank you that the dragon has never once beaten you. Thank you that we win the same

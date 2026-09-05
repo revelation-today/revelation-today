@@ -86,6 +86,21 @@ find out what they are for.
 
 **Memory verse:** "Worthy is the Lamb, who was slain." (Revelation 5:12)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+Close your eyes. You are standing just inside the open door.
+
+What do you hear? Thunder is coming off the throne, and singing that does not stop, and a
+sound like a great many rivers.
+
+What do you smell? Incense is burning, and it is made of prayers.
+
+What do you feel — is it warm? Is the floor solid? Is there any wind?
+
+Now look down at your own hands. Are you holding anything you would rather not put down?
+
 ## 7. Prayer
 
 Father, thank you that you are worth trusting with the deciding. Jesus, thank you that you

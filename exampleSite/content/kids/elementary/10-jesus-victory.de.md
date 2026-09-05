@@ -79,6 +79,20 @@ sagen.
 **Merkvers:** „Sie haben ihn überwunden durch das Blut des Lammes und durch das Wort ihres
 Zeugnisses." (Offenbarung 12,11)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Der Drache ist riesig, und er ist laut, und er will, dass du ihn anschaust. Das ist das
+meiste von dem, was er tut.
+
+Also schau ihn einen Moment richtig an — und dann sieh zu, wie er verliert.
+
+Er wird hinuntergeworfen. Wo stehst du, wenn das passiert? Was macht der Boden?
+
+Und dann fängt der Himmel an zu singen. Wie klingt das von da, wo du stehst — weit weg oder
+ganz nah?
+
 ## 7. Gebet
 
 Jesus, danke, dass der Drache dich kein einziges Mal besiegt hat. Danke, dass wir genauso gewinnen

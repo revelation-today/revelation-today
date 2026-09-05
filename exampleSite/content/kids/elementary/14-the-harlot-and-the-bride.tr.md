@@ -69,6 +69,21 @@ başına, ağzından çıkan kılıçla yeniyor. Konuşuyor ve iş bitiyor.
 
 **Ezber ayeti:** „Ne mutlu Kuzu'nun düğün şölenine çağrılmış olanlara!" (Vahiy 19,9)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+İki kadın, iki davet. İkisini de gözünde canlandır.
+
+Birincisi ne giymiş? Sokağı nasıl bir ses çıkarıyor, nasıl kokuyor? Oraya biri neden gitsin
+ki?
+
+Şimdi diğeri. Temiz, ince keten giymiş, ve kitap diyor ki bu keten, Tanrı'nın halkının
+gerçekten yaptığı iyi işlerin *ta kendisi*. O yüzden elbiseye iyice bak. Bu haftadan bir şey
+onun içine dokunmuş mu?
+
+Ve son soru: sen hangi daveti tutuyorsun?
+
 ## 7. Dua
 
 Rab İsa, bizi getirdiğimiz şey için değil, kendimiz için istediğin için teşekkür ederiz. Güzel görünüp

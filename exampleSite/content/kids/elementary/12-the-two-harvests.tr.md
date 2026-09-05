@@ -72,6 +72,19 @@ duyurdu. Kimse yanlışlıkla üzüm teknesine varmıyor.
 **Ezber ayeti:** „Tanrı'nın buyruklarını yerine getiren, İsa'ya imanını sürdüren kutsalların sabrı bunu
 gerektirir." (Vahiy 14,12)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Burada yalnızca tek bir grubun öğrenebildiği bir ezgi var, ve onu İsa'yla birlikte
+yaşadıkları sayesinde öğrenebiliyorlar.
+
+Kulak ver. Sence ne hakkında? Yüksek sesli mi, sessiz mi? Hızlı mı, yavaş mı?
+
+Şimdi biçilmeyi bekleyen iki tarlaya bak. Hangisinde duruyorsun?
+
+Yanında kim duruyor — ve karşıya getirmek istediğin biri var mı?
+
 ## 7. Dua
 
 Rab İsa, sadık olmanın yettiği için teşekkür ederiz — zeki ya da güçlü olmak zorunda değiliz. İyi

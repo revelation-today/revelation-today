@@ -84,6 +84,20 @@ Kosten.
 
 **Merkvers:** „Hier ist Standhaftigkeit und Glaube der Heiligen gefragt." (Offenbarung 13,10)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Stell die beiden nebeneinander: das Lamm und das Tier, das es nachmacht.
+
+Schau genau hin. Woran erkennt man die Fälschung? Nicht an der Größe, und nicht am Lärm.
+
+Und jetzt schau auf die Zeichen. Das Zeichen des Tieres kommt auf die Hand und auf die Stirn
+— auf das, was du *tust*, und auf das, was du *denkst*. Gottes Zeichen kommt auch auf die
+Stirn.
+
+Wo hätte jemand diese Woche an dir Gottes Namen lesen können?
+
 ## 8. Gebet
 
 Jesus, danke, dass du der Echte bist und keine Kopie. Hilf uns darauf zu hören, wie Dinge klingen,

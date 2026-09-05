@@ -74,6 +74,20 @@ Nicht *es gab nie Tränen.* Die Tränen waren echt. Sie werden abgewischt.
 
 **Merkvers:** „Gott wird alle Tränen von ihren Augen abwischen." (Offenbarung 7,17)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Du stehst irgendwo in der Menge, die niemand zählen konnte.
+
+Schau nach links und nach rechts. Wer steht neben dir? Woher kommt er? In welcher Sprache
+wird gesungen — und verstehst du es trotzdem?
+
+Schau an dir herunter. Dein Gewand ist jetzt weiß. Wie sah es aus, bevor es gewaschen wurde?
+
+Und jetzt schau auf. Da kommt einer durch die Menge und wischt den Leuten die Tränen ab. Sieh
+zu, wie er näher kommt.
+
 ## 7. Gebet
 
 Danke, Gott, dass du uns als deine gekennzeichnet hast und das niemand rückgängig machen kann.

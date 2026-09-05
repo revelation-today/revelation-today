@@ -71,6 +71,20 @@ Setelah menelan, kau berbicara.
 
 **Ayat hafalan:** „Di dalam mulutku ia manis seperti madu." (Wahyu 10,10)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Malaikat itu mengulurkan gulungan kecil itu dan berkata: makanlah.
+
+Ambil. Bagaimana rasanya di tanganmu — berat, ringan, hangat?
+
+Masukkan ke mulutmu. Manis, seperti madu. Tinggallah sejenak pada bagian yang manis: apa
+kabar baik di dalamnya?
+
+Lalu rasanya berubah. Di bagian mana dalam dirimu kamu merasakannya? Apa bagian yang berat
+dari mengetahui apa yang sekarang kamu ketahui?
+
 ## 8. Doa
 
 Tuhan, terima kasih karena firman-Mu manis. Tolong kami tidak lari dari bagian yang pahit.

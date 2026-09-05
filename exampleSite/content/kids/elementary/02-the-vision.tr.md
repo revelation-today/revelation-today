@@ -65,6 +65,20 @@ anahtarları bendedir."
 
 **Ezber ayeti:** „Korkma! İlk ve son Ben'im." (Vahiy 1,17)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Yuhanna arkasına dönüyor ve İsa'yı görüyor: bembeyaz saçlar, ateş alevi gibi gözler, çağlayan
+gibi bir ses ve bakılamayacak kadar parlak bir yüz.
+
+Gözlerini kapat ve O'nun bu kadar büyük olmasına izin ver.
+
+Sonra ardından ne olduğunu hatırla. Yuhanna ölü gibi yere yığılıyor — ve İsa elini uzatıp sağ
+elini onun üzerine koyuyor ve diyor ki: *"Korkma."*
+
+O eli kendi omzunda hisset. Sana ne söylüyor?
+
 ## 7. Dua
 
 Rab İsa, aynı anda hem güçlü hem yumuşak olduğun için teşekkür ederiz. Her şeyi tutan elin bize

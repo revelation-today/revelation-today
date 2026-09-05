@@ -87,6 +87,20 @@ that the takeover has already happened.
 **Memory verse:** "The kingdom of the world has become the kingdom of our Lord."
 (Revelation 11:15)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+You are standing in the street. The two witnesses have been lying there three days, and people
+have been sending each other presents about it.
+
+Then they stand up.
+
+Look at the faces around you. What happens to them?
+
+Now swap places. You are one of the two. Which part would have been hardest — the speaking,
+or the lying still and waiting?
+
 ## 7. Prayer
 
 Jesus, thank you that you were strongest when you looked weakest. Help us to keep hoping

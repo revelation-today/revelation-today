@@ -73,6 +73,21 @@ mouth. He speaks, and it is over.
 **Memory verse:** "Blessed are those who are invited to the wedding supper of the Lamb."
 (Revelation 19:9)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+Two women, two invitations. Picture them both.
+
+What is the first one wearing? What does her street sound like, and what does it smell like?
+Why would anybody go?
+
+Now the other one. She is dressed in clean linen, and the book says the linen *is* the good
+things God's people actually did. So look closely at the dress. Is anything from this week
+woven into it?
+
+And the last question: which invitation are you holding?
+
 ## 7. Prayer
 
 Jesus, thank you that you want us for ourselves and not for what we can give you. Help us to

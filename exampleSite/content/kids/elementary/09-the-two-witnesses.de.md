@@ -83,6 +83,20 @@ Die Übernahme hat längst stattgefunden.
 
 **Merkvers:** „Das Reich der Welt ist unseres Herrn geworden." (Offenbarung 11,15)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Du stehst auf der Straße. Die zwei Zeugen liegen seit drei Tagen da, und die Leute haben sich
+gegenseitig Geschenke geschickt.
+
+Dann stehen sie auf.
+
+Schau in die Gesichter um dich herum. Was passiert mit ihnen?
+
+Und jetzt tausch die Plätze. Du bist einer der beiden. Was wäre schwerer gewesen — das Reden
+oder das Stillliegen und Warten?
+
 ## 7. Gebet
 
 Jesus, danke, dass du am stärksten warst, als du am schwächsten aussahst. Hilf uns

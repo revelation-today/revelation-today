@@ -80,6 +80,19 @@ God.
 
 **Memory verse:** "The prayers of God's people went up before God." (from Revelation 8:4)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+Before a single trumpet sounds, an angel takes a golden bowl full of the prayers of God's
+people and tips it into the fire, and the smoke goes up.
+
+Think of one thing you actually prayed about this week. A real one.
+
+Now watch it go into that bowl. Watch the smoke carry it up. What does it smell like?
+
+That is where the trumpets come from. Your prayer was in there.
+
 ## 7. Prayer
 
 God, thank you that our prayers actually reach you and actually do something. Show us the

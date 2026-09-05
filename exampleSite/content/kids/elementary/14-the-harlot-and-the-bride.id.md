@@ -74,6 +74,21 @@ Dia berbicara, dan selesai.
 
 **Ayat hafalan:** „Berbahagialah mereka yang diundang ke perjamuan kawin Anak Domba." (Wahyu 19,9)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Dua perempuan, dua undangan. Bayangkan keduanya.
+
+Apa yang dikenakan yang pertama? Bagaimana bunyi jalanannya, dan bagaimana baunya? Mengapa
+ada orang yang mau pergi ke sana?
+
+Sekarang yang satunya. Ia mengenakan lenan halus yang bersih, dan kitab ini berkata bahwa
+lenan itu *adalah* perbuatan baik yang sungguh-sungguh dilakukan umat Allah. Jadi perhatikan
+gaun itu baik-baik. Adakah sesuatu dari minggu ini yang tertenun di dalamnya?
+
+Dan pertanyaan terakhir: undangan yang mana yang sedang kamu pegang?
+
 ## 7. Doa
 
 Tuhan Yesus, terima kasih karena Engkau menginginkan kami karena diri kami, bukan karena apa yang

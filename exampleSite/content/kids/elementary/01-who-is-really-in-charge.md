@@ -90,6 +90,21 @@ honestly, out in the open.
 
 **Memory verse:** "No one can serve two masters." (Matthew 6:24)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+Picture the room where this letter was first read out. It is somebody's house. It is
+evening and the lamps are lit, because meeting in daylight is not safe.
+
+Look around at the faces. Some of these people have lost work over this. One of them is a
+child your age.
+
+Now the scroll is unrolled and the first line is read: *"Grace to you and peace from him who
+is, and who was, and who is to come."*
+
+Watch the faces change.
+
 ## 8. Prayer
 
 Jesus, thank you that you are the real King, stronger than anything that frightens us and

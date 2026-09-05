@@ -84,6 +84,24 @@ the faithful ones.
 **Memory verse:** "Be faithful, even to the point of death, and I will give you the crown of
 life." (Revelation 2:10)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+Every one of the seven letters begins with Jesus picking one piece out of the picture in
+chapter 1 — the piece that church needed. To the frightened ones he comes as the one who died
+and came back. To the slack ones, as the one with eyes like fire.
+
+So: how would he come to you?
+
+What would he be wearing? What would he be holding? Which part of him would you notice first
+— his eyes, his voice, his hands?
+
+And if he wrote your name at the top of a letter, what do you think the first line would say?
+
+Whatever comes to mind, hold it up next to the Jesus of the Gospels. If it does not sound
+like him, let it go.
+
 ## 7. Prayer
 
 Jesus, thank you that you tell us the truth instead of just being polite. Thank you that you

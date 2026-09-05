@@ -69,6 +69,19 @@ Wir wissen nicht alles darüber, wer in diesem Buch steht. Wir wissen genau, wie
 **Merkvers:** „Glücklich und heilig sind die, die an der ersten Auferstehung teilhaben."
 (Offenbarung 20,6)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Die Bücher werden aufgeschlagen, und daneben liegt noch ein Buch mit Namen darin.
+
+Stell dir vor, jemand sucht deinen Namen.
+
+Wer sucht? Wie sehen seine Hände aus? Und was macht sein Gesicht, wenn er ihn findet?
+
+Wenn dich dieses Bild erschreckt, schau noch einmal auf seine Hände. Da sind immer noch die
+Löcher drin.
+
 ## 7. Gebet
 
 Jesus, danke, dass Satan angekettet ist und sein Ende schon feststeht. Danke, dass wir sogar in

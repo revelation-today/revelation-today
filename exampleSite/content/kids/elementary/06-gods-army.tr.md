@@ -63,6 +63,20 @@ olabilir — ama hiçbiri bu sahipliği değiştiremez.
 
 **Ezber ayeti:** „Kurtarış, tahtta oturan Tanrımız'a ve Kuzu'ya özgüdür!" (Vahiy 7,10)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Kimsenin sayamadığı büyük kalabalığın içinde bir yerdesin.
+
+Soluna ve sağına bak. Yanında kim duruyor? Nereli? Ezgi hangi dilde — ve yine de anlıyor
+musun?
+
+Kendi kaftanına bak. Şimdi bembeyaz. Yıkanmadan önce nasıldı?
+
+Şimdi başını kaldır. Biri kalabalığın arasından geçerek insanların gözyaşlarını siliyor. Sana
+yaklaşmasını izle.
+
 ## 7. Dua
 
 Rab, ordun her ulustan geldiği ve biz de içinde olabildiğimiz için teşekkür ederiz. Zaferimiz İsa'nın

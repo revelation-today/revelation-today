@@ -79,6 +79,20 @@ kind of good news, because it means he tells us the truth too.
 
 **Memory verse:** "Do not be afraid. I am the First and the Last." (Revelation 1:17)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+John turns round and sees Jesus: white hair, eyes like fire, a voice like a waterfall, and a
+face too bright to look at.
+
+Close your eyes and let him be that big.
+
+Then remember what happens next. John falls down like a dead man — and Jesus reaches out,
+puts his right hand on him and says: *"Do not be afraid."*
+
+Feel that hand on your own shoulder. What is he saying to you?
+
 ## 7. Prayer
 
 Jesus, thank you that the first thing you say is "do not be afraid." Thank you that you have

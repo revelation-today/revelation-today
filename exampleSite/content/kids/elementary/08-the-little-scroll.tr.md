@@ -69,6 +69,19 @@ Yuttuktan sonra konuşursun.
 
 **Ezber ayeti:** „Ağzımda bal gibi tatlıydı." (Vahiy 10,10)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Melek küçük tomarı uzatıyor ve diyor ki: ye bunu.
+
+Al. Ellerinde nasıl hissettiriyor — ağır mı, hafif mi, sıcak mı?
+
+Ağzına koy. Bal gibi tatlı. Bir an tatlı kısımda kal: içindeki iyi haber ne?
+
+Sonra tadı değişiyor. Bunu içinde nerede hissediyorsun? Artık bildiğini bilmenin ağır tarafı
+ne?
+
 ## 8. Dua
 
 Rab, sözün tatlı olduğu için teşekkür ederiz. Acı kısımdan kaçmamamıza yardım et. Ve onu başkalarına

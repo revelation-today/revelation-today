@@ -73,6 +73,21 @@ spricht, und es ist vorbei.
 
 **Merkvers:** „Glücklich, wer zum Hochzeitsmahl des Lammes eingeladen ist." (Offenbarung 19,9)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Zwei Frauen, zwei Einladungen. Stell dir beide vor.
+
+Was hat die erste an? Wie klingt ihre Straße, und wonach riecht sie? Warum würde da überhaupt
+jemand hingehen?
+
+Und jetzt die andere. Sie trägt reines Leinen, und das Buch sagt: Dieses Leinen *ist* das
+Gute, das Gottes Leute tatsächlich getan haben. Schau dir das Kleid also genau an. Ist etwas
+von dieser Woche mit hineingewebt?
+
+Und die letzte Frage: Welche Einladung hältst du in der Hand?
+
 ## 7. Gebet
 
 Jesus, danke, dass du uns um unser selbst willen willst und nicht wegen dem, was wir bringen. Hilf

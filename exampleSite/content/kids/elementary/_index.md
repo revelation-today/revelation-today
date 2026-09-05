@@ -33,6 +33,30 @@ won and that they can stop being afraid.
 
 Where the book is genuinely strange, we say so. Where grown-ups disagree, we say that too.
 
+## Looking, not just listening
+
+Every lesson has a short section called **Look for yourself**. It invites the children to
+stand inside the picture for a minute or two and say what they see, hear or smell.
+
+This is not a special technique and it is not a competition. Revelation did not arrive as a
+lecture — John was told to *look*, and then to write down what he saw. Reading it with the
+eyes shut is simply reading it the way it was given, and children are already better at this
+than most adults.
+
+Three things keep it healthy:
+
+- **Nobody has to produce anything.** Silence is a perfectly good answer, and so is "I didn't
+  see anything." Never go round the circle expecting a turn from everyone.
+- **What a child pictures is not the Bible.** The Bible is the measure. If something does not
+  sound like the Jesus of the Gospels, set it gently aside — and say out loud that this is how
+  Christians have always tested such things.
+- **Prophecy here means pointing at Jesus.** Revelation says so itself: "the testimony of
+  Jesus is the spirit of prophecy" (19:10). It is not about guessing the future. If what a
+  child sees makes Jesus larger, it is doing its job.
+
+Some children will say a great deal and some will say nothing for sixteen weeks. Both are
+fine.
+
 ## The five parts
 
 1. **Introduction & Background** — the world Revelation was written into, and the opening vision

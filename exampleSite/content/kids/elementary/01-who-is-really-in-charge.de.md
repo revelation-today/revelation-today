@@ -91,6 +91,22 @@ uns ein, ehrlich zu ihm zu gehören, offen und sichtbar.
 
 **Merkvers:** „Niemand kann zwei Herren dienen." (Matthäus 6,24)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Stell dir den Raum vor, in dem dieser Brief zum ersten Mal vorgelesen wurde. Es ist das Haus
+von irgendjemandem. Es ist Abend und die Lampen brennen, weil es am Tag nicht sicher ist,
+sich zu treffen.
+
+Schau dir die Gesichter an. Manche haben deswegen ihre Arbeit verloren. Eines gehört einem
+Kind in deinem Alter.
+
+Jetzt wird die Rolle geöffnet und der erste Satz vorgelesen: *„Gnade sei mit euch und Friede
+von dem, der ist und der war und der kommt."*
+
+Sieh zu, wie sich die Gesichter verändern.
+
 ## 8. Gebet
 
 Jesus, danke, dass du der wirkliche König bist — stärker als alles, was uns Angst macht, und

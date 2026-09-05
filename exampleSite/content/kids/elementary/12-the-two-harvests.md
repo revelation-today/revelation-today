@@ -75,6 +75,19 @@ news to every nation on earth. Nobody arrives at the winepress by accident.
 **Memory verse:** "Here is the patient endurance of the saints who keep God's commands and
 remain faithful to Jesus." (Revelation 14:12)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+There is a song here that only one group can learn, and they can learn it because of what
+they have been through with Jesus.
+
+Listen for it. What do you think it is about? Is it loud or quiet? Fast or slow?
+
+Now look at the two fields waiting to be harvested. Which one are you standing in?
+
+Who is standing there with you — and is there anybody you would like to fetch across?
+
 ## 7. Prayer
 
 Jesus, thank you that staying faithful is enough — that we don't have to be clever or strong.

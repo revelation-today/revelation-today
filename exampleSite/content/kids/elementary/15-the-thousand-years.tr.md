@@ -68,6 +68,18 @@ biliyoruz.
 
 **Ezber ayeti:** „İlk dirilişe dahil olanlar mutlu ve kutsaldır." (Vahiy 20,6)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Kitaplar açılıyor, ve yanlarında adların yazılı olduğu bir kitap daha var.
+
+Birinin senin adını aradığını düşün.
+
+Arayan kim? Elleri nasıl? Ve adını bulduğunda yüzü ne yapıyor?
+
+Bu görüntü seni korkutuyorsa, ellerine bir daha bak. Deliklerin izi hâlâ orada.
+
 ## 7. Dua
 
 Rab İsa, Şeytan zincirlendiği ve sonu çoktan belirlendiği için teşekkür ederiz. Zayıflığımızda bile

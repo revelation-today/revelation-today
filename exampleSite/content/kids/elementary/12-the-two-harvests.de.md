@@ -76,6 +76,19 @@ Erde gute Nachricht angesagt. Niemand landet aus Versehen bei der Kelter.
 **Merkvers:** „Hier ist die Standhaftigkeit der Heiligen, die Gottes Gebote halten und Jesus treu
 bleiben." (Offenbarung 14,12)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Hier gibt es ein Lied, das nur eine Gruppe lernen kann, und sie kann es wegen dem, was sie
+mit Jesus durchgemacht hat.
+
+Horch danach. Wovon handelt es wohl? Ist es laut oder leise? Schnell oder langsam?
+
+Und jetzt schau auf die zwei Felder, die abgeerntet werden sollen. In welchem stehst du?
+
+Wer steht mit dir da — und gibt es jemanden, den du gern herüberholen würdest?
+
 ## 7. Gebet
 
 Jesus, danke, dass Treusein genügt — dass wir nicht klug oder stark sein müssen. Danke, dass die

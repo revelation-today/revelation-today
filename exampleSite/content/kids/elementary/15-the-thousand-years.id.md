@@ -69,6 +69,19 @@ apa Dia yang memegangnya.
 **Ayat hafalan:** „Berbahagia dan kuduslah ia, yang mendapat bagian dalam kebangkitan pertama."
 (Wahyu 20,6)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Kitab-kitab dibuka, dan di sampingnya ada satu kitab lagi yang berisi nama-nama.
+
+Bayangkan seseorang sedang mencari namamu.
+
+Siapa yang mencari? Seperti apa tangan-Nya? Dan apa yang terjadi pada wajah-Nya ketika Dia
+menemukannya?
+
+Kalau gambaran itu menakutkanmu, lihat lagi tangan-Nya. Bekas lubang itu masih ada di sana.
+
 ## 7. Doa
 
 Tuhan Yesus, terima kasih karena Iblis sudah dirantai dan akhirnya sudah ditetapkan. Terima kasih

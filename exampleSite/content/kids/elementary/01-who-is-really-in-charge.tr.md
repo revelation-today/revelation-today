@@ -82,6 +82,20 @@ Kimse senden ateşe buhur atmanı istemeyecek. Ama soru hiçbir yere gitmedi.
 **Ezber ayeti:** „Var olan, var olmuş ve gelecek olan, Her Şeye Gücü Yeten Rab Tanrı diyor ki, Alfa
 ve Omega Ben'im." (Vahiy 1,8)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Bu mektubun ilk kez okunduğu odayı gözünde canlandır. Birinin evi. Akşam olmuş ve kandiller
+yanıyor, çünkü gündüz toplanmak güvenli değil.
+
+Çevrendeki yüzlere bak. Bazıları bu yüzden işini kaybetti. Biri de senin yaşında bir çocuk.
+
+Şimdi tomar açılıyor ve ilk satır okunuyor: *"Var olan, var olmuş ve gelecek olandan size
+lütuf ve esenlik olsun."*
+
+Yüzlerin nasıl değiştiğine bak.
+
 ## 7. Dua
 
 Rab İsa, gerçekte senin yönettiğin için teşekkür ederiz, en gürültülü olanın değil. Bu hafta bunu

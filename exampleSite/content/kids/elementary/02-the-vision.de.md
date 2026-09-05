@@ -81,6 +81,20 @@ selbst eine gute Nachricht ist, denn es heißt, dass er auch uns die Wahrheit sa
 
 **Merkvers:** „Fürchte dich nicht! Ich bin der Erste und der Letzte." (Offenbarung 1,17)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Johannes dreht sich um und sieht Jesus: weißes Haar, Augen wie Feuer, eine Stimme wie ein
+Wasserfall und ein Gesicht, das zu hell ist, um hinzusehen.
+
+Mach die Augen zu und lass ihn so groß sein.
+
+Und dann denk daran, was als Nächstes passiert. Johannes fällt um wie tot — und Jesus streckt
+die Hand aus, legt sie ihm auf und sagt: *„Fürchte dich nicht."*
+
+Spür diese Hand auf deiner eigenen Schulter. Was sagt er zu dir?
+
 ## 7. Gebet
 
 Jesus, danke, dass dein erstes Wort „Fürchte dich nicht" ist. Danke, dass du uns schon zu

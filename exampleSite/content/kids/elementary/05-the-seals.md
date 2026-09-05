@@ -77,6 +77,20 @@ it looks nothing like you would expect.
 
 **Memory verse:** "The Lamb is worthy to open the scroll." (from Revelation 5:9)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+The horses are loud and the sky goes dark, so look somewhere else for a moment. Look at who
+is opening the scroll.
+
+It is the Lamb. The marks of his own death are still on him.
+
+Picture his hands on the seal. Now look at his face. Is he angry? Is he in a hurry? Is he
+sad?
+
+And who is he looking at while he opens it?
+
 ## 7. Prayer
 
 Jesus, thank you that you tell the truth about what is really evil, even when it looks

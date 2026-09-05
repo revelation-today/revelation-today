@@ -74,6 +74,20 @@ Not *there were never any tears.* The tears were real. They get wiped.
 
 **Memory verse:** "God will wipe away every tear from their eyes." (Revelation 7:17)
 
+## Look for yourself
+
+*Two quiet minutes. Nobody has to say anything out loud.*
+
+You are somewhere in the crowd that nobody could count.
+
+Look left and look right. Who is standing next to you? Where are they from? What language is
+the singing in — and can you understand it anyway?
+
+Look down at your robe. It is white now. What did it look like before it was washed?
+
+Now look up. Somebody is coming through the crowd wiping the tears off people's faces. Watch
+him get closer.
+
 ## 7. Prayer
 
 Thank you, God, that you have marked us as yours and that nobody can undo it. Thank you that

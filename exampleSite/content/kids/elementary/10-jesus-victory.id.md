@@ -80,6 +80,20 @@ tentang itu.
 **Ayat hafalan:** „Mereka mengalahkan dia oleh darah Anak Domba dan oleh perkataan kesaksian
 mereka." (Wahyu 12,11)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Naga itu sangat besar, sangat berisik, dan ia ingin kamu memandangnya. Itulah sebagian besar
+yang ia lakukan.
+
+Jadi pandanglah ia baik-baik sejenak — lalu perhatikan bagaimana ia kalah.
+
+Ia dilemparkan ke bawah. Di mana kamu berdiri saat itu terjadi? Apa yang terjadi pada tanah?
+
+Lalu surga mulai bernyanyi. Bagaimana bunyinya dari tempatmu berdiri — jauh, atau sangat
+dekat?
+
 ## 7. Doa
 
 Tuhan Yesus, terima kasih karena naga itu tidak sekali pun mengalahkan-Mu. Terima kasih karena

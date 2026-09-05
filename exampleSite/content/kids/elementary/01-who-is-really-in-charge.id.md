@@ -84,6 +84,21 @@ Tidak ada yang akan menyuruhmu menaburkan dupa ke api. Tapi pertanyaannya belum 
 **Ayat hafalan:** „Akulah Alfa dan Omega, firman Tuhan Allah, yang ada dan yang sudah ada dan
 yang akan datang, Yang Mahakuasa." (Wahyu 1,8)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Bayangkan ruangan tempat surat ini pertama kali dibacakan. Itu rumah seseorang. Hari sudah
+malam dan lampu-lampu menyala, karena berkumpul di siang hari tidak aman.
+
+Lihatlah wajah-wajah di sekitarmu. Beberapa dari mereka kehilangan pekerjaan karena hal ini.
+Salah satunya anak seusiamu.
+
+Sekarang gulungan itu dibuka dan baris pertama dibacakan: *"Kasih karunia dan damai sejahtera
+menyertai kamu, dari Dia yang ada, yang sudah ada, dan yang akan datang."*
+
+Perhatikan bagaimana wajah-wajah itu berubah.
+
 ## 7. Doa
 
 Tuhan Yesus, terima kasih karena Engkaulah yang sungguh berkuasa, bukan orang yang paling

@@ -33,6 +33,30 @@ schon gewonnen hat und sie keine Angst mehr haben müssen.
 
 Wo das Buch rätselhaft bleibt, verschweigen wir das nicht. Und wo Erwachsene sich uneinig sind, ebenso wenig.
 
+## Hinschauen, nicht nur zuhören
+
+In jeder Einheit gibt es einen kurzen Abschnitt **Schau selbst hin**. Er lädt die Kinder ein,
+sich ein, zwei Minuten lang in das Bild hineinzustellen und zu sagen, was sie sehen, hören
+oder riechen.
+
+Das ist keine besondere Technik und kein Wettbewerb. Die Offenbarung kam nicht als Vortrag —
+Johannes sollte *hinschauen* und dann aufschreiben, was er sah. Sie mit geschlossenen Augen
+zu lesen heißt einfach, sie so zu lesen, wie sie gegeben wurde. Kinder können das ohnehin
+besser als die meisten Erwachsenen.
+
+Drei Dinge halten das gesund:
+
+- **Niemand muss etwas liefern.** Schweigen ist eine völlig gute Antwort, und „Ich habe nichts
+  gesehen" auch. Geht nie reihum und erwartet von jedem etwas.
+- **Was ein Kind sich vorstellt, ist nicht die Bibel.** Die Bibel ist der Maßstab. Wenn etwas
+  nicht nach dem Jesus der Evangelien klingt, legt es freundlich beiseite — und sagt laut
+  dazu, dass Christen so etwas seit jeher genau so prüfen.
+- **Prophetie heißt hier: auf Jesus zeigen.** Die Offenbarung sagt das selbst: „Das Zeugnis
+  Jesu ist der Geist der Weissagung" (19,10). Es geht nicht ums Zukunftsraten. Wenn das, was
+  ein Kind sieht, Jesus größer macht, tut es genau das, was es soll.
+
+Manche Kinder erzählen viel, andere sechzehn Wochen lang gar nichts. Beides ist in Ordnung.
+
 ## Die fünf Teile
 
 1. **Einführung & Hintergrund** — die Welt, in die hinein die Offenbarung geschrieben wurde, und die erste Vision

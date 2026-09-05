@@ -74,6 +74,19 @@ Savaşarak değil. İsa'nın yaptığıyla — ve bunun hakkındaki gerçeği s�
 
 **Ezber ayeti:** „Onlar Kuzu'nun kanıyla ve ettikleri tanıklık sözüyle onu yendiler." (Vahiy 12,11)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+Ejderha kocaman, gürültülü, ve ona bakmanı istiyor. Yaptığı şeyin çoğu bu.
+
+O yüzden bir an ona iyice bak — ve sonra kaybedişini izle.
+
+Aşağı atılıyor. Bu olurken sen neredesin? Yer ne yapıyor?
+
+Ve sonra gök şarkı söylemeye başlıyor. Durduğun yerden nasıl duyuluyor — uzaktan mı, çok
+yakından mı?
+
 ## 7. Dua
 
 Rab İsa, ejderha seni bir kez bile yenemediği için teşekkür ederiz. Senin kazandığın gibi kazandığımız

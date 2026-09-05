@@ -82,6 +82,25 @@ Beeindruckenden. Sie waren die Treuen.
 **Merkvers:** „Sei treu bis in den Tod, so will ich dir die Krone des Lebens geben."
 (Offenbarung 2,10)
 
+## Schau selbst hin
+
+*Zwei stille Minuten. Niemand muss etwas laut sagen.*
+
+Jeder der sieben Briefe fängt damit an, dass Jesus sich ein Stück aus dem Bild von Kapitel 1
+heraussucht — genau das, was diese Gemeinde brauchte. Zu den Verängstigten kommt er als der,
+der gestorben und zurückgekommen ist. Zu den Lauen als der mit den Augen wie Feuer.
+
+Also: Wie würde er zu dir kommen?
+
+Was hätte er an? Was hätte er in der Hand? Was würdest du zuerst bemerken — seine Augen,
+seine Stimme, seine Hände?
+
+Und wenn er deinen Namen oben auf einen Brief schreiben würde: Was stünde wohl in der ersten
+Zeile?
+
+Was dir dazu einfällt, halte neben den Jesus der Evangelien. Wenn es nicht nach ihm klingt,
+lass es los.
+
 ## 7. Gebet
 
 Jesus, danke, dass du uns die Wahrheit sagst und nicht nur höflich bist. Danke, dass du uns nie

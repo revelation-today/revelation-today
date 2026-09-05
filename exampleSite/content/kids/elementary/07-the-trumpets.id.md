@@ -68,6 +68,20 @@ Peringatan hanya berguna kalau didengar.
 **Ayat hafalan:** „Asap kemenyan bersama-sama dengan doa orang-orang kudus itu naik ke hadapan
 Allah." (Wahyu 8,4)
 
+## Lihat sendiri
+
+*Dua menit hening. Tidak ada yang harus berbicara.*
+
+Sebelum satu sangkakala pun berbunyi, seorang malaikat mengambil cawan emas penuh doa umat
+Allah dan menuangkannya ke dalam api, lalu asapnya naik.
+
+Pikirkan satu hal yang benar-benar kamu doakan minggu ini. Yang sungguhan.
+
+Sekarang perhatikan doa itu masuk ke dalam cawan tersebut. Perhatikan asap membawanya naik.
+Bagaimana baunya?
+
+Dari sanalah sangkakala-sangkakala itu datang. Doamu ada di dalamnya.
+
 ## 7. Doa
 
 Tuhan, terima kasih karena Engkau memperingatkan sebelum menghukum, dan karena Engkau membatasi

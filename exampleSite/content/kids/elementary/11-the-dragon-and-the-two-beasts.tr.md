@@ -80,6 +80,19 @@ Ejderha ve iki canavarı. Üç deneme. Üç başarısızlık. Sayı, onların he
 
 **Ezber ayeti:** „Bu, kutsalların sabrını ve imanını gerektirir." (Vahiy 13,10)
 
+## Kendin bak
+
+*İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
+
+İkisini yan yana koy: Kuzu, ve onu taklit eden canavar.
+
+Dikkatle bak. Taklidi ele veren ne? Boyutu değil, gürültüsü de değil.
+
+Şimdi işaretlere bak. Canavarın işareti ele ve alna vuruluyor — *yaptığına* ve *düşündüğüne*.
+Tanrı'nın mührü de alna vuruluyor.
+
+Bu hafta sana bakan biri, Tanrı'nın adını sende nerede okuyabilirdi?
+
 ## 8. Dua
 
 Rab İsa, kopya değil gerçek olan sen olduğun için teşekkür ederiz. Parıltıya bakmak yerine sese kulak
