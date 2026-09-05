@@ -30,7 +30,7 @@ die Bilder auf die heutigen Schlagzeilen zu legen. Kinder dieses Alters kommen g
 Buch zurecht, wie es ist: ein Brief an verängstigte Menschen, der ihnen sagt, dass Jesus
 schon gewonnen hat und sie keine Angst mehr haben müssen.
 
-Wo das Buch wirklich fremd ist, sagen wir das. Wo Erwachsene sich uneinig sind, auch.
+Wo das Buch rätselhaft bleibt, verschweigen wir das nicht. Und wo Erwachsene sich uneinig sind, ebenso wenig.
 
 ## Die fünf Teile
 
