@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 prev: /kids/elementary/13-the-bowls
 next: /kids/elementary/15-the-thousand-years
+chapters: "Revelation 17–19"
 ---
 # The Harlot and the Bride
 ### Revelation 17–19

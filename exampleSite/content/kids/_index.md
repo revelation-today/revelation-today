@@ -1,6 +1,7 @@
 ---
 title: "Kids"
 weight: 50
+listTitle: "courses"
 ---
 
 Revelation for children, in four age-tiered tracks. Each is a full set of Sunday-school

@@ -8,6 +8,7 @@
 {{- $explanation := (T "explanation") | default "Explanation"}}
 {{- $application := (T "application") | default "Application"}}
 {{- $details := (T "details") | default "Details"}}
+{{- with $params.listTitle -}}{{- $details = (T .) | default $details -}}{{- end -}}
 
 {{- $ignore := $params.ignore -}}
 {{- if not $ignore -}}
@@ -17,6 +18,7 @@
   {{- range $pages -}}
     {{- $relPermalink := .RelPermalink -}}
     {{- $name := .Title -}}
+    {{- $chapters := .Params.chapters -}}
     {{- $numPage := strings.Count "/" $relPermalink -}}
     {{- $diff := math.Sub $numPage $numOwn -}}
     {{- if hasPrefix $relPermalink $link -}}
@@ -35,7 +37,7 @@
         {{- else if eq $docType "quick" -}}
           {{- $name = print $quick ": " $name -}}
         {{- end -}}
-        {{ partial "shortcodes/card" (dict "title" $name "link" $relPermalink "icon" "chevron-down") }}
+        {{ partial "shortcodes/card" (dict "title" $name "link" $relPermalink "icon" "chevron-down" "subtitle" $chapters) }}
       {{- end -}}
     {{- end -}}
   {{- end -}}

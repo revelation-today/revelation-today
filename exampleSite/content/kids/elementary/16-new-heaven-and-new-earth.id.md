@@ -6,6 +6,7 @@ audience_group: "elementary"
 audience_track: "kids"
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/elementary/15-the-thousand-years
+chapters: "Wahyu 21–22"
 ---
 # Langit Baru dan Bumi Baru
 ### Wahyu 21–22

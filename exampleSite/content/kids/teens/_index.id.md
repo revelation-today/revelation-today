@@ -3,6 +3,7 @@ title: "Remaja — Bawa Pertanyaanmu"
 linkTitle: "Remaja (13–18 tahun)"
 weight: 40
 docType: kids
+listTitle: "lessons"
 ---
 
 Selamat datang. Seri ini ada karena kitab Wahyu tidak pernah dimaksudkan untuk diam saja di bagian belakang Alkitab, diabaikan sampai ada orang yang membuat film tentangnya. Kitab ini ditulis untuk gereja-gereja sungguhan, penuh dengan orang-orang sungguhan seusiamu atau lebih tua, yang berada di bawah tekanan nyata untuk menyesuaikan diri dengan budaya yang punya raja yang sangat berbeda dalam pikirannya dibanding Yesus. Itu lebih dekat dengan hidupmu daripada yang mungkin kamu kira.

@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/vision/setting-the-foundation
 prev: /kids/elementary/01-who-is-really-in-charge
 next: /kids/elementary/03-the-seven-letters
+chapters: "Vahiy 1"
 ---
 # Görüm
 ### Vahiy 1

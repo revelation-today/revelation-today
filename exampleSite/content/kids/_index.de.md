@@ -1,6 +1,7 @@
 ---
 title: "Für Kinder"
 weight: 50
+listTitle: "courses"
 ---
 
 Die Offenbarung für Kinder, in vier Stufen. Jede Stufe ist eine vollständige Reihe von

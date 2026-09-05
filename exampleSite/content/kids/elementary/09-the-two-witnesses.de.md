@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /kids/elementary/08-the-little-scroll
 next: /kids/elementary/10-jesus-victory
+chapters: "Offenbarung 11"
 ---
 # Die zwei Zeugen
 ### Offenbarung 11

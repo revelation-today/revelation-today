@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/scroll/the-little-scroll
 prev: /kids/elementary/07-the-trumpets
 next: /kids/elementary/09-the-two-witnesses
+chapters: "Wahyu 10"
 ---
 # Gulungan Kecil
 ### Wahyu 10

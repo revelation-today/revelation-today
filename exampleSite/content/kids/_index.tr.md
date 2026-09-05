@@ -1,6 +1,7 @@
 ---
 title: "Çocuklar İçin"
 weight: 50
+listTitle: "courses"
 ---
 
 Vahiy kitabı çocuklar için, dört grupta. Her grup eksiksiz bir Pazar Okulu ders planları

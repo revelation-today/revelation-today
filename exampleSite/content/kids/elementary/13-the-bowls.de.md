@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/bowls/the-bowls-of-wrath
 prev: /kids/elementary/12-the-two-harvests
 next: /kids/elementary/14-the-harlot-and-the-bride
+chapters: "Offenbarung 15–16"
 ---
 # Die Schalen
 ### Offenbarung 15–16

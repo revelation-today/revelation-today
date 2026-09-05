@@ -6,6 +6,7 @@ audience_group: "elementary"
 audience_track: "kids"
 expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 next: /kids/elementary/02-the-vision
+chapters: "Background"
 ---
 # Who Is Really in Charge?
 ### The world Revelation was written into

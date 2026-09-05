@@ -3,6 +3,7 @@ title: "Grundschulalter — Wer hat wirklich das Sagen?"
 linkTitle: "Grundschulalter (8–12 Jahre)"
 weight: 20
 docType: kids
+listTitle: "lessons"
 ---
 Das ist der **Kernkurs** unserer Reihe „Revelation Today", geschrieben für **8- bis
 12-Jährige** — Kinder, die einer Geschichte über mehrere Wochen folgen können, die merken,

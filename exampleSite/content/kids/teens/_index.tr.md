@@ -3,6 +3,7 @@ title: "Gençler — Sorularını Getir"
 linkTitle: "Gençler (13–18 yaş)"
 weight: 40
 docType: kids
+listTitle: "lessons"
 ---
 
 Hoş geldin. Bu seri var, çünkü Vahiy kitabı Kutsal Kitap'ın arka sıralarında sessizce oturup, biri hakkında film çekene kadar görmezden gelinsin diye yazılmadı. Gerçek kiliselere yazıldı; senin yaşındaki ya da senden büyük, gerçek insanlarla dolu kiliselere. Bu insanlar, aklında İsa'dan çok farklı bir kral olan bir kültüre uymak için gerçek bir baskı altındaydı. Bu, düşündüğünden daha yakın senin hayatına.

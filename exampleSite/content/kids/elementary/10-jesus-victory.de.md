@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/jesus/a-different-christmas-story
 prev: /kids/elementary/09-the-two-witnesses
 next: /kids/elementary/11-the-dragon-and-the-two-beasts
+chapters: "Offenbarung 12"
 ---
 # Jesu Sieg
 ### Offenbarung 12

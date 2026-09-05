@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/witnesses/the-two-witnesses
 prev: /kids/elementary/08-the-little-scroll
 next: /kids/elementary/10-jesus-victory
+chapters: "Revelation 11"
 ---
 # The Two Witnesses
 ### Revelation 11

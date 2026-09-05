@@ -3,6 +3,7 @@ title: "Teens Prep — Before You Open Revelation"
 linkTitle: "Teens Prep (ages 13–18)"
 weight: 30
 docType: kids
+listTitle: "lessons"
 ---
 
 Revelation is the most quoted-out-of-context book in the Bible, and most of the confusion

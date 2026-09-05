@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /kids/elementary/10-jesus-victory
 next: /kids/elementary/12-the-two-harvests
+chapters: "Wahyu 13"
 ---
 # Naga dan Dua Binatang
 ### Wahyu 13

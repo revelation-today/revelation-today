@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 prev: /kids/elementary/04-worship-in-heaven
 next: /kids/elementary/06-gods-army
+chapters: "Vahiy 6"
 ---
 # Mühürler
 ### Vahiy 6

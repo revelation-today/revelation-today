@@ -3,6 +3,7 @@ title: "Okul Öncesi — İsa Kazanır ve Bizi Sever"
 linkTitle: "Okul Öncesi (4–7 yaş)"
 weight: 10
 docType: kids
+listTitle: "lessons"
 ---
 
 ## Hoş Geldiniz, Ebeveynler ve Öğretmenler

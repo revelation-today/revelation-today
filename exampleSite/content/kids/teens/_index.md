@@ -3,6 +3,7 @@ title: "Teens — Bring Your Questions"
 linkTitle: "Teens (ages 13–18)"
 weight: 40
 docType: kids
+listTitle: "lessons"
 ---
 
 This is the oldest track in our Revelation Today teaching series, written for **ages 13 to 18**. It sits above our elementary track (roughly ages 8 to 12) and our early-childhood track (ages 4 to 7), and unlike either of those it assumes you can handle the parts of Revelation that are genuinely difficult — the violence, the doubt, and the arguments about what it all means.

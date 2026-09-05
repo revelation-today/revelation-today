@@ -3,6 +3,7 @@ title: "Vorschulalter — Jesus siegt, und er hat uns lieb"
 linkTitle: "Vorschulalter (4–7 Jahre)"
 weight: 10
 docType: kids
+listTitle: "lessons"
 ---
 
 ## Willkommen, liebe Eltern und Lehrer

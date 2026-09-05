@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/1000y/the-thousand-year-kingdom
 prev: /kids/elementary/14-the-harlot-and-the-bride
 next: /kids/elementary/16-new-heaven-and-new-earth
+chapters: "Vahiy 20"
 ---
 # Bin Yıl
 ### Vahiy 20

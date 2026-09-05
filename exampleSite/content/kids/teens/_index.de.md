@@ -3,6 +3,7 @@ title: "Jugendliche — Bring deine Fragen mit"
 linkTitle: "Jugendliche (13–18 Jahre)"
 weight: 40
 docType: kids
+listTitle: "lessons"
 ---
 
 Willkommen. Diese Reihe gibt es, weil das Buch der Offenbarung nie dazu gedacht war, still hinten in der Bibel zu liegen und ignoriert zu werden, bis irgendwann mal ein Film darüber gedreht wird. Es wurde an echte Gemeinden geschrieben, voller echter Menschen in deinem Alter und älter, die unter echtem Druck standen, sich einer Kultur anzupassen, die einen ganz anderen König im Sinn hatte als Jesus. Das ist näher an deinem Leben, als du vielleicht denkst.

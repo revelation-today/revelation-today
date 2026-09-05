@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /kids/elementary/03-the-seven-letters
 next: /kids/elementary/05-the-seals
+chapters: "Revelation 4–5"
 ---
 # Worship in Heaven
 ### Revelation 4–5

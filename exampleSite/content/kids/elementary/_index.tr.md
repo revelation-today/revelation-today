@@ -3,6 +3,7 @@ title: "İlkokul — Gerçekte Kim Yönetiyor?"
 linkTitle: "İlkokul (8–12 yaş)"
 weight: 20
 docType: kids
+listTitle: "lessons"
 ---
 Bu, Revelation Today öğretim dizimizin **ana programıdır**; **8 ile 12 yaş** arasındaki
 çocuklar için yazılmıştır — bir öyküyü haftalar boyunca izleyebilecek, bir şeyin

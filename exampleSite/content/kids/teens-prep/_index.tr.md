@@ -3,6 +3,7 @@ title: "Gençler: Hazırlık — Vahiy'i Açmadan Önce"
 linkTitle: "Gençler: Hazırlık (13–18 yaş)"
 weight: 30
 docType: kids
+listTitle: "lessons"
 ---
 
 Vahiy, Kutsal Kitap'ta bağlamından en çok koparılan kitaptır ve etrafındaki kafa karışıklığı

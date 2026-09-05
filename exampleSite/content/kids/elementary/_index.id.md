@@ -3,6 +3,7 @@ title: "Sekolah Dasar — Siapa yang Sebenarnya Berkuasa?"
 linkTitle: "Sekolah Dasar (8–12 tahun)"
 weight: 20
 docType: kids
+listTitle: "lessons"
 ---
 Ini adalah **kurikulum inti** dalam seri pengajaran Revelation Today, ditulis untuk **usia 8
 sampai 12 tahun** — anak-anak yang sudah cukup besar untuk mengikuti sebuah cerita selama

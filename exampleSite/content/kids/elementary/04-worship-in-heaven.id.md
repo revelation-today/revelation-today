@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/worship/worship-in-the-throne-room
 prev: /kids/elementary/03-the-seven-letters
 next: /kids/elementary/05-the-seals
+chapters: "Wahyu 4–5"
 ---
 # Penyembahan di Surga
 ### Wahyu 4–5

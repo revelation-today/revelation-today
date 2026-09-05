@@ -3,6 +3,7 @@ title: "Usia Dini — Yesus Menang, dan Ia Mengasihi Kita"
 linkTitle: "Usia Dini (4–7 tahun)"
 weight: 10
 docType: kids
+listTitle: "lessons"
 ---
 
 ## Selamat Datang, Orang Tua dan Guru

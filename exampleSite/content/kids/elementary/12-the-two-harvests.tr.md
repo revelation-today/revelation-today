@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /kids/elementary/11-the-dragon-and-the-two-beasts
 next: /kids/elementary/13-the-bowls
+chapters: "Vahiy 14"
 ---
 # İki Hasat
 ### Vahiy 14

@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 prev: /kids/elementary/05-the-seals
 next: /kids/elementary/07-the-trumpets
+chapters: "Vahiy 7"
 ---
 # Tanrı'nın Ordusu
 ### Vahiy 7

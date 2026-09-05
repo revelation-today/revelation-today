@@ -6,6 +6,7 @@ audience_group: "elementary"
 audience_track: "kids"
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/elementary/15-the-thousand-years
+chapters: "Vahiy 21–22"
 ---
 # Yeni Gök ve Yeni Yeryüzü
 ### Vahiy 21–22

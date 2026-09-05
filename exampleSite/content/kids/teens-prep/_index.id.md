@@ -3,6 +3,7 @@ title: "Remaja: Persiapan — Sebelum Kamu Membuka Wahyu"
 linkTitle: "Remaja: Persiapan (13–18 tahun)"
 weight: 30
 docType: kids
+listTitle: "lessons"
 ---
 
 Wahyu adalah kitab yang paling sering dikutip di luar konteks dalam Alkitab, dan kebingungan

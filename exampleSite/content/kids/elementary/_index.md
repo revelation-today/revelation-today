@@ -3,6 +3,7 @@ title: "Elementary — Who Is Really in Charge?"
 linkTitle: "Elementary (ages 8–12)"
 weight: 20
 docType: kids
+listTitle: "lessons"
 ---
 
 This is the **core track** in our Revelation Today teaching series, written for **ages 8 to

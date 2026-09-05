@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 prev: /kids/elementary/06-gods-army
 next: /kids/elementary/08-the-little-scroll
+chapters: "Offenbarung 8–9"
 ---
 # Die Posaunen
 ### Offenbarung 8–9

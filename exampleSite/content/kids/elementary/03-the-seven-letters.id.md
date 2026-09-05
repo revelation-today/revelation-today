@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/letters/the-angel-of-the-churches
 prev: /kids/elementary/02-the-vision
 next: /kids/elementary/04-worship-in-heaven
+chapters: "Wahyu 2–3"
 ---
 # Tujuh Surat
 ### Wahyu 2–3

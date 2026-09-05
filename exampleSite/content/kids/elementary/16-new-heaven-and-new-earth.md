@@ -6,6 +6,7 @@ audience_group: "elementary"
 audience_track: "kids"
 expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/elementary/15-the-thousand-years
+chapters: "Revelation 21–22"
 ---
 # New Heaven and New Earth
 ### Revelation 21–22

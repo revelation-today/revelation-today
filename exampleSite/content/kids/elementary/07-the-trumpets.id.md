@@ -7,6 +7,7 @@ audience_track: "kids"
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 prev: /kids/elementary/06-gods-army
 next: /kids/elementary/08-the-little-scroll
+chapters: "Wahyu 8–9"
 ---
 # Sangkakala-sangkakala
 ### Wahyu 8–9

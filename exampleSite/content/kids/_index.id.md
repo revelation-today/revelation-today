@@ -1,6 +1,7 @@
 ---
 title: "Untuk Anak-anak"
 weight: 50
+listTitle: "courses"
 ---
 
 Kitab Wahyu untuk anak-anak, dalam empat jenjang. Setiap jenjang adalah rangkaian

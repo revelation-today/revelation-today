@@ -3,6 +3,7 @@ title: "Jugendliche: Vorlauf — Bevor du die Offenbarung aufschlägst"
 linkTitle: "Jugendliche: Vorlauf (13–18 Jahre)"
 weight: 30
 docType: kids
+listTitle: "lessons"
 ---
 
 Die Offenbarung ist das Buch der Bibel, das am häufigsten aus dem Zusammenhang gerissen wird
