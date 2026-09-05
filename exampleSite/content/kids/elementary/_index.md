@@ -57,14 +57,6 @@ Three things keep it healthy:
 Some children will say a great deal and some will say nothing for sixteen weeks. Both are
 fine.
 
-## The five parts
-
-1. **Introduction & Background** — the world Revelation was written into, and the opening vision
-2. **The Seven Churches** — seven report cards, written by Jesus
-3. **Worship, Seals & Trumpets** — the throne room, and what comes out of it
-4. **The Great Conflict** — the dragon, the beasts, and why they always lose
-5. **The Ending** — the thousand years, and the city where God lives with us
-
 ## One thread, all the way through
 
 Every session comes back to the same question, first asked in session one: **who is really in

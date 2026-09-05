@@ -62,14 +62,6 @@ Tiga hal menjaga agar ini tetap sehat:
 Sebagian anak akan bercerita banyak, sebagian lain tidak berkata apa-apa selama enam belas
 minggu. Keduanya tidak masalah.
 
-## Lima bagian
-
-1. **Pengantar & Latar Belakang** — dunia tempat Wahyu ditulis, dan penglihatan pembuka
-2. **Tujuh Jemaat** — tujuh rapor, ditulis oleh Yesus
-3. **Penyembahan, Meterai & Sangkakala** — ruang takhta, dan apa yang keluar dari sana
-4. **Konflik Besar** — naga, binatang-binatang, dan mengapa mereka selalu kalah
-5. **Akhir Kisah** — seribu tahun, dan kota tempat Allah tinggal bersama kita
-
 ## Satu benang, sepanjang jalan
 
 Setiap pertemuan kembali kepada pertanyaan yang sama, yang pertama kali diajukan di pertemuan

@@ -57,14 +57,6 @@ Drei Dinge halten das gesund:
 
 Manche Kinder erzählen viel, andere sechzehn Wochen lang gar nichts. Beides ist in Ordnung.
 
-## Die fünf Teile
-
-1. **Einführung & Hintergrund** — die Welt, in die hinein die Offenbarung geschrieben wurde, und die erste Vision
-2. **Die sieben Gemeinden** — sieben Zeugnisse, von Jesus geschrieben
-3. **Anbetung, Siegel & Posaunen** — der Thronsaal und was aus ihm hervorkommt
-4. **Der große Konflikt** — der Drache, die Tiere und warum sie immer verlieren
-5. **Das Ende** — die tausend Jahre und die Stadt, in der Gott bei uns wohnt
-
 ## Ein Faden, der durch alles läuft
 
 Jede Einheit kommt auf dieselbe Frage zurück, die in Einheit eins zum ersten Mal gestellt

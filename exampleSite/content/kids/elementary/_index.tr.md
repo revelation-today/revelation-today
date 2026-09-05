@@ -58,14 +58,6 @@ biçimde okumaktır; ve çocuklar bunu zaten çoğu yetişkinden daha iyi yapar.
 Bazı çocuklar çok şey anlatacak, bazıları on altı hafta boyunca hiçbir şey söylemeyecek. İkisi
 de sorun değil.
 
-## Beş bölüm
-
-1. **Giriş ve Arka Plan** — Vahiy'in içine yazıldığı dünya ve açılış görümü
-2. **Yedi Kilise** — İsa'nın yazdığı yedi karne
-3. **Tapınma, Mühürler ve Borazanlar** — taht odası ve oradan çıkanlar
-4. **Büyük Çatışma** — ejderha, canavarlar ve neden hep kaybettikleri
-5. **Son** — bin yıl ve Tanrı'nın bizimle yaşadığı kent
-
 ## Baştan sona tek bir iplik
 
 Her oturum aynı soruya döner; ilk oturumda ilk kez sorulan soru: **gerçekte kim yönetiyor?**
