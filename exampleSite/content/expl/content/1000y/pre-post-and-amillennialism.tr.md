@@ -1,5 +1,5 @@
 ---
-title: "Premilenyalizm mi, postmilenyalizm mi, amilenyalizm mi?"
+title: "Pre-, post- ya da amilenyalizm?"
 weight: 3
 base: /quick/content/1000y
 story: /story/general/tour
@@ -16,82 +16,97 @@ sources:
     - ref: bock_millennium
 ---
 
-Vahiy 20'nin ayrıntılarıyla boğuştuktan sonra, genellikle tam arkasında daha büyük bir soru bekler: Bu bölüm hangi genel sisteme oturuyor? Hristiyanlar bu soruyu tarih boyunca üç ana şekilde yanıtladı; her biri, Mesih'in ikinci gelişini bin yılla ilişkilendirdiği yere göre adlandırıldı: premilenyalizm (öncesinde), postmilenyalizm (sonrasında) ve amilenyalizm (rakamın gelecekteki altın bir çağdan başka bir şeyi anlattığı görüş). Üçü de modern bir icat değil — üçü de, çeşitli biçimlerde, kilisenin ilk yüzyıllarından beri savunulmuştur.
+Vahiy 20'nin ayrıntılarıyla boğuştuktan sonra, hemen arkasında genellikle daha büyük bir soru bekler: bu bölüm hangi bütünsel sisteme oturuyor? Hristiyanlar bu soruyu tarih boyunca üç ana biçimde yanıtladılar; adlarını, Mesih'in ikinci gelişini bin yıla göre nereye yerleştirdiklerinden alırlar: premilenyalizm (öncesine), postmilenyalizm (sonrasına) ve amilenyalizm (bu sayı, gelecekteki altın bir çağdan başka bir şeyi anlatır).
 
-Bu görüşleri tartarken akılda tutmaya değer birkaç soru var, çünkü bunlar anlaşmazlığı gerçekte neyin sürüklediğini ortaya çıkarır:
+Bunları üç argüman listesi hâlinde dizip hangisinin daha uzun olduğunu saymak cazip gelir. Anlaşmazlık böyle işlemiyor. Üç görüş de aynı metinleri bilen dikkatli okurlar tarafından savunuluyor ve her biri kendisine yöneltilen bilindik itirazları uykusunda yanıtlayabilir. Anlaşmazlık dört belirli noktada yaşıyor — ve bu dördünü anlarsanız tartışmayı da anlarsınız; on sekiz yüzyıldır neden karara bağlanmadığı dahil.
 
-- Bin yıl, gelecekte olacak ve henüz gerçekleşmemiş bir çağı mı anlatıyor, yoksa hâlihazırda sürmekte olan bugünkü bir gerçekliği mi?
-- Dünya, İsa geri dönmeden önce iyiye mi gidiyor, kötüye mi gidiyor, yoksa sona kadar buğday ile deliceotunun karışımı olarak mı kalıyor?
-- {{% bible val="Vahiy 20:4" link="rev:20,4" lang="tr" %}}'teki "egemenlik sürme" kutsalların yeryüzünde mi, gökte mi, yoksa her ikisinde de mi yaptığı bir şey?
-- Eski Antlaşma'nın İsrail'e verdiği vaatler, Yeni Antlaşma'da yeniden ele alındığında ne kadar ağırlık taşımalı — bu konuda daha önce ele alınan {{% int_link val="İsrail ve kilise" link="/expl/background/israel/the-church-is-part-of-israel" %}} tartışmasına bakınız?
+## Üç görüş, kısaca
 
-## Premilenyalizm
+<a name="7a3e"></a>
+**Premilenyalizm.** İsa önce geri döner, canavarı ve sahte peygamberi yener, sonra Şeytan son bir isyan için salıverilmeden ve yeni yaratılış gelmeden önce yeryüzünde bedensel olarak bin yıl hüküm sürer. İki ana çeşidi vardır — kilisenin sıkıntı döneminden geçtiği tarihsel premilenyalizm ve buna {{% int_link val="tribülasyon öncesi kaçırılma" link="/expl/topics/others/the-rapture" %}} ile etnik İsrail için ayrı bir gelecek ekleyen dispensasyonel premilenyalizm.
 
-<a name="c58e"></a>
-İsa önce geri döner, canavarı ve sahte peygamberi yener, ardından yeni yaratılış gelmeden ve Şeytan son bir isyan için serbest bırakılmadan önce yeryüzünde bedensel olarak tam bin yıl egemenlik sürer. İki ana çeşidi vardır — kilisenin tribülasyonu yaşadığı tarihsel premilenyalizm, ve bir {{% int_link val="tribülasyon öncesi kaçırılma" link="/expl/topics/others/the-rapture" %}} ile etnik İsrail için ayrı bir gelecek ekleyen dispensasyonalist premilenyalizm.
+**Postmilenyalizm.** Bin yıl, harfi bir sayım değil uzun bir dönem olarak alınır ve müjdenin giderek başarıya ulaştığı, ulusların büyük ölçüde gerçekten öğrenci edildiği bir çağı anlatır — İsa, müjdesinin çoktan büyük ölçüde kazandığı bir dünyaya dönmeden önce.
 
-**Lehinde olan:**
+**Amilenyalizm.** Bin yıl, Mesih'in ilk gelişinden ikincisine kadar bütün kilise çağını, yani şimdiyi simgesel olarak anlatır; bu süre boyunca Şeytan ulusları eskisi gibi saptırmaktan alıkonulmuştur ve imanlılar Mesih'le birlikte gerçek ama henüz görünür olmayan bir anlamda çoktan hüküm sürmektedir. {{% int_link val="Önceki yazının" link="/expl/content/1000y/the-thousand-year-kingdom" %}} savunduğu okuma budur.
 
-- 19. ve 20. bölümlerin anlatı sırasını olduğu gibi kabul eder; "ve gördüm"ün geriye dönüp daha önceki bir olayı yeni bir açıdan anlattığını savunmaya gerek duymaz.
-- {{% bible val="Yeşaya 65" link="isa:65,18-25" lang="tr" %}} gibi peygamberliklere somut, bu dünyaya ait bir yer verir — orada uzun ömürden ve sıradan işten söz edilir ama ölümün tamamen yok olmasından söz edilmez; bu ayrıntılar ne şimdiki çağa ne de nihai yeni yaratılışa tam olarak uymaz.
-- {{% bible val="Zekeriya 14" link="zec:14,4" lang="tr" %}}'ün olduğu gibi okunmasına uyar; orada Rab'bin ayakları gelişinde Zeytin Dağı'na basar — görünür, dünyevi bir olay olarak resmedilir.
-- Etnik İsrail için, Eski Antlaşma'nın toprak ve millet vaatlerinin olduğu gibi okunmasıyla uyumlu, ayrı ve gelecekteki bir rol korur.
+Üçünden hiçbiri modern bir icat değil. Ama tarihsel tablo da eşit dağılmış değil ve bunu dürüstçe söylemek gerekir: Vahiy 20'ye dair adını hâlâ anabildiğimiz en erken okumalar — Papias, Şehit Justinus, İrenaeus, Tertullianus — aşağı yukarı premilenyal anlamda milenyaldir ve Justinus bu görüşü savunduğunu açıkça söylerken başka Ortodoks Hristiyanların savunmadığını da kabul eder (*Trifon'la Diyalog* 80). Birkaçı, kitabın kendi memleketi olan Küçük Asya'da ya da yakınında yazmıştır. Amilenyal okuma çoğunluk görüşü hâline sonradan geldi; her şeyden çok, önce milenyal bir görüşü savunup sonra reddeden Augustinus aracılığıyla.
 
-**Aleyhinde olan:**
+## Düğüm 1: iki kez dirilmek, tek bir fiil
 
-- 20. bölümü açan tek bir "ve"yi kesinlikle zamansal olarak okumak zorundadır; oysa {{% int_link val="önceki makalede" link="/expl/content/1000y/the-thousand-year-kingdom" %}} ortaya konduğu gibi, kitabın geri kalanında görülen örüntü bunun tersinedir.
-- 19. bölümdeki savaş ile 20. bölümdeki Gog ve Magog savaşının iki ayrı son zaman savaşı olmasını gerektirir; oysa ikisi de {{% bible val="Hezekiel 38" link="ezk:38" lang="tr" %}}–{{% bible val="39'da" link="ezk:39" lang="tr" %}} anlatılan tek, nihai savaşı güçlü biçimde yansıtır.
-- Yeşaya 65, {{% bible val="'yeni gökler ve yeni yeryüzü'" link="isa:65,17" lang="tr" %}} ifadesiyle başlar — Vahiy'in daha sonra nihai durum için kullandığı aynı dille — bu da metni bir ara krallık olarak değil, yeni yaratılışın kendisi olarak okumayı destekler.
-- İnsanların {{% bible val="Millennium sırasında ölmeye devam etmesi" link="isa:65,20" lang="tr" %}}, Mesih'in doğrudan ve görünür egemenliği altında yaşamalarına rağmen, hâlâ bir açıklama gerektirir.
-- Özellikle dispensasyonalist çeşidi, "İsrail" ile "kilise"yi iki ayrı kadere sahip iki ayrı halk olarak ayırmaya dayanır; bu da kiliseyi İsrail'in vaatlerinin varisi ilan eden metinlerle pek uyuşmaz.
+<a name="4f1c"></a>
+Bütün tartışmanın en keskin noktası budur ve premilenyalizmin en güçlü olduğu yer burasıdır.
 
-## Postmilenyalizm
+{{% bible val="Vahiy 20:4–5" link="rev:20,4-5" lang="tr" %}} şehitlerin *dirildiğini* ve Mesih'le birlikte hüküm sürdüğünü, birkaç kelime sonra da ölülerin geri kalanının bin yıl tamamlanana dek *dirilmediğini* söyler. Yunanca fiil her iki cümlecikte de aynıdır: **ἔζησαν**.
 
-<a name="9b47"></a>
-Bin yıl, kesin bir sayım olarak değil daha gevşek biçimde anlaşılırsa, vaaz, öğrencilik ve kültür üzerindeki Hristiyan etkisi aracılığıyla ulusların adım adım kazanıldığı, giderek artan bir müjde başarısı çağını anlatır — İsa, büyük ölçüde zaten Hristiyanlaştırılmış bir dünyaya geri döner.
+**Premilenyal argüman.** İkincisinin mezardan bedensel diriliş anlamına geldiğinde herkes hemfikir. Öyleyse birincisi de öyle olmalı — ve birincisi bedensel bir dirilişse, bin yıldan önce gerçekleşir ve iki bedensel diriliş arasında bin yıl vardır. Henry Alford'un 19. yüzyıldan kalma formülasyonu hâlâ başvurulan formülasyondur: aynı fiil, aynı cümle içinde, bir cümlecikte ruhsal dirilmek, hemen sonrakinde bedensel dirilmek anlamına gelebiliyorsa, dil artık kesin hiçbir şey aktarmıyor demektir. Premilenyalistler, Vahiy'in bu fiili Mesih'in kendi bedensel dirilişi için kullandığını eklerler — {{% bible val="ölmüştüm, ama işte sonsuzluklar boyunca diriyim" link="rev:1,18" lang="tr" %}} ve yine {{% bible val="ölmüş ve yaşama dönmüş olan" link="rev:2,8" lang="tr" %}} için — dolayısıyla kitabın kendi kullanımı mecaza değil, gerçek dirilişe işaret eder.
 
-**Lehinde olan:**
+**Amilenyal yanıt** üç bölümden oluşur ve genellikle kendisine tanınandan daha sağlamdır.
 
-- Büyük Görev'in {{% bible val="bütün ulusların" link="mat:28,18-20" lang="tr" %}} öğrenci yapılacağı beklentisini ciddiye alır; sadece aralarına serpiştirilmiş bireyleri değil.
-- Krallığın küçük başlayıp bahçenin tamamını yavaş yavaş doldurduğu büyüme benzetmelerine iyi uyar: {{% bible val="hardal tanesi ve maya" link="mat:13,31-33" lang="tr" %}}.
-- {{% bible val="Mezmur 110:1" link="psa:110,1" lang="tr" %}}'i — Mesih'in "düşmanları ayaklarının altına serilinceye dek" egemenlik sürmesini — sona kadar tartışmalı kalan değil, zafere doğru görünür biçimde ilerleyen bir egemenlik olarak okur.
-- İnananlar bir çıkışa kadar sadece dayanmak yerine bir sonuca doğru çalıştıkları için, kültürel ve toplumsal katılım için gerçek bir motivasyon sunar.
+- 4. ayetteki fiilin öznesi bedenler değil, **canlardır** — Yuhanna "başları kesilmiş olanların canlarını" görür. Canların dirilip hüküm sürmesi, bir şehidin ölümde başına gelenin doğal bir betimlemesidir; bir bedenin mezardan çıkmasının değil.
+- "Birinci" sözcüğü sayı saymıyor, yapısal bir iş görüyor. Vahiy *birinci* ve *ikinci* sözcüklerini bir dizideki iki öğeyi değil, iki **düzeni** işaretlemek için kullanır: {{% bible val="birinci gök ve birinci yeryüzü" link="rev:21,1" lang="tr" %}} geçip giden eski düzendir. Öyleyse "birinci diriliş" eski düzene ait olandır — imanlının ölümde Mesih'le yaşama geçişi — ve "ikinci ölüm" yeni düzene ait olan ölümdür. İki çift bilerek çaprazlanmıştır; metin bu yüzden birinci dirilişte olanlara {{% bible val="ikinci ölümün onlar üzerinde yetkisi olmadığını" link="rev:20,6" lang="tr" %}} vaat edebilir.
+- Bir fiil tek bir anlamı — *dirilmek* — koruyabilirken dirilen şey değişebilir. Canlar ölümde dirilir; bedenler sonda.
 
-**Aleyhinde olan:**
+**Geriye ne kalıyor.** Amilenyal yanıt tutarlıdır ve "birinci/ikinci" gözlemi gerçekten zariftir. Ama cümlenin daha bariz okumasının premilenyalizmde olduğunu ve amilenyalizmin geri kalan çerçevesini korumak için burada bir bedel ödediğini söylemek adildir. Bu bedeli fazla bulan okur genellikle premilenyalist olur — ve bunu yaparken özensiz davranmış olmaz.
 
-- Vahiy'in kendi tarih tablosuyla ters düşer; orada kötülük küçülmez, tırmanır — canavar savaş açar ve {{% bible val="bir süreliğine kutsalları yener" link="rev:13,7" lang="tr" %}}, yavaş yavaş vaazla alt edilmez.
-- İsa'nın kendi benzetmeleri iki yönlü işler: hardal tanesinin yanında {{% bible val="hasada kadar birlikte büyüyen buğday ile deliceotu" link="mat:13,24-30" lang="tr" %}} benzetmesi durur — sona kadar Hristiyan üstünlüğünün giderek arttığı değil, karışık kalan bir çağın resmi.
-- Kilise tarihi, bu teorinin öngördüğü gibi müjdeyle doymuş küresel bir kültüre doğru açıkça bir eğilim göstermemiştir; bu da 20. yüzyılın altüst oluşlarından bu yana üç görüş arasında en az benimseneni olmasını sağlamıştır.
-- Bin yılı, uzun ve adım adım kazanılan bir çağ olarak simgesel biçimde okurken, son Gog ve Magog isyanını yine de tek, ani, harfi harfine bir olay olarak okumak ister — bu birleşim, duruma göre en uygun okumayı seçmek gibi görünebilir.
+## Düğüm 2: "bağlandı" ne demek
 
-## Amilenyalizm
+<a name="7d18"></a>
+{{% bible val="Vahiy 20:1–3" link="rev:20,1-3" lang="tr" %}} Şeytan'ın üzerine dört fiil yığar: bir melek onu **yakaladı**, **bağladı**, dipsiz derinliklere **attı**, üzerini **kapayıp mühürledi**.
 
-<a name="6d1a"></a>
-Bin yıl, Mesih'in birinci gelişinden ikinci gelişine kadar olan tüm kilise çağını simgesel olarak anlatır — şu anda içinde yaşadığımız dönemi — bu dönemde Şeytan ulusları eskisi gibi aldatmaktan alıkonur ve inananlar, gerçek ama henüz tam olarak görünür olmayan bir biçimde şimdiden Mesih'le birlikte egemenlik sürer. Bu, {{% int_link val="önceki makalenin" link="/expl/content/1000y/the-thousand-year-kingdom" %}} ayrıntılı biçimde savunduğu okumadır.
+**Premilenyal argüman.** Kimse hâlâ dışarıda dolaşan birinin üzerine kapı mühürlemez. Tam etkisizleştirme bildiren dört fiil, üstüne dipsiz derinlikler ve bir mühür, şeytani faaliyetin tek bir alanındaki kısıtlamayı anlatmak için doğal bir dil değildir. Üstelik Yeni Antlaşma onu etkin olarak anlatmayı sürdürür: {{% bible val="kükreyen aslan gibi yutacak birini arayarak dolaşır" link="1pe:5,8" lang="tr" %}} ve {{% bible val="imansızların zihinlerini kör eden bu çağın ilahı" link="2co:4,4" lang="tr" %}} diye anılır.
 
-**Lehinde olan:**
+**Amilenyal yanıt.** Metin kendi sınırını da veriyor; çoğu özetin atladığı bir amaç cümleciğinde: **"artık ulusları saptırmasın diye"** bağlanır — adı konmuş tek bir etki, genel bir yok oluş değil. Ve tam da bu etki değişti. Mesih'ten önce Tanrı bilgisi büyük ölçüde tek bir ulusla sınırlıydı; Pentikost'tan sonra müjde uluslara gider ve onlar içeri girer. İsa kendi hizmetini tam bu terimlerle anlattı: kimse güçlü adamın evini yağmalayamaz, {{% bible val="önce güçlü adamı bağlamadıkça" link="mat:12,29" lang="tr" %}}, ve {{% bible val="Şeytan'ın gökten yıldırım gibi düştüğünü gördüm" link="luk:10,18" lang="tr" %}}. Bu okumada dünya misyonu bağlanmaya karşı bir kanıt değildir — görünür hâle gelmiş bağlanmanın kendisidir.
 
-- Vahiy'in geri kalanında her yerde görülen görümsel "ve gördüm" kullanımına uyar; bu tek örneği bir istisna olarak ele almak zorunda kalmaz.
-- İki ayrı son savaşa gerek duymaz — Hezekiel 38–39'da, 19. bölümde ve 20. bölümde yankılanan tek, doruk noktasındaki savaş, kitabın bir temayı yeni bir açıdan yeniden anlatma alışkanlığına uygun biçimde, farklı açılardan anlatılan aynı olay olabilir.
-- Yeni Antlaşma'nın krallığın ve Şeytan'ın yenilgisinin şimdiden sürmekte olduğu yönündeki tekrarlanan iddiasına uyar: {{% bible val="Tanrı'nın Egemenliği artık üzerinize gelmiştir" link="mat:12,28" lang="tr" %}}, {{% bible val="kurtarıp ... egemenliğe aktardı" link="col:1,13" lang="tr" %}}, {{% bible val="Şeytan'ı gökten yıldırım gibi düşerken gördüm" link="luk:10,18" lang="tr" %}}.
-- Yeşaya 65'in kendi çerçevelemesini olduğu gibi kabul eder ve metnin, kendisinin hiç söz etmediği bir ara aşamayı gerektirmek yerine Yeni Yeruşalim'i anlatmasına izin verir.
-- Hasada kadar birlikte büyüyen buğday ile deliceotu görüntüsüne uyar, çünkü kilise çağı tam da karışık bir çağdır, altın bir çağ değil — ne büyümeyi ne de süregelen kötülüğü açıklayıp geçiştirmeye gerek yoktur.
+Petrus'un kükreyen aslanına verilen karşılık aynı ayrımdan çıkar: Petrus *bireyler* için tehlikeyi anlatıyor, 20:3 ise *ulusları ulus olarak* saptırmaktan söz ediyor. İkisi aynı anda doğru olabilir.
 
-**Aleyhinde olan:**
+**Geriye ne kalıyor.** Bu düğüm birincinin tersi yönde işler. Amaç cümleciği metinde duruyor ve kapsamı gerçekten sınırlıyor; premilenyalizm, açıkça yazılmış bir sınırlamayı orada değilmiş gibi ele almak zorunda kalır. Ama imgelerin salt ağırlığı da gerçek bir argümandır ve "bağlandı, ama yalnızca bir bakımdan" her zaman tablonun gösterdiğinden az gelecektir.
 
-- "Bin yıl"ı, zaten uzun süredir devam eden bir çağ için yuvarlak, büyük bir sayı olarak okur; bazıları bunu, {{% bible val="42 ay" link="rev:13,5" lang="tr" %}} gibi Vahiy'in başka yerlerdeki daha kesin sayılarıyla karşılaştırıldığında özel bir muamele olarak görür.
-- {{% bible val="20. bölümün başındaki" link="rev:20,1-3" lang="tr" %}} Şeytan'ın "bağlanmasını", ulusları eskisi gibi aldatamaması anlamında gerçek ama yalnızca kısmi bir kısıtlama olarak anlamak zorundadır; oysa "bağlamak" ve "mühürlemek" gibi sade sözcükler tam bir ortadan kaldırılmayı ima ediyor gibi görünür. Eleştirenler soruyor: Şeytan bağlıysa, {{% bible val="neden hâlâ kükreyen bir aslan gibi yutacak birini arayarak dolaşıyor" link="1pe:5,8" lang="tr" %}}?
-- Bazı Eski Antlaşma vaatlerini — uzun ömür, tarımsal bolluk, Yeruşalim'de bizzat bulunan bir kral — diğer okuyucuların daha somut anlaşılması gerektiğini düşündüğü biçimde yumuşatır ya da ruhsallaştırır.
-- Kutsalların tarih içinde zaferle ve görünür biçimde haklı çıkarılmasına daha az yer bırakır — {{% bible val="Vahiy 20:4" link="rev:20,4" lang="tr" %}}'teki egemenlik, dışarıdan bakanlar için büyük ölçüde görünmez kalır; bu da premilenyalizmin beklediği çok fiziksel, görünür egemenlikle karşılaştırıldığında bir hayal kırıklığı gibi hissettirebilir.
+## Düğüm 3: 20. bölüm 19'un ardından mı geliyor?
 
-## Peki hangisi?
+<a name="47e1"></a>
+**Premilenyal argüman** genellikle 20. bölümü açan küçük "ve" sözcüğüne dayanıyormuş gibi aktarılır. Bu, onun en zayıf biçimidir. İki güçlü biçimi var.
 
-<a name="4e92"></a>
-Bu sitedeki {{% int_link val="önceki makale" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, esas olarak Vahiy 20'nin 12. bölümdeki Şeytan'ın düşüşü anlatımını ne kadar güçlü biçimde yansıttığı ve kitap boyunca belgelenen "ve"nin görümsel kullanımı nedeniyle üçüncü seçeneği savunuyor. Ama bir etiket üzerinde karar kılmadan önce, yukarıdaki sorulara kendi yanıtlarını bulmaya değer — bu üç görüş arasındaki anlaşmazlığın büyük bölümü, belirli sayıların ne kadar harfi harfine okunması gerektiği ve Eski Antlaşma vaatlerinin Yeni Antlaşma'da yeniden ele alındığında ne kadar ağırlık taşıması gerektiği konusundaki farklı yargılara dayanır. {{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources/index.html#bock_millennium" %}}, her bir görüşü gerçekten savunan bilim insanları tarafından, bir karikatür yerine, her argümanın en güçlü biçimini yan yana görmek için yararlı bir kaynak.
+Birincisi, **20:10 geriye, 19:20'ye bakıyor gibidir**. İblis ateş gölüne atılır, "canavarla sahte peygamberin de *bulunduğu* yere" — 19:20'deki olayların çoktan gerçekleşmiş olduğunu varsayar görünen bir ifade. (Yunancada orada fiil yoktur; çevirmenler bir fiil ekler. Amilenyalistler tam da buna dikkat çeker: düşürülmüş bir fiil pek zamansal ağırlık taşımaz.)
 
-Üzerinde durmaya değer birkaç kapanış sorusu:
+İkincisi ve daha ağır olanı, **Vahiy 20 Hezekiel'in sırasını izler**. Hezekiel kuru kemiklerin dirilişinden (37), Gog ve Magog'un saldırısına (38–39), oradan tapınağa ve onarılmış kente (40–48) geçer. Vahiy 20 dirilip hüküm sürmekten (20:4), Gog ve Magog'a (20:8), oradan kente (21–22) geçer — ve Gog ile Magog'u açıkça adlandırır ki bu yaygın bir Eski Antlaşma ifadesi değildir. Yuhanna bir kaynağın sırasını izliyorsa, bu sıralamanın kanıtıdır.
 
-- Vahiy'in diğer sayıları — {{% bible val="144.000" link="rev:7,4" lang="tr" %}}, {{% bible val="42 ay" link="rev:13,5" lang="tr" %}}, {{% bible val="1.260 gün" link="rev:12,6" lang="tr" %}} — genellikle harfi harfine kafa sayımları ve takvimler mi, yoksa semboller mi? "Bin yıl"ın üç resminden hangisi bu sayılarla en iyi uyuyor?
-- Premilenyalizme inanıyorsan, {{% bible val="Yeşaya 65:20" link="isa:65,20" lang="tr" %}}'de hâlâ ölen insanlarla ilgili ne düşünüyorsun?
-- Postmilenyalizme inanıyorsan, {{% bible val="canavarın kutsallar üzerindeki geçici zaferiyle" link="rev:13,7" lang="tr" %}} ilgili ne düşünüyorsun?
-- Amilenyalizme inanıyorsan, {{% bible val="Petrus'un Şeytan'ı hâlâ kükreyen bir aslan olarak tanımlamasının" link="1pe:5,8" lang="tr" %}} nedeni ne, madem ki o zaten bağlı?
+**Amilenyal yanıt.** Yinelemeli anlatım bu bölüm için icat edilmiş bir araç değil; kitabın olağan alışkanlığıdır ve {{% int_link val="önceki yazıda" link="/expl/content/1000y/the-thousand-year-kingdom" %}} uzun uzun gerekçelendirilir. 12. bölüm Şeytan'ın düşüşünü ve kilisenin korunduğu dönemi zaten anlatmıştır; 20. bölüm aynı şeyi başka bir açıdan yeniden anlatır. Belirleyici nokta şudur: 19. bölümdeki savaş da 20. bölümdeki savaş da {{% bible val="Hezekiel 38" link="ezk:38" lang="tr" %}}–{{% bible val="39" link="ezk:39" lang="tr" %}}'daki tek son savaştan beslenir. Bunlar iki ayrı savaşsa, Yuhanna tek bir Eski Antlaşma savaşını iki ayrı olay için iki kez kullanmış olur. Hezekiel'in sırasına gelince: benzerlik tematiktir — Yuhanna kitap boyunca Hezekiel'den yararlanır ama onu bölüm bölüm izlemez.
+
+**Geriye ne kalıyor.** Hezekiel argümanı iki yöne birden keser ve bu tartışmanın neden sürdüğünü iyi gösterir: aynı imalar dizisi "sırayla iki savaş" ile "iki kez anlatılan tek savaş" görüşlerini aşağı yukarı eşit derecede destekler; hangisini doğal bulduğunuz, kitabın ne kadar yineleme yaptığını baştan ne kadar kabul ettiğinize bağlıdır.
+
+## Düğüm 4: vaadin ne kadarı tarihin içine iniyor?
+
+<a name="b3f5"></a>
+Postmilenyalizm burada yaşar ve savı Büyük Görev'den çok daha geniştir.
+
+**Postmilenyal argüman.** Eski Antlaşma vaatlerinin uzun bir dizisi, sonrasında değil, tarihin *içinde* bir sonuç anlatır: uluslar Oğul'a {{% bible val="miras olarak" link="psa:2,8" lang="tr" %}}; {{% bible val="dünyanın dört bucağının anımsayıp RAB'be dönmesi" link="psa:22,27" lang="tr" %}}; {{% bible val="bütün kralların O'nun önünde eğilmesi, bütün ulusların O'na kulluk etmesi" link="psa:72,8-11" lang="tr" %}}; RAB'bin dağına akın eden ve {{% bible val="kılıçlarını çekiçle dövüp saban demiri yapan" link="isa:2,2-4" lang="tr" %}} uluslar; {{% bible val="sular denizi nasıl dolduruyorsa dünyanın da RAB bilgisiyle dolması" link="isa:11,9" lang="tr" %}}; {{% bible val="büyük bir dağ olup bütün dünyayı dolduran" link="dan:2,35" lang="tr" %}} taş.
+
+Yeni Antlaşma aynı ipi eline alır. Büyük Görev {{% bible val="bütün ulusların" link="mat:28,18-20" lang="tr" %}} öğrenci edilmesini bekler, aralarından örnek alınmasını değil. Maya benzetmesi genel olarak büyümeyi değil, tamamlanmayı anlatır — kadın mayayı {{% bible val="bütün hamur kabarıncaya dek" link="mat:13,33" lang="tr" %}} saklar. Ve Pavlus'un Romalılar 11'deki savı, bugünden büyük bir geleceğe dayanır: İsrail'in sürçmesi dünyaya zenginlik getirdiyse, {{% bible val="onların doluluğu" link="rom:11,12" lang="tr" %}} çok daha fazlasını getirecektir; {{% bible val="bütün İsrail kurtulacaktır" link="rom:11,25-26" lang="tr" %}}.
+
+**İki standart itiraz ve postmilenyalistlerin yanıtı.**
+
+*"Vahiy kötülüğün gerilediğini değil, tırmandığını gösteriyor — canavar kutsallarla savaşıyor ve onları yeniyor."* Bu itiraz Vahiy'in belirli bir okumasını varsayar ve günümüz postmilenyalistlerinin çoğu o okumayı savunmaz. Onlar **kısmi preteristtir**: canavarı, sıkıntıyı ve yargıları birinci yüzyılın ve MS 70'te Yeruşalim'in düşüşünün anlatımı olarak, yani çoktan geçmiş olarak okurlar. Bu okumada Vahiy bizim geleceğimize dair bir öngörü değildir ve itiraz onlara ulaşmaz. Kısmi preterizmin doğru olup olmadığı ayrı bir tartışmadır — bkz. {{% int_link val="preterist, historisist, fütürist ya da idealist" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}} — ama o tartışma yapılmalıdır, varsayılmamalıdır.
+
+*"Tarih öyle gitmedi."* Postmilenyalistler, bunun bütün bir çağa dair bir savı bir iki yüzyılla ve çoğunlukla Avrupa'yla ölçtüğünü söyler. Aynı dönem, Afrika'da, Asya'da ve Latin Amerika'da Hristiyanlığın tarihindeki en büyük sayısal yayılmayı da içerir. Geri gidişleri ve uzun gerilemeleri de kabul ederler; sav, düzgün yükselen bir çizgi değil, çağ boyunca izlenen yön hakkındadır.
+
+**Postmilenyalizme en güçlü karşılık** "tarih katılmıyor" değil, İsa'nın kendi {{% bible val="buğday ile deliceler" link="mat:13,24-30" lang="tr" %}} benzetmesidir; orada ikisi hasada dek birlikte büyür ve ayrılma açıkça sona ertelenir. Postmilenyalistler {{% bible val="tarlanın dünya olduğunu" link="mat:13,38" lang="tr" %}} ve benzetmenin hiçbir oran belirlemediğini söyler — erken ayrılmayı yasaklar, kalıcı bir çıkmaz vaat etmez. Bu adil bir yanıttır, ama benzetmenin en azından bu görüş *lehine* bir kanıt olmadığını da kabul eder.
+
+**Ve premilenyalizm bu düğümde nerede duruyor.** Dispensasyonel premilenyalizm aynı soruyu farklı yanıtlar: etnik İsrail'e verilen ülke ve ulus vaatleri somuttur ve geri alınmamıştır, dolayısıyla inecekleri somut bir yeryüzü krallığına ihtiyaç duyarlar — o krallık da milenyumdur. Amilenyalizm ise bu vaatlerin Mesih'te ve İsrail'in mirasçısı olarak kilisede indiğini yanıtlar — {{% bible val="Tanrı'nın bütün vaatleri O'nda evet'tir" link="2co:1,20" lang="tr" %}} ve Mesih'e ait olanlar {{% bible val="İbrahim'in soyudur, vaade göre mirasçıdır" link="gal:3,29" lang="tr" %}} — ve nihayet yeni yaratılışta; Yeşaya'nın uzun ömrü, sıradan işi ve verimli toprağı asıl oraya aittir. Bkz. {{% int_link val="İsrail ve kilise" link="/expl/background/israel/the-church-is-part-of-israel" %}}.
+
+Bu son alışveriş, premilenyalizmin gündeme getirdiği {{% bible val="Yeşaya 65" link="isa:65,18-25" lang="tr" %}} sorusunu da çözer: metin uzun ömrü ve sıradan işi anlatır ama insanlar hâlâ ölür; bu ne bu çağa ne de son duruma benzer. Ne var ki Yeşaya bölümü kendisi {{% bible val="yeni gökler ve yeni bir yeryüzü" link="isa:65,17" lang="tr" %}} diye tanıtır — Vahiy'in daha sonra son durum için kullandığı ifadenin aynısıyla.
+
+## Bu site nerede duruyor ve bunun bedeli ne
+
+<a name="c5e2"></a>
+{{% int_link val="Önceki yazı" link="/expl/content/1000y/the-thousand-year-kingdom" %}} amilenyalizmi savunur; başlıca 2. ve 3. düğümler üzerinden: bağlanmanın açıkça belirtilmiş bir kapsamı vardır ve aynı Hezekiel savaşının hem 19. hem 20. bölümün arkasında durması, bunlar iki ayrı olaysa açıklanması güçtür. Buna 20. bölümün, 12. bölümdeki Şeytan'ın düşüşü anlatısını ne kadar yakından izlediğini de ekleyin. Yinelemeli okuma, kitabın geri kalanından en az şey isteyen okumadır.
+
+Dürüst bedel 1. düğümdür. Tek bir fiilin, birkaç kelime arayla iki kez, iki farklı türde dirilme anlamına gelmesi, amilenyalizmin okurdan istediği en zor şeydir — ve yukarıdaki yanıt, bedenler değil canlar, iki düzeni işaretleyen "birinci/ikinci", bir argümandır; kesin bir darbe değil. O cümleyi kitabın yineleme alışkanlığından daha ağır tartan okur premilenyalist olur ve bunu yaparken düzgün akıl yürütmüş olur.
+
+{{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources/index.html#bock_millennium" %}} her savın, onu gerçekten benimseyen biri tarafından tam gücüyle ortaya konduğu ve ötekilerin yanıt verdiği yerdir — bu tartışmanın yapılmaya değer olduğu tek biçim.
+
+Üzerinde durmaya değer birkaç soru:
+
+- {{% bible val="Vahiy 20:4–5" link="rev:20,4-5" lang="tr" %}}'te aynı fiil her iki seferde de aynı anlamı taşımak zorunda mı — zorundaysa bundan ne çıkar?
+- "Bin yıl"a dair üç tablodan hangisi Vahiy'in öteki sayılarıyla en iyi bağdaşıyor — {{% bible val="144.000" link="rev:7,4" lang="tr" %}}, {{% bible val="42 ay" link="rev:13,5" lang="tr" %}}, {{% bible val="1.260 gün" link="rev:12,6" lang="tr" %}}? Bunlar baş sayımları ve takvimler mi, yoksa simgeler mi?
+- Şeytan bağlıysa, bu bağlanma tam olarak neyi durduruyor — ve yarattığı farkı gösterebilir misiniz?
+- Eski Antlaşma'nın uluslara vaat ettiklerinin ne kadarının tarih içinde gerçekleşmesini bekliyorsunuz, ne kadarının ancak sonrasında? Bu soruya verdiğiniz yanıt, büyük olasılıkla ötekilerin hepsine verdiğiniz yanıtı belirliyor.
