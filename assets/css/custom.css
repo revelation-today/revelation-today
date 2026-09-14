@@ -42,3 +42,46 @@ html.dark .bible-link { color: #a78bfa; }
   opacity: 0.65;
   text-decoration: none;
 }
+
+/* ---------------------------------------------------------------------------
+   In-page table of contents (the page_toc shortcode).
+
+   The theme's TOC sits in the right sidebar, which phones never show, so a
+   long page of questions gave a phone reader no way to see what was on it
+   without scrolling the lot. This one lives in the body.
+   --------------------------------------------------------------------------- */
+.page-toc {
+  margin: 1.5rem 0 2rem;
+  padding: 0.75rem 1.25rem;
+  border: 1px solid rgb(229 231 235);
+  border-radius: 0.5rem;
+  background: rgb(249 250 251);
+}
+html.dark .page-toc {
+  border-color: rgb(38 38 38);
+  background: rgb(255 255 255 / 0.03);
+}
+.page-toc ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+/* two columns once there is room; one column on a phone */
+@media (min-width: 640px) {
+  .page-toc ul { columns: 2; column-gap: 2.5rem; }
+}
+.page-toc li {
+  margin: 0.3rem 0;
+  break-inside: avoid;
+  line-height: 1.4;
+}
+.page-toc a { text-decoration: none; }
+.page-toc a:hover { text-decoration: underline; }
+.page-toc-label {
+  margin: 0 0 0.5rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  opacity: 0.6;
+}

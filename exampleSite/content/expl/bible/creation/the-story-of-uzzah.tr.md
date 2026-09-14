@@ -10,7 +10,7 @@ docType: expl
 
 Belki de Uzza'nın öyküsünü, ve Tanrı'nın onu antlaşma sandığını kurtarmaya çalıştığı için nasıl vurup öldürdüğünü hiç duymamışsınızdır. Tuhaf bir öyküdür ve bugün bizimle hiçbir ilgisi yokmuş gibi görünebilir. Ama vardır — ve nedeni sizi şaşırtabilir. Adım adım ilerleyelim.
 
-# Öykü
+## Öykü
 
 İsrail'in ilk kralı Saul tahta çıkmadan önce, {{% bible val="İsrail Filistliler'le savaş hâlindeydi ve savaşı kazanmak için Antlaşma Sandığı'nı savaş alanına getirmek gibi görkemli bir fikirleri vardı" link="1sa:4,1-11" lang="tr" %}}. Sandık, Eski Antlaşma'da Tanrı'nın bulunduğu yerdi ve İsrail, Tanrı'nın düşmanlarının savaşı kazanıp sandığı ele geçirmesine asla izin vermeyeceğini varsaymıştı. Yanılıyorlardı — Tanrı kendisinin bu şekilde kullanılmasına izin vermez.
 
@@ -20,7 +20,7 @@ Belki de Uzza'nın öyküsünü, ve Tanrı'nın onu antlaşma sandığını kurt
 
 Davut bundan derinden sarsılır ve yeniden denemesi — bu kez farklı bir şekilde — üç ayını alır.
 
-# Peki neler oluyor?
+## Peki neler oluyor?
 
 Bunu anlamlandırmak için öyküde biraz daha geriye gitmemiz gerekir. Tanrı, çadırın sürekli hareket hâlinde olduğu Mısır'dan Çıkış günlerinde, sandık ve kutsal yerle ilgili buyruklarını verirken, bunların nasıl taşınması gerektiği konusunda çok açıktı.
 
@@ -30,7 +30,7 @@ Sandık Filistin topraklarından geri geldiğinde, Filistliler'in daha iyisini b
 
 Görünüşe göre Tanrı, sandığı arabadan kaydırarak bu düzenlemeden kurtulmak istedi. Uzza onu durdurdu ve Tanrı bunun için onu cezalandırdı.
 
-# Peki ya bugün?
+## Peki ya bugün?
 
 Bugün bile Tanrı bize yaklaşmanın yollarını arıyor. Biz ise, kendi payımıza, O'nu kutulara kapatıp kolumuzun uzunluğunda tutmanın pek çok yolunu buluyoruz.
 

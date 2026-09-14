@@ -7,6 +7,8 @@ Hier sind die übergreifenden Fragen versammelt, die Menschen oft an die Offenba
 
 Jede Frage bekommt hier eine kurze, ehrliche Antwort, mit einem Link zur ausführlicheren Erklärung, falls du tiefer einsteigen willst. Was auch immer du zu diesen Themen bisher gehört hast - in einer Predigt, einem Film oder einem Gespräch - du bist hier willkommen. Diese Antworten sind ein Versuch, den Text sorgfältig zu lesen, nicht das letzte Wort dazu.
 
+{{< page_toc >}}
+
 ## 1. Wird es eine "Entrückung" geben, bei der Christen plötzlich verschwinden?
 
 Viele Menschen haben von einem Moment gehört, in dem Gläubige plötzlich von der Erde verschwinden werden - hinaufgenommen, um bei Jesus zu sein, während alle anderen "zurückgelassen" werden. Diese Vorstellung wird weithin gelehrt, und wenn du damit aufgewachsen bist, bist du in guter Gesellschaft - viele aufrichtige Gläubige vertreten sie.

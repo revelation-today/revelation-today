@@ -10,7 +10,7 @@ docType: expl
 
 Maybe you've never heard the story of Uzzah, and how God struck him down for trying to rescue the ark. It's a strange story, and it can seem to have no relevance at all for us today. It does — and the reason may surprise you. Let's take it step by step.
 
-# The Story
+## The Story
 
 Before Israel's first king, Saul, was enthroned, {{% bible val="Israel was at war with the Philistines and had the glorious idea of bringing the ark of the covenant into battle so that they would win" link="1sa:4,1-11" lang="en" %}}. The ark was where God resided in the Old Testament, and Israel assumed God would never let their enemy win the battle and capture it. They were wrong — God does not allow himself to be manipulated like that.
 
@@ -20,7 +20,7 @@ Before Israel's first king, Saul, was enthroned, {{% bible val="Israel was at wa
 
 David is shaken by this, and it takes him three months before he tries again — this time, differently.
 
-# What is going on?
+## What is going on?
 
 To make sense of this, we need to go back a bit further in the story. When God gave instructions for the ark and the sanctuary, he was very clear about how it should be transported, back in the days of the Exodus, when the tent was constantly on the move.
 
@@ -30,7 +30,7 @@ By the time the ark came back from Philistine territory, the Philistines could b
 
 God, it seems, wanted to break out of this arrangement by letting the ark slide off the cart. Uzzah stopped him, and God punished him for it.
 
-# And today?
+## And today?
 
 Even today, God looks for ways to come close to us. And we, in turn, have plenty of ways of boxing him in and keeping him at arm's length.
 

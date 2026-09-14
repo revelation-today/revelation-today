@@ -7,6 +7,8 @@ Ini adalah pertanyaan-pertanyaan lintas pasal yang sering diajukan orang tentang
 
 Setiap pertanyaan mendapat jawaban singkat dan jujur di sini, dengan tautan ke penjelasan yang lebih lengkap jika kamu ingin mendalami lebih jauh. Apa pun yang pernah kamu dengar tentang topik-topik ini sebelumnya - dalam khotbah, film, atau percakapan - kamu diterima di sini. Jawaban-jawaban ini adalah satu upaya untuk membaca teks dengan saksama, bukan kata akhir tentang semuanya.
 
+{{< page_toc >}}
+
 ## 1. Akankah ada 'pengangkatan' (rapture) di mana orang Kristen tiba-tiba menghilang?
 
 Banyak orang pernah mendengar tentang suatu saat ketika orang percaya akan tiba-tiba lenyap dari bumi, diangkat untuk bersama Yesus sementara semua orang lain "ditinggalkan." Ini adalah gagasan yang diajarkan secara luas, dan jika kamu dibesarkan dengan pemahaman itu, kamu tidak sendirian - banyak orang percaya yang tulus memegangnya.

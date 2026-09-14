@@ -7,6 +7,8 @@ Bunlar, insanların Vahiy kitabına sıkça getirdiği, bölümler arasında gez
 
 Her sorunun burada kısa, dürüst bir cevabı var; daha derine inmek istersen ayrıntılı açıklamaya bir bağlantı da eklendi. Bu konularda daha önce ne duymuş olursan ol - bir vaazda, bir filmde ya da bir sohbette - burada sana yer var. Bu cevaplar metni dikkatle okumaya yönelik bir girişim; hiçbiri hakkında son söz değil.
 
+{{< page_toc >}}
+
 ## 1. Hristiyanların aniden ortadan kaybolacağı bir 'alınıp götürülme' (rapture) olacak mı?
 
 Birçok insan, imanlıların bir anda yeryüzünden kaybolacağı, İsa'yla birlikte olmak üzere yukarı alınırken diğer herkesin "geride bırakılacağı" bir andan söz edildiğini duymuştur. Yaygın olarak öğretilen bir düşünce bu; eğer sen de bu öğretiyle büyüdüysen, yalnız değilsin - pek çok samimi imanlı bu görüşü paylaşıyor.

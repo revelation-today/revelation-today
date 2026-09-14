@@ -10,7 +10,7 @@ docType: expl
 
 Mungkin Anda belum pernah mendengar kisah Uza, dan bagaimana Allah menghukumnya mati karena berusaha menyelamatkan tabut perjanjian. Ini adalah kisah yang aneh, dan bisa tampak sama sekali tidak relevan bagi kita hari ini. Padahal relevan — dan alasannya mungkin akan mengejutkan Anda. Mari kita telusuri langkah demi langkah.
 
-# Kisahnya
+## Kisahnya
 
 Sebelum Saul, raja pertama Israel, dinobatkan, {{% bible val="Israel sedang berperang melawan orang Filistin dan mendapat ide gemilang untuk membawa tabut perjanjian ke medan perang agar mereka menang" link="1sa:4,1-11" lang="ind" %}}. Tabut itu adalah tempat kediaman Allah dalam Perjanjian Lama, dan Israel mengira Allah tidak akan pernah membiarkan musuh mereka memenangkan pertempuran itu dan merampas tabut-Nya. Mereka keliru — Allah tidak membiarkan diri-Nya dimanipulasi seperti itu.
 
@@ -20,7 +20,7 @@ Sebelum Saul, raja pertama Israel, dinobatkan, {{% bible val="Israel sedang berp
 
 Daud sangat terguncang karena peristiwa itu, dan butuh waktu tiga bulan baginya untuk mencoba lagi — kali ini, dengan cara yang berbeda.
 
-# Apa yang Sedang Terjadi di Sini?
+## Apa yang Sedang Terjadi di Sini?
 
 Untuk memahami hal ini, kita perlu kembali sedikit lebih jauh dalam kisah ini. Ketika Allah memberikan petunjuk-petunjuk tentang tabut dan tempat kudus itu, Ia sangat jelas tentang bagaimana benda-benda itu harus diangkut, jauh sejak masa Keluaran, ketika kemah itu senantiasa berpindah-pindah.
 
@@ -30,7 +30,7 @@ Pada saat tabut itu kembali dari wilayah Filistin, orang Filistin masih bisa dim
 
 Tampaknya Allah ingin membebaskan diri-Nya dari susunan ini dengan membiarkan tabut itu tergelincir dari kereta. Uza mencegah-Nya melakukan hal itu, dan Allah menghukumnya karena perbuatan itu.
 
-# Dan Bagaimana dengan Zaman Kita?
+## Dan Bagaimana dengan Zaman Kita?
 
 Bahkan hingga hari ini, Allah mencari cara untuk mendekat kepada kita. Dan kita, pada gilirannya, memiliki banyak cara untuk mengurung-Nya dan menjaga-Nya tetap berjarak.
 

@@ -1,0 +1,36 @@
+{{- /* In-page table of contents, built from the page's own h2 headings.
+
+   The theme's TOC lives in the right-hand sidebar, which phones never show,
+   so on a long page of questions a phone reader has no way to see what is
+   on the page without scrolling all of it. This one renders in the body.
+
+   It reads RawContent rather than .Fragments.Headings: a shortcode runs
+   *while* the page is being rendered, so asking for the page's own
+   fragments returns nothing.
+
+   `anchorize` is the same function the theme's sidebar TOC uses, so the two
+   agree. It percent-encodes non-ASCII, which looks wrong in the markup next
+   to a raw id like "entrückung" - it is not. Browsers decode a fragment
+   before matching it against an element id, so both forms land.
+
+   Usage: {{< page_toc >}} */ -}}
+
+{{- $headings := findRE `(?m)^## +\S.*$` .Page.RawContent -}}
+{{- if gt (len $headings) 1 -}}
+<nav class="page-toc" aria-label="{{ T `onthispage` }}">
+  <p class="page-toc-label">{{ T `onthispage` }}</p>
+  <ul>
+    {{- range $headings -}}
+      {{- $text := trim (replaceRE `^##\s+` "" .) " " -}}
+      {{- $id := "" -}}
+      {{- if strings.Contains $text "{#" -}}
+        {{- $id = replaceRE `^.*\{#([^}]+)\}.*$` "$1" $text -}}
+        {{- $text = replaceRE `\s*\{#[^}]*\}` "" $text -}}
+      {{- else -}}
+        {{- $id = anchorize $text -}}
+      {{- end -}}
+      <li><a href="#{{ $id }}">{{ $text | markdownify | plainify | htmlUnescape }}</a></li>
+    {{- end -}}
+  </ul>
+</nav>
+{{- end -}}

@@ -10,7 +10,7 @@ docType: expl
 
 Vielleicht hast du noch nie die Geschichte von Usa gehört — und davon, wie Gott ihn erschlug, weil er versuchte, die Bundeslade zu retten. Es ist eine merkwürdige Geschichte, die für uns heute völlig belanglos erscheinen kann. Ist sie aber nicht — und der Grund dafür mag dich überraschen. Gehen wir es Schritt für Schritt durch.
 
-# Die Geschichte
+## Die Geschichte
 
 Bevor Israels erster König, Saul, inthronisiert wurde, {{% bible val="befand sich Israel im Krieg mit den Philistern und hatte die glorreiche Idee, die Bundeslade in die Schlacht zu bringen, damit man den Sieg davontrage" link="1sa:4,1-11" lang="de" %}}. Die Bundeslade war der Ort, an dem Gott im Alten Testament wohnte, und Israel ging davon aus, dass Gott niemals zulassen würde, dass der Feind die Schlacht gewinnt und sie erbeutet. Sie irrten sich — Gott lässt sich nicht auf diese Weise manipulieren.
 
@@ -20,7 +20,7 @@ Bevor Israels erster König, Saul, inthronisiert wurde, {{% bible val="befand si
 
 David ist darüber erschüttert, und es dauert drei Monate, bis er es erneut versucht — diesmal anders.
 
-# Was steckt dahinter?
+## Was steckt dahinter?
 
 Um das zu verstehen, müssen wir in der Geschichte etwas weiter zurückgehen. Als Gott die Anweisungen für die Bundeslade und das Heiligtum gab, war er sehr klar darüber, wie sie transportiert werden sollte — schon in den Tagen des Exodus, als das Zelt ständig unterwegs war.
 
@@ -30,7 +30,7 @@ Als die Bundeslade aus dem Gebiet der Philister zurückkam, konnte man den Phili
 
 Gott, so scheint es, wollte aus dieser Ordnung ausbrechen, indem er die Bundeslade vom Wagen rutschen ließ. Usa hielt ihn davon ab, und Gott bestrafte ihn dafür.
 
-# Und heute?
+## Und heute?
 
 Auch heute noch sucht Gott Wege, uns nahezukommen. Und wir wiederum haben reichlich Möglichkeiten, ihn einzusperren und auf Distanz zu halten.
 

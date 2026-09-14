@@ -7,6 +7,8 @@ These are the cross-cutting questions people often bring to the book of Revelati
 
 Each question gets a short, honest answer here, with a link to the fuller explanation if you want to go deeper. Whatever you've heard about these topics before - in a sermon, a movie, or a conversation - you're welcome here. These answers are one attempt to read the text carefully, not the final word on any of it.
 
+{{< page_toc >}}
+
 ## 1. Will there be a "rapture" where Christians suddenly disappear?
 
 Many people have heard about a moment when believers will suddenly vanish from earth, taken up to be with Jesus while everyone else is "left behind." It's a widely taught idea, and if that's what you grew up with, you're in good company - a lot of sincere believers hold it.
