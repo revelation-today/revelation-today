@@ -9,7 +9,7 @@ deeper:
 sources:
     - pages: 28–33
       ref: beale_rev
-prev: /welcome/expl
+prev: /about/ressources
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
 appl: /appl/background/history

@@ -1,7 +1,7 @@
 ---
 title: "Literatur yang digunakan"
 prev: /about
-next: /welcome/expl
+next: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Ketika kamu ingin mempelajari Kitab Wahyu, sulit untuk tahu harus mulai dari mana. Ada begitu banyak materi dan begitu banyak pandangan yang berbeda. Bagaimana kamu memulainya? Panduan ini akan memberimu sedikit arah. Saya akan berusaha membuat semuanya setransparan mungkin, sehingga kamu juga bisa melihat pandangan-pandangan lain.
@@ -27,7 +27,7 @@ Keinginan saya adalah agar kamu bisa menjadikan ini sebagai bahan belajar mandir
 
 Rujukan Alkitab yang lebih kompleks dapat ditemukan dalam literatur yang perlu kamu beli, yang saya usahakan seminim mungkin agar kamu mampu membelinya.
 
-Dalam {{% int_link val="artikel-artikel rujukan" link="/welcome/expl" %}}, kamu akan menemukan tautan ke sumber-sumber terkait. Tugas saya hanyalah membacanya, memilih materi yang tepat, dan membuat rangkuman yang mudah dibaca.
+Dalam artikel-artikel rujukan, kamu akan menemukan tautan ke sumber-sumber terkait. Tugas saya hanyalah membacanya, memilih materi yang tepat, dan membuat rangkuman yang mudah dibaca.
 
 ## Buku-buku kunci
 

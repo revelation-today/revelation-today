@@ -1,7 +1,7 @@
 ---
 title: "Kullanılan literatür"
 prev: /about
-next: /welcome/expl
+next: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 ## Yorumlama İlkeleri
@@ -27,7 +27,7 @@ Daha karmaşık Kutsal Kitap referansları, satın almanız gereken literatürde
 
 Her kitap için sadece bir örnek kullandım, ancak tercih ettiğiniz yerden satın almaktan çekinmeyin.
 
-{{% int_link val="Referans makalelerinde" link="/welcome/expl" %}} ilgili kaynaklara bağlantılar bulacaksınız. Benim işim sadece bunları okumak, doğru materyale karar vermek ve okunması kolay bir özet yapmaktı.
+Referans makalelerinde ilgili kaynaklara bağlantılar bulacaksınız. Benim işim sadece bunları okumak, doğru materyale karar vermek ve okunması kolay bir özet yapmaktı.
 
 ## Anahtar kitaplar
 

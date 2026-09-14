@@ -1,7 +1,7 @@
 ---
 title: "Used literature"
 prev: /about
-next: /welcome/expl
+next: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 When you want to study the book of Revelation, it is hard to know where to start. There is so much material and so many different views. How do you begin? This guide will give you some direction. I will try to make things as transparent as possible so that you can also look at other views.
@@ -27,7 +27,7 @@ My desire is that you be able to have this as a self-study. Therefore, I have tr
 
 More complex Bible references are found in literature that you need to buy, where I have tried to keep this to a minimum so that you can afford to buy them.
 
-In the {{% int_link val="reference articles" link="/welcome/expl" %}} you will find links to the respective sources. My job was just to read through them, choose the right material, and make an easy-to-read summary.
+In the reference articles you will find links to the respective sources. My job was just to read through them, choose the right material, and make an easy-to-read summary.
 
 ## Key books
 
