@@ -4,85 +4,86 @@ weight: 65
 docType: expl
 ---
 
-994 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+997 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="Wahyu:1" link="rev:1,-1" lang="ind" %}} | [""Penglihatan (Pasal 1)"": Pasal 1](/kids/content/vision#None) |
-| {{% bible val="Wahyu:1" link="rev:1,-1" lang="ind" %}} | ["Yesus Lebih Besar dari Raja Mana Pun": Wahyu 1](/kids/early-childhood/01-jesus-is-bigger-than-any-king#None) |
-| {{% bible val="Wahyu:1" link="rev:1,-1" lang="ind" %}} | ["Wahyu 1": Wahyu 1](/kids/elementary/02-the-vision#None) |
-| {{% bible val="Wahyu:1" link="rev:1,-1" lang="ind" %}} | [""Wahyu 1: Penglihatan yang Terlalu Besar untuk Diabaikan"": Wahyu 1](/kids/teens/01-a-vision-too-big-to-ignore#None) |
-| {{% bible val="Wahyu:1" link="rev:1,-1" lang="ind" %}} | [""Penglihatan Itu (Pasal 1)"": Pasal 1](/quick/content/vision#None) |
+| {{% bible val="Wahyu:1" link="rev:1,-1" lang="ind" %}} | [""Penglihatan (Pasal 1)"": Pasal 1](/kids/content/vision) |
+| {{% bible val="Wahyu:1" link="rev:1,-1" lang="ind" %}} | ["Yesus Lebih Besar dari Raja Mana Pun": Wahyu 1](/kids/early-childhood/01-jesus-is-bigger-than-any-king) |
+| {{% bible val="Wahyu:1" link="rev:1,-1" lang="ind" %}} | ["Wahyu 1": Wahyu 1](/kids/elementary/02-the-vision#wahyu-1) |
+| {{% bible val="Wahyu:1" link="rev:1,-1" lang="ind" %}} | [""Wahyu 1: Penglihatan yang Terlalu Besar untuk Diabaikan"": Wahyu 1](/kids/teens/01-a-vision-too-big-to-ignore) |
+| {{% bible val="Wahyu:1" link="rev:1,-1" lang="ind" %}} | [""Penglihatan Itu (Pasal 1)"": Pasal 1](/quick/content/vision) |
 | {{% bible val="Wahyu:1,1" link="rev:1,1" lang="ind" %}} | ["Apa yang Harus Terjadi": permulaan](/expl/background/literature/literally-or-symbolic#af5e) |
-| {{% bible val="Wahyu:1,1" link="rev:1,1" lang="ind" %}} | ["deiknumi dan semaino {#deiknumi}": Inilah wahyu Yesus Kristus, yang dikaruniakan Allah kepada-Nya, supaya ditunjukkan-Nya (deiknumi) kepada hamba-hamba-Nya apa yang harus segera terjadi. Dan Ia menyatakannya (semaino) dengan mengutus malaikat-Nya kepada hamba-Nya Yohanes](/expl/background/literature/literally-or-symbolic#dd9c) |
+| {{% bible val="Wahyu:1,1" link="rev:1,1" lang="ind" %}} | ["deiknumi dan semaino": Inilah wahyu Yesus Kristus, yang dikaruniakan Allah kepada-Nya, supaya ditunjukkan-Nya (deiknumi) kepada hamba-hamba-Nya apa yang harus segera terjadi. Dan Ia menyatakannya (semaino) dengan mengutus malaikat-Nya kepada hamba-Nya Yohanes](/expl/background/literature/literally-or-symbolic#dd9c) |
 | {{% bible val="Wahyu:1,1" link="rev:1,1" lang="ind" %}} | ["deiknumi": menyatakannya dengan mengutus malaikat-Nya kepada hamba-Nya Yohanes](/expl/background/literature/literally-or-symbolic#360a) |
-| {{% bible val="Wahyu:1,1" link="rev:1,1" lang="ind" %}} | [""Preterisme, historisisme, futurisme, atau idealisme?"": 'apa yang harus segera terjadi'](/expl/background/literature/preterist-historicist-futurist-or-idealist#None) |
+| {{% bible val="Wahyu:1,1" link="rev:1,1" lang="ind" %}} | [""Preterisme, historisisme, futurisme, atau idealisme?"": 'apa yang harus segera terjadi'](/expl/background/literature/preterist-historicist-futurist-or-idealist) |
 | {{% bible val="Wahyu:1,1" link="rev:1,1" lang="ind" %}} | ["Preterisme": 'harus segera terjadi'](/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Wahyu:1,1" link="rev:1,1" lang="ind" %}} | ["Wahyu Yesus": Inilah wahyu Yesus Kristus, yang dikaruniakan Allah kepada-Nya, supaya ditunjukkan-Nya kepada hamba-hamba-Nya apa yang harus segera terjadi. Dan oleh malaikat-Nya yang diutus-Nya, Ia telah menyatakannya kepada hamba-Nya Yohanes](/expl/content/vision/setting-the-foundation#7a04) |
 | {{% bible val="Wahyu:1,1" link="rev:1,1" lang="ind" %}} | ["Siapa yang menulisnya": Yohanes](/expl/topics/others/who-wrote-revelation-and-when#a1f2) |
-| {{% bible val="Wahyu:1,1-3" link="rev:1,1-3" lang="ind" %}} | ["Sebuah Nubuat {#prophecy}": dimulai dengan sebuah bagian](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
-| {{% bible val="Wahyu:1,1-3" link="rev:1,1-3" lang="ind" %}} | [""Latar Belakang: Membaca Wahyu dengan Benar"": Wahyu 1:1–3](/kids/teens-prep/02-reading-revelation-right#None) |
-| {{% bible val="Wahyu:1,1-3" link="rev:1,1-3" lang="ind" %}} | ["Pengajaran Inti": Why 1:1-3](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#None) |
+| {{% bible val="Wahyu:1,1-3" link="rev:1,1-3" lang="ind" %}} | ["Sebuah Nubuat": dimulai dengan sebuah bagian](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Wahyu:1,1-3" link="rev:1,1-3" lang="ind" %}} | [""Latar Belakang: Membaca Wahyu dengan Benar"": Wahyu 1:1–3](/kids/teens-prep/02-reading-revelation-right) |
+| {{% bible val="Wahyu:1,1-3" link="rev:1,1-3" lang="ind" %}} | ["Pengajaran Inti": Why 1:1-3](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#pengajaran-inti) |
 | {{% bible val="Wahyu:1,2" link="rev:1,2" lang="ind" %}} | ["Wahyu Yesus": Ayat berikutnya](/expl/content/vision/setting-the-foundation#7a04) |
-| {{% bible val="Wahyu:1,3" link="rev:1,3" lang="ind" %}} | [""Preterisme, historisisme, futurisme, atau idealisme?"": 'waktunya sudah dekat'](/expl/background/literature/preterist-historicist-futurist-or-idealist#None) |
+| {{% bible val="Wahyu:1,3" link="rev:1,3" lang="ind" %}} | [""Preterisme, historisisme, futurisme, atau idealisme?"": 'waktunya sudah dekat'](/expl/background/literature/preterist-historicist-futurist-or-idealist) |
 | {{% bible val="Wahyu:1,3" link="rev:1,3" lang="ind" %}} | ["Preterisme": 'waktunya sudah dekat'](/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Wahyu:1,4" link="rev:1,4" lang="ind" %}} | ["Dasar": Dari Yohanes kepada ketujuh jemaat yang di Asia: Kasih karunia dan damai sejahtera menyertai kamu, dari Dia, yang ada dan yang sudah ada dan yang akan datang, dan dari ketujuh Roh yang ada di hadapan takhta-Nya](/expl/content/vision/setting-the-foundation#bb4f) |
-| {{% bible val="Wahyu:1,4-6" link="rev:1,4-6" lang="ind" %}} | ["Sebuah Surat {#letter}": pengantar formal](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
-| {{% bible val="Wahyu:1,4-6" link="rev:1,4-6" lang="ind" %}} | ["Pengajaran Inti": Why 1:4-6](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#None) |
+| {{% bible val="Wahyu:1,4-6" link="rev:1,4-6" lang="ind" %}} | ["Sebuah Surat": pengantar formal](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
+| {{% bible val="Wahyu:1,4-6" link="rev:1,4-6" lang="ind" %}} | ["Pengajaran Inti": Why 1:4-6](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#pengajaran-inti) |
 | {{% bible val="Wahyu:1,5" link="rev:1,5" lang="ind" %}} | ["Dasar": dan dari Yesus Kristus, Saksi yang setia, yang pertama bangkit dari antara orang mati dan yang berkuasa atas raja-raja bumi ini. Bagi Dia, yang mengasihi kita dan yang telah melepaskan kita dari dosa kita oleh darah-Nya](/expl/content/vision/setting-the-foundation#bb4f) |
 | {{% bible val="Wahyu:1,5" link="rev:1,5" lang="ind" %}} | ["Penafsiran Itu": di awal pasal ini](/expl/content/vision/the-vision#4bd0) |
 | {{% bible val="Wahyu:1,5" link="rev:1,5" lang="ind" %}} | ["Kekalahan yang berubah menjadi kemenangan": Yesus adalah saksi yang setia](/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="Wahyu:1,5-6" link="rev:1,5-6" lang="ind" %}} | ["Kerajaan Imam": Kitab Wahyu](/expl/background/israel/the-church-is-part-of-israel#d5f3) |
 | {{% bible val="Wahyu:1,5-6" link="rev:1,5-6" lang="ind" %}} | ["Penglihatan di balik surat-surat ini": apa yang telah dilakukan Yesus](/expl/content/letters/the-letters-to-the-seven-churches#216d) |
-| {{% bible val="Wahyu:1,5-6" link="rev:1,5-6" lang="ind" %}} | ["Pengajaran Inti": Why 1:5-6](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Wahyu:1,5-6" link="rev:1,5-6" lang="ind" %}} | ["Pengajaran Inti": Why 1:5-6](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#pengajaran-inti) |
+| {{% bible val="Wahyu:1,6" link="rev:1,6" lang="ind" %}} | ["Menanggung Ketegangan Itu": kita sebagai raja-raja](/appl/topics/hero/who-rules-the-world#25a9) |
 | {{% bible val="Wahyu:1,6" link="rev:1,6" lang="ind" %}} | ["Apakah kita akan dipenggal kepala?": kita semua, yang disebut raja-raja dan imam-imam](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
 | {{% bible val="Wahyu:1,6" link="rev:1,6" lang="ind" %}} | ["Dasar": dan yang telah membuat kita menjadi suatu kerajaan, menjadi imam-imam bagi Allah, Bapa-Nya, - bagi Dialah kemuliaan dan kuasa sampai selama-lamanya! Amin.](/expl/content/vision/setting-the-foundation#bb4f) |
 | {{% bible val="Wahyu:1,7" link="rev:1,7" lang="ind" %}} | ["Ia Datang bersama Awan-Awan": Lihatlah, Ia datang dengan awan-awan dan setiap mata akan melihat Dia, juga mereka yang telah menikam Dia, dan semua bangsa di bumi akan meratapi Dia. Ya, amin.](/expl/content/vision/setting-the-foundation#aaf2) |
 | {{% bible val="Wahyu:1,8" link="rev:1,8" lang="ind" %}} | ["Binatang berwarna merah kirmizi": yang ada dan yang sudah ada dan yang akan datang](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
-| {{% bible val="Wahyu:1,8" link="rev:1,8" lang="ind" %}} | ["Menyingkap topeng sang pelacur": Wahyu 1:8](/quick/content/harlot#None) |
+| {{% bible val="Wahyu:1,8" link="rev:1,8" lang="ind" %}} | ["Menyingkap topeng sang pelacur": Wahyu 1:8](/quick/content/harlot#menyingkap-topeng-sang-pelacur) |
 | {{% bible val="Wahyu:1,9" link="rev:1,9" lang="ind" %}} | ["Apakah kita akan dipenggal kepala?": Yohanes dalam pembuangan](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
 | {{% bible val="Wahyu:1,9" link="rev:1,9" lang="ind" %}} | ["Ikhtisar": berada di pulau Patmos, diasingkan - menurut tradisi yang banyak dipegang - karena kesaksiannya tentang Yesus, meskipun diperdebatkan apakah ini pengasingan resmi Romawi atau ladang misi yang dipilihnya sendiri](/expl/content/vision/the-vision#1bab) |
-| {{% bible val="Wahyu:1,9" link="rev:1,9" lang="ind" %}} | ["Latar Belakang": Wahyu 1:9](/kids/elementary/01-who-is-really-in-charge#None) |
-| {{% bible val="Wahyu:1,9" link="rev:1,9" lang="ind" %}} | [""Latar Belakang: Pax Romana Versimu Sendiri"": Wahyu 1:9](/kids/teens-prep/01-your-own-pax-romana#None) |
-| {{% bible val="Wahyu:1,9-20" link="rev:1,9-20" lang="ind" %}} | ["Sebuah Nubuat {#prophecy}": sebuah penglihatan yang dipasangkan dengan sebuah panggilan](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
-| {{% bible val="Wahyu:1,10-11" link="rev:1,10-11" lang="ind" %}} | ["Sebuah Surat {#letter}": sebagai surat kepada tujuh jemaat](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
-| {{% bible val="Wahyu:1,10-11" link="rev:1,10-11" lang="ind" %}} | ["Pengajaran Inti": kepada tujuh jemaat yang sungguh nyata](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#None) |
+| {{% bible val="Wahyu:1,9" link="rev:1,9" lang="ind" %}} | ["Latar Belakang": Wahyu 1:9](/kids/elementary/01-who-is-really-in-charge#latar-belakang) |
+| {{% bible val="Wahyu:1,9" link="rev:1,9" lang="ind" %}} | [""Latar Belakang: Pax Romana Versimu Sendiri"": Wahyu 1:9](/kids/teens-prep/01-your-own-pax-romana) |
+| {{% bible val="Wahyu:1,9-20" link="rev:1,9-20" lang="ind" %}} | ["Sebuah Nubuat": sebuah penglihatan yang dipasangkan dengan sebuah panggilan](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Wahyu:1,10-11" link="rev:1,10-11" lang="ind" %}} | ["Sebuah Surat": sebagai surat kepada tujuh jemaat](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
+| {{% bible val="Wahyu:1,10-11" link="rev:1,10-11" lang="ind" %}} | ["Pengajaran Inti": kepada tujuh jemaat yang sungguh nyata](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#pengajaran-inti) |
 | {{% bible val="Wahyu:1,10-12" link="rev:1,10-12" lang="ind" %}} | ["Latar Belakang dan Konteks": awal penglihatan mengenai jemaat-jemaat](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:1,11" link="rev:1,11" lang="ind" %}} | ["Pengamatan": menulis kepada ketujuh jemaat](/expl/content/letters/the-angel-of-the-churches#e9dd) |
 | {{% bible val="Wahyu:1,17-18" link="rev:1,17-18" lang="ind" %}} | ["Serangan Ganda": Yesus memerintah selama-lamanya](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:1,19" link="rev:1,19" lang="ind" %}} | ["Apa yang Harus Terjadi": tepat sebelum surat-surat kepada jemaat-jemaat](/expl/background/literature/literally-or-symbolic#af5e) |
-| {{% bible val="Wahyu:1,19" link="rev:1,19" lang="ind" %}} | [""Latar Belakang: Tidak Acak: Desain Tersembunyi Wahyu"": Wahyu 1:19](/kids/teens-prep/03-not-random-the-hidden-design-of-revelation#None) |
+| {{% bible val="Wahyu:1,19" link="rev:1,19" lang="ind" %}} | [""Latar Belakang: Tidak Acak: Desain Tersembunyi Wahyu"": Wahyu 1:19](/kids/teens-prep/03-not-random-the-hidden-design-of-revelation) |
 | {{% bible val="Wahyu:1,20" link="rev:1,20" lang="ind" %}} | ["Pohon Zaitun": gereja diidentifikasikan](/expl/background/israel/the-church-is-part-of-israel#e179) |
 | {{% bible val="Wahyu:1,20" link="rev:1,20" lang="ind" %}} | ["Rahasia Itu": gereja](/expl/background/literature/literally-or-symbolic#8b2d) |
 | {{% bible val="Wahyu:1,20" link="rev:1,20" lang="ind" %}} | ["Pandangan Yesus": pasal 1](/expl/content/letters/the-letter-to-the-church-in-ephesus#adc4) |
 | {{% bible val="Wahyu:1,20" link="rev:1,20" lang="ind" %}} | ["Dasar": ketujuh kaki dian yang melambangkan jemaat-jemaat](/expl/content/vision/setting-the-foundation#bb4f) |
 | {{% bible val="Wahyu:1,20" link="rev:1,20" lang="ind" %}} | ["Penafsiran Itu": misteri kaki-kaki dian dan bintang-bintang itu terpecahkan](/expl/content/vision/the-vision#4bd0) |
 | {{% bible val="Wahyu:1,20" link="rev:1,20" lang="ind" %}} | ["Identitas kedua saksi": kepada ketujuh jemaat, yang diidentifikasikan dengan kaki dian-kaki dian itu](/expl/content/witnesses/the-two-witnesses#55fa) |
-| {{% bible val="Wahyu:1,20" link="rev:1,20" lang="ind" %}} | ["Pengajaran Inti": jemaat](/sermons/deep-dive/intro/03-symbol-or-literal#None) |
-| {{% bible val="Wahyu:1,20" link="rev:1,20" lang="ind" %}} | ["Pengajaran Inti": jemaat](/sermons/deep-dive/intro/06-the-three-mysteries#None) |
-| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | ["Sebuah Surat {#letter}": pasal 2 dan 3](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
-| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | [""Surat-surat (Pasal 2-3)"": Pasal 2](/kids/content/letters#None) |
-| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | ["Surat Khusus untukmu": Wahyu 2–3](/kids/early-childhood/02-letters-just-for-you#None) |
-| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | ["Wahyu 2–3": Wahyu 2–3](/kids/elementary/03-the-seven-letters#None) |
-| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | [""Wahyu 2–3: Surat Sungguhan untuk Jemaat Sungguhan"": Wahyu 2–3](/kids/teens/02-real-letters-to-real-churches#None) |
-| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | [""Wahyu 2–3: Jemaat-Jemaat yang Terlihat Baik-Baik Saja tapi Sebenarnya Tidak"": Wahyu 2–3](/kids/teens/03-the-churches-that-looked-fine-but-werent#None) |
-| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | [""Wahyu 2–3: Jemaat-Jemaat yang Tidak Pernah Cukup Dipuji"": Wahyu 2–3](/kids/teens/04-the-churches-nobody-praised-enough#None) |
-| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | [""Surat-surat kepada Jemaat (Pasal 2-3)"": Pasal 2](/quick/content/letters#None) |
+| {{% bible val="Wahyu:1,20" link="rev:1,20" lang="ind" %}} | ["Pengajaran Inti": jemaat](/sermons/deep-dive/intro/03-symbol-or-literal#pengajaran-inti) |
+| {{% bible val="Wahyu:1,20" link="rev:1,20" lang="ind" %}} | ["Pengajaran Inti": jemaat](/sermons/deep-dive/intro/06-the-three-mysteries#pengajaran-inti) |
+| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | ["Sebuah Surat": pasal 2 dan 3](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
+| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | [""Surat-surat (Pasal 2-3)"": Pasal 2](/kids/content/letters) |
+| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | ["Surat Khusus untukmu": Wahyu 2–3](/kids/early-childhood/02-letters-just-for-you) |
+| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | ["Wahyu 2–3": Wahyu 2–3](/kids/elementary/03-the-seven-letters#wahyu-23) |
+| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | [""Wahyu 2–3: Surat Sungguhan untuk Jemaat Sungguhan"": Wahyu 2–3](/kids/teens/02-real-letters-to-real-churches) |
+| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | [""Wahyu 2–3: Jemaat-Jemaat yang Terlihat Baik-Baik Saja tapi Sebenarnya Tidak"": Wahyu 2–3](/kids/teens/03-the-churches-that-looked-fine-but-werent) |
+| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | [""Wahyu 2–3: Jemaat-Jemaat yang Tidak Pernah Cukup Dipuji"": Wahyu 2–3](/kids/teens/04-the-churches-nobody-praised-enough) |
+| {{% bible val="Wahyu:2" link="rev:2,-1" lang="ind" %}} | [""Surat-surat kepada Jemaat (Pasal 2-3)"": Pasal 2](/quick/content/letters) |
 | {{% bible val="Wahyu:2,1" link="rev:2,1" lang="ind" %}} | ["Pengamatan": tuliskanlah kepada malaikat jemaat di](/expl/content/letters/the-angel-of-the-churches#e9dd) |
 | {{% bible val="Wahyu:2,1" link="rev:2,1" lang="ind" %}} | ["Pandangan Yesus": dia yang memegang bintang-bintang dan berjalan di antara kaki-kaki dian](/expl/content/letters/the-letter-to-the-church-in-ephesus#adc4) |
 | {{% bible val="Wahyu:2,2" link="rev:2,2" lang="ind" %}} | ["Siap untuk kematian kedua": mereka menyebut diri mereka rasul](/expl/content/paradise/the-new-jerusalem#e855) |
-| {{% bible val="Wahyu:2,4" link="rev:2,4" lang="ind" %}} | ["Sebuah Nubuat {#prophecy}": jangan biarkan kasihmu menjadi dingin](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Wahyu:2,4" link="rev:2,4" lang="ind" %}} | ["Sebuah Nubuat": jangan biarkan kasihmu menjadi dingin](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Wahyu:2,5" link="rev:2,5" lang="ind" %}} | ["Pengamatan": Ingatlah betapa dalamnya engkau telah jatuh](/expl/content/letters/the-angel-of-the-churches#e9dd) |
 | {{% bible val="Wahyu:2,6" link="rev:2,6" lang="ind" %}} | ["Pandangan Yesus": pengikut Nikolaus](/expl/content/letters/the-letter-to-the-church-in-ephesus#adc4) |
 | {{% bible val="Wahyu:2,7" link="rev:2,7" lang="ind" %}} | ["Pengamatan": apa yang dikatakan Roh kepada jemaat-jemaat](/expl/content/letters/the-angel-of-the-churches#e9dd) |
 | {{% bible val="Wahyu:2,7" link="rev:2,7" lang="ind" %}} | ["Solusinya": hak untuk makan dari pohon kehidupan, di taman firdaus Allah](/expl/content/letters/the-letter-to-the-church-in-ephesus#cb84) |
 | {{% bible val="Wahyu:2,7" link="rev:2,7" lang="ind" %}} | ["Sang pemenang": Efesus](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:2,8" link="rev:2,8" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": Ia telah mati dan hidup kembali](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
-| {{% bible val="Wahyu:2,8-11" link="rev:2,8-11" lang="ind" %}} | [""Surat kepada Smirna"": Smirna adalah satu dari hanya dua jemaat yang sama sekali tidak menerima teguran dari Yesus](/expl/content/letters/the-letter-to-the-church-in-smyrna#None) |
+| {{% bible val="Wahyu:2,8-11" link="rev:2,8-11" lang="ind" %}} | [""Surat kepada Smirna"": Smirna adalah satu dari hanya dua jemaat yang sama sekali tidak menerima teguran dari Yesus](/expl/content/letters/the-letter-to-the-church-in-smyrna) |
 | {{% bible val="Wahyu:2,9" link="rev:2,9" lang="ind" %}} | ["Para Pembaca Pertama": Smirna](/expl/background/literature/full-of-biblical-references#2957) |
 | {{% bible val="Wahyu:2,9" link="rev:2,9" lang="ind" %}} | ["Kesengsaraan Besar": seperti di Smirna](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Wahyu:2,9" link="rev:2,9" lang="ind" %}} | ["Pandangan Yesus": Smirna](/expl/content/letters/the-letter-to-the-church-in-philadelphia#40f8) |
-| {{% bible val="Wahyu:2,9" link="rev:2,9" lang="ind" %}} | ["Pengajaran Inti": Why 2:9](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Wahyu:2,9" link="rev:2,9" lang="ind" %}} | ["Pengajaran Inti": Why 2:9](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#pengajaran-inti) |
 | {{% bible val="Wahyu:2,10" link="rev:2,10" lang="ind" %}} | ["Apakah kita akan dipenggal kepala?": setia menghadapi kematian](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
 | {{% bible val="Wahyu:2,10" link="rev:2,10" lang="ind" %}} | ["Kesengsaraan Besar": penjara dan bahkan kematian](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Wahyu:2,10" link="rev:2,10" lang="ind" %}} | ["Pengamatan": Janganlah takut terhadap apa yang harus engkau derita! Sesungguhnya, Iblis akan melemparkan beberapa orang dari antara KAMU ke dalam penjara supaya KAMU dicobai, dan KAMU akan beroleh kesusahan selama sepuluh hari. Hendaklah engkau setia sampai mati, dan Aku akan mengaruniakan kepadamu mahkota kehidupan](/expl/content/letters/the-angel-of-the-churches#e9dd) |
@@ -90,17 +91,17 @@ docType: expl
 | {{% bible val="Wahyu:2,10" link="rev:2,10" lang="ind" %}} | ["Latar Belakang dan Konteks": yang dijanjikan kepada Smirna](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:2,11" link="rev:2,11" lang="ind" %}} | ["Sang pemenang": Smirna](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:2,12" link="rev:2,12" lang="ind" %}} | ["Pandangan Yesus": memegang pedang yang sangat tajam](/expl/content/letters/the-letter-to-the-church-in-pergamon#dc77) |
-| {{% bible val="Wahyu:2,12-17" link="rev:2,12-17" lang="ind" %}} | [""Surat kepada Pergamus"": Surat kepada jemaat di Pergamus](/expl/content/letters/the-letter-to-the-church-in-pergamon#None) |
+| {{% bible val="Wahyu:2,12-17" link="rev:2,12-17" lang="ind" %}} | [""Surat kepada Pergamus"": Surat kepada jemaat di Pergamus](/expl/content/letters/the-letter-to-the-church-in-pergamon) |
 | {{% bible val="Wahyu:2,13" link="rev:2,13" lang="ind" %}} | ["Pandangan Yesus": di mana Iblis diam dan memiliki takhtanya](/expl/content/letters/the-letter-to-the-church-in-pergamon#dc77) |
-| {{% bible val="Wahyu:2,14" link="rev:2,14" lang="ind" %}} | [""Kisah Bileam"": Namun demikian, Aku mempunyai beberapa perkara terhadap engkau: ada di antaramu yang berpegang pada ajaran Bileam, yang mengajarkan Balak untuk menjerumuskan orang Israel ke dalam dosa, sehingga mereka makan makanan yang dipersembahkan kepada berhala dan melakukan percabulan.](/expl/bible/keyword/the-story-of-balaam#None) |
+| {{% bible val="Wahyu:2,14" link="rev:2,14" lang="ind" %}} | [""Kisah Bileam"": Namun demikian, Aku mempunyai beberapa perkara terhadap engkau: ada di antaramu yang berpegang pada ajaran Bileam, yang mengajarkan Balak untuk menjerumuskan orang Israel ke dalam dosa, sehingga mereka makan makanan yang dipersembahkan kepada berhala dan melakukan percabulan.](/expl/bible/keyword/the-story-of-balaam) |
 | {{% bible val="Wahyu:2,14" link="rev:2,14" lang="ind" %}} | ["Aspek keagamaan": Pergamus melalui Bileam](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Wahyu:2,14" link="rev:2,14" lang="ind" %}} | ["Siap untuk kematian kedua": Pergamus](/expl/content/paradise/the-new-jerusalem#e855) |
-| {{% bible val="Wahyu:2,14" link="rev:2,14" lang="ind" %}} | ["Inti Pengajaran": di antara kamu ada orang-orang yang berpegang pada ajaran Bileam, yang mengajar Balak untuk menjerumuskan orang Israel ke dalam dosa dengan makan makanan persembahan berhala dan berbuat percabulan](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#None) |
-| {{% bible val="Wahyu:2,14-15" link="rev:2,14-15" lang="ind" %}} | ["Sebuah Nubuat {#prophecy}": jangan tolerir ajaran sesat](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Wahyu:2,14" link="rev:2,14" lang="ind" %}} | ["Inti Pengajaran": di antara kamu ada orang-orang yang berpegang pada ajaran Bileam, yang mengajar Balak untuk menjerumuskan orang Israel ke dalam dosa dengan makan makanan persembahan berhala dan berbuat percabulan](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#inti-pengajaran) |
+| {{% bible val="Wahyu:2,14-15" link="rev:2,14-15" lang="ind" %}} | ["Sebuah Nubuat": jangan tolerir ajaran sesat](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Wahyu:2,14-15" link="rev:2,14-15" lang="ind" %}} | ["Pandangan Yesus": Bileam dan pengikut-pengikut Nikolaus](/expl/content/letters/the-letter-to-the-church-in-pergamon#dc77) |
 | {{% bible val="Wahyu:2,16" link="rev:2,16" lang="ind" %}} | ["Solusinya": jika mereka menolaknya, Yesus akan berperang melawan mereka](/expl/content/letters/the-letter-to-the-church-in-pergamon#85d8) |
 | {{% bible val="Wahyu:2,17" link="rev:2,17" lang="ind" %}} | ["Sang pemenang": Pergamus](/expl/content/paradise/the-new-jerusalem#eb5e) |
-| {{% bible val="Wahyu:2,18-29" link="rev:2,18-29" lang="ind" %}} | [""Surat kepada Tiatira"": surat kepada jemaat ini adalah yang terpanjang dari ketujuhnya](/expl/content/letters/the-letter-to-the-church-in-thyatira#None) |
+| {{% bible val="Wahyu:2,18-29" link="rev:2,18-29" lang="ind" %}} | [""Surat kepada Tiatira"": surat kepada jemaat ini adalah yang terpanjang dari ketujuhnya](/expl/content/letters/the-letter-to-the-church-in-thyatira) |
 | {{% bible val="Wahyu:2,19" link="rev:2,19" lang="ind" %}} | ["Pandangan Yesus": pujian atas perbuatan mereka, kasih mereka - justru hal yang menjadi pergumulan Efesus - iman mereka, ketekunan mereka, dan pertumbuhan mereka yang terus berlanjut, berbuat lebih banyak sekarang dibandingkan semula](/expl/content/letters/the-letter-to-the-church-in-thyatira#f2ed) |
 | {{% bible val="Wahyu:2,20" link="rev:2,20" lang="ind" %}} | ["Para Pembaca Pertama": nabi-nabi palsu dengan sebutan Perjanjian Lama, Izebel](/expl/background/literature/full-of-biblical-references#2957) |
 | {{% bible val="Wahyu:2,20" link="rev:2,20" lang="ind" %}} | ["Sang pelacur": Tiatira](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
@@ -118,25 +119,25 @@ docType: expl
 | {{% bible val="Wahyu:2,26-27" link="rev:2,26-27" lang="ind" %}} | ["Sang pemenang": Tiatira](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:2,28" link="rev:2,28" lang="ind" %}} | ["Solusinya": Bintang timur](/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
 | {{% bible val="Wahyu:2,28" link="rev:2,28" lang="ind" %}} | ["Sang pemenang": Tiatira](/expl/content/paradise/the-new-jerusalem#eb5e) |
-| {{% bible val="Wahyu:3" link="rev:3,-1" lang="ind" %}} | [""Surat-surat (Pasal 2-3)"": 3](/kids/content/letters#None) |
-| {{% bible val="Wahyu:3" link="rev:3,-1" lang="ind" %}} | [""Surat-surat kepada Jemaat (Pasal 2-3)"": 3](/quick/content/letters#None) |
+| {{% bible val="Wahyu:3" link="rev:3,-1" lang="ind" %}} | [""Surat-surat (Pasal 2-3)"": 3](/kids/content/letters) |
+| {{% bible val="Wahyu:3" link="rev:3,-1" lang="ind" %}} | [""Surat-surat kepada Jemaat (Pasal 2-3)"": 3](/quick/content/letters) |
 | {{% bible val="Wahyu:3,1" link="rev:3,1" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": engkau dikatakan hidup, padahal engkau mati](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Wahyu:3,1" link="rev:3,1" lang="ind" %}} | ["Pandangan Yesus": mendatangi jemaat ini sebagai Dia yang memegang kepenuhan Roh dan ketujuh bintang - malaikat-malaikat jemaat](/expl/content/letters/the-letter-to-the-church-in-sardis#4d09) |
 | {{% bible val="Wahyu:3,1" link="rev:3,1" lang="ind" %}} | ["Latar Belakang dan Konteks": dalam surat kepada Sardis](/expl/content/worship/worship-in-the-throne-room#e638) |
-| {{% bible val="Wahyu:3,1" link="rev:3,1" lang="ind" %}} | ["Pengajaran Inti": Why 3:1](/sermons/deep-dive/intro/05-not-chaos-but-design#None) |
+| {{% bible val="Wahyu:3,1" link="rev:3,1" lang="ind" %}} | ["Pengajaran Inti": Why 3:1](/sermons/deep-dive/intro/05-not-chaos-but-design#pengajaran-inti) |
 | {{% bible val="Wahyu:3,1-2" link="rev:3,1-2" lang="ind" %}} | ["Masalahnya": sebagai mati, yang perlu dibangunkan sebelum apa yang tersisa pun ikut mati](/expl/content/letters/the-letter-to-the-church-in-sardis#c0b1) |
-| {{% bible val="Wahyu:3,1-6" link="rev:3,1-6" lang="ind" %}} | [""Surat kepada Sardis"": Surat kepada Sardis](/expl/content/letters/the-letter-to-the-church-in-sardis#None) |
+| {{% bible val="Wahyu:3,1-6" link="rev:3,1-6" lang="ind" %}} | [""Surat kepada Sardis"": Surat kepada Sardis](/expl/content/letters/the-letter-to-the-church-in-sardis) |
 | {{% bible val="Wahyu:3,2" link="rev:3,2" lang="ind" %}} | ["Masalahnya": mendapati perbuatanmu tidak sempurna di hadapan Allah-Ku](/expl/content/letters/the-letter-to-the-church-in-sardis#c0b1) |
 | {{% bible val="Wahyu:3,3" link="rev:3,3" lang="ind" %}} | ["Bagaimana dengan kematian kedua dan kebangkitan pertama?": berpeganglah teguh dan bertobatlah](/expl/content/1000y/the-thousand-year-kingdom#299a) |
 | {{% bible val="Wahyu:3,3" link="rev:3,3" lang="ind" %}} | ["Masalahnya": jika engkau tidak bangun, Aku akan datang seperti pencuri, dan engkau tidak akan tahu pada jam berapa Aku akan datang kepadamu](/expl/content/letters/the-letter-to-the-church-in-sardis#c0b1) |
 | {{% bible val="Wahyu:3,5" link="rev:3,5" lang="ind" %}} | ["Sang pemenang": Sardis](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:3,5" link="rev:3,5" lang="ind" %}} | ["Latar Belakang dan Konteks": para pemenang mengenakan pakaian putih di Sardis](/expl/content/worship/worship-in-the-throne-room#e638) |
-| {{% bible val="Wahyu:3,7-13" link="rev:3,7-13" lang="ind" %}} | [""Surat kepada Filadelfia"": Filadelfia](/expl/content/letters/the-letter-to-the-church-in-philadelphia#None) |
+| {{% bible val="Wahyu:3,7-13" link="rev:3,7-13" lang="ind" %}} | [""Surat kepada Filadelfia"": Filadelfia](/expl/content/letters/the-letter-to-the-church-in-philadelphia) |
 | {{% bible val="Wahyu:3,8" link="rev:3,8" lang="ind" %}} | ["Latar Belakang dan Konteks": kenyataan di Filadelfia](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:3,9" link="rev:3,9" lang="ind" %}} | ["Para Pembaca Pertama": Filadelfia](/expl/background/literature/full-of-biblical-references#2957) |
 | {{% bible val="Wahyu:3,9" link="rev:3,9" lang="ind" %}} | ["Para Pembaca Pertama": ketika banyak orang Yahudi menjadi Kristen](/expl/background/literature/full-of-biblical-references#2957) |
 | {{% bible val="Wahyu:3,9" link="rev:3,9" lang="ind" %}} | ["Siap untuk kematian kedua": bertindak dengan cara Iblis](/expl/content/paradise/the-new-jerusalem#e855) |
-| {{% bible val="Wahyu:3,9" link="rev:3,9" lang="ind" %}} | ["Pengajaran Inti": Why 3:9](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Wahyu:3,9" link="rev:3,9" lang="ind" %}} | ["Pengajaran Inti": Why 3:9](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#pengajaran-inti) |
 | {{% bible val="Wahyu:3,10" link="rev:3,10" lang="ind" %}} | ["Futurisme": Janji kepada Filadelfia untuk dijauhkan dari saat pencobaan yang akan datang atas seluruh dunia](/expl/background/literature/preterist-historicist-futurist-or-idealist#f3c4) |
 | {{% bible val="Wahyu:3,10" link="rev:3,10" lang="ind" %}} | ["Pandangan Yesus": mereka bertekun dengan sabar](/expl/content/letters/the-letter-to-the-church-in-philadelphia#40f8) |
 | {{% bible val="Wahyu:3,10" link="rev:3,10" lang="ind" %}} | ["Saat pencobaan": Karena engkau telah menuruti firman-Ku untuk tekun menantikan Aku, Aku pun akan melindungi engkau dari hari pencobaan yang akan datang atas seluruh dunia untuk mencobai mereka yang diam di atas bumi](/expl/content/letters/the-letter-to-the-church-in-philadelphia#2f35) |
@@ -144,7 +145,7 @@ docType: expl
 | {{% bible val="Wahyu:3,10" link="rev:3,10" lang="ind" %}} | ["Jadi, yang mana?": Wahyu 3:10](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#s5e6) |
 | {{% bible val="Wahyu:3,11" link="rev:3,11" lang="ind" %}} | ["Latar Belakang dan Konteks": kenyataan di Filadelfia](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:3,12" link="rev:3,12" lang="ind" %}} | ["Sang pemenang": Filadelfia](/expl/content/paradise/the-new-jerusalem#eb5e) |
-| {{% bible val="Wahyu:3,14-22" link="rev:3,14-22" lang="ind" %}} | [""Surat kepada Laodikia"": Surat kepada jemaat Laodikia](/expl/content/letters/the-letter-to-the-church-in-laodicea#None) |
+| {{% bible val="Wahyu:3,14-22" link="rev:3,14-22" lang="ind" %}} | [""Surat kepada Laodikia"": Surat kepada jemaat Laodikia](/expl/content/letters/the-letter-to-the-church-in-laodicea) |
 | {{% bible val="Wahyu:3,17" link="rev:3,17" lang="ind" %}} | ["Bagaimana dengan kematian kedua dan kebangkitan pertama?": aku kaya dan telah menjadi kaya](/expl/content/1000y/the-thousand-year-kingdom#299a) |
 | {{% bible val="Wahyu:3,17" link="rev:3,17" lang="ind" %}} | ["Pandangan Yesus": gagal justru pada hal-hal yang mereka kira menjadi kekuatan mereka](/expl/content/letters/the-letter-to-the-church-in-laodicea#ffea) |
 | {{% bible val="Wahyu:3,17-18" link="rev:3,17-18" lang="ind" %}} | ["Aspek keagamaan": sadar diri](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
@@ -153,18 +154,18 @@ docType: expl
 | {{% bible val="Wahyu:3,21" link="rev:3,21" lang="ind" %}} | ["Sang pemenang": Laodikia](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:3,21" link="rev:3,21" lang="ind" %}} | ["Latar Belakang dan Konteks": Laodikia menerima janji untuk duduk di atas takhta](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:3,21" link="rev:3,21" lang="ind" %}} | ["Latar Belakang dan Konteks": para pemenang di Laodikia](/expl/content/worship/worship-in-the-throne-room#e638) |
-| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | [""Penyembahan (Pasal 4-5)"": Pasal 4](/kids/content/worship#None) |
-| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | ["Pesta Terbaik di Surga": Wahyu 4–5](/kids/early-childhood/03-the-best-party-in-heaven#None) |
-| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | ["Singa yang Ternyata Anak Domba": Wahyu 4–5](/kids/early-childhood/04-the-lion-who-is-really-a-lamb#None) |
-| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | ["Wahyu 4–5": Wahyu 4–5](/kids/elementary/04-worship-in-heaven#None) |
-| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | [""Wahyu 4: Penyembahan Membereskan Segalanya"": Wahyu 4–5](/kids/teens/05-worship-fixes-everything#None) |
-| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | [""Penyembahan (Pasal 4-5)"": Pasal 4](/quick/content/worship#None) |
+| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | [""Penyembahan (Pasal 4-5)"": Pasal 4](/kids/content/worship) |
+| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | ["Pesta Terbaik di Surga": Wahyu 4–5](/kids/early-childhood/03-the-best-party-in-heaven) |
+| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | ["Singa yang Ternyata Anak Domba": Wahyu 4–5](/kids/early-childhood/04-the-lion-who-is-really-a-lamb) |
+| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | ["Wahyu 4–5": Wahyu 4–5](/kids/elementary/04-worship-in-heaven#wahyu-45) |
+| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | [""Wahyu 4: Penyembahan Membereskan Segalanya"": Wahyu 4–5](/kids/teens/05-worship-fixes-everything) |
+| {{% bible val="Wahyu:4" link="rev:4,-1" lang="ind" %}} | [""Penyembahan (Pasal 4-5)"": Pasal 4](/quick/content/worship) |
 | {{% bible val="Wahyu:4,1" link="rev:4,1" lang="ind" %}} | ["Apa yang Harus Terjadi": Aku akan menunjukkan kepadamu apa yang harus terjadi sesudah ini](/expl/background/literature/literally-or-symbolic#af5e) |
 | {{% bible val="Wahyu:4,1" link="rev:4,1" lang="ind" %}} | ["deiknumi": Malaikat itu menunjukkan kepadanya ruang takhta surgawi](/expl/background/literature/literally-or-symbolic#360a) |
 | {{% bible val="Wahyu:4,1" link="rev:4,1" lang="ind" %}} | ["Latar Belakang dan Konteks": pengantar menuju ruang takhta](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:4,1" link="rev:4,1" lang="ind" %}} | ["Latar Belakang dan Konteks": Wahyu](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:4,1" link="rev:4,1" lang="ind" %}} | ["Pratribulasi": di antara pasal 4 dan 19 Kitab Wahyu](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
-| {{% bible val="Wahyu:4,1" link="rev:4,1" lang="ind" %}} | ["Pengajaran Inti": Wahyu 4:1](/sermons/deep-dive/intro/03-symbol-or-literal#None) |
+| {{% bible val="Wahyu:4,1" link="rev:4,1" lang="ind" %}} | ["Pengajaran Inti": Wahyu 4:1](/sermons/deep-dive/intro/03-symbol-or-literal#pengajaran-inti) |
 | {{% bible val="Wahyu:4,1-2" link="rev:4,1-2" lang="ind" %}} | ["Latar Belakang dan Konteks": awal penglihatan di sini, di ruang takhta](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:4,1-2" link="rev:4,1-2" lang="ind" %}} | ["Kapan Pengangkatan Itu Terjadi": Kemudian dari pada itu aku melihat: Sesungguhnya, sebuah pintu terbuka di sorga dan suara yang dahulu kudengar seperti bunyi sangkakala, berkata kepadaku, katanya: Naiklah ke sini dan Aku akan menunjukkan kepadamu apa yang harus terjadi sesudah ini. Segera aku dikuasai oleh Roh dan lihatlah, sebuah takhta terdapat di sorga dan di takhta itu duduk seorang.](/expl/topics/others/the-rapture#ab7c) |
 | {{% bible val="Wahyu:4,2" link="rev:4,2" lang="ind" %}} | ["Latar Belakang dan Konteks": Wahyu](/expl/content/worship/worship-in-the-throne-room#e638) |
@@ -187,11 +188,11 @@ docType: expl
 | {{% bible val="Wahyu:4,7" link="rev:4,7" lang="ind" %}} | ["Penyembahan": keempat makhluk hidup](/expl/content/worship/worship-in-the-throne-room#e545) |
 | {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | ["Penggambaran Iblis": setelah penobatan Kristus](/expl/content/beasts/the-nature-of-the-beast#7b88) |
 | {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | ["Penyelesaiannya": pada pasal sebelumnya Yesus dinyatakan sebagai satu-satunya yang layak membuka gulungan kitab itu](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
-| {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | [""Penyembahan (Pasal 4-5)"": 5](/kids/content/worship#None) |
-| {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | [""Penyembahan (Pasal 4-5)"": 5](/quick/content/worship#None) |
+| {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | [""Penyembahan (Pasal 4-5)"": 5](/kids/content/worship) |
+| {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | [""Penyembahan (Pasal 4-5)"": 5](/quick/content/worship) |
 | {{% bible val="Wahyu:5,1" link="rev:5,1" lang="ind" %}} | ["Kitab dengan Tujuh Meterai": muncullah sebuah gulungan kitab dengan tujuh meterai yang menarik seluruh perhatian](/expl/content/worship/the-book-with-the-seven-seals#99a2) |
 | {{% bible val="Wahyu:5,1-5" link="rev:5,1-5" lang="ind" %}} | ["Latar Belakang dan Konteks": Wahyu](/expl/content/worship/worship-in-the-throne-room#e638) |
-| {{% bible val="Wahyu:5,1-5" link="rev:5,1-5" lang="ind" %}} | ["Gulungan kitab yang hanya dapat dibuka oleh satu Pribadi": Wahyu 5:1-5](/quick/content/worship#None) |
+| {{% bible val="Wahyu:5,1-5" link="rev:5,1-5" lang="ind" %}} | ["Gulungan kitab yang hanya dapat dibuka oleh satu Pribadi": Wahyu 5:1-5](/quick/content/worship#gulungan-kitab-yang-hanya-dapat-dibuka-oleh-satu-pribadi) |
 | {{% bible val="Wahyu:5,2-4" link="rev:5,2-4" lang="ind" %}} | ["Kitab dengan Tujuh Meterai": Karena ternyata tidak ada seorang pun yang mampu membukanya, Yohanes pun sangat wajar merasa sangat terguncang](/expl/content/worship/the-book-with-the-seven-seals#99a2) |
 | {{% bible val="Wahyu:5,4" link="rev:5,4" lang="ind" %}} | ["Latar Belakang dan Konteks": Wahyu](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:5,5" link="rev:5,5" lang="ind" %}} | ["Susunan pasal ini": singa](/expl/content/paradise/the-new-jerusalem#8c47) |
@@ -209,7 +210,7 @@ docType: expl
 | {{% bible val="Wahyu:5,6" link="rev:5,6" lang="ind" %}} | ["Latar Belakang dan Konteks": gambaran tentang mata Anak Domba](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:5,6-14" link="rev:5,6-14" lang="ind" %}} | ["Solusinya": karena Ia adalah Allah, Ia layak menerima penyembahan](/expl/bible/daniel/the-son-of-man-and-the-remnant#bcd4) |
 | {{% bible val="Wahyu:5,6-14" link="rev:5,6-14" lang="ind" %}} | ["Kekalahan yang berubah menjadi kemenangan": karena itu Ia menang](/expl/content/witnesses/the-two-witnesses#5f50) |
-| {{% bible val="Wahyu:5,6-14" link="rev:5,6-14" lang="ind" %}} | ["Pengajaran Inti": Wahyu 5:6-14](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#None) |
+| {{% bible val="Wahyu:5,6-14" link="rev:5,6-14" lang="ind" %}} | ["Pengajaran Inti": Wahyu 5:6-14](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#pengajaran-inti) |
 | {{% bible val="Wahyu:5,8" link="rev:5,8" lang="ind" %}} | ["Asal Mula Sangkakala-Sangkakala": itu adalah doa orang-orang kudus](/expl/content/trumpets/the-trumpets-in-revelation#639f) |
 | {{% bible val="Wahyu:5,8-14" link="rev:5,8-14" lang="ind" %}} | ["Serangan Ganda": mereka seharusnya menyembah Yesus](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:5,9" link="rev:5,9" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": dari tiap-tiap suku dan bahasa dan kaum dan bangsa](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
@@ -226,14 +227,14 @@ docType: expl
 | {{% bible val="Wahyu:5,12-13" link="rev:5,12-13" lang="ind" %}} | ["Latar Belakang dan Konteks": semuanya memuji Dia](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:5,13" link="rev:5,13" lang="ind" %}} | ["Angka 4": di mana makhluk-makhluk dari keempat wilayah dunia — surga, bumi, laut, dan bawah laut — menyanyikan sebuah puji-pujian berempat kepada Allah dan Anak Domba](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
 | {{% bible val="Wahyu:5,13-14" link="rev:5,13-14" lang="ind" %}} | ["Latar Belakang dan Konteks": Wahyu](/expl/content/worship/worship-in-the-throne-room#e638) |
-| {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | [""Meterai-meterai (Pasal 6)"": Pasal 6](/kids/content/seals#None) |
-| {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | ["Kuda-Kuda Itu Bukan Bos": Wahyu 6](/kids/early-childhood/05-the-horses-are-not-the-boss#None) |
-| {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | ["Wahyu 6": Wahyu 6](/kids/elementary/05-the-seals#None) |
-| {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | [""Wahyu 6: Empat Penunggang Kuda dan Murka Sang Anak Domba"": Wahyu 6](/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb#None) |
-| {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | [""Meterai-meterai (Pasal 6)"": Pasal 6](/quick/content/seals#None) |
+| {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | [""Meterai-meterai (Pasal 6)"": Pasal 6](/kids/content/seals) |
+| {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | ["Kuda-Kuda Itu Bukan Bos": Wahyu 6](/kids/early-childhood/05-the-horses-are-not-the-boss) |
+| {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | ["Wahyu 6": Wahyu 6](/kids/elementary/05-the-seals#wahyu-6) |
+| {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | [""Wahyu 6: Empat Penunggang Kuda dan Murka Sang Anak Domba"": Wahyu 6](/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb) |
+| {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | [""Meterai-meterai (Pasal 6)"": Pasal 6](/quick/content/seals) |
 | {{% bible val="Wahyu:6,1-8" link="rev:6,1-8" lang="ind" %}} | ["Penggambaran Iblis": sebagai empat penunggang kuda](/expl/content/beasts/the-nature-of-the-beast#7b88) |
 | {{% bible val="Wahyu:6,1-8" link="rev:6,1-8" lang="ind" %}} | ["Teksnya": Wahyu 6:1–8](/expl/content/seals/the-mystery-of-the-four-horse-men#19b5) |
-| {{% bible val="Wahyu:6,2" link="rev:6,2" lang="ind" %}} | ["Penunggang kuda yang sepertinya tidak cocok di sana": 'Dan aku melihat: sesungguhnya, ada seekor kuda putih dan orang yang menungganginya memegang sebuah panah, dan kepadanya dikaruniakan sebuah mahkota, dan ia maju sebagai pemenang untuk merebut kemenangan.'](/sermons/prosperity-gospel-module/worship-and-seals/01-the-first-horsemans-fake-gospel#None) |
+| {{% bible val="Wahyu:6,2" link="rev:6,2" lang="ind" %}} | ["Penunggang kuda yang sepertinya tidak cocok di sana": 'Dan aku melihat: sesungguhnya, ada seekor kuda putih dan orang yang menungganginya memegang sebuah panah, dan kepadanya dikaruniakan sebuah mahkota, dan ia maju sebagai pemenang untuk merebut kemenangan.'](/sermons/prosperity-gospel-module/worship-and-seals/01-the-first-horsemans-fake-gospel#penunggang-kuda-yang-sepertinya-tidak-cocok-di-sana) |
 | {{% bible val="Wahyu:6,5-6" link="rev:6,5-6" lang="ind" %}} | ["Kesengsaraan Besar": melalui penunggang kuda ketiga](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Wahyu:6,5-6" link="rev:6,5-6" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": eksploitasi terhadap yang lemah](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Wahyu:6,8" link="rev:6,8" lang="ind" %}} | ["Pengikatan Iblis": tempat kematian, yang bisa berada di bumi](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
@@ -246,23 +247,23 @@ docType: expl
 | {{% bible val="Wahyu:6,9-11" link="rev:6,9-11" lang="ind" %}} | ["Ketujuh Meterai": Karena orang-orang kudus tidak dikecualikan dari penderitaan (kita akan melihat mengapa demikian pada bagian sangkakala), mereka menderita dan bertanya sampai kapan hal itu akan berlangsung. Namun permohonan mereka akan pembenaran belum dikabulkan - sebaliknya, mereka menerima jubah putih dan diberi tahu untuk menunggu sampai jumlah penuh para martir genap. Sejak saat itu, ketegangan antara doa orang-orang kudus dan waktu Allah menjadi tema yang terus muncul dalam kitab ini.](/expl/content/worship/the-book-with-the-seven-seals#8be0) |
 | {{% bible val="Wahyu:6,9-11" link="rev:6,9-11" lang="ind" %}} | ["Ketujuh Meterai": meterai kelima, di mana doa-doa orang kudus menjadi pusat perhatian](/expl/content/worship/the-book-with-the-seven-seals#8be0) |
 | {{% bible val="Wahyu:6,10" link="rev:6,10" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": berapa lama lagi Engkau tidak menghakimi dan tidak membalaskan darah kami?](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
-| {{% bible val="Wahyu:6,12-17" link="rev:6,12-17" lang="ind" %}} | [""Murka Anak Domba"": Maka aku melihat, ketika Anak Domba itu membuka meterai yang keenam, terjadilah gempa bumi yang dahsyat dan matahari menjadi hitam bagaikan karung rambut, dan bulan menjadi merah seluruhnya bagaikan darah. Dan bintang-bintang di langit berjatuhan ke atas bumi bagaikan pohon ara menggugurkan buahnya yang mentah, apabila ia digoncang angin yang kencang. Maka menyusutlah langit bagaikan gulungan kitab yang digulung dan tergeserlah gunung-gunung dan pulau-pulau dari tempatnya. Dan raja-raja di bumi dan pembesar-pembesar serta perwira-perwira dan orang-orang kaya serta orang-orang berkuasa dan semua budak serta orang merdeka bersembunyi ke dalam gua-gua dan celah-celah batu karang di gunung. Dan mereka berkata kepada gunung-gunung dan kepada batu-batu karang itu: Guguplah menimpa kami dan sembunyikanlah kami terhadap Dia, yang duduk di atas takhta itu dan terhadap murka Anak Domba itu. Sebab sudah tiba hari besar murka mereka dan siapakah yang dapat bertahan?](/expl/content/seals/the-wrath-of-the-lamb#None) |
+| {{% bible val="Wahyu:6,12-17" link="rev:6,12-17" lang="ind" %}} | [""Murka Anak Domba"": Maka aku melihat, ketika Anak Domba itu membuka meterai yang keenam, terjadilah gempa bumi yang dahsyat dan matahari menjadi hitam bagaikan karung rambut, dan bulan menjadi merah seluruhnya bagaikan darah. Dan bintang-bintang di langit berjatuhan ke atas bumi bagaikan pohon ara menggugurkan buahnya yang mentah, apabila ia digoncang angin yang kencang. Maka menyusutlah langit bagaikan gulungan kitab yang digulung dan tergeserlah gunung-gunung dan pulau-pulau dari tempatnya. Dan raja-raja di bumi dan pembesar-pembesar serta perwira-perwira dan orang-orang kaya serta orang-orang berkuasa dan semua budak serta orang merdeka bersembunyi ke dalam gua-gua dan celah-celah batu karang di gunung. Dan mereka berkata kepada gunung-gunung dan kepada batu-batu karang itu: Guguplah menimpa kami dan sembunyikanlah kami terhadap Dia, yang duduk di atas takhta itu dan terhadap murka Anak Domba itu. Sebab sudah tiba hari besar murka mereka dan siapakah yang dapat bertahan?](/expl/content/seals/the-wrath-of-the-lamb) |
 | {{% bible val="Wahyu:6,12-17" link="rev:6,12-17" lang="ind" %}} | ["Ketujuh Meterai": Yang terjadi selanjutnya adalah kekacauan kosmis yang disambut dengan ketakutan universal: setiap orang, dari raja sampai budak, bersembunyi dan memohon untuk dilindungi dari murka Anak Domba - Anak Domba yang sama yang baru saja digambarkan sebagai yang disembelih. Dia yang menang dengan cara mati adalah juga Dia yang murka-Nya yang akan datang tidak dapat ditahan siapa pun](/expl/content/worship/the-book-with-the-seven-seals#8be0) |
 | {{% bible val="Wahyu:6,12-17" link="rev:6,12-17" lang="ind" %}} | ["Pra-murka": meterai keenam](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pw3c) |
 | {{% bible val="Wahyu:6,16" link="rev:6,16" lang="ind" %}} | ["Murka Anak Domba": satu kali](/expl/content/seals/the-wrath-of-the-lamb#435e) |
 | {{% bible val="Wahyu:6,17" link="rev:6,17" lang="ind" %}} | ["Pra-murka": 'hari besar murka mereka telah tiba'](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pw3c) |
-| {{% bible val="Wahyu:7" link="rev:7,-1" lang="ind" %}} | [""Pasukan Allah (Pasal 7)"": Pasal 7](/kids/content/army#None) |
-| {{% bible val="Wahyu:7" link="rev:7,-1" lang="ind" %}} | ["Allah Menghitung Kita Semua": Wahyu 7](/kids/early-childhood/06-god-counts-every-one-of-us#None) |
-| {{% bible val="Wahyu:7" link="rev:7,-1" lang="ind" %}} | ["Wahyu 7": Wahyu 7](/kids/elementary/06-gods-army#None) |
-| {{% bible val="Wahyu:7" link="rev:7,-1" lang="ind" %}} | [""Wahyu 7: Kerumunan yang Tak Seorang Pun Bisa Menghitungnya"": Wahyu 7](/kids/teens/07-the-crowd-nobody-could-count#None) |
-| {{% bible val="Wahyu:7" link="rev:7,-1" lang="ind" %}} | [""Pasukan Allah (Pasal 7)"": Pasal 7](/quick/content/army#None) |
+| {{% bible val="Wahyu:7" link="rev:7,-1" lang="ind" %}} | [""Pasukan Allah (Pasal 7)"": Pasal 7](/kids/content/army) |
+| {{% bible val="Wahyu:7" link="rev:7,-1" lang="ind" %}} | ["Allah Menghitung Kita Semua": Wahyu 7](/kids/early-childhood/06-god-counts-every-one-of-us) |
+| {{% bible val="Wahyu:7" link="rev:7,-1" lang="ind" %}} | ["Wahyu 7": Wahyu 7](/kids/elementary/06-gods-army#wahyu-7) |
+| {{% bible val="Wahyu:7" link="rev:7,-1" lang="ind" %}} | [""Wahyu 7: Kerumunan yang Tak Seorang Pun Bisa Menghitungnya"": Wahyu 7](/kids/teens/07-the-crowd-nobody-could-count) |
+| {{% bible val="Wahyu:7" link="rev:7,-1" lang="ind" %}} | [""Pasukan Allah (Pasal 7)"": Pasal 7](/quick/content/army) |
 | {{% bible val="Wahyu:7,1" link="rev:7,1" lang="ind" %}} | ["Angka 4": keempat angin](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
-| {{% bible val="Wahyu:7,1-4" link="rev:7,1-4" lang="ind" %}} | ["Sebuah Nubuat {#prophecy}": umat Allah dilindungi](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
-| {{% bible val="Wahyu:7,1-4" link="rev:7,1-4" lang="ind" %}} | ["Pemeteraian gereja": Wahyu 7:1-4](/quick/content/army#None) |
+| {{% bible val="Wahyu:7,1-4" link="rev:7,1-4" lang="ind" %}} | ["Sebuah Nubuat": umat Allah dilindungi](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Wahyu:7,1-4" link="rev:7,1-4" lang="ind" %}} | ["Pemeteraian gereja": Wahyu 7:1-4](/quick/content/army#pemeteraian-gereja) |
 | {{% bible val="Wahyu:7,2" link="rev:7,2" lang="ind" %}} | ["Sebuah kata kecil dengan konsekuensi besar": malaikat dengan meterai-meterai Allah yang hidup](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Wahyu:7,4" link="rev:7,4" lang="ind" %}} | ["Di mana situs ini berdiri, dan apa harganya": 144.000](/expl/content/1000y/pre-post-and-amillennialism#c5e2) |
 | {{% bible val="Wahyu:7,4" link="rev:7,4" lang="ind" %}} | ["Pasukan Allah": yang 144.000 yang dihitung sebagai pasukan tentara adalah yang didengar Yohanes](/expl/content/army/the-144000#e329) |
-| {{% bible val="Wahyu:7,4-8" link="rev:7,4-8" lang="ind" %}} | ["Sebuah Nubuat {#prophecy}": tidak seorang pun akan hilang](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Wahyu:7,4-8" link="rev:7,4-8" lang="ind" %}} | ["Sebuah Nubuat": tidak seorang pun akan hilang](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Wahyu:7,4-8" link="rev:7,4-8" lang="ind" %}} | ["Angka 12": Dua belas dikuadratkan dan dikalikan dengan 1.000 dalam Kitab Wahyu](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#d8d4) |
 | {{% bible val="Wahyu:7,4-8" link="rev:7,4-8" lang="ind" %}} | ["Susunan pasal ini": tentara Allah](/expl/content/paradise/the-new-jerusalem#8c47) |
 | {{% bible val="Wahyu:7,4-8" link="rev:7,4-8" lang="ind" %}} | ["Kesan pertama": dicantumkan lebih dahulu di antara suku-suku di tempat lain dalam kitab ini, mencerminkan Yesus](/expl/content/paradise/the-new-jerusalem#c99e) |
@@ -274,11 +275,11 @@ docType: expl
 | {{% bible val="Wahyu:7,9-17" link="rev:7,9-17" lang="ind" %}} | ["Susunan pasal ini": para penyembah dari segala bangsa, yang keluar dari kesesakan besar](/expl/content/paradise/the-new-jerusalem#8c47) |
 | {{% bible val="Wahyu:7,14" link="rev:7,14" lang="ind" %}} | ["Kesengsaraan Besar": kitab Wahyu](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Wahyu:7,15-17" link="rev:7,15-17" lang="ind" %}} | ["Pasukan Allah": kini dihibur oleh Allah](/expl/content/army/the-144000#e329) |
-| {{% bible val="Wahyu:8" link="rev:8,-1" lang="ind" %}} | [""Sangkakala (Pasal 8-9)"": Pasal 8](/kids/content/trumpets#None) |
-| {{% bible val="Wahyu:8" link="rev:8,-1" lang="ind" %}} | ["Terompet Nyaring, Peringatan Besar": Wahyu 8–9](/kids/early-childhood/07-loud-trumpets-big-warnings#None) |
-| {{% bible val="Wahyu:8" link="rev:8,-1" lang="ind" %}} | ["Wahyu 8–9": Wahyu 8–9](/kids/elementary/07-the-trumpets#None) |
-| {{% bible val="Wahyu:8" link="rev:8,-1" lang="ind" %}} | [""Wahyu 8–9: Peringatan yang Tidak Didengarkan Siapa Pun"": Wahyu 8–9](/kids/teens/08-the-warnings-nobody-listens-to#None) |
-| {{% bible val="Wahyu:8" link="rev:8,-1" lang="ind" %}} | [""Sangkakala-sangkakala (Pasal 8-9)"": Pasal 8](/quick/content/trumpets#None) |
+| {{% bible val="Wahyu:8" link="rev:8,-1" lang="ind" %}} | [""Sangkakala (Pasal 8-9)"": Pasal 8](/kids/content/trumpets) |
+| {{% bible val="Wahyu:8" link="rev:8,-1" lang="ind" %}} | ["Terompet Nyaring, Peringatan Besar": Wahyu 8–9](/kids/early-childhood/07-loud-trumpets-big-warnings) |
+| {{% bible val="Wahyu:8" link="rev:8,-1" lang="ind" %}} | ["Wahyu 8–9": Wahyu 8–9](/kids/elementary/07-the-trumpets#wahyu-89) |
+| {{% bible val="Wahyu:8" link="rev:8,-1" lang="ind" %}} | [""Wahyu 8–9: Peringatan yang Tidak Didengarkan Siapa Pun"": Wahyu 8–9](/kids/teens/08-the-warnings-nobody-listens-to) |
+| {{% bible val="Wahyu:8" link="rev:8,-1" lang="ind" %}} | [""Sangkakala-sangkakala (Pasal 8-9)"": Pasal 8](/quick/content/trumpets) |
 | {{% bible val="Wahyu:8,1-6" link="rev:8,1-6" lang="ind" %}} | ["Asal Mula Sangkakala-Sangkakala": Dan ketika Ia membuka meterai yang ketujuh, sunyi senyaplah di surga kira-kira setengah jam lamanya. 2 Dan aku melihat ketujuh malaikat yang berdiri di hadapan Allah, dan kepada mereka diberikan tujuh sangkakala. 3 Dan seorang malaikat lain datang dan berdiri dekat mezbah dengan sebuah pedupaan emas, dan kepadanya diberikan banyak dupa untuk dipersembahkannya bersama-sama dengan doa semua orang kudus di atas mezbah emas di hadapan takhta itu. 4 Maka naiklah asap dupa bersama-sama dengan doa semua orang kudus itu dari tangan malaikat itu ke hadapan Allah. 5 Lalu malaikat itu mengambil pedupaan itu, mengisinya dengan api dari mezbah, dan melemparkannya ke bumi; dan terjadilah bunyi guruh, dan suara-suara, dan kilat-kilat, dan gempa bumi. 6 Dan ketujuh malaikat yang memegang ketujuh sangkakala itu bersiap-siap untuk meniupnya.](/expl/content/trumpets/the-trumpets-in-revelation#639f) |
 | {{% bible val="Wahyu:8,2-5" link="rev:8,2-5" lang="ind" %}} | ["Ketujuh Meterai": dua kali](/expl/content/worship/the-book-with-the-seven-seals#8be0) |
 | {{% bible val="Wahyu:8,5" link="rev:8,5" lang="ind" %}} | ["Angka 4": penutup meterai-meterai](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
@@ -288,12 +289,12 @@ docType: expl
 | {{% bible val="Wahyu:8,8-9" link="rev:8,8-9" lang="ind" %}} | ["Keempat Sangkakala Pertama": Sangkakala kedua](/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Wahyu:8,10-11" link="rev:8,10-11" lang="ind" %}} | ["Keempat Sangkakala Pertama": Sangkakala ketiga](/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Wahyu:8,12-13" link="rev:8,12-13" lang="ind" %}} | ["Keempat Sangkakala Pertama": Sangkakala keempat](/expl/content/trumpets/the-trumpets-in-revelation#e565) |
-| {{% bible val="Wahyu:9" link="rev:9,-1" lang="ind" %}} | [""Sangkakala (Pasal 8-9)"": 9](/kids/content/trumpets#None) |
-| {{% bible val="Wahyu:9" link="rev:9,-1" lang="ind" %}} | ["Pemeteraian gereja": pasal 9](/quick/content/army#None) |
-| {{% bible val="Wahyu:9" link="rev:9,-1" lang="ind" %}} | [""Sangkakala-sangkakala (Pasal 8-9)"": 9](/quick/content/trumpets#None) |
+| {{% bible val="Wahyu:9" link="rev:9,-1" lang="ind" %}} | [""Sangkakala (Pasal 8-9)"": 9](/kids/content/trumpets) |
+| {{% bible val="Wahyu:9" link="rev:9,-1" lang="ind" %}} | ["Pemeteraian gereja": pasal 9](/quick/content/army#pemeteraian-gereja) |
+| {{% bible val="Wahyu:9" link="rev:9,-1" lang="ind" %}} | [""Sangkakala-sangkakala (Pasal 8-9)"": 9](/quick/content/trumpets) |
 | {{% bible val="Wahyu:9,1-12" link="rev:9,1-12" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": Sangkakala kelima](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Wahyu:9,4" link="rev:9,4" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": Umat Allah sendiri dimeteraikan dan sama sekali tidak dapat disentuh oleh belalang-belalang itu](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
-| {{% bible val="Wahyu:9,4-6" link="rev:9,4-6" lang="ind" %}} | ["Apa yang dilakukan sangkakala-sangkakala itu": Wahyu 9:4-6](/quick/content/trumpets#None) |
+| {{% bible val="Wahyu:9,4-6" link="rev:9,4-6" lang="ind" %}} | ["Apa yang dilakukan sangkakala-sangkakala itu": Wahyu 9:4-6](/quick/content/trumpets#apa-yang-dilakukan-sangkakala-sangkakala-itu) |
 | {{% bible val="Wahyu:9,5" link="rev:9,5" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": bahkan belalang-belalang itu tetap berada di bawah perintah Allah](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Wahyu:9,6" link="rev:9,6" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": ingin mati tetapi tidak bisa](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Wahyu:9,7" link="rev:9,7" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": belalang-belalang jahat dari jurang maut juga memiliki semacam mahkota](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
@@ -301,29 +302,29 @@ docType: expl
 | {{% bible val="Wahyu:9,13-21" link="rev:9,13-21" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": Sangkakala keenam](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Wahyu:9,14" link="rev:9,14" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": malaikat dilepaskan di sungai Efrat](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Wahyu:9,20-21" link="rev:9,20-21" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": manusia tetap tidak bertobat](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
-| {{% bible val="Wahyu:10" link="rev:10,-1" lang="ind" %}} | [""Gulungan Kecil (Pasal 10)"": Pasal 10](/kids/content/scroll#None) |
-| {{% bible val="Wahyu:10" link="rev:10,-1" lang="ind" %}} | ["Gulungan Kitab yang Manis dan Asam": Wahyu 10](/kids/early-childhood/08-a-sweet-and-sour-scroll#None) |
-| {{% bible val="Wahyu:10" link="rev:10,-1" lang="ind" %}} | ["Wahyu 10": Wahyu 10](/kids/elementary/08-the-little-scroll#None) |
-| {{% bible val="Wahyu:10" link="rev:10,-1" lang="ind" %}} | [""Wahyu 10: Manis di Mulut, Asam di Perut"": Wahyu 10](/kids/teens/09-sweet-in-your-mouth-sour-in-your-stomach#None) |
-| {{% bible val="Wahyu:10" link="rev:10,-1" lang="ind" %}} | [""Gulungan Kitab Kecil (Pasal 10)"": Pasal 10](/quick/content/scroll#None) |
+| {{% bible val="Wahyu:10" link="rev:10,-1" lang="ind" %}} | [""Gulungan Kecil (Pasal 10)"": Pasal 10](/kids/content/scroll) |
+| {{% bible val="Wahyu:10" link="rev:10,-1" lang="ind" %}} | ["Gulungan Kitab yang Manis dan Asam": Wahyu 10](/kids/early-childhood/08-a-sweet-and-sour-scroll) |
+| {{% bible val="Wahyu:10" link="rev:10,-1" lang="ind" %}} | ["Wahyu 10": Wahyu 10](/kids/elementary/08-the-little-scroll#wahyu-10) |
+| {{% bible val="Wahyu:10" link="rev:10,-1" lang="ind" %}} | [""Wahyu 10: Manis di Mulut, Asam di Perut"": Wahyu 10](/kids/teens/09-sweet-in-your-mouth-sour-in-your-stomach) |
+| {{% bible val="Wahyu:10" link="rev:10,-1" lang="ind" %}} | [""Gulungan Kitab Kecil (Pasal 10)"": Pasal 10](/quick/content/scroll) |
 | {{% bible val="Wahyu:10,1" link="rev:10,1" lang="ind" %}} | ["Sebuah kata kecil dengan konsekuensi besar": malaikat dengan kitab kecil](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Wahyu:10,2" link="rev:10,2" lang="ind" %}} | ["Sekarung Penuh Rujukan": Why.10/2](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Wahyu:10,2" link="rev:10,2" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": memerintah langit dan bumi](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:10,3-7" link="rev:10,3-7" lang="ind" %}} | ["Kombinasi 4x7": ketujuh guruh](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#1ee7) |
-| {{% bible val="Wahyu:10,5" link="rev:10,5" lang="ind" %}} | [""Gulungan Kitab Kecil (Pasal 10)"": Wahyu 10:5](/quick/content/scroll#None) |
+| {{% bible val="Wahyu:10,5" link="rev:10,5" lang="ind" %}} | [""Gulungan Kitab Kecil (Pasal 10)"": Wahyu 10:5](/quick/content/scroll) |
 | {{% bible val="Wahyu:10,7" link="rev:10,7" lang="ind" %}} | ["Rahasia Itu": Allah](/expl/background/literature/literally-or-symbolic#8b2d) |
-| {{% bible val="Wahyu:10,7" link="rev:10,7" lang="ind" %}} | ["Pengajaran Inti": Allah](/sermons/deep-dive/intro/03-symbol-or-literal#None) |
-| {{% bible val="Wahyu:10,7" link="rev:10,7" lang="ind" %}} | ["Pengajaran Inti": Allah](/sermons/deep-dive/intro/06-the-three-mysteries#None) |
-| {{% bible val="Wahyu:10,7" link="rev:10,7" lang="ind" %}} | ["Pengajaran Inti": Wahyu 10:7](/sermons/deep-dive/intro/06-the-three-mysteries#None) |
+| {{% bible val="Wahyu:10,7" link="rev:10,7" lang="ind" %}} | ["Pengajaran Inti": Allah](/sermons/deep-dive/intro/03-symbol-or-literal#pengajaran-inti) |
+| {{% bible val="Wahyu:10,7" link="rev:10,7" lang="ind" %}} | ["Pengajaran Inti": Allah](/sermons/deep-dive/intro/06-the-three-mysteries#pengajaran-inti) |
+| {{% bible val="Wahyu:10,7" link="rev:10,7" lang="ind" %}} | ["Pengajaran Inti": Wahyu 10:7](/sermons/deep-dive/intro/06-the-three-mysteries#pengajaran-inti) |
 | {{% bible val="Wahyu:10,9" link="rev:10,9" lang="ind" %}} | ["Bagaimana dengan kematian kedua dan kebangkitan pertama?": menjadi pahit di dalam perutmu, tetapi manis seperti madu di dalam mulutmu](/expl/content/1000y/the-thousand-year-kingdom#299a) |
 | {{% bible val="Wahyu:10,11" link="rev:10,11" lang="ind" %}} | ["Memakan Kitab Kecil Itu": Setelah memakan kitab itu, Yohanes diberi tahu bahwa ia harus bernubuat lagi — bukan hanya tentang Israel, seperti Yehezkiel, melainkan tentang banyak suku bangsa, bangsa, bahasa, dan raja](/expl/content/scroll/the-little-scroll#e70c) |
-| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | [""Identitas kedua saksi dalam Kitab Wahyu"": Wahyu pasal 11](/expl/content/witnesses/the-two-witnesses#None) |
-| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | [""Kedua Saksi (Pasal 11)"": Pasal 11](/kids/content/witnesses#None) |
-| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | ["Penolong-Penolong yang Berani": Wahyu 11](/kids/early-childhood/09-brave-helpers#None) |
-| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | ["Wahyu 11": Wahyu 11](/kids/elementary/09-the-two-witnesses#None) |
-| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | [""Wahyu 11: Tiga Hari Ketika Kelihatannya Kamu Kalah"": Wahyu 11](/kids/teens/10-the-three-days-when-it-looked-like-you-lost#None) |
-| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | [""Kedua Saksi (Pasal 11)"": Pasal 11](/quick/content/witnesses#None) |
-| {{% bible val="Wahyu:11,1-2" link="rev:11,1-2" lang="ind" %}} | [""Preterisme, historisisme, futurisme, atau idealisme?"": diperintahkan untuk diukur oleh Yohanes](/expl/background/literature/preterist-historicist-futurist-or-idealist#None) |
+| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | [""Identitas kedua saksi dalam Kitab Wahyu"": Wahyu pasal 11](/expl/content/witnesses/the-two-witnesses) |
+| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | [""Kedua Saksi (Pasal 11)"": Pasal 11](/kids/content/witnesses) |
+| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | ["Penolong-Penolong yang Berani": Wahyu 11](/kids/early-childhood/09-brave-helpers) |
+| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | ["Wahyu 11": Wahyu 11](/kids/elementary/09-the-two-witnesses#wahyu-11) |
+| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | [""Wahyu 11: Tiga Hari Ketika Kelihatannya Kamu Kalah"": Wahyu 11](/kids/teens/10-the-three-days-when-it-looked-like-you-lost) |
+| {{% bible val="Wahyu:11" link="rev:11,-1" lang="ind" %}} | [""Kedua Saksi (Pasal 11)"": Pasal 11](/quick/content/witnesses) |
+| {{% bible val="Wahyu:11,1-2" link="rev:11,1-2" lang="ind" %}} | [""Preterisme, historisisme, futurisme, atau idealisme?"": diperintahkan untuk diukur oleh Yohanes](/expl/background/literature/preterist-historicist-futurist-or-idealist) |
 | {{% bible val="Wahyu:11,1-2" link="rev:11,1-2" lang="ind" %}} | ["Futurisme": Bait suci yang diperintahkan untuk diukur oleh Yohanes](/expl/background/literature/preterist-historicist-futurist-or-idealist#f3c4) |
 | {{% bible val="Wahyu:11,1-2" link="rev:11,1-2" lang="ind" %}} | ["Apakah Tiga Setengah Tahun dalam Kitab Wahyu": bait Allah](/expl/bible/daniel/the-secret-of-the-3-5-years#1f16) |
 | {{% bible val="Wahyu:11,1-2" link="rev:11,1-2" lang="ind" %}} | ["Sangkakala Ketujuh, dan Apa yang Terjadi Sebelumnya": penyembahan](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
@@ -333,7 +334,7 @@ docType: expl
 | {{% bible val="Wahyu:11,1-2" link="rev:11,1-2" lang="ind" %}} | ["Kapan kitab ini ditulis": perintah untuk mengukur Bait Suci](/expl/topics/others/who-wrote-revelation-and-when#c4e7) |
 | {{% bible val="Wahyu:11,1-2" link="rev:11,1-2" lang="ind" %}} | ["Mengapa hal ini penting di sini — dan apa yang akan berubah": Bait Suci yang masih berdiri](/expl/topics/others/who-wrote-revelation-and-when#9b6e) |
 | {{% bible val="Wahyu:11,2" link="rev:11,2" lang="ind" %}} | ["Sedikit Matematika": pelataran luar bait Allah diserahkan kepada bangsa-bangsa lain](/expl/bible/daniel/the-secret-of-the-3-5-years#472b) |
-| {{% bible val="Wahyu:11,2" link="rev:11,2" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": Why 11:2](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Wahyu:11,2" link="rev:11,2" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": Why 11:2](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-2-35-tahun) |
 | {{% bible val="Wahyu:11,3" link="rev:11,3" lang="ind" %}} | ["Pertimbangan Aritmetika": lamanya waktu kedua saksi itu aktif](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042) |
 | {{% bible val="Wahyu:11,3" link="rev:11,3" lang="ind" %}} | ["Sedikit Matematika": para saksi bernubuat](/expl/bible/daniel/the-secret-of-the-3-5-years#472b) |
 | {{% bible val="Wahyu:11,3" link="rev:11,3" lang="ind" %}} | ["Apakah Tiga Setengah Tahun dalam Kitab Wahyu": 1260 hari kedua saksi itu](/expl/bible/daniel/the-secret-of-the-3-5-years#1f16) |
@@ -344,7 +345,7 @@ docType: expl
 | {{% bible val="Wahyu:11,3" link="rev:11,3" lang="ind" %}} | ["Sifat kedua saksi": kain kabung](/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="Wahyu:11,3" link="rev:11,3" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Allah](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:11,3" link="rev:11,3" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": mengenakan kain kabung](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:11,3" link="rev:11,3" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 11:3](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Wahyu:11,3" link="rev:11,3" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 11:3](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-2-35-tahun) |
 | {{% bible val="Wahyu:11,3-12" link="rev:11,3-12" lang="ind" %}} | ["Sangkakala Ketujuh, dan Apa yang Terjadi Sebelumnya": kesaksian dua orang saksi](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Wahyu:11,3-13" link="rev:11,3-13" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": kedua saksi](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:11,3-14" link="rev:11,3-14" lang="ind" %}} | ["Warisannya": kedua saksi dalam Kitab Wahyu](/expl/bible/daniel/the-son-of-man-and-the-remnant#0c4b) |
@@ -354,7 +355,7 @@ docType: expl
 | {{% bible val="Wahyu:11,5" link="rev:11,5" lang="ind" %}} | ["Warisannya": Mereka tidak menggunakan kekerasan untuk menyerang orang, melainkan menyerahkan penghakiman kepada Allah](/expl/bible/daniel/the-son-of-man-and-the-remnant#0c4b) |
 | {{% bible val="Wahyu:11,5" link="rev:11,5" lang="ind" %}} | ["Ketiga Malaikat Pertama": penghakiman-penghakiman peringatan](/expl/content/harvest/gods-army-and-the-seven-angels#ad85) |
 | {{% bible val="Wahyu:11,5" link="rev:11,5" lang="ind" %}} | ["Identitas kedua saksi": Menurunkan api dari langit atas musuh-musuh mereka](/expl/content/witnesses/the-two-witnesses#55fa) |
-| {{% bible val="Wahyu:11,5" link="rev:11,5" lang="ind" %}} | ["Pengajaran Inti": Wahyu 11:5](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#None) |
+| {{% bible val="Wahyu:11,5" link="rev:11,5" lang="ind" %}} | ["Pengajaran Inti": Wahyu 11:5](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#pengajaran-inti) |
 | {{% bible val="Wahyu:11,5-6" link="rev:11,5-6" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.11/5-6](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:11,5-6" link="rev:11,5-6" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.11/5-6](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:11,5-6" link="rev:11,5-6" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.11/5-6](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -363,6 +364,7 @@ docType: expl
 | {{% bible val="Wahyu:11,6" link="rev:11,6" lang="ind" %}} | ["Identitas kedua saksi": air menjadi darah](/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="Wahyu:11,6" link="rev:11,6" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": pertobatan](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:11,6-10" link="rev:11,6-10" lang="ind" %}} | ["Rahasia kejatuhannya": karena alasan yang jelas](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
+| {{% bible val="Wahyu:11,7" link="rev:11,7" lang="ind" %}} | ["Peran Kesaksian": kita akan menggenapi tujuan hidup kita sebelum kita mati](/appl/topics/power/the-power-of-testimony#20aa) |
 | {{% bible val="Wahyu:11,7" link="rev:11,7" lang="ind" %}} | ["Warisannya": Mereka dikalahkan oleh musuh setelah kesaksian mereka selesai](/expl/bible/daniel/the-son-of-man-and-the-remnant#0c4b) |
 | {{% bible val="Wahyu:11,7" link="rev:11,7" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": menang atas orang-orang kudus](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Wahyu:11,7" link="rev:11,7" lang="ind" %}} | ["Kekalahan yang berubah menjadi kemenangan": Mereka dikalahkan oleh binatang itu](/expl/content/witnesses/the-two-witnesses#5f50) |
@@ -397,15 +399,15 @@ docType: expl
 | {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Sang pelacur": Ibu yang diselamatkan](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": pihak yang selalu kalah](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": binatang kedua](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | [""Kemenangan Yesus (Pasal 12)"": Pasal 12](/kids/content/jesus#None) |
-| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Kisah Natal yang Berbeda": Wahyu 12](/kids/early-childhood/10-a-different-christmas-story#None) |
-| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Wahyu 12": Wahyu 12](/kids/elementary/10-jesus-victory#None) |
-| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | [""Wahyu 12: Kisah Natal yang Ada Naganya"": Wahyu 12](/kids/teens/11-the-christmas-story-with-a-dragon-in-it#None) |
-| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | [""Kemenangan Yesus (Pasal 12)"": Pasal 12](/quick/content/jesus#None) |
+| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | [""Kemenangan Yesus (Pasal 12)"": Pasal 12](/kids/content/jesus) |
+| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Kisah Natal yang Berbeda": Wahyu 12](/kids/early-childhood/10-a-different-christmas-story) |
+| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Wahyu 12": Wahyu 12](/kids/elementary/10-jesus-victory#wahyu-12) |
+| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | [""Wahyu 12: Kisah Natal yang Ada Naganya"": Wahyu 12](/kids/teens/11-the-christmas-story-with-a-dragon-in-it) |
+| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | [""Kemenangan Yesus (Pasal 12)"": Pasal 12](/quick/content/jesus) |
 | {{% bible val="Wahyu:12,1" link="rev:12,1" lang="ind" %}} | ["Pengikatan Iblis": 12](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Wahyu:12,1" link="rev:12,1" lang="ind" %}} | ["Sang pelacur": Memiliki keamanan di surga](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:12,1-5" link="rev:12,1-5" lang="ind" %}} | ["Kisahnya": Maka tampaklah suatu tanda besar di langit: Seorang perempuan berselubungkan matahari, dengan bulan di bawah kakinya dan sebuah mahkota dari dua belas bintang di atas kepalanya. 2 Ia sedang mengandung dan dalam keluhan kesakitannya menjelang bersalin ia berteriak kesakitan. 3 Maka tampaklah suatu tanda yang lain di langit: Lihatlah, seekor naga merah padam yang besar berkepala tujuh dan bertanduk sepuluh, dan di atas kepalanya ada tujuh mahkota. 4 Dan ekornya menyeret sepertiga dari bintang-bintang di langit dan melemparkannya ke atas bumi. Dan naga itu berdiri di hadapan perempuan yang hendak melahirkan itu, untuk menelan anaknya, apabila anak itu lahir. 5 Maka ia melahirkan seorang anak laki-laki, yang akan menggembalakan semua bangsa dengan gada besi; tetapi anaknya itu dikangkat ke hadapan Allah dan ke hadapan takhta-Nya.](/expl/content/jesus/a-different-christmas-story#a0eb) |
-| {{% bible val="Wahyu:12,1-6" link="rev:12,1-6" lang="ind" %}} | ["Membaca halaman": contoh](/help#None) |
+| {{% bible val="Wahyu:12,1-6" link="rev:12,1-6" lang="ind" %}} | ["Membaca halaman": contoh](/help#membaca-halaman) |
 | {{% bible val="Wahyu:12,1-6" link="rev:12,1-6" lang="ind" %}} | ["Penggambaran Iblis": Ia berusaha membinasakan sang anak — dan gagal](/expl/content/beasts/the-nature-of-the-beast#7b88) |
 | {{% bible val="Wahyu:12,1-6" link="rev:12,1-6" lang="ind" %}} | ["144.000 Orang": Ia gagal membinasakan sang anak](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Wahyu:12,1-12" link="rev:12,1-12" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Yesus sang pemenang](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -416,7 +418,7 @@ docType: expl
 | {{% bible val="Wahyu:12,6" link="rev:12,6" lang="ind" %}} | ["Apakah Tiga Setengah Tahun dalam Kitab Wahyu": dilindungi dari serangan Iblis](/expl/bible/daniel/the-secret-of-the-3-5-years#1f16) |
 | {{% bible val="Wahyu:12,6" link="rev:12,6" lang="ind" %}} | ["Di mana situs ini berdiri, dan apa harganya": 1.260 hari](/expl/content/1000y/pre-post-and-amillennialism#c5e2) |
 | {{% bible val="Wahyu:12,6" link="rev:12,6" lang="ind" %}} | ["Sang pelacur": Why.12/6](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Wahyu:12,6" link="rev:12,6" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 12:6](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Wahyu:12,6" link="rev:12,6" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 12:6](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-2-35-tahun) |
 | {{% bible val="Wahyu:12,7" link="rev:12,7" lang="ind" %}} | ["Kesengsaraan Besar": Mikhael berperang melawan sang naga](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Wahyu:12,7-8" link="rev:12,7-8" lang="ind" %}} | ["Pengikatan Iblis": pertempuran para malaikat melawan Iblis dan antek-anteknya](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Wahyu:12,7-12" link="rev:12,7-12" lang="ind" %}} | ["Penggambaran Iblis": Ia berperang melawan Mikhael — dan dilemparkan keluar dari sorga](/expl/content/beasts/the-nature-of-the-beast#7b88) |
@@ -428,16 +430,17 @@ docType: expl
 | {{% bible val="Wahyu:12,9" link="rev:12,9" lang="ind" %}} | ["Kesengsaraan Besar": si Iblis](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Wahyu:12,9-10" link="rev:12,9-10" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": Iblis beserta roh-roh jahatnya bersama-sama](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Wahyu:12,10" link="rev:12,10" lang="ind" %}} | ["Apakah kita akan dipenggal kepala?": para pemenang yang tidak mengasihi nyawanya (tidak menganggapnya begitu berharga)](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
+| {{% bible val="Wahyu:12,12" link="rev:12,12" lang="ind" %}} | ["Pertanyaannya": Mungkin bahkan menjadi lebih buruk](/appl/topics/hero/who-rules-the-world#2c23) |
 | {{% bible val="Wahyu:12,12" link="rev:12,12" lang="ind" %}} | ["Pengikatan Iblis": hanya memiliki waktu yang singkat](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Wahyu:12,12" link="rev:12,12" lang="ind" %}} | ["Kesengsaraan Besar": Namun karena kekalahannya, ia menjadi kejam, sebab ia tahu waktunya hanya tinggal sedikit](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Wahyu:12,12" link="rev:12,12" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": kepanikan karena waktunya singkat](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:12,12" link="rev:12,12" lang="ind" %}} | ["Mengapa kesusahan itu semakin hebat": Wahyu 12:12](/quick/content/jesus#None) |
+| {{% bible val="Wahyu:12,12" link="rev:12,12" lang="ind" %}} | ["Mengapa kesusahan itu semakin hebat": Wahyu 12:12](/quick/content/jesus#mengapa-kesusahan-itu-semakin-hebat) |
 | {{% bible val="Wahyu:12,13-17" link="rev:12,13-17" lang="ind" %}} | ["Kesengsaraan Besar": pertama-tama terhadap Israel](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Wahyu:12,13-17" link="rev:12,13-17" lang="ind" %}} | ["Penggambaran Iblis": Ia berusaha membinasakan sang perempuan — dan gagal](/expl/content/beasts/the-nature-of-the-beast#7b88) |
 | {{% bible val="Wahyu:12,13-17" link="rev:12,13-17" lang="ind" %}} | ["144.000 Orang": Ia gagal membinasakan sang perempuan](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Wahyu:12,14" link="rev:12,14" lang="ind" %}} | ["Sedikit Matematika": perempuan itu dipelihara di padang gurun](/expl/bible/daniel/the-secret-of-the-3-5-years#472b) |
 | {{% bible val="Wahyu:12,14" link="rev:12,14" lang="ind" %}} | ["Apakah Tiga Setengah Tahun dalam Kitab Wahyu": dipelihara di padang gurun](/expl/bible/daniel/the-secret-of-the-3-5-years#1f16) |
-| {{% bible val="Wahyu:12,14" link="rev:12,14" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 12:14](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Wahyu:12,14" link="rev:12,14" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 12:14](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-2-35-tahun) |
 | {{% bible val="Wahyu:12,16-17" link="rev:12,16-17" lang="ind" %}} | ["Cawan-Cawan Itu": tanda binatang itu](/expl/content/bowls/the-bowls-of-wrath#9855) |
 | {{% bible val="Wahyu:12,17" link="rev:12,17" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": naga](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:12,17" link="rev:12,17" lang="ind" %}} | ["Pratribulasi": mereka yang menuruti perintah-perintah Allah dan memegang kesaksian Yesus](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
@@ -452,13 +455,13 @@ docType: expl
 | {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["144.000 Orang": Penganiayaan dan penindasannya melalui kedua binatang buas](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Penyelesaiannya": pasal 13](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
 | {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": kedua binatang buas](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | [""Naga dan Kedua Binatang (Pasal 13)"": Pasal 13](/kids/content/beasts#None) |
-| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Penjahat yang Meniru": Wahyu 13](/kids/early-childhood/11-the-copycat-villain#None) |
-| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Wahyu 13": Wahyu 13](/kids/elementary/11-the-dragon-and-the-two-beasts#None) |
-| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | [""Wahyu 13: Sang Binatang, Angka Itu, dan Kenapa 666 Bukan Tentang Kamu"": Wahyu 13](/kids/teens/12-the-beast-the-number-and-why-666-isnt-about-you#None) |
-| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | [""Secara harfiah atau simbolis"": seekor binatang buas yang berkepala banyak dan bertanduk banyak berkeliaran di dunia](/quick/background/literature/#None) |
-| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | [""Sang Naga dan Kedua Binatang (Pasal 13)"": Pasal 13](/quick/content/beasts#None) |
-| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Keempat penunggang kuda": pasal 13](/quick/content/seals#None) |
+| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | [""Naga dan Kedua Binatang (Pasal 13)"": Pasal 13](/kids/content/beasts) |
+| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Penjahat yang Meniru": Wahyu 13](/kids/early-childhood/11-the-copycat-villain) |
+| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Wahyu 13": Wahyu 13](/kids/elementary/11-the-dragon-and-the-two-beasts#wahyu-13) |
+| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | [""Wahyu 13: Sang Binatang, Angka Itu, dan Kenapa 666 Bukan Tentang Kamu"": Wahyu 13](/kids/teens/12-the-beast-the-number-and-why-666-isnt-about-you) |
+| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | [""Secara harfiah atau simbolis"": seekor binatang buas yang berkepala banyak dan bertanduk banyak berkeliaran di dunia](/quick/background/literature/) |
+| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | [""Sang Naga dan Kedua Binatang (Pasal 13)"": Pasal 13](/quick/content/beasts) |
+| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Keempat penunggang kuda": pasal 13](/quick/content/seals#keempat-penunggang-kuda) |
 | {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Sekarung Penuh Rujukan": ia memiliki 10 tanduk](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Sekarung Penuh Rujukan": memiliki 7 kepala](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Sekarung Penuh Rujukan": 10 mahkota](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
@@ -516,7 +519,7 @@ docType: expl
 | {{% bible val="Wahyu:13,5" link="rev:13,5" lang="ind" %}} | ["Sedikit Matematika": binatang pertama itu menghujat](/expl/bible/daniel/the-secret-of-the-3-5-years#472b) |
 | {{% bible val="Wahyu:13,5" link="rev:13,5" lang="ind" %}} | ["Di mana situs ini berdiri, dan apa harganya": 42 bulan](/expl/content/1000y/pre-post-and-amillennialism#c5e2) |
 | {{% bible val="Wahyu:13,5" link="rev:13,5" lang="ind" %}} | ["Serangan Ganda": Kuasa itu hanya untuk 42 bulan](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Wahyu:13,5" link="rev:13,5" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 13:5](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Wahyu:13,5" link="rev:13,5" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 13:5](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-2-35-tahun) |
 | {{% bible val="Wahyu:13,5-6" link="rev:13,5-6" lang="ind" %}} | ["Serangan Ganda": hujatan-hujatan besar melawan Allah dan umat-Nya](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,5-6" link="rev:13,5-6" lang="ind" %}} | ["Trinitas Palsu": Perkataan yang menghujat Allah](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
 | {{% bible val="Wahyu:13,5-6" link="rev:13,5-6" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Why.13/5-6](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
@@ -533,7 +536,7 @@ docType: expl
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/7](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/7](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Binatang pertama](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | [""Pratribulasi, pertengahan tribulasi, pra-murka, atau pascatribulasi?"": peperangan binatang itu melawan orang-orang kudus](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#None) |
+| {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | [""Pratribulasi, pertengahan tribulasi, pra-murka, atau pascatribulasi?"": peperangan binatang itu melawan orang-orang kudus](/expl/topics/others/pre-mid-prewrath-or-post-tribulational) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Pratribulasi": orang-orang kudus](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Pra-murka": peperangan binatang itu melawan orang-orang kudus](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pw3c) |
 | {{% bible val="Wahyu:13,7-8" link="rev:13,7-8" lang="ind" %}} | ["Binatang Pertama": ia memulai penganiayaan terhadap umat Allah dan berhasil melakukannya](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#e132) |
@@ -568,7 +571,7 @@ docType: expl
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Dari bumi](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/11](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": dari bumi](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | [""Sang Naga dan Kedua Binatang (Pasal 13)"": Wahyu 13:11](/quick/content/beasts#None) |
+| {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | [""Sang Naga dan Kedua Binatang (Pasal 13)"": Wahyu 13:11](/quick/content/beasts) |
 | {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Binatang Kedua": memastikan bahwa seluruh bumi menyembah binatang pertama](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
 | {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Serangan Ganda": Memerintah dengan kuasa binatang pertama](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Serangan Ganda": Memaksa semua orang menyembah binatang pertama, yang lukanya telah sembuh](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
@@ -584,7 +587,7 @@ docType: expl
 | {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Dapat membuat api turun dari langit](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
 | {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Why.13/13](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": binatang kedua](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": menurunkan api](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": menurunkan api](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-2-35-tahun) |
 | {{% bible val="Wahyu:13,13-14" link="rev:13,13-14" lang="ind" %}} | ["Binatang Kedua": layak menerima tanda-tanda dan mukjizat-mukjizat besar](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
 | {{% bible val="Wahyu:13,13-14" link="rev:13,13-14" lang="ind" %}} | ["Serangan Ganda": Mengadakan tanda-tanda besar, menjatuhkan api dari langit, menipu dengan tanda-tanda](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,13-14" link="rev:13,13-14" lang="ind" %}} | ["Serangan Ganda": Melakukan hal-hal besar di depan orang banyak](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
@@ -627,7 +630,7 @@ docType: expl
 | {{% bible val="Wahyu:13,17" link="rev:13,17" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Tidak dapat membeli atau menjual tanpa tanda](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:13,17" link="rev:13,17" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/17](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Pertimbangan Aritmetika": yaitu rahasia binatang itu](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042) |
-| {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | [""Angka Binatang Itu"": Angka ajaib dari binatang itu](/expl/content/beasts/666-the-number-of-the-beast#None) |
+| {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | [""Angka Binatang Itu"": Angka ajaib dari binatang itu](/expl/content/beasts/666-the-number-of-the-beast) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["666 dalam Konteksnya": angka seorang manusia](/expl/content/beasts/666-the-number-of-the-beast#c413) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Apa yang Dapat Dilakukan?": hikmat untuk membedakan apa yang berasal dari Allah dan apa yang bukan](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#6293) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Serangan Ganda": Yang penting di sini ialah hikmat](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
@@ -637,13 +640,13 @@ docType: expl
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/18](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/18](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": binatang kedua](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Pengajaran Inti": Why 13:18](/sermons/deep-dive/intro/05-not-chaos-but-design#None) |
-| {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Mari singkirkan cincin pemecah kodenya": 'Yang penting di sini ialah hikmat: barangsiapa yang bijaksana, baiklah ia menghitung bilangan binatang itu, karena bilangan itu adalah bilangan seorang manusia, dan bilangannya ialah enam ratus enam puluh enam.'](/sermons/prosperity-gospel-module/conflict/02-666-whose-security-are-you-actually-buying#None) |
-| {{% bible val="Wahyu:14" link="rev:14,-1" lang="ind" %}} | [""Kedua Panen (Pasal 14)"": Pasal 14](/kids/content/harvest#None) |
-| {{% bible val="Wahyu:14" link="rev:14,-1" lang="ind" %}} | ["Setia Walau Sulit": Wahyu 14](/kids/early-childhood/12-faithful-even-when-its-hard#None) |
-| {{% bible val="Wahyu:14" link="rev:14,-1" lang="ind" %}} | ["Wahyu 14": Wahyu 14](/kids/elementary/12-the-two-harvests#None) |
-| {{% bible val="Wahyu:14" link="rev:14,-1" lang="ind" %}} | [""Wahyu 14: Dua Tuaian, dan Kamu Ada di Tuaian yang Mana"": Wahyu 14](/kids/teens/13-two-harvests-and-which-one-youre-in#None) |
-| {{% bible val="Wahyu:14" link="rev:14,-1" lang="ind" %}} | [""Kedua Penuaian (Pasal 14)"": Pasal 14](/quick/content/harvest#None) |
+| {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Pengajaran Inti": Why 13:18](/sermons/deep-dive/intro/05-not-chaos-but-design#pengajaran-inti) |
+| {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Mari singkirkan cincin pemecah kodenya": 'Yang penting di sini ialah hikmat: barangsiapa yang bijaksana, baiklah ia menghitung bilangan binatang itu, karena bilangan itu adalah bilangan seorang manusia, dan bilangannya ialah enam ratus enam puluh enam.'](/sermons/prosperity-gospel-module/conflict/02-666-whose-security-are-you-actually-buying#mari-singkirkan-cincin-pemecah-kodenya) |
+| {{% bible val="Wahyu:14" link="rev:14,-1" lang="ind" %}} | [""Kedua Panen (Pasal 14)"": Pasal 14](/kids/content/harvest) |
+| {{% bible val="Wahyu:14" link="rev:14,-1" lang="ind" %}} | ["Setia Walau Sulit": Wahyu 14](/kids/early-childhood/12-faithful-even-when-its-hard) |
+| {{% bible val="Wahyu:14" link="rev:14,-1" lang="ind" %}} | ["Wahyu 14": Wahyu 14](/kids/elementary/12-the-two-harvests#wahyu-14) |
+| {{% bible val="Wahyu:14" link="rev:14,-1" lang="ind" %}} | [""Wahyu 14: Dua Tuaian, dan Kamu Ada di Tuaian yang Mana"": Wahyu 14](/kids/teens/13-two-harvests-and-which-one-youre-in) |
+| {{% bible val="Wahyu:14" link="rev:14,-1" lang="ind" %}} | [""Kedua Penuaian (Pasal 14)"": Pasal 14](/quick/content/harvest) |
 | {{% bible val="Wahyu:14,1" link="rev:14,1" lang="ind" %}} | ["Apa yang sebenarnya membawa tema ini": berdiri bersama Anak Domba di Bukit Sion](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Wahyu:14,1" link="rev:14,1" lang="ind" %}} | ["666 dalam Konteksnya": penyebutan 144.000](/expl/content/beasts/666-the-number-of-the-beast#c413) |
 | {{% bible val="Wahyu:14,1-5" link="rev:14,1-5" lang="ind" %}} | ["Apakah kita akan dipenggal kepala?": setia kepada Yesus](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
@@ -658,18 +661,18 @@ docType: expl
 | {{% bible val="Wahyu:14,14" link="rev:14,14" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": sosok yang seperti Anak Manusia di atas awan putih dengan sebuah sabit untuk menuai bumi](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Wahyu:14,14-19" link="rev:14,14-19" lang="ind" %}} | ["Kombinasi 4x7": Penyebutan sabit sebanyak tujuh kali](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#1ee7) |
 | {{% bible val="Wahyu:14,19" link="rev:14,19" lang="ind" %}} | ["Kedua Tuaian": tempat pemerasan murka Allah](/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
-| {{% bible val="Wahyu:15" link="rev:15,-1" lang="ind" %}} | [""Cawan-cawan Murka (Pasal 15-16)"": Pasal 15](/kids/content/bowls#None) |
-| {{% bible val="Wahyu:15" link="rev:15,-1" lang="ind" %}} | ["Hal-Hal Buruk Tidak Menang": Wahyu 15–16](/kids/early-childhood/13-bad-things-dont-win#None) |
-| {{% bible val="Wahyu:15" link="rev:15,-1" lang="ind" %}} | ["Wahyu 15–16": Wahyu 15–16](/kids/elementary/13-the-bowls#None) |
-| {{% bible val="Wahyu:15" link="rev:15,-1" lang="ind" %}} | [""Wahyu 15–16: Ketika Tahu Lebih Baik Tidak Mengubah Apa Pun"": Wahyu 15–16](/kids/teens/14-when-knowing-better-changes-nothing#None) |
-| {{% bible val="Wahyu:15" link="rev:15,-1" lang="ind" %}} | [""Cawan-cawan Murka (Pasal 15-16)"": Pasal 15-16](/quick/content/bowls#None) |
+| {{% bible val="Wahyu:15" link="rev:15,-1" lang="ind" %}} | [""Cawan-cawan Murka (Pasal 15-16)"": Pasal 15](/kids/content/bowls) |
+| {{% bible val="Wahyu:15" link="rev:15,-1" lang="ind" %}} | ["Hal-Hal Buruk Tidak Menang": Wahyu 15–16](/kids/early-childhood/13-bad-things-dont-win) |
+| {{% bible val="Wahyu:15" link="rev:15,-1" lang="ind" %}} | ["Wahyu 15–16": Wahyu 15–16](/kids/elementary/13-the-bowls#wahyu-1516) |
+| {{% bible val="Wahyu:15" link="rev:15,-1" lang="ind" %}} | [""Wahyu 15–16: Ketika Tahu Lebih Baik Tidak Mengubah Apa Pun"": Wahyu 15–16](/kids/teens/14-when-knowing-better-changes-nothing) |
+| {{% bible val="Wahyu:15" link="rev:15,-1" lang="ind" %}} | [""Cawan-cawan Murka (Pasal 15-16)"": Pasal 15-16](/quick/content/bowls) |
 | {{% bible val="Wahyu:15,1" link="rev:15,1" lang="ind" %}} | ["Argumen lebih lanjut untuk satu pertempuran": bagian awal cawan-cawan murka secara eksplisit menyebutnya sebagai tulah-tulah terakhir](/expl/content/1000y/the-thousand-year-kingdom#6a0c) |
 | {{% bible val="Wahyu:15,1" link="rev:15,1" lang="ind" %}} | ["Latar Belakang": mengakhiri semuanya](/expl/content/bowls/the-bowls-of-wrath#3526) |
 | {{% bible val="Wahyu:15,1" link="rev:15,1" lang="ind" %}} | ["Pra-murka": cawan-cawan yang secara eksplisit disebut 'murka Allah'](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pw3c) |
 | {{% bible val="Wahyu:15,1-5" link="rev:15,1-5" lang="ind" %}} | ["Latar Belakang": ruang takhta Allah](/expl/content/bowls/the-bowls-of-wrath#3526) |
 | {{% bible val="Wahyu:15,2" link="rev:15,2" lang="ind" %}} | ["Apa yang sebenarnya membawa tema ini": berdiri di tepi lautan kaca](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Wahyu:15,6-7" link="rev:15,6-7" lang="ind" %}} | ["Latar Belakang": menyerahkan cawan-cawan murka itu kepada mereka](/expl/content/bowls/the-bowls-of-wrath#3526) |
-| {{% bible val="Wahyu:16" link="rev:16,-1" lang="ind" %}} | [""Cawan-cawan Murka (Pasal 15-16)"": 16](/kids/content/bowls#None) |
+| {{% bible val="Wahyu:16" link="rev:16,-1" lang="ind" %}} | [""Cawan-cawan Murka (Pasal 15-16)"": 16](/kids/content/bowls) |
 | {{% bible val="Wahyu:16,2" link="rev:16,2" lang="ind" %}} | ["Cawan-Cawan Itu": Cawan pertama](/expl/content/bowls/the-bowls-of-wrath#9855) |
 | {{% bible val="Wahyu:16,2-9" link="rev:16,2-9" lang="ind" %}} | ["Angka 4": keempat cawan yang dicurahkan atas daratan, laut, sungai-sungai, dan matahari](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
 | {{% bible val="Wahyu:16,3-7" link="rev:16,3-7" lang="ind" %}} | ["Cawan-Cawan Itu": Cawan kedua dan ketiga](/expl/content/bowls/the-bowls-of-wrath#9855) |
@@ -682,7 +685,7 @@ docType: expl
 | {{% bible val="Wahyu:16,12" link="rev:16,12" lang="ind" %}} | ["Cawan Keenam": Sungai Efrat dikeringkan untuk membuka jalan bagi raja-raja dari timur.](/expl/content/bowls/the-bowls-of-wrath#9ced) |
 | {{% bible val="Wahyu:16,12-14" link="rev:16,12-14" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": cawan keenam](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Wahyu:16,12-16" link="rev:16,12-16" lang="ind" %}} | ["Harmagedon dan Karkemis": Harmagedon](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#b3c1) |
-| {{% bible val="Wahyu:16,12-16" link="rev:16,12-16" lang="ind" %}} | ["Harmagedon": Wahyu 16:12-16](/quick/content/bowls#None) |
+| {{% bible val="Wahyu:16,12-16" link="rev:16,12-16" lang="ind" %}} | ["Harmagedon": Wahyu 16:12-16](/quick/content/bowls#harmagedon) |
 | {{% bible val="Wahyu:16,12-21" link="rev:16,12-21" lang="ind" %}} | ["Cawan-Cawan Itu": Cawan keenam dan ketujuh](/expl/content/bowls/the-bowls-of-wrath#9855) |
 | {{% bible val="Wahyu:16,13" link="rev:16,13" lang="ind" %}} | ["666 dalam Konteksnya": cawan keenam](/expl/content/beasts/666-the-number-of-the-beast#c413) |
 | {{% bible val="Wahyu:16,13" link="rev:16,13" lang="ind" %}} | ["Penggambaran Iblis": sebagai sebuah trinitas pada cawan keenam](/expl/content/beasts/the-nature-of-the-beast#7b88) |
@@ -696,21 +699,21 @@ docType: expl
 | {{% bible val="Wahyu:16,16" link="rev:16,16" lang="ind" %}} | ["Terjemahannya": dalam Alkitab,](/expl/content/bowls/the-key-to-armageddon#8763) |
 | {{% bible val="Wahyu:16,17" link="rev:16,17" lang="ind" %}} | ["Allah tinggal bersama umat-Nya": penghakiman atas kerajaan Iblis](/expl/content/paradise/the-new-jerusalem#f42c) |
 | {{% bible val="Wahyu:16,17-20" link="rev:16,17-20" lang="ind" %}} | ["Sangkakala Ketujuh, dan Apa yang Terjadi Sebelumnya": cawan ketujuh, di mana kerajaan Iblis diruntuhkan](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
-| {{% bible val="Wahyu:16,17-21" link="rev:16,17-21" lang="ind" %}} | ["Harmagedon": Wahyu 16:17-21](/quick/content/bowls#None) |
+| {{% bible val="Wahyu:16,17-21" link="rev:16,17-21" lang="ind" %}} | ["Harmagedon": Wahyu 16:17-21](/quick/content/bowls#harmagedon) |
 | {{% bible val="Wahyu:16,18" link="rev:16,18" lang="ind" %}} | ["Angka 4": penutup cawan-cawan murka](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
 | {{% bible val="Wahyu:16,18-20" link="rev:16,18-20" lang="ind" %}} | ["Argumen lebih lanjut untuk satu pertempuran": kehancuran kerajaan Iblis](/expl/content/1000y/the-thousand-year-kingdom#6a0c) |
-| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | ["Gambaran umum": begitu banyak tokoh dalam pasal ini yang saling berinteraksi satu sama lain](/expl/content/harlot/who-is-the-harlot-babylon-part-1#None) |
+| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | ["Gambaran umum": begitu banyak tokoh dalam pasal ini yang saling berinteraksi satu sama lain](/expl/content/harlot/who-is-the-harlot-babylon-part-1#gambaran-umum) |
 | {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | ["Sang pelacur": Perempuan yang dibinasakan](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | ["Aspek keagamaan": kitab Wahyu](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | ["Penyelesaiannya": pasal 17](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
-| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | [""Sang Perempuan Sundal (Pasal 17-19)"": Pasal 17](/kids/content/harlot#None) |
-| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | ["Wahyu 17–19": Wahyu 17–19](/kids/elementary/14-the-harlot-and-the-bride#None) |
-| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | [""Wahyu 17–18: Babel Runtuh"": Wahyu 17–19](/kids/teens/15-babylon-falls#None) |
-| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | [""Sang Pelacur (Pasal 17-19)"": Pasal 17](/quick/content/harlot#None) |
-| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | ["Keempat penunggang kuda": pasal 17](/quick/content/seals#None) |
+| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | [""Sang Perempuan Sundal (Pasal 17-19)"": Pasal 17](/kids/content/harlot) |
+| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | ["Wahyu 17–19": Wahyu 17–19](/kids/elementary/14-the-harlot-and-the-bride#wahyu-1719) |
+| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | [""Wahyu 17–18: Babel Runtuh"": Wahyu 17–19](/kids/teens/15-babylon-falls) |
+| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | [""Sang Pelacur (Pasal 17-19)"": Pasal 17](/quick/content/harlot) |
+| {{% bible val="Wahyu:17" link="rev:17,-1" lang="ind" %}} | ["Keempat penunggang kuda": pasal 17](/quick/content/seals#keempat-penunggang-kuda) |
 | {{% bible val="Wahyu:17,1" link="rev:17,1" lang="ind" %}} | ["deiknumi": Pengantar penglihatan tentang perempuan sundal itu](/expl/background/literature/literally-or-symbolic#360a) |
 | {{% bible val="Wahyu:17,1" link="rev:17,1" lang="ind" %}} | ["Sang pelacur": Malaikat mengumumkan penghakiman](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Wahyu:17,1" link="rev:17,1" lang="ind" %}} | ["Pengajaran Inti": 17:1](/sermons/deep-dive/intro/03-symbol-or-literal#None) |
+| {{% bible val="Wahyu:17,1" link="rev:17,1" lang="ind" %}} | ["Pengajaran Inti": 17:1](/sermons/deep-dive/intro/03-symbol-or-literal#pengajaran-inti) |
 | {{% bible val="Wahyu:17,1-2" link="rev:17,1-2" lang="ind" %}} | ["Sang pelacur": Why.17/1-2](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,1-2" link="rev:17,1-2" lang="ind" %}} | ["Sang pelacur": Why.17/1-2](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,1-13" link="rev:17,1-13" lang="ind" %}} | ["Ekfrasis": Separuh pertama pasal 17](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#d4d3) |
@@ -733,7 +736,7 @@ docType: expl
 | {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Sang pelacur": Why.17/4](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Berpakaian seperti mempelai perempuan Anak Domba](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Aspek keagamaan": 17](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
-| {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Sosok paling berdandan dalam seluruh kitab ini": 'Perempuan itu memakai kain ungu dan kain kirmizi, dihiasi dengan emas, permata, dan mutiara, dan di tangannya ada suatu cawan emas penuh dengan segala kekejian dan kenajisan percabulannya.'](/sermons/prosperity-gospel-module/conflict/03-the-harlot-as-glamorized-empire#None) |
+| {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Sosok paling berdandan dalam seluruh kitab ini": 'Perempuan itu memakai kain ungu dan kain kirmizi, dihiasi dengan emas, permata, dan mutiara, dan di tangannya ada suatu cawan emas penuh dengan segala kekejian dan kenajisan percabulannya.'](/sermons/prosperity-gospel-module/conflict/03-the-harlot-as-glamorized-empire#sosok-paling-berdandan-dalam-seluruh-kitab-ini) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Rahasia Itu": binatang itu](/expl/background/literature/literally-or-symbolic#8b2d) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Memiliki tanda pada dahinya: Babel](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Sang pelacur": Why.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
@@ -741,9 +744,9 @@ docType: expl
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Sang pelacur": Why.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Why.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Aspek keagamaan": Babel besar, ibu dari segala pelacur dan kekejian bumi](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
-| {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Pengajaran Inti": binatang itu](/sermons/deep-dive/intro/03-symbol-or-literal#None) |
-| {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Pengajaran Inti": sundal itu](/sermons/deep-dive/intro/06-the-three-mysteries#None) |
-| {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Pengajaran Inti": Wahyu 17:5](/sermons/deep-dive/intro/06-the-three-mysteries#None) |
+| {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Pengajaran Inti": binatang itu](/sermons/deep-dive/intro/03-symbol-or-literal#pengajaran-inti) |
+| {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Pengajaran Inti": sundal itu](/sermons/deep-dive/intro/06-the-three-mysteries#pengajaran-inti) |
+| {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Pengajaran Inti": Wahyu 17:5](/sermons/deep-dive/intro/06-the-three-mysteries#pengajaran-inti) |
 | {{% bible val="Wahyu:17,6" link="rev:17,6" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Meminum darah orang-orang kudus](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
 | {{% bible val="Wahyu:17,6" link="rev:17,6" lang="ind" %}} | ["Sang pelacur": Menganiaya dan membunuh orang-orang kudus](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,6" link="rev:17,6" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Meminum darah orang-orang kudus](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
@@ -785,15 +788,15 @@ docType: expl
 | {{% bible val="Wahyu:17,17" link="rev:17,17" lang="ind" %}} | ["Sang pelacur": Allah menaruh ke dalam hati mereka untuk membinasakan sang pelacur](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,18" link="rev:17,18" lang="ind" %}} | ["Sang pelacur": Why.17/18](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,18" link="rev:17,18" lang="ind" %}} | ["Sang pelacur": Why.17/18](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Wahyu:18" link="rev:18,-1" lang="ind" %}} | [""Sang Perempuan Sundal (Pasal 17-19)"": 18](/kids/content/harlot#None) |
-| {{% bible val="Wahyu:18" link="rev:18,-1" lang="ind" %}} | [""Sang Pelacur (Pasal 17-19)"": 18](/quick/content/harlot#None) |
+| {{% bible val="Wahyu:18" link="rev:18,-1" lang="ind" %}} | [""Sang Perempuan Sundal (Pasal 17-19)"": 18](/kids/content/harlot) |
+| {{% bible val="Wahyu:18" link="rev:18,-1" lang="ind" %}} | [""Sang Pelacur (Pasal 17-19)"": 18](/quick/content/harlot) |
 | {{% bible val="Wahyu:18,1" link="rev:18,1" lang="ind" %}} | ["Sebuah kata kecil dengan konsekuensi besar": penghakiman atas Babel](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Wahyu:18,3" link="rev:18,3" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Tidak dapat membeli atau menjual tanpa tanda](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:18,3" link="rev:18,3" lang="ind" %}} | ["Aspek ekonomi": berzina dengan Babel](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Wahyu:18,3" link="rev:18,3" lang="ind" %}} | ["Bangsa-bangsa dan persembahan mereka": kemuliaan dan kekayaan macam yang dahulu mereka peroleh dari Babel](/expl/content/paradise/the-new-jerusalem#284a) |
 | {{% bible val="Wahyu:18,4" link="rev:18,4" lang="ind" %}} | ["Karakter sang pelacur": dan kita harus pergi](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
 | {{% bible val="Wahyu:18,4" link="rev:18,4" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": agar engkau terpaksa terus merenung dan melangkah keluar darinya, hari demi hari](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
-| {{% bible val="Wahyu:18,4" link="rev:18,4" lang="ind" %}} | ["Dampaknya dan penghakimannya": Wahyu 18:4](/quick/content/harlot#None) |
+| {{% bible val="Wahyu:18,4" link="rev:18,4" lang="ind" %}} | ["Dampaknya dan penghakimannya": Wahyu 18:4](/quick/content/harlot#dampaknya-dan-penghakimannya) |
 | {{% bible val="Wahyu:18,6" link="rev:18,6" lang="ind" %}} | ["Penghakiman": dibalas dua kali lipat atas perbuatannya](/expl/content/harlot/the-character-and-destiny-of-the-harlot#db66) |
 | {{% bible val="Wahyu:18,7" link="rev:18,7" lang="ind" %}} | ["Karakter sang pelacur": Ia memandang dirinya sendiri tak tersentuh](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
 | {{% bible val="Wahyu:18,7" link="rev:18,7" lang="ind" %}} | ["Sang pelacur": Why.18/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
@@ -825,8 +828,8 @@ docType: expl
 | {{% bible val="Wahyu:18,21" link="rev:18,21" lang="ind" %}} | ["Keempat Sangkakala Pertama": sebuah batu kilangan besar dilemparkan ke dalam laut, tidak akan ditemukan lagi](/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Wahyu:18,22-24" link="rev:18,22-24" lang="ind" %}} | ["Penghakiman": ia timpakan kepada orang lain](/expl/content/harlot/the-character-and-destiny-of-the-harlot#db66) |
 | {{% bible val="Wahyu:18,23" link="rev:18,23" lang="ind" %}} | ["Sang pelacur": Menggunakan sihir](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Wahyu:19" link="rev:19,-1" lang="ind" %}} | [""Sang Perempuan Sundal (Pasal 17-19)"": 19](/kids/content/harlot#None) |
-| {{% bible val="Wahyu:19" link="rev:19,-1" lang="ind" %}} | [""Sang Pelacur (Pasal 17-19)"": 19](/quick/content/harlot#None) |
+| {{% bible val="Wahyu:19" link="rev:19,-1" lang="ind" %}} | [""Sang Perempuan Sundal (Pasal 17-19)"": 19](/kids/content/harlot) |
+| {{% bible val="Wahyu:19" link="rev:19,-1" lang="ind" %}} | [""Sang Pelacur (Pasal 17-19)"": 19](/quick/content/harlot) |
 | {{% bible val="Wahyu:19,2" link="rev:19,2" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": 19:2](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Wahyu:19,2" link="rev:19,2" lang="ind" %}} | ["Sang pelacur": Allah membalaskan darah para saksi](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:19,5" link="rev:19,5" lang="ind" %}} | ["Allah tinggal bersama umat-Nya": penghakiman atas Babel](/expl/content/paradise/the-new-jerusalem#f42c) |
@@ -837,7 +840,7 @@ docType: expl
 | {{% bible val="Wahyu:19,11-21" link="rev:19,11-21" lang="ind" %}} | ["Sebuah kata kecil dengan konsekuensi besar": pertempuran terakhir](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Wahyu:19,11-21" link="rev:19,11-21" lang="ind" %}} | ["Dua pertempuran terakhir?": pertempuran Yesus 'sebelum' Kerajaan Seribu Tahun](/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Wahyu:19,11-21" link="rev:19,11-21" lang="ind" %}} | ["Harmagedon dan Karkemis": oleh Yesus](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#b3c1) |
-| {{% bible val="Wahyu:19,11-21" link="rev:19,11-21" lang="ind" %}} | ["Harmagedon": Wahyu 19:11-21](/quick/content/bowls#None) |
+| {{% bible val="Wahyu:19,11-21" link="rev:19,11-21" lang="ind" %}} | ["Harmagedon": Wahyu 19:11-21](/quick/content/bowls#harmagedon) |
 | {{% bible val="Wahyu:19,14" link="rev:19,14" lang="ind" %}} | ["Sebuah kata kecil dengan konsekuensi besar": Yesus mengadakan pertempuran itu setelah perjamuan pernikahan](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Wahyu:19,15" link="rev:19,15" lang="ind" %}} | ["Dua pertempuran terakhir?": pedang](/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Wahyu:19,15" link="rev:19,15" lang="ind" %}} | ["Kedua Tuaian": menginjak-injak tempat pemerasan murka Allah Yang Mahakuasa](/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
@@ -849,12 +852,12 @@ docType: expl
 | {{% bible val="Wahyu:19,20" link="rev:19,20" lang="ind" %}} | ["Sebuah kata kecil dengan konsekuensi besar": binatang dan nabi palsu itu ditangkap tepat setelah pertempuran itu kalah](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Wahyu:19,20" link="rev:19,20" lang="ind" %}} | ["Penggambaran Iblis": 19](/expl/content/beasts/the-nature-of-the-beast#7b88) |
 | {{% bible val="Wahyu:19,21" link="rev:19,21" lang="ind" %}} | ["Senjata Peperangan yang Dibayangkannya": Yesus berperang seorang diri, hanya bersenjatakan pedang dari mulut-Nya](/expl/topics/others/dispensionalism-and-its-critic#7b85) |
-| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | [""Kerajaan Seribu Tahun (Pasal 20)"": Pasal 20](/kids/content/1000y#None) |
-| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | ["Seribu Tahun Yesus Menjadi Raja": Wahyu 20](/kids/early-childhood/14-a-thousand-years-of-jesus-being-king#None) |
-| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | ["Surga Adalah Dekat dengan Allah": Wahyu 20](/kids/early-childhood/15-heaven-is-being-close-to-god#None) |
-| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | ["Wahyu 20": Wahyu 20](/kids/elementary/15-the-thousand-years#None) |
-| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | [""Wahyu 20: Seribu Tahun yang Bukan Hitung Mundur"": Wahyu 20](/kids/teens/16-the-thousand-years-that-isnt-a-countdown#None) |
-| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | [""Kerajaan Seribu Tahun (Pasal 20)"": Pasal 20](/quick/content/1000y#None) |
+| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | [""Kerajaan Seribu Tahun (Pasal 20)"": Pasal 20](/kids/content/1000y) |
+| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | ["Seribu Tahun Yesus Menjadi Raja": Wahyu 20](/kids/early-childhood/14-a-thousand-years-of-jesus-being-king) |
+| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | ["Surga Adalah Dekat dengan Allah": Wahyu 20](/kids/early-childhood/15-heaven-is-being-close-to-god) |
+| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | ["Wahyu 20": Wahyu 20](/kids/elementary/15-the-thousand-years#wahyu-20) |
+| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | [""Wahyu 20: Seribu Tahun yang Bukan Hitung Mundur"": Wahyu 20](/kids/teens/16-the-thousand-years-that-isnt-a-countdown) |
+| {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | [""Kerajaan Seribu Tahun (Pasal 20)"": Pasal 20](/quick/content/1000y) |
 | {{% bible val="Wahyu:20,1" link="rev:20,1" lang="ind" %}} | ["Futurisme": pasal 20–22](/expl/background/literature/preterist-historicist-futurist-or-idealist#f3c4) |
 | {{% bible val="Wahyu:20,1" link="rev:20,1" lang="ind" %}} | ["Pengikatan Iblis": 20](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Wahyu:20,1-3" link="rev:20,1-3" lang="ind" %}} | ["Simpul 2: apa arti "diikat"": Wahyu 20:1–3](/expl/content/1000y/pre-post-and-amillennialism#7d18) |
@@ -868,17 +871,17 @@ docType: expl
 | {{% bible val="Wahyu:20,3" link="rev:20,3" lang="ind" %}} | ["Pengikatan Iblis": dilepaskan untuk waktu yang singkat](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Wahyu:20,3" link="rev:20,3" lang="ind" %}} | ["Pengikatan Iblis": jurang maut](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Wahyu:20,3" link="rev:20,3" lang="ind" %}} | ["Pengikatan Iblis": penyesatan itu dihentikan di pasal 20](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
-| {{% bible val="Wahyu:20,4" link="rev:20,4" lang="ind" %}} | [""Kerajaan Seribu Tahun"": satu ayat ini](/expl/content/1000y/the-thousand-year-kingdom#None) |
+| {{% bible val="Wahyu:20,4" link="rev:20,4" lang="ind" %}} | [""Kerajaan Seribu Tahun"": satu ayat ini](/expl/content/1000y/the-thousand-year-kingdom) |
 | {{% bible val="Wahyu:20,4" link="rev:20,4" lang="ind" %}} | ["Apa alur ceritanya?": kebangkitan](/expl/content/1000y/the-thousand-year-kingdom#008e) |
 | {{% bible val="Wahyu:20,4" link="rev:20,4" lang="ind" %}} | ["Apakah kita akan dipenggal kepala?": dipenggal kepalanya](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
 | {{% bible val="Wahyu:20,4" link="rev:20,4" lang="ind" %}} | ["Sekilas Perjalanan Sejarah": Kerajaan Seribu Tahun](/expl/topics/others/dispensionalism-a-little-history#0f48) |
-| {{% bible val="Wahyu:20,4" link="rev:20,4" lang="ind" %}} | ["Dua detail yang patut dijelaskan": Wahyu 20:4](/quick/content/1000y#None) |
+| {{% bible val="Wahyu:20,4" link="rev:20,4" lang="ind" %}} | ["Dua detail yang patut dijelaskan": Wahyu 20:4](/quick/content/1000y#dua-detail-yang-patut-dijelaskan) |
 | {{% bible val="Wahyu:20,4-5" link="rev:20,4-5" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": Wahyu 20:4–5](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Wahyu:20,4-5" link="rev:20,4-5" lang="ind" %}} | ["Di mana situs ini berdiri, dan apa harganya": Wahyu 20:4–5](/expl/content/1000y/pre-post-and-amillennialism#c5e2) |
 | {{% bible val="Wahyu:20,4-6" link="rev:20,4-6" lang="ind" %}} | ["Apa alur ceritanya?": pasal 20](/expl/content/1000y/the-thousand-year-kingdom#008e) |
 | {{% bible val="Wahyu:20,4-6" link="rev:20,4-6" lang="ind" %}} | ["Bagaimana dengan kematian kedua dan kebangkitan pertama?": Aku melihat takhta-takhta dan orang-orang yang duduk di atasnya, dan kepada mereka diberikan kuasa untuk menghakimi. Aku juga melihat jiwa-jiwa mereka yang telah dipenggal kepalanya karena kesaksian yang mereka lakukan tentang Yesus dan karena firman Allah, dan yang tidak menyembah binatang itu atau patungnya dan yang tidak menerima tandanya pada dahi dan tangan mereka; mereka hidup kembali dan memerintah sebagai raja bersama-sama dengan Kristus untuk masa seribu tahun. Tetapi orang-orang mati yang lain tidak bangkit sebelum masa yang seribu tahun itu berakhir. Inilah kebangkitan pertama.](/expl/content/1000y/the-thousand-year-kingdom#299a) |
 | {{% bible val="Wahyu:20,4-6" link="rev:20,4-6" lang="ind" %}} | ["Perspektif": orang-orang percaya dapat memerintah bersama-Nya](/expl/content/letters/the-letter-to-the-church-in-smyrna#302f) |
-| {{% bible val="Wahyu:20,5-6" link="rev:20,5-6" lang="ind" %}} | ["Dua detail yang patut dijelaskan": Wahyu 20:5-6](/quick/content/1000y#None) |
+| {{% bible val="Wahyu:20,5-6" link="rev:20,5-6" lang="ind" %}} | ["Dua detail yang patut dijelaskan": Wahyu 20:5-6](/quick/content/1000y#dua-detail-yang-patut-dijelaskan) |
 | {{% bible val="Wahyu:20,6" link="rev:20,6" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": kematian kedua tidak berkuasa](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Wahyu:20,6" link="rev:20,6" lang="ind" %}} | ["Lalu, apa itu kematian kedua?": Berbahagia dan kuduslah ia, yang mendapat bagian dalam kebangkitan pertama itu. Kematian yang kedua tidak berkuasa lagi atas mereka, tetapi mereka akan menjadi imam-imam Allah dan Kristus, dan mereka akan memerintah sebagai raja bersama-sama dengan Dia, 1000 tahun lamanya.](/expl/content/1000y/the-thousand-year-kingdom#6f12) |
 | {{% bible val="Wahyu:20,7-10" link="rev:20,7-10" lang="ind" %}} | ["Dua pertempuran terakhir?": pertempuran Gog dan Magog setelah Kerajaan Seribu Tahun](/expl/content/1000y/the-thousand-year-kingdom#4257) |
@@ -893,16 +896,16 @@ docType: expl
 | {{% bible val="Wahyu:20,12" link="rev:20,12" lang="ind" %}} | ["Apa yang sebenarnya membawa tema ini": berdiri di depan takhta](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Wahyu:20,13" link="rev:20,13" lang="ind" %}} | ["Tidak ada laut lagi": tempat orang mati](/expl/content/paradise/the-new-jerusalem#eee1) |
 | {{% bible val="Wahyu:20,13" link="rev:20,13" lang="ind" %}} | ["Memaksakan Sebuah Tafsiran pada Teks": Penghakiman Terakhir](/expl/topics/others/the-rapture#0bb2) |
-| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Sebuah Surat {#letter}": pasal 21](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
-| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Sebuah Nubuat {#prophecy}": Kerajaan Allah pasti akan datang](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Sebuah Surat": pasal 21](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
+| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Sebuah Nubuat": Kerajaan Allah pasti akan datang](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Apa alur ceritanya?": pasal 21](/expl/content/1000y/the-thousand-year-kingdom#008e) |
 | {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Surga dan Yerusalem Baru": 21](/expl/content/paradise/heaven-and-hell#2f63) |
 | {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Sekilas Perjalanan Sejarah": satu pasal setelahnya dalam Kitab Wahyu](/expl/topics/others/dispensionalism-a-little-history#0f48) |
-| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Pasal 21](/kids/content/paradise#None) |
-| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Rumah Baru Kita, Yerusalem Baru": Wahyu 21–22](/kids/early-childhood/16-our-new-home-the-new-jerusalem#None) |
-| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Wahyu 21–22": Wahyu 21–22](/kids/elementary/16-new-heaven-and-new-earth#None) |
-| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | [""Topik: Akhir Cerita yang Sebenarnya Kamu Inginkan"": Wahyu 21–22](/kids/teens/17-the-ending-you-actually-want#None) |
-| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Pasal 21](/quick/content/paradise#None) |
+| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Pasal 21](/kids/content/paradise) |
+| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Rumah Baru Kita, Yerusalem Baru": Wahyu 21–22](/kids/early-childhood/16-our-new-home-the-new-jerusalem) |
+| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | ["Wahyu 21–22": Wahyu 21–22](/kids/elementary/16-new-heaven-and-new-earth#wahyu-2122) |
+| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | [""Topik: Akhir Cerita yang Sebenarnya Kamu Inginkan"": Wahyu 21–22](/kids/teens/17-the-ending-you-actually-want) |
+| {{% bible val="Wahyu:21" link="rev:21,-1" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Pasal 21](/quick/content/paradise) |
 | {{% bible val="Wahyu:21,1" link="rev:21,1" lang="ind" %}} | ["Preterisme": Langit baru dan bumi baru](/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Wahyu:21,1" link="rev:21,1" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": langit yang pertama dan bumi yang pertama](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Wahyu:21,1" link="rev:21,1" lang="ind" %}} | ["Segala sesuatu menjadi baru": Lalu aku melihat langit yang baru dan bumi yang baru, sebab langit yang pertama dan bumi yang pertama telah berlalu, dan lautpun tidak ada lagi.](/expl/content/paradise/the-new-jerusalem#2da9) |
@@ -915,7 +918,7 @@ docType: expl
 | {{% bible val="Wahyu:21,2" link="rev:21,2" lang="ind" %}} | ["Sang pemenang": pakaian putih](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:21,2" link="rev:21,2" lang="ind" %}} | ["Kesan pertama": Yerusalem Baru menggambarkan seorang perempuan (mempelai perempuan)](/expl/content/paradise/the-new-jerusalem#c99e) |
 | {{% bible val="Wahyu:21,2" link="rev:21,2" lang="ind" %}} | ["Memaksakan Sebuah Tafsiran pada Teks": Yerusalem Baru turun ke bumi](/expl/topics/others/the-rapture#0bb2) |
-| {{% bible val="Wahyu:21,2" link="rev:21,2" lang="ind" %}} | ["Mengakhiri di tempat kita memulai, tetapi dengan cara yang benar": 'Dan aku melihat kota yang kudus, Yerusalem yang baru, turun dari sorga, dari Allah, yang berhias bagaikan pengantin perempuan yang berdandan untuk suaminya.'](/sermons/prosperity-gospel-module/ending/04-what-real-security-looks-like#None) |
+| {{% bible val="Wahyu:21,2" link="rev:21,2" lang="ind" %}} | ["Mengakhiri di tempat kita memulai, tetapi dengan cara yang benar": 'Dan aku melihat kota yang kudus, Yerusalem yang baru, turun dari sorga, dari Allah, yang berhias bagaikan pengantin perempuan yang berdandan untuk suaminya.'](/sermons/prosperity-gospel-module/ending/04-what-real-security-looks-like#mengakhiri-di-tempat-kita-memulai-tetapi-dengan-cara-yang-benar) |
 | {{% bible val="Wahyu:21,3" link="rev:21,3" lang="ind" %}} | ["Allah tinggal bersama umat-Nya": Dan aku mendengar suara yang nyaring dari takhta itu berkata: Lihatlah, kemah Allah ada di tengah-tengah manusia dan Ia akan diam bersama-sama dengan mereka. Mereka akan menjadi umat-Nya dan Ia sendiri, Allah, akan bersama-sama dengan mereka, menjadi Allah mereka.](/expl/content/paradise/the-new-jerusalem#f42c) |
 | {{% bible val="Wahyu:21,4" link="rev:21,4" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": maut tidak akan ada lagi](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Wahyu:21,4" link="rev:21,4" lang="ind" %}} | ["Menghapus segala air mata": Ia akan menghapus segala air mata dari mata mereka, dan maut tidak akan ada lagi; tidak akan ada lagi perkabungan, atau ratap tangis, atau rasa sakit, sebab segala sesuatu yang lama itu telah berlalu.](/expl/content/paradise/the-new-jerusalem#a74c) |
@@ -932,35 +935,35 @@ docType: expl
 | {{% bible val="Wahyu:21,9-10" link="rev:21,9-10" lang="ind" %}} | ["Mempelai Allah": mempelai Kristus adalah gereja](/expl/background/israel/the-church-is-part-of-israel#67c0) |
 | {{% bible val="Wahyu:21,9-10" link="rev:21,9-10" lang="ind" %}} | ["deiknumi": Sang Mempelai ditunjukkan sebagai kota Yerusalem Baru](/expl/background/literature/literally-or-symbolic#360a) |
 | {{% bible val="Wahyu:21,9-10" link="rev:21,9-10" lang="ind" %}} | ["Sang pelacur": Malaikat mengumumkan mempelai perempuan](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Wahyu:21,9-10" link="rev:21,9-10" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 21:9-10](/quick/content/paradise#None) |
-| {{% bible val="Wahyu:21,9-10" link="rev:21,9-10" lang="ind" %}} | ["Pengajaran Inti": 21:9-10](/sermons/deep-dive/intro/03-symbol-or-literal#None) |
+| {{% bible val="Wahyu:21,9-10" link="rev:21,9-10" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 21:9-10](/quick/content/paradise) |
+| {{% bible val="Wahyu:21,9-10" link="rev:21,9-10" lang="ind" %}} | ["Pengajaran Inti": 21:9-10](/sermons/deep-dive/intro/03-symbol-or-literal#pengajaran-inti) |
 | {{% bible val="Wahyu:21,9-14" link="rev:21,9-14" lang="ind" %}} | ["Kesan pertama": Kesan pertama](/expl/content/paradise/the-new-jerusalem#9aac) |
 | {{% bible val="Wahyu:21,9-21" link="rev:21,9-21" lang="ind" %}} | ["Sang pelacur": Why.21/9-21](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:21,9-23" link="rev:21,9-23" lang="ind" %}} | ["Sang pelacur": Why.21/9-23](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:21,10" link="rev:21,10" lang="ind" %}} | ["Susunan pasal ini": melihatnya sebagai Yerusalem Baru](/expl/content/paradise/the-new-jerusalem#8c47) |
 | {{% bible val="Wahyu:21,10" link="rev:21,10" lang="ind" %}} | ["Keempat Sangkakala Pertama": Yerusalem Baru dari sebuah gunung yang besar dan tinggi](/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Wahyu:21,10-11" link="rev:21,10-11" lang="ind" %}} | ["Yerusalem, Kota Kudus": ayat 10 dan 11](/expl/content/paradise/the-new-jerusalem#a373) |
-| {{% bible val="Wahyu:21,10-17" link="rev:21,10-17" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 21:10-17](/quick/content/paradise#None) |
+| {{% bible val="Wahyu:21,10-17" link="rev:21,10-17" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 21:10-17](/quick/content/paradise) |
 | {{% bible val="Wahyu:21,11" link="rev:21,11" lang="ind" %}} | ["Sang pemenang": batu yang bercahaya](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:21,11" link="rev:21,11" lang="ind" %}} | ["Bahan kota itu": batu yaspis di antara batu-batu permata itu](/expl/content/paradise/the-new-jerusalem#aef1) |
 | {{% bible val="Wahyu:21,12" link="rev:21,12" lang="ind" %}} | ["Mempelai Allah": suku-suku](/expl/background/israel/the-church-is-part-of-israel#67c0) |
-| {{% bible val="Wahyu:21,12" link="rev:21,12" lang="ind" %}} | ["Pengajaran Inti": Why 21:12](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Wahyu:21,12" link="rev:21,12" lang="ind" %}} | ["Pengajaran Inti": Why 21:12](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#pengajaran-inti) |
 | {{% bible val="Wahyu:21,14" link="rev:21,14" lang="ind" %}} | ["Mempelai Allah": rasul-rasul](/expl/background/israel/the-church-is-part-of-israel#67c0) |
 | {{% bible val="Wahyu:21,14" link="rev:21,14" lang="ind" %}} | ["Bahan kota itu": kedua belas batu itu mewakili kedua belas rasul](/expl/content/paradise/the-new-jerusalem#aef1) |
-| {{% bible val="Wahyu:21,14" link="rev:21,14" lang="ind" %}} | ["Pengajaran Inti": Why 21:14](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Wahyu:21,14" link="rev:21,14" lang="ind" %}} | ["Pengajaran Inti": Why 21:14](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#pengajaran-inti) |
 | {{% bible val="Wahyu:21,15-17" link="rev:21,15-17" lang="ind" %}} | ["Ukuran kota itu": Ukuran kota itu](/expl/content/paradise/the-new-jerusalem#c99e) |
 | {{% bible val="Wahyu:21,16" link="rev:21,16" lang="ind" %}} | ["Surga dan Yerusalem Baru": kubus](/expl/content/paradise/heaven-and-hell#2f63) |
 | {{% bible val="Wahyu:21,16" link="rev:21,16" lang="ind" %}} | ["Mengapa berbentuk kubus": kubus](/expl/content/paradise/the-new-jerusalem#bf4e) |
-| {{% bible val="Wahyu:21,16" link="rev:21,16" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 21:16](/quick/content/paradise#None) |
+| {{% bible val="Wahyu:21,16" link="rev:21,16" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 21:16](/quick/content/paradise) |
 | {{% bible val="Wahyu:21,18-20" link="rev:21,18-20" lang="ind" %}} | ["Angka 12": 12 batu permata yang berharga](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#d8d4) |
 | {{% bible val="Wahyu:21,18-20" link="rev:21,18-20" lang="ind" %}} | ["Karakter sang pelacur": Yerusalem Baru](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
 | {{% bible val="Wahyu:21,18-20" link="rev:21,18-20" lang="ind" %}} | ["Simbol-simbol kehadiran Allah": Kitab Wahyu](/expl/content/paradise/the-new-jerusalem#126e) |
 | {{% bible val="Wahyu:21,18-21" link="rev:21,18-21" lang="ind" %}} | ["Sang pemenang": atau batu-batu](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:21,18-21" link="rev:21,18-21" lang="ind" %}} | ["Bahan kota itu": Bahan kota itu](/expl/content/paradise/the-new-jerusalem#bf4e) |
-| {{% bible val="Wahyu:21,19-21" link="rev:21,19-21" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 21:19-21](/quick/content/paradise#None) |
+| {{% bible val="Wahyu:21,19-21" link="rev:21,19-21" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 21:19-21](/quick/content/paradise) |
 | {{% bible val="Wahyu:21,21" link="rev:21,21" lang="ind" %}} | ["Bahan kota itu": jalan di Yerusalem Baru](/expl/content/paradise/the-new-jerusalem#aef1) |
 | {{% bible val="Wahyu:21,22" link="rev:21,22" lang="ind" %}} | ["Ukuran kota itu": sama sekali tidak akan ada Bait Suci](/expl/content/paradise/the-new-jerusalem#bf4e) |
-| {{% bible val="Wahyu:21,22" link="rev:21,22" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 21:22](/quick/content/paradise#None) |
+| {{% bible val="Wahyu:21,22" link="rev:21,22" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 21:22](/quick/content/paradise) |
 | {{% bible val="Wahyu:21,22-24" link="rev:21,22-24" lang="ind" %}} | ["Sang pemenang": tiang di bait suci yang baru](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:21,22-27" link="rev:21,22-27" lang="ind" %}} | ["Ciri-ciri di dalam kota itu": Ciri-ciri di dalam kota itu](/expl/content/paradise/the-new-jerusalem#aef1) |
 | {{% bible val="Wahyu:21,23" link="rev:21,23" lang="ind" %}} | ["Ciri-ciri di dalam kota itu": bahwa kota itu tidak memerlukan matahari maupun bulan](/expl/content/paradise/the-new-jerusalem#284a) |
@@ -974,14 +977,14 @@ docType: expl
 | {{% bible val="Wahyu:21,27" link="rev:21,27" lang="ind" %}} | ["Ukuran kota itu": kekuatan-kekuatan yang membinasakan](/expl/content/paradise/the-new-jerusalem#bf4e) |
 | {{% bible val="Wahyu:21,27" link="rev:21,27" lang="ind" %}} | ["Bangsa-bangsa dan persembahan mereka": ayat penutup pasal ini tetap mengecualikan bangsa-bangsa yang tidak percaya](/expl/content/paradise/the-new-jerusalem#284a) |
 | {{% bible val="Wahyu:21,27" link="rev:21,27" lang="ind" %}} | ["Bangsa-bangsa dan persembahan mereka": orang-orang yang tidak setia tidak dapat masuk](/expl/content/paradise/the-new-jerusalem#284a) |
-| {{% bible val="Wahyu:22" link="rev:22,-1" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": 22](/kids/content/paradise#None) |
-| {{% bible val="Wahyu:22" link="rev:22,-1" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": 22](/quick/content/paradise#None) |
+| {{% bible val="Wahyu:22" link="rev:22,-1" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": 22](/kids/content/paradise) |
+| {{% bible val="Wahyu:22" link="rev:22,-1" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": 22](/quick/content/paradise) |
 | {{% bible val="Wahyu:22,1" link="rev:22,1" lang="ind" %}} | ["deiknumi": Sungai air kehidupan ditunjukkan](/expl/background/literature/literally-or-symbolic#360a) |
-| {{% bible val="Wahyu:22,1-2" link="rev:22,1-2" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 22:1-2](/quick/content/paradise#None) |
+| {{% bible val="Wahyu:22,1-2" link="rev:22,1-2" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 22:1-2](/quick/content/paradise) |
 | {{% bible val="Wahyu:22,1-5" link="rev:22,1-5" lang="ind" %}} | ["Allah Datang ke Kota": penggenapannya di Yerusalem Baru](/expl/bible/creation/the-temple-and-the-presence-of-god#5add) |
 | {{% bible val="Wahyu:22,1-5" link="rev:22,1-5" lang="ind" %}} | ["Solusinya": pohon kehidupan di tepi sungai yang mengalir dari takhta Allah di Yerusalem Baru](/expl/content/letters/the-letter-to-the-church-in-ephesus#cb84) |
 | {{% bible val="Wahyu:22,1-5" link="rev:22,1-5" lang="ind" %}} | ["Simbol-simbol kehadiran Allah": Simbol-simbol kehadiran Allah](/expl/content/paradise/the-new-jerusalem#284a) |
-| {{% bible val="Wahyu:22,1-5" link="rev:22,1-5" lang="ind" %}} | ["Inti Pengajaran": Wahyu 22:1-5](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#None) |
+| {{% bible val="Wahyu:22,1-5" link="rev:22,1-5" lang="ind" %}} | ["Inti Pengajaran": Wahyu 22:1-5](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#inti-pengajaran) |
 | {{% bible val="Wahyu:22,2" link="rev:22,2" lang="ind" %}} | ["Sang pemenang": dari pohon kehidupan](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:22,2" link="rev:22,2" lang="ind" %}} | ["Simbol-simbol kehadiran Allah": Pohon Kehidupan kembali hadir, dan setiap orang memiliki akses kepadanya](/expl/content/paradise/the-new-jerusalem#126e) |
 | {{% bible val="Wahyu:22,3-5" link="rev:22,3-5" lang="ind" %}} | ["Bangsa-bangsa dan persembahan mereka": mereka membawa diri mereka sendiri untuk melayani Allah](/expl/content/paradise/the-new-jerusalem#284a) |
@@ -990,15 +993,15 @@ docType: expl
 | {{% bible val="Wahyu:22,5" link="rev:22,5" lang="ind" %}} | ["Sang pemenang": memerintah bersama Yesus](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:22,6" link="rev:22,6" lang="ind" %}} | ["Apa yang Harus Terjadi": untuk menunjukkan kepada hamba-hamba-Nya apa yang harus segera terjadi](/expl/background/literature/literally-or-symbolic#af5e) |
 | {{% bible val="Wahyu:22,6" link="rev:22,6" lang="ind" %}} | ["deiknumi": Ringkasan penutup, yang sendirinya merupakan rujukan kembali kepada Daniel](/expl/background/literature/literally-or-symbolic#360a) |
-| {{% bible val="Wahyu:22,6" link="rev:22,6" lang="ind" %}} | [""Preterisme, historisisme, futurisme, atau idealisme?"": di bagian akhir kitab ini](/expl/background/literature/preterist-historicist-futurist-or-idealist#None) |
+| {{% bible val="Wahyu:22,6" link="rev:22,6" lang="ind" %}} | [""Preterisme, historisisme, futurisme, atau idealisme?"": di bagian akhir kitab ini](/expl/background/literature/preterist-historicist-futurist-or-idealist) |
 | {{% bible val="Wahyu:22,6" link="rev:22,6" lang="ind" %}} | ["Sang pelacur": sudah pasti](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:22,8" link="rev:22,8" lang="ind" %}} | ["deiknumi": Ringkasan dari segala sesuatu yang dilihat dan didengar Yohanes](/expl/background/literature/literally-or-symbolic#360a) |
-| {{% bible val="Wahyu:22,10" link="rev:22,10" lang="ind" %}} | [""Preterisme, historisisme, futurisme, atau idealisme?"": dalam perintah untuk tidak memeteraikannya](/expl/background/literature/preterist-historicist-futurist-or-idealist#None) |
+| {{% bible val="Wahyu:22,10" link="rev:22,10" lang="ind" %}} | [""Preterisme, historisisme, futurisme, atau idealisme?"": dalam perintah untuk tidak memeteraikannya](/expl/background/literature/preterist-historicist-futurist-or-idealist) |
 | {{% bible val="Wahyu:22,10" link="rev:22,10" lang="ind" %}} | ["Sebuah Teori yang Tidak Relevan bagi Para Pembaca Pertama": Kitab Wahyu](/expl/topics/others/dispensionalism-and-its-critic#1325) |
 | {{% bible val="Wahyu:22,14-15" link="rev:22,14-15" lang="ind" %}} | ["Penyerahan diri": orang-orang tidak percaya yang tidak diizinkan masuk](/expl/content/paradise/heaven-and-hell#477f) |
 | {{% bible val="Wahyu:22,14-15" link="rev:22,14-15" lang="ind" %}} | ["Mengapa berbentuk kubus": semua orang yang tidak percaya berada di luar kota](/expl/content/paradise/the-new-jerusalem#bf4e) |
-| {{% bible val="Wahyu:22,14-15" link="rev:22,14-15" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 22:14-15](/quick/content/paradise#None) |
+| {{% bible val="Wahyu:22,14-15" link="rev:22,14-15" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Wahyu 22:14-15](/quick/content/paradise) |
 | {{% bible val="Wahyu:22,15" link="rev:22,15" lang="ind" %}} | ["Siap untuk kematian kedua": di bagian paling akhir](/expl/content/paradise/the-new-jerusalem#e855) |
 | {{% bible val="Wahyu:22,16" link="rev:22,16" lang="ind" %}} | ["Solusinya": disebut Bintang Timur](/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
-| {{% bible val="Wahyu:22,21" link="rev:22,21" lang="ind" %}} | ["Sebuah Surat {#letter}": penutup formal](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
-| {{% bible val="Wahyu:22,21" link="rev:22,21" lang="ind" %}} | ["Pengajaran Inti": Why 22:21](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#None) |
+| {{% bible val="Wahyu:22,21" link="rev:22,21" lang="ind" %}} | ["Sebuah Surat": penutup formal](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
+| {{% bible val="Wahyu:22,21" link="rev:22,21" lang="ind" %}} | ["Pengajaran Inti": Why 22:21](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#pengajaran-inti) |

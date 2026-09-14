@@ -10,7 +10,7 @@ Bu kitapta kullanılan 19 Kutsal Kitap pasajı vardır
 |-------|-----------|
 | {{% bible val="2.Krallar:1,9-12" link="2ki:1,9-12" lang="tr" %}} | ["İki tanığın kimliği": gökten ateş yağdıran İlyas'a](/expl/content/witnesses/the-two-witnesses#c357) |
 | {{% bible val="2.Krallar:9" link="2ki:9,-1" lang="tr" %}} | ["İlyas": Ordunun komutanı Yehu sonunda meshedildiğinde](/expl/content/bowls/the-key-to-armageddon#5c76) |
-| {{% bible val="2.Krallar:9" link="2ki:9,-1" lang="tr" %}} | ["Armagedon": 2. Krallar 9](/quick/content/bowls#None) |
+| {{% bible val="2.Krallar:9" link="2ki:9,-1" lang="tr" %}} | ["Armagedon": 2. Krallar 9](/quick/content/bowls#armagedon) |
 | {{% bible val="2.Krallar:9,7" link="2ki:9,7" lang="tr" %}} | ["Fahişe": Tanrı tanıkların kanının hesabını sorar](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="2.Krallar:9,22" link="2ki:9,22" lang="tr" %}} | ["Fahişe": 2.Kr.9/22](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="2.Krallar:9,22" link="2ki:9,22" lang="tr" %}} | ["Fahişe": Büyücü kullanır](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |

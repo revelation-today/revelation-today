@@ -12,11 +12,11 @@ Bu kitapta kullanılan 12 Kutsal Kitap pasajı vardır
 | {{% bible val="Galatyalılar:3,15-29" link="gal:3,15-29" lang="tr" %}} | ["Kilise ve İsrail": geçici olan Sina'daki antlaşmadır](/expl/topics/others/dispensionalism-and-its-critic#5d19) |
 | {{% bible val="Galatyalılar:3,16" link="gal:3,16" lang="tr" %}} | ["Tanrı’nın oğlu": İsa nasıl İbrahim'in soyundan geliyorsa](/expl/background/israel/the-church-is-part-of-israel#bb1b) |
 | {{% bible val="Galatyalılar:3,23-28" link="gal:3,23-28" lang="tr" %}} | ["Yahudi olmayanların gizemi": İsrail'le yapılan antlaşma, İbrahim ile kilise arasında yalnızca bir ara adımdı](/expl/background/israel/the-church-is-part-of-israel#d67d) |
-| {{% bible val="Galatyalılar:3,23-28" link="gal:3,23-28" lang="tr" %}} | ["Ana Öğreti": Galatyalılar 3:23-28](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Galatyalılar:3,23-28" link="gal:3,23-28" lang="tr" %}} | ["Ana Öğreti": Galatyalılar 3:23-28](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#ana-öğreti) |
 | {{% bible val="Galatyalılar:3,26-29" link="gal:3,26-29" lang="tr" %}} | ["Tanrı’nın oğlu": biz de öyleyiz](/expl/background/israel/the-church-is-part-of-israel#bb1b) |
 | {{% bible val="Galatyalılar:3,29" link="gal:3,29" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": İbrahim'in soyudur, vaade göre mirasçıdır](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Galatyalılar:4,4-7" link="gal:4,4-7" lang="tr" %}} | ["Tanrı’nın oğlu": hepimiz O'nun tarafından evlat edinildik](/expl/background/israel/the-church-is-part-of-israel#bb1b) |
-| {{% bible val="Galatyalılar:4,4-7" link="gal:4,4-7" lang="tr" %}} | ["Ana Öğreti": Galatyalılar 4:4-7](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Galatyalılar:4,4-7" link="gal:4,4-7" lang="tr" %}} | ["Ana Öğreti": Galatyalılar 4:4-7](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#ana-öğreti) |
 | {{% bible val="Galatyalılar:4,26" link="gal:4,26" lang="tr" %}} | ["Tanrı’nın oğlu": Yeruşalim bizim annemizdir](/expl/background/israel/the-church-is-part-of-israel#bb1b) |
 | {{% bible val="Galatyalılar:4,26-31" link="gal:4,26-31" lang="tr" %}} | ["Kutsal kent Yeruşalim": Yeruşalim özgürdür](/expl/content/paradise/the-new-jerusalem#2a00) |
 | {{% bible val="Galatyalılar:4,28" link="gal:4,28" lang="tr" %}} | ["Tanrı’nın oğlu": İshak gibi biz de vaadin çocuklarıyız](/expl/background/israel/the-church-is-part-of-israel#bb1b) |

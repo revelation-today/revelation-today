@@ -8,7 +8,7 @@ docType: expl
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Sacharja:1,7" link="zec:1,7" lang="de" %}} | ["Eine Prophetie {#prophecy}": weitaus kunstvoller](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Sacharja:1,7" link="zec:1,7" lang="de" %}} | ["Eine Prophetie": weitaus kunstvoller](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Sacharja:1,8-15" link="zec:1,8-15" lang="de" %}} | ["Erste Beobachtungen": mehrere Pferde in verschiedenen Farben, die die Erde erkunden](/expl/content/seals/the-mystery-of-the-four-horse-men#2795) |
 | {{% bible val="Sacharja:1,16" link="zec:1,16" lang="de" %}} | ["Die Maße der Stadt": Gott sich Jerusalem erneut erbarmt hat](/expl/content/paradise/the-new-jerusalem#bf4e) |
 | {{% bible val="Sacharja:2,2" link="zec:2,2" lang="de" %}} | ["Die Maße der Stadt": Stadt](/expl/content/paradise/the-new-jerusalem#bf4e) |

@@ -4,7 +4,7 @@ weight: 18
 docType: expl
 ---
 
-29 Bibelstellen wurden in diesem Buch verwendet.
+30 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -13,7 +13,7 @@ docType: expl
 | {{% bible val="Psalm:2" link="psa:2,-1" lang="de" %}} | ["Die Lösung": Psalm 2](/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
 | {{% bible val="Psalm:2,8" link="psa:2,8" lang="de" %}} | ["Knotenpunkt 4: wie viel von der Verheißung landet innerhalb der Geschichte?": Erbteil des Sohnes](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Psalm:22,27" link="psa:22,27" lang="de" %}} | ["Knotenpunkt 4: wie viel von der Verheißung landet innerhalb der Geschichte?": alle Enden der Erde, die daran denken und zum HERRN umkehren](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
-| {{% bible val="Psalm:23,2" link="psa:23,2" lang="de" %}} | [""Wörtlich oder symbolisch"": Schafe, die Gras fressen](/quick/background/literature/#None) |
+| {{% bible val="Psalm:23,2" link="psa:23,2" lang="de" %}} | [""Wörtlich oder symbolisch"": Schafe, die Gras fressen](/quick/background/literature/) |
 | {{% bible val="Psalm:36,8-9" link="psa:36,8-9" lang="de" %}} | ["Lebendiges Wasser": reichlich zu trinken gibt](/expl/content/paradise/the-new-jerusalem#8a3f) |
 | {{% bible val="Psalm:45,5-6" link="psa:45,5-6" lang="de" %}} | ["Das Geheimnis des ersten Reiters": Psalmen findet sich die Beschreibung eines israelitischen Königs, der seine Feinde mit einem Bogen besiegt](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Psalm:52,8" link="psa:52,8" lang="de" %}} | ["Der Ölbaum": König David](/expl/background/israel/the-church-is-part-of-israel#b358) |
@@ -37,3 +37,4 @@ docType: expl
 | {{% bible val="Psalm:115,4-8" link="psa:115,4-8" lang="de" %}} | ["Der zweifache Angriff": mehr als nur ein Götze ist](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Psalm:128,3" link="psa:128,3" lang="de" %}} | ["Der Ölbaum": Einzelne in Israel](/expl/background/israel/the-church-is-part-of-israel#b358) |
 | {{% bible val="Psalm:130,8" link="psa:130,8" lang="de" %}} | ["Gottes besonderes Eigentum": Psalmen auf, wo Israel Erlösung von aller Gesetzlosigkeit verheißen wird](/expl/background/israel/the-church-is-part-of-israel#9d55) |
+| {{% bible val="Psalm:135,15-18" link="psa:135,15-18" lang="de" %}} | ["Wir werden, was wir anbeten": Psalmen](/appl/topics/power/worship#6523) |

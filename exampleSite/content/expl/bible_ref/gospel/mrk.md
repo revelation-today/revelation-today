@@ -4,11 +4,11 @@ weight: 40
 docType: expl
 ---
 
-25 bible verses have been used in this book.
+26 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
-| {{% bible val="Mark:1,1-15" link="mrk:1,1-15" lang="en" %}} | ["Already but not yet {#already}": He says that the Day of the Lord has come (the Kingdom of God)](/expl/background/israel/jesus-and-the-covenant#already) |
+| {{% bible val="Mark:1,1-15" link="mrk:1,1-15" lang="en" %}} | ["Already but not yet": He says that the Day of the Lord has come (the Kingdom of God)](/expl/background/israel/jesus-and-the-covenant#already) |
 | {{% bible val="Mark:1,2" link="mrk:1,2" lang="en" %}} | ["The exodus in Mark": I will send my messenger](/expl/background/israel/the-second-exodus#70f4) |
 | {{% bible val="Mark:1,3" link="mrk:1,3" lang="en" %}} | ["The exodus in Mark": A voice of one calling in the wilderness, “Prepare the way for the Lord, make straight paths for him.”](/expl/background/israel/the-second-exodus#70f4) |
 | {{% bible val="Mark:1,4" link="mrk:1,4" lang="en" %}} | ["The exodus in Mark": “And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.](/expl/background/israel/the-second-exodus#70f4) |
@@ -18,7 +18,7 @@ docType: expl
 | {{% bible val="Mark:1,15" link="mrk:1,15" lang="en" %}} | ["The Revelation of Jesus": Mark](/expl/content/vision/setting-the-foundation#33b5) |
 | {{% bible val="Mark:3,13-19" link="mrk:3,13-19" lang="en" %}} | ["The challenge": calling of the 12 disciples](/expl/background/israel/jesus-and-the-covenant#298a) |
 | {{% bible val="Mark:3,22-27" link="mrk:3,22-27" lang="en" %}} | ["A new thinking": the enemies were the demons](/expl/background/israel/jesus-and-the-covenant#a5cc) |
-| {{% bible val="Mark:3,22-27" link="mrk:3,22-27" lang="en" %}} | ["The Core Teaching": Mark 3:22-27](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#None) |
+| {{% bible val="Mark:3,22-27" link="mrk:3,22-27" lang="en" %}} | ["The Core Teaching": Mark 3:22-27](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#the-core-teaching) |
 | {{% bible val="Mark:3,22-30" link="mrk:3,22-30" lang="en" %}} | ["The exodus in Mark": Rejection of Jesus (Beelzebub)](/expl/background/israel/the-second-exodus#70f4) |
 | {{% bible val="Mark:3,27" link="mrk:3,27" lang="en" %}} | ["But aren't there also differences?": Jesus already accomplished at his first coming](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="Mark:4,1-20" link="mrk:4,1-20" lang="en" %}} | ["The teachings of Jesus": parable of the sower](/expl/background/israel/jesus-and-the-covenant#b343) |
@@ -26,9 +26,10 @@ docType: expl
 | {{% bible val="Mark:4,26-29" link="mrk:4,26-29" lang="en" %}} | ["The teachings of Jesus": growth of the seed](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Mark:4,30-32" link="mrk:4,30-32" lang="en" %}} | ["The teachings of Jesus": parable of the mustard seed](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Mark:5,43" link="mrk:5,43" lang="en" %}} | ["The twofold attack": Mk.5/43](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
-| {{% bible val="Mark:11,12-14" link="mrk:11,12-14" lang="en" %}} | ["The Core Teaching": Mark 11:12-14, 20-21](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#None) |
+| {{% bible val="Mark:10,29-30" link="mrk:10,29-30" lang="en" %}} | ["The story of Israel": Mark](/appl/topics/hero/who-rules-the-world#af6b) |
+| {{% bible val="Mark:11,12-14" link="mrk:11,12-14" lang="en" %}} | ["The Core Teaching": Mark 11:12-14, 20-21](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#the-core-teaching) |
 | {{% bible val="Mark:13" link="mrk:13,-1" lang="en" %}} | ["The teachings of Jesus": the destruction of Jerusalem and the temple](/expl/background/israel/jesus-and-the-covenant#b343) |
-| {{% bible val="Mark:13" link="mrk:13,-1" lang="en" %}} | ["An apocalypse {#apocalypse}": Mark 13](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
+| {{% bible val="Mark:13" link="mrk:13,-1" lang="en" %}} | ["An apocalypse": Mark 13](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Mark:13,5-9" link="mrk:13,5-9" lang="en" %}} | ["The mystery of the first horseman": Mark](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Mark:13,10" link="mrk:13,10" lang="en" %}} | ["Interpretations": this represents him preaching all over the world](/expl/content/seals/the-mystery-of-the-four-horse-men#1fbb) |
 | {{% bible val="Mark:13,10" link="mrk:13,10" lang="en" %}} | ["The mystery of the first horseman": refer to the proclaiming of the gospel before all the bad things happen](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |

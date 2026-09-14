@@ -25,7 +25,7 @@ Bu kitapta kullanılan 34 Kutsal Kitap pasajı vardır
 | {{% bible val="1.Krallar:17,1" link="1ki:17,1" lang="tr" %}} | ["İlyas ve kuraklık (1. Krallar 16/29–18/35)": İlyas'ı gönderir](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1.Krallar:17,6-24" link="1ki:17,6-24" lang="tr" %}} | ["İlyas ve kuraklık (1. Krallar 16/29–18/35)": Sidon'da, ölmek üzere olan oğlunu kurtardığı bir dul kadına gider ve kadın Tanrı'ya inanır](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1.Krallar:18" link="1ki:18,-1" lang="tr" %}} | ["İlyas": bu, Eski Ahit'in en ünlü hikâyelerinden biridir: Tanrı'nın tek bir peygamberi, yüzlerce Baal peygamberine karşı durur](/expl/content/bowls/the-key-to-armageddon#5c76) |
-| {{% bible val="1.Krallar:18" link="1ki:18,-1" lang="tr" %}} | ["Armagedon": 1. Krallar 18](/quick/content/bowls#None) |
+| {{% bible val="1.Krallar:18" link="1ki:18,-1" lang="tr" %}} | ["Armagedon": 1. Krallar 18](/quick/content/bowls#armagedon) |
 | {{% bible val="1.Krallar:18,4" link="1ki:18,4" lang="tr" %}} | ["Fahişe": Kutsallara zulmeder ve onları öldürür](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="1.Krallar:18,16-46" link="1ki:18,16-46" lang="tr" %}} | ["İlyas ve kuraklık (1. Krallar 16/29–18/35)": gerçek Tanrı'nın kim olduğuna dair Karmel Dağı'ndaki büyük güç mücadelesi](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1.Krallar:18,18" link="1ki:18,18" lang="tr" %}} | ["Fahişe": Bir kalıntı direnir](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |

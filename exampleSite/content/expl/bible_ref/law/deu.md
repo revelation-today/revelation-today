@@ -9,13 +9,13 @@ docType: expl
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="Deuteronomy:2,8-9" link="deu:2,8-9" lang="en" %}} | ["The well-known story": Moabites have a promise that Israel will not invade them](/expl/bible/keyword/the-story-of-balaam#c389) |
-| {{% bible val="Deuteronomy:2,8-9" link="deu:2,8-9" lang="en" %}} | ["The Core Teaching": Deuteronomy 2:8-9](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#None) |
+| {{% bible val="Deuteronomy:2,8-9" link="deu:2,8-9" lang="en" %}} | ["The Core Teaching": Deuteronomy 2:8-9](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#the-core-teaching) |
 | {{% bible val="Deuteronomy:3,5" link="deu:3,5" lang="en" %}} | ["The measurement of the city": security](/expl/content/paradise/the-new-jerusalem#5b7b) |
 | {{% bible val="Deuteronomy:7,6" link="deu:7,6" lang="en" %}} | ["Treasured possession of God": chose Israel](/expl/background/israel/the-church-is-part-of-israel#123e) |
 | {{% bible val="Deuteronomy:7,7" link="deu:7,7" lang="en" %}} | ["The teachings of Jesus": should be known to Israel](/expl/background/israel/jesus-and-the-covenant#b343) |
-| {{% bible val="Deuteronomy:7,7" link="deu:7,7" lang="en" %}} | ["The Core Teaching": Deuteronomy 7:7](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#None) |
+| {{% bible val="Deuteronomy:7,7" link="deu:7,7" lang="en" %}} | ["The Core Teaching": Deuteronomy 7:7](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#the-core-teaching) |
 | {{% bible val="Deuteronomy:8,16" link="deu:8,16" lang="en" %}} | ["The solution": manna](/expl/content/letters/the-letter-to-the-church-in-pergamon#72a9) |
-| {{% bible val="Deuteronomy:10,18" link="deu:10,18" lang="en" %}} | ["A prophecy {#prophecy}": God protects the helpless](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Deuteronomy:10,18" link="deu:10,18" lang="en" %}} | ["A prophecy": God protects the helpless](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Deuteronomy:14,1" link="deu:14,1" lang="en" %}} | ["God's son": in the instructions on how the people are to treat themselves](/expl/background/israel/the-church-is-part-of-israel#639c) |
 | {{% bible val="Deuteronomy:14,2" link="deu:14,2" lang="en" %}} | ["Treasured possession of God": pure](/expl/background/israel/the-church-is-part-of-israel#123e) |
 | {{% bible val="Deuteronomy:17,18-19" link="deu:17,18-19" lang="en" %}} | ["The covenant with Israel": the king had to do this when he was crowned](/expl/background/israel/gods-covenant#2225) |
@@ -27,11 +27,11 @@ docType: expl
 | {{% bible val="Deuteronomy:24,19-21" link="deu:24,19-21" lang="en" %}} | ["The inheritance": Tamar who is judged righteous because Judah did not provide her with a husband so that she would be protected by a family](/expl/background/israel/the-role-of-family-in-the-bible#4395) |
 | {{% bible val="Deuteronomy:26,18" link="deu:26,18" lang="en" %}} | ["Treasured possession of God": Israel would follow His commandments](/expl/background/israel/the-church-is-part-of-israel#123e) |
 | {{% bible val="Deuteronomy:28,1-14" link="deu:28,1-14" lang="en" %}} | ["The covenant with Israel": Blessing](/expl/background/israel/gods-covenant#2225) |
-| {{% bible val="Deuteronomy:28,1-14" link="deu:28,1-14" lang="en" %}} | ["The Core Teaching": Deuteronomy 28:1-14](/sermons/deep-dive/intro/07-gods-covenant#None) |
+| {{% bible val="Deuteronomy:28,1-14" link="deu:28,1-14" lang="en" %}} | ["The Core Teaching": Deuteronomy 28:1-14](/sermons/deep-dive/intro/07-gods-covenant#the-core-teaching) |
 | {{% bible val="Deuteronomy:28,15-68" link="deu:28,15-68" lang="en" %}} | ["The covenant with Israel": Curse](/expl/background/israel/gods-covenant#2225) |
-| {{% bible val="Deuteronomy:28,15-68" link="deu:28,15-68" lang="en" %}} | ["The Core Teaching": 28:15-68](/sermons/deep-dive/intro/07-gods-covenant#None) |
+| {{% bible val="Deuteronomy:28,15-68" link="deu:28,15-68" lang="en" %}} | ["The Core Teaching": 28:15-68](/sermons/deep-dive/intro/07-gods-covenant#the-core-teaching) |
 | {{% bible val="Deuteronomy:30,19" link="deu:30,19" lang="en" %}} | ["The covenant with Israel": heaven and earth](/expl/background/israel/gods-covenant#2225) |
-| {{% bible val="Deuteronomy:30,19" link="deu:30,19" lang="en" %}} | ["The Core Teaching": heaven and earth themselves](/sermons/deep-dive/intro/07-gods-covenant#None) |
+| {{% bible val="Deuteronomy:30,19" link="deu:30,19" lang="en" %}} | ["The Core Teaching": heaven and earth themselves](/sermons/deep-dive/intro/07-gods-covenant#the-core-teaching) |
 | {{% bible val="Deuteronomy:31,9-13" link="deu:31,9-13" lang="en" %}} | ["The covenant with Israel": read again and again](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Deuteronomy:33,12" link="deu:33,12" lang="en" %}} | ["Beloved of the Lord": tribe of Benjamin](/expl/background/israel/the-church-is-part-of-israel#3d64) |
-| {{% bible val="Deuteronomy:33,12" link="deu:33,12" lang="en" %}} | ["The Core Teaching": Deut 33:12](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Deuteronomy:33,12" link="deu:33,12" lang="en" %}} | ["The Core Teaching": Deut 33:12](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#the-core-teaching) |

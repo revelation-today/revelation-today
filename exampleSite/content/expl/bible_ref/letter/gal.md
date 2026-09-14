@@ -12,11 +12,11 @@ docType: expl
 | {{% bible val="Galatians:3,15-29" link="gal:3,15-29" lang="en" %}} | ["The church and Israel": but the covenant at Sinai](/expl/topics/others/dispensionalism-and-its-critic#40c6) |
 | {{% bible val="Galatians:3,16" link="gal:3,16" lang="en" %}} | ["God's son": Jesus is Abraham's seed](/expl/background/israel/the-church-is-part-of-israel#639c) |
 | {{% bible val="Galatians:3,23-28" link="gal:3,23-28" lang="en" %}} | ["The mystery of the Gentiles": the covenant with Israel was only an intermediary step between Abraham and the Church](/expl/background/israel/the-church-is-part-of-israel#a99c) |
-| {{% bible val="Galatians:3,23-28" link="gal:3,23-28" lang="en" %}} | ["The Core Teaching": Galatians 3:23-28](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Galatians:3,23-28" link="gal:3,23-28" lang="en" %}} | ["The Core Teaching": Galatians 3:23-28](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#the-core-teaching) |
 | {{% bible val="Galatians:3,26-29" link="gal:3,26-29" lang="en" %}} | ["God's son": so are we](/expl/background/israel/the-church-is-part-of-israel#639c) |
 | {{% bible val="Galatians:3,29" link="gal:3,29" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": Abraham's offspring, heirs according to promise](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Galatians:4,4-7" link="gal:4,4-7" lang="en" %}} | ["God's son": we have all been adopted by Him](/expl/background/israel/the-church-is-part-of-israel#639c) |
-| {{% bible val="Galatians:4,4-7" link="gal:4,4-7" lang="en" %}} | ["The Core Teaching": Galatians 4:4-7](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Galatians:4,4-7" link="gal:4,4-7" lang="en" %}} | ["The Core Teaching": Galatians 4:4-7](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#the-core-teaching) |
 | {{% bible val="Galatians:4,26" link="gal:4,26" lang="en" %}} | ["God's son": Jerusalem is our mother](/expl/background/israel/the-church-is-part-of-israel#639c) |
 | {{% bible val="Galatians:4,26-31" link="gal:4,26-31" lang="en" %}} | ["Jerusalem the Holy city": Jerusalem is free](/expl/content/paradise/the-new-jerusalem#c358) |
 | {{% bible val="Galatians:4,28" link="gal:4,28" lang="en" %}} | ["God's son": children of the promise, like Isaac](/expl/background/israel/the-church-is-part-of-israel#639c) |

@@ -4,7 +4,7 @@ weight: 44
 docType: expl
 ---
 
-18 Bibelstellen wurden in diesem Buch verwendet.
+19 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -15,9 +15,10 @@ docType: expl
 | {{% bible val="Römer:5,3-4" link="rom:5,3-4" lang="de" %}} | ["Die Große Trübsal": Auslöser von Hoffnung](/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Römer:6,11" link="rom:6,11" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": tot für die Sünde, aber lebendig für Gott](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Römer:6,13" link="rom:6,13" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": als Lebende aus den Toten](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Römer:8,14-39" link="rom:8,14-39" lang="de" %}} | ["Die Geschichte Israels": erfahrbar im Leben mit dem Heiligen Geist](/appl/topics/hero/who-rules-the-world#e6be) |
 | {{% bible val="Römer:8,19-22" link="rom:8,19-22" lang="de" %}} | ["Der Hintergrund": die Schöpfung selbst ist, die Gott bittet](/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Römer:8,35-39" link="rom:8,35-39" lang="de" %}} | ["Die Große Trübsal": uns nicht von Jesus trennen kann](/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
-| {{% bible val="Römer:9" link="rom:9,-1" lang="de" %}} | [""Historischer Hintergrund"": ihre Wurzel in den Juden](/quick/background/history/#None) |
+| {{% bible val="Römer:9" link="rom:9,-1" lang="de" %}} | [""Historischer Hintergrund"": ihre Wurzel in den Juden](/quick/background/history/) |
 | {{% bible val="Römer:9,6-8" link="rom:9,6-8" lang="de" %}} | ["Knotenpunkt 4: wie viel von der Verheißung landet innerhalb der Geschichte?": nicht alle, die aus Israel sind, sind Israel](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Römer:9,25" link="rom:9,25" lang="de" %}} | ["Geliebte des Herrn": Brief an die Römer](/expl/background/israel/the-church-is-part-of-israel#e326) |
 | {{% bible val="Römer:11,12" link="rom:11,12" lang="de" %}} | ["Knotenpunkt 4: wie viel von der Verheißung landet innerhalb der Geschichte?": seine Fülle](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |

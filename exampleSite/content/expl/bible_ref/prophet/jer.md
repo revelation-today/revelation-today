@@ -23,7 +23,7 @@ docType: expl
 | {{% bible val="Jeremiah:23,3" link="jer:23,3" lang="en" %}} | ["The remnant": God will start with a (small) remnant and increase in number](/expl/background/israel/the-remnant-of-israel#6205) |
 | {{% bible val="Jeremiah:25,11-12" link="jer:25,11-12" lang="en" %}} | ["What is a year week": Jeremiah](/expl/bible/daniel/the-70-year-weeks#e18f) |
 | {{% bible val="Jeremiah:29,10" link="jer:29,10" lang="en" %}} | ["The promise": knew the promise that God had made](/expl/bible/daniel/the-70-year-weeks#2d32) |
-| {{% bible val="Jeremiah:29,10" link="jer:29,10" lang="en" %}} | ["Part 1: The 70 Weeks": Jeremiah 29:10](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Jeremiah:29,10" link="jer:29,10" lang="en" %}} | ["Part 1: The 70 Weeks": Jeremiah 29:10](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#part-1-the-70-weeks) |
 | {{% bible val="Jeremiah:30,18" link="jer:30,18" lang="en" %}} | ["The 70 years": through the prophet Jeremiah](/expl/bible/daniel/the-70-year-weeks#6576) |
 | {{% bible val="Jeremiah:31,9" link="jer:31,9" lang="en" %}} | ["God's son": when Israel's tribe Ephraim is called first-born](/expl/background/israel/the-church-is-part-of-israel#639c) |
 | {{% bible val="Jeremiah:31,31-34" link="jer:31,31-34" lang="en" %}} | ["The 70 years": covenant with many](/expl/bible/daniel/the-70-year-weeks#6576) |

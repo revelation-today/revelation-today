@@ -4,4 +4,4 @@ weight: 100
 docType: expl
 ---
 
-İncil'de kullanılan 2139 pasajlar vardır
+İncil'de kullanılan 2154 pasajlar vardır

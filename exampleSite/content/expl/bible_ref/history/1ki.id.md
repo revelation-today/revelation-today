@@ -25,7 +25,7 @@ docType: expl
 | {{% bible val="1 Raja-raja:17,1" link="1ki:17,1" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": mengutus Elia untuk memaklumkan kekeringan](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1 Raja-raja:17,6-24" link="1ki:17,6-24" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": pergi kepada seorang janda di Sidon, yang anaknya yang sekarat ia selamatkan, dan perempuan itu pun percaya kepada Allah](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1 Raja-raja:18" link="1ki:18,-1" lang="ind" %}} | ["Elia": inilah salah satu kisah paling terkenal dalam Perjanjian Lama: seorang nabi Allah berdiri melawan beberapa ratus nabi Baal](/expl/content/bowls/the-key-to-armageddon#5f7a) |
-| {{% bible val="1 Raja-raja:18" link="1ki:18,-1" lang="ind" %}} | ["Harmagedon": 1 Raja-raja 18](/quick/content/bowls#None) |
+| {{% bible val="1 Raja-raja:18" link="1ki:18,-1" lang="ind" %}} | ["Harmagedon": 1 Raja-raja 18](/quick/content/bowls#harmagedon) |
 | {{% bible val="1 Raja-raja:18,3-4" link="1ki:18,3-4" lang="ind" %}} | ["Sang pelacur": Menganiaya dan membunuh orang-orang kudus](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1 Raja-raja:18,16-46" link="1ki:18,16-46" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": pertarungan besar di Gunung Karmel tentang siapa sesungguhnya Allah yang benar](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1 Raja-raja:18,18" link="1ki:18,18" lang="ind" %}} | ["Sang pelacur": Sisa umat melawan](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |

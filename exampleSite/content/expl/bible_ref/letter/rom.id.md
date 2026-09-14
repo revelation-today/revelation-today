@@ -4,7 +4,7 @@ weight: 44
 docType: expl
 ---
 
-18 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+19 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -15,9 +15,10 @@ docType: expl
 | {{% bible val="Roma:5,3-4" link="rom:5,3-4" lang="ind" %}} | ["Kesengsaraan Besar": pemicu pengharapan](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Roma:6,11" link="rom:6,11" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": mati bagi dosa tetapi hidup bagi Allah](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Roma:6,13" link="rom:6,13" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": sebagai orang yang hidup dari antara orang mati](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Roma:8,14-39" link="rom:8,14-39" lang="ind" %}} | ["Sejarah Israel": dapat dialami dalam kehidupan bersama Roh Kudus](/appl/topics/hero/who-rules-the-world#e6be) |
 | {{% bible val="Roma:8,19-22" link="rom:8,19-22" lang="ind" %}} | ["Latar Belakang": ciptaan itu sendiri yang memohon kepada Allah](/expl/content/bowls/the-bowls-of-wrath#3526) |
 | {{% bible val="Roma:8,35-39" link="rom:8,35-39" lang="ind" %}} | ["Kesengsaraan Besar": tidak dapat memisahkan kita dari Yesus](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
-| {{% bible val="Roma:9" link="rom:9,-1" lang="ind" %}} | [""Latar belakang sejarah"": berakar dari orang Yahudi](/quick/background/history/#None) |
+| {{% bible val="Roma:9" link="rom:9,-1" lang="ind" %}} | [""Latar belakang sejarah"": berakar dari orang Yahudi](/quick/background/history/) |
 | {{% bible val="Roma:9,6-8" link="rom:9,6-8" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": tidak semua orang yang berasal dari Israel adalah Israel](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Roma:9,25" link="rom:9,25" lang="ind" %}} | ["Kekasih Tuhan": surat kepada jemaat di Roma](/expl/background/israel/the-church-is-part-of-israel#e326) |
 | {{% bible val="Roma:11,12" link="rom:11,12" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": kepenuhan mereka](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |

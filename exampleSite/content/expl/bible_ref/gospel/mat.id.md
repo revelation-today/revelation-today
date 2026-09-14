@@ -4,7 +4,7 @@ weight: 39
 docType: expl
 ---
 
-74 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+75 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -12,7 +12,7 @@ docType: expl
 | {{% bible val="Matius:1,5" link="mat:1,5" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": disertakan](/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Matius:1,5" link="mat:1,5" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": Yesus](/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Matius:1,18-25" link="mat:1,18-25" lang="ind" %}} | ["Sang Perempuan": dialah yang melahirkan Yesus](/expl/content/jesus/a-different-christmas-story#5a05) |
-| {{% bible val="Matius:2" link="mat:2,-1" lang="ind" %}} | [""Kelahiran Yesus dalam Kitab Wahyu"": Injil Matius](/expl/content/jesus/a-different-christmas-story#None) |
+| {{% bible val="Matius:2" link="mat:2,-1" lang="ind" %}} | [""Kelahiran Yesus dalam Kitab Wahyu"": Injil Matius](/expl/content/jesus/a-different-christmas-story) |
 | {{% bible val="Matius:2" link="mat:2,-1" lang="ind" %}} | ["Akhirnya, Kisahnya": raja Herodes hendak membunuh-Nya](/expl/content/jesus/a-different-christmas-story#fb36) |
 | {{% bible val="Matius:3,12" link="mat:3,12" lang="ind" %}} | ["Kedua Tuaian": pembakaran sekam](/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
 | {{% bible val="Matius:4,1-11" link="mat:4,1-11" lang="ind" %}} | ["Beberapa Dasar": Yesus berpuasa 40 hari di padang gurun, menghadapi tantangan-tantangan yang sama](/expl/content/beasts/666-the-number-of-the-beast#74d6) |
@@ -24,13 +24,13 @@ docType: expl
 | {{% bible val="Matius:5,8" link="mat:5,8" lang="ind" %}} | ["Ajaran-Ajaran Yesus": Orang yang suci hatinya akan melihat Allah](/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matius:5,9" link="mat:5,9" lang="ind" %}} | ["Ajaran-Ajaran Yesus": Orang yang membawa damai adalah mereka yang disebut anak-anak Allah](/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matius:5,17-48" link="mat:5,17-48" lang="ind" %}} | ["Solusinya": yang telah memutarbalikkan hukum](/expl/bible/daniel/the-son-of-man-and-the-remnant#bcd4) |
-| {{% bible val="Matius:5,17-48" link="mat:5,17-48" lang="ind" %}} | ["Pengajaran Inti": Matius 5:17-48](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#None) |
+| {{% bible val="Matius:5,17-48" link="mat:5,17-48" lang="ind" %}} | ["Pengajaran Inti": Matius 5:17-48](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#pengajaran-inti) |
 | {{% bible val="Matius:6,24" link="mat:6,24" lang="ind" %}} | ["Pax Romana dan Orang Kristen": engkau hanya dapat mengabdi kepada satu tuan](/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation#3005) |
-| {{% bible val="Matius:6,24" link="mat:6,24" lang="ind" %}} | ["Dilema yang Dihadapi Umat Kristen": Tidak seorang pun dapat mengabdi kepada dua tuan](/sermons/catholic/intro/01-pax-romana#None) |
-| {{% bible val="Matius:6,24" link="mat:6,24" lang="ind" %}} | ["Pengajaran Inti": Tidak seorang pun dapat mengabdi kepada dua tuan](/sermons/deep-dive/intro/01-living-under-pax-romana#None) |
+| {{% bible val="Matius:6,24" link="mat:6,24" lang="ind" %}} | ["Dilema yang Dihadapi Umat Kristen": Tidak seorang pun dapat mengabdi kepada dua tuan](/sermons/catholic/intro/01-pax-romana#dilema-yang-dihadapi-umat-kristen) |
+| {{% bible val="Matius:6,24" link="mat:6,24" lang="ind" %}} | ["Pengajaran Inti": Tidak seorang pun dapat mengabdi kepada dua tuan](/sermons/deep-dive/intro/01-living-under-pax-romana#pengajaran-inti) |
 | {{% bible val="Matius:6,25-34" link="mat:6,25-34" lang="ind" %}} | ["Pax Romana dan Orang Kristen": menerima penyediaan kebutuhan mereka dari Yesus](/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation#3005) |
-| {{% bible val="Matius:6,25-34" link="mat:6,25-34" lang="ind" %}} | ["Dilema yang Dihadapi Umat Kristen": Matius 6:25-34](/sermons/catholic/intro/01-pax-romana#None) |
-| {{% bible val="Matius:6,25-34" link="mat:6,25-34" lang="ind" %}} | ["Pengajaran Inti": Matius 6:25-34](/sermons/deep-dive/intro/01-living-under-pax-romana#None) |
+| {{% bible val="Matius:6,25-34" link="mat:6,25-34" lang="ind" %}} | ["Dilema yang Dihadapi Umat Kristen": Matius 6:25-34](/sermons/catholic/intro/01-pax-romana#dilema-yang-dihadapi-umat-kristen) |
+| {{% bible val="Matius:6,25-34" link="mat:6,25-34" lang="ind" %}} | ["Pengajaran Inti": Matius 6:25-34](/sermons/deep-dive/intro/01-living-under-pax-romana#pengajaran-inti) |
 | {{% bible val="Matius:8,5-13" link="mat:8,5-13" lang="ind" %}} | ["Solusinya": meskipun Yesus sendiri pun membuat pengecualian dalam perjalanan-Nya](/expl/bible/daniel/the-son-of-man-and-the-remnant#bcd4) |
 | {{% bible val="Matius:8,26" link="mat:8,26" lang="ind" %}} | ["Siap untuk kematian kedua": dikuasai oleh rasa takut](/expl/content/paradise/the-new-jerusalem#e855) |
 | {{% bible val="Matius:9,30" link="mat:9,30" lang="ind" %}} | ["Serangan Ganda": Yesus sering bekerja secara tersembunyi](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
@@ -38,12 +38,13 @@ docType: expl
 | {{% bible val="Matius:11,12" link="mat:11,12" lang="ind" %}} | ["Kata Kunci yang Terlewatkan": merenggut Kerajaan Surga dengan paksa](/expl/topics/others/the-rapture#0f61) |
 | {{% bible val="Matius:11,13-14" link="mat:11,13-14" lang="ind" %}} | ["Identitas kedua saksi": yang datang kembali sebagai Yohanes](/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="Matius:11,20-24" link="mat:11,20-24" lang="ind" %}} | ["Sudah dan Belum": Ia harus menghakimi semua orang](/expl/background/israel/jesus-and-the-covenant#5788) |
-| {{% bible val="Matius:11,20-24" link="mat:11,20-24" lang="ind" %}} | ["Pengajaran Inti": Matius 11:20-24](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#None) |
+| {{% bible val="Matius:11,20-24" link="mat:11,20-24" lang="ind" %}} | ["Pengajaran Inti": Matius 11:20-24](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#pengajaran-inti) |
 | {{% bible val="Matius:12,1-12" link="mat:12,1-12" lang="ind" %}} | ["Kebun Anggur Allah": gambaran yang sama ini untuk menunjukkan kegagalan Israel dan menyerahkan kebun anggur itu kepada orang lain yang berbuah](/expl/background/israel/the-church-is-part-of-israel#3501) |
 | {{% bible val="Matius:12,6" link="mat:12,6" lang="ind" %}} | ["Janji Itu": lebih besar daripada bait Allah](/expl/bible/daniel/the-70-year-weeks#1bc2) |
 | {{% bible val="Matius:12,28" link="mat:12,28" lang="ind" %}} | ["Sebuah Cara Berpikir yang Baru": Mengusir mereka adalah tanda bahwa Hari Tuhan telah tiba](/expl/background/israel/jesus-and-the-covenant#3cee) |
 | {{% bible val="Matius:12,29" link="mat:12,29" lang="ind" %}} | ["Simpul 2: apa arti "diikat"": mengikat orang kuat itu](/expl/content/1000y/pre-post-and-amillennialism#7d18) |
 | {{% bible val="Matius:12,29" link="mat:12,29" lang="ind" %}} | ["Kata Kunci yang Terlewatkan": seorang pencuri merampas harta](/expl/topics/others/the-rapture#0f61) |
+| {{% bible val="Matius:13,13" link="mat:13,13" lang="ind" %}} | ["Kita Menjadi Seperti Apa yang Kita Sembah": Yesus pun mengambil tema ini untuk pelayanan-Nya](/appl/topics/power/worship#6523) |
 | {{% bible val="Matius:13,19" link="mat:13,19" lang="ind" %}} | ["Kata Kunci yang Terlewatkan": Iblis mencuri benih yang ditaburkan dalam hati](/expl/topics/others/the-rapture#0f61) |
 | {{% bible val="Matius:13,24-30" link="mat:13,24-30" lang="ind" %}} | ["Ajaran-Ajaran Yesus": lalang di ladang](/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matius:13,24-30" link="mat:13,24-30" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": lalang di antara gandum](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
@@ -53,19 +54,19 @@ docType: expl
 | {{% bible val="Matius:13,38" link="mat:13,38" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": ladang itu adalah dunia](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Matius:13,44-46" link="mat:13,44-46" lang="ind" %}} | ["Ajaran-Ajaran Yesus": harta terpendam dan mutiara](/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matius:13,47-50" link="mat:13,47-50" lang="ind" %}} | ["Ajaran-Ajaran Yesus": perumpamaan tentang pukat](/expl/background/israel/jesus-and-the-covenant#221c) |
-| {{% bible val="Matius:14,13-21" link="mat:14,13-21" lang="ind" %}} | ["Pengajaran Inti": Matius 14:13-21](/sermons/deep-dive/intro/03-symbol-or-literal#None) |
+| {{% bible val="Matius:14,13-21" link="mat:14,13-21" lang="ind" %}} | ["Pengajaran Inti": Matius 14:13-21](/sermons/deep-dive/intro/03-symbol-or-literal#pengajaran-inti) |
 | {{% bible val="Matius:15,23-24" link="mat:15,23-24" lang="ind" %}} | ["Kisah Yesus": memperbarui perjanjian dengan orang Yahudi](/expl/bible/daniel/the-70-year-weeks#1ed3) |
 | {{% bible val="Matius:15,24" link="mat:15,24" lang="ind" %}} | ["Solusinya": Panggilan-Nya adalah memulihkan Israel dan memanggil sebanyak mungkin dari mereka kepada diri-Nya](/expl/bible/daniel/the-son-of-man-and-the-remnant#bcd4) |
 | {{% bible val="Matius:16,5-12" link="mat:16,5-12" lang="ind" %}} | ["semaino": Pemberian makan kepada 5000 orang](/expl/background/literature/literally-or-symbolic#09b2) |
-| {{% bible val="Matius:16,5-12" link="mat:16,5-12" lang="ind" %}} | ["Pengajaran Inti": Matius 16:5-12](/sermons/deep-dive/intro/03-symbol-or-literal#None) |
+| {{% bible val="Matius:16,5-12" link="mat:16,5-12" lang="ind" %}} | ["Pengajaran Inti": Matius 16:5-12](/sermons/deep-dive/intro/03-symbol-or-literal#pengajaran-inti) |
 | {{% bible val="Matius:16,18" link="mat:16,18" lang="ind" %}} | ["Kekalahan yang berubah menjadi kemenangan": jemaat tidak akan dikalahkan](/expl/content/witnesses/the-two-witnesses#5f50) |
-| {{% bible val="Matius:18" link="mat:18,-1" lang="ind" %}} | [""Secara harfiah atau simbolis"": mengampuni 7 kali 70, yaitu 490 kali](/quick/background/literature/#None) |
-| {{% bible val="Matius:18" link="mat:18,-1" lang="ind" %}} | [""Secara harfiah atau simbolis"": cungkillah mata kita jika ia menyebabkan kita berbuat dosa](/quick/background/literature/#None) |
-| {{% bible val="Matius:20,20-28" link="mat:20,20-28" lang="ind" %}} | [""Kerajaan Seribu Tahun"": Pemerintahan](/expl/content/1000y/the-thousand-year-kingdom#None) |
+| {{% bible val="Matius:18" link="mat:18,-1" lang="ind" %}} | [""Secara harfiah atau simbolis"": mengampuni 7 kali 70, yaitu 490 kali](/quick/background/literature/) |
+| {{% bible val="Matius:18" link="mat:18,-1" lang="ind" %}} | [""Secara harfiah atau simbolis"": cungkillah mata kita jika ia menyebabkan kita berbuat dosa](/quick/background/literature/) |
+| {{% bible val="Matius:20,20-28" link="mat:20,20-28" lang="ind" %}} | [""Kerajaan Seribu Tahun"": Pemerintahan](/expl/content/1000y/the-thousand-year-kingdom) |
 | {{% bible val="Matius:20,25-28" link="mat:20,25-28" lang="ind" %}} | ["Tetapi Masih Ada Lagi": artinya memerintah dalam Kerajaan Allah](/expl/bible/daniel/the-four-kingdoms-in-daniel#e6a6) |
 | {{% bible val="Matius:21,33-45" link="mat:21,33-45" lang="ind" %}} | ["Ajaran-Ajaran Yesus": menggunakan kembali perumpamaan ini dengan penghakiman untuk membinasakan Israel sepenuhnya jika mereka menolak Dia](/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matius:22,36-39" link="mat:22,36-39" lang="ind" %}} | ["Sisi Gelapnya": kasih itu sendirilah kebaikan yang lebih besar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
-| {{% bible val="Matius:24" link="mat:24,-1" lang="ind" %}} | ["Sebuah Apokalips {#apocalypse}": Matius 24](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
+| {{% bible val="Matius:24" link="mat:24,-1" lang="ind" %}} | ["Sebuah Apokalips": Matius 24](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Matius:24" link="mat:24,-1" lang="ind" %}} | ["Perspektif Pohon Zaitun": 24](/expl/topics/others/the-rapture#fb48) |
 | {{% bible val="Matius:24,3" link="mat:24,3" lang="ind" %}} | ["Ia Datang bersama Awan-Awan": Yesus berbicara tentang akhir zaman](/expl/content/vision/setting-the-foundation#aaf2) |
 | {{% bible val="Matius:24,4-8" link="mat:24,4-8" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": Injil Matius](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |

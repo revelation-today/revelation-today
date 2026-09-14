@@ -4,16 +4,16 @@ weight: 18
 docType: expl
 ---
 
-29 bible verses have been used in this book.
+30 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="Psalm:1,4" link="psa:1,4" lang="en" %}} | ["The two harvests": blown away](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
-| {{% bible val="Psalm:2" link="psa:2,-1" lang="en" %}} | ["The child": Ps.2](/expl/content/jesus/a-different-christmas-story#None) |
+| {{% bible val="Psalm:2" link="psa:2,-1" lang="en" %}} | ["The child": Ps.2](/expl/content/jesus/a-different-christmas-story#the-child) |
 | {{% bible val="Psalm:2" link="psa:2,-1" lang="en" %}} | ["The solution": Psalm 2](/expl/content/letters/the-letter-to-the-church-in-thyatira#09f8) |
 | {{% bible val="Psalm:2,8" link="psa:2,8" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": his inheritance](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Psalm:22,27" link="psa:22,27" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": all the ends of the earth remembering and turning to the LORD](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
-| {{% bible val="Psalm:23" link="psa:23,-1" lang="en" %}} | [""Literally or symbolically"": sheep that eat grass](/quick/background/literature/#None) |
+| {{% bible val="Psalm:23" link="psa:23,-1" lang="en" %}} | [""Literally or symbolically"": sheep that eat grass](/quick/background/literature/) |
 | {{% bible val="Psalm:36,8-9" link="psa:36,8-9" lang="en" %}} | ["Living water": gives abundantly to drink](/expl/content/paradise/the-new-jerusalem#bac3) |
 | {{% bible val="Psalm:45,5-6" link="psa:45,5-6" lang="en" %}} | ["The mystery of the first horseman": Psalms, there is a description of an Israelite king conquering his enemies with arrows](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Psalm:52,8" link="psa:52,8" lang="en" %}} | ["Olive tree": King David](/expl/background/israel/the-church-is-part-of-israel#e179) |
@@ -37,3 +37,4 @@ docType: expl
 | {{% bible val="Psalm:115,4-8" link="psa:115,4-8" lang="en" %}} | ["The twofold attack": showing that it is more than an idol](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Psalm:128,3" link="psa:128,3" lang="en" %}} | ["Olive tree": individuals in Israel](/expl/background/israel/the-church-is-part-of-israel#e179) |
 | {{% bible val="Psalm:130,8" link="psa:130,8" lang="en" %}} | ["Treasured possession of God": Psalms, where Israel is promised redemption from all wickedness](/expl/background/israel/the-church-is-part-of-israel#123e) |
+| {{% bible val="Psalm:135,15-18" link="psa:135,15-18" lang="en" %}} | ["We become what we worship": Psalms](/appl/topics/power/worship#9eba) |

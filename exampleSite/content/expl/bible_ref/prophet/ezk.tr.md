@@ -13,7 +13,7 @@ Bu kitapta kullanılan 63 Kutsal Kitap pasajı vardır
 | {{% bible val="Hezekiel:4,6" link="ezk:4,6" lang="tr" %}} | ["Tarih boyunca birkaç adım": Hezekiel'de](/expl/topics/others/dispensionalism-a-little-history#abac) |
 | {{% bible val="Hezekiel:9" link="ezk:9,-1" lang="tr" %}} | ["Mühürleme": Bu, peygamber Hezekiel'deki doğruların mühürlenmesini hatırlatır; orada melek, işlenen haksızlıktan dolayı yas tutan herkesi işaretlemekle görevlendirilmişti. Hepsi mühürlendikten sonra, başka bir melek gelip Tanrı'nın tapınağından başlayarak mührü olmayanları vurmuştu.](/expl/content/army/the-144000#8751) |
 | {{% bible val="Hezekiel:10,18-19" link="ezk:10,18-19" lang="tr" %}} | ["Tanrı kasabaya geliyor": O'nun varlığı tapınağı terk etti](/expl/bible/creation/the-temple-and-the-presence-of-god#ca70) |
-| {{% bible val="Hezekiel:10,18-19" link="ezk:10,18-19" lang="tr" %}} | ["Ana Öğreti": O'nun huzuru tapınaktan ayrıldı](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#None) |
+| {{% bible val="Hezekiel:10,18-19" link="ezk:10,18-19" lang="tr" %}} | ["Ana Öğreti": O'nun huzuru tapınaktan ayrıldı](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#ana-öğreti) |
 | {{% bible val="Hezekiel:11,22-24" link="ezk:11,22-24" lang="tr" %}} | ["Rab'bin Günü'nün kökeni": Tanrı'nın İsrail'i terk etmesine](/expl/background/israel/the-day-of-the-lord#45df) |
 | {{% bible val="Hezekiel:14,12-23" link="ezk:14,12-23" lang="tr" %}} | ["İlk gözlemler": Tanrı'nın dört belasının](/expl/content/seals/the-mystery-of-the-four-horse-men#df58) |
 | {{% bible val="Hezekiel:14,12-23" link="ezk:14,12-23" lang="tr" %}} | ["Çözüm": Tanrı'nın belalarına](/expl/content/seals/the-mystery-of-the-four-horse-men#12b0) |
@@ -35,7 +35,7 @@ Bu kitapta kullanılan 63 Kutsal Kitap pasajı vardır
 | {{% bible val="Hezekiel:35,3" link="ezk:35,3" lang="tr" %}} | ["Yedi tepe ve yedi kral": Edom'un dağı, Seir Dağı](/expl/content/harlot/who-is-the-harlot-babylon-part-1#9b63) |
 | {{% bible val="Hezekiel:36,25-27" link="ezk:36,25-27" lang="tr" %}} | ["Rab'bin Günü'nün kökeni": Ruh'un dökülmesi gerçekleşmemişti](/expl/background/israel/the-day-of-the-lord#45df) |
 | {{% bible val="Hezekiel:36,25-27" link="ezk:36,25-27" lang="tr" %}} | ["Tanrı'nın varlığının sembolleri": Tanrı bize yeni bir yürek verdiğinde](/expl/content/paradise/the-new-jerusalem#4997) |
-| {{% bible val="Hezekiel:36,25-27" link="ezk:36,25-27" lang="tr" %}} | ["Ana Öğreti": Hezekiel 36:25-27](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#None) |
+| {{% bible val="Hezekiel:36,25-27" link="ezk:36,25-27" lang="tr" %}} | ["Ana Öğreti": Hezekiel 36:25-27](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#ana-öğreti) |
 | {{% bible val="Hezekiel:36,27" link="ezk:36,27" lang="tr" %}} | ["Ruh'un dökülmesi": İsrail'e](/expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Hezekiel:37" link="ezk:37,-1" lang="tr" %}} | ["İki yönlü saldırı": Hezekiel'deki Ruh'un işini](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Hezekiel:37" link="ezk:37,-1" lang="tr" %}} | ["Sorun": Ruh'un gelip ölü olana yeni yaşam üflediği Hezekiel'deki kuru kemikler vadisi vizyonunu](/expl/content/letters/the-letter-to-the-church-in-sardis#6a43) |
@@ -60,12 +60,12 @@ Bu kitapta kullanılan 63 Kutsal Kitap pasajı vardır
 | {{% bible val="Hezekiel:40,2" link="ezk:40,2" lang="tr" %}} | ["Üçüncü tapınak": tapınağın üzerinde bulunduğu dağ](/expl/topics/others/dispensionalism-and-its-critic#1e67) |
 | {{% bible val="Hezekiel:40,3-5" link="ezk:40,3-5" lang="tr" %}} | ["Kentin ölçümü": Hezekiel'den](/expl/content/paradise/the-new-jerusalem#57fc) |
 | {{% bible val="Hezekiel:43,1-2" link="ezk:43,1-2" lang="tr" %}} | ["Tanrı kasabaya geliyor": Tanrı'nın geri dönüşü, yeniden Doğu Kapısı'ndan girerek vaat edilir](/expl/bible/creation/the-temple-and-the-presence-of-god#ca70) |
-| {{% bible val="Hezekiel:43,1-2" link="ezk:43,1-2" lang="tr" %}} | ["Ana Öğreti": Doğu Kapısı'ndan](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#None) |
+| {{% bible val="Hezekiel:43,1-2" link="ezk:43,1-2" lang="tr" %}} | ["Ana Öğreti": Doğu Kapısı'ndan](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#ana-öğreti) |
 | {{% bible val="Hezekiel:43,2-5" link="ezk:43,2-5" lang="tr" %}} | ["İç özellikler": Hezekiel 43:2 ve 5'in](/expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Hezekiel:43,7" link="ezk:43,7" lang="tr" %}} | ["Tanrı halkla birlikte yaşıyor": tapınağa döndüğünde](/expl/content/paradise/the-new-jerusalem#42ff) |
 | {{% bible val="Hezekiel:45,2-3" link="ezk:45,2-3" lang="tr" %}} | ["Kentin ölçümü": kare olarak ölçülür](/expl/content/paradise/the-new-jerusalem#57fc) |
 | {{% bible val="Hezekiel:47" link="ezk:47,-1" lang="tr" %}} | ["Tanrı kasabaya geliyor": tapınaktaki sunaktan akan ve ulaştığı her yerde her şeyi büyütüp yeşerten bir ırmağa dönüşen bir derenin görümü](/expl/bible/creation/the-temple-and-the-presence-of-god#ca70) |
-| {{% bible val="Hezekiel:47" link="ezk:47,-1" lang="tr" %}} | ["Ana Öğreti": Hezekiel 47](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#None) |
+| {{% bible val="Hezekiel:47" link="ezk:47,-1" lang="tr" %}} | ["Ana Öğreti": Hezekiel 47](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#ana-öğreti) |
 | {{% bible val="Hezekiel:47,1-5" link="ezk:47,1-5" lang="tr" %}} | ["Üçüncü tapınak": tapınaktan akan ırmak, birkaç bin arşın içinde bir sızıntıdan geçilmez derinlikte bir ırmağa dönüşür](/expl/topics/others/dispensionalism-and-its-critic#1e67) |
 | {{% bible val="Hezekiel:47,1-9" link="ezk:47,1-9" lang="tr" %}} | ["Tanrı'nın varlığının sembolleri": sunaktan akan ırmak](/expl/content/paradise/the-new-jerusalem#4997) |
 | {{% bible val="Hezekiel:47,21-23" link="ezk:47,21-23" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": ‹‹Bu ülkeyi İsrail oymaklarına göre aranızda paylaşacaksınız. 22 Ülkeyi içinizde yaşayan ve içinizdeyken çocukları olan yabancılarla kendiniz arasında mülk olarak bölüşeceksiniz. Onları İsrail’de doğan yerliler sayacaksınız. Onların da İsrail oymakları arasında sizin gibi mülkleri olacak. 23 Yabancı hangi oymağa yerleşmişse, orada ona düşen payı mülk olarak vereceksiniz.›› Egemen RAB böyle diyor.](/expl/background/israel/the-remnant-of-israel#6f36) |

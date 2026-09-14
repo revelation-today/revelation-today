@@ -4,7 +4,7 @@ weight: 22
 docType: expl
 ---
 
-129 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+130 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -16,10 +16,11 @@ docType: expl
 | {{% bible val="Yesaya:2,2-4" link="isa:2,2-4" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": menempa pedang menjadi mata bajak](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Yesaya:5,1-7" link="isa:5,1-7" lang="ind" %}} | ["Ajaran-Ajaran Yesus": perumpamaan Yesaya tentang kebun anggur yang tidak berbuah](/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Yesaya:5,1-7" link="isa:5,1-7" lang="ind" %}} | ["Kebun Anggur Allah": kebun anggur pada Israel](/expl/background/israel/the-church-is-part-of-israel#3501) |
-| {{% bible val="Yesaya:6" link="isa:6,-1" lang="ind" %}} | ["Sebuah Nubuat {#prophecy}": Yesaya 6](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
-| {{% bible val="Yesaya:6" link="isa:6,-1" lang="ind" %}} | ["Pengajaran Inti": Yesaya 6](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#None) |
+| {{% bible val="Yesaya:6" link="isa:6,-1" lang="ind" %}} | ["Sebuah Nubuat": Yesaya 6](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Yesaya:6" link="isa:6,-1" lang="ind" %}} | ["Pengajaran Inti": Yesaya 6](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#pengajaran-inti) |
 | {{% bible val="Yesaya:6,1-9" link="isa:6,1-9" lang="ind" %}} | ["Latar Belakang dan Konteks": panggilan Yesaya](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Yesaya:6,1-13" link="isa:6,1-13" lang="ind" %}} | ["Kapan Pengangkatan Itu Terjadi": Kitab Yesaya](/expl/topics/others/the-rapture#ab7c) |
+| {{% bible val="Yesaya:6,8-10" link="isa:6,8-10" lang="ind" %}} | ["Kita Menjadi Seperti Apa yang Kita Sembah": Yesaya harus memberitakan kepada Israel dengan cara sedemikian rupa sehingga mereka tidak memahaminya](/appl/topics/power/worship#6523) |
 | {{% bible val="Yesaya:6,9-10" link="isa:6,9-10" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": awal Kitab Yesaya](/expl/background/israel/the-second-exodus#b683) |
 | {{% bible val="Yesaya:7,1-14" link="isa:7,1-14" lang="ind" %}} | ["Tiga Raja Yehuda": Ahas](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#da44) |
 | {{% bible val="Yesaya:7,1-14" link="isa:7,1-14" lang="ind" %}} | ["Tiga Raja Yehuda": ditawari dukungan penuh Allah melalui nabi Yesaya, tetapi ia menolaknya](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#da44) |
@@ -40,7 +41,7 @@ docType: expl
 | {{% bible val="Yesaya:22,15-22" link="isa:22,15-22" lang="ind" %}} | ["Pandangan Yesus": Sebna, kepala rumah tangga istana, menyalahgunakan kedudukan tingginya demi kemuliaan diri sendiri dan disingkirkan dengan aib; kedudukan itu diberikan sebaliknya kepada Elyakim, yang akan menjadi bapak bagi penduduk Yerusalem](/expl/content/letters/the-letter-to-the-church-in-philadelphia#40f8) |
 | {{% bible val="Yesaya:22,15-25" link="isa:22,15-25" lang="ind" %}} | ["Pandangan Yesus": rujukan kepada Sebna dan Elyakim](/expl/content/letters/the-letter-to-the-church-in-philadelphia#40f8) |
 | {{% bible val="Yesaya:22,22" link="isa:22,22" lang="ind" %}} | ["Pola Simetris": Yes.22/22](/expl/background/literature/literary-tools-in-the-book-of-revelation#1bc4) |
-| {{% bible val="Yesaya:22,22" link="isa:22,22" lang="ind" %}} | ["Pengajaran Inti": Yesaya 22:22](/sermons/deep-dive/intro/04-hidden-architecture#None) |
+| {{% bible val="Yesaya:22,22" link="isa:22,22" lang="ind" %}} | ["Pengajaran Inti": Yesaya 22:22](/sermons/deep-dive/intro/04-hidden-architecture#pengajaran-inti) |
 | {{% bible val="Yesaya:23,1-3" link="isa:23,1-3" lang="ind" %}} | ["Aspek ekonomi": pelabuhan dunia, membuat semua orang kaya sementara ia sendiri dibayar dalam bentuk hasil bumi, dalam kasusnya gandum](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Yesaya:23,15-18" link="isa:23,15-18" lang="ind" %}} | ["Aspek keagamaan": disebut sebagai pelacur](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Yesaya:23,15-18" link="isa:23,15-18" lang="ind" %}} | ["Aspek ekonomi": Tirus](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
@@ -62,7 +63,7 @@ docType: expl
 | {{% bible val="Yesaya:40,2-3" link="isa:40,2-3" lang="ind" %}} | ["Eksodus Baru dalam Injil Lukas": rujukan yang sama yang dipakai pada awal Injil Markus](/expl/background/israel/the-second-exodus#f2e1) |
 | {{% bible val="Yesaya:40,3" link="isa:40,3" lang="ind" %}} | ["Eksodus dalam Injil Markus": Yesaya](/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="Yesaya:40,18-24" link="isa:40,18-24" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": bagaimana Allah dapat dibandingkan](/expl/background/israel/the-second-exodus#b683) |
-| {{% bible val="Yesaya:40,31" link="isa:40,31" lang="ind" %}} | ["Catatan kegagalan Iblis yang tak terputus": Yesaya 40:31](/quick/content/jesus#None) |
+| {{% bible val="Yesaya:40,31" link="isa:40,31" lang="ind" %}} | ["Catatan kegagalan Iblis yang tak terputus": Yesaya 40:31](/quick/content/jesus#catatan-kegagalan-iblis-yang-tak-terputus) |
 | {{% bible val="Yesaya:41,4-10" link="isa:41,4-10" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": lebih dapat diandalkan daripada berhala-berhala](/expl/background/israel/the-second-exodus#b683) |
 | {{% bible val="Yesaya:42,1" link="isa:42,1" lang="ind" %}} | ["Pencurahan Roh": sang hamba](/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Yesaya:42,6-7" link="isa:42,6-7" lang="ind" %}} | ["Pelayanan Itu": (Yes.42/6-7)](/expl/background/israel/the-church-is-part-of-israel#121f) |
@@ -74,7 +75,7 @@ docType: expl
 | {{% bible val="Yesaya:43,18-19" link="isa:43,18-19" lang="ind" %}} | ["Segala sesuatu dijadikan baru": Allah menjadikan segala sesuatu baru](/expl/content/paradise/the-new-jerusalem#d592) |
 | {{% bible val="Yesaya:44,9-20" link="isa:44,9-20" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": kesia-siaan berhala-berhala](/expl/background/israel/the-second-exodus#b683) |
 | {{% bible val="Yesaya:44,24-28" link="isa:44,24-28" lang="ind" %}} | ["Pentingnya Keluarga": diambil alih oleh Allah sendiri](/expl/background/israel/the-role-of-family-in-the-bible#7234) |
-| {{% bible val="Yesaya:44,24-28" link="isa:44,24-28" lang="ind" %}} | ["Pengajaran Inti": Yesaya 44:24-28](/sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems#None) |
+| {{% bible val="Yesaya:44,24-28" link="isa:44,24-28" lang="ind" %}} | ["Pengajaran Inti": Yesaya 44:24-28](/sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems#pengajaran-inti) |
 | {{% bible val="Yesaya:45,1" link="isa:45,1" lang="ind" %}} | ["Ketujuh Puluh Tahun Itu": sang Yang Diurapi, yaitu Koresh](/expl/bible/daniel/the-70-year-weeks#d777) |
 | {{% bible val="Yesaya:46,1-13" link="isa:46,1-13" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": berhala-berhala Babel](/expl/background/israel/the-second-exodus#b683) |
 | {{% bible val="Yesaya:49" link="isa:49,-1" lang="ind" %}} | ["Pelayanan Itu": Yesaya 49](/expl/background/israel/the-church-is-part-of-israel#121f) |
@@ -92,7 +93,7 @@ docType: expl
 | {{% bible val="Yesaya:52,7" link="isa:52,7" lang="ind" %}} | ["Eksodus dalam Injil Markus": pemberitaan terakhir tentang seorang raja baru](/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="Yesaya:54" link="isa:54,-1" lang="ind" %}} | ["Bahan kota itu": pemulihan Yerusalem setelah penderitaannya](/expl/content/paradise/the-new-jerusalem#aef1) |
 | {{% bible val="Yesaya:54,5-6" link="isa:54,5-6" lang="ind" %}} | ["Mempelai Allah": mempelai Allah](/expl/background/israel/the-church-is-part-of-israel#67c0) |
-| {{% bible val="Yesaya:54,5-6" link="isa:54,5-6" lang="ind" %}} | ["Pengajaran Inti": Yesaya 54:5-6](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Yesaya:54,5-6" link="isa:54,5-6" lang="ind" %}} | ["Pengajaran Inti": Yesaya 54:5-6](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#pengajaran-inti) |
 | {{% bible val="Yesaya:55,1-3" link="isa:55,1-3" lang="ind" %}} | ["Sang pemenang": Yesaya menghubungkan perjanjian Allah dengan air yang diberikan untuk diminum](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Yesaya:55,12" link="isa:55,12" lang="ind" %}} | ["Pembacaan Harfiah yang Tidak Konsisten": secara harfiah](/expl/topics/others/dispensionalism-and-its-critic#7102) |
 | {{% bible val="Yesaya:56,3-7" link="isa:56,3-7" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": Janganlah orang asing, yang telah menggabungkan diri dengan TUHAN, berkata: TUHAN pasti akan memisahkan aku dari umat-Nya! Dan janganlah orang kebiri berkata: Sesungguhnya aku adalah pohon yang kering! 4 Sebab beginilah firman TUHAN: Kepada orang-orang kebiri yang memelihara hari-hari Sabat-Ku dan memilih apa yang berkenan kepada-Ku serta berpegang teguh pada perjanjian-Ku, 5 kepada mereka akan Kuberikan di dalam rumah-Ku dan di dalam tembok-tembok-Ku suatu tempat dan nama yang lebih baik daripada anak laki-laki dan perempuan; Aku akan memberikan kepada mereka nama abadi yang tidak akan terhapuskan. 6 Dan orang-orang asing yang menggabungkan diri dengan TUHAN untuk melayani-Nya dan mencintai nama TUHAN serta menjadi hamba-hamba-Nya, semua orang yang memelihara hari Sabat supaya jangan dinajiskan dan yang berpegang teguh pada perjanjian-Ku, 7 mereka ini akan Kubawa ke gunung-Ku yang kudus dan akan Kubuat mereka bersukacita di dalam rumah doa-Ku; korban-korban bakaran dan korban-korban sembelihan mereka akan berkenan di atas mezbah-Ku, sebab rumah-Ku akan disebut rumah doa bagi segala bangsa.](/expl/background/israel/the-remnant-of-israel#1c50) |
@@ -109,7 +110,7 @@ docType: expl
 | {{% bible val="Yesaya:60,19" link="isa:60,19" lang="ind" %}} | ["Ciri-ciri di dalam kota itu": kitab Yesaya](/expl/content/paradise/the-new-jerusalem#284a) |
 | {{% bible val="Yesaya:61,1-2" link="isa:61,1-2" lang="ind" %}} | ["Sudah dan Belum": ayat Yesaya](/expl/background/israel/jesus-and-the-covenant#5788) |
 | {{% bible val="Yesaya:61,1-2" link="isa:61,1-2" lang="ind" %}} | ["Eksodus Baru dalam Injil Lukas": itulah tanda eksodus kedua](/expl/background/israel/the-second-exodus#f2e1) |
-| {{% bible val="Yesaya:61,1-2" link="isa:61,1-2" lang="ind" %}} | ["Pengajaran Inti": Yesaya 61:1-2](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#None) |
+| {{% bible val="Yesaya:61,1-2" link="isa:61,1-2" lang="ind" %}} | ["Pengajaran Inti": Yesaya 61:1-2](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#pengajaran-inti) |
 | {{% bible val="Yesaya:61,10" link="isa:61,10" lang="ind" %}} | ["Yerusalem, Kota Kudus": terus dikembangkan](/expl/content/paradise/the-new-jerusalem#a373) |
 | {{% bible val="Yesaya:62,1-2" link="isa:62,1-2" lang="ind" %}} | ["Yerusalem, Kota Kudus": menerima nama baru](/expl/content/paradise/the-new-jerusalem#a373) |
 | {{% bible val="Yesaya:62,1-5" link="isa:62,1-5" lang="ind" %}} | ["Kesan pertama": kitab Yesaya](/expl/content/paradise/the-new-jerusalem#c99e) |

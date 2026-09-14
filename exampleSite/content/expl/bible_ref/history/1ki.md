@@ -26,7 +26,7 @@ docType: expl
 | {{% bible val="1.Kings:17,1" link="1ki:17,1" lang="en" %}} | ["Elijah and the drought (1. Kings 16/29–18/35)": sends Elijah to announce a drought](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1.Kings:17,6-24" link="1ki:17,6-24" lang="en" %}} | ["Elijah and the drought (1. Kings 16/29–18/35)": goes to a widow in Sidon whose dying son he saves, and she comes to believe in God](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1.Kings:18" link="1ki:18,-1" lang="en" %}} | ["Elijah": this is one of the most famous stories in the Old Testament: one prophet of God standing against several hundred prophets of Baal](/expl/content/bowls/the-key-to-armageddon#d43b) |
-| {{% bible val="1.Kings:18" link="1ki:18,-1" lang="en" %}} | ["Armageddon": 1 Kings 18](/quick/content/bowls#None) |
+| {{% bible val="1.Kings:18" link="1ki:18,-1" lang="en" %}} | ["Armageddon": 1 Kings 18](/quick/content/bowls#armageddon) |
 | {{% bible val="1.Kings:18,4" link="1ki:18,4" lang="en" %}} | ["The Harlot": Persecutes and kills saints](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="1.Kings:18,16-46" link="1ki:18,16-46" lang="en" %}} | ["Elijah and the drought (1. Kings 16/29–18/35)": great power struggle on Mount Carmel over who the true God really is](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1.Kings:18,18" link="1ki:18,18" lang="en" %}} | ["The Harlot": Remnant resists](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |

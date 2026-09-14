@@ -4,7 +4,7 @@ weight: 44
 docType: expl
 ---
 
-18 bible verses have been used in this book.
+19 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -15,9 +15,10 @@ docType: expl
 | {{% bible val="Romans:5,3-4" link="rom:5,3-4" lang="en" %}} | ["The great tribulation": catalyst of hope](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Romans:6,11" link="rom:6,11" lang="en" %}} | ["Crux 1: two comings to life, one verb": dead to sin but alive to God](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Romans:6,13" link="rom:6,13" lang="en" %}} | ["Crux 1: two comings to life, one verb": as those alive from the dead](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Romans:8,14-39" link="rom:8,14-39" lang="en" %}} | ["The story of Israel": working out by living in the Holy Spirit](/appl/topics/hero/who-rules-the-world#af6b) |
 | {{% bible val="Romans:8,19-22" link="rom:8,19-22" lang="en" %}} | ["Background": creation itself asking God](/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Romans:8,35-39" link="rom:8,35-39" lang="en" %}} | ["The great tribulation": cannot separate us from Jesus](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
-| {{% bible val="Romans:9" link="rom:9,-1" lang="en" %}} | [""Historical background"": had their root in the Jews](/quick/background/history/#None) |
+| {{% bible val="Romans:9" link="rom:9,-1" lang="en" %}} | [""Historical background"": had their root in the Jews](/quick/background/history/) |
 | {{% bible val="Romans:9,6-8" link="rom:9,6-8" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": not all who are of Israel are Israel](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Romans:9,25" link="rom:9,25" lang="en" %}} | ["Beloved of the Lord": letter to the Romans](/expl/background/israel/the-church-is-part-of-israel#3d64) |
 | {{% bible val="Romans:11,12" link="rom:11,12" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": their fullness](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |

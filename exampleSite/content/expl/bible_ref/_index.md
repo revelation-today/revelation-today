@@ -4,4 +4,4 @@ weight: 100
 docType: expl
 ---
 
-2146 bible verses have been referenced.
+2161 bible verses have been referenced.

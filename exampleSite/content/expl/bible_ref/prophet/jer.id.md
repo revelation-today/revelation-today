@@ -23,7 +23,7 @@ docType: expl
 | {{% bible val="Yeremia:23,3" link="jer:23,3" lang="ind" %}} | ["Sisa Itu": Allah akan memulai dengan sisa yang (kecil) dan kemudian memperbanyaknya](/expl/background/israel/the-remnant-of-israel#eeb2) |
 | {{% bible val="Yeremia:25,11-12" link="jer:25,11-12" lang="ind" %}} | ["Apa Itu Minggu Tahun": Yeremia](/expl/bible/daniel/the-70-year-weeks#f6e6) |
 | {{% bible val="Yeremia:29,10" link="jer:29,10" lang="ind" %}} | ["Janji Itu": mengetahui janji yang telah dibuat Allah](/expl/bible/daniel/the-70-year-weeks#1bc2) |
-| {{% bible val="Yeremia:29,10" link="jer:29,10" lang="ind" %}} | ["Bagian 1: 70 Kali Tujuh Masa": Yeremia 29:10](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Yeremia:29,10" link="jer:29,10" lang="ind" %}} | ["Bagian 1: 70 Kali Tujuh Masa": Yeremia 29:10](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-1-70-kali-tujuh-masa) |
 | {{% bible val="Yeremia:30,18" link="jer:30,18" lang="ind" %}} | ["Ketujuh Puluh Tahun Itu": melalui nabi Yeremia](/expl/bible/daniel/the-70-year-weeks#d777) |
 | {{% bible val="Yeremia:31,9" link="jer:31,9" lang="ind" %}} | ["Anak Allah": ketika suku Efraim dari Israel disebut anak sulung](/expl/background/israel/the-church-is-part-of-israel#db2c) |
 | {{% bible val="Yeremia:31,31-34" link="jer:31,31-34" lang="ind" %}} | ["Ketujuh Puluh Tahun Itu": perjanjian dengan banyak orang](/expl/bible/daniel/the-70-year-weeks#d777) |

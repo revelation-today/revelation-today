@@ -8,7 +8,7 @@ docType: expl
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="Zakharia:1,7" link="zec:1,7" lang="ind" %}} | ["Sebuah Nubuat {#prophecy}": dengan jauh lebih rinci](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Zakharia:1,7" link="zec:1,7" lang="ind" %}} | ["Sebuah Nubuat": dengan jauh lebih rinci](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Zakharia:1,8-15" link="zec:1,8-15" lang="ind" %}} | ["Pengamatan-Pengamatan Awal": beberapa ekor kuda dengan warna berbeda yang menjelajahi bumi](/expl/content/seals/the-mystery-of-the-four-horse-men#2795) |
 | {{% bible val="Zakharia:1,16" link="zec:1,16" lang="ind" %}} | ["Ukuran kota itu": Allah kembali menaruh belas kasihan atas Yerusalem](/expl/content/paradise/the-new-jerusalem#bf4e) |
 | {{% bible val="Zakharia:2,2" link="zec:2,2" lang="ind" %}} | ["Ukuran kota itu": kota itu](/expl/content/paradise/the-new-jerusalem#bf4e) |

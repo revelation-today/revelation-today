@@ -4,7 +4,7 @@ weight: 22
 docType: expl
 ---
 
-128 Bibelstellen wurden in diesem Buch verwendet.
+129 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -16,10 +16,11 @@ docType: expl
 | {{% bible val="Jesaja:2,2-4" link="isa:2,2-4" lang="de" %}} | ["Knotenpunkt 4: wie viel von der Verheißung landet innerhalb der Geschichte?": Schwerter zu Pflugscharen schmieden](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Jesaja:5,1-7" link="isa:5,1-7" lang="de" %}} | ["Die Lehren Jesu": Gleichnis vom Weinberg, der keine Frucht bringt](/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Jesaja:5,1-7" link="isa:5,1-7" lang="de" %}} | ["Gottes Weinberg": Weinbergs auf Israel](/expl/background/israel/the-church-is-part-of-israel#145d) |
-| {{% bible val="Jesaja:6" link="isa:6,-1" lang="de" %}} | ["Eine Prophetie {#prophecy}": Jesaja 6](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
-| {{% bible val="Jesaja:6" link="isa:6,-1" lang="de" %}} | ["Die Kernlehre": Jesaja 6](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#None) |
+| {{% bible val="Jesaja:6" link="isa:6,-1" lang="de" %}} | ["Eine Prophetie": Jesaja 6](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Jesaja:6" link="isa:6,-1" lang="de" %}} | ["Die Kernlehre": Jesaja 6](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#die-kernlehre) |
 | {{% bible val="Jesaja:6,1-9" link="isa:6,1-9" lang="de" %}} | ["Der Hintergrund und Kontext": bei der Berufung Jesajas](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Jesaja:6,1-13" link="isa:6,1-13" lang="de" %}} | ["Wann die Entrückung geschieht": Jesaja](/expl/topics/others/the-rapture#ab7c) |
+| {{% bible val="Jesaja:6,8-10" link="isa:6,8-10" lang="de" %}} | ["Wir werden, was wir anbeten": Jesaja musste Israel so predigen, so dass sie es nicht verstehen](/appl/topics/power/worship#6523) |
 | {{% bible val="Jesaja:6,9-10" link="isa:6,9-10" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Jesaja beginnt](/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Jesaja:7,1-14" link="isa:7,1-14" lang="de" %}} | ["Die drei Könige von Juda": Ahas](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#da44) |
 | {{% bible val="Jesaja:7,1-14" link="isa:7,1-14" lang="de" %}} | ["Die drei Könige von Juda": durch den Propheten Jesaja Gottes volle Unterstützung angeboten, die er jedoch ablehnte](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#da44) |
@@ -40,7 +41,7 @@ docType: expl
 | {{% bible val="Jesaja:22,15-22" link="isa:22,15-22" lang="de" %}} | ["Jesu Sicht": Schebna, der königliche Verwalter, sein hohes Amt zur Selbstverherrlichung missbrauchte und in Schande abgesetzt wurde; das Amt wurde stattdessen Eljakim gegeben, der dem Volk Jerusalems ein Vater sein sollte](/expl/content/letters/the-letter-to-the-church-in-philadelphia#40f8) |
 | {{% bible val="Jesaja:22,15-25" link="isa:22,15-25" lang="de" %}} | ["Jesu Sicht": Anspielung auf Schebna und Eljakim](/expl/content/letters/the-letter-to-the-church-in-philadelphia#40f8) |
 | {{% bible val="Jesaja:22,22" link="isa:22,22" lang="de" %}} | ["Symmetrische Muster": Jes.22/22](/expl/background/literature/literary-tools-in-the-book-of-revelation#1bc4) |
-| {{% bible val="Jesaja:22,22" link="isa:22,22" lang="de" %}} | ["Die Kernlehre": Jesaja 22,22](/sermons/deep-dive/intro/04-hidden-architecture#None) |
+| {{% bible val="Jesaja:22,22" link="isa:22,22" lang="de" %}} | ["Die Kernlehre": Jesaja 22,22](/sermons/deep-dive/intro/04-hidden-architecture#die-kernlehre) |
 | {{% bible val="Jesaja:23,1-3" link="isa:23,1-3" lang="de" %}} | ["Der wirtschaftliche Aspekt": der Hafen der Welt gewesen, der alle reich machte, während sie selbst in Naturalien bezahlt wurde, in ihrem Fall Getreide](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Jesaja:23,15-18" link="isa:23,15-18" lang="de" %}} | ["Der religiöse Aspekt": eine Hure genannt](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Jesaja:23,15-18" link="isa:23,15-18" lang="de" %}} | ["Der wirtschaftliche Aspekt": Tyrus](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
@@ -62,7 +63,7 @@ docType: expl
 | {{% bible val="Jesaja:40,2-3" link="isa:40,2-3" lang="de" %}} | ["Der neue Auszug bei Lukas": dieselbe Stelle, die schon am Anfang des Markusevangeliums verwendet wird](/expl/background/israel/the-second-exodus#f2e1) |
 | {{% bible val="Jesaja:40,3" link="isa:40,3" lang="de" %}} | ["Der Auszug bei Markus": Jesajas](/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="Jesaja:40,18-24" link="isa:40,18-24" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": womit kann Gott verglichen werden](/expl/background/israel/the-second-exodus#a809) |
-| {{% bible val="Jesaja:40,31" link="isa:40,31" lang="de" %}} | ["Satans lückenlose Bilanz des Scheiterns": Jesaja 40,31](/quick/content/jesus#None) |
+| {{% bible val="Jesaja:40,31" link="isa:40,31" lang="de" %}} | ["Satans lückenlose Bilanz des Scheiterns": Jesaja 40,31](/quick/content/jesus#satans-lückenlose-bilanz-des-scheiterns) |
 | {{% bible val="Jesaja:41,4-10" link="isa:41,4-10" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": ist verlässlicher als Götzen](/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Jesaja:42,1" link="isa:42,1" lang="de" %}} | ["Ausgießung des Geistes": Knecht](/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Jesaja:42,6-7" link="isa:42,6-7" lang="de" %}} | ["Der Dienst": (Jes.42/6-7)](/expl/background/israel/the-church-is-part-of-israel#05d4) |
@@ -73,7 +74,7 @@ docType: expl
 | {{% bible val="Jesaja:43,18-19" link="isa:43,18-19" lang="de" %}} | ["Alle Dinge werden neu": Gott alle Dinge neu macht](/expl/content/paradise/the-new-jerusalem#d592) |
 | {{% bible val="Jesaja:44,9-20" link="isa:44,9-20" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Nichtigkeit der Götzen](/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Jesaja:44,24-28" link="isa:44,24-28" lang="de" %}} | ["Die Wichtigkeit der Familie": Gott übernahm](/expl/background/israel/the-role-of-family-in-the-bible#7234) |
-| {{% bible val="Jesaja:44,24-28" link="isa:44,24-28" lang="de" %}} | ["Die Kernlehre": Jesaja 44,24-28](/sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems#None) |
+| {{% bible val="Jesaja:44,24-28" link="isa:44,24-28" lang="de" %}} | ["Die Kernlehre": Jesaja 44,24-28](/sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems#die-kernlehre) |
 | {{% bible val="Jesaja:45,1" link="isa:45,1" lang="de" %}} | ["Die 70 Jahrwochen": der Gesalbte, Kyrus](/expl/bible/daniel/the-70-year-weeks#d777) |
 | {{% bible val="Jesaja:46,1-13" link="isa:46,1-13" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": die Götzen Babels](/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Jesaja:49" link="isa:49,-1" lang="de" %}} | ["Der Dienst": Jesaja 49](/expl/background/israel/the-church-is-part-of-israel#05d4) |
@@ -91,7 +92,7 @@ docType: expl
 | {{% bible val="Jesaja:52,7" link="isa:52,7" lang="de" %}} | ["Der Auszug bei Markus": Ankündigung eines neuen Königs](/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="Jesaja:54" link="isa:54,-1" lang="de" %}} | ["Das Material der Stadt": Wiederherstellung Jerusalems nach ihrem Leiden](/expl/content/paradise/the-new-jerusalem#aef1) |
 | {{% bible val="Jesaja:54,5-6" link="isa:54,5-6" lang="de" %}} | ["Braut Gottes": Braut Gottes](/expl/background/israel/the-church-is-part-of-israel#67c0) |
-| {{% bible val="Jesaja:54,5-6" link="isa:54,5-6" lang="de" %}} | ["Die Kernlehre": Jesaja 54,5-6](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Jesaja:54,5-6" link="isa:54,5-6" lang="de" %}} | ["Die Kernlehre": Jesaja 54,5-6](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#die-kernlehre) |
 | {{% bible val="Jesaja:55,1-3" link="isa:55,1-3" lang="de" %}} | ["Die Überwinder": Jesaja verbindet Gottes Bund mit dem Wasser, das zu trinken gegeben wird](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Jesaja:55,12" link="isa:55,12" lang="de" %}} | ["Wörtlich, aber nicht konsequent wörtlich": wörtlich](/expl/topics/others/dispensionalism-and-its-critic#7102) |
 | {{% bible val="Jesaja:56,3-7" link="isa:56,3-7" lang="de" %}} | ["Die Nationen werden Teil von Israel": Kein Fremder, der sich dem Herrn angeschlossen hat, soll sagen: ‚Der Herr wird mich gewiss von seinem Volk ausschließen.‘ Und kein Verschnittener soll klagen: ‚Ich bin nur ein dürrer Baum.‘ 4 Denn so spricht der Herr: ‚Den Verschnittenen, die meine Sabbate halten, die erwählen, was mir gefällt, und an meinem Bund festhalten — 5 ihnen will ich in meinem Haus und innerhalb meiner Mauern ein Denkmal und einen Namen geben, besser als Söhne und Töchter; ich will ihnen einen ewigen Namen geben, der nicht ausgelöscht wird. 6 Und die Fremden, die sich dem Herrn anschließen, um ihm zu dienen, den Namen des Herrn zu lieben und seine Knechte zu sein — alle, die den Sabbat halten, ohne ihn zu entweihen, und die an meinem Bund festhalten —, 7 sie werde ich zu meinem heiligen Berg bringen und ihnen Freude in meinem Bethaus schenken. Ihre Brandopfer und Schlachtopfer werden auf meinem Altar angenommen werden; denn mein Haus wird ein Bethaus für alle Völker genannt werden.‘](/expl/background/israel/the-remnant-of-israel#1c50) |
@@ -108,7 +109,7 @@ docType: expl
 | {{% bible val="Jesaja:60,19" link="isa:60,19" lang="de" %}} | ["Die internen Features": Jesaja](/expl/content/paradise/the-new-jerusalem#284a) |
 | {{% bible val="Jesaja:61,1-2" link="isa:61,1-2" lang="de" %}} | ["Bereits und noch nicht": Passage aus Jesaja](/expl/background/israel/jesus-and-the-covenant#5788) |
 | {{% bible val="Jesaja:61,1-2" link="isa:61,1-2" lang="de" %}} | ["Der neue Auszug bei Lukas": das war das Zeichen des zweiten Auszugs](/expl/background/israel/the-second-exodus#f2e1) |
-| {{% bible val="Jesaja:61,1-2" link="isa:61,1-2" lang="de" %}} | ["Die Kernlehre": Jesaja 61,1-2](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#None) |
+| {{% bible val="Jesaja:61,1-2" link="isa:61,1-2" lang="de" %}} | ["Die Kernlehre": Jesaja 61,1-2](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#die-kernlehre) |
 | {{% bible val="Jesaja:61,10" link="isa:61,10" lang="de" %}} | ["Jerusalem, die Heilige Stadt": weiterentwickelt wird](/expl/content/paradise/the-new-jerusalem#a373) |
 | {{% bible val="Jesaja:62,1-2" link="isa:62,1-2" lang="de" %}} | ["Jerusalem, die Heilige Stadt": einen neuen Namen erhält](/expl/content/paradise/the-new-jerusalem#a373) |
 | {{% bible val="Jesaja:62,1-5" link="isa:62,1-5" lang="de" %}} | ["Der erste Eindruck": Jesaja](/expl/content/paradise/the-new-jerusalem#c99e) |

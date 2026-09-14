@@ -10,12 +10,12 @@ docType: expl
 |-------|-----------|
 | {{% bible val="Kejadian:2,1-3" link="gen:2,1-3" lang="ind" %}} | ["Beberapa Dasar": yang menyelesaikan penciptaan dunia dalam 7 hari](/expl/content/beasts/666-the-number-of-the-beast#74d6) |
 | {{% bible val="Kejadian:2,8-15" link="gen:2,8-15" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": memberi mereka sebuah taman untuk dipelihara](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
-| {{% bible val="Kejadian:2,8-15" link="gen:2,8-15" lang="ind" %}} | ["Inti Pengajaran": memberi mereka taman untuk diusahakan](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#None) |
-| {{% bible val="Kejadian:2,9-14" link="gen:2,9-14" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Kejadian 2:9-14](/quick/content/paradise#None) |
+| {{% bible val="Kejadian:2,8-15" link="gen:2,8-15" lang="ind" %}} | ["Inti Pengajaran": memberi mereka taman untuk diusahakan](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#inti-pengajaran) |
+| {{% bible val="Kejadian:2,9-14" link="gen:2,9-14" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Kejadian 2:9-14](/quick/content/paradise) |
 | {{% bible val="Kejadian:2,10-12" link="gen:2,10-12" lang="ind" %}} | ["Simbol-simbol kehadiran Allah": kisah penciptaan, di mana sungai-sungai juga dikaitkan dengan batu-batu permata](/expl/content/paradise/the-new-jerusalem#126e) |
 | {{% bible val="Kejadian:3,8" link="gen:3,8" lang="ind" %}} | ["Murka Anak Domba": kejatuhan manusia, ketika Adam dan Hawa berusaha bersembunyi dari Allah setelah mereka berdosa](/expl/content/seals/the-wrath-of-the-lamb#435e) |
 | {{% bible val="Kejadian:3,8-9" link="gen:3,8-9" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": bertemu dengan mereka di sana secara teratur](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
-| {{% bible val="Kejadian:3,8-9" link="gen:3,8-9" lang="ind" %}} | ["Inti Pengajaran": berjumpa dengan mereka di sana secara teratur](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#None) |
+| {{% bible val="Kejadian:3,8-9" link="gen:3,8-9" lang="ind" %}} | ["Inti Pengajaran": berjumpa dengan mereka di sana secara teratur](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#inti-pengajaran) |
 | {{% bible val="Kejadian:3,15" link="gen:3,15" lang="ind" %}} | ["Sang Perempuan": keturunannya akan membinasakan si ular](/expl/content/jesus/a-different-christmas-story#5a05) |
 | {{% bible val="Kejadian:3,17-19" link="gen:3,17-19" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": Tanah itu sendiri dikutuk](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
 | {{% bible val="Kejadian:4,12" link="gen:4,12" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": ketika Kain membunuh Habel](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
@@ -23,7 +23,7 @@ docType: expl
 | {{% bible val="Kejadian:4,15" link="gen:4,15" lang="ind" %}} | ["Angka 7": kisah Kain](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#84db) |
 | {{% bible val="Kejadian:4,16-17" link="gen:4,16-17" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": mencari keamanannya sendiri dan membangun sebuah kota](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
 | {{% bible val="Kejadian:4,16-17" link="gen:4,16-17" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": keamanan dan penghidupan mereka sendiri melalui kebudayaan dan kemajuan](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
-| {{% bible val="Kejadian:4,16-17" link="gen:4,16-17" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Kejadian 4:16-17](/quick/content/paradise#None) |
+| {{% bible val="Kejadian:4,16-17" link="gen:4,16-17" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Kejadian 4:16-17](/quick/content/paradise) |
 | {{% bible val="Kejadian:4,22-24" link="gen:4,22-24" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": yang mengejek perlindungan yang telah diberikan Allah kepada Kain](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
 | {{% bible val="Kejadian:4,23-26" link="gen:4,23-26" lang="ind" %}} | ["Sang Patriark": Lamekh yang sudah menjadi masalah tersendiri](/expl/background/israel/the-role-of-family-in-the-bible#75b9) |
 | {{% bible val="Kejadian:4,25-26" link="gen:4,25-26" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": sejak saat itu, manusia kembali mulai berseru kepada nama TUHAN](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
@@ -31,10 +31,10 @@ docType: expl
 | {{% bible val="Kejadian:10" link="gen:10,-1" lang="ind" %}} | ["Pencurahan Roh": versi yang lebih kecil dari daftar bangsa-bangsa yang tercerai-berai pada peristiwa Menara Babel](/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Kejadian:10,8-12" link="gen:10,8-12" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": kota tetap menjadi unsur penting](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
 | {{% bible val="Kejadian:11,1-9" link="gen:11,1-9" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": menara Babel](/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
-| {{% bible val="Kejadian:11,1-9" link="gen:11,1-9" lang="ind" %}} | [""Latar Belakang: Babel dan Bileam: Dua Cara Menghancurkan Dirimu Sendiri"": Kejadian 11:1–9](/kids/teens-prep/11-babel-and-balaam-two-ways-to-ruin-yourself#None) |
-| {{% bible val="Kejadian:11,1-9" link="gen:11,1-9" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Kejadian 11:1-9](/quick/content/paradise#None) |
-| {{% bible val="Kejadian:11,1-9" link="gen:11,1-9" lang="ind" %}} | ["Inti Pengajaran": Kejadian 11:1-9](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#None) |
-| {{% bible val="Kejadian:11,1-9" link="gen:11,1-9" lang="ind" %}} | ["Inti Pengajaran": Kejadian 11:2](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#None) |
+| {{% bible val="Kejadian:11,1-9" link="gen:11,1-9" lang="ind" %}} | [""Latar Belakang: Babel dan Bileam: Dua Cara Menghancurkan Dirimu Sendiri"": Kejadian 11:1–9](/kids/teens-prep/11-babel-and-balaam-two-ways-to-ruin-yourself) |
+| {{% bible val="Kejadian:11,1-9" link="gen:11,1-9" lang="ind" %}} | [""Langit Baru dan Bumi Baru (Pasal 21-22)"": Kejadian 11:1-9](/quick/content/paradise) |
+| {{% bible val="Kejadian:11,1-9" link="gen:11,1-9" lang="ind" %}} | ["Inti Pengajaran": Kejadian 11:1-9](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#inti-pengajaran) |
+| {{% bible val="Kejadian:11,1-9" link="gen:11,1-9" lang="ind" %}} | ["Inti Pengajaran": Kejadian 11:2](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#inti-pengajaran) |
 | {{% bible val="Kejadian:11,27-31" link="gen:11,27-31" lang="ind" %}} | ["Sang Patriark": Kisah Terah yang memiliki tiga putra: Haran, Abram, dan Nahor. Ketika Haran meninggal, ia meninggalkan seorang putra](/expl/background/israel/the-role-of-family-in-the-bible#75b9) |
 | {{% bible val="Kejadian:11,31" link="gen:11,31" lang="ind" %}} | ["Kisah Sebelum Karkemis": Abraham](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#dd2e) |
 | {{% bible val="Kejadian:12,1-3" link="gen:12,1-3" lang="ind" %}} | ["Asal Mula Hari Tuhan": perjanjian itu adalah untuk menjadi berkat bagi segala bangsa](/expl/background/israel/the-day-of-the-lord#4fec) |
@@ -45,8 +45,8 @@ docType: expl
 | {{% bible val="Kejadian:12,7" link="gen:12,7" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": negeri ini](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Kejadian:14" link="gen:14,-1" lang="ind" %}} | ["Pentingnya Keluarga": membebaskan dari penawanan](/expl/background/israel/the-role-of-family-in-the-bible#7234) |
 | {{% bible val="Kejadian:15" link="gen:15,-1" lang="ind" %}} | ["Perjanjian dengan Abraham": Dalam Kejadian 15](/expl/background/israel/gods-covenant#7cbd) |
-| {{% bible val="Kejadian:15" link="gen:15,-1" lang="ind" %}} | [""Latar Belakang: Janji yang Ditepati Allah Bahkan Ketika Kita Melanggarnya"": Kejadian 15](/kids/teens-prep/04-a-promise-god-keeps-even-when-we-break-it#None) |
-| {{% bible val="Kejadian:15" link="gen:15,-1" lang="ind" %}} | ["Pengajaran Inti": Kejadian 15](/sermons/deep-dive/intro/07-gods-covenant#None) |
+| {{% bible val="Kejadian:15" link="gen:15,-1" lang="ind" %}} | [""Latar Belakang: Janji yang Ditepati Allah Bahkan Ketika Kita Melanggarnya"": Kejadian 15](/kids/teens-prep/04-a-promise-god-keeps-even-when-we-break-it) |
+| {{% bible val="Kejadian:15" link="gen:15,-1" lang="ind" %}} | ["Pengajaran Inti": Kejadian 15](/sermons/deep-dive/intro/07-gods-covenant#pengajaran-inti) |
 | {{% bible val="Kejadian:16" link="gen:16,-1" lang="ind" %}} | ["Sang Patriark": drama Abraham yang menggunakan hambanya perempuan untuk mendapatkan anak](/expl/background/israel/the-role-of-family-in-the-bible#75b9) |
 | {{% bible val="Kejadian:17" link="gen:17,-1" lang="ind" %}} | ["Perjanjian dengan Abraham": ditambahkannya sunat](/expl/background/israel/gods-covenant#7cbd) |
 | {{% bible val="Kejadian:17,5" link="gen:17,5" lang="ind" %}} | ["Solusinya": identitas baru](/expl/content/letters/the-letter-to-the-church-in-pergamon#85d8) |

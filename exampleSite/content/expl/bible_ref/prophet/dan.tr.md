@@ -9,13 +9,13 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | Ayet | Referans |
 |-------|-----------|
 | {{% bible val="Daniel:1" link="dan:1,-1" lang="tr" %}} | ["Hızlı bir gezinti": Dan.1](/expl/bible/daniel/the-book-of-daniel#b017) |
-| {{% bible val="Daniel:1" link="dan:1,-1" lang="tr" %}} | [""Arka Plan: Daniel: Baskı Altında Kendin Olarak Kalmak"": Daniel 1](/kids/teens-prep/06-daniel-staying-yourself-under-pressure#None) |
+| {{% bible val="Daniel:1" link="dan:1,-1" lang="tr" %}} | [""Arka Plan: Daniel: Baskı Altında Kendin Olarak Kalmak"": Daniel 1](/kids/teens-prep/06-daniel-staying-yourself-under-pressure) |
 | {{% bible val="Daniel:1,8-14" link="dan:1,8-14" lang="tr" %}} | ["İsa'nın görüşü": Daniel'in öyküsünü](/expl/content/letters/the-letter-to-the-church-in-smyrna#f280) |
 | {{% bible val="Daniel:2" link="dan:2,-1" lang="tr" %}} | ["Hızlı bir gezinti": Dan.2](/expl/bible/daniel/the-book-of-daniel#b017) |
 | {{% bible val="Daniel:2" link="dan:2,-1" lang="tr" %}} | ["Dört krallık": 2. bölüm bir heykel görümü aracılığıyla](/expl/bible/daniel/the-four-kingdoms-in-daniel#b8b5) |
 | {{% bible val="Daniel:2,28-45" link="dan:2,28-45" lang="tr" %}} | ["Daniel çerçevesi": Daniel'in 2. bölümündeki peygamberlikle](/expl/background/literature/literally-or-symbolic#6075) |
-| {{% bible val="Daniel:2,28-45" link="dan:2,28-45" lang="tr" %}} | ["Ana Öğreti": Daniel 2](/sermons/deep-dive/intro/03-symbol-or-literal#None) |
-| {{% bible val="Daniel:2,28-45" link="dan:2,28-45" lang="tr" %}} | ["Ana Öğreti": Daniel 2](/sermons/deep-dive/intro/06-the-three-mysteries#None) |
+| {{% bible val="Daniel:2,28-45" link="dan:2,28-45" lang="tr" %}} | ["Ana Öğreti": Daniel 2](/sermons/deep-dive/intro/03-symbol-or-literal#ana-öğreti) |
+| {{% bible val="Daniel:2,28-45" link="dan:2,28-45" lang="tr" %}} | ["Ana Öğreti": Daniel 2](/sermons/deep-dive/intro/06-the-three-mysteries#ana-öğreti) |
 | {{% bible val="Daniel:2,34" link="dan:2,34" lang="tr" %}} | ["Krallıkların sonu": insan eliyle kesilmemiş bir taşın, demirden ve kilden yapılmış ayakları üzerindeki heykele çarpıp onu parçalaması](/expl/bible/daniel/the-four-kingdoms-in-daniel#bcbd) |
 | {{% bible val="Daniel:2,35" link="dan:2,35" lang="tr" %}} | ["Krallıkların sonu": heykele çarpan taşın büyük bir dağ olup tüm dünyayı doldurması](/expl/bible/daniel/the-four-kingdoms-in-daniel#bcbd) |
 | {{% bible val="Daniel:2,35" link="dan:2,35" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": büyük bir dağ olup bütün dünyayı dolduran](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
@@ -43,7 +43,7 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Daniel:6" link="dan:6,-1" lang="tr" %}} | ["Hızlı bir gezinti": Dan.6](/expl/bible/daniel/the-book-of-daniel#b017) |
 | {{% bible val="Daniel:6,17" link="dan:6,17" lang="tr" %}} | ["Şeytan'ın bağlanması": Daniel'deki](/expl/content/1000y/the-thousand-year-kingdom#1f30) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="tr" %}} | ["Daniel çerçevesi": Daniel'in 7. bölümüyle](/expl/background/literature/literally-or-symbolic#6075) |
-| {{% bible val="Daniel:7" link="dan:7,-1" lang="tr" %}} | ["Bir kıyamet {#apocalypse}": Daniel 7-12](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
+| {{% bible val="Daniel:7" link="dan:7,-1" lang="tr" %}} | ["Bir kıyamet": Daniel 7-12](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="tr" %}} | ["Hızlı bir gezinti": Dan.7](/expl/bible/daniel/the-book-of-daniel#b017) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="tr" %}} | ["Peki bunun anlamı ne?": 7](/expl/bible/daniel/the-book-of-daniel#e7d4) |
 | {{% bible val="Daniel:7" link="dan:7,-1" lang="tr" %}} | ["Dört krallık": 7. bölüm ise bir dizi canavar aracılığıyla](/expl/bible/daniel/the-four-kingdoms-in-daniel#b8b5) |
@@ -69,7 +69,7 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Daniel:7,9-10" link="dan:7,9-10" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Daniel:7,9-11" link="dan:7,9-11" lang="tr" %}} | ["Son iki savaş mı?": 9–11](/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Daniel:7,9-12" link="dan:7,9-12" lang="tr" %}} | ["Krallıkların sonu": Eskiden Beri Var Olan ve İnsanoğlu, krallıkların üstesinden gelir](/expl/bible/daniel/the-four-kingdoms-in-daniel#bcbd) |
-| {{% bible val="Daniel:7,9-14" link="dan:7,9-14" lang="tr" %}} | ["Ana Öğreti": krallıkları alt eder ve ebedi bir krallık kurar](/sermons/deep-dive/intro/11-daniel-a-story-of-faithfulness-under-pagan-power#None) |
+| {{% bible val="Daniel:7,9-14" link="dan:7,9-14" lang="tr" %}} | ["Ana Öğreti": krallıkları alt eder ve ebedi bir krallık kurar](/sermons/deep-dive/intro/11-daniel-a-story-of-faithfulness-under-pagan-power#ana-öğreti) |
 | {{% bible val="Daniel:7,10" link="dan:7,10" lang="tr" %}} | ["Son iki savaş mı?": kitabın açılması](/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Daniel:7,10" link="dan:7,10" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Daniel:7,10" link="dan:7,10" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/expl/content/worship/worship-in-the-throne-room#3e33) |
@@ -80,8 +80,8 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Daniel:7,13-14" link="dan:7,13-14" lang="tr" %}} | ["İki hasat": Daniel'e](/expl/content/harvest/gods-army-and-the-seven-angels#c8c5) |
 | {{% bible val="Daniel:7,13-14" link="dan:7,13-14" lang="tr" %}} | ["Bulutlarla birlikte geliyor": Gece görümlerimde İnsanoğlu’na benzer birinin göğün bulutlarıyla geldiğini gördüm. Yaklaşıp Eskiden Beri Var Olan’ın yanına geldi, huzura çıkarıldı. Kendisine egemenlik, yücelik ve krallık verildi. Bütün halklar, uluslar, her dilden insan O’na tapındı.](/expl/content/vision/setting-the-foundation#4542) |
 | {{% bible val="Daniel:7,13-14" link="dan:7,13-14" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/expl/content/worship/worship-in-the-throne-room#3e33) |
-| {{% bible val="Daniel:7,13-14" link="dan:7,13-14" lang="tr" %}} | [""Arka Plan: İnsanoğlu"": Daniel 7:13–14](/kids/teens-prep/08-the-son-of-man#None) |
-| {{% bible val="Daniel:7,13-14" link="dan:7,13-14" lang="tr" %}} | ["Ana Öğreti": Daniel 7:13-14](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#None) |
+| {{% bible val="Daniel:7,13-14" link="dan:7,13-14" lang="tr" %}} | [""Arka Plan: İnsanoğlu"": Daniel 7:13–14](/kids/teens-prep/08-the-son-of-man) |
+| {{% bible val="Daniel:7,13-14" link="dan:7,13-14" lang="tr" %}} | ["Ana Öğreti": Daniel 7:13-14](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#ana-öğreti) |
 | {{% bible val="Daniel:7,14" link="dan:7,14" lang="tr" %}} | ["Krallıkların sonu": İnsanoğlu](/expl/bible/daniel/the-four-kingdoms-in-daniel#bcbd) |
 | {{% bible val="Daniel:7,14" link="dan:7,14" lang="tr" %}} | ["Son iki savaş mı?": 13–14](/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Daniel:7,14" link="dan:7,14" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/expl/content/worship/worship-in-the-throne-room#3e33) |
@@ -92,8 +92,8 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Daniel:7,18" link="dan:7,18" lang="tr" %}} | ["Köken": Ama En Yüce Olan'ın kutsal halkı krallığı alacak ve sonsuza dek ona sahip olacak — evet, sonsuza dek.](/expl/bible/daniel/the-son-of-man-and-the-remnant#6abd) |
 | {{% bible val="Daniel:7,18" link="dan:7,18" lang="tr" %}} | ["Son iki savaş mı?": 18](/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Daniel:7,18" link="dan:7,18" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/expl/content/worship/worship-in-the-throne-room#3e33) |
-| {{% bible val="Daniel:7,18" link="dan:7,18" lang="tr" %}} | ["Ana Öğreti": Daniel 7:18](/sermons/deep-dive/intro/11-daniel-a-story-of-faithfulness-under-pagan-power#None) |
-| {{% bible val="Daniel:7,18" link="dan:7,18" lang="tr" %}} | ["Ana Öğreti": Yüce Olan'ın kutsal halkı krallığı alacak](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#None) |
+| {{% bible val="Daniel:7,18" link="dan:7,18" lang="tr" %}} | ["Ana Öğreti": Daniel 7:18](/sermons/deep-dive/intro/11-daniel-a-story-of-faithfulness-under-pagan-power#ana-öğreti) |
+| {{% bible val="Daniel:7,18" link="dan:7,18" lang="tr" %}} | ["Ana Öğreti": Yüce Olan'ın kutsal halkı krallığı alacak](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#ana-öğreti) |
 | {{% bible val="Daniel:7,19-22" link="dan:7,19-22" lang="tr" %}} | ["Son iki savaş mı?": 19–22](/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Daniel:7,20-27" link="dan:7,20-27" lang="tr" %}} | ["Bildirim": Bunun yanı sıra başındaki on boynuzdan sonra çıkan öbür boynuzun ne olduğunu da öğrenmek istedim. Bu boynuzun önünden üçü düşmüştü; ötekilerden daha iri görünüyordu, gözleri ve böbürlenen bir ağzı vardı. Ben baktığım sırada bu boynuz kutsallarla savaşıyor ve onları yeniyordu; ta ki Eskiden Beri Var Olan gelip En Yüce Olan'ın kutsallarının lehine yargı verene ve kutsalların krallığı alma zamanı gelene dek.](/expl/bible/daniel/the-son-of-man-and-the-remnant#487c) |
 | {{% bible val="Daniel:7,20-27" link="dan:7,20-27" lang="tr" %}} | ["Bildirim": Bana şu açıklamayı yaptı: ‹Dördüncü yaratık yeryüzünde ortaya çıkacak dördüncü krallıktır. Bütün öbür krallıklardan farklı olacak, bütün dünyayı yiyip bitirecek, çiğneyip parçalayacak. On boynuz bu krallıktan çıkacak on kraldır. Bunlardan sonra öncekilerden farklı bir başka kral ortaya çıkacak ve üç kralı boyun eğdirecek. Yüceler Yücesi'ne karşı sözler söyleyecek, O'nun kutsallarına baskı yapacak, belirlenen zamanları ve yasaları değiştirmeye çalışacak. Kutsallar bir zaman, iki zaman ve yarım zaman için onun eline teslim edilecek. Ama mahkeme kurulacak, onun egemenliği elinden alınacak ve büsbütün, sonsuza dek yok edilecek. Göklerin altındaki krallıklara özgü egemenlik, güç ve büyüklük, En Yüce Olan'ın kutsal halkına verilecek. O'nun krallığı sonsuza dek sürecek krallıktır, bütün yöneticiler O'na tapınıp itaat edecek.›](/expl/bible/daniel/the-son-of-man-and-the-remnant#487c) |
@@ -116,18 +116,18 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Daniel:9" link="dan:9,-1" lang="tr" %}} | ["Gezinti devam ediyor": Dan.9](/expl/bible/daniel/the-book-of-daniel#0e1c) |
 | {{% bible val="Daniel:9,1-2" link="dan:9,1-2" lang="tr" %}} | ["Vaat": zaman geldiğinde](/expl/bible/daniel/the-70-year-weeks#9594) |
 | {{% bible val="Daniel:9,3-19" link="dan:9,3-19" lang="tr" %}} | ["Vaat": halkı için bir tövbe duası etti](/expl/bible/daniel/the-70-year-weeks#9594) |
-| {{% bible val="Daniel:9,3-19" link="dan:9,3-19" lang="tr" %}} | ["Bölüm 1: 70 Hafta": Daniel 9:3-19](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Daniel:9,3-19" link="dan:9,3-19" lang="tr" %}} | ["Bölüm 1: 70 Hafta": Daniel 9:3-19](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-1-70-hafta) |
 | {{% bible val="Daniel:9,24-27" link="dan:9,24-27" lang="tr" %}} | ["Vaat": ‹‹Halkın ve kutsal kentin için başkaldırıyı ortadan kaldırmak, günaha son vermek, suçu bağışlatmak, sonsuza dek kalıcı doğruluğu sağlamak, görüm ve peygamberliği mühürlemek, En Kutsal'ı meshetmek üzere yetmiş hafta kararlaştırılmıştır. Şunu bil ve anla: Yeruşalim'i yeniden kurmak ve onarmak için buyruğun verilmesinden, meshedilmiş olan önderin gelişine dek yedi hafta ve altmış iki hafta geçecek. Sokaklar ve hendeklerle yeniden inşa edilecek, ama sıkıntılı zamanlarda. Bu altmış iki hafta sonunda meshedilmiş olan öldürülecek ve onu destekleyen olmayacak. Gelecek önderin halkı, kenti ve kutsal yeri yerle bir edecek. Sonu bir tufan gibi olacak: Savaş sona dek sürecek, yıkımlar da kararlaştırılmıştır. Gelecek önder birçoklarıyla bir hafta için sağlam bir antlaşma yapacak. Haftanın yarısında kurbanı da sunuyu da kaldıracak. Kararlaştırılan yıkım başına dökülünceye dek, tapınağın üzerine yıkıcı iğrenç şeyler yerleştirecek.›› ](/expl/bible/daniel/the-70-year-weeks#9594) |
 | {{% bible val="Daniel:9,24-27" link="dan:9,24-27" lang="tr" %}} | ["Vaat": Antiokhos Epifanes IV'ü destekleyen Yahudilere](/expl/bible/daniel/the-70-year-weeks#9594) |
 | {{% bible val="Daniel:9,24-27" link="dan:9,24-27" lang="tr" %}} | ["70 yıl": Şunu bil ve anla: Yeruşalim'i yeniden kurmak ve onarmak için buyruğun verilmesinden, meshedilmiş olan önderin gelişine dek yedi hafta ve altmış iki hafta geçecek. Sokaklar ve hendeklerle yeniden inşa edilecek, ama sıkıntılı zamanlarda.](/expl/bible/daniel/the-70-year-weeks#66c9) |
 | {{% bible val="Daniel:9,24-27" link="dan:9,24-27" lang="tr" %}} | ["70 yıl": Bu altmış iki hafta sonunda meshedilmiş olan öldürülecek ve onu destekleyen olmayacak. Gelecek önderin halkı, kenti ve kutsal yeri yerle bir edecek. Sonu bir tufan gibi olacak: Savaş sona dek sürecek, yıkımlar da kararlaştırılmıştır.](/expl/bible/daniel/the-70-year-weeks#66c9) |
 | {{% bible val="Daniel:9,24-27" link="dan:9,24-27" lang="tr" %}} | ["70 yıl": Gelecek önder birçoklarıyla bir hafta için sağlam bir antlaşma yapacak. Haftanın yarısında kurbanı da sunuyu da kaldıracak. Kararlaştırılan yıkım başına dökülünceye dek, tapınağın üzerine yıkıcı iğrenç şeyler yerleştirecek.](/expl/bible/daniel/the-70-year-weeks#66c9) |
 | {{% bible val="Daniel:9,24-27" link="dan:9,24-27" lang="tr" %}} | ["Peki bunun anlamı ne?": Tanrı'nın gizemli yoluyla](/expl/bible/daniel/the-book-of-daniel#e7d4) |
-| {{% bible val="Daniel:9,24-27" link="dan:9,24-27" lang="tr" %}} | [""Arka Plan: Daniel'in Geri Sayımı"": Daniel 9:24–27](/kids/teens-prep/07-daniels-countdown#None) |
-| {{% bible val="Daniel:9,24-27" link="dan:9,24-27" lang="tr" %}} | ["Bölüm 1: 70 Hafta": Daniel 9:24-27](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Daniel:9,24-27" link="dan:9,24-27" lang="tr" %}} | [""Arka Plan: Daniel'in Geri Sayımı"": Daniel 9:24–27](/kids/teens-prep/07-daniels-countdown) |
+| {{% bible val="Daniel:9,24-27" link="dan:9,24-27" lang="tr" %}} | ["Bölüm 1: 70 Hafta": Daniel 9:24-27](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-1-70-hafta) |
 | {{% bible val="Daniel:9,26-27" link="dan:9,26-27" lang="tr" %}} | ["Bağlama dayalı": 70 yıl kehanetindeki 2000 yıllık gecikmedir](/expl/topics/others/dispensionalism-and-its-critic#a4b2) |
 | {{% bible val="Daniel:9,27" link="dan:9,27" lang="tr" %}} | ["Daniel'deki yıl haftası": bu hafta içinde kurulduğu](/expl/bible/daniel/the-secret-of-the-3-5-years#eb7b) |
-| {{% bible val="Daniel:9,27" link="dan:9,27" lang="tr" %}} | [""Pretribülasyonist, midtribülasyonist, gazap-öncesi, yoksa posttribülasyonist mi?"": Daniel'in yetmişinci haftasından](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#None) |
+| {{% bible val="Daniel:9,27" link="dan:9,27" lang="tr" %}} | [""Pretribülasyonist, midtribülasyonist, gazap-öncesi, yoksa posttribülasyonist mi?"": Daniel'in yetmişinci haftasından](/expl/topics/others/pre-mid-prewrath-or-post-tribulational) |
 | {{% bible val="Daniel:10" link="dan:10,-1" lang="tr" %}} | ["Gezinti devam ediyor": Dan.10](/expl/bible/daniel/the-book-of-daniel#0e1c) |
 | {{% bible val="Daniel:10,6" link="dan:10,6" lang="tr" %}} | ["Görüm": Daniel 10’un özellikleridir](/expl/content/vision/the-vision#727c) |
 | {{% bible val="Daniel:10,8-19" link="dan:10,8-19" lang="tr" %}} | ["Tepki": Daniel’in görümlerinin](/expl/content/vision/the-vision#d80b) |

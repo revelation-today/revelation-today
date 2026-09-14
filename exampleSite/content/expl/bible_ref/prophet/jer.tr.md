@@ -23,7 +23,7 @@ Bu kitapta kullanılan 24 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeremya:23,3" link="jer:23,3" lang="tr" %}} | ["Kalıntı": Tanrı (küçük) bir kalıntıyla başlayacak ve sayısını artıracaktır](/expl/background/israel/the-remnant-of-israel#998f) |
 | {{% bible val="Yeremya:25,11-12" link="jer:25,11-12" lang="tr" %}} | ["Yıl haftası nedir": Yeremya'nın](/expl/bible/daniel/the-70-year-weeks#7a7b) |
 | {{% bible val="Yeremya:29,10" link="jer:29,10" lang="tr" %}} | ["Vaat": Tanrı'nın verdiği vaadi biliyordu](/expl/bible/daniel/the-70-year-weeks#9594) |
-| {{% bible val="Yeremya:29,10" link="jer:29,10" lang="tr" %}} | ["Bölüm 1: 70 Hafta": Yeremya 29:10](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Yeremya:29,10" link="jer:29,10" lang="tr" %}} | ["Bölüm 1: 70 Hafta": Yeremya 29:10](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-1-70-hafta) |
 | {{% bible val="Yeremya:30,18" link="jer:30,18" lang="tr" %}} | ["70 yıl": peygamber Yeremya aracılığıyla](/expl/bible/daniel/the-70-year-weeks#66c9) |
 | {{% bible val="Yeremya:31,9" link="jer:31,9" lang="tr" %}} | ["Tanrı’nın oğlu": İsrail'in oymağı Efrayim ilk doğan olarak adlandırıldığında](/expl/background/israel/the-church-is-part-of-israel#bb1b) |
 | {{% bible val="Yeremya:31,31-34" link="jer:31,31-34" lang="tr" %}} | ["70 yıl": birçoklarıyla bir antlaşma yapan](/expl/bible/daniel/the-70-year-weeks#66c9) |

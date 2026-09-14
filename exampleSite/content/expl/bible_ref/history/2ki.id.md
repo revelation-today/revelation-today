@@ -10,7 +10,7 @@ docType: expl
 |-------|-----------|
 | {{% bible val="2 Raja-raja:1,9-12" link="2ki:1,9-12" lang="ind" %}} | ["Identitas kedua saksi": Elia yang menurunkan api dari langit](/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="2 Raja-raja:9" link="2ki:9,-1" lang="ind" %}} | ["Elia": panglima pasukan itu, akhirnya diurapi](/expl/content/bowls/the-key-to-armageddon#5f7a) |
-| {{% bible val="2 Raja-raja:9" link="2ki:9,-1" lang="ind" %}} | ["Harmagedon": 2 Raja-raja 9](/quick/content/bowls#None) |
+| {{% bible val="2 Raja-raja:9" link="2ki:9,-1" lang="ind" %}} | ["Harmagedon": 2 Raja-raja 9](/quick/content/bowls#harmagedon) |
 | {{% bible val="2 Raja-raja:9,7" link="2ki:9,7" lang="ind" %}} | ["Sang pelacur": Allah membalaskan darah para saksi](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="2 Raja-raja:9,22" link="2ki:9,22" lang="ind" %}} | ["Sang pelacur": 2Raj.9/22](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="2 Raja-raja:9,22" link="2ki:9,22" lang="ind" %}} | ["Sang pelacur": Menggunakan sihir](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |

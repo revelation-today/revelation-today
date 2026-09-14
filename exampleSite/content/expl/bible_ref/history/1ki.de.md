@@ -25,7 +25,7 @@ docType: expl
 | {{% bible val="1.Könige:17,1" link="1ki:17,1" lang="de" %}} | ["Elia und die Dürre (1. Könige 16/29–18/35)": sendet Gott Elia, um eine Dürre anzukündigen](/expl/bible/daniel/the-secret-of-the-3-5-years#2b28) |
 | {{% bible val="1.Könige:17,6-24" link="1ki:17,6-24" lang="de" %}} | ["Elia und die Dürre (1. Könige 16/29–18/35)": geht er zu einer Witwe in Sidon, deren sterbenden Sohn er rettet, und sie kommt zum Glauben an Gott](/expl/bible/daniel/the-secret-of-the-3-5-years#2b28) |
 | {{% bible val="1.Könige:18" link="1ki:18,-1" lang="de" %}} | ["Elia": hier spielt sich eine der bekanntesten Geschichten des Alten Testaments ab: ein Prophet Gottes steht mehreren Hundert Baalspropheten gegenüber](/expl/content/bowls/the-key-to-armageddon#5f7a) |
-| {{% bible val="1.Könige:18" link="1ki:18,-1" lang="de" %}} | ["Harmagedon": 1. Könige 18](/quick/content/bowls#None) |
+| {{% bible val="1.Könige:18" link="1ki:18,-1" lang="de" %}} | ["Harmagedon": 1. Könige 18](/quick/content/bowls#harmagedon) |
 | {{% bible val="1.Könige:18,4" link="1ki:18,4" lang="de" %}} | ["Die Hure": Verfolgt und tötet Heilige](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1.Könige:18,16-46" link="1ki:18,16-46" lang="de" %}} | ["Elia und die Dürre (1. Könige 16/29–18/35)": großen Kräftemessen auf dem Berg Karmel darüber, wer der wahre Gott wirklich ist](/expl/bible/daniel/the-secret-of-the-3-5-years#2b28) |
 | {{% bible val="1.Könige:18,18" link="1ki:18,18" lang="de" %}} | ["Die Hure": Ein Rest widersetzt sich](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |

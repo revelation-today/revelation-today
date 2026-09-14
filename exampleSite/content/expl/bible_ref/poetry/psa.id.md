@@ -4,7 +4,7 @@ weight: 18
 docType: expl
 ---
 
-29 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+30 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -13,7 +13,7 @@ docType: expl
 | {{% bible val="Mazmur:2" link="psa:2,-1" lang="ind" %}} | ["Solusinya": Mazmur 2](/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
 | {{% bible val="Mazmur:2,8" link="psa:2,8" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": milik pusaka Anak](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Mazmur:22,27" link="psa:22,27" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": segala ujung bumi yang mengingat dan berbalik kepada TUHAN](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
-| {{% bible val="Mazmur:23" link="psa:23,-1" lang="ind" %}} | [""Secara harfiah atau simbolis"": domba yang makan rumput](/quick/background/literature/#None) |
+| {{% bible val="Mazmur:23" link="psa:23,-1" lang="ind" %}} | [""Secara harfiah atau simbolis"": domba yang makan rumput](/quick/background/literature/) |
 | {{% bible val="Mazmur:36,8-9" link="psa:36,8-9" lang="ind" %}} | ["Air kehidupan": memberi minum secara berlimpah](/expl/content/paradise/the-new-jerusalem#8a3f) |
 | {{% bible val="Mazmur:45,5-6" link="psa:45,5-6" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": Mazmur, ada gambaran seorang raja Israel yang mengalahkan musuh-musuhnya dengan sebuah panah](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Mazmur:52,8" link="psa:52,8" lang="ind" %}} | ["Pohon Zaitun": Raja Daud](/expl/background/israel/the-church-is-part-of-israel#e179) |
@@ -37,3 +37,4 @@ docType: expl
 | {{% bible val="Mazmur:115,4-8" link="psa:115,4-8" lang="ind" %}} | ["Serangan Ganda": menunjukkan bahwa ia lebih dari sekadar berhala](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Mazmur:128,3" link="psa:128,3" lang="ind" %}} | ["Pohon Zaitun": individu-individu di Israel](/expl/background/israel/the-church-is-part-of-israel#e179) |
 | {{% bible val="Mazmur:130,8" link="psa:130,8" lang="ind" %}} | ["Milik Kesayangan Allah": Mazmur, di mana Israel dijanjikan pembebasan dari segala kejahatan](/expl/background/israel/the-church-is-part-of-israel#123e) |
+| {{% bible val="Mazmur:135,15-18" link="psa:135,15-18" lang="ind" %}} | ["Kita Menjadi Seperti Apa yang Kita Sembah": Mazmur](/appl/topics/power/worship#6523) |

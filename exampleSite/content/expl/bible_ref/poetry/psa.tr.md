@@ -4,7 +4,7 @@ weight: 18
 docType: expl
 ---
 
-Bu kitapta kullanılan 29 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 30 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -13,7 +13,7 @@ Bu kitapta kullanılan 29 Kutsal Kitap pasajı vardır
 | {{% bible val="Mezmur:2" link="psa:2,-1" lang="tr" %}} | ["Çözüm": Mezmur 2'den](/expl/content/letters/the-letter-to-the-church-in-thyatira#ac15) |
 | {{% bible val="Mezmur:2,8" link="psa:2,8" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": miras olarak](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Mezmur:22,27" link="psa:22,27" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": dünyanın dört bucağının anımsayıp RAB'be dönmesi](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
-| {{% bible val="Mezmur:23" link="psa:23,-1" lang="tr" %}} | [""Secara harfiah atau simbolis"": domba yang makan rumput](/quick/background/literature/#None) |
+| {{% bible val="Mezmur:23" link="psa:23,-1" lang="tr" %}} | [""Secara harfiah atau simbolis"": domba yang makan rumput](/quick/background/literature/) |
 | {{% bible val="Mezmur:36,8-9" link="psa:36,8-9" lang="tr" %}} | ["Diri su": içmek için bol bol verir](/expl/content/paradise/the-new-jerusalem#34a7) |
 | {{% bible val="Mezmur:45,5-6" link="psa:45,5-6" lang="tr" %}} | ["İlk atlının gizemi": Mezmurlar'da düşmanlarını yayla fetheden bir İsrail kralının tasviri vardır](/expl/content/seals/the-mystery-of-the-four-horse-men#dba7) |
 | {{% bible val="Mezmur:52,8" link="psa:52,8" lang="tr" %}} | ["Zeytin ağacı": Kral Davut](/expl/background/israel/the-church-is-part-of-israel#5ef1) |
@@ -37,3 +37,4 @@ Bu kitapta kullanılan 29 Kutsal Kitap pasajı vardır
 | {{% bible val="Mezmur:115,4-8" link="psa:115,4-8" lang="tr" %}} | ["İki yönlü saldırı": onun bir putdan daha fazlası olduğunu gösterir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Mezmur:128,3" link="psa:128,3" lang="tr" %}} | ["Zeytin ağacı": İsrail'deki bireylere](/expl/background/israel/the-church-is-part-of-israel#5ef1) |
 | {{% bible val="Mezmur:130,8" link="psa:130,8" lang="tr" %}} | ["Tanrı'nın değerli mülkü": İsrail'e her türlü kötülükten kurtuluş vaat edilen Mezmurlar'ı](/expl/background/israel/the-church-is-part-of-israel#5369) |
+| {{% bible val="Mezmur:135,15-18" link="psa:135,15-18" lang="tr" %}} | ["Taptığımız şey oluruz": Mezmurlar](/appl/topics/power/worship#a481) |

@@ -4,7 +4,7 @@ weight: 22
 docType: expl
 ---
 
-Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 129 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -16,10 +16,11 @@ Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya:2,2-4" link="isa:2,2-4" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": kılıçlarını çekiçle dövüp saban demiri yapan](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Yeşaya:5,1-7" link="isa:5,1-7" lang="tr" %}} | ["İsa'nın öğretileri": Yeşaya'nın, meyve vermeyen bağ benzetmesini ele alır](/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Yeşaya:5,1-7" link="isa:5,1-7" lang="tr" %}} | ["Tanrı'nın bağı": İsrail'e](/expl/background/israel/the-church-is-part-of-israel#987a) |
-| {{% bible val="Yeşaya:6" link="isa:6,-1" lang="tr" %}} | ["Bir kehanet {#prophecy}": Yeşaya 6'da](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
-| {{% bible val="Yeşaya:6" link="isa:6,-1" lang="tr" %}} | ["Ana Öğreti": Yeşaya 6](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#None) |
+| {{% bible val="Yeşaya:6" link="isa:6,-1" lang="tr" %}} | ["Bir kehanet": Yeşaya 6'da](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Yeşaya:6" link="isa:6,-1" lang="tr" %}} | ["Ana Öğreti": Yeşaya 6](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#ana-öğreti) |
 | {{% bible val="Yeşaya:6,1-9" link="isa:6,1-9" lang="tr" %}} | ["Arka plan ve bağlam": Yeşaya'nın çağrılışında](/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Yeşaya:6,1-13" link="isa:6,1-13" lang="tr" %}} | ["Göğe alınma gerçekleştiğinde": Yeşaya'da](/expl/topics/others/the-rapture#a0e7) |
+| {{% bible val="Yeşaya:6,8-10" link="isa:6,8-10" lang="tr" %}} | ["Taptığımız şey oluruz": Yeşaya’nın İsrail’e vaaz etme görevi vardı ama onlar anlamayacaklardı](/appl/topics/power/worship#a481) |
 | {{% bible val="Yeşaya:6,9-10" link="isa:6,9-10" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": kitap, Yeşaya'nın](/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Yeşaya:7,1-14" link="isa:7,1-14" lang="tr" %}} | ["Yahuda'nın üç kralı": Ahaz](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#0554) |
 | {{% bible val="Yeşaya:7,1-14" link="isa:7,1-14" lang="tr" %}} | ["Yahuda'nın üç kralı": peygamber Yeşaya aracılığıyla Tanrı'nın tam desteği kendisine sunuldu, ama o bunu reddetti](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#0554) |
@@ -40,7 +41,7 @@ Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya:22,15-22" link="isa:22,15-22" lang="tr" %}} | ["İsa'nın görüşü": kralın kâhyası Şebna, yüksek makamını kendini yüceltmek için kötüye kullanmış ve utanç içinde görevden alınmıştı; görev bunun yerine, Yeruşalim halkına bir baba olacak olan Elyakim'e verilmişti](/expl/content/letters/the-letter-to-the-church-in-philadelphia#afbc) |
 | {{% bible val="Yeşaya:22,15-25" link="isa:22,15-25" lang="tr" %}} | ["İsa'nın görüşü": Şebna ve Elyakim'e](/expl/content/letters/the-letter-to-the-church-in-philadelphia#afbc) |
 | {{% bible val="Yeşaya:22,22" link="isa:22,22" lang="tr" %}} | ["Simetrik örüntüler": İşa.22/22](/expl/background/literature/literary-tools-in-the-book-of-revelation#f356) |
-| {{% bible val="Yeşaya:22,22" link="isa:22,22" lang="tr" %}} | ["Ana Öğreti": Yeşaya 22:22](/sermons/deep-dive/intro/04-hidden-architecture#None) |
+| {{% bible val="Yeşaya:22,22" link="isa:22,22" lang="tr" %}} | ["Ana Öğreti": Yeşaya 22:22](/sermons/deep-dive/intro/04-hidden-architecture#ana-öğreti) |
 | {{% bible val="Yeşaya:23,1-3" link="isa:23,1-3" lang="tr" %}} | ["Ekonomik boyut": dünyanın limanıydı; kendisi ürünle — bu durumda tahılla — ödeme alırken herkesi zengin ediyordu](/expl/content/harlot/who-is-the-harlot-babylon-part-2#fb4b) |
 | {{% bible val="Yeşaya:23,15-18" link="isa:23,15-18" lang="tr" %}} | ["Dini yönü": fahişe olarak adlandırıldı](/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Yeşaya:23,15-18" link="isa:23,15-18" lang="tr" %}} | ["Ekonomik boyut": Sur](/expl/content/harlot/who-is-the-harlot-babylon-part-2#fb4b) |
@@ -62,7 +63,7 @@ Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya:40,2-3" link="isa:40,2-3" lang="tr" %}} | ["Luka'daki yeni Çıkış": Markos'un başlangıcında kullanılanla aynı referans](/expl/background/israel/the-second-exodus#bfa6) |
 | {{% bible val="Yeşaya:40,3" link="isa:40,3" lang="tr" %}} | ["Markos'taki Çıkış": Yeşaya'nın](/expl/background/israel/the-second-exodus#098c) |
 | {{% bible val="Yeşaya:40,18-24" link="isa:40,18-24" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": Tanrı neyle karşılaştırılabilir](/expl/background/israel/the-second-exodus#f704) |
-| {{% bible val="Yeşaya:40,31" link="isa:40,31" lang="tr" %}} | ["Şeytan'ın kesintisiz başarısızlık sicili": Yeşaya 40:31](/quick/content/jesus#None) |
+| {{% bible val="Yeşaya:40,31" link="isa:40,31" lang="tr" %}} | ["Şeytan'ın kesintisiz başarısızlık sicili": Yeşaya 40:31](/quick/content/jesus#şeytanın-kesintisiz-başarısızlık-sicili) |
 | {{% bible val="Yeşaya:41,4-10" link="isa:41,4-10" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": O putlardan daha güvenilirdir](/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Yeşaya:42,1" link="isa:42,1" lang="tr" %}} | ["Ruh'un dökülmesi": hizmetkâra](/expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Yeşaya:42,6-7" link="isa:42,6-7" lang="tr" %}} | ["Bakanlık": (Yeş.42/6-7)](/expl/background/israel/the-church-is-part-of-israel#d3e5) |
@@ -73,7 +74,7 @@ Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya:43,18-19" link="isa:43,18-19" lang="tr" %}} | ["Her şey yeni": Tanrı'nın her şeyi yenileyeceği vaadi](/expl/content/paradise/the-new-jerusalem#7511) |
 | {{% bible val="Yeşaya:44,9-20" link="isa:44,9-20" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": putların boşluğu](/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Yeşaya:44,24-28" link="isa:44,24-28" lang="tr" %}} | ["Ailenin önemi": Tanrı'nın kurtarıcı rolünü üstlenmesi](/expl/background/israel/the-role-of-family-in-the-bible#524d) |
-| {{% bible val="Yeşaya:44,24-28" link="isa:44,24-28" lang="tr" %}} | ["Ana Öğreti": Yeşaya 44:24-28](/sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems#None) |
+| {{% bible val="Yeşaya:44,24-28" link="isa:44,24-28" lang="tr" %}} | ["Ana Öğreti": Yeşaya 44:24-28](/sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems#ana-öğreti) |
 | {{% bible val="Yeşaya:45,1" link="isa:45,1" lang="tr" %}} | ["70 yıl": meshedilmiş olan Koreş'in](/expl/bible/daniel/the-70-year-weeks#66c9) |
 | {{% bible val="Yeşaya:46,1-13" link="isa:46,1-13" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": Babil'in putları](/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Yeşaya:49" link="isa:49,-1" lang="tr" %}} | ["Bakanlık": Yeşaya 49](/expl/background/israel/the-church-is-part-of-israel#d3e5) |
@@ -91,7 +92,7 @@ Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya:52,7" link="isa:52,7" lang="tr" %}} | ["Markos'taki Çıkış": yeni bir kralın nihai duyurusudur](/expl/background/israel/the-second-exodus#098c) |
 | {{% bible val="Yeşaya:54" link="isa:54,-1" lang="tr" %}} | ["Kentin malzemesi": Yeruşalim'in acı çekişinden sonra yeniden kurulmasını](/expl/content/paradise/the-new-jerusalem#8562) |
 | {{% bible val="Yeşaya:54,5-6" link="isa:54,5-6" lang="tr" %}} | ["Tanrı'nın gelini": Tanrı'nın gelini](/expl/background/israel/the-church-is-part-of-israel#ed97) |
-| {{% bible val="Yeşaya:54,5-6" link="isa:54,5-6" lang="tr" %}} | ["Ana Öğreti": Yeşaya 54:5-6](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#None) |
+| {{% bible val="Yeşaya:54,5-6" link="isa:54,5-6" lang="tr" %}} | ["Ana Öğreti": Yeşaya 54:5-6](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#ana-öğreti) |
 | {{% bible val="Yeşaya:55,1-3" link="isa:55,1-3" lang="tr" %}} | ["Galip gelen": Yeşaya, Tanrı'nın antlaşmasını içilecek suyla ilişkilendirir](/expl/content/paradise/the-new-jerusalem#07a3) |
 | {{% bible val="Yeşaya:55,12" link="isa:55,12" lang="tr" %}} | ["Gerçekçi anlayış": harfiyen](/expl/topics/others/dispensionalism-and-its-critic#16f7) |
 | {{% bible val="Yeşaya:56,3-7" link="isa:56,3-7" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": “RAB’be bağlanan hiçbir yabancı, ‹‹Kuşkusuz RAB beni halkından ayıracak››, Hiçbir hadım da, ‹‹Ben kuru bir ağacım›› demesin. Çünkü RAB diyor ki, ‹‹Şabat günlerimi tutan, Beni hoşnut edeni seçen, Antlaşmama sımsıkı bağlı kalan hadıma Evimde, evimin dört duvarı arasında Oğullardan da kızlardan da daha iyi bir anıt ve ad vereceğim; Yok edilemez, ebedi bir ad olacak bu. ‹‹RAB’be hizmet etmek, O’nun adını sevmek, Kulu olmak için O’na bağlanan yabancıları, Şabat Günü’nü tutan, bayağılaştırmayan, Antlaşmama sımsıkı bağlı kalan herkesi, Kutsal dağıma getirip Dua evimde sevindireceğim. Yakmalık sunularıyla kurbanları Sunağımda kabul edilecek, Çünkü evime ‹Bütün ulusların dua evi› denecek.››”](/expl/background/israel/the-remnant-of-israel#6f36) |
@@ -106,9 +107,9 @@ Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya:60,11" link="isa:60,11" lang="tr" %}} | ["Uluslar ve armağanları": Kapıların hiç kapanmayacak, gece gündüz hep açık duracak, öyle ki ulusların zenginliği ve önden giden krallarıyla sana getirilsin.](/expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Yeşaya:60,12" link="isa:60,12" lang="tr" %}} | ["Uluslar ve armağanları": bu nedenle artık başkalarıyla birlikte acı çekmeyeceklerdir](/expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Yeşaya:60,19" link="isa:60,19" lang="tr" %}} | ["İç özellikler": Yeşaya'dan](/expl/content/paradise/the-new-jerusalem#1c33) |
-| {{% bible val="Yeşaya:61,1-2" link="isa:61,1-2" lang="tr" %}} | ["Zaten ama henüz değil {#already}": Yeşaya'daki pasajla](/expl/background/israel/jesus-and-the-covenant#1438) |
+| {{% bible val="Yeşaya:61,1-2" link="isa:61,1-2" lang="tr" %}} | ["Zaten ama henüz değil": Yeşaya'daki pasajla](/expl/background/israel/jesus-and-the-covenant#1438) |
 | {{% bible val="Yeşaya:61,1-2" link="isa:61,1-2" lang="tr" %}} | ["Luka'daki yeni Çıkış": bu, ikinci Çıkış'ın işaretiydi](/expl/background/israel/the-second-exodus#bfa6) |
-| {{% bible val="Yeşaya:61,1-2" link="isa:61,1-2" lang="tr" %}} | ["Ana Öğreti": Yeşaya 61:1-2](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#None) |
+| {{% bible val="Yeşaya:61,1-2" link="isa:61,1-2" lang="tr" %}} | ["Ana Öğreti": Yeşaya 61:1-2](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#ana-öğreti) |
 | {{% bible val="Yeşaya:61,10" link="isa:61,10" lang="tr" %}} | ["Kutsal kent Yeruşalim": daha da geliştirilir](/expl/content/paradise/the-new-jerusalem#2a00) |
 | {{% bible val="Yeşaya:62,1-2" link="isa:62,1-2" lang="tr" %}} | ["Kutsal kent Yeruşalim": yeni bir isim alana](/expl/content/paradise/the-new-jerusalem#2a00) |
 | {{% bible val="Yeşaya:62,1-5" link="isa:62,1-5" lang="tr" %}} | ["İlk bakış": Yeşaya'da](/expl/content/paradise/the-new-jerusalem#1113) |

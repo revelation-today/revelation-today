@@ -23,7 +23,7 @@ docType: expl
 | {{% bible val="Jeremia:23,3" link="jer:23,3" lang="de" %}} | ["Der Überrest": Gott wird mit einem (kleinen) Überrest beginnen und ihn an Zahl vermehren](/expl/background/israel/the-remnant-of-israel#eeb2) |
 | {{% bible val="Jeremia:25,11-12" link="jer:25,11-12" lang="de" %}} | ["Was ist eine Jahrwoche": Jeremia](/expl/bible/daniel/the-70-year-weeks#f6e6) |
 | {{% bible val="Jeremia:29,10" link="jer:29,10" lang="de" %}} | ["Die Verheißung": kannte die Verheißung, die Gott gegeben hatte](/expl/bible/daniel/the-70-year-weeks#1bc2) |
-| {{% bible val="Jeremia:29,10" link="jer:29,10" lang="de" %}} | ["Teil 1: Die 70 Wochen": Jeremia 29,10](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Jeremia:29,10" link="jer:29,10" lang="de" %}} | ["Teil 1: Die 70 Wochen": Jeremia 29,10](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#teil-1-die-70-wochen) |
 | {{% bible val="Jeremia:30,18" link="jer:30,18" lang="de" %}} | ["Die 70 Jahrwochen": durch den Propheten Jeremia](/expl/bible/daniel/the-70-year-weeks#d777) |
 | {{% bible val="Jeremia:31,9" link="jer:31,9" lang="de" %}} | ["Gottes Sohn": als Israels Stamm Ephraim Erstgeborener genannt wird](/expl/background/israel/the-church-is-part-of-israel#db2c) |
 | {{% bible val="Jeremia:31,31-34" link="jer:31,31-34" lang="de" %}} | ["Die 70 Jahrwochen": Bund mit vielen](/expl/bible/daniel/the-70-year-weeks#d777) |

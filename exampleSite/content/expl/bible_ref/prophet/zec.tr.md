@@ -8,7 +8,7 @@ Bu kitapta kullanılan 19 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
-| {{% bible val="Zekeriya:1,7" link="zec:1,7" lang="tr" %}} | ["Bir kehanet {#prophecy}": çok daha ayrıntılı bir şekilde](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Zekeriya:1,7" link="zec:1,7" lang="tr" %}} | ["Bir kehanet": çok daha ayrıntılı bir şekilde](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Zekeriya:1,8-15" link="zec:1,8-15" lang="tr" %}} | ["İlk gözlemler": yeryüzünü denetleyen farklı renklerde birkaç atı](/expl/content/seals/the-mystery-of-the-four-horse-men#df58) |
 | {{% bible val="Zekeriya:1,16" link="zec:1,16" lang="tr" %}} | ["Kentin ölçümü": Tanrı Yeruşalim'e yeniden merhamet göstermiştir](/expl/content/paradise/the-new-jerusalem#57fc) |
 | {{% bible val="Zekeriya:2,2" link="zec:2,2" lang="tr" %}} | ["Kentin ölçümü": kenti ölçer](/expl/content/paradise/the-new-jerusalem#57fc) |
