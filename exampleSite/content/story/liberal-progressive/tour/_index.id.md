@@ -93,6 +93,8 @@ Lalu pecahlah meterai yang menyingkapkan bukan pasukan melainkan sebuah mezbah -
 
 Langit sendiri menjawab berikutnya: matahari menjadi hitam, bulan menjadi darah, bintang-bintang berjatuhan seperti buah yang terguncang dari pohon, dan langit tergulung seperti gulungan kitab yang digulung. Dunia sudah tenggelam dalam apa yang didatangkannya atas dirinya sendiri, dan gereja berdiri di tengah puing-puing itu, ikut berseru.
 
+Pasal ini berakhir dengan pertanyaan yang diajukan orang-orang berkuasa sambil bersembunyi: *siapa yang dapat bertahan?* Jawabannya layak ditunggu, sebab bukan jawaban yang mereka duga — bukan yang kuat, melainkan mereka yang diinjak-injak.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Pasukan Allah (Pasal 7) {#army}
@@ -120,6 +122,8 @@ Perhatikan baik-baik apa yang sebenarnya dihantam setiap sangkakala, karena tida
 Mereka tidak menengadah. Bahkan ketika berhala-berhala mereka berbalik melawan mereka - bahkan ketika berhala-berhala yang sama itu merampas setiap sisa harapan, sampai belalang-belalang dari jurang maut menyiksa manusia begitu hebat sehingga kematian mulai terasa seperti kelegaan, dan mereka mencarinya namun tidak menemukannya - orang justru berpegang makin erat, bukan makin longgar. Itulah pengamatan paling berat dan paling jujur yang dibuat pasal ini: malapetaka saja tidak mempertobatkan siapa pun. Hati yang tertambat pada hal yang salah bisa menyaksikan berhala-berhalanya gagal lagi dan lagi dan tetap tidak berbalik, karena kehilangan apa yang kau sembah tidak otomatis mengajarimu menyembah sesuatu yang lain. Ia bisa dengan sama mudahnya mengajarimu meratapi berhala itu dan menuntut kembalinya.
 
 Penderitaan saja tidak pernah cukup untuk mengubah hati manusia. Sesuatu yang lain - sesuatu yang lebih dekat pada kasih, atau dukacita, atau sebuah kisah yang akhirnya memberi makna pada puing-puing itu - harus menjangkau seseorang sebelum kesukaran bisa meretakkan sesuatu hingga terbuka, alih-alih sekadar menggerusnya sampai habis.
+
+Kitab ini tampaknya menyadari hal itu tentang dirinya sendiri. Ia memutus rangkaian itu di sini dan melakukan sesuatu yang sama sekali lain — seorang malaikat, sebuah gulungan kecil, dan perintah untuk menelannya bulat-bulat.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

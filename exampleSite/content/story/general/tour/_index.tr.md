@@ -95,6 +95,8 @@ Sonra ordular değil bir sunak ortaya çıkaran mühür açılıyor - ve altınd
 
 Sonra gökyüzünün kendisi cevap veriyor: güneş kararıyor, ay kan rengine dönüyor, yıldızlar silkelenen bir ağaçtan düşen meyveler gibi dökülüyor, ve gökyüzü sarılan bir tomar gibi katlanıyor. Dünya çoktan kendi getirdiği felakette boğuluyor, ve kilise de enkazın tam ortasında durup haykırıyor.
 
+Bölümün bittiği soru — *kim ayakta durabilir?* — retorik değildir. Yedinci bölüm onu yanıtlar ve yanıt bir kalabalıktır.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" >}}
 
 ## Tanrı'nın ordusu (Bölüm 7) {#army}
@@ -114,6 +116,8 @@ Bundan sonra ne gelirse gelsin, bir şey şimdiden kesinleşti: hangi tarafta ol
 Yiyecek tükeniyor. Su acılaşıyor. Ticaret çöküyor. Güvenlik ortadan kalkıyor. Şimdi insanlar sonunda yukarı bakıp gerçek olanın ne olduğunu soracak mı?
 
 Sormuyorlar. Putları onlara karşı döndüğünde bile - o putlar son umut kırıntısını da alıp götürse, ölüm bir rahatlama gibi görünmeye başlasa bile - insanlar daha gevşek değil, daha sıkı tutunuyor. Acı çekmek tek başına hiçbir zaman bir insan yüreğini değiştirmeye yetmedi.
+
+İşte bu yüzden sırada sekizinci bir felaket yok. Sırada bir ses, küçük bir tomar ve onu yeme buyruğu var.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" >}}
 

@@ -106,6 +106,8 @@ Eğer tam bu noktada içinden, iyi bir Tanrı'nın bütün bunlara nasıl izin v
 
 Sonra gökyüzünün kendisi cevap veriyor: güneş kararıyor, ay kan rengine dönüyor, yıldızlar silkelenen bir ağaçtan düşen meyveler gibi dökülüyor, ve gökyüzü sarılan bir tomar gibi katlanıyor. Dünya çoktan kendi getirdiği felakette boğuluyor, ve kilise de enkazın tam ortasında durup haykırıyor.
 
+Burası bir soruyla biter — *kim ayakta durabilir?* — ve kitabı burada kapatmak içinden geçtiyse: durulmaması gereken tek sayfa tam da budur. Bir sonraki sayfa onu yanıtlıyor.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Tanrı'nın ordusu (Bölüm 7) {#army}
@@ -125,6 +127,8 @@ Bundan sonra ne gelirse gelsin, bir şey şimdiden kesinleşti: hangi tarafta ol
 Yiyecek tükeniyor. Su acılaşıyor. Ticaret çöküyor. Güvenlik ortadan kalkıyor. Şimdi insanlar sonunda yukarı bakıp gerçek olanın ne olduğunu soracak mı?
 
 Sormuyorlar. Putları onlara karşı döndüğünde bile - o putlar son umut kırıntısını da alıp götürse, ölüm bir rahatlama gibi görünmeye başlasa bile - insanlar daha gevşek değil, daha sıkı tutunuyor. Acı çekmek tek başına hiçbir zaman bir insan yüreğini değiştirmeye yetmedi.
+
+Bu kulağa karanlık geliyorsa, kitabın bununla ne yaptığına bak: borazan çalmayı bırakıyor. Sırada bir ses ve küçük bir tomar var — anlatı taktik değiştiriyor, çünkü zorlama zaten hiçbir zaman işe yaramayacaktı.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

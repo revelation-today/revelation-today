@@ -151,11 +151,13 @@ Penaklukan jadi perang. Perang jadi kelaparan. Kelaparan jadi kematian. Itulah r
 
 Meterai kelima: kali ini tanpa kuda. Sebuah mezbah, dan di bawahnya, jiwa-jiwa orang-orang yang dibunuh justru karena menolak memalsukan kesetiaan mereka. Dan mereka tidak diam-diam saja — mereka berseru, marah dan berduka sekaligus: berapa lama lagi, ya Allah, sampai Engkau membereskan ini? Jawabannya bukan yang mereka mau. Tunggu. Sebentar lagi saja.
 
-Meterai keenam: langit sendiri tidak sanggup lagi bertahan utuh. Matahari jadi hitam. Bulan berubah warna jadi darah. Bintang-bintang berjatuhan dari langit seperti buah yang diguncang keras dari dahannya. Langit tergulung seperti gulungan kitab yang ditutup untuk selamanya. Dunia sudah tenggelam dalam kehancuran yang dibangunnya sendiri — dan orang-orang yang tidak berbuat salah apa-apa ikut berdiri di tengah kehancuran itu, ikut berseru bersama semua orang. Berada di pihak yang benar tidak pernah jadi jaminan bahwa tidak akan ada yang sakit.
+Kalau kamu pernah berdoa untuk sesuatu yang penting dan tidak mendapat apa-apa selain *tunggu*, kamu baru saja menemukan kata-katamu sendiri di mulut orang-orang yang berdiri paling dekat dengan Allah di seluruh kitab ini. Itu bukan tanda imanmu gagal. Dan perhatikan: tidak ada yang menyuruh mereka berhenti bertanya — mereka justru diberi sesuatu untuk dipakai selama menunggu.
 
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
 
 ## Pasukan Allah (Psl. 7) {#army}
+
+Meterai keenam: langit sendiri tidak sanggup lagi bertahan utuh. Matahari jadi hitam. Bulan berubah warna jadi darah. Bintang-bintang berjatuhan dari langit seperti buah yang diguncang keras dari dahannya. Langit tergulung seperti gulungan kitab yang ditutup untuk selamanya. Dunia sudah tenggelam dalam kehancuran yang dibangunnya sendiri — dan orang-orang yang tidak berbuat salah apa-apa ikut berdiri di tengah kehancuran itu, ikut berseru bersama semua orang. Berada di pihak yang benar tidak pernah jadi jaminan bahwa tidak akan ada yang sakit.
 
 Tepat sebelum kekacauan meterai keenam sempat mendarat penuh, semuanya berhenti sejenak. Empat malaikat mencengkeram keempat angin bumi, menahan seluruh badai itu dengan paksa, dan malaikat kelima berseru: tunggu. Belum. Jangan sebelum kami menandai mereka.
 
@@ -180,6 +182,8 @@ Makanan gagal. Air berbalik melawan orang yang meminumnya. Perdagangan ambruk. S
 Ternyata tidak. Bahkan sambil menonton berhala-berhala mereka sendiri berbalik melawan mereka, bahkan saat berhala-berhala yang sama merenggut setiap serpihan harapan terakhir sampai mati mulai terasa lebih gampang daripada tetap hidup, orang-orang malah menggenggam makin erat, bukan melepas. Teksnya bilang terang-terangan: mereka tidak bertobat. Tidak satu tulah pun cukup untuk membelah hati yang sudah memutuskan di mana kesetiaannya tinggal.
 
 Itulah kebenaran pahit yang terkubur di dua pasal ini, dan layak direnungkan pelan-pelan: rasa sakit tidak otomatis menghasilkan iman. Jatuh sampai ke dasar tidak otomatis membangunkan siapa pun. Kamu mungkin sudah pernah melihat versi kecilnya — seseorang yang disakiti berulang-ulang justru oleh hal yang tidak mau ia lepaskan, dan malah makin nekat. Penderitaan bisa memecahkan hampir apa saja. Tapi ia tidak bisa memecahkan hati yang sudah menjatuhkan pilihannya.
+
+Justru karena itulah kitab ini berhenti meniup sangkakala. Yang muncul berikutnya bukan bencana yang lebih besar — melainkan sebuah gulungan, diserahkan, dengan perintah untuk memakannya. Ternyata hal yang benar-benar mengubah orang harus lebih dulu masuk ke dalam dirinya.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/teens/08-the-warnings-nobody-listens-to" >}}
 

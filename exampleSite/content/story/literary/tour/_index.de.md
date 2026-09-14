@@ -111,6 +111,8 @@ Sie tun es nicht. Rauch steigt auf aus dem Schacht des Abgrunds wie der Rauch ei
 
 Selbst als sich ihre Götzen gegen sie wenden - das Gold, das Silber, die Bronze, der Stein, das Holz, das weder sehen noch hören noch gehen kann -, selbst als diese Götzen ihnen jeden letzten Rest Hoffnung nehmen, bis der Tod wie Erleichterung erscheint, klammern sich die Menschen fester, nicht loser. Leid allein, so vollständig es auch sein mag, hat noch nie ausgereicht, ein Herz zu wandeln, das dem Falschen ergeben ist.
 
+Die Reihe hat sich in eine Ecke argumentiert, und das Buch weiß das. Was auf die siebte Posaune folgt, ist keine achte, sondern eine Unterbrechung – ein Engel, eine kleine Schriftrolle und der Befehl, sie zu verschlingen.
+
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 
 ## Die kleine Schriftrolle (Kap. 10) {#scroll}

@@ -99,6 +99,8 @@ Then the fifth seal breaks, and it reveals not armies but an altar — and under
 
 The sky itself answers next, and you feel it happen above your own head: the sun goes black, the moon turns to blood, the stars fall like fruit shaken loose from a tree, and the sky peels back like a scroll being rolled up right over you. The world is already drowning in what it has brought on itself, and you are standing in the middle of the wreckage, crying out too.
 
+And the question everyone is screaming — *who can stand?* — is about to be answered right in front of you. Keep watching. You are going to be in the answer.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## The army of God (Ch. 7) {#army}
@@ -122,6 +124,8 @@ Food fails in front of you. Water turns bitter — you watch people bend down an
 They do not.
 
 Watch it happen, right in front of you, and feel how it stings: even as their idols turn on them — even as those very idols strip away every last shred of hope, until death itself starts to look like relief and people search for it and cannot find it — people cling tighter to what is killing them, not looser. Suffering alone has never been enough to change a human heart, and you are watching that truth play out in real time, right now, in front of your own eyes.
+
+But do not look away yet. What comes next is not another blast. It is a scroll put into your hand and a voice telling you to eat it — because the thing that finally changes a heart has to get inside a person first.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

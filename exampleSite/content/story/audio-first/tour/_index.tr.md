@@ -94,6 +94,8 @@ Sonra bir mühür açılıyor ve ordular değil, bir sunak ortaya çıkıyor. Al
 
 Sonra gökyüzünün kendisi cevap veriyor. Güneş kararıyor. Ay kan rengine dönüyor. Yıldızlar, silkelenen bir ağaçtan düşen meyveler gibi dökülüyor. Gökyüzü, sarılan bir tomar gibi katlanıyor. Dünya çoktan kendi getirdiği felakette boğuluyor, ve kilise de enkazın tam ortasında durup haykırıyor.
 
+Kim ayakta durabilir? Dinlemeye devam et. Yuhanna'nın gördüğü bir sonraki şey bu sorunun yanıtıdır — ve yanıt, kimsenin sayamayacağı bir kalabalıktır.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Tanrı'nın ordusu (Bölüm 7) {#army}
@@ -113,6 +115,8 @@ Bundan sonra ne gelirse gelsin, bir şey şimdiden kesin: hangi tarafta olduğun
 Yiyecek tükeniyor. Su acılaşıyor. Ticaret çöküyor. Güvenlik ortadan kalkıyor. Şimdi insanlar sonunda yukarı bakıp gerçek olanın ne olduğunu soracak mı?
 
 Sormuyorlar. Putları onlara karşı dönüyor. O aynı putlar son umut kırıntısını da alıp götürüyor, ta ki ölüm bir rahatlama gibi görünmeye başlayana kadar. Ve insanlar yine de daha gevşek değil, daha sıkı tutunuyor. Acı çekmek tek başına hiçbir zaman bir insan yüreğini değiştirmeye yetmedi.
+
+Öyleyse başka bir şeyin gelmesi gerekir. Dinlemeye devam et — bir sonraki bölümde geliyor ve tek elle tutulacak kadar küçük.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

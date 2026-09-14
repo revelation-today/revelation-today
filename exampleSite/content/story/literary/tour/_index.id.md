@@ -113,6 +113,8 @@ Mereka tidak bertanya. Asap naik dari lubang jurang maut seperti asap dapur pele
 
 Bahkan ketika berhala-berhala mereka berbalik melawan mereka - emas, perak, tembaga, batu, kayu yang tidak dapat melihat, tidak dapat mendengar, tidak dapat berjalan - bahkan ketika berhala-berhala itu merenggutkan setiap serpih pengharapan sampai maut mulai tampak seperti kelegaan, manusia berpaut semakin erat, bukan semakin longgar. Penderitaan semata-mata, betapapun menyeluruhnya, belum pernah cukup untuk mengubah hati manusia yang telah condong kepada perkara yang salah.
 
+Rangkaian ini telah berargumen sampai terpojok, dan kitab ini menyadarinya. Yang menyusul sangkakala ketujuh bukanlah sangkakala kedelapan, melainkan sebuah interupsi — seorang malaikat, sebuah gulungan kecil, dan perintah untuk menelannya.
+
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 
 ## Gulungan kitab kecil itu (Pasal 10) {#scroll}

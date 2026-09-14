@@ -106,6 +106,8 @@ If this is the point where you're tempted to ask how a good God allows any of th
 
 The sky itself answers next: the sun goes black, the moon turns to blood, the stars fall like fruit shaken from a tree, and the sky peels back like a scroll being rolled up. The world is already drowning in what it has brought on itself, and the Church stands in the middle of the wreckage, crying out too.
 
+It ends on a question — *who can stand?* — and if you are tempted to close the book here, this is the one page not to stop on. The next one answers it.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## The army of God (Ch. 7) {#army}
@@ -125,6 +127,8 @@ Now it is the Church's turn to shake the world - not with weapons, but the way J
 Food fails. Water turns bitter. Trade collapses. Security disappears. Surely now people will finally look up and ask what is real?
 
 They do not. Even as their idols turn on them - even as those same idols strip away every last shred of hope, until death starts to look like relief - people cling tighter, not looser. Suffering alone has never been enough to change a human heart.
+
+If that sounds bleak, notice what the book does with it: it stops blowing trumpets. What comes next is a voice and a small scroll — the story changes tactic, because force was never going to work.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

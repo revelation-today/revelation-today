@@ -161,6 +161,8 @@ this story.
 The sixth seal shakes everything loose, and kings, generals, the rich and slaves alike hide
 and ask: *who can stand?* The book lets the question hang.
 
+For exactly one page.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## The army of God (Ch. 7) {#army}

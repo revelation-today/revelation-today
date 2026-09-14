@@ -99,6 +99,8 @@ Dann bricht das fünfte Siegel, und es zeigt keine Heere, sondern einen Altar - 
 
 Der Himmel selbst antwortet als Nächstes, und du fühlst es über deinem eigenen Kopf geschehen: Die Sonne wird schwarz, der Mond wird wie Blut, die Sterne fallen wie Früchte, die von einem Baum geschüttelt werden, und der Himmel rollt sich direkt über dir zusammen wie eine Schriftrolle. Die Welt ertrinkt bereits in dem, was sie sich selbst zugefügt hat, und du stehst mitten in den Trümmern und schreist ebenfalls.
 
+Und die Frage, die alle herausschreien – *wer kann bestehen?* –, wird gleich vor deinen Augen beantwortet. Schau weiter hin. Du wirst in dieser Antwort vorkommen.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Die Armee Gottes (Kapitel 7) {#army}
@@ -122,6 +124,8 @@ Nahrung versagt vor deinen Augen. Wasser wird bitter - du siehst Menschen sich b
 Sie tun es nicht.
 
 Sieh zu, wie es geschieht, direkt vor dir, und fühl, wie es sticht: Selbst als sich ihre Götzen gegen sie wenden - selbst als genau diese Götzen ihnen den letzten Rest Hoffnung nehmen, bis der Tod selbst wie eine Erleichterung erscheint und die Menschen ihn suchen und nicht finden können -, klammern sich die Menschen fester an das, was sie tötet, nicht loser. Leid allein hat noch nie ausgereicht, um ein menschliches Herz zu verändern, und du siehst zu, wie sich diese Wahrheit in Echtzeit abspielt, jetzt gerade, vor deinen eigenen Augen.
+
+Aber schau jetzt nicht weg. Was als Nächstes kommt, ist kein weiterer Stoß. Es ist eine Schriftrolle, die dir in die Hand gelegt wird, und eine Stimme, die sagt: Iss sie – denn was ein Herz am Ende verändert, muss zuerst in den Menschen hinein.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

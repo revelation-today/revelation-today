@@ -99,6 +99,8 @@ Sonra beşinci mühür kırılıyor ve ortaya ordular değil, bir sunak çıkıy
 
 Bir sonraki cevabı göğün kendisi veriyor, ve bunun tam kendi başının üzerinde oluşunu hissediyorsun: güneş kararıyor, ay kana dönüyor, yıldızlar ağaçtan silkelenmiş meyveler gibi düşüyor ve gök, tam üzerinde dürülen bir tomar gibi kıvrılıp açılıyor. Dünya kendi başına getirdiği şeyin içinde çoktan boğuluyor, ve sen enkazın tam ortasında duruyorsun - sen de haykırarak.
 
+Ve herkesin haykırdığı soru — *kim ayakta durabilir?* — birazdan tam gözünün önünde yanıtlanacak. Bakmaya devam et. O yanıtın içinde sen de olacaksın.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Tanrı'nın ordusu (Bölüm 7) {#army}
@@ -122,6 +124,8 @@ Yiyecek gözlerinin önünde tükeniyor. Su acılaşıyor - insanların eğilip 
 Sormuyorlar.
 
 Olanları izle, tam gözlerinin önünde, ve bunun nasıl acıttığını hisset: putları kendilerine sırt çevirirken bile - o putlar umudun son kırıntısını da söküp alırken bile, ölümün kendisi bir kurtuluş gibi görünmeye başlayana ve insanlar onu arayıp bulamayana kadar - insanlar kendilerini öldüren şeye daha gevşek değil, daha sıkı sarılıyorlar. Acı çekmek tek başına hiçbir zaman bir insan yüreğini değiştirmeye yetmedi, ve sen bu gerçeğin gerçek zamanlı olarak, tam şu anda, kendi gözlerinin önünde sahnelenişini izliyorsun.
+
+Ama henüz başını çevirme. Sırada bir üfleme daha yok. Sırada eline verilen bir tomar ve onu ye diyen bir ses var — çünkü bir yüreği sonunda değiştiren şeyin önce insanın içine girmesi gerekir.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

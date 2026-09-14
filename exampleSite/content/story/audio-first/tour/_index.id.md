@@ -94,6 +94,8 @@ Lalu sebuah meterai terbuka dan menyingkapkan bukan pasukan, melainkan sebuah me
 
 Berikutnya langit sendiri yang menjawab. Matahari menjadi hitam. Bulan berubah seperti darah. Bintang-bintang berjatuhan seperti buah yang diguncang dari pohonnya. Langit tergulung seperti gulungan kitab yang digulung. Dunia sudah tenggelam dalam apa yang didatangkannya atas dirinya sendiri, dan gereja berdiri di tengah puing-puing itu, ikut berseru juga.
 
+Siapa yang dapat bertahan? Teruslah menyimak. Hal berikutnya yang dilihat Yohanes adalah jawabannya — dan jawaban itu berupa kumpulan orang yang tak terhitung banyaknya.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Pasukan Allah (Pasal 7) {#army}
@@ -113,6 +115,8 @@ Sekarang giliran gereja mengguncang dunia. Bukan dengan senjata, melainkan denga
 Makanan gagal. Air menjadi pahit. Perdagangan runtuh. Rasa aman lenyap. Pastilah sekarang orang-orang akhirnya akan menengadah dan bertanya apa yang sejati?
 
 Ternyata tidak. Berhala-berhala mereka berbalik melawan mereka. Berhala-berhala yang sama itu merampas setiap sisa harapan, sampai kematian mulai terasa seperti kelegaan. Namun orang-orang malah berpegang makin erat, bukan makin longgar. Penderitaan saja tidak pernah cukup untuk mengubah hati manusia.
+
+Jadi sesuatu yang lain harus datang. Teruslah menyimak — ia tiba di pasal berikutnya, dan ukurannya cukup kecil untuk digenggam satu tangan.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

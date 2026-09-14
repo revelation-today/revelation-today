@@ -79,6 +79,8 @@ Lalu materai berikutnya patah - bukan menampakkan pasukan, melainkan sebuah mezb
 
 Langit sendiri menjawab berikutnya: matahari menjadi hitam, bulan menjadi seperti darah, bintang-bintang berjatuhan seperti buah dari pohon yang digoncang, dan langit menggulung dirinya seperti gulungan kitab. Dunia sudah tenggelam dalam akibat perbuatannya sendiri, dan gereja berdiri di tengah reruntuhan itu, ikut berteriak juga.
 
+Pertanyaan yang mengakhiri pasal ini — *siapa yang dapat bertahan?* — bukan pertanyaan retoris. Pasal tujuh menjawabnya, dan jawabannya adalah sekumpulan besar orang.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Pasukan Allah (Pasal 7) {#army}
@@ -98,6 +100,8 @@ Sekarang giliran gereja untuk mengguncang dunia - bukan dengan senjata, melainka
 Pangan gagal. Air menjadi pahit. Perdagangan runtuh. Rasa aman lenyap. Akankah manusia akhirnya mendongak dan bertanya apa yang sungguh-sungguh berarti?
 
 Tidak. Bahkan ketika berhala-berhala mereka berbalik melawan mereka - bahkan ketika berhala-berhala yang sama itu merampas sisa harapan terakhir mereka, sampai kematian tampak seperti kelegaan -, manusia justru berpegang makin erat, bukan makin longgar. Penderitaan saja tidak pernah cukup untuk mengubah hati manusia.
+
+Itulah sebabnya hal berikutnya yang datang bukanlah bencana kedelapan. Yang datang adalah sebuah suara, sebuah gulungan kecil, dan perintah untuk memakannya.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

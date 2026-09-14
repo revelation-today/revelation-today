@@ -94,6 +94,8 @@ Dann bricht ein Siegel, das keine Heere zeigt, sondern einen Altar. Darunter sin
 
 Der Himmel selbst antwortet als Nächstes. Die Sonne wird schwarz. Der Mond wird wie Blut. Die Sterne fallen wie Früchte von einem geschüttelten Baum. Der Himmel rollt sich zusammen wie eine Schriftrolle. Die Welt ertrinkt bereits in dem, was sie sich selbst zugefügt hat, und die Gemeinde steht mitten in den Trümmern und schreit ebenfalls.
 
+Wer kann bestehen? Hör weiter. Das Nächste, was Johannes sieht, ist die Antwort – und sie ist eine Menge, die niemand zählen kann.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Die Armee Gottes (Kapitel 7) {#army}
@@ -113,6 +115,8 @@ Jetzt ist es an der Gemeinde, die Welt zu erschüttern. Nicht mit Waffen, sonder
 Nahrung versagt. Wasser wird bitter. Handel bricht zusammen. Sicherheit verschwindet. Werden die Menschen jetzt endlich aufschauen und fragen, was wirklich zählt?
 
 Nein. Ihre Götzen wenden sich gegen sie. Dieselben Götzen nehmen ihnen den letzten Rest Hoffnung, bis der Tod wie eine Erleichterung erscheint. Und trotzdem klammern sich die Menschen fester, nicht loser. Leid allein hat noch nie ausgereicht, um ein menschliches Herz zu verändern.
+
+Also muss etwas anderes kommen. Hör weiter – es kommt im nächsten Kapitel, und es ist klein genug für eine Hand.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

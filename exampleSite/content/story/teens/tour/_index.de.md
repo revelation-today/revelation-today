@@ -151,11 +151,13 @@ Eroberung wird zu Krieg. Krieg wird zu Hunger. Hunger wird zu Tod. Das ist die K
 
 Fünftes Siegel: kein Pferd diesmal. Ein Altar, und darunter die Seelen von Leuten, die genau deswegen getötet wurden, weil sie sich weigerten, ihre Loyalität vorzutäuschen. Sie schweigen auch nicht dazu - sie schreien, gleichzeitig wütend und trauernd: Wie lange noch, Gott, bis du das hier klärst? Die Antwort ist nicht die, die sie hören wollen. Warten. Nur noch ein bisschen.
 
-Sechstes Siegel: Der Himmel selbst hält nicht mehr zusammen. Die Sonne wird schwarz. Der Mond wird blutrot. Sterne fallen vom Himmel wie Früchte, die hart von einem Ast geschüttelt werden. Der Himmel rollt sich zusammen wie eine Schriftrolle, die endgültig zugerollt wird. Die Welt ertrinkt bereits in den Trümmern, die sie sich selbst gebaut hat - und die Leute, die nichts falsch gemacht haben, stehen genau in diesen Trümmern mit drin und schreien gleich mit allen anderen. Auf der richtigen Seite zu stehen, war nie ein Versprechen, dass nichts wehtut.
+Wenn du je um etwas gebetet hast, das dir wichtig war, und nichts zurückbekommen hast außer *warte* – dann hast du gerade deine eigenen Worte im Mund derer gefunden, die in diesem ganzen Buch am dichtesten bei Gott stehen. Das ist kein Scheitern deines Glaubens. Und beachte: Niemand sagt ihnen, sie sollen aufhören zu fragen – sie bekommen etwas zum Anziehen für die Wartezeit.
 
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
 
 ## Die Armee Gottes (Kapitel 7) {#army}
+
+Sechstes Siegel: Der Himmel selbst hält nicht mehr zusammen. Die Sonne wird schwarz. Der Mond wird blutrot. Sterne fallen vom Himmel wie Früchte, die hart von einem Ast geschüttelt werden. Der Himmel rollt sich zusammen wie eine Schriftrolle, die endgültig zugerollt wird. Die Welt ertrinkt bereits in den Trümmern, die sie sich selbst gebaut hat - und die Leute, die nichts falsch gemacht haben, stehen genau in diesen Trümmern mit drin und schreien gleich mit allen anderen. Auf der richtigen Seite zu stehen, war nie ein Versprechen, dass nichts wehtut.
 
 Kurz bevor das Chaos des sechsten Siegels fertig landen kann, hält alles inne. Vier Engel halten die vier Winde der Erde fest, mit Gewalt zurückgehalten, der ganze Sturm auf Pause, und ein fünfter Engel ruft: Wartet. Noch nicht. Nicht bevor wir sie markiert haben.
 
@@ -180,6 +182,8 @@ Nahrung versagt. Wasser wendet sich gegen die Leute, die es trinken. Handel bric
 Ist er nicht. Selbst während sie zusehen, wie ihre eigenen Götzen sich gegen sie wenden, selbst während dieselben Götzen ihnen den letzten Rest Hoffnung nehmen, bis Sterben leichter aussieht als Weiterleben, klammern sich Menschen fester, statt loszulassen. Der Text sagt es klipp und klar: Sie taten nicht Buße. Keine einzige Plage reichte, um ein Herz aufzubrechen, das sich schon entschieden hatte, wo seine Loyalität liegt.
 
 Das ist die harte Wahrheit, die in diesen zwei Kapiteln steckt, und es lohnt sich, dabei zu verweilen: Schmerz erzeugt nicht automatisch Glauben. Am Boden zu sein, weckt nicht automatisch irgendjemanden auf. Du hast wahrscheinlich schon eine kleinere Version davon gesehen - jemand, der immer wieder von genau der Sache verletzt wird, die er nicht loslassen will, und trotzdem erst recht weitermacht. Leid kann fast alles aufbrechen. Es kann kein Herz aufbrechen, das seine Entscheidung schon getroffen hat.
+
+Genau deshalb hört das Buch auf zu posaunen. Was als Nächstes auftaucht, ist keine größere Katastrophe – es ist eine Schriftrolle, die dir hingehalten wird, mit der Anweisung, sie zu essen. Offenbar muss das, was Menschen wirklich verändert, erst einmal in sie hinein.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/teens/08-the-warnings-nobody-listens-to" >}}
 

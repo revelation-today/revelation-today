@@ -174,11 +174,13 @@ Conquest becomes war. War becomes famine. Famine becomes death. That's the chain
 
 Fifth seal: no horse this time. An altar, and underneath it, the souls of people who were killed specifically for refusing to fake their loyalty. They're not silent about it either — they're crying out, furious and grieving at once: how long, God, until you deal with this? The answer isn't the one they want. Wait. Just a little longer.
 
-Sixth seal: the sky itself can't hold together anymore. The sun goes black. The moon turns the color of blood. Stars drop out of the sky like fruit shaken hard off a branch. The sky peels back like a scroll being rolled shut for good. The world is already drowning in the wreckage it built for itself — and the people who did nothing wrong are standing in that wreckage too, crying out right alongside everyone else. Being on the right side was never a promise that nothing would hurt.
+If you've ever prayed about something that mattered and got back nothing but *wait*, you just found your own words in the mouths of the people standing closest to God in this entire book. That isn't you failing at faith. And notice nobody tells them to stop asking — they get given something to wear while they wait.
 
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
 
 ## The army of God (Ch. 7) {#army}
+
+Sixth seal: the sky itself can't hold together anymore. The sun goes black. The moon turns the color of blood. Stars drop out of the sky like fruit shaken hard off a branch. The sky peels back like a scroll being rolled shut for good. The world is already drowning in the wreckage it built for itself — and the people who did nothing wrong are standing in that wreckage too, crying out right alongside everyone else. Being on the right side was never a promise that nothing would hurt.
 
 Right before the sixth seal's chaos gets to finish landing, everything pauses. Four angels are gripping the four winds of the earth, holding the whole storm back by force, and a fifth angel calls out: wait. Not yet. Not until we've marked them.
 
@@ -203,6 +205,8 @@ Food fails. Water turns against the people who drink it. Trade breaks down. Ever
 They don't. Even watching their own idols turn on them, even as those same idols strip away every last scrap of hope until dying starts to look easier than staying alive, people grip tighter instead of letting go. The text says it plainly: they did not repent. Not one plague was enough to crack open a heart that had already decided where its loyalty lived.
 
 That's the hard truth buried in these two chapters, and it's worth sitting with: pain doesn't automatically produce faith. Hitting bottom doesn't automatically wake anyone up. You've probably already seen a smaller version of this — someone getting hurt over and over by the exact thing they won't let go of, and doubling down anyway. Suffering can crack open almost anything. It cannot crack open a heart that has already made its choice.
+
+Which is exactly why the book stops blowing trumpets. What shows up next isn't a bigger disaster — it's a scroll, handed over, with instructions to eat it. Turns out the thing that actually changes people has to get inside them first.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/teens/08-the-warnings-nobody-listens-to" >}}
 

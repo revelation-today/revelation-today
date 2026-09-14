@@ -93,6 +93,8 @@ Dann bricht das Siegel, das keine Heere zeigt, sondern einen Altar - und darunte
 
 Der Himmel selbst antwortet als Nächstes: Die Sonne wird schwarz, der Mond wird wie Blut, die Sterne fallen wie Früchte von einem geschüttelten Baum, und der Himmel rollt sich zusammen wie eine Schriftrolle. Die Welt ertrinkt bereits in dem, was sie sich selbst zugefügt hat, und die Gemeinde steht mitten in den Trümmern und schreit ebenfalls.
 
+Das Kapitel endet mit einer Frage, die die Mächtigen aus ihrem Versteck heraus stellen: *Wer kann bestehen?* Es lohnt sich, auf die Antwort zu warten, denn sie ist nicht die erwartete – nicht die Starken, sondern die Niedergetretenen.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Die Armee Gottes (Kapitel 7) {#army}
@@ -120,6 +122,8 @@ Sieh genau hin, was jede Posaune eigentlich trifft, denn nichts davon ist zufäl
 Sie schauen nicht auf. Selbst als sich ihre Götzen gegen sie wenden - selbst als dieselben Götzen ihnen den letzten Rest Hoffnung nehmen, bis die Heuschrecken aus dem Abgrund die Menschen so quälen, dass der Tod wie eine Erleichterung erscheint und sie ihn suchen und nicht finden -, klammern sich die Menschen noch fester, nicht loser. Das ist die härteste, ehrlichste Beobachtung dieses Kapitels: Katastrophen allein bekehren niemanden. Ein Herz, das auf das Falsche gesetzt ist, kann zusehen, wie seine Götzen wieder und wieder versagen, und sich trotzdem nicht abwenden - denn zu verlieren, was man anbetet, lehrt einen nicht automatisch, etwas anderes anzubeten. Es kann einen genauso gut lehren, um den Götzen zu trauern und seine Rückkehr zu fordern.
 
 Leid allein hat noch nie ausgereicht, um ein menschliches Herz zu verändern. Etwas anderes - etwas, das der Liebe näher ist, oder der Trauer, oder einer Geschichte, die den Trümmern endlich einen Sinn gibt - muss einen Menschen erreichen, bevor Not irgendetwas aufbrechen kann, statt es bloß zu zermahlen.
+
+Das Buch scheint das von sich selbst zu wissen. Es bricht die Reihe hier ab und tut etwas ganz anderes – ein Engel, eine kleine Schriftrolle und der Befehl, sie ganz zu verschlingen.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

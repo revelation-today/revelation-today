@@ -113,6 +113,8 @@ Sormazlar. Dipsiz derinliklerin kuyusundan büyük bir ocağın dumanı gibi dum
 
 Putları kendilerine dönerken bile - ne gören, ne işiten, ne yürüyen altın, gümüş, tunç, taş ve tahta - o putlar son umut kırıntısını da soyup ölüm bir kurtuluş gibi görünmeye başlarken bile, insanlar daha gevşek değil, daha sıkı sarılır. Acı, ne kadar mutlak olursa olsun, yanlış şeye kilitlenmiş bir insan yüreğini değiştirmeye tek başına henüz hiç yetmedi.
 
+Dizi kendini bir köşeye sıkıştırdı ve kitap bunun farkında. Yedinci borazanın ardından gelen sekizinci bir borazan değil, bir kesintidir — bir melek, küçük bir tomar ve onu yutma buyruğu.
+
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 
 ## Küçük tomar (Bölüm 10) {#scroll}

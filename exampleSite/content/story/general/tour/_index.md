@@ -93,6 +93,8 @@ Then the seal breaks that reveals not armies but an altar - and under it, the so
 
 The sky itself answers next: the sun goes black, the moon turns to blood, the stars fall like fruit shaken from a tree, and the sky peels back like a scroll being rolled up. The world is already drowning in what it has brought on itself, and the Church stands in the middle of the wreckage, crying out too.
 
+The question the chapter ends on — *who can stand?* — is not rhetorical. Chapter seven answers it, and the answer is a crowd.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## The army of God (Ch. 7) {#army}
@@ -112,6 +114,8 @@ Now it is the Church's turn to shake the world - not with weapons, but the way J
 Food fails. Water turns bitter. Trade collapses. Security disappears. Surely now people will finally look up and ask what is real?
 
 They do not. Even as their idols turn on them - even as those same idols strip away every last shred of hope, until death starts to look like relief - people cling tighter, not looser. Suffering alone has never been enough to change a human heart.
+
+Which is why the next thing to arrive is not an eighth disaster. It is a voice, a small scroll, and an instruction to eat it.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

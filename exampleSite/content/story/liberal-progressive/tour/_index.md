@@ -93,6 +93,8 @@ Then the seal breaks that reveals not armies but an altar - and under it, the so
 
 The sky itself answers next: the sun goes black, the moon turns to blood, the stars fall like fruit shaken from a tree, and the sky peels back like a scroll being rolled up. The world is already drowning in what it has brought on itself, and the Church stands in the middle of the wreckage, crying out too.
 
+The chapter ends on a question the powerful ask while hiding: *who can stand?* It is worth staying for the answer, because it is not the one they expect — not the strong, but the ones who were trampled.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## The army of God (Ch. 7) {#army}
@@ -120,6 +122,8 @@ Look carefully at what each trumpet actually strikes, because none of it is rand
 They do not look up. Even as their idols turn on them - even as those same idols strip away every last shred of hope, until the locusts from the pit torment people so badly that death starts to look like relief, and they seek it and cannot find it - people cling tighter, not looser. That is the hardest, most honest observation this chapter makes: catastrophe alone does not convert anyone. A heart set on the wrong thing can watch its idols fail again and again and still not turn, because losing what you worship does not automatically teach you to worship something else. It can just as easily teach you to grieve the idol and demand its return.
 
 Suffering alone has never been enough to change a human heart. Something else - something closer to love, or grief, or a story that finally makes sense of the wreckage - has to reach a person before hardship can crack anything open rather than simply grinding it down.
+
+The book seems to know this about itself. It breaks off the sequence here and does something else entirely — an angel, a small scroll, and a command to swallow it whole.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

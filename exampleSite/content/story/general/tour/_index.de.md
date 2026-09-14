@@ -95,6 +95,8 @@ Dann bricht das Siegel, das keine Heere zeigt, sondern einen Altar - und darunte
 
 Der Himmel selbst antwortet als Nächstes: Die Sonne wird schwarz, der Mond wird wie Blut, die Sterne fallen wie Früchte von einem geschüttelten Baum, und der Himmel rollt sich zusammen wie eine Schriftrolle. Die Welt ertrinkt bereits in dem, was sie sich selbst zugefügt hat, und die Gemeinde steht mitten in den Trümmern und schreit ebenfalls.
 
+Die Frage, mit der das Kapitel endet – *wer kann bestehen?* –, ist keine rhetorische. Kapitel sieben beantwortet sie, und die Antwort ist eine Menschenmenge.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Die Armee Gottes (Kapitel 7) {#army}
@@ -114,6 +116,8 @@ Jetzt ist es an der Gemeinde, die Welt zu erschüttern - nicht mit Waffen, sonde
 Nahrung versagt. Wasser wird bitter. Handel bricht zusammen. Sicherheit verschwindet. Werden die Menschen jetzt endlich aufschauen und fragen, was wirklich zählt?
 
 Nein. Selbst als sich ihre Götzen gegen sie wenden - selbst als dieselben Götzen ihnen den letzten Rest Hoffnung nehmen, bis der Tod wie eine Erleichterung erscheint -, klammern sich die Menschen noch fester, nicht loser. Leid allein hat noch nie ausgereicht, um ein menschliches Herz zu verändern.
+
+Deshalb ist das Nächste, was kommt, keine achte Katastrophe. Es ist eine Stimme, eine kleine Schriftrolle und die Anweisung, sie zu essen.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

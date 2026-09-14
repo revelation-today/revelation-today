@@ -155,6 +155,8 @@ atmıyor.
 Altıncı mühür her şeyi sarsar ve krallar, komutanlar, zenginler ve köleler saklanıp sorar: *kim
 ayakta durabilir?* Kitap soruyu havada bırakır.
 
+Tam bir sayfa boyunca.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Tanrı'nın ordusu (Vah. 7) {#army}

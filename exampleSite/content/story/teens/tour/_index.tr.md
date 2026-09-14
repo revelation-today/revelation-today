@@ -151,11 +151,13 @@ Fetih savaşa dönüşüyor. Savaş kıtlığa. Kıtlık ölüme. Zincir bu, ve 
 
 Beşinci mühür: bu sefer at yok. Bir sunak, ve altında, tam olarak sadakatlerini sahtelemeyi reddettikleri için öldürülmüş insanların ruhları. Sessiz de değiller — haykırıyorlar, aynı anda hem öfkeli hem yaslı: ne zamana kadar, Tanrım, bununla ne zaman hesaplaşacaksın? Cevap, istedikleri cevap değil. Bekleyin. Sadece biraz daha.
 
-Altıncı mühür: gökyüzünün kendisi artık bir arada duramıyor. Güneş kararıyor. Ay kan rengine dönüyor. Yıldızlar, sertçe silkelenen bir daldan dökülen meyveler gibi gökten düşüyor. Gökyüzü, temelli kapatılan bir tomar gibi geri kıvrılıyor. Dünya, kendi kendine kurduğu enkazda çoktan boğuluyor — ve hiçbir şey yapmamış insanlar da o enkazın içinde duruyor, herkesle birlikte onlar da haykırıyor. Doğru tarafta olmak, hiçbir şeyin acıtmayacağının sözü değildi hiçbir zaman.
+Senin için önemli bir şey uğruna dua edip *bekle*den başka bir karşılık almadıysan, kendi sözlerini bu kitapta Tanrı'ya en yakın duran insanların ağzında bulmuş oldun. Bu, imanının çökmesi değil. Ve dikkat et: kimse onlara sormayı bırakın demiyor — beklerken giymeleri için bir şey veriliyor.
 
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb" >}}
 
 ## Tanrı'nın ordusu (Bölüm 7) {#army}
+
+Altıncı mühür: gökyüzünün kendisi artık bir arada duramıyor. Güneş kararıyor. Ay kan rengine dönüyor. Yıldızlar, sertçe silkelenen bir daldan dökülen meyveler gibi gökten düşüyor. Gökyüzü, temelli kapatılan bir tomar gibi geri kıvrılıyor. Dünya, kendi kendine kurduğu enkazda çoktan boğuluyor — ve hiçbir şey yapmamış insanlar da o enkazın içinde duruyor, herkesle birlikte onlar da haykırıyor. Doğru tarafta olmak, hiçbir şeyin acıtmayacağının sözü değildi hiçbir zaman.
 
 Altıncı mührün kaosu tam yere inmeden hemen önce, her şey duruyor. Dört melek dünyanın dört rüzgarını kavramış, bütün fırtınayı zorla geride tutuyor, ve beşinci bir melek sesleniyor: durun. Henüz değil. Onları işaretlemeden olmaz.
 
@@ -180,6 +182,8 @@ Yiyecek tükeniyor. Su, onu içenlere karşı dönüyor. Ticaret çöküyor. Her
 Sormuyorlar. Kendi putlarının onlara sırt çevirmesini izlerken bile, o aynı putlar son umut kırıntısını da söküp alıp ölmek yaşamaktan kolay görünmeye başlarken bile, insanlar bırakmak yerine daha sıkı tutunuyor. Metin bunu açıkça söylüyor: tövbe etmediler. Tek bir bela bile, sadakatinin nerede yaşadığına çoktan karar vermiş bir kalbi çatlatmaya yetmedi.
 
 Bu iki bölümün içine gömülü acı gerçek bu, ve üzerinde durmaya değer: acı, otomatik olarak iman üretmez. Dibi görmek, kimseyi otomatik olarak uyandırmaz. Bunun daha küçük bir versiyonunu muhtemelen zaten görmüşsündür — birinin, bırakmayı reddettiği şey tarafından tekrar tekrar incitilip yine de daha da yüklenmesini. Acı çekmek neredeyse her şeyi çatlatabilir. Seçimini çoktan yapmış bir kalbi çatlatamaz.
+
+İşte tam bu yüzden kitap borazan çalmayı bırakıyor. Sırada daha büyük bir felaket yok — uzatılan bir tomar ve onu ye diyen bir buyruk var. Anlaşılan insanları gerçekten değiştiren şeyin önce onların içine girmesi gerekiyor.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/teens/08-the-warnings-nobody-listens-to" >}}
 

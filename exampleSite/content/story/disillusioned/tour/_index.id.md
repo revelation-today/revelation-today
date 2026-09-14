@@ -176,6 +176,8 @@ Meterai keenam mengguncang segalanya, dan raja, panglima, orang kaya dan hamba s
 bersembunyi dan bertanya: *siapa yang dapat bertahan?* Kitab ini membiarkan pertanyaan itu
 menggantung.
 
+Tepat satu halaman lamanya.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Pasukan Allah (Why. 7) {#army}

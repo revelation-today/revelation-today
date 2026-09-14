@@ -93,6 +93,8 @@ Sonra ordular değil bir sunak açığa çıkaran mühür kırılıyor - ve alt�
 
 Sırada göğün kendisi cevap veriyor: güneş kararıyor, ay kana dönüyor, yıldızlar ağaçtan silkelenen meyveler gibi düşüyor, ve gök, sarılan bir tomar gibi geriye kıvrılıyor. Dünya, kendi başına açtığı şeyin içinde çoktan boğuluyor - ve Kilise, enkazın ortasında durmuş, o da haykırıyor.
 
+Bölüm, güçlülerin saklanırken sorduğu bir soruyla biter: *kim ayakta durabilir?* Yanıtı beklemeye değer, çünkü bekledikleri yanıt değildir — güçlüler değil, ezilenler.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Tanrı'nın ordusu (Bölüm 7) {#army}
@@ -120,6 +122,8 @@ Her borazanın gerçekte neyi vurduğuna dikkatle bak, çünkü hiçbiri rastgel
 Başlarını kaldırmıyorlar. Putları kendilerine sırt çevirirken bile - o aynı putlar son umut kırıntısını da söküp alırken bile; ta ki dipsiz kuyudan çıkan çekirgeler insanlara öyle işkence edene kadar ki, ölüm bir kurtuluş gibi görünmeye başlıyor, ve onu arıyorlar ama bulamıyorlar - insanlar daha gevşek değil, daha sıkı tutunuyor. Bu bölümün yaptığı en zor, en dürüst gözlem işte bu: felaket tek başına kimseyi döndürmez. Yanlış şeye bağlanmış bir yürek, putlarının tekrar tekrar iflas edişini izleyip yine de dönmeyebilir - çünkü taptığın şeyi kaybetmek, sana kendiliğinden başka bir şeye tapmayı öğretmez. Pekâlâ sana putun yasını tutmayı ve geri gelmesini talep etmeyi de öğretebilir.
 
 Acı çekmek, tek başına, bir insan yüreğini değiştirmeye hiçbir zaman yetmedi. Başka bir şeyin - sevgiye, ya da yasa, ya da enkaza nihayet anlam veren bir hikâyeye daha yakın bir şeyin - insana ulaşması gerekiyor ki, sıkıntı bir şeyi öğütüp ufalamak yerine çatlatıp açabilsin.
+
+Kitap bunu kendisi hakkında biliyor gibidir. Diziyi burada keser ve bambaşka bir şey yapar — bir melek, küçük bir tomar ve onu bütün olarak yutma buyruğu.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

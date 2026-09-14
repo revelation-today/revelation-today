@@ -171,6 +171,8 @@ zu fragen stellt dich nicht außerhalb dieser Geschichte.
 Das sechste Siegel erschüttert alles, und Könige, Feldherren, Reiche und Sklaven verstecken
 sich gleichermaßen und fragen: *Wer kann bestehen?* Das Buch lässt die Frage hängen.
 
+Genau eine Seite lang.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Die Armee Gottes (Kapitel 7) {#army}

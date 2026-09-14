@@ -99,6 +99,8 @@ Lalu meterai kelima pecah, dan yang tersingkap bukan pasukan melainkan sebuah me
 
 Langit sendiri menjawab berikutnya, dan kamu merasakannya terjadi di atas kepalamu sendiri: matahari menjadi hitam, bulan berubah menjadi darah, bintang-bintang berjatuhan seperti buah yang digoyang lepas dari pohonnya, dan langit tergulung seperti gulungan kitab yang digulung tepat di atasmu. Dunia sudah tenggelam dalam apa yang didatangkannya atas dirinya sendiri, dan kamu berdiri di tengah puing-puing itu, ikut berseru.
 
+Dan pertanyaan yang diteriakkan semua orang — *siapa yang dapat bertahan?* — akan segera dijawab tepat di depanmu. Teruslah memandang. Kamu akan ada di dalam jawaban itu.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Pasukan Allah (Psl. 7) {#army}
@@ -122,6 +124,8 @@ Makanan gagal di depan matamu. Air menjadi pahit - kamu menyaksikan orang-orang 
 Ternyata tidak.
 
 Saksikan itu terjadi, tepat di hadapanmu, dan rasakan betapa perihnya: bahkan ketika berhala-berhala mereka berbalik melawan mereka - bahkan ketika berhala-berhala itu juga merenggut setiap serpih harapan terakhir, sampai kematian sendiri mulai tampak seperti kelegaan dan orang-orang mencarinya namun tidak menemukannya - manusia justru berpegang makin erat pada apa yang sedang membunuh mereka, bukan makin longgar. Penderitaan saja tidak pernah cukup untuk mengubah hati manusia, dan kamu sedang menyaksikan kebenaran itu terpampang secara langsung, saat ini juga, di depan matamu sendiri.
+
+Tetapi jangan berpaling dulu. Yang datang berikutnya bukan tiupan lagi. Yang datang adalah gulungan kitab yang diletakkan ke tanganmu dan suara yang menyuruhmu memakannya — sebab hal yang akhirnya mengubah hati harus lebih dulu masuk ke dalam diri seseorang.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 

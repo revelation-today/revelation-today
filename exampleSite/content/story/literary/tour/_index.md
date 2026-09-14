@@ -113,6 +113,8 @@ They do not. Smoke rises from the shaft of the abyss like the smoke of a great f
 
 Even as their idols turn on them - the gold, the silver, the bronze, the stone, the wood that can neither see nor hear nor walk - even as those idols strip away every shred of hope until death starts to look like relief, people cling tighter, not looser. Suffering alone, however total, has never yet been enough to change a human heart bent on the wrong thing.
 
+The sequence has argued itself into a corner, and the book knows it. What follows the seventh trumpet is not an eighth; it is an interruption — an angel, a small scroll, and a command to swallow it.
+
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 
 ## The small scroll (Ch. 10) {#scroll}

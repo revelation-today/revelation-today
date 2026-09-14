@@ -106,6 +106,8 @@ Kalau di titik ini kamu tergoda bertanya bagaimana mungkin Allah yang baik membi
 
 Langit sendiri yang menjawab berikutnya: matahari menjadi hitam, bulan menjadi darah, bintang-bintang berjatuhan seperti buah yang diguncang dari pohonnya, dan langit tergulung seperti gulungan kitab yang digulung. Dunia sudah tenggelam dalam apa yang didatangkannya sendiri, dan gereja berdiri di tengah reruntuhan itu, ikut berseru.
 
+Bagian ini berakhir dengan sebuah pertanyaan — *siapa yang dapat bertahan?* — dan kalau kamu tergoda menutup kitab ini di sini, inilah satu-satunya halaman yang sebaiknya tidak kamu jadikan tempat berhenti. Halaman berikutnya menjawabnya.
+
 {{< story_links base="/quick/content/seals" appl="/appl/content/seals" expl="/expl/content/seals/the-mystery-of-the-four-horse-men" kids="/kids/elementary/05-the-seals" >}}
 
 ## Pasukan Allah (Pasal 7) {#army}
@@ -125,6 +127,8 @@ Sekarang giliran gereja yang mengguncang dunia - bukan dengan senjata, melainkan
 Pangan gagal. Air menjadi pahit. Perdagangan runtuh. Rasa aman lenyap. Tentu sekarang orang akhirnya akan menengadah dan bertanya apa yang sejati?
 
 Ternyata tidak. Bahkan ketika berhala-berhala mereka berbalik melawan mereka - bahkan ketika berhala-berhala yang sama merenggut setiap serpih harapan terakhir, sampai kematian mulai terasa seperti kelegaan - orang justru berpegang makin erat, bukan makin longgar. Penderitaan saja tidak pernah cukup untuk mengubah hati manusia.
+
+Kalau itu terdengar suram, perhatikan apa yang dilakukan kitab ini dengannya: ia berhenti meniup sangkakala. Yang datang berikutnya adalah sebuah suara dan sebuah gulungan kecil — kisah ini berganti taktik, sebab kekerasan memang tidak akan pernah berhasil.
 
 {{< story_links base="/quick/content/trumpets" appl="/appl/content/trumpets" expl="/expl/content/trumpets/the-trumpets-in-revelation" kids="/kids/elementary/07-the-trumpets" >}}
 
