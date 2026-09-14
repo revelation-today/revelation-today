@@ -187,6 +187,8 @@ Tidak semua orang boleh ikut bernyanyi. Mereka yang mencari aman dan memihak bin
 
 Dua sabit terayun melintasi bumi. Satu tuaian dikumpulkan masuk. Satu tuaian untuk penghakiman. Inilah saat kebenaran berhenti menjadi teori.
 
+Kalau itu terasa seperti ancaman, lihatlah siapa yang memintanya. Ini murka yang sama yang diserukan oleh mereka yang dibunuh di bawah mezbah dalam pasal enam — *berapa lama lagi?* Panen inilah jawaban atas pertanyaan itu, akhirnya. Dan perhatikan letaknya dalam kitab ini: bukan di bagian akhir. Masih ada delapan pasal sesudahnya, dan kata terakhir dalam semuanya adalah *marilah*.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
 
 ## Cawan-cawan murka (Pasal 15-16) {#bowls}

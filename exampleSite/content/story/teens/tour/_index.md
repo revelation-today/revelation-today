@@ -278,6 +278,8 @@ Two sickles swing across the earth. One angel gathers a harvest of grain — tha
 
 This is the chapter where the choice you've been putting off, the one everyone around you has been quietly avoiding too, stops being something you can leave undecided. Truth stops being a debate you can sit out. Everyone gets gathered eventually. The only real question this chapter leaves you with is which harvest you're in.
 
+And if that feels like being cornered, check the timing. This isn't the last chapter — eight more follow it, and the very last thing the book says is *come*. The choice is real. Nobody is being rushed toward a door that's already closing.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/13-two-harvests-and-which-one-youre-in" >}}
 
 ## The bowls of wrath (Ch. 15-16) {#bowls}
@@ -291,6 +293,8 @@ That's the pattern running through the whole thing: hardened isn't the same as u
 The sixth bowl dries up the Euphrates to clear the way for kings from the east, and demonic spirits go out gathering the rulers of the whole world for one final confrontation, at a place whose name has already become shorthand for total catastrophe: Armageddon. They gather there certain of victory — armed, allied, convinced this is the fight where they finally win.
 
 They're already finished. They just don't know it yet. The seventh bowl pours out into the air itself, and a voice from the throne says: it is done. Lightning, thunder, the worst earthquake since humanity has existed, cities collapsing, hail heavy enough to crush — and even then, even facing all of it, people curse God rather than turn. The armies at Armageddon think they're about to fight for the world. They're about to watch it end.
+
+Which sounds like the worst possible cliffhanger until you notice who isn't worried. Nobody on God's side is described as fighting at Armageddon. They aren't even mentioned. The battle everyone has been bracing for turns out not to need them.
 
 {{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/teens/14-when-knowing-better-changes-nothing" >}}
 

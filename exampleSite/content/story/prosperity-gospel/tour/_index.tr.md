@@ -200,6 +200,8 @@ Yeryüzünün orduları son bir direniş için toplanıyor, adı felaketle özde
 
 Çoktan bitmişler. Sadece henüz bilmiyorlar. Tahttan bir ses haykırıyor: "Tamamlandı," ve yedinci tas havaya boşalıyor, ve büyük şehir üçe bölünüyor, ve her ada kaçıyor ve dağlar bulunamıyor. Bu krallar hangi güvenliği inşa ettiklerini hayal etmişlerse, o güvenlik tam kendini kanıtlaması gereken saatte buharlaşıyor.
 
+Geriye bir sonraki bölüme taşımaya değer tek bir soru kalıyor: satın alınabilir olan her şey gittiğinde ayakta ne kalır? Kitap bunu zaten iki kez yanıtladı — bir Kuzu ve bir kitapta yazılı bir ad. İkisi de satın alınamaz, ikisi de buharlaşmaz.
+
 {{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/elementary/13-the-bowls" >}}
 
 ## Fahişe (Bölüm 17-19) {#harlot}

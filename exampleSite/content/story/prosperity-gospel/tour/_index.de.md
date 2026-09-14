@@ -200,6 +200,8 @@ Die Heere der Erde versammeln sich zum letzten Gefecht, an einem Ort, dessen Nam
 
 Sie sind bereits erledigt. Sie wissen es nur noch nicht. Eine Stimme vom Thron ruft: „Es ist geschehen“, und die siebte Schale ergießt sich in die Luft, und die große Stadt zerbricht in drei Teile, und jede Insel flieht, und die Berge sind nicht mehr zu finden. Welche Sicherheit diese Könige sich auch immer eingebildet hatten - sie verdunstet in derselben Stunde, in der sie sich hätte beweisen sollen.
 
+Damit bleibt eine Frage, die man ins nächste Kapitel mitnehmen sollte: Was steht noch, wenn alles Käufliche verschwunden ist? Das Buch hat sie bereits zweimal beantwortet – ein Lamm und ein Name, der in einem Buch steht. Keines von beiden lässt sich kaufen, und keines löst sich auf.
+
 {{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/elementary/13-the-bowls" >}}
 
 ## Die Hure (Kapitel 17-19) {#harlot}

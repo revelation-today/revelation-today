@@ -187,6 +187,8 @@ Herkes şarkı söyleyemiyor. Bedelden kaçınmak için canavarın yanında yer 
 
 Yeryüzü boyunca iki orak sallanıyor. Bir hasat içeri toplanıyor. Bir hasat yargı için. Gerçeğin artık teorik olmaktan çıktığı an bu.
 
+Bu sana bir tehdit gibi geldiyse, onu kimin istediğine bak. Bu, altıncı bölümde sunağın altındaki öldürülmüş kişilerin haykırdığı öfkenin ta kendisi — *daha ne kadar?* Hasat, o sorunun nihayet yanıtlanmasıdır. Ve kitabın neresinde durduğuna dikkat et: sonunda değil. Arkasından sekiz bölüm daha geliyor ve hepsinin son sözü *gel*.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
 
 ## Gazap tasları (Bölüm 15-16) {#bowls}

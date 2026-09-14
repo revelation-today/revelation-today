@@ -36,7 +36,7 @@ always go deeper (or simpler) without losing your place.
 
 ## Reading the pages
 
-Bible verses appear in purple - hover or tap one to read it, like this
+Bible verses appear in violet - hover or tap one to read it, like this
 {{% bible val="example" link="rev:12,1-6" lang="en" %}}. You can also browse the
 {{% int_link val="full list of Bible verses used on this site" link="/expl/bible_ref" %}}.
 

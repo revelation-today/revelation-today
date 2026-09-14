@@ -231,6 +231,8 @@ Bin yıl sona erince, ejderha kısa bir süre için salıverilir ve yeryüzünü
 
 Sonra büyük beyaz taht, ve üzerinde oturan; O'nun önünden yer ve gök kaçar, ve onlara yer bulunmaz. Ölüler, büyüğü küçüğü, tahtın önünde durur, ve kitaplar açılır, ve başka bir kitap açılır: yaşam kitabı; ve ölüler kitaplarda yazılanlara göre, yaptıklarına göre yargılanır - aynı divan, aynı açılan kitaplar; bir zamanlar bir ırmak kıyısında görümde bir adamın gördüğü, sözleri saklayıp kitabı sonun vaktine dek mühürlemesi söylenmeden önce. Sonun vakti gelmiştir. Ölüm ve ölüler diyarı ölülerini teslim eder ve kendileri de ateş gölüne atılır - ikinci ölüm - ve adı yaşam kitabında yazılı bulunmayan herkes onlarla birlikte atılır.
 
+En son neyin yok edildiğine ve bunun geriye ne bıraktığına dikkat edin. Ölümün kendisi ateşe atılır; yaşam kitabı atılmaz. Eski düzenin son görüntüsü, kendi cellâdının idam edilmesidir — ve sahneden sağlam çıkan tek şey bir adlar listesidir.
+
 {{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/elementary/15-the-thousand-years" >}}
 
 ## Yeni gök ve yeni yeryüzü (Bölüm 21-22) {#paradise}

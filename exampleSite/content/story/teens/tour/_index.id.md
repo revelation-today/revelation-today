@@ -255,6 +255,8 @@ Dua sabit mengayun melintasi bumi. Satu malaikat mengumpulkan tuaian gandum — 
 
 Inilah pasal di mana pilihan yang selama ini kamu tunda-tunda, yang juga diam-diam dihindari semua orang di sekitarmu, berhenti jadi sesuatu yang bisa kamu biarkan menggantung. Kebenaran berhenti jadi debat yang bisa kamu tonton dari pinggir. Semua orang akhirnya dituai. Satu-satunya pertanyaan sungguhan yang ditinggalkan pasal ini untukmu: kamu ada di tuaian yang mana.
 
+Dan kalau itu terasa seperti sedang dipojokkan, perhatikan waktunya. Ini bukan pasal terakhir — masih ada delapan pasal sesudahnya, dan hal paling akhir yang dikatakan kitab ini adalah *marilah*. Pilihannya nyata. Tetapi tidak ada yang sedang digiring terburu-buru menuju pintu yang sudah mau tertutup.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/13-two-harvests-and-which-one-youre-in" >}}
 
 ## Cawan-cawan murka (Psl. 15-16) {#bowls}
@@ -268,6 +270,8 @@ Itulah pola yang mengalir di sepanjang semuanya: keras hati tidak sama dengan ti
 Cawan keenam mengeringkan Sungai Efrat untuk membuka jalan bagi raja-raja dari timur, dan roh-roh setan pergi mengumpulkan para penguasa seluruh dunia untuk satu konfrontasi terakhir, di tempat yang namanya sudah jadi sinonim bencana total: Harmagedon. Mereka berkumpul di sana yakin akan menang — bersenjata, bersekutu, percaya inilah pertarungan di mana mereka akhirnya menang.
 
 Mereka sudah tamat. Mereka cuma belum tahu. Cawan ketujuh dituangkan ke udara itu sendiri, dan sebuah suara dari takhta berkata: sudah terlaksana. Kilat, guruh, gempa terdahsyat sejak manusia ada, kota-kota runtuh, hujan es cukup berat untuk meremukkan — dan bahkan saat itu, bahkan menghadapi semuanya, orang-orang mengutuki Allah dan tidak mau berbalik. Pasukan-pasukan di Harmagedon mengira mereka akan bertarung memperebutkan dunia. Yang akan mereka lakukan cuma menonton dunia itu berakhir.
+
+Kedengarannya seperti akhir menggantung yang paling buruk — sampai kamu memperhatikan siapa yang tidak cemas. Tidak ada satu pun orang di pihak Allah yang digambarkan sedang bertempur di Harmagedon. Mereka bahkan tidak disebut. Pertempuran yang sudah ditakuti semua orang ternyata tidak membutuhkan mereka.
 
 {{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/teens/14-when-knowing-better-changes-nothing" >}}
 

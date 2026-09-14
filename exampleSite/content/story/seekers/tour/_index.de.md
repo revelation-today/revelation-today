@@ -187,6 +187,8 @@ Nicht alle dürfen singen. Diejenigen, die auf Nummer sicher gegangen sind und s
 
 Zwei Sicheln fahren über die Erde. Eine Ernte wird eingebracht. Eine Ernte ist für das Gericht. Das ist der Moment, in dem die Wahrheit aufhört, theoretisch zu sein.
 
+Falls sich das wie eine Drohung anfühlt, schau, wer darum gebeten hat. Es ist derselbe Zorn, nach dem die Ermordeten unter dem Altar in Kapitel sechs gerufen haben – *wie lange noch?* Die Ernte ist die Antwort auf diese Frage, endlich. Und beachte, wo sie im Buch steht: nicht am Ende. Acht Kapitel folgen noch, und das letzte Wort in ihnen allen lautet *Komm*.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
 
 ## Die Zornschalen (Kapitel 15-16) {#bowls}

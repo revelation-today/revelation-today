@@ -187,6 +187,8 @@ Not everyone gets to sing. The ones who played it safe and sided with the beast 
 
 Two sickles swing across the earth. One harvest gathers in. One harvest is for judgment. This is the moment truth stops being theoretical.
 
+If that lands as a threat, look at who asked for it. This is the same wrath the murdered cried out for under the altar back in chapter six — *how long?* The harvest is that question being answered at last. And notice where it falls in the book: not at the end. Eight chapters still follow, and the last word in all of them is *come*.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
 
 ## The bowls of wrath (Ch. 15-16) {#bowls}

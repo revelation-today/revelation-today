@@ -197,6 +197,8 @@ Two sickles swing across the earth in front of you. One is swung by one like a s
 
 One harvest gathers in. One harvest is for judgment. This is the moment, right now, in front of you, when truth stops being theoretical.
 
+And if that lands on you as a threat, look again at whose hand is on the sickle. It is the Son of Man — the same one who was slain — gathering in his own. This is the cry from under the altar being answered right in front of you: *how long?* Not much longer.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
 
 ## The bowls of wrath (Ch. 15-16) {#bowls}

@@ -255,6 +255,8 @@ Zwei Sicheln fahren über die Erde. Ein Engel sammelt eine Getreideernte ein - d
 
 Das ist das Kapitel, in dem die Entscheidung, die du vor dir herschiebst - die, um die sich alle um dich herum genauso still drücken - aufhört, etwas zu sein, das man offenlassen kann. Wahrheit hört auf, eine Debatte zu sein, bei der man sich raushalten kann. Eingesammelt wird am Ende jeder. Die einzige echte Frage, die dieses Kapitel dir dalässt, ist, in welcher Ernte du bist.
 
+Und falls sich das anfühlt, als würdest du in die Ecke gedrängt: Schau auf den Zeitpunkt. Das ist nicht das letzte Kapitel – acht weitere folgen, und das Allerletzte, was das Buch sagt, ist *Komm*. Die Entscheidung ist echt. Aber niemand wird auf eine Tür zugetrieben, die schon zufällt.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/13-two-harvests-and-which-one-youre-in" >}}
 
 ## Die Zornschalen (Kapitel 15-16) {#bowls}
@@ -268,6 +270,8 @@ Das ist das Muster, das sich durch das Ganze zieht: Verhärtet ist nicht dasselb
 Die sechste Schale trocknet den Euphrat aus, um den Königen aus dem Osten den Weg freizumachen, und dämonische Geister ziehen los und versammeln die Herrscher der ganzen Welt für eine letzte Konfrontation - an einem Ort, dessen Name längst Kurzform für die totale Katastrophe geworden ist: Harmagedon. Sie versammeln sich dort siegessicher - bewaffnet, verbündet, überzeugt, dass das der Kampf ist, den sie endlich gewinnen.
 
 Sie sind schon erledigt. Sie wissen es nur noch nicht. Die siebte Schale ergießt sich in die Luft selbst, und eine Stimme vom Thron sagt: Es ist geschehen. Blitze, Donner, das schlimmste Erdbeben, seit es Menschen gibt, einstürzende Städte, Hagel, schwer genug, um zu zermalmen - und selbst dann, selbst angesichts von all dem, verfluchen die Menschen Gott, statt umzukehren. Die Heere bei Harmagedon glauben, sie stehen kurz davor, um die Welt zu kämpfen. Sie stehen kurz davor, zuzusehen, wie sie endet.
+
+Das klingt nach dem denkbar schlimmsten Cliffhanger – bis dir auffällt, wer sich keine Sorgen macht. Niemand auf Gottes Seite wird bei Harmagedon als kämpfend beschrieben. Sie kommen nicht einmal vor. Die Schlacht, auf die sich alle gefasst gemacht haben, braucht sie am Ende gar nicht.
 
 {{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/teens/14-when-knowing-better-changes-nothing" >}}
 

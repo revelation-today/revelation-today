@@ -197,6 +197,8 @@ Herkes bu ezgiyi söyleyemiyor. Üç meleğin başının üzerinden birbiri ard�
 
 Bir hasat içeri topluyor. Bir hasat yargı için. İşte bu an - tam şu anda, tam önünde - gerçeğin kuramsal olmaktan çıktığı an.
 
+Ve bu sana bir tehdit gibi çarptıysa, orağın kimin elinde olduğuna bir daha bak. O, İnsanoğlu — boğazlanmış olanın ta kendisi — ve kendi halkını topluyor. Bu, sunağın altındaki haykırışın tam gözünün önünde yanıtlanmasıdır: *daha ne kadar?* Çok değil.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
 
 ## Gazap tasları (Bölüm 15-16) {#bowls}

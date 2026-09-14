@@ -255,6 +255,8 @@ Yeryüzünün üzerinden iki orak savruluyor. Bir melek tahıl hasadını topluy
 
 Bu bölüm, ertelediğin o seçimin — etrafındaki herkesin de sessiz sessiz kaçındığı o seçimin — artık askıda bırakabileceğin bir şey olmaktan çıktığı bölüm. Gerçek, dışında kalabileceğin bir tartışma olmaktan çıkıyor. Eninde sonunda herkes toplanıyor. Bu bölümün sana bıraktığı tek gerçek soru şu: sen hangi hasattasın?
 
+Ve bu, köşeye sıkıştırılmak gibi geldiyse, zamanlamaya bak. Bu son bölüm değil — arkasından sekiz bölüm daha geliyor ve kitabın söylediği en son şey *gel*. Seçim gerçek. Ama kimse şimdiden kapanmakta olan bir kapıya doğru koşturulmuyor.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/teens/13-two-harvests-and-which-one-youre-in" >}}
 
 ## Gazap tasları (Bölüm 15-16) {#bowls}
@@ -268,6 +270,8 @@ Bütün olayın içinden geçen kalıp işte bu: katılaşmış olmak, habersiz 
 Altıncı tas Fırat'ı kurutuyor — doğudan gelen krallara yol açılsın diye — ve cinlerin ruhları dışarı çıkıp bütün dünyanın yöneticilerini son bir hesaplaşma için topluyor, adı çoktan topyekûn felaketin kısaltması haline gelmiş bir yerde: Armagedon. Oraya zaferden emin toplanıyorlar — silahlanmış, ittifak kurmuş, bunun sonunda kazanacakları kavga olduğuna ikna olmuş halde.
 
 Onlar çoktan bitmiş durumda. Sadece henüz bilmiyorlar. Yedinci tas havanın ta kendisine dökülüyor, ve tahttan bir ses geliyor: tamamlandı. Şimşekler, gök gürültüleri, insanlık var olduğundan beri görülmüş en beter deprem, çöken şehirler, ezecek kadar ağır dolu — ve o zaman bile, bütün bunlarla yüzleşirken bile, insanlar dönmek yerine Tanrı'ya lanet ediyorlar. Armagedon'daki ordular dünya için savaşmak üzere olduklarını sanıyorlar. Aslında onun bitişini izlemek üzereler.
+
+Bu, olabilecek en kötü askıda son gibi geliyor — ta ki kimin endişelenmediğini fark edene kadar. Tanrı'nın tarafında Armagedon'da savaşan hiç kimse anlatılmıyor. Adları bile geçmiyor. Herkesin kendini hazırladığı savaşın onlara ihtiyacı yokmuş.
 
 {{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/teens/14-when-knowing-better-changes-nothing" >}}
 

@@ -231,6 +231,8 @@ The devil is thrown into the lake of fire and sulfur, where the beast and the fa
 
 Then the great white throne, and the one seated on it, from whose presence earth and sky flee and no place is found for them. The dead, great and small, stand before the throne, and books are opened, and another book is opened, the book of life, and the dead are judged by what is written in the books, according to what they have done - the same court, the same opened books, once seen by a man in a vision on a riverbank, before he was told to shut up the words and seal the book until the time of the end. The time of the end has come. Death and Hades give up their dead and are themselves thrown into the lake of fire - the second death - and anyone whose name is not found written in the book of life is thrown in with them.
 
+Note what is destroyed last, and what that leaves. Death itself goes into the fire; the book of life does not. The final image of the old order is its executioner being executed — and the only thing carried out of the scene intact is a list of names.
+
 {{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/elementary/15-the-thousand-years" >}}
 
 ## The new heaven and new earth (Ch. 21-22) {#paradise}

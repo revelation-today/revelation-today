@@ -200,6 +200,8 @@ The armies of the earth gather for one last stand, at a place whose name has bec
 
 They are already finished. They just do not know it yet. A voice from the throne cries out, "It is done," and the seventh bowl empties into the air, and the great city splits into three parts, and every island flees and the mountains are not found. Whatever security these kings imagined they had built, it evaporates in the same hour it was supposed to prove itself.
 
+Which leaves one question worth carrying into the next chapter: what is left standing when everything purchasable is gone? The book has already answered it twice — a Lamb, and a name written in a book. Neither can be bought, and neither evaporates.
+
 {{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/elementary/13-the-bowls" >}}
 
 ## The harlot (Ch. 17-19) {#harlot}

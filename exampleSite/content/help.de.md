@@ -37,7 +37,7 @@ sodass du jederzeit tiefer gehen (oder es einfacher haben) kannst, ohne den Fade
 
 ## Die Seiten lesen
 
-Bibelverse erscheinen in lila - fahre mit der Maus darüber oder tippe darauf, um den Vers zu
+Bibelverse erscheinen in Violett - fahre mit der Maus darüber oder tippe darauf, um den Vers zu
 lesen, wie hier {{% bible val="Beispiel" link="rev:12,1-6" lang="de" %}}. Du kannst auch die
 {{% int_link val="vollständige Liste der auf dieser Seite verwendeten Bibelverse" link="/expl/bible_ref" %}}
 durchstöbern.

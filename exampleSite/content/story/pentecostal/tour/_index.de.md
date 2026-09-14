@@ -197,6 +197,8 @@ Zwei Sicheln fahren vor dir über die Erde. Die eine schwingt einer, der aussieh
 
 Eine Ernte wird eingebracht. Eine Ernte ist für das Gericht. Das ist der Moment, jetzt gerade, direkt vor dir, in dem die Wahrheit aufhört, theoretisch zu sein.
 
+Und falls dich das wie eine Drohung trifft, schau noch einmal, wessen Hand an der Sichel liegt. Es ist der Menschensohn – derselbe, der geschlachtet wurde – und er holt die Seinen heim. Das ist der Schrei unter dem Altar, der direkt vor dir beantwortet wird: *wie lange noch?* Nicht mehr lange.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
 
 ## Die Zornschalen (Kapitel 15-16) {#bowls}

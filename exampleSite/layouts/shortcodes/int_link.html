@@ -1,23 +1,34 @@
-{{- $context := . -}}
+{{- /* Internal cross-reference.
+
+   Resolves with site.GetPage, which handles regular pages, top-level
+   sections and nested sections alike. The previous implementation ranged
+   over `union .Site.RegularPages .Site.Sections` and matched on a URL
+   suffix; that missed sections unpredictably (/themes and /expl/bible_ref
+   among them) and, worse, emitted nothing at all when it missed - leaving
+   a hole in the sentence with no error anywhere.
+
+   A miss now warns during the build, naming the file, and still renders
+   the link text so the sentence stays readable. */ -}}
+
 {{- $val := .Get "val" -}}
 {{- $link := .Get "link" -}}
 
-{{- $linkParts := split $link "#" -}}
-{{- $path := index $linkParts 0 -}}
+{{- $parts := split $link "#" -}}
+{{- $path := index $parts 0 -}}
 {{- $fragment := "" -}}
-{{- if gt (len $linkParts) 1 -}}
-  {{- $fragment = index $linkParts 1 -}}
-{{- end -}}
-{{- if not (hasSuffix $path "/") -}}
-  {{- $path = print $path "/" -}}
+{{- if gt (len $parts) 1 -}}
+  {{- $fragment = index (split (index $parts 1) "/") 0 -}}
 {{- end -}}
 
-{{- range union .Site.RegularPages .Site.Sections -}}
-  {{- if hasSuffix .RelPermalink $path -}}
-    {{- $final_link := .RelPermalink -}}
-    {{- if ne $fragment "" -}}
-        {{- $final_link = print .RelPermalink "#" (index (split $fragment "/") 0) -}}
-    {{- end -}}
-     <a href="{{- $final_link -}}" class="internal"><span>{{- $val -}}</span></a>
+{{- with site.GetPage $path -}}
+  {{- $href := .RelPermalink -}}
+  {{- with $fragment -}}
+    {{- $href = printf "%s#%s" $href . -}}
   {{- end -}}
+  <a href="{{ $href }}" class="internal"><span>{{- $val -}}</span></a>
+{{- else -}}
+  {{- $where := $.Page.RelPermalink -}}
+  {{- with $.Page.File -}}{{- $where = .Path -}}{{- end -}}
+  {{- warnf "int_link: no page found for %q (used in %s)" $link $where -}}
+  <span class="internal internal-unresolved">{{- $val -}}</span>
 {{- end -}}

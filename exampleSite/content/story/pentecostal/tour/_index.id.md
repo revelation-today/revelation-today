@@ -197,6 +197,8 @@ Dua sabit berayun melintasi bumi di hadapanmu. Yang satu diayunkan oleh seorang 
 
 Satu tuaian dikumpulkan masuk. Satu tuaian untuk penghakiman. Inilah saatnya, saat ini juga, di hadapanmu, ketika kebenaran berhenti menjadi teori.
 
+Dan kalau itu terasa seperti ancaman bagimu, lihat sekali lagi tangan siapa yang memegang sabit itu. Itu Anak Manusia — Dia yang disembelih — sedang mengumpulkan milik-Nya sendiri. Inilah seruan dari bawah mezbah yang dijawab tepat di depanmu: *berapa lama lagi?* Tidak lama lagi.
+
 {{< story_links base="/quick/content/harvest" appl="/appl/content/harvest" expl="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" kids="/kids/elementary/12-the-two-harvests" >}}
 
 ## Cawan-Cawan Murka Itu (Pasal 15-16) {#bowls}

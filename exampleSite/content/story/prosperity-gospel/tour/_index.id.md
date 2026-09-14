@@ -200,6 +200,8 @@ Bala tentara bumi berhimpun untuk perlawanan terakhir, di sebuah tempat yang nam
 
 Mereka sudah tamat. Mereka hanya belum mengetahuinya. Sebuah suara dari takhta berseru, "Sudah terlaksana," dan cawan ketujuh dikosongkan ke angkasa, dan kota besar itu terbelah menjadi tiga bagian, dan semua pulau melarikan diri dan gunung-gunung tidak ditemukan lagi. Keamanan macam apa pun yang dibayangkan telah dibangun oleh raja-raja itu, semuanya menguap pada jam yang sama ketika keamanan itu seharusnya membuktikan dirinya.
 
+Itu menyisakan satu pertanyaan yang layak dibawa ke pasal berikutnya: apa yang masih berdiri ketika segala sesuatu yang bisa dibeli sudah lenyap? Kitab ini sudah menjawabnya dua kali — seekor Anak Domba, dan sebuah nama yang tertulis di dalam kitab. Keduanya tidak bisa dibeli, dan keduanya tidak menguap.
+
 {{< story_links base="/quick/content/bowls" appl="/appl/content/bowls" expl="/expl/content/bowls/the-bowls-of-wrath" kids="/kids/elementary/13-the-bowls" >}}
 
 ## Pelacur besar itu (Pasal 17-19) {#harlot}

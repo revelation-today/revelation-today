@@ -229,6 +229,8 @@ Der Teufel wird geworfen in den Feuer- und Schwefelsee, wo das Tier und der fals
 
 Dann der große weiße Thron und der, der auf ihm sitzt, vor dessen Angesicht Erde und Himmel fliehen, und kein Ort wird für sie gefunden. Die Toten, Große und Kleine, stehen vor dem Thron, und Bücher werden geöffnet, und noch ein Buch wird geöffnet, das Buch des Lebens, und die Toten werden gerichtet nach dem, was in den Büchern geschrieben steht, nach ihren Werken - dasselbe Gericht, dieselben geöffneten Bücher, einst gesehen von einem Mann in einer Vision am Ufer eines Stromes, ehe ihm gesagt wurde, die Worte zu verschließen und das Buch zu versiegeln bis zur Zeit des Endes. Die Zeit des Endes ist gekommen. Tod und Totenreich geben ihre Toten heraus und werden selbst in den Feuersee geworfen - den zweiten Tod -, und wer nicht geschrieben gefunden wird im Buch des Lebens, wird mit ihnen hineingeworfen.
 
+Man beachte, was zuletzt vernichtet wird – und was damit übrig bleibt. Der Tod selbst geht ins Feuer; das Buch des Lebens nicht. Das letzte Bild der alten Ordnung ist ihr Henker, der hingerichtet wird – und das Einzige, was unversehrt aus der Szene getragen wird, ist eine Namensliste.
+
 {{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/elementary/15-the-thousand-years" >}}
 
 ## Der neue Himmel und die neue Erde (Kap. 21-22) {#paradise}

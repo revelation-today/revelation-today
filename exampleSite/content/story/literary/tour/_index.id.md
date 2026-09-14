@@ -231,6 +231,8 @@ Iblis dilemparkan ke dalam lautan api dan belerang, tempat binatang dan nabi pal
 
 Lalu takhta putih yang besar, dan Dia yang duduk di atasnya, yang dari hadapan-Nya lenyaplah bumi dan langit dan tidak ditemukan lagi tempat bagi keduanya. Orang-orang mati, besar dan kecil, berdiri di depan takhta itu, dan kitab-kitab dibuka, dan sebuah kitab lain dibuka, yaitu kitab kehidupan, dan orang-orang mati dihakimi menurut apa yang tertulis di dalam kitab-kitab itu, berdasarkan perbuatan mereka - majelis pengadilan yang sama, kitab-kitab terbuka yang sama, yang dahulu dilihat seorang dalam penglihatan di tepi sebuah sungai, sebelum kepadanya dikatakan supaya menyembunyikan firman itu dan memeteraikan kitab itu sampai pada akhir zaman. Akhir zaman itu telah tiba. Maut dan kerajaan maut menyerahkan orang-orang mati yang ada di dalamnya, dan keduanya sendiri dilemparkan ke dalam lautan api - itulah kematian yang kedua - dan barangsiapa tidak ditemukan namanya tertulis di dalam kitab kehidupan, ia dilemparkan ke dalamnya juga.
 
+Perhatikan apa yang dibinasakan paling akhir, dan apa yang karenanya tersisa. Maut sendiri masuk ke dalam api; kitab kehidupan tidak. Gambaran terakhir dari tatanan lama adalah algojonya sendiri yang dieksekusi — dan satu-satunya yang dibawa keluar dari adegan itu dalam keadaan utuh adalah sebuah daftar nama.
+
 {{< story_links base="/quick/content/1000y" appl="/appl/content/1000y" expl="/expl/content/1000y/the-thousand-year-kingdom" kids="/kids/elementary/15-the-thousand-years" >}}
 
 ## Langit yang baru dan bumi yang baru (Pasal 21-22) {#paradise}
