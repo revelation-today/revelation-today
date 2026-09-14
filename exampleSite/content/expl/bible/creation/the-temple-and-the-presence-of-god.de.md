@@ -57,4 +57,4 @@ Und im Buch der Offenbarung erscheint die Gemeinde als die Braut Christi, die zu
 
 ## Tiefer eintauchen
 
-{{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources/index.html#beale_dwell" %}}
+{{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}

@@ -154,7 +154,7 @@ Der {{% int_link val="vorige Artikel" link="/expl/content/1000y/the-thousand-yea
 
 Der ehrliche Preis ist Knotenpunkt 1. Dass ein Verb, zweimal, wenige Worte auseinander, zwei verschiedene Arten von Lebendigwerden meint, ist das Schwerste, was der Amillennialismus einem Leser zumutet – und die Antwort oben, Seelen statt Leiber und „erste/zweite" als zwei Ordnungen, ist ein Argument, kein Todesstoß. Und es sei deutlich gesagt: Die beiden auf dieser Seite herangezogenen Kommentare gehen darin auseinander – Aune entscheidet Knotenpunkt 1 gegen die hier vertretene Lesart, Beale entscheidet ihn dafür. Wer diesen Satz schwerer gewichtet als die Rekapitulations-Gewohnheit des Buches, landet beim Prämillennialismus und denkt dabei sauber.
 
-{{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources/index.html#bock_millennium" %}} ist der Ort, an dem jede Position in voller Stärke von jemandem vertreten wird, der sie tatsächlich hält, und die anderen antworten – das einzige Format, in dem sich dieser Streit zu führen lohnt.
+{{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources#bock_millennium" %}} ist der Ort, an dem jede Position in voller Stärke von jemandem vertreten wird, der sie tatsächlich hält, und die anderen antworten – das einzige Format, in dem sich dieser Streit zu führen lohnt.
 
 Ein paar Fragen zum Nachdenken:
 

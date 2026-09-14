@@ -37,7 +37,7 @@ Tanrı'nın kendisi üç olduğu için Şeytan da her zaman bir üçlü biçimin
 - {{% bible val="Çocuğu yok etmeye çalışır — ve başarısız olur" link="rev:12,1-6" lang="tr" %}}.
 - {{% bible val="Mikail'e karşı savaşır — ve gökten kovulur" link="rev:12,7-12" lang="tr" %}}.
 - {{% bible val="Kadını yok etmeye çalışır — ve başarısız olur" link="rev:12,13-17" lang="tr" %}}.
-- {{% bible val="İsa'nın soyundan gelenleri, yani Kilise'yi yok etmeye çalışır" link="rev:13" lang="tr" %}} ve bu da başarısız olur; bunu {{% int_link val="666 sayısında" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}} göreceğiz.
+- {{% bible val="İsa'nın soyundan gelenleri, yani Kilise'yi yok etmeye çalışır" link="rev:13" lang="tr" %}} ve bu da başarısız olur; bunu {{% int_link val="666 sayısında" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}} göreceğiz.
 
 Şeytan üçüncü kez {{% bible val="altıncı kâsede bir üçlü olarak" link="rev:16,13" lang="tr" %}} gösterilir; bu da daha sonra {{% bible val="19." link="rev:19,20" lang="tr" %}} ve {{% bible val="20." link="rev:20,10" lang="tr" %}} bölümlerde yargılanır. Bu pasajlar, canavarla fahişenin birlikte göründüğü fahişe öyküsünü çerçeveler.
 
@@ -48,9 +48,9 @@ Bu üç görünüm birbiriyle bağlantılıdır; her biri Şeytan'ın faaliyetin
 <a name="1e70"></a>
 Şeytan'ın nasıl betimlendiğini daha iyi anlamak için, {{% bible val="ejderha ve iki canavarın ikinci öyküsüne" link="rev:13" lang="tr" %}} bakmamız gerekir.
 
-Kiliseyi aldatmak için {{% int_link val="kötü bir üçlü kurar" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama {{% int_link val="bunda başarılı olamaz" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}}.
+Kiliseyi aldatmak için {{% int_link val="kötü bir üçlü kurar" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama {{% int_link val="bunda başarılı olamaz" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
-{{% int_link val="Ejderha ve canavarlar, amaçlarına ulaşmak için birlikte çalışacak şekilde betimlenir" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama farklı biçimlerde hareket ederler: ilk canavar şiddete dayanırken, ikincisi belirtilere, mucizelere ve ekonomik baskıya dayanır — {{% int_link val="tarihsel bağlamda da bunu görebilirsiniz" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
+{{% int_link val="Ejderha ve canavarlar, amaçlarına ulaşmak için birlikte çalışacak şekilde betimlenir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama farklı biçimlerde hareket ederler: ilk canavar şiddete dayanırken, ikincisi belirtilere, mucizelere ve ekonomik baskıya dayanır — {{% int_link val="tarihsel bağlamda da bunu görebilirsiniz" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
 
 Şimdi {{% int_link val="dört atlıya baktığımızda da aynı örüntüyü görürüz" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
 
@@ -101,6 +101,6 @@ Bu imgenin kitap boyunca nasıl geliştiğini izlersek, önce Şeytan'la dört a
 
 Muzaffer görünen odur, ama sonunda her yerde yıkım ve ölüm bırakır. İsa'nın getirdiğinin tam tersini getirdiği ortaya çıkar. Ama İsa'nın getirdiği ve Şeytan'ın getiremediği şey tam olarak nedir?
 
-Bu, ejderha ve iki canavarın öyküsünde işlenen temadır. Orada {{% int_link val="Şeytan'ın gerçekten çekici bazı şeyler sunduğu doğrudur" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#b8ad" %}}. Yine de metin, bunun yanına açık bir alternatif koyar: {{% int_link val="tapınma dolu bir yaşam süren ve tanıklıklarında ölüme dek sadık kalan iki tanık" link="/expl/content/witnesses/the-two-witnesses" %}}.
+Bu, ejderha ve iki canavarın öyküsünde işlenen temadır. Orada {{% int_link val="Şeytan'ın gerçekten çekici bazı şeyler sunduğu doğrudur" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad" %}}. Yine de metin, bunun yanına açık bir alternatif koyar: {{% int_link val="tapınma dolu bir yaşam süren ve tanıklıklarında ölüme dek sadık kalan iki tanık" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
 Bu karşıtlık, sonunda Babil'in Yeni Yeruşalim'in karanlık karşılığı olarak ayrıntılarıyla betimlendiği son görümde tam olarak açığa çıkar.

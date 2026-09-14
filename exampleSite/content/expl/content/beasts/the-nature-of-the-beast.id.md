@@ -38,7 +38,7 @@ Kemunculan keduanya terjadi ketika {{% bible val="Yesus kembali dinyatakan sebag
 - {{% bible val="Ia berusaha membinasakan sang anak — dan gagal" link="rev:12,1-6" lang="ind" %}}.
 - {{% bible val="Ia berperang melawan Mikhael — dan dilemparkan keluar dari sorga" link="rev:12,7-12" lang="ind" %}}.
 - {{% bible val="Ia berusaha membinasakan sang perempuan — dan gagal" link="rev:12,13-17" lang="ind" %}}.
-- {{% bible val="Ia berusaha membinasakan keturunan Yesus, yaitu jemaat, dan juga gagal" link="rev:13" lang="ind" %}}, sebagaimana terlihat dalam {{% int_link val="pembahasan angka 666" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}}.
+- {{% bible val="Ia berusaha membinasakan keturunan Yesus, yaitu jemaat, dan juga gagal" link="rev:13" lang="ind" %}}, sebagaimana terlihat dalam {{% int_link val="pembahasan angka 666" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
 Iblis ditampilkan untuk ketiga kalinya {{% bible val="sebagai sebuah trinitas pada cawan keenam" link="rev:16,13" lang="ind" %}}, yang kemudian dihakimi dalam pasal {{% bible val="19" link="rev:19,20" lang="ind" %}} dan {{% bible val="20" link="rev:20,10" lang="ind" %}}. Bagian-bagian ini membingkai kisah sang perempuan sundal, tempat binatang itu dan sang perempuan sundal muncul bersama.
 
@@ -49,9 +49,9 @@ Ketiga penampakan ini saling berkaitan, masing-masing menambahkan gambaran tenta
 <a name="ae7b"></a>
 Untuk lebih memahami cara Iblis digambarkan, kita perlu mencermati {{% bible val="kisah kedua tentang sang naga dan kedua binatang" link="rev:13" lang="ind" %}}.
 
-Ia {{% int_link val="membangun sebuah trinitas jahat" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}} untuk menipu jemaat, tetapi {{% int_link val="sia-sia" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}}.
+Ia {{% int_link val="membangun sebuah trinitas jahat" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}} untuk menipu jemaat, tetapi {{% int_link val="sia-sia" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
-{{% int_link val="Sang naga dan kedua binatang itu digambarkan bekerja sama untuk mencapai tujuan mereka" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, tetapi bertindak dengan cara berbeda: binatang pertama mengandalkan kekerasan, sementara binatang kedua mengandalkan tanda-tanda, mukjizat, dan tekanan ekonomi — {{% int_link val="lihat juga dalam konteks historisnya" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
+{{% int_link val="Sang naga dan kedua binatang itu digambarkan bekerja sama untuk mencapai tujuan mereka" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, tetapi bertindak dengan cara berbeda: binatang pertama mengandalkan kekerasan, sementara binatang kedua mengandalkan tanda-tanda, mukjizat, dan tekanan ekonomi — {{% int_link val="lihat juga dalam konteks historisnya" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
 
 Jika kita memperhatikan {{% int_link val="keempat penunggang kuda, kita menemukan pola yang sama" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
 
@@ -102,6 +102,6 @@ Jika kita menelusuri perkembangan gambaran ini di sepanjang kitab, kita pertama 
 
 Ia tampak sebagai sang pemenang, tetapi pada akhirnya ia hanya meninggalkan kehancuran dan kematian di mana-mana. Kedoknya terbongkar karena membawa kebalikan persis dari apa yang dibawa Yesus. Tetapi apa sebenarnya yang dibawa Yesus dan tidak bisa ditandingi Iblis?
 
-Itulah tema yang dikembangkan dalam kisah sang naga dan kedua binatang. Di sana, {{% int_link val="Iblis memang memiliki beberapa hal yang benar-benar menggoda untuk ditawarkan" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Namun teks itu menempatkan sebuah alternatif yang jelas di sampingnya: {{% int_link val="kedua saksi, yang menjalani gaya hidup penyembahan dan tetap setia dalam kesaksian mereka bahkan sampai mati" link="/expl/content/witnesses/the-two-witnesses" %}}.
+Itulah tema yang dikembangkan dalam kisah sang naga dan kedua binatang. Di sana, {{% int_link val="Iblis memang memiliki beberapa hal yang benar-benar menggoda untuk ditawarkan" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Namun teks itu menempatkan sebuah alternatif yang jelas di sampingnya: {{% int_link val="kedua saksi, yang menjalani gaya hidup penyembahan dan tetap setia dalam kesaksian mereka bahkan sampai mati" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
 Kontras ini akhirnya terungkap sepenuhnya dalam penglihatan terakhir, ketika Babel digambarkan secara rinci sebagai kebalikan gelap dari Yerusalem Baru.

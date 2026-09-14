@@ -37,7 +37,7 @@ Das zweite Mal tritt er auf, als {{% bible val="Jesus erneut als Sieger erklärt
 - {{% bible val="Er versucht, das Kind zu vernichten — und scheitert" link="rev:12,1-6" lang="de" %}}.
 - {{% bible val="Er kämpft gegen Michael — und wird aus dem Himmel geworfen" link="rev:12,7-12" lang="de" %}}.
 - {{% bible val="Er versucht, die Frau zu vernichten — und scheitert" link="rev:12,13-17" lang="de" %}}.
-- {{% bible val="Er versucht, die Nachkommen Jesu, die Gemeinde, zu vernichten, und scheitert auch dabei" link="rev:13" lang="de" %}}, wie man an {{% int_link val="der Zahl 666" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}} sehen kann.
+- {{% bible val="Er versucht, die Nachkommen Jesu, die Gemeinde, zu vernichten, und scheitert auch dabei" link="rev:13" lang="de" %}}, wie man an {{% int_link val="der Zahl 666" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}} sehen kann.
 
 Ein drittes Mal wird der Teufel gezeigt, {{% bible val="als Dreifaltigkeit bei der sechsten Schale" link="rev:16,13" lang="de" %}}, die dann in den Kapiteln {{% bible val="19" link="rev:19,20" lang="de" %}} und {{% bible val="20" link="rev:20,10" lang="de" %}} gerichtet wird. Diese Passagen rahmen die Geschichte der Hure ein, wo das Tier und die Hure gemeinsam auftreten.
 
@@ -48,9 +48,9 @@ Diese drei Blickwinkel hängen zusammen und ergänzen sich gegenseitig zu einem 
 <a name="ae7b"></a>
 Um besser zu verstehen, wie der Teufel beschrieben wird, müssen wir uns die {{% bible val="zweite Geschichte vom Drachen und den beiden Tieren" link="rev:13" lang="de" %}} ansehen.
 
-Er {{% int_link val="errichtet eine böse Dreifaltigkeit" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, um die Gemeinde zu täuschen, aber {{% int_link val="ohne Erfolg" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}}.
+Er {{% int_link val="errichtet eine böse Dreifaltigkeit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, um die Gemeinde zu täuschen, aber {{% int_link val="ohne Erfolg" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
-Der {{% int_link val="Drache und die Tiere arbeiten zusammen, um ihr Ziel zu erreichen" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, gehen dabei aber unterschiedlich vor: Das erste Tier setzt auf Gewalt, während das zweite auf Zeichen, Wunder und wirtschaftlichen Druck setzt — {{% int_link val="siehe auch im historischen Kontext" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
+Der {{% int_link val="Drache und die Tiere arbeiten zusammen, um ihr Ziel zu erreichen" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, gehen dabei aber unterschiedlich vor: Das erste Tier setzt auf Gewalt, während das zweite auf Zeichen, Wunder und wirtschaftlichen Druck setzt — {{% int_link val="siehe auch im historischen Kontext" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
 
 Betrachten wir nun {{% int_link val="die vier Reiter, finden wir dasselbe Muster" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
 
@@ -101,7 +101,7 @@ Verfolgt man die Entwicklung dieses Bildes durch das Buch, begegnet man Satan zu
 
 Er scheint der Sieger zu sein, doch am Ende hinterlässt er überall Zerstörung und Tod. Er wird als das genaue Gegenteil dessen entlarvt, was Jesus bringt. Aber was genau bringt Jesus, das der Teufel nicht kann?
 
-Das ist das Thema, das in der Geschichte vom Drachen und den beiden Tieren entfaltet wird. Dort hat {{% int_link val="Satan tatsächlich einiges wirklich Verlockendes anzubieten" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Doch der Text stellt dem eine klare Alternative gegenüber: {{% int_link val="die beiden Zeugen, die einen Lebensstil der Anbetung führen und in ihrem Zeugnis treu bleiben bis in den Tod" link="/expl/content/witnesses/the-two-witnesses" %}}.
+Das ist das Thema, das in der Geschichte vom Drachen und den beiden Tieren entfaltet wird. Dort hat {{% int_link val="Satan tatsächlich einiges wirklich Verlockendes anzubieten" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Doch der Text stellt dem eine klare Alternative gegenüber: {{% int_link val="die beiden Zeugen, die einen Lebensstil der Anbetung führen und in ihrem Zeugnis treu bleiben bis in den Tod" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
 Dieser Kontrast entfaltet sich schließlich vollständig in der letzten Vision, wo Babylon ausführlich als das dunkle Gegenstück zum Neuen Jerusalem beschrieben wird.
 

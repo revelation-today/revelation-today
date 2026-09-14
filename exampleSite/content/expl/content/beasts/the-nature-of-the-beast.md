@@ -38,7 +38,7 @@ The second time he appears is when {{% bible val="Jesus is declared victorious a
 - {{% bible val="He tries to destroy the child — and fails" link="rev:12,1-6" lang="en" %}}.
 - {{% bible val="He fights against Michael — and is cast out of heaven" link="rev:12,7-12" lang="en" %}}.
 - {{% bible val="He tries to destroy the woman — and fails" link="rev:12,13-17" lang="en" %}}.
-- {{% bible val="He tries to destroy the descendants of Jesus, the Church, and also fails" link="rev:13" lang="en" %}}, as we see in {{% int_link val="the number 666" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}}.
+- {{% bible val="He tries to destroy the descendants of Jesus, the Church, and also fails" link="rev:13" lang="en" %}}, as we see in {{% int_link val="the number 666" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
 The devil is shown a third time {{% bible val="as a trinity in the sixth bowl" link="rev:16,13" lang="en" %}}, which is then judged in chapters {{% bible val="19" link="rev:19,20" lang="en" %}} and {{% bible val="20" link="rev:20,10" lang="en" %}}. These passages frame the story of the harlot, where the beast and the harlot appear together.
 
@@ -49,9 +49,9 @@ These three views are interrelated, each adding to the picture of the devil's ac
 <a name="45d1"></a>
 To better understand how the devil is described, we need to look at the {{% bible val="second story of the dragon and the two beasts" link="rev:13" lang="en" %}}.
 
-He sets {{% int_link val="up an evil trinity" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}} to deceive the church, but {{% int_link val="to no avail" link="/content/beasts/expl/666-the-number-of-the-beast#5112" %}}.
+He sets {{% int_link val="up an evil trinity" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}} to deceive the church, but {{% int_link val="to no avail" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
-The {{% int_link val="dragon and the beasts are described as working together to accomplish their goal" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, but they act differently: the first beast relies on violence, while the second relies on signs, miracles, and economic pressure — {{% int_link val="see also in the historical context" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
+The {{% int_link val="dragon and the beasts are described as working together to accomplish their goal" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, but they act differently: the first beast relies on violence, while the second relies on signs, miracles, and economic pressure — {{% int_link val="see also in the historical context" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
 
 If we now look {{% int_link val="at the four horsemen, we find the same pattern" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} (developed in more detail there):
 
@@ -102,6 +102,6 @@ Tracing the development of this image across the book, we first meet Satan in th
 
 He appears to be the victorious one, but he ends up leaving destruction and death everywhere. He is exposed for bringing the very opposite of what Jesus brings. But what, exactly, does Jesus bring that the devil can't?
 
-That's the theme developed in the story of the dragon and the two beasts. There, {{% int_link val="Satan does have some genuinely appealing things to offer" link="/content/beasts/expl/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Yet the text sets a clear alternative alongside it: {{% int_link val="the two witnesses, who live a lifestyle of worship and stay faithful in their testimony even to death" link="/expl/content/witnesses/the-two-witnesses" %}}.
+That's the theme developed in the story of the dragon and the two beasts. There, {{% int_link val="Satan does have some genuinely appealing things to offer" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Yet the text sets a clear alternative alongside it: {{% int_link val="the two witnesses, who live a lifestyle of worship and stay faithful in their testimony even to death" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
 This contrast finally unfolds in full in the last vision, where Babylon is described in detail as the dark counterpart of the New Jerusalem.

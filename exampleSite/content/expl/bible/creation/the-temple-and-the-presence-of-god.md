@@ -48,5 +48,5 @@ And in the book of Revelation, the church appears as the Bride of Christ, who is
 
 ## Dig deeper
 
-{{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources/index.html#beale_dwell" %}}
+{{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}
 

@@ -51,4 +51,4 @@ Ve Vahiy kitabında kilise, aynı zamanda Yeni Yeruşalim de olan Mesih'in Gelin
 
 ## Daha derine inmek isterseniz
 
-{{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources/index.html#beale_dwell" %}}
+{{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}

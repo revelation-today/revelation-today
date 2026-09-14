@@ -154,7 +154,7 @@ The {{% int_link val="previous article" link="/expl/content/1000y/the-thousand-y
 
 The honest cost is crux 1. One verb, twice, a few words apart, meaning two different kinds of coming-to-life is the hardest thing amillennialism asks of a reader, and the answer above — souls rather than bodies, *first* and *second* marking two orders — is an argument, not a knock-down. It should be said plainly that the two commentaries cited on this page divide over it: Aune decides crux 1 against the reading argued here, and Beale decides it for. A reader who weighs that sentence more heavily than the book's recapitulation habit will land premillennial, and will be reasoning properly.
 
-{{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources/index.html#bock_millennium" %}} is the place to see each case made at full strength by someone who actually holds it, with the others responding — which is the only format in which this argument is worth having.
+{{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources#bock_millennium" %}} is the place to see each case made at full strength by someone who actually holds it, with the others responding — which is the only format in which this argument is worth having.
 
 A few questions worth sitting with:
 

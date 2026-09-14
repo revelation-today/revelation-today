@@ -55,5 +55,5 @@ In the end it all works out, because the real hero of the story was never Moses,
 
 ## Dig deeper
 
-{{% int_link val="Nahum Sarna, Exodus, pages 27–37" link="/about/ressources/index.html#sarna_exo" %}}
+{{% int_link val="Nahum Sarna, Exodus, pages 27–37" link="/about/ressources#sarna_exo" %}}
 

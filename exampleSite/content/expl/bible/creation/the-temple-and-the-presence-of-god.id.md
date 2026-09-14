@@ -51,4 +51,4 @@ Dan dalam Kitab Wahyu, gereja tampil sebagai Mempelai Kristus, yang juga adalah 
 
 ## Selidiki Lebih Lanjut
 
-{{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources/index.html#beale_dwell" %}}
+{{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}

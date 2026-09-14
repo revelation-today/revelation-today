@@ -154,7 +154,7 @@ Bu, Vahiy 20'yi çözmek için icat edilmiş bir araç değil. Yeni Antlaşma ta
 
 Dürüst bedel 1. düğümdür. Tek bir fiilin, birkaç kelime arayla iki kez, iki farklı türde dirilme anlamına gelmesi, amilenyalizmin okurdan istediği en zor şeydir — ve yukarıdaki yanıt, bedenler değil canlar, iki düzeni işaretleyen "birinci/ikinci", bir argümandır; kesin bir darbe değil. Ve açıkça söylenmeli: bu sayfanın başvurduğu iki yorum bu konuda ayrışır — Aune 1. düğümü burada savunulan okumanın aleyhine, Beale ise lehine karara bağlar. O cümleyi kitabın yineleme alışkanlığından daha ağır tartan okur premilenyalist olur ve bunu yaparken düzgün akıl yürütmüş olur.
 
-{{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources/index.html#bock_millennium" %}} her savın, onu gerçekten benimseyen biri tarafından tam gücüyle ortaya konduğu ve ötekilerin yanıt verdiği yerdir — bu tartışmanın yapılmaya değer olduğu tek biçim.
+{{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources#bock_millennium" %}} her savın, onu gerçekten benimseyen biri tarafından tam gücüyle ortaya konduğu ve ötekilerin yanıt verdiği yerdir — bu tartışmanın yapılmaya değer olduğu tek biçim.
 
 Üzerinde durmaya değer birkaç soru:
 

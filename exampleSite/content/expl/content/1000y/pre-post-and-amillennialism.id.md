@@ -154,7 +154,7 @@ Ini bukan alat yang diciptakan untuk menangani Wahyu 20. Beginilah Perjanjian Ba
 
 Harga yang jujur adalah simpul 1. Satu kata kerja, dua kali, terpisah beberapa kata, yang berarti dua jenis "menjadi hidup" yang berbeda adalah hal tersulit yang diminta amilenialisme dari pembacanya — dan jawaban di atas, jiwa dan bukan tubuh, "pertama" dan "kedua" sebagai dua tatanan, adalah sebuah argumen, bukan pukulan telak. Dan perlu dikatakan dengan terus terang: kedua tafsiran yang dipakai halaman ini berbeda dalam hal ini — Aune memutuskan simpul 1 melawan pembacaan yang diargumentasikan di sini, sedangkan Beale memutuskannya mendukung. Pembaca yang menimbang kalimat itu lebih berat daripada kebiasaan rekapitulasi kitab ini akan berakhir sebagai pramilenialis, dan ia sedang bernalar dengan benar.
 
-{{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources/index.html#bock_millennium" %}} adalah tempat untuk melihat setiap perkara diajukan dalam kekuatan penuhnya oleh orang yang sungguh memegangnya, dengan yang lain menanggapi — satu-satunya format yang membuat perdebatan ini layak dijalani.
+{{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources#bock_millennium" %}} adalah tempat untuk melihat setiap perkara diajukan dalam kekuatan penuhnya oleh orang yang sungguh memegangnya, dengan yang lain menanggapi — satu-satunya format yang membuat perdebatan ini layak dijalani.
 
 Beberapa pertanyaan untuk direnungkan:
 

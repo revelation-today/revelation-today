@@ -55,4 +55,4 @@ Sonunda her şey yoluna girer, çünkü öykünün gerçek kahramanı hiçbir za
 
 ## Daha derine in
 
-{{% int_link val="Nahum Sarna, Exodus, sayfa 27–37" link="/about/ressources/index.html#sarna_exo" %}}
+{{% int_link val="Nahum Sarna, Exodus, sayfa 27–37" link="/about/ressources#sarna_exo" %}}

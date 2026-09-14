@@ -58,4 +58,4 @@ Am Ende geht alles gut aus, denn der wahre Held der Geschichte war nie Mose, son
 
 ## Vertiefung
 
-{{% int_link val="Nahum Sarna, Exodus, Seiten 27–37" link="/about/ressources/index.html#sarna_exo" %}}
+{{% int_link val="Nahum Sarna, Exodus, Seiten 27–37" link="/about/ressources#sarna_exo" %}}

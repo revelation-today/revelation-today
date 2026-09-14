@@ -58,4 +58,4 @@ Pada akhirnya semuanya berjalan baik, sebab pahlawan sesungguhnya dalam kisah in
 
 ## Menyelami lebih dalam
 
-{{% int_link val="Nahum Sarna, Exodus, halaman 27–37" link="/about/ressources/index.html#sarna_exo" %}}
+{{% int_link val="Nahum Sarna, Exodus, halaman 27–37" link="/about/ressources#sarna_exo" %}}
