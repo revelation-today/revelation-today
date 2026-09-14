@@ -8,4 +8,4 @@ docType: expl
 
 | Verse | Reference |
 |-------|-----------|
-| {{% bible val="Esther:9,15-25" link="est:9,15-25" lang="en" %}} | ["The character of the two witnesses": story of Esther](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Esther:9,15-25" link="est:9,15-25" lang="en" %}} | ["Defeat turned into victory": story of Esther](/expl/content/witnesses/the-two-witnesses#3181) |

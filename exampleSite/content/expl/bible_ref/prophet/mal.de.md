@@ -8,6 +8,6 @@ docType: expl
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Maleachi:3,1" link="mal:3,1" lang="de" %}} | ["Der zweite Auszug in Markus": Boten für den Tag des Herrn](/expl/background/israel/the-second-exodus#f526) |
-| {{% bible val="Maleachi:3,5" link="mal:3,5" lang="de" %}} | ["Der zweite Auszug in Markus": den Tag des Herrn (im zweiten Auszug) vorbereiten wird](/expl/background/israel/the-second-exodus#f526) |
-| {{% bible val="Maleachi:3,10-11" link="mal:3,10-11" lang="de" %}} | ["Ursprung des Tages des Herrn": das Land war noch unter dem Fluch](/expl/background/israel/the-day-of-the-lord#4fec) |
+| {{% bible val="Maleachi:3,1" link="mal:3,1" lang="de" %}} | ["Der Auszug bei Markus": Boten für den Tag des Herrn](/expl/background/israel/the-second-exodus#f526) |
+| {{% bible val="Maleachi:3,10-11" link="mal:3,10-11" lang="de" %}} | ["Der Ursprung des Tages des Herrn": Land stand immer noch unter dem Fluch](/expl/background/israel/the-day-of-the-lord#4fec) |
+| {{% bible val="Maleachi:3,23" link="mal:3,23" lang="de" %}} | ["Der Auszug bei Markus": Erfüllung Elias, der den neuen Auszug vor dem Kommen des Tages des Herrn vorbereitet](/expl/background/israel/the-second-exodus#f526) |

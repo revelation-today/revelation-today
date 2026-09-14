@@ -9,5 +9,5 @@ docType: expl
 | Vers | Referenz |
 |-------|-----------|
 | {{% bible val="1.Chronik:24,3-19" link="1ch:24,3-19" lang="de" %}} | ["Die Anbetung": 24 Priesterordnungen](/expl/content/worship/worship-in-the-throne-room#e545) |
-| {{% bible val="1.Chronik:25,6-31" link="1ch:25,6-31" lang="de" %}} | ["Die Anbetung": 24 von David eingeführten ständigen Anbeter](/expl/content/worship/worship-in-the-throne-room#e545) |
+| {{% bible val="1.Chronik:25" link="1ch:25,-1" lang="de" %}} | ["Die Anbetung": 24 von David eingesetzten ständigen Anbeter](/expl/content/worship/worship-in-the-throne-room#e545) |
 | {{% bible val="1.Chronik:26,17-19" link="1ch:26,17-19" lang="de" %}} | ["Die Anbetung": 24 levitischen Torwächter](/expl/content/worship/worship-in-the-throne-room#e545) |

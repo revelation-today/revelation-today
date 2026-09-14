@@ -60,8 +60,6 @@ def parse_line(file_path, lang, line, last_link, last_header, title):
     match_link = re.match(r"<a name=\"([^\"]+)\"></a>", line)
     if match_link:
         last_link = match_link.group(1)
-        if "witnesses.de" in file_path:
-            print(last_link, 222, file_path)
     match = re.findall(r"(\{\{\% bible val=\"([^\"]+)\" link=\"([^\"]+)\")", line)
     if match:
         for all, val, link in match:
@@ -204,7 +202,10 @@ def write_verse(fp, lang, book, data):
     else:
         bible_verse = BOOKS[book][lang] + ":" + chapter
     bible_link = book + ":" + chapter + "," + verse
-    bible_data = "{{% bible val=\"" + bible_verse + "\" link=\"" + bible_link + "\" lang=\"" + lang + "\" %}}" 
+    # Hugo's language code is "id"; the bible shortcode's translation table
+    # is keyed "ind". Bridge the two so the generated rows resolve.
+    sc_lang = SHORTCODE_LANG.get(lang, lang)
+    bible_data = "{{% bible val=\"" + bible_verse + "\" link=\"" + bible_link + "\" lang=\"" + sc_lang + "\" %}}" 
     if header:
         ref_text = "\"" + header + "\": " + text
     else:

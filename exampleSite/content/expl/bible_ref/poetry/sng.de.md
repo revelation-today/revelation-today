@@ -8,4 +8,4 @@ docType: expl
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Hoheslied:5,1-5" link="sng:5,1-5" lang="de" %}} | ["Die Lösung": sondern der Ruf des Geliebten zu seiner Geliebten](/expl/content/letters/the-letter-to-the-church-in-laodicea#3ba4) |
+| {{% bible val="Hoheslied:5,2-6" link="sng:5,2-6" lang="de" %}} | ["Die Lösung": dem Ruf des Liebenden an die Geliebte](/expl/content/letters/the-letter-to-the-church-in-laodicea#cee7) |

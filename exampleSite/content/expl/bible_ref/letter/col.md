@@ -8,4 +8,4 @@ docType: expl
 
 | Verse | Reference |
 |-------|-----------|
-| {{% bible val="Colossians:1,26" link="col:1,26" lang="en" %}} | ["The mystery": is now revealed](/expl/background/structure/the-three-mysteries#e458) |
+| {{% bible val="Colossians:3,1" link="col:3,1" lang="en" %}} | ["Crux 1: two comings to life, one verb": have been raised with Christ](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |

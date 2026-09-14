@@ -4,7 +4,7 @@ weight: 23
 docType: expl
 ---
 
-21 bible verses have been used in this book.
+24 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -15,17 +15,20 @@ docType: expl
 | {{% bible val="Jeremiah:3,3" link="jer:3,3" lang="en" %}} | ["The religious aspect": a harlot’s forehead, acting without shame](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Jeremiah:4,30" link="jer:4,30" lang="en" %}} | ["The religious aspect": Her robe is scarlet, she decorates herself with gold](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Jeremiah:4,30" link="jer:4,30" lang="en" %}} | ["The religious aspect": But her lovers despise her and want to kill her](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
-| {{% bible val="Jeremiah:4,30" link="jer:4,30" lang="en" %}} | ["The economic aspect": might attract](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Jeremiah:4,30" link="jer:4,30" lang="en" %}} | ["The economic aspect": Judah found so attractive](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Jeremiah:10,7" link="jer:10,7" lang="en" %}} | ["The song of Moses": Jeremiah, where the same question is asked of the King of the nations](/expl/content/harvest/gods-army-and-the-seven-angels#5102) |
 | {{% bible val="Jeremiah:11,15" link="jer:11,15" lang="en" %}} | ["Beloved of the Lord": Israel breaking the covenant](/expl/background/israel/the-church-is-part-of-israel#3d64) |
 | {{% bible val="Jeremiah:11,16" link="jer:11,16" lang="en" %}} | ["Olive tree": they broke the covenant](/expl/background/israel/the-church-is-part-of-israel#e179) |
-| {{% bible val="Jeremiah:12,10" link="jer:12,10" lang="en" %}} | ["Gods vineyard": mistreated](/expl/background/israel/the-church-is-part-of-israel#3501) |
+| {{% bible val="Jeremiah:12,10" link="jer:12,10" lang="en" %}} | ["God's vineyard": mistreated](/expl/background/israel/the-church-is-part-of-israel#3501) |
 | {{% bible val="Jeremiah:23,3" link="jer:23,3" lang="en" %}} | ["The remnant": God will start with a (small) remnant and increase in number](/expl/background/israel/the-remnant-of-israel#6205) |
 | {{% bible val="Jeremiah:25,11-12" link="jer:25,11-12" lang="en" %}} | ["What is a year week": Jeremiah](/expl/bible/daniel/the-70-year-weeks#e18f) |
 | {{% bible val="Jeremiah:29,10" link="jer:29,10" lang="en" %}} | ["The promise": knew the promise that God had made](/expl/bible/daniel/the-70-year-weeks#2d32) |
-| {{% bible val="Jeremiah:30,18" link="jer:30,18" lang="en" %}} | ["The 70 years": through the prophet Jeremiah ](/expl/bible/daniel/the-70-year-weeks#6576) |
-| {{% bible val="Jeremiah:31,9" link="jer:31,9" lang="en" %}} | ["Gods son": when Israel’s tribe Ephraim is called first-born](/expl/background/israel/the-church-is-part-of-israel#639c) |
+| {{% bible val="Jeremiah:29,10" link="jer:29,10" lang="en" %}} | ["Part 1: The 70 Weeks": Jeremiah 29:10](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#None) |
+| {{% bible val="Jeremiah:30,18" link="jer:30,18" lang="en" %}} | ["The 70 years": through the prophet Jeremiah](/expl/bible/daniel/the-70-year-weeks#6576) |
+| {{% bible val="Jeremiah:31,9" link="jer:31,9" lang="en" %}} | ["God's son": when Israel's tribe Ephraim is called first-born](/expl/background/israel/the-church-is-part-of-israel#639c) |
 | {{% bible val="Jeremiah:31,31-34" link="jer:31,31-34" lang="en" %}} | ["The 70 years": covenant with many](/expl/bible/daniel/the-70-year-weeks#6576) |
 | {{% bible val="Jeremiah:49,19-22" link="jer:49,19-22" lang="en" %}} | ["The four kingdoms": lion and eagle](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
-| {{% bible val="Jeremiah:51,25" link="jer:51,25" lang="en" %}} | ["The seven hills and seven kings": Babylon as a mountain](/expl/content/harlot/who-is-the-harlot-babylon-part-1#2d9d) |
-| {{% bible val="Jeremiah:51,25" link="jer:51,25" lang="en" %}} | ["The first four trumpets": ancient Babel](/expl/content/trumpets/the-trumpets-in-revelation#8718) |
+| {{% bible val="Jeremiah:51,25" link="jer:51,25" lang="en" %}} | ["The seven hills and seven kings": Babylon described as a mountain](/expl/content/harlot/who-is-the-harlot-babylon-part-1#2d9d) |
+| {{% bible val="Jeremiah:51,25" link="jer:51,25" lang="en" %}} | ["The first four trumpets": a destroying mountain](/expl/content/trumpets/the-trumpets-in-revelation#8718) |
 | {{% bible val="Jeremiah:51,33" link="jer:51,33" lang="en" %}} | ["The two harvests": threshing](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
+| {{% bible val="Jeremiah:51,63-64" link="jer:51,63-64" lang="en" %}} | ["The first four trumpets": Jeremiah's scroll against Babylon was tied to a stone and sunk in the Euphrates](/expl/content/trumpets/the-trumpets-in-revelation#8718) |

@@ -8,4 +8,4 @@ docType: expl
 
 | Vers | Referenz |
 |-------|-----------|
-| {{% bible val="Kolosser:1,26" link="col:1,26" lang="de" %}} | ["Das Geheimnis": der aber jetzt enthüllt ist](/expl/background/structure/the-three-mysteries#b12e) |
+| {{% bible val="Kolosser:3,1" link="col:3,1" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": mit Christus auferweckt](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
