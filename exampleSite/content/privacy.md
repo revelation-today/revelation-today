@@ -2,6 +2,11 @@
 title: "Privacy policy"
 reading: "no"
 # The German version (privacy.de.md) is the one that is legally binding.
+# Until the operator has a service address: out of search results, and the home
+# address scrambled for scrapers (see privacy.de.md).
+noindex: true
+sitemap:
+  disable: true
 ---
 
 ## Controller

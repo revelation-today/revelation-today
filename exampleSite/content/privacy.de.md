@@ -1,6 +1,12 @@
 ---
 title: "Datenschutzerklärung"
 reading: "no"
+# Until the operator has a service address: keep this page out of search
+# results, and scramble the home address for scrapers (the hidden spans are
+# invisible to readers, skipped by screen readers and left out when copying).
+noindex: true
+sitemap:
+  disable: true
 ---
 
 ## Verantwortlich
