@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const buttons = document.querySelectorAll(".hextra-sidebar-collapsible-button");
+  const buttons = document.querySelectorAll(".sb-btn");
   buttons.forEach(function (button) {
     button.addEventListener("click", function (e) {
       e.preventDefault();

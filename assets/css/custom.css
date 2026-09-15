@@ -85,3 +85,185 @@ html.dark .page-toc {
   text-transform: uppercase;
   opacity: 0.6;
 }
+
+/* ---------------------------------------------------------------------------
+   Sidebar
+
+   The sidebar was about 90% of the bytes of every page: the same tree was
+   rendered twice, once for phones and once for wide screens, and each link
+   carried close to a kilobyte of utility classes. It is now rendered once
+   (see partials/sidebar.html) with the short class names below. The values
+   are copied from the compiled Tailwind utilities they replace, so the
+   sidebar looks as it did.
+   --------------------------------------------------------------------------- */
+.sb-a,
+.sb-toc a {
+  display: flex;
+  gap: 0.5rem;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  padding: 0.375rem 0.5rem;
+  font-size: 0.875rem;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+  word-break: break-word;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  color: rgb(107 114 128);
+}
+.sb-a {
+  align-items: center;
+  justify-content: space-between;
+}
+.sb-toc a::before {
+  content: "#";
+  opacity: 0.25;
+}
+.sb-a:hover,
+.sb-toc a:hover {
+  background-color: rgb(243 244 246);
+  color: rgb(17 24 39);
+}
+html.dark .sb-a,
+html.dark .sb-toc a {
+  color: rgb(163 163 163);
+}
+html.dark .sb-a:hover,
+html.dark .sb-toc a:hover {
+  background-color: hsl(var(--primary-hue) var(--primary-saturation) 94% / 0.05);
+  color: rgb(249 250 251);
+}
+.sb-a.sidebar-active-item {
+  background-color: hsl(var(--primary-hue) var(--primary-saturation) 94%);
+  font-weight: 600;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 32%);
+}
+html.dark .sb-a.sidebar-active-item {
+  background-color: hsl(var(--primary-hue) var(--primary-saturation) 66% / 0.1);
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45%);
+}
+@media (prefers-contrast: more) {
+  .sb-a,
+  .sb-toc a {
+    border: 1px solid transparent;
+    color: rgb(17 24 39);
+  }
+  .sb-a:hover,
+  .sb-toc a:hover {
+    border-color: rgb(17 24 39);
+  }
+  html.dark .sb-a,
+  html.dark .sb-toc a {
+    color: rgb(249 250 251);
+  }
+  html.dark .sb-a:hover,
+  html.dark .sb-toc a:hover {
+    border-color: rgb(249 250 251);
+  }
+  .sb-a.sidebar-active-item,
+  html.dark .sb-a.sidebar-active-item {
+    border-color: hsl(var(--primary-hue) var(--primary-saturation) 50%);
+  }
+}
+
+/* nested lists, with the thin guide line down their left edge */
+.sidebar-container li > div {
+  overflow: hidden;
+}
+.sb-sub {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-left: 0.75rem;
+  padding-left: 0.75rem;
+}
+.sb-sub::before {
+  content: "";
+  position: absolute;
+  top: 0.25rem;
+  bottom: 0.25rem;
+  left: 0;
+  width: 1px;
+  background-color: rgb(229 231 235);
+}
+html.dark .sb-sub::before {
+  background-color: rgb(38 38 38);
+}
+[dir="rtl"] .sb-sub {
+  margin-left: 0;
+  padding-left: 0;
+  margin-right: 0.75rem;
+  padding-right: 0.75rem;
+}
+[dir="rtl"] .sb-sub::before {
+  left: auto;
+  right: 0;
+}
+.sb-sub > li {
+  display: flex;
+  flex-direction: column;
+}
+.sb-sep {
+  margin: 1.25rem 0 0.5rem;
+  padding: 0.375rem 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  word-break: break-word;
+  color: rgb(17 24 39);
+  cursor: default;
+}
+.sb-sep:first-child {
+  margin-top: 0;
+}
+html.dark .sb-sep {
+  color: rgb(243 244 246);
+}
+
+/* the expand chevron */
+.sb-btn svg {
+  height: 18px;
+  min-width: 18px;
+  border-radius: 0.125rem;
+  padding: 0.125rem;
+  fill: none;
+  stroke: currentColor;
+}
+.sb-btn svg:hover {
+  background-color: rgb(31 41 55 / 0.05);
+}
+html.dark .sb-btn svg:hover {
+  background-color: rgb(243 244 246 / 0.05);
+}
+.sb-btn path {
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transform-origin: center;
+  transition: transform 150ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+[dir="rtl"] .sb-btn path {
+  transform: rotate(-180deg);
+}
+
+/* Wide screens: the same tree, minus the section's own link and the in-page
+   headings, with the section's children lifted to the top level. This is
+   what the separate wide-screen tree used to show. */
+@media (min-width: 768px) {
+  .sb-tree > .sb-sec > a,
+  .sb-toc {
+    display: none;
+  }
+  .sidebar-container .sb-tree > .sb-sec > div {
+    height: auto;
+    padding-top: 0;
+  }
+  .sb-tree > .sb-sec > div > .sb-sub {
+    margin: 0;
+    padding: 0;
+  }
+  .sb-tree > .sb-sec > div > .sb-sub::before {
+    display: none;
+  }
+}

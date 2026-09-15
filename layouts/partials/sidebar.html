@@ -8,7 +8,7 @@
 {{- $displayPlaceholder := .displayPlaceholder | default false -}}
 {{- $sidebarClass := cond $disableSidebar (cond $displayPlaceholder "md:hx-hidden xl:hx-block" "md:hx-hidden") "md:hx-sticky" -}}
 
-{{- $navRoot := cond (eq site.Home.Type "docs") site.Home $context.FirstSection -}}
+{{- $section := cond (eq site.Home.Type "docs") site.Home $context.FirstSection -}}
 {{- $pageURL := $context.RelPermalink -}}
 
 {{/* EXPERIMENTAL */}}
@@ -49,10 +49,10 @@
   {{- if not $docType -}}
     {{- if or (eq $pageURL (print $prefix "/contact/")) (eq $pageURL (print $prefix "/about/")) (eq $pageURL (print $prefix "/thanks/")) (hasPrefix $pageURL (print $prefix "/welcome/done")) -}}
       {{- if or (hasPrefix $secLink (print $prefix "/appl/")) (hasPrefix $secLink (print $prefix "/expl/")) (hasPrefix $secLink (print $prefix "/quick/")) (hasPrefix $secLink (print $prefix "/story/")) -}}
-        {{- $exclude = $exclude | append $secLink -}}  
+        {{- $exclude = $exclude | append $secLink -}}
       {{- end -}}
     {{- else if not (hasPrefix $secLink (print $prefix "/welcome")) -}}
-      {{- $exclude = $exclude | append $secLink -}}  
+      {{- $exclude = $exclude | append $secLink -}}
     {{- end -}}
   {{- else if and (not (hasPrefix $secLink (print $prefix "/" $docType "/"))) (not (hasPrefix $secLink (print $prefix "/contact"))) (not (hasPrefix $secLink (print $prefix "/about"))) -}}
     {{- $exclude = $exclude | append $secLink -}}
@@ -66,20 +66,35 @@
     {{ partial "search.html" }}
   </div>
   <div class="hextra-scrollbar hx-overflow-y-auto hx-overflow-x-hidden hx-p-4 hx-grow md:hx-h-[calc(100vh-var(--navbar-height)-var(--menu-height))]">
-    <ul class="hx-flex hx-flex-col hx-gap-1 md:hx-hidden">
-      <!-- Nav -->
-      {{ template "sidebar-main" (dict "context" site.Home "page" $context "pageURL" $pageURL "exclude" $exclude "toc" true) -}}
-    </ul>
-
-    <!-- Sidebar on large screen -->
     {{- if $disableSidebar -}}
+      <ul class="hx-flex hx-flex-col hx-gap-1 md:hx-hidden">
+        {{ template "sidebar-tree" (dict "context" site.Home "page" $context "exclude" $exclude "toc" true "level" 0 "maxLevel" 4) -}}
+      </ul>
       {{- if $displayPlaceholder }}<div class="max-xl:hx-hidden hx-h-0 hx-w-64 hx-shrink-0"></div>{{ end -}}
       {{ .context.Scratch.Set "enableFooterSwitches" true }}
-    {{- else -}}
-      <ul class="hx-flex hx-flex-col hx-gap-1 max-md:hx-hidden">
-        {{ template "sidebar-main" (dict "context" $navRoot "page" $context "pageURL" $pageURL "exclude" $exclude) }}
+    {{- else if or (eq $section site.Home) (in site.Home.Sections $section) -}}
+      {{/* One tree serves both widths. This used to be two: a phone menu rooted
+           at the site home, and a wide-screen tree rooted at the page's section,
+           which together were most of the bytes of every page. The phone tree
+           is kept, and on a wide screen custom.css hides the section's own
+           link (.sb-sec) and the in-page headings (.sb-toc), which leaves the
+           tree the wide-screen sidebar used to render on its own. maxLevel 5
+           is that tree's former four levels below the section. */}}
+      <ul class="sb-tree hx-flex hx-flex-col hx-gap-1">
+        {{ template "sidebar-tree" (dict "context" site.Home "page" $context "exclude" $exclude "toc" true "level" 0 "maxLevel" 5) -}}
       </ul>
-    {{ end -}}
+    {{- else -}}
+      {{/* The section is not reachable from the home page, so the phone tree
+           cannot stand in for it. This is the case for /themes/: its name is
+           also the plural of the `theme` taxonomy, and site.Home.Sections
+           leaves it out. Render the two trees separately, as before. */}}
+      <ul class="hx-flex hx-flex-col hx-gap-1 md:hx-hidden">
+        {{ template "sidebar-tree" (dict "context" site.Home "page" $context "exclude" $exclude "toc" true "level" 0 "maxLevel" 4) -}}
+      </ul>
+      <ul class="hx-flex hx-flex-col hx-gap-1 max-md:hx-hidden">
+        {{ template "sidebar-tree" (dict "context" $section "page" $context "exclude" $exclude "level" 0 "maxLevel" 4) -}}
+      </ul>
+    {{- end -}}
   </div>
   {{/* Hide theme switch when sidebar is disabled */}}
   {{ $switchesClass := cond $disableSidebar "md:hx-hidden" "" -}}
@@ -99,16 +114,14 @@
   {{- end -}}
 </aside>
 
-{{- define "sidebar-main" -}}
-  {{ template "sidebar-tree" (dict "context" .context "level" 0 "page" .page "pageURL" .pageURL "toc" (.toc | default false) "exclude" .exclude) }}
-{{- end -}}
-
+{{/* The sidebar is repeated on every page, so its markup is kept terse: the
+     styling lives in custom.css under sb-* class names rather than inline
+     utility classes. */}}
 {{- define "sidebar-tree" -}}
-  {{- if ge .level 4 -}}
+  {{- if ge .level .maxLevel -}}
     {{- return -}}
   {{- end -}}
 
-  {{- $context := .context -}}
   {{- $page := .page }}
   {{- $exclude := .exclude | default slice -}}
   {{- $pageURL := .page.RelPermalink -}}
@@ -116,64 +129,38 @@
   {{- $toc := .toc | default false -}}
   {{- with $items := union .context.RegularPages .context.Sections -}}
     {{- $items = where $items "Params.sidebar.exclude" "!=" true -}}
-    {{- if eq $level 0 -}}
-      {{- range $items.ByWeight }}
-        {{- if (in $exclude .RelPermalink) -}}
-        {{- else if .Params.sidebar.separator -}}
-          <li class="[word-break:break-word] hx-mt-5 hx-mb-2 hx-px-2 hx-py-1.5 hx-text-sm hx-font-semibold hx-text-gray-900 first:hx-mt-0 dark:hx-text-gray-100">
-            <span class="hx-cursor-default">{{ partial "utils/title" . }}</span>
-          </li>
-        {{- else -}}
-          {{- $active := eq $pageURL .RelPermalink -}}
-          {{- $shouldOpen := or (.Params.sidebar.open) (.IsAncestor $page) $active | default true }}
-          <li class="{{ if $shouldOpen }}open{{ end }}">
-            {{- $linkTitle := partial "utils/title" . -}}
-            {{- template "sidebar-item-link" dict "context" . "active" $active "title" $linkTitle "link" .RelPermalink -}}
-            {{- if and $toc $active -}}
-              {{- template "sidebar-toc" dict "page" . -}}
-            {{- end -}}
-            {{- template "sidebar-tree" dict "context" . "page" $page "pageURL" $pageURL "level" (add $level 1) "toc" $toc "exclude" $exclude -}}
-          </li>
-        {{- end -}}
-      {{- end -}}
-    {{- else -}}
-      <div class="ltr:hx-pr-0 hx-overflow-hidden">
-        <ul class='hx-relative hx-flex hx-flex-col hx-gap-1 before:hx-absolute before:hx-inset-y-1 before:hx-w-px before:hx-bg-gray-200 before:hx-content-[""] ltr:hx-ml-3 ltr:hx-pl-3 ltr:before:hx-left-0 rtl:hx-mr-3 rtl:hx-pr-3 rtl:before:hx-right-0 dark:before:hx-bg-neutral-800'>
-          {{- range $items.ByWeight }}
-            {{- if not (in $exclude .RelPermalink) -}}
-              {{- $active := eq $pageURL .RelPermalink -}}
-              {{- $shouldOpen := or (.Params.sidebar.open) (.IsAncestor $page) $active | default true }}
-              {{- $linkTitle := partial "utils/title" . -}}
-            <li class="hx-flex hx-flex-col {{ if $shouldOpen }}open{{ end }}">
-              {{- template "sidebar-item-link" dict "context" . "active" $active "title" $linkTitle "link" .RelPermalink -}}
-              {{- if and $toc $active -}}
-                {{ template "sidebar-toc" dict "page" . }}
-              {{- end }}
-              {{ template "sidebar-tree" dict "context" . "page" $page "pageURL" $pageURL "level" (add $level 1) "toc" $toc "exclude" $exclude }}
-            {{- end -}}  
-            </li>
+    {{- if gt $level 0 }}<div><ul class="sb-sub">{{ end -}}
+    {{- range $items.ByWeight }}
+      {{- if (in $exclude .RelPermalink) -}}
+      {{- else if and (eq $level 0) .Params.sidebar.separator -}}
+        <li class="sb-sep"><span>{{ partial "utils/title" . }}</span></li>
+      {{- else -}}
+        {{- $active := eq $pageURL .RelPermalink -}}
+        {{- $shouldOpen := or (.Params.sidebar.open) (.IsAncestor $page) $active | default true }}
+        {{- $class := slice -}}
+        {{- if $shouldOpen }}{{ $class = $class | append "open" }}{{ end -}}
+        {{- if and (eq $level 0) .IsSection }}{{ $class = $class | append "sb-sec" }}{{ end -}}
+        <li{{ with $class }} class="{{ delimit . " " }}"{{ end }}>
+          {{- template "sidebar-item-link" dict "context" . "active" $active "title" (partial "utils/title" .) "link" .RelPermalink -}}
+          {{- if and $toc $active -}}
+            {{- template "sidebar-toc" dict "page" . -}}
           {{- end -}}
-        </ul>
-      </div>
+          {{- template "sidebar-tree" dict "context" . "page" $page "level" (add $level 1) "maxLevel" $.maxLevel "toc" $toc "exclude" $exclude -}}
+        </li>
+      {{- end -}}
     {{- end -}}
+    {{- if gt $level 0 }}</ul></div>{{ end -}}
   {{- end }}
 {{- end -}}
 
 {{- define "sidebar-toc" -}}
   {{ $page := .page }}
   {{ with $page.Fragments.Headings }}
-    <ul class='hx-flex hx-flex-col hx-gap-1 hx-relative before:hx-absolute before:hx-inset-y-1 before:hx-w-px before:hx-bg-gray-200 before:hx-content-[""] dark:before:hx-bg-neutral-800 ltr:hx-pl-3 ltr:before:hx-left-0 rtl:hx-pr-3 rtl:before:hx-right-0 ltr:hx-ml-3 rtl:hx-mr-3'>
+    <ul class="sb-sub sb-toc">
       {{- range . }}
         {{- with .Headings }}
           {{- range . -}}
-            <li>
-              <a
-                href="#{{ anchorize .ID }}"
-                class="hx-flex hx-rounded hx-px-2 hx-py-1.5 hx-text-sm hx-transition-colors [word-break:break-word] hx-cursor-pointer [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] contrast-more:hx-border hx-gap-2 before:hx-opacity-25 before:hx-content-['#'] hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:hx-text-gray-900 contrast-more:dark:hx-text-gray-50 contrast-more:hx-border-transparent contrast-more:hover:hx-border-gray-900 contrast-more:dark:hover:hx-border-gray-50"
-              >
-                {{- .Title -}}
-              </a>
-            </li>
+            <li><a href="#{{ anchorize .ID }}">{{- .Title -}}</a></li>
           {{ end -}}
         {{ end -}}
       {{ end -}}
@@ -185,9 +172,7 @@
   {{- range site.Menus.sidebar -}}
     {{- $name := or (T .Identifier) .Name -}}
     {{ if eq .Params.type "separator" }}
-      <li class="[word-break:break-word] hx-mt-5 hx-mb-2 hx-px-2 hx-py-1.5 hx-text-sm hx-font-semibold hx-text-gray-900 first:hx-mt-0 dark:hx-text-gray-100">
-        <span class="hx-cursor-default">{{ $name }}</span>
-      </li>
+      <li class="sb-sep"><span>{{ $name }}</span></li>
     {{ else }}
       <li>{{ template "sidebar-item-link" dict "active" false "title" $name "link" (.URL | relLangURL) }}</li>
     {{ end }}
@@ -196,28 +181,16 @@
 
 {{- define "sidebar-item-link" -}}
   {{- $external := strings.HasPrefix .link "http" -}}
-  {{- $open := .open | default true -}}
-  <a
-    class="hx-flex hx-items-center hx-justify-between hx-gap-2 hx-cursor-pointer hx-rounded hx-px-2 hx-py-1.5 hx-text-sm hx-transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-    {{- if .active }}
-      sidebar-active-item hx-bg-primary-100 hx-font-semibold hx-text-primary-800 contrast-more:hx-border contrast-more:hx-border-primary-500 dark:hx-bg-primary-400/10 dark:hx-text-primary-600 contrast-more:dark:hx-border-primary-500
-    {{- else }}
-      hx-text-gray-500 hover:hx-bg-gray-100 hover:hx-text-gray-900 contrast-more:hx-border contrast-more:hx-border-transparent contrast-more:hx-text-gray-900 contrast-more:hover:hx-border-gray-900 dark:hx-text-neutral-400 dark:hover:hx-bg-primary-100/5 dark:hover:hx-text-gray-50 contrast-more:dark:hx-text-gray-50 contrast-more:dark:hover:hx-border-gray-50
-    {{- end -}}"
-    href="{{ .link }}"
-    {{ if $external }}target="_blank" rel="noreferer"{{ end }}
-  >
+  <a class="sb-a{{ if .active }} sidebar-active-item{{ end }}" href="{{ .link }}"{{ if $external }} target="_blank" rel="noreferer"{{ end }}>
     {{- .title -}}
     {{- with .context }}
-      {{- if or .RegularPages .Sections }}
-        <span class="hextra-sidebar-collapsible-button">
-          {{- template "sidebar-collapsible-button" -}}
-        </span>
+      {{- if or .RegularPages .Sections -}}
+        <span class="sb-btn">{{- template "sidebar-collapsible-button" -}}</span>
       {{- end }}
-    {{ end -}}
+    {{- end -}}
   </a>
 {{- end -}}
 
 {{- define "sidebar-collapsible-button" -}}
-  <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="hx-h-[18px] hx-min-w-[18px] hx-rounded-sm hx-p-0.5 hover:hx-bg-gray-800/5 dark:hover:hx-bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="hx-origin-center hx-transition-transform rtl:-hx-rotate-180"></path></svg>
+  <svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg>
 {{- end -}}
