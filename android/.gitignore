@@ -1,0 +1,17 @@
+# Built packages: rebuilt from twa-manifest.json with `bubblewrap build`
+*.aab
+*.apk
+*.idsig
+
+# Gradle and Android build output
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+
+# Signing keys never belong in the repository (the upload key lives in
+# C:\Users\hagen\.bubblewrap\keys, backed up outside this computer)
+*.keystore
+*.jks
