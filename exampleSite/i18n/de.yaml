@@ -60,3 +60,5 @@ offlineBody: "Diese Seite ist auf diesem Gerät noch nicht gespeichert. Seiten, 
 offlineNone: "Noch keine Seiten gespeichert."
 offlineRetry: "Erneut versuchen"
 privacy: "Datenschutz"
+installHint: "Als App installieren und offline lesen: tippe auf {share} Teilen, dann „Zum Home-Bildschirm“. Unter iOS 26 findest du Teilen unter {more}."
+installHintClose: "Schließen"

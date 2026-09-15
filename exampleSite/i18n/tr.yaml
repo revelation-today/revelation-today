@@ -60,3 +60,5 @@ offlineBody: "Bu sayfa henüz bu cihaza kaydedilmedi. Daha önce okuduğunuz vey
 offlineNone: "Henüz kaydedilmiş sayfa yok."
 offlineRetry: "Tekrar dene"
 privacy: "Gizlilik"
+installHint: "Çevrimdışı okumak için uygulama olarak yükleyin: {share} Paylaş'a, ardından “Ana Ekrana Ekle”ye dokunun. iOS 26'da Paylaş, {more} menüsündedir."
+installHintClose: "Kapat"

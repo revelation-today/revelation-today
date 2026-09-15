@@ -60,3 +60,5 @@ offlineBody: "Halaman ini belum tersimpan di perangkat ini. Halaman yang sudah A
 offlineNone: "Belum ada halaman yang tersimpan."
 offlineRetry: "Coba lagi"
 privacy: "Privasi"
+installHint: "Pasang sebagai aplikasi untuk membaca offline: ketuk {share} Bagikan, lalu “Tambah ke Layar Utama”. Di iOS 26, Bagikan ada di {more}."
+installHintClose: "Tutup"

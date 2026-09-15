@@ -60,3 +60,5 @@ offlineBody: "This page is not saved on this device yet. Pages you have already 
 offlineNone: "No pages saved yet."
 offlineRetry: "Try again"
 privacy: "Privacy"
+installHint: "Install as an app to read offline: tap {share} Share, then “Add to Home Screen”. On iOS 26, Share is under {more}."
+installHintClose: "Close"

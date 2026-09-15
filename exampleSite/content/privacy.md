@@ -41,7 +41,7 @@ If you write to us by email, we process your email address and the content of yo
 
 ## Offline reading and the app
 
-Pages you read, or choose to save for offline reading, are stored in your browser's storage on your device, so they are available without an internet connection. This data does not leave your device. Storing it is strictly necessary for a feature you asked for (§ 25(2) no. 2 TDDDG). You delete it by clearing the website's data in your browser or removing the app.
+Pages you read, or choose to save for offline reading, are stored in your browser's storage on your device, so they are available without an internet connection. Your browser likewise remembers if you closed a hint, such as the one about installing the app. This data does not leave your device. Storing it is strictly necessary for a feature you asked for (§ 25(2) no. 2 TDDDG). You delete it by clearing the website's data in your browser or removing the app.
 
 The installable app shows the same website and collects no further data.
 
