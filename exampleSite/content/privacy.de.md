@@ -34,11 +34,9 @@ Bibelstellen im Text lassen sich direkt anzeigen. Dafür lädt jede Seite ein Sk
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO; unser berechtigtes Interesse ist, Bibeltexte ohne Seitenwechsel lesbar zu machen.
 
-## Kontaktformular (FormKeep)
+## Kontakt per E-Mail
 
-Wenn du das Kontaktformular nutzt, gehen Name, E-Mail-Adresse, gegebenenfalls Telefonnummer und Nachricht an FormKeep (San Francisco, USA), das sie an uns weiterleitet. Die Formularseite lädt außerdem Gestaltungsdateien von cdn.jsdelivr.net; dabei wird deine IP-Adresse übermittelt.
-
-Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, soweit deine Anfrage auf eine Zusammenarbeit zielt, sonst Art. 6 Abs. 1 lit. f DSGVO. Die Daten werden dabei in die USA übermittelt. Wir löschen Nachrichten, wenn sie erledigt sind.
+Wenn du uns eine E-Mail schreibst, verarbeiten wir deine E-Mail-Adresse und den Inhalt deiner Nachricht, um sie zu beantworten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, soweit deine Anfrage auf eine Zusammenarbeit zielt, sonst Art. 6 Abs. 1 lit. f DSGVO; unser berechtigtes Interesse ist, deine Anfrage zu beantworten. Wir löschen Nachrichten, wenn sie erledigt sind und keine Aufbewahrungspflicht besteht.
 
 ## Offline lesen und App
 
