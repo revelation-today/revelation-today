@@ -1,7 +1,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  {{ if hugo.IsProduction -}}
+  {{- /* `noindex: true` in front matter keeps a page out of search results */}}
+  {{ if and hugo.IsProduction (not .Params.noindex) -}}
     <meta name="robots" content="index, follow" />
   {{ else -}}
     <meta name="robots" content="noindex, nofollow" />
