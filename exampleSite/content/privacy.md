@@ -35,11 +35,9 @@ Bible references in the text can be shown in place. For this, every page loads a
 
 The legal basis is Art. 6(1)(f) GDPR; our legitimate interest is letting readers read Bible passages without leaving the page.
 
-## Contact form (FormKeep)
+## Contact by email
 
-If you use the contact form, your name, email address, phone number if given, and message go to FormKeep (San Francisco, USA), which forwards them to us. The form page also loads style files from cdn.jsdelivr.net, which receives your IP address.
-
-The legal basis is Art. 6(1)(b) GDPR where your enquiry concerns working together, otherwise Art. 6(1)(f) GDPR. The data is transferred to the USA in the process. We delete messages once they have been dealt with.
+If you write to us by email, we process your email address and the content of your message in order to reply. The legal basis is Art. 6(1)(b) GDPR where your enquiry concerns working together, otherwise Art. 6(1)(f) GDPR; our legitimate interest is answering your enquiry. We delete messages once they have been dealt with and no retention duty applies.
 
 ## Offline reading and the app
 

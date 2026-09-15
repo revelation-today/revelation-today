@@ -3,4 +3,8 @@ Title: "Kontak"
 reading: "no"
 ---
 
-{{< formkeep_extended formId="1655da5ed7af74b15f1a6c6e61f1557c" lang="en" >}}
+Saya senang menerima pesan Anda: pertanyaan, keberatan, koreksi, atau bagaimana situs ini menolong Anda.
+
+Kirimkan email kepada saya di **[revelation-today@web.de](mailto:revelation-today@web.de)**.
+
+Saya membaca setiap pesan dan akan membalas secepatnya.

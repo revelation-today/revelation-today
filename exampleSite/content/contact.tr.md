@@ -3,5 +3,8 @@ Title: "Bize Ulaşın"
 reading: no
 ---
 
+Mesajınızı almaktan memnuniyet duyarım: sorular, itirazlar, düzeltmeler ya da sitenin size nasıl yardımcı olduğu.
 
-{{< formkeep_extended formId="1655da5ed7af74b15f1a6c6e61f1557c" lang="tr" >}}
+Bana **[revelation-today@web.de](mailto:revelation-today@web.de)** adresinden yazabilirsiniz.
+
+Her mesajı okuyorum ve en kısa sürede yanıt veriyorum.

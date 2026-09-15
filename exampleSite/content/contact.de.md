@@ -3,4 +3,8 @@ Title: Kontakt
 reading: no
 ---
 
-{{< formkeep_extended formId="1655da5ed7af74b15f1a6c6e61f1557c" lang="de" >}}
+Ich freue mich über deine Nachricht: Fragen, Widerspruch, Korrekturen oder wie dir die Seite geholfen hat.
+
+Schreib mir an **[revelation-today@web.de](mailto:revelation-today@web.de)**.
+
+Ich lese jede Nachricht und antworte, so bald ich kann.
