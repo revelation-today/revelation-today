@@ -83,6 +83,10 @@ document.addEventListener("DOMContentLoaded", function () {
         saved = String(Date.now());
         try { localStorage.setItem(key, saved); } catch (e) {}
         show();
+        // visitor statistics, when enabled (partials/custom/analytics.html)
+        if (window.goatcounter && window.goatcounter.count) {
+          window.goatcounter.count({ path: "offline-save" + data.unit, title: "Saved for offline: " + data.title, event: true });
+        }
       }
     } catch (error) {
       button.textContent = fill(data.tFailed);

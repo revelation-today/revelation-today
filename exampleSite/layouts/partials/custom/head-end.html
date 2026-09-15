@@ -1,7 +1,10 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.3.0/quicklink.umd.js"></script>
+{{- /* Served from the site rather than a CDN: one third party fewer for readers,
+       and the offline app keeps it with everything else. */ -}}
+{{- $quicklink := resources.Get "lib/quicklink/quicklink.umd.js" | fingerprint }}
+<script src="{{ $quicklink.RelPermalink }}" integrity="{{ $quicklink.Data.Integrity }}"></script>
 <script>
   window.addEventListener("load", () => {
-    // Loaded from a CDN, so absent when a saved page is read offline.
     if (window.quicklink) quicklink.listen();
   });
 </script>
+{{ partial "custom/analytics.html" . }}

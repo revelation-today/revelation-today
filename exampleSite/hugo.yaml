@@ -151,6 +151,10 @@ markup:
 enableInlineShortcodes: true
 
 params:
+  # GoatCounter site code, e.g. revelation-today for revelation-today.goatcounter.com.
+  # Empty: no visitor statistics. See layouts/partials/custom/analytics.html.
+  goatcounter: ""
+
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
 
   navbar:

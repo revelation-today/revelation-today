@@ -1,0 +1,35 @@
+{{- /*
+  Visitor statistics with GoatCounter (goatcounter.com): no cookies and
+  nothing stored in the browser, no IP addresses kept; hosted at Hetzner in
+  Finland and Germany. Off until params.goatcounter holds the site code, and
+  only in production builds.
+
+  Besides pageviews it counts three events, so use of the installed app can
+  be told apart from the website:
+    app-installed         the browser reports that the app was installed
+    app-open              a page opened in the installed app with no referrer,
+                          i.e. the app was launched; no storage is used to tell
+    offline-save/<path>   a section was saved for offline reading (js/offline.js)
+*/ -}}
+{{- with site.Params.goatcounter -}}
+  {{- if hugo.IsProduction -}}
+<script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<script>
+  (function () {
+    function count(path, title) {
+      if (window.goatcounter && window.goatcounter.count) {
+        window.goatcounter.count({ path: path, title: title, event: true });
+      }
+    }
+    window.addEventListener("appinstalled", function () {
+      count("app-installed", "App installed");
+    });
+    // async scripts run before the load event, so count.js is ready here
+    window.addEventListener("load", function () {
+      var app = window.matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+      if (app && !document.referrer) count("app-open", "App opened");
+    });
+  })();
+</script>
+  {{- end -}}
+{{- end -}}
