@@ -40,7 +40,7 @@ Wenn du uns eine E-Mail schreibst, verarbeiten wir deine E-Mail-Adresse und den 
 
 ## Offline lesen und App
 
-Seiten, die du liest oder „für offline speichern“ wählst, werden im Speicher deines Browsers auf deinem Gerät abgelegt, damit sie ohne Internetverbindung verfügbar sind. Diese Daten verlassen dein Gerät nicht. Die Speicherung ist für diese von dir gewünschte Funktion unbedingt erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG). Du löschst sie, indem du die Websitedaten in deinem Browser löschst oder die App entfernst.
+Seiten, die du liest oder „für offline speichern“ wählst, werden im Speicher deines Browsers auf deinem Gerät abgelegt, damit sie ohne Internetverbindung verfügbar sind. Ebenso merkt sich dein Browser, wenn du einen Hinweis wie den zum Installieren der App geschlossen hast. Diese Daten verlassen dein Gerät nicht. Die Speicherung ist für diese von dir gewünschte Funktion unbedingt erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG). Du löschst sie, indem du die Websitedaten in deinem Browser löschst oder die App entfernst.
 
 Die installierbare App zeigt dieselbe Website und erhebt darüber hinaus keine Daten.
 

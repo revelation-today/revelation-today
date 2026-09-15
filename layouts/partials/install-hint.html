@@ -1,0 +1,13 @@
+{{- /*
+  "Add to Home Screen" hint for iPhone and iPad, which never offer to install
+  a web app by themselves (Android and desktop browsers do). Hidden until
+  js/install-hint.js finds an iOS browser outside the installed app, and gone
+  for 30 days once closed.
+*/ -}}
+{{- $share := `<svg class="ih-share" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12M8 7l4-4 4 4M6 11v9h12v-9"/></svg>` -}}
+{{- $more := `<svg class="ih-more" viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="1.8"/><circle cx="12" cy="12" r="1.8"/><circle cx="19" cy="12" r="1.8"/></svg>` -}}
+{{- $text := replace (replace (T "installHint") "{share}" $share) "{more}" $more -}}
+<div id="install-hint" class="install-hint" hidden>
+  <p>{{ $text | safeHTML }}</p>
+  <button type="button" aria-label="{{ T "installHintClose" }}">×</button>
+</div>

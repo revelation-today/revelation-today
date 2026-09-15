@@ -26,6 +26,11 @@
     });
     // async scripts run before the load event, so count.js is ready here
     window.addEventListener("load", function () {
+      // the Android app from Google Play starts with ?source=twa (partials/custom/head-end.html)
+      if (new URLSearchParams(location.search).get("source") === "twa") {
+        count("app-open-android", "Android app opened");
+        return;
+      }
       var app = window.matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
       if (app && !document.referrer) count("app-open", "App opened");
     });

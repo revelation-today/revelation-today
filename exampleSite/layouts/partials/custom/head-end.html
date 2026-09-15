@@ -7,4 +7,19 @@
     if (window.quicklink) quicklink.listen();
   });
 </script>
+{{- /* The Android app (Google Play) starts at the English home page with
+       ?source=twa. Send it on to the home page in the phone's language,
+       keeping the marker so the statistics can count the launch. */ -}}
+{{- if and .IsHome (eq site.Language.Lang "en") }}
+{{- $homes := dict -}}
+{{- range .AllTranslations }}{{ $homes = merge $homes (dict .Language.Lang .RelPermalink) }}{{ end }}
+<script>
+  (function () {
+    if (new URLSearchParams(location.search).get("source") !== "twa") return;
+    var homes = {{ $homes | jsonify | safeJS }};
+    var lang = (navigator.language || "").slice(0, 2).toLowerCase();
+    if (homes[lang] && homes[lang] !== location.pathname) location.replace(homes[lang] + "?source=twa");
+  })();
+</script>
+{{- end }}
 {{ partial "custom/analytics.html" . }}

@@ -32,6 +32,7 @@
   >
     <div class="hx-flex hx-w-full hx-flex-col hx-items-center sm:hx-items-start">
           {{- partial "offline-save.html" . -}}
+          {{- partial "install-hint.html" . -}}
           {{- $editURL := site.Params.editURL.base | default "" -}}
             {{- with .File -}}
               {{/* `.FileInfo.Meta.SourceRoot` is a Hugo internal field, e.g. `/path/to/repo/content/en/` */}}
