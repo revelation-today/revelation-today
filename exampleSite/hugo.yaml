@@ -107,7 +107,7 @@ languages:
   tr:
     languageName: Türkçe
     weight: 40
-    title: Vihay
+    title: Vahiy Kitabı
     menus:
       main:
         - identifier: home
