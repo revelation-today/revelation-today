@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.revelationtoday.app",
+      "sha256_cert_fingerprints": [
+        "0E:73:F4:D7:C5:78:13:EE:8E:0A:98:EE:11:EB:2F:73:F6:C2:5D:C3:AC:43:5F:79:8D:A2:93:E6:DF:EF:13:82"
+      ]
+    }
+  }
+]

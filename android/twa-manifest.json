@@ -1,0 +1,43 @@
+{
+  "packageId": "net.revelationtoday.app",
+  "host": "revelation-today.net",
+  "name": "Revelation Today",
+  "launcherName": "Revelation Today",
+  "display": "standalone",
+  "themeColor": "#FFFFFF",
+  "themeColorDark": "#111111",
+  "navigationColor": "#FFFFFF",
+  "navigationColorDark": "#111111",
+  "navigationDividerColor": "#00000000",
+  "navigationDividerColorDark": "#00000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": false,
+  "startUrl": "/?source=twa",
+  "iconUrl": "https://revelation-today.net/android-chrome-512x512.png",
+  "maskableIconUrl": "https://revelation-today.net/android-chrome-maskable-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:/Users/hagen/.bubblewrap/keys/revelation-today-upload.keystore",
+    "alias": "upload"
+  },
+  "appVersionName": "1.0.0",
+  "appVersion": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://revelation-today.net/en.manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://revelation-today.net/",
+  "minSdkVersion": 21,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": []
+}
