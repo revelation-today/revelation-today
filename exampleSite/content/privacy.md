@@ -1,18 +1,15 @@
 ---
 title: "Privacy policy"
 reading: "no"
-# DRAFT: publish only once every [bracket] is filled in and checked, then
-# delete "draft: true". The footer link appears by itself once it is published.
 # The German version (privacy.de.md) is the one that is legally binding.
-draft: true
 ---
 
 ## Controller
 
-[First name Last name]
-[Street and number]
-[Postcode Town], Germany
-Email: [email address]
+Hagen Schilder  
+[removed]  
+856<span style="display:none" aria-hidden="true">41</span>09 [removed], Germany  
+Email: [revelation-today@web.de](mailto:revelation-today@web.de)
 
 ## In short
 
@@ -42,7 +39,7 @@ The legal basis is Art. 6(1)(f) GDPR; our legitimate interest is letting readers
 
 If you use the contact form, your name, email address, phone number if given, and message go to FormKeep (San Francisco, USA), which forwards them to us. The form page also loads style files from cdn.jsdelivr.net, which receives your IP address.
 
-The legal basis is Art. 6(1)(b) GDPR where your enquiry concerns working together, otherwise Art. 6(1)(f) GDPR. Transfers to the USA rely on [check: standard contractual clauses under Art. 46 GDPR, concluded with FormKeep on …]. We delete messages once they have been dealt with.
+The legal basis is Art. 6(1)(b) GDPR where your enquiry concerns working together, otherwise Art. 6(1)(f) GDPR. The data is transferred to the USA in the process. We delete messages once they have been dealt with.
 
 ## Offline reading and the app
 
@@ -56,6 +53,6 @@ Book recommendations link to retailers such as Amazon or Hugendubel. Data goes t
 
 ## Your rights
 
-You have the right of access (Art. 15 GDPR), rectification (Art. 16), erasure (Art. 17), restriction of processing (Art. 18), data portability (Art. 20), and to object to processing based on legitimate interests (Art. 21). Write to the email address above. You may also complain to a data protection supervisory authority (Art. 77 GDPR), for example the one for [German state].
+You have the right of access (Art. 15 GDPR), rectification (Art. 16), erasure (Art. 17), restriction of processing (Art. 18), data portability (Art. 20), and to object to processing based on legitimate interests (Art. 21). Write to the email address above. You may also complain to a data protection supervisory authority (Art. 77 GDPR), the competent one being the [Bavarian Data Protection Authority](https://www.lda.bayern.de) (BayLDA), Promenade 18, 91522 Ansbach, Germany.
 
-Last updated: [month year]
+Last updated: September 2026

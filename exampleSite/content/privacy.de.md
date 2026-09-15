@@ -1,18 +1,14 @@
 ---
 title: "Datenschutzerklärung"
 reading: "no"
-# ENTWURF: erst veröffentlichen, wenn alle [eckigen Klammern] ausgefüllt und
-# geprüft sind; dann "draft: true" löschen. Der Link im Footer erscheint
-# automatisch, sobald die Seite veröffentlicht ist.
-draft: true
 ---
 
 ## Verantwortlich
 
-[Vorname Nachname]
-[Straße Hausnummer]
-[PLZ Ort]
-E-Mail: [E-Mail-Adresse]
+Hagen Schilder  
+[removed]  
+856<span style="display:none" aria-hidden="true">41</span>09 [removed]  
+E-Mail: [revelation-today@web.de](mailto:revelation-today@web.de)
 
 ## Das Wichtigste in Kürze
 
@@ -42,7 +38,7 @@ Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO; unser berechtigtes Interesse ist
 
 Wenn du das Kontaktformular nutzt, gehen Name, E-Mail-Adresse, gegebenenfalls Telefonnummer und Nachricht an FormKeep (San Francisco, USA), das sie an uns weiterleitet. Die Formularseite lädt außerdem Gestaltungsdateien von cdn.jsdelivr.net; dabei wird deine IP-Adresse übermittelt.
 
-Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, soweit deine Anfrage auf eine Zusammenarbeit zielt, sonst Art. 6 Abs. 1 lit. f DSGVO. Die Übermittlung in die USA erfolgt auf Grundlage von [prüfen: Standardvertragsklauseln nach Art. 46 DSGVO, abgeschlossen mit FormKeep am …]. Wir löschen Nachrichten, wenn sie erledigt sind.
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, soweit deine Anfrage auf eine Zusammenarbeit zielt, sonst Art. 6 Abs. 1 lit. f DSGVO. Die Daten werden dabei in die USA übermittelt. Wir löschen Nachrichten, wenn sie erledigt sind.
 
 ## Offline lesen und App
 
@@ -56,6 +52,6 @@ Buchempfehlungen verlinken auf Händler wie Amazon oder Hugendubel. Daten gehen 
 
 ## Deine Rechte
 
-Du hast das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch gegen Verarbeitungen auf Grundlage berechtigter Interessen (Art. 21). Schreib dafür an die oben genannte E-Mail-Adresse. Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art. 77 DSGVO), zum Beispiel bei der für [Bundesland] zuständigen.
+Du hast das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch gegen Verarbeitungen auf Grundlage berechtigter Interessen (Art. 21). Schreib dafür an die oben genannte E-Mail-Adresse. Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art. 77 DSGVO), zuständig ist das [Bayerische Landesamt für Datenschutzaufsicht](https://www.lda.bayern.de) (BayLDA), Promenade 18, 91522 Ansbach.
 
-Stand: [Monat Jahr]
+Stand: September 2026
