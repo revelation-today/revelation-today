@@ -4,4 +4,9 @@
 <link rel="icon" href="{{ "favicon-16x16.png" | relURL }}" type="image/png" sizes="16x16" />
 <link rel="icon" href="{{ "favicon-32x32.png" | relURL }}" type="image/png" sizes="32x32" />
 <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}" sizes="180x180" />
-<link fetchpriority="low" href="{{ "site.webmanifest" | relURL }}" rel="manifest" />
+{{- /* One manifest per language, so an installed app keeps the language it was installed from. */ -}}
+{{- $manifest := resources.Get "manifest.webmanifest" | resources.ExecuteAsTemplate (printf "%s.manifest.webmanifest" site.Language.Lang) . }}
+<link fetchpriority="low" href="{{ $manifest.RelPermalink }}" rel="manifest" />
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+<meta name="theme-color" content="#111111" media="(prefers-color-scheme: dark)" />
+<meta name="apple-mobile-web-app-title" content="{{ T "appShortName" }}" />

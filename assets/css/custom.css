@@ -267,3 +267,40 @@ html.dark .sb-btn svg:hover {
     display: none;
   }
 }
+
+/* ---------------------------------------------------------------------------
+   Save for offline reading (partials/offline-save.html), at the top of the
+   footer. Hidden until js/offline.js has a service worker to hand it to.
+   --------------------------------------------------------------------------- */
+.offline-save {
+  margin-bottom: 1.25rem;
+}
+.offline-save button {
+  font-size: 0.8125rem;
+  line-height: 1.4;
+  font-weight: 500;
+  text-align: start;
+  padding: 0.5rem 0.875rem;
+  border: 1px solid rgb(209 213 219);
+  border-radius: 0.5rem;
+  background: #fff;
+  color: rgb(55 65 81);
+  cursor: pointer;
+  transition: background-color 150ms, border-color 150ms;
+}
+.offline-save button:hover {
+  background: rgb(249 250 251);
+  border-color: rgb(156 163 175);
+}
+.offline-save button:disabled {
+  cursor: progress;
+}
+html.dark .offline-save button {
+  background: rgb(23 23 23);
+  border-color: rgb(64 64 64);
+  color: rgb(212 212 212);
+}
+html.dark .offline-save button:hover {
+  background: rgb(38 38 38);
+  border-color: rgb(82 82 82);
+}

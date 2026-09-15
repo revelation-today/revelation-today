@@ -1,0 +1,46 @@
+{{- /*
+  Offline reading: registers the service worker and offers "save for offline
+  reading" for the section a page belongs to. See js/offline.js and js/sw.js.
+
+  Production builds only, so `hugo server` never installs a service worker
+  that would go on serving stale pages while the site is being edited.
+*/ -}}
+{{- if hugo.IsProduction -}}
+  {{- $lang := site.Language.Lang -}}
+  {{- $sw := resources.Get "js/sw.js" | resources.ExecuteAsTemplate "sw.js" . -}}
+  {{- $offline := resources.Get "offline.html" | resources.ExecuteAsTemplate (printf "%s.offline.html" $lang) . -}}
+  {{- $index := resources.Get "json/offline-index.json" | resources.ExecuteAsTemplate (printf "%s.offline-index.json" $lang) . -}}
+
+  {{- /* What a reader can save from here: the page's second-level section (one
+         sermon series, one story version, the kids lessons), or its top-level
+         section when it has none. Pages outside any section offer nothing. */ -}}
+  {{- $unit := false -}}
+  {{- $chain := slice . -}}
+  {{- range .Ancestors }}{{ $chain = $chain | append . }}{{ end -}}
+  {{- range $chain -}}
+    {{- if and (not $unit) .IsSection .Parent (not .Parent.IsHome) .Parent.Parent .Parent.Parent.IsHome -}}
+      {{- $unit = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $unit -}}
+    {{- with .FirstSection }}{{ if and .IsSection (not .IsHome) }}{{ $unit = . }}{{ end }}{{ end -}}
+  {{- end -}}
+
+  <div id="offline-save" class="offline-save" hidden
+    data-sw="{{ $sw.RelPermalink }}"
+    data-scope="{{ (urls.Parse site.BaseURL).Path }}"
+    data-offline="{{ $offline.RelPermalink }}"
+    {{- with $unit }}
+    data-index="{{ $index.RelPermalink }}"
+    data-unit="{{ .RelPermalink }}"
+    data-title="{{ .LinkTitle }}"
+    data-count="{{ len (partialCached "utils/offline-pages.html" . .RelPermalink) }}"
+    data-t-save="{{ T "offlineSave" }}"
+    data-t-saving="{{ T "offlineSaving" }}"
+    data-t-saved="{{ T "offlineSaved" }}"
+    data-t-update="{{ T "offlineUpdate" }}"
+    data-t-failed="{{ T "offlineFailed" }}"
+    {{- end }}>
+    <button type="button"></button>
+  </div>
+{{- end -}}

@@ -31,6 +31,7 @@
     class="{{ $footerWidth }} hx-mx-auto hx-flex hx-justify-center hx-py-12 hx-pl-[max(env(safe-area-inset-left),1.5rem)] hx-pr-[max(env(safe-area-inset-right),1.5rem)] hx-text-gray-600 dark:hx-text-gray-400 md:hx-justify-start"
   >
     <div class="hx-flex hx-w-full hx-flex-col hx-items-center sm:hx-items-start">
+          {{- partial "offline-save.html" . -}}
           {{- $editURL := site.Params.editURL.base | default "" -}}
             {{- with .File -}}
               {{/* `.FileInfo.Meta.SourceRoot` is a Hugo internal field, e.g. `/path/to/repo/content/en/` */}}

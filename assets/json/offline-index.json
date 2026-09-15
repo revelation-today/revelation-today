@@ -1,0 +1,9 @@
+{{- /*
+  For each section, the pages that "save for offline reading" stores. One file
+  per language, fetched only when a reader presses the button.
+*/ -}}
+{{- $index := slice -}}
+{{- range where site.Pages "Kind" "section" -}}
+  {{- $index = $index | append (dict "unit" .RelPermalink "pages" (partialCached "utils/offline-pages.html" . .RelPermalink)) -}}
+{{- end -}}
+{{- $index | jsonify -}}

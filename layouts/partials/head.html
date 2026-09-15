@@ -6,7 +6,7 @@
   {{ else -}}
     <meta name="robots" content="noindex, nofollow" />
   {{ end -}}
-  {{ partialCached "favicons.html" . }}
+  {{ partialCached "favicons.html" . site.Language.Lang }}
   <title>
     {{- if .IsHome -}}
       {{ .Site.Title -}}

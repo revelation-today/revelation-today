@@ -1,0 +1,24 @@
+{{- /*
+  The web app manifest, one per language (partials/favicons.html), so an app
+  installed from a German page opens in German, under its German name.
+  The scope is the whole site, so switching language stays inside the app.
+*/ -}}
+{{- $icons := slice
+  (dict "src" ("android-chrome-192x192.png" | relURL) "sizes" "192x192" "type" "image/png")
+  (dict "src" ("android-chrome-512x512.png" | relURL) "sizes" "512x512" "type" "image/png")
+-}}
+{{- dict
+  "id" site.Home.RelPermalink
+  "name" site.Title
+  "short_name" (T "appShortName")
+  "description" (T "appDescription")
+  "lang" site.Language.Lang
+  "dir" (site.Language.LanguageDirection | default "ltr")
+  "start_url" site.Home.RelPermalink
+  "scope" (urls.Parse site.BaseURL).Path
+  "display" "standalone"
+  "background_color" "#ffffff"
+  "theme_color" "#ffffff"
+  "icons" $icons
+  | jsonify (dict "indent" "  ")
+-}}

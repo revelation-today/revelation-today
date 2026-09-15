@@ -1,0 +1,7 @@
+{{- /* The pages a reader gets by saving this section for offline reading: the
+       section itself, its pages, and its subsections, recursively. */ -}}
+{{- $urls := slice -}}
+{{- with .RelPermalink }}{{ $urls = $urls | append . }}{{ end -}}
+{{- range .RegularPages }}{{ with .RelPermalink }}{{ $urls = $urls | append . }}{{ end }}{{ end -}}
+{{- range .Sections }}{{ $urls = $urls | append (partialCached "utils/offline-pages.html" . .RelPermalink) }}{{ end -}}
+{{- return $urls -}}

@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="{{ site.Language.Lang }}" dir="{{ site.Language.LanguageDirection | default "ltr" }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ T "offlineTitle" }} – {{ site.Title }}</title>
+<!--
+  Shown by the service worker (js/sw.js) when a reader is offline and opens a
+  page that is not stored. Self-contained on purpose: it must not depend on
+  any stylesheet or script having been stored.
+-->
+<script>
+  try {
+    var theme = localStorage.getItem("color-theme");
+    if (theme === "dark" || (!theme && matchMedia("(prefers-color-scheme: dark)").matches)) {
+      document.documentElement.className = "dark";
+    }
+  } catch (e) {}
+</script>
+<style>
+  body { margin: 0; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: #fff; color: #111827; }
+  html.dark body { background: #111; color: #e5e7eb; }
+  main { max-width: 40rem; margin: 0 auto; padding: 3rem 1.5rem; }
+  h1 { font-size: 1.75rem; line-height: 1.25; margin: 0 0 1rem; }
+  p { margin: 0 0 1.25rem; }
+  button { font: inherit; font-size: 0.875rem; padding: 0.5rem 1rem; border-radius: 0.5rem; border: 1px solid #d1d5db; background: transparent; color: inherit; cursor: pointer; }
+  html.dark button { border-color: #404040; }
+  ul { list-style: none; margin: 2rem 0 0; padding: 0; border-top: 1px solid #e5e7eb; }
+  li { border-bottom: 1px solid #e5e7eb; }
+  html.dark ul, html.dark li { border-color: #262626; }
+  li > * { display: block; padding: 0.625rem 0; }
+  a { color: #2563eb; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  html.dark a { color: #60a5fa; }
+</style>
+</head>
+<body>
+<main>
+  <h1>{{ T "offlineTitle" }}</h1>
+  <p>{{ T "offlineBody" }}</p>
+  <button type="button" onclick="location.reload()">{{ T "offlineRetry" }}</button>
+  <ul id="saved" data-lang="{{ site.Language.Lang }}" data-site-title="{{ site.Title }}" data-none="{{ T "offlineNone" }}"></ul>
+</main>
+<script>
+  (async function () {
+    var list = document.getElementById("saved");
+    var data = list.dataset;
+    var suffix = " – " + data.siteTitle;
+    var decode = function (text) {
+      var area = document.createElement("textarea");
+      area.innerHTML = text;
+      return area.value;
+    };
+    var items = [];
+    try {
+      var cache = await caches.open("rt-pages");
+      for (var request of await cache.keys()) {
+        var response = await cache.match(request);
+        if (response.headers.get("x-page-lang") !== data.lang) continue;
+        var title = decode(decodeURIComponent(response.headers.get("x-page-title") || ""));
+        if (title.endsWith(suffix)) title = title.slice(0, -suffix.length);
+        items.push({ url: request.url, title: title || new URL(request.url).pathname, at: Number(response.headers.get("x-saved-at")) || 0 });
+      }
+    } catch (e) {}
+    items.sort(function (a, b) { return b.at - a.at; });
+    // Some pages share a title (the welcome tour's four "Done" pages): list each title once, newest.
+    var seen = {};
+    items = items.filter(function (item) { return seen[item.title] ? false : (seen[item.title] = true); });
+    if (!items.length) {
+      var empty = document.createElement("li");
+      empty.innerHTML = "<span></span>";
+      empty.firstChild.textContent = data.none;
+      list.append(empty);
+    }
+    items.forEach(function (item) {
+      var li = document.createElement("li");
+      var link = document.createElement("a");
+      link.href = item.url;
+      link.textContent = item.title;
+      li.append(link);
+      list.append(li);
+    });
+  })();
+</script>
+</body>
+</html>
