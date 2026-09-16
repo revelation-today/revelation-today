@@ -20,11 +20,3 @@ function scrollUp() {
     behavior: "smooth",
   });
 }
-
-function scrollDown() {
-  window.scroll({
-    top: 10000,
-    left: 10000,
-    behavior: "smooth",
-  });
-}
