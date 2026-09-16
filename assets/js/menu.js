@@ -38,6 +38,19 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
+  // The search icon in the navbar (phones only): open the menu, which holds the
+  // search field, and put the cursor in it.
+  const searchOpen = document.querySelector('.search-open');
+  if (searchOpen) {
+    searchOpen.addEventListener('click', (e) => {
+      e.preventDefault();
+      const closed = sidebarContainer.classList.contains('max-md:[transform:translate3d(0,-100%,0)]');
+      if (closed) menu.click();
+      const input = sidebarContainer.querySelector('.search-input');
+      if (input) setTimeout(() => input.focus(), closed ? 250 : 0);
+    });
+  }
+
   overlay.addEventListener('click', (e) => {
     e.preventDefault();
     toggleMenu();

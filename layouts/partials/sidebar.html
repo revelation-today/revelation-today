@@ -60,6 +60,29 @@
   {{- end -}}
 {{- end -}}
 
+{{- /* The top level of the tree: the sections a reader can move between.
+       /themes/ is one of them although Hugo files it as a taxonomy, its name
+       being the plural of the `theme` taxonomy; that is why its menu used to
+       come out empty. The pages that serve the site rather than its content
+       (about, contact, help, privacy) stay out; they sit in the footer. */ -}}
+{{- $skipRoots := slice "about" "contact" "help" "privacy" "thanks" -}}
+{{- $roots := slice -}}
+{{- range site.Home.Sections -}}
+  {{- if not (in $skipRoots (path.Base .RelPermalink)) }}{{ $roots = $roots | append . }}{{ end -}}
+{{- end -}}
+{{- range where (where site.Pages "Kind" "taxonomy") "File" "!=" nil -}}
+  {{- $roots = $roots | append . -}}
+{{- end -}}
+{{- $roots = sort $roots "Weight" -}}
+
+{{- /* A section link itself is never excluded: without it a reader on a phone
+       could only move inside the section they are already in. */ -}}
+{{- $rootLinks := slice -}}
+{{- range $roots }}{{ $rootLinks = $rootLinks | append .RelPermalink }}{{ end -}}
+{{- $keep := slice -}}
+{{- range $exclude }}{{ if not (in $rootLinks .) }}{{ $keep = $keep | append . }}{{ end }}{{ end -}}
+{{- $exclude = $keep -}}
+
 <div class="mobile-menu-overlay [transition:background-color_1.5s_ease] hx-fixed hx-inset-0 hx-z-10 hx-bg-black/80 dark:hx-bg-black/60 hx-hidden"></div>
 <aside class="sidebar-container hx-flex hx-flex-col print:hx-hidden md:hx-top-16 md:hx-shrink-0 md:hx-w-64 md:hx-self-start max-md:[transform:translate3d(0,-100%,0)] {{ $sidebarClass }}">
   <!-- Search bar on small screen -->
@@ -69,11 +92,11 @@
   <div class="hextra-scrollbar hx-overflow-y-auto hx-overflow-x-hidden hx-p-4 hx-grow md:hx-h-[calc(100vh-var(--navbar-height)-var(--menu-height))]">
     {{- if $disableSidebar -}}
       <ul class="hx-flex hx-flex-col hx-gap-1 md:hx-hidden">
-        {{ template "sidebar-tree" (dict "context" site.Home "page" $context "exclude" $exclude "toc" true "level" 0 "maxLevel" 4) -}}
+        {{ template "sidebar-tree" (dict "context" site.Home "roots" $roots "page" $context "exclude" $exclude "toc" true "level" 0 "maxLevel" 4) -}}
       </ul>
       {{- if $displayPlaceholder }}<div class="max-xl:hx-hidden hx-h-0 hx-w-64 hx-shrink-0"></div>{{ end -}}
       {{ .context.Scratch.Set "enableFooterSwitches" true }}
-    {{- else if or (eq $section site.Home) (in site.Home.Sections $section) -}}
+    {{- else -}}
       {{/* One tree serves both widths. This used to be two: a phone menu rooted
            at the site home, and a wide-screen tree rooted at the page's section,
            which together were most of the bytes of every page. The phone tree
@@ -82,18 +105,7 @@
            tree the wide-screen sidebar used to render on its own. maxLevel 5
            is that tree's former four levels below the section. */}}
       <ul class="sb-tree hx-flex hx-flex-col hx-gap-1">
-        {{ template "sidebar-tree" (dict "context" site.Home "page" $context "exclude" $exclude "toc" true "level" 0 "maxLevel" 5) -}}
-      </ul>
-    {{- else -}}
-      {{/* The section is not reachable from the home page, so the phone tree
-           cannot stand in for it. This is the case for /themes/: its name is
-           also the plural of the `theme` taxonomy, and site.Home.Sections
-           leaves it out. Render the two trees separately, as before. */}}
-      <ul class="hx-flex hx-flex-col hx-gap-1 md:hx-hidden">
-        {{ template "sidebar-tree" (dict "context" site.Home "page" $context "exclude" $exclude "toc" true "level" 0 "maxLevel" 4) -}}
-      </ul>
-      <ul class="hx-flex hx-flex-col hx-gap-1 max-md:hx-hidden">
-        {{ template "sidebar-tree" (dict "context" $section "page" $context "exclude" $exclude "level" 0 "maxLevel" 4) -}}
+        {{ template "sidebar-tree" (dict "context" site.Home "roots" $roots "page" $context "exclude" $exclude "toc" true "level" 0 "maxLevel" 5) -}}
       </ul>
     {{- end -}}
   </div>
@@ -128,7 +140,12 @@
   {{- $pageURL := .page.RelPermalink -}}
   {{- $level := .level -}}
   {{- $toc := .toc | default false -}}
-  {{- with $items := union .context.RegularPages .context.Sections -}}
+  {{- $items := union .context.RegularPages .context.Sections -}}
+  {{- /* a taxonomy page's own pages are its terms; the section's pages are these */ -}}
+  {{- if and (not $items) (eq .context.Kind "taxonomy") -}}
+    {{- $items = where site.RegularPages "Section" .context.Section -}}
+  {{- end -}}
+  {{- with $items := .roots | default $items -}}
     {{- $items = where $items "Params.sidebar.exclude" "!=" true -}}
     {{- if gt $level 0 }}<div><ul class="sb-sub">{{ end -}}
     {{- range $items.ByWeight }}
@@ -137,16 +154,22 @@
         <li class="sb-sep"><span>{{ partial "utils/title" . }}</span></li>
       {{- else -}}
         {{- $active := eq $pageURL .RelPermalink -}}
+        {{- /* Only the section holding the current page opens. The others stay
+               single links, so every page carries the list of sections but not
+               their contents, which is what kept the sidebar small. */ -}}
+        {{- $branch := or (gt $level 0) $active (hasPrefix $pageURL .RelPermalink) -}}
         {{- $shouldOpen := or (.Params.sidebar.open) (.IsAncestor $page) $active | default true }}
         {{- $class := slice -}}
         {{- if $shouldOpen }}{{ $class = $class | append "open" }}{{ end -}}
-        {{- if and (eq $level 0) .IsSection }}{{ $class = $class | append "sb-sec" }}{{ end -}}
+        {{- if eq $level 0 }}{{ $class = $class | append "sb-sec" }}{{ end -}}
         <li{{ with $class }} class="{{ delimit . " " }}"{{ end }}>
-          {{- template "sidebar-item-link" dict "context" . "active" $active "title" (partial "utils/title" .) "link" .RelPermalink -}}
+          {{- template "sidebar-item-link" dict "context" (cond $branch . false) "active" $active "title" (partial "utils/title" .) "link" .RelPermalink -}}
           {{- if and $toc $active -}}
             {{- template "sidebar-toc" dict "page" . -}}
           {{- end -}}
-          {{- template "sidebar-tree" dict "context" . "page" $page "level" (add $level 1) "maxLevel" $.maxLevel "toc" $toc "exclude" $exclude -}}
+          {{- if $branch -}}
+            {{- template "sidebar-tree" dict "context" . "page" $page "level" (add $level 1) "maxLevel" $.maxLevel "toc" $toc "exclude" $exclude -}}
+          {{- end -}}
         </li>
       {{- end -}}
     {{- end -}}
