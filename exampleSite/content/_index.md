@@ -19,14 +19,11 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-{{< hextra/feature-grid >}}
+## Where do you want to start?
 
-  {{< hextra/feature-card
-    title="Why this website?"
-    subtitle="New here? Start with why this book matters."
-    icon="sparkles"
-    link="welcome/teaser"
-  >}}
+The same book, at six depths. Every page links to the others, so you can change depth whenever you like.
+
+{{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Poetic story"
     subtitle="The whole book in a few minutes, told as one story."
@@ -35,21 +32,9 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="Quick summary"
-    subtitle="Section by section, in plain language."
+    subtitle="Section by section, in plain language. About an hour."
     icon="lightning-bolt"
     link="quick"
-  >}}
-  {{< hextra/feature-card
-    title="Sermons"
-    subtitle="Full messages, ready to preach or teach from."
-    icon="speakerphone"
-    link="sermons"
-  >}}
-  {{< hextra/feature-card
-    title="Deep dive"
-    subtitle="The full, footnoted explanation, verse by verse."
-    icon="light-bulb"
-    link="expl"
   >}}
   {{< hextra/feature-card
     title="Application"
@@ -58,27 +43,42 @@ layout: hextra-home
     link="appl"
   >}}
   {{< hextra/feature-card
+    title="Deep dive"
+    subtitle="The full, footnoted explanation, verse by verse."
+    icon="light-bulb"
+    link="expl"
+  >}}
+  {{< hextra/feature-card
+    title="Sermons"
+    subtitle="Full messages, ready to preach or teach from."
+    icon="speakerphone"
+    link="sermons"
+  >}}
+  {{< hextra/feature-card
     title="Kids"
     subtitle="The same story, retold simply for children."
     icon="academic-cap"
     link="kids"
   >}}
+{{< /hextra/feature-grid >}}
+
+## Looking for something specific?
+
+{{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="Chapter by chapter"
+    title="A particular chapter"
     subtitle="One table, every chapter, all five depths at once."
     icon="table"
     link="guide"
   >}}
   {{< hextra/feature-card
-    title="Themes"
-    subtitle="The rapture, 666, dispensationalism, and more."
+    title="A question you brought"
+    subtitle="The rapture, 666, the Antichrist, Armageddon, and more."
     icon="collection"
     link="/themes"
   >}}
-  {{< hextra/feature-card
-    title="Questions? Contact me"
-    subtitle=""
-    icon="chat"
-    link="contact"
-  >}}
 {{< /hextra/feature-grid >}}
+
+<div class="hx-mt-6"></div>
+
+New here? Start with [why this book matters today]({{< relref "welcome/teaser" >}}), or take a [guided tour]({{< relref "welcome" >}}).

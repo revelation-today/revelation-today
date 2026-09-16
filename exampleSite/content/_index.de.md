@@ -13,19 +13,17 @@ layout: hextra-home
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Das letzte Buch der Bibel ist kein seltsames Mysterium
-  sondern ein Leitfaden für effektive Jüngerschaft
+  Das letzte Buch der Bibel ist kein seltsames Rätsel
+  &nbsp;<br class="sm:hx-block hx-hidden" />
+  sondern eine Anleitung zu echter Nachfolge.
 {{< /hextra/hero-subtitle >}}
 </div>
 
-{{< hextra/feature-grid >}}
+## Wo willst du anfangen?
 
-  {{< hextra/feature-card
-    title="Warum diese Webseite?"
-    subtitle="Neu hier? Starte mit der Frage, warum dieses Buch wichtig ist."
-    icon="sparkles"
-    link="welcome/teaser"
-  >}}
+Dasselbe Buch, auf sechs Ebenen. Jede Seite verlinkt die anderen, du kannst die Ebene also jederzeit wechseln.
+
+{{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Poetische Geschichte"
     subtitle="Das ganze Buch in ein paar Minuten, als eine Geschichte erzählt."
@@ -34,21 +32,9 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="Kurzerklärung"
-    subtitle="Abschnitt für Abschnitt, in einfacher Sprache."
+    subtitle="Abschnitt für Abschnitt, in einfacher Sprache. Etwa eine Stunde."
     icon="lightning-bolt"
     link="quick"
-  >}}
-  {{< hextra/feature-card
-    title="Predigten"
-    subtitle="Fertige Botschaften, direkt zum Predigen oder Lehren."
-    icon="speakerphone"
-    link="sermons"
-  >}}
-  {{< hextra/feature-card
-    title="Zur Vertiefung"
-    subtitle="Die vollständige, mit Quellen belegte Erklärung, Vers für Vers."
-    icon="light-bulb"
-    link="expl"
   >}}
   {{< hextra/feature-card
     title="Anwendung"
@@ -57,27 +43,42 @@ layout: hextra-home
     link="appl"
   >}}
   {{< hextra/feature-card
+    title="Zur Vertiefung"
+    subtitle="Die vollständige, mit Quellen belegte Erklärung, Vers für Vers."
+    icon="light-bulb"
+    link="expl"
+  >}}
+  {{< hextra/feature-card
+    title="Predigten"
+    subtitle="Fertige Botschaften, direkt zum Predigen oder Lehren."
+    icon="speakerphone"
+    link="sermons"
+  >}}
+  {{< hextra/feature-card
     title="Für Kinder"
     subtitle="Dieselbe Geschichte, einfach erzählt für Kinder."
     icon="academic-cap"
     link="kids"
   >}}
+{{< /hextra/feature-grid >}}
+
+## Suchst du etwas Bestimmtes?
+
+{{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="Kapitel für Kapitel"
+    title="Ein bestimmtes Kapitel"
     subtitle="Eine Tabelle, jedes Kapitel, alle fünf Ebenen auf einen Blick."
     icon="table"
     link="guide"
   >}}
   {{< hextra/feature-card
-    title="Themen"
-    subtitle="Die Entrückung, 666, Dispensationalismus und mehr."
+    title="Eine Frage, die du mitbringst"
+    subtitle="Die Entrückung, 666, der Antichrist, Harmagedon und mehr."
     icon="collection"
     link="/de/themes"
   >}}
-  {{< hextra/feature-card
-    title="Fragen? Kontaktier' mich"
-    subtitle=""
-    icon="chat"
-    link="contact"
-  >}}
 {{< /hextra/feature-grid >}}
+
+<div class="hx-mt-6"></div>
+
+Neu hier? Beginne mit [warum dieses Buch heute wichtig ist]({{< relref "welcome/teaser" >}}), oder nimm eine [geführte Tour]({{< relref "welcome" >}}).

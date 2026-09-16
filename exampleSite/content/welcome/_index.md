@@ -6,91 +6,46 @@ next: /story/general/tour
 ignore: true
 ---
 
-You want to know more about this book. You are welcome to discover this guide based on your interest, as self study or in groups. You have several options:
-- Go on the menu and browse for the topics you are interested in
-- Go on the search bar and search for keywords
-- Take one of the tours below which also give you some options to look around
+A tour walks you through the book step by step: each page leads on to the next, and you can
+stop wherever you like. Pick the one that fits the time you have.
 
-<div class="hx-mt-6"></div>
+Would you rather look around on your own? Use the menu, or the search at the top of the page.
 
-
-{{< hextra/feature-grid>}}
+{{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="The story"
     link="../story/tour"
-    subtitle="In poetic words."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/book.jpg"
-    source="https://pixabay.com/photos/book-reading-rose-love-story-novel-6668398/"
-    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+    subtitle="In poetic words. About ten minutes."
+    icon="book-open"
   >}}
-{{< /hextra/feature-grid >}}
-</br></br>
-{{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Quick walk through"
     link="../quick/tour"
-    subtitle="Quick through the whole book."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/cavalry.jpg"
-    source="https://pixabay.com/photos/cavalry-competition-action-sport-3096923/"
-    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+    subtitle="The whole book, section by section. About an hour."
+    icon="lightning-bolt"
   >}}
-{{< /hextra/feature-grid >}}
-</br></br>
-
-{{< hextra/feature-grid>}}
-  {{< hextra/feature-card
-    title="Sermons"
-    link="../sermons"
-    subtitle="Full messages, ready to preach or teach from."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/heart.jpg"
-    source="https://pixabay.com/photos/heart-crown-sweetheart-structure-2943576/"
-    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
-  >}}
-{{< /hextra/feature-grid >}}
-</br></br>
-
-{{< hextra/feature-grid>}}
-  {{< hextra/feature-card
-    title="Deep dive"
-    link="../expl/tour"
-    subtitle="Getting a deeper understanding"
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="/images/old-book.jpg"
-    source="https://pixabay.com/photos/old-book-book-daisy-flower-6362421/"
-    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
-  >}}
-{{< /hextra/feature-grid >}}
-</br></br>
-
-{{< hextra/feature-grid>}}
   {{< hextra/feature-card
     title="Application"
     link="../appl"
     subtitle="What it actually asks of you."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/lamp.jpg"
-    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+    icon="heart"
   >}}
-{{< /hextra/feature-grid >}}
-</br></br>
-
-{{< hextra/feature-grid>}}
+  {{< hextra/feature-card
+    title="Deep dive"
+    link="../expl/tour"
+    subtitle="Getting a deeper understanding."
+    icon="light-bulb"
+  >}}
+  {{< hextra/feature-card
+    title="Sermons"
+    link="../sermons"
+    subtitle="Full messages, ready to preach or teach from."
+    icon="speakerphone"
+  >}}
   {{< hextra/feature-card
     title="For kids"
-    link="../kids/tour"
+    link="../kids"
     subtitle="Told simply, for children."
-    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/images/kids.jpg"
-    source="https://pixabay.com/photos/girl-child-kid-young-lying-511883/"
-    imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+    icon="academic-cap"
   >}}
 {{< /hextra/feature-grid >}}
