@@ -7,26 +7,23 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Kitab Wahyu 
+  Kitab Wahyu
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Kitab terakhir dalam Alkitab bukanlah sebuah misteri yang aneh
+  Kitab terakhir dalam Alkitab bukanlah misteri yang aneh
   &nbsp;<br class="sm:hx-block hx-hidden" />
-  tetapi sebuah panduan untuk pemuridan yang efektif.
+  melainkan panduan untuk pemuridan yang sungguh-sungguh.
 {{< /hextra/hero-subtitle >}}
 </div>
 
-{{< hextra/feature-grid >}}
+## Di mana Anda ingin mulai?
 
-  {{< hextra/feature-card
-    title="Mengapa situs ini?"
-    subtitle="Baru di sini? Mulailah dengan memahami mengapa kitab ini penting."
-    icon="sparkles"
-    link="welcome/teaser"
-  >}}
+Kitab yang sama, dalam enam tingkat kedalaman. Setiap halaman menautkan yang lain, jadi Anda dapat berpindah tingkat kapan saja.
+
+{{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="Kisah puitis"
     subtitle="Seluruh kitab dalam beberapa menit, diceritakan sebagai satu kisah."
@@ -35,21 +32,9 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="Penjelasan singkat"
-    subtitle="Bagian demi bagian, dengan bahasa yang sederhana."
+    subtitle="Bagian demi bagian, dengan bahasa yang sederhana. Sekitar satu jam."
     icon="lightning-bolt"
     link="quick"
-  >}}
-  {{< hextra/feature-card
-    title="Khotbah"
-    subtitle="Pesan lengkap, siap untuk dikhotbahkan atau diajarkan."
-    icon="speakerphone"
-    link="sermons"
-  >}}
-  {{< hextra/feature-card
-    title="Penjelasan mendalam"
-    subtitle="Penjelasan lengkap dengan sumber, ayat demi ayat."
-    icon="light-bulb"
-    link="expl"
   >}}
   {{< hextra/feature-card
     title="Penerapan"
@@ -58,27 +43,42 @@ layout: hextra-home
     link="appl"
   >}}
   {{< hextra/feature-card
+    title="Penjelasan mendalam"
+    subtitle="Penjelasan lengkap dengan sumber, ayat demi ayat."
+    icon="light-bulb"
+    link="expl"
+  >}}
+  {{< hextra/feature-card
+    title="Khotbah"
+    subtitle="Pesan lengkap, siap untuk dikhotbahkan atau diajarkan."
+    icon="speakerphone"
+    link="sermons"
+  >}}
+  {{< hextra/feature-card
     title="Untuk anak-anak"
     subtitle="Kisah yang sama, diceritakan sederhana untuk anak-anak."
     icon="academic-cap"
     link="kids"
   >}}
+{{< /hextra/feature-grid >}}
+
+## Mencari sesuatu yang tertentu?
+
+{{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="Bab demi bab"
+    title="Bab tertentu"
     subtitle="Satu tabel, setiap bab, kelima tingkat kedalaman sekaligus."
     icon="table"
     link="guide"
   >}}
   {{< hextra/feature-card
-    title="Tema"
-    subtitle="Pengangkatan, 666, dispensasionalisme, dan banyak lagi."
+    title="Pertanyaan yang Anda bawa"
+    subtitle="Pengangkatan, 666, Antikristus, Harmagedon, dan banyak lagi."
     icon="collection"
     link="/id/themes"
   >}}
-  {{< hextra/feature-card
-    title="Ada pertanyaan? Hubungi saya"
-    subtitle=""
-    icon="chat"
-    link="contact"
-  >}}
 {{< /hextra/feature-grid >}}
+
+<div class="hx-mt-6"></div>
+
+Baru di sini? Mulailah dengan [mengapa kitab ini penting hari ini]({{< relref "welcome/teaser" >}}), atau ikuti [tur berpemandu]({{< relref "welcome" >}}).
