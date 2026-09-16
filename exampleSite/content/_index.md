@@ -19,9 +19,9 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-## Where do you want to start?
+<h2 class="hx-mt-10 hx-mb-1 hx-text-2xl hx-font-semibold hx-tracking-tight">Where do you want to start?</h2>
 
-The same book, at six depths. Every page links to the others, so you can change depth whenever you like.
+<p class="hx-mb-6 hx-text-gray-500 dark:hx-text-gray-400">The same book, at six depths. Every page links to the others, so you can change depth whenever you like.</p>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
@@ -62,7 +62,7 @@ The same book, at six depths. Every page links to the others, so you can change 
   >}}
 {{< /hextra/feature-grid >}}
 
-## Looking for something specific?
+<h2 class="hx-mt-10 hx-mb-4 hx-text-2xl hx-font-semibold hx-tracking-tight">Looking for something specific?</h2>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
