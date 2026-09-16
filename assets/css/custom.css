@@ -367,3 +367,56 @@ html.dark .install-hint {
   background: rgb(38 38 38);
   color: rgb(229 229 229);
 }
+
+/*  Under the page title
+    ------------------------------------------------------------------
+    Reading time as one quiet line, and the chips that carry the reader
+    to the same passage at another depth (story, quick, deep dive, …).
+    Both sit above the text, so nothing has to be scrolled past first. */
+.page-meta {
+  margin: 0.25rem 0 0;
+  text-align: center;
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  color: rgb(107 114 128);
+}
+html.dark .page-meta {
+  color: rgb(156 163 175);
+}
+
+.track-chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+  margin: 0.75rem 0 1.5rem;
+}
+.track-chip {
+  display: inline-block;
+  padding: 0.25rem 0.7rem;
+  border: 1px solid rgb(229 231 235);
+  border-radius: 9999px;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.45;
+  white-space: nowrap;
+  text-decoration: none;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45%);
+  transition: background-color 0.15s, border-color 0.15s;
+}
+.track-chip:hover {
+  border-color: rgb(209 213 219);
+  background: rgb(249 250 251);
+}
+.track-chip.is-current {
+  border-color: transparent;
+  background: hsl(var(--primary-hue) var(--primary-saturation) 45%);
+  color: #fff;
+}
+html.dark .track-chip {
+  border-color: rgb(64 64 64);
+}
+html.dark .track-chip:hover {
+  border-color: rgb(82 82 82);
+  background: rgb(38 38 38);
+}

@@ -22,7 +22,6 @@
 {{- $storyLink := "" -}}
 {{- with $story -}}{{- $storyLink = .RelPermalink -}}{{- end -}}
 {{- with $params.story_anchor -}}{{- $storyLink = print $storyLink "#" . -}}{{- end -}}
-{{- $howToRead := (T "howtoread") | default "How to read this page" -}}
 {{- $readingTime := (T "readingtime") | default "Appr. reading time" -}}
 {{- $minute := (T "minute") | default "minute" -}}
 {{- $minutes := (T "minutes") | default "minutes" -}}
@@ -32,7 +31,6 @@
 {{- $explanation := (T "explanation") | default "Explanation" -}}
 {{- $application := (T "application") | default "Application" -}}
 {{- $kids_n := (T "kids") | default "Kids" -}}
-{{- $toBottom := (T "toBottom") | default "To bottom" -}}
 {{- partial "custom/bible" (dict "lang" $lang) -}}
 {{- $prefix := "" -}}
 {{- $pageURL := $relPermalink -}}
@@ -52,44 +50,62 @@
 {{- end -}}
 
 {{- partial "custom/title.html" (dict "docType" $docType "title" $title) -}}
-    {{ partial "shortcodes/card" (dict "title" $howToRead  "link" $help.RelPermalink) }}
-            {{/* Scroll To Bottom */}}
-     <center>
-        <button aria-hidden="false" id="toBottom" onClick="scrollDown();" class="hx-transition-all hx-duration-75 hx-opacity-100 hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50">
-          <span>
-            {{- $toBottom -}}
-          </span>
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hx-inline ltr:hx-ml-1 rtl:hx-mr-1 hx-h-3.5 hx-w-3.5 hx-border hx-rounded-full hx-border-gray-500 hover:hx-border-gray-900 dark:hx-border-gray-400 dark:hover:hx-border-gray-100 contrast-more:hx-border-gray-800 contrast-more:dark:hx-border-gray-50">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 8.75l7.5 7.5 7.5 -7.5" />
-          </svg>
-        </button>
-     </center>
-{{- if and (not (eq $readTime 0)) -}}
-    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 3;">
-    <ul>
-    {{- $reading := print $readingTime ": " $readTime " " $minutes -}}
-    {{ partial "shortcodes/card" (dict "title" $reading "icon" "book-open") }}
-    </ul>
-    </div>
+
+{{- /* The text starts on the first screen: the reading time is one small line,
+       and the hints on how to read a page live behind the "?" in the header. */ -}}
+{{- if gt $readTime 0 -}}
+  <p class="page-meta">{{ $readingTime }}: {{ $readTime }} {{ cond (eq $readTime 1) $minute $minutes }}</p>
 {{- end -}}
+
+{{- /* The same passage in the other tracks, as chips under the title, so a
+       reader can change depth without scrolling to the bottom of the page.
+       The links come from the front matter, which points one way only; the
+       cards at the end of the page still carry the titles of the targets. */ -}}
+{{- $urls := dict -}}
+{{- with $storyLink }}{{ $urls = merge $urls (dict "story" .) }}{{ end -}}
+{{- if $base }}{{ $urls = merge $urls (dict "quick" $base.RelPermalink) }}{{ end -}}
+{{- if $appl }}{{ $urls = merge $urls (dict "appl" $appl.RelPermalink) }}{{ end -}}
+{{- if $expl }}{{ $urls = merge $urls (dict "expl" $expl.RelPermalink) }}{{ end -}}
+{{- if $kids }}{{ $urls = merge $urls (dict "kids" $kids.RelPermalink) }}{{ end -}}
+{{- $tracks := slice
+      (dict "type" "story"   "label" ((T "trackStory")  | default $story_n))
+      (dict "type" "quick"   "label" ((T "trackQuick")  | default $quick_n))
+      (dict "type" "appl"    "label" ((T "trackAppl")   | default $application))
+      (dict "type" "expl"    "label" ((T "trackExpl")   | default $explanation))
+      (dict "type" "sermons" "label" ((T "trackSermon") | default "Sermon"))
+      (dict "type" "kids"    "label" ((T "trackKids")   | default $kids_n))
+-}}
+{{- $shown := slice -}}
+{{- range $tracks -}}
+  {{- $url := index $urls .type | default "" -}}
+  {{- if or $url (eq .type $docType) -}}
+    {{- $shown = $shown | append (merge . (dict "url" $url "current" (eq .type $docType))) -}}
+  {{- end -}}
+{{- end -}}
+{{- if gt (len $shown) 1 -}}
+  <nav class="track-chips" aria-label="{{ (T "otherTracks") | default "The same passage as" }}">
+    {{- range $shown -}}
+      {{- if .current -}}
+        <span class="track-chip is-current" aria-current="page">{{ .label }}</span>
+      {{- else -}}
+        <a class="track-chip" href="{{ .url }}">{{ .label }}</a>
+      {{- end -}}
+    {{- end -}}
+  </nav>
+{{- end -}}
+
 <div class="content">
-  {{- if and $base (or (hasPrefix $relPermalink (print $prefix "/expl")) (hasPrefix $relPermalink (print $prefix "/appl"))) -}}  
+  {{- partial "custom/read_before.html" (dict "params" $params) -}}
+
+  {{ $content }}
+
+  {{- partial "custom/prev_next.html" (dict "prev" $prev "next" $next) -}}
+  {{- if $base -}}
     <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
     {{ partial "shortcodes/card" (dict "title" $quick_n "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
     </div>
   {{- end -}}
 
-  {{- partial "custom/read_before.html" (dict "params" $params) -}}
-  
-  {{ $content }}
-  
-  {{- partial "custom/prev_next.html" (dict "prev" $prev "next" $next) -}}
-  {{- if and $base (not (or (hasPrefix $relPermalink (print $prefix "/expl")) (hasPrefix $relPermalink (print $prefix "/appl")))) -}}  
-    <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
-    {{ partial "shortcodes/card" (dict "title" $quick_n "subtitle" $base.Title "link" $base.RelPermalink "icon" "refresh") }}
-    </div>
-  {{- end -}}
-  
   {{- if $story -}}
     <div class="hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose" style="--hextra-cards-grid-cols: 1;">
     {{ partial "shortcodes/card" (dict "title" $story_n "subtitle" $story.Title "link" $storyLink "icon" "pencil") }}
@@ -115,6 +131,5 @@
   {{- end -}}
 
   {{ partial "custom/deeper" (dict "params" $params.deeper "pages" $regPages) }}
-  
-  {{ partial "custom/sources" (dict "page" $about "params" $params.sources) }}
 
+  {{ partial "custom/sources" (dict "page" $about "params" $params.sources) }}
