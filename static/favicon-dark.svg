@@ -3,13 +3,9 @@
    fill="white"
    width="180"
    height="180"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <rect x="46" y="151" width="88" height="13" rx="4" />
-  <rect x="84" y="70" width="12" height="81" />
-  <path d="M90 120 C 58 120, 44 100, 44 78 C 44 74, 45 71, 47 70" fill="none" stroke="white" stroke-width="10" stroke-linecap="round" />
-  <path d="M90 120 C 122 120, 136 100, 136 78 C 136 74, 135 71, 133 70" fill="none" stroke="white" stroke-width="10" stroke-linecap="round" />
-  <path d="M37 70 C 37 59, 42 48, 47 42 C 52 48, 57 59, 57 70 Z" />
-  <path d="M80 70 C 80 59, 85 48, 90 42 C 95 48, 100 59, 100 70 Z" />
-  <path d="M123 70 C 123 59, 128 48, 133 42 C 138 48, 143 59, 143 70 Z" />
+   xmlns="http://www.w3.org/2000/svg">
+  <!-- The parting veil, for dark browser themes (see favicon.svg) -->
+  <rect x="20" y="24" width="140" height="13" rx="6" />
+  <path d="M26 43 L72 43 L60 156 L26 156 Z" />
+  <path d="M154 43 L108 43 L120 156 L154 156 Z" />
 </svg>
