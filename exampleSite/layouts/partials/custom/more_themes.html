@@ -1,0 +1,29 @@
+{{- /*
+  The other questions, at the end of a Themes answer.
+
+  Readers arrive on these pages from a search for "666" or "the rapture",
+  read the answer, and then have nowhere to go: the answer links to its
+  fuller explanation, but not to the questions beside it. This lists them,
+  in the order of the section, leaving out the one being read.
+*/ -}}
+{{- $current := .current -}}
+{{- $pages := .pages -}}
+{{- $section := .section -}}
+
+{{- $others := slice -}}
+{{- range (where $pages "Section" $section).ByWeight -}}
+  {{- if ne .RelPermalink $current -}}
+    {{- $others = $others | append . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- with $others -}}
+  <nav class="more-themes">
+    <h2>{{ (T "moreThemes") | default "Other questions people ask" }}</h2>
+    <ul>
+      {{- range . -}}
+        <li><a href="{{ .RelPermalink }}">{{ partial "utils/title" . }}</a></li>
+      {{- end -}}
+    </ul>
+  </nav>
+{{- end -}}

@@ -74,6 +74,7 @@
       (dict "type" "expl"    "label" ((T "trackExpl")   | default $explanation))
       (dict "type" "sermons" "label" ((T "trackSermon") | default "Sermon"))
       (dict "type" "kids"    "label" ((T "trackKids")   | default $kids_n))
+      (dict "type" "themes"  "label" ((T "trackThemes") | default "Question"))
 -}}
 {{- $shown := slice -}}
 {{- range $tracks -}}
@@ -133,3 +134,10 @@
   {{ partial "custom/deeper" (dict "params" $params.deeper "pages" $regPages) }}
 
   {{ partial "custom/sources" (dict "page" $about "params" $params.sources) }}
+
+  {{- /* A reader who came from a search for "666" or "the rapture" has read the
+         answer and has nowhere to go; the questions beside it are the natural
+         next step. */ -}}
+  {{- if eq $docType "themes" -}}
+    {{- partial "custom/more_themes" (dict "current" $relPermalink "pages" $regPages "section" $docType) -}}
+  {{- end -}}
