@@ -89,6 +89,16 @@
     {{- end -}}
     </div>
 
+    {{/* On a phone the search field sits inside the collapsed menu, where a
+         reader with a question will not look for it. This opens the menu and
+         puts the cursor in it (js/menu.js). */}}
+    <button type="button" aria-label="{{ (T "searchPlaceholder") | default "Search" }}" class="search-open hx-shrink-0 hx-rounded hx-p-2 active:hx-bg-gray-400/20 md:hx-hidden">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" height="24" width="24" aria-hidden="true">
+        <circle cx="11" cy="11" r="7" />
+        <path stroke-linecap="round" d="M20 20l-3.5-3.5" />
+      </svg>
+    </button>
+
     <button type="button" aria-label="Menu" class="hamburger-menu -hx-mr-2 hx-shrink-0 hx-rounded hx-p-2 active:hx-bg-gray-400/20 md:hx-hidden">
       {{- partial "utils/icon.html" (dict "name" "hamburger-menu" "attributes" "height=24") -}}
     </button>
