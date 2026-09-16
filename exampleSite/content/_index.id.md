@@ -19,9 +19,9 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-## Di mana Anda ingin mulai?
+<h2 class="hx-mt-10 hx-mb-1 hx-text-2xl hx-font-semibold hx-tracking-tight">Di mana Anda ingin mulai?</h2>
 
-Kitab yang sama, dalam enam tingkat kedalaman. Setiap halaman menautkan yang lain, jadi Anda dapat berpindah tingkat kapan saja.
+<p class="hx-mb-6 hx-text-gray-500 dark:hx-text-gray-400">Kitab yang sama, dalam enam tingkat kedalaman. Setiap halaman menautkan yang lain, jadi Anda dapat berpindah tingkat kapan saja.</p>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
@@ -62,7 +62,7 @@ Kitab yang sama, dalam enam tingkat kedalaman. Setiap halaman menautkan yang lai
   >}}
 {{< /hextra/feature-grid >}}
 
-## Mencari sesuatu yang tertentu?
+<h2 class="hx-mt-10 hx-mb-4 hx-text-2xl hx-font-semibold hx-tracking-tight">Mencari sesuatu yang tertentu?</h2>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card

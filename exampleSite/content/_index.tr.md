@@ -19,9 +19,9 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-## Nereden başlamak istersiniz?
+<h2 class="hx-mt-10 hx-mb-1 hx-text-2xl hx-font-semibold hx-tracking-tight">Nereden başlamak istersiniz?</h2>
 
-Aynı kitap, altı derinlikte. Her sayfa diğerlerine bağlanır, böylece derinliği istediğiniz zaman değiştirebilirsiniz.
+<p class="hx-mb-6 hx-text-gray-500 dark:hx-text-gray-400">Aynı kitap, altı derinlikte. Her sayfa diğerlerine bağlanır, böylece derinliği istediğiniz zaman değiştirebilirsiniz.</p>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
@@ -62,7 +62,7 @@ Aynı kitap, altı derinlikte. Her sayfa diğerlerine bağlanır, böylece derin
   >}}
 {{< /hextra/feature-grid >}}
 
-## Belirli bir şey mi arıyorsunuz?
+<h2 class="hx-mt-10 hx-mb-4 hx-text-2xl hx-font-semibold hx-tracking-tight">Belirli bir şey mi arıyorsunuz?</h2>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card

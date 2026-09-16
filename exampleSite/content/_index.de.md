@@ -19,9 +19,9 @@ layout: hextra-home
 {{< /hextra/hero-subtitle >}}
 </div>
 
-## Wo willst du anfangen?
+<h2 class="hx-mt-10 hx-mb-1 hx-text-2xl hx-font-semibold hx-tracking-tight">Wo willst du anfangen?</h2>
 
-Dasselbe Buch, auf sechs Ebenen. Jede Seite verlinkt die anderen, du kannst die Ebene also jederzeit wechseln.
+<p class="hx-mb-6 hx-text-gray-500 dark:hx-text-gray-400">Dasselbe Buch, auf sechs Ebenen. Jede Seite verlinkt die anderen, du kannst die Ebene also jederzeit wechseln.</p>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
@@ -62,7 +62,7 @@ Dasselbe Buch, auf sechs Ebenen. Jede Seite verlinkt die anderen, du kannst die 
   >}}
 {{< /hextra/feature-grid >}}
 
-## Suchst du etwas Bestimmtes?
+<h2 class="hx-mt-10 hx-mb-4 hx-text-2xl hx-font-semibold hx-tracking-tight">Suchst du etwas Bestimmtes?</h2>
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
