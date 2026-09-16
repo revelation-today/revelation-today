@@ -420,3 +420,37 @@ html.dark .track-chip:hover {
   border-color: rgb(82 82 82);
   background: rgb(38 38 38);
 }
+
+/*  The other questions, at the end of a Themes answer
+    (partials/custom/more_themes.html). A plain list: these are twenty
+    one-line questions, and cards would bury the text above them. */
+.more-themes {
+  margin: 2.5rem 0 1rem;
+}
+.more-themes h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.more-themes ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.more-themes li {
+  border-top: 1px solid rgb(229 231 235);
+}
+.more-themes a {
+  display: block;
+  padding: 0.55rem 0;
+  font-size: 0.9375rem;
+  line-height: 1.45;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45%);
+  text-decoration: none;
+}
+.more-themes a:hover {
+  text-decoration: underline;
+}
+html.dark .more-themes li {
+  border-color: rgb(64 64 64);
+}
