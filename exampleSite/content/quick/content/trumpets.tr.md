@@ -25,3 +25,9 @@ Mısır'ın belaları örnek alınarak biçimlendirilen ilk dört borazan, insan
 Bu arada kilise — 7. bölümde zaten mühürlenmiş olan — beşinci borazanın işkencesinden özellikle ayrı tutulur ({{% bible val="Vahiy 9:4-6" link="rev:9,4-6" lang="tr" %}}). Bu, rahat bir yolculuk demek değildir: imanlılar da aynı güvenceleri yitirir, kimileri yaşamını kaybeder. Ama bu kaybı umudu yitirmeden göğüslemek, izleyen dünyaya gerçek güvencenin neye benzediğini gösteren tam da o tür bir tanıklık haline gelir.
 
 ![](/images/trumpets_tr.jpg)
+
+
+## Önemli imgeler
+
+- **Dipsiz derinlik** - Tanrı’ya düşman güçlerin hapishanesi; yalnızca O’nun izniyle açılır.
+- **Abaddon, Apollyon** - İbranice ve Yunanca "Yok Edici" — çekirgelerin kralı; kimse yaptığını yardım sanmasın diye böyle adlandırılmış.

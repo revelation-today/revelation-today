@@ -30,4 +30,8 @@ Armagedon bütün kitapta yalnızca bir kez geçer ({{% bible val="Vahiy 16:12-1
 
 Gözden kaçması kolay bir ayrıntı var: ordular Armagedon'da *toplanır*, ama savaşın kendisi orada yapılmaz — dağlar toplanma noktalarıdır, savaş alanları değil. Yedinci tas sonucu yalnızca kısaca özetler ({{% bible val="Vahiy 16:17-21" link="rev:16,17-21" lang="tr" %}}); asıl savaş daha sonra, Babil'in yıkılışından ve Kuzu'nun düğününden sonra, İsa beyaz giysili atlı olarak çıktığında anlatılır ({{% bible val="Vahiy 19:11-21" link="rev:19,11-21" lang="tr" %}}) — o da kendi "ordusunu" çarpıcı biçimde ironik bir yolla toplar: yenilenlerin üzerine ziyafete çağrılan akbabalar. Onun tek gerçek kaygısı kazanıp kazanmayacağı değildir — sonrasındaki temizliktir.
 
+## Önemli imgeler
+
+- **Fırat** - Roma’nın hiçbir zaman tutamadığı sınır: kuruyunca düşman doğruca içeri girer, tıpkı Babil’in düştüğü gibi.
+
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/bowls/the-key-to-armageddon" >}})

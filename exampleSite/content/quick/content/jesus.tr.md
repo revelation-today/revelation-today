@@ -26,4 +26,8 @@ Sonunda ejderha "kadının soyundan geri kalanlara" — İsa'yı izleyen herkese
 
 Yenilgisinden sonra bir ses, bunun yeryüzü için kötü haber olduğunu duyurur ({{% bible val="Vahiy 12:12" link="rev:12,12" lang="tr" %}}) — Şeytan güçlendiği için değil, "zamanının az olduğunu" bildiği için. Kaybedecek hiçbir şeyi kalmamış yenik bir düşman geri çekilmez; giderayak elinden geldiğince zarar verir. Bu bölümün tanıttığı Büyük Sıkıntı'nın biçimi budur: yapılan bir yanlışın cezası olarak acı çekmek değil, zamanı tamamen tükenmeden önce sağa sola saldıran, kaybetmekte olan bir düşmanın yol açtığı yıkım.
 
+## Önemli imgeler
+
+- **Güneşe sarınmış kadın** - yalnızca Meryem değil, Mesih’in içinden çıktığı Tanrı halkı — önce İsrail, sonra ejderin kovaladığı kilise.
+
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/jesus/a-different-christmas-story" >}})

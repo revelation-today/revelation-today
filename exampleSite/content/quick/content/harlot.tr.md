@@ -36,4 +36,8 @@ Kitap ona neden iki bölümden fazla yer ayırıyor? Çünkü fahişenin "bir pa
 
 Fahişe yargılandığına göre, gelin sonunda düğününe hazırdır. Ama önce İsa, canavardan ve sahte peygamberden geriye kalanları bitirir — bir savaşla değil, bir mahkemeyle: ağzından çıkan bir kılıç, her birini sırayla yargılar.
 
+## Önemli imgeler
+
+- **Kırmızı canavar, yedi baş, on boynuz** - onu taşıyan imparatorluk — başlar birbiri ardına gelen yöneticileri, boynuzlar ona güç ödünç veren uydu krallardır.
+
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/harlot/who-is-the-harlot-babylon-part-2" >}})

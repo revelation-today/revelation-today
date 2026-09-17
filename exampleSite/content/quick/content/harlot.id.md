@@ -36,4 +36,8 @@ Mengapa kitab ini menghabiskan lebih dari dua pasal untuknya? Karena "menjadi ba
 
 Setelah sang pelacur dihakimi, sang mempelai perempuan akhirnya siap untuk pernikahannya. Namun terlebih dahulu Yesus menyelesaikan apa yang tersisa dari binatang itu dan nabi palsu - bukan dengan pertempuran, melainkan dengan ruang sidang: sebilah pedang dari mulut-Nya, menghakimi masing-masing secara bergiliran.
 
+## Gambaran penting
+
+- **Binatang merah kirmizi, tujuh kepala, sepuluh tanduk** - kerajaan yang menopangnya — kepalanya adalah para penguasanya satu demi satu, tanduknya raja-raja bawahan yang meminjamkan kuasa mereka.
+
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/harlot/who-is-the-harlot-babylon-part-2" >}})

@@ -27,4 +27,8 @@ Sahne, artık hayvan kurbanı için değil, tapınma için kullanılan bir tapı
 
 Sonra beklenmedik bir dönüş gelir: büyük bir deprem yargı getirir, ama kentin halkının yüzde 90'ı bundan sağ çıkar ve Tanrı'yı yüceltir — Kutsal Kitap'ın, yalnızca küçük bir bakiyenin esirgendiği daha alışıldık örüntüsünün çarpıcı bir tersine çevrilişi. Burada ezici bir çoğunluk kurtulur.
 
+## Önemli imgeler
+
+- **Tapınağın ölçülmesi** - Tanrı’ya ait olanı sınırlamak, Hezekiel’in görümünde meleğin tapınağı ölçmesi gibi - ölçülen, O’nun malı sayılır.
+
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/witnesses/the-two-witnesses" >}})

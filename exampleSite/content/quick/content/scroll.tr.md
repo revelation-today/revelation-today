@@ -18,4 +18,8 @@ Güçlü bir melek belirir; Yuhanna'nın 1. bölümde İsa'yı tanımladığı s
 
 Bu rol açıklanmadan önce bir ayrıntı içimizi rahatlatır: melek bir ayağını denize, bir ayağını karaya basar ({{% bible val="Vahiy 10:5" link="rev:10,5" lang="tr" %}}) — 13. bölümde canavarların yükseleceği tam da o iki yer. Ne gelirse gelsin, Tanrı zaten onun üzerinde durmaktadır, tam denetim O'ndadır.
 
+## Önemli imgeler
+
+- **Yedi gök gürlemesi** - Yuhanna’nın yazmadan mühürlemesi söylenen bir mesaj: son hakkında her şey bize verilmiş değildir ve bu sessizlik bilinçlidir.
+
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/scroll/the-little-scroll" >}})

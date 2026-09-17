@@ -25,3 +25,9 @@ Inilah kejutannya: alih-alih hanya semakin mengeraskan hati manusia, kitab Wahyu
 Sementara itu, gereja - yang sudah dimeteraikan dalam pasal 7 - secara khusus dikecualikan dari siksaan sangkakala kelima ({{% bible val="Wahyu 9:4-6" link="rev:9,4-6" lang="id" %}}). Itu tidak berarti perjalanan yang mudah: orang-orang percaya tetap kehilangan rasa aman yang sama, dan sebagian kehilangan nyawa. Tetapi menanggung kehilangan itu tanpa kehilangan harapan justru menjadi kesaksian yang memperlihatkan kepada dunia yang menyaksikannya seperti apa rasa aman yang sejati.
 
 ![](/images/trumpets_en.jpg)
+
+
+## Gambaran penting
+
+- **Jurang maut** - penjara kuasa-kuasa yang memusuhi Allah, yang hanya terbuka atas izin-Nya.
+- **Abadon, Apolion** - bahasa Ibrani dan Yunani untuk "Pembinasa" — raja belalang itu, dinamai begitu supaya tidak seorang pun mengira perbuatannya menolong.

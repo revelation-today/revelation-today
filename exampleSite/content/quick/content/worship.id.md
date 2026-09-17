@@ -7,6 +7,9 @@ expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals
 docType: quick
+sources:
+    - pages: 323–324
+      ref: beale_rev
 kids: /kids/elementary/04-worship-in-heaven
 ---
 
@@ -29,5 +32,11 @@ Gulungan kitab yang dimeteraikan tujuh kali ({{% bible val="Wahyu 5:1-5" link="r
 Tidak seorang pun ditemukan layak - sampai Yohanes diberi tahu bahwa Singa dari Yehuda telah menang. Tetapi ketika ia berpaling untuk melihat, yang *dilihatnya* sama sekali bukan seekor singa: seekor Anak Domba, tampak seperti telah disembelih. Yohanes *mendengar* satu hal dan *melihat* hal lain yang menafsirkannya kembali secara menyeluruh - Mesias penakluk yang dinanti-nantikan semua orang ternyata menaklukkan melalui pengorbanan. Pola dengar/lihat yang sama terulang kemudian pada ke-144.000 itu (pasal 7): diumumkan sebagai pasukan, dinyatakan sebagai kumpulan besar penyembah.
 
 ![](/images/hear_en.jpg)
+
+## Gambaran penting
+
+- **Kedua puluh empat tua-tua** - seluruh umat tebusan yang digambarkan di surga — dua belas suku dan dua belas rasul, kedua perjanjian bersama; angkanya mengingatkan pada dua puluh empat rombongan imam yang ditetapkan Daud.
+- **Keempat makhluk hidup** - seluruh ciptaan yang diwakili di hadapan takhta, berjaga dan memimpin penyembahan.
+- **Ketujuh roh** - kepenuhan Roh Allah, yang diutus ke seluruh dunia.
 
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/worship/the-book-with-the-seven-seals" >}})

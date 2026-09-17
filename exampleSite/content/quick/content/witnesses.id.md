@@ -27,4 +27,8 @@ Tepat itulah yang diwujudkan oleh kedua saksi itu: pengabdian total pada pola ke
 
 Lalu datanglah kejutan: gempa bumi yang besar membawa penghakiman, tetapi 90 persen penduduk kota selamat dan memberikan kemuliaan kepada Allah - pembalikan yang mencolok dari pola alkitabiah yang lebih lazim, di mana hanya sisa kecil yang diluputkan. Di sini, mayoritas yang sangat besar berhasil melewatinya.
 
+## Gambaran penting
+
+- **Pengukuran bait suci** - menandai apa yang menjadi milik Allah, seperti malaikat yang mengukur bait suci dalam penglihatan Yehezkiel - yang diukur itu diklaim sebagai milik-Nya.
+
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/witnesses/the-two-witnesses" >}})

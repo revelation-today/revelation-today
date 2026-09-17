@@ -26,4 +26,8 @@ Kiliseyi, sahtekârlığa kananlardan ayırması gereken şey tam da bu karşıt
 
 666 sayısına gelince: gelecekteki belirli bir kişiyi adlandıran bir şifre olmaktan çok, Vahiy'in bu sahte üçlemenin tamamı hakkındaki kendi hükmü işlevini görür — 777'nin temsil ettiği tamlığın bir eksiği, üç kez tekrarlanmış görkemli bir başarısızlık.
 
+## Önemli imgeler
+
+- **Canavarın heykeli** - herkesin saygı göstermesi beklenen imparator heykeli: görünür kılınmış bağlılık — reddetmek sizi hain yapardı.
+
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) · [Canavarlar tarihsel bağlamında →]({{< relref "expl/content/beasts/the-beasts-and-the-666-in-historical-context" >}})

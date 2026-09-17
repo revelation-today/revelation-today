@@ -18,4 +18,8 @@ Seorang malaikat yang perkasa muncul, digambarkan dengan cara yang sama seperti 
 
 Sebelum peran itu dijabarkan, satu detail menenteramkan hati: malaikat itu menjejakkan satu kaki di atas laut dan satu di atas darat ({{% bible val="Wahyu 10:5" link="rev:10,5" lang="id" %}}) - tepat dua tempat dari mana binatang-binatang itu akan muncul dalam pasal 13. Apa pun yang akan datang, Allah sudah berdiri di atasnya, dalam kendali penuh.
 
+## Gambaran penting
+
+- **Ketujuh guruh** - pesan yang harus dimeteraikan Yohanes tanpa ditulis: tidak semua tentang akhir zaman diberikan kepada kita, dan diamnya itu disengaja.
+
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/scroll/the-little-scroll" >}})
