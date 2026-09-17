@@ -24,7 +24,35 @@ Die sieben sind in einem bewussten, symmetrischen Muster angeordnet:
   - **Philadelphia** - ohne Einschränkung gelobt: treu in Armut und Schwäche
 - **Laodizea** - totales Versagen: lauwarm und selbstzufrieden
 
-Jesus beginnt immer mit echtem Lob, bevor er korrigiert. **Ephesus** hat alles richtig gemacht - gesunde Lehre, harte Arbeit, Ausdauer - aber die Liebe verloren, und Jesus warnt: Ihr Leuchter wird erlöschen, wenn sie nicht zu ihr zurückkehren. **Smyrna**, arm und verfolgt, bekommt nur eines gesagt: treu bleiben, bis in den Tod - Jesus, selbst vom Tod auferstanden, ist ihr Vorbild. Die Leitung in **Pergamon** hat kompromisslerische Lehre (ein Echo auf Bileams Verführung Israels) unwidersprochen einsickern lassen. **Thyatira**, wahrscheinlich die kleinste Gemeinde, bekommt den längsten Brief, weil ihre eigene Leitung ("Isebel") die Menschen aktiv in den Götzendienst führt. **Sardes** sieht lebendig aus, ist aber geistlich tot - nur wenige, die "ihre Kleider nicht beschmutzt haben", werden gelobt. **Philadelphia**, schwach und unter sozialem und wirtschaftlichem Druck, wird eine offene Tür versprochen, die niemand schließen kann. Der Reichtum von **Laodizea** hat die Gemeinde blind für ihre eigene Armut gemacht - "lauwarm" beschreibt eine Gemeinde, die zu nichts zu gebrauchen ist: weder erfrischend wie kaltes Wasser noch heilend wie heißes Wasser.
+Jesus beginnt immer mit echtem Lob, bevor er korrigiert.
+
+<h3 id="ephesus">Ephesus</h3>
+
+Ephesus hat alles richtig gemacht - gesunde Lehre, harte Arbeit, Ausdauer - aber die Liebe verloren, und Jesus warnt: Ihr Leuchter wird erlöschen, wenn sie nicht zu ihr zurückkehren.
+
+<h3 id="smyrna">Smyrna</h3>
+
+Smyrna, arm und verfolgt, bekommt nur eines gesagt: treu bleiben, bis in den Tod - Jesus, selbst vom Tod auferstanden, ist ihr Vorbild.
+
+<h3 id="pergamon">Pergamon</h3>
+
+Die Leitung in Pergamon hat kompromisslerische Lehre (ein Echo auf Bileams Verführung Israels) unwidersprochen einsickern lassen.
+
+<h3 id="thyatira">Thyatira</h3>
+
+Thyatira, wahrscheinlich die kleinste Gemeinde, bekommt den längsten Brief, weil ihre eigene Leitung ("Isebel") die Menschen aktiv in den Götzendienst führt.
+
+<h3 id="sardis">Sardes</h3>
+
+Sardes sieht lebendig aus, ist aber geistlich tot - nur wenige, die "ihre Kleider nicht beschmutzt haben", werden gelobt.
+
+<h3 id="philadelphia">Philadelphia</h3>
+
+Philadelphia, schwach und unter sozialem und wirtschaftlichem Druck, wird eine offene Tür versprochen, die niemand schließen kann.
+
+<h3 id="laodicea">Laodizea</h3>
+
+Der Reichtum von Laodizea hat die Gemeinde blind für ihre eigene Armut gemacht - "lauwarm" beschreibt eine Gemeinde, die zu nichts zu gebrauchen ist: weder erfrischend wie kaltes Wasser noch heilend wie heißes Wasser.
 
 [Die ausführlichere Erklärung und jeden einzelnen Brief lesen →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 
