@@ -3,6 +3,7 @@ title: "Meletakkan Dasar"
 weight: 2
 base: /quick/content/vision
 story: /story/general/tour
+story_anchor: vision
 sources: 
     - pages: 181–222
       ref: beale_rev

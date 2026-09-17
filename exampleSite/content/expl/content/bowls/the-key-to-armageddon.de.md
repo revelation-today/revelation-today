@@ -3,6 +3,7 @@ title: "Der Schlüssel zu Armageddon"
 weight: 3
 base: /quick/content/harvest
 story: /story/general/tour
+story_anchor: bowls
 prev: /expl/content/bowls/the-bowls-of-wrath
 next: /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 docType: expl

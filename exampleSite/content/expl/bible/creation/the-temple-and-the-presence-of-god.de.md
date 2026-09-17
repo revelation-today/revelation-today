@@ -2,7 +2,6 @@
 title: "Der Tempel und die Gegenwart Gottes"
 weight: 10
 base: /quick/bible/creation
-story: /story/general/tour
 prev: /expl/bible/creation/the-creation
 next: /expl/bible/creation/the-story-of-uzzah
 docType: expl

@@ -3,6 +3,7 @@ title: "Laodikya’daki kiliseye mektup"
 weight: 70
 base: /quick/content/letters
 story: /story/general/tour
+story_anchor: letters
 prev: /expl/content/letters/the-letter-to-the-church-in-philadelphia
 next: /expl/content/worship/worship-in-the-throne-room
 docType: expl

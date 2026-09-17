@@ -3,6 +3,7 @@ title: "Gottes Armee und die sieben Engel"
 weight: 2
 base: /quick/content/harvest
 story: /story/general/tour
+story_anchor: harvest
 prev: /expl/content/beasts/the-nature-of-the-beast
 next: /expl/content/bowls/the-bowls-of-wrath
 docType: expl
