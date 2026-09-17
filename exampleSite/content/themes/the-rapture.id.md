@@ -11,4 +11,4 @@ Jika kita mencermati ayat-ayat yang paling sering dipakai untuk mendukungnya - 1
 
 Ini tidak berarti perjalanan iman siapa pun harus dibuang - hanya perlu melihat lebih dekat apa yang sebenarnya dikatakan teks-teks ini.
 
-[Baca selengkapnya →]({{< relref "expl/topics/others/the-rapture" >}})
+[Baca penjelasan lengkapnya →]({{< relref "expl/topics/others/the-rapture" >}})

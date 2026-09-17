@@ -11,4 +11,4 @@ In der Welt der Offenbarung selbst funktioniert die 666 aber weniger wie ein Geh
 
 Was auch immer der aktuelle Schlagzeilen-Kandidat für die 666 sein mag - die tiefere Frage, worauf du deine Sicherheit eigentlich gründest, ist die, auf die der Text immer wieder zurückverweist.
 
-[Mehr lesen →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})
+[Die ausführliche Erklärung lesen →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})

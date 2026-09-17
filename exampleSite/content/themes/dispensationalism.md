@@ -9,4 +9,4 @@ If you've noticed that different churches, books, and preachers describe wildly 
 
 Much of the detailed "timeline" approach to Revelation, especially the version most familiar in English-speaking popular culture, traces back to a specific 19th-century framework called dispensationalism, developed by John Nelson Darby and popularized through the Scofield Reference Bible. It's a relatively recent way of reading a very old book, and it sits alongside a long history - stretching back centuries earlier - of other confident date-setting and timeline-building that, in hindsight, didn't hold up. None of that means every detail of every timeline view is automatically wrong - but it's worth knowing that "the" popular timeline most of us have absorbed from movies and bestsellers is one interpretive tradition among several serious ones, not the text's own explicit chronology.
 
-[Read more →]({{< relref "expl/topics/others/dispensionalism-a-little-history" >}})
+[Read the full explanation →]({{< relref "expl/topics/others/dispensionalism-a-little-history" >}})

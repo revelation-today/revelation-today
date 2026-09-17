@@ -9,4 +9,4 @@ Hier kommt etwas, das viele Menschen überrascht: Das Wort "Antichrist" kommt in
 
 Was die Offenbarung stattdessen hat, ist ein "Tier" - genau genommen ein ganzes Trio: ein Drache (Satan), ein Tier aus dem Meer (eine Macht, die durch Gewalt herrscht) und ein Tier aus der Erde (eine Macht, die durch religiös wirkende Wunder verführt). Zusammen bilden sie eine dunkle Parodie auf Gott, Christus und den Geist. In ihrem Kontext des ersten Jahrhunderts verwies das auf Rom und seinen Kaiserkult - aber das Muster (gewaltsame Macht, verkleidet mit einer spirituell klingenden Täuschung) ist im Lauf der Geschichte immer wieder aufgetaucht, und dem Text scheint es mehr darum zu gehen, uns dieses Muster erkennen zu lehren, als eine letzte Einzelperson zu benennen, auf die wir achten sollen.
 
-[Mehr lesen →]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})
+[Die ausführliche Erklärung lesen →]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})

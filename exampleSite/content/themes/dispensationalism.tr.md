@@ -9,4 +9,4 @@ Farklı kiliselerin, kitapların ve vaizlerin birbirinden çok farklı son zaman
 
 Vahiy'e ayrıntılı bir "zaman çizelgesi" olarak yaklaşımın büyük kısmı, özellikle İngilizce konuşulan popüler kültürdeki en yaygın hali, dispensasyonalizm adı verilen 19. yüzyıla ait belirli bir çerçeveye dayanıyor; John Nelson Darby tarafından geliştirilip Scofield Referanslı Kutsal Kitap aracılığıyla yaygınlaştı. Çok eski bir kitabı okumanın görece yeni bir yolu bu; ve yüzyıllar öncesine uzanan, geriye dönüp bakıldığında tutmamış başka özgüvenli tarih belirleme ve takvim kurma girişimlerinin uzun tarihinin yanında duruyor. Bunların hiçbiri her takvim görüşünün her ayrıntısının otomatik olarak yanlış olduğu anlamına gelmiyor - ama çoğumuzun filmlerden ve çok satan kitaplardan edindiği "o" popüler takvimin, metnin kendi açık kronolojisi değil, birkaç ciddi yorum geleneğinden yalnızca biri olduğunu bilmekte yarar var.
 
-[Devamını oku →]({{< relref "expl/topics/others/dispensionalism-a-little-history" >}})
+[Tam açıklamayı oku →]({{< relref "expl/topics/others/dispensionalism-a-little-history" >}})

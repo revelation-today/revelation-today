@@ -9,4 +9,4 @@ Baştan sona düz okununca dünya sanki üç kez sona eriyor gibi görünebilir 
 
 Vahiy'in yapısı ikincisi olduğuna dair gerçek ipuçları veriyor: Her dizi benzer bir doruk noktasına doğru ilerliyor (kozmik sarsıntı, Tanrı'nın belirişi), her biri artan şiddetle Mısır'daki belaların örüntüsünü izliyor ve her biri üç bağımsız felaket tanıtmak yerine aynı temel mesajı tırmandırıyor gibi görünüyor - insanın başkaldırısı altında inleyen yaratılış ve arkasına saklanacak sahte güvenceleri tükenen bir dünya. Pek çok dikkatli okur kitabın biçimini düz bir çizgiden çok bir sarmal olarak tanımlıyor: Aynı alanın üzerinden farklı açılardan tekrar tekrar geçmek; her tur, bir öncekinin tam gösteremediğini açığa çıkarıyor - adım adım işleyen katı bir geri sayım değil.
 
-[Devamını oku →]({{< relref "expl/background/structure/the-structure-of-the-book-of-revelation" >}})
+[Tam açıklamayı oku →]({{< relref "expl/background/structure/the-structure-of-the-book-of-revelation" >}})

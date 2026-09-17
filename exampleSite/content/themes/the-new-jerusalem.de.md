@@ -9,4 +9,4 @@ Die Beschreibung in Offenbarung 21-22 ist lebendig und konkret - Maße, Tore, Gr
 
 Ein Detail lohnt sich in jedem Fall zu kennen: Die Form der Stadt - ein vollkommener Würfel - ist exakt die Form des Allerheiligsten im alttestamentlichen Tempel, jenes einen Raumes, den nur der Hohepriester betreten durfte, einmal im Jahr. Was auch immer das Neue Jerusalem sonst noch ist, es wird in Tempelsprache beschrieben: Die Trennung, die gewöhnliche Menschen einst auf vorsichtigem Abstand zu Gottes Gegenwart hielt, ist vorbei - endgültig, für alle, die zu ihm gehören. Ob realer Ort oder lebendiges Symbol (oder beides): Worauf der Text am meisten besteht, ist, dass Zugang, nicht Ausschluss, das letzte Wort hat.
 
-[Mehr lesen →]({{< relref "expl/content/paradise/the-new-jerusalem" >}})
+[Die ausführliche Erklärung lesen →]({{< relref "expl/content/paradise/the-new-jerusalem" >}})
