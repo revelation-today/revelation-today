@@ -4,43 +4,50 @@ prev: /
 next: /welcome/teaser
 ---
 
-Berikut panduan singkat untuk menemukan arah di situs ini.
+Kitab yang sama, dalam enam tingkat kedalaman: kisah sepuluh menit, ringkasan sederhana,
+penerapan, pendalaman dengan rujukan, khotbah, dan versi untuk anak-anak. Beginilah cara
+berpindah di antaranya.
 
-## Menjelajah situs
+## Berpindah kedalaman
 
-- **Ikon Home** di menu akan membawa Anda kembali ke beranda kapan saja.
-- **Bilah menu** di bagian atas (atau di balik ikon "≡" di ponsel) mencantumkan setiap
-  bagian: kisah puitis, ringkasan cepat, khotbah, penjelasan mendalam, materi untuk anak-anak,
-  panduan bab demi bab, dan tema.
-- **Pencarian** (ikon kaca pembesar, di kanan atas pada layar lebar, atau di atas menu pada
-  ponsel) memungkinkan Anda langsung menuju kata kunci tertentu tanpa harus menelusuri.
-- **Mode gelap** - ketuk ikon bulan/matahari di bagian bawah halaman untuk beralih, lebih
-  nyaman di mata pada malam hari.
+Di bawah judul setiap halaman ada sederet tombol kecil: **Kisah, Ringkas, Aplikasi,
+Pendalaman, Khotbah, Anak-anak**. Tombol-tombol itu menuju bagian yang sama pada kedalaman
+lain, dan yang sedang Anda baca ditandai. Anda boleh berpindah sesering yang Anda mau.
 
-## Menemukan yang Anda cari
+Kedalaman-kedalaman itu tidak berpasangan satu lawan satu — satu halaman penerapan sering
+mencakup beberapa artikel pendalaman — jadi berpindah lalu kembali belum tentu membawa Anda ke
+halaman tempat Anda mulai. Untuk kembali persis ke sana, gunakan tombol kembali, bukan
+tombol-tombol itu.
 
-Situs ini menyajikan materi yang sama dalam lima kedalaman berbeda - kisah sepuluh menit,
-ringkasan satu jam, khotbah yang siap disampaikan, penjelasan mendalam dengan rujukan lengkap,
-dan versi sederhana untuk anak-anak. Anda tidak perlu memilih hanya satu:
+## Menjelajah di ponsel
 
-- Sudah tahu bab mana yang ingin Anda ketahui? {{% int_link val="Panduan bab demi bab" link="/guide" %}}
-  menempatkan kelima kedalaman itu berdampingan, satu baris untuk setiap bab - langsung menuju
-  ke bagian yang Anda perlukan.
-- Punya pertanyaan tertentu - pengangkatan (rapture), 666, Armagedon? Jelajahi berdasarkan
-  {{% int_link val="tema" link="/themes" %}}.
-- Belum yakin harus mulai dari mana? {{% int_link val="Tur penyambutan" link="/welcome" %}}
-  akan memandu Anda melihat semua pilihan.
+- **≡ di kanan atas** membuka menu, berisi semua bagian situs dan halaman-halaman di dalam
+  bagian tempat Anda berada.
+- **Kaca pembesar di sebelahnya** mencari di semua halaman.
+- **Kembali:** halaman-halaman ini tidak punya tombol kembali sendiri. Gunakan tombol kembali
+  di peramban Anda, atau geser dari tepi kiri layar. Jika situs ini sudah Anda tambahkan ke
+  layar utama, geseran itu (iPhone) atau gerakan kembali (Android) melakukan hal yang sama.
 
-Di mana pun Anda memulai, setiap halaman memiliki tautan menuju kedalaman lain untuk bagian
-yang sama, sehingga Anda selalu bisa menyelami lebih dalam (atau menyederhanakan) tanpa
-kehilangan arah.
+Pada layar lebar, bagian-bagian situs ada di bilah atas, pencarian di kanan atas, dan isi
+bagian tempat Anda berada memanjang di sebelah kiri.
 
-## Membaca halaman
+## Mencari sesuatu yang tertentu
 
-Ayat-ayat Alkitab ditampilkan berwarna ungu - arahkan kursor atau ketuk untuk membacanya,
-seperti contoh ini {{% bible val="contoh" link="rev:12,1-6" lang="id" %}}. Anda juga dapat
-menelusuri {{% int_link val="daftar lengkap ayat Alkitab yang digunakan di situs ini" link="/expl/bible_ref" %}}.
+- Bab tertentu: {{% int_link val="tabel bab demi bab" link="/guide" %}} menempatkan semua
+  kedalaman berdampingan, satu baris untuk setiap bab.
+- Pertanyaan yang Anda bawa — pengangkatan, 666, Harmagedon: lihat
+  {{% int_link val="Tema" link="/themes" %}}. Setiap jawaban diakhiri dengan pertanyaan lainnya.
+- Belum yakin harus mulai dari mana: {{% int_link val="tur penyambutan" link="/welcome" %}}
+  memandu Anda halaman demi halaman.
+
+## Saat membaca
+
+Ayat-ayat Alkitab ditampilkan berwarna ungu — arahkan kursor atau ketuk untuk membacanya,
+seperti ini {{% bible val="contoh" link="rev:12,1-6" lang="id" %}}. Tersedia juga
+{{% int_link val="daftar lengkap ayat Alkitab yang digunakan di situs ini" link="/expl/bible_ref" %}}.
+
+Ikon bulan di kaki halaman beralih ke warna gelap.
 
 ## Ada pertanyaan atau masukan?
 
-Klik "Kontak" di menu - saya sungguh ingin mendengar dari Anda.
+Kirimi saya pesan: "Kontak" di menu. Saya membaca setiap pesan.

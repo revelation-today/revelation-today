@@ -4,42 +4,48 @@ prev: /
 next: /welcome/teaser
 ---
 
-Here's a quick guide to finding your way around this site.
+The same book, at six depths: a ten-minute story, a plain summary, an application, a footnoted
+deep dive, sermons, and a version for children. Here is how to move between them.
 
-## Getting around
+## Changing depth
 
-- **Home icon** in the menu takes you back to the homepage at any time.
-- **Menu bar** at the top (or behind the "≡" icon on a phone) lists every section: the poetic
-  story, the quick walkthrough, sermons, the deep dive, kids' material, the chapter-by-chapter
-  guide, and themes.
-- **Search** (the magnifying glass, top right on a wide screen, or above the menu on a phone)
-  lets you jump straight to a keyword instead of browsing.
-- **Dark mode** - tap the moon/sun icon at the bottom of the page to switch, easier on the eyes
-  in the evening.
+Under the title of every page there is a row of small buttons: **Story, Quick, Application,
+Deep dive, Sermon, Kids**. They lead to the same passage at another depth, and the one you are
+reading is filled in. Nothing is lost: you can switch as often as you like.
 
-## Finding what you need
+The depths do not line up one to one — one application page often belongs to several deep-dive
+articles — so switching across and back may not return you to the page you started on. To get
+back to exactly where you were, use the back button rather than the buttons.
 
-This site offers the same material at five different depths - a ten-minute story, a one-hour
-summary, ready-to-preach sermons, a fully footnoted deep dive, and a simple version for kids.
-You don't need to pick just one:
+## Getting around on a phone
 
-- Already know which chapter you're curious about? The
-  {{% int_link val="chapter-by-chapter guide" link="/guide" %}} puts all five depths side by
-  side, one row per chapter - jump straight to what you need.
-- Have a specific question instead - the rapture, 666, Armageddon? Browse by
-  {{% int_link val="theme" link="/themes" %}}.
-- Not sure where to start at all? The {{% int_link val="welcome tour" link="/welcome" %}} walks
-  you through the options.
+- **≡ at the top right** opens the menu, with every section of the site and the pages inside
+  the one you are in.
+- **The magnifier beside it** searches every page.
+- **Going back:** the pages have no back button of their own. Use your browser's back button,
+  or swipe in from the left edge of the screen. If you have added the site to your home screen,
+  the swipe (iPhone) or the back gesture (Android) does the same.
 
-Wherever you land, every page links onward to the other depths on the same passage, so you can
-always go deeper (or simpler) without losing your place.
+On a wide screen the sections are in the bar at the top, the search box at the top right, and
+the contents of the section you are in run down the left.
 
-## Reading the pages
+## Looking for something specific
 
-Bible verses appear in violet - hover or tap one to read it, like this
-{{% bible val="example" link="rev:12,1-6" lang="en" %}}. You can also browse the
+- A particular chapter: the {{% int_link val="chapter-by-chapter table" link="/guide" %}} puts
+  all the depths side by side, one row per chapter.
+- A question you brought with you — the rapture, 666, Armageddon: see
+  {{% int_link val="Themes" link="/themes" %}}. Every answer ends with the other questions.
+- Not sure where to start: the {{% int_link val="welcome tour" link="/welcome" %}} walks you
+  through, one page at a time.
+
+## While reading
+
+Bible verses appear in violet — hover or tap one to read it, like this
+{{% bible val="example" link="rev:12,1-6" lang="en" %}}. There is also the
 {{% int_link val="full list of Bible verses used on this site" link="/expl/bible_ref" %}}.
+
+The moon at the foot of the page switches to dark colours.
 
 ## Questions or feedback?
 
-Click "Contact" in the menu - I'd genuinely like to hear from you.
+Write to me: "Contact" in the menu. I read every message.
