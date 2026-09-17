@@ -61,12 +61,22 @@
        reader can change depth without scrolling to the bottom of the page.
        The links come from the front matter, which points one way only; the
        cards at the end of the page still carry the titles of the targets. */ -}}
+{{- /* A broad page can serve several narrow ones — one summary covers all seven
+       letters — so `quick_anchor`, `appl_anchor`, `expl_anchor` or `kids_anchor`
+       in front matter lands the chip on the part that belongs to this page,
+       exactly as story_anchor has always done for the poetic story. */ -}}
+{{- $anchorOf := dict -}}
+{{- range $track := slice "quick" "appl" "expl" "kids" -}}
+  {{- with index $params (printf "%s_anchor" $track) -}}
+    {{- $anchorOf = merge $anchorOf (dict $track (printf "#%s" .)) -}}
+  {{- end -}}
+{{- end -}}
 {{- $urls := dict -}}
 {{- with $storyLink }}{{ $urls = merge $urls (dict "story" .) }}{{ end -}}
-{{- if $base }}{{ $urls = merge $urls (dict "quick" $base.RelPermalink) }}{{ end -}}
-{{- if $appl }}{{ $urls = merge $urls (dict "appl" $appl.RelPermalink) }}{{ end -}}
-{{- if $expl }}{{ $urls = merge $urls (dict "expl" $expl.RelPermalink) }}{{ end -}}
-{{- if $kids }}{{ $urls = merge $urls (dict "kids" $kids.RelPermalink) }}{{ end -}}
+{{- if $base }}{{ $urls = merge $urls (dict "quick" (print $base.RelPermalink (index $anchorOf "quick" | default ""))) }}{{ end -}}
+{{- if $appl }}{{ $urls = merge $urls (dict "appl" (print $appl.RelPermalink (index $anchorOf "appl" | default ""))) }}{{ end -}}
+{{- if $expl }}{{ $urls = merge $urls (dict "expl" (print $expl.RelPermalink (index $anchorOf "expl" | default ""))) }}{{ end -}}
+{{- if $kids }}{{ $urls = merge $urls (dict "kids" (print $kids.RelPermalink (index $anchorOf "kids" | default ""))) }}{{ end -}}
 {{- /* …and the other direction: the pages that point at this one. Front matter
        names one way only, so without this the deep dive on the historical
        background offered its application but not the quick summary that sent

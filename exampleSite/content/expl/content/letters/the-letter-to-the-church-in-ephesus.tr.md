@@ -2,6 +2,7 @@
 title: "Efes’teki kiliseye yazılan mektup"
 weight: 10
 base: /quick/content/letters
+quick_anchor: ephesus
 story: /story/general/tour
 story_anchor: letters
 prev: /expl/content/letters/the-letters-to-the-seven-churches

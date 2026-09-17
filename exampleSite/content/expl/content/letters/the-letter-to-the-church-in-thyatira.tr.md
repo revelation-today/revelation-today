@@ -2,6 +2,7 @@
 title: "Thyatira’daki kiliseye mektup"
 weight: 40
 base: /quick/content/letters
+quick_anchor: thyatira
 story: /story/general/tour
 story_anchor: letters
 prev: /expl/content/letters/the-letter-to-the-church-in-pergamon

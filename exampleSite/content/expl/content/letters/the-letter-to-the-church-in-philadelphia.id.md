@@ -2,6 +2,7 @@
 title: "Surat kepada Filadelfia"
 weight: 60
 base: /quick/content/letters
+quick_anchor: philadelphia
 story: /story/general/tour
 story_anchor: letters
 prev: /expl/content/letters/the-letter-to-the-church-in-sardis

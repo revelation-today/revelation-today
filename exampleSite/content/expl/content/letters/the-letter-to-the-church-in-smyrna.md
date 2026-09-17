@@ -2,6 +2,7 @@
 title: "The letter to the church in Smyrna"
 weight: 20
 base: /quick/content/letters
+quick_anchor: smyrna
 story: /story/general/tour
 story_anchor: letters
 prev: /expl/content/letters/the-letter-to-the-church-in-ephesus

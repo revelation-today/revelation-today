@@ -24,7 +24,35 @@ The seven are arranged in a deliberate, symmetric pattern:
   - **Philadelphia** - praised without reservation: faithful in poverty and weakness
 - **Laodicea** - total failure: lukewarm and self-satisfied
 
-Jesus always begins with genuine praise before he corrects. **Ephesus** did everything right - sound doctrine, hard work, endurance - but lost its love, and Jesus warns their lampstand will go dark unless they return to it. **Smyrna**, poor and persecuted, is told simply to stay faithful, even to death - Jesus, himself risen from death, is their example. **Pergamon**'s leadership let compromising teaching (echoing Balaam's seduction of Israel) creep in unchallenged. **Thyatira**, though probably the smallest church, gets the longest letter because its own leadership ("Jezebel") is actively leading people into idolatry. **Sardis** looks alive but is spiritually dead - only a few who "have not soiled their clothes" are commended. **Philadelphia**, weak and under social and economic pressure, is promised an open door no one can shut. **Laodicea**'s wealth has made it blind to its own poverty - "lukewarm" describes a church that is useless for any purpose, neither refreshing like cold water nor healing like hot water.
+Jesus always begins with genuine praise before he corrects.
+
+<h3 id="ephesus">Ephesus</h3>
+
+Ephesus did everything right - sound doctrine, hard work, endurance - but lost its love, and Jesus warns their lampstand will go dark unless they return to it.
+
+<h3 id="smyrna">Smyrna</h3>
+
+Smyrna, poor and persecuted, is told simply to stay faithful, even to death - Jesus, himself risen from death, is their example.
+
+<h3 id="pergamon">Pergamon</h3>
+
+Pergamon's leadership let compromising teaching (echoing Balaam's seduction of Israel) creep in unchallenged.
+
+<h3 id="thyatira">Thyatira</h3>
+
+Thyatira, though probably the smallest church, gets the longest letter because its own leadership ("Jezebel") is actively leading people into idolatry.
+
+<h3 id="sardis">Sardis</h3>
+
+Sardis looks alive but is spiritually dead - only a few who "have not soiled their clothes" are commended.
+
+<h3 id="philadelphia">Philadelphia</h3>
+
+Philadelphia, weak and under social and economic pressure, is promised an open door no one can shut.
+
+<h3 id="laodicea">Laodicea</h3>
+
+Laodicea's wealth has made it blind to its own poverty - "lukewarm" describes a church that is useless for any purpose, neither refreshing like cold water nor healing like hot water.
 
 [Read the fuller explanation and each individual letter →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 

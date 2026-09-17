@@ -3,6 +3,8 @@ title: "The letter to the church in Sardis"
 weight: 50
 prev: /expl/content/letters/the-letter-to-the-church-in-thyatira
 next: /expl/content/letters/the-letter-to-the-church-in-philadelphia
+base: /quick/content/letters
+quick_anchor: sardis
 docType: expl
 appl: /appl/content/letters
 sources: 
