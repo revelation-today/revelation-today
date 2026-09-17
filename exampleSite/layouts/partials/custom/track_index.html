@@ -17,7 +17,10 @@
 */ -}}
 
 {{- $lang := .lang -}}
-{{- $prefix := cond (eq $lang site.Home.Language.Lang) "" (print "/" $lang) -}}
+{{- /* "" for the default language, "/de" for the others — comparing the page's
+       language with the site's own would always match, which left every
+       non-English path yielding the track "de", "id" or "tr". */ -}}
+{{- $prefix := site.LanguagePrefix -}}
 {{- $s := newScratch -}}
 
 {{- /* sections too: several quick summaries are section pages (_index.md), and
