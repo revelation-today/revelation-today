@@ -36,7 +36,13 @@
       {{- $value := index $page.Params . -}}
       {{- if eq (printf "%T" $value) "string" -}}
         {{- with $page.GetPage $value -}}
-          {{- $s.SetInMap "index" (printf "%s|%s" .RelPermalink $fromTrack) $from -}}
+          {{- /* every source, not just the last one: one application page serves
+                 several explanations, and one explanation can answer several
+                 questions, so a single way back would be an arbitrary one */ -}}
+          {{- $key := printf "%s|%s" .RelPermalink $fromTrack -}}
+          {{- $all := $s.Get "index" | default dict -}}
+          {{- $list := index $all $key | default slice -}}
+          {{- $s.SetInMap "index" $key ($list | append (dict "path" $from "title" (partial "utils/title" $page))) -}}
         {{- end -}}
       {{- end -}}
     {{- end -}}

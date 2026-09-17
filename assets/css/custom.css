@@ -454,3 +454,49 @@ html.dark .track-chip:hover {
 html.dark .more-themes li {
   border-color: rgb(64 64 64);
 }
+
+/*  Elsewhere on this passage (partials/custom/back_links.html): the pages of
+    another track that point here, when there are several and a single chip
+    would have to pick one of them arbitrarily. Same plain list as the other
+    questions at the foot of a Themes answer. */
+.back-links {
+  margin: 2.5rem 0 1rem;
+}
+.back-links h2 {
+  margin-bottom: 0.25rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.back-links-track {
+  margin: 1rem 0 0;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: rgb(107 114 128);
+}
+.back-links ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.back-links li {
+  border-top: 1px solid rgb(229 231 235);
+}
+.back-links a {
+  display: block;
+  padding: 0.55rem 0;
+  font-size: 0.9375rem;
+  line-height: 1.45;
+  color: hsl(var(--primary-hue) var(--primary-saturation) 45%);
+  text-decoration: none;
+}
+.back-links a:hover {
+  text-decoration: underline;
+}
+html.dark .back-links-track {
+  color: rgb(156 163 175);
+}
+html.dark .back-links li {
+  border-color: rgb(64 64 64);
+}

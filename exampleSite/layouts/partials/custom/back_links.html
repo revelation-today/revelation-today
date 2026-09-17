@@ -1,0 +1,23 @@
+{{- /*
+  The pages of another track that point at this one, when there are several.
+
+  A chip carries one link, so it can only be honest when exactly one page
+  points here. One application page serves several explanations, and one
+  explanation can answer several questions: those are listed here instead, at
+  the foot of the page, under the name of their track.
+*/ -}}
+{{- $groups := .groups -}}
+
+{{- with $groups -}}
+  <nav class="back-links">
+    <h2>{{ (T "alsoOnThisPassage") | default "Elsewhere on this passage" }}</h2>
+    {{- range . -}}
+      <p class="back-links-track">{{ .label }}</p>
+      <ul>
+        {{- range .pages -}}
+          <li><a href="{{ .path }}">{{ .title }}</a></li>
+        {{- end -}}
+      </ul>
+    {{- end -}}
+  </nav>
+{{- end -}}

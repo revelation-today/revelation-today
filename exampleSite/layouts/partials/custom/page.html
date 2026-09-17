@@ -82,9 +82,22 @@
       (dict "type" "themes"  "label" ((T "trackThemes") | default "Question"))
 -}}
 {{- $shown := slice -}}
+{{- $several := slice -}}
 {{- range $tracks -}}
   {{- $url := index $urls .type | default "" -}}
-  {{- if not $url }}{{ $url = index $reverse (printf "%s|%s" $relPermalink .type) | default "" }}{{ end -}}
+  {{- $back := index $reverse (printf "%s|%s" $relPermalink .type) -}}
+  {{- if $back -}}
+    {{- if and (not $url) (eq (len $back) 1) -}}
+      {{- /* exactly one page points here: the chip can say so */ -}}
+      {{- $url = (index $back 0).path -}}
+    {{- else if and (gt (len $back) 1) (ne $docType "story") -}}
+      {{- /* several do, and a chip carries one link — they are listed at the
+             foot of the page instead, whether or not this page names one of
+             its own (an application page names one explanation, but seven
+             explanations may send readers to it) */ -}}
+      {{- $several = $several | append (merge . (dict "pages" $back)) -}}
+    {{- end -}}
+  {{- end -}}
   {{- if or $url (eq .type $docType) -}}
     {{- $shown = $shown | append (merge . (dict "url" $url "current" (eq .type $docType))) -}}
   {{- end -}}
@@ -146,4 +159,10 @@
          next step. */ -}}
   {{- if eq $docType "themes" -}}
     {{- partial "custom/more_themes" (dict "current" $relPermalink "pages" $regPages "section" $docType) -}}
+  {{- end -}}
+
+  {{- /* where several pages of one track point here, a chip would have to pick
+         one of them; they are named here instead */ -}}
+  {{- with $several -}}
+    {{- partial "custom/back_links" (dict "groups" .) -}}
   {{- end -}}
