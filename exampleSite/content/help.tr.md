@@ -4,42 +4,49 @@ prev: /
 next: /welcome/teaser
 ---
 
-İşte bu sitede yolunuzu bulmanız için kısa bir rehber.
+Aynı kitap, altı derinlikte: on dakikalık bir hikâye, sade bir özet, uygulama, kaynaklı bir
+derinlemesine inceleme, vaazlar ve çocuklar için bir sürüm. Aralarında şöyle geçiş yaparsınız.
 
-## Gezinme
+## Derinliği değiştirmek
 
-- Menüdeki **Ana sayfa simgesi** sizi her zaman ana sayfaya geri götürür.
-- Üstteki **menü çubuğu** (telefonda "≡" simgesinin arkasında) her bölümü listeler: şiirsel
-  hikaye, hızlı özet, vaazlar, derinlemesine inceleme, çocuklar için içerik, bölüm bölüm rehber
-  ve temalar.
-- **Arama** (geniş ekranda sağ üstteki büyüteç simgesi, telefonda menünün üstünde) gezinmek
-  yerine doğrudan bir anahtar kelimeye gitmenizi sağlar.
-- **Karanlık mod** - sayfanın altındaki ay/güneş simgesine dokunarak geçiş yapın, akşamları
-  gözlerinize daha az yorucu gelir.
+Her sayfanın başlığının altında küçük düğmelerden oluşan bir sıra vardır: **Hikaye, Kısa,
+Uygulama, Derinlemesine, Vaaz, Çocuklar**. Bunlar aynı pasajın başka bir derinliğine götürür ve
+okuduğunuz derinlik dolu görünür. İstediğiniz kadar geçiş yapabilirsiniz.
 
-## Aradığınızı bulmak
+Derinlikler birebir örtüşmez — bir uygulama sayfası çoğu zaman birkaç derinlemesine makaleye
+karşılık gelir — bu yüzden geçip geri dönmek sizi başladığınız sayfaya getirmeyebilir. Tam
+olarak kaldığınız yere dönmek için bu düğmeler yerine geri düğmesini kullanın.
 
-Bu site aynı içeriği beş farklı derinlikte sunar - on dakikalık bir hikaye, bir saatlik bir
-özet, vaaza hazır mesajlar, tamamen kaynaklı bir derinlemesine inceleme ve çocuklar için basit
-bir versiyon. Sadece birini seçmek zorunda değilsiniz:
+## Telefonda gezinmek
 
-- Hangi bölümü merak ettiğinizi zaten biliyor musunuz? {{% int_link val="Bölüm bölüm rehber" link="/guide" %}}
-  beş derinliği de yan yana koyar, her bölüm için bir satır - doğrudan ihtiyacınız olana gidin.
-- Bunun yerine belirli bir sorunuz mu var - rapture, 666, Armageddon? {{% int_link val="temaya" link="/themes" %}}
-  göre göz atın.
-- Nereden başlayacağınızdan hiç emin değil misiniz? {{% int_link val="Karşılama turu" link="/welcome" %}}
-  sizi seçenekler arasında gezdirir.
+- **Sağ üstteki ≡** menüyü açar: sitenin bütün kısımları ve içinde bulunduğunuz kısmın
+  sayfaları.
+- **Yanındaki büyüteç** bütün sayfalarda arama yapar.
+- **Geri dönmek:** sayfaların kendi geri düğmesi yoktur. Tarayıcınızın geri düğmesini kullanın
+  ya da ekranın sol kenarından sağa kaydırın. Siteyi ana ekranınıza eklediyseniz, kaydırma
+  (iPhone) veya geri hareketi (Android) aynı işi görür.
 
-Nereye giderseniz gidin, her sayfa aynı bölümün diğer derinliklerine bağlantı verir, böylece
-yerinizi kaybetmeden her zaman daha derine inebilir (veya işi kolaylaştırabilirsiniz).
+Geniş ekranda kısımlar üstteki çubukta, arama sağ üstte, içinde bulunduğunuz kısmın içeriği ise
+solda alt alta durur.
 
-## Sayfaları okumak
+## Belirli bir şey aramak
 
-İncil ayetleri mor renkte görünür - üzerine gelin veya dokunun, tıpkı burada olduğu gibi
+- Belirli bir bölüm: {{% int_link val="bölüm bölüm tablo" link="/guide" %}} bütün derinlikleri
+  yan yana koyar, her bölüm için bir satır.
+- Yanınızda getirdiğiniz bir soru — kaçırılma, 666, Armagedon: {{% int_link val="Temalar" link="/themes" %}}
+  bölümüne bakın. Her yanıt, diğer sorularla biter.
+- Nereden başlayacağınızdan emin değilseniz: {{% int_link val="karşılama turu" link="/welcome" %}}
+  sizi sayfa sayfa gezdirir.
+
+## Okurken
+
+Kutsal Kitap ayetleri mor renkte görünür — okumak için üzerine gelin ya da dokunun, şöyle
 {{% bible val="örnek" link="rev:12,1-6" lang="tr" %}}. Ayrıca
-{{% int_link val="bu sitede kullanılan İncil ayetlerinin tam listesine" link="/expl/bible_ref" %}}
-göz atabilirsiniz.
+{{% int_link val="bu sitede kullanılan Kutsal Kitap ayetlerinin tam listesi" link="/expl/bible_ref" %}}
+de var.
 
-## Sorularınız mı var, geri bildirim mi vermek istiyorsunuz?
+Sayfanın altındaki ay simgesi koyu renklere geçirir.
 
-Menüden "İletişim"e tıklayın - sizden haber almak isterim.
+## Sorularınız ya da geri bildiriminiz mi var?
+
+Bana yazın: menüdeki "İletişim". Her mesajı okuyorum.

@@ -4,44 +4,51 @@ prev: /
 next: /welcome/teaser
 ---
 
-Hier eine kurze Orientierung, wie du dich auf dieser Seite zurechtfindest.
+Dasselbe Buch, auf sechs Ebenen: eine Geschichte in zehn Minuten, eine Kurzerklärung, die
+Anwendung, eine belegte Vertiefung, Predigten und eine Fassung für Kinder. So wechselst du
+zwischen ihnen.
 
-## Navigation
+## Die Ebene wechseln
 
-- **Home-Symbol** im Menü bringt dich jederzeit zurück zur Startseite.
-- **Menüleiste** oben (oder hinter dem "≡"-Symbol auf dem Smartphone) listet alle Bereiche auf:
-  die poetische Geschichte, den Schnelldurchgang, die Predigten, die Vertiefung, das
-  Kinderangebot, den Kapitel-für-Kapitel-Leitfaden und die Themen.
-- **Suche** (die Lupe, oben rechts auf breiten Bildschirmen, oder über dem Menü auf dem
-  Smartphone) bringt dich direkt zu einem Stichwort, ohne dass du dich durchklicken musst.
-- **Dunkelmodus** - tippe auf das Mond-/Sonnensymbol unten auf der Seite, um zu wechseln,
-  angenehmer für die Augen am Abend.
+Unter dem Titel jeder Seite steht eine Reihe kleiner Schaltflächen: **Geschichte, Kurz,
+Anwendung, Vertiefung, Predigt, Kinder**. Sie führen zu derselben Passage auf einer anderen
+Ebene, und die, die du gerade liest, ist ausgefüllt. Du kannst so oft wechseln, wie du willst.
 
-## Das Richtige finden
+Die Ebenen entsprechen einander nicht eins zu eins — eine Anwendungsseite gehört oft zu
+mehreren Vertiefungs-Artikeln —, deshalb landest du beim Hin- und Zurückwechseln nicht
+unbedingt wieder auf der Seite, von der du gekommen bist. Um genau dorthin zurückzukommen,
+nimm den Zurück-Knopf statt der Schaltflächen.
 
-Diese Seite bietet denselben Stoff in fünf verschiedenen Tiefen an - eine zehnminütige
-Geschichte, eine einstündige Zusammenfassung, predigtfertige Botschaften, eine vollständig
-belegte Vertiefung und eine einfache Fassung für Kinder. Du musst dich nicht für eine
-Variante entscheiden:
+## Auf dem Smartphone zurechtfinden
 
-- Weißt du schon, welches Kapitel dich interessiert? Der
-  {{% int_link val="Kapitel-für-Kapitel-Leitfaden" link="/guide" %}} stellt alle fünf Tiefen
-  nebeneinander, eine Zeile pro Kapitel - geh direkt dorthin, wo du hinwillst.
-- Hast du stattdessen eine bestimmte Frage - die Entrückung, 666, Armageddon? Stöbere nach
-  {{% int_link val="Thema" link="/themes" %}}.
-- Bist du dir gar nicht sicher, wo du anfangen sollst? Die {{% int_link val="Willkommens-Tour" link="/welcome" %}}
-  führt dich durch die Möglichkeiten.
+- **≡ oben rechts** öffnet das Menü mit allen Bereichen der Seite und den Seiten des Bereichs,
+  in dem du gerade bist.
+- **Die Lupe daneben** durchsucht alle Seiten.
+- **Zurück:** Die Seiten haben keinen eigenen Zurück-Knopf. Nimm den Zurück-Knopf deines
+  Browsers oder wisch vom linken Bildschirmrand nach rechts. Wenn du die Seite auf dem
+  Startbildschirm installiert hast, tut die Wischgeste (iPhone) oder die Zurück-Geste (Android)
+  dasselbe.
 
-Wo immer du landest - jede Seite verlinkt weiter zu den anderen Tiefen desselben Textabschnitts,
-sodass du jederzeit tiefer gehen (oder es einfacher haben) kannst, ohne den Faden zu verlieren.
+Auf einem breiten Bildschirm stehen die Bereiche oben in der Leiste, die Suche oben rechts, und
+der Inhalt des Bereichs, in dem du bist, läuft links herunter.
 
-## Die Seiten lesen
+## Etwas Bestimmtes suchen
 
-Bibelverse erscheinen in Violett - fahre mit der Maus darüber oder tippe darauf, um den Vers zu
-lesen, wie hier {{% bible val="Beispiel" link="rev:12,1-6" lang="de" %}}. Du kannst auch die
-{{% int_link val="vollständige Liste der auf dieser Seite verwendeten Bibelverse" link="/expl/bible_ref" %}}
-durchstöbern.
+- Ein bestimmtes Kapitel: der {{% int_link val="Kapitel-für-Kapitel-Leitfaden" link="/guide" %}}
+  stellt alle Ebenen nebeneinander, eine Zeile pro Kapitel.
+- Eine Frage, die du mitbringst — die Entrückung, 666, Harmagedon: sieh bei den
+  {{% int_link val="Themen" link="/themes" %}} nach. Jede Antwort endet mit den übrigen Fragen.
+- Unsicher, wo du anfangen sollst: die {{% int_link val="Willkommens-Tour" link="/welcome" %}}
+  führt dich Seite für Seite durch.
 
-## Fragen oder Feedback?
+## Beim Lesen
 
-Klick im Menü auf "Kontakt" - ich freue mich wirklich, von dir zu hören.
+Bibelverse erscheinen in Violett — fahre mit der Maus darüber oder tippe darauf, um den Vers zu
+lesen, wie hier {{% bible val="Beispiel" link="rev:12,1-6" lang="de" %}}. Es gibt auch die
+{{% int_link val="vollständige Liste der auf dieser Seite verwendeten Bibelverse" link="/expl/bible_ref" %}}.
+
+Der Mond am Fuß der Seite schaltet auf dunkle Farben um.
+
+## Fragen oder Rückmeldung?
+
+Schreib mir: „Kontakt“ im Menü. Ich lese jede Nachricht.
