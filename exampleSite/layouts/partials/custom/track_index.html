@@ -1,0 +1,43 @@
+{{- /*
+  Which page holds the same passage in another track, in both directions.
+
+  The front matter points one way only: a quick summary names its deep dive,
+  a sermon names its explanation, a kids lesson names its explanation. So the
+  page that is pointed at could not offer the way back — from the deep dive on
+  the historical background you could reach the application, but not the quick
+  summary you came from.
+
+  This walks the pages once per language and records the reverse of every such
+  link. Called through partialCached, so the walk happens once per build and
+  language, not once per page.
+
+  The result is a flat map, "<target path>|<track>" -> "<source path>", because
+  Go templates have no nested map assignment. Tracks are named by the first
+  path segment of the source (expl, quick, appl, sermons, kids, story, themes).
+*/ -}}
+
+{{- $lang := .lang -}}
+{{- $prefix := cond (eq $lang site.Home.Language.Lang) "" (print "/" $lang) -}}
+{{- $s := newScratch -}}
+
+{{- /* sections too: several quick summaries are section pages (_index.md), and
+       their link to the deep dive is exactly the one a reader follows */ -}}
+{{- range where site.Pages "Kind" "in" (slice "page" "section") -}}
+  {{- $from := .RelPermalink -}}
+  {{- /* the track of the page doing the pointing: /de/expl/… -> expl */ -}}
+  {{- $parts := split (strings.TrimPrefix (print $prefix "/") $from) "/" -}}
+  {{- $fromTrack := index $parts 0 -}}
+  {{- if $fromTrack -}}
+    {{- $page := . -}}
+    {{- range slice "base" "quick" "story" "appl" "expl" "kids" -}}
+      {{- $value := index $page.Params . -}}
+      {{- if eq (printf "%T" $value) "string" -}}
+        {{- with $page.GetPage $value -}}
+          {{- $s.SetInMap "index" (printf "%s|%s" .RelPermalink $fromTrack) $from -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return ($s.Get "index" | default dict) -}}
