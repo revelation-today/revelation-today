@@ -67,6 +67,11 @@
 {{- if $appl }}{{ $urls = merge $urls (dict "appl" $appl.RelPermalink) }}{{ end -}}
 {{- if $expl }}{{ $urls = merge $urls (dict "expl" $expl.RelPermalink) }}{{ end -}}
 {{- if $kids }}{{ $urls = merge $urls (dict "kids" $kids.RelPermalink) }}{{ end -}}
+{{- /* …and the other direction: the pages that point at this one. Front matter
+       names one way only, so without this the deep dive on the historical
+       background offered its application but not the quick summary that sent
+       the reader there. Built once per language (custom/track_index). */ -}}
+{{- $reverse := partialCached "custom/track_index" (dict "lang" $lang) $lang -}}
 {{- $tracks := slice
       (dict "type" "story"   "label" ((T "trackStory")  | default $story_n))
       (dict "type" "quick"   "label" ((T "trackQuick")  | default $quick_n))
@@ -79,6 +84,7 @@
 {{- $shown := slice -}}
 {{- range $tracks -}}
   {{- $url := index $urls .type | default "" -}}
+  {{- if not $url }}{{ $url = index $reverse (printf "%s|%s" $relPermalink .type) | default "" }}{{ end -}}
   {{- if or $url (eq .type $docType) -}}
     {{- $shown = $shown | append (merge . (dict "url" $url "current" (eq .type $docType))) -}}
   {{- end -}}
