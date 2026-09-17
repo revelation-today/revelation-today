@@ -3,6 +3,7 @@ title: "Küçük tomar"
 weight: 2
 base: /quick/content/scroll
 story: /story/general/tour
+story_anchor: scroll
 prev: /expl/content/trumpets/the-trumpets-in-revelation
 next: /expl/content/witnesses/the-two-witnesses
 docType: expl

@@ -3,6 +3,7 @@ title: "Efes’teki kiliseye yazılan mektup"
 weight: 10
 base: /quick/content/letters
 story: /story/general/tour
+story_anchor: letters
 prev: /expl/content/letters/the-letters-to-the-seven-churches
 next: /expl/content/letters/the-letter-to-the-church-in-smyrna
 docType: expl

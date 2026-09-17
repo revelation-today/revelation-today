@@ -3,6 +3,7 @@ title: "Surat kepada Tiatira"
 weight: 40
 base: /quick/content/letters
 story: /story/general/tour
+story_anchor: letters
 prev: /expl/content/letters/the-letter-to-the-church-in-pergamon
 next: /expl/content/letters/the-letter-to-the-church-in-sardis
 docType: expl

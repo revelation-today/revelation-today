@@ -1,7 +1,6 @@
 ---
 title: "Kisah Penciptaan"
 weight: 1
-story: /story/general/tour
 expl: /expl/bible/creation/the-creation
 prev: /welcome
 next: /quick/bible/daniel

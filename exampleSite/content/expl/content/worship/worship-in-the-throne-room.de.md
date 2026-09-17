@@ -3,6 +3,7 @@ title: "Anbetung im Thronsaal Gottes"
 weight: 2
 base: /quick/content/worship
 story: /story/general/tour
+story_anchor: worship
 prev: /expl/content/letters/the-letter-to-the-church-in-laodicea
 next: /expl/content/worship/the-book-with-the-seven-seals
 docType: expl

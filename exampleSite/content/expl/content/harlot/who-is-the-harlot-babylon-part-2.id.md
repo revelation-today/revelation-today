@@ -3,6 +3,7 @@ title: "Bagian 2: Siapakah Sang Pelacur Babel?"
 weight: 3
 base: /quick/content/harlot
 story: /story/general/tour
+story_anchor: harlot
 prev: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 next: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 docType: expl

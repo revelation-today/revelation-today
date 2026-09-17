@@ -2,7 +2,6 @@
 title: "Kisah Penciptaan"
 weight: 1
 base: /quick/bible/creation
-story: /story/general/tour
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/bible/creation/the-temple-and-the-presence-of-god
 docType: expl

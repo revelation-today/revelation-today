@@ -3,6 +3,7 @@ title: "Akhir zaman"
 weight: 3
 base: /quick/content/army
 story: /story/general/tour
+story_anchor: army
 prev: /expl/content/army/the-144000
 next: /expl/content/trumpets/the-trumpets-in-revelation
 docType: expl

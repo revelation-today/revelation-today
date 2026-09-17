@@ -3,6 +3,7 @@ title: "Malaikat Gereja-gereja"
 weight: 4
 base: /quick/content/letters
 story: /story/general/tour
+story_anchor: letters
 deeper:
     - name: Surat-surat kepada Gereja-gereja
       link:  /expl/content/letters/the-letters-to-the-seven-churches

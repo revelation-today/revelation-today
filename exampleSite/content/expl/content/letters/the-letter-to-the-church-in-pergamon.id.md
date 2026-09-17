@@ -3,6 +3,7 @@ title: "Surat kepada Pergamus"
 weight: 30
 base: /quick/content/letters
 story: /story/general/tour
+story_anchor: letters
 prev: /expl/content/letters/the-letter-to-the-church-in-smyrna
 next: /expl/content/letters/the-letter-to-the-church-in-thyatira
 docType: expl

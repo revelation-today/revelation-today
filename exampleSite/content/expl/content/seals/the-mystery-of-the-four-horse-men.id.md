@@ -3,6 +3,7 @@ title: "Rahasia keempat penunggang kuda apokaliptik"
 weight: 3
 base: /quick/content/seals
 story: /story/general/tour
+story_anchor: seals
 prev: /expl/content/worship/the-book-with-the-seven-seals
 next: /expl/content/seals/the-wrath-of-the-lamb
 docType: expl

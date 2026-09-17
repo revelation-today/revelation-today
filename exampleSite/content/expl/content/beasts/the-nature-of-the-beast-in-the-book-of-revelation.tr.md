@@ -3,6 +3,7 @@ title: "Vahiy kitabındaki canavarın doğası"
 weight: 1
 base: /quick/content/beasts
 story: /story/general/tour
+story_anchor: beasts
 prev: /expl/content/jesus/a-different-christmas-story
 next: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
 docType: expl

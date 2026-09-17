@@ -3,6 +3,7 @@ title: "Vahiy'deki fahişe: Roma İmparatorluğu ile alay ediliyor"
 weight: 5
 base: /quick/content/harlot
 story: /story/general/tour
+story_anchor: harlot
 prev: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 next: /expl/content/1000y/the-thousand-year-kingdom
 docType: expl
