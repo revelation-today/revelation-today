@@ -42,4 +42,4 @@ Das {{% int_link val="ist ein Indiz" link="/expl/background/literature/the-book-
 
 Auch die {{% int_link val="Verwendung der Worte 'zeigen' und 'bekanntmachen'" link="/expl/background/literature/literally-or-symbolic/#deiknumi" %}}, die am Anfang der Buches vom Autor benutzt werden, lassen auf eine symbolische Bedeutung schließen.
 
-Zusammenfassend können wir also sagen, dass das Buch enthüllt, was sich hinter den Kulissen der Realität verbirgt, die wir Tag für Tag wahrnehmen, wie in diesem [Trailer] (https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) (bitte den Film nicht ansehen).
+Zusammenfassend können wir also sagen, dass das Buch enthüllt, was sich hinter den Kulissen der Realität verbirgt, die wir Tag für Tag wahrnehmen, wie in diesem [Trailer](https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) (der Ausschnitt genügt — der Film selbst ist ein Horrorfilm).

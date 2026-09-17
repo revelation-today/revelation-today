@@ -41,4 +41,4 @@ This {{% int_link val="is an indication" link="/expl/background/literature/the-b
 
 The {{% int_link val="use of the words 'show' and 'make known'" link="/expl/background/literature/literally-or-symbolic/#deiknumi" %}}, which are used by the author at the beginning of the book, also suggest a symbolic meaning.
 
-So, putting this all together we can say that the book is revealing what is behind the curtains of the reality we perceive every day like in this [trailer](https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) (dont watch the movie).
+So, putting this all together we can say that the book is revealing what is behind the curtains of the reality we perceive every day like in this [trailer](https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) (the clip is enough — the film itself is a horror film).
