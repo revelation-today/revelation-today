@@ -36,4 +36,8 @@ Why does the book spend more than two chapters on her? Because being "part of" t
 
 With the harlot judged, the bride is finally ready for her wedding. First, though, Jesus finishes off what remains of the beast and the false prophet - not with a battle, but with a courtroom: a sword from his mouth, judging each in turn.
 
+## Key images
+
+- **The scarlet beast, seven heads, ten horns** - the empire that carries her — the heads are its rulers one after another, the horns the client kings who lend it their power.
+
 [Read the fuller explanation →]({{< relref "expl/content/harlot/who-is-the-harlot-babylon-part-2" >}})

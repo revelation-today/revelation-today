@@ -25,3 +25,9 @@ Und hier kommt die überraschende Wendung: Statt die Menschen nur weiter zu verh
 Die Gemeinde dagegen - schon in Kapitel 7 versiegelt - wird von der Qual der fünften Posaune ausdrücklich ausgenommen ({{% bible val="Offenbarung 9,4-6" link="rev:9,4-6" lang="de" %}}). Das heißt nicht, dass es leicht wird: Auch Gläubige verlieren dieselben Sicherheiten, und manche verlieren ihr Leben. Aber diesen Verlust zu ertragen, ohne die Hoffnung zu verlieren, wird genau zu der Art von Zeugnis, das einer zuschauenden Welt zeigt, wie echte Sicherheit aussieht.
 
 ![](/images/trumpets_de.jpg)
+
+
+## Schlüsselbilder
+
+- **Der Abgrund** - das Gefängnis der gottfeindlichen Mächte, das sich nur mit Gottes Erlaubnis öffnet.
+- **Abaddon, Apollyon** - hebräisch und griechisch für „Verderber" — der König der Heuschrecken, so benannt, damit niemand sein Tun für Hilfe hält.

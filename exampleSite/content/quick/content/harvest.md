@@ -22,4 +22,8 @@ The remaining scenes describe two harvests. The first is a grain harvest, gather
 
 This closes the loop back to the first angel's question: did the nations actually receive the gospel that was proclaimed to them? That was exactly the content of the {{% int_link val="little scroll" link="/quick/content/scroll" %}} back in chapter 10 - the church carrying Christ's own pattern to the nations, so that they might be saved rather than judged.
 
+## Key images
+
+- **The three angels** - the last public offer before the harvest — the gospel to every nation, the fall of Babylon announced, and the warning against the mark.
+
 [Read the fuller explanation →]({{< relref "expl/content/harvest/gods-army-and-the-seven-angels" >}})

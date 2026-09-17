@@ -26,4 +26,8 @@ Finally the dragon turns on "the rest of her offspring" - everyone who follows J
 
 After his defeat, a voice announces that this is bad news for earth ({{% bible val="Revelation 12:12" link="rev:12,12" lang="en" %}}) - not because Satan has grown stronger, but because he knows "his time is short." A defeated enemy with nothing left to lose doesn't retreat; he does as much damage as he can on the way out. That's the shape of the Great Tribulation this chapter introduces: not suffering as punishment for wrongdoing, but the fallout of a losing enemy lashing out before his time runs out completely.
 
+## Key images
+
+- **The woman clothed with the sun** - not Mary alone but the people of God, out of whom the Messiah comes — first Israel, then the church the dragon pursues.
+
 [Read the fuller explanation →]({{< relref "expl/content/jesus/a-different-christmas-story" >}})

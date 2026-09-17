@@ -29,3 +29,8 @@ But what John *sees* when he looks is entirely different: an uncountable multitu
 The Great Tribulation isn't only a future event still to come - Revelation ties it to something that already began: Jesus' death on the cross and Satan's expulsion from heaven (a scene described later, in chapter 12). Before that, God's people mainly suffered as the *consequence* of their own sin. Since then, faithful suffering that has nothing to do with wrongdoing has become part of what it means to follow Jesus - the pattern the martyrs under the altar were already caught up in.
 
 ![](/images/Drangsal_en.jpg)
+
+
+## Key images
+
+- **The sealing** - God marking his own before the storm — the counterpart to the mark of the beast later: not protection from suffering, but a claim that holds through it.

@@ -22,4 +22,8 @@ Die übrigen Szenen beschreiben zwei Ernten. Die erste ist eine Getreideernte, e
 
 Damit schließt sich der Kreis zur Frage des ersten Engels: Haben die Völker das Evangelium, das ihnen verkündet wurde, wirklich angenommen? Genau das war der Inhalt der {{% int_link val="kleinen Schriftrolle" link="/quick/content/scroll" %}} in Kapitel 10 - die Gemeinde, die das Lebensmuster Christi zu den Völkern trägt, damit sie gerettet und nicht gerichtet werden.
 
+## Schlüsselbilder
+
+- **Die drei Engel** - das letzte öffentliche Angebot vor der Ernte — das Evangelium für jedes Volk, der angekündigte Fall Babylons und die Warnung vor dem Mal.
+
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/harvest/gods-army-and-the-seven-angels" >}})

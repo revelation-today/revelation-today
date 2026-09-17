@@ -71,6 +71,11 @@ Der Reichtum von Laodizea hat die Gemeinde blind für ihre eigene Armut gemacht 
 
 **Die Verheißung:** mit Jesus auf seinem Thron zu sitzen - Anteil an seiner Herrschaft, für die, die demselben Druck zum Kompromiss standhalten, dem er standgehalten hat.
 
+## Schlüsselbilder
+
+- **Die Nikolaiten** - eine Gruppe in der Gemeinde, die lehrte, die Teilnahme an den Götzenfesten sei harmlos — dasselbe Versagen, in das Bileam Israel einst geführt hat.
+- **Die Synagoge des Satans** - nicht das jüdische Volk, sondern die in Smyrna und Philadelphia, die Gläubige anzeigten, weil sie den Kaiser nicht anbeteten.
+
 [Die ausführlichere Erklärung und jeden einzelnen Brief lesen →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 
 ![](/images/Churches_de.jpg)

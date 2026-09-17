@@ -71,6 +71,11 @@ Laodicea's wealth has made it blind to its own poverty - "lukewarm" describes a 
 
 **The promise:** to sit with Jesus on his throne - a share in his rule, given to those who overcome the same pressure to compromise that he overcame.
 
+## Key images
+
+- **The Nicolaitans** - a group inside the church teaching that joining the idol feasts was harmless — the same failure Balaam once led Israel into.
+- **The synagogue of Satan** - not the Jewish people, but those in Smyrna and Philadelphia who handed believers over for refusing to worship the emperor.
+
 [Read the fuller explanation and each individual letter →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 
 ![](/images/Churches_en.jpg)

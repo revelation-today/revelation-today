@@ -26,4 +26,8 @@ Schließlich wendet sich der Drache gegen "die Übrigen von ihren Nachkommen" - 
 
 Nach seiner Niederlage verkündet eine Stimme, dass dies eine schlechte Nachricht für die Erde ist ({{% bible val="Offenbarung 12,12" link="rev:12,12" lang="de" %}}) - nicht weil Satan stärker geworden wäre, sondern weil er weiß, dass "seine Zeit kurz ist". Ein besiegter Feind, der nichts mehr zu verlieren hat, zieht sich nicht zurück; er richtet auf dem Weg nach draußen so viel Schaden an wie möglich. Das ist die Gestalt der Großen Trübsal, die dieses Kapitel einführt: kein Leiden als Strafe für Fehlverhalten, sondern die Folgen eines verlierenden Feindes, der um sich schlägt, bevor seine Zeit vollends abläuft.
 
+## Schlüsselbilder
+
+- **Die Frau, mit der Sonne bekleidet** - nicht Maria allein, sondern das Volk Gottes, aus dem der Messias kommt — zuerst Israel, dann die Gemeinde, die der Drache verfolgt.
+
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/jesus/a-different-christmas-story" >}})

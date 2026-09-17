@@ -29,3 +29,8 @@ Doch was Johannes *sieht*, als er hinschaut, ist etwas ganz anderes: eine unzäh
 Die Große Trübsal ist nicht nur ein zukünftiges Ereignis, das noch aussteht - die Offenbarung verbindet sie mit etwas, das bereits begonnen hat: dem Tod Jesu am Kreuz und der Vertreibung Satans aus dem Himmel (eine Szene, die später in Kapitel 12 beschrieben wird). Davor litt Gottes Volk vor allem als *Folge* der eigenen Sünde. Seitdem gehört treues Leiden, das nichts mit eigener Schuld zu tun hat, zur Nachfolge Jesu dazu - genau das Muster, in dem die Märtyrer unter dem Altar schon standen.
 
 ![](/images/Drangsal_de.jpg)
+
+
+## Schlüsselbilder
+
+- **Die Versiegelung** - Gott zeichnet die Seinen vor dem Sturm — das Gegenstück zum späteren Mal des Tieres: kein Schutz vor dem Leiden, sondern ein Anspruch, der mitten hindurch trägt.
