@@ -9,4 +9,4 @@ Bu soru pek çok insan için çok kişisel bir yere dokunuyor; ve Kutsal Kitap'�
 
 Vahiy'in asıl iletmek istediği şey, sıcaklığa ya da süreye dair teknik bir tarif değil, bir ilişki gibi görünüyor: Cennet, Tanrı'yla tam bir yakınlığın doğal sonucudur - değer verdiğimiz her iyi şey (ışık, sevinç, güvenlik, ait olma) O'na yakın olmaktan kaynaklanır. Cehennem de buna karşılık, bu yakınlık reddedildiğinde geriye kalandır - dışarıdan eklenmiş bir ceza olmaktan çok, her iyi şeyin kaynağı olan Tanrı'nın çok gerçek yokluğu. Bunun tam mekanizması ne olursa olsun, metnin ağırlığı bir tehditte değil, bir davette toplanıyor: Kapı açıkken, yaklaş.
 
-[Devamını oku →]({{< relref "expl/content/paradise/heaven-and-hell" >}})
+[Tam açıklamayı oku →]({{< relref "expl/content/paradise/heaven-and-hell" >}})

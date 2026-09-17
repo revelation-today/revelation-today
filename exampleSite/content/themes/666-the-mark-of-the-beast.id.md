@@ -11,4 +11,4 @@ Namun dalam dunia kitab Wahyu sendiri, 666 berfungsi bukan seperti kode rahasia 
 
 Apa pun calon 666 yang sedang ramai diberitakan saat ini, pertanyaan yang lebih dalam itulah - kepada apa sebenarnya kamu menaruh rasa amanmu - yang terus-menerus ditunjuk kembali oleh teks.
 
-[Baca selengkapnya →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})
+[Baca penjelasan lengkapnya →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})

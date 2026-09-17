@@ -11,4 +11,4 @@ Looking closely at the passages most often used to support it - 1 Thessalonians 
 
 This doesn't require throwing out anyone's faith journey - just a closer look at what these specific texts say.
 
-[Read more →]({{< relref "expl/topics/others/the-rapture" >}})
+[Read the full explanation →]({{< relref "expl/topics/others/the-rapture" >}})

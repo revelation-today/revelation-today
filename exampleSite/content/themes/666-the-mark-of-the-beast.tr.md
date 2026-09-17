@@ -11,4 +11,4 @@ Ne var ki Vahiy'in kendi dünyasında 666, çözülmeyi bekleyen gizli bir şifr
 
 Günün manşetlerindeki 666 adayı kim ya da ne olursa olsun, metnin sürekli işaret ettiği asıl derin soru şu: Güvenliğin için gerçekte neye güveniyorsun?
 
-[Devamını oku →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})
+[Tam açıklamayı oku →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})

@@ -11,4 +11,4 @@ In Revelation's own world, though, 666 functions less like a secret code waiting
 
 Whatever the current headline candidate for 666 turns out to be, that deeper question - what are you actually trusting for your security - is the one the text keeps pointing back to.
 
-[Read more →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})
+[Read the full explanation →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})

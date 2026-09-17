@@ -11,4 +11,4 @@ Schaut man sich die Stellen genauer an, die am häufigsten dafür angeführt wer
 
 Dafür muss niemand seinen Glaubensweg über Bord werfen - nur genauer hinschauen, was diese konkreten Texte sagen.
 
-[Mehr lesen →]({{< relref "expl/topics/others/the-rapture" >}})
+[Die ausführliche Erklärung lesen →]({{< relref "expl/topics/others/the-rapture" >}})

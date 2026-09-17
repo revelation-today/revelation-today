@@ -11,4 +11,4 @@ Bu görüşü desteklemek için en sık kullanılan metinlere yakından bakınca
 
 Bu, kimsenin iman yolculuğunu çöpe atmasını gerektirmiyor - sadece bu belirli metinlerin ne dediğine daha yakından bakmayı.
 
-[Devamını oku →]({{< relref "expl/topics/others/the-rapture" >}})
+[Tam açıklamayı oku →]({{< relref "expl/topics/others/the-rapture" >}})

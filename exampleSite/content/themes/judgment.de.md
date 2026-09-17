@@ -9,4 +9,4 @@ Die Gerichtsszenen der Offenbarung werden manchmal genau so eingesetzt - als Ang
 
 Ein Blick darauf, an wen diese Szenen tatsächlich gerichtet sind, ist jedoch aufschlussreich: Die Offenbarung ist ein Brief *an sieben Gemeinden* - an Menschen, die bereits im Glauben stehen, kein Traktat, das Fremden auf der Straße in die Hand gedrückt wird. Die Gerichtsszenen funktionieren weniger wie eine Drohung an die Unüberzeugten und mehr wie eine Enthüllung für die Überzeugten: Sie legen offen, welche Loyalitäten echt sind, rufen schwankende Gläubige zurück und versichern einer verfolgten Gemeinde, dass Unrecht nicht das letzte Wort behält. Anbetung, nicht Angst, bildet das emotionale Zentrum des Buches (Kapitel 4-5, 7, 15, 19) - das Gericht ist real, aber es steht im Dienst dieser Anbetung und ersetzt sie nicht.
 
-[Mehr lesen →]({{< relref "expl/topics/others/judgment-in-the-book-of-revelation" >}})
+[Die ausführliche Erklärung lesen →]({{< relref "expl/topics/others/judgment-in-the-book-of-revelation" >}})

@@ -9,4 +9,4 @@ Selama berabad-abad pertanyaan ini telah mendapat banyak jawaban yang berbeda-be
 
 Dibaca dalam konteksnya sendiri, petunjuk-petunjuknya (tujuh bukit, kekaisaran yang "memerintah atas raja-raja di bumi" pada zaman Yohanes sendiri) pertama-tama dan paling langsung menunjuk pada Roma sendiri - berdandan seperti pengantin yang glamor dan kaya, tetapi disingkapkan sebagai pemeras bangsa-bangsa yang penuh kekerasan. Tetapi kitab Wahyu juga memperlakukan "Babel" sebagai pola yang berulang, bukan satu alamat yang tetap: nama itu sendiri menggemakan Babel, Tirus, Niniwe - sistem apa pun, di era mana pun, yang menukar kesetiaan dengan kekayaan dan menyebut kekerasannya "perdamaian." Itulah sebabnya pertanyaan yang lebih baik yang terus didorong teks ini bukan hanya "siapa Babel di luar sana," melainkan "di mana pola Babel diam-diam telah muncul dalam hidupku atau komunitasku sendiri."
 
-[Baca selengkapnya →]({{< relref "expl/content/harlot/who-is-the-harlot-babylon-part-1" >}})
+[Baca penjelasan lengkapnya →]({{< relref "expl/content/harlot/who-is-the-harlot-babylon-part-1" >}})

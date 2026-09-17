@@ -9,4 +9,4 @@ Read straight through, it can look like the world ends three separate times - on
 
 Revelation's structure gives some real clues that these are the second: each series builds toward a similar climactic ending (cosmic upheaval, divine appearance), each is patterned on the plagues of Egypt with increasing severity, and each seems to escalate the same core message - creation groaning under human rebellion, and a world running out of false securities to hide behind - rather than introducing three unrelated disasters. Many careful readers describe the book's shape as a spiral rather than a straight line: circling back over the same territory from different angles, each pass revealing something the previous one didn't quite show, rather than a strict step-by-step countdown.
 
-[Read more →]({{< relref "expl/background/structure/the-structure-of-the-book-of-revelation" >}})
+[Read the full explanation →]({{< relref "expl/background/structure/the-structure-of-the-book-of-revelation" >}})
