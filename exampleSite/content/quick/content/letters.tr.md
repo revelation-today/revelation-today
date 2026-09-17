@@ -71,6 +71,11 @@ Laodikya'nın zenginliği onu kendi yoksulluğuna karşı kör etmiştir — "ı
 
 **Vaat:** İsa'yla birlikte tahtında oturmak - O'nun dayandığı aynı ödün verme baskısına dayananlara verilen, egemenliğinden bir pay.
 
+## Önemli imgeler
+
+- **Nikolaslar** - kilise içinde, put şölenlerine katılmanın zararsız olduğunu öğreten bir grup — Balam’ın bir zamanlar İsrail’i düşürdüğü aynı başarısızlık.
+- **Şeytan’ın havrası** - Yahudi halkı değil, İzmir ve Filadelfya’da imanlıları, imparatora tapmayı reddettikleri için ihbar edenler.
+
 [Daha ayrıntılı açıklamayı ve her bir mektubu oku →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 
 ![](/images/Churches_tr.jpg)

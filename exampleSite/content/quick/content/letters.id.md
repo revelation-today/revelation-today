@@ -71,6 +71,11 @@ Kekayaan Laodikia telah membuatnya buta terhadap kemiskinannya sendiri - "suam-s
 
 **Janjinya:** duduk bersama Yesus di takhta-Nya - bagian dalam pemerintahan-Nya, bagi mereka yang bertahan terhadap tekanan berkompromi yang sama, yang telah Ia tanggung.
 
+## Gambaran penting
+
+- **Kaum Nikolaus** - kelompok di dalam jemaat yang mengajarkan bahwa ikut serta dalam pesta berhala tidak apa-apa — kegagalan yang sama yang dahulu ditimbulkan Bileam atas Israel.
+- **Jemaah Iblis** - bukan bangsa Yahudi, melainkan mereka di Smirna dan Filadelfia yang melaporkan orang percaya karena menolak menyembah kaisar.
+
 [Baca penjelasan yang lebih lengkap dan setiap surat satu per satu →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 
 ![](/images/Churches_en.jpg)

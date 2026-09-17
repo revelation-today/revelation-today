@@ -29,3 +29,8 @@ Ama Yuhanna baktığında *gördüğü* şey bambaşkadır: "her ulustan, her oy
 Büyük Sıkıntı yalnızca hâlâ gelecekte olan bir olay değildir — Vahiy onu çoktan başlamış bir şeye bağlar: İsa'nın çarmıhtaki ölümüne ve Şeytan'ın gökten kovulmasına (daha sonra, 12. bölümde anlatılan bir sahne). Bundan önce Tanrı'nın halkı esas olarak kendi günahının *sonucu* olarak acı çekiyordu. O zamandan beri, hiçbir suçla ilgisi olmayan sadık acı çekiş, İsa'yı izlemenin bir parçası haline geldi — sunağın altındaki şehitlerin zaten içine çekildiği örüntü budur.
 
 ![](/images/Drangsal_tr.jpg)
+
+
+## Önemli imgeler
+
+- **Mühürleme** - Tanrı fırtınadan önce kendi halkını işaretler — sonraki canavar işaretinin karşılığı: acıdan korunma değil, acının içinden taşıyan bir sahiplik.

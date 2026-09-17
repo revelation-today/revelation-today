@@ -7,6 +7,9 @@ expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals
 docType: quick
+sources:
+    - pages: 323–324
+      ref: beale_rev
 kids: /kids/elementary/04-worship-in-heaven
 ---
 
@@ -29,5 +32,11 @@ Yedi kez mühürlenmiş tomar ({{% bible val="Vahiy 5:1-5" link="rev:5,1-5" lang
 Kimse layık bulunmaz — ta ki Yuhanna'ya Yahuda Aslanı'nın galip geldiği söylenene dek. Ama dönüp baktığında *gördüğü* şey hiç de bir aslan değildir: boğazlanmış gibi duran bir Kuzu. Yuhanna bir şey *işitir* ve onu tamamen yeniden yorumlayan başka bir şey *görür* — herkesin beklediği fetheden Mesih'in, kurban olma yoluyla fethettiği ortaya çıkar. Aynı işit/gör kalıbı daha sonra 144.000 ile (7. bölüm) tekrarlanır: bir ordu olarak duyurulur, tapınan bir kalabalık olarak açığa çıkar.
 
 ![](/images/hear_tr.jpg)
+
+## Önemli imgeler
+
+- **Yirmi dört ihtiyar** - gökte resmedilen bütün kurtulmuş halk — on iki oymak ve on iki elçi, iki antlaşma birlikte; sayı, Davut’un atadığı yirmi dört kâhin bölüğünü anımsatır.
+- **Dört yaratık** - tahtın önünde temsil edilen bütün yaratılış; nöbet tutar ve tapınmaya öncülük eder.
+- **Yedi ruh** - Tanrı’nın Ruhu’nun doluluğu, bütün dünyaya gönderilmiş.
 
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/worship/the-book-with-the-seven-seals" >}})

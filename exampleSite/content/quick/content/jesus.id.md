@@ -26,4 +26,8 @@ Akhirnya naga itu berbalik menyerang "keturunannya yang lain" - semua orang yang
 
 Setelah kekalahannya, sebuah suara mengumumkan bahwa ini adalah kabar buruk bagi bumi ({{% bible val="Wahyu 12:12" link="rev:12,12" lang="id" %}}) - bukan karena Iblis telah menjadi lebih kuat, melainkan karena ia tahu "waktunya sudah singkat." Musuh yang telah kalah dan tidak punya apa-apa lagi untuk dipertaruhkan tidak akan mundur; ia menimbulkan kerusakan sebanyak mungkin dalam perjalanannya keluar. Itulah wujud Kesusahan Besar yang diperkenalkan pasal ini: bukan penderitaan sebagai hukuman atas kesalahan, melainkan dampak dari musuh yang sedang kalah dan mengamuk sebelum waktunya benar-benar habis.
 
+## Gambaran penting
+
+- **Perempuan berselubungkan matahari** - bukan Maria seorang, melainkan umat Allah yang darinya Mesias lahir — mula-mula Israel, lalu jemaat yang dikejar naga itu.
+
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/jesus/a-different-christmas-story" >}})

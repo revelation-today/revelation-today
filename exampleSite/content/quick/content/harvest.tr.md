@@ -22,4 +22,8 @@ Kalan sahneler iki hasadı anlatır. İlki bir tahıl hasadıdır; İnsanoğlu'n
 
 Bu, çemberi ilk meleğin sorusuna geri kapatır: uluslar kendilerine duyurulan müjdeyi gerçekten kabul ettiler mi? 10. bölümdeki {{% int_link val="küçük tomarın" link="/quick/content/scroll" %}} içeriği tam da buydu — kilisenin, uluslar yargılanmak yerine kurtulsun diye Mesih'in kendi örneğini onlara taşıması.
 
+## Önemli imgeler
+
+- **Üç melek** - hasattan önceki son açık çağrı — her ulusa müjde, Babil’in düşüşünün duyurulması ve işarete karşı uyarı.
+
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/harvest/gods-army-and-the-seven-angels" >}})

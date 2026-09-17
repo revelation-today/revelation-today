@@ -30,4 +30,8 @@ Harmagedon hanya muncul satu kali dalam seluruh kitab ini ({{% bible val="Wahyu 
 
 Satu detail mudah terlewat: pasukan-pasukan *berkumpul* di Harmagedon, tetapi pertempurannya sendiri tidak terjadi di sana - gunung adalah tempat berhimpun, bukan medan perang. Cawan ketujuh hanya merangkum hasilnya secara singkat ({{% bible val="Wahyu 16:17-21" link="rev:16,17-21" lang="id" %}}); pertempuran yang sesungguhnya digambarkan kemudian, setelah kejatuhan Babel dan perjamuan kawin Anak Domba, ketika Yesus maju sebagai penunggang kuda putih ({{% bible val="Wahyu 19:11-21" link="rev:19,11-21" lang="id" %}}) - yang mengumpulkan "pasukan"-nya sendiri dengan cara yang sangat ironis: burung-burung nasar, yang diundang untuk berpesta atas mereka yang dikalahkan. Satu-satunya perhatian-Nya yang sesungguhnya bukanlah apakah Ia akan menang - melainkan pembersihan sesudahnya.
 
+## Gambaran penting
+
+- **Sungai Efrat** - perbatasan yang tidak pernah sanggup dijaga Roma: jika dikeringkan, musuh masuk begitu saja, seperti Babel dahulu jatuh.
+
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/bowls/the-key-to-armageddon" >}})

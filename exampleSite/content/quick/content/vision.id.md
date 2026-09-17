@@ -20,4 +20,8 @@ Kaki-kaki dian dan bintang-bintang itu kemudian dijelaskan secara langsung: mere
 
 Segala sesuatu yang Yesus katakan kepada ketujuh jemaat dalam dua pasal berikutnya akan mengukur mereka dengan penglihatan yang satu ini: apakah mereka sungguh-sungguh menjadi terang seperti ini, dalam ketergantungan seperti ini?
 
+## Gambaran penting
+
+- **Alfa dan Omega** - huruf pertama dan terakhir abjad Yunani: Yesus adalah awal dan akhir kisah ini, dan Ia tidak berubah.
+
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/vision/the-vision" >}})

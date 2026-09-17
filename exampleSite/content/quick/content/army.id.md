@@ -29,3 +29,8 @@ Tetapi apa yang *dilihat* Yohanes ketika ia memandang sama sekali berbeda: kumpu
 Kesusahan Besar bukan hanya peristiwa masa depan yang masih akan datang - kitab Wahyu mengaitkannya dengan sesuatu yang sudah dimulai: kematian Yesus di kayu salib dan pengusiran Iblis dari surga (adegan yang digambarkan kemudian, dalam pasal 12). Sebelum itu, umat Allah terutama menderita sebagai *akibat* dari dosa mereka sendiri. Sejak saat itu, penderitaan dalam kesetiaan yang sama sekali tidak berkaitan dengan kesalahan telah menjadi bagian dari makna mengikut Yesus - pola yang sudah dialami para martir di bawah mezbah.
 
 ![](/images/Drangsal_en.jpg)
+
+
+## Gambaran penting
+
+- **Pemeteraian** - Allah menandai milik-Nya sebelum badai — lawan dari tanda binatang nanti: bukan perlindungan dari penderitaan, melainkan kepemilikan yang bertahan di tengahnya.

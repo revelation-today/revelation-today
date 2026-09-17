@@ -20,4 +20,8 @@ Ardından kandillikler ve yıldızlar doğrudan açıklanır: bunlar yedi kilise
 
 İsa'nın sonraki iki bölümde yedi kiliseye söyleyeceği her şey, onları bu tek görüme göre ölçecektir: gerçekten böyle bir ışık mı oluyorlar, böyle bir bağımlılık içinde mi yaşıyorlar?
 
+## Önemli imgeler
+
+- **Alfa ve Omega** - Yunan alfabesinin ilk ve son harfleri: İsa öykünün başı ve sonudur ve O değişmez.
+
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/vision/the-vision" >}})

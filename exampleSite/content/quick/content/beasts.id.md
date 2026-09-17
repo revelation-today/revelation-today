@@ -26,4 +26,8 @@ Binatang kedua digambarkan memiliki "dua tanduk seperti anak domba, tetapi ia be
 
 Adapun angka 666: alih-alih sebuah kode yang menunjuk satu tokoh tertentu di masa depan, angka itu berfungsi sebagai putusan kitab Wahyu sendiri atas seluruh trinitas tandingan ini - kurang satu dari kesempurnaan yang dilambangkan oleh 777, sebuah kegagalan yang spektakuler dan terulang tiga kali.
 
+## Gambaran penting
+
+- **Patung binatang itu** - patung kaisar yang wajib dihormati semua orang: kesetiaan yang dibuat kasatmata — menolaknya berarti dianggap pengkhianat.
+
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) · [Binatang-binatang itu dalam konteks sejarahnya →]({{< relref "expl/content/beasts/the-beasts-and-the-666-in-historical-context" >}})

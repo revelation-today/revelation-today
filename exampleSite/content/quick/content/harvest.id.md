@@ -22,4 +22,8 @@ Adegan-adegan selanjutnya menggambarkan dua penuaian. Yang pertama adalah penuai
 
 Ini menutup lingkaran kembali ke pertanyaan malaikat pertama: apakah bangsa-bangsa sungguh menerima Injil yang diberitakan kepada mereka? Justru itulah isi {{% int_link val="gulungan kitab kecil" link="/quick/content/scroll" %}} dalam pasal 10 - gereja membawa pola hidup Kristus sendiri kepada bangsa-bangsa, supaya mereka diselamatkan dan bukan dihakimi.
 
+## Gambaran penting
+
+- **Ketiga malaikat** - tawaran terakhir di depan umum sebelum panen — Injil bagi setiap bangsa, pengumuman jatuhnya Babel, dan peringatan terhadap tanda itu.
+
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/harvest/gods-army-and-the-seven-angels" >}})
