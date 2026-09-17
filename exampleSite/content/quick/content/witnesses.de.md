@@ -27,4 +27,8 @@ Genau das verkörpern die zwei Zeugen: völlige Hingabe an das Muster von Christ
 
 Dann kommt eine unerwartete Wendung: Ein großes Erdbeben bringt Gericht, aber 90 Prozent der Menschen in der Stadt überleben es und geben Gott die Ehre - eine auffällige Umkehrung des sonst üblichen biblischen Musters, bei dem nur ein kleiner Rest verschont bleibt. Hier kommt eine überwältigende Mehrheit durch.
 
+## Schlüsselbilder
+
+- **Das Vermessen des Tempels** - abstecken, was Gott gehört, wie der Engel in Hesekiels Tempelvision misst - was vermessen ist, ist als sein Eigentum beansprucht.
+
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/witnesses/the-two-witnesses" >}})

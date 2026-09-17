@@ -25,3 +25,9 @@ Here's the surprising turn: rather than only hardening people further, Revelatio
 Meanwhile, the church - already sealed in chapter 7 - is specifically excluded from the fifth trumpet's torment ({{% bible val="Revelation 9:4-6" link="rev:9,4-6" lang="en" %}}). That doesn't mean an easy ride: believers still lose the same securities, and some lose their lives. But enduring that loss without losing hope becomes exactly the kind of testimony that shows a watching world what real security looks like.
 
 ![](/images/trumpets_en.jpg)
+
+
+## Key images
+
+- **The abyss** - the prison of the powers hostile to God, opened only by his permission.
+- **Abaddon, Apollyon** - Hebrew and Greek for "Destroyer" — the king of the locusts, named so that no one mistakes what he does for help.

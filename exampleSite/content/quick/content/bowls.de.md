@@ -30,4 +30,8 @@ Harmagedon kommt im ganzen Buch nur ein einziges Mal vor ({{% bible val="Offenba
 
 Ein Detail übersieht man leicht: Die Heere *versammeln* sich bei Harmagedon, aber die Schlacht selbst wird dort nicht geschlagen - Berge sind Sammelplätze, keine Schlachtfelder. Die siebte Schale fasst den Ausgang nur kurz zusammen ({{% bible val="Offenbarung 16,17-21" link="rev:16,17-21" lang="de" %}}); die eigentliche Schlacht wird später beschrieben, nach dem Fall Babylons und der Hochzeit des Lammes, wenn Jesus als der Reiter im weißen Gewand ausreitet ({{% bible val="Offenbarung 19,11-21" link="rev:19,11-21" lang="de" %}}) - der sein eigenes "Heer" auf auffallend ironische Weise versammelt: Geier, eingeladen, sich an den Besiegten zu laben. Seine einzige echte Sorge ist nicht, ob er gewinnt - sondern das Aufräumen danach.
 
+## Schlüsselbilder
+
+- **Der Euphrat** - die Grenze, die Rom nie halten konnte: Trocknet sie aus, marschiert der Feind einfach herein — so wie Babylon einst fiel.
+
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/bowls/the-key-to-armageddon" >}})

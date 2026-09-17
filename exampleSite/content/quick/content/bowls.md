@@ -30,4 +30,8 @@ Armageddon appears only once in the whole book ({{% bible val="Revelation 16:12-
 
 One detail is easy to miss: armies *gather* at Armageddon, but the battle itself isn't fought there - mountains are assembly points, not battlefields. The seventh bowl only summarizes the outcome briefly ({{% bible val="Revelation 16:17-21" link="rev:16,17-21" lang="en" %}}); the actual battle is described later, after Babylon's downfall and the wedding of the Lamb, when Jesus rides out as the white-robed rider ({{% bible val="Revelation 19:11-21" link="rev:19,11-21" lang="en" %}}) - who gathers his own "army" in a strikingly ironic way: vultures, invited to feast on the defeated. His only real concern isn't whether he'll win - it's the cleanup afterward.
 
+## Key images
+
+- **The Euphrates** - the border Rome could never hold: drying it up means the enemy walks straight in, the way Babylon once fell.
+
 [Read the fuller explanation →]({{< relref "expl/content/bowls/the-key-to-armageddon" >}})

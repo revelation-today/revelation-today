@@ -20,4 +20,8 @@ The lampstands and stars are then explained directly: they are the seven churche
 
 Everything Jesus says to the seven churches in the next two chapters will measure them against this one vision: are they actually being this kind of light, in this kind of dependence?
 
+## Key images
+
+- **Alpha and Omega** - the first and last letters of the Greek alphabet: Jesus is the beginning and the end of the story, and he does not change.
+
 [Read the fuller explanation →]({{< relref "expl/content/vision/the-vision" >}})

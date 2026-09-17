@@ -27,4 +27,8 @@ That's exactly what the two witnesses embody: total devotion to the pattern of C
 
 Then comes an unexpected turn: a great earthquake brings judgment, but 90 percent of the city's people survive it and give glory to God - a striking reversal of the more usual biblical pattern where only a small remnant is spared. Here, an overwhelming majority make it through.
 
+## Key images
+
+- **Measuring the temple** - marking out what belongs to God, as the angel measures the temple in the vision of Ezekiel - what is measured is claimed as his.
+
 [Read the fuller explanation →]({{< relref "expl/content/witnesses/the-two-witnesses" >}})

@@ -7,6 +7,9 @@ expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals
 docType: quick
+sources:
+    - pages: 323–324
+      ref: beale_rev
 kids: /kids/elementary/04-worship-in-heaven
 ---
 
@@ -29,5 +32,11 @@ The scroll sealed seven times ({{% bible val="Revelation 5:1-5" link="rev:5,1-5"
 No one is found worthy - until John is told the Lion of Judah has triumphed. But when he turns to look, what he *sees* is not a lion at all: a Lamb, looking as if it had been slain. John *hears* one thing and *sees* another that reinterprets it entirely - the conquering Messiah everyone expected turns out to conquer through sacrifice. The same hear/see pattern repeats later with the 144,000 (chapter 7): announced as an army, revealed as a worshiping multitude.
 
 ![](/images/hear_en.jpg)
+
+## Key images
+
+- **The twenty-four elders** - the whole redeemed people pictured in heaven — twelve tribes and twelve apostles, both testaments together; the number recalls the twenty-four orders of priests David appointed.
+- **The four living creatures** - all of creation represented before the throne, keeping watch and leading its worship.
+- **The seven spirits** - the fullness of God's Spirit, sent out into the whole world.
 
 [Read the fuller explanation →]({{< relref "expl/content/worship/the-book-with-the-seven-seals" >}})

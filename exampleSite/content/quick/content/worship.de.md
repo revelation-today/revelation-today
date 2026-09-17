@@ -7,6 +7,9 @@ expl: /expl/content/worship/worship-in-the-throne-room
 prev: /quick/content/letters
 next: /quick/content/seals
 docType: quick
+sources:
+    - pages: 323–324
+      ref: beale_rev
 kids: /kids/elementary/04-worship-in-heaven
 ---
 
@@ -29,5 +32,11 @@ Die siebenfach versiegelte Schriftrolle ({{% bible val="Offenbarung 5,1-5" link=
 Niemand wird für würdig befunden - bis Johannes gesagt wird, der Löwe von Juda habe gesiegt. Doch als er sich umdreht, *sieht* er gar keinen Löwen: ein Lamm, wie geschlachtet. Johannes *hört* das eine und *sieht* etwas anderes, das es völlig neu deutet - der siegreiche Messias, den alle erwartet haben, siegt in Wahrheit durch Opfer. Dasselbe Hören/Sehen-Muster wiederholt sich später bei den 144.000 (Kapitel 7): angekündigt als Heer, offenbart als anbetende Menge.
 
 ![](/images/hear_de.jpg)
+
+## Schlüsselbilder
+
+- **Die vierundzwanzig Ältesten** - das ganze erlöste Volk, im Himmel dargestellt — zwölf Stämme und zwölf Apostel, beide Testamente zusammen; die Zahl erinnert an die vierundzwanzig Priesterordnungen, die David eingesetzt hat.
+- **Die vier lebendigen Wesen** - die ganze Schöpfung vor dem Thron, die wacht und die Anbetung anführt.
+- **Die sieben Geister** - die Fülle des Geistes Gottes, ausgesandt in die ganze Welt.
 
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/worship/the-book-with-the-seven-seals" >}})

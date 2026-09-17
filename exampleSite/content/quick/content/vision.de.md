@@ -20,4 +20,8 @@ Die Leuchter und Sterne werden direkt erklärt: Sie sind die sieben Gemeinden un
 
 Alles, was Jesus in den nächsten zwei Kapiteln zu den sieben Gemeinden sagt, misst sie an dieser einen Vision: Sind sie wirklich dieses Licht, in dieser Abhängigkeit?
 
+## Schlüsselbilder
+
+- **Alpha und Omega** - der erste und der letzte Buchstabe des griechischen Alphabets: Jesus ist Anfang und Ende der Geschichte, und er ändert sich nicht.
+
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/vision/the-vision" >}})

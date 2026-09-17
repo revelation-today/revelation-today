@@ -26,4 +26,8 @@ Das zweite Tier wird beschrieben mit "zwei Hörnern wie ein Lamm, aber es redete
 
 Und die Zahl 666: Statt ein Code zu sein, der eine bestimmte zukünftige Einzelperson benennt, ist sie das eigene Urteil der Offenbarung über diese ganze gefälschte Dreieinigkeit - jeweils eins zu wenig gegenüber der Vollkommenheit der 777, ein spektakuläres, dreifach wiederholtes Scheitern.
 
+## Schlüsselbilder
+
+- **Das Bild des Tieres** - die Statue des Kaisers, die jeder ehren sollte: sichtbar gemachte Loyalität — wer sich weigerte, galt als Verräter.
+
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) · [Die Tiere in ihrem historischen Umfeld →]({{< relref "expl/content/beasts/the-beasts-and-the-666-in-historical-context" >}})

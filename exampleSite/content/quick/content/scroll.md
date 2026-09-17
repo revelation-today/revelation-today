@@ -18,4 +18,8 @@ A mighty angel appears, described the same way John described Jesus in chapter 1
 
 Before that role is spelled out, one detail reassures: the angel plants one foot on the sea and one on the land ({{% bible val="Revelation 10:5" link="rev:10,5" lang="en" %}}) - the very two places the beasts will rise from in chapter 13. Whatever is coming, God is already standing over it, in full control.
 
+## Key images
+
+- **The seven thunders** - a message John is told to seal up unwritten: not everything about the end is given to us, and the silence is deliberate.
+
 [Read the fuller explanation →]({{< relref "expl/content/scroll/the-little-scroll" >}})

@@ -18,4 +18,8 @@ Ein mächtiger Engel erscheint, beschrieben mit denselben Worten, mit denen Joha
 
 Bevor diese Aufgabe ausbuchstabiert wird, gibt ein Detail Gewissheit: Der Engel stellt einen Fuß auf das Meer und einen auf das Land ({{% bible val="Offenbarung 10,5" link="rev:10,5" lang="de" %}}) - genau die beiden Orte, aus denen in Kapitel 13 die Tiere aufsteigen werden. Was auch immer kommt: Gott steht schon darüber, mit voller Kontrolle.
 
+## Schlüsselbilder
+
+- **Die sieben Donner** - eine Botschaft, die Johannes versiegeln soll, ohne sie aufzuschreiben: Nicht alles über das Ende ist uns gegeben, und dieses Schweigen ist Absicht.
+
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/scroll/the-little-scroll" >}})

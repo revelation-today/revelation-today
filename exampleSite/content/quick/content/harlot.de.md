@@ -36,4 +36,8 @@ Warum widmet das Buch ihr mehr als zwei Kapitel? Weil es uns verändert, "Teil" 
 
 Nachdem die Hure gerichtet ist, ist die Braut endlich bereit für ihre Hochzeit. Zuerst aber macht Jesus dem ein Ende, was vom Tier und dem falschen Propheten noch übrig ist - nicht mit einer Schlacht, sondern mit einem Gerichtssaal: ein Schwert aus seinem Mund, das jeden der Reihe nach richtet.
 
+## Schlüsselbilder
+
+- **Das scharlachrote Tier, sieben Köpfe, zehn Hörner** - das Reich, das sie trägt — die Köpfe sind seine Herrscher nacheinander, die Hörner die Vasallenkönige, die ihm ihre Macht leihen.
+
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/harlot/who-is-the-harlot-babylon-part-2" >}})
