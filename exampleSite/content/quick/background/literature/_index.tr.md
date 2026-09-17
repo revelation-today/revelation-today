@@ -42,4 +42,4 @@ Ini {{% int_link val="merupakan indikasi" link="/expl/background/literature/the-
 
 {{% int_link val="penggunaan kata 'menunjukkan' dan 'memberitahukan'" link="/expl/background/literature/literally-or-symbolic/#deiknumi" %}}, yang digunakan oleh penulis pada awal kitab ini, juga menunjukkan makna simbolis.
 
-Tüm bunları bir araya getirdiğimizde, kitabın bu [fragmanda] (https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) olduğu gibi her gün algıladığımız gerçekliğin perde arkasındakileri ortaya çıkardığını söyleyebiliriz (filmi izlemeyin).
+Tüm bunları bir araya getirdiğimizde, kitabın bu [fragmanda](https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) olduğu gibi her gün algıladığımız gerçekliğin perde arkasındakileri ortaya çıkardığını söyleyebiliriz (fragman yeterli — filmin kendisi bir korku filmi).

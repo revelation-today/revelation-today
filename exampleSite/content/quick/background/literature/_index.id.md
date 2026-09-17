@@ -42,4 +42,4 @@ Ini {{% int_link val="merupakan indikasi" link="/expl/background/literature/the-
 
 {{% int_link val="penggunaan kata 'menunjukkan' dan 'memberitahukan'" link="/expl/background/literature/literally-or-symbolic/#deiknumi" %}}, yang digunakan oleh penulis pada awal kitab ini, juga menunjukkan makna simbolis.
 
-Jadi, dengan menggabungkan semua ini, kita dapat mengatakan bahwa buku ini mengungkapkan apa yang ada di balik tirai realitas yang kita rasakan setiap hari seperti dalam [trailer] ini (https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) (jangan tonton filmnya).
+Jadi, dengan menggabungkan semua ini, kita dapat mengatakan bahwa buku ini mengungkapkan apa yang ada di balik tirai realitas yang kita rasakan setiap hari seperti dalam [trailer](https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) ini (cuplikannya sudah cukup — filmnya sendiri adalah film horor).
