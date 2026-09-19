@@ -13,5 +13,11 @@ Seven churches, seven very different situations, and Jesus doesn't send the same
 
 The uncomfortable exercise isn't picking your favorite church. It's noticing which letter you'd actually receive if Jesus wrote to you by name this week, not the one you'd prefer.
 
+## Questions to reflect on
+
 - If Jesus wrote your church — or you personally — a letter this week, which of the seven would it sound most like, and what's the one thing it would ask you to do differently?
 - Laodicea got no praise and still got a knock at the door. Where do you need to believe that's true for you too, rather than assuming you're past being wanted?
+
+## Prayer
+
+Lord Jesus, you know my situation better than I do. Speak to me the letter I need, not the one I would prefer, and give me the courage to change what you ask me to change. Thank you that you still knock, even at my door. Amen.

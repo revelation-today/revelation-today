@@ -50,3 +50,12 @@ Aber ein Superheld ist anders: Er muss sich nicht darum kümmern, sich zu schüt
 
 Er kann heilen und wiederherstellen, weil er keine Angst haben muss, überwältigt zu werden. Er kann teilen, weil er sich versorgt weiß.
 
+## Fragen zum Nachdenken
+
+- Wer sind deine Helden, und gewinnen sie, indem sie andere besiegen oder indem sie sie wiederherstellen?
+- Wo musst du diese Woche jemanden ganz praktisch lieben, und wo braucht diese Liebe auch eine klare Grenze?
+- Was würde sich ändern, wenn du wie Jesus darauf vertraust, dass für dich gesorgt ist und du dich nicht um jeden Preis schützen musst?
+
+## Gebet
+
+Herr Jesus, du hast dich nicht selbst geschützt, und du wurdest nicht besiegt. Lehre mich, ganz praktisch zu lieben, mit dem Mut, verletzt zu werden, und der Weisheit, Grenzen zu setzen. Hilf mir zu vertrauen, dass für mich gesorgt ist, damit ich teilen und wiederherstellen kann, statt mich zu fürchten und zu zerstören. Amen.

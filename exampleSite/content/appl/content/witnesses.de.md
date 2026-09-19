@@ -13,5 +13,11 @@ Die zwei Zeugen legen Zeugnis ab mit allem, was sie haben, und die Welt tötet s
 
 Die meisten von uns hätten lieber die Abkürzung — einen Sieg ganz ohne diese dreieinhalb Tage. Dieses Kapitel bietet das nicht an, und es lohnt sich zu bemerken, wo du genau das trotzdem still erwartet hast.
 
+## Fragen zum Nachdenken
+
 - Wo in deinem Leben hoffst du auf eine Auferstehung ohne vorherigen Tod — ein Comeback, das den schweren Teil überspringt, statt hindurchzugehen?
 - Wenn das hier beschriebene Muster stimmt, was würde sich ändern, wenn du aufhörst, deine gegenwärtigen „dreieinhalb Tage" als Beweis dafür zu sehen, dass Gott versagt hat, und stattdessen als den Teil kurz bevor du aufstehst?
+
+## Gebet
+
+Herr Jesus, du bist durch den Tod gegangen und auferstanden. Wenn sich mein Leben wie die dreieinhalb Tage anfühlt, bewahre mich davor, es Niederlage zu nennen. Gib mir die Treue, weiter Zeugnis zu geben, und die Hoffnung, dass du mich aufrichten wirst. Amen.

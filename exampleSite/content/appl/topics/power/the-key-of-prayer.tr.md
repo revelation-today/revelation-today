@@ -47,3 +47,11 @@ Ama buradaki dualar Tanrı’nın isteğine uygun olduğu için
 - Tanrı’ya yaklaşmaları için dua edin
 - İnsanların kalplerinin Tanrı’ya açılması için dua edin
 
+## Düşünmek için sorular
+
+- Duaların çoğunlukla kendi ihtiyaçlarınla mı ilgili, yoksa Tanrı'nın amaçlarının gerçekleşmesiyle de mi?
+- Yukarıdaki dört dua konusundan hangisini bu hafta kendi duan yapabilirsin ve kimin için?
+
+## Dua
+
+Baba, dualarımız senin planının bir parçası. Dualarımı senin isteğine uygun kıl. Kiliseni bu zamanlarda sadık tut, her sahte güvenceyi açığa çıkar ve insanların yüreklerini, benimkinden başlayarak, sana aç. Amin.

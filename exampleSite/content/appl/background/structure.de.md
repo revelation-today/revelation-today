@@ -9,5 +9,11 @@ Die Offenbarung wirkt auf den ersten Blick chaotisch, taumelt von einer Katastro
 
 Das lohnt sich mitzunehmen für den Blick auf die eigene, sich entfaltende Geschichte, nicht nur auf dieses Buch. Eine Phase, die sich während des Durchlebens chaotisch anfühlt, kann trotzdem geordneter und zielgerichteter sein, als sie von innen wirkt — die Form wird oft erst im Rückblick sichtbar.
 
+## Fragen zum Nachdenken
+
 - Welcher Teil deines Lebens fühlt sich gerade am chaotischsten oder zufälligsten an?
 - Wenn diese Phase eine absichtsvolle Form hätte, die du einfach noch nicht sehen kannst, wie würde das verändern, wie du ihr gerade begegnest?
+
+## Gebet
+
+Gott der Ordnung, du hast im Aufbau dieses Buches gewirkt, als es nach Chaos aussah, und genauso wirkst du in meinem Leben. Wo meine Tage zufällig wirken, hilf mir zu vertrauen, dass du eine Form siehst, die ich noch nicht sehe, und gib mir Frieden, diese Zeit mit dir zu gehen. Amen.

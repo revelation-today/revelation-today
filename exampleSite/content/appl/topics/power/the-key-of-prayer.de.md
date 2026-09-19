@@ -47,3 +47,11 @@ sondern mehr als ein Gebet mit Gott:
 - Gebet, dass wir Gott näher kommen
 - Gebet, dass Menschen ihr Herz für Gott öffnen.
 
+## Fragen zum Nachdenken
+
+- Geht es in deinen Gebeten vor allem um deine eigenen Bedürfnisse, oder auch darum, dass Gottes Absichten geschehen?
+- Welches der vier Gebetsanliegen oben könntest du diese Woche zu deinem eigenen machen, und für wen?
+
+## Gebet
+
+Vater, in deinem Plan zählen unsere Gebete. Richte meine Gebete nach deinem Willen aus. Bewahre deine Gemeinde in dieser Zeit in der Treue, deck jede falsche Sicherheit auf und öffne die Herzen der Menschen für dich, angefangen bei meinem. Amen.

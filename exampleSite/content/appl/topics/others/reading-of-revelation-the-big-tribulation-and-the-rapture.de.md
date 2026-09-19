@@ -9,5 +9,11 @@ Zu welchem Schluss du auch beim Dispensationalismus, der Entrückung oder ihrem 
 
 Angst ist ein schlechtes Fundament für Glauben. Wenn „bereit sein" für dich vor allem Angst bedeutet hat, zurückgelassen zu werden, versuche stattdessen, in der Verheißung zu ruhen, die all diesen Seiten zugrunde liegt: Christus kommt auf dich zu, nicht von dir weg, und nichts zwischen jetzt und dann ist vergeblich.
 
+## Fragen zum Nachdenken
+
 - Wer in deinem Leben vertritt eine andere Sicht auf die Entrückung oder die Endzeit als du — und wie würde es aussehen, mit dieser Person darüber zu sprechen, ohne gewinnen zu müssen?
 - Wo durchlebst du gerade schon etwas, das sich wie Trübsal anfühlt? Was würde es bedeuten, das als bedeutsam zu behandeln, statt als bloße Verzögerung, bevor „das Eigentliche" beginnt?
+
+## Gebet
+
+Herr Jesus, du kommst auf uns zu, nicht von uns weg. Befreie mich von einem Glauben, der auf Angst gebaut ist. Hilf mir, treu durch das zu gehen, was heute schwer ist, und die zu lieben, die diese Kapitel anders lesen als ich. Amen.

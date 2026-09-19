@@ -13,5 +13,11 @@ Eroberung weicht dem Krieg, Krieg der Hungersnot, Hungersnot dem Tod — und unt
 
 Das ist ein besseres Vorbild, als entweder so zu tun, als sei alles in Ordnung, oder den Glauben still zu verlieren, wenn es das nicht ist. Die Seelen unter dem Altar tun keins von beidem — sie bringen die echte Frage direkt vor Gott und warten dann, statt die Spannung aufzulösen, indem sie sich von ihm abwenden.
 
+## Fragen zum Nachdenken
+
 - Was ist die „Wie lange noch, Herr"-Frage, auf der du sitzt, ohne sie tatsächlich direkt vor Gott zu bringen?
 - Warten auf eine Antwort ist etwas anderes als aufzugeben. Was von beidem hat deine eigene Reaktion auf ungelöstes Leid zuletzt tatsächlich gewesen?
+
+## Gebet
+
+Herr, wie lange noch? Du kennst die Fragen, die ich mit mir trage, ohne sie dir zu bringen. Hier sind sie. Danke, dass du mich für mein Fragen nicht tadelst. Hilf mir, mit dir zu warten, statt mich abzuwenden. Amen.

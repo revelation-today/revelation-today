@@ -128,3 +128,11 @@ Eğer dürüst cevabınız “Tanrı ile daha derin bir ilişki kurmak” ise do
 
 Eğer Tanrı’yla olan ilişkiniz esas ise ve Tanrı tüm kutsamalarını elde etmek için bir araç değilse, o zaman gerçekten bir tapınan olursunuz. Ve onun gibi olursunuz. Beni yanlış anlamayın: Süper güçler elde etmeyeceksiniz ama onun karakterine dönüşeceksiniz ve o da size önemli şeyler emanet edecek.
 
+## Düşünmek için sorular
+
+- İbadetin üç basamağında neredesin: şükran, övgü ya da ibadet? Seni orada tutan ne?
+- Bugün Tanrı'ya somut olarak neden dolayı şükredebilirsin?
+
+## Dua
+
+Baba, bugün benim için yaptıkların için teşekkür ederim. Sen iyisin ve sana güveniyorum. İşte buradayım: bana dilediğini yap. Armağanlarını senden çok sevmekten beni koru ve beni sana daha çok benzet. Amin.

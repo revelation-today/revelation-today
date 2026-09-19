@@ -127,3 +127,11 @@ Nun, wenn die Antwort “Für eine tiefere Beziehung zu Gott” lautet, dann bis
 
 Wenn die Beziehung zu Gott das Wichtigste ist und nicht das Werkzeug, um seinen Segen zu bekommen, dann bist du ein echter Christ. Und du wirst wie er werden. Aber versteh mich nicht falsch: Es geht nicht um Superkräfte wie Allwissenheit, sondern darum, dass du seinen Charakter veränderst und er dir wichtige Dinge anvertraut.
 
+## Fragen zum Nachdenken
+
+- Wo stehst du in den drei Schritten der Anbetung: Danksagung, Lobpreis oder Anbetung? Was hält dich dort fest?
+- Wofür kannst du Gott heute ganz konkret danken?
+
+## Gebet
+
+Vater, danke für das, was du heute für mich getan hast. Du bist gut, und ich vertraue dir. Hier bin ich: Mach mit mir, was du willst. Bewahre mich davor, deine Gaben mehr zu lieben als dich, und mach mich dir ähnlicher. Amen.

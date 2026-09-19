@@ -9,5 +9,11 @@ Die Pax Romana bot echten Frieden und echten Wohlstand, unter einer Bedingung: a
 
 Diese Art von Druck ist nicht verschwunden, sie trägt nur andere Kleider. Was auch immer dir heute Sicherheit, Zugehörigkeit oder Wohlstand im Austausch für eine kleine, vernünftig klingende Anpassung verspricht, spielt dieselbe Rolle, die einst Rom spielte.
 
+## Fragen zum Nachdenken
+
 - Was ist das moderne Äquivalent zu „eine Prise Weihrauch für den Kaiser verbrennen" in deinem eigenen Leben — eine kleine Anpassung, die dir Sicherheit, Anerkennung oder Erleichterung erkaufen würde?
 - Wem oder was vertraust du eigentlich, dass es dein Leben zusammenhält, wenn du ehrlich hinschaust, woher deine Sicherheit wirklich kommt?
+
+## Gebet
+
+Herr Jesus, du allein hältst mein Leben zusammen. Zeig mir die kleinen Kompromisse, mit denen ich mir Sicherheit, Anerkennung oder Bequemlichkeit erkaufe, und gib mir den Mut, sie abzulehnen. Lass meine Sicherheit in dir ruhen und nicht in dem, was sie mir heute verspricht. Amen.

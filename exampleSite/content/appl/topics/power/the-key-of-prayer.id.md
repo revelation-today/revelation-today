@@ -46,3 +46,12 @@ melainkan lebih sebagai doa bersama Allah:
 - Doa agar rasa aman yang palsu disingkapkan dan gereja memberikan kesaksian tentang itu.
 - Doa agar kita semakin dekat dengan Allah.
 - Doa agar orang-orang membuka hati mereka bagi Allah.
+
+## Pertanyaan untuk direnungkan
+
+- Apakah doa-doamu terutama tentang kebutuhanmu sendiri, atau juga tentang terlaksananya maksud Allah?
+- Doa mana dari keempat doa di atas yang dapat kamu jadikan doamu sendiri minggu ini, dan untuk siapa?
+
+## Doa
+
+Bapa, doa-doa kami adalah bagian dari rencana-Mu. Selaraskanlah doa-doaku dengan kehendak-Mu. Jagalah gereja-Mu tetap setia pada masa ini, singkapkanlah setiap rasa aman yang palsu, dan bukalah hati orang-orang bagi-Mu, dimulai dari hatiku. Amin.

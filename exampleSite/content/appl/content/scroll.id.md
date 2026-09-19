@@ -13,5 +13,11 @@ Masa-masa sulit bisa meretakkan hampir apa saja kecuali hati yang terpaut pada h
 
 Beberapa kebenaran tentang Allah memang seperti itu — mudah untuk disetujui, lambat untuk benar-benar mengubahmu, sebab menyetujui sesuatu dan membiarkan hal itu menata ulang hidupmu adalah dua tindakan yang berbeda.
 
+## Pertanyaan untuk direnungkan
+
 - Kebenaran apa tentang Allah yang akan kamu katakan kamu percayai, tetapi belum benar-benar kamu cerna — sesuatu yang cepat kamu setujui tetapi jarang benar-benar mengubah sebuah keputusan nyata?
 - Seperti apa bentuknya minggu ini untuk duduk merenungkan kebenaran itu cukup lama sampai ia berhenti menjadi sekadar gagasan?
+
+## Doa
+
+Tuhan, kebenaran-Mu manis dan kadang sulit ditelan. Jangan biarkan aku hanya menyetujui apa yang kuketahui tentang Engkau, tetapi biarlah itu mengubah keputusan-keputusanku. Berilah aku waktu dan kesabaran untuk mencerna firman-Mu sampai ia membentuk hidupku. Amin.

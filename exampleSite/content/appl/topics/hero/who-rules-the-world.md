@@ -62,3 +62,11 @@ The devil forces people to submit, the witnesses influence people to change thei
 
 This is clearly stated in {{% int_link val="the 1,000-year kingdom that the Witnesses are the ones who actually rule" link="/expl/content/1000y/the-thousand-year-kingdom" %}}.
 
+## Questions to reflect on
+
+- Do you lean more towards the "already" (expecting everything now) or the "not yet" (expecting little before the end)? What does that do to your faith?
+- Where do you try to influence people by pressure, and where by the testimony of your life?
+
+## Prayer
+
+Lord Jesus, your kingdom is here, but not yet in full. Keep me from demanding everything now, and from expecting nothing until the end. Let me rule the way your witnesses do, not by pressure but by a life that points to you. Amen.

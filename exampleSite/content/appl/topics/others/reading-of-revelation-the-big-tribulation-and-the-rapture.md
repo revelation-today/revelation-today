@@ -9,5 +9,11 @@ Whatever you concluded about dispensationalism, the rapture, or when it might ha
 
 Fear makes a poor foundation for faith. If "readiness" has mostly meant fear of being left behind, try resting instead in the promise underneath all of these pages: Christ is coming toward you, not away from you, and nothing between now and then is wasted.
 
+## Questions to reflect on
+
 - Who in your life holds a different view than you do about the rapture or the end times — and what would it look like to talk with them about it without needing to win?
 - Where are you already living through something that feels like tribulation? What would it mean to treat that as meaningful, rather than as a delay before "the real thing" starts?
+
+## Prayer
+
+Lord Jesus, you are coming towards us, not away from us. Free me from a faith built on fear. Help me walk faithfully through what is hard today, and love those who read these chapters differently from me. Amen.

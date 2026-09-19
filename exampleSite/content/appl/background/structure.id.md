@@ -9,5 +9,11 @@ Kitab Wahyu tampak kacau pada pandangan pertama, terhuyung dari satu bencana lan
 
 Itu layak dibawa ke dalam cara kamu memandang kisah hidupmu sendiri yang sedang terungkap, bukan hanya kitab ini. Sebuah musim yang terasa kacau saat kamu menjalaninya tetap bisa memiliki pola dan tujuan yang lebih jelas daripada yang terlihat dari dalam — bentuknya sering kali baru terlihat setelah berlalu.
 
+## Pertanyaan untuk direnungkan
+
 - Bagian mana dari hidupmu yang terasa paling kacau atau acak sekarang ini?
 - Jika musim itu ternyata memiliki bentuk yang disengaja yang belum bisa kamu lihat, bagaimana itu akan mengubah caramu menghadapinya sekarang?
+
+## Doa
+
+Allah sumber keteraturan, Engkau bekerja dalam susunan kitab ini ketika semuanya tampak kacau, dan dengan cara yang sama Engkau bekerja dalam hidupku. Ketika hari-hariku terasa acak, tolonglah aku percaya bahwa Engkau melihat bentuk yang belum dapat kulihat, dan berilah aku damai untuk menjalani masa ini bersama-Mu. Amin.

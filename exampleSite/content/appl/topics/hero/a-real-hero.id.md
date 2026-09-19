@@ -49,3 +49,13 @@ Mungkin tampak meragukan jika kita menganggap-Nya sebagai pahlawan biasa, tetapi
 Tetapi seorang pahlawan super berbeda: ia tidak perlu khawatir melindungi dirinya sendiri dan menemukan kelemahan lawannya. Yesus melepaskan perisai-Nya, mengizinkan Iblis menyerang lebih dulu, dan membiarkannya terus menyerang sampai Yesus mati. Tetapi Yesus tidak kalah. Ia bangkit dari antara orang mati dan mengalahkan Iblis. Ia adalah pahlawan super.
 
 Ia bisa menyembuhkan dan memulihkan, karena Ia tidak perlu takut akan dikalahkan. Ia bisa berbagi, karena Ia tahu bahwa Ia dipelihara.
+
+## Pertanyaan untuk direnungkan
+
+- Siapa pahlawan-pahlawanmu, dan apakah mereka menang dengan mengalahkan orang lain atau dengan memulihkan mereka?
+- Di mana kamu perlu mengasihi seseorang secara nyata minggu ini, dan di mana kasih itu juga membutuhkan batas yang jelas?
+- Apa yang akan berubah jika kamu, seperti Yesus, percaya bahwa hidupmu dipelihara dan kamu tidak harus melindungi diri dengan segala cara?
+
+## Doa
+
+Tuhan Yesus, Engkau tidak melindungi diri-Mu sendiri, dan Engkau tidak dikalahkan. Ajarlah aku mengasihi secara nyata, dengan keberanian untuk terluka dan hikmat untuk menetapkan batas. Tolonglah aku percaya bahwa hidupku dipelihara, supaya aku dapat berbagi dan memulihkan, bukan takut dan menghancurkan. Amin.

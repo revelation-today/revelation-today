@@ -13,5 +13,11 @@ Michael and his angels fight the dragon, and the dragon loses — beaten by the 
 
 That's meant to be a relief, not a technicality. A lot of exhausting spiritual effort comes from quietly trying to win a battle that isn't actually yours to win.
 
+## Questions to reflect on
+
 - Where have you been carrying the weight of a fight that Jesus already finished — trying to defeat something instead of simply pointing someone toward him?
 - If you let that battle go back to being his, what's the one person you'd actually have energy left to draw closer to Jesus this week?
+
+## Prayer
+
+Lord Jesus, you have already defeated the dragon; the battle is yours, not mine. Take from me the weight of fighting what you have already won, and give me the joy and the energy to draw one person closer to you this week. Amen.

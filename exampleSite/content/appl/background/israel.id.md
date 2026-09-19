@@ -11,6 +11,12 @@ Itu juga mengubah betapa mudahnya pemikiran "kami dan mereka" menyelinap ke dala
 
 Ada benang kedua yang layak ditelusuri di sini: menjadi bagian dari keluarga ini tidak pernah benar-benar soal garis keturunan, bahkan di dalam Perjanjian Lama sendiri. Sejak awal, Allah menjaga sebuah sisa — sekelompok kecil yang setia di dalam Israel, ditandai oleh kesetiaan bukan oleh silsilah, sementara banyak orang Israel secara etnis justru menjauh. Keluaran kedua mengulang pola yang sama: Allah menyelamatkan sebuah umat bukan karena mereka layak mendapatkannya, tetapi karena Dia terus mengikat diri-Nya dengan siapa pun yang tetap setia, generasi demi generasi. Itu adalah pijakan yang jauh lebih kokoh daripada warisan, denominasi, atau nama keluarga mana pun.
 
+## Pertanyaan untuk direnungkan
+
 - Apakah kamu benar-benar membaca Perjanjian Lama sebagai sejarah keluargamu sendiri, atau sebagai materi latar belakang untuk kisah orang lain?
 - Di manakah pemikiran "kami dan mereka" telah menyelinap ke dalam pandanganmu terhadap orang-orang percaya yang tidak terlihat, beribadah, atau memiliki latar belakang seperti sudutmu sendiri?
 - Jika keanggotaan dalam umat Allah selalu ditandai oleh kesetiaan, bukan warisan, apa yang sekarang justru kamu andalkan sebagai gantinya — sebuah nama keluarga, sebuah denominasi, sebuah tradisi — yang sebenarnya hanya kesetiaanlah yang selalu dimaksudkan untuk menopangnya?
+
+## Doa
+
+Bapa, terima kasih karena Engkau telah mencangkokkan aku ke dalam keluarga-Mu dan kisah-Mu, yang berakar sampai kepada Abraham. Ajarlah aku membaca Perjanjian Lama sebagai sejarah keluargaku sendiri. Singkirkan pikiran "kami dan mereka" dari hatiku terhadap umat-Mu yang berbeda dariku, dan biarlah aku bersandar pada kesetiaan kepada-Mu, bukan pada keturunan atau nama. Amin.

@@ -13,5 +13,11 @@ Hard times can crack open almost anything except a heart set on the wrong thing 
 
 Some truths about God are like that — easy to affirm, slow to actually change you, because agreeing with something and letting it rearrange your life are two different acts.
 
+## Questions to reflect on
+
 - What's a truth about God you'd say you believe, but haven't really let yourself digest — something you'd affirm quickly but rarely let reshape an actual decision?
 - What would it look like this week to sit with that truth long enough for it to stop being just an idea?
+
+## Prayer
+
+Lord, your truth is sweet and sometimes hard to swallow. Do not let me merely agree with what I know about you; let it change my decisions. Give me time and patience to digest your word until it shapes my life. Amen.

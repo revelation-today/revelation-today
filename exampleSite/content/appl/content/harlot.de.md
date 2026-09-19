@@ -13,5 +13,11 @@ Die Hure ist blendend, behängt mit Schmuck, der eigentlich der Braut gehört h�
 
 Babylons ganzes Angebot lautet, man könne den Segen ohne die Zugehörigkeit haben — den Lohn ohne die Beziehung, aus der er eigentlich hätte kommen sollen. Dieses Angebot wird noch immer ständig gemacht, nur selten mit einem Namensschild versehen.
 
+## Fragen zum Nachdenken
+
 - Welcher „Becher" wird dir gerade angeboten, der eine Art Segen verspricht, ohne echte Loyalität zu Jesus im Gegenzug zu verlangen?
 - Wie würdest du in deinem eigenen Leben zwischen dem Ruf der Braut und dem Angebot der Hure unterscheiden, wenn beide diese Woche gleich attraktiv wirkten?
+
+## Gebet
+
+Herr Jesus, du willst mich, nicht nur meinen Wunsch nach Segen. Wenn mir der Becher des bequemen Lohns hingehalten wird, gib mir die Weisheit zu sehen, was er kostet, und die Liebe, bei dir zu bleiben. Mach mich treu als deine Braut. Amen.

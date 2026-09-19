@@ -13,5 +13,11 @@ The harlot is dazzling, draped in jewels that should have belonged to the bride,
 
 Babylon's whole pitch is that you can have the blessing without the belonging — the reward without the relationship it was meant to come from. That offer still gets made constantly, just rarely with a name tag on it.
 
+## Questions to reflect on
+
 - What's a "cup" being offered to you right now that promises a version of blessing without asking for actual loyalty to Jesus in return?
 - How would you tell the difference, in your own life, between the bride's calling and the harlot's offer, if both looked equally attractive this week?
+
+## Prayer
+
+Lord Jesus, you want me, not only my wish for blessing. When the cup of easy reward is held out to me, give me the wisdom to see what it costs and the love to stay with you. Make me faithful as your bride. Amen.

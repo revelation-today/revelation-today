@@ -15,6 +15,12 @@ Barang tiruan jarang mengumumkan dirinya sebagai tiruan. Biasanya ia terlihat se
 
 Tanda binatang itu termasuk dalam gambaran yang sama ini, dan mudah untuk melewatkan apa yang sebenarnya dimaksudkannya sementara mencari kode batang atau sebuah chip. Pada abad pertama, tanda di tangan atau dahi menunjuk pada partisipasi ekonomi dan sosial yang biasa — membeli, menjual, menjadi bagian — dalam sebuah sistem yang dibangun di atas kesetiaan pada kuasa binatang itu, bukan pada Kristus. Itu adalah tekanan yang jauh lebih sehari-hari daripada satu momen pilihan yang dramatis: bukan "akankah kamu menerima sebuah tanda," melainkan "kepada sistem ekonomi siapa, pengakuan siapa, kisah siapa kamu diam-diam sudah membeli setiap minggu yang biasa."
 
+## Pertanyaan untuk direnungkan
+
 - Di manakah dalam hidupmu sekarang ada sesuatu yang menawarkan kuasa, keamanan, atau kekaguman dengan cara binatang itu — lewat kekerasan, tontonan, atau tipu daya, bukan cara Yesus yang lebih lambat dan lebih tenang?
 - Apa "tanda pengenal" yang akan menyingkap tiruan itu jika kamu melihat cukup dekat — dan maukah kamu melihatnya?
 - Di manakah kamu sudah merasakan tekanan tanda itu yang lebih tenang — kebutuhan untuk mengikuti sebuah sistem, sebuah tempat kerja, atau kisah orang banyak tentang apa yang penting, hanya agar bisa terus membeli dan menjual dalam pengertian biasa?
+
+## Doa
+
+Tuhan Yesus, Engkau menang dengan perlahan dan tenang, dan kemenangan-Mu untuk selamanya. Bukalah mataku terhadap tiruan-tiruan yang menawarkan kuasa, rasa aman, atau kekaguman dengan jalan pintas, dan berilah aku keberanian untuk melihat dengan teliti. Di mana aku ikut membeli kisah lain hanya supaya bisa diterima, tariklah aku kembali kepada-Mu. Amin.

@@ -13,5 +13,11 @@ Conquest gives way to war, war to famine, famine to death — and underneath the
 
 That's a better model than either pretending everything is fine or quietly losing faith when it isn't. The souls under the altar do neither — they bring the real question straight to God and then wait, rather than resolving the tension by walking away from him.
 
+## Questions to reflect on
+
 - What's the "how long, O Lord" question you've been sitting on without actually bringing it to God directly?
 - Waiting for an answer is different from giving up on one. Which of those two has your own response to unresolved suffering actually looked like lately?
+
+## Prayer
+
+Lord, how long? You know the questions I have been carrying without bringing them to you. Here they are. Thank you that you do not rebuke me for asking. Help me to wait with you instead of walking away. Amen.

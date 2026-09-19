@@ -9,5 +9,11 @@ Dispansiyonalizm, göğe alınma ya da bunun ne zaman gerçekleşeceği konusund
 
 Korku, iman için zayıf bir temeldir. Eğer "hazır olmak" senin için çoğunlukla geride bırakılma korkusu anlamına geldiyse, bunun yerine bütün bu sayfaların altında yatan vaatte dinlenmeyi dene: Mesih sana doğru geliyor, senden uzaklaşmıyor, ve şimdiyle o an arasında hiçbir şey boşa gitmiyor.
 
+## Düşünmek için sorular
+
 - Hayatında göğe alınma ya da son zamanlar hakkında senden farklı bir görüş taşıyan kim var — ve kazanma ihtiyacı duymadan onunla bu konuyu konuşmak nasıl bir şey olurdu?
 - Şu anda zaten sıkıntı gibi hissettiren neyi yaşıyorsun? Bunu "gerçek olan" başlamadan önceki bir gecikme olarak değil, anlamlı bir şey olarak görmek ne anlama gelirdi?
+
+## Dua
+
+Rab İsa, bizden uzaklaşmıyor, bize doğru geliyorsun. Beni korkuya dayanan bir imandan özgür kıl. Bugün zor olanın içinden sadakatle geçmeme ve bu bölümleri benden farklı okuyanları sevmeme yardım et. Amin.
