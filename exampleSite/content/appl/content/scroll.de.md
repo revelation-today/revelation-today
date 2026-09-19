@@ -13,5 +13,11 @@ Schwere Zeiten können fast alles aufbrechen — außer ein Herz, das an der fal
 
 Manche Wahrheiten über Gott sind so: leicht zuzustimmen, langsam wirklich verändernd, weil einer Sache zuzustimmen und sich von ihr das eigene Leben umgestalten zu lassen zwei verschiedene Dinge sind.
 
+## Fragen zum Nachdenken
+
 - Welche Wahrheit über Gott würdest du sagen, dass du glaubst, hast sie aber nie wirklich verdaut — etwas, dem du schnell zustimmst, das aber selten eine konkrete Entscheidung wirklich verändert?
 - Wie würde es diese Woche aussehen, bei dieser Wahrheit lange genug zu verweilen, bis sie aufhört, nur eine Idee zu sein?
+
+## Gebet
+
+Herr, deine Wahrheit ist süß und manchmal schwer zu verdauen. Lass mich dem, was ich über dich weiß, nicht nur zustimmen, sondern lass es meine Entscheidungen verändern. Gib mir Zeit und Geduld, dein Wort zu verdauen, bis es mein Leben prägt. Amen.

@@ -70,3 +70,11 @@ Der Schlüssel zum Zeugnis ist Anbetung, ein noch wesentlicheres Thema in der Of
 
 Denn wenn Menschen (selbst) so weit gehen, ist das überzeugender als jedes Reden. Denn das, was wir leben, ist das, was andere sehen. Und wenn die Leute sehen, wie wertvoll etwas ist, was wir tun — was sie jetzt miterleben — dann werden sie auch neugierig und wollen folgen.
 
+## Fragen zum Nachdenken
+
+- Was hast du mit Jesus erlebt, das du nicht ignorieren kannst?
+- Wo sagt dein Leben schon, was du glaubst, und wo gehen deine Worte weiter als dein Leben?
+
+## Gebet
+
+Herr Jesus, du bist der treue Zeuge. Lass mein Leben sagen, was ich glaube, nicht nur meine Worte. Gib mir die Treue von Antipas und den zwei Zeugen, damit andere dich in mir sehen und dir folgen wollen. Amen.

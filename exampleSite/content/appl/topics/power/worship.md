@@ -126,3 +126,11 @@ Well, if the honest answer is, “To get a deeper relationship with God,” then
 
 If the relationship with God is the main thing and He is not the tool to get all His blessings, then you are really a worshiper. And you will become like him. Don’t get me wrong, you won’t get superpowers, but you will become like him and he will trust you with important things.
 
+## Questions to reflect on
+
+- Where are you in the three steps of worship: thanksgiving, praise or worship? What is holding you there?
+- What is one specific thing you can thank God for today?
+
+## Prayer
+
+Father, thank you for what you have done for me today. You are good, and I trust you. Here I am: do with me what you will. Keep me from loving your gifts more than you, and make me more like you. Amen.

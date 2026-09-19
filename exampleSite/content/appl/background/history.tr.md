@@ -9,5 +9,11 @@ Pax Romana gerçek bir barış ve gerçek bir refah sunuyordu, tek bir şartla: 
 
 Bu tür bir baskı hiç kaybolmadı; sadece farklı bir kılığa büründü. Şu anda sana küçük, mantıklı görünen bir uzlaşma karşılığında güvenlik, ait olma ya da refah vaat eden her ne ise, Roma'nın bir zamanlar oynadığı rolü oynuyor.
 
+## Düşünmek için sorular
+
 - Kendi hayatında "Sezar için bir tutam tütsü yakmanın" modern karşılığı ne — sana güvenlik, onay ya da kolaylık satın alacak küçük bir uzlaşma?
 - Hayatını gerçekte neyin bir arada tuttuğu konusunda dürüst olursan, güvenliğinin gerçekten nereden geldiğine kime ya da neye güveniyorsun?
+
+## Dua
+
+Rab İsa, hayatımı bir arada tutan yalnızca sensin. Güvenlik, onay ya da rahatlık satın almak için yaptığım küçük tavizleri bana göster ve onları reddetme cesaretini ver. Güvencem, bugün bunu vaat eden şeylerde değil, sende olsun. Amin.

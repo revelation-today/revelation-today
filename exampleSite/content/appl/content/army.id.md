@@ -13,5 +13,11 @@ Pasukan Allah bertempur tidak seperti pasukan mana pun yang pernah kamu lihat â€
 
 Keamanan itu dimaksudkan untuk mengubah cara kamu bertempur, bukan sekadar meyakinkanmu bahwa kamu aman. Penyembahan dan kesetiaan adalah senjata di sini, bukan karena keduanya lebih lembut, melainkan karena keduanya satu-satunya yang benar-benar berhasil melawan musuh ini.
 
+## Pertanyaan untuk direnungkan
+
 - Jika satu-satunya senjatamu minggu ini adalah penyembahan dan kesetiaan, bukan kendali, kekhawatiran, atau paksaan, apa yang akan benar-benar kamu lakukan berbeda dalam situasi yang paling menekanmu sekarang?
 - Di pihak siapa kamu berada ketika tidak ada yang mengawasi, bukan hanya ketika mudah untuk mengatakannya dengan lantang?
+
+## Doa
+
+Tuhan, terima kasih karena aku sudah dimeteraikan sebagai milik-Mu sebelum badai berlalu. Ketika aku meraih kendali, kekhawatiran, atau paksaan, bawalah aku kembali kepada penyembahan dan kesetiaan. Jagalah aku tetap di pihak-Mu, juga ketika tidak ada yang melihat. Amin.

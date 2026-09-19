@@ -13,5 +13,11 @@ Mikail ve melekleri ejderhaya karşı savaşır, ve ejderha kaybeder — kadın�
 
 Bu bir rahatlama olması gerekiyor, bir teknik ayrıntı değil. Yorucu ruhsal çabaların çoğu, aslında bize ait olmayan bir savaşı sessizce kazanmaya çalışmaktan doğar.
 
+## Düşünmek için sorular
+
 - İsa'nın çoktan bitirdiği bir savaşın ağırlığını nerede taşıyorsun — birini sadece O'na yönlendirmek yerine bir şeyi yenmeye mi çalışıyorsun?
 - O savaşı yeniden O'na bıraksaydın, bu hafta İsa'ya yaklaştırmak için gerçekten enerjin kalacak tek kişi kim olurdu?
+
+## Dua
+
+Rab İsa, ejderhayı zaten yendin; bu savaş benim değil, senin. Senin zaten kazandığın bir şeyle savaşmanın yükünü üzerimden al ve bu hafta bir kişiyi sana yaklaştırmam için bana sevinç ve güç ver. Amin.

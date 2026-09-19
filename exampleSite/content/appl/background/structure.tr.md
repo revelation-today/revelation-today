@@ -9,5 +9,11 @@ Vahiy ilk bakışta kaotik görünür, bir felaketten doğrudan bir sonrakine se
 
 Bunu sadece bu kitaba değil, kendi açılmakta olan hikâyene bakışına da taşımaya değer. Yaşarken kaotik hissettiren bir dönem, göründüğünden çok daha örüntülü ve amaçlı olabilir — şekil genellikle ancak geriye dönüp bakınca görülür.
 
+## Düşünmek için sorular
+
 - Hayatının hangi kısmı şu anda sana en kaotik ya da en rastgele geliyor?
 - O dönemin henüz göremediğin bilinçli bir şekli olsaydı, bu, şu anda onunla nasıl yüzleştiğini nasıl değiştirirdi?
+
+## Dua
+
+Düzenin Tanrısı, kargaşa gibi göründüğünde bile bu kitabın yapısında sen işliyordun ve hayatımda da aynı şekilde işliyorsun. Günlerim rastgele göründüğünde, henüz göremediğim bir biçimi senin gördüğüne güvenmeme yardım et ve bu dönemi seninle yürümem için bana esenlik ver. Amin.

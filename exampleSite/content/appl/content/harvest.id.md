@@ -13,5 +13,11 @@ Di atas lautan kaca dan api, orang-orang yang setia bernyanyi — dan satu-satun
 
 Itu meluruskan apa yang sebenarnya dituntut oleh "kesetiaan" minggu ini. Itu bukan sebuah kinerja yang dinilai dari hasilnya. Itu sekadar tidak menukar loyalitasmu ketika tetap setia justru menjadi pilihan yang lebih sulit dan lebih mahal.
 
+## Pertanyaan untuk direnungkan
+
 - Di manakah minggu ini kamu tergoda untuk bermain aman — menukar sedikit loyalitas kepada Yesus demi kenyamanan, pengakuan, atau kemudahan?
 - Jika satu-satunya kualifikasimu adalah tetap setia, bukan berhasil, apakah itu membuat kesetiaan terasa lebih mungkin bagimu, atau adakah bagian dari dirimu yang masih berpikir kamu perlu lebih dari itu?
+
+## Doa
+
+Tuhan, terima kasih karena Engkau memintaku untuk tetap setia, bukan untuk tampil mengesankan. Di mana aku tergoda mencari aman dan menukar sedikit kesetiaan dengan kenyamanan, peganglah aku. Biarlah aku ikut dalam nyanyian mereka yang tetap setia. Amin.

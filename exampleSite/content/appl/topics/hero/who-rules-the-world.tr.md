@@ -62,3 +62,11 @@ Kilit unsur, farklı şekilde yönetiyor olmalarıdır. Şeytan hayvanlarla birl
 
 {{% int_link val="Bu 1000 yıllık krallıkta açıkça belirtilmiştir ki, aslında hükmedenler tanıklardır." link="/expl/content/1000y/the-thousand-year-kingdom" %}}
 
+## Düşünmek için sorular
+
+- "Zaten" tarafına mı (her şeyi hemen beklemek) yoksa "henüz değil" tarafına mı (sondan önce pek bir şey beklememek) daha çok yakınsın? Bu, imanını nasıl etkiliyor?
+- İnsanları nerede baskıyla, nerede hayatının tanıklığıyla etkilemeye çalışıyorsun?
+
+## Dua
+
+Rab İsa, krallığın burada, ama henüz tam olarak değil. Beni her şeyi hemen istemekten ve sona dek hiçbir şey beklememekten koru. Tanıkların gibi, baskıyla değil, seni gösteren bir hayatla egemenlik sürmemi sağla. Amin.

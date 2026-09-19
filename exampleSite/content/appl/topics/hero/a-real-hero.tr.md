@@ -50,3 +50,12 @@ Ancak bir süper kahraman farklıdır: Kendini korumak ve rakibinin zayıflıkla
 
 Yok edilmekten korkmadığı için kötü insanları iyileştirme ve onarma potansiyeline sahiptir. Paylaşabilir çünkü kendisine rızık verildiğini bilir.
 
+## Düşünmek için sorular
+
+- Kahramanların kimler ve başkalarını yenerek mi yoksa onları onararak mı kazanıyorlar?
+- Bu hafta birini nerede pratik bir şekilde sevmen gerekiyor ve bu sevginin nerede açık bir sınıra da ihtiyacı var?
+- İsa gibi sana bakıldığına ve kendini ne pahasına olursa olsun korumak zorunda olmadığına güvenseydin ne değişirdi?
+
+## Dua
+
+Rab İsa, kendini korumadın ve yenilmedin. Bana incinme cesaretiyle ve sınır koyma bilgeliğiyle pratik bir şekilde sevmeyi öğret. Bana bakıldığına güvenmeme yardım et ki korkup yıkmak yerine paylaşıp onarayım. Amin.

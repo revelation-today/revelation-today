@@ -13,5 +13,11 @@ Fetih savaşa, savaş kıtlığa, kıtlık ölüme dönüşür — ve mezbahın 
 
 Bu, her şeyin yolunda olduğuna dair numara yapmaktan ya da öyle olmadığında sessizce imanı kaybetmekten daha iyi bir örnektir. Mezbahın altındaki ruhlar ikisini de yapmaz — gerçek soruyu doğrudan Tanrı'ya getirirler ve sonra beklerler, O'ndan yüz çevirerek gerilimi çözmek yerine.
 
+## Düşünmek için sorular
+
 - Gerçekte Tanrı'ya doğrudan getirmeden içinde taşıdığın "ne zamana dek, ya Rab" sorusu nedir?
 - Bir cevabı beklemek, ondan vazgeçmekten farklıdır. Son zamanlarda çözülmemiş acıya verdiğin tepki bu ikisinden hangisine daha çok benziyor?
+
+## Dua
+
+Ya Rab, ne zamana dek? Sana getirmeden taşıdığım soruları biliyorsun. İşte onlar. Sorduğum için beni azarlamadığın için teşekkür ederim. Senden yüz çevirmek yerine seninle beklememe yardım et. Amin.

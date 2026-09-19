@@ -15,6 +15,12 @@ It's easy to assume this is only about someone else's false confidence. It's wor
 
 Armageddon itself is worth a second look too. It isn't a vague code word for cosmic chaos in general — it names an actual mountain overlooking the Jezreel Valley, Megiddo, a real place where real armies fought real, historically verifiable battles for centuries. That detail matters: God's final victory isn't pictured as some abstract, otherworldly event happening nowhere in particular, but as the same God who has already won concrete, real-world victories throughout history, doing it again, on ground you could still visit. Vague dread about "the end of everything" is a very different thing from trusting a God with an actual track record.
 
+## Questions to reflect on
+
 - Where are you currently as certain as those armies were — confident you're standing on solid ground — without having actually checked what that ground is made of?
 - What would it look like this week to test that confidence honestly, rather than waiting to find out the hard way?
 - Is your sense of how the story ends built on vague dread about the unknown, or on the concrete, historical track record of a God who has already won real battles before? What would it take to shift from one to the other?
+
+## Prayer
+
+God of history, you have won real battles in real places, and you will win the last one. Show me where my confidence rests on ground I have never checked, and replace my vague dread about the end with trust in you. Amen.

@@ -13,5 +13,11 @@ Zor zamanlar hemen hemen her şeyi kırabilir — yanlış şeye bağlanmış bi
 
 Tanrı hakkındaki bazı gerçekler böyledir — kabul etmesi kolay, seni gerçekten değiştirmesi yavaş, çünkü bir şeye katılmakla onun hayatını yeniden şekillendirmesine izin vermek iki farklı eylemdir.
 
+## Düşünmek için sorular
+
 - İnandığını söyleyeceğin, ama hiç gerçekten sindirmediğin, Tanrı hakkında bir gerçek nedir — hızlıca kabul ettiğin ama nadiren gerçek bir kararı değiştirmesine izin verdiğin bir şey?
 - O gerçeğin artık sadece bir fikir olmaktan çıkması için bu hafta onunla yeterince uzun süre oturmak nasıl görünürdü?
+
+## Dua
+
+Rab, gerçeğin tatlıdır ve bazen yutması zordur. Senin hakkında bildiklerimi yalnızca onaylamakla kalmayayım; bunlar kararlarımı değiştirsin. Sözün hayatımı biçimlendirene dek onu sindirmem için bana zaman ve sabır ver. Amin.

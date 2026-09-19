@@ -13,5 +13,11 @@ Fahişe göz alıcıdır, gelinin olması gereken mücevherlerle süslenmiştir,
 
 Babil'in bütün teklifi, bağlılık olmadan bereketi alabileceğin — asıl gelmesi gereken ilişki olmadan ödülü alabileceğin yönündedir. Bu teklif hâlâ sürekli yapılıyor, sadece nadiren üzerinde bir isim etiketi taşıyor.
 
+## Düşünmek için sorular
+
 - Şu anda sana, karşılığında İsa'ya gerçek bir sadakat istemeden bir tür bereket vaat eden hangi "kadeh" sunuluyor?
 - Bu hafta ikisi de eşit derecede çekici görünse, kendi hayatında gelinin çağrısı ile fahişenin teklifi arasındaki farkı nasıl anlardın?
+
+## Dua
+
+Rab İsa, sen yalnızca bereket arzumu değil, beni istiyorsun. Kolay ödülün kâsesi bana uzatıldığında, bedelini görecek bilgeliği ve seninle kalacak sevgiyi ver. Beni gelinin olarak sadık kıl. Amin.

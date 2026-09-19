@@ -13,5 +13,11 @@ Penglihatan Yohanes bukanlah hiasan sebelum isi yang "sesungguhnya" dimulai — 
 
 Itu memunculkan pertanyaan yang tidak nyaman tentang minggumu sendiri, bukan hanya tentang gereja secara umum. Bersinar dengan bahan bakar sendiri terlihat seperti pertunjukan — usaha, menjaga citra, berjalan dengan tangki kosong dan berharap tidak ada yang menyadarinya. Dinyalakan oleh-Nya terlihat berbeda: lebih tenang, kurang mengesankan untuk dilihat, tetapi mampu terus menyala jauh setelah kekuatanmu sendiri akan habis.
 
+## Pertanyaan untuk direnungkan
+
 - Minggu ini, apakah imanmu sebagian besar berjalan dengan bahan bakarmu sendiri, atau benar-benar diberi makan oleh sesuatu di luar dirimu?
 - Jika Yesus menanyakan pertanyaan yang sama yang sebenarnya sedang Dia tanyakan kepada gereja di sini — "apakah kamu siap?" — apa jawaban jujurmu sekarang?
+
+## Doa
+
+Tuhan Yesus, Engkau berdiri di tengah-tengah kaki dian. Ampunilah aku karena mencoba bersinar dengan bahan bakarku sendiri. Biarlah aku tetap menyala oleh terang-Mu, bukan oleh usahaku tampil baik, supaya aku siap ketika Engkau datang. Amin.

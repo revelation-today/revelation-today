@@ -13,5 +13,11 @@ Heaven's answer to an overwhelming situation isn't a strategy — it's a throne 
 
 The Lamb who looked like he had been slain is the one who makes that exchange worth making. He's not asking for a crown he hasn't already earned the hard way himself.
 
+## Questions to reflect on
+
 - What's the one part of your life you'd most want to keep out of that throne room if you're honest — the "crown" you're still quietly holding onto?
 - What would it actually look like this week to lay that specific thing down, rather than worshiping in general terms that cost you nothing?
+
+## Prayer
+
+Lamb of God, you are worthy. You know the crown I still hold on to. Help me lay it down before you, not in general words but in this one specific thing, because you gave everything first. Amen.

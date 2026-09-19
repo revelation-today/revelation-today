@@ -70,3 +70,11 @@ The key to being a witness is worship, an even more dominant theme in the book. 
 
 But when people go that far, it is more convincing than any rhetoric that what they see is what they live, and that this seems so precious that the people who see it — who have now become witnesses — are so much more eager to follow it.
 
+## Questions to reflect on
+
+- What have you experienced of Jesus that you cannot ignore?
+- Where does your life already say what you believe, and where do your words go further than your life?
+
+## Prayer
+
+Lord Jesus, you are the faithful witness. Let my life say what I believe, not only my words. Give me the loyalty of Antipas and of the two witnesses, so that others can see you in me and want to follow you. Amen.

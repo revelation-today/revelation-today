@@ -59,3 +59,12 @@ Kunci untuk memahaminya adalah bahwa keduanya memerintah dengan cara yang berbed
 Iblis memaksa orang untuk tunduk, sedangkan kedua saksi memengaruhi orang secara mendalam untuk mengubah hidup mereka.
 
 Hal ini menjadi jelas dalam {{% int_link val="Kerajaan Seribu Tahun dan dalam kenyataan bahwa kedua saksi itulah yang memerintah di dalamnya" link="/expl/content/1000y/the-thousand-year-kingdom" %}}.
+
+## Pertanyaan untuk direnungkan
+
+- Apakah kamu lebih condong kepada "sudah" (mengharapkan segalanya sekarang) atau "belum" (tidak mengharapkan banyak sebelum akhir zaman)? Apa pengaruhnya terhadap imanmu?
+- Di mana kamu mencoba memengaruhi orang dengan tekanan, dan di mana dengan kesaksian hidupmu?
+
+## Doa
+
+Tuhan Yesus, Kerajaan-Mu sudah ada, tetapi belum sepenuhnya. Jagalah aku agar tidak menuntut segalanya sekarang, dan agar tidak berhenti berharap sampai akhir zaman. Biarlah aku memerintah seperti saksi-saksi-Mu, bukan dengan tekanan, tetapi dengan hidup yang menunjuk kepada-Mu. Amin.

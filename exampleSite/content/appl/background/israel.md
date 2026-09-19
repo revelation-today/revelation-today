@@ -11,6 +11,12 @@ It also changes how easily "us and them" thinking can slip into how you think ab
 
 There's a second thread worth pulling on here: belonging to this family was never really about bloodline, even inside the Old Testament itself. From the beginning, God kept a remnant — a faithful few inside Israel, marked out by loyalty rather than ancestry, while plenty of ethnic Israelites drifted away. The second Exodus picks up the same pattern: God rescuing a people not because they'd earned it, but because he keeps binding himself to whoever stays loyal, generation after generation. That's a much steadier place to stand than heritage, denomination, or a family name ever was.
 
+## Questions to reflect on
+
 - Do you actually read the Old Testament as your own family's history, or as background material for someone else's story?
 - Where has "us and them" thinking crept into how you view believers who don't look, worship, or belong the way you do?
 - If belonging to God's people has always been marked by loyalty rather than heritage, what are you currently leaning on instead — a family name, a denomination, a tradition — that faithfulness alone was always meant to hold up?
+
+## Prayer
+
+Father, thank you for grafting me into your family and your story, reaching back to Abraham. Teach me to read the Old Testament as my own family's history. Take the "us and them" out of my heart towards your people who look different from me, and keep me leaning on faithfulness to you rather than on heritage or a name. Amen.

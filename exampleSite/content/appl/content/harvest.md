@@ -13,5 +13,11 @@ On the sea of glass and fire, the faithful sing — and their only qualification
 
 That reframes what "faithfulness" actually requires this week. It isn't a performance to be judged on results. It's simply not trading your loyalty away when staying loyal looks like the harder, costlier option.
 
+## Questions to reflect on
+
 - Where this week were you tempted to play it safe — to quietly trade a small piece of loyalty to Jesus for comfort, approval, or ease?
 - If your only qualification is staying loyal rather than succeeding, does that make faithfulness feel more possible for you, or does some part of you still think you need to earn more than that?
+
+## Prayer
+
+Lord, thank you that you ask me to stay loyal, not to be impressive. Where I am tempted to play it safe and trade a little loyalty for comfort, hold on to me. Let me join the song of those who stayed faithful. Amen.

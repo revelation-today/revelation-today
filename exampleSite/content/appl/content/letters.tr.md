@@ -13,5 +13,11 @@ Yedi kilise, yedi çok farklı durum, ve İsa hiçbir zaman aynı mektubu iki ke
 
 Rahatsız edici alıştırma, en sevdiğin kiliseyi seçmek değil. Bu, İsa sana bu hafta kişisel olarak yazsaydı, tercih edeceğin mektup değil, gerçekte alacağın mektubun hangisi olacağını fark etmekle ilgili.
 
+## Düşünmek için sorular
+
 - İsa bu hafta kilisene — ya da kişisel olarak sana — bir mektup yazsaydı, yedisinden hangisine en çok benzerdi ve senden farklı yapmanı isteyeceği tek şey ne olurdu?
 - Laodikya hiç övgü almadı ve yine de kapısı çalındı. Bunun senin için de geçerli olduğuna, artık istenmeyecek kadar uzaklaştığını varsaymak yerine, nerede inanman gerekiyor?
+
+## Dua
+
+Rab İsa, durumumu benden daha iyi biliyorsun. Bana tercih edeceğim mektubu değil, ihtiyacım olan mektubu söyle ve değiştirmemi istediğin şeyi değiştirme cesaretini ver. Hâlâ kapıyı, benim kapımı da çaldığın için teşekkür ederim. Amin.

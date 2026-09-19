@@ -13,5 +13,11 @@ Cam ve ateşten denizde, sadıklar şarkı söyler — ve tek niteliksel özelli
 
 Bu, "sadakat"in bu hafta gerçekte ne gerektirdiğini yeniden çerçeveler. Sonuçlara göre yargılanan bir performans değildir. Sadece sadık kalmak daha zor, daha maliyetli seçenek olduğunda sadakatini takas etmemektir.
 
+## Düşünmek için sorular
+
 - Bu hafta nerede güvenli oynamaya, rahatlık, onay ya da kolaylık uğruna İsa'ya olan sadakatinin küçük bir parçasını takas etmeye ayartıldın?
 - Tek niteliğin başarmak değil sadık kalmaksa, bu sadakati senin için daha ulaşılabilir mi hissettiriyor, yoksa içindeki bir parça hâlâ bundan daha fazlasını kazanman gerektiğini mi düşünüyor?
+
+## Dua
+
+Rab, benden etkileyici olmamı değil, sadık kalmamı istediğin için teşekkür ederim. Kendimi garantiye almak ve sadakatimden biraz rahatlık uğruna vazgeçmek istediğimde beni tut. Sadık kalanların ezgisine katılmamı sağla. Amin.

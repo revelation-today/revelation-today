@@ -60,3 +60,11 @@ Satan zwingt die Menschen zur Unterwerfung, die Zeugen beeinflussen die Menschen
 
 Das wird deutlich im {{% int_link val="Tausendjährigen Reich und in der Tatsache, dass es die Zeugen sind, die darin regieren" link="/expl/content/1000y/the-thousand-year-kingdom" %}}.
 
+## Fragen zum Nachdenken
+
+- Neigst du eher zum „Schon jetzt“ (alles sofort erwarten) oder zum „Noch nicht“ (bis zum Ende wenig erwarten)? Was macht das mit deinem Glauben?
+- Wo versuchst du, Menschen durch Druck zu beeinflussen, und wo durch das Zeugnis deines Lebens?
+
+## Gebet
+
+Herr Jesus, dein Reich ist schon da, aber noch nicht vollständig. Bewahre mich davor, alles sofort zu verlangen, und davor, bis zum Ende nichts zu erwarten. Lass mich so herrschen wie deine Zeugen, nicht durch Druck, sondern durch ein Leben, das auf dich hinweist. Amen.

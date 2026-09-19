@@ -15,6 +15,12 @@ The story itself doesn't end with a moral or a summary. It ends with an instruct
 
 The ending is genuinely good news, but it isn't automatic for everyone, and it's worth being honest about the other half of these closing chapters. Hell isn't primarily a punishment God inflicts from outside — it's the simple, permanent absence of the relationship with God that heaven is made of, the natural end of a life spent refusing him, made final. That's sobering rather than comforting, and it's meant to be: it's the reason "go and live like you believe it" isn't just a private encouragement for you, but an urgent word for anyone you love who's still choosing distance over relationship.
 
+## Questions to reflect on
+
 - If you actually lived today as though this ending were as certain as your own name, what's one thing you'd do differently before the day is over?
 - What's still keeping you from living like you believe it — fear, distraction, doubt, or just forgetting to remember?
 - Who in your life is still choosing distance from God, and does the reality of that choice's ending change how urgently you'd want to reach them?
+
+## Prayer
+
+God, you will make your home with your people and wipe every tear from our eyes. Let this ending shape how I live today. Wake me from distraction and fear, and give me love and urgency for the people I know who are still keeping their distance from you. Amen.

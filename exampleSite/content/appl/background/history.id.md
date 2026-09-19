@@ -9,5 +9,11 @@ Pax Romana menawarkan kedamaian yang nyata dan kemakmuran yang nyata, dengan sat
 
 Tekanan semacam itu tidak pernah hilang; ia hanya berganti pakaian. Apa pun yang sekarang menjanjikan keamanan, penerimaan, atau kemakmuran kepadamu sebagai ganti sebuah kompromi kecil yang terdengar masuk akal, sedang memainkan peran yang dulu dimainkan Roma.
 
+## Pertanyaan untuk direnungkan
+
 - Apa padanan modern dari "membakar sejumput dupa bagi Kaisar" dalam hidupmu sendiri — sebuah kompromi kecil yang akan membelikanmu keamanan, penerimaan, atau kemudahan?
 - Kepada siapa atau apa sebenarnya kamu percaya untuk menopang hidupmu, jika kamu jujur tentang dari mana sesungguhnya keamananmu berasal?
+
+## Doa
+
+Tuhan Yesus, hanya Engkau yang menopang hidupku. Tunjukkan kepadaku kompromi-kompromi kecil yang kulakukan untuk membeli rasa aman, penerimaan, atau kenyamanan, dan berilah aku keberanian untuk menolaknya. Biarlah rasa amanku bersandar pada-Mu, bukan pada apa pun yang menjanjikannya hari ini. Amin.

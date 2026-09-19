@@ -13,5 +13,11 @@ Michael und seine Engel kämpfen gegen den Drachen, und der Drache verliert — 
 
 Das soll eine Erleichterung sein, keine bloße Formalität. Viel erschöpfende geistliche Anstrengung entsteht daraus, dass wir still versuchen, einen Kampf zu gewinnen, der gar nicht unserer ist.
 
+## Fragen zum Nachdenken
+
 - Wo trägst du das Gewicht eines Kampfes, den Jesus bereits beendet hat — versuchst du etwas zu besiegen, statt einfach jemanden auf ihn hinzuweisen?
 - Wenn du diesen Kampf wieder ihm überlassen würdest, für welchen einen Menschen hättest du dann tatsächlich noch Kraft übrig, ihn diese Woche näher zu Jesus zu bringen?
+
+## Gebet
+
+Herr Jesus, du hast den Drachen schon besiegt; der Kampf ist deiner, nicht meiner. Nimm mir die Last ab, gegen etwas zu kämpfen, das du schon gewonnen hast, und schenk mir Freude und Kraft, diese Woche einen Menschen näher zu dir zu bringen. Amen.

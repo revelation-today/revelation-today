@@ -126,3 +126,12 @@ Jika kamu ingin tahu apakah kamu memiliki sebuah berhala, berikut daftar periksa
 Nah, jika jawabannya adalah "Untuk hubungan yang lebih dalam dengan Allah", maka kamu berada di jalan yang benar. Jika tidak, mungkin kamu hanya sedang bersikap jujur tanpa kompromi, dan itu adalah langkah pertama menuju arah yang benar.
 
 Jika hubungan dengan Allah adalah hal yang terpenting, dan bukan sekadar alat untuk mendapatkan berkat-Nya, maka kamu adalah orang Kristen sejati. Dan kamu akan menjadi seperti Dia. Tetapi jangan salah paham: ini bukan soal kekuatan super seperti maha tahu, melainkan tentang Ia mengubah karaktermu dan memercayakan hal-hal penting kepadamu.
+
+## Pertanyaan untuk direnungkan
+
+- Di mana posisimu dalam tiga langkah penyembahan: ucapan syukur, pujian, atau penyembahan? Apa yang menahanmu di sana?
+- Satu hal nyata apa yang dapat kamu syukuri kepada Allah hari ini?
+
+## Doa
+
+Bapa, terima kasih atas apa yang telah Engkau lakukan bagiku hari ini. Engkau baik, dan aku percaya kepada-Mu. Inilah aku: perbuatlah padaku sesuai kehendak-Mu. Jagalah aku agar tidak lebih mengasihi pemberian-Mu daripada Engkau, dan jadikanlah aku semakin serupa dengan-Mu. Amin.

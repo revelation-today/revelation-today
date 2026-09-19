@@ -13,5 +13,11 @@ Yuhanna'nın görümü, "asıl" içerik başlamadan önceki bir süsleme değil 
 
 Bu, sadece genel olarak kilise hakkında değil, senin kendi haftan hakkında rahatsız edici bir soru doğurur. Kendi yakıtınla parlamak performans gibi görünür — çaba, imaj yönetimi, tankı boşken koşup kimsenin fark etmemesini ummak. Tutuşturulmuş olmaksa farklı görünür: daha sessiz, izlemesi daha az etkileyici, ama kendi gücün çoktan tükenmiş olacağı bir noktadan çok sonra bile yanmaya devam edebilen.
 
+## Düşünmek için sorular
+
 - Bu hafta imanın çoğunlukla kendi yakıtınla mı çalıştı, yoksa gerçekten senin dışındaki bir şeyle mi besleniyordu?
 - İsa sana burada kiliseye gerçekte sorduğu aynı soruyu sorsaydı — "hazır mısın?" — şu anki dürüst cevabın ne olurdu?
+
+## Dua
+
+Rab İsa, kandillikler arasında duruyorsun. Kendi yakıtımla parlamaya çalıştığım için beni bağışla. Beni kendi gösterimle değil, senin ışığınla yanar tut ki geldiğinde hazır olayım. Amin.

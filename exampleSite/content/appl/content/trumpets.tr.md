@@ -13,5 +13,11 @@ Yiyecek tükenir, su acılaşır, güvenlik kaybolur — ve insanlar putlarına 
 
 Zor bir dönemin seni (ya da sevdiğin birini) otomatik olarak Tanrı'ya daha açık hale getireceğini varsaymadan önce bunu hatırlamakta fayda var. Bu, kendiliğinden öyle işlemez — baskı, elini gevşetmekten çok, zaten neye sıkı sarıldığını ortaya çıkarır.
 
+## Düşünmek için sorular
+
 - Kendi hayatındaki zor bir dönemi düşün. Tanrı yerine güvendiğin şeye tutunuşunu gevşetti mi, yoksa daha sıkı mı tutundun?
 - Sürekli seni hayal kırıklığına uğratsa bile, bırakmak başarısızlığın kendisinden daha korkutucu geldiği için hâlâ sıkı sarılacağın bir şey var mı?
+
+## Dua
+
+Rab, sıkıntı tek başına yüreğimi değiştirmez; bunu yalnızca sen yapabilirsin. Beni yüzüstü bıraksa bile sımsıkı tutunduğum şeyi bana göster ve onu bırakıp sana bakma cesaretini ver. Amin.

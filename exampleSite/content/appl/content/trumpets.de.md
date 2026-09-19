@@ -13,5 +13,11 @@ Essen wird knapp, Wasser wird bitter, Sicherheit verschwindet — und die Mensch
 
 Das lohnt sich zu bedenken, bevor du annimmst, eine schwere Zeit werde dich (oder jemanden, den du liebst) automatisch offener für Gott machen. So funktioniert es nicht von selbst — Druck legt offen, woran du dich bereits klammerst, öfter, als dass er den Griff lockert.
 
+## Fragen zum Nachdenken
+
 - Denk an eine schwere Zeit in deinem eigenen Leben. Hat sie deinen Griff um das gelockert, worauf du dich statt auf Gott verlassen hast, oder hast du fester festgehalten?
 - Gibt es etwas, an dem du auch dann noch festhalten würdest, wenn es dich immer wieder enttäuschte, einfach weil Loslassen beängstigender wirkt als das Scheitern selbst?
+
+## Gebet
+
+Herr, Not allein verändert mein Herz nicht; das kannst nur du. Zeig mir, woran ich mich klammere, auch wenn es mich im Stich lässt, und gib mir den Mut, loszulassen und zu dir aufzusehen. Amen.

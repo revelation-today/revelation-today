@@ -47,3 +47,11 @@ But the prayers here are an alignment with God’s will so that they will be.
 - Pray that they will grow closer to God.
 - Pray for people’s hearts to be opened to God.
 
+## Questions to reflect on
+
+- Are your prayers mostly about your own needs, or also about God's purposes being done?
+- Which of the four prayers above could you make your own this week, and for whom?
+
+## Prayer
+
+Father, your plan includes our prayers. Bring my prayers in line with your will. Keep your church faithful in these times, expose every false security, and open people's hearts to you, starting with mine. Amen.

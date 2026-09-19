@@ -13,5 +13,11 @@ Sieben Gemeinden, sieben ganz unterschiedliche Situationen, und Jesus schickt ni
 
 Die unbequeme Übung besteht nicht darin, deine Lieblingsgemeinde herauszupicken. Sie besteht darin, zu bemerken, welchen Brief du diese Woche tatsächlich bekommen würdest, wenn Jesus dir persönlich schriebe — nicht den, den du dir wünschen würdest.
 
+## Fragen zum Nachdenken
+
 - Wenn Jesus deiner Gemeinde — oder dir persönlich — diese Woche einen Brief schriebe, welchem der sieben würde er am ehesten ähneln, und was wäre die eine Sache, die er dich bitten würde, anders zu machen?
 - Laodizea bekam kein Lob und trotzdem ein Klopfen an der Tür. Wo musst du glauben, dass das auch für dich gilt, statt anzunehmen, du seist schon zu weit weg, um noch gewollt zu sein?
+
+## Gebet
+
+Herr Jesus, du kennst meine Lage besser als ich. Sag mir den Brief, den ich brauche, nicht den, den ich lieber hätte, und gib mir den Mut, zu ändern, was du von mir willst. Danke, dass du immer noch anklopfst, auch bei mir. Amen.

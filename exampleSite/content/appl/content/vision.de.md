@@ -13,5 +13,11 @@ Johannes' Vision ist keine Ausschmückung, bevor der „eigentliche" Inhalt begi
 
 Das wirft eine unbequeme Frage über deine eigene Woche auf, nicht nur über die Gemeinde im Allgemeinen. Mit eigenem Brennstoff zu leuchten sieht aus wie Leistung — Anstrengung, Imagepflege, auf leerem Tank laufen und hoffen, dass es niemand merkt. Gehalten zu werden sieht anders aus: stiller, weniger beeindruckend anzusehen, aber fähig, noch lange zu brennen, nachdem die eigene Kraft längst erschöpft wäre.
 
+## Fragen zum Nachdenken
+
 - Lief dein Glaube diese Woche vor allem mit eigenem Brennstoff, oder wurde er tatsächlich von etwas außerhalb von dir gespeist?
 - Wenn Jesus dir dieselbe Frage stellen würde, die er der Gemeinde hier eigentlich stellt — „bist du bereit?" — was wäre gerade jetzt deine ehrliche Antwort?
+
+## Gebet
+
+Herr Jesus, du stehst mitten unter den Leuchtern. Vergib mir, dass ich versuche, aus eigener Kraft zu leuchten. Lass mich mit deinem Licht brennen, nicht mit meiner Leistung, damit ich bereit bin, wenn du kommst. Amen.

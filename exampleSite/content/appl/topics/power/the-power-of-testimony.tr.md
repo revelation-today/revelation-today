@@ -70,3 +70,11 @@ Tanık olmanın anahtarı, kitapta daha da baskın bir konu olan ibadettir. İba
 
 Ancak insanlar (bu kadar) ileri gittiklerinde, gördüklerinin yaşadıkları olduğuna dair herhangi bir retorikten daha ikna edici oluyor ve bu o kadar değerli görünüyor ki, bunu gören — şimdi tanık olan — insanlar bunu takip etmeye çok daha hevesli oluyorlar.
 
+## Düşünmek için sorular
+
+- İsa'yla ilgili görmezden gelemeyeceğin neler yaşadın?
+- Hayatın neye inandığını nerede zaten söylüyor ve sözlerin nerede hayatının ötesine geçiyor?
+
+## Dua
+
+Rab İsa, sen sadık tanıksın. Yalnızca sözlerim değil, hayatım da neye inandığımı söylesin. Bana Antipas'ın ve iki tanığın sadakatini ver ki başkaları seni bende görsün ve senin ardından gelmek istesin. Amin.

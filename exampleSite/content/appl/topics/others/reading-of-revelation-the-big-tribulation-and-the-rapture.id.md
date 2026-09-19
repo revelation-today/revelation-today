@@ -9,5 +9,11 @@ Apa pun kesimpulanmu tentang dispensasionalisme, pengangkatan, atau kapan hal it
 
 Ketakutan adalah fondasi yang buruk bagi iman. Jika "siap sedia" bagimu selama ini lebih banyak berarti takut tertinggal, cobalah sebaliknya untuk beristirahat dalam janji yang mendasari semua halaman ini: Kristus datang menujumu, bukan menjauh darimu, dan tidak ada yang sia-sia di antara sekarang dan saat itu.
 
+## Pertanyaan untuk direnungkan
+
 - Siapa dalam hidupmu yang memegang pandangan berbeda darimu tentang pengangkatan atau akhir zaman — dan seperti apa rasanya berbicara dengannya tanpa perlu menang?
 - Di manakah kamu sudah sedang mengalami sesuatu yang terasa seperti kesengsaraan sekarang ini? Apa artinya memperlakukan hal itu sebagai sesuatu yang bermakna, alih-alih sekadar penundaan sebelum "yang sesungguhnya" dimulai?
+
+## Doa
+
+Tuhan Yesus, Engkau datang mendekat kepada kami, bukan menjauh. Bebaskan aku dari iman yang dibangun di atas rasa takut. Tolonglah aku berjalan setia melewati apa yang sulit hari ini, dan mengasihi mereka yang membaca pasal-pasal ini secara berbeda dariku. Amin.

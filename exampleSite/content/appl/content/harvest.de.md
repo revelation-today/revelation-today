@@ -13,5 +13,11 @@ Auf dem gläsernen, feurigen Meer singen die Treuen — und ihre einzige Qualifi
 
 Das rückt zurecht, was „Treue" diese Woche eigentlich erfordert. Sie ist keine Leistung, die an Ergebnissen gemessen wird. Sie bedeutet einfach, deine Loyalität nicht einzutauschen, wenn treu bleiben gerade die härtere, teurere Option ist.
 
+## Fragen zum Nachdenken
+
 - Wo warst du diese Woche versucht, auf Nummer sicher zu gehen — ein kleines Stück Loyalität zu Jesus gegen Bequemlichkeit, Anerkennung oder Leichtigkeit einzutauschen?
 - Wenn deine einzige Qualifikation Treue ist statt Erfolg, fühlt sich Treue dadurch für dich erreichbarer an, oder denkt ein Teil von dir immer noch, du müsstest mehr leisten als das?
+
+## Gebet
+
+Herr, danke, dass du Treue von mir willst und keine Glanzleistung. Wo ich versucht bin, auf Nummer sicher zu gehen und ein Stück Treue gegen Bequemlichkeit einzutauschen, halte mich fest. Lass mich in das Lied derer einstimmen, die treu geblieben sind. Amen.

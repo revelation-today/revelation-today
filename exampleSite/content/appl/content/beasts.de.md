@@ -15,6 +15,12 @@ Fälschungen kündigen sich selten als solche an. Meist sehen sie aus wie eine s
 
 Das Malzeichen des Tieres gehört zu genau diesem Bild, und es ist leicht zu übersehen, worum es eigentlich geht, während man nach einem Strichcode oder einem Chip sucht. Im ersten Jahrhundert bezeichnete das Zeichen an Hand oder Stirn die ganz gewöhnliche wirtschaftliche und soziale Teilhabe — Kaufen, Verkaufen, Dazugehören — in einem System, das auf Loyalität zur Macht des Tieres aufgebaut war statt auf Christus. Das ist ein weit alltäglicherer Druck als ein einziger dramatischer Entscheidungsmoment: nicht „nimmst du ein Malzeichen an", sondern „zu wessen Wirtschaft, wessen Anerkennung, wessen Erzählung kaufst du dich schon jede gewöhnliche Woche still ein".
 
+## Fragen zum Nachdenken
+
 - Wo in deinem Leben bietet dir gerade etwas Macht, Sicherheit oder Bewunderung so an, wie das Tier es tut — durch Gewalt, Spektakel oder Täuschung statt auf die langsamere, stillere Art, wie Jesus wirkt?
 - Was wäre das Erkennungszeichen, das es als Kopie entlarven würde, wenn du genau genug hinsähest — und bist du bereit hinzusehen?
 - Wo spürst du bereits den stilleren Druck des Malzeichens — die Notwendigkeit, bei einem System, einem Arbeitsplatz oder der Erzählung einer Menge über das Wichtige mitzuziehen, nur um im gewöhnlichen Sinn weiter kaufen und verkaufen zu können?
+
+## Gebet
+
+Herr Jesus, du siegst langsam und leise, und du siegst endgültig. Öffne mir die Augen für die Fälschungen, die mir Macht, Sicherheit oder Bewunderung auf dem schnellen Weg anbieten, und gib mir den Mut, genau hinzusehen. Wo ich mich einer anderen Geschichte anschließe, nur um mitzukommen, zieh mich zurück zu dir. Amen.

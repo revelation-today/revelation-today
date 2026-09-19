@@ -50,9 +50,12 @@ But a superhero is different: he does not have to worry about protecting himself
 
 He has the potential to heal and restore evil people because he is not afraid to be destroyed. He can share because he knows he is cared for.
 
-Only if we see him as a simple hero, but he was a super hero. Let me explain the difference: A hero, often a underdog, is not much stronger than the villain, so he need to protect himself, grow, wait for the right moment, find the weakness of his opponent and strike at the right moment, maybe at a moment of enlightenment.
+## Questions to reflect on
 
-But a super hero is different: He does not need to worry to protect himself and seeking out the weaknesses of his opponent. Jesus took off his armour, allowed the devil to make the first punch and beat him even to death. But, guess what, Jesus was not defeated. He rose from the death and so overcame the devil. That is what a superhero does.
+- Who are your heroes, and do they win by defeating others or by restoring them?
+- Where do you need to love someone in a practical way this week, and where does that love also need a clear boundary?
+- What would change if you trusted, as Jesus did, that you are cared for and do not have to protect yourself at any cost?
 
-He has the potential to heal and restore evil people as he is not afraid to get destroyed. He can share because he knows he is provided for
+## Prayer
 
+Lord Jesus, you did not protect yourself, and you were not defeated. Teach me to love in practical ways, with the courage to be hurt and the wisdom to set boundaries. Help me trust that I am cared for, so that I can share and restore instead of fearing and destroying. Amen.

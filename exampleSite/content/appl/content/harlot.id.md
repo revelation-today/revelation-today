@@ -13,5 +13,11 @@ Perempuan sundal itu memukau, berhiaskan perhiasan yang seharusnya menjadi milik
 
 Seluruh tawaran Babel adalah bahwa kamu bisa mendapatkan berkat tanpa kepemilikan — upah tanpa hubungan yang seharusnya menjadi sumbernya. Tawaran itu masih terus dibuat, hanya jarang dengan label nama yang jelas.
 
+## Pertanyaan untuk direnungkan
+
 - "Cawan" apa yang sedang ditawarkan kepadamu sekarang, yang menjanjikan semacam berkat tanpa menuntut kesetiaan sungguhan kepada Yesus sebagai balasannya?
 - Bagaimana kamu akan membedakan, dalam hidupmu sendiri, antara panggilan sang mempelai dan tawaran perempuan sundal itu, jika keduanya sama-sama menarik minggu ini?
+
+## Doa
+
+Tuhan Yesus, Engkau menginginkan diriku, bukan hanya keinginanku akan berkat. Ketika cawan upah yang mudah disodorkan kepadaku, berilah aku hikmat untuk melihat harganya dan kasih untuk tetap tinggal bersama-Mu. Jadikanlah aku setia sebagai mempelai-Mu. Amin.

@@ -9,5 +9,11 @@ Revelation looks chaotic at first glance, lurching from one disaster straight in
 
 That's worth carrying into how you read your own unfolding story, not just this book. A season that feels chaotic while you're living through it can still be more patterned and purposeful than it looks from the inside — the shape is often only visible in hindsight.
 
+## Questions to reflect on
+
 - What part of your life currently feels the most chaotic or random to you?
 - If that season turned out to have a deliberate shape you simply can't see yet, how would that change the way you're facing it right now?
+
+## Prayer
+
+God of order, you were at work in the shape of this book when it looked like chaos, and you are at work in my life in the same way. Where my days feel random, help me trust that you see a shape I cannot see yet, and give me peace to walk through this season with you. Amen.

@@ -9,5 +9,11 @@ The Pax Romana offered real peace and real prosperity, on one condition: acknowl
 
 That kind of pressure hasn't gone away; it's just wearing different clothes now. Whatever system currently promises you security, belonging, or prosperity in exchange for a small, reasonable-sounding compromise is playing the same role Rome once did.
 
+## Questions to reflect on
+
 - What's the modern equivalent of "burn a pinch of incense to Caesar" in your own life — a small compromise that would buy you safety, approval, or ease?
 - Who or what are you actually trusting to hold your life together, if you're honest about where your security really comes from?
+
+## Prayer
+
+Lord Jesus, you alone hold my life together. Show me the small compromises I make to buy safety, approval or ease, and give me the courage to refuse them. Let my security rest in you, not in whatever promises it today. Amen.

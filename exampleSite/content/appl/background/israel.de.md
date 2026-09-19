@@ -11,6 +11,12 @@ Es verändert auch, wie leicht sich ein „wir und die anderen"-Denken in den Bl
 
 Es lohnt sich, hier noch einen zweiten Faden weiterzuverfolgen: Zu dieser Familie zu gehören, war nie wirklich eine Frage der Blutlinie, schon im Alten Testament nicht. Von Anfang an bewahrte sich Gott einen Rest — eine treue Minderheit innerhalb Israels, gekennzeichnet durch Loyalität statt durch Abstammung, während viele ethnische Israeliten sich abwandten. Der zweite Auszug greift dasselbe Muster auf: Gott rettet ein Volk nicht, weil es sich das verdient hätte, sondern weil er sich immer wieder an alle bindet, die treu bleiben, Generation um Generation. Das ist ein weit stabilerer Boden, als es Herkunft, Konfession oder ein Familienname je waren.
 
+## Fragen zum Nachdenken
+
 - Liest du das Alte Testament tatsächlich als die Geschichte deiner eigenen Familie, oder als Hintergrundmaterial für die Geschichte eines anderen?
 - Wo hat sich „wir und die anderen"-Denken in deinen Blick auf Gläubige eingeschlichen, die nicht so aussehen, anbeten oder dazugehören wie in deiner eigenen Ecke?
 - Wenn die Zugehörigkeit zu Gottes Volk schon immer durch Loyalität statt durch Herkunft gekennzeichnet war, worauf stützt du dich gerade stattdessen — ein Familienname, eine Konfession, eine Tradition —, das eigentlich immer nur Treue allein tragen sollte?
+
+## Gebet
+
+Vater, danke, dass du mich in deine Familie und deine Geschichte eingepfropft hast, die bis zu Abraham zurückreicht. Lehre mich, das Alte Testament als die Geschichte meiner eigenen Familie zu lesen. Nimm das „Wir und die anderen“ aus meinem Herzen gegenüber deinen Leuten, die anders aussehen als ich, und lass mich auf die Treue zu dir bauen statt auf Herkunft oder einen Namen. Amen.

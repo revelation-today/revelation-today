@@ -13,5 +13,11 @@ Makanan gagal, air menjadi pahit, keamanan lenyap — dan orang-orang justru sem
 
 Itu layak diingat sebelum kamu berasumsi bahwa masa sulit akan secara otomatis membuatmu (atau seseorang yang kamu kasihi) lebih terbuka kepada Allah. Tidak begitu cara kerjanya dengan sendirinya — tekanan lebih sering menyingkapkan apa yang sudah kamu pegang erat, ketimbang melonggarkan genggamanmu.
 
+## Pertanyaan untuk direnungkan
+
 - Pikirkan sebuah masa sulit dalam hidupmu sendiri. Apakah itu melonggarkan genggamanmu pada apa pun yang kamu andalkan selain Allah, atau justru membuatmu semakin erat berpegang?
 - Adakah sesuatu yang akan tetap kamu pegang erat bahkan jika ia terus-menerus mengecewakanmu, semata-mata karena melepaskannya terasa lebih menakutkan daripada kegagalan itu sendiri?
+
+## Doa
+
+Tuhan, kesulitan saja tidak mengubah hatiku; hanya Engkau yang dapat. Tunjukkan kepadaku apa yang terus kupegang erat meskipun itu mengecewakanku, dan berilah aku keberanian untuk melepaskannya dan memandang kepada-Mu. Amin.

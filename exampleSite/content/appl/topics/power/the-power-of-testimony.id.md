@@ -69,3 +69,12 @@ Tetapi kita telah mengalami sesuatu dalam hidup kita yang telah mengubahnya seca
 Kunci dari kesaksian adalah penyembahan, sebuah tema yang bahkan lebih mendasar lagi dalam Kitab Wahyu. {{% int_link val="Penyembahan berarti kesetiaan" link="/appl/topics/power/worship" %}} - sampai mati. Kata Yunani untuk saksi adalah martir, sebab pada tahun-tahun awal gereja, kesaksian mereka begitu jauh sehingga banyak yang membayarnya dengan nyawa mereka. Bahkan jika kita takut akan kematian: {{% bible val="kita akan menggenapi tujuan hidup kita sebelum kita mati" link="rev:11,7" lang="ind" %}}.
 
 Sebab ketika orang-orang (sendiri) sampai sejauh itu, itu lebih meyakinkan daripada perkataan apa pun. Sebab apa yang kita hidupi adalah apa yang dilihat orang lain. Dan ketika orang-orang melihat betapa berharganya apa yang kita lakukan - yang sekarang mereka saksikan sendiri - mereka pun menjadi penasaran dan ingin mengikutinya.
+
+## Pertanyaan untuk direnungkan
+
+- Apa yang telah kamu alami bersama Yesus yang tidak dapat kamu abaikan?
+- Di mana hidupmu sudah menyatakan apa yang kamu percayai, dan di mana kata-katamu melampaui hidupmu?
+
+## Doa
+
+Tuhan Yesus, Engkaulah saksi yang setia. Biarlah hidupku menyatakan apa yang kupercayai, bukan hanya kata-kataku. Berilah aku kesetiaan seperti Antipas dan kedua saksi itu, supaya orang lain dapat melihat Engkau di dalam aku dan ingin mengikut Engkau. Amin.

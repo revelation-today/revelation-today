@@ -13,5 +13,11 @@ Die Antwort des Himmels auf eine überwältigende Situation ist keine Strategie 
 
 Das Lamm, das aussah, als wäre es geschlachtet, ist derjenige, der diesen Tausch lohnenswert macht. Er verlangt keine Krone, die er sich nicht selbst auf die harte Weise verdient hätte.
 
+## Fragen zum Nachdenken
+
 - Was ist der eine Teil deines Lebens, den du am liebsten aus diesem Thronsaal heraushalten würdest, wenn du ehrlich bist — die „Krone", die du noch immer still festhältst?
 - Wie würde es diese Woche konkret aussehen, genau dieses eine Ding niederzulegen, statt in allgemeinen Begriffen anzubeten, die dich nichts kosten?
+
+## Gebet
+
+Lamm Gottes, du bist würdig. Du kennst die Krone, an der ich noch festhalte. Hilf mir, sie vor dir niederzulegen, nicht mit allgemeinen Worten, sondern mit genau dieser einen Sache, weil du zuerst alles gegeben hast. Amen.
