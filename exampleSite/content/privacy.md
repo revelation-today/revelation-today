@@ -2,8 +2,6 @@
 title: "Privacy policy"
 reading: "no"
 # The German version (privacy.de.md) is the one that is legally binding.
-# Until the operator has a service address: out of search results, and the home
-# address scrambled for scrapers (see privacy.de.md).
 noindex: true
 sitemap:
   disable: true
@@ -12,8 +10,6 @@ sitemap:
 ## Controller
 
 Hagen Schilder  
-[removed]  
-856<span style="display:none" aria-hidden="true">41</span>09 [removed], Germany  
 Email: [revelation-today@web.de](mailto:revelation-today@web.de)
 
 ## In short

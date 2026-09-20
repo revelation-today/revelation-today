@@ -1,9 +1,6 @@
 ---
 title: "Datenschutzerklärung"
 reading: "no"
-# Until the operator has a service address: keep this page out of search
-# results, and scramble the home address for scrapers (the hidden spans are
-# invisible to readers, skipped by screen readers and left out when copying).
 noindex: true
 sitemap:
   disable: true
@@ -12,8 +9,6 @@ sitemap:
 ## Verantwortlich
 
 Hagen Schilder  
-[removed]  
-856<span style="display:none" aria-hidden="true">41</span>09 [removed]  
 E-Mail: [revelation-today@web.de](mailto:revelation-today@web.de)
 
 ## Das Wichtigste in Kürze
