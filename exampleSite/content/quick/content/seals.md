@@ -14,22 +14,24 @@ kids: /kids/elementary/05-the-seals
 
 ## The four horsemen
 
-Now that Jesus has been shown worthy to open the scroll, one thing needs to happen first: exposing the one who claims the same authority - Satan.
+The scroll from chapter 5 is opened one seal at a time, and the first four send out riders on coloured horses.
 
-The first four seals do exactly that. Satan's rider shows up first on a white horse, looking triumphant, crowned, full of promise - but as the seals continue, the same rider is revealed to bring war, then economic hardship for the poor while the wealthy stay untouched, then death and destruction. Together the four horsemen echo the four judgments God warned of through the prophets: wild beasts, sword, famine, plague - and the first horseman's borrowed white horse and crown already hint at the beast who will appear later wearing the same disguise.
+The first looks like a conqueror: white horse, crown, bow, riding out to win. The three behind him strip that picture bare - war, then hunger that prices bread out of reach of the poor while the luxury goods stay untouched, then death. Taken together the four are the standard list of disasters the Hebrew prophets warned about: wild beasts, sword, famine, plague.
 
-Satan has nothing real to offer - only imitation. This is the first appearance of a counterfeit trinity that recurs through the book: the same three-part pattern shows up again in {{% bible val="chapter 13" link="rev:13" lang="en" %}} with the {{% int_link val="dragon and two beasts" link="/quick/content/beasts" %}}, and again in {{% bible val="chapter 17" link="rev:17" lang="en" %}} with the {{% int_link val="harlot and the beast" link="/quick/content/harlot" %}} - each time exposing the same empty imitation of Christ's real power.
+The first rider is the one readers argue over, because Christ rides a white horse himself later in the book ({{% bible val="chapter 19" link="rev:19" lang="en" %}}). Revelation keeps setting up look-alikes like this, and its case is that the power promising victory here is an imitation: it can conquer, frighten and starve, but it makes nothing of its own. The same three-part imitation returns in {{% bible val="chapter 13" link="rev:13" lang="en" %}} with the {{% int_link val="dragon and the two beasts" link="/quick/content/beasts" %}}, and in {{% bible val="chapter 17" link="rev:17" lang="en" %}} with the {{% int_link val="harlot and the beast" link="/quick/content/harlot" %}}.
 
 ![](/images/trinity_en.jpg)
 
 ## The souls under the altar
 
-The fifth seal opens on the souls of martyrs crying out from under the altar: "How long, Sovereign Lord, until you judge the inhabitants of the earth?" These are believers who saw through Satan's counterfeit and paid for it with their lives. They're given white robes - Jesus' own verdict that they were right - and told to wait a little longer, while others still haven't yet seen what they've seen.
+The fifth seal is not a disaster but a question. Under an altar are people killed for what they said, and they call out: "How long, Sovereign Lord, until you judge the inhabitants of the earth?" Nobody corrects them for asking. They are given white robes - the book's way of saying the verdict has gone in their favour - and told to wait a little longer.
 
-That's the book's ongoing tension: the longer this age lasts, the more people have the chance to recognize the truth and turn to Jesus - but the longer it lasts, the longer the faithful keep suffering for a truth others haven't grasped yet.
+That wait is the tension the whole book lives in. The longer the end is delayed, the more time there is for people to change their minds; and the longer it is delayed, the longer those already paying the price go on paying it.
 
 ## When it ends
 
-The sixth seal shows that ending will come, decisively - not a drawn-out struggle but a dramatic, final act. People everywhere are terrified of "the wrath of the Lamb," though the text leaves open exactly why: their own guilty conscience, simple fear of real power, or the assumption - based on Satan's counterfeit - that Jesus will deal with them the same way the beast would have.
+The sixth seal answers "how long" with a picture rather than a date: the sun goes black, the moon turns the colour of blood, the stars fall, and everyone from kings to slaves hides in the rocks from "the wrath of the Lamb".
+
+That phrase is deliberately the wrong way round - a lamb is the least frightening animal there is - and the text never says what the people hiding are actually afraid of. Their own consciences, or power as such, or a lamb they assume will behave the way the conquering rider did: the chapter leaves the question open.
 
 [Read the fuller explanation →]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}})
