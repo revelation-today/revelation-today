@@ -22,11 +22,11 @@ The chapter opens with angels holding back destruction until God's servants are 
 
 What John *hears* next is a count: an army of 144,000, 12,000 from each tribe of Israel, echoing the census taken in the wilderness during the Exodus - a reminder, in the middle of all this tension, of the church's roots in Israel.
 
-But what John *sees* when he looks is entirely different: an uncountable multitude "from every nation, tribe, people and language," worshiping before the throne, identified as those who have "come out of the great tribulation." First-century readers steeped in apocalyptic expectation would have expected the Messiah to lead a literal military conquest - this is something else. The church's real weapons turn out to be worship (loyalty to God) and patient endurance (testimony to others), carried out in the presence of the Lamb.
+But what John *sees* when he looks is entirely different: an uncountable multitude "from every nation, tribe, people and language," worshiping before the throne, identified as those who have "come out of the great tribulation." First-century readers steeped in apocalyptic expectation would have expected the Messiah to lead a literal military conquest - this is something else. In this picture the weapons are worship - which here means loyalty to God rather than singing - and patient endurance, which is what testifies to everyone watching.
 
 ## What is the Great Tribulation?
 
-The Great Tribulation isn't only a future event still to come - Revelation ties it to something that already began: Jesus' death on the cross and Satan's expulsion from heaven (a scene described later, in chapter 12). Before that, God's people mainly suffered as the *consequence* of their own sin. Since then, faithful suffering that has nothing to do with wrongdoing has become part of what it means to follow Jesus - the pattern the martyrs under the altar were already caught up in.
+The Great Tribulation isn't only a future event still to come - Revelation ties it to something that already began: Jesus' death on the cross and Satan's expulsion from heaven (a scene described later, in chapter 12). Before that, God's people mainly suffered as the *consequence* of their own sin. Since then, the book presents suffering that has nothing to do with wrongdoing as part of following Jesus - the pattern the martyrs under the altar were already caught up in.
 
 ![](/images/Drangsal_en.jpg)
 

@@ -14,13 +14,13 @@ kids: /kids/elementary/14-the-harlot-and-the-bride
 
 ## Unmasking the harlot
 
-Just as the seals and trumpets each had a supplementary vision, this section supplements the bowls, gathering everything evil we've seen so far into one complex image: a harlot named Babylon, riding a beast that controls the kings of the earth, manipulating rulers and killing the saints.
+Just as the seals and the trumpets each had a supplementary vision, this section supplements the bowls, gathering everything evil so far into one image: a harlot named Babylon, riding a beast that controls the kings of the earth, manipulating rulers and killing those who testify.
 
 ![](/images/Hure+Tier_en.jpg)
 
 It looks unstoppable - but the same beast that seemed invincible in chapter 13 is now openly mocked as unreliable, a fading imitation next to the God who truly "is, and was, and is to come" ({{% bible val="Revelation 1:8" link="rev:1,8" lang="en" %}}). Neither beast nor harlot ultimately triumphs over the saints; instead, the very kings who empowered the beast turn and destroy the harlot themselves - because God has planned it that way all along.
 
-The harlot is the dark counterpart to the Bride of Christ (the church), representing economic and financial power dressed up to look attractive - close enough to the bride's own appearance that believers looking for an easier, more prosperous path could mistake her hospitality for legitimate blessing.
+The harlot is the dark counterpart to the bride, which in this book is the church: economic and financial power dressed to look attractive - close enough to the bride's own appearance that anyone hoping for an easier, more prosperous path could take her hospitality for a blessing.
 
 ## Her impact and her judgment
 
@@ -30,7 +30,7 @@ When Jesus intervenes, it's the harlot - not the church - who becomes the target
 
 ![](/images/Hure_en.jpg)
 
-Why does the book spend more than two chapters on her? Because being "part of" the harlot ({{% bible val="Revelation 18:4" link="rev:18,4" lang="en" %}}) - trading faithfulness for wealth, the way idolatry and commerce were linked in the Old Testament - reshapes how we treat people, from love toward exploitation.
+Why does the book spend more than two chapters on her? Because being "part of" the harlot ({{% bible val="Revelation 18:4" link="rev:18,4" lang="en" %}}) - trading loyalty for wealth, the way worship and commerce were tied together in the ancient world - changes how people get treated, from care toward use.
 
 ## And now?
 

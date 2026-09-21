@@ -15,7 +15,7 @@ kids: /kids/elementary/03-the-seven-letters
 
 {{% bible val="Chapter 2" link="rev:2" lang="en" %}} and {{% bible val="3" link="rev:3" lang="en" %}}.
 
-Jesus now measures each of the seven churches against the vision from chapter 1 - and the results are mixed. Only two churches receive nothing but praise: Smyrna and Philadelphia, both suffering under persecution or poverty. Two receive no praise at all: Ephesus and Laodicea. The rest fall somewhere in between.
+These are seven real congregations in seven real cities of the Roman province of Asia, in what is now western Turkey. Each is measured against the vision of chapter 1 - and the results are mixed. Only two churches receive nothing but praise: Smyrna and Philadelphia, both suffering under persecution or poverty. Two receive no praise at all: Ephesus and Laodicea. The rest fall somewhere in between.
 
 The seven are arranged in a deliberate, symmetric pattern:
 

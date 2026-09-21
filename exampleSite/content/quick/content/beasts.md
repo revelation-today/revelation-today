@@ -20,9 +20,9 @@ However convincing the counterfeit looks at first, the differences are decisive.
 
 ![](/images/trinity_en.jpg)
 
-That contrast is exactly what should distinguish the church from everyone taken in by the counterfeit: not greater power, but a willingness to love without needing fear or manipulation to back it up.
+That contrast is what the book says should mark out the churches from everyone taken in by the counterfeit: not greater power, but a willingness to love without fear or manipulation behind it.
 
-The second beast is described with "two horns like a lamb, but it spoke like a dragon" ({{% bible val="Revelation 13:11" link="rev:13,11" lang="en" %}}) - close enough to the real Lamb to fool almost everyone. The one thing that gives it away is its voice - and only those who already know Jesus' voice can tell the difference.
+The second beast is described with "two horns like a lamb, but it spoke like a dragon" ({{% bible val="Revelation 13:11" link="rev:13,11" lang="en" %}}) - close enough to the real Lamb to fool almost everyone. The one thing that gives it away is its voice - which means the difference is audible only to someone who already knows the original.
 
 As for the number 666: rather than a code naming one specific future individual, it functions as Revelation's own verdict on this whole counterfeit trinity - one short of the completeness represented by 777, a spectacular, three-times-repeated failure.
 

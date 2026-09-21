@@ -19,7 +19,7 @@ kids: /kids/elementary/04-worship-in-heaven
 
 Before anything else happens, John is given a glimpse into heaven's throne room - and it's the answer to everything the seven churches were struggling with. God is not panicking. Everyone and everything in the room finds its true place in relation to him, and all give him glory, laying down whatever claims to status they might otherwise hold onto.
 
-That kind of worship is the real cure for what ailed Ephesus, Sardis, and Laodicea: knowing God rightly protects against wrong teaching and against a distorted view of ourselves, and full submission to him is what lets a church trust his provision and take real risks for him, the way Smyrna and Philadelphia already were.
+In the book's logic, that is the cure for what ailed Ephesus, Sardis and Laodicea: seeing God as he is protects a church from bad teaching and from an inflated or crushed view of itself, and handing everything over is what frees it to take real risks, the way Smyrna and Philadelphia already were.
 
 ## Where the plagues come from
 
