@@ -14,13 +14,13 @@ kids: /kids/elementary/14-the-harlot-and-the-bride
 
 ## Die Hure wird entlarvt
 
-So wie die Siegel und die Posaunen jeweils eine ergänzende Vision hatten, ergänzt dieser Abschnitt die Schalen und fasst alles Böse, das wir bisher gesehen haben, in einem komplexen Bild zusammen: eine Hure namens Babylon, die auf einem Tier reitet, das die Könige der Erde beherrscht, die Herrscher manipuliert und die Heiligen tötet.
+So wie die Siegel und die Posaunen jeweils eine ergänzende Vision hatten, ergänzt dieser Abschnitt die Schalen und fasst alles bisherige Böse in einem Bild zusammen: eine Hure namens Babylon, die auf einem Tier reitet, das die Könige der Erde beherrscht, die Herrscher manipuliert und die tötet, die Zeugnis ablegen.
 
 ![](/images/Hure+Tier_de.jpg)
 
 Das sieht unaufhaltsam aus - doch dasselbe Tier, das in Kapitel 13 unbesiegbar schien, wird jetzt offen als unzuverlässig verspottet, eine verblassende Nachahmung neben dem Gott, der wirklich der ist, "der ist und der war und der kommt" ({{% bible val="Offenbarung 1,8" link="rev:1,8" lang="de" %}}). Weder Tier noch Hure triumphieren am Ende über die Heiligen; stattdessen wenden sich genau die Könige, die dem Tier ihre Macht gegeben haben, gegen die Hure und vernichten sie selbst - weil Gott es von Anfang an so geplant hat.
 
-Die Hure ist das dunkle Gegenstück zur Braut Christi (der Gemeinde) und steht für wirtschaftliche und finanzielle Macht, die sich attraktiv herausgeputzt hat - der Erscheinung der Braut ähnlich genug, dass Gläubige auf der Suche nach einem leichteren, wohlhabenderen Weg ihre Gastfreundschaft für echten Segen halten könnten.
+Die Hure ist das dunkle Gegenstück zur Braut, die in diesem Buch für die Gemeinde steht: wirtschaftliche und finanzielle Macht, die sich attraktiv herausgeputzt hat - der Erscheinung der Braut ähnlich genug, dass jeder, der auf einen leichteren, wohlhabenderen Weg hofft, ihre Gastfreundschaft für einen Segen halten könnte.
 
 ## Ihre Wirkung und ihr Gericht
 
@@ -30,7 +30,7 @@ Als Jesus eingreift, wird die Hure - nicht die Gemeinde - zum Ziel, gerichtet vo
 
 ![](/images/Hure_de.jpg)
 
-Warum widmet das Buch ihr mehr als zwei Kapitel? Weil es uns verändert, "Teil" der Hure zu sein ({{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}}) - Treue gegen Reichtum einzutauschen, so wie Götzendienst und Handel im Alten Testament verknüpft waren, formt unseren Umgang mit Menschen um: von Liebe zu Ausbeutung.
+Warum widmet das Buch ihr mehr als zwei Kapitel? Weil es etwas verändert, "Teil" der Hure zu sein ({{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}}): Loyalität gegen Reichtum einzutauschen, so wie Kult und Handel in der antiken Welt miteinander verflochten waren, verändert, wie mit Menschen umgegangen wird - von Fürsorge hin zu Benutzung.
 
 ## Und jetzt?
 

@@ -14,22 +14,24 @@ kids: /kids/elementary/05-the-seals
 
 ## Keempat penunggang kuda
 
-Setelah Yesus terbukti layak membuka gulungan kitab itu, satu hal harus terjadi terlebih dahulu: menyingkapkan dia yang mengklaim kewenangan yang sama - Iblis.
+Gulungan kitab dari pasal 5 dibuka meterai demi meterai, dan keempat meterai pertama mengutus para penunggang di atas kuda-kuda yang berwarna-warni.
 
-Keempat meterai pertama melakukan tepat hal itu. Penunggang kuda Iblis mula-mula tampil di atas kuda putih, tampak berjaya, bermahkota, penuh janji - tetapi seiring meterai-meterai berikutnya dibuka, penunggang yang sama tersingkap membawa perang, lalu kesulitan ekonomi bagi orang miskin sementara orang kaya tak tersentuh, lalu kematian dan kehancuran. Bersama-sama keempat penunggang kuda itu menggemakan keempat penghakiman yang Allah peringatkan melalui para nabi: binatang buas, pedang, kelaparan, sampar - dan kuda putih serta mahkota pinjaman penunggang pertama sudah mengisyaratkan binatang yang akan muncul kemudian dengan penyamaran yang sama.
+Yang pertama tampak seperti seorang penakluk: kuda putih, mahkota, panah, maju untuk menang. Ketiga penunggang di belakangnya menelanjangi gambaran itu - perang, lalu kelaparan yang membuat harga roti tak terjangkau oleh orang miskin sementara barang-barang mewah tetap tak tersentuh, lalu kematian. Bersama-sama keempatnya adalah daftar baku bencana yang diperingatkan para nabi Ibrani: binatang buas, pedang, kelaparan, sampar.
 
-Iblis tidak memiliki apa pun yang nyata untuk ditawarkan - hanya tiruan. Inilah kemunculan pertama trinitas tandingan yang terus berulang di sepanjang kitab ini: pola tiga bagian yang sama muncul lagi dalam {{% bible val="pasal 13" link="rev:13" lang="id" %}} dengan {{% int_link val="naga dan kedua binatang" link="/quick/content/beasts" %}}, dan lagi dalam {{% bible val="pasal 17" link="rev:17" lang="id" %}} dengan {{% int_link val="pelacur dan binatang itu" link="/quick/content/harlot" %}} - setiap kali menyingkapkan tiruan kosong yang sama atas kuasa Kristus yang sejati.
+Penunggang pertama itulah yang diperdebatkan para pembaca, sebab Kristus sendiri menunggang kuda putih di bagian akhir kitab ini ({{% bible val="pasal 19" link="rev:19" lang="id" %}}). Kitab Wahyu berulang kali menghadirkan tokoh-tokoh yang mirip seperti ini, dan pendiriannya adalah bahwa kuasa yang menjanjikan kemenangan di sini hanyalah tiruan: ia sanggup menaklukkan, menakut-nakuti dan membuat orang kelaparan, tetapi tidak menciptakan apa pun dari dirinya sendiri. Tiruan tiga bagian yang sama muncul lagi dalam {{% bible val="pasal 13" link="rev:13" lang="id" %}} dengan {{% int_link val="naga dan kedua binatang" link="/quick/content/beasts" %}}, dan dalam {{% bible val="pasal 17" link="rev:17" lang="id" %}} dengan {{% int_link val="pelacur dan binatang itu" link="/quick/content/harlot" %}}.
 
 ![](/images/trinity_en.jpg)
 
 ## Jiwa-jiwa di bawah mezbah
 
-Meterai kelima menampakkan jiwa-jiwa para martir yang berseru dari bawah mezbah: "Berapa lama lagi, ya Penguasa yang kudus, hingga Engkau menghakimi penduduk bumi?" Mereka adalah orang-orang percaya yang telah melihat menembus tiruan Iblis dan membayarnya dengan nyawa mereka. Mereka diberi jubah putih - putusan Yesus sendiri bahwa mereka benar - dan diminta menanti sedikit waktu lagi, sementara orang-orang lain belum melihat apa yang telah mereka lihat.
+Meterai kelima bukanlah bencana, melainkan sebuah pertanyaan. Di bawah sebuah mezbah ada orang-orang yang dibunuh karena apa yang mereka katakan, dan mereka berseru: "Berapa lama lagi, ya Penguasa yang kudus, hingga Engkau menghakimi penduduk bumi?" Tidak ada yang menegur mereka karena bertanya. Mereka diberi jubah putih - cara kitab ini mengatakan bahwa putusan jatuh di pihak mereka - dan diminta menanti sedikit waktu lagi.
 
-Itulah ketegangan yang terus berjalan dalam kitab ini: semakin lama zaman ini berlangsung, semakin banyak orang berkesempatan mengenali kebenaran dan berbalik kepada Yesus - tetapi semakin lama zaman ini berlangsung, semakin lama pula orang-orang setia terus menderita demi kebenaran yang belum dipahami orang lain.
+Penantian itulah ketegangan yang menjiwai seluruh kitab ini. Semakin lama akhir itu ditunda, semakin banyak waktu bagi orang untuk berubah pikiran; dan semakin lama ditunda, semakin lama pula mereka yang sudah membayar harganya terus membayar.
 
 ## Ketika semuanya berakhir
 
-Meterai keenam menunjukkan bahwa akhir itu akan datang, dengan tegas - bukan pergumulan yang berlarut-larut, melainkan tindakan akhir yang dramatis. Orang-orang di mana-mana ketakutan akan "murka Anak Domba", meskipun teksnya membiarkan terbuka apa persisnya alasannya: hati nurani mereka sendiri yang bersalah, ketakutan belaka terhadap kuasa yang nyata, atau anggapan - berdasarkan tiruan Iblis - bahwa Yesus akan memperlakukan mereka sebagaimana binatang itu akan memperlakukan mereka.
+Meterai keenam menjawab "berapa lama lagi" dengan sebuah gambaran, bukan dengan tanggal: matahari menjadi hitam, bulan menjadi merah seperti darah, bintang-bintang berjatuhan, dan semua orang, dari raja sampai budak, bersembunyi di celah-celah batu dari "murka Anak Domba".
+
+Ungkapan itu sengaja dibalik - anak domba adalah binatang yang paling tidak menakutkan - dan teksnya tidak pernah mengatakan apa yang sebenarnya ditakuti orang-orang yang bersembunyi itu. Hati nurani mereka sendiri, atau kuasa itu sendiri, atau seekor anak domba yang mereka kira akan berlaku seperti penunggang penakluk tadi: pasal ini membiarkan pertanyaan itu terbuka.
 
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}})

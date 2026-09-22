@@ -22,11 +22,11 @@ Bölüm, Tanrı'nın kulları mühürlenene dek yıkımı geride tutan meleklerl
 
 Yuhanna'nın bundan sonra *işittiği* şey bir sayımdır: 144.000 kişilik bir ordu, İsrail'in her oymağından 12.000 kişi — Mısır'dan Çıkış sırasında çölde yapılan sayımı yansıtır ve tüm bu gerilimin ortasında kilisenin İsrail'deki köklerini hatırlatır.
 
-Ama Yuhanna baktığında *gördüğü* şey bambaşkadır: "her ulustan, her oymaktan, her halktan ve her dilden" tahtın önünde tapınan, sayılamayacak kadar büyük bir kalabalık — "büyük sıkıntıdan geçip gelenler" olarak tanımlanırlar. Apokaliptik beklentiyle yoğrulmuş birinci yüzyıl okuyucuları, Mesih'in gerçek anlamda askeri bir fetih yöneteceğini beklerdi — buysa başka bir şeydir. Kilisenin gerçek silahlarının tapınma (Tanrı'ya sadakat) ve sabırla dayanma (başkalarına tanıklık) olduğu ortaya çıkar — hepsi Kuzu'nun huzurunda yürütülür.
+Ama Yuhanna baktığında *gördüğü* şey bambaşkadır: "her ulustan, her oymaktan, her halktan ve her dilden" tahtın önünde tapınan, sayılamayacak kadar büyük bir kalabalık — "büyük sıkıntıdan geçip gelenler" olarak tanımlanırlar. Apokaliptik beklentiyle yoğrulmuş birinci yüzyıl okuyucuları, Mesih'in gerçek anlamda askeri bir fetih yöneteceğini beklerdi — buysa başka bir şeydir. Bu tabloda silahlar tapınma ve sabırla dayanmadır. Tapınma burada ilahi söylemek değil, Tanrı'ya sadakat demektir; sabırla dayanma ise izleyen herkese tanıklık eden şeydir.
 
 ## Büyük Sıkıntı nedir?
 
-Büyük Sıkıntı yalnızca hâlâ gelecekte olan bir olay değildir — Vahiy onu çoktan başlamış bir şeye bağlar: İsa'nın çarmıhtaki ölümüne ve Şeytan'ın gökten kovulmasına (daha sonra, 12. bölümde anlatılan bir sahne). Bundan önce Tanrı'nın halkı esas olarak kendi günahının *sonucu* olarak acı çekiyordu. O zamandan beri, hiçbir suçla ilgisi olmayan sadık acı çekiş, İsa'yı izlemenin bir parçası haline geldi — sunağın altındaki şehitlerin zaten içine çekildiği örüntü budur.
+Büyük Sıkıntı yalnızca hâlâ gelecekte olan bir olay değildir — Vahiy onu çoktan başlamış bir şeye bağlar: İsa'nın çarmıhtaki ölümüne ve Şeytan'ın gökten kovulmasına (daha sonra, 12. bölümde anlatılan bir sahne). Bundan önce Tanrı'nın halkı esas olarak kendi günahının *sonucu* olarak acı çekiyordu. O zamandan beri kitap, hiçbir suçla ilgisi olmayan acı çekişi İsa'yı izlemenin bir parçası olarak sunar — sunağın altındaki şehitlerin zaten içine çekildiği örüntü budur.
 
 ![](/images/Drangsal_tr.jpg)
 

@@ -22,11 +22,11 @@ Das Kapitel beginnt damit, dass Engel die Zerstörung zurückhalten, bis die Kne
 
 Was Johannes als Nächstes *hört*, ist eine Zählung: ein Heer von 144.000, je 12.000 aus jedem Stamm Israels - ein Echo der Musterung in der Wüste beim Auszug aus Ägypten und mitten in all dieser Spannung eine Erinnerung an die Wurzeln der Gemeinde in Israel.
 
-Doch was Johannes *sieht*, als er hinschaut, ist etwas ganz anderes: eine unzählbare Menge "aus allen Nationen, Stämmen, Völkern und Sprachen", die vor dem Thron anbetet und als die bezeichnet wird, die "aus der großen Trübsal kommen". Leser des ersten Jahrhunderts, geprägt von apokalyptischer Erwartung, hätten mit einem Messias gerechnet, der einen buchstäblichen militärischen Eroberungszug anführt - hier geschieht etwas anderes. Die wahren Waffen der Gemeinde sind Anbetung (Treue zu Gott) und geduldiges Ausharren (Zeugnis für andere), gelebt in der Gegenwart des Lammes.
+Doch was Johannes *sieht*, als er hinschaut, ist etwas ganz anderes: eine unzählbare Menge "aus allen Nationen, Stämmen, Völkern und Sprachen", die vor dem Thron anbetet und als die bezeichnet wird, die "aus der großen Trübsal kommen". Leser des ersten Jahrhunderts, geprägt von apokalyptischer Erwartung, hätten mit einem Messias gerechnet, der einen buchstäblichen militärischen Eroberungszug anführt - hier geschieht etwas anderes. In diesem Bild sind die Waffen Anbetung - was hier Treue zu Gott meint, nicht Singen - und geduldiges Ausharren, das allen, die zuschauen, ein Zeugnis ist.
 
 ## Was ist die Große Trübsal?
 
-Die Große Trübsal ist nicht nur ein zukünftiges Ereignis, das noch aussteht - die Offenbarung verbindet sie mit etwas, das bereits begonnen hat: dem Tod Jesu am Kreuz und der Vertreibung Satans aus dem Himmel (eine Szene, die später in Kapitel 12 beschrieben wird). Davor litt Gottes Volk vor allem als *Folge* der eigenen Sünde. Seitdem gehört treues Leiden, das nichts mit eigener Schuld zu tun hat, zur Nachfolge Jesu dazu - genau das Muster, in dem die Märtyrer unter dem Altar schon standen.
+Die Große Trübsal ist nicht nur ein zukünftiges Ereignis, das noch aussteht - die Offenbarung verbindet sie mit etwas, das bereits begonnen hat: dem Tod Jesu am Kreuz und der Vertreibung Satans aus dem Himmel (eine Szene, die später in Kapitel 12 beschrieben wird). Davor litt Gottes Volk vor allem als *Folge* der eigenen Sünde. Seitdem stellt das Buch Leiden, das nichts mit eigener Schuld zu tun hat, als Teil der Nachfolge Jesu dar - genau das Muster, in dem die Märtyrer unter dem Altar schon standen.
 
 ![](/images/Drangsal_de.jpg)
 

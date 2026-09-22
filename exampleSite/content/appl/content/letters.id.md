@@ -13,9 +13,18 @@ Tujuh gereja, tujuh situasi yang sangat berbeda, dan Yesus tidak pernah mengirim
 
 Latihan yang tidak nyaman ini bukan memilih gerejamu yang favorit. Ini soal menyadari surat mana yang sebenarnya akan kamu terima minggu ini jika Yesus menulis kepadamu langsung, bukan yang ingin kamu terima.
 
+Perhatikan bagaimana setiap surat dibuka. Bukan dengan apa yang dikatakan jemaat itu tentang dirinya sendiri, dan bukan dengan jumlah anggotanya, melainkan dengan "Aku tahu" — Aku tahu perbuatanmu, tekananmu, kemiskinanmu, nama baikmu. Surat-surat ini ditulis dari luar, oleh seseorang yang selama ini memperhatikan. Laodikia mengira dirinya kaya. Sardis punya nama sebagai jemaat yang hidup. Smirna, yang merasa miskin, diberi tahu bahwa ia kaya. Dalam setiap kasus, penilaian jemaat tentang dirinya sendiri dan penilaian Yesus tentang jemaat itu adalah dua dokumen yang berbeda.
+
+Karena itu menebak-nebak adalah cara yang keliru di sini. Bacalah ketujuh surat itu sekali dari awal sampai akhir dan tandai kalimat yang menyengat, bukan kalimat yang menyanjung. Lalu, kalau kamu berani, tanyakan kepada seseorang yang mengenalmu dengan baik surat mana dari ketujuh itu yang paling mirip dengan dirimu. Biasanya mereka menjawab lebih cepat daripada yang kamu harapkan.
+
+Sardis adalah kasus yang paling sulit, sebab tidak ada yang terasa salah di sana. Tidak ada ajaran sesat, tidak ada penganiayaan, tidak ada skandal — hanya nama baik yang bertahan lebih lama daripada hal yang menjadi dasarnya. Dan resepnya kecil dan tidak mengesankan: bangunlah, kuatkan apa yang masih tersisa, ingatlah apa yang kamu terima pada mulanya, dan peganglah itu. Bukan program baru. Kembalinya sesuatu yang sebenarnya sudah ada.
+
+Surat mana pun yang mengenaimu, akhirnya sama di ketujuh surat: sebuah janji bagi "barangsiapa menang", yang dalam kitab ini tidak pernah berarti berjaya, melainkan hanya tetap setia. Laodikia sama sekali tidak mendapat pujian, tetapi tetap mendapat ketukan di pintu. Jika diam-diam kamu sudah menyimpulkan bahwa kamu terlalu jauh untuk masih diinginkan, pintu itulah bagian pasal ini yang paling perlu kamu percayai.
+
 ## Pertanyaan untuk direnungkan
 
 - Jika Yesus menulis surat kepada gerejamu — atau kepadamu secara pribadi — minggu ini, surat mana dari ketujuh itu yang paling mirip, dan apa satu hal yang akan Dia minta kamu lakukan secara berbeda?
+- Di manakah penilaianmu sendiri tentang keadaanmu berbeda dari apa yang akan ditulis oleh seseorang yang memperhatikanmu dengan saksama?
 - Laodikia tidak menerima pujian dan tetap mendapat ketukan di pintu. Di manakah kamu perlu percaya bahwa itu juga berlaku bagimu, alih-alih menganggap dirimu sudah terlalu jauh untuk masih diinginkan?
 
 ## Doa

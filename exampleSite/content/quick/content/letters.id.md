@@ -15,7 +15,7 @@ kids: /kids/elementary/03-the-seven-letters
 
 {{% bible val="Pasal 2" link="rev:2" lang="id" %}} dan {{% bible val="3" link="rev:3" lang="id" %}}.
 
-Sekarang Yesus mengukur masing-masing dari ketujuh jemaat dengan penglihatan dari pasal 1 - dan hasilnya beragam. Hanya dua jemaat yang menerima pujian semata: Smirna dan Filadelfia, keduanya menderita di bawah penganiayaan atau kemiskinan. Dua jemaat sama sekali tidak menerima pujian: Efesus dan Laodikia. Sisanya berada di antara keduanya.
+Ketujuh jemaat ini adalah jemaat yang sungguh-sungguh ada di tujuh kota yang sungguh-sungguh ada di provinsi Romawi Asia, di wilayah yang sekarang menjadi Turki bagian barat. Masing-masing diukur dengan penglihatan pasal 1 - dan hasilnya beragam. Hanya dua jemaat yang menerima pujian semata: Smirna dan Filadelfia, keduanya menderita di bawah penganiayaan atau kemiskinan. Dua jemaat sama sekali tidak menerima pujian: Efesus dan Laodikia. Sisanya berada di antara keduanya.
 
 Ketujuh jemaat itu disusun dalam pola yang disengaja dan simetris:
 

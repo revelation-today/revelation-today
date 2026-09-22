@@ -15,7 +15,7 @@ kids: /kids/elementary/03-the-seven-letters
 
 {{% bible val="Kapitel 2" link="rev:2" lang="de" %}} und {{% bible val="3" link="rev:3" lang="de" %}}.
 
-Jesus misst nun jede der sieben Gemeinden an der Vision aus Kapitel 1 - und das Ergebnis ist gemischt. Nur zwei Gemeinden bekommen ausschließlich Lob: Smyrna und Philadelphia, beide leiden unter Verfolgung oder Armut. Zwei bekommen überhaupt kein Lob: Ephesus und Laodizea. Die übrigen liegen irgendwo dazwischen.
+Es sind sieben wirkliche Gemeinden in sieben wirklichen Städten der römischen Provinz Asia, im Westen der heutigen Türkei. Jede wird an der Vision aus Kapitel 1 gemessen - und das Ergebnis ist gemischt. Nur zwei Gemeinden bekommen ausschließlich Lob: Smyrna und Philadelphia, beide leiden unter Verfolgung oder Armut. Zwei bekommen überhaupt kein Lob: Ephesus und Laodizea. Die übrigen liegen irgendwo dazwischen.
 
 Die sieben sind in einem bewussten, symmetrischen Muster angeordnet:
 

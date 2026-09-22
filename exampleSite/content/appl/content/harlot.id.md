@@ -13,9 +13,18 @@ Perempuan sundal itu memukau, berhiaskan perhiasan yang seharusnya menjadi milik
 
 Seluruh tawaran Babel adalah bahwa kamu bisa mendapatkan berkat tanpa kepemilikan — upah tanpa hubungan yang seharusnya menjadi sumbernya. Tawaran itu masih terus dibuat, hanya jarang dengan label nama yang jelas.
 
+Kamu mendengarnya dalam janji bahwa metode yang tepat pasti akan membuahkan hasil: rumus doa, sistem mengasuh anak, model gereja, investasi yang tidak mungkin gagal. Kamu mendengarnya dalam iman yang dipertahankan karena apa yang diberikannya — komunitas, ketenangan, pegangan moral untuk anak-anak — sementara Pribadi yang menjadi pusatnya tidak diajak bicara selama berbulan-bulan. Tidak satu pun dari itu memperkenalkan dirinya sebagai pengkhianatan. Rasanya justru seperti bersikap masuk akal.
+
+Yang membuat pasal ini menakutkan bukanlah kejahatannya, melainkan keramahannya. Babel dalam kitab ini, pada titik ini, bukan kuasa yang menganiaya; ia adalah keramahan, perdagangan, dan kenyamanan, dan raja-raja serta para pedagang yang meratapinya sedang meratapi pasar yang hilang. Ketika ia jatuh, yang mereka rindukan adalah penghasilannya. Itulah pertanyaan tajam yang perlu diajukan kepada apa saja yang menawarkan berkat kepadamu: apa persisnya yang akan membuatmu sedih kehilangannya jika hal itu berakhir besok?
+
+Dan seruan di tengah semua itu bukanlah tuntutan untuk melawannya. Seruannya adalah "pergilah kamu dari padanya, hai umat-Ku" — soal memisahkan diri, bukan soal bertempur, soal menyadari apa yang sedang kamu minum. Karena perempuan sundal itu berpakaian dengan apa yang menjadi milik sang mempelai, membedakan keduanya butuh lebih dari selera. Ujiannya bukan seberapa bagus tawaran itu terlihat, melainkan apa yang dimintanya: panggilan sang mempelai selalu berarti menjadi milik seseorang, dan selalu ada harganya sekarang.
+
+Jadi sebutkan cawan yang sedang disodorkan kepadamu saat ini — sebuah hasil, sebuah rasa aman, sebuah status — dan tanyakan apakah yang ditawarkannya bisa didapat tanpa Yesus sendiri. Jika bisa, kamu sudah menemukan tawaran Babel. Mundurlah satu langkah darinya minggu ini, dan melangkahlah satu langkah mendekat kepada Pribadi yang seharusnya datang bersama berkat itu.
+
 ## Pertanyaan untuk direnungkan
 
 - "Cawan" apa yang sedang ditawarkan kepadamu sekarang, yang menjanjikan semacam berkat tanpa menuntut kesetiaan sungguhan kepada Yesus sebagai balasannya?
+- Jika imanmu berhenti memberikan manfaatnya — komunitas, ketenangan, nama baik — apa yang akan tersisa darinya?
 - Bagaimana kamu akan membedakan, dalam hidupmu sendiri, antara panggilan sang mempelai dan tawaran perempuan sundal itu, jika keduanya sama-sama menarik minggu ini?
 
 ## Doa

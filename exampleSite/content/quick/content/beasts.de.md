@@ -20,9 +20,9 @@ So überzeugend die Fälschung auf den ersten Blick wirkt - die Unterschiede sin
 
 ![](/images/trinity_de.jpg)
 
-Genau dieser Kontrast sollte die Gemeinde von allen unterscheiden, die auf die Fälschung hereinfallen: nicht größere Macht, sondern die Bereitschaft zu lieben, ohne Angst oder Manipulation als Rückhalt zu brauchen.
+Genau an diesem Kontrast, so sagt das Buch, sollen sich die Gemeinden von allen unterscheiden, die auf die Fälschung hereinfallen: nicht an größerer Macht, sondern an der Bereitschaft zu lieben, ohne Angst oder Manipulation im Rücken.
 
-Das zweite Tier wird beschrieben mit "zwei Hörnern wie ein Lamm, aber es redete wie ein Drache" ({{% bible val="Offenbarung 13,11" link="rev:13,11" lang="de" %}}) - dem echten Lamm ähnlich genug, um fast alle zu täuschen. Das Einzige, was es verrät, ist seine Stimme - und nur wer die Stimme Jesu schon kennt, hört den Unterschied.
+Das zweite Tier wird beschrieben mit "zwei Hörnern wie ein Lamm, aber es redete wie ein Drache" ({{% bible val="Offenbarung 13,11" link="rev:13,11" lang="de" %}}) - dem echten Lamm ähnlich genug, um fast alle zu täuschen. Das Einzige, was es verrät, ist seine Stimme - und den Unterschied hört also nur, wer das Original schon kennt.
 
 Und die Zahl 666: Statt ein Code zu sein, der eine bestimmte zukünftige Einzelperson benennt, ist sie das eigene Urteil der Offenbarung über diese ganze gefälschte Dreieinigkeit - jeweils eins zu wenig gegenüber der Vollkommenheit der 777, ein spektakuläres, dreifach wiederholtes Scheitern.
 

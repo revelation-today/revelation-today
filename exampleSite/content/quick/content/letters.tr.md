@@ -15,7 +15,7 @@ kids: /kids/elementary/03-the-seven-letters
 
 {{% bible val="Bölüm 2" link="rev:2" lang="tr" %}} ve {{% bible val="3" link="rev:3" lang="tr" %}}.
 
-İsa şimdi yedi kilisenin her birini 1. bölümdeki görüme göre ölçer — ve sonuçlar karışıktır. Yalnızca iki kilise sadece övgü alır: her ikisi de zulüm ya da yoksulluk altında acı çeken İzmir ve Filadelfya. İki kilise ise hiç övgü almaz: Efes ve Laodikya. Geri kalanlar bu ikisinin arasında bir yerdedir.
+Bunlar, Roma'nın Asya eyaletinde, bugünkü Türkiye'nin batısında yer alan yedi gerçek kentteki yedi gerçek cemaattir. Her biri 1. bölümdeki görüme göre ölçülür — ve sonuçlar karışıktır. Yalnızca iki kilise sadece övgü alır: her ikisi de zulüm ya da yoksulluk altında acı çeken İzmir ve Filadelfya. İki kilise ise hiç övgü almaz: Efes ve Laodikya. Geri kalanlar bu ikisinin arasında bir yerdedir.
 
 Yedi kilise bilinçli, simetrik bir düzende sıralanmıştır:
 

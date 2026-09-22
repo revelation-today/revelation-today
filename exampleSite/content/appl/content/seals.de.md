@@ -11,12 +11,21 @@ docType: appl
 
 Eroberung weicht dem Krieg, Krieg der Hungersnot, Hungersnot dem Tod — und unter dem Altar schreien die Seelen der Treuen mit einer Stimme die ehrliche Frage: Wie lange noch, Herr, bis du die Erde richtest? Sie werden für diese Frage nicht getadelt. Ihnen wird gesagt, noch ein wenig zu warten.
 
-Das ist ein besseres Vorbild, als entweder so zu tun, als sei alles in Ordnung, oder den Glauben still zu verlieren, wenn es das nicht ist. Die Seelen unter dem Altar tun keins von beidem — sie bringen die echte Frage direkt vor Gott und warten dann, statt die Spannung aufzulösen, indem sie sich von ihm abwenden.
+Fast jeder trägt ein eigenes „Wie lange noch“ mit sich herum. Die Diagnose, an der sich auch nach der dritten Behandlungsrunde nichts geändert hat. Die Ehe, die seit vier Jahren „fast wieder gut“ ist. Das Kind, das nicht anruft. Der Krieg, der immer noch in den Nachrichten läuft, Monate nachdem sich alle einig waren, dass er unerträglich ist. Der Kollege, der lügt und dafür immer wieder befördert wird.
+
+Es gibt zwei übliche Auswege, und dieses Kapitel nimmt keinen von beiden. Der erste ist, so zu tun, als sei alles in Ordnung — nach dem aufgeräumten Satz zu greifen, dass alles aus einem Grund geschieht, der vor allem dazu dient, das Gespräch zu beenden. Der zweite ist, still zu werden: kein dramatischer Glaubensverlust, nur ein langsames Abdriften, bis du nichts mehr erwartest und nicht mehr fragst. Die Seelen unter dem Altar tun keins von beidem. Sie sprechen das Schwere laut aus, zu Gott, in dem Raum, in dem er ist — und dann bleiben sie.
+
+Achte darauf, was sie zurückbekommen. Keine Erklärung. Niemand sagt ihnen, wofür das Leiden gut war oder wie die Teile zusammenpassen. Sie bekommen ein weißes Gewand — das Urteil, dass sie im Recht waren, gegen eine Welt, die etwas anderes behauptet hat — und das Wort „wartet“. Wenn du beschlossen hast, Gott erst dann wieder zu vertrauen, wenn du die Erklärung hast, deutet dieses Kapitel leise an, dass du vielleicht auf das Falsche wartest. Was hier angeboten wird, ist ein Urteil und eine Gegenwart, und erst danach, viel später im Buch, ein Ende.
+
+Und das Warten ist echt. „Noch eine kleine Zeit“ dauert inzwischen sehr lange, und die ehrliche Deutung davon ist nicht, dass deine Frage zu klein wäre, um beantwortet zu werden, sondern dass derselbe Aufschub, der dich warten lässt, der Raum ist, in dem andere Menschen noch ihre Meinung ändern können.
+
+Also diese Woche: Sprich die eigentliche Frage aus, in den Worten, die du benutzen würdest, wenn kein frommer Mensch zuhörte, und sag sie zu Gott, nicht über ihn. Erzähl sie einem Menschen, der sie aushalten kann, ohne sie sofort lösen zu wollen. Und wenn du merkst, dass du die Frage entweder wegräumst oder verstummen lässt, dann nimm das als den Moment, sie wieder hervorzuholen, nicht als Beweis, dass Glaube nicht funktioniert.
 
 ## Fragen zum Nachdenken
 
-- Was ist die „Wie lange noch, Herr"-Frage, auf der du sitzt, ohne sie tatsächlich direkt vor Gott zu bringen?
-- Warten auf eine Antwort ist etwas anderes als aufzugeben. Was von beidem hat deine eigene Reaktion auf ungelöstes Leid zuletzt tatsächlich gewesen?
+- Was ist die „Wie lange noch, Herr“-Frage, auf der du sitzt, ohne sie tatsächlich direkt vor Gott zu bringen?
+- Warten auf eine Antwort ist etwas anderes als aufzugeben. Welches von beiden war zuletzt tatsächlich deine Reaktion auf ungelöstes Leid?
+- Würdest du Gott auch dann noch wollen, wenn die Antwort nie käme und du stattdessen das Gewand und seine Nähe bekämst?
 
 ## Gebet
 

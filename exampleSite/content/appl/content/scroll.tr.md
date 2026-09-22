@@ -13,10 +13,19 @@ Zor zamanlar hemen hemen her şeyi kırabilir — yanlış şeye bağlanmış bi
 
 Tanrı hakkındaki bazı gerçekler böyledir — kabul etmesi kolay, seni gerçekten değiştirmesi yavaş, çünkü bir şeye katılmakla onun hayatını yeniden şekillendirmesine izin vermek iki farklı eylemdir.
 
+Çoğumuzun bu türden kısa bir listesi vardır. Tanrı'nın bağışladığı gerçeği: bir tartışmada savunursun, ama tam da senin yaptığın o şey için buna pek inanamazsın. Yüreği kırık olanlara yakın olduğu gerçeği: cenazelerde başkalarına söylediğin bir sözdür. Ürettiklerinin toplamından ibaret olmadığın gerçeği: işteki bir sonraki haftaya kadar dayanır. Bunların hiçbirini yeniden öğrenmen gerekmez. Onları yemen gerekir.
+
+Bu resim yerinde bir resimdir, çünkü yemek yavaş ve kişisel bir iştir. Kimse bir gerçeği senin yerine sindiremez; onu daha keskin bir vaazda bir kez daha duymak da süreci hızlandırmaz. İşi gören, zaman içindeki tekrar ve ancak o şey doğruysa anlamlı olan ilk karardır: bağışlandığını hissetmeden önce dilenen özür, iş bitmeden önce verilen mola, seni daha az takdir edebilecek birine söylenen dürüst cümle.
+
+Tomarın hem tatlı hem acı olduğuna da dikkat et. Gerçekten içine işlemiş bir gerçek aynı hafta içinde seni hem teselli eder hem de sana bir şeye mal olur. Taşıdığın şey yalnızca tatlıysa, henüz midene ulaşmamış olabilir; yalnızca acıysa, Yuhanna'ya yemesi için verilen mesaj o olmayabilir.
+
+O halde birini seç. Tanrı hakkında inandığını söyleyeceğin, ama hiçbir konuda karar vermesine izin vermediğin tek bir cümle. Onu yedi gün boyunca yanında taşı — yazılı olarak, göreceğin bir yerde — ve haftanın sonunda, o olmadan vermeyeceğin bir karar ver.
+
 ## Düşünmek için sorular
 
 - İnandığını söyleyeceğin, ama hiç gerçekten sindirmediğin, Tanrı hakkında bir gerçek nedir — hızlıca kabul ettiğin ama nadiren gerçek bir kararı değiştirmesine izin verdiğin bir şey?
 - O gerçeğin artık sadece bir fikir olmaktan çıkması için bu hafta onunla yeterince uzun süre oturmak nasıl görünürdü?
+- Bu gerçek sana şimdiye kadar neye mal oldu, sana ne verdi? İkisi de olmadıysa, onu gerçekten yedin mi?
 
 ## Dua
 

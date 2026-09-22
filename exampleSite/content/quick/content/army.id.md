@@ -22,11 +22,11 @@ Pasal ini dibuka dengan para malaikat yang menahan kehancuran sampai hamba-hamba
 
 Apa yang *didengar* Yohanes berikutnya adalah sebuah penghitungan: pasukan berjumlah 144.000, 12.000 dari setiap suku Israel, menggemakan sensus yang diadakan di padang gurun pada masa keluaran dari Mesir - sebuah pengingat, di tengah segala ketegangan ini, akan akar gereja di dalam Israel.
 
-Tetapi apa yang *dilihat* Yohanes ketika ia memandang sama sekali berbeda: kumpulan besar yang tidak terhitung banyaknya "dari segala bangsa, suku, kaum dan bahasa," yang menyembah di hadapan takhta, yang dikenali sebagai mereka yang telah "keluar dari kesusahan yang besar." Para pembaca abad pertama yang akrab dengan pengharapan apokaliptik tentu menantikan Mesias memimpin penaklukan militer harfiah - ini sesuatu yang lain. Senjata gereja yang sesungguhnya ternyata adalah penyembahan (kesetiaan kepada Allah) dan ketekunan yang sabar (kesaksian bagi orang lain), yang dijalankan di hadirat Anak Domba.
+Tetapi apa yang *dilihat* Yohanes ketika ia memandang sama sekali berbeda: kumpulan besar yang tidak terhitung banyaknya "dari segala bangsa, suku, kaum dan bahasa," yang menyembah di hadapan takhta, yang dikenali sebagai mereka yang telah "keluar dari kesusahan yang besar." Para pembaca abad pertama yang akrab dengan pengharapan apokaliptik tentu menantikan Mesias memimpin penaklukan militer harfiah - ini sesuatu yang lain. Dalam gambaran ini senjatanya adalah penyembahan - yang di sini berarti kesetiaan kepada Allah, bukan nyanyian - dan ketekunan yang sabar, yang justru menjadi kesaksian bagi semua orang yang menyaksikannya.
 
 ## Apakah Kesusahan Besar itu?
 
-Kesusahan Besar bukan hanya peristiwa masa depan yang masih akan datang - kitab Wahyu mengaitkannya dengan sesuatu yang sudah dimulai: kematian Yesus di kayu salib dan pengusiran Iblis dari surga (adegan yang digambarkan kemudian, dalam pasal 12). Sebelum itu, umat Allah terutama menderita sebagai *akibat* dari dosa mereka sendiri. Sejak saat itu, penderitaan dalam kesetiaan yang sama sekali tidak berkaitan dengan kesalahan telah menjadi bagian dari makna mengikut Yesus - pola yang sudah dialami para martir di bawah mezbah.
+Kesusahan Besar bukan hanya peristiwa masa depan yang masih akan datang - kitab Wahyu mengaitkannya dengan sesuatu yang sudah dimulai: kematian Yesus di kayu salib dan pengusiran Iblis dari surga (adegan yang digambarkan kemudian, dalam pasal 12). Sebelum itu, umat Allah terutama menderita sebagai *akibat* dari dosa mereka sendiri. Sejak saat itu, kitab ini menampilkan penderitaan yang sama sekali tidak berkaitan dengan kesalahan sebagai bagian dari mengikut Yesus - pola yang sudah dialami para martir di bawah mezbah.
 
 ![](/images/Drangsal_en.jpg)
 

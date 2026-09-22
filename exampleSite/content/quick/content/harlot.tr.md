@@ -14,13 +14,13 @@ kids: /kids/elementary/14-the-harlot-and-the-bride
 
 ## Fahişenin maskesinin düşürülmesi
 
-Mühürlerin ve borazanların her birinin tamamlayıcı bir görümü olduğu gibi, bu kısım da tasları tamamlar ve şimdiye dek gördüğümüz tüm kötülüğü tek bir karmaşık imgede toplar: Babil adında bir fahişe; yeryüzünün krallarını denetleyen bir canavara binmiş, hükümdarları manipüle ediyor ve kutsalları öldürüyor.
+Mühürlerin ve borazanların her birinin tamamlayıcı bir görümü olduğu gibi, bu kısım da tasları tamamlar ve şimdiye dek görülen tüm kötülüğü tek bir imgede toplar: Babil adında bir fahişe; yeryüzünün krallarını denetleyen bir canavara binmiş, hükümdarları manipüle ediyor ve tanıklık edenleri öldürüyor.
 
 ![](/images/Hure+Tier_tr.jpg)
 
 Durdurulamaz görünür — ama 13. bölümde yenilmez gibi görünen aynı canavarla şimdi açıkça alay edilir: güvenilmezdir; gerçekten "var olan, var olmuş ve gelecek olan" Tanrı'nın ({{% bible val="Vahiy 1:8" link="rev:1,8" lang="tr" %}}) yanında solup giden bir taklittir. Sonuçta ne canavar ne de fahişe kutsallara galip gelir; tam tersine, canavarı güçlendiren kralların ta kendileri dönüp fahişeyi kendi elleriyle yok eder — çünkü Tanrı bunu en baştan böyle planlamıştır.
 
-Fahişe, Mesih'in Gelini'nin (kilisenin) karanlık karşılığıdır; çekici görünecek biçimde süslenmiş ekonomik ve mali gücü temsil eder — gelinin kendi görünüşüne o kadar yakındır ki, daha kolay ve daha müreffeh bir yol arayan imanlılar onun konukseverliğini meşru bir bereket sanabilir.
+Fahişe, bu kitapta kiliseyi temsil eden gelinin karanlık karşılığıdır: çekici görünecek biçimde süslenmiş ekonomik ve mali güç — gelinin kendi görünüşüne o kadar yakındır ki, daha kolay ve daha müreffeh bir yol uman herkes onun konukseverliğini bir bereket sanabilir.
 
 ## Etkisi ve yargısı
 
@@ -30,7 +30,7 @@ Yüzeyin altında, üçüncü mührün kıtlığındaki adaletsizliğin arkasın
 
 ![](/images/Hure_en.jpg)
 
-Kitap ona neden iki bölümden fazla yer ayırıyor? Çünkü fahişenin "bir parçası olmak" ({{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}}) — Eski Antlaşma'da putperestlikle ticaretin iç içe geçmesi gibi, sadakati zenginlikle takas etmek — insanlara davranışımızı sevgiden sömürüye doğru yeniden biçimlendirir.
+Kitap ona neden iki bölümden fazla yer ayırıyor? Çünkü fahişenin "bir parçası olmak" ({{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}}) — antik dünyada tapınmayla ticaretin birbirine bağlı olması gibi, sadakati zenginlikle takas etmek — insanlara nasıl davranıldığını ilgiden kullanmaya doğru değiştirir.
 
 ## Peki ya şimdi?
 

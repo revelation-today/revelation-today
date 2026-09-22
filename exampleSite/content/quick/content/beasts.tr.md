@@ -20,9 +20,9 @@ Sahtesi ilk bakışta ne kadar inandırıcı görünürse görünsün, farklar b
 
 ![](/images/trinity_tr.jpg)
 
-Kiliseyi, sahtekârlığa kananlardan ayırması gereken şey tam da bu karşıtlıktır: daha büyük güç değil, arkasına korku ya da manipülasyon almaya ihtiyaç duymadan sevme isteği.
+Kitaba göre kiliseleri sahtekârlığa kananlardan ayırması gereken şey bu karşıtlıktır: daha büyük güç değil, arkasında korku ya da manipülasyon olmadan sevme isteği.
 
-İkinci canavar "kuzu gibi iki boynuzu vardı, ama ejderha gibi konuşuyordu" diye tanımlanır ({{% bible val="Vahiy 13:11" link="rev:13,11" lang="tr" %}}) — gerçek Kuzu'ya, neredeyse herkesi kandıracak kadar yakındır. Onu ele veren tek şey sesidir — ve farkı ancak İsa'nın sesini zaten tanıyanlar ayırt edebilir.
+İkinci canavar "kuzu gibi iki boynuzu vardı, ama ejderha gibi konuşuyordu" diye tanımlanır ({{% bible val="Vahiy 13:11" link="rev:13,11" lang="tr" %}}) — gerçek Kuzu'ya, neredeyse herkesi kandıracak kadar yakındır. Onu ele veren tek şey sesidir — yani fark ancak aslını zaten tanıyan birinin kulağına duyulur.
 
 666 sayısına gelince: gelecekteki belirli bir kişiyi adlandıran bir şifre olmaktan çok, Vahiy'in bu sahte üçlemenin tamamı hakkındaki kendi hükmü işlevini görür — 777'nin temsil ettiği tamlığın bir eksiği, üç kez tekrarlanmış görkemli bir başarısızlık.
 

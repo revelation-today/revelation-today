@@ -19,7 +19,7 @@ kids: /kids/elementary/04-worship-in-heaven
 
 Daha başka bir şey olmadan önce Yuhanna'ya göğün taht odasına bir bakış sunulur — ve bu, yedi kilisenin boğuştuğu her şeyin yanıtıdır. Tanrı panik içinde değildir. Odadaki herkes ve her şey, O'nunla ilişkisi içinde gerçek yerini bulur ve hepsi, tutunabilecekleri her tür konum iddiasını bir kenara bırakarak O'na yücelik verir.
 
-Böyle bir tapınma, Efes'in, Sart'ın ve Laodikya'nın derdine gerçek çaredir: Tanrı'yı doğru tanımak, yanlış öğretiye ve kendimize dair çarpık bir bakışa karşı korur; O'na tam teslimiyet ise bir kilisenin O'nun sağlayışına güvenmesini ve O'nun için gerçek riskler almasını mümkün kılar — tıpkı İzmir ve Filadelfya'nın zaten yaptığı gibi.
+Kitabın mantığına göre Efes'in, Sart'ın ve Laodikya'nın derdine çare budur: Tanrı'yı olduğu gibi görmek, bir kiliseyi kötü öğretiden ve kendine dair şişirilmiş ya da ezilmiş bir bakıştan korur; her şeyi O'na teslim etmek ise onu gerçek riskler alabilecek kadar özgür kılar — tıpkı İzmir ve Filadelfya'nın zaten yaptığı gibi.
 
 ## Belaların geldiği yer
 

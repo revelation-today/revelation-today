@@ -14,13 +14,13 @@ kids: /kids/elementary/12-the-two-harvests
 
 Canavarın 13. bölümdeki topyekûn, dehşet verici ele geçirişinden sonra artık bir şey açıktır: galip gelenler, Siyon Dağı'nda dimdik duran 144.000'dir ve onları tanımlayan özellik, yalnız Tanrı'ya sadakattir. Cam denizin yanında durur, yalnızca kendilerinin öğrenebildiği bir zafer ezgisi söylerler — Tanrı'nın tüm bunlar üzerinde egemen kaldığının bir hatırlatıcısı.
 
-Yargı, canavarın izleyicilerinin üzerine inmeden önce, bir melek müjdeyi yeryüzündeki her ulusa, her oymağa, her dile ve her halka duyurur. Ardından iki melek daha Babil ve canavara tapan herkes üzerine yargı bildirir.
+Yargı, canavarın izleyicilerinin üzerine inmeden önce, bir melek iyi haberi yeryüzündeki her ulusa, her oymağa, her dile ve her halka duyurur — daha hiçbir şeye karar verilmeden önce herkese yapılan son ve açık bir çağrı. Ardından iki melek daha Babil ve canavara tapan herkes üzerine yargı bildirir.
 
 Kalan sahneler iki hasadı anlatır. İlki bir tahıl hasadıdır; İnsanoğlu'na benzeyen bir kişi tarafından toplanır — sadıklar, yargı eklenmeden, yalnızca bir araya getirilir. İkincisi ise üzüm hasadıdır; "Tanrı'nın gazabının büyük masarasına" atılır, kan akıncaya dek çiğnenir — canavarın izleyicileri, toplanmak yerine yargılanır.
 
 ![](/images/harvest_tr.jpg)
 
-Bu, çemberi ilk meleğin sorusuna geri kapatır: uluslar kendilerine duyurulan müjdeyi gerçekten kabul ettiler mi? 10. bölümdeki {{% int_link val="küçük tomarın" link="/quick/content/scroll" %}} içeriği tam da buydu — kilisenin, uluslar yargılanmak yerine kurtulsun diye Mesih'in kendi örneğini onlara taşıması.
+Bu, çemberi o ilk meleğe geri kapatır: uluslar kendilerine duyurulan haberi gerçekten kabul ettiler mi? 10. bölümdeki {{% int_link val="küçük tomarın" link="/quick/content/scroll" %}} içeriği tam da buydu — kiliselerin, hasat ulusları yargılamak yerine toplasın diye Mesih'in kendi örneğini onlara taşıması.
 
 ## Önemli imgeler
 

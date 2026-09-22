@@ -14,22 +14,24 @@ kids: /kids/elementary/05-the-seals
 
 ## Dört atlı
 
-İsa'nın tomarı açmaya layık olduğu gösterildiğine göre, önce bir şeyin olması gerekir: aynı yetkiyi iddia edenin — Şeytan'ın — ifşa edilmesi.
+5. bölümdeki tomarın mühürleri birer birer açılır; ilk dördü renkli atlara binmiş atlıları yola çıkarır.
 
-İlk dört mühür tam olarak bunu yapar. Şeytan'ın atlısı önce beyaz bir at üzerinde belirir; muzaffer görünür, taçlıdır, vaatlerle doludur — ama mühürler devam ettikçe aynı atlının önce savaş, sonra zenginler el değmeden kalırken yoksullar için ekonomik sıkıntı, sonra da ölüm ve yıkım getirdiği ortaya çıkar. Dört atlı birlikte, Tanrı'nın peygamberler aracılığıyla uyardığı dört yargıyı yansıtır: vahşi hayvanlar, kılıç, kıtlık, veba — ve ilk atlının ödünç alınmış beyaz atı ile tacı, daha sonra aynı kılıkla ortaya çıkacak olan canavarı şimdiden ima eder.
+İlki bir fatih gibi görünür: beyaz at, taç, yay; zafer kazanmak için yola çıkmıştır. Arkasından gelen üçü bu tabloyu çırılçıplak ortaya koyar — önce savaş, sonra lüks mallara dokunulmazken ekmeği yoksulların ulaşamayacağı bir fiyata çıkaran kıtlık, sonra da ölüm. Dördü birlikte, İbrani peygamberlerin uyardığı felaketlerin bilinen listesidir: vahşi hayvanlar, kılıç, kıtlık, veba.
 
-Şeytan'ın sunacak gerçek hiçbir şeyi yoktur — yalnızca taklit. Bu, kitap boyunca tekrarlanan sahte bir üçlemenin ilk görünüşüdür: aynı üç parçalı kalıp {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} {{% int_link val="ejderha ve iki canavar" link="/quick/content/beasts" %}} ile, {{% bible val="17. bölümde" link="rev:17" lang="tr" %}} ise {{% int_link val="fahişe ve canavar" link="/quick/content/harlot" %}} ile yeniden karşımıza çıkar — her seferinde Mesih'in gerçek gücünün aynı boş taklidini ifşa ederek.
+Okuyucuların üzerinde tartıştığı atlı ilkidir, çünkü kitabın ilerisinde Mesih'in kendisi de beyaz bir ata biner ({{% bible val="19. bölüm" link="rev:19" lang="tr" %}}). Vahiy bu tür benzerleri sürekli karşımıza çıkarır ve kitabın savı şudur: burada zafer vaat eden güç bir taklittir — fethedebilir, korkutabilir, aç bırakabilir, ama kendine ait hiçbir şey yaratmaz. Aynı üç parçalı taklit {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} {{% int_link val="ejderha ve iki canavar" link="/quick/content/beasts" %}} ile, {{% bible val="17. bölümde" link="rev:17" lang="tr" %}} ise {{% int_link val="fahişe ve canavar" link="/quick/content/harlot" %}} ile yeniden karşımıza çıkar.
 
 ![](/images/trinity_tr.jpg)
 
 ## Sunağın altındaki canlar
 
-Beşinci mühür, sunağın altından haykıran şehitlerin canlarını gösterir: "Ya Egemen Rab, yeryüzünde yaşayanları yargılaman daha ne kadar sürecek?" Bunlar, Şeytan'ın sahtekârlığını görüp bunu yaşamlarıyla ödemiş imanlılardır. Onlara beyaz kaftanlar verilir — İsa'nın, haklı olduklarına dair kendi hükmü — ve biraz daha beklemeleri söylenir; çünkü başkaları onların gördüğünü henüz görmemiştir.
+Beşinci mühür bir felaket değil, bir sorudur. Bir sunağın altında, söyledikleri yüzünden öldürülmüş insanlar vardır ve şöyle haykırırlar: "Ya Egemen Rab, yeryüzünde yaşayanları yargılaman daha ne kadar sürecek?" Kimse onları sordukları için düzeltmez. Onlara beyaz kaftanlar verilir — kitabın, hükmün onların lehine çıktığını söyleme biçimi — ve biraz daha beklemeleri söylenir.
 
-Kitabın süregelen gerilimi budur: bu çağ ne kadar uzun sürerse, o kadar çok insan gerçeği fark edip İsa'ya dönme fırsatı bulur — ama ne kadar uzun sürerse, sadık olanlar da başkalarının henüz kavramadığı bir gerçek uğruna o kadar uzun acı çekmeye devam eder.
+Bu bekleyiş, bütün kitabın içinde yaşadığı gerilimdir. Son ne kadar gecikirse, insanların fikrini değiştirmesi için o kadar çok zaman olur; ama ne kadar gecikirse, bedeli zaten ödeyenler de onu o kadar uzun süre ödemeye devam eder.
 
 ## Sona erdiğinde
 
-Altıncı mühür, bu sonun kesin bir biçimde geleceğini gösterir — uzayıp giden bir mücadele değil, dramatik ve nihai bir eylem. Her yerdeki insanlar "Kuzu'nun gazabından" dehşete kapılır; ama metin bunun tam nedenini açık bırakır: kendi suçlu vicdanları mı, gerçek güç karşısında duyulan basit korku mu, yoksa — Şeytan'ın sahtekârlığından yola çıkarak — İsa'nın onlara canavarın davranacağı gibi davranacağı varsayımı mı?
+Altıncı mühür "ne kadar sürecek" sorusuna bir tarihle değil, bir resimle cevap verir: güneş kararır, ay kan rengine döner, yıldızlar düşer ve krallardan kölelere kadar herkes "Kuzu'nun gazabından" kayalara saklanır.
+
+Bu ifade bilerek ters çevrilmiştir — kuzu, akla gelebilecek en az korkutucu hayvandır — ve metin, saklananların aslında neden korktuğunu hiçbir yerde söylemez. Kendi vicdanlarından mı, gücün kendisinden mi, yoksa fetheden atlı gibi davranacağını varsaydıkları bir kuzudan mı: bölüm bu soruyu açık bırakır.
 
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}})

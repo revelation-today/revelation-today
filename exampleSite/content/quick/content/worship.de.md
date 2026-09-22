@@ -19,7 +19,7 @@ kids: /kids/elementary/04-worship-in-heaven
 
 Bevor irgendetwas anderes geschieht, darf Johannes einen Blick in den himmlischen Thronsaal werfen - und das ist die Antwort auf alles, womit die sieben Gemeinden gerungen haben. Gott gerät nicht in Panik. Jeder und alles in diesem Raum findet seinen wahren Platz im Verhältnis zu ihm, und alle geben ihm die Ehre und legen jeden Anspruch auf eigenen Status ab, an dem sie sonst festhalten könnten.
 
-Diese Art von Anbetung ist das eigentliche Heilmittel für das, woran Ephesus, Sardes und Laodizea krankten: Gott richtig zu kennen schützt vor falscher Lehre und vor einem verzerrten Blick auf uns selbst, und die volle Hingabe an ihn macht es einer Gemeinde möglich, auf seine Versorgung zu vertrauen und echte Risiken für ihn einzugehen - so wie Smyrna und Philadelphia es bereits taten.
+Nach der Logik des Buches ist das das Heilmittel für das, woran Ephesus, Sardes und Laodizea krankten: Wer Gott sieht, wie er ist, ist als Gemeinde geschützt vor falscher Lehre und vor einem überhöhten oder kleingemachten Bild von sich selbst, und wer alles abgibt, wird frei, echte Risiken einzugehen - so wie Smyrna und Philadelphia es bereits taten.
 
 ## Woher die Plagen kommen
 

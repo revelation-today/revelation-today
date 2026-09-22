@@ -20,9 +20,9 @@ Betapapun meyakinkannya tiruan itu pada pandangan pertama, perbedaannya bersifat
 
 ![](/images/trinity_en.jpg)
 
-Kontras itulah yang seharusnya membedakan gereja dari semua orang yang terpedaya oleh tiruan itu: bukan kuasa yang lebih besar, melainkan kerelaan untuk mengasihi tanpa perlu ketakutan atau manipulasi sebagai penopangnya.
+Kontras itulah, menurut kitab ini, yang seharusnya membedakan jemaat-jemaat itu dari semua orang yang terpedaya oleh tiruan tersebut: bukan kuasa yang lebih besar, melainkan kerelaan untuk mengasihi tanpa ketakutan atau manipulasi di baliknya.
 
-Binatang kedua digambarkan memiliki "dua tanduk seperti anak domba, tetapi ia berbicara seperti naga" ({{% bible val="Wahyu 13:11" link="rev:13,11" lang="id" %}}) - cukup mirip dengan Anak Domba yang sejati untuk memperdaya hampir semua orang. Satu-satunya hal yang membongkarnya adalah suaranya - dan hanya mereka yang sudah mengenal suara Yesus yang dapat membedakannya.
+Binatang kedua digambarkan memiliki "dua tanduk seperti anak domba, tetapi ia berbicara seperti naga" ({{% bible val="Wahyu 13:11" link="rev:13,11" lang="id" %}}) - cukup mirip dengan Anak Domba yang sejati untuk memperdaya hampir semua orang. Satu-satunya hal yang membongkarnya adalah suaranya - artinya perbedaan itu hanya terdengar oleh orang yang sudah mengenal yang asli.
 
 Adapun angka 666: alih-alih sebuah kode yang menunjuk satu tokoh tertentu di masa depan, angka itu berfungsi sebagai putusan kitab Wahyu sendiri atas seluruh trinitas tandingan ini - kurang satu dari kesempurnaan yang dilambangkan oleh 777, sebuah kegagalan yang spektakuler dan terulang tiga kali.
 

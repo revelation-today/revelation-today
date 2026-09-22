@@ -19,7 +19,7 @@ kids: /kids/elementary/04-worship-in-heaven
 
 Sebelum hal lain terjadi, Yohanes diberi kesempatan melihat sekilas ke dalam ruang takhta surga - dan itulah jawaban atas segala pergumulan ketujuh jemaat. Allah tidak panik. Setiap orang dan segala sesuatu di ruangan itu menemukan tempatnya yang sejati dalam hubungannya dengan Dia, dan semuanya memberikan kemuliaan kepada-Nya, sambil meletakkan segala klaim status yang mungkin ingin mereka pertahankan.
 
-Penyembahan semacam itulah obat yang sesungguhnya bagi penyakit Efesus, Sardis, dan Laodikia: mengenal Allah dengan benar melindungi dari ajaran yang salah dan dari pandangan yang keliru tentang diri sendiri, dan penyerahan penuh kepada-Nya itulah yang memampukan sebuah jemaat memercayai pemeliharaan-Nya dan berani mengambil risiko nyata bagi Dia, sebagaimana yang sudah dilakukan Smirna dan Filadelfia.
+Menurut logika kitab ini, itulah obat bagi penyakit Efesus, Sardis, dan Laodikia: melihat Allah sebagaimana Dia adanya melindungi sebuah jemaat dari ajaran yang salah dan dari pandangan yang terlalu tinggi atau terlalu hancur tentang dirinya sendiri, dan menyerahkan segalanya itulah yang membebaskannya untuk berani mengambil risiko nyata, sebagaimana yang sudah dilakukan Smirna dan Filadelfia.
 
 ## Dari mana malapetaka-malapetaka itu berasal
 
