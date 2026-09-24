@@ -7,7 +7,15 @@ story_anchor: trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 kids: /kids/elementary/07-the-trumpets
 docType: appl
+description: "Makanan gagal, air menjadi pahit, keamanan lenyap — dan orang-orang justru semakin erat berpegang pada berhala-berhala mereka, bukan semakin longgar, bahkan ketika berhala-berhala yang sama itu merenggut sisa-sisa harapan mereka."
 ---
+
+<!-- key-passage -->
+> Namun, orang yang masih hidup sesudah malapetaka-malapetaka ini, tetap tidak mau menyembah Allah!
+>
+> — {{% bible val="Wahyu 9:20" link="rev:9,20" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 8" link="rev:8" lang="id" %}} · {{% bible val="9" link="rev:9" lang="id" %}}
 
 Makanan gagal, air menjadi pahit, keamanan lenyap — dan orang-orang justru semakin erat berpegang pada berhala-berhala mereka, bukan semakin longgar, bahkan ketika berhala-berhala yang sama itu merenggut sisa-sisa harapan mereka. Penderitaan saja tidak pernah cukup untuk mengubah hati manusia. Ada hal lain yang harus terjadi lebih dahulu: kesediaan untuk benar-benar mendongak.
 

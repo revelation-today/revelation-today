@@ -7,7 +7,17 @@ story_anchor: harlot
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 kids: /kids/elementary/14-the-harlot-and-the-bride
 docType: appl
+description: "Fahişe göz alıcıdır, gelinin olması gereken mücevherlerle süslenmiştir, kadehinden içmeye razı olan herkese refah vaat eder — ve kilisenin içindeki pek çok kişi de bu numaraya kanar. Açıkça kötü görünmez."
 ---
+
+<!-- key-passage -->
+> “Ey halkım! …\
+> Onun günahlarına ortak olmamak,\
+> Uğradığı belalara uğramamak için çık oradan!”
+>
+> — {{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 17" link="rev:17" lang="tr" %}} · {{% bible val="18" link="rev:18" lang="tr" %}} · {{% bible val="19" link="rev:19" lang="tr" %}}
 
 Fahişe göz alıcıdır, gelinin olması gereken mücevherlerle süslenmiştir, kadehinden içmeye razı olan herkese refah vaat eder — ve kilisenin içindeki pek çok kişi de bu numaraya kanar. Açıkça kötü görünmez. Açıkça çekici görünür, ve gerçek tehlike de tam olarak budur.
 

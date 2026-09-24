@@ -7,7 +7,15 @@ story_anchor: vision
 expl: /expl/content/vision/setting-the-foundation
 kids: /kids/elementary/02-the-vision
 docType: appl
+description: "Yuhanna'nın görümü, \"asıl\" içerik başlamadan önceki bir süsleme değil — bundan sonra gelen her şey için bir mercektir."
 ---
+
+<!-- key-passage -->
+> Döndüğümde yedi altın kandillik ve bunların ortasında … insanoğluna benzer birini gördüm.
+>
+> — {{% bible val="Vahiy 1:12–13" link="rev:1,12-13" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 1" link="rev:1" lang="tr" %}}
 
 Yuhanna'nın görümü, "asıl" içerik başlamadan önceki bir süsleme değil — bundan sonra gelen her şey için bir mercektir. Kilise, yedi kandillik gibi parlamak için vardır: kendi yakıtıyla değil, aralarında duranın onu tutuşturmasıyla. Ondan daha fazlası istenmez. Daha azı yetmez.
 

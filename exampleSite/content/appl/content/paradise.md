@@ -7,7 +7,16 @@ story_anchor: paradise
 expl: /expl/content/paradise/the-new-jerusalem
 kids: /kids/elementary/16-new-heaven-and-new-earth
 docType: appl
+description: "No more death, no more mourning, no more pain - not because it never happened, but because all of it has already passed away."
 ---
+
+<!-- key-passage -->
+> He who was seated on the throne said, “I am making everything new!”
+>
+> — {{% bible val="Revelation 21:5" link="rev:21,5" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 21" link="rev:21" lang="en" %}} · {{% bible val="22" link="rev:22" lang="en" %}}
+
 "God's home is now among his people. He will live with them. He will wipe every tear from their eyes." No more death, no more mourning, no more pain - not because it never happened, but because all of it has already passed away. That's where the whole story has been heading from the very first page.
 
 The story itself doesn't end with a moral or a summary. It ends with an instruction: now that you know the story, go and live like you believe it.

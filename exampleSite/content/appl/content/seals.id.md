@@ -7,7 +7,15 @@ story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 kids: /kids/elementary/05-the-seals
 docType: appl
+description: "Penaklukan berganti menjadi peperangan, peperangan menjadi kelaparan, kelaparan menjadi kematian — dan di bawah mezbah, jiwa-jiwa orang yang setia berseru dengan satu suara, pertanyaan yang jujur: berapa lama lagi, ya Tuhan, sampai Engkau menghakimi bumi?"
 ---
+
+<!-- key-passage -->
+> Mereka berseru kepada Tuhan, katanya, “Ya Tuhan, Penguasa yang kudus dan benar, bilakah kiranya Engkau akan menghukum orang-orang di bumi atas perbuatan mereka terhadap kami? …”
+>
+> — {{% bible val="Wahyu 6:10" link="rev:6,10" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 6" link="rev:6" lang="id" %}}
 
 Penaklukan berganti menjadi peperangan, peperangan menjadi kelaparan, kelaparan menjadi kematian — dan di bawah mezbah, jiwa-jiwa orang yang setia berseru dengan satu suara, pertanyaan yang jujur: berapa lama lagi, ya Tuhan, sampai Engkau menghakimi bumi? Mereka tidak ditegur karena bertanya. Mereka diminta menunggu sedikit lebih lama lagi.
 

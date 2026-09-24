@@ -7,7 +7,15 @@ story_anchor: harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
 kids: /kids/elementary/12-the-two-harvests
 docType: appl
+description: "Di atas lautan kaca dan api, orang-orang yang setia bernyanyi — dan satu-satunya kualifikasi mereka adalah tetap setia, bukan menang, bukan mengesankan, bukan menghindari harga."
 ---
+
+<!-- key-passage -->
+> Hendaknya hal ini membesarkan hati umat Allah agar menunjukkan ketabahan dalam menanggung setiap cobaan dan siksaan, karena mereka adalah orang-orang saleh yang tetap setia menaati perintah-perintah Allah dan percaya kepada Yesus sampai pada akhirnya.
+>
+> — {{% bible val="Wahyu 14:12" link="rev:14,12" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 14" link="rev:14" lang="id" %}}
 
 Di atas lautan kaca dan api, orang-orang yang setia bernyanyi — dan satu-satunya kualifikasi mereka adalah tetap setia, bukan menang, bukan mengesankan, bukan menghindari harga. Mereka yang bermain aman dan memihak binatang itu untuk menghindari harga itu justru menghadapi tagihan yang jauh lebih berat.
 

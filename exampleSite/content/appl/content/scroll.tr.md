@@ -7,7 +7,15 @@ story_anchor: scroll
 expl: /expl/content/scroll/the-little-scroll
 kids: /kids/elementary/08-the-little-scroll
 docType: appl
+description: "Zor zamanlar hemen hemen her şeyi kırabilir — yanlış şeye bağlanmış bir yürek dışında. Demek ki tek başına yargı hiçbir zaman yeterli olmayacaktı."
 ---
+
+<!-- key-passage -->
+> Küçük tomarı meleğin elinden alıp yedim, ağzımda bal gibi tatlıydı. Ama yutunca midem acılaştı.
+>
+> — {{% bible val="Vahiy 10:10" link="rev:10,10" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 10" link="rev:10" lang="tr" %}}
 
 Zor zamanlar hemen hemen her şeyi kırabilir — yanlış şeye bağlanmış bir yürek dışında. Demek ki tek başına yargı hiçbir zaman yeterli olmayacaktı. Bunun yerine başka bir şey araya girer: Yuhanna'nın yemesi gereken bir tomar — Tanrı hakkında gerçek bir şey, ağızda tatlı ve yutması zor, gerçekten sindirilmesi zaman alan, sadece duyulmakla kalmayan bir şey.
 

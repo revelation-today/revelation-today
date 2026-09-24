@@ -7,7 +7,15 @@ story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 kids: /kids/elementary/05-the-seals
 docType: appl
+description: "Conquest gives way to war, war to famine, famine to death - and underneath the altar, the souls of the faithful cry out with one honest question: how long, O Lord, until you judge the earth?"
 ---
+
+<!-- key-passage -->
+> They called out in a loud voice, “How long, Sovereign Lord, holy and true, until you judge the inhabitants of the earth and avenge our blood?”
+>
+> — {{% bible val="Revelation 6:10" link="rev:6,10" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}
 
 Conquest gives way to war, war to famine, famine to death - and underneath the altar, the souls of the faithful cry out with one honest question: how long, O Lord, until you judge the earth? They aren't rebuked for asking. They're told to wait, just a little longer.
 

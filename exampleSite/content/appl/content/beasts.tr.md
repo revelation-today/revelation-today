@@ -7,7 +7,15 @@ story_anchor: beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 kids: /kids/elementary/11-the-dragon-and-the-two-beasts
 docType: appl
+description: "İki canavar, Tanrı'nın, Mesih'in ve Ruh'un çirkin bir taklididir — ilk bakışta hemen hemen herkesi kandıracak kadar yakın."
 ---
+
+<!-- key-passage -->
+> İnsanlar canavara yetki veren ejderhaya taptılar. “Canavar gibisi var mı? Onunla kim savaşabilir?” diyerek canavara da taptılar.
+>
+> — {{% bible val="Vahiy 13:4" link="rev:13,4" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}}
 
 İki canavar, Tanrı'nın, Mesih'in ve Ruh'un çirkin bir taklididir — ilk bakışta hemen hemen herkesi kandıracak kadar yakın. Ama daha yakından bak, ve taklit çoktan çatlamaya başlamıştır: yalnızca şiddetle fetheder, yalnızca hileyle büyüler ve kalıcı hiçbir şey inşa etmez — çünkü taklit ettiği zaten kalıcı olarak kazanmıştır.
 

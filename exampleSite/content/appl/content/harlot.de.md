@@ -7,7 +7,15 @@ story_anchor: harlot
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 kids: /kids/elementary/14-the-harlot-and-the-bride
 docType: appl
+description: "Die Hure ist blendend, behängt mit Schmuck, der eigentlich der Braut gehört hätte, und verspricht Wohlstand jedem, der aus ihrem Becher trinkt — und nicht wenige innerhalb der Gemeinde selbst fallen auf diese Inszenierung herein."
 ---
+
+<!-- key-passage -->
+> Geht hinaus aus ihr, mein Volk, damit ihr nicht ihrer Sünden teilhaftig werdet und damit ihr nicht von ihren Plagen empfangt!
+>
+> — {{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 17" link="rev:17" lang="de" %}} · {{% bible val="18" link="rev:18" lang="de" %}} · {{% bible val="19" link="rev:19" lang="de" %}}
 
 Die Hure ist blendend, behängt mit Schmuck, der eigentlich der Braut gehört hätte, und verspricht Wohlstand jedem, der aus ihrem Becher trinkt — und nicht wenige innerhalb der Gemeinde selbst fallen auf diese Inszenierung herein. Sie ist nicht offensichtlich böse. Sie ist offensichtlich attraktiv, und genau das macht die eigentliche Gefahr aus.
 

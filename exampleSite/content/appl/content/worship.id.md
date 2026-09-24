@@ -7,7 +7,15 @@ story_anchor: worship
 expl: /expl/content/worship/worship-in-the-throne-room
 kids: /kids/elementary/04-worship-in-heaven
 docType: appl
+description: "Jawaban surga atas situasi yang luar biasa berat bukanlah sebuah strategi — melainkan ruang takhta."
 ---
+
+<!-- key-passage -->
+> Mereka melemparkan mahkota mereka di hadapan takhta-Nya sambil memuji-muji: “Ya Tuhan, Engkau patut menerima kemuliaan dan kehormatan dan kuasa …”
+>
+> — {{% bible val="Wahyu 4:10–11" link="rev:4,10-11" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 4" link="rev:4" lang="id" %}} · {{% bible val="5" link="rev:5" lang="id" %}}
 
 Jawaban surga atas situasi yang luar biasa berat bukanlah sebuah strategi — melainkan ruang takhta. Tetapi melewati pintu itu menuntut sesuatu yang konkret: meletakkan mahkotamu sendiri, menyerahkan setiap bagian hidupmu, tanpa kecuali. Penyembahan yang tidak menuntut apa-apa biasanya belum benar-benar penyembahan, hanya kekaguman dari jarak yang aman.
 

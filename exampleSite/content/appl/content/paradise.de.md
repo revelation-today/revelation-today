@@ -7,7 +7,15 @@ story_anchor: paradise
 expl: /expl/content/paradise/the-new-jerusalem
 kids: /kids/elementary/16-new-heaven-and-new-earth
 docType: appl
+description: "Kein Tod mehr, keine Trauer mehr, kein Schmerz mehr — nicht, weil es das nie gegeben hätte, sondern weil das alles bereits vergangen ist."
 ---
+
+<!-- key-passage -->
+> Und der auf dem Thron saß, sprach: Siehe, ich mache alles neu!
+>
+> — {{% bible val="Offenbarung 21,5" link="rev:21,5" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 21" link="rev:21" lang="de" %}} · {{% bible val="22" link="rev:22" lang="de" %}}
 
 „Gottes Wohnung ist nun bei den Menschen. Er wird bei ihnen wohnen. Er wird jede Träne von ihren Augen abwischen.“ Kein Tod mehr, keine Trauer mehr, kein Schmerz mehr — nicht, weil es das nie gegeben hätte, sondern weil das alles bereits vergangen ist. Genau darauf lief die ganze Geschichte von der ersten Seite an hinaus.
 

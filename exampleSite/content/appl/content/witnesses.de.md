@@ -7,7 +7,15 @@ story_anchor: witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 kids: /kids/elementary/09-the-two-witnesses
 docType: appl
+description: "Die zwei Zeugen legen Zeugnis ab mit allem, was sie haben, und die Welt tötet sie dafür, dann feiert sie über den Leichen. Dreieinhalb Tage lang sieht es nach völliger Niederlage aus. Dann stehen sie auf."
 ---
+
+<!-- key-passage -->
+> Und nach den dreieinhalb Tagen kam der Geist des Lebens aus Gott in sie, und sie stellten sich auf ihre Füße, und eine große Furcht überfiel die, welche sie sahen.
+>
+> — {{% bible val="Offenbarung 11,11" link="rev:11,11" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 11" link="rev:11" lang="de" %}}
 
 Die zwei Zeugen legen Zeugnis ab mit allem, was sie haben, und die Welt tötet sie dafür, dann feiert sie über den Leichen. Dreieinhalb Tage lang sieht es nach völliger Niederlage aus. Dann stehen sie auf. Genau das ist das Muster, das die Gemeinde selbst leben soll: kein Sieg, der das Leiden überspringt, sondern einer, der mitten hindurchgeht und auf der anderen Seite stehend herauskommt.
 

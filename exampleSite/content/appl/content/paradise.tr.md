@@ -7,7 +7,15 @@ story_anchor: paradise
 expl: /expl/content/paradise/the-new-jerusalem
 kids: /kids/elementary/16-new-heaven-and-new-earth
 docType: appl
+description: "Artık ölüm yok, artık yas yok, artık acı yok — hiç yaşanmadığı için değil, hepsi çoktan geçtiği için."
 ---
+
+<!-- key-passage -->
+> Tahtta oturan, “İşte her şeyi yeniliyorum” dedi.
+>
+> — {{% bible val="Vahiy 21:5" link="rev:21,5" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 21" link="rev:21" lang="tr" %}} · {{% bible val="22" link="rev:22" lang="tr" %}}
 
 "İşte, Tanrı'nın konutu insanların arasındadır. Onlarla birlikte oturacak. Gözlerinden bütün yaşları silecek." Artık ölüm yok, artık yas yok, artık acı yok — hiç yaşanmadığı için değil, hepsi çoktan geçtiği için. Bütün hikâye ilk sayfasından beri tam olarak buna doğru ilerliyordu.
 

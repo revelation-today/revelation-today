@@ -7,7 +7,16 @@ story_anchor: scroll
 expl: /expl/content/scroll/the-little-scroll
 kids: /kids/elementary/08-the-little-scroll
 docType: appl
+description: "Hard times can crack open almost anything except a heart set on the wrong thing - so judgment alone was never going to be enough."
 ---
+
+<!-- key-passage -->
+> I took the little scroll from the angel’s hand and ate it. It tasted as sweet as honey in my mouth, but when I had eaten it, my stomach turned sour.
+>
+> — {{% bible val="Revelation 10:10" link="rev:10,10" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 10" link="rev:10" lang="en" %}}
+
 Hard times can crack open almost anything except a heart set on the wrong thing - so judgment alone was never going to be enough. What breaks through instead is a scroll John has to eat: something true about God himself, sweet in the mouth and hard to swallow, that takes time to actually digest rather than just hear.
 
 Some truths about God are like that - easy to affirm, slow to actually change you, because agreeing with something and letting it rearrange your life are two different acts.

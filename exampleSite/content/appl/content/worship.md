@@ -7,7 +7,16 @@ story_anchor: worship
 expl: /expl/content/worship/worship-in-the-throne-room
 kids: /kids/elementary/04-worship-in-heaven
 docType: appl
+description: "Heaven's answer to an overwhelming situation isn't a strategy - it's a throne room."
 ---
+
+<!-- key-passage -->
+> They lay their crowns before the throne and say: “You are worthy, our Lord and God, to receive glory and honor and power …”
+>
+> — {{% bible val="Revelation 4:10–11" link="rev:4,10-11" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 4" link="rev:4" lang="en" %}} · {{% bible val="5" link="rev:5" lang="en" %}}
+
 Heaven's answer to an overwhelming situation isn't a strategy - it's a throne room. But walking through that door costs something specific: laying your own crown down, handing over every part of your life without carving out an exception. Worship that doesn't cost anything usually isn't worship yet, just admiration from a safe distance.
 
 It helps to be concrete about what a crown is. It is whatever you would defend first if someone questioned it: a competence you are known for, a reputation inside a small circle, control of the money, the right to decide how your children turn out, the certainty that in this one area you know best. Crowns are rarely bad things in themselves. That is exactly what makes them hard to put down.

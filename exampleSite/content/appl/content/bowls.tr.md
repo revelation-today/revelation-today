@@ -7,7 +7,15 @@ story_anchor: bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 kids: /kids/elementary/13-the-bowls
 docType: appl
+description: "Ordular Harmagedon'da toplanır, zaferden emin. Onlar çoktan bitmiştir — sadece bunu henüz bilmiyorlar."
 ---
+
+<!-- key-passage -->
+> “İşte hırsız gibi geliyorum! Çıplak dolaşmamak ve utanç içinde kalmamak için uyanık durup giysilerini üstünde bulundurana ne mutlu!”
+>
+> — {{% bible val="Vahiy 16:15" link="rev:16,15" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 15" link="rev:15" lang="tr" %}} · {{% bible val="16" link="rev:16" lang="tr" %}}
 
 Ordular Harmagedon'da toplanır, zaferden emin. Onlar çoktan bitmiştir — sadece bunu henüz bilmiyorlar. Birinin kendini ne kadar emin hissettiği ile altındaki zeminin gerçekte ne kadar sağlam olduğu arasındaki bu uçurum, üzerinde durmaya değer, çünkü içeriden nadiren belli olur.
 

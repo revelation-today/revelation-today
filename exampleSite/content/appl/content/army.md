@@ -7,7 +7,16 @@ story_anchor: army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 kids: /kids/elementary/06-gods-army
 docType: appl
+description: "God's army fights like no army you've seen - no swords, no borrowed violence, just relentless worship and a loyalty that outlasts whatever the enemy throws at it."
 ---
+
+<!-- key-passage -->
+> “Do not harm the land or the sea or the trees until we put a seal on the foreheads of the servants of our God.”
+>
+> — {{% bible val="Revelation 7:3" link="rev:7,3" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 7" link="rev:7" lang="en" %}}
+
 God's army fights like no army you've seen - no swords, no borrowed violence, just relentless worship and a loyalty that outlasts whatever the enemy throws at it. Before anything else happens, one thing is already settled: you're marked as his, claimed in the middle of the storm, not waiting to earn a place afterwards.
 
 Look at the order of events, because it is the whole point. The seal comes before the disaster, not after it as a reward for surviving well. And the army is counted like a census, tribe by tribe, as if for battle - and then John turns round and sees a crowd nobody can count, holding palm branches and singing. The soldiers were worshippers all along. That is Revelation's argument about how this war is actually won.

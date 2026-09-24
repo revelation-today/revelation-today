@@ -7,7 +7,15 @@ story_anchor: army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 kids: /kids/elementary/06-gods-army
 docType: appl
+description: "Pasukan Allah bertempur tidak seperti pasukan mana pun yang pernah kamu lihat — tanpa pedang, tanpa kekerasan pinjaman, hanya penyembahan yang tak kenal lelah dan kesetiaan yang bertahan lebih lama daripada apa pun yang dilemparkan musuh."
 ---
+
+<!-- key-passage -->
+> “Tunggu dulu! Jangan merusakkan baik bumi, laut, maupun pohon-pohon, sebelum kami membubuhkan Meterai Allah pada dahi hamba-hamba-Nya.”
+>
+> — {{% bible val="Wahyu 7:3" link="rev:7,3" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 7" link="rev:7" lang="id" %}}
 
 Pasukan Allah bertempur tidak seperti pasukan mana pun yang pernah kamu lihat — tanpa pedang, tanpa kekerasan pinjaman, hanya penyembahan yang tak kenal lelah dan kesetiaan yang bertahan lebih lama daripada apa pun yang dilemparkan musuh. Sebelum apa pun terjadi, satu hal sudah pasti: kamu ditandai sebagai milik-Nya, diklaim di tengah badai, bukan menunggu untuk mendapatkan tempat nanti.
 

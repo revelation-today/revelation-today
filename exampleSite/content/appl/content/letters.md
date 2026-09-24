@@ -7,7 +7,16 @@ story_anchor: letters
 expl: /expl/content/letters/the-angel-of-the-churches
 kids: /kids/elementary/03-the-seven-letters
 docType: appl
+description: "Seven churches, seven very different situations, and Jesus doesn't send the same letter twice. Ephesus needed to hear that correct doctrine without love is worthless."
 ---
+
+<!-- key-passage -->
+> Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with that person, and they with me.
+>
+> — {{% bible val="Revelation 3:20" link="rev:3,20" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 2" link="rev:2" lang="en" %}} · {{% bible val="3" link="rev:3" lang="en" %}}
+
 Seven churches, seven very different situations, and Jesus doesn't send the same letter twice. Ephesus needed to hear that correct doctrine without love is worthless. Smyrna and Philadelphia, poor and squeezed on every side, needed nothing but encouragement. Sardis looked alive and was already dead. Laodicea was the one church that received no praise at all - and the one Jesus still knocked for anyway.
 
 The uncomfortable exercise isn't picking your favourite church. It's noticing which letter you'd actually receive if Jesus wrote to you by name this week, not the one you'd prefer.

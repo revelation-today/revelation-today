@@ -7,7 +7,15 @@ story_anchor: witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 kids: /kids/elementary/09-the-two-witnesses
 docType: appl
+description: "Kedua saksi itu bersaksi dengan segenap yang mereka miliki, dan dunia membunuh mereka karena itu, lalu berpesta di atas mayat mereka. Selama tiga setengah hari, itu terlihat seperti kekalahan total."
 ---
+
+<!-- key-passage -->
+> Tetapi sesudah tiga setengah hari, roh kehidupan dari Allah akan memasuki kedua saksi Allah itu dan mereka akan hidup lagi. Maka semua orang menjadi sangat ketakutan.
+>
+> — {{% bible val="Wahyu 11:11" link="rev:11,11" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 11" link="rev:11" lang="id" %}}
 
 Kedua saksi itu bersaksi dengan segenap yang mereka miliki, dan dunia membunuh mereka karena itu, lalu berpesta di atas mayat mereka. Selama tiga setengah hari, itu terlihat seperti kekalahan total. Lalu mereka bangkit berdiri. Itulah pola yang diminta untuk dijalani oleh gereja sendiri: bukan kemenangan yang melompati penderitaan, melainkan kemenangan yang berjalan tepat melewatinya dan keluar berdiri di sisi lain.
 

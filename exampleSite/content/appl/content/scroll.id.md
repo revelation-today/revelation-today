@@ -7,7 +7,15 @@ story_anchor: scroll
 expl: /expl/content/scroll/the-little-scroll
 kids: /kids/elementary/08-the-little-scroll
 docType: appl
+description: "Masa-masa sulit bisa meretakkan hampir apa saja kecuali hati yang terpaut pada hal yang salah — jadi penghakiman saja tidak akan pernah cukup."
 ---
+
+<!-- key-passage -->
+> Maka saya mengambil gulungan itu dari tangannya, lalu memakannya! Dan tepat seperti yang telah dikatakannya, dalam mulut rasanya manis, tetapi perut saya sakit ketika menelannya.
+>
+> — {{% bible val="Wahyu 10:10" link="rev:10,10" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 10" link="rev:10" lang="id" %}}
 
 Masa-masa sulit bisa meretakkan hampir apa saja kecuali hati yang terpaut pada hal yang salah — jadi penghakiman saja tidak akan pernah cukup. Yang justru menerobos adalah sebuah gulungan kitab yang harus dimakan Yohanes: sesuatu yang benar tentang Allah sendiri, manis di mulut dan sulit ditelan, yang butuh waktu untuk benar-benar dicerna, bukan sekadar didengar.
 

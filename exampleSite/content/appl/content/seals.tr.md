@@ -7,7 +7,15 @@ story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 kids: /kids/elementary/05-the-seals
 docType: appl
+description: "Fetih savaşa, savaş kıtlığa, kıtlık ölüme dönüşür — ve mezbahın altında, sadıkların ruhları tek bir sesle dürüst bir soru haykırır: Ne zamana dek, ya Rab, dünyayı yargılamayacaksın?"
 ---
+
+<!-- key-passage -->
+> Yüksek sesle feryat ederek şöyle diyorlardı: “Kutsal ve gerçek olan Efendimiz! Yeryüzünde yaşayanları yargılayıp onlardan kanımızın öcünü almak için daha ne kadar bekleyeceksin?”
+>
+> — {{% bible val="Vahiy 6:10" link="rev:6,10" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}}
 
 Fetih savaşa, savaş kıtlığa, kıtlık ölüme dönüşür — ve mezbahın altında, sadıkların ruhları tek bir sesle dürüst bir soru haykırır: Ne zamana dek, ya Rab, dünyayı yargılamayacaksın? Bu soruyu sordukları için azarlanmazlar. Onlara sadece biraz daha beklemeleri söylenir.
 

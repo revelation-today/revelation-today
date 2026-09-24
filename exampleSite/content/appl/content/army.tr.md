@@ -7,7 +7,15 @@ story_anchor: army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 kids: /kids/elementary/06-gods-army
 docType: appl
+description: "Tanrı'nın ordusu, hiç görmediğin bir ordu gibi savaşır — kılıç yok, ödünç alınmış şiddet yok, sadece bıkmadan tapınma ve düşmanın atabileceği her şeyden daha uzun süren bir sadakat."
 ---
+
+<!-- key-passage -->
+> “Biz Tanrımız'ın kullarını alınlarından mühürleyene dek karaya, denize ya da ağaçlara zarar vermeyin!”
+>
+> — {{% bible val="Vahiy 7:3" link="rev:7,3" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 7" link="rev:7" lang="tr" %}}
 
 Tanrı'nın ordusu, hiç görmediğin bir ordu gibi savaşır — kılıç yok, ödünç alınmış şiddet yok, sadece bıkmadan tapınma ve düşmanın atabileceği her şeyden daha uzun süren bir sadakat. Başka bir şey olmadan önce, bir şey zaten kesinleşmiştir: fırtınanın ortasında O'na ait olarak damgalanmış, tartışmasız sahiplenilmişsin — daha sonra bir yer kazanmayı beklemiyorsun.
 

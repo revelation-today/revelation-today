@@ -7,7 +7,18 @@ story_anchor: harlot
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 kids: /kids/elementary/14-the-harlot-and-the-bride
 docType: appl
+description: "The harlot is dazzling, draped in jewels that should have belonged to the bride, promising prosperity to anyone who will drink from her cup - and plenty of people inside the church itself fall for the act."
 ---
+
+<!-- key-passage -->
+> “Come out of her, my people,”\
+> so that you will not share in her sins,\
+> so that you will not receive any of her plagues …
+>
+> — {{% bible val="Revelation 18:4" link="rev:18,4" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 17" link="rev:17" lang="en" %}} · {{% bible val="18" link="rev:18" lang="en" %}} · {{% bible val="19" link="rev:19" lang="en" %}}
+
 The harlot is dazzling, draped in jewels that should have belonged to the bride, promising prosperity to anyone who will drink from her cup - and plenty of people inside the church itself fall for the act. She isn't obviously evil. She's obviously appealing, which is the actual danger.
 
 Babylon's whole pitch is that you can have the blessing without the belonging - the reward without the relationship it was meant to come from. That offer still gets made constantly, just rarely with a name tag on it.

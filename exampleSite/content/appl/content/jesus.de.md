@@ -7,7 +7,15 @@ story_anchor: jesus
 expl: /expl/content/jesus/a-different-christmas-story
 kids: /kids/elementary/10-jesus-victory
 docType: appl
+description: "Michael und seine Engel kämpfen gegen den Drachen, und der Drache verliert — besiegt durch das Blut des Lammes, nicht durch etwas, das die Frau oder ihre Kinder getan hätten. Den Drachen zu besiegen war nie dein Auftrag."
 ---
+
+<!-- key-passage -->
+> Und sie haben ihn überwunden um des Blutes des Lammes und um des Wortes ihres Zeugnisses willen und haben ihr Leben nicht geliebt bis in den Tod!
+>
+> — {{% bible val="Offenbarung 12,11" link="rev:12,11" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 12" link="rev:12" lang="de" %}}
 
 Michael und seine Engel kämpfen gegen den Drachen, und der Drache verliert — besiegt durch das Blut des Lammes, nicht durch etwas, das die Frau oder ihre Kinder getan hätten. Den Drachen zu besiegen war nie dein Auftrag. Es war im Himmel bereits erledigt, bevor es dich überhaupt erreichte. Deine Aufgabe ist es einfach, Menschen weiter zu Jesus hinzuführen — auch während der Drache, der genau weiß, wie wenig Zeit ihm bleibt, wütender denn je tobt.
 

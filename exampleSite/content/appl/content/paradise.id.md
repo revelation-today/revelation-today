@@ -7,7 +7,15 @@ story_anchor: paradise
 expl: /expl/content/paradise/the-new-jerusalem
 kids: /kids/elementary/16-new-heaven-and-new-earth
 docType: appl
+description: "Tidak ada lagi kematian, tidak ada lagi perkabungan, tidak ada lagi rasa sakit — bukan karena semua itu tidak pernah terjadi, tetapi karena semuanya sudah berlalu."
 ---
+
+<!-- key-passage -->
+> Dia yang duduk di atas takhta itu berkata, “Lihatlah, Aku membuat segala sesuatu baru!”
+>
+> — {{% bible val="Wahyu 21:5" link="rev:21,5" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 21" link="rev:21" lang="id" %}} · {{% bible val="22" link="rev:22" lang="id" %}}
 
 "Sekarang kediaman Allah bersama-sama dengan manusia. Ia akan diam bersama-sama dengan mereka. Ia akan menghapus segala air mata dari mata mereka." Tidak ada lagi kematian, tidak ada lagi perkabungan, tidak ada lagi rasa sakit — bukan karena semua itu tidak pernah terjadi, tetapi karena semuanya sudah berlalu. Ke situlah seluruh kisah ini menuju sejak halaman pertama.
 

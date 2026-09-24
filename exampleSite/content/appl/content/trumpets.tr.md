@@ -7,7 +7,15 @@ story_anchor: trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 kids: /kids/elementary/07-the-trumpets
 docType: appl
+description: "Yiyecek tükenir, su acılaşır, güvenlik kaybolur — ve insanlar putlarına daha gevşek değil, daha sıkı sarılır, tam da o putlar onlardan son umut kırıntısını da söküp alırken."
 ---
+
+<!-- key-passage -->
+> Geriye kalan insanlar, yani bu belalardan ölmemiş olanlar, kendi elleriyle yaptıkları putlardan dönüp tövbe etmediler.
+>
+> — {{% bible val="Vahiy 9:20" link="rev:9,20" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 8" link="rev:8" lang="tr" %}} · {{% bible val="9" link="rev:9" lang="tr" %}}
 
 Yiyecek tükenir, su acılaşır, güvenlik kaybolur — ve insanlar putlarına daha gevşek değil, daha sıkı sarılır, tam da o putlar onlardan son umut kırıntısını da söküp alırken. Acı tek başına bir insan yüreğini değiştirmeye hiçbir zaman yetmemiştir. Önce başka bir şeyin olması gerekir: gerçekten yukarı bakma isteği.
 

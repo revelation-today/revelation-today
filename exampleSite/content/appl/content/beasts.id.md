@@ -7,7 +7,15 @@ story_anchor: beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 kids: /kids/elementary/11-the-dragon-and-the-two-beasts
 docType: appl
+description: "Kedua binatang itu adalah tiruan yang mengerikan dari Allah, Kristus, dan Roh — cukup mirip untuk menipu hampir semua orang pada pandangan pertama."
 ---
+
+<!-- key-passage -->
+> Mereka menyembah Naga itu, karena ia telah memberikan kekuasaan yang demikian besarnya kepada binatang itu. Mereka juga menyembah binatang itu, sambil berseru, “Adakah yang lebih berkuasa daripada dia? Siapakah yang sanggup melawan dia?”
+>
+> — {{% bible val="Wahyu 13:4" link="rev:13,4" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 13" link="rev:13" lang="id" %}}
 
 Kedua binatang itu adalah tiruan yang mengerikan dari Allah, Kristus, dan Roh — cukup mirip untuk menipu hampir semua orang pada pandangan pertama. Tetapi lihatlah lebih dekat, dan tiruan itu sudah mulai retak: ia hanya menaklukkan lewat kekerasan, hanya memukau lewat tipu daya, dan tidak membangun apa pun yang bertahan — sebab yang ditirunya sudah menang secara permanen.
 

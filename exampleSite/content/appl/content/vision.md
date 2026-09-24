@@ -7,7 +7,16 @@ story_anchor: vision
 expl: /expl/content/vision/setting-the-foundation
 kids: /kids/elementary/02-the-vision
 docType: appl
+description: "John's vision isn't decoration before the \"real\" content starts - it's the lens for everything that follows."
 ---
+
+<!-- key-passage -->
+> And when I turned I saw seven golden lampstands, and among the lampstands was someone like a son of man …
+>
+> — {{% bible val="Revelation 1:12–13" link="rev:1,12-13" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 1" link="rev:1" lang="en" %}}
+
 John's vision isn't decoration before the "real" content starts - it's the lens for everything that follows. The church exists to shine, the way seven lampstands shine: not on her own fuel, but held alight by the one standing among them. Nothing more is asked of her. Nothing less will do.
 
 That raises an uncomfortable question about your own week, not just the church in general. Shining on your own fuel looks like performance - effort, image management, running on empty and hoping no one notices.

@@ -7,7 +7,16 @@ story_anchor: bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 kids: /kids/elementary/13-the-bowls
 docType: appl
+description: "The armies gather at Armageddon certain of victory. They are already finished - they just don't know it yet."
 ---
+
+<!-- key-passage -->
+> “Look, I come like a thief! Blessed is the one who stays awake and remains clothed, so as not to go naked and be shamefully exposed.”
+>
+> — {{% bible val="Revelation 16:15" link="rev:16,15" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 15" link="rev:15" lang="en" %}} · {{% bible val="16" link="rev:16" lang="en" %}}
+
 The armies gather at Armageddon certain of victory. They are already finished - they just don't know it yet. That gap between how certain someone feels and how solid the ground actually is under them is worth sitting with, because it's rarely obvious from the inside.
 
 It's easy to assume this is only about someone else's false confidence. It's worth turning the question back on yourself instead.

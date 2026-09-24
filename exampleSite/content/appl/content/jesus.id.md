@@ -7,7 +7,18 @@ story_anchor: jesus
 expl: /expl/content/jesus/a-different-christmas-story
 kids: /kids/elementary/10-jesus-victory
 docType: appl
+description: "Mikhael dan para malaikatnya berperang melawan sang naga, dan sang naga kalah — dikalahkan oleh darah Anak Domba, bukan oleh apa pun yang dilakukan perempuan itu atau anak-anaknya. Mengalahkan sang naga bukanlah tugasmu."
 ---
+
+<!-- key-passage -->
+> Mereka mengalahkan dia dengan Darah Anak Domba,\
+> dan dengan kesaksian mereka;\
+> karena mereka tidak menyayangkan nyawa mereka,\
+> melainkan menyerahkannya bagi Dia.
+>
+> — {{% bible val="Wahyu 12:11" link="rev:12,11" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 12" link="rev:12" lang="id" %}}
 
 Mikhael dan para malaikatnya berperang melawan sang naga, dan sang naga kalah — dikalahkan oleh darah Anak Domba, bukan oleh apa pun yang dilakukan perempuan itu atau anak-anaknya. Mengalahkan sang naga bukanlah tugasmu. Itu sudah selesai di surga sebelum pernah menjangkaumu. Tugasmu hanyalah terus menarik orang mendekat kepada Yesus — bahkan ketika sang naga, yang tahu persis betapa singkat waktunya, mengamuk lebih dahsyat daripada sebelumnya.
 

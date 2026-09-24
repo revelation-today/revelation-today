@@ -7,7 +7,15 @@ story_anchor: worship
 expl: /expl/content/worship/worship-in-the-throne-room
 kids: /kids/elementary/04-worship-in-heaven
 docType: appl
+description: "Die Antwort des Himmels auf eine überwältigende Situation ist keine Strategie — sie ist ein Thronsaal."
 ---
+
+<!-- key-passage -->
+> … und sie werfen ihre Kronen vor dem Thron nieder und sprechen: Würdig bist du, o Herr, zu empfangen den Ruhm und die Ehre und die Macht …
+>
+> — {{% bible val="Offenbarung 4,10–11" link="rev:4,10-11" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 4" link="rev:4" lang="de" %}} · {{% bible val="5" link="rev:5" lang="de" %}}
 
 Die Antwort des Himmels auf eine überwältigende Situation ist keine Strategie — sie ist ein Thronsaal. Aber durch diese Tür zu gehen kostet etwas Konkretes: die eigene Krone niederzulegen, jeden Teil deines Lebens abzugeben, ohne eine Ausnahme herauszunehmen. Anbetung, die nichts kostet, ist meist noch keine Anbetung, sondern nur Bewunderung aus sicherer Entfernung.
 

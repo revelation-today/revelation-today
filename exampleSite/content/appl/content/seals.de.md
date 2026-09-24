@@ -7,7 +7,15 @@ story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 kids: /kids/elementary/05-the-seals
 docType: appl
+description: "Eroberung weicht dem Krieg, Krieg der Hungersnot, Hungersnot dem Tod — und unter dem Altar schreien die Seelen der Treuen mit einer Stimme die ehrliche Frage: Wie lange noch, Herr, bis du die Erde richtest?"
 ---
+
+<!-- key-passage -->
+> Und sie riefen mit lauter Stimme und sprachen: Wie lange, o Herr, du Heiliger und Wahrhaftiger, richtest du nicht und rächst nicht unser Blut an denen, die auf der Erde wohnen?
+>
+> — {{% bible val="Offenbarung 6,10" link="rev:6,10" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 6" link="rev:6" lang="de" %}}
 
 Eroberung weicht dem Krieg, Krieg der Hungersnot, Hungersnot dem Tod — und unter dem Altar schreien die Seelen der Treuen mit einer Stimme die ehrliche Frage: Wie lange noch, Herr, bis du die Erde richtest? Sie werden für diese Frage nicht getadelt. Ihnen wird gesagt, noch ein wenig zu warten.
 

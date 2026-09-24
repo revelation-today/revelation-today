@@ -7,7 +7,20 @@ story_anchor: jesus
 expl: /expl/content/jesus/a-different-christmas-story
 kids: /kids/elementary/10-jesus-victory
 docType: appl
+description: "Michael and his angels fight the dragon, and the dragon loses - beaten by the blood of the Lamb, not by anything the woman or her children did. Defeating the dragon was never your assignment."
 ---
+
+<!-- key-passage -->
+> They triumphed over him\
+> by the blood of the Lamb\
+> and by the word of their testimony;\
+> they did not love their lives so much\
+> as to shrink from death.
+>
+> — {{% bible val="Revelation 12:11" link="rev:12,11" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 12" link="rev:12" lang="en" %}}
+
 Michael and his angels fight the dragon, and the dragon loses - beaten by the blood of the Lamb, not by anything the woman or her children did. Defeating the dragon was never your assignment. It was already finished in heaven before it ever reached you. Yours is simply to keep drawing people toward Jesus, even while the dragon, knowing exactly how little time he has left, rages harder than ever.
 
 That's meant to be a relief, not a technicality. A lot of exhausting spiritual effort comes from quietly trying to win a battle that isn't actually yours to win.

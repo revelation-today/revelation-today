@@ -7,7 +7,15 @@ story_anchor: letters
 expl: /expl/content/letters/the-angel-of-the-churches
 kids: /kids/elementary/03-the-seven-letters
 docType: appl
+description: "Yedi kilise, yedi çok farklı durum, ve İsa hiçbir zaman aynı mektubu iki kez göndermiyor. Efes'in, sevgisiz doğru öğretinin hiçbir şey ifade etmediğini duyması gerekiyordu."
 ---
+
+<!-- key-passage -->
+> İşte kapıda durmuş, kapıyı çalıyorum. Biri sesimi işitir ve kapıyı açarsa, onun yanına gireceğim; ben onunla, o da benimle, birlikte yemek yiyeceğiz.
+>
+> — {{% bible val="Vahiy 3:20" link="rev:3,20" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 2" link="rev:2" lang="tr" %}} · {{% bible val="3" link="rev:3" lang="tr" %}}
 
 Yedi kilise, yedi çok farklı durum, ve İsa hiçbir zaman aynı mektubu iki kez göndermiyor. Efes'in, sevgisiz doğru öğretinin hiçbir şey ifade etmediğini duyması gerekiyordu. Her taraftan sıkıştırılmış, yoksul Simirna ve Filadelfiya'nın tek ihtiyacı cesaretlendirmeydi. Sardis dışarıdan canlı görünüyordu ve zaten ölmüştü. Laodikya, hiç övgü almayan tek kiliseydi — ve İsa'nın yine de kapısını çaldığı kilise.
 

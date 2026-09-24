@@ -7,7 +7,15 @@ story_anchor: witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 kids: /kids/elementary/09-the-two-witnesses
 docType: appl
+description: "İki tanık ellerindeki her şeyle tanıklık eder, ve dünya bunun için onları öldürür, sonra da cesetlerin üzerinde şenlik yapar. Üç buçuk gün boyunca, bu tam bir yenilgi gibi görünür. Sonra ayağa kalkarlar."
 ---
+
+<!-- key-passage -->
+> Üç buçuk gün sonra iki peygamber, Tanrı'dan gelen yaşam soluğunu alınca ayağa kalktılar. Onları görenler dehşete kapıldı.
+>
+> — {{% bible val="Vahiy 11:11" link="rev:11,11" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 11" link="rev:11" lang="tr" %}}
 
 İki tanık ellerindeki her şeyle tanıklık eder, ve dünya bunun için onları öldürür, sonra da cesetlerin üzerinde şenlik yapar. Üç buçuk gün boyunca, bu tam bir yenilgi gibi görünür. Sonra ayağa kalkarlar. Kilisenin kendisinin yaşaması istenen örüntü tam olarak budur: acıyı atlayan bir zafer değil, tam ortasından geçip diğer tarafta ayakta duran bir zafer.
 

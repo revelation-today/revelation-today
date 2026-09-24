@@ -7,7 +7,15 @@ story_anchor: vision
 expl: /expl/content/vision/setting-the-foundation
 kids: /kids/elementary/02-the-vision
 docType: appl
+description: "Penglihatan Yohanes bukanlah hiasan sebelum isi yang \"sesungguhnya\" dimulai — itulah lensa untuk segala sesuatu yang mengikutinya."
 ---
+
+<!-- key-passage -->
+> … saya melihat tujuh kaki dian dari emas dan di tengah-tengahnya tampak Seseorang yang serupa dengan manusia.
+>
+> — {{% bible val="Wahyu 1:12–13" link="rev:1,12-13" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 1" link="rev:1" lang="id" %}}
 
 Penglihatan Yohanes bukanlah hiasan sebelum isi yang "sesungguhnya" dimulai — itulah lensa untuk segala sesuatu yang mengikutinya. Gereja ada untuk bersinar, seperti tujuh kaki dian bersinar: bukan dengan bahan bakarnya sendiri, tetapi dinyalakan oleh dia yang berdiri di tengah-tengahnya. Tidak ada yang lebih dituntut darinya. Tidak ada yang kurang dari itu yang cukup.
 

@@ -7,7 +7,15 @@ story_anchor: worship
 expl: /expl/content/worship/worship-in-the-throne-room
 kids: /kids/elementary/04-worship-in-heaven
 docType: appl
+description: "Göğün ezici bir duruma verdiği yanıt bir strateji değil — bir taht odasıdır. Ama o kapıdan geçmek somut bir bedel ister: kendi tacını bırakmak, hayatının her parçasını, istisnasız, teslim etmek."
 ---
+
+<!-- key-passage -->
+> Taçlarını tahtın önüne koyarak şöyle diyorlar: “Rabbimiz ve Tanrımız! Yüceliği, saygıyı, gücü almaya layıksın …”
+>
+> — {{% bible val="Vahiy 4:10–11" link="rev:4,10-11" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 4" link="rev:4" lang="tr" %}} · {{% bible val="5" link="rev:5" lang="tr" %}}
 
 Göğün ezici bir duruma verdiği yanıt bir strateji değil — bir taht odasıdır. Ama o kapıdan geçmek somut bir bedel ister: kendi tacını bırakmak, hayatının her parçasını, istisnasız, teslim etmek. Hiçbir bedeli olmayan tapınma genellikle henüz gerçek tapınma değildir, sadece güvenli bir mesafeden hayranlıktır.
 

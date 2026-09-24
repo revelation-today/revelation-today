@@ -7,7 +7,16 @@ story_anchor: trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 kids: /kids/elementary/07-the-trumpets
 docType: appl
+description: "Food fails, water turns bitter, security disappears - and people cling tighter to their idols, not looser, even as those same idols strip away every last shred of hope."
 ---
+
+<!-- key-passage -->
+> The rest of mankind who were not killed by these plagues still did not repent of the work of their hands …
+>
+> — {{% bible val="Revelation 9:20" link="rev:9,20" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 8" link="rev:8" lang="en" %}} · {{% bible val="9" link="rev:9" lang="en" %}}
+
 Food fails, water turns bitter, security disappears - and people cling tighter to their idols, not looser, even as those same idols strip away every last shred of hope. Hardship alone has never been enough to change a human heart. Something else has to happen first: a willingness to actually look up.
 
 That's worth remembering the next time you assume a hard season will automatically make you, or someone you love, more open to God. It doesn't work that way on its own - pressure reveals what you're already holding onto more often than it loosens your grip.

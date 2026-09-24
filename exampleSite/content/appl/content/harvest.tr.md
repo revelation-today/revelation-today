@@ -7,7 +7,15 @@ story_anchor: harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
 kids: /kids/elementary/12-the-two-harvests
 docType: appl
+description: "Cam ve ateşten denizde, sadıklar şarkı söyler — ve tek nitelikleri kazanmak değil, etkileyici olmak değil, bedel ödememek değil, sadık kalmaktı."
 ---
+
+<!-- key-passage -->
+> Bu da, Tanrı'nın buyruklarını yerine getiren, İsa'ya imanlarını sürdüren kutsalların sabrını gerektirir.
+>
+> — {{% bible val="Vahiy 14:12" link="rev:14,12" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 14" link="rev:14" lang="tr" %}}
 
 Cam ve ateşten denizde, sadıklar şarkı söyler — ve tek nitelikleri kazanmak değil, etkileyici olmak değil, bedel ödememek değil, sadık kalmaktı. O bedeli ödememek için güvenli oynayıp canavarın tarafını tutanlar, bunun yerine çok daha ağır bir hesapla karşılaşır.
 

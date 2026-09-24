@@ -7,7 +7,15 @@ story_anchor: bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 kids: /kids/elementary/13-the-bowls
 docType: appl
+description: "Pasukan-pasukan berkumpul di Harmagedon, yakin akan menang. Mereka sudah selesai — mereka hanya belum menyadarinya."
 ---
+
+<!-- key-passage -->
+> “Camkanlah: Aku akan datang secara tidak terduga seperti seorang pencuri! Berbahagialah semua orang yang menantikan Aku, yang sudah menyiapkan pakaiannya sehingga tidak perlu berjalan telanjang dan mendapat malu.”
+>
+> — {{% bible val="Wahyu 16:15" link="rev:16,15" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 15" link="rev:15" lang="id" %}} · {{% bible val="16" link="rev:16" lang="id" %}}
 
 Pasukan-pasukan berkumpul di Harmagedon, yakin akan menang. Mereka sudah selesai — mereka hanya belum menyadarinya. Jarak antara seberapa yakin seseorang merasa dan seberapa kokoh sebenarnya tanah di bawahnya itu layak direnungkan, sebab jarang terlihat jelas dari dalam.
 

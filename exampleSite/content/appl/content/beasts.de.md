@@ -7,7 +7,15 @@ story_anchor: beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 kids: /kids/elementary/11-the-dragon-and-the-two-beasts
 docType: appl
+description: "Die zwei Tiere sind eine groteske Kopie von Gott, Christus und dem Geist — nah genug dran, um auf den ersten Blick fast jeden zu täuschen."
 ---
+
+<!-- key-passage -->
+> Und sie beteten den Drachen an, der dem Tier Vollmacht gegeben hatte, und sie beteten das Tier an und sprachen: Wer ist dem Tier gleich? Wer vermag mit ihm zu kämpfen?
+>
+> — {{% bible val="Offenbarung 13,4" link="rev:13,4" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}}
 
 Die zwei Tiere sind eine groteske Kopie von Gott, Christus und dem Geist — nah genug dran, um auf den ersten Blick fast jeden zu täuschen. Aber schau genauer hin, und die Nachahmung bekommt schon Risse: Sie erobert nur durch Gewalt, blendet nur durch Täuschung und baut nichts, das Bestand hat, weil der, den sie kopiert, längst endgültig gesiegt hat.
 

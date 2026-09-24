@@ -7,7 +7,16 @@ story_anchor: witnesses
 expl: /expl/content/witnesses/the-two-witnesses
 kids: /kids/elementary/09-the-two-witnesses
 docType: appl
+description: "The two witnesses testify with everything they have, and the world kills them for it, then throws a party over the bodies. For three and a half days, it looks like total defeat. Then they stand up."
 ---
+
+<!-- key-passage -->
+> But after the three and a half days the breath of life from God entered them, and they stood on their feet, and terror struck those who saw them.
+>
+> — {{% bible val="Revelation 11:11" link="rev:11,11" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 11" link="rev:11" lang="en" %}}
+
 The two witnesses testify with everything they have, and the world kills them for it, then throws a party over the bodies. For three and a half days, it looks like total defeat. Then they stand up. That's the pattern the church herself is asked to live: not a victory that skips over suffering, but one that walks straight through it and comes out the other side standing.
 
 Most of us would rather have the shortcut - a victory with no three-and-a-half days in it at all. This chapter doesn't offer that, and it's worth noticing where you've been quietly expecting it anyway.

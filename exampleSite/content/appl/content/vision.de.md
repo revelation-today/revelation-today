@@ -7,7 +7,15 @@ story_anchor: vision
 expl: /expl/content/vision/setting-the-foundation
 kids: /kids/elementary/02-the-vision
 docType: appl
+description: "Johannes' Vision ist keine Ausschmückung, bevor der „eigentliche“ Inhalt beginnt — sie ist die Linse für alles, was folgt."
 ---
+
+<!-- key-passage -->
+> … und als ich mich umwandte, da sah ich sieben goldene Leuchter und mitten unter den sieben Leuchtern Einen, der einem Sohn des Menschen glich …
+>
+> — {{% bible val="Offenbarung 1,12–13" link="rev:1,12-13" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 1" link="rev:1" lang="de" %}}
 
 Johannes' Vision ist keine Ausschmückung, bevor der „eigentliche“ Inhalt beginnt — sie ist die Linse für alles, was folgt. Die Gemeinde existiert, um zu leuchten, wie sieben Leuchter leuchten: nicht mit eigenem Brennstoff, sondern gehalten von dem, der mitten unter ihnen steht. Nicht mehr wird von ihr verlangt. Nicht weniger genügt.
 

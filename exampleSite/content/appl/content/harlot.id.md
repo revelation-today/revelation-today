@@ -7,7 +7,17 @@ story_anchor: harlot
 expl: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 kids: /kids/elementary/14-the-harlot-and-the-bride
 docType: appl
+description: "Perempuan sundal itu memukau, berhiaskan perhiasan yang seharusnya menjadi milik sang mempelai, menjanjikan kemakmuran kepada siapa pun yang mau minum dari cawannya — dan tidak sedikit orang di dalam gereja sendiri yang tertipu oleh pertunjukan itu."
 ---
+
+<!-- key-passage -->
+> “Jauhilah dia, hai umat-Ku.\
+> Janganlah terlibat dalam dosa-dosanya.\
+> Kalau engkau terlibat, engkau akan dihukum bersama-sama dengan dia.”
+>
+> — {{% bible val="Wahyu 18:4" link="rev:18,4" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 17" link="rev:17" lang="id" %}} · {{% bible val="18" link="rev:18" lang="id" %}} · {{% bible val="19" link="rev:19" lang="id" %}}
 
 Perempuan sundal itu memukau, berhiaskan perhiasan yang seharusnya menjadi milik sang mempelai, menjanjikan kemakmuran kepada siapa pun yang mau minum dari cawannya — dan tidak sedikit orang di dalam gereja sendiri yang tertipu oleh pertunjukan itu. Dia tidak terlihat jelas jahat. Dia terlihat jelas menarik, dan itulah yang menjadi bahaya sesungguhnya.
 

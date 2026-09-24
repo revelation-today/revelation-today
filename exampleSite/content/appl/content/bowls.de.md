@@ -7,7 +7,15 @@ story_anchor: bowls
 expl: /expl/content/bowls/the-bowls-of-wrath
 kids: /kids/elementary/13-the-bowls
 docType: appl
+description: "Die Heere versammeln sich bei Harmagedon, siegessicher. Sie sind schon erledigt — sie wissen es nur noch nicht."
 ---
+
+<!-- key-passage -->
+> Siehe, ich komme wie ein Dieb! Glückselig ist, wer wacht und seine Kleider bewahrt, damit er nicht entblößt einhergeht und man seine Schande sieht!
+>
+> — {{% bible val="Offenbarung 16,15" link="rev:16,15" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 15" link="rev:15" lang="de" %}} · {{% bible val="16" link="rev:16" lang="de" %}}
 
 Die Heere versammeln sich bei Harmagedon, siegessicher. Sie sind schon erledigt — sie wissen es nur noch nicht. Diese Kluft zwischen dem, wie sicher sich jemand fühlt, und dem, wie tragfähig der Boden unter ihm wirklich ist, lohnt sich zu bedenken, denn von innen ist sie selten offensichtlich.
 

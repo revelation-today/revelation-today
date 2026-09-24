@@ -7,7 +7,15 @@ story_anchor: army
 expl: /expl/content/army/the-end-time-and-the-great-tribulation
 kids: /kids/elementary/06-gods-army
 docType: appl
+description: "Gottes Heer kämpft wie kein Heer, das du je gesehen hast — keine Schwerter, keine geborgte Gewalt, nur beharrliche Anbetung und eine Treue, die alles überdauert, was der Feind entgegenwirft."
 ---
+
+<!-- key-passage -->
+> Schädigt die Erde nicht, noch das Meer, noch die Bäume, bis wir die Knechte unseres Gottes an ihren Stirnen versiegelt haben!
+>
+> — {{% bible val="Offenbarung 7,3" link="rev:7,3" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 7" link="rev:7" lang="de" %}}
 
 Gottes Heer kämpft wie kein Heer, das du je gesehen hast — keine Schwerter, keine geborgte Gewalt, nur beharrliche Anbetung und eine Treue, die alles überdauert, was der Feind entgegenwirft. Bevor sonst etwas geschieht, steht eines schon fest: Du bist als sein Eigentum markiert, mitten im Sturm beansprucht, nicht darauf wartend, dir später einen Platz zu verdienen.
 

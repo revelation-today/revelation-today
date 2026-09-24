@@ -7,7 +7,15 @@ story_anchor: letters
 expl: /expl/content/letters/the-angel-of-the-churches
 kids: /kids/elementary/03-the-seven-letters
 docType: appl
+description: "Sieben Gemeinden, sieben ganz unterschiedliche Situationen, und Jesus schickt nie zweimal denselben Brief. Ephesus musste hören, dass richtige Lehre ohne Liebe wertlos ist."
 ---
+
+<!-- key-passage -->
+> Siehe, ich stehe vor der Tür und klopfe an. Wenn jemand meine Stimme hört und die Tür öffnet, so werde ich zu ihm hineingehen und das Mahl mit ihm essen und er mit mir.
+>
+> — {{% bible val="Offenbarung 3,20" link="rev:3,20" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 2" link="rev:2" lang="de" %}} · {{% bible val="3" link="rev:3" lang="de" %}}
 
 Sieben Gemeinden, sieben ganz unterschiedliche Situationen, und Jesus schickt nie zweimal denselben Brief. Ephesus musste hören, dass richtige Lehre ohne Liebe wertlos ist. Smyrna und Philadelphia, arm und von allen Seiten bedrängt, brauchten nichts als Ermutigung. Sardes sah lebendig aus und war schon tot. Laodizea war die einzige Gemeinde, die kein Lob erhielt — und die, bei der Jesus trotzdem noch anklopft.
 

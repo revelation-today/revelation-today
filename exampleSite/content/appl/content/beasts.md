@@ -7,7 +7,16 @@ story_anchor: beasts
 expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 kids: /kids/elementary/11-the-dragon-and-the-two-beasts
 docType: appl
+description: "The two beasts are a grotesque copy of God, Christ, and the Spirit - close enough to fool almost everyone at first glance."
 ---
+
+<!-- key-passage -->
+> People worshiped the dragon because he had given authority to the beast, and they also worshiped the beast and asked, “Who is like the beast? Who can wage war against it?”
+>
+> — {{% bible val="Revelation 13:4" link="rev:13,4" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 13" link="rev:13" lang="en" %}}
+
 The two beasts are a grotesque copy of God, Christ, and the Spirit - close enough to fool almost everyone at first glance. But look closer, and the imitation is already cracking: it conquers only by violence, dazzles only by trickery, and builds nothing that will last, because the one it's copying has already won permanently.
 
 Counterfeits rarely announce themselves as counterfeits. They usually look like a faster, easier, more impressive version of the real thing - right up until you notice what they can't actually deliver.

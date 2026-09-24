@@ -7,7 +7,15 @@ story_anchor: trumpets
 expl: /expl/content/trumpets/the-trumpets-in-revelation
 kids: /kids/elementary/07-the-trumpets
 docType: appl
+description: "Essen wird knapp, Wasser wird bitter, Sicherheit verschwindet — und die Menschen klammern sich fester an ihre Götzen, nicht weniger fest, selbst während dieselben Götzen ihnen den letzten Rest Hoffnung nehmen."
 ---
+
+<!-- key-passage -->
+> Und die übrigen Menschen, die durch diese Plagen nicht getötet wurden, taten nicht Buße über die Werke ihrer Hände …
+>
+> — {{% bible val="Offenbarung 9,20" link="rev:9,20" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 8" link="rev:8" lang="de" %}} · {{% bible val="9" link="rev:9" lang="de" %}}
 
 Essen wird knapp, Wasser wird bitter, Sicherheit verschwindet — und die Menschen klammern sich fester an ihre Götzen, nicht weniger fest, selbst während dieselben Götzen ihnen den letzten Rest Hoffnung nehmen. Leid allein hat noch nie genügt, um ein menschliches Herz zu verändern. Etwas anderes muss zuerst geschehen: die Bereitschaft, tatsächlich aufzublicken.
 

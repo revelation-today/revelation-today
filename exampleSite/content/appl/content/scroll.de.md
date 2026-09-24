@@ -7,7 +7,15 @@ story_anchor: scroll
 expl: /expl/content/scroll/the-little-scroll
 kids: /kids/elementary/08-the-little-scroll
 docType: appl
+description: "Schwere Zeiten können fast alles aufbrechen — außer ein Herz, das an der falschen Sache hängt. Gericht allein sollte also nie genügen."
 ---
+
+<!-- key-passage -->
+> Und ich nahm das Büchlein aus der Hand des Engels und aß es auf; und es war in meinem Mund süß wie Honig. Als ich es aber aufgegessen hatte, wurde es mir bitter im Bauch.
+>
+> — {{% bible val="Offenbarung 10,10" link="rev:10,10" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 10" link="rev:10" lang="de" %}}
 
 Schwere Zeiten können fast alles aufbrechen — außer ein Herz, das an der falschen Sache hängt. Gericht allein sollte also nie genügen. Stattdessen bricht etwas anderes durch: eine Schriftrolle, die Johannes essen muss — etwas Wahres über Gott selbst, süß im Mund und schwer zu schlucken, das Zeit braucht, um wirklich verdaut zu werden, statt nur gehört zu werden.
 

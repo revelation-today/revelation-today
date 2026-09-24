@@ -7,7 +7,15 @@ story_anchor: letters
 expl: /expl/content/letters/the-angel-of-the-churches
 kids: /kids/elementary/03-the-seven-letters
 docType: appl
+description: "Tujuh gereja, tujuh situasi yang sangat berbeda, dan Yesus tidak pernah mengirim surat yang sama dua kali. Efesus perlu mendengar bahwa doktrin yang benar tanpa kasih tidak ada artinya."
 ---
+
+<!-- key-passage -->
+> Lihatlah! Aku berdiri di depan pintu sambil mengetuk. Kalau ada seseorang yang mendengar panggilan-Ku dan membukakan pintu, maka Aku akan masuk dan bersekutu dengan dia dan ia dengan Aku.
+>
+> — {{% bible val="Wahyu 3:20" link="rev:3,20" lang="id" %}} (FAYH)
+
+**Baca teks lengkapnya:** {{% bible val="Wahyu 2" link="rev:2" lang="id" %}} · {{% bible val="3" link="rev:3" lang="id" %}}
 
 Tujuh gereja, tujuh situasi yang sangat berbeda, dan Yesus tidak pernah mengirim surat yang sama dua kali. Efesus perlu mendengar bahwa doktrin yang benar tanpa kasih tidak ada artinya. Smirna dan Filadelfia, miskin dan tertekan dari segala sisi, hanya butuh dorongan semangat. Sardis terlihat hidup dan sebenarnya sudah mati. Laodikia adalah satu-satunya gereja yang tidak menerima pujian sama sekali — dan tetap gereja yang masih diketuk pintunya oleh Yesus.
 

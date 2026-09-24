@@ -7,7 +7,16 @@ story_anchor: harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
 kids: /kids/elementary/12-the-two-harvests
 docType: appl
+description: "On the sea of glass and fire, the faithful sing - and their only qualification was staying loyal, not winning, not being impressive, not avoiding cost."
 ---
+
+<!-- key-passage -->
+> This calls for patient endurance on the part of the people of God who keep his commands and remain faithful to Jesus.
+>
+> — {{% bible val="Revelation 14:12" link="rev:14,12" lang="en" %}} (NIV)
+
+**Read the full text:** {{% bible val="Revelation 14" link="rev:14" lang="en" %}}
+
 On the sea of glass and fire, the faithful sing - and their only qualification was staying loyal, not winning, not being impressive, not avoiding cost. The ones who played it safe and sided with the beast to avoid that cost end up facing a far heavier one instead.
 
 That reframes what "faithfulness" actually requires this week. It isn't a performance to be judged on results. It's simply not trading your loyalty away when staying loyal looks like the harder, costlier option.

@@ -7,7 +7,15 @@ story_anchor: harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
 kids: /kids/elementary/12-the-two-harvests
 docType: appl
+description: "Auf dem gläsernen, feurigen Meer singen die Treuen — und ihre einzige Qualifikation war, treu zu bleiben, nicht zu gewinnen, nicht beeindruckend zu sein, nicht den Kosten auszuweichen."
 ---
+
+<!-- key-passage -->
+> Hier ist das standhafte Ausharren der Heiligen, hier sind die, welche die Gebote Gottes und den Glauben an Jesus bewahren!
+>
+> — {{% bible val="Offenbarung 14,12" link="rev:14,12" lang="de" %}} (Schlachter 2000)
+
+**Den ganzen Text lesen:** {{% bible val="Offenbarung 14" link="rev:14" lang="de" %}}
 
 Auf dem gläsernen, feurigen Meer singen die Treuen — und ihre einzige Qualifikation war, treu zu bleiben, nicht zu gewinnen, nicht beeindruckend zu sein, nicht den Kosten auszuweichen. Diejenigen, die auf Nummer sicher gingen und sich dem Tier anschlossen, um diese Kosten zu vermeiden, stehen stattdessen vor einer weit schwereren Rechnung.
 

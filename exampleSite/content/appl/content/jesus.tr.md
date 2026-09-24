@@ -7,7 +7,19 @@ story_anchor: jesus
 expl: /expl/content/jesus/a-different-christmas-story
 kids: /kids/elementary/10-jesus-victory
 docType: appl
+description: "Mikail ve melekleri ejderhaya karşı savaşır, ve ejderha kaybeder — kadının ya da çocuklarının yaptığı bir şeyle değil, Kuzu'nun kanıyla yenilir. Ejderhayı yenmek hiçbir zaman senin görevin değildi."
 ---
+
+<!-- key-passage -->
+> Kardeşlerimiz Kuzu'nun kanıyla\
+> Ve ettikleri tanıklık bildirisiyle\
+> Onu yendiler.\
+> Ölümü göze alacak kadar\
+> Vazgeçmişlerdi can sevgisinden.
+>
+> — {{% bible val="Vahiy 12:11" link="rev:12,11" lang="tr" %}} (TCL02)
+
+**Metnin tamamını oku:** {{% bible val="Vahiy 12" link="rev:12" lang="tr" %}}
 
 Mikail ve melekleri ejderhaya karşı savaşır, ve ejderha kaybeder — kadının ya da çocuklarının yaptığı bir şeyle değil, Kuzu'nun kanıyla yenilir. Ejderhayı yenmek hiçbir zaman senin görevin değildi. O, sana ulaşmadan çok önce gökte zaten tamamlanmıştı. Senin işin sadece insanları İsa'ya doğru çekmeye devam etmek — ne kadar az zamanı kaldığını tam olarak bilen ejderha her zamankinden daha çok öfkeyle saldırırken bile.
 
