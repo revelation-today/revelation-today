@@ -13,7 +13,8 @@ chapters: "Revelation 8–9"
 ### Revelation 8–9
 
 > **Story to read:** [The Trumpets]({{< relref "story/elementary/tour#trumpets" >}})  
-> **Bible:** {{% bible val="Revelation 8–9" link="rev:8" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 8–9" link="rev:8" lang="en" %}}  
+> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-07.pdf)
 
 
 ## 1. What would you do?

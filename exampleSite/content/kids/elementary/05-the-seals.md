@@ -13,7 +13,8 @@ chapters: "Revelation 6"
 ### Revelation 6
 
 > **Story to read:** [The Seals]({{< relref "story/elementary/tour#seals" >}})  
-> **Bible:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}  
+> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-05.pdf)
 
 
 ## 1. Spot the fake

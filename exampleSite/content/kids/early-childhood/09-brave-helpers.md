@@ -11,7 +11,8 @@ next: /kids/early-childhood/10-a-different-christmas-story
 # Brave Helpers
 
 > **Story to read:** [The Two Witnesses]({{< relref "story/early-childhood/tour#witnesses" >}})  
-> **Bible:** {{% bible val="Revelation 11" link="rev:11" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 11" link="rev:11" lang="en" %}}  
+> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-09.pdf)
 
 
 ## The Picture

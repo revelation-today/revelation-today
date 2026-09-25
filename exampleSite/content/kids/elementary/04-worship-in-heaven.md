@@ -13,7 +13,8 @@ chapters: "Revelation 4–5"
 ### Revelation 4–5
 
 > **Story to read:** [Worship in the Throne Room]({{< relref "story/elementary/tour#worship" >}})  
-> **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}  
+> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-04.pdf)
 
 
 ## 1. Handing something over

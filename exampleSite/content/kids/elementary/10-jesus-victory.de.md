@@ -13,7 +13,8 @@ chapters: "Offenbarung 12"
 ### Offenbarung 12
 
 > **Geschichte zum Vorlesen:** [Die Frau, das Baby und der Drache (Kapitel 12)]({{< relref "story/elementary/tour#jesus" >}})  
-> **Bibel:** {{% bible val="Offenbarung 12" link="rev:12" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 12" link="rev:12" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-10.pdf)
 
 
 ## 1. Eine Weihnachtsgeschichte, die du nicht kennst

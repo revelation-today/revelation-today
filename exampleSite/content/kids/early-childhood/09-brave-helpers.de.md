@@ -11,7 +11,8 @@ next: /kids/early-childhood/10-a-different-christmas-story
 # Mutige Helfer
 
 > **Geschichte zum Vorlesen:** [The Two Witnesses]({{< relref "story/early-childhood/tour#witnesses" >}})  
-> **Bibel:** {{% bible val="Offenbarung 11" link="rev:11" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 11" link="rev:11" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-09.pdf)
 
 
 ## Das Bild

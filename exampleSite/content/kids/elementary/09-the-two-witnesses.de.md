@@ -13,7 +13,8 @@ chapters: "Offenbarung 11"
 ### Offenbarung 11
 
 > **Geschichte zum Vorlesen:** [Die zwei Zeugen, die nicht am Boden blieben (Kapitel 11)]({{< relref "story/elementary/tour#witnesses" >}})  
-> **Bibel:** {{% bible val="Offenbarung 11" link="rev:11" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 11" link="rev:11" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-09.pdf)
 
 
 ## 1. Was ist ein Zeuge?

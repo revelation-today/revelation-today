@@ -13,7 +13,8 @@ chapters: "Revelation 10"
 ### Revelation 10
 
 > **Story to read:** [The Small Scroll]({{< relref "story/elementary/tour#scroll" >}})  
-> **Bible:** {{% bible val="Revelation 10" link="rev:10" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 10" link="rev:10" lang="en" %}}  
+> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-08.pdf)
 
 
 ## 1. Eating your homework

@@ -13,7 +13,8 @@ chapters: "Revelation 13"
 ### Revelation 13
 
 > **Story to read:** [The Dragon and the Two Beasts]({{< relref "story/elementary/tour#beasts" >}})  
-> **Bible:** {{% bible val="Revelation 13" link="rev:13" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 13" link="rev:13" lang="en" %}}  
+> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-11.pdf)
 
 
 ## 1. Copycats

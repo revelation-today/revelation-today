@@ -11,7 +11,8 @@ next: /kids/early-childhood/03-the-best-party-in-heaven
 # Sadece Senin İçin Mektuplar
 
 > **Okunacak hikâye:** [The Letters to the Churches]({{< relref "story/early-childhood/tour#letters" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 2–3" link="rev:2" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 2–3" link="rev:2" lang="tr" %}}  
+> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-02.pdf)
 
 
 ## Resim

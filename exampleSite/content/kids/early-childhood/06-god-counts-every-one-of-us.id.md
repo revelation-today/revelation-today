@@ -11,7 +11,8 @@ next: /kids/early-childhood/07-loud-trumpets-big-warnings
 # Allah Menghitung Kita Semua
 
 > **Cerita untuk dibacakan:** [The Army of God]({{< relref "story/early-childhood/tour#army" >}})  
-> **Alkitab:** {{% bible val="Wahyu 7" link="rev:7" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 7" link="rev:7" lang="ind" %}}  
+> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-06.pdf)
 
 
 ## Gambarannya

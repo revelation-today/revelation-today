@@ -10,7 +10,8 @@ prev: /kids/early-childhood/15-heaven-is-being-close-to-god
 # Our New Home, the New Jerusalem
 
 > **Story to read:** [New Heaven and New Earth]({{< relref "story/early-childhood/tour#paradise" >}})  
-> **Bible:** {{% bible val="Revelation 21–22" link="rev:21" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 21–22" link="rev:21" lang="en" %}}  
+> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-16.pdf)
 
 
 ## The Picture

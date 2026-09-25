@@ -13,7 +13,8 @@ chapters: "Wahyu 12"
 ### Wahyu 12
 
 > **Cerita untuk dibacakan:** [Perempuan, Bayi, dan Naga (Pasal 12)]({{< relref "story/elementary/tour#jesus" >}})  
-> **Alkitab:** {{% bible val="Wahyu 12" link="rev:12" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 12" link="rev:12" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-10.pdf)
 
 
 ## 1. Kisah Natal yang belum kau kenal

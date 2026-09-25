@@ -13,7 +13,8 @@ chapters: "Revelation 7"
 ### Revelation 7
 
 > **Story to read:** [The Army of God]({{< relref "story/elementary/tour#army" >}})  
-> **Bible:** {{% bible val="Revelation 7" link="rev:7" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 7" link="rev:7" lang="en" %}}  
+> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-06.pdf)
 
 
 ## 1. Draw an army

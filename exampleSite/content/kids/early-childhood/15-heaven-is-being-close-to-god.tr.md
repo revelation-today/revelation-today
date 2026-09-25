@@ -11,7 +11,8 @@ next: /kids/early-childhood/16-our-new-home-the-new-jerusalem
 # Gökyüzü Tanrı'ya Yakın Olmaktır
 
 > **Okunacak hikâye:** [The Millennium]({{< relref "story/early-childhood/tour#1000y" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 20" link="rev:20" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 20" link="rev:20" lang="tr" %}}  
+> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-15.pdf)
 
 
 ## Resim

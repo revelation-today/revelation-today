@@ -11,7 +11,8 @@ next: /kids/early-childhood/04-the-lion-who-is-really-a-lamb
 # The Best Party in Heaven
 
 > **Story to read:** [Worship in the Throne Room]({{< relref "story/early-childhood/tour#worship" >}})  
-> **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}  
+> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-03.pdf)
 
 
 ## The Picture

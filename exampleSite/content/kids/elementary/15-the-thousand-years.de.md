@@ -13,7 +13,8 @@ chapters: "Offenbarung 20"
 ### Offenbarung 20
 
 > **Geschichte zum Vorlesen:** [Die Herrschaft, die man nicht sehen konnte (Kapitel 20)]({{< relref "story/elementary/tour#1000y" >}})  
-> **Bibel:** {{% bible val="Offenbarung 20" link="rev:20" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 20" link="rev:20" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-15.pdf)
 
 
 ## 1. Erwachsene, die sich uneinig sind

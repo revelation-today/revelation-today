@@ -12,7 +12,8 @@ chapters: "Hintergrund"
 ### Die Welt, in die hinein die Offenbarung geschrieben wurde
 
 > **Geschichte zum Vorlesen:** [Der Kaiser, der ein Gott sein wollte (Hintergrund)]({{< relref "story/elementary/tour#background" >}})  
-> **Bibel:** {{% bible val="Offenbarung 1:9" link="rev:1,9" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 1:9" link="rev:1,9" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-01.pdf)
 
 
 ## 1. Das Klatschspiel

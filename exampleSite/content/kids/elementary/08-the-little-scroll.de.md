@@ -13,7 +13,8 @@ chapters: "Offenbarung 10"
 ### Offenbarung 10
 
 > **Geschichte zum Vorlesen:** [Die Schriftrolle, die nach Honig schmeckt - und nach Ärger (Kapitel 10)]({{< relref "story/elementary/tour#scroll" >}})  
-> **Bibel:** {{% bible val="Offenbarung 10" link="rev:10" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 10" link="rev:10" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-08.pdf)
 
 
 ## 1. Bücher essen

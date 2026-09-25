@@ -10,7 +10,8 @@ next: /kids/early-childhood/02-letters-just-for-you
 # Jesus Is Bigger Than Any King
 
 > **Story to read:** [The Vision]({{< relref "story/early-childhood/tour#vision" >}})  
-> **Bible:** {{% bible val="Revelation 1" link="rev:1" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 1" link="rev:1" lang="en" %}}  
+> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-01.pdf)
 
 
 ## The Picture

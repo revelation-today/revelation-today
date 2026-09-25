@@ -11,7 +11,8 @@ next: /kids/early-childhood/13-bad-things-dont-win
 # Treu, auch wenn es schwer ist
 
 > **Geschichte zum Vorlesen:** [The Two Harvests]({{< relref "story/early-childhood/tour#harvest" >}})  
-> **Bibel:** {{% bible val="Offenbarung 14" link="rev:14" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 14" link="rev:14" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-12.pdf)
 
 
 ## Das Bild

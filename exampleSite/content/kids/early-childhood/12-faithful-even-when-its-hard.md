@@ -11,7 +11,8 @@ next: /kids/early-childhood/13-bad-things-dont-win
 # Faithful Even When It's Hard
 
 > **Story to read:** [The Two Harvests]({{< relref "story/early-childhood/tour#harvest" >}})  
-> **Bible:** {{% bible val="Revelation 14" link="rev:14" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 14" link="rev:14" lang="en" %}}  
+> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-12.pdf)
 
 
 ## The Picture

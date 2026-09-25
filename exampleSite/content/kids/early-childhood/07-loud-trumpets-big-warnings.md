@@ -11,7 +11,8 @@ next: /kids/early-childhood/08-a-sweet-and-sour-scroll
 # Loud Trumpets, Big Warnings
 
 > **Story to read:** [The Trumpets]({{< relref "story/early-childhood/tour#trumpets" >}})  
-> **Bible:** {{% bible val="Revelation 8–9" link="rev:8" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 8–9" link="rev:8" lang="en" %}}  
+> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-07.pdf)
 
 
 ## The Picture

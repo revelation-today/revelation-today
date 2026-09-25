@@ -13,7 +13,8 @@ chapters: "Vahiy 12"
 ### Vahiy 12
 
 > **Okunacak hikâye:** [Kadın, Bebek ve Ejderha (Bölüm 12)]({{< relref "story/elementary/tour#jesus" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 12" link="rev:12" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 12" link="rev:12" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-10.pdf)
 
 
 ## 1. Bilmediğin bir Noel öyküsü

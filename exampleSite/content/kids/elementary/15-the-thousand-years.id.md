@@ -13,7 +13,8 @@ chapters: "Wahyu 20"
 ### Wahyu 20
 
 > **Cerita untuk dibacakan:** [Pemerintahan yang Tak Terlihat (Pasal 20)]({{< relref "story/elementary/tour#1000y" >}})  
-> **Alkitab:** {{% bible val="Wahyu 20" link="rev:20" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 20" link="rev:20" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-15.pdf)
 
 
 ## 1. Orang dewasa yang berbeda pendapat

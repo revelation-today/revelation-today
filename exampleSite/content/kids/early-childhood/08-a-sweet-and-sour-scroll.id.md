@@ -11,7 +11,8 @@ next: /kids/early-childhood/09-brave-helpers
 # Gulungan Kitab yang Manis dan Asam
 
 > **Cerita untuk dibacakan:** [The Small Scroll]({{< relref "story/early-childhood/tour#scroll" >}})  
-> **Alkitab:** {{% bible val="Wahyu 10" link="rev:10" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 10" link="rev:10" lang="ind" %}}  
+> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-08.pdf)
 
 
 ## Gambarannya

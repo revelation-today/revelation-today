@@ -13,7 +13,8 @@ chapters: "Offenbarung 7"
 ### Offenbarung 7
 
 > **Geschichte zum Vorlesen:** [Die Armee, die nicht kämpft (Kapitel 7)]({{< relref "story/elementary/tour#army" >}})  
-> **Bibel:** {{% bible val="Offenbarung 7" link="rev:7" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 7" link="rev:7" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-06.pdf)
 
 
 ## 1. Mal ein Heer

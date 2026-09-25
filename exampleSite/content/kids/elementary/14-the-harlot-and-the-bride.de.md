@@ -13,7 +13,8 @@ chapters: "Offenbarung 17–19"
 ### Offenbarung 17–19
 
 > **Geschichte zum Vorlesen:** [Die Frau, die nicht die Braut war (Kapitel 17-19)]({{< relref "story/elementary/tour#harlot" >}})  
-> **Bibel:** {{% bible val="Offenbarung 17–19" link="rev:17" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 17–19" link="rev:17" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-14.pdf)
 
 
 ## 1. Zwei Einladungen

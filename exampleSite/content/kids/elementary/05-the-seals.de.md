@@ -13,7 +13,8 @@ chapters: "Offenbarung 6"
 ### Offenbarung 6
 
 > **Geschichte zum Vorlesen:** [Vier Reiter und eine Frage (Kapitel 6)]({{< relref "story/elementary/tour#seals" >}})  
-> **Bibel:** {{% bible val="Offenbarung 6" link="rev:6" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 6" link="rev:6" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-05.pdf)
 
 
 ## 1. Finde die Fälschung

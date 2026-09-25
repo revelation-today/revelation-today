@@ -13,7 +13,8 @@ chapters: "Wahyu 17–19"
 ### Wahyu 17–19
 
 > **Cerita untuk dibacakan:** [Perempuan yang Bukan Sang Pengantin (Pasal 17-19)]({{< relref "story/elementary/tour#harlot" >}})  
-> **Alkitab:** {{% bible val="Wahyu 17–19" link="rev:17" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 17–19" link="rev:17" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-14.pdf)
 
 
 ## 1. Dua undangan

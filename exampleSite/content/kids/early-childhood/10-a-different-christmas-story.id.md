@@ -11,7 +11,8 @@ next: /kids/early-childhood/11-the-copycat-villain
 # Kisah Natal yang Berbeda
 
 > **Cerita untuk dibacakan:** [The Victory of Jesus]({{< relref "story/early-childhood/tour#jesus" >}})  
-> **Alkitab:** {{% bible val="Wahyu 12" link="rev:12" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 12" link="rev:12" lang="ind" %}}  
+> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-10.pdf)
 
 
 ## Gambarannya

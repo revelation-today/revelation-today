@@ -13,7 +13,8 @@ chapters: "Offenbarung 8–9"
 ### Offenbarung 8–9
 
 > **Geschichte zum Vorlesen:** [Sieben Posaunen erschüttern die Welt (Kapitel 8-9)]({{< relref "story/elementary/tour#trumpets" >}})  
-> **Bibel:** {{% bible val="Offenbarung 8–9" link="rev:8" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 8–9" link="rev:8" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-07.pdf)
 
 
 ## 1. Was würdest du tun?

@@ -12,7 +12,8 @@ chapters: "Wahyu 21–22"
 ### Wahyu 21–22
 
 > **Cerita untuk dibacakan:** [Akhirnya Pulang (Pasal 21-22)]({{< relref "story/elementary/tour#paradise" >}})  
-> **Alkitab:** {{% bible val="Wahyu 21–22" link="rev:21" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 21–22" link="rev:21" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-16.pdf)
 
 
 ## 1. Menurutmu surga itu apa?

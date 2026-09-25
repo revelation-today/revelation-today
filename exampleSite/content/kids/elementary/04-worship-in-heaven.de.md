@@ -13,7 +13,8 @@ chapters: "Offenbarung 4–5"
 ### Offenbarung 4–5
 
 > **Geschichte zum Vorlesen:** [Die Tür im Himmel (Kapitel 4-5)]({{< relref "story/elementary/tour#worship" >}})  
-> **Bibel:** {{% bible val="Offenbarung 4–5" link="rev:4" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 4–5" link="rev:4" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-04.pdf)
 
 
 ## 1. Etwas abgeben

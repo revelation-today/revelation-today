@@ -13,7 +13,8 @@ chapters: "Wahyu 13"
 ### Wahyu 13
 
 > **Cerita untuk dibacakan:** [Naga Itu Menyewa Dua Monster (Pasal 13)]({{< relref "story/elementary/tour#beasts" >}})  
-> **Alkitab:** {{% bible val="Wahyu 13" link="rev:13" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 13" link="rev:13" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-11.pdf)
 
 
 ## 1. Peniru

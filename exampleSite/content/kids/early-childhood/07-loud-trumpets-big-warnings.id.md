@@ -11,7 +11,8 @@ next: /kids/early-childhood/08-a-sweet-and-sour-scroll
 # Terompet Nyaring, Peringatan Besar
 
 > **Cerita untuk dibacakan:** [The Trumpets]({{< relref "story/early-childhood/tour#trumpets" >}})  
-> **Alkitab:** {{% bible val="Wahyu 8–9" link="rev:8" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 8–9" link="rev:8" lang="ind" %}}  
+> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-07.pdf)
 
 
 ## Gambarannya

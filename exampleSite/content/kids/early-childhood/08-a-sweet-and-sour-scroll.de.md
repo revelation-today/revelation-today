@@ -11,7 +11,8 @@ next: /kids/early-childhood/09-brave-helpers
 # Eine süße und saure Schriftrolle
 
 > **Geschichte zum Vorlesen:** [The Small Scroll]({{< relref "story/early-childhood/tour#scroll" >}})  
-> **Bibel:** {{% bible val="Offenbarung 10" link="rev:10" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 10" link="rev:10" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-08.pdf)
 
 
 ## Das Bild

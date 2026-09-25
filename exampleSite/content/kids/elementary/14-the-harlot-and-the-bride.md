@@ -13,7 +13,8 @@ chapters: "Revelation 17–19"
 ### Revelation 17–19
 
 > **Story to read:** [The Harlot]({{< relref "story/elementary/tour#harlot" >}})  
-> **Bible:** {{% bible val="Revelation 17–19" link="rev:17" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 17–19" link="rev:17" lang="en" %}}  
+> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-14.pdf)
 
 
 ## 1. Two invitations

@@ -12,7 +12,8 @@ chapters: "Offenbarung 21–22"
 ### Offenbarung 21–22
 
 > **Geschichte zum Vorlesen:** [Endlich zu Hause (Kapitel 21-22)]({{< relref "story/elementary/tour#paradise" >}})  
-> **Bibel:** {{% bible val="Offenbarung 21–22" link="rev:21" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 21–22" link="rev:21" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-16.pdf)
 
 
 ## 1. Was, glaubst du, ist der Himmel?

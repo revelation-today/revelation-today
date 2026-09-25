@@ -13,7 +13,8 @@ chapters: "Revelation 11"
 ### Revelation 11
 
 > **Story to read:** [The Two Witnesses]({{< relref "story/elementary/tour#witnesses" >}})  
-> **Bible:** {{% bible val="Revelation 11" link="rev:11" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 11" link="rev:11" lang="en" %}}  
+> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-09.pdf)
 
 
 ## 1. What is a witness?

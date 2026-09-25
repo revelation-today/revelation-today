@@ -12,7 +12,8 @@ chapters: "Vahiy 21–22"
 ### Vahiy 21–22
 
 > **Okunacak hikâye:** [Sonunda Eve Dönüş (Bölüm 21-22)]({{< relref "story/elementary/tour#paradise" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 21–22" link="rev:21" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 21–22" link="rev:21" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-16.pdf)
 
 
 ## 1. Sence gök nedir?

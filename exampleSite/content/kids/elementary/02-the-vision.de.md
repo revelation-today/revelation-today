@@ -13,7 +13,8 @@ chapters: "Offenbarung 1"
 ### Offenbarung 1
 
 > **Geschichte zum Vorlesen:** [Die Stimme auf der Insel (Kapitel 1)]({{< relref "story/elementary/tour#vision" >}})  
-> **Bibel:** {{% bible val="Offenbarung 1" link="rev:1" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 1" link="rev:1" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-02.pdf)
 
 
 ## 1. Eine überraschende Frage

@@ -13,7 +13,8 @@ chapters: "Revelation 20"
 ### Revelation 20
 
 > **Story to read:** [The Millennium]({{< relref "story/elementary/tour#1000y" >}})  
-> **Bible:** {{% bible val="Revelation 20" link="rev:20" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 20" link="rev:20" lang="en" %}}  
+> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-15.pdf)
 
 
 ## 1. Grown-ups disagreeing

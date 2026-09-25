@@ -11,7 +11,8 @@ next: /kids/early-childhood/05-the-horses-are-not-the-boss
 # The Lion Who Is Really a Lamb
 
 > **Story to read:** [Worship in the Throne Room]({{< relref "story/early-childhood/tour#worship" >}})  
-> **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}  
+> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-04.pdf)
 
 
 ## The Picture

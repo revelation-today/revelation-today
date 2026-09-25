@@ -11,7 +11,8 @@ next: /kids/early-childhood/06-god-counts-every-one-of-us
 # Kuda-Kuda Itu Bukan Bos
 
 > **Cerita untuk dibacakan:** [The Seals]({{< relref "story/early-childhood/tour#seals" >}})  
-> **Alkitab:** {{% bible val="Wahyu 6" link="rev:6" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 6" link="rev:6" lang="ind" %}}  
+> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-05.pdf)
 
 
 ## Gambarannya

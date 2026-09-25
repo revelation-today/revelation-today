@@ -11,7 +11,8 @@ next: /kids/early-childhood/12-faithful-even-when-its-hard
 # The Copycat Villain
 
 > **Story to read:** [The Dragon and the Two Beasts]({{< relref "story/early-childhood/tour#beasts" >}})  
-> **Bible:** {{% bible val="Revelation 13" link="rev:13" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 13" link="rev:13" lang="en" %}}  
+> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-11.pdf)
 
 
 ## The Picture

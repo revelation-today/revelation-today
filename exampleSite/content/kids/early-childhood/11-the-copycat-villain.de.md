@@ -11,7 +11,8 @@ next: /kids/early-childhood/12-faithful-even-when-its-hard
 # Der Nachahmer-Bösewicht
 
 > **Geschichte zum Vorlesen:** [The Dragon and the Two Beasts]({{< relref "story/early-childhood/tour#beasts" >}})  
-> **Bibel:** {{% bible val="Offenbarung 13" link="rev:13" lang="de" trans="hfa" %}}
+> **Bibel:** {{% bible val="Offenbarung 13" link="rev:13" lang="de" trans="hfa" %}}  
+> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-11.pdf)
 
 
 ## Das Bild

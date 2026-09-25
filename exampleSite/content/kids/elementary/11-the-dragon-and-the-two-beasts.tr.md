@@ -13,7 +13,8 @@ chapters: "Vahiy 13"
 ### Vahiy 13
 
 > **Okunacak hikâye:** [Ejderha İki Canavar Kiralıyor (Bölüm 13)]({{< relref "story/elementary/tour#beasts" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-11.pdf)
 
 
 ## 1. Taklitçiler

@@ -11,7 +11,8 @@ next: /kids/early-childhood/14-a-thousand-years-of-jesus-being-king
 # Kötü Şeyler Kazanmaz
 
 > **Okunacak hikâye:** [The Bowls of Wrath]({{< relref "story/early-childhood/tour#bowls" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 15–16" link="rev:15" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 15–16" link="rev:15" lang="tr" %}}  
+> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-13.pdf)
 
 
 ## Resim

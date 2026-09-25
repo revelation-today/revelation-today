@@ -11,7 +11,8 @@ next: /kids/early-childhood/06-god-counts-every-one-of-us
 # The Horses Are Not the Boss
 
 > **Story to read:** [The Seals]({{< relref "story/early-childhood/tour#seals" >}})  
-> **Bible:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}  
+> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-05.pdf)
 
 
 ## The Picture
