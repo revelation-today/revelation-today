@@ -184,7 +184,8 @@
       {{- range . }}
         {{- with .Headings }}
           {{- range . -}}
-            <li><a href="#{{ anchorize .ID }}">{{- .Title -}}</a></li>
+            {{- /* a heading's title arrives as HTML ("&ldquo;Entrückung&rdquo;"); as toc.html does */}}
+            <li><a href="#{{ anchorize .ID }}">{{- .Title | safeHTML | plainify | htmlUnescape -}}</a></li>
           {{ end -}}
         {{ end -}}
       {{ end -}}
