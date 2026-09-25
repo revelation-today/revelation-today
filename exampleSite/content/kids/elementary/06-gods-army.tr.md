@@ -13,88 +13,101 @@ chapters: "Vahiy 7"
 ### Vahiy 7
 
 > **Okunacak hikâye:** [Savaşmayan Ordu (Bölüm 7)]({{< relref "story/elementary/tour#army" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 7" link="rev:7" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 7" link="rev:7" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-06.pdf)
 
 
-## 1. Havada kalan soru
+## 1. Bir ordu çiz
 
-6. bölüm bir soruyla bitti: **„Kim ayakta durabilir?"**
+Herkese bir ordu çizmesi için otuz saniye ver. Sonra ne çizdiklerine bak.
 
-7. bölüm cevap veriyor ve cevap bir ordu.
+Silahlar mı? Zırhlar mı? Öfkeli görünen bir sürü insan mı?
 
-## 2. Sayım
+Şimdi Tanrı'nınkine bakalım.
 
-Yuhanna sayıyı duyuyor: 144.000, İsrail'in her oymağından, savaşa hazır bir ordu gibi düzenli sayılmış.
+## 2. Önce, işaret
 
-Kutsal Kitap'ta insanları böyle saymanın tek bir nedeni vardır: asker kaydetmek.
+Her şeyden önce Tanrı halkı için bir şey yapıyor: onları mühürlüyor. Hangi orduda olduklarını
+gösteren bir işaret.
 
-Yani bir ordu görmeye hazırlanıyoruz.
+Neye benzediği tam olarak söylenmiyor ve bu sorun değil. Önemli olan ne anlama geldiği: *Tanrı seni
+çoktan fark etti ve sana göz kulak oluyor.* Bu sonra, işler zorlaştığında önem kazanıyor — herkes
+korkmuş ve cesaretini yitirmişken Tanrı'nın halkının hâlâ umudu var. Kimse bunu onlardan alamaz.
 
-## 3. Sonra dönüyor
+## 3. Sonra, sayım
 
-Ve 5. bölümdeki gibi, Yuhanna'nın **duyduğu** ile **gördüğü** farklı.
+Sonra ordu sayılıyor, çünkü iyi bir orduda kimse kaybolmaz.
 
-Dönüyor ve **kimsenin sayamayacağı** büyük bir kalabalık görüyor — her ulustan, her oymaktan, her
-halktan ve her dilden.
+Yuhanna sayıyı *duyuyor*: 144.000. Gözünün önüne getirmeyi dene — aslında getiremezsin. Bir buçuk
+stadyum dolusu.
 
-Düzenli kaydedilmiş ordu, sayılamayan büyük bir kalabalık çıkıyor — ve her yerden geliyorlar.
+Sonra Yuhanna *bakıyor* — ve kimsenin sayamayacağı kadar büyük bir kalabalık görüyor.
 
-## 4. Silahları
+(Vahiy'de bu artık iki kez oluyor: bir şey duyuyor ve başka bir şey görüyor, ve gördüğü daha büyük.
+Buna dikkat et.)
 
-Beyaz kaftanlar giymişler ve ellerinde **hurma dalları** var.
+## 4. Bu ordu aslında nasıl
 
-Hurma dalı silah değildir. Zafer kutlamak için kullanılır.
+İşte baştaki çizimlerin yanlış çıktığı yer burası.
 
-Savaş alanına kılıçla değil, zafer işaretiyle geliyorlar. Çünkü savaşı başka biri kazandı.
+- **Tapınan insanlar.** Kimseye zarar vermeye çalışmıyorlar. İnsanlara iyilik yapmak ve onları
+  İsa'ya davet etmek istiyorlar.
+- **Büyük sıkıntıdan çıkıp geldiler** — bu gelecekteki bir hafta değil, İsa geldiğinden beri süren
+  uzun dönem; Tanrı'nın halkı bu dönemde hak etmedikleri zor şeylerden geçiyor. Bazen insanlar
+  bizi sırf İsa'ya ait olduğumuz için sevmiyor.
+- **Kin tutmuyorlar.** Asıl silah bu. Sevgi daha uzun dayanır.
 
-## 5. Kaftanlar nasıl beyazlandı
+## 5. Bizim hangi silahlarımız var?
 
-Tuhaf ve güzel bir cümle var: kaftanlarını „Kuzu'nun kanıyla yıkayıp beyazlattılar."
+Çocuklara doğrudan sor: bu ordudaysan, neyle silahlısın?
 
-Kan genellikle leke bırakır. Burada kan temizliyor. Çünkü zaferleri kendi çabalarının sonucu değil —
-İsa'nın yaptığının sonucu.
+Vahiy'in bütün kitaptan toplanan cevabı: sadık kalmak, doğruyu söylemek, nefrete nefretle karşılık
+vermemek ve dua — bir dahaki sefere göreceğimiz gibi, dua hepsinin en güçlüsü çıkıyor.
 
-## 6. Alındaki mühür
+## 6. Sondaki teselli
 
-Bütün bunlardan önce alınlarına mühür vuruluyor.
+Bölüm 7, Kutsal Kitap'taki en şefkatli cümlelerden biriyle bitiyor: Tanrı „gözlerinden bütün
+yaşları silecek."
 
-Bu mühür onları dokunulmaz yapmıyor. Onların Tanrı'ya ait olduğunu işaretliyor. Kötü şeyler yine
-olabilir — ama hiçbiri bu sahipliği değiştiremez.
+*Hiç gözyaşı olmadı* değil. Gözyaşları gerçekti. Siliniyorlar.
 
-**Ezber ayeti:** „Kurtarış, tahtta oturan Tanrımız'a ve Kuzu'ya özgüdür!" (Vahiy 7,10)
+**Ezber ayeti:** „Tanrı gözlerinden bütün yaşları silecek." (Vahiy 7,17)
 
 ## Kendin bak
 
 *İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
 
-Kimsenin sayamadığı büyük kalabalığın içinde bir yerdesin.
+Kimsenin sayamadığı kalabalığın içinde bir yerdesin.
 
-Soluna ve sağına bak. Yanında kim duruyor? Nereli? Ezgi hangi dilde — ve yine de anlıyor
-musun?
+Sola ve sağa bak. Yanında kim duruyor? Nereden geliyorlar? İlahi hangi dilde — ve yine de
+anlayabiliyor musun?
 
-Kendi kaftanına bak. Şimdi bembeyaz. Yıkanmadan önce nasıldı?
+Giysine bak. Artık beyaz. Yıkanmadan önce nasıl görünüyordu?
 
-Şimdi başını kaldır. Biri kalabalığın arasından geçerek insanların gözyaşlarını siliyor. Sana
-yaklaşmasını izle.
+Şimdi yukarı bak. Biri kalabalığın arasından geçerek insanların yüzündeki gözyaşlarını siliyor.
+Yaklaşmasını izle.
 
 ## 7. Dua
 
-Rab, ordun her ulustan geldiği ve biz de içinde olabildiğimiz için teşekkür ederiz. Zaferimiz İsa'nın
-zaferi olduğu için teşekkür ederiz. Âmin.
+Tanrım, bizi kendin olarak işaretlediğin ve kimsenin bunu bozamayacağı için sana teşekkür ederiz.
+Ordunun sevgiyle savaştığı için teşekkür ederiz. İnsanlara nefretle karşılık vermememize yardım et.
+Ve bir gün gözyaşlarımızı kendin sileceğin için teşekkür ederiz. Amin.
 
 ## Ek: Önderler için fikirler
 
-**Açılış:** Sayılması imkânsız bir şeyi saymayı deneyin — bir fotoğraftaki yıldızlar, bir kâsedeki
-pirinçler. Sonra sayılamayan kalabalığı konuşun.
+**Açılış:** Otuz saniyelik ordu çizimi. Çizimleri saklayın ve 4. bölümde onlara geri dönün — aradaki
+fark sizin yerinize öğretir.
 
-**El işi fikri:** Yeşil kâğıttan hurma dalları; üzerine kendi çabasıyla kazanılmamış bir zafer yazsınlar.
+**El işi fikri:** Her çocuk bir „mühür" tasarlasın — Tanrı'ya ait olduğunu gösteren küçük bir işaret
+ya da rozet. Gruptaki küçük çocuklar için ellere yapıştırılan çıkartmalar iyi olur.
 
 **Sorular:**
-1. Neden kılıç değil de hurma dalı taşıyorlar?
-2. Her ulustan gelmeleri ne anlama geliyor?
-3. Tanrı'ya ait olarak mühürlenmek ne demek?
+1. Tanrı'nın ordusuyla ilgili seni ne şaşırttı?
+2. Bir kavgayı kazanmakla birinden daha uzun dayanmak arasındaki fark ne?
+3. Hiç senin suçun olmayan bir şey yüzünden biri sana kötü davrandı mı?
 
-**Şarkı önerileri:** Neşeli ve gür bir şey.
+**Şarkı önerileri:** Tanrı'nın korumasıyla ilgili bir şarkı; teselliyle ilgili yumuşak bir şarkı.
 
-**Hazırlık notu:** „Duydu, sonra gördü" kalıbı 5. bölümdekiyle aynı. Grubun aslan-Kuzu'yu hatırlıyorsa
-bunu kendileri yakalar.
+**Hazırlık notu:** Bir çocuk 144.000'in gerçek bir sayı olup olmadığını sorarsa, dürüst cevap metnin
+verdiği cevaptır — 144.000'i *duydu* ve sayılamayan bir kalabalığı *gördü*. İkisini de öylece
+bırakın.

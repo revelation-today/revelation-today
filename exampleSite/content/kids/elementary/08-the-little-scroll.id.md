@@ -13,63 +13,65 @@ chapters: "Wahyu 10"
 ### Wahyu 10
 
 > **Cerita untuk dibacakan:** [Gulungan yang Rasanya Seperti Madu — dan Masalah (Pasal 10)]({{< relref "story/elementary/tour#scroll" >}})  
-> **Alkitab:** {{% bible val="Wahyu 10" link="rev:10" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 10" link="rev:10" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-08.pdf)
 
 
-## 1. Manis lalu pahit
+## 1. Makan pekerjaan rumah
 
-Kalau memungkinkan, bawa sesuatu yang manis di awal dan pahit di akhir — permen jahe, atau cokelat
-hitam pekat.
+Tanyakan: pernahkah ada yang disuruh „mencerna" sebuah buku, atau „menelan gengsi"? Apa arti
+ungkapan-ungkapan itu? Kita memakai makan sebagai gambaran untuk menerima sesuatu *masuk ke dalam* —
+dengan sungguh-sungguh, sampai habis.
 
-Pasal 10 tentang sesuatu yang rasanya manis di mulut dan pahit di perut.
+Ingat itu, karena pasal 10 akan menyuruh seseorang memakan sebuah kitab. Secara harfiah.
 
-## 2. Malaikat yang sangat besar
+## 2. Di mana kita sekarang
 
-Seorang malaikat perkasa turun, berselubung awan, dengan pelangi di atas kepalanya, wajahnya
-seperti matahari, kakinya seperti tiang api. Satu kaki di laut, satu kaki di darat.
+Ringkasan singkat, karena ini sebuah engsel.
 
-Dia begitu besar sampai tidak muat di satu tempat.
+Misteri pertama — misteri gereja — sudah selesai. Kita melihat Yesus menang di kayu salib, gereja
+muncul sebagai pasukan yang mengejutkan, dan doa mengupas rasa aman palsu orang-orang. Dan pada
+akhirnya, orang-orang malah berpegang lebih erat pada rasa aman itu.
 
-## 3. Yang tidak boleh ditulis
+Maka misteri kedua dimulai: misteri Allah.
 
-Tujuh guruh berbicara, dan Yohanes hendak menuliskannya — lalu sebuah suara berkata: **jangan
-tulis itu. Meteraikan.**
+## 3. Malaikat raksasa dan gulungan kecil
 
-Ini satu-satunya tempat dalam kitab ini di mana Yohanes disuruh **tidak** menuliskan sesuatu.
+Seorang malaikat yang sangat besar turun, satu kakinya di laut dan satu di darat, dan ia memegang
+sebuah gulungan. Kali ini gulungan kecil.
 
-Katakan itu terus terang: ada hal-hal yang Tuhan tahu dan kita tidak. Dan itu tidak apa-apa.
-Kita tidak perlu tahu segalanya untuk mempercayai Dia.
+Yesus-lah yang layak membuka gulungan besar itu. Gulungan yang lebih kecil ini untuk Yohanes — dan
+untuk kita.
 
-## 4. Tidak akan ada penundaan lagi
+Dan Yohanes disuruh mengambilnya dan memakannya.
 
-Malaikat itu bersumpah bahwa tidak akan ada penundaan lagi — rahasia Allah akan genap.
+## 4. Manis, lalu pahit
 
-Bagi orang yang sudah lama bertanya „berapa lama lagi" di pasal 6, itu kabar besar.
+Ia melakukannya, dan terjadi persis seperti yang sudah diperingatkan kepadanya: manis seperti madu
+di mulutnya, dan pahit di perutnya sesudahnya.
 
-## 5. Makan gulungan itu
+Itu layak dibicarakan dengan jujur bersama anak-anak seusia ini. Pesan Allah *memang* manis — itu
+kabar terbaik yang ada. Dan membawanya kadang berat bagimu. Keduanya benar, dan kitab Wahyu menolak
+berpura-pura sebaliknya.
 
-Lalu Yohanes disuruh **memakan** gulungan kecil itu.
+## 5. Menjadikannya bagian dari dirimu
 
-Bukan membacanya. Memakannya. Karena firman Allah bukan sekadar informasi yang kau lewati — ia
-harus masuk ke dalam dirimu dan menjadi bagian darimu.
+Makan berarti menerima sesuatu masuk sampai menjadi bagian dari dirimu. Bukan menghafalnya. Bukan
+menyimpannya di rak. Bukan bisa menjawab pertanyaan tentangnya.
 
-## 6. Mengapa manis dan pahit
+Kau bisa membawa sebuah buku di tasmu bertahun-tahun dan tetap tidak berubah karenanya. Kau tidak
+bisa memakan sesuatu dan tetap sama.
 
-Rasanya manis di mulut karena kabar dari Allah memang manis: Yesus menang, semuanya akan
-diperbaiki, ada rumah di akhir.
+## 6. Dua hal untuk dipegang
 
-Dan pahit di perut karena membawanya berarti ikut merasakan kesedihan dunia yang belum
-diperbaiki, dan kadang orang tidak mau mendengar.
+**Pertama: ini berakhir dengan baik.** Pada akhir misteri Allah, kerajaan Iblis tamat sepenuhnya.
+Kita diberi tahu akhirnya sebelum diberi tahu ceritanya, dan itu sebuah kebaikan.
 
-Kedua rasa itu benar. Kalau imanmu hanya manis, kau belum menelannya.
+**Kedua: Allah memegang kendali sepanjang jalan.** Apa yang datang berikutnya dalam kitab ini
+menjadi liar, dan kita tidak akan sanggup menghadapinya tanpa tahu siapa yang memegangnya.
 
-## 7. Dan lalu?
-
-Yohanes diberi tugas: „Engkau harus bernubuat lagi kepada banyak bangsa."
-
-Setelah menelan, kau berbicara.
-
-**Ayat hafalan:** „Di dalam mulutku ia manis seperti madu." (Wahyu 10,10)
+**Ayat hafalan:** „Maka saya mengambil gulungan itu dari tangannya, lalu memakannya! … dalam mulut
+rasanya manis." (Wahyu 10,10)
 
 ## Lihat sendiri
 
@@ -77,32 +79,35 @@ Setelah menelan, kau berbicara.
 
 Malaikat itu mengulurkan gulungan kecil itu dan berkata: makanlah.
 
-Ambil. Bagaimana rasanya di tanganmu — berat, ringan, hangat?
+Ambillah. Bagaimana rasanya di tanganmu — berat, ringan, hangat?
 
-Masukkan ke mulutmu. Manis, seperti madu. Tinggallah sejenak pada bagian yang manis: apa
+Masukkan ke mulutmu. Rasanya manis, seperti madu. Tinggallah sebentar di bagian yang manis: apa
 kabar baik di dalamnya?
 
-Lalu rasanya berubah. Di bagian mana dalam dirimu kamu merasakannya? Apa bagian yang berat
-dari mengetahui apa yang sekarang kamu ketahui?
+Lalu rasanya berubah. Di bagian mana dalam dirimu kau merasakannya? Apa bagian yang berat dari
+mengetahui apa yang sekarang kau ketahui?
 
-## 8. Doa
+## 7. Doa
 
-Tuhan, terima kasih karena firman-Mu manis. Tolong kami tidak lari dari bagian yang pahit.
-Dan tolong kami menceritakannya kepada orang lain. Amin.
+Tuhan, terima kasih karena firman-Mu manis. Tolong kami bukan hanya mengetahuinya, tapi
+menerimanya masuk, sampai firman itu mengubah cara kami hidup. Dan ketika membawanya terasa berat,
+tolong kami mengingat bagaimana akhirnya. Amin.
 
 ## Lampiran: Ide untuk pengajar
 
-**Pembuka:** Rasa manis lalu pahit — periksa alergi lebih dulu.
+**Pembuka:** Madu di sendok, dan sesuatu yang asam — lemon, atau permen asam — satu sesudah yang
+lain, kalau tidak ada alergi. Tidak ada yang menjelaskan 10,10 lebih cepat.
 
-**Ide kerajinan:** Gulungan kecil dari kertas; di satu sisi tulis kabar baik, di sisi lain hal
-sulit yang menyertainya.
+**Ide kerajinan:** Gulungan-gulungan kertas kecil. Setiap anak menulis satu ayat atau janji di
+gulungannya, menggulungnya, dan membawanya pulang di saku, bukan di tas — maksudnya supaya tetap
+dekat.
 
 **Pertanyaan:**
-1. Mengapa Yohanes tidak boleh menuliskan tujuh guruh?
-2. Apa bedanya membaca firman dan „memakan"-nya?
-3. Bagian mana dari mengikut Yesus yang manis? Bagian mana yang pahit?
+1. Apa bedanya mengetahui sesuatu dan menerimanya masuk?
+2. Bisakah kabar baik kadang berat dibawa? Kapan?
+3. Menurutmu mengapa Allah memberi tahu kita akhirnya sebelum Ia memberi tahu bagian tengahnya?
 
-**Usulan lagu:** Sesuatu tentang firman Tuhan.
+**Usulan lagu:** Lagu tentang firman Allah; sesuatu tentang memercayai akhir cerita.
 
-**Catatan persiapan:** Bagian 3 sangat berguna untuk anak yang suka bertanya hal yang tak
-terjawab. „Tuhan tahu, kita tidak, dan itu tidak apa-apa" adalah kalimat yang menenangkan.
+**Catatan persiapan:** Ini pasal yang pendek dan pelajaran yang pendek. Kalau masih ada waktu,
+pakailah untuk kegiatan madu dan lemon, bukan untuk menambah bahan — ingatan tubuh itulah intinya.

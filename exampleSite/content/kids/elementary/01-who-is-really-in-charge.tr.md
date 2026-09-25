@@ -9,110 +9,121 @@ next: /kids/elementary/02-the-vision
 chapters: "Arka Plan"
 ---
 # Gerçekte Kim Yönetiyor?
-### Arka Plan
+### Vahiy'in yazıldığı dünya
 
 > **Okunacak hikâye:** [Tanrı Olmak İsteyen İmparator (Arka Plan)]({{< relref "story/elementary/tour#background" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 1:9" link="rev:1,9" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 1:9" link="rev:1,9" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-01.pdf)
 
 
-## 1. Avuç içindeki bir sikke
+## 1. Alkış oyunu
 
-Yanında bir madenî para getir. Elden ele dolaştır.
+Bir şey deneyelim. Elimi her kaldırdığımda herkes ayağa kalkacak, alkışlayacak ve „Sen en
+büyüksün!" diye bağıracak. Yapmayan, bir sonraki turda oturup bekler.
 
-Roma zamanında her sikkenin üzerinde imparatorun yüzü vardı ve kenarında, küçük harflerle, onu
-tanrı diye anan sözler yazardı. Cebindeki para sana her gün kimin yönettiğini söylüyordu.
+*(İki üç tur oynayın, sonra durup sorun:)*
 
-## 2. Anlaşma
+- Üçüncü seferden sonra nasıl hissettin?
+- Birinin oturup beklemesi adil miydi?
+- Bunu hayatının her günü yapmak zorunda olsaydın — içinden gelmediği günlerde bile?
 
-Roma bir teklif sunuyordu ve dürüst olalım, teklif iyiydi.
+Bu duyguyu aklında tut. Buna çok benzeyen bir şey — ama tamamen gerçek olanı — Vahiy kitabının
+başladığı yerdir.
 
-*Size yollar veriyoruz. Güvenlik veriyoruz. Yeterince ekmek, zamanında gelen gemiler ve kapıda
-asker olmadan geçen bir gece uykusu veriyoruz. Tek istediğimiz, imparatorun en büyük olduğunu
-söylemeniz.*
+## 2. Tanrı olmak isteyen bir kral
 
-Bu cümleyi pazarda söylerdin. Akşam yemeğinde kadehini kaldırırdın. Tapınağın kapısındaki küçük
-ateşe geçerken bir tutam buhur atardın — üç saniye — ve eve giderdin.
+Vahiy yazıldığında, bilinen dünyanın neredeyse tamamı tek bir imparatorluğa aitti: Roma. En
+tepede tek bir adam vardı: imparator.
 
-Üç saniye. Hepsi bu.
+İmparatorun mesajı basitti: *Size güvenlik veriyorum. Size yetecek yiyecek veriyorum. Size barış
+veriyorum. Tek istediğim, herkesin bana en büyükmüşüm gibi davranması — neredeyse bir tanrı gibi.*
 
-## 3. Reddedenler
+Bunu her yerde görebilirdin. Yüzü her sikkenin üzerindeydi. Heykelleri pazar meydanlarında
+dururdu. Bayramlarda herkes kadehini kaldırıp onu överdi. Reddeden herkes hemen göze batardı —
+ve göze batmak insanın başını ciddi belaya sokabilirdi.
 
-Bazı insanlar bunu yapmadı.
+## 3. Hristiyanların sorunu
 
-Haritanın kenarındaki küçük bir eyaletten gelen bir marangozun oğlunu duymuşlardı: Roma onu her
-zamanki Roma usulüyle idam etmişti ve o — ısrar ediyorlardı — ölü kalmamıştı. Ona Kral diyorlardı.
-Ve diyorlardı ki: yalnızca bir kişiye yer var.
+Hristiyanlar bütün bunlara bakıp şöyle düşündü: *Durun. Bizim zaten bir Kralımız var ve O'nun
+adı İsa. Güvenlik, yiyecek, iyi bir hayat — bunlar imparatordan değil, Tanrı'dan gelir.*
 
-Bu yüzden buhuru atmadılar.
+Bu yüzden bağırışlara içtenlikle katılamadılar. Bu da hayatı zorlaştırdı, çünkü reddetmek tek
+seferlik bir karar değildi. Tekrar tekrar karşılarına çıktı: işte, eğlencelerde, pazarda.
 
-Ve işin aslı şu: bu tek bir cesaret anı değildi. Her pazar günüydü. Her akşam yemeğiydi. Komşunun
-*hadi ama, hiçbir anlamı yok, sadece yap da hepimiz eve gidelim* dediği her seferdi.
+## 4. Hayır diyen Yuhanna
 
-## 4. Patmos'taki Yuhanna
+Vahiy'i yazan adamın adı Yuhanna'ydı. Başına geleni açıkça anlatıyor: uymadı ve Patmos adında
+küçük, ıssız bir adaya gönderildi.
 
-Yuhanna adında bir adam da reddetti.
+Ve orada, herkesten uzakta, Tanrı ona çok büyük bir şey gösterdi: İsa yaşıyor ve hiçbir
+imparatorun olamayacağı kadar gerçekten hüküm sürüyor. Yuhanna'nın ardından yazdığı her şey,
+sıradan Hristiyanlara ne pahasına olursa olsun İsa'yla kalma cesareti vermek içindi.
 
-Tam olarak ne söylediğini bilmiyoruz. Ona neye mal olduğunu biliyoruz: onu bir gemiye bindirip
-Patmos'a götürdüler — denizin ortasında sert, gri bir kaya parçası. Üzerinde taştan, keçilerden ve
-rüzgârdan başka bir şey yok.
+## 5. Bizim imparatorumuz kim?
 
-Roma, buhuru atmayı reddeden ama sessizce öldürülemeyecek kadar yaşlı ya da tanınmış olan insanlarla
-böyle başa çıkardı. Onları idam etmezsin — bu bir hikâye yaratır. Onları hikâyenin ulaşamayacağı bir
-yere götürür ve önemsiz olmalarına izin verirsin.
+Bugün kimse bir heykelin önünde eğilmek zorunda değil. Ama altındaki soru hiçbir yere gitmedi:
+**En çok kimi memnun etmek istiyorsun?**
 
-Genellikle işe yarardı.
+- Diğer çocukların seni havalı bulması mı daha önemli, yoksa doğru olanı yapman mı?
+- Telefonunla, Tanrı'yla olduğundan daha güvende hissediyor musun?
+- Sırf grupta kalmak için yanlış olduğunu bildiğin bir şeye hiç uydun mu?
 
-## 5. Sonra gök açıldı
+Bunlar zamanımızın imparatorları. Taç takmıyorlar ve onları gözden kaçırmayı kolaylaştıran da
+tam olarak bu.
 
-Yuhanna o kayanın üzerinde oturdu ve imparatorluktaki herkesin kullanacağı her ölçüye göre kaybetmişti.
-Kilise yok. Arkadaş yok. Eve dönüş yok. Ses yok.
+## 6. Kimse birden karar vermez
 
-Ve sıradan bir pazar sabahı, denizdeki en yalnız kayanın üzerinde, gök açıldı.
+Akılda tutmaya değer kısım şu. Kimse bir sabah uyanıp İsa'yı geride bırakmaya karar vermez.
+Küçük adımlarla olur — bir bahane, biraz uyma, bir an susma — ta ki bir gün başını kaldırıp
+başka bir şeyin sessizce patron olduğunu görene kadar.
 
-Orada gördüğü, yazdığı ve bir şekilde o adadan çıkardığı şey, Kutsal Kitap'ındaki son kitaptır.
+Bu yüzden Vahiy aynı resmi tekrar tekrar gösterir. Sürüklenmeden önce fark etmemize yardım
+etmeye çalışır.
 
-## 6. Bir soru, yirmi iki kez
+## 7. Müjde
 
-Bu kitabın kalbinde tek bir soru var ve onu yirmi iki kez, yirmi iki farklı resimde soruyor.
+Saklanmak zorunda değiliz, ait olmak için bedel ödemek zorunda da değiliz. İsa zaten gerçek
+Kral — her imparatordan, her modadan, her kalabalıktan güçlü. Bizi açıkça ve dürüstçe O'na ait
+olmaya çağırıyor.
 
-**Gerçekte kim yönetiyor?**
-
-Kimse senden ateşe buhur atmanı istemeyecek. Ama soru hiçbir yere gitmedi.
-
-**Ezber ayeti:** „Var olan, var olmuş ve gelecek olan, Her Şeye Gücü Yeten Rab Tanrı diyor ki, Alfa
-ve Omega Ben'im." (Vahiy 1,8)
+**Ezber ayeti:** „Hiç kimse iki efendiye kulluk edemez." (Matta 6,24)
 
 ## Kendin bak
 
 *İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
 
-Bu mektubun ilk kez okunduğu odayı gözünde canlandır. Birinin evi. Akşam olmuş ve kandiller
+Bu mektubun ilk kez okunduğu odayı gözünün önüne getir. Birinin evi. Akşam olmuş ve kandiller
 yanıyor, çünkü gündüz toplanmak güvenli değil.
 
-Çevrendeki yüzlere bak. Bazıları bu yüzden işini kaybetti. Biri de senin yaşında bir çocuk.
+Yüzlere bak. Bu insanların bazıları bu yüzden işini kaybetti. İçlerinden biri senin yaşında bir
+çocuk.
 
-Şimdi tomar açılıyor ve ilk satır okunuyor: *"Var olan, var olmuş ve gelecek olandan size
+Şimdi tomar açılıyor ve ilk satır okunuyor: *„Var olan, var olmuş ve gelecek olandan … sizlere
 lütuf ve esenlik olsun."*
 
-Yüzlerin nasıl değiştiğine bak.
+Yüzlerin nasıl değiştiğini izle.
 
-## 7. Dua
+## 8. Dua
 
-Rab İsa, gerçekte senin yönettiğin için teşekkür ederiz, en gürültülü olanın değil. Bu hafta bunu
-hatırlamamıza yardım et. Âmin.
+İsa, gerçek Kral olduğun için sana teşekkür ederiz; bizi korkutan her şeyden ve etkilemeye
+çalıştığımız her şeyden daha güçlüsün. Bir bedeli olsa bile sana dürüstçe ait olmamıza yardım
+et. Sessizce başka bir şeye güvenmeye başladığımızda bize göster. Amin.
 
 ## Ek: Önderler için fikirler
 
-**Açılış:** Sikke. Paralarının üzerinde kimin resmi olduğunu ve neden orada olduğunu sor.
+**Açılış:** Yukarıdaki alkış oyunu. Sıkıcı olmaya başlayacak kadar uzun sürsün — mesaj,
+açıklandığında değil, çocuklar baskıyı hissettiğinde yerine oturur.
 
-**El işi fikri:** Kartondan „sikke" yapın — bir yüzünde imparatorun tacı, diğer yüzünde İsa'nın adı.
+**El işi fikri:** Her çocuk bir taç çizsin. Bir yüzüne, haftalarında bazen imparator gibi davranan
+şeyi yazsın ya da çizsin — telefon, arkadaşlar, komik olmak, kazanmak. Öbür yüzüne: „İsa".
+Hangi tacın daha büyük olmasını istediklerini sor.
 
 **Sorular:**
-1. Üç saniye neden bu kadar küçük görünüyor ama aslında bu kadar büyük?
-2. Yuhanna'yı boş bir adada ayakta tutan neydi?
-3. Sence senin gününü kim yönetiyor?
+1. Herkes evet derken hayır demek en çok ne zaman zor?
+2. Biri İsa'ya inandığın için sana gülse ne yapardın?
+3. İstemesen bile bazen senin için İsa'dan daha önemli olan ne?
 
-**Şarkı önerileri:** İsa'nın Kral olduğunu anlatan bir şarkı; kolay katılınabilecek bir şey.
+**Şarkı önerileri:** İsa'yı Kral olarak anan bir şarkı; cesaretle ilgili hareketli bir şarkı.
 
-**Hazırlık notu:** Bu ilk ders. „Gerçekte kim yönetiyor?" sorusunu bir tahtaya yaz ve on altı hafta
-boyunca orada bırak.
+**Hazırlık notu:** Bu ders bütün serinin temelini atar. Çocuklar tek bir şey hatırlayacaksa, bu
+„Gerçekte kim yönetiyor?" sorusu olsun — sonraki her ders onu yeniden cevaplar.

@@ -12,10 +12,9 @@ chapters: "Background"
 ### The world Revelation was written into
 
 > **Story to read:** [The Emperor Who Wanted to Be God]({{< relref "story/elementary/tour#background" >}})  
-> **Bible:** {{% bible val="Revelation 1:9" link="rev:1,9" lang="en" %}}
+> **Bible:** {{% bible val="Revelation 1:9" link="rev:1,9" lang="en" %}}  
+> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-01.pdf)
 
-
-> **Bible:** {{% bible val="Revelation 1:9" link="rev:1,9" lang="en" %}}
 
 
 ## 1. The clapping game

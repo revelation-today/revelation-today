@@ -13,94 +13,109 @@ chapters: "Vahiy 2–3"
 ### Vahiy 2–3
 
 > **Okunacak hikâye:** [Yedi Takıma Yedi Mektup (Bölüm 2-3)]({{< relref "story/elementary/tour#letters" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 2–3" link="rev:2" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 2–3" link="rev:2" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-03.pdf)
 
 
-## 1. Karne
+## 1. Karneler
 
-Kimin karne aldığını sor. Herkes açılmayı bekleme duygusunu bilir.
+Öğretmeninin bütün sınıfın için bir karne yazdığını düşün — her öğrenciye ayrı değil, sınıfa tek
+bir bütün olarak. Ne yazardı? Birlikte neyi iyi yapıyorsunuz? Herkesin sessizce bildiği sorun ne?
 
-Vahiy 2 ve 3 yedi karnedir — ve onları yazan İsa'nın kendisidir.
+Bölüm 2 ve 3 tam olarak bu. Yedi gerçek kasabadaki yedi gerçek kilise için yedi karne. Ve İsa
+onları kendisi yazıyor.
 
-## 2. Yedi kez aynı kalıp
+## 2. Yedi kilise, kısaca
 
-Mektupların neredeyse hepsi aynı kalıbı izler:
+- **Efes** — meşgul, çalışkan, saçma şeyler öğreten insanları fark etmekte çok başarılı. Ama yolun
+  bir yerinde sevmeyi bıraktılar. Geri kalan her şey yerinde.
+- **İzmir** — küçük, yoksul, gerçekten zor durumda, bazıları hapiste. İsa'nın onlar için hiçbir
+  eleştirisi yok.
+- **Bergama** — gerçek bir kötülükle çevrili; içlerinden biri bu yüzden çoktan öldürüldü. Ama
+  kilisenin içinde insanların yanlış şeyler öğretmesine göz yumuyorlar.
+- **Tiyatira** — imanda gerçekten büyüyen ve çok şeye katlanmış küçük bir kasaba kilisesi. Sorun
+  şu ki, yoldan çıkanlar kendi önderleri.
+- **Sart** — görkemli, etkileyici, her şey kontrol altında gibi. Sorun da tam bu: hayatlarını öyle
+  düzenlemişler ki İsa'ya yer kalmamış.
+- **Filadelfya** — çok çabalıyorlar, karşı çıkılıyorlar, gerçekten yoksullar. Ve sadık kalıyorlar.
+  İsa'nın onlar için de hiçbir eleştirisi yok.
+- **Laodikya** — zengin, sağlıklı, rahat ve herkesten daha iyi olduklarından çok emin.
 
-- **Biliyorum** — İsa yaptıklarını sayar
-- **Ne var ki** — yanlış olanı söyler
-- **Tövbe et** — neyin değişmesi gerektiğini söyler
-- **Galip gelene** — bir şey vaat eder
+## 3. Kim doğru yaptı?
 
-İlk kısma dikkat et. Düzeltmeden önce İsa her zaman *biliyorum* der. O fark ediyor.
+Söylemeden önce çocuklardan tahmin etmelerini iste.
 
-## 3. Yedi kilise, yedi sorun
+**İzmir ve Filadelfya.** En küçük ikisi. En yoksul ikisi. En çok sıkıntı çeken ikisi. İsa'nın
+düzeltecek hiçbir şey bulmadığı yalnızca bu ikisi.
 
-- **Efes** çok çalışıyor ama sevmeyi bırakmış
-- **İzmir** yoksul ve acı çekiyor — ve hiç azarlanmıyor
-- **Bergama** zor bir yerde yaşıyor ve ödün vermeye başlamış
-- **Tiyatira** yanlış olanın devam etmesine izin veriyor
-- **Sart** canlı görünüyor ama ölü
-- **Filadelfya** küçük ve güçsüz — ve o da azarlanmıyor
-- **Laodikya** zengin olduğunu ve hiçbir şeye ihtiyacı olmadığını sanıyor
+Bunun üzerinde bir an durmaya değer, çünkü genelde biz böyle puan vermeyiz.
 
-## 4. Şaşırtıcı olan
+## 4. Yanlış gitmenin dört yolu
 
-Azarlanmayan iki kilise, en çok acı çeken iki kilisedir.
+Diğer beşi, hedefi kaçırmanın dört farklı yolunu gösteriyor ve hiçbiri dışarıdan dramatik
+görünmüyor:
 
-Ve İsa'ya göre gerçekten tehlikede olan tek kilise, kendini en iyi hisseden kilisedir.
+- Geri kalan her şeyi doğru yaparken **sevgisiz olmak** (Efes)
+- İşler iyi gittiği için **kibirli olmak** (Laodikya)
+- **Tanrı'ya pek ihtiyacın yokmuş gibi yaşamak** (Sart)
+- **İsa hakkında yanlış düşüncelerin yayılmasına izin vermek** ve başkalarını da bunlara
+  sürüklemek (Bergama, Tiyatira)
 
-Bunu yavaşça söylemeye değer.
+Dikkat et: bir kilise meşgul, doğru, sevilen ve düzenli olup yine de bu listede olabilir.
 
-## 5. Kapı
+## 5. İsa hepsiyle ne yapıyor
 
-Son mektup meşhur bir resimle biter: İsa dışarıda durup kapıyı çalıyor.
+Gözden kaçması kolay kısım şu. İsa bu kiliselerin hiçbirini kapatmıyor. Her mektup „galip gelen"
+için bir vaatle bitiyor — bu da basitçe devam eden, vazgeçmeyen demek.
 
-İçeride kimin olduğunu hatırla. Yabancılar değil — kendi kilisesi. O kadar meşguller ki, onun dışarıda
-olduğunu unutmuşlar.
+Onlara gerçeği söylüyor, sonra kapıyı açık tutuyor. İkisi de önemli.
 
-Ve kapıyı kırmıyor. Çalıyor.
+## 6. Bizim karnemiz
 
-## 6. Bu mektuplar kime?
+İsa senin kilisene, grubuna ya da ailene yazsaydı — sence neyi överdi? Neyi nazikçe ama dürüstçe
+söylerdi?
 
-Her mektup aynı cümleyle biter: „Kulağı olan, Ruh'un kiliselere ne dediğini işitsin."
+Amaç kötü hissetmek değil. İzmir ve Filadelfya etkileyici olanlar değildi. Sadık olanlardı.
 
-„Efes'te oturan işitsin" değil. Yedisi de herkese yazılmış.
-
-**Ezber ayeti:** „İşte kapıda durmuş, kapıyı çalıyorum." (Vahiy 3,20)
+**Ezber ayeti:** „Ölüm pahasına da olsa sadık kal, sana yaşam tacını vereceğim." (Vahiy 2,10)
 
 ## Kendin bak
 
 *İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
 
-Yedi mektubun her biri, İsa'nın 1. bölümdeki görüntüden bir parça seçmesiyle başlar — o
-topluluğun ihtiyacı olan parçayı. Korkanlara, ölüp geri dönen kişi olarak gelir. Gevşemiş
-olanlara, gözleri ateş alevi gibi olan kişi olarak.
+Yedi mektubun her biri, İsa'nın birinci bölümdeki resimden bir parça seçmesiyle başlıyor — o
+kilisenin ihtiyaç duyduğu parçayı. Korkanlara, ölüp yeniden dirilen olarak geliyor. Gevşeyenlere,
+gözleri alev gibi olan olarak.
 
-Peki: sana nasıl gelirdi?
+Peki sana nasıl gelirdi?
 
-Ne giyerdi? Elinde ne olurdu? Önce neyini fark ederdin — gözlerini, sesini, ellerini?
+Üzerinde ne olurdu? Elinde ne tutardı? O'nda ilk neyi fark ederdin — gözlerini mi, sesini mi,
+ellerini mi?
 
-Ve bir mektubun başına senin adını yazsaydı, sence ilk satırda ne yazardı?
+Ve bir mektubun en üstüne senin adını yazsa, sence ilk satırda ne derdi?
 
-Aklına ne gelirse, onu İncil'deki İsa'nın yanına koy. O'na benzemiyorsa, bırak gitsin.
+Aklına ne gelirse, onu Müjdeler'deki İsa'nın yanına koy. O'na benzemiyorsa, bırak gitsin.
 
 ## 7. Dua
 
-Rab İsa, bizi düzeltmeden önce ne yaptığımızı bildiğin için teşekkür ederiz. Kapıyı çalışını
-duymamıza yardım et; öyle meşgul olmayalım ki duymayalım. Âmin.
+İsa, sadece kibar olmak yerine bize gerçeği söylediğin için sana teşekkür ederiz. Bizden asla
+vazgeçmediğin için teşekkür ederiz. Küçük olduğumuzda bile sadık, haklı olduğumuzda bile nazik
+olmamıza yardım et. Amin.
 
 ## Ek: Önderler için fikirler
 
-**Açılış:** Kâğıttan boş bir karne. Kendi grubunuz için birlikte doldurun.
+**Açılış:** Yedi kasabanın adını kartlara yazıp dağıt. Her mektubu okurken o kartı tutan çocuk
+ayağa kalksın. Uzun bir bölüm böylece akar.
 
-**El işi fikri:** Dışında kilise adı, içinde bir övgü ve bir düzeltme cümlesi olan yedi küçük zarf.
+**El işi fikri:** Bir sınıf karnesi — bir yüzünde „İyi olduğumuz şeyler", öbür yüzünde
+„Büyüyebileceğimiz alanlar". Birlikte, nazikçe doldurun. Birkaç ay sonra bakmak için saklayın.
 
 **Sorular:**
-1. İsa neden her zaman „biliyorum" diye başlıyor?
-2. Kendini en iyi hisseden kilise neden en tehlikeli durumda?
-3. İsa grubumuz için bir karne yazsaydı, ne yazardı?
+1. Sence hayatı en zor olan iki kilise neden hiç eleştirilmedi?
+2. Biri her şeyi doğru yapıp yine de bir şeyi kaçırıyor olabilir mi? Neyi?
+3. Yedisinden hangisi bize en çok benziyor?
 
-**Şarkı önerileri:** Tanrı'nın sesini duymakla ilgili bir şey.
+**Şarkı önerileri:** Sadakatle ilgili bir şarkı; İsa'nın bizi tanıdığını anlatan bir şarkı.
 
-**Hazırlık notu:** Yedi kiliseyi aceleye getirme. Çocuklar hangisinin kendilerine benzediğini tahmin
-etmeyi sever.
+**Hazırlık notu:** Çocukların en zor anladığı Efes'tir — her şey doğru, ama sevgi yok. Fazladan bir
+dakikaya değer, çünkü iyi yetişmiş, iyi öğretilmiş çocukları yakalayan tuzak budur.

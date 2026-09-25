@@ -13,90 +13,103 @@ chapters: "Vahiy 6"
 ### Vahiy 6
 
 > **Okunacak hikâye:** [Dört Atlı ve Bir Soru (Bölüm 6)]({{< relref "story/elementary/tour#seals" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-05.pdf)
 
 
-## 1. Tek tek açmak
+## 1. Sahtesini bul
 
-Birkaç kat mühürlenmiş bir paket getir. Bir katı aç, sonra dur. Çocuklar hemen sonraki katı ister.
+Birbirine benzeyen iki şey göster — gerçek bir para ve çikolatadan bir para, bir fotoğraf ve onun
+bir çizimi. Farkı nasıl anlarsın? Genellikle sahtesi kendini ele vermeden önce bir süre bakman ya da
+onu kullanman gerekir.
 
-Vahiy 6 böyledir — yedi mühür, Kuzu tarafından tek tek açılıyor.
+Bölüm 6, birinin foyasının ortaya çıkmasıyla ilgili.
 
-## 2. Dört atlı
+## 2. Tomarı isteyen biri
 
-İlk dört mühür dört atlı çıkarır:
+Tomarı açmaya layık olan tek kişi İsa ve şimdi başlıyor.
 
-- **beyaz at** — fethediyor
-- **kızıl at** — yeryüzünden barışı alıyor
-- **siyah at** — kıtlık, gıda fiyatları uçuyor
-- **soluk renkli at** — ölüm
+Ama o tomarı kendisi tutmayı çok isteyen biri var: Şeytan. Ve işin püf noktası şu — pek çok insan
+onu hiç de kötü biri olarak görmüyor. Aklına gelirse, onu heyecan verici, güçlü ya da özgür
+sanıyor.
 
-Bunlar dünyamızda gerçekten olan şeyler: savaş, baskı, açlık, ölüm. Vahiy her şeyin yolunda olduğunu
-iddia etmiyor.
+Dört atlı, bunun nasıl ortaya çıktığını gösteriyor.
 
-## 3. Mühürleri kim açıyor?
+## 3. Dört mühür, dört adım
 
-Ama kolayca gözden kaçan ve en önemli olan bir ayrıntı var.
+İlk dört mühür boyunca ne olduğuna dikkat et. Bu bir sıra, dört rastgele felaket değil.
 
-**Mühürleri Kuzu açıyor.**
+- **Birinci mühür** — bir atlı çıkıyor ve muhteşem görünüyor, zafer kazanmış bir kahraman gibi.
+  Bu reklam.
+- **İkinci mühür** — aynı gücün barışı elinden aldığı ortaya çıkıyor. Kavga başlatıyor.
+- **Üçüncü mühür** — şimdi açlık var. İnsanlar yoksun kalıyor.
+- **Dördüncü mühür** — ve yolun sonunda: ölüm.
 
-Bu, bunları İsa'nın gönderdiği anlamına gelmez. Bunların hiçbirinin onun denetimi dışında olmadığı
-anlamına gelir. Dünyanın en kötü şeyleri bile çivi izli bir elin altındadır.
+Dört adım ve maske düştü. Başta kahramanca görünen şey, baştan beri ne olduğunu gösteriyor.
 
-## 4. Beşinci mühür: bir soru
+## 4. Ama acıtıyor
 
-Beşinci mühür farklı. At yok. İmanları uğruna öldürülenlerin sesi var ve tek bir şey soruyorlar:
+Bu gerçekten işe yarıyor — artık herkes görebiliyor. Ama bir bedeli var ve Vahiy bunu saklamıyor:
+bunu *zaten* bilenler bu arada acı çekiyor.
 
-**„Daha ne kadar?"**
+Bu yüzden beşinci mühürde haykırıyorlar: „Daha ne kadar?"
 
-Bu dürüst bir soru ve Kutsal Kitap onu sansürlemiyor. Tanrı'ya „daha ne kadar" diye sorduysan, iyi bir
-topluluktasın.
+Ve İsa'nın *ne söylemediğine* dikkat et. „Şikâyet etmeyi bırakın" demiyor. Aşağı yukarı şunu
+söylüyor: *Haklısınız.* Onlara beyaz giysiler veriliyor ve biraz daha beklemeleri söyleniyor.
 
-## 5. Cevap
+Bir şeyin yanlış olduğu konusunda haklı olduğunun söylenmesi küçük bir şey değil.
 
-Cevap bir tarih değil. Onlara beyaz kaftanlar verilir ve biraz daha beklemeleri söylenir.
+## 5. Altıncı mühür
 
-Bu tatmin edici bir cevap değil — Vahiy de bunu biliyor. Ama dürüst bir cevap.
+Sonra altıncı mühür geliyor ve bütün dünya bir anda sarsılıyor. Herkes — krallar, komutanlar,
+herkes — tamamen altüst oluyor.
 
-## 6. Altıncı mühür ve büyük soru
+İsa'nın bu kadar güçlü olduğunu beklemiyorlardı. Baştan beri gerçekte kimin yönettiği konusunda
+yanılmışlardı.
 
-Altıncı mühür her şeyi sarsar ve herkes — krallar, komutanlar, zenginler, köleler — saklanıp sorar:
-**„Kim ayakta durabilir?"**
+## 6. Bu ne için
 
-Kitap bu soruyu havada bırakır. Cevap bir sonraki bölümde gelir ve cevap şudur: siz.
+Mühürler, öfkesine hâkim olamayan bir Tanrı değil. Düşen bir maske. Kötülüğün kendi yolunda,
+herkesin nereye çıktığını görebileceği kadar ilerlemesine izin veriliyor.
 
-**Ezber ayeti:** „Ne zamana dek, ey kutsal ve gerçek olan Efendimiz?" (Vahiy 6,10)
+Ve bu öyküde güçlü olan yalnızca İsa değil. O'nun bir ordusu var — o bir dahaki sefere ve hiç
+beklediğin gibi görünmüyor.
+
+**Ezber ayeti:** „Kuzu tomarı almaya, mühürlerini açmaya layıktır." (Vahiy 5,9'a göre)
 
 ## Kendin bak
 
 *İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
 
-Atlar gürültülü ve gökyüzü kararıyor; bu yüzden bir an başka yere bak. Tomarı açanın kim
-olduğuna bak.
+Atlar gürültülü ve gök kararıyor, o yüzden bir an başka yere bak. Tomarı kimin açtığına bak.
 
-O, Kuzu. Kendi ölümünün izleri hâlâ üzerinde.
+Kuzu. Kendi ölümünün izleri hâlâ üzerinde.
 
-Mührün üzerindeki ellerini gözünde canlandır. Şimdi yüzüne bak. Öfkeli mi? Acelesi var mı?
-Üzgün mü?
+Ellerini mührün üzerinde düşün. Şimdi yüzüne bak. Öfkeli mi? Aceleci mi? Üzgün mü?
 
-Ve mührü açarken kime bakıyor?
+Ve açarken kime bakıyor?
 
 ## 7. Dua
 
-Rab İsa, dünya bazen korkutucu ve sen bunu görmezden gelmiyorsun. Denetimin sende olduğu için teşekkür
-ederiz. Ve „daha ne kadar" diye sorabildiğimiz için teşekkür ederiz. Âmin.
+İsa, heyecan verici görünse bile gerçekten kötü olanın ne olduğunu doğru söylediğin için sana
+teşekkür ederiz. „Daha ne kadar" diye haykırdığımızda bizi azarlamadığın için teşekkür ederiz.
+Vazgeçmeden beklememize yardım et. Amin.
 
 ## Ek: Önderler için fikirler
 
-**Açılış:** Mühürlü paket.
+**Açılış:** Sahtesini bul oyunu. Birbirine benzeyen iki eşya, biri gerçek.
 
-**El işi fikri:** Yedi mum mührü ya da etiketi olan bir kâğıt tomar; hikâye ilerledikçe çocuklar açsın.
+**El işi fikri:** Dört atlıyı sırasıyla gösteren dört küçük kart, her birinde tek bir kelime:
+*harika görünüyor / kavga / açlık / ölüm.* Kartları sıraya dizmek, düşünceyi gözle görülür kılar.
 
 **Sorular:**
-1. Mühürleri Kuzu'nun açması neden önemli?
-2. Tanrı'ya hiç „daha ne kadar" diye sordun mu?
-3. Sence kim ayakta durabilir?
+1. Sence birinci atlı neden bu kadar etkileyici görünüyor?
+2. Hiç reklamdakine hiç benzemeyen bir şeyi istedin mi?
+3. Bir şey adaletsiz olduğunda ve hemen düzelmediğinde ne yaparsın?
 
-**Şarkı önerileri:** Tanrı'nın denetimde olduğuyla ilgili bir şey.
+**Şarkı önerileri:** Tanrı'nın her şeyi elinde tuttuğunu anlatan bir şarkı; beklemekle ilgili daha
+sakin bir şarkı.
 
-**Hazırlık notu:** Dört atlıda fazla oyalanma. Üçüncü ve altıncı bölümler bu dersin özü.
+**Hazırlık notu:** Bu yaş grubundaki küçük çocuklar 6. bölümü korkutucu bulabilir. Tempoyu canlı
+tutun ve kararlı bir şekilde 6. bölüme varın — mühürler düşen bir maskedir, Tanrı'nın saldırısı
+değil.

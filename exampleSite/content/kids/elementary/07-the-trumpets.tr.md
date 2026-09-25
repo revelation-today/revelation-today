@@ -13,87 +13,103 @@ chapters: "Vahiy 8–9"
 ### Vahiy 8–9
 
 > **Okunacak hikâye:** [Yedi Borazan Dünyayı Sarsıyor (Bölüm 8-9)]({{< relref "story/elementary/tour#trumpets" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 8–9" link="rev:8" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 8–9" link="rev:8" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-07.pdf)
 
 
-## 1. Borazan niye çalınır?
+## 1. Sen ne yapardın?
 
-Sor. Şunları alırsın: yarış başlatmak, insanları çağırmak, uyarmak.
+Gruba açık bir soru olarak sor: *Artık bir ordun var. Dünyada gerçekten zarar veren insanlar var.
+Ne yaparsın?*
 
-Uyarmak. Anahtar bu. Borazan, insanların bir şey yapmaya **zamanı olsun** diye çalınır.
+Cevapları ciddiye al. Çoğu, kötü insanları bir şekilde durdurmakla ilgili olacak.
 
-## 2. Sessiz yarım saat
+## 2. Tanrı'nın ordusunun gerçekte yaptığı
 
-İlk borazandan önce tuhaf bir şey oluyor: **gökte yarım saat kadar sessizlik oluyor.**
+Dua ediyorlar.
 
-4. bölümden beri durmadan şarkıyla dolu olan gök, birden susuyor.
+Hepsi bu. Bölüm 8 gökte sessizlikle açılıyor — yarım saat kadar — sonra bir melek Tanrı'nın
+halkının dualarını alıp ateşle karıştırarak yeryüzüne atıyor.
 
-Neden? Çünkü Tanrı halkının duaları tahtın önüne getiriliyor. Her şey dinlemek için duruyor.
+Ve *o dualar ulaştığı için* borular çalıyor.
 
-Bunu çocuklara olduğu gibi söylemeye değer: senin duan göğü susturuyor.
+Dua, yapacak başka bir şey kalmadığında yaptığın şey değil. Vahiy'de her şeyi başlatan şey dua.
 
-## 3. Üçte bir
+## 3. Boruların yaptığı
 
-Sonra borazanlar çalıyor ve yeryüzüne, denize, ırmaklara, güneşe bir şeyler oluyor.
+Borular tuhaf ve ortak yanlarını fark etmek yardımcı olur. İlk dördüne bak:
 
-Tekrar tekrar geçen bir söze dikkat et: **üçte biri.** Üçte biri, hepsi değil.
+- karada yiyecek azalıyor
+- içecek su azalıyor
+- denizden de yiyecek çıkmıyor
+- gökten yön bulmanın yolu kalmıyor
 
-Bu son değil. Bu, bilerek sınırlandırılmış bir uyarı — hâlâ zaman olsun diye.
+Her biri, insanların **Tanrı yerine dayandığı** bir şeyi elinden alıyor. Canlarını değil —
+güvenlik ağlarını.
 
-## 4. Uyarı kime?
+## 4. Sonra daha da zorlaşıyor
 
-Uyarı her zaman hâlâ değişebilecek olanlara yapılır.
+Beşinci ve altıncı borular daha ileri gidiyor ve burada Şeytan'ın kendi güçleri devreye giriyor.
+İnsanlar öyle acı çekiyor ki yaşamamayı tercih ederler.
 
-Artık hiçbir şey yapamayacak birini uyarmazsın. Hâlâ seçeneği olanı uyarırsın.
+Ama Tanrı'nın halkı burada korunuyor, çünkü 7. bölümde mühürlendiler. O işaret süs değildi.
 
-Yani bu korkutucu borazan dizisi, aslında bir iyilik eylemidir.
+Ve Tanrı'nın baştan sona dileği, *herkesin* gelip mühürlenmesi.
 
 ## 5. Üzücü kısım
 
-Ve 9. bölümün sonunda üzücü bir cümle var: geri kalan insanlar **tövbe etmediler.**
+Kimsenin beklemediği son şu. Bütün bunlardan sonra — güvendikleri her şeyin işe yaramadığı ortaya
+çıktıktan sonra — insanlar yine de Tanrı'ya dönmüyor.
 
-Duydular. Gördüler. Değişmediler.
+Kendilerini yok eden şeye güvenmeye devam ediyorlar, çünkü dönmek değişmek demek ve olduğu gibi
+kalmayı tercih ediyorlar.
 
-Yapamadıkları için değil. İstemedikleri için.
+Bu iki bölümün dürüst ve rahatsız edici özü bu ve bu yaştaki çocuklara açıkça söylemeye değer:
+Tanrı kimseyi zorlamaz. Sahte güvenlik ağlarını elinden alabilir. Seçimi elinden almaz.
 
-## 6. Peki biz ne yapacağız?
+## 6. Peki başarısız mı oldu?
 
-Bu dersin sorusu basit: Tanrı bu hafta sana bir şey gösteriyorsa, dinleyecek misin?
+Kilise başarısız olmuş gibi görünüyor. Her şey denendi ve insanlar direndi.
 
-Uyarı ancak duyulursa işe yarar.
+Ama bu tam olarak doğru değil — çok önemli bir şey henüz olmadı. Bu, birinci sırrın, kilise sırrının
+sonu. Bir dahaki sefere ikincisine başlıyoruz: Tanrı'nın sırrına.
 
-**Ezber ayeti:** „Buhurun dumanı kutsalların dualarıyla birlikte Tanrı'nın önüne yükseldi." (Vahiy 8,4)
+**Ezber ayeti:** „Kutsalların dualarıyla buhurun dumanı Tanrı'nın önünde yükseldi." (Vahiy 8,4'e
+göre)
 
 ## Kendin bak
 
 *İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
 
-Tek bir borazan bile çalmadan önce, bir melek Tanrı'nın halkının dualarıyla dolu altın bir
-tası alıp ateşe boşaltıyor ve duman yükseliyor.
+Tek bir boru bile çalmadan önce bir melek, Tanrı'nın halkının dualarıyla dolu altın bir kâseyi alıp
+ateşe döküyor ve duman yükseliyor.
 
-Bu hafta gerçekten dua ettiğin bir şeyi düşün. Gerçek bir şey.
+Bu hafta gerçekten dua ettiğin bir şeyi düşün. Gerçek bir şeyi.
 
-Şimdi onun o tasa girişini izle. Dumanın onu yukarı taşıyışını izle. Nasıl kokuyor?
+Şimdi onun o kâseye girdiğini izle. Dumanın onu yukarı taşıdığını izle. Nasıl kokuyor?
 
-Borazanlar oradan geliyor. Senin duan da içindeydi.
+Borular oradan geliyor. Senin duan da içindeydi.
 
 ## 7. Dua
 
-Rab, cezalandırmadan önce uyardığın ve bize zaman kalsın diye kendini sınırladığın için teşekkür
-ederiz. Yüreklerimizi yumuşak tut ki duyalım. Âmin.
+Tanrım, dualarımızın sana gerçekten ulaştığı ve gerçekten bir şey yaptığı için sana teşekkür
+ederiz. Sana değil de başka şeylere dayandığımız yerleri bize göster. Ve lütfen bize yumuşak
+yürekler ver; bize bir şey gösterdiğinde değişelim. Amin.
 
 ## Ek: Önderler için fikirler
 
-**Açılış:** Yüksek sesli bir şey çal. Borazanın niçin çalındığını sor.
+**Açılış:** „Bir orduyla ne yapardın" sorusu. Cevabın dua olduğunu açıklamadan önce gerçekten
+cevaplamalarına izin ver — aradaki boşluk dersin kendisi.
 
-**El işi fikri:** Rulo kâğıttan borazan; içine çocuklar bir dua yazsın. 2. bölümle bağla.
+**El işi fikri:** Bir kâse buhur ya da çocukların içine dualarını yazdığı kâğıttan bir kâse. Duaları
+toplayıp birlikte dua edin. Bu, 8,4'ü somut kılar.
 
 **Sorular:**
-1. Gök neden sustu?
-2. Yalnızca „üçte biri" olması neden önemli?
-3. Değişememekle değişmek istememek arasındaki fark nedir?
+1. Sence Tanrı insanların dayandığı şeyleri düzeltmek yerine neden elinden alıyor?
+2. Endişelendiğinde neye dayanırsın?
+3. Bir kez direndikten sonra fikrini değiştirmek neden bu kadar zor?
 
-**Şarkı önerileri:** Duayla ilgili bir şey.
+**Şarkı önerileri:** Duayla ilgili bir şarkı; içeriği düşünerek sakin bir şey.
 
-**Hazırlık notu:** Çocukların en çok hatırladığı kısım 2. bölümdür. Ona zaman ayır ve 9. bölümdeki
-çekirgelerde oyalanma.
+**Hazırlık notu:** 5. bölümü yumuşatmayın. Bu yaştaki çocuklar insanların bazen değişmeyi
+reddettiğinden zaten şüphelenir ve bunu açıkça söyleyen bir kitaba saygı duyar.

@@ -13,55 +13,67 @@ chapters: "Vahiy 1"
 ### Vahiy 1
 
 > **Okunacak hikâye:** [Adadaki Ses (Bölüm 1)]({{< relref "story/elementary/tour#vision" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 1" link="rev:1" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 1" link="rev:1" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-02.pdf)
 
 
-## 1. İsa'yı nasıl hayal ediyorsun?
+## 1. Şaşırtıcı bir soru
 
-Onlardan İsa'yı üç kelimeyle anlatmalarını iste. Genellikle şunları alırsın: iyi, yumuşak,
-gülümseyen.
+Dünyayı yönetiyorsan elini kaldır.
 
-Bunları sakla. Hiçbiri yanlış değil. Ama Vahiy 1'in başka bir resmi var.
+*(Bekle. Biraz tuhaf olsun.)*
+
+Kimse yok mu? O zaman bu kitap seni şaşırtacak, çünkü daha ilk bölümü senin yönettiğini
+söylüyor — hem de iki bin yıldır.
 
 ## 2. Yuhanna'nın gördüğü
 
-Yuhanna arkasında borazan gibi bir ses duydu. Döndü — ve gördüğü şey onu ölü gibi yere düşürdü.
+Yuhanna ıssız adasındayken arkasından boru sesi gibi bir ses duyuyor. Dönüyor ve gördüğü şey
+öylesine büyük ki, ölü gibi yere yığılıyor.
 
-Saçları kar gibi beyaz. Gözleri alev alev. Ayakları kızgın tunç gibi. Sesi gürül gürül akan suların
-sesi gibi. Yüzü tüm gücüyle parlayan güneş gibi.
+İsa'yı görüyor — ama Noel resimlerindeki İsa'yı değil. Bu İsa'nın gözleri alev gibi, sesi çağlayan
+sular gibi, yüzü öğle güneşi gibi. Yedi altın kandilliğin ortasında duruyor.
 
-Bu, kuzuyu kucaklayan İsa değil. Bu, bir imparatorlukla yüzleşebilecek İsa.
+Ve bu şaşırtıcı kişinin yaptığı ilk şey, elini uzatıp şunu söylemek: **„Korkma!"**
 
-## 3. O el
+Bu önemli. Evrendeki en güçlü kişi gücünü önce birini sakinleştirmek için kullanıyor.
 
-Sonra önemli olan kısım geliyor.
+## 3. Krallar ve kâhinler
 
-İsa sağ elini Yuhanna'nın üzerine koydu ve dedi ki: **„Korkma."**
+Sonra şaşırtıcı kısım geliyor. Yuhanna, İsa'nın „bizi bir krallık haline getirip Babası
+Tanrı'nın hizmetinde kâhinler yapmış" olduğunu yazıyor.
 
-Yedi yıldızı tutan aynı el — Yuhanna'yı bayıltan el — onu yatıştıran eldir.
+*Yapacak* değil. **Yapmış.** Çoktan. İki bin yıl önce.
 
-Bu, tek bir hareketle kitabın tamamıdır.
+Yani gerçekten yönetmemiz isteniyor — ve Vahiy büyük ölçüde bunun *nasıl* olacağıyla ilgili bir
+kitap. Çünkü yönetmek ciddi bir iş ve bunun yanlış bir yolu da var.
 
-## 4. Bu resim neden önemli
+## 4. Nasıl yönetmemiz gerekiyor
 
-Bu mektubu okuyanlar korkuyordu. İsa'nın sadece yumuşak olmadığını, aynı zamanda güçlü olduğunu
-bilmeye ihtiyaçları vardı.
+Vahiy hemen iki cevap veriyor ve bütün kitap bunlara geri dönüp duruyor.
 
-Eğer İsa yalnızca yumuşaksa, korkuları mantıklıdır. Eğer aynı zamanda bu kadar güçlüyse, korku
-gerekçesini kaybeder.
+**Birincisi: tamamen İsa'ya bağlıyız.** O olmadan hiç yönetemeyiz — yalnızca insanlara zorbalık
+edebiliriz, bu da aynı şey değil. Yönetmek, İsa'nın yönettiği gibi yönetmek demek.
 
-## 5. Nerede duruyor
+**İkincisi: ışık olmamız isteniyor.** Yedi kandillik yedi kilisedir. Bir kandil bağırmaz. Kimseyi
+zorlamaz. Sadece görmeyi mümkün kılar. Pek çok insan karanlıkta yaşıyor — bazen korktukları için,
+bazen utandıkları için — ve biz oraya ışık taşıyabiliriz.
 
-İsa'nın nerede göründüğüne dikkat et: **yedi kandilliğin ortasında.** O kandillikler yedi kilisedir.
+## 5. Peki bu nasıl bir güç?
 
-Uzakta, yukarıda değil. Aralarında yürüyor.
+Bir filmdeki kralla karanlık bir odadaki kandil arasındaki farkı düşün.
 
-## 6. Ve anahtarları elinde tutuyor
+Kral herkesten güçlü olduğu için kazanır. Kandil ise insanlar nereye gittiklerini görene kadar
+sessizce *orada olduğu* için kazanır. Vahiy gerçek gücün ikincisi olduğunu söylüyor ve bunu
+kanıtlamak için yirmi iki bölüm harcıyor.
 
-İsa diyor ki: „Ölmüştüm, ama işte sonsuzluklar boyunca diriyim. Ölümün ve ölüler diyarının
-anahtarları bendedir."
+## 6. Kitabın soracağı soru
 
-İmanları yüzünden ölümle tehdit edilen insanlar için bu, her şeyi değiştiren bir cümledir.
+Bir dahaki sefere yedi gerçek kasabadaki yedi gerçek kiliseyle tanışacağız ve bunlara uygun yaşayıp
+yaşamadıklarını göreceğiz.
+
+Bazıları yaşadı. Bazıları hiç yaşamadı. Ve İsa hepsine karşı dürüst — bu da kendi başına bir
+müjde, çünkü bize de gerçeği söylediği anlamına geliyor.
 
 **Ezber ayeti:** „Korkma! İlk ve son Ben'im." (Vahiy 1,17)
 
@@ -69,34 +81,37 @@ anahtarları bendedir."
 
 *İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
 
-Yuhanna arkasına dönüyor ve İsa'yı görüyor: bembeyaz saçlar, ateş alevi gibi gözler, çağlayan
-gibi bir ses ve bakılamayacak kadar parlak bir yüz.
+Yuhanna dönüyor ve İsa'yı görüyor: bembeyaz saçlar, alev gibi gözler, şelale gibi bir ses ve
+bakılamayacak kadar parlak bir yüz.
 
-Gözlerini kapat ve O'nun bu kadar büyük olmasına izin ver.
+Gözlerini kapat ve O'nun o kadar büyük olmasına izin ver.
 
-Sonra ardından ne olduğunu hatırla. Yuhanna ölü gibi yere yığılıyor — ve İsa elini uzatıp sağ
-elini onun üzerine koyuyor ve diyor ki: *"Korkma."*
+Sonra ardından ne olduğunu hatırla. Yuhanna ölü gibi yere yığılıyor — ve İsa elini uzatıyor, sağ
+elini üzerine koyup diyor ki: *„Korkma!"*
 
 O eli kendi omzunda hisset. Sana ne söylüyor?
 
 ## 7. Dua
 
-Rab İsa, aynı anda hem güçlü hem yumuşak olduğun için teşekkür ederiz. Her şeyi tutan elin bize
-dokunup „korkma" dediği için teşekkür ederiz. Âmin.
+İsa, söylediğin ilk şey „korkma" olduğu için sana teşekkür ederiz. Bizi çoktan kendinin yaptığın
+için teşekkür ederiz. Bize senin gibi yönetmeyi öğret — hizmet ederek, parlayarak, itip kakmadan.
+Amin.
 
 ## Ek: Önderler için fikirler
 
-**Açılış:** İsa hakkında üç kelime. Bir şey okumadan önce tahtaya yaz.
+**Açılış:** Odayı güvenli olduğu kadar karart, sonra bir mum ya da küçük bir el feneri yak. Neyin
+değiştiğini sor. Kimse hiçbir şeye zorlanmadı — yine de her şey farklı. Kandillik resmi budur.
 
-**El işi fikri:** Ortasında bir kişi duran yedi kandillik çizin. Çocuklar kendi gruplarının adını
-kandilliklerden birine yazsın.
+**El işi fikri:** Kâğıttan yedi kandillik; grup küçükse her çocuğa bir tane. Her çocuk kendi
+kandilliğine bu hafta ışık olabileceği bir yeri yazsın (bir kişi, bir oyun alanı, bir kardeş).
 
 **Sorular:**
-1. Yuhanna neden yere düştü?
-2. İsa neden uzaktan konuşmak yerine ona dokundu?
-3. Bu resmin hangi kısmı seni en çok şaşırttı?
+1. Sence İsa neden başka bir şey söylemeden önce „korkma" diyor?
+2. Patron olmakla ışık olmak arasındaki fark ne?
+3. Çevrende karanlık olan yer neresi — oraya bir ışık taşıyabilir misin?
 
-**Şarkı önerileri:** Görkemli bir şey; sonra sakin bir şey.
+**Şarkı önerileri:** İsa'nın bizimle olduğunu anlatan sakin bir şarkı; parlamakla ilgili canlı
+bir şarkı.
 
-**Hazırlık notu:** Vahiy 1,12-18'i yavaşça oku ve „Korkma" cümlesine gelmeden önce kısa bir sessizlik
-bırak.
+**Hazırlık notu:** Tuhaf imgeleri ayrıntılı açıklama isteğine direnin. Birinci bölümün amacı
+*izlenim* — ezici bir güç ve o gücün ilk sözü teselli.

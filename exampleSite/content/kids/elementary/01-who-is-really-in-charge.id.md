@@ -9,115 +9,131 @@ next: /kids/elementary/02-the-vision
 chapters: "Latar Belakang"
 ---
 # Siapa yang Sebenarnya Berkuasa?
-### Latar Belakang
+### Dunia tempat kitab Wahyu ditulis
 
 > **Cerita untuk dibacakan:** [Kaisar yang Ingin Menjadi Allah (Latar Belakang)]({{< relref "story/elementary/tour#background" >}})  
-> **Alkitab:** {{% bible val="Wahyu 1:9" link="rev:1,9" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 1:9" link="rev:1,9" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-01.pdf)
 
 
-## 1. Sebuah koin di telapak tangan
+## 1. Permainan tepuk tangan
 
-Bawa sekeping uang logam. Edarkan.
+Ayo kita coba sesuatu. Setiap kali aku mengangkat tangan, semua harus berdiri, bertepuk tangan,
+dan berseru „Kaulah yang terhebat!" Siapa yang tidak ikut, duduk di luar pada putaran berikutnya.
 
-Di zaman Romawi, setiap koin ada wajah kaisar di atasnya, dan di sekelilingnya tertulis kata-kata
-yang menyebut dia dewa. Uang di sakumu memberitahumu setiap hari siapa yang berkuasa.
+*(Mainkan dua atau tiga putaran, lalu berhenti dan tanyakan:)*
 
-## 2. Kesepakatan itu
+- Bagaimana rasanya setelah kali ketiga?
+- Adilkah kalau ada yang harus duduk di luar?
+- Bagaimana kalau kau harus melakukannya setiap hari seumur hidupmu — bahkan pada hari-hari
+  ketika kau tidak sungguh-sungguh?
 
-Roma menawarkan sesuatu, dan sejujurnya tawaran itu bagus.
+Pegang perasaan itu. Sesuatu yang sangat mirip — hanya saja sungguh nyata — adalah tempat kitab
+Wahyu dimulai.
 
-*Kami beri kalian jalan. Kami beri kalian keamanan. Kami beri kalian roti yang cukup, kapal yang
-datang tepat waktu, dan malam tanpa tentara mengetuk pintu. Yang kami minta hanya satu: katakan
-bahwa kaisar adalah yang terbesar.*
+## 2. Raja yang ingin menjadi dewa
 
-Kau ucapkan kalimat itu di pasar. Kau angkat cawanmu saat makan malam. Kau taburkan sedikit
-dupa di api kecil di depan kuil saat lewat — tiga detik — lalu pulang.
+Ketika kitab Wahyu ditulis, hampir seluruh dunia yang dikenal saat itu milik satu kekaisaran:
+Roma. Di puncaknya ada satu orang, sang kaisar.
 
-Tiga detik. Itu saja.
+Pesan kaisar sederhana: *Aku memberimu keamanan. Aku memberimu cukup makanan. Aku memberimu
+damai. Yang kuminta hanya ini: semua orang memperlakukan aku sebagai yang terhebat — hampir
+seperti dewa.*
 
-## 3. Orang-orang yang menolak
+Itu terlihat di mana-mana. Wajahnya ada di setiap koin. Patungnya berdiri di alun-alun pasar.
+Pada pesta-pesta, semua orang mengangkat cawan dan memujinya. Siapa pun yang menolak langsung
+kelihatan — dan kelihatan berbeda bisa membuatmu mendapat masalah besar.
 
-Sebagian orang tidak mau melakukannya.
+## 3. Masalah bagi orang Kristen
 
-Mereka pernah mendengar tentang seorang tukang kayu dari daerah kecil di pinggir peta, yang
-dihukum mati oleh Roma dengan cara Roma yang biasa — dan yang, kata mereka, tidak tinggal mati.
-Mereka menyebut Dia Raja. Dan mereka berkata: hanya ada tempat untuk satu.
+Orang-orang Kristen melihat semua itu dan berpikir: *Tunggu. Kami sudah punya Raja, dan nama-Nya
+Yesus. Keamanan, makanan, hidup yang baik — semua itu datang dari Allah, bukan dari kaisar.*
 
-Jadi mereka tidak menaburkan dupa itu.
+Jadi mereka tidak bisa ikut berseru dengan jujur. Dan itu membuat hidup sulit, karena menolak
+bukan keputusan sekali saja. Hal itu muncul lagi dan lagi: di tempat kerja, di pesta, di pasar.
 
-Dan begini soalnya: itu bukan satu momen keberanian. Itu terjadi setiap hari pasar. Setiap makan
-malam. Setiap kali tetangga berkata, *ayolah, itu tidak berarti apa-apa.*
+## 4. Yohanes, yang berkata tidak
 
-## 4. Yohanes di Patmos
+Orang yang menulis kitab Wahyu bernama Yohanes. Ia menceritakan dengan terus terang apa yang
+terjadi padanya: ia tidak mau ikut-ikutan, lalu ia dibuang ke sebuah pulau kecil yang sepi
+bernama Patmos.
 
-Ada seorang bernama Yohanes yang juga menolak.
+Dan di sana, terpisah dari semua orang, Allah menunjukkan kepadanya sesuatu yang sangat besar —
+bahwa Yesus hidup dan sungguh memerintah, lebih dari kaisar mana pun. Semua yang ditulis Yohanes
+sesudahnya dimaksudkan untuk memberi orang Kristen biasa keberanian untuk tetap bersama Yesus,
+apa pun harganya.
 
-Kita tidak tahu persis apa yang dia katakan. Kita tahu harganya: mereka menaruhnya di kapal dan
-membawanya ke Patmos — sebongkah batu abu-abu di tengah laut. Panjangnya cuma belasan kilometer.
-Tidak ada apa-apa selain batu, kambing, dan angin.
+## 5. Siapa kaisar kita?
 
-Begitulah cara Roma menangani orang yang menolak tapi terlalu tua atau terlalu terkenal untuk
-dibunuh diam-diam. Kau tidak membunuhnya — itu malah membuat cerita. Kau cukup membawanya ke
-tempat yang tak terjangkau cerita, lalu membiarkannya berhenti berarti.
+Hari ini tidak ada yang harus sujud di depan patung. Tapi pertanyaan di baliknya belum hilang:
+**Siapa yang paling ingin kau buat senang?**
 
-Biasanya berhasil.
+- Mana yang lebih penting: anak-anak lain menganggapmu keren, atau kau melakukan hal yang benar?
+- Apakah kau merasa lebih aman dengan ponselmu daripada dengan Allah?
+- Pernahkah kau ikut-ikutan melakukan sesuatu yang kau tahu salah, hanya supaya tetap diterima
+  di kelompok?
 
-## 5. Lalu langit terbuka
+Itulah kaisar-kaisar zaman kita. Mereka tidak memakai mahkota, dan justru karena itu mereka mudah
+terlewat.
 
-Yohanes duduk di batu itu. Menurut ukuran siapa pun di kekaisaran, dia sudah kalah. Tidak ada
-jemaat. Tidak ada teman. Tidak ada jalan pulang. Tidak ada suara.
+## 6. Tidak ada yang memutuskan sekaligus
 
-Lalu pada suatu hari Minggu biasa, di batu paling sepi di tengah laut, langit terbuka.
+Ini bagian yang perlu diingat. Tidak ada orang yang bangun suatu pagi lalu memutuskan untuk
+meninggalkan Yesus. Itu terjadi selangkah demi selangkah — satu alasan, sedikit ikut-ikutan,
+satu saat diam saja — sampai suatu hari kau menengadah dan ada hal lain yang diam-diam sudah
+menjadi bos.
 
-Apa yang dia lihat, dia tuliskan, dan entah bagaimana berhasil keluar dari pulau itu — itulah
-kitab terakhir dalam Alkitabmu.
+Itulah sebabnya kitab Wahyu terus-menerus menunjukkan gambaran yang sama. Kitab ini ingin
+menolong kita menyadarinya, sebelum kita hanyut.
 
-## 6. Satu pertanyaan, dua puluh dua kali
+## 7. Kabar baiknya
 
-Kitab ini punya satu pertanyaan di jantungnya, dan ia menanyakannya dua puluh dua kali, dalam
-dua puluh dua gambar berbeda.
+Kita tidak perlu bersembunyi, dan kita tidak perlu membeli tempat supaya diterima. Yesus sudah
+menjadi Raja yang sejati — lebih kuat dari kaisar mana pun, tren mana pun, kerumunan mana pun.
+Ia mengundang kita menjadi milik-Nya dengan jujur, secara terbuka.
 
-**Siapa yang sebenarnya berkuasa?**
-
-Tidak ada yang akan menyuruhmu menaburkan dupa ke api. Tapi pertanyaannya belum ke mana-mana.
-
-**Ayat hafalan:** „Akulah Alfa dan Omega, firman Tuhan Allah, yang ada dan yang sudah ada dan
-yang akan datang, Yang Mahakuasa." (Wahyu 1,8)
+**Ayat hafalan:** „Tidak ada seorang pun yang dapat melayani dua majikan." (Matius 6,24)
 
 ## Lihat sendiri
 
 *Dua menit hening. Tidak ada yang harus berbicara.*
 
-Bayangkan ruangan tempat surat ini pertama kali dibacakan. Itu rumah seseorang. Hari sudah
-malam dan lampu-lampu menyala, karena berkumpul di siang hari tidak aman.
+Bayangkan ruangan tempat surat ini pertama kali dibacakan. Itu rumah seseorang. Hari sudah malam
+dan pelita-pelita menyala, karena berkumpul pada siang hari tidak aman.
 
-Lihatlah wajah-wajah di sekitarmu. Beberapa dari mereka kehilangan pekerjaan karena hal ini.
-Salah satunya anak seusiamu.
+Lihat wajah-wajah di sekelilingmu. Beberapa orang di sini kehilangan pekerjaan karena hal ini.
+Salah satunya seorang anak seusiamu.
 
-Sekarang gulungan itu dibuka dan baris pertama dibacakan: *"Kasih karunia dan damai sejahtera
-menyertai kamu, dari Dia yang ada, yang sudah ada, dan yang akan datang."*
+Sekarang gulungan itu dibuka dan baris pertama dibacakan: *„Semoga Saudara memiliki kasih karunia
+serta damai sejahtera dari Allah, yang ada sekarang, dahulu maupun yang akan datang!"*
 
 Perhatikan bagaimana wajah-wajah itu berubah.
 
-## 7. Doa
+## 8. Doa
 
-Tuhan Yesus, terima kasih karena Engkaulah yang sungguh berkuasa, bukan orang yang paling
-berisik. Tolong kami mengingat itu minggu ini. Amin.
+Tuhan Yesus, terima kasih karena Engkaulah Raja yang sejati, lebih kuat dari apa pun yang
+menakutkan kami dan apa pun yang ingin kami buat terkesan. Tolong kami menjadi milik-Mu dengan
+jujur, walaupun itu ada harganya. Tunjukkan kepada kami kapan kami diam-diam mulai mengandalkan
+hal lain. Amin.
 
 ## Lampiran: Ide untuk pengajar
 
-**Pembuka:** Koin. Tanyakan gambar siapa yang ada di uang mereka dan mengapa gambar itu ada di
-sana.
+**Pembuka:** Permainan tepuk tangan di atas. Biarkan berlangsung cukup lama sampai mulai
+membosankan — pesannya sampai ketika anak-anak merasakan tekanannya, bukan ketika dijelaskan.
 
-**Ide kerajinan:** Buat „koin" dari karton — satu sisi bergambar mahkota kaisar, sisi lain
-bertuliskan nama Yesus.
+**Ide kerajinan:** Setiap anak menggambar sebuah mahkota. Di satu sisi mereka menulis atau
+menggambar hal yang kadang-kadang bertindak seperti kaisar dalam minggu mereka — ponsel, teman,
+ingin lucu, ingin menang. Di sisi lain: „Yesus". Tanyakan mahkota mana yang mereka ingin lebih
+besar.
 
 **Pertanyaan:**
-1. Mengapa tiga detik itu terasa begitu kecil, tapi ternyata begitu besar?
-2. Apa yang membuat Yohanes tetap bertahan di pulau kosong?
-3. Siapa yang menurutmu berkuasa atas harimu?
+1. Kapan paling sulit berkata tidak ketika semua orang lain berkata ya?
+2. Apa yang akan kau lakukan kalau seseorang menertawakanmu karena percaya kepada Yesus?
+3. Apa yang kadang-kadang lebih penting bagimu daripada Yesus, walaupun sebenarnya kau tidak mau
+   begitu?
 
-**Usulan lagu:** Lagu tentang Yesus sebagai Raja; sesuatu yang mudah diikuti.
+**Usulan lagu:** Lagu yang menyebut Yesus sebagai Raja; lagu gerak tentang keberanian.
 
-**Catatan persiapan:** Ini pelajaran pertama. Tuliskan pertanyaan „Siapa yang sebenarnya
-berkuasa?" di papan dan biarkan tetap di sana selama enam belas minggu.
+**Catatan persiapan:** Pelajaran ini menjadi dasar seluruh seri. Kalau anak-anak hanya mengingat
+satu hal, biarlah itu pertanyaan „Siapa yang sebenarnya berkuasa?" — setiap pelajaran berikutnya
+menjawabnya lagi.

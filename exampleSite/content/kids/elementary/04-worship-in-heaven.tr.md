@@ -13,58 +13,77 @@ chapters: "Vahiy 4–5"
 ### Vahiy 4–5
 
 > **Okunacak hikâye:** [Gökteki Kapı (Bölüm 4-5)]({{< relref "story/elementary/tour#worship" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 4–5" link="rev:4" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 4–5" link="rev:4" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-04.pdf)
 
 
-## 1. Hangi oda en önemli?
+## 1. Bir şeyi teslim etmek
 
-Sor: bir ülkede hangi oda en önemlidir? Genellikle cevap cumhurbaşkanının odasıdır.
+Bir gönüllü iste ve eline küçük bir şey ver — bir kalem, bir anahtarlık. Şimdi bunu başka birine
+vermesini ve ne yapılacağına o kişinin karar vermesine izin vermesini iste.
 
-Vahiy 4 bizi evrendeki gerçekten en önemli odaya götürüyor — ve orada ilk gördüğümüz şey bir toplantı
-değil, bir şarkı.
+Nasıl hissettirdi? Bir eşyayı teslim etmek kolay. *Kararı* teslim etmek değil.
 
-## 2. Açık kapı
+## 2. Gökteki kapı
 
-Yuhanna gökte açık bir kapı gördü ve bir ses dedi ki: „Buraya çık."
+Geçen sefer yedi kilise karnelerini aldı ve akla gelen soru şu: bunlardan herhangi biri nasıl doğru
+yapabilir ki?
 
-İçeride bir taht var, üzerinde oturan biri var ve tahtı çevreleyen bir gökkuşağı var.
+Bölüm 4 bir kapı açarak cevap veriyor. Yuhanna göğe bakıyor ve bir taht görüyor, üzerinde Tanrı'yı,
+ve çevresindeki herkes düpedüz hayranlık içinde.
 
-Gökkuşağı. Nuh'un zamanından kalan söz işareti. En görkemli taht odasında bile Tanrı'nın sözünü
-tuttuğunu hatırlatan bir işaret var.
+Sonra tuhaf bir şey yapıyorlar. Yirmi dört ihtiyar taçlarını çıkarıp tahtın önüne koyuyor.
 
-## 3. Herkes şarkıya katılıyor
+Kararı teslim ediyorlar. Tapınma budur.
 
-Yirmi dört ihtiyar var. Dört yaratık var. Şimşekler ve gök gürlemeleri var. Ve hepsi şarkı söylüyor.
+## 3. Teşekkür, övgü, tapınma
 
-Söyledikleri „Sen korkutucusun" değil, **„Kutsal, kutsal, kutsal"** ve „Sen layıksın" — çünkü her
-şeyi o yarattı.
+Burada adını koymaya değer bir merdiven var, çünkü çocuklar tapınmanın sadece şarkı söylemek
+olduğunu sanır çoğu zaman.
 
-## 4. Tomar ve gözyaşları
+- Belki Tanrı bir duana cevap verdi, seni teselli etti ya da cesaret verdi. Teşekkür ettin. Bu
+  **teşekkür**.
+- Bir süre sonra bütün bu iyi şeyleri verenin kendisinin iyi olduğunu fark edersin. Bu **övgü**.
+- Ve sonunda şöyle düşünürsün: O bu kadar iyiyse, her şeyi O'na emanet edebilirim. **İşte** bu
+  tapınma — ve yere konan taç budur.
 
-Sonra bir sorun çıkıyor. Tahtta oturanın sağ elinde yedi mühürle mühürlenmiş bir tomar var ve onu
-açmaya layık kimse bulunamıyor.
+Kararı bir kez teslim ettin mi, Tanrı'nın yolunda yaşamak bir kural gibi gelmeyi bırakır ve mantıklı
+gelmeye başlar.
 
-Yuhanna ağlıyor. Gerçekten ağlıyor. Çünkü o tomarda Tanrı'nın dünyayı onarma planı var — ve onu
-kimse açamazsa hiçbir şey değişmez.
+## 4. Kuzu olan aslan
 
-## 5. Kuzu çıkan Aslan
+Sonra kimsenin açmaya layık olmadığı bir tomar ortaya çıkıyor ve Yuhanna buna gerçekten ağlıyor.
 
-İhtiyarlardan biri diyor ki: „Ağlama! Yahuda oymağından gelen Aslan galip geldi."
+İhtiyarlardan biri ona susmasını söylüyor: „Ağlama! İşte, Yahuda oymağından gelen Aslan, Davut'un
+Kökü galip geldi."
 
-Yuhanna aslanı görmek için dönüyor.
+Yuhanna bakıyor — ve bir **kuzu** görüyor. Boğazlanmış gibi görünen bir kuzu.
 
-Ve gördüğü şey **boğazlanmış gibi duran bir Kuzu.**
+Burada bir an dur. Aslan duyuruluyor. Kuzu beliriyor. Ve kuzu bir gerileme değil; aslan tam da
+kuzu olarak *kazandı*.
 
-Bu, belki de kitabın tamamındaki en önemli an. Kazanan en vahşi olan değil. Kazanan, kendini veren.
+## 5. Neden kötü insanları ortadan kaldırmıyor?
 
-## 6. Şarkı büyüyor
+Çocuklar sık sık bariz soruyu sorar: Tanrı bütün kötü insanlardan hemen kurtulsa daha hızlı olmaz
+mıydı?
 
-Kuzu tomarı alır almaz şarkı genişliyor — dört yaratıktan ihtiyarlara, sayısız melekten **gökteki,
-yeryüzündeki ve yer altındaki bütün yaratıklara.**
+İnsanlar bunu iki bin yıl önce de sordu ve Vahiy hayır diyor. Tanrı yoldan çıkmış insanları yok
+etmek istemiyor — onları düzeltmek istiyor. Ve dürüst olursak, hepimiz o listenin bir yerindeyiz.
 
-Evren şarkıya katılıyor.
+Kazananın dişli bir aslan değil de bir kuzu olmasının nedeni bu.
 
-**Ezber ayeti:** „Boğazlanmış Kuzu gücü almaya layıktır." (Vahiy 5,12)
+## 6. Sondaki sürpriz
+
+Tuhaf kısım şu. Ardından gelen bütün zor şeyler — mühürler, borular, tasalar — *bu odadan* çıkıyor.
+Taht odasından. Tanrı'ya tapınılan yerden.
+
+Kulağa korkutucu geliyor, ta ki bir ayrıntıyı daha fark edene kadar: tahtın çevresinde bir gökkuşağı
+var. Gökkuşağı, Tanrı'nın dünyayı yok etmek niyetinde olmadığına dair eski vaadidir.
+
+Yani o zor bölümler ne yapıyorsa, onu iyi biri yapıyor. Ne işe yaradıklarını öğreneceğiz.
+
+**Ezber ayeti:** „Boğazlanmış Kuzu gücü, zenginliği, bilgeliği, kudreti, saygıyı, yüceliği, övgüyü
+almaya layıktır." (Vahiy 5,12)
 
 ## Kendin bak
 
@@ -72,33 +91,35 @@ Evren şarkıya katılıyor.
 
 Gözlerini kapat. Açık kapının hemen içinde duruyorsun.
 
-Ne duyuyorsun? Tahttan gök gürlemeleri geliyor, hiç durmayan bir ezgi ve pek çok ırmağın sesi
-gibi bir uğultu.
+Ne duyuyorsun? Tahttan gök gürlemesi geliyor, hiç durmayan bir ilahi ve çok sayıda ırmağın sesi
+gibi bir ses.
 
-Ne kokusu alıyorsun? Buhur yanıyor, ve o buhur dualardan yapılmış.
+Ne kokluyorsun? Buhur yanıyor ve dualardan yapılmış.
 
 Ne hissediyorsun — sıcak mı? Zemin sağlam mı? Rüzgâr var mı?
 
-Şimdi kendi ellerine bak. Bırakmak istemediğin bir şey mi tutuyorsun?
+Şimdi kendi ellerine bak. Bırakmak istemediğin bir şey tutuyor musun?
 
 ## 7. Dua
 
-Baba, her şeyin merkezinde korku değil bir şarkı olduğu için teşekkür ederiz. İsa, kendini vererek
-kazandığın için teşekkür ederiz. Âmin.
+Baba, kararı sana emanet etmeye değer olduğun için sana teşekkür ederiz. İsa, kimseyi ezerek değil,
+kendini vererek kazandığın için teşekkür ederiz. Taçlarımızı yere koymamıza yardım et. Amin.
 
 ## Ek: Önderler için fikirler
 
-**Açılış:** En önemli oda sorusu. Taht odasıyla karşılaştırın.
+**Açılış:** Yukarıdaki teslim etme oyunu; ya da başta kâğıttan taçlar yapın ve 3. bölüme
+geldiğinizde öne, bir yığın halinde koyun.
 
-**El işi fikri:** Gökkuşaklı bir taht çizin ve çocuklar kendilerini şarkı söyleyenlerin arasına
-yapıştırsın.
+**El işi fikri:** Bir tahtın çevresinde gökkuşağı. Çocuklar yayın içine bu hafta Tanrı'ya emanet
+etmek istedikleri bir şeyi yazsın.
 
 **Sorular:**
-1. Yuhanna neden ağladı?
-2. Aslanın aslında bir Kuzu olması neden şaşırtıcı?
-3. Evrendeki en önemli odanın şarkıyla dolu olması ne anlama geliyor?
+1. Tanrı'ya teşekkür etmekle O'na tamamen güvenmek arasındaki fark ne?
+2. Sence Yuhanna'ya bir aslana bakması söylendiğinde neden bir kuzu gördü?
+3. Teslim etmekte zorlanacağın bir şey var mı?
 
-**Şarkı önerileri:** Gerçekten birlikte söylenen bir tapınma şarkısı — bu ders şarkılı bir ders olsun.
+**Şarkı önerileri:** „Kuzu layıktır" ya da herhangi bir taht odası ilahisi; basit bir teşekkür
+şarkısı.
 
-**Hazırlık notu:** 5,5-6'daki aslan-Kuzu anı duraklamayı hak ediyor. İki ayeti art arda oku ve ne fark
-ettiklerini sor.
+**Hazırlık notu:** Aslanın kuzuya dönüştüğü an bütün kitabın menteşesidir. Zaman yetmezse 4. bölümü
+değil, 3. bölümü kısaltın.

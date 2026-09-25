@@ -13,93 +13,92 @@ chapters: "Vahiy 10"
 ### Vahiy 10
 
 > **Okunacak hikâye:** [Bal Tadındaki — ve Dertli — Tomar (Bölüm 10)]({{< relref "story/elementary/tour#scroll" >}})  
-> **Kutsal Kitap:** {{% bible val="Vahiy 10" link="rev:10" lang="tr" %}}
+> **Kutsal Kitap:** {{% bible val="Vahiy 10" link="rev:10" lang="tr" %}}  
+> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-08.pdf)
 
 
-## 1. Önce tatlı, sonra acı
+## 1. Ödevini yemek
 
-Mümkünse başta tatlı, sonda acı bir şey getir — zencefilli şeker ya da bitter çikolata.
+Sor: hiç birine bir kitabı „sindirmesi" ya da „gururunu yutması" söylendi mi? Bu sözler ne anlama
+geliyor? Yemeyi, bir şeyi *içine almanın* — gerçekten, sonuna kadar — resmi olarak kullanırız.
 
-10. bölüm, ağızda tatlı ama midede acı olan bir şeyle ilgili.
+Bunu aklında tut, çünkü 10. bölüm birinden bir kitap yemesini isteyecek. Gerçekten.
 
-## 2. Çok büyük bir melek
+## 2. Neredeyiz
 
-Güçlü bir melek buluta sarınmış olarak iniyor, başının üzerinde gökkuşağı, yüzü güneş gibi, ayakları
-ateşten sütunlar gibi. Bir ayağı denizde, bir ayağı karada.
+Kısa bir özet, çünkü burası bir menteşe.
 
-O kadar büyük ki tek bir yere sığmıyor.
+Birinci sır — kilise sırrı — bitti. İsa'nın çarmıhta kazandığını, kilisenin şaşırtıcı türden bir ordu
+olarak ortaya çıktığını ve duanın insanların sahte güvencelerini söküp attığını gördük. Ve sonunda
+insanlar o güvencelere eskisinden de sıkı sarıldı.
 
-## 3. Yazılmaması gereken
+Böylece ikinci sır başlıyor: Tanrı'nın sırrı.
 
-Yedi gök gürlemesi konuşuyor ve Yuhanna yazmak üzereyken bir ses diyor ki: **bunu yazma. Mühürle.**
+## 3. Dev bir melek ve küçük bir tomar
 
-Bu, kitapta Yuhanna'ya bir şeyi yazma**ma**sının söylendiği tek yer.
+Kocaman bir melek iniyor, bir ayağı denizde, bir ayağı karada, ve elinde bir tomar tutuyor. Bu
+sefer küçük bir tomar.
 
-Bunu açıkça söyle: Tanrı'nın bildiği ve bizim bilmediğimiz şeyler var. Ve bu sorun değil. Ona güvenmek
-için her şeyi bilmemiz gerekmiyor.
+Büyük tomarı açmaya layık olan İsa'ydı. Bu küçük tomar Yuhanna için — ve bizim için.
 
-## 4. Artık gecikme olmayacak
+Ve Yuhanna'ya onu alıp yemesi söyleniyor.
 
-Melek, artık gecikme olmayacağına ant içiyor — Tanrı'nın sırrı tamamlanacak.
+## 4. Önce tatlı, sonra acı
 
-6. bölümde uzun süredir „daha ne kadar" diye soranlar için bu büyük bir haber.
+Yiyor ve tam da uyarıldığı gibi oluyor: ağzında bal gibi tatlı, sonra midesinde acı.
 
-## 5. Tomarı yemek
+Bu yaş grubuyla bunu dürüstçe konuşmaya değer. Tanrı'nın mesajı *gerçekten* tatlı — var olan en iyi
+haber. Ve onu taşımak bazen insanı zorlar. İkisi de doğru ve Vahiy aksini iddia etmeyi reddediyor.
 
-Sonra Yuhanna'ya küçük tomarı **yemesi** söyleniyor.
+## 5. Onu kendinin bir parçası yapmak
 
-Okuması değil. Yemesi. Çünkü Tanrı'nın sözü, gözden geçirdiğin bir bilgi değildir — içine girmesi ve
-senin bir parçan olması gerekir.
+Yemek, bir şeyi senin bir parçan olana kadar içine almak demek. Ezberlemek değil. Rafta tutmak
+değil. Onunla ilgili soruları cevaplayabilmek değil.
 
-## 6. Neden hem tatlı hem acı
+Bir kitabı yıllarca çantanda taşıyıp ondan hiç değişmeyebilirsin. Bir şeyi yiyip aynı kalamazsın.
 
-Ağızda tatlı, çünkü Tanrı'dan gelen haber gerçekten tatlıdır: İsa kazandı, her şey onarılacak, sonunda
-bir ev var.
+## 6. Tutunacak iki şey
 
-Midede acı, çünkü bunu taşımak, henüz onarılmamış dünyanın acısını hissetmek demektir — ve bazen
-insanlar dinlemek istemez.
+**Birincisi: bu iyi bitiyor.** Tanrı'nın sırrının sonunda Şeytan'ın krallığı tamamen bitiyor.
+Öyküyü anlatmadan önce bize sonunu söylüyorlar ve bu bir iyilik.
 
-İki tat da doğrudur. İmanın yalnızca tatlıysa, onu henüz yutmamışsındır.
+**İkincisi: Tanrı baştan sona her şeyi elinde tutuyor.** Bu kitapta bundan sonra gelenler çılgınca
+ve onu kimin tuttuğunu bilmeden kaldıramazdık.
 
-## 7. Sonra ne?
-
-Yuhanna'ya bir görev veriliyor: „Birçok halk hakkında yine peygamberlikte bulunmalısın."
-
-Yuttuktan sonra konuşursun.
-
-**Ezber ayeti:** „Ağzımda bal gibi tatlıydı." (Vahiy 10,10)
+**Ezber ayeti:** „Küçük tomarı meleğin elinden alıp yedim, ağzımda bal gibi tatlıydı." (Vahiy 10,10)
 
 ## Kendin bak
 
 *İki dakika sessizlik. Kimsenin bir şey söylemesi gerekmiyor.*
 
-Melek küçük tomarı uzatıyor ve diyor ki: ye bunu.
+Melek küçük tomarı uzatıyor ve diyor ki: ye onu.
 
 Al. Ellerinde nasıl hissettiriyor — ağır mı, hafif mi, sıcak mı?
 
-Ağzına koy. Bal gibi tatlı. Bir an tatlı kısımda kal: içindeki iyi haber ne?
+Ağzına koy. Bal gibi tatlı. Tatlı kısımda bir an kal: içindeki iyi haber ne?
 
-Sonra tadı değişiyor. Bunu içinde nerede hissediyorsun? Artık bildiğini bilmenin ağır tarafı
-ne?
+Sonra değişiyor. Bunu içinde nerede hissediyorsun? Artık bildiğin şeyi bilmenin zor yanı ne?
 
-## 8. Dua
+## 7. Dua
 
-Rab, sözün tatlı olduğu için teşekkür ederiz. Acı kısımdan kaçmamamıza yardım et. Ve onu başkalarına
-anlatmamıza yardım et. Âmin.
+Tanrım, sözlerin tatlı olduğu için sana teşekkür ederiz. Onları sadece bilmemize değil, yaşayış
+biçimimizi değiştirene kadar içimize almamıza yardım et. Ve onları taşımak zor geldiğinde, nasıl
+bittiğini hatırlamamıza yardım et. Amin.
 
 ## Ek: Önderler için fikirler
 
-**Açılış:** Önce tatlı, sonra acı — önce alerjileri kontrol et.
+**Açılış:** Kaşıkta bal ve ekşi bir şey — limon ya da ekşi şeker — alerji yoksa arka arkaya. Hiçbir
+şey 10,10'u bundan hızlı açıklamaz.
 
-**El işi fikri:** Kâğıttan küçük bir tomar; bir yüzüne iyi haberi, diğer yüzüne onunla gelen zor şeyi
-yazsınlar.
+**El işi fikri:** Kâğıttan küçük tomarlar. Her çocuk kendi tomarına bir ayet ya da vaat yazsın,
+rulo yapsın ve eve çantasında değil cebinde götürsün — amaç onu yakında tutmak.
 
 **Sorular:**
-1. Yuhanna neden yedi gök gürlemesini yazamadı?
-2. Sözü okumakla onu „yemek" arasındaki fark nedir?
-3. İsa'yı izlemenin hangi kısmı tatlı? Hangi kısmı acı?
+1. Bir şeyi bilmekle onu içine almak arasındaki fark ne?
+2. İyi bir haberi taşımak hiç zor olabilir mi? Ne zaman?
+3. Sence Tanrı bize ortasını anlatmadan önce neden sonunu anlatıyor?
 
-**Şarkı önerileri:** Tanrı'nın sözüyle ilgili bir şey.
+**Şarkı önerileri:** Tanrı'nın sözüyle ilgili bir şarkı; sona güvenmekle ilgili bir şey.
 
-**Hazırlık notu:** 3. bölüm, cevapsız soruları çok soran çocuklar için çok yararlı. „Tanrı biliyor, biz
-bilmiyoruz ve bu sorun değil" yatıştırıcı bir cümledir.
+**Hazırlık notu:** Bu kısa bir bölüm ve kısa bir ders. Zaman kalırsa, yeni malzeme eklemek yerine
+onu bal ve limon etkinliğine ayırın — asıl önemli olan bedenin hatırlaması.

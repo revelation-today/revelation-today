@@ -13,101 +13,116 @@ chapters: "Wahyu 2–3"
 ### Wahyu 2–3
 
 > **Cerita untuk dibacakan:** [Tujuh Surat untuk Tujuh Tim (Pasal 2-3)]({{< relref "story/elementary/tour#letters" >}})  
-> **Alkitab:** {{% bible val="Wahyu 2–3" link="rev:2" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 2–3" link="rev:2" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-03.pdf)
 
 
-## 1. Rapor
+## 1. Rapor sekolah
 
-Tanyakan siapa yang pernah menerima rapor. Semua tahu rasanya menunggu dibuka.
+Bayangkan gurumu menulis rapor untuk seluruh kelasmu — bukan untuk setiap orang, tapi untuk kelas
+sebagai satu kesatuan. Apa isinya? Apa yang kalian kuasai bersama? Apa masalah yang diam-diam
+diketahui semua orang?
 
-Wahyu 2 dan 3 adalah tujuh rapor — dan yang menulisnya adalah Yesus sendiri.
+Itulah tepatnya pasal 2 dan 3. Tujuh rapor, untuk tujuh jemaat yang nyata, di tujuh kota yang
+nyata. Dan Yesus sendiri yang menulisnya.
 
-## 2. Pola yang sama tujuh kali
+## 2. Ketujuh jemaat, singkat saja
 
-Hampir semua surat mengikuti pola yang sama:
+- **Efesus** — sibuk, rajin, sangat pandai mengenali orang yang mengajarkan omong kosong. Tapi di
+  tengah jalan mereka berhenti mengasihi. Selain itu semuanya baik-baik saja.
+- **Smirna** — kecil, miskin, dalam kesulitan besar, sebagian dari mereka di penjara. Yesus sama
+  sekali tidak punya teguran bagi mereka.
+- **Pergamus** — dikelilingi kejahatan yang nyata; seorang dari mereka sudah dibunuh karenanya.
+  Tapi mereka membiarkan orang mengajarkan hal yang salah di dalam jemaat.
+- **Tiatira** — jemaat di kota kecil yang sebenarnya bertumbuh dalam iman dan sudah menanggung
+  banyak hal. Masalahnya, justru pemimpin mereka sendiri yang menyimpang.
+- **Sardis** — megah, mengesankan, semuanya kelihatan terkendali. Justru itu masalahnya: mereka
+  sudah mengatur hidup mereka sampai Yesus tidak lagi punya tempat.
+- **Filadelfia** — mereka berusaha keras, mereka menghadapi perlawanan, mereka sungguh miskin. Dan
+  mereka tetap setia. Yesus juga tidak punya teguran bagi mereka.
+- **Laodikia** — kaya, sehat, nyaman, dan sangat yakin bahwa mereka lebih baik dari semua orang.
 
-- **Aku tahu** — Yesus menyebut apa yang sudah mereka lakukan
-- **Tetapi** — Dia menyebut yang keliru
-- **Bertobatlah** — Dia mengatakan apa yang harus berubah
-- **Barangsiapa menang** — Dia menjanjikan sesuatu
+## 3. Siapa yang benar?
 
-Perhatikan bagian pertamanya. Sebelum menegur, Yesus selalu berkata *Aku tahu*. Dia
-memperhatikan.
+Minta anak-anak menebak sebelum kau memberi tahu.
 
-## 3. Tujuh jemaat, tujuh masalah
+**Smirna dan Filadelfia.** Dua yang paling kecil. Dua yang paling miskin. Dua yang paling banyak
+kesulitan. Hanya mereka berdua yang tidak mendapat koreksi sama sekali dari Yesus.
 
-- **Efesus** bekerja keras tapi berhenti mengasihi
-- **Smirna** miskin dan menderita — dan tidak ditegur sama sekali
-- **Pergamus** tinggal di tempat sulit dan mulai berkompromi
-- **Tiatira** membiarkan yang salah berjalan terus
-- **Sardis** kelihatan hidup, padahal mati
-- **Filadelfia** kecil dan lemah — dan juga tidak ditegur
-- **Laodikia** merasa kaya dan tidak butuh apa-apa
+Itu layak direnungkan sebentar, karena bukan begitu biasanya kita menilai.
 
-## 4. Yang mengejutkan
+## 4. Empat cara untuk keliru
 
-Dua jemaat yang tidak ditegur adalah dua jemaat yang paling menderita.
+Kelima jemaat yang lain menunjukkan empat cara berbeda untuk meleset, dan tidak satu pun terlihat
+dramatis dari luar:
 
-Dan satu-satunya jemaat yang menurut Yesus benar-benar dalam bahaya adalah jemaat yang merasa
-paling baik-baik saja.
+- **Tanpa kasih**, padahal semua hal lain dilakukan dengan benar (Efesus)
+- **Sombong**, karena semuanya berjalan lancar (Laodikia)
+- **Hidup seolah-olah tidak terlalu butuh Allah** (Sardis)
+- **Membiarkan pikiran yang salah tentang Yesus menyebar**, dan membawa orang lain ke dalamnya
+  (Pergamus, Tiatira)
 
-Itu layak diucapkan pelan-pelan.
+Perhatikan bahwa sebuah jemaat bisa sibuk, benar, populer, dan teratur — dan tetap ada di daftar
+ini.
 
-## 5. Pintu itu
+## 5. Apa yang Yesus lakukan dengan mereka semua
 
-Surat terakhir berakhir dengan gambar yang terkenal: Yesus berdiri di luar dan mengetuk.
+Ini bagian yang mudah terlewat. Yesus tidak menutup satu pun dari jemaat-jemaat ini. Setiap surat
+diakhiri dengan janji bagi „dia yang menang" — artinya sederhana: dia yang terus bertahan.
 
-Ingat siapa yang ada di dalam. Bukan orang luar — jemaat-Nya sendiri. Mereka sibuk sampai lupa
-Dia ada di luar.
+Ia mengatakan kebenaran kepada mereka, lalu Ia tetap membiarkan pintu terbuka. Kedua-duanya
+penting.
 
-Dan Dia tidak mendobrak. Dia mengetuk.
+## 6. Rapor kita sendiri
 
-## 6. Untuk siapa surat-surat ini?
+Kalau Yesus menulis surat kepada gerejamu, atau kelompokmu, atau keluargamu — menurutmu apa yang
+akan Ia puji? Apa yang akan Ia katakan dengan lembut, tapi jujur?
 
-Setiap surat ditutup dengan kalimat yang sama: „Siapa bertelinga, hendaklah ia mendengarkan."
+Tujuannya bukan supaya kita merasa buruk. Smirna dan Filadelfia bukan yang paling mengesankan.
+Merekalah yang setia.
 
-Bukan „siapa yang tinggal di Efesus". Ketujuhnya ditujukan kepada semua orang.
-
-**Ayat hafalan:** „Lihat, Aku berdiri di muka pintu dan mengetok." (Wahyu 3,20)
+**Ayat hafalan:** „Tetaplah setia, sekalipun kalian menghadapi maut, maka Aku akan mengaruniakan
+kepada kalian mahkota kehidupan." (Wahyu 2,10)
 
 ## Lihat sendiri
 
 *Dua menit hening. Tidak ada yang harus berbicara.*
 
-Setiap dari ketujuh surat itu dimulai dengan Yesus mengambil satu bagian dari gambaran di
-pasal 1 — bagian yang dibutuhkan jemaat itu. Kepada mereka yang ketakutan, Dia datang sebagai
-Dia yang mati dan hidup kembali. Kepada mereka yang suam-suam kuku, sebagai Dia yang matanya
-seperti nyala api.
+Setiap surat dari ketujuh surat itu dimulai dengan Yesus mengambil satu bagian dari gambaran di
+pasal 1 — bagian yang dibutuhkan jemaat itu. Kepada yang ketakutan, Ia datang sebagai Dia yang
+sudah mati dan hidup kembali. Kepada yang lalai, sebagai Dia yang matanya seperti nyala api.
 
-Jadi: bagaimana Dia akan datang kepadamu?
+Jadi: bagaimana Ia akan datang kepadamu?
 
-Apa yang akan Dia kenakan? Apa yang akan Dia pegang? Bagian mana yang pertama kali kamu
-perhatikan — mata-Nya, suara-Nya, tangan-Nya?
+Apa yang Ia pakai? Apa yang Ia pegang? Bagian mana dari diri-Nya yang pertama kali kau perhatikan
+— mata-Nya, suara-Nya, tangan-Nya?
 
-Dan kalau Dia menulis namamu di bagian atas sebuah surat, kira-kira apa bunyi baris
-pertamanya?
+Dan kalau Ia menulis namamu di atas sebuah surat, menurutmu apa bunyi kalimat pertamanya?
 
-Apa pun yang terlintas, bandingkan dengan Yesus yang ada di Injil. Kalau tidak terdengar
-seperti Dia, lepaskan saja.
+Apa pun yang muncul di pikiranmu, sandingkan dengan Yesus dalam Injil. Kalau tidak terdengar seperti
+Dia, lepaskan.
 
 ## 7. Doa
 
-Tuhan Yesus, terima kasih karena Engkau tahu apa yang kami kerjakan sebelum Engkau menegur
-kami. Tolong kami mendengar ketukan-Mu, bukan sibuk sampai tak mendengar. Amin.
+Tuhan Yesus, terima kasih karena Engkau mengatakan kebenaran kepada kami, bukan hanya bersikap
+sopan. Terima kasih karena Engkau tidak pernah menyerah atas kami. Tolong kami tetap setia walaupun
+kami kecil, dan tetap baik walaupun kami benar. Amin.
 
 ## Lampiran: Ide untuk pengajar
 
-**Pembuka:** Rapor kosong dari kertas. Isi bersama untuk kelompok kalian.
+**Pembuka:** Tulis ketujuh nama kota di kartu dan bagikan. Setiap kali kau membacakan sebuah surat,
+anak yang memegang kartunya berdiri. Dengan begitu pasal yang panjang tetap bergerak.
 
-**Ide kerajinan:** Tujuh amplop kecil dengan nama jemaat di luar dan satu kalimat pujian dan
-satu kalimat perbaikan di dalam.
+**Ide kerajinan:** Rapor kelas — „Yang kami kuasai" di satu sisi, „Tempat kami bisa bertumbuh" di
+sisi lain. Isi bersama-sama, dengan lembut. Simpan untuk dilihat lagi beberapa bulan kemudian.
 
 **Pertanyaan:**
-1. Mengapa Yesus selalu memulai dengan „Aku tahu"?
-2. Mengapa jemaat yang merasa paling baik justru paling berbahaya?
-3. Kalau Yesus menulis rapor untuk kelompok kita, apa isinya?
+1. Menurutmu mengapa dua jemaat dengan hidup paling sulit sama sekali tidak ditegur?
+2. Bisakah seseorang melakukan semuanya dengan benar dan tetap kehilangan sesuatu? Apa?
+3. Jemaat mana dari ketujuh jemaat itu yang paling mirip dengan kita?
 
-**Usulan lagu:** Sesuatu tentang mendengar suara Tuhan.
+**Usulan lagu:** Lagu tentang kesetiaan; lagu tentang Yesus yang mengenal kita.
 
-**Catatan persiapan:** Jangan buru-buru melewati tujuh jemaat. Anak-anak suka menebak jemaat
-mana yang paling mirip mereka.
+**Catatan persiapan:** Efesus adalah yang paling sulit dipahami anak-anak — semuanya benar, tapi
+tanpa kasih. Layak diberi satu menit tambahan, karena itulah jebakan yang menangkap anak-anak yang
+baik dan terdidik.

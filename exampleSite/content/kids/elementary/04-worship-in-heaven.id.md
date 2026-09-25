@@ -13,95 +13,122 @@ chapters: "Wahyu 4–5"
 ### Wahyu 4–5
 
 > **Cerita untuk dibacakan:** [Pintu di Langit (Pasal 4-5)]({{< relref "story/elementary/tour#worship" >}})  
-> **Alkitab:** {{% bible val="Wahyu 4–5" link="rev:4" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 4–5" link="rev:4" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-04.pdf)
 
 
-## 1. Ruangan mana yang paling penting?
+## 1. Menyerahkan sesuatu
 
-Tanyakan: di sebuah negara, ruangan mana yang paling penting? Biasanya jawabannya ruang presiden.
+Minta seorang sukarelawan dan berikan sesuatu yang kecil untuk dipegangnya — sebuah pena, seikat
+kunci. Sekarang minta ia memberikannya kepada orang lain dan membiarkan orang itu memutuskan mau
+diapakan.
 
-Wahyu 4 membawa kita ke ruangan yang benar-benar paling penting di seluruh alam semesta — dan
-yang pertama kita lihat di sana bukan rapat, melainkan nyanyian.
+Bagaimana rasanya? Menyerahkan sebuah benda itu mudah. Menyerahkan *keputusannya*, tidak.
 
-## 2. Pintu yang terbuka
+## 2. Pintu di surga
 
-Yohanes melihat sebuah pintu terbuka di surga, dan sebuah suara berkata, „Naiklah ke mari."
+Terakhir kali ketujuh jemaat menerima rapor mereka, dan pertanyaan yang jelas muncul: bagaimana
+mungkin salah satu dari mereka bisa benar?
 
-Di dalam ada takhta, dan Dia yang duduk di atasnya, dan pelangi mengelilingi takhta itu.
+Pasal 4 menjawab dengan membuka sebuah pintu. Yohanes melihat ke dalam surga dan melihat sebuah
+takhta, dan Allah di atasnya, dan semua yang ada di sekeliling-Nya benar-benar takjub.
 
-Pelangi. Tanda janji dari zaman Nuh. Bahkan di ruang takhta yang paling megah, ada pengingat
-bahwa Allah menepati janji.
+Lalu mereka melakukan sesuatu yang aneh. Kedua puluh empat tua-tua melepaskan mahkota mereka dan
+meletakkannya di depan takhta.
 
-## 3. Semua ikut menyanyi
+Mereka menyerahkan keputusannya. Itulah penyembahan.
 
-Ada dua puluh empat tua-tua. Ada empat makhluk. Ada kilat dan guruh. Dan semuanya menyanyi.
+## 3. Syukur, pujian, penyembahan
 
-Yang mereka nyanyikan bukan „Engkau menakutkan", melainkan **„Kudus, kudus, kudus"** dan
-„Engkau layak" — karena Dia yang menciptakan segala sesuatu.
+Ada sebuah tangga di sini yang layak diberi nama, karena anak-anak sering mengira penyembahan hanya
+berarti bernyanyi.
 
-## 4. Gulungan kitab dan tangisan
+- Mungkin Allah menjawab doamu, atau menghiburmu, atau membuatmu berani. Kau berkata terima kasih.
+  Itu **syukur**.
+- Lama-lama kau memperhatikan bahwa Dia yang memberi semua hal baik itu sendiri baik. Itu
+  **pujian**.
+- Dan akhirnya kau berpikir: kalau Ia sebaik itu, aku bisa memercayakan segalanya kepada-Nya.
+  **Itulah** penyembahan — dan itulah mahkota yang diletakkan.
 
-Lalu muncul masalah. Ada gulungan kitab di tangan kanan Dia yang duduk di takhta, tertutup
-tujuh meterai, dan tidak ada seorang pun yang layak membukanya.
+Begitu kau sudah menyerahkan keputusannya, hidup menurut cara Allah tidak lagi terasa seperti
+aturan, tapi mulai terasa masuk akal.
 
-Yohanes menangis. Menangis sungguhan. Karena gulungan itu berisi rencana Allah untuk memperbaiki
-dunia — dan kalau tidak ada yang bisa membukanya, tidak ada yang berubah.
+## 4. Singa yang adalah anak domba
 
-## 5. Singa yang ternyata Anak Domba
+Lalu muncul sebuah gulungan yang tidak seorang pun layak membukanya, dan Yohanes sampai menangis
+karenanya.
 
-Seorang tua-tua berkata, „Jangan menangis! Singa dari suku Yehuda telah menang."
+Seorang tua-tua menyuruhnya berhenti: „Jangan menangis. Lihatlah! Singa dari suku Yehuda, Tunas
+Daud, sudah menang."
 
-Yohanes menoleh untuk melihat singa itu.
+Maka Yohanes melihat — dan yang dilihatnya seekor **anak domba**. Anak domba yang kelihatan seperti
+sudah disembelih.
 
-Dan yang dia lihat adalah **seekor Anak Domba, seperti telah disembelih.**
+Luangkan waktu sejenak di sini. Singa yang diumumkan. Anak domba yang muncul. Dan anak domba itu
+bukan penurunan derajat; anak domba itulah *cara* singa itu menang.
 
-Ini mungkin momen paling penting dalam seluruh kitab. Yang menang bukan yang paling ganas.
-Yang menang adalah yang memberikan diri-Nya.
+## 5. Mengapa tidak singkirkan saja orang-orang jahat?
 
-## 6. Nyanyian menjadi lebih besar
+Anak-anak sering mengajukan pertanyaan yang jelas: bukankah lebih cepat kalau Allah langsung
+menyingkirkan semua orang yang jahat?
 
-Begitu Anak Domba mengambil gulungan itu, nyanyian meluas — dari empat makhluk, ke tua-tua, ke
-malaikat yang tak terhitung, sampai ke **segala makhluk di langit, di bumi, dan di bawah bumi.**
+Orang-orang dua ribu tahun yang lalu juga bertanya begitu, dan kitab Wahyu menjawab: tidak. Allah
+tidak mau membinasakan orang yang tersesat — Ia mau memulihkan mereka. Dan kalau kita jujur, kita
+semua ada di suatu tempat di daftar itu.
 
-Semesta ikut bernyanyi.
+Itulah sebabnya pemenangnya seekor anak domba, bukan singa yang bertaring.
 
-**Ayat hafalan:** „Anak Domba yang disembelih itu layak menerima kuasa." (Wahyu 5,12)
+## 6. Kejutan di akhir
+
+Ini bagian yang aneh. Semua hal sulit yang datang sesudahnya — meterai-meterai,
+sangkakala-sangkakala, cawan-cawan — keluar *dari ruangan ini*. Dari ruang takhta. Dari tempat di mana Allah
+sedang disembah.
+
+Kedengarannya menakutkan, sampai kau memperhatikan satu detail lagi: ada pelangi di sekeliling
+takhta. Pelangi adalah janji lama Allah bahwa Ia tidak berniat membinasakan dunia.
+
+Jadi apa pun yang dilakukan pasal-pasal yang sulit itu, semuanya dilakukan oleh Dia yang baik.
+Kita akan mencari tahu untuk apa semua itu.
+
+**Ayat hafalan:** „Anak Domba itu layak — Anak Domba yang telah disembelih." (Wahyu 5,12)
 
 ## Lihat sendiri
 
 *Dua menit hening. Tidak ada yang harus berbicara.*
 
-Pejamkan matamu. Kamu berdiri tepat di dalam pintu yang terbuka.
+Pejamkan matamu. Kau berdiri tepat di balik pintu yang terbuka.
 
-Apa yang kamu dengar? Ada guruh yang keluar dari takhta, nyanyian yang tidak berhenti, dan
-bunyi seperti banyak sekali sungai.
+Apa yang kau dengar? Guruh keluar dari takhta, dan nyanyian yang tidak berhenti, dan bunyi seperti
+banyak sekali sungai.
 
-Apa yang kamu cium? Ada dupa yang terbakar, dan dupa itu terbuat dari doa-doa.
+Apa yang kau cium? Kemenyan sedang dibakar, dan kemenyan itu terbuat dari doa-doa.
 
-Apa yang kamu rasakan — apakah hangat? Apakah lantainya kokoh? Apakah ada angin?
+Apa yang kau rasakan — hangatkah? Kokohkah lantainya? Adakah angin?
 
-Sekarang lihat tanganmu sendiri. Apakah kamu sedang memegang sesuatu yang tidak ingin kamu
-lepaskan?
+Sekarang lihat tanganmu sendiri. Apakah kau sedang memegang sesuatu yang tidak ingin kau
+letakkan?
 
 ## 7. Doa
 
-Bapa, terima kasih karena di pusat segala sesuatu ada nyanyian, bukan ketakutan. Yesus, terima
-kasih karena Engkau menang dengan memberikan diri-Mu. Amin.
+Bapa, terima kasih karena Engkau layak dipercaya untuk memutuskan. Tuhan Yesus, terima kasih
+karena Engkau menang dengan menyerahkan diri-Mu, bukan dengan menghancurkan siapa pun. Tolong kami
+meletakkan mahkota kami. Amin.
 
 ## Lampiran: Ide untuk pengajar
 
-**Pembuka:** Pertanyaan tentang ruangan terpenting. Bandingkan dengan ruang takhta.
+**Pembuka:** Permainan menyerahkan di atas, atau buat mahkota kertas di awal dan letakkan
+bertumpuk di depan ketika kalian sampai di bagian 3.
 
-**Ide kerajinan:** Gambar takhta dengan pelangi, dan anak-anak menempel diri mereka di antara
-yang menyanyi.
+**Ide kerajinan:** Pelangi di sekeliling takhta. Anak-anak menulis di dalam lengkungnya satu hal
+yang ingin mereka percayakan kepada Allah minggu ini.
 
 **Pertanyaan:**
-1. Mengapa Yohanes menangis?
-2. Mengapa mengejutkan bahwa singa itu ternyata Anak Domba?
-3. Apa artinya bahwa ruangan terpenting di alam semesta penuh nyanyian?
+1. Apa bedanya berterima kasih kepada Allah dan memercayai-Nya sepenuhnya?
+2. Menurutmu mengapa Yohanes melihat anak domba ketika ia disuruh melihat singa?
+3. Adakah sesuatu yang sulit kau serahkan?
 
-**Usulan lagu:** Lagu penyembahan yang benar-benar dinyanyikan bersama — biarkan pelajaran ini
-menjadi pelajaran yang bernyanyi.
+**Usulan lagu:** „Layaklah Anak Domba" atau lagu apa pun tentang ruang takhta; lagu terima kasih
+yang sederhana.
 
-**Catatan persiapan:** Momen singa-menjadi-Anak-Domba di 5,5-6 layak dijeda. Bacakan dua ayat
-itu berturut-turut dan tanyakan apa yang mereka perhatikan.
+**Catatan persiapan:** Saat singa menjadi anak domba adalah engsel seluruh kitab. Kalau waktunya
+kurang, potong bagian 3, bukan bagian 4.

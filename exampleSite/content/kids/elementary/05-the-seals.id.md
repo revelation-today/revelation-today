@@ -13,96 +13,110 @@ chapters: "Wahyu 6"
 ### Wahyu 6
 
 > **Cerita untuk dibacakan:** [Empat Penunggang Kuda dan Sebuah Pertanyaan (Pasal 6)]({{< relref "story/elementary/tour#seals" >}})  
-> **Alkitab:** {{% bible val="Wahyu 6" link="rev:6" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 6" link="rev:6" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-05.pdf)
 
 
-## 1. Membuka satu per satu
+## 1. Temukan yang palsu
 
-Bawa sebuah bungkusan yang disegel beberapa lapis. Buka satu lapis, lalu berhenti. Anak-anak
-langsung ingin lapis berikutnya.
+Tunjukkan dua benda yang mirip — koin sungguhan dan koin cokelat, sebuah foto dan gambarnya. Bagaimana
+kau tahu bedanya? Biasanya kau harus memperhatikan agak lama, atau memakainya, sebelum yang palsu
+ketahuan.
 
-Wahyu 6 seperti itu — tujuh meterai, dibuka satu per satu oleh Anak Domba.
+Pasal 6 bercerita tentang seseorang yang ketahuan.
 
-## 2. Empat penunggang kuda
+## 2. Seseorang yang menginginkan gulungan itu
 
-Empat meterai pertama mengeluarkan empat penunggang kuda:
+Yesus adalah satu-satunya yang layak membuka gulungan itu, dan sekarang Ia mulai.
 
-- **kuda putih** — menaklukkan
-- **kuda merah** — mengambil damai dari bumi
-- **kuda hitam** — kelaparan, harga makanan melonjak
-- **kuda hijau kuning** — maut
+Tapi ada seseorang yang sangat ingin memegang gulungan itu sendiri: Iblis. Dan justru di sinilah
+intinya — banyak orang sama sekali tidak menganggapnya jahat. Kalaupun memikirkannya, mereka
+menganggapnya seru, atau kuat, atau bebas.
 
-Ini adalah hal-hal yang memang terjadi di dunia kita: perang, penindasan, kelaparan, kematian.
-Wahyu tidak berpura-pura semuanya baik-baik saja.
+Keempat penunggang kuda itulah cara hal itu ketahuan.
 
-## 3. Siapa yang membuka?
+## 3. Empat meterai, empat langkah
 
-Tapi perhatikan satu hal yang mudah terlewat, dan ini yang terpenting.
+Perhatikan apa yang terjadi di sepanjang empat meterai pertama. Ini sebuah urutan, bukan empat
+bencana acak.
 
-**Anak Domba yang membuka meterainya.**
+- **Meterai pertama** — seorang penunggang keluar dan kelihatan hebat, seperti pahlawan yang
+  menang. Inilah iklannya.
+- **Meterai kedua** — kuasa yang sama ternyata mengambil damai. Ia memulai perkelahian.
+- **Meterai ketiga** — sekarang ada kelaparan. Orang-orang kekurangan.
+- **Meterai keempat** — dan di ujung jalan: maut.
 
-Bukan berarti Yesus yang mengirim semua ini. Artinya tidak ada satu pun dari ini yang terjadi
-di luar kendali-Nya. Bahkan hal terburuk di dunia ada di bawah tangan yang berlubang paku.
+Empat langkah, dan topengnya terbuka. Yang pada awalnya kelihatan seperti pahlawan ternyata
+menunjukkan dirinya yang sebenarnya.
 
-## 4. Meterai kelima: pertanyaan
+## 4. Tapi itu menyakitkan
 
-Meterai kelima berbeda. Tidak ada kuda. Ada suara orang-orang yang mati karena iman mereka, dan
-mereka bertanya satu hal:
+Itu sungguh berguna — sekarang semua orang bisa melihatnya. Tapi ada harganya, dan kitab Wahyu
+tidak menyembunyikannya: orang-orang yang *sudah* tahu sejak awal menderita selama itu.
 
-**„Berapa lama lagi?"**
+Maka pada meterai kelima mereka berseru: „Berapa lama lagi?"
 
-Itu pertanyaan yang jujur, dan Alkitab tidak menyensornya. Kalau kau pernah bertanya kepada
-Tuhan „berapa lama lagi", kau berada dalam rombongan yang baik.
+Dan perhatikan apa yang *tidak* dikatakan Yesus. Ia tidak berkata „berhentilah mengeluh". Ia
+berkata, kurang lebih: *kalian benar.* Mereka diberi jubah putih dan disuruh menunggu sebentar
+lagi.
 
-## 5. Jawabannya
+Diberi tahu bahwa kau benar ketika ada sesuatu yang salah — itu bukan hal kecil.
 
-Jawabannya bukan tanggal. Mereka diberi jubah putih dan diminta menunggu sebentar lagi.
+## 5. Meterai keenam
 
-Itu bukan jawaban yang memuaskan — dan Wahyu tahu itu. Tapi itu jawaban yang jujur.
+Lalu datang meterai keenam, dan seluruh dunia terguncang sekaligus. Semua orang — raja-raja,
+panglima-panglima, semua — benar-benar kewalahan.
 
-## 6. Meterai keenam dan pertanyaan besar
+Mereka tidak menyangka Yesus sekuat itu. Selama ini mereka salah menilai siapa yang sebenarnya
+berkuasa.
 
-Meterai keenam mengguncang segalanya, dan semua orang — raja, panglima, orang kaya, hamba —
-bersembunyi dan bertanya: **„Siapakah yang dapat bertahan?"**
+## 6. Untuk apa semua ini
 
-Kitab ini membiarkan pertanyaan itu menggantung. Jawabannya datang di pasal berikutnya, dan
-jawabannya adalah: kalian.
+Meterai-meterai itu bukan Allah yang kehilangan kesabaran. Itu adalah topeng yang terlepas.
+Kejahatan dibiarkan berjalan di jalannya sendiri cukup jauh sampai semua orang bisa melihat ke
+mana ujungnya.
 
-**Ayat hafalan:** „Berapa lamakah lagi, ya Penguasa yang kudus dan benar?" (Wahyu 6,10)
+Dan Yesus bukan satu-satunya yang kuat dalam cerita ini. Ia punya pasukan — itu untuk pertemuan
+berikutnya, dan pasukan itu sama sekali tidak seperti yang kau bayangkan.
+
+**Ayat hafalan:** „Anak Domba layak mengambil gulungan kitab itu dan memecahkan meterai-meterainya."
+(menurut Wahyu 5,9)
 
 ## Lihat sendiri
 
 *Dua menit hening. Tidak ada yang harus berbicara.*
 
-Kuda-kuda itu berisik dan langit menjadi gelap, jadi lihatlah ke tempat lain sejenak.
-Lihatlah siapa yang membuka gulungan itu.
+Kuda-kuda itu bising dan langit menjadi gelap, jadi alihkan pandanganmu sejenak. Lihat siapa yang
+sedang membuka gulungan itu.
 
-Dia adalah Anak Domba. Bekas kematian-Nya sendiri masih ada pada-Nya.
+Itu Anak Domba. Bekas kematian-Nya sendiri masih ada pada-Nya.
 
-Bayangkan tangan-Nya di atas meterai itu. Sekarang lihat wajah-Nya. Apakah Dia marah? Apakah
-Dia terburu-buru? Apakah Dia sedih?
+Bayangkan tangan-Nya pada meterai itu. Sekarang lihat wajah-Nya. Apakah Ia marah? Apakah Ia
+terburu-buru? Apakah Ia sedih?
 
-Dan kepada siapa Dia memandang sementara Dia membukanya?
+Dan siapa yang sedang Ia pandang ketika Ia membukanya?
 
 ## 7. Doa
 
-Tuhan Yesus, dunia ini kadang menakutkan, dan Engkau tidak berpura-pura tidak. Terima kasih
-karena Engkaulah yang memegang kendali. Dan terima kasih karena kami boleh bertanya „berapa
-lama lagi". Amin.
+Tuhan Yesus, terima kasih karena Engkau mengatakan kebenaran tentang apa yang sungguh jahat,
+walaupun kelihatannya seru. Terima kasih karena Engkau tidak memarahi kami ketika kami berseru
+„berapa lama lagi". Tolong kami menunggu tanpa menyerah. Amin.
 
 ## Lampiran: Ide untuk pengajar
 
-**Pembuka:** Bungkusan bersegel.
+**Pembuka:** Permainan temukan yang palsu. Dua benda yang mirip, satu asli.
 
-**Ide kerajinan:** Gulungan kertas dengan tujuh segel lilin atau stiker; anak-anak membukanya
-sambil cerita berjalan.
+**Ide kerajinan:** Empat kartu kecil yang menunjukkan keempat penunggang kuda sesuai urutan,
+masing-masing dengan satu kata: *kelihatan hebat / berkelahi / kelaparan / maut.* Menyusunnya
+berurutan membuat argumennya terlihat.
 
 **Pertanyaan:**
-1. Mengapa penting bahwa Anak Domba yang membuka meterainya?
-2. Pernahkah kau bertanya kepada Tuhan „berapa lama lagi"?
-3. Menurutmu siapa yang dapat bertahan?
+1. Menurutmu mengapa penunggang kuda pertama kelihatan begitu mengesankan?
+2. Pernahkah kau menginginkan sesuatu yang ternyata sama sekali tidak seperti iklannya?
+3. Apa yang kau lakukan kalau ada sesuatu yang tidak adil dan tidak langsung dibereskan?
 
-**Usulan lagu:** Sesuatu tentang Tuhan yang memegang kendali.
+**Usulan lagu:** Lagu tentang Allah yang memegang kendali; lagu yang lebih tenang tentang menunggu.
 
-**Catatan persiapan:** Jangan tinggal terlalu lama pada keempat penunggang. Bagian tiga dan enam
-adalah inti pelajaran ini.
+**Catatan persiapan:** Anak-anak yang lebih muda dalam kelompok usia ini bisa merasa takut dengan
+pasal 6. Jaga tempo tetap cepat dan mendaratlah dengan tegas di bagian 6 — meterai-meterai itu
+adalah topeng yang terlepas, bukan Allah yang menyerang.

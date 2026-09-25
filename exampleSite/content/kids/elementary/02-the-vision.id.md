@@ -13,93 +13,115 @@ chapters: "Wahyu 1"
 ### Wahyu 1
 
 > **Cerita untuk dibacakan:** [Suara di Pulau Itu (Pasal 1)]({{< relref "story/elementary/tour#vision" >}})  
-> **Alkitab:** {{% bible val="Wahyu 1" link="rev:1" lang="ind" %}}
+> **Alkitab:** {{% bible val="Wahyu 1" link="rev:1" lang="ind" %}}  
+> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-02.pdf)
 
 
-## 1. Bagaimana kau membayangkan Yesus?
+## 1. Pertanyaan yang mengejutkan
 
-Minta mereka menggambarkan Yesus dalam tiga kata. Kau biasanya mendapat: baik, lembut,
-tersenyum.
+Angkat tangan kalau kau memerintah dunia.
 
-Simpan itu. Tidak ada yang salah. Tapi Wahyu 1 punya gambar lain.
+*(Tunggu. Biarkan terasa canggung.)*
 
-## 2. Apa yang Yohanes lihat
+Tidak ada? Kalau begitu kitab ini akan mengejutkanmu, karena pasal pertamanya justru mengatakan
+bahwa kau memerintah — dan sudah begitu selama dua ribu tahun.
 
-Yohanes mendengar suara di belakangnya seperti sangkakala. Dia berbalik — dan yang dilihatnya
-membuatnya jatuh seperti orang mati.
+## 2. Apa yang dilihat Yohanes
 
-Rambut putih seperti salju. Mata seperti nyala api. Kaki seperti tembaga membara. Suara seperti
-desau air bah. Wajah bersinar seperti matahari terik.
+Yohanes berada di pulaunya yang sepi ketika ia mendengar di belakangnya suara seperti bunyi
+sangkakala. Ia menoleh, dan yang dilihatnya begitu dahsyat sampai ia tersungkur seperti orang
+mati.
 
-Ini bukan Yesus yang menggendong domba. Ini Yesus yang sanggup menghadapi kekaisaran.
+Ia melihat Yesus — tapi bukan Yesus seperti di gambar-gambar Natal. Yesus yang ini matanya
+seperti nyala api, suaranya seperti deru air bah, dan wajahnya seperti matahari di siang bolong.
+Ia berdiri di tengah-tengah tujuh kaki dian emas.
 
-## 3. Tangan itu
+Dan hal pertama yang dilakukan sosok yang luar biasa ini adalah mengulurkan tangan dan berkata:
+**„Jangan takut!"**
 
-Lalu bagian yang penting.
+Itu penting. Pribadi yang paling berkuasa di seluruh alam semesta memakai kuasa-Nya, pertama-tama,
+untuk menenangkan seseorang.
 
-Yesus meletakkan tangan kanan-Nya ke atas Yohanes dan berkata: **„Jangan takut."**
+## 3. Raja dan imam
 
-Tangan yang sama yang memegang tujuh bintang — tangan yang membuat Yohanes pingsan — adalah
-tangan yang menenangkannya.
+Lalu datang bagian yang mengejutkan. Yohanes menulis bahwa Yesus „telah menghimpunkan kita dalam
+Kerajaan-Nya dan menjadikan kita imam-imam Allah".
 
-Itu seluruh isi kitab ini dalam satu gerakan.
+Bukan *akan.* **Telah.** Sudah. Dua ribu tahun yang lalu.
 
-## 4. Mengapa gambar ini penting
+Jadi kita memang dimaksudkan untuk memerintah — dan kitab Wahyu sebagian besar adalah buku tentang
+*bagaimana* caranya. Karena memerintah itu tugas yang serius, dan ada cara yang salah untuk
+melakukannya.
 
-Orang-orang yang membaca surat ini sedang ketakutan. Mereka butuh tahu bahwa Yesus bukan hanya
-lembut — Dia juga kuat.
+## 4. Bagaimana kita seharusnya memerintah
 
-Kalau Yesus hanya lembut, ketakutan mereka masuk akal. Kalau Dia juga sekuat ini, ketakutan itu
-kehilangan alasannya.
+Kitab Wahyu langsung memberi dua jawaban, dan seluruh kitab terus kembali kepada keduanya.
 
-## 5. Di mana Dia berdiri
+**Pertama: kita bergantung sepenuhnya pada Yesus.** Tanpa Dia kita sama sekali tidak bisa
+memerintah — kita hanya bisa menyuruh-nyuruh orang, dan itu tidak sama. Memerintah berarti
+memerintah seperti cara Yesus.
 
-Perhatikan di mana Yesus muncul: **di tengah-tengah tujuh kaki dian.** Kaki dian itu adalah
-tujuh jemaat.
+**Kedua: kita dimaksudkan menjadi terang.** Ketujuh kaki dian itu adalah ketujuh jemaat. Pelita
+tidak berteriak. Pelita tidak memaksa siapa pun. Pelita hanya membuat orang bisa melihat. Banyak
+orang hidup dalam gelap — kadang karena takut, kadang karena malu — dan kita bisa membawa terang
+ke sana.
 
-Dia tidak jauh di atas. Dia berjalan di antara mereka.
+## 5. Jadi kuasa macam apa ini?
 
-## 6. Dan Dia memegang kunci
+Pikirkan perbedaan antara seorang raja di film dan sebuah pelita di ruangan yang gelap.
 
-Yesus berkata: „Aku telah mati, namun lihatlah, Aku hidup, sampai selama-lamanya. Aku memegang
-kunci maut dan kerajaan maut."
+Raja itu menang karena lebih kuat dari semua orang. Pelita menang karena *ada di sana*, dengan
+tenang, sampai orang bisa melihat ke mana mereka berjalan. Kitab Wahyu mengatakan bahwa yang kedua
+itulah kuasa yang sejati, dan kitab ini memakai dua puluh dua pasal untuk membuktikannya.
 
-Bagi orang yang sedang diancam mati karena imannya, itu kalimat yang mengubah segalanya.
+## 6. Pertanyaan yang akan diajukan kitab ini
 
-**Ayat hafalan:** „Jangan takut! Aku adalah Yang Awal dan Yang Akhir." (Wahyu 1,17)
+Lain kali kita akan bertemu tujuh jemaat yang nyata, di tujuh kota yang nyata, dan kita akan
+melihat apakah mereka hidup sesuai dengan semua ini.
+
+Ada yang ya. Ada yang sama sekali tidak. Dan Yesus jujur kepada mereka semua — dan itu sendiri
+kabar baik, karena artinya Ia juga mengatakan kebenaran kepada kita.
+
+**Ayat hafalan:** „Jangan takut! Akulah Yang Pertama dan Yang Terakhir." (Wahyu 1,17)
 
 ## Lihat sendiri
 
 *Dua menit hening. Tidak ada yang harus berbicara.*
 
-Yohanes berbalik dan melihat Yesus: rambut putih, mata seperti nyala api, suara seperti air
+Yohanes menoleh dan melihat Yesus: rambut putih, mata seperti nyala api, suara seperti air
 terjun, dan wajah yang terlalu terang untuk dipandang.
 
 Pejamkan matamu dan biarkan Dia sebesar itu.
 
-Lalu ingat apa yang terjadi berikutnya. Yohanes jatuh seperti orang mati — dan Yesus
-mengulurkan tangan, meletakkan tangan kanan-Nya di atasnya dan berkata: *"Jangan takut."*
+Lalu ingat apa yang terjadi sesudahnya. Yohanes tersungkur seperti orang mati — dan Yesus
+mengulurkan tangan, meletakkan tangan kanan-Nya ke atasnya dan berkata: *„Jangan takut!"*
 
-Rasakan tangan itu di bahumu sendiri. Apa yang Dia katakan kepadamu?
+Rasakan tangan itu di bahumu sendiri. Apa yang Ia katakan kepadamu?
 
 ## 7. Doa
 
-Tuhan Yesus, terima kasih karena Engkau kuat dan lembut sekaligus. Terima kasih karena tangan
-yang sama yang memegang segalanya juga menyentuh kami dan berkata „jangan takut". Amin.
+Tuhan Yesus, terima kasih karena hal pertama yang Engkau katakan adalah „jangan takut". Terima
+kasih karena Engkau sudah menjadikan kami milik-Mu. Ajari kami memerintah seperti cara-Mu —
+dengan melayani, dan dengan bersinar, bukan dengan mendorong-dorong. Amin.
 
 ## Lampiran: Ide untuk pengajar
 
-**Pembuka:** Tiga kata tentang Yesus. Tulis di papan sebelum membaca apa pun.
+**Pembuka:** Gelapkan ruangan sejauh masih aman, lalu nyalakan satu lilin atau satu senter kecil.
+Tanyakan apa yang berubah. Tidak ada yang dipaksa melakukan apa pun — tapi semuanya jadi berbeda.
+Itulah gambaran kaki dian.
 
-**Ide kerajinan:** Gambar tujuh kaki dian dengan satu sosok berdiri di tengahnya. Anak-anak
-menulis nama kelompok mereka di salah satu kaki dian.
+**Ide kerajinan:** Tujuh kaki dian dari kertas, satu untuk setiap anak kalau kelompoknya kecil.
+Setiap anak menulis di kaki diannya satu tempat di mana ia bisa menjadi terang minggu ini
+(seseorang, tempat bermain, seorang saudara).
 
 **Pertanyaan:**
-1. Mengapa Yohanes jatuh?
-2. Mengapa Yesus menyentuhnya, bukan sekadar berkata dari jauh?
-3. Bagian mana dari gambar ini yang paling mengejutkanmu?
+1. Menurutmu mengapa Yesus berkata „jangan takut" sebelum mengatakan apa pun yang lain?
+2. Apa bedanya menjadi bos dan menjadi terang?
+3. Di mana gelap di sekitarmu — dan bisakah kau membawa terang ke sana?
 
-**Usulan lagu:** Sesuatu yang agung; lalu sesuatu yang tenang.
+**Usulan lagu:** Lagu yang tenang tentang Yesus yang menyertai kita; lagu yang riang tentang
+bersinar.
 
-**Catatan persiapan:** Bacakan Wahyu 1,12-18 pelan-pelan dan biarkan hening sejenak sebelum
-sampai ke „Jangan takut".
+**Catatan persiapan:** Tahan diri untuk tidak menjelaskan gambaran-gambaran aneh itu secara rinci.
+Inti pasal 1 adalah *kesannya* — kuasa yang dahsyat, dan kata pertama dari kuasa itu adalah
+penghiburan.
