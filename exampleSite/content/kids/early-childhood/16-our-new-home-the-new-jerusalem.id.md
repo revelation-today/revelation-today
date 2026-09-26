@@ -9,7 +9,7 @@ prev: /kids/early-childhood/15-heaven-is-being-close-to-god
 
 # Rumah Baru Kita, Yerusalem Baru
 
-> **Cerita untuk dibacakan:** [New Heaven and New Earth]({{< relref "story/early-childhood/tour#paradise" >}})  
+> **Cerita untuk dibacakan:** [Langit baru dan bumi baru (Pasal 21-22)]({{< relref "story/early-childhood/tour#paradise" >}})  
 > **Alkitab:** {{% bible val="Wahyu 21–22" link="rev:21" lang="ind" %}}  
 > **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-16.pdf)
 

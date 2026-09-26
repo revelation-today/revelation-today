@@ -9,7 +9,7 @@ prev: /kids/teens/11-the-christmas-story-with-a-dragon-in-it
 next: /kids/teens/13-two-harvests-and-which-one-youre-in
 ---
 
-> **Cerita untuk dibacakan:** [The Dragon and the Two Beasts]({{< relref "story/teens/tour#beasts" >}})  
+> **Cerita untuk dibacakan:** [Naga dan dua binatang buas (Psl. 13)]({{< relref "story/teens/tour#beasts" >}})  
 > **Alkitab:** {{% bible val="Wahyu 13" link="rev:13" lang="ind" %}}
 
 ## Kamu Sudah Dengar Rumornya

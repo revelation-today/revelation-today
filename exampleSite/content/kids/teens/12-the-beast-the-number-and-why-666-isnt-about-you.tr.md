@@ -9,7 +9,7 @@ prev: /kids/teens/11-the-christmas-story-with-a-dragon-in-it
 next: /kids/teens/13-two-harvests-and-which-one-youre-in
 ---
 
-> **Okunacak hikâye:** [The Dragon and the Two Beasts]({{< relref "story/teens/tour#beasts" >}})  
+> **Okunacak hikâye:** [Ejderha ve iki canavar (Bölüm 13)]({{< relref "story/teens/tour#beasts" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}}
 
 ## Söylentileri Duydun

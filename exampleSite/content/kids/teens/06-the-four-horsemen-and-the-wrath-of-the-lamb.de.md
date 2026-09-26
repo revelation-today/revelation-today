@@ -9,7 +9,7 @@ prev: /kids/teens/05-worship-fixes-everything
 next: /kids/teens/07-the-crowd-nobody-could-count
 ---
 
-> **Geschichte zum Vorlesen:** [The Seals]({{< relref "story/teens/tour#seals" >}})  
+> **Geschichte zum Vorlesen:** [Die Siegel (Kapitel 6)]({{< relref "story/teens/tour#seals" >}})  
 > **Bibel:** {{% bible val="Offenbarung 6" link="rev:6" lang="de" %}}
 
 ## Wenn sich die Gewinnerseite als Fake herausstellt

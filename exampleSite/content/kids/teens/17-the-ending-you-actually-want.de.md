@@ -8,7 +8,7 @@ expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/teens/16-the-thousand-years-that-isnt-a-countdown
 ---
 
-> **Geschichte zum Vorlesen:** [New Heaven and New Earth]({{< relref "story/teens/tour#paradise" >}})  
+> **Geschichte zum Vorlesen:** [Der neue Himmel und die neue Erde (Kapitel 21-22)]({{< relref "story/teens/tour#paradise" >}})  
 > **Bibel:** {{% bible val="Offenbarung 21–22" link="rev:21" lang="de" %}}
 
 ## Was du wahrscheinlich schon aufgesaugt hast

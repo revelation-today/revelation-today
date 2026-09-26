@@ -9,7 +9,7 @@ prev: /kids/teens/14-when-knowing-better-changes-nothing
 next: /kids/teens/16-the-thousand-years-that-isnt-a-countdown
 ---
 
-> **Okunacak hikâye:** [The Harlot]({{< relref "story/teens/tour#harlot" >}})  
+> **Okunacak hikâye:** [Fahişe (Bölüm 17-19)]({{< relref "story/teens/tour#harlot" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 17–19" link="rev:17" lang="tr" %}}
 
 ## Tuzak Gibi Görünmeyen Tuzak

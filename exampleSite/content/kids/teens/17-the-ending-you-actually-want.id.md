@@ -8,7 +8,7 @@ expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/teens/16-the-thousand-years-that-isnt-a-countdown
 ---
 
-> **Cerita untuk dibacakan:** [New Heaven and New Earth]({{< relref "story/teens/tour#paradise" >}})  
+> **Cerita untuk dibacakan:** [Langit baru dan bumi baru (Psl. 21-22)]({{< relref "story/teens/tour#paradise" >}})  
 > **Alkitab:** {{% bible val="Wahyu 21–22" link="rev:21" lang="ind" %}}
 
 ## Apa yang Mungkin Sudah Kamu Serap

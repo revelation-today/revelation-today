@@ -9,7 +9,7 @@ prev: /kids/teens/03-the-churches-that-looked-fine-but-werent
 next: /kids/teens/05-worship-fixes-everything
 ---
 
-> **Cerita untuk dibacakan:** [The Letters to the Churches]({{< relref "story/teens/tour#letters" >}})  
+> **Cerita untuk dibacakan:** [Surat-surat kepada jemaat (Psl. 2-3)]({{< relref "story/teens/tour#letters" >}})  
 > **Alkitab:** {{% bible val="Wahyu 2–3" link="rev:2" lang="ind" %}}
 
 ## Anak yang Tidak Diperhatikan Siapa Pun

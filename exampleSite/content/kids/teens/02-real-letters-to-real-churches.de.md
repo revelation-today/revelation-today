@@ -9,7 +9,7 @@ prev: /kids/teens/01-a-vision-too-big-to-ignore
 next: /kids/teens/03-the-churches-that-looked-fine-but-werent
 ---
 
-> **Geschichte zum Vorlesen:** [The Letters to the Churches]({{< relref "story/teens/tour#letters" >}})  
+> **Geschichte zum Vorlesen:** [Die Briefe an die Gemeinden (Kapitel 2-3)]({{< relref "story/teens/tour#letters" >}})  
 > **Bibel:** {{% bible val="Offenbarung 2–3" link="rev:2" lang="de" %}}
 
 ## Zeugnisse, um die du nicht gebeten hast

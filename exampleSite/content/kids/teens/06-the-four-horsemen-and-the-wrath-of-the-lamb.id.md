@@ -9,7 +9,7 @@ prev: /kids/teens/05-worship-fixes-everything
 next: /kids/teens/07-the-crowd-nobody-could-count
 ---
 
-> **Cerita untuk dibacakan:** [The Seals]({{< relref "story/teens/tour#seals" >}})  
+> **Cerita untuk dibacakan:** [Meterai-meterai (Psl. 6)]({{< relref "story/teens/tour#seals" >}})  
 > **Alkitab:** {{% bible val="Wahyu 6" link="rev:6" lang="ind" %}}
 
 ## Ketika Pihak yang Menang Ternyata Palsu

@@ -9,7 +9,7 @@ prev: /kids/teens/14-when-knowing-better-changes-nothing
 next: /kids/teens/16-the-thousand-years-that-isnt-a-countdown
 ---
 
-> **Cerita untuk dibacakan:** [The Harlot]({{< relref "story/teens/tour#harlot" >}})  
+> **Cerita untuk dibacakan:** [Pelacur itu (Psl. 17-19)]({{< relref "story/teens/tour#harlot" >}})  
 > **Alkitab:** {{% bible val="Wahyu 17–19" link="rev:17" lang="ind" %}}
 
 ## Jebakan yang Tidak Terlihat Seperti Jebakan

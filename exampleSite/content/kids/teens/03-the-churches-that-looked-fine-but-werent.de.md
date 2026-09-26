@@ -9,7 +9,7 @@ prev: /kids/teens/02-real-letters-to-real-churches
 next: /kids/teens/04-the-churches-nobody-praised-enough
 ---
 
-> **Geschichte zum Vorlesen:** [The Letters to the Churches]({{< relref "story/teens/tour#letters" >}})  
+> **Geschichte zum Vorlesen:** [Die Briefe an die Gemeinden (Kapitel 2-3)]({{< relref "story/teens/tour#letters" >}})  
 > **Bibel:** {{% bible val="Offenbarung 2–3" link="rev:2" lang="de" %}}
 
 ## Das Profil, das perfekt aussieht

@@ -10,7 +10,7 @@ next: /kids/early-childhood/07-loud-trumpets-big-warnings
 
 # Gott zählt jeden Einzelnen von uns
 
-> **Geschichte zum Vorlesen:** [The Army of God]({{< relref "story/early-childhood/tour#army" >}})  
+> **Geschichte zum Vorlesen:** [Die Armee Gottes (Kapitel 7)]({{< relref "story/early-childhood/tour#army" >}})  
 > **Bibel:** {{% bible val="Offenbarung 7" link="rev:7" lang="de" trans="hfa" %}}  
 > **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-06.pdf)
 

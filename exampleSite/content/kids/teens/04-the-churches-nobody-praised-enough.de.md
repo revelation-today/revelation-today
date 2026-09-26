@@ -9,7 +9,7 @@ prev: /kids/teens/03-the-churches-that-looked-fine-but-werent
 next: /kids/teens/05-worship-fixes-everything
 ---
 
-> **Geschichte zum Vorlesen:** [The Letters to the Churches]({{< relref "story/teens/tour#letters" >}})  
+> **Geschichte zum Vorlesen:** [Die Briefe an die Gemeinden (Kapitel 2-3)]({{< relref "story/teens/tour#letters" >}})  
 > **Bibel:** {{% bible val="Offenbarung 2–3" link="rev:2" lang="de" %}}
 
 ## Der Typ, den niemand bemerkt

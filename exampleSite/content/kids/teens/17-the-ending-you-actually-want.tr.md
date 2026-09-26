@@ -8,7 +8,7 @@ expl: /expl/content/paradise/the-new-jerusalem
 prev: /kids/teens/16-the-thousand-years-that-isnt-a-countdown
 ---
 
-> **Okunacak hikâye:** [New Heaven and New Earth]({{< relref "story/teens/tour#paradise" >}})  
+> **Okunacak hikâye:** [Yeni gök ve yeni yeryüzü (Bölüm 21-22)]({{< relref "story/teens/tour#paradise" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 21–22" link="rev:21" lang="tr" %}}
 
 ## Muhtemelen Zaten Özümsediğin Şey

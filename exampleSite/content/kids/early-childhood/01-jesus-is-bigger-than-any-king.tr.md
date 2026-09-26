@@ -9,7 +9,7 @@ next: /kids/early-childhood/02-letters-just-for-you
 
 # İsa Her Kraldan Daha Büyüktür
 
-> **Okunacak hikâye:** [The Vision]({{< relref "story/early-childhood/tour#vision" >}})  
+> **Okunacak hikâye:** [Görüm (Bölüm 1)]({{< relref "story/early-childhood/tour#vision" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 1" link="rev:1" lang="tr" %}}  
 > **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-01.pdf)
 

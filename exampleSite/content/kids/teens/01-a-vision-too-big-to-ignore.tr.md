@@ -9,7 +9,7 @@ prev: /kids/teens-prep/11-babel-and-balaam-two-ways-to-ruin-yourself
 next: /kids/teens/02-real-letters-to-real-churches
 ---
 
-> **Okunacak hikâye:** [The Vision]({{< relref "story/teens/tour#vision" >}})  
+> **Okunacak hikâye:** [Görüm (Bölüm 1)]({{< relref "story/teens/tour#vision" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 1" link="rev:1" lang="tr" %}}
 
 ## Hiç sadece kaydırıp geçemediğin bir şey duydun mu?

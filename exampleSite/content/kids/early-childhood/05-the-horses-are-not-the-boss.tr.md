@@ -10,7 +10,7 @@ next: /kids/early-childhood/06-god-counts-every-one-of-us
 
 # Atlar Patron Değil
 
-> **Okunacak hikâye:** [The Seals]({{< relref "story/early-childhood/tour#seals" >}})  
+> **Okunacak hikâye:** [Mühürler (Bölüm 6)]({{< relref "story/early-childhood/tour#seals" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}}  
 > **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-05.pdf)
 

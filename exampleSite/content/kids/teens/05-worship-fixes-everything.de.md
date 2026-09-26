@@ -9,7 +9,7 @@ prev: /kids/teens/04-the-churches-nobody-praised-enough
 next: /kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb
 ---
 
-> **Geschichte zum Vorlesen:** [Worship in the Throne Room]({{< relref "story/teens/tour#worship" >}})  
+> **Geschichte zum Vorlesen:** [Anbetung (Kapitel 4-5)]({{< relref "story/teens/tour#worship" >}})  
 > **Bibel:** {{% bible val="Offenbarung 4–5" link="rev:4" lang="de" %}}
 
 ## Wenn sich alles zu viel anfühlt

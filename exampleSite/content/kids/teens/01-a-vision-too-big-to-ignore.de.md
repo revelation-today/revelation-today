@@ -9,7 +9,7 @@ prev: /kids/teens-prep/11-babel-and-balaam-two-ways-to-ruin-yourself
 next: /kids/teens/02-real-letters-to-real-churches
 ---
 
-> **Geschichte zum Vorlesen:** [The Vision]({{< relref "story/teens/tour#vision" >}})  
+> **Geschichte zum Vorlesen:** [Die Vision (Kapitel 1)]({{< relref "story/teens/tour#vision" >}})  
 > **Bibel:** {{% bible val="Offenbarung 1" link="rev:1" lang="de" %}}
 
 ## Hast du schon mal etwas gehört, an dem du nicht einfach vorbeiscrollen konntest?

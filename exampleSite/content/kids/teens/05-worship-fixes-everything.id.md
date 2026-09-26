@@ -9,7 +9,7 @@ prev: /kids/teens/04-the-churches-nobody-praised-enough
 next: /kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb
 ---
 
-> **Cerita untuk dibacakan:** [Worship in the Throne Room]({{< relref "story/teens/tour#worship" >}})  
+> **Cerita untuk dibacakan:** [Penyembahan (Psl. 4-5)]({{< relref "story/teens/tour#worship" >}})  
 > **Alkitab:** {{% bible val="Wahyu 4–5" link="rev:4" lang="ind" %}}
 
 ## Ketika Segalanya Terasa Terlalu Berat

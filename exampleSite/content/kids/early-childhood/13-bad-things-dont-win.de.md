@@ -10,7 +10,7 @@ next: /kids/early-childhood/14-a-thousand-years-of-jesus-being-king
 
 # Schlimme Dinge gewinnen nicht
 
-> **Geschichte zum Vorlesen:** [The Bowls of Wrath]({{< relref "story/early-childhood/tour#bowls" >}})  
+> **Geschichte zum Vorlesen:** [Die Zornschalen (Kapitel 15-16)]({{< relref "story/early-childhood/tour#bowls" >}})  
 > **Bibel:** {{% bible val="Offenbarung 15–16" link="rev:15" lang="de" trans="hfa" %}}  
 > **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-13.pdf)
 

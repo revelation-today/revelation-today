@@ -10,7 +10,7 @@ next: /kids/early-childhood/16-our-new-home-the-new-jerusalem
 
 # Der Himmel bedeutet, Gott nah zu sein
 
-> **Geschichte zum Vorlesen:** [The Millennium]({{< relref "story/early-childhood/tour#1000y" >}})  
+> **Geschichte zum Vorlesen:** [Die tausend Jahre (Kapitel 20)]({{< relref "story/early-childhood/tour#1000y" >}})  
 > **Bibel:** {{% bible val="Offenbarung 20" link="rev:20" lang="de" trans="hfa" %}}  
 > **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-15.pdf)
 

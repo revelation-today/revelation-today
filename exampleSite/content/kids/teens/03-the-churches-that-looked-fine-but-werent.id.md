@@ -9,7 +9,7 @@ prev: /kids/teens/02-real-letters-to-real-churches
 next: /kids/teens/04-the-churches-nobody-praised-enough
 ---
 
-> **Cerita untuk dibacakan:** [The Letters to the Churches]({{< relref "story/teens/tour#letters" >}})  
+> **Cerita untuk dibacakan:** [Surat-surat kepada jemaat (Psl. 2-3)]({{< relref "story/teens/tour#letters" >}})  
 > **Alkitab:** {{% bible val="Wahyu 2–3" link="rev:2" lang="ind" %}}
 
 ## Profil yang Terlihat Sempurna

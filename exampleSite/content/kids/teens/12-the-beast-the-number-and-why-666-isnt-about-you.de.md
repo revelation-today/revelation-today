@@ -9,7 +9,7 @@ prev: /kids/teens/11-the-christmas-story-with-a-dragon-in-it
 next: /kids/teens/13-two-harvests-and-which-one-youre-in
 ---
 
-> **Geschichte zum Vorlesen:** [The Dragon and the Two Beasts]({{< relref "story/teens/tour#beasts" >}})  
+> **Geschichte zum Vorlesen:** [Der Drache und die zwei Tiere (Kapitel 13)]({{< relref "story/teens/tour#beasts" >}})  
 > **Bibel:** {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}}
 
 ## Du hast die Gerüchte gehört

@@ -10,7 +10,7 @@ next: /kids/early-childhood/12-faithful-even-when-its-hard
 
 # Penjahat yang Meniru
 
-> **Cerita untuk dibacakan:** [The Dragon and the Two Beasts]({{< relref "story/early-childhood/tour#beasts" >}})  
+> **Cerita untuk dibacakan:** [Naga dan dua binatang buas (Pasal 13)]({{< relref "story/early-childhood/tour#beasts" >}})  
 > **Alkitab:** {{% bible val="Wahyu 13" link="rev:13" lang="ind" %}}  
 > **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-11.pdf)
 

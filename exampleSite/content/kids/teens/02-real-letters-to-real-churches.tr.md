@@ -9,7 +9,7 @@ prev: /kids/teens/01-a-vision-too-big-to-ignore
 next: /kids/teens/03-the-churches-that-looked-fine-but-werent
 ---
 
-> **Okunacak hikâye:** [The Letters to the Churches]({{< relref "story/teens/tour#letters" >}})  
+> **Okunacak hikâye:** [Kiliselere mektuplar (Bölüm 2-3)]({{< relref "story/teens/tour#letters" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 2–3" link="rev:2" lang="tr" %}}
 
 ## İstemediğin Karneler

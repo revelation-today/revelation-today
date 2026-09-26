@@ -10,7 +10,7 @@ next: /kids/early-childhood/10-a-different-christmas-story
 
 # Penolong-Penolong yang Berani
 
-> **Cerita untuk dibacakan:** [The Two Witnesses]({{< relref "story/early-childhood/tour#witnesses" >}})  
+> **Cerita untuk dibacakan:** [Dua saksi (Pasal 11)]({{< relref "story/early-childhood/tour#witnesses" >}})  
 > **Alkitab:** {{% bible val="Wahyu 11" link="rev:11" lang="ind" %}}  
 > **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-09.pdf)
 

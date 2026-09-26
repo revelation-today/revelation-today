@@ -9,7 +9,7 @@ prev: /kids/teens/05-worship-fixes-everything
 next: /kids/teens/07-the-crowd-nobody-could-count
 ---
 
-> **Okunacak hikâye:** [The Seals]({{< relref "story/teens/tour#seals" >}})  
+> **Okunacak hikâye:** [Mühürler (Bölüm 6)]({{< relref "story/teens/tour#seals" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}}
 
 ## Kazanan Taraf Sahte Çıktığında

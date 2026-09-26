@@ -9,7 +9,7 @@ prev: /kids/teens/01-a-vision-too-big-to-ignore
 next: /kids/teens/03-the-churches-that-looked-fine-but-werent
 ---
 
-> **Cerita untuk dibacakan:** [The Letters to the Churches]({{< relref "story/teens/tour#letters" >}})  
+> **Cerita untuk dibacakan:** [Surat-surat kepada jemaat (Psl. 2-3)]({{< relref "story/teens/tour#letters" >}})  
 > **Alkitab:** {{% bible val="Wahyu 2–3" link="rev:2" lang="ind" %}}
 
 ## Rapor yang Tidak Kamu Minta
