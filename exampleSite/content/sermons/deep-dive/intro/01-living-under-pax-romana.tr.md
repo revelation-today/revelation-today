@@ -27,7 +27,7 @@ bir iç istikrar dönemi yaşadı: az sayıda iç savaş, güçlü ve birleşik 
 ekonomik refah (en azından nüfusun önemli bir kısmı için) ve sanat ile kültürde bir çiçeklenme —
 bunların arka planında ise Nero ve Domitian gibi imparatorlar döneminde aralıklı, yerel Hristiyan
 zulmü vardı. Tam argüman ve kaynakça için bkz.
-`expl/background/history/pax-romana-key-to-understand-the-book-of-revelation.md`.
+`[Pax Romana — vahiy kitabını anlamak için anahtar]({{< relref "expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" >}})`.
 
 Bu koşulların altında bir politikadan çok bir teolojiye benzeyen bir şey yatıyordu: tanrılar
 Roma'yı seçmişti; imparator onların yeryüzündeki temsilcisiydi; sahip olmaya değer her nimet —

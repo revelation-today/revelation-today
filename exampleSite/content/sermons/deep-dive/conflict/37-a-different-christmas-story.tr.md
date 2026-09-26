@@ -24,7 +24,7 @@ anlatılıyor. Bu yeniden çerçeveleme bu oturumun tüm konusudur.
 yıldızdan oluşan bir taç olan bir kadın. Kadın gebeydi; doğum sancıları içinde, doğurmanın acısıyla
 haykırıyordu. Gökte başka bir belirti göründü: Kocaman kızıl bir ejderha... Ejderha, kadın
 doğurur doğurmaz çocuğunu yutmak için kadının önünde bekliyordu" (Vahiy 12:1-5). Çocuk doğar,
-Tanrı'nın tahtına kapılır, ve ejderha eli boş kalır. (Tam işleniş expl/content/jesus/a-different-christmas-story.md'de.)
+Tanrı'nın tahtına kapılır, ve ejderha eli boş kalır. (Tam işleniş [Farklı bir Noel hikayesi]({{< relref "expl/content/jesus/a-different-christmas-story" >}})'de.)
 
 Nasıl sonuçlandığını bilmeden soğukkanlı okunduğunda, bu sahne umutsuz görünür: hayal edilebilecek
 en savunmasız konumda bir kadın, yalnızca yıkım için var olan bir düşmanla karşı karşıya. Bu

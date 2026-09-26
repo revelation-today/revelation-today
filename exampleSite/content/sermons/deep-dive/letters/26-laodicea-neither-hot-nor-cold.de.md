@@ -20,7 +20,7 @@ Gemeinde, die am meisten von ihrem eigenen Erfolg überzeugt ist.
 
 Laodizea war außergewöhnlich wohlhabend — funktionierte in etwa wie die Schweizer Bank
 Kleinasiens, berühmt für seine schwarze Wollindustrie und ein renommiertes medizinisches Zentrum,
-bekannt für Augensalben (siehe expl/content/letters/the-letter-to-the-church-in-laodicea.md).
+bekannt für Augensalben (siehe [Das Sendschreiben an Laodizäa]({{< relref "expl/content/letters/the-letter-to-the-church-in-laodicea" >}})).
 Jedes Detail von Jesu Tadel spielt direkt mit dem bürgerlichen Stolz der Stadt.
 
 Jesus stellt sich vor als „der Amen, der treue und wahrhaftige Zeuge" (Offenbarung 3,14) — ein

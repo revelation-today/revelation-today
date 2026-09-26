@@ -15,7 +15,7 @@ Ask your group to guess, before you tell them: "Of the seven churches, which one
 
 ## Core teaching
 
-Laodicea was extraordinarily wealthy — functioning something like the Swiss bank of Asia Minor, famous for its black wool industry and a renowned medical center known for eye ointments (see expl/content/letters/the-letter-to-the-church-in-laodicea.md). Every detail of Jesus' rebuke plays directly off the city's own civic pride.
+Laodicea was extraordinarily wealthy — functioning something like the Swiss bank of Asia Minor, famous for its black wool industry and a renowned medical center known for eye ointments (see [The letter to the church in Laodicea]({{< relref "expl/content/letters/the-letter-to-the-church-in-laodicea" >}})). Every detail of Jesus' rebuke plays directly off the city's own civic pride.
 
 Jesus introduces himself as "the Amen, the faithful and true witness" (Revelation 3:14) — a pointed contrast, since this congregation, unlike him, is not being straight with itself. Their core problem isn't outward compromise or persecution — it's a total lack of self-awareness: "You say, 'I am rich; I have acquired wealth and do not need a thing.' But you do not realize that you are wretched, pitiful, poor, blind and naked" (3:17). They are failing in precisely the categories where they believe they excel.
 

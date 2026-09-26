@@ -29,7 +29,7 @@ sendiri memerlukan koreksi sebelum kita membangun apa pun di atasnya.
 
 ## Bagian 1: 70 Kali Tujuh Masa
 
-Argumen lengkapnya ada dalam `expl/bible/daniel/the-70-year-weeks.md`.
+Argumen lengkapnya ada dalam `[Rahasia Ketujuh Puluh Minggu Tahun]({{< relref "expl/bible/daniel/the-70-year-weeks" >}})`.
 
 **Apa arti "kali tujuh masa" di sini.** Allah memerintahkan sebuah tahun Sabat setiap tahun ketujuh
 ({{% bible val="Imamat 25:1-7" link="lev:25,1-7" lang="ind" %}}), yang tidak pernah benar-benar
@@ -86,7 +86,7 @@ sebuah kepastian yang menjadi tumpuan seluruh argumen.
 
 ## Bagian 2: 3,5 Tahun
 
-Argumen lengkapnya ada dalam `expl/bible/daniel/the-secret-of-the-3-5-years.md`.
+Argumen lengkapnya ada dalam `[Rahasia Tiga Setengah Tahun Akhir Zaman]({{< relref "expl/bible/daniel/the-secret-of-the-3-5-years" >}})`.
 
 **Perhitungannya.** Pasal 11-13 Wahyu memakai tiga ungkapan berbeda untuk apa yang ternyata adalah
 panjang waktu yang sama, dengan asumsi bulan berdurasi 30 hari: 1260 hari = 42 bulan = "satu masa

@@ -15,7 +15,7 @@ Think about the last time your group prayed for a friend, a neighbor, a coworker
 
 ## Setting the scene: why the story pauses here
 
-Chapters 10 and 11 form a deliberate interlude. The sixth trumpet sounded back in 9:13; the seventh doesn't sound until 11:15. John holds the action for two full chapters, and the content he inserts there is the point: the church's testimony, not further judgment, is what God uses to call the nations to himself. (See expl/content/scroll/the-little-scroll.md for the fuller argument.)
+Chapters 10 and 11 form a deliberate interlude. The sixth trumpet sounded back in 9:13; the seventh doesn't sound until 11:15. John holds the action for two full chapters, and the content he inserts there is the point: the church's testimony, not further judgment, is what God uses to call the nations to himself. (See [The little scroll]({{< relref "expl/content/scroll/the-little-scroll" >}}) for the fuller argument.)
 
 ## The angel with the scroll — and how strong is the Jesus link?
 

@@ -36,7 +36,7 @@ mengapa seorang pemimpin harus secara pribadi menanggung kesalahan atas apa yang
 oleh anggota-anggota secara individu?
 
 **Jawaban yang lebih baik: malaikat itu adalah jemaat itu sendiri.** Beberapa petunjuk tekstual
-mengarah ke sini (lihat expl/content/letters/the-angel-of-the-churches.md untuk pembahasan
+mengarah ke sini (lihat [Malaikat Gereja-gereja]({{< relref "expl/content/letters/the-angel-of-the-churches" >}}) untuk pembahasan
 lengkapnya):
 
 - Yohanes disuruh menulis kepada ketujuh *jemaat* (1:11), bukan kepada tujuh malaikat.

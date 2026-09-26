@@ -15,7 +15,7 @@ Letakkan tujuh kursi (atau tujuh lembar kertas) berjajar, beri label Efesus hing
 
 ## Pengajaran inti
 
-Sebelum ketujuh surat itu, Yohanes mencatat penglihatan dari pasal 1 — jemaat digambarkan sebagai kaki dian dan bintang, dimaksudkan untuk menjadi terang, tetapi hanya bisa demikian melalui ketergantungan total kepada Yesus (lihat sesi 18, dan expl/content/letters/the-letters-to-the-seven-churches.md). Penglihatan itulah standar yang menjadi ukuran bagi setiap jemaat dari ketujuhnya. Setiap surat mengikuti pola dasar yang sama: sebuah alamat yang berakar pada penglihatan pasal 1, pujian atas kekuatan-kekuatan sejati, teguran atas kegagalan-kegagalan tertentu, dan janji "bagi dia yang menang."
+Sebelum ketujuh surat itu, Yohanes mencatat penglihatan dari pasal 1 — jemaat digambarkan sebagai kaki dian dan bintang, dimaksudkan untuk menjadi terang, tetapi hanya bisa demikian melalui ketergantungan total kepada Yesus (lihat sesi 18, dan [Ketujuh Surat kepada Gereja-gereja]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})). Penglihatan itulah standar yang menjadi ukuran bagi setiap jemaat dari ketujuhnya. Setiap surat mengikuti pola dasar yang sama: sebuah alamat yang berakar pada penglihatan pasal 1, pujian atas kekuatan-kekuatan sejati, teguran atas kegagalan-kegagalan tertentu, dan janji "bagi dia yang menang."
 
 **Simetri yang diusulkan.** Salah satu cara membaca ketujuh surat ini — dipertahankan oleh banyak penafsir Wahyu, meskipun bukan satu-satunya usulan struktural dalam literatur — adalah bahwa surat-surat ini membentuk susunan yang sengaja saling mencerminkan:
 

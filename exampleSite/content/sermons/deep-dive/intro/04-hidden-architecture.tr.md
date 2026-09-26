@@ -22,7 +22,7 @@ dinlemek yerine.
 ## Ana Öğreti
 
 Bu oturumun tamamı, İbrani edebi yapısını ayrıntılı olarak işleyen
-`expl/background/literature/literary-tools-in-the-book-of-revelation.md` üzerine kuruludur —
+`[Vahiy Kitabındaki Edebi Araçlar]({{< relref "expl/background/literature/literary-tools-in-the-book-of-revelation" >}})` üzerine kuruludur —
 bir grup üyesinin tamamını okuyup gruba özetlemesi için mükemmel bir kaynak.
 
 **Bu neden önemli: noktalama işareti yok, paragraf yok, bölüm yok.** Kutsal Yazı'nın orijinal

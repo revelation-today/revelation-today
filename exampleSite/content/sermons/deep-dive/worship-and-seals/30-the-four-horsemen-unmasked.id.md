@@ -15,7 +15,7 @@ Tanyakan: "Pernahkah Anda terkecoh oleh sesuatu yang tampak benar-benar baik —
 
 ## Pengajaran inti
 
-Anak Domba membuka keempat meterai pertama, dan empat ekor kuda keluar menjawab seruan setiap makhluk hidup: "Mari!" (Wahyu 6:1-8; lihat expl/content/seals/the-mystery-of-the-four-horse-men.md untuk uraian lengkapnya). Kuda putih dengan penunggangnya yang membawa panah dan mahkota, "keluar sebagai pemenang untuk merebut kemenangan." Kuda merah menyala, mengambil damai dari bumi. Kuda hitam, memegang timbangan, di tengah seruan tentang harga kelaparan. Kuda hijau kuning pucat, ditunggangi Maut, diikuti Kerajaan Maut.
+Anak Domba membuka keempat meterai pertama, dan empat ekor kuda keluar menjawab seruan setiap makhluk hidup: "Mari!" (Wahyu 6:1-8; lihat [Rahasia keempat penunggang kuda apokaliptik]({{< relref "expl/content/seals/the-mystery-of-the-four-horse-men" >}}) untuk uraian lengkapnya). Kuda putih dengan penunggangnya yang membawa panah dan mahkota, "keluar sebagai pemenang untuk merebut kemenangan." Kuda merah menyala, mengambil damai dari bumi. Kuda hitam, memegang timbangan, di tengah seruan tentang harga kelaparan. Kuda hijau kuning pucat, ditunggangi Maut, diikuti Kerajaan Maut.
 
 Latar belakangnya adalah keempat kuda Zakharia dengan warna-warna berbeda yang berkeliling di bumi (Zakharia 1:8-15, 6:1-8) dan keempat tulah Yehezkiel — pedang, kelaparan, binatang buas, dan penyakit sampar (Yehezkiel 14:12-23). Tiga dari keempat penunggang itu jelas maknanya: perang, kelaparan, maut. Teka-teki sesungguhnya ada pada penunggang pertama.
 

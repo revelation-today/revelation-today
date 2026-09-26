@@ -22,7 +22,7 @@ terus-menerus menyebut Allah sebagai "penebus" umat-Nya.
 
 ## Pengajaran Inti
 
-Argumen lengkapnya ada di `expl/background/israel/the-role-of-family-in-the-bible.md`.
+Argumen lengkapnya ada di `[Peran Keluarga]({{< relref "expl/background/israel/the-role-of-family-in-the-bible" >}})`.
 
 **Bagaimana sistem keluarga kuno sesungguhnya bekerja.** Masyarakat berjalan dari bawah ke atas:
 keluarga di dalam marga, marga di dalam suku, suku di dalam bangsa. Sangat penting keluarga mana

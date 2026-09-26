@@ -23,7 +23,7 @@ tat.
 ## Die Kernlehre
 
 Diese ganze Einheit schöpft aus
-`expl/background/literature/literary-tools-in-the-book-of-revelation.md`, das die hebräische
+`[Literarische Mittel in der Offenbarung]({{< relref "expl/background/literature/literary-tools-in-the-book-of-revelation" >}})`, das die hebräische
 literarische Struktur ausführlich durcharbeitet — hervorragend geeignet, damit ein Gruppenmitglied
 es vollständig liest und der Gruppe zusammenfasst.
 

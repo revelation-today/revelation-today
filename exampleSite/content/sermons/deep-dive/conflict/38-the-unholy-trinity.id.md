@@ -26,8 +26,8 @@ kitab ini: sebagai penunggang kuda keempat yang merangkum ketiga yang lain (Wahy
 dalam pasal 13 sebagai naga-ditambah-dua-binatang, dan lagi dalam cawan keenam sebagai "tiga roh
 najis seperti katak" (16:13), yang kemudian dihakimi dalam pasal 19 dan 20. Setiap kemunculan
 menambahkan detail pada gambaran yang sama: ia menawarkan kemenangan total dan hanya
-menyampaikan kehancuran. (Argumen lengkap dalam expl/content/beasts/the-nature-of-the-beast.md
-dan expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation.md.)
+menyampaikan kehancuran. (Argumen lengkap dalam [Binatang-Binatang dalam Kitab Wahyu]({{< relref "expl/content/beasts/the-nature-of-the-beast" >}})
+dan [Kedua Binatang dalam Kitab Wahyu]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}).)
 
 ## Naga dalam pasal 13 — bersembunyi terang-terangan, atau sepenuhnya tampak?
 

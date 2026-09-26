@@ -22,7 +22,7 @@ kaynaklanır. Bu oturum, 1. bölüme gelmeden önce türü doğru okumayı öğr
 ## Ana Öğreti
 
 Aşağıda anlatılanların tam argümanı
-`expl/background/literature/the-book-of-revelation-how-to-read-it.md` dosyasında verilmiştir —
+`[Vahiy kitabı: Nasıl okunmalı?]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}})` dosyasında verilmiştir —
 grubunuz oturumun kendisinden daha ileri gitmeyi seviyorsa, bu hafta bir grup üyesinin kaynak
 makaleyi doğrudan okuması değerli olur.
 

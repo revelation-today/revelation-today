@@ -19,7 +19,7 @@ verfolgen zunächst zu etwas wirklich Unbequemem führt, bevor es zu etwas Trium
 
 ## Die Kernlehre
 
-Die vollständige Argumentation findet sich in `expl/bible/daniel/the-son-of-man-and-the-remnant.md`.
+Die vollständige Argumentation findet sich in `[Das Geheimnis des Menschensohns]({{< relref "expl/bible/daniel/the-son-of-man-and-the-remnant" >}})`.
 
 **Woher der Titel kommt.** {{% bible val="Daniel 7,13-14" link="dan:7,13-14" lang="de" %}}
 beschreibt „einen wie eines Menschen Sohn, mit den Wolken des Himmels kommend", der sich dem

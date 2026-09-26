@@ -20,7 +20,7 @@ jawaban yang diberikan Yesus: "Engkau baik namanya, seolah-olah hidup, padahal e
 
 Sardis memiliki sejarah terpanjang di antara ketujuh kota itu dan salah satu pertahanan alami
 terkuat — bertengger tinggi di punggung gunung, dikelilingi tebing curam, terputus dari puncak-
-puncak tetangganya (lihat expl/content/letters/the-letter-to-the-church-in-sardis.md). Posisi itu
+puncak tetangganya (lihat [Surat kepada Sardis]({{< relref "expl/content/letters/the-letter-to-the-church-in-sardis" >}})). Posisi itu
 menumbuhkan kepercayaan diri sipil yang berlebihan dan mendalam: kota itu menganggap dirinya tak
 tertembus. Sejarah membuktikan sebaliknya dua kali — Sardis ditaklukkan pada kedua kesempatan itu
 oleh musuh yang menyelinap masuk lewat tebing-tebing curam yang sama yang diasumsikan semua orang

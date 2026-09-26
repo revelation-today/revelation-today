@@ -20,7 +20,7 @@ and it sets up why Revelation keeps calling God the "redeemer" of His people.
 
 ## The Core Teaching
 
-The full argument is in `expl/background/israel/the-role-of-family-in-the-bible.md`.
+The full argument is in `[The role of family in the Bible]({{< relref "expl/background/israel/the-role-of-family-in-the-bible" >}})`.
 
 **How the ancient family system actually worked.** Society ran bottom-up: family within clan,
 clan within tribe, tribe within nation. It mattered enormously which family you belonged to, what

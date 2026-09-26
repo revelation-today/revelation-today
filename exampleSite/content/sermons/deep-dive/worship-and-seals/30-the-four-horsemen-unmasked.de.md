@@ -15,7 +15,7 @@ Fragt: "Wart ihr schon einmal von etwas eingenommen, das wirklich gut aussah –
 
 ## Kernlehre
 
-Das Lamm öffnet die ersten vier Siegel, und vier Pferde reiten hinaus, jeweils auf den Ruf eines der lebendigen Wesen: "Komm!" (Offenbarung 6,1-8; die vollständige Argumentation findet sich in expl/content/seals/the-mystery-of-the-four-horse-men.md). Ein weißes Pferd mit einem Reiter, der einen Bogen trägt und eine Krone, "zog aus als Sieger, um zu siegen." Ein feuerrotes Pferd, das den Frieden von der Erde nimmt. Ein schwarzes Pferd mit einer Waage, begleitet von einem Ruf über Hungerpreise. Ein fahles Pferd, geritten vom Tod, gefolgt vom Totenreich.
+Das Lamm öffnet die ersten vier Siegel, und vier Pferde reiten hinaus, jeweils auf den Ruf eines der lebendigen Wesen: "Komm!" (Offenbarung 6,1-8; die vollständige Argumentation findet sich in [Das Geheimnis der vier apokalyptischen Reiter]({{< relref "expl/content/seals/the-mystery-of-the-four-horse-men" >}})). Ein weißes Pferd mit einem Reiter, der einen Bogen trägt und eine Krone, "zog aus als Sieger, um zu siegen." Ein feuerrotes Pferd, das den Frieden von der Erde nimmt. Ein schwarzes Pferd mit einer Waage, begleitet von einem Ruf über Hungerpreise. Ein fahles Pferd, geritten vom Tod, gefolgt vom Totenreich.
 
 Der Hintergrund sind Sacharjas vier verschiedenfarbige Pferde, die die Erde durchziehen (Sacharja 1,8-15; 6,1-8), sowie Hesekiels vier Plagen – Schwert, Hunger, wilde Tiere und Pest (Hesekiel 14,12-23). Drei der vier Reiter sind eindeutig: Krieg, Hunger, Tod. Das eigentliche Rätsel ist der erste.
 

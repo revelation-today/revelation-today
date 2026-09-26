@@ -15,7 +15,7 @@ Picture the Christmas story your group has heard every December: shepherds, a ma
 
 ## The text itself
 
-"A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. She was pregnant and cried out in pain as she was about to give birth. Then another sign appeared in heaven: an enormous red dragon... The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born" (Revelation 12:1-5). The child is born, snatched up to God's throne, and the dragon is left empty-handed. (Full treatment in expl/content/jesus/a-different-christmas-story.md.)
+"A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. She was pregnant and cried out in pain as she was about to give birth. Then another sign appeared in heaven: an enormous red dragon... The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born" (Revelation 12:1-5). The child is born, snatched up to God's throne, and the dragon is left empty-handed. (Full treatment in [A different Christmas story]({{< relref "expl/content/jesus/a-different-christmas-story" >}}).)
 
 Read cold, without knowing how it ends, this scene looks hopeless: a woman in the most vulnerable position imaginable, facing an enemy built for nothing but destruction. That mismatch — help­lessness versus apparent invincibility — is the engine of the entire book, not just this chapter.
 

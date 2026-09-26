@@ -19,8 +19,8 @@ Wahyu: Babel dan Bileam.
 
 ## Inti Pengajaran
 
-Sesi ini mengacu pada `expl/bible/keyword/the-origin-of-babel.md` dan
-`expl/bible/keyword/the-story-of-balaam.md` — menutup pengantar Bagian 0 kita tentang Kitab Wahyu
+Sesi ini mengacu pada `[Asal Mula Babel]({{< relref "expl/bible/keyword/the-origin-of-babel" >}})` dan
+`[Kisah Bileam]({{< relref "expl/bible/keyword/the-story-of-balaam" >}})` — menutup pengantar Bagian 0 kita tentang Kitab Wahyu
 dengan dua peringatan Perjanjian Lama yang menjadi sandaran langsung kitab ini.
 
 **Babel: usaha manusia untuk membuat nama bagi dirinya sendiri.** Setelah air bah, manusia

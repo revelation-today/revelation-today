@@ -23,7 +23,7 @@ Pergamon war vier Jahrhunderte lang eine bedeutende regionale Macht gewesen, bev
 Offenbarung geschrieben wurde, und im ersten Jahrhundert war es ein Schaufenster der Loyalität zu
 Rom — Heimat des ersten Tempels, der in Kleinasien zu Ehren eines Kaisers errichtet wurde (29 v.
 Chr.), neben einer dichten Konzentration von Tempeln für Zeus, Athene, Dionysos und Asklepios
-(siehe expl/content/letters/the-letter-to-the-church-in-pergamon.md). Jesus nennt es den Ort, „wo
+(siehe [Das Sendschreiben an Pergamon]({{< relref "expl/content/letters/the-letter-to-the-church-in-pergamon" >}})). Jesus nennt es den Ort, „wo
 der Thron des Satans ist" (Offenbarung 2,13) — fast sicher eine Beschreibung dieser schieren
 Dichte heidnischer Verehrung, die das bürgerliche Leben durchdrang, obwohl Gelehrte uneins sind,
 ob ein bestimmter Ort (der Große Zeusaltar, der Kaisertempel oder der Heilkult des Asklepios)
@@ -41,7 +41,7 @@ Gläubige, Götzenopferfleisch zu essen und Unzucht zu treiben, offenbar durch T
 Gildenfesten der Stadt, die mit heidnischer Verehrung verbunden waren.
 
 **Die Bileam-Verbindung.** Die alttestamentliche Geschichte Bileams (siehe
-expl/bible/keyword/the-story-of-balaam.md) zeigt, dass die tödlichsten Bedrohungen für Gottes
+[Die Geschichte von Bileam]({{< relref "expl/bible/keyword/the-story-of-balaam" >}})) zeigt, dass die tödlichsten Bedrohungen für Gottes
 Volk selten durch direkten Widerstand kommen — Bileam konnte Israel nicht verfluchen, als er es
 direkt versuchte. Sie kommen durch Verführung zum Kompromiss, wenn die Führung es versäumt, eine
 klare Linie zu ziehen. Das ist die eigentliche Diagnose hier: Pergamons Problem ist nicht äußere

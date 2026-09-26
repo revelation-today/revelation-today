@@ -22,7 +22,7 @@ Tiatira kemungkinan adalah sebuah pos militer di tenggara Pergamus, dikenal pada
 karena serikat dagang pewarna ungu dan pengerjaan perunggunya. Serikat-serikat ini mengadakan
 pesta rutin untuk menghormati dewa pelindung mereka — perkumpulan khusus laki-laki yang, secara
 sengaja, menyertakan percabulan sebagai bagian dari hiburannya (lihat
-expl/content/letters/the-letter-to-the-church-in-thyatira.md).
+[Surat kepada Tiatira]({{< relref "expl/content/letters/the-letter-to-the-church-in-thyatira" >}})).
 
 Yesus mendekati jemaat ini sebagai "Anak Allah, yang mata-Nya bagaikan nyala api dan yang
 kaki-Nya bagaikan tembaga membara" (Wahyu 2:18) — sebuah gambaran yang mengingatkan pada Daniel 3,

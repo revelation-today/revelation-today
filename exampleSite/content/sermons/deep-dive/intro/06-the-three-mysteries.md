@@ -21,9 +21,9 @@ triptych of church, God, and the harlot.
 ## The Core Teaching
 
 This session draws together two source articles:
-`expl/background/literature/literally-or-symbolic.md`, which identifies the three "mystery"
+`[Literally or symbolic]({{< relref "expl/background/literature/literally-or-symbolic" >}})`, which identifies the three "mystery"
 references and their connection to Daniel, and
-`expl/background/israel/the-church-is-part-of-israel.md`, which unpacks the first of the three
+`[The church is part of Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})`, which unpacks the first of the three
 in full.
 
 **Why three mysteries, and why here.** As we saw in session 3, the word "mystery" in Revelation
@@ -48,7 +48,7 @@ Covenant, and in Him both Jews and Gentiles together make up end-time Israel —
 newly invented entity replacing Israel, but Israel's own promises reaching their intended
 destination. Nearly every title the Old Testament gives Israel — beloved, God's son, bride,
 kingdom of priests, temple, vineyard, treasured possession — is now applied directly to the
-church, term for term. See `expl/background/israel/the-church-is-part-of-israel.md` for the
+church, term for term. See `[The church is part of Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})` for the
 complete list of these term-transfers, each traced from an Old Testament text to its New
 Testament application.
 

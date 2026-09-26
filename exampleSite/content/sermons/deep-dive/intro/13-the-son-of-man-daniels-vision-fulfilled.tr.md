@@ -19,7 +19,7 @@ gösteriyor — ve onun izini Daniel'den İsa'ya kadar takip etmenin, muzafferan
 
 ## Ana Öğreti
 
-Tam argüman `expl/bible/daniel/the-son-of-man-and-the-remnant.md` dosyasındadır.
+Tam argüman `[İnsanoğlu]({{< relref "expl/bible/daniel/the-son-of-man-and-the-remnant" >}})` dosyasındadır.
 
 **Unvanın nereden geldiği.** {{% bible val="Daniel 7:13-14" link="dan:7,13-14" lang="tr" %}},
 "göğün bulutlarıyla gelen insanoğluna benzer birini" tanımlar, Eskiden Beri Var Olan'a

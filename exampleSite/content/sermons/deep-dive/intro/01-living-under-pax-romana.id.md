@@ -29,7 +29,7 @@ periode panjang stabilitas internal yang relatif: sedikit perang saudara, kekais
 bersatu, kemakmuran ekonomi yang nyata (setidaknya bagi sebagian besar penduduk), dan berkembangnya
 seni dan budaya — dengan latar belakang penganiayaan yang sporadis dan terlokalisasi terhadap orang
 Kristen di bawah kaisar-kaisar seperti Nero dan Domitianus. Untuk argumen lengkap beserta sumbernya,
-lihat `expl/background/history/pax-romana-key-to-understand-the-book-of-revelation.md`.
+lihat `[Pax Romana — Kunci untuk Memahami Kitab Wahyu]({{< relref "expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" >}})`.
 
 Di balik kondisi-kondisi itu terdapat sesuatu yang lebih menyerupai teologi daripada kebijakan:
 para dewa telah memilih Roma; sang kaisar adalah agen mereka di bumi; setiap berkat yang layak

@@ -15,7 +15,7 @@ Ask your group: "Would you rather Jesus tell you 'well done, and by the way, her
 
 ## Core teaching
 
-Smyrna sat about 70 km north of Ephesus on a strategic harbor, and by the time Revelation was written it was a major center of emperor worship — a temple to the emperor had gone up there within living memory of the letter (see expl/content/letters/the-letter-to-the-church-in-smyrna.md for the historical detail, including a needed date correction below). Into that setting, Jesus introduces himself as "the First and the Last, who died and came to life again" (Revelation 2:8) — precisely the reassurance this congregation needs, because they are under pressure from every direction:
+Smyrna sat about 70 km north of Ephesus on a strategic harbor, and by the time Revelation was written it was a major center of emperor worship — a temple to the emperor had gone up there within living memory of the letter (see [The letter to the church in Smyrna]({{< relref "expl/content/letters/the-letter-to-the-church-in-smyrna" >}}) for the historical detail, including a needed date correction below). Into that setting, Jesus introduces himself as "the First and the Last, who died and came to life again" (Revelation 2:8) — precisely the reassurance this congregation needs, because they are under pressure from every direction:
 
 - **Economic squeeze** — likely from refusing to join trade guilds that required participating in idol worship, cutting them off from normal commercial life.
 - **Slander and imprisonment**, apparently instigated by local Jewish opponents the text calls "a synagogue of Satan" (2:9) — a harsh phrase aimed at a specific local conflict, not a blanket statement about Jewish people generally.

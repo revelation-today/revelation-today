@@ -22,7 +22,7 @@ cemaatlerden biridir. Bu akşam bu iki gerçeği neyin birbirine bağladığın�
 İzmir, Efes'in yaklaşık 70 km kuzeyinde stratejik bir limanda oturuyordu ve Vahiy yazıldığında
 büyük bir imparator tapınması merkeziydi — mektubun yazıldığı zamanın hâlâ hatırlanan bir
 geçmişinde orada bir imparator tapınağı yükselmişti (tarihsel ayrıntı ve aşağıdaki gerekli tarih
-düzeltmesi için bkz. expl/content/letters/the-letter-to-the-church-in-smyrna.md). Bu ortama, İsa
+düzeltmesi için bkz. [İzmir’deki kiliseye yazılan mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-smyrna" >}})). Bu ortama, İsa
 kendini "İlk ve Son, ölmüş ve yaşama dönmüş olan" (Vahiy 2:8) olarak tanıtıyor — tam olarak bu
 cemaatin ihtiyaç duyduğu güvence, çünkü her yönden baskı altındalar:
 

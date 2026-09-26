@@ -23,7 +23,7 @@ miteinander verbindet.
 Smyrna lag etwa 70 km nördlich von Ephesus an einem strategischen Hafen, und zur Zeit, als die
 Offenbarung geschrieben wurde, war es ein bedeutendes Zentrum des Kaiserkults — ein Tempel für den
 Kaiser war dort innerhalb lebendiger Erinnerung an den Brief errichtet worden (siehe
-expl/content/letters/the-letter-to-the-church-in-smyrna.md für die historischen Details,
+[Das Sendschreiben an Smyrna]({{< relref "expl/content/letters/the-letter-to-the-church-in-smyrna" >}}) für die historischen Details,
 einschließlich einer unten benötigten Datumskorrektur). In diesen Kontext hinein stellt sich Jesus
 vor als „der Erste und der Letzte, der tot war und wieder lebendig wurde" (Offenbarung 2,8) —
 genau die Beruhigung, die diese Gemeinde braucht, denn sie steht unter Druck von allen Seiten:

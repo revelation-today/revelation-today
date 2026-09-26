@@ -19,8 +19,8 @@ hazırlıktır.
 
 ## Ana Öğreti
 
-Bu oturum `expl/bible/daniel/the-book-of-daniel.md` ve
-`expl/bible/daniel/the-four-kingdoms-in-daniel.md` üzerine kuruludur.
+Bu oturum `[Daniel'in kitabı]({{< relref "expl/bible/daniel/the-book-of-daniel" >}})` ve
+`[Dört Krallık]({{< relref "expl/bible/daniel/the-four-kingdoms-in-daniel" >}})` üzerine kuruludur.
 
 **1-7. bölümleri bir arada tutan kiyazma.** 2 ve 7. bölümlerin ikisi de dört ardışık krallığı
 tanımlar — 2. bölüm bir heykel aracılığıyla, 7. bölüm dört canavar aracılığıyla — her ikisi de

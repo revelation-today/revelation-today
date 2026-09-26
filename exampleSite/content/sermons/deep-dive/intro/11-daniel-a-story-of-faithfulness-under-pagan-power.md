@@ -19,8 +19,8 @@ for reading Revelation's own reuse of Daniel's imagery.
 
 ## The Core Teaching
 
-This session draws on `expl/bible/daniel/the-book-of-daniel.md` and
-`expl/bible/daniel/the-four-kingdoms-in-daniel.md`.
+This session draws on `[The book of Daniel]({{< relref "expl/bible/daniel/the-book-of-daniel" >}})` and
+`[The four kingdoms in Daniel]({{< relref "expl/bible/daniel/the-four-kingdoms-in-daniel" >}})`.
 
 **The chiasm holding chapters 1-7 together.** Chapters 2 and 7 both describe four successive
 kingdoms — chapter 2 through a statue, chapter 7 through four beasts — each ending in a divine

@@ -22,10 +22,10 @@ Bildsprache dieser Geschichte aufgreift.
 ## Die zentrale Lehre
 
 Diese Einheit greift auf vier Ausgangsartikel zurück:
-`expl/bible/exodus/the-story-before-the-exodus.md`,
-`expl/bible/exodus/the-birth-of-moses.md`,
-`expl/bible/exodus/the-hardening-of-pharaohs-heart.md` und
-`expl/bible/exodus/the-plagues-in-egypt.md`.
+`[Der Auszug aus Ägypten: Die Vorgeschichte]({{< relref "expl/bible/exodus/the-story-before-the-exodus" >}})`,
+`[Die Geschichte von Moses]({{< relref "expl/bible/exodus/the-birth-of-moses" >}})`,
+`[Die Verhärtung des Herzens]({{< relref "expl/bible/exodus/the-hardening-of-pharaohs-heart" >}})` und
+`[Die zehn Plagen in Ägypten]({{< relref "expl/bible/exodus/the-plagues-in-egypt" >}})`.
 
 **Der geschichtliche Hintergrund, kurz gefasst.** Israels Geschichte berührt sich vermutlich mit der
 Hyksos-Zeit — semitische Völker aus Kanaan, die um 1720 v. Chr. die Kontrolle über das östliche

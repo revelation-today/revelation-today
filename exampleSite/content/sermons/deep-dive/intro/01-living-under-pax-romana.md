@@ -27,7 +27,7 @@ enjoyed an extended period of relative internal stability: few civil wars, a str
 empire, real economic prosperity (at least for a good portion of the population), and a
 flourishing of art and culture — set against a backdrop of sporadic, localized persecution of
 Christians under emperors like Nero and Domitian. For the full argument and sourcing, see
-`expl/background/history/pax-romana-key-to-understand-the-book-of-revelation.md`.
+`[Pax Romana — the key to understanding Revelation]({{< relref "expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" >}})`.
 
 Underneath those conditions sat something closer to a theology than a policy: the gods had
 chosen Rome; the emperor was their agent on earth; every blessing worth having — security,

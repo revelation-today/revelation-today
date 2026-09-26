@@ -31,8 +31,8 @@ untuk akhirnya ditaklukkan Allah pada akhir zaman. Binatang pertama juga meminja
 keempat binatang Daniel sekaligus — mulut singa, kaki beruang, tubuh macan tutul, sepuluh tanduk
 (bandingkan Daniel 7:4-7) — menandakan kesinambungan dengan setiap kekaisaran yang pernah menentang
 umat Allah, bukan hanya satu. (Detail lengkap dalam
-expl/content/beasts/the-beasts-and-the-666-in-historical-context.md dan
-expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation.md.)
+[666 dalam Konteks Historis]({{< relref "expl/content/beasts/the-beasts-and-the-666-in-historical-context" >}}) dan
+[Kedua Binatang dalam Kitab Wahyu]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}).)
 
 Dasar Perjanjian Lama itu penting bagi cara kita membaca pasal ini: langkah pertama Yohanes bukan
 spekulasi segar, melainkan pengenalan pola. Ia sedang memberi tahu para pembacanya, "kalian sudah

@@ -22,9 +22,9 @@ Gemeinde, Gott und der Hure.
 ## Die Kernlehre
 
 Diese Einheit führt zwei Quellartikel zusammen:
-`expl/background/literature/literally-or-symbolic.md`, der die drei „Geheimnis"-Stellen und ihre
+`[Wörtlich oder symbolisch?]({{< relref "expl/background/literature/literally-or-symbolic" >}})`, der die drei „Geheimnis"-Stellen und ihre
 Verbindung zu Daniel identifiziert, und
-`expl/background/israel/the-church-is-part-of-israel.md`, der das erste der drei vollständig
+`[Die Gemeinde als Teil von Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})`, der das erste der drei vollständig
 entfaltet.
 
 **Warum drei Geheimnisse, und warum hier.** Wie wir in Einheit 3 gesehen haben, greift das Wort
@@ -50,7 +50,7 @@ erfundene Größe, die Israel ersetzt, sondern Israels eigene Verheißungen, die
 Ziel erreichen. Fast jeder Titel, den das Alte Testament Israel gibt — Geliebte, Gottes Sohn,
 Braut, Königreich von Priestern, Tempel, Weinberg, kostbares Eigentum —, wird nun der Gemeinde
 direkt zugesprochen, Begriff für Begriff. Siehe
-`expl/background/israel/the-church-is-part-of-israel.md` für die vollständige Liste dieser
+`[Die Gemeinde als Teil von Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})` für die vollständige Liste dieser
 Begriffsübertragungen, jede von einer alttestamentlichen Stelle zu ihrer neutestamentlichen
 Anwendung nachgezeichnet.
 

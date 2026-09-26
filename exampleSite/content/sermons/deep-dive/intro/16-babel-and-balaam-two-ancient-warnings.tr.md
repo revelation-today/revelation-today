@@ -18,8 +18,8 @@ bir tehdit olarak ele aldığını, Vahiy'in adını sürekli andığı iki çok
 
 ## Ana Öğreti
 
-Bu oturum `expl/bible/keyword/the-origin-of-babel.md` ve
-`expl/bible/keyword/the-story-of-balaam.md` kaynaklarından yararlanmaktadır — Vahiy'e giriş
+Bu oturum `[Babil’in Kökeni]({{< relref "expl/bible/keyword/the-origin-of-babel" >}})` ve
+`[Balam’ın öyküsü]({{< relref "expl/bible/keyword/the-story-of-balaam" >}})` kaynaklarından yararlanmaktadır — Vahiy'e giriş
 niteliğindeki Bölüm 0'ımızı, kitabın doğrudan dayandığı iki Eski Antlaşma uyarısıyla
 tamamlıyoruz.
 

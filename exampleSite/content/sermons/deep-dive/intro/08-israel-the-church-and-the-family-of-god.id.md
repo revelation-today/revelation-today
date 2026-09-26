@@ -21,8 +21,8 @@ dalamnya?
 
 ## Pengajaran Inti
 
-Sesi ini mengacu pada `expl/background/israel/the-church-is-part-of-israel.md` (daftar lengkap
-pemindahan istilah) dan `expl/background/israel/israel-and-the-church.md` (ketegangan dengan orang
+Sesi ini mengacu pada `[Gereja sebagai Bagian dari Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})` (daftar lengkap
+pemindahan istilah) dan `[Israel dan Gereja]({{< relref "expl/background/israel/israel-and-the-church" >}})` (ketegangan dengan orang
 Yahudi dalam Wahyu secara khusus).
 
 **Rahasia orang-orang bukan Yahudi, dinyatakan langsung oleh Paulus.**

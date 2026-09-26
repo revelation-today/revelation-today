@@ -20,7 +20,7 @@ membawa kita ke suatu tempat yang penuh kemenangan.
 
 ## Pengajaran Inti
 
-Argumen lengkapnya ada dalam `expl/bible/daniel/the-son-of-man-and-the-remnant.md`.
+Argumen lengkapnya ada dalam `[Rahasia Anak Manusia]({{< relref "expl/bible/daniel/the-son-of-man-and-the-remnant" >}})`.
 
 **Dari mana gelar ini berasal.** {{% bible val="Daniel 7:13-14" link="dan:7,13-14" lang="ind" %}}
 menggambarkan "seorang seperti anak manusia datang dengan awan-awan di langit," mendekati Yang

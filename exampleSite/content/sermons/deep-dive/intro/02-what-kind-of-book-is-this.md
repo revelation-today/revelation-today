@@ -23,7 +23,7 @@ chapter 1.
 ## The Core Teaching
 
 The full argument for what follows is laid out in
-`expl/background/literature/the-book-of-revelation-how-to-read-it.md` — it's worth having a
+`[How to read the book of Revelation]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}})` — it's worth having a
 group member read the source article directly this week if your group likes to go further than
 the session itself.
 

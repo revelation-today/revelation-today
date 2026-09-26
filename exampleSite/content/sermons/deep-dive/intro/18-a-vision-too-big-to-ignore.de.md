@@ -48,7 +48,7 @@ hätten:
 für diese physische Beschreibung — aber 10,7 beschreibt tatsächlich die verängstigten Umstehenden,
 die die Vision nicht sahen, nicht das Aussehen des Engels selbst. Die Beschreibung von
 Feueraugen und Bronzegliedern steht in Daniel 10,5-6. Ein kleiner Punkt, aber es lohnt sich, ihn
-richtig zu haben, wenn ihr selbst zum Text zurückgeht (siehe expl/content/vision/the-vision.md).
+richtig zu haben, wenn ihr selbst zum Text zurückgeht (siehe [Die Vision des Menschensohnes]({{< relref "expl/content/vision/the-vision" >}})).
 
 Der Effekt dieser Verschmelzung der Bilder: Johannes' Vision von Jesus vereint den Hochbetagten
 und die „Menschensohn"-Gestalt in einer Person — eine auffällige, zurückhaltend formulierte

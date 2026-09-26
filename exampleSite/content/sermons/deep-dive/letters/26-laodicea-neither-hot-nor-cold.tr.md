@@ -20,7 +20,7 @@ başarısına en çok inanan kilisedir.
 
 Laodikya olağanüstü zengindi — Küçük Asya'nın İsviçre bankası gibi işlev görüyordu, siyah yün
 sanayisiyle ve göz merhemleriyle tanınan ünlü bir tıp merkeziyle biliniyordu (bkz.
-expl/content/letters/the-letter-to-the-church-in-laodicea.md). İsa'nın azarlamasının her ayrıntısı,
+[Laodikya’daki kiliseye mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-laodicea" >}})). İsa'nın azarlamasının her ayrıntısı,
 doğrudan kentin kendi sivil gururuyla oynuyor.
 
 İsa kendini "Amin, sadık ve gerçek tanık" (Vahiy 3:14) olarak tanıtıyor — çarpıcı bir karşıtlık,

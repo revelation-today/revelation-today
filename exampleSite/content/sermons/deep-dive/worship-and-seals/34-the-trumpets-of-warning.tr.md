@@ -24,7 +24,7 @@ bağlantılıdır, beşinci mührün "ne zamana kadar?" diye haykıran şehitler
 sürdürür. Sonra: "Tanrı'nın halkının duaları" tahtın önünde tütsü olarak yükselir, ve "melek
 buhurdanı aldı, sunaktaki ateşle doldurdu ve yeryüzüne fırlattı" — bu, mühürlerin sonunu ve
 boruların başlangıcını aynı anda işaretleyen gök gürültüsü, şimşek ve depremi tetikler (8:3-5;
-bkz. expl/content/trumpets/the-trumpets-in-revelation.md).
+bkz. [Vahiy’deki trompetler]({{< relref "expl/content/trumpets/the-trumpets-in-revelation" >}})).
 
 **Sırayı dikkatle fark edin.** 2. ayette, yedi melek zaten borularını tutuyor — ama henüz hiçbir
 şey olmuyor. Bekliyorlar. Çalmayı tetikleyen, sıradan, çoğu zaman sendeleyen insanlar tarafından
@@ -36,7 +36,7 @@ ikinci bir soru ortaya çıkarıyor: dualarınızın tam olarak burada olduğu g
 gerçekten istiyor musunuz?
 
 **Boruların ardındaki kalıp.** Bu belalar, yeni bir imparatorluk ve yeni bir Firavun için Mısır
-belalarını bilinçli olarak yeniden canlandırır (bkz. expl/bible/exodus/the-plagues-in-egypt.md).
+belalarını bilinçli olarak yeniden canlandırır (bkz. [Mısır’ın Başına Gelen Belalar]({{< relref "expl/bible/exodus/the-plagues-in-egypt" >}})).
 Mısır'dan Çıkış belaları Mısır'ın tanrılarını güçsüz sahtekârlar olarak açığa çıkardığı gibi,
 borular da — bir kerede bir katman — insanların Tanrı yerine güvendiği her şeyi soyup çıkarır:
 bitki örtüsü ve gıda kaynağı (dolu belasını yankılayarak, Mısır'dan Çıkış 9:22-25); deniz

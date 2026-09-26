@@ -22,10 +22,10 @@ gambaran dari kisah yang sama ini.
 ## Inti Pengajaran
 
 Sesi ini mengacu pada empat artikel sumber:
-`expl/bible/exodus/the-story-before-the-exodus.md`,
-`expl/bible/exodus/the-birth-of-moses.md`,
-`expl/bible/exodus/the-hardening-of-pharaohs-heart.md`, dan
-`expl/bible/exodus/the-plagues-in-egypt.md`.
+`[Eksodus dari Mesir: Kisah Sebelumnya]({{< relref "expl/bible/exodus/the-story-before-the-exodus" >}})`,
+`[Kisah Musa]({{< relref "expl/bible/exodus/the-birth-of-moses" >}})`,
+`[Pengerasan Hati]({{< relref "expl/bible/exodus/the-hardening-of-pharaohs-heart" >}})`, dan
+`[Kesepuluh Tulah di Mesir]({{< relref "expl/bible/exodus/the-plagues-in-egypt" >}})`.
 
 **Latar belakang sejarah, secara singkat.** Kisah Israel kemungkinan bersinggungan dengan periode
 Hyksos — bangsa Semit dari Kanaan yang menguasai Delta Nil bagian timur sekitar tahun 1720 SM

@@ -22,7 +22,7 @@ ist der Angelpunkt, um den sich diese ganze Einheit dreht.
 
 ## Die Kernlehre
 
-Die vollständige Argumentation findet sich in `expl/background/israel/gods-covenant.md`.
+Die vollständige Argumentation findet sich in `[Der Bund Gottes]({{< relref "expl/background/israel/gods-covenant" >}})`.
 
 **Wie antike Bündnisse tatsächlich funktionierten.** Es gab zwei grundlegende Arten antiker
 Verträge. Bündnisse zwischen Gleichrangigen funktionierten wie Allianzen — gegenseitige

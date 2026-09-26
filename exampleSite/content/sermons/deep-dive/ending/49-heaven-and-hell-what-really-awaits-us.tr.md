@@ -15,7 +15,7 @@ Grubunuzdan popüler çizgi film imgesini hayal etmesini isteyin: bulutlar, arpl
 
 ## Cennet, iyi davranışın ödülü değil, Tanrı'ya yakınlıkla tanımlanır
 
-Vahiy, cenneti birden fazla imgeyle resmeder. 7. bölümde, kutsallar teselli edilir, her göz yaşı silinir (7:9-17). 21-22. bölümlerde, Yeni Yeruşalim en tam resmi verir (daha kapsamlı işleniş için bkz. expl/content/paradise/the-new-jerusalem.md ve expl/content/paradise/heaven-and-hell.md). Her iki tasvir de tek bir noktada birleşir: cennet, Tanrı'yla paydaşlıktır, ne fazlası ne azı.
+Vahiy, cenneti birden fazla imgeyle resmeder. 7. bölümde, kutsallar teselli edilir, her göz yaşı silinir (7:9-17). 21-22. bölümlerde, Yeni Yeruşalim en tam resmi verir (daha kapsamlı işleniş için bkz. [Yeni Kudüs]({{< relref "expl/content/paradise/the-new-jerusalem" >}}) ve [Cennet ve Cehennem]({{< relref "expl/content/paradise/heaven-and-hell" >}})). Her iki tasvir de tek bir noktada birleşir: cennet, Tanrı'yla paydaşlıktır, ne fazlası ne azı.
 
 Bu, Yeni Yeruşalim'in "Kuzu'nun gelini" olarak tanımlandığı ayrıntıda (21:2, 9) keskin biçimde ortaya çıkar — resim altın bir emeklilik topluluğu değil, bir evliliktir, antlaşma yakınlığının dilidir. Şehrin şekliyle de pekiştirilir: Vahiy 21:16, onu bir küp olarak tasvir eder ve tüm Eski Antlaşma'da tam olarak bu şekle sahip tek nesne, En Kutsal Yer'dir (2. Tarihler 3:8) — tapınağın en iç odası, Tanrı'nın varlığıyla o kadar doymuştur ki yalnızca başkâhin girebilir, o da yalnızca yılda bir kez. Vahiy cenneti bir küp olarak tasvir ettiğinde, kasıtlı bir iddiada bulunur: burası, Tanrı'ya mümkün olan en yüksek yakınlık yeridir ve Tanrı'nın halkının her biri orada yaşayabilir, yalnızca özel biçimde atanmış tek bir kâhin değil.
 
@@ -31,7 +31,7 @@ Eğer cennet Tanrı'yla yakınlıksa, cehennem O'nun tam yokluğunda geriye kala
 
 ## Bir tehdit değil, bir davet
 
-Cehennem sürekli bir korkutma taktiği olarak kullanılır: inan, yoksa. Az önce gördüklerimiz göz önüne alındığında, bu iddia kesinlikle yanlış değildir — ama Vahiy'in gerçekte yaptığı noktayı ciddi biçimde kaçırır. Korku ve manipülasyon, bu kitapta tutarlı biçimde canavarın araçları olarak resmedilir, asla kilisenin ya da Tanrı'nın araçları olarak değil (bkz. expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation.md). Kilisenin çağrısı insanları cennete korkutmak değildir; sadık tanıklık taşımak ve bu tanıklığın, kendisi arzu edilmeye değer olan Tanrı'ya insanları çekmesine izin vermektir.
+Cehennem sürekli bir korkutma taktiği olarak kullanılır: inan, yoksa. Az önce gördüklerimiz göz önüne alındığında, bu iddia kesinlikle yanlış değildir — ama Vahiy'in gerçekte yaptığı noktayı ciddi biçimde kaçırır. Korku ve manipülasyon, bu kitapta tutarlı biçimde canavarın araçları olarak resmedilir, asla kilisenin ya da Tanrı'nın araçları olarak değil (bkz. [Vahiy kitabındaki canavarın doğası]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})). Kilisenin çağrısı insanları cennete korkutmak değildir; sadık tanıklık taşımak ve bu tanıklığın, kendisi arzu edilmeye değer olan Tanrı'ya insanları çekmesine izin vermektir.
 
 ## Tartışma soruları
 

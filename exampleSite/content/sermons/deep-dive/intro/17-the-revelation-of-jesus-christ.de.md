@@ -30,9 +30,9 @@ Deutschen ähnlich wie im Englischen Ballast angesammelt — Dechiffrierringe, G
 mit Tieren und Zeitleisten. Das ist nicht, was das Wort für Johannes' erste Leser bedeutete. Es
 benennt eine ganze Gattung jüdischer und frühchristlicher Literatur, die lebendige, symbolische
 Visionen verwendet, um eine geistliche Wirklichkeit hinter alltäglichen Ereignissen zu enthüllen,
-gerade damit die Leser jetzt anders handeln. Siehe expl/content/vision/setting-the-foundation.md
+gerade damit die Leser jetzt anders handeln. Siehe [Die Grundlage legen]({{< relref "expl/content/vision/setting-the-foundation" >}})
 und den Hintergrundartikel zur apokalyptischen Gattung
-(expl/background/literature/the-book-of-revelation-how-to-read-it.md) für die ausführlichere
+([Wie lese ich die Offenbarung?]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}})) für die ausführlichere
 Darstellung. Es lohnt sich, als Gruppe dabei zu verweilen, denn das rahmt euer gesamtes weiteres
 Studium neu: Die Offenbarung ist nicht in erster Linie ein zu lösendes Rätsel, sondern ein
 Aufruf, dem gehorcht werden soll.

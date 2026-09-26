@@ -21,7 +21,7 @@ mektubu alıyor — çünkü sorunu tam olarak en tepede yatıyor.
 Tiyatira, muhtemelen Bergama'nın güneydoğusunda bir askeri karakoldu; birinci yüzyılda mor boya ve
 tunç işleme loncalarıyla tanınıyordu. Bu loncalar, koruyucu ilahlarını onurlandıran düzenli
 şölenler düzenlerdi — yalnızca erkeklerin katıldığı, tasarım gereği eğlencenin bir parçası olarak
-zinayı da içeren toplantılar (bkz. expl/content/letters/the-letter-to-the-church-in-thyatira.md).
+zinayı da içeren toplantılar (bkz. [Thyatira’daki kiliseye mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-thyatira" >}})).
 
 İsa bu kiliseye "gözleri alevli ateşe, ayakları cilalı tunca benzeyen Tanrı Oğlu" (Vahiy 2:18)
 olarak yaklaşıyor — Daniel 3'ü çağrıştıran bir imge; orada "ilahların oğluna benzer biri" ateşin

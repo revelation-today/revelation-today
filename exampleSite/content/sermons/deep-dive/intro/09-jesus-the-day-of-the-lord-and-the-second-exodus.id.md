@@ -22,9 +22,9 @@ kedatangan Yesus sekaligus dinantikan dan sama sekali tidak terduga.
 ## Pengajaran Inti
 
 Tiga artikel sumber mendasari sesi ini:
-`expl/background/israel/the-day-of-the-lord.md`,
-`expl/background/israel/jesus-and-the-covenant.md`, dan
-`expl/background/israel/the-second-exodus.md`.
+`[Hari Tuhan]({{< relref "expl/background/israel/the-day-of-the-lord" >}})`,
+`[Yesus dan Perjanjian]({{< relref "expl/background/israel/jesus-and-the-covenant" >}})`, dan
+`[Eksodus Kedua]({{< relref "expl/background/israel/the-second-exodus" >}})`.
 
 **Apa sebenarnya Hari TUHAN itu.** Bukan sekadar "akhir dunia" — itu adalah hari yang akhirnya
 mewujudkan apa yang selalu dijanjikan perjanjian itu: penghakiman atas musuh-musuh Israel,

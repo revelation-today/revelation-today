@@ -24,7 +24,7 @@ Bölüm, Yuhanna'nın tapınağı, sunağı ve tapınanları ölçmesiyle açıl
 kendisi) daralır — bunun anlamı: Tanrı'nın gerçekte iddia ettiği ve koruduğu şey bir bina değil,
 bir halktır. Sunak ayrıntısı, beşinci mühürdeki sunağın altındaki şehit canları hatırlatır
 (6:9-11), bu da bize baştan söyler: burada söz konusu olan tapınma, "ölüme kadar" olan
-tapınmadır. İki tanığın aldığı biçim de tam olarak budur. (Tam argüman expl/content/witnesses/the-two-witnesses.md'de.)
+tapınmadır. İki tanığın aldığı biçim de tam olarak budur. (Tam argüman [İki Tanık]({{< relref "expl/content/witnesses/the-two-witnesses" >}})'de.)
 
 ## İki tanık kimdir? — dürüstçe tartışmalı bir soru
 
@@ -48,7 +48,7 @@ olarak değil, dürüstçe bir tartışma noktası olarak adlandırılmaya değe
 görür; diğerleri bunu daha sembolik olarak okur, katı bir kronolojik referans belirlemeden hiç.
 "Tüm kilise çağı" okumasını tutuyorsanız, bu, tanıkları bir bireyden çok kilise olarak görmeyi
 gerçekten destekler — ama bu destek, kendisi de tartışmalı olan 3,5 yılın altta yatan okumasıyla
-sınırlıdır. (Bu tartışma için bkz. expl/bible/daniel/the-secret-of-the-3-5-years.md.)
+sınırlıdır. (Bu tartışma için bkz. [3,5 yıl]({{< relref "expl/bible/daniel/the-secret-of-the-3-5-years" >}}).)
 
 **Orijinal dil notu:** Yasa'nın Tekrarı 19:15'te, "bir dava iki ya da üç tanığın ifadesiyle
 doğrulanacak" — hukuki tanıklık çoğulluk gerektiriyordu. Muhtemelen bu yüzden bir gerçekliği

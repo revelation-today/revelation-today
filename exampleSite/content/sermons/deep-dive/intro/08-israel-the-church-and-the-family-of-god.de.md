@@ -20,8 +20,8 @@ zwei Gruppen, die nun vollständig in sie eingegliedert sind?
 
 ## Die Kernlehre
 
-Diese Einheit schöpft aus `expl/background/israel/the-church-is-part-of-israel.md` (die
-vollständige Liste der Begriffsübertragungen) und `expl/background/israel/israel-and-the-church.md`
+Diese Einheit schöpft aus `[Die Gemeinde als Teil von Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})` (die
+vollständige Liste der Begriffsübertragungen) und `[Israel und die Gemeinde]({{< relref "expl/background/israel/israel-and-the-church" >}})`
 (die Spannung mit Juden speziell in der Offenbarung).
 
 **Das Geheimnis der Heiden, direkt von Paulus benannt.** {{% bible val="Epheser 3,3-6" link="eph:3,3-6" lang="de" %}} sagt es unmissverständlich: „dass die Heiden Miterben sind und mit

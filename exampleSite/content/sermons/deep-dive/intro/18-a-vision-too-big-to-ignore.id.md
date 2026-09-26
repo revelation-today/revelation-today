@@ -48,7 +48,7 @@ Perjanjian Lama yang akan langsung dikenali oleh pembaca Daniel di abad pertama:
 10:7 untuk deskripsi fisik itu — namun 10:7 sebenarnya menggambarkan orang-orang yang menyertai
 Daniel yang ketakutan karena tidak melihat penglihatan itu, bukan penampilan malaikat itu sendiri.
 Deskripsi mata yang menyala dan anggota tubuh tembaga ada di Daniel 10:5-6. Poin kecil, namun
-layak diperbaiki jika kamu memeriksa sendiri teksnya (lihat expl/content/vision/the-vision.md).
+layak diperbaiki jika kamu memeriksa sendiri teksnya (lihat [Penglihatan tentang Anak Manusia]({{< relref "expl/content/vision/the-vision" >}})).
 
 Dampak dari penggabungan gambaran-gambaran ini: penglihatan Yohanes tentang Yesus menyatukan Yang
 Lanjut Usianya dan sosok "anak manusia" menjadi satu — sebuah klaim yang mencolok namun tersirat

@@ -15,7 +15,7 @@ Ask: "Can a church — or a person's faith — look completely alive on the outs
 
 ## Core teaching
 
-Sardis had the longest history of any of the seven cities and one of the strongest natural defenses — perched high on a mountain ridge, ringed by cliffs, disconnected from neighboring peaks (see expl/content/letters/the-letter-to-the-church-in-sardis.md). That position bred deep civic overconfidence: the city considered itself impregnable. History proved otherwise twice — Sardis was conquered on both occasions by enemies who slipped in through the exact cliff faces everyone assumed were unscalable. Confidence in your own defenses, unchecked, becomes the very blind spot that gets you conquered.
+Sardis had the longest history of any of the seven cities and one of the strongest natural defenses — perched high on a mountain ridge, ringed by cliffs, disconnected from neighboring peaks (see [The letter to the church in Sardis]({{< relref "expl/content/letters/the-letter-to-the-church-in-sardis" >}})). That position bred deep civic overconfidence: the city considered itself impregnable. History proved otherwise twice — Sardis was conquered on both occasions by enemies who slipped in through the exact cliff faces everyone assumed were unscalable. Confidence in your own defenses, unchecked, becomes the very blind spot that gets you conquered.
 
 That civic overconfidence appears to have rubbed off on the church. Jesus, approaching "in the full power of the Spirit" and holding "the seven stars" (3:1, echoing chapter 1's vision of Jesus among the churches), gives this congregation almost no praise — only "a few people" are named as faithful (3:4) — and a blunt diagnosis: the church is dead, its deeds "unfinished in the sight of my God" (3:2).
 

@@ -15,7 +15,7 @@ Ask: "What's something you've kept doing faithfully for years with no visible pa
 
 ## Core teaching
 
-Philadelphia was the youngest of the seven cities, named for Attalus II "Philadelphus" ("brother-loving"), and sat at a crossroads of trade routes ideal for vineyards (see expl/content/letters/the-letter-to-the-church-in-philadelphia.md). It also sat on a fault line, repeatedly damaged by earthquakes — after one major quake, the emperor funded reconstruction and granted tax relief, and the fiercely pro-Roman city later felt betrayed when a subsequent emperor restricted their vineyards to free up farmland for grain.
+Philadelphia was the youngest of the seven cities, named for Attalus II "Philadelphus" ("brother-loving"), and sat at a crossroads of trade routes ideal for vineyards (see [The letter to the church in Philadelphia]({{< relref "expl/content/letters/the-letter-to-the-church-in-philadelphia" >}})). It also sat on a fault line, repeatedly damaged by earthquakes — after one major quake, the emperor funded reconstruction and granted tax relief, and the fiercely pro-Roman city later felt betrayed when a subsequent emperor restricted their vineyards to free up farmland for grain.
 
 Into a congregation that is financially struggling and facing opposition, Jesus introduces himself holding "the key of David, [who] opens and no one can shut, and shuts and no one can open" (Revelation 3:7) — a reference to Isaiah 22:15-25, where a corrupt steward named Shebna is replaced by a faithful one, Eliakim, entrusted with the keys to provide for those in need. Jesus is claiming that same stewardship over God's kingdom, and he has opened a door for this struggling church "that no one can shut" (3:8).
 
@@ -31,7 +31,7 @@ One supporting citation in the source article (Proverbs 7:5, paired with James 1
 
 ## A live question worth naming
 
-This is exactly the kind of verse where the "left behind" framework many in Western evangelical circles grew up with reads a pre-tribulation rapture directly off this text. The Greek evidence here points a different direction — protection through trial, not evacuation from it. This is worth naming explicitly as a real point of disagreement among sincere readers of Scripture, not something to breeze past; see also topics/others/the-rapture.md for the fuller treatment of the rapture question elsewhere in this series (session 52).
+This is exactly the kind of verse where the "left behind" framework many in Western evangelical circles grew up with reads a pre-tribulation rapture directly off this text. The Greek evidence here points a different direction — protection through trial, not evacuation from it. This is worth naming explicitly as a real point of disagreement among sincere readers of Scripture, not something to breeze past; see also [The rapture]({{< relref "expl/topics/others/the-rapture" >}}) for the fuller treatment of the rapture question elsewhere in this series (session 52).
 
 ## Discussion questions
 

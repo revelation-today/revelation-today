@@ -15,7 +15,7 @@ Ask your group to picture the popular cartoon image: heaven as clouds, harps, an
 
 ## Heaven is defined by nearness to God, not reward for good behavior
 
-Revelation paints heaven with more than one image. In chapter 7, the saints are comforted, with every tear wiped away (7:9-17). In chapters 21-22, the New Jerusalem gives us the fullest picture of all (see expl/content/paradise/the-new-jerusalem.md and expl/content/paradise/heaven-and-hell.md for the fuller treatment). Both descriptions converge on a single point: heaven is fellowship with God, nothing more and nothing less.
+Revelation paints heaven with more than one image. In chapter 7, the saints are comforted, with every tear wiped away (7:9-17). In chapters 21-22, the New Jerusalem gives us the fullest picture of all (see [The New Jerusalem]({{< relref "expl/content/paradise/the-new-jerusalem" >}}) and [Heaven and hell]({{< relref "expl/content/paradise/heaven-and-hell" >}}) for the fuller treatment). Both descriptions converge on a single point: heaven is fellowship with God, nothing more and nothing less.
 
 That comes through sharply in the detail that the New Jerusalem is described as "the bride of the Lamb" (21:2, 9) — the picture isn't a golden retirement community, it's a marriage, the language of covenant intimacy. It's reinforced by the city's shape: Revelation 21:16 describes it as a cube, and the only object in the entire Old Testament with that exact shape is the Holy of Holies (2 Chronicles 3:8) — the innermost chamber of the temple, so saturated with God's presence that only the high priest could enter, and only once a year. When Revelation describes heaven as a cube, it's making a deliberate claim: this is the place of maximum possible nearness to God, and every one of God's people gets to live there, not just a single specially-ordained priest.
 
@@ -31,7 +31,7 @@ If heaven is intimacy with God, hell is what remains in the total absence of him
 
 ## Not a threat, but an invitation
 
-Hell gets used constantly as a scare tactic: believe, or else. Given what we've just seen, that claim isn't strictly false — but it badly misses the point Revelation is actually making. Fear and manipulation are consistently portrayed in this book as tools of the beast, never of the church or of God (see expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation.md). The church's calling isn't to frighten people into heaven; it's to bear faithful testimony and let that testimony draw people toward the God who is, himself, worth wanting.
+Hell gets used constantly as a scare tactic: believe, or else. Given what we've just seen, that claim isn't strictly false — but it badly misses the point Revelation is actually making. Fear and manipulation are consistently portrayed in this book as tools of the beast, never of the church or of God (see [The nature of the beast in the book of revelation]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})). The church's calling isn't to frighten people into heaven; it's to bear faithful testimony and let that testimony draw people toward the God who is, himself, worth wanting.
 
 ## Discussion questions
 

@@ -30,8 +30,8 @@ tarafından nihayet boyun eğdirilmesi beklenir. İlk canavar ayrıca Daniel'in 
 tümünden aynı anda özellikler ödünç alır — aslan ağzı, ayı ayakları, leopar gövdesi, on boynuz
 (Daniel 7:4-7 ile karşılaştırın) — bu da yalnızca bir değil, Tanrı'nın halkına şimdiye kadar karşı
 çıkmış her imparatorlukla süreklilik işaret eder. (Ayrıntı için bkz.
-expl/content/beasts/the-beasts-and-the-666-in-historical-context.md ve
-expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation.md.)
+[Tarihsel bağlamda canavarlar ve 666]({{< relref "expl/content/beasts/the-beasts-and-the-666-in-historical-context" >}}) ve
+[Vahiy kitabındaki canavarın doğası]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}).)
 
 Bu Eski Antlaşma temellendirmesi, bölümü nasıl okuduğumuz için önemlidir: Yuhanna'nın ilk hamlesi
 taze spekülasyon değil, kalıp tanımadır. Okuyucularına şunu söylüyor: "bu hikâyeyi zaten

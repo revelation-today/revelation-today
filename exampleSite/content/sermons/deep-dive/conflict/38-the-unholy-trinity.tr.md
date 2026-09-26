@@ -24,8 +24,8 @@ Vahiy, Şeytan'ı kitap boyunca üç ayrı kez bir tür karanlık üçlü olarak
 özetleyen dördüncü atlı olarak (Vahiy 6:1-8), burada 13. bölümde ejderha-artı-iki-canavar olarak,
 ve tekrar altıncı tasta "kurbağaya benzer üç kirli ruh" olarak (16:13), daha sonra 19. ve 20.
 bölümlerde yargılanır. Her görünüş aynı tabloya ayrıntı ekler: tam zafer sunar ve yalnızca yıkım
-teslim eder. (Daha geniş argüman expl/content/beasts/the-nature-of-the-beast.md ve
-expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation.md'de.)
+teslim eder. (Daha geniş argüman [Canavarın doğası]({{< relref "expl/content/beasts/the-nature-of-the-beast" >}}) ve
+[Vahiy kitabındaki canavarın doğası]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})'de.)
 
 ## 13. bölümdeki ejderha — açıkça mı saklanıyor, yoksa tamamen görünür mü?
 

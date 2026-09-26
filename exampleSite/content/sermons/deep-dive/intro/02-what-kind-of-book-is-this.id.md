@@ -24,7 +24,7 @@ pasal 1.
 ## Pengajaran Inti
 
 Argumen lengkap untuk apa yang mengikuti ini dijabarkan dalam
-`expl/background/literature/the-book-of-revelation-how-to-read-it.md` — layak untuk diminta salah
+`[Bagaimana Saya Membaca Kitab Wahyu?]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}})` — layak untuk diminta salah
 satu anggota kelompok membaca artikel sumbernya langsung minggu ini jika kelompok Anda suka
 menggali lebih jauh daripada sesi itu sendiri.
 

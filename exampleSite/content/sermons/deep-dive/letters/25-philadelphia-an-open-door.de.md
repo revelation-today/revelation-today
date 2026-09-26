@@ -21,7 +21,7 @@ Ausdauer, nichts weiter.
 
 Philadelphia war die jüngste der sieben Städte, benannt nach Attalus II. „Philadelphus"
 („geschwisterliebend"), und lag an einer Kreuzung von Handelsrouten, ideal für Weinberge (siehe
-expl/content/letters/the-letter-to-the-church-in-philadelphia.md). Sie lag auch auf einer
+[Das Sendschreiben an Philadelphia]({{< relref "expl/content/letters/the-letter-to-the-church-in-philadelphia" >}})). Sie lag auch auf einer
 Verwerfungslinie, wiederholt durch Erdbeben beschädigt — nach einem großen Beben finanzierte der
 Kaiser den Wiederaufbau und gewährte Steuererleichterungen, und die entschieden pro-römische Stadt
 fühlte sich später verraten, als ein späterer Kaiser ihre Weinberge einschränkte, um Ackerland für
@@ -81,7 +81,7 @@ westlichen evangelikalen Umfeld aufgewachsen sind, eine Vor-Trübsal-Entrückung
 Text liest. Der griechische Befund hier weist in eine andere Richtung — Schutz durch die Prüfung
 hindurch, nicht Evakuierung davor. Es lohnt sich, das ausdrücklich als echten Streitpunkt unter
 aufrichtigen Lesern der Schrift zu benennen, nicht als etwas, an dem man vorbeigehen sollte; siehe
-auch topics/others/the-rapture.md für die ausführlichere Behandlung der Entrückungsfrage anderswo
+auch [Die Entrückung]({{< relref "expl/topics/others/the-rapture" >}}) für die ausführlichere Behandlung der Entrückungsfrage anderswo
 in dieser Reihe (Sitzung 52).
 
 ## Gesprächsfragen

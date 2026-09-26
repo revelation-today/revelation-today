@@ -24,7 +24,7 @@ bevor wir überhaupt bei Kapitel 1 ankommen.
 ## Die Kernlehre
 
 Die vollständige Argumentation für das Folgende findet sich in
-`expl/background/literature/the-book-of-revelation-how-to-read-it.md` — es lohnt sich, diese Woche
+`[Wie lese ich die Offenbarung?]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}})` — es lohnt sich, diese Woche
 ein Gruppenmitglied den Quellartikel direkt lesen zu lassen, falls eure Gruppe gerne tiefer geht
 als die Einheit selbst.
 

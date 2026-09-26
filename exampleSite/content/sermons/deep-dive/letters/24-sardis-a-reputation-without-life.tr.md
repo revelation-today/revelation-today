@@ -18,7 +18,7 @@ verdiği yanıttır: "Yaşıyorsun diye ün salmışsın, oysa ölüsün" (Vahiy
 ## Ana Öğreti
 
 Sart, yedi kentin en uzun tarihine ve en güçlü doğal savunmalarından birine sahipti — bir dağ
-sırtının yüksekliğinde, uçurumlarla çevrili, komşu tepelerden kopuk (bkz. expl/content/letters/the-letter-to-the-church-in-sardis.md). Bu konum, derin bir sivil aşırı güven doğurdu: kent kendini
+sırtının yüksekliğinde, uçurumlarla çevrili, komşu tepelerden kopuk (bkz. [Sardis’teki kiliseye mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-sardis" >}})). Bu konum, derin bir sivil aşırı güven doğurdu: kent kendini
 alınmaz sayıyordu. Tarih bunun iki kez tersini kanıtladı — Sart, her ikisinde de, herkesin
 tırmanılamaz sandığı tam o uçurum yüzlerinden sızan düşmanlar tarafından fethedildi. Kendi
 savunmalarınıza kontrolsüz güven, sizi fetheden kör noktanın ta kendisi hâline gelir.

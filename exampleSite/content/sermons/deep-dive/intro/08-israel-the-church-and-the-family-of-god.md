@@ -20,8 +20,8 @@ it?
 
 ## The Core Teaching
 
-This session draws on `expl/background/israel/the-church-is-part-of-israel.md` (the full list of
-term-transfers) and `expl/background/israel/israel-and-the-church.md` (the tension with Jews in
+This session draws on `[The church is part of Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})` (the full list of
+term-transfers) and `[Israel and the church]({{< relref "expl/background/israel/israel-and-the-church" >}})` (the tension with Jews in
 Revelation specifically).
 
 **The mystery of the Gentiles, named directly by Paul.** {{% bible val="Ephesians 3:3-6" link="eph:3,3-6" lang="en" %}} states it plainly: "through the gospel the Gentiles are heirs

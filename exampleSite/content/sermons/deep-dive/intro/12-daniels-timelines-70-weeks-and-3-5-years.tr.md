@@ -27,7 +27,7 @@ etmeden önce bir düzeltmeye ihtiyaç duyduğu yerler konusunda dürüst olaca�
 
 ## Bölüm 1: 70 Hafta
 
-Tam argüman `expl/bible/daniel/the-70-year-weeks.md` dosyasındadır.
+Tam argüman `[70 yıllık haftalar]({{< relref "expl/bible/daniel/the-70-year-weeks" >}})` dosyasındadır.
 
 **"Hafta" burada ne anlama geliyor.** Tanrı her yedinci yılda bir Sabbat yılı emretti
 ({{% bible val="Levililer 25:1-7" link="lev:25,1-7" lang="tr" %}}), ki İsrail bunu hiç gerçekten
@@ -77,7 +77,7 @@ tüm argümanın dayandığı bir kesinlik değil.
 
 ## Bölüm 2: 3,5 Yıl
 
-Tam argüman `expl/bible/daniel/the-secret-of-the-3-5-years.md` dosyasındadır.
+Tam argüman `[3,5 yıl]({{< relref "expl/bible/daniel/the-secret-of-the-3-5-years" >}})` dosyasındadır.
 
 **Matematik.** Vahiy'in 11-13. bölümleri, 30 günlük bir ay varsayarak aynı zaman uzunluğuna
 dönüşen üç farklı ifade kullanır: 1260 gün = 42 ay = "bir vakit, iki vakit ve yarım vakit" = 3,5

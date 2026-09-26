@@ -21,9 +21,9 @@ completely unexpected at the same time.
 ## The Core Teaching
 
 Three source articles feed this session:
-`expl/background/israel/the-day-of-the-lord.md`,
-`expl/background/israel/jesus-and-the-covenant.md`, and
-`expl/background/israel/the-second-exodus.md`.
+`[The day of the Lord and the remnant]({{< relref "expl/background/israel/the-day-of-the-lord" >}})`,
+`[Jesus and the covenant]({{< relref "expl/background/israel/jesus-and-the-covenant" >}})`, and
+`[The second Exodus]({{< relref "expl/background/israel/the-second-exodus" >}})`.
 
 **What the Day of the Lord actually is.** It isn't simply "the end of the world" — it's the day
 that finally delivers what the covenant always promised: judgment on Israel's enemies, the

@@ -21,9 +21,9 @@ titiz kontrolü.
 
 ## Ana Öğreti
 
-Tam yapısal harita `expl/background/structure/the-structure-of-the-book-of-revelation.md`
+Tam yapısal harita `[Vahiy Kitabı’nın yapısı]({{< relref "expl/background/structure/the-structure-of-the-book-of-revelation" >}})`
 dosyasında verilmiştir, sayısal argüman ise
-`expl/background/structure/the-use-of-numbers-in-the-book-of-revelation.md` dosyasında daha
+`[Vahiy Kitabı’nda sayıların kullanımı]({{< relref "expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" >}})` dosyasında daha
 ileri götürülmüştür.
 
 **Genel şekil.** Kitap, Tanrı'nın ne yaptığını ve kiliseden karşılığında ne beklediğini ilan

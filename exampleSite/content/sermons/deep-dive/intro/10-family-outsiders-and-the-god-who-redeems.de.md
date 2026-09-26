@@ -22,7 +22,7 @@ immer wieder den „Erlöser" seines Volkes nennt.
 ## Die Kernlehre
 
 Die vollständige Argumentation findet sich in
-`expl/background/israel/the-role-of-family-in-the-bible.md`.
+`[Die Rolle der Familie]({{< relref "expl/background/israel/the-role-of-family-in-the-bible" >}})`.
 
 **Wie das antike Familiensystem tatsächlich funktionierte.** Die Gesellschaft funktionierte von
 unten nach oben: Familie innerhalb der Sippe, Sippe innerhalb des Stammes, Stamm innerhalb der

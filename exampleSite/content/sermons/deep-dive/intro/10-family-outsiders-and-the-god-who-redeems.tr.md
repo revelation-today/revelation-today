@@ -21,7 +21,7 @@ olarak adlandırmaya devam etmesinin nedenini kurar.
 
 ## Ana Öğreti
 
-Tam argüman `expl/background/israel/the-role-of-family-in-the-bible.md` dosyasındadır.
+Tam argüman `[Kutsal Kitapta ailenin rolü]({{< relref "expl/background/israel/the-role-of-family-in-the-bible" >}})` dosyasındadır.
 
 **Antik aile sisteminin gerçekte nasıl işlediği.** Toplum aşağıdan yukarıya işliyordu: klan
 içinde aile, boy içinde klan, ulus içinde boy. Hangi aileye ait olduğunuz, o ailede hangi rolü

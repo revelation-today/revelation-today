@@ -21,10 +21,10 @@ tersine çevirir. Bu ters çevirme, Çıkış'ı doğru okumanın anahtarıdır 
 ## Ana Öğreti
 
 Bu oturum dört kaynak makaleden yararlanmaktadır:
-`expl/bible/exodus/the-story-before-the-exodus.md`,
-`expl/bible/exodus/the-birth-of-moses.md`,
-`expl/bible/exodus/the-hardening-of-pharaohs-heart.md` ve
-`expl/bible/exodus/the-plagues-in-egypt.md`.
+`[Mısır’dan Çıkıştan Önceki Hikaye]({{< relref "expl/bible/exodus/the-story-before-the-exodus" >}})`,
+`[Musa’nın hikayesi]({{< relref "expl/bible/exodus/the-birth-of-moses" >}})`,
+`[Firavun’un yüreğinin katılaşması]({{< relref "expl/bible/exodus/the-hardening-of-pharaohs-heart" >}})` ve
+`[Mısır’ın Başına Gelen Belalar]({{< relref "expl/bible/exodus/the-plagues-in-egypt" >}})`.
 
 **Tarihsel arka plan, kısaca.** İsrail'in öyküsü büyük olasılıkla Hiksoslar döneminde kesişiyor —
 MÖ 1720 civarında Mısır'ın doğu Nil Deltası'nın kontrolünü ele geçiren, MÖ 1550 civarında da

@@ -24,7 +24,7 @@ Altıncı ve yedinci mühür arasında, daha fazla yargı düşmeden önce Tanr�
 mühürlemek üzere bir melek gönderilir (Vahiy 7:1-8). Bu sahne, Hezekiel 9'u bilinçli olarak
 yankılar; orada bir melek, Yeruşalim'in günahına yas tutanların alınlarını işaretler, ondan sonra
 ikinci bir melek, tapınağın kendisinden başlayarak işaretsiz kalan herkesi vurur (bkz.
-expl/content/army/the-144000.md). Buradaki mühürleme yalnızca gelmekte olandan korunmakla ilgili
+[144.000]({{< relref "expl/content/army/the-144000" >}})). Buradaki mühürleme yalnızca gelmekte olandan korunmakla ilgili
 değildir — aynı zamanda Tanrı'nın kötü dediği şeyle uzlaşmama konusunda bir hatırlatmadır. Bu
 koruyucu mühür, insanların o kadar eziyet çekip ölmeyi özleyecekleri beşinci boruya kadar
 (bir sonraki oturumda ele alınacak) tam olarak etkinleşmez.

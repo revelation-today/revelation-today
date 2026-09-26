@@ -31,9 +31,9 @@ makna dalam bahasa Inggris — cincin pemecah sandi, kode-kode rahasia, bagan-ba
 binatang-binatang dan garis waktu. Itu bukan makna yang dipahami pembaca pertama Yohanes. Kata ini
 menyebut sebuah genre sastra Yahudi dan Kristen mula-mula yang menggunakan penglihatan simbolis
 yang hidup untuk menyingkapkan realitas rohani di balik peristiwa-peristiwa biasa, justru supaya
-pembaca bertindak berbeda sekarang. Lihat expl/content/vision/setting-the-foundation.md dan
+pembaca bertindak berbeda sekarang. Lihat [Meletakkan Dasar]({{< relref "expl/content/vision/setting-the-foundation" >}}) dan
 artikel latar belakang tentang genre apokaliptik
-(expl/background/literature/the-book-of-revelation-how-to-read-it.md) untuk pembahasan yang lebih
+([Bagaimana Saya Membaca Kitab Wahyu?]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}})) untuk pembahasan yang lebih
 lengkap. Ini layak direnungkan bersama kelompokmu, karena hal ini membingkai ulang seluruh sisa
 studimu: Kitab Wahyu bukan pertama-tama sebuah teka-teki yang harus dipecahkan, melainkan sebuah
 panggilan untuk ditaati.

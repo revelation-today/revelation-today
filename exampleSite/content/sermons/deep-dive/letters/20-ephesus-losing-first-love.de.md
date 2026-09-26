@@ -22,7 +22,7 @@ verurteilt wird.
 Ephesus war das Kronjuwel der sieben Gemeinden — eine bedeutende Hafenstadt, Heimat des Artemis-
 Tempels (eines der großen Weltwunder der Antike), und historisch wahrscheinlich die größte der
 sieben angesprochenen Gemeinden. Jesus beginnt damit, echte, substanzielle Stärken zu bestätigen
-(Offenbarung 2,1-3, siehe expl/content/letters/the-letter-to-the-church-in-ephesus.md für den
+(Offenbarung 2,1-3, siehe [Das Schreiben an Ephesus]({{< relref "expl/content/letters/the-letter-to-the-church-in-ephesus" >}}) für den
 vollständigen Hintergrund):
 
 - Harte Arbeit und Ausdauer, aktiver Widerstand gegen den kulturellen Sog der Artemis-Verehrung —

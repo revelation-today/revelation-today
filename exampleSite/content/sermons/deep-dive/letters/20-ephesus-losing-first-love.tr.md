@@ -21,7 +21,7 @@ değerlendirme listesinin övgüyle karşılayacağı her şeyi yapan, yine de k
 Efes, yedi kilisenin gözdesiydi — büyük bir liman kenti, antik dünyanın büyük harikalarından biri
 olan Artemis Tapınağı'nın evi ve tarihsel olarak muhtemelen hitap edilen yedi cemaatin en
 büyüğüydü. İsa, gerçek, önemli güçleri onaylayarak açılır (Vahiy 2:1-3, tam arka plan için
-expl/content/letters/the-letter-to-the-church-in-ephesus.md'ye bakın):
+[Efes’teki kiliseye yazılan mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-ephesus" >}})'ye bakın):
 
 - Sıkı çalışma ve sebat; Artemis tapınmasının kültürel çekişine etkin biçimde direnmek — bu
   tapınma öylesine kök salmıştı ki karşı çıkıldığında kent çapında bir isyana yol açmıştı

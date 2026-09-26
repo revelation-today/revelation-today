@@ -21,8 +21,8 @@ Tanrı ve fahişenin yansıtılmış bir üçlemesi.
 ## Ana Öğreti
 
 Bu oturum iki kaynak makaleyi bir araya getirir:
-`expl/background/literature/literally-or-symbolic.md`, üç "sır" referansını ve Daniel'le
-bağlantısını tanımlar, ve `expl/background/israel/the-church-is-part-of-israel.md`, üçünün
+`[Gerçek veya sembolik]({{< relref "expl/background/literature/literally-or-symbolic" >}})`, üç "sır" referansını ve Daniel'le
+bağlantısını tanımlar, ve `[Kilise İsrail’in bir parçasıdır]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})`, üçünün
 ilkini tam olarak açar.
 
 **Neden üç sır ve neden burada.** 3. oturumda gördüğümüz gibi, Vahiy'deki "sır" kelimesi
@@ -46,7 +46,7 @@ bir varlık değil, İsrail'in kendi vaatlerinin kendi amaçlanan hedefine ulaş
 İsrail'e verdiği neredeyse her unvan — sevgili, Tanrı'nın oğlu, gelin, kahinler krallığı, tapınak,
 bağ, değerli mülkiyet — şimdi terim terim, doğrudan kiliseye uygulanır. Bu terim-aktarımlarının
 tam listesi için, her biri bir Eski Ahit metninden Yeni Ahit uygulamasına kadar izlenmiş olarak,
-bkz. `expl/background/israel/the-church-is-part-of-israel.md`.
+bkz. `[Kilise İsrail’in bir parçasıdır]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})`.
 
 **İkinci sır: Tanrı.** {{% bible val="Vahiy 10:7" link="rev:10,7" lang="tr" %}}'de, "Tanrı'nın
 sırrı," yedinci borazanda "tamamlanmak" üzere ilan edilir — bu, Tanrı'nın dünya için uzun süredir

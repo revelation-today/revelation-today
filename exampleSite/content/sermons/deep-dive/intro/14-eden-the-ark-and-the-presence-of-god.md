@@ -20,8 +20,8 @@ Jerusalem.
 
 ## The Core Teaching
 
-This session draws on `expl/bible/creation/the-temple-and-the-presence-of-god.md` and
-`expl/bible/creation/the-story-of-uzzah.md`.
+This session draws on `[The “temple” and the presence of God]({{< relref "expl/bible/creation/the-temple-and-the-presence-of-god" >}})` and
+`[The story of Uzzah]({{< relref "expl/bible/creation/the-story-of-uzzah" >}})`.
 
 **It starts in the Garden.** God creates humanity and lives in real fellowship with them,
 {{% bible val="giving them a garden to tend" link="gen:2,8-15" lang="en" %}} and

@@ -44,7 +44,7 @@ edeceği iki Eski Antlaşma imgesini birleştirir:
 Daniel 10:7'yi kaynak gösteriyor — ama 10:7 aslında görümü görmeyen, dehşete kapılmış yanındaki
 kişileri tanımlıyor, meleğin görünüşünü değil. Alevli gözlerin ve tunç uzuvların tanımı Daniel
 10:5-6'dadır. Küçük bir nokta, ama metne kendiniz geri dönerseniz doğru bilmeye değer (bkz.
-expl/content/vision/the-vision.md).
+[Vizyon]({{< relref "expl/content/vision/the-vision" >}})).
 
 Bu imgelerin birleşmesinin etkisi: Yuhanna'nın İsa görümü, Eskiden Beri Var Olan ile "insanoğlu"
 figürünü tek bir kişide kaynaştırıyor — İsa'nın kim olduğu hakkında çarpıcı, ölçülü bir iddia.

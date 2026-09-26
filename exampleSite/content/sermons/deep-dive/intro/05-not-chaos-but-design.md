@@ -22,9 +22,9 @@ control.
 ## The Core Teaching
 
 The full structural map is laid out in
-`expl/background/structure/the-structure-of-the-book-of-revelation.md`, with the numerical
+`[The Structure of the Book of Revelation]({{< relref "expl/background/structure/the-structure-of-the-book-of-revelation" >}})`, with the numerical
 argument developed further in
-`expl/background/structure/the-use-of-numbers-in-the-book-of-revelation.md`.
+`[The use of numbers in the Book of Revelation]({{< relref "expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" >}})`.
 
 **The overall shape.** The book opens by declaring what God has done and what He expects from
 the church in response: be light, and depend on Him (chapter 1). From there the seven churches

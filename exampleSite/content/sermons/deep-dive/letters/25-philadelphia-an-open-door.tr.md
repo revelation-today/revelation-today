@@ -20,7 +20,7 @@ göreceğimiz gibi, dikkat çekici biçimde gösterişsizdir: sabırlı sebat, b
 
 Filadelfya, yedi kentin en genciydi; adını II. Attalos "Philadelphus"tan ("kardeş seven") almıştı
 ve bağcılık için ideal ticaret yollarının kesiştiği bir noktada yer alıyordu (bkz.
-expl/content/letters/the-letter-to-the-church-in-philadelphia.md). Ayrıca bir fay hattı üzerinde
+[Filadelfiya’daki kiliseye mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-philadelphia" >}})). Ayrıca bir fay hattı üzerinde
 oturuyordu; depremlerle tekrar tekrar zarar görüyordu — büyük bir depremden sonra imparator yeniden
 inşayı finanse etti ve vergi indirimi sağladı; daha sonra Roma yanlısı bu kent, sonraki bir
 imparator tahıl için tarım arazisi açmak amacıyla bağlarını kısıtlayınca ihanete uğramış hissetti.
@@ -73,7 +73,7 @@ bu metinden doğrudan bir sıkıntı-öncesi kaçırılış okuduğu türden bir
 farklı bir yöne işaret ediyor — sınanma içinde alınma değil, korunma. Bu, samimi Kutsal Yazılar
 okurları arasında gerçek bir görüş ayrılığı noktası olarak açıkça adlandırılmaya değer, üzerinden
 hızla geçilecek bir şey değil; kaçırılış sorusunun serinin başka bir yerindeki (52. oturum) daha
-tam işlenişi için ayrıca bkz. topics/others/the-rapture.md.
+tam işlenişi için ayrıca bkz. [Göğe alınma]({{< relref "expl/topics/others/the-rapture" >}}).
 
 ## Tartışma Soruları
 

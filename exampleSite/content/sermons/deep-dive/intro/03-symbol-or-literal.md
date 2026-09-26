@@ -21,7 +21,7 @@ own vocabulary for how it tells us to interpret it.
 
 ## The Core Teaching
 
-The fullest version of this argument is in `expl/background/literature/literally-or-symbolic.md`
+The fullest version of this argument is in `[Literally or symbolic]({{< relref "expl/background/literature/literally-or-symbolic" >}})`
 — worth reading in full if your group wants to trace the Greek argument in detail.
 
 **There's no one-size-fits-all rule.** Something can be symbolic and still literally happen —

@@ -29,8 +29,8 @@ bir iş görüyor.
 zaman çizelgeli tablolar. Bu, sözcüğün Yuhanna'nın ilk okurları için taşıdığı anlam değildi. Bu
 sözcük, canlı sembolik görümler kullanarak sıradan olayların ardındaki ruhsal gerçekliği açığa
 çıkaran, tam olarak okurların şimdi farklı davranmasını sağlamak için yazılan bütün bir Yahudi ve
-erken Hristiyan edebiyatı türünü adlandırır. Daha geniş bir tartışma için expl/content/vision/setting-the-foundation.md ve kıyamet türü üzerine arka plan makalesine bakın
-(expl/background/literature/the-book-of-revelation-how-to-read-it.md). Bunun üzerinde grup olarak
+erken Hristiyan edebiyatı türünü adlandırır. Daha geniş bir tartışma için [Temelin oluşturulması]({{< relref "expl/content/vision/setting-the-foundation" >}}) ve kıyamet türü üzerine arka plan makalesine bakın
+([Vahiy kitabı: Nasıl okunmalı?]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}})). Bunun üzerinde grup olarak
 durmaya değer, çünkü bu, çalışmanızın geri kalanının tamamını yeniden çerçeveliyor: Vahiy,
 öncelikle çözülmesi gereken bir bilmece değil, itaat edilmesi gereken bir çağrıdır.
 

@@ -28,7 +28,7 @@ mengandung dan dalam keluhan dan penderitaannya untuk melahirkan ia berteriak ke
 tampaklah suatu tanda lain di langit: Lihatlah, seekor naga merah padam yang besar... Dan naga itu
 berdiri di hadapan perempuan yang hendak melahirkan itu, untuk menelan Anaknya, apabila Anak itu
 lahir" (Wahyu 12:1-5). Anak itu lahir, direnggut ke takhta Allah, dan naga itu ditinggalkan dengan
-tangan kosong. (Pembahasan lengkap dalam expl/content/jesus/a-different-christmas-story.md.)
+tangan kosong. (Pembahasan lengkap dalam [Kelahiran Yesus dalam Kitab Wahyu]({{< relref "expl/content/jesus/a-different-christmas-story" >}}).)
 
 Dibaca dingin, tanpa mengetahui bagaimana akhirnya, adegan ini tampak tanpa harapan: seorang
 perempuan dalam posisi paling rentan yang dapat dibayangkan, menghadapi seorang musuh yang

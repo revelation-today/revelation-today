@@ -21,10 +21,10 @@ this same story's imagery.
 ## The Core Teaching
 
 This session draws on four source articles:
-`expl/bible/exodus/the-story-before-the-exodus.md`,
-`expl/bible/exodus/the-birth-of-moses.md`,
-`expl/bible/exodus/the-hardening-of-pharaohs-heart.md`, and
-`expl/bible/exodus/the-plagues-in-egypt.md`.
+`[The story before the Exodus]({{< relref "expl/bible/exodus/the-story-before-the-exodus" >}})`,
+`[The story of Moses]({{< relref "expl/bible/exodus/the-birth-of-moses" >}})`,
+`[The hardening of Pharaoh’s heart]({{< relref "expl/bible/exodus/the-hardening-of-pharaohs-heart" >}})`, and
+`[The plagues in Egypt]({{< relref "expl/bible/exodus/the-plagues-in-egypt" >}})`.
 
 **The historical backdrop, briefly.** Israel's story likely intersects with the Hyksos period —
 Semitic peoples from Canaan who gained control of the eastern Nile Delta by around 1720 BC before

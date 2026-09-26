@@ -23,7 +23,7 @@ itu. Malam ini kita bertanya apa yang menghubungkan kedua fakta itu.
 Smirna terletak sekitar 70 km di utara Efesus di sebuah pelabuhan strategis, dan pada saat Kitab
 Wahyu ditulis, kota itu telah menjadi pusat besar penyembahan kaisar — sebuah bait bagi kaisar
 telah berdiri di sana dalam ingatan hidup penerima surat ini (lihat
-expl/content/letters/the-letter-to-the-church-in-smyrna.md untuk detail sejarahnya, termasuk
+[Surat kepada Smirna]({{< relref "expl/content/letters/the-letter-to-the-church-in-smyrna" >}}) untuk detail sejarahnya, termasuk
 sebuah koreksi tanggal yang diperlukan di bawah). Ke dalam latar itu, Yesus memperkenalkan
 diri-Nya sebagai "Yang Awal dan Yang Akhir, yang telah mati dan yang hidup kembali" (Wahyu 2:8) —
 tepat penghiburan yang dibutuhkan jemaat ini, karena mereka berada di bawah tekanan dari segala

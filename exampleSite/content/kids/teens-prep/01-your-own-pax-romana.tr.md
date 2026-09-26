@@ -8,7 +8,7 @@ expl: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelati
 next: /kids/teens-prep/02-reading-revelation-right
 ---
 
-> **Okunacak hikâye:** [The Deal Everyone Took]({{< relref "story/teens/tour#background" >}})  
+> **Okunacak hikâye:** [Herkesin Kabul Ettiği Teklif (Arka Plan)]({{< relref "story/teens/tour#background" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 1:9" link="rev:1,9" lang="tr" %}}
 
 ## Kimsenin yüksek sesle söylemediği anlaşma

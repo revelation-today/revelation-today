@@ -22,9 +22,9 @@ sebuah triptik yang bercermin antara jemaat, Allah, dan sundal itu.
 ## Pengajaran Inti
 
 Sesi ini menyatukan dua artikel sumber:
-`expl/background/literature/literally-or-symbolic.md`, yang mengidentifikasi ketiga rujukan
+`[Harfiah atau simbolis?]({{< relref "expl/background/literature/literally-or-symbolic" >}})`, yang mengidentifikasi ketiga rujukan
 "rahasia" dan hubungannya dengan Daniel, dan
-`expl/background/israel/the-church-is-part-of-israel.md`, yang membahas yang pertama dari ketiganya
+`[Gereja sebagai Bagian dari Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})`, yang membahas yang pertama dari ketiganya
 secara lengkap.
 
 **Mengapa tiga rahasia, dan mengapa di sini.** Sebagaimana kita lihat pada sesi 3, kata "rahasia"
@@ -53,7 +53,7 @@ terpisah yang baru diciptakan untuk menggantikan Israel, melainkan janji-janji I
 mencapai tujuannya yang semula. Hampir setiap gelar yang diberikan Perjanjian Lama kepada Israel —
 yang dikasihi, anak Allah, mempelai, kerajaan imam, bait suci, kebun anggur, harta kesayangan —
 kini diterapkan langsung kepada jemaat, istilah demi istilah. Lihat
-`expl/background/israel/the-church-is-part-of-israel.md` untuk daftar lengkap pemindahan istilah
+`[Gereja sebagai Bagian dari Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})` untuk daftar lengkap pemindahan istilah
 ini, masing-masing ditelusuri dari sebuah teks Perjanjian Lama hingga penerapannya dalam Perjanjian
 Baru.
 

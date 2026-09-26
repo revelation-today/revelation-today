@@ -15,7 +15,7 @@ Ingatlah kapan terakhir kali kelompok Anda mendoakan seorang teman, tetangga, at
 
 ## Menata adegan: mengapa kisah ini berhenti sejenak di sini
 
-Pasal 10 dan 11 membentuk sebuah sisipan yang disengaja. Sangkakala keenam sudah berbunyi sejak 9:13; yang ketujuh baru berbunyi pada 11:15. Yohanes menahan aksi selama dua pasal penuh, dan isi yang disisipkannya di sana adalah intinya: kesaksian jemaat, bukan penghakiman lebih lanjut, adalah yang dipakai Allah untuk memanggil bangsa-bangsa kepada diri-Nya. (Lihat expl/content/scroll/the-little-scroll.md untuk uraian lengkapnya.)
+Pasal 10 dan 11 membentuk sebuah sisipan yang disengaja. Sangkakala keenam sudah berbunyi sejak 9:13; yang ketujuh baru berbunyi pada 11:15. Yohanes menahan aksi selama dua pasal penuh, dan isi yang disisipkannya di sana adalah intinya: kesaksian jemaat, bukan penghakiman lebih lanjut, adalah yang dipakai Allah untuk memanggil bangsa-bangsa kepada diri-Nya. (Lihat [Kitab Kecil dalam Wahyu]({{< relref "expl/content/scroll/the-little-scroll" >}}) untuk uraian lengkapnya.)
 
 ## Malaikat dengan gulungan kitab — dan seberapa kuat kaitannya dengan Yesus?
 

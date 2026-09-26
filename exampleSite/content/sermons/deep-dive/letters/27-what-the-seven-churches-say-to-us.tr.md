@@ -15,7 +15,7 @@ Yedi sandalyeyi (ya da yedi kağıt parçasını) yan yana dizin, Efes'ten Laodi
 
 ## Ana öğreti
 
-Yedi mektuptan önce Yuhanna, 1. bölümdeki görümü kaydeder — kilise, kandillikler ve yıldızlar olarak, ışık olmak üzere ama yalnızca İsa'ya tam bağımlılık yoluyla (bkz. 18. oturum ve expl/content/letters/the-letters-to-the-seven-churches.md). O görüm, yedi kilisenin her birinin ölçüldüğü standarttır. Her mektup aynı temel örüntüyü izler: 1. bölümdeki görümden beslenen bir hitap, gerçek güçlü yönler için övgü, belirli başarısızlıklarla yüzleşme ve "galip gelene" verilen bir vaat.
+Yedi mektuptan önce Yuhanna, 1. bölümdeki görümü kaydeder — kilise, kandillikler ve yıldızlar olarak, ışık olmak üzere ama yalnızca İsa'ya tam bağımlılık yoluyla (bkz. 18. oturum ve [Yedi kiliseye gönderilen mektuplar]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})). O görüm, yedi kilisenin her birinin ölçüldüğü standarttır. Her mektup aynı temel örüntüyü izler: 1. bölümdeki görümden beslenen bir hitap, gerçek güçlü yönler için övgü, belirli başarısızlıklarla yüzleşme ve "galip gelene" verilen bir vaat.
 
 **Önerilen simetri.** Bu yedi mektubu okumanın bir yolu — Vahiy yorumcularının birçoğu tarafından savunulan, ama literatürdeki tek yapısal öneri olmayan bir okuma — bunların kasıtlı olarak ayna gibi simetrik bir düzenleme oluşturduğudur:
 

@@ -15,7 +15,7 @@ Put seven chairs (or seven pieces of paper) in a row, labeled Ephesus through La
 
 ## Core teaching
 
-Before the seven letters, John records the vision from chapter 1 — the church as lampstands and stars, meant to be light, but only ever through total dependence on Jesus (see session 18, and expl/content/letters/the-letters-to-the-seven-churches.md). That vision is the standard every one of the seven churches is measured against. Each letter follows the same basic pattern: an address drawing on the chapter 1 vision, praise for genuine strengths, confrontation over specific failures, and a promise "to the one who overcomes."
+Before the seven letters, John records the vision from chapter 1 — the church as lampstands and stars, meant to be light, but only ever through total dependence on Jesus (see session 18, and [The letters to the seven churches]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})). That vision is the standard every one of the seven churches is measured against. Each letter follows the same basic pattern: an address drawing on the chapter 1 vision, praise for genuine strengths, confrontation over specific failures, and a promise "to the one who overcomes."
 
 **The proposed symmetry.** One way of reading these seven letters — defended by many interpreters of Revelation, though not the only structural proposal in the literature — is that they form a deliberate mirrored arrangement:
 

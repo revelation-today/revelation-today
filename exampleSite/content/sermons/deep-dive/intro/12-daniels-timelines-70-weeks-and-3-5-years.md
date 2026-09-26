@@ -28,7 +28,7 @@ correction before we build anything on it.
 
 ## Part 1: The 70 Weeks
 
-The full argument is in `expl/bible/daniel/the-70-year-weeks.md`.
+The full argument is in `[The 70 year weeks]({{< relref "expl/bible/daniel/the-70-year-weeks" >}})`.
 
 **What a "week" means here.** God commanded a Sabbatical year every seventh year
 ({{% bible val="Leviticus 25:1-7" link="lev:25,1-7" lang="en" %}}), which Israel never actually
@@ -77,7 +77,7 @@ not a certainty the whole argument depends on.
 
 ## Part 2: The 3.5 Years
 
-The full argument is in `expl/bible/daniel/the-secret-of-the-3-5-years.md`.
+The full argument is in `[The secret of the 3,5 years]({{< relref "expl/bible/daniel/the-secret-of-the-3-5-years" >}})`.
 
 **The math.** Revelation's chapters 11-13 use three different expressions for what turns out to
 be the same length of time, assuming a 30-day month: 1260 days = 42 months = "time, two times,

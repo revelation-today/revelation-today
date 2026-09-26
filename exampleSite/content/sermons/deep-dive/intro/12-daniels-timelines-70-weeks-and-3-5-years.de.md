@@ -29,7 +29,7 @@ etwas aufbauen.
 
 ## Teil 1: Die 70 Wochen
 
-Die vollständige Argumentation findet sich in `expl/bible/daniel/the-70-year-weeks.md`.
+Die vollständige Argumentation findet sich in `[Das Geheimnis der 70 Jahrwochen]({{< relref "expl/bible/daniel/the-70-year-weeks" >}})`.
 
 **Was hier „Woche" bedeutet.** Gott gebot ein Sabbatjahr in jedem siebten Jahr
 ({{% bible val="3. Mose 25,1-7" link="lev:25,1-7" lang="de" %}}), das Israel nie tatsächlich hielt.
@@ -82,7 +82,7 @@ plausibler, sorgfältig durchdachter Vorschlag, keine Gewissheit, von der das ga
 
 ## Teil 2: Die 3,5 Jahre
 
-Die vollständige Argumentation findet sich in `expl/bible/daniel/the-secret-of-the-3-5-years.md`.
+Die vollständige Argumentation findet sich in `[Die dreieinhalb Jahre der Endzeit]({{< relref "expl/bible/daniel/the-secret-of-the-3-5-years" >}})`.
 
 **Die Rechnung.** Die Kapitel 11-13 der Offenbarung verwenden drei verschiedene Ausdrücke für das,
 was sich als dieselbe Zeitspanne herausstellt, unter Annahme eines 30-Tage-Monats: 1260 Tage =

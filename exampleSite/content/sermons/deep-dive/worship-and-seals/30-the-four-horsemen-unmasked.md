@@ -15,7 +15,7 @@ Ask: "Have you ever been taken in by something that looked genuinely good — a 
 
 ## Core teaching
 
-The Lamb opens the first four seals, and four horses ride out in response to each living creature's call: "Come!" (Revelation 6:1-8; see expl/content/seals/the-mystery-of-the-four-horse-men.md for the full argument). White horse and rider with a bow and a crown, "riding out as a conqueror bent on conquest." Fiery red horse, taking peace from the earth. Black horse, holding scales, amid a cry about famine prices. Pale horse, ridden by Death, with Hades following.
+The Lamb opens the first four seals, and four horses ride out in response to each living creature's call: "Come!" (Revelation 6:1-8; see [The mystery of the four horse men]({{< relref "expl/content/seals/the-mystery-of-the-four-horse-men" >}}) for the full argument). White horse and rider with a bow and a crown, "riding out as a conqueror bent on conquest." Fiery red horse, taking peace from the earth. Black horse, holding scales, amid a cry about famine prices. Pale horse, ridden by Death, with Hades following.
 
 The background is Zechariah's four horses of different colors patrolling the earth (Zechariah 1:8-15, 6:1-8) and Ezekiel's four plagues — sword, famine, wild beasts, and plague (Ezekiel 14:12-23). Three of the four riders are unambiguous: war, famine, death. The genuine puzzle is the first.
 

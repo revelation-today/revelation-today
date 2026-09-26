@@ -23,7 +23,7 @@ kosakata Wahyu sendiri tentang bagaimana kitab ini memberi tahu kita cara menafs
 ## Pengajaran Inti
 
 Versi paling lengkap dari argumen ini ada di
-`expl/background/literature/literally-or-symbolic.md` — layak dibaca secara penuh jika kelompok
+`[Harfiah atau simbolis?]({{< relref "expl/background/literature/literally-or-symbolic" >}})` — layak dibaca secara penuh jika kelompok
 Anda ingin menelusuri argumen bahasa Yunaninya secara rinci.
 
 **Tidak ada aturan satu-untuk-semua.** Sesuatu bisa bersifat simbolis dan tetap benar-benar terjadi

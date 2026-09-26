@@ -23,7 +23,7 @@ Pergamus telah menjadi kekuatan regional penting selama empat abad sebelum Kitab
 abad pertama kota itu menjadi etalase kesetiaan kepada Roma — rumah bagi bait pertama yang
 dibangun di Asia Kecil untuk menghormati seorang kaisar (29 SM), berdampingan dengan konsentrasi
 padat bait-bait bagi Zeus, Atena, Dionisos, dan Asklepios (lihat
-expl/content/letters/the-letter-to-the-church-in-pergamon.md). Yesus menyebutnya tempat "takhta
+[Surat kepada Pergamus]({{< relref "expl/content/letters/the-letter-to-the-church-in-pergamon" >}})). Yesus menyebutnya tempat "takhta
 Iblis berada" (Wahyu 2:13) — hampir pasti sebuah gambaran tentang betapa padatnya penyembahan
 berhala yang menjenuhi kehidupan sipil di sana, meskipun para ahli berbeda pendapat apakah satu
 lokasi tertentu (Mezbah Besar Zeus, bait kekaisaran, atau kultus penyembuhan Asklepios) yang
@@ -42,7 +42,7 @@ percabulan, tampaknya melalui partisipasi dalam pesta-pesta serikat kota yang te
 penyembahan berhala.
 
 **Hubungan dengan Bileam.** Kisah Perjanjian Lama tentang Bileam (lihat
-expl/bible/keyword/the-story-of-balaam.md) menunjukkan bahwa ancaman paling mematikan bagi umat
+[Kisah Bileam]({{< relref "expl/bible/keyword/the-story-of-balaam" >}})) menunjukkan bahwa ancaman paling mematikan bagi umat
 Allah jarang datang melalui perlawanan langsung — Bileam tidak bisa mengutuki Israel ketika ia
 mencobanya secara langsung. Ancaman itu datang melalui godaan menuju kompromi, ketika
 kepemimpinan gagal mempertahankan garis yang jelas. Itulah diagnosis sesungguhnya di sini: masalah

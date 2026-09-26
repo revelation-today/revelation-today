@@ -18,8 +18,8 @@ Balaam.
 
 ## The Core Teaching
 
-This session draws on `expl/bible/keyword/the-origin-of-babel.md` and
-`expl/bible/keyword/the-story-of-balaam.md` — closing out our Part 0 introduction to Revelation
+This session draws on `[The origin of Babel]({{< relref "expl/bible/keyword/the-origin-of-babel" >}})` and
+`[The story of Balaam]({{< relref "expl/bible/keyword/the-story-of-balaam" >}})` — closing out our Part 0 introduction to Revelation
 with two Old Testament warnings the book depends on directly.
 
 **Babel: humanity's attempt to build a name for itself.** After the flood, humanity settles in

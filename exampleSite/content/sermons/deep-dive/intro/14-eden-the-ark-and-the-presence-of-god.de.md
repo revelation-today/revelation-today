@@ -20,8 +20,8 @@ zum Neuen Jerusalem zieht.
 
 ## Die zentrale Lehre
 
-Diese Einheit greift auf `expl/bible/creation/the-temple-and-the-presence-of-god.md` und
-`expl/bible/creation/the-story-of-uzzah.md` zurück.
+Diese Einheit greift auf `[Der Tempel und die Gegenwart Gottes]({{< relref "expl/bible/creation/the-temple-and-the-presence-of-god" >}})` und
+`[Die Geschichte von Usa]({{< relref "expl/bible/creation/the-story-of-uzzah" >}})` zurück.
 
 **Es beginnt im Garten.** Gott erschafft die Menschheit und lebt in echter Gemeinschaft mit ihr,
 {{% bible val="gibt ihr einen Garten zur Pflege" link="gen:2,8-15" lang="de" %}} und

@@ -22,7 +22,7 @@ vaka çalışmasıdır.
 Bergama, Vahiy'den dört yüzyıl önce önemli bir bölgesel güçtü ve birinci yüzyıla gelindiğinde
 Roma'ya sadakatin bir vitrini hâline gelmişti — Küçük Asya'da bir imparatoru onurlandırmak için
 inşa edilen ilk tapınağın (MÖ 29) evi, yanı sıra Zeus, Athena, Dionysos ve Asklepios'a yoğun bir
-tapınak yoğunluğuna sahipti (bkz. expl/content/letters/the-letter-to-the-church-in-pergamon.md).
+tapınak yoğunluğuna sahipti (bkz. [Bergama’daki kiliseye mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-pergamon" >}})).
 İsa buraya "Şeytan'ın tahtının bulunduğu yer" (Vahiy 2:13) der — bu neredeyse kesinlikle sivil
 yaşamı doyuran o yoğun putperest tapınmayı tanımlıyor, gerçi bilginler belirli bir yerin (Büyük
 Zeus Sunağı, imparator tapınağı ya da Asklepios şifa kültü) esas olarak kastedilip kastedilmediği
@@ -38,7 +38,7 @@ yıkılmadan atlattılar. Durumları muhtemelen İzmir'inkinden bile zordu.
 kurbanlarından yeme ve zina etme izni; görünüşe göre, putperest tapınmaya bağlı kent loncası
 şölenlerine katılım yoluyla.
 
-**Balam bağlantısı.** Eski Antlaşma'daki Balam öyküsü (bkz. expl/bible/keyword/the-story-of-balaam.md), Tanrı'nın halkına yönelik en ölümcül tehditlerin nadiren doğrudan muhalefetten geldiğini
+**Balam bağlantısı.** Eski Antlaşma'daki Balam öyküsü (bkz. [Balam’ın öyküsü]({{< relref "expl/bible/keyword/the-story-of-balaam" >}})), Tanrı'nın halkına yönelik en ölümcül tehditlerin nadiren doğrudan muhalefetten geldiğini
 gösterir — Balam doğrudan denediğinde İsrail'i lanetleyemedi. Bunlar liderlik net bir çizgi
 çizmeyi başaramadığında uzlaşmaya baştan çıkarma yoluyla gelir. Buradaki gerçek tanı budur:
 Bergama'nın sorunu dışsal zulüm değil (bunu atlatabildiklerini kanıtladılar) — makul gelen ve

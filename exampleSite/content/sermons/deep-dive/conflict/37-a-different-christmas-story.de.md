@@ -15,7 +15,7 @@ Stellt euch die Weihnachtsgeschichte vor, die eure Gruppe jeden Dezember hört: 
 
 ## Der Text selbst
 
-"Ein großes Zeichen erschien am Himmel: eine Frau, bekleidet mit der Sonne, und der Mond unter ihren Füßen und auf ihrem Haupt eine Krone von zwölf Sternen. Sie war schwanger und schrie vor Geburtswehen und Schmerzen. Dann erschien ein anderes Zeichen am Himmel: ein großer, roter Drache ... Der Drache stand vor der Frau, die im Begriff war zu gebären, um ihr Kind zu verschlingen, sobald es geboren war" (Offenbarung 12,1-5). Das Kind wird geboren, zum Thron Gottes emporgerissen, und der Drache geht leer aus. (Vollständige Behandlung in expl/content/jesus/a-different-christmas-story.md.)
+"Ein großes Zeichen erschien am Himmel: eine Frau, bekleidet mit der Sonne, und der Mond unter ihren Füßen und auf ihrem Haupt eine Krone von zwölf Sternen. Sie war schwanger und schrie vor Geburtswehen und Schmerzen. Dann erschien ein anderes Zeichen am Himmel: ein großer, roter Drache ... Der Drache stand vor der Frau, die im Begriff war zu gebären, um ihr Kind zu verschlingen, sobald es geboren war" (Offenbarung 12,1-5). Das Kind wird geboren, zum Thron Gottes emporgerissen, und der Drache geht leer aus. (Vollständige Behandlung in [Die Geburt Jesu in der Offenbarung]({{< relref "expl/content/jesus/a-different-christmas-story" >}}).)
 
 Kalt gelesen, ohne zu wissen, wie es endet, sieht diese Szene hoffnungslos aus: eine Frau in der verletzlichsten denkbaren Position, einem Feind gegenüber, der für nichts als Zerstörung gebaut ist. Diese Diskrepanz – Hilflosigkeit gegenüber scheinbarer Unbesiegbarkeit – ist der Motor des gesamten Buches, nicht nur dieses Kapitels.
 

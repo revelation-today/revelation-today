@@ -21,7 +21,7 @@ dağarcığını, onu nasıl yorumlamamız gerektiğini söylediği şekliyle ok
 
 ## Ana Öğreti
 
-Bu argümanın en kapsamlı hali `expl/background/literature/literally-or-symbolic.md` dosyasında —
+Bu argümanın en kapsamlı hali `[Gerçek veya sembolik]({{< relref "expl/background/literature/literally-or-symbolic" >}})` dosyasında —
 grubunuz Yunanca argümanı ayrıntılı olarak takip etmek isterse tamamını okumaya değer.
 
 **Her duruma uyan tek bir kural yok.** Bir şey hem sembolik hem de gerçekten gerçekleşmiş

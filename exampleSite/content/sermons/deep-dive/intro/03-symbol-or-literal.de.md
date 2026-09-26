@@ -23,7 +23,7 @@ sagt, wie sie interpretiert werden will.
 ## Die Kernlehre
 
 Die ausführlichste Fassung dieser Argumentation findet sich in
-`expl/background/literature/literally-or-symbolic.md` — lesenswert in voller Länge, falls eure
+`[Wörtlich oder symbolisch?]({{< relref "expl/background/literature/literally-or-symbolic" >}})` — lesenswert in voller Länge, falls eure
 Gruppe die griechische Argumentation im Detail nachvollziehen möchte.
 
 **Es gibt keine Einheitsregel.** Etwas kann symbolisch sein und trotzdem wörtlich geschehen — die

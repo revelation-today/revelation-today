@@ -23,7 +23,7 @@ Thyatira war wahrscheinlich ein militärischer Außenposten südöstlich von Per
 ersten Jahrhundert für seine Purpurfärbe- und Bronzeverarbeitungsgilden. Diese Gilden hielten
 regelmäßige Feste zu Ehren ihrer Schutzgottheit ab — Versammlungen nur für Männer, die
 plangemäß Unzucht als Teil der Unterhaltung einschlossen (siehe
-expl/content/letters/the-letter-to-the-church-in-thyatira.md).
+[Das Sendschreiben an Thyatira]({{< relref "expl/content/letters/the-letter-to-the-church-in-thyatira" >}})).
 
 Jesus nähert sich dieser Gemeinde als „der Sohn Gottes, dessen Augen wie Feuerflammen und dessen
 Füße wie glänzende Bronze sind" (Offenbarung 2,18) — Bildsprache, die an Daniel 3 erinnert, wo

@@ -20,7 +20,7 @@ birlikte yavaşlayıp gerçekten boğuşmak için iyi bir oturum.
 ## Ana öğreti
 
 Kuzu ilk dört mührü açar, ve her canlı yaratığın "Gel!" çağrısına karşılık dört at dörtnala çıkar
-(Vahiy 6:1-8; tam argüman için bkz. expl/content/seals/the-mystery-of-the-four-horse-men.md).
+(Vahiy 6:1-8; tam argüman için bkz. [Dört Atlının Gizemi]({{< relref "expl/content/seals/the-mystery-of-the-four-horse-men" >}})).
 Yay ve tacı olan beyaz at ve binicisi, "fetih üstüne fetih yapmak üzere" atını sürer. Ateş
 kızılı at, yeryüzünden barışı alır. Kefeleri elinde tutan siyah at, kıtlık fiyatlarına dair bir
 haykırış eşliğinde. Ölüm'ün bindiği ve Ölüler Diyarı'nın peşinden geldiği soluk at.

@@ -33,7 +33,7 @@ sadakatsizliğinden sorumlu tutmak tuhaf olurdu.
 üyelerin yanlış yaptığı şeyler için kişisel olarak suçlanır?
 
 **Daha iyi bir yanıt: melek, kilisenin kendisidir.** Birkaç metinsel ipucu buraya işaret ediyor
-(tam açıklama için bkz. expl/content/letters/the-angel-of-the-churches.md):
+(tam açıklama için bkz. [Kiliselerin melekleri]({{< relref "expl/content/letters/the-angel-of-the-churches" >}})):
 
 - Yuhanna'ya yedi *kiliseye* (1:11) yazması söylenir, yedi meleğe değil.
 - Her mektup "...meleğine" diye açılır ama "Ruh'un *kiliselere* ne dediğini" (2:7) diyerek kapanır

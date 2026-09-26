@@ -21,9 +21,9 @@ boşluk, İsa'nın gelişinin neden hem beklenen hem de tamamen beklenmedik oldu
 ## Ana Öğreti
 
 Bu oturumu üç kaynak makale besliyor:
-`expl/background/israel/the-day-of-the-lord.md`,
-`expl/background/israel/jesus-and-the-covenant.md` ve
-`expl/background/israel/the-second-exodus.md`.
+`[Rab’bin günü ve kalanlar]({{< relref "expl/background/israel/the-day-of-the-lord" >}})`,
+`[İsa ve antlaşma]({{< relref "expl/background/israel/jesus-and-the-covenant" >}})` ve
+`[İkinci Çıkış]({{< relref "expl/background/israel/the-second-exodus" >}})`.
 
 **Rab'bin Günü gerçekte nedir.** Bu sadece "dünyanın sonu" değildir — antlaşmanın her zaman
 vaat ettiğini nihayet teslim eden gündür: İsrail'in düşmanlarına yargı, İsrail'in restorasyonu,

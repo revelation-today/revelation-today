@@ -21,7 +21,7 @@ Yaratılış 15'te Avram'la yaptığı tam olarak budur — ve bu oturumun tamam
 
 ## Ana Öğreti
 
-Tam argüman `expl/background/israel/gods-covenant.md` dosyasındadır.
+Tam argüman `[Tanrı’nın antlaşması]({{< relref "expl/background/israel/gods-covenant" >}})` dosyasındadır.
 
 **Antik antlaşmalar gerçekte nasıl işledi.** İki temel antik antlaşma türü vardı. Eşitler
 arasındaki antlaşmalar ittifak gibi işlerdi — karşılıklı destek ve üyeler birbirine "kardeş"

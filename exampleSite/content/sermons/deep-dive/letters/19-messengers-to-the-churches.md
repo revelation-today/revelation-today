@@ -21,7 +21,7 @@ Two common answers don't hold up well under scrutiny.
 
 **A human leader (pastor/bishop)?** Same problem in a different form — why would a leader personally bear the blame for what individual members do wrong?
 
-**A better answer: the angel is the church.** Several textual clues point here (see expl/content/letters/the-angel-of-the-churches.md for the full case):
+**A better answer: the angel is the church.** Several textual clues point here (see [The angel of the churches]({{< relref "expl/content/letters/the-angel-of-the-churches" >}}) for the full case):
 
 - John is told to write to the seven *churches* (1:11), not to seven angels.
 - Each letter opens "to the angel of..." but closes "what the Spirit says to the *churches*" (2:7) — angel and church are treated as the same addressee.

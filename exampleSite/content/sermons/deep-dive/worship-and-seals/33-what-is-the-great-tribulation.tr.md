@@ -20,7 +20,7 @@ okumayı yapma, ve arazinin gerçekten tartışmalı olduğu yerler hakkında d�
 ## Ana öğreti
 
 "Büyük Sıkıntı," Vahiy 7:14'te belirli bir tanımlıkla — "the" — görünür, arkasında gerçek bir
-tarih olan bir terime işaret eder (bkz. expl/content/army/the-end-time-and-the-great-tribulation.md).
+tarih olan bir terime işaret eder (bkz. [Son zaman ve büyük sıkıntı]({{< relref "expl/content/army/the-end-time-and-the-great-tribulation" >}})).
 Bu tarih Daniel 12:1'de başlar: "Ulusların oluşumundan o güne dek görülmemiş bir sıkıntı zamanı
 olacak. Ama o zaman halkın... kurtulacak." İsa, Yeruşalim'in ve tapınağın yıkımını anlatırken bu
 bölümü Matta 24:21 ve Markos 13:19'da neredeyse doğrudan alıntılar. Daniel'in kendi bağlamında,

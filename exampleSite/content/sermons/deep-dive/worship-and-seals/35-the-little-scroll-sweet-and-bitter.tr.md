@@ -24,7 +24,7 @@ kişinin yemesi gereken bir tomardır.
 10. ve 11. bölümler bilinçli bir ara oluşturur. Altıncı boru 9:13'te çalmıştı; yedincisi ancak
 11:15'te çalıyor. Yuhanna eylemi tam iki bölüm boyunca tutar, ve araya koyduğu içerik tam olarak
 ana noktadır: Tanrı'nın ulusları kendisine çağırmak için kullandığı şey, daha fazla yargı değil,
-kilisenin tanıklığıdır. (Tam argüman için bkz. expl/content/scroll/the-little-scroll.md.)
+kilisenin tanıklığıdır. (Tam argüman için bkz. [Küçük tomar]({{< relref "expl/content/scroll/the-little-scroll" >}}).)
 
 ## Tomarı taşıyan melek — ve İsa bağlantısı ne kadar güçlü?
 

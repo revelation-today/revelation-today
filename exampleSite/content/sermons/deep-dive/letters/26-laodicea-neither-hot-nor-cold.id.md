@@ -20,7 +20,7 @@ satu-satunya dari ketujuhnya — dan jemaat itu pula yang paling yakin akan kesu
 
 Laodikia sangat kaya raya — berfungsi seperti bank Swiss-nya Asia Kecil, terkenal karena industri
 wol hitamnya dan sebuah pusat medis ternama yang dikenal karena salep matanya (lihat
-expl/content/letters/the-letter-to-the-church-in-laodicea.md). Setiap detail teguran Yesus
+[Surat kepada Laodikia]({{< relref "expl/content/letters/the-letter-to-the-church-in-laodicea" >}})). Setiap detail teguran Yesus
 memainkan langsung kebanggaan sipil kota itu sendiri.
 
 Yesus memperkenalkan diri-Nya sebagai "Amin, Saksi yang setia dan benar" (Wahyu 3:14) — sebuah

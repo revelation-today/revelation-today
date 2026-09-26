@@ -15,7 +15,7 @@ Denkt an das letzte Mal, als eure Gruppe für einen Freund, einen Nachbarn, eine
 
 ## Die Szene einordnen: Warum die Geschichte hier innehält
 
-Die Kapitel 10 und 11 bilden ein bewusstes Zwischenspiel. Die sechste Posaune erklang bereits in 9,13; die siebte erklingt erst in 11,15. Johannes hält die Handlung zwei volle Kapitel lang an, und der Inhalt, den er dort einfügt, ist der eigentliche Punkt: das Zeugnis der Gemeinde, nicht weiteres Gericht, ist das, was Gott gebraucht, um die Völker zu sich zu rufen. (Die ausführlichere Argumentation findet sich in expl/content/scroll/the-little-scroll.md.)
+Die Kapitel 10 und 11 bilden ein bewusstes Zwischenspiel. Die sechste Posaune erklang bereits in 9,13; die siebte erklingt erst in 11,15. Johannes hält die Handlung zwei volle Kapitel lang an, und der Inhalt, den er dort einfügt, ist der eigentliche Punkt: das Zeugnis der Gemeinde, nicht weiteres Gericht, ist das, was Gott gebraucht, um die Völker zu sich zu rufen. (Die ausführlichere Argumentation findet sich in [Das kleine Büchlein in der Offenbarung]({{< relref "expl/content/scroll/the-little-scroll" >}}).)
 
 ## Der Engel mit der Buchrolle – und wie stark ist die Verbindung zu Jesus?
 

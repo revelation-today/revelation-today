@@ -23,7 +23,7 @@ düşen yıldızlar, yerlerinden oynayan dağlar ve adalar (Vahiy 6:12-14) — v
 dehşettir: "yeryüzü kralları, önderler, komutanlar, zenginler, güçlüler, köle ve özgür herkes...
 mağaralara ve dağların kayalıklarına gizlendiler... dağlara ve kayalıklara, 'üzerimize düşün...
 Kuzu'nun gazabından saklayın bizi' diye sesleniyorlardı" (6:15-16). Tam işleniş için bkz.
-expl/content/seals/the-wrath-of-the-lamb.md.
+[Kuzu’nun Gazabı]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}}).
 
 **İfadenin kendisi.** "Kuzu'nun gazabı" ifadesi, Kutsal Kitap'ta tam olarak bu haliyle yalnızca
 bir kez geçer — tam da burada. Bunun ne olduğunu not etmeye değer (şaşırtıcı, nadir bir "gazap"

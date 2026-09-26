@@ -21,7 +21,7 @@ mengesankan: ketekunan yang sabar, tidak lebih.
 
 Filadelfia adalah yang termuda dari ketujuh kota itu, dinamai menurut Attalus II "Filadelfus"
 ("yang mengasihi saudara"), dan terletak di persimpangan jalur-jalur perdagangan yang ideal untuk
-perkebunan anggur (lihat expl/content/letters/the-letter-to-the-church-in-philadelphia.md). Kota
+perkebunan anggur (lihat [Surat kepada Filadelfia]({{< relref "expl/content/letters/the-letter-to-the-church-in-philadelphia" >}})). Kota
 ini juga terletak di sebuah garis patahan, berulang kali rusak oleh gempa bumi — setelah salah
 satu gempa besar, sang kaisar mendanai pembangunan kembali dan memberikan keringanan pajak, dan
 kota yang sangat pro-Roma ini kemudian merasa dikhianati ketika seorang kaisar berikutnya
@@ -83,7 +83,7 @@ injili Barat membaca sebuah pengangkatan pra-kesengsaraan langsung dari teks ini
 Yunani di sini menunjuk ke arah yang berbeda — perlindungan melalui pencobaan, bukan evakuasi
 darinya. Ini layak disebutkan secara eksplisit sebagai sebuah titik perselisihan yang nyata di
 antara pembaca Kitab Suci yang tulus, bukan sesuatu yang dilewati begitu saja; lihat juga
-topics/others/the-rapture.md untuk pembahasan yang lebih lengkap tentang pertanyaan pengangkatan
+[Pengangkatan (Rapture)]({{< relref "expl/topics/others/the-rapture" >}}) untuk pembahasan yang lebih lengkap tentang pertanyaan pengangkatan
 di tempat lain dalam seri ini (sesi 52).
 
 ## Pertanyaan Diskusi

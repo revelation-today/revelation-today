@@ -19,7 +19,7 @@ Antwort, die Jesus gibt: „Du hast den Ruf, lebendig zu sein, und bist tot" (Of
 
 Sardes hatte die längste Geschichte aller sieben Städte und eine der stärksten natürlichen
 Verteidigungen — hoch auf einem Bergrücken gelegen, von Klippen umgeben, von benachbarten Gipfeln
-abgeschnitten (siehe expl/content/letters/the-letter-to-the-church-in-sardis.md). Diese Lage
+abgeschnitten (siehe [Das Sendschreiben an Sardis]({{< relref "expl/content/letters/the-letter-to-the-church-in-sardis" >}})). Diese Lage
 brütete tiefes bürgerliches Übervertrauen: Die Stadt hielt sich für uneinnehmbar. Die Geschichte
 bewies das Gegenteil zweimal — Sardes wurde bei beiden Gelegenheiten von Feinden erobert, die
 genau durch die Felswände einschlichen, die jeder für unersteigbar hielt. Vertrauen in die eigenen

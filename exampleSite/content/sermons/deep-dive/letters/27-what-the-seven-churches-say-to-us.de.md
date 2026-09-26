@@ -15,7 +15,7 @@ Stellt sieben Stühle (oder sieben Zettel) in einer Reihe auf, beschriftet mit E
 
 ## Kernlehre
 
-Vor den sieben Briefen berichtet Johannes von der Vision aus Kapitel 1 – die Gemeinde als Leuchter und Sterne, dazu bestimmt, Licht zu sein, aber immer nur in vollständiger Abhängigkeit von Jesus (siehe Sitzung 18 sowie expl/content/letters/the-letters-to-the-seven-churches.md). An dieser Vision wird jede der sieben Gemeinden gemessen. Jeder Brief folgt demselben Grundmuster: eine Anrede, die auf die Vision aus Kapitel 1 zurückgreift, Lob für echte Stärken, Konfrontation wegen konkreter Fehler und eine Verheißung "an den, der überwindet".
+Vor den sieben Briefen berichtet Johannes von der Vision aus Kapitel 1 – die Gemeinde als Leuchter und Sterne, dazu bestimmt, Licht zu sein, aber immer nur in vollständiger Abhängigkeit von Jesus (siehe Sitzung 18 sowie [Die sieben Sendschreiben]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})). An dieser Vision wird jede der sieben Gemeinden gemessen. Jeder Brief folgt demselben Grundmuster: eine Anrede, die auf die Vision aus Kapitel 1 zurückgreift, Lob für echte Stärken, Konfrontation wegen konkreter Fehler und eine Verheißung "an den, der überwindet".
 
 **Die vorgeschlagene Symmetrie.** Eine Möglichkeit, diese sieben Briefe zu lesen – von vielen Auslegern der Offenbarung vertreten, wenn auch nicht der einzige Strukturvorschlag in der Literatur –, ist, dass sie eine bewusst gespiegelte Anordnung bilden:
 

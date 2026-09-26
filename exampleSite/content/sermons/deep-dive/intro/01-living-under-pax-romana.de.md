@@ -29,7 +29,7 @@ starkes und geeintes Reich, echten wirtschaftlichen Wohlstand (zumindest für ei
 der Bevölkerung) und eine Blüte von Kunst und Kultur — vor dem Hintergrund einer sporadischen,
 örtlich begrenzten Verfolgung von Christen unter Kaisern wie Nero und Domitian. Die vollständige
 Argumentation samt Quellen findet ihr in
-`expl/background/history/pax-romana-key-to-understand-the-book-of-revelation.md`.
+`[Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung]({{< relref "expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" >}})`.
 
 Unter diesen Bedingungen lag etwas, das eher einer Theologie als einer Politik glich: Die Götter
 hatten Rom erwählt; der Kaiser war ihr Vertreter auf Erden; jeder Segen, der es wert war, gehabt zu

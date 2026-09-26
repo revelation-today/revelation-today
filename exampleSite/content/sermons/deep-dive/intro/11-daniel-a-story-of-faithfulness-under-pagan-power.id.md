@@ -19,8 +19,8 @@ penting untuk membaca bagaimana Wahyu sendiri memakai ulang citra Daniel.
 
 ## Pengajaran Inti
 
-Sesi ini mengacu pada `expl/bible/daniel/the-book-of-daniel.md` dan
-`expl/bible/daniel/the-four-kingdoms-in-daniel.md`.
+Sesi ini mengacu pada `[Tinjauan Kitab Daniel]({{< relref "expl/bible/daniel/the-book-of-daniel" >}})` dan
+`[Keempat Kerajaan dalam Daniel]({{< relref "expl/bible/daniel/the-four-kingdoms-in-daniel" >}})`.
 
 **Kiasme yang menyatukan pasal 1-7.** Pasal 2 dan 7 sama-sama menggambarkan empat kerajaan yang
 berturut-turut — pasal 2 melalui sebuah patung, pasal 7 melalui empat binatang — masing-masing

@@ -19,7 +19,7 @@ uncomfortable before it leads somewhere triumphant.
 
 ## The Core Teaching
 
-The full argument is in `expl/bible/daniel/the-son-of-man-and-the-remnant.md`.
+The full argument is in `[The Son of Man]({{< relref "expl/bible/daniel/the-son-of-man-and-the-remnant" >}})`.
 
 **Where the title comes from.** {{% bible val="Daniel 7:13-14" link="dan:7,13-14" lang="en" %}}
 describes "one like a son of man, coming with the clouds of heaven," approaching the Ancient of

@@ -19,8 +19,8 @@ Vorbereitung überhaupt für das Lesen der Bildsprache, die die Offenbarung von 
 
 ## Die Kernlehre
 
-Diese Sitzung stützt sich auf `expl/bible/daniel/the-book-of-daniel.md` und
-`expl/bible/daniel/the-four-kingdoms-in-daniel.md`.
+Diese Sitzung stützt sich auf `[Überblick über das Buch Daniel]({{< relref "expl/bible/daniel/the-book-of-daniel" >}})` und
+`[Die vier Königreiche in Daniel]({{< relref "expl/bible/daniel/the-four-kingdoms-in-daniel" >}})`.
 
 **Der Chiasmus, der die Kapitel 1-7 zusammenhält.** Kapitel 2 und 7 beschreiben beide vier
 aufeinanderfolgende Reiche — Kapitel 2 durch eine Statue, Kapitel 7 durch vier Tiere — jedes endet

@@ -15,7 +15,7 @@ Ask the group to name a marriage, friendship, or ministry that looked completely
 
 ## Core teaching
 
-Ephesus was the crown jewel of the seven churches — a major port city, home to the Temple of Artemis (one of the ancient world's great wonders), and, historically, probably the largest of the seven congregations addressed. Jesus opens by affirming real, substantial strengths (Revelation 2:1-3, see expl/content/letters/the-letter-to-the-church-in-ephesus.md for full background):
+Ephesus was the crown jewel of the seven churches — a major port city, home to the Temple of Artemis (one of the ancient world's great wonders), and, historically, probably the largest of the seven congregations addressed. Jesus opens by affirming real, substantial strengths (Revelation 2:1-3, see [The letter to the church in Ephesus]({{< relref "expl/content/letters/the-letter-to-the-church-in-ephesus" >}}) for full background):
 
 - Hard work and perseverance, actively resisting the cultural pull of Artemis worship — worship so entrenched it had caused a citywide riot when challenged (Acts 19:23-41).
 - Doctrinal discernment — they tested false apostles and rejected them, a discipline that will prove fatal for other churches later in these chapters.

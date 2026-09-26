@@ -21,7 +21,7 @@ tersine dönüşlerden biri olarak gelir.
 
 Taht odasında, "her iki yanı yazılı ve yedi mühürle mühürlenmiş bir tomar" belirir ve her gözü
 üzerine çeker (Vahiy 5:1). Bu tomarın neden bu kadar önemli olduğunu anlamak için antik hukuki
-arka plana ihtiyacımız var (bkz. expl/content/worship/the-book-with-the-seven-seals.md): önemli
+arka plana ihtiyacımız var (bkz. [Yedi Mühürlü Kitap]({{< relref "expl/content/worship/the-book-with-the-seven-seals" >}})): önemli
 belgeler — vasiyetler, yeni yasalar — bir yetkili tarafından yazılır ve yedi tanık tarafından
 mühürlenirdi, dışına da bir özet yazılırdı ki kimse yanlışlıkla açmasın, çünkü açmak içeriğini
 hukuken bağlayıcı hâle getiriyordu. Bu tomar çözülmesi gereken bir gizemden çok, yürürlüğe

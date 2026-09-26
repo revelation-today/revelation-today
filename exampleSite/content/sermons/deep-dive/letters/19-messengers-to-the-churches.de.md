@@ -34,7 +34,7 @@ bizarr, einem Engel die Untreue einzelner Menschen anzulasten.
 Leiter persönlich die Schuld dafür tragen, was einzelne Mitglieder falsch machen?
 
 **Eine bessere Antwort: Der Engel ist die Gemeinde.** Mehrere Textdetails weisen hierauf hin
-(siehe expl/content/letters/the-angel-of-the-churches.md für die vollständige Darstellung):
+(siehe [Die Engel der Gemeinden]({{< relref "expl/content/letters/the-angel-of-the-churches" >}}) für die vollständige Darstellung):
 
 - Johannes wird angewiesen, an die sieben *Gemeinden* zu schreiben (1,11), nicht an sieben Engel.
 - Jeder Brief eröffnet „an den Engel von...", schließt aber mit „was der Geist den *Gemeinden*

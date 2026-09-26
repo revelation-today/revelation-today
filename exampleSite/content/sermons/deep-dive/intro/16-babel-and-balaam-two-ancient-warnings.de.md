@@ -19,8 +19,8 @@ Babel und Bileam.
 
 ## Die Kernlehre
 
-Diese Sitzung stützt sich auf `expl/bible/keyword/the-origin-of-babel.md` und
-`expl/bible/keyword/the-story-of-balaam.md` — und schließt damit unsere Teil-0-Einführung in die
+Diese Sitzung stützt sich auf `[Der Ursprung Babels]({{< relref "expl/bible/keyword/the-origin-of-babel" >}})` und
+`[Die Geschichte von Bileam]({{< relref "expl/bible/keyword/the-story-of-balaam" >}})` — und schließt damit unsere Teil-0-Einführung in die
 Offenbarung mit zwei alttestamentlichen Warnungen ab, auf die sich das Buch direkt stützt.
 
 **Babel: Der Versuch der Menschheit, sich selbst einen Namen zu machen.** Nach der Flut lässt sich

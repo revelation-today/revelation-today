@@ -21,7 +21,7 @@ original audience did.
 
 ## The Core Teaching
 
-This entire session draws on `expl/background/literature/literary-tools-in-the-book-of-revelation.md`,
+This entire session draws on `[Literary tools in the Book of Revelation]({{< relref "expl/background/literature/literary-tools-in-the-book-of-revelation" >}})`,
 which works through Hebrew literary structure in detail — an excellent one for a group member to
 read in full and summarize for the group.
 

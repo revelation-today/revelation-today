@@ -23,7 +23,7 @@ dan itulah engsel yang menjadi poros seluruh sesi ini.
 
 ## Pengajaran Inti
 
-Argumen lengkapnya ada di `expl/background/israel/gods-covenant.md`.
+Argumen lengkapnya ada di `[Perjanjian Allah]({{< relref "expl/background/israel/gods-covenant" >}})`.
 
 **Bagaimana perjanjian kuno sesungguhnya bekerja.** Ada dua jenis dasar perjanjian kuno. Perjanjian
 antara pihak yang setara berfungsi seperti aliansi — dukungan timbal balik, dan para anggotanya

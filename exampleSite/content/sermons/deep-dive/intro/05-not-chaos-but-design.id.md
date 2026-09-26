@@ -22,9 +22,9 @@ kendali.
 ## Pengajaran Inti
 
 Peta struktural lengkapnya dijabarkan dalam
-`expl/background/structure/the-structure-of-the-book-of-revelation.md`, dengan argumen numeriknya
+`[Susunan Kitab Wahyu]({{< relref "expl/background/structure/the-structure-of-the-book-of-revelation" >}})`, dengan argumen numeriknya
 dikembangkan lebih lanjut dalam
-`expl/background/structure/the-use-of-numbers-in-the-book-of-revelation.md`.
+`[Penggunaan Angka dalam Kitab Wahyu]({{< relref "expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" >}})`.
 
 **Bentuk keseluruhannya.** Kitab ini dibuka dengan menyatakan apa yang telah dilakukan Allah dan
 apa yang diharapkan-Nya dari jemaat sebagai respons: jadilah terang, dan bergantunglah pada-Nya

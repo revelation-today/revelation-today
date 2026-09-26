@@ -20,8 +20,8 @@ Aden'den başlayıp Yeni Yeruşalim'e kadar uzanan bir hat.
 
 ## Ana Öğreti
 
-Bu oturum `expl/bible/creation/the-temple-and-the-presence-of-god.md` ve
-`expl/bible/creation/the-story-of-uzzah.md` kaynaklarından yararlanmaktadır.
+Bu oturum `[“Tapınak” ve Tanrı'nın varlığı]({{< relref "expl/bible/creation/the-temple-and-the-presence-of-god" >}})` ve
+`[Uzza'nın öyküsü]({{< relref "expl/bible/creation/the-story-of-uzzah" >}})` kaynaklarından yararlanmaktadır.
 
 **Her şey Bahçe'de başlar.** Tanrı insanlığı yaratır ve onlarla gerçek bir paydaşlık içinde yaşar;
 {{% bible val="onlara bakmaları için bir bahçe verir" link="gen:2,8-15" lang="tr" %}} ve

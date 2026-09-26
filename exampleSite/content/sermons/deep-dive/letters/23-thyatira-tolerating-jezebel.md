@@ -15,7 +15,7 @@ Ask: "If the person leading worship, teaching your Bible study, or shaping your 
 
 ## Core teaching
 
-Thyatira was likely a military outpost southeast of Pergamon, known in the first century for its purple-dye and bronze-working trade guilds. Those guilds held regular feasts honoring their patron deity — men-only gatherings that, by design, included sexual immorality as part of the entertainment (see expl/content/letters/the-letter-to-the-church-in-thyatira.md).
+Thyatira was likely a military outpost southeast of Pergamon, known in the first century for its purple-dye and bronze-working trade guilds. Those guilds held regular feasts honoring their patron deity — men-only gatherings that, by design, included sexual immorality as part of the entertainment (see [The letter to the church in Thyatira]({{< relref "expl/content/letters/the-letter-to-the-church-in-thyatira" >}})).
 
 Jesus approaches this church as "the Son of God, whose eyes are like blazing fire and whose feet are like burnished bronze" (Revelation 2:18) — imagery recalling Daniel 3, where "one like a son of the gods" stood in the fire alongside Daniel's three friends. He praises real, growing strength: "your deeds, your love and faith, your service and perseverance, and that you are now doing more than you did at first" (2:19) — notably including love, exactly where Ephesus had failed.
 

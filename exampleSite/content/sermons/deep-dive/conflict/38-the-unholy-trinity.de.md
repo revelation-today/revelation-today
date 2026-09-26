@@ -15,7 +15,7 @@ Fragt eure Gruppe: Hat euch schon einmal jemand eine Abkürzung zu etwas angebot
 
 ## Drei Erscheinungen des Teufels, ein Muster
 
-Die Offenbarung zeigt Satan dreimal im Buch als eine Art dunkle Dreieinigkeit wirkend: als vierter Reiter, der die anderen drei zusammenfasst (Offenbarung 6,1-8), hier in Kapitel 13 als Drache-plus-zwei-Tiere, und erneut bei der sechsten Schale als "drei unreine Geister wie Frösche" (16,13), später in den Kapiteln 19 und 20 gerichtet. Jede Erscheinung fügt demselben Bild ein weiteres Detail hinzu: Er bietet totalen Sieg an und liefert nur Zerstörung. (Ausführlichere Argumentation in expl/content/beasts/the-nature-of-the-beast.md und expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation.md.)
+Die Offenbarung zeigt Satan dreimal im Buch als eine Art dunkle Dreieinigkeit wirkend: als vierter Reiter, der die anderen drei zusammenfasst (Offenbarung 6,1-8), hier in Kapitel 13 als Drache-plus-zwei-Tiere, und erneut bei der sechsten Schale als "drei unreine Geister wie Frösche" (16,13), später in den Kapiteln 19 und 20 gerichtet. Jede Erscheinung fügt demselben Bild ein weiteres Detail hinzu: Er bietet totalen Sieg an und liefert nur Zerstörung. (Ausführlichere Argumentation in [Die Tiere in der Offenbarung]({{< relref "expl/content/beasts/the-nature-of-the-beast" >}}) und [Die beiden Tiere in der Offenbarung]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}).)
 
 ## Der Drache in Kapitel 13 – versteckt in aller Öffentlichkeit oder voll sichtbar?
 

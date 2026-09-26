@@ -20,8 +20,8 @@ yang membentang dari Eden hingga ke Yerusalem Baru.
 
 ## Inti Pengajaran
 
-Sesi ini mengacu pada `expl/bible/creation/the-temple-and-the-presence-of-god.md` dan
-`expl/bible/creation/the-story-of-uzzah.md`.
+Sesi ini mengacu pada `[Bait Allah dan Kehadiran Allah]({{< relref "expl/bible/creation/the-temple-and-the-presence-of-god" >}})` dan
+`[Kisah Uza]({{< relref "expl/bible/creation/the-story-of-uzzah" >}})`.
 
 **Semuanya dimulai di Taman Eden.** Allah menciptakan manusia dan hidup dalam persekutuan yang
 nyata dengan mereka, {{% bible val="memberi mereka taman untuk diusahakan" link="gen:2,8-15" lang="ind" %}} dan {{% bible val="berjumpa dengan mereka di sana secara teratur" link="gen:3,8-9" lang="ind" %}}. Setelah kejatuhan, keduanya diusir dari taman itu, tanah sendiri dikutuk, dan

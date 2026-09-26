@@ -19,8 +19,8 @@ gruba sahip tek bir aileye benzer bir şeyi mi anlatıyor?
 
 ## Ana Öğreti
 
-Bu oturum `expl/background/israel/the-church-is-part-of-israel.md` (terim-aktarımlarının tam
-listesi) ve `expl/background/israel/israel-and-the-church.md` (özellikle Vahiy'deki Yahudilerle
+Bu oturum `[Kilise İsrail’in bir parçasıdır]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}})` (terim-aktarımlarının tam
+listesi) ve `[İsrail ve kilise]({{< relref "expl/background/israel/israel-and-the-church" >}})` (özellikle Vahiy'deki Yahudilerle
 gerginlik) üzerine kuruludur.
 
 **Uluslar sırrı, Pavlus tarafından doğrudan adlandırılmış.**

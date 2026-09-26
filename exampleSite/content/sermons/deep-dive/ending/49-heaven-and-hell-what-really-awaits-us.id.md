@@ -15,7 +15,7 @@ Mintalah kelompok Anda membayangkan gambaran kartun yang populer: surga sebagai 
 
 ## Surga didefinisikan oleh kedekatan dengan Allah, bukan ganjaran atas perilaku baik
 
-Wahyu melukiskan surga dengan lebih dari satu gambaran. Dalam pasal 7, orang-orang kudus dihibur, dengan setiap air mata dihapuskan (7:9-17). Dalam pasal 21-22, Yerusalem Baru memberi kita gambaran paling lengkap dari semuanya (lihat expl/content/paradise/the-new-jerusalem.md dan expl/content/paradise/heaven-and-hell.md untuk pembahasan yang lebih lengkap). Kedua gambaran itu bertemu pada satu titik: surga adalah persekutuan dengan Allah, tidak lebih dan tidak kurang.
+Wahyu melukiskan surga dengan lebih dari satu gambaran. Dalam pasal 7, orang-orang kudus dihibur, dengan setiap air mata dihapuskan (7:9-17). Dalam pasal 21-22, Yerusalem Baru memberi kita gambaran paling lengkap dari semuanya (lihat [Yerusalem Baru]({{< relref "expl/content/paradise/the-new-jerusalem" >}}) dan [Surga dan neraka]({{< relref "expl/content/paradise/heaven-and-hell" >}}) untuk pembahasan yang lebih lengkap). Kedua gambaran itu bertemu pada satu titik: surga adalah persekutuan dengan Allah, tidak lebih dan tidak kurang.
 
 Itu terlihat jelas dalam detail bahwa Yerusalem Baru digambarkan sebagai "mempelai perempuan Anak Domba" (21:2, 9) — gambarannya bukanlah komunitas pensiunan yang megah, melainkan sebuah pernikahan, bahasa keintiman perjanjian. Itu diperkuat oleh bentuk kota itu: Wahyu 21:16 menggambarkannya sebagai sebuah kubus, dan satu-satunya benda dalam seluruh Perjanjian Lama yang berbentuk persis itu adalah Ruang Mahakudus (2 Tawarikh 3:8) — ruang terdalam bait suci, begitu jenuh dengan kehadiran Allah sehingga hanya imam besar yang boleh masuk, dan hanya setahun sekali. Ketika Wahyu menggambarkan surga sebagai sebuah kubus, itu adalah sebuah klaim yang disengaja: ini adalah tempat kedekatan maksimal yang mungkin dengan Allah, dan setiap umat Allah mendapat kesempatan untuk tinggal di sana, bukan hanya satu imam yang ditahbiskan secara khusus.
 
@@ -31,7 +31,7 @@ Jika surga adalah keintiman dengan Allah, neraka adalah apa yang tersisa dalam k
 
 ## Bukan ancaman, melainkan undangan
 
-Neraka terus-menerus digunakan sebagai taktik menakut-nakuti: percayalah, atau. Mengingat apa yang baru saja kita lihat, klaim itu tidak sepenuhnya salah — tetapi klaim itu sangat melewatkan poin yang sebenarnya dibuat Wahyu. Ketakutan dan manipulasi secara konsisten digambarkan dalam kitab ini sebagai alat-alat si binatang, tidak pernah alat gereja atau Allah (lihat expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation.md). Panggilan gereja bukanlah untuk menakut-nakuti orang masuk surga; melainkan untuk memberikan kesaksian yang setia dan membiarkan kesaksian itu menarik orang kepada Allah, yang, diri-Nya sendiri, layak diinginkan.
+Neraka terus-menerus digunakan sebagai taktik menakut-nakuti: percayalah, atau. Mengingat apa yang baru saja kita lihat, klaim itu tidak sepenuhnya salah — tetapi klaim itu sangat melewatkan poin yang sebenarnya dibuat Wahyu. Ketakutan dan manipulasi secara konsisten digambarkan dalam kitab ini sebagai alat-alat si binatang, tidak pernah alat gereja atau Allah (lihat [Kedua Binatang dalam Kitab Wahyu]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})). Panggilan gereja bukanlah untuk menakut-nakuti orang masuk surga; melainkan untuk memberikan kesaksian yang setia dan membiarkan kesaksian itu menarik orang kepada Allah, yang, diri-Nya sendiri, layak diinginkan.
 
 ## Pertanyaan diskusi
 
