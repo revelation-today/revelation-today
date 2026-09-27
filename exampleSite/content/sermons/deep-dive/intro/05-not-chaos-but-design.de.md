@@ -22,9 +22,9 @@ Gottes akribische Kontrolle über eine Welt, die aussieht, als würde sie außer
 ## Die Kernlehre
 
 Die vollständige Strukturkarte findet sich in
-`[Der Aufbau der Offenbarung]({{< relref "expl/background/structure/the-structure-of-the-book-of-revelation" >}})`, das zahlenbezogene
+[Der Aufbau der Offenbarung]({{< relref "expl/background/structure/the-structure-of-the-book-of-revelation" >}}), das zahlenbezogene
 Argument wird weiter ausgeführt in
-`[Die Benutzung von Zahlen in der Offenbarung]({{< relref "expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" >}})`.
+[Die Benutzung von Zahlen in der Offenbarung]({{< relref "expl/background/structure/the-use-of-numbers-in-the-book-of-revelation" >}}).
 
 **Die Gesamtform.** Das Buch beginnt damit, zu erklären, was Gott getan hat und was er als Antwort
 von der Gemeinde erwartet: Licht sein und von ihm abhängen (Kapitel 1). Von dort aus werden die

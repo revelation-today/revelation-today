@@ -22,9 +22,9 @@ war.
 ## Die Kernlehre
 
 Drei Quellartikel speisen diese Einheit:
-`[Der Tag des Herrn]({{< relref "expl/background/israel/the-day-of-the-lord" >}})`,
-`[Jesus und der Bund]({{< relref "expl/background/israel/jesus-and-the-covenant" >}})` und
-`[Der zweite Auszug]({{< relref "expl/background/israel/the-second-exodus" >}})`.
+[Der Tag des Herrn]({{< relref "expl/background/israel/the-day-of-the-lord" >}}),
+[Jesus und der Bund]({{< relref "expl/background/israel/jesus-and-the-covenant" >}}) und
+[Der zweite Auszug]({{< relref "expl/background/israel/the-second-exodus" >}}).
 
 **Was der Tag des HERRN tatsächlich ist.** Es ist nicht einfach „das Ende der Welt" — es ist der
 Tag, der endlich liefert, was der Bund immer verheißen hat: Gericht über Israels Feinde, die

@@ -22,7 +22,7 @@ informasi, alih-alih mendengarkan pola sebagaimana dilakukan pendengar aslinya.
 ## Pengajaran Inti
 
 Seluruh sesi ini mengacu pada
-`[Alat-Alat Sastra dalam Kitab Wahyu]({{< relref "expl/background/literature/literary-tools-in-the-book-of-revelation" >}})`, yang membahas struktur
+[Alat-Alat Sastra dalam Kitab Wahyu]({{< relref "expl/background/literature/literary-tools-in-the-book-of-revelation" >}}), yang membahas struktur
 sastra Ibrani secara rinci — sangat baik untuk dibaca penuh dan diringkas oleh salah satu anggota
 kelompok bagi yang lain.
 
