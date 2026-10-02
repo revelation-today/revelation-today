@@ -11,6 +11,9 @@ appl: /appl/content/paradise
 sources: 
     - pages: 1039–1121
       ref: beale_rev
+deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
 ---
 
 Wie wird der Himmel sein, und wie wird die Hölle sein? Die Offenbarung beantwortet keine der beiden Fragen erschöpfend, aber sie gibt zu beiden echte Einblicke.

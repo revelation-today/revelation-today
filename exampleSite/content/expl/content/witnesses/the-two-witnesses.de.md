@@ -9,6 +9,8 @@ next: /expl/content/jesus/a-different-christmas-story
 docType: expl
 appl: /appl/content/witnesses
 deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Der zweite Auszug
       link:  /expl/background/israel/the-second-exodus
     - name: Die Kraft des Zeugnisses

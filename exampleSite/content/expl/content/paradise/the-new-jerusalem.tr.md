@@ -11,6 +11,9 @@ appl: /appl/content/paradise
 sources: 
     - pages: 1039–1121
       ref: beale_rev
+deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
 ---
 
 Cennet nasıl olacak, cehennem nasıl olacak? Vahiy her iki soruyu da eksiksiz ayrıntısıyla yanıtlamaz, ama ikisine dair de gerçek bir kavrayış sunar.

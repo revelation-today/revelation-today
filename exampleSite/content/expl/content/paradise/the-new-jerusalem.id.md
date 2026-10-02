@@ -11,6 +11,9 @@ appl: /appl/content/paradise
 sources: 
     - pages: 1039–1121
       ref: beale_rev
+deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
 ---
 
 Bagaimana rupa surga nantinya, dan bagaimana rupa neraka nantinya? Kitab Wahyu tidak menjawab kedua pertanyaan itu secara tuntas, tetapi kitab ini memberi kita pemahaman nyata tentang keduanya.

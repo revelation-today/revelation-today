@@ -6,6 +6,10 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
+    - pages: 9–14
+      ref: bauckham_climax
+    - pages: 116–124
+      ref: beale_rev
 prev: /expl/background/literature/full-of-biblical-references
 next: /expl/background/structure/the-structure-of-the-book-of-revelation
 docType: expl
@@ -230,8 +234,20 @@ Bu yapıları tanımak birçok şekilde karşılığını verir.
 
 - **Edebi ustalığın takdiri** — metnin arkasındaki beceriyi ve özeni takdir etmeye başlarız; öyle ki ilk bakışta kaotik görünen bir yazı, zarif bir düzenleme olarak ortaya çıkar.
 - **Birim sınırlarının belirlenmesi** — yapıyı görmek, metni doğru yorumlamamıza yardımcı olur. Örneğin 1. Krallar 1–2, aslında Samuel'in sonucudur, Krallar'ın geri kalanına bir giriş değildir; ve Musa'nın beş kitabı ile Yeşu birlikte tek bir birim oluşturur, çünkü öykünün İsrail vaat edilmiş toprağın eşiğindeyken sona ermesi hiçbir zaman amaçlanmamıştır.
-- **Bir birimin düzeninin ardındaki mantığın keşfedilmesi** — bu, metnin akışını nasıl anladığımızı derinleştirir. Örneğin İbrahim'in karısı hakkında yalan söylediği iki öykü, İsmail'le ilgili iki vaade ve Lut'un ailesinin göçlerine bağlıdır. Ezgiler Ezgisi, düğünü şiirsel nedenlerle merkezine yerleştirir ve öncesinde anlatılan yakınlık, evlilik öncesi cinselliğin bir onayı değil, kasıtlı bir kiazmik düzenlemenin parçasıdır. Yeşaya'nın 6. bölümdeki çağrısı yersiz gibi görünür, çünkü kitabın en başında beklenir, oysa bir nedenden dolayı Yeşaya 1–12'nin merkezinde yer alır.
+- **Bir birimin düzeninin ardındaki mantığın keşfedilmesi** — bu, metnin akışını nasıl anladığımızı derinleştirir. Örneğin İbrahim'in karısı hakkında yalan söylediği iki öykü, İsmail'le ilgili iki vaade ve Lut'un ailesinin göçlerine bağlıdır. Yeşaya'nın 6. bölümdeki çağrısı yersiz gibi görünür, çünkü kitabın en başında beklenir, oysa bir nedenden dolayı Yeşaya 1–12'nin merkezinde yer alır.
 - **Parçaların bütünle ilişkisinin netleştirilmesi** — özellikle uzun birimlerde yararlıdır. İşa. 26–35 ve 40–48, işlev bakımından birbirini yansıtır; İşa. 36–39 ise aralarında tematik merkez olarak görev yapar.
 - **Tekrarların açıklanması** — tekrar, modern okuyucuların kafasını karıştırabilir, ama ilk dinleyicinin metnin yapısını takip etmesine yardımcı olmuştur. Sabah ve akşamın tekrarlanan nakaratı ve her günün sayılması, Yaratılış 1'de her günün tamamlandığını işaret eder.
-- **Görünüşte yanlış yerleştirilmiş birimlerin açıklanması** — bazı pasajlar, yapısal analiz konumlarını netleştirene kadar yerinde değilmiş gibi görünür. Yaratılış 38, Yusuf'un öyküsünü kesintiye uğratıyor gibi görünür, ama aslında Yahuda'nın davranışını Yusuf'un Potifar'ın evindeki tutumuyla karşılaştırmak için vardır — Yahuda'nın Tamar'a yaptığı haksızlık, ki bunun için gerçek bir bedel ödemez, daha sonra Yahuda'nın kendi ilk doğanlık hakkından Yusuf lehine vazgeçtiği bölüme zemin hazırlar.
+- **Görünüşte yanlış yerleştirilmiş birimlerin açıklanması** — bazı pasajlar, yapısal analiz konumlarını netleştirene kadar yerinde değilmiş gibi görünür. Yaratılış 38, Yusuf'un öyküsünü kesintiye uğratıyor gibi görünür, ama aslında Yahuda'nın davranışını Yusuf'un Potifar'ın evindeki tutumuyla karşılaştırmak için vardır.
 - **Bir birimin karşılığıyla netleştirilmesi** — bir birimin anlamı ya da işlevi, çoğu zaman metnin başka bir yerindeki yapısal karşılığıyla karşılaştırılarak netleştirilebilir.
+
+## Bu araçlar Vahiy'de
+
+<a name="r3v1"></a>
+Yukarıdaki araçların her biri Vahiy'in kendisinde iş başındadır ve bu sitedeki açıklamalar onlara tekrar tekrar dayanır:
+
+- **Sondan önce bir duraklamayla yedili diziler** (paralel örüntü, anlamlı duraklama). Mühürler, borazanlar ve kâseler her biri 4 + 3 olarak kurulmuştur: ilk dördü birbirine aittir — dört atlı; yeryüzü, deniz, ırmaklar ve gök üzerine dört borazan — son üçü ise ayrı durur. Yedinci mühürden ve yedinci borazandan önce dizi bir ara bölüm için durur (7. bölüm; 10–11. bölümler). Yedinci kâseden önce ise yoktur: dönüş zamanı geçmiştir (Bauckham, *Climax*, s. 9–14). → {{% int_link val="144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Küçük tomar" link="/expl/content/scroll/the-little-scroll" %}}
+- **Ağırlık noktası olarak merkez** (simetri). Yedi mektup bir merkez etrafında düzenlenmiştir: en kötü durumdaki iki kilise başta ve sonda (Efes, Laodikya), azarlanmayan iki kilise ikinci ve sondan ikinci sırada (İzmir, Filadelfiya), kötü önderlik hakkındaki uyarısıyla Tiyatira ise ortada durur. → {{% int_link val="Yedi kiliseye gönderilen mektuplar" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **Aynı öykü başka bir açıdan** (ikinci bakış açısı). Vahiy çoğu zaman ilerlemek yerine yeniden anlatır: mühürler, borazanlar ve kâseler artan bir şiddetle aynı alanı kat eder ve 20. bölüm, 12. bölümde zaten anlatılan Şeytan'ın yenilgisini yeniden anlatır. Görümlerin sırayla mı ilerlediği yoksa kendini mi yinelediği, bu kitap hakkındaki en eski sorulardan biridir (Beale, s. 116–124) ve bin yıl tartışmasının büyük kısmı buna bağlıdır. → {{% int_link val="Bin yıllık krallık" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
+- **Zıtlık.** Fahişe Babil ve gelin, Yeni Yeruşalim, neredeyse aynı sözlerle tanıtılır — {{% bible val="yedi tası taşıyan yedi melekten biri gelip bana, 'Gel, sana göstereyim …' dedi" link="rev:17,1" lang="tr" %}} ({{% bible val="karşılaştırın 21:9" link="rev:21,9" lang="tr" %}}) — böylece okur iki kenti yan yana koyar. → {{% int_link val="Fahişe Babil kimdir?" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Yeni Yeruşalim" link="/expl/content/paradise/the-new-jerusalem" %}}
+- **Çözüm.** Yedi kiliseye verilen vaatler sonda yanıt bulur: yaşam ağacı ({{% bible val="2:7" link="rev:2,7" lang="tr" %}} → {{% bible val="22:2" link="rev:22,2" lang="tr" %}}), alında Tanrı'nın adı ({{% bible val="3:12" link="rev:3,12" lang="tr" %}} → {{% bible val="22:4" link="rev:22,4" lang="tr" %}}), sabah yıldızı ({{% bible val="2:28" link="rev:2,28" lang="tr" %}} → {{% bible val="22:16" link="rev:22,16" lang="tr" %}}), Mesih'in tahtında bir yer ({{% bible val="3:21" link="rev:3,21" lang="tr" %}} → {{% bible val="22:5" link="rev:22,5" lang="tr" %}}).
+- **Küçük ölçekte kiazma.** Tek tek sözler bile çapraz kurulur: "Kutsalların dayanma gücü ve imanı bunu gerektirir" sözü "kulağı olan işitsin" sözünü yanıtlar ({{% bible val="13:9–10" link="rev:13,9-10" lang="tr" %}}), "bilgelik bunu gerektirir" sözü de "anlayışı olan hesaplasın" sözünü ({{% bible val="13:18" link="rev:13,18" lang="tr" %}}). → {{% int_link val="Canavarın doğası" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="İki Tanık" link="/expl/content/witnesses/the-two-witnesses" %}}

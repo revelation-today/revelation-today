@@ -13,6 +13,9 @@ sources:
       ref: beale_rev
     - pages: 1084–1090
       ref: aune_rev
+deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
 ---
 
 Vahiy 20'deki bin yıllık krallık, kitaptaki neredeyse başka her hangi bir bölümden daha fazla rakip teori doğurmuştur. Bir teoriden yola çıkmak yerine, metnin kendisinden ve bağlamından başlayalım ve yeni ve taze bir bakışın ne ortaya çıkardığını görelim. Aşağıdakiler, bu bölüm üzerine uzun süredir savunulan birkaç Hristiyan görüşten birini savunuyor — {{% int_link val="sonraki makale" link="/expl/content/1000y/pre-post-and-amillennialism" %}} tartışmanın tamamını ortaya koyuyor ve alternatiflere adil bir dinleme hakkı tanıyor.

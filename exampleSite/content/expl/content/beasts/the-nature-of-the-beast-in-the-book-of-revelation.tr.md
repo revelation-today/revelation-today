@@ -9,6 +9,8 @@ next: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
 docType: expl
 appl: /appl/content/beasts
 deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Tarihsel bağlamda canavarlar
       link:  /expl/content/beasts/the-beasts-and-the-666-in-historical-context
     - name: 666 sayısı

@@ -9,6 +9,8 @@ next: /expl/content/jesus/a-different-christmas-story
 docType: expl
 appl: /appl/content/witnesses
 deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: İkinci Çıkış
       link:  /expl/background/israel/the-second-exodus
     - name: Tanıklığın gücü

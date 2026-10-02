@@ -11,6 +11,9 @@ appl: /appl/content/paradise
 sources: 
     - pages: 1039–1121
       ref: beale_rev
+deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
 ---
 
 What will heaven be like, and what will hell be like? Revelation doesn't answer either question in exhaustive detail, but it gives real insight into both.

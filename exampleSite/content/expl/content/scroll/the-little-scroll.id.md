@@ -9,6 +9,8 @@ next: /expl/content/witnesses/the-two-witnesses
 docType: expl
 appl: /appl/content/scroll
 deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Kedua Saksi
       link:  /expl/content/witnesses/the-two-witnesses
 sources: 

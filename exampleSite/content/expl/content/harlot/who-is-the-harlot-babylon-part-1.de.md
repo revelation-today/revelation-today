@@ -9,6 +9,8 @@ next: /expl/content/harlot/who-is-the-harlot-babylon-part-2
 docType: expl
 appl: /appl/content/harlot
 deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: "Wer ist die Hure: Teil 2"
       link:  /expl/content/harlot/who-is-the-harlot-babel-part-2
     - name: Der Ursprung Babels

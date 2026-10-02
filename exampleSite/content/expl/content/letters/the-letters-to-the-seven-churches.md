@@ -9,6 +9,8 @@ next: /expl/content/letters/the-letter-to-the-church-in-ephesus
 docType: expl
 appl: /appl/content/letters
 deeper:
+    - name: Literary tools
+      link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Gods covenant
       link:  /expl/background/israel/gods-covenant
 ---
