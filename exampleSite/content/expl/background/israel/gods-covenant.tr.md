@@ -7,6 +7,10 @@ readBefore:
 sources:
     - pages: 69-
       ref: richter
+    - pages: 119, 126–129
+      ref: aune_rev
+    - pages: 60, 373, 575, 1151–1152
+      ref: beale_rev
 prev: /expl/background/israel/the-role-of-family-in-the-bible
 next: /expl/background/israel/the-day-of-the-lord
 docType: expl
@@ -53,3 +57,16 @@ Antlaşma ayrıca sürekli bir gereklilikle birlikte geldi: {{% bible val="tekra
 Önemli olan şu ki, birçok dünyevi antlaşmanın aksine, Tanrı’nın antlaşmasının şartları asla imkânsız değildi; zayıf tarafı başarısızlığa mahkûm etmiyordu. Tanrı’nın halkı şartları tutabilirdi. Sadece tutmamayı seçtiler.
 
 Bütün bunlar boyunca Tanrı {{% bible val="kendisine İsrail’in Babası" link="exo:3,6" lang="tr" %}} der — antlaşma şartlarıyla bağlı olsa bile merhametli kalan bir baba. Kutsal Kitap bu birleşimi "hesed" sözcüğünde yakalar; genellikle "antlaşma sadakati" olarak çevrilen, bağlama göre "sevgi", "iyilik", "merhamet" ya da "sadakat" olarak da aktarılabilecek kadar zengin bir sözcüktür.
+
+## Vahiy'de antlaşma
+
+<a name="c0f2"></a>
+Vahiy, bu sözcüğü hiç kullanmadığı yerlerde bile bu antlaşma düşüncesiyle doludur:
+
+- **Bir kralın halkına fermanı.** Yedi mektubun her biri resmî bir bildiri gibi açılır — "… olan şöyle diyor" — sonra över, suçlar, talep eder ve vaatler ile uyarılarla biter. Yorumcular onları yukarıda anlatılan antlaşma metinleriyle (W. H. Shea) ve David Aune'un savunduğu gibi, hükümdarların kentlerine seslendiği kraliyet ya da imparatorluk fermanlarıyla karşılaştırmıştır (Aune, s. 119, 126–129). Her iki durumda da dirilmiş Mesih, kendisine bağlı kiliselere büyük Kral olarak konuşur. → {{% int_link val="Yedi kiliseye gönderilen mektuplar" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **Geri dönüş için artan baskı.** Levililer 26, İsrail hâlâ dinlemezse Tanrı'nın onları {{% bible val="yedi kat daha cezalandıracağı" link="lev:26,18-28" lang="tr" %}} uyarısında bulunur — dört kez yinelenen bir tehdit. Vahiy'deki yedili mühür, borazan ve kâse dizileri bu örüntü üzerine kuruludur (Beale, s. 60, 373); hüzünlü nakaratı da öyle: {{% bible val="tövbe etmediler" link="rev:9,20-21" lang="tr" %}}. Levililer'de olduğu gibi amaç, son lanet düşmeden önce insanları geri getirmektir. → {{% int_link val="Vahiy’deki trompetler" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
+- **Tapınakta saklanan antlaşma.** Antlaşma levhaları {{% bible val="sandıkta" link="exo:25,16" lang="tr" %}} saklanırdı. Yedinci borazan çaldığında Tanrı'nın gökteki tapınağı açılır ve {{% bible val="O'nun antlaşma sandığı" link="rev:11,19" lang="tr" %}} görünür: Tanrı antlaşmasını unutmamıştır.
+- **İki tanık.** Antlaşma yasası geçerli bir dava için {{% bible val="iki tanık" link="deu:19,15" lang="tr" %}} isterdi. Bu yüzden 11. bölümde Tanrı'nın tanıkları iki kişidir: tanıklıkları hukuken geçerlidir (Beale, s. 575). → {{% int_link val="İki Tanık" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Ne ekleme ne çıkarma.** Vahiy, antlaşmanın kendi uyarısıyla kapanır — {{% bible val="kim bunlara bir şey eklerse … kim bu sözlerden bir şey çıkarırsa" link="rev:22,18-19" lang="tr" %}} — Musa'nın yasa için kullandığı sözlerle ({{% bible val="Yasa'nın Tekrarı 4:2" link="deu:4,2" lang="tr" %}}; Beale, s. 1151–1152).
+
+Bu açıdan bakıldığında Vahiy yeni bir kurallar dizisi değil, eski antlaşma örüntüsünün gerçekleşmesidir: büyük Kral konuşur, uyarır ve vaatlerini tutar — şimdi İsa aracılığıyla.

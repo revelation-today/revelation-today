@@ -7,6 +7,10 @@ readBefore:
 sources:
     - pages: 69-
       ref: richter
+    - pages: 119, 126–129
+      ref: aune_rev
+    - pages: 60, 373, 575, 1151–1152
+      ref: beale_rev
 prev: /expl/background/israel/the-role-of-family-in-the-bible
 next: /expl/background/israel/the-day-of-the-lord
 docType: expl
@@ -53,3 +57,16 @@ The covenant also came with an ongoing requirement: it had to be {{% bible val="
 Crucially, the terms of God's covenant were never impossible, unlike many earthly covenants that set the weaker party up to fail. God's people could have kept the terms. They simply chose not to.
 
 Through all of this, God calls {{% bible val="himself the Father of Israel" link="exo:3,6" lang="en" %}} — a father who, even bound by covenant terms, remains merciful. The Bible captures that combination in the word "hesed," usually translated "covenant loyalty," a word rich enough to be rendered as "love," "goodness," "mercy," or "faithfulness" depending on context.
+
+## The covenant in Revelation
+
+<a name="c0f2"></a>
+Revelation is soaked in this covenant thinking, even where it never uses the word:
+
+- **A king's decree to his people.** Each of the seven letters opens like an official pronouncement — "These are the words of him who…" — then praises, accuses, demands, and ends with promises and threats. Scholars have compared them to the covenant treaties described above (W. H. Shea) and, as David Aune argues, to the royal or imperial edicts with which rulers addressed their cities (Aune, pp. 119, 126–129). Either way, the risen Christ speaks as the great King to the churches bound to him. → {{% int_link val="The letters to the seven churches" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **Pressure that rises, for the sake of turning back.** Leviticus 26 warned that if Israel still would not listen, God would punish them {{% bible val="seven times over" link="lev:26,18-28" lang="en" %}} — a threat repeated four times. Revelation's series of seven seals, trumpets and bowls is built on that pattern (Beale, pp. 60, 373), and so is its sad refrain: {{% bible val="they did not repent" link="rev:9,20-21" lang="en" %}}. As in Leviticus, the purpose is to bring people back before the last curse falls. → {{% int_link val="The trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
+- **The covenant kept in the temple.** The covenant tablets were kept in {{% bible val="the ark" link="exo:25,16" lang="en" %}}. When the seventh trumpet sounds, God's temple in heaven opens and {{% bible val="the ark of his covenant" link="rev:11,19" lang="en" %}} is seen: God has not forgotten his covenant.
+- **Two witnesses.** The covenant law required {{% bible val="two witnesses" link="deu:19,15" lang="en" %}} for a valid case. That is why God's witnesses in chapter 11 are two: their testimony stands as legally valid (Beale, p. 575). → {{% int_link val="The two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Nothing added, nothing taken away.** Revelation closes with the covenant's own warning — {{% bible val="if anyone adds anything… if anyone takes words away" link="rev:22,18-19" lang="en" %}} — the words Moses used for the law ({{% bible val="Deut 4:2" link="deu:4,2" lang="en" %}}; Beale, pp. 1151–1152).
+
+Seen this way, Revelation is not a new set of rules but the old covenant pattern fulfilled: the great King speaks, warns and keeps his promises — now through Jesus.

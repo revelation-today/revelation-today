@@ -8,6 +8,9 @@ prev: /expl/content/letters/the-angel-of-the-churches
 next: /expl/content/letters/the-letter-to-the-church-in-ephesus
 docType: expl
 appl: /appl/content/letters
+deeper:
+    - name: Der Bund Gottes
+      link:  /expl/background/israel/gods-covenant
 ---
 
 Das Buch der Offenbarung enthält sieben Sendschreiben an sieben bestimmte Gemeinden. Was ist der Zweck dieser Briefe, wie sind sie aufgebaut, und was ist die übergeordnete Botschaft?

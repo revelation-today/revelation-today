@@ -8,6 +8,9 @@ prev: /expl/content/letters/the-angel-of-the-churches
 next: /expl/content/letters/the-letter-to-the-church-in-ephesus
 docType: expl
 appl: /appl/content/letters
+deeper:
+    - name: Perjanjian Allah
+      link:  /expl/background/israel/gods-covenant
 ---
 
 Kitab Wahyu memuat tujuh surat kepada tujuh jemaat tertentu. Apa tujuan surat-surat ini, bagaimana susunannya, dan apa pesan keseluruhannya?

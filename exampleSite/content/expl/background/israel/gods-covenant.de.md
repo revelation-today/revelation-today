@@ -7,6 +7,10 @@ readBefore:
 sources:
     - pages: 69-
       ref: richter
+    - pages: 119, 126–129
+      ref: aune_rev
+    - pages: 60, 373, 575, 1151–1152
+      ref: beale_rev
 prev: /expl/background/israel/the-role-of-family-in-the-bible
 next: /expl/background/israel/the-day-of-the-lord
 docType: expl
@@ -53,3 +57,16 @@ Der Bund brachte auch eine fortwährende Verpflichtung mit sich: Er musste {{% b
 Entscheidend ist: Die Bedingungen von Gottes Bund waren nie unmöglich zu erfüllen, anders als bei vielen irdischen Bündnissen, die die schwächere Partei von vornherein zum Scheitern bestimmten. Gottes Volk hätte die Bedingungen einhalten können. Es hat sich nur dagegen entschieden.
 
 Bei alldem nennt Gott {{% bible val="sich selbst den Vater Israels" link="exo:3,6" lang="de" %}} — einen Vater, der, selbst gebunden an die Bedingungen des Bundes, barmherzig bleibt. Die Bibel fasst diese Verbindung im Wort „hesed“ zusammen, gewöhnlich mit „Bundestreue“ übersetzt, ein Wort, das reich genug ist, um je nach Zusammenhang auch mit „Liebe“, „Güte“, „Gnade“ oder „Treue“ wiedergegeben zu werden.
+
+## Der Bund in der Offenbarung
+
+<a name="c0f2"></a>
+Die Offenbarung ist von diesem Bundesdenken durchtränkt, auch wo sie das Wort gar nicht gebraucht:
+
+- **Der Erlass eines Königs an sein Volk.** Jedes der sieben Sendschreiben beginnt wie eine amtliche Verlautbarung — „Das sagt der, der …“ —, lobt dann, klagt an, fordert und endet mit Verheißungen und Drohungen. Ausleger haben sie mit den oben beschriebenen Bundesverträgen verglichen (W. H. Shea) und, wie David Aune begründet, mit den königlichen oder kaiserlichen Erlassen, mit denen Herrscher sich an ihre Städte wandten (Aune, S. 119, 126–129). So oder so spricht der auferstandene Christus als der große König zu den Gemeinden, die an ihn gebunden sind. → {{% int_link val="Die sieben Sendschreiben" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **Steigender Druck, damit Umkehr geschieht.** 3. Mose 26 warnte: Wenn Israel noch immer nicht hört, wird Gott es {{% bible val="siebenfach mehr strafen" link="lev:26,18-28" lang="de" %}} — eine Drohung, die viermal wiederholt wird. Die Siebenerreihen der Siegel, Posaunen und Schalen in der Offenbarung sind nach diesem Muster gebaut (Beale, S. 60, 373), und ebenso ihr trauriger Kehrreim: {{% bible val="sie taten nicht Buße" link="rev:9,20-21" lang="de" %}}. Wie in 3. Mose 26 ist das Ziel, Menschen zurückzubringen, bevor der letzte Fluch fällt. → {{% int_link val="Die sieben Posaunen" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
+- **Der Bund im Tempel aufbewahrt.** Die Bundestafeln wurden in {{% bible val="der Lade" link="exo:25,16" lang="de" %}} aufbewahrt. Als die siebte Posaune ertönt, öffnet sich Gottes Tempel im Himmel, und {{% bible val="die Lade seines Bundes" link="rev:11,19" lang="de" %}} wird sichtbar: Gott hat seinen Bund nicht vergessen.
+- **Zwei Zeugen.** Das Bundesgesetz verlangte {{% bible val="zwei Zeugen" link="deu:19,15" lang="de" %}} für einen gültigen Rechtsfall. Darum sind Gottes Zeugen in Kapitel 11 zwei: Ihr Zeugnis gilt vor Gericht (Beale, S. 575). → {{% int_link val="Die beiden Zeugen" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Nichts hinzufügen, nichts wegnehmen.** Die Offenbarung schließt mit der Warnung des Bundes selbst — {{% bible val="wenn jemand etwas hinzufügt … wenn jemand etwas wegnimmt" link="rev:22,18-19" lang="de" %}} —, mit den Worten, die Mose für das Gesetz gebrauchte ({{% bible val="5. Mose 4,2" link="deu:4,2" lang="de" %}}; Beale, S. 1151–1152).
+
+So gesehen ist die Offenbarung kein neues Regelwerk, sondern das alte Bundesmuster in seiner Erfüllung: Der große König spricht, warnt und hält seine Verheißungen — jetzt durch Jesus.

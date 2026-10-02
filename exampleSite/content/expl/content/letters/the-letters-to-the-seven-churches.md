@@ -8,6 +8,9 @@ prev: /expl/content/letters/the-angel-of-the-churches
 next: /expl/content/letters/the-letter-to-the-church-in-ephesus
 docType: expl
 appl: /appl/content/letters
+deeper:
+    - name: Gods covenant
+      link:  /expl/background/israel/gods-covenant
 ---
 
 The book of Revelation includes seven letters to seven specific churches. What is the purpose of these letters, how are they arranged, and what is the overall message?

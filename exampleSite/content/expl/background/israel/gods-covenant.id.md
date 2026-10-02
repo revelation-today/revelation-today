@@ -7,6 +7,10 @@ readBefore:
 sources:
     - pages: 69-
       ref: richter
+    - pages: 119, 126–129
+      ref: aune_rev
+    - pages: 60, 373, 575, 1151–1152
+      ref: beale_rev
 prev: /expl/background/israel/the-role-of-family-in-the-bible
 next: /expl/background/israel/the-day-of-the-lord
 docType: expl
@@ -53,3 +57,16 @@ Perjanjian itu juga disertai sebuah tuntutan yang berkelanjutan: perjanjian itu 
 Yang terpenting, syarat-syarat perjanjian Allah tidak pernah mustahil untuk dipenuhi, tidak seperti banyak perjanjian di dunia yang justru dirancang agar pihak yang lebih lemah gagal memenuhinya. Umat Allah sebenarnya bisa saja menaati syarat-syarat itu. Mereka hanya memilih untuk tidak melakukannya.
 
 Melalui semua ini, Allah menyebut {{% bible val="diri-Nya sendiri Bapa Israel" link="exo:3,6" lang="ind" %}} — seorang bapak yang, meskipun terikat oleh syarat-syarat perjanjian, tetap penuh belas kasihan. Alkitab menangkap perpaduan itu dalam kata "hesed", yang biasanya diterjemahkan "kesetiaan perjanjian", sebuah kata yang cukup kaya makna sehingga dapat diterjemahkan sebagai "kasih", "kebaikan", "belas kasihan", atau "kesetiaan" tergantung pada konteksnya.
+
+## Perjanjian dalam Kitab Wahyu
+
+<a name="c0f2"></a>
+Kitab Wahyu diresapi oleh pemikiran perjanjian ini, bahkan di tempat yang sama sekali tidak memakai kata itu:
+
+- **Ketetapan seorang raja kepada umatnya.** Setiap surat dari ketujuh surat itu dibuka seperti sebuah pernyataan resmi — "Inilah firman dari Dia yang …" — lalu memuji, menegur, menuntut, dan diakhiri dengan janji dan ancaman. Para penafsir membandingkannya dengan perjanjian-perjanjian yang dijelaskan di atas (W. H. Shea) dan, seperti dikemukakan David Aune, dengan ketetapan raja atau kaisar yang dipakai para penguasa untuk menyapa kota-kota mereka (Aune, hlm. 119, 126–129). Bagaimanapun juga, Kristus yang bangkit berbicara sebagai Raja yang agung kepada jemaat-jemaat yang terikat kepada-Nya. → {{% int_link val="Ketujuh Surat kepada Gereja-gereja" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **Tekanan yang meningkat, supaya orang berbalik.** Imamat 26 memperingatkan bahwa jika Israel tetap tidak mau mendengar, Allah akan menghukum mereka {{% bible val="tujuh kali lipat" link="lev:26,18-28" lang="ind" %}} — ancaman yang diulang empat kali. Rangkaian tujuh meterai, sangkakala, dan cawan dalam Kitab Wahyu disusun menurut pola itu (Beale, hlm. 60, 373), demikian pula refreinnya yang menyedihkan: {{% bible val="mereka tidak bertobat" link="rev:9,20-21" lang="ind" %}}. Seperti dalam Imamat, tujuannya ialah membawa orang kembali sebelum kutuk terakhir jatuh. → {{% int_link val="Sangkakala-Sangkakala dalam Wahyu" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
+- **Perjanjian disimpan di dalam bait suci.** Loh-loh perjanjian disimpan di dalam {{% bible val="tabut" link="exo:25,16" lang="ind" %}}. Ketika sangkakala ketujuh berbunyi, Bait Suci Allah di sorga terbuka dan {{% bible val="tabut perjanjian-Nya" link="rev:11,19" lang="ind" %}} kelihatan: Allah tidak melupakan perjanjian-Nya.
+- **Dua saksi.** Hukum perjanjian menuntut {{% bible val="dua saksi" link="deu:19,15" lang="ind" %}} untuk suatu perkara yang sah. Itulah sebabnya saksi-saksi Allah dalam pasal 11 berjumlah dua: kesaksian mereka sah secara hukum (Beale, hlm. 575). → {{% int_link val="Kedua saksi" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Tidak menambah, tidak mengurangi.** Kitab Wahyu ditutup dengan peringatan perjanjian itu sendiri — {{% bible val="jikalau seorang menambahkan sesuatu … jikalau seorang mengurangkan sesuatu" link="rev:22,18-19" lang="ind" %}} — kata-kata yang dipakai Musa untuk hukum Taurat ({{% bible val="Ulangan 4:2" link="deu:4,2" lang="ind" %}}; Beale, hlm. 1151–1152).
+
+Dilihat dengan cara ini, Kitab Wahyu bukanlah seperangkat aturan baru, melainkan pola perjanjian yang lama dalam penggenapannya: Raja yang agung berbicara, memperingatkan, dan menepati janji-janji-Nya — kini melalui Yesus.

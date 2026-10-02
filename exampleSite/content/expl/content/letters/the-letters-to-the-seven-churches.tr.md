@@ -8,6 +8,9 @@ prev: /expl/content/letters/the-angel-of-the-churches
 next: /expl/content/letters/the-letter-to-the-church-in-ephesus
 docType: expl
 appl: /appl/content/letters
+deeper:
+    - name: Tanrı’nın antlaşması
+      link:  /expl/background/israel/gods-covenant
 ---
 
 Vahiy kitabı, yedi belirli kiliseye gönderilen yedi mektup içerir. Bu mektupların amacı nedir, nasıl düzenlenmiştir ve genel mesaj nedir?
