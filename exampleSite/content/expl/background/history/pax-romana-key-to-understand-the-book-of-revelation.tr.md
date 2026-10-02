@@ -45,7 +45,8 @@ Bunun kötü tarafı, bu altın çağın şiddet, baskı ve zorla sindirme üzer
 
 Roma bu vizyonu amansızca yaydı:
 
-- Virgilius ya da Epiktetos gibi kişilerin sanat eserleriyle
+- şiirle: Vergilius'un *Aeneis*'i ve Horatius'un *Yeni Çağ İçin Şarkı*'sı (*Carmen Saeculare*, MÖ 17) Augustus'u bir altın çağın getiricisi olarak övdü
+- okurların kendi bölgesindeki yazıtlarla: Asya eyaletinde Priene takvim yazıtı (MÖ 9, OGIS 458) Augustus'un doğum gününü "dünya için iyi haberin (*euangelia*) başlangıcı" diye adlandırdı ve Augustus'un kendi icraatlarını anlattığı *Res Gestae*, Küçük Asya'nın birçok kentinde herkesin göreceği yerlere kazındı
 - etkileyici tören alaylarıyla
 - oyunlarla
 - heykellerle

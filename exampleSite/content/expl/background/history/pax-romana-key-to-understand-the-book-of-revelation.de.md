@@ -45,7 +45,8 @@ Die Kehrseite: Dieses goldene Zeitalter war auf Gewalt, Unterdrückung und erzwu
 
 Rom verbreitete diese Vision unermüdlich, unter anderem durch:
 
-- Kunstwerke von Leuten wie Vergil oder Epiktet
+- Dichtung: Vergils *Aeneis* und Horaz' *Lied für das neue Zeitalter* (*Carmen Saeculare*, 17 v. Chr.) feierten Augustus als Bringer eines goldenen Zeitalters
+- Inschriften in der eigenen Region der Leser: In der Provinz Asia nannte die Kalenderinschrift von Priene (9 v. Chr., OGIS 458) den Geburtstag des Augustus „den Anfang der frohen Botschaft (*euangelia*) für die Welt“, und Augustus' eigener Tatenbericht, die *Res Gestae*, war in mehreren Städten Kleinasiens öffentlich in Stein gemeißelt
 - eindrucksvolle Prozessionen
 - Spiele
 - Statuen

@@ -45,7 +45,8 @@ Sisi buruknya adalah bahwa zaman keemasan ini dibangun di atas kekerasan, penind
 
 Roma menyebarkan gagasan ini secara terus-menerus, melalui:
 
-- karya seni oleh tokoh-tokoh seperti Vergilius atau Epiktetus
+- puisi: *Aeneis* karya Vergilius dan *Nyanyian untuk Zaman Baru* karya Horatius (*Carmen Saeculare*, 17 SM) memuji Augustus sebagai pembawa zaman keemasan
+- prasasti di wilayah para pembaca sendiri: di provinsi Asia, prasasti kalender Priene (9 SM, OGIS 458) menyebut hari kelahiran Augustus "permulaan kabar baik (*euangelia*) bagi dunia", dan catatan Augustus sendiri tentang perbuatan-perbuatannya, *Res Gestae*, dipahat di depan umum di beberapa kota di Asia Kecil
 - prosesi-prosesi yang mengesankan
 - pertandingan-pertandingan
 - patung-patung

@@ -45,7 +45,8 @@ The downside is that this golden age was built on violence, oppression, and forc
 
 Rome propagated this vision relentlessly, through:
 
-- works of art by people like Virgil or Epictetus
+- poetry: Virgil's *Aeneid* and Horace's *Song for the New Age* (*Carmen Saeculare*, 17 BC) hailed Augustus as the bringer of a golden age
+- inscriptions in the readers' own region: in the province of Asia, the Priene calendar inscription (9 BC, OGIS 458) called Augustus's birthday "the beginning of the good news (*euangelia*) for the world", and Augustus's own record of his deeds, the *Res Gestae*, was carved in public in several cities of Asia Minor
 - impressive processions
 - games
 - statues
