@@ -28,9 +28,9 @@ Bunlar bir araya geldiğinde, bu göndermeler Markos Müjdesi'nin yapısının Y
 
 | Markos | Yeşaya 40-66 | Açıklama |
 |------|----------------|----------|
-| İsa'nın Celile ve ötesindeki hizmeti (1/16-8/21:26) </br> İnsanlar cinler tarafından serbest bırakılır. </br> {{% bible val="İsa'nın (Beelzebub) reddedilmesi" link="mrk:3,22-30" lang="tr" %}} {{% bible val="yüreklerin katılaşmasıyla" link="mrk:4,11-13" lang="tr" %}} sonuçlanır. | İsrail, Savaşçı ve Şifacı Tanrı tarafından kölelikten kurtarılır</br> İsrail Babil'den kurtarılır </br> {{% bible val="Tanrı'yı reddetmek: Tanrı onların düşmanı olur" link="isa:63,10" lang="tr" %}} | Cinlerden kurtuluş İsa'nın yetkisini gösterir, Tanrı'ya insanları hapisten kurtaran savaşçı olarak gönderme yapar.</br> İnsanlar cinler tarafından tutsak edilir. |
+| İsa'nın Celile ve ötesindeki hizmeti (1/16–8/21 veya 8/26) </br> İnsanlar cinler tarafından serbest bırakılır. </br> {{% bible val="İsa'nın (Beelzebub) reddedilmesi" link="mrk:3,22-30" lang="tr" %}} {{% bible val="yüreklerin katılaşmasıyla" link="mrk:4,11-13" lang="tr" %}} sonuçlanır. | İsrail, Savaşçı ve Şifacı Tanrı tarafından kölelikten kurtarılır</br> İsrail Babil'den kurtarılır </br> {{% bible val="Tanrı'yı reddetmek: Tanrı onların düşmanı olur" link="isa:63,10" lang="tr" %}} | Cinlerden kurtuluş İsa'nın yetkisini gösterir, Tanrı'ya insanları hapisten kurtaran savaşçı olarak gönderme yapar.</br> İnsanlar cinler tarafından tutsak edilir. |
 | Mk.8/22,27-10/15,52: İsa "kör" öğrencilerine "yolda" rehberlik eder </br> Kör ve sağırları iyileştirir, öğrenciler de ilk başta kördür, ancak tekrar görürler. | {{% bible val="Tanrı \"körlere\" \"yolda\" rehberlik eder" link="isa:42,16" lang="tr" %}} | İsa'nın acı çekmesi, çıkışının gerçekleştiği yoldur (Yşa.53: hizmetkâr ölümüyle yol alır (Mk.10/45)) |
-| Mk.10/46;11/1-16/8: İsa'nın Kudüs'e nihai varışı | İsrail'in Kudüs'e nihai varışı | İsa incir ağacını örter: başlangıca gönderme: {{% bible val="yargı ya da vaat, yalnızca meyve verirse" link="rev:17,14" lang="tr" %}} |
+| Mk.10/46;11/1-16/8: İsa'nın Kudüs'e nihai varışı | İsrail'in Kudüs'e nihai varışı | İsa incir ağacını lanetler: başlangıca gönderme: {{% bible val="yargı ya da vaat, yalnızca meyve verirse" link="mrk:11,12-21" lang="tr" %}} |
 
 ## Luka'daki yeni Çıkış
 

@@ -28,9 +28,9 @@ Taken together, these allusions show that the structure of Mark's gospel mirrors
 
 | Mark | Isaiah 40-66 | Explanation |
 |------|--------------|-------------|
-| Jesus' ministry in Galilee and beyond (1/16-8/21:26) </br> People are set free from demons. </br> {{% bible val="Rejection of Jesus (Beelzebub)" link="mrk:3,22-30" lang="en" %}} results {{% bible val="in hardening of hearts" link="mrk:4,11-13" lang="en" %}}. | Israel is set free from slavery by God the Warrior and Healer</br> Israel is freed from Babylon </br> {{% bible val="Rejecting God: God becomes their enemy" link="isa:63,10" lang="en" %}} | Deliverance from demons shows the authority of Jesus, presenting God as the warrior who releases people from captivity.</br> People are held captive by demons. |
+| Jesus' ministry in Galilee and beyond (1/16–8/21 or 8/26) </br> People are set free from demons. </br> {{% bible val="Rejection of Jesus (Beelzebub)" link="mrk:3,22-30" lang="en" %}} results {{% bible val="in hardening of hearts" link="mrk:4,11-13" lang="en" %}}. | Israel is set free from slavery by God the Warrior and Healer</br> Israel is freed from Babylon </br> {{% bible val="Rejecting God: God becomes their enemy" link="isa:63,10" lang="en" %}} | Deliverance from demons shows the authority of Jesus, presenting God as the warrior who releases people from captivity.</br> People are held captive by demons. |
 | Mk.8/22,27-10/15,52: Jesus leads the "blind" disciples on the "way" </br> Healing the blind and deaf, disciples are also blind at first, but see again. | {{% bible val="God guides the \"blind\" on the \"way\"" link="isa:42,16" lang="en" %}} | Jesus suffering is the way in which the exodus happens (Is.53: servant goes the way through his death (Mk.10/45)) |
-| Mk.10/46;11/1-16/8: Jesus eventual arrival in Jerusalem | Israel's eventual arrival in Jerusalem | Jesus veils the fig tree: reference to beginning: {{% bible val="judgment or promise, only if bears fruit" link="rev:17,14" lang="en" %}} |
+| Mk.10/46;11/1-16/8: Jesus eventual arrival in Jerusalem | Israel's eventual arrival in Jerusalem | Jesus curses the fig tree: reference to beginning: {{% bible val="judgment or promise, only if bears fruit" link="mrk:11,12-21" lang="en" %}} |
 
 ## The new Exodus in Luke
 
