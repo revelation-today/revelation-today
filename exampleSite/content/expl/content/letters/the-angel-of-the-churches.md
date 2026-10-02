@@ -8,7 +8,7 @@ deeper:
     - name: The letter to the churches
       link:  /expl/content/letters/the-letters-to-the-seven-churches
     - name: What is a hero
-      link: /topics/hero/short/a-real-hero
+      link: /appl/topics/hero/a-real-hero
 sources: 
     - pages: 108–112
       ref: aune_rev

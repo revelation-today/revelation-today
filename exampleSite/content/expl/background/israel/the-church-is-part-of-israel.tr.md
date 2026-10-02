@@ -4,6 +4,10 @@ weight: 7
 sources:
     - pages: 669–679
       ref: beale_theo
+prev: /expl/background/israel/the-second-exodus
+next: /expl/background/israel/israel-and-the-church
+docType: expl
+appl: /appl/background/israel
 ---
 
 Bu ilk bakışta garip geliyor. Kilise İsrail'den daha büyük değil mi? Yoksa kilise İsrail'in yerini mi alıyor? Ya da İsrail, zamanın sonunda kiliseden ayrı olarak geri mi dönecek? Bu soruların her biri, yakından bakıldığında aslında var olmayan bir tartışmayı varsayar.

@@ -9,13 +9,13 @@ next: /expl/content/trumpets/the-trumpets-in-revelation
 docType: expl
 appl: /appl/content/army
 deeper:
-    - link: /background/israel/expl/the-day-of-the-lord
+    - link: /expl/background/israel/the-day-of-the-lord
     - link: /appl/topics/hero/who-rules-the-world
-    - link: /background/israel/expl/jesus-and-the-covenant
-    - link: /background/israel/expl/the-second-exodus
-    - link: /bible/daniel/expl/the-son-of-man-and-the-remnant
-    - link: /background/israel/expl/the-remnant-of-israel
-    - link: /background/israel/expl/the-church-is-part-of-israel
+    - link: /expl/background/israel/jesus-and-the-covenant
+    - link: /expl/background/israel/the-second-exodus
+    - link: /expl/bible/daniel/the-son-of-man-and-the-remnant
+    - link: /expl/background/israel/the-remnant-of-israel
+    - link: /expl/background/israel/the-church-is-part-of-israel
 sources:
     - pages: 433–445
       ref: beale_rev

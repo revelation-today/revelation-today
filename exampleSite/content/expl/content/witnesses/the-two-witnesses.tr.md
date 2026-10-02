@@ -10,7 +10,7 @@ docType: expl
 appl: /appl/content/witnesses
 deeper:
     - name: Tanıklığın gücü
-      link: /topics/power/short/the-power-of-testimony
+      link: /appl/topics/power/the-power-of-testimony
 sources: 
     - pages: 556–620
       ref: beale_rev

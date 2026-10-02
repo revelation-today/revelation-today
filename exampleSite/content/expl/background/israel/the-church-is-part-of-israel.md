@@ -4,6 +4,10 @@ weight: 7
 sources:
     - pages: 669–679
       ref: beale_theo
+prev: /expl/background/israel/the-second-exodus
+next: /expl/background/israel/israel-and-the-church
+docType: expl
+appl: /appl/background/israel
 ---
 
 This sounds strange at first. Isn't the Church greater than Israel? Or is the Church replacing Israel? Or will Israel make a comeback at the end of time, apart from the church? Each of these questions assumes a controversy that, on closer inspection, does not actually exist.

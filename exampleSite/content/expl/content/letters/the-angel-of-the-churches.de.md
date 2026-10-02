@@ -8,7 +8,7 @@ deeper:
     - name: Die Sendschreiben
       link:  /expl/content/letters/the-letters-to-the-seven-churches
     - name: Was ist ein Held?
-      link: /topics/hero/short/a-real-hero
+      link: /appl/topics/hero/a-real-hero
 sources: 
     - pages: 108–112
       ref: aune_rev

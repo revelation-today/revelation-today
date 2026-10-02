@@ -12,7 +12,7 @@ deeper:
     - name: Die sieben Siegel
       link:  /expl/content/worship/the-book-with-the-seven-seals
     - name: Was ist Anbetung?
-      link: /topics/power/short/worship
+      link: /appl/topics/power/worship
 sources: 
     - pages: 311–337
       ref: beale_rev
