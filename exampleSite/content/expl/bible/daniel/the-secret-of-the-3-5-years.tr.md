@@ -5,6 +5,9 @@ base: /quick/bible/daniel
 prev: /expl/bible/daniel/the-70-year-weeks
 next: /expl/content/vision/setting-the-foundation
 docType: expl
+sources:
+    - pages: 400–402
+      ref: bauckham_climax
 ---
 
 Vahiy kitabı, 1260 gün, 42 ay gibi tuhaf zaman dilimleriyle doludur. Bunlar ne anlama gelir ve gerçek anlamda mı alınmaları gerekir?
@@ -62,4 +65,4 @@ Sonra {{% bible val="tapınak" link="rev:11,1-2" lang="tr" %}} vardır; artık k
 
 Geriye {{% bible val="iki tanığın 1260 günü" link="rev:11,3" lang="tr" %}} kalır; bu da İsa'nın birinci ve ikinci gelişi arasındaki tüm süreyi kapsamalıdır. Bu uzunluğun kendisi, "tanıkların" gerçekte iki kişi değil, büyük olasılıkla Kilise olduğunu düşündürür.
 
-Peki metin neden birim değiştiriyor — burada gün, orada ay? Günler, tanıkların egemenliğini ve İsrail'in korunmasını işaret eder; aylar, şeytanın egemenliğini ve tapınağın dış avlusunun çiğnenmesini işaret eder; yıllar ya da "zamanlar" ise Tanrı'nın gizli işini işaret eder. Bir tahmine göre bu fark, Kilise'nin bereketli 1260 gününü şeytanın sefil 42 ayına karşı vurgulamak içindir — ama bu elbette bir varsayım; kesin bir yanıtım yok. Paralelliğin açıkça ortaya koyduğu şey ise şudur: şeytanın egemenliğiyle Kilise'nin Tanrı vergisi egemenliği yan yana yürür ve dünya sanki şeytan yönetiyormuş gibi görünse de, gerçekte yöneten hâlâ Kilise'dir.
+Peki metin neden birim değiştiriyor — burada gün, orada ay? Günler, tanıkların egemenliğini ve İsrail'in korunmasını işaret eder; aylar, şeytanın egemenliğini ve tapınağın dış avlusunun çiğnenmesini işaret eder; yıllar ya da "zamanlar" ise Tanrı'nın gizli işini işaret eder. Richard Bauckham bunun bilinçli olduğunu göstermiştir: 42 ay canavarın zamanını, 1260 gün kilisenin zamanını belirtir — ve iki sayı, canavarın 666'sının kökü olan 36'ya ve Tanrı halkının sayısı olan 1225'e aittir (Bauckham, *Climax of Prophecy*, s. 400–402; bkz. {{% int_link val="şekilli sayılar" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#bc16" %}}). Paralelliğin açıkça ortaya koyduğu şey ise şudur: şeytanın egemenliğiyle Kilise'nin Tanrı vergisi egemenliği yan yana yürür ve dünya sanki şeytan yönetiyormuş gibi görünse de, gerçekte yöneten hâlâ Kilise'dir.

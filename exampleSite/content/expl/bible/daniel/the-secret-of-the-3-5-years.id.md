@@ -5,6 +5,9 @@ base: /quick/bible/daniel
 prev: /expl/bible/daniel/the-70-year-weeks
 next: /expl/content/vision/setting-the-foundation
 docType: expl
+sources:
+    - pages: 400–402
+      ref: bauckham_climax
 ---
 
 Kitab Wahyu penuh dengan rentang waktu yang aneh — 1260 hari, 42 bulan, dan seterusnya. Apa artinya semua ini, dan haruskah dipahami secara harfiah?
@@ -62,4 +65,4 @@ Kemudian ada {{% bible val="bait Allah" link="rev:11,1-2" lang="ind" %}}, yang t
 
 Yang tersisa adalah {{% bible val="1260 hari kedua saksi itu" link="rev:11,3" lang="ind" %}}, yang pasti mencakup seluruh masa antara kedatangan Yesus yang pertama dan yang kedua. Panjangnya masa ini saja menunjukkan bahwa "kedua saksi" itu sebenarnya bukan dua pribadi, melainkan kemungkinan besar adalah gereja.
 
-Lalu mengapa teks ini berpindah-pindah satuan — di sini hari, di sana bulan? Hari-hari itu menandai masa pemerintahan kedua saksi dan pemeliharaan atas Israel; bulan-bulan itu menandai masa pemerintahan Iblis dan penginjakan pelataran luar bait Allah; dan tahun, atau "masa," menandai karya Allah yang tersembunyi. Salah satu dugaan adalah bahwa perbedaan ini dimaksudkan untuk menonjolkan 1260 hari gereja yang berlimpah dibandingkan dengan 42 bulan Iblis yang sedikit — meskipun ini memang sekadar dugaan; saya sendiri tidak memiliki jawaban yang pasti. Namun yang jelas ditunjukkan oleh kesejajaran ini adalah: pemerintahan Iblis dan pemerintahan gereja yang diberikan Allah berjalan berdampingan, dan meskipun dunia tampak seolah-olah dikuasai Iblis, gerejalah yang sesungguhnya memegang kendali.
+Lalu mengapa teks ini berpindah-pindah satuan — di sini hari, di sana bulan? Hari-hari itu menandai masa pemerintahan kedua saksi dan pemeliharaan atas Israel; bulan-bulan itu menandai masa pemerintahan Iblis dan penginjakan pelataran luar bait Allah; dan tahun, atau "masa," menandai karya Allah yang tersembunyi. Richard Bauckham menunjukkan bahwa hal ini disengaja: 42 bulan menandai masa binatang itu, 1260 hari masa gereja — dan kedua bilangan itu terkait dengan 36, akar dari 666 milik binatang itu, dan dengan 1225, bilangan umat Allah (Bauckham, *Climax of Prophecy*, hlm. 400–402; lihat {{% int_link val="bilangan yang berbentuk" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042" %}}). Namun yang jelas ditunjukkan oleh kesejajaran ini adalah: pemerintahan Iblis dan pemerintahan gereja yang diberikan Allah berjalan berdampingan, dan meskipun dunia tampak seolah-olah dikuasai Iblis, gerejalah yang sesungguhnya memegang kendali.

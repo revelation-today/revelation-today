@@ -36,7 +36,7 @@ Vahiy'deki 7 mutluluk bildirisi muhtemelen azizlere verilen bereketin tamamını
 ## 3,5 sayısı
 
 <a name="832f"></a>
-{{% int_link val="Bu konuda kendi makalemiz var" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}
+Üç buçuk yıl — 42 ay, 1260 gün ya da "bir süre, iki süre ve yarım süre" olarak anlatılır ({{% bible val="11:2–3" link="rev:11,2-3" lang="tr" %}}; {{% bible val="12:6, 14" link="rev:12,6-14" lang="tr" %}}; {{% bible val="13:5" link="rev:13,5" lang="tr" %}}) — İsa'nın birinci ve ikinci gelişi arasındaki zamandır. İlyas'ın İzebel'in Baal'ına karşı üç buçuk yıllık kuraklığını ({{% bible val="Luka 4:25" link="luk:4,25" lang="tr" %}}) ve Daniel'in yarım haftasını hatırlatır. Şeytanın kudurduğu, kilisenin ise aynı anda tanıklık ettiği ve korunduğu zamandır. → {{% int_link val="3,5 yıl" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}
 
 ## 4 sayısı
 

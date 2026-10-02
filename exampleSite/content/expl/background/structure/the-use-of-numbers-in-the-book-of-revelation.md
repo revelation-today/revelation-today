@@ -36,7 +36,7 @@ The 7 seals, 7 trumpets, and 7 bowls of wrath extend this same pattern, marking 
 ## The number 3,5
 
 <a name="a9fe"></a>
-{{% int_link val="We have an own article here" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}
+Three and a half years — told as 42 months, 1260 days, or "a time, times and half a time" ({{% bible val="11:2–3" link="rev:11,2-3" lang="en" %}}; {{% bible val="12:6, 14" link="rev:12,6-14" lang="en" %}}; {{% bible val="13:5" link="rev:13,5" lang="en" %}}) — is the time between Jesus' first and second coming. It recalls Elijah's three and a half years of drought against Jezebel's Baal ({{% bible val="Luke 4:25" link="luk:4,25" lang="en" %}}) and Daniel's half-week. It is the time in which the devil rages while the church bears witness and is protected, side by side. → {{% int_link val="The secret of the 3,5 years" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}
 
 ## The number 4
 

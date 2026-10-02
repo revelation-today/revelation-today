@@ -36,7 +36,7 @@ Die 7 Siegel, 7 Posaunen und 7 Zornesschalen führen dasselbe Muster fort und ma
 ## Die Zahl 3,5
 
 <a name="20fe"></a>
-{{% int_link val="Dazu gibt es einen eigenen Artikel." link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}
+Dreieinhalb Jahre — erzählt als 42 Monate, 1260 Tage oder „eine Zeit, zwei Zeiten und eine halbe Zeit“ ({{% bible val="11,2–3" link="rev:11,2-3" lang="de" %}}; {{% bible val="12,6.14" link="rev:12,6-14" lang="de" %}}; {{% bible val="13,5" link="rev:13,5" lang="de" %}}) — sind die Zeit zwischen dem ersten und dem zweiten Kommen Jesu. Sie erinnern an Elias dreieinhalb Jahre Dürre gegen Isebels Baal ({{% bible val="Lukas 4,25" link="luk:4,25" lang="de" %}}) und an Daniels halbe Woche. Es ist die Zeit, in der der Teufel tobt, während die Gemeinde zugleich Zeugnis gibt und bewahrt wird. → {{% int_link val="Die dreieinhalb Jahre der Endzeit" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}
 
 ## Die Zahl 4
 

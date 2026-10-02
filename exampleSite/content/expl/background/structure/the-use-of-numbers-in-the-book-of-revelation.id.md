@@ -36,7 +36,7 @@ Ketujuh meterai, ketujuh sangkakala, dan ketujuh cawan murka memperluas pola yan
 ## Angka 3,5
 
 <a name="20fe"></a>
-{{% int_link val="Kami memiliki artikel tersendiri tentang hal ini" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}
+Tiga setengah tahun — disebut sebagai 42 bulan, 1260 hari, atau "satu masa dan dua masa dan setengah masa" ({{% bible val="11:2–3" link="rev:11,2-3" lang="ind" %}}; {{% bible val="12:6, 14" link="rev:12,6-14" lang="ind" %}}; {{% bible val="13:5" link="rev:13,5" lang="ind" %}}) — adalah masa antara kedatangan Yesus yang pertama dan yang kedua. Masa itu mengingatkan pada tiga setengah tahun kekeringan pada zaman Elia melawan Baal milik Izebel ({{% bible val="Lukas 4:25" link="luk:4,25" lang="ind" %}}) dan pada setengah minggu dalam Daniel. Itulah masa ketika Iblis mengamuk, sementara gereja bersaksi dan dilindungi pada saat yang sama. → {{% int_link val="Rahasia Tiga Setengah Tahun Akhir Zaman" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}
 
 ## Angka 4
 
