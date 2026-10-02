@@ -9,7 +9,7 @@ next: /expl/content/1000y/pre-post-and-amillennialism
 docType: expl
 appl: /appl/content/1000y
 sources:
-    - pages: 972–1031
+    - pages: 244, 972–1031
       ref: beale_rev
     - pages: 1084–1090
       ref: aune_rev
@@ -49,7 +49,7 @@ Um sich zwischen beiden zu entscheiden, hilft ein Blick darauf, wie „und" ande
 
 - Meistens verbindet „und" einfach eine Vision oder einen Textblock mit dem nächsten – es ist ein visionärer Verbinder, kein Zeitstempel.
 - Wenn „und" tatsächlich eine zeitliche Bedeutung trägt, stammt diese Bedeutung meist aus dem umgebenden Abschnitt, nicht aus dem Wort selbst; das Wort wird gleich verwendet, egal ob die Ereignisse gleichzeitig oder aufeinanderfolgend sind, und es ist der weitere Zusammenhang, der darüber entscheidet.
-- Ein zeitliches „und" ist die Ausnahme, nicht die Regel – es kommt nur 4 von 35 Mal im Buch vor ({{% bible val="das Tier und der falsche Prophet wurden gefangen genommen, direkt nachdem die Schlacht verloren war" link="rev:19,20" lang="de" %}}; [alle Menschen wurden getötet](https://biblehub.com/interlinear/revelation/19-21.htm); [danach fraßen die Vögel die Leichen](https://biblehub.com/interlinear/revelation/19-21.htm); und vielleicht {{% bible val="kämpfte Jesus die Schlacht nach der Hochzeit" link="rev:19,14" lang="de" %}}).
+- Ein zeitliches „und" ist die Ausnahme, nicht die Regel – in der Schlachtszene von 19,11–21 markieren nur drei, vielleicht vier, der fünfunddreißig Vorkommen eine Abfolge ({{% bible val="das Tier und der falsche Prophet wurden gefangen genommen, direkt nachdem die Schlacht verloren war" link="rev:19,20" lang="de" %}}; [alle Menschen wurden getötet](https://biblehub.com/interlinear/revelation/19-21.htm); [danach fraßen die Vögel die Leichen](https://biblehub.com/interlinear/revelation/19-21.htm); und vielleicht {{% bible val="kämpfte Jesus die Schlacht nach der Hochzeit" link="rev:19,14" lang="de" %}}). Innerhalb von Kapitel 20 selbst markieren die meisten „und“ allerdings sehr wohl eine Abfolge; dieses Wort allein kann die Frage also nicht entscheiden – das muss der größere Aufbau des Buches tun.[^kai]
 - Wenn „und" den Auf- oder Abstieg eines Engels einleitet, markiert es eine neue Vision – manchmal mit einer zeitlichen Verzögerung, wie {{% bible val="beim Engel mit dem kleinen Büchlein" link="rev:10,1" lang="de" %}}, und manchmal als Rückblende, wie beim {{% bible val="Engel mit den Siegeln des lebendigen Gottes" link="rev:7,2" lang="de" %}} oder {{% bible val="dem Gericht über Babylon" link="rev:18,1" lang="de" %}}, das bereits {{% bible val="im vorherigen Kapitel beschrieben wurde" link="rev:17,16" lang="de" %}}. Die meisten Ausleger, die das „und" in Kapitel 20 zeitlich lesen, lesen das entsprechende „und" in diesen anderen Kapiteln dennoch visionär – eine Unstimmigkeit, die man bemerken sollte.
 
 ## Zwei letzte Schlachten?
@@ -93,7 +93,7 @@ Zusammengenommen lesen sich diese Kapitel weniger wie zwei widersprüchliche Zei
 
 {{% bible val="Das Binden Satans" link="rev:20,2" lang="de" %}} wird auch anderswo als etwas beschrieben, das {{% bible val="Jesus bereits bei seinem ersten Kommen vollbracht hat" link="mrk:3,27" lang="de" %}}. Und dennoch wird {{% bible val="er (der Mensch der Gesetzlosigkeit) kurz vor Jesu zweitem Kommen freigelassen, wenn er die Gemeinde angreift" link="2th:2,6-12" lang="de" %}} – bei dieser Lesart sind beide Dinge zugleich wahr.
 
-Der Ausdruck „Mensch der Gesetzlosigkeit", oder {{% bible val="der Gesetzlose" link="2th:2,8" lang="de" %}}, wird im Alten Testament in den {{% bible val="Psalmen" link="psa:89,22" lang="de" %}} und bei {{% bible val="Jesaja" link="isa:57,3-4" lang="de" %}} als Personifizierung des Bösen verwendet. Dieselbe Stelle im zweiten Thessalonicherbrief sagt auch, dass er sich über Gott erhebt, ein Detail, das bis zu {{% bible val="Daniel" link="dan:11,36" lang="de" %}} zurückreicht. Zusammengenommen ist diese Gestalt Satan, und derjenige, der ihn in der Geschichte der Offenbarung zurückhält, ist der Engel.
+Der Ausdruck „Mensch der Gesetzlosigkeit", oder {{% bible val="der Gesetzlose" link="2th:2,8" lang="de" %}}, wird im Alten Testament in den {{% bible val="Psalmen" link="psa:89,22" lang="de" %}} und bei {{% bible val="Jesaja" link="isa:57,3-4" lang="de" %}} als Personifizierung des Bösen verwendet. Dieselbe Stelle im zweiten Thessalonicherbrief sagt auch, dass er sich über Gott erhebt, ein Detail, das bis zu {{% bible val="Daniel" link="dan:11,36" lang="de" %}} zurückreicht. Zusammengenommen ist diese Gestalt Satans Werkzeug: Ihr Auftreten geschieht „nach der Wirksamkeit des Satans“ (2 Thess 2,9). Derjenige, der sie in der Geschichte der Offenbarung zurückhält, ist der Engel, der Satan bindet.
 
 ## Was ist mit den Verheißungen?
 
@@ -138,7 +138,7 @@ Liest man rückwärts, in der Reihenfolge, in der die Ereignisse tatsächlich ge
 <a name="c7a1"></a>
 Das wirft eine naheliegende Frage auf: Warum nennt der Text ausdrücklich {{% bible val="enthauptet" link="rev:20,4" lang="de" %}}? Bedeutet das, nur buchstäblich Enthauptete dürfen herrschen?
 
-Nein – die {{% bible val="Parallele zu den Seelen unter dem Altar" link="rev:6,9" lang="de" %}} zeigt, dass diese Sprache sich auf alle getöteten Zeugen bezieht, nicht auf eine wörtliche, eng begrenzte Kategorie. Das konkrete Detail der Enthauptung ist selbst eine weitere der Parodien des Buches: Im Römischen Reich wurden nur hochrangige Personen durch Enthauptung hingerichtet, das heißt, indem gewöhnliche Gläubige für den Glauben sterben, sterben sie wie Könige.
+Nein – die {{% bible val="Parallele zu den Seelen unter dem Altar" link="rev:6,9" lang="de" %}} zeigt, dass diese Sprache sich auf alle getöteten Zeugen bezieht, nicht auf eine wörtliche, eng begrenzte Kategorie. Das konkrete Detail der Enthauptung ist selbst eine weitere der Parodien des Buches: Im Römischen Reich wurden in der Regel nur höhergestellte Personen durch Enthauptung hingerichtet,[^behead] das heißt, indem gewöhnliche Gläubige für den Glauben sterben, sterben sie wie Könige.
 
 Bedeutet das, nur Menschen, die tatsächlich für ihren Glauben sterben, dürfen herrschen? Nicht ganz – das Buch beschreibt mehrere verschiedene Arten von Zeugnis und verschiedene Arten des Leidens, nicht nur das Martyrium:
 - {{% bible val="Johannes im Exil" link="rev:1,9" lang="de" %}},
@@ -154,4 +154,10 @@ Die Herrschaft gehört also jedem, der Gott treu ist, ob diese Treue ihn das Leb
 <a name="6f12"></a>
 „{{% bible val="Glückselig und heilig ist, wer Anteil hat an der ersten Auferstehung! Über diese hat der zweite Tod keine Macht, sondern sie werden Priester Gottes und des Christus sein und mit ihm regieren tausend Jahre." link="rev:20,6" lang="de" %}}"
 
-Bei der physischen Geburt empfangen wir unser „erstes Leben" in der alten Schöpfung. Wenn {{% bible val="wir von neuem geboren werden, empfangen wir ein 'zweites Leben'" link="jhn:3" lang="de" %}}, was diese Passage die erste Auferstehung nennt. Der zweite Tod dagegen ist schlicht, dieses zweite Leben nie zu empfangen – geistlich tot gegenüber Gott zu bleiben.
+Bei der physischen Geburt empfangen wir unser „erstes Leben" in der alten Schöpfung. Wenn {{% bible val="wir von neuem geboren werden, empfangen wir ein 'zweites Leben'" link="jhn:3" lang="de" %}}, was diese Passage die erste Auferstehung nennt. Der zweite Tod ist der Feuersee, das endgültige Gericht (20,14; 21,8). Er hat keine Macht über die, die Anteil an der ersten Auferstehung haben – die neues Leben in Christus empfangen haben (20,6; 2,11).[^death2]
+
+[^kai]: Beale, S. 975.
+
+[^behead]: Aune, *Revelation 17–22*, S. 1086: Die Enthaupteten gehörten „aller Wahrscheinlichkeit nach zu den *honestiores*“, der Oberschicht.
+
+[^death2]: Beale, S. 244.

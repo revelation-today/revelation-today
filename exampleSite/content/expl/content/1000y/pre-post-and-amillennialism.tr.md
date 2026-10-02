@@ -66,11 +66,23 @@ Vahiy bu sözcüğü kendisi de böyle kullanır, {{% bible val="18:20" link="re
 
 Bu okumada 20:5, bin yıl boyunca ölülerin geri kalanının böyle bir karar almadığını söyler; "dek" sözcüğü de ifadenin sınırını gösterir, onlara sonrası için bir karar vaat etmez. O zaman Alford'un tutunacak yeri kalmaz: anlam sabittir, yalnızca alıcılar değişir. Bunun yapmadığı şey, milenyumu karara bağlamaktır — bir premilenyalist her kelimesini kabul edip aklanmanın bedensel bir diriltilme biçiminde gerçekleştiğini savunabilir. Ortadan kaldırdığı şey, amilenyalizmin tek bir fiile iki anlam yüklemek zorunda olduğu suçlamasıdır.
 
+**Grekçe neler ekliyor.** Birkaç gözlem daha fiil üzerindeki tartışmayı keskinleştirir ve hepsi aynı yönü göstermez.
+
+*İsim premilenyalizmi destekler.* Söz konusu olan yalnızca fiil değildir. "Diriliş" (*anastasis*) Yeni Antlaşma'da kırk kadar kez geçer ve Luka 2:34 ile Yuhanna 11:25 dışında her zaman ölülerden bedensel olarak dirilmek anlamına gelir.[^anastasis] Bu, premilenyal okumaya Alford'un argümanının yanında ikinci bir dayanak verir.
+
+*Ama bir bölüm her iki anlamı birkaç ayet içinde kullanır.* Yuhanna 5'te "ölülerin Tanrı Oğlu'nun sesini duyacağı saat geliyor, hatta gelmiştir. Bu sesi duyanlar yaşayacak" ruhsaldır. Üç ayet sonra "mezarda olanların hepsi O'nun sesini duyacak ve … yaşama kavuşmak üzere dirilecekler" bedenseldir — ve oradaki Grekçe aynı çifti, diriliş ve yaşamı kullanır (Yu. 5:25, 28–29). Bu, Vahiy 20'nin anlam değiştirdiğini kanıtlamaz. Yeni Antlaşma'nın bunu kısa bir bölüm içinde, dil çökmeden yapabildiğini gösterir — ve Alford'a doğrudan yanıt budur.[^john5]
+
+*Bölüm ilk dirilişi, kazandırdıklarıyla tanımlar.* Tahtlar; kutsalların lehine verilen Daniel 7:22 hükmü; egemenlik ve kâhinlik; ve onlar üzerinde hiçbir *yetkisi* olmayan bir ikinci ölüm. Mutlu olan, ona "payı olan"dır (*meros*) — Vahiy'in başka yerlerde bir kişinin payına düşen son için kullandığı sözcük; ister ateş gölü olsun (21:8) ister yaşam ağacı (22:19). Bu, konum ve hak dilidir ve Yeni Antlaşma Mesih'in kendi dirilişinden de aynı şekilde söz eder: O, "ölümden dirilişiyle Tanrı'nın güçlü Oğlu olarak belirlendi" (Rom. 1:4) ve ölümünü ve dirilişini yetki olarak anlatır — "Onu vermeye de geri almaya da yetkim var" (Yu. 10:18). Tahtlarda oturanlara verilen yargı, bölümde hiçbir yerde kullanılırken gösterilmez.[^unused] Bu bir boşluk değildir: kitap, kutsalların yetkisini hiçbir zaman zor kullanımı olarak göstermez. Bu yetki Kuzu'nun yoluyla kullanılır — boğazlanmış bir Kuzu olarak zafer kazanan Aslan (5:5–6), "Kuzu'nun kanıyla ve tanıklık sözleriyle" galip gelenler (12:11), duaları yargıları harekete geçiren kâhinler (8:3–5), öcü Tanrı'ya bırakan şehitler (6:10).
+
+*İzmir mektubu bütün sahneyi küçük ölçekte taşır.* Mesih "ölmüş ve dirilmiştir" — aynı fiil; "ölüm pahasına da olsa sadık kal"; "sana yaşam tacını vereceğim"; "ikinci ölümden hiçbir zarar görmeyecek" (2:8–11). Oradan 20:4–6'ya düz bir çizgi uzanır ve bu çizgi, "ilk diriliş"in Mesih'in kendi dirilişi olabileceğini, sadıkların da ona ortak olduğunu düşündürür: O, yaşama kavuştuğu için "İlk"tir (1:17; 2:8).[^smyrna]
+
+*Ve fiil, kitabın kurmakta olduğu bir tersine çevirmeyi tamamlar.* 20. bölüme kadar "yaşama kavuştuğu" söylenen tek figür canavardır, "kılıçla yaralanmış ama yaşamaya devam etmiş" olan (13:14). Kilise ölen taraftır — tanıklar sokakta yatarken "yeryüzünde yaşayanlar onların durumuna sevinir" (11:10), Babil de "kraliçe olarak tahtta oturuyorum … asla yas tutmayacağım" der (18:7). 14. bölüm dönüşü ilan eder: canavara tapanlar için "gece gündüz rahat yok", iki ayet sonra da "Rab'de ölen ölülere ne mutlu … dinlenecekler" (14:11, 13). 19:20'de canavar ve sahte peygamber ateş gölüne *diri diri* atılır; 20:4'te öldürülenler *yaşama kavuşur*. Birinci ve ikinci ölümün, birinci ve ikinci dirilişin çapraz çiftleri kendi ironisini taşır.[^ironic] Bu sitenin benimsediği okumaya göre tersine çevrilme zamanda sonraki bir evre değil, bakış noktasının değişmesidir: aynı çağ, sokaktan değil tahtlardan görülür. Vahiy iki dirilişten yalnızca birine "diriliş" adını verir; geri kalanların dirilişi hiçbir zaman ikinci diriliş olarak sayılmaz.[^rest]
+
 **Bir kanıt daha ve iki taraf da onu sahipleniyor.** Vahiy'de Tanrı'nın kullarının anlatı içinde açıkça ölümden döndüğü tek yer iki tanıktır — ve Yuhanna bunu bu fiili hiç kullanmadan anlatır: {{% bible val="Tanrı'dan gelen bir yaşam soluğu onlara girdi ve ayakları üzerinde durdular" link="rev:11,11" lang="tr" %}}. Burada {{% bible val="Hezekiel 37:10" link="ezk:37,10" lang="tr" %}}'u alıntılıyor; Yunancasında şöyle geçer: "soluk onlara girdi **ve dirildiler** ve ayakları üzerinde durdular". Yuhanna girmeyi ve ayağa kalkmayı neredeyse kelimesi kelimesine korur, ortadaki fiili ise atar. Demek ki bu, diriltilmiş beden için onun sabit deyişi değil ve 20:4'te bu fiili seçmesi zorunlu değildi — ama aynı ölçüde, orada aynı şeyi kastetseydi 20:4'ü 11:11 gibi yazardı diye de savunulamaz.
 
 **Bütün bunların altında tek bir soru yatıyor ve yorumcular orada ayrılıyor.** Birinci dirilişte kimin payı var? Aune 20:4'ü, tanıklık uğruna idam edilmiş gerçek şehitlerden oluşan tek bir grup olarak okur. Beale ise sonuna dek imanda kalan herkes olarak okur — "şehitlik yoluyla olsun ya da olmasın" — gerekçesi de şudur: 20:6'nın ikinci ölümden muafiyet vaadi, kitabın imanlıların bir bölümüyle sınırladığı türden bir şey değildir. Bu seçim, 20:5'teki "ölülerin geri kalanı"nın kim olduğunu belirler: Beale'e göre tanrısızlar, Aune'ye göre iman eden ve etmeyen ölüler birlikte.
 
-**Geriye ne kalıyor.** Cümlenin daha dolaysız okuması hâlâ premilenyalizmdedir ve bunun bir ağırlığı vardır. Ama amilenyal yanıt, sıkça sanıldığı gibi eğreti bir hamle değildir: Yeni Antlaşma'nın Hristiyan varoluşu için kullandığı olağan dili kullanır, *birinci* ile *ikinci* için işlenmiş bir açıklaması vardır ve aklanma okumasında hiç kaçamak yapmaz. Cümlenin düz sırasını en ağır tartan okur yine premilenyalist olacaktır — ve bunu yaparken özensiz davranmış olmaz.
+**Geriye ne kalıyor.** Cümlenin daha dolaysız okuması hâlâ premilenyalizmdedir ve bunun bir ağırlığı vardır. *Diriliş* ismi bu tarafa ağırlık katar; Yuhanna 5, 20:6'nın sözcükleri ve İzmir mektubu ise amilenyal yanıta ağırlık katar. Ama amilenyal yanıt, sıkça sanıldığı gibi eğreti bir hamle değildir: Yeni Antlaşma'nın Hristiyan varoluşu için kullandığı olağan dili kullanır, *birinci* ile *ikinci* için işlenmiş bir açıklaması vardır ve aklanma okumasında hiç kaçamak yapmaz. Cümlenin düz sırasını en ağır tartan okur yine premilenyalist olacaktır — ve bunu yaparken özensiz davranmış olmaz.
 
 ## Temayı asıl taşıyan ne
 
@@ -167,3 +179,15 @@ Dürüst bedel 1. düğümdür. Tek bir fiilin, birkaç kelime arayla iki kez, i
 - "Bin yıl"a dair üç tablodan hangisi Vahiy'in öteki sayılarıyla en iyi bağdaşıyor — {{% bible val="144.000" link="rev:7,4" lang="tr" %}}, {{% bible val="42 ay" link="rev:13,5" lang="tr" %}}, {{% bible val="1.260 gün" link="rev:12,6" lang="tr" %}}? Bunlar baş sayımları ve takvimler mi, yoksa simgeler mi?
 - Şeytan bağlıysa, bu bağlanma tam olarak neyi durduruyor — ve yarattığı farkı gösterebilir misiniz?
 - Eski Antlaşma'nın uluslara vaat ettiklerinin ne kadarının tarih içinde gerçekleşmesini bekliyorsunuz, ne kadarının ancak sonrasında? Bu soruya verdiğiniz yanıt, büyük olasılıkla ötekilerin hepsine verdiğiniz yanıtı belirliyor.
+
+[^anastasis]: Beale, s. 1004.
+
+[^john5]: Beale, s. 1005.
+
+[^unused]: Aune, *Revelation 17–22*, s. 1079, bunu edebî bir bilmece olarak not eder: yargı "bu bölüm içinde görünüşe göre kullanılmaz".
+
+[^smyrna]: Beale, s. 1008, 1014–1015.
+
+[^ironic]: Beale, s. 1005–1006.
+
+[^rest]: Aune, *Revelation 17–22*, s. 1090.

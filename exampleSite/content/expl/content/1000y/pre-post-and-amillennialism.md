@@ -66,11 +66,23 @@ Revelation uses the noun that way itself at {{% bible val="18:20" link="rev:18,2
 
 On this reading 20:5 says that throughout the thousand years the rest of the dead received no such verdict, and the "until" marks the limit of the statement rather than promising them one afterwards. Alford then has nothing to bite on: the sense is constant and only the recipients differ. What this does *not* do is settle the millennium — a premillennialist can accept every word and hold that the vindication takes the form of a bodily raising. What it removes is the charge that amillennialism must make one verb mean two things.
 
+**What the Greek adds.** A few more observations sharpen the debate over the verb, and they do not all point the same way.
+
+*The noun helps premillennialism.* The verb is not the only word in question. "Resurrection" (*anastasis*) occurs some forty times in the New Testament, and outside Luke 2:34 and John 11:25 it always means rising bodily from the dead.[^anastasis] That gives the premillennial reading a second leg, beside Alford's.
+
+*But one passage uses both senses within a few verses.* In John 5, "a time is coming and has now come when the dead will hear the voice of the Son of God, and those who hear will live" is spiritual. Three verses later, "all who are in their graves will hear his voice and come out… to rise to live" is bodily — and the Greek there uses the same pair, resurrection and life (John 5:25, 28–29). This does not prove that Revelation 20 switches senses. It shows that the New Testament can do so within one short passage without language breaking down, and that is the direct answer to Alford.[^john5]
+
+*The passage defines the first resurrection by what it grants.* Thrones; the verdict of Daniel 7:22 given in the saints' favour; reigning and priesthood; and a second death that has no *authority* over them. The one blessed is the one who "has a share" (*meros*) in it — the word Revelation uses elsewhere for a person's allotted destiny, whether the lake of fire (21:8) or the tree of life (22:19). This is the language of standing and entitlement, and the New Testament speaks of Christ's own resurrection the same way: he was "appointed the Son of God in power by his resurrection" (Rom 1:4), and he describes his death and rising as authority — "I have authority to lay it down and authority to take it up again" (John 10:18). The judgment given to those on the thrones is never shown being exercised in the passage.[^unused] That is not a gap: the book never shows the saints' authority used as force. It is used the Lamb's way — the Lion who conquers as a slain Lamb (5:5–6), those who "triumphed… by the blood of the Lamb and by the word of their testimony" (12:11), priests whose prayers set the judgments in motion (8:3–5), martyrs who leave vengeance to God (6:10).
+
+*The Smyrna letter holds the whole scene in miniature.* Christ "died and came to life again" — the same verb; "be faithful, even to the point of death"; "I will give you life as your victor's crown"; "not hurt at all by the second death" (2:8–11). A straight line runs from there to 20:4–6, and it suggests that "the first resurrection" may be Christ's own, in which the faithful have a share: he is "the First" because he came to life (1:17; 2:8).[^smyrna]
+
+*And the verb completes a reversal the book has been building.* Until chapter 20 the one figure said to have "come to life" is the beast, "wounded by the sword and yet lived" (13:14). The church is the side that dies — the witnesses lie in the street while "the inhabitants of the earth gloat over them" (11:10), and Babylon sits "enthroned as queen… I will never mourn" (18:7). Chapter 14 announces the turn: for the beast's worshippers "no rest day or night", and two verses later, "blessed are the dead who die in the Lord… they will rest" (14:11, 13). In 19:20 the beast and the false prophet are thrown *alive* into the lake of fire; in 20:4 the killed *come to life*. The crossed pairs of first and second death and resurrection carry an irony of their own.[^ironic] On the reading this site takes, the reversal is not a later stage in time but a change of standpoint: the same age, seen from the thrones instead of from the street. Revelation names only one of the two risings "resurrection" at all; the rising of the rest is never counted as a second one.[^rest]
+
 **One more piece of evidence, and both sides claim it.** The one place in Revelation where God's servants plainly come back from death within the narrative is the two witnesses — and John describes it without this verb at all: a {{% bible val="breath of life from God entered them, and they stood on their feet" link="rev:11,11" lang="en" %}}. He is quoting {{% bible val="Ezekiel 37:10" link="ezk:37,10" lang="en" %}}, where the Greek runs "the breath entered them, **and they came to life**, and they stood on their feet." John keeps the entering and the standing almost word for word, and drops the verb in the middle. So this is not his fixed idiom for a body raised, and choosing it at 20:4 was not forced — but equally, you cannot argue that he would have written 20:4 the way he wrote 11:11 if he had meant the same thing there.
 
 **Underneath all of it sits one question, and the commentators split on it.** Who has a share in the first resurrection? Aune reads 20:4 as a single group of actual martyrs, executed for the testimony. Beale reads it as everyone who kept faith to the end, "whether or not by martyrdom," on the grounds that 20:6's promise of immunity from the second death is not something the book restricts to a subset of believers. The choice decides who "the rest of the dead" are in 20:5 — the ungodly, on Beale's reading, or believing and unbelieving dead together, on Aune's.
 
-**Where that leaves it.** Premillennialism still has the more immediate reading of the sentence, and that counts for something. But the amillennial answer is not the ad hoc move it is often taken for: it uses the New Testament's ordinary language for Christian existence, it has a worked account of *first* and *second*, and on the vindication reading it does not equivocate at all. Readers who weigh the plain sequence of the sentence most heavily will still land premillennial, and they are not being careless when they do.
+**Where that leaves it.** Premillennialism still has the more immediate reading of the sentence, and that counts for something. The noun *resurrection* adds weight to that side; John 5, the vocabulary of 20:6 and the Smyrna letter add weight to the amillennial answer. But the amillennial answer is not the ad hoc move it is often taken for: it uses the New Testament's ordinary language for Christian existence, it has a worked account of *first* and *second*, and on the vindication reading it does not equivocate at all. Readers who weigh the plain sequence of the sentence most heavily will still land premillennial, and they are not being careless when they do.
 
 ## What actually carries the theme
 
@@ -167,3 +179,15 @@ A few questions worth sitting with:
 - Which of the three pictures of "1,000 years" makes the best sense of Revelation's other numbers — the {{% bible val="144,000" link="rev:7,4" lang="en" %}}, the {{% bible val="42 months" link="rev:13,5" lang="en" %}}, the {{% bible val="1,260 days" link="rev:12,6" lang="en" %}}? Are those head-counts and calendars, or symbols?
 - If Satan is bound, what exactly is the binding stopping — and can you point at the difference it has made?
 - How much of what the Old Testament promises to the nations do you expect to see happen inside history, and how much only afterwards? Your answer to that question probably decides your answer to all the others.
+
+[^anastasis]: Beale, p. 1004.
+
+[^john5]: Beale, p. 1005.
+
+[^unused]: Aune, *Revelation 17–22*, p. 1079, notes this as a literary puzzle: the judgment "is apparently not exercised within this pericope".
+
+[^smyrna]: Beale, pp. 1008, 1014–1015.
+
+[^ironic]: Beale, pp. 1005–1006.
+
+[^rest]: Aune, *Revelation 17–22*, p. 1090.

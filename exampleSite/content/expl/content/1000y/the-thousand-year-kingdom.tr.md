@@ -9,7 +9,7 @@ next: /expl/content/1000y/pre-post-and-amillennialism
 docType: expl
 appl: /appl/content/1000y
 sources:
-    - pages: 972–1031
+    - pages: 244, 972–1031
       ref: beale_rev
     - pages: 1084–1090
       ref: aune_rev
@@ -49,7 +49,7 @@ Ondan sonra gelen her şeyi şekillendiren bir bağlam noktası var: bin yıllı
 
 - Çoğu zaman "ve" sadece bir görümü ya da malzeme bloğunu bir sonrakine bağlar — bir zaman damgası değil, görümsel bir bağlaçtır.
 - "Ve" zamansal bir anlam taşıdığında bile, bu anlam genellikle kelimenin kendisinden değil, çevresindeki paragraftan gelir; olaylar eş zamanlı ya da ardışık olsun, kelime aynı şekilde kullanılır, ve hangisinin geçerli olduğuna karar veren daha geniş bağlamdır.
-- Zamansal bir "ve" kural değil istisnadır — kitaptaki 35 kullanımdan sadece 4'ünde bu şekilde geçer ({{% bible val="canavar ve sahte peygamber, savaş kaybedildikten hemen sonra ele geçirildi" link="rev:19,20" lang="tr" %}}; [bütün insanlar öldürüldü](https://biblehub.com/interlinear/revelation/19-21.htm); [sonra kuşlar cesetlerle beslendi](https://biblehub.com/interlinear/revelation/19-21.htm); ve belki de {{% bible val="İsa düğünden sonra savaştı" link="rev:19,14" lang="tr" %}}).
+- Zamansal bir "ve" kural değil istisnadır — 19:11–21'deki savaş sahnesinde otuz beş kullanımdan yalnızca üçü, belki dördü bir sıra bildirir ({{% bible val="canavar ve sahte peygamber, savaş kaybedildikten hemen sonra ele geçirildi" link="rev:19,20" lang="tr" %}}; [bütün insanlar öldürüldü](https://biblehub.com/interlinear/revelation/19-21.htm); [sonra kuşlar cesetlerle beslendi](https://biblehub.com/interlinear/revelation/19-21.htm); ve belki de {{% bible val="İsa düğünden sonra savaştı" link="rev:19,14" lang="tr" %}}). Ancak 20. bölümün kendi içinde "ve"lerin çoğu gerçekten bir sıra bildirir; bu yüzden bu sözcük tek başına meseleyi çözemez — bunu kitabın daha geniş yapısı yapmalıdır.[^kai]
 - "Ve" bir meleğin çıkışını ya da inişini tanıttığında, bu yeni bir görümü işaret eder — bazen {{% bible val="küçük tomarı taşıyan melekte olduğu gibi" link="rev:10,1" lang="tr" %}} zamansal bir gecikmeyle, bazen de {{% bible val="yaşayan Tanrı'nın mühürlerini taşıyan melek" link="rev:7,2" lang="tr" %}} ya da {{% bible val="önceki bölümde zaten anlatılmış olan" link="rev:17,16" lang="tr" %}} {{% bible val="Babil'in yargılanması" link="rev:18,1" lang="tr" %}} örneklerinde olduğu gibi bir geriye dönüşle. 20. bölümdeki "ve"yi zamansal olarak okuyan yorumcuların çoğu, diğer bölümlerdeki eşdeğer "ve"yi yine de görümsel olarak okur — fark edilmeye değer bir tutarsızlık.
 
 ## Son iki savaş mı?
@@ -91,7 +91,7 @@ Birlikte ele alındığında, bu bölümler birbiriyle çelişen iki zaman çize
 
 {{% bible val="Şeytan'ın bağlanması" link="rev:20,2" lang="tr" %}}, başka yerlerde {{% bible val="İsa'nın ilk gelişinde zaten gerçekleştirdiği" link="mrk:3,27" lang="tr" %}} bir şey olarak da anlatılır. Ve yine de {{% bible val="o (kanunsuzluk adamı), İsa'nın ikinci gelişinden kısa bir süre önce, kiliseye saldırdığı sırada serbest bırakılır" link="2th:2,6-12" lang="tr" %}} — bu okumaya göre, her iki şey de aynı anda doğrudur.
 
-"Kanunsuzluk adamı" ifadesi, ya da {{% bible val="kanunsuz olan" link="2th:2,8" lang="tr" %}}, Eski Ahit'te {{% bible val="Mezmurlar'da" link="psa:89,22" lang="tr" %}} ve {{% bible val="Yeşaya'da" link="isa:57,3-4" lang="tr" %}} kötülüğün bir kişileştirilmesi olarak kullanılır. 2. Selanikliler'deki aynı metin, onun kendisini Tanrı'nın üzerine yücelttiğini de söyler, bu ayrıntı {{% bible val="Daniel'e" link="dan:11,36" lang="tr" %}} kadar uzanır. Bir araya getirildiğinde, bu figür Şeytan'dır, ve Vahiy'in öyküsünde onu dizginleyen ise melektir.
+"Kanunsuzluk adamı" ifadesi, ya da {{% bible val="kanunsuz olan" link="2th:2,8" lang="tr" %}}, Eski Ahit'te {{% bible val="Mezmurlar'da" link="psa:89,22" lang="tr" %}} ve {{% bible val="Yeşaya'da" link="isa:57,3-4" lang="tr" %}} kötülüğün bir kişileştirilmesi olarak kullanılır. 2. Selanikliler'deki aynı metin, onun kendisini Tanrı'nın üzerine yücelttiğini de söyler, bu ayrıntı {{% bible val="Daniel'e" link="dan:11,36" lang="tr" %}} kadar uzanır. Bir araya getirildiğinde, bu figür Şeytan'ın aracıdır: onun gelişi "Şeytan'ın etkinliğiyle" olur (2Se. 2:9). Vahiy'in öyküsünde onu dizginleyen ise Şeytan'ı bağlayan melektir.
 
 ## Peki ya kehanetler?
 
@@ -136,7 +136,7 @@ Olayların gerçekte gerçekleştiği sırayla, tersten okununca, metin daha man
 <a name="c576"></a>
 Bu da açık bir soru doğuruyor: metin neden {{% bible val="başı kesilenleri" link="rev:20,4" lang="tr" %}} özellikle belirtiyor? Bu, sadece gerçekten kafası kesilen insanların egemenlik süreceği anlamına mı geliyor?
 
-Hayır — {{% bible val="sunağın altındaki canlarla olan paralellik" link="rev:6,9" lang="tr" %}}, bu dilin öldürülen tüm tanıklara işaret ettiğini, dar ve gerçek anlamda bir kategori olmadığını gösteriyor. Kafa kesme ayrıntısının kendisi de kitabın parodilerinden biri: Roma İmparatorluğu'nda sadece yüksek rütbeli kişiler kafa kesilerek idam edilirdi, yani iman uğruna ölen sıradan imanlılar, aslında krallar gibi ölmüş oluyorlar.
+Hayır — {{% bible val="sunağın altındaki canlarla olan paralellik" link="rev:6,9" lang="tr" %}}, bu dilin öldürülen tüm tanıklara işaret ettiğini, dar ve gerçek anlamda bir kategori olmadığını gösteriyor. Kafa kesme ayrıntısının kendisi de kitabın parodilerinden biri: Roma İmparatorluğu'nda kafa kesilerek idam genellikle yalnızca üst tabakadan kişilere uygulanırdı,[^behead] yani iman uğruna ölen sıradan imanlılar, aslında krallar gibi ölmüş oluyorlar.
 
 Peki bu, sadece imanları uğruna gerçekten ölen insanların hükmedeceği anlamına mı geliyor? Tam olarak değil — kitap, yalnızca şehitliği değil, farklı türde tanıklıkları ve farklı türde acıları anlatıyor:
 - {{% bible val="sürgündeki Yuhanna" link="rev:1,9" lang="tr" %}},
@@ -152,4 +152,10 @@ Yani egemenlik, bu sadakatin bedeli ister canları, ister {{% bible val="ekonomi
 <a name="0495"></a>
 “{{% bible val="İlk dirilişe dahil olanlar mutlu ve kutsaldır. İkinci ölümün bunların üzerinde yetkisi yoktur. Onlar Tanrı'nın ve Mesih'in kâhinleri olacak, O'nunla birlikte bin yıl egemenlik sürecekler." link="rev:20,6" lang="tr" %}}”
 
-Doğduğumuzda, eski yaratılıştaki "ilk yaşamımızı" alırız. {{% bible val="Yeniden doğduğumuzda ise bir 'ikinci yaşam' alırız" link="jhn:3" lang="tr" %}}, ve bu metnin ilk diriliş dediği şey de budur. İkinci ölüm ise, buna karşılık, sadece o ikinci yaşama hiç sahip olmamak demektir — Tanrı'ya karşı ruhsal olarak ölü kalmaktır.
+Doğduğumuzda, eski yaratılıştaki "ilk yaşamımızı" alırız. {{% bible val="Yeniden doğduğumuzda ise bir 'ikinci yaşam' alırız" link="jhn:3" lang="tr" %}}, ve bu metnin ilk diriliş dediği şey de budur. İkinci ölüm ateş gölüdür, son yargıdır (20:14; 21:8). İlk dirilişe payı olanlar, yani Mesih'te yeni yaşam almış olanlar üzerinde hiçbir yetkisi yoktur (20:6; 2:11).[^death2]
+
+[^kai]: Beale, s. 975.
+
+[^behead]: Aune, *Revelation 17–22*, s. 1086: başı kesilenler "büyük olasılıkla *honestiores*'e", yani üst tabakaya aitti.
+
+[^death2]: Beale, s. 244.

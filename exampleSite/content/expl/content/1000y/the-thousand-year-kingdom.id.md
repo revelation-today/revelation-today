@@ -9,7 +9,7 @@ next: /expl/content/1000y/pre-post-and-amillennialism
 docType: expl
 appl: /appl/content/1000y
 sources:
-    - pages: 972–1031
+    - pages: 244, 972–1031
       ref: beale_rev
     - pages: 1084–1090
       ref: aune_rev
@@ -49,7 +49,7 @@ Untuk memutuskan di antara kedua kemungkinan ini, ada baiknya melihat bagaimana 
 
 - Sebagian besar waktu, "dan" hanya menghubungkan satu penglihatan atau satu blok materi dengan yang berikutnya — ini adalah penghubung visioner, bukan penanda waktu.
 - Ketika "dan" memang membawa makna temporal, makna itu biasanya datang dari paragraf di sekitarnya, bukan dari kata itu sendiri; kata itu dipakai dengan cara yang sama baik peristiwa-peristiwanya bersamaan maupun berurutan, dan konteks yang lebih luaslah yang menentukan yang mana.
-- "Dan" yang bersifat temporal adalah pengecualian, bukan aturan — hal itu hanya terjadi 4 kali dari 35 kemunculan kata ini dalam kitab ini ({{% bible val="binatang dan nabi palsu itu ditangkap tepat setelah pertempuran itu kalah" link="rev:19,20" lang="ind" %}}; [semua orang dibunuh](https://biblehub.com/interlinear/revelation/19-21.htm); [lalu burung-burung memakan bangkai mereka](https://biblehub.com/interlinear/revelation/19-21.htm); dan mungkin juga {{% bible val="Yesus mengadakan pertempuran itu setelah perjamuan pernikahan" link="rev:19,14" lang="ind" %}}).
+- "Dan" yang bersifat temporal adalah pengecualian, bukan aturan — dalam adegan pertempuran 19:11–21, hanya tiga, mungkin empat, dari tiga puluh lima kemunculannya yang menandai urutan ({{% bible val="binatang dan nabi palsu itu ditangkap tepat setelah pertempuran itu kalah" link="rev:19,20" lang="ind" %}}; [semua orang dibunuh](https://biblehub.com/interlinear/revelation/19-21.htm); [lalu burung-burung memakan bangkai mereka](https://biblehub.com/interlinear/revelation/19-21.htm); dan mungkin juga {{% bible val="Yesus mengadakan pertempuran itu setelah perjamuan pernikahan" link="rev:19,14" lang="ind" %}}). Namun di dalam pasal 20 sendiri, sebagian besar kata "dan" memang menandai urutan, jadi kata ini saja tidak dapat memutuskan persoalannya — struktur kitab yang lebih luaslah yang harus memutuskannya.[^kai]
 - Ketika "dan" memperkenalkan naik atau turunnya seorang malaikat, kata itu menandai sebuah penglihatan baru — kadang dengan penundaan waktu, seperti {{% bible val="malaikat dengan kitab kecil" link="rev:10,1" lang="ind" %}}, dan kadang sebagai kilas balik, seperti {{% bible val="malaikat dengan meterai-meterai Allah yang hidup" link="rev:7,2" lang="ind" %}} atau {{% bible val="penghakiman atas Babel" link="rev:18,1" lang="ind" %}}, yang {{% bible val="sudah digambarkan dalam pasal sebelumnya" link="rev:17,16" lang="ind" %}}. Sebagian besar penafsir yang membaca "dan" secara temporal di pasal 20 ini tetap membaca "dan" yang setara di pasal-pasal lain tersebut secara visioner — sebuah ketidakkonsistenan yang patut diperhatikan.
 
 ## Dua pertempuran terakhir?
@@ -91,7 +91,7 @@ Jika digabungkan, kedua pasal ini terbaca bukan sebagai dua garis waktu yang sal
 
 {{% bible val="Pengikatan Iblis" link="rev:20,2" lang="ind" %}} juga digambarkan di tempat lain sebagai sesuatu yang {{% bible val="sudah dilakukan Yesus pada kedatangan-Nya yang pertama" link="mrk:3,27" lang="ind" %}}. Namun {{% bible val="ia (manusia durhaka) dilepaskan sesaat sebelum kedatangan Yesus yang kedua, ketika ia menyerang gereja" link="2th:2,6-12" lang="ind" %}} — kedua hal itu sama-sama benar sekaligus, menurut pembacaan ini.
 
-Ungkapan "manusia durhaka," atau {{% bible val="si durhaka" link="2th:2,8" lang="ind" %}}, dipakai dalam Perjanjian Lama, dalam {{% bible val="Mazmur" link="psa:89,22" lang="ind" %}} dan {{% bible val="Yesaya" link="isa:57,3-4" lang="ind" %}}, sebagai personifikasi kejahatan. Nas yang sama dalam 2 Tesalonika juga mengatakan bahwa ia meninggikan diri di atas Allah, sebuah rincian yang mengingatkan kita kembali kepada {{% bible val="Daniel" link="dan:11,36" lang="ind" %}}. Jika digabungkan, sosok ini adalah Iblis, dan yang menahannya dalam kisah Kitab Wahyu ini adalah malaikat.
+Ungkapan "manusia durhaka," atau {{% bible val="si durhaka" link="2th:2,8" lang="ind" %}}, dipakai dalam Perjanjian Lama, dalam {{% bible val="Mazmur" link="psa:89,22" lang="ind" %}} dan {{% bible val="Yesaya" link="isa:57,3-4" lang="ind" %}}, sebagai personifikasi kejahatan. Nas yang sama dalam 2 Tesalonika juga mengatakan bahwa ia meninggikan diri di atas Allah, sebuah rincian yang mengingatkan kita kembali kepada {{% bible val="Daniel" link="dan:11,36" lang="ind" %}}. Jika digabungkan, sosok ini adalah alat Iblis: kedatangannya "adalah pekerjaan Iblis" (2Tes. 2:9). Yang menahannya, dalam kisah Kitab Wahyu, adalah malaikat yang mengikat Iblis.
 
 ## Bagaimana dengan janji-janji nubuat?
 
@@ -136,7 +136,7 @@ Dibaca terbalik, dalam urutan sebenarnya peristiwa-peristiwa itu terjadi, nas in
 <a name="c7a1"></a>
 Itu memunculkan pertanyaan yang jelas: mengapa teks ini secara khusus menyebutkan {{% bible val="dipenggal kepalanya" link="rev:20,4" lang="ind" %}}? Apakah itu berarti hanya orang-orang yang benar-benar dipenggal kepalanya yang akan memerintah?
 
-Tidak — {{% bible val="kesejajaran dengan jiwa-jiwa di bawah mezbah" link="rev:6,9" lang="ind" %}} menunjukkan bahwa bahasa ini menunjuk kepada semua saksi yang dibunuh, bukan sebuah kategori sempit yang harfiah. Rincian khusus tentang pemenggalan kepala itu sendiri adalah salah satu parodi lain dalam kitab ini: dalam Kekaisaran Romawi, hanya orang-orang berpangkat tinggi yang dieksekusi dengan pemenggalan, yang berarti dengan mati demi iman mereka, orang-orang percaya biasa sesungguhnya mati sebagai raja-raja.
+Tidak — {{% bible val="kesejajaran dengan jiwa-jiwa di bawah mezbah" link="rev:6,9" lang="ind" %}} menunjukkan bahwa bahasa ini menunjuk kepada semua saksi yang dibunuh, bukan sebuah kategori sempit yang harfiah. Rincian khusus tentang pemenggalan kepala itu sendiri adalah salah satu parodi lain dalam kitab ini: dalam Kekaisaran Romawi, pemenggalan biasanya hanya untuk orang-orang berkedudukan tinggi,[^behead] yang berarti dengan mati demi iman mereka, orang-orang percaya biasa sesungguhnya mati sebagai raja-raja.
 
 Apakah itu berarti hanya orang-orang yang benar-benar mati demi imannya yang akan memerintah? Tidak juga — kitab ini menggambarkan beberapa jenis saksi dan beberapa jenis penderitaan yang berbeda, bukan hanya kemartiran:
 - {{% bible val="Yohanes dalam pembuangan" link="rev:1,9" lang="ind" %}},
@@ -152,4 +152,10 @@ Jadi, pemerintahan ini adalah milik siapa pun yang setia kepada Allah, entah kes
 <a name="6f12"></a>
 "{{% bible val="Berbahagia dan kuduslah ia, yang mendapat bagian dalam kebangkitan pertama itu. Kematian yang kedua tidak berkuasa lagi atas mereka, tetapi mereka akan menjadi imam-imam Allah dan Kristus, dan mereka akan memerintah sebagai raja bersama-sama dengan Dia, 1000 tahun lamanya." link="rev:20,6" lang="ind" %}}"
 
-Pada kelahiran jasmani, kita menerima "hidup pertama" kita dalam ciptaan lama. Ketika {{% bible val="kita dilahirkan kembali, kita menerima 'hidup kedua'" link="jhn:3" lang="ind" %}}, yang oleh nas ini disebut kebangkitan pertama. Kematian kedua, sebaliknya, sesederhana tidak pernah menerima hidup kedua itu — tetap mati secara rohani terhadap Allah.
+Pada kelahiran jasmani, kita menerima "hidup pertama" kita dalam ciptaan lama. Ketika {{% bible val="kita dilahirkan kembali, kita menerima 'hidup kedua'" link="jhn:3" lang="ind" %}}, yang oleh nas ini disebut kebangkitan pertama. Kematian kedua adalah lautan api, penghakiman terakhir (20:14; 21:8). Kematian itu tidak berkuasa atas mereka yang mendapat bagian dalam kebangkitan pertama — mereka yang telah menerima hidup baru di dalam Kristus (20:6; 2:11).[^death2]
+
+[^kai]: Beale, hlm. 975.
+
+[^behead]: Aune, *Revelation 17–22*, hlm. 1086: mereka yang dipenggal "kemungkinan besar termasuk golongan *honestiores*", kelas atas.
+
+[^death2]: Beale, hlm. 244.

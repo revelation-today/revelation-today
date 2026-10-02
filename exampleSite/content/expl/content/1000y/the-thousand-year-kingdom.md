@@ -9,7 +9,7 @@ next: /expl/content/1000y/pre-post-and-amillennialism
 docType: expl
 appl: /appl/content/1000y
 sources:
-    - pages: 972–1031
+    - pages: 244, 972–1031
       ref: beale_rev
     - pages: 1084–1090
       ref: aune_rev
@@ -49,7 +49,7 @@ To decide between the two, it helps to see how "and" functions elsewhere in the 
 
 - Most of the time, "and" simply links one vision or block of material to the next — it's a visionary connector, not a timestamp.
 - When "and" does carry a temporal sense, that sense usually comes from the surrounding paragraph, not from the word itself; the word is used the same way whether the events are simultaneous or sequential, and it's the wider context that settles which.
-- A temporal "and" is the exception rather than the rule — Beale counts it as happening only 4 times out of 35 uses in the book ({{% bible val="the beast and the false prophet were captured right after the battle was lost" link="rev:19,20" lang="en" %}}; [all the people were killed](https://biblehub.com/interlinear/revelation/19-21.htm); [then the birds fed on the corpses](https://biblehub.com/interlinear/revelation/19-21.htm); and perhaps {{% bible val="Jesus fought the battle after the wedding" link="rev:19,11" lang="en" %}}).
+- A temporal "and" is the exception rather than the rule — in the battle scene of 19:11–21, only three, perhaps four, of its thirty-five uses mark a sequence ({{% bible val="the beast and the false prophet were captured right after the battle was lost" link="rev:19,20" lang="en" %}}; [all the people were killed](https://biblehub.com/interlinear/revelation/19-21.htm); [then the birds fed on the corpses](https://biblehub.com/interlinear/revelation/19-21.htm); and perhaps {{% bible val="Jesus fought the battle after the wedding" link="rev:19,11" lang="en" %}}). Within chapter 20 itself, though, most of the *and*s do mark sequence, so this word alone cannot settle the question — the wider structure of the book has to.[^kai]
 - When "and" introduces the ascent or descent of an angel, it marks a new vision — sometimes with a temporal delay, as {{% bible val="with the angel with the little scroll" link="rev:10,1" lang="en" %}}, and sometimes as a flashback, as with the {{% bible val="angel with the seals of the living God" link="rev:7,2" lang="en" %}} or {{% bible val="the judgment of Babylon" link="rev:18,1" lang="en" %}}, which was already {{% bible val="described in the previous chapter" link="rev:17,16" lang="en" %}}. Most commentators who read the "and" in chapter 20 temporally still read the equivalent "and" in these other chapters visionally — an inconsistency worth noticing.
 
 ## Two final battles?
@@ -93,7 +93,7 @@ Taken together, these chapters read less like two contradictory timelines and mo
 
 {{% bible val="The binding of Satan" link="rev:20,2" lang="en" %}} is also described elsewhere as something {{% bible val="Jesus already accomplished at his first coming" link="mrk:3,27" lang="en" %}}. And yet {{% bible val="he (the man of lawlessness) is released shortly before Jesus's second coming, when he attacks the church" link="2th:2,6-12" lang="en" %}} — both things are true at once, on this reading.
 
-The phrase "man of lawlessness," or {{% bible val="the lawless one" link="2th:2,8" lang="en" %}}, echoes an Old Testament idiom (literally "son of wickedness/iniquity," visible in older translations of the {{% bible val="Psalms" link="psa:89,22" lang="en" %}} and {{% bible val="Isaiah" link="isa:57,3-4" lang="en" %}}) used as a personification of evil. The same passage in 2 Thessalonians also says he exalts himself above God, a detail that reaches back to {{% bible val="Daniel" link="dan:11,36" lang="en" %}}. Put together, this figure is Satan, and the one who restrains him in Revelation's story is the angel.
+The phrase "man of lawlessness," or {{% bible val="the lawless one" link="2th:2,8" lang="en" %}}, echoes an Old Testament idiom (literally "son of wickedness/iniquity," visible in older translations of the {{% bible val="Psalms" link="psa:89,22" lang="en" %}} and {{% bible val="Isaiah" link="isa:57,3-4" lang="en" %}}) used as a personification of evil. The same passage in 2 Thessalonians also says he exalts himself above God, a detail that reaches back to {{% bible val="Daniel" link="dan:11,36" lang="en" %}}. Put together, this figure is Satan's agent: his coming "is by the activity of Satan" (2 Thess 2:9). The one who restrains him, in Revelation's story, is the angel who binds Satan.
 
 ## What about the prophecies?
 
@@ -134,7 +134,7 @@ Read backwards, in the order the events actually happened, the passage makes mor
 
 That raises an obvious question: why does the text specify {{% bible val="beheaded" link="rev:20,4" lang="en" %}}? Does that mean only people who were literally beheaded get to reign?
 
-No — the {{% bible val="parallel with the souls under the altar" link="rev:6,9" lang="en" %}} shows that this language refers to all killed witnesses, not a literal, narrow category. The specific detail of beheading may also be one of the book's parodies of Roman status: only Roman citizens were normally executed by beheading, the empire's least degrading method of execution, reserved by law for those with citizen status rather than for the poor or enslaved. If that background is in view, the image suggests that by dying for the faith, ordinary believers — regardless of their actual legal or social standing — are dying with the dignity Rome reserved for its highest-status citizens.
+No — the {{% bible val="parallel with the souls under the altar" link="rev:6,9" lang="en" %}} shows that this language refers to all killed witnesses, not a literal, narrow category. The specific detail of beheading may also be one of the book's parodies of Roman status: beheading was the empire's least degrading method of execution, normally used for people of higher standing rather than for the poor or enslaved.[^behead] If that background is in view, the image suggests that by dying for the faith, ordinary believers — regardless of their actual legal or social standing — are dying with the dignity Rome reserved for its highest-status citizens.
 
 Does that mean only people who actually die for their faith get to rule? Not quite — the book describes several different kinds of witnesses and different kinds of suffering, not just martyrdom:
 - {{% bible val="John in exile" link="rev:1,9" lang="en" %}},
@@ -149,4 +149,10 @@ So the reign belongs to anyone loyal to God, whether that loyalty costs them the
 
 "{{% bible val="Blessed and holy are those who share in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ and will reign with him for a thousand years." link="rev:20,6" lang="en" %}}"
 
-At physical birth, we receive our "first life" in the old creation. When {{% bible val="we are born again, we receive a 'second life'" link="jhn:3" lang="en" %}}, which is what this passage calls the first resurrection. The second death, by contrast, is simply never having that second life — remaining spiritually dead toward God.
+At physical birth, we receive our "first life" in the old creation. When {{% bible val="we are born again, we receive a 'second life'" link="jhn:3" lang="en" %}}, which is what this passage calls the first resurrection. The second death is the lake of fire, the final judgment (20:14; 21:8). It has no power over those who share in the first resurrection — those who have received new life in Christ (20:6; 2:11).[^death2]
+
+[^kai]: Beale, p. 975.
+
+[^behead]: Aune, *Revelation 17–22*, p. 1086: the beheaded "in all probability belonged to the *honestiores*", the upper class.
+
+[^death2]: Beale, p. 244.
