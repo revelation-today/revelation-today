@@ -49,7 +49,7 @@ This is the emperor in Rome, coming from the sea. He is no different from all th
 ## The second beast
 
 <a name="2f0d"></a>
-This is the wide network of people who benefit from the emperor's favor — through tax breaks, financial support, or other privileges (historically, this points to the *Asiarchs* and the provincial imperial-cult priesthoods of Roman Asia). For them, the {{% int_link val="emperor is a guarantee of the gods' blessings" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
+This is the wide network of people who benefit from the emperor's favor — through tax breaks, financial support, or other privileges (historically, the provincial high priests of the imperial cult and the leading families of the cities of Roman Asia). For them, the {{% int_link val="emperor is a guarantee of the gods' blessings" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
 
 They make {{% bible val="sure that the whole earth worships the first beast" link="rev:13,12" lang="en" %}}. They perform processions, build temples, work in and for the temples, sell meat dedicated to the idols, attend feasts for the idols, and much more — a comprehensive, everyday activity that doesn't look evil at all, described starting from {{% bible val="the moment this second beast rises up, looking harmless, like a lamb" link="rev:13,11" lang="en" %}}.
 

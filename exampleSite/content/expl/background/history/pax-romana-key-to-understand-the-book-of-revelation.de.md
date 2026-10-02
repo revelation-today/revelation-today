@@ -31,7 +31,7 @@ Pax Romana bedeutet "Römischer Friede" und bezeichnet eine Zeitspanne von 27 v.
 - wenigen Bürgerkriegen und einem starken, stabilen Reich
 - hohem Wohlstand, zumindest für die meisten
 - blühender Kunst und Kultur
-- aber auch einer Zeit vereinzelter Christenverfolgung unter Nero, Domitian und Trajan, obwohl eine systematische, reichsweite Verfolgung erst 253 n. Chr. begann
+- aber auch einer Zeit vereinzelter Christenverfolgung unter Nero, Domitian und Trajan, obwohl eine systematische, reichsweite Verfolgung erst 250 n. Chr. unter Decius begann
 
 Diesen Verhältnissen lag eine in sich stimmige, geradezu theologische Vorstellung zugrunde:
 

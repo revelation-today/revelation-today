@@ -26,11 +26,11 @@ Pada bagian depan tampak Kaisar Vespasianus (memerintah tahun 69–79) dengan tu
 
 Bagian belakang menampilkan dewi Roma dalam pakaian militer, duduk di atas ketujuh bukit Roma, dengan sebilah pedang kecil bertumpu di lututnya sebagai lambang kekuatan militer Roma. Di kiri dan kanannya terdapat singkatan SC (Senatus Consultum, "atas keputusan Senat").
 
-Di sebelah kanan, sesosok pria yang melambangkan Sungai Tiber, yang mengelilingi Roma, membungkuk di hadapan Roma. Di kiri bawah, seekor serigala betina menyusui Romulus dan Remus, mengingatkan pada legenda pendirian Roma yang tradisional — penanggalan kota itu sendiri oleh sejarawan kuno Romawi, Varro, pada tahun 753 SM, dan kisah asal-usulnya sendiri sebagai keturunan para pengungsi Troya melalui Romulus dan Remus. Di bagian paling bawah terdapat kata Roma — mungkin sebuah sindiran pada tradisi Roma tentang sebuah "nama rahasia," Amor, yang jika dibalik ejaannya berarti "cinta" (sebuah tradisi yang juga bergema, antara lain, dalam tafsir Servius di zaman akhir kuno atas karya Aeneid karya Virgil).
+Di sebelah kanan, sesosok pria yang melambangkan Sungai Tiber, yang mengelilingi Roma, membungkuk di hadapan Roma. Di kiri bawah, seekor serigala betina menyusui Romulus dan Remus, mengingatkan pada legenda pendirian Roma yang tradisional — penanggalan kota itu sendiri oleh sejarawan kuno Romawi, Varro, pada tahun 753 SM, dan kisah asal-usulnya sendiri sebagai keturunan para pengungsi Troya melalui Romulus dan Remus. Di bagian paling bawah terdapat kata Roma — mungkin sebuah sindiran pada tradisi Roma tentang sebuah "nama rahasia," Amor, yang jika dibalik ejaannya berarti "cinta".[^amor]
 
 Jadi bagian belakang koin ini adalah sebuah perayaan langsung atas kekuasaan dan keabadian Roma. Apa yang dilakukan kitab Wahyu dengan gambaran yang sama itu?
 
-- Menyebut seorang perempuan sebagai serigala betina, bahkan dalam bahasa Latin sehari-hari, adalah cara untuk menyebutnya pelacur — dan nama rahasia Amor hanya mempertajam penghinaan itu.
+- Dalam bahasa Latin, *lupa*, "serigala betina", juga merupakan sebutan bagi pelacur, sehingga serigala betina pada koin itu kemungkinan besar mengundang ejekan itu — dan nama rahasia Amor hanya mempertajamnya.[^lupa]
 - Dewi pelindung Roma di sini digambarkan ulang sebagai seorang pelacur — bukan sekadar pelacur biasa, melainkan ibu dari segala pelacur.
 - Bukit-bukit Roma, alih-alih mendukungnya, justru menjadi binatang dan para raja yang membinasakannya: Roma akhirnya menjadi korban dari kota yang seharusnya ia lindungi.
 - Dan alih-alih melindungi dirinya dari musuh dengan pedangnya, ia justru berlumuran darah orang-orang kudus.
@@ -58,3 +58,7 @@ Tabula itu kemungkinan besar menjadi salah satu sumber di balik Wahyu 17. Tabula
 Kesejajaran lain yang mungkin ada pada [Ode Salomo](https://en.wikipedia.org/wiki/Odes_of_Solomon) 38:9–14, di mana Kesesatan dan Ketidaktahuan menyamar sebagai mempelai perempuan dan mempelai laki-laki dalam sebuah pesta pernikahan, dan anggur di sana membuat para tamu memuntahkan pemahaman mereka sendiri.
 
 Kedua kesejajaran ini menunjuk pada satu tujuan yang sama di balik ekfrasis dalam Wahyu 17: memahami tipu daya ini adalah langkah pertama menuju Kerajaan Allah. Jika Roma telah menipumu, hanya tersisa sedikit harapan bagimu — namun tipu daya itu begitu terang-terangan sehingga sesungguhnya dimaksudkan agar sulit untuk diabaikan.
+
+[^amor]: Nama rahasia Amor dilaporkan oleh Yohanes Lydus (*Tentang Bulan-bulan* 4.73) dan Aelius Aristides, dan muncul dalam sebuah grafiti di Pompeii; lihat Aune, hlm. 925–926.
+
+[^lupa]: Aune, hlm. 925.

@@ -25,7 +25,7 @@ Apakah kamu mengenal Smirna? Sebaiknya kamu mengenalnya - di sanalah terdapat se
 <a name="d1ed"></a>
 Smirna terletak sekitar 70 km sebelah utara Efesus, di sebuah teluk dengan pelabuhan yang sangat baik - sumber kekayaan kota yang penting secara ekonomi ini.
 
-Pada tahun 26 M, sebelas kota di Asia bersaing di hadapan Senat Romawi demi kehormatan membangun sebuah kuil bagi Kaisar Tiberius. Smirna menang - dengan mengutip kesetiaannya kepada Roma selama berabad-abad, yang bermula dari kuil yang telah dibangunnya bagi dewi Roma sejak tahun 195 SM - dan menjadi salah satu pusat terdepan penyembahan kaisar di provinsi itu. Hanya sedikit yang diketahui tentang bagaimana jemaat ini bermula; kemungkinan didirikan oleh Paulus sekitar waktu yang sama ketika ia mendirikan jemaat di Efesus.
+Pada tahun 26 M, sebelas kota di Asia bersaing di hadapan Senat Romawi demi kehormatan membangun sebuah kuil bagi Kaisar Tiberius. Smirna menang - dengan mengutip kesetiaannya kepada Roma selama berabad-abad, yang bermula dari kuil yang telah dibangunnya bagi dewi Roma sejak awal abad ke-2 SM - dan menjadi salah satu pusat terdepan penyembahan kaisar di provinsi itu. Hanya sedikit yang diketahui tentang bagaimana jemaat ini bermula; kemungkinan didirikan oleh Paulus sekitar waktu yang sama ketika ia mendirikan jemaat di Efesus.
 
 ## Pandangan Yesus
 

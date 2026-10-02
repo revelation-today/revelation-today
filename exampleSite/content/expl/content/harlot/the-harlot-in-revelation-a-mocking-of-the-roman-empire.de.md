@@ -26,11 +26,11 @@ Auf der Vorderseite ist Kaiser Vespasian (regierte 69–79) mit der Inschrift �
 
 Die Rückseite zeigt die Göttin Roma in militärischer Kleidung, sitzend auf den sieben Hügeln Roms, mit einem kleinen Schwert auf ihrem Knie als Symbol der militärischen Macht Roms. Zu ihrer Linken und Rechten steht die Abkürzung SC (Senatus Consultum, „auf Beschluss des Senats").
 
-Rechts verneigt sich eine männliche Gestalt, die den Fluss Tiber darstellt, der Rom umgibt, vor Roma. Unten links säugt eine Wölfin Romulus und Remus, eine Erinnerung an Roms traditionelle Gründungslegende — die eigene Datierung der Stadt durch den römischen Altertumsforscher Varro auf 753 v. Chr., und ihre selbst erzählte Abstammung von trojanischen Flüchtlingen über Romulus und Remus. Ganz unten steht das Wort Roma — möglicherweise ein Hinweis auf Roms Tradition eines „geheimen Namens", Amor, der rückwärts gelesen „Liebe" ergibt (eine Tradition, die unter anderem im spätantiken Kommentar des Servius zu Vergils Aeneis nachklingt).
+Rechts verneigt sich eine männliche Gestalt, die den Fluss Tiber darstellt, der Rom umgibt, vor Roma. Unten links säugt eine Wölfin Romulus und Remus, eine Erinnerung an Roms traditionelle Gründungslegende — die eigene Datierung der Stadt durch den römischen Altertumsforscher Varro auf 753 v. Chr., und ihre selbst erzählte Abstammung von trojanischen Flüchtlingen über Romulus und Remus. Ganz unten steht das Wort Roma — möglicherweise ein Hinweis auf Roms Tradition eines „geheimen Namens", Amor, der rückwärts gelesen „Liebe" ergibt.[^amor]
 
 Die Rückseite der Münze ist also eine unverhohlene Feier der Macht und Beständigkeit Roms. Was macht die Offenbarung mit genau dieser Bildsprache?
 
-- Eine Frau als Wölfin zu bezeichnen war schon im gewöhnlichen Latein eine Art, sie eine Prostituierte zu nennen — und der geheime Name Amor verschärft diese Beleidigung nur noch.
+- Im Lateinischen war *lupa*, „Wölfin", auch ein Wort für eine Prostituierte; die Wölfin auf der Münze lud also wohl zu dem Spott ein — und der geheime Name Amor verschärft ihn nur noch.[^lupa]
 - Die Göttin Roms wird hier zur Hure umgedeutet — nicht irgendeiner Hure, sondern der Mutter aller Huren.
 - Die Hügel Roms, statt sie zu stützen, werden zum Tier und den Königen, die sie vernichten: Roma endet als Opfer genau der Stadt, die sie schützen sollte.
 - Und statt sich mit ihrem Schwert vor Feinden zu schützen, ist sie mit dem Blut der Heiligen bedeckt.
@@ -58,3 +58,7 @@ Diese Tabula könnte durchaus eine Quelle hinter Offenbarung 17 sein. Sie beschr
 Eine weitere mögliche Parallele sind die [Oden Salomos](https://de.wikipedia.org/wiki/Oden_Salomos) 38,9–14, wo sich Irrtum und Unwissenheit bei einer Hochzeit als Braut und Bräutigam verkleiden, und der Wein dort die Gäste ihr eigenes Verständnis erbrechen lässt.
 
 Beide Parallelen weisen auf denselben Zweck hinter der Ekphrasis in Offenbarung 17 hin: Diese Täuschung zu verstehen ist der erste Schritt zum Reich Gottes. Wenn Rom dich getäuscht hat, bleibt dir kaum noch Hoffnung — und doch ist die Täuschung so unverhohlen, dass sie eigentlich kaum zu übersehen sein sollte.
+
+[^amor]: Den geheimen Namen Amor überliefern Johannes Lydos (*Über die Monate* 4,73) und Aelius Aristides; er findet sich auch in einem Graffito in Pompeji; siehe Aune, S. 925–926.
+
+[^lupa]: Aune, S. 925.

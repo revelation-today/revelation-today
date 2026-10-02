@@ -61,7 +61,7 @@ Derinlemesine bakıldığında, altta yatan kelime "[harpazo](https://biblehub.c
 - {{% bible val="inananların ateşten kurtarılması" link="jud:1,23" lang="tr" %}},
 - {{% bible val="çocuğun ejderhadan kurtarılması" link="rev:12,5" lang="tr" %}}.
 
-Anlamlar hayli çeşitlidir, ama ortak bir noktaları var: her durumda fiilin nesnesine istem dışı bir şey yapılır — kurtarılır, bir elden kapılır, çalınır ya da alıp götürülür — ve bunların hiçbiri göğe fiziksel bir yükselişi betimlemez.
+Anlamlar hayli çeşitlidir, ama ortak bir noktaları var: her durumda fiilin nesnesine istem dışı bir şey yapılır — kurtarılır, bir elden kapılır, çalınır ya da alıp götürülür — daha güçlü bir elin ani bir şekilde alıp götürmesi. Yön değişir: bazen yukarıya (2Ko. 12:2; Va. 12:5), çoğu zaman yalnızca tehlikeden uzağa (Elç. 23:10). Kelimenin kendisi birinin nereye götürüldüğünü söylemez.
 
 Ancak 17. ayette İsa'yla buluşma *eylemini* gerçekte betimleyen kelime bambaşkadır: [apantesis](https://biblehub.com/greek/529.htm); Yeni Ahit'te yalnızca iki yerde daha geçer — {{% bible val="güvey'in gelişinde" link="mat:25,6" lang="tr" %}} ve {{% bible val="Pavlus'un Roma'da karşılanışında" link="act:28,15" lang="tr" %}}. Her iki durumda da insanlar dışarı çıkıp gelmekte olan kişiyi karşılar, sonra dönüp onunla birlikte geldiği yoldan geri döner. [Kelimenin kullanımı](https://biblehub.com/greek/529.htm), önemli bir konuğu şehrin dışında karşılayıp içeri eşlik etme geleneğini yansıtır. Buna göre burada İsa'nın yönü açıkça aşağı, yeryüzüne doğrudur, tekrar göğe değil.
 

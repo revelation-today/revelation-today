@@ -25,7 +25,7 @@ sources:
 <a name="89a1"></a>
 İzmir, Efes'in yaklaşık 70 km kuzeyinde, mükemmel bir limana sahip bir koyun kıyısında yer alıyordu — bu ekonomik açıdan önemli şehrin zenginliğinin kaynağı da buydu.
 
-MS 26 yılında, Asya'nın on bir şehri, İmparator Tiberius için bir tapınak inşa etme onuru için Roma Senatosu önünde yarıştı. İzmir kazandı — Roma'ya, MÖ 195 gibi erken bir tarihte tanrıça Roma için inşa ettiği bir tapınağa kadar uzanan yüzyıllar süren sadakatini öne sürerek — ve böylece eyaletteki imparator ibadetinin önde gelen merkezlerinden biri hâline geldi. Kilisenin kendisinin nasıl başladığı hakkında çok az şey bilinmektedir; belki de Pavlus tarafından, Efes'te kiliseyi kurduğu dönemlerde kurulmuştur.
+MS 26 yılında, Asya'nın on bir şehri, İmparator Tiberius için bir tapınak inşa etme onuru için Roma Senatosu önünde yarıştı. İzmir kazandı — Roma'ya, MÖ 2. yüzyılın başları gibi erken bir tarihte tanrıça Roma için inşa ettiği bir tapınağa kadar uzanan yüzyıllar süren sadakatini öne sürerek — ve böylece eyaletteki imparator ibadetinin önde gelen merkezlerinden biri hâline geldi. Kilisenin kendisinin nasıl başladığı hakkında çok az şey bilinmektedir; belki de Pavlus tarafından, Efes'te kiliseyi kurduğu dönemlerde kurulmuştur.
 
 ## İsa'nın görüşü
 

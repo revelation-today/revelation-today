@@ -26,11 +26,11 @@ O dönemde yaygın olarak kullanılan bir madeni parayla başlayalım.
 
 Arka yüzde, askeri kıyafetli tanrıça Roma, Roma'nın yedi tepesi üzerinde otururken görülür; dizinde, Roma'nın askeri gücünün simgesi olan küçük bir kılıç durur. Sağında ve solunda SC (Senatus Consultum, "Senato kararıyla") kısaltması yer alır.
 
-Sağda, Roma'yı çevreleyen Tiber nehrini temsil eden erkek bir figür, Roma'nın önünde eğilir. Sol altta, dişi bir kurt Romulus ve Remus'u emzirir; bu, Roma'nın geleneksel kuruluş efsanesini hatırlatır — kentin, Romalı eskiçağ araştırmacısı Varro tarafından MÖ 753'e tarihlenmesini ve Truva'dan kaçan mültecilerin soyundan, Romulus ve Remus aracılığıyla geldiğine dair kendi anlattığı köken hikâyesini. En altta ise Roma sözcüğü yer alır — belki de Roma'nın tersten okununca "aşk" anlamına gelen bir "gizli ad" geleneğine, Amor'a bir gönderme (bu gelenek, diğerlerinin yanı sıra, Servius'un Vergilius'un Aeneis'i üzerine geç antik dönem şerhinde de yankılanır).
+Sağda, Roma'yı çevreleyen Tiber nehrini temsil eden erkek bir figür, Roma'nın önünde eğilir. Sol altta, dişi bir kurt Romulus ve Remus'u emzirir; bu, Roma'nın geleneksel kuruluş efsanesini hatırlatır — kentin, Romalı eskiçağ araştırmacısı Varro tarafından MÖ 753'e tarihlenmesini ve Truva'dan kaçan mültecilerin soyundan, Romulus ve Remus aracılığıyla geldiğine dair kendi anlattığı köken hikâyesini. En altta ise Roma sözcüğü yer alır — belki de Roma'nın tersten okununca "aşk" anlamına gelen bir "gizli ad" geleneğine, Amor'a bir gönderme.[^amor]
 
 Yani madalyonun arka yüzü, Roma'nın gücünün ve kalıcılığının açık bir kutlamasıdır. Peki Vahiy Kitabı bu aynı imgeyle ne yapar?
 
-- Bir kadını kurt olarak tanımlamak, sıradan Latince'de bile onu fahişe olarak adlandırmanın bir yoluydu — gizli ad Amor da bu hakareti daha da keskinleştirir.
+- Latincede *lupa*, "dişi kurt", aynı zamanda fahişe için kullanılan bir kelimeydi; bu yüzden sikkedeki dişi kurt büyük olasılıkla bu alaya davetiye çıkarıyordu — gizli ad Amor da onu daha da keskinleştirir.[^lupa]
 - Roma'nın tanrıçası burada bir fahişe olarak yeniden çizilir — hem de sıradan bir fahişe değil, tüm fahişelerin anası olarak.
 - Roma'nın tepeleri, onu desteklemek yerine, onu yok eden canavar ve krallar hâline gelir: Roma, korumak için var olduğu şehrin kurbanı olur.
 - Ve kendini düşmanlardan kılıcıyla korumak yerine, azizlerin kanıyla örtülür.
@@ -58,3 +58,7 @@ O tabula, Vahiy 17'nin arkasındaki bir kaynak olabilir. Bir tapınaktaki adak l
 Bir başka olası paralellik de, Hata ve Bilgisizlik'in bir düğünde gelin ve damat kılığına girdiği ve oradaki şarabın konuklara kendi anlayışlarını kusturduğu [Süleyman'ın Kasideleri](https://en.wikipedia.org/wiki/Odes_of_Solomon) 38:9–14'tür.
 
 Her iki paralellik de Vahiy 17'deki ekphrasis'in aynı amacına işaret eder: bu aldatmacayı anlamak, Tanrı'nın krallığına doğru atılan ilk adımdır. Eğer Roma seni aldattıysa, geriye pek az umut kalır — yine de bu aldatmaca, gözden kaçırılması neredeyse imkânsız olacak kadar arsızdır.
+
+[^amor]: Gizli ad Amor'u Yohannes Lydos (*Aylar Üzerine* 4.73) ve Aelius Aristides aktarır; Pompeii'deki bir duvar yazısında da geçer; bkz. Aune, s. 925–926.
+
+[^lupa]: Aune, s. 925.

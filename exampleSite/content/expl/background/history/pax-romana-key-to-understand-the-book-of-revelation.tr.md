@@ -31,7 +31,7 @@ Vahiy Kitabı'nın ya da antik Roma'nın Pax Romana'sının bugünkü yaşamın�
 - az sayıda iç savaş ve güçlü, istikrarlı bir imparatorluk
 - çoğu kişi için yüksek bir refah
 - sanat ve kültürün gelişmesi
-- yine de Neron, Domitian ve Trajan dönemlerinde Hıristiyanlara yönelik dönem dönem zulümlerin yaşandığı bir dönem — sistematik, imparatorluk çapında zulüm ise ancak M.S. 253'te başlamıştır
+- yine de Neron, Domitian ve Trajan dönemlerinde Hıristiyanlara yönelik dönem dönem zulümlerin yaşandığı bir dönem — sistematik, imparatorluk çapında zulüm ise ancak M.S. 250'de, Decius döneminde başlamıştır
 
 Bu koşulların altında tutarlı, neredeyse teolojik denebilecek bir fikir yatıyordu:
 

@@ -31,7 +31,7 @@ Pax Romana, yang berarti "Perdamaian Romawi," merujuk pada periode dari tahun 27
 - sedikit perang saudara dan kekaisaran yang kuat dan stabil
 - kemakmuran tinggi, setidaknya bagi kebanyakan orang
 - seni dan budaya yang berkembang pesat
-- namun juga masa penganiayaan sporadis terhadap orang Kristen di bawah pemerintahan Nero, Domitianus, dan Trajanus, meskipun penganiayaan sistematis di seluruh kekaisaran baru dimulai pada tahun 253 M
+- namun juga masa penganiayaan sporadis terhadap orang Kristen di bawah pemerintahan Nero, Domitianus, dan Trajanus, meskipun penganiayaan sistematis di seluruh kekaisaran baru dimulai pada tahun 250 M, di bawah Decius
 
 Di balik keadaan ini terdapat sebuah gagasan yang koheren, bahkan hampir bersifat teologis:
 

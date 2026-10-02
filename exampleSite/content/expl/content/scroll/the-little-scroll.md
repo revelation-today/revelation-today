@@ -43,7 +43,7 @@ Then come the seven thunders. Whatever they say is tantalizing precisely because
 ## Eating the scroll
 
 <a name="c6ef"></a>
-John is told to eat the scroll, an image that recalls Ezekiel eating his own scroll: in both cases, the prophet has to internalize the message before he can preach it. John does the same here, making the scroll his own before he can pass it on. But there's a twist: Ezekiel's scroll, for all its grim content, only ever tasted sweet. John's turns bitter in the stomach — a warning built into the commissioning itself that the message will cost him. So what does that content turn out to be?
+John is told to eat the scroll, an image that recalls Ezekiel eating his own scroll: in both cases, the prophet has to internalize the message before he can preach it. John does the same here, making the scroll his own before he can pass it on. But there's a twist: in Ezekiel the scroll tastes sweet, and the bitterness comes only afterwards, as he goes out to his task (Ezek 3:3, 14). For John the scroll itself turns bitter in the stomach — a warning built into the commissioning itself that the message will cost him. So what does that content turn out to be?
 
 The taste tells the story. It is sweet in the mouth — what Jesus has already accomplished — and bitter in the stomach: the judgment still coming on the world, and the cost of bearing witness to a world that hates the church for it, a hatred the church is not to answer in kind, since it is called to follow Jesus rather than threaten as he was threatened.
 

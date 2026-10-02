@@ -49,7 +49,7 @@ Bu, denizden gelen Roma'daki imparatordur. Kendisinden önceki hükümdarların 
 ## İkinci canavar
 
 <a name="929e"></a>
-Bu, imparatorun lütfundan yararlanan geniş bir insan ağıdır — vergi indirimleri, mali destek ya da başka ayrıcalıklar yoluyla (tarihsel olarak bu, Roma Asyası'ndaki *Asiarklara* ve eyalet imparatorluk kültü rahipliklerine işaret eder). Onlar için {{% int_link val="imparator, tanrıların bereketinin bir güvencesidir" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
+Bu, imparatorun lütfundan yararlanan geniş bir insan ağıdır — vergi indirimleri, mali destek ya da başka ayrıcalıklar yoluyla (tarihsel olarak: imparatorluk kültünün eyalet başrahipleri ve Roma Asyası kentlerinin önde gelen aileleri). Onlar için {{% int_link val="imparator, tanrıların bereketinin bir güvencesidir" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
 
 {{% bible val="Bütün dünyanın ilk canavara tapmasını sağlarlar" link="rev:13,12" lang="tr" %}}. Alaylar düzenler, tapınaklar inşa eder, tapınaklarda ve tapınaklar için çalışır, putlara adanmış eti satar, putlar için düzenlenen şölenlere katılır ve daha pek çok şey yaparlar — hiç de kötü görünmeyen, günlük ve kapsamlı bir faaliyettir bu; bu, {{% bible val="bu ikinci canavarın ortaya çıktığı, kuzu gibi zararsız göründüğü" link="rev:13,11" lang="tr" %}} andan itibaren betimlenir.
 

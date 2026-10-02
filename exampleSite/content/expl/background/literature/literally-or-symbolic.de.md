@@ -41,7 +41,7 @@ Die Passage in Daniel 2 ist die einzige unter den prophetischen Büchern, die da
 <a name="af5e"></a>
 Der Eröffnungssatz der Prophezeiung, „er zeigte … was in den letzten Tagen geschehen muss", findet sein Echo ganz am {{% bible val="Anfang" link="rev:1,1" lang="de" %}} der Offenbarung und noch einmal {{% bible val="kurz vor den Sendschreiben an die Gemeinden" link="rev:1,19" lang="de" %}}.
 
-Die eigene Eröffnung der Offenbarung, „um zu zeigen … was bald geschehen muss", signalisiert, dass die von Daniel prophezeite Zeit nun angebrochen ist — man beachte den Wechsel von „in den letzten Tagen" zu „bald" —, während die Formulierung kurz vor den Sendschreiben zu Daniels eigenem Wortlaut zurückkehrt: „in den letzten Tagen".
+Die eigene Eröffnung der Offenbarung, „um zu zeigen … was bald geschehen muss", signalisiert, dass die von Daniel prophezeite Zeit nun angebrochen ist — man beachte den Wechsel von „in den letzten Tagen" zu „bald" —, während die Formulierung kurz vor den Sendschreiben, „was danach geschehen wird", eine andere Wendung derselben Danielstelle aufgreift.[^daniel]
 
 Die Einleitung, die auf die Sendschreiben folgt, verwendet dieselbe Formel erneut: „{{% bible val="Ich will dir zeigen, was danach geschehen muss" link="rev:4,1" lang="de" %}}."
 
@@ -61,7 +61,7 @@ Nein, diese Überschrift ist kein Tippfehler — sie benennt die beiden griechis
 ### [semaino](https://biblehub.com/greek/4591.htm)
 
 <a name="09b2"></a>
-Dies ist dasselbe Wort, das im Griechischen bei Daniel für die Deutung einer symbolischen Vision verwendet wird, und es kommt im gesamten Neuen Testament nur 5-mal vor.
+Dies ist dasselbe Wort, das im Griechischen bei Daniel für die Deutung einer symbolischen Vision verwendet wird, und es kommt außerhalb der Offenbarung im Neuen Testament nur 5-mal vor.
 
 - Einmal in einem allgemeinen Sinn, wo es schlicht {{% bible val="mitteilen" link="act:25,27" lang="de" %}} bedeutet.
 - Einmal in Bezug auf eine möglicherweise {{% bible val="symbolische Prophezeiung" link="act:11,28" lang="de" %}}, verbunden mit der {{% bible val="symbolischen Bedeutung desselben Propheten" link="act:21,10-11" lang="de" %}}.
@@ -92,3 +92,5 @@ Dieses Wort steht gleich im ersten Satzteil — „{{% bible val="um seinen Knec
 Zusammengenommen legen diese Beobachtungen nahe, dass wir überall dort, wo der Text nicht eindeutig wörtlich ist, standardmäßig von einer symbolischen Lesart ausgehen sollten.
 
 Und tatsächlich ist das Buch voll von Dingen, die offensichtlich symbolisch sind: das Lamm, der Drache, das Tier mit seinen Köpfen und Hörnern, das Buch mit den sieben Siegeln, das Schwert, das aus dem Mund Jesu hervorgeht, und mehr.
+
+[^daniel]: „Danach" ist der Wortlaut von Dan 2,29.45 in der griechischen Übersetzung des Theodotion; Johannes verwendet ihn erneut in 4,1. Siehe Beale, S. 137–139, 152–159.

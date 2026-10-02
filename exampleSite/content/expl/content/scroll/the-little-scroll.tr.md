@@ -43,7 +43,7 @@ Ardından yedi gök gürlemesi gelir. Ne söyledikleri tam da bize hiç anlatıl
 ## Tomarı yemek
 
 <a name="b778"></a>
-Yuhanna'ya tomarı yemesi söylenir; bu, Hezekiel'in kendi tomarını yemesini hatırlatan bir imgedir: her iki durumda da peygamber, mesajı vaaz edebilmeden önce onu içselleştirmek zorundadır. Yuhanna da burada aynısını yapar; tomarı kendisine mal etmeden onu başkalarına iletemez. Ama bir sürpriz var: Hezekiel'in tomarı, kasvetli içeriğine rağmen, her zaman sadece tatlı bir tat verdi. Yuhanna'nınki ise midesinde acılaşır — bu görevlendirmenin kendisine işlenmiş bir uyarıdır: mesaj ona bir bedele mal olacaktır. Peki bu içerik sonunda ne olur?
+Yuhanna'ya tomarı yemesi söylenir; bu, Hezekiel'in kendi tomarını yemesini hatırlatan bir imgedir: her iki durumda da peygamber, mesajı vaaz edebilmeden önce onu içselleştirmek zorundadır. Yuhanna da burada aynısını yapar; tomarı kendisine mal etmeden onu başkalarına iletemez. Ama bir sürpriz var: Hezekiel'de tomar tatlı gelir, acılık ise ancak sonra, görevine çıkarken gelir (Hez. 3:3, 14). Yuhanna'da ise tomarın kendisi midesinde acılaşır — bu görevlendirmenin kendisine işlenmiş bir uyarıdır: mesaj ona bir bedele mal olacaktır. Peki bu içerik sonunda ne olur?
 
 Tat, hikayeyi anlatır. Ağızda tatlıdır — İsa'nın çoktan başardığı şey — ve midede acıdır: dünyanın üzerine hâlâ gelmekte olan yargı ve kiliseden nefret eden bir dünyaya tanıklık etmenin bedeli; kilise, tehdit edildiği gibi tehditle karşılık vermemeye, bunun yerine İsa'yı izlemeye çağrılmış olduğu için bu nefrete aynı şekilde cevap vermeyecektir.
 

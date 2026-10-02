@@ -39,7 +39,7 @@ The Daniel 2 passage is the only one among the prophetic books that uses the wor
 
 The prophecy's opening line, "he showed … what thing must take place in the latter days," is echoed at the very {{% bible val="beginning" link="rev:1,1" lang="en" %}} of Revelation and again {{% bible val="just before the letters to the churches" link="rev:1,19" lang="en" %}}.
 
-Revelation's own opening, "to show … what things must take place quickly," signals that the time Daniel prophesied has now arrived — notice the shift from "in the latter days" to "quickly" — while the phrase just before the letters to the churches reverts to Daniel's own wording, "in the latter days."
+Revelation's own opening, "to show … what things must take place quickly," signals that the time Daniel prophesied has now arrived — notice the shift from "in the latter days" to "quickly" — while the phrase just before the letters to the churches, "what will take place after these things," takes up another wording of the same passage in Daniel.[^daniel]
 
 The introduction that follows the letters uses the same formula again: "{{% bible val="I will show you what must take place after this" link="rev:4,1" lang="en" %}}."
 
@@ -59,7 +59,7 @@ No, that heading isn't a typo — it names the two Greek verbs that reveal the b
 ### [semaino](https://biblehub.com/greek/4591.htm)
 
 <a name="e9fa"></a>
-This is the same word used in the Greek of Daniel for the interpretation of a symbolic vision, and it appears only 5 times in the whole New Testament.
+This is the same word used in the Greek of Daniel for the interpretation of a symbolic vision, and outside Revelation it appears only 5 times in the New Testament.
 
 - Once in a generic sense, meaning simply to {{% bible val="specify" link="act:25,27" lang="en" %}}.
 - Once describing a potentially {{% bible val="symbolic prophecy" link="act:11,28" lang="en" %}}, tied to the {{% bible val="symbolic significance of that same prophet" link="act:21,10-11" lang="en" %}}.
@@ -91,3 +91,4 @@ Taken together, these observations suggest we should default to assuming a symbo
 
 And indeed, the book is full of things that are obviously symbolic: the lamb, the dragon, the beast with its heads and horns, the book with seven seals, the sword coming out of the mouth of Jesus, and more.
 
+[^daniel]: "After these things" is the wording of Dan 2:29, 45 in the Greek translation of Theodotion; John uses it again in 4:1. See Beale, pp. 137–139, 152–159.

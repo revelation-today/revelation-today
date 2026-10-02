@@ -49,7 +49,7 @@ Inilah sang kaisar di Roma, yang datang dari laut. Ia tidak berbeda dari semua p
 ## Binatang Kedua
 
 <a name="3622"></a>
-Inilah jaringan luas orang-orang yang mendapat keuntungan dari kemurahan hati sang kaisar — lewat keringanan pajak, dukungan finansial, atau hak-hak istimewa lainnya (secara historis, ini menunjuk pada para *Asiarch* dan imamat kultus kekaisaran di provinsi Asia Romawi). Bagi mereka, {{% int_link val="sang kaisar adalah jaminan berkat para dewa" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
+Inilah jaringan luas orang-orang yang mendapat keuntungan dari kemurahan hati sang kaisar — lewat keringanan pajak, dukungan finansial, atau hak-hak istimewa lainnya (secara historis: para imam besar kultus kekaisaran di provinsi itu dan keluarga-keluarga terkemuka di kota-kota Asia Romawi). Bagi mereka, {{% int_link val="sang kaisar adalah jaminan berkat para dewa" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
 
 Mereka {{% bible val="memastikan bahwa seluruh bumi menyembah binatang pertama" link="rev:13,12" lang="ind" %}}. Mereka mengadakan arak-arakan, membangun kuil-kuil, bekerja di dalam dan untuk kuil-kuil itu, menjual daging yang telah dipersembahkan kepada berhala, mengikuti perayaan-perayaan bagi para berhala, dan banyak lagi — sebuah kegiatan sehari-hari yang menyeluruh dan sama sekali tidak tampak jahat, yang digambarkan mulai dari saat {{% bible val="binatang kedua ini muncul, tampak tidak berbahaya, seperti anak domba" link="rev:13,11" lang="ind" %}}.
 

@@ -49,7 +49,7 @@ Das ist der Kaiser in Rom, der aus dem Meer kommt. Er unterscheidet sich nicht v
 ## Das zweite Tier
 
 <a name="3622"></a>
-Das ist das weitverzweigte Netzwerk von Menschen, die von der Gunst des Kaisers profitieren — durch Steuererleichterungen, finanzielle Unterstützung oder andere Vorteile (historisch bezieht sich das auf die *Asiarchen* und die städtischen Priesterschaften des Kaiserkults in der römischen Provinz Asia). Für sie ist der {{% int_link val="Kaiser eine Garantie für den Segen der Götter" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
+Das ist das weitverzweigte Netzwerk von Menschen, die von der Gunst des Kaisers profitieren — durch Steuererleichterungen, finanzielle Unterstützung oder andere Vorteile (historisch: die Hohepriester des Kaiserkults in der Provinz und die führenden Familien der Städte der römischen Provinz Asia). Für sie ist der {{% int_link val="Kaiser eine Garantie für den Segen der Götter" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}.
 
 Sie sorgen dafür, dass {{% bible val="die ganze Erde das erste Tier anbetet" link="rev:13,12" lang="de" %}}. Sie veranstalten Prozessionen, bauen Tempel, arbeiten in und für die Tempel, verkaufen den Götzen geweihtes Fleisch, nehmen an Festen für die Götzen teil und vieles mehr — eine umfassende, alltägliche Betätigung, die überhaupt nicht böse aussieht, beschrieben von dem Moment an, in dem {{% bible val="dieses zweite Tier aufsteigt und harmlos aussieht, wie ein Lamm" link="rev:13,11" lang="de" %}}.
 

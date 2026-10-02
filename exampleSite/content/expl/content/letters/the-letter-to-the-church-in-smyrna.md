@@ -25,7 +25,7 @@ Are you familiar with Smyrna? You should be — it's home to a blameless church,
 <a name="46be"></a>
 Smyrna sat about 70 km north of Ephesus, on a bay with an excellent harbor — the source of this economically important city's wealth.
 
-In AD 26, eleven cities of Asia competed before the Roman Senate for the honor of building a temple to Emperor Tiberius. Smyrna won — citing centuries of loyalty to Rome, going back to a temple it had built for the goddess Roma as early as 195 BC — becoming one of the leading centers of emperor worship in the province. Little is known about how the church itself began; it may have been founded by Paul around the time he established the church in Ephesus.
+In AD 26, eleven cities of Asia competed before the Roman Senate for the honor of building a temple to Emperor Tiberius. Smyrna won — citing centuries of loyalty to Rome, going back to a temple it had built for the goddess Roma early in the second century BC — becoming one of the leading centers of emperor worship in the province. Little is known about how the church itself began; it may have been founded by Paul around the time he established the church in Ephesus.
 
 ## Jesus' view
 

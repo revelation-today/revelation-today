@@ -25,7 +25,7 @@ Kennst du Smyrna? Solltest du - dort findest du eine tadellose Gemeinde, auch we
 <a name="d1ed"></a>
 Smyrna lag etwa 70 km nördlich von Ephesus, an einer Bucht mit einem hervorragenden Hafen - der Quelle des Reichtums dieser wirtschaftlich bedeutenden Stadt.
 
-Im Jahr 26 n. Chr. wetteiferten elf Städte Kleinasiens vor dem römischen Senat um die Ehre, einen Tempel für Kaiser Tiberius zu errichten. Smyrna gewann - unter Berufung auf jahrhundertelange Treue zu Rom, die bis zu einem Tempel zurückreichte, den die Stadt bereits 195 v. Chr. für die Göttin Roma errichtet hatte - und wurde damit eines der führenden Zentren des Kaiserkults in der Provinz. Über die Anfänge der Gemeinde selbst ist wenig bekannt; möglicherweise wurde sie von Paulus etwa zur selben Zeit gegründet, als er die Gemeinde in Ephesus gründete.
+Im Jahr 26 n. Chr. wetteiferten elf Städte Kleinasiens vor dem römischen Senat um die Ehre, einen Tempel für Kaiser Tiberius zu errichten. Smyrna gewann - unter Berufung auf jahrhundertelange Treue zu Rom, die bis zu einem Tempel zurückreichte, den die Stadt bereits Anfang des 2. Jahrhunderts v. Chr. für die Göttin Roma errichtet hatte - und wurde damit eines der führenden Zentren des Kaiserkults in der Provinz. Über die Anfänge der Gemeinde selbst ist wenig bekannt; möglicherweise wurde sie von Paulus etwa zur selben Zeit gegründet, als er die Gemeinde in Ephesus gründete.
 
 ## Jesu Sicht
 

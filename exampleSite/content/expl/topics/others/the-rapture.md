@@ -61,7 +61,7 @@ Digging in, the underlying word is "[harpazo](https://biblehub.com/greek/726.htm
 - {{% bible val="believers are saved from fire" link="jud:1,23" lang="en" %}},
 - {{% bible val="the child is saved from the dragon" link="rev:12,5" lang="en" %}}.
 
-The meanings vary widely, but they share one thing in common: in every case, the object of the verb has something involuntary done to it — it is saved, snatched from a hand, stolen, or carried off — and none of these describes a physical ascension into heaven.
+The meanings vary widely, but they share one thing in common: in every case, the object of the verb has something involuntary done to it — it is saved, snatched from a hand, stolen, or carried off — a sudden removal by a stronger hand. The direction varies: sometimes up (2 Cor 12:2; Rev 12:5), often simply away from danger (Acts 23:10). The word itself does not say where someone is taken.
 
 The word that actually describes the *action* of meeting Jesus in verse 17, though, is a different one: [apantesis](https://biblehub.com/greek/529.htm), used in only two other places in the New Testament — {{% bible val="at the arrival of the bridegroom" link="mat:25,6" lang="en" %}} and {{% bible val="the welcome given to Paul in Rome" link="act:28,15" lang="en" %}}. In both of those cases, people go out to greet an arriving figure and then turn around and accompany him back the way he came. The [word's usage](https://biblehub.com/greek/529.htm) reflects the custom of meeting an important visitor outside the city and then escorting him in. Applied here, Jesus's trajectory is clearly downward, toward earth, not back up to heaven.
 

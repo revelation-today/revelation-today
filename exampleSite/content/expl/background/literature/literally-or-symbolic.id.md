@@ -45,7 +45,7 @@ Bagian Daniel 2 ini adalah satu-satunya di antara kitab-kitab nubuat yang menggu
 <a name="af5e"></a>
 Kalimat pembuka nubuat itu, "ia menunjukkan ... apa yang harus terjadi pada hari-hari yang akan datang," bergema pada {{% bible val="permulaan" link="rev:1,1" lang="ind" %}} Kitab Wahyu dan sekali lagi {{% bible val="tepat sebelum surat-surat kepada jemaat-jemaat" link="rev:1,19" lang="ind" %}}.
 
-Pembukaan Kitab Wahyu sendiri, "untuk menunjukkan ... apa yang harus segera terjadi," menandakan bahwa waktu yang dinubuatkan Daniel kini telah tiba — perhatikan pergeseran dari "pada hari-hari yang akan datang" menjadi "segera" — sementara ungkapan tepat sebelum surat-surat kepada jemaat kembali menggunakan kata-kata Daniel sendiri, "pada hari-hari yang akan datang."
+Pembukaan Kitab Wahyu sendiri, "untuk menunjukkan ... apa yang harus segera terjadi," menandakan bahwa waktu yang dinubuatkan Daniel kini telah tiba — perhatikan pergeseran dari "pada hari-hari yang akan datang" menjadi "segera" — sementara ungkapan tepat sebelum surat-surat kepada jemaat, "apa yang akan terjadi sesudah ini," mengambil rumusan lain dari bagian Daniel yang sama.[^daniel]
 
 Pengantar yang menyusul surat-surat itu menggunakan rumusan yang sama lagi: "{{% bible val="Aku akan menunjukkan kepadamu apa yang harus terjadi sesudah ini" link="rev:4,1" lang="ind" %}}."
 
@@ -65,7 +65,7 @@ Tidak, judul ini bukan kesalahan ketik — judul ini menyebutkan dua kata kerja 
 ## [semaino](https://biblehub.com/greek/4591.htm)
 
 <a name="09b2"></a>
-Ini adalah kata yang sama yang digunakan dalam teks Yunani Daniel untuk penafsiran sebuah penglihatan simbolis, dan kata ini hanya muncul 5 kali dalam seluruh Perjanjian Baru.
+Ini adalah kata yang sama yang digunakan dalam teks Yunani Daniel untuk penafsiran sebuah penglihatan simbolis, dan di luar Kitab Wahyu kata ini hanya muncul 5 kali dalam Perjanjian Baru.
 
 - Satu kali dalam pengertian umum, yang berarti sekadar {{% bible val="menyatakan secara spesifik" link="act:25,27" lang="ind" %}}.
 - Satu kali menggambarkan {{% bible val="sebuah nubuat yang mungkin bersifat simbolis" link="act:11,28" lang="ind" %}}, terkait dengan {{% bible val="makna simbolis dari nabi yang sama itu" link="act:21,10-11" lang="ind" %}}.
@@ -96,3 +96,5 @@ Kata ini muncul tepat di bagian kalimat yang pertama — "{{% bible val="supaya 
 Jika digabungkan, pengamatan-pengamatan ini menunjukkan bahwa kita sebaiknya secara baku mengasumsikan pembacaan simbolis di mana pun teksnya tidak jelas-jelas bersifat harfiah.
 
 Dan memang, kitab ini penuh dengan hal-hal yang jelas-jelas simbolis: anak domba, sang naga, binatang dengan kepala-kepala dan tanduk-tanduknya, kitab dengan tujuh meterai, pedang yang keluar dari mulut Yesus, dan masih banyak lagi.
+
+[^daniel]: "Sesudah ini" adalah rumusan Dan. 2:29, 45 dalam terjemahan Yunani Theodotion; Yohanes memakainya lagi dalam 4:1. Lihat Beale, hlm. 137–139, 152–159.

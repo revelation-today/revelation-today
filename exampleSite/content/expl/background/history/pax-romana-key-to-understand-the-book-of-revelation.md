@@ -31,7 +31,7 @@ Pax Romana, meaning "Roman Peace," refers to a period from 27 BC to around 192 A
 - few civil wars and a strong, stable empire
 - high prosperity, at least for most
 - flourishing art and culture
-- yet also a time of sporadic persecution of Christians under Nero, Domitian, and Trajan, even though systematic empire-wide persecution didn't begin until 253 AD
+- yet also a time of sporadic persecution of Christians under Nero, Domitian, and Trajan, even though systematic empire-wide persecution didn't begin until 250 AD, under Decius
 
 Underneath these conditions lay a coherent, almost theological idea:
 

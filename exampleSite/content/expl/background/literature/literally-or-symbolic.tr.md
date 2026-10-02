@@ -39,7 +39,7 @@ Daniel 2 pasajı, peygamberlik kitapları arasında "gizem" kelimesini kullanan 
 
 Peygamberliğin açılış cümlesi, "son günlerde ne olması gerektiğini … gösterdi" ifadesi, Vahiy'in tam {{% bible val="başlangıcında" link="rev:1,1" lang="tr" %}} ve yine {{% bible val="kiliselere mektuplardan hemen önce" link="rev:1,19" lang="tr" %}} yankılanır.
 
-Vahiy'in kendi açılışı, "hızla gerçekleşmesi gereken şeyleri … göstermek için" ifadesiyle, Daniel'in peygamberlik ettiği zamanın artık geldiğini işaret eder — "son günlerde" ifadesinden "hızla" ifadesine geçişe dikkat edin — oysa kiliselere mektuplardan hemen önceki ifade, Daniel'in kendi sözcüklerine, "son günlerde" ifadesine geri döner.
+Vahiy'in kendi açılışı, "hızla gerçekleşmesi gereken şeyleri … göstermek için" ifadesiyle, Daniel'in peygamberlik ettiği zamanın artık geldiğini işaret eder — "son günlerde" ifadesinden "hızla" ifadesine geçişe dikkat edin — oysa kiliselere mektuplardan hemen önceki ifade, "bundan sonra olacak olanlar", aynı Daniel bölümünün başka bir söyleyişini kullanır.[^daniel]
 
 Mektuplardan sonra gelen giriş de aynı formülü tekrar kullanır: "{{% bible val="Bundan sonra olması gerekenleri sana göstereceğim" link="rev:4,1" lang="tr" %}}."
 
@@ -59,7 +59,7 @@ Hayır, bu başlık bir yazım hatası değil — kitabın kendi belirttiği ama
 ### [semaino](https://biblehub.com/greek/4591.htm)
 
 <a name="a772"></a>
-Bu, Daniel'in Yunancasında sembolik bir görümün yorumlanması için kullanılan aynı kelimedir ve tüm Yeni Antlaşma'da sadece 5 kez geçer.
+Bu, Daniel'in Yunancasında sembolik bir görümün yorumlanması için kullanılan aynı kelimedir ve Vahiy dışında Yeni Antlaşma'da sadece 5 kez geçer.
 
 - Bir kez genel bir anlamda, sadece {{% bible val="belirtmek" link="act:25,27" lang="tr" %}} anlamında.
 - Bir kez potansiyel olarak {{% bible val="sembolik bir peygamberliği" link="act:11,28" lang="tr" %}} tanımlarken, {{% bible val="aynı peygamberin sembolik önemine" link="act:21,10-11" lang="tr" %}} bağlı olarak.
@@ -90,3 +90,5 @@ Bu kelime cümlenin ilk bölümünde geçer — "{{% bible val="yakında olması
 Bir araya getirildiğinde, bu gözlemler metnin açıkça harfi olmadığı her yerde varsayılan olarak sembolik bir okumaya yönelmemiz gerektiğini önermektedir.
 
 Ve gerçekten de kitap, açıkça sembolik olan şeylerle doludur: kuzu, ejderha, başları ve boynuzları olan canavar, yedi mühürlü kitap, İsa'nın ağzından çıkan kılıç ve daha fazlası.
+
+[^daniel]: "Bundan sonra" ifadesi, Dan. 2:29, 45'in Theodotion'un Yunanca çevirisindeki söyleyişidir; Yuhanna bunu 4:1'de yeniden kullanır. Bkz. Beale, s. 137–139, 152–159.

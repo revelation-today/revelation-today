@@ -26,11 +26,11 @@ On the obverse is Emperor Vespasian (reigned 69–79) with the inscription "Imp 
 
 The reverse shows the goddess Roma in military dress, seated on the seven hills of Rome, a small sword resting on her knee as a symbol of Rome's military power. To her left and right is the abbreviation SC (Senatus Consultum, "by decree of the Senate").
 
-On the right, a male figure representing the river Tiber, which surrounds Rome, bows before Roma. In the lower left, a she-wolf nurses Romulus and Remus, recalling Rome's traditional founding legend — the city's own dating, by the Roman antiquarian Varro, to 753 BC, and its self-told descent from Trojan refugees via Romulus and Remus. At the very bottom is the word Roma — possibly a nod to Rome's tradition of a "secret name," Amor, which reversed spells "love" (a tradition echoed, among other places, in the late-antique commentary of Servius on Virgil's Aeneid).
+On the right, a male figure representing the river Tiber, which surrounds Rome, bows before Roma. In the lower left, a she-wolf nurses Romulus and Remus, recalling Rome's traditional founding legend — the city's own dating, by the Roman antiquarian Varro, to 753 BC, and its self-told descent from Trojan refugees via Romulus and Remus. At the very bottom is the word Roma — possibly a nod to Rome's tradition of a "secret name," Amor, which reversed spells "love".[^amor]
 
 So the reverse of the coin is a straightforward celebration of Rome's power and permanence. What does Revelation do with that same imagery?
 
-- Describing a woman as a wolf was, even in ordinary Latin, a way of calling her a prostitute — and the secret name Amor only sharpens the insult.
+- In Latin, *lupa*, "she-wolf", was also a word for a prostitute, so the she-wolf on the coin may well have invited the joke — and the secret name Amor only sharpens it.[^lupa]
 - The goddess of Rome is recast here as a harlot — not just any harlot, but the mother of all harlots.
 - The hills of Rome, rather than supporting her, become the beast and the kings who destroy her: Roma ends up the victim of the very city she was meant to protect.
 - And instead of protecting herself from enemies with her sword, she is covered in the blood of the saints.
@@ -58,3 +58,7 @@ That tabula may well be a source behind Revelation 17. It describes a crowd look
 Another possible parallel is the [Odes of Solomon](https://en.wikipedia.org/wiki/Odes_of_Solomon) 38:9–14, where Error and Lack of Knowledge disguise themselves as the bride and groom at a wedding, and the wine there makes the guests vomit up their own understanding.
 
 Both parallels point to the same purpose behind the ekphrasis in Revelation 17: understanding this deception is the first step toward God's kingdom. If Rome has deceived you, there's little hope left for you — and yet the deception is so brazen that it's meant to be hard to miss.
+
+[^amor]: The secret name Amor is reported by John Lydus (*On the Months* 4.73) and Aelius Aristides, and appears in a graffito at Pompeii; see Aune, pp. 925–926.
+
+[^lupa]: Aune, p. 925.
