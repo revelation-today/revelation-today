@@ -9,6 +9,10 @@ readBefore:
 sources:
     - pages: 108–170
       ref: beale_rev
+    - pages: 121–129, 983
+      ref: beale_rev
+    - pages: 9–14
+      ref: bauckham_climax
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
@@ -67,24 +71,38 @@ Lampiran yang melekat pada bagian ini masuk jauh lebih dalam ke rincian:
 
 Kitab ini kemudian ditutup dengan serangkaian peringatan terakhir, menegaskan betapa seriusnya semua ini.
 
-## Untuk Dibaca Lebih Lanjut
+## Sekilas tentang Kitab Ini
 
-<a name="db91"></a>
-Untuk sebuah alur pasal demi pasal melalui sisa kajian ini, beserta latar belakang tentang struktur sastra Ibrani yang mendasarinya, lihat:
+<a name="outline"></a>
+Setiap pasal Kitab Wahyu, dan di mana situs ini menjelaskannya. Untuk alat-alat sastra di balik garis besar ini, lihat {{% int_link val="cara membaca sastra Ibrani" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}}.
 
-- {{% int_link val="Bagaimana membaca sastra Ibrani" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}}
-- Ps 1: {{% int_link val="Tantangan-tantangan jemaat" link="/expl/content/letters/the-angel-of-the-churches" %}}
-- Ps 2–3: {{% int_link val="Surat-surat kepada jemaat" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
-- Ps 4: {{% int_link val="Penyembahan di ruang takhta" link="/expl/content/worship/worship-in-the-throne-room" %}}
-- Ps 5–6: {{% int_link val="Meterai-meterai itu" link="/expl/content/worship/the-book-with-the-seven-seals" %}} dan {{% int_link val="keempat penunggang kuda apokaliptik" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
-- Ps 7: {{% int_link val="144.000 orang itu" link="/expl/content/army/the-144000" %}}
-- Ps 8–9: {{% int_link val="Sangkakala-sangkakala itu" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
-- Ps 10: {{% int_link val="Kitab kecil itu" link="/expl/content/scroll/the-little-scroll" %}}
-- Ps 11: {{% int_link val="Kedua saksi itu" link="/expl/content/witnesses/the-two-witnesses" %}}
-- Ps 12: {{% int_link val="Kisah tentang Yesus" link="/expl/content/jesus/a-different-christmas-story" %}}
-- Ps 13: {{% int_link val="Tritunggal yang tidak kudus" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}
-- Ps 14: {{% int_link val="Ketujuh malaikat itu" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
-- Ps 16: {{% int_link val="Cawan-cawan itu" link="/expl/content/bowls/the-bowls-of-wrath" %}}
-- Ps 17: {{% int_link val="Sundal itu" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}
-- Ps 20: {{% int_link val="Kerajaan Seribu Tahun" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
-- Ps 21: {{% int_link val="Yerusalem Baru" link="/expl/content/paradise/the-new-jerusalem" %}}
+- **1:1–8** — Pembukaan: salam sebuah surat kepada tujuh jemaat: {{% int_link val="Meletakkan Dasar" link="/expl/content/vision/setting-the-foundation" %}}
+- **1:9–20** — Kristus di tengah kaki-kaki dian: {{% int_link val="Penglihatan" link="/expl/content/vision/the-vision" %}}, {{% int_link val="Malaikat jemaat-jemaat" link="/expl/content/letters/the-angel-of-the-churches" %}}
+- **2–3** — Ketujuh surat (disusun 3 + 4): {{% int_link val="Ketujuh Surat kepada Gereja-gereja" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **4–5** — Ruang takhta dan Anak Domba: {{% int_link val="Penyembahan di ruang takhta" link="/expl/content/worship/worship-in-the-throne-room" %}}, {{% int_link val="Kitab dengan Tujuh Meterai" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
+- **6:1–8:5** — Tujuh meterai: empat penunggang kuda, dua meterai lagi, sebuah selingan (pasal 7), meterai ketujuh: {{% int_link val="Empat penunggang kuda" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}, {{% int_link val="Murka Anak Domba" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="Yang 144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Akhir zaman" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
+- **8:6–11:19** — Tujuh sangkakala: empat, lalu dua, sebuah selingan (10:1–11:14), sangkakala ketujuh: {{% int_link val="Sangkakala-Sangkakala dalam Wahyu" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="Gulungan kitab kecil" link="/expl/content/scroll/the-little-scroll" %}}, {{% int_link val="Kedua saksi" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **12–14** — Konflik di balik semuanya: naga, kedua binatang, bala tentara Anak Domba: {{% int_link val="Kelahiran Yesus dalam Kitab Wahyu" link="/expl/content/jesus/a-different-christmas-story" %}}, {{% int_link val="Hakikat binatang itu" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="Binatang itu" link="/expl/content/beasts/the-nature-of-the-beast" %}}, {{% int_link val="Angka Binatang Itu" link="/expl/content/beasts/666-the-number-of-the-beast" %}}, {{% int_link val="Binatang-binatang dan 666 dalam konteks sejarah" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}, {{% int_link val="Bala Tentara Allah dan Ketujuh Malaikat" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
+- **15–16** — Tujuh cawan: empat, lalu tiga — tanpa selingan: {{% int_link val="Cawan-Cawan Murka" link="/expl/content/bowls/the-bowls-of-wrath" %}}, {{% int_link val="Kunci Menuju Harmagedon" link="/expl/content/bowls/the-key-to-armageddon" %}}, {{% int_link val="Harmagedon dan Karkemis" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}
+- **17:1–19:10** — Penghakiman atas Babel: {{% int_link val="Siapakah pelacur Babel? (1)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Siapakah pelacur Babel? (2)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}, {{% int_link val="Pelacur itu mengejek Roma" link="/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire" %}}, {{% int_link val="Watak dan nasib pelacur itu" link="/expl/content/harlot/the-character-and-destiny-of-the-harlot" %}}
+- **19:11–21:8** — Sang Penunggang, seribu tahun, penghakiman terakhir: {{% int_link val="Kerajaan seribu tahun" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="Pra-, pasca-, dan amilenialisme" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="Surga dan neraka" link="/expl/content/paradise/heaven-and-hell" %}}
+- **21:9–22:5** — Yerusalem Baru: {{% int_link val="Yerusalem Baru" link="/expl/content/paradise/the-new-jerusalem" %}}
+- **22:6–21** — Penutup: peringatan terakhir dan salam perpisahan surat itu
+
+## Berurutan atau diceritakan ulang?
+
+<a name="chiasm"></a>
+Jika dibaca dari awal sampai akhir, Kitab Wahyu tampak beberapa kali mencapai akhir dunia. Itu karena rangkaian-rangkaiannya tidak membentuk satu jadwal panjang: rangkaian itu menceritakan zaman yang sama lagi, setiap kali dari sudut baru dan dengan intensitas yang meningkat — para ahli menyebutnya rekapitulasi. Tanda yang paling jelas ialah bahwa setiap rangkaian berakhir dengan adegan yang sama, yaitu penghakiman terakhir dan keselamatan: bandingkan meterai keenam ({{% bible val="6:12–17" link="rev:6,12-17" lang="ind" %}}) dengan cawan ketujuh ({{% bible val="16:17–21" link="rev:16,17-21" lang="ind" %}}). Angka-angka itu menunjukkan urutan penglihatan Yohanes, belum tentu urutan peristiwa dalam sejarah (Beale, hlm. 121–129).
+
+Hal yang sama berlaku untuk pasal-pasal terakhir. Beale menyusun pasal 17–22 sebagai sebuah kiasme (Beale, hlm. 983):
+
+- A — penghakiman atas pelacur itu (17:1–19:6)
+- B — Hakim ilahi (19:11–16)
+- C — penghakiman atas binatang dan nabi palsu (19:17–21; bdk. Yehezkiel 39)
+- D — Iblis dipenjarakan selama 1.000 tahun (20:1–3)
+- D′ — orang-orang kudus memerintah dan menghakimi selama 1.000 tahun (20:4–6)
+- C′ — penghakiman atas Gog dan Magog (20:7–10; bdk. Yehezkiel 38–39)
+- B′ — Hakim ilahi (20:11–15)
+- A′ — pembenaran pengantin perempuan (21:1–22:5)
+
+Seribu tahun itu berdiri di tengah, dibingkai oleh dua pertempuran yang diambil dari nubuat yang sama dalam Yehezkiel 38–39. Jika dibaca demikian, pasal 20 tidak datang sesudah pasal 19 secara waktu; pasal itu mundur selangkah dan menunjukkan zaman yang sama dari sisi lain. → {{% int_link val="Kerajaan seribu tahun" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="pra-, pasca-, dan amilenialisme" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preteris, historisis, futuris, atau idealis?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}

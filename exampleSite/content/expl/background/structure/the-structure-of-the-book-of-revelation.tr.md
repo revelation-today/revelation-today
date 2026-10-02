@@ -9,6 +9,10 @@ readBefore:
 sources:
     - pages: 108–170
       ref: beale_rev
+    - pages: 121–129, 983
+      ref: beale_rev
+    - pages: 9–14
+      ref: bauckham_climax
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
@@ -67,24 +71,38 @@ Bu bölüme eklenen ek, konuyu çok daha ayrıntılı olarak ele alır:
 
 Kitap, ardından bir dizi son uyarıyla kapanır ve tüm bunların ne kadar ciddi olduğunu iyice vurgular.
 
-## Diğer okumalar
+## Kitaba genel bakış
 
-<a name="eafd"></a>
-Bu çalışmanın geri kalanında bölüm bölüm ilerleyen bir yol için, altında yatan İbrani edebi yapısına dair arka planla birlikte, şuraya bakın:
+<a name="outline"></a>
+Vahiy'in her bölümü ve bu sitenin onu nerede açıkladığı. Bu planın ardındaki edebi araçlar için bkz. {{% int_link val="İbrani edebiyatı nasıl okunur" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}}.
 
-- {{% int_link val="İbrani edebiyatı nasıl okunur" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}}
-- Böl. 1: {{% int_link val="Kilise için zorlu görev" link="/expl/content/letters/the-angel-of-the-churches" %}}
-- Böl. 2–3: {{% int_link val="Kiliselere mektuplar" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
-- Böl. 4: {{% int_link val="Tahtta ibadet" link="/expl/content/worship/worship-in-the-throne-room" %}}
-- Böl. 5–6: {{% int_link val="Mühürler" link="/expl/content/worship/the-book-with-the-seven-seals" %}} ve {{% int_link val="dört atlı" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
-- Böl. 7: {{% int_link val="144.000" link="/expl/content/army/the-144000" %}}
-- Böl. 8–9: {{% int_link val="Borazanlar" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
-- Böl. 10: {{% int_link val="Küçük tomar" link="/expl/content/scroll/the-little-scroll" %}}
-- Böl. 11: {{% int_link val="İki tanık" link="/expl/content/witnesses/the-two-witnesses" %}}
-- Böl. 12: {{% int_link val="İsa'nın öyküsü" link="/expl/content/jesus/a-different-christmas-story" %}}
-- Böl. 13: {{% int_link val="Kutsal olmayan üçlü" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}
-- Böl. 14: {{% int_link val="Yedi melek" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
-- Böl. 16: {{% int_link val="Kaseler" link="/expl/content/bowls/the-bowls-of-wrath" %}}
-- Böl. 17: {{% int_link val="Fahişe" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}
-- Böl. 20: {{% int_link val="Bin yıllık krallık" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
-- Böl. 21: {{% int_link val="Yeni Yeruşalim" link="/expl/content/paradise/the-new-jerusalem" %}}
+- **1:1–8** — Açılış: yedi kiliseye bir mektubun selamı: {{% int_link val="Temelin oluşturulması" link="/expl/content/vision/setting-the-foundation" %}}
+- **1:9–20** — Kandillikler arasındaki Mesih: {{% int_link val="Görüm" link="/expl/content/vision/the-vision" %}}, {{% int_link val="Kiliselerin meleği" link="/expl/content/letters/the-angel-of-the-churches" %}}
+- **2–3** — Yedi mektup (3 + 4 olarak kurulmuş): {{% int_link val="Yedi kiliseye gönderilen mektuplar" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **4–5** — Taht odası ve Kuzu: {{% int_link val="Taht odasında tapınma" link="/expl/content/worship/worship-in-the-throne-room" %}}, {{% int_link val="Yedi Mühürlü Kitap" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
+- **6:1–8:5** — Yedi mühür: dört atlı, iki mühür daha, bir ara bölüm (7. bölüm), yedinci mühür: {{% int_link val="Dört atlı" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}, {{% int_link val="Kuzu’nun Gazabı" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Son zaman ve büyük sıkıntı" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
+- **8:6–11:19** — Yedi borazan: dört, sonra iki, bir ara bölüm (10:1–11:14), yedinci borazan: {{% int_link val="Vahiy’deki trompetler" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="Küçük tomar" link="/expl/content/scroll/the-little-scroll" %}}, {{% int_link val="İki Tanık" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **12–14** — Her şeyin ardındaki çatışma: ejderha, iki canavar, Kuzu'nun ordusu: {{% int_link val="Farklı bir Noel hikayesi" link="/expl/content/jesus/a-different-christmas-story" %}}, {{% int_link val="Canavarın doğası" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="Canavar" link="/expl/content/beasts/the-nature-of-the-beast" %}}, {{% int_link val="666: Canavarın numarası" link="/expl/content/beasts/666-the-number-of-the-beast" %}}, {{% int_link val="Canavarlar ve 666 tarihsel bağlamda" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}, {{% int_link val="Tanrı’nın ordusu ve yedi melek" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
+- **15–16** — Yedi kâse: dört, sonra üç — ara bölüm yok: {{% int_link val="Gazap Kaseleri" link="/expl/content/bowls/the-bowls-of-wrath" %}}, {{% int_link val="Armagedon'un anahtarı" link="/expl/content/bowls/the-key-to-armageddon" %}}, {{% int_link val="Armagedon ve Karkemiş" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}
+- **17:1–19:10** — Babil'in yargılanması: {{% int_link val="Fahişe Babil kimdir? (1)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Fahişe Babil kimdir? (2)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}, {{% int_link val="Fahişe Roma ile alay ediyor" link="/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire" %}}, {{% int_link val="Fahişenin karakteri ve sonu" link="/expl/content/harlot/the-character-and-destiny-of-the-harlot" %}}
+- **19:11–21:8** — Atlı, bin yıl, son yargı: {{% int_link val="Bin yıllık krallık" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="Bin yıl öncesi, sonrası ve amilenyalizm" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="Cennet ve Cehennem" link="/expl/content/paradise/heaven-and-hell" %}}
+- **21:9–22:5** — Yeni Yeruşalim: {{% int_link val="Yeni Yeruşalim" link="/expl/content/paradise/the-new-jerusalem" %}}
+- **22:6–21** — Kapanış: son uyarılar ve mektubun vedası
+
+## Sırayla mı, yeniden mi anlatılıyor?
+
+<a name="chiasm"></a>
+Baştan sona okunduğunda Vahiy, dünyanın sonuna birkaç kez ulaşıyormuş gibi görünür. Bunun nedeni, dizilerinin tek bir uzun zaman çizelgesi oluşturmamasıdır: aynı çağı her seferinde yeni bir açıdan ve artan bir şiddetle yeniden anlatırlar — uzmanlar buna rekapitülasyon der. En açık işaret, her dizinin aynı son yargı ve kurtuluş sahnesiyle bitmesidir: altıncı mührü ({{% bible val="6:12–17" link="rev:6,12-17" lang="tr" %}}) yedinci kâseyle ({{% bible val="16:17–21" link="rev:16,17-21" lang="tr" %}}) karşılaştırın. Sayılar, olayların tarihteki sırasını değil, Yuhanna'nın görümlerinin sırasını verir (Beale, s. 121–129).
+
+Aynısı son bölümler için de geçerlidir. Beale 17–22. bölümleri bir kiazma olarak düzenler (Beale, s. 983):
+
+- A — fahişenin yargılanması (17:1–19:6)
+- B — ilahi Yargıç (19:11–16)
+- C — canavarın ve sahte peygamberin yargılanması (19:17–21; krş. Hezekiel 39)
+- D — Şeytan'ın 1.000 yıl hapsedilmesi (20:1–3)
+- D′ — kutsalların 1.000 yıl egemenlik sürmesi ve yargılaması (20:4–6)
+- C′ — Gog ile Magog'un yargılanması (20:7–10; krş. Hezekiel 38–39)
+- B′ — ilahi Yargıç (20:11–15)
+- A′ — gelinin haklı çıkarılması (21:1–22:5)
+
+Bin yıl ortada durur ve Hezekiel 38–39'daki aynı peygamberlikten alınmış iki savaşla çerçevelenir. Böyle okunduğunda 20. bölüm zaman bakımından 19. bölümden sonra gelmez; bir adım geri çekilir ve aynı çağı başka bir yönden gösterir. → {{% int_link val="Bin yıllık krallık" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="bin yıl öncesi, sonrası ve amilenyalizm" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preterist, historisist, fütürist ya da idealist?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}

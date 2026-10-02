@@ -27,7 +27,7 @@ Baştan akılda tutulması gereken birkaç soru var, çünkü bunlar çoğu okuy
 - Bu {{% bible val="tek ayet" link="rev:20,4" lang="tr" %}} dışında, Kutsal Kitap'ın başka neresinde bin yıllık krallık kavramı görülür?
 - O bin yıl boyunca gerçekleştiğini varsaydığımız {{% bible val="egemenlik sürme" link="mat:20,20-28" lang="tr" %}} tam olarak ne tür bir şeydir?
 
-Ondan sonra gelen her şeyi şekillendiren bir bağlam noktası var: bin yıllık krallık, malzemeyi kesin bir kronolojik sırayla değil simetrik olarak düzenleyen bir yapı olan daha büyük bir chiasmın içinde yer alır. Bu da, daha önceki bir konunun gerçekten yeni, daha sonraki bir olayı anlatmak yerine farklı bir açıdan yeniden ortaya çıkabileceği anlamına gelir — bölümü incelerken açık tutmaya değer bir olasılık.
+Ondan sonra gelen her şeyi şekillendiren bir bağlam noktası var: bin yıllık krallık, malzemeyi kesin bir kronolojik sırayla değil simetrik olarak düzenleyen bir yapı olan {{% int_link val="daha büyük bir chiasmın" link="/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm" %}} içinde yer alır. Bu da, daha önceki bir konunun gerçekten yeni, daha sonraki bir olayı anlatmak yerine farklı bir açıdan yeniden ortaya çıkabileceği anlamına gelir — bölümü incelerken açık tutmaya değer bir olasılık.
 
 ## Büyük sonuçları olan küçük bir kelime
 

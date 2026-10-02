@@ -9,6 +9,10 @@ readBefore:
 sources:
     - pages: 108–170
       ref: beale_rev
+    - pages: 121–129, 983
+      ref: beale_rev
+    - pages: 9–14
+      ref: bauckham_climax
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
@@ -67,24 +71,38 @@ The appendix attached to this section goes into considerable further detail:
 
 The book then closes with a series of final warnings, driving home just how serious all of this is.
 
-## Further readings
+## The book at a glance
 
-<a name="a799"></a>
-For a chapter-by-chapter path through the rest of this study, along with the background on Hebrew literary structure that underlies it, see:
+<a name="outline"></a>
+Every chapter of Revelation, and where this site explains it. For the literary tools behind this outline, see {{% int_link val="how to read Hebrew literature" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}}.
 
-- {{% int_link val="How to read Hebrew literature" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}}
-- Ch 1: {{% int_link val="The challenge for the church" link="/expl/content/letters/the-angel-of-the-churches" %}}
-- Ch 2–3: {{% int_link val="The letters to the churches" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
-- Ch 4: {{% int_link val="Worship in the throne" link="/expl/content/worship/worship-in-the-throne-room" %}}
-- Ch 5–6: {{% int_link val="The seals" link="/expl/content/worship/the-book-with-the-seven-seals" %}} and {{% int_link val="the four horsemen" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
-- Ch 7: {{% int_link val="The 144 000" link="/expl/content/army/the-144000" %}}
-- Ch 8–9: {{% int_link val="The trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
-- Ch 10: {{% int_link val="The little scroll" link="/expl/content/scroll/the-little-scroll" %}}
-- Ch 11: {{% int_link val="The two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}}
-- Ch 12: {{% int_link val="The story of Jesus" link="/expl/content/jesus/a-different-christmas-story" %}}
-- Ch 13: {{% int_link val="The unholy trinity" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}
-- Ch 14: {{% int_link val="The seven angels" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
-- Ch 16: {{% int_link val="The bowls" link="/expl/content/bowls/the-bowls-of-wrath" %}}
-- Ch 17: {{% int_link val="The Harlot" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}
-- Ch 20: {{% int_link val="The 1000 year kingdom" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
-- Ch 21: {{% int_link val="The New Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
+- **1:1–8** — Opening: a letter's greeting to seven churches: {{% int_link val="Setting the foundation" link="/expl/content/vision/setting-the-foundation" %}}
+- **1:9–20** — Christ among the lampstands: {{% int_link val="The vision" link="/expl/content/vision/the-vision" %}}, {{% int_link val="The angel of the churches" link="/expl/content/letters/the-angel-of-the-churches" %}}
+- **2–3** — The seven letters (built 3 + 4): {{% int_link val="The letters to the seven churches" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **4–5** — The throne room and the Lamb: {{% int_link val="Worship in the throne room" link="/expl/content/worship/worship-in-the-throne-room" %}}, {{% int_link val="The book with the seven seals" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
+- **6:1–8:5** — Seven seals: four horsemen, two more seals, an interlude (ch. 7), the seventh seal: {{% int_link val="The four horsemen" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}, {{% int_link val="The wrath of the Lamb" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="The 144,000" link="/expl/content/army/the-144000" %}}, {{% int_link val="The end time and the great tribulation" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
+- **8:6–11:19** — Seven trumpets: four, then two, an interlude (10:1–11:14), the seventh trumpet: {{% int_link val="The trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="The little scroll" link="/expl/content/scroll/the-little-scroll" %}}, {{% int_link val="The two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **12–14** — The conflict behind it all: the dragon, the two beasts, the Lamb's army: {{% int_link val="A different Christmas story" link="/expl/content/jesus/a-different-christmas-story" %}}, {{% int_link val="The nature of the beast" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="The beast" link="/expl/content/beasts/the-nature-of-the-beast" %}}, {{% int_link val="666" link="/expl/content/beasts/666-the-number-of-the-beast" %}}, {{% int_link val="The beasts and the 666 in context" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}, {{% int_link val="God's army and the seven angels" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
+- **15–16** — Seven bowls: four, then three — no interlude: {{% int_link val="The bowls of wrath" link="/expl/content/bowls/the-bowls-of-wrath" %}}, {{% int_link val="The key to Armageddon" link="/expl/content/bowls/the-key-to-armageddon" %}}, {{% int_link val="Armageddon and Carchemish" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}
+- **17:1–19:10** — Babylon judged: {{% int_link val="Who is the harlot? (1)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Who is the harlot? (2)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}, {{% int_link val="The harlot mocks Rome" link="/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire" %}}, {{% int_link val="The harlot's character and destiny" link="/expl/content/harlot/the-character-and-destiny-of-the-harlot" %}}
+- **19:11–21:8** — The rider, the thousand years, the last judgment: {{% int_link val="The thousand-year kingdom" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="Pre-, post- and amillennialism" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="Heaven and hell" link="/expl/content/paradise/heaven-and-hell" %}}
+- **21:9–22:5** — The New Jerusalem: {{% int_link val="The New Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
+- **22:6–21** — Closing: final warnings and the letter's farewell
+
+## In sequence or retold?
+
+<a name="chiasm"></a>
+Read straight through, Revelation seems to reach the end of the world several times. That is because its series do not form one long timetable: they tell the same age again, each time from a new angle and with rising intensity — what scholars call recapitulation. The strongest sign is that each series ends in the same scene of final judgment and salvation: compare the sixth seal ({{% bible val="6:12–17" link="rev:6,12-17" lang="en" %}}) with the seventh bowl ({{% bible val="16:17–21" link="rev:16,17-21" lang="en" %}}). The numbers give the order of John's visions, not necessarily the order of events in history (Beale, pp. 121–129).
+
+The same holds for the last chapters. Beale sets out chapters 17–22 as a chiasm (Beale, p. 983):
+
+- A — the judgment of the harlot (17:1–19:6)
+- B — the divine Judge (19:11–16)
+- C — the judgment of the beast and the false prophet (19:17–21; cf. Ezekiel 39)
+- D — Satan imprisoned for 1,000 years (20:1–3)
+- D′ — the saints reign and judge for 1,000 years (20:4–6)
+- C′ — the judgment of Gog and Magog (20:7–10; cf. Ezekiel 38–39)
+- B′ — the divine Judge (20:11–15)
+- A′ — the vindication of the bride (21:1–22:5)
+
+The thousand years stand at the centre, framed by two battles drawn from the same prophecy in Ezekiel 38–39. Read this way, chapter 20 does not come after chapter 19 in time; it steps back and shows the same age from another side. → {{% int_link val="The thousand-year kingdom" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="pre-, post- and amillennialism" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preterist, historicist, futurist or idealist?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}

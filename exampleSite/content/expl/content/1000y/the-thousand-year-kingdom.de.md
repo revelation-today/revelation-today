@@ -27,7 +27,7 @@ Ein paar Fragen lohnt es sich von vornherein im Kopf zu behalten, denn sie legen
 - Wo sonst in der Bibel taucht das Konzept eines 1000-jährigen Reiches außerhalb {{% bible val="dieses einen Verses" link="rev:20,4" lang="de" %}} auf?
 - Was für eine {{% bible val="Art von Herrschaft" link="mat:20,20-28" lang="de" %}} nehmen wir überhaupt an, dass sie während dieser 1000 Jahre stattfindet?
 
-Ein Stück Kontext prägt alles Weitere: Das 1000-jährige Reich steht innerhalb eines größeren Chiasmus, einer Struktur, die den Stoff symmetrisch anordnet statt in strenger zeitlicher Abfolge. Das bedeutet, ein früheres Thema kann aus einem anderen Blickwinkel wieder auftauchen, statt ein wirklich neues, späteres Ereignis zu beschreiben – eine Möglichkeit, die es sich lohnt offenzuhalten, während wir uns durch das Kapitel arbeiten.
+Ein Stück Kontext prägt alles Weitere: Das 1000-jährige Reich steht innerhalb {{% int_link val="eines größeren Chiasmus" link="/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm" %}}, einer Struktur, die den Stoff symmetrisch anordnet statt in strenger zeitlicher Abfolge. Das bedeutet, ein früheres Thema kann aus einem anderen Blickwinkel wieder auftauchen, statt ein wirklich neues, späteres Ereignis zu beschreiben – eine Möglichkeit, die es sich lohnt offenzuhalten, während wir uns durch das Kapitel arbeiten.
 
 ## Ein kleines Wort mit großen Konsequenzen
 

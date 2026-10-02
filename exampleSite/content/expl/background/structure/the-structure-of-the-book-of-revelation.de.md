@@ -9,6 +9,10 @@ readBefore:
 sources:
     - pages: 108–170
       ref: beale_rev
+    - pages: 121–129, 983
+      ref: beale_rev
+    - pages: 9–14
+      ref: bauckham_climax
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
@@ -67,24 +71,38 @@ Der diesem Abschnitt angehängte Anhang geht dabei noch erheblich weiter ins Det
 
 Das Buch schließt danach mit einer Reihe letzter Warnungen, die noch einmal verdeutlichen, wie ernst das alles gemeint ist.
 
-## Zum Weiterlesen
+## Das Buch im Überblick
 
-<a name="db91"></a>
-Wer den restlichen Verlauf dieser Studie Kapitel für Kapitel verfolgen möchte, findet hier zusammen mit dem Hintergrundwissen zur hebräischen Literaturstruktur, auf dem alles aufbaut:
+<a name="outline"></a>
+Jedes Kapitel der Offenbarung und wo diese Seite es auslegt. Zu den literarischen Werkzeugen hinter dieser Gliederung siehe {{% int_link val="Wie man hebräische Literatur liest" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}}.
 
-- {{% int_link val="Wie man hebräische Literatur liest" link="/expl/background/literature/literary-tools-in-the-book-of-revelation" %}}
-- Kap 1: {{% int_link val="Die Herausforderung für die Gemeinde" link="/expl/content/letters/the-angel-of-the-churches" %}}
-- Kap 2–3: {{% int_link val="Die Sendschreiben" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
-- Kap 4: {{% int_link val="Anbetung im Thronsaal" link="/expl/content/worship/worship-in-the-throne-room" %}}
-- Kap 5–6: {{% int_link val="Die Siegel" link="/expl/content/worship/the-book-with-the-seven-seals" %}} und {{% int_link val="die vier Reiter" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}
-- Kap 7: {{% int_link val="Die 144 000" link="/expl/content/army/the-144000" %}}
-- Kap 8–9: {{% int_link val="Die Posaunen" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
-- Kap 10: {{% int_link val="Das kleine Büchlein" link="/expl/content/scroll/the-little-scroll" %}}
-- Kap 11: {{% int_link val="Die beiden Zeugen" link="/expl/content/witnesses/the-two-witnesses" %}}
-- Kap 12: {{% int_link val="Die Geschichte von Jesus" link="/expl/content/jesus/a-different-christmas-story" %}}
-- Kap 13: {{% int_link val="Die unheilige Dreieinigkeit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}
-- Kap 14: {{% int_link val="Die sieben Engel" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
-- Kap 16: {{% int_link val="Die Schalen" link="/expl/content/bowls/the-bowls-of-wrath" %}}
-- Kap 17: {{% int_link val="Die Hure" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}
-- Kap 20: {{% int_link val="Das 1000-jährige Reich" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
-- Kap 21: {{% int_link val="Das Neue Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
+- **1,1–8** — Eröffnung: der Gruß eines Briefes an sieben Gemeinden: {{% int_link val="Die Grundlage legen" link="/expl/content/vision/setting-the-foundation" %}}
+- **1,9–20** — Christus unter den Leuchtern: {{% int_link val="Die Vision" link="/expl/content/vision/the-vision" %}}, {{% int_link val="Der Engel der Gemeinden" link="/expl/content/letters/the-angel-of-the-churches" %}}
+- **2–3** — Die sieben Sendschreiben (als 3 + 4 gebaut): {{% int_link val="Die sieben Sendschreiben" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **4–5** — Der Thronsaal und das Lamm: {{% int_link val="Anbetung im Thronsaal" link="/expl/content/worship/worship-in-the-throne-room" %}}, {{% int_link val="Ein Buch mit sieben Siegeln" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
+- **6,1–8,5** — Sieben Siegel: vier Reiter, zwei weitere Siegel, ein Zwischenstück (Kap. 7), das siebte Siegel: {{% int_link val="Die vier Reiter" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}, {{% int_link val="Der Zorn des Lammes" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="Die 144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Die große Trübsal" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
+- **8,6–11,19** — Sieben Posaunen: vier, dann zwei, ein Zwischenstück (10,1–11,14), die siebte Posaune: {{% int_link val="Die sieben Posaunen" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="Die kleine Buchrolle" link="/expl/content/scroll/the-little-scroll" %}}, {{% int_link val="Die beiden Zeugen" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **12–14** — Der Konflikt hinter allem: der Drache, die beiden Tiere, das Heer des Lammes: {{% int_link val="Die Geburt Jesu in der Offenbarung" link="/expl/content/jesus/a-different-christmas-story" %}}, {{% int_link val="Das Wesen des Tieres" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="Das Tier" link="/expl/content/beasts/the-nature-of-the-beast" %}}, {{% int_link val="Die Zahl des Tieres" link="/expl/content/beasts/666-the-number-of-the-beast" %}}, {{% int_link val="Die Tiere und die 666 im geschichtlichen Kontext" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}, {{% int_link val="Gottes Armee und die sieben Engel" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
+- **15–16** — Sieben Schalen: vier, dann drei — ohne Zwischenstück: {{% int_link val="Die Zornesschalen" link="/expl/content/bowls/the-bowls-of-wrath" %}}, {{% int_link val="Der Schlüssel zu Armageddon" link="/expl/content/bowls/the-key-to-armageddon" %}}, {{% int_link val="Armageddon und Karkemisch" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}
+- **17,1–19,10** — Das Gericht über Babylon: {{% int_link val="Wer ist die Hure Babel? (1)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Wer ist die Hure Babel? (2)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}, {{% int_link val="Die Hure verspottet Rom" link="/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire" %}}, {{% int_link val="Charakter und Schicksal der Hure" link="/expl/content/harlot/the-character-and-destiny-of-the-harlot" %}}
+- **19,11–21,8** — Der Reiter, die tausend Jahre, das letzte Gericht: {{% int_link val="Das Tausendjährige Reich" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="Prä-, Post- und Amillennialismus" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="Himmel und Hölle" link="/expl/content/paradise/heaven-and-hell" %}}
+- **21,9–22,5** — Das Neue Jerusalem: {{% int_link val="Das Neue Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
+- **22,6–21** — Schluss: letzte Warnungen und der Abschiedsgruß des Briefes
+
+## Nacheinander oder neu erzählt?
+
+<a name="chiasm"></a>
+Wer die Offenbarung am Stück liest, hat den Eindruck, sie erreiche mehrmals das Ende der Welt. Das liegt daran, dass ihre Reihen keinen langen Fahrplan bilden: Sie erzählen dieselbe Zeit noch einmal, jedes Mal aus einem neuen Blickwinkel und mit steigender Wucht — Fachleute sprechen von Rekapitulation. Das deutlichste Zeichen ist, dass jede Reihe in derselben Szene von Endgericht und Rettung endet: Man vergleiche das sechste Siegel ({{% bible val="6,12–17" link="rev:6,12-17" lang="de" %}}) mit der siebten Schale ({{% bible val="16,17–21" link="rev:16,17-21" lang="de" %}}). Die Zahlen geben die Reihenfolge der Visionen des Johannes an, nicht unbedingt die Reihenfolge der Ereignisse in der Geschichte (Beale, S. 121–129).
+
+Dasselbe gilt für die letzten Kapitel. Beale stellt die Kapitel 17–22 als Chiasmus dar (Beale, S. 983):
+
+- A — das Gericht über die Hure (17,1–19,6)
+- B — der göttliche Richter (19,11–16)
+- C — das Gericht über das Tier und den falschen Propheten (19,17–21; vgl. Hesekiel 39)
+- D — Satan für 1.000 Jahre gefangen (20,1–3)
+- D′ — die Heiligen herrschen und richten 1.000 Jahre (20,4–6)
+- C′ — das Gericht über Gog und Magog (20,7–10; vgl. Hesekiel 38–39)
+- B′ — der göttliche Richter (20,11–15)
+- A′ — die Rechtfertigung der Braut (21,1–22,5)
+
+Die tausend Jahre stehen in der Mitte, eingerahmt von zwei Schlachten, die aus derselben Prophetie in Hesekiel 38–39 stammen. So gelesen kommt Kapitel 20 zeitlich nicht nach Kapitel 19; es tritt einen Schritt zurück und zeigt dieselbe Zeit von einer anderen Seite. → {{% int_link val="Das Tausendjährige Reich" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="Prä-, Post- und Amillennialismus" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="präteristisch, historisch, futuristisch oder idealistisch?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}

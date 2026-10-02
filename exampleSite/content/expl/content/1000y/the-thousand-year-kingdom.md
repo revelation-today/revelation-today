@@ -27,7 +27,7 @@ A few questions are worth holding in mind from the outset, since they expose ass
 - Where else in the Bible does the concept of a 1000-year kingdom appear, outside this {{% bible val="one vision" link="rev:20,4" lang="en" %}}?
 - What kind of {{% bible val="reigning" link="mat:20,20-28" lang="en" %}} are we even assuming happens during those 1000 years?
 
-One piece of context shapes everything that follows: the 1000-year kingdom sits inside a larger chiasm, a structure that organizes material symmetrically rather than in strict chronological sequence. That means an earlier theme can resurface from a different angle rather than describing a genuinely new, later event — a possibility worth keeping open as we work through the chapter.
+One piece of context shapes everything that follows: the 1000-year kingdom sits inside {{% int_link val="a larger chiasm" link="/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm" %}}, a structure that organizes material symmetrically rather than in strict chronological sequence. That means an earlier theme can resurface from a different angle rather than describing a genuinely new, later event — a possibility worth keeping open as we work through the chapter.
 
 ## A little word with big consequences
 

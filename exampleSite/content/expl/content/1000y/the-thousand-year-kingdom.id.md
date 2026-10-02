@@ -27,7 +27,7 @@ ada baiknya beberapa pertanyaan berikut ini diingat sejak awal, sebab pertanyaan
 - Di mana lagi dalam Alkitab konsep kerajaan 1000 tahun ini muncul, di luar {{% bible val="satu ayat ini" link="rev:20,4" lang="ind" %}}?
 - {{% bible val="Pemerintahan" link="mat:20,20-28" lang="ind" %}} macam apa sebenarnya yang kita asumsikan terjadi selama 1000 tahun itu?
 
-Satu bagian konteks membentuk segala sesuatu yang mengikutinya: Kerajaan Seribu Tahun berada di dalam sebuah kiasme yang lebih besar, sebuah struktur yang menyusun materi secara simetris, bukan dalam urutan kronologis yang ketat. Itu berarti sebuah tema yang lebih awal dapat muncul kembali dari sudut yang berbeda, bukan menggambarkan peristiwa baru yang benar-benar terjadi belakangan — sebuah kemungkinan yang patut kita pertimbangkan sepanjang pembahasan pasal ini.
+Satu bagian konteks membentuk segala sesuatu yang mengikutinya: Kerajaan Seribu Tahun berada di dalam {{% int_link val="sebuah kiasme yang lebih besar" link="/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm" %}}, sebuah struktur yang menyusun materi secara simetris, bukan dalam urutan kronologis yang ketat. Itu berarti sebuah tema yang lebih awal dapat muncul kembali dari sudut yang berbeda, bukan menggambarkan peristiwa baru yang benar-benar terjadi belakangan — sebuah kemungkinan yang patut kita pertimbangkan sepanjang pembahasan pasal ini.
 
 ## Sebuah kata kecil dengan konsekuensi besar
 
