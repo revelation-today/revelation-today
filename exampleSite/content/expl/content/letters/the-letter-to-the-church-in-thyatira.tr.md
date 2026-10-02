@@ -20,7 +20,7 @@ sources:
 
 Sorunu kendi önderliği olan bir kiliseyle ne yaparsınız? Thyatira'ya yazılan mektubun tam olarak ele aldığı durum budur.
 
-Uygun bir biçimde, {{% bible val="bu kiliseye yazılan mektup yedisinin en uzunudur" link="rev:2,18-29" lang="tr" %}}, oysa Thyatira muhtemelen hitap edilen kiliseler arasında en küçüğüydü.
+Uygun bir biçimde, {{% bible val="bu kiliseye yazılan mektup yedisinin en uzunudur" link="rev:2,18-29" lang="tr" %}}.
 
 ## Tarihsel arka plan
 
@@ -41,7 +41,7 @@ Vahiy yazıldığı sırada şehir mor boya ve bronz işçiliğiyle, ayrıca ola
 <a name="94db"></a>
 Yine de {{% bible val="tek bir sorun vardır: İzebel" link="rev:2,20" lang="tr" %}} — neredeyse kesinlikle gerçek adı değil, Pergamon'a yazılan mektupta iki ayet önce geçen "Balam"ı yankılayan alaycı bir takma ad. Eski Antlaşma'da İzebel, {{% bible val="İsrail'e putperestliği getiren kraliçeydi" link="1ki:16,31-18,19" lang="tr" %}}; burada Thyatira'da, bu isim kiliseye aynı şeyi yapmış bir önderi işaret ediyor.
 
-İlk bakışta bu, Pergamon'un durumuna benzer görünür. Ama Thyatira'nın sorunu daha derindir. Pergamon'da kilise, sadece "Balam'ın öğretisini" (2:14-15) izleyen bir grubu hoş görüyordu — kovamadığı dışarıdan bir etki. Thyatira'da ise, sahte öğretiş kilisenin kendi tanınmış önderliğinden geliyor, kendini "peygamber" ilan eden bir kadından (2:20): bu, önderlik *tarafından* yol açılan bir başarısızlık değildir — bizzat önderliğin kendisi bozulmanın kaynağıdır. Bu önder putperestliği içeri sokmuş, cinsel ahlaksızlığı teşvik etmiş ve takipçilerine "Şeytan'ın derin sırları" hakkında özel bir kavrayış vaat etmiştir.
+İlk bakışta bu, Pergamon'un durumuna benzer görünür. Ama Thyatira'nın sorunu daha derindir. Pergamon'da önderler, "Balam'ın öğretisini" (2:14–15) izleyen bir grubu durduramamıştı. Thyatira'da ise sahte öğretiş kilisenin kendi içinde yer edinmişti. İzebel "kendini peygamber ilan ediyor" (2:20) — Mesih bu iddiayı tanımaz — ama pekâlâ kilisenin tanınmış öğretmenlerinden biri olabilirdi; tıpkı kraliçe İzebel'in İsrail'de Tanrı'nın onayı olmadan yasal güç taşıması gibi (1Kr. 16:31; 21:7–11). Putperestliği içeri sokmuş, cinsel ahlaksızlığı teşvik etmiş ve takipçilerine "Şeytan'ın derin sırları" hakkında özel bir kavrayış vaat etmiştir — ve kilise ona göz yummaktadır.[^jezebel]
 
 ## Çözüm
 
@@ -56,3 +56,5 @@ Bunun yerine verilen yanıt, {{% bible val="İsa'ya tutunmak ve sadık kalmaktı
 Bu sahte önderlik altında dayanıp sadık kalanlara İsa kendi otoritelerini vaat eder — {{% bible val="Mezmur 2'den" link="psa:2" lang="tr" %}} alınan bir dille, demir bir asayla hükmedeceklerdir.
 
 Bununla birlikte vaat edilen {{% bible val="sabah yıldızı" link="rev:2,26-28" lang="tr" %}} muhtemelen, başka bir yerde {{% bible val="Sabah Yıldızı olarak adlandırılan" link="rev:22,16" lang="tr" %}} İsa'nın kendisinde bulunan {{% bible val="yeni bir umudun doğuşuna" link="2pe:1,19" lang="tr" %}} işaret eder.
+
+[^jezebel]: Beale, s. 249, 261–263. Bazı erken elyazmaları 2:20'de "*senin* karın İzebel" diye okur; Beale bunun özgün olabileceğini ve "resmî olarak tanınmış öğretmenlere" işaret ettiğini düşünür. "Kendini ilan ediyor" ifadesi için bkz. Aune, *Revelation 1–5*, s. 145–146.

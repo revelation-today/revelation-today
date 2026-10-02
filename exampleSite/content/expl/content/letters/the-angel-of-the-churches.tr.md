@@ -18,7 +18,7 @@ docType: expl
 appl: /appl/content/letters
 ---
 
-Vahiy kitabı boyunca aynı şaşırtıcı buyruk tekrarlanır: "Kilisenin meleğine yaz." Kiliselerin koruyucu melekleri mi var? Yoksa "melek" kilisenin önderi için kullanılan başka bir sözcük mü? Daha yakından bakalım. Bu sorunun yorumcular arasında üzerinde uzlaşılmış tek bir yanıtı yok — koruyucu melek, insan haberci ve kişileştirme okumalarının hepsinin bugün hâlâ savunucuları var. Aşağıdaki değerlendirme bu sitenin izlediği okumadır, yerleşik bir uzlaşı değil.
+Vahiy kitabı boyunca aynı şaşırtıcı buyruk tekrarlanır: "Kilisenin meleğine yaz." Kiliselerin koruyucu melekleri mi var? Yoksa "melek" kilisenin önderi için kullanılan başka bir sözcük mü? Okurlar bu melekleri farklı şekillerde anlamıştır. İşte bu sitenin benimsediği okuma ve gerekçeleri.
 
 ## Olası olmayan yorumlar
 
@@ -38,11 +38,18 @@ Birkaç gözlem bizi daha iyi bir cevaba yönlendiriyor:
 - Yunanca metin tekil "sen" ile çoğul "siz" (burada büyük harflerle gösterilmiştir) arasında geçiş yapar: "{{% bible val="Çekmek üzere olduğun acılardan korkma. Size söylüyorum, İblis SİZİ sınamak için aranızdan bazılarını hapse atacak ve on gün boyunca sıkıntı çekeceksiniz. Ölüme dek sadık kal, sana yaşam tacını vereceğim." link="rev:2,10" lang="tr" %}}"
 - "Angelos" (haberci) Yeni Antlaşma'nın başka yerlerinde de yalnızca doğaüstü varlıklar için değil, sıradan insan habercileri için de kullanılır (Luka 7:24; Luka 9:52; Yakup 2:25) — yani sözcüğün kendisi bir ruhsal varlık okumasını gerektirmez.
 - Bu melekler kitabın başka hiçbir yerinde bir daha anılmaz.
+- Aynı melek tek bir solukta hem övülür hem azarlanır: Efes emeği ve dayanıklılığı için övülür, sonra ilk sevgisini bıraktığı söylenir (2:2–6). Bir cemaate böyle konuşulur.
+- Yuhanna'dan önceki Yahudi ya da Hristiyan yazılarında bu meleklere benzer hiçbir şey yoktur. Görünüşe göre bu figürü bu amaç için kendisi yaratmıştır.[^angels-data]
+
+## Bir itiraz
+
+<a name="obj1"></a>
+Vahiy'in başka her yerinde melek göksel bir varlıktır — altmış kadar yerde. Bu yedisi de aynı olmamalı mı? Ama söz konusu olan tam da bunlardır. Diğerlerinin hepsi gibi olmaları gerektiğini varsaymak, kanıtlara bakmadan meseleyi karara bağlamaktır. Yukarıdaki kanıtlar ise öbür yönü gösterir.[^objection]
 
 ## Melekler = Kiliseler
 
 <a name="1220"></a>
-Bunları bir araya getirdiğimizde, daha basit bir cevaba varırız: "kiliselerin melekleri", kiliselerin kendisine hitap etmenin başka bir yoludur. Melek ve kilise boyunca birbirinin yerine kullanılır.
+Bunları bir araya getirdiğimizde, daha basit bir cevaba varırız: her kilisenin meleği kilisenin kendisidir — göğün tarafından görüldüğü hâliyle. Yuhanna'nın açılış görümü kiliseyi zaten iki kez gösterir: yeryüzünde duran bir kandillik olarak ve Mesih'in sağ elinde tutulan bir yıldız olarak (1:20). Kandillik, cemaatin kendi şehrinde yaşadığı hâlidir; yıldız ise aynı cemaatin Mesih'in elindeki hâlidir. Mesih "meleğe" yazdığında, kiliseye onu gördüğü gibi hitap eder.[^counterpart]
 
 Bu, Yahudi literatüründe zaten iyice yerleşmiş bir örüntüye uyar; burada bütün bir topluluk sanki tek bir kişiymiş gibi hitap edilir — {{% bible val="Siyon Kızı" link="zep:3,14" lang="tr" %}} ve {{% bible val="Sur" link="ezk:27" lang="tr" %}} bunun iki örneğidir, Hoşea da {{% bible val="9. bölümde" link="hos:9,1-6" lang="tr" %}} ve {{% bible val="14. bölümde" link="hos:14,1-3" lang="tr" %}} aynı şekilde tekil ile çoğul arasında geçiş yapar. Aynı şekilde, kiliselere yazılan mektuplar da normalde tek bir kişiye yazılmazdı; başka yerlerde de kiliselere gerek mektuplarda gerek peygamberlik sözlerinde {{% bible val="çoğul" link="zep:2,1-5" lang="tr" %}} olarak hitap edilir.
 
@@ -51,3 +58,9 @@ Bu, Yahudi literatüründe zaten iyice yerleşmiş bir örüntüye uyar; burada 
 - Dünya çapındaki Kilise'nin bir birlik olması amaçlanmıştır, tıpkı bir meleğin tek bir "birim" olması gibi — mesele tek bir imanlının bireysel Tanrı yürüyüşü değil, cemaatin bir bütün olarak paylaştığı sorumluluktur.
 - Onlara melek (*angelos*, "haberci" demektir) olarak hitap etmek, onlara semavi amaçlarını hatırlatır.
 - Onlara melek denmesi, ayrıca bu işi kendi başlarına yapamayacaklarının, Kutsal Ruh aracılığıyla semavi yardıma ihtiyaç duyduklarının bir işaretidir.
+
+[^angels-data]: Bu gözlemleri Aune bir araya getirir, *Revelation 1–5*, s. 109.
+
+[^objection]: Aune, s. 108–109. Beale, kitaptaki diğer kullanımlardan yola çıkarak meleklerin kiliseleri temsil eden göksel varlıklar olduğunu savunur (s. 217).
+
+[^counterpart]: Aune'nin derlediği okumalardan biri: melekler, toplulukların göksel ya da kolektif karşılıkları olarak (s. 110–111); Ramsay, Charles, Beasley-Murray, Sweet ve başkaları bu görüştedir.

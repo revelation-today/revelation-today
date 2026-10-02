@@ -32,7 +32,7 @@ The book is full of symbols and references to the rest of the Bible, all in serv
 
 It opens with what God has done and what he expects of the church in response: to be light, and to depend on him.
 
-From there, the {{% int_link val="churches are judged" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}, and the result is sobering. Only two of the seven churches come away blameless, and both are placed in unimportant positions within the list. Two others are outright disasters, bookending the sequence at its beginning and end, and right in the middle sits a church so troubled that Jesus singles it out as a warning example for the rest.
+From there, the {{% int_link val="churches are judged" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}, and the result is sobering. Only two of the seven come away blameless, and both stand in less prominent places — second and second-to-last, not at the start, the end or the centre, where the weight of the list lies. The first and the last are in danger of losing their very identity as churches, and in the middle sits Thyatira, whose letter carries the one warning addressed to all the churches (2:23).[^ring]
 
 ## The Answer
 
@@ -110,3 +110,5 @@ The same holds for the last chapters. Beale sets out chapters 17–22 as a chias
 - A′ — the vindication of the bride (21:1–22:5)
 
 The thousand years stand at the centre, framed by two battles drawn from the same prophecy in Ezekiel 38–39. Read this way, chapter 20 does not come after chapter 19 in time; it steps back and shows the same age from another side. → {{% int_link val="The thousand-year kingdom" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="pre-, post- and amillennialism" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preterist, historicist, futurist or idealist?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
+
+[^ring]: Beale, pp. 226–227.

@@ -32,7 +32,7 @@ Kitab ini penuh dengan simbol-simbol dan rujukan kepada bagian-bagian lain dari 
 
 Kitab ini dibuka dengan apa yang telah dilakukan Allah dan apa yang diharapkan-Nya dari gereja sebagai tanggapan: menjadi terang, dan bergantung kepada-Nya.
 
-Dari situ, {{% int_link val="jemaat-jemaat dinilai" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}, dan hasilnya sangat mencemaskan. Hanya dua dari ketujuh jemaat yang keluar tanpa cela, dan keduanya ditempatkan pada posisi yang tampak kurang penting dalam daftar itu. Dua jemaat lainnya benar-benar sebuah bencana, mengapit rangkaian itu di awal dan akhirnya, dan tepat di tengah-tengah terdapat sebuah jemaat yang begitu bermasalah sehingga Yesus secara khusus menjadikannya sebagai contoh peringatan bagi jemaat-jemaat lainnya.
+Dari situ, {{% int_link val="jemaat-jemaat dinilai" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}, dan hasilnya sangat mencemaskan. Hanya dua dari ketujuhnya yang keluar tanpa cela, dan keduanya berada di tempat yang kurang menonjol - urutan kedua dan kedua dari akhir, bukan di awal, di akhir, atau di tengah, tempat bobot daftar itu berada. Yang pertama dan yang terakhir terancam kehilangan jati diri mereka sebagai jemaat, dan di tengah-tengah terdapat Tiatira, yang suratnya memuat satu-satunya peringatan yang ditujukan kepada semua jemaat (2:23).[^ring]
 
 ## Jawabannya
 
@@ -110,3 +110,5 @@ Hal yang sama berlaku untuk pasal-pasal terakhir. Beale menyusun pasal 17–22 s
 - A′ — pembenaran pengantin perempuan (21:1–22:5)
 
 Seribu tahun itu berdiri di tengah, dibingkai oleh dua pertempuran yang diambil dari nubuat yang sama dalam Yehezkiel 38–39. Jika dibaca demikian, pasal 20 tidak datang sesudah pasal 19 secara waktu; pasal itu mundur selangkah dan menunjukkan zaman yang sama dari sisi lain. → {{% int_link val="Kerajaan seribu tahun" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="pra-, pasca-, dan amilenialisme" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preteris, historisis, futuris, atau idealis?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
+
+[^ring]: Beale, hlm. 226–227.

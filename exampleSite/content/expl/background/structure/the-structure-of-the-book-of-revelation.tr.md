@@ -32,7 +32,7 @@ Kitap sembollerle ve Kutsal Kitap'ın geri kalanına yapılan göndermelerle dol
 
 Kitap, Tanrı'nın ne yaptığı ve buna karşılık kiliseden ne beklediğiyle açılır: ışık olmak ve ona bağımlı olmak.
 
-Buradan itibaren {{% int_link val="kiliseler yargılanır" link="/expl/content/letters/the-letters-to-the-seven-churches" %}} ve sonuç iç karartıcıdır. Yedi kiliseden yalnızca ikisi kusursuz çıkar ve ikisi de listede önemsiz konumlara yerleştirilmiştir. Diğer ikisi tam anlamıyla birer felakettir ve diziyi başında ve sonunda çevreler; tam ortada ise İsa'nın diğerleri için bir uyarı örneği olarak öne çıkardığı kadar sorunlu bir kilise bulunur.
+Buradan itibaren {{% int_link val="kiliseler yargılanır" link="/expl/content/letters/the-letters-to-the-seven-churches" %}} ve sonuç iç karartıcıdır. Yedi kiliseden yalnızca ikisi kusursuz çıkar ve ikisi de daha az öne çıkan yerlerdedir — ikinci ve sondan ikinci sırada; listenin ağırlığının bulunduğu başta, sonda ya da merkezde değil. İlk ve son kilise, kilise olarak kimliklerini tümden yitirme tehlikesi içindedir; ortada ise mektubu bütün kiliselere yönelik tek uyarıyı taşıyan Tiyatira durur (2:23).[^ring]
 
 ## Cevap
 
@@ -110,3 +110,5 @@ Aynısı son bölümler için de geçerlidir. Beale 17–22. bölümleri bir kia
 - A′ — gelinin haklı çıkarılması (21:1–22:5)
 
 Bin yıl ortada durur ve Hezekiel 38–39'daki aynı peygamberlikten alınmış iki savaşla çerçevelenir. Böyle okunduğunda 20. bölüm zaman bakımından 19. bölümden sonra gelmez; bir adım geri çekilir ve aynı çağı başka bir yönden gösterir. → {{% int_link val="Bin yıllık krallık" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="bin yıl öncesi, sonrası ve amilenyalizm" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preterist, historisist, fütürist ya da idealist?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
+
+[^ring]: Beale, s. 226–227.

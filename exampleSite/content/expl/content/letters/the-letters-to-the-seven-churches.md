@@ -47,15 +47,17 @@ Ephesus, Smyrna, Pergamon, Thyatira, Sardis, Philadelphia, Laodicea: this is not
 <a name="4b58"></a>
 In each letter, Jesus follows a broadly similar pattern: he addresses the church in a specific way — often drawing the description of himself from the vision in chapter 1 — commends what is praiseworthy, and gives a promise to "the one who conquers." Not every letter has every part, though: Smyrna and Philadelphia receive no complaint at all, and Laodicea receives no commendation whatsoever.
 
-Laid over this basic pattern, the seven letters also display a thematic symmetry some interpreters have noted:
+Laid over this basic pattern, the seven letters are arranged like a ring:[^ring]
 
-- The first and the last are the churches in the worst shape. Ephesus, the first, is warned that its lampstand will be removed if it doesn't change — in terms of the vision above, this church has lost its purpose and has no reason left to exist. Laodicea, the last, is the only church that receives no praise whatsoever.
-- The second and second-to-last (Smyrna and Philadelphia) are the only two that receive no reproof at all, only praise.
-- The third and fifth (Pergamon and Sardis) each have some good points and some bad, while the fourth, Thyatira, stands at the center as a warning example to the other churches of just how much damage evil leadership can do.
+- The first and the last are in danger of losing their very identity as churches. Ephesus, the first, is warned that its lampstand will be removed if it doesn't change — in terms of the vision above, it has lost its purpose. Laodicea, the last, is the only church that receives no praise whatsoever.
+- The second and second-to-last, Smyrna and Philadelphia, are the only two that receive no reproof at all, only praise — and they stand in the less prominent places, not at the start, the end or the centre.
+- The three in the middle — Pergamon, Thyatira and Sardis — are mixed: some have stayed faithful, others compromise. At the very centre, in the middle of the middle letter, stands the one sentence addressed to all the churches besides the closing refrain: "all the churches will know that I am he who searches hearts and minds" (2:23).
 
 Comparing the paired churches brings out some striking points:
 
 - **Ephesus and Laodicea.** Ephesus does everything right but has lost its first love. Laodicea, by contrast, does nothing right and lives in a fog of self-deception. The lesson cuts both ways: without love, you can get everything else right and still be no better off than Laodicea — a church without love has lost its purpose.
 - **Smyrna and Philadelphia.** Both face outside opposition, and in both cases the pressure comes from Jewish opposition. Smyrna faces both poverty and the threat of imprisonment (2:9-10); Philadelphia has "little strength" — limited numbers or standing in the city (3:8). Philadelphia is given the promise that these opponents will eventually be made to acknowledge God's love for the church; Smyrna is given no such promise. Yet in both cases, the churches are simply told to keep the faith and continue their work. Jesus promises to see them through, not that everything they attempt will succeed.
 - **Pergamon and Sardis.** It might seem unfair to compare Pergamon's sexual immorality with Sardis's spiritual lifelessness, but the underlying problem may be the same in both: leadership that allows the wrong influences in, whether through unchecked false teaching or an unchecked absence of the Spirit's work. Church leadership needs to walk a careful line — giving the Holy Spirit room to work, while not leaving the door open to just anyone's teaching.
-- **Thyatira.** Standing alone at the center, Thyatira's letter is fundamentally about evil leadership. Jesus will judge both the leaders and their followers for their sin, and the other churches are meant to take note — a pointed reminder of just how much damage bad leadership does to a church's witness.
+- **Thyatira.** Standing at the centre, Thyatira's letter is about false teaching that had found a place within the church itself — very probably through one of its own recognised teachers. Jesus will judge both the teacher and her followers, and the other churches are meant to take note: "all the churches will know" (2:23).
+
+[^ring]: Beale, pp. 226–227, following Kiddle. The order of the cities is also the route a messenger would take through the province (Bauckham, *Theology*, p. 12) — the ring is laid over the road.

@@ -16,6 +16,8 @@ sources:
       ref: fee_rev
     - pages: 136–139
       ref: aune_rev
+    - pages: 75
+      ref: beasley_rev
 ---
 
 Efes'teki kilise, görünüşte örnek bir kilisedir. Ama görünüş aldatıcıdır, ve İsa yine de onlar hakkında yıkıcı bir yargıda bulunur.
@@ -45,13 +47,13 @@ Yine de bir konuda ciddi biçimde yanılmışlardır: ilk sevgilerini kaybetmiş
 
 {{% bible val="Matta 24:12" link="mat:24,12-14" lang="tr" %}} iki şeyi yan yana koyar: müjde bütün uluslara bir tanıklık olarak duyurulurken, birçoklarının sevgisi soğuyacaktır. Peki "tanıklık" burada gerçekte ne anlama gelir? Yeni Antlaşma'da bir "tanık" (Yunanca *martys*), bizzat gördüğü şeye tanıklık eden kişidir — daha sonra "şehit" (mart, "martyr") sözcüğünü doğuran aynı kök, tanıklığı kendi hayatıyla mühürlenmiş biri. Şu nokta geçerliliğini korur: tanıklık, ikinci elden tekrardan değil, gerçek, yaşanmış deneyimden akar.
 
-Peki sevginin müjdeye tanıklık etmekle ne ilgisi var? Görünenden çok daha fazla:
+Peki Efes hangi sevgiyi kaybetti — İsa'ya, birbirine ya da dünyaya olan sevgiyi mi? Üçünü de, çünkü her biri diğerlerine bağlıdır:[^firstlove]
 
-- İsa'yı seversek, kardeşlerimizi de severiz ve O'nun mesajını ve sevgisini dış dünyayla paylaşırız.
-- Kardeşlerimizi seversek, İsa'yı onlarda gördüğümüz gibi severiz ve müjdeyi tüm dünyaya taşırız.
-- Dünyayı seversek, İsa ve Kilise ona sunabileceğimiz en iyi şeydir.
+- İsa'ya sevgi olmadan, kardeşlere de dünyaya da gerçek bir ilgi olmaz.
+- Birbirine sevgi olmadan, dünyaya olan sevgi solar — dünya, Hristiyanların birbirine nasıl davrandığını görür (Yu. 13:35; 17:21) — ve bu, İsa'ya olan sevgiyi de engeller, çünkü kimse Tanrı'yı sevip kardeşinden nefret edemez (1Yu. 4:20).
+- Dünyaya sevgi olmadan, kilise amacını yitirir: içine kapanır, İsa'yı ve kardeşlerin neden bir araya geldiğini gözden kaybeder.
 
-Müjdeyi paylaşmak, öyleyse, kendisi bir sevgi eylemidir — ve ister sevgi ister tanıklık soğusun, diğeri de onunla birlikte azalır.
+İsa'nın kendisi Tanrı sevgisini ve komşu sevgisini tek bir buyrukta birleştirdi (Mar. 12:29–31). Bu sevgilerden biri soğuduğunda, diğerleri de onunla birlikte soğur — ve dünyaya doğru giden sevgi olan tanıklık da soğur.
 
 Efes, ruhsal zorluklarla başa çıkmak için gerçek stratejiler geliştirmiş olduğundan, köklü, olgun bir kilise gibi görünebilir. Ama muhtemelen bütün bunları neden yaptığını unutmuştur ve sonunda işleri düzeltmek yerine kendine odaklanmış bir hâle gelmiştir.
 
@@ -59,3 +61,5 @@ Efes, ruhsal zorluklarla başa çıkmak için gerçek stratejiler geliştirmiş 
 
 <a name="4d61"></a>
 Efes'in Tanrı'nın gerçekten kullanabileceği bir kiliseye dönüşmek istiyorsa, kaybettiği o yakın ilişkiyi Tanrı'yla yeniden inşa etmesi gerekir — Aden Bahçesi'nde yaşam ağacından yemekle resmedilen o ilişkiyi. Onları bu yönde teşvik etmek için kendilerine bir vaat verilir: {{% bible val="Tanrı'nın cennetindeki yaşam ağacından yeme hakkı" link="rev:2,7" lang="tr" %}} — kitabın en sonunda, {{% bible val="Yeni Yeruşalim'de Tanrı'nın tahtından akan ırmağın kenarındaki yaşam ağacında" link="rev:22,1-5" lang="tr" %}} yeniden ele alınan bir imge.
+
+[^firstlove]: Yorumcular genellikle birini seçer: birbirine sevgi (çoğu, örn. Beasley-Murray, s. 75), Mesih'e sevgi (krş. Yer. 2:2) ya da dünyaya tanıklıkta görünen Mesih sevgisi (Beale, s. 230). Bu site üçünü birlikte okur.

@@ -16,6 +16,8 @@ sources:
       ref: fee_rev
     - pages: 136–139
       ref: aune_rev
+    - pages: 75
+      ref: beasley_rev
 ---
 
 Gereja di Efesus, secara lahiriah, tampak seperti gereja teladan. Namun penampilan bisa menipu, dan Yesus tetap menjatuhkan penghakiman yang menghancurkan atas mereka.
@@ -45,13 +47,13 @@ Namun ada satu hal yang sangat mereka salahkan: mereka telah meninggalkan kasih 
 
 {{% bible val="Matius 24:12" link="mat:24,12-14" lang="ind" %}} memasangkan dua hal sekaligus: bagi banyak orang, kasih akan menjadi dingin, justru pada saat Injil sedang diberitakan ke segala bangsa sebagai kesaksian. Apa sebenarnya arti "kesaksian" di sini? Dalam Perjanjian Baru, seorang "saksi" (bahasa Yunani *martys*) adalah orang yang bersaksi tentang apa yang telah dilihatnya sendiri - akar kata yang sama yang kemudian melahirkan kata "martir," seseorang yang kesaksiannya dimeteraikan dengan nyawanya sendiri. Intinya tetap: kesaksian mengalir dari pengalaman hidup yang nyata, bukan dari pengulangan dari tangan kedua.
 
-Jadi apa hubungan kasih dengan kesaksian tentang Injil? Ternyata sangat erat:
+Jadi kasih manakah yang telah hilang dari Efesus - kasih kepada Yesus, kepada satu sama lain, atau kepada dunia? Ketiganya, karena yang satu bergantung pada yang lain:[^firstlove]
 
-- Jika kita mengasihi Yesus, kita akan mengasihi saudara-saudari kita, dan membagikan pesan serta kasih-Nya kepada dunia di luar.
-- Jika kita mengasihi saudara-saudari kita, kita akan mengasihi Yesus sebagaimana kita melihat-Nya dalam diri mereka, dan membawa Injil ke seluruh dunia.
-- Jika kita mengasihi dunia, maka Yesus dan Gereja adalah hal terbaik yang bisa kita tawarkan kepadanya.
+- Tanpa kasih kepada Yesus, tidak ada kepedulian yang sungguh-sungguh terhadap saudara-saudari, maupun terhadap dunia.
+- Tanpa kasih satu sama lain, kasih kepada dunia memudar - dunia melihat bagaimana orang Kristen memperlakukan satu sama lain (Yoh. 13:35; 17:21) - dan hal itu menghalangi kasih kepada Yesus, sebab tidak seorang pun dapat mengasihi Allah sambil membenci saudaranya (1Yoh. 4:20).
+- Tanpa kasih kepada dunia, jemaat kehilangan tujuannya: ia berbalik ke dalam, dan kehilangan pandangan akan Yesus dan akan alasan mengapa saudara-saudari itu berkumpul sama sekali.
 
-Membagikan Injil, dengan demikian, adalah tindakan kasih itu sendiri - dan jika kasih atau kesaksian menjadi dingin, yang satu akan ikut menyusut bersama yang lain.
+Yesus sendiri menyatukan kasih kepada Allah dan kasih kepada sesama menjadi satu perintah (Mrk. 12:29–31). Ketika salah satu kasih ini mendingin, yang lain ikut mendingin - dan kesaksian, yaitu kasih yang keluar menuju dunia, juga ikut mendingin.
 
 Efesus mungkin tampak seperti jemaat yang mapan dan dewasa, karena mereka sudah mengembangkan strategi yang nyata untuk menghadapi tantangan-tantangan rohani. Tetapi mereka tampaknya telah melupakan untuk apa semua ini mereka lakukan sejak semula, dan akhirnya menjadi berpusat pada diri sendiri alih-alih pada upaya membenahi keadaan.
 
@@ -59,3 +61,5 @@ Efesus mungkin tampak seperti jemaat yang mapan dan dewasa, karena mereka sudah 
 
 <a name="cb84"></a>
 Jika Efesus ingin bertumbuh menjadi jemaat yang benar-benar dapat dipakai Allah, mereka harus membangun kembali hubungan yang akrab dengan Allah yang telah hilang - hubungan yang digambarkan lewat makan dari pohon kehidupan di Taman Eden. Untuk mendorong mereka ke arah itu, mereka diberi sebuah janji: {{% bible val="hak untuk makan dari pohon kehidupan, di taman firdaus Allah" link="rev:2,7" lang="ind" %}} - sebuah gambaran yang diangkat kembali di bagian paling akhir kitab ini, dalam {{% bible val="pohon kehidupan di tepi sungai yang mengalir dari takhta Allah di Yerusalem Baru" link="rev:22,1-5" lang="ind" %}}.
+
+[^firstlove]: Para penafsir biasanya memilih salah satu: kasih satu sama lain (kebanyakan, mis. Beasley-Murray, hlm. 75), kasih kepada Kristus (bdk. Yer. 2:2), atau kasih kepada Kristus yang tampak dalam kesaksian kepada dunia (Beale, hlm. 230). Situs ini membaca ketiganya bersama-sama.

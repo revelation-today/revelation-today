@@ -47,15 +47,17 @@ Efes, İzmir, Pergamon, Thyatira, Sardes, Filadelfiya, Laodikya: bu rastgele bir
 <a name="4b58"></a>
 Her mektupta İsa büyük ölçüde benzer bir örüntü izler: kiliseye belirli bir şekilde hitap eder — çoğu zaman kendisiyle ilgili betimlemeyi 1. bölümdeki vizyondan alarak —, övgüye değer olanı över ve "üstün gelene" bir söz verir. Ama her mektupta bu bölümlerin hepsi bulunmaz: İzmir ve Filadelfiya hiç azarlanmaz, Laodikya ise hiç övülmez.
 
-Bu temel örüntünün üzerine, yedi mektup ayrıca bazı yorumcuların fark ettiği tematik bir simetri de sergiler:
+Bu temel örüntünün üzerine, yedi mektup bir halka gibi düzenlenmiştir:[^ring]
 
-- İlk ve son kilise en kötü durumda olanlardır. İlki, Efes, değişmezse kandilliğinin yerinden kaldırılacağı konusunda uyarılır — yukarıdaki vizyon açısından bu kilise amacını yitirmiştir ve artık var olmak için bir nedeni kalmamıştır. Sonuncusu, Laodikya, hiç övgü almayan tek kilisedir.
-- İkinci ve sondan ikinci (İzmir ve Filadelfiya) hiç azarlanmayan, yalnızca övgü alan iki kilisedir.
-- Üçüncü ve beşinci (Pergamon ve Sardes) hem iyi hem kötü yönlere sahiptir, dördüncüsü ise Thyatira, kötü önderliğin ne kadar zarar verebileceğine dair diğer kiliselere bir uyarı örneği olarak merkezde durur.
+- İlk ve son kilise, kilise olarak kimliklerini tümden yitirme tehlikesi içindedir. İlki, Efes, değişmezse kandilliğinin yerinden kaldırılacağı konusunda uyarılır — yukarıdaki vizyon açısından amacını yitirmiştir. Sonuncusu, Laodikya, hiç övgü almayan tek kilisedir.
+- İkinci ve sondan ikinci, İzmir ve Filadelfiya, hiç azarlanmayan, yalnızca övgü alan iki kilisedir — ve daha az öne çıkan yerlerde dururlar; başta, sonda ya da merkezde değil.
+- Ortadaki üç kilise — Pergamon, Thyatira ve Sardes — karışıktır: bazıları sadık kalmış, diğerleri uzlaşmaya gitmiştir. Tam merkezde, ortadaki mektubun ortasında, kapanış nakaratı dışında bütün kiliselere hitap eden tek cümle durur: "Bütün kiliseler, yürekleri ve düşünceleri araştıranın ben olduğumu bilecek" (2:23).
 
 Eşleşen kiliseleri karşılaştırmak çarpıcı noktalar ortaya çıkarır:
 
 - **Efes ve Laodikya.** Efes her şeyi doğru yapar ama ilk sevgisini kaybetmiştir. Laodikya ise tam tersine hiçbir şeyi doğru yapmaz ve kendi kendini aldatan bir sisin içinde yaşar. Ders her iki yönde de geçerlidir: sevgi olmadan geri kalan her şeyi doğru yapabilirsin, yine de Laodikya'dan daha iyi durumda olmazsın — sevgisiz bir kilise amacını yitirmiştir.
 - **İzmir ve Filadelfiya.** Her ikisi de dışarıdan gelen muhalefetle karşı karşıyadır, ve her iki durumda da baskı Yahudi muhalefetinden gelir. İzmir hem yoksullukla hem de hapse atılma tehdidiyle karşı karşıyadır (2:9-10); Filadelfiya'nın ise "az bir gücü" vardır — şehirdeki sınırlı sayısı veya konumu (3:8). Filadelfiya'ya bu muhaliflerin sonunda Tanrı'nın kiliseye olan sevgisini kabul etmek zorunda kalacağı vaat edilir; İzmir'e böyle bir vaat verilmez. Yine de her iki durumda da kiliselere sadece imanlarını korumaları ve işlerini sürdürmeleri söylenir. İsa onlara, giriştikleri her şeyin başarılı olacağını değil, kendilerini bu sürecin içinden geçireceğini vaat eder.
 - **Pergamon ve Sardes.** Pergamon'un cinsel ahlaksızlığını Sardes'in ruhsal cansızlığıyla karşılaştırmak adaletsiz görünebilir, ama altta yatan sorun her ikisinde de aynı olabilir: yanlış etkilerin içeri sızmasına izin veren bir önderlik — ister denetlenmeyen sahte öğretiş yoluyla, ister Ruh'un işinin denetlenmeyen yokluğu yoluyla. Kilise önderliğinin dikkatli bir çizgide yürümesi gerekir — Kutsal Ruh'a çalışması için alan tanırken, kapıyı herkesin öğretisine açık bırakmadan.
-- **Thyatira.** Merkezde tek başına duran Thyatira'ya yazılan mektup, temelde kötü önderlikle ilgilidir. İsa hem önderleri hem de takipçilerini günahları için yargılayacaktır, ve diğer kiliselerin bunu not etmesi amaçlanmıştır — kötü önderliğin bir kilisenin tanıklığına ne kadar zarar verdiğine dair keskin bir hatırlatma.
+- **Thyatira.** Merkezde duran Thyatira'ya yazılan mektup, kilisenin kendi içinde yer edinmiş sahte öğretişle ilgilidir — büyük olasılıkla kilisenin tanınmış öğretmenlerinden biri aracılığıyla. İsa hem bu öğretmeni hem de takipçilerini yargılayacaktır, ve diğer kiliselerin bunu not etmesi amaçlanmıştır: "bütün kiliseler bilecek" (2:23).
+
+[^ring]: Beale, s. 226–227, Kiddle'ı izleyerek. Kentlerin sırası aynı zamanda bir habercinin eyalette izleyeceği yoldur (Bauckham, *Theology*, s. 12) — halka yolun üzerine yerleştirilmiştir.

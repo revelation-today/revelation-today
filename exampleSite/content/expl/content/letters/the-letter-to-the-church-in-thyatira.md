@@ -20,7 +20,7 @@ sources:
 
 What do you do with a church whose problem is its own leadership? This is exactly the situation the letter to Thyatira addresses.
 
-Fittingly, the {{% bible val="letter to this church is the longest of the seven" link="rev:2,18-29" lang="en" %}}, even though Thyatira was probably the smallest of the churches addressed.
+Fittingly, the {{% bible val="letter to this church is the longest of the seven" link="rev:2,18-29" lang="en" %}}.
 
 ## The historical background
 
@@ -41,7 +41,7 @@ He is full of praise {{% bible val="for their deeds, their love — precisely wh
 <a name="2153"></a>
 Yet there is {{% bible val="one problem: Jezebel" link="rev:2,20" lang="en" %}} — almost certainly a polemical nickname, not her real name, echoing "Balaam" two verses earlier in the letter to Pergamon. In the Old Testament, Jezebel was {{% bible val="the queen who introduced idolatry to Israel" link="1ki:16,31-18,19" lang="en" %}}; here in Thyatira, the name marks out a leader who has done the same thing to the church.
 
-At first glance, this looks similar to Pergamon's situation. But Thyatira's problem runs deeper. In Pergamon, the church merely tolerated a faction following "the teaching of Balaam" (2:14-15) — an outside influence it failed to expel. In Thyatira, the false teaching comes from the church's own recognized leadership, a woman who "calls herself a prophet" (2:20): it isn't a failure caused *by* the leadership — the leadership itself is the source of the corruption. This leader has introduced idolatry, encouraged sexual immorality, and promised her followers special insight into "the deep things of Satan."
+At first glance, this looks similar to Pergamon's situation. But Thyatira's problem runs deeper. In Pergamon, the leaders failed to stop a faction following "the teaching of Balaam" (2:14–15). In Thyatira, the false teaching had found a place within the church itself. Jezebel "calls herself a prophet" (2:20) — Christ does not recognise the claim — but she may well have been one of the church's recognised teachers, just as the queen Jezebel held lawful power in Israel without God's approval (1 Kgs 16:31; 21:7–11). She has introduced idolatry, encouraged sexual immorality, and promised her followers special insight into "the deep things of Satan" — and the church tolerates her.[^jezebel]
 
 ## The solution
 
@@ -56,3 +56,5 @@ Instead, the answer given is to {{% bible val="cling to Jesus and remain faithfu
 To those who endure and remain faithful under this false leadership, Jesus promises authority of their own — they will rule with a scepter of iron, language drawn from {{% bible val="Psalm 2" link="psa:2" lang="en" %}}.
 
 The {{% bible val="morning star" link="rev:2,28" lang="en" %}} promised alongside it likely points to the {{% bible val="dawn of a new hope" link="2pe:1,19" lang="en" %}} found in Jesus himself, who elsewhere {{% bible val="is called the Morning Star" link="rev:22,16" lang="en" %}}.
+
+[^jezebel]: Beale, pp. 249, 261–263. Some early manuscripts read "*your* wife Jezebel" in 2:20; Beale thinks this may be original and would point to "officially recognized teachers". On "calls herself", see Aune, *Revelation 1–5*, pp. 145–146.

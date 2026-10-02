@@ -32,7 +32,7 @@ Das Buch ist voller Symbole und Anspielungen auf die übrige Bibel — alles im 
 
 Es beginnt damit, was Gott bereits getan hat, und mit dem, was er als Antwort darauf von der Gemeinde erwartet: Licht zu sein und dabei ganz von ihm abhängig zu bleiben.
 
-Von dort aus wird {{% int_link val="die Gemeinden beurteilt" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}, und das Ergebnis ist ernüchternd. Nur zwei der sieben Gemeinden bleiben ohne Tadel, und beide stehen an unauffälliger Stelle innerhalb der Liste. Zwei andere sind regelrechte Katastrophen und bilden Anfang und Ende der Reihe, und genau in der Mitte steht eine Gemeinde, die so schlimm dasteht, dass Jesus sie als warnendes Beispiel für alle anderen herausstellt.
+Von dort aus wird {{% int_link val="die Gemeinden beurteilt" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}, und das Ergebnis ist ernüchternd. Nur zwei der sieben bleiben ohne Tadel, und beide stehen an weniger herausgehobenen Stellen - an zweiter und vorletzter Stelle, nicht am Anfang, am Ende oder in der Mitte, wo das Gewicht der Liste liegt. Die erste und die letzte stehen in der Gefahr, ihre Identität als Gemeinde überhaupt zu verlieren, und in der Mitte steht Thyatira, dessen Brief die eine Warnung an alle Gemeinden enthält (2,23).[^ring]
 
 ## Die Antwort
 
@@ -110,3 +110,5 @@ Dasselbe gilt für die letzten Kapitel. Beale stellt die Kapitel 17–22 als Chi
 - A′ — die Rechtfertigung der Braut (21,1–22,5)
 
 Die tausend Jahre stehen in der Mitte, eingerahmt von zwei Schlachten, die aus derselben Prophetie in Hesekiel 38–39 stammen. So gelesen kommt Kapitel 20 zeitlich nicht nach Kapitel 19; es tritt einen Schritt zurück und zeigt dieselbe Zeit von einer anderen Seite. → {{% int_link val="Das Tausendjährige Reich" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="Prä-, Post- und Amillennialismus" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="präteristisch, historisch, futuristisch oder idealistisch?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
+
+[^ring]: Beale, S. 226–227.
