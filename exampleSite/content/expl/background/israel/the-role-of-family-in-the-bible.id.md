@@ -28,7 +28,7 @@ Allah juga memiliki kebiasaan memilih orang-orang penting — bahkan raja-raja �
 
 Alkitab juga memberi bobot besar pada peran sang penebus — {{% bible val="kerabat terdekat yang wajib menyelamatkan" link="lev:25,47-49" lang="ind" %}} seorang sanak saudara yang mengalami kesulitan. Orang ini bertanggung jawab untuk turun tangan setiap kali seorang kerabat mengalami kesulitan berat: untuk {{% bible val="membebaskan dari penawanan" link="gen:14" lang="ind" %}}, untuk membayar demi membebaskan seseorang dari perbudakan, untuk {{% bible val="membeli kembali harta milik" link="lev:25,25-26" lang="ind" %}} yang telah terjual, atau untuk {{% bible val="menikahi guna mengeluarkan dari kesulitan" link="rut:4" lang="ind" %}} dan {{% bible val="memastikan adanya keturunan bagi seorang janda" link="gen:38,8" lang="ind" %}}.
 
-Ini adalah peran yang {{% bible val="diambil alih oleh Allah sendiri" link="isa:44,24-28" lang="ind" %}} sebagai penebus, justru karena masyarakat manusia begitu sering gagal memenuhinya — dan hal ini menjadi {{% bible val="topik kunci dalam iman Kristen" link="eph:1,7" lang="ind" %}}.
+Ini adalah peran yang diambil alih oleh Allah sendiri — Ia menyebut diri-Nya {{% bible val="Penebus" link="isa:44,24" lang="ind" %}} Israel — justru karena masyarakat manusia begitu sering gagal memenuhinya, dan hal ini menjadi {{% bible val="topik kunci dalam iman Kristen" link="eph:1,7" lang="ind" %}}.
 
 ## Sang Patriark
 
@@ -52,7 +52,7 @@ Putra sulung memegang {{% bible val="peran pemimpin di antara saudara-saudaranya
 
 Tetapi putra sulung tidak selalu menjadi pemimpin terbaik bagi sebuah keluarga, dan Allah berulang kali membalikkan urutan yang diharapkan — dengan {{% bible val="Yakub" link="gen:25,25-26" lang="ind" %}}, {{% bible val="Manasye" link="gen:48,12-20" lang="ind" %}}, dan {{% bible val="Daud" link="1sa:16,1-13" lang="ind" %}} yang semuanya menggeser kakak laki-laki mereka.
 
-Seorang perempuan, sementara itu, menghadapi posisi yang benar-benar rawan: ia pertama-tama menjadi bagian dari keluarga ayahnya, kemudian menjadi istri dan bergabung dengan keluarga suaminya, dan akhirnya, setelah suaminya meninggal, diurus oleh putra-putranya di dalam salah satu keluarga mereka. Alkitab {{% bible val="menunjukkan seorang perempuan yang jatuh melalui semua jaring pengaman ini" link="rut:1,1-5" lang="ind" %}} — Rut — namun tetap {{% bible val="dilindungi oleh penebusnya, Boas" link="rut:4" lang="ind" %}}. Tamar adalah kasus lain semacam ini: {{% bible val="Tamar yang dinyatakan benar karena Yehuda tidak memberinya seorang suami sehingga ia terlindungi oleh sebuah keluarga" link="deu:24,19-21" lang="ind" %}}.
+Seorang perempuan, sementara itu, menghadapi posisi yang benar-benar rawan: ia pertama-tama menjadi bagian dari keluarga ayahnya, kemudian menjadi istri dan bergabung dengan keluarga suaminya, dan akhirnya, setelah suaminya meninggal, diurus oleh putra-putranya di dalam salah satu keluarga mereka. Alkitab {{% bible val="menunjukkan seorang perempuan yang jatuh melalui semua jaring pengaman ini" link="rut:1,1-5" lang="ind" %}} — Rut — namun tetap {{% bible val="dilindungi oleh penebusnya, Boas" link="rut:4" lang="ind" %}}. Tamar adalah kasus lain semacam ini: {{% bible val="Tamar yang dinyatakan benar karena Yehuda tidak memberinya seorang suami sehingga ia terlindungi oleh sebuah keluarga" link="gen:38,26" lang="ind" %}} (hukum yang menjadi haknya: {{% bible val="Ulangan 25:5–10" link="deu:25,5-10" lang="ind" %}}).
 
 ## Tanah
 

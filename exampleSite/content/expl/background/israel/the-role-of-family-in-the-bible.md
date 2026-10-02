@@ -28,7 +28,7 @@ God also has a habit of choosing important people — kings, no less — from th
 
 The Bible also puts weight on the role of the redeemer — {{% bible val="the next of kin who needs to rescue" link="lev:25,47-49" lang="en" %}} a relative in trouble. This person was responsible for stepping in whenever a next of kin ran into serious difficulty: to {{% bible val="deliver from captivity" link="gen:14" lang="en" %}}, to pay to free someone from slavery, to {{% bible val="buy back property" link="lev:25,25-26" lang="en" %}} that had been sold off, or to {{% bible val="marry to bring out of trouble" link="rut:4" lang="en" %}} and {{% bible val="ensure offspring for a widow" link="gen:38,8" lang="en" %}}.
 
-It's a role God takes on Himself: {{% bible val="God taken on" link="isa:44,24-28" lang="en" %}} the part of redeemer precisely because human society so often failed to fill it — and it becomes {{% bible val="a key topic in the Christian faith" link="eph:1,7" lang="en" %}}.
+It's a role God takes on Himself — he calls himself Israel's {{% bible val="Redeemer" link="isa:44,24" lang="en" %}} — precisely because human society so often failed to fill it, and it becomes {{% bible val="a key topic in the Christian faith" link="eph:1,7" lang="en" %}}.
 
 ## The patriarch
 
@@ -52,7 +52,7 @@ The first-born son held a leading {{% bible val="role among his siblings" link="
 
 But the eldest son wasn't always the best leader for a family, and God repeatedly overturns the expected order — with {{% bible val="Jacob" link="gen:25,25-26" lang="en" %}}, {{% bible val="Manasseh" link="gen:48,13-20" lang="en" %}}, and {{% bible val="David" link="1sa:16,1-13" lang="en" %}} all displacing an older brother.
 
-A woman, meanwhile, faced a genuinely precarious position: she belonged first to her father's family, then became a wife and joined her husband's family, and finally, after her husband's death, was taken care of by her sons within one of their families. The Bible {{% bible val="shows a woman who fell through all these nets" link="rut:1,1-5" lang="en" %}} — Ruth — and yet was {{% bible val="covered by her redeemer, Boaz" link="rut:4" lang="en" %}}. Tamar is another such case: {{% bible val="Tamar who is judged righteous because Judah did not provide her with a husband so that she would be protected by a family" link="deu:24,19-21" lang="en" %}}.
+A woman, meanwhile, faced a genuinely precarious position: she belonged first to her father's family, then became a wife and joined her husband's family, and finally, after her husband's death, was taken care of by her sons within one of their families. The Bible {{% bible val="shows a woman who fell through all these nets" link="rut:1,1-5" lang="en" %}} — Ruth — and yet was {{% bible val="covered by her redeemer, Boaz" link="rut:4" lang="en" %}}. Tamar is another such case: {{% bible val="Tamar who is judged righteous because Judah did not provide her with a husband so that she would be protected by a family" link="gen:38,26" lang="en" %}} (the law she was owed: {{% bible val="Deut 25:5–10" link="deu:25,5-10" lang="en" %}}).
 
 ## The land
 

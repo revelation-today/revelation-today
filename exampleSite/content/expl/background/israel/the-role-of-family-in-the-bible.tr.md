@@ -28,7 +28,7 @@ Tanrı'nın ayrıca önemli kişileri — hem de kralları — tam olarak kült�
 
 Kutsal Kitap ayrıca kurtarıcının rolüne de ağırlık verir — {{% bible val="başı dertte olan bir akrabayı kurtarması gereken en yakın akraba" link="lev:25,47-49" lang="tr" %}}. Bu kişi, en yakın akrabalarından biri ciddi bir zorlukla karşılaştığında devreye girmekle yükümlüydü: {{% bible val="esaretten kurtarmak" link="gen:14" lang="tr" %}}, birini köleliğinden kurtarmak için ödeme yapmak, satılmış {{% bible val="bir mülkü geri satın almak" link="lev:25,25-26" lang="tr" %}} ya da beladan {{% bible val="kurtarmak için biriyle evlenmek" link="rut:4" lang="tr" %}} ve {{% bible val="dul bir kadın için soy sağlamak" link="gen:38,8" lang="tr" %}}.
 
-Bu, Tanrı'nın kendi üzerine aldığı bir roldür: {{% bible val="Tanrı'nın kurtarıcı rolünü üstlenmesi" link="isa:44,24-28" lang="tr" %}}, tam olarak insan toplumunun bu rolü çoğu zaman doldurmakta başarısız olmasından dolayıdır — ve bu, {{% bible val="Hıristiyan imanının temel bir konusu" link="eph:1,7" lang="tr" %}} hâline gelir.
+Bu, Tanrı'nın kendi üzerine aldığı bir roldür — O, kendisini İsrail'in {{% bible val="Kurtarıcısı" link="isa:44,24" lang="tr" %}} olarak adlandırır — çünkü insan toplumu bu rolü çoğu zaman doldurmakta başarısız olmuştur; ve bu, {{% bible val="Hıristiyan imanının temel bir konusu" link="eph:1,7" lang="tr" %}} hâline gelir.
 
 ## Aile reisi
 
@@ -52,7 +52,7 @@ Bu arka plana karşı, {{% bible val="kadınların yasaya göre miras almasına 
 
 Ama en büyük oğul her zaman bir aile için en iyi lider olmuyordu ve Tanrı beklenen düzeni defalarca tersine çevirir — {{% bible val="Yakup" link="gen:25,25-26" lang="tr" %}}, {{% bible val="Manaşşe" link="gen:48,13-20" lang="tr" %}} ve {{% bible val="Davut" link="1sa:16,1-13" lang="tr" %}}, hepsi bir ağabeyin yerini alır.
 
-Bir kadın ise gerçekten güvencesiz bir konumla karşı karşıyaydı: önce babasının ailesine aitti, sonra eş olup kocasının ailesine katılırdı ve son olarak, kocasının ölümünden sonra oğullarından birinin ailesi içinde bakımı üstlenilirdi. Kutsal Kitap, {{% bible val="tüm bu ağlardan düşen bir kadını gösterir" link="rut:1,1-5" lang="tr" %}} — Rut'u — ve yine de {{% bible val="kurtarıcısı Boaz tarafından korunduğunu" link="rut:4" lang="tr" %}} anlatır. Tamar da böyle bir örnektir: {{% bible val="Yahuda kendisine bir koca vermediği için bir aile tarafından korunmaktan mahrum kalan ve bu yüzden doğru bulunan Tamar" link="deu:24,19-21" lang="tr" %}}.
+Bir kadın ise gerçekten güvencesiz bir konumla karşı karşıyaydı: önce babasının ailesine aitti, sonra eş olup kocasının ailesine katılırdı ve son olarak, kocasının ölümünden sonra oğullarından birinin ailesi içinde bakımı üstlenilirdi. Kutsal Kitap, {{% bible val="tüm bu ağlardan düşen bir kadını gösterir" link="rut:1,1-5" lang="tr" %}} — Rut'u — ve yine de {{% bible val="kurtarıcısı Boaz tarafından korunduğunu" link="rut:4" lang="tr" %}} anlatır. Tamar da böyle bir örnektir: {{% bible val="Yahuda kendisine bir koca vermediği için bir aile tarafından korunmaktan mahrum kalan ve bu yüzden doğru bulunan Tamar" link="gen:38,26" lang="tr" %}} (hakkı olan yasa: {{% bible val="Yasa'nın Tekrarı 25:5–10" link="deu:25,5-10" lang="tr" %}}).
 
 ## Toprak
 

@@ -28,7 +28,7 @@ Gott hat auch die Angewohnheit, wichtige Menschen — sogar Könige — gerade a
 
 Die Bibel legt auch Gewicht auf die Rolle des Lösers — {{% bible val="den nächsten Verwandten, der einen Angehörigen in Not retten muss" link="lev:25,47-49" lang="de" %}}. Diese Person war dafür verantwortlich, einzuschreiten, sobald ein naher Verwandter in ernsthafte Schwierigkeiten geriet: um {{% bible val="aus der Gefangenschaft zu befreien" link="gen:14" lang="de" %}}, um jemanden aus der Sklaverei freizukaufen, um {{% bible val="verkauften Besitz zurückzukaufen" link="lev:25,25-26" lang="de" %}}, oder um {{% bible val="durch Heirat aus der Not zu holen" link="rut:4" lang="de" %}} und {{% bible val="Nachkommenschaft für eine Witwe zu sichern" link="gen:38,8" lang="de" %}}.
 
-Es ist eine Rolle, die Gott selbst übernimmt: {{% bible val="Gott übernahm" link="isa:44,24-28" lang="de" %}} den Part des Lösers, gerade weil die menschliche Gesellschaft so oft versagte, ihn auszufüllen — und er wird zu {{% bible val="einem Schlüsselthema im christlichen Glauben" link="eph:1,7" lang="de" %}}.
+Es ist eine Rolle, die Gott selbst übernimmt — er nennt sich Israels {{% bible val="Löser" link="isa:44,24" lang="de" %}} —, gerade weil die menschliche Gesellschaft so oft versagte, sie auszufüllen, und sie wird zu {{% bible val="einem Schlüsselthema im christlichen Glauben" link="eph:1,7" lang="de" %}}.
 
 ## Der Patriarch
 
@@ -52,7 +52,7 @@ Der erstgeborene Sohn hatte eine {{% bible val="führende Rolle unter seinen Ges
 
 Aber der älteste Sohn war nicht immer der beste Leiter für eine Familie, und Gott durchbricht wiederholt die erwartete Ordnung — bei {{% bible val="Jakob" link="gen:25,25-26" lang="de" %}}, {{% bible val="Manasse" link="gen:48,13-20" lang="de" %}} und {{% bible val="David" link="1sa:16,1-13" lang="de" %}}, die alle einen älteren Bruder verdrängen.
 
-Eine Frau hingegen befand sich in einer wirklich prekären Lage: Sie gehörte zunächst zur Familie ihres Vaters, wurde dann Ehefrau und trat der Familie ihres Mannes bei, und wurde schließlich nach dem Tod ihres Mannes von ihren Söhnen innerhalb einer von deren Familien versorgt. Die Bibel {{% bible val="zeigt eine Frau, die durch all diese Netze fiel" link="rut:1,1-5" lang="de" %}} — Rut — und dennoch {{% bible val="von ihrem Löser Boas aufgefangen wurde" link="rut:4" lang="de" %}}. Tamar ist ein weiterer solcher Fall: {{% bible val="Tamar, die für gerecht erklärt wird, weil Juda ihr keinen Ehemann gab, der sie durch eine Familie beschützt hätte" link="deu:24,19-21" lang="de" %}}.
+Eine Frau hingegen befand sich in einer wirklich prekären Lage: Sie gehörte zunächst zur Familie ihres Vaters, wurde dann Ehefrau und trat der Familie ihres Mannes bei, und wurde schließlich nach dem Tod ihres Mannes von ihren Söhnen innerhalb einer von deren Familien versorgt. Die Bibel {{% bible val="zeigt eine Frau, die durch all diese Netze fiel" link="rut:1,1-5" lang="de" %}} — Rut — und dennoch {{% bible val="von ihrem Löser Boas aufgefangen wurde" link="rut:4" lang="de" %}}. Tamar ist ein weiterer solcher Fall: {{% bible val="Tamar, die für gerecht erklärt wird, weil Juda ihr keinen Ehemann gab, der sie durch eine Familie beschützt hätte" link="gen:38,26" lang="de" %}} (das Gesetz, das ihr zustand: {{% bible val="5. Mose 25,5–10" link="deu:25,5-10" lang="de" %}}).
 
 ## Das Land
 
