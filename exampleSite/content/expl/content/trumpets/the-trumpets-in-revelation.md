@@ -42,6 +42,23 @@ Sit with that for a moment: it's our prayers that set the trumpets blowing.
 
 That leaves two hard questions the text doesn't resolve for you. First, if the prayers of the saints carry enough weight to trigger something on this scale — weight the text puts alongside the cross and God's own justice in the arrival of his kingdom — that should change how seriously you take your own praying. Second, and harder to sit with: do you actually want your prayers answered the way they're answered here?
 
+## Why the plagues of Egypt?
+
+<a name="e7a1"></a>
+John builds the trumpets out of the plagues of Egypt — hail, water turned to blood, darkness, locusts. That background changes how they should be read.
+
+**They were never mainly about destroying Egyptians.** The plagues were aimed at {{% bible val="the gods of Egypt" link="exo:12,12" lang="en" %}} — the Nile, the sun, the fertile land, each a power Egypt trusted — and their stated purpose was that {{% bible val="the Egyptians will know that I am the LORD" link="exo:7,5" lang="en" %}}. They answered Pharaoh's own question, {{% bible val="Who is the LORD, that I should obey him?" link="exo:5,2" lang="en" %}}, by showing who actually gives water, light and bread. God was presenting himself as the real alternative to everything Egypt relied on.
+
+**They came as warnings, with a way out.** Before the hail, God told the Egyptians to bring their slaves and livestock under shelter, and {{% bible val="those officials who feared the word of the LORD did so" link="exo:9,20-21" lang="en" %}}. When Israel finally left, {{% bible val="many other people went up with them" link="exo:12,38" lang="en" %}}. The trumpets carry the same restraint: they strike a third, not everything — God holding back his wrath to leave room to turn.
+
+**They hardened as much as they opened.** The same signs that brought some Egyptians to fear God hardened Pharaoh. He {{% bible val="admitted that he had sinned" link="exo:9,27" lang="en" %}} while the hail fell, and {{% bible val="hardened his heart again" link="exo:9,34" lang="en" %}} the moment it stopped (see {{% int_link val="the hardening of Pharaoh's heart" link="/expl/bible/exodus/the-hardening-of-pharaohs-heart" %}}). Revelation records the same result: after the sixth trumpet, {{% bible val="the rest of mankind still did not repent" link="rev:9,20-21" lang="en" %}}, and under the bowls people {{% bible val="cursed God and refused to repent" link="rev:16,9-11" lang="en" %}}. Disaster on its own does not change a heart — it shows what is already there.
+
+**God's people are set apart.** From the fourth plague on, {{% bible val="the land of Goshen was spared" link="exo:8,22-23" lang="en" %}}, and in the darkness {{% bible val="all the Israelites had light" link="exo:10,23" lang="en" %}}. The trumpets draw the same line: the locusts may harm only {{% bible val="those who did not have the seal of God on their foreheads" link="rev:9,4" lang="en" %}}.
+
+**What finally brought Israel out was not the plagues but the blood of the lamb.** The tenth night was the Passover. Revelation keeps the same order: after six trumpets without repentance, it is {{% int_link val="the testimony of the two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}} — and the people who {{% bible val="triumphed by the blood of the Lamb and the word of their testimony" link="rev:12,11" lang="en" %}} — that finally move people to give God glory (11:13), as the end of this article shows.
+
+Not every commentator weighs it this way. Beale reads the trumpets, like the plagues, mainly as judgments on people already hardened, with the warning only a secondary purpose that a remnant heeds (Beale, pp. 465–467). This site reads them the other way round, because of the kind of book Revelation is: {{% int_link val="a prophecy and an apocalypse" link="/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy" %}} is written to provoke a decision while there is still time — like {{% bible val="Jonah's warning to Nineveh" link="jon:3,4-10" lang="en" %}}, given so that it would not have to come true. A book written to shake its readers awake gains little from plagues that only confirm a verdict already passed. Both readings agree on everything above; they differ on which purpose comes first.
+
 ## The first four trumpets
 
 <a name="8718"></a>

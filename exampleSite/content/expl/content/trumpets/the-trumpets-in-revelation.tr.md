@@ -42,6 +42,23 @@ Bir an durup düşünün: borazanları çaldıran şey bizim dualarımızdır.
 
 Bu, metnin sizin için çözmediği iki zor soru bırakır geriye. Birincisi: eğer kutsalların duaları bu ölçekte bir şeyi tetikleyecek kadar ağırlık taşıyorsa — metnin bu ağırlığı çarmıhın ve Tanrı'nın krallığının gelişindeki kendi adaletinin yanına koyduğu bir ağırlık — bu, kendi duanızı ne kadar ciddiye aldığınızı değiştirmelidir. İkincisi, ve üzerinde durması daha zor olanı: dualarınızın burada yanıtlandığı şekilde gerçekten yanıtlanmasını istiyor musunuz?
 
+## Neden Mısır'daki belalar?
+
+<a name="e7a1"></a>
+Yuhanna borazanları Mısır'daki belalardan kurar — dolu, kana dönen su, karanlık, çekirgeler. Bu arka plan, onları nasıl okumamız gerektiğini değiştirir.
+
+**Asıl amaç hiçbir zaman Mısırlıları yok etmek değildi.** Belalar {{% bible val="Mısır'ın bütün ilahlarına" link="exo:12,12" lang="tr" %}} yönelikti — Nil, güneş, verimli toprak; Mısır'ın güvendiği her güç — ve açıkça belirtilen amaçları, {{% bible val="Mısırlıların benim RAB olduğumu bilmesi" link="exo:7,5" lang="tr" %}} idi. Firavun'un kendi sorusunu — {{% bible val="RAB kim ki, sözünü dinleyeyim?" link="exo:5,2" lang="tr" %}} — suyu, ışığı ve ekmeği gerçekte kimin verdiğini göstererek yanıtladılar. Tanrı kendini, Mısır'ın dayandığı her şeyin gerçek alternatifi olarak tanıtıyordu.
+
+**Belalar bir çıkış yoluyla birlikte, uyarı olarak geldi.** Doludan önce Tanrı Mısırlılara kölelerini ve hayvanlarını korunaklı yere almalarını söyletti ve {{% bible val="Firavun'un görevlilerinden RAB'bin sözünden korkanlar bunu yaptı" link="exo:9,20-21" lang="tr" %}}. İsrail sonunda çıktığında {{% bible val="onlarla birlikte başka birçok insan da çıktı" link="exo:12,38" lang="tr" %}}. Borazanlar da aynı ölçülülüğü taşır: her şeyi değil, üçte birini vurur — Tanrı, dönüşe yer bırakmak için gazabını tutar.
+
+**Belalar açtıkları kadar katılaştırdı da.** Bazı Mısırlıları Tanrı korkusuna getiren aynı belirtiler Firavun'u katılaştırdı. Dolu yağarken {{% bible val="günah işlediğini itiraf etti" link="exo:9,27" lang="tr" %}}, dolu durur durmaz {{% bible val="yeniden yüreğini katılaştırdı" link="exo:9,34" lang="tr" %}} (bkz. {{% int_link val="Firavun’un yüreğinin katılaşması" link="/expl/bible/exodus/the-hardening-of-pharaohs-heart" %}}). Vahiy aynı sonucu kaydeder: altıncı borazandan sonra {{% bible val="geri kalan insanlar yine de tövbe etmedi" link="rev:9,20-21" lang="tr" %}}, kâselerin altında da insanlar {{% bible val="Tanrı'ya sövdü ve tövbe etmedi" link="rev:16,9-11" lang="tr" %}}. Felaket tek başına bir yüreği değiştirmez — içinde zaten ne olduğunu gösterir.
+
+**Tanrı'nın halkı ayrı tutulur.** Dördüncü beladan itibaren {{% bible val="Goşen bölgesi esirgendi" link="exo:8,22-23" lang="tr" %}}, karanlıkta da {{% bible val="İsraillilerin hepsinin oturduğu yerde ışık vardı" link="exo:10,23" lang="tr" %}}. Borazanlar da aynı çizgiyi çeker: çekirgeler yalnızca {{% bible val="alınlarında Tanrı'nın mührü olmayan insanlara" link="rev:9,4" lang="tr" %}} zarar verebilir.
+
+**İsrail'i sonunda dışarı çıkaran belalar değil, kuzunun kanıydı.** Onuncu gece Fısıh'tı. Vahiy aynı sırayı korur: tövbe getirmeyen altı borazandan sonra, insanları sonunda Tanrı'yı yüceltmeye yönelten {{% int_link val="iki tanığın tanıklığı" link="/expl/content/witnesses/the-two-witnesses" %}} — ve {{% bible val="Kuzu'nun kanı ve tanıklık sözleriyle onu yenenler" link="rev:12,11" lang="tr" %}} — olur (11:13); bu makalenin sonu bunu gösterir.
+
+Her yorumcu bunu böyle tartmaz. Beale borazanları da belalar gibi öncelikle zaten katılaşmış insanlar üzerindeki yargılar olarak okur; uyarı onun için yalnızca bir kalıntının dikkate aldığı ikincil bir amaçtır (Beale, s. 465–467). Bu site onları tersinden okur, çünkü Vahiy'in nasıl bir kitap olduğu bunu gerektirir: {{% int_link val="bir peygamberlik ve bir apokaliptik metin" link="/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy" %}}, henüz zaman varken bir karar kışkırtmak için yazılır — {{% bible val="Yunus'un Ninova'ya uyarısı" link="jon:3,4-10" lang="tr" %}} gibi; o uyarı, gerçekleşmek zorunda kalmasın diye yapılmıştı. Okurlarını uyandırmak için yazılmış bir kitap, yalnızca zaten verilmiş bir hükmü onaylayan belalardan pek bir şey kazanmaz. İki okuma da yukarıdaki her şeyde uzlaşır; hangi amacın önce geldiği konusunda ayrılır.
+
 ## İlk dört borazan
 
 <a name="c8ff"></a>
