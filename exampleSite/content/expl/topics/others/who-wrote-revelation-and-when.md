@@ -9,6 +9,8 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources: 
     - pages: 4–27, 34–36
       ref: beale_rev
+    - pages: l–lxx
+      ref: aune_rev
 ---
 
 Every article on this site assumes an author and a date for the book of Revelation, even when it doesn't say so out loud. Both are disputed among serious, faithful scholars — so it's worth stating plainly what this site assumes, why, and what would actually change if you assumed something else instead.

@@ -12,6 +12,10 @@ appl: /appl/content/beasts
 sources: 
     - pages: 682–684
       ref: beale_rev
+    - pages: 711, 717
+      ref: beale_rev
+    - pages: 660, 733, 756, 764
+      ref: aune_rev
 ---
 
 Der Drache und die beiden Tiere in der Offenbarung werden meist auf eine von zwei Arten gedeutet: entweder als rein abstrakte böse Mächte, oder durch sehr „kreative” Spekulation über aktuelle Ereignisse. Wer sind sie wirklich?

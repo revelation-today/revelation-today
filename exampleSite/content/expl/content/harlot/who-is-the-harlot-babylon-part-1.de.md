@@ -20,6 +20,8 @@ deeper:
 sources: 
     - pages: 847–890
       ref: beale_rev
+    - pages: 21, 875
+      ref: beale_rev
 readBefore:
     - name: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation

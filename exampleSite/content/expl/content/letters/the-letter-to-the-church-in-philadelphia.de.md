@@ -14,6 +14,8 @@ sources:
       ref: beale_rev
     - pages: 50-51
       ref: fee_rev
+    - pages: 231, 234, 238, 244
+      ref: aune_rev
 ---
 
 {{% bible val="Philadelphia" link="rev:3,7-13" lang="de" %}} ist die Stadt, die den Schlüssel Davids hält. Welche Türen öffnet dieser Schlüssel - Evangelisation, Gelegenheiten, Beziehungen, oder etwas ganz anderes? Lies weiter, und du wirst sehen, warum dies eine Gemeinde ist, die Jesus nie zurechtweist.

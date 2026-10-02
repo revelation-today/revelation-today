@@ -8,6 +8,9 @@ prev: /expl/content/paradise/the-new-jerusalem
 next: /expl/topics/others/dispensionalism-a-little-history
 docType: expl
 appl: /appl/content/paradise
+sources:
+    - pages: 1081
+      ref: beale_rev
 ---
 
 Apakah surga dan neraka itu? Apakah semua orang masuk surga? Bagaimana mungkin Allah yang baik mengirim orang ke neraka?

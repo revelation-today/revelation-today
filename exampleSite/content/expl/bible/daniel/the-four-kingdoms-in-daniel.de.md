@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 38–46
       ref: dabar_daniel
+    - pages: 221, 259, 633, 683, 687, 708
+      ref: beale_rev
 ---
 
 Das Buch Daniel scheint die Quelle vieler endzeitlicher Auslegungen zu sein. Schauen wir uns genauer an, worum es dabei eigentlich geht, und beginnen wir mit den Grundlagen.

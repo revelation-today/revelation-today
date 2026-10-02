@@ -15,6 +15,8 @@ sources:
       ref: bauckham_rev
     - pages: 283–307
       ref: bauckham_climax
+    - pages: 240, 262
+      ref: bauckham_climax
 readBefore:
     - name: "İkinci Çıkış"
       link:  /expl/background/israel/the-second-exodus

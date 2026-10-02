@@ -20,6 +20,8 @@ sources:
       ref: beale_rev
     - pages: 224-225
       ref: fee_rev
+    - pages: 898–899
+      ref: aune_rev
 ---
 
 Armageddon: Dünyayı yok edecek bir felaket mi? Hayır - çünkü bu ismin ardında ne tür bir gerçek coğrafya olursa olsun, Yuhanna bunu gerçek bir savaş alanını işaret etmek için değil, bir simge olarak kullanıyor. Nedenini mi merak ediyorsunuz? Okumaya devam edin.

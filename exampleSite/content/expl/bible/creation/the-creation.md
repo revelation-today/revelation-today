@@ -5,6 +5,11 @@ base: /quick/bible/creation
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/bible/creation/the-temple-and-the-presence-of-god
 docType: expl
+sources:
+    - pages: 22, 25, 30
+      ref: brueggemann_gen
+    - pages: "vol. 11: 16"
+      ref: tdot
 ---
 
 To understand the end of the Bible, you have to understand its beginning. Did you know that the tree of life from the story of the Fall, and the sign given to Cain, both reappear in the book of Revelation?

@@ -12,6 +12,8 @@ appl: /appl/content/beasts
 sources:
     - pages: 384–452
       ref: bauckham_climax
+    - pages: 724, 727, 729, 875
+      ref: beale_rev
 ---
 
 {{% bible val="Die magische Zahl des Tieres" link="rev:13,18" lang="de" %}} wurde — meiner Meinung nach zu Unrecht — benutzt, um mit diesem oder jenem Zahlenschema die aktuelle Politik zu entschlüsseln. Die wirkliche Antwort findet man nicht durch die Suche außerhalb des Textes — sie steht bereits in der Bibel selbst.

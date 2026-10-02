@@ -15,6 +15,8 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
+    - pages: 465, 481
+      ref: beale_rev
 ---
 
 Ini adalah kisah yang mungkin pernah Anda dengar di sekolah minggu, tetapi ada jauh lebih banyak yang dapat ditemukan di dalamnya daripada yang mungkin pernah Anda dengar sebelumnya.

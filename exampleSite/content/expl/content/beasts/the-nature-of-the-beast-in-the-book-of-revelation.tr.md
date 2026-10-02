@@ -22,6 +22,10 @@ sources:
       ref: beale_rev
     - pages: 88–94
       ref: bauckham_rev
+    - pages: 189–190
+      ref: bauckham_climax
+    - pages: 37, 100
+      ref: bauckham_rev
 readBefore:
     - name: "Pax Romana — vahiy kitabını anlamak için anahtar"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation

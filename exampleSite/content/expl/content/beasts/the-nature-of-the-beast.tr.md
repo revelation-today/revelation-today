@@ -8,6 +8,9 @@ prev: /expl/content/beasts/666-the-number-of-the-beast
 next: /expl/content/harvest/gods-army-and-the-seven-angels
 docType: expl
 appl: /appl/content/beasts
+sources:
+    - pages: 729
+      ref: beale_rev
 ---
 
 Şeytan ve bütün uşakları Vahiy kitabında oldukça fazla yer kaplar; bu çalışma da bu konuya epeyce makale ayırdı. Neden peki? Bu çabanın Tanrı'yı betimlemeye gitmesi gerekmez mi? Bunun bir nedeni var.

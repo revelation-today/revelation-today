@@ -13,6 +13,11 @@ deeper:
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Gods covenant
       link:  /expl/background/israel/gods-covenant
+sources:
+    - pages: 225–227
+      ref: beale_rev
+    - pages: 12
+      ref: bauckham_rev
 ---
 
 The book of Revelation includes seven letters to seven specific churches. What is the purpose of these letters, how are they arranged, and what is the overall message?

@@ -6,6 +6,10 @@ sources:
       ref: beale_rev
     - pages: 77–78
       ref: beale_rev
+    - pages: 217
+      ref: bauckham_climax
+    - pages: 54
+      ref: beale_rev
 prev: /expl/background/literature/preterist-historicist-futurist-or-idealist
 next: /expl/background/literature/literary-tools-in-the-book-of-revelation
 docType: expl

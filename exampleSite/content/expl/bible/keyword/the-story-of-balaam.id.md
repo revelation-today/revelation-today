@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 249
       ref: beale_rev
+    - pages: 188, 194
+      ref: aune_rev
 ---
 
 Anda tahu kisah Bileam dan keledainya — tetapi tahukah Anda mengapa dan bagaimana Bileam menyesatkan Israel ke dalam penyembahan berhala?

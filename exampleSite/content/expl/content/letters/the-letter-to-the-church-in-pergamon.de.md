@@ -17,6 +17,8 @@ sources:
       ref: beale_rev
     - pages: 33
       ref: fee_rev
+    - pages: 180, 182, 188
+      ref: aune_rev
 ---
 
 Diese Gemeinde steht kurz davor zu scheitern, und obwohl es so aussieht, als sei Bileam schuld, ist er nicht wirklich das Problem.

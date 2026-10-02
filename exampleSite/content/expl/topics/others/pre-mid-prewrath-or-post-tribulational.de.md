@@ -10,6 +10,8 @@ sources:
     - pages: 173-186
       ref: rossing
     - ref: rapture_views
+    - pages: 46–47
+      ref: beale_rev
 ---
 
 {{% int_link val="Der vorherige Artikel" link="/expl/topics/others/the-rapture" %}} argumentierte, dass keiner der üblichen Belegtexte tatsächlich beschreibt, wie Gläubige heimlich in den Himmel entrückt werden. Es lohnt sich aber, die Debatte auch auf ihren eigenen Begriffen zu verstehen, denn Leser, die irgendeine Form der Entrückung akzeptieren, sind sich immer noch stark uneinig darüber, *wann* sie im Verhältnis zu einer kommenden Trübsalszeit geschieht. Vier Positionen beherrschen diese Diskussion, gewöhnlich prätribulational, midtribulational, vor dem Zorn (pre-wrath) und posttribulational genannt — benannt danach, wo jede die Entrückung im Verhältnis zu einer künftigen siebenjährigen Periode verortet, die aus {{% bible val="Daniels siebzigster Jahrwoche" link="dan:9,27" lang="de" %}} abgeleitet wird.

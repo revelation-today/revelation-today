@@ -6,6 +6,9 @@ prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /welcome/done
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
+sources:
+    - pages: 8, 58–63
+      ref: bauckham_rev
 ---
 
 Kitab Wahyu penuh dengan gambaran-gambaran penghakiman, dan sepintas dapat terkesan seolah-olah seluruh maksudnya adalah untuk menakut-nakuti orang-orang yang tidak percaya agar bertobat. Namun kesan itu ternyata keliru, hampir dalam setiap seginya.

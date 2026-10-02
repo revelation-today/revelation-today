@@ -15,6 +15,14 @@ sources:
       ref: aune_rev
     - pages: 249
       ref: beale_rev
+    - pages: 6–7, 15, 896
+      ref: beale_rev
+    - pages: lxvii, 139
+      ref: aune_rev
+    - pages: 347
+      ref: bauckham_climax
+    - pages: 8, 17
+      ref: bauckham_rev
 prev: /about/ressources
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl

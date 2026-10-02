@@ -14,6 +14,8 @@ sources:
       ref: beale_rev
     - pages: 37–38
       ref: fee_rev
+    - pages: 145–146, 201
+      ref: aune_rev
 ---
 
 Apa yang harus dilakukan terhadap sebuah jemaat yang masalahnya adalah kepemimpinannya sendiri? Inilah persis keadaan yang dibahas dalam surat kepada Tiatira.

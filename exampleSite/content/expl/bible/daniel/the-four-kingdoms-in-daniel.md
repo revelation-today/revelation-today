@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 38–46
       ref: dabar_daniel
+    - pages: 221, 259, 633, 683, 687, 708
+      ref: beale_rev
 ---
 
 The book of Daniel seems to be the source of many end-time interpretations. Let's take a closer look at what this is all about, starting with the basics.

@@ -5,6 +5,9 @@ prev: /expl/background/israel/gods-covenant
 next: /expl/background/israel/the-remnant-of-israel
 docType: expl
 appl: /appl/background/israel
+sources:
+    - pages: 19, 37–39, 203
+      ref: beale_rev
 ---
 
 {{< callout type="info" >}}

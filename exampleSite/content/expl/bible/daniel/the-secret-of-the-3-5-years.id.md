@@ -8,6 +8,10 @@ docType: expl
 sources:
     - pages: 400–402
       ref: bauckham_climax
+    - pages: 565–567, 669
+      ref: beale_rev
+    - pages: 275
+      ref: bauckham_climax
 ---
 
 Kitab Wahyu penuh dengan rentang waktu yang aneh — 1260 hari, 42 bulan, dan seterusnya. Apa artinya semua ini, dan haruskah dipahami secara harfiah?

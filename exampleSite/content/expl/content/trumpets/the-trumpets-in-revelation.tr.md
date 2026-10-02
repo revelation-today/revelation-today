@@ -18,6 +18,8 @@ deeper:
 sources: 
     - pages: 445–520
       ref: beale_rev
+    - pages: 12–14, 70, 277–283
+      ref: bauckham_climax
 ---
 
 Vahiy 8-9 modern felaket haberleri gibi okunur, ama Yuhanna yeni bir şeyden söz etmiyor — yeni bir imparatorluk ve yeni bir Firavun için {{% int_link val="Mısır'daki belaları" link="/expl/bible/exodus/the-plagues-in-egypt" %}} yeniden sahneliyor.

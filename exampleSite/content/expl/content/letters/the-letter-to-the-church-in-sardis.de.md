@@ -12,6 +12,8 @@ sources:
       ref: beale_rev
     - pages: 44–45
       ref: fee_rev
+    - pages: 160, 218
+      ref: aune_rev
 ---
 
 Wie sieht eine tote Gemeinde aus, und wie haucht man ihr neues Leben ein? Der {{% bible val="Brief an Sardis" link="rev:3,1-6" lang="de" %}} beantwortet beide Fragen.

@@ -13,6 +13,11 @@ deeper:
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Perjanjian Allah
       link:  /expl/background/israel/gods-covenant
+sources:
+    - pages: 225–227
+      ref: beale_rev
+    - pages: 12
+      ref: bauckham_rev
 ---
 
 Kitab Wahyu memuat tujuh surat kepada tujuh jemaat tertentu. Apa tujuan surat-surat ini, bagaimana susunannya, dan apa pesan keseluruhannya?

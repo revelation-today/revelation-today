@@ -18,6 +18,10 @@ deeper:
 sources: 
     - pages: 847–890
       ref: beale_rev
+    - pages: 886
+      ref: beale_rev
+    - pages: 346–347, 370
+      ref: bauckham_climax
 ---
 
 Die Hure Babel zu verstehen ist etwas komplex, wie wir in Teil 1 gesehen haben, aber hier in Teil 2 fügen sich die Teile allmählich zusammen.

@@ -9,6 +9,10 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources: 
     - pages: 173-186
       ref: rossing
+    - pages: 231
+      ref: aune_rev
+    - pages: 47, 290–292
+      ref: beale_rev
 ---
 
 Die Entrückung ist ein faszinierendes Thema. Sie hat die Phantasie vieler Menschen beflügelt und noch mehr Menschen erschreckt. Aber was ist die Entrückung eigentlich? Ist sie biblisch? Und was würde sie für Gläubige bedeuten, wenn sie zuträfe?

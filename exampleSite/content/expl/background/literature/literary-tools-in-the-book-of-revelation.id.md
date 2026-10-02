@@ -10,6 +10,12 @@ sources:
       ref: bauckham_climax
     - pages: 116–124
       ref: beale_rev
+    - pages: 134, 226–227, 994
+      ref: beale_rev
+    - pages: 12, 14
+      ref: bauckham_rev
+    - pages: 248
+      ref: dorsey
 prev: /expl/background/literature/full-of-biblical-references
 next: /expl/background/structure/the-structure-of-the-book-of-revelation
 docType: expl

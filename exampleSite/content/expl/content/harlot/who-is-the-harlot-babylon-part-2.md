@@ -18,6 +18,10 @@ deeper:
 sources: 
     - pages: 847–890
       ref: beale_rev
+    - pages: 886
+      ref: beale_rev
+    - pages: 346–347, 370
+      ref: bauckham_climax
 ---
 
 Understanding the Harlot Babylon is a bit complex, as we saw in part 1, but the pieces start falling into place here in part 2.

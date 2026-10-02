@@ -9,6 +9,10 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources: 
     - pages: 173-186
       ref: rossing
+    - pages: 231
+      ref: aune_rev
+    - pages: 47, 290–292
+      ref: beale_rev
 ---
 
 The rapture is a fascinating subject. It has captured the imagination of many people and frightened even more. But what is the rapture, actually? Is it biblical? And what would it mean for believers if it were true?

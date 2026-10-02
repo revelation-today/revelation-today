@@ -5,6 +5,9 @@ base: /quick/bible/daniel
 prev: /expl/bible/keyword/the-story-of-balaam
 next: /expl/bible/daniel/the-book-of-daniel
 docType: expl
+sources:
+    - pages: 90–91, 334, 922
+      ref: beale_rev
 ---
 
 Kisah Menara Babel, kisah nabi Daniel, dan Kitab Wahyu ternyata saling berkaitan. Berikut penjelasannya.

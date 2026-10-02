@@ -8,6 +8,8 @@ sources:
       ref: beale_rev
     - pages: 217
       ref: bauckham_climax
+    - pages: 19
+      ref: beale_rev
 prev: /expl/background/israel/jesus-and-the-covenant
 next: /expl/background/israel/the-church-is-part-of-israel
 docType: expl

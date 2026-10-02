@@ -9,6 +9,8 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources: 
     - pages: 4–27, 34–36
       ref: beale_rev
+    - pages: l–lxx
+      ref: aune_rev
 ---
 
 Jeder Artikel auf dieser Seite setzt einen Autor und eine Entstehungszeit für das Buch der Offenbarung voraus, auch wenn das nicht immer ausgesprochen wird. Beides ist unter ernsthaften, gläubigen Gelehrten umstritten — deshalb lohnt es sich, offen zu sagen, wovon diese Seite ausgeht, warum, und was sich tatsächlich ändern würde, wenn man etwas anderes annähme.

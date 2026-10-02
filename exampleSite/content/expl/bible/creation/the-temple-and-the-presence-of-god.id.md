@@ -7,6 +7,8 @@ next: /expl/bible/creation/the-story-of-uzzah
 docType: expl
 sources:
     - ref: beale_dwell
+    - pages: 236, 1081
+      ref: beale_rev
 ---
 
 Ketika kita memikirkan tentang bait Allah dalam Alkitab, biasanya kita mulai dengan Salomo — atau dengan Musa, jika kita kembali ke Kemah Suci — dan berakhir dengan kehancurannya oleh orang Romawi pada tahun 70 M, atau mungkin dengan pembuangan ke Babel pada tahun 587 SM.

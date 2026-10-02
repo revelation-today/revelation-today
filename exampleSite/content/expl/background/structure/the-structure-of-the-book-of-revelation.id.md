@@ -13,6 +13,10 @@ sources:
       ref: beale_rev
     - pages: 9–14
       ref: bauckham_climax
+    - pages: 8, 82
+      ref: bauckham_climax
+    - pages: 12
+      ref: bauckham_rev
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl

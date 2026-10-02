@@ -18,6 +18,8 @@ deeper:
 sources: 
     - pages: 445–520
       ref: beale_rev
+    - pages: 12–14, 70, 277–283
+      ref: bauckham_climax
 ---
 
 Offenbarung 8–9 liest sich wie moderne Katastrophenschlagzeilen, doch Johannes beschreibt nichts Neues — er lässt die {{% int_link val="Plagen in Ägypten" link="/expl/bible/exodus/the-plagues-in-egypt" %}} für ein neues Weltreich und einen neuen Pharao noch einmal ablaufen.

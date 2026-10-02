@@ -9,6 +9,8 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources: 
     - pages: 4–27, 34–36
       ref: beale_rev
+    - pages: l–lxx
+      ref: aune_rev
 ---
 
 Bu sitedeki her makale, açıkça söylenmese bile, Vahiy kitabı için bir yazar ve bir tarih varsayar. Her ikisi de ciddi, imanlı bilim insanları arasında tartışmalıdır — bu yüzden bu sitenin neyi varsaydığını, nedenini ve başka bir şey varsayılsaydı gerçekte neyin değişeceğini açıkça belirtmekte fayda var.

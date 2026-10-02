@@ -6,6 +6,9 @@ prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /welcome/done
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
+sources:
+    - pages: 8, 58–63
+      ref: bauckham_rev
 ---
 
 Die Offenbarung ist voller Beschreibungen von Gericht, und auf den ersten Blick kann es so wirken, als bestehe der ganze Sinn darin, Ungläubige durch Angst zur Umkehr zu bewegen. Dieser Eindruck erweist sich jedoch bei genauerem Hinsehen fast durchweg als falsch.

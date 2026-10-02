@@ -12,6 +12,10 @@ appl: /appl/content/beasts
 sources: 
     - pages: 682–684
       ref: beale_rev
+    - pages: 711, 717
+      ref: beale_rev
+    - pages: 660, 733, 756, 764
+      ref: aune_rev
 ---
 
 The dragon and the two beasts in the book of Revelation are usually interpreted in one of two ways: either as purely abstract evil forces, or through very "creative" speculation about current events. Who are they really?

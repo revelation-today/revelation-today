@@ -12,6 +12,8 @@ sources:
       ref: beale_rev
     - pages: 44–45
       ref: fee_rev
+    - pages: 160, 218
+      ref: aune_rev
 ---
 
 Seperti apa rupa sebuah jemaat yang mati, dan bagaimana caranya menyuntikkan kehidupan baru ke dalamnya? {{% bible val="Surat kepada Sardis" link="rev:3,1-6" lang="ind" %}} menjawab kedua pertanyaan itu.

@@ -6,6 +6,8 @@ sources:
       ref: beale_rev
     - pages: 171
       ref: aune_rev
+    - pages: 31
+      ref: beale_rev
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/content/vision/setting-the-foundation
 docType: expl

@@ -14,6 +14,8 @@ sources:
       ref: beale_rev
     - pages: 50-51
       ref: fee_rev
+    - pages: 231, 234, 238, 244
+      ref: aune_rev
 ---
 
 {{% bible val="Filadelfia" link="rev:3,7-13" lang="ind" %}} adalah kota yang memegang kunci Daud. Pintu apa yang dibuka oleh kunci itu - penginjilan, kesempatan, hubungan, atau sesuatu yang sama sekali lain? Bacalah terus, dan kamu akan melihat mengapa inilah satu-satunya jemaat yang tidak pernah ditegur Yesus.

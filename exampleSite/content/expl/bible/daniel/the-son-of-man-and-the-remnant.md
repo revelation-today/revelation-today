@@ -8,6 +8,10 @@ docType: expl
 sources:
     - pages: 393–428
       ref: beale_theo
+    - pages: 221
+      ref: beale_rev
+    - pages: "vol. 16: 1073"
+      ref: tdot
 ---
 
 Jesus calls himself by only one title: the "Son of Man." Why that title, and what does it mean?

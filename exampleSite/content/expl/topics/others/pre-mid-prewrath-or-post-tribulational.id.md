@@ -10,6 +10,8 @@ sources:
     - pages: 173-186
       ref: rossing
     - ref: rapture_views
+    - pages: 46–47
+      ref: beale_rev
 ---
 
 {{% int_link val="Artikel sebelumnya" link="/expl/topics/others/the-rapture" %}} berargumen bahwa tidak satu pun ayat pembuktian yang biasa dipakai sesungguhnya menggambarkan orang percaya diangkat diam-diam ke surga. Tetapi ada baiknya juga memahami perdebatan ini menurut istilah-istilahnya sendiri, sebab pembaca yang menerima suatu bentuk pengangkatan pun masih berbeda pendapat tajam tentang *kapan* hal itu terjadi dalam hubungannya dengan sebuah masa tribulasi yang akan datang. Empat posisi mendominasi diskusi ini, biasa disebut pratribulasi, pertengahan tribulasi, pra-murka, dan pascatribulasi — dinamai menurut di mana masing-masing menempatkan pengangkatan dalam hubungannya dengan sebuah periode tujuh tahun di masa depan yang diambil dari {{% bible val="tujuh puluh masa Daniel" link="dan:9,27" lang="ind" %}}.

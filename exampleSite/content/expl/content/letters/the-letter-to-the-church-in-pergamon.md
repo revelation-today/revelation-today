@@ -17,6 +17,8 @@ sources:
       ref: beale_rev
     - pages: 33
       ref: fee_rev
+    - pages: 180, 182, 188
+      ref: aune_rev
 ---
 
 This church is on the verge of failing, and although it looks like Balaam is to blame, he isn't really the problem.

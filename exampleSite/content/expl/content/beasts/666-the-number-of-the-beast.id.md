@@ -12,6 +12,8 @@ appl: /appl/content/beasts
 sources:
     - pages: 384–452
       ref: bauckham_climax
+    - pages: 724, 727, 729, 875
+      ref: beale_rev
 ---
 
 {{% bible val="Angka ajaib dari binatang itu" link="rev:13,18" lang="ind" %}} telah digunakan, menurut saya secara keliru, untuk membaca politik masa kini melalui satu atau lain skema penomoran. Jawaban yang sesungguhnya tidak ditemukan dengan berburu di luar teks — jawaban itu sudah ada di dalam Alkitab sendiri.

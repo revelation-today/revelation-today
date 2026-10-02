@@ -14,6 +14,8 @@ sources:
       ref: beale_rev
     - pages: 50-51
       ref: fee_rev
+    - pages: 231, 234, 238, 244
+      ref: aune_rev
 ---
 
 {{% bible val="Philadelphia" link="rev:3,7-13" lang="en" %}} is the city holding the key of David. What doors does that key open — evangelism, opportunity, relationships, or something else entirely? Read on, and you'll see why this is one church Jesus never chastises.

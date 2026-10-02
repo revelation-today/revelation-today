@@ -14,6 +14,8 @@ sources:
       ref: beale_rev
     - pages: 29–30
       ref: fee_rev
+    - pages: 160
+      ref: aune_rev
 ---
 
 Apakah kamu mengenal Smirna? Sebaiknya kamu mengenalnya - di sanalah terdapat sebuah jemaat yang tidak bercela, meskipun ketidakbercelaan itu mungkin tidak terlihat semenarik yang kamu bayangkan.

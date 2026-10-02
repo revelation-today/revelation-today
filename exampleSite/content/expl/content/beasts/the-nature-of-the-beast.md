@@ -8,6 +8,9 @@ prev: /expl/content/beasts/666-the-number-of-the-beast
 next: /expl/content/harvest/gods-army-and-the-seven-angels
 docType: expl
 appl: /appl/content/beasts
+sources:
+    - pages: 729
+      ref: beale_rev
 ---
 
 The devil and all his minions take up quite a bit of space in the book of Revelation, and this study has spent quite a few articles on the subject too. Why is that? Shouldn't the effort go toward describing God instead? There is a reason.

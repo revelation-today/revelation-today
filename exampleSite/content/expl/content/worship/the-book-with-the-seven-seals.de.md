@@ -11,6 +11,12 @@ appl: /appl/content/worship
 sources: 
     - pages: 337–369
       ref: beale_rev
+    - pages: 70–83
+      ref: bauckham_climax
+    - pages: 450
+      ref: beale_rev
+    - pages: 342
+      ref: aune_rev
 deeper:
     - name: Der zweite Auszug
       link:  /expl/background/israel/the-second-exodus

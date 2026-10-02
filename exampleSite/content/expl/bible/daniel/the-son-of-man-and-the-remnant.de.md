@@ -8,6 +8,10 @@ docType: expl
 sources:
     - pages: 393–428
       ref: beale_theo
+    - pages: 221
+      ref: beale_rev
+    - pages: "vol. 16: 1073"
+      ref: tdot
 ---
 
 Jesus nennt sich selbst nur mit einem einzigen Titel: „Menschensohn“. Warum dieser Titel, und was bedeutet er?

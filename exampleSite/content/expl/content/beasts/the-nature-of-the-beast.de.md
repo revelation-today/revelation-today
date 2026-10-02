@@ -8,6 +8,9 @@ prev: /expl/content/beasts/666-the-number-of-the-beast
 next: /expl/content/harvest/gods-army-and-the-seven-angels
 docType: expl
 appl: /appl/content/beasts
+sources:
+    - pages: 729
+      ref: beale_rev
 ---
 
 Der Teufel und all seine Helfer nehmen in der Offenbarung ziemlich viel Raum ein, und auch diese Artikelreihe hat ihm schon einige Artikel gewidmet. Warum eigentlich? Sollte die Mühe nicht besser in die Beschreibung Gottes fließen? Es gibt einen guten Grund dafür.

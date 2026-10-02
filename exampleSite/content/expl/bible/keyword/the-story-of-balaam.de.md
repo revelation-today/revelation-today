@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 249
       ref: beale_rev
+    - pages: 188, 194
+      ref: aune_rev
 ---
 
 Du kennst die Geschichte von Bileam und dem Esel — aber weißt du auch, warum und wie Bileam Israel zum Götzendienst verführte?

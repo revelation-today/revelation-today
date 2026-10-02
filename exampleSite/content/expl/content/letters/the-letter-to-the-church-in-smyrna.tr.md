@@ -14,6 +14,8 @@ sources:
       ref: beale_rev
     - pages: 29–30
       ref: fee_rev
+    - pages: 160
+      ref: aune_rev
 ---
 
 İzmir'i tanır mısınız? Tanımalısınız — orada, kusursuzluğu beklediğiniz kadar davetkâr görünmese de, suçlanmamış bir kilise bulacaksınız.

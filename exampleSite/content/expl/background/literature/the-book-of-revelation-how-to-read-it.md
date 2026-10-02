@@ -9,6 +9,12 @@ deeper:
 sources:
     - pages: 10–56
       ref: goreman
+    - pages: 2, 8, 12–14, 17, 148–149
+      ref: bauckham_rev
+    - pages: liv, lxxviii
+      ref: aune_rev
+    - pages: 40, 52
+      ref: beale_rev
 prev: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 next: /expl/background/literature/literally-or-symbolic
 docType: expl

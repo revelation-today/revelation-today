@@ -13,6 +13,11 @@ deeper:
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Der Bund Gottes
       link:  /expl/background/israel/gods-covenant
+sources:
+    - pages: 225–227
+      ref: beale_rev
+    - pages: 12
+      ref: bauckham_rev
 ---
 
 Das Buch der Offenbarung enthält sieben Sendschreiben an sieben bestimmte Gemeinden. Was ist der Zweck dieser Briefe, wie sind sie aufgebaut, und was ist die übergeordnete Botschaft?

@@ -7,6 +7,8 @@ next: /expl/bible/daniel/the-four-kingdoms-in-daniel
 docType: expl
 sources:
     - ref: daniel
+    - pages: 566
+      ref: beale_rev
 ---
 
 Das Buch Daniel scheint zwei Seiten zu haben: Die ersten sechs Kapitel lesen sich wie ein großartiges Beispiel für Glauben, während die anderen sechs voller merkwürdiger Visionen sind, die zum Nährboden für so manche merkwürdige Theologie geworden sind. Doch die beiden Hälften hängen enger zusammen, als es zunächst scheint.

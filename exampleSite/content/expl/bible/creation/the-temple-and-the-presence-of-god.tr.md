@@ -7,6 +7,8 @@ next: /expl/bible/creation/the-story-of-uzzah
 docType: expl
 sources:
     - ref: beale_dwell
+    - pages: 236, 1081
+      ref: beale_rev
 ---
 
 Kutsal Kitap'taki tapınağı düşündüğümüzde, genellikle Süleyman'dan — ya da Buluşma Çadırı'na kadar geri gidersek Musa'dan — başlarız ve MS 70'te Romalılar tarafından yıkılmasıyla, ya da belki MÖ 587'deki Babil sürgünüyle bitiririz.

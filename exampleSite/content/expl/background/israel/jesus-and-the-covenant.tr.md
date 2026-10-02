@@ -5,6 +5,9 @@ prev: /expl/background/israel/the-remnant-of-israel
 next: /expl/background/israel/the-second-exodus
 docType: expl
 appl: /appl/background/israel
+sources:
+    - pages: 37–39
+      ref: beale_rev
 ---
 
 {{< callout type="info" >}}

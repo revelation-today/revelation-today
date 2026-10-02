@@ -18,6 +18,10 @@ deeper:
 sources: 
     - pages: 847–890
       ref: beale_rev
+    - pages: 886
+      ref: beale_rev
+    - pages: 346–347, 370
+      ref: bauckham_climax
 ---
 
 Memahami sang pelacur Babel memang sedikit rumit, seperti yang telah kita lihat pada bagian 1, tetapi di bagian 2 ini semua kepingan itu mulai menyatu.

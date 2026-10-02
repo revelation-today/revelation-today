@@ -14,6 +14,8 @@ sources:
       ref: beale_rev
     - pages: 37–38
       ref: fee_rev
+    - pages: 145–146, 201
+      ref: aune_rev
 ---
 
 What do you do with a church whose problem is its own leadership? This is exactly the situation the letter to Thyatira addresses.

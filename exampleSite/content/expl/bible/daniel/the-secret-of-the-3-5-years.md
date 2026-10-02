@@ -8,6 +8,10 @@ docType: expl
 sources:
     - pages: 400–402
       ref: bauckham_climax
+    - pages: 565–567, 669
+      ref: beale_rev
+    - pages: 275
+      ref: bauckham_climax
 ---
 
 The book of Revelation is full of strange time periods — 1260 days, 42 months, and so on. What do they mean, and are they meant to be taken literally?

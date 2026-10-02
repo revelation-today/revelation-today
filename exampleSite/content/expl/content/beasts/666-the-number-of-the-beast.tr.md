@@ -12,6 +12,8 @@ appl: /appl/content/beasts
 sources:
     - pages: 384–452
       ref: bauckham_climax
+    - pages: 724, 727, 729, 875
+      ref: beale_rev
 ---
 
 {{% bible val="Canavarın sihirli sayısı" link="rev:13,18" lang="tr" %}}, bana kalırsa yanlış bir şekilde, şu ya da bu numaralandırma şemasıyla güncel siyaseti çözmek için kullanılıp durdu. Gerçek yanıt metnin dışında aranarak bulunmaz — zaten Kutsal Kitap'ın kendisinde durur.

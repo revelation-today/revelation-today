@@ -15,6 +15,8 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
+    - pages: 465, 481
+      ref: beale_rev
 ---
 
 This is a story you likely heard in Sunday School, but there is much more to discover in it than you may have heard before.

@@ -12,6 +12,10 @@ appl: /appl/content/beasts
 sources: 
     - pages: 682–684
       ref: beale_rev
+    - pages: 711, 717
+      ref: beale_rev
+    - pages: 660, 733, 756, 764
+      ref: aune_rev
 ---
 
 Vahiy kitabındaki ejderha ve iki canavar genellikle iki şekilden birine göre yorumlanır: ya tamamen soyut kötü güçler olarak, ya da güncel olaylar üzerine oldukça "yaratıcı" spekülasyonlar yoluyla. Peki gerçekte kimdirler?

@@ -15,6 +15,8 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
+    - pages: 465, 481
+      ref: beale_rev
 ---
 
 Bu, muhtemelen Pazar okulunda duyduğunuz bir öykü, ama içinde daha önce hiç duymamış olabileceğiniz çok daha fazlası var.

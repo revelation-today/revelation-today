@@ -5,6 +5,9 @@ base: /quick/bible/daniel
 prev: /expl/bible/keyword/the-story-of-balaam
 next: /expl/bible/daniel/the-book-of-daniel
 docType: expl
+sources:
+    - pages: 90–91, 334, 922
+      ref: beale_rev
 ---
 
 Die Geschichte vom Turmbau zu Babel, die Geschichte des Propheten Daniel und das Buch der Offenbarung erweisen sich als miteinander verknüpft. Hier siehst du, wie.

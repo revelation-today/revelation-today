@@ -8,6 +8,10 @@ docType: expl
 sources:
     - pages: 393–428
       ref: beale_theo
+    - pages: 221
+      ref: beale_rev
+    - pages: "vol. 16: 1073"
+      ref: tdot
 ---
 
 Yesus menyebut diri-Nya sendiri hanya dengan satu gelar: "Anak Manusia." Mengapa gelar itu, dan apa maknanya?

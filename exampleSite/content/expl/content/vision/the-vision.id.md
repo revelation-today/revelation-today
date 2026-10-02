@@ -7,6 +7,8 @@ story_anchor: vision
 sources: 
     - pages: 205–222
       ref: beale_rev
+    - pages: l–lvi
+      ref: aune_rev
 prev: /expl/content/vision/setting-the-foundation
 next: /expl/content/letters/the-angel-of-the-churches
 docType: expl

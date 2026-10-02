@@ -15,6 +15,8 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
+    - pages: 465, 481
+      ref: beale_rev
 ---
 
 Diese Geschichte hast du wahrscheinlich schon im Kindergottesdienst gehört, aber es gibt darin viel mehr zu entdecken, als du bisher vielleicht wahrgenommen hast.

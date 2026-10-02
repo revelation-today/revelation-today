@@ -7,6 +7,8 @@ next: /expl/bible/creation/the-story-of-uzzah
 docType: expl
 sources:
     - ref: beale_dwell
+    - pages: 236, 1081
+      ref: beale_rev
 ---
 
 Wenn wir an den Tempel in der Bibel denken, beginnen wir meist bei Salomo — oder bei Mose, wenn wir bis zur Stiftshütte zurückgehen — und enden bei seiner Zerstörung durch die Römer im Jahr 70 n. Chr., oder vielleicht bei der Deportation nach Babel im Jahr 587 v. Chr.

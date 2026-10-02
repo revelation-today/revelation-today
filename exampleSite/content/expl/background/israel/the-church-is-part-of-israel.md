@@ -4,6 +4,12 @@ weight: 7
 sources:
     - pages: 669–679
       ref: beale_theo
+    - pages: 420
+      ref: beale_rev
+    - pages: 148
+      ref: bauckham_rev
+    - pages: 327
+      ref: bauckham_climax
 prev: /expl/background/israel/the-second-exodus
 next: /expl/background/israel/israel-and-the-church
 docType: expl

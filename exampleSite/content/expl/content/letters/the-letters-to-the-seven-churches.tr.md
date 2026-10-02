@@ -13,6 +13,11 @@ deeper:
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Tanrı’nın antlaşması
       link:  /expl/background/israel/gods-covenant
+sources:
+    - pages: 225–227
+      ref: beale_rev
+    - pages: 12
+      ref: bauckham_rev
 ---
 
 Vahiy kitabı, yedi belirli kiliseye gönderilen yedi mektup içerir. Bu mektupların amacı nedir, nasıl düzenlenmiştir ve genel mesaj nedir?

@@ -5,6 +5,11 @@ base: /quick/bible/creation
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/bible/creation/the-temple-and-the-presence-of-god
 docType: expl
+sources:
+    - pages: 22, 25, 30
+      ref: brueggemann_gen
+    - pages: "vol. 11: 16"
+      ref: tdot
 ---
 
 Untuk memahami akhir Alkitab, kita perlu memahami permulaannya. Tahukah Anda bahwa pohon kehidupan dari kisah kejatuhan, dan tanda yang diberikan kepada Kain, keduanya muncul kembali dalam Kitab Wahyu?

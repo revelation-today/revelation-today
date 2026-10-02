@@ -6,6 +6,9 @@ prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /welcome/done
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
+sources:
+    - pages: 8, 58–63
+      ref: bauckham_rev
 ---
 
 The book of Revelation is filled with descriptions of judgment, and it can look at first glance like the whole point is to scare unbelievers into repenting. That impression, however, turns out to be wrong on almost every count.

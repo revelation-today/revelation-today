@@ -16,6 +16,8 @@ deeper:
 sources: 
     - pages: 311–337
       ref: beale_rev
+    - pages: 366
+      ref: beale_rev
 readBefore:
     - name: "Susunan Kitab Wahyu"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation

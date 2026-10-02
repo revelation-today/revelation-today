@@ -12,6 +12,8 @@ appl: /appl/content/beasts
 sources:
     - pages: 384–452
       ref: bauckham_climax
+    - pages: 724, 727, 729, 875
+      ref: beale_rev
 ---
 
 {{% bible val="The magic number of the beast" link="rev:13,18" lang="en" %}} has been used, wrongly in my opinion, to decode current politics through one numbering scheme or another. The real answer isn't found by hunting outside the text — it's already there in the Bible itself.

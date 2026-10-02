@@ -24,6 +24,8 @@ sources:
       ref: bauckham_rev
     - pages: 266–283
       ref: bauckham_climax
+    - pages: 586–587, 623
+      ref: aune_rev
 readBefore:
     - name: "Der Bund Gottes"
       link:  /expl/background/israel/gods-covenant

@@ -8,6 +8,9 @@ prev: /expl/content/beasts/666-the-number-of-the-beast
 next: /expl/content/harvest/gods-army-and-the-seven-angels
 docType: expl
 appl: /appl/content/beasts
+sources:
+    - pages: 729
+      ref: beale_rev
 ---
 
 Iblis dan seluruh antek-anteknya menempati cukup banyak ruang dalam Kitab Wahyu, dan studi ini pun sudah menghabiskan cukup banyak artikel untuk membahasnya. Mengapa demikian? Bukankah upaya itu seharusnya diarahkan untuk menggambarkan Allah saja? Ada alasannya.

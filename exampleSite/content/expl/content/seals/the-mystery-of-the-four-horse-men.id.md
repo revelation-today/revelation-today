@@ -18,6 +18,8 @@ deeper:
 sources: 
     - pages: 370–395
       ref: beale_rev
+    - pages: 397
+      ref: aune_rev
 ---
 
 Dalam Kitab Wahyu kita melihat empat penunggang kuda - penunggang apokaliptik yang membawa perang, kelaparan, dan kematian ke seluruh bumi. Namun penunggang kuda pertama tidak sesuai begitu saja dengan pola ini, dan ia menimbulkan banyak masalah: ini benar-benar topik yang diperdebatkan.

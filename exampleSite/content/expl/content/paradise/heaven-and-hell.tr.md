@@ -8,6 +8,9 @@ prev: /expl/content/paradise/the-new-jerusalem
 next: /expl/topics/others/dispensionalism-a-little-history
 docType: expl
 appl: /appl/content/paradise
+sources:
+    - pages: 1081
+      ref: beale_rev
 ---
 
 Cennet ve cehennem nedir? Bütün insanlar cennete mi gider? İyi bir Tanrı insanları nasıl cehenneme gönderebilir?

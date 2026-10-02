@@ -10,6 +10,8 @@ sources:
     - pages: 173-186
       ref: rossing
     - ref: rapture_views
+    - pages: 46–47
+      ref: beale_rev
 ---
 
 {{% int_link val="Önceki makale" link="/expl/topics/others/the-rapture" %}}, her zamanki kanıt ayetlerinden hiçbirinin, inananların gizlice göğe alınmasını gerçekte betimlemediğini savundu. Ama tartışmayı kendi terimleriyle de anlamakta fayda var, çünkü bir tür göğe alınmayı kabul eden okurlar bile bunun gelecekteki bir sıkıntı dönemine göre *ne zaman* gerçekleştiği konusunda hâlâ derin bir anlaşmazlık içinde. Bu tartışmaya dört görüş egemendir; genellikle pretribülasyonist, midtribülasyonist, gazap-öncesi (pre-wrath) ve posttribülasyonist olarak adlandırılırlar — her biri, {{% bible val="Daniel'in yetmişinci haftasından" link="dan:9,27" lang="tr" %}} türetilen gelecekteki yedi yıllık bir döneme göre göğe alınmayı nereye yerleştirdiğine göre isimlendirilir.

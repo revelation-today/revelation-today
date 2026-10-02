@@ -12,6 +12,8 @@ sources:
       ref: beale_rev
     - pages: 44–45
       ref: fee_rev
+    - pages: 160, 218
+      ref: aune_rev
 ---
 
 What does a dead church look like, and how do you inject new life into it? The {{% bible val="letter to Sardis" link="rev:3,1-6" lang="en" %}} answers both questions.

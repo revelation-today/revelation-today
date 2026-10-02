@@ -11,6 +11,10 @@ sources:
       ref: aune_rev
     - pages: 60, 373, 575, 1151–1152
       ref: beale_rev
+    - pages: 225
+      ref: westermann_gen
+    - pages: 118
+      ref: aune_rev
 prev: /expl/background/israel/the-role-of-family-in-the-bible
 next: /expl/background/israel/the-day-of-the-lord
 docType: expl

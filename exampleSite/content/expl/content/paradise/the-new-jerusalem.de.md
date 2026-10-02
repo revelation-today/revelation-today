@@ -11,6 +11,10 @@ appl: /appl/content/paradise
 sources: 
     - pages: 1039–1121
       ref: beale_rev
+    - pages: 114, 134, 328
+      ref: beale_rev
+    - pages: 14, 131
+      ref: bauckham_rev
 deeper:
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation

@@ -18,6 +18,8 @@ deeper:
 sources: 
     - pages: 370–395
       ref: beale_rev
+    - pages: 397
+      ref: aune_rev
 ---
 
 In der Offenbarung sehen wir vier apokalyptische Reiter, die Krieg, Hunger und Tod über die ganze Erde bringen. Doch der erste Reiter fügt sich nicht sauber in dieses Schema ein und bereitet einige Kopfschmerzen: Er ist ein wirklich umstrittenes Thema.

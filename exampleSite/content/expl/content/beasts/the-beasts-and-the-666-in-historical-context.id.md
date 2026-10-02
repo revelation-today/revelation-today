@@ -12,6 +12,10 @@ appl: /appl/content/beasts
 sources: 
     - pages: 682–684
       ref: beale_rev
+    - pages: 711, 717
+      ref: beale_rev
+    - pages: 660, 733, 756, 764
+      ref: aune_rev
 ---
 
 Sang naga dan kedua binatang dalam Kitab Wahyu biasanya ditafsirkan dengan salah satu dari dua cara: sebagai kekuatan-kekuatan jahat yang sepenuhnya abstrak, atau melalui spekulasi yang sangat "kreatif" tentang peristiwa-peristiwa masa kini. Siapa sebenarnya mereka?

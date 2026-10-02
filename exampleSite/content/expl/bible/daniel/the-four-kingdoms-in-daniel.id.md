@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 38–46
       ref: dabar_daniel
+    - pages: 221, 259, 633, 683, 687, 708
+      ref: beale_rev
 ---
 
 Kitab Daniel tampaknya menjadi sumber bagi banyak tafsiran akhir zaman. Mari kita selidiki lebih dekat apa sebenarnya makna semua ini, dimulai dari dasar-dasarnya.

@@ -10,6 +10,8 @@ sources:
     - pages: 173-186
       ref: rossing
     - ref: rapture_views
+    - pages: 46–47
+      ref: beale_rev
 ---
 
 {{% int_link val="The previous article" link="/expl/topics/others/the-rapture" %}} argued that none of the usual proof texts actually describe believers being secretly snatched away to heaven. But it's worth understanding the debate on its own terms too, since readers who do accept some form of a rapture still disagree sharply about *when* it happens relative to a coming tribulation period. Four positions dominate that discussion, usually labeled pre-tribulational, mid-tribulational, pre-wrath, and post-tribulational — named for where each places the rapture relative to a future seven-year period drawn from {{% bible val="Daniel's seventieth week" link="dan:9,27" lang="en" %}}.

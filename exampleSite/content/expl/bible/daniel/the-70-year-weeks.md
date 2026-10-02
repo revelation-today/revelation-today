@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 334–354
       ref: daniel
+    - pages: 566–567
+      ref: beale_rev
 ---
 
 The 70 year weeks are one of the most mysterious parts of the Bible, and they've generated no shortage of interesting interpretations about the end times. Let's take a closer look at what this is all about.

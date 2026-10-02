@@ -17,6 +17,8 @@ sources:
       ref: beale_rev
     - pages: 33
       ref: fee_rev
+    - pages: 180, 182, 188
+      ref: aune_rev
 ---
 
 Bu kilise çöküşün eşiğinde, ve suçlu Balam gibi görünse de, aslında sorun o değil.

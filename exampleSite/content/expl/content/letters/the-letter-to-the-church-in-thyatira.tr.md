@@ -14,6 +14,8 @@ sources:
       ref: beale_rev
     - pages: 37–38
       ref: fee_rev
+    - pages: 145–146, 201
+      ref: aune_rev
 ---
 
 Sorunu kendi önderliği olan bir kiliseyle ne yaparsınız? Thyatira'ya yazılan mektubun tam olarak ele aldığı durum budur.

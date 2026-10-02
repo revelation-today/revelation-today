@@ -9,6 +9,10 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources: 
     - pages: 173-186
       ref: rossing
+    - pages: 231
+      ref: aune_rev
+    - pages: 47, 290–292
+      ref: beale_rev
 ---
 
 Göğe alınma (rapture) büyüleyici bir konudur. Pek çok kişinin hayal gücünü ele geçirmiş, daha da fazlasını korkutmuştur. Ama göğe alınma gerçekte nedir? Kutsal Kitap'a dayanıyor mu? Ve eğer gerçekse, inananlar için ne anlama gelirdi?

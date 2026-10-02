@@ -14,6 +14,8 @@ sources:
       ref: beale_rev
     - pages: 50-51
       ref: fee_rev
+    - pages: 231, 234, 238, 244
+      ref: aune_rev
 ---
 
 {{% bible val="Filadelfiya" link="rev:3,7-13" lang="tr" %}}, Davut'un anahtarına sahip olan şehirdir. Peki bu anahtar hangi kapıları açıyor — müjdecilik mi, fırsat mı, ilişkiler mi, yoksa bambaşka bir şey mi? Okumaya devam edin, bu kilisenin İsa'nın hiç azarlamadığı kilise olmasının nedenini göreceksiniz.

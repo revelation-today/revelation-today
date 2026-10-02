@@ -9,6 +9,8 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources: 
     - pages: 4–27, 34–36
       ref: beale_rev
+    - pages: l–lxx
+      ref: aune_rev
 ---
 
 Setiap artikel di situs ini mengasumsikan seorang penulis dan sebuah masa penulisan untuk Kitab Wahyu, meskipun tidak selalu dinyatakan secara terbuka. Keduanya diperdebatkan di kalangan para sarjana yang serius dan setia — jadi ada baiknya menyatakan dengan jelas apa yang diasumsikan situs ini, mengapa, dan apa yang sebenarnya akan berubah jika kamu mengasumsikan hal lain.
