@@ -13,6 +13,8 @@ sources:
       ref: beale_rev
     - pages: 171
       ref: aune_rev
+    - pages: 249
+      ref: beale_rev
 prev: /about/ressources
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
@@ -61,7 +63,7 @@ Bagi orang Kristen yang hidup di bawah sistem ini, muncul beberapa masalah seriu
 
 - Yesus adalah kaisar mereka — Raja di atas segala raja — terlebih lagi karena Injil-Injil sendiri ditulis sebagai *euangelion*, proklamasi pemerintahan seorang kaisar baru.
 - Mereka {{% bible val="menerima penyediaan kebutuhan mereka dari Yesus" link="mat:6,25-34" lang="ind" %}}, bukan dari sang kaisar.
-- Beberapa kegiatan yang menjadi bagian dari kehidupan bermasyarakat dalam Pax Romana, seperti pesta pora dalam acara-acara resmi, bertentangan langsung dengan keyakinan mereka.
+- Beberapa kegiatan yang menjadi bagian dari kehidupan bermasyarakat dalam Pax Romana bertentangan langsung dengan keyakinan mereka — terutama perjamuan serikat-serikat dagang untuk menghormati dewa pelindung mereka, dengan daging persembahan berhala dan kadang-kadang percabulan, yang diharapkan dihadiri oleh setiap pedagang dan tukang ({{% bible val="Wahyu 2:14" link="rev:2,14" lang="ind" %}}, {{% bible val="20" link="rev:2,20" lang="ind" %}}).
 - Cara-cara yang digunakan Roma untuk "mendamaikan" kekaisaran tidak dapat diselaraskan dengan keyakinan Kristen.
 - Mereka dicap tidak toleran karena bersikeras hanya ada satu Allah, di tengah kekaisaran yang dengan mudah menerima dewa-dewa tambahan berapa pun jumlahnya.
 

@@ -13,6 +13,8 @@ sources:
       ref: beale_rev
     - pages: 171
       ref: aune_rev
+    - pages: 249
+      ref: beale_rev
 prev: /about/ressources
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
@@ -61,7 +63,7 @@ Für Christen, die unter diesem System lebten, ergaben sich mehrere ernste Probl
 
 - Jesus war ihr Kaiser — König der Könige —, zumal die Evangelien selbst als *euangelion* verfasst wurden, die Verkündigung der Herrschaft eines neuen Kaisers.
 - Sie {{% bible val="empfingen ihre Versorgung von Jesus" link="mat:6,25-34" lang="de" %}}, nicht vom Kaiser.
-- Manche Aktivitäten, die fest zum bürgerlichen Leben unter der Pax Romana gehörten, etwa Orgien im Rahmen von Betriebsfeiern, widersprachen unmittelbar ihrem Glauben.
+- Manche Aktivitäten, die fest zum bürgerlichen Leben unter der Pax Romana gehörten, widersprachen unmittelbar ihrem Glauben — vor allem die Festmähler der Zünfte zu Ehren ihres Schutzgottes, mit Götzenopferfleisch und manchmal sexueller Unmoral, an denen jeder Handwerker und Händler teilnehmen sollte ({{% bible val="Offb 2,14" link="rev:2,14" lang="de" %}}, {{% bible val="20" link="rev:2,20" lang="de" %}}).
 - Gerade die Mittel, mit denen Rom das Reich "befriedete", ließen sich nicht mit christlicher Überzeugung vereinbaren.
 - Man brandmarkte sie als intolerant, weil sie auf einem einzigen Gott bestanden, in einem Reich, das bereitwillig jede beliebige Zahl weiterer Götter akzeptierte.
 
