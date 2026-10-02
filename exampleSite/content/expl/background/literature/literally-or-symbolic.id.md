@@ -81,7 +81,7 @@ Kata *semaino* juga bisa sekadar berarti "menyatakan" atau "mengumumkan," tetapi
 ## [deiknumi](https://biblehub.com/greek/1166.htm)
 
 <a name="360a"></a>
-Kata ini muncul dalam konteks sebuah penglihatan simbolis yang disampaikan oleh seorang malaikat — "{{% bible val="menyatakannya dengan mengutus malaikat-Nya kepada hamba-Nya Yohanes" link="rev:1,1" lang="ind" %}}" — yang sendirinya merupakan gema lain dari Daniel, seperti telah disebutkan di atas. Di tempat lain dalam kitab ini, Yohanes menggunakan kata yang sama untuk menggambarkan sebuah penglihatan yang ia lihat, biasanya dipasangkan dengan tindakan melihat sekaligus menafsirkan simbol yang bersangkutan:
+Kata ini muncul tepat di bagian kalimat yang pertama — "{{% bible val="supaya ditunjukkan-Nya kepada hamba-hamba-Nya apa yang harus segera terjadi" link="rev:1,1" lang="ind" %}}" — dan, seperti ditunjukkan Beale, kata ini tidak sekadar berarti "memberitahukan": dalam Kitab Wahyu kata ini berarti penyingkapan melalui penglihatan-penglihatan simbolis yang disampaikan oleh seorang malaikat, yang sendirinya merupakan gema lain dari Daniel (Beale, hlm. 52). Di tempat lain dalam kitab ini, Yohanes menggunakan kata yang sama untuk menggambarkan sebuah penglihatan yang ia lihat, biasanya dipasangkan dengan tindakan melihat sekaligus menafsirkan simbol yang bersangkutan:
 
 - {{% bible val="Malaikat itu menunjukkan kepadanya ruang takhta surgawi" link="rev:4,1" lang="ind" %}} dan segala sesuatu yang terjadi di sana, seperti Anak Domba yang membuka sebuah gulungan kitab.
 - {{% bible val="Pengantar penglihatan tentang perempuan sundal itu" link="rev:17,1" lang="ind" %}} di padang gurun, yang dikelilingi oleh banyak air.

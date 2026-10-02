@@ -77,7 +77,7 @@ Das Wort *semaino* kann auch schlicht „bekanntmachen" oder „ankündigen" bed
 ### [deiknumi](https://biblehub.com/greek/1166.htm)
 
 <a name="360a"></a>
-Dieses Wort erscheint im Zusammenhang mit einer symbolischen Vision, die durch einen Engel überbracht wird — „{{% bible val="machte es bekannt, indem er seinen Engel zu seinem Knecht Johannes sandte" link="rev:1,1" lang="de" %}}" —, was seinerseits ein weiteres Echo auf Daniel ist, wie bereits erwähnt. An anderen Stellen des Buches verwendet Johannes dasselbe Wort, um eine Vision zu beschreiben, die er gesehen hat, meist verbunden sowohl mit dem Sehen als auch mit dem Deuten des jeweiligen Symbols:
+Dieses Wort steht gleich im ersten Satzteil — „{{% bible val="um seinen Knechten zu zeigen, was bald geschehen muss" link="rev:1,1" lang="de" %}}“ —, und wie Beale zeigt, bedeutet es nicht einfach „bekannt machen“: In der Offenbarung meint es eine Offenbarung durch symbolische Visionen, vermittelt durch einen Engel, was seinerseits ein weiteres Echo auf Daniel ist (Beale, S. 52). An anderen Stellen des Buches verwendet Johannes dasselbe Wort, um eine Vision zu beschreiben, die er gesehen hat, meist verbunden sowohl mit dem Sehen als auch mit dem Deuten des jeweiligen Symbols:
 
 - {{% bible val="Der Engel zeigt ihm den himmlischen Thronsaal" link="rev:4,1" lang="de" %}} und alles, was dort geschieht, wie das Öffnen der Buchrolle durch das Lamm.
 - {{% bible val="Die Einleitung zur Vision der Hure" link="rev:17,1" lang="de" %}} in der Wüste, umgeben von vielen Wassern.

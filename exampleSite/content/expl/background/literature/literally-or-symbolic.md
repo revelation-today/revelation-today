@@ -75,7 +75,7 @@ The word *semaino* can also simply mean "to make known" or "announce," but if Jo
 ### [deiknumi](https://biblehub.com/greek/1166.htm)
 
 <a name="08d2"></a>
-This word appears in the context of a symbolic vision delivered by an angel — "{{% bible val="made it known by sending his angel to his servant John" link="rev:1,1" lang="en" %}}" — which is itself another echo of Daniel, as noted above. Elsewhere in the book, John uses the same word to describe a vision he saw, typically paired with both seeing and interpreting the symbol in question:
+This word appears in the very first clause — "{{% bible val="to show his servants what must soon take place" link="rev:1,1" lang="en" %}}" — and, as Beale points out, it does not simply mean "make known": in Revelation it means a revelation through symbolic visions, communicated by an angel, which is itself another echo of Daniel (Beale, p. 52). Elsewhere in the book, John uses the same word to describe a vision he saw, typically paired with both seeing and interpreting the symbol in question:
 
 - {{% bible val="The angel shows him the heavenly throne room" link="rev:4,1" lang="en" %}} and everything that happens there, like the Lamb opening a scroll.
 - {{% bible val="The introduction to the vision of the harlot" link="rev:17,1" lang="en" %}} in the wilderness, surrounded by many waters.

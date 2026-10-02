@@ -75,7 +75,7 @@ Bu, Daniel'in Yunancasında sembolik bir görümün yorumlanması için kullanı
 ### [deiknumi](https://biblehub.com/greek/1166.htm)
 
 <a name="711f"></a>
-Bu kelime, bir melek tarafından iletilen sembolik bir görüm bağlamında geçer — "{{% bible val="meleğini kulu Yuhanna'ya göndererek bunu bildirdi" link="rev:1,1" lang="tr" %}}" — bu da yukarıda belirtildiği gibi Daniel'in bir başka yankısıdır. Kitabın başka yerlerinde Yuhanna, gördüğü bir görümü tanımlamak için aynı kelimeyi kullanır; bu genellikle söz konusu sembolü hem görmeyle hem de yorumlamayla birlikte gelir:
+Bu kelime cümlenin ilk bölümünde geçer — "{{% bible val="yakında olması gereken şeyleri kullarına göstermek" link="rev:1,1" lang="tr" %}}" — ve Beale'in belirttiği gibi yalnızca "bildirmek" anlamına gelmez: Vahiy'de bir melek aracılığıyla iletilen sembolik görümler yoluyla gelen bir açıklamayı ifade eder; bu da Daniel'in bir başka yankısıdır (Beale, s. 52). Kitabın başka yerlerinde Yuhanna, gördüğü bir görümü tanımlamak için aynı kelimeyi kullanır; bu genellikle söz konusu sembolü hem görmeyle hem de yorumlamayla birlikte gelir:
 
 - {{% bible val="Melek ona göksel taht odasını gösterir" link="rev:4,1" lang="tr" %}} ve orada olan her şeyi, Kuzu'nun tomarı açması gibi.
 - {{% bible val="Vahşi doğada, birçok suyla çevrili fahişenin görümüne giriş" link="rev:17,1" lang="tr" %}}.
