@@ -1,5 +1,5 @@
 ---
-title: "Dünya parçalanınca, kimi suçlarsın?"
+title: "Her beyaz at kurtuluş getirmez"
 weight: 40
 base: /quick/content/seals
 story: /story/general/tour
@@ -7,34 +7,32 @@ story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 kids: /kids/elementary/05-the-seals
 docType: appl
-description: "Fetih savaşa, savaş kıtlığa, kıtlık ölüme dönüşür — ve mezbahın altında, sadıkların ruhları tek bir sesle dürüst bir soru haykırır: Ne zamana dek, ya Rab, dünyayı yargılamayacaksın?"
+description: "İlk atlı kurtuluş gibi görünür: beyaz bir at, bir taç, kazanma vaadi. Arkasından savaş, lüks mallar korunurken yoksulları aç bırakan fiyatlar ve ölüm gelir. Onu, ardından gelenlerden tanırsın."
 ---
 
 <!-- key-passage -->
-> Yüksek sesle feryat ederek şöyle diyorlardı: “Kutsal ve gerçek olan Efendimiz! Yeryüzünde yaşayanları yargılayıp onlardan kanımızın öcünü almak için daha ne kadar bekleyeceksin?”
+> Bakınca beyaz bir at gördüm. Binicisinin yayı vardı. Kendisine bir taç verildi ve galip gelen biri olarak zafer kazanmaya çıktı.
 >
-> — {{% bible val="Vahiy 6:10" link="rev:6,10" lang="tr" %}} (TCL02)
+> — {{% bible val="Vahiy 6:2" link="rev:6,2" lang="tr" %}} (TCL02)
 
 **Metnin tamamını oku:** {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}}
 
-Fetih savaşa, savaş kıtlığa, kıtlık ölüme dönüşür — ve mezbahın altında, sadıkların ruhları tek bir sesle dürüst bir soru haykırır: Ne zamana dek, ya Rab, dünyayı yargılamayacaksın? Bu soruyu sordukları için azarlanmazlar. Onlara sadece biraz daha beklemeleri söylenir.
+İlk atlı kurtuluş gibi görünür: beyaz bir at, bir taç, kazanma vaadi. Beyaz, kitabın ilerleyen bölümlerinde Mesih'in kendisinin bindiği atın rengidir. Ama bu bölümde kimseden atlıyı atına bakarak yargılaması istenmez. Onun arkasından çıkanı görürler: savaş, sonra yağ ve şarap korunurken ekmeği yoksulların erişemeyeceği hale getiren fiyatlar, sonra ölüm. Onu buradan tanırsın — vaat ettiklerinden değil, ardından gelenlerden.
 
-Hemen herkesin içinde taşıdığı kendi "ne zamana dek"i vardır. Üçüncü tedavi turundan sonra da değişmeyen teşhis. Dört yıldır "neredeyse düzelmek üzere" olan evlilik. Aramayan çocuk. Herkes artık dayanılmaz olduğunda hemfikir olalı aylar geçmesine rağmen hâlâ haberlerde olan savaş. Yalan söyleyen ve bunun için terfi almaya devam eden iş arkadaşı.
+Aynı atlılar bugün de aynı sırayla gelir. Önce vaat: sonunda her şeyi düzeltecek lider, seni güvenceye alacak anlaşma, kesinlikle kazanacak hareket, kaygıyı sonsuza dek bitirecek o tek karar. Temiz görünür ve çoğu zaman imanın dilini kullanır. Sonra kılıç: alkışlamayan herkes düşman olur. Sonra terazi: bedel en az şeye sahip olanların üzerine düşer, rahat olanlar ise yağlarını ve şaraplarını el değmemiş bulur. Sonra soluk renkli at: hayatlar, dostluklar ve koca topluluklar sessizce ölür.
 
-Bundan kurtulmanın bilinen iki yolu vardır ve bu bölüm ikisini de seçmez. Birincisi her şeyin yolunda olduğuna dair numara yapmaktır — her şeyin bir sebebi olduğuna dair, çoğunlukla sadece konuşmayı bitirmeye yarayan o düzgün cümleye uzanmak. İkincisi sessizleşmektir: dramatik bir iman kaybı değil, bir şey beklemeyi ve sormayı bırakana kadar süren yavaş bir uzaklaşma. Mezbahın altındaki ruhlar ikisini de yapmaz. Zor olanı yüksek sesle, doğrudan Tanrı'ya, O'nun bulunduğu odada söylerler — ve sonra orada kalırlar.
+Bölümdeki iki şey bunun umutsuzluğa dönüşmesini engeller. Atlıların hiçbiri kendi isteğiyle çıkmaz; her biri ancak Kuzu bir mührü açtığında ortaya çıkar. Yol açtıkları yıkım, Kuzu'nun işinin bir parçası olarak açığa çıkarılır ve son sözü o söylemez. Beşinci mühür de bedeli gösterir: mezbahın altında, bu atlılarla birlikte gitmeyi reddettikleri için öldürülenler vardır ve onların "Ne zamana dek?" feryadı, bu atlıların kurbanlarının feryadıdır. Onlara verilen bekleyiş gerçektir — ama beyaz kaftan da gerçektir.
 
-Karşılığında ne aldıklarına bak. Bir açıklama değil. Kimse onlara acının ne için olduğunu ya da parçaların nasıl birleştiğini söylemez. Onlara beyaz bir kaftan verilir — aksini söyleyen bir dünyanın karşısında haklı olduklarını bildiren karar — ve "bekleyin" sözü. Açıklamayı aldığında Tanrı'ya yeniden güveneceğine karar verdiysen, bu bölüm sessizce yanlış şeyi bekliyor olabileceğini ima eder. Burada sunulan bir karar ve bir yakınlıktır; bir son ise ancak sonra, kitabın çok daha ilerisinde gelir.
+Bu bölümün sana sorduğu soru, "Bana zafer vaat eden ne?" sorusundan çok, "Şimdiye dek onu ne izledi ve bedelini kim ödedi?" sorusudur.
 
-Ve bekleyiş gerçektir. "Biraz daha" artık çok uzun zamandır sürüyor. Bunun dürüst okuması, sorunun yanıtlanamayacak kadar küçük olduğu değildir; seni bekleten aynı gecikme, başkalarının hâlâ fikrini değiştirebileceği alandır.
-
-O halde bu hafta asıl soruyu, dindar kimse dinlemiyor olsaydı kullanacağın kelimelerle söyle — ve onu Tanrı hakkında değil, Tanrı'ya söyle. Onu hemen düzeltmeye koşmadan taşıyabilecek bir kişiye anlat. Soruyu ya bir kenara kaldırıp düzene soktuğunu ya da sessizliğe gömdüğünü fark ettiğinde, bunu imanın işe yaramadığının kanıtı olarak değil, soruyu geri getirme anı olarak gör.
+O halde bu hafta: dayandığın bir vaadin adını koy — işte, siyasette, planlarında, hatta kilisede — ve ardından gerçekte ne geldiğini yaz. Yağ ve şarap korunurken buğdayın bedelini kimin ödediğini sor; eğer bu yakınındaki biriyse, somut bir yolla onun yanında dur. Ve bir şeyi kazanmak gibi göründüğü için alkışladığını fark ettiğinde, katılmadan önce arkasına bak.
 
 ## Düşünmek için sorular
 
-- Gerçekte Tanrı'ya doğrudan getirmeden içinde taşıdığın "ne zamana dek, ya Rab" sorusu nedir?
-- Bir cevabı beklemek, ondan vazgeçmekten farklıdır. Son zamanlarda çözülmemiş acıya verdiğin tepki bu ikisinden hangisine daha çok benziyor?
-- Cevap hiç gelmese ve onun yerine kaftanı ve O'nun yakınlığını alsan, yine de Tanrı'yı ister miydin?
+- Hangi kazanma vaadi — güvenlik, başarı, sonunda haklı çıkmak — şu anda hayatının en önünde at sürüyor ve arkasından ne çıktı?
+- Desteklediğin şeylerde, işte, siyasette ya da kilisede, yağ ve şarap el değmeden kalırken buğdayın bedelini kim ödüyor?
+- Mezbahın altındaki ruhlar, birlikte gitmedikleri için öldürüldü. Atlılarla birlikte gitmeyi reddetmek sana nerede bir bedel ödetiyor ve onu ödemeye hazır mısın?
 
 ## Dua
 
-Ya Rab, ne zamana dek? Sana getirmeden taşıdığım soruları biliyorsun. İşte onlar. Sorduğum için beni azarlamadığın için teşekkür ederim. Senden yüz çevirmek yerine seninle beklememe yardım et. Amin.
+Rab İsa, mühürleri açmaya yalnızca sen layıksın. Sırf kurtuluş gibi göründüğü için beyaz bir atın peşinden gitmekten beni koru. Dayandığım vaatlerin ardından gelenleri ve bedelini ödeyen insanları görmem için gözlerimi aç. Birlikte gitmek daha kolay olduğunda beni sadık kıl ve son sözün sende olduğuna güvenmemi sağla. Amin.
