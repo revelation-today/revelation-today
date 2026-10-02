@@ -11,8 +11,6 @@ appl: /appl/content/jesus
 deeper:
     - name: İsrail’in kalıntıları
       link:  /expl/background/israel/the-remnant-of-israel
-    - name: İkinci Çıkış
-      link:  /expl/background/israel/the-second-exodus
     - name: Daniel’de Genel Bakış
       link:  /expl/bible/daniel/the-book-of-daniel
     - name: Dört Krallık
@@ -26,6 +24,9 @@ deeper:
 sources: 
     - pages: 621–681
       ref: beale_rev
+readBefore:
+    - name: "İkinci Çıkış"
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Bir Hıristiyan olarak, muhtemelen {{% bible val="Luka" link="luk:2" lang="tr" %}} ve {{% bible val="Matta'dan" link="mat:2" lang="tr" %}} derlenen klasik Noel hikâyesine oldukça aşinasınızdır: çobanlar ve bir yemliğe yatırılan bebekle ilgili biraz romantik bir öykü ile gizemli bir yıldızı takip eden uzak diyarlardan gezginler (sayılarını üç olarak sabitleyen, getirdikleri üç hediyeye dayanan, metnin kendisi değil, daha sonraki gelenektir).

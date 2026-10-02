@@ -9,6 +9,10 @@ next: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 docType: expl
 appl: /appl/content/harlot
 deeper:
+    - name: "Harfiah atau simbolis?"
+      link:  /expl/background/literature/literally-or-symbolic
+    - name: "Penuh dengan Rujukan Silang Alkitabiah"
+      link:  /expl/background/literature/full-of-biblical-references
     - name: Babel sebagai nyanyian ejekan terhadap Kekaisaran Romawi
       link:  /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 sources: 

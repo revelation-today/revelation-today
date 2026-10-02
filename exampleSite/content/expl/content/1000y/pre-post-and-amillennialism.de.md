@@ -15,6 +15,8 @@ sources:
       ref: aune_rev
     - ref: bock_millennium
 deeper:
+    - name: "Wörtlich oder symbolisch?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Jesus und der Bund
       link:  /expl/background/israel/jesus-and-the-covenant
 ---

@@ -10,6 +10,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Why this matters for Revelation:** Revelation speaks in family terms: Jesus is {{% bible val="the firstborn from the dead" link="rev:1,5" lang="en" %}}, the redeemer who {{% bible val="purchased people for God with his blood" link="rev:5,9" lang="en" %}}, and the one who conquers {{% bible val="will inherit all this, and I will be his God and he will be my child" link="rev:21,7" lang="en" %}}.
+{{< /callout >}}
+
 Does the Bible support and encourage patriarchal structures? Does it teach that women matter less than men? The picture is more complicated than that — let me walk through what family actually looked like in ancient culture, and why it matters for reading the rest of Scripture.
 
 ## The importance of family

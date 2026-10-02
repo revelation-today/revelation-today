@@ -16,6 +16,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Warum das für die Offenbarung wichtig ist:** Der umgekehrte Überrest in 11,13, „die Übrigen ihrer Nachkommen“ in 12,17 und die 144.000 bauen alle auf diesem Gedanken auf — siehe {{% int_link val="der Überrest in der Offenbarung" link="/expl/background/israel/the-remnant-of-israel#r4m1" %}}.
+{{< /callout >}}
+
 Was genau ist der Überrest Israels, und wie erholt sich ein bloßer Überrest vom Exil und wird erneut zu dem Volk, das Gott Abraham verheißen hat?
 
 ## Der Überrest

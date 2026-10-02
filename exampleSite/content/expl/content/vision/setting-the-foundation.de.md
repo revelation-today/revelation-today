@@ -12,8 +12,15 @@ next: /expl/content/vision/the-vision
 docType: expl
 appl: /appl/content/vision
 deeper:
+    - name: "Wörtlich oder symbolisch?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Der zweite Auszug
       link:  /expl/background/israel/the-second-exodus
+readBefore:
+    - name: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+    - name: "Wie lese ich die Offenbarung?"
+      link:  /expl/background/literature/the-book-of-revelation-how-to-read-it
 ---
 
 Die Offenbarung beginnt mit ein paar Sätzen, die man leicht überliest — und die doch der Schlüssel zum Verständnis von allem sind, was folgt. Schauen wir sie uns mit neuen Augen an.

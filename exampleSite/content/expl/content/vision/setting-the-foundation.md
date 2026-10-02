@@ -12,8 +12,15 @@ next: /expl/content/vision/the-vision
 docType: expl
 appl: /appl/content/vision
 deeper:
+    - name: "Literally or symbolic"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: The second Exodus
       link:  /expl/background/israel/the-second-exodus
+readBefore:
+    - name: "Pax Romana — the key to understanding Revelation"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+    - name: "How to read the book of Revelation"
+      link:  /expl/background/literature/the-book-of-revelation-how-to-read-it
 ---
 
 The book of Revelation begins with a few statements that are easy to skim past, yet they are key to understanding everything that follows. Let's look at them with fresh eyes.

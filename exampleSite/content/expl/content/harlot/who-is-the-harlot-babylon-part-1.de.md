@@ -9,6 +9,8 @@ next: /expl/content/harlot/who-is-the-harlot-babylon-part-2
 docType: expl
 appl: /appl/content/harlot
 deeper:
+    - name: "Wörtlich oder symbolisch?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: "Wer ist die Hure: Teil 2"
@@ -18,6 +20,9 @@ deeper:
 sources: 
     - pages: 847–890
       ref: beale_rev
+readBefore:
+    - name: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Manche sagen, es sei der Papst; andere sagen, es sei die Wirtschaft. Es könnte jeder sein — sogar die Gemeinde. Wer also ist die Hure Babel?

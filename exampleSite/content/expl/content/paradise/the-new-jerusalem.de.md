@@ -14,6 +14,11 @@ sources:
 deeper:
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
+readBefore:
+    - name: "Wörtlich oder symbolisch?"
+      link:  /expl/background/literature/literally-or-symbolic
+    - name: "Die Gemeinde als Teil von Israel"
+      link:  /expl/background/israel/the-church-is-part-of-israel
 ---
 
 Wie wird der Himmel sein, und wie wird die Hölle sein? Die Offenbarung beantwortet keine der beiden Fragen erschöpfend, aber sie gibt zu beiden echte Einblicke.

@@ -7,6 +7,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Bu, Vahiy için neden önemli:** Vahiy, Rab'bin gününün iki yarısı arasındaki zamanda yaşar — kurtuluş şimdiden burada, yargı henüz gelecek. Bkz. {{% int_link val="şimdiden, ama henüz değil" link="/expl/background/israel/jesus-and-the-covenant#already" %}} ve {{% int_link val="son zaman" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}.
+{{< /callout >}}
+
 İsa yeryüzüne geldiğinde, mesajı ve davranışları insanları "şaşırttı" — ve o dönemin Yahudileri için bu şaşkınlık gerçekten sarsıcıydı. Neden ve bunun antlaşmayla ne ilgisi var?
 
 ## Rab'bin Günü beklentisi

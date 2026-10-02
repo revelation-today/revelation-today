@@ -15,6 +15,8 @@ sources:
       ref: aune_rev
     - ref: bock_millennium
 deeper:
+    - name: "Harfiah atau simbolis?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Yesus dan perjanjian
       link:  /expl/background/israel/jesus-and-the-covenant
 ---

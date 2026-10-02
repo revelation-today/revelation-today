@@ -11,8 +11,6 @@ appl: /appl/content/jesus
 deeper:
     - name: Sisa Israel
       link:  /expl/background/israel/the-remnant-of-israel
-    - name: Eksodus Kedua
-      link:  /expl/background/israel/the-second-exodus
     - name: Ikhtisar tentang Kitab Daniel
       link:  /expl/bible/daniel/the-book-of-daniel
     - name: Keempat Kerajaan pada Kitab Daniel
@@ -26,6 +24,9 @@ deeper:
 sources: 
     - pages: 621–681
       ref: beale_rev
+readBefore:
+    - name: "Eksodus Kedua"
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Sebagai orang Kristen, engkau tentu sudah sangat mengenal kisah Natal klasik yang disusun dari {{% bible val="Injil Lukas" link="luk:2" lang="ind" %}} dan {{% bible val="Injil Matius" link="mat:2" lang="ind" %}}: kisah yang agak romantis tentang para gembala dan seorang bayi yang dibaringkan di palungan, serta para musafir dari jauh yang mengikuti sebuah bintang misterius (tradisi belakangan, bukan teks itu sendiri, yang menetapkan jumlah mereka tiga orang, berdasarkan tiga hadiah yang mereka bawa).

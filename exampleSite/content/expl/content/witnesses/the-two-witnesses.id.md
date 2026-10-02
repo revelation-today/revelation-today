@@ -9,8 +9,8 @@ next: /expl/content/jesus/a-different-christmas-story
 docType: expl
 appl: /appl/content/witnesses
 deeper:
-    - name: Sisa Israel
-      link:  /expl/background/israel/the-remnant-of-israel
+    - name: "Harfiah atau simbolis?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Eksodus Kedua
@@ -24,6 +24,11 @@ sources:
       ref: bauckham_rev
     - pages: 266–283
       ref: bauckham_climax
+readBefore:
+    - name: "Perjanjian Allah"
+      link:  /expl/background/israel/gods-covenant
+    - name: "Sisa Israel"
+      link:  /expl/background/israel/the-remnant-of-israel
 ---
 
 {{% bible val="Wahyu pasal 11" link="rev:11" lang="ind" %}} memperkenalkan dua saksi yang kisahnya termasuk salah satu yang paling diperdebatkan dalam kitab ini. Identitas mereka jauh dari pasti, tetapi perdebatan itu sendiri menyingkapkan sebuah pelajaran yang jelas dan menggugah bagi siapa pun yang berusaha mengikuti Yesus dengan setia.

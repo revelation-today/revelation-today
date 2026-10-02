@@ -9,6 +9,10 @@ next: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 docType: expl
 appl: /appl/content/harlot
 deeper:
+    - name: "Gerçek veya sembolik"
+      link:  /expl/background/literature/literally-or-symbolic
+    - name: "İncil’den referanslarla dolu"
+      link:  /expl/background/literature/full-of-biblical-references
     - name: İmparatorlukla alay eder gibi Babil
       link:  /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 sources: 

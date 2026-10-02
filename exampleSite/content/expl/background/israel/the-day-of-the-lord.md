@@ -7,6 +7,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Why this matters for Revelation:** Revelation's "great day of their wrath" (6:17) and "great day of God Almighty" (16:14) are this Day — see {{% int_link val="the Day of the Lord in Revelation" link="/expl/background/israel/the-day-of-the-lord#d4y1" %}}.
+{{< /callout >}}
+
 When you hear "Day of the Lord," you probably picture the destruction of the world. But that's not quite what the phrase means in Scripture. To see where it actually comes from, we need to trace it back through Israel's covenant history.
 
 ## Origin of the Day of the Lord

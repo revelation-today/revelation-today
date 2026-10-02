@@ -9,8 +9,8 @@ next: /expl/content/jesus/a-different-christmas-story
 docType: expl
 appl: /appl/content/witnesses
 deeper:
-    - name: İsrail’in kalıntıları
-      link:  /expl/background/israel/the-remnant-of-israel
+    - name: "Gerçek veya sembolik"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: İkinci Çıkış
@@ -24,6 +24,11 @@ sources:
       ref: bauckham_rev
     - pages: 266–283
       ref: bauckham_climax
+readBefore:
+    - name: "Tanrı’nın antlaşması"
+      link:  /expl/background/israel/gods-covenant
+    - name: "İsrail’in kalıntıları"
+      link:  /expl/background/israel/the-remnant-of-israel
 ---
 
 {{% bible val="Vahiy'in 11. bölümü" link="rev:11" lang="tr" %}} bize, kitaptaki en çok tartışılan öykülerden birinin kahramanları olan iki tanığı tanıtır. Kimlikleri konusunda kesin bir uzlaşı yoktur, ama tartışmanın kendisi, İsa'yı sadakatle izlemeye çalışan herkes için açık ve sorgulayıcı bir ders ortaya çıkarır.

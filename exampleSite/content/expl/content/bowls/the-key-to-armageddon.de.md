@@ -9,6 +9,8 @@ next: /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 docType: expl
 appl: /appl/content/bowls
 deeper:
+    - name: "Wörtlich oder symbolisch?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Der Tag des Herrn
       link:  /expl/background/israel/the-day-of-the-lord
     - name: Die Schlacht von Karkemisch

@@ -12,6 +12,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Mengapa ini penting bagi Kitab Wahyu:** Artikel ini menerapkan seluruh bagian tentang Israel pada apa yang dikatakan Kitab Wahyu tentang orang Yahudi dan orang Kristen — terutama dalam surat kepada {{% int_link val="Smirna" link="/expl/content/letters/the-letter-to-the-church-in-smyrna" %}} dan {{% int_link val="Filadelfia" link="/expl/content/letters/the-letter-to-the-church-in-philadelphia" %}}.
+{{< /callout >}}
+
 Penyebutan orang Yahudi dan Israel dalam Kitab Wahyu sungguh kontroversial. Mengapa kitab ini berbicara tentang mereka dengan cara seperti itu, dan bagaimana ketegangan ini dapat diselesaikan?
 
 ## Ketegangan dengan Orang Yahudi

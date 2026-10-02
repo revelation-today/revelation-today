@@ -9,6 +9,8 @@ next: /expl/content/harlot/who-is-the-harlot-babylon-part-2
 docType: expl
 appl: /appl/content/harlot
 deeper:
+    - name: "Literally or symbolic"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: The Harlot part 2
@@ -18,6 +20,9 @@ deeper:
 sources: 
     - pages: 847–890
       ref: beale_rev
+readBefore:
+    - name: "Pax Romana — the key to understanding Revelation"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Some people say it's the Pope; some say it's the economy. It could be anyone — even the Church. So who is the Harlot Babylon?

@@ -14,6 +14,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Warum das für die Offenbarung wichtig ist:** Die Offenbarung erzählt den Auszug als die Geschichte der Gemeinde, vom Passalamm bis zum Lied des Mose — siehe {{% int_link val="der neue Auszug in der Offenbarung" link="/expl/background/israel/the-second-exodus#x0d1" %}}.
+{{< /callout >}}
+
 Es gab einen Auszug aus Ägypten. Aber als Israel es versäumte, das Gesetz zu halten, ging es ins Exil — die ganze Zeit über erfüllt von Verheißungen der Rückkehr. Als die Rückkehr schließlich kam, zeigte sich jedoch, dass sich nichts wirklich verändert hatte. Die Schlussfolgerung, die die Propheten und das spätere jüdische Denken daraus zogen: Israel war immer noch im Exil, wartete immer noch auf einen neuen Auszug. Dieser neue Auszug ist es, der mit Jesus kommt.
 
 ## Der Auszug bei Markus
@@ -71,6 +75,8 @@ Zusammengenommen zeigt dieser Vergleich eine echte Spannung zwischen der Apostel
 Besonders scharf wird Gericht angekündigt, wann immer diese Götzen — oder die Menschen hinter ihnen — Göttlichkeit für sich beanspruchen, wie in den Fällen von {{% bible val="Simon" link="act:8,4-24" lang="de" %}}, {{% bible val="Herodes" link="act:12,20-23" lang="de" %}} und {{% bible val="Elymas" link="act:13,10-11" lang="de" %}}.
 
 ## Der neue Auszug in der Offenbarung
+
+<a name="x0d1"></a>
 
 Die Offenbarung erzählt die Geschichte des Auszugs noch einmal — jetzt als die Geschichte der Gemeinde. Kapitel für Kapitel stammen die Bilder aus dem Exodus:
 

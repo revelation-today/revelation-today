@@ -14,6 +14,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Why this matters for Revelation:** Revelation retells the exodus as the church's own story, from the Passover Lamb to the song of Moses — see {{% int_link val="the new exodus in Revelation" link="/expl/background/israel/the-second-exodus#x0d1" %}}.
+{{< /callout >}}
+
 There was an exodus from Egypt. But when Israel failed to keep the law, they went into exile — filled, all the while, with promises of their return. When the return finally came, though, they saw that nothing had really changed. The conclusion the prophets and later Jewish thought drew from this: Israel was still in exile, still waiting for a new exodus. That new exodus is what arrives with Jesus.
 
 ## The exodus in Mark
@@ -71,6 +75,8 @@ Taken together, this comparison highlights a real tension between Acts and Isaia
 Judgment is announced with particular force whenever these idols, or the people behind them, claim divinity for themselves — as in the cases of {{% bible val="Simon" link="act:8,4-24" lang="en" %}}, {{% bible val="Herod" link="act:12,20-23" lang="en" %}}, and {{% bible val="Elymas" link="act:13,10-11" lang="en" %}}.
 
 ## The new exodus in Revelation
+
+<a name="x0d1"></a>
 
 Revelation tells the exodus story once more, now as the church's own story. Chapter after chapter, the pictures come from the Exodus:
 

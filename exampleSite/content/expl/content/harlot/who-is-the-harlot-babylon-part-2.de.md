@@ -9,6 +9,10 @@ next: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 docType: expl
 appl: /appl/content/harlot
 deeper:
+    - name: "Wörtlich oder symbolisch?"
+      link:  /expl/background/literature/literally-or-symbolic
+    - name: "Voller biblischer Querverweise"
+      link:  /expl/background/literature/full-of-biblical-references
     - name: Babel als Spottlied auf das Römische Reich
       link:  /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 sources: 

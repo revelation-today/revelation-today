@@ -7,6 +7,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Warum das für die Offenbarung wichtig ist:** Die Offenbarung lebt in der Zeit zwischen den beiden Hälften des Tages des Herrn — die Rettung ist schon da, das Gericht steht noch aus. Siehe {{% int_link val="schon jetzt, aber noch nicht" link="/expl/background/israel/jesus-and-the-covenant#already" %}} und {{% int_link val="die große Trübsal" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}.
+{{< /callout >}}
+
 Als Jesus auf die Erde kam, „überraschten“ seine Botschaft und sein Verhalten die Menschen — und für die Juden seiner Zeit war diese Überraschung geradezu schockierend. Warum, und was hat das alles mit dem Bund zu tun?
 
 ## Die Erwartung an den Tag des Herrn

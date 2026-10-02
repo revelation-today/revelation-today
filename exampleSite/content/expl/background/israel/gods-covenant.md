@@ -17,6 +17,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Why this matters for Revelation:** The seven letters, the series of seven, the ark of the covenant in 11:19 and the book's closing warning all follow the covenant pattern described here — see {{% int_link val="the covenant in Revelation" link="/expl/background/israel/gods-covenant#c0f2" %}}.
+{{< /callout >}}
+
 In ancient times, {{% int_link val="being in a family was essential for survival" link="/expl/background/israel/the-role-of-family-in-the-bible" %}} — it meant provision, protection, and everything in between — and being in an important family was even better. But how did you join a family if you weren't born into the right one? Scripture recognizes four doors in: marriage, birth, adoption, and covenant.
 
 ## Historical covenants

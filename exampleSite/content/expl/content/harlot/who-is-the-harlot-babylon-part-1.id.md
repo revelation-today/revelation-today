@@ -9,6 +9,8 @@ next: /expl/content/harlot/who-is-the-harlot-babylon-part-2
 docType: expl
 appl: /appl/content/harlot
 deeper:
+    - name: "Harfiah atau simbolis?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: "Siapakah sang pelacur: Bagian 2"
@@ -18,6 +20,9 @@ deeper:
 sources: 
     - pages: 847–890
       ref: beale_rev
+readBefore:
+    - name: "Pax Romana — Kunci untuk Memahami Kitab Wahyu"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Ada yang mengatakan itu adalah Paus; ada yang mengatakan itu adalah sistem ekonomi. Bisa siapa saja — bahkan gereja sekalipun. Jadi, siapakah sang pelacur Babel itu?

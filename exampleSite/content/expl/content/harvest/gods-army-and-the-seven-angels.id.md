@@ -15,8 +15,8 @@ sources:
       ref: bauckham_rev
     - pages: 283–307
       ref: bauckham_climax
-deeper:
-    - name: Eksodus Kedua
+readBefore:
+    - name: "Eksodus Kedua"
       link:  /expl/background/israel/the-second-exodus
 ---
 

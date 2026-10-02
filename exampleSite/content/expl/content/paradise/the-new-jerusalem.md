@@ -14,6 +14,11 @@ sources:
 deeper:
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
+readBefore:
+    - name: "Literally or symbolic"
+      link:  /expl/background/literature/literally-or-symbolic
+    - name: "The church is part of Israel"
+      link:  /expl/background/israel/the-church-is-part-of-israel
 ---
 
 What will heaven be like, and what will hell be like? Revelation doesn't answer either question in exhaustive detail, but it gives real insight into both.

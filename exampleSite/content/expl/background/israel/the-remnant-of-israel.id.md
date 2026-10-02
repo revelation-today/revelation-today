@@ -16,6 +16,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Mengapa ini penting bagi Kitab Wahyu:** Sisa yang dibalik dalam 11:13, "keturunannya yang lain" dalam 12:17, dan yang 144.000 semuanya dibangun di atas gagasan ini — lihat {{% int_link val="sisa dalam Kitab Wahyu" link="/expl/background/israel/the-remnant-of-israel#r4m1" %}}.
+{{< /callout >}}
+
 Apa sebenarnya sisa Israel itu, dan bagaimana sebuah sisa yang kecil bisa pulih dari pembuangan dan sekali lagi menjadi umat yang dijanjikan Allah kepada Abraham?
 
 ## Sisa Itu

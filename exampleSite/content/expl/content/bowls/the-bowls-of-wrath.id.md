@@ -9,13 +9,14 @@ next: /expl/content/bowls/the-key-to-armageddon
 docType: expl
 appl: /appl/content/bowls
 deeper:
-    - name: Eksodus Kedua
-      link:  /expl/background/israel/the-second-exodus
     - name: Harmagedon
       link:  /expl/content/bowls/the-key-to-armageddon
 sources: 
     - pages: 681–730
       ref: beale_rev
+readBefore:
+    - name: "Eksodus Kedua"
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Cawan-cawan murka dalam Kitab Wahyu bisa memberi kesan seolah-olah Allah akhirnya kehabisan kesabaran terhadap dunia yang tidak mau mendengar, dan melampiaskan satu ledakan amarah terakhir. Namun kesan itu justru terbalik - kebenarannya lebih dekat kepada yang sebaliknya.

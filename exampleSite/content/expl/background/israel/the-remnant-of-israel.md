@@ -16,6 +16,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Why this matters for Revelation:** The reversed remnant of 11:13, "the rest of her offspring" in 12:17 and the 144,000 all build on this idea — see {{% int_link val="the remnant in Revelation" link="/expl/background/israel/the-remnant-of-israel#r4m1" %}}.
+{{< /callout >}}
+
 What exactly is the remnant of Israel, and how does a mere remnant recover from exile and become, once again, the people God promised Abraham?
 
 ## The remnant

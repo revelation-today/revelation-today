@@ -9,6 +9,8 @@ next: /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 docType: expl
 appl: /appl/content/bowls
 deeper:
+    - name: "Harfiah atau simbolis?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Hari Tuhan
       link:  /expl/background/israel/the-day-of-the-lord
     - name: Pertempuran Karkemis

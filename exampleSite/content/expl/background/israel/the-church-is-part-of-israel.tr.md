@@ -10,6 +10,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Bu, Vahiy için neden önemli:** Vahiy'de kilise İsrail'in adlarını taşır: {{% bible val="bir krallık ve kâhinler" link="rev:1,6" lang="tr" %}}, gelin ve kapılarında {{% bible val="on iki oymağın adları" link="rev:21,12-14" lang="tr" %}}, temellerinde on iki elçinin adları bulunan bir kent. → {{% int_link val="Yeni Yeruşalim" link="/expl/content/paradise/the-new-jerusalem" %}}
+{{< /callout >}}
+
 Bu ilk bakışta garip geliyor. Kilise İsrail'den daha büyük değil mi? Yoksa kilise İsrail'in yerini mi alıyor? Ya da İsrail, zamanın sonunda kiliseden ayrı olarak geri mi dönecek? Bu soruların her biri, yakından bakıldığında aslında var olmayan bir tartışmayı varsayar.
 
 ## Yahudi olmayanların gizemi

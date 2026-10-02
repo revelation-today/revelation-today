@@ -9,6 +9,8 @@ next: /expl/content/seals/the-wrath-of-the-lamb
 docType: expl
 appl: /appl/content/seals
 deeper:
+    - name: "Harfiah atau simbolis?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: "Yang 144.000"
       link:  /expl/content/army/the-144000
     - name: Sangkakala-Sangkakala

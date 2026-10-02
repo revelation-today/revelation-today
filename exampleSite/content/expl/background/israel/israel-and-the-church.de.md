@@ -12,6 +12,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Warum das für die Offenbarung wichtig ist:** Dieser Artikel wendet den ganzen Israel-Teil auf das an, was die Offenbarung über Juden und Christen sagt — vor allem in den Sendschreiben an {{% int_link val="Smyrna" link="/expl/content/letters/the-letter-to-the-church-in-smyrna" %}} und {{% int_link val="Philadelphia" link="/expl/content/letters/the-letter-to-the-church-in-philadelphia" %}}.
+{{< /callout >}}
+
 Die Erwähnung von Juden und Israel in der Offenbarung ist wirklich umstritten. Warum spricht das Buch so von ihnen, und wie lässt sich diese Spannung auflösen?
 
 ## Die Spannung mit den Juden

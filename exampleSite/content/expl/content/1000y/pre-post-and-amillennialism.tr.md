@@ -15,6 +15,8 @@ sources:
       ref: aune_rev
     - ref: bock_millennium
 deeper:
+    - name: "Gerçek veya sembolik"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: İsa ve antlaşma
       link:  /expl/background/israel/jesus-and-the-covenant
 ---

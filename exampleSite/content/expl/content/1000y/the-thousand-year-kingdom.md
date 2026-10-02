@@ -14,10 +14,17 @@ sources:
     - pages: 1084–1090
       ref: aune_rev
 deeper:
+    - name: "Literally or symbolic"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Jesus and the covenant
       link:  /expl/background/israel/jesus-and-the-covenant
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
+readBefore:
+    - name: "Preterist, historicist, futurist, or idealist?"
+      link:  /expl/background/literature/preterist-historicist-futurist-or-idealist
+    - name: "The Structure of the Book of Revelation"
+      link:  /expl/background/structure/the-structure-of-the-book-of-revelation
 ---
 
 The thousand-year kingdom of Revelation 20 has spawned more competing theories than almost any other passage in the book. Rather than starting from a theory, let's start from the text itself and its context, and see what a fresh look turns up. What follows argues for one reading among several long-held Christian positions on this passage — the {{% int_link val="next article" link="/expl/content/1000y/pre-post-and-amillennialism" %}} lays out the full debate and gives the alternatives their fair hearing.

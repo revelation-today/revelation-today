@@ -9,6 +9,8 @@ next: /expl/content/scroll/the-little-scroll
 docType: expl
 appl: /appl/content/trumpets
 deeper:
+    - name: "Full of biblical references"
+      link:  /expl/background/literature/full-of-biblical-references
     - name: The second Exodus
       link:  /expl/background/israel/the-second-exodus
     - name: The little scroll

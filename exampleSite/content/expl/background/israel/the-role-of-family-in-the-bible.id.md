@@ -10,6 +10,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Mengapa ini penting bagi Kitab Wahyu:** Kitab Wahyu berbicara dengan istilah keluarga: Yesus adalah {{% bible val="yang pertama bangkit dari antara orang mati" link="rev:1,5" lang="ind" %}}, penebus yang {{% bible val="dengan darah-Nya telah membeli orang-orang bagi Allah" link="rev:5,9" lang="ind" %}}, dan barangsiapa menang {{% bible val="akan memperoleh semuanya ini, dan Aku akan menjadi Allahnya dan ia akan menjadi anak-Ku" link="rev:21,7" lang="ind" %}}.
+{{< /callout >}}
+
 Apakah Alkitab mendukung dan mendorong struktur patriarki? Apakah Alkitab mengajarkan bahwa perempuan kurang berarti daripada laki-laki? Gambarannya lebih rumit daripada itu — izinkan saya menjelaskan bagaimana keluarga sesungguhnya berfungsi dalam budaya kuno, dan mengapa hal itu penting untuk memahami bagian Alkitab yang lain.
 
 ## Pentingnya Keluarga

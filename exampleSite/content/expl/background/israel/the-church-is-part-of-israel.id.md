@@ -10,6 +10,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Mengapa ini penting bagi Kitab Wahyu:** Dalam Kitab Wahyu gereja menyandang nama-nama Israel: {{% bible val="suatu kerajaan dan imam-imam" link="rev:1,6" lang="ind" %}}, pengantin perempuan, dan sebuah kota yang pintu-pintu gerbangnya memuat {{% bible val="nama kedua belas suku" link="rev:21,12-14" lang="ind" %}} dan batu-batu dasarnya memuat kedua belas rasul. → {{% int_link val="Yerusalem Baru" link="/expl/content/paradise/the-new-jerusalem" %}}
+{{< /callout >}}
+
 Kedengarannya aneh pada mulanya. Bukankah gereja lebih besar daripada Israel? Atau apakah gereja menggantikan Israel? Ataukah Israel akan bangkit kembali pada akhir zaman, terlepas dari gereja? Setiap pertanyaan ini mengandaikan sebuah kontroversi yang, jika diteliti lebih dekat, sebenarnya tidak ada.
 
 ## Rahasia Bangsa-Bangsa Lain

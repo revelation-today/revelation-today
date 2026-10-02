@@ -16,6 +16,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Bu, Vahiy için neden önemli:** 11:13'teki tersine çevrilmiş kalıntı, 12:17'deki "soyunun geri kalanı" ve 144.000 bu düşünce üzerine kuruludur — bkz. {{% int_link val="Vahiy'de kalıntı" link="/expl/background/israel/the-remnant-of-israel#r4m1" %}}.
+{{< /callout >}}
+
 İsrail'in kalıntısı tam olarak nedir ve yalnızca bir kalıntı, sürgünden nasıl kurtulup Tanrı'nın İbrahim'e vaat ettiği halk olarak yeniden var olabilir?
 
 ## Kalıntı

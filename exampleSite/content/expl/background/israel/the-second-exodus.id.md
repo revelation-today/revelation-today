@@ -14,6 +14,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Mengapa ini penting bagi Kitab Wahyu:** Kitab Wahyu menceritakan ulang keluaran sebagai kisah gereja sendiri, dari Anak Domba Paskah sampai nyanyian Musa — lihat {{% int_link val="eksodus baru dalam Kitab Wahyu" link="/expl/background/israel/the-second-exodus#x0d1" %}}.
+{{< /callout >}}
+
 Ada sebuah eksodus dari Mesir. Tetapi ketika Israel gagal menaati Hukum Taurat, mereka pergi ke pembuangan — sepanjang waktu itu, dipenuhi janji-janji tentang kepulangan mereka. Namun ketika kepulangan itu akhirnya tiba, mereka melihat bahwa sebenarnya tidak ada yang benar-benar berubah. Kesimpulan yang ditarik para nabi dan pemikiran Yahudi selanjutnya dari hal ini: Israel masih tetap dalam pembuangan, masih menantikan sebuah eksodus baru. Eksodus baru itulah yang tiba bersama Yesus.
 
 ## Eksodus dalam Injil Markus
@@ -71,6 +75,8 @@ Jika digabungkan, perbandingan ini menyoroti sebuah ketegangan nyata antara Kisa
 Penghakiman diumumkan dengan tegas secara khusus setiap kali berhala-berhala ini, atau orang-orang di baliknya, mengklaim keilahian bagi diri mereka sendiri — seperti dalam kasus {{% bible val="Simon" link="act:8,4-24" lang="ind" %}}, {{% bible val="Herodes" link="act:12,20-23" lang="ind" %}}, dan {{% bible val="Elimas" link="act:13,10-11" lang="ind" %}}.
 
 ## Eksodus Baru dalam Kitab Wahyu
+
+<a name="x0d1"></a>
 
 Kitab Wahyu menceritakan kisah keluaran sekali lagi — kini sebagai kisah gereja sendiri. Pasal demi pasal, gambaran-gambarannya diambil dari peristiwa Keluaran:
 

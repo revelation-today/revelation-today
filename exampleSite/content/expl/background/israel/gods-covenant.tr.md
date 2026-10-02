@@ -17,6 +17,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Bu, Vahiy için neden önemli:** Yedi mektup, yedili diziler, 11:19'daki antlaşma sandığı ve kitabın kapanış uyarısı burada anlatılan antlaşma örüntüsünü izler — bkz. {{% int_link val="Vahiy'de antlaşma" link="/expl/background/israel/gods-covenant#c0f2" %}}.
+{{< /callout >}}
+
 {{% int_link val="Eski zamanlarda bir ailede olmak hayatta kalmak için gerekliydi" link="/expl/background/israel/the-role-of-family-in-the-bible" %}} — bu, geçim, koruma ve daha pek çok şey anlamına geliyordu — ve önemli bir ailede olmak daha da iyiydi. Ama doğru aileye doğmadıysanız bir aileye nasıl katılırdınız? Kutsal Kitap dört kapı tanır: evlilik, doğum, evlat edinme ve antlaşma.
 
 ## Tarihi antlaşmalar

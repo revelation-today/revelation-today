@@ -14,6 +14,11 @@ sources:
 deeper:
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
+readBefore:
+    - name: "Gerçek veya sembolik"
+      link:  /expl/background/literature/literally-or-symbolic
+    - name: "Kilise İsrail’in bir parçasıdır"
+      link:  /expl/background/israel/the-church-is-part-of-israel
 ---
 
 Cennet nasıl olacak, cehennem nasıl olacak? Vahiy her iki soruyu da eksiksiz ayrıntısıyla yanıtlamaz, ama ikisine dair de gerçek bir kavrayış sunar.

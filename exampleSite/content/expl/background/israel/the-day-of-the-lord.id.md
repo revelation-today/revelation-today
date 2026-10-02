@@ -7,6 +7,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Mengapa ini penting bagi Kitab Wahyu:** "Hari besar murka" (6:17) dan "hari besar Allah Yang Mahakuasa" (16:14) dalam Kitab Wahyu adalah Hari ini — lihat {{% int_link val="Hari Tuhan dalam Kitab Wahyu" link="/expl/background/israel/the-day-of-the-lord#d4y1" %}}.
+{{< /callout >}}
+
 Ketika mendengar istilah "Hari Tuhan", Anda mungkin membayangkan kehancuran dunia. Tetapi itu bukanlah makna sebenarnya dari ungkapan ini dalam Alkitab. Untuk melihat dari mana istilah ini sebenarnya berasal, kita perlu menelusurinya kembali melalui sejarah perjanjian Israel.
 
 ## Asal Mula Hari Tuhan

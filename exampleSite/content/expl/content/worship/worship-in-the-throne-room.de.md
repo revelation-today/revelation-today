@@ -16,6 +16,9 @@ deeper:
 sources: 
     - pages: 311–337
       ref: beale_rev
+readBefore:
+    - name: "Der Aufbau der Offenbarung"
+      link:  /expl/background/structure/the-structure-of-the-book-of-revelation
 ---
 
 Die Anbetung im Thronsaal ist die Antwort auf die Probleme, die in den Sendschreiben an die Gemeinden aufgezeigt wurden. Warum — und wie — wird diese Szene zur Einleitung all der Plagen, die folgen?

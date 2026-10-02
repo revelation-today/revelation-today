@@ -22,6 +22,9 @@ sources:
       ref: beale_rev
     - pages: 88   
       ref: bauckham_rev
+readBefore:
+    - name: "Pax Romana — Kunci untuk Memahami Kitab Wahyu"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Salah satu hal pertama yang terlintas di benak orang ketika memikirkan Kitab Wahyu adalah sang naga dan kedua binatang dengan angka 666, yang menandai tangan dan dahi manusia. Tidak sedikit spekulasi seputar makna hal ini, jadi marilah kita mencermati teksnya sendiri dengan saksama.

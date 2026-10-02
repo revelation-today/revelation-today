@@ -7,6 +7,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Why this matters for Revelation:** Revelation lives in the time between the two halves of the Day of the Lord — salvation already here, judgment still to come. See {{% int_link val="already, but not yet" link="/expl/background/israel/jesus-and-the-covenant#already" %}} and {{% int_link val="the end time" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}.
+{{< /callout >}}
+
 When Jesus came to earth, His message and behavior "surprised" people — and for the Jews of His day, that surprise was genuinely shocking. Why, and what does any of this have to do with the covenant?
 
 ## The expectation of the Day of the Lord

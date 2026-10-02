@@ -22,6 +22,9 @@ sources:
       ref: beale_rev
     - pages: 88–94
       ref: bauckham_rev
+readBefore:
+    - name: "Pax Romana — vahiy kitabını anlamak için anahtar"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Vahiy kitabını düşününce akla gelen ilk şeylerden biri, ejderha ve 666 sayısıyla insanların ellerine ve alınlarına işaret koyan iki canavardır. Bunun ne anlama gelebileceğine dair spekülasyon hiç eksik olmuyor; öyleyse metnin kendisine dikkatle bakalım.

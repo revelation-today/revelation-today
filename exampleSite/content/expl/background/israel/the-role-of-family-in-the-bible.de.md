@@ -10,6 +10,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Warum das für die Offenbarung wichtig ist:** Die Offenbarung spricht in Familienbegriffen: Jesus ist {{% bible val="der Erstgeborene aus den Toten" link="rev:1,5" lang="de" %}}, der Löser, der {{% bible val="mit seinem Blut Menschen für Gott erkauft hat" link="rev:5,9" lang="de" %}}, und wer überwindet, {{% bible val="wird alles erben, und ich werde sein Gott sein, und er wird mein Sohn sein" link="rev:21,7" lang="de" %}}.
+{{< /callout >}}
+
 Unterstützt und fördert die Bibel patriarchale Strukturen? Lehrt sie, dass Frauen weniger zählen als Männer? Das Bild ist komplizierter als das — lass mich erklären, wie Familie in der antiken Kultur tatsächlich aussah und warum das für das Lesen der übrigen Schrift wichtig ist.
 
 ## Die Wichtigkeit der Familie

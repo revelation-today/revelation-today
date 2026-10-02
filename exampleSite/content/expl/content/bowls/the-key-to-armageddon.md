@@ -9,6 +9,8 @@ next: /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 docType: expl
 appl: /appl/content/bowls
 deeper:
+    - name: "Literally or symbolic"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: The day of the Lord
       link:  /expl/background/israel/the-day-of-the-lord
     - name: The battle of Karkemish

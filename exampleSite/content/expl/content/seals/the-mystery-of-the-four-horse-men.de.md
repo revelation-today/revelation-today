@@ -9,6 +9,8 @@ next: /expl/content/seals/the-wrath-of-the-lamb
 docType: expl
 appl: /appl/content/seals
 deeper:
+    - name: "Wörtlich oder symbolisch?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: "Die 144 000"
       link:  /expl/content/army/the-144000
     - name: Die Posaunen

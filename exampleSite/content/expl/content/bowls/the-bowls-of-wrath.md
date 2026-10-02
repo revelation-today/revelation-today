@@ -9,13 +9,14 @@ next: /expl/content/bowls/the-key-to-armageddon
 docType: expl
 appl: /appl/content/bowls
 deeper:
-    - name: The second Exodus
-      link:  /expl/background/israel/the-second-exodus
     - name: Armageddon
       link:  /expl/content/bowls/the-key-to-armageddon
 sources: 
     - pages: 681–730
       ref: beale_rev
+readBefore:
+    - name: "The second Exodus"
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 The bowls of wrath in the book of Revelation can give the impression of a God who has finally lost patience with a world that won't listen and lets loose one last outburst of anger. But that reading has it backwards — the truth is closer to the opposite.

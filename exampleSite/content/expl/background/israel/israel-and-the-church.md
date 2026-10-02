@@ -12,6 +12,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Why this matters for Revelation:** This article applies the whole Israel section to what Revelation says about Jews and Christians — above all in the letters to {{% int_link val="Smyrna" link="/expl/content/letters/the-letter-to-the-church-in-smyrna" %}} and {{% int_link val="Philadelphia" link="/expl/content/letters/the-letter-to-the-church-in-philadelphia" %}}.
+{{< /callout >}}
+
 The mention of Jews and Israel in Revelation is genuinely controversial. Why does the book speak of them the way it does, and how can the tension be resolved?
 
 ## The tension with the Jews

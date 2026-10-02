@@ -15,6 +15,8 @@ sources:
       ref: aune_rev
     - ref: bock_millennium
 deeper:
+    - name: "Literally or symbolic"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Jesus and the covenant
       link:  /expl/background/israel/jesus-and-the-covenant
 ---

@@ -9,13 +9,14 @@ next: /expl/content/bowls/the-key-to-armageddon
 docType: expl
 appl: /appl/content/bowls
 deeper:
-    - name: İkinci Çıkış
-      link:  /expl/background/israel/the-second-exodus
     - name: Armageddon
       link:  /expl/content/bowls/the-key-to-armageddon
 sources: 
     - pages: 681–730
       ref: beale_rev
+readBefore:
+    - name: "İkinci Çıkış"
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Vahiy Kitabı'ndaki gazap kaseleri, artık sabrı tükenmiş ve söz dinlemeyen bir dünyaya karşı son bir öfke patlaması yaşayan bir Tanrı izlenimi verebilir. Ama bu okuma tam tersinedir; gerçek, bunun neredeyse zıddına yakındır.

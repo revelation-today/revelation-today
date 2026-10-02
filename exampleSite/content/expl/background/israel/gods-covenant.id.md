@@ -17,6 +17,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Mengapa ini penting bagi Kitab Wahyu:** Ketujuh surat, rangkaian tujuh, tabut perjanjian dalam 11:19, dan peringatan penutup kitab ini semuanya mengikuti pola perjanjian yang dijelaskan di sini — lihat {{% int_link val="perjanjian dalam Kitab Wahyu" link="/expl/background/israel/gods-covenant#c0f2" %}}.
+{{< /callout >}}
+
 Pada zaman dahulu, {{% int_link val="menjadi bagian dari sebuah keluarga sangat menentukan kelangsungan hidup seseorang" link="/expl/background/israel/the-role-of-family-in-the-bible" %}} — itu berarti penyediaan kebutuhan, perlindungan, dan segala sesuatu di antaranya — dan menjadi bagian dari keluarga yang berpengaruh tentu lebih baik lagi. Tetapi bagaimana seseorang bisa bergabung dengan sebuah keluarga jika ia tidak dilahirkan ke dalamnya? Alkitab mengenal empat pintu masuk: pernikahan, kelahiran, adopsi, dan perjanjian.
 
 ## Perjanjian-Perjanjian dalam Sejarah

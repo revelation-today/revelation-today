@@ -9,6 +9,8 @@ next: /expl/content/harlot/who-is-the-harlot-babylon-part-2
 docType: expl
 appl: /appl/content/harlot
 deeper:
+    - name: "Gerçek veya sembolik"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Fahişe 2. bölüm
@@ -18,6 +20,9 @@ deeper:
 sources: 
     - pages: 847–890
       ref: beale_rev
+readBefore:
+    - name: "Pax Romana — vahiy kitabını anlamak için anahtar"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Kimileri Papa olduğunu söyler, kimileri ekonomi olduğunu. Herkes olabilir — hatta kilise bile. Peki fahişe Babil kimdir?

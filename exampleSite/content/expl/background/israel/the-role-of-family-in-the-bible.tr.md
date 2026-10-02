@@ -10,6 +10,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Bu, Vahiy için neden önemli:** Vahiy aile diliyle konuşur: İsa {{% bible val="ölüler arasından ilk doğan" link="rev:1,5" lang="tr" %}}, {{% bible val="kanıyla insanları Tanrı için satın alan" link="rev:5,9" lang="tr" %}} kurtarıcıdır ve galip gelen {{% bible val="bunları miras alacak; ben onun Tanrısı olacağım, o da benim oğlum olacak" link="rev:21,7" lang="tr" %}}.
+{{< /callout >}}
+
 Kutsal Kitap ataerkil yapıları destekleyip teşvik eder mi? Kadınların erkeklerden daha az önemli olduğunu mu öğretir? Aslında durum göründüğünden daha karmaşıktır — antik kültürde ailenin gerçekte nasıl işlediğini ve bunun Kutsal Kitap'ın geri kalanını okurken neden önemli olduğunu ele alalım.
 
 ## Ailenin önemi

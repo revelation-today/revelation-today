@@ -11,8 +11,6 @@ appl: /appl/content/jesus
 deeper:
     - name: The remnant of Israel
       link:  /expl/background/israel/the-remnant-of-israel
-    - name: The second Exodus
-      link:  /expl/background/israel/the-second-exodus
     - name: Overview in Daniel
       link:  /expl/bible/daniel/the-book-of-daniel
     - name: The four kingdoms
@@ -24,6 +22,9 @@ deeper:
 sources: 
     - pages: 621–681
       ref: beale_rev
+readBefore:
+    - name: "The second Exodus"
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 As a Christian, you're probably very familiar with the classic Christmas story pieced together from {{% bible val="Luke" link="luk:2" lang="en" %}} and {{% bible val="Matthew" link="mat:2" lang="en" %}}: a somewhat romantic tale of shepherds and a baby laid in a manger, and far-flung travelers who followed a mysterious star (later tradition, not the text itself, fixed their number at three, based on the three gifts they brought).

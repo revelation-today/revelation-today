@@ -12,6 +12,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Bu, Vahiy için neden önemli:** Bu makale, İsrail bölümünün tamamını Vahiy'in Yahudiler ve Hristiyanlar hakkında söylediklerine uygular — özellikle {{% int_link val="İzmir" link="/expl/content/letters/the-letter-to-the-church-in-smyrna" %}} ve {{% int_link val="Filadelfiya" link="/expl/content/letters/the-letter-to-the-church-in-philadelphia" %}} kiliselerine yazılan mektuplarda.
+{{< /callout >}}
+
 Vahiy'de Yahudilerden ve İsrail'den söz edilişi gerçekten tartışmalıdır. Kitap onlardan neden bu şekilde söz eder ve bu gerilim nasıl çözülebilir?
 
 ## Yahudilerle gerilim

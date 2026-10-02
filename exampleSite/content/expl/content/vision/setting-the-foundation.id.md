@@ -12,8 +12,15 @@ next: /expl/content/vision/the-vision
 docType: expl
 appl: /appl/content/vision
 deeper:
+    - name: "Harfiah atau simbolis?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Eksodus Kedua
       link:  /expl/background/israel/the-second-exodus
+readBefore:
+    - name: "Pax Romana — Kunci untuk Memahami Kitab Wahyu"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+    - name: "Bagaimana Saya Membaca Kitab Wahyu?"
+      link:  /expl/background/literature/the-book-of-revelation-how-to-read-it
 ---
 
 Kitab Wahyu dibuka dengan beberapa pernyataan yang mudah kita lewatkan begitu saja, padahal justru pernyataan-pernyataan itulah kunci untuk memahami segala sesuatu yang menyusul. Mari kita perhatikan dengan mata yang baru.

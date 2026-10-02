@@ -10,6 +10,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Warum das für die Offenbarung wichtig ist:** In der Offenbarung trägt die Gemeinde Israels Namen: {{% bible val="ein Königtum und Priester" link="rev:1,6" lang="de" %}}, die Braut und eine Stadt, deren Tore {{% bible val="die Namen der zwölf Stämme" link="rev:21,12-14" lang="de" %}} und deren Grundsteine die zwölf Apostel tragen. → {{% int_link val="Das Neue Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
+{{< /callout >}}
+
 Das klingt zunächst befremdlich. Ist die Gemeinde nicht größer als Israel? Oder ersetzt die Gemeinde Israel? Oder wird Israel am Ende der Zeit ein Comeback erleben, unabhängig von der Gemeinde? Jede dieser Fragen setzt eine Kontroverse voraus, die bei näherem Hinsehen gar nicht existiert.
 
 ## Das Geheimnis der Nationen

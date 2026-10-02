@@ -9,8 +9,8 @@ next: /expl/content/jesus/a-different-christmas-story
 docType: expl
 appl: /appl/content/witnesses
 deeper:
-    - name: Der Überrest von Israel
-      link:  /expl/background/israel/the-remnant-of-israel
+    - name: "Wörtlich oder symbolisch?"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Der zweite Auszug
@@ -24,6 +24,11 @@ sources:
       ref: bauckham_rev
     - pages: 266–283
       ref: bauckham_climax
+readBefore:
+    - name: "Der Bund Gottes"
+      link:  /expl/background/israel/gods-covenant
+    - name: "Der Überrest von Israel"
+      link:  /expl/background/israel/the-remnant-of-israel
 ---
 
 {{% bible val="Offenbarung Kapitel 11" link="rev:11" lang="de" %}} stellt zwei Zeugen vor, deren Geschichte zu den meistdiskutierten des Buches gehört. Ihre Identität ist alles andere als geklärt, aber gerade diese Debatte legt eine klare und herausfordernde Lehre für jeden frei, der Jesus treu nachfolgen will.

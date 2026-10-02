@@ -14,6 +14,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Bu, Vahiy için neden önemli:** Vahiy, Çıkış'ı Fısıh Kuzusu'ndan Musa'nın ezgisine dek kilisenin kendi öyküsü olarak yeniden anlatır — bkz. {{% int_link val="Vahiy'de yeni Çıkış" link="/expl/background/israel/the-second-exodus#x0d1" %}}.
+{{< /callout >}}
+
 Mısır'dan bir Çıkış yaşandı. Ama İsrail yasayı tutmayı başaramayınca sürgüne gitti — geri dönüş vaatleriyle dolu bir sürgüne. Dönüş nihayet geldiğinde ise gerçekte hiçbir şeyin değişmediğini gördüler. Peygamberlerin ve daha sonraki Yahudi düşüncesinin bundan çıkardığı sonuç şuydu: İsrail hâlâ sürgündeydi, hâlâ yeni bir çıkışı bekliyordu. İşte bu yeni çıkış, İsa'yla birlikte gelir.
 
 ## Markos'taki Çıkış
@@ -71,6 +75,8 @@ Bir araya getirildiğinde, bu karşılaştırma Elçilerin İşleri ile Yeşaya 
 Bu putlar ya da arkalarındaki kişiler kendileri için tanrılık iddia ettiğinde — {{% bible val="Simun" link="act:8,4-24" lang="tr" %}}, {{% bible val="Hirodes" link="act:12,20-23" lang="tr" %}} ve {{% bible val="Elimas" link="act:13,9-11" lang="tr" %}} örneklerinde olduğu gibi — yargı özel bir şiddetle duyurulur.
 
 ## Vahiy'de yeni Çıkış
+
+<a name="x0d1"></a>
 
 Vahiy, Çıkış öyküsünü bir kez daha anlatır — bu kez kilisenin kendi öyküsü olarak. Bölüm bölüm imgeler Mısır'dan Çıkış'tan gelir:
 

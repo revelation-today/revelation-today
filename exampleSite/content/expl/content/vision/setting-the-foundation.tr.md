@@ -12,8 +12,15 @@ next: /expl/content/vision/the-vision
 docType: expl
 appl: /appl/content/vision
 deeper:
+    - name: "Gerçek veya sembolik"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: İkinci Çıkış
       link:  /expl/background/israel/the-second-exodus
+readBefore:
+    - name: "Pax Romana — vahiy kitabını anlamak için anahtar"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+    - name: "Vahiy kitabı: Nasıl okunmalı?"
+      link:  /expl/background/literature/the-book-of-revelation-how-to-read-it
 ---
 
 Vahiy kitabı, kolayca gözden kaçırabileceğimiz ama sonrasında gelen her şeyi anlamak için kilit önem taşıyan birkaç ifadeyle başlar. Onlara yeni bir gözle bakalım.

@@ -7,6 +7,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Warum das für die Offenbarung wichtig ist:** Der „große Tag seines Zorns“ (6,17) und der „große Tag Gottes, des Allmächtigen“ (16,14) in der Offenbarung sind dieser Tag — siehe {{% int_link val="der Tag des Herrn in der Offenbarung" link="/expl/background/israel/the-day-of-the-lord#d4y1" %}}.
+{{< /callout >}}
+
 Wenn man „Tag des Herrn“ hört, denkt man wahrscheinlich an die Zerstörung der Welt. Aber das ist nicht ganz das, was der Ausdruck in der Schrift bedeutet. Um herauszufinden, woher er wirklich stammt, müssen wir ihn bis in die Bundesgeschichte Israels zurückverfolgen.
 
 ## Der Ursprung des Tages des Herrn

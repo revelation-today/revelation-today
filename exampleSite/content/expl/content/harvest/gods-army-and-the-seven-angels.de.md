@@ -15,8 +15,8 @@ sources:
       ref: bauckham_rev
     - pages: 283–307
       ref: bauckham_climax
-deeper:
-    - name: Der zweite Auszug
+readBefore:
+    - name: "Der zweite Auszug"
       link:  /expl/background/israel/the-second-exodus
 ---
 

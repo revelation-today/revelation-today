@@ -17,6 +17,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Warum das für die Offenbarung wichtig ist:** Die sieben Sendschreiben, die Siebenerreihen, die Bundeslade in 11,19 und die Schlusswarnung des Buches folgen alle dem hier beschriebenen Bundesmuster — siehe {{% int_link val="der Bund in der Offenbarung" link="/expl/background/israel/gods-covenant#c0f2" %}}.
+{{< /callout >}}
+
 In alter Zeit war es {{% int_link val="lebensnotwendig, Teil einer Familie zu sein" link="/expl/background/israel/the-role-of-family-in-the-bible" %}} — das bedeutete Versorgung, Schutz und alles, was dazugehört —, und Teil einer bedeutenden Familie zu sein war noch besser. Aber wie wurde man Teil einer Familie, wenn man nicht in die richtige hineingeboren wurde? Die Schrift kennt vier Türen: Heirat, Geburt, Adoption und Bund.
 
 ## Geschichtliche Bünde

@@ -9,8 +9,8 @@ next: /expl/content/jesus/a-different-christmas-story
 docType: expl
 appl: /appl/content/witnesses
 deeper:
-    - name: The remnant of Israel
-      link:  /expl/background/israel/the-remnant-of-israel
+    - name: "Literally or symbolic"
+      link:  /expl/background/literature/literally-or-symbolic
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: The second Exodus
@@ -24,6 +24,11 @@ sources:
       ref: bauckham_rev
     - pages: 266–283
       ref: bauckham_climax
+readBefore:
+    - name: "Gods covenant"
+      link:  /expl/background/israel/gods-covenant
+    - name: "The remnant of Israel"
+      link:  /expl/background/israel/the-remnant-of-israel
 ---
 
 {{% bible val="Revelation chapter 11" link="rev:11" lang="en" %}} introduces two witnesses whose story is one of the most debated in the book. Their identity is far from settled, but the debate itself uncovers a clear and searching lesson for anyone trying to follow Jesus faithfully.

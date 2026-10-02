@@ -22,6 +22,9 @@ sources:
       ref: beale_rev
     - pages: 88   
       ref: bauckham_rev
+readBefore:
+    - name: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
+      link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
 Eines der ersten Dinge, die einem beim Buch der Offenbarung in den Sinn kommen, sind der Drache und die beiden Tiere mit der Zahl 666, die Menschen an Hand und Stirn zeichnen. Es gibt reichlich Spekulation darüber, was das bedeuten könnte — schauen wir uns also den Text selbst genau an.

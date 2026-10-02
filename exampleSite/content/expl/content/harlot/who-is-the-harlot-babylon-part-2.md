@@ -9,6 +9,10 @@ next: /expl/content/harlot/the-character-and-destiny-of-the-harlot
 docType: expl
 appl: /appl/content/harlot
 deeper:
+    - name: "Literally or symbolic"
+      link:  /expl/background/literature/literally-or-symbolic
+    - name: "Full of biblical references"
+      link:  /expl/background/literature/full-of-biblical-references
     - name: Babel as mocking on the empire
       link:  /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 sources: 

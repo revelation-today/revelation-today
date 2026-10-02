@@ -114,7 +114,7 @@ Rather than picking one of the four, this site reads Revelation as doing all fou
 - It's less falsifiable than the other views — when a specific identification doesn't fit, an eclectic reader can always say "that part is symbolic" or "that part is still future," which can look like having it both ways rather than following one consistent rule.
 - It takes more interpretive judgment call by call, rather than one rule applied uniformly throughout, so two eclectic readers can land in different places on the very same passage.
 - Advocates of each of the four pure views can fairly say it borrows their view's real insight while declining to commit to its edges — a charge that's hard to fully answer.
-- Without real care, "it's eclectic" can become a label for simply not having done the work of deciding — which is exactly why each specific claim on this site tries to say plainly which of the four instincts is doing the work in that instance, rather than hiding behind the label.
+- Without real care, "it's eclectic" can become a label for simply not having done the work of deciding — which is why this site tries to name, wherever it matters, which of the four instincts is doing the work — as the {{% int_link val="millennium chapter" link="/expl/content/1000y/pre-post-and-amillennialism" %}} and {{% int_link val="the trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation#e7a1" %}} do — rather than hiding behind the label.
 
 ## So which one?
 

@@ -7,6 +7,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Bu, Vahiy için neden önemli:** Vahiy'deki "büyük gazap günü" (6:17) ve "Her Şeye Gücü Yeten Tanrı'nın büyük günü" (16:14) bu Gün'dür — bkz. {{% int_link val="Vahiy'de Rab'bin günü" link="/expl/background/israel/the-day-of-the-lord#d4y1" %}}.
+{{< /callout >}}
+
 "Rab'bin Günü" dediğinizde muhtemelen aklınıza dünyanın yok oluşu geliyor. Ama Kutsal Kitap'ta bu ifade tam olarak bunu kastetmez. Bu ifadenin gerçekte nereden geldiğini görmek için İsrail'in antlaşma tarihine kadar geri gitmemiz gerekiyor.
 
 ## Rab'bin Günü'nün kökeni

@@ -114,7 +114,7 @@ Bu site, dört görüşten birini seçmek yerine, Vahiy'i hepsini aynı anda yap
 - Diğer görüşlere göre daha az yanlışlanabilirdir — belirli bir özdeşleştirme uymadığında, eklektik bir okuyucu her zaman "o kısım sembolik" ya da "o kısım hâlâ gelecekte" diyebilir; bu da tek, tutarlı bir kurala uymak yerine her iki tarafı da açık tutmak gibi görünebilir.
 - Kitap boyunca tek biçimde uygulanan bir kural yerine, tek tek yorumlayıcı kararlar gerektirir; bu yüzden iki eklektik okuyucu aynı pasajda farklı sonuçlara varabilir.
 - Dört saf görüşün her birinin savunucuları, eklektisizmin kendi görüşlerinin gerçek içgörüsünü ödünç alırken sonuçlarına bağlanmayı reddettiğini haklı olarak söyleyebilir — bu, tam olarak yanıtlanması zor bir suçlamadır.
-- Gerçek bir özen olmadan, "eklektik" etiketi, basitçe bir karar verme işini yapmamış olmanın etiketine dönüşebilir — bu yüzden bu sitedeki her belirli iddia, etiketin arkasına saklanmak yerine, dört sezginin hangisinin o durumda gerçekten işi yaptığını açıkça belirtmeye çalışır.
+- Gerçek bir özen olmadan, "eklektik" etiketi, basitçe bir karar verme işini yapmamış olmanın etiketine dönüşebilir — bu yüzden bu site, etiketin arkasına saklanmak yerine, önemli olduğu her yerde dört sezginin hangisinin işi yaptığını belirtmeye çalışır — {{% int_link val="bin yıl bölümünün" link="/expl/content/1000y/pre-post-and-amillennialism" %}} ve {{% int_link val="borazanların" link="/expl/content/trumpets/the-trumpets-in-revelation#e7a1" %}} yaptığı gibi.
 
 ## Peki hangisi?
 

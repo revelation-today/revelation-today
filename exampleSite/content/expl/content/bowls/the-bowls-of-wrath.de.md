@@ -9,13 +9,14 @@ next: /expl/content/bowls/the-key-to-armageddon
 docType: expl
 appl: /appl/content/bowls
 deeper:
-    - name: Der zweite Auszug
-      link:  /expl/background/israel/the-second-exodus
     - name: Harmageddon
       link:  /expl/content/bowls/the-key-to-armageddon
 sources: 
     - pages: 681–730
       ref: beale_rev
+readBefore:
+    - name: "Der zweite Auszug"
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Die Zornesschalen im Buch der Offenbarung können den Eindruck erwecken, dass Gott endlich die Geduld mit einer Welt verloren hat, die nicht hören will, und nun einen letzten Zornesausbruch loslässt. Doch dieser Eindruck täuscht — die Wahrheit ist eher das Gegenteil.

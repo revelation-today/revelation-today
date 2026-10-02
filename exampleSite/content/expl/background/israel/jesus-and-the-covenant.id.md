@@ -7,6 +7,10 @@ docType: expl
 appl: /appl/background/israel
 ---
 
+{{< callout type="info" >}}
+**Mengapa ini penting bagi Kitab Wahyu:** Kitab Wahyu hidup di antara kedua bagian Hari Tuhan — keselamatan sudah datang, penghakiman masih akan datang. Lihat {{% int_link val="sudah, tetapi belum" link="/expl/background/israel/jesus-and-the-covenant#already" %}} dan {{% int_link val="akhir zaman" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}.
+{{< /callout >}}
+
 Ketika Yesus datang ke bumi, pesan dan perilaku-Nya "mengejutkan" orang-orang — dan bagi orang Yahudi pada zaman-Nya, kejutan itu sungguh-sungguh mengguncang. Mengapa demikian, dan apa hubungan semua ini dengan perjanjian?
 
 ## Penantian akan Hari Tuhan

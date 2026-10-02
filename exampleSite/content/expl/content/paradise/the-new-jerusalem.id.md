@@ -14,6 +14,11 @@ sources:
 deeper:
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
+readBefore:
+    - name: "Harfiah atau simbolis?"
+      link:  /expl/background/literature/literally-or-symbolic
+    - name: "Gereja sebagai Bagian dari Israel"
+      link:  /expl/background/israel/the-church-is-part-of-israel
 ---
 
 Bagaimana rupa surga nantinya, dan bagaimana rupa neraka nantinya? Kitab Wahyu tidak menjawab kedua pertanyaan itu secara tuntas, tetapi kitab ini memberi kita pemahaman nyata tentang keduanya.
