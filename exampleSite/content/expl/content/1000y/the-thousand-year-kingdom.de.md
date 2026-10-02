@@ -14,6 +14,8 @@ sources:
     - pages: 1084–1090
       ref: aune_rev
 deeper:
+    - name: Jesus und der Bund
+      link:  /expl/background/israel/jesus-and-the-covenant
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
 ---

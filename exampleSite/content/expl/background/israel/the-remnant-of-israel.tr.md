@@ -2,6 +2,12 @@
 title: "İsrail’in kalıntıları"
 weight: 4
 sources:
+    - pages: 282–283
+      ref: bauckham_climax
+    - pages: 87
+      ref: bauckham_rev
+    - pages: 427, 602–603, 678–679
+      ref: beale_rev
     - pages: 658–669
       ref: beale_theo
 prev: /expl/background/israel/the-day-of-the-lord
@@ -87,3 +93,10 @@ Son olarak Hezekiel'den bir pasaj, Yahudi olmayanların fiilen nasıl doğuştan
 Buradaki yabancılar, orada doğanlarla aynı haklara sahip olarak İsrail'in tam bir parçası sayılır. Bu model İsrail'in tarihi boyunca tekrar tekrar görülür: {{% bible val="Mısırlılar" link="exo:12,38" lang="tr" %}} yerli İsraillilerle {{% bible val="aynı haklara" link="exo:12,48-51" lang="tr" %}} kavuştu; {{% bible val="Rahav" link="jos:6,25" lang="tr" %}} {{% bible val="dahil edildi" link="mat:1,5" lang="tr" %}}; ve {{% bible val="Moavlı" link="rut:1,1-4" lang="tr" %}} {{% bible val="Rut" link="rut:1,16" lang="tr" %}} yalnızca dahil edilmekle kalmadı, {{% bible val="Davut'un" link="rut:4,10-16" lang="tr" %}} ve {{% bible val="İsa'nın" link="mat:1,5" lang="tr" %}} atası oldu.
 
 Hezekiel pasajı, İsrail'e evlilik yoluyla katılan Yahudi olmayanları anlatır; toprakta pay almış olmaları, onları gerçekten İsrail'in bir parçası kılan şeydir, çünkü {{% bible val="yalnızca İsrailliler toprak alabilir" link="lev:25,23" lang="tr" %}}.
+
+## Vahiy'de kalıntı
+
+<a name="r4m1"></a>
+- **Tersine çevrilen kalıntı.** Peygamberlerde yargı çoğunluğu silip süpürür, küçük bir kalıntı esirgenirdi — onda biri ({{% bible val="Amos 5:3" link="amo:5,3" lang="tr" %}}) ya da Baal'ın önünde diz çökmemiş yedi bin kişi ({{% bible val="1 Krallar 19:18" link="1ki:19,18" lang="tr" %}}). {{% bible val="11:13" link="rev:11,13" lang="tr" %}} ayetinde Yuhanna hesabı tersine çevirir: kentin yalnızca onda biri yıkılır ve yedi bin kişi ölür; "geri kalanlar" ise — kalıntı, *hoi loipoi* — esirgenir ve Tanrı'yı yüceltir. Esirgenen sadık azınlık değil, sadakatsiz çoğunluktur; dönebilsinler diye (Bauckham, *Climax*, s. 282–283; *Theology*, s. 87). → {{% int_link val="İki Tanık" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **"Soyunun geri kalanı."** Ejderha kadını yok edemeyince {{% bible val="onun soyunun geri kalanına" link="rev:12,17" lang="tr" %}} savaş açar — geride kalanlar için kullanılan aynı sözcük. Yeryüzündeki kilise, ejderhanın saldırdığı kalıntıdır; Tanrı'nın buyruklarını tutması ve İsa'nın tanıklığına bağlı kalmasıyla tanınır (Beale, s. 678–679). → {{% int_link val="Farklı bir Noel hikayesi" link="/expl/content/jesus/a-different-christmas-story" %}}
+- **Sayılan kalıntı, sayılamayan kalabalık.** 144.000 kişi {{% bible val="oymak oymak sayılır" link="rev:7,4-8" lang="tr" %}}; sonra Yuhanna {{% bible val="her ulustan, kimsenin sayamayacağı büyük bir kalabalık" link="rev:7,9" lang="tr" %}} görür. Bu makalenin Yeşaya üzerinden izlediği İsrail'in kalıntısı ve uluslar tek bir tabloda yer alır (Beale, s. 427). → {{% int_link val="144.000" link="/expl/content/army/the-144000" %}}

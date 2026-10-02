@@ -11,6 +11,9 @@ appl: /appl/content/seals
 sources: 
     - pages: 395–404
       ref: beale_rev
+deeper:
+    - name: Hari Tuhan
+      link:  /expl/background/israel/the-day-of-the-lord
 ---
 
 Apa itu murka Anak Domba? Apakah itu mendukung tindakan perang atas nama iman?

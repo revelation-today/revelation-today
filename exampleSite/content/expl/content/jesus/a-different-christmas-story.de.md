@@ -9,6 +9,8 @@ next: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 docType: expl
 appl: /appl/content/jesus
 deeper:
+    - name: Der Überrest von Israel
+      link:  /expl/background/israel/the-remnant-of-israel
     - name: Der zweite Auszug
       link:  /expl/background/israel/the-second-exodus
     - name: Überblick über das Buch Daniel

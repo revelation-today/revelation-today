@@ -63,7 +63,7 @@ Ada beberapa kesalahpahaman:
 
 Pertama, Yesus menghadirkan konsep kekuasaan yang sangat berbeda.
 
-Kedua, Yesus sangat jelas menyatakan bahwa musuh-musuh itu bukanlah orang Romawi yang sedang menindas Israel pada waktu itu, melainkan {{% bible val="musuh-musuh itu adalah setan-setan" link="mrk:3,22-27" lang="ind" %}} yang Ia usir dalam banyak kesempatan. {{% bible val="Mengusir mereka adalah tanda bahwa Hari Tuhan telah tiba" link="mat:12,28" lang="ind" %}}. Hal ini {{% bible val="terbukti secara khusus pada saat kematian-Nya" link="jhn:12,31-33" lang="ind" %}}.
+Kedua, Yesus sangat jelas menyatakan bahwa musuh-musuh itu bukanlah orang Romawi yang sedang menindas Israel pada waktu itu, melainkan {{% bible val="musuh-musuh itu adalah setan-setan" link="mrk:3,22-27" lang="ind" %}} yang Ia usir dalam banyak kesempatan. {{% bible val="Mengusir mereka adalah tanda bahwa Hari Tuhan telah tiba" link="mat:12,28" lang="ind" %}}. Hal ini {{% bible val="terbukti secara khusus pada saat kematian-Nya" link="jhn:12,31-33" lang="ind" %}}. Wahyu 12 menunjukkan peperangan yang sama dari sisi surga: musuh yang sebenarnya adalah naga itu, dan ia dikalahkan {{% bible val="oleh darah Anak Domba" link="rev:12,7-11" lang="ind" %}} ({{% int_link val="Kelahiran Yesus dalam Kitab Wahyu" link="/expl/content/jesus/a-different-christmas-story" %}}).
 
 Terakhir, sisa itu bukanlah orang-orang religius, melainkan mereka yang memegang teguh perjanjian Allah, yang {{% int_link val="tidak lain adalah Yesus sendiri" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. Semua yang lain tidak termasuk dalam sisa itu dan akan menjadi sasaran penghakiman, yang juga adalah Israel.
 

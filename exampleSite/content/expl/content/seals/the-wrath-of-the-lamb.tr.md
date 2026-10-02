@@ -11,6 +11,9 @@ appl: /appl/content/seals
 sources: 
     - pages: 395–404
       ref: beale_rev
+deeper:
+    - name: Rab’bin günü
+      link:  /expl/background/israel/the-day-of-the-lord
 ---
 
 Kuzu'nun gazabı nedir? Bu, iman adına yapılan savaş eylemlerine destek mi veriyor?

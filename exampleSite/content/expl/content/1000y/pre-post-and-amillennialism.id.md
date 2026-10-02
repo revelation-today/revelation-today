@@ -14,6 +14,9 @@ sources:
     - pages: 1084–1093
       ref: aune_rev
     - ref: bock_millennium
+deeper:
+    - name: Yesus dan perjanjian
+      link:  /expl/background/israel/jesus-and-the-covenant
 ---
 
 Setelah bergumul dengan rincian Wahyu 20 itu sendiri, biasanya ada pertanyaan yang lebih besar menunggu tepat di belakangnya: pasal ini masuk ke dalam sistem menyeluruh yang mana? Secara historis, orang Kristen menjawab pertanyaan itu dengan tiga cara utama, dinamai menurut di mana mereka menempatkan kedatangan Kristus yang kedua relatif terhadap 1.000 tahun itu: pramilenialisme (sebelum), posmilenialisme (sesudah), dan amilenialisme (angka itu menggambarkan sesuatu selain zaman keemasan di masa depan).

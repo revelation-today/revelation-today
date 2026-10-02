@@ -2,6 +2,12 @@
 title: "Sisa Israel"
 weight: 4
 sources:
+    - pages: 282–283
+      ref: bauckham_climax
+    - pages: 87
+      ref: bauckham_rev
+    - pages: 427, 602–603, 678–679
+      ref: beale_rev
     - pages: 658–669
       ref: beale_theo
 prev: /expl/background/israel/the-day-of-the-lord
@@ -86,3 +92,10 @@ Akhirnya, sebuah bagian dari Yehezkiel menggambarkan bagaimana bangsa-bangsa lai
 Orang-orang asing di sini dianggap sepenuhnya menjadi bagian dari Israel, disertakan dengan hak yang sama seperti mereka yang lahir di sana. Pola itu berulang di sepanjang sejarah Israel: {{% bible val="orang Mesir" link="exo:12,38" lang="ind" %}} menerima {{% bible val="hak yang sama" link="exo:12,48-51" lang="ind" %}} seperti orang Israel asli; {{% bible val="Rahab" link="jos:6,25" lang="ind" %}} {{% bible val="disertakan" link="mat:1,5" lang="ind" %}}; dan {{% bible val="Rut" link="rut:1,16" lang="ind" %}}, {{% bible val="perempuan Moab" link="rut:1,1-4" lang="ind" %}} itu, bukan hanya disertakan tetapi menjadi nenek moyang {{% bible val="Daud" link="rut:4,10-16" lang="ind" %}} dan {{% bible val="Yesus" link="mat:1,5" lang="ind" %}}.
 
 Bagian Yehezkiel ini menggambarkan orang bukan Yahudi yang menikah masuk ke dalam Israel, dan fakta bahwa mereka menerima bagian tanah itulah yang menandai mereka sebagai benar-benar bagian dari Israel, sebab {{% bible val="hanya orang Israel yang dapat menerima tanah" link="lev:25,23" lang="ind" %}}.
+
+## Sisa dalam Kitab Wahyu
+
+<a name="r4m1"></a>
+- **Sisa yang dijungkirbalikkan.** Dalam kitab para nabi, penghakiman menyapu bersih mayoritas, dan sebuah sisa kecil diluputkan — sepersepuluh ({{% bible val="Amos 5:3" link="amo:5,3" lang="ind" %}}), atau tujuh ribu orang yang tidak sujud kepada Baal ({{% bible val="1 Raja-raja 19:18" link="1ki:19,18" lang="ind" %}}). Dalam {{% bible val="11:13" link="rev:11,13" lang="ind" %}} Yohanes membalik hitungan itu: hanya sepersepuluh kota yang runtuh dan tujuh ribu orang yang mati, sedangkan "sisanya" — sisa itu, *hoi loipoi* — diluputkan dan memuliakan Allah. Bukan minoritas yang setia, melainkan mayoritas yang tidak setia yang diluputkan, supaya mereka dapat berbalik (Bauckham, *Climax*, hlm. 282–283; *Theology*, hlm. 87). → {{% int_link val="Kedua saksi" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **"Keturunannya yang lain."** Ketika naga itu tidak dapat membinasakan perempuan itu, ia memerangi {{% bible val="keturunannya yang lain" link="rev:12,17" lang="ind" %}} — kata yang sama untuk mereka yang tersisa. Gereja di bumi adalah sisa yang diserang naga itu, ditandai oleh ketaatan pada hukum Allah dan kesetiaan pada kesaksian Yesus (Beale, hlm. 678–679). → {{% int_link val="Kelahiran Yesus dalam Kitab Wahyu" link="/expl/content/jesus/a-different-christmas-story" %}}
+- **Sisa yang dihitung, kumpulan besar yang tak terhitung.** Yang 144.000 {{% bible val="dihitung suku demi suku" link="rev:7,4-8" lang="ind" %}}; lalu Yohanes melihat {{% bible val="suatu kumpulan besar orang banyak yang tidak dapat terhitung, dari segala bangsa" link="rev:7,9" lang="ind" %}}. Sisa Israel dan bangsa-bangsa, yang kedatangannya ditelusuri artikel ini melalui Yesaya, berdiri dalam satu gambar (Beale, hlm. 427). → {{% int_link val="Yang 144.000" link="/expl/content/army/the-144000" %}}

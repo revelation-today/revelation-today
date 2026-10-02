@@ -11,6 +11,9 @@ appl: /appl/content/seals
 sources: 
     - pages: 395–404
       ref: beale_rev
+deeper:
+    - name: Der Tag des Herrn
+      link:  /expl/background/israel/the-day-of-the-lord
 ---
 
 Was ist der Zorn des Lammes? Rechtfertigt er kriegerisches Handeln im Namen des Glaubens?

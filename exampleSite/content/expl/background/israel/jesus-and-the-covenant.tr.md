@@ -63,7 +63,7 @@ Bazı yanlış anlamalar vardı:
 
 İlk olarak İsa, çok farklı bir egemenlik anlayışı ortaya koydu.
 
-İkinci olarak İsa, düşmanların o dönemde İsrail'e baskı uygulayan Romalılar olmadığını, tam tersine {{% bible val="düşmanların, birçok kez kovduğu cinler olduğunu" link="mrk:3,22-27" lang="tr" %}} son derece açık biçimde ortaya koydu. {{% bible val="Onları kovmak, Rab'bin Günü'nün geldiğinin bir işaretiydi" link="mat:12,28" lang="tr" %}}. Bu, {{% bible val="özellikle O'nun ölümünde geçerliydi" link="jhn:12,31-33" lang="tr" %}}.
+İkinci olarak İsa, düşmanların o dönemde İsrail'e baskı uygulayan Romalılar olmadığını, tam tersine {{% bible val="düşmanların, birçok kez kovduğu cinler olduğunu" link="mrk:3,22-27" lang="tr" %}} son derece açık biçimde ortaya koydu. {{% bible val="Onları kovmak, Rab'bin Günü'nün geldiğinin bir işaretiydi" link="mat:12,28" lang="tr" %}}. Bu, {{% bible val="özellikle O'nun ölümünde geçerliydi" link="jhn:12,31-33" lang="tr" %}}. Vahiy 12 aynı savaşı göğün tarafından gösterir: asıl düşman ejderhadır ve {{% bible val="Kuzu'nun kanıyla" link="rev:12,7-11" lang="tr" %}} yenilir ({{% int_link val="Farklı bir Noel hikayesi" link="/expl/content/jesus/a-different-christmas-story" %}}).
 
 Son olarak, kalıntı dindar insanlar değil, Tanrı'nın antlaşmasını tutanlardır; bu ise {{% int_link val="yalnızca İsa'nın kendisidir" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. Diğer herkes kalıntıya dahil değildir ve İsrail'in de içinde bulunduğu yargıya tabi olacaktır.
 

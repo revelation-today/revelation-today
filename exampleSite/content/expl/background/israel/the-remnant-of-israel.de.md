@@ -2,6 +2,12 @@
 title: "Der Überrest von Israel"
 weight: 4
 sources:
+    - pages: 282–283
+      ref: bauckham_climax
+    - pages: 87
+      ref: bauckham_rev
+    - pages: 427, 602–603, 678–679
+      ref: beale_rev
     - pages: 658–669
       ref: beale_theo
 prev: /expl/background/israel/the-day-of-the-lord
@@ -86,3 +92,10 @@ Schließlich beschreibt eine Passage aus Hesekiel, wie die Nationen faktisch zu 
 Die Fremden gelten hier als vollständig zu Israel gehörig, mit denselben Rechten wie die dort Geborenen eingeschlossen. Dieses Muster zieht sich durch die ganze Geschichte Israels: {{% bible val="Ägypter" link="exo:12,38" lang="de" %}} erhielten {{% bible val="dieselben Rechte" link="exo:12,48-51" lang="de" %}} wie gebürtige Israeliten; {{% bible val="Rahab" link="jos:6,25" lang="de" %}} wurde {{% bible val="eingeschlossen" link="mat:1,5" lang="de" %}}; und {{% bible val="Rut" link="rut:1,16" lang="de" %}}, die {{% bible val="Moabiterin" link="rut:1,1-4" lang="de" %}}, wurde nicht nur eingeschlossen, sondern wurde zur Vorfahrin von {{% bible val="David" link="rut:4,10-16" lang="de" %}} und {{% bible val="Jesus" link="mat:1,5" lang="de" %}}.
 
 Die Passage in Hesekiel beschreibt Nichtjuden, die in Israel eingeheiratet haben, und die Tatsache, dass sie einen Anteil am Land erhielten, ist es, was sie als wirklich zu Israel gehörig kennzeichnet, denn {{% bible val="nur Israeliten können Land erhalten" link="lev:25,23" lang="de" %}}.
+
+## Der Überrest in der Offenbarung
+
+<a name="r4m1"></a>
+- **Der Überrest auf den Kopf gestellt.** Bei den Propheten fegte das Gericht die Mehrheit hinweg, und ein kleiner Überrest wurde verschont — ein Zehntel ({{% bible val="Amos 5,3" link="amo:5,3" lang="de" %}}) oder die siebentausend, die ihre Knie nicht vor Baal gebeugt hatten ({{% bible val="1. Könige 19,18" link="1ki:19,18" lang="de" %}}). In {{% bible val="11,13" link="rev:11,13" lang="de" %}} kehrt Johannes die Rechnung um: Nur ein Zehntel der Stadt stürzt ein und siebentausend sterben, während „die Übrigen“ — der Überrest, *hoi loipoi* — verschont werden und Gott die Ehre geben. Nicht die treue Minderheit, sondern die untreue Mehrheit wird verschont, damit sie umkehren kann (Bauckham, *Climax*, S. 282–283; *Theology*, S. 87). → {{% int_link val="Die beiden Zeugen" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **„Die Übrigen ihrer Nachkommen.“** Als der Drache die Frau nicht vernichten kann, führt er Krieg mit {{% bible val="den Übrigen von ihrem Samen" link="rev:12,17" lang="de" %}} — dasselbe Wort für die, die übrig bleiben. Die Gemeinde auf der Erde ist der Überrest, den der Drache angreift, erkennbar daran, dass sie Gottes Gebote hält und am Zeugnis Jesu festhält (Beale, S. 678–679). → {{% int_link val="Die Geburt Jesu in der Offenbarung" link="/expl/content/jesus/a-different-christmas-story" %}}
+- **Der Überrest gezählt, die Menge ungezählt.** Die 144.000 werden {{% bible val="Stamm für Stamm gezählt" link="rev:7,4-8" lang="de" %}}; dann sieht Johannes {{% bible val="eine große Schar, die niemand zählen konnte, aus allen Nationen" link="rev:7,9" lang="de" %}}. Der Überrest Israels und die Völker, deren Hinzukommen dieser Artikel durch Jesaja verfolgt hat, stehen in einem einzigen Bild (Beale, S. 427). → {{% int_link val="Die 144.000" link="/expl/content/army/the-144000" %}}

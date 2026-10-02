@@ -9,6 +9,8 @@ next: /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 docType: expl
 appl: /appl/content/bowls
 deeper:
+    - name: Hari Tuhan
+      link:  /expl/background/israel/the-day-of-the-lord
     - name: Pertempuran Karkemis
       link:  /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 sources: 

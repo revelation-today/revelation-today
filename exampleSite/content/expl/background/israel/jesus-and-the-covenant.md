@@ -63,7 +63,7 @@ There were some misconceptions
 
 First, Jesus presented a very different concept of rulership.
 
-Second, Jesus was very clear that the enemies were not the Romans who were oppressing Israel at that time, but {{% bible val="the enemies were the demons" link="mrk:3,22-27" lang="en" %}} that He drove out on many occasions. {{% bible val="Driving them out is a sign that the Day of the Lord has come" link="mat:12,28" lang="en" %}}. This was especially {{% bible val="true at His death" link="jhn:12,31-33" lang="en" %}}.
+Second, Jesus was very clear that the enemies were not the Romans who were oppressing Israel at that time, but {{% bible val="the enemies were the demons" link="mrk:3,22-27" lang="en" %}} that He drove out on many occasions. {{% bible val="Driving them out is a sign that the Day of the Lord has come" link="mat:12,28" lang="en" %}}. This was especially {{% bible val="true at His death" link="jhn:12,31-33" lang="en" %}}. Revelation 12 shows the same war from heaven's side: the real enemy is the dragon, and he is defeated {{% bible val="by the blood of the Lamb" link="rev:12,7-11" lang="en" %}} ({{% int_link val="A different Christmas story" link="/expl/content/jesus/a-different-christmas-story" %}}).
 
 Finally, the remnant are not the religious people, but those who keep the covenant of God, which {{% int_link val="is only Jesus Himself" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. All others do not belong to the remnant and would be subject of the judgment, which is also Israel.
 

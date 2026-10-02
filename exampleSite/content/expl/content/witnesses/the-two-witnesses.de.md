@@ -9,6 +9,8 @@ next: /expl/content/jesus/a-different-christmas-story
 docType: expl
 appl: /appl/content/witnesses
 deeper:
+    - name: Der Überrest von Israel
+      link:  /expl/background/israel/the-remnant-of-israel
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: Der zweite Auszug

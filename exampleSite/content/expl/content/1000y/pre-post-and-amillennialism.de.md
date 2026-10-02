@@ -14,6 +14,9 @@ sources:
     - pages: 1084–1093
       ref: aune_rev
     - ref: bock_millennium
+deeper:
+    - name: Jesus und der Bund
+      link:  /expl/background/israel/jesus-and-the-covenant
 ---
 
 Wer sich mit den Einzelheiten von Offenbarung 20 auseinandergesetzt hat, steht meist gleich vor einer größeren Frage: In welches Gesamtsystem fügt sich dieses Kapitel ein? Christen haben diese Frage historisch auf drei Hauptwegen beantwortet, benannt danach, wo sie Christi zweites Kommen im Verhältnis zu den 1000 Jahren verorten: Prämillennialismus (davor), Postmillennialismus (danach) und Amillennialismus (die Zahl beschreibt etwas anderes als ein zukünftiges goldenes Zeitalter).

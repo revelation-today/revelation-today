@@ -2,6 +2,12 @@
 title: "The remnant of Israel"
 weight: 4
 sources:
+    - pages: 282–283
+      ref: bauckham_climax
+    - pages: 87
+      ref: bauckham_rev
+    - pages: 427, 602–603, 678–679
+      ref: beale_rev
     - pages: 658–669
       ref: beale_theo
 prev: /expl/background/israel/the-day-of-the-lord
@@ -86,3 +92,10 @@ Finally, a passage from Ezekiel describes how the Gentiles become, in effect, na
 The foreigners here are considered fully part of Israel, included with the same rights as those born there. That pattern recurs throughout Israel's history: {{% bible val="Egyptians" link="exo:12,38" lang="en" %}} received the {{% bible val="same rights" link="exo:12,48-51" lang="en" %}} as native Israelites; {{% bible val="Rahab" link="jos:6,25" lang="en" %}} was {{% bible val="included" link="mat:1,5" lang="en" %}}; and {{% bible val="Ruth" link="rut:1,16" lang="en" %}} the {{% bible val="Moabitess" link="rut:1,1-4" lang="en" %}} was not only included but became the ancestor of {{% bible val="David" link="rut:4,10-16" lang="en" %}} and {{% bible val="Jesus" link="mat:1,5" lang="en" %}}.
 
 The Ezekiel passage describes non-Jews who married into Israel, and the fact that they received a share of the land is what marks them as genuinely part of Israel, since {{% bible val="only Israelites can receive land" link="lev:25,23" lang="en" %}}.
+
+## The remnant in Revelation
+
+<a name="r4m1"></a>
+- **The remnant turned inside out.** In the prophets, judgment swept away the majority and a small remnant was spared — a tenth ({{% bible val="Amos 5:3" link="amo:5,3" lang="en" %}}), or the seven thousand who had not bowed to Baal ({{% bible val="1 Kings 19:18" link="1ki:19,18" lang="en" %}}). In {{% bible val="11:13" link="rev:11,13" lang="en" %}} John reverses the arithmetic: only a tenth of the city falls and seven thousand die, while "the rest" — the remnant, *hoi loipoi* — are spared and give glory to God. Not the faithful few but the faithless many are spared, so that they may turn (Bauckham, *Climax*, pp. 282–283; *Theology*, p. 87). → {{% int_link val="The two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **"The rest of her offspring."** When the dragon cannot destroy the woman, he goes to war against {{% bible val="the rest of her offspring" link="rev:12,17" lang="en" %}} — the same word for those who remain. The church on earth is the remnant the dragon attacks, marked by keeping God's commands and holding to the testimony of Jesus (Beale, pp. 678–679). → {{% int_link val="A different Christmas story" link="/expl/content/jesus/a-different-christmas-story" %}}
+- **The remnant counted, the multitude uncounted.** The 144,000 are {{% bible val="counted tribe by tribe" link="rev:7,4-8" lang="en" %}}; then John sees {{% bible val="a great multitude that no one could count, from every nation" link="rev:7,9" lang="en" %}}. The remnant of Israel and the nations, whose coming in this article traced through Isaiah, stand in one picture (Beale, p. 427). → {{% int_link val="The 144,000" link="/expl/content/army/the-144000" %}}

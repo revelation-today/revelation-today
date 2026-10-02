@@ -1,5 +1,5 @@
 ---
-title: "Rab’bin günü ve kalanlar"
+title: "Rab’bin günü"
 weight: 3
 prev: /expl/background/israel/gods-covenant
 next: /expl/background/israel/the-remnant-of-israel
@@ -29,3 +29,7 @@ O hâlde Rab'bin Günü, basitçe "dünyanın sonu" değildir — antlaşmanın 
 
 Ama bu yalnızca {{% int_link val="İsrail'in kalıntısının" link="/expl/background/israel/the-remnant-of-israel" %}} başına gelecektir — ulusun tamamının değil.
 
+## Vahiy'de Rab'bin günü
+
+<a name="d4y1"></a>
+Vahiy, peygamberlerin bu deyimini kendi doruk noktası için kullanır. Altıncı mühür açıldığında güçlüler saklanır ve {{% bible val="onların büyük gazap günü geldi" link="rev:6,17" lang="tr" %}} diye bağırır; yeryüzünün kralları da {{% bible val="Her Şeye Gücü Yeten Tanrı'nın büyük günündeki savaş için" link="rev:16,14" lang="tr" %}} toplanır. Her iki yerde de o Gün, peygamberlerin vaat ettiğini getirir: Tanrı'nın halkının düşmanlarına yargı, sadık olanlara kurtuluş. Ve {{% int_link val="İsa'nın gösterdiği gibi" link="/expl/background/israel/jesus-and-the-covenant#already" %}}, o Gün O'nunla zaten başlamıştır — kurtaran yarısı burada, yargılayan yarısı ise henüz gelecektir. → {{% int_link val="Kuzu’nun Gazabı" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="Armagedon'un anahtarı" link="/expl/content/bowls/the-key-to-armageddon" %}}

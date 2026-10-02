@@ -9,6 +9,8 @@ next: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 docType: expl
 appl: /appl/content/jesus
 deeper:
+    - name: İsrail’in kalıntıları
+      link:  /expl/background/israel/the-remnant-of-israel
     - name: İkinci Çıkış
       link:  /expl/background/israel/the-second-exodus
     - name: Daniel’de Genel Bakış

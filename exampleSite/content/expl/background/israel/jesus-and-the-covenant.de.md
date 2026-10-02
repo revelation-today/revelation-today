@@ -63,7 +63,7 @@ Es gab dabei einige Missverständnisse:
 
 Erstens stellte Jesus ein ganz anderes Verständnis von Herrschaft vor.
 
-Zweitens machte Jesus sehr deutlich, dass die Feinde nicht die Römer waren, die Israel zu jener Zeit unterdrückten, sondern {{% bible val="die Feinde waren die Dämonen" link="mrk:3,22-27" lang="de" %}}, die er bei vielen Gelegenheiten austrieb. {{% bible val="Sie auszutreiben, ist ein Zeichen dafür, dass der Tag des Herrn gekommen ist" link="mat:12,28" lang="de" %}}. Das galt besonders {{% bible val="bei seinem Tod" link="jhn:12,31-33" lang="de" %}}.
+Zweitens machte Jesus sehr deutlich, dass die Feinde nicht die Römer waren, die Israel zu jener Zeit unterdrückten, sondern {{% bible val="die Feinde waren die Dämonen" link="mrk:3,22-27" lang="de" %}}, die er bei vielen Gelegenheiten austrieb. {{% bible val="Sie auszutreiben, ist ein Zeichen dafür, dass der Tag des Herrn gekommen ist" link="mat:12,28" lang="de" %}}. Das galt besonders {{% bible val="bei seinem Tod" link="jhn:12,31-33" lang="de" %}}. Offenbarung 12 zeigt denselben Krieg von der Seite des Himmels: Der eigentliche Feind ist der Drache, und er wird besiegt {{% bible val="durch das Blut des Lammes" link="rev:12,7-11" lang="de" %}} ({{% int_link val="Die Geburt Jesu in der Offenbarung" link="/expl/content/jesus/a-different-christmas-story" %}}).
 
 Schließlich ist der Überrest nicht die religiösen Menschen, sondern diejenigen, die den Bund Gottes halten, und das {{% int_link val="ist nur Jesus selbst" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. Alle anderen gehören nicht zum Überrest und wären Gegenstand des Gerichts, was auch Israel einschließt.
 

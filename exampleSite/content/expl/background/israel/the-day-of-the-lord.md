@@ -1,5 +1,5 @@
 ---
-title: "The day of the Lord and the remnant"
+title: "The day of the Lord"
 weight: 3
 prev: /expl/background/israel/gods-covenant
 next: /expl/background/israel/the-remnant-of-israel
@@ -29,3 +29,7 @@ The Day of the Lord, then, is not simply "the end of the world" — it's the day
 
 But this will happen only to the {{% int_link val="remnant of Israel" link="/expl/background/israel/the-remnant-of-israel" %}} — not to the nation as a whole.
 
+## The Day of the Lord in Revelation
+
+<a name="d4y1"></a>
+Revelation takes up the prophets' phrase for its own climax. When the sixth seal is opened, the powerful hide and cry out that {{% bible val="the great day of their wrath has come" link="rev:6,17" lang="en" %}}; and the kings of the earth are gathered {{% bible val="for the battle on the great day of God Almighty" link="rev:16,14" lang="en" %}}. In both places the Day brings what the prophets promised: judgment on the enemies of God's people and rescue for the faithful. And as {{% int_link val="Jesus showed" link="/expl/background/israel/jesus-and-the-covenant#already" %}}, that Day has already begun with him — its saving half is here, its judging half is still to come. → {{% int_link val="The wrath of the Lamb" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="The key to Armageddon" link="/expl/content/bowls/the-key-to-armageddon" %}}

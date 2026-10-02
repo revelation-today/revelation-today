@@ -28,3 +28,8 @@ Nach jedem Maßstab, der zählte, befand sich Israel also immer noch im Exil —
 Der Tag des Herrn ist also nicht einfach „das Ende der Welt“ — es ist der Tag, der endlich das bringt, was der Bund schon immer verheißen hat. Er bringt {{% bible val="Gericht über die Feinde Israels" link="jol:2,1-11" lang="de" %}}, die {{% bible val="Wiederherstellung Israels" link="jol:2,12-27" lang="de" %}}, {{% bible val="Gericht über die Ungerechten in Israel" link="zep:1,4-9" lang="de" %}}, und die Erfüllung der verbleibenden Verheißungen Gottes, wie die Ausgießung des Heiligen Geistes.
 
 Aber das wird nur dem {{% int_link val="Überrest Israels" link="/expl/background/israel/the-remnant-of-israel" %}} geschehen — nicht der Nation als Ganzes.
+
+## Der Tag des Herrn in der Offenbarung
+
+<a name="d4y1"></a>
+Die Offenbarung greift den Ausdruck der Propheten für ihren eigenen Höhepunkt auf. Als das sechste Siegel geöffnet wird, verstecken sich die Mächtigen und rufen, dass {{% bible val="der große Tag seines Zorns gekommen ist" link="rev:6,17" lang="de" %}}; und die Könige der Erde werden versammelt {{% bible val="zum Kampf an jenem großen Tag Gottes, des Allmächtigen" link="rev:16,14" lang="de" %}}. An beiden Stellen bringt der Tag, was die Propheten verheißen haben: Gericht über die Feinde des Volkes Gottes und Rettung für die Treuen. Und wie {{% int_link val="Jesus gezeigt hat" link="/expl/background/israel/jesus-and-the-covenant#already" %}}, hat dieser Tag mit ihm schon begonnen — seine rettende Hälfte ist da, seine richtende Hälfte steht noch aus. → {{% int_link val="Der Zorn des Lammes" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="Der Schlüssel zu Armageddon" link="/expl/content/bowls/the-key-to-armageddon" %}}

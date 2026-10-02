@@ -11,6 +11,9 @@ appl: /appl/content/seals
 sources: 
     - pages: 395–404
       ref: beale_rev
+deeper:
+    - name: The day of the Lord
+      link:  /expl/background/israel/the-day-of-the-lord
 ---
 
 What is the wrath of the Lamb? Does it lend support to acts of war in the name of faith?
