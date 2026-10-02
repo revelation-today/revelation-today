@@ -14,7 +14,7 @@ appl: /appl/background/israel
 **Warum das für die Offenbarung wichtig ist:** Die Offenbarung spricht in Familienbegriffen: Jesus ist {{% bible val="der Erstgeborene aus den Toten" link="rev:1,5" lang="de" %}}, der Löser, der {{% bible val="mit seinem Blut Menschen für Gott erkauft hat" link="rev:5,9" lang="de" %}}, und wer überwindet, {{% bible val="wird alles erben, und ich werde sein Gott sein, und er wird mein Sohn sein" link="rev:21,7" lang="de" %}}.
 {{< /callout >}}
 
-Unterstützt und fördert die Bibel patriarchale Strukturen? Lehrt sie, dass Frauen weniger zählen als Männer? Das Bild ist komplizierter als das — lass mich erklären, wie Familie in der antiken Kultur tatsächlich aussah und warum das für das Lesen der übrigen Schrift wichtig ist.
+In der antiken Welt hieß Dazugehören, zu einer Familie zu gehören — und die Bibel beschreibt Gottes Bindung an sein Volk genau in diesen Begriffen: Vater und Sohn, Erstgeborener, Löser, Erbe. Zu verstehen, wie Familie funktionierte, ist darum die Grundlage, um den Bund zu verstehen — und vieles von dem, was die Offenbarung verheißt.
 
 ## Die Wichtigkeit der Familie
 
@@ -39,13 +39,11 @@ Es ist eine Rolle, die Gott selbst übernimmt — er nennt sich Israels {{% bibl
 <a name="75b9"></a>
 Die Familieneinheit bestand aus dem Patriarchen (dem ältesten männlichen Mitglied) und seiner Frau, ihren Söhnen und Töchtern sowie den Frauen und Kindern der Söhne. Eine solche Familie konnte drei Generationen umfassen und bis zu dreißig Personen zählen, die alle zusammen lebten und arbeiteten.
 
-Die Aufgabe des Patriarchen war es, die Familie finanziell zu unterstützen, Recht, Gerechtigkeit und Moral innerhalb der Familie durchzusetzen und sich um ihre benachteiligten Mitglieder in Krankheit, Krieg oder Hungersnot zu kümmern. In den extremsten Situationen — Hungersnot, erdrückende Schulden — musste der Patriarch sogar entscheiden, wer überlebte und wer nicht, wer in die Sklaverei ging und wer wieder freigekauft wurde.
+Die Aufgabe des Patriarchen war es, die Familie finanziell zu unterstützen, Recht, Gerechtigkeit und Moral innerhalb der Familie durchzusetzen und sich um ihre benachteiligten Mitglieder in Krankheit, Krieg oder Hungersnot zu kümmern. In den extremsten Situationen — Hungersnot, erdrückende Schulden — musste der Patriarch sogar entscheiden, wer überlebte und wer nicht, wer in die Sklaverei ging und wer wieder freigekauft wurde. Genau diese Rolle gibt der Bund Gott: In den Verträgen jener Zeit hieß die stärkere Partei „Vater“, war verpflichtet, für die schwächere zu sorgen und sie zu schützen, und verlangte ungeteilte Treue — {{% int_link val="Der Bund Gottes" link="/expl/background/israel/gods-covenant" %}} baut genau darauf auf.
 
 Wenn der Patriarch starb oder wenn die Familie zu groß wurde, um als eine Einheit zu funktionieren, teilte sie sich, und der älteste Mann in jeder der entstehenden Familien wurde der neue Patriarch. {{% bible val="Terach, der drei Söhne hatte: Haran, Abram und Nahor. Als Haran stirbt, hinterlässt er einen Sohn" link="gen:11,27-31" lang="de" %}}, um den sich {{% bible val="Abram kümmert" link="gen:12,1-4" lang="de" %}} — ein Beispiel dafür, wie das System wie vorgesehen funktionierte.
 
-Es war damals üblich, dass ein Mann mehrere Frauen nahm — oft, wenn die erste keine Söhne gebar —, aber die Bibel steht dieser Praxis durchweg kritisch gegenüber, da mehr als eine Frau zu haben fast immer Ärger verursachte. Das Muster reicht von {{% bible val="Lamech, der selbst schon Ärger war" link="gen:4,23-26" lang="de" %}}, über das {{% bible val="Drama, als Abraham mit seiner Magd Kinder bekam" link="gen:16" lang="de" %}}, den {{% bible val="Gebärkrieg der Frauen Jakobs" link="gen:30,1-24" lang="de" %}} und die Geschichte {{% bible val="Elkanas" link="1sa:1,1-7" lang="de" %}}, bis hin zu David mit seinen Söhnen von verschiedenen Frauen und {{% bible val="Salomo und seinem Niedergang" link="1ki:11,3" lang="de" %}}. Das Gesetz musste sogar für die daraus entstehende Spannung Regeln aufstellen, mit einem {{% bible val="Eingriff für den Fall, dass ein Mann zwei Frauen hat" link="deu:21,17" lang="de" %}}.
-
-Vor diesem Hintergrund ist es bemerkenswert, dass {{% bible val="Frauen nach dem Gesetz erben durften" link="num:36" lang="de" %}} und zu einem {{% bible val="eigenständigen Geschäft ermutigt wurden, sogar als Patriarchinnen auftraten und dafür von ihren Ehemännern gelobt wurden" link="pro:31,15-31" lang="de" %}}.
+Auch Frauen konnten {{% bible val="nach dem Gesetz erben" link="num:27,1-8" lang="de" %}}, wo kein Sohn da war.
 
 ## Das Erbe
 

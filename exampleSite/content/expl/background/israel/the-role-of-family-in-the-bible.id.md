@@ -14,7 +14,7 @@ appl: /appl/background/israel
 **Mengapa ini penting bagi Kitab Wahyu:** Kitab Wahyu berbicara dengan istilah keluarga: Yesus adalah {{% bible val="yang pertama bangkit dari antara orang mati" link="rev:1,5" lang="ind" %}}, penebus yang {{% bible val="dengan darah-Nya telah membeli orang-orang bagi Allah" link="rev:5,9" lang="ind" %}}, dan barangsiapa menang {{% bible val="akan memperoleh semuanya ini, dan Aku akan menjadi Allahnya dan ia akan menjadi anak-Ku" link="rev:21,7" lang="ind" %}}.
 {{< /callout >}}
 
-Apakah Alkitab mendukung dan mendorong struktur patriarki? Apakah Alkitab mengajarkan bahwa perempuan kurang berarti daripada laki-laki? Gambarannya lebih rumit daripada itu — izinkan saya menjelaskan bagaimana keluarga sesungguhnya berfungsi dalam budaya kuno, dan mengapa hal itu penting untuk memahami bagian Alkitab yang lain.
+Di dunia kuno, menjadi bagian berarti menjadi bagian dari sebuah keluarga — dan Alkitab menggambarkan ikatan Allah dengan umat-Nya tepat dengan istilah-istilah itu: bapa dan anak, anak sulung, penebus, warisan. Karena itu, memahami cara kerja keluarga adalah dasar untuk memahami perjanjian, dan untuk banyak hal yang dijanjikan Kitab Wahyu.
 
 ## Pentingnya Keluarga
 
@@ -39,13 +39,11 @@ Ini adalah peran yang diambil alih oleh Allah sendiri — Ia menyebut diri-Nya {
 <a name="75b9"></a>
 Satuan keluarga terdiri atas sang patriark (anggota laki-laki tertua), istrinya, putra-putri mereka, serta istri-istri dan anak-anak dari para putranya. Keluarga semacam ini bisa mencakup tiga generasi dan berjumlah hingga tiga puluh orang, yang semuanya hidup dan bekerja bersama-sama.
 
-Tugas sang patriark adalah menopang keluarga secara finansial, menegakkan hukum, keadilan, dan moralitas di dalamnya, serta memperhatikan anggota-anggotanya yang kurang beruntung ketika sakit, dalam masa perang, atau kelaparan. Dalam situasi yang paling ekstrem — kelaparan, utang yang mencekik — sang patriark bahkan harus memutuskan siapa yang akan bertahan hidup dan siapa yang tidak, siapa yang akan dijual menjadi budak dan siapa yang akan ditebus kembali dari perbudakan.
+Tugas sang patriark adalah menopang keluarga secara finansial, menegakkan hukum, keadilan, dan moralitas di dalamnya, serta memperhatikan anggota-anggotanya yang kurang beruntung ketika sakit, dalam masa perang, atau kelaparan. Dalam situasi yang paling ekstrem — kelaparan, utang yang mencekik — sang patriark bahkan harus memutuskan siapa yang akan bertahan hidup dan siapa yang tidak, siapa yang akan dijual menjadi budak dan siapa yang akan ditebus kembali dari perbudakan. Inilah juga peran yang diberikan perjanjian kepada Allah: dalam perjanjian-perjanjian pada masa itu pihak yang lebih kuat disebut "bapa", wajib memelihara dan melindungi pihak yang lebih lemah, dan menuntut kesetiaan yang tak terbagi — {{% int_link val="Perjanjian Allah" link="/expl/background/israel/gods-covenant" %}} dibangun tepat di atas hal ini.
 
 Ketika sang patriark meninggal, atau ketika keluarga menjadi terlalu besar untuk berfungsi sebagai satu kesatuan, keluarga itu terpecah, dan laki-laki tertua dalam setiap keluarga hasil pemecahan itu menjadi patriark yang baru. {{% bible val="Kisah Terah yang memiliki tiga putra: Haran, Abram, dan Nahor. Ketika Haran meninggal, ia meninggalkan seorang putra" link="gen:11,27-31" lang="ind" %}} yang kemudian {{% bible val="diasuh oleh Abram" link="gen:12,1-4" lang="ind" %}} menunjukkan sistem ini berjalan sebagaimana mestinya.
 
-Pada masa itu adalah hal yang umum bagi seorang laki-laki untuk memiliki beberapa istri — sering kali karena istri pertama tidak melahirkan anak laki-laki — tetapi Alkitab secara konsisten mengkritik praktik ini, sebab memiliki lebih dari satu istri hampir selalu menimbulkan masalah. Pola ini berlangsung mulai dari {{% bible val="Lamekh yang sudah menjadi masalah tersendiri" link="gen:4,23-26" lang="ind" %}}, melalui {{% bible val="drama Abraham yang menggunakan hambanya perempuan untuk mendapatkan anak" link="gen:16" lang="ind" %}}, {{% bible val="pertarungan melahirkan anak di antara istri-istri Yakub" link="gen:30,1-24" lang="ind" %}}, dan kisah {{% bible val="Elkana" link="1sa:1,1-7" lang="ind" %}}, hingga Daud dan putra-putranya dari berbagai istri serta {{% bible val="Salomo dan kejatuhannya" link="1ki:11,3" lang="ind" %}}. Hukum Taurat bahkan harus mengatur ketegangan yang timbul akibat hal ini, dengan sebuah {{% bible val="ketentuan khusus ketika seorang laki-laki memiliki dua istri" link="deu:21,17" lang="ind" %}}.
-
-Dengan latar belakang itu, patut dicatat bahwa {{% bible val="perempuan diperbolehkan mewarisi menurut hukum Taurat" link="num:36" lang="ind" %}} dan didorong untuk menjalankan {{% bible val="usaha yang mandiri, bahkan bertindak sebagai patriark dan dipuji oleh suami mereka" link="pro:31,15-31" lang="ind" %}}.
+Perempuan pun dapat {{% bible val="mewarisi menurut hukum Taurat" link="num:27,1-8" lang="ind" %}} jika tidak ada anak laki-laki.
 
 ## Warisan
 

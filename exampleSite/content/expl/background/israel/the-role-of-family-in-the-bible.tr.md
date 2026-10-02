@@ -14,7 +14,7 @@ appl: /appl/background/israel
 **Bu, Vahiy için neden önemli:** Vahiy aile diliyle konuşur: İsa {{% bible val="ölüler arasından ilk doğan" link="rev:1,5" lang="tr" %}}, {{% bible val="kanıyla insanları Tanrı için satın alan" link="rev:5,9" lang="tr" %}} kurtarıcıdır ve galip gelen {{% bible val="bunları miras alacak; ben onun Tanrısı olacağım, o da benim oğlum olacak" link="rev:21,7" lang="tr" %}}.
 {{< /callout >}}
 
-Kutsal Kitap ataerkil yapıları destekleyip teşvik eder mi? Kadınların erkeklerden daha az önemli olduğunu mu öğretir? Aslında durum göründüğünden daha karmaşıktır — antik kültürde ailenin gerçekte nasıl işlediğini ve bunun Kutsal Kitap'ın geri kalanını okurken neden önemli olduğunu ele alalım.
+Antik dünyada bir yere ait olmak, bir aileye ait olmak demekti — ve Kutsal Kitap Tanrı'nın halkıyla bağını tam da bu terimlerle anlatır: baba ve oğul, ilk doğan, kurtarıcı, miras. Bu yüzden ailenin nasıl işlediğini anlamak, antlaşmayı ve Vahiy'in vaat ettiklerinin çoğunu anlamanın temelidir.
 
 ## Ailenin önemi
 
@@ -39,13 +39,11 @@ Bu, Tanrı'nın kendi üzerine aldığı bir roldür — O, kendisini İsrail'in
 <a name="3a5d"></a>
 Aile birimi; aile reisinden (en yaşlı erkek üye) ve eşinden, oğullarından ve kızlarından, oğullarının eşlerinden ve çocuklarından oluşurdu. Böyle bir aile üç kuşağa yayılabilir ve birlikte yaşayıp çalışan otuz kişiye kadar ulaşabilirdi.
 
-Aile reisinin görevi, ailenin maddi desteğini sağlamak, aile içinde hukuku, adaleti ve ahlakı uygulamak ve hastalık, savaş ya da kıtlık zamanlarında dezavantajlı üyelere bakmaktı. En uç durumlarda — kıtlık, ağır borç — aile reisi kimin hayatta kalacağına, kimin kölelik yoluna gideceğine ve kimin oradan geri satın alınacağına bile karar vermek zorunda kalırdı.
+Aile reisinin görevi, ailenin maddi desteğini sağlamak, aile içinde hukuku, adaleti ve ahlakı uygulamak ve hastalık, savaş ya da kıtlık zamanlarında dezavantajlı üyelere bakmaktı. En uç durumlarda — kıtlık, ağır borç — aile reisi kimin hayatta kalacağına, kimin kölelik yoluna gideceğine ve kimin oradan geri satın alınacağına bile karar vermek zorunda kalırdı. Antlaşmanın Tanrı'ya verdiği rol de budur: o dönemin antlaşmalarında güçlü taraf "baba" diye anılır, zayıf tarafı geçindirmek ve korumakla yükümlüydü ve bölünmez sadakat isterdi — {{% int_link val="Tanrı’nın antlaşması" link="/expl/background/israel/gods-covenant" %}} tam da bunun üzerine kuruludur.
 
 Aile reisi öldüğünde ya da aile tek bir birim olarak işleyemeyecek kadar büyüdüğünde aile bölünür ve ortaya çıkan her ailedeki en yaşlı erkek yeni aile reisi olurdu. {{% bible val="Üç oğlu olan Terah: Haran, Avram ve Nahor. Haran öldüğünde geride bir oğul bırakır" link="gen:11,27-31" lang="tr" %}} ve {{% bible val="Avram onun bakımını üstlenir" link="gen:12,1-4" lang="tr" %}} — bu, sistemin amaçlandığı gibi işlediğini gösterir.
 
-O dönemde bir erkeğin birden fazla eşi olması yaygındı — genellikle ilk eş oğul doğurmadığında — ama Kutsal Kitap bu uygulamayı sürekli eleştirir, çünkü birden fazla eşe sahip olmak neredeyse her zaman sorun yaratırdı. Bu örüntü {{% bible val="belanın ta kendisi olan Lamek'ten" link="gen:4,23-26" lang="tr" %}} başlayıp, {{% bible val="İbrahim'in çocuk sahibi olmak için hizmetçisini kullandığı dramdan" link="gen:16" lang="tr" %}}, {{% bible val="Yakup'un eşleri arasındaki doğum yarışından" link="gen:30,1-24" lang="tr" %}} ve {{% bible val="Elkana'nın öyküsünden" link="1sa:1,1-7" lang="tr" %}} geçerek Davut'a ve onun farklı eşlerinden olan oğullarına, {{% bible val="Süleyman'a ve onun çöküşüne" link="1ki:11,3" lang="tr" %}} kadar uzanır. Yasa, bunun yol açtığı gerilimi bile düzenlemek zorunda kaldı; {{% bible val="bir erkeğin iki karısı olduğu durumlar için bir müdahale" link="deu:21,17" lang="tr" %}} öngördü.
-
-Bu arka plana karşı, {{% bible val="kadınların yasaya göre miras almasına izin verildiğini" link="num:36" lang="tr" %}} ve kadınların {{% bible val="bağımsız bir iş kurmaya, hatta aile reisi gibi davranıp kocaları tarafından övülmeye" link="pro:31,15-31" lang="tr" %}} teşvik edildiğini belirtmekte fayda var.
+Oğul olmadığında kadınlar da {{% bible val="yasaya göre miras alabilirdi" link="num:27,1-8" lang="tr" %}}.
 
 ## Miras
 

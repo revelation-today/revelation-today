@@ -14,7 +14,7 @@ appl: /appl/background/israel
 **Why this matters for Revelation:** Revelation speaks in family terms: Jesus is {{% bible val="the firstborn from the dead" link="rev:1,5" lang="en" %}}, the redeemer who {{% bible val="purchased people for God with his blood" link="rev:5,9" lang="en" %}}, and the one who conquers {{% bible val="will inherit all this, and I will be his God and he will be my child" link="rev:21,7" lang="en" %}}.
 {{< /callout >}}
 
-Does the Bible support and encourage patriarchal structures? Does it teach that women matter less than men? The picture is more complicated than that — let me walk through what family actually looked like in ancient culture, and why it matters for reading the rest of Scripture.
+In the ancient world, to belong meant to belong to a family — and the Bible describes God's bond with his people in exactly those terms: father and son, firstborn, redeemer, inheritance. Understanding how family worked is therefore the ground for understanding the covenant, and for much of what Revelation promises.
 
 ## The importance of family
 
@@ -39,13 +39,11 @@ It's a role God takes on Himself — he calls himself Israel's {{% bible val="Re
 <a name="7e2f"></a>
 The family unit consisted of the patriarch (the oldest male member) and his wife, their sons and daughters, and the wives and children of the sons. Such a family could span three generations and number up to thirty people, all living and working together.
 
-The patriarch's role was to provide financial support for the family, to enforce law, justice, and morality within it, and to care for its disadvantaged members through illness, war, or famine. In the most extreme situations — famine, crushing debt — the patriarch even had to decide who would survive and who wouldn't, who would go into slavery and who would be bought back out of it.
+The patriarch's role was to provide financial support for the family, to enforce law, justice, and morality within it, and to care for its disadvantaged members through illness, war, or famine. In the most extreme situations — famine, crushing debt — the patriarch even had to decide who would survive and who wouldn't, who would go into slavery and who would be bought back out of it. This is also the role the covenant gives God: in the treaties of the time the stronger party was called "father", was bound to provide for and protect the weaker, and asked for exclusive loyalty — {{% int_link val="God's covenant" link="/expl/background/israel/gods-covenant" %}} builds on exactly this.
 
 When the patriarch died, or when the family grew too large to function as one unit, it split, and the oldest male in each resulting family became the new patriarch. {{% bible val="Terah who had three sons: Haran, Abram and Nahor. When Haran dies, he leaves a son" link="gen:11,27-31" lang="en" %}} which {{% bible val="Abram takes care of" link="gen:12,1-4" lang="en" %}} shows the system working as intended.
 
-It was common in those days for a man to take multiple wives — often when the first did not bear sons — but the Bible is consistently critical of the practice, since having more than one wife almost always caused trouble. The pattern runs from {{% bible val="Lamech who was trouble itself" link="gen:4,23-26" lang="en" %}}, through the {{% bible val="drama of Abraham using his maid to have children" link="gen:16" lang="en" %}}, the {{% bible val="birth war of Jacob's wives" link="gen:30,1-24" lang="en" %}}, and the story of {{% bible val="Elkanah" link="1sa:1,1-7" lang="en" %}}, to David and his sons by different wives and {{% bible val="Solomon and his downfall" link="1ki:11,3" lang="en" %}}. The law even had to legislate for the resulting tension, with an {{% bible val="intervention when a man has two wives" link="deu:21,17" lang="en" %}}.
-
-Against that backdrop, it's worth noting that {{% bible val="women were allowed to inherit according to the law" link="num:36" lang="en" %}} and were encouraged toward an {{% bible val="independent business even acting as patriarchs and being praised by their husbands" link="pro:31,15-31" lang="en" %}}.
+Women, too, could {{% bible val="inherit under the law" link="num:27,1-8" lang="en" %}} where there was no son.
 
 ## The inheritance
 
