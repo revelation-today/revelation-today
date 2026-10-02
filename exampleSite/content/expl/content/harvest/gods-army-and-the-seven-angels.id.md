@@ -15,6 +15,9 @@ sources:
       ref: bauckham_rev
     - pages: 283–307
       ref: bauckham_climax
+deeper:
+    - name: Eksodus Kedua
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Pasal 14 Kitab Wahyu adalah salah satu pasal yang paling membingungkan dalam Alkitab — sekilas pasal ini terasa terputus dari segala sesuatu di sekitarnya. Namun jika dibaca dalam kaitannya dengan apa yang mendahului dan apa yang mengikutinya, pasal ini justru menjadi engsel: sebuah pasal yang menjawab pasal sebelumnya dan mempersiapkan pasal berikutnya. Pasal ini layak dicermati lebih dekat.

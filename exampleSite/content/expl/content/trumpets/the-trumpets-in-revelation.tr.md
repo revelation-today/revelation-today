@@ -9,6 +9,8 @@ next: /expl/content/scroll/the-little-scroll
 docType: expl
 appl: /appl/content/trumpets
 deeper:
+    - name: İkinci Çıkış
+      link:  /expl/background/israel/the-second-exodus
     - name: Küçük parşömen
       link:  /expl/content/scroll/the-little-scroll
 sources: 

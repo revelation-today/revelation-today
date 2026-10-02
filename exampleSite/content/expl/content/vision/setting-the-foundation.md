@@ -11,6 +11,9 @@ prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
 docType: expl
 appl: /appl/content/vision
+deeper:
+    - name: The second Exodus
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 The book of Revelation begins with a few statements that are easy to skim past, yet they are key to understanding everything that follows. Let's look at them with fresh eyes.

@@ -11,6 +11,9 @@ prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
 docType: expl
 appl: /appl/content/vision
+deeper:
+    - name: İkinci Çıkış
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Vahiy kitabı, kolayca gözden kaçırabileceğimiz ama sonrasında gelen her şeyi anlamak için kilit önem taşıyan birkaç ifadeyle başlar. Onlara yeni bir gözle bakalım.

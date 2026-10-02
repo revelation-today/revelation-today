@@ -4,6 +4,10 @@ weight: 6
 sources:
     - pages: 694–703
       ref: beale_theo
+    - pages: 191–193, 351, 465, 591–592, 669–670, 785
+      ref: beale_rev
+    - pages: 217
+      ref: bauckham_climax
 prev: /expl/background/israel/jesus-and-the-covenant
 next: /expl/background/israel/the-church-is-part-of-israel
 docType: expl
@@ -65,6 +69,20 @@ Sebuah tema terkait yang berjalan sepanjang Kisah Para Rasul adalah "firman Alla
 Jika digabungkan, perbandingan ini menyoroti sebuah ketegangan nyata antara Kisah Para Rasul dan Yesaya: Allah ditunjukkan berdaulat atas berhala-berhala itu, namun Israel tetap saja berpegang teguh padanya. Ketegangan itu memuncak khususnya dalam {{% bible val="Kisah Para Rasul 17" link="act:17" lang="ind" %}}, di mana perlawanan orang Yahudi terhadap Paulus kemungkinan besar berakar pada kelekatan yang sama terhadap berhala.
 
 Penghakiman diumumkan dengan tegas secara khusus setiap kali berhala-berhala ini, atau orang-orang di baliknya, mengklaim keilahian bagi diri mereka sendiri — seperti dalam kasus {{% bible val="Simon" link="act:8,4-24" lang="ind" %}}, {{% bible val="Herodes" link="act:12,20-23" lang="ind" %}}, dan {{% bible val="Elimas" link="act:13,10-11" lang="ind" %}}.
+
+## Eksodus Baru dalam Kitab Wahyu
+
+Kitab Wahyu menceritakan kisah keluaran sekali lagi — kini sebagai kisah gereja sendiri. Pasal demi pasal, gambaran-gambarannya diambil dari peristiwa Keluaran:
+
+- **Dibebaskan oleh darah, dijadikan kerajaan dan imam.** Yesus {{% bible val="telah melepaskan kita dari dosa kita oleh darah-Nya dan yang telah membuat kita menjadi suatu kerajaan, menjadi imam-imam" link="rev:1,5-6" lang="ind" %}} — persis kata-kata yang diucapkan Allah kepada Israel di Sinai setelah Keluaran ({{% bible val="Keluaran 19:6" link="exo:19,6" lang="ind" %}}). Di belakangnya berdiri penyelamatan Israel oleh darah anak domba Paskah. → {{% int_link val="Meletakkan Dasar" link="/expl/content/vision/setting-the-foundation" %}}
+- **Anak Domba Paskah.** Anak Domba {{% bible val="seperti telah disembelih" link="rev:5,6" lang="ind" %}}, yang dengan darah-Nya {{% bible val="telah membeli orang-orang bagi Allah dari tiap-tiap suku" link="rev:5,9" lang="ind" %}}, adalah anak domba Paskah sekaligus hamba dalam Yesaya 53. → {{% int_link val="Kitab dengan Tujuh Meterai" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
+- **Bala tentara Allah dihitung.** Yang 144.000 itu {{% bible val="dihitung suku demi suku" link="rev:7,4-8" lang="ind" %}}, seperti sensus di padang gurun yang menghitung orang-orang yang sanggup berperang ({{% bible val="Bilangan 1:2–3" link="num:1,2-3" lang="ind" %}}). → {{% int_link val="Yang 144.000" link="/expl/content/army/the-144000" %}}
+- **Tulah-tulah.** Sangkakala-sangkakala dan cawan-cawan meniru tulah-tulah di Mesir — hujan es, air menjadi darah, kegelapan, barah — dan, seperti Firaun, manusia {{% bible val="tidak bertobat" link="rev:9,20-21" lang="ind" %}}. → {{% int_link val="Sangkakala-Sangkakala dalam Wahyu" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="Cawan-Cawan Murka" link="/expl/content/bowls/the-bowls-of-wrath" %}}
+- **Mesir.** Kota tempat kedua saksi itu terbaring mati {{% bible val="secara rohani disebut Sodom dan Mesir" link="rev:11,8" lang="ind" %}}: dunia yang memperbudak dan menganiaya umat Allah. → {{% int_link val="Kedua saksi" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Sayap rajawali di padang gurun.** Kepada perempuan itu diberikan {{% bible val="kedua sayap dari burung nasar yang besar" link="rev:12,14" lang="ind" %}} supaya ia terbang ke padang gurun, tempat Allah memeliharanya — gambaran yang dipakai Allah untuk Keluaran: {{% bible val="Aku telah mendukung kamu di atas sayap rajawali dan membawa kamu kepada-Ku" link="exo:19,4" lang="ind" %}}. → {{% int_link val="Kelahiran Yesus dalam Kitab Wahyu" link="/expl/content/jesus/a-different-christmas-story" %}}
+- **Nyanyian di tepi laut.** Para pemenang berdiri di tepi lautan kaca dan menyanyikan {{% bible val="nyanyian Musa, hamba Allah, dan nyanyian Anak Domba" link="rev:15,2-3" lang="ind" %}}, seperti Israel bernyanyi setelah menyeberangi Laut Teberau ({{% bible val="Keluaran 15" link="exo:15,1-18" lang="ind" %}}). → {{% int_link val="Bala Tentara Allah dan Ketujuh Malaikat" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
+
+Jadi eksodus kedua yang dijanjikan para nabi, dan yang menurut Injil mulai dengan Yesus, dalam Kitab Wahyu adalah kisah gereja sendiri: diselamatkan oleh darah Anak Domba, didukung melintasi padang gurun, dijaga ketika tulah-tulah menimpa Mesir yang baru, dan bernyanyi di seberang.
 
 ## Ringkasan
 

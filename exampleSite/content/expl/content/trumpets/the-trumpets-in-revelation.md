@@ -9,6 +9,8 @@ next: /expl/content/scroll/the-little-scroll
 docType: expl
 appl: /appl/content/trumpets
 deeper:
+    - name: The second Exodus
+      link:  /expl/background/israel/the-second-exodus
     - name: The little scroll
       link:  /expl/content/scroll/the-little-scroll
 sources: 

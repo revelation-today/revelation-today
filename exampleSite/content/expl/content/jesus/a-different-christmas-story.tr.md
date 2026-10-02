@@ -9,6 +9,8 @@ next: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 docType: expl
 appl: /appl/content/jesus
 deeper:
+    - name: İkinci Çıkış
+      link:  /expl/background/israel/the-second-exodus
     - name: Daniel’de Genel Bakış
       link:  /expl/bible/daniel/the-book-of-daniel
     - name: Dört Krallık

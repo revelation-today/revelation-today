@@ -11,6 +11,9 @@ appl: /appl/content/worship
 sources: 
     - pages: 337–369
       ref: beale_rev
+deeper:
+    - name: Eksodus Kedua
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Pernahkah kamu mendengar ungkapan "itu bagaikan kitab dengan tujuh meterai" untuk menggambarkan sebuah misteri besar? Ungkapan ini sebenarnya berasal dari pasal ini - meskipun maknanya tidak sepenuhnya sama dengan yang orang bayangkan.

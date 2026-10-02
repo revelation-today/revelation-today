@@ -4,6 +4,10 @@ weight: 6
 sources:
     - pages: 694–703
       ref: beale_theo
+    - pages: 191–193, 351, 465, 591–592, 669–670, 785
+      ref: beale_rev
+    - pages: 217
+      ref: bauckham_climax
 prev: /expl/background/israel/jesus-and-the-covenant
 next: /expl/background/israel/the-church-is-part-of-israel
 docType: expl
@@ -65,6 +69,20 @@ Ein verwandtes Thema, das sich durch die Apostelgeschichte zieht, ist „das Wor
 Zusammengenommen zeigt dieser Vergleich eine echte Spannung zwischen der Apostelgeschichte und Jesaja auf: Gott wird als souverän über die Götzen dargestellt, doch Israel klammert sich trotzdem weiter an sie. Diese Spannung spitzt sich besonders in {{% bible val="Apostelgeschichte 17" link="act:17" lang="de" %}} zu, wo der Widerstand der Juden gegen Paulus vermutlich in eben dieser Anhänglichkeit an die Götzen wurzelt.
 
 Besonders scharf wird Gericht angekündigt, wann immer diese Götzen — oder die Menschen hinter ihnen — Göttlichkeit für sich beanspruchen, wie in den Fällen von {{% bible val="Simon" link="act:8,4-24" lang="de" %}}, {{% bible val="Herodes" link="act:12,20-23" lang="de" %}} und {{% bible val="Elymas" link="act:13,10-11" lang="de" %}}.
+
+## Der neue Auszug in der Offenbarung
+
+Die Offenbarung erzählt die Geschichte des Auszugs noch einmal — jetzt als die Geschichte der Gemeinde. Kapitel für Kapitel stammen die Bilder aus dem Exodus:
+
+- **Durch Blut befreit, zu Königen und Priestern gemacht.** Jesus hat {{% bible val="uns von unseren Sünden gewaschen durch sein Blut und uns zu Königen und Priestern gemacht" link="rev:1,5-6" lang="de" %}} — genau die Worte, die Gott nach dem Auszug am Sinai zu Israel sprach ({{% bible val="2. Mose 19,6" link="exo:19,6" lang="de" %}}). Dahinter steht Israels Rettung durch das Blut des Passalamms. → {{% int_link val="Die Grundlage legen" link="/expl/content/vision/setting-the-foundation" %}}
+- **Das Passalamm.** Das Lamm, {{% bible val="wie geschlachtet" link="rev:5,6" lang="de" %}}, das mit seinem Blut {{% bible val="für Gott Menschen aus jedem Stamm erkauft hat" link="rev:5,9" lang="de" %}}, ist das Passalamm und zugleich der Knecht aus Jesaja 53. → {{% int_link val="Ein Buch mit sieben Siegeln" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
+- **Gottes Heer wird gezählt.** Die 144.000 werden {{% bible val="Stamm für Stamm gezählt" link="rev:7,4-8" lang="de" %}} — wie bei der Volkszählung in der Wüste, die die wehrfähigen Männer zählte ({{% bible val="4. Mose 1,2–3" link="num:1,2-3" lang="de" %}}). → {{% int_link val="Die 144.000" link="/expl/content/army/the-144000" %}}
+- **Die Plagen.** Die Posaunen und die Schalen sind den Plagen Ägyptens nachgebildet — Hagel, Wasser zu Blut, Finsternis, Geschwüre —, und wie der Pharao {{% bible val="taten die Menschen nicht Buße" link="rev:9,20-21" lang="de" %}}. → {{% int_link val="Die sieben Posaunen" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="Die Zornesschalen" link="/expl/content/bowls/the-bowls-of-wrath" %}}
+- **Ägypten.** Die Stadt, in der die beiden Zeugen tot liegen, heißt {{% bible val="geistlicherweise Sodom und Ägypten" link="rev:11,8" lang="de" %}}: die Welt, die Gottes Volk versklavt und verfolgt. → {{% int_link val="Die beiden Zeugen" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Adlerflügel in der Wüste.** Der Frau werden {{% bible val="die zwei Flügel des großen Adlers" link="rev:12,14" lang="de" %}} gegeben, damit sie in die Wüste fliegt, wo Gott sie versorgt — das Bild, das Gott für den Auszug gebrauchte: {{% bible val="ich habe euch getragen auf Adlerflügeln und euch zu mir gebracht" link="exo:19,4" lang="de" %}}. → {{% int_link val="Die Geburt Jesu in der Offenbarung" link="/expl/content/jesus/a-different-christmas-story" %}}
+- **Das Lied am Meer.** Die Überwinder stehen an einem gläsernen Meer und singen {{% bible val="das Lied Moses, des Knechtes Gottes, und das Lied des Lammes" link="rev:15,2-3" lang="de" %}} — so wie Israel nach dem Zug durch das Rote Meer sang ({{% bible val="2. Mose 15" link="exo:15,1-18" lang="de" %}}). → {{% int_link val="Gottes Armee und die sieben Engel" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
+
+Der zweite Auszug, den die Propheten verheißen haben und der nach den Evangelien mit Jesus beginnt, ist in der Offenbarung also die Geschichte der Gemeinde selbst: gerettet durch das Blut des Lammes, durch die Wüste getragen, bewahrt, während die Plagen über das neue Ägypten kommen, und singend am anderen Ufer.
 
 ## Zusammenfassung
 

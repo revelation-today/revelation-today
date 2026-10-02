@@ -9,6 +9,8 @@ next: /expl/content/bowls/the-key-to-armageddon
 docType: expl
 appl: /appl/content/bowls
 deeper:
+    - name: Eksodus Kedua
+      link:  /expl/background/israel/the-second-exodus
     - name: Harmagedon
       link:  /expl/content/bowls/the-key-to-armageddon
 sources: 

@@ -11,6 +11,9 @@ prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
 docType: expl
 appl: /appl/content/vision
+deeper:
+    - name: Der zweite Auszug
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Die Offenbarung beginnt mit ein paar Sätzen, die man leicht überliest — und die doch der Schlüssel zum Verständnis von allem sind, was folgt. Schauen wir sie uns mit neuen Augen an.

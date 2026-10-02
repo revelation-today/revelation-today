@@ -11,6 +11,9 @@ appl: /appl/content/worship
 sources: 
     - pages: 337–369
       ref: beale_rev
+deeper:
+    - name: The second Exodus
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Do you know the idiom "that's a book with seven seals," meaning a great mystery? The phrase actually originates in this chapter — though it doesn't mean quite what people assume.

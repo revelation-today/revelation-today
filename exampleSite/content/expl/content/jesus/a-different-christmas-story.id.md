@@ -9,6 +9,8 @@ next: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 docType: expl
 appl: /appl/content/jesus
 deeper:
+    - name: Eksodus Kedua
+      link:  /expl/background/israel/the-second-exodus
     - name: Ikhtisar tentang Kitab Daniel
       link:  /expl/bible/daniel/the-book-of-daniel
     - name: Keempat Kerajaan pada Kitab Daniel

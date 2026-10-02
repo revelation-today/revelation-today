@@ -4,6 +4,10 @@ weight: 6
 sources:
     - pages: 694–703
       ref: beale_theo
+    - pages: 191–193, 351, 465, 591–592, 669–670, 785
+      ref: beale_rev
+    - pages: 217
+      ref: bauckham_climax
 prev: /expl/background/israel/jesus-and-the-covenant
 next: /expl/background/israel/the-church-is-part-of-israel
 docType: expl
@@ -65,6 +69,20 @@ Elçilerin İşleri boyunca işleyen bağlantılı bir tema da "Tanrı'nın söz
 Bir araya getirildiğinde, bu karşılaştırma Elçilerin İşleri ile Yeşaya arasındaki gerçek bir gerilimi ortaya çıkarır: Tanrı'nın putlar üzerinde egemen olduğu gösterilir, yine de İsrail onlara tutunmayı sürdürür. Bu gerilim özellikle {{% bible val="Elçilerin İşleri 17'de" link="act:17" lang="tr" %}} doruğa ulaşır; burada Yahudilerin Pavlus'a karşı direnişi büyük olasılıkla putlara olan bu aynı bağlılıktan kaynaklanır.
 
 Bu putlar ya da arkalarındaki kişiler kendileri için tanrılık iddia ettiğinde — {{% bible val="Simun" link="act:8,4-24" lang="tr" %}}, {{% bible val="Hirodes" link="act:12,20-23" lang="tr" %}} ve {{% bible val="Elimas" link="act:13,9-11" lang="tr" %}} örneklerinde olduğu gibi — yargı özel bir şiddetle duyurulur.
+
+## Vahiy'de yeni Çıkış
+
+Vahiy, Çıkış öyküsünü bir kez daha anlatır — bu kez kilisenin kendi öyküsü olarak. Bölüm bölüm imgeler Mısır'dan Çıkış'tan gelir:
+
+- **Kanla özgür kılınmış, bir krallık ve kâhinler yapılmış.** İsa {{% bible val="kanıyla bizi günahlarımızdan kurtardı, bizi bir krallık, kâhinler yaptı" link="rev:1,5-6" lang="tr" %}} — Tanrı'nın Çıkış'tan sonra Sina'da İsrail'e söylediği sözlerin ta kendisi ({{% bible val="Çıkış 19:6" link="exo:19,6" lang="tr" %}}). Bunun arkasında İsrail'in Fısıh kuzusunun kanıyla kurtuluşu durur. → {{% int_link val="Temelin oluşturulması" link="/expl/content/vision/setting-the-foundation" %}}
+- **Fısıh Kuzusu.** {{% bible val="Boğazlanmış gibi görünen" link="rev:5,6" lang="tr" %}} ve kanıyla {{% bible val="her oymaktan insanları Tanrı için satın alan" link="rev:5,9" lang="tr" %}} Kuzu, hem Fısıh kuzusu hem de Yeşaya 53'teki kuldur. → {{% int_link val="Yedi Mühürlü Kitap" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
+- **Tanrı'nın ordusu sayılır.** 144.000 kişi {{% bible val="oymak oymak sayılır" link="rev:7,4-8" lang="tr" %}} — savaşabilecek erkeklerin sayıldığı çöldeki sayım gibi ({{% bible val="Çölde Sayım 1:2–3" link="num:1,2-3" lang="tr" %}}). → {{% int_link val="144.000" link="/expl/content/army/the-144000" %}}
+- **Belalar.** Borazanlar ve kâseler Mısır'daki belalar örnek alınarak şekillenir — dolu, kana dönen su, karanlık, çıbanlar — ve Firavun gibi insanlar {{% bible val="tövbe etmedi" link="rev:9,20-21" lang="tr" %}}. → {{% int_link val="Vahiy’deki trompetler" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="Gazap Kaseleri" link="/expl/content/bowls/the-bowls-of-wrath" %}}
+- **Mısır.** İki tanığın ölü yattığı kent {{% bible val="simgesel olarak Sodom ve Mısır diye anılır" link="rev:11,8" lang="tr" %}}: Tanrı'nın halkını köleleştiren ve ona zulmeden dünya. → {{% int_link val="İki Tanık" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Çölde kartal kanatları.** Kadına, çöle uçması için {{% bible val="büyük kartalın iki kanadı" link="rev:12,14" lang="tr" %}} verilir; orada Tanrı onu besler — Tanrı'nın Çıkış için kullandığı imge: {{% bible val="sizi kartal kanatları üzerinde taşıyıp yanıma getirdim" link="exo:19,4" lang="tr" %}}. → {{% int_link val="Farklı bir Noel hikayesi" link="/expl/content/jesus/a-different-christmas-story" %}}
+- **Deniz kıyısındaki ezgi.** Galip gelenler cam bir denizin kıyısında durup {{% bible val="Tanrı'nın kulu Musa'nın ve Kuzu'nun ezgisini" link="rev:15,2-3" lang="tr" %}} söyler — İsrail'in Kızıldeniz'i geçtikten sonra söylediği gibi ({{% bible val="Çıkış 15" link="exo:15,1-18" lang="tr" %}}). → {{% int_link val="Tanrı’nın ordusu ve yedi melek" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
+
+Böylece peygamberlerin vaat ettiği ve Müjdeler'in İsa'yla başladığını gördüğü ikinci Çıkış, Vahiy'de kilisenin kendi öyküsüdür: Kuzu'nun kanıyla kurtarılmış, çölde taşınmış, belalar yeni Mısır'ın üzerine yağarken korunmuş ve karşı kıyıda ezgi söyleyen bir halk.
 
 ## Özet
 

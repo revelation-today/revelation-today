@@ -15,6 +15,9 @@ sources:
       ref: bauckham_rev
     - pages: 283–307
       ref: bauckham_climax
+deeper:
+    - name: İkinci Çıkış
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Vahiy Kitabı'nın 14. bölümü, Kutsal Kitap'ın en şaşırtıcı bölümlerinden biridir — ilk bakışta çevresindeki her şeyden kopuk gibi görünür. Ama öncesi ve sonrasıyla birlikte okunduğunda, aslında bir menteşe olduğu ortaya çıkar: Önceki bölüme cevap veren ve sonrakini hazırlayan bir bölüm. Daha yakından bakmayı hak ediyor.

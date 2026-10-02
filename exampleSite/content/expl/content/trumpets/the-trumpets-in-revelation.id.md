@@ -9,6 +9,8 @@ next: /expl/content/scroll/the-little-scroll
 docType: expl
 appl: /appl/content/trumpets
 deeper:
+    - name: Eksodus Kedua
+      link:  /expl/background/israel/the-second-exodus
     - name: Kitab Kecil Itu
       link:  /expl/content/scroll/the-little-scroll
 sources: 

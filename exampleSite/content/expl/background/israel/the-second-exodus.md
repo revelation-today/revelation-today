@@ -4,6 +4,10 @@ weight: 6
 sources:
     - pages: 694–703
       ref: beale_theo
+    - pages: 191–193, 351, 465, 591–592, 669–670, 785
+      ref: beale_rev
+    - pages: 217
+      ref: bauckham_climax
 prev: /expl/background/israel/jesus-and-the-covenant
 next: /expl/background/israel/the-church-is-part-of-israel
 docType: expl
@@ -65,6 +69,20 @@ A related theme running through Acts is "the word of God," which advances after 
 Taken together, this comparison highlights a real tension between Acts and Isaiah: God is shown to be sovereign over the idols, yet Israel keeps clinging to them anyway. That tension comes to a head especially in {{% bible val="Acts 17" link="act:17" lang="en" %}}, where the Jews' resistance to Paul is likely rooted in this same attachment to idols.
 
 Judgment is announced with particular force whenever these idols, or the people behind them, claim divinity for themselves — as in the cases of {{% bible val="Simon" link="act:8,4-24" lang="en" %}}, {{% bible val="Herod" link="act:12,20-23" lang="en" %}}, and {{% bible val="Elymas" link="act:13,10-11" lang="en" %}}.
+
+## The new exodus in Revelation
+
+Revelation tells the exodus story once more, now as the church's own story. Chapter after chapter, the pictures come from the Exodus:
+
+- **Freed by blood, made a kingdom of priests.** Jesus {{% bible val="freed us from our sins by his blood and made us to be a kingdom and priests" link="rev:1,5-6" lang="en" %}} — the very words God spoke to Israel at Sinai after the Exodus ({{% bible val="Exod 19:6" link="exo:19,6" lang="en" %}}). Behind it stands Israel's rescue by the blood of the Passover lamb. → {{% int_link val="Setting the foundation" link="/expl/content/vision/setting-the-foundation" %}}
+- **The Passover Lamb.** The Lamb {{% bible val="looking as if it had been slain" link="rev:5,6" lang="en" %}}, who with his blood {{% bible val="purchased for God persons from every tribe" link="rev:5,9" lang="en" %}}, is the Passover lamb as well as the servant of Isaiah 53. → {{% int_link val="The book with the seven seals" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
+- **God's army counted.** The 144,000 are {{% bible val="counted tribe by tribe" link="rev:7,4-8" lang="en" %}}, like the census in the wilderness, which counted the men able to fight ({{% bible val="Num 1:2–3" link="num:1,2-3" lang="en" %}}). → {{% int_link val="The 144,000" link="/expl/content/army/the-144000" %}}
+- **The plagues.** The trumpets and the bowls are modelled on the plagues of Egypt — hail, water turned to blood, darkness, sores — and, like Pharaoh, the people {{% bible val="did not repent" link="rev:9,20-21" lang="en" %}}. → {{% int_link val="The trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="The bowls of wrath" link="/expl/content/bowls/the-bowls-of-wrath" %}}
+- **Egypt.** The city where the two witnesses lie dead is {{% bible val="figuratively called Sodom and Egypt" link="rev:11,8" lang="en" %}}: the world that enslaves and persecutes God's people. → {{% int_link val="The two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Eagle's wings in the wilderness.** The woman is given {{% bible val="the two wings of a great eagle" link="rev:12,14" lang="en" %}} to fly into the wilderness, where God cares for her — the picture God used for the Exodus: {{% bible val="I carried you on eagles' wings and brought you to myself" link="exo:19,4" lang="en" %}}. → {{% int_link val="A different Christmas story" link="/expl/content/jesus/a-different-christmas-story" %}}
+- **The song by the sea.** The conquerors stand beside a sea of glass and sing {{% bible val="the song of God's servant Moses and of the Lamb" link="rev:15,2-3" lang="en" %}}, as Israel sang after crossing the Red Sea ({{% bible val="Exod 15" link="exo:15,1-18" lang="en" %}}). → {{% int_link val="God's army and the seven angels" link="/expl/content/harvest/gods-army-and-the-seven-angels" %}}
+
+So the second exodus the prophets promised, and the gospels see beginning in Jesus, is in Revelation the church's own story: rescued by the Lamb's blood, carried through the wilderness, kept safe while the plagues fall on the new Egypt, and singing on the far shore.
 
 ## Summary
 

@@ -9,6 +9,8 @@ next: /expl/content/jesus/a-different-christmas-story
 docType: expl
 appl: /appl/content/witnesses
 deeper:
+    - name: Eksodus Kedua
+      link:  /expl/background/israel/the-second-exodus
     - name: Kuasa kesaksian
       link: /appl/topics/power/the-power-of-testimony
 sources: 

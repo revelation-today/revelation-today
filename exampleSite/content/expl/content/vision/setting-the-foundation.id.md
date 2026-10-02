@@ -11,6 +11,9 @@ prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
 docType: expl
 appl: /appl/content/vision
+deeper:
+    - name: Eksodus Kedua
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Kitab Wahyu dibuka dengan beberapa pernyataan yang mudah kita lewatkan begitu saja, padahal justru pernyataan-pernyataan itulah kunci untuk memahami segala sesuatu yang menyusul. Mari kita perhatikan dengan mata yang baru.

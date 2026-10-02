@@ -9,6 +9,8 @@ next: /expl/content/jesus/a-different-christmas-story
 docType: expl
 appl: /appl/content/witnesses
 deeper:
+    - name: İkinci Çıkış
+      link:  /expl/background/israel/the-second-exodus
     - name: Tanıklığın gücü
       link: /appl/topics/power/the-power-of-testimony
 sources: 

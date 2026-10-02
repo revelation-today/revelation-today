@@ -11,6 +11,9 @@ appl: /appl/content/worship
 sources: 
     - pages: 337–369
       ref: beale_rev
+deeper:
+    - name: Der zweite Auszug
+      link:  /expl/background/israel/the-second-exodus
 ---
 
 Kennst du die Redewendung „das ist für mich ein Buch mit sieben Siegeln“, mit der man ein großes Geheimnis bezeichnet? Der Ausdruck stammt tatsächlich aus diesem Kapitel — auch wenn er dort nicht ganz das bedeutet, was man gemeinhin annimmt.
