@@ -9,6 +9,10 @@ deeper:
 sources:
     - pages: 28–33
       ref: beale_rev
+    - pages: 239–240
+      ref: beale_rev
+    - pages: 171
+      ref: aune_rev
 prev: /about/ressources
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
@@ -73,9 +77,9 @@ Pilihan ketiga itu terbukti menarik bagi banyak orang sepanjang sejarah, dan hal
 
 ## Orang Kristen dan Orang Yahudi
 
-Orang Yahudi menjadi sumber konflik lainnya. Karena tradisi keagamaan mereka yang panjang, mereka diizinkan untuk terus menjalankan iman mereka selama tidak bertentangan dengan Pax Romana — mereka masih dapat merayakan Sabat dan menjalankan kegiatan bait suci mereka, misalnya.
+Orang Yahudi menjadi sumber konflik lainnya. Karena tradisi keagamaan mereka yang panjang, Roma membiarkan mereka menjalankan iman mereka: mereka dapat merayakan Sabat, dan mereka tidak dipaksa menyembah kaisar sebagai dewa, cukup menghormatinya sebagai penguasa.
 
-Namun kini muncul sekte Yahudi baru ini, yaitu orang Kristen, yang bukan hanya mengabaikan Pax Romana bagi diri mereka sendiri, tetapi juga membuat orang lain di seluruh kekaisaran melakukan hal yang sama. Roma menanggapinya dengan menghukum orang Yahudi karena hal itu, yang pada gilirannya mendorong orang Yahudi untuk mencari alasan guna menuduh orang Kristen melakukan pelanggaran, agar agama Yahudi sendiri dapat terus dijalankan tanpa gangguan.
+Namun kini muncul sekte Yahudi baru ini, yaitu orang Kristen, yang bukan hanya mengabaikan Pax Romana bagi diri mereka sendiri, tetapi juga memenangkan orang lain di seluruh kekaisaran untuk melakukan hal yang sama. Untuk sementara waktu mereka berlindung di bawah perlindungan agama Yahudi. Bagi rumah-rumah ibadat Yahudi, hal itu menjadi risiko. Sejak bait suci dihancurkan pada tahun 70 M, setiap orang Yahudi membayar pajak khusus kepada Roma, *Fiscus Judaicus*, dan di bawah Domitianus pajak itu dipungut dengan sangat keras, bahkan dari orang-orang yang hidup sebagai orang Yahudi tanpa mengakuinya (Suetonius, *Domitianus* 12.2). Jadi rumah ibadat Yahudi berkepentingan untuk menyadarkan para penguasa bahwa orang Kristen sama sekali bukan orang Yahudi — sehingga mereka kehilangan perlindungan agama Yahudi dan harus menghadapi kultus kaisar.
 
 Ketegangan ini sangat membebani orang Kristen, dan Kitab Wahyu membahasnya secara langsung.
 

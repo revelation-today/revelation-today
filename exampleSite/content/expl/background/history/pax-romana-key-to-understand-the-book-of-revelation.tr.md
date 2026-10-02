@@ -9,6 +9,10 @@ deeper:
 sources:
     - pages: 28–33
       ref: beale_rev
+    - pages: 239–240
+      ref: beale_rev
+    - pages: 171
+      ref: aune_rev
 prev: /about/ressources
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
@@ -72,9 +76,9 @@ Bu üçüncü seçenek tarih boyunca birçok insan için cazip olmuştur ve Vahi
 
 ## Hristiyanlar ve Yahudiler
 
-Yahudiler bir başka çatışma kaynağıydı. Uzun dini gelenekleri nedeniyle, Pax Romana ile çelişmediği sürece inançlarını uygulamaya devam etmelerine izin veriliyordu — örneğin hâlâ Şabat'ı kutlayabiliyor ve tapınak faaliyetlerini sürdürebiliyorlardı.
+Yahudiler bir başka çatışma kaynağıydı. Uzun dini gelenekleri nedeniyle Roma, inançlarını yaşamalarına izin veriyordu: Şabat'ı kutlayabiliyorlardı ve imparatora bir tanrı olarak tapınmak zorunda değillerdi, onu yalnızca bir hükümdar olarak onurlandırmaları yeterliydi.
 
-Ama şimdi bu yeni Yahudi mezhebi, Hıristiyanlar, ortaya çıkmıştı; sadece kendileri Pax Romana'yı görmezden gelmekle kalmıyor, imparatorluk genelinde başkalarını da aynısını yapmaya döndürüyorlardı. Roma buna Yahudileri cezalandırarak karşılık verdi, bu da Yahudileri, Yahudiliğin kendisinin rahatsız edilmeden uygulanmaya devam edebilmesi için Hıristiyanları suçlayacak gerekçeler aramaya itti.
+Ama şimdi bu yeni Yahudi mezhebi, Hıristiyanlar, ortaya çıkmıştı; sadece kendileri Pax Romana'yı görmezden gelmekle kalmıyor, imparatorluk genelinde başkalarını da aynısını yapmaya kazanıyorlardı. Bir süre Yahudiliğin koruması altında kaldılar. Bu, havralar için bir risk hâline geldi. Tapınağın MS 70'te yıkılmasından beri her Yahudi Roma'ya özel bir vergi, *Fiscus Judaicus*, ödüyordu ve Domitianus döneminde bu vergi büyük bir sertlikle toplanıyordu; Yahudi gibi yaşayıp bunu söylemeyenlerden bile (Suetonius, *Domitianus* 12.2). Bu yüzden yetkililere Hıristiyanların hiç de Yahudi olmadığını bildirmek havranın çıkarınaydı — bu da Hıristiyanları Yahudiliğin korumasından yoksun bırakıp imparator kültüyle karşı karşıya bıraktı.
 
 Bu gerginlik Hıristiyanlar üzerinde ağır bir yük oluşturuyordu ve Vahiy Kitabı buna doğrudan değinir.
 

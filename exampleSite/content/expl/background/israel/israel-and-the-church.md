@@ -1,6 +1,11 @@
 ---
 title: "Israel and the church"
 weight: 8
+sources:
+    - pages: 239–240
+      ref: beale_rev
+    - pages: 171
+      ref: aune_rev
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/content/vision/setting-the-foundation
 docType: expl
@@ -16,7 +21,7 @@ In the time of the early church, the Jewish religion was respected by the Roman 
 
 Christians, however, refused to pay the emperor the worship he expected — and worse, from Rome's point of view, they were going around persuading people to follow a Jew named Jesus instead.
 
-Because the emperor initially saw Christianity as simply a Jewish sect, the Jewish community found itself under pressure by association. That is part of why some Jews took to accusing Christians before the Romans: it was a way of making sure the emperor understood that they, at least, were not on the Christians' side.
+For a while Christianity sheltered under Judaism's protection, because Rome saw it as a Jewish sect. That became a risk for the synagogues: since AD 70 every Jew paid a special tax to Rome, the *Fiscus Judaicus*, and under Domitian it was collected harshly, even from people who lived as Jews without saying so. That is part of why some Jews made the authorities aware that the Christians were not Jews at all — which stripped the Christians of Judaism's protection and left them facing the emperor cult.
 
 ## Jews in Revelation
 

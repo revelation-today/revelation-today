@@ -1,6 +1,11 @@
 ---
 title: "İsrail ve kilise"
 weight: 8
+sources:
+    - pages: 239–240
+      ref: beale_rev
+    - pages: 171
+      ref: aune_rev
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/content/vision/setting-the-foundation
 docType: expl
@@ -16,7 +21,7 @@ Vahiy'de Yahudilerden ve İsrail'den söz edilişi gerçekten tartışmalıdır.
 
 Hıristiyanlar ise imparatorun beklediği tapınmayı ona göstermeyi reddettiler — daha da kötüsü, Roma'nın bakış açısından, etrafta dolaşıp insanları İsa adlı bir Yahudi'yi izlemeye ikna ediyorlardı.
 
-İmparator başlangıçta Hıristiyanlığı sadece bir Yahudi mezhebi olarak gördüğü için, Yahudi topluluğu bu ilişki yüzünden baskı altında kaldı. Bazı Yahudilerin Hıristiyanları Romalılar önünde suçlamaya yönelmesinin nedenlerinden biri de kısmen budur: bu, imparatorun en azından kendilerinin Hıristiyanların tarafında olmadığını anlamasını sağlamanın bir yoluydu.
+Roma onu bir Yahudi mezhebi olarak gördüğü için Hıristiyanlık bir süre Yahudiliğin koruması altında kaldı. Bu, havralar için bir risk hâline geldi: MS 70'ten beri her Yahudi Roma'ya özel bir vergi, *Fiscus Judaicus*, ödüyordu ve Domitianus döneminde bu vergi büyük bir sertlikle toplanıyordu; Yahudi gibi yaşayıp bunu söylemeyenlerden bile. Bazı Yahudilerin yetkililere Hıristiyanların hiç de Yahudi olmadığını bildirmesinin nedenlerinden biri de budur — bu da Hıristiyanları Yahudiliğin korumasından yoksun bırakıp imparator kültüyle karşı karşıya bıraktı.
 
 ## Vahiy'de Yahudiler
 

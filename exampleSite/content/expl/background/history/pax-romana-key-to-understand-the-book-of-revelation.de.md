@@ -9,6 +9,10 @@ deeper:
 sources:
     - pages: 28–33
       ref: beale_rev
+    - pages: 239–240
+      ref: beale_rev
+    - pages: 171
+      ref: aune_rev
 prev: /about/ressources
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
@@ -73,9 +77,9 @@ Diese dritte Option hat sich für viele Menschen im Lauf der Geschichte als verl
 
 ## Christen und Juden
 
-Die Juden waren eine weitere Quelle des Konflikts. Aufgrund ihrer langen religiösen Tradition durften sie ihren Glauben weiter praktizieren, solange dies nicht mit der Pax Romana kollidierte — sie konnten zum Beispiel weiterhin den Schabbat feiern und ihre Tempelaktivitäten ausüben.
+Die Juden waren eine weitere Quelle des Konflikts. Wegen ihrer langen religiösen Tradition ließ Rom ihnen ihren Glauben: Sie konnten den Sabbat feiern und mussten den Kaiser nicht als Gott anbeten, sondern ihn nur als Herrscher ehren.
 
-Doch nun gab es diese neue jüdische Sekte, die Christen, die nicht nur selbst die Pax Romana missachteten, sondern auch andere im ganzen Reich dazu bekehrten, es ihnen gleichzutun. Rom reagierte, indem es die Juden dafür bestrafte, was die Juden wiederum dazu trieb, nach Gründen zu suchen, die Christen einer Verfehlung zu bezichtigen, damit das Judentum selbst ungestört weiter praktizieren konnte.
+Doch nun gab es diese neue jüdische Sekte, die Christen, die nicht nur selbst die Pax Romana missachteten, sondern im ganzen Reich auch andere dafür gewannen. Eine Zeit lang standen sie unter dem Schutz des Judentums. Für die Synagogen wurde das zum Risiko. Seit der Zerstörung des Tempels im Jahr 70 zahlte jeder Jude eine Sondersteuer an Rom, den *Fiscus Judaicus*, und unter Domitian wurde sie mit großer Härte eingetrieben, sogar bei Menschen, die jüdisch lebten, ohne es zu sagen (Sueton, *Domitian* 12,2). So lag es im Interesse der Synagoge, den Behörden klarzumachen, dass die Christen gar keine Juden waren — womit sie den Schutz des Judentums verloren und dem Kaiserkult ausgeliefert waren.
 
 Diese Spannung lastete schwer auf den Christen, und die Offenbarung spricht sie direkt an.
 

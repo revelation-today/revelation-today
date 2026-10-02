@@ -1,6 +1,11 @@
 ---
 title: "Israel und die Gemeinde"
 weight: 8
+sources:
+    - pages: 239–240
+      ref: beale_rev
+    - pages: 171
+      ref: aune_rev
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/content/vision/setting-the-foundation
 docType: expl
@@ -16,7 +21,7 @@ Zur Zeit der frühen Gemeinde wurde die jüdische Religion vom Römischen Reich 
 
 Die Christen jedoch weigerten sich, dem Kaiser die Verehrung zu erweisen, die er erwartete — und, aus römischer Sicht noch schlimmer, sie zogen umher und überredeten Menschen, stattdessen einem Juden namens Jesus zu folgen.
 
-Da der Kaiser das Christentum zunächst schlicht als jüdische Sekte ansah, geriet die jüdische Gemeinschaft durch diese Verbindung unter Druck. Das ist mit ein Grund, warum manche Juden dazu übergingen, Christen bei den Römern anzuzeigen: Es war eine Möglichkeit, dem Kaiser klarzumachen, dass zumindest sie nicht auf der Seite der Christen standen.
+Eine Zeit lang stand das Christentum unter dem Schutz des Judentums, weil Rom es als jüdische Sekte ansah. Für die Synagogen wurde das zum Risiko: Seit dem Jahr 70 zahlte jeder Jude eine Sondersteuer an Rom, den *Fiscus Judaicus*, und unter Domitian wurde sie mit großer Härte eingetrieben, sogar bei Menschen, die jüdisch lebten, ohne es zu sagen. Das ist mit ein Grund, warum manche Juden den Behörden klarmachten, dass die Christen gar keine Juden waren — womit die Christen den Schutz des Judentums verloren und dem Kaiserkult ausgeliefert waren.
 
 ## Juden in der Offenbarung
 

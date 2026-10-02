@@ -1,6 +1,11 @@
 ---
 title: "Israel dan Gereja"
 weight: 8
+sources:
+    - pages: 239–240
+      ref: beale_rev
+    - pages: 171
+      ref: aune_rev
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/content/vision/setting-the-foundation
 docType: expl
@@ -16,7 +21,7 @@ Pada zaman jemaat mula-mula, agama Yahudi dihormati oleh Kekaisaran Romawi karen
 
 Namun, orang Kristen menolak memberikan kepada kaisar penyembahan yang ia harapkan — dan yang lebih buruk lagi di mata Roma, mereka berkeliling membujuk orang-orang untuk mengikuti seorang Yahudi bernama Yesus.
 
-Karena kaisar pada mulanya memandang agama Kristen hanya sebagai sebuah sekte Yahudi, komunitas Yahudi mendapati diri mereka berada di bawah tekanan akibat kaitan ini. Itulah sebagian alasan mengapa beberapa orang Yahudi terdorong untuk mengadukan orang Kristen kepada orang Romawi: itu adalah cara untuk memastikan kaisar memahami bahwa mereka, setidaknya, tidak berpihak kepada orang Kristen.
+Untuk sementara waktu agama Kristen berlindung di bawah perlindungan agama Yahudi, karena Roma memandangnya sebagai sebuah sekte Yahudi. Bagi rumah-rumah ibadat Yahudi, hal itu menjadi risiko: sejak tahun 70 M setiap orang Yahudi membayar pajak khusus kepada Roma, *Fiscus Judaicus*, dan di bawah Domitianus pajak itu dipungut dengan sangat keras, bahkan dari orang-orang yang hidup sebagai orang Yahudi tanpa mengakuinya. Itulah sebagian alasan mengapa beberapa orang Yahudi menyadarkan para penguasa bahwa orang Kristen sama sekali bukan orang Yahudi — sehingga orang Kristen kehilangan perlindungan agama Yahudi dan harus menghadapi kultus kaisar.
 
 ## Orang Yahudi dalam Kitab Wahyu
 

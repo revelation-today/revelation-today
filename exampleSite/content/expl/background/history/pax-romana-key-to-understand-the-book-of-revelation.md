@@ -9,6 +9,10 @@ deeper:
 sources:
     - pages: 28–33
       ref: beale_rev
+    - pages: 239–240
+      ref: beale_rev
+    - pages: 171
+      ref: aune_rev
 prev: /about/ressources
 next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
@@ -72,9 +76,9 @@ That third option has proven compelling to many people across history, and it's 
 
 ## Christians and Jews
 
-The Jews were another source of conflict. Because of their long religious tradition, they were permitted to keep practicing their faith as long as it didn't conflict with the Pax Romana — they could still celebrate Shabbat and carry out their temple activities, for instance.
+The Jews were another source of conflict. Because of their long religious tradition, Rome let them keep their faith: they could celebrate the Sabbath, and they were not forced to worship the emperor as a god, only to honour him as a ruler.
 
-But now there was this new Jewish sect, the Christians, who were not only disregarding the Pax Romana themselves but converting others throughout the empire to do the same. Rome responded by punishing the Jews for it, which in turn pushed the Jews to look for grounds to accuse the Christians of wrongdoing, so that Judaism itself could keep practicing undisturbed.
+But now there was this new Jewish sect, the Christians, who were not only disregarding the Pax Romana themselves but winning others across the empire to do the same. For a while they sheltered under Judaism's protection. That became a risk for the synagogues. After the temple was destroyed in AD 70, every Jew paid a special tax to Rome, the *Fiscus Judaicus*, and under Domitian it was collected harshly, even from people who lived as Jews without saying so (Suetonius, *Domitian* 12.2). So it was in the synagogue's interest to make the authorities aware that the Christians were not Jews at all — which stripped them of Judaism's protection and left them facing the emperor cult.
 
 This tension bore hard on the Christians, and Revelation addresses it directly.
 
