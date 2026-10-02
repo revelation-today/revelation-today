@@ -101,32 +101,28 @@ A. Y. Collins, 4, 7 ve 12 sayılarının genel olarak kıyamet edebiyatında, ö
 ## Aritmetik
 
 <a name="bc16"></a>
-Keşfedilmeye değer bir yön daha var: kitabın sayı kullanımının içinde saklı olan aritmetik güzellik.
+Vahiy'in sayılarının bir katmanı daha vardır: oluşturdukları şekiller.
 
-![](/images/Numbers_tr.jpg)
+**Şekilli sayılar.** Yuhanna'nın zamanında sayılar, şekiller oluşturacak biçimde dizilmiş çakıllar olarak düşünülürdü — birinci yüzyılın eğitimli okurlarının bildiği eski bir Pisagorcu alışkanlık (Bauckham, *Climax of Prophecy*, s. 391). Bazı sayılar üçgen (1 + 2 + 3 …), bazıları kare (6 × 6), bazıları dikdörtgen (6 × 7) oluşturur.
 
-Bu resim, [üçgensel](https://bilimgenc.tubitak.gov.tr/makale/ucgensel-sayi-nedir), [kare](https://tr.wikipedia.org/wiki/Tam_kare) ve [dikdörtgensel](http://aymematematikailesi.blogspot.com/2017/09/dikdortgensel-sayilar.html) sayıları ve bunlarla birlikte çok nadir görülen [kare üçgensel](https://en.wikipedia.org/wiki/Square_triangular_number) sayıları göstermektedir. Birkaç gözlem öne çıkıyor.
+**Yuhanna'nın sayılarına yerleştirdikleri.** Richard Bauckham, Yuhanna'nın bu şekilleri bilerek kullandığını göstermiştir (*Climax of Prophecy*, s. 390–402):
 
-Kırmızı daire içine alınmış sütunlar Şeytan'ı ve onun krallığını, yeşil daire içine alınmış sütunlar ise Tanrı'yı ve onun krallığını temsil eder — birbirleriyle sırayla değişirler, ama her zaman ayrı tutulurlar. Bizim için çıkarılacak ders de aynı örüntüyü izler: bu dünyada yaşıyoruz, ama Tanrı'nın krallığıyla Şeytan'ınki arasında gerçek bir ayrım kalır ve ikisi asla birbirine karışmaz.
+- Canavarın sayısı bir üçgendir: 666 = 1 + 2 + … + 36. 36 da 8'in üçgenidir — canavar {{% bible val="sekizinci kral" link="rev:17,11" lang="tr" %}}dır.
+- Tanrı'nın halkı bir karedir: 144 = 12 × 12; 144.000'in ve Yeni Yeruşalim'in {{% bible val="144 arşınlık" link="rev:21,17" lang="tr" %}} surunun ardında bu vardır.
+- Çatışma zamanı bir dikdörtgendir: 42 ay (6 × 7) canavarın zamanıdır ({{% bible val="11:2" link="rev:11,2" lang="tr" %}}; {{% bible val="13:5" link="rev:13,5" lang="tr" %}}), 1260 gün (35 × 36) kilisenin zamanıdır ({{% bible val="11:3" link="rev:11,3" lang="tr" %}}; {{% bible val="12:6" link="rev:12,6" lang="tr" %}}) — aynı üç buçuk yıl, iki ayrı biçimde sayılmış.
+- Bu iki dikdörtgenin ardındaki kareler, 36 ve 1225, 1'den sonra hem kare hem üçgen olan tek sayılardır: canavarın üçgeninin Tanrı halkının karesiyle buluştuğu nokta. 1225 de 49 = 7 × 7'nin, özgürlük yılının üçgenidir.
+- Bunun bir tasarım olduğunu Yuhanna'nın dışarıda bıraktıkları düşündürür: Daniel {{% bible val="1290 ve 1335 gün" link="dan:12,11-12" lang="tr" %}} der, ama Yuhanna 1260'a ulaşmak için tam 360 günlük bir yıl hesaplar.
 
-En küçük önemsiz olmayan kare üçgensel sayı 36'dır ve canavarın çeşitli yönleriyle bağlantılı olduğu ortaya çıkar:
+![](/images/numbers-shapes.tr.svg)
 
-- 666 ile ilişkilidir, 36. üçgensel sayı, {{% bible val="canavarın gizemi olan" link="rev:13,18" lang="tr" %}} sayı.
-- 8 ile ilişkilidir, çünkü 36, 8. üçgensel sayıdır ve 8 dirilişe işaret eder — İsa 8. günde dirildi.
-- 6 ile ilişkilidir — insanın, ya da Tanrı'dan bağımsız gücün sayısı — çünkü 36, 6'nın karesidir.
-- 6. dikdörtgensel sayı 42'dir, bu da {{% bible val="canavarın faaliyetinin 42 ayıyla" link="rev:13,5" lang="tr" %}} örtüşür.
+**Bu sitenin eklediği.** Sonraki iki gözlem bu sitenin kendisine aittir.
 
-Bir sonraki en küçük böyle sayı — ve muhtemelen Yuhanna'nın zamanında bilinen tek diğer sayı — 1225'tir ve o da aynı türden bir örüntü gösterir:
+*Gerçekte.* Canavarın şeklini 36 yerine Tanrı'nın 1225'i üzerine kurarsanız 750.925 elde edersiniz — 666 bunun binde birinden azdır. Tanrı'nın tarafı 2 m olsaydı, canavarınki 2 mm'den kısa olurdu: bir rakip değil, gücün bir parodisi.
 
-- 36'yı kıyasla gölgede bırakır ve ona ulaşmak çok daha fazla çaba gerektirir.
-- 35'in karesidir, 36'dan sadece bir eksik, ama tamamen farklı bir ölçekte işler.
-- 35. dikdörtgensel sayı 1260'tır, bu da {{% bible val="iki tanığın etkin olduğu süreyle" link="rev:11,3" lang="tr" %}} örtüşür.
-- Aynı zamanda 49. üçgensel sayıdır ve 49, eksiksizlik ya da tamlık sayısı olan 7'nin karesidir.
+![](/images/numbers-scale.tr.svg)
 
-Altta yatan gerçek şudur: Tanrı'nın krallığı Şeytan'ınkinin çok üzerindedir; Şeytan'ınki ise buna kıyasla devasa bir parodiden pek fazlası değildir. 666'nın eşdeğerini 36 yerine 1225 üzerine kurarsanız, 750,925 elde edersiniz. Bu oranı 2 metre boyunda bir insana uygularsak, Şeytan'ın gücü 2 milimetreden kısa bir böcekle kıyaslanır.
+*Göründüğü gibi.* Canavarın sonraki sayıları, 1296 (36 × 36) ve 1332 (36 × 37), Tanrı'nın 1225 ve 1260'ının hemen üzerindedir — bu yüzden canavar her zaman olduğundan biraz daha büyük görünür. İlk Hristiyanlar bu oyunu gerçekten oynadı: *İşaya'nın Göğe Yükselişi*, Deccal'ın saltanatını 666'ya bağlı bir sayı olan 1332 gün olarak verir (Bauckham, *Climax of Prophecy*, s. 403).
 
-![](/images/Numbers2_tr1.jpg)
+![](/images/numbers-appear.tr.svg)
 
-Yine de çoğu zaman algıladığımız şey bu gerçekliğin çarpıtılmış bir versiyonudur; Şeytan'ın her zaman olduğundan biraz daha güçlü göründüğü bir versiyon.
-
-![](/images/Numbers2_tr2.jpg)
+**Bu nereye kadar geçerli.** Hesap kesindir. Bauckham'ın kısmı, Yuhanna'nın bunu kastettiğine dair bilimsel bir savdır. İki resim birer canlandırmadır: büyüklükleri seçilen şekle bağlıdır — 1225 doğrudan 36 ile karşılaştırılırsa oran yalnızca 34'e 1'dir — bu yüzden gizli bir şifre olarak değil, Vahiy'in sözlerle söylediğinin bir resmi olarak sunulurlar: ejderhanın gücü gerçektir, ama Tanrı'nınkinin yanında çok küçüktür ve yalnızca olduğundan biraz daha büyük görünür.

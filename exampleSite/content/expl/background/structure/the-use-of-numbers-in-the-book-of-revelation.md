@@ -101,32 +101,28 @@ A. Y. Collins argues that the numbers 4, 7, and 12 reflect a cosmic order within
 ## Arithmetic
 
 <a name="6395"></a>
-There's one more aspect worth exploring: the arithmetic beauty hidden inside the book's use of numbers.
+There is one more layer to Revelation's numbers: the shapes they make.
 
-![](/images/Numbers_en.jpg)
+**Numbers with shapes.** In John's day numbers were pictured as pebbles laid out in figures — an old Pythagorean habit, familiar to educated readers in the first century (Bauckham, *Climax of Prophecy*, p. 391). Some numbers make triangles (1 + 2 + 3 …), some squares (6 × 6), some rectangles (6 × 7).
 
-This picture illustrates [triangular](https://en.wikipedia.org/wiki/Triangular_number), [square](https://elementarymath.edc.org/resources/square-number/), and [rectangular](https://www.geeksforgeeks.org/rectangular-numbers/) numbers, along with the very rare [square triangular](https://en.wikipedia.org/wiki/Square_triangular_number) numbers. A few observations stand out.
+**What John built into his numbers.** Richard Bauckham has shown that John uses these shapes on purpose (*Climax of Prophecy*, pp. 390–402):
 
-The red-circled columns represent Satan and his kingdom, while the green-circled columns represent God and his kingdom — alternating with each other, yet always kept distinct. The lesson for us follows the same pattern: we live in this world, but there remains a real distinction between God's kingdom and Satan's, and the two never mix.
+- The beast's number is a triangle: 666 = 1 + 2 + … + 36. And 36 is itself the triangle of 8 — the beast is {{% bible val="an eighth king" link="rev:17,11" lang="en" %}}.
+- God's people are a square: 144 = 12 × 12, behind the 144,000 and the wall of the New Jerusalem, {{% bible val="144 cubits" link="rev:21,17" lang="en" %}}.
+- The time of conflict is a rectangle: 42 months (6 × 7) is the beast's time ({{% bible val="11:2" link="rev:11,2" lang="en" %}}; {{% bible val="13:5" link="rev:13,5" lang="en" %}}), 1260 days (35 × 36) the church's time ({{% bible val="11:3" link="rev:11,3" lang="en" %}}; {{% bible val="12:6" link="rev:12,6" lang="en" %}}) — the same three and a half years, counted two ways.
+- The squares behind those two rectangles, 36 and 1225, are the only numbers after 1 that are both square and triangle: the point where the beast's triangle meets the square of God's people. And 1225 is the triangle of 49 = 7 × 7, the jubilee.
+- That this is design is suggested by what John left out: Daniel gives {{% bible val="1290 and 1335 days" link="dan:12,11-12" lang="en" %}}, yet John reckons a year of exactly 360 days to arrive at 1260.
 
-The smallest nontrivial square triangular number is 36, and it turns out to connect to several aspects of the beast:
+![](/images/numbers-shapes.en.svg)
 
-- It relates to 666, the 36th triangular number, {{% bible val="which is the mystery of the beast" link="rev:13,18" lang="en" %}}.
-- It relates to 8, since 36 is the 8th triangular number, and 8 points to resurrection — Jesus rose on the 8th day.
-- It relates to 6 — the number of man, or of power apart from God — since 36 is the square of 6.
-- The 6th rectangular number is 42, matching {{% bible val="the 42 months of the beast's activity" link="rev:13,5" lang="en" %}}.
+**What this site adds.** Two further observations are this site's own.
 
-The next smallest such number — and quite possibly the only other one known in John's day — is 1,225, and it shows the same kind of pattern:
+*How it is.* Build the beast's figure on God's 1225 instead of on 36, and you get 750,925 — 666 is less than a thousandth of it. If God's side stood 2 m tall, the beast's would be under 2 mm: a parody of power, not a rival.
 
-- it dwarfs 36 by comparison and takes considerably more work to arrive at.
-- it is the square of 35, just one less than 36, though operating on an entirely different scale.
-- the 35th rectangular number is 1,260, matching the {{% bible val="length of time the two witnesses are active" link="rev:11,3" lang="en" %}}.
-- it is also the 49th triangular number, and 49 is the square of 7, the number of totality or completeness.
+![](/images/numbers-scale.en.svg)
 
-The underlying reality is that God's kingdom towers over Satan's, which amounts to little more than a massive parody by comparison. Take the equivalent of 666 built on 1,225 instead of 36, and you get 750.925. If we picture that ratio applied to a person 2 meters tall, Satan's strength would compare to an insect less than 2 millimeters long.
+*How it looks.* The beast's next numbers, 1296 (36 × 36) and 1332 (36 × 37), sit just above God's 1225 and 1260 — so the beast always seems a little bigger than it is. Early Christians did play this game: the *Ascension of Isaiah* gives the Antichrist's reign as 1332 days, a number tied to 666 (Bauckham, *Climax of Prophecy*, p. 403).
 
-![](/images/Numbers2_en1.jpg)
+![](/images/numbers-appear.en.svg)
 
-Yet what we often perceive is a distorted version of that reality, one where Satan always seems just a bit stronger than he actually is.
-
-![](/images/Numbers2_en2.jpg)
+**How far this holds.** The arithmetic is exact. Bauckham's part is a scholarly argument that John meant it. The two pictures are illustrations: their size depends on the figure chosen — comparing 1225 with 36 directly gives only 34 to 1 — so they are offered not as a hidden code but as a picture of what Revelation says in words: the dragon's power is real, but tiny beside God's, and only looks a little larger than it is.

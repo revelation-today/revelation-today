@@ -101,32 +101,28 @@ A. Y. Collins vertritt die Ansicht, dass die Zahlen 4, 7 und 12 eine kosmische O
 ## Arithmetische Betrachtungen
 
 <a name="f042"></a>
-Es gibt noch einen weiteren Aspekt, der eine nähere Betrachtung lohnt: die arithmetische Schönheit, die im Zahlengebrauch des Buches verborgen liegt.
+Revelations Zahlen haben noch eine weitere Schicht: die Formen, die sie bilden.
 
-![](/images/Numbers_de.jpg)
+**Zahlen mit Gestalt.** Zur Zeit des Johannes stellte man sich Zahlen als Kieselsteine vor, die zu Figuren gelegt werden — eine alte pythagoreische Gewohnheit, gebildeten Lesern im ersten Jahrhundert vertraut (Bauckham, *Climax of Prophecy*, S. 391). Manche Zahlen bilden Dreiecke (1 + 2 + 3 …), manche Quadrate (6 × 6), manche Rechtecke (6 × 7).
 
-Dieses Bild zeigt [Dreieckszahlen](https://adi.dzlm.de/figurierte-zahlen/dreieckszahlen), quadratische Zahlen und [Rechteckszahlen](https://adi.dzlm.de/figurierte-zahlen/rechteckszahlen) sowie die sehr seltenen [Quadrat-Dreieckszahlen](https://de.wikipedia.org/wiki/Dreieckszahl#Quadrat-Dreieckszahlen). Dabei fallen einige Beobachtungen ins Auge.
+**Was Johannes in seine Zahlen hineingelegt hat.** Richard Bauckham hat gezeigt, dass Johannes diese Formen bewusst gebraucht (*Climax of Prophecy*, S. 390–402):
 
-Die rot eingekreisten Spalten stehen für Satan und sein Reich, die grün eingekreisten Spalten für Gott und sein Reich — sie wechseln sich ab, bleiben aber stets deutlich voneinander unterschieden. Die Lehre daraus gilt auch für uns: Wir leben in dieser Welt, aber es bleibt ein realer Unterschied zwischen dem Reich Gottes und dem Reich Satans, und die beiden vermischen sich nie.
+- Die Zahl des Tieres ist ein Dreieck: 666 = 1 + 2 + … + 36. Und 36 ist selbst das Dreieck der 8 — das Tier ist {{% bible val="ein achter König" link="rev:17,11" lang="de" %}}.
+- Gottes Volk ist ein Quadrat: 144 = 12 × 12, hinter den 144.000 und der Mauer des Neuen Jerusalem, {{% bible val="144 Ellen" link="rev:21,17" lang="de" %}}.
+- Die Zeit des Kampfes ist ein Rechteck: 42 Monate (6 × 7) sind die Zeit des Tieres ({{% bible val="11,2" link="rev:11,2" lang="de" %}}; {{% bible val="13,5" link="rev:13,5" lang="de" %}}), 1260 Tage (35 × 36) die Zeit der Gemeinde ({{% bible val="11,3" link="rev:11,3" lang="de" %}}; {{% bible val="12,6" link="rev:12,6" lang="de" %}}) — dieselben dreieinhalb Jahre, auf zwei Arten gezählt.
+- Die Quadrate hinter diesen beiden Rechtecken, 36 und 1225, sind nach der 1 die einzigen Zahlen, die zugleich Quadrat und Dreieck sind: der Punkt, an dem das Dreieck des Tieres auf das Quadrat des Volkes Gottes trifft. Und 1225 ist das Dreieck der 49 = 7 × 7, des Jubeljahres.
+- Dass hier Absicht vorliegt, legt nahe, was Johannes weggelassen hat: Daniel nennt {{% bible val="1290 und 1335 Tage" link="dan:12,11-12" lang="de" %}}, doch Johannes rechnet mit einem Jahr von genau 360 Tagen, um auf 1260 zu kommen.
 
-Die kleinste nicht-triviale Quadrat-Dreieckszahl ist 36, und sie erweist sich als Verbindungspunkt zu mehreren Aspekten des Tieres:
+![](/images/numbers-shapes.de.svg)
 
-- Sie steht in Beziehung zu 666, der 36. Dreieckszahl, {{% bible val="dem Geheimnis des Tieres" link="rev:13,18" lang="de" %}}.
-- Sie steht in Beziehung zu 8, da 36 die 8. Dreieckszahl ist, und 8 verweist auf die Auferstehung — Jesus stand am 8. Tag auf.
-- Sie steht in Beziehung zu 6 — der Zahl des Menschen, beziehungsweise der Macht ohne Gott —, da 36 das Quadrat von 6 ist.
-- Die 6. Rechteckszahl ist 42 und entspricht {{% bible val="den 42 Monaten der Aktivität des Tieres" link="rev:13,5" lang="de" %}}.
+**Was diese Seite hinzufügt.** Zwei weitere Beobachtungen sind eigene dieser Seite.
 
-Die nächstkleinere solche Zahl — und möglicherweise die einzige weitere, die zu Johannes' Zeit bekannt war — ist 1225, und sie zeigt dasselbe Muster:
+*Wie es ist.* Baut man die Figur des Tieres auf Gottes 1225 statt auf 36, erhält man 750.925 — 666 ist weniger als ein Tausendstel davon. Wäre Gottes Seite 2 m groß, wäre die des Tieres kleiner als 2 mm: eine Parodie von Macht, kein Rivale.
 
-- Sie übertrifft die 36 bei weitem und erfordert erheblich mehr Rechenaufwand, um sie zu ermitteln.
-- Sie ist das Quadrat von 35, also nur eine Zahl weniger als 36, wenngleich auf einer ganz anderen Größenordnung.
-- Die 35. Rechteckszahl ist 1260 und entspricht der {{% bible val="Zeit, in der die beiden Zeugen aktiv sind" link="rev:11,3" lang="de" %}}.
-- Sie ist außerdem die 49. Dreieckszahl, und 49 ist das Quadrat von 7, der Zahl der Totalität oder Vollständigkeit.
+![](/images/numbers-scale.de.svg)
 
-Dahinter steht die Wirklichkeit, dass das Reich Gottes das Reich Satans weit überragt, welches im Vergleich kaum mehr ist als eine gewaltige Parodie. Bildet man das Äquivalent zu 666 nicht auf Basis von 36, sondern von 1225, erhält man 750,925. Überträgt man dieses Verhältnis auf einen 2 Meter großen Menschen, entspräche Satans Stärke der eines weniger als 2 Millimeter langen Insekts.
+*Wie es aussieht.* Die nächsten Zahlen des Tieres, 1296 (36 × 36) und 1332 (36 × 37), liegen knapp über Gottes 1225 und 1260 — darum wirkt das Tier immer ein wenig größer, als es ist. Frühe Christen haben dieses Spiel tatsächlich gespielt: Die *Himmelfahrt des Jesaja* gibt die Herrschaft des Antichristen mit 1332 Tagen an, einer Zahl, die mit 666 verbunden ist (Bauckham, *Climax of Prophecy*, S. 403).
 
-![](/images/Numbers2_de1.jpg)
+![](/images/numbers-appear.de.svg)
 
-Doch was wir oft wahrnehmen, ist eine verzerrte Version dieser Wirklichkeit — eine, in der Satan immer ein wenig stärker erscheint, als er tatsächlich ist.
-
-![](/images/Numbers2_de2.jpg)
+**Wie weit das trägt.** Die Rechnung stimmt genau. Bauckhams Teil ist ein wissenschaftliches Argument dafür, dass Johannes es so gemeint hat. Die beiden Bilder sind Veranschaulichungen: Ihre Größe hängt von der gewählten Figur ab — vergleicht man 1225 direkt mit 36, ergibt sich nur 34 zu 1 —, deshalb sind sie nicht als versteckter Code gemeint, sondern als Bild dessen, was die Offenbarung mit Worten sagt: Die Macht des Drachen ist echt, aber winzig neben der Gottes, und sie wirkt nur ein wenig größer, als sie ist.

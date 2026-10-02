@@ -101,32 +101,28 @@ A. Y. Collins berpendapat bahwa angka-angka 4, 7, dan 12 mencerminkan sebuah tat
 ## Pertimbangan Aritmetika
 
 <a name="f042"></a>
-Ada satu aspek lagi yang layak dijelajahi: keindahan aritmetika yang tersembunyi dalam penggunaan angka-angka dalam kitab ini.
+Bilangan-bilangan dalam Kitab Wahyu masih memiliki satu lapisan lagi: bentuk-bentuk yang dibentuknya.
 
-![](/images/Numbers_de.jpg)
+**Bilangan yang berbentuk.** Pada zaman Yohanes, bilangan dibayangkan sebagai kerikil yang disusun menjadi bangun — kebiasaan lama dari tradisi Pythagoras, yang dikenal oleh pembaca terpelajar pada abad pertama (Bauckham, *Climax of Prophecy*, hlm. 391). Sebagian bilangan membentuk segitiga (1 + 2 + 3 …), sebagian persegi (6 × 6), sebagian persegi panjang (6 × 7).
 
-Gambar ini menggambarkan bilangan [segitiga](https://en.wikipedia.org/wiki/Triangular_number), [kuadrat](https://elementarymath.edc.org/resources/square-number/), dan [persegi panjang](https://www.geeksforgeeks.org/rectangular-numbers/), beserta bilangan [segitiga-kuadrat](https://en.wikipedia.org/wiki/Square_triangular_number) yang sangat langka. Beberapa pengamatan menonjol di sini.
+**Apa yang dimasukkan Yohanes ke dalam bilangan-bilangannya.** Richard Bauckham menunjukkan bahwa Yohanes memakai bentuk-bentuk ini dengan sengaja (*Climax of Prophecy*, hlm. 390–402):
 
-Kolom-kolom yang dilingkari merah mewakili Iblis dan kerajaannya, sementara kolom-kolom yang dilingkari hijau mewakili Allah dan Kerajaan-Nya — bergantian satu sama lain, namun selalu tetap terpisah. Pelajaran bagi kita mengikuti pola yang sama: kita hidup di dunia ini, tetapi tetap ada perbedaan nyata antara Kerajaan Allah dan kerajaan Iblis, dan keduanya tidak pernah bercampur.
+- Bilangan binatang itu adalah segitiga: 666 = 1 + 2 + … + 36. Dan 36 sendiri adalah segitiga dari 8 — binatang itu adalah {{% bible val="raja yang kedelapan" link="rev:17,11" lang="ind" %}}.
+- Umat Allah adalah persegi: 144 = 12 × 12, di balik yang 144.000 dan tembok Yerusalem Baru, {{% bible val="144 hasta" link="rev:21,17" lang="ind" %}}.
+- Masa pertentangan adalah persegi panjang: 42 bulan (6 × 7) adalah masa binatang itu ({{% bible val="11:2" link="rev:11,2" lang="ind" %}}; {{% bible val="13:5" link="rev:13,5" lang="ind" %}}), 1260 hari (35 × 36) adalah masa gereja ({{% bible val="11:3" link="rev:11,3" lang="ind" %}}; {{% bible val="12:6" link="rev:12,6" lang="ind" %}}) — tiga setengah tahun yang sama, dihitung dengan dua cara.
+- Persegi di balik kedua persegi panjang itu, 36 dan 1225, adalah satu-satunya bilangan setelah 1 yang sekaligus persegi dan segitiga: titik tempat segitiga binatang itu bertemu persegi umat Allah. Dan 1225 adalah segitiga dari 49 = 7 × 7, tahun Yobel.
+- Bahwa ini disengaja, terlihat dari apa yang ditinggalkan Yohanes: Daniel menyebut {{% bible val="1290 dan 1335 hari" link="dan:12,11-12" lang="ind" %}}, tetapi Yohanes menghitung satu tahun tepat 360 hari untuk sampai pada 1260.
 
-Bilangan segitiga-kuadrat nontrivial terkecil adalah 36, dan ternyata angka ini berkaitan dengan beberapa aspek dari binatang itu:
+![](/images/numbers-shapes.id.svg)
 
-- Angka ini berkaitan dengan 666, bilangan segitiga ke-36, {{% bible val="yaitu rahasia binatang itu" link="rev:13,18" lang="ind" %}}.
-- Angka ini berkaitan dengan 8, sebab 36 adalah bilangan segitiga ke-8, dan 8 menunjuk pada kebangkitan — Yesus bangkit pada hari ke-8.
-- Angka ini berkaitan dengan 6 — angka manusia, atau angka kuasa yang terpisah dari Allah — sebab 36 adalah kuadrat dari 6.
-- Bilangan persegi panjang ke-6 adalah 42, sesuai dengan {{% bible val="42 bulan masa aktivitas binatang itu" link="rev:13,5" lang="ind" %}}.
+**Tambahan dari situs ini.** Dua pengamatan berikut adalah milik situs ini sendiri.
 
-Bilangan segitiga-kuadrat terkecil berikutnya — dan kemungkinan besar satu-satunya lagi yang dikenal pada zaman Yohanes — adalah 1.225, dan angka ini menunjukkan jenis pola yang sama:
+*Kenyataannya.* Jika bangun binatang itu dibangun di atas 1225 milik Allah, bukan di atas 36, hasilnya 750.925 — 666 kurang dari seperseribunya. Jika sisi Allah setinggi 2 m, sisi binatang itu kurang dari 2 mm: sebuah parodi kekuasaan, bukan saingan.
 
-- angka ini jauh melampaui 36 dan membutuhkan usaha yang jauh lebih besar untuk dicapai.
-- angka ini adalah kuadrat dari 35, hanya selisih satu dari 36, meskipun beroperasi pada skala yang sama sekali berbeda.
-- bilangan persegi panjang ke-35 adalah 1.260, sesuai dengan {{% bible val="lamanya waktu kedua saksi itu aktif" link="rev:11,3" lang="ind" %}}.
-- angka ini juga merupakan bilangan segitiga ke-49, dan 49 adalah kuadrat dari 7, angka totalitas atau kelengkapan.
+![](/images/numbers-scale.id.svg)
 
-Realitas yang mendasarinya adalah bahwa Kerajaan Allah menjulang jauh di atas kerajaan Iblis, yang tidak lebih dari sekadar sebuah parodi belaka jika dibandingkan. Ambillah padanan 666 yang dibangun di atas 1.225, bukan 36, dan Anda mendapatkan 750,925. Jika kita membayangkan rasio itu diterapkan pada seseorang setinggi 2 meter, kekuatan Iblis akan setara dengan seekor serangga yang panjangnya kurang dari 2 milimeter.
+*Kelihatannya.* Bilangan berikutnya milik binatang itu, 1296 (36 × 36) dan 1332 (36 × 37), berada sedikit di atas 1225 dan 1260 milik Allah — karena itu binatang itu selalu tampak sedikit lebih besar daripada kenyataannya. Orang Kristen mula-mula memang memainkan permainan ini: *Kenaikan Yesaya* menyebut masa pemerintahan Antikristus 1332 hari, bilangan yang terkait dengan 666 (Bauckham, *Climax of Prophecy*, hlm. 403).
 
-![](/images/Numbers2_de1.jpg)
+![](/images/numbers-appear.id.svg)
 
-Namun yang sering kita rasakan adalah sebuah versi realitas yang terdistorsi, di mana Iblis selalu tampak sedikit lebih kuat daripada yang sebenarnya.
-
-![](/images/Numbers2_de2.jpg)
+**Sejauh mana ini berlaku.** Hitungannya tepat. Bagian Bauckham adalah argumen ilmiah bahwa Yohanes memaksudkannya. Kedua gambar adalah ilustrasi: ukurannya bergantung pada bangun yang dipilih — membandingkan 1225 dengan 36 secara langsung hanya menghasilkan 34 banding 1 — jadi gambar-gambar itu tidak disajikan sebagai kode tersembunyi, melainkan sebagai gambaran dari apa yang dikatakan Kitab Wahyu dengan kata-kata: kuasa naga itu nyata, tetapi sangat kecil di samping kuasa Allah, dan hanya tampak sedikit lebih besar daripada kenyataannya.
