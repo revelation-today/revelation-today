@@ -2,7 +2,7 @@
 title: "Die Benutzung von Zahlen in der Offenbarung"
 weight: 40
 sources:
-    - pages: 60–64
+    - pages: 58–64
       ref: beale_rev
     - pages: 384–407
       ref: bauckham_climax
@@ -41,9 +41,9 @@ Dreieinhalb Jahre — erzählt als 42 Monate, 1260 Tage oder „eine Zeit, zwei 
 ## Die Zahl 4
 
 <a name="0f0d"></a>
-Auch die Vier ist eine Zahl der Vollständigkeit, allerdings eher im universellen oder weltweiten Sinn. Die Offenbarung zeigt das an den {{% bible val="vier Enden der Erde" link="rev:20,8" lang="de" %}}, an {{% bible val="den vier Winden" link="rev:7,1" lang="de" %}} und in der Szene, {{% bible val="in der Geschöpfe aus den vier Bereichen der Welt — Himmel, Erde, Meer und unter dem Meer — Gott und dem Lamm ein vierfaches Loblied singen" link="rev:5,13" lang="de" %}}.
+Auch die Vier ist eine Zahl der Vollständigkeit, allerdings eher im universellen oder weltweiten Sinn. Die Offenbarung zeigt das an den {{% bible val="vier Enden der Erde" link="rev:20,8" lang="de" %}}, an {{% bible val="den vier Winden" link="rev:7,1" lang="de" %}} und in der Szene, {{% bible val="in der Geschöpfe aus den vier Bereichen der Welt — Himmel, Erde, unter der Erde und Meer — Gott und dem Lamm ein vierfaches Loblied singen" link="rev:5,13" lang="de" %}}.
 
-Auch sonst wird die Erde immer wieder in vier Teile geteilt: {{% bible val="bei der ersten Posaune" link="rev:8,7" lang="de" %}}, {{% bible val="durch die drei Engel" link="rev:14,7" lang="de" %}} und bei den {{% bible val="vier Schalen, die über Land, Meer, Flüsse und Sonne ausgegossen werden" link="rev:16,2-9" lang="de" %}}. Genau diese vier Bereiche werden zu den Zielen der ersten vier Posaunen und Zornesschalen, was Gottes Gericht über die gesamte Schöpfung unterstreicht.
+Auch sonst wird die Erde immer wieder in vier Teile geteilt: {{% bible val="bei den ersten vier Posaunen" link="rev:8,7-12" lang="de" %}}, {{% bible val="durch die drei Engel" link="rev:14,7" lang="de" %}} und bei den {{% bible val="vier Schalen, die über Land, Meer, Flüsse und Sonne ausgegossen werden" link="rev:16,2-9" lang="de" %}}. Dass Posaunen und Schalen alle vier Bereiche treffen, unterstreicht Gottes Gericht über die gesamte Schöpfung.
 
 Das wiederkehrende Muster 4+3 bei den Gerichten dürfte derselben Logik entspringen, und die Einteilung des Buches in vier Teile unterstreicht zusätzlich seine universelle Reichweite.
 
@@ -67,7 +67,7 @@ Die {{% bible val="Liste der Handelsgüter Babels" link="rev:18,11-13" lang="de"
 - Gott, der Allmächtige, im Nominativ 7-mal.
 - Der auf dem Thron sitzt, 7-mal.
 - Christus 7-mal und Jesus 14-mal.
-- Das Lamm im Sinne von Jesus wird 4 mal 7-mal ausgedrückt.
+- Das Lamm als Bezeichnung für Jesus 28-mal (4 × 7).
 - Das Lamm und Gott zusammen werden 7-mal genannt.
 - Die sieben Geister werden 4-mal erwähnt, um die Fülle der göttlichen Souveränität zu zeigen, die in alle Welt gesandt ist (5/6) — vermutlich durch bzw. mit dem Zeugnis der Gemeinde.
 
@@ -96,7 +96,7 @@ Manche Wörter häufen sich zum Ende des Buches hin und markieren so eine Zuspit
 
 Selbst wenn man einräumt, dass manche dieser Zahlen- oder Namenshäufungen Zufall sein könnten, zeigt das Gesamtmuster ihrer Häufigkeit, dass auch Zahlen bewusst eingesetzt wurden, um eine Aussage zu machen.
 
-A. Y. Collins vertritt die Ansicht, dass die Zahlen 4, 7 und 12 eine kosmische Ordnung widerspiegeln, wie sie in der apokalyptischen Literatur allgemein und in der Offenbarung im Besonderen vorkommt. Johannes nutzt diese Ordnung, um zu zeigen, dass Gott hinter allem steht und die Kontrolle behält — die Zahlen bilden gleichsam das Netz, in dem Satan und seine Gefolgschaft gefangen sind, wodurch Gottes endgültiger Sieg sowohl gewiss als auch sichtbar wird.
+Die Zahlen 4, 7 und 12 spiegeln eine kosmische Ordnung wider, wie sie in der apokalyptischen Literatur allgemein und in der Offenbarung im Besonderen vorkommt. Johannes nutzt diese Ordnung, um zu zeigen, dass Gott hinter allem steht und die Kontrolle behält — die Zahlen bilden gleichsam das Netz, in dem Satan und seine Gefolgschaft gefangen sind, wodurch Gottes endgültiger Sieg sowohl gewiss als auch sichtbar wird.[^collins]
 
 ## Arithmetische Betrachtungen
 
@@ -110,7 +110,7 @@ Revelations Zahlen haben noch eine weitere Schicht: die Formen, die sie bilden.
 - Die Zahl des Tieres ist ein Dreieck: 666 = 1 + 2 + … + 36. Und 36 ist selbst das Dreieck der 8 — das Tier ist {{% bible val="ein achter König" link="rev:17,11" lang="de" %}}.
 - Gottes Volk ist ein Quadrat: 144 = 12 × 12, hinter den 144.000 und der Mauer des Neuen Jerusalem, {{% bible val="144 Ellen" link="rev:21,17" lang="de" %}}.
 - Die Zeit des Kampfes ist ein Rechteck: 42 Monate (6 × 7) sind die Zeit des Tieres ({{% bible val="11,2" link="rev:11,2" lang="de" %}}; {{% bible val="13,5" link="rev:13,5" lang="de" %}}), 1260 Tage (35 × 36) die Zeit der Gemeinde ({{% bible val="11,3" link="rev:11,3" lang="de" %}}; {{% bible val="12,6" link="rev:12,6" lang="de" %}}) — dieselben dreieinhalb Jahre, auf zwei Arten gezählt.
-- Die Quadrate hinter diesen beiden Rechtecken, 36 und 1225, sind nach der 1 die einzigen Zahlen, die zugleich Quadrat und Dreieck sind: der Punkt, an dem das Dreieck des Tieres auf das Quadrat des Volkes Gottes trifft. Und 1225 ist das Dreieck der 49 = 7 × 7, des Jubeljahres.
+- Die Quadrate hinter diesen beiden Rechtecken, 36 und 1225, sind nach der 1 die ersten beiden Zahlen, die zugleich Quadrat und Dreieck sind: der Punkt, an dem das Dreieck des Tieres auf das Quadrat des Volkes Gottes trifft. Und 1225 ist das Dreieck der 49 = 7 × 7, des Jubeljahres.
 - Dass hier Absicht vorliegt, legt nahe, was Johannes weggelassen hat: Daniel nennt {{% bible val="1290 und 1335 Tage" link="dan:12,11-12" lang="de" %}}, doch Johannes rechnet mit einem Jahr von genau 360 Tagen, um auf 1260 zu kommen.
 
 ![](/images/numbers-shapes.de.svg)
@@ -141,3 +141,5 @@ Weil jeder Schritt die Zahl mit sich selbst malnimmt, bleibt die Kluft nicht gle
 ![](/images/numbers-scale.de.svg)
 
 **Wie weit das trägt.** Die Rechnung stimmt genau. Bauckhams Teil ist ein wissenschaftliches Argument dafür, dass Johannes es so gemeint hat, und frühe Christen haben dieses Spiel tatsächlich gespielt: Die *Himmelfahrt des Jesaja* gibt dem Antichristen 1332 Tage, das mit 666 verbundene Rechteck (Bauckham, *Climax of Prophecy*, S. 403). Das Muster von Anspruch und Wirklichkeit beruht auf dem Text selbst — die Kronen, die Hörner, die eine Stunde, das Feuer —, und Beale liest die Kronen des Tieres als falsche Ansprüche auf Christi Königtum. Die beiden Zahlenfamilien stammen von Bauckham; den letzten Schritt des Tieres auch für Gottes Familie zu gehen, und die wachsende Kluft, die daraus folgt, sind die Veranschaulichung dieser Seite — nicht als versteckter Code gemeint, sondern als Bild dessen, was die Offenbarung mit Worten sagt: Satan versucht, etwas größer als Gott zu wirken, und wird als deutlich kleiner gezeigt.
+
+[^collins]: Das Bild vom Netz stammt von A. Y. Collins, „Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature“ (1984), nach Beale, S. 59, 63. Collins bezweifelt, dass die Sieben Vollständigkeit bedeutet; Beale antwortet ihr (S. 63–64).

@@ -2,7 +2,7 @@
 title: "Vahiy Kitabı’nda sayıların kullanımı"
 weight: 40
 sources:
-    - pages: 60–64
+    - pages: 58–64
       ref: beale_rev
     - pages: 384–407
       ref: bauckham_climax
@@ -41,9 +41,9 @@ Vahiy'deki 7 mutluluk bildirisi muhtemelen azizlere verilen bereketin tamamını
 ## 4 sayısı
 
 <a name="062b"></a>
-Dört de bir eksiksizlik sayısıdır, ama daha evrensel ya da dünya çapında bir anlamda. Vahiy bunu {{% bible val="dünyanın dört ucunda" link="rev:20,8" lang="tr" %}}, {{% bible val="dört rüzgârda" link="rev:7,1" lang="tr" %}} ve {{% bible val="dünyanın dört bölgesinden — gökten, yerden, denizden ve deniz altından — gelen yaratıkların Tanrı'ya ve Kuzu'ya dört kat bir övgü ilahisi söylediği sahnede" link="rev:5,13" lang="tr" %}} gösterir.
+Dört de bir eksiksizlik sayısıdır, ama daha evrensel ya da dünya çapında bir anlamda. Vahiy bunu {{% bible val="dünyanın dört ucunda" link="rev:20,8" lang="tr" %}}, {{% bible val="dört rüzgârda" link="rev:7,1" lang="tr" %}} ve {{% bible val="dünyanın dört bölgesinden — gökten, yerden, yer altından ve denizden — gelen yaratıkların Tanrı'ya ve Kuzu'ya dört kat bir övgü ilahisi söylediği sahnede" link="rev:5,13" lang="tr" %}} gösterir.
 
-Yeryüzü başka yerlerde de tekrar tekrar dörde bölünür: {{% bible val="ilk borazan sırasında" link="rev:8,7" lang="tr" %}}, {{% bible val="üç melek tarafından" link="rev:14,7" lang="tr" %}} ve {{% bible val="kara, deniz, nehirler ve güneş üzerine dökülen dört kâsede" link="rev:16,2-9" lang="tr" %}}. Aynı dört bölge, ilk dört borazanın ve gazap kâselerinin de hedefi olur; bu da Tanrı'nın tüm yaratılış üzerindeki yargısını vurgular.
+Yeryüzü başka yerlerde de tekrar tekrar dörde bölünür: {{% bible val="ilk dört borazanda" link="rev:8,7-12" lang="tr" %}}, {{% bible val="üç melek tarafından" link="rev:14,7" lang="tr" %}} ve {{% bible val="kara, deniz, nehirler ve güneş üzerine dökülen dört kâsede" link="rev:16,2-9" lang="tr" %}}. Borazanların da kâselerin de bu dört bölgenin hepsine vurması, Tanrı'nın tüm yaratılış üzerindeki yargısını vurgular.
 
 Yargıların tekrarlanan 4+3 örüntüsü büyük olasılıkla aynı mantıktan doğar ve kitabın dörtlü bölünmesi onun evrensel kapsamını pekiştirir.
 
@@ -67,7 +67,7 @@ Eğer {{% bible val="yedi gök gürlemesi" link="rev:10,2-7" lang="tr" %}} başk
 - Her Şeye Gücü Yeten Tanrı, yalın halde 7 kez.
 - Tahtta Oturan, 7 kez.
 - Mesih 7 kez ve İsa 14 kez.
-- İsa anlamındaki Kuzu, 4 çarpı 7 kez ifade edilir.
+- İsa'yı ifade eden Kuzu, 28 kez (4 × 7).
 - Kuzu ve Tanrı birlikte 7 kez anılır.
 - Yedi ruh, muhtemelen kilisenin tanıklığı aracılığıyla/ile tüm dünyaya gönderilen ilahi egemenliğin doluluğunu göstermek için 4 kez anılır (5/6).
 
@@ -96,7 +96,7 @@ Bazı kelimeler kitabın sonuna doğru daha sık tekrarlanır ve bu, temaların�
 
 Bu sayılardan ya da isim sayımlarından bazılarının rastlantısal olabileceğini kabul etsek bile, genel sıklık örüntüsü, sayıların da bir ifade oluşturmanın bilinçli bir yolu olduğunu göstermektedir.
 
-A. Y. Collins, 4, 7 ve 12 sayılarının genel olarak kıyamet edebiyatında, özellikle de Vahiy'de kozmik bir düzeni yansıttığını savunur. Yuhanna, Tanrı'nın her şeyin arkasında durduğunu ve kontrolü elinde tuttuğunu göstermek için bu düzeni kullanır — sayılar, Şeytan'ın ve takipçilerinin yakalandığı ağın ta kendisini oluşturur ve böylece Tanrı'nın nihai zaferini hem kesin hem de görünür kılar.
+4, 7 ve 12 sayıları, genel olarak kıyamet edebiyatında, özellikle de Vahiy'de kozmik bir düzeni yansıtır. Yuhanna, Tanrı'nın her şeyin arkasında durduğunu ve kontrolü elinde tuttuğunu göstermek için bu düzeni kullanır — sayılar, Şeytan'ın ve takipçilerinin yakalandığı ağın ta kendisini oluşturur ve böylece Tanrı'nın nihai zaferini hem kesin hem de görünür kılar.[^collins]
 
 ## Aritmetik
 
@@ -110,7 +110,7 @@ Vahiy'in sayılarının bir katmanı daha vardır: oluşturdukları şekiller.
 - Canavarın sayısı bir üçgendir: 666 = 1 + 2 + … + 36. 36 da 8'in üçgenidir — canavar {{% bible val="sekizinci kral" link="rev:17,11" lang="tr" %}}dır.
 - Tanrı'nın halkı bir karedir: 144 = 12 × 12; 144.000'in ve Yeni Yeruşalim'in {{% bible val="144 arşınlık" link="rev:21,17" lang="tr" %}} surunun ardında bu vardır.
 - Çatışma zamanı bir dikdörtgendir: 42 ay (6 × 7) canavarın zamanıdır ({{% bible val="11:2" link="rev:11,2" lang="tr" %}}; {{% bible val="13:5" link="rev:13,5" lang="tr" %}}), 1260 gün (35 × 36) kilisenin zamanıdır ({{% bible val="11:3" link="rev:11,3" lang="tr" %}}; {{% bible val="12:6" link="rev:12,6" lang="tr" %}}) — aynı üç buçuk yıl, iki ayrı biçimde sayılmış.
-- Bu iki dikdörtgenin ardındaki kareler, 36 ve 1225, 1'den sonra hem kare hem üçgen olan tek sayılardır: canavarın üçgeninin Tanrı halkının karesiyle buluştuğu nokta. 1225 de 49 = 7 × 7'nin, özgürlük yılının üçgenidir.
+- Bu iki dikdörtgenin ardındaki kareler, 36 ve 1225, 1'den sonra hem kare hem üçgen olan ilk iki sayıdır: canavarın üçgeninin Tanrı halkının karesiyle buluştuğu nokta. 1225 de 49 = 7 × 7'nin, özgürlük yılının üçgenidir.
 - Bunun bir tasarım olduğunu Yuhanna'nın dışarıda bıraktıkları düşündürür: Daniel {{% bible val="1290 ve 1335 gün" link="dan:12,11-12" lang="tr" %}} der, ama Yuhanna 1260'a ulaşmak için tam 360 günlük bir yıl hesaplar.
 
 ![](/images/numbers-shapes.tr.svg)
@@ -141,3 +141,5 @@ Her adım sayıyı kendisiyle çarptığı için uçurum aynı kalmaz, her adım
 ![](/images/numbers-scale.tr.svg)
 
 **Bu nereye kadar geçerli.** Hesap kesindir. Bauckham'ın kısmı, Yuhanna'nın bunu kastettiğine dair bilimsel bir savdır ve ilk Hristiyanlar bu oyunu gerçekten oynamıştır: *İşaya'nın Göğe Yükselişi* Deccal'a 1332 gün, 666'ya bağlı dikdörtgeni verir (Bauckham, *Climax of Prophecy*, s. 403). İddia ve gerçek örüntüsü metnin kendisine dayanır — taçlar, boynuzlar, bir saat, ateş — ve Beale canavarın taçlarını Mesih'in krallığına dair sahte iddialar olarak okur. İki sayı ailesi Bauckham'a aittir; canavarın son adımını Tanrı'nın ailesi için de atmak ve bundan doğan büyüyen uçurum bu sitenin canlandırmasıdır — gizli bir şifre olarak değil, Vahiy'in sözlerle söylediğinin bir resmi olarak sunulur: Şeytan, Tanrı'dan biraz büyük görünmeye çalışır ve çok daha küçük olduğu gösterilir.
+
+[^collins]: Sayıları bir ağ olarak görme fikri A. Y. Collins'e aittir: "Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature" (1984), Beale'in aktarımıyla, s. 59, 63. Collins yedinin eksiksizlik anlamına geldiğinden şüphe eder; Beale ona cevap verir (s. 63–64).

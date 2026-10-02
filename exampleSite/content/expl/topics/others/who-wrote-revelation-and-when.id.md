@@ -7,7 +7,7 @@ next: /expl/topics/others/judgment-in-the-book-of-revelation
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 sources: 
-    - pages: 27–47
+    - pages: 4–27, 34–36
       ref: beale_rev
 ---
 

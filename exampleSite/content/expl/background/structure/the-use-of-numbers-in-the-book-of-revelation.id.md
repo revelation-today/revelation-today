@@ -2,7 +2,7 @@
 title: "Penggunaan Angka dalam Kitab Wahyu"
 weight: 40
 sources:
-    - pages: 60–64
+    - pages: 58–64
       ref: beale_rev
     - pages: 384–407
       ref: bauckham_climax
@@ -41,9 +41,9 @@ Tiga setengah tahun — disebut sebagai 42 bulan, 1260 hari, atau "satu masa dan
 ## Angka 4
 
 <a name="0f0d"></a>
-Empat juga merupakan angka kelengkapan, tetapi dalam pengertian yang lebih universal atau mendunia. Kitab Wahyu menunjukkan hal ini dalam {{% bible val="keempat penjuru bumi" link="rev:20,8" lang="ind" %}}, dalam {{% bible val="keempat angin" link="rev:7,1" lang="ind" %}}, dan dalam adegan {{% bible val="di mana makhluk-makhluk dari keempat wilayah dunia — surga, bumi, laut, dan bawah laut — menyanyikan sebuah puji-pujian berempat kepada Allah dan Anak Domba" link="rev:5,13" lang="ind" %}}.
+Empat juga merupakan angka kelengkapan, tetapi dalam pengertian yang lebih universal atau mendunia. Kitab Wahyu menunjukkan hal ini dalam {{% bible val="keempat penjuru bumi" link="rev:20,8" lang="ind" %}}, dalam {{% bible val="keempat angin" link="rev:7,1" lang="ind" %}}, dan dalam adegan {{% bible val="di mana makhluk-makhluk dari keempat wilayah dunia — surga, bumi, bawah bumi, dan laut — menyanyikan sebuah puji-pujian berempat kepada Allah dan Anak Domba" link="rev:5,13" lang="ind" %}}.
 
-Bumi juga berulang kali dibagi menjadi empat bagian di tempat lain: {{% bible val="pada sangkakala pertama" link="rev:8,7" lang="ind" %}}, {{% bible val="oleh ketiga malaikat" link="rev:14,7" lang="ind" %}}, dan dalam {{% bible val="keempat cawan yang dicurahkan atas daratan, laut, sungai-sungai, dan matahari" link="rev:16,2-9" lang="ind" %}}. Keempat bagian yang sama ini menjadi sasaran keempat sangkakala dan cawan murka pertama, menegaskan penghakiman Allah atas seluruh ciptaan.
+Bumi juga berulang kali dibagi menjadi empat bagian di tempat lain: {{% bible val="pada keempat sangkakala pertama" link="rev:8,7-12" lang="ind" %}}, {{% bible val="oleh ketiga malaikat" link="rev:14,7" lang="ind" %}}, dan dalam {{% bible val="keempat cawan yang dicurahkan atas daratan, laut, sungai-sungai, dan matahari" link="rev:16,2-9" lang="ind" %}}. Bahwa sangkakala dan cawan sama-sama menimpa keempat bagian itu menegaskan penghakiman Allah atas seluruh ciptaan.
 
 Pola 4+3 yang berulang dalam penghakiman-penghakiman ini kemungkinan besar tumbuh dari logika yang sama, dan pembagian kitab ini menjadi empat bagian memperkuat jangkauan universalnya.
 
@@ -67,7 +67,7 @@ Jika {{% bible val="ketujuh guruh" link="rev:10,3-7" lang="ind" %}} dihitung seb
 - Allah Yang Mahakuasa dalam bentuk nominatif, 7 kali.
 - Dia yang duduk di atas takhta, 7 kali.
 - Kristus 7 kali dan Yesus 14 kali.
-- Anak Domba dalam pengertian Yesus dinyatakan 4 kali 7 kali.
+- Anak Domba, yaitu Yesus, 28 kali (4 × 7).
 - Anak Domba dan Allah bersama-sama disebutkan 7 kali.
 - Ketujuh Roh disebutkan 4 kali untuk menunjukkan kepenuhan kedaulatan ilahi yang diutus ke seluruh dunia (5/6), kemungkinan melalui/bersama kesaksian gereja.
 
@@ -96,7 +96,7 @@ Beberapa kata muncul lebih sering menjelang akhir kitab ini, menandai intensifik
 
 Meskipun kita mengakui bahwa sebagian dari angka-angka atau hitungan nama ini mungkin kebetulan, pola frekuensi secara keseluruhan menunjukkan bahwa angka-angka itu pun merupakan cara yang disengaja untuk menyampaikan sebuah pernyataan.
 
-A. Y. Collins berpendapat bahwa angka-angka 4, 7, dan 12 mencerminkan sebuah tatanan kosmis dalam sastra apokaliptik pada umumnya, dan dalam Kitab Wahyu secara khusus. Yohanes menggunakan tatanan itu untuk menunjukkan bahwa Allah berdiri di balik segala sesuatu dan tetap memegang kendali — angka-angka itu membentuk jaring yang menjerat Iblis dan para pengikutnya, menjadikan kemenangan akhir Allah baik pasti maupun tampak nyata.
+Angka-angka 4, 7, dan 12 mencerminkan sebuah tatanan kosmis dalam sastra apokaliptik pada umumnya, dan dalam Kitab Wahyu secara khusus. Yohanes menggunakan tatanan itu untuk menunjukkan bahwa Allah berdiri di balik segala sesuatu dan tetap memegang kendali — angka-angka itu membentuk jaring yang menjerat Iblis dan para pengikutnya, menjadikan kemenangan akhir Allah baik pasti maupun tampak nyata.[^collins]
 
 ## Pertimbangan Aritmetika
 
@@ -110,7 +110,7 @@ Bilangan-bilangan dalam Kitab Wahyu masih memiliki satu lapisan lagi: bentuk-ben
 - Bilangan binatang itu adalah segitiga: 666 = 1 + 2 + … + 36. Dan 36 sendiri adalah segitiga dari 8 — binatang itu adalah {{% bible val="raja yang kedelapan" link="rev:17,11" lang="ind" %}}.
 - Umat Allah adalah persegi: 144 = 12 × 12, di balik yang 144.000 dan tembok Yerusalem Baru, {{% bible val="144 hasta" link="rev:21,17" lang="ind" %}}.
 - Masa pertentangan adalah persegi panjang: 42 bulan (6 × 7) adalah masa binatang itu ({{% bible val="11:2" link="rev:11,2" lang="ind" %}}; {{% bible val="13:5" link="rev:13,5" lang="ind" %}}), 1260 hari (35 × 36) adalah masa gereja ({{% bible val="11:3" link="rev:11,3" lang="ind" %}}; {{% bible val="12:6" link="rev:12,6" lang="ind" %}}) — tiga setengah tahun yang sama, dihitung dengan dua cara.
-- Persegi di balik kedua persegi panjang itu, 36 dan 1225, adalah satu-satunya bilangan setelah 1 yang sekaligus persegi dan segitiga: titik tempat segitiga binatang itu bertemu persegi umat Allah. Dan 1225 adalah segitiga dari 49 = 7 × 7, tahun Yobel.
+- Persegi di balik kedua persegi panjang itu, 36 dan 1225, adalah dua bilangan pertama setelah 1 yang sekaligus persegi dan segitiga: titik tempat segitiga binatang itu bertemu persegi umat Allah. Dan 1225 adalah segitiga dari 49 = 7 × 7, tahun Yobel.
 - Bahwa ini disengaja, terlihat dari apa yang ditinggalkan Yohanes: Daniel menyebut {{% bible val="1290 dan 1335 hari" link="dan:12,11-12" lang="ind" %}}, tetapi Yohanes menghitung satu tahun tepat 360 hari untuk sampai pada 1260.
 
 ![](/images/numbers-shapes.id.svg)
@@ -141,3 +141,5 @@ Karena setiap langkah mengalikan bilangan itu dengan dirinya sendiri, jurang itu
 ![](/images/numbers-scale.id.svg)
 
 **Sejauh mana ini berlaku.** Hitungannya tepat. Bagian Bauckham adalah argumen ilmiah bahwa Yohanes memaksudkannya, dan orang Kristen mula-mula memang memainkan permainan ini: *Kenaikan Yesaya* memberi Antikristus 1332 hari, persegi panjang yang terkait dengan 666 (Bauckham, *Climax of Prophecy*, hlm. 403). Pola klaim dan kenyataan bertumpu pada teks itu sendiri — mahkota, tanduk, satu jam, api — dan Beale membaca mahkota binatang itu sebagai klaim palsu atas kerajaan Kristus. Kedua keluarga bilangan itu berasal dari Bauckham; mengambil langkah terakhir binatang itu juga bagi keluarga Allah, dan jurang yang makin lebar sebagai hasilnya, adalah ilustrasi situs ini — tidak disajikan sebagai kode tersembunyi, melainkan sebagai gambaran dari apa yang dikatakan Kitab Wahyu dengan kata-kata: Iblis berusaha tampak sedikit lebih besar daripada Allah, dan diperlihatkan jauh lebih kecil.
+
+[^collins]: Gambaran angka sebagai jaring berasal dari A. Y. Collins, "Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature" (1984), menurut Beale, hlm. 59, 63. Collins meragukan bahwa angka tujuh berarti kelengkapan; Beale menjawabnya (hlm. 63–64).

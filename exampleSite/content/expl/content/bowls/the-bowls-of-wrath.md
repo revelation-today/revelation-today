@@ -12,7 +12,7 @@ deeper:
     - name: Armageddon
       link:  /expl/content/bowls/the-key-to-armageddon
 sources: 
-    - pages: 681–730
+    - pages: 785–847
       ref: beale_rev
 readBefore:
     - name: "The second Exodus"

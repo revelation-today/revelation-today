@@ -2,7 +2,7 @@
 title: "The use of numbers in the Book of Revelation"
 weight: 40
 sources:
-    - pages: 60–64
+    - pages: 58–64
       ref: beale_rev
     - pages: 384–407
       ref: bauckham_climax
@@ -41,9 +41,9 @@ Three and a half years — told as 42 months, 1260 days, or "a time, times and h
 ## The number 4
 
 <a name="3175"></a>
-Four is also a number of completeness, but in a more universal or worldwide sense. Revelation shows this in the {{% bible val="four ends of the earth" link="rev:20,8" lang="en" %}}, in {{% bible val="the four winds" link="rev:7,1" lang="en" %}}, and in the scene {{% bible val="where creatures from the four realms of the world — heaven, earth, sea, and under the sea — sing a fourfold hymn of praise to God and the Lamb" link="rev:5,13" lang="en" %}}.
+Four is also a number of completeness, but in a more universal or worldwide sense. Revelation shows this in the {{% bible val="four ends of the earth" link="rev:20,8" lang="en" %}}, in {{% bible val="the four winds" link="rev:7,1" lang="en" %}}, and in the scene {{% bible val="where creatures from the four realms of the world — heaven, earth, under the earth, and sea — sing a fourfold hymn of praise to God and the Lamb" link="rev:5,13" lang="en" %}}.
 
-The earth is repeatedly divided into four parts elsewhere too: {{% bible val="during the first trumpet" link="rev:8,7" lang="en" %}}, {{% bible val="by the three angels" link="rev:14,7" lang="en" %}}, and in the {{% bible val="four bowls poured on the land, sea, rivers, and sun" link="rev:16,2-9" lang="en" %}}. These same four parts become the targets of the first four trumpets and bowls of wrath, underscoring God's judgment over the whole of creation.
+The earth is repeatedly divided into four parts elsewhere too: {{% bible val="in the first four trumpets" link="rev:8,7-12" lang="en" %}}, {{% bible val="by the three angels" link="rev:14,7" lang="en" %}}, and in the {{% bible val="four bowls poured on the land, sea, rivers, and sun" link="rev:16,2-9" lang="en" %}}. Striking all four parts, trumpets and bowls alike, underscores God's judgment over the whole of creation.
 
 The judgments' recurring 4+3 pattern likely grows out of this same logic, and the book's fourfold division reinforces its universal reach.
 
@@ -67,7 +67,7 @@ The {{% bible val="list of the merchants' goods at Babel" link="rev:18,11-13" la
 - God Almighty in the nominative 7 times
 - He who sits on the throne 7 times.
 - Christ 7 times and Jesus 14 times
-- The Lamb in the sense of Jesus is expressed 4 times 7 times.
+- The Lamb, meaning Jesus, 28 times (4 × 7).
 - The Lamb and God together are mentioned 7 times.
 - The seven spirits are mentioned 4 times to show the fullness of divine sovereignty sent into all the world (5/6), presumably through/with the witness of the church.
 
@@ -96,7 +96,7 @@ Some words recur more frequently toward the end of the book, marking an intensif
 
 Even granting that some of these numbers or name-counts may be coincidental, the overall frequency pattern shows that numbers, too, were a deliberate way of making a statement.
 
-A. Y. Collins argues that the numbers 4, 7, and 12 reflect a cosmic order within apocalyptic literature generally, and in Revelation especially. John uses that order to show that God stands behind everything and remains in control — the numbers form the very net in which Satan and his followers are caught, making God's final victory both certain and visible.
+The numbers 4, 7, and 12 reflect a cosmic order, in apocalyptic literature generally and in Revelation especially. John uses that order to show that God stands behind everything and remains in control — the numbers form the very net in which Satan and his followers are caught, making God's final victory both certain and visible.[^collins]
 
 ## Arithmetic
 
@@ -110,7 +110,7 @@ There is one more layer to Revelation's numbers: the shapes they make.
 - The beast's number is a triangle: 666 = 1 + 2 + … + 36. And 36 is itself the triangle of 8 — the beast is {{% bible val="an eighth king" link="rev:17,11" lang="en" %}}.
 - God's people are a square: 144 = 12 × 12, behind the 144,000 and the wall of the New Jerusalem, {{% bible val="144 cubits" link="rev:21,17" lang="en" %}}.
 - The time of conflict is a rectangle: 42 months (6 × 7) is the beast's time ({{% bible val="11:2" link="rev:11,2" lang="en" %}}; {{% bible val="13:5" link="rev:13,5" lang="en" %}}), 1260 days (35 × 36) the church's time ({{% bible val="11:3" link="rev:11,3" lang="en" %}}; {{% bible val="12:6" link="rev:12,6" lang="en" %}}) — the same three and a half years, counted two ways.
-- The squares behind those two rectangles, 36 and 1225, are the only numbers after 1 that are both square and triangle: the point where the beast's triangle meets the square of God's people. And 1225 is the triangle of 49 = 7 × 7, the jubilee.
+- The squares behind those two rectangles, 36 and 1225, are the first two numbers after 1 that are both square and triangle: the point where the beast's triangle meets the square of God's people. And 1225 is the triangle of 49 = 7 × 7, the jubilee.
 - That this is design is suggested by what John left out: Daniel gives {{% bible val="1290 and 1335 days" link="dan:12,11-12" lang="en" %}}, yet John reckons a year of exactly 360 days to arrive at 1260.
 
 ![](/images/numbers-shapes.en.svg)
@@ -141,3 +141,5 @@ Because every step multiplies the number by itself, the gap does not stay the sa
 ![](/images/numbers-scale.en.svg)
 
 **How far this holds.** The arithmetic is exact. Bauckham's part is a scholarly argument that John meant it, and early Christians did play this game: the *Ascension of Isaiah* gives the Antichrist 1332 days, the rectangle tied to 666 (Bauckham, *Climax of Prophecy*, p. 403). The pattern of claim and truth rests on the text itself — the crowns, the horns, the one hour, the fire — and Beale reads the beast's crowns as false claims to Christ's kingship. The two number families are Bauckham's; taking the beast's last step for God's family too, and the growing gap that results, are this site's illustration — offered not as a hidden code but as a picture of what Revelation says in words: Satan tries to look slightly bigger than God, and is shown to be significantly smaller.
+
+[^collins]: The picture of the numbers as a net comes from A. Y. Collins, "Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature" (1984), as reported by Beale, pp. 59, 63. Collins doubts that seven means completeness; Beale answers her (pp. 63–64).
