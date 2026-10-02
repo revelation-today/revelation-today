@@ -90,7 +90,7 @@ Throughout Revelation, the relationship to ethnic Israel as such is never really
 
 At the same time, the church is portrayed as part of Israel, not separate from it. Clear statements throughout the book describe a unity between Jews and Christians — the 24 elders in chapter 4, for instance, represent the 12 tribes and the 12 apostles together, and both the 12 tribes and the 12 apostles have their names engraved in the New Jerusalem.
 
-Heaven itself, notably, is never described as some neutral place — it's described as the New Jerusalem. It would be no surprise at all if Jesus were to appear in the physical city of Jerusalem at his second coming.
+The hope Revelation holds out, notably, is not some neutral, placeless heaven but a city: the New Jerusalem, coming down out of heaven to a renewed earth and bearing the names of Israel's tribes. The church's future is rooted in Israel's story, not detached from it.
 
 So why does Revelation take such a pointed, even controversial stance on the Jews? Because the church is part of Israel and cannot cut off its own roots, even when some Jews are openly attacking it.
 

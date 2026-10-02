@@ -80,10 +80,10 @@ sah, dibunuh. Menariknya, teks itu menghindari menyebut nama Yerusalem secara la
 **Namun Wahyu tidak pernah membalikkan argumennya melawan Israel secara etnis.** Kedua puluh empat
 tua-tua di pasal 4 mewakili dua belas suku dan dua belas rasul bersama-sama — satu gambar yang
 menyatu, bukan dua simbol yang bersaing. Baik nama-nama kedua belas suku maupun nama-nama kedua
-belas rasul terukir berdampingan dalam struktur Yerusalem Baru. Surga sendiri, perlu dicatat, tidak
-pernah digambarkan sebagai sebuah alam netral tanpa tempat — surga digambarkan sebagai Yerusalem
-Baru, yang menjadi salah satu alasan mengapa tidak akan mengherankan sama sekali jika Yesus muncul
-di kota Yerusalem yang sungguh nyata dan fisik pada kedatangan-Nya kembali.
+belas rasul terukir berdampingan dalam struktur Yerusalem Baru. Dan pengharapan yang ditawarkan Kitab Wahyu bukanlah
+surga yang netral tanpa tempat, melainkan sebuah kota: Yerusalem Baru, yang turun dari surga ke bumi
+yang diperbarui dan memuat nama-nama suku Israel. Masa depan gereja berakar dalam kisah Israel,
+bukan terlepas darinya.
 
 **Mengapa bahasanya begitu tajam, kalau begitu: ini adalah perselisihan keluarga, bukan penolakan
 etnis.** Gereja bisa berbicara setajam ini tentang lawan-lawan Yahudi justru *karena* gereja adalah

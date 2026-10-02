@@ -93,7 +93,7 @@ Di sepanjang Kitab Wahyu, hubungan dengan Israel etnis sebagai demikian tidak pe
 
 Pada saat yang sama, gereja digambarkan sebagai bagian dari Israel, bukan terpisah darinya. Pernyataan-pernyataan yang jelas di sepanjang kitab ini menggambarkan kesatuan antara orang Yahudi dan orang Kristen — misalnya, 24 tua-tua di pasal 4 mewakili 12 suku dan 12 rasul bersama-sama, dan baik 12 suku maupun 12 rasul memiliki nama mereka terukir di Yerusalem Baru.
 
-Sorga sendiri, secara mencolok, tidak pernah digambarkan sebagai tempat yang netral — sorga digambarkan sebagai Yerusalem Baru. Sama sekali tidak akan mengherankan jika Yesus muncul di kota Yerusalem yang fisik pada kedatangan-Nya yang kedua.
+Yang patut diperhatikan, pengharapan yang ditawarkan Kitab Wahyu bukanlah sorga yang netral tanpa tempat, melainkan sebuah kota: Yerusalem Baru, yang turun dari sorga ke bumi yang diperbarui dan memuat nama-nama suku Israel. Masa depan gereja berakar dalam kisah Israel, bukan terlepas darinya.
 
 Jadi mengapa Kitab Wahyu mengambil sikap yang begitu tegas, bahkan kontroversial, tentang orang Yahudi? Karena gereja adalah bagian dari Israel dan tidak dapat memutuskan akarnya sendiri, sekalipun beberapa orang Yahudi secara terbuka menyerangnya.
 

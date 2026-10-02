@@ -77,11 +77,11 @@ sein rechtmäßiger Herr, getötet. Bezeichnenderweise vermeidet der Text, Jerus
 **Doch die Offenbarung wendet ihr Argument nie gegen das ethnische Israel als solches.** Die 24
 Ältesten in Kapitel 4 repräsentieren die 12 Stämme und 12 Apostel zusammen — ein einziges,
 vereintes Bild, keine zwei konkurrierenden Symbole. Sowohl die Namen der 12 Stämme als auch die
-Namen der 12 Apostel sind Seite an Seite in die Struktur des Neuen Jerusalem eingraviert. Der
-Himmel selbst wird bemerkenswerterweise nie als irgendein neutrales, ortloses Reich dargestellt —
-er wird als das Neue Jerusalem dargestellt, was mit ein Grund ist, warum es keine Überraschung
-wäre, wenn Jesus bei seiner Wiederkunft in der tatsächlichen, physischen Stadt Jerusalem
-erscheinen würde.
+Namen der 12 Apostel sind Seite an Seite in die Struktur des Neuen Jerusalem eingraviert. Und die
+Hoffnung, die die Offenbarung vor Augen stellt, ist kein neutraler, ortloser Himmel, sondern eine
+Stadt: das Neue Jerusalem, das aus dem Himmel auf eine erneuerte Erde herabkommt und die Namen der
+Stämme Israels trägt. Die Zukunft der Gemeinde ist in der Geschichte Israels verwurzelt, nicht von
+ihr losgelöst.
 
 **Warum die Sprache so scharf ist: Es ist ein Familienstreit, keine ethnische Ablehnung.** Die
 Gemeinde kann so pointiert über jüdische Gegner sprechen, gerade *weil* sie Teil Israels ist und

@@ -90,7 +90,7 @@ Vahiy boyunca, etnik İsrail'le olan ilişkinin kendisi gerçekte hiç ele alın
 
 Aynı zamanda kilise, İsrail'den ayrı değil, İsrail'in bir parçası olarak tasvir edilir. Kitap boyunca Yahudiler ve Hıristiyanlar arasındaki birliği tanımlayan açık ifadeler vardır — örneğin 4. bölümdeki 24 ihtiyar, 12 kabileyi ve 12 havariyi birlikte temsil eder ve hem 12 kabilenin hem de 12 havarinin isimleri Yeni Yeruşalim'e kazınmıştır.
 
-Dikkat çekicidir ki cennetin kendisi hiçbir zaman tarafsız bir yer olarak tanımlanmaz — Yeni Yeruşalim olarak tanımlanır. İsa'nın ikinci gelişinde fiziksel Yeruşalim şehrinde ortaya çıkması hiç de şaşırtıcı olmazdı.
+Dikkat çekicidir ki Vahiy'in sunduğu umut tarafsız, mekânsız bir cennet değil, bir şehirdir: gökten yenilenmiş bir yeryüzüne inen ve İsrail oymaklarının adlarını taşıyan Yeni Yeruşalim. Kilisenin geleceği İsrail'in hikâyesinden kopuk değil, onda köklenmiştir.
 
 Peki Vahiy neden Yahudiler konusunda bu kadar keskin, hatta tartışmalı bir tutum sergiler? Çünkü kilise İsrail'in bir parçasıdır ve bazı Yahudiler ona açıkça saldırsa bile kendi köklerini kesip atamaz.
 

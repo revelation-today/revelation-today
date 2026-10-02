@@ -74,9 +74,9 @@ bir şekilde, metin Yeruşalim'i doğrudan adlandırmaktan kaçınır.
 **Yine de Vahiy argümanını asla etnik İsrail'e karşı çevirmez.** 4. bölümdeki 24 ihtiyar, 12
 kabile ve 12 elçiyi birlikte temsil eder — iki rakip sembol değil, tek, birleşik bir imge. Hem
 12 kabilenin isimleri hem de 12 elçinin isimleri Yeni Yeruşalim'in yapısına yan yana kazınmıştır.
-Gökyüzünün kendisi, dikkat çekici bir şekilde, hiçbir zaman tarafsız, mekansız bir alan olarak
-resmedilmez — Yeni Yeruşalim olarak resmedilir, ki bu da İsa'nın Gelişi'nde gerçek, fiziksel
-Yeruşalim şehrinde görünmesinin hiç şaşırtıcı olmayacağının nedeninin bir parçasıdır.
+Vahiy'in sunduğu umut da tarafsız, mekânsız bir cennet değil, bir şehirdir: gökten
+yenilenmiş bir yeryüzüne inen ve İsrail oymaklarının adlarını taşıyan Yeni Yeruşalim. Kilisenin
+geleceği İsrail'in hikâyesinden kopuk değil, onda köklenmiştir.
 
 **Dilin neden bu kadar keskin olduğu: bir etnik reddediş değil, bir aile anlaşmazlığı.** Kilise,
 Yahudi muhalifler hakkında bu kadar keskin konuşabilir, tam olarak İsrail'in bir parçası olduğu

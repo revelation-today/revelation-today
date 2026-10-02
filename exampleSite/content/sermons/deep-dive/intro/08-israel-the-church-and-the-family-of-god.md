@@ -74,9 +74,9 @@ killed. Tellingly, the text avoids naming Jerusalem directly.
 **Yet Revelation never turns its argument against ethnic Israel as such.** The 24 elders in
 chapter 4 represent the 12 tribes and 12 apostles together — a single unified image, not two
 competing symbols. Both the 12 tribes' names and the 12 apostles' names are engraved side by
-side in the New Jerusalem's structure. Heaven itself, notably, is never pictured as some neutral,
-placeless realm — it's pictured as the New Jerusalem, which is part of why it would be no
-surprise at all if Jesus were to appear in the actual, physical city of Jerusalem at His return.
+side in the New Jerusalem's structure. And the hope Revelation holds out is not a neutral, placeless heaven but a city: the New
+Jerusalem, coming down out of heaven to a renewed earth and bearing the names of Israel's tribes.
+The church's future is rooted in Israel's story, not detached from it.
 
 **Why the language is so sharp, then: it's a family dispute, not an ethnic rejection.** The
 church can speak this pointedly about Jewish opponents precisely *because* it is part of Israel

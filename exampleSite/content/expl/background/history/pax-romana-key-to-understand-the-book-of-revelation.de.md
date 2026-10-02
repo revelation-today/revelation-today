@@ -91,7 +91,7 @@ In der ganzen Offenbarung wird die Beziehung zum ethnischen Israel als solchem e
 
 Zugleich wird die Gemeinde als Teil Israels dargestellt, nicht als davon getrennt. Klare Aussagen im ganzen Buch beschreiben eine Einheit von Juden und Christen — die 24 Ältesten in Kapitel 4 etwa stehen gemeinsam für die 12 Stämme und die 12 Apostel, und sowohl die Namen der 12 Stämme als auch die der 12 Apostel sind in das Neue Jerusalem eingraviert.
 
-Bemerkenswerterweise wird der Himmel selbst nie als irgendein neutraler Ort beschrieben — er wird als das Neue Jerusalem beschrieben. Es wäre überhaupt keine Überraschung, wenn Jesus bei seinem zweiten Kommen im physischen Jerusalem erscheinen würde.
+Bemerkenswerterweise ist die Hoffnung, die die Offenbarung vor Augen stellt, kein neutraler, ortloser Himmel, sondern eine Stadt: das Neue Jerusalem, das aus dem Himmel auf eine erneuerte Erde herabkommt und die Namen der Stämme Israels trägt. Die Zukunft der Gemeinde ist in der Geschichte Israels verwurzelt, nicht von ihr losgelöst.
 
 Warum also nimmt die Offenbarung eine derart pointierte, ja umstrittene Haltung gegenüber den Juden ein? Weil die Gemeinde Teil Israels ist und ihre eigenen Wurzeln nicht kappen kann, selbst wenn manche Juden sie offen angreifen.
 
