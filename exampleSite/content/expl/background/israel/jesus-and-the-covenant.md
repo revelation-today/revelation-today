@@ -53,23 +53,25 @@ The beatitudes carry the same confrontational edge. They challenge Israel to bec
 ## A new thinking
 
 <a name="a5cc"></a>
-When Jesus came, people did not recognize His coming. They expected something else. After the Day of the Lord, he will
+When Jesus came, people did not recognize what was happening, because they were expecting something else. They expected that on the Day of the Lord God would
 
-- come to destroy the enemies of Israel and
-- to restore the remnant of Israel so that
-- be rulers over the unbelieving nations.
+- destroy Israel's enemies,
+- restore the remnant of Israel,
+- and make it rule over the unbelieving nations.
 
-There were some misconceptions
+Each of these hopes rested on a misunderstanding:
 
-- Israel thought that the enemies were the oppressing nations.
-- That the remnant were the religious people like the Pharisees.
-- To rule means to rule over others as the other nations did.
+- The enemies were thought to be the nations oppressing Israel.
+- The remnant was thought to be the religious, such as the Pharisees.
+- Ruling was thought to mean ruling over others, the way the nations did.
 
-First, Jesus presented a very different concept of rulership.
+Jesus corrected all three.
+
+First, he gave rule a new meaning: {{% bible val="whoever wants to become great among you must be your servant" link="mrk:10,42-45" lang="en" %}} — the Son of Man came not to be served but to serve and to give his life.
 
 Second, Jesus was very clear that the enemies were not the Romans who were oppressing Israel at that time, but {{% bible val="the enemies were the demons" link="mrk:3,22-27" lang="en" %}} that He drove out on many occasions. {{% bible val="Driving them out is a sign that the Day of the Lord has come" link="mat:12,28" lang="en" %}}. This was especially {{% bible val="true at His death" link="jhn:12,31-33" lang="en" %}}. Revelation 12 shows the same war from heaven's side: the real enemy is the dragon, and he is defeated {{% bible val="by the blood of the Lamb" link="rev:12,7-11" lang="en" %}} ({{% int_link val="A different Christmas story" link="/expl/content/jesus/a-different-christmas-story" %}}).
 
-Finally, the remnant are not the religious people, but those who keep the covenant of God, which {{% int_link val="is only Jesus Himself" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. All others do not belong to the remnant and would be subject of the judgment, which is also Israel.
+Finally, the remnant is not made up of the religious but of those who keep God's covenant — and only one has kept it fully: {{% int_link val="Jesus himself" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. Whoever belongs to him belongs to the remnant; whoever does not falls under the judgment, Israel included.
 
 ## Already but not yet {#already}
 

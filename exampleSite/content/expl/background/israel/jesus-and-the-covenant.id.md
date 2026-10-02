@@ -53,25 +53,27 @@ Ucapan Bahagia membawa muatan konfrontatif yang sama. Semuanya menantang Israel 
 ## Sebuah Cara Berpikir yang Baru
 
 <a name="3cee"></a>
-Ketika Yesus datang, orang-orang tidak mengenali kedatangan-Nya. Mereka mengharapkan sesuatu yang lain. Setelah Hari Tuhan, Ia akan
+Ketika Yesus datang, orang-orang tidak mengenali apa yang sedang terjadi, karena mereka mengharapkan sesuatu yang lain. Mereka berharap bahwa pada Hari Tuhan Allah akan
 
-- datang untuk membinasakan musuh-musuh Israel dan
-- memulihkan sisa Israel, supaya mereka
-- menjadi penguasa atas bangsa-bangsa yang tidak percaya.
+- membinasakan musuh-musuh Israel,
+- memulihkan sisa Israel,
+- dan membuatnya memerintah atas bangsa-bangsa yang tidak percaya.
 
-Ada beberapa kesalahpahaman:
+Setiap harapan itu bertumpu pada sebuah kesalahpahaman:
 
-- Israel mengira musuh-musuh itu adalah bangsa-bangsa penindas.
-- Bahwa sisa itu adalah orang-orang religius seperti orang Farisi.
-- Memerintah berarti berkuasa atas orang lain sebagaimana yang dilakukan bangsa-bangsa lain.
+- Musuh-musuh itu dianggap sebagai bangsa-bangsa yang menindas Israel.
+- Sisa itu dianggap sebagai orang-orang saleh, seperti orang Farisi.
+- Memerintah dianggap berarti berkuasa atas orang lain, sebagaimana dilakukan bangsa-bangsa.
 
-Pertama, Yesus menghadirkan konsep kekuasaan yang sangat berbeda.
+Yesus meluruskan ketiganya.
+
+Pertama, Ia memberi arti baru kepada pemerintahan: {{% bible val="barangsiapa ingin menjadi besar di antara kamu, hendaklah ia menjadi pelayanmu" link="mrk:10,42-45" lang="ind" %}} — Anak Manusia datang bukan untuk dilayani, melainkan untuk melayani dan memberikan nyawa-Nya.
 
 Kedua, Yesus sangat jelas menyatakan bahwa musuh-musuh itu bukanlah orang Romawi yang sedang menindas Israel pada waktu itu, melainkan {{% bible val="musuh-musuh itu adalah setan-setan" link="mrk:3,22-27" lang="ind" %}} yang Ia usir dalam banyak kesempatan. {{% bible val="Mengusir mereka adalah tanda bahwa Hari Tuhan telah tiba" link="mat:12,28" lang="ind" %}}. Hal ini {{% bible val="terbukti secara khusus pada saat kematian-Nya" link="jhn:12,31-33" lang="ind" %}}. Wahyu 12 menunjukkan peperangan yang sama dari sisi surga: musuh yang sebenarnya adalah naga itu, dan ia dikalahkan {{% bible val="oleh darah Anak Domba" link="rev:12,7-11" lang="ind" %}} ({{% int_link val="Kelahiran Yesus dalam Kitab Wahyu" link="/expl/content/jesus/a-different-christmas-story" %}}).
 
-Terakhir, sisa itu bukanlah orang-orang religius, melainkan mereka yang memegang teguh perjanjian Allah, yang {{% int_link val="tidak lain adalah Yesus sendiri" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. Semua yang lain tidak termasuk dalam sisa itu dan akan menjadi sasaran penghakiman, yang juga adalah Israel.
+Terakhir, sisa itu tidak terdiri dari orang-orang saleh, melainkan dari mereka yang memegang perjanjian Allah — dan hanya satu yang memegangnya sepenuhnya: {{% int_link val="Yesus sendiri" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. Siapa yang menjadi milik-Nya termasuk dalam sisa itu; siapa yang tidak, jatuh di bawah penghakiman, termasuk Israel.
 
-## Sudah dan Belum
+## Sudah dan Belum {#already}
 
 <a name="5788"></a>
 {{% bible val="Ia berkata bahwa Hari Tuhan telah tiba (Kerajaan Allah)" link="mrk:1,1-15" lang="ind" %}}. Injil Markus dibuka dengan penglihatan yang memperkenalkan bagian kedua Kitab Yesaya, yang menggambarkan pemulihan Israel. {{% bible val="Dalam khotbah-Nya" link="luk:4,16-21" lang="ind" %}} Ia mengutip penggenapan nubuat {{% bible val="pasal 61" link="luk:4,16-21" lang="ind" %}}: "Roh Tuhan ada pada-Ku, oleh sebab Ia telah mengurapi Aku, untuk menyampaikan kabar baik kepada orang-orang miskin; dan Ia telah mengutus Aku untuk memberitakan pembebasan kepada orang-orang tawanan, dan penglihatan bagi orang-orang buta, untuk membebaskan orang-orang yang tertindas, untuk memberitakan tahun rahmat Tuhan telah datang."

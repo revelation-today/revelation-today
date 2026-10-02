@@ -53,25 +53,27 @@ Die Seligpreisungen tragen dieselbe konfrontative Schärfe. Sie fordern Israel h
 ## Ein neues Denken
 
 <a name="3cee"></a>
-Als Jesus kam, erkannten die Menschen sein Kommen nicht. Sie erwarteten etwas anderes. Nach dem Tag des Herrn wird er
+Als Jesus kam, erkannten die Menschen nicht, was geschah, denn sie erwarteten etwas anderes. Sie erwarteten, dass Gott am Tag des Herrn
 
-- kommen, um die Feinde Israels zu vernichten, und
-- den Überrest Israels wiederherstellen, damit sie
-- über die ungläubigen Nationen herrschen.
+- die Feinde Israels vernichten,
+- den Überrest Israels wiederherstellen
+- und ihn über die ungläubigen Nationen herrschen lassen würde.
 
-Es gab dabei einige Missverständnisse:
+Jede dieser Hoffnungen beruhte auf einem Missverständnis:
 
-- Israel dachte, die Feinde seien die unterdrückenden Nationen.
-- Der Überrest seien die religiösen Menschen wie die Pharisäer.
-- Herrschen bedeute, über andere zu herrschen, wie es die anderen Nationen taten.
+- Als Feinde galten die Nationen, die Israel unterdrückten.
+- Als Überrest galten die Frommen, etwa die Pharisäer.
+- Herrschen hieß, über andere zu herrschen, so wie es die Nationen taten.
 
-Erstens stellte Jesus ein ganz anderes Verständnis von Herrschaft vor.
+Jesus berichtigte alle drei.
+
+Erstens gab er dem Herrschen eine neue Bedeutung: {{% bible val="wer unter euch groß werden will, der soll euer Diener sein" link="mrk:10,42-45" lang="de" %}} — der Menschensohn ist nicht gekommen, um sich dienen zu lassen, sondern um zu dienen und sein Leben zu geben.
 
 Zweitens machte Jesus sehr deutlich, dass die Feinde nicht die Römer waren, die Israel zu jener Zeit unterdrückten, sondern {{% bible val="die Feinde waren die Dämonen" link="mrk:3,22-27" lang="de" %}}, die er bei vielen Gelegenheiten austrieb. {{% bible val="Sie auszutreiben, ist ein Zeichen dafür, dass der Tag des Herrn gekommen ist" link="mat:12,28" lang="de" %}}. Das galt besonders {{% bible val="bei seinem Tod" link="jhn:12,31-33" lang="de" %}}. Offenbarung 12 zeigt denselben Krieg von der Seite des Himmels: Der eigentliche Feind ist der Drache, und er wird besiegt {{% bible val="durch das Blut des Lammes" link="rev:12,7-11" lang="de" %}} ({{% int_link val="Die Geburt Jesu in der Offenbarung" link="/expl/content/jesus/a-different-christmas-story" %}}).
 
-Schließlich ist der Überrest nicht die religiösen Menschen, sondern diejenigen, die den Bund Gottes halten, und das {{% int_link val="ist nur Jesus selbst" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. Alle anderen gehören nicht zum Überrest und wären Gegenstand des Gerichts, was auch Israel einschließt.
+Schließlich besteht der Überrest nicht aus den Frommen, sondern aus denen, die Gottes Bund halten — und nur einer hat ihn ganz gehalten: {{% int_link val="Jesus selbst" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. Wer zu ihm gehört, gehört zum Überrest; wer nicht zu ihm gehört, fällt unter das Gericht, auch Israel.
 
-## Bereits und noch nicht
+## Bereits und noch nicht {#already}
 
 <a name="5788"></a>
 {{% bible val="Er sagt, dass der Tag des Herrn (das Reich Gottes) gekommen ist" link="mrk:1,1-15" lang="de" %}}. Das Markusevangelium beginnt mit der Vision, die den zweiten Teil Jesajas einleitet, der die Wiederherstellung Israels beschreibt. {{% bible val="In seiner Predigt" link="luk:4,16-21" lang="de" %}} zitiert er die Erfüllung der Prophetie {{% bible val="aus Kapitel 61" link="luk:4,16-21" lang="de" %}}: „Der Geist des Herrn ist auf mir, weil er mich gesalbt hat, den Armen gute Botschaft zu verkünden. Er hat mich gesandt, den Gefangenen Freiheit zu verkünden und den Blinden das Augenlicht, die Unterdrückten in Freiheit zu setzen und das Gnadenjahr des Herrn auszurufen.“

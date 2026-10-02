@@ -53,23 +53,25 @@ Ne mutluluklar da aynı yüzleştirici keskinliği taşır. Bunlar İsrail'i ger
 ## Yeni bir düşünce
 
 <a name="177b"></a>
-İsa geldiğinde insanlar O'nun gelişini tanımadılar. Başka bir şey bekliyorlardı. Onlara göre Rab'bin Günü'nden sonra O
+İsa geldiğinde insanlar ne olduğunu tanımadılar, çünkü başka bir şey bekliyorlardı. Rab'bin Günü'nde Tanrı'nın
 
-- İsrail'in düşmanlarını yok etmek,
-- İsrail'in kalıntılarını geri getirmek ve
-- inanmayan uluslar üzerinde yönetici olmak için gelecekti.
+- İsrail'in düşmanlarını yok edeceğini,
+- İsrail'in kalıntısını yeniden kuracağını
+- ve onu inanmayan uluslar üzerinde egemen kılacağını bekliyorlardı.
 
-Bazı yanlış anlamalar vardı:
+Bu umutların her biri bir yanlış anlamaya dayanıyordu:
 
-- İsrail, düşmanların baskı uygulayan uluslar olduğunu düşünüyordu.
-- Kalıntının Ferisiler gibi dindar insanlar olduğunu düşünüyordu.
-- Hükmetmenin, diğer ulusların yaptığı gibi başkaları üzerinde egemenlik kurmak anlamına geldiğini düşünüyordu.
+- Düşmanların İsrail'e baskı yapan uluslar olduğu sanılıyordu.
+- Kalıntının Ferisiler gibi dindarlar olduğu sanılıyordu.
+- Egemenliğin, ulusların yaptığı gibi başkalarına hükmetmek olduğu sanılıyordu.
 
-İlk olarak İsa, çok farklı bir egemenlik anlayışı ortaya koydu.
+İsa üçünü de düzeltti.
+
+İlk olarak, egemenliğe yeni bir anlam verdi: {{% bible val="aranızda büyük olmak isteyen, hizmetkârınız olsun" link="mrk:10,42-45" lang="tr" %}} — İnsanoğlu hizmet edilmeye değil, hizmet etmeye ve canını vermeye geldi.
 
 İkinci olarak İsa, düşmanların o dönemde İsrail'e baskı uygulayan Romalılar olmadığını, tam tersine {{% bible val="düşmanların, birçok kez kovduğu cinler olduğunu" link="mrk:3,22-27" lang="tr" %}} son derece açık biçimde ortaya koydu. {{% bible val="Onları kovmak, Rab'bin Günü'nün geldiğinin bir işaretiydi" link="mat:12,28" lang="tr" %}}. Bu, {{% bible val="özellikle O'nun ölümünde geçerliydi" link="jhn:12,31-33" lang="tr" %}}. Vahiy 12 aynı savaşı göğün tarafından gösterir: asıl düşman ejderhadır ve {{% bible val="Kuzu'nun kanıyla" link="rev:12,7-11" lang="tr" %}} yenilir ({{% int_link val="Farklı bir Noel hikayesi" link="/expl/content/jesus/a-different-christmas-story" %}}).
 
-Son olarak, kalıntı dindar insanlar değil, Tanrı'nın antlaşmasını tutanlardır; bu ise {{% int_link val="yalnızca İsa'nın kendisidir" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. Diğer herkes kalıntıya dahil değildir ve İsrail'in de içinde bulunduğu yargıya tabi olacaktır.
+Son olarak, kalıntı dindarlardan değil, Tanrı'nın antlaşmasını tutanlardan oluşur — ve onu tam olarak tutan tek kişi {{% int_link val="İsa'nın kendisidir" link="/expl/bible/daniel/the-son-of-man-and-the-remnant" %}}. O'na ait olan kalıntıya aittir; ait olmayan, İsrail de dahil olmak üzere yargının altına girer.
 
 ## Zaten ama henüz değil {#already}
 
