@@ -79,33 +79,8 @@ That third option has proven compelling to many people across history, and it's 
 
 ## Christians and Jews
 
-The Jews were another source of conflict. Because of their long religious tradition, Rome let them keep their faith: they could celebrate the Sabbath, and they were not forced to worship the emperor as a god, only to honour him as a ruler.
-
-But now there was this new Jewish sect, the Christians, who were not only disregarding the Pax Romana themselves but winning others across the empire to do the same. For a while they sheltered under Judaism's protection. That became a risk for the synagogues. After the temple was destroyed in AD 70, every Jew paid a special tax to Rome, the *Fiscus Judaicus*, and under Domitian it was collected harshly, even from people who lived as Jews without saying so (Suetonius, *Domitian* 12.2). So it was in the synagogue's interest to make the authorities aware that the Christians were not Jews at all — which stripped them of Judaism's protection and left them facing the emperor cult.
-
-This tension bore hard on the Christians, and Revelation addresses it directly.
-
-## Jews in Revelation
-
-The book is ultimately about one thing: Jesus, and everything that gets decided in relation to him. That holds true even for how the book treats the Jews.
-
-We've already seen the tension between Christians and Jews in the historical situation; it surfaces clearly in the letters to Smyrna and Philadelphia, where Jewish opponents attacked the church for testifying about Jesus. Because of that, Revelation calls them the "synagogue of Satan." When the text later says the Jews in Philadelphia would bow down before the church, it means they would come to accept Jesus — not that they would submit to the institution of the church.
-
-The same dynamic appears in chapter 11, where the place where the two witnesses are killed is described, spiritually, as Sodom (a place of sin) and Egypt (a place of slavery). This is a description of Jerusalem — because Jesus, its rightful Lord, was killed there — and the name Jerusalem is pointedly avoided.
-
-Throughout Revelation, the relationship to ethnic Israel as such is never really addressed (how much weight you put on the 144,000 in chapter 7 depends on how you read that passage); the book's real concern is always the relationship to Jesus.
-
-At the same time, the church is portrayed as part of Israel, not separate from it. Clear statements throughout the book describe a unity between Jews and Christians — the 24 elders in chapter 4, for instance, represent the 12 tribes and the 12 apostles together, and both the 12 tribes and the 12 apostles have their names engraved in the New Jerusalem.
-
-The hope Revelation holds out, notably, is not some neutral, placeless heaven but a city: the New Jerusalem, coming down out of heaven to a renewed earth and bearing the names of Israel's tribes. The church's future is rooted in Israel's story, not detached from it.
-
-So why does Revelation take such a pointed, even controversial stance on the Jews? Because the church is part of Israel and cannot cut off its own roots, even when some Jews are openly attacking it.
-
-## Conclusion
-
-The challenge for the church, then, is to hold together two things that pull in opposite directions: being part of Israel, and being attacked by Israel.
-
-There's a lot we can learn from this tension about how we relate to each other across different church denominations, and how we relate to Jewish people today.
+<a name="Jews"></a>
+The Jews were another source of conflict. Rome let them keep their faith, and for a while the Christians, seen as a Jewish sect, sheltered under that protection. When Domitian had the Jewish tax collected harshly, synagogues had good reason to tell the authorities that the Christians were not Jews at all — which left them facing the emperor cult (Suetonius, *Domitian* 12.2). How Revelation handles this tension, and why it still treats the church as part of Israel, is the subject of {{% int_link val="Israel and the church" link="/expl/background/israel/israel-and-the-church" %}}.
 
 ## Take away
 

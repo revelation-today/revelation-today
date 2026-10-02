@@ -32,7 +32,7 @@ Eine Zeit lang stand das Christentum unter dem Schutz des Judentums, weil Rom es
 <a name="b028"></a>
 In dem Buch der Offenbarung geht es um eine Sache: Jesus und alles, was im Licht seiner Person entschieden wird. Das gilt auch dafür, wie es die Juden behandelt.
 
-Wir haben bereits gesehen, wie sich die Spannung zwischen Christen und Juden konkret in Smyrna und Philadelphia zeigt, wo örtliche Juden die Gemeinde angreifen, weil sie von Jesus Zeugnis gibt — weshalb Johannes sie eine Synagoge des Satans nennt. Wenn es später heißt, dass genau diese Juden in Philadelphia sich vor der Gemeinde niederwerfen, geht es nicht darum, dass sie sich der Gemeinde als Institution unterwerfen, sondern darum, dass sie Jesus annehmen.
+Die Spannung zwischen Christen und Juden zeigt sich konkret in den Sendschreiben an {{% bible val="Smyrna" link="rev:2,9" lang="de" %}} und {{% bible val="Philadelphia" link="rev:3,9" lang="de" %}}, wo örtliche Juden die Gemeinde angreifen, weil sie von Jesus Zeugnis gibt — weshalb Johannes sie eine Synagoge des Satans nennt. Wenn es später heißt, dass genau diese Juden in Philadelphia sich vor der Gemeinde niederwerfen, geht es nicht darum, dass sie sich der Gemeinde als Institution unterwerfen, sondern darum, dass sie Jesus annehmen.
 
 Dieselbe Dynamik zeigt sich in Kapitel 11. Der Ort, an dem die beiden Zeugen getötet werden, wird geistlich als Sodom (ein Ort der Sünde) und Ägypten (ein Ort der Sklaverei) beschrieben — eine Beschreibung Jerusalems, denn dort wurde ihr Herr, Jesus, getötet. Bezeichnenderweise wird hier sogar der Name „Jerusalem“ vermieden.
 

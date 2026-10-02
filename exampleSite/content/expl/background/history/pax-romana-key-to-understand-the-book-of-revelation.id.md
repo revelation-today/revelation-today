@@ -80,35 +80,8 @@ Pilihan ketiga itu terbukti menarik bagi banyak orang sepanjang sejarah, dan hal
 
 ## Orang Kristen dan Orang Yahudi
 
-Orang Yahudi menjadi sumber konflik lainnya. Karena tradisi keagamaan mereka yang panjang, Roma membiarkan mereka menjalankan iman mereka: mereka dapat merayakan Sabat, dan mereka tidak dipaksa menyembah kaisar sebagai dewa, cukup menghormatinya sebagai penguasa.
-
-Namun kini muncul sekte Yahudi baru ini, yaitu orang Kristen, yang bukan hanya mengabaikan Pax Romana bagi diri mereka sendiri, tetapi juga memenangkan orang lain di seluruh kekaisaran untuk melakukan hal yang sama. Untuk sementara waktu mereka berlindung di bawah perlindungan agama Yahudi. Bagi rumah-rumah ibadat Yahudi, hal itu menjadi risiko. Sejak bait suci dihancurkan pada tahun 70 M, setiap orang Yahudi membayar pajak khusus kepada Roma, *Fiscus Judaicus*, dan di bawah Domitianus pajak itu dipungut dengan sangat keras, bahkan dari orang-orang yang hidup sebagai orang Yahudi tanpa mengakuinya (Suetonius, *Domitianus* 12.2). Jadi rumah ibadat Yahudi berkepentingan untuk menyadarkan para penguasa bahwa orang Kristen sama sekali bukan orang Yahudi — sehingga mereka kehilangan perlindungan agama Yahudi dan harus menghadapi kultus kaisar.
-
-Ketegangan ini sangat membebani orang Kristen, dan Kitab Wahyu membahasnya secara langsung.
-
-## Ketegangan dengan Orang Yahudi {#Jews}
-
-Kitab ini pada akhirnya hanya membahas satu hal: Yesus, dan segala sesuatu yang diputuskan dalam hubungannya dengan Dia. Hal ini juga berlaku untuk bagaimana kitab ini memperlakukan orang Yahudi.
-
-## Orang Yahudi dalam Kitab Wahyu
-
-Kita telah melihat ketegangan antara orang Kristen dan orang Yahudi dalam situasi historis; ketegangan ini muncul dengan jelas dalam surat-surat kepada Smirna dan Filadelfia, di mana lawan-lawan Yahudi menyerang jemaat karena bersaksi tentang Yesus. Karena itu, Kitab Wahyu menyebut mereka "jemaah Iblis" (sinagoge Setan). Ketika teks selanjutnya mengatakan bahwa orang Yahudi di Filadelfia akan sujud di hadapan jemaat, itu berarti mereka akan datang untuk menerima Yesus — bukan bahwa mereka akan tunduk kepada lembaga gereja.
-
-Dinamika yang sama muncul dalam pasal 11, di mana tempat kedua saksi itu dibunuh digambarkan secara rohani sebagai Sodom (tempat dosa) dan Mesir (tempat perbudakan). Ini adalah gambaran tentang Yerusalem — karena Yesus, Tuhan yang sah atas kota itu, dibunuh di sana — dan nama Yerusalem dengan sengaja dihindari.
-
-Di sepanjang Kitab Wahyu, hubungan dengan Israel etnis sebagai demikian tidak pernah benar-benar dibahas (seberapa besar bobot yang Anda berikan kepada 144.000 orang di pasal 7 bergantung pada bagaimana Anda membaca bagian itu); perhatian sesungguhnya dari kitab ini selalu tertuju pada hubungan dengan Yesus.
-
-Pada saat yang sama, gereja digambarkan sebagai bagian dari Israel, bukan terpisah darinya. Pernyataan-pernyataan yang jelas di sepanjang kitab ini menggambarkan kesatuan antara orang Yahudi dan orang Kristen — misalnya, 24 tua-tua di pasal 4 mewakili 12 suku dan 12 rasul bersama-sama, dan baik 12 suku maupun 12 rasul memiliki nama mereka terukir di Yerusalem Baru.
-
-Yang patut diperhatikan, pengharapan yang ditawarkan Kitab Wahyu bukanlah sorga yang netral tanpa tempat, melainkan sebuah kota: Yerusalem Baru, yang turun dari sorga ke bumi yang diperbarui dan memuat nama-nama suku Israel. Masa depan gereja berakar dalam kisah Israel, bukan terlepas darinya.
-
-Jadi mengapa Kitab Wahyu mengambil sikap yang begitu tegas, bahkan kontroversial, tentang orang Yahudi? Karena gereja adalah bagian dari Israel dan tidak dapat memutuskan akarnya sendiri, sekalipun beberapa orang Yahudi secara terbuka menyerangnya.
-
-## Kesimpulan
-
-Tantangan bagi gereja, dengan demikian, adalah memegang bersama dua hal yang menarik ke arah berlawanan: menjadi bagian dari Israel, dan diserang oleh Israel.
-
-Ada banyak hal yang dapat kita pelajari dari ketegangan ini tentang bagaimana kita berelasi satu sama lain di antara berbagai denominasi gereja, dan bagaimana kita berelasi dengan orang Yahudi pada masa kini.
+<a name="Jews"></a>
+Orang Yahudi menjadi sumber konflik lainnya. Roma membiarkan mereka menjalankan iman mereka, dan untuk sementara waktu orang Kristen, yang dipandang sebagai sekte Yahudi, berlindung di bawah perlindungan itu. Ketika Domitianus memungut pajak Yahudi dengan keras, rumah-rumah ibadat Yahudi punya alasan kuat untuk memberi tahu para penguasa bahwa orang Kristen sama sekali bukan orang Yahudi — sehingga mereka harus menghadapi kultus kaisar (Suetonius, *Domitianus* 12.2). Bagaimana Kitab Wahyu menangani ketegangan ini, dan mengapa kitab itu tetap memandang gereja sebagai bagian dari Israel, dibahas dalam {{% int_link val="Israel dan gereja" link="/expl/background/israel/israel-and-the-church" %}}.
 
 ## Renungan
 

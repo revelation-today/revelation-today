@@ -79,33 +79,8 @@ Bu üçüncü seçenek tarih boyunca birçok insan için cazip olmuştur ve Vahi
 
 ## Hristiyanlar ve Yahudiler
 
-Yahudiler bir başka çatışma kaynağıydı. Uzun dini gelenekleri nedeniyle Roma, inançlarını yaşamalarına izin veriyordu: Şabat'ı kutlayabiliyorlardı ve imparatora bir tanrı olarak tapınmak zorunda değillerdi, onu yalnızca bir hükümdar olarak onurlandırmaları yeterliydi.
-
-Ama şimdi bu yeni Yahudi mezhebi, Hıristiyanlar, ortaya çıkmıştı; sadece kendileri Pax Romana'yı görmezden gelmekle kalmıyor, imparatorluk genelinde başkalarını da aynısını yapmaya kazanıyorlardı. Bir süre Yahudiliğin koruması altında kaldılar. Bu, havralar için bir risk hâline geldi. Tapınağın MS 70'te yıkılmasından beri her Yahudi Roma'ya özel bir vergi, *Fiscus Judaicus*, ödüyordu ve Domitianus döneminde bu vergi büyük bir sertlikle toplanıyordu; Yahudi gibi yaşayıp bunu söylemeyenlerden bile (Suetonius, *Domitianus* 12.2). Bu yüzden yetkililere Hıristiyanların hiç de Yahudi olmadığını bildirmek havranın çıkarınaydı — bu da Hıristiyanları Yahudiliğin korumasından yoksun bırakıp imparator kültüyle karşı karşıya bıraktı.
-
-Bu gerginlik Hıristiyanlar üzerinde ağır bir yük oluşturuyordu ve Vahiy Kitabı buna doğrudan değinir.
-
-## Vahiy'de Yahudiler
-
-Kitap sonuçta tek bir şey hakkındadır: İsa ve onunla ilgili olarak karara bağlanan her şey. Bu, kitabın Yahudilere yaklaşımı için de geçerlidir.
-
-Tarihsel durumda Hıristiyanlar ve Yahudiler arasındaki gerginliği zaten gördük; bu gerginlik, Yahudi muhaliflerin İsa hakkında tanıklık ettikleri için kiliseye saldırdığı İzmir ve Filadelfiya'ya yazılan mektuplarda açıkça ortaya çıkar. Bu nedenle Vahiy onları "Şeytan'ın havrası" olarak adlandırır. Metin daha sonra Filadelfiya'daki Yahudilerin kilisenin önünde eğileceğini söylediğinde, bu onların İsa'yı kabul edeceği anlamına gelir — kilise kurumuna boyun eğecekleri anlamına değil.
-
-Aynı dinamik 11. bölümde de görülür; burada iki tanığın öldürüldüğü yer, ruhsal olarak Sodom (bir günah yeri) ve Mısır (bir kölelik yeri) olarak tanımlanır. Bu, Yeruşalim'in bir tasviridir — çünkü onun haklı Rabbi olan İsa orada öldürülmüştür — ve Yeruşalim adı bilinçli olarak kullanılmaz.
-
-Vahiy boyunca, etnik İsrail'le olan ilişkinin kendisi gerçekte hiç ele alınmaz (7. bölümdeki 144.000'e ne kadar ağırlık verdiğiniz, o pasajı nasıl okuduğunuza bağlıdır); kitabın asıl kaygısı her zaman İsa'yla olan ilişkidir.
-
-Aynı zamanda kilise, İsrail'den ayrı değil, İsrail'in bir parçası olarak tasvir edilir. Kitap boyunca Yahudiler ve Hıristiyanlar arasındaki birliği tanımlayan açık ifadeler vardır — örneğin 4. bölümdeki 24 ihtiyar, 12 kabileyi ve 12 havariyi birlikte temsil eder ve hem 12 kabilenin hem de 12 havarinin isimleri Yeni Yeruşalim'e kazınmıştır.
-
-Dikkat çekicidir ki Vahiy'in sunduğu umut tarafsız, mekânsız bir cennet değil, bir şehirdir: gökten yenilenmiş bir yeryüzüne inen ve İsrail oymaklarının adlarını taşıyan Yeni Yeruşalim. Kilisenin geleceği İsrail'in hikâyesinden kopuk değil, onda köklenmiştir.
-
-Peki Vahiy neden Yahudiler konusunda bu kadar keskin, hatta tartışmalı bir tutum sergiler? Çünkü kilise İsrail'in bir parçasıdır ve bazı Yahudiler ona açıkça saldırsa bile kendi köklerini kesip atamaz.
-
-## Sonuç
-
-Kilisenin karşılaştığı zorluk, o halde, zıt yönlere çeken iki şeyi bir arada tutmaktır: İsrail'in bir parçası olmak ve İsrail tarafından saldırıya uğramak.
-
-Bu gerilimden, farklı kilise mezhepleri arasında birbirimizle nasıl ilişki kurduğumuz ve bugün Yahudi halkıyla nasıl ilişki kurduğumuz hakkında öğrenebileceğimiz çok şey var.
+<a name="Jews"></a>
+Yahudiler bir başka çatışma kaynağıydı. Roma inançlarını yaşamalarına izin veriyordu ve Hristiyanlar, bir Yahudi mezhebi sayıldıkları için bir süre bu korumanın altında kaldı. Domitianus Yahudi vergisini sertlikle toplattığında havraların, yetkililere Hristiyanların hiç de Yahudi olmadığını söylemek için güçlü bir nedeni vardı — bu da onları imparator kültüyle karşı karşıya bıraktı (Suetonius, *Domitianus* 12.2). Vahiy'in bu gerilimi nasıl ele aldığı ve kiliseyi neden yine de İsrail'in bir parçası saydığı {{% int_link val="İsrail ve kilise" link="/expl/background/israel/israel-and-the-church" %}} makalesinin konusudur.
 
 ## Götürün
 

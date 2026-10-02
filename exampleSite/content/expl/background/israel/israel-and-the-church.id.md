@@ -32,7 +32,7 @@ Untuk sementara waktu agama Kristen berlindung di bawah perlindungan agama Yahud
 <a name="b028"></a>
 Kitab Wahyu hanya membahas satu hal: Yesus, dan segala sesuatu yang diputuskan berdasarkan diri-Nya. Hal itu juga berlaku bagi bagaimana kitab ini memperlakukan orang Yahudi.
 
-Kita telah melihat ketegangan antara orang Kristen dan orang Yahudi ini terjadi secara nyata di Smirna dan Filadelfia, di mana orang Yahudi setempat menyerang jemaat karena bersaksi tentang Yesus — itulah sebabnya Yohanes menyebut mereka sinagoge Iblis. Ketika orang-orang Yahudi yang sama di Filadelfia kemudian dikatakan akan sujud di hadapan jemaat, maksudnya bukanlah bahwa mereka tunduk kepada jemaat sebagai sebuah lembaga, melainkan bahwa mereka sampai kepada penerimaan akan Yesus.
+Ketegangan antara orang Kristen dan orang Yahudi ini terjadi secara nyata dalam surat kepada {{% bible val="Smirna" link="rev:2,9" lang="ind" %}} dan {{% bible val="Filadelfia" link="rev:3,9" lang="ind" %}}, di mana orang Yahudi setempat menyerang jemaat karena bersaksi tentang Yesus — itulah sebabnya Yohanes menyebut mereka sinagoge Iblis. Ketika orang-orang Yahudi yang sama di Filadelfia kemudian dikatakan akan sujud di hadapan jemaat, maksudnya bukanlah bahwa mereka tunduk kepada jemaat sebagai sebuah lembaga, melainkan bahwa mereka sampai kepada penerimaan akan Yesus.
 
 Dinamika yang sama muncul dalam pasal 11. Tempat di mana kedua saksi itu dibunuh secara rohani digambarkan sebagai Sodom (tempat dosa) dan Mesir (tempat perbudakan) — sebuah gambaran tentang Yerusalem, sebab di situlah Tuhan mereka, Yesus, dibunuh. Yang menarik, bahkan nama "Yerusalem" pun sengaja dihindari di sini.
 

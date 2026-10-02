@@ -32,7 +32,7 @@ For a while Christianity sheltered under Judaism's protection, because Rome saw 
 <a name="b216"></a>
 The book of Revelation is about one thing: Jesus, and everything that gets decided in light of him. That is true of how it treats the Jews as well.
 
-We already saw the tension between Christians and Jews playing out concretely in Smyrna and Philadelphia, where local Jews attack the church for witnessing to Jesus — which is why John calls them a synagogue of Satan. When those same Jews in Philadelphia are later said to bow down before the church, the point is not that they submit to the church as an institution, but that they come to accept Jesus.
+The tension between Christians and Jews plays out concretely in the letters to {{% bible val="Smyrna" link="rev:2,9" lang="en" %}} and {{% bible val="Philadelphia" link="rev:3,9" lang="en" %}}, where local Jews attack the church for witnessing to Jesus — which is why John calls them a synagogue of Satan. When those same Jews in Philadelphia are later said to bow down before the church, the point is not that they submit to the church as an institution, but that they come to accept Jesus.
 
 The same dynamic surfaces in chapter 11. The place where the two witnesses are killed is spiritually described as Sodom (a place of sin) and Egypt (a place of slavery) — a description of Jerusalem, since that is where their Lord, Jesus, was killed. Tellingly, even the name "Jerusalem" is avoided here.
 

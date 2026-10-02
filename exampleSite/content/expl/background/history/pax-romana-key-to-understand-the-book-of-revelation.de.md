@@ -80,33 +80,8 @@ Diese dritte Option hat sich für viele Menschen im Lauf der Geschichte als verl
 
 ## Christen und Juden
 
-Die Juden waren eine weitere Quelle des Konflikts. Wegen ihrer langen religiösen Tradition ließ Rom ihnen ihren Glauben: Sie konnten den Sabbat feiern und mussten den Kaiser nicht als Gott anbeten, sondern ihn nur als Herrscher ehren.
-
-Doch nun gab es diese neue jüdische Sekte, die Christen, die nicht nur selbst die Pax Romana missachteten, sondern im ganzen Reich auch andere dafür gewannen. Eine Zeit lang standen sie unter dem Schutz des Judentums. Für die Synagogen wurde das zum Risiko. Seit der Zerstörung des Tempels im Jahr 70 zahlte jeder Jude eine Sondersteuer an Rom, den *Fiscus Judaicus*, und unter Domitian wurde sie mit großer Härte eingetrieben, sogar bei Menschen, die jüdisch lebten, ohne es zu sagen (Sueton, *Domitian* 12,2). So lag es im Interesse der Synagoge, den Behörden klarzumachen, dass die Christen gar keine Juden waren — womit sie den Schutz des Judentums verloren und dem Kaiserkult ausgeliefert waren.
-
-Diese Spannung lastete schwer auf den Christen, und die Offenbarung spricht sie direkt an.
-
-## Juden in der Offenbarung
-
-In dem Buch geht es letztlich um eines: Jesus und alles, was in Bezug auf ihn entschieden wird. Das gilt auch dafür, wie das Buch die Juden behandelt.
-
-Wir haben die Spannung zwischen Christen und Juden in der historischen Situation bereits gesehen; sie tritt deutlich in den Sendschreiben an Smyrna und Philadelphia zutage, wo jüdische Gegner die Gemeinde angriffen, weil sie von Jesus Zeugnis ablegte. Deshalb nennt die Offenbarung sie die "Synagoge des Satans". Wenn der Text später sagt, die Juden in Philadelphia würden sich vor der Gemeinde niederwerfen, bedeutet das, dass sie Jesus annehmen würden — nicht dass sie sich der Institution Gemeinde unterwerfen würden.
-
-Dieselbe Dynamik zeigt sich in Kapitel 11, wo der Ort, an dem die beiden Zeugen getötet werden, geistlich als Sodom (ein Ort der Sünde) und Ägypten (ein Ort der Sklaverei) beschrieben wird. Das ist eine Beschreibung Jerusalems — weil Jesus, sein rechtmäßiger Herr, dort getötet wurde —, und der Name Jerusalem wird bewusst vermieden.
-
-In der ganzen Offenbarung wird die Beziehung zum ethnischen Israel als solchem eigentlich nie thematisiert (wie viel Gewicht man den 144.000 in Kapitel 7 beimisst, hängt davon ab, wie man diese Stelle liest); dem Buch geht es immer um die Beziehung zu Jesus.
-
-Zugleich wird die Gemeinde als Teil Israels dargestellt, nicht als davon getrennt. Klare Aussagen im ganzen Buch beschreiben eine Einheit von Juden und Christen — die 24 Ältesten in Kapitel 4 etwa stehen gemeinsam für die 12 Stämme und die 12 Apostel, und sowohl die Namen der 12 Stämme als auch die der 12 Apostel sind in das Neue Jerusalem eingraviert.
-
-Bemerkenswerterweise ist die Hoffnung, die die Offenbarung vor Augen stellt, kein neutraler, ortloser Himmel, sondern eine Stadt: das Neue Jerusalem, das aus dem Himmel auf eine erneuerte Erde herabkommt und die Namen der Stämme Israels trägt. Die Zukunft der Gemeinde ist in der Geschichte Israels verwurzelt, nicht von ihr losgelöst.
-
-Warum also nimmt die Offenbarung eine derart pointierte, ja umstrittene Haltung gegenüber den Juden ein? Weil die Gemeinde Teil Israels ist und ihre eigenen Wurzeln nicht kappen kann, selbst wenn manche Juden sie offen angreifen.
-
-## Schlussfolgerung
-
-Die Herausforderung für die Gemeinde besteht also darin, zwei Dinge zusammenzuhalten, die in entgegengesetzte Richtungen ziehen: Teil Israels zu sein und von Israel angegriffen zu werden.
-
-Aus dieser Spannung lässt sich viel darüber lernen, wie wir über verschiedene kirchliche Konfessionen hinweg miteinander umgehen und wie wir uns heute zu jüdischen Menschen verhalten.
+<a name="Jews"></a>
+Die Juden waren eine weitere Quelle des Konflikts. Rom ließ ihnen ihren Glauben, und eine Zeit lang standen die Christen, als jüdische Sekte angesehen, unter diesem Schutz. Als Domitian die Judensteuer mit Härte eintreiben ließ, hatten die Synagogen guten Grund, den Behörden zu erklären, dass die Christen gar keine Juden seien — womit diese dem Kaiserkult ausgeliefert waren (Sueton, *Domitian* 12,2). Wie die Offenbarung mit dieser Spannung umgeht und warum sie die Gemeinde dennoch als Teil Israels sieht, behandelt {{% int_link val="Israel und die Gemeinde" link="/expl/background/israel/israel-and-the-church" %}}.
 
 ## Betrachtungen
 

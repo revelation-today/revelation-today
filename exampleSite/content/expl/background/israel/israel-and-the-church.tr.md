@@ -32,7 +32,7 @@ Roma onu bir Yahudi mezhebi olarak gördüğü için Hıristiyanlık bir süre Y
 <a name="7cd5"></a>
 Vahiy Kitabı tek bir şey üzerinedir: İsa ve O'nun ışığında karara bağlanan her şey. Kitabın Yahudileri ele alışı da bundan farklı değildir.
 
-Hıristiyanlarla Yahudiler arasındaki gerilimin somut olarak İzmir ve Filadelfiya'da yaşandığını zaten gördük; buralarda yerel Yahudiler İsa'ya tanıklık eden kiliseye saldırır — Yuhanna'nın onları Şeytan'ın sinagogu olarak adlandırmasının nedeni de budur. Aynı Filadelfiyalı Yahudiler'in daha sonra kilisenin önünde eğildikleri söylendiğinde, buradaki nokta onların kiliseye kurum olarak boyun eğmesi değil, İsa'yı kabul etmeye gelmeleridir.
+Hıristiyanlarla Yahudiler arasındaki gerilim somut olarak {{% bible val="İzmir" link="rev:2,9" lang="tr" %}} ve {{% bible val="Filadelfiya" link="rev:3,9" lang="tr" %}} kiliselerine yazılan mektuplarda görülür; buralarda yerel Yahudiler İsa'ya tanıklık eden kiliseye saldırır — Yuhanna'nın onları Şeytan'ın sinagogu olarak adlandırmasının nedeni de budur. Aynı Filadelfiyalı Yahudiler'in daha sonra kilisenin önünde eğildikleri söylendiğinde, buradaki nokta onların kiliseye kurum olarak boyun eğmesi değil, İsa'yı kabul etmeye gelmeleridir.
 
 Aynı dinamik 11. bölümde de karşımıza çıkar. İki tanığın öldürüldüğü yer, ruhsal olarak Sodom (bir günah yeri) ve Mısır (bir kölelik yeri) olarak tanımlanır — bu, Yeruşalim'in bir tasviridir, çünkü Rableri İsa'nın öldürüldüğü yer orasıdır. Dikkat çekici biçimde, burada "Yeruşalim" adının kendisinden bile kaçınılır.
 
