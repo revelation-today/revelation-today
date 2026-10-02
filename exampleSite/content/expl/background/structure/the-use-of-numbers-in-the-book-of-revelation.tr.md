@@ -115,14 +115,25 @@ Vahiy'in sayılarının bir katmanı daha vardır: oluşturdukları şekiller.
 
 ![](/images/numbers-shapes.tr.svg)
 
-**Bu sitenin eklediği.** Sonraki iki gözlem bu sitenin kendisine aittir.
+**Bu sitenin eklediği: iddia ve gerçek.** Aşağıdaki gözlem bu sitenin kendisine aittir; bir yorumcu bir pasajı aynı biçimde okuyorsa adı verilir.
 
-*Gerçekte.* Canavarın şeklini 36 yerine Tanrı'nın 1225'i üzerine kurarsanız 750.925 elde edersiniz — 666 bunun binde birinden azdır. Tanrı'nın tarafı 2 m olsaydı, canavarınki 2 mm'den kısa olurdu: bir rakip değil, gücün bir parodisi.
+*İddia — Tanrı'dan biraz büyük.* Şeytan kendini Tanrı'dan biraz daha büyük gösterir:
+
+- 17. bölümde canavar {{% bible val="sekizinci" link="rev:17,11" lang="tr" %}} krallardandır — Tanrı'nın yedisine karşı sekiz, eksiksizliğin bir adım ötesi; sanki Tanrı'nın kendi yaratılışını aşabilirmiş gibi.
+- Daniel'deki iğrençliğin {{% bible val="1290 günü" link="dan:12,11" lang="tr" %}} kilisenin 1260 gününü az farkla aşar ve canavarın sonraki karesi 1296, Tanrı'nın 1225'inin hemen üzerindedir.
+- Kuzu'nun {{% bible val="yedi boynuzu" link="rev:5,6" lang="tr" %}} vardır; ejderha ve canavar {{% bible val="on" link="rev:13,1" lang="tr" %}} boynuz gösterir. Ejderha yedi taç, canavar on taç takar ({{% bible val="12:3" link="rev:12,3" lang="tr" %}}; {{% bible val="13:1" link="rev:13,1" lang="tr" %}}) — Beale'in deyişiyle "egemen, evrensel otoriteye dair sahte iddialar" (s. 635, 684).
+- İlk atlı beyaz bir atla, taç giymiş ve {{% bible val="galip gelerek" link="rev:6,2" lang="tr" %}} gelir; canavar ölümcül yarasından kurtulur ve {{% bible val="büyük belirtiler" link="rev:13,3-13" lang="tr" %}} gösterir — ilk bakışta Tanrı'nınkinden daha iyi bir teklif.
+- Babil övünür: {{% bible val="Kraliçe olarak oturuyorum … asla yas görmeyeceğim" link="rev:18,7" lang="tr" %}}; Gog ile Magog da {{% bible val="deniz kumu kadar" link="rev:20,8" lang="tr" %}} bir ordu toplar — Tanrı'nın İbrahim'e vaat ettiği sayısız halkın ta kendisi olan imge.
+
+![](/images/numbers-claim.tr.svg)
+
+*Gerçek — çok daha küçük.* 13. bölüm iddiayı düzeltir: sayısı {{% bible val="666" link="rev:13,18" lang="tr" %}} — altı, altı, altı, her basamakta yediden eksik (Beale, s. 64). Ölçekli çizildiğinde şekli Tanrı'nınkinin binde birinden azdır. Ve her iddia çöker:
+
+- Beyaz atlıyı savaş, açlık ve ölümün soluk renkli atı izler ({{% bible val="6:4–8" link="rev:6,4-8" lang="tr" %}}); beşinci mühür bedeli gösterir — öldürülenlerin canları ({{% bible val="6:9–11" link="rev:6,9-11" lang="tr" %}}).
+- On boynuz, {{% bible val="bir saatliğine" link="rev:17,12" lang="tr" %}} egemenlik süren krallardır ve Kuzu onları yener, {{% bible val="çünkü O rablerin Rabbi, kralların Kralı'dır" link="rev:17,14" lang="tr" %}}. Yedi ve on taca karşı {{% bible val="birçok taç" link="rev:19,12" lang="tr" %}} giyen Atlı durur.
+- Asla yas tutmayacak olan kraliçe {{% bible val="bir saatte" link="rev:18,10" lang="tr" %}} yargılanır; kum gibi ordu savaş olmadan {{% bible val="gökten inen ateşle" link="rev:20,9" lang="tr" %}} yok olur.
+- İblis sadıkları {{% bible val="on gün" link="rev:2,10" lang="tr" %}} zindana atabilir — kısa, sınırlı bir süre (Beale, s. 243); ölüme dek sadık kalanlar ise {{% bible val="Mesih'le birlikte bin yıl egemenlik sürer" link="rev:20,4" lang="tr" %}}. O {{% bible val="zamanının az kaldığını" link="rev:12,12" lang="tr" %}} bilir; onlar {{% bible val="sonsuzlara dek" link="rev:22,5" lang="tr" %}} egemenlik sürer.
 
 ![](/images/numbers-scale.tr.svg)
 
-*Göründüğü gibi.* Canavarın sonraki sayıları, 1296 (36 × 36) ve 1332 (36 × 37), Tanrı'nın 1225 ve 1260'ının hemen üzerindedir — bu yüzden canavar her zaman olduğundan biraz daha büyük görünür. İlk Hristiyanlar bu oyunu gerçekten oynadı: *İşaya'nın Göğe Yükselişi*, Deccal'ın saltanatını 666'ya bağlı bir sayı olan 1332 gün olarak verir (Bauckham, *Climax of Prophecy*, s. 403).
-
-![](/images/numbers-appear.tr.svg)
-
-**Bu nereye kadar geçerli.** Hesap kesindir. Bauckham'ın kısmı, Yuhanna'nın bunu kastettiğine dair bilimsel bir savdır. İki resim birer canlandırmadır: büyüklükleri seçilen şekle bağlıdır — 1225 doğrudan 36 ile karşılaştırılırsa oran yalnızca 34'e 1'dir — bu yüzden gizli bir şifre olarak değil, Vahiy'in sözlerle söylediğinin bir resmi olarak sunulurlar: ejderhanın gücü gerçektir, ama Tanrı'nınkinin yanında çok küçüktür ve yalnızca olduğundan biraz daha büyük görünür.
+**Bu nereye kadar geçerli.** Hesap kesindir. Bauckham'ın kısmı, Yuhanna'nın bunu kastettiğine dair bilimsel bir savdır ve ilk Hristiyanlar bu oyunu gerçekten oynamıştır: *İşaya'nın Göğe Yükselişi* Deccal'a 1332 gün, 666'ya bağlı dikdörtgeni verir (Bauckham, *Climax of Prophecy*, s. 403). İddia ve gerçek örüntüsü metnin kendisine dayanır — taçlar, boynuzlar, bir saat, ateş — ve Beale canavarın taçlarını Mesih'in krallığına dair sahte iddialar olarak okur. Sayı çiftleri ve ölçekli resim bu sitenin canlandırmasıdır; büyüklükleri seçilen şekle bağlıdır, bu yüzden gizli bir şifre olarak değil, Vahiy'in sözlerle söylediğinin bir resmi olarak sunulurlar: Şeytan, Tanrı'dan biraz büyük görünmeye çalışır ve çok daha küçük olduğu gösterilir.

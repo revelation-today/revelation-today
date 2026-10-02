@@ -115,14 +115,25 @@ Bilangan-bilangan dalam Kitab Wahyu masih memiliki satu lapisan lagi: bentuk-ben
 
 ![](/images/numbers-shapes.id.svg)
 
-**Tambahan dari situs ini.** Dua pengamatan berikut adalah milik situs ini sendiri.
+**Tambahan dari situs ini: klaim dan kenyataan.** Pengamatan berikut adalah milik situs ini sendiri; jika seorang penafsir membaca sebuah bagian dengan cara yang sama, ia disebutkan.
 
-*Kenyataannya.* Jika bangun binatang itu dibangun di atas 1225 milik Allah, bukan di atas 36, hasilnya 750.925 — 666 kurang dari seperseribunya. Jika sisi Allah setinggi 2 m, sisi binatang itu kurang dari 2 mm: sebuah parodi kekuasaan, bukan saingan.
+*Klaimnya — sedikit lebih besar daripada Allah.* Iblis menampilkan dirinya sedikit lebih besar daripada Allah:
+
+- Dalam pasal 17 binatang itu adalah {{% bible val="yang kedelapan" link="rev:17,11" lang="ind" %}} — delapan melawan tujuh milik Allah, satu langkah melampaui kesempurnaan, seolah-olah ia dapat mengungguli ciptaan Allah sendiri.
+- {{% bible val="1290 hari" link="dan:12,11" lang="ind" %}} kekejian dalam Daniel sedikit melewati 1260 hari gereja, dan persegi berikutnya milik binatang itu, 1296, berada sedikit di atas 1225 milik Allah.
+- Anak Domba bertanduk {{% bible val="tujuh" link="rev:5,6" lang="ind" %}}; naga dan binatang itu bertanduk {{% bible val="sepuluh" link="rev:13,1" lang="ind" %}}. Naga itu memakai tujuh mahkota, binatang itu sepuluh ({{% bible val="12:3" link="rev:12,3" lang="ind" %}}; {{% bible val="13:1" link="rev:13,1" lang="ind" %}}) — "klaim palsu atas kekuasaan yang berdaulat dan universal", kata Beale (hlm. 635, 684).
+- Penunggang pertama datang dengan kuda putih, bermahkota dan {{% bible val="menang" link="rev:6,2" lang="ind" %}}; binatang itu sembuh dari luka yang mematikan dan mengadakan {{% bible val="tanda-tanda yang dahsyat" link="rev:13,3-13" lang="ind" %}} — sekilas tawaran yang lebih baik daripada tawaran Allah.
+- Babel bermegah: {{% bible val="Aku bertakhta seperti ratu … aku tidak akan pernah berkabung" link="rev:18,7" lang="ind" %}}; dan Gog dan Magog mengumpulkan pasukan {{% bible val="seperti pasir di laut" link="rev:20,8" lang="ind" %}} — gambaran yang sama dengan bangsa yang tak terhitung yang dijanjikan Allah kepada Abraham.
+
+![](/images/numbers-claim.id.svg)
+
+*Kenyataannya — jauh lebih kecil.* Pasal 13 meluruskan klaim itu: bilangannya adalah {{% bible val="666" link="rev:13,18" lang="ind" %}} — enam, enam, enam, di setiap tempat kurang dari tujuh (Beale, hlm. 64). Digambar menurut skala, bangunnya kurang dari seperseribu bangun Allah. Dan setiap klaim runtuh:
+
+- Penunggang kuda putih diikuti oleh perang, kelaparan, dan kuda hijau kuning maut ({{% bible val="6:4–8" link="rev:6,4-8" lang="ind" %}}); meterai kelima menunjukkan harganya — jiwa-jiwa mereka yang telah dibunuh ({{% bible val="6:9–11" link="rev:6,9-11" lang="ind" %}}).
+- Kesepuluh tanduk itu adalah raja-raja yang memerintah {{% bible val="satu jam lamanya" link="rev:17,12" lang="ind" %}}, dan Anak Domba mengalahkan mereka, {{% bible val="karena Ia adalah Tuhan segala tuan dan Raja segala raja" link="rev:17,14" lang="ind" %}}. Melawan tujuh dan sepuluh mahkota berdiri Sang Penunggang dengan {{% bible val="banyak mahkota" link="rev:19,12" lang="ind" %}}.
+- Ratu yang tidak mau berkabung dihakimi {{% bible val="dalam satu jam" link="rev:18,10" lang="ind" %}}; pasukan seperti pasir itu dimakan {{% bible val="api dari langit" link="rev:20,9" lang="ind" %}} tanpa pertempuran.
+- Iblis dapat melemparkan orang-orang setia ke dalam penjara selama {{% bible val="sepuluh hari" link="rev:2,10" lang="ind" %}} — waktu yang singkat dan terbatas (Beale, hlm. 243); mereka yang setia sampai mati {{% bible val="memerintah bersama Kristus seribu tahun" link="rev:20,4" lang="ind" %}}. Ia tahu bahwa {{% bible val="waktunya sudah singkat" link="rev:12,12" lang="ind" %}}; mereka memerintah {{% bible val="sampai selama-lamanya" link="rev:22,5" lang="ind" %}}.
 
 ![](/images/numbers-scale.id.svg)
 
-*Kelihatannya.* Bilangan berikutnya milik binatang itu, 1296 (36 × 36) dan 1332 (36 × 37), berada sedikit di atas 1225 dan 1260 milik Allah — karena itu binatang itu selalu tampak sedikit lebih besar daripada kenyataannya. Orang Kristen mula-mula memang memainkan permainan ini: *Kenaikan Yesaya* menyebut masa pemerintahan Antikristus 1332 hari, bilangan yang terkait dengan 666 (Bauckham, *Climax of Prophecy*, hlm. 403).
-
-![](/images/numbers-appear.id.svg)
-
-**Sejauh mana ini berlaku.** Hitungannya tepat. Bagian Bauckham adalah argumen ilmiah bahwa Yohanes memaksudkannya. Kedua gambar adalah ilustrasi: ukurannya bergantung pada bangun yang dipilih — membandingkan 1225 dengan 36 secara langsung hanya menghasilkan 34 banding 1 — jadi gambar-gambar itu tidak disajikan sebagai kode tersembunyi, melainkan sebagai gambaran dari apa yang dikatakan Kitab Wahyu dengan kata-kata: kuasa naga itu nyata, tetapi sangat kecil di samping kuasa Allah, dan hanya tampak sedikit lebih besar daripada kenyataannya.
+**Sejauh mana ini berlaku.** Hitungannya tepat. Bagian Bauckham adalah argumen ilmiah bahwa Yohanes memaksudkannya, dan orang Kristen mula-mula memang memainkan permainan ini: *Kenaikan Yesaya* memberi Antikristus 1332 hari, persegi panjang yang terkait dengan 666 (Bauckham, *Climax of Prophecy*, hlm. 403). Pola klaim dan kenyataan bertumpu pada teks itu sendiri — mahkota, tanduk, satu jam, api — dan Beale membaca mahkota binatang itu sebagai klaim palsu atas kerajaan Kristus. Pasangan-pasangan bilangan dan gambar menurut skala adalah ilustrasi situs ini; ukurannya bergantung pada bangun yang dipilih, jadi semuanya tidak disajikan sebagai kode tersembunyi, melainkan sebagai gambaran dari apa yang dikatakan Kitab Wahyu dengan kata-kata: Iblis berusaha tampak sedikit lebih besar daripada Allah, dan diperlihatkan jauh lebih kecil.

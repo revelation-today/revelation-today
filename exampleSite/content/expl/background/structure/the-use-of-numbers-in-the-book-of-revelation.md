@@ -115,14 +115,25 @@ There is one more layer to Revelation's numbers: the shapes they make.
 
 ![](/images/numbers-shapes.en.svg)
 
-**What this site adds.** Two further observations are this site's own.
+**What this site adds: the claim and the truth.** The following observation is this site's own; where a commentator reads a passage the same way, he is named.
 
-*How it is.* Build the beast's figure on God's 1225 instead of on 36, and you get 750,925 — 666 is less than a thousandth of it. If God's side stood 2 m tall, the beast's would be under 2 mm: a parody of power, not a rival.
+*The claim — slightly bigger than God.* Satan presents himself as just a little greater than God:
+
+- In chapter 17 the beast is {{% bible val="an eighth" link="rev:17,11" lang="en" %}} — eight against God's seven, one step beyond completeness, as if he could outdo God's own creation.
+- Daniel's {{% bible val="1290 days" link="dan:12,11" lang="en" %}} of the abomination run just past the church's 1260, and the beast's next square, 1296, sits just above God's 1225.
+- The Lamb has {{% bible val="seven horns" link="rev:5,6" lang="en" %}}; the dragon and the beast show {{% bible val="ten" link="rev:13,1" lang="en" %}}. The dragon wears seven crowns, the beast ten ({{% bible val="12:3" link="rev:12,3" lang="en" %}}; {{% bible val="13:1" link="rev:13,1" lang="en" %}}) — "false claims of sovereign, universal authority", as Beale puts it (pp. 635, 684).
+- The first rider comes on a white horse, crowned and {{% bible val="conquering" link="rev:6,2" lang="en" %}}; the beast survives its mortal wound and works {{% bible val="great signs" link="rev:13,3-13" lang="en" %}} — on the face of it, a better offer than God's.
+- Babylon boasts: {{% bible val="I sit enthroned as queen… I will never mourn" link="rev:18,7" lang="en" %}}; and Gog and Magog gather an army {{% bible val="like the sand on the seashore" link="rev:20,8" lang="en" %}} — the very image of the countless people God promised Abraham.
+
+![](/images/numbers-claim.en.svg)
+
+*The truth — significantly smaller.* Chapter 13 corrects the claim: his number is {{% bible val="666" link="rev:13,18" lang="en" %}} — six, six, six, short of seven at every place (Beale, p. 64). Drawn to scale, his figure is less than a thousandth of God's. And every claim collapses:
+
+- The white rider is followed by war, hunger and the pale horse of death ({{% bible val="6:4–8" link="rev:6,4-8" lang="en" %}}); the fifth seal shows the cost — the souls of those who were killed ({{% bible val="6:9–11" link="rev:6,9-11" lang="en" %}}).
+- The ten horns are kings who reign {{% bible val="for one hour" link="rev:17,12" lang="en" %}}, and the Lamb conquers them, {{% bible val="for he is Lord of lords and King of kings" link="rev:17,14" lang="en" %}}. Against seven and ten crowns stands the rider with {{% bible val="many crowns" link="rev:19,12" lang="en" %}}.
+- The queen who would never mourn is judged {{% bible val="in one hour" link="rev:18,10" lang="en" %}}; the army like the sand is consumed by {{% bible val="fire from heaven" link="rev:20,9" lang="en" %}} without a battle.
+- The devil can throw the faithful into prison for {{% bible val="ten days" link="rev:2,10" lang="en" %}} — a short, limited time (Beale, p. 243); those faithful unto death {{% bible val="reign with Christ a thousand years" link="rev:20,4" lang="en" %}}. He knows {{% bible val="his time is short" link="rev:12,12" lang="en" %}}; they reign {{% bible val="for ever and ever" link="rev:22,5" lang="en" %}}.
 
 ![](/images/numbers-scale.en.svg)
 
-*How it looks.* The beast's next numbers, 1296 (36 × 36) and 1332 (36 × 37), sit just above God's 1225 and 1260 — so the beast always seems a little bigger than it is. Early Christians did play this game: the *Ascension of Isaiah* gives the Antichrist's reign as 1332 days, a number tied to 666 (Bauckham, *Climax of Prophecy*, p. 403).
-
-![](/images/numbers-appear.en.svg)
-
-**How far this holds.** The arithmetic is exact. Bauckham's part is a scholarly argument that John meant it. The two pictures are illustrations: their size depends on the figure chosen — comparing 1225 with 36 directly gives only 34 to 1 — so they are offered not as a hidden code but as a picture of what Revelation says in words: the dragon's power is real, but tiny beside God's, and only looks a little larger than it is.
+**How far this holds.** The arithmetic is exact. Bauckham's part is a scholarly argument that John meant it, and early Christians did play this game: the *Ascension of Isaiah* gives the Antichrist 1332 days, the rectangle tied to 666 (Bauckham, *Climax of Prophecy*, p. 403). The pattern of claim and truth rests on the text itself — the crowns, the horns, the one hour, the fire — and Beale reads the beast's crowns as false claims to Christ's kingship. The number pairs and the picture to scale are this site's illustration of it; their size depends on the figure chosen, so they are offered not as a hidden code but as a picture of what Revelation says in words: Satan tries to look slightly bigger than God, and is shown to be significantly smaller.

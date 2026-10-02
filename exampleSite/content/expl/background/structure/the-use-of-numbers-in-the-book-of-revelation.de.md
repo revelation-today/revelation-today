@@ -115,14 +115,25 @@ Revelations Zahlen haben noch eine weitere Schicht: die Formen, die sie bilden.
 
 ![](/images/numbers-shapes.de.svg)
 
-**Was diese Seite hinzufügt.** Zwei weitere Beobachtungen sind eigene dieser Seite.
+**Was diese Seite hinzufügt: Anspruch und Wirklichkeit.** Die folgende Beobachtung ist eine eigene dieser Seite; wo ein Ausleger eine Stelle ebenso liest, wird er genannt.
 
-*Wie es ist.* Baut man die Figur des Tieres auf Gottes 1225 statt auf 36, erhält man 750.925 — 666 ist weniger als ein Tausendstel davon. Wäre Gottes Seite 2 m groß, wäre die des Tieres kleiner als 2 mm: eine Parodie von Macht, kein Rivale.
+*Der Anspruch — etwas größer als Gott.* Satan stellt sich als ein wenig größer dar als Gott:
+
+- In Kapitel 17 ist das Tier {{% bible val="ein achter" link="rev:17,11" lang="de" %}} — acht gegen Gottes Sieben, einen Schritt über die Vollkommenheit hinaus, als könnte er Gottes eigene Schöpfung übertreffen.
+- Daniels {{% bible val="1290 Tage" link="dan:12,11" lang="de" %}} des Gräuels reichen knapp über die 1260 Tage der Gemeinde hinaus, und das nächste Quadrat des Tieres, 1296, liegt knapp über Gottes 1225.
+- Das Lamm hat {{% bible val="sieben Hörner" link="rev:5,6" lang="de" %}}; der Drache und das Tier zeigen {{% bible val="zehn" link="rev:13,1" lang="de" %}}. Der Drache trägt sieben Kronen, das Tier zehn ({{% bible val="12,3" link="rev:12,3" lang="de" %}}; {{% bible val="13,1" link="rev:13,1" lang="de" %}}) — „falsche Ansprüche auf souveräne, universale Herrschaft“, wie Beale es nennt (S. 635, 684).
+- Der erste Reiter kommt auf einem weißen Pferd, gekrönt und {{% bible val="siegend" link="rev:6,2" lang="de" %}}; das Tier überlebt seine Todeswunde und tut {{% bible val="große Zeichen" link="rev:13,3-13" lang="de" %}} — auf den ersten Blick ein besseres Angebot als das Gottes.
+- Babylon prahlt: {{% bible val="Ich throne als Königin … Trauer werde ich nicht sehen" link="rev:18,7" lang="de" %}}; und Gog und Magog sammeln ein Heer {{% bible val="wie der Sand am Meer" link="rev:20,8" lang="de" %}} — genau das Bild des unzählbaren Volkes, das Gott Abraham verheißen hat.
+
+![](/images/numbers-claim.de.svg)
+
+*Die Wirklichkeit — deutlich kleiner.* Kapitel 13 berichtigt den Anspruch: Seine Zahl ist {{% bible val="666" link="rev:13,18" lang="de" %}} — sechs, sechs, sechs, an jeder Stelle unter der Sieben (Beale, S. 64). Maßstabsgetreu gezeichnet ist seine Figur weniger als ein Tausendstel der Gottes. Und jeder Anspruch bricht zusammen:
+
+- Auf den weißen Reiter folgen Krieg, Hunger und das fahle Pferd des Todes ({{% bible val="6,4–8" link="rev:6,4-8" lang="de" %}}); das fünfte Siegel zeigt den Preis — die Seelen derer, die getötet wurden ({{% bible val="6,9–11" link="rev:6,9-11" lang="de" %}}).
+- Die zehn Hörner sind Könige, die {{% bible val="eine Stunde lang" link="rev:17,12" lang="de" %}} herrschen, und das Lamm besiegt sie, {{% bible val="denn er ist der Herr der Herren und der König der Könige" link="rev:17,14" lang="de" %}}. Den sieben und zehn Kronen steht der Reiter mit {{% bible val="vielen Kronen" link="rev:19,12" lang="de" %}} gegenüber.
+- Die Königin, die nie trauern wollte, wird {{% bible val="in einer Stunde" link="rev:18,10" lang="de" %}} gerichtet; das Heer wie Sand wird von {{% bible val="Feuer vom Himmel" link="rev:20,9" lang="de" %}} verzehrt, ohne Schlacht.
+- Der Teufel kann die Treuen für {{% bible val="zehn Tage" link="rev:2,10" lang="de" %}} ins Gefängnis werfen — eine kurze, begrenzte Zeit (Beale, S. 243); die treu bis in den Tod sind, {{% bible val="herrschen mit Christus tausend Jahre" link="rev:20,4" lang="de" %}}. Er weiß, dass {{% bible val="er wenig Zeit hat" link="rev:12,12" lang="de" %}}; sie herrschen {{% bible val="von Ewigkeit zu Ewigkeit" link="rev:22,5" lang="de" %}}.
 
 ![](/images/numbers-scale.de.svg)
 
-*Wie es aussieht.* Die nächsten Zahlen des Tieres, 1296 (36 × 36) und 1332 (36 × 37), liegen knapp über Gottes 1225 und 1260 — darum wirkt das Tier immer ein wenig größer, als es ist. Frühe Christen haben dieses Spiel tatsächlich gespielt: Die *Himmelfahrt des Jesaja* gibt die Herrschaft des Antichristen mit 1332 Tagen an, einer Zahl, die mit 666 verbunden ist (Bauckham, *Climax of Prophecy*, S. 403).
-
-![](/images/numbers-appear.de.svg)
-
-**Wie weit das trägt.** Die Rechnung stimmt genau. Bauckhams Teil ist ein wissenschaftliches Argument dafür, dass Johannes es so gemeint hat. Die beiden Bilder sind Veranschaulichungen: Ihre Größe hängt von der gewählten Figur ab — vergleicht man 1225 direkt mit 36, ergibt sich nur 34 zu 1 —, deshalb sind sie nicht als versteckter Code gemeint, sondern als Bild dessen, was die Offenbarung mit Worten sagt: Die Macht des Drachen ist echt, aber winzig neben der Gottes, und sie wirkt nur ein wenig größer, als sie ist.
+**Wie weit das trägt.** Die Rechnung stimmt genau. Bauckhams Teil ist ein wissenschaftliches Argument dafür, dass Johannes es so gemeint hat, und frühe Christen haben dieses Spiel tatsächlich gespielt: Die *Himmelfahrt des Jesaja* gibt dem Antichristen 1332 Tage, das mit 666 verbundene Rechteck (Bauckham, *Climax of Prophecy*, S. 403). Das Muster von Anspruch und Wirklichkeit beruht auf dem Text selbst — die Kronen, die Hörner, die eine Stunde, das Feuer —, und Beale liest die Kronen des Tieres als falsche Ansprüche auf Christi Königtum. Die Zahlenpaare und das maßstabsgetreue Bild sind die Veranschaulichung dieser Seite; ihre Größe hängt von der gewählten Figur ab, deshalb sind sie nicht als versteckter Code gemeint, sondern als Bild dessen, was die Offenbarung mit Worten sagt: Satan versucht, etwas größer als Gott zu wirken, und wird als deutlich kleiner gezeigt.
