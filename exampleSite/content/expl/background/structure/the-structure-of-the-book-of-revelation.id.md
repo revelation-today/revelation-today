@@ -17,6 +17,10 @@ sources:
       ref: bauckham_climax
     - pages: 12
       ref: bauckham_rev
+    - pages: 261–263
+      ref: bauckham_climax
+    - pages: 84, 87
+      ref: bauckham_rev
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
@@ -55,7 +59,7 @@ Rangkaian ini disela dalam pasal 7 oleh {{% int_link val="pengumpulan bala tenta
 <a name="d06e"></a>
 {{% int_link val="Sangkakala-sangkakala" link="/expl/content/trumpets/the-trumpets-in-revelation" %}} itu menjawab doa-doa kita, tetapi dengan sebuah kejutan yang mengherankan. Kita mungkin mengharapkan doa-doa kita membawa penghiburan dan damai; sebaliknya, yang terjadi justru kebalikannya. Sangkakala-sangkakala itu mengambil penyediaan kebutuhan dan keamanan, dan akhirnya hidup itu sendiri, sehingga setiap orang sampai pada kesadaran bahwa hanya Allah yang menjadi sumber sejati penyediaan dan keamanan.
 
-Tetapi orang-orang menolak menerima pelajaran itu, sehingga Yohanes dipanggil {{% int_link val="sekali lagi untuk bernubuat dan bersaksi" link="/expl/content/scroll/the-little-scroll" %}}. Sebelum sangkakala ketujuh berbunyi, rahasia bait Allah disingkapkan, dan {{% int_link val="kedua saksi itu dinyatakan" link="/expl/content/witnesses/the-two-witnesses" %}}.
+Tetapi orang-orang menolak menerima pelajaran itu, sehingga Yohanes dipanggil {{% int_link val="sekali lagi untuk bernubuat dan bersaksi" link="/expl/content/scroll/the-little-scroll" %}}. Sebelum sangkakala ketujuh berbunyi, masih ada satu hal yang harus diperlihatkan: bait Allah dan {{% int_link val="kedua saksi" link="/expl/content/witnesses/the-two-witnesses" %}} dalam pasal 11. Dengan sangkakala itu rahasia Allah digenapi (10:7): rahasia tentang bagaimana kerajaan-Nya datang. Kerajaan itu datang bukan dengan menghukum dunia, melainkan dengan memenangkannya. Kesaksian umat-Nya, yang tetap dipertahankan sekalipun harus dibayar dengan segalanya, menyingkapkan janji palsu itu dan membawa kepada Allah justru orang-orang yang sebelumnya menganiaya mereka (11:13).[^mystery]
 
 Setelah itu, {{% int_link val="kisah kemenangan Yesus atas iblis sebagai saksi yang sejati ditunjukkan" link="/expl/content/jesus/a-different-christmas-story" %}}, disusul dengan {{% int_link val="penyingkapan iblis dan antek-anteknya sebagai sebuah tipu daya yang gagal" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
@@ -112,3 +116,5 @@ Hal yang sama berlaku untuk pasal-pasal terakhir. Beale menyusun pasal 17–22 s
 Seribu tahun itu berdiri di tengah, dibingkai oleh dua pertempuran yang diambil dari nubuat yang sama dalam Yehezkiel 38–39. Jika dibaca demikian, pasal 20 tidak datang sesudah pasal 19 secara waktu; pasal itu mundur selangkah dan menunjukkan zaman yang sama dari sisi lain. → {{% int_link val="Kerajaan seribu tahun" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="pra-, pasca-, dan amilenialisme" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preteris, historisis, futuris, atau idealis?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
 
 [^ring]: Beale, hlm. 226–227.
+
+[^mystery]: Bauckham, *Climax*, hlm. 261–263, dan *Theology*, hlm. 84, 87. Beale memahami rahasia itu sebagai ketetapan Allah bahwa umat-Nya menderita sebelum para penganiaya mereka dihakimi (hlm. 541–543).

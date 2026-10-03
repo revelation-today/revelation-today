@@ -17,6 +17,10 @@ sources:
       ref: bauckham_climax
     - pages: 12
       ref: bauckham_rev
+    - pages: 261–263
+      ref: bauckham_climax
+    - pages: 84, 87
+      ref: bauckham_rev
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
@@ -55,7 +59,7 @@ Bu dizi, 7. bölümde Tanrı'nın {{% int_link val="ordusunu toplamasıyla" link
 <a name="ee89"></a>
 {{% int_link val="Borazanlar" link="/expl/content/trumpets/the-trumpets-in-revelation" %}} dualarımıza yanıt verir, ama şaşırtıcı bir dönüşle. Dualarımızın rahatlık ve esenlik getirmesini bekleriz; bunun yerine tam tersi olur. Borazanlar sağlayışı ve güvenliği, sonunda da yaşamın kendisini elimizden alır; böylece herkes gerçek sağlayış ve güvenlik kaynağının yalnızca Tanrı olduğunu fark eder.
 
-Ama insanlar bu dersi kabul etmeyi reddeder, bu yüzden Yuhanna bir kez daha {{% int_link val="peygamberlik etmeye ve tanıklık etmeye" link="/expl/content/scroll/the-little-scroll" %}} çağrılır. Yedinci borazan çalınmadan önce, tapınağın sırrı açığa çıkar ve {{% int_link val="iki tanık ortaya çıkarılır" link="/expl/content/witnesses/the-two-witnesses" %}}.
+Ama insanlar bu dersi kabul etmeyi reddeder, bu yüzden Yuhanna bir kez daha {{% int_link val="peygamberlik etmeye ve tanıklık etmeye" link="/expl/content/scroll/the-little-scroll" %}} çağrılır. Yedinci borazan çalınmadan önce gösterilmesi gereken bir şey daha vardır: 11. bölümdeki tapınak ve {{% int_link val="iki tanık" link="/expl/content/witnesses/the-two-witnesses" %}}. O borazanla Tanrı'nın sırrı tamamlanır (10:7): egemenliğinin nasıl geldiğinin sırrı. Egemenlik dünyayı cezalandırarak değil, onu kazanarak gelir. Halkının, her şeye mal olsa bile sürdürdüğü tanıklığı sahte vaadi açığa çıkarır ve daha önce onlara zulmedenleri Tanrı'ya getirir (11:13).[^mystery]
 
 Bundan sonra, {{% int_link val="İsa'nın gerçek tanık olarak şeytana karşı kazandığı zaferin öyküsü gösterilir" link="/expl/content/jesus/a-different-christmas-story" %}}, ardından {{% int_link val="şeytanın ve onun uşaklarının başarısız bir aldatmaca olarak sunulması" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} gelir.
 
@@ -112,3 +116,5 @@ Aynısı son bölümler için de geçerlidir. Beale 17–22. bölümleri bir kia
 Bin yıl ortada durur ve Hezekiel 38–39'daki aynı peygamberlikten alınmış iki savaşla çerçevelenir. Böyle okunduğunda 20. bölüm zaman bakımından 19. bölümden sonra gelmez; bir adım geri çekilir ve aynı çağı başka bir yönden gösterir. → {{% int_link val="Bin yıllık krallık" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="bin yıl öncesi, sonrası ve amilenyalizm" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preterist, historisist, fütürist ya da idealist?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
 
 [^ring]: Beale, s. 226–227.
+
+[^mystery]: Bauckham, *Climax*, s. 261–263 ve *Theology*, s. 84, 87. Beale bu sırrı, Tanrı'nın halkının, zulmedenleri yargılanmadan önce acı çekmesine dair buyruğu olarak anlar (s. 541–543).

@@ -17,6 +17,10 @@ sources:
       ref: bauckham_climax
     - pages: 12
       ref: bauckham_rev
+    - pages: 261–263
+      ref: bauckham_climax
+    - pages: 84, 87
+      ref: bauckham_rev
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
@@ -55,7 +59,7 @@ This series is interrupted in chapter 7 by God {{% int_link val="gathering his a
 <a name="c56a"></a>
 The {{% int_link val="trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}} answer our prayers, but with a surprising twist. We might expect our prayers to bring comfort and peace; instead, the opposite happens. The trumpets strip away provision and security, and eventually life itself, so that everyone comes to realize that God alone is the true source of provision and security.
 
-But people refuse to accept that lesson, so John is called {{% int_link val="once more to prophesy and to bear witness" link="/expl/content/scroll/the-little-scroll" %}}. Before the seventh trumpet sounds, the mystery of the temple is unveiled, and the {{% int_link val="two witnesses are revealed" link="/expl/content/witnesses/the-two-witnesses" %}}.
+But people refuse to accept that lesson, so John is called {{% int_link val="once more to prophesy and to bear witness" link="/expl/content/scroll/the-little-scroll" %}}. Before the seventh trumpet sounds, one thing still has to be shown: the temple and the {{% int_link val="two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}} of chapter 11. With that trumpet the mystery of God is completed (10:7): the secret of how his kingdom comes. It does not come by punishing the world but by winning it. The testimony of his people, kept up even when it costs them everything, exposes the false promise and brings to God the very people who persecuted them (11:13).[^mystery]
 
 After that, {{% int_link val="the story of Jesus's victory over the devil as the true witness is shown" link="/expl/content/jesus/a-different-christmas-story" %}}, followed in turn by {{% int_link val="the presentation of the devil and his minions as a failed deception" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
@@ -112,3 +116,5 @@ The same holds for the last chapters. Beale sets out chapters 17–22 as a chias
 The thousand years stand at the centre, framed by two battles drawn from the same prophecy in Ezekiel 38–39. Read this way, chapter 20 does not come after chapter 19 in time; it steps back and shows the same age from another side. → {{% int_link val="The thousand-year kingdom" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="pre-, post- and amillennialism" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preterist, historicist, futurist or idealist?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
 
 [^ring]: Beale, pp. 226–227.
+
+[^mystery]: Bauckham, *Climax*, pp. 261–263, and *Theology*, pp. 84, 87. Beale reads the mystery as God's decree that his people suffer before their persecutors are judged (pp. 541–543).

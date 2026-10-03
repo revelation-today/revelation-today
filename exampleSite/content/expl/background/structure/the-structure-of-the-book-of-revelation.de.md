@@ -17,6 +17,10 @@ sources:
       ref: bauckham_climax
     - pages: 12
       ref: bauckham_rev
+    - pages: 261–263
+      ref: bauckham_climax
+    - pages: 84, 87
+      ref: bauckham_rev
 prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
@@ -55,7 +59,7 @@ Diese Reihe wird in Kapitel 7 dadurch unterbrochen, dass Gott {{% int_link val="
 <a name="d06e"></a>
 Die {{% int_link val="Posaunen" link="/expl/content/trumpets/the-trumpets-in-revelation" %}} beantworten unsere Gebete — allerdings auf überraschende Weise. Man würde erwarten, dass unsere Gebete Trost und Frieden bringen; stattdessen geschieht das Gegenteil. Die Posaunen entziehen Versorgung und Sicherheit und schließlich sogar das Leben selbst, damit am Ende jeder erkennt, dass Gott allein die wahre Quelle von Versorgung und Sicherheit ist.
 
-Doch die Menschen weigern sich, diese Lehre anzunehmen, und so wird Johannes berufen, {{% int_link val="noch einmal zu prophezeien und Zeugnis zu geben" link="/expl/content/scroll/the-little-scroll" %}}. Bevor die siebte Posaune ertönt, wird das Geheimnis des Tempels enthüllt, und {{% int_link val="die beiden Zeugen treten auf" link="/expl/content/witnesses/the-two-witnesses" %}}.
+Doch die Menschen weigern sich, diese Lehre anzunehmen, und so wird Johannes berufen, {{% int_link val="noch einmal zu prophezeien und Zeugnis zu geben" link="/expl/content/scroll/the-little-scroll" %}}. Bevor die siebte Posaune ertönt, muss noch eines gezeigt werden: der Tempel und {{% int_link val="die beiden Zeugen" link="/expl/content/witnesses/the-two-witnesses" %}} aus Kapitel 11. Mit dieser Posaune wird das Geheimnis Gottes vollendet (10,7): das Geheimnis, wie sein Reich kommt. Es kommt nicht dadurch, dass die Welt bestraft, sondern dadurch, dass sie gewonnen wird. Das Zeugnis seines Volkes, das es durchhält, auch wenn es alles kostet, entlarvt das falsche Versprechen und führt gerade die zu Gott, die es zuvor verfolgt haben (11,13).[^mystery]
 
 Danach wird {{% int_link val="die Geschichte von Jesu Sieg über den Teufel als der wahre Zeuge gezeigt" link="/expl/content/jesus/a-different-christmas-story" %}}, gefolgt von {{% int_link val="der Darstellung des Teufels und seiner Gehilfen als gescheiterte Täuschung" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
@@ -112,3 +116,5 @@ Dasselbe gilt für die letzten Kapitel. Beale stellt die Kapitel 17–22 als Chi
 Die tausend Jahre stehen in der Mitte, eingerahmt von zwei Schlachten, die aus derselben Prophetie in Hesekiel 38–39 stammen. So gelesen kommt Kapitel 20 zeitlich nicht nach Kapitel 19; es tritt einen Schritt zurück und zeigt dieselbe Zeit von einer anderen Seite. → {{% int_link val="Das Tausendjährige Reich" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="Prä-, Post- und Amillennialismus" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="präteristisch, historisch, futuristisch oder idealistisch?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
 
 [^ring]: Beale, S. 226–227.
+
+[^mystery]: Bauckham, *Climax*, S. 261–263, und *Theology*, S. 84, 87. Beale versteht das Geheimnis als Gottes Ratschluss, dass sein Volk leidet, bevor seine Verfolger gerichtet werden (S. 541–543).
