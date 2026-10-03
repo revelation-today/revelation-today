@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 27–37
       ref: sarna_exo
+    - pages: "vol. 10: 438–439"
+      ref: tdot
 ---
 
 Kisah Musa bertentangan dengan pola setiap kisah kepahlawanan yang dikenal di dunia kuno — namun tetap menjadi sebuah kisah sukses.

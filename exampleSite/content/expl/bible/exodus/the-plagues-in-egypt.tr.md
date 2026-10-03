@@ -21,6 +21,8 @@ sources:
       ref: tdot
     - pages: 277–278
       ref: bauckham_climax
+    - pages: "vol. 5: 360"
+      ref: tdot
 ---
 
 Bu, muhtemelen Pazar okulunda duyduğunuz bir öykü, ama içinde daha önce hiç duymamış olabileceğiniz çok daha fazlası var.

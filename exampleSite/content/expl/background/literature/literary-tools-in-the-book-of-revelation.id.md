@@ -18,6 +18,8 @@ sources:
       ref: dorsey
     - pages: 24
       ref: beale_rev
+    - pages: 25
+      ref: dorsey
 prev: /expl/background/literature/full-of-biblical-references
 next: /expl/background/structure/the-structure-of-the-book-of-revelation
 docType: expl

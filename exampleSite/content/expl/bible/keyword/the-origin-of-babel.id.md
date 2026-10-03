@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 90–91, 334, 922
       ref: beale_rev
+    - pages: 20, 103
+      ref: brueggemann_gen
 ---
 
 Kisah Menara Babel, kisah nabi Daniel, dan Kitab Wahyu ternyata saling berkaitan. Berikut penjelasannya.

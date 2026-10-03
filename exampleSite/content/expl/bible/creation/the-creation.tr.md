@@ -14,6 +14,8 @@ sources:
       ref: tdot
     - pages: 414
       ref: beale_rev
+    - pages: 50, 60
+      ref: brueggemann_gen
 ---
 
 Kutsal Kitap'ın sonunu anlamak için önce başlangıcını anlamak gerekir. Düşüş öyküsündeki yaşam ağacının ve Kabil'e verilen işaretin, ikisinin de Vahiy kitabında yeniden karşımıza çıktığını biliyor muydunuz?

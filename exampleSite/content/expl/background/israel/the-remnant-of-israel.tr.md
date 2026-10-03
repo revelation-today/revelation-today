@@ -10,6 +10,8 @@ sources:
       ref: beale_rev
     - pages: 658–669
       ref: beale_theo
+    - pages: "vol. 15: 509"
+      ref: tdot
 prev: /expl/background/israel/the-day-of-the-lord
 next: /expl/background/israel/jesus-and-the-covenant
 docType: expl

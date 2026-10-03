@@ -10,6 +10,8 @@ sources:
       ref: bauckham_rev
     - pages: 327
       ref: bauckham_climax
+    - pages: "vol. 1: 211"
+      ref: tdot
 prev: /expl/background/israel/the-second-exodus
 next: /expl/background/israel/israel-and-the-church
 docType: expl
@@ -124,7 +126,7 @@ Anda mungkin sudah mengetahui bahwa {{% bible val="nubuat Yoel" link="jol:2,28-3
 
 Nubuat Yoel menggambarkan pemulihan Israel mulai dari {{% bible val="ayat 18" link="jol:2,18" lang="ind" %}} dan seterusnya, dan khususnya {{% bible val="ayat tepat sesudahnya, yang secara eksplisit merujuk kepada Israel" link="jol:3,1" lang="ind" %}}. Lebih dari itu, pencurahan Roh hanya dijanjikan kepada {{% bible val="Israel" link="ezk:36,27" lang="ind" %}} dan kepada {{% bible val="sang hamba" link="isa:42,1" lang="ind" %}} — tidak pernah secara langsung kepada bangsa-bangsa lain.
 
-Pencurahan itu akan terjadi {{% bible val="pada hari-hari terakhir" link="act:2,17" lang="ind" %}}, sebuah ungkapan yang dipakai dengan makna persis seperti itu hanya dalam {{% bible val="Yesaya" link="isa:2,2" lang="ind" %}}, di mana ungkapan itu menggambarkan bangsa-bangsa yang mengalir menuju Yerusalem. {{% bible val="Bangsa-bangsa yang disebutkan" link="act:2,5-11" lang="ind" %}} pada hari Pentakosta merupakan {{% bible val="versi yang lebih kecil dari daftar bangsa-bangsa yang tercerai-berai pada peristiwa Menara Babel" link="gen:10" lang="ind" %}}, menunjukkan bahwa apa yang terjadi di sini dimaksudkan untuk berlaku bagi segala bangsa.
+Pencurahan itu akan terjadi {{% bible val="pada hari-hari terakhir" link="act:2,17" lang="ind" %}}, sebuah ungkapan yang dipakai dengan makna persis seperti itu dalam {{% bible val="Yesaya" link="isa:2,2" lang="ind" %}} dan dalam nubuat yang sama di Mikha 4:1, di mana ungkapan itu menggambarkan bangsa-bangsa yang mengalir menuju Yerusalem. {{% bible val="Bangsa-bangsa yang disebutkan" link="act:2,5-11" lang="ind" %}} pada hari Pentakosta merupakan {{% bible val="versi yang lebih kecil dari daftar bangsa-bangsa yang tercerai-berai pada peristiwa Menara Babel" link="gen:10" lang="ind" %}}, menunjukkan bahwa apa yang terjadi di sini dimaksudkan untuk berlaku bagi segala bangsa.
 
 Hal itu dikukuhkan ketika {{% bible val="Kornelius dan seisi rumahnya menerima Roh Kudus" link="act:10,44-48" lang="ind" %}} — sebuah peristiwa yang begitu {{% bible val="menakjubkan sehingga tidak seorang pun mengajukan keberatan atas masuknya Petrus ke rumah seorang bukan Yahudi" link="act:11,1-18" lang="ind" %}}.
 

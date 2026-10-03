@@ -21,6 +21,8 @@ sources:
       ref: tdot
     - pages: 277–278
       ref: bauckham_climax
+    - pages: "vol. 5: 360"
+      ref: tdot
 ---
 
 This is a story you likely heard in Sunday School, but there is much more to discover in it than you may have heard before.

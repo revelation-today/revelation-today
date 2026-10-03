@@ -5,6 +5,9 @@ base: /quick/bible/creation
 prev: /expl/bible/exodus/the-story-before-the-exodus
 next: /expl/bible/exodus/the-hardening-of-pharaohs-heart
 docType: expl
+sources:
+    - pages: "vol. 10: 438–439"
+      ref: tdot
 ---
 
 Musa’nın öyküsü, antik dünyada bilinen her kahramanlık hikayesinin senaryosuna aykırı işler — ve yine de bir başarı öyküsüdür.

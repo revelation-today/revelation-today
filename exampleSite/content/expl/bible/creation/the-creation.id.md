@@ -14,6 +14,8 @@ sources:
       ref: tdot
     - pages: 414
       ref: beale_rev
+    - pages: 50, 60
+      ref: brueggemann_gen
 ---
 
 Untuk memahami akhir Alkitab, kita perlu memahami permulaannya. Tahukah Anda bahwa pohon kehidupan dari kisah kejatuhan, dan tanda yang diberikan kepada Kain, keduanya muncul kembali dalam Kitab Wahyu?

@@ -10,6 +10,8 @@ sources:
       ref: bauckham_rev
     - pages: 327
       ref: bauckham_climax
+    - pages: "vol. 1: 211"
+      ref: tdot
 prev: /expl/background/israel/the-second-exodus
 next: /expl/background/israel/israel-and-the-church
 docType: expl
@@ -124,7 +126,7 @@ Du kennst vielleicht schon die {{% bible val="Prophetie Joels" link="jol:2,27-32
 
 Joels Prophetie beschreibt die Wiederherstellung Israels ab {{% bible val="Vers 18" link="jol:2,18" lang="de" %}} und besonders ab dem {{% bible val="darauffolgenden Vers, der ausdrücklich von Israel spricht" link="jol:3,1" lang="de" %}}. Mehr noch: Die Ausgießung des Geistes war nur {{% bible val="Israel" link="ezk:36,27" lang="de" %}} und dem {{% bible val="Knecht" link="isa:42,1" lang="de" %}} verheißen — niemals direkt den Nationen.
 
-Die Ausgießung sollte {{% bible val="in den letzten Tagen" link="act:2,17" lang="de" %}} geschehen, ein Ausdruck, der genau in diesem Sinn nur bei {{% bible val="Jesaja" link="isa:2,2" lang="de" %}} verwendet wird, wo er beschreibt, wie die Nationen nach Jerusalem strömen. Die {{% bible val="an Pfingsten aufgezählten Nationen" link="act:2,5-11" lang="de" %}} sind eine kleinere Version der {{% bible val="verstreuten Liste vom Turmbau zu Babel" link="gen:10" lang="de" %}}, was zeigt, dass das Geschehen hier für alle Nationen gilt.
+Die Ausgießung sollte {{% bible val="in den letzten Tagen" link="act:2,17" lang="de" %}} geschehen, ein Ausdruck, der genau in diesem Sinn bei {{% bible val="Jesaja" link="isa:2,2" lang="de" %}} und im selben Spruch in Micha 4,1 verwendet wird, wo er beschreibt, wie die Nationen nach Jerusalem strömen. Die {{% bible val="an Pfingsten aufgezählten Nationen" link="act:2,5-11" lang="de" %}} sind eine kleinere Version der {{% bible val="verstreuten Liste vom Turmbau zu Babel" link="gen:10" lang="de" %}}, was zeigt, dass das Geschehen hier für alle Nationen gilt.
 
 Das wird bestätigt, als {{% bible val="Kornelius und sein Haus den Heiligen Geist empfangen" link="act:10,44-48" lang="de" %}} — ein Ereignis, das so {{% bible val="erstaunlich war, dass niemand Einwände erhob, als Petrus das Haus eines Heiden betrat" link="act:11,1-18" lang="de" %}}.
 

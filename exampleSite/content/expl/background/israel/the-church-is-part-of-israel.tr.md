@@ -10,6 +10,8 @@ sources:
       ref: bauckham_rev
     - pages: 327
       ref: bauckham_climax
+    - pages: "vol. 1: 211"
+      ref: tdot
 prev: /expl/background/israel/the-second-exodus
 next: /expl/background/israel/israel-and-the-church
 docType: expl
@@ -124,7 +126,7 @@ Ruh'un dökülüşüyle ilgili {{% bible val="Yoel'in peygamberlik sözünün" l
 
 Yoel'in peygamberlik sözü, {{% bible val="18. ayetten" link="jol:2,18" lang="tr" %}} itibaren İsrail'in restorasyonunu anlatır, özellikle de {{% bible val="hemen ardından gelen ve açıkça İsrail'e atıfta bulunan ayeti" link="jol:3,1" lang="tr" %}}. Dahası, Ruh'un dökülmesi yalnızca {{% bible val="İsrail'e" link="ezk:36,27" lang="tr" %}} ve {{% bible val="hizmetkâra" link="isa:42,1" lang="tr" %}} vaat edilmiştir — hiçbir zaman doğrudan uluslara değil.
 
-Bu dökülme {{% bible val="son günlerde" link="act:2,16-17" lang="tr" %}} gerçekleşecekti; bu ifade tam olarak bu anlamda yalnızca {{% bible val="Yeşaya'da" link="isa:2,2" lang="tr" %}}, ulusların Yeruşalim'e akın etmesini anlatırken kullanılır. Pentikost'ta {{% bible val="sayılan uluslar" link="act:2,5-11" lang="tr" %}}, {{% bible val="Babil Kulesi'nden dağılan listenin daha küçük bir versiyonudur" link="gen:10" lang="tr" %}}; bu da burada olanın tüm uluslara uygulanmak üzere tasarlandığını gösterir.
+Bu dökülme {{% bible val="son günlerde" link="act:2,16-17" lang="tr" %}} gerçekleşecekti; bu ifade tam olarak bu anlamda {{% bible val="Yeşaya'da" link="isa:2,2" lang="tr" %}} ve aynı bildiride Mika 4:1'de, ulusların Yeruşalim'e akın etmesini anlatırken kullanılır. Pentikost'ta {{% bible val="sayılan uluslar" link="act:2,5-11" lang="tr" %}}, {{% bible val="Babil Kulesi'nden dağılan listenin daha küçük bir versiyonudur" link="gen:10" lang="tr" %}}; bu da burada olanın tüm uluslara uygulanmak üzere tasarlandığını gösterir.
 
 Bu, {{% bible val="Kornelius ve ev halkı Kutsal Ruh'u aldığında" link="act:10,44-48" lang="tr" %}} doğrulanır — bu öyle {{% bible val="şaşırtıcı bir olaydı ki, Petrus'un bir Yahudi olmayanın evine girmesine kimse itiraz etmedi" link="act:11,1-18" lang="tr" %}}.
 

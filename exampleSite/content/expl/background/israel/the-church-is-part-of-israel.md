@@ -10,6 +10,8 @@ sources:
       ref: bauckham_rev
     - pages: 327
       ref: bauckham_climax
+    - pages: "vol. 1: 211"
+      ref: tdot
 prev: /expl/background/israel/the-second-exodus
 next: /expl/background/israel/israel-and-the-church
 docType: expl
@@ -124,7 +126,7 @@ You may already know that the {{% bible val="prophecy of Joel" link="jol:2,28-32
 
 Joel's prophecy describes the restoration of Israel starting from {{% bible val="verse 18" link="jol:2,18" lang="en" %}} onward, and especially the {{% bible val="verse right after that, which refers explicitly to Israel" link="jol:3,1" lang="en" %}}. What's more, the outpouring of the Spirit was promised only to {{% bible val="Israel" link="ezk:36,27" lang="en" %}} and to the {{% bible val="servant" link="isa:42,1" lang="en" %}} — never to the nations directly.
 
-The outpouring was to take place {{% bible val="in the last days" link="act:2,17" lang="en" %}}, a phrase used in exactly that sense only in {{% bible val="Isaiah" link="isa:2,2" lang="en" %}}, where it describes the nations streaming to Jerusalem. The {{% bible val="nations listed" link="act:2,5-11" lang="en" %}} at Pentecost are a {{% bible val="smaller version of the scattered list from the Tower of Babel" link="gen:10" lang="en" %}}, showing that what happens here is meant to apply to all nations.
+The outpouring was to take place {{% bible val="in the last days" link="act:2,17" lang="en" %}}, a phrase used in exactly that sense in {{% bible val="Isaiah" link="isa:2,2" lang="en" %}} and in the same oracle in Micah 4:1, where it describes the nations streaming to Jerusalem. The {{% bible val="nations listed" link="act:2,5-11" lang="en" %}} at Pentecost are a {{% bible val="smaller version of the scattered list from the Tower of Babel" link="gen:10" lang="en" %}}, showing that what happens here is meant to apply to all nations.
 
 That is confirmed when {{% bible val="Cornelius and his household receive the Holy Spirit" link="act:10,44-48" lang="en" %}} — an event so {{% bible val="astonishing that no one raised any objection to Peter entering a Gentile house" link="act:11,1-18" lang="en" %}}.
 

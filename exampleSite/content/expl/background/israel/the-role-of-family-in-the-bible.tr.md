@@ -4,6 +4,8 @@ weight: 1
 sources:
     - pages: 21–46
       ref: richter
+    - pages: "vol. 1: 9"
+      ref: tdot
 prev: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 next: /expl/background/israel/gods-covenant
 docType: expl

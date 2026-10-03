@@ -11,6 +11,8 @@ sources:
       ref: beale_rev
     - pages: 21
       ref: beale_rev
+    - pages: 38, 259
+      ref: dorsey
 ---
 
 The book of Daniel seems to have two sides: the first six chapters read like a great example of faith, while the other six are full of strange visions that have become the seedbed for a lot of strange theology. But the two halves are not as disconnected as they first appear.

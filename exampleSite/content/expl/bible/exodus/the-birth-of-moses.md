@@ -5,6 +5,9 @@ base: /quick/bible/creation
 prev: /expl/bible/exodus/the-story-before-the-exodus
 next: /expl/bible/exodus/the-hardening-of-pharaohs-heart
 docType: expl
+sources:
+    - pages: "vol. 10: 438–439"
+      ref: tdot
 ---
 
 The story of Moses runs against the script of every hero story known in the ancient world — and yet it is a success story.
