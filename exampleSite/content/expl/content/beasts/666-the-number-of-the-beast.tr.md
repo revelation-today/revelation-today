@@ -64,7 +64,7 @@ Bu, dönen Nero efsanesini canlı tuttu. Artık Roma için gerçek bir tehdit ol
 
 Onun belirsiz sonu — gerçekten ölüp ölmediği — {{% bible val="ilk canavarın görünüşünü ona kusursuz biçimde benzetir" link="rev:13,3" lang="tr" %}}. {{% bible val="Altıncı kâse" link="rev:16,12" lang="tr" %}} de aynı yöne işaret ediyor olabilir, çünkü Partların bir saldırısını betimliyor olması pekâlâ mümkündür.
 
-## İmparator Trajan
+## Bir örnek: İmparator Trajan
 
 <a name="db4a"></a>
 Aynı örüntüyü kendi kuşağında gösteren daha sonraki bir figüre de değinmekte fayda var, iki nedenden ötürü:
@@ -72,10 +72,10 @@ Aynı örüntüyü kendi kuşağında gösteren daha sonraki bir figüre de değ
 - mektubun ilk okuyucularının yaşamı boyunca imparatordu (gerçi iktidara ancak MS 98'de geldi, Vahiy'in genellikle tarihlendirildiği Domitianus dönemi olan MS 95–96'dan birkaç yıl sonra), ve
 - {{% int_link val="canavarın çifte saldırısını yansıtır" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-Bu tanıma uyan kişi İmparator [Trajan](https://en.wikipedia.org/wiki/Trajan)'dır; o:
+Bunu en açık biçimde gösteren imparator Trajan'dır; o:
 
 - MS 98–117 arasında hüküm sürdü, yani mektubun yazılışından itibaren bir kuşak içinde,
-- Hristiyanlar uyum sağlamayı reddettiğinde onlara yönelik zulmü destekledi, ve yine de
+- Hristiyanların aranıp bulunmamasını, ama ihbar edilip kurban sunmayı reddederlerse cezalandırılmalarını buyurdu,[^pliny] ve yine de
 - [beş iyi imparatordan](https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty#Five_Good_Emperors) biri sayıldı: onun döneminde Roma İmparatorluğu en geniş sınırlarına ulaştı, kapsamlı bir [refah programı](https://en.wikipedia.org/wiki/Alimenta) kurdu, büyük [inşaat projeleri](https://en.wikipedia.org/wiki/Trajan#Building_projects) yürüttü ve [halk oyunlarına](https://en.wikipedia.org/wiki/Trajan#Games) büyük yatırım yaptı — bütün bunlar [Pax Romana'yı](https://en.wikipedia.org/wiki/Pax_Romana) somutlaştırıyordu.
 
 ## Daniel'in fırındaki arkadaşları
@@ -120,3 +120,5 @@ Eğer 666'nın vücuda yerleştirilmeyi bekleyen bir bilgisayar çipi olduğunu 
 - Sayısız sosyal medya kaydınız?
 
 [^frogs]: Beale, s. 833.
+
+[^pliny]: Genç Plinius, *Mektuplar* 10.96–97: Plinius'un Bitinya'dan sorusu ve Trajan'ın yanıtı, yaklaşık MS 112.

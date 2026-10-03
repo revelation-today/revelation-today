@@ -104,7 +104,7 @@ Ve şimdi {{% bible val="Tanrı'nın belalarına" link="ezk:14,12-23" lang="tr" 
 
 - İlk atlı vahşi hayvanları temsil eder, çünkü {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} {{% int_link val="iki canavarı çağırır" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve {{% bible val="aldatmayı" link="2co:11,14" lang="tr" %}} temsil eder — pek çok vaatte bulunur.
 - İkinci atlı kendisine verilen kılıcı temsil eder — 13. bölümdeki ilk canavar gibi, bu vaatlere inanmayan herkese saldırır.
-- Üçüncü atlı açlığı temsil eder, çünkü yoksullar onun altında acı çekecektir. Bu, uyumsuzlara ekonomik baskı uygulayarak onları yoksullaştırmak olarak da görülebilir — muhtemelen (kesin olmasa da) 13. bölümdeki ikinci canavarda yansıtılır, ki bu da birçok yorumcu tarafından {{% bible val="17. bölümdeki" link="rev:17" lang="tr" %}} fahişeyle ilişkilendirilir.
+- Üçüncü atlı açlığı temsil eder, çünkü yoksullar onun altında acı çekecektir. Bu, uyumsuzlara ekonomik baskı uygulayarak onları yoksullaştırmak olarak da görülebilir — bu, ilerde ikinci canavarın alım satım yasağında (13:16–17) ve fahişenin {{% bible val="18. bölümdeki" link="rev:18" lang="tr" %}} ticaretinde yankılanır.
 - Son atlı, bu kötü üçlünün etkisini özetler.
 
 Şunu unutmayın: şeytanın teklifi ne kadar çekici görünürse görünsün, ne kadar İsa'dan bir şeye benzerse benzesin, buna kanmayın — sonu felaketle bitecektir. Bunun yerine bilge olun, ve Tanrı size ihtiyacınız olan bilgeliği verecektir.

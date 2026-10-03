@@ -104,7 +104,7 @@ And now the reference to {{% bible val="God's plagues" link="ezk:14,12-23" lang=
 
 - The first horseman represents the wild beasts, since he {{% int_link val="calls the two beasts" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} in {{% bible val="chapter 13" link="rev:13" lang="en" %}} and embodies {{% bible val="deception" link="2co:11,14" lang="en" %}} — he makes many promises.
 - The second horseman represents the sword given to him — he attacks anyone who doesn't buy into those promises, just like the first beast in chapter 13.
-- The third horseman represents hunger, because the poor will suffer under him. This can also be seen as economic pressure on nonconformists, impoverishing them — plausibly (though not certainly) echoed by the second beast of chapter 13, itself tied by many interpreters to the harlot of {{% bible val="chapter 17" link="rev:17" lang="en" %}} in Revelation's broader symbolic pattern.
+- The third horseman represents hunger, because the poor will suffer under him. This can also be seen as economic pressure on nonconformists, impoverishing them — echoed later by the second beast's ban on buying and selling (13:16–17) and by the harlot's trade in {{% bible val="chapter 18" link="rev:18" lang="en" %}}.
 - The last horseman sums up the effect of this evil trinity.
 
 Remember this: no matter how attractive the devil's offer may look, and no matter how much it may resemble something from Jesus, don't go for it — it will end in disaster. Be wise instead, and God will give you the wisdom you need.

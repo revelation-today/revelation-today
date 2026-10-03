@@ -11,6 +11,12 @@ appl: /appl/content/beasts
 sources:
     - pages: 729
       ref: beale_rev
+    - pages: 20
+      ref: bauckham_climax
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
 ---
 
 Iblis dan seluruh antek-anteknya menempati cukup banyak ruang dalam Kitab Wahyu, dan studi ini pun sudah menghabiskan cukup banyak artikel untuk membahasnya. Mengapa demikian? Bukankah upaya itu seharusnya diarahkan untuk menggambarkan Allah saja? Ada alasannya.
@@ -64,7 +70,7 @@ Jika kita memperhatikan {{% int_link val="keempat penunggang kuda, kita menemuka
 
 Penunggang kuda keempat meringkas ketiganya — sebuah contoh lain dari pola trinitas yang sama.
 
-Terakhir, ada kisah sang perempuan sundal. Meski banyak tokoh muncul dalam pasal 17, sebuah trinitas tidak langsung tampak di sana. Namun dua pengamatan berikut menampakkannya.
+Terakhir, ada kisah sang perempuan sundal, di mana kuasa-kuasa yang sama sedang bekerja. Dua pengamatan menunjukkannya.
 
 Pertama, ada kesejajaran yang kuat antara binatang dalam pasal 17 dan binatang pertama dalam pasal 13.
 
@@ -77,22 +83,19 @@ Pertama, ada kesejajaran yang kuat antara binatang dalam pasal 17 dan binatang p
 | {{% bible val="Berperang melawan orang-orang kudus dan mengalahkan mereka" link="rev:13,7" lang="ind" %}} | {{% bible val="Berperang melawan Anak Domba dan dikalahkan" link="rev:17,14" lang="ind" %}} </br> {{% bible val="Berperang melawan sang perempuan sundal dan membinasakannya" link="rev:17,16" lang="ind" %}}. |
 | {{% bible val="Semua orang yang tidak tertulis dalam kitab kehidupan menyembah binatang itu" link="rev:13,8" lang="ind" %}} | {{% bible val="Semua orang yang tidak tertulis dalam kitab kehidupan tercengang" link="rev:17,8" lang="ind" %}} |
 
-Kedua, ada juga kesejajaran yang kuat antara binatang kedua dalam pasal 13 dan sang perempuan sundal.
+Kedua, sang perempuan sundal bekerja berdampingan dengan binatang kedua. Ia bukan binatang kedua, dan ia tidak mengambil tempatnya di antara ketiganya: Kitab Wahyu memisahkan musuh-musuhnya — naga, binatang, nabi palsu, dan Babel — dan mereka jatuh satu demi satu, dalam urutan terbalik.[^apart] Tetapi sang perempuan sundal melakukan dalam perdagangan dan kebudayaan apa yang dilakukan binatang kedua dalam agama.[^alike]
 
 ## Sang Perempuan Sundal dan Binatang Kedua
 
 | Binatang kedua dari Wahyu 13 | Sang Perempuan Sundal |
 |-----------------------------------|------------|
-| {{% bible val="Datang dari bumi" link="rev:13,11" lang="ind" %}} | {{% bible val="Duduk di padang gurun" link="rev:17,3" lang="ind" %}} |
-| {{% bible val="Memiliki dua tanduk seperti anak domba" link="rev:13,11" lang="ind" %}} | {{% bible val="Berpakaian mewah dan berhias" link="rev:17,4" lang="ind" %}}, yang mengingatkan pada gambaran pengantin perempuan yang muncul kemudian dalam kitab ini ({{% bible val="pengantin perempuan Anak Domba" link="rev:21,9" lang="ind" %}}) |
-| {{% bible val="Bertindak dengan kuasa binatang (pertama)" link="rev:13,12" lang="ind" %}} | {{% bible val="Duduk di atas binatang (pertama)" link="rev:17,3" lang="ind" %}} |
-| {{% bible val="Dapat membuat api turun dari langit" link="rev:13,13" lang="ind" %}} | {{% bible val="Akan dibinasakan dengan api" link="rev:17,16" lang="ind" %}} ({{% bible val="Why.18/9" link="rev:18,9" lang="ind" %}}) |
-| {{% bible val="Semua yang tidak menyembahnya dibunuh" link="rev:13,15" lang="ind" %}} | {{% bible val="Meminum darah orang-orang kudus" link="rev:17,6" lang="ind" %}} |
-| {{% bible val="Membuat tanda pada dahi dan tangan semua orang" link="rev:13,16" lang="ind" %}} | {{% bible val="Memiliki tanda pada dahinya: Babel" link="rev:17,5" lang="ind" %}} |
-| {{% bible val="Tidak dapat membeli atau menjual tanpa tanda" link="rev:13,17" lang="ind" %}} | {{% bible val="Para pedagang yang berdagang dengannya tidak dapat lagi membeli atau menjual apa pun, sekarang setelah ia jatuh" link="rev:18,11" lang="ind" %}} ({{% bible val="Why.18/11-17" link="rev:18,11-17" lang="ind" %}}) |
-| {{% bible val="Membutuhkan hikmat" link="rev:13,18" lang="ind" %}} | {{% bible val="Membutuhkan hikmat" link="rev:17,9" lang="ind" %}} |
+| {{% bible val="Menyesatkan mereka yang diam di bumi" link="rev:13,14" lang="ind" %}} | {{% bible val="Semua bangsa disesatkan oleh sihirnya" link="rev:18,23" lang="ind" %}} |
+| {{% bible val="Bertindak dengan kuasa binatang pertama" link="rev:13,12" lang="ind" %}} | {{% bible val="Duduk di atas binatang itu" link="rev:17,3" lang="ind" %}} |
+| {{% bible val="Semua yang tidak menyembah dibunuh" link="rev:13,15" lang="ind" %}} | {{% bible val="Mabuk oleh darah orang-orang kudus" link="rev:17,6" lang="ind" %}} |
+| {{% bible val="Tidak seorang pun dapat membeli atau menjual tanpa tanda itu" link="rev:13,17" lang="ind" %}} | {{% bible val="Para pedagang di bumi menjadi kaya karena dia" link="rev:18,3" lang="ind" %}} |
+| {{% bible val="Memberi tanda pada dahi" link="rev:13,16" lang="ind" %}} | {{% bible val="Membawa sebuah nama pada dahinya sendiri" link="rev:17,5" lang="ind" %}} |
 
-Perhatikan bagaimana kuasa itu juga dibalikkan di sini: jika dalam pasal 13 binatang itu menjatuhkan api dari langit, dalam pasal 17 dialah yang dibinasakan oleh api; jika di sana ia membuat tanda pada dahi orang lain, di sini dahinya sendiri bertuliskan sebuah nama, seolah ia dimiliki seseorang atau ditandai untuk penghakiman.
+Baris terakhir memuat sebuah pembalikan. Binatang kedua menandai dahi orang lain; sang perempuan sundal membawa sebuah nama pada dahinya sendiri, seolah-olah ia sendiri dimiliki dan ditandai untuk penghakiman.[^own]
 
 Jadi di manakah anggota ketiga dari trinitas ini dalam adegan ini? Ia tetap berada di latar belakang, sama seperti dalam pasal 13 dan dalam penggambaran para penunggang kuda — tetapi engkau melihatnya dalam {{% bible val="cawan keenam" link="rev:16,13" lang="ind" %}} dan dalam pasal {{% bible val="20" link="rev:20,10" lang="ind" %}}.
 
@@ -108,3 +111,9 @@ Ia tampak sebagai sang pemenang, tetapi pada akhirnya ia hanya meninggalkan keha
 Itulah tema yang dikembangkan dalam kisah sang naga dan kedua binatang. Di sana, {{% int_link val="Iblis memang memiliki beberapa hal yang benar-benar menggoda untuk ditawarkan" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Namun teks itu menempatkan sebuah alternatif yang jelas di sampingnya: {{% int_link val="kedua saksi, yang menjalani gaya hidup penyembahan dan tetap setia dalam kesaksian mereka bahkan sampai mati" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
 Kontras ini akhirnya terungkap sepenuhnya dalam penglihatan terakhir, ketika Babel digambarkan secara rinci sebagai kebalikan gelap dari Yerusalem Baru.
+
+[^apart]: Bauckham, *Climax*, hlm. 20, dan *Theology*, hlm. 89; Beale, hlm. 148, 623, 812.
+
+[^alike]: Tentang bahasa penyesatan yang sama: Bauckham, *Theology*, hlm. 91, 124; Beale, hlm. 262. Roh-roh najis yang sama muncul pada keduanya (16:13–14; 18:2): Beale, hlm. 894.
+
+[^own]: Pengamatan ini berasal dari situs ini sendiri.

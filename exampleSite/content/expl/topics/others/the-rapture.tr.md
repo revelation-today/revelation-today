@@ -67,7 +67,7 @@ Derinlemesine bakıldığında, altta yatan kelime "[harpazo](https://biblehub.c
 
 Anlamlar hayli çeşitlidir, ama ortak bir noktaları var: her durumda fiilin nesnesine istem dışı bir şey yapılır — kurtarılır, bir elden kapılır, çalınır ya da alıp götürülür — daha güçlü bir elin ani bir şekilde alıp götürmesi. Yön değişir: bazen yukarıya (2Ko. 12:2; Va. 12:5), çoğu zaman yalnızca tehlikeden uzağa (Elç. 23:10). Kelimenin kendisi birinin nereye götürüldüğünü söylemez.
 
-Ancak 17. ayette İsa'yla buluşma *eylemini* gerçekte betimleyen kelime bambaşkadır: [apantesis](https://biblehub.com/greek/529.htm); Yeni Ahit'te yalnızca iki yerde daha geçer — {{% bible val="güvey'in gelişinde" link="mat:25,6" lang="tr" %}} ve {{% bible val="Pavlus'un Roma'da karşılanışında" link="act:28,15" lang="tr" %}}. Her iki durumda da insanlar dışarı çıkıp gelmekte olan kişiyi karşılar, sonra dönüp onunla birlikte geldiği yoldan geri döner. [Kelimenin kullanımı](https://biblehub.com/greek/529.htm), önemli bir konuğu şehrin dışında karşılayıp içeri eşlik etme geleneğini yansıtır. Buna göre burada İsa'nın yönü açıkça aşağı, yeryüzüne doğrudur, tekrar göğe değil.
+Ancak 17. ayette İsa'yla buluşma *eylemini* gerçekte betimleyen kelime bambaşkadır: [apantesis](https://biblehub.com/greek/529.htm); Yeni Ahit'te yalnızca iki yerde daha geçer — {{% bible val="güvey'in gelişinde" link="mat:25,6" lang="tr" %}} ve {{% bible val="Pavlus'un Roma'da karşılanışında" link="act:28,15" lang="tr" %}}. Her iki durumda da insanlar dışarı çıkıp gelmekte olan kişiyi karşılar, sonra dönüp onunla birlikte geldiği yoldan geri döner. [Kelime](https://biblehub.com/greek/529.htm) büyük olasılıkla önemli bir konuğu şehrin dışında karşılayıp içeri eşlik etme geleneğini yansıtır.[^apantesis] Buna göre burada İsa'nın yönü aşağı, yeryüzüne doğrudur, tekrar göğe değil.
 
 ### Destekleyici kanıt
 
@@ -130,3 +130,5 @@ Bunun yerine, {{% bible val="Yeşaya'da" link="isa:6,1-13" lang="tr" %}} ya da {
 
 <a name="bfec"></a>
 Göğe alınma için öne sürülen her argüman, aslında bambaşka bir şeyi betimleyen pasajlara dayanır — bu pasajlar yanlış yorumlanmış, bağlamından koparılmış ya da anahtar kelimelerinin gerçek anlamının ötesinde okunmuştur. Hepsi bir araya getirildiğinde, göğe alınma için Kutsal Kitap'ta hiçbir kanıt yoktur.
+
+[^apantesis]: Erik Peterson, *Theological Dictionary of the New Testament*, c. 1, s. 380–381; N. T. Wright da böyle anlar. Michael Cosby bu arka planın abartıldığını düşünür (*Bulletin for Biblical Research* 4, 1994, s. 15–34).

@@ -83,5 +83,8 @@ Son olarak, kalıntı dindarlardan değil, Tanrı'nın antlaşmasını tutanlard
 
 Ama bunu {{% bible val="Yeşaya'daki pasajla" link="isa:61,1-2" lang="tr" %}} karşılaştırırsanız, cümlenin ortasında durduğunu görürsünüz: "Rab'bin lütuf yılını ve Tanrımızın öç gününü ilan etmek için."
 
-İsa yargılamak için gelmedi, çünkü bu durumda {{% bible val="herkesi yargılaması gerekirdi" link="mat:11,20-24" lang="tr" %}}; bu yüzden Rab'bin Günü'nü ikiye ayırdı.
+Neden orada durdu? Çünkü yargılamak için gelmemişti — henüz değil. "Tanrı, Oğlu'nu dünyayı yargılamak için göndermedi, dünya O'nun aracılığıyla kurtulsun diye gönderdi" (Yu. 3:17); "Ben dünyayı yargılamaya değil, dünyayı kurtarmaya geldim" (Yu. 12:47). O zaman yargıç olarak gelseydi, {{% bible val="kimse ayakta kalamazdı" link="mat:11,20-24" lang="tr" %}}.
 
+Demek ki Rab'bin Günü iki bölümde gelir. Rab'bin lütuf yılı O'nun ilk gelişiyle başladı; öç günü ise dönüşünü bekliyor. Egemenlik şimdiden buradadır, ama henüz tamamlanmamıştır.[^already]
+
+[^already]: Beale, s. 37–39.

@@ -11,6 +11,8 @@ sources:
       ref: beale_rev
     - pages: l–lxx
       ref: aune_rev
+    - pages: lxvii–lxix
+      ref: aune_rev
 ---
 
 Every article on this site assumes an author and a date for the book of Revelation, even when it doesn't say so out loud. Both are disputed among serious, faithful scholars — so it's worth stating plainly what this site assumes, why, and what would actually change if you assumed something else instead.
@@ -41,7 +43,9 @@ This isn't just an academic footnote. A handful of articles on this site depend 
 
 - **The seven letters.** {{% int_link val="Ephesus having lost its first love" link="/expl/content/letters/the-letter-to-the-church-in-ephesus" %}}, and {{% int_link val="Laodicea's settled, self-sufficient wealth" link="/expl/content/letters/the-letter-to-the-church-in-laodicea" %}} — rebuilt after a real earthquake without asking Rome for help — both read most naturally as churches with a couple of decades of history behind them, not a few years. A Neronian date would mean rethinking that "complacency" reading in more than one of these articles.
 - **Identifying "the harlot" and her kings.** {{% int_link val="The count of seven kings in Revelation 17" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}} only works once you've picked a starting point on the list of emperors. Whichever date this site (or any reader) settles on effectively answers that question too, whether it says so explicitly or not.
-- **The shape of the persecution in view.** The pressure described across the letters — {{% int_link val="temples built to honor the emperor" link="/expl/content/letters/the-letter-to-the-church-in-pergamon" %}}, worship demanded province-wide — fits Domitian's reign, when emperor worship was pushed hard across Asia Minor, better than Nero's, whose persecution was sharp but largely confined to Rome itself.
+- **The shape of the pressure in view.** The pressure described across the letters — {{% int_link val="temples built to honor the emperor" link="/expl/content/letters/the-letter-to-the-church-in-pergamon" %}}, cult festivals that citizens were expected to join — fits the 90s better than the 60s. It came less from Domitian himself than from the province: cities and their leading families competed to honour the emperor, and Christians who stayed away stood out.[^pressure] Nero's persecution, by contrast, was confined to Rome and had another cause, the fire of AD 64.
 - **666 and Nero.** This one doesn't actually force a choice either way: {{% int_link val="the gematria linking 666 to Nero Caesar" link="/expl/content/beasts/666-the-number-of-the-beast" %}} works under both dates, since the legend that Nero would return kept circulating for decades after his death.
 
 None of this is presented to settle the debate — a reader who finds the Neronian case more persuasive on {{% bible val="the temple still standing" link="rev:11,1-2" lang="en" %}} has real textual ground to stand on. It's here so that if you notice this site assuming long-settled churches and empire-wide imperial pressure, you know why, and you know it's a choice, not an accident.
+
+[^pressure]: Beale, pp. 5, 14–15, following Price and Friesen; Aune, *Revelation 1–5*, pp. lxvii–lxix.

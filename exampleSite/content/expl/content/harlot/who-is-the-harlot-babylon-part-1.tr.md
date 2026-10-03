@@ -22,6 +22,10 @@ sources:
       ref: beale_rev
     - pages: 21, 833, 875
       ref: beale_rev
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
 readBefore:
     - name: "Pax Romana — vahiy kitabını anlamak için anahtar"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
@@ -117,23 +121,26 @@ Fahişenin, {{% bible val="Thyatira'da" link="rev:2,20" lang="tr" %}} kendi baş
 | **{{% bible val="Yargı çabuk gelir" link="2ki:9,33-35" lang="tr" %}}** | **{{% bible val="Mahkeme çabuk gelir" link="rev:18,10" lang="tr" %}}** ({{% bible val="Vah.18/17" link="rev:18,17" lang="tr" %}}, {{% bible val="Vah.18/19" link="rev:18,19" lang="tr" %}}) |
 | **{{% bible val="Tanrı halefleri yargılar" link="1ki:18,40" lang="tr" %}}** ({{% bible val="2.Kr.10/19" link="2ki:10,19" lang="tr" %}}) | **{{% bible val="Tanrı halefleri yargılar" link="rev:18,9-11" lang="tr" %}}** ({{% bible val="Vah.2/23" link="rev:2,23" lang="tr" %}}) |
 
-Son olarak, fahişenin 13. bölümdeki İkinci Canavar'la da birçok paralelliği vardır.
+Son olarak, 13. bölümdeki ikinci canavarla yan yana çalışır, ama aynı figür değildir.[^apart] İkinci canavarın dinde yaptığını o ticarette ve kültürde yapar.[^alike]
 
 ## Fahişe ve ikinci canavar
 
 | Vahiy 13'teki İkinci Canavar | Fahişe |
 |-----------------------------------|------------|
-| **{{% bible val="Yeryüzünden gelir" link="rev:13,11" lang="tr" %}}** | **{{% bible val="Çölde oturur" link="rev:17,3" lang="tr" %}}** |
-| **{{% bible val="Kuzu gibi iki boynuzu vardır" link="rev:13,11" lang="tr" %}}** | **{{% bible val="Kuzu'nun gelini gibi giyinmiştir" link="rev:17,4" lang="tr" %}}** |
-| **{{% bible val="(İlk) canavarın gücüyle hareket eder" link="rev:13,12" lang="tr" %}}** | **{{% bible val="(İlk) canavarın üzerinde oturur" link="rev:17,3" lang="tr" %}}** |
-| *Gökten* **ateş düşürebilir** {{% bible val="Vah.13/13" link="rev:13,13" lang="tr" %}} | *Ateşle* **yargılanacaktır** {{% bible val="Vah.17/16" link="rev:17,16" lang="tr" %}} ({{% bible val="Vah.18/9" link="rev:18,9" lang="tr" %}}) |
-| **{{% bible val="Ona tapmayan herkes öldürülür" link="rev:13,15" lang="tr" %}}** | **{{% bible val="Kutsalların kanını içer" link="rev:17,6" lang="tr" %}}** |
-| **Alına ve ele bir işaret** *koyar* {{% bible val="Vah.13/16" link="rev:13,16" lang="tr" %}} | **Alnında bir işaret vardır: Babil** *yazar* {{% bible val="Vah.17/5" link="rev:17,5" lang="tr" %}} |
-| **{{% bible val="İşaret olmadan alım satım yapılamaz" link="rev:13,17" lang="tr" %}}** | **{{% bible val="İşaret olmadan alım satım yapılamaz" link="rev:18,3" lang="tr" %}}** ({{% bible val="Vah.18/11-17" link="rev:18,11-17" lang="tr" %}}) |
-| **{{% bible val="Bilgelik gerektirir" link="rev:13,18" lang="tr" %}}** | **{{% bible val="Bilgelik gerektirir" link="rev:17,9" lang="tr" %}}** |
+| {{% bible val="Yeryüzünde yaşayanları aldatır" link="rev:13,14" lang="tr" %}} | {{% bible val="Bütün uluslar onun büyüsüyle aldandı" link="rev:18,23" lang="tr" %}} |
+| {{% bible val="İlk canavarın yetkisiyle davranır" link="rev:13,12" lang="tr" %}} | {{% bible val="Canavarın üzerinde oturur" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="Tapınmayanların hepsi öldürülür" link="rev:13,15" lang="tr" %}} | {{% bible val="Kutsalların kanıyla sarhoş" link="rev:17,6" lang="tr" %}} |
+| {{% bible val="İşareti olmayan kimse alıp satamaz" link="rev:13,17" lang="tr" %}} | {{% bible val="Yeryüzü tüccarları onun sayesinde zenginleşti" link="rev:18,3" lang="tr" %}} |
+| {{% bible val="Alınlara işaret koyar" link="rev:13,16" lang="tr" %}} | {{% bible val="Kendi alnında bir ad taşır" link="rev:17,5" lang="tr" %}} |
 
-Güç dengesi burada da tersine döner: 13. bölümde gökten ateş düşürüyordu, şimdi ise ateşle yok ediliyor; orada başkalarının alnına işaret koyuyordu, burada ise kendisi bir köle gibi alnına damgalanıyor.
+Son satır bir tersine çevirme içerir. İkinci canavar başkalarının alnını işaretler; fahişe ise kendi alnında bir ad taşır; sanki kendisi birinin malıymış ve yargı için işaretlenmiş gibi.[^own]
 
 Böylece iki bölümdeki roller birbirini yansıtır: 17. bölümde ilk canavar fahişeyi desteklerken, 13. bölümde ikinci canavar ilk canavarı destekler.
 
 [^frogs]: Beale, s. 833.
+
+[^apart]: Bauckham, *Climax*, s. 20 ve *Theology*, s. 89; Beale, s. 148, 623, 812.
+
+[^alike]: Ortak aldatma dili için: Bauckham, *Theology*, s. 91, 124; Beale, s. 262. Aynı kirli ruhlar ikisinde de görülür (16:13–14; 18:2): Beale, s. 894.
+
+[^own]: Bu gözlem sitenin kendisine aittir.

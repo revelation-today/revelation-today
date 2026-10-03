@@ -64,7 +64,7 @@ Hal ini membuat mitos tentang Nero yang akan kembali tetap hidup. Karena ia kini
 
 Akhir hidupnya yang tidak jelas, entah ia sungguh mati atau tidak, membuat {{% bible val="kemunculan binatang pertama menjadi kemiripan yang sempurna dengannya" link="rev:13,3" lang="ind" %}}. {{% bible val="Cawan keenam" link="rev:16,12" lang="ind" %}} mungkin menunjuk ke arah yang sama, karena bisa jadi bagian itu menggambarkan sebuah serangan oleh bangsa Partia.
 
-## Kaisar Trajanus
+## Sebuah ilustrasi: Kaisar Trajanus
 
 <a name="0a94"></a>
 Perlu juga menunjuk pada satu tokoh belakangan yang menggambarkan pola yang sama pada generasinya sendiri, karena dua alasan:
@@ -72,10 +72,10 @@ Perlu juga menunjuk pada satu tokoh belakangan yang menggambarkan pola yang sama
 - ia menjadi kaisar semasa hidup para pembaca awal surat ini (meskipun ia baru berkuasa pada tahun 98 M, beberapa tahun setelah Kitab Wahyu biasanya diberi tanggal — yaitu pada masa Domitianus, sekitar tahun 95–96 M), dan
 - ia {{% int_link val="mencerminkan serangan ganda dari binatang itu" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-Tokoh yang cocok dengan gambaran ini adalah Kaisar [Trajanus](https://id.wikipedia.org/wiki/Trajanus), yang:
+Kaisar yang paling jelas memperlihatkan hal ini adalah Trajanus, yang:
 
 - memerintah dari tahun 98–117, jelas masih dalam satu generasi sejak penulisan surat ini,
-- mendukung penganiayaan terhadap orang Kristen ketika mereka menolak untuk tunduk, namun
+- menetapkan bahwa orang Kristen tidak boleh diburu, tetapi harus dihukum jika mereka diadukan dan menolak mempersembahkan korban,[^pliny] namun
 - dianggap sebagai salah satu dari [lima kaisar yang baik](https://de.wikipedia.org/wiki/Trajan#Der_%E2%80%9Ebeste_Kaiser%E2%80%9C): pada masa pemerintahannya Kekaisaran Romawi mencapai wilayah terluasnya, ia mendirikan sebuah program kesejahteraan yang besar, menjalankan proyek-proyek pembangunan besar, dan berinvestasi besar-besaran dalam pertandingan-pertandingan publik — semuanya mewujudkan Perdamaian Romawi (Pax Romana).
 
 ## Sahabat-Sahabat Daniel dalam Dapur Api
@@ -120,3 +120,5 @@ Jika engkau berpikir 666 menunjuk pada semacam chip komputer yang menunggu untuk
 - Ribuan catatan media sosial?
 
 [^frogs]: Beale, hlm. 833.
+
+[^pliny]: Plinius Muda, *Surat-surat* 10.96–97: pertanyaan Plinius dari Bitinia dan jawaban Trajanus, sekitar tahun 112 M.

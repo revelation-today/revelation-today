@@ -104,7 +104,7 @@ Dan sekarang rujukan kepada {{% bible val="malapetaka-malapetaka Allah" link="ez
 
 - Penunggang kuda pertama melambangkan binatang-binatang buas, sebab ia {{% int_link val="memanggil kedua binatang itu" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} dalam {{% bible val="pasal 13" link="rev:13" lang="ind" %}} dan melambangkan {{% bible val="penipuan" link="2co:11,14" lang="ind" %}} - ia membuat banyak janji.
 - Penunggang kuda kedua melambangkan pedang yang diberikan kepadanya - ia menyerang siapa pun yang tidak mempercayai janji-janji itu, sama seperti binatang pertama dalam pasal 13.
-- Penunggang kuda ketiga melambangkan kelaparan, sebab orang-orang miskin akan menderita karenanya. Ini juga bisa dilihat sebagai tekanan ekonomi terhadap orang-orang yang tidak mau tunduk, memiskinkan mereka - kemungkinan (meski tidak pasti) tercermin dalam binatang kedua pasal 13, yang oleh banyak penafsir juga dikaitkan dengan pelacur besar dalam {{% bible val="pasal 17" link="rev:17" lang="ind" %}}.
+- Penunggang kuda ketiga melambangkan kelaparan, sebab orang-orang miskin akan menderita karenanya. Ini juga bisa dilihat sebagai tekanan ekonomi terhadap orang-orang yang tidak mau tunduk, memiskinkan mereka - yang kemudian bergema dalam larangan membeli dan menjual oleh binatang kedua (13:16–17) dan dalam perdagangan sang pelacur di {{% bible val="pasal 18" link="rev:18" lang="ind" %}}.
 - Penunggang kuda terakhir merangkum dampak dari trinitas jahat ini.
 
 Ingatlah ini: seberapa pun menariknya tawaran Iblis kelihatannya, dan seberapa pun ia menyerupai sesuatu dari Yesus, jangan tergoda olehnya - itu akan berakhir dalam bencana. Sebaliknya, jadilah bijaksana, dan Allah akan memberimu hikmat yang kamu butuhkan.

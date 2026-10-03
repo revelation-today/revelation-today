@@ -67,7 +67,7 @@ Digging in, the underlying word is "[harpazo](https://biblehub.com/greek/726.htm
 
 The meanings vary widely, but they share one thing in common: in every case, the object of the verb has something involuntary done to it — it is saved, snatched from a hand, stolen, or carried off — a sudden removal by a stronger hand. The direction varies: sometimes up (2 Cor 12:2; Rev 12:5), often simply away from danger (Acts 23:10). The word itself does not say where someone is taken.
 
-The word that actually describes the *action* of meeting Jesus in verse 17, though, is a different one: [apantesis](https://biblehub.com/greek/529.htm), used in only two other places in the New Testament — {{% bible val="at the arrival of the bridegroom" link="mat:25,6" lang="en" %}} and {{% bible val="the welcome given to Paul in Rome" link="act:28,15" lang="en" %}}. In both of those cases, people go out to greet an arriving figure and then turn around and accompany him back the way he came. The [word's usage](https://biblehub.com/greek/529.htm) reflects the custom of meeting an important visitor outside the city and then escorting him in. Applied here, Jesus's trajectory is clearly downward, toward earth, not back up to heaven.
+The word that actually describes the *action* of meeting Jesus in verse 17, though, is a different one: [apantesis](https://biblehub.com/greek/529.htm), used in only two other places in the New Testament — {{% bible val="at the arrival of the bridegroom" link="mat:25,6" lang="en" %}} and {{% bible val="the welcome given to Paul in Rome" link="act:28,15" lang="en" %}}. In both of those cases, people go out to greet an arriving figure and then turn around and accompany him back the way he came. The [word](https://biblehub.com/greek/529.htm) probably reflects the custom of going out to meet an important visitor outside the city and then escorting him in.[^apantesis] Applied here, Jesus's trajectory is downward, toward earth, not back up to heaven.
 
 ### Supporting evidence
 
@@ -130,3 +130,5 @@ Instead, it echoes the Old Testament pattern of the heavenly council, the same s
 
 <a name="5a06"></a>
 Every argument for the rapture rests on passages describing something else entirely — passages that get misinterpreted, taken out of context, or read past the actual meaning of their key words. Put together, there is no biblical evidence for a rapture.
+
+[^apantesis]: Erik Peterson, in the *Theological Dictionary of the New Testament*, vol. 1, pp. 380–381; N. T. Wright takes it the same way. Michael Cosby thinks this background is overstated (*Bulletin for Biblical Research* 4, 1994, pp. 15–34).

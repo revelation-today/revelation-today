@@ -38,10 +38,10 @@ Kilise, gelecekteki yedi yıllık sıkıntının herhangi bir kısmı başlamada
 
 **Aleyhinde olan:**
 
-- {{% int_link val="Önceki makalenin kelime incelemesi" link="/expl/topics/others/the-rapture" %}}, 1. Selanikliler 4:17'deki "karşılamak" (*apantēsis*) kelimesinin, gelmekte olan bir devlet büyüğünü karşılamak için dışarı çıkıp yolun geri kalanında ona eşlik etmeyi betimlediğini, alıp götürülmeyi değil, gösteriyor — bu da gizli, ayrı bir gidişe karşı bir kanıttır.
+- {{% int_link val="Önceki makalenin kelime incelemesi" link="/expl/topics/others/the-rapture" %}}, 1. Selanikliler 4:17'deki "karşılamak" (*apantēsis*) kelimesinin, gelmekte olan bir devlet büyüğünü karşılamak için dışarı çıkıp yolun geri kalanında ona eşlik etmeyi büyük olasılıkla betimlediğini, alıp götürülmeyi değil, gösteriyor — bu da gizli, ayrı bir gidişe karşı bir kanıttır.
 - Pavlus, 2. Selanikliler 2'de engelleyeni hiçbir zaman adıyla anmaz. Ciddi yorumcular bunu farklı biçimlerde tanımlar: Kutsal Ruh'un dünyadaki engelleyici varlığı, müjdenin sürmekte olan vaazı, insan hükümeti, ya da hatta başmelek Mikail ({{% bible val="Mikail'in kendi engelleyici rolüyle karşılaştırın" link="dan:12,1" lang="tr" %}}) — bunların hiçbiri kilisenin kendisinin yeryüzünden bedenen kaldırılmasını gerektirmez, yalnızca belirli bir engelleyici etkinin geri çekilmesini ya da bir kenara konmasını gerektirir.
 - Kilisenin 4-19. bölümlerde "kilise" adıyla anılmaması bir sessizlik argümanıdır; aynı bölümler inananlara sürekli başka isimlerle doğrudan seslenir — {{% bible val="kutsallar" link="rev:13,7" lang="tr" %}}, {{% bible val="Tanrı'nın buyruklarını tutan ve İsa'ya tanıklığa sarılanlar" link="rev:12,17" lang="tr" %}}, {{% bible val="Tanrı'nın sözü uğruna öldürülenler" link="rev:6,9" lang="tr" %}}.
-- 1830'larda Darby'den önce hiçbir yazar pretribülasyonist bir göğe alınma öğretmedi; bu görüşün erken kilisede hiçbir desteği yoktur — Yeni Antlaşma'nın kendi açık öğretisi olduğu iddia edilen bir şey için çarpıcı bir boşluk.
+- 1830'lardan önce pretribülasyonist bir göğe alınmaya dair açık bir öğreti yoktur. Savunucularının andığı birkaç erken metin tartışmalıdır.[^before] Bu, Yeni Antlaşma'nın kendi açık öğretisi olduğu iddia edilen bir şey için çarpıcı bir boşluktur.
 - "Deneme saatinden korunmak" ifadesi, başka yerlerde aynı yapıyı, {{% bible val="tehlikenin olduğu yerden alınmak değil, tehlike ortasında güvende tutulmak" link="jhn:17,15" lang="tr" %}} için kullanır; orada İsa, Baba'nın inananları *kötü olandan* korumasını diler, ama açıkça onları dünyadan almamasını *istemez*.
 
 ## Midtribülasyonist
@@ -85,7 +85,7 @@ Gizli ya da başka türlü, ayrı bir göğe alınma olayı yoktur. İnananlar, 
 
 **Lehinde olan:**
 
-- {{% bible val="1. Selanikliler 4:17" link="1th:4,17" lang="tr" %}}'deki "karşılamak" (*apantēsis*) kelimesinin gerçek anlamına uyar: gelmekte olan bir figürü karşılamak için dışarı çıkıp geldiği yoldan geri götürmek — bu da Mesih'in yönünün aşağıya, yeryüzüne doğru olduğunu gösterir, inananların yönünün yukarıya, yeryüzünden uzağa doğru olduğunu değil.
+- {{% bible val="1. Selanikliler 4:17" link="1th:4,17" lang="tr" %}}'deki "karşılamak" (*apantēsis*) kelimesinin olası anlamına uyar: gelmekte olan bir figürü karşılamak için dışarı çıkıp geldiği yoldan geri götürmek — bu da Mesih'in yönünün aşağıya, yeryüzüne doğru olduğunu gösterir, inananların yönünün yukarıya, yeryüzünden uzağa doğru olduğunu değil.
 - Dispansiyonalizmin bir alternatif ortaya atmasından önce kilisenin on sekiz yüzyıl boyunca benimsediği okumadır — {{% int_link val="yeniden keşfedilmiş sade bir Kutsal Kitap anlamı değil, gerçekten yeni bir gelişme" link="/expl/topics/others/dispensionalism-a-little-history" %}} (bkz. {{% int_link val="Justin Martyr'ın kendi erken, dispansiyonalist olmayan premilenyalizmi" link="/expl/topics/others/dispensionalism-a-little-history" %}} — Darby'den önceki her görüş gibi, o da ayrı bir pretribülasyonist göğe alınmayı hiç varsaymadı).
 - Vahiy'in belalarını hiç tek ve katı bir takvim olarak okumaya gerek duymaz, çünkü içinde yeri bulunması gereken bir göğe alınma tarihi yoktur.
 - {{% bible val="İsa'nın kendi son zaman öğretisine" link="mat:24,29-31" lang="tr" %}} uyar; orada seçilmişlerin toplanması, sıkıntıdan *sonra* ve O'nun görünür gelişi *sırasında*, melekler ve borazanla birlikte gerçekleşir, yıllarca ayrı iki aşamada değil.
@@ -117,3 +117,5 @@ Bu, {{% int_link val="milenyum tartışmasından" link="/expl/content/1000y/pre-
 - {{% bible val="Vahiy 3:10" link="rev:3,10" lang="tr" %}} denemeden kurtulmayı vaat etmiyorsa, bunun yerine ne vaat ediyor — ve gerçek bir denemenin içindeyken bu farkı nasıl anlarsınız?
 - Hangi görüşü benimserseniz benimseyin, bu, gelecekteki bir dönemde değil de şimdi, bugün imanı uğruna gerçek zulüm gören bir arkadaşınıza vereceğiniz öğüdü değiştirir mi?
 - {{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources#bock_millennium" %}}, her görüşü onu gerçekten savunan bir bilim insanından dinleyerek pozisyonları adil biçimde karşılaştırmanın bir örneğini sunar — {{% int_link val="göğe alınmanın zamanlaması tartışması için de benzer bir kitap var" link="/about/ressources#rapture_views" %}}, bu özetten daha derine inmek isterseniz.
+
+[^before]: Bu metinler, Süryani Efrem'e atfedilen bir vaaz ("Sözde Efrem") ile Baptist Morgan Edwards'ın (1788) yazısıdır. Bunları Thomas Ice ve Timothy Demy öne sürer: *Bibliotheca Sacra* 152 (1995), s. 306–317.

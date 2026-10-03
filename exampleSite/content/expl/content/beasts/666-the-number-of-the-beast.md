@@ -64,7 +64,7 @@ This kept the myth of a returning Nero alive. Since he was now associated with t
 
 His unclear end, whether he was really dead or not, makes the {{% bible val="first beast's appearance a perfect resemblance of him" link="rev:13,3" lang="en" %}}. The {{% bible val="sixth bowl" link="rev:16,12" lang="en" %}} may point the same direction, since it could well be describing an attack by the Parthians.
 
-## Emperor Trajan
+## An illustration: Emperor Trajan
 
 <a name="576c"></a>
 It's also worth pointing to one later figure who illustrates the same pattern in his own generation, for two reasons:
@@ -72,10 +72,10 @@ It's also worth pointing to one later figure who illustrates the same pattern in
 - he was the emperor within the lifetime of the letter's early readers (though he only came to power in AD 98, a couple of years after Revelation is usually dated, under Domitian, around AD 95–96), and
 - he {{% int_link val="reflects the dual attack of the beast" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-The person who fits the description is the Emperor [Trajan](https://en.wikipedia.org/wiki/Trajan), who:
+The emperor who shows this most clearly is Trajan, who:
 
 - reigned from 98–117, well within a generation of the letter's writing,
-- supported the persecution of Christians when they refused to comply, and yet
+- ruled that Christians were not to be hunted down, but were to be punished if they were accused and refused to sacrifice,[^pliny] and yet
 - was considered one of the [five good emperors](https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty#Five_Good_Emperors): under his reign the Roman Empire reached its greatest extent, he established a substantial [welfare program](https://en.wikipedia.org/wiki/Alimenta), carried out major [building projects](https://en.wikipedia.org/wiki/Trajan#Building_projects), and invested heavily in [public games](https://en.wikipedia.org/wiki/Trajan#Games) — all of it embodying the [Pax Romana](https://en.wikipedia.org/wiki/Pax_Romana).
 
 ## Daniel's friends in the furnace
@@ -120,3 +120,5 @@ If you think 666 refers to some computer chip waiting to be implanted, ask yours
 - Tons of social media records?
 
 [^frogs]: Beale, p. 833.
+
+[^pliny]: Pliny the Younger, *Letters* 10.96–97: Pliny's question from Bithynia and Trajan's reply, about AD 112.

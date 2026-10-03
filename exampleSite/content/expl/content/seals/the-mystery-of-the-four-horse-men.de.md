@@ -104,7 +104,7 @@ Und jetzt ergibt auch der Bezug zu {{% bible val="Gottes Plagen" link="ezk:14,12
 
 - Der erste Reiter steht für die wilden Tiere, denn er {{% int_link val="ruft die beiden Tiere" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} in {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} und verkörpert die {{% bible val="Täuschung" link="2co:11,14" lang="de" %}} — er macht viele Versprechungen.
 - Der zweite Reiter steht für das ihm gegebene Schwert — er greift jeden an, der sich nicht auf diese Versprechungen einlässt, genau wie das erste Tier in Kapitel 13.
-- Der dritte Reiter steht für den Hunger, denn die Armen leiden unter ihm. Das lässt sich auch als wirtschaftlicher Druck auf Andersdenkende verstehen, der sie verarmen lässt — vermutlich (wenn auch nicht sicher) widergespiegelt durch das zweite Tier in Kapitel 13, das von vielen Auslegern seinerseits mit der Hure in {{% bible val="Kapitel 17" link="rev:17" lang="de" %}} verbunden wird.
+- Der dritte Reiter steht für den Hunger, denn die Armen leiden unter ihm. Das lässt sich auch als wirtschaftlicher Druck auf Andersdenkende verstehen, der sie verarmen lässt — später aufgenommen im Kauf- und Verkaufsverbot des zweiten Tieres (13,16–17) und im Handel der Hure in {{% bible val="Kapitel 18" link="rev:18" lang="de" %}}.
 - Der letzte Reiter fasst die Wirkung dieser bösen Dreiheit zusammen.
 
 Eines sollte man sich merken: Wie verlockend das Angebot des Teufels auch aussehen mag und wie sehr es auch an Jesus erinnern mag — man sollte nicht darauf eingehen, es endet in einer Katastrophe. Stattdessen sollte man klug sein, und Gott wird die dazu nötige Weisheit schenken.

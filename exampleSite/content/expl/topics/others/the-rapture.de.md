@@ -67,7 +67,7 @@ Gräbt man nach, findet man das zugrunde liegende Wort „[harpazo](https://bibl
 
 Die Bedeutungen reichen weit auseinander, aber eines haben sie gemeinsam: In jedem Fall widerfährt dem Objekt des Verbs etwas Unfreiwilliges — es wird gerettet, aus einer Hand gerissen, gestohlen oder fortgetragen — ein plötzliches Wegnehmen durch eine stärkere Hand. Die Richtung ist verschieden: manchmal nach oben (2 Kor 12,2; Offb 12,5), oft einfach weg aus der Gefahr (Apg 23,10). Das Wort selbst sagt nicht, wohin jemand gebracht wird.
 
-Das Wort, das die *Handlung* der Begegnung mit Jesus in Vers 17 tatsächlich beschreibt, ist dagegen ein anderes: [apantesis](https://biblehub.com/greek/529.htm), das im Neuen Testament nur an zwei weiteren Stellen vorkommt — {{% bible val="bei der Ankunft des Bräutigams" link="mat:25,6" lang="de" %}} und {{% bible val="beim Empfang, der Paulus in Rom bereitet wird" link="act:28,15" lang="de" %}}. In beiden Fällen gehen Menschen hinaus, um eine ankommende Person zu begrüßen, und kehren dann um, um sie auf demselben Weg zu begleiten, auf dem sie gekommen ist. Der [Gebrauch des Wortes](https://biblehub.com/greek/529.htm) spiegelt den Brauch wider, einen wichtigen Besucher außerhalb der Stadt zu empfangen und ihn dann in die Stadt zu geleiten. Auf unsere Stelle angewandt, verläuft Jesu Weg eindeutig nach unten, zur Erde hin, nicht zurück in den Himmel.
+Das Wort, das die *Handlung* der Begegnung mit Jesus in Vers 17 tatsächlich beschreibt, ist dagegen ein anderes: [apantesis](https://biblehub.com/greek/529.htm), das im Neuen Testament nur an zwei weiteren Stellen vorkommt — {{% bible val="bei der Ankunft des Bräutigams" link="mat:25,6" lang="de" %}} und {{% bible val="beim Empfang, der Paulus in Rom bereitet wird" link="act:28,15" lang="de" %}}. In beiden Fällen gehen Menschen hinaus, um eine ankommende Person zu begrüßen, und kehren dann um, um sie auf demselben Weg zu begleiten, auf dem sie gekommen ist. Das [Wort](https://biblehub.com/greek/529.htm) spiegelt wahrscheinlich den Brauch wider, einem wichtigen Besucher vor die Stadt entgegenzugehen und ihn dann in die Stadt zu geleiten.[^apantesis] Auf unsere Stelle angewandt, verläuft Jesu Weg nach unten, zur Erde hin, nicht zurück in den Himmel.
 
 ### Unterstützende Belege
 
@@ -130,3 +130,5 @@ Stattdessen greift sie das alttestamentliche Muster des himmlischen Rates auf, d
 
 <a name="ec29"></a>
 Jedes Argument für die Entrückung stützt sich auf Stellen, die von etwas ganz anderem handeln — Stellen, die fehlgedeutet, aus dem Zusammenhang gerissen oder über die eigentliche Bedeutung ihrer Schlüsselwörter hinweggelesen werden. Zusammengenommen gibt es keinen biblischen Beleg für eine Entrückung.
+
+[^apantesis]: Erik Peterson, im *Theologischen Wörterbuch zum Neuen Testament* (engl. *TDNT*), Bd. 1, S. 380–381; N. T. Wright versteht es ebenso. Michael Cosby hält diesen Hintergrund für überbewertet (*Bulletin for Biblical Research* 4, 1994, S. 15–34).

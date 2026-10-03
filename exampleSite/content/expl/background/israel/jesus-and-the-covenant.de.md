@@ -83,4 +83,8 @@ Schließlich besteht der Überrest nicht aus den Frommen, sondern aus denen, die
 
 Vergleicht man das aber mit der {{% bible val="Passage aus Jesaja" link="isa:61,1-2" lang="de" %}}, sieht man, dass er mitten im Satz aufhört: „das Gnadenjahr des Herrn auszurufen und den Tag der Rache unseres Gottes“.
 
-Jesus kam nicht, um zu richten, denn sonst hätte er {{% bible val="alle richten müssen" link="mat:11,20-24" lang="de" %}} zu diesem Zeitpunkt, und so teilte er den Tag des Herrn in zwei Teile.
+Warum hörte er dort auf? Weil er nicht gekommen war, um zu richten — noch nicht. „Gott hat seinen Sohn nicht in die Welt gesandt, dass er die Welt richte, sondern dass die Welt durch ihn gerettet werde“ (Joh 3,17); „ich bin nicht gekommen, dass ich die Welt richte, sondern dass ich die Welt rette“ (Joh 12,47). Wäre er damals als Richter gekommen, {{% bible val="hätte niemand bestehen können" link="mat:11,20-24" lang="de" %}}.
+
+So kommt der Tag des Herrn in zwei Teilen. Das Gnadenjahr des Herrn begann mit seinem ersten Kommen; der Tag der Vergeltung wartet auf seine Wiederkunft. Das Reich ist schon da und noch nicht vollendet.[^already]
+
+[^already]: Beale, S. 37–39.

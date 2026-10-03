@@ -38,10 +38,10 @@ The church is removed from earth before any part of a future seven-year tribulat
 
 **Against:**
 
-- {{% int_link val="The previous article's word study" link="/expl/topics/others/the-rapture" %}} shows that "meet" (*apantēsis*) in 1 Thessalonians 4:17 describes going out to escort an arriving dignitary the rest of the way in, not being carried off — which cuts against any secret, separate departure.
+- {{% int_link val="The previous article's word study" link="/expl/topics/others/the-rapture" %}} shows that "meet" (*apantēsis*) in 1 Thessalonians 4:17 most likely describes going out to escort an arriving dignitary the rest of the way in, not being carried off — which cuts against any secret, separate departure.
 - Paul never actually names the restrainer in 2 Thessalonians 2. Serious commentators identify it variously as the Holy Spirit's restraining presence in the world, the ongoing preaching of the gospel, human government, or even the archangel Michael (compare {{% bible val="Michael's own restraining role" link="dan:12,1" lang="en" %}}) — none of which requires the church itself to be physically removed from earth, only that a particular restraining influence steps back or is set aside.
 - The church's absence from the label "church" in chapters 4–19 is an argument from silence; the same chapters keep addressing believers directly under other names — {{% bible val="the saints" link="rev:13,7" lang="en" %}}, {{% bible val="those who keep God's commands and hold to the testimony of Jesus" link="rev:12,17" lang="en" %}}, {{% bible val="those slain because of the word of God" link="rev:6,9" lang="en" %}}.
-- No writer before Darby in the 1830s taught a pretribulational rapture; the view has no support anywhere in the early church, which is a striking gap for something claimed to be the New Testament's own plain teaching.
+- There is no clear teaching of a pretribulational rapture before the 1830s. The few earlier texts its defenders cite are disputed.[^before] That is a striking gap for something claimed to be the New Testament's own plain teaching.
 - {{% bible val="'kept from the hour of trial'" link="rev:3,10" lang="en" %}} uses the same construction elsewhere for being {{% bible val="kept safe through danger, not removed from the place where the danger is" link="jhn:17,15" lang="en" %}}, where Jesus prays the Father would keep believers *from the evil one* while explicitly *not* taking them out of the world.
 
 ## Mid-tribulational
@@ -85,7 +85,7 @@ There is no separate rapture event at all, secret or otherwise. Believers are ga
 
 **In favor:**
 
-- It fits the actual meaning of "meet" (*apantēsis*) in {{% bible val="1 Thessalonians 4:17" link="1th:4,17" lang="en" %}}: going out to escort an arriving figure back the way he came, which points to Christ's trajectory as downward, toward earth, not believers' trajectory as upward, away from it.
+- It fits the likely meaning of "meet" (*apantēsis*) in {{% bible val="1 Thessalonians 4:17" link="1th:4,17" lang="en" %}}: going out to escort an arriving figure back the way he came, which points to Christ's trajectory as downward, toward earth, not believers' trajectory as upward, away from it.
 - It's the reading the church held for eighteen centuries before dispensationalism introduced an alternative — {{% int_link val="a genuinely new development, not a rediscovered plain sense of Scripture" link="/expl/topics/others/dispensionalism-a-little-history" %}} (compare {{% int_link val="Justin Martyr's own early, non-dispensational premillennialism" link="/expl/topics/others/dispensionalism-a-little-history" %}}, which — like every other view before Darby — assumed no separate pretribulational rapture at all).
 - It doesn't need Revelation's plagues read as a single strict timetable at all, since there's no rapture date to locate within it.
 - It matches {{% bible val="Jesus' own end-time teaching" link="mat:24,29-31" lang="en" %}}, where the gathering of the elect happens *after* the tribulation and *at* his visible coming, with angels and trumpet together, not in two separate stages years apart.
@@ -117,3 +117,5 @@ A few closing questions worth sitting with:
 - If {{% bible val="Revelation 3:10" link="rev:3,10" lang="en" %}} doesn't promise removal from trial, what does it promise instead — and how would you know the difference from inside a real trial?
 - Whichever view you hold, does it change how you'd counsel a friend facing real persecution for their faith right now, today, rather than in some future period?
 - {{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources#bock_millennium" %}} models how to compare positions fairly by hearing each one from a scholar who actually holds it — {{% int_link val="a similar volume exists for the rapture-timing debate" link="/about/ressources#rapture_views" %}}, if you want to go deeper than a summary like this one.
+
+[^before]: The texts are a sermon attributed to Ephraem the Syrian ("Pseudo-Ephraem") and the Baptist Morgan Edwards (1788). They are put forward by Thomas Ice and Timothy Demy, *Bibliotheca Sacra* 152 (1995), pp. 306–317.

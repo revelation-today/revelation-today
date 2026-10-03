@@ -11,6 +11,8 @@ sources:
       ref: beale_rev
     - pages: l–lxx
       ref: aune_rev
+    - pages: lxvii–lxix
+      ref: aune_rev
 ---
 
 Setiap artikel di situs ini mengasumsikan seorang penulis dan sebuah masa penulisan untuk Kitab Wahyu, meskipun tidak selalu dinyatakan secara terbuka. Keduanya diperdebatkan di kalangan para sarjana yang serius dan setia — jadi ada baiknya menyatakan dengan jelas apa yang diasumsikan situs ini, mengapa, dan apa yang sebenarnya akan berubah jika kamu mengasumsikan hal lain.
@@ -41,7 +43,9 @@ Ini bukan sekadar catatan kaki akademis. Beberapa artikel di situs ini bergantun
 
 - **Ketujuh surat.** {{% int_link val="Efesus yang telah kehilangan kasihnya yang semula" link="/expl/content/letters/the-letter-to-the-church-in-ephesus" %}}, dan {{% int_link val="kekayaan Laodikia yang mapan dan mencukupi diri sendiri" link="/expl/content/letters/the-letter-to-the-church-in-laodicea" %}} — dibangun kembali setelah gempa bumi sungguhan tanpa meminta bantuan Roma — keduanya paling wajar dibaca sebagai gereja-gereja yang telah memiliki sejarah beberapa dekade, bukan hanya beberapa tahun. Memilih masa Nero akan berarti memikirkan ulang pembacaan "kepuasan diri" ini di lebih dari satu artikel tersebut.
 - **Mengidentifikasi "sang pelacur" dan raja-rajanya.** {{% int_link val="Hitungan tujuh raja dalam Wahyu 17" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}} hanya berfungsi jika kamu sudah memilih titik awal pada daftar kaisar. Tanggal mana pun yang dipilih situs ini (atau pembaca mana pun) secara efektif juga menjawab pertanyaan itu, entah dinyatakan secara eksplisit atau tidak.
-- **Bentuk penganiayaan yang digambarkan.** Tekanan yang digambarkan di seluruh surat-surat itu — {{% int_link val="kuil-kuil yang dibangun untuk menghormati kaisar" link="/expl/content/letters/the-letter-to-the-church-in-pergamon" %}}, penyembahan yang dituntut di seluruh provinsi — lebih cocok dengan pemerintahan Domitianus, ketika penyembahan kaisar didorong keras di seluruh Asia Kecil, dibandingkan dengan Nero, yang penganiayaannya tajam namun sebagian besar terbatas di Roma sendiri.
+- **Bentuk tekanan yang digambarkan.** Tekanan yang digambarkan di seluruh surat-surat itu — {{% int_link val="kuil-kuil yang dibangun untuk menghormati kaisar" link="/expl/content/letters/the-letter-to-the-church-in-pergamon" %}}, perayaan-perayaan kultus yang diharapkan diikuti para warga — lebih cocok dengan tahun 90-an daripada tahun 60-an. Tekanan itu lebih banyak datang dari provinsi itu sendiri daripada dari Domitianus: kota-kota dan keluarga-keluarga terkemukanya berlomba menghormati kaisar, dan orang Kristen yang tidak ikut serta menjadi mencolok.[^pressure] Sebaliknya, penganiayaan Nero terbatas di Roma dan mempunyai sebab lain, yaitu kebakaran tahun 64 M.
 - **666 dan Nero.** Yang satu ini sebenarnya tidak memaksa sebuah pilihan ke arah mana pun: {{% int_link val="gematria yang menghubungkan 666 dengan Nero Caesar" link="/expl/content/beasts/666-the-number-of-the-beast" %}} berlaku di bawah kedua tanggal itu, karena legenda bahwa Nero akan kembali terus beredar selama beberapa dekade setelah kematiannya.
 
 Tak satu pun dari ini disajikan untuk menyelesaikan perdebatan — pembaca yang menganggap argumen masa Nero mengenai {{% bible val="Bait Suci yang masih berdiri" link="rev:11,1-2" lang="ind" %}} lebih meyakinkan, memiliki dasar tekstual yang nyata. Ini ada di sini agar jika kamu menyadari situs ini mengasumsikan gereja-gereja yang telah lama mapan dan tekanan kekaisaran di seluruh wilayah, kamu tahu alasannya, dan tahu bahwa itu adalah sebuah pilihan, bukan kebetulan.
+
+[^pressure]: Beale, hlm. 5, 14–15, mengikuti Price dan Friesen; Aune, *Revelation 1–5*, hlm. lxvii–lxix.

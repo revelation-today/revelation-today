@@ -11,6 +11,8 @@ sources:
       ref: beale_rev
     - pages: l–lxx
       ref: aune_rev
+    - pages: lxvii–lxix
+      ref: aune_rev
 ---
 
 Jeder Artikel auf dieser Seite setzt einen Autor und eine Entstehungszeit für das Buch der Offenbarung voraus, auch wenn das nicht immer ausgesprochen wird. Beides ist unter ernsthaften, gläubigen Gelehrten umstritten — deshalb lohnt es sich, offen zu sagen, wovon diese Seite ausgeht, warum, und was sich tatsächlich ändern würde, wenn man etwas anderes annähme.
@@ -41,7 +43,9 @@ Das ist keine bloße akademische Fußnote. Eine Handvoll Artikel auf dieser Seit
 
 - **Die sieben Sendschreiben.** Dass {{% int_link val="Ephesus seine erste Liebe verloren hat" link="/expl/content/letters/the-letter-to-the-church-in-ephesus" %}} und {{% int_link val="Laodizeas gesetzter, selbstgenügsamer Wohlstand" link="/expl/content/letters/the-letter-to-the-church-in-laodicea" %}} — wieder aufgebaut nach einem echten Erdbeben, ohne Rom um Hilfe zu bitten — beides liest sich am natürlichsten als Gemeinden mit ein paar Jahrzehnten Geschichte hinter sich, nicht wenigen Jahren. Eine Datierung unter Nero würde bedeuten, die „Selbstzufriedenheits"-Lesart in mehr als einem dieser Artikel zu überdenken.
 - **Die Identifizierung „der Hure" und ihrer Könige.** {{% int_link val="Die Zählung der sieben Könige in Offenbarung 17" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}} funktioniert nur, wenn man zuvor einen Startpunkt auf der Kaiserliste festgelegt hat. Welche Datierung diese Seite (oder jeder Leser) auch wählt — sie beantwortet damit faktisch auch diese Frage, ob sie es nun ausdrücklich sagt oder nicht.
-- **Die Form der beschriebenen Verfolgung.** Der Druck, der in den Sendschreiben beschrieben wird — {{% int_link val="Tempel, die zu Ehren des Kaisers errichtet wurden" link="/expl/content/letters/the-letter-to-the-church-in-pergamon" %}}, Anbetung, die provinzweit gefordert wird — passt besser zur Herrschaft Domitians, unter dem der Kaiserkult in ganz Kleinasien massiv vorangetrieben wurde, als zu Nero, dessen Verfolgung zwar scharf, aber weitgehend auf Rom selbst begrenzt war.
+- **Die Form des beschriebenen Drucks.** Der Druck, der in den Sendschreiben beschrieben wird — {{% int_link val="Tempel, die zu Ehren des Kaisers errichtet wurden" link="/expl/content/letters/the-letter-to-the-church-in-pergamon" %}}, Kultfeste, an denen die Bürger teilnehmen sollten — passt besser in die 90er als in die 60er Jahre. Er ging weniger von Domitian selbst aus als von der Provinz: Städte und ihre führenden Familien wetteiferten darum, den Kaiser zu ehren, und Christen, die fernblieben, fielen auf.[^pressure] Neros Verfolgung dagegen blieb auf Rom beschränkt und hatte einen anderen Anlass, den Brand von 64 n. Chr.
 - **666 und Nero.** Dieser Punkt zwingt tatsächlich nicht zu einer Entscheidung in die eine oder andere Richtung: {{% int_link val="die Gematria, die 666 mit Nero Caesar verbindet" link="/expl/content/beasts/666-the-number-of-the-beast" %}} funktioniert unter beiden Datierungen, da die Legende, Nero werde zurückkehren, noch Jahrzehnte nach seinem Tod im Umlauf war.
 
 Nichts davon soll die Debatte entscheiden — ein Leser, den die neronische Argumentation zu {{% bible val="dem noch stehenden Tempel" link="rev:11,1-2" lang="de" %}} überzeugender findet, steht auf echtem textlichem Boden. Es steht hier, damit du, falls dir auffällt, dass diese Seite lang gefestigte Gemeinden und reichsweiten kaiserlichen Druck voraussetzt, weißt, warum — und weißt, dass es eine Entscheidung ist, kein Zufall.
+
+[^pressure]: Beale, S. 5, 14–15, nach Price und Friesen; Aune, *Revelation 1–5*, S. lxvii–lxix.

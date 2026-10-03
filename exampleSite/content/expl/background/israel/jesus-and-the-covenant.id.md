@@ -83,4 +83,8 @@ Terakhir, sisa itu tidak terdiri dari orang-orang saleh, melainkan dari mereka y
 
 Tetapi jika dibandingkan dengan {{% bible val="ayat Yesaya" link="isa:61,1-2" lang="ind" %}}, akan terlihat bahwa Ia berhenti di tengah kalimat: "untuk memberitakan tahun rahmat TUHAN telah datang, dan hari pembalasan Allah kita"
 
-Yesus tidak datang untuk menghakimi karena {{% bible val="Ia harus menghakimi semua orang" link="mat:11,20-24" lang="ind" %}} pada waktu itu, sehingga Ia membagi Hari Tuhan menjadi dua bagian.
+Mengapa Ia berhenti di situ? Karena Ia tidak datang untuk menghakimi — belum. "Allah mengutus Anak-Nya ke dalam dunia bukan untuk menghakimi dunia, melainkan untuk menyelamatkannya oleh Dia" (Yoh. 3:17); "Aku datang bukan untuk menghakimi dunia, melainkan untuk menyelamatkannya" (Yoh. 12:47). Seandainya Ia datang sebagai hakim pada waktu itu, {{% bible val="tidak seorang pun dapat bertahan" link="mat:11,20-24" lang="ind" %}}.
+
+Jadi Hari Tuhan datang dalam dua bagian. Tahun rahmat Tuhan dimulai dengan kedatangan-Nya yang pertama; hari pembalasan menantikan kedatangan-Nya kembali. Kerajaan itu sudah hadir, dan belum sempurna.[^already]
+
+[^already]: Beale, hlm. 37–39.

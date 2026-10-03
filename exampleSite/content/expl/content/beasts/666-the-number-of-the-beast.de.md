@@ -64,7 +64,7 @@ Das hielt den Mythos vom wiederkehrenden Nero am Leben. Da er nun mit den Parthe
 
 Sein unklares Ende, ob er nun wirklich tot war oder nicht, macht die {{% bible val="Erscheinung des ersten Tieres zu einem perfekten Abbild von ihm" link="rev:13,3" lang="de" %}}. Auch {{% bible val="die sechste Schale" link="rev:16,12" lang="de" %}} könnte in dieselbe Richtung weisen, da sie durchaus einen Angriff der Parther beschreiben könnte.
 
-## Der Kaiser Trajan
+## Ein Beispiel: Kaiser Trajan
 
 <a name="0a94"></a>
 Es lohnt sich außerdem, auf eine spätere Gestalt hinzuweisen, die dasselbe Muster in ihrer eigenen Generation veranschaulicht, aus zwei Gründen:
@@ -72,10 +72,10 @@ Es lohnt sich außerdem, auf eine spätere Gestalt hinzuweisen, die dasselbe Mus
 - er war noch zu Lebzeiten der ersten Leser des Briefes Kaiser (auch wenn er erst im Jahr 98 n. Chr. an die Macht kam, ein paar Jahre nachdem die Offenbarung gewöhnlich datiert wird — unter Domitian, etwa 95–96 n. Chr.), und
 - er {{% int_link val="spiegelt den zweifachen Angriff des Tieres wider" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-Die Person, auf die diese Beschreibung passt, ist Kaiser [Trajan](https://de.wikipedia.org/wiki/Trajan), der:
+Der Kaiser, an dem sich das am deutlichsten zeigt, ist Trajan, der:
 
 - von 98–117 regierte, also noch gut innerhalb einer Generation nach der Abfassung des Briefes,
-- die Verfolgung der Christen unterstützte, wenn sie sich nicht fügten, und dennoch
+- verfügte, dass Christen nicht aufgespürt, aber bestraft werden sollten, wenn sie angezeigt wurden und das Opfer verweigerten,[^pliny] und dennoch
 - als einer der [fünf guten Kaiser](https://de.wikipedia.org/wiki/Trajan#Der_%E2%80%9Ebeste_Kaiser%E2%80%9C) galt: Unter seiner Herrschaft erreichte das Römische Reich seine größte Ausdehnung, er richtete ein umfangreiches Wohlfahrtsprogramm ein, führte große Bauprojekte durch und investierte erheblich in öffentliche Spiele — all das Ausdruck des [Römischen Friedens](https://de.wikipedia.org/wiki/Pax_Romana).
 
 ## Daniels Freunde im Feuerofen
@@ -120,3 +120,5 @@ Wer meint, die 666 beziehe sich auf einen Computerchip, der irgendwann implantie
 - Tonnen von Social-Media-Einträgen?
 
 [^frogs]: Beale, S. 833.
+
+[^pliny]: Plinius der Jüngere, *Briefe* 10,96–97: die Anfrage des Plinius aus Bithynien und Trajans Antwort, um 112 n. Chr.

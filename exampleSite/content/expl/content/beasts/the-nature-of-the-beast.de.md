@@ -11,6 +11,12 @@ appl: /appl/content/beasts
 sources:
     - pages: 729
       ref: beale_rev
+    - pages: 20
+      ref: bauckham_climax
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
 ---
 
 Der Teufel und all seine Helfer nehmen in der Offenbarung ziemlich viel Raum ein, und auch diese Artikelreihe hat ihm schon einige Artikel gewidmet. Warum eigentlich? Sollte die Mühe nicht besser in die Beschreibung Gottes fließen? Es gibt einen guten Grund dafür.
@@ -64,7 +70,7 @@ Betrachten wir nun {{% int_link val="die vier Reiter, finden wir dasselbe Muster
 
 Der vierte Reiter fasst alle drei zusammen — ein weiteres Beispiel für dasselbe Dreifaltigkeitsmuster.
 
-Schließlich gibt es noch die Geschichte der Hure. Trotz der vielen Akteure in Kapitel 17 ist eine Dreifaltigkeit dort zunächst nicht offensichtlich. Aber zwei Beobachtungen bringen sie ans Licht.
+Schließlich gibt es noch die Geschichte der Hure, in der dieselben Mächte am Werk sind. Zwei Beobachtungen zeigen das.
 
 Erstens gibt es eine starke Parallele zwischen dem Tier in Kapitel 17 und dem ersten Tier in Kapitel 13.
 
@@ -77,22 +83,19 @@ Erstens gibt es eine starke Parallele zwischen dem Tier in Kapitel 17 und dem er
 | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}} | {{% bible val="Kämpft gegen Lamm und wird überwunden" link="rev:17,14" lang="de" %}} </br> {{% bible val="Kämpft gegen Hure und vernichtet sie" link="rev:17,16" lang="de" %}} |
 | {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an" link="rev:13,8" lang="de" %}} | {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt" link="rev:17,8" lang="de" %}} |
 
-Zweitens gibt es auch eine starke Verbindung zwischen dem zweiten Tier in Kapitel 13 und der Hure.
+Zweitens wirkt die Hure Seite an Seite mit dem zweiten Tier. Sie ist nicht das zweite Tier und nimmt auch nicht dessen Platz unter den dreien ein: Die Offenbarung hält ihre Feinde auseinander — den Drachen, das Tier, den falschen Propheten und Babylon —, und sie fallen einer nach dem anderen, in umgekehrter Reihenfolge.[^apart] Aber die Hure tut in Handel und Kultur, was das zweite Tier in der Religion tut.[^alike]
 
 ## Die Hure und das zweite Tier
 
 | Das zweite Tier aus Offenbarung 13 | Die Hure |
 |------------------------------------|----------|
-| {{% bible val="Kommt aus Erde" link="rev:13,11" lang="de" %}} | {{% bible val="Sitzt in Wüste" link="rev:17,3" lang="de" %}} |
-| {{% bible val="Hat zwei Hörner wie ein Lamm" link="rev:13,11" lang="de" %}} | {{% bible val="Ist reich gekleidet und geschmückt" link="rev:17,4" lang="de" %}}, was an das spätere Bild der Braut im Buch erinnert ({{% bible val="die Braut des Lammes" link="rev:21,9" lang="de" %}}) |
-| {{% bible val="Agiert in Macht des (ersten) Tieres" link="rev:13,12" lang="de" %}} | {{% bible val="Sitzt auf dem (ersten) Tier" link="rev:17,3" lang="de" %}} |
-| {{% bible val="Kann Feuer vom Himmel fallen lassen" link="rev:13,13" lang="de" %}} | {{% bible val="Wird durch Feuer vernichtet" link="rev:17,16" lang="de" %}} ({{% bible val="Offb.18/9" link="rev:18,9" lang="de" %}}) |
-| {{% bible val="Alle, die es nicht anbeten werden getötet" link="rev:13,15" lang="de" %}} | {{% bible val="Trinkt Blut der Heiligen" link="rev:17,6" lang="de" %}} |
-| {{% bible val="Macht allen ein Zeichen an Stirn und Hand" link="rev:13,16" lang="de" %}} | {{% bible val="Hat Zeichen auf Stirn: Babel" link="rev:17,5" lang="de" %}} |
-| {{% bible val="Kann nicht kaufen oder verkaufen ohne Zeichen" link="rev:13,17" lang="de" %}} | {{% bible val="Händler, die mit ihr Handel trieben, können nichts mehr kaufen oder verkaufen, jetzt da sie gefallen ist" link="rev:18,11" lang="de" %}} ({{% bible val="Offb.18/11-17" link="rev:18,11-17" lang="de" %}}) |
-| {{% bible val="Benötigt Weisheit" link="rev:13,18" lang="de" %}} | {{% bible val="Benötigt Weisheit" link="rev:17,9" lang="de" %}} |
+| {{% bible val="Verführt die Bewohner der Erde" link="rev:13,14" lang="de" %}} | {{% bible val="Alle Völker wurden durch ihre Zauberei verführt" link="rev:18,23" lang="de" %}} |
+| {{% bible val="Handelt in der Macht des ersten Tieres" link="rev:13,12" lang="de" %}} | {{% bible val="Sitzt auf dem Tier" link="rev:17,3" lang="de" %}} |
+| {{% bible val="Alle, die nicht anbeten, werden getötet" link="rev:13,15" lang="de" %}} | {{% bible val="Trunken vom Blut der Heiligen" link="rev:17,6" lang="de" %}} |
+| {{% bible val="Niemand kann kaufen oder verkaufen ohne das Malzeichen" link="rev:13,17" lang="de" %}} | {{% bible val="Die Kaufleute der Erde wurden an ihr reich" link="rev:18,3" lang="de" %}} |
+| {{% bible val="Setzt ein Malzeichen auf die Stirn" link="rev:13,16" lang="de" %}} | {{% bible val="Trägt einen Namen auf der eigenen Stirn" link="rev:17,5" lang="de" %}} |
 
-Auch hier ist die Macht umgekehrt: Während das Tier in Kapitel 13 Feuer vom Himmel fallen lässt, wird sie in Kapitel 17 durch Feuer vernichtet; und während es dort Menschen ein Zeichen auf die Stirn setzt, trägt sie hier selbst einen Namen auf ihrer Stirn, als gehöre sie jemandem oder sei zum Gericht gezeichnet.
+Die letzte Zeile enthält eine Umkehrung. Das zweite Tier zeichnet die Stirnen anderer; die Hure trägt einen Namen auf ihrer eigenen, als wäre sie selbst jemandes Eigentum und für das Gericht gezeichnet.[^own]
 
 Wo bleibt also das dritte Mitglied der Dreifaltigkeit in dieser Szene? Er hält sich im Hintergrund, genau wie in Kapitel 13 und bei der Beschreibung der Reiter — aber man sieht ihn bei {{% bible val="der sechsten Schale" link="rev:16,13" lang="de" %}} und in Kapitel {{% bible val="20" link="rev:20,10" lang="de" %}}.
 
@@ -109,3 +112,8 @@ Das ist das Thema, das in der Geschichte vom Drachen und den beiden Tieren entfa
 
 Dieser Kontrast entfaltet sich schließlich vollständig in der letzten Vision, wo Babylon ausführlich als das dunkle Gegenstück zum Neuen Jerusalem beschrieben wird.
 
+[^apart]: Bauckham, *Climax*, S. 20, und *Theology*, S. 89; Beale, S. 148, 623, 812.
+
+[^alike]: Zur gemeinsamen Sprache der Verführung: Bauckham, *Theology*, S. 91, 124; Beale, S. 262. Dieselben unreinen Geister begegnen bei beiden (16,13–14; 18,2): Beale, S. 894.
+
+[^own]: Diese Beobachtung stammt von dieser Seite selbst.

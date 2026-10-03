@@ -22,6 +22,10 @@ sources:
       ref: beale_rev
     - pages: 21, 833, 875
       ref: beale_rev
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
 readBefore:
     - name: "Pax Romana — the key to understanding Revelation"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
@@ -117,23 +121,26 @@ She also shares a lot of similarities with Jezebel, who caused her own trouble i
 | **{{% bible val="Judgement comes quickly" link="2ki:9,33-35" lang="en" %}}** | **{{% bible val="Court comes quickly" link="rev:18,10" lang="en" %}}** ({{% bible val="Rev.18/17" link="rev:18,17" lang="en" %}}, {{% bible val="Rev.18/19" link="rev:18,19" lang="en" %}}) |
 | **{{% bible val="God judges successors" link="1ki:18,40" lang="en" %}}** ({{% bible val="2.Kön.10/19" link="2ki:10,19" lang="en" %}}) | **{{% bible val="God judges successors" link="rev:18,9-11" lang="en" %}}** ({{% bible val="Rev.2/23" link="rev:2,23" lang="en" %}}) |
 
-Finally, she has many parallels with the Second Beast from chapter 13.
+Finally, she works alongside the second beast from chapter 13, without being the same figure.[^apart] She does in trade and culture what the second beast does in religion.[^alike]
 
 ## The Harlot and the second beast
 
 | The Second Beast of Revelation 13 | The Harlot |
 |-----------------------------------|------------|
-| **{{% bible val="Comes from Earth" link="rev:13,11" lang="en" %}}** | **{{% bible val="Sits in desert" link="rev:17,3" lang="en" %}}** |
-| **{{% bible val="Has two horns like a lamb" link="rev:13,11" lang="en" %}}** | **{{% bible val="Is dressed like the bride of the lamb" link="rev:17,4" lang="en" %}}** |
-| **{{% bible val="Acts in power of the (first) beast" link="rev:13,12" lang="en" %}}** | **{{% bible val="Sits on the (first) beast" link="rev:17,3" lang="en" %}}** |
-| *Can make* **fire fall from the sky** {{% bible val="Rev.13/13" link="rev:13,13" lang="en" %}} | *Will be judged* **by fire** {{% bible val="Rev.17/16" link="rev:17,16" lang="en" %}} ({{% bible val="Rev.18/9" link="rev:18,9" lang="en" %}}) |
-| **{{% bible val="All who do not worship it will be killed" link="rev:13,15" lang="en" %}}** | **{{% bible val="Drink blood of the saints" link="rev:17,6" lang="en" %}}** |
-| *Makes* **a sign on forehead and hand** {{% bible val="Rev.13/16" link="rev:13,16" lang="en" %}} | *Has* **sign on forehead: Babylon** {{% bible val="Rev.17/5" link="rev:17,5" lang="en" %}} |
-| **{{% bible val="Cannot buy or sell without mark" link="rev:13,17" lang="en" %}}** | **{{% bible val="Cannot buy or sell without sign" link="rev:18,3" lang="en" %}}** ({{% bible val="Rev.18/11-17" link="rev:18,11-17" lang="en" %}}) |
-| **{{% bible val="Requires wisdom" link="rev:13,18" lang="en" %}}** | **{{% bible val="Requires wisdom" link="rev:17,9" lang="en" %}}** |
+| {{% bible val="Deceives those who live on the earth" link="rev:13,14" lang="en" %}} | {{% bible val="All the nations were deceived by her sorcery" link="rev:18,23" lang="en" %}} |
+| {{% bible val="Acts in the power of the first beast" link="rev:13,12" lang="en" %}} | {{% bible val="Sits on the beast" link="rev:17,3" lang="en" %}} |
+| {{% bible val="All who do not worship are killed" link="rev:13,15" lang="en" %}} | {{% bible val="Drunk with the blood of the saints" link="rev:17,6" lang="en" %}} |
+| {{% bible val="No one can buy or sell without the mark" link="rev:13,17" lang="en" %}} | {{% bible val="The merchants of the earth grew rich from her" link="rev:18,3" lang="en" %}} |
+| {{% bible val="Puts a mark on the forehead" link="rev:13,16" lang="en" %}} | {{% bible val="Bears a name on her own forehead" link="rev:17,5" lang="en" %}} |
 
-The power dynamic is reversed here too: in chapter 13 she dropped fire from heaven, but now she is destroyed by fire; there she made a mark on others' foreheads, but here she herself is branded on the forehead, like a slave.
+The last row holds a reversal. The second beast marks other people's foreheads; the harlot carries a name on her own, as if she herself were owned, and marked out for judgment.[^own]
 
 So the roles mirror each other across the two chapters: the first beast supports the harlot in chapter 17, just as the second beast supports the first beast in chapter 13.
 
 [^frogs]: Beale, p. 833.
+
+[^apart]: Bauckham, *Climax*, p. 20, and *Theology*, p. 89; Beale, pp. 148, 623, 812.
+
+[^alike]: On the shared language of deception: Bauckham, *Theology*, pp. 91, 124; Beale, p. 262. The same unclean spirits appear with both (16:13–14; 18:2): Beale, p. 894.
+
+[^own]: This observation is the site's own.

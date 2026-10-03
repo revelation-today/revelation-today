@@ -22,6 +22,10 @@ sources:
       ref: beale_rev
     - pages: 21, 833, 875
       ref: beale_rev
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
 readBefore:
     - name: "Pax Romana — Kunci untuk Memahami Kitab Wahyu"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
@@ -117,23 +121,26 @@ Ia juga memiliki banyak kesamaan dengan Izebel, yang menimbulkan masalahnya send
 | **{{% bible val="Penghakiman datang dengan cepat" link="2ki:9,33-35" lang="ind" %}}** | **{{% bible val="Penghakiman datang dengan cepat" link="rev:18,10" lang="ind" %}}** ({{% bible val="Why.18/17" link="rev:18,17" lang="ind" %}}, {{% bible val="Why.18/19" link="rev:18,19" lang="ind" %}}) |
 | **{{% bible val="Allah menghakimi para penerusnya" link="1ki:18,40" lang="ind" %}}** ({{% bible val="2Raj.10/19" link="2ki:10,19" lang="ind" %}}) | **{{% bible val="Allah menghakimi para penerusnya" link="rev:18,9-11" lang="ind" %}}** ({{% bible val="Why.2/23" link="rev:2,23" lang="ind" %}}) |
 
-Akhirnya, ia juga memiliki banyak kesejajaran dengan Binatang Kedua dari pasal 13.
+Akhirnya, ia bekerja berdampingan dengan binatang kedua dari pasal 13, tanpa menjadi sosok yang sama.[^apart] Ia melakukan dalam perdagangan dan kebudayaan apa yang dilakukan binatang kedua dalam agama.[^alike]
 
 ## Sang pelacur dan binatang kedua
 
 | Binatang Kedua dari Wahyu 13 | Sang pelacur |
 |-----------------------------------|------------|
-| **{{% bible val="Muncul dari bumi" link="rev:13,11" lang="ind" %}}** | **{{% bible val="Duduk di padang gurun" link="rev:17,3" lang="ind" %}}** |
-| **{{% bible val="Memiliki dua tanduk seperti anak domba" link="rev:13,11" lang="ind" %}}** | **{{% bible val="Berpakaian seperti mempelai perempuan Anak Domba" link="rev:17,4" lang="ind" %}}** |
-| **{{% bible val="Bertindak dengan kuasa binatang (pertama)" link="rev:13,12" lang="ind" %}}** | **{{% bible val="Duduk di atas binatang (pertama)" link="rev:17,3" lang="ind" %}}** |
-| *Dapat membuat* **api turun dari langit** {{% bible val="Why.13/13" link="rev:13,13" lang="ind" %}} | *Akan dihakimi* **dengan api** {{% bible val="Why.17/16" link="rev:17,16" lang="ind" %}} ({{% bible val="Why.18/9" link="rev:18,9" lang="ind" %}}) |
-| **{{% bible val="Semua yang tidak menyembahnya akan dibunuh" link="rev:13,15" lang="ind" %}}** | **{{% bible val="Meminum darah orang-orang kudus" link="rev:17,6" lang="ind" %}}** |
-| *Membuat* **tanda pada dahi dan tangan** {{% bible val="Why.13/16" link="rev:13,16" lang="ind" %}} | *Memiliki* **tanda pada dahi: Babel** {{% bible val="Why.17/5" link="rev:17,5" lang="ind" %}} |
-| **{{% bible val="Tidak dapat membeli atau menjual tanpa tanda" link="rev:13,17" lang="ind" %}}** | **{{% bible val="Tidak dapat membeli atau menjual tanpa tanda" link="rev:18,3" lang="ind" %}}** ({{% bible val="Why.18/11-17" link="rev:18,11-17" lang="ind" %}}) |
-| **{{% bible val="Membutuhkan hikmat" link="rev:13,18" lang="ind" %}}** | **{{% bible val="Membutuhkan hikmat" link="rev:17,9" lang="ind" %}}** |
+| {{% bible val="Menyesatkan mereka yang diam di bumi" link="rev:13,14" lang="ind" %}} | {{% bible val="Semua bangsa disesatkan oleh sihirnya" link="rev:18,23" lang="ind" %}} |
+| {{% bible val="Bertindak dengan kuasa binatang pertama" link="rev:13,12" lang="ind" %}} | {{% bible val="Duduk di atas binatang itu" link="rev:17,3" lang="ind" %}} |
+| {{% bible val="Semua yang tidak menyembah dibunuh" link="rev:13,15" lang="ind" %}} | {{% bible val="Mabuk oleh darah orang-orang kudus" link="rev:17,6" lang="ind" %}} |
+| {{% bible val="Tidak seorang pun dapat membeli atau menjual tanpa tanda itu" link="rev:13,17" lang="ind" %}} | {{% bible val="Para pedagang di bumi menjadi kaya karena dia" link="rev:18,3" lang="ind" %}} |
+| {{% bible val="Memberi tanda pada dahi" link="rev:13,16" lang="ind" %}} | {{% bible val="Membawa sebuah nama pada dahinya sendiri" link="rev:17,5" lang="ind" %}} |
 
-Dinamika kekuasaan ini juga terbalik di sini: pada pasal 13 ia menurunkan api dari langit, tetapi kini ia dibinasakan oleh api; di sana ia membuat tanda pada dahi orang lain, tetapi di sini ia sendiri dicap pada dahinya, seperti seorang budak.
+Baris terakhir memuat sebuah pembalikan. Binatang kedua menandai dahi orang lain; sang pelacur membawa sebuah nama pada dahinya sendiri, seolah-olah ia sendiri dimiliki dan ditandai untuk penghakiman.[^own]
 
 Jadi peran-peran ini saling mencerminkan di kedua pasal itu: binatang pertama mendukung sang pelacur pada pasal 17, sama seperti binatang kedua mendukung binatang pertama pada pasal 13.
 
 [^frogs]: Beale, hlm. 833.
+
+[^apart]: Bauckham, *Climax*, hlm. 20, dan *Theology*, hlm. 89; Beale, hlm. 148, 623, 812.
+
+[^alike]: Tentang bahasa penyesatan yang sama: Bauckham, *Theology*, hlm. 91, 124; Beale, hlm. 262. Roh-roh najis yang sama muncul pada keduanya (16:13–14; 18:2): Beale, hlm. 894.
+
+[^own]: Pengamatan ini berasal dari situs ini sendiri.

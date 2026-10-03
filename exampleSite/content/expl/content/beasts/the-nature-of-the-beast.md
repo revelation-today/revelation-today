@@ -11,6 +11,12 @@ appl: /appl/content/beasts
 sources:
     - pages: 729
       ref: beale_rev
+    - pages: 20
+      ref: bauckham_climax
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
 ---
 
 The devil and all his minions take up quite a bit of space in the book of Revelation, and this study has spent quite a few articles on the subject too. Why is that? Shouldn't the effort go toward describing God instead? There is a reason.
@@ -64,7 +70,7 @@ If we now look {{% int_link val="at the four horsemen, we find the same pattern"
 
 The fourth horseman summarizes all three — another instance of the same trinity pattern.
 
-Finally, there's the story of the harlot. Despite the many players in chapter 17, a trinity isn't obvious there at first. But two observations bring it into view.
+Finally, there's the story of the harlot, where the same powers are at work. Two observations show it.
 
 First, there is a strong parallel between the beast in chapter 17 and the first beast in chapter 13.
 
@@ -77,22 +83,19 @@ First, there is a strong parallel between the beast in chapter 17 and the first 
 | {{% bible val="Fight against saints and defeat them" link="rev:13,7" lang="en" %}} | {{% bible val="Fights against Lamb and is overcome" link="rev:17,14" lang="en" %}} </br> {{% bible val="Fight against Harlot and destroys it" link="rev:17,16" lang="en" %}}. |
 | {{% bible val="All who are not written in the book of life worship the beast" link="rev:13,8" lang="en" %}} | {{% bible val="All who are not written in the book of life are overwhelmed" link="rev:17,8" lang="en" %}} |
 
-Second, there is also a strong connection between the second beast in chapter 13 and the harlot.
+Second, the harlot works alongside the second beast. She is not the second beast, and she does not take its place among the three: Revelation keeps its enemies apart — the dragon, the beast, the false prophet and Babylon — and they fall one after another, in reverse order.[^apart] But the harlot does in trade and culture what the second beast does in religion.[^alike]
 
 ## The harlot and the second beast
 
 | The Second Beast of Revelation 13 | The Harlot |
 |-----------------------------------|------------|
-| {{% bible val="Comes from Earth" link="rev:13,11" lang="en" %}} | {{% bible val="Sits in desert" link="rev:17,3" lang="en" %}} |
-| {{% bible val="Has two horns like a lamb" link="rev:13,11" lang="en" %}} | {{% bible val="Is richly dressed and adorned" link="rev:17,4" lang="en" %}}, recalling the bride's imagery later in the book ({{% bible val="the bride of the Lamb" link="rev:21,9" lang="en" %}}) |
-| {{% bible val="Acts in power of the (first) beast" link="rev:13,12" lang="en" %}} | {{% bible val="Sits on the (first) beast" link="rev:17,3" lang="en" %}} |
-| {{% bible val="Can make fire fall from the sky" link="rev:13,13" lang="en" %}} | {{% bible val="Will be destroyed by fire" link="rev:17,16" lang="en" %}} ({{% bible val="Rev.18/9" link="rev:18,9" lang="en" %}}) |
-| {{% bible val="All who do not worship it will be killed" link="rev:13,15" lang="en" %}} | {{% bible val="Drink blood of the saints" link="rev:17,6" lang="en" %}} |
-| {{% bible val="Make a mark on forehead and hand" link="rev:13,16" lang="en" %}} | {{% bible val="Has sign on forehead: Babel" link="rev:17,5" lang="en" %}} |
-| {{% bible val="Cannot buy or sell without the mark" link="rev:13,17" lang="en" %}} | {{% bible val="Merchants who traded with her can no longer buy or sell anything, now that she has fallen" link="rev:18,11" lang="en" %}} ({{% bible val="Rev.18/11-17" link="rev:18,11-17" lang="en" %}}) |
-| {{% bible val="Requires wisdom" link="rev:13,18" lang="en" %}} | {{% bible val="Requires wisdom" link="rev:17,9" lang="en" %}} |
+| {{% bible val="Deceives those who live on the earth" link="rev:13,14" lang="en" %}} | {{% bible val="All the nations were deceived by her sorcery" link="rev:18,23" lang="en" %}} |
+| {{% bible val="Acts in the power of the first beast" link="rev:13,12" lang="en" %}} | {{% bible val="Sits on the beast" link="rev:17,3" lang="en" %}} |
+| {{% bible val="All who do not worship are killed" link="rev:13,15" lang="en" %}} | {{% bible val="Drunk with the blood of the saints" link="rev:17,6" lang="en" %}} |
+| {{% bible val="No one can buy or sell without the mark" link="rev:13,17" lang="en" %}} | {{% bible val="The merchants of the earth grew rich from her" link="rev:18,3" lang="en" %}} |
+| {{% bible val="Puts a mark on the forehead" link="rev:13,16" lang="en" %}} | {{% bible val="Bears a name on her own forehead" link="rev:17,5" lang="en" %}} |
 
-Notice how the power is reversed here too: while in chapter 13 the beast drops fire from heaven, in chapter 17 she is destroyed by fire; while she makes a mark on people's foreheads there, here her own forehead bears a name, as if she were owned or marked out for judgment.
+The last row holds a reversal. The second beast marks other people's foreheads; the harlot carries a name on her own, as if she herself were owned, and marked out for judgment.[^own]
 
 So where is the third member of the trinity in this scene? He stays in the background, just as he does in chapter 13 and in the description of the horsemen — but you do see him in {{% bible val="the sixth bowl" link="rev:16,13" lang="en" %}} and in chapter {{% bible val="20" link="rev:20,10" lang="en" %}}.
 
@@ -108,3 +111,9 @@ He appears to be the victorious one, but he ends up leaving destruction and deat
 That's the theme developed in the story of the dragon and the two beasts. There, {{% int_link val="Satan does have some genuinely appealing things to offer" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Yet the text sets a clear alternative alongside it: {{% int_link val="the two witnesses, who live a lifestyle of worship and stay faithful in their testimony even to death" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
 This contrast finally unfolds in full in the last vision, where Babylon is described in detail as the dark counterpart of the New Jerusalem.
+
+[^apart]: Bauckham, *Climax*, p. 20, and *Theology*, p. 89; Beale, pp. 148, 623, 812.
+
+[^alike]: On the shared language of deception: Bauckham, *Theology*, pp. 91, 124; Beale, p. 262. The same unclean spirits appear with both (16:13–14; 18:2): Beale, p. 894.
+
+[^own]: This observation is the site's own.

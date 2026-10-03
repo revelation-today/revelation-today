@@ -83,5 +83,8 @@ Finally, the remnant is not made up of the religious but of those who keep God's
 
 But if you compare it with the {{% bible val="passage of Isaiah" link="isa:61,1-2" lang="en" %}} you will see that he stopped in the middle of the sentence: “to proclaim the year of the Lord’s favor and the day of vengeance of our God”
 
-Jesus did not come to judge because {{% bible val="He would have to judge everyone" link="mat:11,20-24" lang="en" %}} at this time, so He divided the Day of the Lord into two parts.
+Why did he stop there? Because he had not come to judge — not yet. "God did not send his Son into the world to condemn the world, but to save the world through him" (John 3:17); "I did not come to judge the world, but to save the world" (John 12:47). Had he come as judge then, {{% bible val="no one could have stood" link="mat:11,20-24" lang="en" %}}.
 
+So the Day of the Lord comes in two parts. The year of the Lord's favour began with his first coming; the day of vengeance waits for his return. The kingdom is already here, and not yet complete.[^already]
+
+[^already]: Beale, pp. 37–39.

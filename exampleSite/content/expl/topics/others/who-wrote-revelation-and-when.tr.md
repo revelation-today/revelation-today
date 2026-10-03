@@ -11,6 +11,8 @@ sources:
       ref: beale_rev
     - pages: l–lxx
       ref: aune_rev
+    - pages: lxvii–lxix
+      ref: aune_rev
 ---
 
 Bu sitedeki her makale, açıkça söylenmese bile, Vahiy kitabı için bir yazar ve bir tarih varsayar. Her ikisi de ciddi, imanlı bilim insanları arasında tartışmalıdır — bu yüzden bu sitenin neyi varsaydığını, nedenini ve başka bir şey varsayılsaydı gerçekte neyin değişeceğini açıkça belirtmekte fayda var.
@@ -41,7 +43,9 @@ Bu yalnızca akademik bir dipnot değildir. Bu sitedeki bir avuç makale hangi t
 
 - **Yedi mektup.** {{% int_link val="Efes'in ilk sevgisini kaybetmiş olması" link="/expl/content/letters/the-letter-to-the-church-in-ephesus" %}} ve {{% int_link val="Laodikya'nın yerleşik, kendine yeten zenginliği" link="/expl/content/letters/the-letter-to-the-church-in-laodicea" %}} — Roma'dan yardım istemeden gerçek bir depremin ardından yeniden inşa edilmiş — ikisi de birkaç yıl değil, birkaç on yıllık geçmişi olan kiliseler olarak en doğal şekilde okunur. Nero dönemini seçmek, bu makalelerden birden fazlasındaki "kayıtsızlık" okumasını yeniden düşünmek anlamına gelirdi.
 - **"Fahişe"yi ve krallarını tanımlamak.** {{% int_link val="Vahiy 17'deki yedi kral sayımı" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}} yalnızca imparatorlar listesinde bir başlangıç noktası seçtiğinizde işler. Bu site (ya da herhangi bir okuyucu) hangi tarihi benimserse benimsesin, açıkça söylesin ya da söylemesin, fiilen bu soruyu da yanıtlamış olur.
-- **Tarif edilen zulmün şekli.** Mektuplarda tarif edilen baskı — {{% int_link val="imparatoru onurlandırmak için inşa edilen tapınaklar" link="/expl/content/letters/the-letter-to-the-church-in-pergamon" %}}, eyalet çapında talep edilen tapınma — Nero'nunkinden çok daha iyi Domitianus'un saltanatına uyar; zira Nero'nun zulmü keskin ama büyük ölçüde Roma'nın kendisiyle sınırlıyken, Domitianus döneminde imparator kültü tüm Küçük Asya'da ısrarla dayatılıyordu.
+- **Tarif edilen baskının şekli.** Mektuplarda tarif edilen baskı — {{% int_link val="imparatoru onurlandırmak için inşa edilen tapınaklar" link="/expl/content/letters/the-letter-to-the-church-in-pergamon" %}}, yurttaşların katılmasının beklendiği kült şenlikleri — 60'lı yıllardan çok 90'lı yıllara uyar. Bu baskı Domitianus'un kendisinden çok eyaletten geliyordu: kentler ve önde gelen aileleri imparatoru onurlandırmak için yarışıyor, uzak duran Hristiyanlar da göze batıyordu.[^pressure] Nero'nun zulmü ise Roma'yla sınırlıydı ve başka bir nedeni vardı: MS 64 yangını.
 - **666 ve Nero.** Bu nokta aslında iki yönde de bir seçim zorlamaz: {{% int_link val="666'yı Nero Caesar'a bağlayan gematria" link="/expl/content/beasts/666-the-number-of-the-beast" %}} her iki tarihte de işler, çünkü Nero'nun geri döneceği efsanesi ölümünden onlarca yıl sonra bile dolaşmaya devam etti.
 
 Bunların hiçbiri tartışmayı kesin olarak çözmek için sunulmuyor — {{% bible val="tapınağın hâlâ ayakta olduğu" link="rev:11,1-2" lang="tr" %}} konusunda Nero dönemi savını daha ikna edici bulan bir okuyucunun gerçek bir metinsel dayanağı vardır. Bu, bu sitenin uzun süredir yerleşmiş kiliseleri ve imparatorluk çapında baskıyı varsaydığını fark ederseniz, bunun nedenini bilmeniz için burada — ve bunun bir tesadüf değil, bir seçim olduğunu bilmeniz için.
+
+[^pressure]: Beale, s. 5, 14–15, Price ve Friesen'i izleyerek; Aune, *Revelation 1–5*, s. lxvii–lxix.

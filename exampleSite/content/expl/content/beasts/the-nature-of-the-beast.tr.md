@@ -11,6 +11,12 @@ appl: /appl/content/beasts
 sources:
     - pages: 729
       ref: beale_rev
+    - pages: 20
+      ref: bauckham_climax
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
 ---
 
 Şeytan ve bütün uşakları Vahiy kitabında oldukça fazla yer kaplar; bu çalışma da bu konuya epeyce makale ayırdı. Neden peki? Bu çabanın Tanrı'yı betimlemeye gitmesi gerekmez mi? Bunun bir nedeni var.
@@ -64,7 +70,7 @@ Kiliseyi aldatmak için {{% int_link val="kötü bir üçlü kurar" link="/expl/
 
 Dördüncü atlı üçünü birden özetler — aynı üçlü örüntünün bir başka örneği daha.
 
-Son olarak, fahişenin öyküsü var. 17. bölümdeki pek çok oyuncuya rağmen, orada bir üçlü ilk bakışta açık değildir. Ama iki gözlem bunu görünür kılar.
+Son olarak, aynı güçlerin iş başında olduğu fahişenin öyküsü var. İki gözlem bunu gösterir.
 
 İlk olarak, 17. bölümdeki canavarla 13. bölümdeki ilk canavar arasında güçlü bir paralellik vardır.
 
@@ -77,22 +83,19 @@ Son olarak, fahişenin öyküsü var. 17. bölümdeki pek çok oyuncuya rağmen,
 | {{% bible val="Kutsallarla savaşır ve onları yener" link="rev:13,7" lang="tr" %}} | {{% bible val="Kuzu'yla savaşır ve yenilir" link="rev:17,14" lang="tr" %}} </br> {{% bible val="Fahişeyle savaşır ve onu yok eder" link="rev:17,16" lang="tr" %}}. |
 | {{% bible val="Yaşam kitabında adı yazılı olmayan herkes canavara tapar" link="rev:13,8" lang="tr" %}} | {{% bible val="Yaşam kitabında adı yazılı olmayan herkes şaşkınlığa uğrar" link="rev:17,8" lang="tr" %}} |
 
-İkinci olarak, 13. bölümdeki ikinci canavarla fahişe arasında da güçlü bir bağlantı vardır.
+İkincisi, fahişe ikinci canavarla yan yana çalışır. O, ikinci canavar değildir ve üçlünün içinde onun yerini almaz: Vahiy düşmanlarını ayrı tutar — ejderha, canavar, sahte peygamber ve Babil — ve bunlar birbiri ardına, ters sırayla düşer.[^apart] Ama fahişe, ikinci canavarın dinde yaptığını ticarette ve kültürde yapar.[^alike]
 
 ## Fahişe ve ikinci canavar
 
 | Vahiy 13'teki ikinci canavar | Fahişe |
 |-----------------------------------|------------|
-| {{% bible val="Yeryüzünden gelir" link="rev:13,11" lang="tr" %}} | {{% bible val="Çölde oturur" link="rev:17,3" lang="tr" %}} |
-| {{% bible val="Kuzu gibi iki boynuzu vardır" link="rev:13,11" lang="tr" %}} | {{% bible val="Zengin biçimde giyinmiş ve süslenmiştir" link="rev:17,4" lang="tr" %}}, kitabın ilerisinde geçen {{% bible val="Kuzu'nun gelini" link="rev:21,9" lang="tr" %}} imgesini anımsatır |
-| {{% bible val="(İlk) canavarın gücüyle hareket eder" link="rev:13,12" lang="tr" %}} | {{% bible val="(İlk) canavarın üzerinde oturur" link="rev:17,3" lang="tr" %}} |
-| {{% bible val="Gökten ateş yağdırabilir" link="rev:13,13" lang="tr" %}} | {{% bible val="Ateşle yok edilecektir" link="rev:17,16" lang="tr" %}} ({{% bible val="Va.18/9" link="rev:18,9" lang="tr" %}}) |
-| {{% bible val="Kendisine tapmayan herkes öldürülür" link="rev:13,15" lang="tr" %}} | {{% bible val="Kutsalların kanını içer" link="rev:17,6" lang="tr" %}} |
-| {{% bible val="Alına ve ele bir işaret vurdurur" link="rev:13,16" lang="tr" %}} | {{% bible val="Alnında bir işaret vardır: Babil" link="rev:17,5" lang="tr" %}} |
-| {{% bible val="İşaret olmadan alım satım yapılamaz" link="rev:13,17" lang="tr" %}} | {{% bible val="Onunla ticaret yapan tüccarlar, o düştüğüne göre artık hiçbir şey alıp satamaz" link="rev:18,11" lang="tr" %}} ({{% bible val="Va.18/11-17" link="rev:18,11-17" lang="tr" %}}) |
-| {{% bible val="Bilgelik gerektirir" link="rev:13,18" lang="tr" %}} | {{% bible val="Bilgelik gerektirir" link="rev:17,9" lang="tr" %}} |
+| {{% bible val="Yeryüzünde yaşayanları aldatır" link="rev:13,14" lang="tr" %}} | {{% bible val="Bütün uluslar onun büyüsüyle aldandı" link="rev:18,23" lang="tr" %}} |
+| {{% bible val="İlk canavarın yetkisiyle davranır" link="rev:13,12" lang="tr" %}} | {{% bible val="Canavarın üzerinde oturur" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="Tapınmayanların hepsi öldürülür" link="rev:13,15" lang="tr" %}} | {{% bible val="Kutsalların kanıyla sarhoş" link="rev:17,6" lang="tr" %}} |
+| {{% bible val="İşareti olmayan kimse alıp satamaz" link="rev:13,17" lang="tr" %}} | {{% bible val="Yeryüzü tüccarları onun sayesinde zenginleşti" link="rev:18,3" lang="tr" %}} |
+| {{% bible val="Alınlara işaret koyar" link="rev:13,16" lang="tr" %}} | {{% bible val="Kendi alnında bir ad taşır" link="rev:17,5" lang="tr" %}} |
 
-Burada da gücün tersine döndüğüne dikkat edin: 13. bölümde canavar gökten ateş yağdırırken, 17. bölümde kendisi ateşle yok edilir; orada insanların alnına işaret vururken, burada kendi alnında bir ad taşır, sanki birine aitmiş ya da yargı için işaretlenmiş gibi.
+Son satır bir tersine çevirme içerir. İkinci canavar başkalarının alnını işaretler; fahişe ise kendi alnında bir ad taşır; sanki kendisi birinin malıymış ve yargı için işaretlenmiş gibi.[^own]
 
 Peki bu sahnede üçlünün üçüncü üyesi nerede? 13. bölümde ve atlıların betimlenişinde olduğu gibi, o da arka planda kalır — ama onu {{% bible val="altıncı kâsede" link="rev:16,13" lang="tr" %}} ve {{% bible val="20." link="rev:20,10" lang="tr" %}} bölümde görürsünüz.
 
@@ -108,3 +111,9 @@ Muzaffer görünen odur, ama sonunda her yerde yıkım ve ölüm bırakır. İsa
 Bu, ejderha ve iki canavarın öyküsünde işlenen temadır. Orada {{% int_link val="Şeytan'ın gerçekten çekici bazı şeyler sunduğu doğrudur" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad" %}}. Yine de metin, bunun yanına açık bir alternatif koyar: {{% int_link val="tapınma dolu bir yaşam süren ve tanıklıklarında ölüme dek sadık kalan iki tanık" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
 Bu karşıtlık, sonunda Babil'in Yeni Yeruşalim'in karanlık karşılığı olarak ayrıntılarıyla betimlendiği son görümde tam olarak açığa çıkar.
+
+[^apart]: Bauckham, *Climax*, s. 20 ve *Theology*, s. 89; Beale, s. 148, 623, 812.
+
+[^alike]: Ortak aldatma dili için: Bauckham, *Theology*, s. 91, 124; Beale, s. 262. Aynı kirli ruhlar ikisinde de görülür (16:13–14; 18:2): Beale, s. 894.
+
+[^own]: Bu gözlem sitenin kendisine aittir.

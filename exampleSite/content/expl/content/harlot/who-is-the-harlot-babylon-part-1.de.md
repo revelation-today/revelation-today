@@ -22,6 +22,10 @@ sources:
       ref: beale_rev
     - pages: 21, 833, 875
       ref: beale_rev
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
 readBefore:
     - name: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
@@ -117,23 +121,26 @@ Sie teilt außerdem viele Gemeinsamkeiten mit Isebel, die in {{% bible val="Thya
 | **{{% bible val="Gericht kommt schnell" link="2ki:9,33-35" lang="de" %}}** | **{{% bible val="Gericht kommt schnell" link="rev:18,10" lang="de" %}}** ({{% bible val="Offb.18/17" link="rev:18,17" lang="de" %}}, {{% bible val="Offb.18/19" link="rev:18,19" lang="de" %}}) |
 | **{{% bible val="Gott richtet die Nachfolger" link="1ki:18,40" lang="de" %}}** ({{% bible val="2.Kön.10/19" link="2ki:10,19" lang="de" %}}) | **{{% bible val="Gott richtet die Nachfolger" link="rev:18,9-11" lang="de" %}}** ({{% bible val="Offb.2/23" link="rev:2,23" lang="de" %}}) |
 
-Schließlich hat sie viele Parallelen zum zweiten Tier aus Kapitel 13.
+Schließlich wirkt sie Seite an Seite mit dem zweiten Tier aus Kapitel 13, ohne dieselbe Gestalt zu sein.[^apart] Sie tut in Handel und Kultur, was das zweite Tier in der Religion tut.[^alike]
 
 ## Die Hure und das zweite Tier
 
 | Das zweite Tier aus Offenbarung 13 | Die Hure |
 |-----------------------------------|------------|
-| **{{% bible val="Kommt von der Erde" link="rev:13,11" lang="de" %}}** | **{{% bible val="Sitzt in der Wüste" link="rev:17,3" lang="de" %}}** |
-| **{{% bible val="Hat zwei Hörner wie ein Lamm" link="rev:13,11" lang="de" %}}** | **{{% bible val="Ist gekleidet wie die Braut des Lammes" link="rev:17,4" lang="de" %}}** |
-| **{{% bible val="Handelt in der Macht des (ersten) Tieres" link="rev:13,12" lang="de" %}}** | **{{% bible val="Sitzt auf dem (ersten) Tier" link="rev:17,3" lang="de" %}}** |
-| *Kann* **Feuer vom Himmel fallen lassen** {{% bible val="Offb.13/13" link="rev:13,13" lang="de" %}} | *Wird gerichtet* **durch Feuer** {{% bible val="Offb.17/16" link="rev:17,16" lang="de" %}} ({{% bible val="Offb.18/9" link="rev:18,9" lang="de" %}}) |
-| **{{% bible val="Alle, die es nicht anbeten, werden getötet" link="rev:13,15" lang="de" %}}** | **{{% bible val="Trinkt das Blut der Heiligen" link="rev:17,6" lang="de" %}}** |
-| *Macht* **ein Zeichen auf Stirn und Hand** {{% bible val="Offb.13/16" link="rev:13,16" lang="de" %}} | *Hat* **ein Zeichen auf der Stirn: Babylon** {{% bible val="Offb.17/5" link="rev:17,5" lang="de" %}} |
-| **{{% bible val="Kann ohne das Malzeichen nicht kaufen oder verkaufen" link="rev:13,17" lang="de" %}}** | **{{% bible val="Kann ohne Zeichen nicht kaufen oder verkaufen" link="rev:18,3" lang="de" %}}** ({{% bible val="Offb.18/11-17" link="rev:18,11-17" lang="de" %}}) |
-| **{{% bible val="Erfordert Weisheit" link="rev:13,18" lang="de" %}}** | **{{% bible val="Erfordert Weisheit" link="rev:17,9" lang="de" %}}** |
+| {{% bible val="Verführt die Bewohner der Erde" link="rev:13,14" lang="de" %}} | {{% bible val="Alle Völker wurden durch ihre Zauberei verführt" link="rev:18,23" lang="de" %}} |
+| {{% bible val="Handelt in der Macht des ersten Tieres" link="rev:13,12" lang="de" %}} | {{% bible val="Sitzt auf dem Tier" link="rev:17,3" lang="de" %}} |
+| {{% bible val="Alle, die nicht anbeten, werden getötet" link="rev:13,15" lang="de" %}} | {{% bible val="Trunken vom Blut der Heiligen" link="rev:17,6" lang="de" %}} |
+| {{% bible val="Niemand kann kaufen oder verkaufen ohne das Malzeichen" link="rev:13,17" lang="de" %}} | {{% bible val="Die Kaufleute der Erde wurden an ihr reich" link="rev:18,3" lang="de" %}} |
+| {{% bible val="Setzt ein Malzeichen auf die Stirn" link="rev:13,16" lang="de" %}} | {{% bible val="Trägt einen Namen auf der eigenen Stirn" link="rev:17,5" lang="de" %}} |
 
-Auch hier ist die Machtdynamik umgekehrt: In Kapitel 13 ließ sie Feuer vom Himmel fallen, doch jetzt wird sie selbst durch Feuer vernichtet; dort brandmarkte sie andere an der Stirn, hier wird sie selbst an der Stirn gebrandmarkt, wie eine Sklavin.
+Die letzte Zeile enthält eine Umkehrung. Das zweite Tier zeichnet die Stirnen anderer; die Hure trägt einen Namen auf ihrer eigenen, als wäre sie selbst jemandes Eigentum und für das Gericht gezeichnet.[^own]
 
 So spiegeln sich die Rollen über die beiden Kapitel hinweg: Das erste Tier unterstützt die Hure in Kapitel 17, so wie das zweite Tier das erste Tier in Kapitel 13 unterstützt.
 
 [^frogs]: Beale, S. 833.
+
+[^apart]: Bauckham, *Climax*, S. 20, und *Theology*, S. 89; Beale, S. 148, 623, 812.
+
+[^alike]: Zur gemeinsamen Sprache der Verführung: Bauckham, *Theology*, S. 91, 124; Beale, S. 262. Dieselben unreinen Geister begegnen bei beiden (16,13–14; 18,2): Beale, S. 894.
+
+[^own]: Diese Beobachtung stammt von dieser Seite selbst.
