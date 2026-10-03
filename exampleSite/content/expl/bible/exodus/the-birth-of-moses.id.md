@@ -23,7 +23,7 @@ Firaun melakukan segala yang ia bisa untuk mencegah orang Israel menjadi bangsa 
 
 | Pandangan Firaun | Kenyataan |
 |------------------|----------|
-| Firaun memandang dirinya sebagai wakil para dewa. | Ia bahkan bukan tokoh kunci dalam kisah ini — namanya sendiri tidak disebutkan, ia diperlakukan seperti pemeran latar, sama seperti para dewa yang diwakilinya, yang juga tidak satu pun disebutkan namanya. Sebaliknya, para pahlawan utama disebutkan namanya, dan kebanyakan dari mereka adalah perempuan serta bukan orang Mesir ({{% bible val="Sifra dan Pua, nama-nama bidan itu" link="exo:1,15" lang="ind" %}}, adalah nama-nama Semit). |
+| Firaun memandang dirinya sebagai wakil para dewa. | Ia bahkan bukan tokoh kunci dalam kisah ini — namanya sendiri tidak disebutkan, ia diperlakukan seperti pemeran latar, sama seperti para dewa yang diwakilinya, yang juga tidak satu pun disebutkan namanya. Sebaliknya, para pahlawan utama disebutkan namanya, dan kebanyakan dari mereka adalah perempuan — para bidan, ibu dan kakak Musa, bahkan putri Firaun sendiri ({{% bible val="Sifra dan Pua, nama-nama bidan itu" link="exo:1,15" lang="ind" %}}, adalah nama-nama Semit). |
 | Firaun mempekerjakan budak-budak Israel begitu berat sehingga mereka mati. | Sebaliknya, bangsa itu terus bertambah banyak, dan pada saat mereka meninggalkan Mesir, mereka {{% bible val="dipenuhi kekayaan" link="exo:12,35-36" lang="ind" %}}. Mereka akhirnya bukan hanya bebas, tetapi juga dipulihkan martabatnya. |
 | Para bidan diperintahkan untuk membunuh bayi-bayi yang baru lahir. | Mereka menentang Firaun — meskipun mereka perempuan asing dari Asia — dan alih-alih dihukum, mereka {{% bible val="diberkati Allah dengan anak-anak" link="exo:1,21" lang="ind" %}}. |
 | Bayi-bayi yang baru lahir harus dibuang ke sungai Nil. | Musa diletakkan di sungai Nil dalam sebuah peti, menggunakan [kata yang sama](https://biblehub.com/hebrew/strongs_8392.htm) seperti bahtera Nuh, dan ia diselamatkan. |
@@ -45,7 +45,7 @@ Kisah Musa adalah kebalikan penuh dari kisah kepahlawanan zaman kuno yang khas. 
 ## Kelanjutan Kisah Musa
 
 <a name="6430"></a>
-Babak berikutnya dalam hidupnya membawanya ke padang gurun selama 40 tahun untuk belajar menjadi gembala. Inilah yang membentuknya menjadi pemimpin yang baik — seperti {{% bible val="Yesus" link="jhn:10" lang="ind" %}} kelak — dan bukan {{% bible val="pemimpin yang buruk seperti para pemimpin Israel" link="ezk:34" lang="ind" %}}. Banyak tokoh kunci dalam Alkitab adalah gembala: Abraham, Ishak, Yakub, Daud, Yesus, dan pemazmur "Mzm.23".
+Babak berikutnya dalam hidupnya membawanya ke padang gurun selama 40 tahun untuk belajar menjadi gembala. Inilah yang membentuknya menjadi pemimpin yang baik — seperti {{% bible val="Yesus" link="jhn:10" lang="ind" %}} kelak — dan bukan {{% bible val="pemimpin yang buruk seperti para pemimpin Israel" link="ezk:34" lang="ind" %}}. Banyak tokoh kunci dalam Alkitab adalah gembala: Abraham, Ishak, Yakub, Daud, dan Yesus — dan mazmur yang paling dikasihi, Mazmur 23, adalah mazmur seorang gembala.
 
 Barangkali makna dari 40 tahun itu adalah perjalanan dari {{% bible val="temperamen yang tidak terkendali" link="exo:2,11-12" lang="ind" %}} menuju menjadi {{% bible val="orang yang paling rendah hati di bumi" link="num:12,3" lang="ind" %}}, seseorang yang mampu {{% bible val="tetap tenang dan berbelas kasih dalam situasi-situasi sulit" link="num:12" lang="ind" %}}.
 

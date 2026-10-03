@@ -23,7 +23,7 @@ Der Pharao tut alles, was in seiner Macht steht, um zu verhindern, dass die Isra
 
 | Sicht des Pharao | Realität |
 |--------------|---------|
-| Der Pharao versteht sich als Repräsentant der Götter. | Er ist nicht einmal eine Schlüsselfigur der Geschichte — er wird nicht einmal namentlich erwähnt, sondern wie eine Nebenfigur behandelt, genau wie die Götter, die er repräsentiert und von denen ebenfalls keiner namentlich genannt wird. Die eigentlichen Helden dagegen tragen Namen, und es sind größtenteils Frauen und durchweg Nicht-Ägypter ({{% bible val="Schifra und Pua, die Namen der Hebammen" link="exo:1,15" lang="de" %}}, sind semitische Namen). |
+| Der Pharao versteht sich als Repräsentant der Götter. | Er ist nicht einmal eine Schlüsselfigur der Geschichte — er wird nicht einmal namentlich erwähnt, sondern wie eine Nebenfigur behandelt, genau wie die Götter, die er repräsentiert und von denen ebenfalls keiner namentlich genannt wird. Die eigentlichen Helden dagegen tragen Namen, und es sind größtenteils Frauen — die Hebammen, Moses Mutter und Schwester und sogar die Tochter des Pharao ({{% bible val="Schifra und Pua, die Namen der Hebammen" link="exo:1,15" lang="de" %}}, sind semitische Namen). |
 | Der Pharao lässt die israelitischen Sklaven so hart arbeiten, dass sie sterben sollen. | Stattdessen wächst das Volk immer weiter, und als sie Ägypten verlassen, sind sie {{% bible val="beim Auszug aus Ägypten" link="exo:12,35-36" lang="de" %}} mit Reichtümern beladen. Am Ende sind sie nicht nur frei, sondern auch in ihrer Würde wiederhergestellt. |
 | Den Hebammen wird befohlen, die neugeborenen Jungen zu töten. | Sie widersetzen sich dem Pharao — als fremde asiatische Frauen noch dazu — und werden dafür nicht bestraft, sondern {{% bible val="von Gott mit eigenen Kindern gesegnet" link="exo:1,21" lang="de" %}}. |
 | Neugeborene Jungen sollen in den Nil geworfen werden. | Mose wird in einem Korb in den Nil gesetzt, mit [demselben Wort](https://biblehub.com/hebrew/strongs_8392.htm), das auch für die Arche Noah verwendet wird, und wird gerettet. |
@@ -45,7 +45,7 @@ Die Geschichte des Mose ist das komplette Gegenteil der typischen antiken Helden
 ## Die weitere Geschichte des Mose
 
 <a name="371c"></a>
-Die nächste Etappe seines Lebens führt ihn für 40 Jahre in die Wüste, um Hirte zu werden. Das ist es, was ihn zu einem guten Anführer formt — wie später auch {{% bible val="Jesus" link="jhn:10" lang="de" %}} — statt zu einem {{% bible val="schlechten Anführer wie die Führer Israels" link="ezk:34" lang="de" %}}. Viele Schlüsselfiguren der Bibel waren Hirten: Abraham, Isaak, Jakob, David, Jesus und der Psalmist von „Ps. 23“.
+Die nächste Etappe seines Lebens führt ihn für 40 Jahre in die Wüste, um Hirte zu werden. Das ist es, was ihn zu einem guten Anführer formt — wie später auch {{% bible val="Jesus" link="jhn:10" lang="de" %}} — statt zu einem {{% bible val="schlechten Anführer wie die Führer Israels" link="ezk:34" lang="de" %}}. Viele Schlüsselfiguren der Bibel waren Hirten: Abraham, Isaak, Jakob, David und Jesus — und der bekannteste Psalm, Psalm 23, ist ein Hirtenpsalm.
 
 Vielleicht besteht der Sinn dieser 40 Jahre gerade in der Reise von einem {{% bible val="unkontrollierten Temperament" link="exo:2,11-12" lang="de" %}} hin zu dem {{% bible val="demütigsten Menschen auf Erden" link="num:12,3" lang="de" %}} zu werden, jemand, der fähig ist, {{% bible val="in schwierigen Situationen ruhig und mitfühlend zu bleiben" link="num:12" lang="de" %}}.
 

@@ -43,7 +43,7 @@ In the context of those chapters, a new image appears that fuses the temple with
 
 In the New Testament, {{% bible val="Jesus himself is the temple" link="jhn:2,19-22" lang="en" %}}. When he died, the veil in front of the Holy of Holies was torn in two, showing that access to God was now open to everyone.
 
-With his death, {{% bible val="the temple becomes the church, since the church is the body of Christ" link="1co:6,19" lang="en" %}}.
+With his death, {{% bible val="the temple becomes the church, since the church is the body of Christ" link="1co:3,16" lang="en" %}}.
 
 And in the book of Revelation, the church appears as the Bride of Christ, who is also the New Jerusalem — the place where fellowship between God and man is, at last, undisturbed.
 

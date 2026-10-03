@@ -27,7 +27,7 @@ In the ancient mythologies surrounding Israel, creation was typically the byprod
 
 The Bible tells it differently: creation there is written as a poem, with its own recurring refrain — "God saw that it was good, and there was evening and there was morning, the ... day" — the whole account crafted as a work of art.
 
-It's also clearly intended and designed: the first three days form the "houses" of creation (light, water, earth), the next three fill them with inhabitants (sun, moon and stars; fish; land and air animals), and the seventh day sums up the rest with the Sabbath.
+It's also clearly intended and designed: the first three days form the "houses" of creation (light, water, earth), the next three fill them with inhabitants (sun, moon and stars; fish and birds; land animals and people), and the seventh day sums up the rest with the Sabbath.
 
 And it was all very good. Man and woman, God's representatives made in his image, were placed as rulers over everything — created equally, both of them, to represent God.
 

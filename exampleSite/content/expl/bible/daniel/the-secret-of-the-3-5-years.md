@@ -26,7 +26,7 @@ The book of Revelation is full of strange time periods — 1260 days, 42 months,
 ## A little math
 
 <a name="e7f0"></a>
-In the book of Revelation, chapters 11 through 13, there are four references to different times.
+In the book of Revelation, chapters 11 through 13, there are five references to periods of time.
 
 | Time | Reference |
 |------|-----------|
@@ -69,5 +69,5 @@ Then there is {{% bible val="the temple" link="rev:11,1-2" lang="en" %}}, no lon
 
 That leaves the {{% bible val="1260 days of the two witnesses" link="rev:11,3" lang="en" %}}, which must span the whole time between Jesus' first and second coming. That length alone suggests the "witnesses" aren't really two individuals but most likely the Church.
 
-So why does the text switch units — days here, months there? The days mark the reign of the witnesses and the provision for Israel; the months mark the devil's reign and the trampling of the temple's outer court; and the years, or "times," mark God's hidden work. Richard Bauckham has shown that this is deliberate: 42 months marks the beast's time, 1260 days the church's — and the two numbers belong to 36, the root of the beast's 666, and to 1225, the number of the people of God (Bauckham, *Climax of Prophecy*, pp. 400–402; see {{% int_link val="numbers with shapes" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395" %}}). What the parallel does make clear is this: the devil's rule and the Church's God-given rule run side by side, and even though the world looks as though the devil is in charge, the Church remains the one truly in charge.
+So why does the text switch units — days here, months there? The days mark the testimony of the witnesses and the provision for Israel; the months mark the devil's reign and the trampling of the temple's outer court; and the years, or "times," mark God's hidden work. Richard Bauckham has shown that this is deliberate: 42 months marks the beast's time, 1260 days the church's — and the two numbers belong to 36, the root of the beast's 666, and to 1225, the number of the people of God (Bauckham, *Climax of Prophecy*, pp. 400–402; see {{% int_link val="numbers with shapes" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395" %}}). What the parallel does make clear is this: the devil's rule and the Church's God-given rule run side by side, and even though the world looks as though the devil is in charge, the Church remains the one truly in charge.
 

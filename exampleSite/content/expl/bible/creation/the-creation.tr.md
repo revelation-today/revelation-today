@@ -27,7 +27,7 @@ Kutsal Kitap'ın sonunu anlamak için önce başlangıcını anlamak gerekir. D�
 
 Kutsal Kitap bunu farklı anlatır: oradaki yaratılış bir şiir olarak yazılmıştır, kendi tekrarlanan nakaratıyla — "Tanrı bunun iyi olduğunu gördü, akşam oldu, sabah oldu, ... gün" — ve bütün anlatı bir sanat eseri olarak işlenmiştir.
 
-Ayrıca açıkça kasıtlı ve tasarlanmıştır: ilk üç gün yaratılışın "evlerini" (ışık, su, toprak) oluşturur, sonraki üç gün bunları sakinleriyle doldurur (güneş, ay ve yıldızlar; balıklar; kara ve hava hayvanları), yedinci gün ise Şabat ile geri kalan her şeyi özetler.
+Ayrıca açıkça kasıtlı ve tasarlanmıştır: ilk üç gün yaratılışın "evlerini" (ışık, su, toprak) oluşturur, sonraki üç gün bunları sakinleriyle doldurur (güneş, ay ve yıldızlar; balıklar ve kuşlar; kara hayvanları ve insan), yedinci gün ise Şabat ile geri kalan her şeyi özetler.
 
 Ve hepsi çok iyiydi. Tanrı'nın suretinde yaratılmış temsilcileri olan erkek ve kadın, her şeyin üzerine yöneticiler olarak yerleştirildi — ikisi de Tanrı'yı temsil etmek üzere eşit olarak yaratıldı.
 

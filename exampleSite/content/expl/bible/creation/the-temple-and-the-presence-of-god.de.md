@@ -52,7 +52,7 @@ Im Zusammenhang dieser Kapitel erscheint ein neues Bild, das den Tempel mit dem 
 <a name="379d"></a>
 Im Neuen Testament ist {{% bible val="Jesus selbst der Tempel" link="jhn:2,19-22" lang="de" %}}. Als er starb, riss der Vorhang vor dem Allerheiligsten entzwei — ein Zeichen dafür, dass der Zugang zu Gott nun für alle offen war.
 
-Mit seinem Tod {{% bible val="wird die Gemeinde zum Tempel, denn die Gemeinde ist der Leib Christi" link="1co:6,19" lang="de" %}}.
+Mit seinem Tod {{% bible val="wird die Gemeinde zum Tempel, denn die Gemeinde ist der Leib Christi" link="1co:3,16" lang="de" %}}.
 
 Und im Buch der Offenbarung erscheint die Gemeinde als die Braut Christi, die zugleich das Neue Jerusalem ist — der Ort, an dem die Gemeinschaft zwischen Gott und Mensch endlich ungestört ist.
 

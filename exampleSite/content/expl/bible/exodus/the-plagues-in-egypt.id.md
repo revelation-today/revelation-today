@@ -30,7 +30,7 @@ Ini adalah kisah yang mungkin pernah Anda dengar di sekolah minggu, tetapi ada j
 ## Permulaannya
 
 <a name="7fef"></a>
-Musa dan Harun kembali ke Israel dan {{% bible val="menyampaikan kabar baik itu kepada orang Israel, yang percaya kepadanya" link="exo:4,29-31" lang="ind" %}}. Tetapi ketika mereka {{% bible val="menyampaikan permintaan mereka kepada Firaun, ia justru menambah beban kerja, dan Israel kehilangan segala minat pada pembebasan" link="exo:5" lang="ind" %}}.
+Musa dan Harun kembali ke Mesir dan {{% bible val="menyampaikan kabar baik itu kepada orang Israel, yang percaya kepadanya" link="exo:4,29-31" lang="ind" %}}. Tetapi ketika mereka {{% bible val="menyampaikan permintaan mereka kepada Firaun, ia justru menambah beban kerja, dan Israel kehilangan segala minat pada pembebasan" link="exo:5" lang="ind" %}}.
 
 Selanjutnya, {{% bible val="Musa pergi menemui Firaun dan melakukan mukjizat-mukjizatnya, tetapi Firaun tidak terkesan" link="exo:7,8-13" lang="ind" %}}.
 
@@ -111,7 +111,7 @@ Musa dan Harun melemparkan debu ke udara, dan debu itu berubah menjadi barah pad
 ### {{% bible val="7, Hujan es" link="exo:9,13-35" lang="ind" %}}
 
 <a name="70b2"></a>
-Di sinilah keadaan menjadi serius: {{% bible val="Allah menyerang dengan seluruh kekuatan yang telah Ia umumkan" link="exo:9,14" lang="ind" %}}, namun Ia tetap {{% bible val="memperingatkan umat itu untuk berlindung" link="exo:9,20-21" lang="ind" %}}. Hujan es yang turun sangat dahsyat — yang terburuk yang pernah mereka saksikan — dan tidak ada dewa Mesir yang melindungi mereka darinya. Untuk pertama kalinya, Firaun {{% bible val="mengakui bahwa ia telah berdosa" link="exo:9,27" lang="ind" %}}, menggunakan [kata yang sama dengan yang digunakan ketika Firaun tanpa sadar mengambil istri Abraham](https://biblehub.com/hebrew/2398.htm) — tetapi begitu hujan es berhenti, {{% bible val="ia berdosa lagi dengan mengeraskan hatinya" link="exo:9,34" lang="ind" %}}.
+Di sinilah keadaan menjadi serius: {{% bible val="Allah menyerang dengan seluruh kekuatan yang telah Ia umumkan" link="exo:9,14" lang="ind" %}}, namun Ia tetap {{% bible val="memperingatkan umat itu untuk berlindung" link="exo:9,20-21" lang="ind" %}}. Hujan es yang turun sangat dahsyat — yang terburuk yang pernah mereka saksikan — dan tidak ada dewa Mesir yang melindungi mereka darinya. Untuk pertama kalinya, Firaun {{% bible val="mengakui bahwa ia telah berdosa" link="exo:9,27" lang="ind" %}}, menggunakan [kata yang sama dengan yang digunakan ketika Abimelekh tanpa sadar mengambil istri Abraham](https://biblehub.com/hebrew/2398.htm) — tetapi begitu hujan es berhenti, {{% bible val="ia berdosa lagi dengan mengeraskan hatinya" link="exo:9,34" lang="ind" %}}.
 
 ### {{% bible val="8, Belalang" link="exo:10,1-20" lang="ind" %}}
 
@@ -139,7 +139,7 @@ Ada satu lapisan lagi di dalamnya. Anak sulung adalah ahli waris: jika Firaun ma
 
 Karena {{% bible val="'hati yang kuat' Firaun" link="exo:10,7" lang="ind" %}}, rakyat Mesir {{% bible val="sudah berpihak kepada Musa" link="exo:11,3" lang="ind" %}}, dan kematian anak sulung (yang menunjukkan bahwa Mesir tidak lagi memiliki masa depan untuk ditawarkan) membantu mendorong orang Mesir kepada Allah, dan {{% bible val="banyak orang dari berbagai-bagai bangsa" link="exo:12,38" lang="ind" %}} pergi bersama Israel.
 
-Sebelum tulah kesepuluh menghantam, {{% bible val="Paskah diperkenalkan" link="exo:12,1-13" lang="ind" %}} — perlindungan dari tulah itu, tetapi juga asal mula Perjamuan Tuhan, dan semacam kelahiran Israel sebagai suatu bangsa, karena {{% bible val="perayaan itu terbuka bagi siapa saja yang ingin bergabung dengan Israel" link="exo:12,43-49" lang="ind" %}}. Bersamanya, {{% bible val="Hari Raya Roti Tidak Beragi diperkenalkan" link="exo:12,14-20" lang="ind" %}}, menegaskan bahwa {{% bible val="tidak ada waktu untuk menunggu, hanya waktu untuk bergegas" link="exo:12,12" lang="ind" %}}.
+Sebelum tulah kesepuluh menghantam, {{% bible val="Paskah diperkenalkan" link="exo:12,1-13" lang="ind" %}} — perlindungan dari tulah itu, tetapi juga asal mula Perjamuan Tuhan, dan semacam kelahiran Israel sebagai suatu bangsa, karena {{% bible val="perayaan itu terbuka bagi siapa saja yang ingin bergabung dengan Israel" link="exo:12,43-49" lang="ind" %}}. Bersamanya, {{% bible val="Hari Raya Roti Tidak Beragi diperkenalkan" link="exo:12,14-20" lang="ind" %}}, menegaskan bahwa {{% bible val="tidak ada waktu untuk menunggu, hanya waktu untuk bergegas" link="exo:12,11" lang="ind" %}}.
 
 Akhirnya, {{% bible val="tanda pada tangan dan dahi" link="exo:13,8-9" lang="ind" %}} diperkenalkan sebagai pengingat abadi: Allah telah membawa Israel keluar dari Mesir, Ia lebih berkuasa daripada para dewa Mesir, dan Israel tidak boleh melupakannya. Tanda itu, dengan kata lain, adalah sebuah tanda kesetiaan kepada Allah.
 

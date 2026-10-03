@@ -44,7 +44,7 @@ Burada 2. ve 7., 3. ve 6., 4. ve 5. bölümleri birbirine bağlayan bir kiazm fa
 
 2. ve 7. bölümlerin ikisi de dört krallığı anlatır, ama 2. bölüm bunları azalan bir değerde, birbirini izleyen ve sonunda gizemli bir taş tarafından hepsi birden yok edilen krallıklar olarak sunarken, 7. bölüm onları birbirini yok eden, göklerin Tanrısı tarafından bastırılan ve Tanrı'nın halkına düşmanlıklarıyla tanımlanan canavarlar olarak gösterir.
 
-3. ve 6. bölümlerin ikisi de zulümden bir kurtuluşu anlatır, ama tehdidin kaynağı tersine döner: 3. bölümde tehdit, memurları putlara tapmaya zorlayan hükümdarın kendisidir; 6. bölümde ise Daniel'in imanına mal olacak bir fermana kralı kandıran memurlardır. İki bölüm hatta farklı biter — 6. bölüm kralı iyi bir kral olarak temize çıkarırken, 3. bölüm bir sonraki bölümde gelecek olan eski kralın alçalmasına zemin hazırlar.
+3. ve 6. bölümlerin ikisi de zulümden bir kurtuluşu anlatır, ama tehdidin kaynağı tersine döner: 3. bölümde tehdit, memurları putlara tapmaya zorlayan hükümdarın kendisidir; 6. bölümde ise Daniel'in imanını suç sayan bir fermana kralı kandıran memurlardır. İki bölüm hatta farklı biter — 6. bölüm kralı iyi bir kral olarak temize çıkarırken, 3. bölüm bir sonraki bölümde gelecek olan eski kralın alçalmasına zemin hazırlar.
 
 4. ve 5. bölümlerin ikisi de gurur ve alçalma üzerine döner, ama sonuçları terstir. 4. bölümde kral, {{% bible val="gururu" link="dan:4,30" lang="tr" %}} yüzünden bir canavar gibi yaşayacak kadar alçaltılır, ama Tanrı'ya yücelik verdiğinde eski haline döner. 5. bölümde ise kral aynı uyarıyı alır ama tepkisi sadece Daniel'i terfi ettirmek olur — ve o gece hem kendisi hem de krallığı yok olur.
 
@@ -55,7 +55,7 @@ Bu örüntü, kitabın merkezinin bu altı bölüm olduğunu, 1. bölümün giri
 <a name="0e1c"></a>
 {{% bible val="Dan.8" link="dan:8" lang="tr" %}}, {{% bible val="Pers İmparatorluğu'nun Büyük İskender tarafından çökertilmesini" link="dan:8,20-21" lang="tr" %}} kaba hatlarıyla anlatır; bu da sonunda [Antiokhos Epifanes IV'ün](https://www.gotquestions.org/Antiochus-Epiphanes.html) hükümdarlığına — Deccal figürünün Yahudi deneyimine — ve oradan da [Makabe Savaşı'na](https://en.wikipedia.org/wiki/Maccabean_Revolt) ve İsrail'in siyasi bağımsızlığına yol açar. {{% bible val="2300 sabah ve akşam" link="dan:8,14" lang="tr" %}} muhtemelen, tapınağın Antiokhos tarafından MÖ 6 Aralık 167'de kirletilmesinden, tapınağın yeniden adanmasının ardından tapınak dağının MÖ 31 Ocak 163'te (ya da tarihlerin nasıl hesaplandığına bağlı olarak MÖ 4 Aralık 164'te) tahkim edilmesine kadar geçen süreyi kapsar.
 
-{{% bible val="Dan.9" link="dan:9" lang="tr" %}}, Daniel'in 70 hafta hakkındaki duasını — İsrail'in sürgününün süresini — ve bunun ardındaki gizemi kaydeder: İsrail'in ve onunla birlikte Yeni Antlaşma'nın tüm kötülükten tam kurtuluşu. Bu bölümü başka bir yerde daha ayrıntılı inceleyeceğiz.
+{{% bible val="Dan.9" link="dan:9" lang="tr" %}}, Daniel'in yetmiş yıllık sürgünün sonundaki duasını, aldığı yanıtı — 70 haftayı — ve bunun ardındaki gizemi kaydeder: İsrail'in ve onunla birlikte Yeni Antlaşma'nın tüm kötülükten tam kurtuluşu. Bu bölümü başka bir yerde daha ayrıntılı inceleyeceğiz.
 
 {{% bible val="Dan.10" link="dan:10" lang="tr" %}}, 11. ve 12. bölümlerde gelecek olan son görüm için zemin hazırlar.
 

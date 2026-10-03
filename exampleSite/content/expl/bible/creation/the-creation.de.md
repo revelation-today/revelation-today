@@ -27,7 +27,7 @@ In den antiken Mythologien rund um Israel war die Schöpfung typischerweise das 
 
 Die Bibel erzählt es anders: Die Schöpfung wird dort als Gedicht geschrieben, mit einem eigenen, wiederkehrenden Refrain — „Gott sah, dass es gut war, und es wurde Abend und es wurde Morgen: der … Tag“ — der ganze Bericht ist wie ein Kunstwerk gestaltet.
 
-Er ist auch klar beabsichtigt und durchdacht: Die ersten drei Tage bilden die „Häuser“ der Schöpfung (Licht, Wasser, Erde), die nächsten drei füllen sie mit Bewohnern (Sonne, Mond und Sterne; Fische; Land- und Lufttiere), und der siebte Tag fasst das Ganze mit dem Sabbat zusammen.
+Er ist auch klar beabsichtigt und durchdacht: Die ersten drei Tage bilden die „Häuser“ der Schöpfung (Licht, Wasser, Erde), die nächsten drei füllen sie mit Bewohnern (Sonne, Mond und Sterne; Fische und Vögel; Landtiere und Menschen), und der siebte Tag fasst das Ganze mit dem Sabbat zusammen.
 
 Und alles war sehr gut. Mann und Frau, Gottes Repräsentanten, nach seinem Bild geschaffen, wurden als Herrscher über alles eingesetzt — beide gleichermaßen geschaffen, um Gott zu repräsentieren.
 

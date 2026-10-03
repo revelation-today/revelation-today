@@ -43,7 +43,7 @@ You may have noticed a chiasm here, linking chapters 2 and 7, 3 and 6, and 4 and
 
 Chapters 2 and 7 both describe four kingdoms, but chapter 2 presents them in decreasing value, following one another until a mysterious stone destroys them all, while chapter 7 shows them as beasts that destroy each other, get subdued by the God of heaven, and are defined by their hostility toward God's people.
 
-Chapters 3 and 6 both describe a rescue from persecution, but the source of the threat is reversed: in chapter 3 it's the ruler himself, forcing officials to worship idols, while in chapter 6 it's the officials who trick the king into a decree that costs Daniel his faith. The two chapters even end differently — chapter 6 leaves the king vindicated as a good king, while chapter 3 sets up the former king's humiliation in the chapter that follows.
+Chapters 3 and 6 both describe a rescue from persecution, but the source of the threat is reversed: in chapter 3 it's the ruler himself, forcing officials to worship idols, while in chapter 6 it's the officials who trick the king into a decree that makes Daniel's faith a crime. The two chapters even end differently — chapter 6 leaves the king vindicated as a good king, while chapter 3 sets up the former king's humiliation in the chapter that follows.
 
 Chapters 4 and 5 both turn on pride and humiliation, but with opposite outcomes. In chapter 4 the king is humbled all the way down to living like a beast because of his {{% bible val="pride" link="dan:4,30" lang="en" %}}, yet he is restored once he gives glory to God. In chapter 5 the king is given the same warning but responds only by promoting Daniel — and he and his kingdom are destroyed that same night.
 
@@ -54,7 +54,7 @@ The pattern suggests these six chapters form the center of the book, with chapte
 <a name="02f0"></a>
 {{% bible val="Dan.8" link="dan:8" lang="en" %}} describes in broad strokes the {{% bible val="fall of the Persian Empire to Alexander the Great" link="dan:8,20-21" lang="en" %}}, which ultimately leads to the [reign of Antiochus Epiphanes IV](https://www.gotquestions.org/Antiochus-Epiphanes.html) — the Jewish experience of an Antichrist figure — and from there to the [Maccabean War](https://en.wikipedia.org/wiki/Maccabean_Revolt) and Israel's political independence. The {{% bible val="2300 mornings and evenings" link="dan:8,14" lang="en" %}} probably span the time from the desecration of the Temple by Antiochus on December 6, 167 BC to the fortification of the Temple Mount following the Temple's rededication on January 31, 163 BC (or December 4, 164 BC, depending on how the dates are reckoned).
 
-{{% bible val="Dan.9" link="dan:9" lang="en" %}} records Daniel's prayer about the 70 weeks — the length of Israel's exile — and the mystery behind it: the complete deliverance of Israel, and with it the New Covenant, from all evil. We'll study this chapter in more detail elsewhere.
+{{% bible val="Dan.9" link="dan:9" lang="en" %}} records Daniel's prayer at the end of the seventy years of exile, and the answer he receives — the seventy weeks — and the mystery behind it: the complete deliverance of Israel, and with it the New Covenant, from all evil. We'll study this chapter in more detail elsewhere.
 
 {{% bible val="Dan.10" link="dan:10" lang="en" %}} prepares the ground for the final vision that comes in chapters 11 and 12.
 

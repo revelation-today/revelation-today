@@ -21,7 +21,7 @@ Firavun, İsrailliler’in büyük bir halk olmasını engellemek için elinden 
 
 | Firavun’un bakışı | Gerçeklik |
 |--------------------|-----------|
-| Firavun kendini tanrıların temsilcisi olarak görür. | Oysa o öykünün kilit bir kişisi bile değildir — adıyla anılmaz, temsil ettiği ve hiçbirinin adı geçmeyen tanrılar gibi bir arka plan figürü olarak ele alınır. Buna karşılık asıl kahramanlar adlarıyla anılır ve çoğunlukla kadındır, hepsi de Mısırlı değildir ({{% bible val="ebelerin adı olan Şifra ve Pua" link="exo:1,15" lang="tr" %}}, Sami kökenli adlardır). |
+| Firavun kendini tanrıların temsilcisi olarak görür. | Oysa o öykünün kilit bir kişisi bile değildir — adıyla anılmaz, temsil ettiği ve hiçbirinin adı geçmeyen tanrılar gibi bir arka plan figürü olarak ele alınır. Buna karşılık asıl kahramanlar adlarıyla anılır ve çoğunlukla kadındır — ebeler, Musa'nın annesi ve ablası, hatta Firavun'un kendi kızı ({{% bible val="ebelerin adı olan Şifra ve Pua" link="exo:1,15" lang="tr" %}}, Sami kökenli adlardır). |
 | Firavun, İsrailli köleleri ölesiye çalıştırmak ister. | Bunun yerine halk sayıca artmaya devam eder ve Mısır’dan {{% bible val="ayrıldıklarında" link="exo:12,35-36" lang="tr" %}} servetle yüklüdürler. Sonunda yalnızca özgür kalmakla kalmaz, onurları da geri verilmiş olur. |
 | Ebelere yeni doğan bebekleri öldürmeleri emredilir. | Onlar ise — üstelik yabancı Asyalı kadınlar olarak — Firavun’a karşı gelirler ve cezalandırılmak yerine {{% bible val="Tanrı tarafından çocuklarla kutsanırlar" link="exo:1,21" lang="tr" %}}. |
 | Yeni doğan bebekler Nil’e atılmalıdır. | Musa, Nuh’un Gemisi için kullanılanla [aynı sözcükle](https://biblehub.com/hebrew/strongs_8392.htm) anılan bir sepetin içinde Nil’e bırakılır ve kurtarılır. |
@@ -43,7 +43,7 @@ Musa’nın öyküsü, tipik antik kahramanlık öyküsünün tam tersidir. Aşa
 ## Musa’nın diğer öyküsü
 
 <a name="3d63"></a>
-Hayatındaki bir sonraki bölüm, onu 40 yıl boyunca çölde çobanlık öğrenmeye gönderir. Onu iyi bir lidere dönüştüren de tam olarak budur — sonradan {{% bible val="İsa" link="jhn:10" lang="tr" %}} gibi biri olması için, {{% bible val="İsrail’in liderleri gibi kötü bir lider" link="ezk:34" lang="tr" %}} olması için değil. Kutsal Kitap’taki birçok önemli kişi çobandı: İbrahim, İshak, Yakup, Davut, İsa ve “Mez. 23”ün mezmur yazarı.
+Hayatındaki bir sonraki bölüm, onu 40 yıl boyunca çölde çobanlık öğrenmeye gönderir. Onu iyi bir lidere dönüştüren de tam olarak budur — sonradan {{% bible val="İsa" link="jhn:10" lang="tr" %}} gibi biri olması için, {{% bible val="İsrail’in liderleri gibi kötü bir lider" link="ezk:34" lang="tr" %}} olması için değil. Kutsal Kitap’taki birçok önemli kişi çobandı: İbrahim, İshak, Yakup, Davut ve İsa — en sevilen mezmur olan Mezmur 23 de bir çoban mezmurudur.
 
 Belki de bu 40 yılın anlamı, {{% bible val="dizginlenemeyen bir öfkeden" link="exo:2,11-12" lang="tr" %}} yeryüzündeki en {{% bible val="alçakgönüllü insan" link="num:12,3" lang="tr" %}} olmaya, {{% bible val="zor durumlarda bile sakin ve şefkatli kalabilen" link="num:12" lang="tr" %}} biri olmaya uzanan yolculuktur.
 

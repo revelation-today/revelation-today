@@ -27,7 +27,7 @@ Dalam mitologi-mitologi kuno di sekitar Israel, penciptaan biasanya merupakan ha
 
 Alkitab menceritakannya secara berbeda: di sana, penciptaan ditulis sebagai sebuah sajak, dengan refreinnya sendiri yang berulang — "Allah melihat bahwa itu baik, lalu jadilah petang dan jadilah pagi, hari ..." — seluruh kisah ini dirangkai sebagai sebuah karya seni.
 
-Kisah ini juga jelas disengaja dan dirancang: tiga hari pertama membentuk "rumah-rumah" penciptaan (terang, air, bumi), tiga hari berikutnya mengisinya dengan para penghuni (matahari, bulan, dan bintang-bintang; ikan-ikan; binatang darat dan udara), dan hari ketujuh merangkum semuanya dengan hari Sabat.
+Kisah ini juga jelas disengaja dan dirancang: tiga hari pertama membentuk "rumah-rumah" penciptaan (terang, air, bumi), tiga hari berikutnya mengisinya dengan para penghuni (matahari, bulan, dan bintang-bintang; ikan dan burung; binatang darat dan manusia), dan hari ketujuh merangkum semuanya dengan hari Sabat.
 
 Dan semuanya sangat baik. Laki-laki dan perempuan, wakil-wakil Allah yang diciptakan menurut gambar-Nya, ditempatkan sebagai penguasa atas segala sesuatu — diciptakan setara, keduanya, untuk mewakili Allah.
 

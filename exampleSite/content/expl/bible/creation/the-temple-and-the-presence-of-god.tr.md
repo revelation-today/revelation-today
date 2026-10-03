@@ -46,7 +46,7 @@ O bölümlerin bağlamında, tapınakla bahçeyi kaynaştıran yeni bir imge bel
 <a name="1ad7"></a>
 Yeni Antlaşma'da {{% bible val="İsa'nın kendisi tapınaktır" link="jhn:2,19-22" lang="tr" %}}. O öldüğünde, En Kutsal Yer'in önündeki perde ikiye yırtıldı; bu da Tanrı'ya erişimin artık herkese açık olduğunu gösteriyordu.
 
-O'nun ölümüyle birlikte, {{% bible val="tapınak kiliseye dönüşür, çünkü kilise Mesih'in bedenidir" link="1co:6,19" lang="tr" %}}.
+O'nun ölümüyle birlikte, {{% bible val="tapınak kiliseye dönüşür, çünkü kilise Mesih'in bedenidir" link="1co:3,16" lang="tr" %}}.
 
 Ve Vahiy kitabında kilise, aynı zamanda Yeni Yeruşalim de olan Mesih'in Gelini olarak görünür — Tanrı'yla insan arasındaki paydaşlığın, sonunda, hiç bozulmadan sürdüğü yer.
 

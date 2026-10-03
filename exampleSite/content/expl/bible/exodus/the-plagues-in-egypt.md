@@ -30,7 +30,7 @@ This is a story you likely heard in Sunday School, but there is much more to dis
 ## The start
 
 <a name="dfee"></a>
-Moses and Aaron return to Israel and {{% bible val="share the good news with the Israelites, who believe him" link="exo:4,29-31" lang="en" %}}. But when they {{% bible val="take their request to Pharaoh, he only increases the workload, and Israel loses all interest in deliverance" link="exo:5" lang="en" %}}.
+Moses and Aaron return to Egypt and {{% bible val="share the good news with the Israelites, who believe him" link="exo:4,29-31" lang="en" %}}. But when they {{% bible val="take their request to Pharaoh, he only increases the workload, and Israel loses all interest in deliverance" link="exo:5" lang="en" %}}.
 
 Next, {{% bible val="Moses goes to Pharaoh and performs his miracles, but Pharaoh is not impressed" link="exo:7,8-13" lang="en" %}}.
 
@@ -102,7 +102,7 @@ Moses and Aaron throw dust into the air, and it turns into boils on people and a
 
 ## {{% bible val="7, Hail" link="exo:9,13-35" lang="en" %}}
 
-This is where it gets serious: {{% bible val="God strikes with the full force that He announces" link="exo:9,14" lang="en" %}}, and yet He still {{% bible val="warns the people to take shelter" link="exo:9,20-21" lang="en" %}}. The hail that falls is devastating — the worst they had ever seen — and no Egyptian god protects them from it. For the first time, Pharaoh {{% bible val="admits that he has sinned" link="exo:9,27" lang="en" %}}, using [the same word used when Pharaoh unknowingly took Abraham’s wife](https://biblehub.com/hebrew/2398.htm) — but as soon as the hail stops, {{% bible val="he sins again by hardening his heart" link="exo:9,34" lang="en" %}}.
+This is where it gets serious: {{% bible val="God strikes with the full force that He announces" link="exo:9,14" lang="en" %}}, and yet He still {{% bible val="warns the people to take shelter" link="exo:9,20-21" lang="en" %}}. The hail that falls is devastating — the worst they had ever seen — and no Egyptian god protects them from it. For the first time, Pharaoh {{% bible val="admits that he has sinned" link="exo:9,27" lang="en" %}}, using [the same word used when Abimelech unknowingly took Abraham’s wife](https://biblehub.com/hebrew/2398.htm) — but as soon as the hail stops, {{% bible val="he sins again by hardening his heart" link="exo:9,34" lang="en" %}}.
 
 ## {{% bible val="8, Locusts" link="exo:10,1-20" lang="en" %}}
 
@@ -126,7 +126,7 @@ There is a further layer to it. The firstborn is the heir: if Pharaoh dies, his 
 
 Because of {{% bible val="Pharaoh’s 'strong heart'" link="exo:10,7" lang="en" %}}, the people of Egypt {{% bible val="were already in favor of Moses" link="exo:11,3" lang="en" %}}, and the death of the firstborn (showing that Egypt had no future left to offer) helped push the Egyptians toward God, and {{% bible val="a mixed crowd" link="exo:12,38" lang="en" %}} left with Israel.
 
-Before the tenth plague strikes, the {{% bible val="Passover is introduced" link="exo:12,1-13" lang="en" %}} — protection from the plague, but also the origin of the Lord’s Supper, and something like the birth of Israel as a people, since it {{% bible val="was open to anyone who wanted to join Israel" link="exo:12,43-49" lang="en" %}}. Alongside it, {{% bible val="the Feast of Unleavened Bread is introduced" link="exo:12,14-20" lang="en" %}}, underscoring that there is {{% bible val="no time to wait, only to hurry" link="exo:12,12" lang="en" %}}.
+Before the tenth plague strikes, the {{% bible val="Passover is introduced" link="exo:12,1-13" lang="en" %}} — protection from the plague, but also the origin of the Lord’s Supper, and something like the birth of Israel as a people, since it {{% bible val="was open to anyone who wanted to join Israel" link="exo:12,43-49" lang="en" %}}. Alongside it, {{% bible val="the Feast of Unleavened Bread is introduced" link="exo:12,14-20" lang="en" %}}, underscoring that there is {{% bible val="no time to wait, only to hurry" link="exo:12,11" lang="en" %}}.
 
 Finally, the {{% bible val="sign on the hand and forehead" link="exo:13,8-9" lang="en" %}} is introduced as a lasting reminder: God brought Israel out of Egypt, He is more powerful than the Egyptian gods, and Israel must not forget it. The sign, in other words, is a mark of loyalty to God.
 

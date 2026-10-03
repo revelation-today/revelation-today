@@ -46,7 +46,7 @@ Dalam konteks pasal-pasal itu, muncul sebuah gambaran baru yang memadukan bait A
 <a name="379d"></a>
 Dalam Perjanjian Baru, {{% bible val="Yesus sendirilah bait Allah itu" link="jhn:2,19-22" lang="ind" %}}. Ketika Ia mati, tirai di depan tempat mahakudus itu terbelah menjadi dua, menunjukkan bahwa akses kepada Allah kini terbuka bagi semua orang.
 
-Dengan kematian-Nya, {{% bible val="bait Allah itu menjadi gereja, sebab gereja adalah tubuh Kristus" link="1co:6,19" lang="ind" %}}.
+Dengan kematian-Nya, {{% bible val="bait Allah itu menjadi gereja, sebab gereja adalah tubuh Kristus" link="1co:3,16" lang="ind" %}}.
 
 Dan dalam Kitab Wahyu, gereja tampil sebagai Mempelai Kristus, yang juga adalah Yerusalem Baru — tempat di mana persekutuan antara Allah dan manusia, akhirnya, tidak lagi terganggu.
 

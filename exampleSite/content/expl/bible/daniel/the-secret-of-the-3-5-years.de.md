@@ -26,7 +26,7 @@ Das Buch der Offenbarung ist voller merkwürdiger Zeitangaben — 1260 Tage, 42 
 ## Ein wenig Mathematik
 
 <a name="472b"></a>
-Im Buch der Offenbarung, in den Kapiteln 11 bis 13, gibt es vier Verweise auf unterschiedliche Zeitangaben.
+Im Buch der Offenbarung, in den Kapiteln 11 bis 13, gibt es fünf Zeitangaben.
 
 | Zeit | Referenz |
 |------|-----------|
@@ -69,7 +69,7 @@ Dann gibt es {{% bible val="den Tempel" link="rev:11,1-2" lang="de" %}}, der nic
 
 Bleiben noch die {{% bible val="1260 Tage der beiden Zeugen" link="rev:11,3" lang="de" %}}, die die gesamte Zeit zwischen Jesu erstem und zweitem Kommen umfassen müssen. Allein diese Länge legt nahe, dass die „Zeugen“ nicht wirklich zwei Einzelpersonen sind, sondern höchstwahrscheinlich die Gemeinde.
 
-Warum also wechselt der Text zwischen den Einheiten — hier Tage, dort Monate? Die Tage markieren die Herrschaft der Zeugen und die Versorgung Israels; die Monate markieren die Herrschaft des Teufels und die Zertretung des äußeren Tempelvorhofs; und die Jahre, oder „Zeiten“, markieren Gottes verborgenes Wirken. Richard Bauckham hat gezeigt, dass das Absicht ist: 42 Monate bezeichnen die Zeit des Tieres, 1260 Tage die Zeit der Gemeinde — und die beiden Zahlen gehören zu 36, der Wurzel der 666 des Tieres, und zu 1225, der Zahl des Volkes Gottes (Bauckham, *Climax of Prophecy*, S. 400–402; siehe {{% int_link val="Zahlen mit Gestalt" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042" %}}).
+Warum also wechselt der Text zwischen den Einheiten — hier Tage, dort Monate? Die Tage markieren das Zeugnis der Zeugen und die Versorgung Israels; die Monate markieren die Herrschaft des Teufels und die Zertretung des äußeren Tempelvorhofs; und die Jahre, oder „Zeiten“, markieren Gottes verborgenes Wirken. Richard Bauckham hat gezeigt, dass das Absicht ist: 42 Monate bezeichnen die Zeit des Tieres, 1260 Tage die Zeit der Gemeinde — und die beiden Zahlen gehören zu 36, der Wurzel der 666 des Tieres, und zu 1225, der Zahl des Volkes Gottes (Bauckham, *Climax of Prophecy*, S. 400–402; siehe {{% int_link val="Zahlen mit Gestalt" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042" %}}).
 
 ## Was bedeutet das?
 

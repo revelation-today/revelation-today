@@ -30,7 +30,7 @@ Diese Geschichte hast du wahrscheinlich schon im Kindergottesdienst gehört, abe
 ## Der Anfang
 
 <a name="7fef"></a>
-Mose und Aaron kehren nach Israel zurück und {{% bible val="teilen die gute Nachricht mit den Israeliten, die ihm glauben" link="exo:4,29-31" lang="de" %}}. Aber als sie {{% bible val="ihr Anliegen vor den Pharao bringen, erhöht dieser nur die Arbeitslast, und Israel verliert jedes Interesse an der Befreiung" link="exo:5" lang="de" %}}.
+Mose und Aaron kehren nach Ägypten zurück und {{% bible val="teilen die gute Nachricht mit den Israeliten, die ihm glauben" link="exo:4,29-31" lang="de" %}}. Aber als sie {{% bible val="ihr Anliegen vor den Pharao bringen, erhöht dieser nur die Arbeitslast, und Israel verliert jedes Interesse an der Befreiung" link="exo:5" lang="de" %}}.
 
 Als nächstes {{% bible val="geht Mose zum Pharao und vollbringt seine Wunder, aber der Pharao ist nicht beeindruckt" link="exo:7,8-13" lang="de" %}}.
 
@@ -109,7 +109,7 @@ Mose und Aaron werfen Staub in die Luft, und er verwandelt sich in Geschwüre be
 ## {{% bible val="7, Hagel" link="exo:9,13-35" lang="de" %}}
 
 <a name="70b2"></a>
-Hier wird es ernst: {{% bible val="Gott schlägt mit der vollen Wucht zu, die er ankündigt" link="exo:9,14" lang="de" %}}, und dennoch {{% bible val="warnt er die Menschen, Schutz zu suchen" link="exo:9,20-21" lang="de" %}}. Der Hagel, der fällt, ist verheerend — der schlimmste, den sie je gesehen hatten —, und kein ägyptischer Gott beschützt sie davor. Zum ersten Mal {{% bible val="gibt der Pharao zu, gesündigt zu haben" link="exo:9,27" lang="de" %}}, und benutzt dabei [dasselbe Wort, das verwendet wird, als der Pharao unwissentlich Abrahams Frau nahm](https://biblehub.com/hebrew/2398.htm) — aber sobald der Hagel aufhört, {{% bible val="sündigt er erneut, indem er sein Herz verhärtet" link="exo:9,34" lang="de" %}}.
+Hier wird es ernst: {{% bible val="Gott schlägt mit der vollen Wucht zu, die er ankündigt" link="exo:9,14" lang="de" %}}, und dennoch {{% bible val="warnt er die Menschen, Schutz zu suchen" link="exo:9,20-21" lang="de" %}}. Der Hagel, der fällt, ist verheerend — der schlimmste, den sie je gesehen hatten —, und kein ägyptischer Gott beschützt sie davor. Zum ersten Mal {{% bible val="gibt der Pharao zu, gesündigt zu haben" link="exo:9,27" lang="de" %}}, und benutzt dabei [dasselbe Wort, das verwendet wird, als Abimelech unwissentlich Abrahams Frau nahm](https://biblehub.com/hebrew/2398.htm) — aber sobald der Hagel aufhört, {{% bible val="sündigt er erneut, indem er sein Herz verhärtet" link="exo:9,34" lang="de" %}}.
 
 ## {{% bible val="8, Heuschrecken" link="exo:10,1-20" lang="de" %}}
 
@@ -137,7 +137,7 @@ Es gibt noch eine weitere Ebene. Der Erstgeborene ist der Erbe: Wenn der Pharao 
 
 Wegen {{% bible val="des „starken Herzens“ des Pharao" link="exo:10,7" lang="de" %}} war das Volk Ägyptens {{% bible val="bereits auf der Seite des Mose" link="exo:11,3" lang="de" %}}, und der Tod der Erstgeburt (der zeigte, dass Ägypten keine Zukunft mehr zu bieten hatte) trieb die Ägypter weiter zu Gott hin, und {{% bible val="viel fremdes Volk" link="exo:12,38" lang="de" %}} zog mit Israel aus.
 
-Bevor die zehnte Plage zuschlägt, wird das {{% bible val="Passah eingeführt" link="exo:12,1-13" lang="de" %}} — Schutz vor der Plage, aber auch der Ursprung des Abendmahls und so etwas wie die Geburtsstunde Israels als Volk, denn es {{% bible val="stand jedem offen, der sich Israel anschließen wollte" link="exo:12,43-49" lang="de" %}}. Zusammen damit wird das {{% bible val="Fest der ungesäuerten Brote eingeführt" link="exo:12,14-20" lang="de" %}}, das unterstreicht, dass {{% bible val="keine Zeit zum Warten bleibt, sondern nur zum Aufbruch" link="exo:12,12" lang="de" %}}.
+Bevor die zehnte Plage zuschlägt, wird das {{% bible val="Passah eingeführt" link="exo:12,1-13" lang="de" %}} — Schutz vor der Plage, aber auch der Ursprung des Abendmahls und so etwas wie die Geburtsstunde Israels als Volk, denn es {{% bible val="stand jedem offen, der sich Israel anschließen wollte" link="exo:12,43-49" lang="de" %}}. Zusammen damit wird das {{% bible val="Fest der ungesäuerten Brote eingeführt" link="exo:12,14-20" lang="de" %}}, das unterstreicht, dass {{% bible val="keine Zeit zum Warten bleibt, sondern nur zum Aufbruch" link="exo:12,11" lang="de" %}}.
 
 Schließlich wird das {{% bible val="Zeichen an Hand und Stirn" link="exo:13,8-9" lang="de" %}} als bleibende Erinnerung eingeführt: Gott hat Israel aus Ägypten herausgeführt, er ist mächtiger als die ägyptischen Götter, und Israel darf das nicht vergessen. Das Zeichen ist mit anderen Worten ein Zeichen der Treue zu Gott.
 

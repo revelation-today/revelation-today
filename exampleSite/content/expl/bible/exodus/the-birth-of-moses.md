@@ -21,7 +21,7 @@ Pharaoh does everything he can to prevent the Israelites from becoming a great p
 
 | Pharaoh’s view | Reality |
 |--------------|---------|
-| Pharaoh sees himself as representative of the gods. | He is not even a key character in the story — he isn't mentioned by name, treated like a background actor, just like the gods he represents, none of whom are named either. The main heroes, by contrast, are named, and they are mostly women and all non-Egyptians ({{% bible val="Schifra and Pua, the names of the midwives" link="exo:1,15" lang="en" %}}, are Semitic names). |
+| Pharaoh sees himself as representative of the gods. | He is not even a key character in the story — he isn't mentioned by name, treated like a background actor, just like the gods he represents, none of whom are named either. The main heroes, by contrast, are named, and they are mostly women — the midwives, Moses' mother and sister, and even Pharaoh's own daughter ({{% bible val="Shiphrah and Puah, the names of the midwives" link="exo:1,15" lang="en" %}}, are Semitic names). |
 | Pharaoh works the Israelite slaves so hard that they die off. | Instead, the people keep increasing in number, and by the time they leave Egypt they are loaded with riches {{% bible val="when they leave Egypt" link="exo:12,35-36" lang="en" %}}. They end up not only free but restored in dignity. |
 | The midwives are ordered to kill the newborn babies. | They defy Pharaoh — as foreign Asian women, no less — and instead of being punished, they are {{% bible val="blessed by God with children" link="exo:1,21" lang="en" %}}. |
 | Newborn babies should be thrown into the Nile. | Moses is placed into the Nile in a basket, using [the same word](https://biblehub.com/hebrew/strongs_8392.htm) as Noah’s Ark, and he is saved. |
@@ -43,7 +43,7 @@ The story of Moses is the complete opposite of the typical ancient hero story. T
 ## The further story of Moses
 
 <a name="371c"></a>
-The next episode in his life sends him into the desert for 40 years to learn to be a shepherd. This is what shapes him into a good leader — like {{% bible val="Jesus" link="jhn:10" lang="en" %}} later on — rather than a {{% bible val="bad leader like the leaders of Israel" link="ezk:34" lang="en" %}}. Many key figures in the Bible were shepherds: Abraham, Isaac, Jacob, David, Jesus, and the psalmist of "Ps. 23."
+The next episode in his life sends him into the desert for 40 years to learn to be a shepherd. This is what shapes him into a good leader — like {{% bible val="Jesus" link="jhn:10" lang="en" %}} later on — rather than a {{% bible val="bad leader like the leaders of Israel" link="ezk:34" lang="en" %}}. Many key figures in the Bible were shepherds: Abraham, Isaac, Jacob, David and Jesus — and the best-loved psalm, Psalm 23, is a shepherd's psalm.
 
 Perhaps the point of those 40 years is the journey from {{% bible val="an uncontrolled temperament" link="exo:2,11-12" lang="en" %}} to becoming the most {{% bible val="humble man on earth" link="num:12,3" lang="en" %}}, someone able to {{% bible val="remain calm and compassionate in difficult situations" link="num:12" lang="en" %}}.
 

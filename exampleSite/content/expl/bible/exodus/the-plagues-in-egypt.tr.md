@@ -30,7 +30,7 @@ Bu, muhtemelen Pazar okulunda duyduğunuz bir öykü, ama içinde daha önce hi�
 ## Başlangıç
 
 <a name="52f7"></a>
-Musa ile Harun İsrail’e döner ve {{% bible val="müjdeyi İsrailliler’le paylaşırlar; onlar da Musa’ya inanır" link="exo:4,29-31" lang="tr" %}}. Ama {{% bible val="isteklerini Firavun’a ilettiklerinde, o yalnızca iş yükünü artırır ve İsrail kurtuluşla ilgili bütün ilgisini yitirir" link="exo:5" lang="tr" %}}.
+Musa ile Harun Mısır’a döner ve {{% bible val="müjdeyi İsrailliler’le paylaşırlar; onlar da Musa’ya inanır" link="exo:4,29-31" lang="tr" %}}. Ama {{% bible val="isteklerini Firavun’a ilettiklerinde, o yalnızca iş yükünü artırır ve İsrail kurtuluşla ilgili bütün ilgisini yitirir" link="exo:5" lang="tr" %}}.
 
 Ardından {{% bible val="Musa Firavun’a gidip mucizelerini gerçekleştirir, ama Firavun bundan etkilenmez" link="exo:7,8-13" lang="tr" %}}.
 
@@ -111,7 +111,7 @@ Musa ile Harun havaya kül savurur ve bu kül hem insanların hem hayvanların �
 ## {{% bible val="7, Dolu" link="exo:9,13-35" lang="tr" %}}
 
 <a name="d700"></a>
-İşte burada işler ciddileşir: {{% bible val="Tanrı, önceden bildirdiği tam güçle vurur" link="exo:9,14" lang="tr" %}}, ama yine de {{% bible val="halkı sığınmaları için uyarır" link="exo:9,20-21" lang="tr" %}}. Yağan dolu yıkıcıdır — o güne dek görülenlerin en kötüsüdür — ve hiçbir Mısır tanrısı onlara bu doludan koruma sağlamaz. Firavun ilk kez {{% bible val="günah işlediğini kabul eder" link="exo:9,27" lang="tr" %}}; bunu yaparken de [Firavun’un bilmeden İbrahim’in karısını aldığı zaman kullanılanla aynı sözcüğü](https://biblehub.com/hebrew/2398.htm) kullanır — ama dolu durur durmaz {{% bible val="yüreğini katılaştırarak yeniden günah işler" link="exo:9,34" lang="tr" %}}.
+İşte burada işler ciddileşir: {{% bible val="Tanrı, önceden bildirdiği tam güçle vurur" link="exo:9,14" lang="tr" %}}, ama yine de {{% bible val="halkı sığınmaları için uyarır" link="exo:9,20-21" lang="tr" %}}. Yağan dolu yıkıcıdır — o güne dek görülenlerin en kötüsüdür — ve hiçbir Mısır tanrısı onlara bu doludan koruma sağlamaz. Firavun ilk kez {{% bible val="günah işlediğini kabul eder" link="exo:9,27" lang="tr" %}}; bunu yaparken de [Avimelek’in bilmeden İbrahim’in karısını aldığı zaman kullanılanla aynı sözcüğü](https://biblehub.com/hebrew/2398.htm) kullanır — ama dolu durur durmaz {{% bible val="yüreğini katılaştırarak yeniden günah işler" link="exo:9,34" lang="tr" %}}.
 
 ## {{% bible val="8, Çekirgeler" link="exo:10,1-20" lang="tr" %}}
 
@@ -139,7 +139,7 @@ Bunun bir katmanı daha vardır. İlk doğan, varistir: Firavun ölürse yerine 
 
 {{% bible val="Firavun’un “katılaşmış yüreği” yüzünden" link="exo:10,7" lang="tr" %}} Mısır halkı {{% bible val="zaten Musa’dan yana bir tavır almıştı" link="exo:11,3" lang="tr" %}} ve ilk doğanın ölümü — Mısır’a artık sunacak bir gelecek kalmadığını göstererek — Mısırlılar’ı Tanrı’ya doğru itmeye yardımcı oldu; {{% bible val="karışık bir kalabalık" link="exo:12,38" lang="tr" %}} da İsrail’le birlikte ülkeyi terk etti.
 
-Onuncu bela gelmeden önce {{% bible val="Fısıh tanıtılır" link="exo:12,1-13" lang="tr" %}} — hem beladan koruma sağlar, hem de Rab’bin Sofrası’nın kökenidir, hem de bir bakıma İsrail’in bir halk olarak doğuşudur, çünkü {{% bible val="İsrail’e katılmak isteyen herkese açıktı" link="exo:12,43-49" lang="tr" %}}. Bununla birlikte {{% bible val="Mayasız Ekmek Bayramı da tanıtılır" link="exo:12,14-20" lang="tr" %}}; bu da {{% bible val="beklemeye değil, yalnızca acele etmeye zaman olduğunu" link="exo:12,12" lang="tr" %}} vurgular.
+Onuncu bela gelmeden önce {{% bible val="Fısıh tanıtılır" link="exo:12,1-13" lang="tr" %}} — hem beladan koruma sağlar, hem de Rab’bin Sofrası’nın kökenidir, hem de bir bakıma İsrail’in bir halk olarak doğuşudur, çünkü {{% bible val="İsrail’e katılmak isteyen herkese açıktı" link="exo:12,43-49" lang="tr" %}}. Bununla birlikte {{% bible val="Mayasız Ekmek Bayramı da tanıtılır" link="exo:12,14-20" lang="tr" %}}; bu da {{% bible val="beklemeye değil, yalnızca acele etmeye zaman olduğunu" link="exo:12,11" lang="tr" %}} vurgular.
 
 Son olarak, kalıcı bir hatırlatıcı olarak {{% bible val="el ve alın üzerindeki işaret" link="exo:13,8-9" lang="tr" %}} tanıtılır: Tanrı İsrail’i Mısır’dan çıkardı, Mısır’ın tanrılarından daha güçlüdür ve İsrail bunu asla unutmamalıdır. Bir başka deyişle bu işaret, Tanrı’ya bağlılığın bir simgesidir.
 
