@@ -51,14 +51,14 @@ tertentu di kota-kota tertentu, bukan vonis atas bangsa Yahudi sebagai demikian.
 
 Perhatikan juga apa yang menurut Yohanes akan terjadi pada lawan-lawan yang sama itu di Filadelfia:
 suatu hari mereka akan "sujud" di hadapan jemaat (Wahyu 3:9). Dibaca dalam konteksnya, ini bukan
-gambaran orang Yahudi suatu hari tunduk kepada sebuah institusi. Ini adalah harapan agar mereka
-sampai mengenali dan menerima Yesus — persis hal yang menjadi pokok konflik itu sejak awal.
+gambaran orang Yahudi suatu hari tunduk kepada sebuah institusi. Ini adalah pembenaran: mereka akan harus
+mengakui bahwa Yesus mengasihi jemaat ini. Apakah mereka sendiri menjadi percaya, ayat itu
+membiarkannya terbuka — dan dengan demikian pintu tetap terbuka.
 
 Dinamika yang sama muncul dalam pasal 11. Kedua saksi dibunuh di sebuah kota yang diberi nama
-rohani "Sodom" dan "Mesir" — jelas Yerusalem, karena di situlah Tuhan mereka disalibkan. Yang
-mencolok adalah apa yang sengaja tidak disebutkan: Yohanes menghindari menyebut kota itu
-"Yerusalem" secara langsung. Bahkan dalam penghakiman, teks ini memperlakukan kota suci Israel
-dengan semacam kehati-hatian.
+rohani "Sodom" dan "Mesir". Gambaran itu diambil dari Yerusalem, tempat Tuhan mereka disalibkan,
+tetapi "kota besar" itu lebih luas daripada satu tempat: itulah dunia yang menolak saksi-saksi
+Allah, di mana pun hal itu terjadi.
 
 ## Apa yang Tidak Pernah Dilakukan Wahyu
 

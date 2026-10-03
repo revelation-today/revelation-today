@@ -28,9 +28,9 @@ together in the promise in Christ Jesus" (Ephesians 3:6). The "mystery" here is 
 hidden secret trivia — it is an almost unbelievable act of God: Gentiles now share fully
 in Israel's heritage, body, and promises. Jesus is the substance of the New Covenant, and
 in him Jews and Gentiles together make up end-time Israel — a people defined not by
-ethnicity but by belonging to Jesus. As Paul puts it elsewhere, the covenant given through
-Moses functioned as an intermediary step between the promise to Abraham and its fulfillment
-in the church (Galatians 3:23–28).
+ethnicity but by belonging to Jesus. As Paul puts it elsewhere, the law given through
+Moses was a guardian until Christ came, so that the promise to Abraham might reach all who
+believe (Galatians 3:23–28).
 
 Nearly every title the Old Testament gives to Israel is now applied to the church, not as
 a replacement but as the same elect people reaching its intended, expanded form: beloved of

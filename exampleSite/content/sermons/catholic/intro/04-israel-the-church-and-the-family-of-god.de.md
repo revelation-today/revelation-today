@@ -52,14 +52,13 @@ bestimmter Gegner in bestimmten Städten, kein Urteil über das jüdische Volk a
 Beachtet auch, was Johannes über dieselben Gegner in Philadelphia sagt, was geschehen wird: Eines
 Tages werden sie sich vor der Gemeinde „niederwerfen" (Offenbarung 3,9). Im Kontext gelesen, ist
 das kein Bild davon, dass jüdische Menschen sich eines Tages einer Institution unterwerfen. Es ist
-eine Hoffnung, dass sie Jesus erkennen und annehmen — genau das, worum es im Konflikt von Anfang an
-ging.
+Rechtfertigung: Sie werden anerkennen müssen, dass Jesus diese Gemeinde geliebt hat. Ob sie selbst
+zum Glauben kommen, lässt der Vers offen — und so bleibt die Tür offen.
 
 Dieselbe Dynamik erscheint in Kapitel 11. Die beiden Zeugen werden in einer Stadt getötet, der die
-geistlichen Namen „Sodom" und „Ägypten" gegeben werden — eindeutig Jerusalem, denn dort wurde ihr
-Herr gekreuzigt. Bemerkenswert ist, was bewusst ausgespart wird: Johannes vermeidet es, die Stadt
-ausdrücklich „Jerusalem" zu nennen. Selbst im Gericht behandelt der Text Israels heilige Stadt mit
-einer Art von Zurückhaltung.
+geistlichen Namen „Sodom" und „Ägypten" gegeben werden. Das Bild ist von Jerusalem genommen, wo ihr Herr gekreuzigt
+wurde, aber die „große Stadt" ist größer als ein einzelner Ort: Sie ist die Welt, die Gottes Zeugen
+ablehnt, wo immer das geschieht.
 
 ## Was die Offenbarung niemals tut
 

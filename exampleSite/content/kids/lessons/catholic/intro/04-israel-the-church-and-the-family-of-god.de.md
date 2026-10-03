@@ -46,9 +46,10 @@ Deshalb benutzt Johannes in der Offenbarung eine harte Formulierung — "Synagog
 diese bestimmten Gegner in diesen bestimmten Städten. Es ist wichtig zu wissen: Das bezieht sich
 auf einen bestimmten Streit an einem bestimmten Ort zu einer bestimmten Zeit, nicht darauf, dass
 Johannes etwas Schlechtes über jüdische Menschen im Allgemeinen sagt. Tatsächlich meint Johannes,
-wenn er sagt, dass genau diese Menschen eines Tages "niederfallen" würden, dass er hofft, sie
-würden ebenfalls zum Glauben an Jesus kommen — nicht, dass irgendjemand sich vor einem Gebäude oder
-einer Institution verbeugen müsste.
+wenn er sagt, dass genau diese Menschen eines Tages "niederfallen" würden, nicht, dass irgendjemand
+sich vor einem Gebäude oder einer Institution verbeugen müsste. Er meint, dass sie eines Tages
+sehen werden, dass Jesus diese Gemeinde wirklich liebt — und die Tür bleibt offen, dass auch sie an
+ihn glauben.
 
 ---
 

@@ -31,9 +31,10 @@ orang-orang bukan Yahudi, oleh Injil, turut menjadi ahli waris, turut menjadi an
 turut mendapat bagian dalam janji yang diberikan dalam Kristus Yesus." Yesus adalah Perjanjian
 Baru, dan di dalam Dia orang Yahudi dan bukan Yahudi bersama-sama membentuk satu Israel akhir
 zaman — bukan didefinisikan oleh etnisitas atau kebangsaan, melainkan oleh kepemilikan kepada
-Yesus. Perjanjian dengan Israel secara etnis berfungsi sebagai langkah perantara antara janji
-kepada Abraham dan gereja ({{% bible val="Galatia 3:23-28" link="gal:3,23-28" lang="ind" %}}),
-bukan sebagai sebuah rencana terpisah yang bersaing yang berjalan bersamaan.
+Yesus. Hukum Taurat yang diberikan di Sinai, menurut kata-kata Paulus, adalah penuntun sampai
+Kristus datang ({{% bible val="Galatia 3:23-28" link="gal:3,23-28" lang="ind" %}}), supaya janji
+kepada Abraham sampai kepada semua orang yang percaya — bukan sebuah rencana terpisah yang
+bersaing yang berjalan bersamaan.
 
 **Buktinya: gelar demi gelar, dipindahkan secara langsung.** Di sinilah argumennya menjadi konkret,
 bukan abstrak. Hampir setiap gelar utama yang diberikan Perjanjian Lama kepada Israel diterapkan
@@ -72,10 +73,12 @@ bersaksi tentang Yesus — itulah sebabnya Yohanes menyebut mereka "jemaah Iblis
 ({{% bible val="Why 2:9" link="rev:2,9" lang="ind" %}},
 {{% bible val="Why 3:9" link="rev:3,9" lang="ind" %}}). Ketika lawan-lawan yang sama di Filadelfia
 kemudian dikatakan akan "sujud" di hadapan jemaat, maksudnya bukan tunduk pada otoritas gereja
-sebagai sebuah institusi — melainkan mereka datang untuk menerima Yesus. Dinamika yang sama muncul
-di pasal 11, di mana tempat kedua saksi itu dibunuh secara rohani disebut "Sodom" dan "Mesir" —
-sebuah gambaran yang jelas menunjuk pada Yerusalem sendiri, karena di situlah Yesus, Tuhannya yang
-sah, dibunuh. Menariknya, teks itu menghindari menyebut nama Yerusalem secara langsung.
+sebagai sebuah institusi. Maksudnya adalah pembenaran: mereka akan harus mengakui bahwa Yesus
+mengasihi jemaat ini. Apakah mereka sendiri menjadi percaya, ayat itu membiarkannya terbuka — dan
+dengan demikian pintu tetap terbuka. Dinamika yang sama muncul di pasal 11, di mana tempat kedua
+saksi itu dibunuh secara rohani disebut "Sodom" dan "Mesir". Gambaran itu diambil dari Yerusalem,
+tempat Tuhan mereka dibunuh, tetapi "kota besar" itu lebih luas daripada satu tempat: itulah dunia
+yang menolak saksi-saksi Allah, di mana pun hal itu terjadi.
 
 **Namun Wahyu tidak pernah membalikkan argumennya melawan Israel secara etnis.** Kedua puluh empat
 tua-tua di pasal 4 mewakili dua belas suku dan dua belas rasul bersama-sama — satu gambar yang

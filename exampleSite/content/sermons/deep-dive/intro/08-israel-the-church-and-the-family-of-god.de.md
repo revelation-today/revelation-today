@@ -27,10 +27,10 @@ vollständige Liste der Begriffsübertragungen) und [Israel und die Gemeinde]({{
 **Das Geheimnis der Heiden, direkt von Paulus benannt.** {{% bible val="Epheser 3,3-6" link="eph:3,3-6" lang="de" %}} sagt es unmissverständlich: „dass die Heiden Miterben sind und mit
 zum Leib gehören und Mitgenossen der Verheißung in Christus Jesus sind durch das Evangelium." Jesus
 ist der Neue Bund, und in ihm bilden Juden und Heiden zusammen ein endzeitliches Israel — definiert
-nicht durch Ethnie oder Nationalität, sondern durch Zugehörigkeit zu Jesus. Der Bund mit dem
-ethnischen Israel funktionierte als vermittelnder Schritt zwischen der Verheißung an Abraham und
-der Gemeinde ({{% bible val="Galater 3,23-28" link="gal:3,23-28" lang="de" %}}), nicht als
-separater, konkurrierender Plan, der daneben läuft.
+nicht durch Ethnie oder Nationalität, sondern durch Zugehörigkeit zu Jesus. Das am Sinai gegebene
+Gesetz war, in den Worten des Paulus, ein Erzieher, bis Christus kam
+({{% bible val="Galater 3,23-28" link="gal:3,23-28" lang="de" %}}), damit die Verheißung an
+Abraham alle erreicht, die glauben — kein separater, konkurrierender Plan, der daneben läuft.
 
 **Der Beweis: Titel um Titel, direkt übertragen.** Hier wird das Argument konkret statt abstrakt.
 Fast jeder wichtige Titel, den das Alte Testament Israel gibt, wird im Neuen Testament der Gemeinde
@@ -69,10 +69,12 @@ sie von Jesus Zeugnis gab — weshalb Johannes sie „Synagoge des Satans" nennt
 ({{% bible val="Offb 2,9" link="rev:2,9" lang="de" %}},
 {{% bible val="Offb 3,9" link="rev:3,9" lang="de" %}}). Wenn dieselben Gegner in Philadelphia
 später „niederfallen" sollen vor der Gemeinde, geht es nicht um Unterwerfung unter die
-Gemeindeautorität als Institution — es geht darum, dass sie Jesus annehmen. Dieselbe Dynamik zeigt
-sich in Kapitel 11, wo der Ort, an dem die zwei Zeugen getötet werden, geistlich „Sodom" und
-„Ägypten" genannt wird — eine pointierte Beschreibung Jerusalems selbst, denn dort wurde Jesus,
-sein rechtmäßiger Herr, getötet. Bezeichnenderweise vermeidet der Text, Jerusalem direkt zu nennen.
+Gemeindeautorität als Institution. Es geht um Rechtfertigung: Sie werden anerkennen müssen, dass
+Jesus diese Gemeinde geliebt hat. Ob sie selbst zum Glauben kommen, lässt der Vers offen — und so
+bleibt die Tür offen. Dieselbe Dynamik zeigt sich in Kapitel 11, wo der Ort, an dem die zwei Zeugen
+getötet werden, geistlich „Sodom" und „Ägypten" genannt wird. Das Bild ist von Jerusalem genommen,
+wo ihr Herr getötet wurde, aber die „große Stadt" ist größer als ein einzelner Ort: Sie ist die
+Welt, die Gottes Zeugen ablehnt, wo immer das geschieht.
 
 **Doch die Offenbarung wendet ihr Argument nie gegen das ethnische Israel als solches.** Die 24
 Ältesten in Kapitel 4 repräsentieren die 12 Stämme und 12 Apostel zusammen — ein einziges,

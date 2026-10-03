@@ -35,9 +35,9 @@ mengambil bagian dalam warisan, tubuh, dan janji-janji Israel. Yesus adalah
 substansi Perjanjian Baru, dan di dalam Dia orang Yahudi dan bukan Yahudi
 bersama-sama membentuk Israel akhir zaman — sebuah umat yang didefinisikan
 bukan oleh etnisitas melainkan oleh kepemilikan atas Yesus. Seperti yang
-dikatakan Paulus di tempat lain, perjanjian yang diberikan melalui Musa
-berfungsi sebagai sebuah langkah perantara antara janji kepada Abraham dan
-penggenapannya dalam gereja (Galatia 3:23–28).
+dikatakan Paulus di tempat lain, hukum Taurat yang diberikan melalui Musa
+adalah penuntun sampai Kristus datang, supaya janji kepada Abraham sampai
+kepada semua orang yang percaya (Galatia 3:23–28).
 
 Hampir setiap gelar yang diberikan Perjanjian Lama kepada Israel kini
 diterapkan kepada gereja, bukan sebagai sebuah penggantian melainkan sebagai

@@ -23,9 +23,9 @@ In the Roman Empire, Judaism was a long-tolerated religion — Jews could practi
 
 This is part of why, in some cities, local Jewish communities reported Christians to Roman authorities — not out of some essential hostility to Jesus as such, but as a way of drawing a clear legal and social line between themselves and a movement that was making trouble for Rome. We see this tension surface concretely in two of the seven letters: Smyrna and Philadelphia. In both cities, local Jewish opponents actively worked against the church, apparently reporting or denouncing Christians for testifying that Jesus is Lord. That is the specific, local conflict behind John's sharp phrase, "synagogue of Satan" (Revelation 2:9; 3:9) — a description of particular opponents in particular cities, not a verdict on the Jewish people as such.
 
-Notice, too, what John says will happen to those same opponents in Philadelphia: one day they will "bow down" before the church (Revelation 3:9). Read in context, this is not a picture of Jewish people someday submitting to an institution. It is a hope that they come to recognize and accept Jesus — the very thing the conflict was about in the first place.
+Notice, too, what John says will happen to those same opponents in Philadelphia: one day they will "bow down" before the church (Revelation 3:9). Read in context, this is not a picture of Jewish people someday submitting to an institution. It is vindication: they will have to acknowledge that Jesus has loved this church. Whether they come to faith themselves the verse leaves open — and so the door stays open.
 
-The same dynamic appears in chapter 11. The two witnesses are killed in a city given the spiritual names "Sodom" and "Egypt" — clearly Jerusalem, since that is where their Lord was crucified. What's striking is what is deliberately withheld: John avoids naming the city "Jerusalem" outright. Even in judgment, the text handles Israel's holy city with a kind of restraint.
+The same dynamic appears in chapter 11. The two witnesses are killed in a city given the spiritual names "Sodom" and "Egypt". The picture is drawn from Jerusalem, where their Lord was crucified, but the "great city" is larger than one place: it is the world that rejects God's witnesses, wherever that happens.
 
 ## What Revelation never does
 

@@ -32,7 +32,7 @@ Today we're going to find out something really encouraging: in the Bible's last 
 
 A long time ago, in the Roman Empire, Jewish people were allowed to worship God without getting in trouble, as long as they stayed loyal to the emperor in other ways. At first, Romans thought Christians were just part of that same Jewish family. But Christians wouldn't worship the emperor like Rome wanted — and that got some Jewish communities worried they'd get blamed too. In a couple of cities, Smyrna and Philadelphia, some local Jewish people actually got Christians in trouble with the Roman government, because the Christians kept telling everyone that Jesus is Lord.
 
-That's why, in Revelation, John uses a tough phrase — "synagogue of Satan" — about those specific opponents in those specific cities. It's important to know: this is about a particular argument in a particular place and time, not John saying something bad about Jewish people in general. In fact, when John says those same people would one day "bow down," he means he hopes they will come to believe in Jesus too — not that anyone has to bow down to a building or an institution.
+That's why, in Revelation, John uses a tough phrase — "synagogue of Satan" — about those specific opponents in those specific cities. It's important to know: this is about a particular argument in a particular place and time, not John saying something bad about Jewish people in general. In fact, when John says those same people would one day "bow down," he does not mean that anyone has to bow down to a building or an institution. He means that one day they will see that Jesus really loves this church — and the door stays open for them to believe in him too.
 
 ---
 

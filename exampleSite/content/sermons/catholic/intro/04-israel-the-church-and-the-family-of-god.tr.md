@@ -50,13 +50,14 @@ tasviridir.
 
 Ayrıca Yuhanna'nın Filadelfiya'daki aynı muhaliflere ne olacağını söylediğine de dikkat edin: bir
 gün kilisenin önünde "diz çökecekler" (Vahiy 3:9). Bağlamında okunduğunda bu, Yahudi halkının bir
-gün bir kuruma boyun eğmesinin bir tasviri değildir. Bu, onların İsa'yı tanıyıp kabul etmeye
-gelmeleri umududur — çatışmanın en başından beri konusu olan şeyin tam da kendisi.
+gün bir kuruma boyun eğmesinin bir tasviri değildir. Bu aklanmadır: İsa'nın bu kiliseyi sevdiğini kabul etmek
+zorunda kalacaklar. Kendilerinin iman edip etmeyeceğini ayet açık bırakır — böylece kapı da açık
+kalır.
 
 Aynı dinamik on birinci bölümde de görünür. İki tanık, ruhsal olarak "Sodom" ve "Mısır" adlarıyla
-anılan bir şehirde öldürülür — açıkça Yeruşalim'dir, çünkü Rableri orada çarmıha gerilmiştir. Dikkat
-çekici olan, kasıtlı olarak esirgenen şeydir: Yuhanna şehri açıkça "Yeruşalim" diye adlandırmaktan
-kaçınır. Yargı içinde bile metin, İsrail'in kutsal şehrini bir tür ihtiyatla ele alır.
+anılan bir şehirde öldürülür. Bu resim, Rablerinin çarmıha gerildiği Yeruşalim'den alınmıştır, ama
+"büyük kent" tek bir yerden daha geniştir: nerede olursa olsun Tanrı'nın tanıklarını reddeden
+dünyadır.
 
 ## Vahiy'in asla yapmadığı şey
 

@@ -27,10 +27,10 @@ gerginlik) üzerine kuruludur.
 {{% bible val="Efesliler 3:3-6" link="eph:3,3-6" lang="tr" %}} bunu açıkça belirtir: "Müjde
 aracılığıyla uluslar, İsrail'le birlikte mirasçı, aynı bedenin üyeleri ve Mesih İsa'daki vaade
 ortaklardır." İsa Yeni Antlaşma'dır ve O'nda Yahudiler ve uluslar birlikte tek bir son-zaman
-İsrail'ini oluşturur — etnisite veya milliyetle değil, İsa'ya ait olmakla tanımlanır. Etnik
-İsrail'le yapılan antlaşma, Avram'a verilen vaat ile kilise arasında bir ara adım olarak işlev
-gördü ({{% bible val="Galatyalılar 3:23-28" link="gal:3,23-28" lang="tr" %}}), onun yanında
-koşan ayrı, rakip bir plan olarak değil.
+İsrail'ini oluşturur — etnisite veya milliyetle değil, İsa'ya ait olmakla tanımlanır. Pavlus'un
+sözleriyle, Sina'da verilen Yasa, Mesih gelene dek bir eğiticiydi
+({{% bible val="Galatyalılar 3:23-28" link="gal:3,23-28" lang="tr" %}}); öyle ki Avram'a verilen
+vaat iman eden herkese ulaşsın — onun yanında koşan ayrı, rakip bir plan değil.
 
 **Kanıt: unvan üstüne unvan, doğrudan aktarılmış.** Argümanın somutlaştığı yer burasıdır. Eski
 Ahit'in İsrail'e verdiği neredeyse her önemli unvan, Yeni Ahit'te ayet ayet kiliseye yeniden
@@ -65,11 +65,12 @@ bir kalıptır.
 etkin olarak saldırdı — bu yüzden John onlara "Şeytan'ın havrası" der
 ({{% bible val="Va 2:9" link="rev:2,9" lang="tr" %}},
 {{% bible val="Va 3:9" link="rev:3,9" lang="tr" %}}). Filadelfiya'da aynı muhalifler daha sonra
-kilisenin önünde "eğilecek" denildiğinde, mesele kurumsal kilise otoritesine boyun eğmek değildir
-— İsa'yı kabul etmeye gelmeleridir. Aynı dinamik 11. bölümde de ortaya çıkar, iki tanığın
-öldürüldüğü yer ruhsal olarak "Sodom" ve "Mısır" olarak adlandırılır — Yeruşalim'in kendisinin
-keskin bir tanımı, çünkü İsa'nın, kendi meşru Rab'binin, öldürüldüğü yer orasıdır. Dikkat çekici
-bir şekilde, metin Yeruşalim'i doğrudan adlandırmaktan kaçınır.
+kilisenin önünde "eğilecek" denildiğinde, mesele kurumsal kilise otoritesine boyun eğmek değildir.
+Mesele aklanmadır: İsa'nın bu kiliseyi sevdiğini kabul etmek zorunda kalacaklar. Kendilerinin iman
+edip etmeyeceğini ayet açık bırakır — böylece kapı da açık kalır. Aynı dinamik 11. bölümde de
+ortaya çıkar; iki tanığın öldürüldüğü yer ruhsal olarak "Sodom" ve "Mısır" diye adlandırılır. Bu
+resim, Rablerinin öldürüldüğü Yeruşalim'den alınmıştır, ama "büyük kent" tek bir yerden daha
+geniştir: nerede olursa olsun Tanrı'nın tanıklarını reddeden dünyadır.
 
 **Yine de Vahiy argümanını asla etnik İsrail'e karşı çevirmez.** 4. bölümdeki 24 ihtiyar, 12
 kabile ve 12 elçiyi birlikte temsil eder — iki rakip sembol değil, tek, birleşik bir imge. Hem

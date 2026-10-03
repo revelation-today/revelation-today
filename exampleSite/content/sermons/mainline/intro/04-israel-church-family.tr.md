@@ -29,8 +29,8 @@ olmayanlar da mirasa ortak, aynı bedene üye ve Mesih İsa'daki vaade paydaş o
 eylemidir: Yahudi olmayanlar artık İsrail'in mirasına, bedenine ve vaatlerine tam olarak ortak
 olurlar. İsa, Yeni Antlaşma'nın özüdür, ve O'nda Yahudiler ve Yahudi olmayanlar birlikte
 son zaman İsrail'ini oluşturur — etnisiteyle değil, İsa'ya ait olmakla tanımlanan bir halk.
-Pavlus'un başka bir yerde ifade ettiği gibi, Musa aracılığıyla verilen antlaşma, İbrahim'e
-verilen vaat ile onun kilisede yerine gelişi arasında bir ara adım işlevi gördü (Galatyalılar
+Pavlus'un başka bir yerde ifade ettiği gibi, Musa aracılığıyla verilen Yasa, Mesih gelene dek bir
+eğiticiydi; öyle ki İbrahim'e verilen vaat iman eden herkese ulaşsın (Galatyalılar
 3:23–28).
 
 Eski Antlaşma'nın İsrail'e verdiği neredeyse her unvan, artık kiliseye bir yerine geçme değil,

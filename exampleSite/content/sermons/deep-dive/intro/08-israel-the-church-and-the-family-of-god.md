@@ -28,9 +28,9 @@ Revelation specifically).
 together with Israel, members together of one body, and sharers together in the promise in
 Christ Jesus." Jesus is the New Covenant, and in Him Jews and Gentiles together form one
 end-time Israel — not defined by ethnicity or nationality, but by belonging to Jesus. The
-covenant with ethnic Israel functioned as an intermediary step between the promise to Abraham
-and the church ({{% bible val="Galatians 3:23-28" link="gal:3,23-28" lang="en" %}}), not as a
-separate, competing plan running alongside it.
+law given at Sinai was, in Paul's words, a guardian until Christ came
+({{% bible val="Galatians 3:23-28" link="gal:3,23-28" lang="en" %}}), so that the promise to
+Abraham might reach all who believe — not a separate, competing plan running alongside it.
 
 **The evidence: title after title, transferred directly.** This is where the argument gets
 concrete rather than abstract. Nearly every major title the Old Testament gives Israel is
@@ -66,10 +66,12 @@ church for testifying about Jesus — which is why John calls them a "synagogue 
 ({{% bible val="Rev 2:9" link="rev:2,9" lang="en" %}},
 {{% bible val="Rev 3:9" link="rev:3,9" lang="en" %}}). When those same opponents in Philadelphia
 are later said to "bow down" before the church, the point isn't submission to church authority as
-an institution — it's that they come to accept Jesus. The same dynamic surfaces in chapter 11,
-where the place the two witnesses are killed is spiritually called "Sodom" and "Egypt" — a
-pointed description of Jerusalem itself, since that's where Jesus, its rightful Lord, was
-killed. Tellingly, the text avoids naming Jerusalem directly.
+an institution. It is vindication: they will have to acknowledge that Jesus has loved this
+church. Whether they come to faith themselves the verse leaves open — and so the door stays
+open. The same dynamic surfaces in chapter 11, where the place the two witnesses are killed is
+spiritually called "Sodom" and "Egypt". The picture is drawn from Jerusalem, where their Lord
+was killed, but the "great city" is larger than one place: it is the world that rejects God's
+witnesses, wherever that happens.
 
 **Yet Revelation never turns its argument against ethnic Israel as such.** The 24 elders in
 chapter 4 represent the 12 tribes and 12 apostles together — a single unified image, not two

@@ -45,9 +45,9 @@ herkese İsa'nın Rab olduğunu söylemeye devam ediyordu.
 Bu yüzden Vahiy'de Yuhanna, o belirli şehirlerdeki o belirli karşıtlar için sert bir ifade
 kullanır — "Şeytan'ın havrası." Şunu bilmek önemli: bu, belirli bir yerde ve zamanda yaşanan
 belirli bir tartışma hakkındadır, Yuhanna'nın Yahudi halkı hakkında genel olarak kötü bir şey
-söylemesi değildir. Aslında, Yuhanna aynı insanların bir gün "eğileceğini" söylediğinde, onların
-da İsa'ya inanmaya geleceklerini umduğunu kastediyor — kimsenin bir binaya ya da kuruma eğilmesi
-gerektiğini değil.
+söylemesi değildir. Aslında, Yuhanna aynı insanların bir gün "eğileceğini" söylediğinde, kimsenin
+bir binaya ya da kuruma eğilmesi gerektiğini kastetmiyor. Bir gün İsa'nın bu kiliseyi gerçekten
+sevdiğini göreceklerini kastediyor — ve onların da O'na iman etmesi için kapı açık kalıyor.
 
 ---
 
