@@ -26,6 +26,8 @@ sources:
       ref: bauckham_climax
     - pages: 37, 100
       ref: bauckham_rev
+    - pages: 727
+      ref: beale_rev
 readBefore:
     - name: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation

@@ -10,6 +10,8 @@ sources:
       ref: daniel
     - pages: 566
       ref: beale_rev
+    - pages: 21
+      ref: beale_rev
 ---
 
 Daniel kitabının iki yönü var gibi görünür: ilk altı bölüm büyük bir iman örneği gibi okunurken, diğer altı bölüm birçok garip teolojinin kaynağı haline gelmiş tuhaf görümlerle doludur. Ama bu iki yarı, ilk bakışta göründüğü kadar birbirinden kopuk değildir.

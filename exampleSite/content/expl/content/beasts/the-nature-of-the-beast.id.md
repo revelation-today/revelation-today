@@ -17,6 +17,8 @@ sources:
       ref: bauckham_rev
     - pages: 148, 262, 623, 812, 894
       ref: beale_rev
+    - pages: 729, 1028
+      ref: beale_rev
 ---
 
 Iblis dan seluruh antek-anteknya menempati cukup banyak ruang dalam Kitab Wahyu, dan studi ini pun sudah menghabiskan cukup banyak artikel untuk membahasnya. Mengapa demikian? Bukankah upaya itu seharusnya diarahkan untuk menggambarkan Allah saja? Ada alasannya.

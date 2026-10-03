@@ -24,6 +24,8 @@ deeper:
 sources: 
     - pages: 621–681
       ref: beale_rev
+    - pages: 628–629
+      ref: beale_rev
 readBefore:
     - name: "Der zweite Auszug"
       link:  /expl/background/israel/the-second-exodus

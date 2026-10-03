@@ -9,6 +9,8 @@ sources:
       ref: beale_rev
     - pages: l–lvi
       ref: aune_rev
+    - pages: 187, 189
+      ref: beale_rev
 prev: /expl/content/vision/setting-the-foundation
 next: /expl/content/letters/the-angel-of-the-churches
 docType: expl

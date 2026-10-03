@@ -16,6 +16,8 @@ sources:
       ref: fee_rev
     - pages: 160
       ref: aune_rev
+    - pages: lviii
+      ref: aune_rev
 ---
 
 Are you familiar with Smyrna? You should be — it's home to a blameless church, though that blamelessness may not look as inviting as you'd expect.

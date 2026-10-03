@@ -17,6 +17,8 @@ sources:
       ref: bauckham_rev
     - pages: 148, 262, 623, 812, 894
       ref: beale_rev
+    - pages: 729, 1028
+      ref: beale_rev
 ---
 
 The devil and all his minions take up quite a bit of space in the book of Revelation, and this study has spent quite a few articles on the subject too. Why is that? Shouldn't the effort go toward describing God instead? There is a reason.

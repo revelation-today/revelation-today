@@ -16,6 +16,8 @@ sources:
       ref: fee_rev
     - pages: lxiii, 250
       ref: aune_rev
+    - pages: 306
+      ref: beale_rev
 ---
 
 The {{% bible val="letter to the church of Laodicea" link="rev:3,14-22" lang="en" %}} is the most frequently preached letter in Revelation, so most of us already know about the problem of being lukewarm. But do we really know the context behind that image? It matters here more than usual, since Laodicea is the *only* church that receives no praise at all — not even a little.

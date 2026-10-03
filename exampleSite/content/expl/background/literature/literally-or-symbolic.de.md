@@ -4,6 +4,8 @@ weight: 20
 sources:
     - pages: 50–69, 93, 137–139, 152–159, 216
       ref: beale_rev
+    - pages: 48–49
+      ref: beale_rev
 prev: /expl/background/literature/the-book-of-revelation-how-to-read-it
 next: /expl/background/literature/full-of-biblical-references
 docType: expl

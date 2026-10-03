@@ -9,6 +9,8 @@ sources:
     - ref: daniel
     - pages: 566
       ref: beale_rev
+    - pages: 21
+      ref: beale_rev
 ---
 
 Kitab Daniel tampak memiliki dua sisi: keenam pasal pertama adalah sebuah teladan besar tentang iman, sementara keenam pasal lainnya penuh dengan penglihatan-penglihatan aneh yang telah menjadi ladang subur bagi banyak teologi yang tak kalah anehnya. Tetapi kedua bagian ini tidak seterputus yang tampak pada pandangan pertama.

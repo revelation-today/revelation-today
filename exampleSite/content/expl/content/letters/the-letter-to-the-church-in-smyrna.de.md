@@ -16,6 +16,8 @@ sources:
       ref: fee_rev
     - pages: 160
       ref: aune_rev
+    - pages: lviii
+      ref: aune_rev
 ---
 
 Kennst du Smyrna? Solltest du - dort findest du eine tadellose Gemeinde, auch wenn diese Tadellosigkeit vielleicht nicht so einladend wirkt, wie du erwarten würdest.

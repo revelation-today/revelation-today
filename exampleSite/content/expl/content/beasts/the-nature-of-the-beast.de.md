@@ -17,6 +17,8 @@ sources:
       ref: bauckham_rev
     - pages: 148, 262, 623, 812, 894
       ref: beale_rev
+    - pages: 729, 1028
+      ref: beale_rev
 ---
 
 Der Teufel und all seine Helfer nehmen in der Offenbarung ziemlich viel Raum ein, und auch diese Artikelreihe hat ihm schon einige Artikel gewidmet. Warum eigentlich? Sollte die Mühe nicht besser in die Beschreibung Gottes fließen? Es gibt einen guten Grund dafür.

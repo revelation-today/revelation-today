@@ -15,6 +15,8 @@ sources:
       ref: beale_rev
     - pages: 14, 131
       ref: bauckham_rev
+    - pages: 1074
+      ref: beale_rev
 deeper:
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation

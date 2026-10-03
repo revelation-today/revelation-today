@@ -20,6 +20,8 @@ sources:
       ref: beale_rev
     - pages: 397
       ref: aune_rev
+    - pages: 377, 386
+      ref: beale_rev
 ---
 
 In the Book of Revelation we see four horsemen — apocalyptic riders who bring war, famine, and death to the whole world. But the first one doesn't fit neatly into the scheme, and he causes a lot of headaches: this is a genuinely controversial topic.

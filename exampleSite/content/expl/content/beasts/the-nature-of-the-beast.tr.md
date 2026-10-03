@@ -17,6 +17,8 @@ sources:
       ref: bauckham_rev
     - pages: 148, 262, 623, 812, 894
       ref: beale_rev
+    - pages: 729, 1028
+      ref: beale_rev
 ---
 
 Şeytan ve bütün uşakları Vahiy kitabında oldukça fazla yer kaplar; bu çalışma da bu konuya epeyce makale ayırdı. Neden peki? Bu çabanın Tanrı'yı betimlemeye gitmesi gerekmez mi? Bunun bir nedeni var.

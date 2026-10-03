@@ -14,6 +14,8 @@ deeper:
 sources: 
     - pages: 785–847
       ref: beale_rev
+    - pages: 147, 322, 329
+      ref: beale_rev
 readBefore:
     - name: "The second Exodus"
       link:  /expl/background/israel/the-second-exodus
