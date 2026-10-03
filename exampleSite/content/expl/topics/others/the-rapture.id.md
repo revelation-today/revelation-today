@@ -95,7 +95,7 @@ Perhatikan juga bahwa teks ini tidak pernah menyebutkan ke mana orang-orang yang
 <a name="3b92"></a>
 Jadi, apa sebenarnya yang menjadi pokok bahasan bagian ini? Nasib pasti dari mereka yang dibawa dan mereka yang ditinggalkan sengaja dibiarkan samar — Matius bahkan mungkin menggunakan ambiguitas itu dengan sengaja. Inti sesungguhnya adalah kesiapan: {{% bible val="sebagaimana dikatakan ayat tepat sebelum bagian ini" link="mat:24,36" lang="ind" %}}, saat itu bisa tiba di tengah-tengah kehidupan yang biasa, tanpa peringatan lebih dahulu untuk bersiap-siap.
 
-## Perspektif Pohon Zaitun
+## Pohon Ara dan Tahun 1948
 
 <a name="fb48"></a>
 Matius pasal {{% bible val="24" link="mat:24" lang="ind" %}} dan {{% bible val="25" link="mat:25" lang="ind" %}} juga sering dipakai sebagai argumen untuk pengangkatan. Dalam pasal-pasal ini, Yesus ditanya apa yang akan terjadi pada hari-hari terakhir, dan sebagian pembaca menafsirkan jawaban-Nya sebagai gambaran tentang masa yang dimulai dengan berdirinya negara Israel pada tahun 1948.

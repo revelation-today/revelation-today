@@ -43,7 +43,7 @@ Nach dieser Lesart hätte das Buch für die Menschen, für die es ursprünglich 
 <a name="423b"></a>
 Die Theorie stellt oft Behauptungen auf, ohne sie zu erklären, oder fährt ein Arsenal von Bibelversen auf, die aus ihrem Kontext gelöst sind.
 
-Ein gutes Beispiel ist die {{% bible val="2000-jährige Verzögerung in der Prophezeiung der 70 Jahre" link="dan:9,26-27" lang="de" %}}, ein Eckpfeiler des Systems. Sie hängt von einer ganz bestimmten Lesart ab — bis hin zur Zeichensetzung — eines Verses, und genau diese Zeichensetzung wird nur von der King-James-Übersetzungstradition gestützt.
+Ein gutes Beispiel ist die {{% bible val="2000-jährige Verzögerung in der Prophezeiung der 70 Wochen" link="dan:9,26-27" lang="de" %}}, ein Eckpfeiler des Systems. Sie hängt von einer ganz bestimmten Lesart ab — bis hin zur Zeichensetzung — eines Verses, und genau diese Zeichensetzung wird nur von der King-James-Übersetzungstradition gestützt.
 
 ## Immer wieder die Zukunft vorhersagen
 
@@ -81,7 +81,7 @@ Die Trübsal verdient eine eigene Behandlung: {{% int_link val="Das ist eine lä
 ## Die Gemeinde und Israel
 
 <a name="049e"></a>
-Die Theorie behandelt die Gemeinde als Zwischenkonstrukt, eingeklemmt zwischen dem Alten Testament und dem Tausendjährigen Reich nach der Logik der „Haushaltungen”. Nach diesem Schema wird, sobald das Zeitalter der Gemeinde endet, der Bund mit Israel wiederhergestellt und das ethnische Israel regiert die Welt, während die Gemeinde selbst entrückt wird — eine Schlussfolgerung, die weitgehend aus der Tatsache gezogen wird, dass der Begriff „Gemeinde” zwischen Kapitel 3 und Kapitel 21 nicht vorkommt.
+Die Theorie behandelt die Gemeinde als Zwischenkonstrukt, eingeklemmt zwischen dem Alten Testament und dem Tausendjährigen Reich nach der Logik der „Haushaltungen”. Nach diesem Schema wird, sobald das Zeitalter der Gemeinde endet, der Bund mit Israel wiederhergestellt und das ethnische Israel regiert die Welt, während die Gemeinde selbst entrückt wird — eine Schlussfolgerung, die weitgehend aus der Tatsache gezogen wird, dass der Begriff „Gemeinde” zwischen Kapitel 3 und den letzten Versen von Kapitel 22 nicht vorkommt.
 
 An dieser Konstruktion ist einiges falsch. Aber bevor wir dazu kommen, sei anerkannt, dass diese Sicht immerhin ein gutes Gegengewicht zu der älteren Theorie ist, Gott habe Israel rundweg verworfen — eine Theorie, die der Kirche im Mittelalter einen Vorwand gab, Juden zu verfolgen.
 
@@ -108,7 +108,7 @@ Das ist keine bloß theologische Abstraktion. Rossing dokumentiert reale, berich
 ## Die Waffen der Kriegsführung, die sie sich vorstellt
 
 <a name="7b85"></a>
-Der Glaube wird in diesem Rahmen in stark militaristischen Begriffen gefasst, einschließlich einer Armee, der man beitreten kann. Dieses Bild ist {{% bible val="nicht das, was die Offenbarung tatsächlich zeigt" link="rev:14,1-5" lang="de" %}}: {{% bible val="Jesus zieht allein in den Krieg, bewaffnet nur mit dem Schwert seines Mundes" link="rev:19,21" lang="de" %}}. Das ist ein bewusst symbolisches Bild, kein Aufruf zu buchstäblicher, gewaltsamer Kriegsführung.
+Der Glaube wird in diesem Rahmen in stark militaristischen Begriffen gefasst, einschließlich einer Armee, der man beitreten kann. Dieses Bild ist {{% bible val="nicht das, was die Offenbarung tatsächlich zeigt" link="rev:14,1-5" lang="de" %}}: {{% bible val="Jesus kämpft allein, bewaffnet nur mit dem Schwert seines Mundes" link="rev:19,21" lang="de" %}}. Das ist ein bewusst symbolisches Bild, kein Aufruf zu buchstäblicher, gewaltsamer Kriegsführung.
 
 ## Ihre Politik
 

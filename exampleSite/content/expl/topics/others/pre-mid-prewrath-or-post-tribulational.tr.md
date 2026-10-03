@@ -32,7 +32,7 @@ Kilise, gelecekteki yedi yıllık sıkıntının herhangi bir kısmı başlamada
 
 - {{% bible val="'bütün dünyanın üzerine gelecek olan deneme saatinden korunacaksın'" link="rev:3,10" lang="tr" %}} ifadesini, deneme başlamadan önce ortadan kaldırılma vaadi olarak okur, ona dayanma vaadi olarak değil.
 - {{% bible val="'Tanrı bizi gazaba uğramamıza değil'" link="1th:5,9" lang="tr" %}} ifadesini, yalnızca sıkıntının son yargı dökümünden değil, tüm sıkıntı döneminden korunma güvencesi olarak alır.
-- Kilise, {{% bible val="Vahiy'in 4. ve 19. bölümleri arasında" link="rev:4,1" lang="tr" %}} bir daha hiç adıyla anılmaz; bu da bazılarına göre kilisenin sahneyi çoktan terk ettiğinin kanıtıdır.
+- Kilise, {{% bible val="Vahiy'in 4. bölümünden son ayetlerine kadar" link="rev:4,1" lang="tr" %}} bir daha hiç adıyla anılmaz; bu da bazılarına göre kilisenin sahneyi çoktan terk ettiğinin kanıtıdır.
 - Netlik dolu bir yakınlık duygusunu korur — Mesih önce gerçekleşmesi gereken hiçbir şey olmadan her an geri dönebilir.
 - {{% bible val="'şimdi engelleyen, aradan çekilinceye kadar engellemeye devam edecek,' kötülük adamı ortaya çıkmadan önce" link="2th:2,6-7" lang="tr" %}} ifadesini, Ruh'la dolu kilisenin, nihai dinden dönüş patlak vermeden önce ortadan kaldırılması olarak okur — bu da pretribülasyonizme en açık sıralı argümanını verir: yalnızca bir kaçırılmanın gerçekleşmesi değil, bunun *ilk önce* gerçekleşmesi.
 

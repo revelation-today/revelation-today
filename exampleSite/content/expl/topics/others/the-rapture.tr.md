@@ -95,7 +95,7 @@ Ayrıca metnin, "alınanların" nereye götürüldüğünü hiçbir yerde söyle
 <a name="2f7d"></a>
 Peki bu pasaj gerçekte neyle ilgilidir? Alınanların ve bırakılanların kesin kaderi bilinçli biçimde belirsiz bırakılmıştır — Matta bu belirsizliği kasıtlı olarak bile kullanıyor olabilir. Asıl mesele hazır olmaktır: {{% bible val="bu pasajdan hemen önceki ayetin söylediği gibi" link="mat:24,36" lang="tr" %}}, o an hiçbir önceden uyarı verilmeden, sıradan hayatın ortasında gelebilir.
 
-## Zeytin ağacına bakış açısı
+## İncir ağacı ve 1948
 
 <a name="e1d2"></a>
 Matta {{% bible val="24" link="mat:24" lang="tr" %}} ve {{% bible val="25" link="mat:25" lang="tr" %}} de göğe alınma lehine argümanlar olarak kullanılır. Bu bölümlerde İsa'ya son günlerde ne olacağı sorulur ve bazı okurlar onun cevabını, 1948'de İsrail devletinin kuruluşuyla başlayan dönemi betimliyor şeklinde yorumlar.

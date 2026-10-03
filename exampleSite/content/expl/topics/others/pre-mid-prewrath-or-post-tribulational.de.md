@@ -32,7 +32,7 @@ Die Gemeinde wird von der Erde entfernt, bevor irgendein Teil einer künftigen s
 
 - Sie liest {{% bible val="'bewahrt vor der Stunde der Versuchung, die über den ganzen Erdkreis kommen wird'" link="rev:3,10" lang="de" %}} als Versprechen der Entfernung, bevor die Prüfung beginnt, nicht des Durchstehens.
 - Sie nimmt {{% bible val="'Gott hat uns nicht zum Zorn bestimmt'" link="1th:5,9" lang="de" %}} als Garantie, von der gesamten Trübsalszeit verschont zu bleiben, nicht nur von ihrem abschließenden Gerichtsausbruch.
-- Die Gemeinde wird {{% bible val="zwischen Kapitel 4 und 19 der Offenbarung" link="rev:4,1" lang="de" %}} nie wieder namentlich erwähnt, was manchen als Beleg dafür gilt, dass sie die Szene bereits verlassen hat.
+- Die Gemeinde wird {{% bible val="von Kapitel 4 bis zu den letzten Versen der Offenbarung" link="rev:4,1" lang="de" %}} nie wieder namentlich erwähnt, was manchen als Beleg dafür gilt, dass sie die Szene bereits verlassen hat.
 - Sie bewahrt ein klares Gefühl der Unmittelbarkeit — Christus könnte jederzeit wiederkommen, ohne dass noch etwas vorher geschehen müsste.
 - Sie liest {{% bible val="'wer jetzt zurückhält, wird das tun, bis er aus dem Weg geräumt wird,' bevor der Mensch der Bosheit offenbart wird" link="2th:2,6-7" lang="de" %}} so, dass die Gemeinde — erfüllt vom Geist — entfernt wird, bevor der letzte Abfall losbricht, was dem Prätribulationismus sein klarstes sequentielles Argument gibt: nicht nur, dass eine Entrückung geschieht, sondern dass sie *zuerst* geschieht.
 

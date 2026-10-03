@@ -43,7 +43,7 @@ Bu okumaya göre, kitap ilk yazıldığı kişiler için hiçbir anlam taşımı
 <a name="a4b2"></a>
 Teori çoğu zaman açıklama yapmadan iddialar öne sürer ya da bağlamından koparılmış bir Kutsal Kitap ayetleri cephaneliği kullanır.
 
-Bunun iyi bir örneği, sistemin köşe taşlarından biri olan {{% bible val="70 yıl kehanetindeki 2000 yıllık gecikmedir" link="dan:9,26-27" lang="tr" %}}. Bu, bir ayetin — noktalama işaretine varana kadar — çok özel bir okumasına dayanır ve bu belirli noktalama yalnızca King James çeviri geleneğinde desteklenir.
+Bunun iyi bir örneği, sistemin köşe taşlarından biri olan {{% bible val="70 hafta kehanetindeki 2000 yıllık gecikmedir" link="dan:9,26-27" lang="tr" %}}. Bu, bir ayetin — noktalama işaretine varana kadar — çok özel bir okumasına dayanır ve bu belirli noktalama yalnızca King James çeviri geleneğinde desteklenir.
 
 ## Gelecek Tahmini
 
@@ -81,7 +81,7 @@ Sıkıntı konusu kendi başına ele alınmayı hak ediyor: {{% int_link val="bu
 ## Kilise ve İsrail
 
 <a name="5d19"></a>
-Teori, kiliseyi Eski Ahit ile bin yıllık krallık arasına "dispensasyonlar" mantığıyla sıkıştırılmış ara bir yapı olarak ele alır. Bu şemaya göre, kilise çağı sona erdiğinde İsrail'le yapılan antlaşma yeniden yürürlüğe girer, etnik İsrail dünyaya hükmeder, kilisenin kendisi ise göğe alınır — bu sonuç büyük ölçüde "kilise" teriminin 3. bölümle 21. bölüm arasında hiç geçmemesi gerçeğinden çıkarılır.
+Teori, kiliseyi Eski Ahit ile bin yıllık krallık arasına "dispensasyonlar" mantığıyla sıkıştırılmış ara bir yapı olarak ele alır. Bu şemaya göre, kilise çağı sona erdiğinde İsrail'le yapılan antlaşma yeniden yürürlüğe girer, etnik İsrail dünyaya hükmeder, kilisenin kendisi ise göğe alınır — bu sonuç büyük ölçüde "kilise" teriminin 3. bölümle 22. bölümün son ayetleri arasında hiç geçmemesi gerçeğinden çıkarılır.
 
 Bu kurguda yanlış olan birkaç şey vardır. Ama onlara geçmeden önce, şunu kabul etmekte fayda var: bu görüş, en azından, Tanrı'nın İsrail'i tamamen reddettiğini öne süren ve Orta Çağ boyunca kiliseye Yahudilere zulmetmek için bahane veren daha eski teoriye iyi bir denge unsuru oluşturur.
 
@@ -108,7 +108,7 @@ Bu yalnızca teolojik bir soyutlama değildir. Rossing, göğe alınmayı bekley
 ## Savaş silahları
 
 <a name="6f89"></a>
-Bu çerçevede iman, katılınacak bir ordusuyla birlikte, ağır biçimde militarist terimlerle betimlenir. Oysa bu tablo {{% bible val="Vahiy'in gerçekte gösterdiği şey değildir" link="rev:14,1-5" lang="tr" %}}: {{% bible val="İsa savaşa tek başına gider, tek silahı ağzının kılıcıdır" link="rev:19,21" lang="tr" %}}. Bu, bilinçli olarak sembolik bir imgedir, harfi harfine, şiddetli bir savaş çağrısı değil.
+Bu çerçevede iman, katılınacak bir ordusuyla birlikte, ağır biçimde militarist terimlerle betimlenir. Oysa bu tablo {{% bible val="Vahiy'in gerçekte gösterdiği şey değildir" link="rev:14,1-5" lang="tr" %}}: {{% bible val="Savaşan yalnızca İsa'dır, tek silahı ağzının kılıcıdır" link="rev:19,21" lang="tr" %}}. Bu, bilinçli olarak sembolik bir imgedir, harfi harfine, şiddetli bir savaş çağrısı değil.
 
 ## Yanlış bir şekilde siyasi
 

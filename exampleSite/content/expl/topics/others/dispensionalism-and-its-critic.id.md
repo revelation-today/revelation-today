@@ -43,7 +43,7 @@ Dengan pembacaan semacam ini, kitab tersebut tidak akan masuk akal sama sekali b
 <a name="423b"></a>
 Teori ini sering melontarkan klaim tanpa menjelaskannya, atau mengerahkan sederet ayat Alkitab yang dilepaskan dari konteksnya.
 
-Salah satu contohnya adalah {{% bible val="penundaan 2000 tahun dalam nubuat 70 tahun" link="dan:9,26-27" lang="ind" %}}, sebuah landasan penting dalam sistem ini. Tafsiran itu bergantung pada satu pembacaan yang sangat spesifik — sampai ke tanda bacanya — dari sebuah ayat, dan tanda baca khusus itu hanya didukung oleh tradisi terjemahan King James.
+Salah satu contohnya adalah {{% bible val="penundaan 2000 tahun dalam nubuat 70 minggu" link="dan:9,26-27" lang="ind" %}}, sebuah landasan penting dalam sistem ini. Tafsiran itu bergantung pada satu pembacaan yang sangat spesifik — sampai ke tanda bacanya — dari sebuah ayat, dan tanda baca khusus itu hanya didukung oleh tradisi terjemahan King James.
 
 ### Meramalkan Masa Depan, Berulang Kali
 
@@ -81,7 +81,7 @@ Kesengsaraan besar layak mendapat pembahasannya sendiri: {{% int_link val="ini a
 ### Gereja dan Israel
 
 <a name="049e"></a>
-Teori ini memperlakukan gereja sebagai sebuah konstruksi antara, terjepit di antara Perjanjian Lama dan kerajaan seribu tahun berdasarkan logika "dispensasi-dispensasi" itu. Dalam skema ini, begitu zaman gereja berakhir, perjanjian dengan Israel dipulihkan dan Israel etnis memerintah dunia, sementara gereja itu sendiri diangkat pergi — sebuah kesimpulan yang sebagian besar ditarik dari kenyataan bahwa istilah "gereja" tidak muncul lagi antara pasal 3 dan pasal 21.
+Teori ini memperlakukan gereja sebagai sebuah konstruksi antara, terjepit di antara Perjanjian Lama dan kerajaan seribu tahun berdasarkan logika "dispensasi-dispensasi" itu. Dalam skema ini, begitu zaman gereja berakhir, perjanjian dengan Israel dipulihkan dan Israel etnis memerintah dunia, sementara gereja itu sendiri diangkat pergi — sebuah kesimpulan yang sebagian besar ditarik dari kenyataan bahwa istilah "gereja" tidak muncul lagi antara pasal 3 dan ayat-ayat terakhir pasal 22.
 
 Ada beberapa hal yang keliru dalam konstruksi ini. Tetapi sebelum membahasnya, perlu diakui bahwa pandangan ini setidaknya menjadi penyeimbang yang baik terhadap teori lama yang menyatakan bahwa Allah telah sepenuhnya menolak Israel — sebuah teori yang memberi gereja alasan untuk menganiaya orang Yahudi sepanjang Abad Pertengahan.
 
@@ -108,7 +108,7 @@ Ini bukan sekadar abstraksi teologis. Rossing mendokumentasikan kasus-kasus nyat
 ### Senjata Peperangan yang Dibayangkannya
 
 <a name="7b85"></a>
-Iman, dalam kerangka ini, digambarkan dengan istilah yang sangat militeristik, lengkap dengan sebuah pasukan untuk diikuti. Gambaran itu {{% bible val="bukanlah apa yang sesungguhnya ditunjukkan Kitab Wahyu" link="rev:14,1-5" lang="ind" %}}: {{% bible val="Yesus berperang seorang diri, hanya bersenjatakan pedang dari mulut-Nya" link="rev:19,21" lang="ind" %}}. Itu adalah gambaran simbolis yang disengaja, bukan sebuah seruan untuk peperangan harfiah yang penuh kekerasan.
+Iman, dalam kerangka ini, digambarkan dengan istilah yang sangat militeristik, lengkap dengan sebuah pasukan untuk diikuti. Gambaran itu {{% bible val="bukanlah apa yang sesungguhnya ditunjukkan Kitab Wahyu" link="rev:14,1-5" lang="ind" %}}: {{% bible val="Yesus sendirilah yang berperang, hanya bersenjatakan pedang dari mulut-Nya" link="rev:19,21" lang="ind" %}}. Itu adalah gambaran simbolis yang disengaja, bukan sebuah seruan untuk peperangan harfiah yang penuh kekerasan.
 
 ### Sikap Politiknya
 

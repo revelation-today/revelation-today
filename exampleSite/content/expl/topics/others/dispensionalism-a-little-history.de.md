@@ -26,7 +26,7 @@ Wir beginnen mit Justin Martyr (ca. 100–165). Er las {{% bible val="das Tausen
 Zwischen ihm und dem nächsten Meilenstein liegt viel Geschichte, aber springen wir vor zu Joachim von Fiore (ca. 1135–1202). Er teilte die Zeit, in Anlehnung an die Dreieinigkeit, in drei Teile ein:
 
 - die Zeit des Vaters, von der Schöpfung bis zum ersten Kommen Christi;
-- die Zeit des Sohnes, von König Josia im 7. Jahrhundert v. Chr. bis zum ersten Kommen Jesu;
+- die Zeit des Sohnes, mit ihren Wurzeln bei König Josia im 7. Jahrhundert v. Chr., vom Kommen Jesu bis in Joachims eigene Zeit;
 - die Zeit des Geistes, beginnend mit der monastischen Reform des heiligen Benedikt im 6. Jahrhundert und andauernd bis zu einem festgelegten Zeitpunkt in der Zukunft.
 
 Joachim deutete die sieben Köpfe des Tieres aus der Offenbarung als sieben Könige, eine Abfolge von Feinden des Christentums von Herodes und Nero im ersten Jahrhundert bis zu Saladin, dem muslimischen Anführer, der 1187 die Kreuzfahrer im Heiligen Land besiegte, als sechstem König. Der nächste König in seinem Schema wäre der Antichrist, dessen Trübsal das Zeitalter des Geistes einläuten würde. Während dieser Krise sollten zwei neue monastische Orden entstehen, um im Geist von Mose und Elia Zeugnis abzulegen — Orden, die Joachims Anhänger später als die Franziskaner und die Dominikaner identifizierten, wobei der heilige Franziskus selbst als der Engel galt, der das sechste Siegel öffnet, der Vorbote des letzten Zeitalters.

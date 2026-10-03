@@ -95,7 +95,7 @@ Notice, too, that the text never says where the "taken" ones are taken to. The i
 <a name="0cab"></a>
 So what is this passage actually about? The specific fate of the ones taken and the ones left is left genuinely vague — Matthew may even be using that ambiguity on purpose. The real point is readiness: {{% bible val="as the verse just before this passage says" link="mat:24,36" lang="en" %}}, the moment could arrive in the middle of ordinary life, with no advance warning to prepare.
 
-## The olive tree perspective
+## The fig tree and 1948
 
 <a name="165b"></a>
 Matthew {{% bible val="24" link="mat:24" lang="en" %}} and {{% bible val="25" link="mat:25" lang="en" %}} also get pressed into service as arguments for the rapture. In these chapters, Jesus is asked what will happen in the last days, and some readers interpret his answer as describing the period beginning with the founding of the state of Israel in 1948.

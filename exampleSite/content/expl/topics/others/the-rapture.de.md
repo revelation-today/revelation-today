@@ -95,7 +95,7 @@ Zu beachten ist auch, dass der Text nirgends sagt, wohin die „Genommenen” ge
 <a name="3b92"></a>
 Worum geht es in dieser Stelle also eigentlich? Das genaue Schicksal der Genommenen und der Zurückgelassenen bleibt bewusst vage — Matthäus setzt diese Zweideutigkeit womöglich sogar absichtlich ein. Der eigentliche Punkt ist Bereitschaft: {{% bible val="wie der Vers unmittelbar davor sagt" link="mat:24,36" lang="de" %}}, könnte der Augenblick mitten im gewöhnlichen Leben eintreten, ohne Vorwarnung, sich darauf vorzubereiten.
 
-## Die Perspektive des Ölbaums
+## Der Feigenbaum und 1948
 
 <a name="fb48"></a>
 Auch Matthäus {{% bible val="24" link="mat:24" lang="de" %}} und {{% bible val="25" link="mat:25" lang="de" %}} werden als Argumente für die Entrückung herangezogen. In diesen Kapiteln wird Jesus gefragt, was in den letzten Tagen geschehen wird, und manche Leser deuten seine Antwort als Beschreibung der Zeit, die mit der Staatsgründung Israels 1948 beginnt.

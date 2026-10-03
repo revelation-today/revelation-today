@@ -32,7 +32,7 @@ The church is removed from earth before any part of a future seven-year tribulat
 
 - It reads {{% bible val="'kept from the hour of trial that is going to come upon the whole world'" link="rev:3,10" lang="en" %}} as a promise of removal before the trial starts, not endurance through it.
 - It takes {{% bible val="'God has not destined us for wrath'" link="1th:5,9" lang="en" %}} as a guarantee of being spared the entire tribulation period, not only its final outpouring of judgment.
-- The church is never named again {{% bible val="between chapters 4 and 19 of Revelation" link="rev:4,1" lang="en" %}}, which reads to some as evidence it has already left the scene.
+- The church is never named again {{% bible val="from chapter 4 until the last verses of Revelation" link="rev:4,1" lang="en" %}}, which reads to some as evidence it has already left the scene.
 - It preserves a clean sense of imminence — Christ could return at any moment, with nothing yet prophesied that has to happen first.
 - It reads {{% bible val="'the one who now restrains it will do so until he is taken out of the way,' before the man of lawlessness is revealed" link="2th:2,6-7" lang="en" %}} as the church — indwelt by the Spirit — being removed before the final apostasy breaks loose, giving pretribulationism its clearest sequential argument: not just that a catching-up happens, but that it happens *first*.
 

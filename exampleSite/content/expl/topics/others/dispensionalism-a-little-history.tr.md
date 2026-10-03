@@ -26,7 +26,7 @@ Justin Martyr (yaklaşık 100–165) ile başlıyoruz. O, {{% bible val="1000 y�
 Aradan çok şey geçti, ama hemen Fiore'li Joachim'e (yaklaşık 1135–1202) atlayalım. O, zamanı Üçlü Birlik'i yansıtacak şekilde üç döneme ayırdı:
 
 - yaratılıştan Mesih'in ilk gelişine kadar süren Baba'nın dönemi;
-- M.Ö. 7. yüzyılda Kral Yoşiya'dan İsa'nın ilk gelişine kadar süren Oğul dönemi;
+- kökleri M.Ö. 7. yüzyılda Kral Yoşiya'da olan, İsa'nın gelişinden Joachim'in kendi zamanına kadar süren Oğul dönemi;
 - 6. yüzyılda Aziz Benedict'in manastır reformuyla başlayıp gelecekte belirli bir noktaya kadar sürecek olan Ruh dönemi.
 
 Joachim, canavarın yedi başını yedi kral olarak okudu: birinci yüzyıldaki Herodes ve Neron'dan başlayıp, 1187'de Kutsal Topraklar'da Haçlıları yenen Müslüman lider Selahaddin'e kadar uzanan, Hıristiyanlığın art arda gelen düşmanlarının bir dizisi — Selahaddin altıncı kraldı. Onun şemasında bir sonraki kral Deccal olacak ve onun getireceği Sıkıntı, Ruh Çağı'nı başlatacaktı. Bu kriz sırasında, Musa ve İlyas'ın ruhuyla gerçeğe tanıklık etmek üzere iki yeni manastır tarikatı ortaya çıkacaktı — Joachim'in takipçileri bu tarikatları daha sonra Fransiskenler ve Dominikenler olarak tanımladılar; Aziz Francis'in kendisi ise altıncı mührü açan, son çağın habercisi melek olarak görüldü.

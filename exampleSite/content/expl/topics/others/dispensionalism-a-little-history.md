@@ -26,7 +26,7 @@ We begin with Justin Martyr (ca. 100–165). He read the {{% bible val="1000 yea
 A great deal happened in between, but let's jump ahead to Joachim of Fiore (ca. 1135–1202). He divided time into three parts, mirroring the Trinity:
 
 - the Father's time, from creation to the first coming of Christ;
-- the period of the Son, running from King Josiah in the 7th century B.C. to the first coming of Jesus;
+- the period of the Son, with its roots in King Josiah in the 7th century B.C., running from the coming of Jesus to Joachim's own time;
 - the period of the Spirit, beginning with the monastic reform of St. Benedict in the 6th century and continuing to a set point in the future.
 
 Joachim read the beast's seven heads in Revelation as seven kings, a succession of Christianity's enemies running from Herod and Nero in the first century down to Saladin, the Muslim leader who defeated the Crusaders in the Holy Land in 1187, as the sixth king. The next king, in his scheme, would be the Antichrist, whose Tribulation would usher in the Age of the Spirit. During that crisis, two new monastic orders would rise to bear witness to the truth in the spirit of Moses and Elijah — orders Joachim's followers later identified as the Franciscans and the Dominicans, with St. Francis himself cast as the angel who opens the sixth seal, the harbinger of the last age.

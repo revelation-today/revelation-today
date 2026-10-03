@@ -32,7 +32,7 @@ Gereja disingkirkan dari bumi sebelum bagian mana pun dari masa tribulasi tujuh 
 
 - Pandangan ini membaca {{% bible val="'terpelihara dari waktu pencobaan yang akan datang atas seluruh dunia'" link="rev:3,10" lang="ind" %}} sebagai janji penyingkiran sebelum pencobaan dimulai, bukan bertahan melewatinya.
 - Pandangan ini menerima {{% bible val="'Allah tidak menetapkan kita untuk ditimpa murka'" link="1th:5,9" lang="ind" %}} sebagai jaminan terhindar dari seluruh masa tribulasi, bukan hanya dari pencurahan penghakiman terakhirnya.
-- Gereja tidak pernah disebut lagi {{% bible val="di antara pasal 4 dan 19 Kitab Wahyu" link="rev:4,1" lang="ind" %}}, yang bagi sebagian orang menjadi bukti bahwa gereja sudah meninggalkan panggung sebelumnya.
+- Gereja tidak pernah disebut lagi {{% bible val="sejak pasal 4 sampai ayat-ayat terakhir Kitab Wahyu" link="rev:4,1" lang="ind" %}}, yang bagi sebagian orang menjadi bukti bahwa gereja sudah meninggalkan panggung sebelumnya.
 - Pandangan ini mempertahankan kesan kesegeraan yang jelas — Kristus bisa kembali kapan saja, tanpa ada apa pun yang masih harus terjadi lebih dahulu.
 - Pandangan ini membaca {{% bible val="'ia yang sekarang menahannya akan terus melakukannya sampai ia disingkirkan,' sebelum manusia durhaka itu dinyatakan" link="2th:2,6-7" lang="ind" %}} sebagai gereja — yang didiami Roh — disingkirkan sebelum kemurtadan terakhir pecah, memberi pratribulasi argumen sekuensialnya yang paling jelas: bukan hanya bahwa sebuah pengangkatan terjadi, melainkan bahwa hal itu terjadi *lebih dahulu*.
 

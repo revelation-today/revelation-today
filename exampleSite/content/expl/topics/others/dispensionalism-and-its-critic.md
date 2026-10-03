@@ -43,7 +43,7 @@ On this reading, the book would have made no sense at all to the people it was o
 <a name="eba9"></a>
 The theory often asserts claims without explaining them, or marshals an arsenal of Bible verses pulled loose from their context.
 
-A good example is the {{% bible val="2000 year delay in the prophecy of the 70 years" link="dan:9,26-27" lang="en" %}}, a cornerstone of the system. It hinges on one very specific reading — down to the punctuation — of a verse, and that particular punctuation is supported only in the King James translation tradition.
+A good example is the {{% bible val="2000 year delay in the prophecy of the 70 weeks" link="dan:9,26-27" lang="en" %}}, a cornerstone of the system. It hinges on one very specific reading — down to the punctuation — of a verse, and that particular punctuation is supported only in the King James translation tradition.
 
 ### Predicting the future, again and again
 
@@ -81,7 +81,7 @@ The tribulation deserves its own treatment: {{% int_link val="that is a longer s
 ### The church and Israel
 
 <a name="40c6"></a>
-The theory treats the church as an intermediate construct, wedged between the Old Testament and the 1000-year kingdom by the logic of the "dispensations." On this scheme, once the church age ends, the covenant with Israel is restored and ethnic Israel rules the world, while the church itself is raptured away — a conclusion drawn largely from the fact that the term "church" doesn't appear between chapter 3 and chapter 21.
+The theory treats the church as an intermediate construct, wedged between the Old Testament and the 1000-year kingdom by the logic of the "dispensations." On this scheme, once the church age ends, the covenant with Israel is restored and ethnic Israel rules the world, while the church itself is raptured away — a conclusion drawn largely from the fact that the term "church" doesn't appear between chapter 3 and the last verses of chapter 22.
 
 There are several things wrong with this construction. But before getting to them, it's worth acknowledging that this view is at least a good counterweight to the older theory that God rejected Israel outright — a theory that gave the church an excuse to persecute Jews throughout the Middle Ages.
 
@@ -108,7 +108,7 @@ This isn't only a theological abstraction. Rossing documents real, reported case
 ### The weapons of warfare it imagines
 
 <a name="14cf"></a>
-Faith, in this framework, gets cast in heavily militaristic terms, complete with an army to join. That picture is {{% bible val="not what Revelation actually shows" link="rev:14,1-5" lang="en" %}}: {{% bible val="Jesus goes to war alone, armed only with the sword of his mouth" link="rev:19,21" lang="en" %}}. That is a deliberately symbolic image, not a call to literal, violent warfare.
+Faith, in this framework, gets cast in heavily militaristic terms, complete with an army to join. That picture is {{% bible val="not what Revelation actually shows" link="rev:14,1-5" lang="en" %}}: {{% bible val="Jesus alone does the fighting, armed only with the sword of his mouth" link="rev:19,21" lang="en" %}}. That is a deliberately symbolic image, not a call to literal, violent warfare.
 
 ### Its politics
 

@@ -26,7 +26,7 @@ Kita mulai dengan Justin Martir (sekitar 100–165). Ia membaca {{% bible val="K
 Banyak hal terjadi di antaranya, tetapi mari kita loncat ke Joachim dari Fiore (sekitar 1135–1202). Ia membagi waktu menjadi tiga zaman, mencerminkan Tritunggal:
 
 - zaman Bapa, dari penciptaan hingga kedatangan pertama Kristus;
-- zaman Anak, berlangsung dari Raja Yosia pada abad ketujuh sebelum Kristus hingga kedatangan pertama Yesus;
+- zaman Anak, berakar pada Raja Yosia pada abad ketujuh sebelum Kristus, berlangsung dari kedatangan Yesus sampai ke zaman Yoakim sendiri;
 - zaman Roh, dimulai dengan reformasi monastik St. Benediktus pada abad keenam dan berlanjut hingga suatu titik tertentu di masa depan.
 
 Joachim membaca ketujuh kepala binatang dalam Kitab Wahyu sebagai tujuh raja, sebuah rangkaian musuh-musuh kekristenan mulai dari Herodes dan Nero pada abad pertama hingga Saladin — pemimpin Muslim yang mengalahkan para tentara Salib di Tanah Suci pada tahun 1187 — sebagai raja keenam. Raja berikutnya, dalam skemanya, adalah sang Antikristus, yang masa kesengsaraannya akan membuka Zaman Roh. Selama krisis itu, dua ordo monastik baru akan muncul untuk memberi kesaksian kebenaran dalam roh Musa dan Elia — ordo-ordo yang kemudian diidentifikasi oleh para pengikut Joachim sebagai ordo Fransiskan dan Dominikan, dengan St. Fransiskus sendiri digambarkan sebagai malaikat yang membuka meterai keenam, pertanda datangnya zaman terakhir.
