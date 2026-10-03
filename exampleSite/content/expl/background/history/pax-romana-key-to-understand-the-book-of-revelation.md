@@ -34,7 +34,7 @@ You may think that the book of Revelation, or the Pax Romana of ancient Rome, ha
 ## Pax Romana
 
 <a name="8c56"></a>
-Pax Romana, meaning "Roman Peace," refers to a period from 27 BC to around 192 AD, marked by:
+Pax Romana, meaning "Roman Peace," refers to a period from 27 BC to around 180 AD, marked by:
 
 - few civil wars and a strong, stable empire
 - high prosperity, at least for most
@@ -63,7 +63,7 @@ Rome propagated this vision relentlessly, through:
 
 As a result, the Pax Romana was inescapable: present in entertainment, at work, in the marketplace, even during meals. And the whole community made sure no individual's bad behavior cost the city the emperor's favor.
 
-Many cities — especially in Asia Minor, where the letters in Revelation were written — competed with each other to build temples honoring the emperor and the gods and to spread the Pax Romana further. In doing so, they hoped to win the emperor's support, or at least a reduction in taxes.
+Many cities — especially in Asia Minor, to which the letters in Revelation were sent — competed with each other to build temples honoring the emperor and the gods and to spread the Pax Romana further. In doing so, they hoped to win the emperor's support, or at least a reduction in taxes.
 
 ## Pax Romana and Christians
 

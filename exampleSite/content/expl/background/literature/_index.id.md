@@ -6,7 +6,7 @@ weight: 2
 
 Memahami jenis sastra suatu kitab dapat menghindarkan kita dari banyak kesalahpahaman.
 
-Berikut contoh sederhananya: ketika Paulus mengatakan bahwa Yesus bangkit dari kematian, itu adalah kebenaran yang tidak dapat ditawar bagi orang Kristen. Tetapi ketika Yesus sendiri berkata bahwa ada seorang laki-laki yang berjalan dari Damsyik ke Yerusalem, kisah itu tidak perlu benar-benar terjadi secara harfiah agar tetap benar — sebab Yesus sudah memberi tahu kita sebelumnya bahwa Ia sedang menyampaikan sebuah perumpamaan. Kategorinya sama, yaitu "sesuatu yang dikatakan Yesus," tetapi keduanya adalah klaim kebenaran yang sangat berbeda, karena genrenya berbeda.
+Berikut contoh sederhananya: ketika Paulus mengatakan bahwa Yesus bangkit dari kematian, itu adalah kebenaran yang tidak dapat ditawar bagi orang Kristen. Tetapi ketika Yesus sendiri berkata bahwa ada seorang laki-laki yang turun dari Yerusalem ke Yerikho, kisah itu tidak perlu benar-benar terjadi secara harfiah agar tetap benar — sebab Yesus sudah memberi tahu kita sebelumnya bahwa Ia sedang menyampaikan sebuah perumpamaan. Kategorinya sama, yaitu "sesuatu yang dikatakan Yesus," tetapi keduanya adalah klaim kebenaran yang sangat berbeda, karena genrenya berbeda.
 
 Kitab Wahyu juga tidak memberi kita jawaban yang sederhana, sebab kitab ini sesungguhnya terdiri dari tiga genre sekaligus:
 - sebuah surat — apa pun yang tertulis di dalamnya pasti berlaku bagi para pembaca pertama, termasuk materi dalam pasal 4–20, bukan hanya pasal 1–3

@@ -34,7 +34,7 @@ Du denkst vielleicht, dass die Offenbarung oder die Pax Romana des antiken Rom n
 ## Pax Romana
 
 <a name="8c56"></a>
-Pax Romana bedeutet "Römischer Friede" und bezeichnet eine Zeitspanne von 27 v. Chr. bis etwa 192 n. Chr., die geprägt war von:
+Pax Romana bedeutet "Römischer Friede" und bezeichnet eine Zeitspanne von 27 v. Chr. bis etwa 180 n. Chr., die geprägt war von:
 
 - wenigen Bürgerkriegen und einem starken, stabilen Reich
 - hohem Wohlstand, zumindest für die meisten
@@ -63,7 +63,7 @@ Rom verbreitete diese Vision unermüdlich, unter anderem durch:
 
 Dadurch war die Pax Romana allgegenwärtig: in der Unterhaltung, bei der Arbeit, auf dem Markt, sogar beim Essen. Und die ganze Gemeinschaft sorgte dafür, dass niemandes Fehlverhalten die Stadt die Gunst des Kaisers kosten würde.
 
-Viele Städte — besonders in Kleinasien, wo die Sendschreiben der Offenbarung geschrieben wurden — wetteiferten miteinander im Bau von Tempeln zu Ehren des Kaisers und der Götter und in der weiteren Verbreitung der Pax Romana. Damit erhofften sie sich die Unterstützung des Kaisers oder zumindest eine Steuererleichterung.
+Viele Städte — besonders in Kleinasien, wohin die Sendschreiben der Offenbarung gingen — wetteiferten miteinander im Bau von Tempeln zu Ehren des Kaisers und der Götter und in der weiteren Verbreitung der Pax Romana. Damit erhofften sie sich die Unterstützung des Kaisers oder zumindest eine Steuererleichterung.
 
 ## Pax Romana und Christen
 

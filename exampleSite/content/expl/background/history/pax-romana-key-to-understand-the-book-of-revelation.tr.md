@@ -34,7 +34,7 @@ Vahiy Kitabı'nın ya da antik Roma'nın Pax Romana'sının bugünkü yaşamın�
 ## Pax Romana
 
 <a name="879e"></a>
-"Roma Barışı" anlamına gelen Pax Romana, M.Ö. 27'den yaklaşık M.S. 192'ye kadar süren ve şu özelliklerle belirlenen bir dönemi ifade eder:
+"Roma Barışı" anlamına gelen Pax Romana, M.Ö. 27'den yaklaşık M.S. 180'e kadar süren ve şu özelliklerle belirlenen bir dönemi ifade eder:
 
 - az sayıda iç savaş ve güçlü, istikrarlı bir imparatorluk
 - çoğu kişi için yüksek bir refah
@@ -63,7 +63,7 @@ Roma bu vizyonu amansızca yaydı:
 
 Sonuç olarak Pax Romana'dan kaçış yoktu: eğlencede, işte, pazar yerinde, hatta yemeklerde bile hazırdı. Ve tüm topluluk, hiçbir bireyin kötü davranışının şehre imparatorun gözünden düşme bedeli ödetmemesine dikkat ederdi.
 
-Birçok şehir — özellikle Vahiy'deki mektupların yazıldığı Küçük Asya'da — imparatoru ve tanrıları onurlandıran tapınaklar inşa etmek ve Pax Romana'yı daha da yaymak için birbiriyle yarışıyordu. Bunu yaparak imparatorun desteğini, ya da en azından bir vergi indirimini kazanmayı umuyorlardı.
+Birçok şehir — özellikle Vahiy'deki mektupların gönderildiği Küçük Asya'da — imparatoru ve tanrıları onurlandıran tapınaklar inşa etmek ve Pax Romana'yı daha da yaymak için birbiriyle yarışıyordu. Bunu yaparak imparatorun desteğini, ya da en azından bir vergi indirimini kazanmayı umuyorlardı.
 
 ## Pax Romana ve Hristiyanlar
 

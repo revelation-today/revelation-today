@@ -91,13 +91,13 @@ Ada tiga jenis dasar susunan, dan semuanya juga dapat dikombinasikan:
 
 - linear (a-b-c-d-e-f),
 - paralel (a-b-c-a'-b'-c'),
-- simetris (a-b-c-'b'-a').
+- simetris (a-b-c-b'-a').
 
 Banyak kombinasi yang mungkin:
 
 - a-b-c-d-e-a' menggabungkan pola linear dan simetris — seperti sebuah kalimat yang dibuka dengan sebuah asumsi dan ditutup dengan ringkasan yang membuktikan asumsi itu.
-- a-b-c-d-'b'-c'-a' adalah sebuah simetri yang dimodifikasi, memadukan pola simetris dan paralel, yang secara khusus mengarahkan perhatian pembaca pada peralihan b'-c'.
-- a-a'-b-b'-c-c'-d-d' menggabungkan pola linear dan paralel dan dapat menceritakan kisah-kisah yang paralel tetapi berbeda, seperti dalam Kej.38/2–50/26.
+- a-b-c-d-b'-c'-a' adalah sebuah simetri yang dimodifikasi, memadukan pola simetris dan paralel, yang secara khusus mengarahkan perhatian pembaca pada peralihan b'-c'.
+- a-a'-b-b'-c-c'-d-d' menggabungkan pola linear dan paralel dan dapat menceritakan kisah-kisah yang paralel tetapi berbeda, seperti dalam Kej.37/2–50/26.
 
 Kisah yang sama bahkan dapat dibaca dalam lebih dari satu pola sekaligus. Kej.37/2–50/26, misalnya, dapat dibaca sebagai a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a', atau sama validnya sebagai a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
 
@@ -121,7 +121,7 @@ Pola paralel mengikuti skema seperti a-b-c-a'-b'-c', di mana setiap x' memiliki 
 - b': memberitakan
 - c': karya tangan-Nya
 
-Beberapa bagian mungkin sama sekali tidak sesuai dengan pola — bagian itu bisa muncul di akhir (a-b-c-a'-b'-c', d), berada di tengah (a-b-c-d-a'-b'-c'), atau, lebih jarang, muncul di awal (a-b-c-d-a'-b'-c').
+Beberapa bagian mungkin sama sekali tidak sesuai dengan pola — bagian itu bisa muncul di akhir (a-b-c-a'-b'-c', d), berada di tengah (a-b-c-d-a'-b'-c'), atau, lebih jarang, muncul di awal (d-a-b-c-a'-b'-c').
 
 Pola paralel tidak selalu mudah dikenali, tetapi menciptakan rasa antisipasi dan kepuasan yang nyata begitu dikenali. Kita melihat efek yang sama dalam dongeng-dongeng seperti Tiga Babi Kecil: pada rumah kedua kita mengira sudah mempelajari polanya, dan pengarang kemudian dapat mengejutkan kita pada rumah ketiga, tempat ia menyampaikan pelajarannya.
 

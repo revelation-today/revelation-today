@@ -40,7 +40,7 @@ Beberapa bagian kunci dalam Kitab Wahyu memiliki kaitan yang kuat dengan {{% bib
 ### Rahasia Itu
 
 <a name="8b2d"></a>
-Bagian Daniel 2 ini adalah satu-satunya di antara kitab-kitab nubuat yang menggunakan kata "rahasia" — sebuah kata yang muncul tiga kali juga dalam Kitab Wahyu: rahasia {{% bible val="gereja" link="rev:1,20" lang="ind" %}}, rahasia {{% bible val="Allah" link="rev:10,7" lang="ind" %}}, dan rahasia {{% bible val="binatang itu" link="rev:17,5" lang="ind" %}}.
+Bagian Daniel 2 ini adalah satu-satunya di antara kitab-kitab nubuat yang menggunakan kata "rahasia" — sebuah kata yang muncul empat kali juga dalam Kitab Wahyu: rahasia {{% bible val="ketujuh bintang dan kaki dian" link="rev:1,20" lang="ind" %}}, rahasia {{% bible val="Allah" link="rev:10,7" lang="ind" %}}, dan rahasia {{% bible val="Babel" link="rev:17,5" lang="ind" %}} serta {{% bible val="binatang yang memikulnya" link="rev:17,7" lang="ind" %}}.
 
 ### Apa yang Harus Terjadi
 
@@ -71,12 +71,12 @@ Ini adalah kata yang sama yang digunakan dalam teks Yunani Daniel untuk penafsir
 
 - Satu kali dalam pengertian umum, yang berarti sekadar {{% bible val="menyatakan secara spesifik" link="act:25,27" lang="ind" %}}.
 - Satu kali menggambarkan {{% bible val="sebuah nubuat yang mungkin bersifat simbolis" link="act:11,28" lang="ind" %}}, terkait dengan {{% bible val="makna simbolis dari nabi yang sama itu" link="act:21,10-11" lang="ind" %}}.
-- Tiga kali lagi menggambarkan, secara simbolis, hakikat kematian Yesus di kayu salib, dalam Injil Yohanes pasal {{% bible val="12" link="jhn:12,33" lang="ind" %}}, {{% bible val="18" link="jhn:18,32" lang="ind" %}}, dan {{% bible val="21" link="jhn:21,19" lang="ind" %}}.
+- Tiga kali lagi dalam Injil Yohanes, menunjuk kepada cara seseorang akan mati: kematian Yesus di kayu salib dalam pasal {{% bible val="12" link="jhn:12,33" lang="ind" %}} dan {{% bible val="18" link="jhn:18,32" lang="ind" %}}, serta kematian Petrus dalam pasal {{% bible val="21" link="jhn:21,19" lang="ind" %}}.
 
 Kata benda yang terkait sering digunakan untuk mukjizat-mukjizat Yesus sebagai tanda yang menunjuk kepada karakter atau misi-Nya. Misalnya:
 
 - Kata ini menandai {{% bible val="kuasa-Nya untuk memberikan kehidupan rohani" link="jhn:4,46-54" lang="ind" %}}, sekaligus {{% bible val="kebangkitan rohani" link="jhn:5,19-29" lang="ind" %}}.
-- {{% bible val="Pemberian makan kepada 5000 orang" link="mat:16,5-12" lang="ind" %}} menunjukkan kuasa Yesus untuk memberikan makanan rohani.
+- {{% bible val="Pemberian makan kepada 5000 orang" link="jhn:6,5-14" lang="ind" %}} menunjukkan kuasa Yesus untuk memberikan makanan rohani.
 
 Kata *semaino* juga bisa sekadar berarti "menyatakan" atau "mengumumkan," tetapi jika Yohanes ingin menekankan makna itu di sini, ia memiliki kata yang lebih wajar untuk itu — *gnorizo* — dan ia memilih untuk tidak menggunakannya.
 

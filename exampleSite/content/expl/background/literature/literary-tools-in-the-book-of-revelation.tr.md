@@ -91,13 +91,13 @@ Bir birim aynı zamanda bağımsız, kendi içinde tamamlanmış, eksiksiz bir p
 
 - doğrusal (a-b-c-d-e-f),
 - paralel (a-b-c-a'-b'-c'),
-- simetrik (a-b-c-'b'-a').
+- simetrik (a-b-c-b'-a').
 
 Birçok kombinasyon mümkündür:
 
 - a-b-c-d-e-a', doğrusal ve simetrik örüntüleri birleştirir — bir varsayımla açılıp bunu kanıtlayan bir özetle kapanan bir cümle gibi.
-- a-b-c-d-'b'-c'-a', simetrik ve paralel örüntüleri harmanlayan değiştirilmiş bir simetridir; bu da okuyucunun dikkatini özellikle b'-c' geçişine çeker.
-- a-a'-b-b'-c-c'-d-d', doğrusal ve paralel örüntüleri birleştirir ve Yar. 38/2–50/26'da olduğu gibi paralel ama farklı öyküler anlatabilir.
+- a-b-c-d-b'-c'-a', simetrik ve paralel örüntüleri harmanlayan değiştirilmiş bir simetridir; bu da okuyucunun dikkatini özellikle b'-c' geçişine çeker.
+- a-a'-b-b'-c-c'-d-d', doğrusal ve paralel örüntüleri birleştirir ve Yar. 37/2–50/26'da olduğu gibi paralel ama farklı öyküler anlatabilir.
 
 Aynı öykü birden fazla örüntüyle bile okunabilir. Örneğin Yar. 37/2–50/26, a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a' olarak ya da eşit derecede a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g' olarak okunabilir.
 
@@ -121,7 +121,7 @@ Paralel örüntüler, a-b-c-a'-b'-c' gibi bir şema izler; burada her x', karş�
 - b': ilan eder
 - c': onun işini
 
-Bazı kısımlar örüntüye hiç uymayabilir — sonda sarkabilirler (a-b-c-a'-b'-c', d), ortada oturabilirler (a-b-c-d-a'-b'-c') ya da daha nadiren başta görünebilirler (a-b-c-d-a'-b'-c').
+Bazı kısımlar örüntüye hiç uymayabilir — sonda sarkabilirler (a-b-c-a'-b'-c', d), ortada oturabilirler (a-b-c-d-a'-b'-c') ya da daha nadiren başta görünebilirler (d-a-b-c-a'-b'-c').
 
 Paralel örüntüleri fark etmek her zaman kolay değildir, ama fark edildiğinde gerçek bir beklenti ve tatmin duygusu yaratırlar. Aynı etkiyi Üç Küçük Domuz gibi masallarda da görürüz: ikinci evde örüntüyü öğrendiğimizi düşünürüz, sonra yazar üçüncü evde bizi şaşırtarak dersi verir.
 
@@ -235,7 +235,7 @@ Bu öne çıkan konum birkaç türde anlam taşıyabilir:
 - **Dönüm noktası** — merkez, öykünün gerçek dönüm noktasını işaret eder; Ehud'da olduğu gibi (Hak. 3/12–30), dönüm noktası onun kralı öldürdüğü andır. Hakimler'in genel yapısı da aynı şekilde Gideon üzerinde döner.
 - **Doruk noktası** — aynı merkez nokta, gerilimin en yüksek olduğu an da olabilir; yine Ehud'un öyküsünde olduğu gibi.
 - **Merkez parça** — merkez, doruk noktasını doğrudan temsil eder; Ezgiler Ezgisi 3/6–5/1'in kalbindeki düğün ya da Tarihler'in merkezindeki (2. Tar. 1–9) tapınağın inşacısı Süleyman örneklerinde olduğu gibi.
-- **Önemli bir duraklama (ya da ara)** — eylemde ya da argümanda son derece önemli bir noktaya değinen kasıtlı bir duraklama. 2. Krallar 2/1–8/6, kralların günahlarının neredeyse kesintisiz geçit törenini Elişa'nın hizmetiyle keser, ve 2. Krallar 3/21–32, trajik bir ağıtı Tanrı'nın derin sevgisi üzerine düşünmek için durdurur.
+- **Önemli bir duraklama (ya da ara)** — eylemde ya da argümanda son derece önemli bir noktaya değinen kasıtlı bir duraklama. 2. Krallar 2/1–8/6, kralların günahlarının neredeyse kesintisiz geçit törenini Elişa'nın hizmetiyle keser, ve Ağıtlar 3/21–32, trajik bir ağıtı Tanrı'nın derin sevgisi üzerine düşünmek için durdurur.
 
 ## Yapısal analizin değeri
 

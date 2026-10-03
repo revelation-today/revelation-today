@@ -2,9 +2,9 @@
 title: "How to read the book of Revelation"
 weight: 10
 deeper:
-    - name: Ist die Offenbarung wörtlich oder symbolisch zu verstehen?
+    - name: Is Revelation to be read literally or symbolically?
       link:  /expl/background/literature/literally-or-symbolic
-    - name: Was ist der historische Hintergrund?
+    - name: What is the historical background?
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 sources:
     - pages: 10–56
@@ -60,8 +60,8 @@ Despite that, Revelation still maintains the basic flow of a letter:
 
 - it makes the church aware of who Jesus is (chapter 1),
 - it addresses the churches' basic issues and their implications (chapters 2–3),
-- it gives a theological explanation of how to deal with them (chapters 4–21/5),
-- and it closes with some concluding words (chapters 22/6–21).
+- it gives a theological explanation of how to deal with them (4:1–22:5),
+- and it closes with some concluding words (22:6–21).
 
 Once we see that, it makes sense to expect the material in chapters 4–21 to function as guidance for these churches — for the specific problems they were facing in their own time. That doesn't mean we face identical problems today, or that these answers can't still be applied to our lives; it simply means the letter was written with them in mind first.
 
@@ -105,7 +105,7 @@ Revelation draws on many of these prophetic elements. It:
 
 The goal of prophecy is to change behavior, and it typically leans on vivid imagery to provoke a response from its readers or listeners.
 
-There's another angle worth adding, though: prophecy sometimes exists precisely so that it won't come true. That may sound surprising, but it's exactly what happens in the book of {{% bible val="Jonah" link="jon:4" lang="en" %}}, where Jonah refuses to prophesy against Israel's enemies — Nineveh, an outpost of the Assyrians — precisely because they might repent, which would mean God's threatened judgment never lands. And that's exactly what happens.
+There's another angle worth adding, though: prophecy sometimes exists precisely so that it won't come true. That may sound surprising, but it's exactly what happens in the book of {{% bible val="Jonah" link="jon:4" lang="en" %}}, where Jonah refuses to prophesy against Israel's enemies — Nineveh, the great city of the Assyrians — precisely because they might repent, which would mean God's threatened judgment never lands. And that's exactly what happens.
 
 Revelation's prophecy also doesn't follow the standard Old Testament pattern in its form. Its visions are usually introduced with a simple "and I saw," whereas Old Testament visions tend to be introduced {{% bible val="far more elaborately" link="zec:1,7" lang="en" %}}.
 

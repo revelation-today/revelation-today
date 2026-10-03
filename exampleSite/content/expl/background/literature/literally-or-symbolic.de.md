@@ -38,7 +38,7 @@ Mit diesem Rahmen im Blick wollen wir uns nun den Text selbst genauer ansehen.
 Einige Schlüsselstellen der Offenbarung sind eng mit der {{% bible val="Prophezeiung in Daniel Kapitel 2" link="dan:2,28-45" lang="de" %}} verbunden, und diese Verbindung hilft uns, das Buch besser zu verstehen. Diese Passage {{% int_link val="ist parallel zu" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}} {{% bible val="Daniel Kapitel 7" link="dan:7" lang="de" %}}, das seinerseits in der gesamten Offenbarung vielfach nachhallt.
 
 <a name="8b2d"></a>
-Die Passage in Daniel 2 ist die einzige unter den prophetischen Büchern, die das Wort „Geheimnis" verwendet — ein Wort, das auch in der Offenbarung dreimal vorkommt: das Geheimnis der {{% bible val="Gemeinde" link="rev:1,20" lang="de" %}}, das Geheimnis {{% bible val="Gottes" link="rev:10,7" lang="de" %}} und das Geheimnis des {{% bible val="Tieres" link="rev:17,5" lang="de" %}}.
+Die Passage in Daniel 2 ist die einzige unter den prophetischen Büchern, die das Wort „Geheimnis" verwendet — ein Wort, das auch in der Offenbarung viermal vorkommt: das Geheimnis der {{% bible val="sieben Sterne und Leuchter" link="rev:1,20" lang="de" %}}, das Geheimnis {{% bible val="Gottes" link="rev:10,7" lang="de" %}} und das Geheimnis {{% bible val="Babels" link="rev:17,5" lang="de" %}} und des {{% bible val="Tieres, das sie trägt" link="rev:17,7" lang="de" %}}.
 
 <a name="af5e"></a>
 Der Eröffnungssatz der Prophezeiung, „er zeigte … was in den letzten Tagen geschehen muss", findet sein Echo ganz am {{% bible val="Anfang" link="rev:1,1" lang="de" %}} der Offenbarung und noch einmal {{% bible val="kurz vor den Sendschreiben an die Gemeinden" link="rev:1,19" lang="de" %}}.
@@ -67,12 +67,12 @@ Dies ist dasselbe Wort, das im Griechischen bei Daniel für die Deutung einer sy
 
 - Einmal in einem allgemeinen Sinn, wo es schlicht {{% bible val="mitteilen" link="act:25,27" lang="de" %}} bedeutet.
 - Einmal in Bezug auf eine möglicherweise {{% bible val="symbolische Prophezeiung" link="act:11,28" lang="de" %}}, verbunden mit der {{% bible val="symbolischen Bedeutung desselben Propheten" link="act:21,10-11" lang="de" %}}.
-- Dreimal weiter beschreibt es symbolisch die Art von Jesu Tod am Kreuz, in Johannes Kapitel {{% bible val="12" link="jhn:12,33" lang="de" %}}, {{% bible val="18" link="jhn:18,32" lang="de" %}} und {{% bible val="21" link="jhn:21,19" lang="de" %}}.
+- Dreimal weiter weist es im Johannesevangelium auf die Art eines Todes voraus: auf Jesu Tod am Kreuz in Kapitel {{% bible val="12" link="jhn:12,33" lang="de" %}} und {{% bible val="18" link="jhn:18,32" lang="de" %}}, und auf den Tod des Petrus in Kapitel {{% bible val="21" link="jhn:21,19" lang="de" %}}.
 
 Das verwandte Substantiv wird häufig für die Wunder Jesu verwendet, als Zeichen, die auf seinen Charakter oder seine Sendung hinweisen. Zum Beispiel:
 
 - Es kennzeichnet {{% bible val="seine Macht, geistliches Leben zu geben" link="jhn:4,46-54" lang="de" %}}, ebenso wie {{% bible val="geistliche Auferstehung" link="jhn:5,19-29" lang="de" %}}.
-- {{% bible val="Die Speisung der 5000" link="mat:16,5-12" lang="de" %}} zeigt Jesu Macht, geistliche Nahrung zu geben.
+- {{% bible val="Die Speisung der 5000" link="jhn:6,5-14" lang="de" %}} zeigt Jesu Macht, geistliche Nahrung zu geben.
 
 Das Wort *semaino* kann auch schlicht „bekanntmachen" oder „ankündigen" bedeuten, aber wenn Johannes hier diesen Sinn hätte betonen wollen, hätte ihm ein naheliegenderes Wort zur Verfügung gestanden — *gnorizo* — für das er sich jedoch nicht entschieden hat.
 

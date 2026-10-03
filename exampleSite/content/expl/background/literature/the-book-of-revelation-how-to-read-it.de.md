@@ -60,8 +60,8 @@ Dennoch bewahrt die Offenbarung den grundlegenden Aufbau eines Briefes:
 
 - Sie macht der Gemeinde bewusst, wer Jesus ist (Kapitel 1),
 - sie spricht die grundlegenden Probleme der Gemeinden und deren Konsequenzen an (Kapitel 2–3),
-- sie gibt eine theologische Erklärung, wie damit umzugehen ist (Kapitel 4–21/5),
-- und sie schließt mit einigen abschließenden Worten (Kapitel 22/6–21).
+- sie gibt eine theologische Erklärung, wie damit umzugehen ist (4,1–22,5),
+- und sie schließt mit einigen abschließenden Worten (22,6–21).
 
 Wenn wir das erkennen, ergibt es Sinn, dass der Stoff in den Kapiteln 4–21 als Orientierung für diese Gemeinden dienen sollte — für die konkreten Probleme, mit denen sie zu ihrer Zeit konfrontiert waren. Das bedeutet nicht, dass wir heute mit identischen Problemen zu tun haben oder dass diese Antworten nicht auch auf unser Leben angewendet werden können; es bedeutet lediglich, dass der Brief zuerst mit Blick auf sie geschrieben wurde.
 
@@ -105,7 +105,7 @@ Die Offenbarung greift viele dieser prophetischen Elemente auf. Sie:
 
 Das Ziel der Prophetie ist es, Verhalten zu verändern, und sie setzt dabei typischerweise auf eindrückliche Bilder, um bei ihren Lesern oder Hörern eine Reaktion hervorzurufen.
 
-Es gibt aber noch einen weiteren Aspekt, den es hinzuzufügen lohnt: Manchmal existiert Prophetie gerade deshalb, damit sie nicht eintrifft. Das mag überraschend klingen, ist aber genau das, was im Buch {{% bible val="Jona" link="jon:4" lang="de" %}} geschieht, wo Jona sich weigert, gegen die Feinde Israels zu prophezeien — Ninive, einen Außenposten der Assyrer —, gerade weil sie sich bekehren könnten, was bedeuten würde, dass Gottes angedrohtes Gericht niemals eintritt. Und genau das geschieht dann auch.
+Es gibt aber noch einen weiteren Aspekt, den es hinzuzufügen lohnt: Manchmal existiert Prophetie gerade deshalb, damit sie nicht eintrifft. Das mag überraschend klingen, ist aber genau das, was im Buch {{% bible val="Jona" link="jon:4" lang="de" %}} geschieht, wo Jona sich weigert, gegen die Feinde Israels zu prophezeien — Ninive, die große Stadt der Assyrer —, gerade weil sie sich bekehren könnten, was bedeuten würde, dass Gottes angedrohtes Gericht niemals eintritt. Und genau das geschieht dann auch.
 
 Auch die Prophetie der Offenbarung folgt in ihrer Form nicht dem gewöhnlichen alttestamentlichen Muster. Ihre Visionen werden meist mit einem schlichten „und ich sah" eingeleitet, während alttestamentliche Visionen in der Regel {{% bible val="weitaus kunstvoller" link="zec:1,7" lang="de" %}} eingeleitet werden.
 

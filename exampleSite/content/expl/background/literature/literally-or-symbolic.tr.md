@@ -37,7 +37,7 @@ Bu çerçeveyi göz önünde bulundurarak, şimdi metnin kendisine daha yakında
 <a name="6075"></a>
 Vahiy'deki bazı kilit pasajlar, {{% bible val="Daniel'in 2. bölümündeki peygamberlikle" link="dan:2,28-45" lang="tr" %}} güçlü bir şekilde bağlantılıdır ve bu bağlantı kitabı daha iyi anlamamıza yardımcı olur. Bu pasaj, kendisi de Vahiy boyunca birçok yankısı olan {{% bible val="Daniel'in 7. bölümüyle" link="dan:7" lang="tr" %}} {{% int_link val="paraleldir" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}.
 
-Daniel 2 pasajı, peygamberlik kitapları arasında "gizem" kelimesini kullanan tek pasajdır — bu kelime Vahiy'de de üç kez geçer: {{% bible val="kilisenin" link="rev:1,20" lang="tr" %}} gizemi, {{% bible val="Tanrı'nın" link="rev:10,7" lang="tr" %}} gizemi ve {{% bible val="canavarın" link="rev:17,5" lang="tr" %}} gizemi.
+Daniel 2 pasajı, peygamberlik kitapları arasında "gizem" kelimesini kullanan tek pasajdır — bu kelime Vahiy'de de dört kez geçer: {{% bible val="yedi yıldızın ve kandilliğin" link="rev:1,20" lang="tr" %}} gizemi, {{% bible val="Tanrı'nın" link="rev:10,7" lang="tr" %}} gizemi, {{% bible val="Babil'in" link="rev:17,5" lang="tr" %}} ve {{% bible val="onu taşıyan canavarın" link="rev:17,7" lang="tr" %}} gizemi.
 
 Peygamberliğin açılış cümlesi, "son günlerde ne olması gerektiğini … gösterdi" ifadesi, Vahiy'in tam {{% bible val="başlangıcında" link="rev:1,1" lang="tr" %}} ve yine {{% bible val="kiliselere mektuplardan hemen önce" link="rev:1,19" lang="tr" %}} yankılanır.
 
@@ -65,12 +65,12 @@ Bu, Daniel'in Yunancasında sembolik bir görümün yorumlanması için kullanı
 
 - Bir kez genel bir anlamda, sadece {{% bible val="belirtmek" link="act:25,27" lang="tr" %}} anlamında.
 - Bir kez potansiyel olarak {{% bible val="sembolik bir peygamberliği" link="act:11,28" lang="tr" %}} tanımlarken, {{% bible val="aynı peygamberin sembolik önemine" link="act:21,10-11" lang="tr" %}} bağlı olarak.
-- Üç kez daha, Yuhanna'nın {{% bible val="12" link="jhn:12,33" lang="tr" %}}, {{% bible val="18" link="jhn:18,32" lang="tr" %}} ve {{% bible val="21" link="jhn:21,19" lang="tr" %}}. bölümlerinde, İsa'nın çarmıhtaki ölümünün doğasını sembolik olarak tanımlarken.
+- Üç kez daha Yuhanna'da, birinin nasıl öleceğine işaret ederken: {{% bible val="12" link="jhn:12,33" lang="tr" %}}. ve {{% bible val="18" link="jhn:18,32" lang="tr" %}}. bölümlerde İsa'nın çarmıhtaki ölümü, {{% bible val="21" link="jhn:21,19" lang="tr" %}}. bölümde Petrus'un ölümü için.
 
 İlgili isim genellikle İsa'nın mucizelerini onun karakterine ya da misyonuna işaret eden işaretler olarak tanımlamak için kullanılır. Örneğin:
 
 - {{% bible val="Ruhsal yaşam verme gücünü" link="jhn:4,46-54" lang="tr" %}} ve {{% bible val="ruhsal dirilişi" link="jhn:5,19-29" lang="tr" %}} işaret eder.
-- {{% bible val="5000 kişinin doyurulması" link="mat:16,5-12" lang="tr" %}}, İsa'nın ruhsal yiyecek verme gücünü gösterir.
+- {{% bible val="5000 kişinin doyurulması" link="jhn:6,5-14" lang="tr" %}}, İsa'nın ruhsal yiyecek verme gücünü gösterir.
 
 *Semaino* kelimesi aynı zamanda basitçe "bildirmek" ya da "duyurmak" anlamına da gelebilir, ama Yuhanna burada bu anlamı vurgulamak isteseydi, kullanabileceği daha doğal bir kelime vardı — *gnorizo* — ve onu kullanmamayı tercih etti.
 

@@ -91,13 +91,13 @@ Three basic types of arrangement exist, and they can also be combined:
 
 - linear (a-b-c-d-e-f),
 - parallel (a-b-c-a'-b'-c'),
-- symmetric (a-b-c-'b'-a').
+- symmetric (a-b-c-b'-a').
 
 Many combinations are possible:
 
 - a-b-c-d-e-a' combines linear and symmetric patterns — like a sentence that opens with an assumption and closes with a summary that proves it.
-- a-b-c-d-'b'-c'-a' is a modified symmetry, blending symmetric and parallel patterns, which draws the reader's attention specifically to the b'-c' switch.
-- a-a'-b-b'-c-c'-d-d' combines linear and parallel patterns and can tell parallel but distinct stories, as in Gen. 38/2–50/26.
+- a-b-c-d-b'-c'-a' is a modified symmetry, blending symmetric and parallel patterns, which draws the reader's attention specifically to the b'-c' switch.
+- a-a'-b-b'-c-c'-d-d' combines linear and parallel patterns and can tell parallel but distinct stories, as in Gen. 37/2–50/26.
 
 The very same story can even be read in more than one pattern at once. Gen. 37/2–50/26, for example, can be read as a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a', or equally as a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
 
@@ -121,7 +121,7 @@ Parallel patterns follow a scheme like a-b-c-a'-b'-c', where each x' shares a si
 - b': proclaim
 - c': his work
 
-Some parts may not fit the pattern at all — they can trail off at the end (a-b-c-a'-b'-c', d), sit in the middle (a-b-c-d-a'-b'-c'), or, more rarely, appear at the beginning (a-b-c-d-a'-b'-c').
+Some parts may not fit the pattern at all — they can trail off at the end (a-b-c-a'-b'-c', d), sit in the middle (a-b-c-d-a'-b'-c'), or, more rarely, appear at the beginning (d-a-b-c-a'-b'-c').
 
 Parallel patterns aren't always easy to spot, but they create a real sense of anticipation and satisfaction once recognized. We see the same effect in fairy tales like The Three Little Pigs: by the second house we think we've learned the pattern, and the author can then surprise us in the third, where he delivers the lecture.
 
@@ -235,7 +235,7 @@ That position of prominence can carry several kinds of meaning:
 - **Turning point** — the center marks the story's actual turning point, as with Ehud (Judg. 3/12–30), where the turn comes when he kills the king. The entire structure of Judges likewise turns on Gideon.
 - **Climax** — the same center point can also be the moment of highest tension, as again in Ehud's story.
 - **Centerpiece** — the center represents the climax outright, as with the wedding at the heart of Song of Songs 3/6–5/1, or Solomon, the temple's builder, at the center of Chronicles (2 Chr. 1–9).
-- **Significant pause (or interlude)** — a deliberate pause in the action or argument that makes a highly significant point. 2 Kings 2/1–8/6 interrupts the relentless, almost unbroken parade of the kings' sins with the ministry of Elisha, and 2 Kings 3/21–32 pauses a tragic eulogy to reflect on the profound love of God.
+- **Significant pause (or interlude)** — a deliberate pause in the action or argument that makes a highly significant point. 2 Kings 2/1–8/6 interrupts the relentless, almost unbroken parade of the kings' sins with the ministry of Elisha, and Lamentations 3/21–32 pauses a tragic eulogy to reflect on the profound love of God.
 
 ## Value of structural analysis
 

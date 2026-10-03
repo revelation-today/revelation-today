@@ -124,7 +124,7 @@ Vahiy'in sayılarının bir katmanı daha vardır: oluşturdukları şekiller.
 - 17. bölümde canavar {{% bible val="sekizinci" link="rev:17,11" lang="tr" %}} krallardandır — Tanrı'nın yedisine karşı sekiz, eksiksizliğin bir adım ötesi; sanki Tanrı'nın kendi yaratılışını aşabilirmiş gibi.
 - Daniel'deki iğrençliğin {{% bible val="1290 günü" link="dan:12,11" lang="tr" %}} kilisenin 1260 gününü az farkla aşar ve canavarın sonraki karesi 1296, Tanrı'nın 1225'inin hemen üzerindedir.
 - Kuzu'nun {{% bible val="yedi boynuzu" link="rev:5,6" lang="tr" %}} vardır; ejderha ve canavar {{% bible val="on" link="rev:13,1" lang="tr" %}} boynuz gösterir. Ejderha yedi taç, canavar on taç takar ({{% bible val="12:3" link="rev:12,3" lang="tr" %}}; {{% bible val="13:1" link="rev:13,1" lang="tr" %}}) — Beale'in deyişiyle "egemen, evrensel otoriteye dair sahte iddialar" (s. 635, 684).
-- İlk atlı beyaz bir atla, taç giymiş ve {{% bible val="galip gelerek" link="rev:6,2" lang="tr" %}} gelir; canavar ölümcül yarasından kurtulur ve {{% bible val="büyük belirtiler" link="rev:13,3-13" lang="tr" %}} gösterir — ilk bakışta Tanrı'nınkinden daha iyi bir teklif.
+- İlk atlı beyaz bir atla, taç giymiş ve {{% bible val="galip gelerek" link="rev:6,2" lang="tr" %}} gelir; canavar ölümcül yarasından kurtulur, ikinci canavar da {{% bible val="büyük belirtiler" link="rev:13,3-13" lang="tr" %}} gösterir — ilk bakışta Tanrı'nınkinden daha iyi bir teklif.
 - Babil övünür: {{% bible val="Kraliçe olarak oturuyorum … asla yas görmeyeceğim" link="rev:18,7" lang="tr" %}}; Gog ile Magog da {{% bible val="deniz kumu kadar" link="rev:20,8" lang="tr" %}} bir ordu toplar — Tanrı'nın İbrahim'e vaat ettiği sayısız halkın ta kendisi olan imge.
 
 ![](/images/numbers-claim.tr.svg)

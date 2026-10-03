@@ -60,8 +60,8 @@ Meski begitu, Kitab Wahyu tetap mempertahankan alur dasar sebuah surat:
 
 - kitab ini membuat jemaat menyadari siapa Yesus (pasal 1),
 - kitab ini membahas masalah-masalah dasar jemaat-jemaat itu dan konsekuensinya (pasal 2–3),
-- kitab ini memberikan penjelasan teologis tentang bagaimana menghadapinya (pasal 4–21/5),
-- dan kitab ini ditutup dengan beberapa kata penutup (pasal 22/6–21).
+- kitab ini memberikan penjelasan teologis tentang bagaimana menghadapinya (4:1–22:5),
+- dan kitab ini ditutup dengan beberapa kata penutup (22:6–21).
 
 Setelah kita melihat hal ini, masuk akal untuk mengharapkan bahwa materi dalam pasal 4–21 berfungsi sebagai pedoman bagi jemaat-jemaat itu — bagi masalah-masalah spesifik yang mereka hadapi pada zaman mereka sendiri. Itu tidak berarti kita tidak menghadapi masalah yang identik hari ini, atau bahwa jawaban-jawaban ini tidak dapat lagi diterapkan dalam hidup kita; itu hanya berarti bahwa surat ini pertama-tama ditulis dengan mereka dalam pikiran.
 
@@ -105,7 +105,7 @@ Kitab Wahyu memanfaatkan banyak unsur kenabian ini. Kitab ini:
 
 Tujuan nubuat adalah mengubah perilaku, dan nubuat biasanya mengandalkan gambaran yang hidup untuk memprovokasi sebuah reaksi dari para pembaca atau pendengarnya.
 
-Namun ada satu sudut pandang lagi yang perlu ditambahkan: nubuat kadang-kadang ada justru agar tidak digenapi. Itu mungkin terdengar mengejutkan, tetapi itulah persisnya yang terjadi dalam kitab {{% bible val="Yunus" link="jon:4" lang="ind" %}}, di mana Yunus menolak bernubuat menentang musuh-musuh Israel — Niniwe, sebuah pos terdepan orang Asyur — justru karena mereka mungkin bertobat, yang berarti penghakiman yang diancamkan Allah tidak akan pernah terjadi. Dan itulah persis yang terjadi.
+Namun ada satu sudut pandang lagi yang perlu ditambahkan: nubuat kadang-kadang ada justru agar tidak digenapi. Itu mungkin terdengar mengejutkan, tetapi itulah persisnya yang terjadi dalam kitab {{% bible val="Yunus" link="jon:4" lang="ind" %}}, di mana Yunus menolak bernubuat menentang musuh-musuh Israel — Niniwe, kota besar orang Asyur — justru karena mereka mungkin bertobat, yang berarti penghakiman yang diancamkan Allah tidak akan pernah terjadi. Dan itulah persis yang terjadi.
 
 Nubuat dalam Kitab Wahyu juga tidak mengikuti pola baku Perjanjian Lama dalam bentuknya. Penglihatan-penglihatannya biasanya diperkenalkan dengan sebuah "dan aku melihat" yang sederhana, sementara penglihatan-penglihatan Perjanjian Lama cenderung diperkenalkan {{% bible val="dengan jauh lebih rinci" link="zec:1,7" lang="ind" %}}.
 

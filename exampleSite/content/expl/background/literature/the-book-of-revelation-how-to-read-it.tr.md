@@ -2,9 +2,9 @@
 title: "Vahiy kitabı: Nasıl okunmalı?"
 weight: 10
 deeper:
-    - name: Ist die Offenbarung wörtlich oder symbolisch zu verstehen?
+    - name: Vahiy harfi harfine mi, yoksa sembolik olarak mı anlaşılmalı?
       link:  /expl/background/literature/literally-or-symbolic
-    - name: Was ist der historische Hintergrund?
+    - name: Tarihsel arka plan nedir?
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 sources:
     - pages: 10–56
@@ -60,8 +60,8 @@ Buna rağmen Vahiy, bir mektubun temel akışını korur:
 
 - kiliseye İsa'nın kim olduğunu bildirir (1. bölüm),
 - kiliselerin temel sorunlarını ve bunların sonuçlarını ele alır (2–3. bölümler),
-- bunlarla nasıl başa çıkılacağına dair teolojik bir açıklama sunar (4–21/5. bölümler),
-- ve bazı kapanış sözleriyle sona erer (22/6–21. bölümler).
+- bunlarla nasıl başa çıkılacağına dair teolojik bir açıklama sunar (4:1–22:5),
+- ve bazı kapanış sözleriyle sona erer (22:6–21).
 
 Bunu gördüğümüzde, 4–21. bölümlerdeki malzemenin bu kiliseler için — kendi zamanlarında karşılaştıkları belirli sorunlar için — bir rehber işlevi görmesini beklemek mantıklı olur. Bu, bugün aynı sorunlarla karşı karşıya olduğumuz ya da bu yanıtların hayatımıza hâlâ uygulanamayacağı anlamına gelmez; sadece mektubun önce onlar düşünülerek yazıldığı anlamına gelir.
 
@@ -105,7 +105,7 @@ Vahiy bu peygamberlik unsurlarının çoğundan yararlanır. Kitap:
 
 Peygamberliğin amacı davranışı değiştirmektir ve genellikle okuyucularından ya da dinleyicilerinden bir tepki uyandırmak için canlı imgelere dayanır.
 
-Yine de eklenmeye değer başka bir yön daha var: kehanet bazen tam olarak gerçekleşmesin diye vardır. Bu şaşırtıcı gelebilir, ama tam olarak {{% bible val="Yunus" link="jon:4" lang="tr" %}} kitabında olan şey budur; Yunus, İsrail'in düşmanlarına — Asurluların bir ileri karakolu olan Ninova'ya — karşı peygamberlik etmeyi reddeder, tam olarak tövbe edebilecekleri için, ki bu da Tanrı'nın tehdit ettiği yargının hiç gerçekleşmeyeceği anlamına gelir. Ve tam olarak olan da budur.
+Yine de eklenmeye değer başka bir yön daha var: kehanet bazen tam olarak gerçekleşmesin diye vardır. Bu şaşırtıcı gelebilir, ama tam olarak {{% bible val="Yunus" link="jon:4" lang="tr" %}} kitabında olan şey budur; Yunus, İsrail'in düşmanlarına — Asurluların büyük kenti Ninova'ya — karşı peygamberlik etmeyi reddeder, tam olarak tövbe edebilecekleri için, ki bu da Tanrı'nın tehdit ettiği yargının hiç gerçekleşmeyeceği anlamına gelir. Ve tam olarak olan da budur.
 
 Vahiy'in peygamberliği de biçim olarak standart Eski Antlaşma örüntüsünü izlemez. Görümleri genellikle basit bir "ve gördüm" ifadesiyle tanıtılırken, Eski Antlaşma'daki görümler {{% bible val="çok daha ayrıntılı bir şekilde" link="zec:1,7" lang="tr" %}} tanıtılma eğilimindedir.
 

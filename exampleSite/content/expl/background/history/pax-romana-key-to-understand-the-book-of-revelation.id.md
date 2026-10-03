@@ -34,7 +34,7 @@ Anda mungkin berpikir bahwa Kitab Wahyu, atau Pax Romana Roma kuno, tidak ada hu
 ## Pax Romana
 
 <a name="4002"></a>
-Pax Romana, yang berarti "Perdamaian Romawi," merujuk pada periode dari tahun 27 SM hingga sekitar tahun 192 M, yang ditandai dengan:
+Pax Romana, yang berarti "Perdamaian Romawi," merujuk pada periode dari tahun 27 SM hingga sekitar tahun 180 M, yang ditandai dengan:
 
 - sedikit perang saudara dan kekaisaran yang kuat dan stabil
 - kemakmuran tinggi, setidaknya bagi kebanyakan orang
@@ -63,7 +63,7 @@ Roma menyebarkan gagasan ini secara terus-menerus, melalui:
 
 Akibatnya, Pax Romana tidak mungkin dihindari: hadir dalam hiburan, di tempat kerja, di pasar, bahkan saat makan. Dan seluruh komunitas memastikan agar perilaku buruk seorang individu tidak sampai membuat kota kehilangan kemurahan hati sang kaisar.
 
-Banyak kota — khususnya di Asia Kecil, tempat surat-surat dalam Kitab Wahyu ditulis — bersaing satu sama lain untuk membangun kuil-kuil guna menghormati kaisar dan para dewa serta untuk menyebarkan Pax Romana lebih jauh lagi. Dengan cara ini, mereka berharap memperoleh dukungan kaisar, atau setidaknya keringanan pajak.
+Banyak kota — khususnya di Asia Kecil, tujuan surat-surat dalam Kitab Wahyu — bersaing satu sama lain untuk membangun kuil-kuil guna menghormati kaisar dan para dewa serta untuk menyebarkan Pax Romana lebih jauh lagi. Dengan cara ini, mereka berharap memperoleh dukungan kaisar, atau setidaknya keringanan pajak.
 
 ## Pax Romana dan Orang Kristen
 

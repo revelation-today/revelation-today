@@ -91,13 +91,13 @@ Es gibt drei grundlegende Arten der Anordnung, die auch kombiniert werden könne
 
 - linear (a-b-c-d-e-f),
 - parallel (a-b-c-a'-b'-c'),
-- symmetrisch (a-b-c-'b'-a').
+- symmetrisch (a-b-c-b'-a').
 
 Viele Kombinationen sind möglich:
 
 - a-b-c-d-e-a' verbindet lineare und symmetrische Muster — etwa wie ein Satz, der mit einer Annahme beginnt und mit einer Zusammenfassung endet, die diese Annahme belegt.
-- a-b-c-d-'b'-c'-a' ist eine modifizierte Symmetrie, eine Mischung aus symmetrischem und parallelem Muster, die die Aufmerksamkeit des Lesers gezielt auf den Wechsel b'-c' lenkt.
-- a-a'-b-b'-c-c'-d-d' verbindet lineare und parallele Muster und kann parallele, aber eigenständige Geschichten erzählen, wie in 1.Mo.38/2–50/26.
+- a-b-c-d-b'-c'-a' ist eine modifizierte Symmetrie, eine Mischung aus symmetrischem und parallelem Muster, die die Aufmerksamkeit des Lesers gezielt auf den Wechsel b'-c' lenkt.
+- a-a'-b-b'-c-c'-d-d' verbindet lineare und parallele Muster und kann parallele, aber eigenständige Geschichten erzählen, wie in 1.Mo.37/2–50/26.
 
 Ein und dieselbe Geschichte lässt sich sogar in mehr als einem Muster lesen. 1.Mo.37/2–50/26 etwa kann als a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a' gelesen werden, ebenso gut aber auch als a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
 
@@ -121,7 +121,7 @@ Parallele Muster folgen einem Schema wie a-b-c-a'-b'-c', wobei jedes x' ein ähn
 - b': verkünden
 - c': sein Werk
 
-Manche Teile passen überhaupt nicht in das Muster — sie können am Ende auslaufen (a-b-c-a'-b'-c', d), in der Mitte stehen (a-b-c-d-a'-b'-c') oder, seltener, am Anfang erscheinen (a-b-c-d-a'-b'-c').
+Manche Teile passen überhaupt nicht in das Muster — sie können am Ende auslaufen (a-b-c-a'-b'-c', d), in der Mitte stehen (a-b-c-d-a'-b'-c') oder, seltener, am Anfang erscheinen (d-a-b-c-a'-b'-c').
 
 Parallele Muster sind nicht immer leicht zu erkennen, erzeugen aber, einmal entdeckt, ein echtes Gefühl von Erwartung und Befriedigung. Denselben Effekt finden wir in Märchen wie den Drei kleinen Schweinchen: Beim zweiten Haus glauben wir, das Muster erkannt zu haben, und der Autor kann uns dann beim dritten Haus überraschen, wo er die eigentliche Lektion liefert.
 
@@ -235,7 +235,7 @@ Diese hervorgehobene Position kann verschiedene Arten von Bedeutung tragen:
 - **Wendepunkt** — die Mitte markiert den eigentlichen Wendepunkt der Geschichte, wie bei Ehud (Ri.3/12–30), wo der Umschwung genau dann kommt, wenn er den König tötet. Auch die Gesamtstruktur des Richterbuches dreht sich um Gideon.
 - **Höhepunkt** — derselbe Mittelpunkt kann auch der Moment der größten Spannung sein, wieder wie in der Geschichte Ehuds.
 - **Mittelstück** — die Mitte stellt den Höhepunkt unmittelbar dar, wie bei der Hochzeit im Zentrum des Hohelieds 3/6–5/1, oder bei Salomo, dem Erbauer des Tempels, im Zentrum der Chronikbücher (2.Chr 1–9).
-- **Bedeutsame Pause (oder Zwischenspiel)** — eine bewusste Unterbrechung der Handlung oder Argumentation, die einen höchst bedeutsamen Punkt setzt. 2.Kön 2/1–8/6 unterbricht die unerbittliche, fast lückenlose Aufzählung der Sünden der Könige mit dem Wirken Elisas, und 2.Kön 3/21–32 unterbricht eine tragische Klage, um über die tiefe Liebe Gottes nachzudenken.
+- **Bedeutsame Pause (oder Zwischenspiel)** — eine bewusste Unterbrechung der Handlung oder Argumentation, die einen höchst bedeutsamen Punkt setzt. 2.Kön 2/1–8/6 unterbricht die unerbittliche, fast lückenlose Aufzählung der Sünden der Könige mit dem Wirken Elisas, und Klgl 3/21–32 unterbricht eine tragische Klage, um über die tiefe Liebe Gottes nachzudenken.
 
 ## Wert der Strukturanalyse
 

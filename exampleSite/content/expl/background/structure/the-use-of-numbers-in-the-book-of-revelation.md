@@ -124,7 +124,7 @@ There is one more layer to Revelation's numbers: the shapes they make.
 - In chapter 17 the beast is {{% bible val="an eighth" link="rev:17,11" lang="en" %}} — eight against God's seven, one step beyond completeness, as if he could outdo God's own creation.
 - Daniel's {{% bible val="1290 days" link="dan:12,11" lang="en" %}} of the abomination run just past the church's 1260, and the beast's next square, 1296, sits just above God's 1225.
 - The Lamb has {{% bible val="seven horns" link="rev:5,6" lang="en" %}}; the dragon and the beast show {{% bible val="ten" link="rev:13,1" lang="en" %}}. The dragon wears seven crowns, the beast ten ({{% bible val="12:3" link="rev:12,3" lang="en" %}}; {{% bible val="13:1" link="rev:13,1" lang="en" %}}) — "false claims of sovereign, universal authority", as Beale puts it (pp. 635, 684).
-- The first rider comes on a white horse, crowned and {{% bible val="conquering" link="rev:6,2" lang="en" %}}; the beast survives its mortal wound and works {{% bible val="great signs" link="rev:13,3-13" lang="en" %}} — on the face of it, a better offer than God's.
+- The first rider comes on a white horse, crowned and {{% bible val="conquering" link="rev:6,2" lang="en" %}}; the beast survives its mortal wound, and the second beast works {{% bible val="great signs" link="rev:13,3-13" lang="en" %}} — on the face of it, a better offer than God's.
 - Babylon boasts: {{% bible val="I sit enthroned as queen… I will never mourn" link="rev:18,7" lang="en" %}}; and Gog and Magog gather an army {{% bible val="like the sand on the seashore" link="rev:20,8" lang="en" %}} — the very image of the countless people God promised Abraham.
 
 ![](/images/numbers-claim.en.svg)

@@ -37,7 +37,7 @@ With that framework in place, let's look more closely at the text itself.
 <a name="c39c"></a>
 Some key passages in Revelation are strongly connected to the {{% bible val="prophecy in Daniel chapter 2" link="dan:2,28-45" lang="en" %}}, and that connection helps us understand the book better. This passage {{% int_link val="parallels" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}} {{% bible val="Daniel chapter 7" link="dan:7" lang="en" %}}, which itself has many echoes throughout Revelation.
 
-The Daniel 2 passage is the only one among the prophetic books that uses the word "mystery" — a word that occurs three times in Revelation as well: the mystery of the {{% bible val="church" link="rev:1,20" lang="en" %}}, the mystery of {{% bible val="God" link="rev:10,7" lang="en" %}}, and the mystery of the {{% bible val="beast" link="rev:17,5" lang="en" %}}.
+The Daniel 2 passage is the only one among the prophetic books that uses the word "mystery" — a word that occurs four times in Revelation as well: the mystery of the {{% bible val="seven stars and lampstands" link="rev:1,20" lang="en" %}}, the mystery of {{% bible val="God" link="rev:10,7" lang="en" %}}, and the mystery of {{% bible val="Babel" link="rev:17,5" lang="en" %}} and of the {{% bible val="beast that carries her" link="rev:17,7" lang="en" %}}.
 
 The prophecy's opening line, "he showed … what thing must take place in the latter days," is echoed at the very {{% bible val="beginning" link="rev:1,1" lang="en" %}} of Revelation and again {{% bible val="just before the letters to the churches" link="rev:1,19" lang="en" %}}.
 
@@ -65,12 +65,12 @@ This is the same word used in the Greek of Daniel for the interpretation of a sy
 
 - Once in a generic sense, meaning simply to {{% bible val="specify" link="act:25,27" lang="en" %}}.
 - Once describing a potentially {{% bible val="symbolic prophecy" link="act:11,28" lang="en" %}}, tied to the {{% bible val="symbolic significance of that same prophet" link="act:21,10-11" lang="en" %}}.
-- Three more times describing, symbolically, the nature of Jesus's death on the cross, in John chapters {{% bible val="12" link="jhn:12,33" lang="en" %}}, {{% bible val="18" link="jhn:18,32" lang="en" %}}, and {{% bible val="21" link="jhn:21,19" lang="en" %}}.
+- Three more times in John, pointing ahead to the kind of death someone would die: Jesus's death on the cross in chapters {{% bible val="12" link="jhn:12,33" lang="en" %}} and {{% bible val="18" link="jhn:18,32" lang="en" %}}, and Peter's death in chapter {{% bible val="21" link="jhn:21,19" lang="en" %}}.
 
 The related noun is often used for Jesus's miracles as signs pointing to his character or mission. For example:
 
 - It marks {{% bible val="his power to give spiritual life" link="jhn:4,46-54" lang="en" %}}, as well as {{% bible val="spiritual resurrection" link="jhn:5,19-29" lang="en" %}}.
-- {{% bible val="The feeding of the 5000" link="mat:16,5-12" lang="en" %}} shows Jesus's power to give spiritual food.
+- {{% bible val="The feeding of the 5000" link="jhn:6,5-14" lang="en" %}} shows Jesus's power to give spiritual food.
 
 The word *semaino* can also simply mean "to make known" or "announce," but if John had wanted to emphasize that sense here, he had a more natural word available — *gnorizo* — and chose not to use it.
 
