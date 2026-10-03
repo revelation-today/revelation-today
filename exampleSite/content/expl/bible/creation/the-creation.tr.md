@@ -10,6 +10,8 @@ sources:
       ref: brueggemann_gen
     - pages: "vol. 11: 16"
       ref: tdot
+    - pages: "vol. 13: 59"
+      ref: tdot
 ---
 
 Kutsal Kitap'ın sonunu anlamak için önce başlangıcını anlamak gerekir. Düşüş öyküsündeki yaşam ağacının ve Kabil'e verilen işaretin, ikisinin de Vahiy kitabında yeniden karşımıza çıktığını biliyor muydunuz?
@@ -59,17 +61,17 @@ O zaman bile Adem itiraf etmez — kendisi dışında herkesi suçlar: "*bana ve
 <a name="9174"></a>
 Tanrı yılanı, hafifletici tek bir söz bile söylemeden yargılar ve kadının, onu yok edecek kurtarıcıyı doğuracağını vaat eder.
 
-Adamın yargısı, gerçek sorunu adlandırır: "çünkü karının sözünü dinledin." Kadın, Tanrı'dan gelen bir hediye, gerçekleşmiş bir düştü — ama adam, kadının kendisini Tanrı'ya yaklaştırmasına izin vermek yerine, Tanrı'nın hediyesinin Tanrı'nın yerini almasına izin verdi. Tanrı'nın sözü yerine kadının sözüne itaat etti. Meyve, zaten var olan bir sorunu ortaya çıkarmaktan başka bir şey yapmadı: adam, kadını Tanrı'ya yönlendirmemişti zaten. Bunun yerine kadının kendisine öncülük etmesini bekledi — ki bu rol ona hiç verilmemişti — ve sonunda yılan tarafından yönlendirildi, yani adamın kendisine egemenlik verildiği bir yaratık tarafından.
+Adamın yargısı, gerçek sorunu adlandırır: "çünkü karının sözünü dinledin." Kadın, Tanrı'dan gelen bir hediye, gerçekleşmiş bir düştü — ama adam, kadının kendisini Tanrı'ya yaklaştırmasına izin vermek yerine, Tanrı'nın hediyesinin Tanrı'nın yerini almasına izin verdi. Tanrı'nın sözü yerine kadının sözüne itaat etti. Meyve, zaten var olan bir sorunu ortaya çıkarmaktan başka bir şey yapmadı. Adam bütün bu süre boyunca "kadının yanındaydı" (3:6) — oradaydı ve susuyordu. Tanrı sorduğunda ise kadını gösterir: "Yanıma koyduğun kadın." Tanrı bu bahaneyi kabul etmez.
 
 ## Akıl almaz olan
 
 <a name="ac70"></a>
-Bahçeyi terk etmeleri gerekir, ama önce utançları örtülür — hayvan postlarıyla. Bir an durup düşünün, çünkü hayvan postları ağaçta yetişmez. Tanrı, adamla kadının utancını örtmek için kendi yaratılışına zarar vermek ve hayvanların ölmesine izin vermek zorunda kalır. O hayvanlar onların yerine ölür ve postlarından yapılan giysiler, Adem'le Havva'nın bunu hiç unutmamasını sağlamak içindir.
+Bahçeyi terk etmeleri gerekir, ama önce utançları örtülür — hayvan postlarıyla. Bir an durup düşünün, çünkü hayvan postları ağaçta yetişmez. Tanrı, adamla kadının utancını örtmek için kendi yaratılışına zarar vermek ve hayvanların ölmesine izin vermek zorunda kalır. Metin buna kurban demez. Ama Hristiyan okurlar uzun zamandır bunda gelecek olanın ilk işaretini görmüştür: utancın örtülebilmesi için verilen bir can.
 
 ## Yeni bir başlangıç
 
 <a name="e861"></a>
-Bahçeden ayrıldıktan sonra Havva hamile kalır ve çarpıcı bir açıklama yapar: "Rab'bin yardımıyla bir çocuk edindim." Bu açıkça Adem'in çocuğuydu, ama ona verdiği isim — "hazine" anlamına gelen Kabil — asıl ne düşündüğünü gösterir. Belki de Kabil'in, bahçeye dönüş bileti, yılanı yok edecek vaat edilen kurtarıcı olacağını umuyordu. Bu umut, ikinci oğluna "hiçlik" ya da "buhar" anlamına gelen Habil adını verdiğinde daha da netleşir.
+Bahçeden ayrıldıktan sonra Havva hamile kalır ve çarpıcı bir açıklama yapar: "Rab'bin yardımıyla bir çocuk edindim." Bu açıkça Adem'in çocuğuydu, ama ona verdiği isim — İbranice "edindim" sözüne benzeyen Kabil — asıl ne düşündüğünü gösterir.[^cain] Belki de Kabil'in, bahçeye dönüş bileti, yılanı yok edecek vaat edilen kurtarıcı olacağını umuyordu. Bu umut, ikinci oğluna "hiçlik" ya da "buhar" anlamına gelen Habil adını verdiğinde daha da netleşir.
 
 ## Patlama
 
@@ -78,9 +80,9 @@ Kabil için ebeveynlerinin tüm beklentisini taşımak zordu, Habil için ise ü
 
 Bir gün ikisi de birer sunu getirir — Kabil ekinden, Habil sürüsünden — ve Tanrı Habil'inkini kabul eder, Kabil'inkini etmez. Kabil öfkeyle dolar.
 
-Sorun neydi? Kabil bunun nedenini anlamış görünmüyor, ama Habil sunusunu belki de kasıtlı olarak, Tanrı'nın Aden'de ebeveynlerinin utancını örtmek için yaptığını anarak sunmuştur.
+Sorun neydi? Yaratılış kitabı bunu söylemez. Yeni Antlaşma sunuya değil, yüreğe işaret eder: "Habil iman sayesinde Tanrı'ya daha iyi bir kurban sundu" (İbr. 11:4).
 
-Kabil'in öfkesi büyürken, Tanrı hemen araya girip onu uyarır. Dikkat çekicidir ki, günah burada zaten işlenmiş bir eylem olarak değil, hâlâ şekillenmekte olan bir amaçla bir niyet olarak tanımlanır. Kabil dinlemez ve kardeşini öldürür. Karşısına çıkarıldığında pişman olur ve yaptıklarının sonuçlarına dayanamayacağını hissederken, Tanrı ona koruyucu bir işaret koyar.
+Kabil'in öfkesi büyürken, Tanrı hemen araya girip onu uyarır. Dikkat çekicidir ki, günah burada zaten işlenmiş bir eylem olarak değil, hâlâ şekillenmekte olan bir amaçla bir niyet olarak tanımlanır. Kabil dinlemez ve kardeşini öldürür. Karşısına çıkarıldığında tövbe etmez. Cezasının taşıyamayacağı kadar ağır olduğundan yakınır — yine de Tanrı ona koruyucu bir işaret koyar.
 
 ## Skandal
 
@@ -90,3 +92,5 @@ Kabil'in soyu büyümeye devam eder, kentlerde ve uygarlığın yeniliklerinde s
 Kayıtlara geçen, iki eş alan ilk adamdır ve atası Kabil'e Tanrı'nın koyduğu koruyucu işaretle açıkça alay eder. Zaten bir adam öldürmüştür — o işaretin önlemesi gereken tam da o şeyi — ve kendisine dokunacak herkesin karşılaşacağı sonuçların, Tanrı'nın Kabil için vaat ettiği sonuçlardan çok daha büyük olacağını böbürlenerek söyler. Tanrı'nın kendisinden daha büyük olduğunu mu iddia ediyor?
 
 Ve yine de, kendi tarzında bir gülünç durumdadır da. Bu böbürlenmeyi dünyaya ilan etmeye cesaret edemez — yalnızca karısına, özel olarak söyler. Peki birisi Lemek'i öldürürse, tam olarak onun öcünü kim alacaktır? Karıları mı?
+
+[^cain]: TDOT, c. 13, s. 59.

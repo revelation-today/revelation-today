@@ -19,6 +19,8 @@ sources:
       ref: beale_rev
     - pages: "vol. 13: 371"
       ref: tdot
+    - pages: 277–278
+      ref: bauckham_climax
 ---
 
 Ini adalah kisah yang mungkin pernah Anda dengar di sekolah minggu, tetapi ada jauh lebih banyak yang dapat ditemukan di dalamnya daripada yang mungkin pernah Anda dengar sebelumnya.
@@ -54,9 +56,11 @@ Para ahli sihir pun mengikuti sebuah pola. Mereka dapat meniru tulah 1 dan 2, te
 
 Seiring berlanjutnya tulah-tulah ini, hati Firaun semakin keras dan tuntutan Musa semakin besar. Dan mulai dari tulah 4, muncul sebuah perbedaan lebih lanjut: pada tulah 1–3 tidak ada garis pemisah antara orang Israel dan orang Mesir, tetapi mulai tulah 4 dan seterusnya keduanya dibedakan dengan jelas.
 
-Tulah-tulah ini diarahkan melawan {{% bible val="kuasa Mesir dan para dewanya" link="exo:12,12" lang="ind" %}}, bukan melawan manusia itu sendiri, {{% bible val="yang bahkan diberi peringatan" link="exo:9,18-21" lang="ind" %}} dan selalu dapat mencari perlindungan bersama orang Israel di tanah Gosyen.
+Tulah-tulah ini menghakimi {{% bible val="para dewa yang diandalkan Mesir" link="exo:12,12" lang="ind" %}}.[^gods] Tetapi tulah-tulah itu juga menjadi kesaksian. Berulang kali Allah meluputkan Gosyen, "supaya engkau mengetahui, bahwa Akulah TUHAN di negeri ini" (8:22–23; 9:26; 10:23; 11:7). Mesir melihat budak-budak yang Allahnya melindungi mereka dari tulah-tulah yang justru mematahkan para dewa Mesir.
 
-Inti dari tulah-tulah ini adalah untuk menunjukkan bahwa Allahlah Allah yang sesungguhnya, sehingga orang Mesir pun dapat mencari perlindungan pada-Nya bersama Israel — yang pada akhirnya memang dilakukan oleh banyak orang.
+Dan Mesir bukan sekadar Firaun. Putri Firaun sendiri membesarkan Musa (2:5–10). Para pegawai yang takut akan firman TUHAN {{% bible val="menyelamatkan orang-orang mereka" link="exo:9,18-21" lang="ind" %}} dan memohon kepada Firaun agar membiarkan Israel pergi (10:7). Rakyat Mesir sangat menghormati Musa (11:3) dan melepas Israel dengan pemberian (12:35–36), dan banyak orang dari berbagai-bagai bangsa pergi bersama mereka (12:38). Firaun mengeraskan hatinya; tidak seluruh Mesir demikian.
+
+Kitab Wahyu mempertahankan pola yang sama. Sebagaimana Gosyen diluputkan, umat Allah yang dimeteraikan pun diluputkan (Why. 9:4) — dan perlindungan serta kesaksian merekalah yang akhirnya membuat orang berbalik kepada Allah (11:13).[^witness]
 
 ## Tulah-Tulah Itu Secara Rinci
 
@@ -131,10 +135,14 @@ Untuk memahami mengapa tulah ini berbeda, ada baiknya kita mengingat kembali sed
 
 Ada satu lapisan lagi di dalamnya. Anak sulung adalah ahli waris: jika Firaun mati, anak sulungnyalah yang menggantikan tempatnya — tetapi jika anak sulung itu sendiri yang mati, siapa yang tersisa untuk menggantikannya? Dan karena para dewa Mesir diwakili oleh binatang-binatang (Horus sang elang, Heket sang katak, Hathor sang sapi), {{% bible val="kematian binatang-binatang sulung itu juga merupakan pukulan terhadap masa depan para dewa Mesir" link="exo:12,12" lang="ind" %}} itu sendiri.
 
-Karena {{% bible val="'hati yang kuat' Firaun" link="exo:10,7" lang="ind" %}}, rakyat Mesir {{% bible val="sudah berpihak kepada Musa" link="exo:11,3" lang="ind" %}}, dan kematian anak sulung (yang menunjukkan bahwa Mesir tidak lagi memiliki masa depan untuk ditawarkan) membantu mendorong orang Mesir kepada Allah, {{% bible val="dan banyak yang melakukannya" link="exo:12,38" lang="ind" %}} dengan pergi bersama Israel.
+Karena {{% bible val="'hati yang kuat' Firaun" link="exo:10,7" lang="ind" %}}, rakyat Mesir {{% bible val="sudah berpihak kepada Musa" link="exo:11,3" lang="ind" %}}, dan kematian anak sulung (yang menunjukkan bahwa Mesir tidak lagi memiliki masa depan untuk ditawarkan) membantu mendorong orang Mesir kepada Allah, dan {{% bible val="banyak orang dari berbagai-bagai bangsa" link="exo:12,38" lang="ind" %}} pergi bersama Israel.
 
 Sebelum tulah kesepuluh menghantam, {{% bible val="Paskah diperkenalkan" link="exo:12,1-13" lang="ind" %}} — perlindungan dari tulah itu, tetapi juga asal mula Perjamuan Tuhan, dan semacam kelahiran Israel sebagai suatu bangsa, karena {{% bible val="perayaan itu terbuka bagi siapa saja yang ingin bergabung dengan Israel" link="exo:12,43-49" lang="ind" %}}. Bersamanya, {{% bible val="Hari Raya Roti Tidak Beragi diperkenalkan" link="exo:12,14-20" lang="ind" %}}, menegaskan bahwa {{% bible val="tidak ada waktu untuk menunggu, hanya waktu untuk bergegas" link="exo:12,12" lang="ind" %}}.
 
 Akhirnya, {{% bible val="tanda pada tangan dan dahi" link="exo:13,8-9" lang="ind" %}} diperkenalkan sebagai pengingat abadi: Allah telah membawa Israel keluar dari Mesir, Ia lebih berkuasa daripada para dewa Mesir, dan Israel tidak boleh melupakannya. Tanda itu, dengan kata lain, adalah sebuah tanda kesetiaan kepada Allah.
 
 [^heqet]: TDOT, jld. 13, hlm. 371; tentang Heket dan kebangkitan, Beale, hlm. 833.
+
+[^gods]: Beale, hlm. 465.
+
+[^witness]: Bauckham, *Climax*, hlm. 277–278.

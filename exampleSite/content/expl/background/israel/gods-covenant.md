@@ -40,14 +40,14 @@ This structure also explains the rules around multiple covenants. The weaker par
 
 The Bible is full of covenants between peoples along these lines: {{% bible val="Abraham and Abimelech" link="gen:21,22-32" lang="en" %}}, {{% bible val="Isaac and the Philistines" link="gen:26,12-33" lang="en" %}}, {{% bible val="Jacob and Laban" link="gen:31,22-54" lang="en" %}}, the men of {{% bible val="Gilead" link="1sa:11,1-11" lang="en" %}}, and {{% bible val="Ahab" link="1ki:20,1-34" lang="en" %}}.
 
-The phrase "making a covenant" literally means "cutting a covenant," a term drawn from the practice of offering a sacrifice during the covenant ceremony. That sacrifice did two things at once: it celebrated the covenant, and it showed what would happen if the weaker party broke it. The animals, cut in half, were lined up in two rows, and the weaker party walked between the pieces — a vivid, deliberate act of intimidation, illustrating exactly what would happen to him if he broke his word.
+The phrase "making a covenant" literally means "cutting a covenant," a term drawn from the practice of offering a sacrifice during the covenant ceremony. That sacrifice did two things at once: it celebrated the covenant, and it showed what would happen if the weaker party broke it. The animals, cut in half, were lined up in two rows, and the weaker party walked between the pieces. It was a curse taken on oneself: may this happen to me if I break my word (compare Jer 34:18).[^cut]
 
 ## The covenant with Abraham
 
 <a name="d269"></a>
-{{% bible val="In Genesis 15" link="gen:15" lang="en" %}}, this same pattern of sacrifice and intimidation is clearly present, yet God's covenant with Abraham turns it on its head compared to how covenants were normally made between nations at the time. God promised Abraham land and heirs, and the story includes the same scene of sacrifices cut in half and arranged in two lines. But the odd thing here is that it is not Abraham — the weaker party — who walks between the carcasses. It is God Himself.
+{{% bible val="In Genesis 15" link="gen:15" lang="en" %}}, this same pattern of sacrifice and self-curse is clearly present, yet God's covenant with Abraham turns it on its head compared to how covenants were normally made between nations at the time. God promised Abraham land and heirs, and the story includes the same scene of sacrifices cut in half and arranged in two lines. But the odd thing here is that it is not Abraham — the weaker party — who walks between the carcasses. It is God Himself.
 
-At that moment, fire representing God passes between the pieces: God takes Abraham's place under the curse. So when Abraham later breaks the covenant — by impregnating Hagar, for instance — it is God's own son who dies instead of Abraham's son.
+At that moment, fire representing God passes between the pieces: God takes Abraham's place under the curse. And that is how it came to pass. When the covenant was broken, God took the curse on himself: Christ "became a curse for us", so that "the blessing given to Abraham might come to the Gentiles" (Gal 3:13–14).
 
 The covenant with Abraham is then defined in more detail through the {{% bible val="inclusion of circumcision" link="gen:17" lang="en" %}}.
 
@@ -60,7 +60,7 @@ A conquest covenant of this kind typically had five parts. First came the preamb
 
 This exact pattern shows up in the covenant God made with Israel. The preamble is {{% bible val="I am the Lord your God ..." link="exo:20,2" lang="en" %}}. The prologue follows immediately: {{% bible val="... Who brought you out of Egypt, out of the land of slavery (look at all I have done for you and know that I will do even more for you)" link="exo:20,2" lang="en" %}}. The demands begin with the first and, in a sense, foundational commandment: {{% bible val="Have only one God" link="exo:20,3-6" lang="en" %}}, from which the rest of the Ten Commandments follow. The blessings and curses appear in {{% bible val="Blessing" link="deu:28,1-14" lang="en" %}} and {{% bible val="Curse" link="deu:28,15-68" lang="en" %}} — consequences that only fully landed once the Israelites were in exile, though the warnings escalated gradually well before that, {{% bible val="each stage designed to make Israel reconsider its choices" link="lev:26,1-46" lang="en" %}} ("if you still do not listen, I will…"). God used this escalation to keep reminding His people of the covenant's terms. Finally, the witnesses called to the covenant were {{% bible val="heaven and earth" link="deu:30,19" lang="en" %}} themselves.
 
-The covenant also came with an ongoing requirement: it had to be {{% bible val="read again and again" link="deu:31,9-13" lang="en" %}} — {{% bible val="the king had to do this when he was crowned" link="deu:17,18-19" lang="en" %}}, and every seven years it was read aloud to the whole people. Each reading was accompanied by {{% bible val="a communal meal" link="exo:24,1-12" lang="en" %}}, and each party kept a copy of the commandments. This is why Moses received two tablets at Sinai: one stayed with God in the temple, and the other represented Israel's copy — so, in effect, both copies ended up in the temple.
+The covenant also came with an ongoing requirement: it had to be {{% bible val="read again and again" link="deu:31,9-13" lang="en" %}} — {{% bible val="the king had to do this when he was crowned" link="deu:17,18-19" lang="en" %}}, and every seven years it was read aloud to the whole people. Each reading was accompanied by {{% bible val="a communal meal" link="exo:24,1-12" lang="en" %}}, and each party kept a copy of the commandments. This is probably why Moses received two tablets at Sinai: two copies of the one covenant, one for each party. Since God lived among his people, both copies were laid in the ark (Exod 25:16; Deut 10:1–5).[^tablets]
 
 Crucially, the terms of God's covenant were never impossible, unlike many earthly covenants that set the weaker party up to fail. God's people could have kept the terms. They simply chose not to.
 
@@ -78,3 +78,7 @@ Revelation is soaked in this covenant thinking, even where it never uses the wor
 - **Nothing added, nothing taken away.** Revelation closes with the covenant's own warning — {{% bible val="if anyone adds anything… if anyone takes words away" link="rev:22,18-19" lang="en" %}} — the words Moses used for the law ({{% bible val="Deut 4:2" link="deu:4,2" lang="en" %}}; Beale, pp. 1151–1152).
 
 Seen this way, Revelation is not a new set of rules but the old covenant pattern fulfilled: the great King speaks, warns and keeps his promises — now through Jesus.
+
+[^cut]: Sandra Richter, *The Epic of Eden*; Westermann, *Genesis 12–36*, p. 225.
+
+[^tablets]: Meredith Kline, *Treaty of the Great King* (1963). The usual alternative is one text written across two tablets, front and back (Exod 32:15).

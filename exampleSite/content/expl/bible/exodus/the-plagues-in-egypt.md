@@ -19,6 +19,8 @@ sources:
       ref: beale_rev
     - pages: "vol. 13: 371"
       ref: tdot
+    - pages: 277–278
+      ref: bauckham_climax
 ---
 
 This is a story you likely heard in Sunday School, but there is much more to discover in it than you may have heard before.
@@ -54,9 +56,11 @@ The magicians follow a pattern too. They can imitate plagues 1 and 2, but cannot
 
 As the plagues continue, Pharaoh’s heart grows harder and Moses’ demands grow larger. And starting with plague 4, a further distinction appears: in plagues 1–3 no line is drawn between Israelites and Egyptians, but from plague 4 onward they are clearly distinguished.
 
-The plagues are directed against {{% bible val="the power of Egypt and its gods" link="exo:12,12" lang="en" %}}, not against the people themselves, {{% bible val="who are even given warning" link="exo:9,18-21" lang="en" %}} and can always find refuge with the Israelites in Goshen.
+The plagues judge {{% bible val="the gods Egypt trusted" link="exo:12,12" lang="en" %}}.[^gods] But they also bear witness. Again and again God spares Goshen, "so that you will know that I, the LORD, am in this land" (8:22–23; 9:26; 10:23; 11:7). Egypt sees slaves whose God protects them from the very plagues that break Egypt's gods.
 
-The point of the plagues is to show that God is the real God, so that the Egyptians, too, might seek refuge in Him alongside Israel — which, in the end, many did.
+And Egypt is not simply Pharaoh. Pharaoh's own daughter raised Moses (2:5–10). Officials who feared God's word {{% bible val="sheltered their people" link="exo:9,18-21" lang="en" %}} and begged Pharaoh to let Israel go (10:7). The Egyptian people thought highly of Moses (11:3) and sent Israel off with gifts (12:35–36), and a mixed crowd went with them (12:38). Pharaoh hardened his heart; not all Egypt did.
+
+Revelation keeps the same pattern. As Goshen was spared, God's sealed people are spared (Rev 9:4) — and it is their protection and their witness that finally turn people to God (11:13).[^witness]
 
 ## The plagues in detail
 
@@ -118,10 +122,14 @@ To understand why this plague is different, it helps to recall some background. 
 
 There is a further layer to it. The firstborn is the heir: if Pharaoh dies, his firstborn takes his place — but if the firstborn dies, who is left to take over? And since the gods of Egypt were represented by animals (Horus the falcon, Heqet the frog, Hathor the cow), {{% bible val="the death of the firstborn animals was also a blow against the future of the Egyptian gods" link="exo:12,12" lang="en" %}} themselves.
 
-Because of {{% bible val="Pharaoh’s 'strong heart'" link="exo:10,7" lang="en" %}}, the people of Egypt {{% bible val="were already in favor of Moses" link="exo:11,3" lang="en" %}}, and the death of the firstborn (showing that Egypt had no future left to offer) helped push the Egyptians toward God, {{% bible val="and many did" link="exo:12,38" lang="en" %}} leave with Israel.
+Because of {{% bible val="Pharaoh’s 'strong heart'" link="exo:10,7" lang="en" %}}, the people of Egypt {{% bible val="were already in favor of Moses" link="exo:11,3" lang="en" %}}, and the death of the firstborn (showing that Egypt had no future left to offer) helped push the Egyptians toward God, and {{% bible val="a mixed crowd" link="exo:12,38" lang="en" %}} left with Israel.
 
 Before the tenth plague strikes, the {{% bible val="Passover is introduced" link="exo:12,1-13" lang="en" %}} — protection from the plague, but also the origin of the Lord’s Supper, and something like the birth of Israel as a people, since it {{% bible val="was open to anyone who wanted to join Israel" link="exo:12,43-49" lang="en" %}}. Alongside it, {{% bible val="the Feast of Unleavened Bread is introduced" link="exo:12,14-20" lang="en" %}}, underscoring that there is {{% bible val="no time to wait, only to hurry" link="exo:12,12" lang="en" %}}.
 
 Finally, the {{% bible val="sign on the hand and forehead" link="exo:13,8-9" lang="en" %}} is introduced as a lasting reminder: God brought Israel out of Egypt, He is more powerful than the Egyptian gods, and Israel must not forget it. The sign, in other words, is a mark of loyalty to God.
 
 [^heqet]: TDOT, vol. 13, p. 371; on Heqet and resurrection, Beale, p. 833.
+
+[^gods]: Beale, p. 465.
+
+[^witness]: Bauckham, *Climax*, pp. 277–278.

@@ -19,6 +19,8 @@ sources:
       ref: beale_rev
     - pages: "vol. 13: 371"
       ref: tdot
+    - pages: 277–278
+      ref: bauckham_climax
 ---
 
 Diese Geschichte hast du wahrscheinlich schon im Kindergottesdienst gehört, aber es gibt darin viel mehr zu entdecken, als du bisher vielleicht wahrgenommen hast.
@@ -54,9 +56,11 @@ Auch die Zauberer folgen einem Muster. Sie können die Plagen 1 und 2 nachahmen,
 
 Je weiter die Plagen fortschreiten, desto härter wird das Herz des Pharao und desto größer werden Mose’ Forderungen. Und ab Plage 4 zeigt sich eine weitere Unterscheidung: Bei den Plagen 1–3 wird keine Grenze zwischen Israeliten und Ägyptern gezogen, aber ab Plage 4 werden sie deutlich unterschieden.
 
-Die Plagen richten sich gegen {{% bible val="die Macht Ägyptens und seiner Götter" link="exo:12,12" lang="de" %}}, nicht gegen die Menschen selbst, {{% bible val="die sogar gewarnt werden" link="exo:9,18-21" lang="de" %}} und jederzeit bei den Israeliten in Goschen Zuflucht finden können.
+Die Plagen richten {{% bible val="die Götter, auf die Ägypten vertraute" link="exo:12,12" lang="de" %}}.[^gods] Aber sie legen auch Zeugnis ab. Immer wieder verschont Gott Goschen, „damit du erkennst, dass ich, der HERR, mitten im Land bin“ (8,18–19; 9,26; 10,23; 11,7). Ägypten sieht Sklaven, deren Gott sie vor genau den Plagen schützt, die Ägyptens Götter zerbrechen.
 
-Der Sinn der Plagen ist es zu zeigen, dass Gott der wahre Gott ist, damit auch die Ägypter neben Israel Zuflucht bei ihm suchen — was am Ende viele auch taten.
+Und Ägypten ist nicht einfach der Pharao. Die Tochter des Pharao zog Mose auf (2,5–10). Beamte, die Gottes Wort fürchteten, {{% bible val="brachten ihre Leute in Sicherheit" link="exo:9,18-21" lang="de" %}} und drängten den Pharao, Israel ziehen zu lassen (10,7). Das ägyptische Volk hielt viel von Mose (11,3) und gab Israel Geschenke mit auf den Weg (12,35–36), und viel fremdes Volk zog mit ihnen (12,38). Der Pharao verhärtete sein Herz; nicht ganz Ägypten tat es.
+
+Die Offenbarung behält dasselbe Muster bei. Wie Goschen verschont wurde, so werden Gottes Versiegelte verschont (Offb 9,4) — und es sind ihr Schutz und ihr Zeugnis, die Menschen schließlich zu Gott wenden (11,13).[^witness]
 
 ## Die Plagen im Detail
 
@@ -129,10 +133,14 @@ Um zu verstehen, warum diese Plage anders ist, hilft ein Blick auf den Hintergru
 
 Es gibt noch eine weitere Ebene. Der Erstgeborene ist der Erbe: Wenn der Pharao stirbt, tritt sein Erstgeborener an seine Stelle — aber wenn der Erstgeborene stirbt, wer bleibt dann übrig, um die Nachfolge anzutreten? Und da die Götter Ägyptens durch Tiere dargestellt wurden (Horus der Falke, Heqet der Frosch, Hathor die Kuh), war {{% bible val="der Tod der erstgeborenen Tiere auch ein Schlag gegen die Zukunft der ägyptischen Götter" link="exo:12,12" lang="de" %}} selbst.
 
-Wegen {{% bible val="des „starken Herzens“ des Pharao" link="exo:10,7" lang="de" %}} war das Volk Ägyptens {{% bible val="bereits auf der Seite des Mose" link="exo:11,3" lang="de" %}}, und der Tod der Erstgeburt (der zeigte, dass Ägypten keine Zukunft mehr zu bieten hatte) trieb die Ägypter weiter zu Gott hin, {{% bible val="und viele taten es" link="exo:12,38" lang="de" %}} und zogen mit Israel aus.
+Wegen {{% bible val="des „starken Herzens“ des Pharao" link="exo:10,7" lang="de" %}} war das Volk Ägyptens {{% bible val="bereits auf der Seite des Mose" link="exo:11,3" lang="de" %}}, und der Tod der Erstgeburt (der zeigte, dass Ägypten keine Zukunft mehr zu bieten hatte) trieb die Ägypter weiter zu Gott hin, und {{% bible val="viel fremdes Volk" link="exo:12,38" lang="de" %}} zog mit Israel aus.
 
 Bevor die zehnte Plage zuschlägt, wird das {{% bible val="Passah eingeführt" link="exo:12,1-13" lang="de" %}} — Schutz vor der Plage, aber auch der Ursprung des Abendmahls und so etwas wie die Geburtsstunde Israels als Volk, denn es {{% bible val="stand jedem offen, der sich Israel anschließen wollte" link="exo:12,43-49" lang="de" %}}. Zusammen damit wird das {{% bible val="Fest der ungesäuerten Brote eingeführt" link="exo:12,14-20" lang="de" %}}, das unterstreicht, dass {{% bible val="keine Zeit zum Warten bleibt, sondern nur zum Aufbruch" link="exo:12,12" lang="de" %}}.
 
 Schließlich wird das {{% bible val="Zeichen an Hand und Stirn" link="exo:13,8-9" lang="de" %}} als bleibende Erinnerung eingeführt: Gott hat Israel aus Ägypten herausgeführt, er ist mächtiger als die ägyptischen Götter, und Israel darf das nicht vergessen. Das Zeichen ist mit anderen Worten ein Zeichen der Treue zu Gott.
 
 [^heqet]: TDOT, Bd. 13, S. 371; zu Heqet und Auferstehung Beale, S. 833.
+
+[^gods]: Beale, S. 465.
+
+[^witness]: Bauckham, *Climax*, S. 277–278.

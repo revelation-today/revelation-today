@@ -10,6 +10,8 @@ sources:
       ref: brueggemann_gen
     - pages: "vol. 11: 16"
       ref: tdot
+    - pages: "vol. 13: 59"
+      ref: tdot
 ---
 
 To understand the end of the Bible, you have to understand its beginning. Did you know that the tree of life from the story of the Fall, and the sign given to Cain, both reappear in the book of Revelation?
@@ -59,17 +61,17 @@ Even then, Adam doesn't confess — he blames everyone but himself: "the woman *
 <a name="9174"></a>
 God judges the serpent without a single mitigating word, and promises that the woman will bring forth the savior who destroys it.
 
-The man's judgment names the actual problem: "because you listened to the voice of your wife." The woman had been a dream come true, a gift straight from God — but instead of letting her draw him closer to God, the man let God's gift replace God himself. He obeyed her word instead of God's word. The fruit only exposed a problem that was already there: the man never led the woman to God in the first place. He waited for her to lead instead, a role never given to her, and so she ended up led by the serpent — a creature the man himself had been given dominion over.
+The man's judgment names the actual problem: "because you listened to the voice of your wife." The woman had been a dream come true, a gift straight from God — but instead of letting her draw him closer to God, the man let God's gift replace God himself. He obeyed her word instead of God's word. The fruit only exposed a problem that was already there. The man was "with her" the whole time (3:6) — present, and silent. And when God asks, he points at her: "the woman you put here with me." God does not accept the excuse.
 
 ## The unthinkable
 
 <a name="ac70"></a>
-They have to leave the garden, but first their shame is covered — with animal skins. Sit with that for a moment, because animal skins don't grow on trees. God has to damage his own creation and let animals die just to cover the shame of the man and woman. Those animals die in their place, and the clothing made from their skins is meant to make sure Adam and Eve never forget it.
+They have to leave the garden, but first their shame is covered — with animal skins. Sit with that for a moment, because animal skins don't grow on trees. God has to damage his own creation and let animals die just to cover the shame of the man and woman. The text does not call this a sacrifice. But Christian readers have long seen in it a first hint of what is to come: a life given so that shame can be covered.
 
 ## A new beginning
 
 <a name="e861"></a>
-After they leave the garden, Eve becomes pregnant and makes a striking statement: "I have gotten a child with the help of the Lord." It was obviously Adam's child, but the name she gives him — Cain, meaning "treasure" — shows what she's really thinking. Perhaps she hopes Cain is her ticket back into the garden, the promised savior who will destroy the serpent. That hope becomes even clearer when she names her second son Abel — meaning "nothing" or "vapor."
+After they leave the garden, Eve becomes pregnant and makes a striking statement: "I have gotten a child with the help of the Lord." It was obviously Adam's child, but the name she gives him — Cain, which sounds like the Hebrew for "I have gotten" — shows what she's really thinking.[^cain] Perhaps she hopes Cain is her ticket back into the garden, the promised savior who will destroy the serpent. That hope becomes even clearer when she names her second son Abel — meaning "nothing" or "vapor."
 
 ## The explosion
 
@@ -78,9 +80,9 @@ It was hard for Cain to carry all his parents' expectation, and just as hard for
 
 One day they each bring a sacrifice — Cain from the grain, Abel from the flock — and God accepts Abel's but not Cain's. Cain becomes furious.
 
-What was the problem? Cain doesn't seem to understand the reason, but Abel may well have offered his sacrifice deliberately, in remembrance of what God did back in Eden to cover his parents' shame.
+What was the problem? Genesis does not say. The New Testament points to the heart, not the gift: "by faith Abel brought God a better offering" (Heb 11:4).
 
-As Cain's anger builds, God steps in immediately to warn him. Notably, sin here isn't described as an act already committed, but as an intention with a purpose still forming. Cain doesn't listen, and he kills his brother. When he is confronted, he repents, and — feeling unable to bear the consequences of what he's done — God places a protective sign on him.
+As Cain's anger builds, God steps in immediately to warn him. Notably, sin here isn't described as an act already committed, but as an intention with a purpose still forming. Cain doesn't listen, and he kills his brother. When he is confronted, he does not repent. He complains that his punishment is more than he can bear — and even so, God places a protective sign on him.
 
 ## The scandal
 
@@ -91,3 +93,4 @@ He is the first man on record to take two wives, and he openly mocks the protect
 
 And yet he is also, in his own way, a laughing stock. He doesn't dare announce this boast to the world — only to his wife, in private. And who, exactly, is left to avenge Lamech if someone kills him? His wives?
 
+[^cain]: TDOT, vol. 13, p. 59.

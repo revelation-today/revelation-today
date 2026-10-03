@@ -10,6 +10,8 @@ sources:
       ref: brueggemann_gen
     - pages: "vol. 11: 16"
       ref: tdot
+    - pages: "vol. 13: 59"
+      ref: tdot
 ---
 
 Um das Ende der Bibel zu verstehen, muss man ihren Anfang verstehen. Wusstest du, dass der Baum des Lebens aus der Geschichte vom Sündenfall und das Zeichen, das Kain erhielt, beide in der Offenbarung wieder auftauchen?
@@ -59,17 +61,17 @@ Selbst dann gesteht Adam nicht — er gibt allen anderen die Schuld außer sich 
 <a name="a804"></a>
 Gott richtet die Schlange, ohne ein einziges mildernde Wort, und verheißt, dass die Frau den Retter zur Welt bringen wird, der sie vernichtet.
 
-Das Urteil über den Mann benennt das eigentliche Problem: „weil du auf die Stimme deiner Frau gehört hast“. Die Frau war ein wahr gewordener Traum gewesen, ein Geschenk direkt von Gott — aber anstatt sich durch sie näher zu Gott ziehen zu lassen, ließ der Mann Gottes Geschenk an die Stelle Gottes selbst treten. Er gehorchte ihrem Wort statt dem Wort Gottes. Die Frucht deckte nur ein Problem auf, das bereits vorhanden war: Der Mann hatte die Frau von Anfang an nicht zu Gott geführt. Stattdessen wartete er darauf, dass sie ihn führte — eine Rolle, die ihr nie zugedacht war —, und so ließ sie sich schließlich von der Schlange führen, einem Geschöpf, über das der Mann selbst die Herrschaft erhalten hatte.
+Das Urteil über den Mann benennt das eigentliche Problem: „weil du auf die Stimme deiner Frau gehört hast“. Die Frau war ein wahr gewordener Traum gewesen, ein Geschenk direkt von Gott — aber anstatt sich durch sie näher zu Gott ziehen zu lassen, ließ der Mann Gottes Geschenk an die Stelle Gottes selbst treten. Er gehorchte ihrem Wort statt dem Wort Gottes. Die Frucht deckte nur ein Problem auf, das bereits vorhanden war. Der Mann war die ganze Zeit „bei ihr“ (3,6) — anwesend und stumm. Und als Gott fragt, zeigt er auf sie: „Die Frau, die du mir zugesellt hast.“ Gott lässt die Ausrede nicht gelten.
 
 ## Das Undenkbare
 
 <a name="9de4"></a>
-Sie müssen den Garten verlassen, aber zuvor wird ihre Scham bedeckt — mit Tierfellen. Halte einen Moment inne, denn Tierfelle wachsen nicht auf Bäumen. Gott muss seine eigene Schöpfung beschädigen und Tiere sterben lassen, nur um die Scham des Mannes und der Frau zu bedecken. Diese Tiere sterben an ihrer Stelle, und die aus ihren Fellen gemachte Kleidung soll dafür sorgen, dass Adam und Eva das nie vergessen.
+Sie müssen den Garten verlassen, aber zuvor wird ihre Scham bedeckt — mit Tierfellen. Halte einen Moment inne, denn Tierfelle wachsen nicht auf Bäumen. Gott muss seine eigene Schöpfung beschädigen und Tiere sterben lassen, nur um die Scham des Mannes und der Frau zu bedecken. Der Text nennt das kein Opfer. Aber christliche Leser haben darin seit Langem einen ersten Hinweis auf das Kommende gesehen: ein Leben, das gegeben wird, damit Scham bedeckt werden kann.
 
 ## Ein neuer Anfang
 
 <a name="ce2a"></a>
-Nachdem sie den Garten verlassen haben, wird Eva schwanger und macht eine bemerkenswerte Aussage: „Ich habe mit der Hilfe des Herrn ein Kind bekommen.“ Es war offensichtlich Adams Kind, aber der Name, den sie ihm gibt — Kain, was „Schatz“ bedeutet — zeigt, was sie wirklich denkt. Vielleicht hofft sie, dass Kain ihr Ticket zurück in den Garten ist, der verheißene Retter, der die Schlange vernichten wird. Diese Hoffnung wird noch deutlicher, als sie ihren zweiten Sohn Abel nennt — was „nichts“ oder „Hauch“ bedeutet.
+Nachdem sie den Garten verlassen haben, wird Eva schwanger und macht eine bemerkenswerte Aussage: „Ich habe mit der Hilfe des Herrn ein Kind bekommen.“ Es war offensichtlich Adams Kind, aber der Name, den sie ihm gibt — Kain, was wie das hebräische „ich habe erworben“ klingt — zeigt, was sie wirklich denkt.[^cain] Vielleicht hofft sie, dass Kain ihr Ticket zurück in den Garten ist, der verheißene Retter, der die Schlange vernichten wird. Diese Hoffnung wird noch deutlicher, als sie ihren zweiten Sohn Abel nennt — was „nichts“ oder „Hauch“ bedeutet.
 
 ## Die Explosion
 
@@ -78,9 +80,9 @@ Es war schwer für Kain, all die Erwartungen seiner Eltern zu tragen, und ebenso
 
 Eines Tages bringen sie beide ein Opfer dar — Kain vom Getreide, Abel von der Herde —, und Gott nimmt Abels Opfer an, aber nicht das von Kain. Kain wird wütend.
 
-Was war das Problem? Kain scheint den Grund nicht zu verstehen, aber Abel hat sein Opfer möglicherweise bewusst dargebracht, in Erinnerung daran, was Gott einst in Eden getan hat, um die Scham seiner Eltern zu bedecken.
+Was war das Problem? Das erste Buch Mose sagt es nicht. Das Neue Testament verweist auf das Herz, nicht auf die Gabe: „Durch den Glauben hat Abel Gott ein besseres Opfer dargebracht“ (Hebr 11,4).
 
-Als Kains Zorn wächst, greift Gott sofort ein, um ihn zu warnen. Bemerkenswert ist, dass die Sünde hier nicht als bereits begangene Tat beschrieben wird, sondern als eine Absicht, deren Ziel sich noch formt. Kain hört nicht darauf und tötet seinen Bruder. Zur Rede gestellt, bereut er, und — weil er sich außerstande fühlt, die Folgen seiner Tat zu tragen — legt Gott ein schützendes Zeichen auf ihn.
+Als Kains Zorn wächst, greift Gott sofort ein, um ihn zu warnen. Bemerkenswert ist, dass die Sünde hier nicht als bereits begangene Tat beschrieben wird, sondern als eine Absicht, deren Ziel sich noch formt. Kain hört nicht darauf und tötet seinen Bruder. Zur Rede gestellt, bereut er nicht. Er klagt, seine Strafe sei zu schwer zu tragen — und dennoch legt Gott ein schützendes Zeichen auf ihn.
 
 ## Der Skandal
 
@@ -90,3 +92,5 @@ Kains Nachkommen werden immer zahlreicher und finden Zuflucht in Städten und in
 Er ist der erste Mann, von dem berichtet wird, dass er sich zwei Frauen nahm, und er verspottet offen das schützende Zeichen, das Gott seinem Vorfahren Kain gegeben hatte. Er hat bereits einen Mann getötet — genau das, was jenes Zeichen verhindern sollte — und prahlt damit, dass die Folgen für jeden, der ihn anrührt, weit größer sein werden als die von Gott verheißenen Folgen für Kain. Erhebt er damit den Anspruch, größer zu sein als Gott selbst?
 
 Und doch ist er auf seine eigene Weise auch eine Lachnummer. Er wagt es nicht, diese Prahlerei der Welt zu verkünden — nur seiner Frau, im Vertrauen. Und wer genau bliebe übrig, um Lamech zu rächen, sollte ihn jemand töten? Seine Frauen?
+
+[^cain]: TDOT, Bd. 13, S. 59.

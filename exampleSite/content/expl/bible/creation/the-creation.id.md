@@ -10,6 +10,8 @@ sources:
       ref: brueggemann_gen
     - pages: "vol. 11: 16"
       ref: tdot
+    - pages: "vol. 13: 59"
+      ref: tdot
 ---
 
 Untuk memahami akhir Alkitab, kita perlu memahami permulaannya. Tahukah Anda bahwa pohon kehidupan dari kisah kejatuhan, dan tanda yang diberikan kepada Kain, keduanya muncul kembali dalam Kitab Wahyu?
@@ -59,17 +61,17 @@ Bahkan pada titik itu, Adam tidak mengaku — ia menyalahkan siapa saja selain d
 <a name="a804"></a>
 Allah menghakimi ular itu tanpa satu kata pun yang meringankan, dan berjanji bahwa perempuan itu akan melahirkan sang penyelamat yang akan menghancurkannya.
 
-Penghakiman atas laki-laki itu menyebut persoalan yang sesungguhnya: "karena engkau mendengarkan suara istrimu." Perempuan itu adalah sebuah impian yang menjadi nyata, sebuah pemberian langsung dari Allah — tetapi alih-alih membiarkan perempuan itu menariknya lebih dekat kepada Allah, laki-laki itu membiarkan pemberian Allah menggantikan Allah sendiri. Ia menaati perkataan perempuan itu, bukan perkataan Allah. Buah itu hanya menyingkapkan persoalan yang sudah ada sejak semula: sejak awal, laki-laki itu tidak pernah menuntun perempuan itu kepada Allah. Ia malah menunggu perempuan itu yang menuntun, sebuah peran yang tidak pernah diberikan kepadanya, sehingga akhirnya perempuan itu dituntun oleh ular — makhluk yang justru diberikan kepada laki-laki itu untuk dikuasai.
+Penghakiman atas laki-laki itu menyebut persoalan yang sesungguhnya: "karena engkau mendengarkan suara istrimu." Perempuan itu adalah sebuah impian yang menjadi nyata, sebuah pemberian langsung dari Allah — tetapi alih-alih membiarkan perempuan itu menariknya lebih dekat kepada Allah, laki-laki itu membiarkan pemberian Allah menggantikan Allah sendiri. Ia menaati perkataan perempuan itu, bukan perkataan Allah. Buah itu hanya menyingkapkan persoalan yang sudah ada sejak semula. Laki-laki itu "bersama-sama dengan dia" sepanjang waktu (3:6) — hadir, dan diam. Dan ketika Allah bertanya, ia menunjuk kepada perempuan itu: "Perempuan yang Kautempatkan di sisiku." Allah tidak menerima dalih itu.
 
 ## Hal yang Tak Terbayangkan
 
 <a name="9de4"></a>
-Mereka harus meninggalkan taman itu, tetapi terlebih dahulu rasa malu mereka ditutupi — dengan kulit binatang. Renungkanlah hal itu sejenak, sebab kulit binatang tidak tumbuh di pohon. Allah harus merusak ciptaan-Nya sendiri dan membiarkan binatang-binatang mati hanya untuk menutupi rasa malu laki-laki dan perempuan itu. Binatang-binatang itu mati menggantikan mereka, dan pakaian yang dibuat dari kulit mereka dimaksudkan untuk memastikan Adam dan Hawa tidak akan pernah melupakannya.
+Mereka harus meninggalkan taman itu, tetapi terlebih dahulu rasa malu mereka ditutupi — dengan kulit binatang. Renungkanlah hal itu sejenak, sebab kulit binatang tidak tumbuh di pohon. Allah harus merusak ciptaan-Nya sendiri dan membiarkan binatang-binatang mati hanya untuk menutupi rasa malu laki-laki dan perempuan itu. Teks itu tidak menyebut hal ini sebagai korban. Tetapi para pembaca Kristen sejak lama melihat di dalamnya isyarat pertama tentang apa yang akan datang: suatu nyawa yang diberikan supaya rasa malu dapat ditutupi.
 
 ## Sebuah Permulaan Baru
 
 <a name="ce2a"></a>
-Setelah mereka meninggalkan taman itu, Hawa mengandung dan membuat sebuah pernyataan yang mencolok: "Aku telah mendapat seorang anak laki-laki dengan pertolongan TUHAN." Anak itu jelas adalah anak Adam, tetapi nama yang ia berikan kepadanya — Kain, yang berarti "harta" — menunjukkan apa yang sesungguhnya ia pikirkan. Barangkali ia berharap Kain adalah tiketnya kembali ke taman itu, sang penyelamat yang dijanjikan yang akan menghancurkan ular itu. Harapan itu menjadi semakin jelas ketika ia menamai putra keduanya Habel — yang berarti "kesia-siaan" atau "uap."
+Setelah mereka meninggalkan taman itu, Hawa mengandung dan membuat sebuah pernyataan yang mencolok: "Aku telah mendapat seorang anak laki-laki dengan pertolongan TUHAN." Anak itu jelas adalah anak Adam, tetapi nama yang ia berikan kepadanya — Kain, yang bunyinya mirip kata Ibrani untuk "aku telah mendapat" — menunjukkan apa yang sesungguhnya ia pikirkan.[^cain] Barangkali ia berharap Kain adalah tiketnya kembali ke taman itu, sang penyelamat yang dijanjikan yang akan menghancurkan ular itu. Harapan itu menjadi semakin jelas ketika ia menamai putra keduanya Habel — yang berarti "kesia-siaan" atau "uap."
 
 ## Ledakan Itu
 
@@ -78,9 +80,9 @@ Berat bagi Kain untuk menanggung seluruh harapan orang tuanya, dan sama beratnya
 
 Suatu hari mereka masing-masing membawa persembahan — Kain dari hasil ladang, Habel dari kawanan ternaknya — dan Allah menerima persembahan Habel, tetapi tidak menerima persembahan Kain. Kain pun menjadi sangat marah.
 
-Apa persoalannya? Kain tampaknya tidak memahami alasannya, tetapi bisa jadi Habel sengaja mempersembahkan korbannya itu untuk mengenang apa yang telah dilakukan Allah di Eden guna menutupi rasa malu orang tua mereka.
+Apa persoalannya? Kitab Kejadian tidak mengatakannya. Perjanjian Baru menunjuk kepada hati, bukan kepada persembahannya: "Karena iman Habel telah mempersembahkan kepada Allah korban yang lebih baik" (Ibr. 11:4).
 
-Ketika kemarahan Kain semakin memuncak, Allah segera bertindak untuk memperingatkannya. Menariknya, dosa di sini tidak digambarkan sebagai sebuah tindakan yang sudah dilakukan, melainkan sebagai sebuah niat dengan tujuan yang masih terbentuk. Kain tidak mendengarkan, dan ia membunuh saudaranya. Ketika ia diperhadapkan dengan perbuatannya, ia menyesal, dan — karena merasa tidak sanggup menanggung akibat perbuatannya — Allah menaruh sebuah tanda pelindung padanya.
+Ketika kemarahan Kain semakin memuncak, Allah segera bertindak untuk memperingatkannya. Menariknya, dosa di sini tidak digambarkan sebagai sebuah tindakan yang sudah dilakukan, melainkan sebagai sebuah niat dengan tujuan yang masih terbentuk. Kain tidak mendengarkan, dan ia membunuh saudaranya. Ketika ia diperhadapkan dengan perbuatannya, ia tidak bertobat. Ia mengeluh bahwa hukumannya terlalu berat untuk ditanggung — dan sekalipun demikian, Allah menaruh sebuah tanda pelindung padanya.
 
 ## Skandal Itu
 
@@ -90,3 +92,5 @@ Keturunan Kain terus bertambah banyak, mencari perlindungan di kota-kota dan dal
 Ia adalah orang pertama yang tercatat mengambil dua istri, dan ia secara terang-terangan mengejek tanda pelindung yang telah diberikan Allah kepada leluhurnya, Kain. Ia sendiri sudah membunuh seseorang — justru hal yang seharusnya dicegah oleh tanda itu — dan menyombongkan diri bahwa konsekuensi bagi siapa pun yang menyentuhnya akan jauh lebih besar daripada konsekuensi yang dijanjikan Allah sendiri bagi Kain. Apakah ia mengklaim dirinya lebih besar daripada Allah sendiri?
 
 Namun, dengan caranya sendiri, ia juga menjadi bahan tertawaan. Ia tidak berani mengumumkan kesombongan ini kepada dunia — hanya kepada istrinya, secara pribadi. Dan siapa sebenarnya yang tersisa untuk membalaskan dendam Lamekh jika seseorang membunuhnya? Istri-istrinya?
+
+[^cain]: TDOT, jld. 13, hlm. 59.

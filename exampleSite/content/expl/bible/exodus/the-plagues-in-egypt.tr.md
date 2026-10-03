@@ -19,6 +19,8 @@ sources:
       ref: beale_rev
     - pages: "vol. 13: 371"
       ref: tdot
+    - pages: 277–278
+      ref: bauckham_climax
 ---
 
 Bu, muhtemelen Pazar okulunda duyduğunuz bir öykü, ama içinde daha önce hiç duymamış olabileceğiniz çok daha fazlası var.
@@ -54,9 +56,11 @@ Büyücüler de bir örüntü izler. 1. ve 2. belaları taklit edebilirler, ama 
 
 Belalar sürdükçe Firavun’un yüreği daha da katılaşır, Musa’nın talepleri de büyür. Ve 4. beladan başlayarak yeni bir ayrım ortaya çıkar: 1–3. belalarda İsrailliler’le Mısırlılar arasında hiçbir çizgi çekilmezken, 4. beladan itibaren ikisi açıkça birbirinden ayrılır.
 
-Belalar {{% bible val="Mısır’ın ve tanrılarının gücüne" link="exo:12,12" lang="tr" %}} karşıdır, halkın kendisine karşı değil; halk {{% bible val="önceden uyarılır bile" link="exo:9,18-21" lang="tr" %}} ve her zaman Goşen’de İsrailliler’in yanında sığınak bulabilir.
+Belalar {{% bible val="Mısır’ın güvendiği tanrıları" link="exo:12,12" lang="tr" %}} yargılar.[^gods] Ama aynı zamanda tanıklık eder. Tanrı Goşen’i tekrar tekrar esirger; “öyle ki, bu ülkede RAB’bin ben olduğumu bilesin” (8:22–23; 9:26; 10:23; 11:7). Mısır, Tanrı’sı kendilerini tam da Mısır’ın tanrılarını kıran belalardan koruyan köleler görür.
 
-Belaların amacı, gerçek Tanrı’nın kim olduğunu göstermektir; öyle ki Mısırlılar da İsrail’le birlikte O’na sığınsın — nitekim sonunda birçoğu böyle yapmıştır.
+Ve Mısır yalnızca Firavun değildir. Musa’yı Firavun’un kendi kızı büyüttü (2:5–10). RAB’bin sözünden korkan görevliler {{% bible val="adamlarını sığınağa aldı" link="exo:9,18-21" lang="tr" %}} ve Firavun’a İsrail’i salıvermesi için yalvardı (10:7). Mısır halkı Musa’ya büyük saygı duyuyordu (11:3) ve İsrail’i armağanlarla uğurladı (12:35–36); karışık bir kalabalık da onlarla birlikte gitti (12:38). Firavun yüreğini katılaştırdı; bütün Mısır değil.
+
+Vahiy aynı örüntüyü korur. Goşen esirgendiği gibi, Tanrı’nın mühürlü halkı da esirgenir (Va. 9:4) — ve insanları sonunda Tanrı’ya döndüren, onların korunması ve tanıklığıdır (11:13).[^witness]
 
 ## Belalar ayrıntılı olarak
 
@@ -131,10 +135,14 @@ Bu belanın neden farklı olduğunu anlamak için biraz arka plana bakmakta fayd
 
 Bunun bir katmanı daha vardır. İlk doğan, varistir: Firavun ölürse yerine ilk doğanı geçer — ama ilk doğan ölürse, yerine geçecek kim kalır? Ve Mısır’ın tanrıları hayvanlarla temsil edildiğinden (şahin Horus, kurbağa Heket, inek Hathor), {{% bible val="ilk doğan hayvanların ölümü de Mısır tanrılarının geleceğine karşı bir darbe olmuştur" link="exo:12,12" lang="tr" %}}.
 
-{{% bible val="Firavun’un “katılaşmış yüreği” yüzünden" link="exo:10,7" lang="tr" %}} Mısır halkı {{% bible val="zaten Musa’dan yana bir tavır almıştı" link="exo:11,3" lang="tr" %}} ve ilk doğanın ölümü — Mısır’a artık sunacak bir gelecek kalmadığını göstererek — Mısırlılar’ı Tanrı’ya doğru itmeye yardımcı oldu; {{% bible val="nitekim birçoğu" link="exo:12,38" lang="tr" %}} İsrail’le birlikte ülkeyi terk etti.
+{{% bible val="Firavun’un “katılaşmış yüreği” yüzünden" link="exo:10,7" lang="tr" %}} Mısır halkı {{% bible val="zaten Musa’dan yana bir tavır almıştı" link="exo:11,3" lang="tr" %}} ve ilk doğanın ölümü — Mısır’a artık sunacak bir gelecek kalmadığını göstererek — Mısırlılar’ı Tanrı’ya doğru itmeye yardımcı oldu; {{% bible val="karışık bir kalabalık" link="exo:12,38" lang="tr" %}} da İsrail’le birlikte ülkeyi terk etti.
 
 Onuncu bela gelmeden önce {{% bible val="Fısıh tanıtılır" link="exo:12,1-13" lang="tr" %}} — hem beladan koruma sağlar, hem de Rab’bin Sofrası’nın kökenidir, hem de bir bakıma İsrail’in bir halk olarak doğuşudur, çünkü {{% bible val="İsrail’e katılmak isteyen herkese açıktı" link="exo:12,43-49" lang="tr" %}}. Bununla birlikte {{% bible val="Mayasız Ekmek Bayramı da tanıtılır" link="exo:12,14-20" lang="tr" %}}; bu da {{% bible val="beklemeye değil, yalnızca acele etmeye zaman olduğunu" link="exo:12,12" lang="tr" %}} vurgular.
 
 Son olarak, kalıcı bir hatırlatıcı olarak {{% bible val="el ve alın üzerindeki işaret" link="exo:13,8-9" lang="tr" %}} tanıtılır: Tanrı İsrail’i Mısır’dan çıkardı, Mısır’ın tanrılarından daha güçlüdür ve İsrail bunu asla unutmamalıdır. Bir başka deyişle bu işaret, Tanrı’ya bağlılığın bir simgesidir.
 
 [^heqet]: TDOT, c. 13, s. 371; Heket ve diriliş için Beale, s. 833.
+
+[^gods]: Beale, s. 465.
+
+[^witness]: Bauckham, *Climax*, s. 277–278.

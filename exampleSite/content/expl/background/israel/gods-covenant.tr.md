@@ -40,14 +40,14 @@ Bu yapı, birden fazla antlaşma etrafındaki kuralları da açıklar. Zayıf ta
 
 Kutsal Kitap bu doğrultuda halklar arasındaki antlaşmalarla doludur: {{% bible val="İbrahim ve Abimelek" link="gen:21,22-32" lang="tr" %}}, {{% bible val="İshak ve Filistliler" link="gen:26,12-33" lang="tr" %}}, {{% bible val="Yakup ve Laban" link="gen:31,22-54" lang="tr" %}}, {{% bible val="Gilead" link="1sa:11,1-11" lang="tr" %}} adamları ve {{% bible val="Ahab" link="1ki:20,1-34" lang="tr" %}}.
 
-"Antlaşma yapmak" ifadesi tam anlamıyla "antlaşma kesmek" demektir; bu terim, antlaşma töreni sırasında bir kurban sunma uygulamasından gelir. Bu kurban iki şeyi aynı anda yapardı: antlaşmayı kutlardı ve zayıf taraf antlaşmayı bozarsa ne olacağını gösterirdi. İkiye kesilen hayvanlar iki sıra halinde dizilir, zayıf taraf da parçaların arasından yürürdü — sözünü bozarsa başına tam olarak ne geleceğini gösteren, canlı ve kasıtlı bir korkutma eylemiydi bu.
+"Antlaşma yapmak" ifadesi tam anlamıyla "antlaşma kesmek" demektir; bu terim, antlaşma töreni sırasında bir kurban sunma uygulamasından gelir. Bu kurban iki şeyi aynı anda yapardı: antlaşmayı kutlardı ve zayıf taraf antlaşmayı bozarsa ne olacağını gösterirdi. İkiye kesilen hayvanlar iki sıra halinde dizilir, zayıf taraf da parçaların arasından yürürdü. Bu, kişinin kendi üzerine aldığı bir lanetti: sözümü bozarsam bu benim başıma gelsin (krş. Yer. 34:18).[^cut]
 
 ## İbrahim ile yapılan antlaşma
 
 <a name="908c"></a>
-{{% bible val="Yaratılış 15’te" link="gen:15" lang="tr" %}} bu aynı kurban ve korkutma modeli açıkça bulunur, ama Tanrı’nın İbrahim’le yaptığı antlaşma, o dönemde uluslar arasında antlaşmaların normalde nasıl yapıldığını tam tersine çevirir. Tanrı İbrahim’e toprak ve mirasçılar vaat etti ve öykü, ikiye kesilip iki sıra halinde dizilen kurbanların aynı sahnesini içerir. Ama buradaki tuhaflık, hayvan parçalarının arasından zayıf taraf olan İbrahim’in değil, Tanrı’nın kendisinin geçmesidir.
+{{% bible val="Yaratılış 15’te" link="gen:15" lang="tr" %}} bu aynı kurban ve kendini lanetleme modeli açıkça bulunur, ama Tanrı’nın İbrahim’le yaptığı antlaşma, o dönemde uluslar arasında antlaşmaların normalde nasıl yapıldığını tam tersine çevirir. Tanrı İbrahim’e toprak ve mirasçılar vaat etti ve öykü, ikiye kesilip iki sıra halinde dizilen kurbanların aynı sahnesini içerir. Ama buradaki tuhaflık, hayvan parçalarının arasından zayıf taraf olan İbrahim’in değil, Tanrı’nın kendisinin geçmesidir.
 
-O anda Tanrı’yı temsil eden ateş parçaların arasından geçer: Tanrı, lanet altında İbrahim’in yerini alır. Böylece İbrahim daha sonra antlaşmayı bozduğunda — örneğin Hacer’i gebe bırakarak — İbrahim’in oğlu değil, Tanrı’nın kendi Oğlu ölür.
+O anda Tanrı’yı temsil eden ateş parçaların arasından geçer: Tanrı, lanet altında İbrahim’in yerini alır. Ve öyle de oldu. Antlaşma bozulduğunda Tanrı laneti kendi üzerine aldı: Mesih "bizim için lanetli oldu"; öyle ki "İbrahim’e sağlanan kutsama öteki uluslara ulaşsın" (Gal. 3:13–14).
 
 İbrahim’le yapılan antlaşma daha sonra {{% bible val="sünnetin eklenmesiyle" link="gen:17" lang="tr" %}} daha ayrıntılı olarak tanımlanır.
 
@@ -60,7 +60,7 @@ Bu türden bir fetih antlaşmasının tipik olarak beş bölümü vardı. Önce,
 
 Bu tam model, Tanrı’nın İsrail’le yaptığı antlaşmada da karşımıza çıkar. Giriş bölümü {{% bible val="Ben Tanrın Rab’bim…" link="exo:20,2" lang="tr" %}} sözüdür. Önsöz hemen ardından gelir: {{% bible val="…Seni Mısır’dan, kölelik diyarından çıkaran (senin için yaptığım her şeye bak ve senin için daha fazlasını yapacağımı bil)" link="exo:20,2" lang="tr" %}}. Talepler, ilk ve bir bakıma temel buyrukla başlar: {{% bible val="Tek bir Tanrın olsun" link="exo:20,3-6" lang="tr" %}}; On Emir’in geri kalanı da bundan gelir. Kutsama ve lanetler {{% bible val="Kutsama" link="deu:28,1-14" lang="tr" %}} ile {{% bible val="Lanet" link="deu:28,15-68" lang="tr" %}} bölümlerinde görünür — bu sonuçlar ancak İsrailliler sürgüne gittiğinde tam anlamıyla gerçekleşti, ama uyarılar ondan çok önce, {{% bible val="her aşaması İsrail’i seçimlerini yeniden düşünmeye sevk edecek şekilde tasarlanmış olarak" link="lev:26,1-46" lang="tr" %}} kademeli biçimde şiddetlendi ("hâlâ dinlemezseniz, ben de…"). Tanrı bu kademeli artışı, halkına antlaşmanın şartlarını sürekli hatırlatmak için kullandı. Son olarak, antlaşmaya çağrılan tanıklar {{% bible val="göğün ve yerin" link="deu:30,19" lang="tr" %}} kendisiydi.
 
-Antlaşma ayrıca sürekli bir gereklilikle birlikte geldi: {{% bible val="tekrar tekrar okunması gerekiyordu" link="deu:31,9-13" lang="tr" %}} — {{% bible val="kral taç giydiğinde bunu yapmak zorundaydı" link="deu:17,18-19" lang="tr" %}} ve her yedi yılda bir tüm halka yüksek sesle okunurdu. Her okuma {{% bible val="ortak bir yemekle" link="exo:24,1-12" lang="tr" %}} birlikte yapılırdı ve her iki taraf da buyrukların birer kopyasını saklardı. Musa’nın Sina’da iki tablet almasının nedeni de budur: biri tapınakta Tanrı’yla kaldı, diğeri İsrail’in kopyasını temsil etti — yani sonuçta her iki kopya da tapınakta bulunuyordu.
+Antlaşma ayrıca sürekli bir gereklilikle birlikte geldi: {{% bible val="tekrar tekrar okunması gerekiyordu" link="deu:31,9-13" lang="tr" %}} — {{% bible val="kral taç giydiğinde bunu yapmak zorundaydı" link="deu:17,18-19" lang="tr" %}} ve her yedi yılda bir tüm halka yüksek sesle okunurdu. Her okuma {{% bible val="ortak bir yemekle" link="exo:24,1-12" lang="tr" %}} birlikte yapılırdı ve her iki taraf da buyrukların birer kopyasını saklardı. Musa’nın Sina’da iki tablet almasının nedeni büyük olasılıkla budur: tek antlaşmanın iki kopyası, her taraf için bir tane. Tanrı halkının arasında yaşadığından, iki kopya da sandığa konuldu (Çık. 25:16; Yas. 10:1–5).[^tablets]
 
 Önemli olan şu ki, birçok dünyevi antlaşmanın aksine, Tanrı’nın antlaşmasının şartları asla imkânsız değildi; zayıf tarafı başarısızlığa mahkûm etmiyordu. Tanrı’nın halkı şartları tutabilirdi. Sadece tutmamayı seçtiler.
 
@@ -78,3 +78,7 @@ Vahiy, bu sözcüğü hiç kullanmadığı yerlerde bile bu antlaşma düşünce
 - **Ne ekleme ne çıkarma.** Vahiy, antlaşmanın kendi uyarısıyla kapanır — {{% bible val="kim bunlara bir şey eklerse … kim bu sözlerden bir şey çıkarırsa" link="rev:22,18-19" lang="tr" %}} — Musa'nın yasa için kullandığı sözlerle ({{% bible val="Yasa'nın Tekrarı 4:2" link="deu:4,2" lang="tr" %}}; Beale, s. 1151–1152).
 
 Bu açıdan bakıldığında Vahiy yeni bir kurallar dizisi değil, eski antlaşma örüntüsünün gerçekleşmesidir: büyük Kral konuşur, uyarır ve vaatlerini tutar — şimdi İsa aracılığıyla.
+
+[^cut]: Sandra Richter, *The Epic of Eden*; Westermann, *Genesis 12–36*, s. 225.
+
+[^tablets]: Meredith Kline, *Treaty of the Great King* (1963). Yaygın alternatif: iki tablete, önlü arkalı yazılmış tek bir metin (Çık. 32:15).
