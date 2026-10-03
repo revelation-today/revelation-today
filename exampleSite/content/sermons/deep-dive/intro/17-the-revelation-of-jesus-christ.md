@@ -29,7 +29,7 @@ Revelation opens with a title, not a scene: "The revelation of Jesus Christ, whi
 
 ## A live question worth naming
 
-The source article's reading of Revelation 1:7 leans toward "the outcome is left open — repentance or judgment, we aren't told which will predominate." That's a real interpretive choice, and not the only one made in the history of the church; some readers hear more judgment emphasis here, others more hope. It's worth discussing which reading your group finds more textually convincing, rather than assuming the ambiguity is resolved.
+This series reads the mourning of Revelation 1:7 as repentance: the nations mourn over *him*, not over themselves, as in Zechariah 12:10, where the mourning comes from "a spirit of grace and supplication". The same coming brings terror to those who refuse him (6:15–17). That's a real interpretive choice, and not the only one made in the history of the church; some readers hear more judgment here. It's worth discussing which reading your group finds more textually convincing.
 
 ## Discussion questions
 

@@ -73,11 +73,12 @@ auseinanderzusetzen, auf die eine oder andere Weise.
 
 ## Eine lebendige Frage, die es wert ist, benannt zu werden
 
-Die Lesart des Quellartikels von Offenbarung 1,7 neigt zu „der Ausgang bleibt offen — Umkehr oder
-Gericht, uns wird nicht gesagt, was überwiegen wird". Das ist eine echte Auslegungsentscheidung,
-und nicht die einzige, die in der Geschichte der Kirche getroffen wurde; manche Leser hören hier
-mehr Betonung auf Gericht, andere mehr Hoffnung. Es lohnt sich zu diskutieren, welche Lesart eure
-Gruppe textlich überzeugender findet, statt anzunehmen, dass die Mehrdeutigkeit aufgelöst ist.
+Diese Reihe liest das Wehklagen in Offenbarung 1,7 als Umkehr: Die Völker klagen um *ihn*, nicht
+um sich selbst — wie in Sacharja 12,10, wo die Klage aus einem „Geist der Gnade und des Gebets"
+kommt. Dasselbe Kommen bringt Schrecken über die, die ihn ablehnen (6,15–17). Das ist eine echte
+Auslegungsentscheidung, und nicht die einzige, die in der Geschichte der Kirche getroffen wurde;
+manche Leser hören hier mehr Gericht. Es lohnt sich zu diskutieren, welche Lesart eure Gruppe
+textlich überzeugender findet.
 
 ## Gesprächsfragen
 

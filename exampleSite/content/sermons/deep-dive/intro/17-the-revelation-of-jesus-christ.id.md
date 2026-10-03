@@ -75,12 +75,12 @@ adalah panggilan global untuk berhitung dengan-Nya, dengan satu atau lain cara.
 
 ## Sebuah Pertanyaan Hidup yang Layak Disebutkan
 
-Pembacaan artikel sumber atas Wahyu 1:7 condong ke arah "hasilnya dibiarkan terbuka — pertobatan
-atau penghakiman, kita tidak diberitahu mana yang akan mendominasi." Itu adalah pilihan
-penafsiran yang nyata, dan bukan satu-satunya yang pernah dibuat dalam sejarah gereja; sebagian
-pembaca mendengar penekanan penghakiman yang lebih besar di sini, yang lain lebih banyak
-pengharapan. Layak didiskusikan pembacaan mana yang menurut kelompokmu lebih meyakinkan secara
-tekstual, bukan mengasumsikan ambiguitas itu sudah terselesaikan.
+Seri ini membaca ratapan dalam Wahyu 1:7 sebagai pertobatan: bangsa-bangsa meratapi *Dia*, bukan
+diri mereka sendiri — seperti dalam Zakharia 12:10, di mana ratapan itu lahir dari "roh pengasihan
+dan roh permohonan". Kedatangan yang sama membawa kengerian bagi mereka yang menolak Dia
+(6:15–17). Itu adalah pilihan penafsiran yang nyata, dan bukan satu-satunya yang pernah dibuat
+dalam sejarah gereja; sebagian pembaca mendengar lebih banyak penghakiman di sini. Layak
+didiskusikan pembacaan mana yang menurut kelompokmu lebih meyakinkan secara tekstual.
 
 ## Pertanyaan Diskusi
 

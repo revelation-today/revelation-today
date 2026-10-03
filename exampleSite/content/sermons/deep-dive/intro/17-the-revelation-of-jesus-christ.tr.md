@@ -69,11 +69,11 @@ O'nunla hesaplaşması için küresel bir çağrıdır.
 
 ## Üzerinde Durulmaya Değer Canlı Bir Soru
 
-Kaynak makalenin Vahiy 1:7 okuması, "sonuç açık bırakılmıştır — tövbe mi yargı mı, hangisinin
-baskın çıkacağı bize söylenmemiştir" yönüne eğiliyor. Bu gerçek bir yorumsal seçimdir ve kilise
-tarihinde yapılan tek seçim değildir; bazı okurlar burada daha fazla yargı vurgusu duyar, bazıları
-daha fazla umut. Belirsizliğin çözüldüğünü varsaymak yerine, grubunuzun hangi okumayı metinsel
-olarak daha ikna edici bulduğunu tartışmaya değer.
+Bu dizi, Vahiy 1:7'deki yas tutmayı tövbe olarak okur: uluslar kendileri için değil, *O'nun*
+için yas tutar — Zekeriya 12:10'da olduğu gibi; orada yas "lütuf ve yakarış ruhu"ndan doğar. Aynı
+geliş, O'nu reddedenlere dehşet getirir (6:15–17). Bu gerçek bir yorumsal seçimdir ve kilise
+tarihinde yapılan tek seçim değildir; bazı okurlar burada daha fazla yargı duyar. Grubunuzun
+hangi okumayı metinsel olarak daha ikna edici bulduğunu tartışmaya değer.
 
 ## Tartışma Soruları
 
