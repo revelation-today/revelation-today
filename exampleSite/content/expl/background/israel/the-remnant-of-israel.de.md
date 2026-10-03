@@ -97,7 +97,7 @@ Schließlich beschreibt eine Passage aus Hesekiel, wie die Nationen faktisch zu 
 
 Die Fremden gelten hier als vollständig zu Israel gehörig, mit denselben Rechten wie die dort Geborenen eingeschlossen. Dieses Muster zieht sich durch die ganze Geschichte Israels: {{% bible val="Ägypter" link="exo:12,38" lang="de" %}} erhielten {{% bible val="dieselben Rechte" link="exo:12,48-51" lang="de" %}} wie gebürtige Israeliten; {{% bible val="Rahab" link="jos:6,25" lang="de" %}} wurde {{% bible val="eingeschlossen" link="mat:1,5" lang="de" %}}; und {{% bible val="Rut" link="rut:1,16" lang="de" %}}, die {{% bible val="Moabiterin" link="rut:1,1-4" lang="de" %}}, wurde nicht nur eingeschlossen, sondern wurde zur Vorfahrin von {{% bible val="David" link="rut:4,10-16" lang="de" %}} und {{% bible val="Jesus" link="mat:1,5" lang="de" %}}.
 
-Die Passage in Hesekiel beschreibt Nichtjuden, die in Israel eingeheiratet haben, und die Tatsache, dass sie einen Anteil am Land erhielten, ist es, was sie als wirklich zu Israel gehörig kennzeichnet, denn {{% bible val="nur Israeliten können Land erhalten" link="lev:25,23" lang="de" %}}.
+Die Passage in Hesekiel beschreibt Fremde, die sich in Israel niedergelassen und dort Kinder bekommen haben, und die Tatsache, dass sie einen Anteil am Land erhalten, ist es, was sie als wirklich zu Israel gehörig kennzeichnet: {{% bible val="Das Land wurde den Stämmen und Sippen Israels zugeteilt" link="num:26,52-56" lang="de" %}}.
 
 ## Der Überrest in der Offenbarung
 

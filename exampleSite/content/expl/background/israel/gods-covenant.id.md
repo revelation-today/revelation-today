@@ -64,7 +64,7 @@ Perjanjian itu juga disertai sebuah tuntutan yang berkelanjutan: perjanjian itu 
 
 Yang terpenting, syarat-syarat perjanjian Allah tidak pernah mustahil untuk dipenuhi, tidak seperti banyak perjanjian di dunia yang justru dirancang agar pihak yang lebih lemah gagal memenuhinya. Umat Allah sebenarnya bisa saja menaati syarat-syarat itu. Mereka hanya memilih untuk tidak melakukannya.
 
-Melalui semua ini, Allah menyebut {{% bible val="diri-Nya sendiri Bapa Israel" link="exo:3,6" lang="ind" %}} — seorang bapak yang, meskipun terikat oleh syarat-syarat perjanjian, tetap penuh belas kasihan. Alkitab menangkap perpaduan itu dalam kata "hesed", yang biasanya diterjemahkan "kesetiaan perjanjian", sebuah kata yang cukup kaya makna sehingga dapat diterjemahkan sebagai "kasih", "kebaikan", "belas kasihan", atau "kesetiaan" tergantung pada konteksnya.
+Melalui semua ini, Allah menyebut {{% bible val="diri-Nya sendiri Bapa Israel" link="exo:4,22" lang="ind" %}} — seorang bapak yang, meskipun terikat oleh syarat-syarat perjanjian, tetap penuh belas kasihan. Alkitab menangkap perpaduan itu dalam kata "hesed", yang biasanya diterjemahkan "kesetiaan perjanjian", sebuah kata yang cukup kaya makna sehingga dapat diterjemahkan sebagai "kasih", "kebaikan", "belas kasihan", atau "kesetiaan" tergantung pada konteksnya.
 
 ## Perjanjian dalam Kitab Wahyu
 

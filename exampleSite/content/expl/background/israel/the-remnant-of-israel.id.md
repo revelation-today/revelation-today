@@ -97,7 +97,7 @@ Akhirnya, sebuah bagian dari Yehezkiel menggambarkan bagaimana bangsa-bangsa lai
 
 Orang-orang asing di sini dianggap sepenuhnya menjadi bagian dari Israel, disertakan dengan hak yang sama seperti mereka yang lahir di sana. Pola itu berulang di sepanjang sejarah Israel: {{% bible val="orang Mesir" link="exo:12,38" lang="ind" %}} menerima {{% bible val="hak yang sama" link="exo:12,48-51" lang="ind" %}} seperti orang Israel asli; {{% bible val="Rahab" link="jos:6,25" lang="ind" %}} {{% bible val="disertakan" link="mat:1,5" lang="ind" %}}; dan {{% bible val="Rut" link="rut:1,16" lang="ind" %}}, {{% bible val="perempuan Moab" link="rut:1,1-4" lang="ind" %}} itu, bukan hanya disertakan tetapi menjadi nenek moyang {{% bible val="Daud" link="rut:4,10-16" lang="ind" %}} dan {{% bible val="Yesus" link="mat:1,5" lang="ind" %}}.
 
-Bagian Yehezkiel ini menggambarkan orang bukan Yahudi yang menikah masuk ke dalam Israel, dan fakta bahwa mereka menerima bagian tanah itulah yang menandai mereka sebagai benar-benar bagian dari Israel, sebab {{% bible val="hanya orang Israel yang dapat menerima tanah" link="lev:25,23" lang="ind" %}}.
+Bagian Yehezkiel ini menggambarkan orang asing yang telah menetap di Israel dan mempunyai anak di sana, dan fakta bahwa mereka menerima bagian tanah itulah yang menandai mereka sebagai benar-benar bagian dari Israel: {{% bible val="tanah itu dibagikan kepada suku-suku dan kaum-kaum Israel" link="num:26,52-56" lang="ind" %}}.
 
 ## Sisa dalam Kitab Wahyu
 

@@ -29,8 +29,8 @@ The Bible is sharply critical of this system, because it obviously left people w
 
 God also has a habit of choosing important people — kings, no less — from the very families the culture would have overlooked:
 
-- {{% bible val="unimportant families" link="rut:4,16-17" lang="en" %}}: Ruth was half Moabite, and yet became the grandmother of King David.
-- foreigners ({{% bible val="see the three foreign women in Jesus family tree" link="mat:1,2-16" lang="en" %}}): the {{% bible val="Canaanite Tamar" link="gen:38" lang="en" %}}, the {{% bible val="half Moabite Ruth" link="rut:1,1-4" lang="en" %}}, and {{% bible val="Bathsheba" link="2sa:11,3" lang="en" %}}, the wife of a Hittite.
+- {{% bible val="unimportant families" link="rut:4,16-17" lang="en" %}}: Ruth was a Moabite, and yet became the great-grandmother of King David.
+- foreigners ({{% bible val="see the four women in Jesus' family tree" link="mat:1,2-16" lang="en" %}}): the {{% bible val="Canaanite Tamar" link="gen:38" lang="en" %}}, the {{% bible val="Rahab of Jericho" link="jos:6,25" lang="en" %}}, the {{% bible val="Moabite Ruth" link="rut:1,1-4" lang="en" %}}, and {{% bible val="Bathsheba" link="2sa:11,3" lang="en" %}}, the wife of a Hittite.
 
 The Bible also puts weight on the role of the redeemer — {{% bible val="the next of kin who needs to rescue" link="lev:25,47-49" lang="en" %}} a relative in trouble. This person was responsible for stepping in whenever a next of kin ran into serious difficulty: to {{% bible val="deliver from captivity" link="gen:14" lang="en" %}}, to pay to free someone from slavery, to {{% bible val="buy back property" link="lev:25,25-26" lang="en" %}} that had been sold off, or to {{% bible val="marry to bring out of trouble" link="rut:4" lang="en" %}} and {{% bible val="ensure offspring for a widow" link="gen:38,8" lang="en" %}}.
 
@@ -54,7 +54,7 @@ The first-born son held a leading {{% bible val="role among his siblings" link="
 
 {{% bible val="Reuben who, as the oldest son" link="exo:6,14" lang="en" %}} shows this responsibility in action: he was {{% bible val="very troubled when Joseph got lost" link="gen:37,21-30" lang="en" %}} and later {{% bible val="pledged his son for his family" link="gen:42,37" lang="en" %}} as surety.
 
-But the eldest son wasn't always the best leader for a family, and God repeatedly overturns the expected order — with {{% bible val="Jacob" link="gen:25,25-26" lang="en" %}}, {{% bible val="Manasseh" link="gen:48,13-20" lang="en" %}}, and {{% bible val="David" link="1sa:16,1-13" lang="en" %}} all displacing an older brother.
+But the eldest son wasn't always the best leader for a family, and God repeatedly overturns the expected order — with {{% bible val="Jacob" link="gen:25,25-26" lang="en" %}}, {{% bible val="Ephraim" link="gen:48,13-20" lang="en" %}}, and {{% bible val="David" link="1sa:16,1-13" lang="en" %}} all displacing an older brother.
 
 A woman, meanwhile, faced a genuinely precarious position: she belonged first to her father's family, then became a wife and joined her husband's family, and finally, after her husband's death, was taken care of by her sons within one of their families. The Bible {{% bible val="shows a woman who fell through all these nets" link="rut:1,1-5" lang="en" %}} — Ruth — and yet was {{% bible val="covered by her redeemer, Boaz" link="rut:4" lang="en" %}}. Tamar is another such case: {{% bible val="Tamar who is judged righteous because Judah did not provide her with a husband so that she would be protected by a family" link="gen:38,26" lang="en" %}} (the law she was owed: {{% bible val="Deut 25:5–10" link="deu:25,5-10" lang="en" %}}).
 

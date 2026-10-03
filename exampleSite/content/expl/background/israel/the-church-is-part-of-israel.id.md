@@ -56,7 +56,7 @@ Israel berulang kali disebut anak Allah sepanjang Perjanjian Lama:
 - {{% bible val="ketika Israel dijanjikan masa depan sebagai anak-anak Allah yang telah dewasa" link="hos:1,10" lang="ind" %}},
 - {{% bible val="ketika Allah mengingat kembali peristiwa Keluaran" link="hos:11,1" lang="ind" %}},
 - {{% bible val="ketika suku Efraim dari Israel disebut anak sulung" link="jer:31,9" lang="ind" %}},
-- dan {{% bible val="disebut sebagai anak sulung di antara keturunan Daud" link="psa:89,27" lang="ind" %}}.
+- dan {{% bible val="dalam rajanya, yang disebut Allah anak sulung-Nya" link="psa:89,27" lang="ind" %}}.
 
 Gereja, pada gilirannya, disebut anak Allah, sama seperti Yesus adalah Anak Allah — kita adalah {{% bible val="semua saudara-Nya" link="heb:2,11" lang="ind" %}} karena {{% bible val="kita semua telah diangkat menjadi anak oleh-Nya" link="gal:4,4-7" lang="ind" %}}. Sama seperti {{% bible val="Yesus adalah keturunan Abraham" link="gal:3,16" lang="ind" %}}, {{% bible val="demikian pula kita" link="gal:3,26-29" lang="ind" %}}. Kita adalah {{% bible val="anak-anak perjanjian, seperti Ishak" link="gal:4,28" lang="ind" %}}, dan {{% bible val="Yerusalem adalah ibu kita" link="gal:4,26" lang="ind" %}}.
 
@@ -98,7 +98,7 @@ Israel juga digambarkan sebagai pohon zaitun — misalnya, merujuk pada {{% bibl
 
 Gambaran ini dapat diterapkan kepada {{% bible val="individu-individu di Israel" link="psa:128,3" lang="ind" %}} atau kepada para pemimpin, seperti {{% bible val="seorang hakim di Israel" link="jdg:9,8-9" lang="ind" %}}, {{% bible val="Raja Daud" link="psa:52,8" lang="ind" %}}, atau {{% bible val="Yosua dan Zerubabel" link="zec:4,3-12" lang="ind" %}}.
 
-Perjanjian Baru memperluas gambaran ini: {{% bible val="bangsa-bangsa lain digambarkan menjadi bagian dari pohon zaitun itu" link="rom:11,17-24" lang="ind" %}}, dan {{% bible val="gereja diidentifikasikan" link="rev:1,20" lang="ind" %}} dengan {{% bible val="kedua pohon zaitun dari nabi Zakharia" link="zec:4,12-14" lang="ind" %}}, sebuah identifikasi yang dikembangkan lebih lanjut dalam {{% bible val="konteks kedua saksi" link="rev:11,4" lang="ind" %}}.
+Perjanjian Baru memperluas gambaran ini: {{% bible val="bangsa-bangsa lain digambarkan menjadi bagian dari pohon zaitun itu" link="rom:11,17-24" lang="ind" %}}, dan dalam Kitab Wahyu {{% bible val="kaki dian adalah jemaat-jemaat" link="rev:1,20" lang="ind" %}}, dan kedua saksi adalah {{% bible val="kaki dian sekaligus kedua pohon zaitun" link="rev:11,4" lang="ind" %}} dari {{% bible val="nabi Zakharia" link="zec:4,12-14" lang="ind" %}}.
 
 ## Milik Kesayangan Allah
 
@@ -128,7 +128,7 @@ Nubuat Yoel menggambarkan pemulihan Israel mulai dari {{% bible val="ayat 18" li
 
 Pencurahan itu akan terjadi {{% bible val="pada hari-hari terakhir" link="act:2,17" lang="ind" %}}, sebuah ungkapan yang dipakai dengan makna persis seperti itu dalam {{% bible val="Yesaya" link="isa:2,2" lang="ind" %}} dan dalam nubuat yang sama di Mikha 4:1, di mana ungkapan itu menggambarkan bangsa-bangsa yang mengalir menuju Yerusalem. {{% bible val="Bangsa-bangsa yang disebutkan" link="act:2,5-11" lang="ind" %}} pada hari Pentakosta merupakan {{% bible val="versi yang lebih kecil dari daftar bangsa-bangsa yang tercerai-berai pada peristiwa Menara Babel" link="gen:10" lang="ind" %}}, menunjukkan bahwa apa yang terjadi di sini dimaksudkan untuk berlaku bagi segala bangsa.
 
-Hal itu dikukuhkan ketika {{% bible val="Kornelius dan seisi rumahnya menerima Roh Kudus" link="act:10,44-48" lang="ind" %}} — sebuah peristiwa yang begitu {{% bible val="menakjubkan sehingga tidak seorang pun mengajukan keberatan atas masuknya Petrus ke rumah seorang bukan Yahudi" link="act:11,1-18" lang="ind" %}}.
+Hal itu dikukuhkan ketika {{% bible val="Kornelius dan seisi rumahnya menerima Roh Kudus" link="act:10,44-48" lang="ind" %}} — sebuah peristiwa yang begitu {{% bible val="menakjubkan sehingga mereka yang mengecam Petrus karena masuk ke rumah seorang bukan Yahudi menjadi tenang dan memuliakan Allah" link="act:11,1-18" lang="ind" %}}.
 
 Dengan kata lain, Kisah Para Rasul pasal 2 adalah penggenapan Kisah Para Rasul pasal 1 (dipenuhi dengan Roh Kudus), dan Kisah Para Rasul 1:8 sendiri adalah penggenapan Yesaya:
 

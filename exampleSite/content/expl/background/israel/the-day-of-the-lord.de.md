@@ -19,7 +19,7 @@ Wenn man „Tag des Herrn“ hört, denkt man wahrscheinlich an die Zerstörung 
 ## Der Ursprung des Tages des Herrn
 
 <a name="4fec"></a>
-Israel hatte einen {{% int_link val="Bund mit Gott" link="/expl/background/israel/gods-covenant" %}}, und der Zweck dieses {{% bible val="Bundes war, ein Segen für alle Nationen zu sein" link="gen:12,2-3" lang="de" %}}, denn er {{% bible val="beruhte auf dem Bund mit Abraham" link="exo:3,6" lang="de" %}}. Schon beim Auszug selbst {{% bible val="nahm Israel viele andere Menschen mit, die Teil Israels wurden" link="exo:12,38" lang="de" %}} — das Muster des Segens für die Nationen war von Anfang an da.
+Israel hatte einen {{% int_link val="Bund mit Gott" link="/expl/background/israel/gods-covenant" %}}, und der Zweck dieses {{% bible val="Bundes war, ein Segen für alle Nationen zu sein" link="gen:12,2-3" lang="de" %}}, denn er {{% bible val="beruhte auf dem Bund mit Abraham" link="exo:2,24" lang="de" %}}. Schon beim Auszug selbst {{% bible val="nahm Israel viele andere Menschen mit, die Teil Israels wurden" link="exo:12,38" lang="de" %}} — das Muster des Segens für die Nationen war von Anfang an da.
 
 Den Bund zu halten bedeutete konkreten, greifbaren Segen: {{% bible val="fruchtbares Land und Überfluss" link="lev:26,3-5" lang="de" %}}, {{% bible val="Frieden und Sieg über die Feinde" link="lev:26,6-8" lang="de" %}}, {{% bible val="Gott, der mit seinem Volk lebt" link="lev:26,11-12" lang="de" %}}, und Freiheit, denn {{% bible val="sie sollten keine Sklaven mehr sein" link="lev:26,13" lang="de" %}}. Aber als Israel es versäumte, den Bund zu halten, erlebte es stattdessen den Fluch, der — nach {{% bible val="vielen Höhen und Tiefen" link="jdg:2,6-22" lang="de" %}} — schließlich im {{% bible val="Exil" link="2ch:36,15-23" lang="de" %}} endete, als {{% bible val="Gott Israel verließ" link="ezk:11,22-24" lang="de" %}}.
 
@@ -32,7 +32,7 @@ Nach jedem Maßstab, der zählte, befand sich Israel also immer noch im Exil[^ex
 ## Der Inhalt des Tages des Herrn
 
 <a name="af7c"></a>
-Der Tag des Herrn ist also nicht einfach „das Ende der Welt“ — es ist der Tag, der endlich das bringt, was der Bund schon immer verheißen hat. Er bringt {{% bible val="Gericht über die Feinde Israels" link="jol:2,1-11" lang="de" %}}, die {{% bible val="Wiederherstellung Israels" link="jol:2,12-27" lang="de" %}}, {{% bible val="Gericht über die Ungerechten in Israel" link="zep:1,4-9" lang="de" %}}, und die Erfüllung der verbleibenden Verheißungen Gottes, wie die Ausgießung des Heiligen Geistes.
+Der Tag des Herrn ist also nicht einfach „das Ende der Welt“ — es ist der Tag, der endlich das bringt, was der Bund schon immer verheißen hat. Er bringt {{% bible val="Gericht über die Feinde Israels" link="jol:3,1-16" lang="de" %}}, die {{% bible val="Wiederherstellung Israels" link="jol:2,12-27" lang="de" %}}, {{% bible val="Gericht über die Ungerechten in Israel" link="zep:1,4-9" lang="de" %}}, und die Erfüllung der verbleibenden Verheißungen Gottes, wie die Ausgießung des Heiligen Geistes.
 
 Aber das wird nur dem {{% int_link val="Überrest Israels" link="/expl/background/israel/the-remnant-of-israel" %}} geschehen — nicht der Nation als Ganzes.
 

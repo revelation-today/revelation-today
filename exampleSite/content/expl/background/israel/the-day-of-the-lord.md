@@ -19,7 +19,7 @@ When you hear "Day of the Lord," you probably picture the destruction of the wor
 ## Origin of the Day of the Lord
 
 <a name="674e"></a>
-Israel had a {{% int_link val="covenant with God" link="/expl/background/israel/gods-covenant" %}}, and the purpose of that {{% bible val="covenant was to be a blessing to all nations" link="gen:12,2-3" lang="en" %}}, since it {{% bible val="was based on the covenant with Abraham" link="exo:3,6" lang="en" %}}. Even at the Exodus itself, Israel {{% bible val="took with them many other people who became part of Israel" link="exo:12,38" lang="en" %}} — the blessing-to-the-nations pattern was there from the start.
+Israel had a {{% int_link val="covenant with God" link="/expl/background/israel/gods-covenant" %}}, and the purpose of that {{% bible val="covenant was to be a blessing to all nations" link="gen:12,2-3" lang="en" %}}, since it {{% bible val="was based on the covenant with Abraham" link="exo:2,24" lang="en" %}}. Even at the Exodus itself, Israel {{% bible val="took with them many other people who became part of Israel" link="exo:12,38" lang="en" %}} — the blessing-to-the-nations pattern was there from the start.
 
 Keeping the covenant meant real, tangible blessing: {{% bible val="fertile land and abundance" link="lev:26,3-5" lang="en" %}}, {{% bible val="peace and victory over enemies" link="lev:26,6-8" lang="en" %}}, {{% bible val="God living with His people" link="lev:26,11-12" lang="en" %}}, and freedom, since they {{% bible val="would no longer be slaves" link="lev:26,13" lang="en" %}}. But when Israel failed to keep the covenant, they experienced the curse instead, which — after {{% bible val="many ups and downs" link="jdg:2,6-22" lang="en" %}} — finally resulted in {{% bible val="exile" link="2ch:36,15-23" lang="en" %}} and {{% bible val="God leaving Israel" link="ezk:11,22-24" lang="en" %}}.
 
@@ -32,7 +32,7 @@ So by every measure that mattered, Israel was still in exile[^exile] — and Scr
 ## Content of the Day of the Lord
 
 <a name="1d83"></a>
-The Day of the Lord, then, is not simply "the end of the world" — it's the day that finally delivers what the covenant always promised. It brings {{% bible val="judgment on the enemies of Israel" link="jol:2,1-11" lang="en" %}}, the {{% bible val="restoration of Israel" link="jol:2,12-27" lang="en" %}}, {{% bible val="judgment on the wicked in Israel" link="zep:1,4-9" lang="en" %}}, and the fulfillment of God's remaining promises, such as the outpouring of the Holy Spirit.
+The Day of the Lord, then, is not simply "the end of the world" — it's the day that finally delivers what the covenant always promised. It brings {{% bible val="judgment on the enemies of Israel" link="jol:3,1-16" lang="en" %}}, the {{% bible val="restoration of Israel" link="jol:2,12-27" lang="en" %}}, {{% bible val="judgment on the wicked in Israel" link="zep:1,4-9" lang="en" %}}, and the fulfillment of God's remaining promises, such as the outpouring of the Holy Spirit.
 
 But this will happen only to the {{% int_link val="remnant of Israel" link="/expl/background/israel/the-remnant-of-israel" %}} — not to the nation as a whole.
 

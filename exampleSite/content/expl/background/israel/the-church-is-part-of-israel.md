@@ -56,7 +56,7 @@ Israel is repeatedly called God's son throughout the Old Testament:
 - {{% bible val="when Israel is promised a future as God's grown children" link="hos:1,10" lang="en" %}},
 - {{% bible val="when God recalls the Exodus" link="hos:11,1" lang="en" %}},
 - {{% bible val="when Israel's tribe Ephraim is called first-born" link="jer:31,9" lang="en" %}},
-- and {{% bible val="spoken of as the first-born among David's line" link="psa:89,27" lang="en" %}}.
+- and {{% bible val="in its king, whom God calls his first-born" link="psa:89,27" lang="en" %}}.
 
 The church, in turn, is called God's son, just as Jesus is God's Son — we are {{% bible val="all His brothers" link="heb:2,11" lang="en" %}} because {{% bible val="we have all been adopted by Him" link="gal:4,4-7" lang="en" %}}. Just as {{% bible val="Jesus is Abraham's seed" link="gal:3,16" lang="en" %}}, {{% bible val="so are we" link="gal:3,26-29" lang="en" %}}. We are {{% bible val="children of the promise, like Isaac" link="gal:4,28" lang="en" %}}, and {{% bible val="Jerusalem is our mother" link="gal:4,26" lang="en" %}}.
 
@@ -98,7 +98,7 @@ Israel is also pictured as an olive tree — for instance, in reference to the {
 
 The image can apply to {{% bible val="individuals in Israel" link="psa:128,3" lang="en" %}} or to leaders, such as a {{% bible val="judge in Israel" link="jdg:9,8-9" lang="en" %}}, {{% bible val="King David" link="psa:52,8" lang="en" %}}, or {{% bible val="Joshua and Zerubbabel" link="zec:4,3-12" lang="en" %}}.
 
-The New Testament extends the image outward: the {{% bible val="Gentiles are described as becoming part of the olive tree" link="rom:11,17-24" lang="en" %}}, and the {{% bible val="church is identified" link="rev:1,20" lang="en" %}} with the {{% bible val="two olive trees from the prophet Zechariah" link="zec:4,12-14" lang="en" %}}, an identification developed further in the {{% bible val="context of the two witnesses" link="rev:11,4" lang="en" %}}.
+The New Testament extends the image outward: the {{% bible val="Gentiles are described as becoming part of the olive tree" link="rom:11,17-24" lang="en" %}}, and in Revelation the {{% bible val="lampstands are the churches" link="rev:1,20" lang="en" %}}, and the two witnesses are {{% bible val="both lampstands and the two olive trees" link="rev:11,4" lang="en" %}} of {{% bible val="the prophet Zechariah" link="zec:4,12-14" lang="en" %}}.
 
 ## Treasured possession of God
 
@@ -128,7 +128,7 @@ Joel's prophecy describes the restoration of Israel starting from {{% bible val=
 
 The outpouring was to take place {{% bible val="in the last days" link="act:2,17" lang="en" %}}, a phrase used in exactly that sense in {{% bible val="Isaiah" link="isa:2,2" lang="en" %}} and in the same oracle in Micah 4:1, where it describes the nations streaming to Jerusalem. The {{% bible val="nations listed" link="act:2,5-11" lang="en" %}} at Pentecost are a {{% bible val="smaller version of the scattered list from the Tower of Babel" link="gen:10" lang="en" %}}, showing that what happens here is meant to apply to all nations.
 
-That is confirmed when {{% bible val="Cornelius and his household receive the Holy Spirit" link="act:10,44-48" lang="en" %}} — an event so {{% bible val="astonishing that no one raised any objection to Peter entering a Gentile house" link="act:11,1-18" lang="en" %}}.
+That is confirmed when {{% bible val="Cornelius and his household receive the Holy Spirit" link="act:10,44-48" lang="en" %}} — an event so {{% bible val="astonishing that those who criticised Peter for entering a Gentile house fell silent and praised God" link="act:11,1-18" lang="en" %}}.
 
 Acts 2, in other words, is the fulfillment of Acts 1 (being filled with the Holy Spirit), and Acts 1:8 is itself a fulfillment of Isaiah:
 

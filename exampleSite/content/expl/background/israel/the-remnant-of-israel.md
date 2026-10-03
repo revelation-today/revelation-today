@@ -97,7 +97,7 @@ Finally, a passage from Ezekiel describes how the Gentiles become, in effect, na
 
 The foreigners here are considered fully part of Israel, included with the same rights as those born there. That pattern recurs throughout Israel's history: {{% bible val="Egyptians" link="exo:12,38" lang="en" %}} received the {{% bible val="same rights" link="exo:12,48-51" lang="en" %}} as native Israelites; {{% bible val="Rahab" link="jos:6,25" lang="en" %}} was {{% bible val="included" link="mat:1,5" lang="en" %}}; and {{% bible val="Ruth" link="rut:1,16" lang="en" %}} the {{% bible val="Moabitess" link="rut:1,1-4" lang="en" %}} was not only included but became the ancestor of {{% bible val="David" link="rut:4,10-16" lang="en" %}} and {{% bible val="Jesus" link="mat:1,5" lang="en" %}}.
 
-The Ezekiel passage describes non-Jews who married into Israel, and the fact that they received a share of the land is what marks them as genuinely part of Israel, since {{% bible val="only Israelites can receive land" link="lev:25,23" lang="en" %}}.
+The Ezekiel passage describes foreigners who have settled in Israel and raised their children there, and the fact that they receive a share of the land is what marks them as genuinely part of Israel: {{% bible val="the land was allotted to Israel's tribes and clans" link="num:26,52-56" lang="en" %}}.
 
 ## The remnant in Revelation
 

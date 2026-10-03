@@ -56,7 +56,7 @@ Israel wird im Alten Testament wiederholt Gottes Sohn genannt:
 - {{% bible val="als Israel eine Zukunft als erwachsene Kinder Gottes verheißen wird" link="hos:1,9-10" lang="de" %}},
 - {{% bible val="wenn Gott sich an den Auszug erinnert" link="hos:11,1" lang="de" %}},
 - {{% bible val="als Israels Stamm Ephraim Erstgeborener genannt wird" link="jer:31,9" lang="de" %}},
-- und {{% bible val="als Erstgeborener in Davids Linie bezeichnet" link="psa:89,27" lang="de" %}}.
+- und {{% bible val="in seinem König, den Gott seinen Erstgeborenen nennt" link="psa:89,27" lang="de" %}}.
 
 Die Gemeinde wiederum wird Gottes Sohn genannt, ebenso wie Jesus Gottes Sohn ist — wir sind {{% bible val="alle seine Brüder" link="heb:2,11" lang="de" %}}, weil {{% bible val="wir alle von ihm adoptiert worden sind" link="gal:4,4-7" lang="de" %}}. So wie {{% bible val="Jesus Abrahams Nachkomme ist" link="gal:3,16" lang="de" %}}, {{% bible val="sind wir es auch" link="gal:3,26-29" lang="de" %}}. Wir sind {{% bible val="Kinder der Verheißung, wie Isaak" link="gal:4,28" lang="de" %}}, und {{% bible val="Jerusalem ist unsere Mutter" link="gal:4,26" lang="de" %}}.
 
@@ -98,7 +98,7 @@ Israel wird auch als Ölbaum dargestellt — zum Beispiel mit Blick auf das {{% 
 
 Das Bild kann sich auf {{% bible val="Einzelne in Israel" link="psa:128,3" lang="de" %}} beziehen oder auf Führungspersönlichkeiten wie einen {{% bible val="Richter in Israel" link="jdg:9,8-9" lang="de" %}}, {{% bible val="König David" link="psa:52,8" lang="de" %}} oder {{% bible val="Josua und Serubbabel" link="zec:4,3-12" lang="de" %}}.
 
-Das Neue Testament weitet das Bild aus: Die {{% bible val="Nationen werden beschrieben, wie sie Teil des Ölbaums werden" link="rom:11,17-24" lang="de" %}}, und die {{% bible val="Gemeinde wird identifiziert" link="rev:1,20" lang="de" %}} mit den {{% bible val="zwei Ölbäumen des Propheten Sacharja" link="zec:4,12-14" lang="de" %}}, eine Identifikation, die im {{% bible val="Kontext der zwei Zeugen" link="rev:11,4" lang="de" %}} weiter ausgeführt wird.
+Das Neue Testament weitet das Bild aus: Die {{% bible val="Nationen werden beschrieben, wie sie Teil des Ölbaums werden" link="rom:11,17-24" lang="de" %}}, und in der Offenbarung sind die {{% bible val="Leuchter die Gemeinden" link="rev:1,20" lang="de" %}}, und die zwei Zeugen sind {{% bible val="zugleich Leuchter und die zwei Ölbäume" link="rev:11,4" lang="de" %}} des {{% bible val="Propheten Sacharja" link="zec:4,12-14" lang="de" %}}.
 
 ## Gottes besonderes Eigentum
 
@@ -128,7 +128,7 @@ Joels Prophetie beschreibt die Wiederherstellung Israels ab {{% bible val="Vers 
 
 Die Ausgießung sollte {{% bible val="in den letzten Tagen" link="act:2,17" lang="de" %}} geschehen, ein Ausdruck, der genau in diesem Sinn bei {{% bible val="Jesaja" link="isa:2,2" lang="de" %}} und im selben Spruch in Micha 4,1 verwendet wird, wo er beschreibt, wie die Nationen nach Jerusalem strömen. Die {{% bible val="an Pfingsten aufgezählten Nationen" link="act:2,5-11" lang="de" %}} sind eine kleinere Version der {{% bible val="verstreuten Liste vom Turmbau zu Babel" link="gen:10" lang="de" %}}, was zeigt, dass das Geschehen hier für alle Nationen gilt.
 
-Das wird bestätigt, als {{% bible val="Kornelius und sein Haus den Heiligen Geist empfangen" link="act:10,44-48" lang="de" %}} — ein Ereignis, das so {{% bible val="erstaunlich war, dass niemand Einwände erhob, als Petrus das Haus eines Heiden betrat" link="act:11,1-18" lang="de" %}}.
+Das wird bestätigt, als {{% bible val="Kornelius und sein Haus den Heiligen Geist empfangen" link="act:10,44-48" lang="de" %}} — ein Ereignis, das so {{% bible val="erstaunlich war, dass die, die Petrus den Besuch im Haus eines Heiden vorwarfen, verstummten und Gott priesen" link="act:11,1-18" lang="de" %}}.
 
 Apostelgeschichte 2 ist mit anderen Worten die Erfüllung von Apostelgeschichte 1 (die Erfüllung mit dem Heiligen Geist), und Apostelgeschichte 1,8 wiederum ist eine Erfüllung von Jesaja:
 

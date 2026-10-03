@@ -29,8 +29,8 @@ Die Bibel übt an diesem System scharfe Kritik, denn es ließ Menschen offensich
 
 Gott hat auch die Angewohnheit, wichtige Menschen — sogar Könige — gerade aus den Familien zu erwählen, die die Kultur übersehen hätte:
 
-- {{% bible val="unbedeutende Familien" link="rut:4,16-17" lang="de" %}}: Rut war halb Moabiterin und wurde dennoch die Großmutter König Davids.
-- Ausländer ({{% bible val="man beachte die drei ausländischen Frauen im Stammbaum Jesu" link="mat:1,2-16" lang="de" %}}): die {{% bible val="Kanaaniterin Tamar" link="gen:38" lang="de" %}}, die {{% bible val="halb moabitische Rut" link="rut:1,1-4" lang="de" %}}, und {{% bible val="Bathseba" link="2sa:11,3" lang="de" %}}, die Frau eines Hethiters.
+- {{% bible val="unbedeutende Familien" link="rut:4,16-17" lang="de" %}}: Rut war Moabiterin und wurde dennoch die Urgroßmutter König Davids.
+- Ausländer ({{% bible val="man beachte die vier Frauen im Stammbaum Jesu" link="mat:1,2-16" lang="de" %}}): die {{% bible val="Kanaaniterin Tamar" link="gen:38" lang="de" %}}, die {{% bible val="Rahab aus Jericho" link="jos:6,25" lang="de" %}}, die {{% bible val="Moabiterin Rut" link="rut:1,1-4" lang="de" %}}, und {{% bible val="Bathseba" link="2sa:11,3" lang="de" %}}, die Frau eines Hethiters.
 
 Die Bibel legt auch Gewicht auf die Rolle des Lösers — {{% bible val="den nächsten Verwandten, der einen Angehörigen in Not retten muss" link="lev:25,47-49" lang="de" %}}. Diese Person war dafür verantwortlich, einzuschreiten, sobald ein naher Verwandter in ernsthafte Schwierigkeiten geriet: um {{% bible val="aus der Gefangenschaft zu befreien" link="gen:14" lang="de" %}}, um jemanden aus der Sklaverei freizukaufen, um {{% bible val="verkauften Besitz zurückzukaufen" link="lev:25,25-26" lang="de" %}}, oder um {{% bible val="durch Heirat aus der Not zu holen" link="rut:4" lang="de" %}} und {{% bible val="Nachkommenschaft für eine Witwe zu sichern" link="gen:38,8" lang="de" %}}.
 
@@ -54,7 +54,7 @@ Der erstgeborene Sohn hatte eine {{% bible val="führende Rolle unter seinen Ges
 
 {{% bible val="Ruben, der als ältester Sohn" link="exo:6,14" lang="de" %}} diese Verantwortung sichtbar macht: Er war {{% bible val="sehr beunruhigt, als Josef verloren ging" link="gen:37,21-30" lang="de" %}}, und {{% bible val="verpfändete später seinen eigenen Sohn für seine Familie" link="gen:42,37" lang="de" %}} als Sicherheit.
 
-Aber der älteste Sohn war nicht immer der beste Leiter für eine Familie, und Gott durchbricht wiederholt die erwartete Ordnung — bei {{% bible val="Jakob" link="gen:25,25-26" lang="de" %}}, {{% bible val="Manasse" link="gen:48,13-20" lang="de" %}} und {{% bible val="David" link="1sa:16,1-13" lang="de" %}}, die alle einen älteren Bruder verdrängen.
+Aber der älteste Sohn war nicht immer der beste Leiter für eine Familie, und Gott durchbricht wiederholt die erwartete Ordnung — bei {{% bible val="Jakob" link="gen:25,25-26" lang="de" %}}, {{% bible val="Ephraim" link="gen:48,13-20" lang="de" %}} und {{% bible val="David" link="1sa:16,1-13" lang="de" %}}, die alle einen älteren Bruder verdrängen.
 
 Eine Frau hingegen befand sich in einer wirklich prekären Lage: Sie gehörte zunächst zur Familie ihres Vaters, wurde dann Ehefrau und trat der Familie ihres Mannes bei, und wurde schließlich nach dem Tod ihres Mannes von ihren Söhnen innerhalb einer von deren Familien versorgt. Die Bibel {{% bible val="zeigt eine Frau, die durch all diese Netze fiel" link="rut:1,1-5" lang="de" %}} — Rut — und dennoch {{% bible val="von ihrem Löser Boas aufgefangen wurde" link="rut:4" lang="de" %}}. Tamar ist ein weiterer solcher Fall: {{% bible val="Tamar, die für gerecht erklärt wird, weil Juda ihr keinen Ehemann gab, der sie durch eine Familie beschützt hätte" link="gen:38,26" lang="de" %}} (das Gesetz, das ihr zustand: {{% bible val="5. Mose 25,5–10" link="deu:25,5-10" lang="de" %}}).
 

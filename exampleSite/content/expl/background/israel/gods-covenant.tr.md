@@ -64,7 +64,7 @@ Antlaşma ayrıca sürekli bir gereklilikle birlikte geldi: {{% bible val="tekra
 
 Önemli olan şu ki, birçok dünyevi antlaşmanın aksine, Tanrı’nın antlaşmasının şartları asla imkânsız değildi; zayıf tarafı başarısızlığa mahkûm etmiyordu. Tanrı’nın halkı şartları tutabilirdi. Sadece tutmamayı seçtiler.
 
-Bütün bunlar boyunca Tanrı {{% bible val="kendisine İsrail’in Babası" link="exo:3,6" lang="tr" %}} der — antlaşma şartlarıyla bağlı olsa bile merhametli kalan bir baba. Kutsal Kitap bu birleşimi "hesed" sözcüğünde yakalar; genellikle "antlaşma sadakati" olarak çevrilen, bağlama göre "sevgi", "iyilik", "merhamet" ya da "sadakat" olarak da aktarılabilecek kadar zengin bir sözcüktür.
+Bütün bunlar boyunca Tanrı {{% bible val="kendisine İsrail’in Babası" link="exo:4,22" lang="tr" %}} der — antlaşma şartlarıyla bağlı olsa bile merhametli kalan bir baba. Kutsal Kitap bu birleşimi "hesed" sözcüğünde yakalar; genellikle "antlaşma sadakati" olarak çevrilen, bağlama göre "sevgi", "iyilik", "merhamet" ya da "sadakat" olarak da aktarılabilecek kadar zengin bir sözcüktür.
 
 ## Vahiy'de antlaşma
 

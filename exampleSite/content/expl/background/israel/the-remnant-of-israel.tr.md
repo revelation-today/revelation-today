@@ -98,7 +98,7 @@ Son olarak Hezekiel'den bir pasaj, Yahudi olmayanların fiilen nasıl doğuştan
 
 Buradaki yabancılar, orada doğanlarla aynı haklara sahip olarak İsrail'in tam bir parçası sayılır. Bu model İsrail'in tarihi boyunca tekrar tekrar görülür: {{% bible val="Mısırlılar" link="exo:12,38" lang="tr" %}} yerli İsraillilerle {{% bible val="aynı haklara" link="exo:12,48-51" lang="tr" %}} kavuştu; {{% bible val="Rahav" link="jos:6,25" lang="tr" %}} {{% bible val="dahil edildi" link="mat:1,5" lang="tr" %}}; ve {{% bible val="Moavlı" link="rut:1,1-4" lang="tr" %}} {{% bible val="Rut" link="rut:1,16" lang="tr" %}} yalnızca dahil edilmekle kalmadı, {{% bible val="Davut'un" link="rut:4,10-16" lang="tr" %}} ve {{% bible val="İsa'nın" link="mat:1,5" lang="tr" %}} atası oldu.
 
-Hezekiel pasajı, İsrail'e evlilik yoluyla katılan Yahudi olmayanları anlatır; toprakta pay almış olmaları, onları gerçekten İsrail'in bir parçası kılan şeydir, çünkü {{% bible val="yalnızca İsrailliler toprak alabilir" link="lev:25,23" lang="tr" %}}.
+Hezekiel pasajı, İsrail'e yerleşip orada çocuk sahibi olmuş yabancıları anlatır; toprakta pay almaları, onları gerçekten İsrail'in bir parçası kılan şeydir: {{% bible val="toprak İsrail'in oymaklarına ve boylarına pay edilmişti" link="num:26,52-56" lang="tr" %}}.
 
 ## Vahiy'de kalıntı
 

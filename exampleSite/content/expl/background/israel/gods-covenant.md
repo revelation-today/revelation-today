@@ -64,7 +64,7 @@ The covenant also came with an ongoing requirement: it had to be {{% bible val="
 
 Crucially, the terms of God's covenant were never impossible, unlike many earthly covenants that set the weaker party up to fail. God's people could have kept the terms. They simply chose not to.
 
-Through all of this, God calls {{% bible val="himself the Father of Israel" link="exo:3,6" lang="en" %}} — a father who, even bound by covenant terms, remains merciful. The Bible captures that combination in the word "hesed," usually translated "covenant loyalty," a word rich enough to be rendered as "love," "goodness," "mercy," or "faithfulness" depending on context.
+Through all of this, God calls {{% bible val="himself the Father of Israel" link="exo:4,22" lang="en" %}} — a father who, even bound by covenant terms, remains merciful. The Bible captures that combination in the word "hesed," usually translated "covenant loyalty," a word rich enough to be rendered as "love," "goodness," "mercy," or "faithfulness" depending on context.
 
 ## The covenant in Revelation
 

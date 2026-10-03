@@ -56,7 +56,7 @@ Aynı terimi, {{% bible val="Pavlus Selanikliler'e seçilmiş olduklarını söy
 - {{% bible val="İsrail'e Tanrı'nın yetişkin çocukları olarak bir gelecek vaat edildiğinde" link="hos:1,10" lang="tr" %}},
 - {{% bible val="Tanrı Mısır'dan Çıkış'ı andığında" link="hos:11,1" lang="tr" %}},
 - {{% bible val="İsrail'in oymağı Efrayim ilk doğan olarak adlandırıldığında" link="jer:31,9" lang="tr" %}},
-- ve {{% bible val="Davut'un soyu içinde ilk doğan olarak anıldığında" link="psa:89,27" lang="tr" %}}.
+- ve {{% bible val="Tanrı'nın ilk oğlum dediği kralında" link="psa:89,27" lang="tr" %}}.
 
 Kilise de, tıpkı İsa'nın Tanrı'nın Oğlu olması gibi, Tanrı'nın oğlu olarak adlandırılır — {{% bible val="hepimiz O'nun kardeşleriyiz" link="heb:2,11" lang="tr" %}}, çünkü {{% bible val="hepimiz O'nun tarafından evlat edinildik" link="gal:4,4-7" lang="tr" %}}. {{% bible val="İsa nasıl İbrahim'in soyundan geliyorsa" link="gal:3,16" lang="tr" %}}, {{% bible val="biz de öyleyiz" link="gal:3,26-29" lang="tr" %}}. {{% bible val="İshak gibi biz de vaadin çocuklarıyız" link="gal:4,28" lang="tr" %}} ve {{% bible val="Yeruşalim bizim annemizdir" link="gal:4,26" lang="tr" %}}.
 
@@ -98,7 +98,7 @@ Tanrı, bağ resmini kimi zaman {{% bible val="kötü muamele gören" link="jer:
 
 Bu resim {{% bible val="İsrail'deki bireylere" link="psa:128,3" lang="tr" %}} ya da {{% bible val="İsrail'deki bir yargıç" link="jdg:9,8-9" lang="tr" %}}, {{% bible val="Kral Davut" link="psa:52,8" lang="tr" %}} veya {{% bible val="Yeşu ve Zerubbabel" link="zec:4,3-12" lang="tr" %}} gibi liderlere de uygulanabilir.
 
-Yeni Antlaşma bu resmi dışa doğru genişletir: {{% bible val="Yahudi olmayanların zeytin ağacının bir parçası hâline geldiği anlatılır" link="rom:11,17-24" lang="tr" %}} ve {{% bible val="kilise" link="rev:1,20" lang="tr" %}}, peygamber {{% bible val="Zekeriya'daki iki zeytin ağacıyla" link="zec:4,12-14" lang="tr" %}} özdeşleştirilir; bu özdeşleştirme {{% bible val="iki tanık bağlamında" link="rev:11,4" lang="tr" %}} daha da ileri götürülür.
+Yeni Antlaşma bu resmi dışa doğru genişletir: {{% bible val="Yahudi olmayanların zeytin ağacının bir parçası hâline geldiği anlatılır" link="rom:11,17-24" lang="tr" %}} ve Vahiy'de {{% bible val="kandillikler kiliselerdir" link="rev:1,20" lang="tr" %}}; iki tanık ise {{% bible val="hem kandillik hem de" link="rev:11,4" lang="tr" %}} peygamber {{% bible val="Zekeriya'daki iki zeytin ağacıdır" link="zec:4,12-14" lang="tr" %}}.
 
 ## Tanrı'nın değerli mülkü
 
@@ -128,7 +128,7 @@ Yoel'in peygamberlik sözü, {{% bible val="18. ayetten" link="jol:2,18" lang="t
 
 Bu dökülme {{% bible val="son günlerde" link="act:2,16-17" lang="tr" %}} gerçekleşecekti; bu ifade tam olarak bu anlamda {{% bible val="Yeşaya'da" link="isa:2,2" lang="tr" %}} ve aynı bildiride Mika 4:1'de, ulusların Yeruşalim'e akın etmesini anlatırken kullanılır. Pentikost'ta {{% bible val="sayılan uluslar" link="act:2,5-11" lang="tr" %}}, {{% bible val="Babil Kulesi'nden dağılan listenin daha küçük bir versiyonudur" link="gen:10" lang="tr" %}}; bu da burada olanın tüm uluslara uygulanmak üzere tasarlandığını gösterir.
 
-Bu, {{% bible val="Kornelius ve ev halkı Kutsal Ruh'u aldığında" link="act:10,44-48" lang="tr" %}} doğrulanır — bu öyle {{% bible val="şaşırtıcı bir olaydı ki, Petrus'un bir Yahudi olmayanın evine girmesine kimse itiraz etmedi" link="act:11,1-18" lang="tr" %}}.
+Bu, {{% bible val="Kornelius ve ev halkı Kutsal Ruh'u aldığında" link="act:10,44-48" lang="tr" %}} doğrulanır — bu öyle {{% bible val="şaşırtıcı bir olaydı ki, Petrus'u bir Yahudi olmayanın evine girdiği için eleştirenler sustular ve Tanrı'yı yücelttiler" link="act:11,1-18" lang="tr" %}}.
 
 Başka bir deyişle, Elçilerin İşleri 2, Elçilerin İşleri 1'in (Kutsal Ruh'la dolmanın) yerine gelmesidir ve Elçilerin İşleri 1:8'in kendisi de Yeşaya'nın yerine gelmesidir:
 

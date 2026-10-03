@@ -64,7 +64,7 @@ Der Bund brachte auch eine fortwährende Verpflichtung mit sich: Er musste {{% b
 
 Entscheidend ist: Die Bedingungen von Gottes Bund waren nie unmöglich zu erfüllen, anders als bei vielen irdischen Bündnissen, die die schwächere Partei von vornherein zum Scheitern bestimmten. Gottes Volk hätte die Bedingungen einhalten können. Es hat sich nur dagegen entschieden.
 
-Bei alldem nennt Gott {{% bible val="sich selbst den Vater Israels" link="exo:3,6" lang="de" %}} — einen Vater, der, selbst gebunden an die Bedingungen des Bundes, barmherzig bleibt. Die Bibel fasst diese Verbindung im Wort „hesed“ zusammen, gewöhnlich mit „Bundestreue“ übersetzt, ein Wort, das reich genug ist, um je nach Zusammenhang auch mit „Liebe“, „Güte“, „Gnade“ oder „Treue“ wiedergegeben zu werden.
+Bei alldem nennt Gott {{% bible val="sich selbst den Vater Israels" link="exo:4,22" lang="de" %}} — einen Vater, der, selbst gebunden an die Bedingungen des Bundes, barmherzig bleibt. Die Bibel fasst diese Verbindung im Wort „hesed“ zusammen, gewöhnlich mit „Bundestreue“ übersetzt, ein Wort, das reich genug ist, um je nach Zusammenhang auch mit „Liebe“, „Güte“, „Gnade“ oder „Treue“ wiedergegeben zu werden.
 
 ## Der Bund in der Offenbarung
 

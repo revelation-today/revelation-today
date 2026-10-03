@@ -19,7 +19,7 @@ sources:
 ## Rab'bin Günü'nün kökeni
 
 <a name="45df"></a>
-İsrail'in {{% int_link val="Tanrı'yla bir antlaşması vardı" link="/expl/background/israel/gods-covenant" %}} ve bu antlaşmanın amacı, {{% bible val="İbrahim'le yapılan antlaşmaya dayandığından" link="exo:3,6" lang="tr" %}} {{% bible val="tüm uluslar için bir bereket olmaktı" link="gen:12,2-3" lang="tr" %}}. Mısır'dan Çıkış'ın kendisinde bile İsrail, {{% bible val="İsrail'in bir parçası hâline gelen pek çok başka insanı da beraberinde götürdü" link="exo:12,38" lang="tr" %}} — uluslara bereket olma modeli daha en baştan oradaydı.
+İsrail'in {{% int_link val="Tanrı'yla bir antlaşması vardı" link="/expl/background/israel/gods-covenant" %}} ve bu antlaşmanın amacı, {{% bible val="İbrahim'le yapılan antlaşmaya dayandığından" link="exo:2,24" lang="tr" %}} {{% bible val="tüm uluslar için bir bereket olmaktı" link="gen:12,2-3" lang="tr" %}}. Mısır'dan Çıkış'ın kendisinde bile İsrail, {{% bible val="İsrail'in bir parçası hâline gelen pek çok başka insanı da beraberinde götürdü" link="exo:12,38" lang="tr" %}} — uluslara bereket olma modeli daha en baştan oradaydı.
 
 Antlaşmayı tutmak, gerçek ve somut bir kutsama anlamına geliyordu: {{% bible val="verimli toprak ve bolluk" link="lev:26,3-5" lang="tr" %}}, {{% bible val="barış ve düşmanlara karşı zafer" link="lev:26,6-8" lang="tr" %}}, {{% bible val="Tanrı'nın halkıyla birlikte yaşaması" link="lev:26,11-12" lang="tr" %}} ve özgürlük, çünkü {{% bible val="artık köle olmayacaklardı" link="lev:26,13" lang="tr" %}}. Ama İsrail antlaşmayı tutmayı başaramadığında, bunun yerine laneti yaşadı; bu da {{% bible val="birçok iniş çıkıştan sonra" link="jdg:2,6-22" lang="tr" %}} nihayet {{% bible val="sürgüne" link="2ch:36,15-23" lang="tr" %}} ve {{% bible val="Tanrı'nın İsrail'i terk etmesine" link="ezk:11,22-24" lang="tr" %}} yol açtı.
 
@@ -32,7 +32,7 @@ Yani önemli olan her ölçüte göre İsrail hâlâ sürgündeydi[^exile] — v
 ## Rab'bin Günü'nün içeriği
 
 <a name="e5f1"></a>
-O hâlde Rab'bin Günü, basitçe "dünyanın sonu" değildir — antlaşmanın baştan beri vaat ettiği şeyi nihayet gerçekleştiren gündür. Bu gün {{% bible val="İsrail'in düşmanları üzerine yargı" link="jol:2,1-11" lang="tr" %}}, {{% bible val="İsrail'in restorasyonunu" link="jol:2,12-27" lang="tr" %}}, {{% bible val="İsrail'deki kötülerin yargılanmasını" link="zep:1,4-9" lang="tr" %}} ve Kutsal Ruh'un dökülmesi gibi Tanrı'nın geri kalan vaatlerinin yerine gelmesini getirir.
+O hâlde Rab'bin Günü, basitçe "dünyanın sonu" değildir — antlaşmanın baştan beri vaat ettiği şeyi nihayet gerçekleştiren gündür. Bu gün {{% bible val="İsrail'in düşmanları üzerine yargı" link="jol:3,1-16" lang="tr" %}}, {{% bible val="İsrail'in restorasyonunu" link="jol:2,12-27" lang="tr" %}}, {{% bible val="İsrail'deki kötülerin yargılanmasını" link="zep:1,4-9" lang="tr" %}} ve Kutsal Ruh'un dökülmesi gibi Tanrı'nın geri kalan vaatlerinin yerine gelmesini getirir.
 
 Ama bu yalnızca {{% int_link val="İsrail'in kalıntısının" link="/expl/background/israel/the-remnant-of-israel" %}} başına gelecektir — ulusun tamamının değil.
 

@@ -29,8 +29,8 @@ Kutsal Kitap bu sistemi keskin biçimde eleştirir, çünkü bu sistem arkasınd
 
 Tanrı'nın ayrıca önemli kişileri — hem de kralları — tam olarak kültürün göz ardı edeceği ailelerden seçme alışkanlığı vardır:
 
-- {{% bible val="önemsiz aileler" link="rut:4,16-17" lang="tr" %}}: Rut yarı Moavlıydı, yine de Kral Davut'un büyükannesi oldu.
-- yabancılar ({{% bible val="İsa'nın soy ağacındaki üç yabancı kadına bakın" link="mat:1,1-16" lang="tr" %}}): {{% bible val="Kenanlı Tamar" link="gen:38" lang="tr" %}}, {{% bible val="yarı Moavlı Rut" link="rut:1,1-4" lang="tr" %}} ve bir Hititli'nin karısı olan {{% bible val="Batşeba" link="2sa:11,3" lang="tr" %}}.
+- {{% bible val="önemsiz aileler" link="rut:4,16-17" lang="tr" %}}: Rut Moavlıydı, yine de Kral Davut'un büyük büyükannesi oldu.
+- yabancılar ({{% bible val="İsa'nın soy ağacındaki dört kadına bakın" link="mat:1,1-16" lang="tr" %}}): {{% bible val="Kenanlı Tamar" link="gen:38" lang="tr" %}}, {{% bible val="Erihalı Rahav" link="jos:6,25" lang="tr" %}}, {{% bible val="Moavlı Rut" link="rut:1,1-4" lang="tr" %}} ve bir Hititli'nin karısı olan {{% bible val="Batşeba" link="2sa:11,3" lang="tr" %}}.
 
 Kutsal Kitap ayrıca kurtarıcının rolüne de ağırlık verir — {{% bible val="başı dertte olan bir akrabayı kurtarması gereken en yakın akraba" link="lev:25,47-49" lang="tr" %}}. Bu kişi, en yakın akrabalarından biri ciddi bir zorlukla karşılaştığında devreye girmekle yükümlüydü: {{% bible val="esaretten kurtarmak" link="gen:14" lang="tr" %}}, birini köleliğinden kurtarmak için ödeme yapmak, satılmış {{% bible val="bir mülkü geri satın almak" link="lev:25,25-26" lang="tr" %}} ya da beladan {{% bible val="kurtarmak için biriyle evlenmek" link="rut:4" lang="tr" %}} ve {{% bible val="dul bir kadın için soy sağlamak" link="gen:38,8" lang="tr" %}}.
 
@@ -54,7 +54,7 @@ Oğul olmadığında kadınlar da {{% bible val="yasaya göre miras alabilirdi" 
 
 {{% bible val="En büyük oğul olarak Ruben" link="exo:6,14" lang="tr" %}} bu sorumluluğu eylemde gösterir: {{% bible val="Yusuf kaybolduğunda çok sıkıntı çekti" link="gen:37,21-30" lang="tr" %}} ve daha sonra kefil olarak {{% bible val="ailesi için oğlunu rehin gösterdi" link="gen:42,37" lang="tr" %}}.
 
-Ama en büyük oğul her zaman bir aile için en iyi lider olmuyordu ve Tanrı beklenen düzeni defalarca tersine çevirir — {{% bible val="Yakup" link="gen:25,25-26" lang="tr" %}}, {{% bible val="Manaşşe" link="gen:48,13-20" lang="tr" %}} ve {{% bible val="Davut" link="1sa:16,1-13" lang="tr" %}}, hepsi bir ağabeyin yerini alır.
+Ama en büyük oğul her zaman bir aile için en iyi lider olmuyordu ve Tanrı beklenen düzeni defalarca tersine çevirir — {{% bible val="Yakup" link="gen:25,25-26" lang="tr" %}}, {{% bible val="Efrayim" link="gen:48,13-20" lang="tr" %}} ve {{% bible val="Davut" link="1sa:16,1-13" lang="tr" %}}, hepsi bir ağabeyin yerini alır.
 
 Bir kadın ise gerçekten güvencesiz bir konumla karşı karşıyaydı: önce babasının ailesine aitti, sonra eş olup kocasının ailesine katılırdı ve son olarak, kocasının ölümünden sonra oğullarından birinin ailesi içinde bakımı üstlenilirdi. Kutsal Kitap, {{% bible val="tüm bu ağlardan düşen bir kadını gösterir" link="rut:1,1-5" lang="tr" %}} — Rut'u — ve yine de {{% bible val="kurtarıcısı Boaz tarafından korunduğunu" link="rut:4" lang="tr" %}} anlatır. Tamar da böyle bir örnektir: {{% bible val="Yahuda kendisine bir koca vermediği için bir aile tarafından korunmaktan mahrum kalan ve bu yüzden doğru bulunan Tamar" link="gen:38,26" lang="tr" %}} (hakkı olan yasa: {{% bible val="Yasa'nın Tekrarı 25:5–10" link="deu:25,5-10" lang="tr" %}}).
 
