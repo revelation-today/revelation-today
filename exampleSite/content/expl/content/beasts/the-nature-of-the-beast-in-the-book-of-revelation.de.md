@@ -93,7 +93,7 @@ In dieser letzten Zeile verbirgt sich noch ein interessanter Chiasmus. „Hier i
 Das geschieht auf zweierlei Weise:
 
 - durch Gewalt und Einschüchterung ({{% bible val="die Heiligen besiegen" link="rev:13,7" lang="de" %}}, {{% bible val="jeden Widerstand vernichten" link="rev:13,10" lang="de" %}} oder {{% bible val="Menschen, die nicht folgen wollen" link="rev:13,15" lang="de" %}}),
-- durch Täuschung, was etwas schwerer zu verstehen ist, aber ich werde es erklären.
+- durch Täuschung, was etwas schwerer zu verstehen ist, aber ich werde es erklären. Sie hat zwei Gesichter: Das erste Tier verspricht Macht und Kontrolle, das zweite Wohlstand und Sicherheit.
 
 Beginnen wir mit ein paar Beobachtungen, die in diese Richtung weisen:
 

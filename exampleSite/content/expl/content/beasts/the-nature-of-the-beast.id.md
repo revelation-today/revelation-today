@@ -62,7 +62,7 @@ Untuk lebih memahami cara Iblis digambarkan, kita perlu mencermati {{% bible val
 
 Ia {{% int_link val="membangun sebuah trinitas jahat" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}} untuk menipu jemaat, tetapi {{% int_link val="sia-sia" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
-{{% int_link val="Sang naga dan kedua binatang itu digambarkan bekerja sama untuk mencapai tujuan mereka" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, tetapi bertindak dengan cara berbeda: binatang pertama mengandalkan kekerasan, sementara binatang kedua mengandalkan tanda-tanda, mukjizat, dan tekanan ekonomi — {{% int_link val="lihat juga dalam konteks historisnya" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
+{{% int_link val="Sang naga dan kedua binatang itu digambarkan bekerja sama untuk mencapai tujuan mereka" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, tetapi menyesatkan dengan cara berbeda. Binatang pertama menawarkan kuasa dan kendali, dan menopang tawaran itu dengan kekerasan: "Siapakah yang sama seperti binatang ini? Dan siapakah yang dapat berperang melawan dia?" (13:4). Binatang kedua menawarkan kekayaan dan keamanan: ia bekerja melalui tanda-tanda dan mukjizat, dan melalui pasar yang hanya terbuka bagi mereka yang menerima tandanya (13:13–17) — {{% int_link val="lihat juga dalam konteks historisnya" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
 
 Jika kita memperhatikan {{% int_link val="keempat penunggang kuda, kita menemukan pola yang sama" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
 

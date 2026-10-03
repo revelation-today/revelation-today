@@ -93,7 +93,7 @@ There's another interesting chiasmus hidden in that last row. "Here is ... patie
 He does this in two ways:
 
 - By force and intimidation ({{% bible val="conquering the saints" link="rev:13,7" lang="en" %}}, {{% bible val="killing any resistance" link="rev:13,10" lang="en" %}} or {{% bible val="people who don’t want to follow" link="rev:13,15" lang="en" %}}).
-- By deception, which is a little harder to understand, but I will explain.
+- By deception, which is a little harder to understand, but I will explain. It has two faces: the first beast promises power and control, the second wealth and security.
 
 Start with a few observations that point that way:
 

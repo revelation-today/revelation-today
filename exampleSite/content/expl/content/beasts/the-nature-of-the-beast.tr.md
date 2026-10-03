@@ -62,7 +62,7 @@ Bu üç görünüm birbiriyle bağlantılıdır; her biri Şeytan'ın faaliyetin
 
 Kiliseyi aldatmak için {{% int_link val="kötü bir üçlü kurar" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama {{% int_link val="bunda başarılı olamaz" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
-{{% int_link val="Ejderha ve canavarlar, amaçlarına ulaşmak için birlikte çalışacak şekilde betimlenir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama farklı biçimlerde hareket ederler: ilk canavar şiddete dayanırken, ikincisi belirtilere, mucizelere ve ekonomik baskıya dayanır — {{% int_link val="tarihsel bağlamda da bunu görebilirsiniz" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
+{{% int_link val="Ejderha ve canavarlar, amaçlarına ulaşmak için birlikte çalışacak şekilde betimlenir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama farklı biçimlerde aldatırlar. İlk canavar güç ve denetim sunar ve bu teklifi şiddetle destekler: "Bu canavar gibisi var mı? Onunla kim savaşabilir?" (13:4). İkincisi zenginlik ve güvenlik sunar: belirtiler ve harikalarla ve yalnızca işaretini alanlara açık bir pazarla çalışır (13:13–17) — {{% int_link val="tarihsel bağlamda da bunu görebilirsiniz" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
 
 Şimdi {{% int_link val="dört atlıya baktığımızda da aynı örüntüyü görürüz" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
 

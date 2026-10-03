@@ -62,7 +62,7 @@ Um besser zu verstehen, wie der Teufel beschrieben wird, müssen wir uns die {{%
 
 Er {{% int_link val="errichtet eine böse Dreifaltigkeit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, um die Gemeinde zu täuschen, aber {{% int_link val="ohne Erfolg" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
-Der {{% int_link val="Drache und die Tiere arbeiten zusammen, um ihr Ziel zu erreichen" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, gehen dabei aber unterschiedlich vor: Das erste Tier setzt auf Gewalt, während das zweite auf Zeichen, Wunder und wirtschaftlichen Druck setzt — {{% int_link val="siehe auch im historischen Kontext" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
+Der {{% int_link val="Drache und die Tiere arbeiten zusammen, um ihr Ziel zu erreichen" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, täuschen dabei aber auf unterschiedliche Weise. Das erste Tier bietet Macht und Kontrolle und stützt dieses Angebot mit Gewalt: „Wer ist dem Tier gleich, und wer kann mit ihm kämpfen?“ (13,4). Das zweite bietet Wohlstand und Sicherheit: Es wirkt durch Zeichen und Wunder und durch einen Markt, der nur denen offensteht, die sein Malzeichen annehmen (13,13–17) — {{% int_link val="siehe auch im historischen Kontext" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
 
 Betrachten wir nun {{% int_link val="die vier Reiter, finden wir dasselbe Muster" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
 

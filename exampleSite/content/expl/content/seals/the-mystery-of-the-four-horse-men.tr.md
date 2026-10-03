@@ -22,6 +22,10 @@ sources:
       ref: aune_rev
     - pages: 377, 386
       ref: beale_rev
+    - pages: 263, 282–283
+      ref: bauckham_climax
+    - pages: 84–87
+      ref: bauckham_rev
 ---
 
 Vahiy Kitabı'nda dört atlı görürüz — tüm dünyaya savaş, kıtlık ve ölüm getiren kıyamet binicileri. Ama ilki şemaya tam oturmaz ve pek çok baş ağrısına neden olur: bu gerçekten tartışmalı bir konudur.
@@ -102,6 +106,8 @@ Bu kafa karıştırıcıdır — neden hem iyi hem de kötü bir anlama işaret 
 <a name="12b0"></a>
 Açıkça ortaya çıkıyor ki ilk atlı kötüdür, ama iyiymiş gibi — İsa gibi — davranır. Bu, bağlam ışığında da mantıklıdır: {{% bible val="bir önceki bölümde İsa, tomarı açmaya layık olan tek kişi olarak ortaya çıkmıştı" link="rev:5" lang="tr" %}}, şimdi ise buna karşılık şeytanın gerçek doğası açığa çıkmaktadır — büyük bir vaatten (fethetmek), savaşa (imansızlara zulüm), açlık ve haksızlığa (üçüncü atlı), ve nihayet ölüm ve yıkıma doğru ilerleyerek. İşte bu yüzden hemen sonraki mühür, doğruların çığlığını anlatır: "{{% bible val="Bu ne zamana kadar sürecek?" link="rev:6,9-11" lang="tr" %}}" Dört atlının tümünün kötü doğası artık açıktır. Bu tartışmalı bir noktadır ve ilk atlının olumlu okumasının hâlâ yetkin savunucuları vardır.[^rider]
 
+Beşinci mühür hemen ardından gelir. Tanıklıkları uğruna öldürülenler haykırır: "Yeryüzünde yaşayanları yargılayıp onlardan kanımızın öcünü almak için daha ne kadar bekleyeceksin?" (6:10). "Yeryüzünde yaşayanlar", Vahiy'de aldatılmış insanların adıdır — ikinci canavarın aldattığı aynı insanlar (13:14). Yanıt beklediğimiz gibi değildir. Şehitlere, tanık kardeşleri tanıklıklarını tamamlayana dek beklemeleri söylenir (6:11). Kitap onların sorusuna döndüğünde, onu yanıtlayan iki tanıktır: tam da onların ölümüne sevinen insanlar (11:10) sarsılır ve çoğu Tanrı'ya yücelik verir (11:13).[^cry] Öç iptal edilmemiştir. Yine de reddedenlerin ve her şeyden önce onları aldatan güç olan Babil'in üzerine düşer: "Kullarının kanının öcünü ondan aldı" (19:2).
+
 Ve şimdi {{% bible val="Tanrı'nın belalarına" link="ezk:14,12-23" lang="tr" %}} — vahşi hayvanlar, kılıç, kıtlık ve salgın hastalık — yapılan gönderme de anlam kazanır. Dördüncü atlının tasvirinde zaten belirtilen doğrudan yankının ötesinde (Va.6:8), her atlıyı ipucu niteliğinde şöyle de eşleştirebiliriz:
 
 - İlk atlı vahşi hayvanları temsil eder, çünkü {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} {{% int_link val="iki canavarı çağırır" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve {{% bible val="aldatmayı" link="2co:11,14" lang="tr" %}} temsil eder — pek çok vaatte bulunur.
@@ -114,3 +120,5 @@ Ve şimdi {{% bible val="Tanrı'nın belalarına" link="ezk:14,12-23" lang="tr" 
 [^voice]: Beale, s. 381. Fiyatları da verir: olağanın yaklaşık sekiz ila on altı katı.
 
 [^rider]: İlk atlının şeytani bir taklit olarak okunması Beale'i izler, s. 375–377. Olumlu okuma için onun saydığı yorumculara bakınız: Hendriksen, Ladd, Sweet ve başkaları (s. 375, dn. 16).
+
+[^cry]: Bauckham, *Climax*, s. 263, 282–283; *Theology*, s. 84–87.

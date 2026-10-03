@@ -22,6 +22,10 @@ sources:
       ref: aune_rev
     - pages: 377, 386
       ref: beale_rev
+    - pages: 263, 282–283
+      ref: bauckham_climax
+    - pages: 84–87
+      ref: bauckham_rev
 ---
 
 Dalam Kitab Wahyu kita melihat empat penunggang kuda - penunggang apokaliptik yang membawa perang, kelaparan, dan kematian ke seluruh bumi. Namun penunggang kuda pertama tidak sesuai begitu saja dengan pola ini, dan ia menimbulkan banyak masalah: ini benar-benar topik yang diperdebatkan.
@@ -102,6 +106,8 @@ Ini membingungkan - mengapa ada rujukan-rujukan yang menunjuk baik kepada makna 
 <a name="8d71"></a>
 Menjadi jelas bahwa penunggang kuda pertama itu jahat, tetapi berpura-pura baik - berpura-pura seperti Yesus. Hal ini juga masuk akal jika kita memperhatikan konteksnya: {{% bible val="pada pasal sebelumnya Yesus dinyatakan sebagai satu-satunya yang layak membuka gulungan kitab itu" link="rev:5" lang="ind" %}}, dan sekarang, sebagai jawabannya, hakikat sejati Iblis disingkapkan - bergerak dari sebuah janji besar (untuk menang), menuju perang (penganiayaan terhadap orang-orang yang tidak percaya), menuju kelaparan dan ketidakadilan (penunggang kuda ketiga), hingga akhirnya kematian dan kehancuran. Itulah sebabnya meterai berikutnya langsung menggambarkan seruan orang-orang benar: "{{% bible val="Berapa lama lagi hal ini akan berlangsung?" link="rev:6,9-11" lang="ind" %}}" Hakikat jahat keempat penunggang kuda itu kini menjadi jelas. Hal ini diperdebatkan, dan pembacaan positif atas penunggang kuda pertama masih memiliki pembela yang cakap.[^rider]
 
+Meterai kelima segera menyusul. Mereka yang dibunuh karena kesaksian mereka berseru: "Berapa lamakah lagi … Engkau tidak menghakimi dan tidak membalaskan darah kami kepada mereka yang diam di bumi?" (6:10). "Mereka yang diam di bumi" adalah sebutan Kitab Wahyu bagi orang-orang yang telah terpedaya - orang-orang yang sama yang disesatkan oleh binatang kedua (13:14). Jawabannya tidak seperti yang kita duga. Para martir disuruh menunggu sampai rekan-rekan saksi mereka menyelesaikan kesaksiannya (6:11). Dan ketika kitab ini kembali kepada pertanyaan mereka, kedua saksi itulah yang menjawabnya: justru orang-orang yang bergembira atas kematian mereka (11:10) menjadi gentar, dan sebagian besar dari mereka memuliakan Allah (11:13).[^cry] Pembalasan tidak dibatalkan. Pembalasan itu menimpa mereka yang masih menolak, dan terutama Babel, kuasa yang telah menyesatkan mereka: "Ia telah membalaskan darah hamba-hamba-Nya atas dia" (19:2).
+
 Dan sekarang rujukan kepada {{% bible val="malapetaka-malapetaka Allah" link="ezk:14,12-23" lang="ind" %}} - binatang buas, pedang, kelaparan, dan sampar - juga menjadi masuk akal. Selain gema langsung yang telah disebutkan pada penunggang kuda keempat (Wahyu 6:8), kita juga dapat memetakan setiap penunggang secara sugestif sebagai berikut:
 
 - Penunggang kuda pertama melambangkan binatang-binatang buas, sebab ia {{% int_link val="memanggil kedua binatang itu" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} dalam {{% bible val="pasal 13" link="rev:13" lang="ind" %}} dan melambangkan {{% bible val="penipuan" link="2co:11,14" lang="ind" %}} - ia membuat banyak janji.
@@ -114,3 +120,5 @@ Ingatlah ini: seberapa pun menariknya tawaran Iblis kelihatannya, dan seberapa p
 [^voice]: Beale, hlm. 381. Ia juga menyebut harganya: sekitar delapan sampai enam belas kali harga biasa.
 
 [^rider]: Pembacaan penunggang pertama sebagai tiruan dari Iblis mengikuti Beale, hlm. 375–377. Untuk pembacaan positif, lihat para penafsir yang ia sebutkan: Hendriksen, Ladd, Sweet, dan lainnya (hlm. 375, cat. 16).
+
+[^cry]: Bauckham, *Climax*, hlm. 263, 282–283; *Theology*, hlm. 84–87.

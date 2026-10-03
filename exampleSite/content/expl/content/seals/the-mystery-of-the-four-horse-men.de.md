@@ -22,6 +22,10 @@ sources:
       ref: aune_rev
     - pages: 377, 386
       ref: beale_rev
+    - pages: 263, 282–283
+      ref: bauckham_climax
+    - pages: 84–87
+      ref: bauckham_rev
 ---
 
 In der Offenbarung sehen wir vier apokalyptische Reiter, die Krieg, Hunger und Tod über die ganze Erde bringen. Doch der erste Reiter fügt sich nicht sauber in dieses Schema ein und bereitet einige Kopfschmerzen: Er ist ein wirklich umstrittenes Thema.
@@ -102,6 +106,8 @@ Das ist verwirrend — warum gibt es Hinweise, die sowohl auf eine gute als auch
 <a name="8d71"></a>
 Es wird deutlich: Der erste Reiter ist böse, gibt aber vor, gut zu sein — so wie Jesus. Das ergibt auch im Kontext Sinn: {{% bible val="Im vorherigen Kapitel wurde Jesus als der Einzige offenbart, der würdig ist, die Schriftrolle zu öffnen" link="rev:5" lang="de" %}}, und nun wird als Antwort darauf die wahre Natur des Teufels enthüllt — vom großen Versprechen (zu siegen) über Krieg (Verfolgung der Nichtgläubigen) und Hunger mit Ungerechtigkeit (der dritte Reiter) bis hin schließlich zu Tod und Zerstörung. Deshalb beschreibt das unmittelbar folgende Siegel den Schrei der Gerechten: "{{% bible val="Wie lange noch?" link="rev:6,9-11" lang="de" %}}" Die böse Natur aller vier Reiter ist nun offenkundig. Das ist umstritten, und die positive Deutung des ersten Reiters hat nach wie vor fähige Verfechter.[^rider]
 
+Das fünfte Siegel folgt unmittelbar. Die um ihres Zeugnisses willen Getöteten rufen: „Wie lange … richtest du nicht und rächst nicht unser Blut an denen, die auf der Erde wohnen?“ (6,10). „Die auf der Erde wohnen“ ist in der Offenbarung der Name für die Menschen, die sich haben täuschen lassen — dieselben, die das zweite Tier verführt (13,14). Die Antwort ist nicht die, die wir erwarten. Den Märtyrern wird gesagt, sie sollen warten, bis ihre Mitzeugen ihr Zeugnis vollendet haben (6,11). Und als das Buch zu ihrer Frage zurückkehrt, sind es die zwei Zeugen, die sie beantworten: Gerade die Menschen, die sich über ihren Tod freuten (11,10), werden erschüttert, und die meisten von ihnen geben Gott die Ehre (11,13).[^cry] Die Vergeltung ist nicht aufgehoben. Sie trifft die, die sich dennoch verweigern, und vor allem Babylon, die Macht, die sie verführt hat: „Er hat das Blut seiner Knechte an ihr gerächt“ (19,2).
+
 Und jetzt ergibt auch der Bezug zu {{% bible val="Gottes Plagen" link="ezk:14,12-23" lang="de" %}} Sinn — wilde Tiere, Schwert, Hunger und Pest. Über die bereits erwähnte direkte Entsprechung beim vierten Reiter (Offb 6,8) hinaus lässt sich jeder Reiter auch andeutungsweise so zuordnen:
 
 - Der erste Reiter steht für die wilden Tiere, denn er {{% int_link val="ruft die beiden Tiere" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} in {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} und verkörpert die {{% bible val="Täuschung" link="2co:11,14" lang="de" %}} — er macht viele Versprechungen.
@@ -114,3 +120,5 @@ Eines sollte man sich merken: Wie verlockend das Angebot des Teufels auch ausseh
 [^voice]: Beale, S. 381. Er nennt auch die Preise: etwa das Acht- bis Sechzehnfache des Üblichen.
 
 [^rider]: Die Deutung des ersten Reiters als satanische Nachahmung folgt Beale, S. 375–377. Für die positive Deutung siehe die von ihm genannten Ausleger: Hendriksen, Ladd, Sweet und andere (S. 375, Anm. 16).
+
+[^cry]: Bauckham, *Climax*, S. 263, 282–283; *Theology*, S. 84–87.

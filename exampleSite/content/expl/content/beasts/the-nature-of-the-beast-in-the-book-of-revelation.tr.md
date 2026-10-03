@@ -92,7 +92,7 @@ Bu son satırda gizlenmiş bir başka ilginç kiazma daha var. "İşte ... sabı
 Şeytan bunu iki şekilde yapar:
 
 - Güç ve gözdağıyla ({{% bible val="kutsalları fetheder" link="rev:13,7" lang="tr" %}}, {{% bible val="her türlü direnişi" link="rev:13,10" lang="tr" %}} ya da {{% bible val="izlemek istemeyenleri öldürür" link="rev:13,15" lang="tr" %}}).
-- Aldatmayla — bunu anlamak biraz daha zor, ama açıklayacağım.
+- Aldatmayla — bunu anlamak biraz daha zor, ama açıklayacağım. Bunun iki yüzü vardır: ilk canavar güç ve denetim vaat eder, ikincisi zenginlik ve güvenlik.
 
 Bu yöne işaret eden birkaç gözlemle başlayalım:
 

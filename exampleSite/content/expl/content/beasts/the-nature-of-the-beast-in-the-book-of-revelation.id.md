@@ -88,7 +88,7 @@ Ada satu kiasmus menarik lagi yang tersembunyi di baris terakhir itu. "Yang pent
 Ia melakukan ini dengan dua cara:
 
 - Dengan kekerasan dan intimidasi ({{% bible val="mengalahkan orang-orang kudus" link="rev:13,7" lang="ind" %}}, {{% bible val="membunuh setiap perlawanan" link="rev:13,10" lang="ind" %}}, atau {{% bible val="orang-orang yang tidak mau mengikuti" link="rev:13,15" lang="ind" %}}).
-- Dengan tipu daya, yang sedikit lebih sulit dipahami, tetapi akan dijelaskan.
+- Dengan tipu daya, yang sedikit lebih sulit dipahami, tetapi akan dijelaskan. Tipu daya itu punya dua wajah: binatang pertama menjanjikan kuasa dan kendali, binatang kedua kekayaan dan keamanan.
 
 Mulailah dengan beberapa pengamatan yang mengarah ke sana:
 

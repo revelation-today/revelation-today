@@ -22,6 +22,10 @@ sources:
       ref: aune_rev
     - pages: 377, 386
       ref: beale_rev
+    - pages: 263, 282–283
+      ref: bauckham_climax
+    - pages: 84–87
+      ref: bauckham_rev
 ---
 
 In the Book of Revelation we see four horsemen — apocalyptic riders who bring war, famine, and death to the whole world. But the first one doesn't fit neatly into the scheme, and he causes a lot of headaches: this is a genuinely controversial topic.
@@ -102,6 +106,8 @@ This is confusing — why are there references pointing to both a good and an ev
 <a name="6235"></a>
 It becomes clear that the first horseman is evil but pretends to be good — to be like Jesus. That also makes sense in light of the context: {{% bible val="the previous chapter Jesus was revealed as the only one worthy of opening the scroll" link="rev:5" lang="en" %}}, and now the devil's true nature is revealed in response — moving from a great promise (to conquer), to war (persecution of non-believers), to hunger and injustice (the third horseman), to finally death and destruction. That is why the very next seal describes the cry of the righteous: "{{% bible val="How long this will go on?" link="rev:6,9-11" lang="en" %}}" The evil nature of all four horsemen is now clear. This is a disputed point, and the positive reading of the first rider still has able defenders.[^rider]
 
+The fifth seal follows at once. Those who were killed for their testimony cry out: "How long … until you judge those who live on the earth and avenge our blood?" (6:10). "Those who live on the earth" is Revelation's name for the people who have been taken in — the same people the second beast deceives (13:14). The answer is not what we expect. The martyrs are told to wait until their fellow witnesses have finished their testimony (6:11). And when the book returns to their question, it is the two witnesses who answer it: the very people who gloated over their death (11:10) are shaken, and most of them give glory to God (11:13).[^cry] Vengeance is not cancelled. It falls on those who still refuse, and above all on Babylon, the power that deceived them: "he has avenged on her the blood of his servants" (19:2).
+
 And now the reference to {{% bible val="God's plagues" link="ezk:14,12-23" lang="en" %}} — wild beasts, sword, famine, and pestilence — also makes sense. Beyond the direct echo already noted in the fourth horseman's own description (Rev 6:8), we can also map each rider suggestively as follows:
 
 - The first horseman represents the wild beasts, since he {{% int_link val="calls the two beasts" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} in {{% bible val="chapter 13" link="rev:13" lang="en" %}} and embodies {{% bible val="deception" link="2co:11,14" lang="en" %}} — he makes many promises.
@@ -114,3 +120,5 @@ Remember this: no matter how attractive the devil's offer may look, and no matte
 [^voice]: Beale, p. 381. He also gives the prices: about eight to sixteen times the usual.
 
 [^rider]: The reading of the first rider as a satanic counterfeit follows Beale, pp. 375–377. For the positive reading see the commentators he lists: Hendriksen, Ladd, Sweet and others (p. 375 n. 16).
+
+[^cry]: Bauckham, *Climax*, pp. 263, 282–283; *Theology*, pp. 84–87.

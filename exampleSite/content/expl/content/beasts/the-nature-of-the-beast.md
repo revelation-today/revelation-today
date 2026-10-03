@@ -62,7 +62,7 @@ To better understand how the devil is described, we need to look at the {{% bibl
 
 He sets {{% int_link val="up an evil trinity" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}} to deceive the church, but {{% int_link val="to no avail" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
-The {{% int_link val="dragon and the beasts are described as working together to accomplish their goal" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, but they act differently: the first beast relies on violence, while the second relies on signs, miracles, and economic pressure — {{% int_link val="see also in the historical context" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
+The {{% int_link val="dragon and the beasts are described as working together to accomplish their goal" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, but they deceive differently. The first beast offers power and control, and backs the offer with violence: "Who is like the beast, and who can fight against it?" (13:4). The second offers wealth and security: it works through signs and wonders, and through a market that is open only to those who take its mark (13:13–17) — {{% int_link val="see also in the historical context" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}.
 
 If we now look {{% int_link val="at the four horsemen, we find the same pattern" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} (developed in more detail there):
 
