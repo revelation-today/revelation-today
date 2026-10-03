@@ -58,10 +58,9 @@ ini — dengan satu perbedaan yang mencengangkan. Bukan Abraham, pihak yang lebi
 lemah, yang berjalan di antara hewan-hewan yang terbelah itu. Allah sendirilah,
 yang tampil sebagai api, yang lewat di antara potongan-potongan itu. Allah
 mengambil tempat Abraham di bawah kutuk perjanjian bahkan sebelum Abraham
-melanggar satu ketentuan pun. Itulah sebabnya, kemudian, ketika Abraham memang
-melanggar perjanjian itu — kehamilan Hagar yang ditimpakannya adalah contoh
-paling jelas — pada akhirnya Anak Allah sendirilah yang menanggung kutuk itu,
-bukan anak Abraham. Inilah "anugerah yang luar biasa" dari perjanjian itu:
+melanggar satu ketentuan pun. Itulah sebabnya, kemudian, ketika perjanjian itu
+dilanggar, pada akhirnya Anak Allah sendirilah yang menanggung kutuk itu,
+bukan anak-anak Abraham (Galatia 3:13). Inilah "anugerah yang luar biasa" dari perjanjian itu:
 Allah mengikat diri-Nya sendiri pada sebuah kutuk yang tidak layak Ia terima,
 demi seorang mitra yang tidak mampu memenuhi ketentuan-ketentuannya, jauh
 sebelum Golgota membuat pengaturan itu terlihat nyata dalam sejarah.

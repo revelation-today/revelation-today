@@ -45,9 +45,8 @@ broke his word.
 this exact covenant ritual takes place — sacrifices cut in half, arranged in two rows — but with
 one critical difference. It is not Abraham, the weaker party, who walks between the pieces. It
 is God Himself, represented by fire, who passes through. God takes on Abraham's place under the
-covenant curse before Abraham has even broken anything. So when Abraham later does break the
-covenant — by fathering a child through Hagar rather than trusting God's promise — the
-consequence doesn't fall on Abraham's line the way ancient covenant law would demand; ultimately
+covenant curse before Abraham has even broken anything. So when the covenant is later broken, the
+consequence doesn't finally fall on Abraham's line the way ancient covenant law would demand; ultimately
 it is God's own Son who dies in the place the curse pointed to. This is the gospel, quietly
 embedded in Genesis 15, centuries before Sinai and millennia before the cross.
 

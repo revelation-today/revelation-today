@@ -49,9 +49,8 @@ Hier wendet sich die Geschichte auf den Kopf. In 1. Mose 15 schließt Gott genau
 Bund mit Abraham – aber es ist nicht Abraham, die schwächere Partei, der zwischen den Stücken
 hindurchgeht. Es ist Gott selbst, der als Feuer erscheint und durch das Blut hindurchgeht. Gott
 nimmt den Fluch des Bundesbruchs auf sich selbst, noch bevor Abraham überhaupt etwas gebrochen
-hat. Und später, als Abraham tatsächlich die Treue bricht – indem er mit Hagar ein Kind zeugt,
-statt Gottes Verheißung zu vertrauen – ist es nicht Abrahams Sohn, der den Preis zahlt. Es ist
-schließlich Gottes eigener Sohn.
+hat. Und später, als der Bund gebrochen wird, sind es am Ende nicht Abrahams Kinder,
+die den Preis zahlen. Es ist Gottes eigener Sohn (Galater 3,13).
 
 Der Bund am Sinai folgt demselben antiken Rechtsmuster, das Nationalstaaten damals verwendeten:
 eine Präambel, die die größere Partei benennt („Ich bin der Herr, dein Gott"), ein Prolog, der

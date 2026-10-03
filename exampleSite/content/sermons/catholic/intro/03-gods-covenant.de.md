@@ -70,9 +70,9 @@ Abraham geht zwischen den Teilen hindurch. Abraham fällt in einen tiefen Schlaf
 selbst — erscheinend als rauchender Ofen und lodernde Fackel —, der allein durch das Blut
 hindurchgeht. Die stärkere Partei tritt an die Stelle der schwächeren unter dem Fluch.
 
-Das ist von enormer Bedeutung, denn Abraham hält seine Seite der Vereinbarung nicht vollkommen —
-man denke an seine Ungeduld, als er Ismael durch Hagar zeugte, statt Gottes Verheißung zu
-vertrauen. Doch der Fluch für den Bundesbruch sollte nie auf Abraham fallen. Gott war bereits an
+Das ist von enormer Bedeutung, denn Abrahams Familie wird die Treue nicht vollkommen halten,
+wie der Rest des Alten Testaments zeigt.
+Doch der Fluch für den Bundesbruch sollte nie auf Abraham fallen. Gott war bereits an
 seiner Stelle durch das Feuer gegangen. Was Genesis 15 vorwegnimmt, ist mit anderen Worten ein
 Vater, der die Strafe auf sich nimmt, die seinen untreuen Kindern zusteht. Darauf werden wir noch
 zurückkommen.

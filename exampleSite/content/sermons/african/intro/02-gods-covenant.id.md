@@ -27,7 +27,7 @@ Mengikat perjanjian semacam itu secara harfiah disebut "memotong perjanjian" —
 
 Dalam Kejadian 15, Allah membuat perjanjian jenis ini dengan Abraham — korban itu, dipotong menjadi dua, disusun dalam dua barisan. Tetapi inilah detail yang mengejutkan: bukan Abraham, pihak yang lebih lemah, yang berjalan di antara potongan-potongan itu. Allah sendirilah, dalam wujud api, yang melintas di antaranya. Allah mengambil ke atas diri-Nya sendiri kutuk yang seharusnya jatuh atas pihak yang melanggar perjanjian.
 
-Maka kemudian, ketika Abraham benar-benar melanggar perjanjian — memperoleh Ismael melalui Hagar alih-alih mempercayai janji Allah — bukan anak Abraham yang menanggung kutuk itu. Anak Allah sendirilah yang pada akhirnya menanggungnya, di kayu salib.
+Maka kemudian, ketika perjanjian itu dilanggar, pada akhirnya bukan anak-anak Abraham yang menanggung kutuk itu. Anak Allah sendirilah yang menanggungnya, di kayu salib: Kristus menjadi kutuk karena kita (Galatia 3:13).
 
 ## Perjanjian di Sinai
 

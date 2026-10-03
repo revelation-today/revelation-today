@@ -50,9 +50,9 @@ Di sinilah kisah ini berbalik. Dalam Kejadian 15, Allah membuat perjanjian jenis
 ini dengan Abraham — tetapi bukan Abraham, pihak yang lebih lemah, yang berjalan di antara
 potongan-potongan itu. Allah sendirilah yang melakukannya, muncul sebagai api, melintas
 melalui darah. Allah mengambil kutukan atas pelanggaran perjanjian ke atas diri-Nya sendiri
-bahkan sebelum Abraham melanggar apa pun. Dan kemudian, ketika Abraham memang mengingkari
-kesetiaannya — memiliki anak dari Hagar alih-alih mempercayai janji Allah — bukan anak Abraham
-yang membayar harganya. Pada akhirnya, Anak Allah sendirilah yang membayarnya.
+bahkan sebelum Abraham melanggar apa pun. Dan kemudian, ketika perjanjian itu dilanggar,
+pada akhirnya bukan anak-anak Abraham yang membayar harganya. Anak Allah sendirilah yang
+membayarnya (Galatia 3:13).
 
 Perjanjian di Sinai mengikuti pola hukum kuno yang sama yang digunakan oleh negara-bangsa
 pada masa itu: sebuah pembukaan yang menyebut pihak yang lebih besar ("Akulah TUHAN,

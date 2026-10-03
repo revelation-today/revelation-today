@@ -43,9 +43,8 @@ eylemi.
 **Avram'la yaşanan çarpıcı tersine dönüş.** {{% bible val="Yaratılış 15" link="gen:15" lang="tr" %}}'te, bu tam antlaşma ritüeli gerçekleşir — kurbanlar ikiye kesilir, iki sıra halinde
 düzenlenir — ama bir kritik farkla. Parçaların arasından yürüyen, zayıf taraf olan Avram
 değildir. Ateş şeklinde temsil edilen Tanrı'nın Kendisidir geçen. Tanrı, Avram henüz hiçbir şeyi
-bozmadan önce, Avram'ın yerini antlaşma lanetinin altında alır. Böylece Avram daha sonra
-gerçekten antlaşmayı bozduğunda — Tanrı'nın vaadine güvenmek yerine Hacer'den bir çocuk sahibi
-olarak — sonuç, antik antlaşma hukukunun talep edeceği gibi Avram'ın soyunun üzerine düşmez;
+bozmadan önce, Avram'ın yerini antlaşma lanetinin altında alır. Böylece antlaşma daha sonra
+bozulduğunda, sonuç, antik antlaşma hukukunun talep edeceği gibi sonunda Avram'ın soyunun üzerine düşmez;
 sonunda lanetin işaret ettiği yerde ölen, Tanrı'nın kendi Oğlu olur. Bu, Sina'dan yüzyıllar önce
 ve çarmıhtan bin yıllar önce, Yaratılış 15'e sessizce gömülmüş müjdedir.
 

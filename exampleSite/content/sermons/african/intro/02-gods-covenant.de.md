@@ -27,7 +27,7 @@ Einen solchen Bund zu schließen, hieß wörtlich, einen Bund zu "schneiden" —
 
 In 1. Mose 15 schließt Gott genau diese Art von Bund mit Abraham — das Opfer, in zwei Hälften geteilt, in zwei Reihen angeordnet. Aber hier ist das Erstaunliche: Nicht Abraham, die schwächere Partei, geht zwischen den Teilen hindurch. Gott selbst ist es, in Gestalt von Feuer, der hindurchzieht. Gott nimmt selbst den Fluch auf sich, der auf den fallen sollte, der den Bund bricht.
 
-Als Abraham später tatsächlich den Bund bricht — indem er Ismael mit Hagar zeugt, statt Gottes Verheißung zu vertrauen —, trägt nicht Abrahams Sohn den Fluch. Es ist Gottes eigener Sohn, der ihn schließlich trägt, am Kreuz.
+Als der Bund später gebrochen wird, tragen am Ende nicht Abrahams Kinder den Fluch. Es ist Gottes eigener Sohn, der ihn trägt, am Kreuz: Christus wurde für uns zum Fluch (Galater 3,13).
 
 ## Der Bund am Sinai
 

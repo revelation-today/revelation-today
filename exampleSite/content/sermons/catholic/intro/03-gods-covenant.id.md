@@ -71,8 +71,8 @@ bukan Abraham yang berjalan di antara potongan-potongan itu. Abraham jatuh ke da
 lelap, dan Allah sendirilah — yang tampak sebagai perapian berasap dan obor yang menyala — yang
 melewati darah itu sendirian. Pihak yang kuat mengambil tempat pihak yang lemah di bawah kutuk.
 
-Hal ini sangat penting, karena Abraham tidak menepati bagiannya dengan sempurna — pikirkan
-ketidaksabarannya dengan menjadi bapak Ismael melalui Hagar, alih-alih mempercayai janji Allah.
+Hal ini sangat penting, karena keluarga Abraham tidak akan setia dengan sempurna,
+sebagaimana ditunjukkan oleh seluruh Perjanjian Lama.
 Namun kutuk atas pelanggaran perjanjian itu tidak pernah akan jatuh pada Abraham. Allah sudah
 lebih dulu melewati api itu di tempatnya. Yang diantisipasi oleh Kejadian 15, dengan kata lain,
 adalah seorang Bapak yang menanggung hukuman yang seharusnya jatuh pada anak-anak-Nya yang tidak

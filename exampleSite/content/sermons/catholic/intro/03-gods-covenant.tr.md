@@ -66,8 +66,8 @@ değildir. İbrahim derin bir uykuya dalar ve parçaların arasından tek başı
 ocak ve alevli bir meşale olarak görünen — Tanrı'nın kendisidir. Güçlü taraf, lanetin altında
 zayıf tarafın yerini alır.
 
-Bu son derece önemlidir, çünkü İbrahim kendi payına düşeni kusursuzca yerine getirmez — Tanrı'nın
-vaadine güvenmek yerine Hacer aracılığıyla İsmail'i babası olmaktaki sabırsızlığını düşünün.
+Bu son derece önemlidir, çünkü İbrahim'in ailesi sadakatini kusursuzca korumayacaktır;
+Eski Antlaşma'nın geri kalanı bunu gösterir.
 Yine de antlaşmayı bozmanın laneti asla İbrahim'in üzerine düşmeyecekti. Tanrı, onun yerine
 çoktan ateşin içinden geçmişti. Başka bir deyişle, Tekvin 15'in önceden haber verdiği şey, sadakatsiz
 çocuklarının borçlu olduğu cezayı üstlenen bir Baba'dır. Buna daha sonra döneceğiz.

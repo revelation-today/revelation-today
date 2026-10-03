@@ -50,9 +50,8 @@ Genesis 15 follows this same ancient pattern of sacrifice and implied threat —
 staggering difference. It is not Abraham, the weaker party, who walks between the divided
 animals. It is God himself, appearing as fire, who passes between the pieces. God takes
 Abraham's place under the covenant curse before Abraham has even broken a single term.
-That is why, later, when Abraham does break the covenant — his impregnation of Hagar
-being the clearest instance — it is ultimately God's own Son who bears the curse instead
-of Abraham's son. This is the "amazing grace" of the covenant: God binds himself to a
+That is why, later, when the covenant is broken, it is ultimately God's own Son who
+bears the curse instead of Abraham's children (Galatians 3:13). This is the "amazing grace" of the covenant: God binds himself to a
 curse he did not deserve, on behalf of a partner who could not keep the terms, long before
 Calvary makes that arrangement visible in history.
 

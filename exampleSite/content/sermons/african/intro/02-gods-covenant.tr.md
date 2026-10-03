@@ -27,7 +27,7 @@ Böyle bir antlaşma yapmak, tam anlamıyla "antlaşma kesmek" olarak adlandır�
 
 Yaratılış 15'te Tanrı, Avram ile tam olarak bu türden bir antlaşma yapar — kurban ikiye bölünür, iki sıra halinde dizilir. Ama işte şaşırtıcı ayrıntı: parçaların arasından yürüyen, zayıf taraf olan Avram değildir. Ateş biçiminde geçen, Tanrı'nın kendisidir. Tanrı, antlaşmayı bozanın üzerine düşmesi gereken laneti kendi üzerine alır.
 
-Öyle ki daha sonra Avram antlaşmayı gerçekten bozduğunda — Tanrı'nın vaadine güvenmek yerine Hacer'den İsmail'i doğurttuğunda — laneti taşıyan Avram'ın oğlu olmaz. Sonunda laneti taşıyan, Tanrı'nın kendi Oğlu'dur, çarmıhta.
+Öyle ki daha sonra antlaşma bozulduğunda, laneti sonunda taşıyan Avram'ın çocukları olmaz. Laneti taşıyan, Tanrı'nın kendi Oğlu'dur, çarmıhta: Mesih bizim için lanetlendi (Galatyalılar 3:13).
 
 ## Sina'daki antlaşma
 

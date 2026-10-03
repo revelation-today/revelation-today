@@ -49,9 +49,8 @@ menunjukkan persis apa yang akan terjadi padanya jika ia mengingkari perkataanny
 terjadi — korban dipotong dua, disusun dalam dua baris — tetapi dengan satu perbedaan yang krusial.
 Bukan Abraham, pihak yang lebih lemah, yang berjalan di antara potongan-potongan itu. Allah
 sendirilah, digambarkan melalui api, yang lewat di tengahnya. Allah mengambil tempat Abraham di
-bawah kutuk perjanjian itu bahkan sebelum Abraham melanggar apa pun. Jadi ketika Abraham kemudian
-memang melanggar perjanjian itu — dengan memiliki anak melalui Hagar alih-alih mempercayai janji
-Allah — konsekuensinya tidak jatuh pada keturunan Abraham sebagaimana yang dituntut hukum
+bawah kutuk perjanjian itu bahkan sebelum Abraham melanggar apa pun. Jadi ketika perjanjian itu kemudian
+dilanggar, konsekuensinya pada akhirnya tidak jatuh pada keturunan Abraham sebagaimana yang dituntut hukum
 perjanjian kuno; pada akhirnya justru Anak Allah sendirilah yang mati di tempat yang dituju kutuk
 itu. Inilah Injil, tertanam diam-diam dalam Kejadian 15, berabad-abad sebelum Sinai dan ribuan
 tahun sebelum salib.

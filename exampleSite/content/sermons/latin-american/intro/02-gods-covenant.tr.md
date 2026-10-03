@@ -44,9 +44,9 @@ arasından yürümek görsel bir yemindi: bu antlaşmayı bozarsam bana olacak o
 İşte hikâyenin tersine döndüğü yer burası. Yaratılış 15'te Tanrı, İbrahim'le aynı türden bir
 antlaşma yapar — ama parçaların arasından yürüyen, zayıf taraf olan İbrahim değildir. Ateş
 biçiminde görünüp kanın arasından geçen Tanrı'nın kendisidir. Tanrı, İbrahim henüz hiçbir şeyi
-bozmadan önce, antlaşmayı bozmanın lanetini kendi üzerine alır. Ve daha sonra İbrahim, Tanrı'nın
-vaadine güvenmek yerine Hacer'den bir çocuk sahibi olarak sadakatsizlik ettiğinde, bedeli ödeyen
-İbrahim'in oğlu değildir. Sonunda bedeli ödeyen, Tanrı'nın kendi Oğlu'dur.
+bozmadan önce, antlaşmayı bozmanın lanetini kendi üzerine alır. Ve daha sonra antlaşma bozulduğunda,
+bedeli sonunda ödeyen İbrahim'in çocukları değildir. Bedeli ödeyen, Tanrı'nın kendi Oğlu'dur
+(Galatyalılar 3:13).
 
 Sina'daki antlaşma, o dönemin ulus-devletlerinin kullandığı aynı antik hukuki kalıbı izler:
 büyük tarafı adlandıran bir giriş ("Ben senin Tanrın RAB'bim"), zaten gösterilmiş iyiliği

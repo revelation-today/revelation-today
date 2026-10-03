@@ -44,9 +44,9 @@ oath: this is what happens to me if I break this covenant.
 Here's where the story turns upside down. In Genesis 15, God makes this same kind of covenant
 with Abraham — but it's not Abraham, the weaker party, who walks between the pieces. It's God
 himself, appearing as fire, passing through the blood. God takes the curse of covenant-breaking
-onto himself before Abraham has even broken anything. And later, when Abraham does break faith
-— fathering a child with Hagar instead of trusting God's promise — it isn't Abraham's son who
-pays the price. It's God's own Son who eventually does.
+onto himself before Abraham has even broken anything. And later, when the covenant is broken,
+it isn't Abraham's children who pay the price in the end. It's God's own Son who does
+(Galatians 3:13).
 
 The covenant at Sinai follows the same ancient legal pattern nation-states used at the time:
 a preamble naming the greater party ("I am the Lord your God"), a prologue recalling kindness

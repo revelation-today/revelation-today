@@ -33,7 +33,7 @@ Here is something the English word "covenant" hides but the Hebrew doesn't: to m
 
 When God makes his covenant with Abraham in Genesis 15, the animals are cut and arranged exactly as we'd expect. But then comes the astonishing reversal: it is not Abraham who walks between the pieces. Abraham falls into a deep sleep, and it is God himself — appearing as a smoking firepot and a blazing torch — who passes through the blood alone. The stronger party takes the weaker party's place under the curse.
 
-This matters enormously, because Abraham does not keep his side of things perfectly — think of his impatience in fathering Ishmael through Hagar rather than trusting God's promise. Yet the curse for covenant-breaking was never going to fall on Abraham. God had already walked through the fire in his place. What Genesis 15 anticipates, in other words, is a Father who absorbs the penalty owed by his unfaithful children. We will come back to this.
+This matters enormously, because Abraham's family will not keep faith perfectly, as the rest of the Old Testament shows. Yet the curse for covenant-breaking was never going to fall on Abraham. God had already walked through the fire in his place. What Genesis 15 anticipates, in other words, is a Father who absorbs the penalty owed by his unfaithful children. We will come back to this.
 
 ## Sinai: a covenant read aloud, sealed at a meal
 

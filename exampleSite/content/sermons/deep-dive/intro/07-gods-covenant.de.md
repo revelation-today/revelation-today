@@ -48,8 +48,7 @@ findet genau dieses Bundesritual statt — Opfertiere in zwei Hälften geschnitt
 angeordnet —, aber mit einem entscheidenden Unterschied. Es ist nicht Abraham, die schwächere
 Partei, der zwischen den Teilen hindurchgeht. Es ist Gott selbst, dargestellt durch Feuer, der
 hindurchzieht. Gott nimmt Abrahams Platz unter dem Bundesfluch ein, bevor Abraham überhaupt etwas
-gebrochen hat. Als Abraham später also tatsächlich den Bund bricht — indem er durch Hagar ein Kind
-zeugt, statt Gottes Verheißung zu vertrauen —, fällt die Konsequenz nicht auf Abrahams Linie, wie
+gebrochen hat. Als der Bund später also gebrochen wird, fällt die Konsequenz am Ende nicht auf Abrahams Linie, wie
 antikes Bundesrecht es verlangen würde; letztlich ist es Gottes eigener Sohn, der an der Stelle
 stirbt, auf die der Fluch verwies. Das ist das Evangelium, still eingebettet in 1. Mose 15,
 Jahrhunderte vor dem Sinai und Jahrtausende vor dem Kreuz.

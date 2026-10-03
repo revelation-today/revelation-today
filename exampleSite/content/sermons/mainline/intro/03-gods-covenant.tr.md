@@ -49,8 +49,8 @@ Yaratılış 15, bu aynı antik kurban ve örtük tehdit örüntüsünü izler �
 Bölünmüş hayvanların arasından yürüyen, zayıf taraf olan İbrahim değildir. Ateş biçiminde
 görünüp parçaların arasından geçen Tanrı'nın kendisidir. Tanrı, İbrahim daha antlaşmanın tek
 bir şartını bile bozmadan, antlaşma lanetinin altına İbrahim'in yerine geçer. Bu yüzden daha
-sonra İbrahim antlaşmayı bozduğunda — Hacer'i gebe bırakması bunun en açık örneğidir — laneti
-sonunda İbrahim'in oğlu yerine Tanrı'nın kendi Oğlu taşır. İşte antlaşmanın bu "şaşırtıcı
+sonra antlaşma bozulduğunda, laneti sonunda İbrahim'in çocukları yerine Tanrı'nın kendi Oğlu
+taşır (Galatyalılar 3:13). İşte antlaşmanın bu "şaşırtıcı
 lütfu" budur: Tanrı, Golgota bu düzenlemeyi tarihte görünür kılmadan çok önce, şartları
 tutamayan bir ortak adına, hak etmediği bir laneti kendine bağlar.
 

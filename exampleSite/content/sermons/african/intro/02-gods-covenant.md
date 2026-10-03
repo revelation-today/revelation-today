@@ -27,7 +27,7 @@ Making such a covenant was called, literally, "cutting a covenant" — from the 
 
 In Genesis 15, God makes exactly this kind of covenant with Abraham — the sacrifice, cut in half, arranged in two lines. But here's the astonishing detail: it is not Abraham, the weaker party, who walks between the pieces. It is God himself, in the form of fire, who passes through. God takes on himself the curse that should fall on the one who breaks the covenant.
 
-So later, when Abraham does break covenant — fathering Ishmael through Hagar instead of trusting God's promise — it is not Abraham's son who bears the curse. It is God's own Son who eventually does, at the cross.
+So later, when the covenant is broken, it is not Abraham's children who bear the curse in the end. It is God's own Son who does, at the cross: Christ became a curse for us (Galatians 3:13).
 
 ## The covenant at Sinai
 
