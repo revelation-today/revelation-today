@@ -61,14 +61,14 @@ Jadi bagaimana kita menyelesaikan hal ini? Para nabi, ketika berbicara tentang H
 
 Konteks Daniel sendiri tidak memberi tahu kita secara pasti kapan hal ini akan terjadi, tetapi penggambaran dalam pasal 2 dan 7 {{% int_link val="menunjukkan bahwa ini pastilah Hari Tuhan" link="/expl/background/israel/the-day-of-the-lord" %}}.
 
-Perlu dicatat bahwa dalam Perjanjian Lama, hanya nabi Yehezkiel yang disebut "anak manusia" — tetapi di sana bahasa Ibraninya adalah "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)," "anak Adam," sementara Daniel menggunakan bahasa Aram "[kebar enas](https://biblehub.com/interlinear/daniel/7-13.htm)," "anak umat manusia." Kedua gelar ini tidak sepenuhnya sama.
+Perlu dicatat bahwa dalam Perjanjian Lama, "anak manusia" terutama adalah sapaan Allah kepada nabi Yehezkiel (dan satu kali kepada Daniel sendiri, 8:17) — di sana bahasa Ibraninya adalah "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)," "anak Adam," sementara Daniel 7:13 memakai bahasa Aram "[bar enash](https://biblehub.com/interlinear/daniel/7-13.htm)," "anak manusia," dengan kata kecil *ke* di depannya, "seperti": "seorang seperti anak manusia." Kedua gelar ini tidak sepenuhnya sama.
 
 ## Solusinya
 
 <a name="bcd4"></a>
 Ketika Yesus berbicara tentang diri-Nya sendiri, Ia [hanya menggunakan gelar Anak Manusia](https://www.bibleserver.com/search/NIV/%22son%20of%20man%22) — Ia adalah penggenapan penglihatan itu. Dan {{% bible val="karena Ia adalah Allah, Ia layak menerima penyembahan" link="rev:5,6-14" lang="ind" %}}.
 
-Jadi bagaimana nubuat ini diterapkan pada-Nya? Saya harap Anda sudah duduk dengan tenang, sebab menguraikan hal ini akan terasa cukup tidak nyaman.
+Jadi bagaimana nubuat ini diterapkan pada-Nya?
 
 Yesus adalah sisa Israel — tidak ada lagi orang lain yang tersisa untuk mengisi peran itu. Seperti umat kudus dalam penglihatan itu, Ia diserahkan, dikalahkan dan dibunuh, lalu dibenarkan: pengadilan bersidang, dan kerajaan diberikan kepada-Nya. Kekalahan mendahului kemenangan, bagi Dia sama seperti bagi mereka.
 
@@ -85,13 +85,13 @@ Yang Ia selamatkan, pada akhirnya, adalah {{% int_link val="sisa Israel" link="/
 <a name="0c4b"></a>
 Yesus adalah Anak Manusia, dan segala sesuatu adalah milik-Nya. Dalam Daniel 2, batu yang menghancurkan semua kerajaan itu tumbuh hingga memenuhi seluruh bumi — sebuah gambaran tentang Israel yang baru, gereja termasuk di dalamnya, yang menjangkau seluruh dunia.
 
-Gambaran yang sama muncul kembali dalam penggambaran {{% bible val="kedua saksi dalam Kitab Wahyu" link="rev:11,3-14" lang="ind" %}}, yang {{% int_link val="mewakili Israel yang baru, gereja termasuk di dalamnya" link="/expl/content/witnesses/the-two-witnesses" %}}. Mereka memerintah selama {{% bible val="3,5 tahun" link="rev:11,3" lang="ind" %}} ({{% int_link val="jika Anda penasaran apa sebenarnya 3,5 tahun itu" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}) dan dibunuh selama 3,5 hari sebelum dibangkitkan kembali — "satu masa, dua masa, dan setengah masa," sama seperti dalam nubuat tentang Anak Manusia.
+Gambaran yang sama muncul kembali dalam penggambaran {{% bible val="kedua saksi dalam Kitab Wahyu" link="rev:11,3-14" lang="ind" %}}, yang {{% int_link val="mewakili Israel yang baru, gereja termasuk di dalamnya" link="/expl/content/witnesses/the-two-witnesses" %}}. Mereka bernubuat selama {{% bible val="3,5 tahun" link="rev:11,3" lang="ind" %}} ({{% int_link val="jika Anda penasaran apa sebenarnya 3,5 tahun itu" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}) dan dibunuh selama 3,5 hari sebelum dibangkitkan kembali — "satu masa, dua masa, dan setengah masa," sama seperti dalam nubuat tentang Anak Manusia.
 
 Kedua saksi ini diidentifikasikan dengan Anak Manusia karena mereka menghidupi pola kehidupan Yesus sendiri:
 
 - {{% bible val="Hidup dalam kesederhanaan dan pertobatan" link="rev:11,3" lang="ind" %}}
 - {{% bible val="dipenuhi dengan Roh Kudus" link="rev:11,4" lang="ind" %}}
-- {{% bible val="Mereka tidak menggunakan kekerasan untuk menyerang orang, melainkan menyerahkan penghakiman kepada Allah" link="rev:11,5" lang="ind" %}}.
+- {{% bible val="Mereka tidak membawa senjata; api yang melindungi mereka adalah penghakiman Allah, bukan kekuatan mereka sendiri" link="rev:11,5" lang="ind" %}}.
 - {{% bible val="Mereka bersaksi dengan mukjizat-mukjizat" link="rev:11,6" lang="ind" %}}.
 - {{% bible val="Mereka dikalahkan oleh musuh setelah kesaksian mereka selesai" link="rev:11,7" lang="ind" %}}.
 - {{% bible val="Tetapi ini bukanlah kekalahan mereka, sebab mereka akan dibangkitkan seperti Yesus" link="rev:11,8-11" lang="ind" %}}.

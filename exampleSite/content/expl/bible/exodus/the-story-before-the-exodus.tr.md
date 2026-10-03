@@ -26,6 +26,6 @@ Hiksoslar sonunda MÖ 1550 civarında yenilgiye uğratıldı ve Mısır, ikinci 
 
 Birkaç ayrıntı, Yusuf’un bizzat Hiksos döneminde yaşadığını düşündürür:
 
-- {{% bible val="Yusuf oradayken Mısır’ın kuzeybatısındaki Goşen toprakları saraya yakındı" link="gen:45,10" lang="tr" %}}.
+- {{% bible val="Yusuf oradayken Mısır’ın kuzeydoğusundaki Goşen toprakları saraya yakındı" link="gen:45,10" lang="tr" %}}.
 - İsrail daha sonra {{% bible val="Pitom ve Ramses şehirlerini inşa etmek" link="exo:1,11" lang="tr" %}} zorunda bırakıldı; büyük olasılıkla kuzeydoğuyu yeniden inşa eden [II. Ramses](https://en.wikipedia.org/wiki/Ramesses_II) döneminde — İsrailliler’in sonunda {{% bible val="ayrılıp çıktığı" link="exo:12,37" lang="tr" %}} bölge de tam olarak burasıydı.
 - Ramses’in babası I. Sethos, eski Hiksos başkenti Avaris’in yakınında bir yazlık saray inşa ettirmişti. Bu ayrıntı da, Musa’nın prenses tarafından neden bu kadar çabuk bulunduğunu açıklar: saray hâlâ Goşen’e yakındı.

@@ -26,6 +26,6 @@ Bangsa Hyksos akhirnya dikalahkan sekitar tahun 1550 SM, dan Mesir bertekad untu
 
 Beberapa detail menunjukkan bahwa Yusuf sendiri hidup pada masa bangsa Hyksos:
 
-- {{% bible val="Tanah Gosyen, di barat laut Mesir, berada dekat dengan istana pada masa Yusuf berada di sana" link="gen:45,10" lang="ind" %}}.
+- {{% bible val="Tanah Gosyen, di timur laut Mesir, berada dekat dengan istana pada masa Yusuf berada di sana" link="gen:45,10" lang="ind" %}}.
 - Israel kemudian dipaksa untuk {{% bible val="membangun kota-kota Pitom dan Raamses" link="exo:1,11" lang="ind" %}}, yang kemungkinan besar dibangun pada masa [Ramses II](https://de.wikipedia.org/wiki/Ramses_II.), yang membangun kembali wilayah timur laut — wilayah yang sama tempat {{% bible val="orang Israel akhirnya berangkat keluar" link="exo:12,37" lang="ind" %}}.
 - Ayah Ramses, Sethos I, membangun sebuah istana musim panas di dekat Avaris, bekas ibu kota bangsa Hyksos. Detail itu juga menjelaskan mengapa Musa dapat begitu cepat ditemukan oleh sang putri: istana itu masih dekat dengan Gosyen.

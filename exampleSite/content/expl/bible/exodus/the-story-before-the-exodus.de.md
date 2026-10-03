@@ -26,6 +26,6 @@ Die Hyksos wurden schließlich um 1550 v. Chr. besiegt, und Ägypten war entschl
 
 Mehrere Details legen nahe, dass Josef selbst zur Zeit der Hyksos lebte:
 
-- Das {{% bible val="Land Goschen im Nordwesten Ägyptens lag in der Nähe des Palastes, als Josef dort war" link="gen:45,10" lang="de" %}}.
+- Das {{% bible val="Land Goschen im Nordosten Ägyptens lag in der Nähe des Palastes, als Josef dort war" link="gen:45,10" lang="de" %}}.
 - Israel wurde später gezwungen, die {{% bible val="Städte Pitom und Ramses zu bauen" link="exo:1,11" lang="de" %}}, höchstwahrscheinlich unter [Ramses II.](https://de.wikipedia.org/wiki/Ramses_II.), der den Nordosten wieder aufbaute — genau die Region, {{% bible val="aus der die Israeliten schließlich auszogen" link="exo:12,37" lang="de" %}}.
 - Ramses’ Vater, Sethos I., baute einen Sommerpalast in der Nähe von Avaris, der früheren Hauptstadt der Hyksos. Auch dieses Detail erklärt, wie Mose so schnell von der Prinzessin gefunden werden konnte: Der Palast lag noch immer nahe bei Goschen.

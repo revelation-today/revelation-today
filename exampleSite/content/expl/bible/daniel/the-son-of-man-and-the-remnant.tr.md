@@ -61,14 +61,14 @@ Peki bunu nasıl çözeriz? Peygamberler, Rab'bin Günü'nden söz ederken yaln�
 
 Daniel'in kendi bağlamı bunun tam olarak ne zaman gerçekleşeceğini söylemez, ama 2. ve 7. bölümlerdeki tasvirler, {{% int_link val="bunun Rab'bin Günü olması gerektiğini gösterir" link="/expl/background/israel/the-day-of-the-lord" %}}.
 
-Şunu belirtmekte fayda var: Eski Antlaşma'da yalnızca peygamber Hezekiel "İnsanoğlu" olarak adlandırılır — ama orada kullanılan İbranice ifade "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)", yani "Adem'in oğlu"dur; Daniel ise Aramice "[kebar enaş](https://biblehub.com/interlinear/daniel/7-13.htm)", yani "insanlığın oğlu" ifadesini kullanır. Bu iki unvan tam olarak aynı değildir.
+Şunu belirtmekte fayda var: Eski Antlaşma'da "insanoğlu" çoğunlukla Tanrı'nın peygamber Hezekiel'e hitabıdır (bir kez de Daniel'in kendisine, 8:17) — orada kullanılan İbranice ifade "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)", yani "Adem'in oğlu"dur; Daniel 7:13'te ise Aramice "[bar enaş](https://biblehub.com/interlinear/daniel/7-13.htm)", yani "insanoğlu" ifadesi yer alır; önündeki küçük *ke* sözcüğü "gibi" demektir: "insanoğluna benzer biri". Bu iki unvan tam olarak aynı değildir.
 
 ## Çözüm
 
 <a name="e03e"></a>
 İsa kendisinden söz ederken [yalnızca İnsanoğlu unvanını kullanır](https://www.bibleserver.com/search/NIV/%22son%20of%20man%22) — o, bu görümün yerine gelmesidir. Ve {{% bible val="Tanrı olduğu için tapınmayı hak eder" link="rev:5,6-14" lang="tr" %}}.
 
-Peki bu peygamberlik O'na nasıl uygulanır? Umarım oturuyorsunuzdur, çünkü bunu açmak biraz rahatsız edici olacak.
+Peki bu peygamberlik O'na nasıl uygulanır?
 
 İsa, İsrail'in kalıntısıdır — bu rolü doldurmak için geriye başka kimse kalmamıştır. Görümdeki kutsal halk gibi O da teslim edilir, yenilir ve öldürülür, sonra aklanır: mahkeme toplanır ve krallık O'na verilir. Yenilgi zaferden önce gelir; O'nun için de onlar için de.
 
@@ -85,13 +85,13 @@ Sonunda kurtardığı şey, {{% int_link val="İsrail'in kalıntısıydı" link=
 <a name="833c"></a>
 İsa, İnsanoğlu'dur ve her şey O'na aittir. Daniel 2'de, tüm krallıkları yok eden taş büyüyerek tüm dünyayı doldurur — bu, Kilise'yi de içeren Yeni İsrail'in tüm dünyaya ulaşmasının bir resmidir.
 
-Aynı imge, {{% int_link val="Kilise'yi de içeren Yeni İsrail'i temsil eden" link="/expl/content/witnesses/the-two-witnesses" %}} {{% bible val="Vahiy kitabındaki iki tanığın" link="rev:11,3-14" lang="tr" %}} tasvirinde yeniden karşımıza çıkar. Onlar {{% bible val="3,5 yıl" link="rev:11,3" lang="tr" %}} boyunca hüküm sürerler ({{% int_link val="bu 3,5 yılın ne olduğunu merak ediyorsanız" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}) ve dirilmeden önce 3,5 gün boyunca öldürülmüş kalırlar — tıpkı İnsanoğlu peygamberliğinde olduğu gibi, "bir zaman, iki zaman ve yarım zaman."
+Aynı imge, {{% int_link val="Kilise'yi de içeren Yeni İsrail'i temsil eden" link="/expl/content/witnesses/the-two-witnesses" %}} {{% bible val="Vahiy kitabındaki iki tanığın" link="rev:11,3-14" lang="tr" %}} tasvirinde yeniden karşımıza çıkar. Onlar {{% bible val="3,5 yıl" link="rev:11,3" lang="tr" %}} boyunca peygamberlik ederler ({{% int_link val="bu 3,5 yılın ne olduğunu merak ediyorsanız" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}) ve dirilmeden önce 3,5 gün boyunca öldürülmüş kalırlar — tıpkı İnsanoğlu peygamberliğinde olduğu gibi, "bir zaman, iki zaman ve yarım zaman."
 
 Tanıklar, İsa'nın kendi yaşamının örüntüsünü yaşadıkları için İnsanoğlu ile özdeşleştirilirler:
 
 - {{% bible val="Sadelik ve tövbe içinde yaşarlar" link="rev:11,3" lang="tr" %}}
 - {{% bible val="Kutsal Ruh'la doludurlar" link="rev:11,4" lang="tr" %}}
-- {{% bible val="İnsanlara saldırmak için şiddet kullanmaz, yargıyı Tanrı'ya bırakırlar" link="rev:11,5" lang="tr" %}}.
+- {{% bible val="Silah taşımazlar; onları koruyan ateş kendi güçleri değil, Tanrı'nın yargısıdır" link="rev:11,5" lang="tr" %}}.
 - {{% bible val="Mucizelerle tanıklık ederler" link="rev:11,6" lang="tr" %}}.
 - {{% bible val="Tanıklıkları tamamlandığında düşman tarafından yenilgiye uğratılırlar" link="rev:11,7" lang="tr" %}}.
 - {{% bible val="Ama bu onların yenilgisi değildir, çünkü İsa gibi diriltileceklerdir" link="rev:11,8-11" lang="tr" %}}.

@@ -61,14 +61,14 @@ Wie lässt sich das auflösen? Die Propheten sagen, wenn sie vom Tag des Herrn s
 
 Daniels eigener Kontext sagt uns nicht genau, wann das geschehen wird, aber die Beschreibungen in den Kapiteln 2 und 7 {{% int_link val="zeigen, dass es sich um den Tag des Herrn handeln muss" link="/expl/background/israel/the-day-of-the-lord" %}}.
 
-Es ist bemerkenswert, dass im Alten Testament nur der Prophet Hesekiel „Menschensohn“ genannt wird — aber dort steht im Hebräischen „[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)“, „Sohn Adams“, während Daniel das aramäische „[kebar enas](https://biblehub.com/interlinear/daniel/7-13.htm)“ verwendet, „Sohn der Menschheit“. Die beiden Titel sind nicht ganz dasselbe.
+Es ist bemerkenswert, dass im Alten Testament „Menschensohn“ vor allem die Anrede Gottes an den Propheten Hesekiel ist (und einmal an Daniel selbst, 8,17) — dort steht im Hebräischen „[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)“, „Sohn Adams“, während in Daniel 7,13 das aramäische „[bar enasch](https://biblehub.com/interlinear/daniel/7-13.htm)“ steht, „Menschensohn“, mit dem kleinen Wort *ke* davor, „wie“: „einer wie ein Menschensohn“. Die beiden Titel sind nicht ganz dasselbe.
 
 ## Die Lösung
 
 <a name="bcd4"></a>
 Wenn Jesus von sich selbst spricht, [verwendet er nur den Titel Menschensohn](https://www.bibleserver.com/search/SLT/%22Sohn%20des%20Menschen%22) — er ist die Erfüllung der Vision. Und {{% bible val="weil er Gott ist, ist er würdig, Anbetung zu empfangen" link="rev:5,6-14" lang="de" %}}.
 
-Wie also lässt sich die Prophezeiung auf ihn anwenden? Halt dich fest, denn das wird jetzt etwas unbequem.
+Wie also lässt sich die Prophezeiung auf ihn anwenden?
 
 Jesus ist der Überrest Israels — es gibt sonst niemanden mehr, der diese Rolle ausfüllen könnte. Wie das heilige Volk in der Vision wird er ausgeliefert, besiegt und getötet und dann ins Recht gesetzt: Das Gericht tritt zusammen, und das Königreich wird ihm gegeben. Die Niederlage kommt vor dem Sieg, für ihn wie für sie.
 
@@ -85,13 +85,13 @@ Was er am Ende rettete, war der {{% int_link val="Überrest Israels" link="/expl
 <a name="0c4b"></a>
 Jesus ist der Menschensohn, und alles gehört ihm. In Daniel 2 wächst der Stein, der alle Königreiche zerstört, bis er die ganze Erde erfüllt — ein Bild für das neue Israel, die Gemeinde eingeschlossen, das sich zur ganzen Welt hin ausstreckt.
 
-Dasselbe Bild taucht wieder auf in der Beschreibung der {{% bible val="zwei Zeugen im Buch der Offenbarung" link="rev:11,3-14" lang="de" %}}, die {{% int_link val="das neue Israel, Gemeinde eingeschlossen, repräsentieren" link="/expl/content/witnesses/the-two-witnesses" %}}. Sie herrschen {{% bible val="dreieinhalb Jahre" link="rev:11,3" lang="de" %}} ({{% int_link val="falls dich interessiert, was es mit diesen dreieinhalb Jahren auf sich hat" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}) und werden dreieinhalb Tage lang getötet, bevor sie auferweckt werden — „Zeit, Zeiten und eine halbe Zeit“, genau wie in der Prophezeiung vom Menschensohn.
+Dasselbe Bild taucht wieder auf in der Beschreibung der {{% bible val="zwei Zeugen im Buch der Offenbarung" link="rev:11,3-14" lang="de" %}}, die {{% int_link val="das neue Israel, Gemeinde eingeschlossen, repräsentieren" link="/expl/content/witnesses/the-two-witnesses" %}}. Sie weissagen {{% bible val="dreieinhalb Jahre" link="rev:11,3" lang="de" %}} ({{% int_link val="falls dich interessiert, was es mit diesen dreieinhalb Jahren auf sich hat" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}) und werden dreieinhalb Tage lang getötet, bevor sie auferweckt werden — „Zeit, Zeiten und eine halbe Zeit“, genau wie in der Prophezeiung vom Menschensohn.
 
 Die Zeugen werden mit dem Menschensohn identifiziert, weil sie das Muster von Jesu eigenem Leben ausleben:
 
 - {{% bible val="Sie leben in Einfachheit und Buße" link="rev:11,3" lang="de" %}}
 - {{% bible val="erfüllt vom Heiligen Geist" link="rev:11,4" lang="de" %}}
-- {{% bible val="Sie greifen Menschen nicht mit Gewalt an, sondern überlassen das Gericht Gott" link="rev:11,5" lang="de" %}}.
+- {{% bible val="Sie tragen keine Waffe; das Feuer, das sie schützt, ist Gottes Gericht, nicht ihre eigene Gewalt" link="rev:11,5" lang="de" %}}.
 - {{% bible val="Sie sind Zeugen mit Wundern" link="rev:11,6" lang="de" %}}.
 - {{% bible val="Sie werden vom Feind besiegt, wenn ihr Zeugnis vollendet ist" link="rev:11,7" lang="de" %}}.
 - {{% bible val="Aber das ist nicht ihre Niederlage, denn sie werden auferweckt wie Jesus" link="rev:11,8-11" lang="de" %}}.

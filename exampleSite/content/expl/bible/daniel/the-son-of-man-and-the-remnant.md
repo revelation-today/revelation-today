@@ -61,14 +61,14 @@ So how do we resolve that? The prophets, when they speak of the Day of the Lord,
 
 Daniel's own context doesn't tell us exactly when this will happen, but the descriptions in chapters 2 and 7 {{% int_link val="show that it must be the Day of the Lord" link="/expl/background/israel/the-day-of-the-lord" %}}.
 
-It's worth noting that in the Old Testament, only the prophet Ezekiel is called "Son of Man" — but there the Hebrew is "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)," "son of Adam," while Daniel uses the Aramaic "[kebar enas](https://biblehub.com/interlinear/daniel/7-13.htm)," "son of mankind." The two titles aren't quite the same.
+It's worth noting that in the Old Testament, "son of man" is mostly the way God addresses the prophet Ezekiel (and once Daniel himself, 8:17) — there the Hebrew is "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)," "son of Adam," while Daniel 7:13 has the Aramaic "[bar enash](https://biblehub.com/interlinear/daniel/7-13.htm)," "son of man," with the small word *ke* in front, "like": "one like a son of man." The two titles aren't quite the same.
 
 ## The solution
 
 <a name="77b0"></a>
 When Jesus refers to himself, he [uses only the title Son of Man](https://www.bibleserver.com/search/NIV/%22son%20of%20man%22) — he is the fulfillment of the vision. And {{% bible val="because he is God, he is worthy of receiving worship" link="rev:5,6-14" lang="en" %}}.
 
-So how does the prophecy apply to him? I hope you're sitting down, because working this through gets a bit uncomfortable.
+So how does the prophecy apply to him?
 
 Jesus is the remnant of Israel — there is no one else left to fill that role. Like the holy people in the vision, he is handed over, defeated and killed, and then vindicated: the court sits, and the kingdom is given to him. Defeat comes before victory, for him as for them.
 
@@ -85,13 +85,13 @@ What he saved, in the end, was the {{% int_link val="remnant of Israel" link="/e
 <a name="833c"></a>
 Jesus is the Son of Man, and all things belong to him. In Daniel 2, the stone that destroys all the kingdoms grows to fill the whole earth — a picture of the New Israel, the Church included, reaching out to the whole world.
 
-That same image resurfaces in the description of the {{% bible val="two witnesses in the Book of Revelation" link="rev:11,3-14" lang="en" %}}, who {{% int_link val="represent the New Israel, Church and all" link="/expl/content/witnesses/the-two-witnesses" %}}. They reign for {{% bible val="3.5 years" link="rev:11,3" lang="en" %}} ({{% int_link val="in case you're curious what those 3.5 years are" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}) and are killed for 3.5 days before being resurrected — "time, times, and half a time," just as in the prophecy of the Son of Man.
+That same image resurfaces in the description of the {{% bible val="two witnesses in the Book of Revelation" link="rev:11,3-14" lang="en" %}}, who {{% int_link val="represent the New Israel, Church and all" link="/expl/content/witnesses/the-two-witnesses" %}}. They prophesy for {{% bible val="3.5 years" link="rev:11,3" lang="en" %}} ({{% int_link val="in case you're curious what those 3.5 years are" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}) and are killed for 3.5 days before being resurrected — "time, times, and half a time," just as in the prophecy of the Son of Man.
 
 The witnesses are identified with the Son of Man because they live out the pattern of Jesus' own life:
 
 - {{% bible val="Living in simplicity and repentance" link="rev:11,3" lang="en" %}}
 - {{% bible val="filled with the Holy Spirit" link="rev:11,4" lang="en" %}}
-- {{% bible val="They do not use violence to attack people but leave the judgment to God" link="rev:11,5" lang="en" %}}.
+- {{% bible val="They carry no weapon; the fire that guards them is God's judgment, not their own force" link="rev:11,5" lang="en" %}}.
 - {{% bible val="They are witnesses with miracles" link="rev:11,6" lang="en" %}}.
 - {{% bible val="They are defeated by the enemy when their testimony is finished" link="rev:11,7" lang="en" %}}.
 - {{% bible val="But this is not their defeat because they will be resurrected like Jesus" link="rev:11,8-11" lang="en" %}}.
