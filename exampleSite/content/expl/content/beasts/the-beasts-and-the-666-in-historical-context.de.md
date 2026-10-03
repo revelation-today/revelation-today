@@ -27,7 +27,7 @@ Der Schlüssel zum Verständnis des Drachen und der beiden Tiere liegt darin, si
 
 Die beiden Tiere, die aus dem Meer und aus der Erde aufsteigen, gehen zurück auf:
 
-- {{% bible val="Behemoth" link="job:40,15-24" lang="de" %}}, das Tier von der Erde, dem sich {{% bible val="nur Gott, sein Schöpfer, mit dem Schwert nähern konnte" link="job:40,19" lang="de" %}} und das ebenso {{% bible val="in der Offenbarung mit dem Schwert verwundet wird" link="rev:13,14" lang="de" %}}, und
+- {{% bible val="Behemoth" link="job:40,15-24" lang="de" %}}, das Tier von der Erde, dem sich {{% bible val="nur Gott, sein Schöpfer, mit dem Schwert nähern konnte" link="job:40,19" lang="de" %}} — auch {{% bible val="in der Offenbarung wird ein Tier mit dem Schwert verwundet" link="rev:13,14" lang="de" %}}, und
 - {{% bible val="Leviathan" link="job:41" lang="de" %}}, das Tier aus dem Meer, dem {{% bible val="Flammen aus dem Maul schlagen" link="job:41,19" lang="de" %}}.
 
 Diese Tiere werden {{% bible val="von Gott unterworfen" link="job:7,12" lang="de" %}}, und das Alte Testament — einschließlich {{% bible val="Jesaja" link="isa:27,1" lang="de" %}} — erwartete, dass Gott den Leviathan am Ende der Zeit vollständig besiegen würde; die spätere jüdische Tradition (2. Baruch 29, 4. Esra 6) dehnt dasselbe Schicksal auch auf den Behemoth aus.

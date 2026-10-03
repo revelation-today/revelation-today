@@ -49,7 +49,7 @@ Tanrı'nın kendisi üç olduğu için Şeytan da her zaman bir üçlü biçimin
 - {{% bible val="Çocuğu yok etmeye çalışır — ve başarısız olur" link="rev:12,1-6" lang="tr" %}}.
 - {{% bible val="Mikail'e karşı savaşır — ve gökten kovulur" link="rev:12,7-12" lang="tr" %}}.
 - {{% bible val="Kadını yok etmeye çalışır — ve başarısız olur" link="rev:12,13-17" lang="tr" %}}.
-- {{% bible val="İsa'nın soyundan gelenleri, yani Kilise'yi yok etmeye çalışır" link="rev:13" lang="tr" %}} ve bu da başarısız olur; bunu {{% int_link val="666 sayısında" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}} göreceğiz.
+- {{% bible val="Kadının soyundan geri kalanları, yani Kilise'yi yok etmeye çalışır" link="rev:13" lang="tr" %}} ve bu da başarısız olur; bunu {{% int_link val="666 sayısında" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}} göreceğiz.
 
 Şeytan üçüncü kez {{% bible val="altıncı kâsede bir üçlü olarak" link="rev:16,13" lang="tr" %}} gösterilir; bu da daha sonra {{% bible val="19." link="rev:19,20" lang="tr" %}} ve {{% bible val="20." link="rev:20,10" lang="tr" %}} bölümlerde yargılanır. Bu pasajlar, canavarla fahişenin birlikte göründüğü fahişe öyküsünü çerçeveler.
 
@@ -79,7 +79,7 @@ Son olarak, aynı güçlerin iş başında olduğu fahişenin öyküsü var. İk
 | Vahiy 13'teki ilk canavar | Vahiy 17'deki canavar |
 |----------------------------------|----------------------------|
 | {{% bible val="7 başı ve 10 boynuzu vardır" link="rev:13,1" lang="tr" %}} | {{% bible val="7 başı ve 10 boynuzu vardır" link="rev:17,3" lang="tr" %}} |
-| {{% bible val="Başı boğazlanmış gibidir, yeniden büyür" link="rev:13,3" lang="tr" %}} | {{% bible val="5 kral düşmüştür, yedincisi henüz gelmedi" link="rev:17,10" lang="tr" %}} (ikisi de canavarın gizemli sürekliliğine ve geri dönüşüne işaret eder, krş. {{% bible val="var olan, şimdi olmayan ve yeniden gelecek olan canavar" link="rev:17,8" lang="tr" %}}) |
+| {{% bible val="Başı boğazlanmış gibidir, yeniden büyür" link="rev:13,3" lang="tr" %}} | {{% bible val="5 kral düşmüştür, biri duruyor, biri henüz gelmedi" link="rev:17,10" lang="tr" %}} (ikisi de canavarın gizemli sürekliliğine ve geri dönüşüne işaret eder, krş. {{% bible val="var olan, şimdi olmayan ve yeniden gelecek olan canavar" link="rev:17,8" lang="tr" %}}) |
 | {{% bible val="Canavara karşı kim savaşabilir" link="rev:13,4" lang="tr" %}} | {{% bible val="Canavar Kralların Kralı'na karşı savaş açar" link="rev:17,14" lang="tr" %}} |
 | {{% bible val="Küfür dolu konuşma" link="rev:13,5-6" lang="tr" %}} | {{% bible val="Küfür dolu ad" link="rev:17,3" lang="tr" %}} |
 | {{% bible val="Kutsallarla savaşır ve onları yener" link="rev:13,7" lang="tr" %}} | {{% bible val="Kuzu'yla savaşır ve yenilir" link="rev:17,14" lang="tr" %}} </br> {{% bible val="Fahişeyle savaşır ve onu yok eder" link="rev:17,16" lang="tr" %}}. |

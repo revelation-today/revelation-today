@@ -51,7 +51,7 @@ Dieses Tier hat viele Parallelen zum ersten Tier in Kapitel 13. Die folgende Tab
 | Das erste Tier aus Offenbarung 13 | Das Tier aus Offenbarung 17 |
 |----------------------------------|----------------------------|
 | Hat **7 Köpfe und 10 Hörner** {{% bible val="Offb.13/1" link="rev:13,1" lang="de" %}} | Hat **7 Köpfe und 10 Hörner** {{% bible val="Offb.17/3" link="rev:17,3" lang="de" %}} |
-| **{{% bible val="Kopf wie geschlachtet, wächst nach" link="rev:13,3" lang="de" %}}** | **{{% bible val="5 Könige gefallen, der siebte kommt noch" link="rev:17,10" lang="de" %}}** |
+| **{{% bible val="Kopf wie geschlachtet, wächst nach" link="rev:13,3" lang="de" %}}** | **{{% bible val="5 Könige gefallen, einer ist da, einer kommt noch" link="rev:17,10" lang="de" %}}** |
 | **{{% bible val="Tier scheint unangefochten" link="rev:13,4" lang="de" %}}** | **{{% bible val="Tier führt Krieg gegen den König der Könige" link="rev:17,14" lang="de" %}}** |
 | **Gotteslästerliche** Rede {{% bible val="Offb.13/5-6" link="rev:13,5-6" lang="de" %}} | **Gotteslästerlicher** Name {{% bible val="Offb.17/3" link="rev:17,3" lang="de" %}} |
 | **Kämpft gegen** *Heilige und besiegt sie* {{% bible val="Offb.13/7" link="rev:13,7" lang="de" %}} | **Kämpft gegen** das *Lamm und wird überwunden* {{% bible val="Offb.17/14" link="rev:17,14" lang="de" %}} </br> **Kämpft gegen** die *Hure und vernichtet sie* {{% bible val="Offb.17/16" link="rev:17,16" lang="de" %}} |
@@ -106,7 +106,7 @@ Sie hat viele Parallelen — meist als bewusster Kontrast — zur Braut in Kapit
 
 Sie teilt außerdem viele Gemeinsamkeiten mit Isebel, die in {{% bible val="Thyatira" link="rev:2,20" lang="de" %}} ihr eigenes Unheil anrichtete.
 
-| Die Hure | Isebel |
+| Isebel | Die Hure |
 |------------|--------|
 | **{{% bible val="Gott führte dies herbei" link="2ki:9,36" lang="de" %}}** | **{{% bible val="Gott hat es ins Herz gelegt, die Hure zu vernichten" link="rev:17,17" lang="de" %}}** |
 | Vor ihrem Tod **schminkte sich Isebel die Augen und machte ihr Haupt schön** {{% bible val="2.Kön.9/30" link="2ki:9,30" lang="de" %}} | Die Hure ist **geschmückt mit Gold, Purpur und Scharlach** {{% bible val="Offb.17/4" link="rev:17,4" lang="de" %}} |

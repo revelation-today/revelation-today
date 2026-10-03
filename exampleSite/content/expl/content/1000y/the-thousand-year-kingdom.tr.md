@@ -140,7 +140,7 @@ Hayır — {{% bible val="sunağın altındaki canlarla olan paralellik" link="r
 
 Peki bu, sadece imanları uğruna gerçekten ölen insanların hükmedeceği anlamına mı geliyor? Tam olarak değil — kitap, yalnızca şehitliği değil, farklı türde tanıklıkları ve farklı türde acıları anlatıyor:
 - {{% bible val="sürgündeki Yuhanna" link="rev:1,9" lang="tr" %}},
-- {{% bible val="canlarını (onu o kadar değerli görmeyecek kadar) sevmeyen galip gelenler" link="rev:12,10" lang="tr" %}},
+- {{% bible val="canlarını (onu o kadar değerli görmeyecek kadar) sevmeyen galip gelenler" link="rev:12,11" lang="tr" %}},
 - {{% bible val="ölüm karşısında sadık kalanlar" link="rev:2,10" lang="tr" %}},
 - {{% bible val="İsa'ya sadık kalanlar" link="rev:14,1-5" lang="tr" %}},
 - ve {{% bible val="krallar ve kâhinler olarak adlandırılan hepimiz" link="rev:1,4-6" lang="tr" %}}, {{% bible val="egemenlik sürenler" link="rev:5,9-10" lang="tr" %}}.

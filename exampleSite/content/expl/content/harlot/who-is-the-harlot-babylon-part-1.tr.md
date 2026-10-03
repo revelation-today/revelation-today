@@ -51,7 +51,7 @@ Bu canavarın, 13. bölümdeki İlk Canavar'la birçok paralelliği vardır. Aş
 | Vahiy 13'teki İlk Canavar | Vahiy 17'deki Canavar |
 |----------------------------------|----------------------------|
 | **7 baş ve 10 boynuzu** vardır {{% bible val="Vah.13/1" link="rev:13,1" lang="tr" %}} | **7 baş ve 10 boynuzu** vardır {{% bible val="Vah.17/3" link="rev:17,3" lang="tr" %}} |
-| **{{% bible val="Kesilmiş gibi görünen başı yeniden büyür" link="rev:13,3" lang="tr" %}}** | **{{% bible val="5 kral düştü, yedincisi henüz gelmedi" link="rev:17,10" lang="tr" %}}** |
+| **{{% bible val="Kesilmiş gibi görünen başı yeniden büyür" link="rev:13,3" lang="tr" %}}** | **{{% bible val="5 kral düştü, biri duruyor, biri henüz gelmedi" link="rev:17,10" lang="tr" %}}** |
 | **{{% bible val="Canavar rakipsiz görünür" link="rev:13,4" lang="tr" %}}** | **{{% bible val="Canavar Kralların Kralı'na karşı savaş açar" link="rev:17,14" lang="tr" %}}** |
 | **Küfürlü** konuşma {{% bible val="Vah.13/5-6" link="rev:13,5-6" lang="tr" %}} | **Küfürlü** isim {{% bible val="Vah.17/3" link="rev:17,3" lang="tr" %}} |
 | **Karşı savaşır** ve *kutsalları yener* {{% bible val="Vah.13/7" link="rev:13,7" lang="tr" %}} | **Karşı savaşır** ama *Kuzu'ya yenilir* {{% bible val="Vah.17/14" link="rev:17,14" lang="tr" %}} </br> **Karşı savaşır** ve *fahişeyi yok eder* {{% bible val="Vah.17/16" link="rev:17,16" lang="tr" %}} |
@@ -106,7 +106,7 @@ Fahişenin, çoğunlukla bilinçli bir karşıtlık olarak, 21. bölümdeki geli
 
 Fahişenin, {{% bible val="Thyatira'da" link="rev:2,20" lang="tr" %}} kendi başına dert açan Jezebel'le de birçok benzerliği vardır.
 
-| Fahişe | Jezebel |
+| Jezebel | Fahişe |
 |------------|--------|
 | **{{% bible val="Tanrı buna öncülük etti" link="2ki:9,36" lang="tr" %}}** | **{{% bible val="Tanrı fahişeyi yok etmeyi yüreğine koydu" link="rev:17,17" lang="tr" %}}** |
 | Ölmeden önce Jezebel **gözlerini boyadı ve başını süsledi** {{% bible val="2.Kr.9/30" link="2ki:9,30" lang="tr" %}} | Fahişe **altın, mor ve kızılla** süslenmiştir {{% bible val="Vah.17/4" link="rev:17,4" lang="tr" %}} |

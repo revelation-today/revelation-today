@@ -27,12 +27,12 @@ The key to understanding the dragon and the two beasts is to remember that this 
 
 The two beasts coming up out of the sea and out of the earth are based on:
 
-- {{% bible val="Behemoth" link="job:40,15-24" lang="en" %}}, the beast from the earth, which only God, its maker, could approach with a sword ({{% bible val="Job 40:19" link="job:40,19" lang="en" %}}), and is likewise {{% bible val="wounded by a sword in Revelation" link="rev:13,14" lang="en" %}}, and
+- {{% bible val="Behemoth" link="job:40,15-24" lang="en" %}}, the beast from the earth, which only God, its maker, could approach with a sword ({{% bible val="Job 40:19" link="job:40,19" lang="en" %}}), and in Revelation, too, {{% bible val="a beast is wounded by a sword" link="rev:13,14" lang="en" %}}, and
 - {{% bible val="Leviathan " link="job:41" lang="en" %}}, the beast from the sea, which has {{% bible val="flames coming out of its mouth" link="job:41,19" lang="en" %}}.
 
 These beasts {{% bible val="are subdued by God" link="job:7,12" lang="en" %}}, and the Old Testament — including {{% bible val="Isaiah" link="isa:27,1" lang="en" %}} — expected God to conquer Leviathan fully in the end times; later Jewish tradition (2 Baruch 29, 4 Ezra 6) extends the same fate to Behemoth.
 
-Both beasts are no match for human beings, and on one reading of the Hebrew, {{% bible val="even a toy for God" link="psa:104,26" lang="en" %}} — though most modern translations render this as Leviathan playing *in* the sea rather than being God's plaything; either way, the beasts are firmly under God's power.
+Human beings are no match for either beast, and on one reading of the Hebrew, {{% bible val="even a toy for God" link="psa:104,26" lang="en" %}} — though most modern translations render this as Leviathan playing *in* the sea rather than being God's plaything; either way, the beasts are firmly under God's power.
 
 To the first readers, whatever came "out of the sea" meant something foreign. This echoes Daniel 7, where the four beasts likewise rise out of a chaotic sea — but it also had a concrete local resonance: the emperor in Rome, or the governors who all arrived by sea via Ephesus, where ships approaching over the horizon genuinely look like they're rising up out of the water.
 

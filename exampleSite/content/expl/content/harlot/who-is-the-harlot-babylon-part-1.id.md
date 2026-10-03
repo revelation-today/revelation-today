@@ -51,7 +51,7 @@ Binatang ini memiliki banyak kesejajaran dengan Binatang Pertama pada pasal 13. 
 | Binatang Pertama dari Wahyu 13 | Binatang dari Wahyu 17 |
 |----------------------------------|----------------------------|
 | Memiliki **7 kepala dan 10 tanduk** {{% bible val="Why.13/1" link="rev:13,1" lang="ind" %}} | Memiliki **7 kepala dan 10 tanduk** {{% bible val="Why.17/3" link="rev:17,3" lang="ind" %}} |
-| **{{% bible val="Kepala seperti tersembelih, tumbuh kembali" link="rev:13,3" lang="ind" %}}** | **{{% bible val="5 raja telah jatuh, yang ketujuh belum datang" link="rev:17,10" lang="ind" %}}** |
+| **{{% bible val="Kepala seperti tersembelih, tumbuh kembali" link="rev:13,3" lang="ind" %}}** | **{{% bible val="5 raja telah jatuh, satu ada, satu belum datang" link="rev:17,10" lang="ind" %}}** |
 | **{{% bible val="Binatang itu tampak tak tertandingi" link="rev:13,4" lang="ind" %}}** | **{{% bible val="Binatang itu berperang melawan Raja segala raja" link="rev:17,14" lang="ind" %}}** |
 | **Perkataan** yang **menghujat** {{% bible val="Why.13/5-6" link="rev:13,5-6" lang="ind" %}} | **Nama** yang **menghujat** {{% bible val="Why.17/3" link="rev:17,3" lang="ind" %}} |
 | **Berperang melawan** *orang-orang kudus dan mengalahkan mereka* {{% bible val="Why.13/7" link="rev:13,7" lang="ind" %}} | **Berperang melawan** *Anak Domba dan dikalahkan* {{% bible val="Why.17/14" link="rev:17,14" lang="ind" %}} </br> **Berperang melawan** *sang pelacur dan membinasakannya* {{% bible val="Why.17/16" link="rev:17,16" lang="ind" %}} |
@@ -106,7 +106,7 @@ Ia memiliki banyak kesejajaran — sebagian besar sebagai kontras yang disengaja
 
 Ia juga memiliki banyak kesamaan dengan Izebel, yang menimbulkan masalahnya sendiri di {{% bible val="Tiatira" link="rev:2,20" lang="ind" %}}.
 
-| Sang pelacur | Izebel |
+| Izebel | Sang pelacur |
 |------------|--------|
 | **{{% bible val="Allah yang mengarahkan hal ini" link="2ki:9,36" lang="ind" %}}** | **{{% bible val="Allah menaruh ke dalam hati mereka untuk membinasakan sang pelacur" link="rev:17,17" lang="ind" %}}** |
 | Sebelum kematiannya, Izebel **mencelak matanya dan mempercantik kepalanya** {{% bible val="2Raj.9/30" link="2ki:9,30" lang="ind" %}} | Pelacur **dihiasi dengan emas, ungu, merah kirmizi** {{% bible val="Why.17/4" link="rev:17,4" lang="ind" %}} |

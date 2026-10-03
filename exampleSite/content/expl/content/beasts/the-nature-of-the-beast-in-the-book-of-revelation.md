@@ -73,7 +73,7 @@ That said, the first beast's appearance doesn't map onto any single one of the {
 ## The twofold attack
 
 <a name="f4be"></a>
-This passage follows Satan's failed attempt to destroy Jesus and Israel. Furious at that failure, he now gathers two beasts to attack the descendants of Jesus — the Church.
+This passage follows Satan's failed attempt to destroy Jesus and Israel. Furious at that failure, he now gathers two beasts to attack the rest of the woman's offspring — the Church (12:17).
 
 Let's take a closer look at these two beasts. They act together and support each other, and the text describes them in a deliberately parallel pattern, laid out below.
 

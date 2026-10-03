@@ -18,7 +18,7 @@ sources:
       ref: aune_rev
 ---
 
-{{% bible val="Philadelphia" link="rev:3,7-13" lang="en" %}} is the city holding the key of David. What doors does that key open — evangelism, opportunity, relationships, or something else entirely? Read on, and you'll see why this is one church Jesus never chastises.
+{{% bible val="Philadelphia" link="rev:3,7-13" lang="en" %}} is the church to which Jesus speaks as the one who holds the key of David. What doors does that key open — evangelism, opportunity, relationships, or something else entirely? Read on, and you'll see why this is one church Jesus never chastises.
 
 ## The historical background
 
@@ -32,7 +32,7 @@ Even so, in AD 92 another emperor, Domitian, issued a decree ordering vineyards 
 ## Jesus' view
 
 <a name="294f"></a>
-Jesus offers this church no rebuke at all. To him, Philadelphia holds David's key, able to open what no one can close and close what no one can open — a {{% bible val="reference to Shebna and Eliakim" link="isa:22,15-25" lang="en" %}}, in which {{% bible val="Shebna, the king's steward, used his high office for self-glory and was removed in disgrace; the position was given instead to Eliakim, who would be a father to the people of Jerusalem" link="isa:22,15-22" lang="en" %}}.
+Jesus offers this church no rebuke at all. He speaks as the one who holds David's key, who opens what no one can close and closes what no one can open — a {{% bible val="reference to Shebna and Eliakim" link="isa:22,15-25" lang="en" %}}, in which {{% bible val="Shebna, the king's steward, used his high office for self-glory and was removed in disgrace; the position was given instead to Eliakim, who would be a father to the people of Jerusalem" link="isa:22,15-22" lang="en" %}}.
 
 The congregation in Philadelphia has little strength or standing in the city, yet they remain faithful to the God who supplies their needs. Their other challenge comes from Jewish opponents who oppress the church, just as they oppress the church in {{% bible val="Smyrna" link="rev:2,9" lang="en" %}}. Jesus promises the Philadelphians that these very opponents will one day bow down before them and acknowledge that God has loved this church — vindication that many read as pointing toward eventual reconciliation, though the text itself promises the acknowledgment rather than spelling out conversion.
 
@@ -50,4 +50,4 @@ This promise answers their patient endurance over a long stretch of hardship —
 <a name="202d"></a>
 The letter also contains a striking statement: "{{% bible val="Since you have kept my command to endure patiently, I will also keep you from the hour of trial that is going to come on the whole world to test the inhabitants of the earth" link="rev:3,10" lang="en" %}}."
 
-What exactly is this "hour of trial," and how does Jesus keep believers from it? The Greek word translated "[keep from](https://biblehub.com/interlinear/revelation/3-10.htm)" appears in only one other place in the New Testament, [in the Gospel of John](https://biblehub.com/interlinear/john/17-15.htm), where Jesus prays for his disciples: "{{% bible val="My prayer is not that you take them out of the world but that you protect them from the evil one" link="jhn:17,15" lang="en" %}}." That parallel is telling — Jesus is not promising to remove believers from the world, but to protect them within it. Many interpreters connect this "hour of trial" to the {{% int_link val="Great Tribulation" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}, though exactly how the two relate remains debated; what the text itself secures is the pattern of protection *through* trial rather than escape *from* it.
+What exactly is this "hour of trial," and how does Jesus keep believers from it? The Greek phrase translated "[keep from](https://biblehub.com/interlinear/revelation/3-10.htm)" appears in only one other place in the New Testament, [in the Gospel of John](https://biblehub.com/interlinear/john/17-15.htm), where Jesus prays for his disciples: "{{% bible val="My prayer is not that you take them out of the world but that you protect them from the evil one" link="jhn:17,15" lang="en" %}}." That parallel is telling — Jesus is not promising to remove believers from the world, but to protect them within it. Many interpreters connect this "hour of trial" to the {{% int_link val="Great Tribulation" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}, though exactly how the two relate remains debated; what the text itself secures is the pattern of protection *through* trial rather than escape *from* it.

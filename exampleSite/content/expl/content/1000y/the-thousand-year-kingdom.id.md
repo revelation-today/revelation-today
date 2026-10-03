@@ -140,7 +140,7 @@ Tidak — {{% bible val="kesejajaran dengan jiwa-jiwa di bawah mezbah" link="rev
 
 Apakah itu berarti hanya orang-orang yang benar-benar mati demi imannya yang akan memerintah? Tidak juga — kitab ini menggambarkan beberapa jenis saksi dan beberapa jenis penderitaan yang berbeda, bukan hanya kemartiran:
 - {{% bible val="Yohanes dalam pembuangan" link="rev:1,9" lang="ind" %}},
-- {{% bible val="para pemenang yang tidak mengasihi nyawanya (tidak menganggapnya begitu berharga)" link="rev:12,10" lang="ind" %}},
+- {{% bible val="para pemenang yang tidak mengasihi nyawanya (tidak menganggapnya begitu berharga)" link="rev:12,11" lang="ind" %}},
 - mereka yang {{% bible val="setia menghadapi kematian" link="rev:2,10" lang="ind" %}},
 - mereka yang {{% bible val="setia kepada Yesus" link="rev:14,1-5" lang="ind" %}},
 - dan {{% bible val="kita semua, yang disebut raja-raja dan imam-imam" link="rev:1,6" lang="ind" %}} yang {{% bible val="memerintah" link="rev:5,9-10" lang="ind" %}}.

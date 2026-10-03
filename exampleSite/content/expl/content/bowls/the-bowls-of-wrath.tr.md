@@ -40,7 +40,7 @@ Yedi kasenin {{% int_link val="yedi borazanla" link="/expl/content/trumpets/the-
 ## Kaseler
 
 <a name="557c"></a>
-{{% bible val="İlk kase" link="rev:16,2" lang="tr" %}}, {{% bible val="canavarın işaretini" link="rev:12,16-17" lang="tr" %}} ({{% int_link val="sadakatin bir sembolü" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}) almış olan herkesi vurur. Bu, Tanrı'nın burada en çok önemsediği şeye çok yakındır: [Sonunda yıkımdan başka bir şey getirmeyen birine insanlar nasıl güvenmeye devam edebilir?](https://www.bibleserver.com/NIV/Revelation6%3A1-11) Bu soru özellikle şeytanın hikâyesinin nasıl bittiğini zaten bilen kilise için önemlidir.
+{{% bible val="İlk kase" link="rev:16,2" lang="tr" %}}, {{% bible val="canavarın işaretini" link="rev:13,16-17" lang="tr" %}} ({{% int_link val="sadakatin bir sembolü" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}) almış olan herkesi vurur. Bu, Tanrı'nın burada en çok önemsediği şeye çok yakındır: [Sonunda yıkımdan başka bir şey getirmeyen birine insanlar nasıl güvenmeye devam edebilir?](https://www.bibleserver.com/NIV/Revelation6%3A1-11) Bu soru özellikle şeytanın hikâyesinin nasıl bittiğini zaten bilen kilise için önemlidir.
 
 {{% bible val="İkinci ve üçüncü kaseler" link="rev:16,3-7" lang="tr" %}}, Tanrı'nın tanıklarının -bizlerin- susturulmasına bir cevaptır. Tanrı sessizce durup izlemez; intikamını alır - ama zulmedenlerin kendilerini öldürerek değil, onların dayandığı şeyi yıkarak ve böylece bir hesaplaşmaya zorlayarak. {{% bible val="Mısır'daki ilk bela" link="exo:7,17" lang="tr" %}} ({{% int_link val="Mısır tanrılarının kaynağının öldürülmesi" link="/expl/bible/exodus/the-plagues-in-egypt" %}}) ışığında okunduğunda, ikinci kase şeytanı aynı şekilde ifşa eder: çaresiz ve yalnızca yıkıcı.
 
@@ -57,6 +57,6 @@ Altıncı kase kendi başına daha yakından bir bakışı hak ediyor.
 
 {{% bible val="Ejderhanın ve yandaşlarının ağzından çıkan üç kurbağa" link="rev:16,13" lang="tr" %}} en doğrudan biçimde {{% bible val="Mısır'daki ikinci belayı" link="exo:8,1-15" lang="tr" %}} yansıtır - ama ikinci bir arka plan katmanı da taşırlar. Kurbağalar, doğurganlık ve doğum tanrıçası olan ve aynı zamanda diriltme gücüne sahip olduğuna inanılan Heqet ile ilişkilendirilen hayvandı - bu da onları burada da uygun bir sembol yapar, çünkü {{% bible val="tam da burada diriltilen canavar yenilmez olduğunu iddia eder" link="rev:13,3-4" lang="tr" %}}. Kurbağalar ayrıca Firavun'un büyücülerinin taklit edebildiği bir belaydı (Çık. 8:7) - işi aldatmak olan ruhlar için uygun bir simge.[^frogs]
 
-Sahneyi bir ironi daha kapatır. Armagedon'da ordunun toplanması, daha sonra 19. bölümde kuşların toplanmasıyla yansıtılır ve bu paralellik Şeytan'ın yenilgisini daha da çarpıcı kılar: Sanki toplanan devasa orduları sonunda sıradan kuşlardan başka bir şey bozguna uğratmamış izlenimini bırakır.
+Sahneyi bir ironi daha kapatır. Armagedon'da ordunun toplanması, daha sonra 19. bölümde kuşların toplanmasıyla yansıtılır ve bu paralellik Şeytan'ın yenilgisini daha da çarpıcı kılar: Toplanan devasa orduları tek bir sözle, Atlı'nın ağzından çıkan kılıçla yere serilir; onlardan geriye yalnızca kuşlara bir şölen kalır (19:21).
 
 [^frogs]: Beale, s. 832–833.

@@ -51,7 +51,7 @@ This beast has many parallels to the First Beast in chapter 13. The table below 
 | The First Beast of Revelation 13 | The Beast of Revelation 17 |
 |----------------------------------|----------------------------|
 | Has **7 heads and 10 horns** {{% bible val="Rev.13/1" link="rev:13,1" lang="en" %}} | Has **7 heads and 10 horns** {{% bible val="Rev.17/3" link="rev:17,3" lang="en" %}} |
-| **{{% bible val="Head as if slaughtered, grows back" link="rev:13,3" lang="en" %}}** | **{{% bible val="5 kings fallen, the seventh yet to come" link="rev:17,10" lang="en" %}}** |
+| **{{% bible val="Head as if slaughtered, grows back" link="rev:13,3" lang="en" %}}** | **{{% bible val="5 kings fallen, one is, one yet to come" link="rev:17,10" lang="en" %}}** |
 | **{{% bible val="Beast seems unrivalled" link="rev:13,4" lang="en" %}}** | **{{% bible val="Beast makes war against the King of Kings" link="rev:17,14" lang="en" %}}** |
 | **Blasphemous** speech {{% bible val="Rev.13/5-6" link="rev:13,5-6" lang="en" %}} | **Blasphemous** name {{% bible val="Rev.17/3" link="rev:17,3" lang="en" %}} |
 | **Fights against** *saints and defeats them* {{% bible val="Rev.13/7" link="rev:13,7" lang="en" %}} | **Fights against** *Lamb and is overcome* {{% bible val="Rev.17/14" link="rev:17,14" lang="en" %}} </br> **Fights against** the *Harlot and destroys her* {{% bible val="Rev.17/16" link="rev:17,16" lang="en" %}} |
@@ -106,7 +106,7 @@ She has many parallels — mostly as a deliberate contrast — with the bride in
 
 She also shares a lot of similarities with Jezebel, who caused her own trouble in {{% bible val="Thyatira" link="rev:2,20" lang="en" %}}.
 
-| The Harlot | Jezebel |
+| Jezebel | The Harlot |
 |------------|--------|
 | **{{% bible val="God led this" link="2ki:9,36" lang="en" %}}** | **{{% bible val="God has put in heart to destroy the harlot" link="rev:17,17" lang="en" %}}** |
 | Before death Jezebel **dyed eyes and made head pretty** {{% bible val="2 Ki.9/30" link="2ki:9,30" lang="en" %}} | Harlot is **adorned with gold, purple, scarlet** {{% bible val="Rev.17/4" link="rev:17,4" lang="en" %}} |

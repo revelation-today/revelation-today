@@ -142,7 +142,7 @@ Nein – die {{% bible val="Parallele zu den Seelen unter dem Altar" link="rev:6
 
 Bedeutet das, nur Menschen, die tatsächlich für ihren Glauben sterben, dürfen herrschen? Nicht ganz – das Buch beschreibt mehrere verschiedene Arten von Zeugnis und verschiedene Arten des Leidens, nicht nur das Martyrium:
 - {{% bible val="Johannes im Exil" link="rev:1,9" lang="de" %}},
-- {{% bible val="Überwinder, die ihr Leben nicht liebten (es nicht als so kostbar ansahen)" link="rev:12,10" lang="de" %}},
+- {{% bible val="Überwinder, die ihr Leben nicht liebten (es nicht als so kostbar ansahen)" link="rev:12,11" lang="de" %}},
 - die {{% bible val="treu angesichts des Todes" link="rev:2,10" lang="de" %}} waren,
 - die {{% bible val="Jesus treu" link="rev:14,1-5" lang="de" %}} waren,
 - und {{% bible val="wir alle, Könige und Priester genannt" link="rev:1,6" lang="de" %}}, die {{% bible val="regieren" link="rev:5,9-10" lang="de" %}}.

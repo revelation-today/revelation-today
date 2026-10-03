@@ -27,7 +27,7 @@ Ejderhayı ve iki canavarı anlamanın anahtarı, bu {{% int_link val="kitabın 
 
 Denizden ve yeryüzünden çıkan iki canavar şunlara dayanır:
 
-- {{% bible val="Behemot" link="job:40,15-24" lang="tr" %}}, yeryüzünden gelen canavar; Eyüp'te yalnızca {{% bible val="Tanrı, onun yaratıcısı, kılıçla ona yaklaşabilirdi" link="job:40,19" lang="tr" %}} ve aynı şekilde {{% bible val="Vahiy'de de kılıçla yaralanır" link="rev:13,14" lang="tr" %}}, ve
+- {{% bible val="Behemot" link="job:40,15-24" lang="tr" %}}, yeryüzünden gelen canavar; Eyüp'te yalnızca {{% bible val="Tanrı, onun yaratıcısı, kılıçla ona yaklaşabilirdi" link="job:40,19" lang="tr" %}} — {{% bible val="Vahiy'de de bir canavar kılıçla yaralanır" link="rev:13,14" lang="tr" %}}, ve
 - {{% bible val="Livyatan" link="job:41" lang="tr" %}}, denizden gelen canavar; {{% bible val="ağzından alevler çıkar" link="job:41,19" lang="tr" %}}.
 
 Bu canavarlar {{% bible val="Tanrı tarafından bastırılır" link="job:7,12" lang="tr" %}} ve Eski Antlaşma — {{% bible val="Yeşaya" link="isa:27,1" lang="tr" %}} da dahil olmak üzere — Tanrı'nın Livyatan'ı son çağda tamamen yeneceğini bekliyordu; daha sonraki Yahudi geleneği (2. Baruh 29, 4. Ezra 6) aynı sonu Behemot için de öngörür.

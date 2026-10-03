@@ -40,7 +40,7 @@ You may have already noticed that the seven bowls have a great deal in common wi
 ## The bowls
 
 <a name="7ced"></a>
-{{% bible val="The first bowl" link="rev:16,2" lang="en" %}} strikes everyone who has taken the {{% bible val="mark of the beast" link="rev:12,16-17" lang="en" %}} ({{% int_link val="a symbol of loyalty" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}). This is close to the heart of what God is concerned with here: [how can people go on trusting someone who, in the end, brings nothing but destruction?](https://www.bibleserver.com/NIV/Revelation6%3A1-11) That question matters especially for the church, which already knows how the devil's story ends.
+{{% bible val="The first bowl" link="rev:16,2" lang="en" %}} strikes everyone who has taken the {{% bible val="mark of the beast" link="rev:13,16-17" lang="en" %}} ({{% int_link val="a symbol of loyalty" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}). This is close to the heart of what God is concerned with here: [how can people go on trusting someone who, in the end, brings nothing but destruction?](https://www.bibleserver.com/NIV/Revelation6%3A1-11) That question matters especially for the church, which already knows how the devil's story ends.
 
 {{% bible val="The second and third bowls" link="rev:16,3-7" lang="en" %}} answer the silencing of God's witnesses — us. God does not stand by silently; he takes revenge — not by killing the persecutors themselves, but by devastating what they depend on, forcing a reckoning. Read against the {{% bible val="first plague in Egypt" link="exo:7,17" lang="en" %}} ({{% int_link val="the killing of the source of the Egyptian gods" link="/expl/bible/exodus/the-plagues-in-egypt" %}}), the second bowl exposes the devil the same way: helpless and merely destructive.
 
@@ -57,6 +57,6 @@ The sixth bowl deserves a closer look on its own.
 
 {{% bible val="The three frogs coming out of the mouth of the dragon and his companions" link="rev:16,13" lang="en" %}} echo, most directly, {{% bible val="the second plague of Egypt" link="exo:8,1-15" lang="en" %}} — but they carry a second layer of background too. Frogs were the animal associated with Heqet, the goddess of fertility and birth, who was also credited with the power of resurrection — which makes them an apt symbol here as well, since {{% bible val="this is exactly where the resurrected beast makes its claim to be unbeatable" link="rev:13,3-4" lang="en" %}}. Frogs were also a plague that Pharaoh's magicians could imitate (Exod 8:7) — fitting for spirits whose work is deception.[^frogs]
 
-One more irony closes out the scene. The gathering of the armies at Armageddon is mirrored later by the gathering of the birds in chapter 19, and that parallel makes Satan's defeat even more pointed: it leaves the impression that his assembled armies are ultimately undone by nothing more than birds.
+One more irony closes out the scene. The gathering of the armies at Armageddon is mirrored later by the gathering of the birds in chapter 19, and that parallel makes Satan's defeat even more pointed: his assembled armies are cut down by a single word, the sword from the rider's mouth, and all that is left of them is a meal for the birds (19:21).
 
 [^frogs]: Beale, pp. 832–833.

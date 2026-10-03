@@ -69,7 +69,7 @@ Meski begitu, wujud binatang pertama tidak persis meniru satu pun dari {{% bible
 ## Serangan Ganda
 
 <a name="a89e"></a>
-Bagian ini menyusul kegagalan Iblis membinasakan Yesus dan Israel. Murka atas kegagalannya, ia sekarang mengumpulkan dua binatang untuk menyerang keturunan Yesus — jemaat.
+Bagian ini menyusul kegagalan Iblis membinasakan Yesus dan Israel. Murka atas kegagalannya, ia sekarang mengumpulkan dua binatang untuk menyerang keturunan perempuan itu yang lain — jemaat (12:17).
 
 Mari kita perhatikan kedua binatang ini lebih dekat. Mereka bertindak bersama dan saling mendukung, dan teks menggambarkan keduanya dalam sebuah pola yang sengaja dibuat sejajar, seperti terlihat di bawah ini.
 

@@ -74,7 +74,7 @@ Dabei entspricht die Erscheinung des ersten Tieres keinem einzelnen der {{% bibl
 ## Der zweifache Angriff
 
 <a name="a89e"></a>
-Diese Passage folgt auf Satans gescheiterten Versuch, Jesus und Israel zu vernichten. Wütend über dieses Scheitern versammelt er nun zwei Tiere, um die Nachkommen Jesu, die Gemeinde, anzugreifen.
+Diese Passage folgt auf Satans gescheiterten Versuch, Jesus und Israel zu vernichten. Wütend über dieses Scheitern versammelt er nun zwei Tiere, um die übrigen Nachkommen der Frau, die Gemeinde, anzugreifen (12,17).
 
 Schauen wir uns diese beiden Tiere genauer an. Sie wirken zusammen und stützen sich gegenseitig, und der Text beschreibt sie in einem bewusst parallelen Muster, das unten dargestellt ist.
 

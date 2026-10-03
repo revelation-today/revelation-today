@@ -49,7 +49,7 @@ Das zweite Mal tritt er auf, als {{% bible val="Jesus erneut als Sieger erklärt
 - {{% bible val="Er versucht, das Kind zu vernichten — und scheitert" link="rev:12,1-6" lang="de" %}}.
 - {{% bible val="Er kämpft gegen Michael — und wird aus dem Himmel geworfen" link="rev:12,7-12" lang="de" %}}.
 - {{% bible val="Er versucht, die Frau zu vernichten — und scheitert" link="rev:12,13-17" lang="de" %}}.
-- {{% bible val="Er versucht, die Nachkommen Jesu, die Gemeinde, zu vernichten, und scheitert auch dabei" link="rev:13" lang="de" %}}, wie man an {{% int_link val="der Zahl 666" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}} sehen kann.
+- {{% bible val="Er versucht, die übrigen Nachkommen der Frau, die Gemeinde, zu vernichten, und scheitert auch dabei" link="rev:13" lang="de" %}}, wie man an {{% int_link val="der Zahl 666" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}} sehen kann.
 
 Ein drittes Mal wird der Teufel gezeigt, {{% bible val="als Dreifaltigkeit bei der sechsten Schale" link="rev:16,13" lang="de" %}}, die dann in den Kapiteln {{% bible val="19" link="rev:19,20" lang="de" %}} und {{% bible val="20" link="rev:20,10" lang="de" %}} gerichtet wird. Diese Passagen rahmen die Geschichte der Hure ein, wo das Tier und die Hure gemeinsam auftreten.
 
@@ -79,7 +79,7 @@ Erstens gibt es eine starke Parallele zwischen dem Tier in Kapitel 17 und dem er
 | Das erste Tier aus Offenbarung 13 | Das Tier auf Offenbarung 17 |
 |-----------------------------------|-----------------------------|
 | {{% bible val="Hat 7 Köpfe und 10 Hörner" link="rev:13,1" lang="de" %}} | {{% bible val="Hat 7 Köpfe und 10 Hörner" link="rev:17,3" lang="de" %}} |
-| {{% bible val="Kopf wie geschlachtet, wächst nach" link="rev:13,3" lang="de" %}} | {{% bible val="5 Könige gefallen, der siebente kommt noch" link="rev:17,10" lang="de" %}} (beides verweist auf die geheimnisvolle Kontinuität und Rückkehr des Tieres, vgl. {{% bible val="das Tier, das war und nicht ist und wiederkommen wird" link="rev:17,8" lang="de" %}}) |
+| {{% bible val="Kopf wie geschlachtet, wächst nach" link="rev:13,3" lang="de" %}} | {{% bible val="5 Könige gefallen, einer ist da, einer kommt noch" link="rev:17,10" lang="de" %}} (beides verweist auf die geheimnisvolle Kontinuität und Rückkehr des Tieres, vgl. {{% bible val="das Tier, das war und nicht ist und wiederkommen wird" link="rev:17,8" lang="de" %}}) |
 | {{% bible val="Wer kann gegen das Tier kämpfen" link="rev:13,4" lang="de" %}} | {{% bible val="Tier macht Krieg gegen König der Könige" link="rev:17,14" lang="de" %}} |
 | {{% bible val="Gotteslästerliche Reden" link="rev:13,5-6" lang="de" %}} | {{% bible val="Gotteslästerliche Name" link="rev:17,3" lang="de" %}} |
 | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}} | {{% bible val="Kämpft gegen Lamm und wird überwunden" link="rev:17,14" lang="de" %}} </br> {{% bible val="Kämpft gegen Hure und vernichtet sie" link="rev:17,16" lang="de" %}} |

@@ -138,7 +138,7 @@ No — the {{% bible val="parallel with the souls under the altar" link="rev:6,9
 
 Does that mean only people who actually die for their faith get to rule? Not quite — the book describes several different kinds of witnesses and different kinds of suffering, not just martyrdom:
 - {{% bible val="John in exile" link="rev:1,9" lang="en" %}},
-- {{% bible val="overcomers who did not love their life (did not consider it that precious)" link="rev:12,10" lang="en" %}},
+- {{% bible val="overcomers who did not love their life (did not consider it that precious)" link="rev:12,11" lang="en" %}},
 - those {{% bible val="faithful in the face of death" link="rev:2,10" lang="en" %}},
 - those {{% bible val="faithful to Jesus" link="rev:14,1-5" lang="en" %}},
 - and {{% bible val="all of us, called kings and priests" link="rev:1,6" lang="en" %}} who {{% bible val="rule" link="rev:5,9-10" lang="en" %}}.

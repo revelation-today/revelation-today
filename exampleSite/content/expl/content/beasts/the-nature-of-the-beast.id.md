@@ -49,7 +49,7 @@ Kemunculan keduanya terjadi ketika {{% bible val="Yesus kembali dinyatakan sebag
 - {{% bible val="Ia berusaha membinasakan sang anak — dan gagal" link="rev:12,1-6" lang="ind" %}}.
 - {{% bible val="Ia berperang melawan Mikhael — dan dilemparkan keluar dari sorga" link="rev:12,7-12" lang="ind" %}}.
 - {{% bible val="Ia berusaha membinasakan sang perempuan — dan gagal" link="rev:12,13-17" lang="ind" %}}.
-- {{% bible val="Ia berusaha membinasakan keturunan Yesus, yaitu jemaat, dan juga gagal" link="rev:13" lang="ind" %}}, sebagaimana terlihat dalam {{% int_link val="pembahasan angka 666" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
+- {{% bible val="Ia berusaha membinasakan keturunan perempuan itu yang lain, yaitu jemaat, dan juga gagal" link="rev:13" lang="ind" %}}, sebagaimana terlihat dalam {{% int_link val="pembahasan angka 666" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
 Iblis ditampilkan untuk ketiga kalinya {{% bible val="sebagai sebuah trinitas pada cawan keenam" link="rev:16,13" lang="ind" %}}, yang kemudian dihakimi dalam pasal {{% bible val="19" link="rev:19,20" lang="ind" %}} dan {{% bible val="20" link="rev:20,10" lang="ind" %}}. Bagian-bagian ini membingkai kisah sang perempuan sundal, tempat binatang itu dan sang perempuan sundal muncul bersama.
 
@@ -79,7 +79,7 @@ Pertama, ada kesejajaran yang kuat antara binatang dalam pasal 17 dan binatang p
 | Binatang pertama dari Wahyu 13 | Binatang dalam Wahyu 17 |
 |----------------------------------|----------------------------|
 | {{% bible val="Memiliki 7 kepala dan 10 tanduk" link="rev:13,1" lang="ind" %}} | {{% bible val="Memiliki 7 kepala dan 10 tanduk" link="rev:17,3" lang="ind" %}} |
-| {{% bible val="Kepala seperti disembelih, tumbuh kembali" link="rev:13,3" lang="ind" %}} | {{% bible val="5 raja telah jatuh, yang ketujuh belum datang" link="rev:17,10" lang="ind" %}} (keduanya menunjuk pada kesinambungan dan kembalinya binatang itu secara misterius, bdk. {{% bible val="binatang yang telah ada dan sekarang tidak ada dan akan datang" link="rev:17,8" lang="ind" %}}) |
+| {{% bible val="Kepala seperti disembelih, tumbuh kembali" link="rev:13,3" lang="ind" %}} | {{% bible val="5 raja telah jatuh, satu ada, satu belum datang" link="rev:17,10" lang="ind" %}} (keduanya menunjuk pada kesinambungan dan kembalinya binatang itu secara misterius, bdk. {{% bible val="binatang yang telah ada dan sekarang tidak ada dan akan datang" link="rev:17,8" lang="ind" %}}) |
 | {{% bible val="Siapa yang dapat berperang melawan binatang itu" link="rev:13,4" lang="ind" %}} | {{% bible val="Binatang itu berperang melawan Raja segala raja" link="rev:17,14" lang="ind" %}} |
 | {{% bible val="Perkataan yang menghujat Allah" link="rev:13,5-6" lang="ind" %}} | {{% bible val="Nama yang menghujat Allah" link="rev:17,3" lang="ind" %}} |
 | {{% bible val="Berperang melawan orang-orang kudus dan mengalahkan mereka" link="rev:13,7" lang="ind" %}} | {{% bible val="Berperang melawan Anak Domba dan dikalahkan" link="rev:17,14" lang="ind" %}} </br> {{% bible val="Berperang melawan sang perempuan sundal dan membinasakannya" link="rev:17,16" lang="ind" %}}. |

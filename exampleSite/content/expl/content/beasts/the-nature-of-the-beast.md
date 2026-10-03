@@ -49,7 +49,7 @@ The second time he appears is when {{% bible val="Jesus is declared victorious a
 - {{% bible val="He tries to destroy the child — and fails" link="rev:12,1-6" lang="en" %}}.
 - {{% bible val="He fights against Michael — and is cast out of heaven" link="rev:12,7-12" lang="en" %}}.
 - {{% bible val="He tries to destroy the woman — and fails" link="rev:12,13-17" lang="en" %}}.
-- {{% bible val="He tries to destroy the descendants of Jesus, the Church, and also fails" link="rev:13" lang="en" %}}, as we see in {{% int_link val="the number 666" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
+- {{% bible val="He tries to destroy the rest of the woman's offspring, the Church, and also fails" link="rev:13" lang="en" %}}, as we see in {{% int_link val="the number 666" link="/expl/content/beasts/666-the-number-of-the-beast#5112" %}}.
 
 The devil is shown a third time {{% bible val="as a trinity in the sixth bowl" link="rev:16,13" lang="en" %}}, which is then judged in chapters {{% bible val="19" link="rev:19,20" lang="en" %}} and {{% bible val="20" link="rev:20,10" lang="en" %}}. These passages frame the story of the harlot, where the beast and the harlot appear together.
 
@@ -79,7 +79,7 @@ First, there is a strong parallel between the beast in chapter 17 and the first 
 | The first beast of Revelation 13 | The beast on Revelation 17 |
 |----------------------------------|----------------------------|
 | {{% bible val="Has 7 heads and 10 horns" link="rev:13,1" lang="en" %}} | {{% bible val="Has 7 heads and 10 horns" link="rev:17,3" lang="en" %}} |
-| {{% bible val="Head as if slaughtered, grows back" link="rev:13,3" lang="en" %}} | {{% bible val="5 kings fallen, the seventh yet to come" link="rev:17,10" lang="en" %}} (both point to the beast's mysterious continuity and return, cf. {{% bible val="the beast that was, and is not, and is to come" link="rev:17,8" lang="en" %}}) |
+| {{% bible val="Head as if slaughtered, grows back" link="rev:13,3" lang="en" %}} | {{% bible val="5 kings fallen, one is, one yet to come" link="rev:17,10" lang="en" %}} (both point to the beast's mysterious continuity and return, cf. {{% bible val="the beast that was, and is not, and is to come" link="rev:17,8" lang="en" %}}) |
 | {{% bible val="Who can fight against the beast" link="rev:13,4" lang="en" %}} | {{% bible val="Beast makes war on King of Kings" link="rev:17,14" lang="en" %}} |
 | {{% bible val="Speech of blasphemy" link="rev:13,5-6" lang="en" %}} | {{% bible val="Blasphemous name" link="rev:17,3" lang="en" %}} |
 | {{% bible val="Fight against saints and defeat them" link="rev:13,7" lang="en" %}} | {{% bible val="Fights against Lamb and is overcome" link="rev:17,14" lang="en" %}} </br> {{% bible val="Fight against Harlot and destroys it" link="rev:17,16" lang="en" %}}. |

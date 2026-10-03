@@ -73,7 +73,7 @@ Bununla birlikte, ilk canavarın görünümü {{% bible val="Daniel'deki dört k
 ## İki yönlü saldırı
 
 <a name="6999"></a>
-Bu pasaj, Şeytan'ın İsa'yı ve İsrail'i yok etme girişiminin başarısızlıkla sonuçlanmasının hemen ardından gelir. Bu başarısızlığa öfkelenen Şeytan, şimdi İsa'nın soyundan gelenlere — yani Kilise'ye — saldırmak için iki canavar toplar.
+Bu pasaj, Şeytan'ın İsa'yı ve İsrail'i yok etme girişiminin başarısızlıkla sonuçlanmasının hemen ardından gelir. Bu başarısızlığa öfkelenen Şeytan, şimdi kadının soyundan geri kalanlara — yani Kilise'ye (12:17) — saldırmak için iki canavar toplar.
 
 Bu iki canavara daha yakından bakalım. Birlikte hareket eder ve birbirlerini desteklerler; metin onları bilinçli olarak paralel bir düzende betimler, aşağıda görüldüğü gibi.
 

@@ -106,7 +106,7 @@ Stop and notice how striking that is: after six trumpets that produced no repent
 - the {{% bible val="women at the empty tomb" link="luk:24,5" lang="en" %}}, overwhelmed into worship,
 - the disciples {{% bible val="the moment the risen Jesus first stood among them" link="luk:24,36-37" lang="en" %}}, overwhelmed into thinking they'd seen a ghost,
 - {{% bible val="Cornelius, seeing the angel who told him his prayers had been heard" link="act:10,4" lang="en" %}}, overwhelmed into asking what to do,
-- and the Roman commander {{% bible val="Felix, hearing what the gospel actually demanded" link="act:24,25" lang="en" %}}, overwhelmed into telling Paul to stop talking — and no closer to repentance for it.
+- and the Roman governor {{% bible val="Felix, hearing what the gospel actually demanded" link="act:24,25" lang="en" %}}, overwhelmed into telling Paul to stop talking — and no closer to repentance for it.
 
 So the word itself doesn't decide the question; being "overwhelmed" can lead to worship or to stalling. What tips it in verse 13 is what the survivors do next: they {{% bible val="give glory to the God of heaven" link="rev:11,13" lang="en" %}} — the very phrase Joshua once used to press a guilty Achan toward confession (Joshua 7:19), and the response Revelation itself calls for elsewhere. This site reads it as real conversion. In the Old Testament a faithful remnant — a tenth, or seven thousand — is spared while the majority falls. Here the pattern is turned around: a tenth and seven thousand fall, and the nine-tenths who are spared turn to God.[^convert] It is the first time in the whole trumpet cycle that anyone turns to God at all, and it is the turning point the chapter has been building toward.
 

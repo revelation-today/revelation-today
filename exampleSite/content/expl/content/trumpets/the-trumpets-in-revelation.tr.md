@@ -106,7 +106,7 @@ Durup bunun ne kadar çarpıcı olduğuna dikkat edin: hiç tövbe üretmemiş a
 - {{% bible val="boş mezardaki kadınlar" link="luk:24,5" lang="tr" %}}, tapınmaya kapılıp giderler,
 - {{% bible val="dirilen İsa ilk kez aralarında durduğunda öğrenciler" link="luk:24,36-37" lang="tr" %}}, bir hayalet gördüklerini düşünmeye kapılıp giderler,
 - {{% bible val="dualarının işitildiğini söyleyen meleği gören Kornelius" link="act:10,4" lang="tr" %}}, ne yapması gerektiğini sormaya kapılıp gider,
-- ve {{% bible val="müjdenin gerçekte ne talep ettiğini duyan Romalı komutan Feliks" link="act:24,25" lang="tr" %}}, Pavlus'a susmasını söylemeye kapılıp gider — ve bu yüzden tövbeye bir adım bile yaklaşmaz.
+- ve {{% bible val="müjdenin gerçekte ne talep ettiğini duyan Romalı vali Feliks" link="act:24,25" lang="tr" %}}, Pavlus'a susmasını söylemeye kapılıp gider — ve bu yüzden tövbeye bir adım bile yaklaşmaz.
 
 Yani kelimenin kendisi bu soruyu çözmez; "dehşete kapılmak" tapınmaya da götürebilir, oyalanmaya da. 13. ayette bunu bir yöne çeviren şey, hayatta kalanların bundan sonra yaptığıdır: {{% bible val="göklerin Tanrısı'na yücelik verirler" link="rev:11,13" lang="tr" %}} — Yeşu'nun bir zamanlar suçlu Akan'ı itirafa zorlamak için kullandığı tam ifade (Yeşu 7:19), ve Vahiy'in başka yerlerde de kendisinin talep ettiği tepki. Bu site bunu gerçek bir dönüş olarak okur. Eski Antlaşma'da sadık bir kalıntı — onda bir ya da yedi bin kişi — esirgenir, çoğunluk ise düşer. Burada örüntü tersine çevrilir: onda bir ve yedi bin kişi düşer, esirgenen onda dokuz ise Tanrı'ya döner.[^convert] Bütün borazan döngüsü boyunca birinin Tanrı'ya döndüğü ilk an budur ve bölümün yöneldiği dönüm noktası da budur.
 
