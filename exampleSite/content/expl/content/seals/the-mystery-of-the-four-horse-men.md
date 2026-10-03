@@ -65,9 +65,9 @@ To understand this, we need a little background.
 
 Food was often rationed — whether because of a coming famine, an actual famine already underway, or a prophetic warning of one. For reference: one measure of wheat was enough to feed one person for one day, and three measures of barley (cheaper, and normally used as animal feed) were enough to feed a small family for one day. A full day's wages would normally buy far more grain than this — so prices have risen to roughly 8–16 times the normal price.
 
-In the context of Revelation, wine and oil function as luxury goods here — they bear no relation in this book to anointing or to the Lord's Supper.
+Wine and oil are not luxuries here. In the Old Testament they belong with grain to the basic food of the land, and when all of them fail, the famine is severe (Joel 1:10–11). They have nothing to do with anointing or the Lord's Supper.
 
-So this passage isn't describing a general famine, but rather an unfair threat aimed at the poor: while luxury goods are protected from any damage (and even rising in price), the cost of basic food has climbed to an unbearable level. That's why the voice among the four creatures isn't a command from God, but a cry for justice.
+So this is a famine, serious but limited. A day's wage buys just enough grain to live on, and nothing is left over for oil and wine, even though the trees and vines themselves are spared. The voice "among the four living creatures" is most likely Christ's own, since the Lamb stands "in the middle of the throne and the four living creatures" (5:6). The command comes from the throne itself, and it sets a limit to the famine.[^voice] Those hit hardest are the poor — and, as the book shows later, believers who are shut out of buying and selling (13:16–17).
 
 ## The mystery of the first horseman
 
@@ -98,7 +98,7 @@ This is confusing — why are there references pointing to both a good and an ev
 ## The resolution
 
 <a name="6235"></a>
-It becomes clear that the first horseman is evil but pretends to be good — to be like Jesus. That also makes sense in light of the context: {{% bible val="the previous chapter Jesus was revealed as the only one worthy of opening the scroll" link="rev:5" lang="en" %}}, and now the devil's true nature is revealed in response — moving from a great promise (to conquer), to war (persecution of non-believers), to hunger and injustice (the third horseman), to finally death and destruction. That is why the very next seal describes the cry of the righteous: "{{% bible val="How long this will go on?" link="rev:6,9-11" lang="en" %}}" The evil nature of all four horsemen is now clear — though it's worth noting that respected commentators today (e.g., Osborne, Mounce) still favor the positive reading of the first rider; the case made here is a considered position, not the only credible one.
+It becomes clear that the first horseman is evil but pretends to be good — to be like Jesus. That also makes sense in light of the context: {{% bible val="the previous chapter Jesus was revealed as the only one worthy of opening the scroll" link="rev:5" lang="en" %}}, and now the devil's true nature is revealed in response — moving from a great promise (to conquer), to war (persecution of non-believers), to hunger and injustice (the third horseman), to finally death and destruction. That is why the very next seal describes the cry of the righteous: "{{% bible val="How long this will go on?" link="rev:6,9-11" lang="en" %}}" The evil nature of all four horsemen is now clear. This is a disputed point, and the positive reading of the first rider still has able defenders.[^rider]
 
 And now the reference to {{% bible val="God's plagues" link="ezk:14,12-23" lang="en" %}} — wild beasts, sword, famine, and pestilence — also makes sense. Beyond the direct echo already noted in the fourth horseman's own description (Rev 6:8), we can also map each rider suggestively as follows:
 
@@ -108,3 +108,7 @@ And now the reference to {{% bible val="God's plagues" link="ezk:14,12-23" lang=
 - The last horseman sums up the effect of this evil trinity.
 
 Remember this: no matter how attractive the devil's offer may look, and no matter how much it may resemble something from Jesus, don't go for it — it will end in disaster. Be wise instead, and God will give you the wisdom you need.
+
+[^voice]: Beale, p. 381. He also gives the prices: about eight to sixteen times the usual.
+
+[^rider]: The reading of the first rider as a satanic counterfeit follows Beale, pp. 375–377. For the positive reading see the commentators he lists: Hendriksen, Ladd, Sweet and others (p. 375 n. 16).

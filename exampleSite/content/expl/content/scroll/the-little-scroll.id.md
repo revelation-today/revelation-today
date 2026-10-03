@@ -16,6 +16,8 @@ deeper:
 sources: 
     - pages: 520–555
       ref: beale_rev
+    - pages: 243–257
+      ref: bauckham_climax
 ---
 
 Pasal 10 berpusat pada sebuah kitab kecil yang harus dimakan oleh Yohanes, dan pada rahasia ketujuh guntur, yang dimeteraikan tepat pada saat mereka berbicara. Apa makna kedua hal yang aneh ini?
@@ -30,9 +32,9 @@ Dibutuhkan sesuatu selain penderitaan untuk membuat manusia berpaling kembali ke
 ## Malaikat dengan Kitab Kecil Itu
 
 <a name="9ea4"></a>
-Untuk memungkinkan kesaksian itu, muncullah seorang malaikat, diselubungi awan, dengan pelangi di atas kepalanya. Entah ini Yesus sendiri atau seorang malaikat yang mewakili-Nya, adegan ini terkait erat dengan-Nya — meskipun sumpah malaikat itu pada ayat 6, yang diucapkan demi Allah dan bukan demi dirinya sendiri (menggemakan sosok malaikat dalam Daniel 12:7), menjadi salah satu alasan mengapa banyak penafsir membaca sosok ini sebagai malaikat yang mulia, bukan Kristus sendiri secara pribadi. Bagaimanapun juga, kitab kecil yang dibawanya mengingatkan kita pada kitab yang dibuka Yesus dahulu di pasal 5.
+Untuk memungkinkan kesaksian itu, muncullah seorang malaikat yang kuat, diselubungi awan, dengan pelangi di atas kepalanya. Ia digambarkan dengan ciri-ciri yang dalam Perjanjian Lama hanya diberikan kepada Allah, dan dalam Kitab Wahyu hanya kepada Allah atau Kristus. Jadi kemungkinan besar ini adalah Kristus sendiri, atau Malaikat TUHAN yang mewakili-Nya.[^angel] Kitab kecil yang dibawanya mengingatkan kita pada kitab yang dibuka Yesus dahulu di pasal 5.
 
-Ini bukan kitab yang sama, tetapi ada hubungannya. Kitab di pasal 5 hanyalah "sebuah kitab", yang dibuka oleh Yesus untuk menyingkapkan kejatuhan Iblis; kitab yang ini secara jelas lebih kecil, dan alih-alih dibuka, kitab ini dimakan — oleh Yohanes, yang mewakili jemaat — supaya dapat diubah menjadi kesaksian.
+Ini bukan kitab yang sama, tetapi ada hubungannya.[^scroll] Kitab di pasal 5 hanyalah "sebuah kitab", yang dibuka oleh Yesus untuk menyingkapkan kejatuhan Iblis; kitab yang ini secara jelas lebih kecil, dan alih-alih dibuka, kitab ini dimakan — oleh Yohanes, yang mewakili jemaat — supaya dapat diubah menjadi kesaksian.
 
 Hubungan antara keduanya adalah soal skala: Yesus telah mengalahkan Iblis di kayu salib, dan kemenangan itulah peristiwa utamanya. Yang tersisa adalah tugas yang lebih kecil, tetapi tetap penting, yang harus dilaksanakan jemaat demi menggenapi rencana Allah sepenuhnya.
 
@@ -48,3 +50,7 @@ Yohanes diperintahkan untuk memakan kitab itu, sebuah gambaran yang mengingatkan
 Rasanya menceritakan kisahnya. Manis di mulut — yaitu apa yang telah dikerjakan Yesus — dan pahit di perut: penghakiman yang masih akan datang atas dunia, serta harga yang harus dibayar karena bersaksi kepada dunia yang membenci jemaat karena kesaksian itu, kebencian yang tidak boleh dibalas setimpal oleh jemaat, sebab jemaat dipanggil untuk mengikuti jejak Yesus, bukan untuk mengancam sebagaimana Ia diancam.
 
 Jadi, apa sebenarnya kitab kecil ini? {{% bible val="Setelah memakan kitab itu, Yohanes diberi tahu bahwa ia harus bernubuat lagi — bukan hanya tentang Israel, seperti Yehezkiel, melainkan tentang banyak suku bangsa, bangsa, bahasa, dan raja" link="rev:10,11" lang="ind" %}} Pasal-pasal berikutnya menjawab pertanyaan ini dengan menunjukkannya dalam tindakan: inilah kesaksian yang dibawa jemaat kepada bangsa-bangsa, dan yang pada akhirnya akan disampaikan jemaat secara tuntas.
+
+[^angel]: Beale, hlm. 522. Yang lain membacanya sebagai malaikat yang mulia, karena ia bersumpah demi Allah dan bukan demi dirinya sendiri (10:6, menggemakan Daniel 12:7).
+
+[^scroll]: Beale, hlm. 530–532. Bauckham berpendapat bahwa kedua kitab itu sama (*Climax*, hlm. 243–257).

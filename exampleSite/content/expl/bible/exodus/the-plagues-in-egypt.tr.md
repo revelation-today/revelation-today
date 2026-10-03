@@ -15,8 +15,10 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
-    - pages: 465, 481
+    - pages: 465, 481, 833
       ref: beale_rev
+    - pages: "vol. 13: 371"
+      ref: tdot
 ---
 
 Bu, muhtemelen Pazar okulunda duyduğunuz bir öykü, ama içinde daha önce hiç duymamış olabileceğiniz çok daha fazlası var.
@@ -72,7 +74,7 @@ Nil, Mısır’ın can damarıdır: yıllık taşkını tarlaları verimli kıla
 <a name="aaff"></a>
 Kurbağalar ülkeyi istila eder ve bu kez Firavun bunun arkasında Tanrı’nın elini fark edip Musa’dan bunu durdurmasını ister.
 
-Nil tanrısının karısı olan tanrıça Heket, doğumun ve yeniden doğuşun koruyucusuydu. Firavun, İsrailli çocukların doğumunu denetleyen kişi olduğuna göre, Tanrı da tam onun kendi simgesi üzerinden, yeni yaşamın gerçek efendisinin kim olduğunu ilan eder.
+Çömlekçi tanrı Khnum'un eşlikçisi olan kurbağa tanrıça Heket, doğumlara yardım eder ve yeni yaşamla ilişkilendirilirdi.[^heqet] Firavun, İsrailli çocukların doğumunu denetleyen kişi olduğuna göre, Tanrı da tam onun kendi simgesi üzerinden, yeni yaşamın gerçek efendisinin kim olduğunu ilan eder.
 
 ## {{% bible val="3, Sivrisinekler" link="exo:8,16-19" lang="tr" %}}
 
@@ -134,3 +136,5 @@ Bunun bir katmanı daha vardır. İlk doğan, varistir: Firavun ölürse yerine 
 Onuncu bela gelmeden önce {{% bible val="Fısıh tanıtılır" link="exo:12,1-13" lang="tr" %}} — hem beladan koruma sağlar, hem de Rab’bin Sofrası’nın kökenidir, hem de bir bakıma İsrail’in bir halk olarak doğuşudur, çünkü {{% bible val="İsrail’e katılmak isteyen herkese açıktı" link="exo:12,43-49" lang="tr" %}}. Bununla birlikte {{% bible val="Mayasız Ekmek Bayramı da tanıtılır" link="exo:12,14-20" lang="tr" %}}; bu da {{% bible val="beklemeye değil, yalnızca acele etmeye zaman olduğunu" link="exo:12,12" lang="tr" %}} vurgular.
 
 Son olarak, kalıcı bir hatırlatıcı olarak {{% bible val="el ve alın üzerindeki işaret" link="exo:13,8-9" lang="tr" %}} tanıtılır: Tanrı İsrail’i Mısır’dan çıkardı, Mısır’ın tanrılarından daha güçlüdür ve İsrail bunu asla unutmamalıdır. Bir başka deyişle bu işaret, Tanrı’ya bağlılığın bir simgesidir.
+
+[^heqet]: TDOT, c. 13, s. 371; Heket ve diriliş için Beale, s. 833.

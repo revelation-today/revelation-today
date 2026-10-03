@@ -9,7 +9,7 @@ next: /expl/content/army/the-144000
 docType: expl
 appl: /appl/content/seals
 sources: 
-    - pages: 395–404
+    - pages: 203, 395–404
       ref: beale_rev
 deeper:
     - name: Hari Tuhan
@@ -25,20 +25,20 @@ Inilah teksnya: {{% bible val="Maka aku melihat, ketika Anak Domba itu membuka m
 ## Murka Anak Domba
 
 <a name="435e"></a>
-Murka Anak Domba terdengar seperti tema yang meliputi seluruh Alkitab, tetapi istilah itu sendiri sebenarnya hanya muncul {{% bible val="satu kali" link="rev:6,16" lang="ind" %}}, tepat di sini, dalam meterai keenam. Ini sebenarnya bukan gambaran tentang Anak Domba - ini terutama gambaran tentang bagaimana manusia mempersepsikan-Nya. Setelah segala kehancuran yang ditimbulkan oleh {{% int_link val="keempat penunggang kuda yang menyamar sebagai Yesus" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}, manusia secara wajar takut bahwa Yesus akan bertindak dengan cara yang sama. Tetapi Ia tidak akan begitu. Penghakiman-Nya akan berat - {{% int_link val="perpisahan yang kekal dari Allah" link="/expl/content/paradise/heaven-and-hell" %}} - namun tidak akan berbentuk peperangan yang menghancurkan.
+Murka Anak Domba terdengar seperti tema yang meliputi seluruh Alkitab, tetapi ungkapan itu sendiri hanya muncul {{% bible val="satu kali" link="rev:6,16" lang="ind" %}}, tepat di sini, dalam meterai keenam. Murka itu nyata: surga sendiri mengumumkannya (11:18; 14:10; 16:19), dan pada akhirnya Anak Domba melaksanakannya (19:15).[^real] Penghakiman-Nya bersifat final - {{% int_link val="keterpisahan dari Allah" link="/expl/content/paradise/heaven-and-hell" %}} - tetapi itu bukan peperangan manusia. Satu-satunya senjata-Nya adalah pedang yang keluar dari mulut-Nya (19:15, 21): firman-Nya.
 
-Adegan ini mengingatkan pada {{% bible val="Hosea" link="hos:10,6-8" lang="ind" %}}, di mana Israel, yang dipermalukan dan malu karena penyembahan berhala mereka, berusaha bersembunyi dari Allah - yang sendiri dapat ditelusuri kembali pada {{% bible val="kejatuhan manusia, ketika Adam dan Hawa berusaha bersembunyi dari Allah setelah mereka berdosa" link="gen:3,8" lang="ind" %}}.
+Adegan ini mengingatkan pada {{% bible val="Hosea" link="hos:10,6-8" lang="ind" %}}, di mana Israel, yang dipermalukan dan malu karena penyembahan berhala mereka, berusaha bersembunyi dari Allah - yang sendiri dapat ditelusuri kembali pada {{% bible val="kejatuhan manusia, ketika Adam dan Hawa berusaha bersembunyi dari Allah setelah mereka berdosa" link="gen:3,8" lang="ind" %}}.[^hide]
 
-Penekanannya di sini terletak pada manusia yang bersembunyi karena mereka tahu apa yang telah mereka lakukan dengan salah dan mengharapkan penghakiman yang berat - bukan pada gambaran seorang Allah yang murka dan ingin mencelakai mereka. Perhatikan juga bahwa hanya ketakutan manusia yang digambarkan; reaksi Yesus atau Allah yang sesungguhnya tidak pernah ditunjukkan.
+Perhatikan siapa yang berbicara. Kata-kata itu diucapkan oleh orang-orang yang ketakutan, yang bersembunyi karena mereka tahu apa yang telah mereka perbuat. Manusia sudah bersembunyi dari Allah sejak Eden, dan sekarang mereka melihat siapa Anak Domba itu sebenarnya. Adegan ini memperlihatkan ketakutan mereka, bukan Allah yang murka dan ingin mencelakakan mereka.
 
 ## Makna Murka
 
 <a name="0f00"></a>
-Kata yang dipakai dalam nas ini adalah "[orge](https://biblehub.com/greek/3709.htm)," yang berasal dari kata "membengkak" dan menggambarkan sebuah penolakan yang sudah menumpuk sejak lama - ini bukan sebuah letupan yang spontan.
+Murka Allah bukanlah ledakan amarah yang tiba-tiba.
 
 Di satu sisi, manusia baru sekarang menyadari apa yang telah mereka timbun terhadap Allah. Di sisi lain, {{% int_link val="Allah telah berusaha menjangkau manusia, tetapi ada saatnya usaha itu berhenti" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
 
-Ini semestinya tidak memberi kita kesan bahwa Allah seperti seorang pekerja sosial yang berusaha menolong, lalu menyerah karena manusia tidak mau bekerja sama. Sebaliknya, akan tiba saatnya Ia menghadapkan manusia dengan konsekuensi dari perbuatan mereka sendiri.
+Ini semestinya tidak memberi kita kesan bahwa Allah seperti seorang pekerja sosial yang berusaha menolong, lalu menyerah karena manusia tidak mau bekerja sama. Sebaliknya, akan tiba saatnya Ia menghadapkan manusia dengan konsekuensi dari perbuatan mereka sendiri.[^hanson]
 
 ## Pentingnya Murka
 
@@ -57,3 +57,9 @@ Izinkan aku mengatakan ini kepadamu: sepanjang sejarah, sebagian besar manusia m
 Jadi ketika Allah bertindak demi mereka yang menderita, tindakan itu adalah tindakan yang benar.
 
 Kita bertanggung jawab atas penderitaan yang kita timbulkan bagi orang lain, dan akibat dari kejahatan kita tidak begitu saja terhapus oleh satu doa. Allah ingin hati kita yang keras seperti batu benar-benar berubah.
+
+[^real]: Beale, hlm. 203, 400.
+
+[^hide]: Hosea 10:8 dan Kejadian 3:8–9 melatarbelakangi adegan ini: Beale, hlm. 400.
+
+[^hanson]: Inilah argumen A. T. Hanson dalam *The Wrath of the Lamb* (London: SPCK, 1957).

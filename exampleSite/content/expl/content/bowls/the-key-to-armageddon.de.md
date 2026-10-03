@@ -16,12 +16,14 @@ deeper:
     - name: Die Schlacht von Karkemisch
       link:  /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 sources: 
-    - pages: 838-841
+    - pages: 827, 836–841
       ref: beale_rev
     - pages: 224-225
       ref: fee_rev
-    - pages: 898–899
+    - pages: 891, 898–899
       ref: aune_rev
+    - pages: 382, 407
+      ref: bauckham_climax
 ---
 
 Armageddon: eine Katastrophe, die die Welt zerstören wird? Nein — denn was auch immer an realer Geografie hinter dem Namen steht, Johannes verwendet ihn als Symbol, nicht um ein wörtliches Schlachtfeld zu benennen. Willst du wissen, warum? Dann lies weiter.
@@ -31,13 +33,17 @@ Armageddon: eine Katastrophe, die die Welt zerstören wird? Nein — denn was au
 <a name="8763"></a>
 Der Begriff Armageddon wird nur ein einziges Mal {{% bible val="in der Bibel erwähnt," link="rev:16,16" lang="de" %}} mit dem Hinweis, dass es sich um einen hebräischen Begriff handelt — der interlineare Text selbst gibt jedoch keinen weiteren Aufschluss darüber, was er bedeutet. Gehen wir die Sache also Schritt für Schritt an.
 
-„Har“ bedeutet im Hebräischen „Berg“, aber welcher Berg? Megiddo selbst liegt auf einem Tell, keinem markanten Berg, was mit ein Grund dafür ist, dass mehr als eine Herleitung vorgeschlagen wurde. Es gibt drei Möglichkeiten, und alle drei erweisen sich, wie ich meine, als relevant.
+„Har“ bedeutet im Hebräischen „Berg“, aber welcher Berg? Megiddo selbst liegt auf einem Tell, keinem markanten Berg, was mit ein Grund dafür ist, dass mehr als eine Herleitung vorgeschlagen wurde. Drei Bedeutungen sind vorgeschlagen worden, und jede von ihnen ist es wert, gehört zu werden.
 
-Es kann „Berg der Versammlung“ bedeuten, hergeleitet aus {{% bible val="einer Passage bei Jesaja" link="isa:14,13" lang="de" %}}, die den Fall Babylons beschreibt. Der Vers unmittelbar davor — Babylon, dargestellt als „vom Himmel gefallen, du Morgenstern, Sohn der Morgenröte“ — beschreibt tatsächlich eher die Mächte hinter Babylon als Babylon selbst und dürfte sich durchaus auf Satan beziehen, auch wenn diese Deutung erst durch die spätere christliche Tradition zum Standard wurde; der unmittelbare Kontext nennt den König von Babylon als Ziel des Spotts, und viele moderne Ausleger lesen die Rede vom „Morgenstern“ als gängiges altorientalisches Bild für einen maßlosen König, das erst später typologisch auf Satan übertragen wurde. Das ganze Kapitel ist eine {{% bible val="Verspottung" link="isa:14,3-4" lang="de" %}} des scheinbar Unbesiegbaren, der vollständig vernichtet wird.
+Es kann „Berg der Versammlung“ bedeuten, hergeleitet aus {{% bible val="einer Passage bei Jesaja" link="isa:14,13" lang="de" %}}, die den Fall Babylons beschreibt.[^assembly] Der Vers unmittelbar davor — Babylon, dargestellt als „vom Himmel gefallen, du Morgenstern, Sohn der Morgenröte“ — beschreibt tatsächlich eher die Mächte hinter Babylon als Babylon selbst und dürfte sich durchaus auf Satan beziehen, auch wenn diese Deutung erst durch die spätere christliche Tradition zum Standard wurde; der unmittelbare Kontext nennt den König von Babylon als Ziel des Spotts, und viele moderne Ausleger lesen die Rede vom „Morgenstern“ als gängiges altorientalisches Bild für einen maßlosen König, das erst später typologisch auf Satan übertragen wurde. Das ganze Kapitel ist eine {{% bible val="Verspottung" link="isa:14,3-4" lang="de" %}} des scheinbar Unbesiegbaren, der vollständig vernichtet wird.
 
-Es kann auch „Berg von Megiddo“ bedeuten. Diese Deutung braucht mehr Raum zur Entfaltung, denn bei Megiddo und seinem Berg ereigneten sich sehr viele Geschehnisse.
+Es kann auch „Berg von Megiddo“ bedeuten, die häufigste Deutung.[^megiddo] Diese Deutung braucht mehr Raum zur Entfaltung, denn bei Megiddo und seinem Berg ereigneten sich sehr viele Geschehnisse.
 
-Und schließlich kann es „Berg der Schlachtung“ bedeuten, was wir uns ebenfalls ansehen werden.
+Und schließlich kann es „Berg des Niederhauens“ oder der Schlachtung bedeuten. Das ist die älteste Erklärung, die wir haben: Die ersten griechischen Ausleger der Offenbarung lasen es so, von Sacharja 12,11 her, wo das griechische Alte Testament von der Ebene „des Niedergehauenen“ spricht.[^slaughter]
+
+Welche Bedeutung man auch hört, der Name ist Spott. Die Könige der ganzen Welt führen ihr riesiges Heer ausgerechnet nach Megiddo — an den Ort, an dem immer wieder die Schwachen siegten und die Mächtigen fielen. Die Schale hat den Spott schon begonnen: Der Euphrat trocknet aus, um „den Königen vom Aufgang der Sonne“ den Weg zu bereiten (16,12). Das war Roms eigener Albtraum — ein Einfall von jenseits des Euphrat, nach dem Volksgerücht angeführt von einem zurückkehrenden Nero —, und am Ende sind es das Tier und die mit ihm verbündeten Könige, die sich gegen Babylon wenden und sie vernichten (17,16).[^east] Die Völker meinen, sie versammelten sich, um Gottes Volk auszulöschen, doch es ist Gott, der sie versammelt, zu ihrem Gericht.
+
+Die drei Bedeutungen fügen vielleicht noch eine Schicht hinzu. Johannes sagt uns, dass der Name hebräisch ist (16,16), und das lädt den Leser ein, auf seine Bedeutung zu hören. Als Wortspiel gehört, wie das Spottlied über Babylon in Jesaja 14, erweist sich der Berg der Versammlung, an dem die Könige zusammenkommen, als der Berg, an dem sie selbst niedergehauen werden. Kein uns bekannter Ausleger behandelt den Namen als beabsichtigtes Wortspiel; das bleibt also ein Vorschlag, und der Spott hängt nicht davon ab.[^pun]
 
 ## Debora und Jael
 
@@ -72,3 +78,13 @@ Assyrien hatte Israel bis zu diesem Zeitpunkt ständig unterdrückt und hörte n
 Armageddon steht für ein Paradox, das sich durch das gesamte Neue Testament zieht, besonders aber durch das Buch der Offenbarung: Der Unbesiegbare wird vernichtet, und der Schwache siegt. Die obigen Geschichten zeichnen dieses Muster immer wieder nach.
 
 Der Ort des Todes verspottet den, der alles besiegt hat. Eine Hausfrau besiegt einen Heerführer. Ein einzelner Prophet bringt ganz Israel zu Gott zurück und besiegt Hunderte Propheten der bösen Königin. Ein einzelner Heerführer stürzt seinen eigenen König und den benachbarten König, ohne jede wirkliche Vorbereitung. Ein König eines winzigen Reiches kämpft gegen eine Weltmacht, wird besiegt und getötet — und sichert durch seinen Tod die Zukunft seines Volkes. Es ist dasselbe Muster, das Paulus direkt benennt — „Gott hat erwählt, was in der Welt schwach ist, um das Starke zuschanden zu machen" (1. Korinther 1,27) — und dieselbe Umkehrung, die am Thron selbst dargestellt wird, wo sich der Löwe von Juda als geschlachtetes Lamm erweist (Offenbarung 5,5–6).
+
+[^assembly]: Hebräisch *har mo'ed* (Jes 14,13). Vorgeschlagen von Hommel und Loasby (Aune, *Revelation 6–16*, S. 899) und vertreten von Meredith Kline. Beale hält Klines Argumentation für „durchaus plausibel“, wenn man die Herleitung voraussetzt, bezweifelt aber die Herleitung: Keine Handschrift hat die Buchstaben, die sie braucht (S. 840 und Anm. 112). Auch Gordon Fee und N. T. Wright verstehen den Namen so.
+
+[^megiddo]: Aune, *Revelation 6–16*, S. 898, der hinzufügt, der Name sei „nie befriedigend erklärt worden“; Beale, S. 839–840.
+
+[^slaughter]: Oecumenius und Andreas von Caesarea (Aune, *Revelation 6–16*, S. 899). Unter den neueren Auslegern Caird („Berg des Angriffs“) und LaRondelle (Beale, S. 839, Anm. 107).
+
+[^east]: Aune, *Revelation 6–16*, S. 891; Bauckham, *Climax*, S. 382, 407. Zum ausgetrockneten Euphrat und zur Einnahme Babylons durch Kyrus: Beale, S. 827. Dass die Völker zum Sammeln verführt, in Wahrheit aber von Gott zu ihrem eigenen Gericht versammelt werden: Beale, S. 836.
+
+[^pun]: Das ist ein eigener Vorschlag dieser Seite. Beale hört im Namen Megiddo selbst mehrere Schichten — Deboras Sieg, Elia auf dem Karmel, Josias Tod (S. 840).

@@ -20,6 +20,8 @@ sources:
       ref: beale_rev
     - pages: 12–14, 70, 277–283
       ref: bauckham_climax
+    - pages: 87
+      ref: bauckham_rev
 ---
 
 Vahiy 8-9 modern felaket haberleri gibi okunur, ama Yuhanna yeni bir şeyden söz etmiyor — yeni bir imparatorluk ve yeni bir Firavun için {{% int_link val="Mısır'daki belaları" link="/expl/bible/exodus/the-plagues-in-egypt" %}} yeniden sahneliyor.
@@ -61,7 +63,7 @@ Yuhanna borazanları Mısır'daki belalardan kurar — dolu, kana dönen su, kar
 
 **İsrail'i sonunda dışarı çıkaran belalar değil, kuzunun kanıydı.** Onuncu gece Fısıh'tı. Vahiy aynı sırayı korur: tövbe getirmeyen altı borazandan sonra, insanları sonunda Tanrı'yı yüceltmeye yönelten {{% int_link val="iki tanığın tanıklığı" link="/expl/content/witnesses/the-two-witnesses" %}} — ve {{% bible val="Kuzu'nun kanı ve tanıklık sözleriyle onu yenenler" link="rev:12,11" lang="tr" %}} — olur (11:13); bu makalenin sonu bunu gösterir.
 
-Her yorumcu bunu böyle tartmaz. Beale borazanları da belalar gibi öncelikle zaten katılaşmış insanlar üzerindeki yargılar olarak okur; uyarı onun için yalnızca bir kalıntının dikkate aldığı ikincil bir amaçtır (Beale, s. 465–467). Bu site onları tersinden okur, çünkü Vahiy'in nasıl bir kitap olduğu bunu gerektirir: {{% int_link val="bir peygamberlik ve bir apokaliptik metin" link="/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy" %}}, henüz zaman varken bir karar kışkırtmak için yazılır — {{% bible val="Yunus'un Ninova'ya uyarısı" link="jon:3,4-10" lang="tr" %}} gibi; o uyarı, gerçekleşmek zorunda kalmasın diye yapılmıştı. Okurlarını uyandırmak için yazılmış bir kitap, yalnızca zaten verilmiş bir hükmü onaylayan belalardan pek bir şey kazanmaz. İki okuma da yukarıdaki her şeyde uzlaşır; hangi amacın önce geldiği konusunda ayrılır.
+Demek ki borazanlar her şeyden önce uyarıdır. {{% int_link val="Bir peygamberlik ve bir apokaliptik metin" link="/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy" %}}, henüz zaman varken bir karar kışkırtmak için yazılır — {{% bible val="Yunus'un Ninova'ya uyarısı" link="jon:3,4-10" lang="tr" %}} gibi; o uyarı, gerçekleşmek zorunda kalmasın diye yapılmıştı. Ve kitap son borazanı tanıkların tanıklığı uğruna bekletir; insanları sonunda dönmeye yönelten de budur (10:1–11:13).[^delay] Belalar neyin kurtaramayacağını gösterir; tanıklık ise kimin kurtarabileceğini.
 
 ## İlk dört borazan
 
@@ -97,11 +99,15 @@ Ve tüm bunlardan sonra {{% bible val="halk yine de tövbe etmedi" link="rev:9,2
 
 Sıkıntının tek başına hiç kimsenin yüreğini Tanrı'ya geri döndürmediği için, Tanrı farklı bir şey dener: felaket yerine {{% bible val="ibadete" link="rev:11,1-2" lang="tr" %}} dayanan {{% bible val="iki tanığın tanıklığına" link="rev:11,3-12" lang="tr" %}} çağrıda bulunur. Tanıklar bu yüzden öldürülür — yine de {{% bible val="kentin onda biri yıkılır ve yedi bin kişi ölür, geri kalanlar ise dehşete kapılıp göklerin Tanrısı'na yücelik verirler" link="rev:11,13" lang="tr" %}}.
 
-Durup bunun ne kadar çarpıcı olduğuna dikkat edin: hiç tövbe üretmemiş dokuz borazan belasının ardından, iki tanığın ölümünü izlemek sonunda bir tepki uyandırır — metin bunu bize yalnızca bir kentin ölü sayısıyla ölçme izni verse de, temiz bir yürek yüzdesiyle değil. {{% bible val="Burada 'dehşete düştüler' diye çevrilen kelime" link="rev:11,13" lang="tr" %}}, [Yeni Antlaşma'da nadiren geçen bir kelimedir](https://biblehub.com/greek/1719.htm), ve başka yerlerde sade bir korkudan daha güçlü bir şeyi tanımlar — her iki yöne de kayabilen bir kapılıp gitme hâlini:
+Durup bunun ne kadar çarpıcı olduğuna dikkat edin: hiç tövbe üretmemiş altı borazanın ardından, iki tanığın ölümünü izlemek sonunda bir tepki uyandırır — metin bunu bize yalnızca bir kentin ölü sayısıyla ölçme izni verse de, temiz bir yürek yüzdesiyle değil. {{% bible val="Burada 'dehşete düştüler' diye çevrilen kelime" link="rev:11,13" lang="tr" %}}, [Yeni Antlaşma'da nadiren geçen bir kelimedir](https://biblehub.com/greek/1719.htm), ve başka yerlerde sade bir korkudan daha güçlü bir şeyi tanımlar — her iki yöne de kayabilen bir kapılıp gitme hâlini:
 
 - {{% bible val="boş mezardaki kadınlar" link="luk:24,5" lang="tr" %}}, tapınmaya kapılıp giderler,
 - {{% bible val="dirilen İsa ilk kez aralarında durduğunda öğrenciler" link="luk:24,36-37" lang="tr" %}}, bir hayalet gördüklerini düşünmeye kapılıp giderler,
 - {{% bible val="dualarının işitildiğini söyleyen meleği gören Kornelius" link="act:10,4" lang="tr" %}}, ne yapması gerektiğini sormaya kapılıp gider,
 - ve {{% bible val="müjdenin gerçekte ne talep ettiğini duyan Romalı komutan Feliks" link="act:24,25" lang="tr" %}}, Pavlus'a susmasını söylemeye kapılıp gider — ve bu yüzden tövbeye bir adım bile yaklaşmaz.
 
-Yani kelimenin kendisi bu soruyu çözmez; "dehşete kapılmak" tapınmaya da götürebilir, oyalanmaya da. 13. ayette bunu bir yöne çeviren şey, hayatta kalanların bundan sonra yaptığıdır: {{% bible val="göklerin Tanrısı'na yücelik verirler" link="rev:11,13" lang="tr" %}} — Yeşu'nun bir zamanlar suçlu Akan'ı itirafa zorlamak için kullandığı tam ifade (Yeşu 7:19), ve Vahiy'in başka yerlerde de kendisinin talep ettiği tepki. Bunun tam bir tövbe mi, yoksa dehşetle sıkıştırılmış, Firavun tarzı bir kabul mü sayıldığını metin açıkça belirtmez. Kesin olarak ortaya koyduğu şey ise, bütün borazan döngüsü boyunca birinin Tanrı'ya herhangi bir tepki verdiği ilk anın bu olduğudur — bu da bölümün doğru gittiği dönüm noktasının ta kendisidir.
+Yani kelimenin kendisi bu soruyu çözmez; "dehşete kapılmak" tapınmaya da götürebilir, oyalanmaya da. 13. ayette bunu bir yöne çeviren şey, hayatta kalanların bundan sonra yaptığıdır: {{% bible val="göklerin Tanrısı'na yücelik verirler" link="rev:11,13" lang="tr" %}} — Yeşu'nun bir zamanlar suçlu Akan'ı itirafa zorlamak için kullandığı tam ifade (Yeşu 7:19), ve Vahiy'in başka yerlerde de kendisinin talep ettiği tepki. Bu site bunu gerçek bir dönüş olarak okur. Eski Antlaşma'da sadık bir kalıntı — onda bir ya da yedi bin kişi — esirgenir, çoğunluk ise düşer. Burada örüntü tersine çevrilir: onda bir ve yedi bin kişi düşer, esirgenen onda dokuz ise Tanrı'ya döner.[^convert] Bütün borazan döngüsü boyunca birinin Tanrı'ya döndüğü ilk an budur ve bölümün yöneldiği dönüm noktası da budur.
+
+[^delay]: Bauckham, *Climax*, s. 12–14. Beale borazanları öncelikle zaten katılaşmış insanlar üzerindeki yargılar olarak okur; uyarı ikincil bir amaçtır (s. 465–467).
+
+[^convert]: Bauckham, *Climax*, s. 282–283 ve *Theology*, s. 87. Beale bu ayeti, kurtarıcı iman olmaksızın Tanrı'nın gücünün kabulü olarak okur (s. 603–604).

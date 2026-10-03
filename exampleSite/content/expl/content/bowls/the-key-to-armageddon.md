@@ -16,12 +16,14 @@ deeper:
     - name: The battle of Karkemish
       link:  /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 sources: 
-    - pages: 838-841
+    - pages: 827, 836–841
       ref: beale_rev
     - pages: 224-225
       ref: fee_rev
-    - pages: 898–899
+    - pages: 891, 898–899
       ref: aune_rev
+    - pages: 382, 407
+      ref: bauckham_climax
 ---
 
 Armageddon: a catastrophe that will destroy the world? No — because, whatever real geography stands behind the name, John is using it as a symbol, not pinpointing a literal battlefield. Want to know why? Read on.
@@ -31,13 +33,17 @@ Armageddon: a catastrophe that will destroy the world? No — because, whatever 
 <a name="02ee"></a>
 The term Armageddon is mentioned only once {{% bible val="in the Bible," link="rev:16,16" lang="en" %}} with the note that it's a Hebrew term — though the interlinear text itself offers no further insight into what it means. So let's work through it step by step.
 
-"Har" means "mountain" in Hebrew, but which mountain? Megiddo itself sits on a tell, not a prominent mountain, which is part of why more than one derivation has been proposed. There are three possibilities, and all three, I think, turn out to be relevant.
+"Har" means "mountain" in Hebrew, but which mountain? Megiddo itself sits on a tell, not a prominent mountain, which is part of why more than one derivation has been proposed. Three meanings have been proposed, and each of them is worth hearing.
 
-It can mean "mount of assembly," drawn from {{% bible val="a passage in Isaiah" link="isa:14,13" lang="en" %}} describing the fall of Babylon. The verse just before that reference — Babylon pictured as "fallen from heaven, O Day star, son of Dawn" — actually describes the powers behind Babylon more than Babylon itself, and may well refer to Satan, though that reading became standard only through later Christian tradition; the immediate context names the king of Babylon as the target of the taunt, and many modern commentators read the "Day Star" language as stock ancient Near Eastern imagery for an overreaching king, applied to Satan only as a later typological extension. The whole chapter is a {{% bible val="mockery" link="isa:14,3-4" lang="en" %}} of the invincible, utterly destroyed.
+It can mean "mount of assembly," drawn from {{% bible val="a passage in Isaiah" link="isa:14,13" lang="en" %}} describing the fall of Babylon.[^assembly] The verse just before that reference — Babylon pictured as "fallen from heaven, O Day star, son of Dawn" — actually describes the powers behind Babylon more than Babylon itself, and may well refer to Satan, though that reading became standard only through later Christian tradition; the immediate context names the king of Babylon as the target of the taunt, and many modern commentators read the "Day Star" language as stock ancient Near Eastern imagery for an overreaching king, applied to Satan only as a later typological extension. The whole chapter is a {{% bible val="mockery" link="isa:14,3-4" lang="en" %}} of the invincible, utterly destroyed.
 
-It can also mean "mountain of Megiddo." This one takes longer to unpack, since a great many events happened at Megiddo and its mountain.
+It can also mean "mountain of Megiddo", the most common reading.[^megiddo] This one takes longer to unpack, since a great many events happened at Megiddo and its mountain.
 
-And finally, it can mean "mountain of slaughter" — the least textually anchored of the three, but worth noting as well.
+And finally, it can mean "mountain of cutting down", or of slaughter. This is the oldest explanation we have: the first Greek commentators on Revelation read it this way, from Zechariah 12:11, where the Greek Old Testament speaks of the plain "of that which is cut down".[^slaughter]
+
+Whichever meaning is heard, the name is mockery. The kings of the whole world bring their huge army to Megiddo, of all places — the place where, again and again, the weak won and the mighty fell. The bowl has already begun the joke: the Euphrates dries up to open the way for "the kings from the east" (16:12). That was Rome's own nightmare — an invasion from beyond the Euphrates, in popular rumour led by a returning Nero — and in the end it is the beast and his allied kings who turn on Babylon and destroy her (17:16).[^east] The nations think they are gathering to wipe out God's people, but it is God who gathers them, to meet their judgment.
+
+The three meanings may add one more layer. John tells us the name is Hebrew (16:16), which invites the reader to listen to what it means. Heard as a wordplay, like the taunt over Babylon in Isaiah 14, the mountain of assembly where the kings gather turns out to be the mountain of their own cutting down. No commentator we know of treats the name as an intended pun, so this remains a suggestion; the mockery does not depend on it.[^pun]
 
 ## Deborah and Jael
 
@@ -72,3 +78,13 @@ Assyria had been oppressing Israel constantly up to this point, and stopped only
 Armageddon represents a paradox that runs throughout the New Testament, and especially through the book of Revelation: the invincible is destroyed, and the weak conquer. The stories above trace that same pattern again and again.
 
 The place of death mocks the one who conquered all. A housewife defeats an army commander. A single prophet turns all Israel back to God and defeats hundreds of the evil queen's prophets. A single commander overthrows his own king and the neighboring king without any real preparation. A king of a tiny kingdom fights a world power, is defeated and killed — and by dying, secures the future of his people. It's the same pattern Paul names directly — "God chose what is weak in the world to shame the strong" (1 Corinthians 1:27) — and the same reversal pictured at the throne itself, where the Lion of Judah turns out to be a slaughtered Lamb (Revelation 5:5–6).
+
+[^assembly]: Hebrew *har mo'ed* (Isa 14:13). Proposed by Hommel and Loasby (Aune, *Revelation 6–16*, p. 899) and argued by Meredith Kline. Beale finds Kline's case "quite plausible" if the derivation is granted, but doubts the derivation: no manuscript has the letters it needs (p. 840 and n. 112). Gordon Fee and N. T. Wright also take it this way.
+
+[^megiddo]: Aune, *Revelation 6–16*, p. 898, who adds that the name "has never been satisfactorily explained"; Beale, pp. 839–840.
+
+[^slaughter]: Oecumenius and Andrew of Caesarea (Aune, *Revelation 6–16*, p. 899). Among modern commentators, Caird ("mountain of attack") and LaRondelle (Beale, p. 839 n. 107).
+
+[^east]: Aune, *Revelation 6–16*, p. 891; Bauckham, *Climax*, pp. 382, 407. On the dried-up Euphrates and Cyrus's capture of Babylon, Beale, p. 827. That the nations are deceived into gathering, but are gathered by God for their own judgment: Beale, p. 836.
+
+[^pun]: This is the site's own suggestion. Beale hears several layers in the Megiddo name itself — Deborah's victory, Elijah on Carmel, Josiah's death (p. 840).

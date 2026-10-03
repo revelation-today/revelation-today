@@ -65,9 +65,9 @@ Um das zu verstehen, braucht es ein wenig Hintergrundwissen.
 
 Lebensmittel wurden häufig rationiert — sei es wegen einer bevorstehenden Hungersnot, einer bereits laufenden Hungersnot oder einer prophetischen Warnung davor. Zum Vergleich: Ein Maß Weizen reichte, um eine Person für einen Tag zu ernähren, und drei Maß Gerste (die als Tierfutter diente) reichten, um eine Familie drei Tage zu versorgen. Daran lässt sich ablesen, dass die Preise auf das 8- bis 16-fache des Normalpreises gestiegen sind.
 
-Im Zusammenhang der Offenbarung fungieren Wein und Öl hier als Luxusgüter — sie stehen in diesem Buch in keinerlei Beziehung zur Salbung oder zum Abendmahl.
+Wein und Öl sind hier keine Luxusgüter. Im Alten Testament gehören sie zusammen mit dem Getreide zur Grundnahrung des Landes, und wenn sie alle ausfallen, ist die Hungersnot schwer (Joel 1,10–11). Mit Salbung oder Abendmahl haben sie nichts zu tun.
 
-Diese Stelle beschreibt also keine allgemeine Hungersnot, sondern eine ungerechte Bedrohung, die gezielt die Armen trifft: Während die Luxusgüter vor jedem Schaden bewahrt bleiben (und sogar im Preis steigen), sind die Kosten für Grundnahrungsmittel auf ein unerträgliches Niveau geklettert. Deshalb ist die Stimme inmitten der vier Wesen kein Befehl Gottes, sondern ein Schrei nach Gerechtigkeit.
+Es geht also um eine Hungersnot, ernst, aber begrenzt. Ein Tageslohn reicht gerade für das Getreide zum Überleben, und für Öl und Wein bleibt nichts übrig, obwohl die Bäume und Weinstöcke selbst verschont bleiben. Die Stimme „inmitten der vier Wesen“ ist höchstwahrscheinlich die von Christus selbst, denn das Lamm steht „inmitten des Thrones und der vier Wesen“ (5,6). Der Befehl kommt vom Thron selbst, und er setzt der Hungersnot eine Grenze.[^voice] Am härtesten trifft es die Armen — und, wie das Buch später zeigt, die Gläubigen, die vom Kaufen und Verkaufen ausgeschlossen werden (13,16–17).
 
 ## Das Geheimnis des ersten Reiters
 
@@ -98,7 +98,7 @@ Das ist verwirrend — warum gibt es Hinweise, die sowohl auf eine gute als auch
 ## Die Auflösung
 
 <a name="8d71"></a>
-Es wird deutlich: Der erste Reiter ist böse, gibt aber vor, gut zu sein — so wie Jesus. Das ergibt auch im Kontext Sinn: {{% bible val="Im vorherigen Kapitel wurde Jesus als der Einzige offenbart, der würdig ist, die Schriftrolle zu öffnen" link="rev:5" lang="de" %}}, und nun wird als Antwort darauf die wahre Natur des Teufels enthüllt — vom großen Versprechen (zu siegen) über Krieg (Verfolgung der Nichtgläubigen) und Hunger mit Ungerechtigkeit (der dritte Reiter) bis hin schließlich zu Tod und Zerstörung. Deshalb beschreibt das unmittelbar folgende Siegel den Schrei der Gerechten: "{{% bible val="Wie lange noch?" link="rev:6,9-11" lang="de" %}}" Die böse Natur aller vier Reiter ist nun offenkundig — wobei anzumerken ist, dass angesehene Ausleger auch heute noch (z. B. Osborne, Mounce) die positive Deutung des ersten Reiters vertreten; die hier vertretene Position ist eine wohlüberlegte Sichtweise, aber nicht die einzig vertretbare.
+Es wird deutlich: Der erste Reiter ist böse, gibt aber vor, gut zu sein — so wie Jesus. Das ergibt auch im Kontext Sinn: {{% bible val="Im vorherigen Kapitel wurde Jesus als der Einzige offenbart, der würdig ist, die Schriftrolle zu öffnen" link="rev:5" lang="de" %}}, und nun wird als Antwort darauf die wahre Natur des Teufels enthüllt — vom großen Versprechen (zu siegen) über Krieg (Verfolgung der Nichtgläubigen) und Hunger mit Ungerechtigkeit (der dritte Reiter) bis hin schließlich zu Tod und Zerstörung. Deshalb beschreibt das unmittelbar folgende Siegel den Schrei der Gerechten: "{{% bible val="Wie lange noch?" link="rev:6,9-11" lang="de" %}}" Die böse Natur aller vier Reiter ist nun offenkundig. Das ist umstritten, und die positive Deutung des ersten Reiters hat nach wie vor fähige Verfechter.[^rider]
 
 Und jetzt ergibt auch der Bezug zu {{% bible val="Gottes Plagen" link="ezk:14,12-23" lang="de" %}} Sinn — wilde Tiere, Schwert, Hunger und Pest. Über die bereits erwähnte direkte Entsprechung beim vierten Reiter (Offb 6,8) hinaus lässt sich jeder Reiter auch andeutungsweise so zuordnen:
 
@@ -108,3 +108,7 @@ Und jetzt ergibt auch der Bezug zu {{% bible val="Gottes Plagen" link="ezk:14,12
 - Der letzte Reiter fasst die Wirkung dieser bösen Dreiheit zusammen.
 
 Eines sollte man sich merken: Wie verlockend das Angebot des Teufels auch aussehen mag und wie sehr es auch an Jesus erinnern mag — man sollte nicht darauf eingehen, es endet in einer Katastrophe. Stattdessen sollte man klug sein, und Gott wird die dazu nötige Weisheit schenken.
+
+[^voice]: Beale, S. 381. Er nennt auch die Preise: etwa das Acht- bis Sechzehnfache des Üblichen.
+
+[^rider]: Die Deutung des ersten Reiters als satanische Nachahmung folgt Beale, S. 375–377. Für die positive Deutung siehe die von ihm genannten Ausleger: Hendriksen, Ladd, Sweet und andere (S. 375, Anm. 16).

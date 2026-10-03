@@ -15,8 +15,10 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
-    - pages: 465, 481
+    - pages: 465, 481, 833
       ref: beale_rev
+    - pages: "vol. 13: 371"
+      ref: tdot
 ---
 
 Ini adalah kisah yang mungkin pernah Anda dengar di sekolah minggu, tetapi ada jauh lebih banyak yang dapat ditemukan di dalamnya daripada yang mungkin pernah Anda dengar sebelumnya.
@@ -72,7 +74,7 @@ Sungai Nil adalah urat nadi kehidupan Mesir: banjir tahunannya menyuburkan ladan
 <a name="83d5"></a>
 Katak-katak memenuhi seluruh negeri, dan kali ini Firaun mengenali tangan Allah di baliknya dan meminta Musa untuk menghentikannya.
 
-Dewi Heket, istri dewa sungai Nil, memerintah atas kelahiran dan kelahiran kembali. Karena Firaun-lah yang selama ini mengendalikan kelahiran di antara anak-anak Israel, Allah menyatakan, melalui simbol dewi itu sendiri, siapa yang sesungguhnya berkuasa atas kehidupan baru.
+Dewi katak Heket, pendamping dewa penjunan Khnum, menolong dalam kelahiran dan dikaitkan dengan kehidupan baru.[^heqet] Karena Firaun-lah yang selama ini mengendalikan kelahiran di antara anak-anak Israel, Allah menyatakan, melalui simbol dewi itu sendiri, siapa yang sesungguhnya berkuasa atas kehidupan baru.
 
 ### {{% bible val="3, Nyamuk" link="exo:8,16-19" lang="ind" %}}
 
@@ -134,3 +136,5 @@ Karena {{% bible val="'hati yang kuat' Firaun" link="exo:10,7" lang="ind" %}}, r
 Sebelum tulah kesepuluh menghantam, {{% bible val="Paskah diperkenalkan" link="exo:12,1-13" lang="ind" %}} — perlindungan dari tulah itu, tetapi juga asal mula Perjamuan Tuhan, dan semacam kelahiran Israel sebagai suatu bangsa, karena {{% bible val="perayaan itu terbuka bagi siapa saja yang ingin bergabung dengan Israel" link="exo:12,43-49" lang="ind" %}}. Bersamanya, {{% bible val="Hari Raya Roti Tidak Beragi diperkenalkan" link="exo:12,14-20" lang="ind" %}}, menegaskan bahwa {{% bible val="tidak ada waktu untuk menunggu, hanya waktu untuk bergegas" link="exo:12,12" lang="ind" %}}.
 
 Akhirnya, {{% bible val="tanda pada tangan dan dahi" link="exo:13,8-9" lang="ind" %}} diperkenalkan sebagai pengingat abadi: Allah telah membawa Israel keluar dari Mesir, Ia lebih berkuasa daripada para dewa Mesir, dan Israel tidak boleh melupakannya. Tanda itu, dengan kata lain, adalah sebuah tanda kesetiaan kepada Allah.
+
+[^heqet]: TDOT, jld. 13, hlm. 371; tentang Heket dan kebangkitan, Beale, hlm. 833.

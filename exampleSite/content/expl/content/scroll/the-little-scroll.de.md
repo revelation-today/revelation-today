@@ -16,6 +16,8 @@ deeper:
 sources: 
     - pages: 520–555
       ref: beale_rev
+    - pages: 243–257
+      ref: bauckham_climax
 ---
 
 Kapitel 10 dreht sich um ein kleines Büchlein, das Johannes essen soll, und um das Geheimnis der sieben Donner, die in dem Moment versiegelt werden, in dem sie sprechen. Was bedeuten diese beiden seltsamen Details?
@@ -30,9 +32,9 @@ Es braucht etwas anderes als Not, um die Menschen zu Gott zurückzuführen, und 
 ## Der Engel mit dem Büchlein
 
 <a name="9ea4"></a>
-Um dieses Zeugnis möglich zu machen, erscheint ein Engel, in eine Wolke gehüllt, mit einem Regenbogen über seinem Haupt. Ob es sich dabei um Jesus selbst handelt oder um einen Engel, der ihn vertritt – die Szene ist eng mit ihm verbunden, auch wenn der Schwur des Engels in Vers 6, den er bei Gott und nicht bei sich selbst leistet (ein Echo der Engelsgestalt aus Daniel 12,7), einer der Gründe ist, warum viele Ausleger hier einen erhabenen Engel und nicht Christus in Person sehen. So oder so erinnert das Büchlein, das er trägt, an die Schriftrolle, die Jesus bereits in Kapitel 5 geöffnet hat.
+Um dieses Zeugnis möglich zu machen, erscheint ein starker Engel, in eine Wolke gehüllt, mit einem Regenbogen über seinem Haupt. Er wird mit Zügen beschrieben, die das Alte Testament nur Gott gibt und die Offenbarung nur Gott oder Christus. Es ist also wahrscheinlich Christus selbst oder der Engel des HERRN, der für ihn steht.[^angel] Das Büchlein, das er trägt, erinnert an die Schriftrolle, die Jesus bereits in Kapitel 5 geöffnet hat.
 
-Es ist nicht dieselbe Schriftrolle, aber sie steht mit ihr in Verbindung. Die Schriftrolle aus Kapitel 5 ist schlicht „eine Schriftrolle", die Jesus öffnet, um Satans Sturz aufzudecken; dieses Büchlein hier ist ausdrücklich kleiner, und statt geöffnet zu werden, wird es gegessen – von Johannes, der stellvertretend für die Gemeinde steht –, damit es in Zeugnis verwandelt werden kann.
+Es ist nicht dieselbe Schriftrolle, aber sie steht mit ihr in Verbindung.[^scroll] Die Schriftrolle aus Kapitel 5 ist schlicht „eine Schriftrolle", die Jesus öffnet, um Satans Sturz aufzudecken; dieses Büchlein hier ist ausdrücklich kleiner, und statt geöffnet zu werden, wird es gegessen – von Johannes, der stellvertretend für die Gemeinde steht –, damit es in Zeugnis verwandelt werden kann.
 
 Die Verbindung zwischen beiden ist eine Frage des Ausmaßes: Jesus hat Satan am Kreuz besiegt, und dieser Sieg ist das Hauptereignis. Was bleibt, ist eine kleinere, aber dennoch unverzichtbare Aufgabe, die die Gemeinde erfüllen muss, damit Gottes Plan zur Vollendung kommt.
 
@@ -48,3 +50,7 @@ Johannes soll das Büchlein essen – ein Bild, das an Ezechiel erinnert, der eb
 Der Geschmack erzählt die Geschichte. Im Mund ist es süß – das, was Jesus bereits vollbracht hat –, und im Magen bitter: das Gericht, das noch über die Welt kommt, und die Kosten dafür, in einer Welt Zeugnis abzulegen, die die Gemeinde dafür hasst, ein Hass, den die Gemeinde nicht mit gleicher Münze heimzahlen soll, da sie berufen ist, Jesus nachzufolgen, statt zu drohen, wie ihm gedroht wurde.
 
 Was also ist dieses Büchlein am Ende? {{% bible val="Nachdem Johannes das Büchlein gegessen hat, wird ihm gesagt, dass er erneut weissagen muss – nicht nur über Israel, wie Ezechiel, sondern über viele Völker, Nationen, Sprachen und Könige" link="rev:10,11" lang="de" %}} Die folgenden Kapitel beantworten die Frage, indem sie es in Aktion zeigen: Es ist das Zeugnis, das die Gemeinde zu den Völkern trägt und das sie am Ende vollständig ausliefern wird.
+
+[^angel]: Beale, S. 522. Andere sehen in ihm einen erhabenen Engel, weil er bei Gott und nicht bei sich selbst schwört (10,6, in Anlehnung an Daniel 12,7).
+
+[^scroll]: Beale, S. 530–532. Bauckham hält die beiden Schriftrollen für dieselbe (*Climax*, S. 243–257).

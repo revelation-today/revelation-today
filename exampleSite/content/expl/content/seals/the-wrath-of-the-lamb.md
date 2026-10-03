@@ -9,7 +9,7 @@ next: /expl/content/army/the-144000
 docType: expl
 appl: /appl/content/seals
 sources: 
-    - pages: 395–404
+    - pages: 203, 395–404
       ref: beale_rev
 deeper:
     - name: The day of the Lord
@@ -25,20 +25,20 @@ Here is the text: {{% bible val="I watched as he opened the sixth seal. There wa
 ## The Wrath of the Lamb
 
 <a name="ddd6"></a>
-The wrath of the Lamb sounds like a theme that runs all through the Bible, but the term itself actually appears only {{% bible val="once" link="rev:6,16" lang="en" %}}, right here in the sixth seal. It isn't really a description of the Lamb — it's mainly a description of how the people perceive him. After all the devastation caused by the {{% int_link val="four horsemen masquerading as Jesus" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}, the people naturally fear that Jesus will act the same way. But he will not. His judgment will be severe — {{% int_link val="permanent separation from God" link="/expl/content/paradise/heaven-and-hell" %}} — yet it will not take the form of devastating warfare.
+The wrath of the Lamb sounds like a theme that runs all through the Bible, but the phrase itself appears only {{% bible val="once" link="rev:6,16" lang="en" %}}, right here in the sixth seal. The wrath is real: heaven itself announces it (11:18; 14:10; 16:19), and at the end the Lamb carries it out (19:15).[^real] His judgment is final — {{% int_link val="separation from God" link="/expl/content/paradise/heaven-and-hell" %}} — but it is not human warfare. His only weapon is the sword that comes out of his mouth (19:15, 21): his word.
 
-The scene recalls {{% bible val="Hosea" link="hos:10,6-8" lang="en" %}}, where Israel, disgraced and ashamed of their idolatry, tries to hide from God — which itself goes back to {{% bible val="the fall of man, when Adam and Eve tried to hide from God after they sinned" link="gen:3,8" lang="en" %}}.
+The scene recalls {{% bible val="Hosea" link="hos:10,6-8" lang="en" %}}, where Israel, disgraced and ashamed of their idolatry, tries to hide from God — which itself goes back to {{% bible val="the fall of man, when Adam and Eve tried to hide from God after they sinned" link="gen:3,8" lang="en" %}}.[^hide]
 
-The emphasis here falls on people hiding because they know what they've done wrong and expect harsh judgment — not on the portrayal of an angry God eager to harm them. Notice, too, that only the people's fear is described; the actual reaction of Jesus or God is never shown.
+Notice who is speaking. The words are spoken by the terrified, who hide because they know what they have done. People have been hiding from God since Eden, and now they see who the Lamb really is. The scene shows their fear, not an angry God eager to harm them.
 
 ## The meaning of wrath
 
 <a name="7d6e"></a>
-The word used in this passage is "[orge](https://biblehub.com/greek/3709.htm)," which comes from "swelling up" and describes a resistance that has been building for a long time — it is not a spontaneous outburst.
+God's wrath is not a sudden outburst of temper.
 
 On one hand, the people are only now realizing what they have built up against God. On the other, {{% int_link val="God has been trying to get through to the people, but there comes a point where that effort stops" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
 
-This shouldn't leave us with the impression that God is like a social worker who tries to help, then gives up because people are unwilling to cooperate. Rather, there comes a time when he confronts people with the consequences of their own actions.
+This shouldn't leave us with the impression that God is like a social worker who tries to help, then gives up because people are unwilling to cooperate. Rather, there comes a time when he confronts people with the consequences of their own actions.[^hanson]
 
 ## The importance of wrath
 
@@ -57,3 +57,9 @@ Let me tell you this: throughout history, most people have been familiar with at
 So when God acts on behalf of the suffering, that action is justified.
 
 We are responsible for the suffering we cause others, and the consequences of our wickedness aren't simply wiped away by a single prayer. God wants our hearts of stone to actually change.
+
+[^real]: Beale, pp. 203, 400.
+
+[^hide]: Hosea 10:8 and Genesis 3:8–9 stand behind the scene: Beale, p. 400.
+
+[^hanson]: This is A. T. Hanson's case in *The Wrath of the Lamb* (London: SPCK, 1957).

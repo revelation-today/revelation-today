@@ -20,7 +20,7 @@ deeper:
 sources: 
     - pages: 847–890
       ref: beale_rev
-    - pages: 21, 875
+    - pages: 21, 833, 875
       ref: beale_rev
 readBefore:
     - name: "Pax Romana — the key to understanding Revelation"
@@ -72,7 +72,7 @@ At the same time, hills can also stand for kingdoms, since the text goes on to i
 
 [Who are the seven kings?](https://www.bibleserver.com/NIV/Revelation17%3A10) Five have already fallen, one currently reigns, and a seventh is still to come and will reign only briefly. Together they describe a chronological sequence, showing that throughout this span of time the kings support the beast. This is one of the most debated passages in Revelation for dating the book: some scholars try to count actual emperors from Julius Caesar or Augustus onward to land on a specific "sixth king" (usually Nero), arguing this points to a date in the late 60s AD; the majority view, following the early church's own testimony (Irenaeus) that John wrote under Domitian in the mid-90s AD, reads the sequence more symbolically, as we do here. We won't try to name a specific sixth king; the point is not an exact headcount but that the final countdown is close, {{% bible val="a call to stay alert" link="rev:16,15" lang="en" %}}. For a fuller look at how this dating question plays out across the site, see {{% int_link val="who wrote Revelation, and when" link="/expl/topics/others/who-wrote-revelation-and-when" %}}.
 
-The beast itself then {{% bible val="comes as an 8th king who is also one of the seven" link="rev:17,11" lang="en" %}}. In later Christian tradition (though not the New Testament's own vocabulary), Sunday came to be called "the eighth day," symbolizing the start of a new creation after Christ's resurrection "on the third day" ({{% bible val="Christ raised on the third day" link="1co:15,4" lang="en" %}}). If that later association is in view here, the beast's appearance as an eighth king would be a false claim to the same kind of renewal — a counterfeit resurrection. The theme of the beast's own resurrection has already come up{{% bible val=" in chapter 13" link="rev:13,3-4" lang="en" %}} and in {{% bible val="chapter 16" link="rev:16,13" lang="en" %}}, where some interpreters have suggested the frogs recall the Egyptian goddess Heqet, associated with birth and resurrection — a suggestive but far from certain connection, alongside the more clearly established link to the plagues of Exodus. Put those pieces together and the beast's appearance on the eighth day reads as a claim to invincibility. But it's a false claim: he has already been unmasked as "the one who was, who is not, and who goes to destruction." This confirms that the beast is one of the seven — not a superhero standing above them.
+The beast itself then {{% bible val="comes as an 8th king who is also one of the seven" link="rev:17,11" lang="en" %}}. In later Christian tradition (though not the New Testament's own vocabulary), Sunday came to be called "the eighth day," symbolizing the start of a new creation after Christ's resurrection "on the third day" ({{% bible val="Christ raised on the third day" link="1co:15,4" lang="en" %}}). If that later association is in view here, the beast's appearance as an eighth king would be a false claim to the same kind of renewal — a counterfeit resurrection. The theme of the beast's own resurrection has already come up{{% bible val=" in chapter 13" link="rev:13,3-4" lang="en" %}} and in {{% bible val="chapter 16" link="rev:16,13" lang="en" %}}, where the frogs recall both the plague of frogs in Egypt and the Egyptian goddess Heqet, associated with birth and resurrection.[^frogs] Put those pieces together and the beast's appearance on the eighth day reads as a claim to invincibility. But it's a false claim: he has already been unmasked as "the one who was, who is not, and who goes to destruction." This confirms that the beast is one of the seven — not a superhero standing above them.
 
 ## The 10 kings
 
@@ -135,3 +135,5 @@ Finally, she has many parallels with the Second Beast from chapter 13.
 The power dynamic is reversed here too: in chapter 13 she dropped fire from heaven, but now she is destroyed by fire; there she made a mark on others' foreheads, but here she herself is branded on the forehead, like a slave.
 
 So the roles mirror each other across the two chapters: the first beast supports the harlot in chapter 17, just as the second beast supports the first beast in chapter 13.
+
+[^frogs]: Beale, p. 833.

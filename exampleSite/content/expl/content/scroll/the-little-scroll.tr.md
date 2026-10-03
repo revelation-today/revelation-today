@@ -16,6 +16,8 @@ deeper:
 sources: 
     - pages: 520–555
       ref: beale_rev
+    - pages: 243–257
+      ref: bauckham_climax
 ---
 
 10. bölümün merkezinde Yuhanna'nın yemesi istenen küçük bir tomar ve söyler söylemez mühürlenen yedi gök gürlemesinin gizemi yer alır. Bu iki tuhaf ayrıntı ne anlama gelir?
@@ -30,9 +32,9 @@ Altıncı borazandan sonra, insanları kendilerini yok eden cinlerden kurtaracak
 ## Tomarı taşıyan melek
 
 <a name="2d6a"></a>
-Bu tanıklığı mümkün kılmak için bir buluta sarınmış, başının üzerinde bir gökkuşağı olan bir melek belirir. Bu İsa'nın kendisi mi, yoksa onu temsil eden bir melek mi olduğu tartışmalı olsa da, sahne İsa'yla yakından bağlantılıdır — yine de 6. ayette meleğin kendisi adına değil Tanrı adına ettiği yemin (Daniel 12:7'deki melek figürünü yankılayarak), birçok yorumcunun burada İsa'nın kendisini değil, yüce bir meleği görmesinin nedenlerinden biridir. Her iki durumda da taşıdığı tomar, İsa'nın 5. bölümde açtığı tomarı hatırlatır.
+Bu tanıklığı mümkün kılmak için bir buluta sarınmış, başının üzerinde bir gökkuşağı olan güçlü bir melek belirir. Eski Antlaşma'nın yalnızca Tanrı'ya, Vahiy'in ise yalnızca Tanrı'ya ya da Mesih'e verdiği özelliklerle betimlenir. Dolayısıyla bu büyük olasılıkla Mesih'in kendisidir ya da O'nu temsil eden RAB'bin Meleği'dir.[^angel] Taşıdığı tomar, İsa'nın 5. bölümde açtığı tomarı hatırlatır.
 
-Bu, aynı tomar değildir, ama onunla ilişkilidir. 5. bölümdeki tomar sadece "bir tomar"dır ve Şeytan'ın yıkılışını ortaya çıkarmak için İsa tarafından açılır; buradaki tomarsa açıkça daha küçüktür ve açılmak yerine yenir — kiliseyi temsilen Yuhanna tarafından — böylece tanıklığa dönüştürülebilir.
+Bu, aynı tomar değildir, ama onunla ilişkilidir.[^scroll] 5. bölümdeki tomar sadece "bir tomar"dır ve Şeytan'ın yıkılışını ortaya çıkarmak için İsa tarafından açılır; buradaki tomarsa açıkça daha küçüktür ve açılmak yerine yenir — kiliseyi temsilen Yuhanna tarafından — böylece tanıklığa dönüştürülebilir.
 
 İkisi arasındaki bağlantı bir ölçek meselesidir: İsa Şeytan'ı çarmıhta yendi ve asıl olay budur. Geriye kalan, daha küçük ama yine de vazgeçilmez bir görevdir; Tanrı'nın planının tamamlanması için kilisenin yerine getirmesi gerekir.
 
@@ -48,3 +50,7 @@ Yuhanna'ya tomarı yemesi söylenir; bu, Hezekiel'in kendi tomarını yemesini h
 Tat, hikayeyi anlatır. Ağızda tatlıdır — İsa'nın çoktan başardığı şey — ve midede acıdır: dünyanın üzerine hâlâ gelmekte olan yargı ve kiliseden nefret eden bir dünyaya tanıklık etmenin bedeli; kilise, tehdit edildiği gibi tehditle karşılık vermemeye, bunun yerine İsa'yı izlemeye çağrılmış olduğu için bu nefrete aynı şekilde cevap vermeyecektir.
 
 Peki bu tomar sonuçta nedir? {{% bible val="Tomarı yedikten sonra Yuhanna'ya yeniden peygamberlik etmesi gerektiği söylenir — Hezekiel'de olduğu gibi yalnızca İsrail hakkında değil, birçok halk, ulus, dil ve kral hakkında" link="rev:10,11" lang="tr" %}} Sonraki bölümler bunu eylem hâlinde göstererek cevaplar: bu, kilisenin uluslara taşıdığı ve sonunda eksiksiz olarak teslim edeceği tanıklıktır.
+
+[^angel]: Beale, s. 522. Başkaları onu yüce bir melek olarak okur, çünkü kendisi adına değil Tanrı adına yemin eder (10:6; Daniel 12:7'yi yankılar).
+
+[^scroll]: Beale, s. 530–532. Bauckham iki tomarın aynı olduğunu savunur (*Climax*, s. 243–257).

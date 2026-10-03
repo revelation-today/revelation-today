@@ -20,6 +20,8 @@ sources:
       ref: beale_rev
     - pages: 12–14, 70, 277–283
       ref: bauckham_climax
+    - pages: 87
+      ref: bauckham_rev
 ---
 
 Revelation 8–9 read like modern disaster headlines, but John isn't describing anything new — he's replaying {{% int_link val="the plagues in Egypt" link="/expl/bible/exodus/the-plagues-in-egypt" %}} for a new empire and a new Pharaoh.
@@ -61,7 +63,7 @@ John builds the trumpets out of the plagues of Egypt — hail, water turned to b
 
 **What finally brought Israel out was not the plagues but the blood of the lamb.** The tenth night was the Passover. Revelation keeps the same order: after six trumpets without repentance, it is {{% int_link val="the testimony of the two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}} — and the people who {{% bible val="triumphed by the blood of the Lamb and the word of their testimony" link="rev:12,11" lang="en" %}} — that finally move people to give God glory (11:13), as the end of this article shows.
 
-Not every commentator weighs it this way. Beale reads the trumpets, like the plagues, mainly as judgments on people already hardened, with the warning only a secondary purpose that a remnant heeds (Beale, pp. 465–467). This site reads them the other way round, because of the kind of book Revelation is: {{% int_link val="a prophecy and an apocalypse" link="/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy" %}} is written to provoke a decision while there is still time — like {{% bible val="Jonah's warning to Nineveh" link="jon:3,4-10" lang="en" %}}, given so that it would not have to come true. A book written to shake its readers awake gains little from plagues that only confirm a verdict already passed. Both readings agree on everything above; they differ on which purpose comes first.
+So the trumpets are first of all warnings. {{% int_link val="A prophecy and an apocalypse" link="/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy" %}} is written to provoke a decision while there is still time — like {{% bible val="Jonah's warning to Nineveh" link="jon:3,4-10" lang="en" %}}, given so that it would not have to come true. And the book holds back the last trumpet for the sake of the witnesses' testimony, which is what finally moves people to turn (10:1–11:13).[^delay] The plagues show what cannot save; the witness shows who can.
 
 ## The first four trumpets
 
@@ -97,11 +99,15 @@ And after all of that, {{% bible val="the people still did not repent" link="rev
 
 Since hardship alone never turned anyone's heart back to God, God tries something different: he calls for {{% bible val="the testimony of two witnesses" link="rev:11,3-12" lang="en" %}}, grounded {{% bible val="in worship" link="rev:11,1-2" lang="en" %}} rather than disaster. The witnesses are killed for it — and yet {{% bible val="a tenth of the city collapses and seven thousand people die, while the rest are overwhelmed and give glory to the God of heaven" link="rev:11,13" lang="en" %}}.
 
-Stop and notice how striking that is: after nine trumpet-plagues that produced no repentance at all, watching two witnesses die finally provokes a response — even if the text only lets us measure it in a city's casualties, not a clean percentage of hearts. {{% bible val="The word translated 'terrified' here" link="rev:11,13" lang="en" %}} is [a rare one in the New Testament](https://biblehub.com/greek/1719.htm), and elsewhere it describes something stronger than plain fright — a being-overwhelmed that can tip either way:
+Stop and notice how striking that is: after six trumpets that produced no repentance at all, watching two witnesses die finally provokes a response — even if the text only lets us measure it in a city's casualties, not a clean percentage of hearts. {{% bible val="The word translated 'terrified' here" link="rev:11,13" lang="en" %}} is [a rare one in the New Testament](https://biblehub.com/greek/1719.htm), and elsewhere it describes something stronger than plain fright — a being-overwhelmed that can tip either way:
 
 - the {{% bible val="women at the empty tomb" link="luk:24,5" lang="en" %}}, overwhelmed into worship,
 - the disciples {{% bible val="the moment the risen Jesus first stood among them" link="luk:24,36-37" lang="en" %}}, overwhelmed into thinking they'd seen a ghost,
 - {{% bible val="Cornelius, seeing the angel who told him his prayers had been heard" link="act:10,4" lang="en" %}}, overwhelmed into asking what to do,
 - and the Roman commander {{% bible val="Felix, hearing what the gospel actually demanded" link="act:24,25" lang="en" %}}, overwhelmed into telling Paul to stop talking — and no closer to repentance for it.
 
-So the word itself doesn't decide the question; being "overwhelmed" can lead to worship or to stalling. What tips it in verse 13 is what the survivors do next: they {{% bible val="give glory to the God of heaven" link="rev:11,13" lang="en" %}} — the very phrase Joshua once used to press a guilty Achan toward confession (Joshua 7:19), and the response Revelation itself calls for elsewhere. Whether that counts as full repentance or a Pharaoh-style admission wrung out by terror, the text doesn't spell out. What it does make unmistakable is that this is the first time in the whole trumpet cycle anyone responds to God at all — which is itself the turning point the chapter is building toward.
+So the word itself doesn't decide the question; being "overwhelmed" can lead to worship or to stalling. What tips it in verse 13 is what the survivors do next: they {{% bible val="give glory to the God of heaven" link="rev:11,13" lang="en" %}} — the very phrase Joshua once used to press a guilty Achan toward confession (Joshua 7:19), and the response Revelation itself calls for elsewhere. This site reads it as real conversion. In the Old Testament a faithful remnant — a tenth, or seven thousand — is spared while the majority falls. Here the pattern is turned around: a tenth and seven thousand fall, and the nine-tenths who are spared turn to God.[^convert] It is the first time in the whole trumpet cycle that anyone turns to God at all, and it is the turning point the chapter has been building toward.
+
+[^delay]: Bauckham, *Climax*, pp. 12–14. Beale reads the trumpets mainly as judgments on people already hardened, with the warning as a secondary purpose (pp. 465–467).
+
+[^convert]: Bauckham, *Climax*, pp. 282–283, and *Theology*, p. 87. Beale reads the verse as an acknowledgment of God's power without saving faith (pp. 603–604).

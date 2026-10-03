@@ -65,9 +65,9 @@ Untuk memahami hal ini, kita memerlukan sedikit latar belakang.
 
 Bahan makanan sering kali dijatah - entah karena kelaparan yang akan datang, kelaparan yang sedang berlangsung, atau peringatan kenabian tentangnya. Sebagai perbandingan: satu takaran gandum cukup untuk memberi makan satu orang selama satu hari, dan tiga takaran jelai (dipakai sebagai pakan ternak) cukup untuk satu keluarga selama tiga hari. Berdasarkan itu, kita dapat melihat bahwa harga-harga telah naik 8 hingga 16 kali lipat dari harga normal.
 
-Dalam konteks Wahyu, anggur dan minyak di sini berfungsi sebagai barang-barang mewah - dalam kitab ini keduanya tidak ada hubungannya dengan pengurapan atau Perjamuan Kudus.
+Anggur dan minyak di sini bukanlah barang mewah. Dalam Perjanjian Lama keduanya, bersama gandum, termasuk makanan pokok negeri itu, dan ketika semuanya gagal, kelaparannya parah (Yoel 1:10–11). Keduanya tidak ada hubungannya dengan pengurapan atau Perjamuan Kudus.
 
-Jadi bagian ini tidak menggambarkan kelaparan pada umumnya, melainkan sebuah ancaman yang tidak adil yang ditujukan kepada orang miskin: sementara barang-barang mewah tetap terlindungi dari segala kerusakan (bahkan naik harganya), biaya bahan makanan pokok telah naik ke tingkat yang tak tertahankan. Itulah sebabnya suara di tengah-tengah keempat makhluk itu bukanlah sebuah perintah dari Allah, melainkan seruan akan keadilan.
+Jadi ini adalah kelaparan, serius tetapi terbatas. Upah sehari hanya cukup untuk membeli gandum agar bisa bertahan hidup, dan tidak ada yang tersisa untuk minyak dan anggur, meskipun pohon dan pokok anggurnya sendiri tidak dirusak. Suara "di tengah-tengah keempat makhluk itu" kemungkinan besar adalah suara Kristus sendiri, sebab Anak Domba berdiri "di tengah-tengah takhta dan keempat makhluk itu" (5:6). Perintah itu datang dari takhta itu sendiri, dan menetapkan batas bagi kelaparan itu.[^voice] Yang paling terpukul adalah orang miskin - dan, seperti yang ditunjukkan kitab ini kemudian, orang-orang percaya yang tidak diizinkan membeli dan menjual (13:16–17).
 
 ## Rahasia Penunggang Kuda Pertama
 
@@ -98,7 +98,7 @@ Ini membingungkan - mengapa ada rujukan-rujukan yang menunjuk baik kepada makna 
 ## Penyelesaiannya
 
 <a name="8d71"></a>
-Menjadi jelas bahwa penunggang kuda pertama itu jahat, tetapi berpura-pura baik - berpura-pura seperti Yesus. Hal ini juga masuk akal jika kita memperhatikan konteksnya: {{% bible val="pada pasal sebelumnya Yesus dinyatakan sebagai satu-satunya yang layak membuka gulungan kitab itu" link="rev:5" lang="ind" %}}, dan sekarang, sebagai jawabannya, hakikat sejati Iblis disingkapkan - bergerak dari sebuah janji besar (untuk menang), menuju perang (penganiayaan terhadap orang-orang yang tidak percaya), menuju kelaparan dan ketidakadilan (penunggang kuda ketiga), hingga akhirnya kematian dan kehancuran. Itulah sebabnya meterai berikutnya langsung menggambarkan seruan orang-orang benar: "{{% bible val="Berapa lama lagi hal ini akan berlangsung?" link="rev:6,9-11" lang="ind" %}}" Hakikat jahat keempat penunggang kuda itu kini menjadi jelas - meskipun perlu dicatat bahwa para penafsir terkemuka masa kini (misalnya Osborne, Mounce) tetap mendukung pembacaan positif atas penunggang kuda pertama; posisi yang diambil di sini adalah pandangan yang telah dipertimbangkan secara matang, bukan satu-satunya pandangan yang bisa dipercaya.
+Menjadi jelas bahwa penunggang kuda pertama itu jahat, tetapi berpura-pura baik - berpura-pura seperti Yesus. Hal ini juga masuk akal jika kita memperhatikan konteksnya: {{% bible val="pada pasal sebelumnya Yesus dinyatakan sebagai satu-satunya yang layak membuka gulungan kitab itu" link="rev:5" lang="ind" %}}, dan sekarang, sebagai jawabannya, hakikat sejati Iblis disingkapkan - bergerak dari sebuah janji besar (untuk menang), menuju perang (penganiayaan terhadap orang-orang yang tidak percaya), menuju kelaparan dan ketidakadilan (penunggang kuda ketiga), hingga akhirnya kematian dan kehancuran. Itulah sebabnya meterai berikutnya langsung menggambarkan seruan orang-orang benar: "{{% bible val="Berapa lama lagi hal ini akan berlangsung?" link="rev:6,9-11" lang="ind" %}}" Hakikat jahat keempat penunggang kuda itu kini menjadi jelas. Hal ini diperdebatkan, dan pembacaan positif atas penunggang kuda pertama masih memiliki pembela yang cakap.[^rider]
 
 Dan sekarang rujukan kepada {{% bible val="malapetaka-malapetaka Allah" link="ezk:14,12-23" lang="ind" %}} - binatang buas, pedang, kelaparan, dan sampar - juga menjadi masuk akal. Selain gema langsung yang telah disebutkan pada penunggang kuda keempat (Wahyu 6:8), kita juga dapat memetakan setiap penunggang secara sugestif sebagai berikut:
 
@@ -108,3 +108,7 @@ Dan sekarang rujukan kepada {{% bible val="malapetaka-malapetaka Allah" link="ez
 - Penunggang kuda terakhir merangkum dampak dari trinitas jahat ini.
 
 Ingatlah ini: seberapa pun menariknya tawaran Iblis kelihatannya, dan seberapa pun ia menyerupai sesuatu dari Yesus, jangan tergoda olehnya - itu akan berakhir dalam bencana. Sebaliknya, jadilah bijaksana, dan Allah akan memberimu hikmat yang kamu butuhkan.
+
+[^voice]: Beale, hlm. 381. Ia juga menyebut harganya: sekitar delapan sampai enam belas kali harga biasa.
+
+[^rider]: Pembacaan penunggang pertama sebagai tiruan dari Iblis mengikuti Beale, hlm. 375–377. Untuk pembacaan positif, lihat para penafsir yang ia sebutkan: Hendriksen, Ladd, Sweet, dan lainnya (hlm. 375, cat. 16).

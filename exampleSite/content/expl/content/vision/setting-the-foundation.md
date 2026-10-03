@@ -5,7 +5,7 @@ base: /quick/content/vision
 story: /story/general/tour
 story_anchor: vision
 sources: 
-    - pages: 181–222
+    - pages: 26, 181–222
       ref: beale_rev
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
@@ -96,11 +96,13 @@ Put these passages together and a picture emerges:
 - There is a deep emotional response — mourning for a beloved king.
 - It has to do with the death of Jesus, the Son of Man.
 - The outcome is that all nations will worship him, just as promised to Abram.
-- But the text leaves open how the nations react ("beating their breasts for his sake") — some out of repentance for their savior, others out of fear of judgment. (Revelation elsewhere treats "the nations" and "the kings of the earth" as bound up with Rome, the very empire that executed Jesus through its governor — so the mourning is not as distant from the nations as it might first appear.)
+- The nations mourn over *him*, not over themselves. That is the language of repentance more than of terror — as in Zechariah, where the mourning comes from "a spirit of grace and supplication".[^mourn] (Revelation elsewhere treats "the nations" and "the kings of the earth" as bound up with Rome, the very empire that executed Jesus through its governor — so the mourning is not as distant from the nations as it might first appear.)
 
-So the text does not resolve which response predominates, and Revelation returns to this same ambiguity throughout the book — the same "coming with the clouds" can mean rescue for those who repent and judgment for those who do not (compare Rev 6:15-17). What is certain is the outcome Revelation keeps circling back to: every nation, without exception, will one day reckon with Jesus.
+Not everyone will respond this way. The same coming that brings the nations to repentance brings terror to those who refuse him (6:15–17). But the note this opening strikes is hope: every nation will one day reckon with Jesus, and many will turn to him.
 
 ## Conclusion
 
 <a name="8d7d"></a>
 The time is near, and the Church should act. Because Jesus has already accomplished everything, the Church can step forward with confidence and reach the nations.
+
+[^mourn]: Beale, p. 26. In the Greek Old Testament "all the tribes of the earth" always means all the nations (Gen 12:3; 28:14; Zech 14:17).

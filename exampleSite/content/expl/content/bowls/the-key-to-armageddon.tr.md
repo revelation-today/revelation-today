@@ -16,12 +16,14 @@ deeper:
     - name: Karkamış Savaşı
       link:  /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 sources: 
-    - pages: 838-841
+    - pages: 827, 836–841
       ref: beale_rev
     - pages: 224-225
       ref: fee_rev
-    - pages: 898–899
+    - pages: 891, 898–899
       ref: aune_rev
+    - pages: 382, 407
+      ref: bauckham_climax
 ---
 
 Armageddon: Dünyayı yok edecek bir felaket mi? Hayır - çünkü bu ismin ardında ne tür bir gerçek coğrafya olursa olsun, Yuhanna bunu gerçek bir savaş alanını işaret etmek için değil, bir simge olarak kullanıyor. Nedenini mi merak ediyorsunuz? Okumaya devam edin.
@@ -31,13 +33,17 @@ Armageddon: Dünyayı yok edecek bir felaket mi? Hayır - çünkü bu ismin ard�
 <a name="2ff3"></a>
 Armagedon terimi {{% bible val="Kutsal Kitap'ta" link="rev:16,16" lang="tr" %}} yalnızca bir kez geçer ve İbranice bir terim olduğu belirtilir - ama satır arası metnin kendisi anlamı hakkında başka bir ipucu vermez. O halde konuyu adım adım çözelim.
 
-İbranicede "Har" dağ anlamına gelir, ama hangi dağ? Megiddo'nun kendisi belirgin bir dağ değil, bir höyük üzerinde bulunur; bu da birden fazla türetmenin öne sürülmesinin nedenlerinden biridir. Üç olasılık var ve bence üçü de sonuçta konuyla ilgili çıkıyor.
+İbranicede "Har" dağ anlamına gelir, ama hangi dağ? Megiddo'nun kendisi belirgin bir dağ değil, bir höyük üzerinde bulunur; bu da birden fazla türetmenin öne sürülmesinin nedenlerinden biridir. Üç anlam öne sürülmüştür ve her biri kulak vermeye değer.
 
-"Toplanma dağı" anlamına gelebilir; bu, Babil'in düşüşünü anlatan {{% bible val="Yeşaya'daki bir pasajdan" link="isa:14,13" lang="tr" %}} gelir. O ayetten hemen önceki dize - Babil'in "gökten düşmüş, ey Seher Yıldızı, Şafak'ın oğlu" olarak tasvir edildiği yer - aslında Babil'in kendisinden çok Babil'in arkasındaki güçleri anlatır ve gerçekten de Şeytan'a işaret ediyor olabilir, ama bu okuma standart hâline ancak sonraki Hristiyan geleneği aracılığıyla geldi; metnin doğrudan bağlamı, alaya alınanın Babil kralı olduğunu gösterir ve pek çok modern yorumcu "Seher Yıldızı" ifadesini, aşırıya kaçan bir kralı anlatmak için kullanılan, eski Yakın Doğu'ya özgü kalıp bir imge olarak okur; bunun Şeytan'a uygulanması ise ancak daha sonraki bir tipolojik genişleme olarak ortaya çıkmıştır. Bölümün tamamı, sonunda tamamen yok edilen o yenilmez gücün {{% bible val="alaya alınmasıdır" link="isa:14,3-4" lang="tr" %}}.
+"Toplanma dağı" anlamına gelebilir; bu, Babil'in düşüşünü anlatan {{% bible val="Yeşaya'daki bir pasajdan" link="isa:14,13" lang="tr" %}} gelir.[^assembly] O ayetten hemen önceki dize - Babil'in "gökten düşmüş, ey Seher Yıldızı, Şafak'ın oğlu" olarak tasvir edildiği yer - aslında Babil'in kendisinden çok Babil'in arkasındaki güçleri anlatır ve gerçekten de Şeytan'a işaret ediyor olabilir, ama bu okuma standart hâline ancak sonraki Hristiyan geleneği aracılığıyla geldi; metnin doğrudan bağlamı, alaya alınanın Babil kralı olduğunu gösterir ve pek çok modern yorumcu "Seher Yıldızı" ifadesini, aşırıya kaçan bir kralı anlatmak için kullanılan, eski Yakın Doğu'ya özgü kalıp bir imge olarak okur; bunun Şeytan'a uygulanması ise ancak daha sonraki bir tipolojik genişleme olarak ortaya çıkmıştır. Bölümün tamamı, sonunda tamamen yok edilen o yenilmez gücün {{% bible val="alaya alınmasıdır" link="isa:14,3-4" lang="tr" %}}.
 
-Ayrıca "Megiddo dağı" anlamına da gelebilir. Bunun açıklaması daha uzun sürer, çünkü Megiddo'da ve dağında pek çok olay yaşanmıştır.
+Ayrıca "Megiddo dağı" anlamına da gelebilir; en yaygın okuma budur.[^megiddo] Bunun açıklaması daha uzun sürer, çünkü Megiddo'da ve dağında pek çok olay yaşanmıştır.
 
-Son olarak da "katliam dağı" anlamına gelebilir; buna da ayrıca bakacağız.
+Son olarak da "kesilip devrilme dağı" ya da katliam dağı anlamına gelebilir. Elimizdeki en eski açıklama budur: Vahiy'in ilk Grekçe yorumcuları onu böyle okumuştur; Zekeriya 12:11'den yola çıkarak, çünkü Grekçe Eski Antlaşma orada "kesilip devrilenin" ovasından söz eder.[^slaughter]
+
+Hangi anlam duyulursa duyulsun, bu ad bir alaydır. Bütün dünyanın kralları devasa ordularını başka yere değil, Megiddo'ya getirir — zayıfların tekrar tekrar kazandığı, güçlülerin düştüğü yere. Kâse alayı zaten başlatmıştır: Fırat, "gündoğusundan gelen krallara" yol açmak için kurur (16:12). Bu, Roma'nın kendi kâbusuydu — Fırat'ın ötesinden gelecek bir istila; halk arasındaki söylentiye göre başında geri dönen Neron olacaktı — ve sonunda Babil'e karşı dönüp onu yok edenler canavar ile müttefiki krallardır (17:16).[^east] Uluslar Tanrı'nın halkını yok etmek için toplandıklarını sanırlar, ama onları yargılarıyla yüzleşmeleri için toplayan Tanrı'dır.
+
+Üç anlam belki bir katman daha ekler. Yuhanna bize adın İbranice olduğunu söyler (16:16); bu da okuru adın ne anlama geldiğine kulak vermeye çağırır. Yeşaya 14'teki Babil'e yönelik alay ezgisi gibi bir söz oyunu olarak duyulduğunda, kralların toplandığı toplanma dağı, kendilerinin kesilip devrildiği dağ çıkar. Bildiğimiz hiçbir yorumcu bu adı kasıtlı bir söz oyunu olarak ele almaz; dolayısıyla bu bir öneri olarak kalır ve alay buna bağlı değildir.[^pun]
 
 ## Debora ve Yael
 
@@ -72,3 +78,13 @@ Asur, o zamana kadar İsrail'e sürekli baskı uyguluyordu ve bunu ancak Babil k
 Armagedon, Yeni Ahit'in tamamında ve özellikle Vahiy Kitabı'nda işleyen bir paradoksu temsil eder: Yenilmez olan yok edilir, zayıf olan zafer kazanır. Yukarıdaki hikâyelerin hepsi aynı örüntüyü tekrar tekrar izler.
 
 Ölümün yaşandığı yer, her şeyi fetheden kişiyle alay eder. Bir ev kadını bir ordu komutanını yener. Tek bir peygamber, tüm İsrail'i Tanrı'ya geri döndürür ve kötü kraliçenin yüzlerce peygamberini yener. Tek bir komutan, neredeyse hiçbir hazırlık yapmadan hem kendi kralını hem de komşu kralı devirir. Küçük bir krallığın kralı bir dünya gücüyle savaşır, yenilir ve öldürülür - ve ölümüyle halkının geleceğini güvence altına alır. Bu, Pavlus'un doğrudan adlandırdığı aynı örüntüdür - "Tanrı, güçlü olanı utandırmak için dünyada zayıf olanı seçti" (1. Korintliler 1:27) - ve tahtın kendisinde resmedilen aynı tersine dönüştür; burada Yahuda Aslanı'nın aslında boğazlanmış bir Kuzu olduğu ortaya çıkar (Vahiy 5:5-6).
+
+[^assembly]: İbranice *har mo'ed* (Yşa. 14:13). Hommel ve Loasby tarafından önerilmiş (Aune, *Revelation 6–16*, s. 899), Meredith Kline tarafından savunulmuştur. Beale, türetme kabul edilirse Kline'ın savını "oldukça makul" bulur, ama türetmenin kendisinden kuşku duyar: hiçbir elyazmasında bunun gerektirdiği harfler yoktur (s. 840 ve dn. 112). Gordon Fee ve N. T. Wright da adı böyle anlar.
+
+[^megiddo]: Aune, *Revelation 6–16*, s. 898; adın "hiçbir zaman tatmin edici biçimde açıklanmadığını" da ekler; Beale, s. 839–840.
+
+[^slaughter]: Oecumenius ve Kayserili Andreas (Aune, *Revelation 6–16*, s. 899). Çağdaş yorumcular arasında Caird ("saldırı dağı") ve LaRondelle (Beale, s. 839, dn. 107).
+
+[^east]: Aune, *Revelation 6–16*, s. 891; Bauckham, *Climax*, s. 382, 407. Kuruyan Fırat ve Koreş'in Babil'i alması için: Beale, s. 827. Ulusların toplanmak üzere aldatıldığı, gerçekte ise kendi yargıları için Tanrı tarafından toplandığı konusunda: Beale, s. 836.
+
+[^pun]: Bu, sitenin kendi önerisidir. Beale Megiddo adının kendisinde birkaç katman duyar — Debora'nın zaferi, Karmel'de İlyas, Yoşiya'nın ölümü (s. 840).

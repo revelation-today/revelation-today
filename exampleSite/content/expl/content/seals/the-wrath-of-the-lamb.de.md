@@ -9,7 +9,7 @@ next: /expl/content/army/the-144000
 docType: expl
 appl: /appl/content/seals
 sources: 
-    - pages: 395–404
+    - pages: 203, 395–404
       ref: beale_rev
 deeper:
     - name: Der Tag des Herrn
@@ -25,20 +25,20 @@ Hier ist der Text: {{% bible val="Und ich sah, als es das sechste Siegel auftat,
 ## Der Zorn des Lammes
 
 <a name="435e"></a>
-Der Zorn des Lammes klingt wie ein Thema, das sich durch die ganze Bibel zieht, doch der Begriff selbst taucht tatsächlich nur {{% bible val="einmal" link="rev:6,16" lang="de" %}} auf, genau hier, beim sechsten Siegel. Er beschreibt eigentlich nicht das Lamm selbst — er beschreibt vor allem, wie die Menschen es wahrnehmen. Nach all der Verwüstung, die die {{% int_link val="vier Reiter, die sich als Jesus ausgeben" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} angerichtet haben, fürchten die Menschen naheliegenderweise, dass Jesus ebenso handeln wird. Doch das wird er nicht. Sein Gericht wird ernst sein — {{% int_link val="endgültige Trennung von Gott" link="/expl/content/paradise/heaven-and-hell" %}} —, aber es wird nicht die Form einer verheerenden Kriegsführung annehmen.
+Der Zorn des Lammes klingt wie ein Thema, das sich durch die ganze Bibel zieht, doch der Ausdruck selbst taucht nur {{% bible val="einmal" link="rev:6,16" lang="de" %}} auf, genau hier, beim sechsten Siegel. Der Zorn ist echt: Der Himmel selbst kündigt ihn an (11,18; 14,10; 16,19), und am Ende vollstreckt ihn das Lamm (19,15).[^real] Sein Gericht ist endgültig — {{% int_link val="Trennung von Gott" link="/expl/content/paradise/heaven-and-hell" %}} —, aber es ist keine menschliche Kriegsführung. Seine einzige Waffe ist das Schwert, das aus seinem Mund kommt (19,15.21): sein Wort.
 
-Die Szene erinnert an {{% bible val="Hosea" link="hos:10,6-8" lang="de" %}}, wo Israel, entehrt und beschämt wegen seines Götzendienstes, versucht, sich vor Gott zu verbergen — was seinerseits auf {{% bible val="den Sündenfall zurückgeht, als Adam und Eva versuchten, sich vor Gott zu verstecken, nachdem sie gesündigt hatten" link="gen:3,8" lang="de" %}}.
+Die Szene erinnert an {{% bible val="Hosea" link="hos:10,6-8" lang="de" %}}, wo Israel, entehrt und beschämt wegen seines Götzendienstes, versucht, sich vor Gott zu verbergen — was seinerseits auf {{% bible val="den Sündenfall zurückgeht, als Adam und Eva versuchten, sich vor Gott zu verstecken, nachdem sie gesündigt hatten" link="gen:3,8" lang="de" %}}.[^hide]
 
-Der Schwerpunkt liegt hier darauf, dass sich die Menschen verbergen, weil sie wissen, was sie falsch gemacht haben, und ein hartes Gericht erwarten — nicht auf der Darstellung eines zornigen Gottes, der ihnen unbedingt schaden will. Bemerkenswert ist auch: Beschrieben wird nur die Angst der Menschen; die tatsächliche Reaktion Jesu oder Gottes wird nie gezeigt.
+Achte darauf, wer hier spricht. Die Worte kommen von den Verängstigten, die sich verstecken, weil sie wissen, was sie getan haben. Seit Eden verstecken sich Menschen vor Gott, und nun sehen sie, wer das Lamm wirklich ist. Die Szene zeigt ihre Angst, nicht einen zornigen Gott, der darauf aus ist, ihnen zu schaden.
 
 ## Die Bedeutung von Zorn
 
 <a name="0f00"></a>
-Das in diesem Abschnitt verwendete Wort ist „[orge](https://biblehub.com/greek/3709.htm)“, das von "anschwellen" kommt und einen Widerstand beschreibt, der sich über lange Zeit aufgebaut hat — es handelt sich nicht um einen spontanen Ausbruch.
+Gottes Zorn ist kein plötzlicher Wutausbruch.
 
 Auf der einen Seite wird den Menschen erst jetzt bewusst, was sie gegenüber Gott angehäuft haben. Auf der anderen Seite gilt: {{% int_link val="Gott hat immer wieder versucht, zu den Menschen durchzudringen, doch irgendwann endet dieses Bemühen" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
 
-Das sollte nicht den Eindruck erwecken, Gott sei wie ein Sozialarbeiter, der zu helfen versucht und dann aufgibt, weil die Menschen nicht mitziehen wollen. Vielmehr kommt irgendwann der Zeitpunkt, an dem er die Menschen mit den Konsequenzen ihres eigenen Handelns konfrontiert.
+Das sollte nicht den Eindruck erwecken, Gott sei wie ein Sozialarbeiter, der zu helfen versucht und dann aufgibt, weil die Menschen nicht mitziehen wollen. Vielmehr kommt irgendwann der Zeitpunkt, an dem er die Menschen mit den Konsequenzen ihres eigenen Handelns konfrontiert.[^hanson]
 
 ## Die Wichtigkeit von Zorn
 
@@ -57,3 +57,9 @@ Doch eines sei gesagt: In der gesamten Geschichte kannte die überwiegende Mehrh
 Wenn Gott also zugunsten der Leidenden handelt, ist dieses Handeln gerechtfertigt.
 
 Wir sind verantwortlich für das Leid, das wir anderen zufügen, und die Folgen unserer Bosheit werden nicht einfach durch ein einziges Gebet ausgelöscht. Gott will, dass sich unser steinernes Herz tatsächlich verwandelt.
+
+[^real]: Beale, S. 203, 400.
+
+[^hide]: Hosea 10,8 und 1. Mose 3,8–9 stehen hinter der Szene: Beale, S. 400.
+
+[^hanson]: So argumentiert A. T. Hanson in *The Wrath of the Lamb* (London: SPCK, 1957).

@@ -65,9 +65,9 @@ Bunu anlamak için biraz arka plana ihtiyacımız var.
 
 Yiyecekler sık sık karneye bağlanırdı — ister yaklaşan bir kıtlık yüzünden, ister zaten sürmekte olan gerçek bir kıtlık yüzünden, ister bir kıtlığa dair peygamberlik uyarısı yüzünden. Referans olarak: bir ölçek buğday bir kişiyi bir gün doyurmaya yeterliydi, üç ölçek arpa (hayvan yemi olarak kullanılırdı) ise bir aileyi üç gün doyurmaya yeterliydi. Buna göre, fiyatların normalin 8-16 katına yükseldiğini görebiliriz.
 
-Vahiy'in bağlamında, şarap ve yağ burada lüks mallar işlevi görür — bu kitapta meshetme ya da Rab'bin Sofrası'yla hiçbir ilgileri yoktur.
+Şarap ve yağ burada lüks değildir. Eski Antlaşma'da tahılla birlikte ülkenin temel besinleri arasındadır ve hepsi birden tükendiğinde kıtlık ağırdır (Yoel 1:10–11). Meshetmeyle ya da Rab'bin Sofrası'yla bir ilgileri yoktur.
 
-Yani bu pasaj genel bir kıtlığı değil, yoksulları hedef alan haksız bir tehdidi anlatmaktadır: lüks mallar her türlü zarardan korunurken (hatta fiyatları yükselirken), temel gıdanın maliyeti dayanılmaz bir düzeye çıkmıştır. Bu yüzden dört yaratığın arasından gelen ses, Tanrı'dan gelen bir emir değil, adalet için haykırıştır.
+Demek ki bu bir kıtlıktır; ciddi ama sınırlı. Bir günlük ücret ancak hayatta kalmaya yetecek kadar tahıl alır ve ağaçların ve asmaların kendisi esirgendiği hâlde yağ ve şaraba para kalmaz. "Dört yaratığın ortasından" gelen ses büyük olasılıkla Mesih'in kendi sesidir, çünkü Kuzu "tahtın ve dört yaratığın ortasında" durur (5:6). Buyruk tahtın kendisinden gelir ve kıtlığa bir sınır koyar.[^voice] En ağır darbeyi yoksullar alır — ve kitabın ileride gösterdiği gibi, alışverişten dışlanan imanlılar (13:16–17).
 
 ## İlk atlının gizemi
 
@@ -98,7 +98,7 @@ Bu kafa karıştırıcıdır — neden hem iyi hem de kötü bir anlama işaret 
 ## Çözüm
 
 <a name="12b0"></a>
-Açıkça ortaya çıkıyor ki ilk atlı kötüdür, ama iyiymiş gibi — İsa gibi — davranır. Bu, bağlam ışığında da mantıklıdır: {{% bible val="bir önceki bölümde İsa, tomarı açmaya layık olan tek kişi olarak ortaya çıkmıştı" link="rev:5" lang="tr" %}}, şimdi ise buna karşılık şeytanın gerçek doğası açığa çıkmaktadır — büyük bir vaatten (fethetmek), savaşa (imansızlara zulüm), açlık ve haksızlığa (üçüncü atlı), ve nihayet ölüm ve yıkıma doğru ilerleyerek. İşte bu yüzden hemen sonraki mühür, doğruların çığlığını anlatır: "{{% bible val="Bu ne zamana kadar sürecek?" link="rev:6,9-11" lang="tr" %}}" Dört atlının tümünün kötü doğası artık açıktır — ancak bugün de saygın yorumcuların (örneğin Osborne, Mounce) ilk binicinin olumlu okumasını tercih ettiğini belirtmek gerekir; burada savunulan görüş, düşünülmüş bir konumdur, tek geçerli görüş değildir.
+Açıkça ortaya çıkıyor ki ilk atlı kötüdür, ama iyiymiş gibi — İsa gibi — davranır. Bu, bağlam ışığında da mantıklıdır: {{% bible val="bir önceki bölümde İsa, tomarı açmaya layık olan tek kişi olarak ortaya çıkmıştı" link="rev:5" lang="tr" %}}, şimdi ise buna karşılık şeytanın gerçek doğası açığa çıkmaktadır — büyük bir vaatten (fethetmek), savaşa (imansızlara zulüm), açlık ve haksızlığa (üçüncü atlı), ve nihayet ölüm ve yıkıma doğru ilerleyerek. İşte bu yüzden hemen sonraki mühür, doğruların çığlığını anlatır: "{{% bible val="Bu ne zamana kadar sürecek?" link="rev:6,9-11" lang="tr" %}}" Dört atlının tümünün kötü doğası artık açıktır. Bu tartışmalı bir noktadır ve ilk atlının olumlu okumasının hâlâ yetkin savunucuları vardır.[^rider]
 
 Ve şimdi {{% bible val="Tanrı'nın belalarına" link="ezk:14,12-23" lang="tr" %}} — vahşi hayvanlar, kılıç, kıtlık ve salgın hastalık — yapılan gönderme de anlam kazanır. Dördüncü atlının tasvirinde zaten belirtilen doğrudan yankının ötesinde (Va.6:8), her atlıyı ipucu niteliğinde şöyle de eşleştirebiliriz:
 
@@ -108,3 +108,7 @@ Ve şimdi {{% bible val="Tanrı'nın belalarına" link="ezk:14,12-23" lang="tr" 
 - Son atlı, bu kötü üçlünün etkisini özetler.
 
 Şunu unutmayın: şeytanın teklifi ne kadar çekici görünürse görünsün, ne kadar İsa'dan bir şeye benzerse benzesin, buna kanmayın — sonu felaketle bitecektir. Bunun yerine bilge olun, ve Tanrı size ihtiyacınız olan bilgeliği verecektir.
+
+[^voice]: Beale, s. 381. Fiyatları da verir: olağanın yaklaşık sekiz ila on altı katı.
+
+[^rider]: İlk atlının şeytani bir taklit olarak okunması Beale'i izler, s. 375–377. Olumlu okuma için onun saydığı yorumculara bakınız: Hendriksen, Ladd, Sweet ve başkaları (s. 375, dn. 16).

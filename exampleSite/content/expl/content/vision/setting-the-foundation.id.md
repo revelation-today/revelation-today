@@ -5,7 +5,7 @@ base: /quick/content/vision
 story: /story/general/tour
 story_anchor: vision
 sources: 
-    - pages: 181–222
+    - pages: 26, 181–222
       ref: beale_rev
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
@@ -96,11 +96,13 @@ Jika kita menyatukan nas-nas ini, muncullah sebuah gambaran:
 - Ada respons emosional yang mendalam - perkabungan atas seorang raja yang dikasihi.
 - Hal ini berkaitan dengan kematian Yesus, Anak Manusia.
 - Hasilnya adalah semua bangsa akan menyembah Dia, sama seperti yang telah dijanjikan kepada Abram.
-- Namun teks ini membiarkan terbuka bagaimana reaksi bangsa-bangsa itu ("memukul dada karena Dia") - sebagian karena pertobatan bagi Juru Selamat mereka, sebagian lagi karena takut akan penghakiman. (Kitab Wahyu di tempat lain memperlakukan "bangsa-bangsa" dan "raja-raja bumi" sebagai terkait erat dengan Roma, kekaisaran yang justru mengeksekusi Yesus melalui gubernurnya - sehingga perkabungan bangsa-bangsa ini tidak sejauh yang tampak pada awalnya.)
+- Bangsa-bangsa itu meratapi *Dia*, bukan diri mereka sendiri. Itu lebih merupakan bahasa pertobatan daripada kengerian - seperti dalam Zakharia, di mana ratapan itu datang dari "roh pengasihan dan roh permohonan".[^mourn] (Kitab Wahyu di tempat lain memperlakukan "bangsa-bangsa" dan "raja-raja bumi" sebagai terkait erat dengan Roma, kekaisaran yang justru mengeksekusi Yesus melalui gubernurnya - sehingga perkabungan bangsa-bangsa ini tidak sejauh yang tampak pada awalnya.)
 
-Jadi, teks ini tidak menyelesaikan reaksi mana yang lebih dominan, dan Kitab Wahyu kembali kepada ambiguitas yang sama ini di sepanjang kitab - "kedatangan bersama awan-awan" yang sama ini bisa berarti penyelamatan bagi mereka yang bertobat dan penghakiman bagi mereka yang tidak (bandingkan Wahyu 6:15-17). Yang pasti adalah hasil yang terus-menerus ditegaskan kembali oleh Kitab Wahyu: setiap bangsa, tanpa kecuali, suatu hari akan berhadapan dengan Yesus.
+Tidak semua orang akan menanggapi seperti ini. Kedatangan yang sama yang membawa bangsa-bangsa kepada pertobatan membawa kengerian bagi mereka yang menolak Dia (6:15–17). Tetapi nada yang dibunyikan pembukaan ini adalah pengharapan: setiap bangsa suatu hari akan berhadapan dengan Yesus, dan banyak yang akan berbalik kepada-Nya.
 
 ## Kesimpulan
 
 <a name="b6f7"></a>
 Waktunya sudah dekat, dan jemaat harus bertindak. Karena Yesus sudah menyelesaikan segalanya, jemaat dapat melangkah maju dengan penuh keyakinan dan menjangkau bangsa-bangsa.
+
+[^mourn]: Beale, hlm. 26. Dalam Perjanjian Lama berbahasa Yunani, "semua suku di bumi" selalu berarti semua bangsa (Kej. 12:3; 28:14; Za. 14:17).

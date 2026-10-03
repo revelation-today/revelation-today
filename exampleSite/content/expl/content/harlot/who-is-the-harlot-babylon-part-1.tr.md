@@ -20,7 +20,7 @@ deeper:
 sources: 
     - pages: 847–890
       ref: beale_rev
-    - pages: 21, 875
+    - pages: 21, 833, 875
       ref: beale_rev
 readBefore:
     - name: "Pax Romana — vahiy kitabını anlamak için anahtar"
@@ -72,7 +72,7 @@ Aynı zamanda tepeler krallıkları da temsil edebilir, çünkü metin onları k
 
 [Yedi kral kimdir?](https://www.bibleserver.com/NIV/Revelation17%3A10) Beşi zaten düşmüştür, biri şu anda hüküm sürmektedir ve yedincisi henüz gelmemiştir, gelince de yalnızca kısa bir süre hüküm sürecektir. Birlikte kronolojik bir diziyi tanımlarlar ve bu süre boyunca kralların canavarı desteklediğini gösterirler. Bu, kitabın tarihlendirilmesi açısından Vahiy'in en çok tartışılan bölümlerinden biridir: bazı araştırmacılar belirli bir "altıncı kral"a (genellikle Nero) ulaşmak için Julius Sezar'dan ya da Augustus'tan itibaren gerçek imparatorları saymaya çalışır ve bunun MS 60'ların sonlarına işaret ettiğini öne sürer; erken kilisenin kendi tanıklığını (İrenaeus) izleyen çoğunluk görüşü ise, Yuhanna'nın Domitianus döneminde, MS 90'ların ortasında yazdığını kabul eder ve diziyi burada yaptığımız gibi daha sembolik okur. Belirli bir altıncı kralı adlandırmaya çalışmayacağız; mesele kesin bir sayım değil, son geri sayımın yakın olmasıdır — {{% bible val="uyanık kalma çağrısıdır" link="rev:16,15" lang="tr" %}}. Bu tarihlendirme sorusunun sitenin genelinde nasıl işlendiğine dair daha kapsamlı bir bakış için {{% int_link val="Vahiy'i kim, ne zaman yazdı" link="/expl/topics/others/who-wrote-revelation-and-when" %}} yazısına bakın.
 
-Ardından canavarın kendisi de {{% bible val="yedilerden biri olan sekizinci bir kral olarak gelir" link="rev:17,11" lang="tr" %}}. Daha sonraki Hristiyan geleneğinde (Yeni Ahit'in kendi terminolojisinde değil), Pazar günü, Mesih'in "üçüncü günde" dirilişinden sonra yeni bir yaratılışın başlangıcını simgeleyen "sekizinci gün" olarak anılmaya başlandı ({{% bible val="Mesih üçüncü günde diriltildi" link="1co:15,3-4" lang="tr" %}}). Eğer burada kastedilen bu sonraki çağrışımsa, canavarın sekizinci bir kral olarak ortaya çıkması, aynı türden bir yenilenmeye yönelik sahte bir iddia olurdu — sahte bir diriliş. Canavarın kendi dirilişi teması zaten {{% bible val="13. bölümde" link="rev:13,3-4" lang="tr" %}} ve bazı yorumcuların kurbağaların doğum ve dirilişle ilişkilendirilen Mısır tanrıçası Heket'i hatırlattığını öne sürdüğü {{% bible val="16. bölümde" link="rev:16,13" lang="tr" %}} işlenmişti — bu, Mısır'daki belalarla daha açık biçimde kurulmuş bağlantının yanında, çekici ama kesinlikten uzak bir bağlantıdır. Bu parçaları birleştirince, canavarın sekizinci günde ortaya çıkması bir yenilmezlik iddiası olarak okunur. Ama bu sahte bir iddiadır: canavar zaten "bir zamanlar vardı, şimdi yok ve yıkımına gidiyor olan" diye deşifre edilmiştir. Bu da canavarın yedilerden biri olduğunu doğrular — onların üzerinde duran bir süper kahraman değil.
+Ardından canavarın kendisi de {{% bible val="yedilerden biri olan sekizinci bir kral olarak gelir" link="rev:17,11" lang="tr" %}}. Daha sonraki Hristiyan geleneğinde (Yeni Ahit'in kendi terminolojisinde değil), Pazar günü, Mesih'in "üçüncü günde" dirilişinden sonra yeni bir yaratılışın başlangıcını simgeleyen "sekizinci gün" olarak anılmaya başlandı ({{% bible val="Mesih üçüncü günde diriltildi" link="1co:15,3-4" lang="tr" %}}). Eğer burada kastedilen bu sonraki çağrışımsa, canavarın sekizinci bir kral olarak ortaya çıkması, aynı türden bir yenilenmeye yönelik sahte bir iddia olurdu — sahte bir diriliş. Canavarın kendi dirilişi teması zaten {{% bible val="13. bölümde" link="rev:13,3-4" lang="tr" %}} ve {{% bible val="16. bölümde" link="rev:16,13" lang="tr" %}} işlenmişti; oradaki kurbağalar hem Mısır'daki kurbağa belasını hem de doğum ve dirilişle ilişkilendirilen Mısır tanrıçası Heket'i hatırlatır.[^frogs] Bu parçaları birleştirince, canavarın sekizinci günde ortaya çıkması bir yenilmezlik iddiası olarak okunur. Ama bu sahte bir iddiadır: canavar zaten "bir zamanlar vardı, şimdi yok ve yıkımına gidiyor olan" diye deşifre edilmiştir. Bu da canavarın yedilerden biri olduğunu doğrular — onların üzerinde duran bir süper kahraman değil.
 
 ## On kral
 
@@ -135,3 +135,5 @@ Son olarak, fahişenin 13. bölümdeki İkinci Canavar'la da birçok paralelliğ
 Güç dengesi burada da tersine döner: 13. bölümde gökten ateş düşürüyordu, şimdi ise ateşle yok ediliyor; orada başkalarının alnına işaret koyuyordu, burada ise kendisi bir köle gibi alnına damgalanıyor.
 
 Böylece iki bölümdeki roller birbirini yansıtır: 17. bölümde ilk canavar fahişeyi desteklerken, 13. bölümde ikinci canavar ilk canavarı destekler.
+
+[^frogs]: Beale, s. 833.

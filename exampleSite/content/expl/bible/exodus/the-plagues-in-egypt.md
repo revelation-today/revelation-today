@@ -15,8 +15,10 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
-    - pages: 465, 481
+    - pages: 465, 481, 833
       ref: beale_rev
+    - pages: "vol. 13: 371"
+      ref: tdot
 ---
 
 This is a story you likely heard in Sunday School, but there is much more to discover in it than you may have heard before.
@@ -68,7 +70,7 @@ The Nile is the lifeblood of Egypt: its annual flood makes the fields fertile, a
 
 Frogs overrun the land, and this time Pharaoh recognizes God’s hand behind it and asks Moses to stop it.
 
-The goddess Heqet, wife of the Nile god, presided over birth and rebirth. Since Pharaoh had been the one controlling birth among the Israelite children, God is declaring, through her own symbol, who is really in charge of new life.
+The frog goddess Heqet, companion of the potter god Khnum, helped at births and was linked with new life.[^heqet] Since Pharaoh had been the one controlling birth among the Israelite children, God is declaring, through her own symbol, who is really in charge of new life.
 
 ## {{% bible val="3, Gnats" link="exo:8,16-19" lang="en" %}}
 
@@ -121,3 +123,5 @@ Because of {{% bible val="Pharaoh’s 'strong heart'" link="exo:10,7" lang="en" 
 Before the tenth plague strikes, the {{% bible val="Passover is introduced" link="exo:12,1-13" lang="en" %}} — protection from the plague, but also the origin of the Lord’s Supper, and something like the birth of Israel as a people, since it {{% bible val="was open to anyone who wanted to join Israel" link="exo:12,43-49" lang="en" %}}. Alongside it, {{% bible val="the Feast of Unleavened Bread is introduced" link="exo:12,14-20" lang="en" %}}, underscoring that there is {{% bible val="no time to wait, only to hurry" link="exo:12,12" lang="en" %}}.
 
 Finally, the {{% bible val="sign on the hand and forehead" link="exo:13,8-9" lang="en" %}} is introduced as a lasting reminder: God brought Israel out of Egypt, He is more powerful than the Egyptian gods, and Israel must not forget it. The sign, in other words, is a mark of loyalty to God.
+
+[^heqet]: TDOT, vol. 13, p. 371; on Heqet and resurrection, Beale, p. 833.

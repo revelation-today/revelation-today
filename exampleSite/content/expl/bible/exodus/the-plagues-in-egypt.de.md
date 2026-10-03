@@ -15,8 +15,10 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
-    - pages: 465, 481
+    - pages: 465, 481, 833
       ref: beale_rev
+    - pages: "vol. 13: 371"
+      ref: tdot
 ---
 
 Diese Geschichte hast du wahrscheinlich schon im Kindergottesdienst gehört, aber es gibt darin viel mehr zu entdecken, als du bisher vielleicht wahrgenommen hast.
@@ -70,7 +72,7 @@ Der Nil ist die Lebensader Ägyptens: seine jährliche Überschwemmung macht die
 <a name="83d5"></a>
 Frösche überschwemmen das Land, und diesmal erkennt der Pharao Gottes Hand dahinter und bittet Mose, es zu beenden.
 
-Die Göttin Heqet, die Frau des Nilgottes, herrschte über Geburt und Wiedergeburt. Da der Pharao derjenige gewesen war, der die Geburten unter den israelitischen Kindern kontrollierte, macht Gott hier, ausgerechnet durch ihr eigenes Symbol, deutlich, wer wirklich die Kontrolle über neues Leben hat.
+Die Froschgöttin Heqet, Gefährtin des Töpfergottes Chnum, half bei Geburten und stand für neues Leben.[^heqet] Da der Pharao derjenige gewesen war, der die Geburten unter den israelitischen Kindern kontrollierte, macht Gott hier, ausgerechnet durch ihr eigenes Symbol, deutlich, wer wirklich die Kontrolle über neues Leben hat.
 
 ## {{% bible val="3, Mücken" link="exo:8,16-19" lang="de" %}}
 
@@ -132,3 +134,5 @@ Wegen {{% bible val="des „starken Herzens“ des Pharao" link="exo:10,7" lang=
 Bevor die zehnte Plage zuschlägt, wird das {{% bible val="Passah eingeführt" link="exo:12,1-13" lang="de" %}} — Schutz vor der Plage, aber auch der Ursprung des Abendmahls und so etwas wie die Geburtsstunde Israels als Volk, denn es {{% bible val="stand jedem offen, der sich Israel anschließen wollte" link="exo:12,43-49" lang="de" %}}. Zusammen damit wird das {{% bible val="Fest der ungesäuerten Brote eingeführt" link="exo:12,14-20" lang="de" %}}, das unterstreicht, dass {{% bible val="keine Zeit zum Warten bleibt, sondern nur zum Aufbruch" link="exo:12,12" lang="de" %}}.
 
 Schließlich wird das {{% bible val="Zeichen an Hand und Stirn" link="exo:13,8-9" lang="de" %}} als bleibende Erinnerung eingeführt: Gott hat Israel aus Ägypten herausgeführt, er ist mächtiger als die ägyptischen Götter, und Israel darf das nicht vergessen. Das Zeichen ist mit anderen Worten ein Zeichen der Treue zu Gott.
+
+[^heqet]: TDOT, Bd. 13, S. 371; zu Heqet und Auferstehung Beale, S. 833.

@@ -5,7 +5,7 @@ base: /quick/content/vision
 story: /story/general/tour
 story_anchor: vision
 sources: 
-    - pages: 181–222
+    - pages: 26, 181–222
       ref: beale_rev
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
@@ -96,11 +96,13 @@ Bu pasajları bir araya getirdiğimizde ortaya bir tablo çıkar:
 - Derin bir duygusal tepki vardır — sevilen bir kral için tutulan yas.
 - Bu, İnsanoğlu İsa’nın ölümüyle ilgilidir.
 - Sonuç, Avram’a vaat edildiği gibi, bütün ulusların O’na tapınmasıdır.
-- Ama metin, ulusların nasıl tepki vereceğini (“O’nun uğruna göğüslerini döverek”) açık bırakır — kimileri kurtarıcıları için tövbe ederek, kimileri de yargı korkusuyla. (Vahiy kitabı başka yerlerde "ulusları" ve "yeryüzünün krallarını" Roma’yla - İsa’yı valisi aracılığıyla idam eden imparatorlukla - iç içe geçmiş olarak ele alır; dolayısıyla bu yas, ilk bakışta göründüğünden uluslara o kadar da uzak değildir.)
+- Uluslar kendileri için değil, *O'nun* için yas tutar. Bu, dehşetten çok tövbenin dilidir — Zekeriya'da olduğu gibi; orada yas "lütuf ve yakarış ruhu"ndan gelir.[^mourn] (Vahiy kitabı başka yerlerde "ulusları" ve "yeryüzünün krallarını" Roma’yla - İsa’yı valisi aracılığıyla idam eden imparatorlukla - iç içe geçmiş olarak ele alır; dolayısıyla bu yas, ilk bakışta göründüğünden uluslara o kadar da uzak değildir.)
 
-Yani metin, hangi tepkinin baskın olduğunu çözüme kavuşturmaz ve Vahiy kitabı boyunca bu belirsizliğe defalarca geri döner - aynı "bulutlarla gelme" hem tövbe edenler için kurtuluş hem de etmeyenler için yargı anlamına gelebilir (Va.6:15-17 ile karşılaştırın). Kesin olan şey, Vahiy’in defalarca geri döndüğü sonuçtur: her ulus, istisnasız, bir gün İsa’yla hesaplaşacaktır.
+Herkes böyle karşılık vermeyecek. Ulusları tövbeye getiren aynı geliş, O'nu reddedenlere dehşet getirir (6:15–17). Ama bu açılışın çaldığı nota umuttur: her ulus bir gün İsa'yla yüzleşecek ve birçoğu O'na dönecek.
 
 ## Sonuç
 
 <a name="a780"></a>
 Zaman yakındır ve Kilise harekete geçmelidir. İsa her şeyi çoktan tamamladığı için, Kilise güvenle öne çıkabilir ve uluslara ulaşabilir.
+
+[^mourn]: Beale, s. 26. Grekçe Eski Antlaşma'da "yeryüzünün bütün oymakları" her zaman bütün ulusları ifade eder (Yar. 12:3; 28:14; Zek. 14:17).

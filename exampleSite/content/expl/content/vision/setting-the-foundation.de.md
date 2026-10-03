@@ -5,7 +5,7 @@ base: /quick/content/vision
 story: /story/general/tour
 story_anchor: vision
 sources: 
-    - pages: 181–222
+    - pages: 26, 181–222
       ref: beale_rev
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
@@ -96,11 +96,13 @@ Setzt man diese Stellen zusammen, ergibt sich ein Bild:
 - Es gibt eine tiefe emotionale Reaktion — Trauer um einen geliebten König.
 - Sie hat mit dem Tod Jesu zu tun, des Menschensohns.
 - Das Ergebnis ist, dass alle Völker ihn anbeten werden, genau wie Abram versprochen wurde.
-- Doch der Text lässt offen, wie die Völker reagieren („sie schlagen sich seinetwegen an die Brust") — manche aus Reue über ihren Retter, andere aus Furcht vor dem Gericht. (Die Offenbarung behandelt an anderen Stellen „die Völker" und „die Könige der Erde" als eng mit Rom verbunden — genau dem Reich, das Jesus durch seinen Statthalter hinrichten ließ —, sodass die Trauer der Völker nicht so fern liegt, wie es zunächst scheinen mag.)
+- Die Völker trauern um *ihn*, nicht um sich selbst. Das ist eher die Sprache der Umkehr als des Schreckens — wie bei Sacharja, wo die Trauer aus einem „Geist der Gnade und des Gebets“ kommt.[^mourn] (Die Offenbarung behandelt an anderen Stellen „die Völker" und „die Könige der Erde" als eng mit Rom verbunden — genau dem Reich, das Jesus durch seinen Statthalter hinrichten ließ —, sodass die Trauer der Völker nicht so fern liegt, wie es zunächst scheinen mag.)
 
-Der Text entscheidet also nicht, welche Reaktion überwiegt, und die Offenbarung kehrt im Verlauf des ganzen Buches immer wieder zu dieser Mehrdeutigkeit zurück — dasselbe „Kommen mit den Wolken" kann Rettung für die bedeuten, die Buße tun, und Gericht für die, die es nicht tun (vergleiche Offb 6,15-17). Sicher ist, worauf die Offenbarung immer wieder hinausläuft: Jede Nation, ohne Ausnahme, wird sich eines Tages mit Jesus auseinandersetzen müssen.
+Nicht alle werden so reagieren. Dasselbe Kommen, das die Völker zur Umkehr führt, bringt Schrecken für die, die ihn ablehnen (6,15–17). Doch der Ton, den diese Eröffnung anschlägt, ist Hoffnung: Jedes Volk wird eines Tages mit Jesus zu tun bekommen, und viele werden sich ihm zuwenden.
 
 ## Schlussfolgerung
 
 <a name="b6f7"></a>
 Die Zeit ist nahe, und die Gemeinde soll handeln. Weil Jesus bereits alles vollbracht hat, kann die Gemeinde voller Zuversicht vorangehen und die Völker erreichen.
+
+[^mourn]: Beale, S. 26. Im griechischen Alten Testament meint „alle Stämme der Erde“ immer alle Völker (1 Mose 12,3; 28,14; Sach 14,17).

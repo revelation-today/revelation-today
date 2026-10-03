@@ -16,6 +16,8 @@ deeper:
 sources: 
     - pages: 520–555
       ref: beale_rev
+    - pages: 243–257
+      ref: bauckham_climax
 ---
 
 Chapter 10 centers on a small scroll that John is told to eat, and on the mystery of the seven thunders — sealed up the moment they speak. What do these two strange details mean?
@@ -30,9 +32,9 @@ Something other than hardship is needed to turn people back to God, and the text
 ## The angel with the scroll
 
 <a name="6058"></a>
-To make that testimony possible, an angel appears wrapped in a cloud, with a rainbow over his head. Whether this is Jesus himself or an angel representing him, the scene is closely tied to him — though the angel's oath in verse 6, sworn by God rather than by himself (echoing the angelic figure of Daniel 12:7), is one reason many interpreters read this as an exalted angel rather than Christ in person. Either way, the scroll he carries recalls the scroll Jesus opened back in chapter 5.
+To make that testimony possible, a mighty angel appears wrapped in a cloud, with a rainbow over his head. He is described with features the Old Testament gives only to God, and Revelation only to God or Christ. So this is probably Christ himself, or the angel of the LORD who stands for him.[^angel] The scroll he carries recalls the scroll Jesus opened back in chapter 5.
 
-It isn't the same scroll, but it is related to it. The chapter 5 scroll is simply "a scroll," opened by Jesus to set in motion God's plan of judgment and redemption; this one is explicitly smaller, and instead of being opened, it is eaten — by John, standing in for the church — so that it can be turned into testimony.
+It isn't the same scroll, but it is related to it.[^scroll] The chapter 5 scroll is simply "a scroll," opened by Jesus to set in motion God's plan of judgment and redemption; this one is explicitly smaller, and instead of being opened, it is eaten — by John, standing in for the church — so that it can be turned into testimony.
 
 The link between the two is one of scale: Jesus defeated Satan on the cross, and that victory is the main event. What's left is a smaller task, but still an essential one, for the church to carry out in order to see God's plan through to completion.
 
@@ -48,3 +50,7 @@ John is told to eat the scroll, an image that recalls Ezekiel eating his own scr
 The taste tells the story. It is sweet in the mouth — what Jesus has already accomplished — and bitter in the stomach: the judgment still coming on the world, and the cost of bearing witness to a world that hates the church for it, a hatred the church is not to answer in kind, since it is called to follow Jesus rather than threaten as he was threatened.
 
 So what is this scroll, in the end? {{% bible val="After eating the scroll, John is told he must prophesy again — not just to Israel, as Ezekiel was, but about many peoples, nations, languages, and kings" link="rev:10,11" lang="en" %}} The chapters that follow answer the question by showing it in action: it is the testimony that the church carries to the nations, and that the church will ultimately deliver in full.
+
+[^angel]: Beale, p. 522. Others read him as an exalted angel, because he swears by God rather than by himself (10:6, echoing Daniel 12:7).
+
+[^scroll]: Beale, pp. 530–532. Bauckham argues that the two scrolls are the same (*Climax*, pp. 243–257).
