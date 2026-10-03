@@ -27,7 +27,7 @@ readBefore:
       link:  /expl/background/israel/the-church-is-part-of-israel
 ---
 
-Wie wird der Himmel sein, und wie wird die Hölle sein? Die Offenbarung beantwortet keine der beiden Fragen erschöpfend, aber sie gibt zu beiden echte Einblicke.
+Wo endet die Geschichte? Nicht in einem fernen Himmel. Die Offenbarung endet mit einer Stadt, die aus dem Himmel auf eine erneuerte Erde herabkommt, und Gott wohnt dort bei seinem Volk.
 
 ## Der Aufbau des Kapitels
 
@@ -85,7 +85,7 @@ Das Neue Testament greift denselben Gedanken auf:
 - {{% bible val="es gibt ein himmlisches Jerusalem" link="heb:12,22" lang="de" %}}
 - {{% bible val="Jerusalem ist frei" link="gal:4,26-31" lang="de" %}}
 
-Es gibt auch eine interessante Parallele innerhalb der Offenbarung selbst, zwischen Vers 2 und {{% bible val="den Versen 10 und 11" link="rev:21,10-11" lang="de" %}}: Vers 2 zeigt das neue Jerusalem, das „von Gott aus dem Himmel herabsteigt, bereitet wie eine für ihren Mann geschmückte Braut", während die Verse 10–11 die „heilige Stadt Jerusalem, von Gott aus dem Himmel herabsteigend" zeigen, die „mit der Herrlichkeit Gottes erstrahlte". Legt man beide nebeneinander, zeigt sich: Das schöne Kleid der Braut ist die Herrlichkeit Gottes – und {{% bible val="Gottes Herrlichkeit ist seine Barmherzigkeit und sein Erbarmen" link="exo:33,17-23" lang="de" %}}, die auch die Gemeinde widerspiegeln soll.
+Es gibt auch eine interessante Parallele innerhalb der Offenbarung selbst, zwischen Vers 2 und {{% bible val="den Versen 10 und 11" link="rev:21,10-11" lang="de" %}}: Vers 2 zeigt das neue Jerusalem, das „von Gott aus dem Himmel herabsteigt, bereitet wie eine für ihren Mann geschmückte Braut", während die Verse 10–11 die „heilige Stadt Jerusalem, von Gott aus dem Himmel herabsteigend" zeigen, die „mit der Herrlichkeit Gottes erstrahlte". Legt man beide nebeneinander, zeigt sich: Das schöne Kleid der Braut ist die Herrlichkeit Gottes – und {{% bible val="Gottes Herrlichkeit ist seine Güte, barmherzig und gerecht" link="exo:34,5-7" lang="de" %}}, die auch die Gemeinde widerspiegeln soll.
 
 ## Gott lebt mit seinem Volk
 

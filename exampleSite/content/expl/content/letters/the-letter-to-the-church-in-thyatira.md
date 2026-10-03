@@ -27,7 +27,7 @@ Fittingly, the {{% bible val="letter to this church is the longest of the seven"
 <a name="244a"></a>
 Thyatira began around 300 BC as a Seleucid military colony guarding the road north from Sardis and Pergamon; after 188 BC it passed into the Pergamene kingdom and continued to serve as a frontier garrison town southeast of Pergamon.
 
-By the time Revelation was written, the city was known for its purple-dye and bronze-working industries, and for having an unusually large number of trade guilds. Guild feasts of this kind, across the Greco-Roman world, typically combined a meal offered to the guild's patron deity with entertainment that encouraged sexual immorality — a pattern that put believers in Thyatira's guilds under real pressure to compromise in order to keep their livelihood.
+By the time Revelation was written, the city was known for its purple-dye and bronze-working industries, and for having an unusually large number of trade guilds. Guild feasts of this kind, across the Greco-Roman world, combined a meal offered to the guild's patron deity, often with entertainment that encouraged sexual immorality — a pattern that put believers in Thyatira's guilds under real pressure to compromise in order to keep their livelihood.
 
 ## Jesus' view
 

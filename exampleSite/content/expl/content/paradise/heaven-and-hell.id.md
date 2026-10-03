@@ -26,7 +26,7 @@ Kedekatan itu terasa semakin tajam begitu kita menyadari bahwa {{% bible val="Ye
 
 Bahasa pasal 21 juga banyak mengambil dari gambaran Bait Suci, {{% int_link val="tempat Israel bersekutu dengan Allah" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} — dan Bait Suci itu sendiri adalah cerminan dari Eden. Bentuk Yerusalem Baru membuat kaitan itu menjadi jelas: kota itu adalah sebuah {{% bible val="kubus" link="rev:21,16" lang="ind" %}}, dan {{% bible val="satu-satunya benda dalam Perjanjian Lama yang berbentuk demikian adalah Ruang Mahakudus" link="1ki:6,20" lang="ind" %}}, tempat Allah tinggal — sebuah ruang yang begitu dipenuhi hadirat-Nya sehingga hanya imam besar yang boleh memasukinya, dan itu pun hanya sekali setahun.
 
-Jadi, Yerusalem Baru, atau surga, digambarkan sebagai tempat kedekatan yang paling mungkin dengan Allah.
+Jadi, Yerusalem Baru adalah tempat kedekatan yang sedekat-dekatnya dengan Allah. Kota itu bukan surga yang jauh: ia {{% bible val="turun" link="rev:21,2" lang="ind" %}} ke bumi yang diperbarui.
 
 ## Penyerahan diri
 

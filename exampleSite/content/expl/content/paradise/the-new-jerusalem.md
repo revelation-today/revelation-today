@@ -27,7 +27,7 @@ readBefore:
       link:  /expl/background/israel/the-church-is-part-of-israel
 ---
 
-What will heaven be like, and what will hell be like? Revelation doesn't answer either question in exhaustive detail, but it gives real insight into both.
+Where does the story end? Not in a far-off heaven. Revelation ends with a city that comes down from heaven to a renewed earth, and God lives there with his people.
 
 ## The structure of the chapter
 
@@ -85,7 +85,7 @@ The New Testament picks up the same thought:
 - {{% bible val="there is a heavenly Jerusalem" link="heb:12,22" lang="en" %}}
 - {{% bible val="Jerusalem is free" link="gal:4,26-31" lang="en" %}}
 
-There's also an interesting parallel within Revelation itself, between verse 2 and {{% bible val="verses 10 and 11" link="rev:21,10-11" lang="en" %}}: verse 2 has the new Jerusalem "coming down out of heaven from God, prepared as a bride beautifully dressed for her husband," while verses 10–11 have the "Holy City, Jerusalem, coming down out of heaven from God," where "it shone with the glory of God." Lining the two up shows that the bride's beautiful dress is the glory of God — and {{% bible val="God's glory is his mercy and compassion" link="exo:33,17-23" lang="en" %}}, which the church is likewise called to reflect.
+There's also an interesting parallel within Revelation itself, between verse 2 and {{% bible val="verses 10 and 11" link="rev:21,10-11" lang="en" %}}: verse 2 has the new Jerusalem "coming down out of heaven from God, prepared as a bride beautifully dressed for her husband," while verses 10–11 have the "Holy City, Jerusalem, coming down out of heaven from God," where "it shone with the glory of God." Lining the two up shows that the bride's beautiful dress is the glory of God — and {{% bible val="God's glory is his goodness, merciful and just" link="exo:34,5-7" lang="en" %}}, which the church is likewise called to reflect.
 
 ### God lives with the people
 

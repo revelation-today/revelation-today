@@ -68,7 +68,7 @@ If we now look {{% int_link val="at the four horsemen, we find the same pattern"
 
 - first comes the deceiver,
 - followed by the one who uses violence and brings war,
-- followed by the one who brings economic injustice.
+- followed by the one who brings hunger and prices no one can pay.
 
 The fourth horseman summarizes all three — another instance of the same trinity pattern.
 

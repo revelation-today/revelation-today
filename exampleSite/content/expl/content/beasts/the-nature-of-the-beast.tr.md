@@ -68,7 +68,7 @@ Kiliseyi aldatmak için {{% int_link val="kötü bir üçlü kurar" link="/expl/
 
 - önce aldatıcı gelir,
 - ardından şiddet kullanıp savaş getiren gelir,
-- ardından ekonomik adaletsizlik getiren gelir.
+- ardından açlık ve kimsenin ödeyemeyeceği fiyatlar getiren gelir.
 
 Dördüncü atlı üçünü birden özetler — aynı üçlü örüntünün bir başka örneği daha.
 

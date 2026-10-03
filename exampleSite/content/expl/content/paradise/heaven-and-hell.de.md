@@ -26,7 +26,7 @@ Diese Nähe tritt noch deutlicher hervor, sobald man bemerkt, dass das {{% bible
 
 Die Sprache von Kapitel 21 schöpft außerdem stark aus dem Tempel, {{% int_link val="dem Ort, an dem Israel Gemeinschaft mit Gott hatte" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} – und der Tempel selbst ist ein Abbild Edens. Die Form des Neuen Jerusalems macht diese Verbindung ausdrücklich: Es ist ein {{% bible val="Würfel" link="rev:21,16" lang="de" %}}, und das {{% bible val="einzige Objekt im Alten Testament mit dieser Form ist das Allerheiligste" link="1ki:6,20" lang="de" %}}, der Ort, an dem Gott wohnte – ein Raum, so sehr von seiner Gegenwart durchdrungen, dass nur der Hohepriester ihn betreten durfte, und das auch nur einmal im Jahr.
 
-Das Neue Jerusalem, also der Himmel, wird also als der Ort größtmöglicher Nähe zu Gott beschrieben.
+Das Neue Jerusalem ist also der Ort größtmöglicher Nähe zu Gott. Es ist kein ferner Himmel: Die Stadt {{% bible val="kommt herab" link="rev:21,2" lang="de" %}} auf eine erneuerte Erde.
 
 ## Hingabe
 

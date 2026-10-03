@@ -27,7 +27,7 @@ Passend dazu ist der {{% bible val="Brief an diese Gemeinde der längste der sie
 <a name="aa89"></a>
 Thyatira begann um 300 v. Chr. als seleukidische Militärkolonie, die die Straße nach Norden von Sardes und Pergamon aus bewachte; nach 188 v. Chr. kam es unter die Herrschaft des Pergamenischen Reiches und diente weiterhin als Grenzgarnisonsstadt südöstlich von Pergamon.
 
-Zur Zeit der Abfassung der Offenbarung war die Stadt bekannt für ihre Purpurfärberei und ihre Bronzeverarbeitung sowie für eine ungewöhnlich große Zahl an Handelsgilden. Gildenfeste dieser Art verbanden in der gesamten griechisch-römischen Welt üblicherweise eine der Schutzgottheit der Gilde dargebrachte Mahlzeit mit Unterhaltung, die sexuelle Unmoral förderte - ein Muster, das Gläubige in den Gilden Thyatiras unter echten Druck setzte, Kompromisse einzugehen, um ihren Lebensunterhalt zu behalten.
+Zur Zeit der Abfassung der Offenbarung war die Stadt bekannt für ihre Purpurfärberei und ihre Bronzeverarbeitung sowie für eine ungewöhnlich große Zahl an Handelsgilden. Gildenfeste dieser Art verbanden in der gesamten griechisch-römischen Welt eine der Schutzgottheit der Gilde dargebrachte Mahlzeit oft mit Unterhaltung, die sexuelle Unmoral förderte - ein Muster, das Gläubige in den Gilden Thyatiras unter echten Druck setzte, Kompromisse einzugehen, um ihren Lebensunterhalt zu behalten.
 
 ## Jesu Sicht
 

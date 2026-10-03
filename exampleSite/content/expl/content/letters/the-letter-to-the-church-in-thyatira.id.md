@@ -27,7 +27,7 @@ Selayaknya, {{% bible val="surat kepada jemaat ini adalah yang terpanjang dari k
 <a name="aa89"></a>
 Tiatira bermula sekitar tahun 300 SM sebagai koloni militer Seleukos yang menjaga jalan menuju utara dari Sardis dan Pergamus; setelah tahun 188 SM, kota ini berpindah ke bawah kekuasaan kerajaan Pergamus dan terus berfungsi sebagai kota garnisun perbatasan di sebelah tenggara Pergamus.
 
-Pada masa Kitab Wahyu ditulis, kota ini dikenal karena industri pewarna ungu dan pengerjaan perunggunya, serta karena jumlah perkumpulan dagangnya yang luar biasa banyak. Pesta-pesta perkumpulan semacam ini, di seluruh dunia Yunani-Romawi, biasanya menggabungkan makan bersama yang dipersembahkan kepada dewa pelindung perkumpulan itu dengan hiburan yang mendorong percabulan - sebuah pola yang menempatkan orang-orang percaya dalam perkumpulan dagang Tiatira di bawah tekanan nyata untuk berkompromi demi mempertahankan mata pencaharian mereka.
+Pada masa Kitab Wahyu ditulis, kota ini dikenal karena industri pewarna ungu dan pengerjaan perunggunya, serta karena jumlah perkumpulan dagangnya yang luar biasa banyak. Pesta-pesta perkumpulan semacam ini, di seluruh dunia Yunani-Romawi, menggabungkan makan bersama yang dipersembahkan kepada dewa pelindung perkumpulan itu, sering kali dengan hiburan yang mendorong percabulan - sebuah pola yang menempatkan orang-orang percaya dalam perkumpulan dagang Tiatira di bawah tekanan nyata untuk berkompromi demi mempertahankan mata pencaharian mereka.
 
 ## Pandangan Yesus
 

@@ -27,7 +27,7 @@ readBefore:
       link:  /expl/background/israel/the-church-is-part-of-israel
 ---
 
-Bagaimana rupa surga nantinya, dan bagaimana rupa neraka nantinya? Kitab Wahyu tidak menjawab kedua pertanyaan itu secara tuntas, tetapi kitab ini memberi kita pemahaman nyata tentang keduanya.
+Di mana kisah ini berakhir? Bukan di surga yang jauh. Kitab Wahyu berakhir dengan sebuah kota yang turun dari surga ke bumi yang diperbarui, dan Allah tinggal di sana bersama umat-Nya.
 
 ## Susunan pasal ini
 
@@ -85,7 +85,7 @@ Perjanjian Baru mengangkat kembali pemikiran yang sama:
 - {{% bible val="ada Yerusalem surgawi" link="heb:12,22" lang="ind" %}}
 - {{% bible val="Yerusalem itu merdeka" link="gal:4,26-31" lang="ind" %}}
 
-Ada juga sebuah paralel menarik di dalam Kitab Wahyu sendiri, antara ayat 2 dan {{% bible val="ayat 10 dan 11" link="rev:21,10-11" lang="ind" %}}: ayat 2 menyebutkan Yerusalem baru "turun dari sorga, dari Allah, berhias bagaikan pengantin perempuan yang berdandan untuk suaminya," sedangkan ayat 10–11 menyebutkan "Kota Kudus, Yerusalem, turun dari sorga, dari Allah," yang "bercahaya dengan kemuliaan Allah." Jika kedua ayat itu disejajarkan, tampak bahwa pakaian indah sang pengantin perempuan adalah kemuliaan Allah — dan {{% bible val="kemuliaan Allah adalah belas kasihan dan kemurahan-Nya" link="exo:33,17-23" lang="ind" %}}, yang juga dipanggil untuk dicerminkan oleh gereja.
+Ada juga sebuah paralel menarik di dalam Kitab Wahyu sendiri, antara ayat 2 dan {{% bible val="ayat 10 dan 11" link="rev:21,10-11" lang="ind" %}}: ayat 2 menyebutkan Yerusalem baru "turun dari sorga, dari Allah, berhias bagaikan pengantin perempuan yang berdandan untuk suaminya," sedangkan ayat 10–11 menyebutkan "Kota Kudus, Yerusalem, turun dari sorga, dari Allah," yang "bercahaya dengan kemuliaan Allah." Jika kedua ayat itu disejajarkan, tampak bahwa pakaian indah sang pengantin perempuan adalah kemuliaan Allah — dan {{% bible val="kemuliaan Allah adalah kebaikan-Nya, penuh belas kasihan dan adil" link="exo:34,5-7" lang="ind" %}}, yang juga dipanggil untuk dicerminkan oleh gereja.
 
 ## Allah tinggal bersama umat-Nya
 

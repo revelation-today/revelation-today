@@ -26,7 +26,7 @@ That intimacy comes through even more sharply once you notice that the {{% bible
 
 The language of chapter 21 also draws heavily on the temple, {{% int_link val="the place where Israel had fellowship with God" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} — and the temple itself is a reflection of Eden. The shape of the New Jerusalem makes the connection explicit: it is a {{% bible val="cube" link="rev:21,16" lang="en" %}}, and the {{% bible val="only object in the Old Testament with that shape is the Holy of Holies" link="1ki:6,20" lang="en" %}}, the place where God lived — a space so saturated with his presence that only the high priest was allowed to enter, and only once a year.
 
-So the New Jerusalem, or heaven, is described as the place of greatest possible intimacy with God.
+So the New Jerusalem is the place of greatest possible intimacy with God. It is not a far-off heaven: the city {{% bible val="comes down" link="rev:21,2" lang="en" %}} to a renewed earth.
 
 ## Commitment
 

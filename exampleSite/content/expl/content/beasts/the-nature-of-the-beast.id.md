@@ -68,7 +68,7 @@ Jika kita memperhatikan {{% int_link val="keempat penunggang kuda, kita menemuka
 
 - pertama datang sang penipu,
 - diikuti oleh yang memakai kekerasan dan membawa peperangan,
-- diikuti oleh yang membawa ketidakadilan ekonomi.
+- diikuti oleh yang membawa kelaparan dan harga yang tak terjangkau.
 
 Penunggang kuda keempat meringkas ketiganya — sebuah contoh lain dari pola trinitas yang sama.
 

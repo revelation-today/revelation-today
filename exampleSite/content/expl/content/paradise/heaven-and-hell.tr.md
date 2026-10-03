@@ -26,7 +26,7 @@ Kitap cenneti birkaç farklı metaforla resmeder: {{% bible val="yedinci" link="
 
 21. bölümün dili aynı zamanda {{% int_link val="İsrail'in Tanrı'yla paydaşlık ettiği yer olan tapınaktan" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} yoğun biçimde beslenir — tapınağın kendisi de Aden'in bir yansımasıdır. Yeni Yeruşalim'in şekli bu bağlantıyı açıkça ortaya koyar: şehir bir {{% bible val="küptür" link="rev:21,16" lang="tr" %}} ve {{% bible val="Eski Ahit'te bu şekle sahip tek nesne Kutsalların Kutsalı'dır" link="1ki:6,20" lang="tr" %}} — Tanrı'nın yaşadığı, varlığıyla öylesine dolu olduğu için sadece başkâhinin, o da yılda bir kez girebildiği yer.
 
-Böylece Yeni Yeruşalim, yani cennet, Tanrı'yla mümkün olan en büyük yakınlığın yaşandığı yer olarak tanımlanır.
+Böylece Yeni Yeruşalim, Tanrı'yla mümkün olan en büyük yakınlığın yaşandığı yerdir. Uzak bir cennet değildir: şehir yenilenmiş bir yeryüzüne {{% bible val="iner" link="rev:21,2" lang="tr" %}}.
 
 ## Bağlılık
 

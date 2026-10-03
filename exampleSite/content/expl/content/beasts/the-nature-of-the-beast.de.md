@@ -68,7 +68,7 @@ Betrachten wir nun {{% int_link val="die vier Reiter, finden wir dasselbe Muster
 
 - zuerst kommt der Täuscher,
 - gefolgt von dem, der Gewalt anwendet und Krieg bringt,
-- gefolgt von dem, der wirtschaftliche Ungerechtigkeit bringt.
+- gefolgt von dem, der Hunger bringt und Preise, die niemand zahlen kann.
 
 Der vierte Reiter fasst alle drei zusammen — ein weiteres Beispiel für dasselbe Dreifaltigkeitsmuster.
 

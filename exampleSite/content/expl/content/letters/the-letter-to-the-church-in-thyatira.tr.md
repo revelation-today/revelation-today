@@ -27,7 +27,7 @@ Uygun bir biçimde, {{% bible val="bu kiliseye yazılan mektup yedisinin en uzun
 <a name="76fc"></a>
 Thyatira, MÖ 300 civarında Sardis ve Pergamon'dan kuzeye giden yolu koruyan bir Selevkos askeri kolonisi olarak başladı; MÖ 188'den sonra Pergamon krallığının yönetimine geçti ve Pergamon'un güneydoğusunda bir sınır garnizon kenti olarak hizmet vermeye devam etti.
 
-Vahiy yazıldığı sırada şehir mor boya ve bronz işçiliğiyle, ayrıca olağanüstü sayıda ticaret loncasıyla tanınıyordu. Bu tür lonca şölenleri, tüm Greko-Romen dünyasında, genellikle loncanın koruyucu tanrısına sunulan bir yemeği, cinsel ahlaksızlığı teşvik eden bir eğlenceyle birleştiriyordu — bu da Thyatira'nın loncalarındaki inananları, geçimlerini sürdürebilmek için uzlaşma yapmaları yönünde gerçek bir baskı altına sokan bir örüntüydü.
+Vahiy yazıldığı sırada şehir mor boya ve bronz işçiliğiyle, ayrıca olağanüstü sayıda ticaret loncasıyla tanınıyordu. Bu tür lonca şölenleri, tüm Greko-Romen dünyasında, loncanın koruyucu tanrısına sunulan bir yemeği çoğu kez cinsel ahlaksızlığı teşvik eden bir eğlenceyle birleştiriyordu — bu da Thyatira'nın loncalarındaki inananları, geçimlerini sürdürebilmek için uzlaşma yapmaları yönünde gerçek bir baskı altına sokan bir örüntüydü.
 
 ## İsa'nın görüşü
 

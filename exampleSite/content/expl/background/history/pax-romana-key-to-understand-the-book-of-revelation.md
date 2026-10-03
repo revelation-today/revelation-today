@@ -71,7 +71,7 @@ For Christians living under this system, several serious problems arose:
 
 - Jesus was their emperor — king of kings — especially since the gospels themselves were written as *euangelion*, the proclamation of a new emperor's reign.
 - They {{% bible val="received their provision from Jesus" link="mat:6,25-34" lang="en" %}}, not from the emperor.
-- Some of the activities woven into Pax Romana civic life ran directly against their beliefs — above all the trade-guild banquets honouring the guild's patron god, with meat offered to idols and sometimes sexual immorality, which every tradesman was expected to attend ({{% bible val="Rev 2:14" link="rev:2,14" lang="en" %}}, {{% bible val="20" link="rev:2,20" lang="en" %}}).
+- Some of the activities woven into Pax Romana civic life ran directly against their beliefs — above all the trade-guild banquets honouring the guild's patron god, with meat offered to idols and often sexual immorality, which every tradesman was expected to attend ({{% bible val="Rev 2:14" link="rev:2,14" lang="en" %}}, {{% bible val="20" link="rev:2,20" lang="en" %}}).
 - The very means Rome used to "pacify" the empire could not be reconciled with Christian conviction.
 - They were branded intolerant for insisting there was only one God, in an empire that comfortably accepted any number of additional gods.
 

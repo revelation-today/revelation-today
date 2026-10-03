@@ -71,7 +71,7 @@ Bu sistem altında yaşayan Hıristiyanlar için birkaç ciddi sorun ortaya çı
 
 - İsa onların imparatoruydu — kralların kralı — özellikle de İncillerin kendisi *euangelion*, yani yeni bir imparatorun hükümdarlığının ilanı olarak yazıldığı için.
 - Onlar {{% bible val="ihtiyaçlarını İsa'dan sağlıyorlardı" link="mat:6,25-34" lang="tr" %}}, imparatordan değil.
-- Pax Romana'nın kentsel yaşamına örülmüş bazı etkinlikler doğrudan inançlarına aykırıydı — özellikle de loncaların koruyucu tanrıları onuruna verilen, putlara sunulmuş etlerin yendiği ve zaman zaman cinsel ahlaksızlığın yaşandığı, her esnaf ve zanaatkârın katılması beklenen ziyafetler ({{% bible val="Vahiy 2:14" link="rev:2,14" lang="tr" %}}, {{% bible val="20" link="rev:2,20" lang="tr" %}}).
+- Pax Romana'nın kentsel yaşamına örülmüş bazı etkinlikler doğrudan inançlarına aykırıydı — özellikle de loncaların koruyucu tanrıları onuruna verilen, putlara sunulmuş etlerin yendiği ve çoğu kez cinsel ahlaksızlığın yaşandığı, her esnaf ve zanaatkârın katılması beklenen ziyafetler ({{% bible val="Vahiy 2:14" link="rev:2,14" lang="tr" %}}, {{% bible val="20" link="rev:2,20" lang="tr" %}}).
 - Roma'nın imparatorluğu "sindirmek" için kullandığı araçların kendisi Hıristiyan inancıyla bağdaştırılamazdı.
 - Herhangi bir sayıda ek tanrıyı rahatça kabul eden bir imparatorlukta, tek bir Tanrı olduğunda ısrar ettikleri için hoşgörüsüz olmakla damgalanıyorlardı.
 

@@ -27,7 +27,7 @@ readBefore:
       link:  /expl/background/israel/the-church-is-part-of-israel
 ---
 
-Cennet nasıl olacak, cehennem nasıl olacak? Vahiy her iki soruyu da eksiksiz ayrıntısıyla yanıtlamaz, ama ikisine dair de gerçek bir kavrayış sunar.
+Öykü nerede biter? Uzak bir cennette değil. Vahiy, gökten yenilenmiş bir yeryüzüne inen bir şehirle biter ve Tanrı orada halkıyla birlikte yaşar.
 
 ## Bölümün yapısı
 
@@ -85,7 +85,7 @@ Yeni Ahit aynı düşünceyi sürdürür:
 - {{% bible val="göksel bir Yeruşalim vardır" link="heb:12,22" lang="tr" %}}
 - {{% bible val="Yeruşalim özgürdür" link="gal:4,26-31" lang="tr" %}}
 
-Vahiy'in kendi içinde de ilginç bir paralellik vardır: 2. ayetle {{% bible val="10. ve 11. ayetler" link="rev:21,10-11" lang="tr" %}} arasında. 2. ayette yeni Yeruşalim, "gökten, Tanrı'nın yanından iniyor, kocası için hazırlanmış, güzelce giyinmiş bir gelin gibi"; 10-11. ayetlerde ise "Kutsal Kent, Yeruşalim, gökten, Tanrı'nın yanından iniyor" ve "Tanrı'nın görkemiyle parlıyor." İkisini yan yana koyduğunuzda, gelinin güzel elbisesinin Tanrı'nın görkemi olduğunu görürsünüz — ve {{% bible val="Tanrı'nın görkemi O'nun merhameti ve şefkatidir" link="exo:33,17-23" lang="tr" %}}, ki kilise de bunu yansıtmaya çağrılıdır.
+Vahiy'in kendi içinde de ilginç bir paralellik vardır: 2. ayetle {{% bible val="10. ve 11. ayetler" link="rev:21,10-11" lang="tr" %}} arasında. 2. ayette yeni Yeruşalim, "gökten, Tanrı'nın yanından iniyor, kocası için hazırlanmış, güzelce giyinmiş bir gelin gibi"; 10-11. ayetlerde ise "Kutsal Kent, Yeruşalim, gökten, Tanrı'nın yanından iniyor" ve "Tanrı'nın görkemiyle parlıyor." İkisini yan yana koyduğunuzda, gelinin güzel elbisesinin Tanrı'nın görkemi olduğunu görürsünüz — ve {{% bible val="Tanrı'nın görkemi O'nun iyiliğidir, merhametli ve adil" link="exo:34,5-7" lang="tr" %}}, ki kilise de bunu yansıtmaya çağrılıdır.
 
 ### Tanrı halkla birlikte yaşıyor
 
