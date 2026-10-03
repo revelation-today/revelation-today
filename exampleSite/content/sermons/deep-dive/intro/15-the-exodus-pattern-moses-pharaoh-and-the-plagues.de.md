@@ -69,12 +69,12 @@ muss.
 **Die Verhärtung des Herzens des Pharaos — eine Frage, die man ernst nehmen sollte.** Ist es fair,
 dass Gott das Herz des Pharaos verhärtet und ihn dann für die daraus folgende Grausamkeit bestraft?
 Der hebräische Text verwendet in der Erzählung drei verschiedene Wörter — *chazaq* (verhärten oder
-stärken), *qashah* (hart oder streng sein) und *kabad* (schwer oder gewichtig) — und entscheidend
-ist: Alle drei Verben beschreiben sowohl Gott, der das Herz des Pharaos verhärtet, als auch den
-Pharao, der wiederholt und aus eigenem Antrieb sein eigenes Herz verhärtet. Das Muster, das sich
-ergibt: Gottes Verhärtung zwang den Pharao nicht gegen seinen Willen zum Bösen — sie gab dem Pharao
-die Kraft, weiter Widerstand zu leisten, statt in dem Moment einzuknicken, in dem er Gottes Macht
-erlebte, was der Pharao dann von sich aus wiederholt tat. Der klarste Beleg: Während der
+stärken), *qashah* (hart oder streng sein) und *kabad* (schwer oder gewichtig) — und die Erzählung
+gebraucht sie in einer klaren Reihenfolge. Zuerst „war" das Herz des Pharaos einfach hart, und er
+verhärtet es selbst (8,11.28; 9,34). Erst von der sechsten Plage an heißt es, dass Gott es
+verhärtete (9,12; 10,20.27). Das Muster, das sich ergibt: Gottes Verhärtung zwang den Pharao nicht
+gegen seinen Willen zum Bösen — sie kam als Gericht, das die Entscheidung bestätigte, die der
+Pharao schon wieder und wieder getroffen hatte. Der klarste Beleg: Während der
 Hagel-Plage gesteht der Pharao zunächst, dass er gesündigt hat
 ({{% bible val="2. Mose 9,27" link="exo:9,27" lang="de" %}}) — ein echtes, wenn auch vorübergehendes
 Eingeständnis —, und {{% bible val="sündigt dann, sobald der Hagel aufhört, erneut und verhärtet sein eigenes Herz" link="exo:9,34" lang="de" %}}. Das ist das Bild eines Mannes, dem immer wieder
@@ -89,8 +89,9 @@ einmal mehr vor dem Pharao erscheinen können. Ab der vierten Plage beginnt Gott
 Unterscheidung zwischen Israel und Ägypten zu treffen — eine Unterscheidung, die zuvor nur der
 Pharao getroffen hatte. Die Plagen zielen auf Ägyptens Götter und dessen gesamtes nationales
 Selbstverständnis ({{% bible val="2. Mose 12,12" link="exo:12,12" lang="de" %}}), nicht auf
-gewöhnliche Ägypter persönlich, die wiederholt im Voraus gewarnt werden und bei Israel in Goschen
-Zuflucht finden können — viele taten das auch.
+gewöhnliche Ägypter persönlich, die wiederholt im Voraus gewarnt werden. Einige Beamte nahmen die
+Warnung ernst und brachten ihre Leute in Sicherheit (9,20), und als Israel auszog, zog viel
+fremdes Volk mit (12,38).
 
 **Eine Warnung zu bestimmten Behauptungen in diesem Artikel.** Die Faktenprüfung markierte mehrere
 konkrete Aussagen zur ägyptischen Mythologie im Ausgangsmaterial als nicht verifizierbar oder

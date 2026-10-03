@@ -62,12 +62,12 @@ tek koşulu) ve kendi eşi tarafından kurtarılması gereken biri.
 **Firavun'un yüreğinin katılaşması — ciddiye alınması gereken bir soru.** Tanrı'nın Firavun'un
 yüreğini katılaştırıp sonra bunun sonucunda ortaya çıkan zulüm için onu cezalandırması adil mi?
 İbranice metin anlatı boyunca üç farklı sözcük kullanır — *chazaq* (katılaştırmak ya da
-güçlendirmek), *qashah* (sert ya da acımasız olmak) ve *kabad* (ağır ya da yüklü) — ve önemli
-olan şu ki, üç fiil de hem Tanrı'nın Firavun'un yüreğini katılaştırmasını *hem de* Firavun'un
-kendi yüreğini kendi girişimiyle, tekrar tekrar katılaştırmasını tanımlar. Ortaya çıkan örüntü:
-Tanrı'nın katılaştırması Firavun'u kendi isteğine karşı kötülüğe zorlamadı — Firavun'a, Tanrı'nın
-gücüne tanık olur olmaz teslim olmak yerine direnmeye devam edecek gücü verdi; Firavun da bunu,
-kendi isteğiyle, tekrar tekrar yaptı. En açık kanıt: dolu belası sırasında Firavun önce günah
+güçlendirmek), *qashah* (sert ya da acımasız olmak) ve *kabad* (ağır ya da yüklü) — ve anlatı
+bunları belirli bir sırayla kullanır. Önce Firavun'un yüreği yalnızca "katıydı" ve onu kendisi
+katılaştırır (8:15, 32; 9:34). Ancak altıncı beladan itibaren metin, onu Tanrı'nın katılaştırdığını
+söyler (9:12; 10:20, 27). Ortaya çıkan örüntü: Tanrı'nın katılaştırması Firavun'u kendi isteğine
+karşı kötülüğe zorlamadı — Firavun'un tekrar tekrar yaptığı seçimi onaylayan bir yargı olarak
+geldi. En açık kanıt: dolu belası sırasında Firavun önce günah
 işlediğini kabul eder ({{% bible val="Mısır'dan Çıkış 9:27" link="exo:9,27" lang="tr" %}}) —
 geçici de olsa gerçek bir kabul — sonra, dolu durur durmaz,
 {{% bible val="yeniden günah işler ve kendi yüreğini katılaştırır" link="exo:9,34" lang="tr" %}}.
@@ -80,8 +80,8 @@ gelir. Büyücüler ilk iki belayı taklit edebilir ama üçüncüsünü edemez;
 kendileri o kadar etkilenmiştir ki Firavun'un önüne bile çıkamazlar. Dördüncü beladan başlayarak
 Tanrı, İsrail ile Mısır arasında o zamana dek yalnızca Firavun'un çizdiği türden net bir ayrım
 çizmeye başlar. Belalar, sıradan Mısırlıları kişisel olarak değil, Mısır'ın ilahlarını ve
-bütününde ulusal öz anlayışını hedef alır ({{% bible val="Mısır'dan Çıkış 12:12" link="exo:12,12" lang="tr" %}}); sıradan Mısırlılar önceden defalarca uyarılır ve İsrail'le birlikte Goşen'de
-sığınabilirler — birçoğu da öyle yapmıştır.
+bütününde ulusal öz anlayışını hedef alır ({{% bible val="Mısır'dan Çıkış 12:12" link="exo:12,12" lang="tr" %}}); sıradan Mısırlılar önceden defalarca uyarılır. Bazı görevliler uyarıyı ciddiye alıp adamlarını
+korumaya aldı (9:20) ve İsrail çıkarken karışık bir kalabalık da onlarla birlikte gitti (12:38).
 
 **Bu makaledeki belirli iddialar üzerine bir uyarı.** Doğruluk incelemesi, kaynak materyaldeki
 Mısır mitolojisiyle ilgili birkaç belirli iddiayı doğrulanamaz ya da muhtemelen hatalı olarak

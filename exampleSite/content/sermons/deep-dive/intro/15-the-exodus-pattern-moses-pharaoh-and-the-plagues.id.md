@@ -68,12 +68,12 @@ kepadanya) dan harus diselamatkan oleh istrinya sendiri.
 **Pengerasan hati Firaun — pertanyaan yang layak dipikirkan serius.** Apakah adil bagi Allah untuk
 mengeraskan hati Firaun dan kemudian menghukumnya atas kekejaman yang dihasilkannya? Teks Ibrani
 menggunakan tiga kata berbeda sepanjang narasi ini — *chazaq* (mengeraskan atau menguatkan),
-*qashah* (menjadi keras atau berat), dan *kabad* (berat atau memberatkan) — dan yang terpenting,
-ketiga kata kerja itu menggambarkan baik Allah mengeraskan hati Firaun *maupun* Firaun mengeraskan
-hatinya sendiri, berulang kali, atas inisiatifnya sendiri. Pola yang muncul: pengerasan yang
-dilakukan Allah tidak memaksa Firaun berbuat jahat di luar kehendaknya — itu memberi Firaun
-kekuatan untuk terus melawan alih-alih menyerah pada saat ia menyaksikan kuasa Allah, sesuatu yang
-kemudian tetap dilakukan Firaun berulang kali atas kemauannya sendiri. Bukti paling jelas: selama
+*qashah* (menjadi keras atau berat), dan *kabad* (berat atau memberatkan) — dan kisah itu
+memakainya dalam urutan yang jelas. Mula-mula hati Firaun begitu saja "keras", dan ia sendiri yang
+mengeraskannya (8:15, 32; 9:34). Baru sejak tulah keenam teks itu mengatakan bahwa Allah
+mengeraskannya (9:12; 10:20, 27). Pola yang muncul: pengerasan yang dilakukan Allah tidak memaksa
+Firaun berbuat jahat di luar kehendaknya — pengerasan itu datang sebagai penghakiman yang
+meneguhkan pilihan yang sudah berulang kali diambil Firaun sendiri. Bukti paling jelas: selama
 tulah hujan es, Firaun pertama-tama mengakui bahwa ia telah berdosa
 ({{% bible val="Keluaran 9:27" link="exo:9,27" lang="ind" %}}) — pengakuan yang tulus, meski
 sementara — dan kemudian, begitu hujan es berhenti,
@@ -90,8 +90,9 @@ Firaun. Mulai dari tulah keempat, Allah mulai menarik pembedaan yang jelas antar
 Mesir — pembedaan yang sebelumnya hanya ditarik oleh Firaun sendiri. Tulah-tulah itu menyasar
 para dewa Mesir dan seluruh pemahaman diri bangsa itu
 ({{% bible val="Keluaran 12:12" link="exo:12,12" lang="ind" %}}), bukan orang Mesir biasa secara
-pribadi, yang berulang kali diperingatkan terlebih dahulu dan dapat berlindung bersama Israel di
-Gosyen — banyak yang melakukannya.
+pribadi, yang berulang kali diperingatkan terlebih dahulu. Beberapa pegawai Firaun mengindahkan
+peringatan itu dan menyelamatkan orang-orang mereka (9:20), dan ketika Israel berangkat, banyak
+orang dari berbagai bangsa ikut bersama mereka (12:38).
 
 **Sebuah peringatan tentang klaim-klaim spesifik dalam artikel ini.** Tinjauan akurasi menandai
 beberapa klaim spesifik tentang mitologi Mesir dalam materi sumber sebagai tidak dapat diverifikasi

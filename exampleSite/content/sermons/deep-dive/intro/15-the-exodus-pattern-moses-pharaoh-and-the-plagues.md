@@ -62,11 +62,11 @@ as a shepherd into "the most humble man on earth," someone who forgets to circum
 **The hardening of Pharaoh's heart — a question worth taking seriously.** Is it fair for God to
 harden Pharaoh's heart and then punish him for the resulting cruelty? The Hebrew text uses three
 different words across the narrative — *chazaq* (to harden or strengthen), *qashah* (to be hard
-or severe), and *kabad* (heavy or weighty) — and critically, all three verbs describe both God
-hardening Pharaoh's heart *and* Pharaoh hardening his own heart, repeatedly, on his own
-initiative. The pattern that emerges: God's hardening didn't force Pharaoh into evil against his
-will — it gave Pharaoh the strength to keep resisting rather than folding the moment he witnessed
-God's power, which Pharaoh then did, repeatedly, of his own accord. The clearest evidence: during
+or severe), and *kabad* (heavy or weighty) — and the story uses them in a clear order. First
+Pharaoh's heart simply "was hard", and he hardens it himself (8:15, 32; 9:34). Only from the
+sixth plague on does the text say that God hardened it (9:12; 10:20, 27). The pattern that
+emerges: God's hardening didn't force Pharaoh into evil against his will — it came as a judgment
+that confirmed the choice Pharaoh had already made, again and again. The clearest evidence: during
 the plague of hail, Pharaoh first admits he has sinned
 ({{% bible val="Exodus 9:27" link="exo:9,27" lang="en" %}}) — genuine, if temporary,
 acknowledgment — and then, the moment the hail stops,
@@ -82,8 +82,8 @@ appear before Pharaoh. Starting with the fourth plague, God begins drawing a cle
 between Israel and Egypt — a distinction only Pharaoh had drawn before then. The plagues target
 Egypt's gods and its whole national self-understanding
 ({{% bible val="Exodus 12:12" link="exo:12,12" lang="en" %}}), not ordinary Egyptians
-personally, who are repeatedly warned in advance and can take refuge with Israel in Goshen — many
-did.
+personally, who are repeatedly warned in advance. Some officials took the warning and sheltered
+their people (9:20), and when Israel left, a mixed crowd went with them (12:38).
 
 **A caution about specific claims in this article.** The accuracy review flagged several specific
 claims about Egyptian mythology in the source material as unverifiable or likely mistaken —
