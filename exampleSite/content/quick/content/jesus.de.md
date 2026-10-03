@@ -28,6 +28,6 @@ Nach seiner Niederlage verkündet eine Stimme, dass dies eine schlechte Nachrich
 
 ## Schlüsselbilder
 
-- **Die Frau, mit der Sonne bekleidet** - nicht Maria allein, sondern das Volk Gottes, aus dem der Messias kommt — zuerst Israel, dann die Gemeinde, die der Drache verfolgt.
+- **Die Frau, mit der Sonne bekleidet** - nicht Maria allein, sondern Israel, das Volk Gottes, aus dem der Messias kommt. Die Gemeinde sind ihre übrigen Nachkommen, die der Drache verfolgt (12,17).
 
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/jesus/a-different-christmas-story" >}})

@@ -28,6 +28,6 @@ Yenilgisinden sonra bir ses, bunun yeryüzü için kötü haber olduğunu duyuru
 
 ## Önemli imgeler
 
-- **Güneşe sarınmış kadın** - yalnızca Meryem değil, Mesih’in içinden çıktığı Tanrı halkı — önce İsrail, sonra ejderin kovaladığı kilise.
+- **Güneşe sarınmış kadın** - yalnızca Meryem değil, Mesih’in içinden çıktığı Tanrı halkı İsrail. Kilise ise onun soyundan geri kalanlardır; ejder onları kovalar (12:17).
 
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/jesus/a-different-christmas-story" >}})

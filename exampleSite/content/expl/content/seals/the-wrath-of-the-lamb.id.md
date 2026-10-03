@@ -36,7 +36,7 @@ Perhatikan siapa yang berbicara. Kata-kata itu diucapkan oleh orang-orang yang k
 <a name="0f00"></a>
 Murka Allah bukanlah ledakan amarah yang tiba-tiba.
 
-Di satu sisi, manusia baru sekarang menyadari apa yang telah mereka timbun terhadap Allah. Di sisi lain, {{% int_link val="Allah telah berusaha menjangkau manusia, tetapi ada saatnya usaha itu berhenti" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
+Di satu sisi, manusia baru sekarang menyadari apa yang telah mereka timbun terhadap Allah. Di sisi lain, {{% int_link val="Allah terus berusaha menjangkau manusia sampai saat terakhir, tetapi akan tiba harinya ketika waktu untuk berbalik sudah habis" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
 
 Ini semestinya tidak memberi kita kesan bahwa Allah seperti seorang pekerja sosial yang berusaha menolong, lalu menyerah karena manusia tidak mau bekerja sama. Sebaliknya, akan tiba saatnya Ia menghadapkan manusia dengan konsekuensi dari perbuatan mereka sendiri.[^hanson]
 

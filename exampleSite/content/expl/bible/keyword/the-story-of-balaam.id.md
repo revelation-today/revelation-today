@@ -38,7 +38,7 @@ Bagaimana ini bisa terjadi? {{% bible val="Allah murka dan memerintahkan Musa un
 
 Sesudah itu, {{% bible val="Allah memerintahkan Musa untuk memusnahkan orang Midian" link="num:25,16-18" lang="ind" %}}.
 
-Apakah Musa gagal menganggap ini serius? Sepertinya {{% bible val="tidak" link="exo:32,19" lang="ind" %}}; mungkin ia hanya lebih ragu-ragu, mengingat bagaimana ia harus memperlakukan bangsa mertuanya.
+Musa tidak segera bertindak, dan umat itulah yang menanggung akibatnya.
 
 Meski begitu, butuh waktu lama sebelum {{% bible val="Israel akhirnya memerangi orang Midian" link="num:31" lang="ind" %}} — {{% bible val="tindakan terakhir Musa sebelum kematiannya" link="num:31,1-2" lang="ind" %}}. Israel membunuh semua {{% bible val="laki-laki" link="num:31,1-2" lang="ind" %}} Midian dan {{% bible val="perempuan" link="num:31,15-17" lang="ind" %}} yang telah menyesatkan mereka.
 
@@ -49,6 +49,6 @@ Tetapi ada kejutan yang menanti dalam kisah ini: {{% bible val="Bileam termasuk 
 <a name="4803"></a>
 Jadi apa yang sebenarnya terjadi? Bileam tidak senang karena ia tidak dapat menyelesaikan tugasnya dan menyenangkan hati Balak, raja Moab. Selama Allah berpihak pada Israel, tidak ada yang bisa Bileam lakukan secara langsung. Tetapi jika ia bisa menciptakan jurang antara Allah dan Israel — atau bahkan memancing Allah untuk berbalik melawan umat-Nya sendiri — ia toh akan berhasil menyelesaikan tugasnya.
 
-Maka ia mengatur sebuah pesta, dan melaluinya ia menjauhkan Israel dari Allah menuju perempuan-perempuan Midian.
+Maka ia memberi nasihat ({{% bible val="Bilangan 31:16" link="num:31,16" lang="ind" %}}): undanglah Israel ke sebuah pesta. Melalui pesta itu ia menjauhkan Israel dari Allah menuju perempuan-perempuan Midian.
 
 Kesombongan Bileamlah yang membawa kehancurannya sendiri, tetapi kepemimpinan Musa — atau kurangnya kepemimpinan pada saat itu — yang menyebabkan kematian begitu banyak orang Israel.

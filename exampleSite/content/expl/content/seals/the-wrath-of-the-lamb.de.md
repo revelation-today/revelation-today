@@ -36,7 +36,7 @@ Achte darauf, wer hier spricht. Die Worte kommen von den Verängstigten, die sic
 <a name="0f00"></a>
 Gottes Zorn ist kein plötzlicher Wutausbruch.
 
-Auf der einen Seite wird den Menschen erst jetzt bewusst, was sie gegenüber Gott angehäuft haben. Auf der anderen Seite gilt: {{% int_link val="Gott hat immer wieder versucht, zu den Menschen durchzudringen, doch irgendwann endet dieses Bemühen" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
+Auf der einen Seite wird den Menschen erst jetzt bewusst, was sie gegenüber Gott angehäuft haben. Auf der anderen Seite gilt: {{% int_link val="Gott versucht bis zuletzt, zu den Menschen durchzudringen, doch es kommt ein Tag, an dem die Zeit zur Umkehr vorbei ist" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
 
 Das sollte nicht den Eindruck erwecken, Gott sei wie ein Sozialarbeiter, der zu helfen versucht und dann aufgibt, weil die Menschen nicht mitziehen wollen. Vielmehr kommt irgendwann der Zeitpunkt, an dem er die Menschen mit den Konsequenzen ihres eigenen Handelns konfrontiert.[^hanson]
 

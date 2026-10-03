@@ -36,7 +36,7 @@ Notice who is speaking. The words are spoken by the terrified, who hide because 
 <a name="7d6e"></a>
 God's wrath is not a sudden outburst of temper.
 
-On one hand, the people are only now realizing what they have built up against God. On the other, {{% int_link val="God has been trying to get through to the people, but there comes a point where that effort stops" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
+On one hand, the people are only now realizing what they have built up against God. On the other, {{% int_link val="God keeps trying to get through to the people to the very last, but there comes a day when the time for turning is over" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
 
 This shouldn't leave us with the impression that God is like a social worker who tries to help, then gives up because people are unwilling to cooperate. Rather, there comes a time when he confronts people with the consequences of their own actions.[^hanson]
 

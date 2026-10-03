@@ -28,6 +28,6 @@ Setelah kekalahannya, sebuah suara mengumumkan bahwa ini adalah kabar buruk bagi
 
 ## Gambaran penting
 
-- **Perempuan berselubungkan matahari** - bukan Maria seorang, melainkan umat Allah yang darinya Mesias lahir — mula-mula Israel, lalu jemaat yang dikejar naga itu.
+- **Perempuan berselubungkan matahari** - bukan Maria seorang, melainkan Israel, umat Allah yang darinya Mesias lahir. Jemaat adalah keturunannya yang lain, yang dikejar naga itu (12:17).
 
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/jesus/a-different-christmas-story" >}})

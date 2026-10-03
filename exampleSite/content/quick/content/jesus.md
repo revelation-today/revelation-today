@@ -28,6 +28,6 @@ After his defeat, a voice announces that this is bad news for earth ({{% bible v
 
 ## Key images
 
-- **The woman clothed with the sun** - not Mary alone but the people of God, out of whom the Messiah comes — first Israel, then the church the dragon pursues.
+- **The woman clothed with the sun** - not Mary alone but Israel, the people of God out of whom the Messiah comes. The church is the rest of her offspring, whom the dragon pursues (12:17).
 
 [Read the fuller explanation →]({{< relref "expl/content/jesus/a-different-christmas-story" >}})

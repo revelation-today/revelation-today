@@ -110,7 +110,7 @@ Beşinci mühür hemen ardından gelir. Tanıklıkları uğruna öldürülenler 
 
 Ve şimdi {{% bible val="Tanrı'nın belalarına" link="ezk:14,12-23" lang="tr" %}} — vahşi hayvanlar, kılıç, kıtlık ve salgın hastalık — yapılan gönderme de anlam kazanır. Dördüncü atlının tasvirinde zaten belirtilen doğrudan yankının ötesinde (Va.6:8), her atlıyı ipucu niteliğinde şöyle de eşleştirebiliriz:
 
-- İlk atlı vahşi hayvanları temsil eder, çünkü {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} {{% int_link val="iki canavarı çağırır" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve {{% bible val="aldatmayı" link="2co:11,14" lang="tr" %}} temsil eder — pek çok vaatte bulunur.
+- İlk atlı vahşi hayvanları temsil eder: Mesih'e benzeyen ama yalnızca fetheden aldatıcıdır ({{% bible val="aldatma" link="2co:11,14" lang="tr" %}}). Sahte vaadi {{% bible val="13. bölümdeki" link="rev:13" lang="tr" %}} {{% int_link val="iki canavarda" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} geri döner: birincide güç ve denetim, ikincide zenginlik ve güvenlik.
 - İkinci atlı kendisine verilen kılıcı temsil eder — 13. bölümdeki ilk canavar gibi, bu vaatlere inanmayan herkese saldırır.
 - Üçüncü atlı açlığı temsil eder, çünkü yoksullar onun altında acı çekecektir. Bu, uyumsuzlara ekonomik baskı uygulayarak onları yoksullaştırmak olarak da görülebilir — bu, ilerde ikinci canavarın alım satım yasağında (13:16–17) ve fahişenin {{% bible val="18. bölümdeki" link="rev:18" lang="tr" %}} ticaretinde yankılanır.
 - Son atlı, bu kötü üçlünün etkisini özetler.

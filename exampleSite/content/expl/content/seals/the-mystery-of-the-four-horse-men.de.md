@@ -110,7 +110,7 @@ Das fünfte Siegel folgt unmittelbar. Die um ihres Zeugnisses willen Getöteten 
 
 Und jetzt ergibt auch der Bezug zu {{% bible val="Gottes Plagen" link="ezk:14,12-23" lang="de" %}} Sinn — wilde Tiere, Schwert, Hunger und Pest. Über die bereits erwähnte direkte Entsprechung beim vierten Reiter (Offb 6,8) hinaus lässt sich jeder Reiter auch andeutungsweise so zuordnen:
 
-- Der erste Reiter steht für die wilden Tiere, denn er {{% int_link val="ruft die beiden Tiere" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} in {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} und verkörpert die {{% bible val="Täuschung" link="2co:11,14" lang="de" %}} — er macht viele Versprechungen.
+- Der erste Reiter steht für die wilden Tiere: Er ist der Verführer, der wie Christus aussieht und nur erobert ({{% bible val="Täuschung" link="2co:11,14" lang="de" %}}). Sein falsches Versprechen kehrt in den {{% int_link val="beiden Tieren" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} von {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} wieder: Macht und Kontrolle beim ersten, Wohlstand und Sicherheit beim zweiten.
 - Der zweite Reiter steht für das ihm gegebene Schwert — er greift jeden an, der sich nicht auf diese Versprechungen einlässt, genau wie das erste Tier in Kapitel 13.
 - Der dritte Reiter steht für den Hunger, denn die Armen leiden unter ihm. Das lässt sich auch als wirtschaftlicher Druck auf Andersdenkende verstehen, der sie verarmen lässt — später aufgenommen im Kauf- und Verkaufsverbot des zweiten Tieres (13,16–17) und im Handel der Hure in {{% bible val="Kapitel 18" link="rev:18" lang="de" %}}.
 - Der letzte Reiter fasst die Wirkung dieser bösen Dreiheit zusammen.

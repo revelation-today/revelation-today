@@ -38,7 +38,7 @@ Wie konnte das geschehen? {{% bible val="Gott ist zornig und befiehlt Mose, die 
 
 Im Nachgang {{% bible val="befiehlt Gott Mose, die Midianiter zu vernichten" link="num:25,16-18" lang="de" %}}.
 
-Hat Mose das nicht ernst genug genommen? Das erscheint {{% bible val="unwahrscheinlich" link="exo:32,19" lang="de" %}}; vielleicht war er angesichts dessen, wie er mit dem Volk seines Schwiegervaters umgehen sollte, einfach zögerlicher.
+Mose handelte nicht sofort, und das Volk bezahlte dafür.
 
 Dennoch dauert es lange, bis {{% bible val="Israel schließlich gegen die Midianiter kämpft" link="num:31" lang="de" %}} — {{% bible val="Moses letzte Tat vor seinem Tod" link="num:31,2" lang="de" %}}. Israel tötet alle midianitischen {{% bible val="Männer" link="num:31,2" lang="de" %}} und die {{% bible val="Frauen" link="num:31,15-17" lang="de" %}}, die sie verführt hatten.
 
@@ -49,6 +49,6 @@ Doch es gibt eine Überraschung am Ende des Berichts: {{% bible val="Bileam ist 
 <a name="4803"></a>
 Was ging hier eigentlich vor? Bileam war unglücklich darüber, seinen Auftrag nicht erfüllen und Balak, den König der Moabiter, nicht zufriedenstellen zu können. Solange Gott zu Israel stand, konnte Bileam nichts direkt ausrichten. Aber wenn er einen Keil zwischen Gott und Israel treiben könnte — oder Gott sogar dazu bringen könnte, sich gegen sein eigenes Volk zu wenden —, hätte er seinen Auftrag am Ende doch noch erfüllt.
 
-Also arrangiert er ein Fest und lockt Israel dadurch von Gott weg, hin zu den midianitischen Frauen.
+Also gibt er einen Rat ({{% bible val="4. Mose 31,16" link="num:31,16" lang="de" %}}): Ladet Israel zu einem Fest ein. Dadurch lockt er Israel von Gott weg, hin zu den midianitischen Frauen.
 
 Es war Bileams Stolz, der seinen eigenen Untergang herbeiführte, aber es war Moses Führung — oder der Mangel daran in diesem Moment —, die den Tod so vieler Israeliten zur Folge hatte.

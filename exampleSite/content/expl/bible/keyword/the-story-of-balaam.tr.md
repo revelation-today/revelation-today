@@ -38,7 +38,7 @@ Bu nasıl olabildi? {{% bible val="Tanrı öfkelenir ve Musa’ya, buna göz yum
 
 Bunun ardından {{% bible val="Tanrı, Musa’ya Midyanlılar’ı yok etmesini buyurur" link="num:25,16-18" lang="tr" %}}.
 
-Musa bunu yeterince ciddiye almadı mı? Bu pek {{% bible val="olası görünmüyor" link="exo:32,19" lang="tr" %}}; belki de kayınpederinin halkıyla nasıl başa çıkacağı konusunda yalnızca daha çekingen davrandı.
+Musa hemen harekete geçmedi ve bunun bedelini halk ödedi.
 
 Yine de {{% bible val="İsrail’in sonunda Midyanlılar’a karşı savaşması" link="num:31" lang="tr" %}} — {{% bible val="Musa’nın ölümünden önceki son eylemi" link="num:31,1-2" lang="tr" %}} — uzun zaman alır. İsrail, Midyanlı {{% bible val="erkeklerin" link="num:31,1-2" lang="tr" %}} hepsini ve kendilerini ayartmış olan {{% bible val="kadınları" link="num:31,15-17" lang="tr" %}} öldürür.
 
@@ -49,6 +49,6 @@ Ama anlatıda bir sürpriz daha vardır: {{% bible val="öldürülenler arasınd
 <a name="e4ea"></a>
 Peki gerçekte neler oluyordu? Balam, görevini tamamlayıp Moav kralı Balak’ı memnun edemediği için mutsuzdu. Tanrı İsrail’in yanında durduğu sürece Balam’ın doğrudan yapabileceği bir şey yoktu. Ama Tanrı ile İsrail arasına bir kama sokabilirse — hatta Tanrı’yı kendi halkına karşı döndürmeyi başarabilirse — sonunda görevini yerine getirmiş olacaktı.
 
-Böylece bir şölen düzenler ve bu yolla İsrail’i Tanrı’dan uzaklaştırıp Midyanlı kadınlara yöneltir.
+Böylece bir öğüt verir ({{% bible val="Çölde Sayım 31:16" link="num:31,16" lang="tr" %}}): İsrail’i bir şölene çağırın. Bu yolla İsrail’i Tanrı’dan uzaklaştırıp Midyanlı kadınlara yöneltir.
 
 Onu alaşağı eden kendi gururuydu, ama bunca İsrailli’nin ölümüne yol açan da Musa’nın liderliği — ya da o anda liderlikten yoksun kalışıydı.

@@ -38,7 +38,7 @@ How could this happen? {{% bible val="God is angry and commands Moses to kill th
 
 In the aftermath, {{% bible val="God commands Moses to destroy the Midianites" link="num:25,16-18" lang="en" %}}.
 
-Did Moses fail to take this seriously? That seems {{% bible val="unlikely" link="exo:32,19" lang="en" %}}; perhaps he was simply more hesitant, given how to deal with his father-in-law’s people.
+Moses was slow to act, and the people paid for it.
 
 Even so, it takes a long time before {{% bible val="Israel finally fights against the Midianites" link="num:31" lang="en" %}} — {{% bible val="Moses’ last action before he dies" link="num:31,2" lang="en" %}}. Israel kills all the Midianite {{% bible val="men" link="num:31,2" lang="en" %}} and the {{% bible val="women" link="num:31,15-17" lang="en" %}} who had deceived them.
 
@@ -49,6 +49,6 @@ But there is a surprise waiting in the account: {{% bible val="Balaam is among t
 <a name="6bd5"></a>
 So what was actually going on? Balaam was unhappy that he could not finish his commission and please Balak, king of the Moabites. As long as God stood with Israel, there was nothing Balaam could do directly. But if he could drive a wedge between God and Israel — or even provoke God to turn against His own people — he would have accomplished his task after all.
 
-So he arranges a feast, and through it draws Israel away from God toward the Midianite women.
+So he gives advice ({{% bible val="Numbers 31:16" link="num:31,16" lang="en" %}}): invite Israel to a feast. Through it he draws Israel away from God toward the Midianite women.
 
 It was Balaam’s pride that brought about his own downfall, but it was Moses’ leadership — or lack of it in that moment — that led to the death of so many Israelites.

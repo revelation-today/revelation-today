@@ -36,7 +36,7 @@ Kimin konuştuğuna dikkat edin. Bu sözleri dehşete kapılmış olanlar söyle
 <a name="7c69"></a>
 Tanrı'nın gazabı ani bir öfke patlaması değildir.
 
-Bir yandan, insanlar Tanrı'ya karşı biriktirdiklerinin ancak şimdi farkına varmaktadır. Öte yandan, {{% int_link val="Tanrı insanlara ulaşmaya çalışmıştır, ama bu çabanın durduğu bir nokta gelir" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
+Bir yandan, insanlar Tanrı'ya karşı biriktirdiklerinin ancak şimdi farkına varmaktadır. Öte yandan, {{% int_link val="Tanrı insanlara son ana kadar ulaşmaya çalışır, ama dönüş zamanının bittiği bir gün gelir" link="/expl/content/bowls/the-bowls-of-wrath" %}}.
 
 Bu, Tanrı'nın yardım etmeye çalışıp sonra insanlar işbirliği yapmak istemediği için vazgeçen bir sosyal hizmet görevlisi gibi olduğu izlenimini vermemelidir. Aksine, bir zaman gelir ki O, insanları kendi eylemlerinin sonuçlarıyla yüzleştirir.[^hanson]
 
