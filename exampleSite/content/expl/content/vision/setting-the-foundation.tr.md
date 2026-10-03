@@ -5,7 +5,7 @@ base: /quick/content/vision
 story: /story/general/tour
 story_anchor: vision
 sources: 
-    - pages: 26, 181–222
+    - pages: 26, 93, 181–222
       ref: beale_rev
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
@@ -51,7 +51,7 @@ Bir sonraki ayet aciliyeti daha da netleştirir: “Bu peygamberlik sözlerini y
 - Zaman yakındır. Fazla vaktimiz yok; şimdi harekete geçmeliyiz. Son 2000 yılda bu konuda hiçbir şey değişmedi.
 - Bu bir peygamberliktir: Kilise’yi harekete geçmeye çağıran acil bir hatırlatmadır.
 
-“Zaman yakındır” ifadesi, sonun rastgele herhangi bir anda gerçekleşebileceği anlamına gelmez; bu, aynı kökü kullanan abartılı bir yakınlık ifadesidir (Yunanca *engys/engizō*, “yakın, yaklaşmış”) — {{% bible val="Markos'un" link="mrk:1,15" lang="tr" %}} Tanrı’nın egemenliğinin çoktan yaklaştığını anlatmak için [benzer bir yapıda](https://biblehub.com/interlinear/mark/1-15.htm) kullandığı kökle aynıdır.
+“Zaman yakındır” ifadesi, sonun rastgele herhangi bir anda gerçekleşebileceği anlamına gelmez. Belirleyici zamanın çoktan başladığı ve henüz tamamlanmadığı anlamına gelir.[^near] Yuhanna burada şu kökü kullanır (Yunanca *engys/engizō*, “yakın, yaklaşmış”) — {{% bible val="Markos'un" link="mrk:1,15" lang="tr" %}} Tanrı’nın egemenliğinin çoktan yaklaştığını anlatmak için [benzer bir yapıda](https://biblehub.com/interlinear/mark/1-15.htm) kullandığı kökle aynıdır.
 
 ## Taban
 
@@ -106,3 +106,5 @@ Herkes böyle karşılık vermeyecek. Ulusları tövbeye getiren aynı geliş, O
 Zaman yakındır ve Kilise harekete geçmelidir. İsa her şeyi çoktan tamamladığı için, Kilise güvenle öne çıkabilir ve uluslara ulaşabilir.
 
 [^mourn]: Beale, s. 26. Grekçe Eski Antlaşma'da "yeryüzünün bütün oymakları" her zaman bütün ulusları ifade eder (Yar. 12:3; 28:14; Zek. 14:17).
+
+[^near]: Beale, s. 93.

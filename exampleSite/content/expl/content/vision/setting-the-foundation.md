@@ -5,7 +5,7 @@ base: /quick/content/vision
 story: /story/general/tour
 story_anchor: vision
 sources: 
-    - pages: 26, 181–222
+    - pages: 26, 93, 181–222
       ref: beale_rev
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
@@ -51,7 +51,7 @@ The verse after that makes the urgency even clearer: "Blessed is the one who rea
 - The time is near. There isn't much time; we should act now. Nothing has changed about that in the last 2,000 years.
 - It is a prophecy: an urgent reminder to the Church to act.
 
-"The time is near" doesn't mean the end can happen at any random moment; it's an exaggerated expression of imminence, using the same root word (Greek *engys/engizō*, "near, has drawn near") that {{% bible val="Mark" link="mrk:1,15" lang="en" %}} uses [in a related construction](https://biblehub.com/interlinear/mark/1-15.htm) to describe how the kingdom of God has already come near.
+"The time is near" doesn't mean the end can happen at any random moment. It means the decisive time has already begun and is not yet complete.[^near] John uses the same root word (Greek *engys/engizō*, "near, has drawn near") that {{% bible val="Mark" link="mrk:1,15" lang="en" %}} uses [in a related construction](https://biblehub.com/interlinear/mark/1-15.htm) to describe how the kingdom of God has already come near.
 
 ## The base
 
@@ -106,3 +106,5 @@ Not everyone will respond this way. The same coming that brings the nations to r
 The time is near, and the Church should act. Because Jesus has already accomplished everything, the Church can step forward with confidence and reach the nations.
 
 [^mourn]: Beale, p. 26. In the Greek Old Testament "all the tribes of the earth" always means all the nations (Gen 12:3; 28:14; Zech 14:17).
+
+[^near]: Beale, p. 93.

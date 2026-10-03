@@ -5,7 +5,7 @@ base: /quick/content/vision
 story: /story/general/tour
 story_anchor: vision
 sources: 
-    - pages: 26, 181–222
+    - pages: 26, 93, 181–222
       ref: beale_rev
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
@@ -51,7 +51,7 @@ Der Vers danach macht die Dringlichkeit noch deutlicher: „Glückselig ist, der
 - Die Zeit ist nahe. Es bleibt nicht viel Zeit; wir sollten jetzt handeln. Daran hat sich in den letzten 2000 Jahren nichts geändert.
 - Es ist eine Prophetie: eine eindringliche Erinnerung an die Gemeinde, zu handeln.
 
-„Die Zeit ist nahe" bedeutet nicht, dass das Ende in jedem beliebigen Moment eintreten kann; es ist eine zugespitzte Ausdrucksweise für unmittelbare Nähe, die dieselbe Wurzel verwendet (griechisch *engys/engizō*, „nahe, ist nahegekommen"), die auch {{% bible val="Markus" link="mrk:1,15" lang="de" %}} [in einer verwandten Konstruktion](https://biblehub.com/interlinear/mark/1-15.htm) gebraucht, um zu beschreiben, dass das Reich Gottes bereits nahegekommen ist.
+„Die Zeit ist nahe" bedeutet nicht, dass das Ende in jedem beliebigen Moment eintreten kann. Es bedeutet, dass die entscheidende Zeit schon begonnen hat und noch nicht vollendet ist.[^near] Johannes verwendet dieselbe Wurzel (griechisch *engys/engizō*, „nahe, ist nahegekommen"), die auch {{% bible val="Markus" link="mrk:1,15" lang="de" %}} [in einer verwandten Konstruktion](https://biblehub.com/interlinear/mark/1-15.htm) gebraucht, um zu beschreiben, dass das Reich Gottes bereits nahegekommen ist.
 
 ## Die Basis
 
@@ -106,3 +106,5 @@ Nicht alle werden so reagieren. Dasselbe Kommen, das die Völker zur Umkehr füh
 Die Zeit ist nahe, und die Gemeinde soll handeln. Weil Jesus bereits alles vollbracht hat, kann die Gemeinde voller Zuversicht vorangehen und die Völker erreichen.
 
 [^mourn]: Beale, S. 26. Im griechischen Alten Testament meint „alle Stämme der Erde“ immer alle Völker (1 Mose 12,3; 28,14; Sach 14,17).
+
+[^near]: Beale, S. 93.

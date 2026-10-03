@@ -5,7 +5,7 @@ base: /quick/content/vision
 story: /story/general/tour
 story_anchor: vision
 sources: 
-    - pages: 26, 181–222
+    - pages: 26, 93, 181–222
       ref: beale_rev
 prev: /expl/background/israel/israel-and-the-church
 next: /expl/content/vision/the-vision
@@ -51,7 +51,7 @@ Ayat sesudahnya membuat urgensinya semakin jelas: "Berbahagialah ia yang membaca
 - Waktunya sudah dekat. Tidak banyak waktu tersisa; kita harus bertindak sekarang. Tidak ada yang berubah dalam hal itu selama 2.000 tahun terakhir.
 - Ini adalah sebuah nubuat: sebuah peringatan mendesak bagi jemaat untuk bertindak.
 
-"Waktunya sudah dekat" bukan berarti akhir zaman bisa terjadi kapan saja secara acak; ini adalah ungkapan yang melebih-lebihkan kedekatan waktu, menggunakan akar kata yang sama (bahasa Yunani *engys/engizō*, "dekat, telah mendekat") yang juga dipakai {{% bible val="Injil Markus" link="mrk:1,15" lang="ind" %}} [dalam konstruksi yang berkaitan](https://biblehub.com/interlinear/mark/1-15.htm) untuk menggambarkan bagaimana Kerajaan Allah telah mendekat.
+"Waktunya sudah dekat" bukan berarti akhir zaman bisa terjadi kapan saja secara acak. Artinya, waktu yang menentukan itu sudah mulai dan belum selesai.[^near] Yohanes memakai akar kata yang sama (bahasa Yunani *engys/engizō*, "dekat, telah mendekat") yang juga dipakai {{% bible val="Injil Markus" link="mrk:1,15" lang="ind" %}} [dalam konstruksi yang berkaitan](https://biblehub.com/interlinear/mark/1-15.htm) untuk menggambarkan bagaimana Kerajaan Allah telah mendekat.
 
 ## Dasar
 
@@ -106,3 +106,5 @@ Tidak semua orang akan menanggapi seperti ini. Kedatangan yang sama yang membawa
 Waktunya sudah dekat, dan jemaat harus bertindak. Karena Yesus sudah menyelesaikan segalanya, jemaat dapat melangkah maju dengan penuh keyakinan dan menjangkau bangsa-bangsa.
 
 [^mourn]: Beale, hlm. 26. Dalam Perjanjian Lama berbahasa Yunani, "semua suku di bumi" selalu berarti semua bangsa (Kej. 12:3; 28:14; Za. 14:17).
+
+[^near]: Beale, hlm. 93.
