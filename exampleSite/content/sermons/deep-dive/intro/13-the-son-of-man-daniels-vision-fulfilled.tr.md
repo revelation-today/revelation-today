@@ -46,30 +46,31 @@ hakkındaki dili kısmi bir çözüm sunuyor: belki "kutsal halk" o gelecek kal�
 İsrail'in tümüne değil. Ama bu bile tapınma sorununu tam olarak çözmüyor — bu tam olarak İsa'nın
 kendi kimliğinin çözdüğü gerginliktir.
 
-**İsa'nın nasıl cevap olduğu ve bunun neden gerçekten rahatsız edici olduğu.** İsa kendisini
-neredeyse münhasıran "İnsanoğlu" olarak adlandırdığında, mütevazı bir unvan seçmiyor — bu tüm
-görüyü kendi gerçekleşmesi olarak talep ediyor ve Tanrı olduğu için, görünün tanımladığı tapınmaya
-layıktır ({{% bible val="Vahiy 5:6-14" link="rev:5,6-14" lang="tr" %}}). İsa, İsrail'in
-kalıntısıdır — bu rolü doldurmak için başka kimse kalmamıştır, çünkü İsrail'in kendi liderliği
-O'na karşı çıktı. Görünün "kutsal halka karşı savaşan" ve onları "bir vakit, vakitler ve yarım
-vakit" boyunca yenen "boynuz"u, doğrudan İsa'nın kendi acı çekmesine haritalanır: hizmeti kabaca
-üç yıl sürdü ve üçüncü günde dirildi. Ve — kaynak makalenin dürüstçe belirttiği rahatsız edici
-kısım budur — İnsanoğlu'na karşı çıkan görünün düşmanları, birçok okuyucunun içgüdüsel olarak
-varsaydığı gibi Romalılar değildir. İncillerin metni açıktır: O'na karşı komplo kuran, İsrail'in
-kendi dini liderliğiydi ({{% bible val="Yuhanna 11:45-54" link="jhn:11,45-54" lang="tr" %}}),
-idamı için baskı yapan ({{% bible val="Yuhanna 19:1-15" link="jhn:19,1-15" lang="tr" %}}) ve
-İsa'nın kendi sözleriyle, kanunun kendisini çarpıtmış olan
-({{% bible val="Matta 5:17-48" link="mat:5,17-48" lang="tr" %}}). Kendi halkı, O'nu reddederek
-O'nun büyük düşmanı haline geldi.
+**İsa'nın nasıl cevap olduğu.** İsa kendisini neredeyse münhasıran "İnsanoğlu" olarak
+adlandırdığında, mütevazı bir unvan seçmiyor — bu tüm görüyü kendi gerçekleşmesi olarak talep
+ediyor ve Tanrı olduğu için, görünün tanımladığı tapınmaya layıktır
+({{% bible val="Vahiy 5:6-14" link="rev:5,6-14" lang="tr" %}}). İsa, İsrail'in kalıntısıdır — bu
+rolü doldurmak için geriye başka kimse kalmamıştır. Görümdeki kutsal halk gibi O da teslim edilir,
+yenilir ve öldürülür, sonra aklanır: mahkeme toplanır ve krallık O'na verilir. Yenilgi zaferden
+önce gelir; O'nun için de onlar için de.
 
-**Bunun neden gerçek pastoral özen gerektirdiği, zafer kazanmışlık değil.** Bu, üzerinde
-oturulması zor bir gerçektir ve kaynak malzemenin kendisi burada dikkatlidir: "bunun için onları
-yargılama konusunda çok dikkatli olmalıyız, çünkü kilise de daha iyisini yapmadı." Nokta, birinci
-yüzyıl Yahudi liderliğini varsayılan bir ahlaki üstünlük konumundan mahkum etmek değildir —
-argümanın tüm gücü, İsa'nın bu ihanete verdiği tepkinin bağışlama olduğudur ("
-{{% bible val="Baba, onları bağışla" link="luk:23,34" lang="tr" %}}") ve görevinin hiçbir zaman
-İsrail'i terk etmek olmadığı, onu restore etmek, kiliseyi onun yerine geçen bir şeyle
-değiştirmek yerine ona katmak olduğudur (8. oturumu hatırlayın).
+**Boynuz kimdir?** İsrail değil. Daniel'de boynuz dördüncü canavarın son kralıdır ve Vahiy onu
+kendi canavarında, kutsallara karşı savaşan güçte yeniden ele alır
+({{% bible val="Vahiy 13:5-7" link="rev:13,5-7" lang="tr" %}}). Bu güç çarmıhta, olaya katılan
+herkes aracılığıyla işbaşındaydı: buyruğu veren Romalı vali, onu yerine getiren askerler ve O'na
+karşı düzen kuran ({{% bible val="Yuhanna 11:45-54" link="jhn:11,45-54" lang="tr" %}}), idamını
+isteyen ({{% bible val="Yuhanna 19:1-15" link="jhn:19,1-15" lang="tr" %}}) kendi halkının
+önderleri. "Kendilerininki O'nu kabul etmedi"
+({{% bible val="Yuhanna 1:11" link="jhn:1,11" lang="tr" %}}) — ve bu, öykünün hükmü değil,
+acısıdır.
+
+**Bunun neden gerçek pastoral özen gerektirdiği, zafer kazanmışlık değil.** Onları bu yüzden
+yargılarken çok dikkatli olmalıyız, çünkü kilise de bundan daha iyi bir sınav vermemiştir. Amaç,
+birinci yüzyılın Yahudi önderlerini varsayılan bir ahlaki üstünlük konumundan mahkûm etmek
+değildir — İsa'nın kendi tepkisi bağışlamaydı
+("{{% bible val="Baba, onları bağışla" link="luk:23,34" lang="tr" %}}") ve görevi hiçbir zaman
+İsrail'i terk etmek değil, onu restore etmek, kiliseyi onun yerine geçen bir şeyle değiştirmek
+yerine ona katmaktı (8. oturumu hatırlayın).
 
 **Düzeltmeye değer bir alıntı.** Kaynak makale başlangıçta, iki tanığın "şiddet kullanmadığı...
 ama yargıyı Tanrı'ya bıraktığı" iddiasını desteklemek için
@@ -82,7 +83,7 @@ kapatılarak değil, doğrudan ifade edilmelidir.
 
 **Kiliseye bıraktığı miras.** Daniel 2'de krallıkları yok eden taş, yeryüzünün tamamını
 doldurana kadar büyür — kilise dahil, Yeni İsrail'in tüm dünyaya ulaşmasının bir resmi. Aynı
-kalıp, Vahiy 11'deki 3,5 yıl hükmeden (12. oturum) ve dirilmeden önce 3,5 gün öldürülen iki
+kalıp, Vahiy 11'deki 3,5 yıl peygamberlik eden (12. oturum) ve dirilmeden önce 3,5 gün öldürülen iki
 tanıkta yeniden ortaya çıkar, İsa'nın aynı kalıbını yaşayarak: sadelik ve tövbe, Ruh'la dolu,
 sadık tanıklar, görünüşte yenilmiş, sonra doğrulanmış ve yüceltilmiş.
 
@@ -95,14 +96,14 @@ sadık tanıklar, görünüşte yenilmiş, sonra doğrulanmış ve yüceltilmiş
 2. Daniel 7'de tapınma alan bir insan figürünün yarattığı belirli teolojik sorun nedir — ve
    İsa'nın hem tam insan hem de tam Tanrı kimliği bunu, sıradan İsrail'in yapamayacağı bir
    şekilde nasıl çözüyor?
-3. Kaynak malzeme, "İnsanoğlu"na karşı çıkan "boynuz"un Roma değil İsrail'in kendi liderliği
-   olduğunda neden ısrar ediyor? Bu yeniden çerçevelemenin İncillerin çile anlatılarını okuma
-   şeklimizi ne değiştiriyor?
+3. Daniel'de boynuz kutsal halka karşı savaşır; Vahiy'de bunu canavar yapar (13:5-7). Çarmıhta
+   Romalı bir vali, askerler ve İsa'nın kendi halkının önderleri, hepsi rol aldı. Görümdeki
+   düşmanın bir halk değil de bu güç olması neden önemlidir?
 
 **Bizim için ne anlama geliyor:**
-4. Bu oturum gerçekten rahatsız edici bir şeyi adlandırıyor — İsa'nın kendi halkı O'nun düşmanı
-   haline geldi. Kilisenin bugün, Tanrı'nın gerçekte yaptığı şeye, beklentilerimizle
-   uyuşmadığı için karşı çıkarak, aynı kalıbı tekrarlama riskini nerede görüyorsunuz?
+4. "Kendilerininki O'nu kabul etmedi" (Yuhanna 1:11). Kilisenin bugün aynı tehlikeyle — Tanrı'nın
+   gerçekte yaptığı şeye, beklentilerimizle uyuşmadığı için karşı çıkma tehlikesiyle — nerede
+   karşı karşıya olduğunu görüyorsunuz?
 5. İsa'nın ihanete tepkisi "Baba, onları bağışla" idi. Sizi veya kilisenizi gerçekten haksızlığa
    uğratmış birine karşı aynı tutumu nerede uzatmanız gerekiyor?
 6. İki tanık "İnsanoğlu" kalıbını yaşıyor: görünürdeki yenilgiyi doğrulama takip ediyor. Kendi

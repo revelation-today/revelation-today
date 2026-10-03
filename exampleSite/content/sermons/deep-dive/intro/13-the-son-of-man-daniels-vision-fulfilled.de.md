@@ -49,33 +49,32 @@ Lösung: Vielleicht bezieht sich „das heilige Volk" auf diesen zukünftigen Ü
 Israel als Ganzes. Aber selbst das löst das Anbetungsproblem nicht vollständig — was genau die
 Spannung ist, die Jesu eigene Identität auflöst.
 
-**Wie Jesus die Antwort ist, und warum das wirklich unbequem ist.** Wenn Jesus sich fast
-ausschließlich „Menschensohn" nennt, wählt er keinen bescheidenen Titel — er beansprucht diese
-ganze Vision als ihre Erfüllung in ihm selbst, und weil er Gott ist, ist er der Anbetung würdig,
-die die Vision beschreibt ({{% bible val="Offenbarung 5,6-14" link="rev:5,6-14" lang="de" %}}).
-Jesus ist der Überrest Israels — es gibt niemanden sonst, der übrig ist, um diese Rolle
-auszufüllen, da Israels eigene Führung sich gegen ihn stellte. Das „Horn" der Vision, das „Krieg
-gegen das heilige Volk führt" und es für „eine Zeit, Zeiten und eine halbe Zeit" besiegt, bildet
-sich direkt auf Jesu eigenes Leiden ab: Sein Dienst dauerte etwa drei Jahre, und er stand am
-dritten Tag auf. Und — das ist der unbequeme Teil, den der Quellartikel ehrlich benennt — die
-Feinde der Vision, die sich dem Menschensohn widersetzen, sind nicht die Römer, wie viele Leser
-instinktiv annehmen. Der Text der Evangelien ist eindeutig: Es war Israels eigene religiöse
-Führung, die sich gegen ihn verschwor
-({{% bible val="Johannes 11,45-54" link="jhn:11,45-54" lang="de" %}}), auf seine Hinrichtung
-drängte ({{% bible val="Johannes 19,1-15" link="jhn:19,1-15" lang="de" %}}), und, in Jesu eigenen
-Worten, das Gesetz selbst verdreht hatte
-({{% bible val="Matthäus 5,17-48" link="mat:5,17-48" lang="de" %}}). Sein eigenes Volk wurde durch
-seine Ablehnung zu seinem größten Feind.
+**Wie Jesus die Antwort ist.** Wenn Jesus sich fast ausschließlich „Menschensohn" nennt, wählt er
+keinen bescheidenen Titel — er beansprucht diese ganze Vision als ihre Erfüllung in ihm selbst, und
+weil er Gott ist, ist er der Anbetung würdig, die die Vision beschreibt
+({{% bible val="Offenbarung 5,6-14" link="rev:5,6-14" lang="de" %}}). Jesus ist der Überrest
+Israels — es gibt sonst niemanden mehr, der diese Rolle ausfüllen könnte. Wie das heilige Volk in
+der Vision wird er ausgeliefert, besiegt und getötet und dann ins Recht gesetzt: Das Gericht tritt
+zusammen, und das Königreich wird ihm gegeben. Die Niederlage kommt vor dem Sieg, für ihn wie für
+sie.
 
-**Warum das echte seelsorgerliche Sorgfalt verdient, keinen Triumphalismus.** Das ist eine harte
-Wahrheit, mit der man sich auseinandersetzen muss, und das Quellmaterial selbst ist hier
-vorsichtig: „Wir sollten sehr vorsichtig sein, sie dafür zu verurteilen, da die Kirche es nicht
-besser gemacht hat." Der Punkt ist nicht, die jüdische Führung des ersten Jahrhunderts aus einer
-angenommenen moralischen Überlegenheit heraus zu verurteilen — die ganze Stoßrichtung des
-Arguments ist, dass Jesu eigene Antwort auf diesen Verrat Vergebung war
-(„{{% bible val="Vater, vergib ihnen" link="luk:23,34" lang="de" %}}"), und dass seine Mission nie
-die Aufgabe Israels war, sondern seine Wiederherstellung, wobei die Kirche eingegliedert wird,
-statt Israel durch etwas anderes zu ersetzen (erinnert euch an Sitzung 8).
+**Wer ist das Horn?** Nicht Israel. Bei Daniel ist das Horn der letzte König des vierten Tieres,
+und die Offenbarung nimmt es in ihrem eigenen Tier auf, der Macht, die Krieg gegen die Heiligen
+führt ({{% bible val="Offenbarung 13,5-7" link="rev:13,5-7" lang="de" %}}). Diese Macht war am
+Kreuz am Werk durch alle, die beteiligt waren: einen römischen Statthalter, der den Befehl gab,
+Soldaten, die ihn ausführten, und Führer seines eigenen Volkes, die sich gegen ihn verschworen
+({{% bible val="Johannes 11,45-54" link="jhn:11,45-54" lang="de" %}}) und auf seine Hinrichtung
+drängten ({{% bible val="Johannes 19,1-15" link="jhn:19,1-15" lang="de" %}}). „Die Seinen nahmen
+ihn nicht auf" ({{% bible val="Johannes 1,11" link="jhn:1,11" lang="de" %}}) — und das ist der
+Schmerz dieser Geschichte, nicht ihr Urteil.
+
+**Warum das echte seelsorgerliche Sorgfalt verdient, keinen Triumphalismus.** Wir sollten sehr
+vorsichtig sein, sie dafür zu verurteilen, denn die Gemeinde hat es nicht besser gemacht. Es geht
+nicht darum, jüdische Führer des ersten Jahrhunderts aus einer angenommenen moralischen
+Überlegenheit heraus zu verurteilen — Jesu eigene Antwort war Vergebung
+(„{{% bible val="Vater, vergib ihnen" link="luk:23,34" lang="de" %}}"), und seine Mission war nie
+die Aufgabe Israels, sondern seine Wiederherstellung, wobei die Kirche eingegliedert wird, statt
+Israel durch etwas anderes zu ersetzen (erinnert euch an Sitzung 8).
 
 **Ein Zitat, das eine Korrektur verdient.** Der Quellartikel zitierte ursprünglich
 {{% bible val="Offenbarung 11,5" link="rev:11,5" lang="de" %}} zur Stützung der Behauptung, die
@@ -90,7 +89,7 @@ Vergeltung erinnert.
 **Das Erbe, das das für die Kirche hinterlässt.** Der Stein, der die Reiche in Daniel 2 zerstört,
 wächst, um die ganze Erde zu füllen — ein Bild für das neue Israel, die Kirche eingeschlossen, die
 die ganze Welt erreicht. Dasselbe Muster taucht bei den zwei Zeugen in Offenbarung 11 wieder auf,
-die 3,5 Jahre herrschen (Sitzung 12) und für 3,5 Tage getötet werden, bevor sie auferweckt werden —
+die 3,5 Jahre weissagen (Sitzung 12) und für 3,5 Tage getötet werden, bevor sie auferweckt werden —
 sie leben dasselbe Muster wie Jesus: Einfachheit und Umkehr, erfüllt vom Geist, treue Zeugen,
 scheinbar besiegt, dann gerechtfertigt und erhöht.
 
@@ -103,14 +102,14 @@ scheinbar besiegt, dann gerechtfertigt und erhöht.
 2. Was ist das konkrete theologische Problem, das dadurch entsteht, dass eine menschliche Gestalt
    in Daniel 7 Anbetung empfängt — und wie löst Jesu Identität als voll Mensch und voll Gott das
    auf eine Weise, die das gewöhnliche Israel nicht konnte?
-3. Warum besteht das Quellmaterial darauf, dass es Israels eigene Führung war, nicht Rom, die als
-   das „Horn" fungierte, das sich dem Menschensohn widersetzte? Was verändert diese Umdeutung
-   daran, wie wir die Passionsgeschichten der Evangelien lesen?
+3. Bei Daniel führt das Horn Krieg gegen das heilige Volk; in der Offenbarung tut es das Tier
+   (13,5-7). Am Kreuz waren ein römischer Statthalter, Soldaten und Führer von Jesu eigenem Volk
+   beteiligt. Warum ist es wichtig, dass der Feind der Vision diese Macht ist und nicht ein Volk?
 
 **Was das für uns bedeutet:**
-4. Diese Sitzung benennt etwas wirklich Unbequemes — Jesu eigenes Volk wurde sein Feind. Wo seht
-   ihr die Kirche heute in Gefahr, dasselbe Muster zu wiederholen, sich dem zu widersetzen, was
-   Gott tatsächlich tut, weil es nicht unseren Erwartungen entspricht?
+4. „Die Seinen nahmen ihn nicht auf" (Johannes 1,11). Wo seht ihr die Kirche heute in derselben
+   Gefahr — sich dem zu widersetzen, was Gott tatsächlich tut, weil es nicht unseren Erwartungen
+   entspricht?
 5. Jesu Antwort auf Verrat war „Vater, vergib ihnen". Wo müsst ihr dieselbe Haltung gegenüber
    jemandem einnehmen, der euch oder eurer Gemeinde wirklich Unrecht getan hat?
 6. Die zwei Zeugen leben das „Menschensohn"-Muster: scheinbare Niederlage, gefolgt von

@@ -46,29 +46,30 @@ one day rule the world. But there's a real theological problem: the Son of Man i
 people" refers to that future remnant, not Israel as a whole. But even that doesn't fully resolve
 the worship problem — which is exactly the tension Jesus's own identity resolves.
 
-**How Jesus is the answer, and why that's genuinely uncomfortable.** When Jesus calls Himself
-"Son of Man" almost exclusively, He isn't choosing a humble title — He's claiming this entire
-vision as His own fulfillment, and because He is God, He is worthy of the worship the vision
-describes ({{% bible val="Revelation 5:6-14" link="rev:5,6-14" lang="en" %}}). Jesus is the
-remnant of Israel — there is no one else left to fill that role, since Israel's own leadership
-opposed Him. The vision's "horn" that "wages war against the holy people" and defeats them for
-"a time, times, and half a time" maps directly onto Jesus's own suffering: His ministry lasted
-roughly three years, and He rose on the third day. And — this is the uncomfortable part the
-source article names honestly — the vision's enemies who oppose the Son of Man are not the
-Romans, as many readers instinctively assume. The text of the Gospels is specific: it was
-Israel's own religious leadership who conspired against Him
-({{% bible val="John 11:45-54" link="jhn:11,45-54" lang="en" %}}), pressed for His execution
-({{% bible val="John 19:1-15" link="jhn:19,1-15" lang="en" %}}), and, in Jesus's own words, had
-twisted the law itself ({{% bible val="Matthew 5:17-48" link="mat:5,17-48" lang="en" %}}). His
-own people became His great enemy by rejecting Him.
+**How Jesus is the answer.** When Jesus calls Himself "Son of Man" almost exclusively, He isn't
+choosing a humble title — He's claiming this entire vision as His own fulfillment, and because He
+is God, He is worthy of the worship the vision describes
+({{% bible val="Revelation 5:6-14" link="rev:5,6-14" lang="en" %}}). Jesus is the remnant of
+Israel — there is no one else left to fill that role. Like the holy people in the vision, He is
+handed over, defeated and killed, and then vindicated: the court sits, and the kingdom is given to
+Him. Defeat comes before victory, for Him as for them.
 
-**Why this deserves real pastoral care, not triumphalism.** This is a hard truth to sit with, and
-the source material itself is careful here: "we should be very careful about judging them for
-it, since the church has done no better." The point isn't to condemn first-century Jewish
-leadership from a position of assumed moral superiority — the whole thrust of the argument is
-that Jesus's own response to this betrayal was forgiveness ("{{% bible val="Father, forgive them" link="luk:23,34" lang="en" %}}"), and that His mission was never abandonment of Israel but
-its restoration, folding the church into it rather than replacing it with something else
-(recall session 8).
+**Who is the horn?** Not Israel. In Daniel the horn is the last king of the fourth beast, and
+Revelation takes it up in its own beast, the power that makes war on the saints
+({{% bible val="Revelation 13:5-7" link="rev:13,5-7" lang="en" %}}). That power was at work at the
+cross through everyone who took part: a Roman governor who gave the order, soldiers who carried it
+out, and leaders of His own people who conspired against Him
+({{% bible val="John 11:45-54" link="jhn:11,45-54" lang="en" %}}) and pressed for His execution
+({{% bible val="John 19:1-15" link="jhn:19,1-15" lang="en" %}}). "His own did not receive him"
+({{% bible val="John 1:11" link="jhn:1,11" lang="en" %}}) — and that is the grief of the story,
+not its verdict.
+
+**Why this deserves real pastoral care, not triumphalism.** We should be very careful about
+judging them for it, since the church has done no better. The point isn't to condemn first-century
+Jewish leaders from a position of assumed moral superiority — Jesus's own response was forgiveness
+("{{% bible val="Father, forgive them" link="luk:23,34" lang="en" %}}"), and His mission was never
+abandonment of Israel but its restoration, folding the church into it rather than replacing it
+with something else (recall session 8).
 
 **A citation worth correcting.** The source article originally cited
 {{% bible val="Revelation 11:5" link="rev:11,5" lang="en" %}} to support the claim that the two
@@ -81,7 +82,7 @@ Elijah-style supernatural retaliation.
 
 **The heritage this leaves the church.** The stone that destroys the kingdoms in Daniel 2 grows
 to fill the whole earth — a picture of the New Israel, church included, reaching the whole world.
-That same pattern resurfaces in the two witnesses of Revelation 11, who reign for 3.5 years
+That same pattern resurfaces in the two witnesses of Revelation 11, who prophesy for 3.5 years
 (session 12) and are killed for 3.5 days before being resurrected, living out the same pattern as
 Jesus: simplicity and repentance, filled with the Spirit, faithful witnesses, apparently defeated,
 then vindicated and exalted.
@@ -95,14 +96,13 @@ then vindicated and exalted.
 2. What is the specific theological problem created by a human figure receiving worship in
    Daniel 7 — and how does Jesus's identity as both fully human and fully God resolve it in a
    way ordinary Israel could not?
-3. Why does the source material insist it was Israel's own leadership, not Rome, who functioned
-   as the "horn" opposing the Son of Man? What does this reframing change about how we read the
-   Gospels' passion narratives?
+3. In Daniel the horn makes war on the holy people; in Revelation the beast does (13:5-7). At the
+   cross a Roman governor, soldiers and leaders of Jesus's own people all took part. Why does it
+   matter that the vision's enemy is that power, and not a people?
 
 **So what for us:**
-4. This session names something genuinely uncomfortable — Jesus's own people became His enemy.
-   Where do you see the church today at risk of repeating that same pattern, opposing what God
-   is actually doing because it doesn't match our expectations?
+4. "His own did not receive him" (John 1:11). Where do you see the church today at risk of the
+   same thing — opposing what God is actually doing because it doesn't match our expectations?
 5. Jesus's response to betrayal was "Father, forgive them." Where do you need to extend that
    same posture toward someone who has genuinely wronged you or your church?
 6. The two witnesses live out the "Son of Man" pattern: apparent defeat followed by

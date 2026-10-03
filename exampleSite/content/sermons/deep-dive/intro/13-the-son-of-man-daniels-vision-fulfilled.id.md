@@ -51,32 +51,31 @@ sebuah penyelesaian parsial: mungkin "orang-orang kudus" merujuk pada sisa masa 
 Israel secara keseluruhan. Tetapi bahkan itu tidak sepenuhnya menyelesaikan masalah penyembahan
 itu — yang justru merupakan ketegangan yang diselesaikan oleh identitas Yesus sendiri.
 
-**Bagaimana Yesus adalah jawabannya, dan mengapa itu sungguh-sungguh tidak nyaman.** Ketika Yesus
-menyebut diri-Nya sendiri "Anak Manusia" hampir secara eksklusif, Ia tidak sedang memilih gelar
-yang rendah hati — Ia sedang mengklaim seluruh penglihatan ini sebagai penggenapan diri-Nya
-sendiri, dan karena Ia adalah Allah, Ia layak menerima penyembahan yang digambarkan penglihatan
-itu ({{% bible val="Wahyu 5:6-14" link="rev:5,6-14" lang="ind" %}}). Yesus adalah sisa Israel —
-tidak ada orang lain yang tersisa untuk mengisi peran itu, karena kepemimpinan Israel sendiri
-menentang-Nya. "Tanduk" dalam penglihatan itu yang "berperang melawan orang-orang kudus" dan
-mengalahkan mereka selama "satu masa dan dua masa dan setengah masa" berpadanan langsung dengan
-penderitaan Yesus sendiri: pelayanan-Nya berlangsung kira-kira tiga tahun, dan Ia bangkit pada hari
-ketiga. Dan — inilah bagian tidak nyaman yang disebutkan secara jujur oleh artikel sumber — musuh-
-musuh dalam penglihatan itu yang menentang Anak Manusia bukanlah orang Roma, sebagaimana banyak
-pembaca secara naluriah mengasumsikan. Teks Injil sangat spesifik: kepemimpinan agama Israel
-sendirilah yang berkomplot melawan-Nya
-({{% bible val="Yohanes 11:45-54" link="jhn:11,45-54" lang="ind" %}}), mendesak agar Ia dieksekusi
-({{% bible val="Yohanes 19:1-15" link="jhn:19,1-15" lang="ind" %}}), dan, menurut kata-kata Yesus
-sendiri, telah memutarbalikkan hukum Taurat itu sendiri
-({{% bible val="Matius 5:17-48" link="mat:5,17-48" lang="ind" %}}). Umat-Nya sendiri menjadi
-musuh besar-Nya karena menolak Dia.
+**Bagaimana Yesus adalah jawabannya.** Ketika Yesus menyebut diri-Nya sendiri "Anak Manusia"
+hampir secara eksklusif, Ia tidak sedang memilih gelar yang rendah hati — Ia sedang mengklaim
+seluruh penglihatan ini sebagai penggenapan diri-Nya sendiri, dan karena Ia adalah Allah, Ia layak
+menerima penyembahan yang digambarkan penglihatan itu
+({{% bible val="Wahyu 5:6-14" link="rev:5,6-14" lang="ind" %}}). Yesus adalah sisa Israel — tidak
+ada lagi orang lain yang tersisa untuk mengisi peran itu. Seperti umat kudus dalam penglihatan itu,
+Ia diserahkan, dikalahkan dan dibunuh, lalu dibenarkan: pengadilan bersidang, dan kerajaan
+diberikan kepada-Nya. Kekalahan mendahului kemenangan, bagi Dia sama seperti bagi mereka.
+
+**Siapakah tanduk itu?** Bukan Israel. Dalam Daniel, tanduk itu adalah raja terakhir dari binatang
+keempat, dan Kitab Wahyu mengangkatnya kembali dalam binatangnya sendiri, kuasa yang berperang
+melawan orang-orang kudus ({{% bible val="Wahyu 13:5-7" link="rev:13,5-7" lang="ind" %}}). Kuasa
+itu bekerja di salib melalui semua yang terlibat: seorang gubernur Romawi yang memberi perintah,
+para prajurit yang melaksanakannya, dan para pemimpin dari bangsa-Nya sendiri yang bersekongkol
+melawan Dia ({{% bible val="Yohanes 11:45-54" link="jhn:11,45-54" lang="ind" %}}) dan mendesak
+agar Ia dieksekusi ({{% bible val="Yohanes 19:1-15" link="jhn:19,1-15" lang="ind" %}}).
+"Orang-orang kepunyaan-Nya tidak menerima Dia"
+({{% bible val="Yohanes 1:11" link="jhn:1,11" lang="ind" %}}) — dan itulah dukacita kisah ini,
+bukan vonisnya.
 
 **Mengapa ini layak mendapat perhatian pastoral yang sungguh-sungguh, bukan sikap
-menang-menangan.** Ini adalah kebenaran yang berat untuk direnungkan, dan bahan sumber sendiri
-berhati-hati di sini: "kita harus sangat berhati-hati menghakimi mereka karena hal itu, karena
-gereja pun tidak berbuat lebih baik." Maksudnya bukan mengutuk kepemimpinan Yahudi abad pertama
-dari posisi keunggulan moral yang diasumsikan — inti keseluruhan argumen ini adalah bahwa respons
-Yesus sendiri terhadap pengkhianatan itu adalah pengampunan
-("{{% bible val="Ya Bapa, ampunilah mereka" link="luk:23,34" lang="ind" %}}"), dan bahwa misi-Nya
+menang-menangan.** Kita harus sangat berhati-hati dalam menghakimi mereka karena hal itu, sebab
+gereja pun tidak berbuat lebih baik. Maksudnya bukan mengutuk para pemimpin Yahudi abad pertama
+dari posisi keunggulan moral yang diasumsikan — respons Yesus sendiri adalah pengampunan
+("{{% bible val="Ya Bapa, ampunilah mereka" link="luk:23,34" lang="ind" %}}"), dan misi-Nya
 tidak pernah berupa peninggalan Israel melainkan pemulihannya, melipat jemaat ke dalamnya alih-alih
 menggantikannya dengan sesuatu yang lain (ingat kembali sesi 8).
 
@@ -93,7 +92,7 @@ bergaya Elia.
 **Warisan yang ditinggalkan ini bagi jemaat.** Batu yang menghancurkan kerajaan-kerajaan dalam
 Daniel 2 tumbuh hingga memenuhi seluruh bumi — sebuah gambaran Israel Baru, jemaat termasuk di
 dalamnya, menjangkau seluruh dunia. Pola yang sama muncul kembali dalam kedua saksi Wahyu 11, yang
-memerintah selama 3,5 tahun (sesi 12) dan dibunuh selama 3,5 hari sebelum dibangkitkan, menghayati
+bernubuat selama 3,5 tahun (sesi 12) dan dibunuh selama 3,5 hari sebelum dibangkitkan, menghayati
 pola yang sama seperti Yesus: kesederhanaan dan pertobatan, dipenuhi Roh, saksi-saksi yang setia,
 tampak dikalahkan, lalu dibenarkan dan ditinggikan.
 
@@ -106,14 +105,15 @@ tampak dikalahkan, lalu dibenarkan dan ditinggikan.
 2. Apa masalah teologis spesifik yang ditimbulkan oleh sosok manusia yang menerima penyembahan
    dalam Daniel 7 — dan bagaimana identitas Yesus sebagai sepenuhnya manusia dan sepenuhnya Allah
    menyelesaikannya dengan cara yang tidak dapat dilakukan Israel biasa?
-3. Mengapa bahan sumber bersikeras bahwa kepemimpinan Israel sendirilah, bukan Roma, yang berfungsi
-   sebagai "tanduk" yang menentang Anak Manusia? Apa yang diubah oleh pembingkaian ulang ini
-   tentang cara kita membaca kisah sengsara dalam Injil?
+3. Dalam Daniel tanduk itu berperang melawan umat kudus; dalam Wahyu binatang itulah yang
+   melakukannya (13:5-7). Di salib, seorang gubernur Romawi, para prajurit dan para pemimpin dari
+   bangsa Yesus sendiri semuanya terlibat. Mengapa penting bahwa musuh dalam penglihatan itu adalah
+   kuasa tersebut, dan bukan suatu bangsa?
 
 **Lalu bagaimana bagi kita:**
-4. Sesi ini menyebutkan sesuatu yang sungguh-sungguh tidak nyaman — umat Yesus sendiri menjadi
-   musuh-Nya. Di manakah Anda melihat gereja hari ini berisiko mengulangi pola yang sama, menentang
-   apa yang sesungguhnya sedang dikerjakan Allah karena tidak sesuai dengan ekspektasi kita?
+4. "Orang-orang kepunyaan-Nya tidak menerima Dia" (Yohanes 1:11). Di manakah Anda melihat gereja
+   hari ini berisiko mengalami hal yang sama — menentang apa yang sesungguhnya sedang dikerjakan
+   Allah karena tidak sesuai dengan ekspektasi kita?
 5. Respons Yesus terhadap pengkhianatan adalah "Ya Bapa, ampunilah mereka." Di manakah Anda perlu
    memperluas sikap yang sama kepada seseorang yang sungguh-sungguh telah menyakiti Anda atau
    gereja Anda?
