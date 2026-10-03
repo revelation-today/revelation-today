@@ -160,7 +160,7 @@ The New Jerusalem is the counterpart to Babel when we look at the {{% int_link v
 
 The twelve gates refer to the twelve tribes, and the twelve foundation stones to the twelve apostles. The {{% bible val="twelve-times-two reflects the eternal worship in heaven" link="rev:4,4" lang="en" %}}, but it is also a reminder to seek reconciliation between Jews and non-Jews, a {{% int_link val="conflict described throughout the book" link="/expl/background/israel/israel-and-the-church" %}}.
 
-There's something strange in the arrangement, though: the apostles form the foundation of the tribes — the church as the foundation for Israel. That makes sense once you see that {{% bible val="Jesus is the fulfillment of Israel, worked out through the church" link="eph:2,20" lang="en" %}}. It fits, too, that Judah is {{% bible val="listed first among the tribes elsewhere in the book, reflecting Jesus" link="rev:7,4-8" lang="en" %}}.
+Look at the arrangement: the tribes are the gates and the apostles the foundations — one city, one people. Neither stands without the other. {{% bible val="The apostles carry the message of Israel's Messiah" link="eph:2,20" lang="en" %}}, and the way in bears Israel's names. As Paul reminds Gentile believers, {{% bible val="you do not support the root, but the root supports you" link="rom:11,18" lang="en" %}}. It fits, too, that Judah is {{% bible val="listed first among the tribes elsewhere in the book, reflecting Jesus" link="rev:7,4-8" lang="en" %}}.
 
 ### {{% bible val="The measurement of the city" link="rev:21,15-17" lang="en" %}}
 

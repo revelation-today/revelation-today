@@ -27,7 +27,7 @@ Dennoch versprach Gott, {{% bible val="sich ihrer zu erbarmen" link="lev:26,40-4
 
 Als Israel schließlich aus dem Exil zurückkehrte, sah es an der Oberfläche vielversprechend aus — der Tempel wurde unter Esra wieder aufgebaut, die Mauer wurde unter Nehemia errichtet, und {{% bible val="Josua wurde als Hoherpriester eingesetzt" link="zec:3" lang="de" %}} neben {{% bible val="Serubbabel als Herrscher" link="zec:4" lang="de" %}}, der Gottes Reich errichten sollte. Aber bei näherem Hinsehen war die verheißene Wiederherstellung eindeutig noch nicht eingetreten: Das Volk {{% bible val="war in jeder Hinsicht immer noch in Sklaverei" link="ezr:9" lang="de" %}}, es besaß sein eigenes Land unter persischer Herrschaft nicht, der {{% bible val="Segen des Herrn blieb aus" link="hag:1,7-12" lang="de" %}} und das {{% bible val="Land stand immer noch unter dem Fluch" link="mal:3,10-11" lang="de" %}}, und {{% bible val="die Ausgießung des Geistes fand nicht statt" link="ezk:36,25-27" lang="de" %}}.
 
-Nach jedem Maßstab, der zählte, befand sich Israel also immer noch im Exil — und die Schrift sagt, dass dieses Exil erst mit dem Tag des Herrn enden wird. Das ist das zentrale Anliegen der Propheten, die nach der Rückkehr schrieben: Haggai, Sacharja, Jesaja 56–66 und Maleachi.
+Nach jedem Maßstab, der zählte, befand sich Israel also immer noch im Exil[^exile] — und die Schrift sagt, dass dieses Exil erst mit dem Tag des Herrn enden wird. Das ist das zentrale Anliegen der Propheten, die nach der Rückkehr schrieben: Haggai, Sacharja, Jesaja 56–66 und Maleachi.
 
 ## Der Inhalt des Tages des Herrn
 
@@ -40,3 +40,5 @@ Aber das wird nur dem {{% int_link val="Überrest Israels" link="/expl/backgroun
 
 <a name="d4y1"></a>
 Die Offenbarung greift den Ausdruck der Propheten für ihren eigenen Höhepunkt auf. Als das sechste Siegel geöffnet wird, verstecken sich die Mächtigen und rufen, dass {{% bible val="der große Tag seines Zorns gekommen ist" link="rev:6,17" lang="de" %}}; und die Könige der Erde werden versammelt {{% bible val="zum Kampf an jenem großen Tag Gottes, des Allmächtigen" link="rev:16,14" lang="de" %}}. An beiden Stellen bringt der Tag, was die Propheten verheißen haben: Gericht über die Feinde des Volkes Gottes und Rettung für die Treuen. Und wie {{% int_link val="Jesus gezeigt hat" link="/expl/background/israel/jesus-and-the-covenant#already" %}}, hat dieser Tag mit ihm schon begonnen — seine rettende Hälfte ist da, seine richtende Hälfte steht noch aus. → {{% int_link val="Der Zorn des Lammes" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="Der Schlüssel zu Armageddon" link="/expl/content/bowls/the-key-to-armageddon" %}}
+
+[^exile]: Beale, S. 19; N. T. Wright, *The New Testament and the People of God*, S. 268–272. Die These ist umstritten: siehe J. M. Scott (Hg.), *Exile: A Conversation with N. T. Wright* (2017).

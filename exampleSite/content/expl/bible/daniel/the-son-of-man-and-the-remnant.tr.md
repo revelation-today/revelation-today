@@ -12,6 +12,8 @@ sources:
       ref: beale_rev
     - pages: "vol. 16: 1073"
       ref: tdot
+    - pages: 90, 221, 259, 270, 633
+      ref: beale_rev
 ---
 
 İsa kendisi için yalnızca tek bir unvan kullanır: "İnsanoğlu." Neden bu unvan, ve bu ne anlama gelir?
@@ -25,7 +27,7 @@ Bu unvan, Daniel'deki bir görümden gelir:
 
 Görüm, bu figürün kim olduğuna dair doğrudan bir açıklama sunmaz, bu yüzden biraz kazmamız gerekir — ama çok derine inmemize gerek yok, çünkü açıklama yalnızca birkaç ayet sonra gelir: "{{% bible val="Ama En Yüce Olan'ın kutsal halkı krallığı alacak ve sonsuza dek ona sahip olacak — evet, sonsuza dek." link="dan:7,18" lang="tr" %}}"
 
-En Yüce Olan'ın kutsal halkı İsrail halkıdır ve bu figürün temsil ettiği de onlardır — Tanrı değil, bir ulus yerine geçen insanlar. Bu tür bir temsilin emsalleri vardır: bir grup, tek bir figür aracılığıyla resmedilebilir; {{% bible val="Siyon kızının" link="isa:1,8" lang="tr" %}} İsrail'i temsil etmesi, {{% bible val="İsrail'in öyküsünün bir kadının öyküsü olarak anlatılması" link="ezk:16" lang="tr" %}} ya da {{% bible val="kuzey ve güney krallıklarının iki kız kardeş olarak resmedilmesi" link="ezk:23" lang="tr" %}} gibi.
+En Yüce Olan'ın kutsal halkı İsrail halkıdır ve İnsanoğlu onları temsil eder: bütün halkı temsil eden tek bir figür; öyle ki ona verilen, onlara verilmiş olur.[^corporate] Bu tür bir temsilin emsalleri vardır: bir grup, tek bir figür aracılığıyla resmedilebilir; {{% bible val="Siyon kızının" link="isa:1,8" lang="tr" %}} İsrail'i temsil etmesi, {{% bible val="İsrail'in öyküsünün bir kadının öyküsü olarak anlatılması" link="ezk:16" lang="tr" %}} ya da {{% bible val="kuzey ve güney krallıklarının iki kız kardeş olarak resmedilmesi" link="ezk:23" lang="tr" %}} gibi.
 
 ## Bildirim
 
@@ -68,11 +70,11 @@ Daniel'in kendi bağlamı bunun tam olarak ne zaman gerçekleşeceğini söyleme
 
 Peki bu peygamberlik O'na nasıl uygulanır? Umarım oturuyorsunuzdur, çünkü bunu açmak biraz rahatsız edici olacak.
 
-İsa, İsrail'in kalıntısıdır — bu rolü doldurmak için geriye başka kimse kalmamıştır. Boynuz, ya da "başka bir kral", O'na karşı çıkar ve "3,5 zaman" boyunca O'nun yasasını değiştirmeye çalışır; İsa'nın hizmeti yaklaşık üç yıl sürdü ve üçüncü gün ölümden dirildi. Ve İsa'nın aklanmasının sonucu, düşmanlarının yok edilmesidir.
+İsa, İsrail'in kalıntısıdır — bu rolü doldurmak için geriye başka kimse kalmamıştır. Görümdeki kutsal halk gibi O da teslim edilir, yenilir ve öldürülür, sonra aklanır: mahkeme toplanır ve krallık O'na verilir. Yenilgi zaferden önce gelir; O'nun için de onlar için de.
 
-Bu düşmanların Şeytan ya da Deccal olduğunu varsayabilirsiniz, ama İnciller başka bir öykü anlatır. O'nu reddeden {{% bible val="İsrail'dir" link="jhn:1,11-14" lang="tr" %}} — {{% bible val="O'na saldıran ve O'nu öldürmek için düzen kuran" link="jhn:11,45-54" lang="tr" %}} dini önderlerdir; O'nu mahkûm etmek için bir mahkeme kuran ve {{% bible val="idamını isteyen" link="jhn:19,1-15" lang="tr" %}} onlardır. Aynı şekilde, {{% bible val="yasayı çarpıtan da İsrail'di" link="mat:5,17-48" lang="tr" %}} ("Şöyle söylendiğini duydunuz...").
+Boynuz kimdir? İsrail değil. Daniel'de boynuz dördüncü canavarın son kralıdır ve Vahiy onu kendi canavarında, kutsallara karşı savaşan güçte yeniden ele alır (13:5–7).[^horn] Bu güç çarmıhta, olaya katılan herkes aracılığıyla işbaşındaydı: buyruğu veren Romalı vali, onu yerine getiren askerler ve {{% bible val="O'na karşı düzen kuran" link="jhn:11,45-54" lang="tr" %}}, {{% bible val="idamını isteyen" link="jhn:19,1-15" lang="tr" %}} kendi halkının önderleri. {{% bible val="Kendilerininki O'nu kabul etmedi" link="jhn:1,11-14" lang="tr" %}} — ve bu, öykünün hükmü değil, acısıdır.
 
-Acı gerçek şudur ki, kendi halkı İsrail, O'na karşı çıkarak O'nun en büyük düşmanı hâline geldi. Onları bu yüzden yargılarken çok dikkatli olmalıyız, çünkü kilise de bundan daha iyi bir sınav vermemiştir.
+Onları bu yüzden yargılarken çok dikkatli olmalıyız, çünkü kilise de bundan daha iyi bir sınav vermemiştir.
 
 Peki İsa buna karşılık ne yaptı? {{% bible val="Onları bağışladı, çünkü ne yaptıklarını bilmiyorlardı" link="luk:23,34" lang="tr" %}}. {{% bible val="O'nun çağrısı İsrail'i eski hâline getirmek ve olabildiğince çoğunu kendisine çağırmaktı" link="mat:15,24" lang="tr" %}} — uluslara gitmek öğrencilere düştü, {{% bible val="gerçi İsa'nın kendisi de yol boyunca bazı istisnalar yaptı" link="mat:8,5-13" lang="tr" %}}. O bir yargıç olarak değil, bir kurtarıcı olarak geldi — gerçi bir gün yargıç olarak da gelecek. Ve İsrail'i reddedip yerine Kilise'yi koymadı — İsrail'i yeniden başlattı ve Kilise'yi onun içine kattı.
 
@@ -94,3 +96,7 @@ Tanıklar, İsa'nın kendi yaşamının örüntüsünü yaşadıkları için İn
 - {{% bible val="Tanıklıkları tamamlandığında düşman tarafından yenilgiye uğratılırlar" link="rev:11,7" lang="tr" %}}.
 - {{% bible val="Ama bu onların yenilgisi değildir, çünkü İsa gibi diriltileceklerdir" link="rev:11,8-11" lang="tr" %}}.
 - {{% bible val="İsa gibi yüceltilirler" link="rev:11,12" lang="tr" %}}.
+
+[^corporate]: Beale, s. 221: kutsalların kolektif temsilcisi olarak İnsanoğlu. Erken dönem Yahudi okurlar onu İsrail olarak anlamıştır (Beale, s. 259). Başkaları bu figürü bir melek, Mikail olarak görür (John J. Collins böyle).
+
+[^horn]: Beale, s. 90, 270, 633.

@@ -20,7 +20,7 @@ appl: /appl/background/israel
 **Bu, Vahiy için neden önemli:** Vahiy, Çıkış'ı Fısıh Kuzusu'ndan Musa'nın ezgisine dek kilisenin kendi öyküsü olarak yeniden anlatır — bkz. {{% int_link val="Vahiy'de yeni Çıkış" link="/expl/background/israel/the-second-exodus#x0d1" %}}.
 {{< /callout >}}
 
-Mısır'dan bir Çıkış yaşandı. Ama İsrail yasayı tutmayı başaramayınca sürgüne gitti — geri dönüş vaatleriyle dolu bir sürgüne. Dönüş nihayet geldiğinde ise gerçekte hiçbir şeyin değişmediğini gördüler. Peygamberlerin ve daha sonraki Yahudi düşüncesinin bundan çıkardığı sonuç şuydu: İsrail hâlâ sürgündeydi, hâlâ yeni bir çıkışı bekliyordu. İşte bu yeni çıkış, İsa'yla birlikte gelir.
+Mısır'dan bir Çıkış yaşandı. Ama İsrail yasayı tutmayı başaramayınca sürgüne gitti — geri dönüş vaatleriyle dolu bir sürgüne. Dönüş nihayet geldiğinde ise gerçekte hiçbir şeyin değişmediğini gördüler. Peygamberlerin ve daha sonraki Yahudi düşüncesinin bundan çıkardığı sonuç şuydu: İsrail hâlâ sürgündeydi, hâlâ yeni bir çıkışı bekliyordu.[^exile] İşte bu yeni çıkış, İsa'yla birlikte gelir.
 
 ## Markos'taki Çıkış
 
@@ -72,7 +72,7 @@ Bunun yanında, Elçilerin İşleri, Çıkış temasını taşıyan altı ana me
 
 Elçilerin İşleri boyunca işleyen bağlantılı bir tema da "Tanrı'nın sözü"dür; bu söz {{% bible val="İstefanos'un seçilmesinden sonra" link="act:6,7" lang="tr" %}}, {{% bible val="Hirodes'in ölümünden sonra" link="act:12,24" lang="tr" %}} ve {{% bible val="Pavlus'un Efes'teki zamanında" link="act:19,20" lang="tr" %}} ilerler. Bu, Yeşaya'daki aynı temayla ilgili kilit pasajları yansıtır: {{% bible val="Tanrı neyle karşılaştırılabilir" link="isa:40,18-24" lang="tr" %}}, {{% bible val="O putlardan daha güvenilirdir" link="isa:41,4-10" lang="tr" %}}, {{% bible val="putların boşluğu" link="isa:44,9-20" lang="tr" %}} ve {{% bible val="Babil'in putları" link="isa:46,1-13" lang="tr" %}}.
 
-Bir araya getirildiğinde, bu karşılaştırma Elçilerin İşleri ile Yeşaya arasındaki gerçek bir gerilimi ortaya çıkarır: Tanrı'nın putlar üzerinde egemen olduğu gösterilir, yine de İsrail onlara tutunmayı sürdürür. Bu gerilim özellikle {{% bible val="Elçilerin İşleri 17'de" link="act:17" lang="tr" %}} doruğa ulaşır; burada Yahudilerin Pavlus'a karşı direnişi büyük olasılıkla putlara olan bu aynı bağlılıktan kaynaklanır.
+Bir araya getirildiğinde, bu karşılaştırma Elçilerin İşleri'nin Yeşaya'yı ne kadar yakından izlediğini gösterir: Tanrı putlar üzerinde egemendir, yine de insanlar onlara tutunmayı sürdürür. Bu, {{% bible val="Elçilerin İşleri 17'de" link="act:17" lang="tr" %}} doruğa ulaşır; orada Pavlus "putlarla dolu" bir kent olan Atina'da durur ve dünyayı yaratan Tanrı'yı duyurur.
 
 Bu putlar ya da arkalarındaki kişiler kendileri için tanrılık iddia ettiğinde — {{% bible val="Simun" link="act:8,4-24" lang="tr" %}}, {{% bible val="Hirodes" link="act:12,20-23" lang="tr" %}} ve {{% bible val="Elimas" link="act:13,9-11" lang="tr" %}} örneklerinde olduğu gibi — yargı özel bir şiddetle duyurulur.
 
@@ -98,3 +98,5 @@ Böylece peygamberlerin vaat ettiği ve Müjdeler'in İsa'yla başladığını g
 İsrail'in uzun süredir beklediği yeni Çıkış nihayet gerçekleşir — ve bu, ayrılmaz biçimde İsa'ya bağlıdır. Açık kalan soru, İsrail'in ve Yahudi olmayanların Tanrı'yı mı seçeceği, yoksa bunun yerine putlarına tutunmaya mı devam edeceğidir; Elçilerin İşleri kitabı bunu hafife alınacak bir soru olarak görmez.
 
 Bu şekilde okunduğunda, Müjde ve Elçilerin İşleri tek, sürekli bir gerilimi izler: Mesih'e iman eden İsrail'in restorasyonu, onlarla birlikte içeri çekilen Yahudi olmayanların kurtuluşuyla el ele yürür.
+
+[^exile]: Beale, s. 19; N. T. Wright, *The New Testament and the People of God*, s. 268–272. Bu tez tartışmalıdır: bkz. J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).

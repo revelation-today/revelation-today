@@ -18,6 +18,10 @@ sources:
       ref: beale_rev
     - pages: 366
       ref: beale_rev
+    - pages: 322, 324
+      ref: beale_rev
+    - pages: 34
+      ref: bauckham_rev
 readBefore:
     - name: "Der Aufbau der Offenbarung"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation
@@ -220,4 +224,6 @@ Schöpfung ist eine traditionelle Deutung der {{% bible val="vier Lebewesen" lin
 
 Doch Hesekiels eigene Parallelvision benennt diese Klasse von Wesen ausdrücklich als Cherubim (Hes 10,20) — die höchste Ordnung der engelhaften Throndiener. Beide Deutungen haben echte Grundlage: Die vier Lebewesen könnten das gesamte geschaffene Leben repräsentieren, das sich zur Anbetung versammelt, oder sie könnten die cherubischen Wesen sein, die diese Anbetung anführen, oder beides zugleich.
 
-Zu ihnen gesellen sich die {{% bible val="24 Ältesten" link="rev:4,4" lang="de" %}}, die an die {{% bible val="24 Priesterordnungen" link="1ch:24,3-19" lang="de" %}}, die {{% bible val="24 levitischen Torwächter" link="1ch:26,17-19" lang="de" %}} und die {{% bible val="24 von David eingesetzten ständigen Anbeter" link="1ch:25" lang="de" %}} erinnern — zugleich aber auch an die 12 Stämme Israels und die 12 Apostel als Fundament der Gemeinde. (Manche Ausleger sehen die Ältesten stattdessen als Mitglieder des himmlischen Rates — eine Ordnung von Engeln statt erlöster Menschen; die Identifikation ist umstritten. Doch die priesterlichen und davidischen Anbetungsanklänge machen die Deutung als Repräsentanten von Gottes Volk hier zur naheliegenderen Lesart.) Israel und die Gemeinde sind mit anderen Worten trotz aller Konflikte als eine Einheit zu verstehen. Die Gemeinde ist im Kern als eine anbetende Gemeinde definiert.
+Zu ihnen gesellen sich die {{% bible val="24 Ältesten" link="rev:4,4" lang="de" %}}, die an die {{% bible val="24 Priesterordnungen" link="1ch:24,3-19" lang="de" %}}, die {{% bible val="24 levitischen Torwächter" link="1ch:26,17-19" lang="de" %}} und die {{% bible val="24 von David eingesetzten ständigen Anbeter" link="1ch:25" lang="de" %}} erinnern — zugleich aber auch an die 12 Stämme Israels und die 12 Apostel als Fundament der Gemeinde. Wahrscheinlich sind sie Engel, die das ganze Volk Gottes vertreten, beide zusammen.[^elders] Israel und die Gemeinde sind mit anderen Worten trotz aller Konflikte als eine Einheit zu verstehen. Die Gemeinde ist im Kern als eine anbetende Gemeinde definiert.
+
+[^elders]: Beale, S. 322, 324. Bauckham versteht sie als den Engelrat um Gottes Thron (*Theology*, S. 34).

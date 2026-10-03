@@ -160,7 +160,7 @@ Son olarak yalancılar imana ihanet etmiş olanlardır — {{% bible val="kendil
 
 On iki kapı on iki oymağa, on iki temel taşı ise on iki elçiye işaret eder. {{% bible val="On iki kere iki, gökteki sonsuz tapınmayı yansıtır" link="rev:4,4" lang="tr" %}}, ama aynı zamanda kitap boyunca anlatılan {{% int_link val="Yahudiler ile Yahudi olmayanlar arasında uzlaşma aranması gerektiğine dair bir hatırlatmadır" link="/expl/background/israel/israel-and-the-church" %}}.
 
-Ama düzenlemede tuhaf bir şey var: elçiler oymakların temelini oluşturuyor — İsrail'in temeli olarak kilise. Bu, {{% bible val="İsa'nın, kilise aracılığıyla işlenen İsrail'in yerine gelişi olduğunu" link="eph:2,20" lang="tr" %}} gördüğünüzde anlam kazanır. Yahuda'nın {{% bible val="kitabın başka bir yerinde oymaklar arasında ilk sırada listelenmesi de" link="rev:7,4-8" lang="tr" %}} bununla uyumludur, çünkü İsa'yı yansıtır.
+Düzenlemeye bakın: oymaklar kapılar, elçiler temellerdir — tek kent, tek halk. Biri diğeri olmadan duramaz. {{% bible val="Elçiler İsrail'in Mesihi'nin mesajını taşır" link="eph:2,20" lang="tr" %}} ve giriş yolu İsrail'in adlarını taşır. Pavlus'un öteki uluslardan imanlılara hatırlattığı gibi, {{% bible val="sen kökü taşımıyorsun, kök seni taşıyor" link="rom:11,18" lang="tr" %}}. Yahuda'nın {{% bible val="kitabın başka bir yerinde oymaklar arasında ilk sırada listelenmesi de" link="rev:7,4-8" lang="tr" %}} bununla uyumludur, çünkü İsa'yı yansıtır.
 
 ### {{% bible val="Kentin ölçümü" link="rev:21,15-17" lang="tr" %}}
 

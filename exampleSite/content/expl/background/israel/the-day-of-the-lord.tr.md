@@ -27,7 +27,7 @@ Yine de Tanrı {{% bible val="onlara merhamet edeceğini vaat etti" link="lev:26
 
 İsrail nihayet sürgünden döndüğünde, görünürde her şey umut vericiydi — tapınak Ezra döneminde, sur Nehemya döneminde yeniden inşa edildi ve {{% bible val="Yeşu başkâhin olarak" link="zec:3" lang="tr" %}} Tanrı'nın krallığını kuracak olan {{% bible val="Zerubbabel'in yanında vali olarak" link="zec:4" lang="tr" %}} görevlendirildi. Ama daha yakından bakılınca, vaat edilen restorasyonun henüz gelmediği açıktı: halk her anlamlı ölçüde {{% bible val="hâlâ kölelik içindeydi" link="ezr:9" lang="tr" %}}, Pers yönetimi altında kendi topraklarına sahip değillerdi, {{% bible val="Rab'bin bereketi gelmemişti" link="hag:1,7-12" lang="tr" %}}, {{% bible val="toprak hâlâ lanet altındaydı" link="mal:3,10-11" lang="tr" %}} ve {{% bible val="Ruh'un dökülmesi gerçekleşmemişti" link="ezk:36,25-27" lang="tr" %}}.
 
-Yani önemli olan her ölçüte göre İsrail hâlâ sürgündeydi — ve Kutsal Kitap bu sürgünün ancak Rab'bin Günü'yle sona ereceğini söyler. Dönüşten sonra yazan peygamberlerin — Haggay, Zekeriya, Yeşaya 56–66 ve Malaki'nin — meselesi de budur.
+Yani önemli olan her ölçüte göre İsrail hâlâ sürgündeydi[^exile] — ve Kutsal Kitap bu sürgünün ancak Rab'bin Günü'yle sona ereceğini söyler. Dönüşten sonra yazan peygamberlerin — Haggay, Zekeriya, Yeşaya 56–66 ve Malaki'nin — meselesi de budur.
 
 ## Rab'bin Günü'nün içeriği
 
@@ -40,3 +40,5 @@ Ama bu yalnızca {{% int_link val="İsrail'in kalıntısının" link="/expl/back
 
 <a name="d4y1"></a>
 Vahiy, peygamberlerin bu deyimini kendi doruk noktası için kullanır. Altıncı mühür açıldığında güçlüler saklanır ve {{% bible val="onların büyük gazap günü geldi" link="rev:6,17" lang="tr" %}} diye bağırır; yeryüzünün kralları da {{% bible val="Her Şeye Gücü Yeten Tanrı'nın büyük günündeki savaş için" link="rev:16,14" lang="tr" %}} toplanır. Her iki yerde de o Gün, peygamberlerin vaat ettiğini getirir: Tanrı'nın halkının düşmanlarına yargı, sadık olanlara kurtuluş. Ve {{% int_link val="İsa'nın gösterdiği gibi" link="/expl/background/israel/jesus-and-the-covenant#already" %}}, o Gün O'nunla zaten başlamıştır — kurtaran yarısı burada, yargılayan yarısı ise henüz gelecektir. → {{% int_link val="Kuzu’nun Gazabı" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="Armagedon'un anahtarı" link="/expl/content/bowls/the-key-to-armageddon" %}}
+
+[^exile]: Beale, s. 19; N. T. Wright, *The New Testament and the People of God*, s. 268–272. Bu tez tartışmalıdır: bkz. J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).

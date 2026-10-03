@@ -8,6 +8,10 @@ sources:
       ref: aune_rev
     - pages: 31
       ref: beale_rev
+    - pages: 82, 94, 322, 591–592
+      ref: beale_rev
+    - pages: 238, 586–587
+      ref: aune_rev
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/content/vision/setting-the-foundation
 docType: expl
@@ -34,13 +38,13 @@ For a while Christianity sheltered under Judaism's protection, because Rome saw 
 <a name="b216"></a>
 The book of Revelation is about one thing: Jesus, and everything that gets decided in light of him. That is true of how it treats the Jews as well.
 
-The tension between Christians and Jews plays out concretely in the letters to {{% bible val="Smyrna" link="rev:2,9" lang="en" %}} and {{% bible val="Philadelphia" link="rev:3,9" lang="en" %}}, where local Jews attack the church for witnessing to Jesus — which is why John calls them a synagogue of Satan. When those same Jews in Philadelphia are later said to bow down before the church, the point is not that they submit to the church as an institution, but that they come to accept Jesus.
+The tension between Christians and Jews plays out concretely in the letters to {{% bible val="Smyrna" link="rev:2,9" lang="en" %}} and {{% bible val="Philadelphia" link="rev:3,9" lang="en" %}}, where local Jews attack the church for witnessing to Jesus — which is why John calls them a synagogue of Satan. When those same opponents in Philadelphia are later said to bow down before the church, the point is not submission to the church as an institution. It is vindication: they will have to acknowledge that Jesus has loved this church (3:9). Whether they come to faith themselves the verse leaves open — and so the door stays open.[^bow]
 
-The same dynamic surfaces in chapter 11. The place where the two witnesses are killed is spiritually described as Sodom (a place of sin) and Egypt (a place of slavery) — a description of Jerusalem, since that is where their Lord, Jesus, was killed. Tellingly, even the name "Jerusalem" is avoided here.
+The same dynamic surfaces in chapter 11. The place where the two witnesses are killed is spiritually described as Sodom (a place of sin) and Egypt (a place of slavery). The picture is drawn from Jerusalem, where their Lord was killed, but the "great city" is larger than one place: it is the world that rejects God's witnesses, wherever that happens.[^city]
 
 And yet, for all that tension, Revelation never turns its argument against ethnic Israel as such (how much weight that carries depends on how you read the 144,000 in chapter 7). What the book actually addresses throughout is people's relationship to Jesus, not their ethnicity.
 
-That is because the church is part of Israel, not a replacement for it. Revelation makes this unity explicit in several places: the 24 elders in chapter 4 represent the 12 tribes and the 12 apostles together, and the names of the 12 tribes and the 12 apostles are engraved side by side in the New Jerusalem. And the hope Revelation holds out is not a neutral, placeless heaven but a city: the New Jerusalem, coming down out of heaven to a renewed earth and bearing the names of Israel's tribes. The church's future is rooted in Israel's story, not detached from it. This is the key to why Revelation's language about the Jews can sound so sharp: precisely because the church is part of Israel, it cannot cut off its own roots, even when some Jews openly attack it.
+That is because the church is part of Israel, not a replacement for it. Revelation makes this unity explicit in several places: the 24 elders in chapter 4 — probably angels who stand for the whole people of God — carry the number of the 12 tribes and the 12 apostles together,[^elders] and the names of the 12 tribes and the 12 apostles are engraved side by side in the New Jerusalem. And the hope Revelation holds out is not a neutral, placeless heaven but a city: the New Jerusalem, coming down out of heaven to a renewed earth and bearing the names of Israel's tribes. The church's future is rooted in Israel's story, not detached from it. This is the key to why Revelation's language about the Jews can sound so sharp: precisely because the church is part of Israel, it cannot cut off its own roots, even when some Jews openly attack it.
 
 ## Conclusion
 
@@ -48,3 +52,8 @@ The challenge for the church, then, is to hold both truths at once — being par
 
 There is a lot we can learn from this book about how to navigate that same kind of tension today, whether between different church denominations or in our relationship with Jewish people.
 
+[^bow]: Aune, *Revelation 1–5*, p. 238; Beale, p. 94: the promise of Isaiah 45:14; 49:23 and 60:14 is turned around. That conversion may be in view: Beale, p. 82.
+
+[^city]: Beale, pp. 591–592; Aune, *Revelation 6–16*, pp. 586–587.
+
+[^elders]: Beale, p. 322.

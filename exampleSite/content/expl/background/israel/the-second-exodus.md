@@ -20,7 +20,7 @@ appl: /appl/background/israel
 **Why this matters for Revelation:** Revelation retells the exodus as the church's own story, from the Passover Lamb to the song of Moses — see {{% int_link val="the new exodus in Revelation" link="/expl/background/israel/the-second-exodus#x0d1" %}}.
 {{< /callout >}}
 
-There was an exodus from Egypt. But when Israel failed to keep the law, they went into exile — filled, all the while, with promises of their return. When the return finally came, though, they saw that nothing had really changed. The conclusion the prophets and later Jewish thought drew from this: Israel was still in exile, still waiting for a new exodus. That new exodus is what arrives with Jesus.
+There was an exodus from Egypt. But when Israel failed to keep the law, they went into exile — filled, all the while, with promises of their return. When the return finally came, though, they saw that nothing had really changed. The conclusion the prophets and later Jewish thought drew from this: Israel was still in exile, still waiting for a new exodus.[^exile] That new exodus is what arrives with Jesus.
 
 ## The exodus in Mark
 
@@ -72,7 +72,7 @@ Alongside that, Acts develops six main messages that carry forward the Exodus th
 
 A related theme running through Acts is "the word of God," which advances after the {{% bible val="choosing of Stephen" link="act:6,7" lang="en" %}}, {{% bible val="after the death of Herod" link="act:12,24" lang="en" %}}, and during {{% bible val="Paul’s time in Ephesus" link="act:19,20" lang="en" %}}. This echoes key passages in Isaiah on the same theme: {{% bible val="how can God be compared" link="isa:40,18-24" lang="en" %}} to anything, he {{% bible val="is more reliable than idols" link="isa:41,4-10" lang="en" %}}, the {{% bible val="vanity of idols" link="isa:44,9-20" lang="en" %}}, and {{% bible val="the idols of Babylon" link="isa:46,1-13" lang="en" %}}.
 
-Taken together, this comparison highlights a real tension between Acts and Isaiah: God is shown to be sovereign over the idols, yet Israel keeps clinging to them anyway. That tension comes to a head especially in {{% bible val="Acts 17" link="act:17" lang="en" %}}, where the Jews' resistance to Paul is likely rooted in this same attachment to idols.
+Taken together, this comparison shows how closely Acts follows Isaiah: God is sovereign over the idols, and yet people keep clinging to them. That comes to a head in {{% bible val="Acts 17" link="act:17" lang="en" %}}, where Paul stands in Athens, a city "full of idols", and proclaims the God who made the world.
 
 Judgment is announced with particular force whenever these idols, or the people behind them, claim divinity for themselves — as in the cases of {{% bible val="Simon" link="act:8,4-24" lang="en" %}}, {{% bible val="Herod" link="act:12,20-23" lang="en" %}}, and {{% bible val="Elymas" link="act:13,10-11" lang="en" %}}.
 
@@ -98,3 +98,5 @@ So the second exodus the prophets promised, and the gospels see beginning in Jes
 The new Exodus for which Israel had been waiting so long finally happens — and it is tied inseparably to Jesus. What remains open is whether Israel and the Gentiles will choose God, or keep clinging to their idols instead; the book of Acts treats that as no small question.
 
 Read this way, the Gospel and Acts trace a single, ongoing tension: the restoration of the Israel that believes in Christ, running alongside the salvation of the Gentiles who are being drawn in together with them.
+
+[^exile]: Beale, p. 19; N. T. Wright, *The New Testament and the People of God*, pp. 268–272. The thesis is debated: see J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).

@@ -12,7 +12,7 @@ sources:
       ref: beale_rev
 ---
 
-The 70 year weeks are one of the most mysterious parts of the Bible, and they've generated no shortage of interesting interpretations about the end times. Let's take a closer look at what this is all about.
+The 70 year weeks are one of the most mysterious parts of the Bible, and they've generated no shortage of interesting interpretations about the end times. Let's take a closer look at what this is all about. This article follows the long-standing reading that the seventy weeks lead to the Messiah. Two other readings are common.[^weeks]
 
 ## What is a year week
 
@@ -83,3 +83,5 @@ The seven years end in the year 34, the year {{% bible val="Stephen is presumabl
 This is the moment the church begins to follow Jesus in full — the new covenant is now genuinely active.
 
 ![](/images/70years_en.jpg)
+
+[^weeks]: Critical scholarship ends the weeks with Antiochus IV and takes the anointed one who is "cut off" as the high priest Onias III (died 171 BC). Dispensational readers place the last week in the future, after a long gap.

@@ -20,7 +20,7 @@ appl: /appl/background/israel
 **Warum das für die Offenbarung wichtig ist:** In der Offenbarung trägt die Gemeinde Israels Namen: {{% bible val="ein Königtum und Priester" link="rev:1,6" lang="de" %}}, die Braut und eine Stadt, deren Tore {{% bible val="die Namen der zwölf Stämme" link="rev:21,12-14" lang="de" %}} und deren Grundsteine die zwölf Apostel tragen. → {{% int_link val="Das Neue Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
 {{< /callout >}}
 
-Das klingt zunächst befremdlich. Ist die Gemeinde nicht größer als Israel? Oder ersetzt die Gemeinde Israel? Oder wird Israel am Ende der Zeit ein Comeback erleben, unabhängig von der Gemeinde? Jede dieser Fragen setzt eine Kontroverse voraus, die bei näherem Hinsehen gar nicht existiert.
+Das klingt zunächst befremdlich. Ist die Gemeinde nicht größer als Israel? Oder ersetzt die Gemeinde Israel? Oder wird Israel am Ende der Zeit ein Comeback erleben, unabhängig von der Gemeinde? Jede dieser Fragen stellt Israel und die Gemeinde gegeneinander. Das Neue Testament tut das nicht.
 
 ## Das Geheimnis der Nationen
 
@@ -31,7 +31,7 @@ Das „Geheimnis“ ist hier keine verborgene Tatsache, sondern eine schier ungl
 
 Jesus ist der neue Bund, und in ihm bilden Juden und Nationen gemeinsam das endzeitliche Israel. Das begann, als Jesus am Kreuz starb, und wird vollendet, wenn er wiederkommt. Entscheidend ist: Dieses endzeitliche Israel wird nicht durch Volkszugehörigkeit definiert, sondern durch die Zugehörigkeit zu Jesus.
 
-Viele Begriffe, die das Alte Testament für Israel verwendet, werden jetzt auf die Gemeinde angewandt — die keine eigenständige Größe ist, die Israel ersetzt, sondern das neue Israel selbst, das sowohl das ethnische Israel, das an Jesus glaubt, als auch die Nationen umfasst, die an ihn glauben. Tatsächlich {{% bible val="war der Bund mit Israel nur eine Zwischenstufe zwischen Abraham und der Gemeinde" link="gal:3,23-28" lang="de" %}}.
+Viele Begriffe, die das Alte Testament für Israel verwendet, werden jetzt auf die Gemeinde angewandt — die keine eigenständige Größe ist, die Israel ersetzt, sondern das neue Israel selbst, das sowohl das ethnische Israel, das an Jesus glaubt, als auch die Nationen umfasst, die an ihn glauben. Mit den Worten des Paulus: {{% bible val="Das am Sinai gegebene Gesetz war ein Aufseher, bis Christus kam" link="gal:3,23-28" lang="de" %}}, damit die Verheißung an Abraham alle erreicht, die glauben.
 
 ## Geliebte des Herrn
 

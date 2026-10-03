@@ -18,6 +18,10 @@ sources:
       ref: beale_rev
     - pages: 366
       ref: beale_rev
+    - pages: 322, 324
+      ref: beale_rev
+    - pages: 34
+      ref: bauckham_rev
 readBefore:
     - name: "Vahiy Kitabı’nın yapısı"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation
@@ -220,4 +224,6 @@ Yaratılış, {{% bible val="Hezekiel'in" link="ezk:1,5-21" lang="tr" %}} daha �
 
 Ancak Hezekiel'in kendi paralel görümü bu yaratık sınıfını açıkça keruvlar olarak adlandırır (Hez 10:20) - meleksel taht hizmetkarlarının en yüksek düzeyi. Her iki yorumun da gerçek bir dayanağı vardır: dört yaratık, ibadette toplanan tüm yaratılmış yaşamı temsil ediyor olabilir, ya da bu ibadete öncülük eden keruvsal varlıklar olabilirler, ya da her ikisi birden.
 
-Onlara, Davut'un kurduğu {{% bible val="24 kâhin bölümünü" link="1ch:24,3-19" lang="tr" %}}, {{% bible val="24 Levili kapı bekçisini" link="1ch:26,17-19" lang="tr" %}} ve {{% bible val="24 daimi tapınmacıyı" link="1ch:25" lang="tr" %}} yankılayan, ama aynı zamanda İsrail'in 12 oymağını ve Kilise'nin temeli olan 12 havariyi de çağrıştıran {{% bible val="24 ihtiyar" link="rev:4,4" lang="tr" %}} katılır. (Bazı yorumcular ihtiyarları bunun yerine göksel meclisin üyeleri olarak görür - kurtarılmış insanlardan çok melek bir düzen; bu kimliklendirme tartışmalıdır. Ama kâhinlik ve Davut'un tapınma yankıları, burada Tanrı'nın halkının temsilcisi okumasını daha doğal bir uyum haline getirir.) Bir başka deyişle, İsrail ve Kilise, tüm çatışmalarına rağmen tek bir bütün olarak görülmelidir. Kilise, özünde, bir ibadet kilisesi olarak tanımlanır.
+Onlara, Davut'un kurduğu {{% bible val="24 kâhin bölümünü" link="1ch:24,3-19" lang="tr" %}}, {{% bible val="24 Levili kapı bekçisini" link="1ch:26,17-19" lang="tr" %}} ve {{% bible val="24 daimi tapınmacıyı" link="1ch:25" lang="tr" %}} yankılayan, ama aynı zamanda İsrail'in 12 oymağını ve Kilise'nin temeli olan 12 havariyi de çağrıştıran {{% bible val="24 ihtiyar" link="rev:4,4" lang="tr" %}} katılır. Büyük olasılıkla onlar, Tanrı'nın bütün halkını, İsrail'i ve Kilise'yi birlikte temsil eden meleklerdir.[^elders] Bir başka deyişle, İsrail ve Kilise, tüm çatışmalarına rağmen tek bir bütün olarak görülmelidir. Kilise, özünde, bir ibadet kilisesi olarak tanımlanır.
+
+[^elders]: Beale, s. 322, 324. Bauckham onları Tanrı'nın tahtı çevresindeki melekler meclisi olarak görür (*Theology*, s. 34).

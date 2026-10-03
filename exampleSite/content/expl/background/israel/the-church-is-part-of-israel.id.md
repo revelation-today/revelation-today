@@ -20,7 +20,7 @@ appl: /appl/background/israel
 **Mengapa ini penting bagi Kitab Wahyu:** Dalam Kitab Wahyu gereja menyandang nama-nama Israel: {{% bible val="suatu kerajaan dan imam-imam" link="rev:1,6" lang="ind" %}}, pengantin perempuan, dan sebuah kota yang pintu-pintu gerbangnya memuat {{% bible val="nama kedua belas suku" link="rev:21,12-14" lang="ind" %}} dan batu-batu dasarnya memuat kedua belas rasul. → {{% int_link val="Yerusalem Baru" link="/expl/content/paradise/the-new-jerusalem" %}}
 {{< /callout >}}
 
-Kedengarannya aneh pada mulanya. Bukankah gereja lebih besar daripada Israel? Atau apakah gereja menggantikan Israel? Ataukah Israel akan bangkit kembali pada akhir zaman, terlepas dari gereja? Setiap pertanyaan ini mengandaikan sebuah kontroversi yang, jika diteliti lebih dekat, sebenarnya tidak ada.
+Kedengarannya aneh pada mulanya. Bukankah gereja lebih besar daripada Israel? Atau apakah gereja menggantikan Israel? Ataukah Israel akan bangkit kembali pada akhir zaman, terlepas dari gereja? Setiap pertanyaan ini mempertentangkan Israel dan gereja. Perjanjian Baru tidak demikian.
 
 ## Rahasia Bangsa-Bangsa Lain
 
@@ -31,7 +31,7 @@ Dalam suratnya kepada jemaat di Efesus, Paulus menulis: "{{% bible val="yaitu, b
 
 Yesus adalah Perjanjian Baru itu, dan di dalam Dia orang Yahudi maupun bangsa-bangsa lain bersama-sama membentuk Israel akhir zaman. Hal itu dimulai ketika Yesus mati di kayu salib, dan akan digenapi sepenuhnya ketika Ia datang kembali. Yang terpenting, Israel akhir zaman ini tidak didefinisikan sebagai sebuah bangsa, melainkan oleh keanggotaannya di dalam Yesus.
 
-Banyak istilah yang digunakan Perjanjian Lama untuk Israel kini diterapkan kepada gereja — yang bukanlah sebuah entitas terpisah yang menggantikan Israel, melainkan Israel yang baru itu sendiri, yang mencakup baik Israel etnis yang percaya kepada Yesus maupun bangsa-bangsa lain yang percaya kepada-Nya. Bahkan, {{% bible val="perjanjian dengan Israel hanyalah sebuah tahap perantara antara Abraham dan gereja" link="gal:3,23-28" lang="ind" %}}.
+Banyak istilah yang digunakan Perjanjian Lama untuk Israel kini diterapkan kepada gereja — yang bukanlah sebuah entitas terpisah yang menggantikan Israel, melainkan Israel yang baru itu sendiri, yang mencakup baik Israel etnis yang percaya kepada Yesus maupun bangsa-bangsa lain yang percaya kepada-Nya. Dalam kata-kata Paulus, {{% bible val="hukum yang diberikan di Sinai adalah penuntun sampai Kristus datang" link="gal:3,23-28" lang="ind" %}}, supaya janji kepada Abraham sampai kepada semua orang yang percaya.
 
 ## Kekasih Tuhan
 

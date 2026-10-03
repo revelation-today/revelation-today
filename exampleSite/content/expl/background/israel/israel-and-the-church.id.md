@@ -8,6 +8,10 @@ sources:
       ref: aune_rev
     - pages: 31
       ref: beale_rev
+    - pages: 82, 94, 322, 591–592
+      ref: beale_rev
+    - pages: 238, 586–587
+      ref: aune_rev
 prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/content/vision/setting-the-foundation
 docType: expl
@@ -34,13 +38,13 @@ Untuk sementara waktu agama Kristen berlindung di bawah perlindungan agama Yahud
 <a name="b028"></a>
 Kitab Wahyu hanya membahas satu hal: Yesus, dan segala sesuatu yang diputuskan berdasarkan diri-Nya. Hal itu juga berlaku bagi bagaimana kitab ini memperlakukan orang Yahudi.
 
-Ketegangan antara orang Kristen dan orang Yahudi ini terjadi secara nyata dalam surat kepada {{% bible val="Smirna" link="rev:2,9" lang="ind" %}} dan {{% bible val="Filadelfia" link="rev:3,9" lang="ind" %}}, di mana orang Yahudi setempat menyerang jemaat karena bersaksi tentang Yesus — itulah sebabnya Yohanes menyebut mereka sinagoge Iblis. Ketika orang-orang Yahudi yang sama di Filadelfia kemudian dikatakan akan sujud di hadapan jemaat, maksudnya bukanlah bahwa mereka tunduk kepada jemaat sebagai sebuah lembaga, melainkan bahwa mereka sampai kepada penerimaan akan Yesus.
+Ketegangan antara orang Kristen dan orang Yahudi ini terjadi secara nyata dalam surat kepada {{% bible val="Smirna" link="rev:2,9" lang="ind" %}} dan {{% bible val="Filadelfia" link="rev:3,9" lang="ind" %}}, di mana orang Yahudi setempat menyerang jemaat karena bersaksi tentang Yesus — itulah sebabnya Yohanes menyebut mereka sinagoge Iblis. Ketika para penentang yang sama di Filadelfia kemudian dikatakan akan sujud di hadapan jemaat, maksudnya bukanlah ketundukan kepada jemaat sebagai sebuah lembaga. Maksudnya adalah pembenaran: mereka harus mengakui bahwa Yesus mengasihi jemaat ini (3:9). Apakah mereka sendiri sampai kepada iman, ayat itu membiarkannya terbuka — dan dengan demikian pintu tetap terbuka.[^bow]
 
-Dinamika yang sama muncul dalam pasal 11. Tempat di mana kedua saksi itu dibunuh secara rohani digambarkan sebagai Sodom (tempat dosa) dan Mesir (tempat perbudakan) — sebuah gambaran tentang Yerusalem, sebab di situlah Tuhan mereka, Yesus, dibunuh. Yang menarik, bahkan nama "Yerusalem" pun sengaja dihindari di sini.
+Dinamika yang sama muncul dalam pasal 11. Tempat di mana kedua saksi itu dibunuh secara rohani digambarkan sebagai Sodom (tempat dosa) dan Mesir (tempat perbudakan). Gambaran itu diambil dari Yerusalem, tempat Tuhan mereka dibunuh, tetapi "kota besar" itu lebih luas daripada satu tempat: itulah dunia yang menolak saksi-saksi Allah, di mana pun hal itu terjadi.[^city]
 
 Namun demikian, di tengah segala ketegangan itu, Kitab Wahyu tidak pernah mengarahkan argumennya untuk menentang Israel secara etnis (seberapa besar bobot pernyataan ini bergantung pada bagaimana seseorang menafsirkan 144.000 orang di pasal 7). Apa yang sebenarnya dibahas kitab ini di sepanjang halamannya adalah hubungan orang-orang dengan Yesus, bukan etnisitas mereka.
 
-Itu karena gereja adalah bagian dari Israel, bukan penggantinya. Kitab Wahyu menyatakan kesatuan ini secara eksplisit di beberapa tempat: 24 tua-tua di pasal 4 mewakili 12 suku dan 12 rasul bersama-sama, dan nama-nama 12 suku serta 12 rasul terukir berdampingan di Yerusalem Baru. Dan pengharapan yang ditawarkan Kitab Wahyu bukanlah sorga yang netral tanpa tempat, melainkan sebuah kota: Yerusalem Baru, yang turun dari sorga ke bumi yang diperbarui dan memuat nama-nama suku Israel. Masa depan gereja berakar dalam kisah Israel, bukan terlepas darinya. Inilah kunci mengapa bahasa Kitab Wahyu tentang orang Yahudi bisa terdengar begitu tajam: justru karena gereja adalah bagian dari Israel, ia tidak dapat memutuskan akarnya sendiri, bahkan ketika sebagian orang Yahudi secara terang-terangan menyerangnya.
+Itu karena gereja adalah bagian dari Israel, bukan penggantinya. Kitab Wahyu menyatakan kesatuan ini secara eksplisit di beberapa tempat: 24 tua-tua di pasal 4 — kemungkinan besar malaikat yang mewakili seluruh umat Allah — membawa bilangan 12 suku dan 12 rasul bersama-sama,[^elders] dan nama-nama 12 suku serta 12 rasul terukir berdampingan di Yerusalem Baru. Dan pengharapan yang ditawarkan Kitab Wahyu bukanlah sorga yang netral tanpa tempat, melainkan sebuah kota: Yerusalem Baru, yang turun dari sorga ke bumi yang diperbarui dan memuat nama-nama suku Israel. Masa depan gereja berakar dalam kisah Israel, bukan terlepas darinya. Inilah kunci mengapa bahasa Kitab Wahyu tentang orang Yahudi bisa terdengar begitu tajam: justru karena gereja adalah bagian dari Israel, ia tidak dapat memutuskan akarnya sendiri, bahkan ketika sebagian orang Yahudi secara terang-terangan menyerangnya.
 
 ## Ringkasan
 
@@ -48,3 +52,9 @@ Itu karena gereja adalah bagian dari Israel, bukan penggantinya. Kitab Wahyu men
 Tantangan bagi gereja, kalau begitu, adalah memegang kedua kebenaran ini sekaligus — menjadi bagian dari Israel sekaligus, pada saat yang sama, terkadang diserang oleh Israel.
 
 Ada banyak hal yang bisa kita pelajari dari kitab ini tentang cara menghadapi ketegangan serupa pada masa kini, baik antara denominasi gereja yang berbeda-beda maupun dalam hubungan kita dengan orang Yahudi.
+
+[^bow]: Aune, *Revelation 1–5*, hlm. 238; Beale, hlm. 94: janji dalam Yesaya 45:14; 49:23 dan 60:14 dibalikkan. Bahwa pertobatan mungkin dimaksudkan: Beale, hlm. 82.
+
+[^city]: Beale, hlm. 591–592; Aune, *Revelation 6–16*, hlm. 586–587.
+
+[^elders]: Beale, hlm. 322.

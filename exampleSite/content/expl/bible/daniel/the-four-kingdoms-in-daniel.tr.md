@@ -19,7 +19,7 @@ Daniel kitabı, pek çok son zamanlar yorumunun kaynağı gibi görünmektedir. 
 <a name="b8b5"></a>
 Daniel'in 2. ve 7. bölümleri, birbirini izleyen dört krallığa bir bakış sunar — {{% bible val="2. bölüm bir heykel görümü aracılığıyla" link="dan:2" lang="tr" %}}, {{% bible val="7. bölüm ise bir dizi canavar aracılığıyla" link="dan:7" lang="tr" %}}. Her iki bölüm de krallıkları birbirini izleyen bir sıra hâlinde sunar: 2. bölüm bunu açıkça yaparken, 7. bölüm bunu canavarların birbirini fethedip yerini alması yoluyla gösterir.
 
-2. bölüm bize açık bir başlangıç noktası verir, çünkü {{% bible val="ilk krallık Babil'dir" link="dan:2,37-38" lang="tr" %}}. Babil, {{% bible val="Med-Pers İmparatorluğu tarafından yıkıldı" link="dan:5,30" lang="tr" %}}. Bazı yorumcular Med ve Pers imparatorluklarını birbirini izleyen iki ayrı imparatorluk olarak ele alır, ama bu tarihle örtüşmez — ikisi, Babil'i yıkmadan önce zaten birleşmişti.
+2. bölüm bize açık bir başlangıç noktası verir, çünkü {{% bible val="ilk krallık Babil'dir" link="dan:2,37-38" lang="tr" %}}. Babil, {{% bible val="Med-Pers İmparatorluğu tarafından yıkıldı" link="dan:5,30" lang="tr" %}}. Birçok araştırmacı farklı sayar — Babil, Med, Pers, Yunan — ve diziyi Yunan kralı IV. Antiohos'la bitirir.[^four] Bu site Med-Pers'i tek krallık, Roma'yı da dördüncü olarak sayar; gerekçelerini Daniel'in kendisi verir. Babil "Medler'le Persler'e" verilir (5:28) ve kral "Medler'le Persler'in yasası" uyarınca hüküm sürer (6:8). 8. bölümde iki boynuzlu tek bir koç "Med ve Pers krallarını" simgeler; ardından Yunan olan teke gelir (8:20–21). Tarih de bunu doğrular: ikisi, Babil düşmeden önce zaten birleşmişti. Daniel'in ilk okurları da Antiohos'un ötesine baktı. İsa "yıkıcı iğrenç şeyi" hâlâ beklemektedir (Mat. 24:15) ve Vahiy, her şeyden önce Roma olan canavarını Daniel'in dört canavarının hepsinden kurar.
 
 Üçüncü krallık, {{% bible val="Med-Pers İmparatorluğu'nu fetheden Büyük İskender yönetimindeki Yunan imparatorluğudur" link="dan:8,19-21" lang="tr" %}}. İskender'in ölümünden sonra bu imparatorluk dörde bölündü ve sonunda dördüncü ve son krallık olan Roma tarafından yutuldu.
 
@@ -54,7 +54,7 @@ Her iki bölüm de aynı şekilde biter: tanrısal bir olayla. 2. bölümde bu, 
 
 Bu, başka bir yerde {{% bible val="İsa Mesih" link="1pe:2,4-8" lang="tr" %}} olarak tanımlanan ve {{% bible val="Kilise'nin temeli" link="eph:2,19-22" lang="tr" %}} olan {{% bible val="köşe taşını" link="isa:28,16" lang="tr" %}} hatırlatır. O, "insan eliyle" yapılmamıştı ve dünyanın hükümdarı olarak kiliseye yönetme yetkisini verdi. 7. bölüm, aynı müdahaleyi başka bir açıdan gösterir: {{% bible val="Eskiden Beri Var Olan ve İnsanoğlu, krallıkların üstesinden gelir" link="dan:7,9-12" lang="tr" %}} ve {{% bible val="sonsuz bir krallık kurar" link="dan:7,13-14" lang="tr" %}}.
 
-Peki bu İnsanoğlu kimdir? Daniel'in kendi bağlamında bu, İsrail'dir — {{% bible val="krallığı alan" link="dan:7,18" lang="tr" %}} onlardır, {{% bible val="İnsanoğlu" link="dan:7,14" lang="tr" %}} unvanı altında. Ama bu, gerçek İsrail olarak İsa'da yerine gelir; [İnsanoğlu'nun, İsa'nın kendisi için kullandığı tek unvan olduğunu](https://www.bibleserver.com/search/NIV/son%20of%20man) belirtmekte fayda var.
+Peki bu İnsanoğlu kimdir? Daniel'in kendi bağlamında o, Tanrı'nın kutsal halkını temsil eder: {{% bible val="ona verilen" link="dan:7,14" lang="tr" %}}, {{% bible val="onlara verilmiş olur" link="dan:7,18" lang="tr" %}}.[^corporate] Ama bu, gerçek İsrail olarak İsa'da yerine gelir; [İnsanoğlu'nun, İsa'nın kendisi için kullandığı tek unvan olduğunu](https://www.bibleserver.com/search/NIV/son%20of%20man) belirtmekte fayda var.
 
 ## Daha fazlası var
 
@@ -68,3 +68,7 @@ Ama biz bundan gerçekte ne kadar yararlanıyoruz? Yeni bir dünya yerine, tarih
 Roma, İsrail üzerinde doğrudan egemenlik kuran dört krallığın sonuncusudur. İsa aracılığıyla kurulan yeni antlaşmadan sonra, Tanrı'nın halkı tüm dünyaya yayılmıştır ve artık onların hepsini kapsayan tek bir imparatorluk yoktur.
 
 On kral ve üç boynuz etrafında — ki Daniel'in kendisi 7. bölümde bunlar hakkında daha fazla bilgi ister — çok daha fazla tartışma vardır, ama bu tartışma, {{% int_link val="şeytani üçlüyle" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve on krallarla yeniden karşılaştığımız Vahiy kitabının bağlamına aittir.
+
+[^four]: Eleştirel araştırmada çoğunluk görüşü budur (örneğin John J. Collins). En güçlü noktaları: Daniel "Med Darius"u ayrı bir hükümdar olarak anar (5:31; 9:1) ve 7. bölümdeki küçük boynuz, Antiohos olan 8. bölümdeki boynuza benzer. Roma için: Beale, s. 633, 683, 687, 708; Josephus, *Antiquitates* 10.276. 4. Ezra 12:10–13 de Roma'yı anar, ancak daha eski bir okumayı yeniden yorumlayarak (Beale, s. 687).
+
+[^corporate]: Beale, s. 221.

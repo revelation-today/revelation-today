@@ -12,7 +12,7 @@ sources:
       ref: beale_rev
 ---
 
-Die 70 Jahrwochen gehören zu den geheimnisvollsten Abschnitten der Bibel und haben nicht wenige interessante Auslegungen über die Endzeit hervorgebracht. Schauen wir uns genauer an, worum es dabei geht.
+Die 70 Jahrwochen gehören zu den geheimnisvollsten Abschnitten der Bibel und haben nicht wenige interessante Auslegungen über die Endzeit hervorgebracht. Schauen wir uns genauer an, worum es dabei geht. Dieser Artikel folgt der alten Lesart, dass die siebzig Wochen auf den Messias zulaufen. Zwei andere Lesarten sind verbreitet.[^weeks]
 
 ## Was ist eine Jahrwoche
 
@@ -86,3 +86,5 @@ Die sieben Jahre enden im Jahr 34, dem Jahr, in dem {{% bible val="vermutlich St
 Das ist der Moment, in dem die Gemeinde beginnt, Jesus in vollem Umfang nachzufolgen — der neue Bund ist nun wirklich aktiv.
 
 ![](/images/70years_de.jpg)
+
+[^weeks]: Die historisch-kritische Forschung lässt die Wochen mit Antiochus IV. enden und versteht den Gesalbten, der „ausgerottet“ wird, als den Hohenpriester Onias III. (gest. 171 v. Chr.). Dispensationalistische Ausleger verlegen die letzte Woche in die Zukunft, nach einer langen Lücke.

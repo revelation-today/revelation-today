@@ -12,6 +12,8 @@ sources:
       ref: beale_rev
     - pages: "vol. 16: 1073"
       ref: tdot
+    - pages: 90, 221, 259, 270, 633
+      ref: beale_rev
 ---
 
 Jesus nennt sich selbst nur mit einem einzigen Titel: „Menschensohn“. Warum dieser Titel, und was bedeutet er?
@@ -25,7 +27,7 @@ Der Titel stammt aus einer Vision in Daniel:
 
 Die Vision selbst erklärt nicht direkt, wer diese Gestalt ist, sodass wir ein wenig nachforschen müssen — wenn auch nicht sehr weit, denn die Erklärung folgt nur wenige Verse später: „{{% bible val="Aber die Heiligen des Allerhöchsten werden das Reich empfangen, und sie werden das Reich besitzen für immer, ja, für immer und ewig." link="dan:7,18" lang="de" %}}“
 
-Die Heiligen des Allerhöchsten sind das Volk Israel, und sie sind es, die diese Gestalt repräsentiert — Menschen, nicht Gott, die für eine Nation stehen. Für diese Art der Repräsentation gibt es Vorbilder: Eine Gruppe konnte durch eine einzelne Gestalt dargestellt werden, wie wenn {{% bible val="Tochter Zion" link="isa:1,8" lang="de" %}} für Israel steht, oder {{% bible val="die Geschichte Israels als die Geschichte einer Frau erzählt wird" link="ezk:16" lang="de" %}}, oder das {{% bible val="Nord- und das Südreich als zwei Schwestern dargestellt werden" link="ezk:23" lang="de" %}}.
+Die Heiligen des Allerhöchsten sind das Volk Israel, und der Menschensohn steht für sie: eine Gestalt, die das ganze Volk vertritt, sodass das, was ihm gegeben wird, ihnen gegeben wird.[^corporate] Für diese Art der Repräsentation gibt es Vorbilder: Eine Gruppe konnte durch eine einzelne Gestalt dargestellt werden, wie wenn {{% bible val="Tochter Zion" link="isa:1,8" lang="de" %}} für Israel steht, oder {{% bible val="die Geschichte Israels als die Geschichte einer Frau erzählt wird" link="ezk:16" lang="de" %}}, oder das {{% bible val="Nord- und das Südreich als zwei Schwestern dargestellt werden" link="ezk:23" lang="de" %}}.
 
 ## Die Aussage
 
@@ -68,11 +70,11 @@ Wenn Jesus von sich selbst spricht, [verwendet er nur den Titel Menschensohn](ht
 
 Wie also lässt sich die Prophezeiung auf ihn anwenden? Halt dich fest, denn das wird jetzt etwas unbequem.
 
-Jesus ist der Überrest Israels — es gibt sonst niemanden mehr, der diese Rolle ausfüllen könnte. Das Horn, oder „ein anderer König“, widersetzt sich ihm und versucht, sein Gesetz zu ändern, für „3,5 Zeiten“; Jesu Wirken dauerte etwa drei Jahre, und er stand am dritten Tag von den Toten auf. Und das Ergebnis von Jesu Rechtfertigung ist die Vernichtung seiner Feinde.
+Jesus ist der Überrest Israels — es gibt sonst niemanden mehr, der diese Rolle ausfüllen könnte. Wie das heilige Volk in der Vision wird er ausgeliefert, besiegt und getötet und dann ins Recht gesetzt: Das Gericht tritt zusammen, und das Königreich wird ihm gegeben. Die Niederlage kommt vor dem Sieg, für ihn wie für sie.
 
-Man könnte annehmen, diese Feinde seien der Satan oder der Antichrist, aber die Evangelien erzählen eine andere Geschichte. Es ist {{% bible val="Israel, das ihn ablehnt" link="jhn:1,11-14" lang="de" %}} — die religiösen Führer, die {{% bible val="ihn angreifen und sich verschwören, um ihn zu töten" link="jhn:11,45-54" lang="de" %}}, die ein Gericht einsetzen, um ihn zu verurteilen, und {{% bible val="auf seine Hinrichtung drängen" link="jhn:19,1-15" lang="de" %}}. Ebenso war es {{% bible val="Israel, das das Gesetz verdreht hatte" link="mat:5,17-48" lang="de" %}} („Ihr habt gehört, dass gesagt ist …“).
+Wer ist das Horn? Nicht Israel. Bei Daniel ist das Horn der letzte König des vierten Tieres, und die Offenbarung nimmt es in ihrem eigenen Tier auf, der Macht, die Krieg gegen die Heiligen führt (13,5–7).[^horn] Diese Macht war am Kreuz am Werk durch alle, die beteiligt waren: einen römischen Statthalter, der den Befehl gab, Soldaten, die ihn ausführten, und Führer seines eigenen Volkes, die {{% bible val="sich gegen ihn verschworen" link="jhn:11,45-54" lang="de" %}} und {{% bible val="auf seine Hinrichtung drängten" link="jhn:19,1-15" lang="de" %}}. {{% bible val="Die Seinen nahmen ihn nicht auf" link="jhn:1,11-14" lang="de" %}} — und das ist der Schmerz dieser Geschichte, nicht ihr Urteil.
 
-Die harte Wahrheit ist, dass sein eigenes Volk, Israel, dadurch, dass es sich ihm widersetzte, zu seinem großen Feind wurde. Wir sollten sehr vorsichtig sein, es dafür zu verurteilen, denn die Gemeinde hat es nicht besser gemacht.
+Wir sollten sehr vorsichtig sein, sie dafür zu verurteilen, denn die Gemeinde hat es nicht besser gemacht.
 
 Aber was tat Jesus als Antwort darauf? {{% bible val="Er vergab ihnen, weil sie nicht wussten, was sie taten" link="luk:23,34" lang="de" %}}. {{% bible val="Seine Berufung war es, Israel wiederherzustellen und so viele von ihnen wie möglich zu sich zu rufen" link="mat:15,24" lang="de" %}} — es fiel den Jüngern zu, zu den Völkern zu gehen, {{% bible val="obwohl schon Jesus selbst unterwegs Ausnahmen machte" link="mat:8,5-13" lang="de" %}}. Er kam nicht als Richter, sondern als Retter, auch wenn er einst als Richter wiederkommen wird. Und er verwarf Israel nicht, um es durch die Gemeinde zu ersetzen — er ließ Israel neu beginnen und fügte die Gemeinde in es ein.
 
@@ -94,3 +96,7 @@ Die Zeugen werden mit dem Menschensohn identifiziert, weil sie das Muster von Je
 - {{% bible val="Sie werden vom Feind besiegt, wenn ihr Zeugnis vollendet ist" link="rev:11,7" lang="de" %}}.
 - {{% bible val="Aber das ist nicht ihre Niederlage, denn sie werden auferweckt wie Jesus" link="rev:11,8-11" lang="de" %}}.
 - {{% bible val="Sie werden erhöht wie Jesus" link="rev:11,12" lang="de" %}}.
+
+[^corporate]: Beale, S. 221: der Menschensohn als korporativer Repräsentant der Heiligen. Frühe jüdische Ausleger verstanden ihn als Israel (Beale, S. 259). Andere sehen in der Gestalt einen Engel, Michael (so John J. Collins).
+
+[^horn]: Beale, S. 90, 270, 633.

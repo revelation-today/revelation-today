@@ -27,7 +27,7 @@ Even so, God promised {{% bible val="to have mercy on them" link="lev:26,40-46" 
 
 When Israel finally returned from exile, things looked promising on the surface — the temple was rebuilt under Ezra, the wall was rebuilt under Nehemiah, and {{% bible val="Joshua was set up as the high priest" link="zec:3" lang="en" %}} alongside {{% bible val="Zerubbabel as the ruler" link="zec:4" lang="en" %}} who would establish God's kingdom. But look closer and the promised restoration clearly hadn't arrived: the people {{% bible val="were still in slavery" link="ezr:9" lang="en" %}} in every meaningful sense, they did not own their own land under Persian rule, the {{% bible val="blessing of the Lord did not come" link="hag:1,7-12" lang="en" %}} and the {{% bible val="land was still under the curse" link="mal:3,10-11" lang="en" %}}, and {{% bible val="the outpouring of the Spirit did not occur" link="ezk:36,25-27" lang="en" %}}.
 
-So by every measure that mattered, Israel was still in exile — and Scripture says that exile will only end with the Day of the Lord. That's the burden of the prophets who wrote after the return: Haggai, Zechariah, Isaiah 56–66, and Malachi.
+So by every measure that mattered, Israel was still in exile[^exile] — and Scripture says that exile will only end with the Day of the Lord. That's the burden of the prophets who wrote after the return: Haggai, Zechariah, Isaiah 56–66, and Malachi.
 
 ## Content of the Day of the Lord
 
@@ -40,3 +40,5 @@ But this will happen only to the {{% int_link val="remnant of Israel" link="/exp
 
 <a name="d4y1"></a>
 Revelation takes up the prophets' phrase for its own climax. When the sixth seal is opened, the powerful hide and cry out that {{% bible val="the great day of their wrath has come" link="rev:6,17" lang="en" %}}; and the kings of the earth are gathered {{% bible val="for the battle on the great day of God Almighty" link="rev:16,14" lang="en" %}}. In both places the Day brings what the prophets promised: judgment on the enemies of God's people and rescue for the faithful. And as {{% int_link val="Jesus showed" link="/expl/background/israel/jesus-and-the-covenant#already" %}}, that Day has already begun with him — its saving half is here, its judging half is still to come. → {{% int_link val="The wrath of the Lamb" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="The key to Armageddon" link="/expl/content/bowls/the-key-to-armageddon" %}}
+
+[^exile]: Beale, p. 19; N. T. Wright, *The New Testament and the People of God*, pp. 268–272. The thesis is debated: see J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).

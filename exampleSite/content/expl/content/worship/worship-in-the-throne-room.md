@@ -18,6 +18,10 @@ sources:
       ref: beale_rev
     - pages: 366
       ref: beale_rev
+    - pages: 322, 324
+      ref: beale_rev
+    - pages: 34
+      ref: bauckham_rev
 readBefore:
     - name: "The Structure of the Book of Revelation"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation
@@ -219,4 +223,6 @@ Creation is one traditional reading of {{% bible val="the four creatures" link="
 
 But Ezekiel's own parallel vision explicitly names this class of being as cherubim (Ezek 10:20) — the highest order of angelic throne-attendants. Both readings have real support: the four creatures may represent all created life gathered in worship, or they may be the cherubic beings who lead that worship, or both together.
 
-They are joined by the {{% bible val="24 elders" link="rev:4,4" lang="en" %}}, echoing the {{% bible val="24 divisions of priests" link="1ch:24,3-19" lang="en" %}}, the {{% bible val="24 Levitical gatekeepers" link="1ch:26,17-19" lang="en" %}}, and the {{% bible val="24 permanent worshipers" link="1ch:25" lang="en" %}} that David established — but also evoking the 12 tribes of Israel and the 12 apostles as the foundation of the Church. (Some interpreters instead take the elders as members of the heavenly council — an angelic order rather than redeemed humans; the identification is debated. But the priestly and Davidic-worship echoes make the representative-of-God's-people reading the more natural fit here.) Israel and the Church, in other words, should be seen as one entity despite all their conflicts. The Church, at its core, is defined as a church of worship.
+They are joined by the {{% bible val="24 elders" link="rev:4,4" lang="en" %}}, echoing the {{% bible val="24 divisions of priests" link="1ch:24,3-19" lang="en" %}}, the {{% bible val="24 Levitical gatekeepers" link="1ch:26,17-19" lang="en" %}}, and the {{% bible val="24 permanent worshipers" link="1ch:25" lang="en" %}} that David established — but also evoking the 12 tribes of Israel and the 12 apostles as the foundation of the Church. They are probably angels who represent the whole people of God, both together.[^elders] Israel and the Church, in other words, should be seen as one entity despite all their conflicts. The Church, at its core, is defined as a church of worship.
+
+[^elders]: Beale, pp. 322, 324. Bauckham takes them as the angelic council around God's throne (*Theology*, p. 34).

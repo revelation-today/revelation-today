@@ -20,7 +20,7 @@ appl: /appl/background/israel
 **Warum das für die Offenbarung wichtig ist:** Die Offenbarung erzählt den Auszug als die Geschichte der Gemeinde, vom Passalamm bis zum Lied des Mose — siehe {{% int_link val="der neue Auszug in der Offenbarung" link="/expl/background/israel/the-second-exodus#x0d1" %}}.
 {{< /callout >}}
 
-Es gab einen Auszug aus Ägypten. Aber als Israel es versäumte, das Gesetz zu halten, ging es ins Exil — die ganze Zeit über erfüllt von Verheißungen der Rückkehr. Als die Rückkehr schließlich kam, zeigte sich jedoch, dass sich nichts wirklich verändert hatte. Die Schlussfolgerung, die die Propheten und das spätere jüdische Denken daraus zogen: Israel war immer noch im Exil, wartete immer noch auf einen neuen Auszug. Dieser neue Auszug ist es, der mit Jesus kommt.
+Es gab einen Auszug aus Ägypten. Aber als Israel es versäumte, das Gesetz zu halten, ging es ins Exil — die ganze Zeit über erfüllt von Verheißungen der Rückkehr. Als die Rückkehr schließlich kam, zeigte sich jedoch, dass sich nichts wirklich verändert hatte. Die Schlussfolgerung, die die Propheten und das spätere jüdische Denken daraus zogen: Israel war immer noch im Exil, wartete immer noch auf einen neuen Auszug.[^exile] Dieser neue Auszug ist es, der mit Jesus kommt.
 
 ## Der Auszug bei Markus
 
@@ -72,7 +72,7 @@ Daneben entwickelt die Apostelgeschichte sechs Hauptbotschaften, die das Thema d
 
 Ein verwandtes Thema, das sich durch die Apostelgeschichte zieht, ist „das Wort Gottes“, das nach der {{% bible val="Erwählung des Stephanus" link="act:6,7" lang="de" %}}, {{% bible val="nach dem Tod des Herodes" link="act:12,24" lang="de" %}} und während {{% bible val="Paulus’ Zeit in Ephesus" link="act:19,20" lang="de" %}} voranschreitet. Das greift Schlüsselstellen bei Jesaja zum selben Thema auf: {{% bible val="womit kann Gott verglichen werden" link="isa:40,18-24" lang="de" %}}, er {{% bible val="ist verlässlicher als Götzen" link="isa:41,4-10" lang="de" %}}, die {{% bible val="Nichtigkeit der Götzen" link="isa:44,9-20" lang="de" %}}, und {{% bible val="die Götzen Babels" link="isa:46,1-13" lang="de" %}}.
 
-Zusammengenommen zeigt dieser Vergleich eine echte Spannung zwischen der Apostelgeschichte und Jesaja auf: Gott wird als souverän über die Götzen dargestellt, doch Israel klammert sich trotzdem weiter an sie. Diese Spannung spitzt sich besonders in {{% bible val="Apostelgeschichte 17" link="act:17" lang="de" %}} zu, wo der Widerstand der Juden gegen Paulus vermutlich in eben dieser Anhänglichkeit an die Götzen wurzelt.
+Zusammengenommen zeigt dieser Vergleich, wie eng die Apostelgeschichte Jesaja folgt: Gott ist souverän über die Götzen, und doch klammern sich Menschen weiter an sie. Das spitzt sich in {{% bible val="Apostelgeschichte 17" link="act:17" lang="de" %}} zu, wo Paulus in Athen steht, einer Stadt „voller Götzenbilder“, und den Gott verkündigt, der die Welt gemacht hat.
 
 Besonders scharf wird Gericht angekündigt, wann immer diese Götzen — oder die Menschen hinter ihnen — Göttlichkeit für sich beanspruchen, wie in den Fällen von {{% bible val="Simon" link="act:8,4-24" lang="de" %}}, {{% bible val="Herodes" link="act:12,20-23" lang="de" %}} und {{% bible val="Elymas" link="act:13,10-11" lang="de" %}}.
 
@@ -98,3 +98,5 @@ Der zweite Auszug, den die Propheten verheißen haben und der nach den Evangelie
 Der neue Auszug, auf den Israel so lange gewartet hatte, geschieht endlich — und er ist untrennbar mit Jesus verbunden. Offen bleibt, ob Israel und die Nationen sich für Gott entscheiden oder weiter an ihren Götzen festhalten werden; das Buch der Apostelgeschichte behandelt das als alles andere als eine Nebenfrage.
 
 So gelesen, zeichnen Evangelium und Apostelgeschichte eine einzige, fortlaufende Spannung nach: die Wiederherstellung des Israel, das an Christus glaubt, zusammen mit der Rettung der Nationen, die gemeinsam mit ihnen hinzugezogen werden.
+
+[^exile]: Beale, S. 19; N. T. Wright, *The New Testament and the People of God*, S. 268–272. Die These ist umstritten: siehe J. M. Scott (Hg.), *Exile: A Conversation with N. T. Wright* (2017).

@@ -12,6 +12,8 @@ sources:
       ref: beale_rev
     - pages: "vol. 16: 1073"
       ref: tdot
+    - pages: 90, 221, 259, 270, 633
+      ref: beale_rev
 ---
 
 Jesus calls himself by only one title: the "Son of Man." Why that title, and what does it mean?
@@ -25,7 +27,7 @@ The title comes from a vision in Daniel:
 
 The vision offers no direct explanation of who this figure is, so we have to dig a little — though not very far, since the explanation follows just a few verses later: “{{% bible val="But the holy people of the Most High will receive the kingdom and will possess it for ever — yes, for ever and ever." link="dan:7,18" lang="en" %}}”
 
-The holy people of the Most High are the people of Israel, and they are the ones this figure represents — men, not God, standing in for a nation. That kind of representation has precedent: a group could be pictured through a single figure, as when {{% bible val="daughter Zion" link="isa:1,8" lang="en" %}} stands for Israel, or {{% bible val="Israel's story is told as the story of a woman" link="ezk:16" lang="en" %}}, or the {{% bible val="northern and southern kingdoms are pictured as two sisters" link="ezk:23" lang="en" %}}.
+The holy people of the Most High are the people of Israel, and the Son of Man stands for them: one figure who represents the whole people, so that what is given to him is given to them.[^corporate] That kind of representation has precedent: a group could be pictured through a single figure, as when {{% bible val="daughter Zion" link="isa:1,8" lang="en" %}} stands for Israel, or {{% bible val="Israel's story is told as the story of a woman" link="ezk:16" lang="en" %}}, or the {{% bible val="northern and southern kingdoms are pictured as two sisters" link="ezk:23" lang="en" %}}.
 
 ## The statement
 
@@ -68,11 +70,11 @@ When Jesus refers to himself, he [uses only the title Son of Man](https://www.bi
 
 So how does the prophecy apply to him? I hope you're sitting down, because working this through gets a bit uncomfortable.
 
-Jesus is the remnant of Israel — there is no one else left to fill that role. The horn, or "another king," opposes him and tries to change his law for "3.5 times"; Jesus' ministry lasted about three years, and he rose from the dead on the third day. And the result of Jesus' vindication is the destruction of his enemies.
+Jesus is the remnant of Israel — there is no one else left to fill that role. Like the holy people in the vision, he is handed over, defeated and killed, and then vindicated: the court sits, and the kingdom is given to him. Defeat comes before victory, for him as for them.
 
-You might assume those enemies are Satan or the Antichrist, but the Gospels tell a different story. It is {{% bible val="Israel who rejected him" link="jhn:1,11-14" lang="en" %}} — the religious leaders who {{% bible val="attacked him and conspired to kill him" link="jhn:11,45-54" lang="en" %}}, who set up a court to convict him and {{% bible val="pressed for his execution" link="jhn:19,1-15" lang="en" %}}. It was likewise {{% bible val="Israel that had twisted the law" link="mat:5,17-48" lang="en" %}} ("You have heard that it was said...").
+Who is the horn? Not Israel. In Daniel the horn is the last king of the fourth beast, and Revelation takes it up in its own beast, the power that makes war on the saints (13:5–7).[^horn] That power was at work at the cross through everyone who took part: a Roman governor who gave the order, soldiers who carried it out, and leaders of his own people who {{% bible val="conspired against him" link="jhn:11,45-54" lang="en" %}} and {{% bible val="pressed for his execution" link="jhn:19,1-15" lang="en" %}}. {{% bible val="His own did not receive him" link="jhn:1,11-14" lang="en" %}} — and that is the grief of the story, not its verdict.
 
-The hard truth is that his own people, Israel, became his great enemy by opposing him. We should be very careful about judging them for it, since the church has done no better.
+We should be very careful about judging them for it, since the church has done no better.
 
 But what did Jesus do in response? {{% bible val="He forgave them, because they did not know what they were doing" link="luk:23,34" lang="en" %}}. {{% bible val="His calling was to restore Israel and call as many of them to himself as possible" link="mat:15,24" lang="en" %}} — it fell to the disciples to go to the nations, {{% bible val="though even Jesus made exceptions along the way" link="mat:8,5-13" lang="en" %}}. He did not come as a judge but as a savior, though he will come again as one. And he did not reject Israel and replace it with the Church — he restarted Israel and folded the Church into it.
 
@@ -94,3 +96,7 @@ The witnesses are identified with the Son of Man because they live out the patte
 - {{% bible val="They are defeated by the enemy when their testimony is finished" link="rev:11,7" lang="en" %}}.
 - {{% bible val="But this is not their defeat because they will be resurrected like Jesus" link="rev:11,8-11" lang="en" %}}.
 - {{% bible val="They are exalted like Jesus" link="rev:11,12" lang="en" %}}.
+
+[^corporate]: Beale, p. 221: the Son of Man as the corporate representative of the saints. Early Jewish readers took him as Israel (Beale, p. 259). Others take the figure as an angel, Michael (so John J. Collins).
+
+[^horn]: Beale, pp. 90, 270, 633.

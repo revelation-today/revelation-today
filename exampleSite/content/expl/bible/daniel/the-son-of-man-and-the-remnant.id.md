@@ -12,6 +12,8 @@ sources:
       ref: beale_rev
     - pages: "vol. 16: 1073"
       ref: tdot
+    - pages: 90, 221, 259, 270, 633
+      ref: beale_rev
 ---
 
 Yesus menyebut diri-Nya sendiri hanya dengan satu gelar: "Anak Manusia." Mengapa gelar itu, dan apa maknanya?
@@ -25,7 +27,7 @@ Gelar ini berasal dari sebuah penglihatan dalam Kitab Daniel:
 
 Penglihatan ini tidak memberikan penjelasan langsung tentang siapa sosok ini, sehingga kita perlu menyelidikinya sedikit lebih jauh — meskipun tidak terlalu jauh, sebab penjelasannya menyusul hanya beberapa ayat kemudian: “{{% bible val="tetapi orang-orang kudus milik Yang Mahatinggi akan menerima pemerintahan itu, dan mereka akan memegang pemerintahan itu untuk selama-lamanya, bahkan untuk seterusnya!" link="dan:7,18" lang="ind" %}}”
 
-Orang-orang kudus milik Yang Mahatinggi adalah umat Israel, dan merekalah yang diwakili oleh sosok ini — manusia, bukan Allah, yang mewakili sebuah bangsa. Bentuk perwakilan semacam ini punya preseden: sebuah kelompok bisa digambarkan melalui satu sosok tunggal, seperti ketika {{% bible val="putri Sion" link="isa:1,8" lang="ind" %}} mewakili Israel, atau {{% bible val="kisah Israel diceritakan sebagai kisah seorang perempuan" link="ezk:16" lang="ind" %}}, atau {{% bible val="kerajaan utara dan selatan digambarkan sebagai dua orang bersaudari" link="ezk:23" lang="ind" %}}.
+Orang-orang kudus milik Yang Mahatinggi adalah umat Israel, dan Anak Manusia mewakili mereka: satu sosok yang mewakili seluruh umat, sehingga apa yang diberikan kepadanya diberikan kepada mereka.[^corporate] Bentuk perwakilan semacam ini punya preseden: sebuah kelompok bisa digambarkan melalui satu sosok tunggal, seperti ketika {{% bible val="putri Sion" link="isa:1,8" lang="ind" %}} mewakili Israel, atau {{% bible val="kisah Israel diceritakan sebagai kisah seorang perempuan" link="ezk:16" lang="ind" %}}, atau {{% bible val="kerajaan utara dan selatan digambarkan sebagai dua orang bersaudari" link="ezk:23" lang="ind" %}}.
 
 ## Pernyataan Sentralnya
 
@@ -68,11 +70,11 @@ Ketika Yesus berbicara tentang diri-Nya sendiri, Ia [hanya menggunakan gelar Ana
 
 Jadi bagaimana nubuat ini diterapkan pada-Nya? Saya harap Anda sudah duduk dengan tenang, sebab menguraikan hal ini akan terasa cukup tidak nyaman.
 
-Yesus adalah sisa Israel — tidak ada lagi orang lain yang tersisa untuk mengisi peran itu. Tanduk itu, atau "raja lain," menentang-Nya dan berusaha mengubah hukum-Nya selama "3,5 masa"; pelayanan Yesus berlangsung sekitar tiga tahun, dan Ia bangkit dari kematian pada hari ketiga. Dan hasil dari pembenaran Yesus adalah kebinasaan musuh-musuh-Nya.
+Yesus adalah sisa Israel — tidak ada lagi orang lain yang tersisa untuk mengisi peran itu. Seperti umat kudus dalam penglihatan itu, Ia diserahkan, dikalahkan dan dibunuh, lalu dibenarkan: pengadilan bersidang, dan kerajaan diberikan kepada-Nya. Kekalahan mendahului kemenangan, bagi Dia sama seperti bagi mereka.
 
-Anda mungkin mengira musuh-musuh itu adalah Iblis atau Antikristus, tetapi Injil-Injil menceritakan kisah yang berbeda. {{% bible val="Israellah yang menolak-Nya" link="jhn:1,11-14" lang="ind" %}} — para pemimpin agama yang {{% bible val="menyerang-Nya dan bersekongkol untuk membunuh-Nya" link="jhn:11,45-54" lang="ind" %}}, yang membentuk sebuah pengadilan untuk menghukum-Nya dan {{% bible val="mendesak agar Ia dieksekusi" link="jhn:19,1-15" lang="ind" %}}. Israel jugalah {{% bible val="yang telah memutarbalikkan hukum" link="mat:5,17-48" lang="ind" %}} ("Kamu telah mendengar firman yang dikatakan...").
+Siapakah tanduk itu? Bukan Israel. Dalam Daniel, tanduk itu adalah raja terakhir dari binatang keempat, dan Kitab Wahyu mengangkatnya kembali dalam binatangnya sendiri, kuasa yang berperang melawan orang-orang kudus (13:5–7).[^horn] Kuasa itu bekerja di salib melalui semua yang terlibat: seorang gubernur Romawi yang memberi perintah, para prajurit yang melaksanakannya, dan para pemimpin dari bangsa-Nya sendiri yang {{% bible val="bersekongkol melawan Dia" link="jhn:11,45-54" lang="ind" %}} dan {{% bible val="mendesak agar Ia dieksekusi" link="jhn:19,1-15" lang="ind" %}}. {{% bible val="Orang-orang kepunyaan-Nya tidak menerima Dia" link="jhn:1,11-14" lang="ind" %}} — dan itulah dukacita kisah ini, bukan vonisnya.
 
-Kebenaran yang keras adalah bahwa umat-Nya sendiri, Israel, menjadi musuh besar-Nya dengan menentang-Nya. Kita harus sangat berhati-hati dalam menghakimi mereka karena hal itu, sebab gereja pun tidak berbuat lebih baik.
+Kita harus sangat berhati-hati dalam menghakimi mereka karena hal itu, sebab gereja pun tidak berbuat lebih baik.
 
 Tetapi apa yang dilakukan Yesus sebagai tanggapannya? {{% bible val="Ia mengampuni mereka, sebab mereka tidak tahu apa yang mereka perbuat" link="luk:23,34" lang="ind" %}}. {{% bible val="Panggilan-Nya adalah memulihkan Israel dan memanggil sebanyak mungkin dari mereka kepada diri-Nya" link="mat:15,24" lang="ind" %}} — tugas untuk pergi kepada bangsa-bangsa lain jatuh kepada para murid-Nya, {{% bible val="meskipun Yesus sendiri pun membuat pengecualian dalam perjalanan-Nya" link="mat:8,5-13" lang="ind" %}}. Ia datang bukan sebagai hakim, melainkan sebagai penyelamat, meskipun Ia akan datang kembali sebagai hakim. Dan Ia tidak menolak Israel lalu menggantikannya dengan gereja — Ia memulai kembali Israel dan melipat gereja ke dalamnya.
 
@@ -94,3 +96,7 @@ Kedua saksi ini diidentifikasikan dengan Anak Manusia karena mereka menghidupi p
 - {{% bible val="Mereka dikalahkan oleh musuh setelah kesaksian mereka selesai" link="rev:11,7" lang="ind" %}}.
 - {{% bible val="Tetapi ini bukanlah kekalahan mereka, sebab mereka akan dibangkitkan seperti Yesus" link="rev:11,8-11" lang="ind" %}}.
 - {{% bible val="Mereka ditinggikan seperti Yesus" link="rev:11,12" lang="ind" %}}.
+
+[^corporate]: Beale, hlm. 221: Anak Manusia sebagai wakil korporatif orang-orang kudus. Para pembaca Yahudi awal memahaminya sebagai Israel (Beale, hlm. 259). Yang lain memahami sosok itu sebagai malaikat, Mikhael (demikian John J. Collins).
+
+[^horn]: Beale, hlm. 90, 270, 633.

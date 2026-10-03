@@ -12,7 +12,7 @@ sources:
       ref: beale_rev
 ---
 
-Ketujuh puluh minggu tahun adalah salah satu bagian Alkitab yang paling diselimuti misteri, dan telah melahirkan banyak sekali tafsiran menarik tentang akhir zaman. Mari kita selidiki lebih dekat apa sebenarnya makna bagian ini.
+Ketujuh puluh minggu tahun adalah salah satu bagian Alkitab yang paling diselimuti misteri, dan telah melahirkan banyak sekali tafsiran menarik tentang akhir zaman. Mari kita selidiki lebih dekat apa sebenarnya makna bagian ini. Artikel ini mengikuti pembacaan lama bahwa ketujuh puluh minggu itu menuju kepada Mesias. Ada dua pembacaan lain yang umum.[^weeks]
 
 ## Apa Itu Minggu Tahun
 
@@ -84,3 +84,5 @@ Ketujuh tahun itu berakhir pada tahun 34, tahun {{% bible val="ketika Stefanus d
 Inilah saat gereja mulai mengikuti Yesus secara penuh — perjanjian baru itu kini benar-benar aktif.
 
 ![](/images/70years_en.jpg)
+
+[^weeks]: Penelitian kritis mengakhiri minggu-minggu itu dengan Antiokhus IV dan memahami orang yang diurapi yang "disingkirkan" sebagai Imam Besar Onias III (wafat 171 SM). Para pembaca dispensasional menempatkan minggu terakhir di masa depan, setelah jeda yang panjang.

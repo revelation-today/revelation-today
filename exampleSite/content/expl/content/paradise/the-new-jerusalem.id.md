@@ -160,7 +160,7 @@ Yerusalem Baru adalah lawan dari Babel, jika kita memperhatikan {{% int_link val
 
 Kedua belas pintu gerbang menunjuk kepada kedua belas suku, dan kedua belas dasar batu menunjuk kepada kedua belas rasul. {{% bible val="Dua belas kali dua ini mencerminkan penyembahan kekal di surga" link="rev:4,4" lang="ind" %}}, tetapi juga menjadi peringatan untuk mencari rekonsiliasi antara orang Yahudi dan bukan Yahudi, {{% int_link val="sebuah konflik yang digambarkan di seluruh kitab ini" link="/expl/background/israel/israel-and-the-church" %}}.
 
-Namun ada sesuatu yang aneh dalam susunan ini: para rasul menjadi dasar bagi suku-suku itu — gereja menjadi dasar bagi Israel. Hal itu masuk akal begitu kita menyadari bahwa {{% bible val="Yesus adalah penggenapan Israel, yang diwujudkan melalui gereja" link="eph:2,20" lang="ind" %}}. Sesuai juga bahwa Yehuda {{% bible val="dicantumkan lebih dahulu di antara suku-suku di tempat lain dalam kitab ini, mencerminkan Yesus" link="rev:7,4-8" lang="ind" %}}.
+Perhatikan susunannya: suku-suku itu adalah pintu gerbang dan para rasul adalah batu dasar — satu kota, satu umat. Yang satu tidak berdiri tanpa yang lain. {{% bible val="Para rasul membawa berita tentang Mesias Israel" link="eph:2,20" lang="ind" %}}, dan jalan masuknya memuat nama-nama Israel. Seperti yang diingatkan Paulus kepada orang percaya bukan Yahudi, {{% bible val="bukan kamu yang menopang akar itu, melainkan akar itu yang menopang kamu" link="rom:11,18" lang="ind" %}}. Sesuai juga bahwa Yehuda {{% bible val="dicantumkan lebih dahulu di antara suku-suku di tempat lain dalam kitab ini, mencerminkan Yesus" link="rev:7,4-8" lang="ind" %}}.
 
 ## {{% bible val="Ukuran kota itu" link="rev:21,15-17" lang="ind" %}}
 

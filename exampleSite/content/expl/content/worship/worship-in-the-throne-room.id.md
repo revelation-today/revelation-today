@@ -18,6 +18,10 @@ sources:
       ref: beale_rev
     - pages: 366
       ref: beale_rev
+    - pages: 322, 324
+      ref: beale_rev
+    - pages: 34
+      ref: bauckham_rev
 readBefore:
     - name: "Susunan Kitab Wahyu"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation
@@ -220,4 +224,6 @@ Ciptaan adalah salah satu tafsiran tradisional atas {{% bible val="keempat makhl
 
 Namun penglihatan paralel Yehezkiel sendiri secara eksplisit menyebut kelas makhluk ini sebagai kerub (Yeh 10:20) - tatanan tertinggi dari para malaikat penjaga takhta. Kedua tafsiran ini sama-sama memiliki dasar yang kuat: keempat makhluk hidup ini bisa mewakili seluruh ciptaan yang berkumpul dalam penyembahan, atau mereka adalah makhluk-makhluk kerub yang memimpin penyembahan itu, atau keduanya sekaligus.
 
-Mereka bergabung dengan {{% bible val="kedua puluh empat tua-tua" link="rev:4,4" lang="ind" %}}, yang menggemakan {{% bible val="24 rombongan imam" link="1ch:24,3-19" lang="ind" %}}, {{% bible val="24 penjaga pintu gerbang orang Lewi" link="1ch:26,17-19" lang="ind" %}}, dan {{% bible val="24 penyembah tetap" link="1ch:25" lang="ind" %}} yang ditetapkan oleh Daud - tetapi juga menggemakan 12 suku Israel dan 12 rasul sebagai dasar jemaat. (Sebagian penafsir justru memandang para tua-tua ini sebagai anggota dewan surgawi - sebuah tatanan malaikat, bukan manusia yang telah ditebus; identifikasi ini masih diperdebatkan. Namun gema imamat dan penyembahan ala Daud membuat pembacaan sebagai wakil umat Allah menjadi yang paling cocok di sini.) Dengan kata lain, Israel dan jemaat harus dipandang sebagai satu kesatuan, terlepas dari segala konflik di antara keduanya. Jemaat, pada intinya, didefinisikan sebagai jemaat yang menyembah.
+Mereka bergabung dengan {{% bible val="kedua puluh empat tua-tua" link="rev:4,4" lang="ind" %}}, yang menggemakan {{% bible val="24 rombongan imam" link="1ch:24,3-19" lang="ind" %}}, {{% bible val="24 penjaga pintu gerbang orang Lewi" link="1ch:26,17-19" lang="ind" %}}, dan {{% bible val="24 penyembah tetap" link="1ch:25" lang="ind" %}} yang ditetapkan oleh Daud - tetapi juga menggemakan 12 suku Israel dan 12 rasul sebagai dasar jemaat. Kemungkinan besar mereka adalah malaikat yang mewakili seluruh umat Allah, keduanya bersama-sama.[^elders] Dengan kata lain, Israel dan jemaat harus dipandang sebagai satu kesatuan, terlepas dari segala konflik di antara keduanya. Jemaat, pada intinya, didefinisikan sebagai jemaat yang menyembah.
+
+[^elders]: Beale, hlm. 322, 324. Bauckham memahami mereka sebagai dewan malaikat di sekeliling takhta Allah (*Theology*, hlm. 34).

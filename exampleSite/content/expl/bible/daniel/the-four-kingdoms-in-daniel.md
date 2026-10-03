@@ -19,7 +19,7 @@ The book of Daniel seems to be the source of many end-time interpretations. Let'
 <a name="3dba"></a>
 Chapters 2 and 7 of Daniel each give us a glimpse of four successive kingdoms — {{% bible val="chapter 2 through the vision of a statue" link="dan:2" lang="en" %}}, {{% bible val="chapter 7 through a set of beasts" link="dan:7" lang="en" %}}. Both chapters present the kingdoms as following one after another: chapter 2 does so explicitly, while chapter 7 shows it through the beasts conquering and replacing each other.
 
-Chapter 2 gives us a clear starting point, since {{% bible val="the first kingdom is Babel" link="dan:2,37-38" lang="en" %}}. Babel was {{% bible val="destroyed by the Medo-Persian Empire" link="dan:5,30" lang="en" %}}. Some commentators treat the Median and Persian empires as two separate, successive empires, but that doesn't match history — the two were already united before they destroyed Babel.
+Chapter 2 gives us a clear starting point, since {{% bible val="the first kingdom is Babel" link="dan:2,37-38" lang="en" %}}. Babel was {{% bible val="destroyed by the Medo-Persian Empire" link="dan:5,30" lang="en" %}}. Many scholars count differently — Babylon, Media, Persia, Greece — and end the series with the Greek king Antiochus IV.[^four] This site counts Medo-Persia as one kingdom and Rome as the fourth, for reasons Daniel himself gives. Babylon is given "to the Medes and Persians" (5:28), and the king rules by "the law of the Medes and Persians" (6:8). In chapter 8 a single ram with two horns stands for "the kings of Media and Persia", followed by a goat that is Greece (8:20–21). History agrees: the two were already united before Babylon fell. And the first readers of Daniel looked beyond Antiochus. Jesus still expects "the abomination that causes desolation" (Matt 24:15), and Revelation builds its beast, Rome in the first place, out of all four of Daniel's.
 
 The third kingdom is the {{% bible val="Greek empire under Alexander the Great, who conquered the Medo-Persian Empire" link="dan:8,19-21" lang="en" %}}. After Alexander's death this empire split into four, which were eventually absorbed into the fourth and final kingdom, Rome.
 
@@ -53,7 +53,7 @@ Both chapters end the same way: with a divine event. In chapter 2 it's described
 
 This recalls the {{% bible val="cornerstone" link="isa:28,16" lang="en" %}} identified elsewhere as {{% bible val="Jesus Christ" link="1pe:2,4-8" lang="en" %}}, who is the {{% bible val="foundation of the Church" link="eph:2,19-22" lang="en" %}}. He was not made by "human hand," and he became the ruler of the world, giving the church his authority to rule. Chapter 7 shows the same intervention from another angle: {{% bible val="the Ancient of Days and the Son of Man overcome the kingdoms" link="dan:7,9-12" lang="en" %}}, and {{% bible val="he sets up an eternal kingdom" link="dan:7,13-14" lang="en" %}}.
 
-So who is this Son of Man? In Daniel's own context, it's Israel — {{% bible val="they receive the kingdom" link="dan:7,18" lang="en" %}} under the title {{% bible val="the Son of Man" link="dan:7,14" lang="en" %}}. But this finds its fulfillment in Jesus as true Israel, and it's worth noting that [Son of Man is the only title he ever uses for himself](https://www.bibleserver.com/search/NIV/son%20of%20man).
+So who is this Son of Man? In Daniel's own context he stands for the holy people of God: what is {{% bible val="given to him" link="dan:7,14" lang="en" %}} is {{% bible val="given to them" link="dan:7,18" lang="en" %}}.[^corporate] But this finds its fulfillment in Jesus as true Israel, and it's worth noting that [Son of Man is the only title he ever uses for himself](https://www.bibleserver.com/search/NIV/son%20of%20man).
 
 ## There is more
 
@@ -66,3 +66,7 @@ But how much are we actually taking advantage of that? Instead of a new world, h
 Rome is the last of the four kingdoms to hold direct rule over Israel. After the new covenant established through Jesus, God's people are scattered across the whole earth, and there is no longer a single empire that encompasses them all.
 
 There's much more controversy surrounding the ten kings and the three horns — a subject Daniel himself inquires further about in chapter 7 — but that discussion belongs in the context of the book of Revelation, where we meet the {{% int_link val="evil trinity" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} and the ten kings again.
+
+[^four]: This is the majority view in critical scholarship (for example John J. Collins). Its strongest points: Daniel names "Darius the Mede" as a separate ruler (5:31; 9:1), and the little horn of chapter 7 resembles the horn of chapter 8, which is Antiochus. For Rome: Beale, pp. 633, 683, 687, 708; Josephus, *Antiquities* 10.276. 4 Ezra 12:10–13 also names Rome, though by reinterpreting an earlier reading (Beale, p. 687).
+
+[^corporate]: Beale, p. 221.

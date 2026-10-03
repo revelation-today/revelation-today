@@ -27,7 +27,7 @@ Meski demikian, Allah berjanji {{% bible val="akan berbelas kasihan kepada merek
 
 Ketika Israel akhirnya kembali dari pembuangan, keadaan tampak menjanjikan pada permukaannya — bait Allah dibangun kembali di bawah Ezra, tembok kota dibangun kembali di bawah Nehemia, dan {{% bible val="Yosua diangkat sebagai imam besar" link="zec:3" lang="ind" %}} bersama {{% bible val="Zerubabel sebagai penguasa" link="zec:4" lang="ind" %}} yang akan mendirikan Kerajaan Allah. Tetapi jika diperhatikan lebih dekat, pemulihan yang dijanjikan itu jelas belum tiba: umat itu {{% bible val="masih berada dalam perbudakan" link="ezr:9" lang="ind" %}} dalam segala arti yang berarti, mereka tidak memiliki tanah mereka sendiri di bawah kekuasaan Persia, {{% bible val="berkat Tuhan belum juga datang" link="hag:1,7-12" lang="ind" %}} dan {{% bible val="negeri itu masih berada di bawah kutuk" link="mal:3,10-11" lang="ind" %}}, serta {{% bible val="pencurahan Roh belum terjadi" link="ezk:36,25-27" lang="ind" %}}.
 
-Jadi, dengan ukuran apa pun yang penting, Israel sebenarnya masih dalam pembuangan — dan Alkitab menyatakan bahwa pembuangan itu hanya akan berakhir dengan Hari Tuhan. Itulah beban yang dibawa oleh para nabi yang menulis setelah masa kembalinya umat itu: Hagai, Zakharia, Yesaya 56–66, dan Maleakhi.
+Jadi, dengan ukuran apa pun yang penting, Israel sebenarnya masih dalam pembuangan[^exile] — dan Alkitab menyatakan bahwa pembuangan itu hanya akan berakhir dengan Hari Tuhan. Itulah beban yang dibawa oleh para nabi yang menulis setelah masa kembalinya umat itu: Hagai, Zakharia, Yesaya 56–66, dan Maleakhi.
 
 ## Isi dari Hari Tuhan
 
@@ -40,3 +40,5 @@ Tetapi hal ini hanya akan terjadi bagi {{% int_link val="sisa Israel" link="/exp
 
 <a name="d4y1"></a>
 Kitab Wahyu mengambil ungkapan para nabi itu untuk puncaknya sendiri. Ketika meterai keenam dibuka, orang-orang berkuasa bersembunyi dan berseru bahwa {{% bible val="sudah tiba hari besar murka mereka" link="rev:6,17" lang="ind" %}}; dan raja-raja di bumi dikumpulkan {{% bible val="untuk peperangan pada hari besar, yaitu hari Allah Yang Mahakuasa" link="rev:16,14" lang="ind" %}}. Di kedua tempat itu Hari itu membawa apa yang dijanjikan para nabi: penghakiman atas musuh-musuh umat Allah dan penyelamatan bagi orang-orang yang setia. Dan seperti {{% int_link val="ditunjukkan Yesus" link="/expl/background/israel/jesus-and-the-covenant#already" %}}, Hari itu sudah dimulai bersama Dia — separuhnya yang menyelamatkan sudah datang, separuhnya yang menghakimi masih akan datang. → {{% int_link val="Murka Anak Domba" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="Kunci Menuju Harmagedon" link="/expl/content/bowls/the-key-to-armageddon" %}}
+
+[^exile]: Beale, hlm. 19; N. T. Wright, *The New Testament and the People of God*, hlm. 268–272. Tesis ini diperdebatkan: lihat J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).

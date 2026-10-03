@@ -20,7 +20,7 @@ appl: /appl/background/israel
 **Why this matters for Revelation:** In Revelation the church carries Israel's names: {{% bible val="a kingdom and priests" link="rev:1,6" lang="en" %}}, the bride, and a city whose gates bear {{% bible val="the names of the twelve tribes" link="rev:21,12-14" lang="en" %}} and whose foundations bear the twelve apostles. → {{% int_link val="The New Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
 {{< /callout >}}
 
-This sounds strange at first. Isn't the Church greater than Israel? Or is the Church replacing Israel? Or will Israel make a comeback at the end of time, apart from the church? Each of these questions assumes a controversy that, on closer inspection, does not actually exist.
+This sounds strange at first. Isn't the Church greater than Israel? Or is the Church replacing Israel? Or will Israel make a comeback at the end of time, apart from the church? Each of these questions sets Israel and the Church against each other. The New Testament does not.
 
 ## The mystery of the Gentiles
 
@@ -31,7 +31,7 @@ The "mystery" here is not some hidden secret but an almost unbelievable act of G
 
 Jesus is the New Covenant, and in him both Jews and Gentiles together make up end-time Israel. That began when Jesus died on the cross, and it will be completed when he returns. Crucially, this end-time Israel is not defined as a nation but by belonging to Jesus.
 
-Many of the terms the Old Testament uses for Israel are now applied to the Church — which is not a separate entity replacing Israel, but the new Israel itself, encompassing both ethnic Israel that believes in Jesus and the Gentiles who believe in him. In fact, {{% bible val="the covenant with Israel was only an intermediary step between Abraham and the Church" link="gal:3,23-28" lang="en" %}}.
+Many of the terms the Old Testament uses for Israel are now applied to the Church — which is not a separate entity replacing Israel, but the new Israel itself, encompassing both ethnic Israel that believes in Jesus and the Gentiles who believe in him. In Paul's words, {{% bible val="the law given at Sinai was a guardian until Christ came" link="gal:3,23-28" lang="en" %}}, so that the promise to Abraham might reach all who believe.
 
 ## Beloved of the Lord
 

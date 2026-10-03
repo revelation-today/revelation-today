@@ -160,7 +160,7 @@ Das Neue Jerusalem ist das Gegenstück zu Babel, wenn wir den {{% int_link val="
 
 Die zwölf Tore beziehen sich auf die zwölf Stämme, und die zwölf Grundsteine auf die zwölf Apostel. Das {{% bible val="Zwölf-mal-zwei spiegelt die ewige Anbetung im Himmel wider" link="rev:4,4" lang="de" %}}, ist aber auch eine Mahnung, Versöhnung zwischen Juden und Nicht-Juden zu suchen, {{% int_link val="einen Konflikt, der sich durch das ganze Buch zieht" link="/expl/background/israel/israel-and-the-church" %}}.
 
-Es gibt jedoch etwas Merkwürdiges in dieser Anordnung: Die Apostel bilden das Fundament der Stämme – die Gemeinde als Fundament für Israel. Das ergibt Sinn, sobald man sieht, dass {{% bible val="Jesus die Erfüllung Israels ist, ausgearbeitet durch die Gemeinde" link="eph:2,20" lang="de" %}}. Dazu passt auch, dass Juda {{% bible val="an anderer Stelle im Buch als Erster unter den Stämmen aufgeführt wird, was Jesus widerspiegelt" link="rev:7,4-8" lang="de" %}}.
+Achte auf die Anordnung: Die Stämme sind die Tore und die Apostel die Grundsteine – eine Stadt, ein Volk. Keines steht ohne das andere. {{% bible val="Die Apostel tragen die Botschaft von Israels Messias" link="eph:2,20" lang="de" %}}, und der Weg hinein trägt Israels Namen. Wie Paulus die Gläubigen aus den Völkern erinnert: {{% bible val="Nicht du trägst die Wurzel, sondern die Wurzel trägt dich" link="rom:11,18" lang="de" %}}. Dazu passt auch, dass Juda {{% bible val="an anderer Stelle im Buch als Erster unter den Stämmen aufgeführt wird, was Jesus widerspiegelt" link="rev:7,4-8" lang="de" %}}.
 
 ## {{% bible val="Die Maße der Stadt" link="rev:21,15-17" lang="de" %}}
 

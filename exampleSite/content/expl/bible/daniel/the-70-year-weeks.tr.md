@@ -12,7 +12,7 @@ sources:
       ref: beale_rev
 ---
 
-70 yıllık haftalar, Kutsal Kitap'ın en gizemli bölümlerinden biridir ve son zamanlar hakkında pek çok ilginç yoruma kapı açmıştır. Bunun ne anlama geldiğine daha yakından bakalım.
+70 yıllık haftalar, Kutsal Kitap'ın en gizemli bölümlerinden biridir ve son zamanlar hakkında pek çok ilginç yoruma kapı açmıştır. Bunun ne anlama geldiğine daha yakından bakalım. Bu yazı, yetmiş haftanın Mesih'e vardığını söyleyen köklü okumayı izler. Yaygın iki okuma daha vardır.[^weeks]
 
 ## Yıl haftası nedir
 
@@ -84,3 +84,5 @@ Yedi yıl, İsrail'i antlaşmayı terk etmekle suçlayan bir konuşmanın ardın
 Bu, kilisenin İsa'yı tam anlamıyla izlemeye başladığı andır — yeni antlaşma artık gerçekten yürürlüktedir.
 
 ![](/images/70years_tr.jpg)
+
+[^weeks]: Eleştirel araştırma haftaları IV. Antiohos'la bitirir ve "öldürülecek" olan meshedilmişi Başkâhin III. Onias (ö. MÖ 171) olarak anlar. Dispensasyonalist okurlar son haftayı uzun bir aradan sonra geleceğe yerleştirir.

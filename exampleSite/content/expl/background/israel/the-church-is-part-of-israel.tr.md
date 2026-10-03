@@ -20,7 +20,7 @@ appl: /appl/background/israel
 **Bu, Vahiy için neden önemli:** Vahiy'de kilise İsrail'in adlarını taşır: {{% bible val="bir krallık ve kâhinler" link="rev:1,6" lang="tr" %}}, gelin ve kapılarında {{% bible val="on iki oymağın adları" link="rev:21,12-14" lang="tr" %}}, temellerinde on iki elçinin adları bulunan bir kent. → {{% int_link val="Yeni Yeruşalim" link="/expl/content/paradise/the-new-jerusalem" %}}
 {{< /callout >}}
 
-Bu ilk bakışta garip geliyor. Kilise İsrail'den daha büyük değil mi? Yoksa kilise İsrail'in yerini mi alıyor? Ya da İsrail, zamanın sonunda kiliseden ayrı olarak geri mi dönecek? Bu soruların her biri, yakından bakıldığında aslında var olmayan bir tartışmayı varsayar.
+Bu ilk bakışta garip geliyor. Kilise İsrail'den daha büyük değil mi? Yoksa kilise İsrail'in yerini mi alıyor? Ya da İsrail, zamanın sonunda kiliseden ayrı olarak geri mi dönecek? Bu soruların her biri İsrail ile Kilise'yi birbirinin karşısına koyar. Yeni Antlaşma bunu yapmaz.
 
 ## Yahudi olmayanların gizemi
 
@@ -31,7 +31,7 @@ Buradaki "gizem", gizli bir sır değil, Tanrı'nın neredeyse inanılmaz bir ey
 
 İsa Yeni Antlaşma'dır ve hem Yahudiler hem de Yahudi olmayanlar O'nda birlikte son zaman İsrail'ini oluşturur. Bu, İsa çarmıhta öldüğünde başladı ve O geri döndüğünde tamamlanacaktır. Önemli olan şu ki, bu son zaman İsrail'i bir ulus olarak değil, İsa'ya ait olmakla tanımlanır.
 
-Eski Ahit'in İsrail için kullandığı terimlerin çoğu artık kilise için kullanılır — kilise, İsrail'in yerini alan ayrı bir varlık değil, hem İsa'ya inanan etnik İsrail'i hem de O'na inanan Yahudi olmayanları kapsayan yeni İsrail'in kendisidir. Aslında {{% bible val="İsrail'le yapılan antlaşma, İbrahim ile kilise arasında yalnızca bir ara adımdı" link="gal:3,23-28" lang="tr" %}}.
+Eski Ahit'in İsrail için kullandığı terimlerin çoğu artık kilise için kullanılır — kilise, İsrail'in yerini alan ayrı bir varlık değil, hem İsa'ya inanan etnik İsrail'i hem de O'na inanan Yahudi olmayanları kapsayan yeni İsrail'in kendisidir. Pavlus'un sözleriyle, {{% bible val="Sina'da verilen yasa Mesih gelene dek bir eğiticiydi" link="gal:3,23-28" lang="tr" %}}; öyle ki İbrahim'e verilen vaat iman eden herkese ulaşsın.
 
 ## Rab'bin sevgilisi
 

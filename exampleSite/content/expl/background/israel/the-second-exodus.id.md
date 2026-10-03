@@ -20,7 +20,7 @@ appl: /appl/background/israel
 **Mengapa ini penting bagi Kitab Wahyu:** Kitab Wahyu menceritakan ulang keluaran sebagai kisah gereja sendiri, dari Anak Domba Paskah sampai nyanyian Musa — lihat {{% int_link val="eksodus baru dalam Kitab Wahyu" link="/expl/background/israel/the-second-exodus#x0d1" %}}.
 {{< /callout >}}
 
-Ada sebuah eksodus dari Mesir. Tetapi ketika Israel gagal menaati Hukum Taurat, mereka pergi ke pembuangan — sepanjang waktu itu, dipenuhi janji-janji tentang kepulangan mereka. Namun ketika kepulangan itu akhirnya tiba, mereka melihat bahwa sebenarnya tidak ada yang benar-benar berubah. Kesimpulan yang ditarik para nabi dan pemikiran Yahudi selanjutnya dari hal ini: Israel masih tetap dalam pembuangan, masih menantikan sebuah eksodus baru. Eksodus baru itulah yang tiba bersama Yesus.
+Ada sebuah eksodus dari Mesir. Tetapi ketika Israel gagal menaati Hukum Taurat, mereka pergi ke pembuangan — sepanjang waktu itu, dipenuhi janji-janji tentang kepulangan mereka. Namun ketika kepulangan itu akhirnya tiba, mereka melihat bahwa sebenarnya tidak ada yang benar-benar berubah. Kesimpulan yang ditarik para nabi dan pemikiran Yahudi selanjutnya dari hal ini: Israel masih tetap dalam pembuangan, masih menantikan sebuah eksodus baru.[^exile] Eksodus baru itulah yang tiba bersama Yesus.
 
 ## Eksodus dalam Injil Markus
 
@@ -72,7 +72,7 @@ Selain itu, Kisah Para Rasul mengembangkan enam pesan utama yang membawa terus t
 
 Sebuah tema terkait yang berjalan sepanjang Kisah Para Rasul adalah "firman Allah," yang terus maju setelah {{% bible val="pemilihan Stefanus" link="act:6,7" lang="ind" %}}, {{% bible val="setelah kematian Herodes" link="act:12,24" lang="ind" %}}, dan selama {{% bible val="masa Paulus di Efesus" link="act:19,20" lang="ind" %}}. Hal ini menggemakan bagian-bagian kunci dalam Yesaya dengan tema yang sama: {{% bible val="bagaimana Allah dapat dibandingkan" link="isa:40,18-24" lang="ind" %}} dengan apa pun, Ia {{% bible val="lebih dapat diandalkan daripada berhala-berhala" link="isa:41,4-10" lang="ind" %}}, {{% bible val="kesia-siaan berhala-berhala" link="isa:44,9-20" lang="ind" %}}, dan {{% bible val="berhala-berhala Babel" link="isa:46,1-13" lang="ind" %}}.
 
-Jika digabungkan, perbandingan ini menyoroti sebuah ketegangan nyata antara Kisah Para Rasul dan Yesaya: Allah ditunjukkan berdaulat atas berhala-berhala itu, namun Israel tetap saja berpegang teguh padanya. Ketegangan itu memuncak khususnya dalam {{% bible val="Kisah Para Rasul 17" link="act:17" lang="ind" %}}, di mana perlawanan orang Yahudi terhadap Paulus kemungkinan besar berakar pada kelekatan yang sama terhadap berhala.
+Jika digabungkan, perbandingan ini menunjukkan betapa dekatnya Kisah Para Rasul mengikuti Yesaya: Allah berdaulat atas berhala-berhala, namun manusia tetap saja berpegang padanya. Hal itu memuncak dalam {{% bible val="Kisah Para Rasul 17" link="act:17" lang="ind" %}}, ketika Paulus berdiri di Atena, kota yang "penuh dengan patung-patung berhala", dan memberitakan Allah yang telah menjadikan dunia.
 
 Penghakiman diumumkan dengan tegas secara khusus setiap kali berhala-berhala ini, atau orang-orang di baliknya, mengklaim keilahian bagi diri mereka sendiri — seperti dalam kasus {{% bible val="Simon" link="act:8,4-24" lang="ind" %}}, {{% bible val="Herodes" link="act:12,20-23" lang="ind" %}}, dan {{% bible val="Elimas" link="act:13,10-11" lang="ind" %}}.
 
@@ -98,3 +98,5 @@ Jadi eksodus kedua yang dijanjikan para nabi, dan yang menurut Injil mulai denga
 Eksodus baru yang telah lama dinantikan Israel akhirnya terjadi — dan itu terikat tidak terpisahkan dengan Yesus. Yang masih terbuka adalah apakah Israel dan bangsa-bangsa lain akan memilih Allah, atau tetap berpegang pada berhala-berhala mereka; kitab Kisah Para Rasul memperlakukan hal itu sebagai pertanyaan yang sama sekali tidak kecil.
 
 Jika dibaca dengan cara ini, Injil dan Kisah Para Rasul menelusuri satu ketegangan tunggal yang berkelanjutan: pemulihan Israel yang percaya kepada Kristus, berjalan berdampingan dengan keselamatan bangsa-bangsa lain yang sedang ditarik masuk bersama-sama dengan mereka.
+
+[^exile]: Beale, hlm. 19; N. T. Wright, *The New Testament and the People of God*, hlm. 268–272. Tesis ini diperdebatkan: lihat J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).
