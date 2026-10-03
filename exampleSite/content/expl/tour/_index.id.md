@@ -10,5 +10,5 @@ Inilah jalur pendalaman: penjelasan rinci dan bersumber tentang mengapa cara mem
 
 Di akhir sebagian besar halaman, Anda akan menemukan tautan ke para teolog dan penelitian di balik argumen halaman itu. Jika penjelasan pada suatu halaman belum sepenuhnya meyakinkan Anda, itulah buku-buku yang perlu Anda selami - daftar bacaan di sini sengaja dibuat singkat.
 
-Membaca dari awal sampai akhir memakan waktu sekitar 6 jam. Memeriksa setiap rujukan Alkitab di sepanjang jalan akan memakan waktu sedikit lebih lama.
+Membaca dari awal sampai akhir memakan waktu sekitar 7 jam. Memeriksa setiap rujukan Alkitab di sepanjang jalan akan memakan waktu sedikit lebih lama.
 

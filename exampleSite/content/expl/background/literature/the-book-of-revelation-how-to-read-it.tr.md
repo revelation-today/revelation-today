@@ -15,7 +15,7 @@ sources:
       ref: aune_rev
     - pages: 40, 52
       ref: beale_rev
-prev: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /expl/background/literature/literally-or-symbolic
 docType: expl
 appl: /appl/background/literature

@@ -10,5 +10,5 @@ Dies ist die Vertiefungsebene: eine ausführliche, mit Quellen belegte Erklärun
 
 Am Ende der meisten Seiten findest du einen Link zu den Theologen und der Forschung hinter dem Argument dieser Seite. Wenn dich die Erklärung auf einer Seite nicht ganz überzeugt, sind das die Bücher, in die du eintauchen solltest - die Leseliste hier wurde bewusst kurz gehalten.
 
-Wenn du es komplett durchliest, dauert es etwa 6 Stunden. Wenn du dabei jeden Bibelvers nachschlägst, dauert es etwas länger.
+Wenn du es komplett durchliest, dauert es etwa 7 Stunden. Wenn du dabei jeden Bibelvers nachschlägst, dauert es etwas länger.
 

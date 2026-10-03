@@ -23,8 +23,8 @@ sources:
       ref: bauckham_climax
     - pages: 8, 17
       ref: bauckham_rev
-prev: /about/ressources
-next: /expl/background/literature/the-book-of-revelation-how-to-read-it
+prev: /expl/tour
+next: /expl/topics/others/who-wrote-revelation-and-when
 docType: expl
 appl: /appl/background/history
 ---

@@ -9,7 +9,7 @@ sources:
     - pages: 724, 727
       ref: beale_rev
 prev: /expl/background/structure/the-structure-of-the-book-of-revelation
-next: /expl/background/israel/the-role-of-family-in-the-bible
+next: /expl/bible/creation/the-creation
 docType: expl
 appl: /appl/background/structure
 ---

@@ -2,7 +2,7 @@
 title: "Yaratılış"
 weight: 1
 base: /quick/bible/creation
-prev: /expl/background/israel/the-church-is-part-of-israel
+prev: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 next: /expl/bible/creation/the-temple-and-the-presence-of-god
 docType: expl
 sources:

@@ -4,7 +4,7 @@ weight: 4
 base: /quick/content/harvest
 story: /story/general/tour
 story_anchor: bowls
-prev: /expl/content/bowls/the-bowls-of-wrath
+prev: /expl/content/bowls/the-key-to-armageddon
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl
 appl: /appl/content/bowls

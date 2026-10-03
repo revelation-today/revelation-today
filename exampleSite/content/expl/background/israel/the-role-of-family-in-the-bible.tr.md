@@ -6,7 +6,7 @@ sources:
       ref: richter
     - pages: "vol. 1: 9"
       ref: tdot
-prev: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
+prev: /expl/bible/daniel/the-secret-of-the-3-5-years
 next: /expl/background/israel/gods-covenant
 docType: expl
 appl: /appl/background/israel

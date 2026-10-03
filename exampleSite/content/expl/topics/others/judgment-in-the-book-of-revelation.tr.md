@@ -2,7 +2,7 @@
 title: "Vahiy kitabındaki yargı"
 themes: ["Yargı"]
 weight: 7
-prev: /expl/topics/others/who-wrote-revelation-and-when
+prev: /expl/topics/others/why-so-many-believe-in-the-rapture
 next: /welcome/done
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture

@@ -3,7 +3,7 @@ title: "Warum glauben so viele nachdenkliche Menschen an die Entrückung und den
 themes: ["Dispensationalismus", "Entrückung"]
 weight: 5
 prev: /expl/topics/others/pre-mid-prewrath-or-post-tribulational
-next: /expl/topics/others/who-wrote-revelation-and-when
+next: /expl/topics/others/judgment-in-the-book-of-revelation
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 sources: 

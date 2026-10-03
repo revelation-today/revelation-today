@@ -2,8 +2,8 @@
 title: "Siapa yang menulis Kitab Wahyu, dan kapan?"
 themes: ["Kepenulisan", "Penanggalan"]
 weight: 6
-prev: /expl/topics/others/why-so-many-believe-in-the-rapture
-next: /expl/topics/others/judgment-in-the-book-of-revelation
+prev: /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+next: /expl/background/literature/the-book-of-revelation-how-to-read-it
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 sources: 
