@@ -41,7 +41,7 @@ The verse at the end of the previous chapter already mentioned the throne room o
 </tr></thead><tbody>
 <tr>
     <td><a href="https://biblehub.com/greek/2983.htm">Reception</a> of authority</td>
-    <td>in the promise of {{% bible val="the Morning Star given to the overcomers in Thyatira" lang="en" link="rev:2,28" %}}</td>
+    <td>in the promise of {{% bible val="the Morning Star given to the overcomers in Thyatira" lang="en" link="rev:2,26-28" %}}</td>
     <td>For the Lamb to receive {{% bible val="the scroll" link="rev:5,9" lang="en" %}}, as well as {{% bible val="honor and glory" link="rev:5,12" lang="en" %}}</td>
 </tr>
 <tr>
@@ -191,7 +191,7 @@ For all of them, worship is the answer:
 ## The throne room
 
 <a name="2a89"></a>
-John's first impression is the glory of God — so potent that it's impossible to see God directly. {{% bible val="When Moses asked to see God's glory, he could not — but God let his goodness pass by and proclaimed his name: merciful and gracious, yet one who will not leave the guilty unpunished. God's glory holds mercy and justice together" link="exo:33,18-20" lang="en" %}}. So we should read the judgments that follow from the viewpoint of this same glory: real mercy, held together with real justice.
+John's first impression is the glory of God — so potent that it's impossible to see God directly. {{% bible val="When Moses asked to see God's glory, he could not — but God let his goodness pass by and proclaimed his name: merciful and gracious, yet one who will not leave the guilty unpunished. God's glory holds mercy and justice together" link="exo:34,5-7" lang="en" %}}. So we should read the judgments that follow from the viewpoint of this same glory: real mercy, held together with real justice.
 
 The second detail worth noting is the {{% bible val="rainbow" link="rev:4,3" lang="en" %}}. {{% bible val="This is a reminder of the covenant with Noah: God promises never again to destroy all life by flood, sealed with the rainbow — following his earlier pledge that seedtime and harvest, cold and heat, would never cease. There are no demands placed on Noah in the flood covenant itself" link="gen:9,8-11" lang="en" %}}. This detail casts its own light on the nature of the plagues that come out of the throne room: there are judgments, but they are limited.
 

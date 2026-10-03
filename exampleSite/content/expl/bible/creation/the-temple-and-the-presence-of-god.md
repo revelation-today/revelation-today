@@ -33,7 +33,7 @@ God still longed to be in relationship with people. So when he brought Israel ou
 
 The temple was covered with imagery borrowed from the Garden of Eden, reflecting a simple logic: since man could no longer have fellowship with God in the garden, God would instead have fellowship with man in the temple. And the temple was intended from the start to allow non-Israelites to take part as well.
 
-The innermost part of the temple was the Holy of Holies, which only the High Priest could enter, and only once a year, on the Day of Atonement. This was the place where Moses communicated with God, and where God's presence dwelt.
+The innermost part of the temple was the Holy of Holies, which only the High Priest could enter, and only once a year, on the Day of Atonement. This was where God's presence dwelt; in the tabernacle before it, God had spoken with Moses from above the ark (Exod 25:22).
 
 Even so, God ultimately left that dwelling — but with a promise to one day reunite the images of city and garden. When Israel broke the covenant, {{% bible val="his presence left the temple" link="ezk:10,18-19" lang="en" %}}, but later in the same book, the {{% bible val="return of God is promised, entering again through the East Gate" link="ezk:43,1-2" lang="en" %}}.
 

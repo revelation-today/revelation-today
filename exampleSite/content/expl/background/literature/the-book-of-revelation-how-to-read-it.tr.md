@@ -78,7 +78,7 @@ Eski Antlaşma peygamberlik edebiyatı, Sina Dağı'nda yapılan antlaşmaya day
 
 - yasa önünde hepimiz eşitiz,
 - {{% bible val="İsrail'in kendisi bir zamanlar köle olduğu gibi" link="exo:20,2" lang="tr" %}} çaresizlere merhamet göstermeliyiz ve {{% bible val="Tanrı çaresizleri korur" link="deu:10,18" lang="tr" %}}, {{% bible val="Lev.23/22'de" link="lev:23,22" lang="tr" %}} olduğu gibi,
-- ve en önemli yasa {{% bible val="Tanrı'yı sevmek ve komşunu sevmektir" link="lev:19,18" lang="tr" %}} — {{% bible val="Yeni Antlaşma'da doğrulanan ve herkesin bizim komşumuz olduğunu öğrendiğimiz" link="luk:10,25-37" lang="tr" %}} bir buyruk.
+- ve en önemli yasa {{% bible val="Tanrı'yı sevmek" link="deu:6,5" lang="tr" %}} ve {{% bible val="komşunu sevmektir" link="lev:19,18" lang="tr" %}} — {{% bible val="Yeni Antlaşma'da doğrulanan ve herkesin bizim komşumuz olduğunu öğrendiğimiz" link="luk:10,25-37" lang="tr" %}} bir buyruk.
 
 Halk bu ilkeleri terk ettiğinde, peygamberler onları geri çağırmak zorundaydı. Temel mesajları şuydu:
 

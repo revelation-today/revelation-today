@@ -47,7 +47,7 @@ Die Offenbarung zeichnet die gesamte Spanne der Kirchengeschichte nach, von Joha
 
 **Dafür spricht:**
 
-- Es nimmt ernst, dass die Offenbarung eine *sich entfaltende* Geschichte beschreibt, kein einzelnes Ereignis — passend zu Daniels eigener Vision {{% int_link val="einer Abfolge von Reichen, die über Jahrhunderte hinweg aufsteigen und untergehen" link="/expl/background/literature/literally-or-symbolic" %}}, die die Offenbarung bewusst aufgreift.
+- Es nimmt ernst, dass die Offenbarung eine *sich entfaltende* Geschichte beschreibt, kein einzelnes Ereignis — passend zu Daniels eigener Vision {{% int_link val="einer Abfolge von Reichen, die über Jahrhunderte hinweg aufsteigen und untergehen" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}, die die Offenbarung bewusst aufgreift.
 - Es misst der tatsächlichen Erfahrung der Kirche über zwei Jahrtausende hinweg — Verfolgung, Verfall, Erneuerung — echtes Gewicht bei, statt diese ganze Zeitspanne als prophetisch stumm zu behandeln.
 - Es war jahrhundertelang die protestantische Mehrheitslesart, getrieben von einer echten, textlich begründeten Sorge um korrumpierte Macht innerhalb der sichtbaren Kirche, nicht nur von antikatholischer Polemik.
 - Es entspricht der erkennbaren Sorge des Briefschreibers um die langfristige Treue der Kirche, nicht nur um ihre erste Generation.

@@ -70,7 +70,7 @@ When Jehu, {{% bible val="the commander of the army, is finally anointed" link="
 <a name="a257"></a>
 {{% int_link val="There is a separate entry for this" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}, but the short version is this: a king gives his life fighting the king of Egypt, who was on his way to help the Assyrians against the rising Babylonian Empire. A few notes are worth adding.
 
-Assyria had been oppressing Israel constantly up to this point, and stopped only because Babylon started causing it trouble instead. Egypt, meanwhile, occupied an odd place in Israel's story — it was the place Israel had come out of slavery, yet it kept serving as the {{% bible val="backup plan for Israel, one that usually ended in disappointment" link="2ki:18,21" lang="en" %}}. It seems Josiah was the first king of Israel ever to fight against Egypt directly.
+Assyria had been oppressing Israel constantly up to this point, and stopped only because Babylon started causing it trouble instead. Egypt, meanwhile, occupied an odd place in Israel's story — it was the place Israel had come out of slavery, yet it kept serving as the {{% bible val="backup plan for Israel, one that usually ended in disappointment" link="2ki:18,21" lang="en" %}}. It seems Josiah was the first king of Israel ever to march out against Egypt.
 
 ## Conclusion
 

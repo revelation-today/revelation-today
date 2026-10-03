@@ -41,7 +41,7 @@ Taht odasındaki ibadet, kiliselere yazılan mektuplarda ortaya konan sorunlara 
 </tr></thead><tbody>
 <tr>
     <td>Yetkinin <a href="https://biblehub.com/greek/2983.htm">alınması</a></td>
-    <td>{{% bible val="Tiyatira'daki galiplere verilen sabah yıldızı vaadinde" lang="tr" link="rev:2,28" %}}</td>
+    <td>{{% bible val="Tiyatira'daki galiplere verilen sabah yıldızı vaadinde" lang="tr" link="rev:2,26-28" %}}</td>
     <td>Kuzu'nun {{% bible val="tomarı" link="rev:5,9" lang="tr" %}} ve {{% bible val="onur ile yüceliği" link="rev:5,12" lang="tr" %}} almasında</td>
 </tr>
 <tr>
@@ -191,7 +191,7 @@ Bunların hepsi için cevap ibadettir:
 ## Taht odası
 
 <a name="54a4"></a>
-Yuhanna'nın ilk izlenimi Tanrı'nın yüceliğidir — o kadar güçlüdür ki Tanrı'yı doğrudan görmek imkânsızdır. {{% bible val="Musa Tanrı'nın yüceliğini görmek istediğinde göremedi — ama Tanrı iyiliğini önünden geçirdi ve adını ilan etti: merhametli ve lütufkâr, ama suçluyu cezasız bırakmayan biri. Tanrı'nın yüceliği merhametle adaleti bir arada tutar" link="exo:33,18-20" lang="tr" %}}. Bu yüzden sonrasında gelen yargıları, bu aynı yücelik açısından okumalıyız: gerçek merhamet, gerçek adaletle bir arada tutulmuş halde.
+Yuhanna'nın ilk izlenimi Tanrı'nın yüceliğidir — o kadar güçlüdür ki Tanrı'yı doğrudan görmek imkânsızdır. {{% bible val="Musa Tanrı'nın yüceliğini görmek istediğinde göremedi — ama Tanrı iyiliğini önünden geçirdi ve adını ilan etti: merhametli ve lütufkâr, ama suçluyu cezasız bırakmayan biri. Tanrı'nın yüceliği merhametle adaleti bir arada tutar" link="exo:34,5-7" lang="tr" %}}. Bu yüzden sonrasında gelen yargıları, bu aynı yücelik açısından okumalıyız: gerçek merhamet, gerçek adaletle bir arada tutulmuş halde.
 
 Dikkat edilmesi gereken ikinci ayrıntı {{% bible val="gökkuşağıdır" link="rev:4,3" lang="tr" %}}. {{% bible val="Bu, Tanrı'nın yeryüzünü bir daha asla tufanla kaplamayacağına ve mevsimleri koruyacağına dair verdiği söz olarak gökkuşağını yarattığı Nuh'la yapılan antlaşmanın bir hatırlatıcısıdır. Bu antlaşmada Nuh'tan hiçbir talep yoktur" link="gen:9,8-11" lang="tr" %}}. Bu ayrıntı, taht odasından çıkan belaların doğasına kendi ışığını tutar: yargılar vardır, ama sınırlıdırlar.
 

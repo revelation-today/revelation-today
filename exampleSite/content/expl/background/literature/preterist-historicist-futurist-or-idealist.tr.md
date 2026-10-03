@@ -47,7 +47,7 @@ Vahiy, Yuhanna'nın kendi döneminden ikinci gelişe kadar, kilise tarihinin tam
 
 **Lehinde:**
 
-- Vahiy'in tek bir olayı değil, *yayılan* bir tarihi betimlediğini ciddiye alır — Vahiy'in bilerek yankıladığı, {{% int_link val="Daniel'in kendi görümündeki yüzyıllar boyunca yükselen ve çöken krallıklar dizisiyle" link="/expl/background/literature/literally-or-symbolic" %}} uyumludur.
+- Vahiy'in tek bir olayı değil, *yayılan* bir tarihi betimlediğini ciddiye alır — Vahiy'in bilerek yankıladığı, {{% int_link val="Daniel'in kendi görümündeki yüzyıllar boyunca yükselen ve çöken krallıklar dizisiyle" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}} uyumludur.
 - İki bin yıl boyunca zulüm, yozlaşma ve yenilenme içindeki kilisenin gerçek deneyimine gerçek bir ağırlık verir, bu koca zaman dilimini peygamberlik açısından sessiz saymak yerine.
 - Yüzyıllar boyunca Protestan çoğunluğun okuması olmuştur; bunu yalnızca Katolik karşıtı polemik değil, görünür kilise içindeki bozulmuş güce dair gerçek, metne dayalı bir kaygı yönlendirmiştir.
 - Mektup yazarının yalnızca ilk nesle değil, kilisenin uzun vadeli sadakatine dair açık kaygısına uyar.

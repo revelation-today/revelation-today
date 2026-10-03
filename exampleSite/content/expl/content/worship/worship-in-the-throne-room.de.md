@@ -41,7 +41,7 @@ Der Vers am Ende des vorigen Kapitels erwähnte bereits den Thronsaal Gottes, ab
 </tr></thead><tbody>
 <tr>
     <td><a href="https://biblehub.com/greek/2983.htm">Empfang</a> von Vollmacht</td>
-    <td>in der Verheißung, dass die Überwinder in Thyatira {{% bible val="den Morgenstern erhalten" link="rev:2,28" lang="de" %}}</td>
+    <td>in der Verheißung, dass die Überwinder in Thyatira {{% bible val="den Morgenstern erhalten" link="rev:2,26-28" lang="de" %}}</td>
     <td>dass das Lamm {{% bible val="die Schriftrolle" link="rev:5,9" lang="de" %}} empfängt, ebenso wie {{% bible val="Ehre und Herrlichkeit" link="rev:5,12" lang="de" %}}</td>
 </tr>
 <tr>
@@ -191,7 +191,7 @@ Für all das ist die Anbetung die Antwort:
 ## Der Thronsaal
 
 <a name="0938"></a>
-Johannes' erster Eindruck ist die Herrlichkeit Gottes — so überwältigend, dass es unmöglich ist, Gott direkt zu sehen. {{% bible val="Als Mose bat, Gottes Herrlichkeit zu sehen, konnte er es nicht — doch Gott ließ seine Güte an ihm vorüberziehen und verkündete seinen Namen: barmherzig und gnädig, und doch einer, der den Schuldigen nicht ungestraft lässt. Gottes Herrlichkeit hält Barmherzigkeit und Gerechtigkeit zusammen" link="exo:33,18-20" lang="de" %}}. Wir sollten die folgenden Gerichte also aus der Perspektive eben dieser Herrlichkeit lesen: echte Barmherzigkeit, zusammengehalten mit echter Gerechtigkeit.
+Johannes' erster Eindruck ist die Herrlichkeit Gottes — so überwältigend, dass es unmöglich ist, Gott direkt zu sehen. {{% bible val="Als Mose bat, Gottes Herrlichkeit zu sehen, konnte er es nicht — doch Gott ließ seine Güte an ihm vorüberziehen und verkündete seinen Namen: barmherzig und gnädig, und doch einer, der den Schuldigen nicht ungestraft lässt. Gottes Herrlichkeit hält Barmherzigkeit und Gerechtigkeit zusammen" link="exo:34,5-7" lang="de" %}}. Wir sollten die folgenden Gerichte also aus der Perspektive eben dieser Herrlichkeit lesen: echte Barmherzigkeit, zusammengehalten mit echter Gerechtigkeit.
 
 Das zweite bemerkenswerte Detail ist der {{% bible val="Regenbogen" link="rev:4,3" lang="de" %}}. {{% bible val="Er erinnert an den Bund mit Noah, in dem Gott den Regenbogen als sein Versprechen setzte, die Erde nie wieder mit einer Flut zu vernichten und die Jahreszeiten zu erhalten. Diesem Bund war keine Bedingung an Noah geknüpft" link="gen:9,8-11" lang="de" %}}. Dieses Detail wirft ein eigenes Licht auf die Art der Plagen, die aus dem Thronsaal hervorgehen: Es gibt Gericht, aber es ist begrenzt.
 

@@ -54,7 +54,7 @@ Beide Kapitel enden auf dieselbe Weise: mit einem göttlichen Eingreifen. In Kap
 
 Das erinnert an den {{% bible val="Eckstein" link="isa:28,16" lang="de" %}}, der anderswo als {{% bible val="Jesus Christus" link="1pe:2,4-8" lang="de" %}} identifiziert wird, der das {{% bible val="Fundament der Gemeinde" link="eph:2,19-22" lang="de" %}} ist. Er wurde nicht durch „Menschenhand“ gemacht, und er wurde zum Herrscher der Welt und übertrug der Gemeinde seine Autorität zu herrschen. Kapitel 7 zeigt dasselbe Eingreifen aus einem anderen Blickwinkel: {{% bible val="der Hochbetagte und der Menschensohn überwinden die Königreiche" link="dan:7,9-12" lang="de" %}}, und {{% bible val="er richtet ein ewiges Königreich auf" link="dan:7,13-14" lang="de" %}}.
 
-Wer also ist dieser Menschensohn? In Daniels eigenem Kontext steht er für das heilige Volk Gottes: Was {{% bible val="ihm gegeben wird" link="dan:7,14" lang="de" %}}, wird {{% bible val="ihnen gegeben" link="dan:7,18" lang="de" %}}.[^corporate] Aber das findet seine Erfüllung in Jesus als dem wahren Israel, und es ist bemerkenswert, dass [Menschensohn der einzige Titel ist, den er jemals für sich selbst verwendet](https://www.bibleserver.com/search/SLT/Menschensohn).
+Wer also ist dieser Menschensohn? In Daniels eigenem Kontext steht er für das heilige Volk Gottes: Was {{% bible val="ihm gegeben wird" link="dan:7,14" lang="de" %}}, wird {{% bible val="ihnen gegeben" link="dan:7,18" lang="de" %}}.[^corporate] Aber das findet seine Erfüllung in Jesus als dem wahren Israel, und es ist bemerkenswert, dass [Menschensohn der Titel ist, den er am häufigsten für sich selbst verwendet](https://www.bibleserver.com/search/SLT/Menschensohn).
 
 ## Aber da ist mehr
 

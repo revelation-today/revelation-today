@@ -16,7 +16,7 @@ sources:
       ref: beale_rev
 ---
 
-Jesus nennt sich selbst nur mit einem einzigen Titel: „Menschensohn“. Warum dieser Titel, und was bedeutet er?
+Jesus hat für sich selbst einen Lieblingstitel: „Menschensohn“. Warum dieser Titel, und was bedeutet er?
 
 ## Der Ursprung
 
@@ -66,7 +66,7 @@ Es ist bemerkenswert, dass im Alten Testament „Menschensohn“ vor allem die A
 ## Die Lösung
 
 <a name="bcd4"></a>
-Wenn Jesus von sich selbst spricht, [verwendet er nur den Titel Menschensohn](https://www.bibleserver.com/search/SLT/%22Sohn%20des%20Menschen%22) — er ist die Erfüllung der Vision. Und {{% bible val="weil er Gott ist, ist er würdig, Anbetung zu empfangen" link="rev:5,6-14" lang="de" %}}.
+Wenn Jesus von sich selbst spricht, [verwendet er vor allem den Titel Menschensohn](https://www.bibleserver.com/search/SLT/%22Sohn%20des%20Menschen%22) — er ist die Erfüllung der Vision. Und {{% bible val="weil er Gott ist, ist er würdig, Anbetung zu empfangen" link="rev:5,6-14" lang="de" %}}.
 
 Wie also lässt sich die Prophezeiung auf ihn anwenden?
 

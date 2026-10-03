@@ -16,7 +16,7 @@ sources:
       ref: beale_rev
 ---
 
-Yesus menyebut diri-Nya sendiri hanya dengan satu gelar: "Anak Manusia." Mengapa gelar itu, dan apa maknanya?
+Yesus punya satu gelar kesayangan bagi diri-Nya sendiri: "Anak Manusia." Mengapa gelar itu, dan apa maknanya?
 
 ## Asal Mulanya
 
@@ -66,7 +66,7 @@ Perlu dicatat bahwa dalam Perjanjian Lama, "anak manusia" terutama adalah sapaan
 ## Solusinya
 
 <a name="bcd4"></a>
-Ketika Yesus berbicara tentang diri-Nya sendiri, Ia [hanya menggunakan gelar Anak Manusia](https://www.bibleserver.com/search/NIV/%22son%20of%20man%22) — Ia adalah penggenapan penglihatan itu. Dan {{% bible val="karena Ia adalah Allah, Ia layak menerima penyembahan" link="rev:5,6-14" lang="ind" %}}.
+Ketika Yesus berbicara tentang diri-Nya sendiri, Ia [terutama menggunakan gelar Anak Manusia](https://www.bibleserver.com/search/NIV/%22son%20of%20man%22) — Ia adalah penggenapan penglihatan itu. Dan {{% bible val="karena Ia adalah Allah, Ia layak menerima penyembahan" link="rev:5,6-14" lang="ind" %}}.
 
 Jadi bagaimana nubuat ini diterapkan pada-Nya?
 

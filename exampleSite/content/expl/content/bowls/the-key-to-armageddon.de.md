@@ -70,7 +70,7 @@ Als Jehu, {{% bible val="der Heerführer, schließlich gesalbt wird" link="2ki:9
 <a name="2a48"></a>
 {{% int_link val="Dazu gibt es einen eigenen Beitrag" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}, aber kurz gesagt: Ein König gibt sein Leben im Kampf gegen den König von Ägypten, der auf dem Weg war, den Assyrern gegen das aufstrebende babylonische Reich zu helfen. Ein paar Anmerkungen sind es wert, hinzugefügt zu werden.
 
-Assyrien hatte Israel bis zu diesem Zeitpunkt ständig unterdrückt und hörte nur deshalb damit auf, weil Babylon ihm stattdessen Schwierigkeiten bereitete. Ägypten wiederum nahm einen merkwürdigen Platz in Israels Geschichte ein — es war der Ort, aus dem Israel aus der Sklaverei herausgekommen war, diente aber dennoch immer wieder als {{% bible val="Rückfallplan für Israel, der meist in Enttäuschung endete" link="2ki:18,21" lang="de" %}}. Es scheint, dass Josia der erste König Israels überhaupt war, der direkt gegen Ägypten kämpfte.
+Assyrien hatte Israel bis zu diesem Zeitpunkt ständig unterdrückt und hörte nur deshalb damit auf, weil Babylon ihm stattdessen Schwierigkeiten bereitete. Ägypten wiederum nahm einen merkwürdigen Platz in Israels Geschichte ein — es war der Ort, aus dem Israel aus der Sklaverei herausgekommen war, diente aber dennoch immer wieder als {{% bible val="Rückfallplan für Israel, der meist in Enttäuschung endete" link="2ki:18,21" lang="de" %}}. Es scheint, dass Josia der erste König Israels überhaupt war, der gegen Ägypten ins Feld zog.
 
 ## Schlussfolgerung
 

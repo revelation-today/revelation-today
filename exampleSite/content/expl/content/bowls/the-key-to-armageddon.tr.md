@@ -70,7 +70,7 @@ Ama hikâye burada bitmiyor. {{% bible val="Kraliçe öfkelenir ve onun ölmesin
 <a name="9ad1"></a>
 {{% int_link val="Bunun için ayrı bir yazı var" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}, ama kısacası şu: Bir kral, yükselmekte olan Babil İmparatorluğu'na karşı Asurlulara yardım etmek üzere yola çıkan Mısır kralıyla savaşırken canını verir. Eklemeye değer birkaç not var.
 
-Asur, o zamana kadar İsrail'e sürekli baskı uyguluyordu ve bunu ancak Babil kendisine sorun çıkarmaya başlayınca durdurdu. Mısır ise İsrail'in hikâyesinde tuhaf bir yer tutuyordu - İsrail'in köleliğinden çıktığı yerdi, ama aynı zamanda İsrail için {{% bible val="genellikle hayal kırıklığıyla sonuçlanan bir yedek plan" link="2ki:18,21" lang="tr" %}} olmaya devam etti. Görünüşe göre Yoşiya, Mısır'a karşı doğrudan savaşan ilk İsrail kralıydı.
+Asur, o zamana kadar İsrail'e sürekli baskı uyguluyordu ve bunu ancak Babil kendisine sorun çıkarmaya başlayınca durdurdu. Mısır ise İsrail'in hikâyesinde tuhaf bir yer tutuyordu - İsrail'in köleliğinden çıktığı yerdi, ama aynı zamanda İsrail için {{% bible val="genellikle hayal kırıklığıyla sonuçlanan bir yedek plan" link="2ki:18,21" lang="tr" %}} olmaya devam etti. Görünüşe göre Yoşiya, Mısır'a karşı sefere çıkan ilk İsrail kralıydı.
 
 ## Sonuç
 

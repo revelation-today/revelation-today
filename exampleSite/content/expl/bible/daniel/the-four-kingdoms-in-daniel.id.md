@@ -54,7 +54,7 @@ Kedua pasal ini berakhir dengan cara yang sama: melalui sebuah peristiwa ilahi. 
 
 Ini mengingatkan kita pada {{% bible val="batu penjuru" link="isa:28,16" lang="ind" %}} yang di tempat lain diidentifikasikan sebagai {{% bible val="Yesus Kristus" link="1pe:2,4-8" lang="ind" %}}, yang menjadi {{% bible val="fondasi Gereja" link="eph:2,19-22" lang="ind" %}}. Ia tidak dibuat oleh "tangan manusia", dan Ia menjadi penguasa dunia, memberikan otoritas-Nya kepada gereja untuk memerintah. Pasal 7 menunjukkan campur tangan yang sama dari sudut pandang lain: {{% bible val="Yang Lanjut Usianya dan Anak Manusia menaklukkan kerajaan-kerajaan itu" link="dan:7,9-12" lang="ind" %}}, dan {{% bible val="Ia mendirikan sebuah kerajaan yang kekal" link="dan:7,13-14" lang="ind" %}}.
 
-Jadi, siapakah Anak Manusia ini? Dalam konteks Daniel sendiri, ia mewakili umat kudus Allah: apa yang {{% bible val="diberikan kepadanya" link="dan:7,14" lang="ind" %}} {{% bible val="diberikan kepada mereka" link="dan:7,18" lang="ind" %}}.[^corporate] Tetapi hal ini digenapi dalam Yesus sebagai Israel yang sejati, dan perlu dicatat bahwa [Anak Manusia adalah satu-satunya gelar yang pernah Ia gunakan bagi diri-Nya sendiri](https://www.bibleserver.com/search/NIV/son%20of%20man).
+Jadi, siapakah Anak Manusia ini? Dalam konteks Daniel sendiri, ia mewakili umat kudus Allah: apa yang {{% bible val="diberikan kepadanya" link="dan:7,14" lang="ind" %}} {{% bible val="diberikan kepada mereka" link="dan:7,18" lang="ind" %}}.[^corporate] Tetapi hal ini digenapi dalam Yesus sebagai Israel yang sejati, dan perlu dicatat bahwa [Anak Manusia adalah gelar yang paling sering Ia gunakan bagi diri-Nya sendiri](https://www.bibleserver.com/search/NIV/son%20of%20man).
 
 ## Tetapi Masih Ada Lagi
 

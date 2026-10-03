@@ -16,7 +16,7 @@ sources:
       ref: beale_rev
 ---
 
-İsa kendisi için yalnızca tek bir unvan kullanır: "İnsanoğlu." Neden bu unvan, ve bu ne anlama gelir?
+İsa'nın kendisi için en sevdiği unvan şudur: "İnsanoğlu." Neden bu unvan, ve bu ne anlama gelir?
 
 ## Köken
 
@@ -66,7 +66,7 @@ Daniel'in kendi bağlamı bunun tam olarak ne zaman gerçekleşeceğini söyleme
 ## Çözüm
 
 <a name="e03e"></a>
-İsa kendisinden söz ederken [yalnızca İnsanoğlu unvanını kullanır](https://www.bibleserver.com/search/NIV/%22son%20of%20man%22) — o, bu görümün yerine gelmesidir. Ve {{% bible val="Tanrı olduğu için tapınmayı hak eder" link="rev:5,6-14" lang="tr" %}}.
+İsa kendisinden söz ederken [en çok İnsanoğlu unvanını kullanır](https://www.bibleserver.com/search/NIV/%22son%20of%20man%22) — o, bu görümün yerine gelmesidir. Ve {{% bible val="Tanrı olduğu için tapınmayı hak eder" link="rev:5,6-14" lang="tr" %}}.
 
 Peki bu peygamberlik O'na nasıl uygulanır?
 

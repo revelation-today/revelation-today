@@ -16,7 +16,7 @@ sources:
       ref: beale_rev
 ---
 
-Jesus calls himself by only one title: the "Son of Man." Why that title, and what does it mean?
+Jesus has one favourite title for himself: the "Son of Man." Why that title, and what does it mean?
 
 ## The origin
 
@@ -66,7 +66,7 @@ It's worth noting that in the Old Testament, "son of man" is mostly the way God 
 ## The solution
 
 <a name="77b0"></a>
-When Jesus refers to himself, he [uses only the title Son of Man](https://www.bibleserver.com/search/NIV/%22son%20of%20man%22) — he is the fulfillment of the vision. And {{% bible val="because he is God, he is worthy of receiving worship" link="rev:5,6-14" lang="en" %}}.
+When Jesus refers to himself, he [uses above all the title Son of Man](https://www.bibleserver.com/search/NIV/%22son%20of%20man%22) — he is the fulfillment of the vision. And {{% bible val="because he is God, he is worthy of receiving worship" link="rev:5,6-14" lang="en" %}}.
 
 So how does the prophecy apply to him?
 

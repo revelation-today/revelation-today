@@ -78,7 +78,7 @@ Die prophetische Literatur des Alten Testaments war im Bund am Berg Sinai verwur
 
 - Wir alle sind vor dem Gesetz gleich,
 - wir sollen den Hilflosen Barmherzigkeit erweisen, {{% bible val="so wie Israel selbst einst versklavt war" link="exo:20,2" lang="de" %}} und {{% bible val="Gott die Hilflosen schützt" link="deu:10,18" lang="de" %}}, wie in {{% bible val="3. Mose 23,22" link="lev:23,22" lang="de" %}},
-- und das wichtigste Gebot ist {{% bible val="Gott zu lieben und den Nächsten zu lieben" link="lev:19,18" lang="de" %}} — ein Gebot, das {{% bible val="im Neuen Testament bestätigt wird, wo wir erfahren, dass jeder Mensch unser Nächster ist" link="luk:10,25-37" lang="de" %}}.
+- und das wichtigste Gebot ist {{% bible val="Gott zu lieben" link="deu:6,5" lang="de" %}} und {{% bible val="den Nächsten zu lieben" link="lev:19,18" lang="de" %}} — ein Gebot, das {{% bible val="im Neuen Testament bestätigt wird, wo wir erfahren, dass jeder Mensch unser Nächster ist" link="luk:10,25-37" lang="de" %}}.
 
 Als das Volk diese Prinzipien verließ, mussten die Propheten sie zurückrufen. Ihre grundlegende Botschaft lautete:
 

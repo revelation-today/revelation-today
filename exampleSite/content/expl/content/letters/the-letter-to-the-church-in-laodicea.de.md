@@ -31,6 +31,8 @@ Laodizäa lag an der Kreuzung mehrerer Handelsrouten und war eine überaus wohlh
 - ihre Schafzucht produzierte wertvolle schwarze Wolle,
 - und sie besaß ein bekanntes medizinisches Zentrum, das für seine Augensalbe berühmt war.
 
+Als ein Erdbeben die Stadt im Jahr 60 n. Chr. zerstörte, baute sie sich aus eigenen Mitteln wieder auf, ohne Hilfe aus Rom (Tacitus, *Annalen* 14,27).
+
 Eine eigene Quelle hatte sie jedoch nicht: Ihr Wasser kam durch ein Aquädukt von Mineralquellen einige Kilometer entfernt, in der Nähe der heißen Quellen, die auch das nördlich gelegene Hierapolis speisten. Bis es die Stadt erreichte, war es abgekühlt und hatte schweren mineralischen Bodensatz aufgenommen - ein schwacher Ersatz sowohl für Hierapolis' berühmtes heißes, heilkräftiges Wasser als auch für das kalte, erfrischende Wasser von Kolossä weiter oben im Tal. Der folgende Tadel Jesu spielt höchstwahrscheinlich auf diesen lokalen Ruf an.[^water]
 
 ## Jesu Sicht

@@ -26,7 +26,7 @@ Pada bagian depan tampak Kaisar Vespasianus (memerintah tahun 69–79) dengan tu
 
 Bagian belakang menampilkan dewi Roma dalam pakaian militer, duduk di atas ketujuh bukit Roma, dengan sebilah pedang kecil bertumpu di lututnya sebagai lambang kekuatan militer Roma. Di kiri dan kanannya terdapat singkatan SC (Senatus Consultum, "atas keputusan Senat").
 
-Di sebelah kanan, sesosok pria yang melambangkan Sungai Tiber, yang mengelilingi Roma, membungkuk di hadapan Roma. Di kiri bawah, seekor serigala betina menyusui Romulus dan Remus, mengingatkan pada legenda pendirian Roma yang tradisional — penanggalan kota itu sendiri oleh sejarawan kuno Romawi, Varro, pada tahun 753 SM, dan kisah asal-usulnya sendiri sebagai keturunan para pengungsi Troya melalui Romulus dan Remus. Di bagian paling bawah terdapat kata Roma — mungkin sebuah sindiran pada tradisi Roma tentang sebuah "nama rahasia," Amor, yang jika dibalik ejaannya berarti "cinta".[^amor]
+Di sebelah kanan, sesosok pria yang melambangkan Sungai Tiber, yang mengelilingi Roma, membungkuk di hadapan Roma. Di kiri bawah, seekor serigala betina menyusui Romulus dan Remus, mengingatkan pada legenda pendirian Roma yang tradisional — penanggalan kota itu sendiri oleh sejarawan kuno Romawi, Varro, pada tahun 753 SM, dan kisah asal-usulnya sendiri sebagai keturunan para pengungsi Troya melalui Romulus dan Remus. Di bagian paling bawah terdapat kata Roma — mungkin sebuah sindiran pada tradisi Roma tentang sebuah "nama rahasia," Amor — Roma yang dibaca terbalik, dan kata Latin untuk cinta.[^amor]
 
 Jadi bagian belakang koin ini adalah sebuah perayaan langsung atas kekuasaan dan keabadian Roma. Apa yang dilakukan kitab Wahyu dengan gambaran yang sama itu?
 

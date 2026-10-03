@@ -35,7 +35,7 @@ Allah tetap merindukan hubungan dengan manusia. Maka ketika Ia membawa Israel ke
 
 Bait Allah itu dipenuhi dengan citra yang dipinjam dari Taman Eden, mencerminkan sebuah logika sederhana: karena manusia tidak lagi dapat bersekutu dengan Allah di taman, maka Allah sebaliknya akan bersekutu dengan manusia di dalam bait-Nya. Dan sejak awal, bait Allah itu dimaksudkan agar orang-orang bukan Israel pun dapat turut ambil bagian di dalamnya.
 
-Bagian terdalam dari bait Allah adalah tempat mahakudus, yang hanya boleh dimasuki oleh imam besar, dan hanya sekali setahun, pada Hari Pendamaian. Inilah tempat Musa berbicara dengan Allah, dan tempat kehadiran Allah berdiam.
+Bagian terdalam dari bait Allah adalah tempat mahakudus, yang hanya boleh dimasuki oleh imam besar, dan hanya sekali setahun, pada Hari Pendamaian. Di sinilah kehadiran Allah berdiam; sebelumnya, di Kemah Suci, Allah berbicara dengan Musa dari atas tabut (Kel 25:22).
 
 Meskipun demikian, pada akhirnya Allah meninggalkan tempat kediaman itu — tetapi dengan sebuah janji bahwa suatu hari kelak Ia akan menyatukan kembali gambaran kota dan taman itu. Ketika Israel melanggar perjanjian, {{% bible val="kehadiran-Nya meninggalkan bait itu" link="ezk:10,18-19" lang="ind" %}}, tetapi kemudian dalam kitab yang sama, {{% bible val="kembalinya Allah dijanjikan, masuk kembali melalui Pintu Gerbang Timur" link="ezk:43,1-2" lang="ind" %}}.
 

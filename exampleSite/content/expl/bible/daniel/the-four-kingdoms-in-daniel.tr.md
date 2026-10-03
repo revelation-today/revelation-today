@@ -54,7 +54,7 @@ Her iki bölüm de aynı şekilde biter: tanrısal bir olayla. 2. bölümde bu, 
 
 Bu, başka bir yerde {{% bible val="İsa Mesih" link="1pe:2,4-8" lang="tr" %}} olarak tanımlanan ve {{% bible val="Kilise'nin temeli" link="eph:2,19-22" lang="tr" %}} olan {{% bible val="köşe taşını" link="isa:28,16" lang="tr" %}} hatırlatır. O, "insan eliyle" yapılmamıştı ve dünyanın hükümdarı olarak kiliseye yönetme yetkisini verdi. 7. bölüm, aynı müdahaleyi başka bir açıdan gösterir: {{% bible val="Eskiden Beri Var Olan ve İnsanoğlu, krallıkların üstesinden gelir" link="dan:7,9-12" lang="tr" %}} ve {{% bible val="sonsuz bir krallık kurar" link="dan:7,13-14" lang="tr" %}}.
 
-Peki bu İnsanoğlu kimdir? Daniel'in kendi bağlamında o, Tanrı'nın kutsal halkını temsil eder: {{% bible val="ona verilen" link="dan:7,14" lang="tr" %}}, {{% bible val="onlara verilmiş olur" link="dan:7,18" lang="tr" %}}.[^corporate] Ama bu, gerçek İsrail olarak İsa'da yerine gelir; [İnsanoğlu'nun, İsa'nın kendisi için kullandığı tek unvan olduğunu](https://www.bibleserver.com/search/NIV/son%20of%20man) belirtmekte fayda var.
+Peki bu İnsanoğlu kimdir? Daniel'in kendi bağlamında o, Tanrı'nın kutsal halkını temsil eder: {{% bible val="ona verilen" link="dan:7,14" lang="tr" %}}, {{% bible val="onlara verilmiş olur" link="dan:7,18" lang="tr" %}}.[^corporate] Ama bu, gerçek İsrail olarak İsa'da yerine gelir; [İnsanoğlu'nun, İsa'nın kendisi için en çok kullandığı unvan olduğunu](https://www.bibleserver.com/search/NIV/son%20of%20man) belirtmekte fayda var.
 
 ## Daha fazlası var
 

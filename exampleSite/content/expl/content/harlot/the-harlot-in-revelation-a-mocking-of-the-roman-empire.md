@@ -26,7 +26,7 @@ On the obverse is Emperor Vespasian (reigned 69–79) with the inscription "Imp 
 
 The reverse shows the goddess Roma in military dress, seated on the seven hills of Rome, a small sword resting on her knee as a symbol of Rome's military power. To her left and right is the abbreviation SC (Senatus Consultum, "by decree of the Senate").
 
-On the right, a male figure representing the river Tiber, which surrounds Rome, bows before Roma. In the lower left, a she-wolf nurses Romulus and Remus, recalling Rome's traditional founding legend — the city's own dating, by the Roman antiquarian Varro, to 753 BC, and its self-told descent from Trojan refugees via Romulus and Remus. At the very bottom is the word Roma — possibly a nod to Rome's tradition of a "secret name," Amor, which reversed spells "love".[^amor]
+On the right, a male figure representing the river Tiber, which surrounds Rome, bows before Roma. In the lower left, a she-wolf nurses Romulus and Remus, recalling Rome's traditional founding legend — the city's own dating, by the Roman antiquarian Varro, to 753 BC, and its self-told descent from Trojan refugees via Romulus and Remus. At the very bottom is the word Roma — possibly a nod to Rome's tradition of a "secret name," Amor — Roma read backwards, and the Latin word for love.[^amor]
 
 So the reverse of the coin is a straightforward celebration of Rome's power and permanence. What does Revelation do with that same imagery?
 

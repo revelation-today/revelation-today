@@ -70,7 +70,7 @@ Ketika Yehu, {{% bible val="panglima pasukan itu, akhirnya diurapi" link="2ki:9"
 <a name="2a48"></a>
 {{% int_link val="Ada tulisan tersendiri untuk hal ini" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}, tetapi ringkasnya adalah: seorang raja mengorbankan nyawanya dalam pertempuran melawan raja Mesir, yang sedang dalam perjalanan untuk membantu orang Asyur melawan kekaisaran Babel yang sedang bangkit. Ada beberapa catatan tambahan yang perlu ditambahkan.
 
-Asyur telah terus-menerus menindas Israel hingga saat itu, dan baru berhenti karena Babel mulai menyusahkan mereka. Mesir, sementara itu, menempati posisi yang aneh dalam kisah Israel - Mesir adalah tempat Israel keluar dari perbudakan, namun tetap saja terus-menerus menjadi {{% bible val="rencana cadangan bagi Israel, yang biasanya berakhir dengan kekecewaan" link="2ki:18,21" lang="ind" %}}. Tampaknya Yosia adalah raja Israel pertama yang pernah berperang langsung melawan Mesir.
+Asyur telah terus-menerus menindas Israel hingga saat itu, dan baru berhenti karena Babel mulai menyusahkan mereka. Mesir, sementara itu, menempati posisi yang aneh dalam kisah Israel - Mesir adalah tempat Israel keluar dari perbudakan, namun tetap saja terus-menerus menjadi {{% bible val="rencana cadangan bagi Israel, yang biasanya berakhir dengan kekecewaan" link="2ki:18,21" lang="ind" %}}. Tampaknya Yosia adalah raja Israel pertama yang pernah maju berperang melawan Mesir.
 
 ## Kesimpulan
 

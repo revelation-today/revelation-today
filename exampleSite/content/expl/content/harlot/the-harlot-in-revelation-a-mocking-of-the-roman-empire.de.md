@@ -26,7 +26,7 @@ Auf der Vorderseite ist Kaiser Vespasian (regierte 69–79) mit der Inschrift �
 
 Die Rückseite zeigt die Göttin Roma in militärischer Kleidung, sitzend auf den sieben Hügeln Roms, mit einem kleinen Schwert auf ihrem Knie als Symbol der militärischen Macht Roms. Zu ihrer Linken und Rechten steht die Abkürzung SC (Senatus Consultum, „auf Beschluss des Senats").
 
-Rechts verneigt sich eine männliche Gestalt, die den Fluss Tiber darstellt, der Rom umgibt, vor Roma. Unten links säugt eine Wölfin Romulus und Remus, eine Erinnerung an Roms traditionelle Gründungslegende — die eigene Datierung der Stadt durch den römischen Altertumsforscher Varro auf 753 v. Chr., und ihre selbst erzählte Abstammung von trojanischen Flüchtlingen über Romulus und Remus. Ganz unten steht das Wort Roma — möglicherweise ein Hinweis auf Roms Tradition eines „geheimen Namens", Amor, der rückwärts gelesen „Liebe" ergibt.[^amor]
+Rechts verneigt sich eine männliche Gestalt, die den Fluss Tiber darstellt, der Rom umgibt, vor Roma. Unten links säugt eine Wölfin Romulus und Remus, eine Erinnerung an Roms traditionelle Gründungslegende — die eigene Datierung der Stadt durch den römischen Altertumsforscher Varro auf 753 v. Chr., und ihre selbst erzählte Abstammung von trojanischen Flüchtlingen über Romulus und Remus. Ganz unten steht das Wort Roma — möglicherweise ein Hinweis auf Roms Tradition eines „geheimen Namens", Amor — Roma rückwärts gelesen, und das lateinische Wort für Liebe.[^amor]
 
 Die Rückseite der Münze ist also eine unverhohlene Feier der Macht und Beständigkeit Roms. Was macht die Offenbarung mit genau dieser Bildsprache?
 

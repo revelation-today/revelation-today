@@ -41,7 +41,7 @@ Ayat di akhir pasal sebelumnya sudah menyebutkan ruang takhta Allah, tetapi hubu
 </tr></thead><tbody>
 <tr>
     <td><a href="https://biblehub.com/greek/2983.htm">Penerimaan</a> otoritas</td>
-    <td>dalam janji bagi para pemenang di Tiatira, untuk menerima {{% bible val="Bintang Timur" lang="ind" link="rev:2,28" %}}</td>
+    <td>dalam janji bagi para pemenang di Tiatira, untuk menerima {{% bible val="Bintang Timur" lang="ind" link="rev:2,26-28" %}}</td>
     <td>bagi Anak Domba, untuk menerima {{% bible val="gulungan kitab itu" link="rev:5,9" lang="ind" %}}, serta {{% bible val="hormat dan kemuliaan" link="rev:5,12" lang="ind" %}}</td>
 </tr>
 <tr>
@@ -191,7 +191,7 @@ Untuk semuanya itu, penyembahan adalah jawabannya:
 ## Ruang Takhta
 
 <a name="0938"></a>
-Kesan pertama Yohanes adalah kemuliaan Allah - begitu dahsyat sehingga mustahil untuk memandang Allah secara langsung. {{% bible val="Ketika Musa meminta untuk melihat kemuliaan Allah, ia tidak diperkenankan - namun Allah membiarkan kebaikan-Nya lewat di hadapannya dan menyerukan nama-Nya: penuh belas kasihan dan kasih karunia, namun juga Dia yang tidak akan membiarkan yang bersalah tidak dihukum. Kemuliaan Allah menyatukan belas kasihan dan keadilan" link="exo:33,18-20" lang="ind" %}}. Maka penghakiman-penghakiman yang akan menyusul seharusnya kita baca dari sudut pandang kemuliaan yang sama ini: belas kasihan sejati, yang disatukan dengan keadilan sejati.
+Kesan pertama Yohanes adalah kemuliaan Allah - begitu dahsyat sehingga mustahil untuk memandang Allah secara langsung. {{% bible val="Ketika Musa meminta untuk melihat kemuliaan Allah, ia tidak diperkenankan - namun Allah membiarkan kebaikan-Nya lewat di hadapannya dan menyerukan nama-Nya: penuh belas kasihan dan kasih karunia, namun juga Dia yang tidak akan membiarkan yang bersalah tidak dihukum. Kemuliaan Allah menyatukan belas kasihan dan keadilan" link="exo:34,5-7" lang="ind" %}}. Maka penghakiman-penghakiman yang akan menyusul seharusnya kita baca dari sudut pandang kemuliaan yang sama ini: belas kasihan sejati, yang disatukan dengan keadilan sejati.
 
 Detail kedua yang layak diperhatikan adalah {{% bible val="pelangi" link="rev:4,3" lang="ind" %}}. {{% bible val="Ini mengingatkan pada perjanjian dengan Nuh, ketika Allah menciptakan pelangi sebagai janji-Nya untuk tidak pernah lagi membanjiri bumi dan untuk menjaga musim-musim tetap berjalan. Tidak ada tuntutan apa pun bagi Nuh dalam perjanjian ini" link="gen:9,8-11" lang="ind" %}}. Detail ini memberi cahaya tersendiri pada sifat malapetaka-malapetaka yang keluar dari ruang takhta ini: ada penghakiman, tetapi penghakiman itu dibatasi.
 

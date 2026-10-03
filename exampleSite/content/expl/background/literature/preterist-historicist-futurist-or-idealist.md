@@ -47,7 +47,7 @@ Revelation traces the whole span of church history, from John's own day to the s
 
 **In favor:**
 
-- It takes seriously that Revelation describes an *unfolding* history, not a single event — matching Daniel's own vision of {{% int_link val="a succession of kingdoms rising and falling across centuries" link="/expl/background/literature/literally-or-symbolic" %}}, which Revelation deliberately echoes.
+- It takes seriously that Revelation describes an *unfolding* history, not a single event — matching Daniel's own vision of {{% int_link val="a succession of kingdoms rising and falling across centuries" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}, which Revelation deliberately echoes.
 - It gives real weight to the church's actual experience across two millennia of persecution, corruption, and reform, rather than treating that whole stretch as prophetically silent.
 - It was the majority Protestant reading for centuries, driven by a genuine, textually-motivated concern about corrupted power within the visible church, not only by anti-Catholic polemic.
 - It fits the letter-writer's evident concern for the church's long-term faithfulness, not just its first generation.

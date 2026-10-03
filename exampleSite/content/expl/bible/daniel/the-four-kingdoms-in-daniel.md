@@ -53,7 +53,7 @@ Both chapters end the same way: with a divine event. In chapter 2 it's described
 
 This recalls the {{% bible val="cornerstone" link="isa:28,16" lang="en" %}} identified elsewhere as {{% bible val="Jesus Christ" link="1pe:2,4-8" lang="en" %}}, who is the {{% bible val="foundation of the Church" link="eph:2,19-22" lang="en" %}}. He was not made by "human hand," and he became the ruler of the world, giving the church his authority to rule. Chapter 7 shows the same intervention from another angle: {{% bible val="the Ancient of Days and the Son of Man overcome the kingdoms" link="dan:7,9-12" lang="en" %}}, and {{% bible val="he sets up an eternal kingdom" link="dan:7,13-14" lang="en" %}}.
 
-So who is this Son of Man? In Daniel's own context he stands for the holy people of God: what is {{% bible val="given to him" link="dan:7,14" lang="en" %}} is {{% bible val="given to them" link="dan:7,18" lang="en" %}}.[^corporate] But this finds its fulfillment in Jesus as true Israel, and it's worth noting that [Son of Man is the only title he ever uses for himself](https://www.bibleserver.com/search/NIV/son%20of%20man).
+So who is this Son of Man? In Daniel's own context he stands for the holy people of God: what is {{% bible val="given to him" link="dan:7,14" lang="en" %}} is {{% bible val="given to them" link="dan:7,18" lang="en" %}}.[^corporate] But this finds its fulfillment in Jesus as true Israel, and it's worth noting that [Son of Man is the title he uses most for himself](https://www.bibleserver.com/search/NIV/son%20of%20man).
 
 ## There is more
 

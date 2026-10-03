@@ -47,7 +47,7 @@ Kitab Wahyu menelusuri seluruh rentang sejarah gereja, dari zaman Yohanes sendir
 
 **Yang mendukung:**
 
-- Ini menganggap serius bahwa Kitab Wahyu menggambarkan sejarah yang *terus terbentang*, bukan satu peristiwa tunggal — sesuai dengan {{% int_link val="rangkaian kerajaan-kerajaan yang bangkit dan runtuh sepanjang berabad-abad dalam penglihatan Daniel sendiri" link="/expl/background/literature/literally-or-symbolic" %}}, yang dengan sengaja digemakan oleh Kitab Wahyu.
+- Ini menganggap serius bahwa Kitab Wahyu menggambarkan sejarah yang *terus terbentang*, bukan satu peristiwa tunggal — sesuai dengan {{% int_link val="rangkaian kerajaan-kerajaan yang bangkit dan runtuh sepanjang berabad-abad dalam penglihatan Daniel sendiri" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}, yang dengan sengaja digemakan oleh Kitab Wahyu.
 - Ini memberi bobot nyata pada pengalaman gereja yang sesungguhnya sepanjang dua milenium penganiayaan, kerusakan, dan pembaruan, alih-alih memperlakukan seluruh rentang waktu itu sebagai bisu secara nubuat.
 - Ini adalah pembacaan mayoritas Protestan selama berabad-abad, didorong oleh keprihatinan yang sungguh-sungguh dan berdasar teks tentang kekuasaan yang korup dalam gereja yang kelihatan, bukan hanya oleh polemik anti-Katolik.
 - Ini sesuai dengan kepedulian nyata sang penulis surat terhadap kesetiaan jangka panjang gereja, bukan hanya generasi pertamanya.

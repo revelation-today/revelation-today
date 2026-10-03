@@ -26,7 +26,7 @@ O dönemde yaygın olarak kullanılan bir madeni parayla başlayalım.
 
 Arka yüzde, askeri kıyafetli tanrıça Roma, Roma'nın yedi tepesi üzerinde otururken görülür; dizinde, Roma'nın askeri gücünün simgesi olan küçük bir kılıç durur. Sağında ve solunda SC (Senatus Consultum, "Senato kararıyla") kısaltması yer alır.
 
-Sağda, Roma'yı çevreleyen Tiber nehrini temsil eden erkek bir figür, Roma'nın önünde eğilir. Sol altta, dişi bir kurt Romulus ve Remus'u emzirir; bu, Roma'nın geleneksel kuruluş efsanesini hatırlatır — kentin, Romalı eskiçağ araştırmacısı Varro tarafından MÖ 753'e tarihlenmesini ve Truva'dan kaçan mültecilerin soyundan, Romulus ve Remus aracılığıyla geldiğine dair kendi anlattığı köken hikâyesini. En altta ise Roma sözcüğü yer alır — belki de Roma'nın tersten okununca "aşk" anlamına gelen bir "gizli ad" geleneğine, Amor'a bir gönderme.[^amor]
+Sağda, Roma'yı çevreleyen Tiber nehrini temsil eden erkek bir figür, Roma'nın önünde eğilir. Sol altta, dişi bir kurt Romulus ve Remus'u emzirir; bu, Roma'nın geleneksel kuruluş efsanesini hatırlatır — kentin, Romalı eskiçağ araştırmacısı Varro tarafından MÖ 753'e tarihlenmesini ve Truva'dan kaçan mültecilerin soyundan, Romulus ve Remus aracılığıyla geldiğine dair kendi anlattığı köken hikâyesini. En altta ise Roma sözcüğü yer alır — belki de Roma'nın "gizli ad" geleneğine bir gönderme: Amor, yani Roma'nın tersten okunuşu ve Latince "aşk" sözcüğü.[^amor]
 
 Yani madalyonun arka yüzü, Roma'nın gücünün ve kalıcılığının açık bir kutlamasıdır. Peki Vahiy Kitabı bu aynı imgeyle ne yapar?
 

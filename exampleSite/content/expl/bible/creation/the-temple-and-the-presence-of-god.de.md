@@ -38,7 +38,7 @@ Gott sehnte sich immer noch nach Gemeinschaft mit den Menschen. Als er also Isra
 
 Der Tempel war mit Bildsprache aus dem Garten Eden überzogen, was einer einfachen Logik folgte: Da der Mensch nicht mehr im Garten Gemeinschaft mit Gott haben konnte, würde Gott stattdessen im Tempel Gemeinschaft mit dem Menschen haben. Und der Tempel war von Anfang an dazu bestimmt, auch Nichtisraeliten teilhaben zu lassen.
 
-Der innerste Teil des Tempels war das Allerheiligste, das nur der Hohepriester betreten durfte, und das auch nur einmal im Jahr, am Versöhnungstag. Dies war der Ort, an dem Mose mit Gott sprach, und wo Gottes Gegenwart wohnte.
+Der innerste Teil des Tempels war das Allerheiligste, das nur der Hohepriester betreten durfte, und das auch nur einmal im Jahr, am Versöhnungstag. Hier wohnte Gottes Gegenwart; schon in der Stiftshütte hatte Gott von der Lade her mit Mose gesprochen (2. Mose 25,22).
 
 ## Gott hinterlässt die Verheißung, dass Stadt und Garten eins werden
 

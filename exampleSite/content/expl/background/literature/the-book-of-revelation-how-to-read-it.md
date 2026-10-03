@@ -78,7 +78,7 @@ Old Testament prophetic literature was grounded in the covenant made at Mount Si
 
 - we are all equal before the law,
 - we should show mercy to the helpless, {{% bible val="just as Israel itself had once been enslaved" link="exo:20,2" lang="en" %}} and {{% bible val="God protects the helpless" link="deu:10,18" lang="en" %}}, as in {{% bible val="Lev.23/22" link="lev:23,22" lang="en" %}},
-- and the most important law is {{% bible val="to love God and to love your neighbor" link="lev:19,18" lang="en" %}} — a command {{% bible val="confirmed in the New Testament, where we learn that everyone is our neighbor" link="luk:10,25-37" lang="en" %}}.
+- and the most important law is {{% bible val="to love God" link="deu:6,5" lang="en" %}} and {{% bible val="to love your neighbor" link="lev:19,18" lang="en" %}} — a command {{% bible val="confirmed in the New Testament, where we learn that everyone is our neighbor" link="luk:10,25-37" lang="en" %}}.
 
 When the people abandoned these principles, the prophets were bound to call them back. Their basic message ran:
 
