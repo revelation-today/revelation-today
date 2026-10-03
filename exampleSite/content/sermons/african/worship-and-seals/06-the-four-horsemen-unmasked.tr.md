@@ -29,7 +29,7 @@ Ve İsa'nın son günler hakkındaki öğretisi, Markos 13, Matta 24 ve Luka 21'
 
 ## Perdenin arkası
 
-İşte tablo şudur: ilk binici zaferli bir Mesih figürü gibi görünür — taçlı, fetheden, beyaz at üzerinde — ama gerçek Kuzu'nun tomarı açmaya layık ilan edildiği an başlatılan (Vahiy 5), gizlice iblisin kendi müjde kampanyasıdır. Önce aldatma gelir, sonra tırmanır: savaş (aldatmayı satın almayı reddedenlerin zulmü), sonra ekonomik adaletsizlik (üçüncü binicinin teraziler — lüks mallar fiyat şoklarından korunurken yoksullar açlıktan ölür — temel tahılda sekiz ile on altı katı bir zamlanma varken şarap ve zeytinyağı el değmemiş kalır), ve son olarak ölüm ve onun tam hasadı. Bir sonraki sahnenin sunağın altındakilerin haykırışı olmasının nedeni budur: "Ne zamana dek?" (Vahiy 6:9-11). Aldatma, şiddet ve adaletsizlik seyrini tamamladıktan sonra, bu haykırış tam olarak anlam kazanır.
+İşte tablo şudur: ilk binici zaferli bir Mesih figürü gibi görünür — taçlı, fetheden, beyaz at üzerinde — ama gerçek Kuzu'nun tomarı açmaya layık ilan edildiği an başlatılan (Vahiy 5), gizlice iblisin kendi müjde kampanyasıdır. Önce aldatma gelir, sonra tırmanır: savaş (aldatmayı satın almayı reddedenlerin zulmü), sonra kıtlık (üçüncü binicinin terazisi: temel tahıl olağan fiyatının sekiz ile on altı katına çıkar, öyle ki bir günlük ücret ancak bir günlük ekmeğe yeter — en ağır biçimde yoksulları vuran bir kıtlık), ve son olarak ölüm ve onun tam hasadı. Bir sonraki sahnenin sunağın altındakilerin haykırışı olmasının nedeni budur: "Ne zamana dek?" (Vahiy 6:9-11). Aldatma, şiddet ve kıtlık seyrini tamamladıktan sonra, bu haykırış tam olarak anlam kazanır.
 
 ## Bu, refah müjdesinin en eski atası
 

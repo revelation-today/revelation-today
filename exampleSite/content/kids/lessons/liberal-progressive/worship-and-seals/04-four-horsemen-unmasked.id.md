@@ -29,7 +29,7 @@ Dalam Wahyu 6, Yohanes melihat empat penunggang di atas empat kuda, satu per sat
 
 ## 3. Kedok terbongkar
 
-Tetapi lihatlah apa yang sebenarnya mengikutinya: perang, harga-harga yang tidak adil yang menyakiti orang-orang miskin sementara kemewahan orang-orang kaya tetap tak tersentuh, dan akhirnya, kematian. Itu sama sekali tidak terdengar seperti Yesus — itu terdengar seperti janji kemuliaan yang berubah menjadi bencana. Penunggang kuda putih terlihat seperti kemenangan. Sebenarnya ia adalah tipuan.
+Tetapi lihatlah apa yang sebenarnya mengikutinya: perang, kelaparan dan harga-harga yang paling menyakiti orang-orang miskin, dan akhirnya, kematian. Itu sama sekali tidak terdengar seperti Yesus — itu terdengar seperti janji kemuliaan yang berubah menjadi bencana. Penunggang kuda putih terlihat seperti kemenangan. Sebenarnya ia adalah tipuan.
 
 Itulah pelajaran besar dari seluruh adegan ini: sesuatu bisa terlihat luar biasa dari luar — mahkota yang berkilau, janji yang besar, "kemenangan yang pasti" — dan tetap menuju ke suatu tempat yang buruk. Cara untuk membedakannya bukanlah seberapa bagus sesuatu terlihat saat dibungkus. Tetapi apa yang sebenarnya ditinggalkannya.
 

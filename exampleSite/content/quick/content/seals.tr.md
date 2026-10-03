@@ -16,7 +16,7 @@ kids: /kids/elementary/05-the-seals
 
 5. bölümdeki tomarın mühürleri birer birer açılır; ilk dördü renkli atlara binmiş atlıları yola çıkarır.
 
-İlki bir fatih gibi görünür: beyaz at, taç, yay; zafer kazanmak için yola çıkmıştır. Arkasından gelen üçü bu tabloyu çırılçıplak ortaya koyar — önce savaş, sonra lüks mallara dokunulmazken ekmeği yoksulların ulaşamayacağı bir fiyata çıkaran kıtlık, sonra da ölüm. Dördü birlikte, İbrani peygamberlerin uyardığı felaketlerin bilinen listesidir: vahşi hayvanlar, kılıç, kıtlık, veba.
+İlki bir fatih gibi görünür: beyaz at, taç, yay; zafer kazanmak için yola çıkmıştır. Arkasından gelen üçü bu tabloyu çırılçıplak ortaya koyar — önce savaş, sonra ekmeği yoksulların ulaşamayacağı bir fiyata çıkaran kıtlık, sonra da ölüm. Dördü birlikte, İbrani peygamberlerin uyardığı felaketlerin bilinen listesidir: vahşi hayvanlar, kılıç, kıtlık, veba.
 
 Okuyucuların üzerinde tartıştığı atlı ilkidir, çünkü kitabın ilerisinde Mesih'in kendisi de beyaz bir ata biner ({{% bible val="19. bölüm" link="rev:19" lang="tr" %}}). Vahiy bu tür benzerleri sürekli karşımıza çıkarır ve kitabın savı şudur: burada zafer vaat eden güç bir taklittir — fethedebilir, korkutabilir, aç bırakabilir, ama kendine ait hiçbir şey yaratmaz. Aynı üç parçalı taklit {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} {{% int_link val="ejderha ve iki canavar" link="/quick/content/beasts" %}} ile, {{% bible val="17. bölümde" link="rev:17" lang="tr" %}} ise {{% int_link val="fahişe ve canavar" link="/quick/content/harlot" %}} ile yeniden karşımıza çıkar.
 

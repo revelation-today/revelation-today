@@ -16,7 +16,7 @@ kids: /kids/elementary/05-the-seals
 
 The scroll from chapter 5 is opened one seal at a time, and the first four send out riders on coloured horses.
 
-The first looks like a conqueror: white horse, crown, bow, riding out to win. The three behind him strip that picture bare - war, then hunger that prices bread out of reach of the poor while the luxury goods stay untouched, then death. Taken together the four are the standard list of disasters the Hebrew prophets warned about: wild beasts, sword, famine, plague.
+The first looks like a conqueror: white horse, crown, bow, riding out to win. The three behind him strip that picture bare - war, then hunger that prices bread out of reach of the poor, then death. Taken together the four are the standard list of disasters the Hebrew prophets warned about: wild beasts, sword, famine, plague.
 
 The first rider is the one readers argue over, because Christ rides a white horse himself later in the book ({{% bible val="chapter 19" link="rev:19" lang="en" %}}). Revelation keeps setting up look-alikes like this, and its case is that the power promising victory here is an imitation: it can conquer, frighten and starve, but it makes nothing of its own. The same three-part imitation returns in {{% bible val="chapter 13" link="rev:13" lang="en" %}} with the {{% int_link val="dragon and the two beasts" link="/quick/content/beasts" %}}, and in {{% bible val="chapter 17" link="rev:17" lang="en" %}} with the {{% int_link val="harlot and the beast" link="/quick/content/harlot" %}}.
 

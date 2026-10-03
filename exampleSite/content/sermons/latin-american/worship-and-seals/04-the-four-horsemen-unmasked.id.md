@@ -74,11 +74,10 @@ mahal.
 ## Apa yang dikonfirmasi oleh tiga penunggang lainnya
 
 Penunggang kedua membawa perang — penganiayaan terhadap mereka yang tidak mau menerima
-janji-janji itu. Penunggang ketiga membawa ketidakadilan yang aneh dan spesifik: barang-barang
-mewah (minyak dan anggur) tidak tersentuh sementara harga gandum pokok — upah sehari untuk
-makanan satu hari — menjadi mencekik bagi orang miskin (Wahyu 6:5-6). Ini adalah ketidakadilan
-ekonomi yang berpakaian sebagai perdagangan biasa: mereka yang berpunya dilindungi, mereka yang
-tidak berpunya diperas. Penunggang keempat, Maut, hanya menyebutkan hasil dari ketiga
+janji-janji itu. Penunggang ketiga membawa kelaparan: harga gandum pokok — upah sehari untuk
+makanan satu hari — menjadi mencekik, dan tidak ada yang tersisa untuk minyak dan anggur
+(Wahyu 6:5-6). Ini adalah kelaparan yang berat tetapi terbatas, dan yang paling keras menimpa
+mereka yang paling sedikit memiliki. Penunggang keempat, Maut, hanya menyebutkan hasil dari ketiga
 penunggang sebelumnya digabungkan.
 
 Dibaca bersama, para penunggang kuda ini menggambarkan sebuah sistem yang utuh: penipuan lebih
@@ -94,9 +93,8 @@ sini dalam bentuk miniatur.
   yang nyata?
 - Bagaimana kau membedakan antara benar-benar mempercayai Allah untuk penyediaan dan diam-diam
   mengukur perkenan Allah dari saldo rekening bankmu atau kesehatanmu?
-- Ketidakadilan penunggang ketiga melindungi kemewahan sambil mencekik kebutuhan pokok orang
-  miskin — di manakah kau melihat pola yang sama itu dalam ekonomi atau komunitasmu sendiri hari
-  ini?
+- Kelaparan penunggang ketiga paling keras menimpa mereka yang paling sedikit memiliki — di
+  manakah kau melihat pola yang sama itu dalam ekonomi atau komunitasmu sendiri hari ini?
 
 Apa pun yang tampak seperti catatan kemenangan yang tak terputus, ditawarkan tanpa penyebutan
 salib sama sekali, layak dilihat kembali dengan lebih saksama. Raja yang sejati telah membuktikan

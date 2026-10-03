@@ -24,7 +24,7 @@ Sang pelacur adalah padanan gelap dari sang mempelai perempuan, yang dalam kitab
 
 ## Dampaknya dan penghakimannya
 
-Di balik permukaan, sang pelacurlah yang berada di belakang ketidakadilan kelaparan pada meterai ketiga: kelangkaan bagi orang miskin berdampingan dengan kemewahan yang tak tersentuh bagi orang kaya, memperlakukan manusia sebagai barang dagangan. Kemakmuran itu sendiri tidak salah - Allah juga memberikannya - tetapi ketika kemakmuran menjadi lebih penting daripada Allah, itulah kewarganegaraan Babel, bukan Yerusalem Baru. Gereja yang hanya menginginkan berkat yang nyaman, tanpa harga sebuah kesaksian, diam-diam telah menjadi tamu sang pelacur dan bukan mempelai.
+Di balik permukaan, sang pelacurlah yang berada di belakang kelaparan pada meterai ketiga: orang miskin kekurangan sementara perdagangannya terus berjalan, dan manusia diperlakukan sebagai barang dagangan. Kemakmuran itu sendiri tidak salah - Allah juga memberikannya - tetapi ketika kemakmuran menjadi lebih penting daripada Allah, itulah kewarganegaraan Babel, bukan Yerusalem Baru. Gereja yang hanya menginginkan berkat yang nyaman, tanpa harga sebuah kesaksian, diam-diam telah menjadi tamu sang pelacur dan bukan mempelai.
 
 Ketika Yesus turun tangan, sang pelacurlah - bukan gereja - yang menjadi sasaran, dihakimi oleh raja-raja yang dahulu melayani binatang itu. Sombong dan yakin akan keamanannya sendiri, kejatuhannya datang dengan tiba-tiba, persis seperti yang terjadi pada Babel yang historis, dan dengan takaran yang sama seperti yang ia timpakan kepada orang lain.
 

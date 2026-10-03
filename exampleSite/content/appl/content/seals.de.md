@@ -7,7 +7,7 @@ story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 kids: /kids/elementary/05-the-seals
 docType: appl
-description: "Der erste Reiter sieht aus wie die Rettung: ein weißes Pferd, eine Krone, das Versprechen zu siegen. Hinter ihm kommen Krieg, Preise, die die Armen hungern lassen, während der Luxus geschont wird, und der Tod. Man erkennt ihn an dem, was ihm folgt."
+description: "Der erste Reiter sieht aus wie die Rettung: ein weißes Pferd, eine Krone, das Versprechen zu siegen. Hinter ihm kommen Krieg, Preise, die das Brot für die Armen unerschwinglich machen, und der Tod. Man erkennt ihn an dem, was ihm folgt."
 ---
 
 <!-- key-passage -->

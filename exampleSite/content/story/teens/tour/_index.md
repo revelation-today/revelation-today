@@ -166,7 +166,7 @@ First seal: a white horse. Its rider carries a bow, gets handed a crown, and rid
 
 Second seal: strip the costume off that first rider, and all that's actually underneath is violence. A blood-red horse comes next, and peace gets ripped off the earth like a scab torn too soon — people at each other's throats, literally.
 
-Third seal: a black horse, its rider holding a pair of scales. A full day's wages buys a single day's bread. Meanwhile the oil and the wine — the luxuries — stay untouched, protected for whoever can still afford them. Inequality isn't a modern invention either.
+Third seal: a black horse, its rider holding a pair of scales. A full day's wages buys a single day's bread. The oil and the wine are still there, but nothing is left over to buy them. The ones with the least are hit the hardest. That isn't a modern invention either.
 
 Fourth seal: a horse the color of ash. Its rider's name is Death, and the grave trails behind him like a shadow that never lets go.
 

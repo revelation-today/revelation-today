@@ -24,7 +24,7 @@ The harlot is the dark counterpart to the bride, which in this book is the churc
 
 ## Her impact and her judgment
 
-Underneath the surface, the harlot is behind the injustice of the third seal's famine: scarcity for the poor alongside untouched luxury for the wealthy, treating people as commodities. There's nothing wrong with prosperity itself - God gives it too - but when it matters more than God, that's citizenship in Babylon, not the New Jerusalem. A church that only wants comfortable blessing, without the cost of witness, has quietly become the harlot's guest rather than the bride.
+Underneath the surface, the harlot is behind the hunger of the third seal: the poor go short while her trade goes on, and people are treated as commodities. There's nothing wrong with prosperity itself - God gives it too - but when it matters more than God, that's citizenship in Babylon, not the New Jerusalem. A church that only wants comfortable blessing, without the cost of witness, has quietly become the harlot's guest rather than the bride.
 
 When Jesus intervenes, it's the harlot - not the church - who becomes the target, judged by the very kings who once served the beast. Proud and certain of her own security, her downfall comes suddenly, exactly as it did for historical Babylon, and in the same measure she dealt out to others.
 

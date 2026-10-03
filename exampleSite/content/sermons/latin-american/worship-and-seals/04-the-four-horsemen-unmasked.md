@@ -67,10 +67,9 @@ anything.
 ## What the other three riders confirm
 
 The second horseman brings war — persecution of those who won't buy into the promises. The
-third brings a strange, specific injustice: luxury goods (oil and wine) untouched while the
-price of basic grain — a day's wage for a single day's food — becomes crushing for the poor
-(Revelation 6:5–6). This is economic injustice dressed as normal commerce: those with means are
-protected, those without are squeezed. The fourth horseman, Death, simply names the outcome of
+third brings hunger: the price of basic grain — a day's wage for a single day's food — becomes
+crushing, and nothing is left over for oil and wine (Revelation 6:5–6). It is a famine, serious
+but limited, and it hits hardest those who have least. The fourth horseman, Death, simply names the outcome of
 the first three combined.
 
 Read together, the horsemen sketch a whole system: deception first, then coercion of those who
@@ -84,8 +83,8 @@ introduced here in miniature.
   with little mention of the cross or the possibility of real cost?
 - How do you tell the difference between genuinely trusting God for provision and quietly
   measuring God's favor by your bank balance or your health?
-- The third horseman's injustice protects luxury while crushing basic needs for the poor — where
-  do you see that same pattern in your own economy or community today?
+- The third horseman's hunger falls hardest on those who have least — where do you see that same
+  pattern in your own economy or community today?
 
 Whatever looks like an unbroken record of victory, offered without any mention of the cross,
 deserves a second look. The real King already proved his worth — not with a crown that skipped

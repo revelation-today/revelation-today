@@ -24,7 +24,7 @@ Fahişe, bu kitapta kiliseyi temsil eden gelinin karanlık karşılığıdır: �
 
 ## Etkisi ve yargısı
 
-Yüzeyin altında, üçüncü mührün kıtlığındaki adaletsizliğin arkasında fahişe vardır: zenginler için el değmemiş lüks sürerken yoksullar için kıtlık; insanların mal gibi görülmesi. Refahın kendisinde yanlış bir şey yoktur — onu Tanrı da verir — ama Tanrı'dan daha önemli hale geldiğinde bu, Yeni Yeruşalim'in değil Babil'in vatandaşlığıdır. Tanıklığın bedelini ödemeden yalnızca rahat bir bereket isteyen bir kilise, sessizce gelin olmaktan çıkıp fahişenin konuğu olmuştur.
+Yüzeyin altında, üçüncü mührün kıtlığının arkasında fahişe vardır: onun ticareti sürerken yoksullar yokluk çeker; insanlar mal gibi görülür. Refahın kendisinde yanlış bir şey yoktur — onu Tanrı da verir — ama Tanrı'dan daha önemli hale geldiğinde bu, Yeni Yeruşalim'in değil Babil'in vatandaşlığıdır. Tanıklığın bedelini ödemeden yalnızca rahat bir bereket isteyen bir kilise, sessizce gelin olmaktan çıkıp fahişenin konuğu olmuştur.
 
 İsa müdahale ettiğinde hedef kilise değil fahişe olur; bir zamanlar canavara hizmet eden kralların ta kendileri tarafından yargılanır. Gururlu ve kendi güvenliğinden emin olan fahişenin çöküşü ansızın gelir — tıpkı tarihteki Babil'de olduğu gibi — ve başkalarına dağıttığı ölçünün aynısıyla.
 

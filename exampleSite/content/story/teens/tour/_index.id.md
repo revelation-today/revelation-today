@@ -143,7 +143,7 @@ Meterai pertama: kuda putih. Penunggangnya membawa busur, diberi mahkota, dan me
 
 Meterai kedua: copot kostum penunggang pertama itu, dan yang benar-benar ada di baliknya cuma kekerasan. Kuda merah darah datang berikutnya, dan damai direnggut dari muka bumi seperti koreng yang dicabut sebelum waktunya — orang saling mencekik leher, secara harfiah.
 
-Meterai ketiga: kuda hitam, penunggangnya memegang timbangan. Upah kerja sehari penuh cuma cukup buat roti sehari. Sementara itu minyak dan anggur — barang-barang mewahnya — tetap tak tersentuh, dilindungi buat siapa pun yang masih sanggup membelinya. Ketimpangan juga bukan penemuan zaman modern.
+Meterai ketiga: kuda hitam, penunggangnya memegang timbangan. Upah kerja sehari penuh cuma cukup buat roti sehari. Minyak dan anggur masih ada, tapi nggak ada sisa uang buat membelinya. Yang paling kena adalah mereka yang paling sedikit punya. Itu juga bukan penemuan zaman modern.
 
 Meterai keempat: kuda berwarna abu. Nama penunggangnya Maut, dan kubur membuntutinya seperti bayangan yang tidak pernah lepas.
 

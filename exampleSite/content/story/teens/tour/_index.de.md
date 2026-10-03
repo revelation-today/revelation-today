@@ -143,7 +143,7 @@ Erstes Siegel: ein weißes Pferd. Sein Reiter trägt einen Bogen, bekommt eine K
 
 Zweites Siegel: Zieh dem ersten Reiter das Kostüm aus, und darunter ist nur Gewalt. Als Nächstes kommt ein blutrotes Pferd, und der Frieden wird von der Erde gerissen wie ein Schorf, den man zu früh abgekratzt hat - Menschen gehen sich gegenseitig an die Kehle, wortwörtlich.
 
-Drittes Siegel: ein schwarzes Pferd, sein Reiter hält eine Waage. Ein voller Tageslohn kauft ein einziges Tagesbrot. Öl und Wein - die Luxusgüter - bleiben derweil unangetastet, geschützt für die, die sie sich noch leisten können. Ungleichheit ist auch keine moderne Erfindung.
+Drittes Siegel: ein schwarzes Pferd, sein Reiter hält eine Waage. Ein voller Tageslohn kauft ein einziges Tagesbrot. Öl und Wein gibt es noch, aber es bleibt nichts übrig, um sie zu kaufen. Am härtesten trifft es die, die am wenigsten haben. Auch das ist keine moderne Erfindung.
 
 Viertes Siegel: ein aschfahles Pferd. Sein Reiter heißt Tod, und das Totenreich schleicht hinter ihm her wie ein Schatten, der nie loslässt.
 

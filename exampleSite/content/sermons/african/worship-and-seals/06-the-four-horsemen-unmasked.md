@@ -29,7 +29,7 @@ And Jesus' own teaching about the last days, given in Mark 13, Matthew 24, and L
 
 ## The unveiling
 
-So here is the picture: the first horseman looks like a triumphant Christ-figure — crowned, conquering, riding a white horse — but he is secretly the devil's own gospel campaign, launched the moment the real Lamb is revealed as worthy to open the scroll (Revelation 5). Deception comes first, then it escalates: war (persecution of those who won't buy the deception), then economic injustice (the third horseman's scales, where luxury goods are protected from price shocks while the poor starve — an eight-to-sixteen-times markup on basic grain while wine and oil remain untouched), and finally death and its full harvest. That's why the next scene is the cry of those under the altar: "How long?" (Revelation 6:9-11). Once the deception, violence, and injustice have run their course, that cry makes complete sense.
+So here is the picture: the first horseman looks like a triumphant Christ-figure — crowned, conquering, riding a white horse — but he is secretly the devil's own gospel campaign, launched the moment the real Lamb is revealed as worthy to open the scroll (Revelation 5). Deception comes first, then it escalates: war (persecution of those who won't buy the deception), then hunger (the third horseman's scales: basic grain at eight to sixteen times its usual price, so that a day's wage buys a day's bread and nothing more — a famine that hits the poor hardest), and finally death and its full harvest. That's why the next scene is the cry of those under the altar: "How long?" (Revelation 6:9-11). Once the deception, violence, and hunger have run their course, that cry makes complete sense.
 
 ## This is the prosperity gospel's oldest ancestor
 

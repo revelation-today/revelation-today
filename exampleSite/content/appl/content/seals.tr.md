@@ -7,7 +7,7 @@ story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 kids: /kids/elementary/05-the-seals
 docType: appl
-description: "İlk atlı kurtuluş gibi görünür: beyaz bir at, bir taç, kazanma vaadi. Arkasından savaş, lüks mallar korunurken yoksulları aç bırakan fiyatlar ve ölüm gelir. Onu, ardından gelenlerden tanırsın."
+description: "İlk atlı kurtuluş gibi görünür: beyaz bir at, bir taç, kazanma vaadi. Arkasından savaş, ekmeği yoksulların erişemeyeceği hale getiren fiyatlar ve ölüm gelir. Onu, ardından gelenlerden tanırsın."
 ---
 
 <!-- key-passage -->

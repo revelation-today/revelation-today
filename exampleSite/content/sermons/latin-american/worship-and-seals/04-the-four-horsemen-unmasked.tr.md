@@ -65,11 +65,10 @@ tek kısmı olmadan sunulan daha parlak bir versiyonudur.
 
 ## Diğer üç atlının doğruladığı şey
 
-İkinci atlı savaş getirir — vaatlere kanmayanların zulüm görmesi. Üçüncüsü tuhaf, belirgin bir
-adaletsizlik getirir: lüks mallar (yağ ve şarap) dokunulmadan kalırken, temel tahılın fiyatı —
-bir günlük ücret, tek bir günlük yiyecek için — yoksullar için ezici hale gelir (Vahiy 6:5-6).
-Bu, normal ticaret kılığına girmiş ekonomik adaletsizliktir: imkânı olanlar korunur, olmayanlar
-sıkıştırılır. Dördüncü atlı, Ölüm, sadece ilk üçünün birleşik sonucunu adlandırır.
+İkinci atlı savaş getirir — vaatlere kanmayanların zulüm görmesi. Üçüncüsü kıtlık getirir:
+temel tahılın fiyatı — bir günlük ücret, tek bir günlük yiyecek için — ezici hale gelir, yağa
+ve şaraba ise hiçbir şey kalmaz (Vahiy 6:5-6). Bu ciddi ama sınırlı bir kıtlıktır ve en ağır
+biçimde en az şeye sahip olanları vurur. Dördüncü atlı, Ölüm, sadece ilk üçünün birleşik sonucunu adlandırır.
 
 Birlikte okunduğunda, atlılar bütün bir sistemi çizerler: önce aldatma, sonra direnenlerin
 zorla bastırılması, sonra uyum sağlayamayan yoksullar üzerinde ekonomik baskı, ölümle biten.
@@ -82,8 +81,8 @@ Bu sistem, Vahiy'de daha sonra canavar ve fahişe olarak yeniden ortaya çıkar 
   garanti edilmiş zafer, sağlık ve zenginlik olarak sunulduğunu nerede duydun?
 - Tanrı'ya geçim için gerçekten güvenmek ile Tanrı'nın lütfunu sessizce banka bakiyenle ya da
   sağlığınla ölçmek arasındaki farkı nasıl anlarsın?
-- Üçüncü atlının adaletsizliği lüksü korurken yoksulların temel ihtiyaçlarını eziyor — bu aynı
-  örüntüyü bugün kendi ekonominde ya da toplumunda nerede görüyorsun?
+- Üçüncü atlının kıtlığı en ağır biçimde en az şeye sahip olanları vuruyor — bu aynı örüntüyü
+  bugün kendi ekonominde ya da toplumunda nerede görüyorsun?
 
 Çarmıhtan hiç söz edilmeden sunulan kesintisiz bir zafer sicili gibi görünen her şey, ikinci
 bir bakışı hak eder. Gerçek Kral değerini zaten kanıtladı — yarayı atlayan bir taçla değil,

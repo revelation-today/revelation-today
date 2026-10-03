@@ -7,7 +7,7 @@ story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 kids: /kids/elementary/05-the-seals
 docType: appl
-description: "Penunggang pertama tampak seperti pertolongan: kuda putih, mahkota, janji untuk menang. Di belakangnya datang perang, harga yang membuat orang miskin kelaparan sementara barang mewah tetap aman, dan kematian. Kamu mengenalinya dari apa yang mengikutinya."
+description: "Penunggang pertama tampak seperti pertolongan: kuda putih, mahkota, janji untuk menang. Di belakangnya datang perang, harga yang membuat roti tak terjangkau oleh orang miskin, dan kematian. Kamu mengenalinya dari apa yang mengikutinya."
 ---
 
 <!-- key-passage -->

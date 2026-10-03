@@ -143,7 +143,7 @@ Birinci mühür: beyaz bir at. Binicisinin elinde bir yay var, ona bir taç veri
 
 İkinci mühür: o ilk binicinin kostümünü çıkar, altında gerçekte olan tek şey şiddet. Sırada kan kırmızısı bir at, ve barış, vakti gelmeden koparılan bir kabuk gibi dünyanın üzerinden sökülüyor — insanlar birbirinin boğazında, kelimenin tam anlamıyla.
 
-Üçüncü mühür: siyah bir at, binicisinin elinde bir çift terazi. Bir günlük ücret, tek bir günlük ekmek alıyor. Bu arada zeytinyağı ve şarap — lüksler — el değmeden duruyor, hâlâ parası yetenler için korunuyor. Eşitsizlik de modern bir icat değil.
+Üçüncü mühür: siyah bir at, binicisinin elinde bir çift terazi. Bir günlük ücret, tek bir günlük ekmek alıyor. Zeytinyağı ve şarap hâlâ var, ama onları almaya para kalmıyor. En ağır darbeyi en az şeyi olanlar alıyor. Bu da modern bir icat değil.
 
 Dördüncü mühür: kül renginde bir at. Binicisinin adı Ölüm, ve mezar peşinden hiç bırakmayan bir gölge gibi sürükleniyor.
 

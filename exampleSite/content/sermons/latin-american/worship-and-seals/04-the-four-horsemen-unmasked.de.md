@@ -72,11 +72,10 @@ Teil, der tatsächlich etwas kostet.
 ## Was die anderen drei Reiter bestätigen
 
 Der zweite Reiter bringt Krieg – Verfolgung derer, die sich nicht auf die Versprechen
-einlassen. Der dritte bringt eine seltsame, spezifische Ungerechtigkeit: Luxusgüter (Öl und
-Wein) bleiben unberührt, während der Preis für Grundnahrungsgetreide – ein Tageslohn für ein
-einziges Tagesbrot – für die Armen erdrückend wird (Offenbarung 6,5–6). Das ist wirtschaftliche
-Ungerechtigkeit, verkleidet als normaler Handel: Wer Mittel hat, ist geschützt, wer keine hat,
-wird gequetscht. Der vierte Reiter, der Tod, benennt schlicht das Ergebnis der ersten drei
+einlassen. Der dritte bringt Hunger: Der Preis für Grundnahrungsgetreide – ein Tageslohn für ein
+einziges Tagesbrot – wird erdrückend, und für Öl und Wein bleibt nichts übrig (Offenbarung
+6,5–6). Es ist eine Hungersnot, ernst, aber begrenzt, und sie trifft die am härtesten, die am
+wenigsten haben. Der vierte Reiter, der Tod, benennt schlicht das Ergebnis der ersten drei
 zusammen.
 
 Zusammen genommen skizzieren die Reiter ein ganzes System: zuerst Täuschung, dann Zwang gegen
@@ -90,8 +89,8 @@ und die Hure – dasselbe Drehbuch, hier im Kleinen eingeführt.
   präsentiert gehört, mit wenig Erwähnung des Kreuzes oder der Möglichkeit echten Verlusts?
 - Wie unterscheidest du zwischen echtem Vertrauen auf Gottes Versorgung und dem stillen
   Abmessen von Gottes Gunst an deinem Kontostand oder deiner Gesundheit?
-- Die Ungerechtigkeit des dritten Reiters schützt Luxus, während sie Grundbedürfnisse der Armen
-  erdrückt – wo siehst du dasselbe Muster heute in deiner eigenen Wirtschaft oder Gemeinschaft?
+- Der Hunger des dritten Reiters trifft die am härtesten, die am wenigsten haben – wo siehst du
+  dasselbe Muster heute in deiner eigenen Wirtschaft oder Gemeinschaft?
 
 Alles, was wie eine ununterbrochene Erfolgsbilanz aussieht, angeboten ohne jede Erwähnung des
 Kreuzes, verdient einen zweiten Blick. Der wahre König hat seinen Wert bereits bewiesen – nicht

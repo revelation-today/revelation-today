@@ -16,7 +16,7 @@ kids: /kids/elementary/05-the-seals
 
 Die Schriftrolle aus Kapitel 5 wird Siegel für Siegel geöffnet, und die ersten vier schicken Reiter auf farbigen Pferden los.
 
-Der erste sieht aus wie ein Eroberer: weißes Pferd, Krone, Bogen, er zieht aus, um zu siegen. Die drei hinter ihm entlarven dieses Bild - Krieg, dann Hunger, der das Brot für die Armen unbezahlbar macht, während die Luxusgüter unangetastet bleiben, dann Tod. Zusammen ergeben die vier die übliche Liste von Katastrophen, vor der die hebräischen Propheten gewarnt haben: wilde Tiere, Schwert, Hunger, Pest.
+Der erste sieht aus wie ein Eroberer: weißes Pferd, Krone, Bogen, er zieht aus, um zu siegen. Die drei hinter ihm entlarven dieses Bild - Krieg, dann Hunger, der das Brot für die Armen unbezahlbar macht, dann Tod. Zusammen ergeben die vier die übliche Liste von Katastrophen, vor der die hebräischen Propheten gewarnt haben: wilde Tiere, Schwert, Hunger, Pest.
 
 Über den ersten Reiter wird gestritten, denn später im Buch reitet Christus selbst auf einem weißen Pferd ({{% bible val="Kapitel 19" link="rev:19" lang="de" %}}). Die Offenbarung stellt immer wieder solche Doppelgänger auf, und ihre These ist, dass die Macht, die hier den Sieg verspricht, eine Nachahmung ist: Sie kann erobern, Angst machen und aushungern, aber sie bringt nichts Eigenes hervor. Dieselbe dreiteilige Nachahmung kehrt in {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} mit dem {{% int_link val="Drachen und den zwei Tieren" link="/quick/content/beasts" %}} wieder, und in {{% bible val="Kapitel 17" link="rev:17" lang="de" %}} mit der {{% int_link val="Hure und dem Tier" link="/quick/content/harlot" %}}.
 

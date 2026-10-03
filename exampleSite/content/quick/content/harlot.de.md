@@ -24,7 +24,7 @@ Die Hure ist das dunkle Gegenstück zur Braut, die in diesem Buch für die Gemei
 
 ## Ihre Wirkung und ihr Gericht
 
-Unter der Oberfläche steckt die Hure hinter der Ungerechtigkeit der Hungersnot des dritten Siegels: Mangel für die Armen neben unangetastetem Luxus für die Reichen - Menschen werden wie Handelsware behandelt. Am Wohlstand selbst ist nichts falsch - auch Gott schenkt ihn -, aber wenn er wichtiger wird als Gott, ist das Bürgerschaft in Babylon, nicht im Neuen Jerusalem. Eine Gemeinde, die nur bequemen Segen will, ohne den Preis des Zeugnisses, ist stillschweigend zum Gast der Hure geworden statt zur Braut.
+Unter der Oberfläche steckt die Hure hinter dem Hunger des dritten Siegels: Die Armen leiden Mangel, während ihr Handel weitergeht - Menschen werden wie Handelsware behandelt. Am Wohlstand selbst ist nichts falsch - auch Gott schenkt ihn -, aber wenn er wichtiger wird als Gott, ist das Bürgerschaft in Babylon, nicht im Neuen Jerusalem. Eine Gemeinde, die nur bequemen Segen will, ohne den Preis des Zeugnisses, ist stillschweigend zum Gast der Hure geworden statt zur Braut.
 
 Als Jesus eingreift, wird die Hure - nicht die Gemeinde - zum Ziel, gerichtet von genau den Königen, die einst dem Tier dienten. Stolz und ihrer eigenen Sicherheit gewiss, kommt ihr Sturz plötzlich, genau wie beim historischen Babylon, und mit demselben Maß, mit dem sie anderen zugeteilt hat.
 

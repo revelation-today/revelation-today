@@ -29,7 +29,7 @@ In Offenbarung 6 sieht Johannes vier Reiter auf vier Pferden, einen nach dem and
 
 ## 3. Die Entlarvung
 
-Aber schaut, was ihm tatsächlich folgt: Krieg, ungerechte Preise, die armen Menschen schaden, während der Luxus der Reichen unberührt bleibt, und schließlich der Tod. Das klingt überhaupt nicht nach Jesus — es klingt nach einem Versprechen von Ruhm, das sich in eine Katastrophe verwandelt. Der Reiter des weißen Pferdes sah aus wie ein Triumph. Er war in Wahrheit ein Trick.
+Aber schaut, was ihm tatsächlich folgt: Krieg, Hunger und Preise, die armen Menschen am meisten schaden, und schließlich der Tod. Das klingt überhaupt nicht nach Jesus — es klingt nach einem Versprechen von Ruhm, das sich in eine Katastrophe verwandelt. Der Reiter des weißen Pferdes sah aus wie ein Triumph. Er war in Wahrheit ein Trick.
 
 Das ist die große Lektion dieser ganzen Szene: Etwas kann von außen fantastisch aussehen — eine glänzende Krone, ein großes Versprechen, ein "sicherer Gewinn" — und trotzdem in eine schlechte Richtung führen. Der Weg, den Unterschied zu erkennen, liegt nicht darin, wie gut etwas eingepackt aussieht. Es geht darum, was es tatsächlich hinterlässt.
 

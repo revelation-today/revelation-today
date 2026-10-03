@@ -7,7 +7,7 @@ story_anchor: seals
 expl: /expl/content/seals/the-mystery-of-the-four-horse-men
 kids: /kids/elementary/05-the-seals
 docType: appl
-description: "The first rider looks like the rescue: a white horse, a crown, a promise to win. Behind him come war, prices that starve the poor while the luxuries stay safe, and death. You know him by what follows him."
+description: "The first rider looks like the rescue: a white horse, a crown, a promise to win. Behind him come war, prices that put bread out of reach of the poor, and death. You know him by what follows him."
 ---
 
 <!-- key-passage -->

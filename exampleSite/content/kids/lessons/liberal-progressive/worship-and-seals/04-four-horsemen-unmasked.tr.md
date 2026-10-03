@@ -29,7 +29,7 @@ Vahiy 6'da Yuhanna dört atın üzerinde dört biniciyi tek tek görür: beyaz b
 
 ## 3. Maskenin düşmesi
 
-Ama onu gerçekte neyin izlediğine bakın: savaş, zengin insanların lüksü dokunulmadan kalırken yoksul insanlara zarar veren adaletsiz fiyatlar ve nihayetinde ölüm. Bu hiç İsa gibi görünmüyor — bir felakete dönüşen bir zafer vaadi gibi görünüyor. Beyaz atın binicisi zafer gibi görünüyordu. Aslında bir hileydi.
+Ama onu gerçekte neyin izlediğine bakın: savaş, kıtlık ve en çok yoksul insanlara zarar veren fiyatlar ve nihayetinde ölüm. Bu hiç İsa gibi görünmüyor — bir felakete dönüşen bir zafer vaadi gibi görünüyor. Beyaz atın binicisi zafer gibi görünüyordu. Aslında bir hileydi.
 
 Bu tüm sahnenin büyük dersi: bir şey dışarıdan muhteşem görünebilir — parlak bir taç, büyük bir vaat, "kesin bir kazanç" — ve yine de kötü bir yere gidiyor olabilir. Farkı anlamanın yolu, bir şeyin ne kadar iyi paketlendiği değildir. Gerçekte geride ne bıraktığıdır.
 

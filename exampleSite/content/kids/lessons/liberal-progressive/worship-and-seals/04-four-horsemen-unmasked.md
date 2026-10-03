@@ -29,7 +29,7 @@ In Revelation 6, John sees four riders on four horses, one at a time: a white ho
 
 ## 3. The unmasking
 
-But look at what actually follows him: war, unfair prices that hurt poor people while rich people's luxury stays untouched, and finally, death. That doesn't sound like Jesus at all — it sounds like a promise of glory that turns into disaster. The white horse's rider looked like triumph. He was actually a trick.
+But look at what actually follows him: war, hunger and prices that hurt poor people most, and finally, death. That doesn't sound like Jesus at all — it sounds like a promise of glory that turns into disaster. The white horse's rider looked like triumph. He was actually a trick.
 
 That's the big lesson of this whole scene: something can look amazing on the outside — a shiny crown, a big promise, a "sure win" — and still be heading somewhere bad. The way to tell the difference isn't how good something looks wrapped up. It's what it actually leaves behind.
 
