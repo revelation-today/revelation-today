@@ -8,7 +8,7 @@ docType: expl
 sources:
     - pages: 38–46
       ref: dabar_daniel
-    - pages: 221, 259, 633, 683, 687, 708
+    - pages: 221, 259, 633, 683–686, 687, 708
       ref: beale_rev
 ---
 
@@ -61,14 +61,24 @@ Peki bu İnsanoğlu kimdir? Daniel'in kendi bağlamında o, Tanrı'nın kutsal h
 <a name="38f8"></a>
 2. ve 7. bölümler açıkça aynı dört krallığı anlatır ve İsa'nın doğduğu ve çarmıhta imparatorlukları fethettiği dönemde Roma'da son bulur. Ama bazı ayrıntılar bu okumaya tam olarak uymaz. 2. bölüm, heykelin ayaklarıyla temsil edilen ek krallıklardan söz eder. 2. bölümdeki taş — İsa'nın ilk gelişi — heykelin tamamını bir anda yok etmedi, çünkü Roma bundan sonra 400 yıldan uzun süre ayakta kaldı. 7. bölümdeki dördüncü canavarın tasviri de Roma'yla tam örtüşmez: kendisinden önceki tüm canavarlardan farklı, korkunç ve ürkütücü olarak tanımlanır ve on boynuzu vardır, oysa Roma bu yönlerden önceki imparatorluklardan özellikle farklı değildi ve on boynuz Roma tarihinde hiçbir zaman net bir şekilde bir şeye karşılık gelmedi. Ve 7. bölümdeki İnsanoğlu'nun gelişi sahnesi nihai bir yargı gibi okunur, oysa bu sadece Roma olsaydı, o yargı gerçekleştikten sonra pek bir şey değişmezdi.
 
-Bunun nasıl çözüleceği konusunda hayli tartışma var; işte kısmen başkalarından ödünç aldığım kendi görüşüm. Öykü, İsa'nın dünyaya gelişiyle sona ermiyor — bu, dünya tarihinde büyük bir değişimi başlatıyor: artık dünyayı yöneten kilisedir. Müjde'nin ibadet, dua, tanıklık ve sebat yoluyla yayılmasıyla dünya değişmektedir.
+Bu ayrıntıların her birinin bir yanıtı vardır ve hepsi birlikte dördüncü krallığın birinci yüzyılın Roma'sından daha fazlası olduğunu gösterir.
 
-Ama biz bundan gerçekte ne kadar yararlanıyoruz? Yeni bir dünya yerine, tarih bize cehennem korkusu üzerine kurulu haçlı seferleri, engizisyonlar ve zorla din değiştirmeler sunuyor. Aynı zamanda, İsa'nın krallığı bu dünyadan olmadığı için, yönetimdeki bu değişim beklediğimiz kadar açık görünmez. İsa ve kilise dünyanın yönetimini devraldıkça, {{% bible val="Tanrı'nın krallığında hüküm sürmenin" link="mat:20,25-28" lang="tr" %}} gerçekte ne anlama geldiğini kendimize sormalıyız.
+**Demir ve kilden ayaklar.** Heykele beşinci bir maden eklenmez. Demir sürer, karışmış ve kırılgan olarak. Dördüncü krallık bölünmüş biçimde devam eder: aynı tür güç, hep yeni devletlerde.
 
-Roma, İsrail üzerinde doğrudan egemenlik kuran dört krallığın sonuncusudur. İsa aracılığıyla kurulan yeni antlaşmadan sonra, Tanrı'nın halkı tüm dünyaya yayılmıştır ve artık onların hepsini kapsayan tek bir imparatorluk yoktur.
+**Her şeyi bir anda yok etmeyen taş.** Daniel taşın "{{% bible val="büyük bir dağ olup bütün yeryüzünü doldurduğunu" link="dan:2,35" lang="tr" %}}" söyler. Taş büyür. Tanrı'nın Egemenliği İsa'yla geldi ve o zamandan beri büyüyor; heykel ise hâlâ ayakta. Yeni Antlaşma'nın "şimdiden, ama henüz değil"i budur.
+
+**"Farklı" olan dördüncü canavar.** Daniel'in kendisi, ilk üç canavarın {{% bible val="egemenliğini yitirdiğini ama onlara yaşamak için süre verildiğini" link="dan:7,12" lang="tr" %}} söyler. Eski imparatorluklar bir sonrakinin içinde yaşamayı sürdürür. Vahiy bunu açar: onun canavarı {{% bible val="aslanın ağzına, ayının ayaklarına ve parsın gövdesine aynı anda" link="rev:13,1-2" lang="tr" %}} sahiptir. Demek ki dördüncü canavar, ötekiler arasında bir imparatorluk değildir. Hepsinin ardında duran şeydir ve Yuhanna yazdığında onun yüzü Roma'ydı.[^beast]
+
+**Yargı sahnesi.** Daniel 7'de İnsanoğlu Tanrı'ya gelir ve egemenliği alır. İsa onu dirilip Baba'ya gittiğinde aldı: "{{% bible val="Gökte ve yeryüzünde bütün yetki bana verildi" link="mat:28,18" lang="tr" %}}". Mahkeme toplandı ve karar verildi. Kararın son uygulanışı ise henüz gelmedi.
+
+Peki İsa'dan beri ne değişti? Dünyanın giderek daha iyi olması değil, kilisenin dünyayı yönetmesi de değil. {{% bible val="Buğday ile delice hasada dek birlikte büyür" link="mat:13,30" lang="tr" %}}. Değişen, tahtta kimin oturduğudur. İsa egemenlik sürer ve halkı O'nun egemenliğine O'nun sürdüğü biçimde katılır: {{% bible val="hükmederek değil, hizmet ederek" link="mat:20,25-28" lang="tr" %}}, tanıklık ederek ve dayanarak. Kilise başka türlü egemen olmaya çalıştığında, haçlı seferleriyle, engizisyonla ve zorla din değiştirmelerle, canavarı taklit etmiştir.
+
+Roma, Tanrı'nın bütün halkı üzerinde egemenlik süren dört krallığın sonuncusuydu. Yeni antlaşmadan beri Tanrı'nın halkı yeryüzüne dağılmıştır ve hiçbir imparatorluk onların hepsini kapsamaz.
 
 On kral ve üç boynuz etrafında — ki Daniel'in kendisi 7. bölümde bunlar hakkında daha fazla bilgi ister — çok daha fazla tartışma vardır, ama bu tartışma, {{% int_link val="şeytani üçlüyle" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve on krallarla yeniden karşılaştığımız Vahiy kitabının bağlamına aittir.
 
 [^four]: Eleştirel araştırmada çoğunluk görüşü budur (örneğin John J. Collins). En güçlü noktaları: Daniel "Med Darius"u ayrı bir hükümdar olarak anar (5:31; 9:1) ve 7. bölümdeki küçük boynuz, Antiohos olan 8. bölümdeki boynuza benzer. Roma için: Beale, s. 633, 683, 687, 708; Josephus, *Antiquitates* 10.276. 4. Ezra 12:10–13 de Roma'yı anar, ancak daha eski bir okumayı yeniden yorumlayarak (Beale, s. 687).
 
 [^corporate]: Beale, s. 221.
+
+[^beast]: Beale, s. 683–686.

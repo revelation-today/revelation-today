@@ -8,7 +8,7 @@ docType: expl
 sources:
     - pages: 38–46
       ref: dabar_daniel
-    - pages: 221, 259, 633, 683, 687, 708
+    - pages: 221, 259, 633, 683–686, 687, 708
       ref: beale_rev
 ---
 
@@ -61,14 +61,24 @@ Wer also ist dieser Menschensohn? In Daniels eigenem Kontext steht er für das h
 <a name="e6a6"></a>
 Die Kapitel 2 und 7 beschreiben eindeutig dieselben vier Königreiche und enden mit Rom zu der Zeit, als Jesus geboren wird und die Reiche am Kreuz besiegt. Aber ein paar Details passen nicht ganz zu dieser Lesart. Kapitel 2 erwähnt weitere Königreiche, die durch die Füße der Statue dargestellt werden. Der Stein in Kapitel 2 — Jesu erstes Kommen — zerstörte nicht die ganze Statue auf einmal, denn Rom bestand danach noch mehr als 400 Jahre weiter. Auch die Beschreibung des vierten Tieres in Kapitel 7 passt nicht vollständig zu Rom: Es wird als furchtbar und schrecklich bezeichnet, anders als alle Tiere zuvor, und mit zehn Hörnern versehen, doch Rom war in dieser Hinsicht nicht besonders anders als frühere Reiche, und die zehn Hörner lassen sich nie eindeutig etwas Festem in der römischen Geschichte zuordnen. Und die Szene, in der der Menschensohn in Kapitel 7 kommt, liest sich wie ein Endgericht, doch wenn es sich hier einfach um Rom handelte, würde sich nach diesem Gericht nicht wirklich viel ändern.
 
-Darüber gibt es einige Debatten, wie man das auflösen kann; hier ist meine eigene Sicht, teilweise von anderen übernommen. Die Geschichte endet nicht damit, dass Jesus auf die Erde kommt — sie beginnt einen bedeutenden Wandel in der Weltgeschichte: Die Gemeinde regiert nun die Erde. Durch die Ausbreitung des Evangeliums in Anbetung, Gebet, Zeugnis und Beharrlichkeit verändert sich die Welt.
+Jede dieser Einzelheiten hat eine Antwort, und zusammen zeigen sie, dass das vierte Reich mehr ist als das Rom des ersten Jahrhunderts.
 
-Aber wie sehr nutzen wir das eigentlich? Statt einer neuen Welt gibt uns die Geschichte Kreuzzüge, Inquisition und Zwangsbekehrungen, die auf der Angst vor der Hölle aufgebaut sind. Gleichzeitig ist der Wechsel der Herrschaft nicht so offensichtlich, wie man es erwarten könnte, denn Jesu Königreich ist nicht von dieser Welt. Während Jesus und die Gemeinde die Herrschaft über die Erde übernehmen, müssen wir uns fragen, was es eigentlich {{% bible val="bedeutet, im Reich Gottes zu herrschen" link="mat:20,25-28" lang="de" %}}.
+**Die Füße aus Eisen und Ton.** Die Statue bekommt kein fünftes Metall. Das Eisen geht weiter, vermischt und brüchig. Das vierte Reich besteht in geteilter Form fort: dieselbe Art von Macht, in immer neuen Staaten.
 
-Rom ist das letzte der vier Königreiche, das direkte Herrschaft über Israel ausübt. Nach dem durch Jesus errichteten neuen Bund ist Gottes Volk über die ganze Erde verstreut, und es gibt kein einzelnes Reich mehr, das sie alle umfasst.
+**Der Stein, der nicht sofort alles zerstört.** Daniel sagt, der Stein „{{% bible val="wurde zu einem großen Berg und füllte die ganze Erde" link="dan:2,35" lang="de" %}}“. Er wächst. Das Reich Gottes kam mit Jesus und wächst seitdem, während die Statue noch steht. Das ist das „Schon und Noch-nicht“ des Neuen Testaments.
+
+**Das vierte Tier, das „anders“ ist.** Daniel selbst sagt, dass die ersten drei Tiere {{% bible val="ihre Herrschaft verlieren, aber noch eine Zeit zu leben bekommen" link="dan:7,12" lang="de" %}}. Die alten Reiche leben im nächsten weiter. Die Offenbarung führt das aus: Ihr Tier hat {{% bible val="das Maul des Löwen, die Füße des Bären und den Leib des Panthers zugleich" link="rev:13,1-2" lang="de" %}}. Das vierte Tier ist also nicht ein Reich unter anderen. Es ist das, was hinter ihnen allen steht, und Rom war sein Gesicht, als Johannes schrieb.[^beast]
+
+**Die Gerichtsszene.** In Daniel 7 kommt der Menschensohn zu Gott und empfängt das Reich. Jesus empfing es, als er auferstand und zum Vater ging: „{{% bible val="Mir ist gegeben alle Gewalt im Himmel und auf Erden" link="mat:28,18" lang="de" %}}“. Das Gericht hat getagt, und das Urteil ist gesprochen. Seine letzte Vollstreckung steht noch aus.
+
+Was hat sich also seit Jesus geändert? Nicht, dass die Welt stetig besser würde, und nicht, dass die Gemeinde sie regiert. {{% bible val="Weizen und Unkraut wachsen miteinander bis zur Ernte" link="mat:13,30" lang="de" %}}. Geändert hat sich, wer auf dem Thron sitzt. Jesus herrscht, und sein Volk hat an seiner Herrschaft Anteil, so wie er herrscht: {{% bible val="durch Dienen, nicht durch Beherrschen" link="mat:20,25-28" lang="de" %}}, durch Zeugnis und durch Ausharren. Wo die Kirche anders herrschen wollte, mit Kreuzzügen, Inquisition und erzwungenen Bekehrungen, hat sie das Tier nachgeahmt.
+
+Rom war das letzte der vier Reiche, das über das ganze Volk Gottes herrschte. Seit dem neuen Bund ist Gottes Volk über die Erde verstreut, und kein einzelnes Reich umfasst es mehr.
 
 Es gibt noch viel mehr Kontroversen rund um die zehn Könige und die drei Hörner — ein Thema, nach dem Daniel selbst in Kapitel 7 weiter nachfragt —, aber diese Diskussion gehört in den Zusammenhang des Buches der Offenbarung, wo wir der {{% int_link val="bösen Dreieinigkeit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} und den zehn Königen wieder begegnen.
 
 [^four]: Das ist die Mehrheitsmeinung der historisch-kritischen Forschung (zum Beispiel John J. Collins). Ihre stärksten Punkte: Daniel nennt „Darius, den Meder“ als eigenen Herrscher (6,1; 9,1), und das kleine Horn von Kapitel 7 ähnelt dem Horn von Kapitel 8, das Antiochus ist. Für Rom: Beale, S. 633, 683, 687, 708; Josephus, *Antiquitates* 10,276. Auch 4 Esra 12,10–13 nennt Rom, allerdings indem es eine ältere Deutung umdeutet (Beale, S. 687).
 
 [^corporate]: Beale, S. 221.
+
+[^beast]: Beale, S. 683–686.

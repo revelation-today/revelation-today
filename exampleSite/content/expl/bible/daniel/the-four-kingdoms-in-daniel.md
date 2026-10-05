@@ -8,7 +8,7 @@ docType: expl
 sources:
     - pages: 38–46
       ref: dabar_daniel
-    - pages: 221, 259, 633, 683, 687, 708
+    - pages: 221, 259, 633, 683–686, 687, 708
       ref: beale_rev
 ---
 
@@ -59,14 +59,24 @@ So who is this Son of Man? In Daniel's own context he stands for the holy people
 
 Chapters 2 and 7 clearly describe the same four kingdoms, ending in Rome at the time Jesus is born and conquers the empires on the cross. But a few details don't quite fit that reading. Chapter 2 mentions further kingdoms represented by the feet of the statue. The stone in chapter 2 — Jesus' first coming — didn't destroy the whole statue at once, since Rome remained standing for more than 400 years afterward. The description of the fourth beast in chapter 7 doesn't fully match Rome either: it's called fearful and dreadful, different from all the beasts before it, and given ten horns, yet Rome wasn't especially different from earlier empires in those respects, and the ten horns never map cleanly onto anything fixed in Roman history. And the scene of the Son of Man's coming in chapter 7 reads like a final judgment, yet if this were simply Rome, not much would actually change once that judgment fell.
 
-There's a good deal of debate about how to resolve this; here's my own view, borrowed in part from others. The story doesn't end with Jesus coming to earth — it starts a major change in world history: the church now rules the earth. Through the spread of the gospel in worship, prayer, witness, and perseverance, the world is changing.
+Each of these details has an answer, and together they show that the fourth kingdom is more than the Rome of the first century.
 
-But how much are we actually taking advantage of that? Instead of a new world, history gives us crusades, inquisitions, and forced conversions built on the fear of hell. At the same time, the change in rulership isn't obvious in the way we might expect, because Jesus' kingdom is not of this world. As Jesus and the church take over rule of the earth, we have to ask ourselves what it actually {{% bible val="means to rule in God’s kingdom" link="mat:20,25-28" lang="en" %}}.
+**The feet of iron and clay.** The statue does not get a fifth metal. The iron goes on, mixed and brittle. The fourth kingdom continues in a divided form: the same kind of power, in ever new states.
 
-Rome is the last of the four kingdoms to hold direct rule over Israel. After the new covenant established through Jesus, God's people are scattered across the whole earth, and there is no longer a single empire that encompasses them all.
+**The stone that does not destroy at once.** Daniel says the stone "{{% bible val="became a great mountain and filled the whole earth" link="dan:2,35" lang="en" %}}". It grows. The kingdom of God came with Jesus and has been growing since, while the statue is still standing. This is the "already and not yet" of the New Testament.
+
+**The fourth beast that is "different".** Daniel himself says that the first three beasts {{% bible val="lose their rule but are given more time to live" link="dan:7,12" lang="en" %}}. The old empires live on inside the next one. Revelation draws this out: its beast has {{% bible val="the lion's mouth, the bear's feet and the leopard's body all at once" link="rev:13,1-2" lang="en" %}}. So the fourth beast is not one empire among others. It is what stands behind all of them, and Rome was its face when John wrote.[^beast]
+
+**The judgment scene.** In Daniel 7 the Son of Man comes to God and receives the kingdom. Jesus received it when he rose and went to the Father: "{{% bible val="All authority in heaven and on earth has been given to me" link="mat:28,18" lang="en" %}}". The court has sat and the verdict has been given. Its last execution is still to come.
+
+So what has changed since Jesus? Not that the world grows steadily better, and not that the church governs it. {{% bible val="Wheat and weeds grow together until the harvest" link="mat:13,30" lang="en" %}}. What has changed is who holds the throne. Jesus rules, and his people share his rule in the way he rules: {{% bible val="by serving, not by lording it over others" link="mat:20,25-28" lang="en" %}}, by witness and by endurance. Where the church has tried to rule in another way, with crusades, inquisitions and forced conversions, it has copied the beast.
+
+Rome was the last of the four kingdoms to rule over the whole people of God. Since the new covenant God's people are scattered across the earth, and no single empire holds them all.
 
 There's much more controversy surrounding the ten kings and the three horns — a subject Daniel himself inquires further about in chapter 7 — but that discussion belongs in the context of the book of Revelation, where we meet the {{% int_link val="evil trinity" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} and the ten kings again.
 
 [^four]: This is the majority view in critical scholarship (for example John J. Collins). Its strongest points: Daniel names "Darius the Mede" as a separate ruler (5:31; 9:1), and the little horn of chapter 7 resembles the horn of chapter 8, which is Antiochus. For Rome: Beale, pp. 633, 683, 687, 708; Josephus, *Antiquities* 10.276. 4 Ezra 12:10–13 also names Rome, though by reinterpreting an earlier reading (Beale, p. 687).
 
 [^corporate]: Beale, p. 221.
+
+[^beast]: Beale, pp. 683–686.

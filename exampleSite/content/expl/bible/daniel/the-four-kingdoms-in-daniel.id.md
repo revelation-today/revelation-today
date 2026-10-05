@@ -8,7 +8,7 @@ docType: expl
 sources:
     - pages: 38–46
       ref: dabar_daniel
-    - pages: 221, 259, 633, 683, 687, 708
+    - pages: 221, 259, 633, 683–686, 687, 708
       ref: beale_rev
 ---
 
@@ -61,14 +61,24 @@ Jadi, siapakah Anak Manusia ini? Dalam konteks Daniel sendiri, ia mewakili umat 
 <a name="e6a6"></a>
 Pasal 2 dan 7 jelas menggambarkan keempat kerajaan yang sama, berakhir dengan Roma pada saat Yesus lahir dan mengalahkan kekaisaran-kekaisaran itu di kayu salib. Tetapi ada beberapa hal yang tidak sepenuhnya cocok dengan pembacaan itu. Pasal 2 menyebut kerajaan-kerajaan lebih lanjut yang digambarkan oleh kaki-kaki patung itu. Batu dalam pasal 2 — kedatangan Yesus yang pertama — tidak menghancurkan seluruh patung itu sekaligus, sebab Roma tetap berdiri lebih dari 400 tahun setelahnya. Penggambaran binatang keempat dalam pasal 7 juga tidak sepenuhnya cocok dengan Roma: ia disebut menakutkan dan mendahsyatkan, berbeda dari semua binatang sebelumnya, dan diberi sepuluh tanduk, padahal Roma sebenarnya tidak begitu berbeda dari kekaisaran-kekaisaran sebelumnya dalam hal-hal itu, dan kesepuluh tanduk itu tidak pernah dapat dipadankan secara pasti dengan sesuatu yang tetap dalam sejarah Romawi. Dan adegan kedatangan Anak Manusia dalam pasal 7 terdengar seperti penghakiman terakhir, padahal jika ini hanya sekadar Roma, tidak banyak yang benar-benar berubah setelah penghakiman itu jatuh.
 
-Ada cukup banyak perdebatan tentang bagaimana menyelesaikan hal ini; berikut pandangan saya sendiri, sebagian dipinjam dari orang lain. Kisah ini tidak berakhir dengan kedatangan Yesus ke bumi — kisah ini justru memulai sebuah perubahan besar dalam sejarah dunia: kini gerejalah yang memerintah bumi. Melalui penyebaran Injil dalam penyembahan, doa, kesaksian, dan ketekunan, dunia sedang berubah.
+Setiap rincian ini mempunyai jawaban, dan bersama-sama semuanya menunjukkan bahwa kerajaan keempat itu lebih dari sekadar Roma pada abad pertama.
 
-Tetapi seberapa jauh kita sesungguhnya memanfaatkan hal itu? Alih-alih sebuah dunia yang baru, sejarah justru memberi kita perang salib, inkuisisi, dan pemaksaan pertobatan yang dibangun di atas ketakutan akan neraka. Pada saat yang sama, perubahan kekuasaan ini tidak begitu tampak sebagaimana yang mungkin kita harapkan, sebab kerajaan Yesus bukan dari dunia ini. Ketika Yesus dan gereja mengambil alih pemerintahan bumi, kita harus bertanya kepada diri kita sendiri apa sesungguhnya {{% bible val="artinya memerintah dalam Kerajaan Allah" link="mat:20,25-28" lang="ind" %}}.
+**Kaki dari besi dan tanah liat.** Patung itu tidak mendapat logam kelima. Besinya berlanjut, tercampur dan rapuh. Kerajaan keempat itu terus ada dalam bentuk yang terpecah: kuasa yang sama jenisnya, dalam negara-negara yang selalu baru.
 
-Roma adalah yang terakhir dari keempat kerajaan itu yang memegang kekuasaan langsung atas Israel. Setelah perjanjian baru yang didirikan melalui Yesus, umat Allah tersebar di seluruh bumi, dan tidak ada lagi satu kekaisaran pun yang mencakup mereka semua.
+**Batu yang tidak langsung menghancurkan semuanya.** Daniel berkata bahwa batu itu "{{% bible val="menjadi gunung besar yang memenuhi seluruh bumi" link="dan:2,35" lang="ind" %}}". Batu itu bertumbuh. Kerajaan Allah datang bersama Yesus dan terus bertumbuh sejak itu, sementara patung itu masih berdiri. Inilah "sudah, tetapi belum" dalam Perjanjian Baru.
+
+**Binatang keempat yang "berbeda".** Daniel sendiri berkata bahwa ketiga binatang pertama {{% bible val="kehilangan kekuasaannya tetapi diberi perpanjangan hidup" link="dan:7,12" lang="ind" %}}. Kerajaan-kerajaan lama hidup terus di dalam kerajaan berikutnya. Kitab Wahyu memperjelasnya: binatangnya mempunyai {{% bible val="mulut singa, kaki beruang, dan tubuh macan tutul sekaligus" link="rev:13,1-2" lang="ind" %}}. Jadi binatang keempat itu bukan satu kerajaan di antara yang lain. Dialah yang berdiri di belakang semuanya, dan Roma adalah wajahnya ketika Yohanes menulis.[^beast]
+
+**Adegan penghakiman.** Dalam Daniel 7 Anak Manusia datang kepada Allah dan menerima kerajaan. Yesus menerimanya ketika Ia bangkit dan pergi kepada Bapa: "{{% bible val="Kepada-Ku telah diberikan segala kuasa di sorga dan di bumi" link="mat:28,18" lang="ind" %}}". Pengadilan telah bersidang dan putusan telah dijatuhkan. Pelaksanaannya yang terakhir masih akan datang.
+
+Jadi apa yang berubah sejak Yesus? Bukan bahwa dunia terus menjadi lebih baik, dan bukan bahwa gereja memerintahnya. {{% bible val="Gandum dan lalang tumbuh bersama sampai waktu menuai" link="mat:13,30" lang="ind" %}}. Yang berubah ialah siapa yang duduk di atas takhta. Yesus memerintah, dan umat-Nya ikut memerintah dengan cara Ia memerintah: {{% bible val="dengan melayani, bukan dengan menguasai" link="mat:20,25-28" lang="ind" %}}, dengan bersaksi dan dengan bertekun. Ketika gereja mencoba memerintah dengan cara lain, dengan perang salib, inkuisisi, dan pertobatan yang dipaksakan, gereja meniru binatang itu.
+
+Roma adalah yang terakhir dari keempat kerajaan itu yang memerintah atas seluruh umat Allah. Sejak perjanjian yang baru, umat Allah tersebar di seluruh bumi, dan tidak ada satu kerajaan pun yang mencakup mereka semua.
 
 Masih ada banyak perdebatan seputar kesepuluh raja dan ketiga tanduk itu — sebuah persoalan yang bahkan ditanyakan lebih lanjut oleh Daniel sendiri dalam pasal 7 — tetapi pembahasan itu lebih tepat dilakukan dalam konteks Kitab Wahyu, tempat kita bertemu kembali dengan {{% int_link val="tritunggal jahat" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} dan kesepuluh raja itu.
 
 [^four]: Inilah pandangan mayoritas dalam penelitian kritis (misalnya John J. Collins). Butir-butir terkuatnya: Daniel menyebut "Darius, orang Media" sebagai penguasa tersendiri (6:1; 9:1), dan tanduk kecil di pasal 7 mirip dengan tanduk di pasal 8, yaitu Antiokhus. Untuk Roma: Beale, hlm. 633, 683, 687, 708; Yosefus, *Antiquitates* 10.276. 4 Ezra 12:10–13 juga menyebut Roma, meskipun dengan menafsirkan ulang pembacaan yang lebih tua (Beale, hlm. 687).
 
 [^corporate]: Beale, hlm. 221.
+
+[^beast]: Beale, hlm. 683–686.
