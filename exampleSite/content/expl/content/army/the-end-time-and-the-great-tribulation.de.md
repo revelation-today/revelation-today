@@ -62,6 +62,6 @@ Das alles macht die Große Trübsal zu etwas, das sich über die gesamte Zeit zw
 
 Schauen wir noch einmal auf die Stelle bei Daniel: "Michael, der Beschützer Israels, wird sich erheben." Dieser Gedanke wird in der Offenbarung im Zusammenhang mit dem {{% int_link val="ersten Kommen Christi" link="/expl/content/jesus/a-different-christmas-story" %}} in Kapitel 12 wieder aufgenommen, wo {{% bible val="Michael gegen den Drachen kämpft" link="rev:12,7" lang="de" %}} - den {{% bible val="Teufel" link="rev:12,9" lang="de" %}} - und ihn besiegt, indem er ihn aus dem Himmel wirft.
 
-{{% bible val="Weil er aber besiegt ist und weiß, dass ihm nur noch wenig Zeit bleibt, wird er erbarmungslos" link="rev:12,12" lang="de" %}} und versucht, so viel Schaden wie möglich anzurichten: {{% bible val="zuerst gegen Israel" link="rev:12,13-17" lang="de" %}}, und als das nicht gelingt, {{% bible val="gegen die Gemeinde" link="rev:13" lang="de" %}}.
+{{% bible val="Weil er aber besiegt ist und weiß, dass ihm nur noch wenig Zeit bleibt, wird er erbarmungslos" link="rev:12,12" lang="de" %}} und versucht, so viel Schaden wie möglich anzurichten: {{% bible val="zuerst gegen die Frau" link="rev:12,13-16" lang="de" %}}, und als das nicht gelingt, {{% bible val="gegen ihre Kinder" link="rev:12,17" lang="de" %}}, durch die {{% bible val="Tiere von Kapitel 13" link="rev:13" lang="de" %}}.
 
 Die Große Trübsal bezeichnet also all die Bedrängnisse, die wir als Gemeinde während dieser gesamten Zeitspanne erleiden.

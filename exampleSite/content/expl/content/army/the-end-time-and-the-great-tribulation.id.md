@@ -63,6 +63,6 @@ Semua ini menjadikan Kesengsaraan Besar sesuatu yang terbentang sepanjang seluru
 
 Lihat kembali nas dalam Daniel: "Mikhael, pelindung Israel, akan bangkit." Hal ini diangkat kembali dalam kitab Wahyu dalam kaitannya dengan {{% int_link val="kedatangan Kristus yang pertama" link="/expl/content/jesus/a-different-christmas-story" %}} di pasal 12, di mana {{% bible val="Mikhael berperang melawan sang naga" link="rev:12,7" lang="ind" %}} - {{% bible val="si Iblis" link="rev:12,9" lang="ind" %}} - dan mengalahkannya, melemparkannya keluar dari surga.
 
-{{% bible val="Namun karena kekalahannya, ia menjadi kejam, sebab ia tahu waktunya hanya tinggal sedikit" link="rev:12,12" lang="ind" %}}, sehingga ia berusaha menimbulkan kerusakan sebanyak mungkin: {{% bible val="pertama-tama terhadap Israel" link="rev:12,13-17" lang="ind" %}}, dan ketika itu tidak berhasil, {{% bible val="terhadap jemaat" link="rev:13" lang="ind" %}}.
+{{% bible val="Namun karena kekalahannya, ia menjadi kejam, sebab ia tahu waktunya hanya tinggal sedikit" link="rev:12,12" lang="ind" %}}, sehingga ia berusaha menimbulkan kerusakan sebanyak mungkin: {{% bible val="pertama-tama terhadap perempuan itu" link="rev:12,13-16" lang="ind" %}}, dan ketika itu tidak berhasil, {{% bible val="terhadap anak-anaknya" link="rev:12,17" lang="ind" %}}, melalui {{% bible val="binatang-binatang di pasal 13" link="rev:13" lang="ind" %}}.
 
 Jadi Kesengsaraan Besar merujuk pada semua kesengsaraan yang kita, sebagai jemaat, hadapi sepanjang seluruh masa ini.

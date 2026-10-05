@@ -26,6 +26,8 @@ sources:
       ref: beale_rev
     - pages: 628–629
       ref: beale_rev
+    - pages: 161
+      ref: bauckham_climax
 readBefore:
     - name: "Der zweite Auszug"
       link:  /expl/background/israel/the-second-exodus
@@ -83,6 +85,40 @@ In diesen Druck hinein wurde Jesus geboren, und er wurde aus unmittelbarer Gefah
 
 Das ist die Weihnachtsgeschichte, die wir bereits aus dem Neuen Testament kennen, und es ist eine Geschichte voller Emotionen: die Herrlichkeit der Frau neben ihrer Hilflosigkeit, die Angst um ihr Kind, der Zorn des Drachen und seine Entschlossenheit, und der überraschende Sieg über den Drachen am Ende.
 
+## Der Rest des Kapitels
+
+Die Geschichte endet nicht mit dem Kind. Es folgen drei Szenen.
+
+### Krieg im Himmel
+
+{{% bible val="Michael und seine Engel stürzen den Drachen hinab" link="rev:12,7-9" lang="de" %}}. Das ist keine zweite Geschichte zu einer anderen Zeit. Es zeigt im Himmel, was Kreuz und Auferstehung auf der Erde bewirkt haben.[^michael]
+
+Bis dahin hatte der Teufel als Ankläger einen Platz vor Gott ({{% bible val="Hiob 1" link="job:1,9-11" lang="de" %}}, {{% bible val="Sacharja 3" link="zec:3,1" lang="de" %}}). Seit Jesus für sein Volk gestorben ist, hat die Anklage keinen Grund mehr, und {{% bible val="der Ankläger verliert seinen Platz" link="rev:12,10" lang="de" %}}. Jesus hat es kurz vor seinem Tod selbst gesagt: „{{% bible val="Jetzt wird der Fürst dieser Welt hinausgeworfen werden" link="jhn:12,31" lang="de" %}}“.
+
+Der Drache ist immer noch gefährlich. Er ist {{% bible val="zornig, weil er wenig Zeit hat" link="rev:12,12" lang="de" %}}. Aber er kämpft als einer, der schon verloren hat.
+
+### Die Frau in der Wüste
+
+Der Drache kann das Kind nicht erreichen, also {{% bible val="wendet er sich gegen die Frau" link="rev:12,13-16" lang="de" %}}. Sie ist immer noch die Frau der ersten Szene, das Volk Gottes. Vor dem Kind war sie Israel, das auf den Messias wartete. Jetzt ist sie Israel, das um ihn gesammelt ist: {{% int_link val="das neue Israel, Juden und Nichtjuden, die an Jesus glauben" link="/expl/background/israel/the-church-is-part-of-israel" %}}.[^woman] Sie wird auf „den zwei Flügeln des großen Adlers“ an einen Ort getragen, den Gott für sie bereitet hat.
+
+Das ist die Sprache des Auszugs aus Ägypten. Gott sagte am Sinai zu Israel: „{{% bible val="Ich habe euch auf Adlerflügeln getragen und zu mir gebracht" link="exo:19,4" lang="de" %}}“. In der Wüste {{% bible val="fand er sein Volk und behütete es" link="deu:32,10-12" lang="de" %}} und gab ihm Tag für Tag zu essen. Die Wüste ist hier also kein Ort der Verbannung. Sie ist der Ort zwischen Rettung und Ankunft, an dem Gott sein Volk am Leben erhält.[^eagle]
+
+Der Drache speit einen Strom aus seinem Maul, um sie fortzureißen. Was in der Offenbarung aus einem Mund kommt, sind Worte: eine Flut von Lügen und Drohungen.[^flood] Die Erde verschlingt sie, so wie {{% bible val="sie das Heer des Pharao verschlang" link="exo:15,12" lang="de" %}}.
+
+Die Frau wird dort 1260 Tage lang bewahrt, „eine Zeit und zwei Zeiten und eine halbe Zeit“. Das sind die {{% int_link val="dreieinhalb Jahre" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}: die ganze Zeit zwischen der Himmelfahrt Jesu und seiner Wiederkunft.
+
+### Die übrigen von ihren Nachkommen
+
+Der Drache kann die Frau nicht vernichten. Also {{% bible val="geht er hin, um Krieg zu führen mit den übrigen von ihren Nachkommen" link="rev:12,17" lang="de" %}}: mit denen, „die Gottes Gebote halten und das Zeugnis Jesu haben“.
+
+Die Frau und ihre Kinder sind dieselben Menschen, von zwei Seiten gesehen. Als Ganzes kann Gottes Volk nicht vernichtet werden. Einzeln können ihre Kinder gejagt, beraubt und getötet werden. Sie sind die Brüder und Schwestern des Kindes und gehen seinen Weg mit.[^seed] Kapitel 13 nennt sie {{% bible val="die Heiligen" link="rev:13,7" lang="de" %}} und zeigt, wie der Drache diesen Krieg führt: durch die {{% int_link val="zwei Tiere" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
+
 ## Das Muster: Überwinden durch Schwachheit
 
 Die Offenbarung sagt in einem Satz, wie der Sieg errungen wird — „durch das Blut des Lammes und durch das Wort ihres Zeugnisses“ (12,11) —, und diese Spannung – zwischen dem, der hilflos erscheint, und dem, der tatsächlich siegt – zieht sich durch das ganze übrige Buch. Die einzigen beiden Gemeinden, die in Offenbarung 2–3 überhaupt keinen Tadel von Jesus erhalten, sind Smyrna und Philadelphia, die beide angesichts ihrer Umstände in ernsten Schwierigkeiten stecken, während Laodizea, die Gemeinde mit dem größten Selbstvertrauen, nicht einen einzigen Punkt des Lobes von ihm bekommt. Dasselbe Muster zeigt sich bei {{% bible val="dem Löwen, der sich als das Lamm herausstellt" link="rev:5,5-6" lang="de" %}}, und wieder bei {{% bible val="den beiden Zeugen, die besiegt scheinen, aber tatsächlich mit Herrlichkeit überwinden" link="rev:11,7-12" lang="de" %}} – im Gegensatz zum Drachen und dem Tier aus Offenbarung 13, die absolute Kontrolle zu haben scheinen, aber dennoch {{% bible val="ins Verderben gehen und alle mit sich reißen werden, die auf sie vertraut haben" link="rev:14,6-13" lang="de" %}}.
+
+[^michael]: Beale, S. 650–652, 659–660.
+[^woman]: Beale, S. 642; Beasley-Murray, *Revelation* (New Century Bible), S. 200.
+[^eagle]: Beale, S. 643, 669–670.
+[^flood]: Beale, S. 672, 675.
+[^seed]: Beale, S. 677–679: Der Nachkomme der Frau ist Christus und mit ihm alle, die zu ihm gehören. Bauckham, *Climax*, S. 161: Die das Zeugnis Jesu haben (12,17), sind die Christen insgesamt.

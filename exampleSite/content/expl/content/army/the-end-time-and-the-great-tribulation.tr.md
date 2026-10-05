@@ -63,6 +63,6 @@ Bütün bunlar Büyük Sıkıntı'yı, İsa'nın ilk ve ikinci gelişi arasında
 
 Daniel'deki pasaja tekrar bakalım: "İsrail'in koruyucusu Mikail ortaya çıkacak." Bu, Vahiy Kitabı'nda {{% int_link val="Mesih'in ilk gelişiyle" link="/expl/content/jesus/a-different-christmas-story" %}} bağlantılı olarak 12. bölümde yeniden ele alınır; orada {{% bible val="Mikail ejderhayla" link="rev:12,7" lang="tr" %}} — {{% bible val="şeytanla" link="rev:12,9" lang="tr" %}} — savaşır ve onu yenip gökten atar.
 
-{{% bible val="Ama yenilgisinden dolayı, geriye çok az zamanı kaldığını bildiği için acımasızdır" link="rev:12,12" lang="tr" %}}, bu yüzden olabildiğince çok zarar vermeye çalışır: {{% bible val="önce İsrail'e karşı" link="rev:12,13-17" lang="tr" %}}, ve bu işe yaramayınca {{% bible val="kiliseye karşı" link="rev:13" lang="tr" %}}.
+{{% bible val="Ama yenilgisinden dolayı, geriye çok az zamanı kaldığını bildiği için acımasızdır" link="rev:12,12" lang="tr" %}}, bu yüzden olabildiğince çok zarar vermeye çalışır: {{% bible val="önce kadına karşı" link="rev:12,13-16" lang="tr" %}}, ve bu işe yaramayınca {{% bible val="çocuklarına karşı" link="rev:12,17" lang="tr" %}}, {{% bible val="13. bölümdeki canavarlar" link="rev:13" lang="tr" %}} aracılığıyla.
 
 Yani Büyük Sıkıntı, Kilise olarak bu dönemin tamamı boyunca karşılaştığımız tüm sıkıntılara işaret eder.

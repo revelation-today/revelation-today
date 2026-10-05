@@ -26,6 +26,8 @@ sources:
       ref: beale_rev
     - pages: 628–629
       ref: beale_rev
+    - pages: 161
+      ref: bauckham_climax
 readBefore:
     - name: "Eksodus Kedua"
       link:  /expl/background/israel/the-second-exodus
@@ -84,6 +86,40 @@ Ke dalam tekanan seperti itulah Yesus dilahirkan, dan Ia diselamatkan dari bahay
 
 Inilah kisah Natal yang sudah kita kenal dari Perjanjian Baru, dan ini adalah kisah yang penuh emosi: kemuliaan sang perempuan berdampingan dengan ketidakberdayaannya, kekhawatiran akan keselamatan anaknya, murka sang naga dan kegigihannya, serta kemenangan yang mengejutkan atas sang naga pada akhirnya.
 
+## Lanjutan pasal ini
+
+Kisahnya tidak berhenti pada sang Anak. Ada tiga adegan lagi.
+
+### Perang di surga
+
+{{% bible val="Mikhael dan malaikat-malaikatnya melemparkan naga itu ke bawah" link="rev:12,7-9" lang="ind" %}}. Ini bukan kisah kedua pada waktu yang lain. Adegan ini memperlihatkan di surga apa yang dikerjakan salib dan kebangkitan di bumi.[^michael]
+
+Sampai saat itu Iblis punya tempat di hadapan Allah sebagai pendakwa ({{% bible val="Ayub 1" link="job:1,9-11" lang="ind" %}}, {{% bible val="Zakharia 3" link="zec:3,1" lang="ind" %}}). Sejak Yesus mati bagi umat-Nya, dakwaan itu tidak punya dasar lagi, dan {{% bible val="sang pendakwa kehilangan tempatnya" link="rev:12,10" lang="ind" %}}. Yesus sendiri mengatakannya tidak lama sebelum kematian-Nya: "{{% bible val="sekarang juga penguasa dunia ini akan dilemparkan ke luar" link="jhn:12,31" lang="ind" %}}".
+
+Naga itu masih berbahaya. Ia {{% bible val="sangat marah, karena waktunya singkat" link="rev:12,12" lang="ind" %}}. Tetapi ia berperang sebagai pihak yang sudah kalah.
+
+### Perempuan di padang gurun
+
+Naga itu tidak dapat menjangkau sang Anak, maka ia {{% bible val="berbalik melawan perempuan itu" link="rev:12,13-16" lang="ind" %}}. Ia masih perempuan yang sama dari adegan pertama, yaitu umat Allah. Sebelum sang Anak lahir, ia adalah Israel yang menantikan Mesias. Sekarang ia adalah Israel yang berhimpun di sekeliling-Nya: {{% int_link val="Israel yang baru, orang Yahudi dan bukan Yahudi yang percaya kepada Yesus" link="/expl/background/israel/the-church-is-part-of-israel" %}}.[^woman] Ia dibawa dengan "kedua sayap burung nasar yang besar" ke tempat yang telah disediakan Allah baginya.
+
+Ini bahasa peristiwa keluarnya Israel dari Mesir. Di Sinai Allah berkata kepada Israel: "{{% bible val="Aku telah mendukung kamu di atas sayap rajawali dan membawa kamu kepada-Ku" link="exo:19,4" lang="ind" %}}". Di padang gurun Ia {{% bible val="mendapati umat-Nya dan menjaganya" link="deu:32,10-12" lang="ind" %}} serta memberi mereka makan hari demi hari. Jadi padang gurun di sini bukan tempat pembuangan. Padang gurun adalah tempat di antara penyelamatan dan ketibaan, tempat Allah memelihara hidup umat-Nya.[^eagle]
+
+Naga itu menyemburkan air seperti sungai dari mulutnya untuk menghanyutkan perempuan itu. Dalam Kitab Wahyu, yang keluar dari mulut adalah kata-kata: banjir dusta dan ancaman.[^flood] Bumi menelannya, sama seperti {{% bible val="bumi menelan tentara Firaun" link="exo:15,12" lang="ind" %}}.
+
+Perempuan itu dipelihara di sana selama 1.260 hari, "satu masa dan dua masa dan setengah masa". Itulah {{% int_link val="tiga setengah tahun" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}: seluruh waktu antara kenaikan Yesus dan kedatangan-Nya kembali.
+
+### Keturunannya yang lain
+
+Naga itu tidak dapat membinasakan perempuan itu. Maka ia {{% bible val="pergi memerangi keturunannya yang lain" link="rev:12,17" lang="ind" %}}: mereka "yang menuruti hukum-hukum Allah dan memiliki kesaksian Yesus".
+
+Perempuan itu dan anak-anaknya adalah orang-orang yang sama, dilihat dari dua sisi. Sebagai satu keseluruhan, umat Allah tidak dapat dibinasakan. Satu per satu, anak-anaknya dapat diburu, dirampok, dan dibunuh. Mereka adalah saudara-saudari sang Anak, dan mereka menempuh jalan yang sama dengan Dia.[^seed] Pasal 13 menyebut mereka {{% bible val="orang-orang kudus" link="rev:13,7" lang="ind" %}} dan memperlihatkan cara naga itu berperang: melalui {{% int_link val="kedua binatang" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
+
 ## Pola: menang melalui kelemahan
 
 Kitab Wahyu mengatakan dalam satu kalimat bagaimana kemenangan itu diraih — "oleh darah Anak Domba, dan oleh perkataan kesaksian mereka" (12:11) — dan ketegangan ini — antara yang tampak tidak berdaya dan yang sesungguhnya menang — terus berulang di sepanjang kitab ini. Hanya dua jemaat yang sama sekali tidak mendapat teguran dari Yesus dalam Wahyu 2–3, yaitu Smirna dan Filadelfia, keduanya sedang menghadapi kesulitan besar sesuai keadaan mereka, sementara Laodikia, jemaat yang paling percaya diri, tidak menerima satu pun pujian dari-Nya. Pola yang sama muncul pada {{% bible val="sang singa yang ternyata adalah anak domba" link="rev:5,5-6" lang="ind" %}}, dan sekali lagi pada {{% bible val="kedua saksi, yang tampak dikalahkan tetapi sebenarnya menang dengan kemuliaan" link="rev:11,7-12" lang="ind" %}} — berlawanan dengan sang naga dan binatang di Wahyu 13, yang tampak menguasai segalanya, tetapi {{% bible val="akan menuju kehancuran, membawa serta semua orang yang mempercayai mereka" link="rev:14,6-13" lang="ind" %}}.
+
+[^michael]: Beale, hlm. 650–652, 659–660.
+[^woman]: Beale, hlm. 642; Beasley-Murray, *Revelation* (New Century Bible), hlm. 200.
+[^eagle]: Beale, hlm. 643, 669–670.
+[^flood]: Beale, hlm. 672, 675.
+[^seed]: Beale, hlm. 677–679: keturunan perempuan itu adalah Kristus dan, bersama Dia, semua orang yang menjadi milik-Nya. Bauckham, *Climax*, hlm. 161: mereka yang memiliki kesaksian Yesus dalam 12:17 adalah orang Kristen pada umumnya.

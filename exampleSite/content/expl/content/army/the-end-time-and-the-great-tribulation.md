@@ -63,7 +63,7 @@ All of this makes the Great Tribulation something that stretches across the whol
 
 Look again at the passage in Daniel: "Michael, the protector of Israel, will arise." This is picked up in the Book of Revelation in connection with the {{% int_link val="first coming of Christ" link="/expl/content/jesus/a-different-christmas-story" %}} in chapter 12, where {{% bible val="Michael fights with the dragon" link="rev:12,7" lang="en" %}} — the {{% bible val="devil" link="rev:12,9" lang="en" %}} — and defeats him, casting him out of heaven.
 
-{{% bible val="But because of his defeat, he is ruthless, knowing he has only a little time left" link="rev:12,12" lang="en" %}}, so he tries to do as much damage as possible: {{% bible val="first against Israel" link="rev:12,13-17" lang="en" %}}, and when that doesn't work, {{% bible val="against the church" link="rev:13" lang="en" %}}.
+{{% bible val="But because of his defeat, he is ruthless, knowing he has only a little time left" link="rev:12,12" lang="en" %}}, so he tries to do as much damage as possible: {{% bible val="first against the woman" link="rev:12,13-16" lang="en" %}}, and when that doesn't work, {{% bible val="against her children" link="rev:12,17" lang="en" %}}, through the {{% bible val="beasts of chapter 13" link="rev:13" lang="en" %}}.
 
 So the Great Tribulation refers to all the tribulations that we, as the Church, face throughout this entire period.
 

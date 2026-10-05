@@ -26,6 +26,8 @@ sources:
       ref: beale_rev
     - pages: 628–629
       ref: beale_rev
+    - pages: 161
+      ref: bauckham_climax
 readBefore:
     - name: "İkinci Çıkış"
       link:  /expl/background/israel/the-second-exodus
@@ -79,6 +81,40 @@ Peki Vahiy 12/1-5'in hikâyesi nedir? İsrail'e, yani kadına, Mesih'i, yani ço
 
 Bu, Yeni Antlaşma'dan zaten bildiğimiz Noel hikâyesidir ve duygu doludur: kadının çaresizliğiyle iç içe geçen görkemi, çocuğu için duyduğu korku, ejderhanın öfkesi ve kararlılığı ve sonunda ejderhanın şaşırtıcı biçimde yenilgiye uğraması.
 
+## Bölümün devamı
+
+Hikâye çocukla bitmez. Ardından üç sahne gelir.
+
+### Gökte savaş
+
+{{% bible val="Mikail ve melekleri ejderhayı aşağı atar" link="rev:12,7-9" lang="tr" %}}. Bu, başka bir zamanda geçen ikinci bir hikâye değildir. Çarmıhın ve dirilişin yeryüzünde yaptığını gökte gösterir.[^michael]
+
+O zamana kadar İblis'in Tanrı'nın önünde suçlayıcı olarak bir yeri vardı ({{% bible val="Eyüp 1" link="job:1,9-11" lang="tr" %}}, {{% bible val="Zekeriya 3" link="zec:3,1" lang="tr" %}}). İsa halkı için öldüğünden beri suçlamanın dayanağı kalmamıştır ve {{% bible val="suçlayıcı yerini kaybeder" link="rev:12,10" lang="tr" %}}. İsa bunu ölümünden kısa süre önce kendisi söylemişti: "{{% bible val="Bu dünyanın egemeni şimdi dışarı atılacak" link="jhn:12,31" lang="tr" %}}".
+
+Ejderha hâlâ tehlikelidir. {{% bible val="Zamanı az olduğu için öfkelidir" link="rev:12,12" lang="tr" %}}. Ama zaten kaybetmiş biri olarak savaşır.
+
+### Çöldeki kadın
+
+Ejderha çocuğa ulaşamaz, bu yüzden {{% bible val="kadına yönelir" link="rev:12,13-16" lang="tr" %}}. O hâlâ ilk sahnedeki kadındır, yani Tanrı'nın halkıdır. Çocuktan önce Mesih'i bekleyen İsrail'di. Şimdi O'nun çevresinde toplanan İsrail'dir: {{% int_link val="yeni İsrail, yani İsa'ya iman eden Yahudiler ve Yahudi olmayanlar" link="/expl/background/israel/the-church-is-part-of-israel" %}}.[^woman] Kadın "büyük kartalın iki kanadıyla" Tanrı'nın onun için hazırladığı yere taşınır.
+
+Bu, Mısır'dan Çıkış'ın dilidir. Tanrı Sina'da İsrail'e şöyle demişti: "{{% bible val="Sizi kartal kanatları üzerinde taşıyarak yanıma getirdim" link="exo:19,4" lang="tr" %}}". Çöl, O'nun {{% bible val="halkını bulup koruduğu" link="deu:32,10-12" lang="tr" %}} ve onları her gün doyurduğu yerdir. Demek ki buradaki çöl bir sürgün yeri değildir. Kurtuluş ile varış arasındaki yerdir; Tanrı halkını orada yaşatır.[^eagle]
+
+Ejderha kadını sürükleyip götürmek için ağzından ırmak gibi su akıtır. Vahiy'de ağızdan çıkan şey sözdür: bir yalan ve tehdit seli.[^flood] Yer onu yutar, tıpkı {{% bible val="firavunun ordusunu yuttuğu gibi" link="exo:15,12" lang="tr" %}}.
+
+Kadın orada 1.260 gün, "bir vakit, vakitler ve yarım vakit" boyunca korunur. Bu, {{% int_link val="üç buçuk yıldır" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}: İsa'nın göğe alınışı ile geri dönüşü arasındaki bütün zaman.
+
+### Soyunun geri kalanı
+
+Ejderha kadını yok edemez. Bu yüzden {{% bible val="kadının soyunun geri kalanıyla savaşmaya gider" link="rev:12,17" lang="tr" %}}: "Tanrı'nın buyruklarını yerine getiren ve İsa'ya tanıklığını sürdürenlerle".
+
+Kadın ve çocukları, iki yandan görülen aynı insanlardır. Bir bütün olarak Tanrı'nın halkı yok edilemez. Çocukları ise tek tek kovalanabilir, soyulabilir ve öldürülebilir. Onlar çocuğun kardeşleridir ve O'nun yolunu paylaşırlar.[^seed] 13. bölüm onlara {{% bible val="kutsallar" link="rev:13,7" lang="tr" %}} der ve ejderhanın bu savaşı nasıl yürüttüğünü gösterir: {{% int_link val="iki canavar" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} aracılığıyla.
+
 ## Örüntü: zayıflık içinde galip gelmek
 
 Vahiy, zaferin nasıl kazanıldığını tek cümleyle söyler — "Kuzu'nun kanıyla ve ettikleri tanıklık bildirisiyle" (12:11) — ve çaresiz görünen ile gerçekte galip gelen arasındaki bu gerilim kitabın geri kalanında da sürüp gider. Vahiy 2-3'te İsa'dan hiçbir eleştiri almayan yalnızca iki kilise vardır: Simirna ve Filadelfya — ki bunların ikisi de kendi koşulları göz önüne alındığında ciddi sıkıntı içindedir — oysa kendine en çok güvenen kilise olan Laodikya, İsa'dan tek bir övgü sözü bile almaz. Aynı örüntüyü {{% bible val="aslan olduğu ortaya çıkan kuzuda" link="rev:5,5-6" lang="tr" %}} ve yine {{% bible val="yenilmiş gibi görünüp aslında yücelikle galip gelen iki tanıkta" link="rev:11,7-12" lang="tr" %}} da görürüz — bunun karşısında ise, mutlak denetime sahipmiş gibi görünen ama {{% bible val="kendilerine güvenen herkesi de beraberinde sürükleyerek felakete uğrayacak olan" link="rev:14,6-13" lang="tr" %}} Vahiy 13'ün ejderhası ve canavarı vardır.
+
+[^michael]: Beale, s. 650–652, 659–660.
+[^woman]: Beale, s. 642; Beasley-Murray, *Revelation* (New Century Bible), s. 200.
+[^eagle]: Beale, s. 643, 669–670.
+[^flood]: Beale, s. 672, 675.
+[^seed]: Beale, s. 677–679: kadının soyu Mesih'tir ve O'nunla birlikte O'na ait olan herkestir. Bauckham, *Climax*, s. 161: 12:17'de İsa'nın tanıklığını taşıyanlar genel olarak Hristiyanlardır.

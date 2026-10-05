@@ -24,6 +24,8 @@ sources:
       ref: beale_rev
     - pages: 628–629
       ref: beale_rev
+    - pages: 161
+      ref: bauckham_climax
 readBefore:
     - name: "The second Exodus"
       link:  /expl/background/israel/the-second-exodus
@@ -73,6 +75,40 @@ It was into this pressure that Jesus was born, and he was rescued from imminent 
 
 This is the Christmas story we already know from the New Testament, and it's a story full of emotion: the glory of the woman alongside her helplessness, the fear for her child, the anger of the dragon and his determination, and the surprising conquest of the dragon in the end.
 
+## The rest of the chapter
+
+The story does not stop with the child. Three scenes follow.
+
+### War in heaven
+
+{{% bible val="Michael and his angels throw the dragon down" link="rev:12,7-9" lang="en" %}}. This is not a second story at another time. It shows in heaven what the cross and the resurrection did on earth.[^michael]
+
+Until then the devil had a place before God as the accuser ({{% bible val="Job 1" link="job:1,9-11" lang="en" %}}, {{% bible val="Zechariah 3" link="zec:3,1" lang="en" %}}). Since Jesus died for his people, the accusation has nothing left to stand on, and {{% bible val="the accuser loses his place" link="rev:12,10" lang="en" %}}. Jesus said so himself shortly before his death: "{{% bible val="now the ruler of this world will be cast out" link="jhn:12,31" lang="en" %}}".
+
+The dragon is still dangerous. He is {{% bible val="angry, because his time is short" link="rev:12,12" lang="en" %}}. But he fights as one who has already lost.
+
+### The woman in the wilderness
+
+The dragon cannot reach the child, so he {{% bible val="turns on the woman" link="rev:12,13-16" lang="en" %}}. She is still the woman of the first scene, the people of God. Before the child she was Israel waiting for the Messiah. Now she is Israel gathered around him: {{% int_link val="the new Israel, Jews and non-Jews who believe in Jesus" link="/expl/background/israel/the-church-is-part-of-israel" %}}.[^woman] She is carried on "the two wings of the great eagle" to a place God has prepared for her.
+
+This is the language of the Exodus. God told Israel at Sinai: "{{% bible val="I carried you on eagles' wings and brought you to myself" link="exo:19,4" lang="en" %}}". The wilderness is where he {{% bible val="found his people and kept them" link="deu:32,10-12" lang="en" %}} and fed them day by day. So the wilderness here is not a place of exile. It is the place between rescue and arrival, where God keeps his people alive.[^eagle]
+
+The dragon sends a river out of his mouth to sweep her away. In Revelation what comes out of a mouth is words: a flood of lies and threats.[^flood] The earth swallows it, as {{% bible val="it swallowed Pharaoh's army" link="exo:15,12" lang="en" %}}.
+
+The woman is kept there for 1,260 days, "a time, times and half a time". That is the {{% int_link val="three and a half years" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}: the whole time between the ascension of Jesus and his return.
+
+### The rest of her offspring
+
+The dragon cannot destroy the woman. So he {{% bible val="goes off to make war on the rest of her offspring" link="rev:12,17" lang="en" %}}: "those who keep God's commands and hold fast their testimony about Jesus".
+
+The woman and her children are the same people seen from two sides. As a whole, God's people cannot be destroyed. One by one, her children can be hunted, robbed and killed. They are the brothers and sisters of the child, and they share his road.[^seed] Chapter 13 calls them {{% bible val="the saints" link="rev:13,7" lang="en" %}} and shows how the dragon fights that war: through the {{% int_link val="two beasts" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
+
 ## The pattern: overcoming through weakness
 
 Revelation says in one line how the victory is won — "by the blood of the Lamb and by the word of their testimony" (12:11) — and this tension — between the one who looks helpless and the one who actually overcomes — runs throughout the rest of the book. The only two churches that get no complaint at all from Jesus in Revelation 2–3 are Smyrna and Philadelphia, both of which are in serious trouble given their circumstances, while Laodicea, the church with the most confidence in itself, doesn't get a single point of praise from him. The same pattern shows up in {{% bible val="the lion who turns out to be the lamb" link="rev:5,5-6" lang="en" %}}, and again in {{% bible val="the two witnesses, who seem to be defeated but are actually raised to glory" link="rev:11,7-12" lang="en" %}} — set against the dragon and the beast of Revelation 13, who seem to hold absolute control, yet {{% bible val="whose worshippers are warned of the disaster awaiting everyone who trusted in them" link="rev:14,6-13" lang="en" %}}.
+
+[^michael]: Beale, pp. 650–652, 659–660.
+[^woman]: Beale, p. 642; Beasley-Murray, *Revelation* (New Century Bible), p. 200.
+[^eagle]: Beale, pp. 643, 669–670.
+[^flood]: Beale, pp. 672, 675.
+[^seed]: Beale, pp. 677–679: the seed of the woman is Christ and, with him, all who belong to him. Bauckham, *Climax*, p. 161: those who bear the witness of Jesus in 12:17 are "Christians in general".
