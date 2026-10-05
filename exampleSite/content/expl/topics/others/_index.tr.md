@@ -1,6 +1,6 @@
 ---
-linkTitle: "Diğerleri"
-title: "Diğerleri"
+linkTitle: "Sık sorulan sorular"
+title: "Sık sorulan sorular"
 weight: 4
 ---
 

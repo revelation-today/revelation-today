@@ -1,6 +1,6 @@
 ---
-linkTitle: "Others"
-title: "Others"
+linkTitle: "Common questions"
+title: "Common questions"
 weight: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
-linkTitle: "Lainnya"
-title: "Topik Lainnya"
+linkTitle: "Pertanyaan umum"
+title: "Pertanyaan umum"
 weight: 4
 ---
 

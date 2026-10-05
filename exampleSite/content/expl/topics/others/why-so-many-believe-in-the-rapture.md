@@ -11,7 +11,7 @@ sources:
       ref: rossing
 ---
 
-{{% int_link val="The previous article" link="/expl/topics/others/dispensionalism-and-its-critic" %}} laid out real, specific problems with dispensationalism's hermeneutics and its handling of particular texts. None of that explains why millions of sincere, careful readers of Scripture — including plenty of sharp, well-read people — find the system convincing anyway. That question deserves its own honest answer, not a shrug.
+{{% int_link val="An earlier article" link="/expl/topics/others/dispensionalism-and-its-critic" %}} laid out real, specific problems with dispensationalism's hermeneutics and its handling of particular texts. None of that explains why millions of sincere, careful readers of Scripture — including plenty of sharp, well-read people — find the system convincing anyway. That question deserves its own honest answer, not a shrug.
 
 ## It resolves genuine difficulty into a complete answer
 
@@ -26,7 +26,7 @@ This is a concrete historical mechanism, not a guess. {{% int_link val="The Scof
 ## A stance of taking the text seriously
 
 <a name="fb3a"></a>
-Dispensationalism's "literal wherever possible" instinct didn't come from nowhere. It grew partly as a reaction against 19th- and 20th-century theological liberalism, which often treated the Bible's harder supernatural claims as things to be explained away or reduced to timeless moral symbolism. Against that backdrop, a hermeneutic that says *take the text at its word* reads as an act of reverence and courage, not credulity — a refusal to let go of the plain sense of Scripture under academic pressure. {{% int_link val="The previous article's critique" link="/expl/topics/others/dispensionalism-and-its-critic" %}} is that this instinct isn't applied consistently — but the impulse behind it, a high view of Scripture's authority, is one this whole site shares, even where the application differs.
+Dispensationalism's "literal wherever possible" instinct didn't come from nowhere. It grew partly as a reaction against 19th- and 20th-century theological liberalism, which often treated the Bible's harder supernatural claims as things to be explained away or reduced to timeless moral symbolism. Against that backdrop, a hermeneutic that says *take the text at its word* reads as an act of reverence and courage, not credulity — a refusal to let go of the plain sense of Scripture under academic pressure. {{% int_link val="That earlier critique" link="/expl/topics/others/dispensionalism-and-its-critic" %}} is that this instinct isn't applied consistently — but the impulse behind it, a high view of Scripture's authority, is one this whole site shares, even where the application differs.
 
 ## Built to survive its own failures
 

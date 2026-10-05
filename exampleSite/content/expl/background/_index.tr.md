@@ -4,7 +4,7 @@ title: Arka plan
 weight: 4
 ---
 
-Vahiy Kitabı'nı açmadan önce, dört alanda bir temel oluşturmamız faydalı olacaktır.
+Vahiy Kitabı'nı açmadan önce, dört alanda bir temel oluşturmamız faydalı olacaktır. Beşincisinin, yani Vahiy Kitabı'nın yeniden anlattığı Eski Ahit öykülerinin kendi bölümü vardır: [Kutsal Kitap Arka Planı]({{< relref "expl/bible" >}}).
 
 - **İlk okuyucuların tarihsel durumu.** Hangi zorluklarla karşı karşıyaydılar ve kitaptaki hangi konular muhtemelen bu zorluklara hitap ediyordu? Birinci yüzyıl okuyucuları olarak, duyduklarını nasıl anlamış olabilirler?
 - **Okuduğumuz edebiyatın türü.** Her şeyi harfi harfine mi almalıyız, yoksa çoğu sembolik mi? Her iki durumda da, türü tanımak yazarın asıl vurgusunun nerede olduğunu görmemize nasıl yardımcı olur?

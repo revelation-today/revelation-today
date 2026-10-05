@@ -4,7 +4,7 @@ title: Hintergrund
 weight: 4
 ---
 
-Bevor wir die Offenbarung selbst aufschlagen, hilft es, in vier Bereichen ein Fundament zu legen.
+Bevor wir die Offenbarung selbst aufschlagen, hilft es, in vier Bereichen ein Fundament zu legen. Ein fünfter, die Geschichten des Alten Testaments, die die Offenbarung neu erzählt, hat einen eigenen Abschnitt: [Biblischer Hintergrund]({{< relref "expl/bible" >}}).
 
 - **Die historische Situation der ersten Leser.** Welchen Herausforderungen standen sie gegenüber, und welche Themen des Buches waren wahrscheinlich auf genau diese Herausforderungen ausgerichtet? Wie hätten sie als Leser des ersten Jahrhunderts verstanden, was sie hörten?
 - **Die Art der Literatur, die wir lesen.** Sollen wir alles wörtlich nehmen, oder ist vieles davon symbolisch gemeint? So oder so: Wie hilft uns die Kenntnis der Gattung zu erkennen, wo der eigentliche Schwerpunkt des Autors liegt?

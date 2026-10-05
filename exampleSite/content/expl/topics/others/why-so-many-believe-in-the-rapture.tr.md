@@ -11,7 +11,7 @@ sources:
       ref: rossing
 ---
 
-{{% int_link val="Önceki makale" link="/expl/topics/others/dispensionalism-and-its-critic" %}}, dispansiyonalizmin yorumbilgisiyle ve belirli metinleri ele alışıyla ilgili gerçek, somut sorunları ortaya koydu. Bunların hiçbiri, milyonlarca içten ve dikkatli Kutsal Kitap okurunun — aralarında pek çok zeki, geniş bilgili insan da dahil — bu sistemi yine de ikna edici bulmasını açıklamıyor. Bu soru, omuz silkmeyi değil, kendi başına dürüst bir yanıtı hak ediyor.
+{{% int_link val="Daha önceki bir makale" link="/expl/topics/others/dispensionalism-and-its-critic" %}}, dispansiyonalizmin yorumbilgisiyle ve belirli metinleri ele alışıyla ilgili gerçek, somut sorunları ortaya koydu. Bunların hiçbiri, milyonlarca içten ve dikkatli Kutsal Kitap okurunun — aralarında pek çok zeki, geniş bilgili insan da dahil — bu sistemi yine de ikna edici bulmasını açıklamıyor. Bu soru, omuz silkmeyi değil, kendi başına dürüst bir yanıtı hak ediyor.
 
 ## Gerçek bir güçlüğü eksiksiz bir yanıta dönüştürüyor
 
@@ -26,7 +26,7 @@ Bu bir tahmin değil, somut bir tarihsel mekanizmadır. {{% int_link val="Scofie
 ## Metni ciddiye alan bir tutum
 
 <a name="c910"></a>
-Dispansiyonalizmin "mümkün olan her yerde harfiyen" içgüdüsü hiçbir yerden çıkmadı. Bu içgüdü, kısmen, Kutsal Kitap'ın daha zor doğaüstü iddialarını çoğu zaman açıklanıp geçiştirilecek ya da zamansız ahlaki simgeciliğe indirgenecek şeyler olarak ele alan 19. ve 20. yüzyıl teolojik liberalizmine bir tepki olarak büyüdü. Bu arka plana karşı, *metni olduğu gibi kabul et* diyen bir yorumbilgisi, saflık değil, saygı ve cesaret göstergesi olarak okunur — akademik baskı altında Kutsal Kitap'ın düz anlamını bırakmayı reddetmek. {{% int_link val="Önceki makalenin eleştirisi" link="/expl/topics/others/dispensionalism-and-its-critic" %}} şudur: bu içgüdü tutarlı biçimde uygulanmıyor — ama arkasındaki dürtü, Kutsal Kitap'ın otoritesine dair yüksek bir bakış açısı, uygulama farklı olsa da bu sitenin tamamının paylaştığı bir dürtüdür.
+Dispansiyonalizmin "mümkün olan her yerde harfiyen" içgüdüsü hiçbir yerden çıkmadı. Bu içgüdü, kısmen, Kutsal Kitap'ın daha zor doğaüstü iddialarını çoğu zaman açıklanıp geçiştirilecek ya da zamansız ahlaki simgeciliğe indirgenecek şeyler olarak ele alan 19. ve 20. yüzyıl teolojik liberalizmine bir tepki olarak büyüdü. Bu arka plana karşı, *metni olduğu gibi kabul et* diyen bir yorumbilgisi, saflık değil, saygı ve cesaret göstergesi olarak okunur — akademik baskı altında Kutsal Kitap'ın düz anlamını bırakmayı reddetmek. {{% int_link val="O makalenin eleştirisi" link="/expl/topics/others/dispensionalism-and-its-critic" %}} şudur: bu içgüdü tutarlı biçimde uygulanmıyor — ama arkasındaki dürtü, Kutsal Kitap'ın otoritesine dair yüksek bir bakış açısı, uygulama farklı olsa da bu sitenin tamamının paylaştığı bir dürtüdür.
 
 ## Kendi başarısızlıklarını atlatacak biçimde inşa edilmiş
 

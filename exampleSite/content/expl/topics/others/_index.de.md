@@ -1,6 +1,6 @@
 ---
-linkTitle: "Weitere"
-title: "Weitere Themen"
+linkTitle: "Häufige Fragen"
+title: "Häufige Fragen"
 weight: 4
 ---
 

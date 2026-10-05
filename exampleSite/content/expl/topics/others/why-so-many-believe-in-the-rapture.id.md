@@ -11,7 +11,7 @@ sources:
       ref: rossing
 ---
 
-{{% int_link val="Artikel sebelumnya" link="/expl/topics/others/dispensionalism-and-its-critic" %}} telah memaparkan persoalan-persoalan yang nyata dan spesifik dengan hermeneutika dispensasionalisme dan cara sistem itu menangani teks-teks tertentu. Semua itu tidak menjelaskan mengapa jutaan pembaca Alkitab yang tulus dan cermat — termasuk banyak orang yang cerdas dan berwawasan luas — tetap menganggap sistem itu meyakinkan. Pertanyaan itu layak mendapat jawaban yang jujur dan tersendiri, bukan sekadar diabaikan begitu saja.
+{{% int_link val="Salah satu artikel sebelumnya" link="/expl/topics/others/dispensionalism-and-its-critic" %}} telah memaparkan persoalan-persoalan yang nyata dan spesifik dengan hermeneutika dispensasionalisme dan cara sistem itu menangani teks-teks tertentu. Semua itu tidak menjelaskan mengapa jutaan pembaca Alkitab yang tulus dan cermat — termasuk banyak orang yang cerdas dan berwawasan luas — tetap menganggap sistem itu meyakinkan. Pertanyaan itu layak mendapat jawaban yang jujur dan tersendiri, bukan sekadar diabaikan begitu saja.
 
 ## Sistem ini mengubah kesulitan yang nyata menjadi jawaban yang lengkap
 
@@ -26,7 +26,7 @@ Ini adalah sebuah mekanisme sejarah yang konkret, bukan sekadar dugaan. {{% int_
 ## Sikap yang menganggap serius teks itu
 
 <a name="c910"></a>
-Naluri dispensasionalisme untuk "membaca secara harfiah di mana pun memungkinkan" tidak muncul begitu saja tanpa sebab. Naluri itu tumbuh sebagian sebagai reaksi terhadap liberalisme teologis abad ke-19 dan ke-20, yang sering memperlakukan klaim-klaim adikodrati Alkitab yang lebih sulit sebagai sesuatu yang perlu dijelaskan begitu saja atau direduksi menjadi simbolisme moral yang abadi tanpa waktu. Dengan latar belakang itu, sebuah hermeneutika yang berkata *terimalah teks apa adanya* terbaca sebagai tindakan penghormatan dan keberanian, bukan kepolosan yang naif — sebuah penolakan untuk melepaskan makna sederhana Alkitab di bawah tekanan akademis. {{% int_link val="Kritik dalam artikel sebelumnya" link="/expl/topics/others/dispensionalism-and-its-critic" %}} adalah bahwa naluri ini tidak diterapkan secara konsisten — tetapi dorongan di baliknya, yaitu pandangan yang tinggi tentang otoritas Alkitab, adalah sesuatu yang dipegang bersama oleh seluruh situs ini, sekalipun penerapannya berbeda.
+Naluri dispensasionalisme untuk "membaca secara harfiah di mana pun memungkinkan" tidak muncul begitu saja tanpa sebab. Naluri itu tumbuh sebagian sebagai reaksi terhadap liberalisme teologis abad ke-19 dan ke-20, yang sering memperlakukan klaim-klaim adikodrati Alkitab yang lebih sulit sebagai sesuatu yang perlu dijelaskan begitu saja atau direduksi menjadi simbolisme moral yang abadi tanpa waktu. Dengan latar belakang itu, sebuah hermeneutika yang berkata *terimalah teks apa adanya* terbaca sebagai tindakan penghormatan dan keberanian, bukan kepolosan yang naif — sebuah penolakan untuk melepaskan makna sederhana Alkitab di bawah tekanan akademis. {{% int_link val="Kritik dalam artikel itu" link="/expl/topics/others/dispensionalism-and-its-critic" %}} adalah bahwa naluri ini tidak diterapkan secara konsisten — tetapi dorongan di baliknya, yaitu pandangan yang tinggi tentang otoritas Alkitab, adalah sesuatu yang dipegang bersama oleh seluruh situs ini, sekalipun penerapannya berbeda.
 
 ## Dibangun untuk bertahan dari kegagalannya sendiri
 

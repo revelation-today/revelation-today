@@ -4,7 +4,7 @@ title: Latar Belakang
 weight: 4
 ---
 
-Sebelum kita membuka Kitab Wahyu itu sendiri, akan sangat membantu jika kita meletakkan dasar dalam empat bidang.
+Sebelum kita membuka Kitab Wahyu itu sendiri, akan sangat membantu jika kita meletakkan dasar dalam empat bidang. Bidang kelima, yaitu kisah-kisah Perjanjian Lama yang diceritakan kembali oleh Kitab Wahyu, punya bagian tersendiri: [Latar Belakang Alkitabiah]({{< relref "expl/bible" >}}).
 
 - **Situasi historis para pembaca pertama.** Tantangan apa yang mereka hadapi, dan topik-topik apa dalam kitab ini yang kemungkinan besar ditujukan untuk menjawab tantangan tersebut? Bagaimana mereka, sebagai pembaca abad pertama, akan memahami apa yang mereka dengar?
 - **Jenis literatur yang sedang kita baca.** Haruskah kita memahami semuanya secara harfiah, atau apakah sebagian besar bersifat simbolis? Bagaimanapun juga, bagaimana mengenali genre ini membantu kita melihat di mana sebenarnya penekanan penulis?

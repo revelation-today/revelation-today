@@ -11,7 +11,7 @@ sources:
       ref: rossing
 ---
 
-{{% int_link val="Der vorherige Artikel" link="/expl/topics/others/dispensionalism-and-its-critic" %}} legte reale, konkrete Probleme mit der Hermeneutik des Dispensationalismus und seinem Umgang mit bestimmten Texten dar. Das alles erklärt nicht, warum Millionen aufrichtiger, sorgfältiger Bibelleser — darunter viele kluge, belesene Menschen — das System trotzdem überzeugend finden. Diese Frage verdient eine eigene, ehrliche Antwort, kein bloßes Achselzucken.
+{{% int_link val="Ein früherer Artikel" link="/expl/topics/others/dispensionalism-and-its-critic" %}} legte reale, konkrete Probleme mit der Hermeneutik des Dispensationalismus und seinem Umgang mit bestimmten Texten dar. Das alles erklärt nicht, warum Millionen aufrichtiger, sorgfältiger Bibelleser — darunter viele kluge, belesene Menschen — das System trotzdem überzeugend finden. Diese Frage verdient eine eigene, ehrliche Antwort, kein bloßes Achselzucken.
 
 ## Es löst echte Schwierigkeit in eine vollständige Antwort auf
 
@@ -26,7 +26,7 @@ Das ist ein konkreter historischer Mechanismus, keine Vermutung. {{% int_link va
 ## Eine Haltung, die den Text ernst nimmt
 
 <a name="c910"></a>
-Der Instinkt des Dispensationalismus, „wörtlich, wo immer möglich" zu lesen, kam nicht aus dem Nichts. Er wuchs teilweise als Reaktion auf den theologischen Liberalismus des 19. und 20. Jahrhunderts, der die schwierigeren übernatürlichen Ansprüche der Bibel oft als etwas behandelte, das wegerklärt oder auf zeitlose moralische Symbolik reduziert werden sollte. Vor diesem Hintergrund liest sich eine Hermeneutik, die sagt *nimm den Text beim Wort*, als Akt der Ehrfurcht und des Mutes, nicht der Leichtgläubigkeit — eine Weigerung, den einfachen Sinn der Schrift unter akademischem Druck loszulassen. {{% int_link val="Die Kritik des vorherigen Artikels" link="/expl/topics/others/dispensionalism-and-its-critic" %}} lautet, dass dieser Instinkt nicht konsequent angewendet wird — aber der Impuls dahinter, eine hohe Sicht der Autorität der Schrift, ist einer, den diese ganze Seite teilt, auch wenn sich die Anwendung unterscheidet.
+Der Instinkt des Dispensationalismus, „wörtlich, wo immer möglich" zu lesen, kam nicht aus dem Nichts. Er wuchs teilweise als Reaktion auf den theologischen Liberalismus des 19. und 20. Jahrhunderts, der die schwierigeren übernatürlichen Ansprüche der Bibel oft als etwas behandelte, das wegerklärt oder auf zeitlose moralische Symbolik reduziert werden sollte. Vor diesem Hintergrund liest sich eine Hermeneutik, die sagt *nimm den Text beim Wort*, als Akt der Ehrfurcht und des Mutes, nicht der Leichtgläubigkeit — eine Weigerung, den einfachen Sinn der Schrift unter akademischem Druck loszulassen. {{% int_link val="Die Kritik jenes früheren Artikels" link="/expl/topics/others/dispensionalism-and-its-critic" %}} lautet, dass dieser Instinkt nicht konsequent angewendet wird — aber der Impuls dahinter, eine hohe Sicht der Autorität der Schrift, ist einer, den diese ganze Seite teilt, auch wenn sich die Anwendung unterscheidet.
 
 ## Gebaut, um die eigenen Fehlschläge zu überstehen
 
