@@ -62,12 +62,12 @@ Another passage in Isaiah goes on to include the Gentiles in the temple service 
 
 {{% bible val="Eunuchs were excluded from temple service in the Old Testament" link="deu:23,1" lang="en" %}}, but here they are granted access to the temple. Foreigners, too, become servants of God, bringing burnt offerings and sacrifices — and the Hebrew words used for this are reserved elsewhere for the service of the priests, which means the Gentiles are pictured as taking on the role of priests themselves.
 
-Now we have a more complex passage that requires a deeper study. The central final chapter in Isaiah can be divided into three major parts:
+The final chapter of Isaiah needs a closer look. It can be divided into three major parts:
 - {{% bible val="description of the end-time Israel" link="isa:66,7-14" lang="en" %}},
 - {{% bible val="judgment of end-time Israel" link="isa:66,15-18" lang="en" %}},
 - {{% bible val="inclusion of the Gentiles" link="isa:66,18-21" lang="en" %}}.
 
-Now we will check the last part step by step
+The last part, step by step:
 
 “{{% bible val="‘And I, because of what they have planned and done, am about to come and gather the people of all nations and languages, and they will come and see my glory" link="isa:66,18" lang="en" %}}.”
 
@@ -79,7 +79,7 @@ Who are these survivors? They are the faithful remnant in Israel after God's jud
 
 “{{% bible val="And they will bring all your people, from all the nations, to my holy mountain in Jerusalem as an offering to the Lord — on horses, in chariots and wagons, and on mules and camels,’ says the Lord. ‘They will bring them, as the Israelites bring their grain offerings, to the temple of the Lord in ceremonially clean vessels." link="isa:66,20" lang="en" %}}”
 
-Once again, these are the believers in Israel bringing the offering — but who are the "brothers" they bring it from? They can't be other Israelites, since the whole context here is about the Gentiles, and nowhere else do Israelites restore other Israelites except through the Servant of God himself. So these "brothers" must be the Gentiles who have come to the Lord, now described in the same terms as "sons of Israel who bring their grain offerings to the temple of the Lord."
+Once again, these are the believers in Israel bringing the offering — but whom do they bring? In the Hebrew they are called "all your brothers". They can't be other Israelites, since the whole context here is about the Gentiles, and nowhere else do Israelites restore other Israelites except through the Servant of God himself. So these "brothers" must be the Gentiles who have come to the Lord, now described in the same terms as "sons of Israel who bring their grain offerings to the temple of the Lord."
 
 {{% bible val="Paul most likely understood this phrase to mean that he was a servant to the Gentiles" link="rom:15,16" lang="en" %}}.
 

@@ -62,12 +62,12 @@ Bagian lain dari Yesaya kemudian memasukkan bangsa-bangsa lain ke dalam pelayana
 
 {{% bible val="Orang-orang kebiri dahulu dikecualikan dari pelayanan bait Allah dalam Perjanjian Lama" link="deu:23,1" lang="ind" %}}, tetapi di sini mereka diberi akses kepada bait Allah. Orang-orang asing pun menjadi hamba-hamba Allah, membawa korban bakaran dan korban sembelihan — dan kata-kata Ibrani yang dipakai untuk hal ini di tempat lain dikhususkan bagi pelayanan para imam, yang berarti bangsa-bangsa lain digambarkan mengambil peran sebagai imam itu sendiri.
 
-Kini kita sampai pada sebuah bagian yang lebih kompleks dan memerlukan kajian yang lebih dalam. Pasal penutup yang sentral dalam Kitab Yesaya dapat dibagi menjadi tiga bagian besar:
+Pasal terakhir Kitab Yesaya perlu dilihat lebih teliti. Pasal ini dapat dibagi menjadi tiga bagian besar:
 - {{% bible val="gambaran tentang Israel akhir zaman" link="isa:66,7-14" lang="ind" %}},
 - {{% bible val="penghakiman atas Israel akhir zaman" link="isa:66,15-18" lang="ind" %}},
 - {{% bible val="dimasukkannya bangsa-bangsa lain" link="isa:66,18-21" lang="ind" %}}.
 
-Sekarang mari kita telusuri bagian terakhir ini langkah demi langkah.
+Bagian terakhir, langkah demi langkah:
 
 "{{% bible val="Aku ini, karena perbuatan-perbuatan dan rancangan-rancangan mereka, akan datang untuk mengumpulkan segala bangsa dan bahasa; mereka akan datang dan melihat kemuliaan-Ku" link="isa:66,18" lang="ind" %}}."
 
@@ -79,7 +79,7 @@ Siapakah orang-orang yang selamat ini? Mereka adalah sisa yang setia di Israel s
 
 "{{% bible val="Dan mereka akan membawa semua saudaramu dari segala bangsa sebagai persembahan kepada TUHAN, dengan menunggang kuda, dengan kereta dan tandu, dengan bagal dan unta cepat, ke gunung-Ku yang kudus, ke Yerusalem, firman TUHAN, seperti orang Israel membawa korban sajian dalam bejana yang tahir ke rumah TUHAN." link="isa:66,20" lang="ind" %}}"
 
-Sekali lagi, merekalah orang-orang percaya di Israel yang membawa persembahan itu — tetapi siapakah "saudara-saudara" yang darinya mereka membawa persembahan itu? Mereka tidak mungkin orang Israel lainnya, sebab seluruh konteks di sini berbicara tentang bangsa-bangsa lain, dan di tempat lain mana pun orang Israel tidak memulihkan orang Israel lainnya kecuali melalui Hamba Allah sendiri. Jadi "saudara-saudara" ini pastilah bangsa-bangsa lain yang telah datang kepada Tuhan, yang kini digambarkan dengan istilah yang sama seperti "anak-anak Israel yang membawa korban sajian mereka ke bait TUHAN".
+Sekali lagi, merekalah orang-orang percaya di Israel yang membawa persembahan itu — tetapi siapakah yang mereka bawa? Dalam bahasa Ibrani mereka disebut "semua saudaramu". Mereka tidak mungkin orang Israel lainnya, sebab seluruh konteks di sini berbicara tentang bangsa-bangsa lain, dan di tempat lain mana pun orang Israel tidak memulihkan orang Israel lainnya kecuali melalui Hamba Allah sendiri. Jadi "saudara-saudara" ini pastilah bangsa-bangsa lain yang telah datang kepada Tuhan, yang kini digambarkan dengan istilah yang sama seperti "anak-anak Israel yang membawa korban sajian mereka ke bait TUHAN".
 
 {{% bible val="Paulus kemungkinan besar memahami ungkapan ini sebagai alasan mengapa ia menjadi pelayan bagi bangsa-bangsa lain" link="rom:15,15-16" lang="ind" %}}.
 

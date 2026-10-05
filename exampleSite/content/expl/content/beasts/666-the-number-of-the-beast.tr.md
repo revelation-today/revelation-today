@@ -81,7 +81,7 @@ Bunu en açık biçimde gösteren imparator Trajan'dır; o:
 ## Daniel'in fırındaki arkadaşları
 
 <a name="1a8b"></a>
-İkinci referans, ikinci canavarla pek çok paralelliği olan {{% bible val="Daniel'in ateşli fırındaki arkadaşlarının" link="dan:3" lang="tr" %}} öyküsüdür. Burada da insanların tapması gereken bir heykel vardır ve itaatsizliği yakalanan herkes ateşle öldürülür. Özellikle ilginç olan {{% bible val="heykelin ölçüleridir" link="dan:3,1" lang="tr" %}}: 60 arşın (yaklaşık 90 fit) yüksekliğinde ve 6 arşın (yaklaşık 9 fit) genişliğinde — metin yalnızca bu iki ölçüyü verir, bu yüzden 6×6 arşınlık kare bir taban, metinde açıkça belirtilmemiş, geleneksel bir çıkarımdır.
+Sayıyı anlamanın ikinci yolu, ikinci canavarla pek çok paralelliği olan {{% bible val="Daniel'in ateşli fırındaki arkadaşlarının" link="dan:3" lang="tr" %}} öyküsüdür. Burada da insanların tapması gereken bir heykel vardır ve itaatsizliği yakalanan herkes ateşle öldürülür. Özellikle ilginç olan {{% bible val="heykelin ölçüleridir" link="dan:3,1" lang="tr" %}}: 60 arşın (yaklaşık 90 fit) yüksekliğinde ve 6 arşın (yaklaşık 9 fit) genişliğinde — metin yalnızca bu iki ölçüyü verir, bu yüzden 6×6 arşınlık kare bir taban, metinde açıkça belirtilmemiş, geleneksel bir çıkarımdır.
 
 Daha da ilginç olanı, arkadaşların {{% bible val="heykele boyun eğmedikleri için" link="dan:3,16-18" lang="tr" %}} yüzleştirildiklerinde verdikleri yanıttır: "Tanrı'nın bizi kurtarabileceğine güveniyoruz — ama kurtarmasa bile sadık kalacağız." 666'nın bizim baskıya verdiğimiz tepkiyle buluştuğu nokta tam olarak burasıdır: uyum sağlamayanlar öldürülür, ya da en azından alım satım yapamaz ve gerçek bir mali mücadeleyle karşı karşıya kalır. Buradaki çağrı, Tanrı görünür biçimde müdahale etmese bile sadık kalmaktır.
 
@@ -90,9 +90,9 @@ Ama bunun canavarla ne ilgisi var? Daniel'deki öykünün nasıl bittiğine bak�
 ## Süleyman'ın zenginliği
 
 <a name="d311"></a>
-666'ya üçüncü referans, Kutsal Kitap'ta tam olarak bu şekilde yazılı olarak {{% bible val="Kral Süleyman'ın yaşamının özetinde" link="1ki:10,14-29" lang="tr" %}}, tam da bu özetin başında görünür — {{% bible val="onun feci başarısızlığının anlatılmasından" link="1ki:11,1-13" lang="tr" %}} hemen önceki son yükseliş noktası.
+Üçüncü yol: 666, Kutsal Kitap'ta tam olarak bu şekilde yazılı olarak {{% bible val="Kral Süleyman'ın yaşamının özetinde" link="1ki:10,14-29" lang="tr" %}}, tam da bu özetin başında görünür — {{% bible val="onun feci başarısızlığının anlatılmasından" link="1ki:11,1-13" lang="tr" %}} hemen önceki son yükseliş noktası.
 
-Süleyman'ın öyküsü nedir? {{% bible val="Bat-Şeva öyküsüyle" link="2sa:11" lang="tr" %}} başlar; bu da {{% bible val="Natan'ın onu azarlamasına ve bu günahtan doğan çocuğun ölümüne" link="2sa:12,1-23" lang="tr" %}} yol açar — yine de {{% bible val="Tanrı ona Bat-Şeva'dan, Tanrı'nın kendi sevgisinin bir işareti olan başka bir çocuk verir" link="2sa:12,24-25" lang="tr" %}}. Tahta çıktıktan sonra, {{% bible val="zenginlik ve güç yerine anlayışlı bir yürek istedi — ve bunu istediği için Tanrı ona bunun üstüne bütün gücü ve zenginliği de verdi" link="1ki:3" lang="tr" %}}.
+Süleyman'ın öyküsü nedir? {{% bible val="Bat-Şeva öyküsüyle" link="2sa:11" lang="tr" %}} başlar; bu da {{% bible val="Natan'ın Davut'u azarlamasına ve bu günahtan doğan çocuğun ölümüne" link="2sa:12,1-23" lang="tr" %}} yol açar — yine de {{% bible val="Tanrı ona Bat-Şeva'dan, Tanrı'nın kendi sevgisinin bir işareti olan başka bir çocuk verir" link="2sa:12,24-25" lang="tr" %}}. Süleyman tahta çıktıktan sonra, {{% bible val="zenginlik ve güç yerine anlayışlı bir yürek istedi — ve bunu istediği için Tanrı ona bunun üstüne bütün gücü ve zenginliği de verdi" link="1ki:3" lang="tr" %}}.
 
 Sonuç olarak, Tanrı'yı bereketinin kaynağı olarak görmeye başladı, ama bereketin kendisi giderek Tanrı'yla ilişkisinden daha önemli hale geldi ve sonunda {{% bible val="bu onun çöküşü oldu" link="1ki:11,1-13" lang="tr" %}}. O bölümdeki her sayı yuvarlatılmışken, {{% bible val="her yıl tam olarak 666 talant altın almasının" link="1ki:10,14" lang="tr" %}} tuhaf görünmemesi de garip değil mi?
 

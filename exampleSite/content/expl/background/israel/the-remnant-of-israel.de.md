@@ -62,12 +62,12 @@ Eine weitere Passage in Jesaja bezieht die Nationen sogar in den Tempeldienst Is
 
 {{% bible val="Verschnittene waren im Alten Testament vom Tempeldienst ausgeschlossen" link="deu:23,1" lang="de" %}}, aber hier erhalten sie Zugang zum Tempel. Auch Fremde werden zu Dienern Gottes und bringen Brandopfer und Schlachtopfer dar — und die hebräischen Wörter, die dafür verwendet werden, sind anderswo dem Dienst der Priester vorbehalten, was bedeutet, dass die Nationen hier so dargestellt werden, als würden sie selbst die Rolle von Priestern übernehmen.
 
-Nun kommen wir zu einer komplexeren Passage, die eine genauere Untersuchung verdient. Das zentrale letzte Kapitel des Jesajabuches lässt sich in drei Hauptteile gliedern:
+Das letzte Kapitel des Jesajabuches verdient einen genaueren Blick. Es lässt sich in drei Hauptteile gliedern:
 - {{% bible val="Beschreibung des endzeitlichen Israel" link="isa:66,7-14" lang="de" %}},
 - {{% bible val="Gericht über das endzeitliche Israel" link="isa:66,15-18" lang="de" %}},
 - {{% bible val="Einbeziehung der Nationen" link="isa:66,18-21" lang="de" %}}.
 
-Nun wollen wir den letzten Teil Schritt für Schritt betrachten.
+Der letzte Teil, Schritt für Schritt:
 
 „{{% bible val="‚Und ich — wegen dessen, was sie geplant und getan haben — bin im Begriff zu kommen und die Menschen aller Nationen und Sprachen zu versammeln, und sie werden kommen und meine Herrlichkeit sehen‘" link="isa:66,18" lang="de" %}}.“
 
@@ -79,7 +79,7 @@ Wer sind diese Überlebenden? Es ist der treue Überrest in Israel nach Gottes G
 
 „{{% bible val="‚Und sie werden alle eure Brüder aus allen Nationen zu meinem heiligen Berg nach Jerusalem bringen, als Opfergabe für den Herrn — auf Pferden, in Wagen und Karren und auf Maultieren und Kamelen‘, spricht der Herr. ‚Sie werden sie bringen, wie die Israeliten ihre Speisopfer in zeremoniell reinen Gefäßen zum Tempel des Herrn bringen.‘" link="isa:66,20" lang="de" %}}“
 
-Auch hier sind es wieder die Gläubigen in Israel, die die Opfergabe bringen — aber wer sind die „Brüder“, von denen sie sie bringen? Es können keine anderen Israeliten sein, denn der ganze Zusammenhang hier handelt von den Nationen, und nirgendwo sonst stellen Israeliten andere Israeliten wieder her, außer durch den Knecht Gottes selbst. Diese „Brüder“ müssen also die Nationen sein, die zum Herrn gekommen sind und nun mit denselben Worten beschrieben werden wie „Söhne Israels, die ihre Speisopfer zum Tempel des Herrn bringen“.
+Auch hier sind es wieder die Gläubigen in Israel, die die Opfergabe bringen — aber wen bringen sie? Im Hebräischen heißen sie „alle eure Brüder“. Es können keine anderen Israeliten sein, denn der ganze Zusammenhang hier handelt von den Nationen, und nirgendwo sonst stellen Israeliten andere Israeliten wieder her, außer durch den Knecht Gottes selbst. Diese „Brüder“ müssen also die Nationen sein, die zum Herrn gekommen sind und nun mit denselben Worten beschrieben werden wie „Söhne Israels, die ihre Speisopfer zum Tempel des Herrn bringen“.
 
 {{% bible val="Paulus verstand diesen Ausdruck höchstwahrscheinlich so, dass er ein Diener für die Nationen war" link="rom:15,16" lang="de" %}}.
 

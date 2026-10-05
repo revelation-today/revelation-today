@@ -81,7 +81,7 @@ The emperor who shows this most clearly is Trajan, who:
 ## Daniel's friends in the furnace
 
 <a name="9bcc"></a>
-The second reference is the story of {{% bible val="Daniel's friends in the fiery furnace" link="dan:3" lang="en" %}}, which has many parallels to the second beast. Here too there's a statue that people are required to worship, and whoever is caught disobeying is killed by fire. What's particularly interesting are the {{% bible val="dimensions of the statue" link="dan:3,1" lang="en" %}}: 60 cubits high (roughly 90 feet) and 6 cubits wide (roughly 9 feet) — the text gives only these two figures, so a square 6×6 base is a traditional inference rather than something stated outright.
+A second way to understand the number comes from the story of {{% bible val="Daniel's friends in the fiery furnace" link="dan:3" lang="en" %}}, which has many parallels to the second beast. Here too there's a statue that people are required to worship, and whoever is caught disobeying is killed by fire. What's particularly interesting are the {{% bible val="dimensions of the statue" link="dan:3,1" lang="en" %}}: 60 cubits high (roughly 90 feet) and 6 cubits wide (roughly 9 feet) — the text gives only these two figures, so a square 6×6 base is a traditional inference rather than something stated outright.
 
 Even more interesting is how the friends respond when confronted for {{% bible val="not bowing to the statue" link="dan:3,16-18" lang="en" %}}: "We trust that God can save us — but even if not, we will be faithful." This is where 666 touches our own response to oppression: those who don't comply are killed, or at least cannot buy or sell, facing real financial struggle. The call here is to stay faithful even if God doesn't visibly intervene.
 
@@ -90,9 +90,9 @@ But what does this have to do with the beast? Look at how the story in Daniel en
 ## Solomon's riches
 
 <a name="719b"></a>
-The third reference to 666 appears written out exactly like that in the Bible, in {{% bible val="the summary of Solomon's wealth" link="1ki:10,14-29" lang="en" %}}, right at its opening — the last high point before {{% bible val="the description of his catastrophic failure" link="1ki:11,1-13" lang="en" %}}.
+A third way: 666 appears written out exactly like that in the Bible, in {{% bible val="the summary of Solomon's wealth" link="1ki:10,14-29" lang="en" %}}, right at its opening — the last high point before {{% bible val="the description of his catastrophic failure" link="1ki:11,1-13" lang="en" %}}.
 
-What is the story of Solomon? It begins with the {{% bible val="story of Bathsheba" link="2sa:11" lang="en" %}}, which led to {{% bible val="Nathan rebuking him, and to the loss of the child born from that sin" link="2sa:12,1-23" lang="en" %}} — yet {{% bible val="God gave him another child with Bathsheba, a sign of God's own love" link="2sa:12,24-25" lang="en" %}}. After he was enthroned, {{% bible val="he asked God for an understanding heart instead of wealth and power — and because he asked for that, God gave him all the power and wealth" link="1ki:3" lang="en" %}} on top.
+What is the story of Solomon? It begins with the {{% bible val="story of Bathsheba" link="2sa:11" lang="en" %}}, which led to {{% bible val="Nathan rebuking David, and to the loss of the child born from that sin" link="2sa:12,1-23" lang="en" %}} — yet {{% bible val="God gave him another child with Bathsheba, a sign of God's own love" link="2sa:12,24-25" lang="en" %}}. After Solomon was enthroned, {{% bible val="he asked God for an understanding heart instead of wealth and power — and because he asked for that, God gave him all the power and wealth" link="1ki:3" lang="en" %}} on top.
 
 As a result, he came to see God as the source of his blessing, but the blessing itself gradually became more important to him than his relationship with God, and in the end, this {{% bible val="was his downfall" link="1ki:11,1-13" lang="en" %}}. And doesn't it seem strange that {{% bible val="he received exactly 666 talents of gold every year" link="1ki:10,14" lang="en" %}}, when every other number in that chapter is rounded?
 

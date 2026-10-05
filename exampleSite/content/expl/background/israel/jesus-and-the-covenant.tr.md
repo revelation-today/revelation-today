@@ -79,7 +79,7 @@ Son olarak, kalıntı dindarlardan değil, Tanrı'nın antlaşmasını tutanlard
 ## Zaten ama henüz değil {#already}
 
 <a name="1438"></a>
-{{% bible val="Rab'bin Günü'nün (Tanrı'nın Egemenliği) geldiğini söyler" link="mrk:1,1-15" lang="tr" %}}. Markos Müjdesi, Yeşaya'nın İsrail'in restorasyonunu anlatan ikinci bölümünü tanıtan görümle başlar. {{% bible val="Vaazında" link="luk:4,16-21" lang="tr" %}} {{% bible val="61. bölümdeki" link="luk:4,16-21" lang="tr" %}} peygamberliğin gerçekleştiğini bildirir: "Rab'bin Ruhu üzerimdedir, çünkü yoksullara müjdeyi duyurmam için beni meshetti. Beni tutsaklara özgürlük, körlere görme yetisini kazandırmak, ezilenleri özgürlüğe kavuşturmak, Rab'bin lütuf yılını duyurmak için gönderdi."
+İsa, zamanın geldiğini duyurarak başlar: {{% bible val="Tanrı'nın Egemenliği yaklaştı" link="mrk:1,14-15" lang="tr" %}}. Bu, Rab'bin Günü'nün gelişidir. Markos Müjdesini {{% bible val="çölde haykıranın sesiyle" link="mrk:1,2-3" lang="tr" %}} açar; bunlar {{% bible val="Yeşaya kitabının ikinci kısmını" link="isa:40,3" lang="tr" %}} açan sözlerdir ve orada İsrail'in yeniden kurulması vaat edilir. {{% bible val="Nasıra havrasında" link="luk:4,16-21" lang="tr" %}} İsa Yeşaya 61'den okur ve bunun bugün gerçekleştiğini söyler: "Rab'bin Ruhu üzerimdedir, çünkü yoksullara müjdeyi duyurmam için beni meshetti. Beni tutsaklara özgürlük, körlere görme yetisini kazandırmak, ezilenleri özgürlüğe kavuşturmak, Rab'bin lütuf yılını duyurmak için gönderdi."
 
 Ama bunu {{% bible val="Yeşaya'daki pasajla" link="isa:61,1-2" lang="tr" %}} karşılaştırırsanız, cümlenin ortasında durduğunu görürsünüz: "Rab'bin lütuf yılını ve Tanrımızın öç gününü ilan etmek için."
 

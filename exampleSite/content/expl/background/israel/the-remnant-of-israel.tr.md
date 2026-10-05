@@ -62,13 +62,13 @@ Yeşaya'daki bir başka pasaj daha da ileri giderek Yahudi olmayanları İsrail'
 
 {{% bible val="Hadımlar Eski Antlaşma’da tapınak hizmetinden dışlanmışlardı" link="deu:23,1" lang="tr" %}}, ama burada tapınağa girme hakkı kazanırlar. Yabancılar da Tanrı'nın hizmetkârları hâline gelir, yakmalık sunular ve kurbanlar getirirler — burada kullanılan İbranice sözcükler başka yerlerde yalnızca kâhinlerin hizmeti için ayrılmıştır, yani Yahudi olmayanlar burada kâhinlik rolünü üstleniyor gibi tasvir edilir.
 
-Şimdi daha derin bir incelemeyi gerektiren, daha karmaşık bir pasaja geliyoruz. Yeşaya'nın merkezi son bölümü üç ana kısma ayrılabilir:
+Yeşaya'nın son bölümüne daha yakından bakmak gerekir. Bu bölüm üç ana kısma ayrılabilir:
 
 - {{% bible val="ahir zaman İsrail’inin tanımı" link="isa:66,7-14" lang="tr" %}}
 - {{% bible val="ahir zaman İsrail’inin yargılanması" link="isa:66,15-18" lang="tr" %}}
 - {{% bible val="Yahudi olmayanların dahil edilmesi" link="isa:66,18-21" lang="tr" %}}
 
-Şimdi bu son kısmı adım adım inceleyelim:
+Son kısım, adım adım:
 
 “{{% bible val="‹‹Çünkü ben onların eylemlerini de düşüncelerini de bilirim. Bütün ulusları ve dilleri bir araya toplayacağım an geliyor; gelip yüceliğimi görecekler." link="isa:66,18" lang="tr" %}}”
 
@@ -80,7 +80,7 @@ Bu hayatta kalanlar kimdir? Bunlar, Tanrı'nın yargısından sonra ulusların a
 
 “{{% bible val="İsrailoğulları tahıl sunularını pak kaplar içinde RAB’bin Tapınağı’na nasıl getiriyorsa, onlar da bütün kardeşlerinizi uluslardan atlarla, savaş arabalarıyla, at arabalarıyla, katırlarla, develerle kutsal dağıma, Yeruşalim’e, RAB’be sunu olarak getirecekler.›› Böyle diyor RAB." link="isa:66,20" lang="tr" %}}”
 
-Yine sunuyu getirenler İsrail'deki imanlılardır — peki bunu getirdikleri "kardeşler" kimdir? Bunlar diğer İsrailliler olamaz, çünkü buradaki bağlamın tamamı Yahudi olmayanlarla ilgilidir ve Tanrı'nın Hizmetkârı dışında hiçbir yerde İsrailliler diğer İsraillileri geri getirmez. Öyleyse bu "kardeşler", Rab'be gelmiş ve şimdi "tahıl sunularını Rab'bin tapınağına getiren İsrail oğulları" ile aynı terimlerle tanımlanan Yahudi olmayanlar olmalıdır.
+Yine sunuyu getirenler İsrail'deki imanlılardır — peki kimi getiriyorlar? İbranicede onlara "bütün kardeşleriniz" denir. Bunlar diğer İsrailliler olamaz, çünkü buradaki bağlamın tamamı Yahudi olmayanlarla ilgilidir ve Tanrı'nın Hizmetkârı dışında hiçbir yerde İsrailliler diğer İsraillileri geri getirmez. Öyleyse bu "kardeşler", Rab'be gelmiş ve şimdi "tahıl sunularını Rab'bin tapınağına getiren İsrail oğulları" ile aynı terimlerle tanımlanan Yahudi olmayanlar olmalıdır.
 
 {{% bible val="Pavlus büyük olasılıkla bu ifadeyi, kendisinin Yahudi olmayanlara hizmetkâr olduğu anlamında anlamıştır." link="rom:15,16" lang="tr" %}}
 
