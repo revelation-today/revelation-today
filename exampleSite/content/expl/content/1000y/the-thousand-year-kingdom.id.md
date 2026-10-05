@@ -154,8 +154,20 @@ Jadi, pemerintahan ini adalah milik siapa pun yang setia kepada Allah, entah kes
 
 Pada kelahiran jasmani, kita menerima "hidup pertama" kita dalam ciptaan lama. Ketika {{% bible val="kita dilahirkan kembali, kita menerima 'hidup kedua'" link="jhn:3" lang="ind" %}}, yang oleh nas ini disebut kebangkitan pertama. Kematian kedua adalah lautan api, penghakiman terakhir (20:14; 21:8). Kematian itu tidak berkuasa atas mereka yang mendapat bagian dalam kebangkitan pertama — mereka yang telah menerima hidup baru di dalam Kristus (20:6; 2:11).[^death2]
 
+## Jadi siapa yang memerintah, atas siapa, dan di mana?
+
+**Siapa?** Bukan golongan khusus para martir. Semua orang yang menjadi milik Yesus dan tetap setia kepada-Nya: Ia telah menjadikan mereka "{{% bible val="suatu kerajaan, menjadi imam-imam" link="rev:1,6" lang="ind" %}}" ({{% bible val="5:10" link="rev:5,10" lang="ind" %}}; {{% bible val="20:6" link="rev:20,6" lang="ind" %}}).
+
+**Kapan?** Sekarang, dan bukan baru setelah penderitaan berlalu. Yohanes memperkenalkan dirinya sebagai "{{% bible val="saudara dan sekutumu dalam kesusahan, dalam Kerajaan dan dalam ketekunan menantikan Yesus" link="rev:1,9" lang="ind" %}}". Ketiganya sekaligus. Mereka tidak memerintah setelah bertekun. Mereka memerintah sementara mereka bertekun.[^when]
+
+**Di mana?** Takhta-takhta itu tidak memutuskannya, dan tidak berarti bahwa orang-orang ini pasti sudah mati. Gereja hidup di dua tempat sekaligus. Gereja ada di bumi, dan sudah bersama Kristus: "{{% bible val="kewargaan kita adalah di dalam sorga" link="php:3,20" lang="ind" %}}", walaupun kita hidup di sini, dan Allah telah "{{% bible val="memberikan tempat bersama-sama dengan Dia di sorga" link="eph:2,6" lang="ind" %}}". Inilah "sudah, tetapi belum" dilihat dari sisi yang lain. Kitab Wahyu berbicara demikian sejak pasal pertamanya: {{% bible val="ketujuh jemaat adalah kaki dian dengan Yesus di tengah-tengahnya, dan bintang-bintang mereka ada di tangan-Nya" link="rev:1,12-20" lang="ind" %}}. Gereja digambarkan dengan ciri-ciri sorgawi karena gereja tidak hanya ada di bumi. Jadi ketika Yohanes melihat takhta-takhta, ia melihat gereja dari sisi sorgawinya. Setiap orang percaya memiliki sisi itu sekarang, sementara ia hidup dan bertekun di sini.
+
+**Atas siapa, dan bagaimana?** Di sini gambaran yang lazim harus ditinggalkan. "Mereka hidup kembali dan memerintah" menyebut suatu kedudukan di hadapan Allah: bagian bersama Kristus, dan kuasa-Nya. Itu bukan kuasa untuk memaksa siapa pun. {{% bible val="Yesus tidak memakai kuasa-Nya dengan cara itu" link="mat:20,25-28" lang="ind" %}}, dan mereka pun tidak. Binatang itu tampak memerintah dan mereka tampak kalah. Putusan Allah membalikkannya: binatang itu masuk ke dalam api, dan mereka yang dibunuhnya itulah yang hidup dan memerintah.
+
 [^kai]: Beale, hlm. 975.
 
 [^behead]: Aune, *Revelation 17–22*, hlm. 1086: mereka yang dipenggal "kemungkinan besar termasuk golongan *honestiores*", kelas atas.
 
 [^death2]: Beale, hlm. 244.
+
+[^when]: Beale, hlm. 995–996, menempatkan pemerintahan ini di sorga sesudah kematian: orang-orang setia duduk bersama Kristus di takhta-Nya ketika mereka mati. Situs ini membacanya bersama 1:9 sebagai masa kini: gereja memiliki sisi sorgawinya sekarang, di tengah ketekunan itu.

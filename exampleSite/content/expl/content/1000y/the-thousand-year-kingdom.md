@@ -151,8 +151,20 @@ So the reign belongs to anyone loyal to God, whether that loyalty costs them the
 
 At physical birth, we receive our "first life" in the old creation. When {{% bible val="we are born again, we receive a 'second life'" link="jhn:3" lang="en" %}}, which is what this passage calls the first resurrection. The second death is the lake of fire, the final judgment (20:14; 21:8). It has no power over those who share in the first resurrection — those who have received new life in Christ (20:6; 2:11).[^death2]
 
+## So who reigns, over whom, and where?
+
+**Who?** Not a special class of martyrs. Everyone who belongs to Jesus and stays loyal to him: he has made them "{{% bible val="a kingdom and priests" link="rev:1,6" lang="en" %}}" ({{% bible val="5:10" link="rev:5,10" lang="en" %}}; {{% bible val="20:6" link="rev:20,6" lang="en" %}}).
+
+**When?** Now, and not only once the suffering is over. John introduces himself as "{{% bible val="your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus" link="rev:1,9" lang="en" %}}". All three at once. They do not reign after they have endured. They reign as they endure.[^when]
+
+**Where?** The thrones do not settle it, and they do not mean that these people must have died. The church lives in two places at once. It is on the earth, and it is already with Christ: "{{% bible val="our citizenship is in heaven" link="php:3,20" lang="en" %}}", though we live here, and God has "{{% bible val="seated us with him in the heavenly places" link="eph:2,6" lang="en" %}}". This is the "already and not yet" seen from another side. Revelation speaks this way from its first chapter: {{% bible val="the seven churches are lampstands with Jesus among them, and their stars are in his hand" link="rev:1,12-20" lang="en" %}}. The church is described with heavenly features because it is not only on the earth. So when John sees thrones, he sees the church from its heavenly side. Every believer has that side now, while living and enduring here.
+
+**Over whom, and how?** Here the usual picture has to go. "They came to life and reigned" names a standing before God: a share with Christ, and his authority. It is not power to force anyone. {{% bible val="Jesus did not use his authority that way" link="mat:20,25-28" lang="en" %}}, and neither do they. The beast seemed to rule and they seemed to lose. God's verdict turns that round: the beast goes into the fire, and those it killed are the ones who live and reign.
+
 [^kai]: Beale, p. 975.
 
 [^behead]: Aune, *Revelation 17–22*, p. 1086: the beheaded "in all probability belonged to the *honestiores*", the upper class.
 
 [^death2]: Beale, p. 244.
+
+[^when]: Beale, pp. 995–996, places this reign in heaven after death: the faithful join Christ on his throne when they die. This site reads it with 1:9 as present: the church has its heavenly side now, in the middle of the endurance.

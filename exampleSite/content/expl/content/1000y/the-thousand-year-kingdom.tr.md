@@ -154,8 +154,20 @@ Yani egemenlik, bu sadakatin bedeli ister canları, ister {{% bible val="ekonomi
 
 Doğduğumuzda, eski yaratılıştaki "ilk yaşamımızı" alırız. {{% bible val="Yeniden doğduğumuzda ise bir 'ikinci yaşam' alırız" link="jhn:3" lang="tr" %}}, ve bu metnin ilk diriliş dediği şey de budur. İkinci ölüm ateş gölüdür, son yargıdır (20:14; 21:8). İlk dirilişe payı olanlar, yani Mesih'te yeni yaşam almış olanlar üzerinde hiçbir yetkisi yoktur (20:6; 2:11).[^death2]
 
+## Peki kim, kimin üzerinde ve nerede egemenlik sürer?
+
+**Kim?** Özel bir şehitler sınıfı değil. İsa'ya ait olan ve O'na sadık kalan herkes: O onları "{{% bible val="bir krallık ve kâhinler" link="rev:1,6" lang="tr" %}}" yaptı ({{% bible val="5:10" link="rev:5,10" lang="tr" %}}; {{% bible val="20:6" link="rev:20,6" lang="tr" %}}).
+
+**Ne zaman?** Şimdi; yalnızca acı bittikten sonra değil. Yuhanna kendini şöyle tanıtır: "{{% bible val="İsa'da sıkıntıya, egemenliğe ve sabırlı dayanışa ortak olan kardeşiniz" link="rev:1,9" lang="tr" %}}". Üçü birden. Dayandıktan sonra egemenlik sürmezler. Dayanırken egemenlik sürerler.[^when]
+
+**Nerede?** Tahtlar bunu belirlemez ve bu insanların ölmüş olması gerektiği anlamına da gelmez. Kilise aynı anda iki yerde yaşar. Yeryüzündedir ve şimdiden Mesih'le birliktedir: burada yaşasak da "{{% bible val="bizim vatandaşlığımız göklerdedir" link="php:3,20" lang="tr" %}}" ve Tanrı bizi "{{% bible val="O'nunla birlikte göksel yerlerde oturttu" link="eph:2,6" lang="tr" %}}". Bu, "şimdiden, ama henüz değil"in başka bir yandan görünüşüdür. Vahiy ilk bölümünden beri böyle konuşur: {{% bible val="yedi kilise, aralarında İsa'nın durduğu kandilliklerdir ve yıldızları O'nun elindedir" link="rev:1,12-20" lang="tr" %}}. Kilise göksel özelliklerle anlatılır, çünkü yalnızca yeryüzünde değildir. Öyleyse Yuhanna tahtları gördüğünde, kiliseyi göksel yanından görür. Her inanlı bu yana şimdi sahiptir, burada yaşayıp dayanırken.
+
+**Kimin üzerinde ve nasıl?** Burada alışılmış resim bir yana bırakılmalı. "Dirilip egemenlik sürdüler" sözü Tanrı'nın önündeki bir konumu anlatır: Mesih'le pay ve O'nun yetkisi. Bu, kimseyi zorlama gücü değildir. {{% bible val="İsa yetkisini böyle kullanmadı" link="mat:20,25-28" lang="tr" %}}, onlar da kullanmaz. Canavar egemenmiş gibi, onlar ise kaybetmiş gibi görünüyordu. Tanrı'nın kararı bunu tersine çevirir: canavar ateşe gider, onun öldürdükleri ise yaşayan ve egemenlik sürenlerdir.
+
 [^kai]: Beale, s. 975.
 
 [^behead]: Aune, *Revelation 17–22*, s. 1086: başı kesilenler "büyük olasılıkla *honestiores*'e", yani üst tabakaya aitti.
 
 [^death2]: Beale, s. 244.
+
+[^when]: Beale, s. 995–996, bu egemenliği ölümden sonra göğe yerleştirir: sadık olanlar öldüklerinde Mesih'in tahtına katılır. Bu site onu 1:9 ile birlikte şimdiki zaman olarak okur: kilise göksel yanına şimdi, dayanışın tam ortasında sahiptir.

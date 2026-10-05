@@ -156,8 +156,20 @@ Die Herrschaft gehört also jedem, der Gott treu ist, ob diese Treue ihn das Leb
 
 Bei der physischen Geburt empfangen wir unser „erstes Leben" in der alten Schöpfung. Wenn {{% bible val="wir von neuem geboren werden, empfangen wir ein 'zweites Leben'" link="jhn:3" lang="de" %}}, was diese Passage die erste Auferstehung nennt. Der zweite Tod ist der Feuersee, das endgültige Gericht (20,14; 21,8). Er hat keine Macht über die, die Anteil an der ersten Auferstehung haben – die neues Leben in Christus empfangen haben (20,6; 2,11).[^death2]
 
+## Wer herrscht also, über wen und wo?
+
+**Wer?** Keine besondere Klasse von Märtyrern. Alle, die zu Jesus gehören und ihm treu bleiben: Er hat sie zu „{{% bible val="einem Königreich und zu Priestern" link="rev:1,6" lang="de" %}}“ gemacht ({{% bible val="5,10" link="rev:5,10" lang="de" %}}; {{% bible val="20,6" link="rev:20,6" lang="de" %}}).
+
+**Wann?** Jetzt, und nicht erst, wenn das Leiden vorbei ist. Johannes stellt sich vor als „{{% bible val="euer Bruder und Mitteilhaber an der Bedrängnis und am Königreich und am Ausharren in Jesus" link="rev:1,9" lang="de" %}}“. Alle drei zugleich. Sie herrschen nicht, nachdem sie ausgeharrt haben. Sie herrschen, während sie ausharren.[^when]
+
+**Wo?** Die Throne entscheiden das nicht, und sie bedeuten nicht, dass diese Menschen gestorben sein müssen. Die Gemeinde lebt an zwei Orten zugleich. Sie ist auf der Erde, und sie ist schon bei Christus: „{{% bible val="Unser Bürgerrecht ist im Himmel" link="php:3,20" lang="de" %}}“, obwohl wir hier leben, und Gott hat uns „{{% bible val="mit ihm eingesetzt im Himmel" link="eph:2,6" lang="de" %}}“. Das ist das „Schon und Noch-nicht“, von einer anderen Seite gesehen. Die Offenbarung spricht vom ersten Kapitel an so: {{% bible val="Die sieben Gemeinden sind Leuchter, zwischen denen Jesus steht, und ihre Sterne sind in seiner Hand" link="rev:1,12-20" lang="de" %}}. Die Gemeinde wird mit himmlischen Zügen beschrieben, weil sie nicht nur auf der Erde ist. Wenn Johannes also Throne sieht, sieht er die Gemeinde von ihrer himmlischen Seite. Jeder Gläubige hat diese Seite jetzt, während er hier lebt und ausharrt.
+
+**Über wen, und wie?** Hier muss das übliche Bild weichen. „Sie wurden lebendig und herrschten“ benennt eine Stellung vor Gott: Anteil an Christus und an seiner Vollmacht. Es ist keine Macht, jemanden zu zwingen. {{% bible val="Jesus hat seine Vollmacht nicht so gebraucht" link="mat:20,25-28" lang="de" %}}, und sie tun es auch nicht. Das Tier schien zu herrschen, und sie schienen zu verlieren. Gottes Urteil kehrt das um: Das Tier geht ins Feuer, und die, die es getötet hat, sind es, die leben und herrschen.
+
 [^kai]: Beale, S. 975.
 
 [^behead]: Aune, *Revelation 17–22*, S. 1086: Die Enthaupteten gehörten „aller Wahrscheinlichkeit nach zu den *honestiores*“, der Oberschicht.
 
 [^death2]: Beale, S. 244.
+
+[^when]: Beale, S. 995–996, verlegt diese Herrschaft in den Himmel nach dem Tod: Die Treuen nehmen bei ihrem Tod neben Christus auf seinem Thron Platz. Diese Seite liest sie mit 1,9 als gegenwärtig: Die Gemeinde hat ihre himmlische Seite jetzt, mitten im Ausharren.
