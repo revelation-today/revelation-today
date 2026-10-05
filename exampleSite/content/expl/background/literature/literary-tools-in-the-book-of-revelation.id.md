@@ -6,7 +6,7 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
-    - pages: 9–14
+    - pages: 1–3, 9–14
       ref: bauckham_climax
     - pages: 116–124
       ref: beale_rev
@@ -16,7 +16,7 @@ sources:
       ref: bauckham_rev
     - pages: 248
       ref: dorsey
-    - pages: 24
+    - pages: 24, 100–103
       ref: beale_rev
     - pages: 25
       ref: dorsey
@@ -31,6 +31,8 @@ Bagaimana sebenarnya para pembaca pertama membaca Kitab Wahyu? Tidak ada judul, 
 ## Pengantar
 
 <a name="a0ab"></a>
+Kitab Wahyu ditulis dalam bahasa Yunani, tetapi tidak berpikir secara Yunani. Bahasanya diresapi Perjanjian Lama, sampai ke tata bahasanya: di mana bahasa Yunani Yohanes terdengar janggal, biasanya ia terdengar seperti Alkitab Ibrani.[^greek] Dan seperti Alkitab Ibrani, kitab ini ditulis untuk dibacakan dan didengar ({{% bible val="1:3" link="rev:1,3" lang="ind" %}}). Teks untuk telinga harus menandai strukturnya sendiri dengan kata-kata, sebab pendengar tidak melihat judul.[^ear] Itulah sebabnya artikel ini mulai dengan cara sastra Ibrani disusun, dan baru pada akhirnya sampai ke Kitab Wahyu.
+
 Sastra Ibrani bekerja dengan cara yang sangat berbeda dari sastra kita. Sastra itu tidak memiliki pasal atau ayat, hanya huruf-huruf yang tersusun dalam baris-baris dengan sangat sedikit petunjuk grafis atau visual, karena teks itu dimaksudkan untuk dibacakan dan didengar, bukan dipindai dengan mata di atas halaman.
 
 Meski begitu, teks tersebut membawa petunjuk-petunjuk tentang di mana sebuah kisah dimulai dan berakhir, bagaimana kisah-kisah itu saling berhubungan dan tersusun, dan di mana letak penekanannya — bahkan sebuah jeda yang disengaja dalam struktur itu pun dapat memberi sinyal kepada pembaca. Belajar mengenali struktur-struktur ini memberi kita pemahaman yang jauh lebih kaya tentang teks, tetapi kita harus berhati-hati agar tidak memaksakan pola pada bagian-bagian yang sebenarnya tidak dimaksudkan demikian oleh penulisnya.
@@ -203,7 +205,7 @@ Tidak setiap pengulangan struktural ada di sana untuk menyampaikan makna; kadang
 
 - **Struktural** — membantu membangun kerangka bagi komposisi. Menyebutkan ketiga putra Nuh baik sebelum maupun sesudah air bah (Kej.6/9–10 dan 9/18–19), misalnya, menciptakan keseimbangan dan mengapit kisah itu.
 - **Elaborasi** — satuan kedua dalam sepasang satuan mengembangkan tema lebih jauh. Kej.28/6–9 memperkenalkan istri Esau, dan Kej.36 kemudian menelusuri seluruh sisa keluarga Esau.
-- **Perspektif kedua** — satuan kedua menceritakan kembali satuan pertama dari sudut pandang yang berbeda, atau merangkumnya. Penyeberangan Sungai Yordan diceritakan dari dua sudut: Yos.3/9–17 menunjukkan penyeberangan itu dimulai dan selesai dari sisi timur, dan Yos.4/10–13 menunjukkan peristiwa yang sama berlangsung dan selesai dari sisi barat.
+- **Perspektif kedua** — satuan kedua menceritakan kembali satuan pertama dari sudut pandang yang berbeda, atau merangkumnya. Ini bisa sekadar hiasan, tetapi bisa juga membawa makna, seperti dalam Kitab Wahyu. Penyeberangan Sungai Yordan diceritakan dari dua sudut: Yos.3/9–17 menunjukkan penyeberangan itu dimulai dan selesai dari sisi timur, dan Yos.4/10–13 menunjukkan peristiwa yang sama berlangsung dan selesai dari sisi barat.
 
 Tetapi pengulangan yang terstruktur juga dapat digunakan untuk menyampaikan makna secara langsung, seperti dalam doa Yunus (Yun.2/2–9 dan 4/1–3).
 
@@ -264,3 +266,5 @@ Setiap alat di atas bekerja dalam Kitab Wahyu sendiri, dan penjelasan-penjelasan
 
 [^ring]: Beale, hlm. 226–227, mengikuti Kiddle.
 [^bowls]: Strukturnya mengikuti Bauckham, *Climax*, hlm. 9–14. Ia membaca ketiadaan selingan itu dengan lebih tegas: "waktu untuk bertobat sudah lewat" (hlm. 14).
+[^greek]: Beale, hlm. 100–103.
+[^ear]: Bauckham, *Climax*, hlm. 1–3.

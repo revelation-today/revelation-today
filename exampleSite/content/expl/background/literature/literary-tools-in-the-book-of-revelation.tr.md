@@ -6,7 +6,7 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
-    - pages: 9–14
+    - pages: 1–3, 9–14
       ref: bauckham_climax
     - pages: 116–124
       ref: beale_rev
@@ -16,7 +16,7 @@ sources:
       ref: bauckham_rev
     - pages: 248
       ref: dorsey
-    - pages: 24
+    - pages: 24, 100–103
       ref: beale_rev
     - pages: 25
       ref: dorsey
@@ -31,6 +31,8 @@ appl: /appl/background/literature
 ## Giriş
 
 <a name="3b15"></a>
+Vahiy Yunanca yazılmıştır, ama Yunanca düşünmez. Dili, dilbilgisine varıncaya dek Eski Ahit'le yoğrulmuştur: Yuhanna'nın Yunancası tuhaf geldiği yerde çoğu zaman İbranice Kutsal Kitap gibi ses verir.[^greek] Ve İbranice Kutsal Kitap gibi, bu kitap da yüksek sesle okunup dinlenmek için yazılmıştır ({{% bible val="1:3" link="rev:1,3" lang="tr" %}}). Kulağa hitap eden bir metin yapısını sözlerle kendisi belli etmek zorundadır, çünkü dinleyen başlık görmez.[^ear] Bu yazının İbrani edebiyatının nasıl kurulduğuyla başlayıp Vahiy'e sonunda gelmesinin nedeni budur.
+
 İbrani edebiyatı bizimkinden çok farklı işler. Bölümleri ya da ayetleri yoktu; sadece minimal grafik ya da görsel ipuçlarıyla art arda sıralanmış harfler vardı, çünkü sayfada gözle taranmak için değil, yüksek sesle okunup duyulmak için tasarlanmıştı.
 
 Yine de metin, bir öykünün nerede başlayıp nerede bittiğine, öykülerin birbirine nasıl bağlandığına ve düzenlendiğine ve vurgunun nereye düştüğüne dair göstergeler taşır — hatta bu yapıdaki kasıtlı bir kopukluk bile okuyucuya bir şey sinyal edebilir. Bu yapıları tanımayı öğrenmek metne dair çok daha zengin bir anlayış kazandırır, ama yazarın hiç amaçlamadığı örüntüleri pasajlara zorla dayatmamaya dikkat etmeliyiz.
@@ -203,7 +205,7 @@ Her yapısal tekrar anlam iletmek için orada değildir; bazen sadece sanatsal g
 
 - **Yapısal** — kompozisyona bir iskele kurmaya yardımcı olur. Örneğin Nuh'un üç oğlunun hem tufandan önce hem de sonra listelenmesi (Yar. 6/9–10 ve 9/18–19), denge yaratır ve öyküyü parantez içine alır.
 - **Detaylandırma** — eşleşen bir çiftin ikinci birimi temayı daha da geliştirir. Yar. 28/6–9, Esav'ın karısını tanıtır, ardından Yar. 36, Esav'ın ailesinin geri kalanının izini tam olarak sürer.
-- **İkinci bakış açısı** — ikinci birim, ilkini farklı bir açıdan yeniden anlatır ya da özetler. Ürdün'ün geçilmesi iki açıdan anlatılır: Yeşu 3/9–17, geçişin doğu tarafından başlayıp tamamlandığını gösterir, Yeşu 4/10–13 ise aynı olayın batı tarafından ilerleyip tamamlandığını gösterir.
+- **İkinci bakış açısı** — ikinci birim, ilkini farklı bir açıdan yeniden anlatır ya da özetler. Bu süs olabilir, ama Vahiy'de olduğu gibi anlam da taşıyabilir. Ürdün'ün geçilmesi iki açıdan anlatılır: Yeşu 3/9–17, geçişin doğu tarafından başlayıp tamamlandığını gösterir, Yeşu 4/10–13 ise aynı olayın batı tarafından ilerleyip tamamlandığını gösterir.
 
 Ama yapılandırılmış tekrar, Yunus'un duasında olduğu gibi (Yun. 2/2–9 ve 4/1–3), doğrudan anlam iletmek için de kullanılabilir.
 
@@ -264,3 +266,5 @@ Yukarıdaki araçların her biri Vahiy'in kendisinde iş başındadır ve bu sit
 
 [^ring]: Beale, s. 226–227, Kiddle'ı izleyerek.
 [^bowls]: Yapı Bauckham'ı izler, *Climax*, s. 9–14. O, ara bölümün yokluğunu daha kesin okur: "tövbe zamanı geçmiştir" (s. 14).
+[^greek]: Beale, s. 100–103.
+[^ear]: Bauckham, *Climax*, s. 1–3.

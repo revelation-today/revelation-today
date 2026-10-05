@@ -6,7 +6,7 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
-    - pages: 9–14
+    - pages: 1–3, 9–14
       ref: bauckham_climax
     - pages: 116–124
       ref: beale_rev
@@ -16,7 +16,7 @@ sources:
       ref: bauckham_rev
     - pages: 248
       ref: dorsey
-    - pages: 24
+    - pages: 24, 100–103
       ref: beale_rev
     - pages: 25
       ref: dorsey
@@ -31,6 +31,8 @@ Wie haben die ursprünglichen Leser das Buch der Offenbarung eigentlich gelesen?
 ## Einführung
 
 <a name="a0ab"></a>
+Die Offenbarung ist auf Griechisch geschrieben, aber sie denkt nicht griechisch. Ihre Sprache ist vom Alten Testament durchtränkt, bis in die Grammatik: Wo das Griechisch des Johannes seltsam klingt, klingt es meist wie die hebräische Bibel.[^greek] Und wie die hebräische Bibel wurde das Buch geschrieben, um vorgelesen und gehört zu werden ({{% bible val="1:3" link="rev:1,3" lang="de" %}}). Ein Text für das Ohr muss seinen Aufbau selbst mit Worten anzeigen, denn der Hörer sieht keine Überschriften.[^ear] Darum beginnt dieser Artikel damit, wie hebräische Literatur gebaut ist, und kommt am Ende zur Offenbarung.
+
 Die hebräische Literatur funktioniert ganz anders als unsere. Es gab keine Kapitel oder Verse, nur Buchstaben in Reihen mit minimalen grafischen oder visuellen Hilfen, denn der Text war dazu bestimmt, vorgelesen und gehört zu werden, nicht mit dem Auge überflogen.
 
 Trotzdem enthält der Text Hinweise darauf, wo eine Geschichte beginnt und endet, wie Geschichten miteinander verbunden und organisiert sind und wo der Schwerpunkt liegt — und selbst ein bewusster Bruch in dieser Struktur kann dem Leser ein Signal geben. Wer lernt, diese Strukturen zu erkennen, gewinnt ein wesentlich reicheres Verständnis des Textes. Dabei müssen wir jedoch darauf achten, keine Muster in Abschnitte hineinzulesen, die der Autor nie beabsichtigt hat.
@@ -203,7 +205,7 @@ Nicht jede strukturelle Wiederholung dient dazu, Bedeutung zu vermitteln; manchm
 
 - **Strukturell** — hilft, ein Gerüst für die Komposition zu bauen. Die Aufzählung von Noahs drei Söhnen sowohl vor als auch nach der Flut (1.Mo 6/9–10 und 9/18–19) etwa schafft Ausgewogenheit und rahmt die Geschichte ein.
 - **Ausarbeitung** — die zweite Einheit eines Paares entwickelt das Thema weiter. 1.Mo 28/6–9 führt Esaus Frau ein, und 1.Mo 36 verfolgt dann den Rest von Esaus Familie im Detail.
-- **Zweite Perspektive** — die zweite Einheit erzählt die erste aus einem anderen Blickwinkel neu oder fasst sie zusammen. Die Überquerung des Jordans wird aus zwei Blickwinkeln erzählt: Jos.3/9–17 zeigt, wie die Überquerung von der Ostseite her beginnt und sich vollendet, und Jos.4/10–13 zeigt dasselbe Ereignis, wie es von der Westseite her fortschreitet und sich vollendet.
+- **Zweite Perspektive** — die zweite Einheit erzählt die erste aus einem anderen Blickwinkel neu oder fasst sie zusammen. Das kann Schmuck sein, es kann aber auch Bedeutung tragen, wie in der Offenbarung. Die Überquerung des Jordans wird aus zwei Blickwinkeln erzählt: Jos.3/9–17 zeigt, wie die Überquerung von der Ostseite her beginnt und sich vollendet, und Jos.4/10–13 zeigt dasselbe Ereignis, wie es von der Westseite her fortschreitet und sich vollendet.
 
 Strukturierte Wiederholung kann aber auch eingesetzt werden, um Bedeutung direkt zu vermitteln, wie im Gebet des Jona (Jon.2/2–9 und 4/1–3).
 
@@ -264,3 +266,5 @@ Jedes der oben beschriebenen Werkzeuge ist in der Offenbarung selbst am Werk, un
 
 [^ring]: Beale, S. 226–227, nach Kiddle.
 [^bowls]: Der Aufbau folgt Bauckham, *Climax*, S. 9–14. Er liest das fehlende Zwischenstück strenger: „Die Zeit zur Umkehr ist vorbei“ (S. 14).
+[^greek]: Beale, S. 100–103.
+[^ear]: Bauckham, *Climax*, S. 1–3.

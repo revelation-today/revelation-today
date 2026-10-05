@@ -6,7 +6,7 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
-    - pages: 9–14
+    - pages: 1–3, 9–14
       ref: bauckham_climax
     - pages: 116–124
       ref: beale_rev
@@ -16,7 +16,7 @@ sources:
       ref: bauckham_rev
     - pages: 248
       ref: dorsey
-    - pages: 24
+    - pages: 24, 100–103
       ref: beale_rev
     - pages: 25
       ref: dorsey
@@ -31,6 +31,8 @@ How did the original audience actually read the book of Revelation? There were n
 ## Introduction
 
 <a name="0559"></a>
+Revelation is written in Greek, but it does not think in Greek. Its language is soaked in the Old Testament, down to the grammar: where John's Greek sounds odd, it usually sounds like the Hebrew Bible.[^greek] And like the Hebrew Bible, the book was written to be read aloud and heard ({{% bible val="1:3" link="rev:1,3" lang="en" %}}). A text for the ear has to mark its own structure with words, because the listener sees no headings.[^ear] That is why this article starts with the way Hebrew literature is built, and comes to Revelation at the end.
+
 Hebrew literature works very differently from ours. It had no chapters or verses, just letters running in rows with minimal graphic or visual cues, because it was meant to be read aloud and heard, not scanned by eye on a page.
 
 Even so, the text carries indicators for where a story begins and ends, how stories connect and get organized, and where the emphasis falls — and even a deliberate break in that structure can signal something to the reader. Learning to recognize these structures gives us a much richer understanding of the text, but we have to be careful not to force patterns onto passages where the author never intended them.
@@ -203,7 +205,7 @@ Not every structural repetition is there to convey meaning; sometimes it exists 
 
 - **Structural** — helps build a scaffold for the composition. Listing Noah's three sons both before and after the flood (Gen 6/9–10 and 9/18–19), for example, creates balance and brackets the story.
 - **Elaboration** — the second unit in a paired set develops the theme further. Gen 28/6–9 introduces Esau's wife, and Gen 36 then traces the rest of Esau's family in full.
-- **Second perspective** — the second unit retells the first from a different point of view, or summarizes it. The crossing of the Jordan is told from two angles: Josh. 3/9–17 shows the crossing beginning and completing from the eastern side, and Josh. 4/10–13 shows the same event proceeding and completing from the western side.
+- **Second perspective** — the second unit retells the first from a different point of view, or summarizes it. It can be decoration, but it can also carry meaning, as it does in Revelation. The crossing of the Jordan is told from two angles: Josh. 3/9–17 shows the crossing beginning and completing from the eastern side, and Josh. 4/10–13 shows the same event proceeding and completing from the western side.
 
 But structured repetition can also be used to convey meaning directly, as in the prayer of Jonah (Jon. 2/2–9 and 4/1–3).
 
@@ -264,3 +266,5 @@ Every tool above is at work in Revelation itself, and the explanations on this s
 
 [^ring]: Beale, pp. 226–227, following Kiddle.
 [^bowls]: The structure follows Bauckham, *Climax*, pp. 9–14. He reads the missing interlude more strictly: "the time for repentance is past" (p. 14).
+[^greek]: Beale, pp. 100–103.
+[^ear]: Bauckham, *Climax*, pp. 1–3.
