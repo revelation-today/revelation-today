@@ -122,7 +122,7 @@ Revelations Zahlen haben noch eine weitere Schicht: die Formen, die sie bilden.
 *Der Anspruch — etwas größer als Gott.* Satan stellt sich als ein wenig größer dar als Gott:
 
 - In Kapitel 17 ist das Tier {{% bible val="ein achter" link="rev:17,11" lang="de" %}} — acht gegen Gottes Sieben, einen Schritt über die Vollkommenheit hinaus, als könnte er Gottes eigene Schöpfung übertreffen.
-- Daniels {{% bible val="1290 Tage" link="dan:12,11" lang="de" %}} des Gräuels reichen knapp über die 1260 Tage der Gemeinde hinaus, und das nächste Quadrat des Tieres, 1296, liegt knapp über Gottes 1225.
+- Daniels {{% bible val="1290 Tage" link="dan:12,11" lang="de" %}} des Gräuels reichen knapp über die 1260 Tage der Gemeinde hinaus, und das nächste Quadrat des Tieres, 1296, liegt knapp über Gottes 1225 (36 × 36 gegen 35 × 35).
 - Das Lamm hat {{% bible val="sieben Hörner" link="rev:5,6" lang="de" %}}; der Drache und das Tier zeigen {{% bible val="zehn" link="rev:13,1" lang="de" %}}. Der Drache trägt sieben Kronen, das Tier zehn ({{% bible val="12,3" link="rev:12,3" lang="de" %}}; {{% bible val="13,1" link="rev:13,1" lang="de" %}}) — „falsche Ansprüche auf souveräne, universale Herrschaft“, wie Beale es nennt (S. 635, 684).
 - Der erste Reiter kommt auf einem weißen Pferd, gekrönt und {{% bible val="siegend" link="rev:6,2" lang="de" %}}; das Tier überlebt seine Todeswunde, und das zweite Tier tut {{% bible val="große Zeichen" link="rev:13,3-13" lang="de" %}} — auf den ersten Blick ein besseres Angebot als das Gottes.
 - Babylon prahlt: {{% bible val="Ich throne als Königin … Trauer werde ich nicht sehen" link="rev:18,7" lang="de" %}}; und Gog und Magog sammeln ein Heer {{% bible val="wie der Sand am Meer" link="rev:20,8" lang="de" %}} — genau das Bild des unzählbaren Volkes, das Gott Abraham verheißen hat.
@@ -136,7 +136,14 @@ Revelations Zahlen haben noch eine weitere Schicht: die Formen, die sie bilden.
 - Die Königin, die nie trauern wollte, wird {{% bible val="in einer Stunde" link="rev:18,10" lang="de" %}} gerichtet; das Heer wie Sand wird von {{% bible val="Feuer vom Himmel" link="rev:20,9" lang="de" %}} verzehrt, ohne Schlacht.
 - Der Teufel kann die Treuen für {{% bible val="zehn Tage" link="rev:2,10" lang="de" %}} ins Gefängnis werfen — eine kurze, begrenzte Zeit (Beale, S. 243); die treu bis in den Tod sind, {{% bible val="herrschen mit Christus tausend Jahre" link="rev:20,4" lang="de" %}}. Er weiß, dass {{% bible val="er wenig Zeit hat" link="rev:12,12" lang="de" %}}; sie herrschen {{% bible val="von Ewigkeit zu Ewigkeit" link="rev:22,5" lang="de" %}}.
 
-*Warum tausendmal?* Die Kluft ist kein beliebiger Vergleich; sie ergibt sich aus den Zahlen selbst. Das Tier und das Volk Gottes bauen jeweils auf ihrer eigenen Grundzahl auf, in denselben Schritten. Die Grundzahl des Tieres ist 6: Ihr Quadrat, 36, ist zugleich das Dreieck der 8; ihr Rechteck, 6 × 7 = 42, sind die 42 Monate des Tieres; und das Dreieck über 36 ist seine Zahl, 666. Die Grundzahl des Volkes Gottes ist 35: Ihr Quadrat, 1225, ist zugleich das Dreieck der 49; ihr Rechteck, 35 × 36 = 1260, sind die 1260 Tage der Gemeinde. Geht man den letzten Schritt des Tieres auch für Gottes Familie — das Dreieck über 1225 —, erhält man 750.925.
+*Warum mehr als tausendmal?* Die Kluft ist kein beliebiger Vergleich; sie ergibt sich aus den Zahlen selbst. Das Tier und das Volk Gottes bauen jeweils auf ihrer eigenen Grundzahl auf, in denselben Schritten. Die Grundzahl des Tieres ist 6: Ihr Quadrat, 36, ist zugleich das Dreieck der 8; ihr Rechteck, 6 × 7 = 42, sind die 42 Monate des Tieres; und das Dreieck über 36 ist seine Zahl, 666. Die Grundzahl des Volkes Gottes ist 35: Ihr Quadrat, 1225, ist zugleich das Dreieck der 49; ihr Rechteck, 35 × 36 = 1260, sind die 1260 Tage der Gemeinde. Geht man den letzten Schritt des Tieres auch für Gottes Familie — das Dreieck über 1225 —, erhält man 750.925.
+
+| Schritt | Das Tier | Gottes Volk | Wie viel größer |
+|---|---|---|---|
+| Basis | 6 | 35 | etwa 6-mal |
+| Quadrat | 36 (das Dreieck von 8) | 1225 (das Dreieck von 49) | etwa 34-mal |
+| Rechteck | 6 × 7 = 42 Monate | 35 × 36 = 1260 Tage | gleich: dieselben dreieinhalb Jahre |
+| Dreieck über dem Quadrat | 666 | 750.925 | mehr als 1100-mal |
 
 Weil jeder Schritt die Zahl mit sich selbst malnimmt, bleibt die Kluft nicht gleich, sondern wächst mit jedem Schritt: etwa das 6-Fache bei der Grundzahl, etwa das 34-Fache beim Quadrat, mehr als das 1.100-Fache beim Dreieck. Nur ein Schritt geht gleich auf: die Rechtecke. 42 Monate und 1260 Tage sind dieselben dreieinhalb Jahre. Die beiden Seiten teilen die Zeit, nicht die Macht.
 

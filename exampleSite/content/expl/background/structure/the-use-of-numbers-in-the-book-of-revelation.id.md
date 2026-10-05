@@ -122,7 +122,7 @@ Bilangan-bilangan dalam Kitab Wahyu masih memiliki satu lapisan lagi: bentuk-ben
 *Klaimnya — sedikit lebih besar daripada Allah.* Iblis menampilkan dirinya sedikit lebih besar daripada Allah:
 
 - Dalam pasal 17 binatang itu adalah {{% bible val="yang kedelapan" link="rev:17,11" lang="ind" %}} — delapan melawan tujuh milik Allah, satu langkah melampaui kesempurnaan, seolah-olah ia dapat mengungguli ciptaan Allah sendiri.
-- {{% bible val="1290 hari" link="dan:12,11" lang="ind" %}} kekejian dalam Daniel sedikit melewati 1260 hari gereja, dan persegi berikutnya milik binatang itu, 1296, berada sedikit di atas 1225 milik Allah.
+- {{% bible val="1290 hari" link="dan:12,11" lang="ind" %}} kekejian dalam Daniel sedikit melewati 1260 hari gereja, dan persegi berikutnya milik binatang itu, 1296, berada sedikit di atas 1225 milik Allah (36 × 36 berbanding 35 × 35).
 - Anak Domba bertanduk {{% bible val="tujuh" link="rev:5,6" lang="ind" %}}; naga dan binatang itu bertanduk {{% bible val="sepuluh" link="rev:13,1" lang="ind" %}}. Naga itu memakai tujuh mahkota, binatang itu sepuluh ({{% bible val="12:3" link="rev:12,3" lang="ind" %}}; {{% bible val="13:1" link="rev:13,1" lang="ind" %}}) — "klaim palsu atas kekuasaan yang berdaulat dan universal", kata Beale (hlm. 635, 684).
 - Penunggang pertama datang dengan kuda putih, bermahkota dan {{% bible val="menang" link="rev:6,2" lang="ind" %}}; binatang itu sembuh dari luka yang mematikan, dan binatang kedua mengadakan {{% bible val="tanda-tanda yang dahsyat" link="rev:13,3-13" lang="ind" %}} — sekilas tawaran yang lebih baik daripada tawaran Allah.
 - Babel bermegah: {{% bible val="Aku bertakhta seperti ratu … aku tidak akan pernah berkabung" link="rev:18,7" lang="ind" %}}; dan Gog dan Magog mengumpulkan pasukan {{% bible val="seperti pasir di laut" link="rev:20,8" lang="ind" %}} — gambaran yang sama dengan bangsa yang tak terhitung yang dijanjikan Allah kepada Abraham.
@@ -136,7 +136,14 @@ Bilangan-bilangan dalam Kitab Wahyu masih memiliki satu lapisan lagi: bentuk-ben
 - Ratu yang tidak mau berkabung dihakimi {{% bible val="dalam satu jam" link="rev:18,10" lang="ind" %}}; pasukan seperti pasir itu dimakan {{% bible val="api dari langit" link="rev:20,9" lang="ind" %}} tanpa pertempuran.
 - Iblis dapat melemparkan orang-orang setia ke dalam penjara selama {{% bible val="sepuluh hari" link="rev:2,10" lang="ind" %}} — waktu yang singkat dan terbatas (Beale, hlm. 243); mereka yang setia sampai mati {{% bible val="memerintah bersama Kristus seribu tahun" link="rev:20,4" lang="ind" %}}. Ia tahu bahwa {{% bible val="waktunya sudah singkat" link="rev:12,12" lang="ind" %}}; mereka memerintah {{% bible val="sampai selama-lamanya" link="rev:22,5" lang="ind" %}}.
 
-*Mengapa seribu kali?* Jurang itu bukan perbandingan sembarangan; jurang itu muncul dari bilangan-bilangan itu sendiri. Binatang itu dan umat Allah masing-masing membangun di atas dasarnya sendiri, dengan langkah-langkah yang sama. Dasar binatang itu adalah 6: perseginya, 36, sekaligus adalah segitiga dari 8; persegi panjangnya, 6 × 7 = 42, adalah 42 bulan milik binatang itu; dan segitiga yang dibangun di atas 36 adalah bilangannya, 666. Dasar umat Allah adalah 35: perseginya, 1225, sekaligus adalah segitiga dari 49; persegi panjangnya, 35 × 36 = 1260, adalah 1260 hari gereja. Ambillah langkah terakhir binatang itu juga bagi keluarga Allah — segitiga di atas 1225 — dan hasilnya 750.925.
+*Mengapa lebih dari seribu kali?* Jurang itu bukan perbandingan sembarangan; jurang itu muncul dari bilangan-bilangan itu sendiri. Binatang itu dan umat Allah masing-masing membangun di atas dasarnya sendiri, dengan langkah-langkah yang sama. Dasar binatang itu adalah 6: perseginya, 36, sekaligus adalah segitiga dari 8; persegi panjangnya, 6 × 7 = 42, adalah 42 bulan milik binatang itu; dan segitiga yang dibangun di atas 36 adalah bilangannya, 666. Dasar umat Allah adalah 35: perseginya, 1225, sekaligus adalah segitiga dari 49; persegi panjangnya, 35 × 36 = 1260, adalah 1260 hari gereja. Ambillah langkah terakhir binatang itu juga bagi keluarga Allah — segitiga di atas 1225 — dan hasilnya 750.925.
+
+| Langkah | Binatang itu | Umat Allah | Berapa kali lebih besar |
+|---|---|---|---|
+| Dasar | 6 | 35 | kira-kira 6 kali |
+| Bujur sangkar | 36 (segitiga dari 8) | 1225 (segitiga dari 49) | kira-kira 34 kali |
+| Persegi panjang | 6 × 7 = 42 bulan | 35 × 36 = 1260 hari | sama: tiga setengah tahun yang sama |
+| Segitiga di atas bujur sangkar | 666 | 750.925 | lebih dari 1.100 kali |
 
 Karena setiap langkah mengalikan bilangan itu dengan dirinya sendiri, jurang itu tidak tetap, tetapi makin lebar pada setiap langkah: sekitar 6 kali pada dasarnya, sekitar 34 kali pada perseginya, lebih dari 1.100 kali pada segitiganya. Hanya satu langkah yang hasilnya sama: persegi panjangnya. 42 bulan dan 1260 hari adalah tiga setengah tahun yang sama. Kedua pihak berbagi waktu; mereka tidak berbagi kuasa.
 

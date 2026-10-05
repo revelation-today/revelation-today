@@ -122,7 +122,7 @@ Vahiy'in sayılarının bir katmanı daha vardır: oluşturdukları şekiller.
 *İddia — Tanrı'dan biraz büyük.* Şeytan kendini Tanrı'dan biraz daha büyük gösterir:
 
 - 17. bölümde canavar {{% bible val="sekizinci" link="rev:17,11" lang="tr" %}} krallardandır — Tanrı'nın yedisine karşı sekiz, eksiksizliğin bir adım ötesi; sanki Tanrı'nın kendi yaratılışını aşabilirmiş gibi.
-- Daniel'deki iğrençliğin {{% bible val="1290 günü" link="dan:12,11" lang="tr" %}} kilisenin 1260 gününü az farkla aşar ve canavarın sonraki karesi 1296, Tanrı'nın 1225'inin hemen üzerindedir.
+- Daniel'deki iğrençliğin {{% bible val="1290 günü" link="dan:12,11" lang="tr" %}} kilisenin 1260 gününü az farkla aşar ve canavarın sonraki karesi 1296, Tanrı'nın 1225'inin hemen üzerindedir (36 × 36'ya karşı 35 × 35).
 - Kuzu'nun {{% bible val="yedi boynuzu" link="rev:5,6" lang="tr" %}} vardır; ejderha ve canavar {{% bible val="on" link="rev:13,1" lang="tr" %}} boynuz gösterir. Ejderha yedi taç, canavar on taç takar ({{% bible val="12:3" link="rev:12,3" lang="tr" %}}; {{% bible val="13:1" link="rev:13,1" lang="tr" %}}) — Beale'in deyişiyle "egemen, evrensel otoriteye dair sahte iddialar" (s. 635, 684).
 - İlk atlı beyaz bir atla, taç giymiş ve {{% bible val="galip gelerek" link="rev:6,2" lang="tr" %}} gelir; canavar ölümcül yarasından kurtulur, ikinci canavar da {{% bible val="büyük belirtiler" link="rev:13,3-13" lang="tr" %}} gösterir — ilk bakışta Tanrı'nınkinden daha iyi bir teklif.
 - Babil övünür: {{% bible val="Kraliçe olarak oturuyorum … asla yas görmeyeceğim" link="rev:18,7" lang="tr" %}}; Gog ile Magog da {{% bible val="deniz kumu kadar" link="rev:20,8" lang="tr" %}} bir ordu toplar — Tanrı'nın İbrahim'e vaat ettiği sayısız halkın ta kendisi olan imge.
@@ -136,7 +136,14 @@ Vahiy'in sayılarının bir katmanı daha vardır: oluşturdukları şekiller.
 - Asla yas tutmayacak olan kraliçe {{% bible val="bir saatte" link="rev:18,10" lang="tr" %}} yargılanır; kum gibi ordu savaş olmadan {{% bible val="gökten inen ateşle" link="rev:20,9" lang="tr" %}} yok olur.
 - İblis sadıkları {{% bible val="on gün" link="rev:2,10" lang="tr" %}} zindana atabilir — kısa, sınırlı bir süre (Beale, s. 243); ölüme dek sadık kalanlar ise {{% bible val="Mesih'le birlikte bin yıl egemenlik sürer" link="rev:20,4" lang="tr" %}}. O {{% bible val="zamanının az kaldığını" link="rev:12,12" lang="tr" %}} bilir; onlar {{% bible val="sonsuzlara dek" link="rev:22,5" lang="tr" %}} egemenlik sürer.
 
-*Neden bin kat?* Uçurum keyfî bir karşılaştırma değildir; sayıların kendisinden doğar. Canavar ve Tanrı'nın halkı, her biri kendi tabanı üzerine, aynı adımlarla kurar. Canavarın tabanı 6'dır: karesi 36, aynı zamanda 8'in üçgenidir; dikdörtgeni 6 × 7 = 42, canavarın 42 ayıdır; 36 üzerine kurulan üçgen de onun sayısı olan 666'dır. Tanrı'nın halkının tabanı 35'tir: karesi 1225, aynı zamanda 49'un üçgenidir; dikdörtgeni 35 × 36 = 1260, kilisenin 1260 günüdür. Canavarın son adımını Tanrı'nın ailesi için de atın — 1225 üzerine üçgen — ve 750.925 elde edersiniz.
+*Neden bin kattan fazla?* Uçurum keyfî bir karşılaştırma değildir; sayıların kendisinden doğar. Canavar ve Tanrı'nın halkı, her biri kendi tabanı üzerine, aynı adımlarla kurar. Canavarın tabanı 6'dır: karesi 36, aynı zamanda 8'in üçgenidir; dikdörtgeni 6 × 7 = 42, canavarın 42 ayıdır; 36 üzerine kurulan üçgen de onun sayısı olan 666'dır. Tanrı'nın halkının tabanı 35'tir: karesi 1225, aynı zamanda 49'un üçgenidir; dikdörtgeni 35 × 36 = 1260, kilisenin 1260 günüdür. Canavarın son adımını Tanrı'nın ailesi için de atın — 1225 üzerine üçgen — ve 750.925 elde edersiniz.
+
+| Adım | Canavar | Tanrı'nın halkı | Kaç kat büyük |
+|---|---|---|---|
+| Taban | 6 | 35 | yaklaşık 6 kat |
+| Kare | 36 (8'in üçgeni) | 1225 (49'un üçgeni) | yaklaşık 34 kat |
+| Dikdörtgen | 6 × 7 = 42 ay | 35 × 36 = 1260 gün | eşit: aynı üç buçuk yıl |
+| Karenin üzerindeki üçgen | 666 | 750.925 | 1.100 kattan fazla |
 
 Her adım sayıyı kendisiyle çarptığı için uçurum aynı kalmaz, her adımda büyür: tabanda yaklaşık 6 kat, karede yaklaşık 34 kat, üçgende 1.100 kattan fazla. Yalnızca bir adım eşit çıkar: dikdörtgenler. 42 ay ile 1260 gün aynı üç buçuk yıldır. İki taraf zamanı paylaşır; gücü paylaşmaz.
 

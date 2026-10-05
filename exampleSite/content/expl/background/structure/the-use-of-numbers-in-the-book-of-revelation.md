@@ -122,7 +122,7 @@ There is one more layer to Revelation's numbers: the shapes they make.
 *The claim — slightly bigger than God.* Satan presents himself as just a little greater than God:
 
 - In chapter 17 the beast is {{% bible val="an eighth" link="rev:17,11" lang="en" %}} — eight against God's seven, one step beyond completeness, as if he could outdo God's own creation.
-- Daniel's {{% bible val="1290 days" link="dan:12,11" lang="en" %}} of the abomination run just past the church's 1260, and the beast's next square, 1296, sits just above God's 1225.
+- Daniel's {{% bible val="1290 days" link="dan:12,11" lang="en" %}} of the abomination run just past the church's 1260, and the beast's next square, 1296, sits just above God's 1225 (36 × 36 against 35 × 35).
 - The Lamb has {{% bible val="seven horns" link="rev:5,6" lang="en" %}}; the dragon and the beast show {{% bible val="ten" link="rev:13,1" lang="en" %}}. The dragon wears seven crowns, the beast ten ({{% bible val="12:3" link="rev:12,3" lang="en" %}}; {{% bible val="13:1" link="rev:13,1" lang="en" %}}) — "false claims of sovereign, universal authority", as Beale puts it (pp. 635, 684).
 - The first rider comes on a white horse, crowned and {{% bible val="conquering" link="rev:6,2" lang="en" %}}; the beast survives its mortal wound, and the second beast works {{% bible val="great signs" link="rev:13,3-13" lang="en" %}} — on the face of it, a better offer than God's.
 - Babylon boasts: {{% bible val="I sit enthroned as queen… I will never mourn" link="rev:18,7" lang="en" %}}; and Gog and Magog gather an army {{% bible val="like the sand on the seashore" link="rev:20,8" lang="en" %}} — the very image of the countless people God promised Abraham.
@@ -136,7 +136,14 @@ There is one more layer to Revelation's numbers: the shapes they make.
 - The queen who would never mourn is judged {{% bible val="in one hour" link="rev:18,10" lang="en" %}}; the army like the sand is consumed by {{% bible val="fire from heaven" link="rev:20,9" lang="en" %}} without a battle.
 - The devil can throw the faithful into prison for {{% bible val="ten days" link="rev:2,10" lang="en" %}} — a short, limited time (Beale, p. 243); those faithful unto death {{% bible val="reign with Christ a thousand years" link="rev:20,4" lang="en" %}}. He knows {{% bible val="his time is short" link="rev:12,12" lang="en" %}}; they reign {{% bible val="for ever and ever" link="rev:22,5" lang="en" %}}.
 
-*Why a thousand times?* The gap is not an arbitrary comparison; it comes from the numbers themselves. The beast and the people of God each build on their own base, in the same steps. The beast's base is 6: its square, 36, is also the triangle of 8; its rectangle, 6 × 7 = 42, is the beast's 42 months; and the triangle built on 36 is his number, 666. The base of God's people is 35: its square, 1225, is also the triangle of 49; its rectangle, 35 × 36 = 1260, is the church's 1260 days. Take the beast's last step for God's family too — the triangle on 1225 — and you get 750,925.
+*Why more than a thousand times?* The gap is not an arbitrary comparison; it comes from the numbers themselves. The beast and the people of God each build on their own base, in the same steps. The beast's base is 6: its square, 36, is also the triangle of 8; its rectangle, 6 × 7 = 42, is the beast's 42 months; and the triangle built on 36 is his number, 666. The base of God's people is 35: its square, 1225, is also the triangle of 49; its rectangle, 35 × 36 = 1260, is the church's 1260 days. Take the beast's last step for God's family too — the triangle on 1225 — and you get 750,925.
+
+| Step | The beast | God's people | How many times larger |
+|---|---|---|---|
+| Base | 6 | 35 | about 6 |
+| Square | 36 (the triangle of 8) | 1225 (the triangle of 49) | about 34 |
+| Rectangle | 6 × 7 = 42 months | 35 × 36 = 1260 days | equal: the same three and a half years |
+| Triangle on the square | 666 | 750,925 | more than 1,100 |
 
 Because every step multiplies the number by itself, the gap does not stay the same but grows with each step: about 6 times at the base, about 34 times for the square, more than 1,100 times for the triangle. Only one step comes out equal: the rectangles. 42 months and 1260 days are the same three and a half years. The two sides share the time; they do not share the power.
 
