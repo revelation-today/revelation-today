@@ -34,7 +34,7 @@ The first way of understanding it comes straight from the story in {{% bible val
 
 Here's one illustrative way to picture the failure of that imitation — a memory device rather than a formula stated in the text itself — grading how well the counterfeit actually holds up on the points where it matters most:
 
-- The dragon — does he really hold all the power the first beast has? No: that power is only ever *given*, and only for 42 months. Score: 6.
+- The dragon — is he really almighty, like the Father? No: he has been {{% bible val="thrown down from heaven" link="rev:12,9" lang="en" %}}, and the power he hands to the beast lasts {{% bible val="only 42 months" link="rev:13,5" lang="en" %}}. Score: 6.
 - The first beast — did he really lay down his life out of love, and did he really die? No: even his death was a fake, since only one head was struck down. Score: 6.
 - The second beast — does he really invite and counsel people the way the Holy Spirit does? No: he operates purely through fear and intimidation. Score: 6.
 

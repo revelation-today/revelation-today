@@ -34,7 +34,7 @@ Cara pertama untuk memahaminya datang langsung dari kisah dalam {{% bible val="W
 
 Berikut ini satu cara ilustratif untuk membayangkan kegagalan peniruan itu — sebuah alat bantu ingatan, bukan rumus yang dinyatakan dalam teks itu sendiri — yang menilai seberapa baik tiruan itu sesungguhnya bertahan pada titik-titik yang paling penting:
 
-- Sang naga — apakah ia benar-benar memegang seluruh kuasa yang dimiliki binatang pertama? Tidak: kuasa itu hanya *dipinjamkan*, dan hanya untuk 42 bulan. Nilai: 6.
+- Sang naga — apakah ia benar-benar mahakuasa seperti Bapa? Tidak: ia telah {{% bible val="dilemparkan dari surga" link="rev:12,9" lang="ind" %}}, dan kuasa yang diserahkannya kepada binatang itu bertahan {{% bible val="hanya 42 bulan" link="rev:13,5" lang="ind" %}}. Nilai: 6.
 - Binatang pertama — apakah ia benar-benar memberikan nyawanya karena kasih, dan apakah ia benar-benar mati? Tidak: bahkan kematiannya pun palsu, karena hanya satu kepala yang dilukai mati. Nilai: 6.
 - Binatang kedua — apakah ia benar-benar mengundang dan menasihati orang seperti yang dilakukan Roh Kudus? Tidak: ia bekerja semata-mata lewat ketakutan dan intimidasi. Nilai: 6.
 

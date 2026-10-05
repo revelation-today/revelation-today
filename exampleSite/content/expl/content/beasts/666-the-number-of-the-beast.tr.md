@@ -34,7 +34,7 @@ Bunu anlamanın ilk yolu, doğrudan {{% bible val="Va.13" link="rev:13" lang="tr
 
 Bu taklidin başarısızlığını gözünüzde canlandırmanın açıklayıcı bir yolu şudur — metnin kendisinde belirtilen bir formül değil, bir hafıza tekniği — sahtekârlığın en çok önem taşıdığı noktalarda gerçekte ne kadar tutarlı olduğunu değerlendiren:
 
-- Ejderha — ilk canavarın sahip olduğu bütün güce gerçekten sahip mi? Hayır: o güç yalnızca *verilmiştir* ve yalnızca 42 ay için verilmiştir. Not: 6.
+- Ejderha — Baba gibi gerçekten her şeye gücü yeten biri mi? Hayır: {{% bible val="gökten aşağı atılmıştır" link="rev:12,9" lang="tr" %}} ve canavara verdiği güç {{% bible val="yalnızca 42 ay" link="rev:13,5" lang="tr" %}} sürer. Not: 6.
 - İlk canavar — canını gerçekten sevgiden mi verdi, gerçekten öldü mü? Hayır: yalnızca bir başı vurulduğu için ölümü bile sahteydi. Not: 6.
 - İkinci canavar — insanları Kutsal Ruh'un yaptığı gibi gerçekten davet edip yol gösteriyor mu? Hayır: yalnızca korku ve gözdağıyla hareket ediyor. Not: 6.
 

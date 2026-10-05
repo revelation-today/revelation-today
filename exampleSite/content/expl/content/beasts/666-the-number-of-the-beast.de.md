@@ -34,7 +34,7 @@ Die erste Art, sie zu verstehen, ergibt sich direkt aus der Geschichte in {{% bi
 
 Hier ist eine anschauliche Möglichkeit, sich das Scheitern dieser Nachahmung vorzustellen — eine Gedächtnisstütze und keine im Text selbst genannte Formel —, die bewertet, wie gut die Fälschung tatsächlich an den entscheidenden Punkten standhält:
 
-- Der Drache — hält er wirklich die ganze Macht, die das erste Tier hat? Nein: Diese Macht wird ihm nur *gegeben*, und das auch nur für 42 Monate. Note: 6.
+- Der Drache — ist er wirklich allmächtig wie der Vater? Nein: Er ist {{% bible val="aus dem Himmel hinabgeworfen" link="rev:12,9" lang="de" %}}, und die Macht, die er dem Tier übergibt, hält {{% bible val="nur 42 Monate" link="rev:13,5" lang="de" %}}. Note: 6.
 - Das erste Tier — gab es sein Leben wirklich aus Liebe hin, und ist es wirklich gestorben? Nein: Selbst sein Tod war unecht, denn nur ein Kopf wurde tödlich getroffen. Note: 6.
 - Das zweite Tier — lädt es Menschen wirklich ein und berät sie so, wie es der Heilige Geist tut? Nein: Es handelt allein durch Angst und Einschüchterung. Note: 6.
 
