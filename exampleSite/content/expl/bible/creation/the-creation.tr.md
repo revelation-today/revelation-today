@@ -12,8 +12,9 @@ sources:
       ref: tdot
     - pages: "vol. 13: 59"
       ref: tdot
-    - pages: 414
+    - pages: 234–235, 414, 1106
       ref: beale_rev
+    - ref: beale_dwell
     - pages: 50, 60
       ref: brueggemann_gen
 ---
@@ -97,4 +98,17 @@ Kayıtlara geçen, iki eş alan ilk adamdır ve atası Kabil'e Tanrı'nın koydu
 
 Ve yine de, kendi tarzında bir gülünç durumdadır da. Bu böbürlenmeyi dünyaya ilan etmeye cesaret edemez — yalnızca karısına, özel olarak söyler. Peki birisi Lemek'i öldürürse, tam olarak onun öcünü kim alacaktır? Karıları mı?
 
+## Vahiy'de
+
+Öykü Lemek'in böbürlenmesiyle kesilir ve Yaratılış 4'te buna hiçbir şey yanıt vermez. Kutsal Kitap'ın geri kalanı bu yanıttır ve Vahiy onun son sayfasıdır. Bu bölümlerden üç şey orada geri döner.
+
+**Yaşam ağacı.** Adem ile Havva {{% bible val="onu yitirir" link="gen:3,22-24" lang="tr" %}}. İsa {{% bible val="onu yeniden vaat eder" link="rev:2,7" lang="tr" %}}, galip gelenlere; sonunda da {{% bible val="ağaç şehrin içinde durur" link="rev:22,2" lang="tr" %}}, her ay meyve verir ve yaprakları uluslara şifa olur. Ağaç, Tanrı'nın huzurundaki yaşamın resmidir. Bahçede yitirilen geri verilir, hem de fazlasıyla.[^tree]
+
+**İşaret.** Tanrı, kimse onu öldürmesin diye {{% bible val="Kayin'in üzerine bir işaret koyar" link="gen:4,15" lang="tr" %}}. Vahiy'de Tanrı'nın halkı {{% bible val="O'nun adını alınlarında taşır" link="rev:14,1" lang="tr" %}}. Bu onları acı çekmekten korumaz. Kime ait olduklarını ve O'nun onları sonuna kadar götüreceğini söyler.[^sign]
+
+**Şehir.** Bahçeden kovulan insanlar geri dönüş yolunu aramaz. Onun yerine şehri seçerler. {{% bible val="İlk şehri Kayin kurar" link="gen:4,16-17" lang="tr" %}}, Tanrı'nın huzurundan uzakta; Babil'de ise {{% bible val="kendilerine ün salmak için" link="gen:11,4" lang="tr" %}} bir şehir kurarlar. Şehir, yitirilen bahçeye onların kendi yanıtıdır: Tanrı'sız güvenlik ve ün. Vahiy de bir şehirle biter. Ama bu şehir aşağıdan kurulmaz. {{% bible val="Tanrı'dan iner ve Tanrı onun içinde yaşar" link="rev:21,2-3" lang="tr" %}}. Ortasında da {{% bible val="ırmak ve yaşam ağacı" link="rev:22,1-2" lang="tr" %}} vardır: bahçe, şehrin içinde geri verilir.[^city]
+
 [^cain]: TDOT, c. 13, s. 59.
+[^tree]: Beale, s. 234–235, 1106.
+[^sign]: Beale, s. 414, Yar 4:15 üzerine Filistin Targumu'yla: Rab, Kayin'in yüzüne büyük ve yüce adın işaretini mühürledi.
+[^city]: İlk kutsal yer olarak bahçe ve onun hedefi olarak yeni Yeruşalim için bkz. Beale ve Kim, *God Dwells Among Us*.

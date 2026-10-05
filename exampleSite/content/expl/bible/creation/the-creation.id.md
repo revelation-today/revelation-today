@@ -12,8 +12,9 @@ sources:
       ref: tdot
     - pages: "vol. 13: 59"
       ref: tdot
-    - pages: 414
+    - pages: 234–235, 414, 1106
       ref: beale_rev
+    - ref: beale_dwell
     - pages: 50, 60
       ref: brueggemann_gen
 ---
@@ -97,4 +98,17 @@ Ia adalah orang pertama yang tercatat mengambil dua istri, dan ia secara terang-
 
 Namun, dengan caranya sendiri, ia juga menjadi bahan tertawaan. Ia tidak berani mengumumkan kesombongan ini kepada dunia — hanya kepada istrinya, secara pribadi. Dan siapa sebenarnya yang tersisa untuk membalaskan dendam Lamekh jika seseorang membunuhnya? Istri-istrinya?
 
+## Dalam Kitab Wahyu
+
+Kisah ini terhenti pada kesombongan Lamekh, dan tidak ada apa pun dalam Kejadian 4 yang menjawabnya. Seluruh Alkitab selanjutnya adalah jawabannya, dan Kitab Wahyu adalah halaman terakhirnya. Tiga hal dari pasal-pasal ini muncul kembali di sana.
+
+**Pohon kehidupan.** Adam dan Hawa {{% bible val="kehilangan pohon itu" link="gen:3,22-24" lang="ind" %}}. Yesus {{% bible val="menjanjikannya kembali" link="rev:2,7" lang="ind" %}} kepada mereka yang menang, dan pada akhirnya {{% bible val="pohon itu berdiri di dalam kota" link="rev:22,2" lang="ind" %}}, berbuah setiap bulan, dan daun-daunnya menyembuhkan bangsa-bangsa. Pohon itu adalah gambaran hidup di hadirat Allah. Apa yang hilang di taman itu dikembalikan, bahkan lebih.[^tree]
+
+**Tanda itu.** Allah menaruh {{% bible val="tanda pada Kain" link="gen:4,15" lang="ind" %}} supaya tidak ada yang membunuhnya. Dalam Kitab Wahyu umat Allah membawa {{% bible val="nama-Nya pada dahi mereka" link="rev:14,1" lang="ind" %}}. Tanda itu tidak meluputkan mereka dari penderitaan. Tanda itu menyatakan milik siapa mereka, dan bahwa Ia akan membawa mereka melewatinya.[^sign]
+
+**Kota itu.** Setelah diusir dari taman, manusia tidak mencari jalan kembali. Mereka malah memilih kota. {{% bible val="Kain membangun kota yang pertama" link="gen:4,16-17" lang="ind" %}}, jauh dari hadirat Allah, dan di Babel mereka membangun kota {{% bible val="untuk mencari nama bagi diri mereka" link="gen:11,4" lang="ind" %}}. Kota adalah jawaban mereka sendiri atas taman yang hilang: rasa aman dan nama tanpa Allah. Kitab Wahyu juga berakhir dengan sebuah kota. Tetapi kota ini tidak dibangun dari bawah. {{% bible val="Kota itu turun dari Allah, dan Ia tinggal di dalamnya" link="rev:21,2-3" lang="ind" %}}. Dan di tengah-tengahnya ada {{% bible val="sungai dan pohon kehidupan" link="rev:22,1-2" lang="ind" %}}: taman itu dikembalikan di dalam kota.[^city]
+
 [^cain]: TDOT, jld. 13, hlm. 59.
+[^tree]: Beale, hlm. 234–235, 1106.
+[^sign]: Beale, hlm. 414, dengan Targum Palestina atas Kej 4:15: Tuhan memeteraikan pada wajah Kain tanda nama yang agung dan mulia.
+[^city]: Tentang taman sebagai tempat kudus yang pertama dan Yerusalem baru sebagai tujuannya, lihat Beale dan Kim, *God Dwells Among Us*.

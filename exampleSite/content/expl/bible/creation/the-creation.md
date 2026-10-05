@@ -12,8 +12,9 @@ sources:
       ref: tdot
     - pages: "vol. 13: 59"
       ref: tdot
-    - pages: 414
+    - pages: 234–235, 414, 1106
       ref: beale_rev
+    - ref: beale_dwell
     - pages: 50, 60
       ref: brueggemann_gen
 ---
@@ -97,4 +98,17 @@ He is the first man on record to take two wives, and he openly mocks the protect
 
 And yet he is also, in his own way, a laughing stock. He doesn't dare announce this boast to the world — only to his wife, in private. And who, exactly, is left to avenge Lamech if someone kills him? His wives?
 
+## In Revelation
+
+The story breaks off with Lamech's boast, and nothing in Genesis 4 answers it. The rest of the Bible is the answer, and Revelation is its last page. Three things from these chapters come back there.
+
+**The tree of life.** Adam and Eve {{% bible val="lose it" link="gen:3,22-24" lang="en" %}}. Jesus {{% bible val="promises it again" link="rev:2,7" lang="en" %}} to those who overcome, and at the end {{% bible val="it stands in the city" link="rev:22,2" lang="en" %}}, bearing fruit every month, its leaves for the healing of the nations. The tree is a picture of life in God's presence. What was lost in the garden is given back, and more.[^tree]
+
+**The sign.** God puts {{% bible val="a sign on Cain" link="gen:4,15" lang="en" %}} so that no one will kill him. In Revelation God's people carry {{% bible val="his name on their foreheads" link="rev:14,1" lang="en" %}}. It does not keep them from suffering. It says whose they are, and that he will bring them through.[^sign]
+
+**The city.** Driven out of the garden, people do not look for the way back. They choose the city instead. {{% bible val="Cain builds the first one" link="gen:4,16-17" lang="en" %}}, away from God's presence, and at Babel they build one {{% bible val="to make a name for themselves" link="gen:11,4" lang="en" %}}. The city is their own answer to the lost garden: safety and a name without God. Revelation ends with a city too. But this one is not built from below. {{% bible val="It comes down from God, and he lives in it" link="rev:21,2-3" lang="en" %}}. And in the middle of it are {{% bible val="the river and the tree of life" link="rev:22,1-2" lang="en" %}}: the garden is given back inside the city.[^city]
+
 [^cain]: TDOT, vol. 13, p. 59.
+[^tree]: Beale, pp. 234–235, 1106.
+[^sign]: Beale, p. 414, with the Palestinian Targum on Gen 4:15: "the Lord sealed on the face of Cain the mark of the great and honorable name".
+[^city]: On the garden as the first sanctuary and the new Jerusalem as its goal, see Beale and Kim, *God Dwells Among Us*.

@@ -12,8 +12,9 @@ sources:
       ref: tdot
     - pages: "vol. 13: 59"
       ref: tdot
-    - pages: 414
+    - pages: 234–235, 414, 1106
       ref: beale_rev
+    - ref: beale_dwell
     - pages: 50, 60
       ref: brueggemann_gen
 ---
@@ -97,4 +98,17 @@ Er ist der erste Mann, von dem berichtet wird, dass er sich zwei Frauen nahm, un
 
 Und doch ist er auf seine eigene Weise auch eine Lachnummer. Er wagt es nicht, diese Prahlerei der Welt zu verkünden — nur seiner Frau, im Vertrauen. Und wer genau bliebe übrig, um Lamech zu rächen, sollte ihn jemand töten? Seine Frauen?
 
+## In der Offenbarung
+
+Die Geschichte bricht mit Lamechs Prahlerei ab, und nichts in 1. Mose 4 antwortet darauf. Der Rest der Bibel ist die Antwort, und die Offenbarung ist ihre letzte Seite. Drei Dinge aus diesen Kapiteln kehren dort wieder.
+
+**Der Baum des Lebens.** Adam und Eva {{% bible val="verlieren ihn" link="gen:3,22-24" lang="de" %}}. Jesus {{% bible val="verspricht ihn neu" link="rev:2,7" lang="de" %}} denen, die überwinden, und am Ende {{% bible val="steht er in der Stadt" link="rev:22,2" lang="de" %}}, trägt jeden Monat Frucht, und seine Blätter dienen zur Heilung der Völker. Der Baum ist ein Bild für das Leben in Gottes Gegenwart. Was im Garten verloren ging, wird zurückgegeben, und mehr als das.[^tree]
+
+**Das Zeichen.** Gott macht {{% bible val="ein Zeichen an Kain" link="gen:4,15" lang="de" %}}, damit ihn niemand erschlägt. In der Offenbarung tragen Gottes Leute {{% bible val="seinen Namen auf der Stirn" link="rev:14,1" lang="de" %}}. Das bewahrt sie nicht vor dem Leiden. Es sagt, wem sie gehören und dass er sie hindurchbringt.[^sign]
+
+**Die Stadt.** Aus dem Garten vertrieben, suchen die Menschen nicht den Weg zurück. Sie wählen stattdessen die Stadt. {{% bible val="Kain baut die erste" link="gen:4,16-17" lang="de" %}}, fern von Gottes Gegenwart, und in Babel bauen sie eine, {{% bible val="um sich einen Namen zu machen" link="gen:11,4" lang="de" %}}. Die Stadt ist ihre eigene Antwort auf den verlorenen Garten: Sicherheit und ein Name ohne Gott. Auch die Offenbarung endet mit einer Stadt. Aber diese wird nicht von unten gebaut. {{% bible val="Sie kommt von Gott herab, und er wohnt in ihr" link="rev:21,2-3" lang="de" %}}. Und in ihrer Mitte sind {{% bible val="der Strom und der Baum des Lebens" link="rev:22,1-2" lang="de" %}}: Der Garten wird in der Stadt zurückgegeben.[^city]
+
 [^cain]: TDOT, Bd. 13, S. 59.
+[^tree]: Beale, S. 234–235, 1106.
+[^sign]: Beale, S. 414, mit dem palästinischen Targum zu 1. Mose 4,15: Der Herr versiegelte auf Kains Gesicht das Zeichen des großen und ehrwürdigen Namens.
+[^city]: Zum Garten als erstem Heiligtum und zum neuen Jerusalem als seinem Ziel siehe Beale und Kim, *God Dwells Among Us*.
