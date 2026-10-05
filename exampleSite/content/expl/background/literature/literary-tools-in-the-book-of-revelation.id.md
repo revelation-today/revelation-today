@@ -81,7 +81,7 @@ Sebuah satuan juga harus berfungsi sebagai sebuah kesatuan yang mandiri, utuh da
 - keunikan dalam hal waktu, tempat, pelaku, tema, genre, atau kecepatan tindakan,
 - mudah diakses oleh audiens,
 - keserasian internal isinya,
-- ukuran yang konsisten — biasanya 15–20 halaman (besar), satu pasal Alkitab (sedang), atau satu kalimat hingga beberapa paragraf (kecil),
+- ukuran yang konsisten — biasanya 15–20 halaman teks Ibrani (besar), satu pasal Alkitab (sedang), atau satu kalimat hingga beberapa paragraf (kecil),
 - jumlah yang lazim yaitu 7 atau 13–14 satuan, meskipun 3 atau 5 juga mungkin.
 
 ## Susunan Satuan-Satuan
@@ -228,7 +228,7 @@ Posisi dalam sebuah struktur juga dapat memperkuat atau menyampaikan makna. Pend
 Sastra Ibrani bekerja secara berbeda. Dalam struktur linear dan paralel, posisi yang menonjol adalah satuan yang paling terakhir, karena itulah yang didengar audiens paling akhir.
 
 - Dalam skema paralel dengan jumlah ganjil, satuan terakhir yang tidak berpasangan ditonjolkan karena berdiri di luar pola, seperti dalam a-b-c-a'-b'-c'-d.
-- Dalam skema simetris, bagian tengah biasanya menjadi posisi yang menonjol ketika jumlah satuannya ganjil; ketika genap, penonjolan justru jatuh pada satuan pertama dan terakhir, seperti dalam Kel.21/2–22/27, di mana awal dan akhir sama-sama membahas kejahatan yang layak dihukum mati dan kebaikan kepada orang miskin.
+- Dalam skema simetris, bagian tengah biasanya menjadi posisi yang menonjol ketika jumlah satuannya ganjil; ketika genap, penonjolan justru jatuh pada satuan pertama dan terakhir, seperti dalam Kel.21/2–22/27, di mana awal (21/2–17) dan akhir (22/18–27) sama-sama membahas kejahatan yang layak dihukum mati dan kebaikan kepada orang miskin.
 
 Posisi yang menonjol itu dapat membawa beberapa jenis makna:
 

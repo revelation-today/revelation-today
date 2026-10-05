@@ -12,7 +12,7 @@ sources:
       ref: beale_rev
 ---
 
-70 yıllık haftalar, Kutsal Kitap'ın en gizemli bölümlerinden biridir ve son zamanlar hakkında pek çok ilginç yoruma kapı açmıştır. Bunun ne anlama geldiğine daha yakından bakalım. Bu yazı, yetmiş haftanın Mesih'e vardığını söyleyen köklü okumayı izler. Yaygın iki okuma daha vardır.[^weeks]
+70 yıllık haftalar, Kutsal Kitap'ın en gizemli bölümlerinden biridir ve son zamanlar hakkında pek çok ilginç yoruma kapı açmıştır. Bunun ne anlama geldiğine daha yakından bakalım. Bu yazı, yetmiş haftanın Mesih'e vardığını söyleyen köklü okumayı izler. Yaygın iki okuma daha vardır.[^weeks] Haftaları saymanın pek çok yolu vardır ve hiçbiri sorunsuz değildir. Burada anlatılan, beni en çok ikna edenidir.
 
 ## Yıl haftası nedir
 

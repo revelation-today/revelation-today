@@ -81,7 +81,7 @@ Eine Einheit sollte außerdem als eigenständiges, in sich geschlossenes, vollst
 - Einzigartigkeit in Bezug auf Zeit, Ort, Beteiligte, Thema, Gattung oder Erzähltempo,
 - leichter Zugänglichkeit für das Publikum,
 - innerer Stimmigkeit des Inhalts,
-- einem einheitlichen Umfang — typischerweise 15–20 Seiten (groß), ein Bibelkapitel (mittel) oder ein einzelner Satz bis wenige Absätze (klein),
+- einem einheitlichen Umfang — typischerweise 15–20 Seiten hebräischer Text (groß), ein Bibelkapitel (mittel) oder ein einzelner Satz bis wenige Absätze (klein),
 - einer typischen Anzahl von 7 oder 13–14 Einheiten, wobei auch 3 oder 5 möglich sind.
 
 ## Die Anordnung der Einheiten
@@ -228,7 +228,7 @@ Auch die Position innerhalb einer Struktur kann Bedeutung verstärken oder vermi
 Die hebräische Literatur funktioniert anders. In linearen und parallelen Strukturen liegt die hervorgehobene Position in der allerletzten Einheit, denn das ist es, was das Publikum zuletzt hört.
 
 - In einem parallelen Schema mit ungerader Anzahl wird die nicht passende letzte Einheit dadurch betont, dass sie außerhalb des Musters steht, wie in a-b-c-a'-b'-c'-d.
-- In einem symmetrischen Schema ist bei ungerader Anzahl meist die Mitte die hervorgehobene Position; bei gerader Anzahl fällt die Betonung stattdessen auf die erste und die letzte Einheit, wie in 2.Mo 21/2–22/27, wo Anfang und Ende sich beide mit Kapitalverbrechen und mit Güte gegenüber den Armen befassen.
+- In einem symmetrischen Schema ist bei ungerader Anzahl meist die Mitte die hervorgehobene Position; bei gerader Anzahl fällt die Betonung stattdessen auf die erste und die letzte Einheit, wie in 2.Mo 21/2–22/27, wo Anfang (21/2–17) und Ende (22/18–27) sich beide mit Kapitalverbrechen und mit Güte gegenüber den Armen befassen.
 
 Diese hervorgehobene Position kann verschiedene Arten von Bedeutung tragen:
 

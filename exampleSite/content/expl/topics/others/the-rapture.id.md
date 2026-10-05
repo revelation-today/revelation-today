@@ -113,7 +113,7 @@ Bagaimana hubungan ayat ini dengan pengangkatan? Asumsinya adalah bahwa "tempat-
 
 Tetapi perhatikan baik-baik kata yang diterjemahkan sebagai "tempat tinggal": [mone](https://biblehub.com/greek/3438.htm). Kata ini {{% bible val="hanya muncul satu kali lagi dalam Injil Yohanes — dalam pasal yang sama ini — di mana kata itu merujuk pada Allah yang tinggal di dalam kita" link="jhn:14,23" lang="ind" %}}. Kesejajaran itu memberikan gambaran yang berbeda: orang-orang percaya memiliki tempat tinggal di dalam Kristus, dan Kristus memiliki tempat tinggal di dalam orang-orang percaya. Dibaca dengan cara ini, "tempat" di sini berarti sesuatu yang lebih dekat dengan menjadi bagian dari sebuah keluarga daripada menempati sebuah ruangan harfiah — ini soal menjadi bagian dari keluarga Allah, bukan sebuah ruang tunggu untuk masa kesengsaraan besar.
 
-## Kapan Pengangkatan Itu Terjadi
+## Apakah Wahyu 4:1 Itu Pengangkatan?
 
 <a name="ab7c"></a>
 Jika ada satu momen dalam Kitab Wahyu yang berfungsi seperti sebuah "pengangkatan," momen itu ditempatkan pada awal pasal 4, bukan pada suatu titik yang masih akan datang.
@@ -129,6 +129,6 @@ Sebaliknya, ini menggemakan pola Perjanjian Lama tentang sidang surgawi, adegan 
 ## Kesimpulan
 
 <a name="ec29"></a>
-Setiap argumen untuk pengangkatan bertumpu pada ayat-ayat yang sebenarnya menggambarkan sesuatu yang sama sekali berbeda — ayat-ayat yang ditafsirkan secara keliru, dilepaskan dari konteksnya, atau dibaca melampaui makna sesungguhnya dari kata-kata kuncinya. Jika digabungkan, tidak ada bukti alkitabiah untuk sebuah pengangkatan.
+Setiap argumen untuk pengangkatan bertumpu pada ayat-ayat yang sebenarnya menggambarkan sesuatu yang sama sekali berbeda — ayat-ayat yang ditafsirkan secara keliru, dilepaskan dari konteksnya, atau dibaca melampaui makna sesungguhnya dari kata-kata kuncinya. Jika digabungkan, tidak ada bukti alkitabiah untuk pengangkatan rahasia sebelum kesengsaraan. Orang-orang percaya akan {{% bible val="diangkat untuk menyongsong Tuhan" link="1th:4,17" lang="ind" %}}, tetapi pada kedatangan-Nya yang satu dan kelihatan itu, untuk menyambut Dia di sini.
 
 [^apantesis]: Erik Peterson, dalam *Theological Dictionary of the New Testament*, jld. 1, hlm. 380–381; N. T. Wright memahaminya dengan cara yang sama. Michael Cosby berpendapat bahwa latar belakang ini dilebih-lebihkan (*Bulletin for Biblical Research* 4, 1994, hlm. 15–34).

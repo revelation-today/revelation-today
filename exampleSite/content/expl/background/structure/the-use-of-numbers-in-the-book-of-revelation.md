@@ -29,7 +29,7 @@ The sevenfold wrath of God in the {{% bible val="story of Cain" link="gen:4,15" 
 
 Revelation's 7 beatitudes probably describe the entirety of the blessing given to the saints, and may even summarize the book's whole picture of salvation.
 
-The reference to 7 churches works the same way, expressing completeness rather than a literal headcount.
+The reference to 7 churches works the same way, expressing completeness. They were seven real churches, and their number says that they stand for all.
 
 The formula "every tribe, tongue, people, and nation" occurs seven times, in varying order, to describe the totality of humanity.
 

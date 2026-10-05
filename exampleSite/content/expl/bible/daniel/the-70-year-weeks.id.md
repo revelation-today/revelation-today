@@ -12,7 +12,7 @@ sources:
       ref: beale_rev
 ---
 
-Ketujuh puluh minggu tahun adalah salah satu bagian Alkitab yang paling diselimuti misteri, dan telah melahirkan banyak sekali tafsiran menarik tentang akhir zaman. Mari kita selidiki lebih dekat apa sebenarnya makna bagian ini. Artikel ini mengikuti pembacaan lama bahwa ketujuh puluh minggu itu menuju kepada Mesias. Ada dua pembacaan lain yang umum.[^weeks]
+Ketujuh puluh minggu tahun adalah salah satu bagian Alkitab yang paling diselimuti misteri, dan telah melahirkan banyak sekali tafsiran menarik tentang akhir zaman. Mari kita selidiki lebih dekat apa sebenarnya makna bagian ini. Artikel ini mengikuti pembacaan lama bahwa ketujuh puluh minggu itu menuju kepada Mesias. Ada dua pembacaan lain yang umum.[^weeks] Ada banyak cara menghitung minggu-minggu itu, dan tidak satu pun tanpa masalah. Yang diuraikan di sini adalah yang paling meyakinkan bagi saya.
 
 ## Apa Itu Minggu Tahun
 

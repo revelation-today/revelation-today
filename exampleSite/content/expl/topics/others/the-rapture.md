@@ -113,7 +113,7 @@ How does this passage connect to the rapture? The assumption is that these "room
 
 But look closely at the word translated "rooms": [mone](https://biblehub.com/greek/3438.htm). It is {{% bible val="used only one other time in John — in this same chapter — where it refers to God's dwelling in us" link="jhn:14,23" lang="en" %}}. That parallel paints a different picture: believers have a dwelling place in Christ, and Christ has a dwelling place in believers. Read that way, "place" here means something closer to belonging to a household than occupying a literal room — it's about being part of God's family, not a waiting room for the tribulation.
 
-## When the rapture happens
+## Is Revelation 4:1 the rapture?
 
 <a name="d1b5"></a>
 If there is a moment in Revelation that functions like a "rapture," it is placed at the beginning of chapter 4, not at some yet-future point.
@@ -129,6 +129,6 @@ Instead, it echoes the Old Testament pattern of the heavenly council, the same s
 ## Conclusion
 
 <a name="5a06"></a>
-Every argument for the rapture rests on passages describing something else entirely — passages that get misinterpreted, taken out of context, or read past the actual meaning of their key words. Put together, there is no biblical evidence for a rapture.
+Every argument for the rapture rests on passages describing something else entirely — passages that get misinterpreted, taken out of context, or read past the actual meaning of their key words. Put together, there is no biblical evidence for a secret rapture before the tribulation. Believers will be {{% bible val="caught up to meet the Lord" link="1th:4,17" lang="en" %}}, but at his one, visible return, and to welcome him here.
 
 [^apantesis]: Erik Peterson, in the *Theological Dictionary of the New Testament*, vol. 1, pp. 380–381; N. T. Wright takes it the same way. Michael Cosby thinks this background is overstated (*Bulletin for Biblical Research* 4, 1994, pp. 15–34).

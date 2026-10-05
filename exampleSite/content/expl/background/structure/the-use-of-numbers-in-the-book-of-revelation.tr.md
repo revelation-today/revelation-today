@@ -29,7 +29,7 @@ Yedi, yaratılışın yedi gününe dayanarak eksiksizliği temsil eder.
 
 Vahiy'deki 7 mutluluk bildirisi muhtemelen azizlere verilen bereketin tamamını tanımlar ve hatta kitabın kurtuluşa dair tüm resmini özetliyor olabilir.
 
-7 kiliseye yapılan gönderme de aynı şekilde işler; harfiyen bir sayım değil, eksiksizliği ifade eder.
+7 kiliseye yapılan gönderme de aynı şekilde işler; eksiksizliği ifade eder. Yedi gerçek kilise vardı ve sayıları onların hepsini temsil ettiğini söyler.
 
 "Her oymak, dil, halk ve ulus" formülü, insanlığın tamamını tanımlamak için farklı sıralamalarla yedi kez geçer.
 

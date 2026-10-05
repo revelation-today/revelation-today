@@ -29,7 +29,7 @@ Murka Allah yang tujuh kali lipat dalam {{% bible val="kisah Kain" link="gen:4,1
 
 Ketujuh ucapan bahagia dalam Kitab Wahyu kemungkinan menggambarkan keseluruhan berkat yang diberikan kepada orang-orang kudus, dan bahkan mungkin merangkum keseluruhan gambaran keselamatan dalam kitab ini.
 
-Rujukan kepada 7 jemaat bekerja dengan cara yang sama, mengungkapkan kelengkapan, bukan jumlah yang harfiah.
+Rujukan kepada 7 jemaat bekerja dengan cara yang sama, mengungkapkan kelengkapan. Ada tujuh jemaat yang nyata, dan jumlah itu menyatakan bahwa mereka mewakili semuanya.
 
 Rumusan "setiap suku, bahasa, kaum, dan bangsa" muncul tujuh kali, dalam urutan yang bervariasi, untuk menggambarkan totalitas umat manusia.
 

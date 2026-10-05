@@ -57,10 +57,10 @@ Bu yaklaşıma birkaç kusur işlemiştir:
 - Zamanında ikna edici görünen, ama zaman ilerledikçe sessizce gözden geçirilen, sözde kusursuz "uyuşmalar" o kadar çok olmuştur ki, terk edilen bu uyuşmaların sayısının kendisi, onları üreten yönteme karşı en güçlü kanıttır.
 - Tahminler çoğu zaman dar bir tünel bakışına dayanır. Örneğin, kiliselere yazılan yedi mektup, kilise tarihinin yedi çağı olarak okunur ve şimdi son çağda, ılık Laodikya çağında yaşadığımız iddia edilir. Bu, bazı Batılı kiliseleri tarif ediyor olabilir; ama dünyanın dört bir yanında gerçek bir sıkıntı içinde yaşayan pek çok kiliseyi son derece yanlış tarif eder.
 
-## Kıyamet yok
+## Sıkıntıdan önce göğe alınma yok
 
 <a name="039a"></a>
-Belki de hepsinin en açık sorunu şudur: {{% int_link val="göğe alınma diye bir şey yoktur." link="/expl/topics/others/the-rapture" %}}
+Belki de hepsinin en açık sorunu şudur: {{% int_link val="sıkıntıdan önce bir göğe alınma yoktur, gizli bir göğe alınma da yoktur." link="/expl/topics/others/the-rapture" %}}
 
 ## Üçüncü tapınak
 

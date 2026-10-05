@@ -81,7 +81,7 @@ Bir birim aynı zamanda bağımsız, kendi içinde tamamlanmış, eksiksiz bir p
 - zaman, yer, katılımcılar, tema, tür ya da eylem hızı bakımından benzersizlik,
 - izleyici için kolay erişilebilirlik,
 - içeriğin iç tutarlılığı,
-- tutarlı bir paket boyutu — genellikle 15–20 sayfa (büyük), bir Kutsal Kitap bölümü (orta) ya da tek bir cümleden birkaç paragrafa kadar (küçük),
+- tutarlı bir paket boyutu — genellikle 15–20 sayfa İbranice metin (büyük), bir Kutsal Kitap bölümü (orta) ya da tek bir cümleden birkaç paragrafa kadar (küçük),
 - tipik olarak 7 ya da 13–14 birim, ama 3 ya da 5 de mümkündür.
 
 ## Birimlerin düzenlenmesi
@@ -228,7 +228,7 @@ Bir yapı içindeki konum da anlamı pekiştirebilir ya da iletebilir. Modern hi
 İbrani edebiyatı farklı işler. Doğrusal ve paralel yapılarda, öne çıkan konum en son birimdir, çünkü izleyicinin son duyduğu şey odur.
 
 - Tek sayılı bir paralel şemada, eşleşmeyen son birim, örüntünün dışında durarak vurgulanır; a-b-c-a'-b'-c'-d'de olduğu gibi.
-- Simetrik bir şemada, birim sayısı tek olduğunda öne çıkan konum genellikle merkezdir; çift olduğunda ise vurgu bunun yerine ilk ve son birimlere düşer; Çık. 21/2–22/27'de olduğu gibi, burada başlangıç ve son, hem ölüm cezası gerektiren suçları hem de yoksullara gösterilen iyiliği ele alır.
+- Simetrik bir şemada, birim sayısı tek olduğunda öne çıkan konum genellikle merkezdir; çift olduğunda ise vurgu bunun yerine ilk ve son birimlere düşer; Çık. 21/2–22/27'de olduğu gibi, burada başlangıç (21/2–17) ve son (22/18–27), hem ölüm cezası gerektiren suçları hem de yoksullara gösterilen iyiliği ele alır.
 
 Bu öne çıkan konum birkaç türde anlam taşıyabilir:
 

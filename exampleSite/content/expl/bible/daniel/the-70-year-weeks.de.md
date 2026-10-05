@@ -12,7 +12,7 @@ sources:
       ref: beale_rev
 ---
 
-Die 70 Jahrwochen gehören zu den geheimnisvollsten Abschnitten der Bibel und haben nicht wenige interessante Auslegungen über die Endzeit hervorgebracht. Schauen wir uns genauer an, worum es dabei geht. Dieser Artikel folgt der alten Lesart, dass die siebzig Wochen auf den Messias zulaufen. Zwei andere Lesarten sind verbreitet.[^weeks]
+Die 70 Jahrwochen gehören zu den geheimnisvollsten Abschnitten der Bibel und haben nicht wenige interessante Auslegungen über die Endzeit hervorgebracht. Schauen wir uns genauer an, worum es dabei geht. Dieser Artikel folgt der alten Lesart, dass die siebzig Wochen auf den Messias zulaufen. Zwei andere Lesarten sind verbreitet.[^weeks] Es gibt viele Ansätze, die Jahrwochen zu zählen, und keiner ist ohne Probleme. Der hier vorgestellte überzeugt mich am meisten.
 
 ## Was ist eine Jahrwoche
 

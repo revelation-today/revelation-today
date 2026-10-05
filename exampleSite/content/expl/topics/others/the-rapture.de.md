@@ -113,7 +113,7 @@ Wie hängt diese Stelle mit der Entrückung zusammen? Die Annahme lautet, diese 
 
 Doch man betrachte genau das Wort, das mit „Wohnungen” übersetzt wird: [mone](https://biblehub.com/greek/3438.htm). Es wird {{% bible val="im Johannesevangelium nur noch ein einziges Mal verwendet — in demselben Kapitel —, wo es sich auf Gottes Wohnen in uns bezieht" link="jhn:14,23" lang="de" %}}. Diese Parallele zeichnet ein anderes Bild: Gläubige haben eine Wohnstätte in Christus, und Christus hat eine Wohnstätte in den Gläubigen. So gelesen, bedeutet „Stätte” hier eher Zugehörigkeit zu einem Haushalt als das Bewohnen eines buchstäblichen Zimmers — es geht darum, Teil von Gottes Familie zu sein, nicht um ein Wartezimmer für die Trübsal.
 
-## Wann die Entrückung geschieht
+## Ist Offenbarung 4,1 die Entrückung?
 
 <a name="ab7c"></a>
 Wenn es einen Moment in der Offenbarung gibt, der wie eine „Entrückung” funktioniert, dann steht er am Anfang von Kapitel 4, nicht an irgendeinem noch zukünftigen Punkt.
@@ -129,6 +129,6 @@ Stattdessen greift sie das alttestamentliche Muster des himmlischen Rates auf, d
 ## Schluss
 
 <a name="ec29"></a>
-Jedes Argument für die Entrückung stützt sich auf Stellen, die von etwas ganz anderem handeln — Stellen, die fehlgedeutet, aus dem Zusammenhang gerissen oder über die eigentliche Bedeutung ihrer Schlüsselwörter hinweggelesen werden. Zusammengenommen gibt es keinen biblischen Beleg für eine Entrückung.
+Jedes Argument für die Entrückung stützt sich auf Stellen, die von etwas ganz anderem handeln — Stellen, die fehlgedeutet, aus dem Zusammenhang gerissen oder über die eigentliche Bedeutung ihrer Schlüsselwörter hinweggelesen werden. Zusammengenommen gibt es keinen biblischen Beleg für eine geheime Entrückung vor der Trübsal. Die Gläubigen werden {{% bible val="dem Herrn entgegengerückt" link="1th:4,17" lang="de" %}}, aber bei seiner einen, sichtbaren Wiederkunft, und um ihn hier zu empfangen.
 
 [^apantesis]: Erik Peterson, im *Theologischen Wörterbuch zum Neuen Testament* (engl. *TDNT*), Bd. 1, S. 380–381; N. T. Wright versteht es ebenso. Michael Cosby hält diesen Hintergrund für überbewertet (*Bulletin for Biblical Research* 4, 1994, S. 15–34).

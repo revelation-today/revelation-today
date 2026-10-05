@@ -57,10 +57,10 @@ Mehrere Schwächen durchziehen diesen Ansatz:
 - Es gab so viele angeblich perfekte „Übereinstimmungen” mit geschichtlichen Ereignissen, jede zu ihrer Zeit überzeugend, die seither, während die Zeit voranschritt, still und leise revidiert wurden. Allein die schiere Zahl der aufgegebenen Deutungen ist das beste Argument gegen die Methode, die sie hervorgebracht hat.
 - Die Vorhersagen beruhen oft auf einem engen Tunnelblick. Die sieben Sendschreiben an die Gemeinden zum Beispiel werden als sieben Epochen der Kirchengeschichte gelesen, mit der Behauptung, wir lebten jetzt in der letzten Epoche, der des lauwarmen Laodizea. Das mag auf manche westliche Kirchen zutreffen, würde aber die vielen Gemeinden weltweit, die gerade eine echte Trübsal durchleben, gründlich falsch beschreiben.
 
-## Keine Entrückung
+## Keine Entrückung vor der Trübsal
 
 <a name="7246"></a>
-Das vielleicht klarste Problem von allen: {{% int_link val="Es gibt keine Entrückung." link="/expl/topics/others/the-rapture" %}}
+Das vielleicht klarste Problem von allen: {{% int_link val="Es gibt keine Entrückung vor der Trübsal und keine geheime." link="/expl/topics/others/the-rapture" %}}
 
 ## Der dritte Tempel
 

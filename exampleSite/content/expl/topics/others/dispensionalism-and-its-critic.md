@@ -57,10 +57,10 @@ Several flaws run through this approach:
 - There have been so many supposedly perfect "fits" with historical events, each convincing in its day, that have since been quietly revised as time moved on. The sheer number of abandoned fits is itself the best argument against the method that produced them.
 - The predictions are often built on a narrow tunnel view. The seven letters to the churches, for example, are read as seven epochs of church history, with the claim that we are now living in the last era, that of lukewarm Laodicea. That might describe some Western churches, but it would badly misdescribe the many churches around the world currently living through real tribulation.
 
-### No rapture
+### No rapture before the tribulation
 
 <a name="436d"></a>
-Perhaps the clearest problem of all: {{% int_link val="there is no rapture." link="/expl/topics/others/the-rapture" %}}
+Perhaps the clearest problem of all: {{% int_link val="there is no rapture before the tribulation, and no secret one." link="/expl/topics/others/the-rapture" %}}
 
 ### The third temple
 

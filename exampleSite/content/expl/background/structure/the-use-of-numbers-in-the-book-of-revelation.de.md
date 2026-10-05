@@ -29,7 +29,7 @@ Der siebenfache Zorn Gottes in der {{% bible val="Geschichte von Kain" link="gen
 
 Die 7 Seligpreisungen der Offenbarung beschreiben wahrscheinlich die gesamte Fülle des den Heiligen geschenkten Segens und fassen womöglich sogar das ganze Bild der Errettung im Buch zusammen.
 
-Auch die Rede von den 7 Gemeinden folgt diesem Muster: Sie drückt Vollständigkeit aus, nicht eine buchstäbliche Kopfzahl.
+Auch die Rede von den 7 Gemeinden folgt diesem Muster: Sie drückt Vollständigkeit aus. Es waren sieben wirkliche Gemeinden, und ihre Zahl sagt, dass sie für alle stehen.
 
 Die Formel "aus jedem Stamm und jeder Sprache, jedem Volk und jeder Nation" kommt in wechselnder Reihenfolge siebenmal vor, um die Gesamtheit der Menschheit zu bezeichnen.
 

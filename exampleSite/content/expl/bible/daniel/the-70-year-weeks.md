@@ -12,7 +12,7 @@ sources:
       ref: beale_rev
 ---
 
-The 70 year weeks are one of the most mysterious parts of the Bible, and they've generated no shortage of interesting interpretations about the end times. Let's take a closer look at what this is all about. This article follows the long-standing reading that the seventy weeks lead to the Messiah. Two other readings are common.[^weeks]
+The 70 year weeks are one of the most mysterious parts of the Bible, and they've generated no shortage of interesting interpretations about the end times. Let's take a closer look at what this is all about. This article follows the long-standing reading that the seventy weeks lead to the Messiah. Two other readings are common.[^weeks] There are many ways of counting the weeks, and none of them is without problems. The one set out here is the one I find most convincing.
 
 ## What is a year week
 

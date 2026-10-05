@@ -113,7 +113,7 @@ Bu pasajın göğe alınmayla ne ilgisi var? Varsayım, bu "odaların", imanlıl
 
 Ama "odalar" olarak çevrilen kelimeye yakından bakın: [mone](https://biblehub.com/greek/3438.htm). Bu kelime {{% bible val="Yuhanna'da yalnızca bir kez daha geçer — aynı bölümde — ve orada Tanrı'nın içimizdeki konutuna işaret eder" link="jhn:14,23" lang="tr" %}}. Bu paralellik bambaşka bir tablo çizer: inananların Mesih'te bir konutu, Mesih'in de inananlarda bir konutu vardır. Bu şekilde okunduğunda, buradaki "yer" harfi harfine bir odaya sahip olmaktan çok, bir aileye ait olmaya yakın bir anlam taşır — sıkıntıyı bekleyecek bir bekleme odası değil, Tanrı'nın ailesinin bir parçası olmakla ilgilidir.
 
-## Göğe alınma gerçekleştiğinde
+## Vahiy 4:1 göğe alınma mı?
 
 <a name="a0e7"></a>
 Vahiy'de "göğe alınma" gibi işleyen bir an varsa, bu, henüz gelecekte olan bir noktada değil, 4. bölümün başında yer alır.
@@ -129,6 +129,6 @@ Bunun yerine, {{% bible val="Yeşaya'da" link="isa:6,1-13" lang="tr" %}} ya da {
 ## Sonuç
 
 <a name="bfec"></a>
-Göğe alınma için öne sürülen her argüman, aslında bambaşka bir şeyi betimleyen pasajlara dayanır — bu pasajlar yanlış yorumlanmış, bağlamından koparılmış ya da anahtar kelimelerinin gerçek anlamının ötesinde okunmuştur. Hepsi bir araya getirildiğinde, göğe alınma için Kutsal Kitap'ta hiçbir kanıt yoktur.
+Göğe alınma için öne sürülen her argüman, aslında bambaşka bir şeyi betimleyen pasajlara dayanır — bu pasajlar yanlış yorumlanmış, bağlamından koparılmış ya da anahtar kelimelerinin gerçek anlamının ötesinde okunmuştur. Hepsi bir araya getirildiğinde, sıkıntıdan önce gizli bir göğe alınma için Kutsal Kitap'ta hiçbir kanıt yoktur. İnananlar {{% bible val="Rab'bi karşılamak üzere alınıp götürülecek" link="1th:4,17" lang="tr" %}}, ama O'nun tek ve görünür gelişinde, O'nu burada karşılamak için.
 
 [^apantesis]: Erik Peterson, *Theological Dictionary of the New Testament*, c. 1, s. 380–381; N. T. Wright da böyle anlar. Michael Cosby bu arka planın abartıldığını düşünür (*Bulletin for Biblical Research* 4, 1994, s. 15–34).

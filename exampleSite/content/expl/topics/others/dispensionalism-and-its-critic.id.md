@@ -57,10 +57,10 @@ Beberapa kelemahan mewarnai pendekatan ini:
 - Sudah begitu banyak "kecocokan" yang konon sempurna dengan peristiwa-peristiwa sejarah, masing-masing meyakinkan pada zamannya, yang kemudian diam-diam direvisi seiring berjalannya waktu. Banyaknya kecocokan yang ditinggalkan ini justru menjadi argumen terkuat yang menentang metode yang menghasilkannya.
 - Ramalan-ramalan ini sering dibangun di atas pandangan yang sangat sempit. Ketujuh surat kepada jemaat-jemaat, misalnya, ditafsirkan sebagai tujuh zaman sejarah gereja, dengan klaim bahwa kita sekarang hidup pada zaman terakhir, yaitu zaman Laodikia yang suam-suam kuku. Itu mungkin menggambarkan sebagian gereja Barat, tetapi akan sangat keliru menggambarkan banyak jemaat di seluruh dunia yang saat ini sungguh-sungguh mengalami kesengsaraan.
 
-### Tidak Ada Pengangkatan
+### Tidak Ada Pengangkatan sebelum Kesengsaraan
 
 <a name="7246"></a>
-Mungkin inilah persoalan yang paling jelas dari semuanya: {{% int_link val="tidak ada pengangkatan." link="/expl/topics/others/the-rapture" %}}
+Mungkin inilah persoalan yang paling jelas dari semuanya: {{% int_link val="tidak ada pengangkatan sebelum kesengsaraan, dan tidak ada pengangkatan rahasia." link="/expl/topics/others/the-rapture" %}}
 
 ### Bait Ketiga
 

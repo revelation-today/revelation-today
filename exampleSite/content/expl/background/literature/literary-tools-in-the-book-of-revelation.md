@@ -81,7 +81,7 @@ A unit should also function as an independent, self-contained, complete package,
 - uniqueness in time, place, participants, theme, genre, or speed of action,
 - easy accessibility to the audience,
 - internal compatibility of content,
-- a consistent package size — typically 15–20 pages (large), a Bible chapter (medium), or a single sentence to a few paragraphs (small),
+- a consistent package size — typically 15–20 pages of Hebrew text (large), a Bible chapter (medium), or a single sentence to a few paragraphs (small),
 - a typical count of 7 or 13–14 units, though 3 or 5 are also possible.
 
 ## The arrangement of units
@@ -133,8 +133,8 @@ A parallel pattern:
 Take Jonah as an example. In the tables below, **bold** marks one recurring theme and *italic* marks its paired counterpart, so you can trace how each element in the first half is answered by its match in the second:
 
 - a: Jonah's **commission** and *disobedience* (1:1–3)
-	- b: Jonah and the *Gentile Sailors*: **YHWH is merciful** (1/4–16)
-		- c: **Jonah's Response to YHWH's Mercy**: *Praise* (1–17–2/10)
+	- b: Jonah and the *Gentile Sailors*: **YHWH is merciful** (1:4–16)
+		- c: **Jonah's Response to YHWH's Mercy**: *Praise* (1:17–2:10)
 - a': Jonah's **Recommitment** and *Obedience* (3/1–3a)
 	- b': Jonah and the *pagan Ninevites*: **YHWH is merciful** (3/3b-10)
 		- c': **Jonah's response to YHWH's mercy**: *resentment* (4/1–4)
@@ -228,7 +228,7 @@ Position within a structure can also reinforce or convey meaning. Modern storyte
 Hebrew literature works differently. In linear and parallel structures, the position of prominence is the very last unit, since that's what the audience hears last.
 
 - In an odd-numbered parallel scheme, the unmatched final unit is accentuated by standing outside the pattern, as in a-b-c-a'-b'-c'-d.
-- In a symmetric scheme, the center is usually the position of prominence when the number of units is odd; when it's even, prominence falls instead on the first and last units, as in Ex. 21/2–22/27, where the beginning and end both deal with capital offenses and with kindness to the poor.
+- In a symmetric scheme, the center is usually the position of prominence when the number of units is odd; when it's even, prominence falls instead on the first and last units, as in Ex. 21:2–22:27, where the beginning (21:2–17) and the end (22:18–27) both deal with capital offenses and with kindness to the poor.
 
 That position of prominence can carry several kinds of meaning:
 
