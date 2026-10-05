@@ -89,8 +89,18 @@ This word appears in the very first clause — "{{% bible val="to show his serva
 ## Conclusion
 
 <a name="44ce"></a>
-Taken together, these observations suggest we should default to assuming a symbolic reading wherever the text isn't clearly literal.
+The book says of itself how it speaks: God {{% bible val="made it known by signs" link="rev:1,1" lang="en" %}}. So in Revelation the picture is the normal case, and the plain statement is the exception. That turns the usual rule round: a reader needs a reason to take something literally, not a reason to take it as a picture.[^signs]
+
+Three kinds of sentences give such a reason:
+
+- **Where John speaks about himself and his readers.** {{% bible val="He is on Patmos, and he writes to seven real churches in seven real cities" link="rev:1,9-11" lang="en" %}}.
+- **Where the book explains its own picture.** The picture is a sign; the explanation is plain speech. "{{% bible val="The seven lampstands are the seven churches" link="rev:1,20" lang="en" %}}". "{{% bible val="The fine linen is the righteous deeds of the saints" link="rev:19,8" lang="en" %}}".
+- **Where the picture points to an event.** A sign is a sign *of* something. The Lamb is a picture, and Jesus really died. The sword from his mouth is a picture, and he really will judge. The picture is not a photograph of the event, but the event is real.[^levels]
+
+Everything else is read first as a picture, and the Old Testament usually tells us what the picture means.
 
 And indeed, the book is full of things that are obviously symbolic: the lamb, the dragon, the beast with its heads and horns, the book with seven seals, the sword coming out of the mouth of Jesus, and more.
 
 [^daniel]: "After these things" is the wording of Dan 2:29, 45 in the Greek translation of Theodotion; John uses it again in 4:1. See Beale, pp. 137–139, 152–159.
+[^signs]: Beale, pp. 50–52.
+[^levels]: Beale, p. 53, distinguishes what John saw (the vision), what it refers to in history, and what it means. Against the opposite rule, "literal unless clearly symbolic", see pp. 52–55; his example is the hail of the first trumpet (p. 54).

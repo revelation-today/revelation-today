@@ -91,8 +91,18 @@ Dieses Wort steht gleich im ersten Satzteil — „{{% bible val="um seinen Knec
 ## Schlussfolgerung
 
 <a name="5693"></a>
-Zusammengenommen legen diese Beobachtungen nahe, dass wir überall dort, wo der Text nicht eindeutig wörtlich ist, standardmäßig von einer symbolischen Lesart ausgehen sollten.
+Das Buch sagt selbst, wie es spricht: Gott {{% bible val="hat es durch Zeichen kundgetan" link="rev:1,1" lang="de" %}}. In der Offenbarung ist also das Bild der Normalfall und die schlichte Aussage die Ausnahme. Das kehrt die übliche Regel um: Der Leser braucht einen Grund, etwas wörtlich zu nehmen, nicht einen Grund, es als Bild zu lesen.[^signs]
+
+Drei Arten von Sätzen geben einen solchen Grund:
+
+- **Wo Johannes über sich und seine Leser spricht.** {{% bible val="Er ist auf Patmos und schreibt an sieben wirkliche Gemeinden in sieben wirklichen Städten" link="rev:1,9-11" lang="de" %}}.
+- **Wo das Buch sein eigenes Bild erklärt.** Das Bild ist ein Zeichen; die Erklärung ist schlichte Rede. „{{% bible val="Die sieben Leuchter sind die sieben Gemeinden" link="rev:1,20" lang="de" %}}“. „{{% bible val="Das feine Leinen sind die gerechten Taten der Heiligen" link="rev:19,8" lang="de" %}}“.
+- **Wo das Bild auf ein Ereignis zeigt.** Ein Zeichen ist ein Zeichen *für* etwas. Das Lamm ist ein Bild, und Jesus ist wirklich gestorben. Das Schwert aus seinem Mund ist ein Bild, und er wird wirklich richten. Das Bild ist kein Foto des Ereignisses, aber das Ereignis ist wirklich.[^levels]
+
+Alles andere wird zuerst als Bild gelesen, und meist sagt uns das Alte Testament, was das Bild bedeutet.
 
 Und tatsächlich ist das Buch voll von Dingen, die offensichtlich symbolisch sind: das Lamm, der Drache, das Tier mit seinen Köpfen und Hörnern, das Buch mit den sieben Siegeln, das Schwert, das aus dem Mund Jesu hervorgeht, und mehr.
 
 [^daniel]: „Danach" ist der Wortlaut von Dan 2,29.45 in der griechischen Übersetzung des Theodotion; Johannes verwendet ihn erneut in 4,1. Siehe Beale, S. 137–139, 152–159.
+[^signs]: Beale, S. 50–52.
+[^levels]: Beale, S. 53, unterscheidet, was Johannes sah (die Vision), worauf es sich in der Geschichte bezieht und was es bedeutet. Gegen die umgekehrte Regel „wörtlich, solange nicht eindeutig symbolisch“ siehe S. 52–55; sein Beispiel ist der Hagel der ersten Posaune (S. 54).

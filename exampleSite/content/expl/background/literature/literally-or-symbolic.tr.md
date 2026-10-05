@@ -89,8 +89,18 @@ Bu kelime cümlenin ilk bölümünde geçer — "{{% bible val="yakında olması
 ## Sonuç
 
 <a name="dbba"></a>
-Bir araya getirildiğinde, bu gözlemler metnin açıkça harfi olmadığı her yerde varsayılan olarak sembolik bir okumaya yönelmemiz gerektiğini önermektedir.
+Kitap nasıl konuştuğunu kendisi söyler: Tanrı {{% bible val="onu işaretlerle bildirdi" link="rev:1,1" lang="tr" %}}. Demek ki Vahiy'de resim olağan durumdur, düz ifade ise istisnadır. Bu, alışılmış kuralı tersine çevirir: okurun bir şeyi resim olarak okumak için değil, harfi harfine almak için bir nedene ihtiyacı vardır.[^signs]
+
+Üç tür cümle böyle bir neden verir:
+
+- **Yuhanna'nın kendisinden ve okurlarından söz ettiği yerler.** {{% bible val="Patmos'tadır ve yedi gerçek şehirdeki yedi gerçek kiliseye yazar" link="rev:1,9-11" lang="tr" %}}.
+- **Kitabın kendi resmini açıkladığı yerler.** Resim bir işarettir; açıklama düz sözdür. "{{% bible val="Yedi kandillik yedi kilisedir" link="rev:1,20" lang="tr" %}}". "{{% bible val="İnce keten kutsalların adil işleridir" link="rev:19,8" lang="tr" %}}".
+- **Resmin bir olaya işaret ettiği yerler.** İşaret, bir şeyin işaretidir. Kuzu bir resimdir, ve İsa gerçekten öldü. Ağzından çıkan kılıç bir resimdir, ve O gerçekten yargılayacak. Resim olayın fotoğrafı değildir, ama olay gerçektir.[^levels]
+
+Geri kalan her şey önce resim olarak okunur ve resmin ne anlama geldiğini çoğu zaman Eski Ahit söyler.
 
 Ve gerçekten de kitap, açıkça sembolik olan şeylerle doludur: kuzu, ejderha, başları ve boynuzları olan canavar, yedi mühürlü kitap, İsa'nın ağzından çıkan kılıç ve daha fazlası.
 
 [^daniel]: "Bundan sonra" ifadesi, Dan. 2:29, 45'in Theodotion'un Yunanca çevirisindeki söyleyişidir; Yuhanna bunu 4:1'de yeniden kullanır. Bkz. Beale, s. 137–139, 152–159.
+[^signs]: Beale, s. 50–52.
+[^levels]: Beale, s. 53, Yuhanna'nın gördüğünü (görüm), bunun tarihte neye işaret ettiğini ve ne anlama geldiğini birbirinden ayırır. Karşıt kurala, "açıkça sembolik olmadıkça harfi" kuralına karşı bkz. s. 52–55; örneği ilk borazanın dolusudur (s. 54).

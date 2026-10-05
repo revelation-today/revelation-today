@@ -95,8 +95,18 @@ Kata ini muncul tepat di bagian kalimat yang pertama — "{{% bible val="supaya 
 ## Kesimpulan
 
 <a name="5693"></a>
-Jika digabungkan, pengamatan-pengamatan ini menunjukkan bahwa kita sebaiknya secara baku mengasumsikan pembacaan simbolis di mana pun teksnya tidak jelas-jelas bersifat harfiah.
+Kitab ini sendiri mengatakan bagaimana ia berbicara: Allah {{% bible val="menyatakannya dengan tanda-tanda" link="rev:1,1" lang="ind" %}}. Jadi dalam Kitab Wahyu gambaran adalah hal yang biasa, dan pernyataan yang lugas adalah pengecualian. Ini membalik aturan yang lazim: pembaca memerlukan alasan untuk memahami sesuatu secara harfiah, bukan alasan untuk memahaminya sebagai gambaran.[^signs]
+
+Ada tiga macam kalimat yang memberi alasan seperti itu:
+
+- **Ketika Yohanes berbicara tentang dirinya dan para pembacanya.** {{% bible val="Ia berada di Patmos, dan ia menulis kepada tujuh jemaat yang nyata di tujuh kota yang nyata" link="rev:1,9-11" lang="ind" %}}.
+- **Ketika kitab ini menjelaskan gambarannya sendiri.** Gambaran itu adalah tanda; penjelasannya adalah perkataan yang lugas. "{{% bible val="Ketujuh kaki dian itu ialah ketujuh jemaat" link="rev:1,20" lang="ind" %}}". "{{% bible val="Lenan halus itu adalah perbuatan-perbuatan yang benar dari orang-orang kudus" link="rev:19,8" lang="ind" %}}".
+- **Ketika gambaran itu menunjuk kepada suatu peristiwa.** Tanda adalah tanda *dari* sesuatu. Anak Domba adalah gambaran, dan Yesus sungguh-sungguh mati. Pedang dari mulut-Nya adalah gambaran, dan Ia sungguh-sungguh akan menghakimi. Gambaran itu bukan foto peristiwanya, tetapi peristiwanya nyata.[^levels]
+
+Selebihnya dibaca pertama-tama sebagai gambaran, dan biasanya Perjanjian Lama memberi tahu kita apa arti gambaran itu.
 
 Dan memang, kitab ini penuh dengan hal-hal yang jelas-jelas simbolis: anak domba, sang naga, binatang dengan kepala-kepala dan tanduk-tanduknya, kitab dengan tujuh meterai, pedang yang keluar dari mulut Yesus, dan masih banyak lagi.
 
 [^daniel]: "Sesudah ini" adalah rumusan Dan. 2:29, 45 dalam terjemahan Yunani Theodotion; Yohanes memakainya lagi dalam 4:1. Lihat Beale, hlm. 137–139, 152–159.
+[^signs]: Beale, hlm. 50–52.
+[^levels]: Beale, hlm. 53, membedakan apa yang dilihat Yohanes (penglihatan), apa yang ditunjuknya dalam sejarah, dan apa artinya. Menentang aturan sebaliknya, "harfiah kecuali jelas simbolis", lihat hlm. 52–55; contohnya adalah hujan es pada sangkakala pertama (hlm. 54).
