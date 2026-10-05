@@ -6,7 +6,7 @@ prev: /expl/bible/exodus/the-plagues-in-egypt
 next: /expl/bible/keyword/the-origin-of-babel
 docType: expl
 sources:
-    - pages: 249
+    - pages: 248–251
       ref: beale_rev
     - pages: 188, 194
       ref: aune_rev
@@ -52,3 +52,12 @@ Was ging hier eigentlich vor? Bileam war unglücklich darüber, seinen Auftrag n
 Also gibt er einen Rat ({{% bible val="4. Mose 31,16" link="num:31,16" lang="de" %}}): Ladet Israel zu einem Fest ein. Dadurch lockt er Israel von Gott weg, hin zu den midianitischen Frauen.
 
 Es war Bileams Stolz, der seinen eigenen Untergang herbeiführte, aber es war Moses Führung — oder der Mangel daran in diesem Moment —, die den Tod so vieler Israeliten zur Folge hatte.
+
+## In der Offenbarung
+
+Diese Geschichte hat Jesus vor Augen, als er an Pergamon schreibt. Die Gemeinde dort hat dem Druck von außen standgehalten; {{% bible val="einer aus ihrer Mitte ist für seinen Glauben getötet worden" link="rev:2,13" lang="de" %}}. Auch Bileam konnte Israel von außen nicht besiegen. Die Gefahr kam durch eine Einladung.
+
+In Pergamon war die Einladung das Fest der Handwerkergilde zu Ehren ihres Gottes. {{% bible val="Einige in der Gemeinde lehrten, ein Gläubiger könne hingehen" link="rev:2,14" lang="de" %}}.[^pergamon] Und wie bei Mose lag das Problem nicht nur bei den Lehrern, sondern bei den Leitern, die es laufen ließen. Darum ruft Jesus die Gemeinde zur Umkehr, sonst kommt er selbst und kämpft „{{% bible val="mit dem Schwert meines Mundes" link="rev:2,16" lang="de" %}}“. {{% bible val="Einst stand der Engel Bileam mit gezücktem Schwert im Weg" link="num:22,23" lang="de" %}}, und am Ende {{% bible val="starb Bileam durch das Schwert" link="num:31,8" lang="de" %}}.[^sword]
+
+[^pergamon]: Beale, S. 248–249.
+[^sword]: Beale, S. 250–251.

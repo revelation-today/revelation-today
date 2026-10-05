@@ -7,7 +7,7 @@ next: /expl/bible/creation/the-story-of-uzzah
 docType: expl
 sources:
     - ref: beale_dwell
-    - pages: 236, 1081
+    - pages: 236, 1075–1076, 1081
       ref: beale_rev
 ---
 
@@ -48,8 +48,14 @@ Dalam Perjanjian Baru, {{% bible val="Yesus sendirilah bait Allah itu" link="jhn
 
 Dengan kematian-Nya, {{% bible val="bait Allah itu menjadi gereja, sebab gereja adalah tubuh Kristus" link="1co:3,16" lang="ind" %}}.
 
-Dan dalam Kitab Wahyu, gereja tampil sebagai Mempelai Kristus, yang juga adalah Yerusalem Baru — tempat di mana persekutuan antara Allah dan manusia, akhirnya, tidak lagi terganggu.
+## Dalam Kitab Wahyu
+
+Kitab Wahyu membawa seluruh garis ini sampai ke ujungnya. Gereja tampil sebagai Mempelai Kristus, yang juga adalah Yerusalem baru, dan {{% bible val="kota itu berbentuk kubus" link="rev:21,16" lang="ind" %}}. Hanya ada satu ruang lain dalam Alkitab yang berbentuk demikian: {{% bible val="Ruang Mahakudus" link="1ki:6,20" lang="ind" %}}, ruang tempat Allah diam dan yang hanya boleh dimasuki satu orang sekali setahun.[^cube] Sekarang seluruh kota itu adalah ruang tersebut, dan seluruh umat Allah tinggal di dalamnya.
+
+Itulah sebabnya Yohanes tidak melihat Bait Suci di sana: "{{% bible val="Tuhan, Allah Yang Mahakuasa, adalah Bait Sucinya, demikian juga Anak Domba itu" link="rev:21,22" lang="ind" %}}". {{% bible val="Sebuah sungai mengalir dari takhta, dan di tepinya tumbuh pohon kehidupan" link="rev:22,1-2" lang="ind" %}}. Eden, Bait Suci, dan kota itu telah menjadi satu tempat, dan persekutuan antara Allah dan umat-Nya akhirnya tidak lagi terganggu.
 
 ## Selidiki Lebih Lanjut
 
 {{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}
+
+[^cube]: Beale, hlm. 1075–1076.

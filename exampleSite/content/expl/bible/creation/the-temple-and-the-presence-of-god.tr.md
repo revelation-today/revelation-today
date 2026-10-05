@@ -7,7 +7,7 @@ next: /expl/bible/creation/the-story-of-uzzah
 docType: expl
 sources:
     - ref: beale_dwell
-    - pages: 236, 1081
+    - pages: 236, 1075–1076, 1081
       ref: beale_rev
 ---
 
@@ -48,8 +48,14 @@ Yeni Antlaşma'da {{% bible val="İsa'nın kendisi tapınaktır" link="jhn:2,19-
 
 O'nun ölümüyle birlikte, {{% bible val="tapınak kiliseye dönüşür, çünkü kilise Mesih'in bedenidir" link="1co:3,16" lang="tr" %}}.
 
-Ve Vahiy kitabında kilise, aynı zamanda Yeni Yeruşalim de olan Mesih'in Gelini olarak görünür — Tanrı'yla insan arasındaki paydaşlığın, sonunda, hiç bozulmadan sürdüğü yer.
+## Vahiy'de
+
+Vahiy bütün bu çizgiyi sonuna ulaştırır. Kilise, aynı zamanda yeni Yeruşalim de olan Mesih'in Gelini olarak görünür ve {{% bible val="şehir bir küptür" link="rev:21,16" lang="tr" %}}. Kutsal Kitap'ta bu biçime sahip yalnızca bir yer daha vardır: {{% bible val="Kutsalların Kutsalı" link="1ki:6,20" lang="tr" %}}, Tanrı'nın yaşadığı ve yılda bir kez tek bir kişinin girebildiği oda.[^cube] Artık bütün şehir o odadır ve Tanrı'nın bütün halkı onun içinde yaşar.
+
+Yuhanna'nın orada tapınak görmemesinin nedeni budur: "{{% bible val="Her Şeye Gücü Yeten Rab Tanrı ve Kuzu, kentin tapınağıdır" link="rev:21,22" lang="tr" %}}". {{% bible val="Tahttan bir ırmak akar ve kıyısında yaşam ağacı büyür" link="rev:22,1-2" lang="tr" %}}. Aden, tapınak ve şehir tek bir yer olmuştur ve Tanrı ile halkı arasındaki paydaşlık sonunda hiç bozulmadan sürer.
 
 ## Daha derine inmek isterseniz
 
 {{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}
+
+[^cube]: Beale, s. 1075–1076.

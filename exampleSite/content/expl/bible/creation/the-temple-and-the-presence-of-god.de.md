@@ -7,7 +7,7 @@ next: /expl/bible/creation/the-story-of-uzzah
 docType: expl
 sources:
     - ref: beale_dwell
-    - pages: 236, 1081
+    - pages: 236, 1075–1076, 1081
       ref: beale_rev
 ---
 
@@ -54,8 +54,14 @@ Im Neuen Testament ist {{% bible val="Jesus selbst der Tempel" link="jhn:2,19-22
 
 Mit seinem Tod {{% bible val="wird die Gemeinde zum Tempel, denn die Gemeinde ist der Leib Christi" link="1co:3,16" lang="de" %}}.
 
-Und im Buch der Offenbarung erscheint die Gemeinde als die Braut Christi, die zugleich das Neue Jerusalem ist — der Ort, an dem die Gemeinschaft zwischen Gott und Mensch endlich ungestört ist.
+## In der Offenbarung
+
+Die Offenbarung führt die ganze Linie an ihr Ziel. Die Gemeinde erscheint als die Braut Christi, die zugleich das neue Jerusalem ist, und {{% bible val="die Stadt ist ein Würfel" link="rev:21,16" lang="de" %}}. Nur ein anderer Raum in der Bibel hat diese Form: {{% bible val="das Allerheiligste" link="1ki:6,20" lang="de" %}}, der Raum, in dem Gott wohnte und den ein einziger Mensch einmal im Jahr betreten durfte.[^cube] Jetzt ist die ganze Stadt dieser Raum, und Gottes ganzes Volk wohnt darin.
+
+Darum sieht Johannes dort keinen Tempel: „{{% bible val="Der Herr, der allmächtige Gott, ist ihr Tempel, er und das Lamm" link="rev:21,22" lang="de" %}}“. {{% bible val="Ein Strom fließt vom Thron aus, und an ihm wächst der Baum des Lebens" link="rev:22,1-2" lang="de" %}}. Eden, der Tempel und die Stadt sind ein Ort geworden, und die Gemeinschaft zwischen Gott und seinem Volk ist endlich ungestört.
 
 ## Tiefer eintauchen
 
 {{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}
+
+[^cube]: Beale, S. 1075–1076.

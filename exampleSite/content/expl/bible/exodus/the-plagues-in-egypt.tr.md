@@ -15,7 +15,7 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
-    - pages: 465, 481, 833
+    - pages: 465, 481, 717, 833
       ref: beale_rev
     - pages: "vol. 13: 371"
       ref: tdot
@@ -143,8 +143,16 @@ Onuncu bela gelmeden önce {{% bible val="Fısıh tanıtılır" link="exo:12,1-1
 
 Son olarak, kalıcı bir hatırlatıcı olarak {{% bible val="el ve alın üzerindeki işaret" link="exo:13,8-9" lang="tr" %}} tanıtılır: Tanrı İsrail’i Mısır’dan çıkardı, Mısır’ın tanrılarından daha güçlüdür ve İsrail bunu asla unutmamalıdır. Bir başka deyişle bu işaret, Tanrı’ya bağlılığın bir simgesidir.
 
+## Vahiy'de
+
+Belalar borazanlarda ve taslarda geri döner: kana dönen su, dolu, karanlık, çekirgeler, çıbanlar, kurbağalar. Ve Mısır'da olduğu gibi, {{% bible val="Tanrı'nın halkı bunların ortasında korunur" link="rev:9,4" lang="tr" %}}.
+
+İşaret de geri döner. İsrail, Tanrı'nın kurtarışını "{{% bible val="elinde bir belirti, alnında bir anma işareti olarak" link="exo:13,9" lang="tr" %}}" taşıyacaktı: alın inandığın şey için, el yaptığın şey için. Vahiy'de canavar bunu taklit eder. {{% bible val="Onun işareti sağ ele ya da alna konur" link="rev:13,16" lang="tr" %}}; Tanrı'nın halkı ise {{% bible val="O'nun adını alınlarında taşır" link="rev:14,1" lang="tr" %}}.[^mark] Öyleyse Çıkış'ın sorusu hâlâ aynı sorudur: kimin işaretini taşıyorsun?
+
 [^heqet]: TDOT, c. 13, s. 371; Heket ve diriliş için Beale, s. 833.
 
 [^gods]: Beale, s. 465.
 
 [^witness]: Bauckham, *Climax*, s. 277–278.
+
+[^mark]: Beale, s. 717.

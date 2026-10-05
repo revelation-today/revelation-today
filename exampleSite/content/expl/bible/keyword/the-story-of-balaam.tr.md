@@ -6,7 +6,7 @@ prev: /expl/bible/exodus/the-plagues-in-egypt
 next: /expl/bible/keyword/the-origin-of-babel
 docType: expl
 sources:
-    - pages: 249
+    - pages: 248–251
       ref: beale_rev
     - pages: 188, 194
       ref: aune_rev
@@ -52,3 +52,12 @@ Peki gerçekte neler oluyordu? Balam, görevini tamamlayıp Moav kralı Balak’
 Böylece bir öğüt verir ({{% bible val="Çölde Sayım 31:16" link="num:31,16" lang="tr" %}}): İsrail’i bir şölene çağırın. Bu yolla İsrail’i Tanrı’dan uzaklaştırıp Midyanlı kadınlara yöneltir.
 
 Onu alaşağı eden kendi gururuydu, ama bunca İsrailli’nin ölümüne yol açan da Musa’nın liderliği — ya da o anda liderlikten yoksun kalışıydı.
+
+## Vahiy'de
+
+İsa Pergamon'a yazarken aklında bu öykü vardır. Oradaki kilise dışarıdan gelen baskıya dayanmıştır; {{% bible val="üyelerinden biri imanı uğruna öldürülmüştür" link="rev:2,13" lang="tr" %}}. Balam da İsrail'i dışarıdan yenememişti. Tehlike bir davetle geldi.
+
+Pergamon'da bu davet, loncanın kendi tanrısı onuruna düzenlediği şölendi. {{% bible val="Kilisedeki bazıları bir inanlının oraya gidebileceğini öğretiyordu" link="rev:2,14" lang="tr" %}}.[^pergamon] Ve Musa'da olduğu gibi, sorun yalnızca öğretenler değil, buna göz yuman önderlerdi. Bu yüzden İsa kiliseyi tövbeye çağırır; yoksa kendisi gelip "{{% bible val="ağzımdaki kılıçla" link="rev:2,16" lang="tr" %}}" savaşacaktır. {{% bible val="Bir zamanlar melek, yalın kılıçla Balam'ın yolunu kesmişti" link="num:22,23" lang="tr" %}}; sonunda da {{% bible val="Balam kılıçla öldü" link="num:31,8" lang="tr" %}}.[^sword]
+
+[^pergamon]: Beale, s. 248–249.
+[^sword]: Beale, s. 250–251.

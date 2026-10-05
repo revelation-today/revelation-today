@@ -15,7 +15,7 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
-    - pages: 465, 481, 833
+    - pages: 465, 481, 717, 833
       ref: beale_rev
     - pages: "vol. 13: 371"
       ref: tdot
@@ -143,8 +143,16 @@ Sebelum tulah kesepuluh menghantam, {{% bible val="Paskah diperkenalkan" link="e
 
 Akhirnya, {{% bible val="tanda pada tangan dan dahi" link="exo:13,8-9" lang="ind" %}} diperkenalkan sebagai pengingat abadi: Allah telah membawa Israel keluar dari Mesir, Ia lebih berkuasa daripada para dewa Mesir, dan Israel tidak boleh melupakannya. Tanda itu, dengan kata lain, adalah sebuah tanda kesetiaan kepada Allah.
 
+## Dalam Kitab Wahyu
+
+Tulah-tulah itu muncul kembali dalam sangkakala dan cawan: air menjadi darah, hujan es, kegelapan, belalang, bisul, katak. Dan seperti di Mesir, {{% bible val="umat Allah dilindungi di tengah-tengahnya" link="rev:9,4" lang="ind" %}}.
+
+Tanda itu pun muncul kembali. Israel harus membawa penyelamatan Allah "{{% bible val="sebagai tanda pada tanganmu dan sebagai peringatan di dahimu" link="exo:13,9" lang="ind" %}}": dahi untuk apa yang kaupercayai, tangan untuk apa yang kaulakukan. Dalam Kitab Wahyu binatang itu menirunya. {{% bible val="Tandanya dikenakan pada tangan kanan atau pada dahi" link="rev:13,16" lang="ind" %}}, sedangkan umat Allah membawa {{% bible val="nama-Nya pada dahi mereka" link="rev:14,1" lang="ind" %}}.[^mark] Jadi pertanyaan dalam peristiwa keluaran itu masih tetap pertanyaannya: tanda siapakah yang kaubawa?
+
 [^heqet]: TDOT, jld. 13, hlm. 371; tentang Heket dan kebangkitan, Beale, hlm. 833.
 
 [^gods]: Beale, hlm. 465.
 
 [^witness]: Bauckham, *Climax*, hlm. 277–278.
+
+[^mark]: Beale, hlm. 717.

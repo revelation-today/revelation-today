@@ -15,7 +15,7 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
-    - pages: 465, 481, 833
+    - pages: 465, 481, 717, 833
       ref: beale_rev
     - pages: "vol. 13: 371"
       ref: tdot
@@ -130,8 +130,16 @@ Before the tenth plague strikes, the {{% bible val="Passover is introduced" link
 
 Finally, the {{% bible val="sign on the hand and forehead" link="exo:13,8-9" lang="en" %}} is introduced as a lasting reminder: God brought Israel out of Egypt, He is more powerful than the Egyptian gods, and Israel must not forget it. The sign, in other words, is a mark of loyalty to God.
 
+## In Revelation
+
+The plagues come back in the trumpets and the bowls: water turned to blood, hail, darkness, locusts, sores, frogs. And as in Egypt, {{% bible val="God's people are kept safe in the middle of them" link="rev:9,4" lang="en" %}}.
+
+The sign comes back too. Israel was to carry God's rescue "{{% bible val="as a sign on your hand and a reminder on your forehead" link="exo:13,9" lang="en" %}}": the forehead for what you believe, the hand for what you do. In Revelation the beast copies it. {{% bible val="Its mark goes on the right hand or the forehead" link="rev:13,16" lang="en" %}}, and God's people carry {{% bible val="his name on their foreheads" link="rev:14,1" lang="en" %}} instead.[^mark] So the question of the Exodus is still the question: whose sign do you carry?
+
 [^heqet]: TDOT, vol. 13, p. 371; on Heqet and resurrection, Beale, p. 833.
 
 [^gods]: Beale, p. 465.
 
 [^witness]: Bauckham, *Climax*, pp. 277–278.
+
+[^mark]: Beale, p. 717.

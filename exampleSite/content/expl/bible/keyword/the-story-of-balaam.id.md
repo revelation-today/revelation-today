@@ -6,7 +6,7 @@ prev: /expl/bible/exodus/the-plagues-in-egypt
 next: /expl/bible/keyword/the-origin-of-babel
 docType: expl
 sources:
-    - pages: 249
+    - pages: 248–251
       ref: beale_rev
     - pages: 188, 194
       ref: aune_rev
@@ -52,3 +52,12 @@ Jadi apa yang sebenarnya terjadi? Bileam tidak senang karena ia tidak dapat meny
 Maka ia memberi nasihat ({{% bible val="Bilangan 31:16" link="num:31,16" lang="ind" %}}): undanglah Israel ke sebuah pesta. Melalui pesta itu ia menjauhkan Israel dari Allah menuju perempuan-perempuan Midian.
 
 Kesombongan Bileamlah yang membawa kehancurannya sendiri, tetapi kepemimpinan Musa — atau kurangnya kepemimpinan pada saat itu — yang menyebabkan kematian begitu banyak orang Israel.
+
+## Dalam Kitab Wahyu
+
+Kisah inilah yang ada dalam pikiran Yesus ketika Ia menulis kepada Pergamus. Jemaat di sana telah bertahan terhadap tekanan dari luar; {{% bible val="salah seorang anggotanya dibunuh karena imannya" link="rev:2,13" lang="ind" %}}. Bileam pun tidak dapat mengalahkan Israel dari luar. Bahayanya datang melalui sebuah undangan.
+
+Di Pergamus undangan itu adalah pesta perkumpulan dagang, yang diadakan untuk menghormati dewanya. {{% bible val="Sebagian orang dalam jemaat mengajarkan bahwa orang percaya boleh ikut" link="rev:2,14" lang="ind" %}}.[^pergamon] Dan seperti pada zaman Musa, masalahnya bukan hanya para pengajar itu, melainkan para pemimpin yang membiarkannya. Karena itu Yesus memanggil jemaat itu untuk bertobat; kalau tidak, Ia sendiri akan datang dan berperang "{{% bible val="dengan pedang yang di mulut-Ku" link="rev:2,16" lang="ind" %}}". {{% bible val="Dahulu malaikat menghadang Bileam dengan pedang terhunus" link="num:22,23" lang="ind" %}}, dan pada akhirnya {{% bible val="Bileam mati oleh pedang" link="num:31,8" lang="ind" %}}.[^sword]
+
+[^pergamon]: Beale, hlm. 248–249.
+[^sword]: Beale, hlm. 250–251.

@@ -6,7 +6,7 @@ prev: /expl/bible/exodus/the-plagues-in-egypt
 next: /expl/bible/keyword/the-origin-of-babel
 docType: expl
 sources:
-    - pages: 249
+    - pages: 248–251
       ref: beale_rev
     - pages: 188, 194
       ref: aune_rev
@@ -52,3 +52,12 @@ So what was actually going on? Balaam was unhappy that he could not finish his c
 So he gives advice ({{% bible val="Numbers 31:16" link="num:31,16" lang="en" %}}): invite Israel to a feast. Through it he draws Israel away from God toward the Midianite women.
 
 It was Balaam’s pride that brought about his own downfall, but it was Moses’ leadership — or lack of it in that moment — that led to the death of so many Israelites.
+
+## In Revelation
+
+This is the story Jesus has in mind when he writes to Pergamon. The church there has stood firm under pressure from outside; {{% bible val="one of its members has been killed for his faith" link="rev:2,13" lang="en" %}}. Balaam could not defeat Israel from outside either. The danger came through an invitation.
+
+In Pergamon the invitation was the feast of the trade guild, held in honour of its god. {{% bible val="Some in the church taught that a believer could go" link="rev:2,14" lang="en" %}}.[^pergamon] And as with Moses, the trouble was not only the teachers but the leaders who let it go on. So Jesus tells the church to repent, or he will come himself and fight "{{% bible val="with the sword of my mouth" link="rev:2,16" lang="en" %}}". {{% bible val="The angel once stood in Balaam's way with a drawn sword" link="num:22,23" lang="en" %}}, and in the end {{% bible val="Balaam died by the sword" link="num:31,8" lang="en" %}}.[^sword]
+
+[^pergamon]: Beale, pp. 248–249.
+[^sword]: Beale, pp. 250–251.

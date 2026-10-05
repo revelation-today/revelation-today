@@ -15,7 +15,7 @@ deeper:
 sources:
     - pages: 38–80
       ref: sarna_exo
-    - pages: 465, 481, 833
+    - pages: 465, 481, 717, 833
       ref: beale_rev
     - pages: "vol. 13: 371"
       ref: tdot
@@ -141,8 +141,16 @@ Bevor die zehnte Plage zuschlägt, wird das {{% bible val="Passah eingeführt" l
 
 Schließlich wird das {{% bible val="Zeichen an Hand und Stirn" link="exo:13,8-9" lang="de" %}} als bleibende Erinnerung eingeführt: Gott hat Israel aus Ägypten herausgeführt, er ist mächtiger als die ägyptischen Götter, und Israel darf das nicht vergessen. Das Zeichen ist mit anderen Worten ein Zeichen der Treue zu Gott.
 
+## In der Offenbarung
+
+Die Plagen kehren in den Posaunen und den Schalen wieder: Wasser wird zu Blut, Hagel, Finsternis, Heuschrecken, Geschwüre, Frösche. Und wie in Ägypten {{% bible val="wird Gottes Volk mitten darin bewahrt" link="rev:9,4" lang="de" %}}.
+
+Auch das Zeichen kehrt wieder. Israel sollte Gottes Rettung tragen „{{% bible val="als Zeichen auf deiner Hand und als Merkzeichen auf deiner Stirn" link="exo:13,9" lang="de" %}}“: die Stirn für das, was du glaubst, die Hand für das, was du tust. In der Offenbarung ahmt das Tier es nach. {{% bible val="Sein Malzeichen kommt auf die rechte Hand oder auf die Stirn" link="rev:13,16" lang="de" %}}, und Gottes Volk trägt stattdessen {{% bible val="seinen Namen auf der Stirn" link="rev:14,1" lang="de" %}}.[^mark] Die Frage des Auszugs ist also immer noch die Frage: Wessen Zeichen trägst du?
+
 [^heqet]: TDOT, Bd. 13, S. 371; zu Heqet und Auferstehung Beale, S. 833.
 
 [^gods]: Beale, S. 465.
 
 [^witness]: Bauckham, *Climax*, S. 277–278.
+
+[^mark]: Beale, S. 717.

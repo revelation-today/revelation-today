@@ -7,7 +7,7 @@ next: /expl/bible/creation/the-story-of-uzzah
 docType: expl
 sources:
     - ref: beale_dwell
-    - pages: 236, 1081
+    - pages: 236, 1075–1076, 1081
       ref: beale_rev
 ---
 
@@ -45,9 +45,14 @@ In the New Testament, {{% bible val="Jesus himself is the temple" link="jhn:2,19
 
 With his death, {{% bible val="the temple becomes the church, since the church is the body of Christ" link="1co:3,16" lang="en" %}}.
 
-And in the book of Revelation, the church appears as the Bride of Christ, who is also the New Jerusalem — the place where fellowship between God and man is, at last, undisturbed.
+## In Revelation
+
+Revelation brings the whole line to its end. The church appears as the Bride of Christ, who is also the new Jerusalem, and {{% bible val="the city is a cube" link="rev:21,16" lang="en" %}}. Only one other space in the Bible has that shape: {{% bible val="the Holy of Holies" link="1ki:6,20" lang="en" %}}, the room where God lived and where one man could enter once a year.[^cube] Now the whole city is that room, and all God's people live in it.
+
+That is why John sees no temple there: "{{% bible val="the Lord God the Almighty and the Lamb are its temple" link="rev:21,22" lang="en" %}}". {{% bible val="A river runs from the throne, and the tree of life grows beside it" link="rev:22,1-2" lang="en" %}}. Eden, the temple and the city have become one place, and the fellowship between God and his people is at last undisturbed.
 
 ## Dig deeper
 
 {{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}
 
+[^cube]: Beale, pp. 1075–1076.
