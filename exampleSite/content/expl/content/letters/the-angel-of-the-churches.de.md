@@ -23,7 +23,7 @@ Die Offenbarung wiederholt immer wieder dieselbe rätselhafte Anweisung: "Schrei
 ## Unwahrscheinliche Deutungen
 
 <a name="e98c"></a>
-Könnten die "Engel der Gemeinden" Schutzengel sein, die über jede Gemeinde wachen? Wohl kaum - es wäre merkwürdig, wenn Jesus Johannes beauftragen würde, an die Engel selbst zu schreiben, obwohl es weit direktere Wege gäbe, wie Jesus mit ihnen kommunizieren könnte. Außerdem unterscheidet Johannes im Brief an Thyatira den Engel ausdrücklich von den einzelnen Gläubigen: Er sagt "den Übrigen in Thyatira", dass ihnen keine weitere Last auferlegt wird ({{% bible val="Ich will euch, den Übrigen, die diese Lehre nicht angenommen haben, keine andere Last auferlegen" link="rev:2,24-25" lang="de" %}}) — eine Sprache, die nur Sinn ergibt, wenn „der Engel" und „die Mitglieder" nicht strikt dieselben Personen sind.
+Könnten die "Engel der Gemeinden" Schutzengel sein, die über jede Gemeinde wachen? Wohl kaum - es wäre merkwürdig, wenn Jesus Johannes beauftragen würde, an die Engel selbst zu schreiben, obwohl es weit direktere Wege gäbe, wie Jesus mit ihnen kommunizieren könnte.
 
 Könnte "Engel" stattdessen einen menschlichen *Leiter* meinen? Auch das erklärt das Muster nicht vollständig. Es stimmt zwar, dass Propheten anderswo Leiter für das Versagen ihres Volkes verantwortlich machen (Hesekiel 34; Jeremia 23), sodass dieser Einwand allein die Deutung nicht ausschließen kann. Aber die Briefe mischen eine Anrede in der Einzahl ("Ich kenne deine Werke ...") mit Konsequenzen in der Mehrzahl, die gewöhnliche Mitglieder treffen ("der Teufel wird einige von *euch* ins Gefängnis werfen", Offb. 2,10) — was besser zu einer Deutung als Gesamtheit passt als zu einem einzelnen Amtsträger.
 

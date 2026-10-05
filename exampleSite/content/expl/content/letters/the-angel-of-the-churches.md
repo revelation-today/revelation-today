@@ -23,7 +23,7 @@ Revelation keeps repeating the same puzzling instruction: "Write to the angel of
 ## Unlikely interpretations
 
 <a name="eda4"></a>
-Could the "angels of the churches" be guardian angels watching over each congregation? Probably not — it would be strange for Jesus to have John write to the angels themselves, when there are far more direct ways for Jesus to communicate with them. Besides, in the letter to Thyatira John distinguishes the angel from individual believers directly: he tells "the rest of you in Thyatira" that no further burden will be placed on them ({{% bible val="I will not place any other burden on the rest of you who have not followed this teaching" link="rev:2,24-25" lang="en" %}}) — language that only makes sense if "the angel" and "the members" are not strictly identical individuals.
+Could the "angels of the churches" be guardian angels watching over each congregation? Probably not — it would be strange for Jesus to have John write to the angels themselves, when there are far more direct ways for Jesus to communicate with them.
 
 Could "angel" instead mean a human *leader*? That doesn't fully explain the pattern either. It's true that prophets elsewhere do hold leaders responsible for their people's failures (Ezekiel 34; Jeremiah 23), so this alone can't rule the reading out. But the letters mix singular address ("I know your works...") with plural consequences that fall on ordinary members ("the devil will put some of *you* in prison," Revelation 2:10) in a way that fits a corporate reading more naturally than an individual office-holder.
 

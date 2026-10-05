@@ -23,7 +23,7 @@ Vahiy kitabı boyunca aynı şaşırtıcı buyruk tekrarlanır: "Kilisenin mele�
 ## Olası olmayan yorumlar
 
 <a name="7774"></a>
-"Kiliselerin melekleri" her cemaati gözeten koruyucu melekler olabilir mi? Muhtemelen hayır — İsa'nın, kendileriyle iletişim kurmanın çok daha doğrudan yolları varken, Yuhanna'ya meleklerin kendisine yazdırması garip olurdu. Üstelik Yuhanna, Tiyatira'ya yazdığı mektupta meleği tek tek imanlılardan doğrudan ayırt eder: "Tiyatira'daki geri kalanlarınıza" onlara başka hiçbir yük yüklenmeyeceğini söyler ({{% bible val="Sizi, yani bu öğretiyi izlemeyen geri kalanlarınızı, başka bir yükle yüklemeyeceğim" link="rev:2,24-25" lang="tr" %}}) — bu dil, ancak "melek" ile "üyeler"in birebir aynı kişiler olmadığı durumda anlam kazanır.
+"Kiliselerin melekleri" her cemaati gözeten koruyucu melekler olabilir mi? Muhtemelen hayır — İsa'nın, kendileriyle iletişim kurmanın çok daha doğrudan yolları varken, Yuhanna'ya meleklerin kendisine yazdırması garip olurdu.
 
 Peki "melek" insan bir *önder* anlamına mı geliyor? Bu da örüntüyü tam olarak açıklamıyor. Peygamberlerin başka yerlerde önderleri halklarının başarısızlıklarından sorumlu tuttuğu doğrudur (Hezekiel 34; Yeremya 23), dolayısıyla bu tek başına bu okumayı devre dışı bırakamaz. Ama mektuplar, tekil hitabı ("işlerini biliyorum...") sıradan üyeleri etkileyen çoğul sonuçlarla ("İblis aranızdan bazılarını hapse atacak," Vahiy 2:10) bir araya getirir; bu da tek bir görevliden çok, bütün bir topluluk okumasına daha doğal biçimde uyar.
 
