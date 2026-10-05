@@ -5,6 +5,9 @@ base: /quick/bible/creation
 prev: /expl/bible/creation/the-temple-and-the-presence-of-god
 next: /expl/bible/exodus/the-story-before-the-exodus
 docType: expl
+sources:
+    - pages: 619
+      ref: beale_rev
 ---
 
 Belki de Uzza'nın öyküsünü, ve Tanrı'nın onu antlaşma sandığını kurtarmaya çalıştığı için nasıl vurup öldürdüğünü hiç duymamışsınızdır. Tuhaf bir öyküdür ve bugün bizimle hiçbir ilgisi yokmuş gibi görünebilir. Ama vardır — ve nedeni sizi şaşırtabilir. Adım adım ilerleyelim.
@@ -34,3 +37,13 @@ Görünüşe göre Tanrı, sandığı arabadan kaydırarak bu düzenlemeden kurt
 Bugün bile Tanrı bize yaklaşmanın yollarını arıyor. Biz ise, kendi payımıza, O'nu kutulara kapatıp kolumuzun uzunluğunda tutmanın pek çok yolunu buluyoruz.
 
 Tanrı bu kutulardan çıkmak istiyor, ama biz genellikle — kendimize bunun O'nun kendi iyiliği için olduğunu söyleyerek — O'nu durdurmak için elimizden geleni yapıyoruz. Bu öykünün gösterdiği gibi, Tanrı bize yaklaşmak uğruna değerli saydığımız bir şeyi kırmaya isteklidir ve sonunda ona bu kadar sıkı tutunmakla yanıldığımız ortaya çıkar.
+
+## Vahiy'de
+
+Sandık bir perdenin ardında dururdu. Oraya yalnızca başkâhin girerdi, o da {{% bible val="yılda bir kez" link="heb:9,7" lang="tr" %}}. İsa öldüğünde {{% bible val="tapınağın perdesi ikiye yırtıldı" link="mat:27,51" lang="tr" %}}.
+
+Vahiy bunun ne anlama geldiğini gösterir. Yedinci borazan çalındığında "{{% bible val="Tanrı'nın gökteki tapınağı açıldı ve tapınakta O'nun antlaşma sandığı göründü" link="rev:11,19" lang="tr" %}}". Gizli olan artık açıktadır. Bu görüntünün ne anlama geldiği, onu kimin gördüğüne bağlıdır. İsa'ya ait olanlar için Tanrı'ya giden yol açıktır ve O, halkının arasındadır. O'na karşı savaşanlar için ise aynı yakınlık şimşekler, gök gürlemeleri ve depremle gelir.[^ark]
+
+Sonunda ne perde kalır, ne sandık, ne de tapınak: "{{% bible val="Tanrı'nın konutu insanların arasındadır" link="rev:21,3" lang="tr" %}}". {{% int_link val="Tapınak ve Tanrı'nın varlığı" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} öyküsü baştan beri buraya doğru ilerliyordu.
+
+[^ark]: Beale, s. 619: 11:19'daki sandık yargıyı, aynı zamanda Tanrı'nın halkı arasındaki lütufkâr varlığını gösterir.

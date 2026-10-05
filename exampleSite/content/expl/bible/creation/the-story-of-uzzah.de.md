@@ -5,6 +5,9 @@ base: /quick/bible/creation
 prev: /expl/bible/creation/the-temple-and-the-presence-of-god
 next: /expl/bible/exodus/the-story-before-the-exodus
 docType: expl
+sources:
+    - pages: 619
+      ref: beale_rev
 ---
 
 Vielleicht hast du noch nie die Geschichte von Usa gehört — und davon, wie Gott ihn erschlug, weil er versuchte, die Bundeslade zu retten. Es ist eine merkwürdige Geschichte, die für uns heute völlig belanglos erscheinen kann. Ist sie aber nicht — und der Grund dafür mag dich überraschen. Gehen wir es Schritt für Schritt durch.
@@ -34,3 +37,13 @@ Gott, so scheint es, wollte aus dieser Ordnung ausbrechen, indem er die Bundesla
 Auch heute noch sucht Gott Wege, uns nahezukommen. Und wir wiederum haben reichlich Möglichkeiten, ihn einzusperren und auf Distanz zu halten.
 
 Gott will aus diesen Kisten ausbrechen, aber wir geben oft unser Bestes, um ihn davon abzuhalten — angeblich zu seinem eigenen Besten. Wie diese Geschichte zeigt, ist Gott bereit, etwas zu zerbrechen, das wir für kostbar halten, um uns nahezukommen, und es stellt sich heraus, dass wir falsch daran taten, so fest daran festzuhalten.
+
+## In der Offenbarung
+
+Die Lade stand hinter einem Vorhang. Nur der Hohepriester ging dort hinein, und nur {{% bible val="einmal im Jahr" link="heb:9,7" lang="de" %}}. Als Jesus starb, {{% bible val="zerriss der Vorhang im Tempel in zwei Stücke" link="mat:27,51" lang="de" %}}.
+
+Die Offenbarung zeigt, was das bedeutet. Als die siebte Posaune ertönt, heißt es: „{{% bible val="Der Tempel Gottes im Himmel wurde geöffnet, und die Lade seines Bundes wurde in seinem Tempel sichtbar" link="rev:11,19" lang="de" %}}“. Was verborgen war, liegt nun offen. Was dieser Anblick bedeutet, hängt davon ab, wer ihn sieht. Für die, die zu Jesus gehören, ist der Weg zu Gott offen, und er ist bei seinem Volk. Für die, die gegen ihn kämpfen, kommt dieselbe Nähe mit Blitzen, Donner und Erdbeben.[^ark]
+
+Und am Ende gibt es keinen Vorhang, keinen Kasten und überhaupt keinen Tempel mehr: „{{% bible val="Die Wohnung Gottes ist bei den Menschen" link="rev:21,3" lang="de" %}}“. Darauf lief die Geschichte vom {{% int_link val="Tempel und der Gegenwart Gottes" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} von Anfang an hinaus.
+
+[^ark]: Beale, S. 619: Die Lade in 11,19 zeigt Gericht an, und ebenso Gottes gnädige Gegenwart bei seinem Volk.

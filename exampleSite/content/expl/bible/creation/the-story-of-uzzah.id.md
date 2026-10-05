@@ -5,6 +5,9 @@ base: /quick/bible/creation
 prev: /expl/bible/creation/the-temple-and-the-presence-of-god
 next: /expl/bible/exodus/the-story-before-the-exodus
 docType: expl
+sources:
+    - pages: 619
+      ref: beale_rev
 ---
 
 Mungkin Anda belum pernah mendengar kisah Uza, dan bagaimana Allah menghukumnya mati karena berusaha menyelamatkan tabut perjanjian. Ini adalah kisah yang aneh, dan bisa tampak sama sekali tidak relevan bagi kita hari ini. Padahal relevan — dan alasannya mungkin akan mengejutkan Anda. Mari kita telusuri langkah demi langkah.
@@ -34,3 +37,13 @@ Tampaknya Allah ingin membebaskan diri-Nya dari susunan ini dengan membiarkan ta
 Bahkan hingga hari ini, Allah mencari cara untuk mendekat kepada kita. Dan kita, pada gilirannya, memiliki banyak cara untuk mengurung-Nya dan menjaga-Nya tetap berjarak.
 
 Allah ingin membebaskan diri dari kotak-kotak itu, tetapi kita sering kali berusaha sekuat tenaga untuk mencegah-Nya — demi apa yang kita anggap sebagai kebaikan-Nya sendiri. Seperti yang ditunjukkan kisah ini, Allah bersedia menghancurkan sesuatu yang kita anggap berharga demi mendekat kepada kita, dan ternyata kita keliru karena berpegang padanya begitu erat.
+
+## Dalam Kitab Wahyu
+
+Tabut itu berada di balik tabir. Hanya imam besar yang masuk ke sana, dan hanya {{% bible val="sekali setahun" link="heb:9,7" lang="ind" %}}. Ketika Yesus mati, {{% bible val="tabir Bait Suci terbelah dua" link="mat:27,51" lang="ind" %}}.
+
+Kitab Wahyu memperlihatkan apa artinya. Ketika sangkakala ketujuh berbunyi, "{{% bible val="terbukalah Bait Suci Allah yang di sorga, dan kelihatanlah tabut perjanjian-Nya di dalam Bait Suci itu" link="rev:11,19" lang="ind" %}}". Apa yang tersembunyi kini terbuka. Apa arti pemandangan ini bergantung pada siapa yang melihatnya. Bagi mereka yang menjadi milik Yesus, jalan kepada Allah terbuka, dan Ia hadir di tengah umat-Nya. Bagi mereka yang melawan Dia, kedekatan yang sama datang dengan kilat, guruh, dan gempa bumi.[^ark]
+
+Dan pada akhirnya tidak ada lagi tabir, tidak ada peti, dan tidak ada Bait Suci sama sekali: "{{% bible val="kemah Allah ada di tengah-tengah manusia" link="rev:21,3" lang="ind" %}}". Ke sanalah kisah tentang {{% int_link val="Bait Allah dan kehadiran Allah" link="/expl/bible/creation/the-temple-and-the-presence-of-god" %}} menuju sejak semula.
+
+[^ark]: Beale, hlm. 619: tabut dalam 11:19 menandakan penghakiman, dan juga kehadiran Allah yang penuh rahmat di tengah umat-Nya.
