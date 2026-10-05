@@ -21,7 +21,7 @@ sources:
       ref: beale_rev
 ---
 
-Kapan akhir zaman akan dimulai, dan apa itu Kesengsaraan Besar? Pertanyaan-pertanyaan ini sarat muatan emosi - dan pertanyaan sesungguhnya di baliknya adalah seberapa dapat diandalkan informasi yang beredar, dan bagaimana kita bisa menilainya. Jadi mari kita beralih ke kitab favorit kita untuk mencari jawabannya: Alkitab.
+Kapan akhir zaman akan dimulai, dan apa itu Kesengsaraan Besar? Pertanyaan-pertanyaan ini sarat muatan emosi - dan pertanyaan sesungguhnya di baliknya adalah seberapa dapat diandalkan informasi yang beredar, dan bagaimana kita bisa menilainya. Alkitab sendiri memberi jawabannya.
 
 ## Baik untuk dibaca lebih dahulu
 

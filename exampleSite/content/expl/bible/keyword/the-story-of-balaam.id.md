@@ -14,7 +14,7 @@ sources:
 
 Anda tahu kisah Bileam dan keledainya — tetapi tahukah Anda mengapa dan bagaimana Bileam menyesatkan Israel ke dalam penyembahan berhala?
 
-Tidak percaya? Inilah buktinya: "{{% bible val="Namun demikian, Aku mempunyai beberapa perkara terhadap engkau: ada di antaramu yang berpegang pada ajaran Bileam, yang mengajarkan Balak untuk menjerumuskan orang Israel ke dalam dosa, sehingga mereka makan makanan yang dipersembahkan kepada berhala dan melakukan percabulan." link="rev:2,14" lang="ind" %}}"
+Kitab Wahyu mengatakannya begini: "{{% bible val="Namun demikian, Aku mempunyai beberapa perkara terhadap engkau: ada di antaramu yang berpegang pada ajaran Bileam, yang mengajarkan Balak untuk menjerumuskan orang Israel ke dalam dosa, sehingga mereka makan makanan yang dipersembahkan kepada berhala dan melakukan percabulan." link="rev:2,14" lang="ind" %}}"
 
 ## Kisah yang Sudah Dikenal
 

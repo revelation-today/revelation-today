@@ -14,7 +14,7 @@ sources:
 
 Du kennst die Geschichte von Bileam und dem Esel — aber weißt du auch, warum und wie Bileam Israel zum Götzendienst verführte?
 
-Glaubst du mir nicht? Hier ist der Beweis: „{{% bible val="Aber ich habe ein wenig gegen dich, dass du dort einige hast, die an der Lehre Bileams festhalten, der Balak lehrte, den Israeliten eine Falle zu stellen, damit sie Götzenopferfleisch aßen und Unzucht trieben." link="rev:2,14" lang="de" %}}“
+Die Offenbarung sagt es so: „{{% bible val="Aber ich habe ein wenig gegen dich, dass du dort einige hast, die an der Lehre Bileams festhalten, der Balak lehrte, den Israeliten eine Falle zu stellen, damit sie Götzenopferfleisch aßen und Unzucht trieben." link="rev:2,14" lang="de" %}}“
 
 ## Die bekannte Geschichte
 

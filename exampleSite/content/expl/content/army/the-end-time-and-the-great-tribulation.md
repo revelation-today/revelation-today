@@ -21,7 +21,7 @@ sources:
       ref: beale_rev
 ---
 
-When will the end times begin, and what is the Great Tribulation? These are questions that come loaded with emotion — and the real question underneath them is how much of the information out there is reliable, and how we can judge that. So let's turn to our favorite book to find some answers: the Bible.
+When will the end times begin, and what is the Great Tribulation? These are questions that come loaded with emotion — and the real question underneath them is how much of the information out there is reliable, and how we can judge that. The Bible itself gives the answer.
 
 ## You may want to read before
 

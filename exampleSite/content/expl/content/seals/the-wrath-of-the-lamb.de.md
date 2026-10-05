@@ -52,7 +52,7 @@ Der Zorn Gottes mag als ethisch und theologisch schwieriges Thema erscheinen —
 - Man hat nie einen Krieg oder eine Epidemie durchlebt, die alle dahinraffte, weil sich niemand darum kümmerte.
 - Man hat womöglich sogar echte Perspektiven und Möglichkeiten im Leben.
 
-Doch eines sei gesagt: In der gesamten Geschichte kannte die überwiegende Mehrheit der Menschen mindestens eines dieser Dinge aus eigener Erfahrung. [Sklaverei zum Beispiel ist kein Phänomen der Vergangenheit, sondern nimmt zu](https://www.ilo.org/berlin/presseinformationen/WCMS_855152/lang--de/index.htm), und hinter dieser bösen Praxis stehen — direkt oder indirekt — Menschen, keine abstrakten Mächte.
+In der gesamten Geschichte kannte die überwiegende Mehrheit der Menschen mindestens eines dieser Dinge aus eigener Erfahrung. [Sklaverei zum Beispiel ist kein Phänomen der Vergangenheit, sondern nimmt zu](https://www.ilo.org/berlin/presseinformationen/WCMS_855152/lang--de/index.htm), und hinter dieser bösen Praxis stehen — direkt oder indirekt — Menschen, keine abstrakten Mächte.
 
 Wenn Gott also zugunsten der Leidenden handelt, ist dieses Handeln gerechtfertigt.
 

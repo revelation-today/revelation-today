@@ -21,7 +21,7 @@ sources:
       ref: beale_rev
 ---
 
-Wann beginnt die Endzeit, und was ist die Große Trübsal? Das sind Fragen, die viele Emotionen wecken - und die eigentliche Frage dahinter ist, wie verlässlich die Informationen sind, die dazu kursieren, und wie wir das beurteilen können. Wenden wir uns also unserem liebsten Buch zu, um Antworten zu finden: der Bibel.
+Wann beginnt die Endzeit, und was ist die Große Trübsal? Das sind Fragen, die viele Emotionen wecken - und die eigentliche Frage dahinter ist, wie verlässlich die Informationen sind, die dazu kursieren, und wie wir das beurteilen können. Die Bibel selbst gibt die Antwort.
 
 ## Gut, vorher zu lesen
 

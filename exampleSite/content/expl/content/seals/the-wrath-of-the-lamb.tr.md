@@ -52,7 +52,7 @@ Tanrı'nın gazabını etik ve teolojik açıdan zor bir konu bulabilirsiniz —
 - Kimsenin umursamadığı için herkesi öldüren bir savaş ya da salgın yaşamadınız.
 - Hayatınızda gerçek bir bakış açısına ve seçeneklere bile sahip olabilirsiniz.
 
-Şunu söyleyeyim: tarih boyunca çoğu insan bunlardan en az biriyle tanışıktır. [Örneğin kölelik geçmişe ait bir olgu değildir, aksine artmaktadır](https://50forfreedom.org/modern-slavery/), ve bu kötülüğün arkasında, doğrudan ya da dolaylı olarak buna neden olan insanlar vardır — soyut güçler değil.
+Tarih boyunca çoğu insan bunlardan en az biriyle tanışıktır. [Örneğin kölelik geçmişe ait bir olgu değildir, aksine artmaktadır](https://50forfreedom.org/modern-slavery/), ve bu kötülüğün arkasında, doğrudan ya da dolaylı olarak buna neden olan insanlar vardır — soyut güçler değil.
 
 Yani Tanrı acı çekenler adına harekete geçtiğinde, bu eylem haklıdır.
 

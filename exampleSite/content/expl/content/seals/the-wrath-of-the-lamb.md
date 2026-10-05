@@ -52,7 +52,7 @@ You may find the wrath of God an ethically and theologically difficult topic —
 - You have never lived through a war or an epidemic that killed everyone because no one cared.
 - You may even have real perspective and options in your life.
 
-Let me tell you this: throughout history, most people have been familiar with at least one of these things. [Slavery, for instance, is not a phenomenon of the past but is on the rise](https://50forfreedom.org/modern-slavery/), and behind this evil practice are people — not abstract powers — who cause it, directly or indirectly.
+Throughout history, most people have been familiar with at least one of these things. [Slavery, for instance, is not a phenomenon of the past but is on the rise](https://50forfreedom.org/modern-slavery/), and behind this evil practice are people — not abstract powers — who cause it, directly or indirectly.
 
 So when God acts on behalf of the suffering, that action is justified.
 

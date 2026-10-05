@@ -52,7 +52,7 @@ Kamu mungkin menganggap murka Allah sebagai topik yang sulit secara etis maupun 
 - Kamu belum pernah mengalami perang atau wabah yang membunuh semua orang karena tidak ada yang peduli.
 - Kamu bahkan mungkin memiliki perspektif dan pilihan yang nyata dalam hidupmu.
 
-Izinkan aku mengatakan ini kepadamu: sepanjang sejarah, sebagian besar manusia mengenal setidaknya satu dari hal-hal ini. [Perbudakan, misalnya, bukanlah fenomena masa lalu, melainkan justru sedang meningkat](https://50forfreedom.org/modern-slavery/), dan di balik praktik jahat ini ada manusia - bukan kekuatan abstrak - yang menyebabkannya, baik secara langsung maupun tidak langsung.
+Sepanjang sejarah, sebagian besar manusia mengenal setidaknya satu dari hal-hal ini. [Perbudakan, misalnya, bukanlah fenomena masa lalu, melainkan justru sedang meningkat](https://50forfreedom.org/modern-slavery/), dan di balik praktik jahat ini ada manusia - bukan kekuatan abstrak - yang menyebabkannya, baik secara langsung maupun tidak langsung.
 
 Jadi ketika Allah bertindak demi mereka yang menderita, tindakan itu adalah tindakan yang benar.
 

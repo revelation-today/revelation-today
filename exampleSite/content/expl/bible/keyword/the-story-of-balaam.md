@@ -14,7 +14,7 @@ sources:
 
 You know the story of Balaam and the donkey — but do you know why and how Balaam deceived Israel into idolatry?
 
-Don’t believe me? Here is the proof: "{{% bible val="Nevertheless, I have a few things against you: there are some among you who hold to the teaching of Balaam, who taught Balak to entice the Israelites to sin so that they ate food sacrificed to idols and committed sexual immorality." link="rev:2,14" lang="en" %}}"
+Revelation says so: "{{% bible val="Nevertheless, I have a few things against you: there are some among you who hold to the teaching of Balaam, who taught Balak to entice the Israelites to sin so that they ate food sacrificed to idols and committed sexual immorality." link="rev:2,14" lang="en" %}}"
 
 ## The well-known story
 

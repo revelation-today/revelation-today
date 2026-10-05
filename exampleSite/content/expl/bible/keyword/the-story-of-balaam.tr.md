@@ -14,7 +14,7 @@ sources:
 
 Balam ile eşeğinin öyküsünü bilirsiniz — ama Balam’ın İsrail’i putperestliğe nasıl ve neden sürüklediğini biliyor musunuz?
 
-Bana inanmıyor musunuz? İşte kanıtı: “{{% bible val="Yine de sana karşı birkaç sözüm var: Aranızda Balam’ın öğretisine bağlı olanlar bulunuyor. Putlara sunulan kurbanların etini yemeleri, fuhuş yapmaları için İsrailoğulları’nı ayartmayı Balak’a öğreten Balam’dı." link="rev:2,14" lang="tr" %}}”
+Vahiy bunu şöyle söyler: “{{% bible val="Yine de sana karşı birkaç sözüm var: Aranızda Balam’ın öğretisine bağlı olanlar bulunuyor. Putlara sunulan kurbanların etini yemeleri, fuhuş yapmaları için İsrailoğulları’nı ayartmayı Balak’a öğreten Balam’dı." link="rev:2,14" lang="tr" %}}”
 
 ## İyi bilinen öykü
 
