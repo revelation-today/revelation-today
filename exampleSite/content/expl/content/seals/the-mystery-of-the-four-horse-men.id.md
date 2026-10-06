@@ -73,7 +73,7 @@ Bahan makanan sering kali dijatah - entah karena kelaparan yang akan datang, kel
 
 Anggur dan minyak di sini bukanlah barang mewah. Dalam Perjanjian Lama keduanya, bersama gandum, termasuk makanan pokok negeri itu, dan ketika semuanya gagal, kelaparannya parah (Yoel 1:10–11). Keduanya tidak ada hubungannya dengan pengurapan atau Perjamuan Kudus.
 
-Jadi ini adalah kelaparan, serius tetapi terbatas. Upah sehari hanya cukup untuk membeli gandum agar bisa bertahan hidup, dan tidak ada yang tersisa untuk minyak dan anggur, meskipun pohon dan pokok anggurnya sendiri tidak dirusak. Suara "di tengah-tengah keempat makhluk itu" kemungkinan besar adalah suara Kristus sendiri, sebab Anak Domba berdiri "di tengah-tengah takhta dan keempat makhluk itu" (5:6). Perintah itu datang dari takhta itu sendiri, dan menetapkan batas bagi kelaparan itu.[^voice] Yang paling terpukul adalah orang miskin - dan, seperti yang ditunjukkan kitab ini kemudian, orang-orang percaya yang tidak diizinkan membeli dan menjual (13:16–17).
+Jadi ini adalah kelaparan, serius tetapi terbatas. Upah sehari hanya cukup untuk membeli gandum agar bisa bertahan hidup, dan tidak ada yang tersisa untuk minyak dan anggur, meskipun pohon dan pokok anggurnya sendiri tidak dirusak. Di situlah letak ketidakadilannya. Seluruh kenaikan harga menimpa makanan yang menjadi sandaran hidup orang miskin, sementara minyak dan anggur tetap pada harganya dan tetap tersedia — ada, tetapi tak terjangkau bagi siapa pun yang upah hariannya kini habis untuk roti.[^prices] Suara "di tengah-tengah keempat makhluk itu" kemungkinan besar adalah suara Kristus sendiri, sebab Anak Domba berdiri "di tengah-tengah takhta dan keempat makhluk itu" (5:6). Perintah itu datang dari takhta itu sendiri, dan menetapkan batas bagi kelaparan itu.[^voice] Yang paling terpukul adalah orang miskin - dan, seperti yang ditunjukkan kitab ini kemudian, orang-orang percaya yang tidak diizinkan membeli dan menjual (13:16–17).
 
 ## Rahasia Penunggang Kuda Pertama
 
@@ -122,3 +122,5 @@ Ingatlah ini: seberapa pun menariknya tawaran Iblis kelihatannya, dan seberapa p
 [^rider]: Pembacaan penunggang pertama sebagai tiruan dari Iblis mengikuti Beale, hlm. 375–377. Untuk pembacaan positif, lihat para penafsir yang ia sebutkan: Hendriksen, Ladd, Sweet, dan lainnya (hlm. 375, cat. 16).
 
 [^cry]: Bauckham, *Climax*, hlm. 263, 282–283; *Theology*, hlm. 84–87.
+
+[^prices]: Beale, hlm. 381: harga-harga yang disebut itu "kira-kira delapan sampai enam belas kali harga rata-rata di Kekaisaran Romawi pada masa itu" (Cicero, *In Verrem* 3.81), sementara pohon dan pokok anggur tidak disentuh, sehingga "para korban kelaparan itu tidak akan sanggup membeli hasil-hasil tersebut, meskipun barangnya tersedia". Ia membacanya sebagai kelanjutan penganiayaan ekonomi atas orang percaya dalam 2:9 dan 13:16–17.

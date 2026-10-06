@@ -73,7 +73,7 @@ Lebensmittel wurden häufig rationiert — sei es wegen einer bevorstehenden Hun
 
 Wein und Öl sind hier keine Luxusgüter. Im Alten Testament gehören sie zusammen mit dem Getreide zur Grundnahrung des Landes, und wenn sie alle ausfallen, ist die Hungersnot schwer (Joel 1,10–11). Mit Salbung oder Abendmahl haben sie nichts zu tun.
 
-Es geht also um eine Hungersnot, ernst, aber begrenzt. Ein Tageslohn reicht gerade für das Getreide zum Überleben, und für Öl und Wein bleibt nichts übrig, obwohl die Bäume und Weinstöcke selbst verschont bleiben. Die Stimme „inmitten der vier Wesen“ ist höchstwahrscheinlich die von Christus selbst, denn das Lamm steht „inmitten des Thrones und der vier Wesen“ (5,6). Der Befehl kommt vom Thron selbst, und er setzt der Hungersnot eine Grenze.[^voice] Am härtesten trifft es die Armen — und, wie das Buch später zeigt, die Gläubigen, die vom Kaufen und Verkaufen ausgeschlossen werden (13,16–17).
+Es geht also um eine Hungersnot, ernst, aber begrenzt. Ein Tageslohn reicht gerade für das Getreide zum Überleben, und für Öl und Wein bleibt nichts übrig, obwohl die Bäume und Weinstöcke selbst verschont bleiben. Genau darin liegt die Ungerechtigkeit. Der ganze Preisanstieg trifft das Essen, von dem die Armen leben, während Öl und Wein ihren Preis behalten und weiter im Laden stehen — vorhanden und doch unerreichbar für jeden, dessen Tageslohn nun ganz für Brot draufgeht.[^prices] Die Stimme „inmitten der vier Wesen“ ist höchstwahrscheinlich die von Christus selbst, denn das Lamm steht „inmitten des Thrones und der vier Wesen“ (5,6). Der Befehl kommt vom Thron selbst, und er setzt der Hungersnot eine Grenze.[^voice] Am härtesten trifft es die Armen — und, wie das Buch später zeigt, die Gläubigen, die vom Kaufen und Verkaufen ausgeschlossen werden (13,16–17).
 
 ## Das Geheimnis des ersten Reiters
 
@@ -122,3 +122,5 @@ Eines sollte man sich merken: Wie verlockend das Angebot des Teufels auch ausseh
 [^rider]: Die Deutung des ersten Reiters als satanische Nachahmung folgt Beale, S. 375–377. Für die positive Deutung siehe die von ihm genannten Ausleger: Hendriksen, Ladd, Sweet und andere (S. 375, Anm. 16).
 
 [^cry]: Bauckham, *Climax*, S. 263, 282–283; *Theology*, S. 84–87.
+
+[^prices]: Beale, S. 381: Die genannten Preise liegen „etwa acht- bis sechzehnmal" über den damals üblichen Preisen im Römischen Reich (Cicero, *In Verrem* 3,81), während Bäume und Weinstöcke unberührt bleiben — „die Opfer der Hungersnot werden sich diese Erzeugnisse nicht leisten können, obwohl sie verfügbar sind". Er sieht darin die wirtschaftliche Verfolgung der Gläubigen aus 2,9 und 13,16–17 weitergeführt.

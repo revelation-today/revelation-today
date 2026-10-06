@@ -73,7 +73,7 @@ Yiyecekler sık sık karneye bağlanırdı — ister yaklaşan bir kıtlık yüz
 
 Şarap ve yağ burada lüks değildir. Eski Antlaşma'da tahılla birlikte ülkenin temel besinleri arasındadır ve hepsi birden tükendiğinde kıtlık ağırdır (Yoel 1:10–11). Meshetmeyle ya da Rab'bin Sofrası'yla bir ilgileri yoktur.
 
-Demek ki bu bir kıtlıktır; ciddi ama sınırlı. Bir günlük ücret ancak hayatta kalmaya yetecek kadar tahıl alır ve ağaçların ve asmaların kendisi esirgendiği hâlde yağ ve şaraba para kalmaz. "Dört yaratığın ortasından" gelen ses büyük olasılıkla Mesih'in kendi sesidir, çünkü Kuzu "tahtın ve dört yaratığın ortasında" durur (5:6). Buyruk tahtın kendisinden gelir ve kıtlığa bir sınır koyar.[^voice] En ağır darbeyi yoksullar alır — ve kitabın ileride gösterdiği gibi, alışverişten dışlanan imanlılar (13:16–17).
+Demek ki bu bir kıtlıktır; ciddi ama sınırlı. Bir günlük ücret ancak hayatta kalmaya yetecek kadar tahıl alır ve ağaçların ve asmaların kendisi esirgendiği hâlde yağ ve şaraba para kalmaz. Adaletsizlik tam da buradadır. Fiyat artışının tamamı yoksulların geçindiği yiyeceğe biner; yağ ve şarap ise fiyatını korur ve raflarda durmayı sürdürür — vardır, ama günlük ücretinin tamamı ekmeğe giden biri için erişilmezdir.[^prices] "Dört yaratığın ortasından" gelen ses büyük olasılıkla Mesih'in kendi sesidir, çünkü Kuzu "tahtın ve dört yaratığın ortasında" durur (5:6). Buyruk tahtın kendisinden gelir ve kıtlığa bir sınır koyar.[^voice] En ağır darbeyi yoksullar alır — ve kitabın ileride gösterdiği gibi, alışverişten dışlanan imanlılar (13:16–17).
 
 ## İlk atlının gizemi
 
@@ -122,3 +122,5 @@ Ve şimdi {{% bible val="Tanrı'nın belalarına" link="ezk:14,12-23" lang="tr" 
 [^rider]: İlk atlının şeytani bir taklit olarak okunması Beale'i izler, s. 375–377. Olumlu okuma için onun saydığı yorumculara bakınız: Hendriksen, Ladd, Sweet ve başkaları (s. 375, dn. 16).
 
 [^cry]: Bauckham, *Climax*, s. 263, 282–283; *Theology*, s. 84–87.
+
+[^prices]: Beale, s. 381: anılan fiyatlar, "o dönemde Roma İmparatorluğu’ndaki ortalama fiyatların yaklaşık sekiz ila on altı katıdır" (Cicero, *In Verrem* 3.81); ağaçlar ve asmalar ise dokunulmadan kalır, öyle ki "kıtlığın kurbanları, ürünler mevcut olsa bile onları satın alamayacaktır". Bunu 2:9 ve 13:16–17’deki ekonomik zulmün sürdürülmesi olarak okur.

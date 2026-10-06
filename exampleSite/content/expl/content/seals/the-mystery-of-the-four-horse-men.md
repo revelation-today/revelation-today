@@ -73,7 +73,7 @@ Food was often rationed — whether because of a coming famine, an actual famine
 
 Wine and oil are not luxuries here. In the Old Testament they belong with grain to the basic food of the land, and when all of them fail, the famine is severe (Joel 1:10–11). They have nothing to do with anointing or the Lord's Supper.
 
-So this is a famine, serious but limited. A day's wage buys just enough grain to live on, and nothing is left over for oil and wine, even though the trees and vines themselves are spared. The voice "among the four living creatures" is most likely Christ's own, since the Lamb stands "in the middle of the throne and the four living creatures" (5:6). The command comes from the throne itself, and it sets a limit to the famine.[^voice] Those hit hardest are the poor — and, as the book shows later, believers who are shut out of buying and selling (13:16–17).
+So this is a famine, serious but limited. A day's wage buys just enough grain to live on, and nothing is left over for oil and wine, even though the trees and vines themselves are spared. That is where the injustice sits. The whole price rise falls on the food the poor live on, while oil and wine keep their price and stay on the shelves — available, and out of reach for anyone whose day’s wage now goes entirely on bread.[^prices] The voice "among the four living creatures" is most likely Christ's own, since the Lamb stands "in the middle of the throne and the four living creatures" (5:6). The command comes from the throne itself, and it sets a limit to the famine.[^voice] Those hit hardest are the poor — and, as the book shows later, believers who are shut out of buying and selling (13:16–17).
 
 ## The mystery of the first horseman
 
@@ -122,3 +122,5 @@ Remember this: no matter how attractive the devil's offer may look, and no matte
 [^rider]: The reading of the first rider as a satanic counterfeit follows Beale, pp. 375–377. For the positive reading see the commentators he lists: Hendriksen, Ladd, Sweet and others (p. 375 n. 16).
 
 [^cry]: Bauckham, *Climax*, pp. 263, 282–283; *Theology*, pp. 84–87.
+
+[^prices]: Beale, p. 381: the prices named are "about eight to sixteen times the average prices in the Roman Empire at the time" (Cicero, *In Verrem* 3.81), while the trees and vines are untouched, so "the victims of the famine will not be able to afford these products, even though they are available". He reads it as developing the economic persecution of believers in 2:9 and 13:16–17.
