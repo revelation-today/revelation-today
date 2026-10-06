@@ -10,7 +10,7 @@ next: /expl/content/letters/the-letter-to-the-church-in-smyrna
 docType: expl
 appl: /appl/content/letters
 sources: 
-    - pages: 228–239
+    - pages: 16, 228–239
       ref: beale_rev
     - pages: 24
       ref: fee_rev
@@ -27,7 +27,7 @@ The church in Ephesus looks, on the surface, like a model church. But appearance
 <a name="4a32"></a>
 Ephesus' large port was the gateway into Asia Minor, making the city one of the largest and most important in the Roman Empire. The Temple of Artemis, one of the ancient world's great wonders, also made it a major tourist destination. Yet even at its height the harbor was already silting up and needed constant, expensive dredging — a losing battle that would eventually strangle the port in later centuries. It's a fitting backdrop for a church that looked as prosperous as ever while quietly losing what sustained it.
 
-This economic center was home to a large Jewish diaspora community — Jews living outside Israel — whose civic and religious rights were repeatedly contested by the city's Greek population and had to be defended before Roman authorities. Of the seven churches addressed in Revelation, this one was probably the largest.
+This economic center was home to a large Jewish diaspora community — Jews living outside Israel — whose civic and religious rights were repeatedly contested by the city's Greek population and had to be defended before Roman authorities. Ephesus, Smyrna and Pergamon were the three greatest cities of the province, and Ephesus counted for more as a seat of administration than as a market. How large its church was, no one records — and even the population figures often quoted for the city itself, 200,000 and upwards, are modern guesses rather than ancient evidence.[^size]
 
 ## Jesus' view
 
@@ -60,6 +60,11 @@ Ephesus may look like an established, mature church, since it has developed real
 ## The solution
 
 <a name="88fa"></a>
+Jesus names the remedy in three steps: {{% bible val="remember how far you have fallen, repent, and do the things you did at first" link="rev:2,5" lang="en" %}}. And then the threat the opening of this letter prepared for: if they do not, he will come and take their lampstand away. That is the devastating part. In this book the lampstand is what a church *is* — a light standing in the presence of Christ (1:20) — so losing it is not a punishment to sit out but the end of being a church at all. Ephesus belongs with Sardis and Laodicea here: three congregations in danger of losing their very identity.[^identity]
+
 If Ephesus wants to mature into a church God can actually use, it has to rebuild the intimate relationship with God it has lost — the relationship pictured by eating from the tree of life in the Garden of Eden. To encourage them toward that end, they are given a promise: {{% bible val="the right to eat from the tree of life, in the paradise of God" link="rev:2,7" lang="en" %}} — an image picked up again at the very end of the book, in the {{% bible val="tree of life beside the river flowing from God's throne in the New Jerusalem" link="rev:22,1-5" lang="en" %}}.
 
 [^firstlove]: Commentators usually choose one: love for one another (most, e.g. Beasley-Murray, p. 75), love for Christ (cf. Jer 2:2), or love for Christ shown in witness to the world (Beale, p. 230). This site reads the three together.
+
+[^size]: Aune, *Revelation 1–5*, pp. 136–137: Ephesus mattered "of much greater importance administratively than commercially", and the usual figures of 225,000 or 200,000 are "speculative and not based on any kind of objective estimate from antiquity".
+[^identity]: Beale, p. 16, who groups Ephesus with Sardis and Laodicea as churches "in danger of losing their very identity". On 2:5, Beale p. 232: they "will cease to exist as a church when the very function that defines the essence of their existence is no longer performed" — the lampstand removed means "removal of the church as a light of witness to the world".

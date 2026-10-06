@@ -33,7 +33,7 @@ Laodicea sat at the crossroads of several trade routes and was an extremely weal
 
 When an earthquake destroyed the city in AD 60, it rebuilt itself from its own resources, without help from Rome (Tacitus, *Annals* 14.27).
 
-It had no local spring of its own, though: its water arrived through an aqueduct from mineral springs some distance away, near the hot springs that fed neighboring Hierapolis to the north. By the time it reached the city it had cooled and picked up heavy mineral sediment along the way — a poor substitute for both Hierapolis's famous hot, therapeutic water and the cold, refreshing water of Colossae further up the valley. Jesus' rebuke below most likely plays on this local reputation.[^water]
+It had no local spring of its own, though: its water arrived through an aqueduct from hot mineral springs about five miles to the south, around what is now Denizli. By the time it reached the city it had cooled to tepid and picked up heavy mineral sediment along the way — a poor substitute for both Hierapolis's famous hot, therapeutic water and the cold, refreshing water of Colossae further up the valley. Jesus' rebuke below most likely plays on this local reputation.[^water]
 
 ## Jesus' view
 

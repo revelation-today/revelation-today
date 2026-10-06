@@ -55,7 +55,7 @@ Ini sesuai dengan pola yang sudah mapan dalam sastra Yahudi, di mana satu kelomp
 
 Jadi mengapa jemaat-jemaat itu disebut "malaikat" sama sekali? Ada beberapa alasan yang masuk akal:
 
-- Gereja di seluruh dunia dimaksudkan untuk menjadi satu kesatuan, sama seperti malaikat adalah satu "unit" tunggal - intinya bukan perjalanan iman setiap orang percaya secara pribadi, melainkan tanggung jawab bersama jemaat itu sebagai satu keseluruhan.
+- Surat itu dialamatkan kepada jemaat sebagai satu tubuh, bukan kepada orang percaya satu per satu. Yang dipertaruhkan bukanlah perjalanan iman seseorang dengan Allah, melainkan jemaat itu sebagai satu kesatuan - itulah sebabnya pujian, teguran dan ancaman semuanya datang dalam bentuk tunggal.
 - Menyapa mereka sebagai malaikat (*angelos* berarti "utusan") mengingatkan mereka akan tujuan surgawi mereka.
 - Menyebut mereka malaikat juga menandakan bahwa mereka tidak dapat melakukan tugas ini dengan kekuatan sendiri - mereka membutuhkan pertolongan surgawi, melalui Roh Kudus.
 

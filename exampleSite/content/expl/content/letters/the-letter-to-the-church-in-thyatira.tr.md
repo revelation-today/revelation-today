@@ -10,7 +10,7 @@ next: /expl/content/letters/the-letter-to-the-church-in-sardis
 docType: expl
 appl: /appl/content/letters
 sources: 
-    - pages: 259–272
+    - pages: 226–227, 259–272
       ref: beale_rev
     - pages: 37–38
       ref: fee_rev
@@ -20,7 +20,7 @@ sources:
 
 Sorunu kendi önderliği olan bir kiliseyle ne yaparsınız? Thyatira'ya yazılan mektubun tam olarak ele aldığı durum budur.
 
-Uygun bir biçimde, {{% bible val="bu kiliseye yazılan mektup yedisinin en uzunudur" link="rev:2,18-29" lang="tr" %}}.
+Bu mektubun yeri de bundan ötürüdür. Thyatira yedinin dördüncüsü, halkanın ortasıdır ve {{% bible val="mektubu hepsinin en uzunudur" link="rev:2,18-29" lang="tr" %}}. Tam ortasında, yedi mektup içinde aynı anda bütün kiliselere seslenen tek cümle durur: {{% bible val="bütün kiliseler bilecek ki yürekleri ve düşünceleri araştıran benim" link="rev:2,23" lang="tr" %}}.[^centre]
 
 ## Tarihsel arka plan
 
@@ -58,3 +58,4 @@ Bu sahte önderlik altında dayanıp sadık kalanlara İsa kendi otoritelerini v
 Bununla birlikte vaat edilen {{% bible val="sabah yıldızı" link="rev:2,26-28" lang="tr" %}} muhtemelen, başka bir yerde {{% bible val="Sabah Yıldızı olarak adlandırılan" link="rev:22,16" lang="tr" %}} İsa'nın kendisinde bulunan {{% bible val="yeni bir umudun doğuşuna" link="2pe:1,19" lang="tr" %}} işaret eder.
 
 [^jezebel]: Beale, s. 249, 261–263. Bazı erken elyazmaları 2:20'de "*senin* karın İzebel" diye okur; Beale bunun özgün olabileceğini ve "resmî olarak tanınmış öğretmenlere" işaret ettiğini düşünür. "Kendini ilan ediyor" ifadesi için bkz. Aune, *Revelation 1–5*, s. 145–146.
+[^centre]: Beale, s. 226–227, Kiddle'ı izleyerek: yedi mektup bir halka olarak dizilmiştir ve "ortadaki mektubun merkezinde 'bütün kiliseler bilecek' diyen genel bir ifade durur".

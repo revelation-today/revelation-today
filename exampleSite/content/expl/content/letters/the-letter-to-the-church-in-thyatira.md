@@ -10,7 +10,7 @@ next: /expl/content/letters/the-letter-to-the-church-in-sardis
 docType: expl
 appl: /appl/content/letters
 sources: 
-    - pages: 259–272
+    - pages: 226–227, 259–272
       ref: beale_rev
     - pages: 37–38
       ref: fee_rev
@@ -20,7 +20,7 @@ sources:
 
 What do you do with a church whose problem is its own leadership? This is exactly the situation the letter to Thyatira addresses.
 
-Fittingly, the {{% bible val="letter to this church is the longest of the seven" link="rev:2,18-29" lang="en" %}}.
+That is also why this letter sits where it does. Thyatira is the fourth of seven, the middle of the ring, and {{% bible val="its letter is the longest of them all" link="rev:2,18-29" lang="en" %}}. At the centre of it stands the only sentence in the seven addressed to every church at once: {{% bible val="all the churches will know that I am he who searches hearts and minds" link="rev:2,23" lang="en" %}}.[^centre]
 
 ## The historical background
 
@@ -58,3 +58,4 @@ To those who endure and remain faithful under this false leadership, Jesus promi
 The {{% bible val="morning star" link="rev:2,28" lang="en" %}} promised alongside it likely points to the {{% bible val="dawn of a new hope" link="2pe:1,19" lang="en" %}} found in Jesus himself, who elsewhere {{% bible val="is called the Morning Star" link="rev:22,16" lang="en" %}}.
 
 [^jezebel]: Beale, pp. 249, 261–263. Some early manuscripts read "*your* wife Jezebel" in 2:20; Beale thinks this may be original and would point to "officially recognized teachers". On "calls herself", see Aune, *Revelation 1–5*, pp. 145–146.
+[^centre]: Beale, pp. 226–227, following Kiddle: the seven letters are arranged as a ring, and "at the center of the middle letter stands a general statement that 'all the churches will know'".

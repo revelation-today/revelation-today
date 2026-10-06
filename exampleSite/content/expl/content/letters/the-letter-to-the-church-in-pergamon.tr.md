@@ -37,7 +37,7 @@ Pergamon, Vahiy yazılmadan dört yüzyıl önce bile önemli bir şehirdi. Deni
 ## İsa'nın görüşü
 
 <a name="fa05"></a>
-İsa bu kilisenin zor bir hayatı olduğunu bilir ve onlara {{% bible val="çok keskin bir kılıç kuşanmış biri" link="rev:2,12" lang="tr" %}} olarak yaklaşır — ilahi öğretiyi sahtelikten ayıran bir araç.
+İsa bu kilisenin zor bir hayatı olduğunu bilir ve onlara {{% bible val="çok keskin bir kılıç kuşanmış biri" link="rev:2,12" lang="tr" %}} olarak yaklaşır — açılış görümünde olduğu gibi, O'nun sözü. Burada bu bir teselli değil, bir uyarıdır: kilise tövbe etmezse, O gelip {{% bible val="ağzındaki kılıçla ona karşı savaşır" link="rev:2,16" lang="tr" %}}.
 
 Pergamon'u "{{% bible val="Şeytan'ın yaşadığı ve tahtının bulunduğu yer" link="rev:2,13" lang="tr" %}}" olarak adlandırır; bu neredeyse kesinlikle her şeyden önce Pergamon'un eyaletteki imparator ibadetinin önde gelen merkezi olma statüsüne — az önce sözü edilen o tapınağa — bir göndermedir; belki de yükselen Zeus Büyük Sunağı ve Asklepios'un yılan kültüyle, şehrin her ikisi de birer simge olan bu iki özelliğiyle, pekiştirilmiştir. Ve bu ölçüte göre kilise gayet iyi durumda: dayandılar ve İsa'nın adından vazgeçmediler, hatta şehitlik noktasına kadar — bu da orada Hristiyan olarak yaşamanın ne kadar zor olduğunu gösterir. Durumları İzmir'inkiyle kıyaslanabilir, belki daha da kötü.
 
@@ -46,7 +46,7 @@ Yine de onları içeriden çökerten bir şey var: {{% bible val="Balam ve Nikol
 ## Sorun
 
 <a name="5385"></a>
-{{% int_link val="Balam'ın öyküsü, tutarsız önderliğin başarısızlığını gösterir" link="/expl/bible/keyword/the-story-of-balaam" %}}, ve Nikolaycılar muhtemelen benzer bir başarısızlığı temsil ediyor. Her iki durumda da kilisenin önderliği sahte öğretiye karşı güçlü bir duruş sergilememiştir.
+{{% int_link val="Balam'ın öyküsü, tutarsız önderliğin başarısızlığını gösterir" link="/expl/bible/keyword/the-story-of-balaam" %}}, ve Nikolaycılar muhtemelen benzer bir başarısızlığı temsil ediyor. Her iki durumda da kilisenin önderliği sahte öğretiye karşı güçlü bir duruş sergilememiştir.[^lead]
 
 Duruma yakından bakmak nedenini ortaya koyuyor: bu, bilinen sahte öğretiyle yüzleşmek yerine ona göz yuman bir cemaat. Her öğreti davranışı biçimlendirdiğinden, bu gevşek öğretişin nasıl yaşadıkları ve neye tanıklık ettikleri üzerinde sonuçları vardır. Burada söz konusu olan şeyin, yani putlara adanmış ortak yemeklerin, teşvik edilmesine yol açan da muhtemelen bu olmuştur.
 
@@ -55,8 +55,10 @@ Duruma yakından bakmak nedenini ortaya koyuyor: bu, bilinen sahte öğretiyle y
 <a name="eebd"></a>
 Sadık kalanlara gizli {{% bible val="man" link="deu:8,16" lang="tr" %}} vaat edilir — Tanrı'nın doğaüstü şekilde sağladığının, ve durumlar umutsuz göründüğünde bile O'na güvenmemiz gerektiğinin bir hatırlatıcısı.
 
-Ayrıca üzerinde yeni bir isim yazılı beyaz bir taş vaat edilir. O dünyada beyaz bir taşın iki olası anlamı vardı: {{% bible val="mahkemede, bir çakıl taşıyla oy kullanılan yerde - beraat için beyaz, mahkûmiyet için siyah" link="act:26,10" lang="tr" %}} kullanılırdı — bu uygundur, çünkü bu imanlıların {{% bible val="Kuzu'nun düğün ziyafetine" link="rev:19,9" lang="tr" %}} katılabilmeden önce putlara adanmış ziyafetlere katılma suçlamasından temize çıkması gerekirdi — ve aynı zamanda belki de o aynı düğün ziyafetine giriş sağlayan bir geçiş belgesi olarak da kullanılabilirdi.
+Ayrıca üzerinde yeni bir isim yazılı beyaz bir taş vaat edilir. O dünyada beyaz bir taşın iki olası anlamı vardı: {{% bible val="mahkemede, bir çakıl taşıyla oy kullanılan yerde - beraat için beyaz, mahkûmiyet için siyah" link="act:26,10" lang="tr" %}} kullanılırdı — bu uygundur, çünkü bunlar, putlara adanmış ziyafetlerden uzak duran ve bu yüzden kentleri tarafından yargılanan imanlılardır. Taş, o kararı bozan karardır: Tanrı önünde beraat, dolayısıyla {{% bible val="Kuzu'nun düğün ziyafetinde" link="rev:19,9" lang="tr" %}} bir yer — ve aynı zamanda belki de o aynı düğün ziyafetine giriş sağlayan bir geçiş belgesi olarak da kullanılabilirdi.
 
 Kutsal Yazı'da yeni bir isim genellikle {{% bible val="yeni bir kimlikle" link="gen:17,5" lang="tr" %}} bağlantılıdır, ve o ismi bilmek kişi ile Tanrı arasındaki yakın bir ilişkinin işaretidir.
 
 Tanrı bu kiliseye, isterlerse, gerçek bir yeni başlangıç sunuyor. Ama {{% bible val="reddederlerse, İsa onlara karşı savaşacaktır" link="rev:2,16" lang="tr" %}}.
+
+[^lead]: Beale, s. 249, Çölde Sayım 25 arka planı üzerine: Tanrı Musa'ya önderleri öldürmesini buyurdu, "ama Musa hemen itaat etmedi" — ve "İsrail sonunda kendini disipline ettiğinde, bela kaldırıldı." Mektubun Bergama'ya yüklediği başarısızlık budur.

@@ -10,7 +10,7 @@ next: /expl/content/letters/the-letter-to-the-church-in-smyrna
 docType: expl
 appl: /appl/content/letters
 sources: 
-    - pages: 228–239
+    - pages: 16, 228–239
       ref: beale_rev
     - pages: 24
       ref: fee_rev
@@ -27,7 +27,7 @@ Die Gemeinde in Ephesus wirkt auf den ersten Blick wie eine Musterngemeinde. Doc
 <a name="6e49"></a>
 Ephesus' großer Hafen war das Tor nach Kleinasien, was die Stadt zu einer der größten und wichtigsten im Römischen Reich machte. Der Artemistempel, eines der großen Weltwunder der Antike, machte sie außerdem zu einem bedeutenden Reiseziel. Doch selbst auf ihrem Höhepunkt verlandete der Hafen bereits und musste ständig, unter hohen Kosten, ausgebaggert werden - ein aussichtsloser Kampf, der den Hafen in späteren Jahrhunderten schließlich erstickte. Ein passender Hintergrund für eine Gemeinde, die so wohlhabend wirkte wie eh und je, während sie still und leise verlor, was sie eigentlich trug.
 
-Dieses wirtschaftliche Zentrum war Heimat einer großen jüdischen Diaspora-Gemeinschaft - Juden, die außerhalb Israels lebten -, deren bürgerliche und religiöse Rechte von der griechischen Bevölkerung der Stadt wiederholt angefochten wurden und vor römischen Behörden verteidigt werden mussten. Von den sieben in der Offenbarung angesprochenen Gemeinden war diese wahrscheinlich die größte.
+Dieses wirtschaftliche Zentrum war Heimat einer großen jüdischen Diaspora-Gemeinschaft - Juden, die außerhalb Israels lebten -, deren bürgerliche und religiöse Rechte von der griechischen Bevölkerung der Stadt wiederholt angefochten wurden und vor römischen Behörden verteidigt werden mussten. Ephesus, Smyrna und Pergamon waren die drei größten Städte der Provinz, und Ephesus zählte mehr als Verwaltungssitz denn als Handelsplatz. Wie groß seine Gemeinde war, berichtet niemand — und selbst die Bevölkerungszahlen, die für die Stadt oft genannt werden, 200.000 und mehr, sind moderne Schätzungen und keine antiken Angaben.[^size]
 
 ## Jesu Sicht
 
@@ -60,6 +60,11 @@ Ephesus mag wie eine etablierte, reife Gemeinde wirken, da sie echte Strategien 
 ## Die Lösung
 
 <a name="cb84"></a>
+Jesus nennt das Heilmittel in drei Schritten: {{% bible val="Erinnere dich, wie tief du gefallen bist, kehr um, und tu die ersten Werke wieder" link="rev:2,5" lang="de" %}}. Und dann die Drohung, auf die der Anfang dieses Briefes hinauswollte: Wenn sie das nicht tun, wird er kommen und ihren Leuchter wegnehmen. Das ist das Vernichtende daran. In diesem Buch ist der Leuchter das, was eine Gemeinde *ist* — ein Licht, das in der Gegenwart Christi steht (1,20) —, und ihn zu verlieren ist keine Strafe, die man abwartet, sondern das Ende des Gemeindeseins überhaupt. Ephesus gehört hier zu Sardes und Laodizea: drei Gemeinden in der Gefahr, ihre Identität zu verlieren.[^identity]
+
 Wenn Ephesus zu einer Gemeinde heranreifen will, die Gott tatsächlich gebrauchen kann, muss sie die innige Beziehung zu Gott wiederherstellen, die sie verloren hat - die Beziehung, die durch das Essen vom Baum des Lebens im Garten Eden dargestellt wird. Um sie in diese Richtung zu ermutigen, erhalten sie eine Verheißung: {{% bible val="das Recht, vom Baum des Lebens im Paradies Gottes zu essen" link="rev:2,7" lang="de" %}} - ein Bild, das ganz am Ende des Buches wiederaufgegriffen wird, im {{% bible val="Baum des Lebens neben dem Strom, der vom Thron Gottes im Neuen Jerusalem fließt" link="rev:22,1-5" lang="de" %}}.
 
 [^firstlove]: Ausleger wählen meist eine davon: die Liebe zueinander (die meisten, z. B. Beasley-Murray, S. 75), die Liebe zu Christus (vgl. Jer 2,2) oder die Liebe zu Christus, die sich im Zeugnis vor der Welt zeigt (Beale, S. 230). Diese Seite liest die drei zusammen.
+
+[^size]: Aune, *Revelation 1–5*, S. 136–137: Ephesus war „verwaltungstechnisch von weit größerer Bedeutung als wirtschaftlich“, und die üblichen Zahlen von 225.000 oder 200.000 sind „spekulativ und beruhen auf keiner objektiven antiken Schätzung“.
+[^identity]: Beale, S. 16, der Ephesus mit Sardes und Laodizea als Gemeinden zusammenstellt, die „in Gefahr sind, ihre Identität zu verlieren“. Zu 2,5 Beale S. 232: Sie werden „aufhören, als Gemeinde zu existieren, wenn die Funktion, die das Wesen ihrer Existenz ausmacht, nicht mehr ausügebüt wird“ — der weggenommene Leuchter bedeutet „die Wegnahme der Gemeinde als Licht des Zeugnisses für die Welt“.

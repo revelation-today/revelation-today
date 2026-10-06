@@ -37,7 +37,7 @@ Kota ini juga menjadi rumah bagi banyak kuil lain, yang didedikasikan untuk Zeus
 ## Pandangan Yesus
 
 <a name="dc77"></a>
-Yesus tahu jemaat ini menjalani hidup yang berat, dan Ia mendatangi mereka sambil {{% bible val="memegang pedang yang sangat tajam" link="rev:2,12" lang="ind" %}} - alat untuk memisahkan ajaran yang benar dari kepalsuan.
+Yesus tahu jemaat ini menjalani hidup yang berat, dan Ia mendatangi mereka sambil {{% bible val="memegang pedang yang sangat tajam" link="rev:2,12" lang="ind" %}} - firman-Nya, seperti dalam penglihatan pembuka. Di sini firman itu bukan penghiburan melainkan peringatan: jika jemaat itu tidak bertobat, Ia datang dan {{% bible val="berperang melawannya dengan pedang mulut-Nya" link="rev:2,16" lang="ind" %}}.
 
 Ia menyebut Pergamus sebagai tempat "{{% bible val="di mana Iblis diam dan memiliki takhtanya" link="rev:2,13" lang="ind" %}}," yang hampir pasti terutama merujuk pada status Pergamus sebagai pusat terdepan penyembahan kaisar di provinsi itu - kuil yang baru saja disebutkan - mungkin diperkuat oleh Altar Besar Zeus yang menjulang dan kultus ular Asklepios, keduanya menjadi tengara kota itu. Dan diukur dari situ, jemaat ini sudah berbuat baik: mereka bertekun dan tidak menyangkal nama Yesus, bahkan sampai ada yang mati syahid - sebuah fakta yang menunjukkan betapa sulitnya hidup sebagai orang Kristen di sana. Keadaan mereka sebanding dengan Smirna, bahkan mungkin lebih buruk.
 
@@ -46,7 +46,7 @@ Namun ada satu hal yang menghancurkan mereka dari dalam: {{% bible val="Bileam d
 ## Masalahnya
 
 <a name="7e5f"></a>
-{{% int_link val="Kisah Bileam menunjukkan kegagalan kepemimpinan yang tidak konsisten" link="/expl/bible/keyword/the-story-of-balaam" %}}, dan para pengikut Nikolaus kemungkinan mewakili kegagalan yang serupa. Dalam kedua kasus itu, kepemimpinan jemaat tidak menunjukkan sikap tegas melawan ajaran sesat.
+{{% int_link val="Kisah Bileam menunjukkan kegagalan kepemimpinan yang tidak konsisten" link="/expl/bible/keyword/the-story-of-balaam" %}}, dan para pengikut Nikolaus kemungkinan mewakili kegagalan yang serupa. Dalam kedua kasus itu, kepemimpinan jemaat tidak menunjukkan sikap tegas melawan ajaran sesat.[^lead]
 
 Memperhatikan keadaan ini dengan cermat menyingkapkan alasannya: ini adalah jemaat yang membiarkan ajaran sesat yang sudah diketahui, alih-alih menghadapinya. Karena setiap ajaran membentuk perilaku, pengajaran yang longgar ini membawa akibat bagi cara hidup mereka dan bagi kesaksian mereka. Bisa jadi inilah yang justru mendorong persoalan yang sedang dibahas di sini: perjamuan bersama yang dipersembahkan kepada berhala.
 
@@ -55,8 +55,10 @@ Memperhatikan keadaan ini dengan cermat menyingkapkan alasannya: ini adalah jema
 <a name="85d8"></a>
 Orang-orang yang setia dijanjikan {{% bible val="manna" link="deu:8,16" lang="ind" %}} yang tersembunyi - sebuah pengingat bahwa Allah menyediakan secara ajaib, dan bahwa kita harus percaya kepada-Nya bahkan ketika keadaan tampak tanpa harapan.
 
-Mereka juga dijanjikan sebuah batu putih dengan nama baru tertulis di atasnya. Batu putih membawa dua kemungkinan makna pada zaman itu: batu itu dipakai {{% bible val="di pengadilan, tempat suara diberikan lewat batu kerikil - putih untuk pembebasan, hitam untuk penghukuman" link="act:26,10" lang="ind" %}} - sesuai, karena orang-orang percaya ini perlu dibebaskan dari tuduhan ikut serta dalam perjamuan berhala sebelum mereka dapat mengambil bagian dalam {{% bible val="perjamuan kawin Anak Domba" link="rev:19,9" lang="ind" %}} - dan batu itu juga bisa berfungsi sebagai tiket masuk, mungkin ke perjamuan kawin yang sama itu.
+Mereka juga dijanjikan sebuah batu putih dengan nama baru tertulis di atasnya. Batu putih membawa dua kemungkinan makna pada zaman itu: batu itu dipakai {{% bible val="di pengadilan, tempat suara diberikan lewat batu kerikil - putih untuk pembebasan, hitam untuk penghukuman" link="act:26,10" lang="ind" %}} - sesuai, sebab justru mereka inilah orang-orang percaya yang menjauhi perjamuan berhala dan karena itu dihukum oleh kota mereka. Batu itu adalah putusan yang membatalkan putusan tadi: dibebaskan di hadapan Allah, dan karena itu duduk pada {{% bible val="perjamuan kawin Anak Domba" link="rev:19,9" lang="ind" %}} - dan batu itu juga bisa berfungsi sebagai tiket masuk, mungkin ke perjamuan kawin yang sama itu.
 
 Nama baru, dalam Kitab Suci, biasanya terkait dengan {{% bible val="identitas baru" link="gen:17,5" lang="ind" %}}, dan mengetahui nama itu menandakan hubungan yang akrab antara seseorang dengan Allah.
 
 Allah menawarkan kepada jemaat ini permulaan yang baru dan sungguh-sungguh, jika mereka menghendakinya. Namun {{% bible val="jika mereka menolaknya, Yesus akan berperang melawan mereka" link="rev:2,16" lang="ind" %}}.
+
+[^lead]: Beale, hlm. 249, tentang latar Bilangan 25: Allah menyuruh Musa menghukum mati para pemimpin, "tetapi Musa tidak segera menaatinya" - dan "ketika Israel akhirnya menertibkan dirinya sendiri, tulah itu diangkat." Itulah kegagalan yang ditimpakan surat ini kepada Pergamus.

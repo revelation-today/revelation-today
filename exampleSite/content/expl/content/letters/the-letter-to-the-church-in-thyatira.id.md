@@ -10,7 +10,7 @@ next: /expl/content/letters/the-letter-to-the-church-in-sardis
 docType: expl
 appl: /appl/content/letters
 sources: 
-    - pages: 259–272
+    - pages: 226–227, 259–272
       ref: beale_rev
     - pages: 37–38
       ref: fee_rev
@@ -20,7 +20,7 @@ sources:
 
 Apa yang harus dilakukan terhadap sebuah jemaat yang masalahnya adalah kepemimpinannya sendiri? Inilah persis keadaan yang dibahas dalam surat kepada Tiatira.
 
-Selayaknya, {{% bible val="surat kepada jemaat ini adalah yang terpanjang dari ketujuhnya" link="rev:2,18-29" lang="ind" %}}.
+Itu juga sebabnya surat ini berdiri di tempatnya. Tiatira adalah yang keempat dari tujuh, bagian tengah lingkaran itu, dan {{% bible val="suratnya adalah yang terpanjang dari semuanya" link="rev:2,18-29" lang="ind" %}}. Di pusatnya berdiri satu-satunya kalimat dalam ketujuh surat itu yang dialamatkan kepada semua jemaat sekaligus: {{% bible val="semua jemaat akan tahu bahwa Akulah yang menyelidiki hati dan pikiran" link="rev:2,23" lang="ind" %}}.[^centre]
 
 ## Latar Belakang Historis
 
@@ -58,3 +58,4 @@ Kepada mereka yang bertahan dan tetap setia di bawah kepemimpinan palsu ini, Yes
 {{% bible val="Bintang timur" link="rev:2,28" lang="ind" %}} yang dijanjikan bersamaan dengan itu kemungkinan menunjuk pada {{% bible val="fajar harapan baru" link="2pe:1,19" lang="ind" %}} yang terdapat dalam diri Yesus sendiri, yang di tempat lain {{% bible val="disebut Bintang Timur" link="rev:22,16" lang="ind" %}}.
 
 [^jezebel]: Beale, hlm. 249, 261–263. Beberapa naskah awal membaca "Izebel, isteri*mu*" dalam 2:20; Beale menganggap bacaan ini mungkin asli dan menunjuk pada "pengajar-pengajar yang diakui secara resmi". Tentang "menyebut dirinya", lihat Aune, *Revelation 1–5*, hlm. 145–146.
+[^centre]: Beale, hlm. 226–227, mengikuti Kiddle: ketujuh surat itu disusun sebagai sebuah lingkaran, dan "di pusat surat yang di tengah berdiri sebuah pernyataan umum bahwa 'semua jemaat akan tahu'".

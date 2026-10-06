@@ -37,7 +37,7 @@ Die Stadt beherbergte außerdem viele weitere Tempel, die Zeus, Athene, Dionysos
 ## Jesu Sicht
 
 <a name="dc77"></a>
-Jesus weiß, dass diese Gemeinde ein hartes Leben hat, und begegnet ihr {{% bible val="mit einem sehr scharfen Schwert" link="rev:2,12" lang="de" %}} - dem Werkzeug, um gottgemäße Lehre von Irrlehre zu trennen.
+Jesus weiß, dass diese Gemeinde ein hartes Leben hat, und begegnet ihr {{% bible val="mit einem sehr scharfen Schwert" link="rev:2,12" lang="de" %}} — sein Wort, wie in der Eingangsvision. Hier ist es kein Trost, sondern Warnung: Wenn die Gemeinde nicht umkehrt, kommt er und {{% bible val="kämpft gegen sie mit dem Schwert seines Mundes" link="rev:2,16" lang="de" %}}.
 
 Er nennt Pergamon den Ort, "{{% bible val="wo der Satan wohnt und seinen Thron hat" link="rev:2,13" lang="de" %}}" - fast sicher vor allem ein Hinweis auf Pergamons Status als führendes Zentrum des Kaiserkults in der Provinz, eben jener Tempel, der gerade erwähnt wurde, verstärkt vielleicht durch den aufragenden Großen Altar des Zeus und den Schlangenkult des Asklepios, beides Wahrzeichen der Stadt. Und gemessen daran hat die Gemeinde sich gut gehalten: Sie haben ausgeharrt und den Namen Jesu nicht verleugnet, sogar bis zum Martyrium - eine Tatsache, die zeigt, wie schwer es war, dort als Christ zu leben. Ihre Situation ist vergleichbar mit der von Smyrna, wenn nicht sogar schlimmer.
 
@@ -46,7 +46,7 @@ Doch etwas zerstört sie von innen: {{% bible val="Bileam und die Nikolaiten" li
 ## Das Problem
 
 <a name="7e5f"></a>
-Die {{% int_link val="Geschichte von Bileam zeigt das Versagen einer widersprüchlichen Leiterschaft" link="/expl/bible/keyword/the-story-of-balaam" %}}, und die Nikolaiten stehen wahrscheinlich für ein ähnliches Versagen. In beiden Fällen hat die Leiterschaft der Gemeinde keine klare Haltung gegen falsche Lehre gezeigt.
+Die {{% int_link val="Geschichte von Bileam zeigt das Versagen einer widersprüchlichen Leiterschaft" link="/expl/bible/keyword/the-story-of-balaam" %}}, und die Nikolaiten stehen wahrscheinlich für ein ähnliches Versagen. In beiden Fällen hat die Leiterschaft der Gemeinde keine klare Haltung gegen falsche Lehre gezeigt.[^lead]
 
 Ein genauer Blick auf die Situation deutet an, warum: Dies ist eine Gemeinde, die bekannte falsche Lehre geduldet hat, statt sich ihr entgegenzustellen. Da jede Lehre das Verhalten prägt, hat diese lockere Lehre Folgen dafür, wie sie leben und wovon sie Zeugnis geben. Sie dürfte genau das begünstigt haben, worum es hier geht: gemeinsame Mahlzeiten zu Ehren von Götzen.
 
@@ -55,8 +55,10 @@ Ein genauer Blick auf die Situation deutet an, warum: Dies ist eine Gemeinde, di
 <a name="85d8"></a>
 Den Treuen wird verborgenes {{% bible val="Manna" link="deu:8,16" lang="de" %}} verheißen - eine Erinnerung daran, dass Gott auf übernatürliche Weise versorgt, und dass wir ihm vertrauen müssen, selbst wenn die Umstände aussichtslos erscheinen.
 
-Ihnen wird außerdem ein weißer Stein mit einem neuen Namen verheißen. Ein weißer Stein hatte in jener Welt zwei mögliche Bedeutungen: Er wurde {{% bible val="vor Gericht verwendet, wo mittels eines Steinchens abgestimmt wurde - weiß für Freispruch, schwarz für Verurteilung" link="act:26,10" lang="de" %}} - passend, da diese Gläubigen von der Anklage, an Götzenmahlzeiten teilgenommen zu haben, freigesprochen werden müssten, bevor sie am {{% bible val="Hochzeitsmahl des Lammes" link="rev:19,9" lang="de" %}} teilnehmen könnten -, und er konnte auch als Zutrittskarte dienen, vielleicht zu ebendiesem Hochzeitsmahl.
+Ihnen wird außerdem ein weißer Stein mit einem neuen Namen verheißen. Ein weißer Stein hatte in jener Welt zwei mögliche Bedeutungen: Er wurde {{% bible val="vor Gericht verwendet, wo mittels eines Steinchens abgestimmt wurde - weiß für Freispruch, schwarz für Verurteilung" link="act:26,10" lang="de" %}} - passend, denn das sind die Gläubigen, die den Götzenmahlzeiten fernblieben und dafür von ihrer Stadt verurteilt wurden. Der Stein ist das Urteil, das jenes Urteil umstößt: freigesprochen vor Gott und damit zu Gast beim {{% bible val="Hochzeitsmahl des Lammes" link="rev:19,9" lang="de" %}} -, und er konnte auch als Zutrittskarte dienen, vielleicht zu ebendiesem Hochzeitsmahl.
 
 Ein neuer Name ist in der Schrift meist mit einer {{% bible val="neuen Identität" link="gen:17,5" lang="de" %}} verbunden, und den Namen zu kennen, zeigt eine innige Beziehung zwischen der Person und Gott an.
 
 Gott bietet dieser Gemeinde einen echten Neuanfang an, wenn sie ihn will. Aber {{% bible val="wenn sie ihn ablehnen, wird Jesus gegen sie kämpfen" link="rev:2,16" lang="de" %}}.
+
+[^lead]: Beale, S. 249, zum Hintergrund von 4. Mose 25: Gott befahl Mose, die Anführer hinzurichten, „aber Mose gehorchte nicht sofort“ — und „als Israel sich schließlich selbst zur Ordnung rief, wurde die Plage weggenommen“. Das ist das Versagen, das der Brief Pergamon vorhält.

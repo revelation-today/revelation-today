@@ -10,7 +10,7 @@ next: /expl/content/letters/the-letter-to-the-church-in-smyrna
 docType: expl
 appl: /appl/content/letters
 sources: 
-    - pages: 228–239
+    - pages: 16, 228–239
       ref: beale_rev
     - pages: 24
       ref: fee_rev
@@ -27,7 +27,7 @@ Gereja di Efesus, secara lahiriah, tampak seperti gereja teladan. Namun penampil
 <a name="6e49"></a>
 Pelabuhan besar Efesus menjadi gerbang masuk ke Asia Kecil, menjadikan kota ini salah satu yang terbesar dan terpenting di Kekaisaran Romawi. Kuil Artemis, salah satu keajaiban besar dunia kuno, juga menjadikannya tujuan wisata utama. Namun bahkan di masa kejayaannya, pelabuhan itu sudah mulai mendangkal dan terus-menerus memerlukan pengerukan yang mahal - sebuah perjuangan yang kalah, yang akhirnya mencekik pelabuhan itu di abad-abad berikutnya. Ini menjadi latar belakang yang pas bagi sebuah jemaat yang tampak makmur seperti biasanya, sementara diam-diam kehilangan apa yang sesungguhnya menopangnya.
 
-Pusat ekonomi ini menjadi tempat tinggal komunitas diaspora Yahudi yang besar - orang Yahudi yang tinggal di luar Israel - yang hak sipil dan keagamaannya berulang kali dipersoalkan oleh penduduk Yunani kota itu dan harus dibela di hadapan otoritas Romawi. Dari ketujuh jemaat yang disapa dalam Kitab Wahyu, jemaat inilah yang kemungkinan besar paling besar jumlahnya.
+Pusat ekonomi ini menjadi tempat tinggal komunitas diaspora Yahudi yang besar - orang Yahudi yang tinggal di luar Israel - yang hak sipil dan keagamaannya berulang kali dipersoalkan oleh penduduk Yunani kota itu dan harus dibela di hadapan otoritas Romawi. Efesus, Smirna dan Pergamus adalah tiga kota terbesar di provinsi itu, dan Efesus lebih berarti sebagai pusat pemerintahan daripada sebagai pusat dagang. Berapa besar jemaatnya, tidak ada yang mencatat - dan bahkan angka penduduk yang sering dikutip untuk kota itu sendiri, 200.000 ke atas, adalah dugaan modern, bukan keterangan dari zaman kuno.[^size]
 
 ## Pandangan Yesus
 
@@ -60,6 +60,11 @@ Efesus mungkin tampak seperti jemaat yang mapan dan dewasa, karena mereka sudah 
 ## Solusinya
 
 <a name="cb84"></a>
+Yesus menyebut obatnya dalam tiga langkah: {{% bible val="ingatlah betapa dalam engkau telah jatuh, bertobatlah, dan lakukanlah lagi apa yang semula kaulakukan" link="rev:2,5" lang="ind" %}}. Lalu menyusul ancaman yang sudah disiapkan oleh pembukaan surat ini: jika mereka tidak melakukannya, Ia akan datang dan mengambil kaki dian mereka. Itulah bagian yang menghancurkan. Dalam kitab ini kaki dian adalah apa yang membuat sebuah jemaat *menjadi* jemaat - sebuah terang yang berdiri di hadapan Kristus (1:20) - sehingga kehilangannya bukanlah hukuman yang harus dijalani sementara, melainkan berakhirnya keberadaannya sebagai jemaat. Di sini Efesus termasuk bersama Sardis dan Laodikia: tiga jemaat yang berada dalam bahaya kehilangan jati dirinya.[^identity]
+
 Jika Efesus ingin bertumbuh menjadi jemaat yang benar-benar dapat dipakai Allah, mereka harus membangun kembali hubungan yang akrab dengan Allah yang telah hilang - hubungan yang digambarkan lewat makan dari pohon kehidupan di Taman Eden. Untuk mendorong mereka ke arah itu, mereka diberi sebuah janji: {{% bible val="hak untuk makan dari pohon kehidupan, di taman firdaus Allah" link="rev:2,7" lang="ind" %}} - sebuah gambaran yang diangkat kembali di bagian paling akhir kitab ini, dalam {{% bible val="pohon kehidupan di tepi sungai yang mengalir dari takhta Allah di Yerusalem Baru" link="rev:22,1-5" lang="ind" %}}.
 
 [^firstlove]: Para penafsir biasanya memilih salah satu: kasih satu sama lain (kebanyakan, mis. Beasley-Murray, hlm. 75), kasih kepada Kristus (bdk. Yer. 2:2), atau kasih kepada Kristus yang tampak dalam kesaksian kepada dunia (Beale, hlm. 230). Situs ini membaca ketiganya bersama-sama.
+
+[^size]: Aune, *Revelation 1–5*, hlm. 136–137: Efesus "jauh lebih penting secara administratif daripada secara niaga", dan angka-angka yang biasa disebut, 225.000 atau 200.000, bersifat "spekulatif dan tidak berdasar pada perkiraan objektif apa pun dari zaman kuno".
+[^identity]: Beale, hlm. 16, yang menggolongkan Efesus bersama Sardis dan Laodikia sebagai jemaat-jemaat yang "berada dalam bahaya kehilangan jati diri mereka". Tentang 2:5, Beale hlm. 232: mereka "akan berhenti ada sebagai jemaat ketika fungsi yang justru menentukan hakikat keberadaan mereka tidak lagi dijalankan" - kaki dian yang diambil berarti "pengambilan jemaat sebagai terang kesaksian bagi dunia".

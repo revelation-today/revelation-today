@@ -55,7 +55,7 @@ Bu, Yahudi literatüründe zaten iyice yerleşmiş bir örüntüye uyar; burada 
 
 Öyleyse kiliselere neden "melek" densin ki? Birkaç neden mantıklı görünüyor:
 
-- Dünya çapındaki Kilise'nin bir birlik olması amaçlanmıştır, tıpkı bir meleğin tek bir "birim" olması gibi — mesele tek bir imanlının bireysel Tanrı yürüyüşü değil, cemaatin bir bütün olarak paylaştığı sorumluluktur.
+- Mektup, imanlılara tek tek değil, topluluğa tek bir beden olarak yazılmıştır. Söz konusu olan tek bir kişinin Tanrı'yla yürüyüşü değil, kilisenin birlikte ne olduğudur — bu yüzden övgü, suçlama ve tehdit, hepsi tekil olarak gelir.
 - Onlara melek (*angelos*, "haberci" demektir) olarak hitap etmek, onlara semavi amaçlarını hatırlatır.
 - Onlara melek denmesi, ayrıca bu işi kendi başlarına yapamayacaklarının, Kutsal Ruh aracılığıyla semavi yardıma ihtiyaç duyduklarının bir işaretidir.
 

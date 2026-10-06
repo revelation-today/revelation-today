@@ -33,7 +33,7 @@ Laodikya birçok ticaret yolunun kesiştiği noktada yer alıyordu ve son derece
 
 M.S. 60'ta bir deprem kenti yıktığında, kent Roma'dan yardım almadan kendi kaynaklarıyla yeniden kuruldu (Tacitus, *Yıllıklar* 14.27).
 
-Yine de kendi kaynağı yoktu: suyu, kuzeydeki Hierapolis'i de besleyen sıcak su kaynaklarına yakın, epey uzaktaki mineralli kaynaklardan bir su kemeri aracılığıyla geliyordu. Şehre ulaştığında zaten soğumuş ve ağır bir mineral tortusu almıştı — hem Hierapolis'in ünlü sıcak, şifalı suyunun hem de vadinin daha yukarısındaki Kolosse'nin soğuk, ferahlatıcı suyunun zayıf bir yerine geçeni. İsa'nın aşağıdaki azarı büyük olasılıkla bu yerel üne gönderme yapar.[^water]
+Yine de kendi kaynağı yoktu: suyu, güneyde yaklaşık sekiz kilometre uzakta, bugünkü Denizli dolaylarındaki sıcak mineralli kaynaklardan bir su kemeri aracılığıyla geliyordu. Şehre ulaştığında ılımlaşmış ve ağır bir mineral tortusu almıştı — hem Hierapolis'in ünlü sıcak, şifalı suyunun hem de vadinin daha yukarısındaki Kolosse'nin soğuk, ferahlatıcı suyunun zayıf bir yerine geçeni. İsa'nın aşağıdaki azarı büyük olasılıkla bu yerel üne gönderme yapar.[^water]
 
 ## İsa'nın görüşü
 

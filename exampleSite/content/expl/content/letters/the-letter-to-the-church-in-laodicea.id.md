@@ -33,7 +33,7 @@ Laodikia terletak di persimpangan beberapa jalur perdagangan dan merupakan kota 
 
 Ketika gempa bumi menghancurkan kota ini pada tahun 60 M, kota ini membangun kembali dirinya dengan hartanya sendiri, tanpa bantuan Roma (Tacitus, *Annales* 14.27).
 
-Namun kota ini tidak memiliki mata air sendiri: airnya mengalir melalui saluran air dari mata air bermineral yang jaraknya cukup jauh, di dekat mata air panas yang juga mengalir ke Hierapolis di sebelah utara. Pada saat tiba di kota, air itu sudah mendingin dan mengandung endapan mineral yang berat - pengganti yang buruk baik untuk air panas Hierapolis yang terkenal berkhasiat penyembuhan maupun air dingin dan menyegarkan dari Kolose lebih jauh ke hulu lembah. Teguran Yesus di bawah ini kemungkinan besar memanfaatkan reputasi lokal ini.[^water]
+Namun kota ini tidak memiliki mata air sendiri: airnya mengalir melalui saluran air dari mata air panas bermineral sekitar delapan kilometer di sebelah selatan, di daerah yang sekarang bernama Denizli. Pada saat tiba di kota, air itu sudah menjadi hangat-hangat kuku dan mengandung endapan mineral yang berat - pengganti yang buruk baik untuk air panas Hierapolis yang terkenal berkhasiat penyembuhan maupun air dingin dan menyegarkan dari Kolose lebih jauh ke hulu lembah. Teguran Yesus di bawah ini kemungkinan besar memanfaatkan reputasi lokal ini.[^water]
 
 ## Pandangan Yesus
 

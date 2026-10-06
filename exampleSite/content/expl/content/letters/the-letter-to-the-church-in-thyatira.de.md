@@ -10,7 +10,7 @@ next: /expl/content/letters/the-letter-to-the-church-in-sardis
 docType: expl
 appl: /appl/content/letters
 sources: 
-    - pages: 259–272
+    - pages: 226–227, 259–272
       ref: beale_rev
     - pages: 37–38
       ref: fee_rev
@@ -20,7 +20,7 @@ sources:
 
 Was macht man mit einer Gemeinde, deren Problem die eigene Leiterschaft ist? Genau das ist die Situation, mit der sich der Brief an Thyatira befasst.
 
-Passend dazu ist der {{% bible val="Brief an diese Gemeinde der längste der sieben" link="rev:2,18-29" lang="de" %}}.
+Darum steht dieser Brief auch da, wo er steht. Thyatira ist der vierte von sieben, die Mitte des Ringes, und {{% bible val="sein Brief ist der längste von allen" link="rev:2,18-29" lang="de" %}}. In seiner Mitte steht der einzige Satz der sieben, der sich an alle Gemeinden zugleich richtet: {{% bible val="alle Gemeinden werden erkennen, dass ich der bin, der Herz und Sinn erforscht" link="rev:2,23" lang="de" %}}.[^centre]
 
 ## Historischer Hintergrund
 
@@ -58,3 +58,4 @@ Denen, die ausharren und unter dieser falschen Leiterschaft treu bleiben, verhei
 Der {{% bible val="Morgenstern" link="rev:2,28" lang="de" %}}, der ihnen zusammen damit verheißen wird, weist wahrscheinlich auf {{% bible val="die Morgendämmerung einer neuen Hoffnung" link="2pe:1,19" lang="de" %}} hin, die sich in Jesus selbst findet, der andernorts {{% bible val="der Morgenstern genannt wird" link="rev:22,16" lang="de" %}}.
 
 [^jezebel]: Beale, S. 249, 261–263. Einige frühe Handschriften lesen in 2,20 „*deine* Frau Isebel“; Beale hält das für möglicherweise ursprünglich und sieht darin einen Hinweis auf „offiziell anerkannte Lehrer“. Zu „nennt sich selbst“ siehe Aune, *Revelation 1–5*, S. 145–146.
+[^centre]: Beale, S. 226–227, nach Kiddle: Die sieben Briefe sind als Ring angeordnet, und „in der Mitte des mittleren Briefes steht eine allgemeine Aussage, dass 'alle Gemeinden erkennen werden'“.

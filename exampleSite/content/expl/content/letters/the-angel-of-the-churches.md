@@ -55,7 +55,7 @@ This fits a pattern already well established in Jewish literature, where a whole
 
 So why call the churches "angels" at all? A few reasons make sense:
 
-- The worldwide Church is meant to be a unity, just as an angel is a single "unit" — the point isn't any one believer's individual walk with God, but the congregation's shared responsibility as a whole.
+- The letter is addressed to the congregation as one body, not to the believers one by one. What is at stake is not any single person's walk with God but what the church is together, which is why praise, charge and threat all come in the singular.
 - Addressing them as angels (*angelos* means "messenger") reminds them of their heavenly purpose.
 - Calling them angels also signals that they can't do this work on their own — they need heavenly help, through the Holy Spirit.
 

@@ -10,7 +10,7 @@ next: /expl/content/letters/the-letter-to-the-church-in-smyrna
 docType: expl
 appl: /appl/content/letters
 sources: 
-    - pages: 228–239
+    - pages: 16, 228–239
       ref: beale_rev
     - pages: 24
       ref: fee_rev
@@ -27,7 +27,7 @@ Efes'teki kilise, görünüşte örnek bir kilisedir. Ama görünüş aldatıcı
 <a name="d798"></a>
 Efes'in büyük limanı Küçük Asya'nın kapısıydı, bu da şehri Roma İmparatorluğu'nun en büyük ve en önemli şehirlerinden biri yapıyordu. Antik dünyanın büyük harikalarından biri olan Artemis Tapınağı, şehri aynı zamanda önemli bir turizm merkezi hâline getiriyordu. Ama en parlak döneminde bile liman zaten dolmaya başlamıştı ve sürekli, pahalı bir şekilde taranması gerekiyordu — sonraki yüzyıllarda limanı sonunda boğacak olan, kaybedilmiş bir mücadele. Her zamanki kadar müreffeh görünürken sessizce kendisini ayakta tutan şeyi kaybeden bir kilise için uygun bir arka plan.
 
-Bu ekonomik merkez, şehrin Yunan nüfusu tarafından defalarca sorgulanan ve Roma yetkilileri önünde savunulması gereken sivil ve dinî haklara sahip büyük bir diaspora Yahudi topluluğuna — İsrail dışında yaşayan Yahudilere — ev sahipliği yapıyordu. Vahiy'de hitap edilen yedi kilise arasında bu, muhtemelen en büyüğüydü.
+Bu ekonomik merkez, şehrin Yunan nüfusu tarafından defalarca sorgulanan ve Roma yetkilileri önünde savunulması gereken sivil ve dinî haklara sahip büyük bir diaspora Yahudi topluluğuna — İsrail dışında yaşayan Yahudilere — ev sahipliği yapıyordu. Efes, İzmir ve Bergama eyaletin en büyük üç kentiydi; Efes bir ticaret merkezi olmaktan çok bir yönetim merkezi olarak ağırlık taşıyordu. Kilisesinin ne kadar büyük olduğunu kimse kaydetmez — kentin kendisi için sık sık anılan 200.000 ve üzeri nüfus rakamları bile antik bir kayda dayanmayan modern tahminlerdir.[^size]
 
 ## İsa'nın görüşü
 
@@ -60,6 +60,11 @@ Efes, ruhsal zorluklarla başa çıkmak için gerçek stratejiler geliştirmiş 
 ## Çözüm
 
 <a name="4d61"></a>
+İsa çareyi üç adımda söyler: {{% bible val="ne kadar düştüğünü hatırla, tövbe et ve başlangiçtaki işleri yeniden yap" link="rev:2,5" lang="tr" %}}. Ardından, bu mektubun girişinin hazırladığı tehdit gelir: bunu yapmazlarsa, O gelip kandilliklerini yerinden kaldıracak. Yok edici olan budur. Bu kitapta kandillik, bir kilisenin ne *olduğudur* — Mesih'in huzurunda duran bir ışık (1:20) — ve onu yitirmek, bir süre çekilen bir ceza değil, kilise olmaklığın sona ermesidir. Efes burada Sart ve Laodikya'yla aynı gruptadır: kimliğini yitirme tehlikesindeki üç topluluk.[^identity]
+
 Efes'in Tanrı'nın gerçekten kullanabileceği bir kiliseye dönüşmek istiyorsa, kaybettiği o yakın ilişkiyi Tanrı'yla yeniden inşa etmesi gerekir — Aden Bahçesi'nde yaşam ağacından yemekle resmedilen o ilişkiyi. Onları bu yönde teşvik etmek için kendilerine bir vaat verilir: {{% bible val="Tanrı'nın cennetindeki yaşam ağacından yeme hakkı" link="rev:2,7" lang="tr" %}} — kitabın en sonunda, {{% bible val="Yeni Yeruşalim'de Tanrı'nın tahtından akan ırmağın kenarındaki yaşam ağacında" link="rev:22,1-5" lang="tr" %}} yeniden ele alınan bir imge.
 
 [^firstlove]: Yorumcular genellikle birini seçer: birbirine sevgi (çoğu, örn. Beasley-Murray, s. 75), Mesih'e sevgi (krş. Yer. 2:2) ya da dünyaya tanıklıkta görünen Mesih sevgisi (Beale, s. 230). Bu site üçünü birlikte okur.
+
+[^size]: Aune, *Revelation 1–5*, s. 136–137: Efes "ticari olmaktan çok idari bakımdan önemliydi" ve sık anılan 225.000 ya da 200.000 rakamları "spekülatiftir ve antik çağdan gelen nesnel hiçbir tahmine dayanmaz".
+[^identity]: Beale, s. 16, Efes'i Sart ve Laodikya'yla birlikte "kimliklerini yitirme tehlikesinde" olan kiliseler arasında sayar. 2:5 için Beale s. 232: "varlıklarının özünü tanımlayan işlev artık yerine getirilmediğinde kilise olarak var olmaktan çıkacaklardır" — kaldırılan kandillik, "kilisenin dünyaya tanıklık eden bir ışık olarak kaldırılması" anlamına gelir.

@@ -36,10 +36,12 @@ Beberapa unsur dalam penglihatan ini layak untuk kita renungkan:
 - **Kaki-kaki dian.** Hal pertama yang dilihat Yohanes adalah tujuh kaki dian, yang kemungkinan besar diambil {{% bible val="dari Kitab Zakharia" link="zec:4,2-10" lang="ind" %}} - jika kamu belum mengenal kitab itu, [berikut ini ikhtisar singkatnya](https://www.youtube.com/watch?v=_106IfO6Kc0). Dalam pasal itu, ketujuh pelita melambangkan Roh Kudus. Identitas kaki-kaki dian di sini masih belum jelas sampai penafsirannya diberikan kemudian dalam nas ini.
 - **Anak Manusia.** Di tengah-tengah kaki-kaki dian itu berdiri sosok seperti Anak Manusia - gambaran yang dikenal luas dari {{% bible val="Kitab Daniel" link="dan:7,13" lang="ind" %}} yang [diterapkan Yesus pada diri-Nya sendiri](https://www.bibleserver.com/search/SLT/Menschensohn). Karena {{% bible val="Yesus juga memegang peran sebagai imam" link="heb:7,11-28" lang="ind" %}}, maka adalah {{% bible val="tanggung jawab-Nya untuk merawat kaki-kaki dian" link="exo:30,7" lang="ind" %}}, sama seperti itu adalah tugas imam di Bait Suci.
 - **Jubah dengan ikat pinggang emas.** Jubah dan ikat pinggang yang dikenakan Yesus bisa dibaca sebagai pakaian imam atau pakaian raja - sebuah ambiguitas yang mungkin memang disengaja, sebab Yesus digambarkan sekaligus sebagai imam dan raja.
-- **Rambut putih.** Ini menggemakan penglihatan Daniel pasal 7.
+- **Rambut putih.** Dalam Daniel pasal 7, rambut putih itu bukan milik Anak Manusia. Itu milik {{% bible val="Yang Lanjut Usianya" link="dan:7,9" lang="ind" %}} - Allah sendiri.
 - **Mata bagaikan nyala api, kaki bagaikan tembaga yang berkilau, suara yang nyaring.** Semua ini adalah {{% bible val="ciri-ciri dari Daniel pasal 10" link="dan:10,5-6" lang="ind" %}}, di mana {{% bible val="sosok yang dikenali sebagai malaikat pejuang" link="dan:10,20" lang="ind" %}} mempersiapkan Daniel untuk penglihatan terakhirnya - peran yang sama yang dijalankan sosok ini bagi Yohanes di sini.
+- **Pedang dari mulut-Nya.** Bukan senjata di tangan-Nya. Satu-satunya senjata-Nya adalah firman-Nya, dan senjata itu dipakai dua kali di dalam kitab ini: terhadap bangsa-bangsa pada akhirnya ({{% bible val="19:15, 21" link="rev:19,15" lang="ind" %}}) dan, dalam surat kepada Pergamus, terhadap jemaat itu sendiri ({{% bible val="2:16" link="rev:2,16" lang="ind" %}}).
+- **Wajah bagaikan matahari.** Terang dari hadirat Allah sendiri, seperti di atas gunung tempat {{% bible val="Yesus dimuliakan" link="mat:17,2" lang="ind" %}}. Pada akhir kitab ini kota itu tidak memerlukan matahari, sebab {{% bible val="Allah dan Anak Domba itulah terangnya" link="rev:21,23" lang="ind" %}}.
 
-Jadi Anak Manusia di sini dipadukan dengan "Yang Lanjut Usianya" (Allah) dari Daniel pasal 7.
+Jadi Anak Manusia diberi penampilan Allah sendiri: kedua sosok dari Daniel pasal 7 ditumpangkan menjadi satu pribadi. Ciri-ciri dari Daniel pasal 10 melakukan hal lain - ciri-ciri itu memberinya sikap seseorang yang mempersiapkan seorang nabi untuk apa yang akan dilihatnya.
 
 ## Reaksi Itu
 
@@ -49,7 +51,7 @@ Yohanes roboh, sama seperti yang terjadi padanya dalam {{% bible val="penglihata
 ## Penafsiran Itu
 
 <a name="4bd0"></a>
-Yesus menegaskan kembali semua pernyataan yang telah kita lihat {{% bible val="di awal pasal ini" link="rev:1,5" lang="ind" %}}.
+Lalu Yesus mengatakan siapa diri-Nya: {{% bible val="Yang Awal dan Yang Akhir, Yang Hidup, yang telah mati namun hidup selama-lamanya, dan yang memegang kunci alam maut" link="rev:1,17-18" lang="ind" %}}. Itulah jawaban atas rebahnya Yohanes, dan dengan kata-kata penglihatan itu sendiri hal itu menyatakan apa yang sudah dinyatakan {{% bible val="pada awal surat ini" link="rev:1,5" lang="ind" %}} - saksi yang setia, yang pertama bangkit dari antara orang mati, penguasa raja-raja bumi.
 
 Akhirnya, {{% bible val="misteri kaki-kaki dian dan bintang-bintang itu terpecahkan" link="rev:1,20" lang="ind" %}}: keduanya melambangkan {{% int_link val="berbagai gambaran tentang jemaat" link="/expl/content/letters/the-angel-of-the-churches" %}}. Jadi apa artinya itu?
 

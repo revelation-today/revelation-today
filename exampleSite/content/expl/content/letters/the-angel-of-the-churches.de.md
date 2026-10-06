@@ -55,7 +55,7 @@ Das passt zu einem Muster, das in der jüdischen Literatur bereits gut belegt is
 
 Warum also werden die Gemeinden überhaupt "Engel" genannt? Ein paar Gründe erscheinen plausibel:
 
-- Die weltweite Gemeinde soll eine Einheit sein, so wie ein Engel eine einzelne "Einheit" ist - es geht nicht um den individuellen Weg eines einzelnen Gläubigen mit Gott, sondern um die gemeinsame Verantwortung der Gemeinde als Ganzes.
+- Der Brief richtet sich an die Gemeinde als einen Leib, nicht an die Gläubigen einzeln. Es geht nicht um den Weg eines Einzelnen mit Gott, sondern darum, was die Gemeinde gemeinsam ist — darum stehen Lob, Vorwurf und Drohung alle im Singular.
 - Sie als Engel anzusprechen (*angelos* bedeutet "Bote") erinnert sie an ihre himmlische Bestimmung.
 - Sie Engel zu nennen, signalisiert auch, dass sie diese Aufgabe nicht aus eigener Kraft bewältigen können - sie brauchen himmlische Hilfe, durch den Heiligen Geist.
 
