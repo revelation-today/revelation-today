@@ -7,7 +7,7 @@ next: /expl/bible/daniel/the-four-kingdoms-in-daniel
 docType: expl
 sources:
     - ref: daniel
-    - pages: 575
+    - pages: 545, 575
       ref: goldingay_dan
     - pages: 566
       ref: beale_rev
@@ -62,7 +62,7 @@ Dieses Muster legt nahe, dass diese sechs Kapitel das Zentrum des Buches bilden,
 
 {{% bible val="Dan.11/1–35" link="dan:11,1-35" lang="de" %}} ist ein Abschnitt, in dem sich die Kommentatoren weitgehend einig sind, weil sein Bezug zu den Geschichtsbüchern zu stark ist, um ihn zu leugnen: Er zeichnet die Zeit von den persischen Königen zu Daniels eigener Zeit bis zur jüdischen Antichrist-Gestalt, Antiochus IV. Epiphanes, nach.
 
-{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="de" %}} scheint nahtlos an den vorherigen Abschnitt anzuknüpfen, hat aber tatsächlich keinen klaren Bezug zu historischen Ereignissen. Stattdessen beschreibt er die Mächte und Potenziale hinter dieser Art von König und Königtum im Allgemeinen, ähnlich wie {{% bible val="Tyrus" link="ezk:28,13-17" lang="de" %}} anderswo eher als Typus denn als strikte historische Referenz verwendet wird.
+{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="de" %}} scheint nahtlos an den vorherigen Abschnitt anzuknüpfen, hat aber tatsächlich keinen klaren Bezug zu historischen Ereignissen.[^v36] Stattdessen beschreibt er die Mächte und Potenziale hinter dieser Art von König und Königtum im Allgemeinen, ähnlich wie {{% bible val="Tyrus" link="ezk:28,13-17" lang="de" %}} anderswo eher als Typus denn als strikte historische Referenz verwendet wird.
 
 {{% bible val="Dan.12" link="dan:12" lang="de" %}} schließt das Buch mit einer Ermutigung an die Heiligen ab, all das durchzuhalten.
 
@@ -74,3 +74,5 @@ Hier überschneiden sich mehrere Dimensionen der Geschichte. Da ist die Geschich
 Zusammengenommen zeigen diese Fäden, wie viel Gewicht auf dem Glauben jedes Einzelnen innerhalb des ewigen Schicksals der Welt ruht. Gott wirkt durch die kleinen, oft verborgenen Taten Einzelner und bringt durch sie ein Reich hervor, das nicht besiegt werden kann.
 
 [^chiasm]: Der Chiasmus der Kapitel 2–7 stammt von A. Lenglet, „La structure littéraire de Daniel 2–7", *Biblica* 53 (1972), 169–190; Goldingay, *Daniel* (WBC 30, überarb.), S. 575, folgt ihm und stellt ihn neben die Sprachgrenze: Hebräisch in 1–2,4a, Aramäisch in 2,4b–7,28, wieder Hebräisch in 8–12. Die beiden Einteilungen fallen bewusst nicht zusammen, und gerade das rückt Kapitel 7 in die Mitte des Buches — der Sprache nach gehört es zur ersten Hälfte, der Form nach zur zweiten.
+
+[^v36]: Das ist nicht nur unsere Lesart. Goldingay, *Daniel* (WBC 30, überarb.), S. 545, markiert Vers 40 als den Übergang „von Quasi-Vorhersage auf der Grundlage historischer Fakten zu wirklicher Vorhersage auf der Grundlage der Schrift und des Musters früherer Ereignisse" und sagt klar, die Darstellung „entspricht nicht den tatsächlichen Ereignissen der 160er Jahre" — nicht weil der Abschnitt gescheitert wäre, sondern weil „es nicht die Art biblischer Prophetie ist, einen wörtlichen Bericht von Ereignissen zu geben, bevor sie geschehen". Die Schlussbilder liest er als aus älterer Schrift genommen: Nebukadnezars Feldzug, die Prophetien vom Fall Ägyptens, die letzte Schlacht in der Mitte der Welt. Kritische Ausleger, die 11,40–45 als eine Vorhersage über Antiochus verstehen, die so nicht eingetroffen ist, beschreiben dieselbe Unstimmigkeit und erklären sie anders.

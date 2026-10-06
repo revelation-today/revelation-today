@@ -7,7 +7,7 @@ next: /expl/bible/daniel/the-four-kingdoms-in-daniel
 docType: expl
 sources:
     - ref: daniel
-    - pages: 575
+    - pages: 545, 575
       ref: goldingay_dan
     - pages: 566
       ref: beale_rev
@@ -62,7 +62,7 @@ Pola ini menunjukkan bahwa keenam pasal ini membentuk pusat kitab ini, dengan pa
 
 {{% bible val="Dan.11/1–35" link="dan:11,1-35" lang="ind" %}} adalah bagian yang para penafsir sebagian besar sepakat, sebab hubungannya dengan buku-buku sejarah terlalu kuat untuk disangkal: bagian ini menelusuri masa dari raja-raja Persia pada zaman Daniel sendiri hingga sosok antikristus Yahudi, Antiokhus Epifanes IV.
 
-{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="ind" %}} tampak menyambung dengan lancar dari bagian sebelumnya, tetapi sesungguhnya tidak memiliki hubungan yang jelas dengan peristiwa-peristiwa historis. Sebaliknya, bagian ini menggambarkan kuasa-kuasa dan potensi-potensi di balik jenis raja dan kekuasaan semacam ini secara umum, mirip dengan bagaimana {{% bible val="Tirus" link="ezk:28,13-17" lang="ind" %}} digunakan di tempat lain sebagai sebuah tipe, bukan sebagai rujukan historis yang ketat.
+{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="ind" %}} tampak menyambung dengan lancar dari bagian sebelumnya, tetapi sesungguhnya tidak memiliki hubungan yang jelas dengan peristiwa-peristiwa historis.[^v36] Sebaliknya, bagian ini menggambarkan kuasa-kuasa dan potensi-potensi di balik jenis raja dan kekuasaan semacam ini secara umum, mirip dengan bagaimana {{% bible val="Tirus" link="ezk:28,13-17" lang="ind" %}} digunakan di tempat lain sebagai sebuah tipe, bukan sebagai rujukan historis yang ketat.
 
 {{% bible val="Dan.12" link="dan:12" lang="ind" %}} menutup kitab ini dengan dorongan bagi orang-orang kudus untuk bertekun melewati semuanya ini.
 
@@ -74,3 +74,5 @@ Beberapa dimensi kisah ini saling bertumpang tindih di sini. Ada kisah tentang i
 Bersama-sama, benang-benang kisah ini menunjukkan betapa besar bobot yang ditanggung oleh iman setiap orang dalam nasib kekal dunia ini. Allah bekerja melalui tindakan-tindakan kecil, yang sering kali tersembunyi, dari orang-perorangan, dan melaluinya, Ia mewujudkan sebuah kerajaan yang tidak dapat dikalahkan.
 
 [^chiasm]: Kiasme pasal 2–7 berasal dari A. Lenglet, "La structure littéraire de Daniel 2–7", *Biblica* 53 (1972), 169–190; Goldingay, *Daniel* (WBC 30 rev.), hlm. 575, mengikutinya dan menempatkannya berdampingan dengan batas bahasa: Ibrani dalam 1–2:4a, Aram dalam 2:4b–7:28, Ibrani lagi dalam 8–12. Kedua pembagian itu sengaja tidak berimpit, dan justru itulah yang menempatkan pasal 7 di pusat kitab ini — menurut bahasanya ia masuk paruh pertama, menurut bentuknya paruh kedua.
+
+[^v36]: Ini bukan hanya pembacaan kami. Goldingay, *Daniel* (WBC 30 rev.), hlm. 545, menandai ayat 40 sebagai peralihan "dari kuasi-ramalan yang berdasar fakta sejarah kepada ramalan yang sesungguhnya, yang berdasar pada Kitab Suci dan pada pola peristiwa-peristiwa sebelumnya", dan mengatakan dengan jelas bahwa gambarannya "tidak sesuai dengan peristiwa-peristiwa yang sebenarnya pada tahun 160-an" — bukan karena bagian itu gagal, melainkan karena "bukan sifat nubuat Alkitab untuk memberikan laporan harfiah tentang peristiwa sebelum peristiwa itu terjadi". Adegan-adegan penutupnya ia baca sebagai diambil dari Kitab Suci yang lebih tua: serbuan Nebukadnezar, nubuat-nubuat tentang jatuhnya Mesir, pertempuran terakhir di pusat dunia. Para pembaca kritis yang memahami 11:40–45 sebagai ramalan tentang Antiokhus yang tidak terjadi sebagaimana tertulis sedang menggambarkan ketidakcocokan yang sama dan menjelaskannya secara berbeda.

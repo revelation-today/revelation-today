@@ -61,7 +61,7 @@ Bu örüntü, kitabın merkezinin bu altı bölüm olduğunu, 1. bölümün giri
 
 {{% bible val="Dan.11/1–35" link="dan:11,1-35" lang="tr" %}}, yorumcuların büyük ölçüde hemfikir olduğu bir bölümdür, çünkü tarih kitaplarıyla bağlantısı inkâr edilemeyecek kadar güçlüdür: Daniel'in kendi döneminin Pers krallarından Yahudi Deccal figürü Antiokhos Epifanes IV'e kadar olan zamanı izler.
 
-{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="tr" %}}, önceki bölümden sorunsuzca devam ediyor gibi görünse de, aslında tarihsel olaylarla açık bir bağlantısı yoktur. Bunun yerine, {{% bible val="Sur'un" link="ezk:28,13-17" lang="tr" %}} başka bir yerde katı bir tarihsel referans yerine bir tip olarak kullanılmasına benzer şekilde, bu tür bir kral ve krallığın ardındaki güçleri ve potansiyelleri anlatır.
+{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="tr" %}}, önceki bölümden sorunsuzca devam ediyor gibi görünse de, aslında tarihsel olaylarla açık bir bağlantısı yoktur.[^v36] Bunun yerine, {{% bible val="Sur'un" link="ezk:28,13-17" lang="tr" %}} başka bir yerde katı bir tarihsel referans yerine bir tip olarak kullanılmasına benzer şekilde, bu tür bir kral ve krallığın ardındaki güçleri ve potansiyelleri anlatır.
 
 {{% bible val="Dan.12" link="dan:12" lang="tr" %}}, azizlere tüm bunlara dayanmaları için cesaret vererek kitabı kapatır.
 
@@ -73,3 +73,5 @@ Burada öykünün birkaç boyutu iç içe geçer. Daniel ve arkadaşlarının im
 Bir araya geldiğinde bu iplikler, dünyanın ebedi kaderi içinde her bir kişinin imanının ne kadar ağırlık taşıdığını gösterir. Tanrı, bireylerin küçük, çoğu zaman gizli kalan eylemleri aracılığıyla çalışır ve onlar sayesinde yenilmez bir krallık ortaya çıkarır.
 
 [^chiasm]: 2–7. bölümlerin kiazmı A. Lenglet’ye aittir: "La structure littéraire de Daniel 2–7", *Biblica* 53 (1972), 169–190; Goldingay, *Daniel* (WBC 30, gözden geçirilmiş), s. 575, bunu izler ve dil sınırının yanına koyar: 1–2:4a İbranice, 2:4b–7:28 Aramice, 8–12 yine İbranice. İki bölümleme bilerek üst üste düşmez ve kitabın merkezine 7. bölümü yerleştiren de budur — diline göre ilk yarıya, biçimine göre ikinci yarıya aittir.
+
+[^v36]: Bu yalnızca bizim okumamız değil. Goldingay, *Daniel* (WBC 30, gözden geçirilmiş), s. 545, 40. ayeti "tarihsel olgulara dayalı yarı-öngörüden, Kutsal Yazılara ve daha önceki olayların örüntüsüne dayalı gerçek öngörüye" geçiş olarak işaretler ve betimlemenin "160’lardaki gerçek olaylara karşılık gelmediğini" açıkça söyler — bölüm başarısız olduğu için değil, "olaylar gerçekleşmeden önce onların harfi bir anlatımını vermek Kutsal Kitap peygamberliğinin doğasında olmadığı" için. Kapanış sahnelerini daha eski Yazılardan alınmış olarak okur: Nebukadnessar’ın seferi, Mısır’ın düşüşüne dair peygamberlikler, dünyanın merkezindeki son savaş. 11:40–45’i Antiohos hakkında yazıldığı gibi gerçekleşmemiş bir öngörü sayan eleştirel okurlar da aynı uyuşmazlığı betimler, yalnızca başka türlü açıklar.

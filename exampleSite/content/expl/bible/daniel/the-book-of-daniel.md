@@ -7,7 +7,7 @@ next: /expl/bible/daniel/the-four-kingdoms-in-daniel
 docType: expl
 sources:
     - ref: daniel
-    - pages: 575
+    - pages: 545, 575
       ref: goldingay_dan
     - pages: 566
       ref: beale_rev
@@ -62,7 +62,7 @@ The pattern suggests these six chapters form the center of the book, with chapte
 
 {{% bible val="Dan 11:1–35" link="dan:11,1-35" lang="en" %}} is a section where commentators largely agree, because its connection to the history books is too strong to deny: it traces the time from the Persian kings of Daniel's own day to the Jewish Antichrist figure, Antiochus IV. Epiphanes
 
-{{% bible val="Dan 11:36–45" link="dan:11,36-45" lang="en" %}} seems to follow smoothly from the previous section, but it actually has no clear connection to historical events. Instead, it describes the powers and potentials behind this kind of king and kingship in general, similar to how {{% bible val="Tyre" link="ezk:28,13-17" lang="en" %}} is used elsewhere as a type rather than a strict historical reference.
+{{% bible val="Dan 11:36–45" link="dan:11,36-45" lang="en" %}} seems to follow smoothly from the previous section, but it actually has no clear connection to historical events.[^v36] Instead, it describes the powers and potentials behind this kind of king and kingship in general, similar to how {{% bible val="Tyre" link="ezk:28,13-17" lang="en" %}} is used elsewhere as a type rather than a strict historical reference.
 
 {{% bible val="Dan.12" link="dan:12" lang="en" %}} closes the book with encouragement for the saints to persevere through all of this.
 
@@ -74,3 +74,5 @@ Several dimensions of the story overlap here. There's the story of Daniel and hi
 Together, these threads show how much weight rests on each person's faith within the eternal destiny of the world. God works through the small, often hidden acts of individuals and, through them, brings forth a kingdom that cannot be beaten.
 
 [^chiasm]: The chiasm of chapters 2–7 is A. Lenglet, "La structure littéraire de Daniel 2–7", *Biblica* 53 (1972), 169–190; Goldingay, *Daniel* (WBC 30 rev.), p. 575, follows it and sets it beside the language boundary: Hebrew in 1–2:4a, Aramaic in 2:4b–7:28, Hebrew again in 8–12. The two divisions deliberately do not coincide, which is what puts chapter 7 at the centre of the book — it belongs to the first half by language and to the second by form.
+
+[^v36]: This is not only our reading. Goldingay, *Daniel* (WBC 30 rev.), p. 545, marks verse 40 as the turn "from quasi-prediction based on historical facts to actual prediction based on the Scriptures and on the pattern of earlier events", and says plainly that the portrayal "does not correspond to actual events in the 160s" — not because the passage failed, but because "it is not the nature of biblical prophecy to give a literal account of events before they take place". He reads the closing scenes as drawn from earlier Scripture: Nebuchadnezzar’s invasion, the prophecies of Egypt’s fall, the last battle at the centre of the world. Critical readers who take 11:40–45 as a prediction about Antiochus that did not come true as written are describing the same mismatch and explaining it differently.
