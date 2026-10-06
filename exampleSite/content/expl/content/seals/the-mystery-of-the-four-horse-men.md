@@ -48,7 +48,7 @@ Let's first look at the Bible text:
 <a name="1fbb"></a>
 There are two main interpretations, and both have their merits — and both still find serious defenders among today's commentators:
 
-- The first rider embodies a good character — reflecting, for instance, {{% bible val="this represents him preaching all over the world" link="mrk:13,10" lang="en" %}}.
+- The first rider is a good figure: for instance, {{% bible val="the gospel being preached all over the world" link="mrk:13,10" lang="en" %}}.
 - The first rider embodies an evil character, like the other riders.
 
 ## First observations

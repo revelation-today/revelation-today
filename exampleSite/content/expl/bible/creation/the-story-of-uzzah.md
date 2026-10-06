@@ -14,11 +14,11 @@ Maybe you've never heard the story of Uzzah, and how God struck him down for try
 
 ## The Story
 
-Before Israel's first king, Saul, was enthroned, {{% bible val="Israel was at war with the Philistines and had the glorious idea of bringing the ark of the covenant into battle so that they would win" link="1sa:4,1-11" lang="en" %}}. The ark was where God resided in the Old Testament, and Israel assumed God would never let their enemy win the battle and capture it. They were wrong — God does not allow himself to be manipulated like that.
+Before Israel's first king, Saul, was enthroned, {{% bible val="Israel was at war with the Philistines and decided to bring the ark of the covenant into battle so that they would win" link="1sa:4,1-11" lang="en" %}}. The ark was where God resided in the Old Testament, and Israel assumed God would never let their enemy win the battle and capture it. They were wrong — God does not allow himself to be manipulated like that.
 
-{{% bible val="The Philistines captured the ark (and God with it?) and presented it in the house of their God to show that they are triumphant. But God did turn this around" link="1sa:5" lang="en" %}} and the {{% bible val="Philistines decided to send the ark back. Their priest decided to put the ark on a cart with some gift and carried by two calfs." link="1sa:6" lang="en" %}} It {{% bible val="arrived at the house of Abinadab and stayed there for many years" link="1sa:7,1" lang="en" %}}.
+{{% bible val="The Philistines captured the ark and set it up in the house of their god as a sign of their triumph. But God turned this around" link="1sa:5" lang="en" %}} and the {{% bible val="Philistines decided to send the ark back. Their priests put it on a cart with a gift, drawn by two cows." link="1sa:6" lang="en" %}} It {{% bible val="arrived at the house of Abinadab and stayed there for many years" link="1sa:7,1" lang="en" %}}.
 
-{{% bible val="After this time, David, the next king wanted to get the ark to Jerusalem. This was accompanied by the two sons of Abinadab: Uzzah and Ahio. The ark was put on a cart and carried by oxens. But when the oxen stumbled, Uzzah reached out and tried to stop the ark sliding from the cart. And God killed him for this act." link="2sa:6,1-7" lang="en" %}}
+{{% bible val="Later David, the next king, wanted to bring the ark to Jerusalem. Two sons of Abinadab went with it: Uzzah and Ahio. The ark was put on a cart drawn by oxen. When the oxen stumbled, Uzzah reached out to stop the ark from sliding off the cart. And God struck him down for it." link="2sa:6,1-7" lang="en" %}}
 
 David is shaken by this, and it takes him three months before he tries again — this time, differently.
 

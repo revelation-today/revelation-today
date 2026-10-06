@@ -44,7 +44,7 @@ So the Son of Man is combined with the "Ancient of Days" (God) from Daniel 7.
 ## The response
 
 <a name="8d12"></a>
-John collapses, much like the {{% bible val="visions of Daniel" link="dan:10,8-19" lang="en" %}} did to him.
+John collapses, as {{% bible val="Daniel did at his visions" link="dan:10,8-19" lang="en" %}}.
 
 ## The interpretation
 

@@ -36,7 +36,7 @@ Jesus introduces himself here as {{% bible val="the one who holds the stars and 
 
 Before Jesus addresses the problem, though, he pours out real praise:
 
-- He knows their deeds, their hard work, and their perseverance. Ephesus already had a track record of standing firm against pagan pressure — decades earlier, opposition to Paul's preaching had triggered a citywide riot over the Artemis cult ({{% bible val="a citywide riot broke out over the cult of Artemis" link="act:19,23-41" lang="en" %}}). Their hard work and perseverance most directly concerns testing false apostles, but it fits a city where standing for the gospel had a real cost.
+- He knows their deeds, their hard work, and their perseverance. Ephesus already had a track record of standing firm against pagan pressure — decades earlier, opposition to Paul's preaching had triggered {{% bible val="a citywide riot over the cult of Artemis" link="act:19,23-41" lang="en" %}}. Their hard work and perseverance most directly concerns testing false apostles, but it fits a city where standing for the gospel had a real cost.
 - They have tested those who claim to be apostles and found them false, and they hate the practices of the {{% bible val="Nicolaitans" link="rev:2,6" lang="en" %}} — a group whose teaching apparently encouraged compromise with pagan practice, and who will reappear as a live threat in the letters to Pergamon and Thyatira.
 - They are enduring hardship for the sake of Jesus' name — hardship that, by the time John wrote, likely included pressure from Ephesus' new status as a *neokoros* (temple warden) city of the imperial cult, having built a temple to the Flavian emperors around AD 89-90, not just the older Artemis conflict.
 
