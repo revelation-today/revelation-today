@@ -42,7 +42,7 @@ That raises three questions worth asking before we go further. Do these periods 
 
 To answer any of that, we first need the Old Testament background.
 
-## Elijah and the drought (1. Kings 16/29–18/35)
+## Elijah and the drought (1 Kings 16:29–18:35)
 
 <a name="89d3"></a>
 King Ahab of Israel marries Jezebel of Sidon, a city north of Israel, and she brings with her the worship of Baal and Asherah — gods of fertility, promising many children, good harvests, and strong armies. But almost all of that depends on one thing: {{% bible val="enough rain" link="1ki:17,1" lang="en" %}}.

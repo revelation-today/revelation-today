@@ -94,34 +94,34 @@ She has many parallels — mostly as a deliberate contrast — with the bride in
 
 | The woman in chapter 12 | The harlot in chapter 17 | The bride in chapters 19 and 21 |
 |--------------------|----------------------|-----------------------|
-| Hidden in the **wilderness** {{% bible val="Rev.12/6" link="rev:12,6" lang="en" %}} | Sheltered in the **wilderness** {{% bible val="Rev.17/3" link="rev:17,3" lang="en" %}} | |
-| | Is the **city** Babel {{% bible val="Rev.17/5" link="rev:17,5" lang="en" %}} | Is a **city** {{% bible val="Rev.21/9-21" link="rev:21,9-21" lang="en" %}} |
+| Hidden in the **wilderness** {{% bible val="Rev 12:6" link="rev:12,6" lang="en" %}} | Sheltered in the **wilderness** {{% bible val="Rev 17:3" link="rev:17,3" lang="en" %}} | |
+| | Is the **city** Babel {{% bible val="Rev 17:5" link="rev:17,5" lang="en" %}} | Is a **city** {{% bible val="Rev 21:9-21" link="rev:21,9-21" lang="en" %}} |
 | | The **capital** *without God* | The **city** *of God* |
 | *Mother* of legitimate children | *Harlot* | *bride* |
-| **{{% bible val="Pursued mother" link="rev:12" lang="en" %}}** | **{{% bible val="Persecuted mother" link="rev:17,5" lang="en" %}}** ({{% bible val="Rev.17/16" link="rev:17,16" lang="en" %}}) | |
+| **{{% bible val="Pursued mother" link="rev:12" lang="en" %}}** | **{{% bible val="Persecuted mother" link="rev:17,5" lang="en" %}}** ({{% bible val="Rev 17:16" link="rev:17,16" lang="en" %}}) | |
 | *{{% bible val="Rescued mother" link="rev:12" lang="en" %}}* | *{{% bible val="Destroyed woman" link="rev:17" lang="en" %}}* | |
 | | **{{% bible val="An angel announces her judgment" link="rev:17,1" lang="en" %}}** **{{% bible val="is certain" link="rev:19,9-10" lang="en" %}}** | **{{% bible val="An angel announces the bride" link="rev:21,9-10" lang="en" %}}** **{{% bible val="is certain" link="rev:22,6" lang="en" %}}** |
 | Has **children**: the rest of her offspring ({{% bible val="12:17" link="rev:12,17" lang="en" %}}) | Has **children**: she is the mother of prostitutes ({{% bible val="17:5" link="rev:17,5" lang="en" %}}) | No children are mentioned |
 | Gives *birth* to the **community** | Attempts **community** *destruction* | *Is* **community** |
-| {{% bible val="Has security in heaven" link="rev:12,1" lang="en" %}} | {{% bible val="Has security in nations and kings" link="rev:17,15" lang="en" %}} ({{% bible val="Rev.17/18" link="rev:17,18" lang="en" %}}) | |
-| | Covered in **jewels** </br> {{% bible val="Dressed in fine linen" link="rev:17,4" lang="en" %}} ({{% bible val="Rev.18/16" link="rev:18,16" lang="en" %}}) </br>which *covers* her *corruption* | {{% bible val="Covered with precious jewels" link="rev:21,2" lang="en" %}} ({{% bible val="Rev.21/9-23" link="rev:21,9-23" lang="en" %}}) </br> {{% bible val="Dressed in pure white canvas" link="rev:19,8" lang="en" %}} ({{% bible val="Rev.18/16" link="rev:18,16" lang="en" %}}) </br> which *reflects* God's glory and *righteous deeds of the saints* |
+| {{% bible val="Has security in heaven" link="rev:12,1" lang="en" %}} | {{% bible val="Has security in nations and kings" link="rev:17,15" lang="en" %}} ({{% bible val="Rev 17:18" link="rev:17,18" lang="en" %}}) | |
+| | Covered in **jewels** </br> {{% bible val="Dressed in fine linen" link="rev:17,4" lang="en" %}} ({{% bible val="Rev 18:16" link="rev:18,16" lang="en" %}}) </br>which *covers* her *corruption* | {{% bible val="Covered with precious jewels" link="rev:21,2" lang="en" %}} ({{% bible val="Rev 21:9-23" link="rev:21,9-23" lang="en" %}}) </br> {{% bible val="Dressed in pure white canvas" link="rev:19,8" lang="en" %}} ({{% bible val="Rev 18:16" link="rev:18,16" lang="en" %}}) </br> which *reflects* God's glory and *righteous deeds of the saints* |
 
 She also shares a lot of similarities with Jezebel, who caused her own trouble in {{% bible val="Thyatira" link="rev:2,20" lang="en" %}}.
 
 | Jezebel | The Harlot |
 |------------|--------|
 | **{{% bible val="God brought this about" link="2ki:9,36" lang="en" %}}** | **{{% bible val="God has put in heart to destroy the harlot" link="rev:17,17" lang="en" %}}** |
-| Before death Jezebel **painted her eyes and adorned her head** {{% bible val="2 Ki.9/30" link="2ki:9,30" lang="en" %}} | Harlot is **adorned with gold, purple, scarlet** {{% bible val="Rev.17/4" link="rev:17,4" lang="en" %}} |
-| Jezebel is **queen** {{% bible val="1 Ki.16/31" link="1ki:16,31" lang="en" %}} | Harlot is **queen** {{% bible val="Rev.17/1-2" link="rev:17,1-2" lang="en" %}} ({{% bible val="Rev.17/18" link="rev:17,18" lang="en" %}}, {{% bible val="Rev.18/7" link="rev:18,7" lang="en" %}}) |
-| **{{% bible val="Deceives people" link="1ki:21,25" lang="en" %}}** | **{{% bible val="Deceives people" link="rev:17,2" lang="en" %}}** ({{% bible val="Rev.2/20" link="rev:2,20" lang="en" %}}) |
-| **Prostitution** through *Idolatry* {{% bible val="2 Ki.9/22" link="2ki:9,22" lang="en" %}} ({{% bible val="2 Chr.21/13" link="2ch:21,13" lang="en" %}}) | **Prostitution** through *cooperation with the beast* {{% bible val="Rev.17/1-2" link="rev:17,1-2" lang="en" %}} ({{% bible val="Rev.17/5" link="rev:17,5" lang="en" %}}, {{% bible val="Rev.2/20-22" link="rev:2,20-22" lang="en" %}}) |
+| Before death Jezebel **painted her eyes and adorned her head** {{% bible val="2 Ki 9:30" link="2ki:9,30" lang="en" %}} | Harlot is **adorned with gold, purple, scarlet** {{% bible val="Rev 17:4" link="rev:17,4" lang="en" %}} |
+| Jezebel is **queen** {{% bible val="1 Ki 16:31" link="1ki:16,31" lang="en" %}} | Harlot is **queen** {{% bible val="Rev 17:1-2" link="rev:17,1-2" lang="en" %}} ({{% bible val="Rev 17:18" link="rev:17,18" lang="en" %}}, {{% bible val="Rev 18:7" link="rev:18,7" lang="en" %}}) |
+| **{{% bible val="Deceives people" link="1ki:21,25" lang="en" %}}** | **{{% bible val="Deceives people" link="rev:17,2" lang="en" %}}** ({{% bible val="Rev 2:20" link="rev:2,20" lang="en" %}}) |
+| **Prostitution** through *Idolatry* {{% bible val="2 Ki 9:22" link="2ki:9,22" lang="en" %}} ({{% bible val="2 Chr 21:13" link="2ch:21,13" lang="en" %}}) | **Prostitution** through *cooperation with the beast* {{% bible val="Rev 17:1-2" link="rev:17,1-2" lang="en" %}} ({{% bible val="Rev 17:5" link="rev:17,5" lang="en" %}}, {{% bible val="Rev 2:20-22" link="rev:2,20-22" lang="en" %}}) |
 | **{{% bible val="Uses sorcery" link="2ki:9,22" lang="en" %}}** | **{{% bible val="Uses sorcery" link="rev:18,23" lang="en" %}}** |
 | **{{% bible val="Seeks economic advantage" link="1ki:21" lang="en" %}}** | **{{% bible val="Craves wealth" link="rev:18,11-19" lang="en" %}}** |
-| **{{% bible val="Persecutes and kills saints" link="1ki:18,4" lang="en" %}}** ({{% bible val="1 Kings 19/2" link="1ki:19,2" lang="en" %}}) | **{{% bible val="Persecutes and kills saints" link="rev:17,6" lang="en" %}}** |
-| **{{% bible val="Remnant resists" link="1ki:18,18" lang="en" %}}** ({{% bible val="1 Kings 19/18" link="1ki:19,18" lang="en" %}}, {{% bible val="2 Kings 9/22" link="2ki:9,22" lang="en" %}}) | **{{% bible val="Remnant resists" link="rev:17,14" lang="en" %}}** |
+| **{{% bible val="Persecutes and kills saints" link="1ki:18,4" lang="en" %}}** ({{% bible val="1 Kings 19:2" link="1ki:19,2" lang="en" %}}) | **{{% bible val="Persecutes and kills saints" link="rev:17,6" lang="en" %}}** |
+| **{{% bible val="Remnant resists" link="1ki:18,18" lang="en" %}}** ({{% bible val="1 Kings 19:18" link="1ki:19,18" lang="en" %}}, {{% bible val="2 Kings 9:22" link="2ki:9,22" lang="en" %}}) | **{{% bible val="Remnant resists" link="rev:17,14" lang="en" %}}** |
 | **{{% bible val="God avenges the blood of his servants" link="2ki:9,7" lang="en" %}}** | **{{% bible val="God avenges the blood of his servants" link="rev:19,2" lang="en" %}}** |
-| **{{% bible val="Judgment comes quickly" link="2ki:9,33-35" lang="en" %}}** | **{{% bible val="Judgment comes quickly" link="rev:18,10" lang="en" %}}** ({{% bible val="Rev.18/17" link="rev:18,17" lang="en" %}}, {{% bible val="Rev.18/19" link="rev:18,19" lang="en" %}}) |
-| **{{% bible val="God judges successors" link="1ki:18,40" lang="en" %}}** ({{% bible val="2 Ki.10/19" link="2ki:10,19" lang="en" %}}) | **{{% bible val="God judges successors" link="rev:18,9-11" lang="en" %}}** ({{% bible val="Rev.2/23" link="rev:2,23" lang="en" %}}) |
+| **{{% bible val="Judgment comes quickly" link="2ki:9,33-35" lang="en" %}}** | **{{% bible val="Judgment comes quickly" link="rev:18,10" lang="en" %}}** ({{% bible val="Rev 18:17" link="rev:18,17" lang="en" %}}, {{% bible val="Rev 18:19" link="rev:18,19" lang="en" %}}) |
+| **{{% bible val="God judges successors" link="1ki:18,40" lang="en" %}}** ({{% bible val="2 Ki 10:19" link="2ki:10,19" lang="en" %}}) | **{{% bible val="God judges successors" link="rev:18,9-11" lang="en" %}}** ({{% bible val="Rev 2:23" link="rev:2,23" lang="en" %}}) |
 
 Finally, she works alongside the second beast from chapter 13, without being the same figure.[^apart] She does in trade and culture what the second beast does in religion.[^alike]
 

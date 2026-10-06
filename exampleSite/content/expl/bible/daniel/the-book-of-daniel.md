@@ -58,9 +58,9 @@ The pattern suggests these six chapters form the center of the book, with chapte
 
 {{% bible val="Dan.10" link="dan:10" lang="en" %}} prepares the ground for the final vision that comes in chapters 11 and 12.
 
-{{% bible val="Dan.11/1–35" link="dan:11,1-35" lang="en" %}} is a section where commentators largely agree, because its connection to the history books is too strong to deny: it traces the time from the Persian kings of Daniel's own day to the Jewish Antichrist figure, Antiochus Epiphanes IV.
+{{% bible val="Dan 11:1–35" link="dan:11,1-35" lang="en" %}} is a section where commentators largely agree, because its connection to the history books is too strong to deny: it traces the time from the Persian kings of Daniel's own day to the Jewish Antichrist figure, Antiochus Epiphanes IV.
 
-{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="en" %}} seems to follow smoothly from the previous section, but it actually has no clear connection to historical events. Instead, it describes the powers and potentials behind this kind of king and kingship in general, similar to how {{% bible val="Tyre" link="ezk:28,13-17" lang="en" %}} is used elsewhere as a type rather than a strict historical reference.
+{{% bible val="Dan 11:36–45" link="dan:11,36-45" lang="en" %}} seems to follow smoothly from the previous section, but it actually has no clear connection to historical events. Instead, it describes the powers and potentials behind this kind of king and kingship in general, similar to how {{% bible val="Tyre" link="ezk:28,13-17" lang="en" %}} is used elsewhere as a type rather than a strict historical reference.
 
 {{% bible val="Dan.12" link="dan:12" lang="en" %}} closes the book with encouragement for the saints to persevere through all of this.
 

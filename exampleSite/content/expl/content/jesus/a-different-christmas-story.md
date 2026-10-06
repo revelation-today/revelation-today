@@ -55,8 +55,8 @@ The first one is easy to identify. In verse 9, he's named outright as "that anci
 
 The child gets little description, but one feature stands out prominently: the iron scepter. Looking around the rest of the Bible turns up a handful of references that fill in who this is:
 - {{% bible val="Ps.2" link="psa:2" lang="en" %}} describes a scene where all the kings of the earth rebel against God, and God warns them to fear his Son, who will rule them with an iron scepter.
-- {{% bible val="Isa.11/4" link="isa:11,4" lang="en" %}} describes the coming Messiah, who will strike the earth with the rod of his mouth.
-- In {{% bible val="Rev.19/15" link="rev:19,15" lang="en" %}}, Jesus himself — the rider called Faithful and True — is the one who rules the nations with an iron scepter.
+- {{% bible val="Isa 11:4" link="isa:11,4" lang="en" %}} describes the coming Messiah, who will strike the earth with the rod of his mouth.
+- In {{% bible val="Rev 19:15" link="rev:19,15" lang="en" %}}, Jesus himself — the rider called Faithful and True — is the one who rules the nations with an iron scepter.
 
 These references make it pretty clear that the child is Jesus and this is the story of his birth. But who, then, is the strange woman clothed with sun, moon, and twelve stars? There are three candidates for who gave birth to Jesus:
 - Mary, of course, as {{% bible val="she gave birth to Jesus" link="mat:1,18-25" lang="en" %}}.
@@ -69,9 +69,9 @@ The best match is Israel. Israel isn't obviously a "woman" at first sight, but t
 
 ## Finally, the story
 
-So what is the story of Rev.12/1–5? Israel, the woman, was promised to give birth to the Messiah, the child — a promise that came due at a time when Israel was under heavy pressure, controlled and oppressed by Rome. Several local uprisings against Rome flared up in the decades around Jesus's birth, and all of them were put down.
+So what is the story of Rev 12:1–5? Israel, the woman, was promised to give birth to the Messiah, the child — a promise that came due at a time when Israel was under heavy pressure, controlled and oppressed by Rome. Several local uprisings against Rome flared up in the decades around Jesus's birth, and all of them were put down.
 
-It was into this pressure that Jesus was born, and he was rescued from imminent danger when {{% bible val="king Herod was about to kill him" link="mat:2" lang="en" %}}. As Jesus began his ministry, the {{% bible val="devil tried to tempt him" link="mat:4,1-11" lang="en" %}} — and that attempt failed too. Jesus succeeds in spite of opposition of every kind, even dying on the cross, and is finally raised from death and ascended to heaven (Rev.12/5 skips straight over everything between Jesus' birth and his ascension).
+It was into this pressure that Jesus was born, and he was rescued from imminent danger when {{% bible val="king Herod was about to kill him" link="mat:2" lang="en" %}}. As Jesus began his ministry, the {{% bible val="devil tried to tempt him" link="mat:4,1-11" lang="en" %}} — and that attempt failed too. Jesus succeeds in spite of opposition of every kind, even dying on the cross, and is finally raised from death and ascended to heaven (Rev 12:5 skips straight over everything between Jesus' birth and his ascension).
 
 This is the Christmas story we already know from the New Testament, and it's a story full of emotion: the glory of the woman alongside her helplessness, the fear for her child, the anger of the dragon and his determination, and the surprising conquest of the dragon in the end.
 

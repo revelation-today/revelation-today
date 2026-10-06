@@ -99,9 +99,9 @@ Many combinations are possible:
 
 - a-b-c-d-e-a' combines linear and symmetric patterns — like a sentence that opens with an assumption and closes with a summary that proves it.
 - a-b-c-d-b'-c'-a' is a modified symmetry, blending symmetric and parallel patterns, which draws the reader's attention specifically to the b'-c' switch.
-- a-a'-b-b'-c-c'-d-d' combines linear and parallel patterns and can tell parallel but distinct stories, as in Gen. 37/2–50/26.
+- a-a'-b-b'-c-c'-d-d' combines linear and parallel patterns and can tell parallel but distinct stories, as in Gen. 37:2–50:26.
 
-The very same story can even be read in more than one pattern at once. Gen. 37/2–50/26, for example, can be read as a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a', or equally as a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
+The very same story can even be read in more than one pattern at once. Gen. 37:2–50:26, for example, can be read as a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a', or equally as a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
 
 ### Linear pattern
 
@@ -114,7 +114,7 @@ Linear patterns are the easiest to follow. They can be:
 ### Parallel pattern
 
 <a name="eb0a"></a>
-Parallel patterns follow a scheme like a-b-c-a'-b'-c', where each x' shares a similar theme or structure with its corresponding x. Take Ps. 19/1–2:
+Parallel patterns follow a scheme like a-b-c-a'-b'-c', where each x' shares a similar theme or structure with its corresponding x. Take Ps. 19:1–2:
 
 - a: the heavens
 - b: tell of
@@ -147,7 +147,7 @@ This structure leaves the impression that Jonah's first prayer was hypocritical 
 ### Symmetric patterns
 
 <a name="d519"></a>
-These follow a pattern like a-b-b'-a', as in {{% bible val="Isa.22/22" link="isa:22,22" lang="en" %}}, which plays on the idea of "open/close":
+These follow a pattern like a-b-b'-a', as in {{% bible val="Isa 22:22" link="isa:22,22" lang="en" %}}, which plays on the idea of "open/close":
 
 - a: he shall open
 	- b: and no one will shut
@@ -156,7 +156,7 @@ These follow a pattern like a-b-b'-a', as in {{% bible val="Isa.22/22" link="isa
 
 Traced out, this forms the left half of an X — the Greek letter Chi — which is why this kind of pattern is called a chiasm.
 
-The same technique can shape entire books of the Bible, as in {{% bible val="Judg.3/7–16/31" link="jdg:3,7-16,31" lang="en" %}}. Here too, **bold** marks one recurring theme and *italic* marks its paired counterpart, so you can see how the outer units answer each other around the central turning point:
+The same technique can shape entire books of the Bible, as in {{% bible val="Judg 3:7–16:31" link="jdg:3,7-16,31" lang="en" %}}. Here too, **bold** marks one recurring theme and *italic* marks its paired counterpart, so you can see how the outer units answer each other around the central turning point:
 
 - a: Othniel and his *good* **wife** (3/7–11)
 	- b: Ehud and the *victory* at the **Jordan fords** (3/12–31)
@@ -203,11 +203,11 @@ The overall structure of a passage can carry the author's message all on its own
 <a name="315d"></a>
 Not every structural repetition is there to convey meaning; sometimes it exists purely for artistic beauty. Three common types serve that decorative function:
 
-- **Structural** — helps build a scaffold for the composition. Listing Noah's three sons both before and after the flood (Gen 6/9–10 and 9/18–19), for example, creates balance and brackets the story.
-- **Elaboration** — the second unit in a paired set develops the theme further. Gen 28/6–9 introduces Esau's wife, and Gen 36 then traces the rest of Esau's family in full.
-- **Second perspective** — the second unit retells the first from a different point of view, or summarizes it. It can be decoration, but it can also carry meaning, as it does in Revelation. The crossing of the Jordan is told from two angles: Josh. 3/9–17 shows the crossing beginning and completing from the eastern side, and Josh. 4/10–13 shows the same event proceeding and completing from the western side.
+- **Structural** — helps build a scaffold for the composition. Listing Noah's three sons both before and after the flood (Gen 6:9–10 and 9/18–19), for example, creates balance and brackets the story.
+- **Elaboration** — the second unit in a paired set develops the theme further. Gen 28:6–9 introduces Esau's wife, and Gen 36 then traces the rest of Esau's family in full.
+- **Second perspective** — the second unit retells the first from a different point of view, or summarizes it. It can be decoration, but it can also carry meaning, as it does in Revelation. The crossing of the Jordan is told from two angles: Josh. 3:9–17 shows the crossing beginning and completing from the eastern side, and Josh. 4:10–13 shows the same event proceeding and completing from the western side.
 
-But structured repetition can also be used to convey meaning directly, as in the prayer of Jonah (Jon. 2/2–9 and 4/1–3).
+But structured repetition can also be used to convey meaning directly, as in the prayer of Jonah (Jon. 2:2–9 and 4/1–3).
 
 The advantage of doing it this way is that the author can make a point subtly, which audiences appreciate — most people resist being lectured and grow tired quickly of a point hammered home directly. A subtler structure invites the listener to discover the meaning for themselves, to participate, to think it through. That makes the communication more interesting, more enjoyable, and ultimately more effective. Imagine how pedantic it would feel if The Three Little Pigs opened by simply stating its own moral.
 
@@ -218,9 +218,9 @@ Hebrew literature achieves this in several distinct ways:
 - **Comparison** — two or more units are set side by side to reveal a similarity between things that don't seem alike, as in Amos 1–2, where Israel is judged by the very same standard as the foreign nations.
 - **Contrast** — the reverse move, showing a difference between things that look similar but aren't. Genesis 38 and 39 both show a son of Jacob confronted with an illicit sexual invitation from a woman, and in both stories the woman keeps a token from the man to use as evidence later — yet everything else diverges: Judah fails completely and still prospers, while Joseph stays faithful and is punished for it.
 - **Reversal** — highlighting the reversal of a situation, as between 1 Kings 3–11 (the rise of Solomon's reign and the building of the temple) and 2 Kings 18–25 (the end of the kingdom and the temple's destruction).
-- **Reciprocity** — showing reciprocal action across matching units, as in Song of Songs 2/8–17 (the young man invites the young woman to join him) and 7/11–8/4 (she invites him to join her in the country).
-- **Resolution (or fulfillment)** — emphasizing the close link between a story's opening tension, suspense, or prediction and its closing resolution, as between Gen 12/1–9 (Abram and Sarah's childlessness) and 21/1–7 (Isaac's birth).
-- **Totality** — showing the totality of a phenomenon by presenting both halves of a merism, such as day and night or man and woman, as between Isa. 2/10–22 (the future humiliation of proud men) and 3/16–17 (the future humiliation of proud women).
+- **Reciprocity** — showing reciprocal action across matching units, as in Song of Songs 2:8–17 (the young man invites the young woman to join him) and 7/11–8/4 (she invites him to join her in the country).
+- **Resolution (or fulfillment)** — emphasizing the close link between a story's opening tension, suspense, or prediction and its closing resolution, as between Gen 12:1–9 (Abram and Sarah's childlessness) and 21/1–7 (Isaac's birth).
+- **Totality** — showing the totality of a phenomenon by presenting both halves of a merism, such as day and night or man and woman, as between Isa. 2:10–22 (the future humiliation of proud men) and 3/16–17 (the future humiliation of proud women).
 
 ### Positions of Prominence
 
@@ -234,10 +234,10 @@ Hebrew literature works differently. In linear and parallel structures, the posi
 
 That position of prominence can carry several kinds of meaning:
 
-- **Turning point** — the center marks the story's actual turning point, as with Ehud (Judg. 3/12–30), where the turn comes when he kills the king. The entire structure of Judges likewise turns on Gideon.
+- **Turning point** — the center marks the story's actual turning point, as with Ehud (Judg. 3:12–30), where the turn comes when he kills the king. The entire structure of Judges likewise turns on Gideon.
 - **Climax** — the same center point can also be the moment of highest tension, as again in Ehud's story.
-- **Centerpiece** — the center represents the climax outright, as with the wedding at the heart of Song of Songs 3/6–5/1, or Solomon, the temple's builder, at the center of Chronicles (2 Chr. 1–9).
-- **Significant pause (or interlude)** — a deliberate pause in the action or argument that makes a highly significant point. 2 Kings 2/1–8/6 interrupts the relentless, almost unbroken parade of the kings' sins with the ministry of Elisha, and Lamentations 3/21–32 pauses a tragic eulogy to reflect on the profound love of God.
+- **Centerpiece** — the center represents the climax outright, as with the wedding at the heart of Song of Songs 3:6–5:1, or Solomon, the temple's builder, at the center of Chronicles (2 Chr. 1–9).
+- **Significant pause (or interlude)** — a deliberate pause in the action or argument that makes a highly significant point. 2 Kings 2:1–8:6 interrupts the relentless, almost unbroken parade of the kings' sins with the ministry of Elisha, and Lamentations 3/21–32 pauses a tragic eulogy to reflect on the profound love of God.
 
 ## Value of structural analysis
 
