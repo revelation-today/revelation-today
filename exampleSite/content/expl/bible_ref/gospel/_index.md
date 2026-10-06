@@ -4,4 +4,4 @@ weight: 5
 docType: expl
 ---
 
-173 bible verses have been referenced in this category.
+185 bible verses have been referenced in this category.

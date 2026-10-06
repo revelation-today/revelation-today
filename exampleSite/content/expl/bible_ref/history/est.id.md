@@ -8,4 +8,4 @@ docType: expl
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="Ester:9,15-25" link="est:9,15-25" lang="ind" %}} | ["Kekalahan yang berubah menjadi kemenangan": kisah Ester](/expl/content/witnesses/the-two-witnesses#5f50) |
+| {{% bible val="Ester 9:15-25" link="est:9,15-25" lang="ind" %}} | ["Kekalahan yang berubah menjadi kemenangan": kisah Ester](/id/expl/content/witnesses/the-two-witnesses#5f50) |

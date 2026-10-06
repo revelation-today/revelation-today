@@ -9,7 +9,16 @@ TYPE_REV = ["revelation", 8, {"en": "The Apocalyptic Literature", "de": "Die Apo
 BOOK_TYPES = [TYPE_LAW, TYPE_HISTORY, TYPE_POETRY, TYPE_PROPHETS, TYPE_GOSPEL, TYPE_ACTS, TYPE_LETTERS, TYPE_REV]
 INDEX = {"en": "Bible reference", "de": "Bibelstellen", "tr": "İncil pasajları", "id": "Ayat-ayat Alkitab"}
 
-INDEX_LANG = {"en": "{} bible verses have been referenced.", "de": "{} verwendete Bibelstellen wurden verwendet.", "tr": "İncil'de kullanılan {} pasajlar vardır", "id": "{} ayat-ayat Alkitab telah dirujuk."}
+INDEX_LANG = {
+    "en": "{} bible verses have been referenced.\n\nLook a verse up here to find where it is discussed. The list covers the whole site, not only the explanation: Quick, Application, the sermons, the stories and the children's material are all in it.",
+    "de": "{} Bibelstellen wurden verwendet.\n\nHier könnt ihr nachschlagen, wo ein Vers besprochen wird. Die Liste umfasst die ganze Seite, nicht nur die Erklärung: Kurz, Anwendung, die Predigten, die Geschichten und das Kindermaterial stehen ebenfalls darin.",
+    "tr": "İncil'de kullanılan {} pasaj vardır.\n\nBir ayetin nerede ele alındığını buradan arayabilirsiniz. Liste yalnızca açıklamayı değil, sitenin tamamını kapsar: Kısa, Uygulama, vaazlar, hikâyeler ve çocuk materyali de içindedir.",
+    "id": "{} ayat Alkitab telah dirujuk.\n\nCarilah sebuah ayat di sini untuk menemukan di mana ayat itu dibahas. Daftar ini mencakup seluruh situs, bukan hanya penjelasan: Ringkas, Penerapan, khotbah, cerita, dan bahan anak semuanya ada di dalamnya.",
+}
+
+# How a chapter and a verse are joined when the index prints a reference:
+# English, Indonesian and Turkish write "Revelation 1:7", German "Offenbarung 1,7".
+VERSE_SEP = {"en": ":", "de": ",", "tr": ":", "id": ":"}
 TYPE_LANG = {"en": "{} bible verses have been referenced in this category.", "de": "{} Bibelstellen wurden in dieser Kategorie verwendet.", "tr": "Bu kategoride kullanılan {} Kutsal Kitap pasajı vardır", "id": "{} ayat-ayat Alkitab telah dirujuk dalam kategori ini."}
 BOOK_LANG = {"en": "{} bible verses have been used in this book.", "de": "{} Bibelstellen wurden in diesem Buch verwendet.", "tr": "Bu kitapta kullanılan {} Kutsal Kitap pasajı vardır", "id": "{} Ayat-ayat Alkitab telah digunakan dalam buku ini."}
 

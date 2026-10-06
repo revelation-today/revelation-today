@@ -4,4 +4,6 @@ weight: 100
 docType: expl
 ---
 
-2156 ayat-ayat Alkitab telah dirujuk.
+2365 ayat Alkitab telah dirujuk.
+
+Carilah sebuah ayat di sini untuk menemukan di mana ayat itu dibahas. Daftar ini mencakup seluruh situs, bukan hanya penjelasan: Ringkas, Penerapan, khotbah, cerita, dan bahan anak semuanya ada di dalamnya.

@@ -8,11 +8,11 @@ Bu kitapta kullanılan 8 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
-| {{% bible val="Rut:1,1-4" link="rut:1,1-4" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": Moavlı](/expl/background/israel/the-remnant-of-israel#6f36) |
-| {{% bible val="Rut:1,1-4" link="rut:1,1-4" lang="tr" %}} | ["Ailenin önemi": yarı Moavlı Rut](/expl/background/israel/the-role-of-family-in-the-bible#524d) |
-| {{% bible val="Rut:1,1-5" link="rut:1,1-5" lang="tr" %}} | ["Miras": tüm bu ağlardan düşen bir kadını gösterir](/expl/background/israel/the-role-of-family-in-the-bible#82a3) |
-| {{% bible val="Rut:1,16" link="rut:1,16" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": Rut](/expl/background/israel/the-remnant-of-israel#6f36) |
-| {{% bible val="Rut:4" link="rut:4,-1" lang="tr" %}} | ["Ailenin önemi": kurtarmak için biriyle evlenmek](/expl/background/israel/the-role-of-family-in-the-bible#524d) |
-| {{% bible val="Rut:4" link="rut:4,-1" lang="tr" %}} | ["Miras": kurtarıcısı Boaz tarafından korunduğunu](/expl/background/israel/the-role-of-family-in-the-bible#82a3) |
-| {{% bible val="Rut:4,10-16" link="rut:4,10-16" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": Davut'un](/expl/background/israel/the-remnant-of-israel#6f36) |
-| {{% bible val="Rut:4,16-17" link="rut:4,16-17" lang="tr" %}} | ["Ailenin önemi": önemsiz aileler](/expl/background/israel/the-role-of-family-in-the-bible#524d) |
+| {{% bible val="Rut 1:1-4" link="rut:1,1-4" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": Moavlı](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
+| {{% bible val="Rut 1:1-4" link="rut:1,1-4" lang="tr" %}} | ["Ailenin önemi": Moavlı Rut](/tr/expl/background/israel/the-role-of-family-in-the-bible#524d) |
+| {{% bible val="Rut 1:1-5" link="rut:1,1-5" lang="tr" %}} | ["Miras": tüm bu ağlardan düşen bir kadını gösterir](/tr/expl/background/israel/the-role-of-family-in-the-bible#82a3) |
+| {{% bible val="Rut 1:16" link="rut:1,16" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": Rut](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
+| {{% bible val="Rut 4" link="rut:4" lang="tr" %}} | ["Ailenin önemi": kurtarmak için biriyle evlenmek](/tr/expl/background/israel/the-role-of-family-in-the-bible#524d) |
+| {{% bible val="Rut 4" link="rut:4" lang="tr" %}} | ["Miras": kurtarıcısı Boaz tarafından korunduğunu](/tr/expl/background/israel/the-role-of-family-in-the-bible#82a3) |
+| {{% bible val="Rut 4:10-16" link="rut:4,10-16" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": Davut'un](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
+| {{% bible val="Rut 4:16-17" link="rut:4,16-17" lang="tr" %}} | ["Ailenin önemi": önemsiz aileler](/tr/expl/background/israel/the-role-of-family-in-the-bible#524d) |

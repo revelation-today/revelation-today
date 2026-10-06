@@ -8,4 +8,4 @@ docType: expl
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="Yudas:1,23" link="jud:1,23" lang="ind" %}} | ["Kata Kunci yang Terlewatkan": orang-orang percaya diselamatkan dari api](/expl/topics/others/the-rapture#0f61) |
+| {{% bible val="Yudas 1:23" link="jud:1,23" lang="ind" %}} | ["Kata Kunci yang Terlewatkan": orang-orang percaya diselamatkan dari api](/id/expl/topics/others/the-rapture#0f61) |

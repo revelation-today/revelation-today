@@ -8,4 +8,4 @@ docType: expl
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="Kolose:3,1" link="col:3,1" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": telah dibangkitkan bersama Kristus](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Kolose 3:1" link="col:3,1" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": telah dibangkitkan bersama Kristus](/id/expl/content/1000y/pre-post-and-amillennialism#4f1c) |

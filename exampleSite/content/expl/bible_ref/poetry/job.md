@@ -4,14 +4,15 @@ weight: 17
 docType: expl
 ---
 
-7 bible verses have been used in this book.
+8 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
-| {{% bible val="Job:2,4-6" link="job:2,4-6" lang="en" %}} | ["The fifth and sixth trumpet": Satan needed permission before he could touch Job](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
-| {{% bible val="Job:7,12" link="job:7,12" lang="en" %}} | ["The context of the first readers": are subdued by God](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
-| {{% bible val="Job:40,15" link="job:40,15" lang="en" %}} | ["A bag full of references": Job 40/15–41/34](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
-| {{% bible val="Job:40,15-24" link="job:40,15-24" lang="en" %}} | ["The context of the first readers": Behemoth](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
-| {{% bible val="Job:40,19" link="job:40,19" lang="en" %}} | ["The context of the first readers": Job 40:19](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
-| {{% bible val="Job:41" link="job:41,-1" lang="en" %}} | ["The context of the first readers": Leviathan ](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
-| {{% bible val="Job:41,19" link="job:41,19" lang="en" %}} | ["The context of the first readers": flames coming out of its mouth](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
+| {{% bible val="Job 1:9-11" link="job:1,9-11" lang="en" %}} | ["War in heaven": Job 1](/expl/content/jesus/a-different-christmas-story#war-in-heaven) |
+| {{% bible val="Job 2:4-6" link="job:2,4-6" lang="en" %}} | ["The fifth and sixth trumpet": Satan needed permission before he could touch Job](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
+| {{% bible val="Job 7:12" link="job:7,12" lang="en" %}} | ["The context of the first readers": are subdued by God](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
+| {{% bible val="Job 40:15" link="job:40,15" lang="en" %}} | ["A bag full of references": Job 40:15–41:34](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
+| {{% bible val="Job 40:15-24" link="job:40,15-24" lang="en" %}} | ["The context of the first readers": Behemoth](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
+| {{% bible val="Job 40:19" link="job:40,19" lang="en" %}} | ["The context of the first readers": Job 40:19](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
+| {{% bible val="Job 41" link="job:41" lang="en" %}} | ["The context of the first readers": Leviathan ](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
+| {{% bible val="Job 41:19" link="job:41,19" lang="en" %}} | ["The context of the first readers": flames coming out of its mouth](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |

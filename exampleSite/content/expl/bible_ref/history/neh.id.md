@@ -8,4 +8,4 @@ docType: expl
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="Nehemia:4" link="neh:4,-1" lang="ind" %}} | ["Ketujuh Puluh Tahun Itu": permulaan pembangunannya](/expl/bible/daniel/the-70-year-weeks#d777) |
+| {{% bible val="Nehemia 4" link="neh:4" lang="ind" %}} | ["Ketujuh Puluh Tahun Itu": permulaan pembangunannya](/id/expl/bible/daniel/the-70-year-weeks#d777) |

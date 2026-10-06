@@ -8,4 +8,4 @@ docType: expl
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="2 Petrus:1,19" link="2pe:1,19" lang="ind" %}} | ["Solusinya": fajar harapan baru](/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
+| {{% bible val="2 Petrus 1:19" link="2pe:1,19" lang="ind" %}} | ["Solusinya": fajar harapan baru](/id/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |

@@ -4,12 +4,13 @@ weight: 31
 docType: expl
 ---
 
-5 bible verses have been used in this book.
+6 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
-| {{% bible val="Jonah:1" link="jon:1,-1" lang="en" %}} | ["The story before Carchemish": Jonah](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#9897) |
-| {{% bible val="Jonah:3,4-10" link="jon:3,4-10" lang="en" %}} | ["Predicting the future, again and again": Jonah](/expl/topics/others/dispensionalism-and-its-critic#96d8) |
-| {{% bible val="Jonah:3,5-10" link="jon:3,5-10" lang="en" %}} | ["The religious aspect": humbled itself before the Lord, and he had mercy on them](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
-| {{% bible val="Jonah:4" link="jon:4,-1" lang="en" %}} | ["A prophecy": Jonah](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
-| {{% bible val="Jonah:4" link="jon:4,-1" lang="en" %}} | ["The Core Teaching": Jonah 4](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#the-core-teaching) |
+| {{% bible val="Jonah 1" link="jon:1" lang="en" %}} | ["The story before Carchemish": Jonah](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#9897) |
+| {{% bible val="Jonah 3:4-10" link="jon:3,4-10" lang="en" %}} | ["Why the plagues of Egypt?": Jonah's warning to Nineveh](/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
+| {{% bible val="Jonah 3:4-10" link="jon:3,4-10" lang="en" %}} | ["Predicting the future, again and again": Jonah](/expl/topics/others/dispensionalism-and-its-critic#96d8) |
+| {{% bible val="Jonah 3:5-10" link="jon:3,5-10" lang="en" %}} | ["The religious aspect": humbled itself before the Lord, and he had mercy on them](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Jonah 4" link="jon:4" lang="en" %}} | ["A prophecy": Jonah](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Jonah 4" link="jon:4" lang="en" %}} | ["The Core Teaching": Jonah 4](/sermons/deep-dive/intro/02-what-kind-of-book-is-this#the-core-teaching) |

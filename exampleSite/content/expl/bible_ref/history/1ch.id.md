@@ -8,6 +8,6 @@ docType: expl
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="1 Tawarikh:24,3-19" link="1ch:24,3-19" lang="ind" %}} | ["Penyembahan": 24 rombongan imam](/expl/content/worship/worship-in-the-throne-room#e545) |
-| {{% bible val="1 Tawarikh:25" link="1ch:25,-1" lang="ind" %}} | ["Penyembahan": 24 penyembah tetap](/expl/content/worship/worship-in-the-throne-room#e545) |
-| {{% bible val="1 Tawarikh:26,17-19" link="1ch:26,17-19" lang="ind" %}} | ["Penyembahan": 24 penjaga pintu gerbang orang Lewi](/expl/content/worship/worship-in-the-throne-room#e545) |
+| {{% bible val="1 Tawarikh 24:3-19" link="1ch:24,3-19" lang="ind" %}} | ["Penyembahan": 24 rombongan imam](/id/expl/content/worship/worship-in-the-throne-room#e545) |
+| {{% bible val="1 Tawarikh 25" link="1ch:25" lang="ind" %}} | ["Penyembahan": 24 penyembah tetap](/id/expl/content/worship/worship-in-the-throne-room#e545) |
+| {{% bible val="1 Tawarikh 26:17-19" link="1ch:26,17-19" lang="ind" %}} | ["Penyembahan": 24 penjaga pintu gerbang orang Lewi](/id/expl/content/worship/worship-in-the-throne-room#e545) |

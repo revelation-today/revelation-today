@@ -47,13 +47,33 @@ def parse_data():
                 lang_app = ""
             with open(file_path, encoding="utf-8") as fp:
                 lines = fp.readlines()
+            if is_draft(lines):
+                # retired pages are not built, so a row pointing at one is a
+                # dead link in the index
+                continue
             for line in lines:
                 last_link, last_header, title = parse_line(file_path, lang, line, last_link, last_header, title)
+
+def is_draft(lines):
+    """True when the front matter says draft: true."""
+    if not lines or lines[0].strip() != "---":
+        return False
+    for line in lines[1:]:
+        if line.strip() == "---":
+            return False
+        if re.match(r"^draft:\s*true\s*$", line.strip()):
+            return True
+    return False
+
 
 def parse_line(file_path, lang, line, last_link, last_header, title):
     match_title = re.match(r"^title:\s+(.*)", line)
     if match_title:
-        title = match_title.group(1)
+        # front matter usually quotes the title; without stripping them the
+        # link text comes out as ""The Vision (Ch. 1)""
+        title = match_title.group(1).strip()
+        if len(title) > 1 and title[0] == title[-1] and title[0] in "\"'":
+            title = title[1:-1]
     match_header = re.match(r"^(#+)\s+(.*)", line)
     if match_header:
         # keep the leading hashes: Hugo only gives h2 and deeper an anchor,
@@ -144,6 +164,10 @@ def prep_folders():
 def write_files():
     for lang in REFS:
         for book in REFS[lang]:
+            # a book nobody cites gets no page: an empty table saying
+            # "0 bible verses have been used in this book" helps no one
+            if not COUNTER_BOOK[lang][book]:
+                continue
             filename = f"{book}.md"
             if lang != "en":
                 filename = f"{book}.{lang}.md"
@@ -228,19 +252,28 @@ def write_verse(fp, lang, book, data):
     filename = re.sub(r"\." + lang, "", filename)
     filename = re.sub(r"_index", "", filename)
     filename = filename.split("..")[-1]
+    # English is the default language and lives at the root; the others are
+    # served under /de/, /id/, /tr/. Without the prefix every row on a
+    # translated index page sends the reader to the English article.
+    if lang != "en":
+        filename = "/" + lang + filename
     ref = data[4]
-    if verse and verse != "-1":
-        bible_verse = BOOKS[book][lang] + ":" + chapter + "," + verse
+    has_verse = bool(verse) and verse != "-1"
+    if has_verse:
+        bible_verse = BOOKS[book][lang] + " " + chapter + VERSE_SEP[lang] + verse
+        bible_link = book + ":" + chapter + "," + verse
     else:
-        bible_verse = BOOKS[book][lang] + ":" + chapter
-    bible_link = book + ":" + chapter + "," + verse
+        # a whole chapter: no verse to name, and no ",-1" in the link
+        bible_verse = BOOKS[book][lang] + " " + chapter
+        bible_link = book + ":" + chapter
     # Hugo's language code is "id"; the bible shortcode's translation table
     # is keyed "ind". Bridge the two so the generated rows resolve.
     sc_lang = SHORTCODE_LANG.get(lang, lang)
     bible_data = "{{% bible val=\"" + bible_verse + "\" link=\"" + bible_link + "\" lang=\"" + sc_lang + "\" %}}" 
-    if header:
+    if header and header.strip() != text.strip():
         ref_text = "\"" + header + "\": " + text
     else:
+        # the heading and the link text say the same thing; print it once
         ref_text = text
     if ref:
         ref_link = filename + "#" + str(ref)

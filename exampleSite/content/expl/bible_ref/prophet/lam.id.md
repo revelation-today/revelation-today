@@ -8,4 +8,4 @@ docType: expl
 
 | Segar | Referensi |
 |-------|-----------|
-| {{% bible val="Ratapan:2,10" link="lam:2,10" lang="ind" %}} | ["Sifat kedua saksi": kesesakan bangsa](/expl/content/witnesses/the-two-witnesses#5f50) |
+| {{% bible val="Ratapan 2:10" link="lam:2,10" lang="ind" %}} | ["Sifat kedua saksi": kesesakan bangsa](/id/expl/content/witnesses/the-two-witnesses#5f50) |
