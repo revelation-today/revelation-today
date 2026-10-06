@@ -90,21 +90,21 @@ Tujuan mereka yang dinyatakan adalah untuk berperang melawan Anak Domba. Namun k
 ## Sang pelacur
 
 <a name="f764"></a>
-Ia memiliki banyak kesejajaran — sebagian besar sebagai kontras yang disengaja — dengan mempelai perempuan pada pasal 21 dan perempuan pada pasal 12. Tabel ini sekali lagi menandai rincian yang sepadan dengan huruf **tebal** dan hasil akhir yang sepadan dengan huruf *miring*.[^women]
+Ia memiliki banyak kesejajaran — sebagian besar sebagai kontras yang disengaja — dengan mempelai perempuan pada pasal 21 dan perempuan pada pasal 12. Tabel ini menandai yang sama dengan huruf **tebal** dan yang berbeda dengan huruf *miring*.[^women]
 
-| Istri pada pasal 12 | Pelacur pada pasal 17 | Mempelai perempuan pada ps.19 dan 21 |
-|--------------------|----------------------|-----------------------|
-| Tersembunyi di **padang gurun** {{% bible val="Why.12/6" link="rev:12,6" lang="ind" %}} | Terlindung di **padang gurun** {{% bible val="Why.17/3" link="rev:17,3" lang="ind" %}} | |
-| | Pelacur adalah **kota** Babel {{% bible val="Why.17/5" link="rev:17,5" lang="ind" %}} | Adalah **kota** {{% bible val="Why.21/9-21" link="rev:21,9-21" lang="ind" %}} |
-| | *Tidak ilahi* **ibu kota** | **Kota** *Allah* |
-| *Ibu* dari anak-anak yang sah | *Pelacur* | *mempelai perempuan* |
-| **{{% bible val="Ibu yang dikejar" link="rev:12" lang="ind" %}}** | **{{% bible val="Ibu yang dianiaya" link="rev:17,5" lang="ind" %}}** ({{% bible val="Why.17/16" link="rev:17,16" lang="ind" %}}) | |
-| *{{% bible val="Ibu yang diselamatkan" link="rev:12" lang="ind" %}}* | *{{% bible val="Perempuan yang dibinasakan" link="rev:17" lang="ind" %}}* | |
-| | **{{% bible val="Malaikat mengumumkan penghakiman" link="rev:17,1" lang="ind" %}}** **{{% bible val="sudah pasti" link="rev:19,9-10" lang="ind" %}}** | **{{% bible val="Malaikat mengumumkan mempelai perempuan" link="rev:21,9-10" lang="ind" %}}** **{{% bible val="sudah pasti" link="rev:22,6" lang="ind" %}}** |
+| Perempuan dalam pasal 12 | Pelacur dalam pasal 17 | Mempelai dalam pasal 19 dan 21 |
+|---|---|---|
+| Disembunyikan di **padang gurun** ({{% bible val="12:6" link="rev:12,6" lang="ind" %}}) | Terlihat di **padang gurun** ({{% bible val="17:3" link="rev:17,3" lang="ind" %}}) |  |
+|  | Sebuah **kota**: Babel ({{% bible val="17:5" link="rev:17,5" lang="ind" %}}) | Sebuah **kota**: Yerusalem baru ({{% bible val="21:9–21" link="rev:21,9-21" lang="ind" %}}) |
+|  | **Kota** *tanpa Allah* | **Kota** *Allah* |
+| *Ibu* dari anak-anak yang sah | *Pelacur* | *Mempelai* |
+| **Ibu yang dianiaya** ({{% bible val="ps. 12" link="rev:12" lang="ind" %}}) | **Ibu yang dianiaya** ({{% bible val="17:5" link="rev:17,5" lang="ind" %}}; {{% bible val="17:16" link="rev:17,16" lang="ind" %}}) |  |
+| *Diselamatkan* ({{% bible val="ps. 12" link="rev:12" lang="ind" %}}) | *Dibinasakan* ({{% bible val="ps. 17" link="rev:17" lang="ind" %}}) |  |
+|  | **Malaikat mengumumkan** *penghakimannya* ({{% bible val="17:1" link="rev:17,1" lang="ind" %}}); **hal itu pasti** ({{% bible val="19:9–10" link="rev:19,9-10" lang="ind" %}}) | **Malaikat mengumumkan** sang *mempelai* ({{% bible val="21:9–10" link="rev:21,9-10" lang="ind" %}}); **hal itu pasti** ({{% bible val="22:6" link="rev:22,6" lang="ind" %}}) |
 | Mempunyai **anak-anak**: keturunannya yang lain ({{% bible val="12:17" link="rev:12,17" lang="ind" %}}) | Mempunyai **anak-anak**: ia adalah ibu para pelacur ({{% bible val="17:5" link="rev:17,5" lang="ind" %}}) | Tidak disebutkan adanya anak |
-| Melahirkan **persekutuan** | Berusaha *menghancurkan* **persekutuan** | *Adalah* **persekutuan** |
-| {{% bible val="Memiliki keamanan di surga" link="rev:12,1" lang="ind" %}} | {{% bible val="Memiliki keamanan pada bangsa-bangsa dan raja-raja" link="rev:17,15" lang="ind" %}} ({{% bible val="Why.17/18" link="rev:17,18" lang="ind" %}}) | |
-| | Diselimuti **permata** </br> {{% bible val="Berpakaian kain kasar" link="rev:17,4" lang="ind" %}} ({{% bible val="Why.18/16" link="rev:18,16" lang="ind" %}}) </br>yang *menutupi* *kebusukannya* | {{% bible val="Diselimuti permata berharga" link="rev:21,2" lang="ind" %}} ({{% bible val="Why.21/9-23" link="rev:21,9-23" lang="ind" %}}) </br> {{% bible val="Berpakaian kain putih bersih" link="rev:19,8" lang="ind" %}} ({{% bible val="Why.18/16" link="rev:18,16" lang="ind" %}}) </br> yang *memantulkan* kemuliaan Allah dan *perbuatan-perbuatan benar orang-orang kudus* |
+| *Melahirkan* **umat** itu | *Berusaha membinasakan* **umat** itu | *Adalah* **umat** itu |
+| **Rasa aman** *di surga* ({{% bible val="12:1" link="rev:12,1" lang="ind" %}}) | **Rasa aman** *pada bangsa-bangsa dan raja-raja* ({{% bible val="17:15" link="rev:17,15" lang="ind" %}}; {{% bible val="17:18" link="rev:17,18" lang="ind" %}}) |  |
+|  | Berhiaskan **permata**, berpakaian **lenan halus** ({{% bible val="17:4" link="rev:17,4" lang="ind" %}}; {{% bible val="18:16" link="rev:18,16" lang="ind" %}}), yang *menutupi kebobrokannya* | Berhiaskan **permata** ({{% bible val="21:2" link="rev:21,2" lang="ind" %}}; {{% bible val="21:9–23" link="rev:21,9-23" lang="ind" %}}), berpakaian **lenan halus** ({{% bible val="19:8" link="rev:19,8" lang="ind" %}}), yang *memperlihatkan kemuliaan Allah dan perbuatan benar orang-orang kudus* |
 
 Ia juga memiliki banyak kesamaan dengan Izebel, yang menimbulkan masalahnya sendiri di {{% bible val="Tiatira" link="rev:2,20" lang="ind" %}}.
 

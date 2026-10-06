@@ -24,7 +24,7 @@ Worth flagging up front: most of what follows, especially the political critique
 <a name="dac4"></a>
 Dispensationalism prides itself on reading the Bible literally, which sounds responsible enough on the surface. The trouble is that this approach doesn't actually reflect how the Bible's literature works in every case.
 
-Take the Song of Songs, which is poetic literature through and through. Read it with a flat literalism and the Shulammite ends up with {{% bible val="doves for eyes and a tower for a neck" link="sng:4,1-4" lang="en" %}} — plainly not the intent. Several other passages carry the same warning sign, including one where the text itself signals it isn't meant {{% bible val="literally" link="isa:55,12" lang="en" %}}.
+Take the Song of Songs, which is poetic literature through and through. Read it with a flat literalism and Sulamith ends up with {{% bible val="doves for eyes and a tower for a neck" link="sng:4,1-4" lang="en" %}} — plainly not the intent. Several other passages carry the same warning sign, including one where the text itself signals it isn't meant {{% bible val="literally" link="isa:55,12" lang="en" %}}.
 
 More tellingly, dispensationalists don't even apply their own principle consistently. They agree, for instance, that the {{% bible val="beast will not have seven heads and ten horns" link="rev:13,1" lang="en" %}} in any literal, visible sense. And when {{% bible val="Gog and Magog" link="rev:20,8" lang="en" %}} show up alongside a reference to {{% bible val="God destroying the bow and arrows" link="ezk:39,3" lang="en" %}}, dispensationalists happily read "bow and arrows" as aircraft and missiles — a thoroughly non-literal move for a hermeneutic that claims literalism as its badge.
 

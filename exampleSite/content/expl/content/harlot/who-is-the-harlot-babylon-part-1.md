@@ -90,21 +90,21 @@ Their stated purpose is to wage war against the Lamb. Things work out rather dif
 ## The Harlot
 
 <a name="1947"></a>
-She has many parallels — mostly as a deliberate contrast — with the bride in chapter 21 and the woman in chapter 12. The table again marks matching details in **bold** and matching outcomes in *italic*.[^women]
+She has many parallels — mostly as a deliberate contrast — with the bride in chapter 21 and the woman in chapter 12. The table marks what matches in **bold** and what differs in *italic*.[^women]
 
 | The woman in chapter 12 | The harlot in chapter 17 | The bride in chapters 19 and 21 |
-|--------------------|----------------------|-----------------------|
-| Hidden in the **wilderness** {{% bible val="Rev 12:6" link="rev:12,6" lang="en" %}} | Sheltered in the **wilderness** {{% bible val="Rev 17:3" link="rev:17,3" lang="en" %}} | |
-| | Is the **city** Babel {{% bible val="Rev 17:5" link="rev:17,5" lang="en" %}} | Is a **city** {{% bible val="Rev 21:9-21" link="rev:21,9-21" lang="en" %}} |
-| | The **capital** *without God* | The **city** *of God* |
-| *Mother* of legitimate children | *Harlot* | *bride* |
-| **{{% bible val="Pursued mother" link="rev:12" lang="en" %}}** | **{{% bible val="Persecuted mother" link="rev:17,5" lang="en" %}}** ({{% bible val="Rev 17:16" link="rev:17,16" lang="en" %}}) | |
-| *{{% bible val="Rescued mother" link="rev:12" lang="en" %}}* | *{{% bible val="Destroyed woman" link="rev:17" lang="en" %}}* | |
-| | **{{% bible val="An angel announces her judgment" link="rev:17,1" lang="en" %}}** **{{% bible val="is certain" link="rev:19,9-10" lang="en" %}}** | **{{% bible val="An angel announces the bride" link="rev:21,9-10" lang="en" %}}** **{{% bible val="is certain" link="rev:22,6" lang="en" %}}** |
+|---|---|---|
+| Hidden in the **wilderness** ({{% bible val="12:6" link="rev:12,6" lang="en" %}}) | Seen in the **wilderness** ({{% bible val="17:3" link="rev:17,3" lang="en" %}}) |  |
+|  | A **city**: Babel ({{% bible val="17:5" link="rev:17,5" lang="en" %}}) | A **city**: the new Jerusalem ({{% bible val="21:9–21" link="rev:21,9-21" lang="en" %}}) |
+|  | The **city** *without God* | The **city** *of God* |
+| *Mother* of legitimate children | *Harlot* | *Bride* |
+| **Persecuted mother** ({{% bible val="ch. 12" link="rev:12" lang="en" %}}) | **Persecuted mother** ({{% bible val="17:5" link="rev:17,5" lang="en" %}}; {{% bible val="17:16" link="rev:17,16" lang="en" %}}) |  |
+| *Rescued* ({{% bible val="ch. 12" link="rev:12" lang="en" %}}) | *Destroyed* ({{% bible val="ch. 17" link="rev:17" lang="en" %}}) |  |
+|  | **An angel announces** her *judgment* ({{% bible val="17:1" link="rev:17,1" lang="en" %}}); **it is certain** ({{% bible val="19:9–10" link="rev:19,9-10" lang="en" %}}) | **An angel announces** the *bride* ({{% bible val="21:9–10" link="rev:21,9-10" lang="en" %}}); **it is certain** ({{% bible val="22:6" link="rev:22,6" lang="en" %}}) |
 | Has **children**: the rest of her offspring ({{% bible val="12:17" link="rev:12,17" lang="en" %}}) | Has **children**: she is the mother of prostitutes ({{% bible val="17:5" link="rev:17,5" lang="en" %}}) | No children are mentioned |
-| Gives *birth* to the **community** | Attempts **community** *destruction* | *Is* **community** |
-| {{% bible val="Has security in heaven" link="rev:12,1" lang="en" %}} | {{% bible val="Has security in nations and kings" link="rev:17,15" lang="en" %}} ({{% bible val="Rev 17:18" link="rev:17,18" lang="en" %}}) | |
-| | Covered in **jewels** </br> {{% bible val="Dressed in fine linen" link="rev:17,4" lang="en" %}} ({{% bible val="Rev 18:16" link="rev:18,16" lang="en" %}}) </br>which *covers* her *corruption* | {{% bible val="Covered with precious jewels" link="rev:21,2" lang="en" %}} ({{% bible val="Rev 21:9-23" link="rev:21,9-23" lang="en" %}}) </br> {{% bible val="Dressed in pure white canvas" link="rev:19,8" lang="en" %}} ({{% bible val="Rev 18:16" link="rev:18,16" lang="en" %}}) </br> which *reflects* God's glory and *righteous deeds of the saints* |
+| *Gives birth to* the **community** | *Tries to destroy* the **community** | *Is* the **community** |
+| **Security** *in heaven* ({{% bible val="12:1" link="rev:12,1" lang="en" %}}) | **Security** *in nations and kings* ({{% bible val="17:15" link="rev:17,15" lang="en" %}}; {{% bible val="17:18" link="rev:17,18" lang="en" %}}) |  |
+|  | Covered in **jewels**, dressed in **fine linen** ({{% bible val="17:4" link="rev:17,4" lang="en" %}}; {{% bible val="18:16" link="rev:18,16" lang="en" %}}), which *hides her corruption* | Covered in **jewels** ({{% bible val="21:2" link="rev:21,2" lang="en" %}}; {{% bible val="21:9–23" link="rev:21,9-23" lang="en" %}}), dressed in **fine linen** ({{% bible val="19:8" link="rev:19,8" lang="en" %}}), which *shows God's glory and the righteous deeds of the saints* |
 
 She also shares a lot of similarities with Jezebel, who caused her own trouble in {{% bible val="Thyatira" link="rev:2,20" lang="en" %}}.
 

@@ -90,21 +90,21 @@ Belirtilen amaçları Kuzu'ya karşı savaş açmaktır. Göreceğimiz gibi işl
 ## Fahişe
 
 <a name="b45d"></a>
-Fahişenin, çoğunlukla bilinçli bir karşıtlık olarak, 21. bölümdeki gelinle ve 12. bölümdeki kadınla birçok paralelliği vardır. Tabloda yine eşleşen ayrıntılar **kalın**, eşleşen sonuçlar ise *italik* olarak işaretlenmiştir.[^women]
+Fahişenin, çoğunlukla bilinçli bir karşıtlık olarak, 21. bölümdeki gelinle ve 12. bölümdeki kadınla birçok paralelliği vardır. Tabloda eşleşenler **kalın**, ayrılanlar *italik* olarak işaretlenmiştir.[^women]
 
-| 12. bölümdeki eş | 17. bölümdeki fahişe | 19. ve 21. bölümdeki gelin |
-|--------------------|----------------------|-----------------------|
-| **Çölde** saklı {{% bible val="Vah.12/6" link="rev:12,6" lang="tr" %}} | **Çölde** korunaklı {{% bible val="Vah.17/3" link="rev:17,3" lang="tr" %}} | |
-| | Fahişe **şehir** Babil'dir {{% bible val="Vah.17/5" link="rev:17,5" lang="tr" %}} | **Şehir**dir {{% bible val="Vah.21/9-21" link="rev:21,9-21" lang="tr" %}} |
-| | *İlahi olmayan* **başkent** | **Şehir**: *Tanrı* |
-| Meşru çocukların *annesi* | *Fahişe* | *gelin* |
-| **{{% bible val="Peşine düşülen anne" link="rev:12" lang="tr" %}}** | **{{% bible val="Zulüm gören anne" link="rev:17,5" lang="tr" %}}** ({{% bible val="Vah.17/16" link="rev:17,16" lang="tr" %}}) | |
-| *{{% bible val="Kurtarılan anne" link="rev:12" lang="tr" %}}* | *{{% bible val="Yok edilen kadın" link="rev:17" lang="tr" %}}* | |
-| | **{{% bible val="Melek mahkemeyi duyurur" link="rev:17,1" lang="tr" %}}** **{{% bible val="kesindir" link="rev:19,9-10" lang="tr" %}}** | **{{% bible val="Melek gelini duyurur" link="rev:21,9-10" lang="tr" %}}** **{{% bible val="kesindir" link="rev:22,6" lang="tr" %}}** |
+| 12. bölümdeki kadın | 17. bölümdeki fahişe | 19. ve 21. bölümlerdeki gelin |
+|---|---|---|
+| **Çölde** gizlenir ({{% bible val="12:6" link="rev:12,6" lang="tr" %}}) | **Çölde** görülür ({{% bible val="17:3" link="rev:17,3" lang="tr" %}}) |  |
+|  | Bir **şehir**: Babil ({{% bible val="17:5" link="rev:17,5" lang="tr" %}}) | Bir **şehir**: yeni Yeruşalim ({{% bible val="21:9–21" link="rev:21,9-21" lang="tr" %}}) |
+|  | *Tanrı'sız* **şehir** | *Tanrı'nın* **şehri** |
+| Meşru çocukların *anası* | *Fahişe* | *Gelin* |
+| **Zulüm gören ana** ({{% bible val="böl. 12" link="rev:12" lang="tr" %}}) | **Zulüm gören ana** ({{% bible val="17:5" link="rev:17,5" lang="tr" %}}; {{% bible val="17:16" link="rev:17,16" lang="tr" %}}) |  |
+| *Kurtarılır* ({{% bible val="böl. 12" link="rev:12" lang="tr" %}}) | *Yok edilir* ({{% bible val="böl. 17" link="rev:17" lang="tr" %}}) |  |
+|  | **Bir melek** onun *yargısını* **duyurur** ({{% bible val="17:1" link="rev:17,1" lang="tr" %}}); **bu kesindir** ({{% bible val="19:9–10" link="rev:19,9-10" lang="tr" %}}) | **Bir melek** *gelini* **duyurur** ({{% bible val="21:9–10" link="rev:21,9-10" lang="tr" %}}); **bu kesindir** ({{% bible val="22:6" link="rev:22,6" lang="tr" %}}) |
 | **Çocukları** vardır: soyunun geri kalanı ({{% bible val="12:17" link="rev:12,17" lang="tr" %}}) | **Çocukları** vardır: fahişelerin anasıdır ({{% bible val="17:5" link="rev:17,5" lang="tr" %}}) | Çocuklardan söz edilmez |
-| **Topluluğa** *doğum* verir | **Topluluğu** *yok etmeye* çalışır | **Topluluk** *olur* |
-| {{% bible val="Güvenliği gökte" link="rev:12,1" lang="tr" %}} | {{% bible val="Güvenliği uluslarda ve krallarda" link="rev:17,15" lang="tr" %}} ({{% bible val="Vah.17/18" link="rev:17,18" lang="tr" %}}) | |
-| | **Mücevherlerle** kaplı </br> {{% bible val="Tuval giymiş" link="rev:17,4" lang="tr" %}} ({{% bible val="Vah.18/16" link="rev:18,16" lang="tr" %}}) </br> bu da onun *yozlaşmasını* *örter* | {{% bible val="Değerli mücevherlerle kaplı" link="rev:21,2" lang="tr" %}} ({{% bible val="Vah.21/9-23" link="rev:21,9-23" lang="tr" %}}) </br> {{% bible val="Saf beyaz tuval giymiş" link="rev:19,8" lang="tr" %}} ({{% bible val="Vah.18/16" link="rev:18,16" lang="tr" %}}) </br> bu da Tanrı'nın görkemini ve *kutsalların doğru işlerini* *yansıtır* |
+| **Topluluğu** *doğurur* | **Topluluğu** *yok etmeye çalışır* | **Topluluğun** *kendisidir* |
+| **Güvencesi** *göktedir* ({{% bible val="12:1" link="rev:12,1" lang="tr" %}}) | **Güvencesi** *uluslarda ve krallardadır* ({{% bible val="17:15" link="rev:17,15" lang="tr" %}}; {{% bible val="17:18" link="rev:17,18" lang="tr" %}}) |  |
+|  | **Mücevherlerle** kaplı, **ince keten** giyinmiş ({{% bible val="17:4" link="rev:17,4" lang="tr" %}}; {{% bible val="18:16" link="rev:18,16" lang="tr" %}}); bu, *bozulmuşluğunu örter* | **Mücevherlerle** kaplı ({{% bible val="21:2" link="rev:21,2" lang="tr" %}}; {{% bible val="21:9–23" link="rev:21,9-23" lang="tr" %}}), **ince keten** giyinmiş ({{% bible val="19:8" link="rev:19,8" lang="tr" %}}); bu, *Tanrı'nın görkemini ve kutsalların doğru işlerini gösterir* |
 
 Fahişenin, {{% bible val="Thyatira'da" link="rev:2,20" lang="tr" %}} kendi başına dert açan Jezebel'le de birçok benzerliği vardır.
 

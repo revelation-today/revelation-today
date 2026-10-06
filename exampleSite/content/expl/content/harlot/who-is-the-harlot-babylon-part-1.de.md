@@ -90,21 +90,21 @@ Ihr erklärtes Ziel ist es, Krieg gegen das Lamm zu führen. Die Dinge entwickel
 ## Die Hure
 
 <a name="f764"></a>
-Sie hat viele Parallelen — meist als bewusster Kontrast — zur Braut in Kapitel 21 und zur Frau in Kapitel 12. Die Tabelle markiert wieder übereinstimmende Details in **fett** und übereinstimmende Ergebnisse in *kursiv*.[^women]
+Sie hat viele Parallelen — meist als bewusster Kontrast — zur Braut in Kapitel 21 und zur Frau in Kapitel 12. Die Tabelle markiert **fett**, was übereinstimmt, und *kursiv*, was sich unterscheidet.[^women]
 
-| Ehefrau in Kapitel 12 | Hure in Kapitel 17 | Braut in Kap.19 und 21 |
-|--------------------|----------------------|-----------------------|
-| Verborgen in der **Wüste** {{% bible val="Offb.12/6" link="rev:12,6" lang="de" %}} | Behütet in der **Wüste** {{% bible val="Offb.17/3" link="rev:17,3" lang="de" %}} | |
-| | Hure ist **Stadt** Babel {{% bible val="Offb.17/5" link="rev:17,5" lang="de" %}} | Ist **Stadt** {{% bible val="Offb.21/9-21" link="rev:21,9-21" lang="de" %}} |
-| | *Ungöttliche* **Hauptstadt** | **Stadt** *Gottes* |
+| Die Frau in Kapitel 12 | Die Hure in Kapitel 17 | Die Braut in Kapitel 19 und 21 |
+|---|---|---|
+| Verborgen in der **Wüste** ({{% bible val="12,6" link="rev:12,6" lang="de" %}}) | Gesehen in der **Wüste** ({{% bible val="17,3" link="rev:17,3" lang="de" %}}) |  |
+|  | Eine **Stadt**: Babel ({{% bible val="17,5" link="rev:17,5" lang="de" %}}) | Eine **Stadt**: das neue Jerusalem ({{% bible val="21,9–21" link="rev:21,9-21" lang="de" %}}) |
+|  | Die **Stadt** *ohne Gott* | Die **Stadt** *Gottes* |
 | *Mutter* rechtmäßiger Kinder | *Hure* | *Braut* |
-| **{{% bible val="Verfolgte Mutter" link="rev:12" lang="de" %}}** | **{{% bible val="Verfolgte Mutter" link="rev:17,5" lang="de" %}}** ({{% bible val="Offb.17/16" link="rev:17,16" lang="de" %}}) | |
-| *{{% bible val="Gerettete Mutter" link="rev:12" lang="de" %}}* | *{{% bible val="Vernichtete Frau" link="rev:17" lang="de" %}}* | |
-| | **{{% bible val="Engel kündigt Gericht an" link="rev:17,1" lang="de" %}}** **{{% bible val="ist gewiss" link="rev:19,9-10" lang="de" %}}** | **{{% bible val="Engel kündigt Braut an" link="rev:21,9-10" lang="de" %}}** **{{% bible val="ist gewiss" link="rev:22,6" lang="de" %}}** |
+| **Verfolgte Mutter** ({{% bible val="Kap. 12" link="rev:12" lang="de" %}}) | **Verfolgte Mutter** ({{% bible val="17,5" link="rev:17,5" lang="de" %}}; {{% bible val="17,16" link="rev:17,16" lang="de" %}}) |  |
+| *Gerettet* ({{% bible val="Kap. 12" link="rev:12" lang="de" %}}) | *Vernichtet* ({{% bible val="Kap. 17" link="rev:17" lang="de" %}}) |  |
+|  | **Ein Engel kündigt** ihr *Gericht* an ({{% bible val="17,1" link="rev:17,1" lang="de" %}}); **es ist gewiss** ({{% bible val="19,9–10" link="rev:19,9-10" lang="de" %}}) | **Ein Engel kündigt** die *Braut* an ({{% bible val="21,9–10" link="rev:21,9-10" lang="de" %}}); **es ist gewiss** ({{% bible val="22,6" link="rev:22,6" lang="de" %}}) |
 | Hat **Kinder**: die übrigen ihrer Nachkommen ({{% bible val="12,17" link="rev:12,17" lang="de" %}}) | Hat **Kinder**: Sie ist die Mutter der Huren ({{% bible val="17,5" link="rev:17,5" lang="de" %}}) | Von Kindern ist nicht die Rede |
-| Gebiert die **Gemeinschaft** | Versucht die **Gemeinschaft** *zu zerstören* | *Ist* **Gemeinschaft** |
-| {{% bible val="Hat Sicherheit im Himmel" link="rev:12,1" lang="de" %}} | {{% bible val="Hat Sicherheit bei Nationen und Königen" link="rev:17,15" lang="de" %}} ({{% bible val="Offb.17/18" link="rev:17,18" lang="de" %}}) | |
-| | Bedeckt mit **Juwelen** </br> {{% bible val="Bekleidet mit Leinwand" link="rev:17,4" lang="de" %}} ({{% bible val="Offb.18/16" link="rev:18,16" lang="de" %}}) </br>die ihre *Verderbtheit* *verdeckt* | {{% bible val="Bedeckt mit kostbaren Juwelen" link="rev:21,2" lang="de" %}} ({{% bible val="Offb.21/9-23" link="rev:21,9-23" lang="de" %}}) </br> {{% bible val="Bekleidet mit reinem weißem Leinen" link="rev:19,8" lang="de" %}} ({{% bible val="Offb.18/16" link="rev:18,16" lang="de" %}}) </br> das Gottes Herrlichkeit und die *gerechten Taten der Heiligen* *widerspiegelt* |
+| *Gebiert* die **Gemeinschaft** | *Versucht*, die **Gemeinschaft** *zu zerstören* | *Ist* die **Gemeinschaft** |
+| **Sicherheit** *im Himmel* ({{% bible val="12,1" link="rev:12,1" lang="de" %}}) | **Sicherheit** *bei Nationen und Königen* ({{% bible val="17,15" link="rev:17,15" lang="de" %}}; {{% bible val="17,18" link="rev:17,18" lang="de" %}}) |  |
+|  | Mit **Juwelen** bedeckt, in **feines Leinen** gekleidet ({{% bible val="17,4" link="rev:17,4" lang="de" %}}; {{% bible val="18,16" link="rev:18,16" lang="de" %}}), das *ihre Verderbtheit verdeckt* | Mit **Juwelen** bedeckt ({{% bible val="21,2" link="rev:21,2" lang="de" %}}; {{% bible val="21,9–23" link="rev:21,9-23" lang="de" %}}), in **feines Leinen** gekleidet ({{% bible val="19,8" link="rev:19,8" lang="de" %}}), das *Gottes Herrlichkeit und die gerechten Taten der Heiligen zeigt* |
 
 Sie teilt außerdem viele Gemeinsamkeiten mit Isebel, die in {{% bible val="Thyatira" link="rev:2,20" lang="de" %}} ihr eigenes Unheil anrichtete.
 
