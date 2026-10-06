@@ -21,11 +21,9 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-Vahiy Kitabı, insanlara türlü türlü şey yapmaları için ilham vermiştir; bunların çoğunun kitabın kendisiyle hiçbir ilgisi yoktur. Size listeyi saymaktan kaçınacağım, ama muhtemelen ne demek istediğimi biliyorsunuz. Peki bu tuhaf kitabı gerçekten okumak ve anlamak nasıl mümkün olabilir?
+Vahiy Kitabı, insanlara türlü türlü şey yapmaları için ilham vermiştir; bunların çoğunun kitabın kendisiyle hiçbir ilgisi yoktur. Peki bu tuhaf kitabı gerçekten okumak ve anlamak nasıl mümkün olabilir?
 
 Bir yanıt bulmak için önce bu kitabın ne tür bir kitap olduğunu ele almamız gerekiyor.
-
-Yanıt basit değil ve üzerinde çalışmak biraz dikkat gerektiriyor — ama buna değer.
 
 ## Tür nedir?
 

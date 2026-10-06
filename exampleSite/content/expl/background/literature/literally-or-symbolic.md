@@ -12,7 +12,7 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-The book of Revelation is full of images that seem to belong to another world entirely. Do we need to stretch our imaginations to picture them literally, or are they simply symbols? The answer, it turns out, is both — read on for why.
+The book of Revelation is full of images that seem to belong to another world entirely. Do we need to stretch our imaginations to picture them literally, or are they simply symbols? The answer is both.
 
 ## Not an easy answer
 
@@ -56,7 +56,7 @@ That points toward the book being primarily symbolic. But there's another angle 
 ## deiknumi and semaino {#deiknumi}
 
 <a name="27d2"></a>
-No, that heading isn't a typo — it names the two Greek verbs that reveal the book's own stated purpose: "{{% bible val="The Revelation from Jesus Christ, which God gave him to show (deiknumi) his servants what must soon take place. He made it known (semaino) by sending his angel to his servant John" link="rev:1,1" lang="en" %}}." Looking closely at these two verbs gives us real insight into how God intended to show and make known the contents of this book.
+The heading names the two Greek verbs that reveal the book's own stated purpose: "{{% bible val="The Revelation from Jesus Christ, which God gave him to show (deiknumi) his servants what must soon take place. He made it known (semaino) by sending his angel to his servant John" link="rev:1,1" lang="en" %}}." Looking closely at these two verbs gives us real insight into how God intended to show and make known the contents of this book.
 
 ### [semaino](https://biblehub.com/greek/4591.htm)
 

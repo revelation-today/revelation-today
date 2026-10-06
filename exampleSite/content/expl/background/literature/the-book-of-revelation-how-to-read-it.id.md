@@ -21,11 +21,9 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-Kitab Wahyu telah mengilhami orang untuk melakukan segala macam hal, yang sebagian besar tidak ada hubungannya dengan kitab itu sendiri. Saya tidak akan menyebutkan daftarnya, tetapi Anda mungkin sudah tahu apa yang saya maksud. Jadi bagaimana sebenarnya cara membaca dan memahami kitab yang aneh ini?
+Kitab Wahyu telah mengilhami orang untuk melakukan segala macam hal, yang sebagian besar tidak ada hubungannya dengan kitab itu sendiri. Jadi bagaimana sebenarnya cara membaca dan memahami kitab yang aneh ini?
 
 Untuk menemukan jawabannya, pertama-tama kita perlu mempertimbangkan kitab macam apakah ini sebenarnya.
-
-Jawabannya tidak sederhana, dan membutuhkan sedikit perhatian untuk memahaminya — tetapi sepadan dengan waktu yang diperlukan.
 
 ## Apa Itu Genre?
 

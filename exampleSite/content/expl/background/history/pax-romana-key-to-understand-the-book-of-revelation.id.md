@@ -29,7 +29,7 @@ docType: expl
 appl: /appl/background/history
 ---
 
-Anda mungkin berpikir bahwa Kitab Wahyu, atau Pax Romana Roma kuno, tidak ada hubungannya dengan hidup Anda saat ini. Anda keliru, dan inilah alasannya.
+Kitab Wahyu dan Pax Romana Roma kuno mungkin tampak tidak ada hubungannya dengan hidup masa kini. Padahal hubungannya sangat erat.
 
 ## Pax Romana
 

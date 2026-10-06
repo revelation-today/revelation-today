@@ -20,7 +20,7 @@ sources:
       ref: aune_rev
 ---
 
-İzmir'i tanır mısınız? Tanımalısınız — orada, kusursuzluğu beklediğiniz kadar davetkâr görünmese de, suçlanmamış bir kilise bulacaksınız.
+İzmir'de, kusursuzluğu beklediğiniz kadar davetkâr görünmese de, suçlanmamış bir kilise bulacaksınız.
 
 {{% bible val="İzmir, İsa'dan hiç azar işitmeyen sadece iki kiliseden biridir." link="rev:2,8-11" lang="tr" %}} Peki sırları nedir?
 

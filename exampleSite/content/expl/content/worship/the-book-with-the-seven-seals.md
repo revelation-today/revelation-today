@@ -22,7 +22,7 @@ deeper:
       link:  /expl/background/israel/the-second-exodus
 ---
 
-Do you know the idiom "that's a book with seven seals," meaning a great mystery? The phrase actually originates in this chapter — though it doesn't mean quite what people assume.
+In some languages "a book with seven seals" is a saying for a great mystery. The phrase comes from this chapter, though it does not mean quite what people assume.
 
 ## The book with the seven seals
 

@@ -12,7 +12,7 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-Kitab Wahyu penuh dengan gambaran-gambaran yang tampak sepenuhnya berasal dari dunia lain. Perlukah kita meregangkan imajinasi kita untuk membayangkannya secara harfiah, atau apakah gambaran-gambaran itu sekadar simbol? Jawabannya, ternyata, adalah keduanya — teruslah membaca untuk mengetahui alasannya.
+Kitab Wahyu penuh dengan gambaran-gambaran yang tampak sepenuhnya berasal dari dunia lain. Perlukah kita meregangkan imajinasi kita untuk membayangkannya secara harfiah, atau apakah gambaran-gambaran itu sekadar simbol? Jawabannya: keduanya.
 
 ## Bukan Jawaban yang Sederhana
 

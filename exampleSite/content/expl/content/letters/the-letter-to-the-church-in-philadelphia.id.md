@@ -18,7 +18,7 @@ sources:
       ref: aune_rev
 ---
 
-{{% bible val="Filadelfia" link="rev:3,7-13" lang="ind" %}} adalah jemaat yang kepadanya Yesus berbicara sebagai Dia yang memegang kunci Daud. Pintu apa yang dibuka oleh kunci itu - penginjilan, kesempatan, hubungan, atau sesuatu yang sama sekali lain? Bacalah terus, dan kamu akan melihat mengapa inilah satu-satunya jemaat yang tidak pernah ditegur Yesus.
+{{% bible val="Filadelfia" link="rev:3,7-13" lang="ind" %}} adalah jemaat yang kepadanya Yesus berbicara sebagai Dia yang memegang kunci Daud. Pintu apa yang dibuka oleh kunci itu - penginjilan, kesempatan, hubungan, atau sesuatu yang sama sekali lain? Inilah salah satu dari dua jemaat yang tidak ditegur Yesus.
 
 ## Latar Belakang Historis
 

@@ -20,7 +20,7 @@ sources:
       ref: aune_rev
 ---
 
-Are you familiar with Smyrna? You should be — it's home to a blameless church, though that blamelessness may not look as inviting as you'd expect.
+Smyrna is home to a blameless church, though that blamelessness may not look as inviting as you'd expect.
 
 {{% bible val="Smyrna is one of only two churches that receives no rebuke from Jesus." link="rev:2,8-11" lang="en" %}} So what is their secret?
 

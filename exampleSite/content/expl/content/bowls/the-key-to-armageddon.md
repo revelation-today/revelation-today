@@ -26,7 +26,7 @@ sources:
       ref: bauckham_climax
 ---
 
-Armageddon: a catastrophe that will destroy the world? No — because, whatever real geography stands behind the name, John is using it as a symbol, not pinpointing a literal battlefield. Want to know why? Read on.
+Armageddon: a catastrophe that will destroy the world? No — because, whatever real geography stands behind the name, John is using it as a symbol, not pinpointing a literal battlefield.
 
 ## The translation
 

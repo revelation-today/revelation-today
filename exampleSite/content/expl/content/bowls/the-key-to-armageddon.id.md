@@ -26,7 +26,7 @@ sources:
       ref: bauckham_climax
 ---
 
-Harmagedon: sebuah bencana yang akan menghancurkan dunia? Bukan - sebab, apa pun geografi nyata yang mungkin ada di balik nama ini, Yohanes menggunakannya sebagai sebuah simbol, bukan untuk menunjuk pada sebuah medan pertempuran yang harfiah. Ingin tahu alasannya? Teruslah membaca.
+Harmagedon: sebuah bencana yang akan menghancurkan dunia? Bukan - sebab, apa pun geografi nyata yang mungkin ada di balik nama ini, Yohanes menggunakannya sebagai sebuah simbol, bukan untuk menunjuk pada sebuah medan pertempuran yang harfiah.
 
 ## Terjemahannya
 

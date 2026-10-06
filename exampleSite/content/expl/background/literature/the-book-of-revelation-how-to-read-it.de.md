@@ -21,11 +21,9 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-Die Offenbarung hat Menschen zu allerlei Dingen inspiriert, von denen die wenigsten etwas mit dem Buch selbst zu tun haben. Ich erspare dir die Liste, aber du weißt vermutlich, wovon ich spreche. Wie also lässt sich dieses seltsame Buch überhaupt lesen und verstehen?
+Die Offenbarung hat Menschen zu allerlei Dingen inspiriert, von denen die wenigsten etwas mit dem Buch selbst zu tun haben. Wie also lässt sich dieses seltsame Buch überhaupt lesen und verstehen?
 
 Um eine Antwort zu finden, müssen wir zunächst klären, um was für ein Buch es sich hier eigentlich handelt.
-
-Die Antwort ist nicht einfach und erfordert etwas Geduld beim Durcharbeiten — aber die Mühe lohnt sich.
 
 ## Was ist ein Genre?
 

@@ -20,7 +20,7 @@ sources:
       ref: aune_rev
 ---
 
-Apakah kamu mengenal Smirna? Sebaiknya kamu mengenalnya - di sanalah terdapat sebuah jemaat yang tidak bercela, meskipun ketidakbercelaan itu mungkin tidak terlihat semenarik yang kamu bayangkan.
+Di Smirna terdapat sebuah jemaat yang tidak bercela, meskipun ketidakbercelaan itu mungkin tidak terlihat semenarik yang kamu bayangkan.
 
 {{% bible val="Smirna adalah satu dari hanya dua jemaat yang sama sekali tidak menerima teguran dari Yesus" link="rev:2,8-11" lang="ind" %}}. Jadi apa rahasianya?
 

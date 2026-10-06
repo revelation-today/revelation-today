@@ -26,7 +26,7 @@ sources:
       ref: bauckham_climax
 ---
 
-Armageddon: eine Katastrophe, die die Welt zerstören wird? Nein — denn was auch immer an realer Geografie hinter dem Namen steht, Johannes verwendet ihn als Symbol, nicht um ein wörtliches Schlachtfeld zu benennen. Willst du wissen, warum? Dann lies weiter.
+Armageddon: eine Katastrophe, die die Welt zerstören wird? Nein — denn was auch immer an realer Geografie hinter dem Namen steht, Johannes verwendet ihn als Symbol, nicht um ein wörtliches Schlachtfeld zu benennen.
 
 ## Die Übersetzung
 

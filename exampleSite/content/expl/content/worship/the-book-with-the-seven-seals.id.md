@@ -22,7 +22,7 @@ deeper:
       link:  /expl/background/israel/the-second-exodus
 ---
 
-Pernahkah kamu mendengar ungkapan "itu bagaikan kitab dengan tujuh meterai" untuk menggambarkan sebuah misteri besar? Ungkapan ini sebenarnya berasal dari pasal ini - meskipun maknanya tidak sepenuhnya sama dengan yang orang bayangkan.
+Dalam beberapa bahasa, "kitab dengan tujuh meterai" adalah ungkapan untuk sebuah misteri besar. Ungkapan itu berasal dari pasal ini, meskipun maknanya tidak sepenuhnya sama dengan yang orang bayangkan.
 
 ## Kitab dengan Tujuh Meterai
 

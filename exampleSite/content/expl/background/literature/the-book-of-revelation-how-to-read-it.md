@@ -21,11 +21,9 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-The book of Revelation has inspired people to do all sorts of things, most of which have nothing to do with the book itself. I'll spare you the list, but you likely know what I mean. So how is it actually possible to read and understand this strange book?
+The book of Revelation has inspired people to do all sorts of things, most of which have nothing to do with the book itself. So how is it actually possible to read and understand this strange book?
 
 To find an answer, we first need to consider what kind of book this is.
-
-The answer isn't simple, and it takes some attention to work through — but it's worth the time.
 
 ## What is the genre?
 

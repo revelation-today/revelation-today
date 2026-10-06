@@ -18,7 +18,7 @@ sources:
       ref: aune_rev
 ---
 
-{{% bible val="Philadelphia" link="rev:3,7-13" lang="de" %}} ist die Gemeinde, zu der Jesus als der spricht, der den Schlüssel Davids hält. Welche Türen öffnet dieser Schlüssel - Evangelisation, Gelegenheiten, Beziehungen, oder etwas ganz anderes? Lies weiter, und du wirst sehen, warum dies eine Gemeinde ist, die Jesus nie zurechtweist.
+{{% bible val="Philadelphia" link="rev:3,7-13" lang="de" %}} ist die Gemeinde, zu der Jesus als der spricht, der den Schlüssel Davids hält. Welche Türen öffnet dieser Schlüssel - Evangelisation, Gelegenheiten, Beziehungen, oder etwas ganz anderes? Sie ist eine der beiden Gemeinden, die Jesus nicht tadelt.
 
 ## Historischer Hintergrund
 

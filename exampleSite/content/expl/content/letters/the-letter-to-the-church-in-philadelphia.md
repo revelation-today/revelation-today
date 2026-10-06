@@ -18,7 +18,7 @@ sources:
       ref: aune_rev
 ---
 
-{{% bible val="Philadelphia" link="rev:3,7-13" lang="en" %}} is the church to which Jesus speaks as the one who holds the key of David. What doors does that key open — evangelism, opportunity, relationships, or something else entirely? Read on, and you'll see why this is one church Jesus never chastises.
+{{% bible val="Philadelphia" link="rev:3,7-13" lang="en" %}} is the church to which Jesus speaks as the one who holds the key of David. What doors does that key open — evangelism, opportunity, relationships, or something else entirely? It is one of the two churches Jesus does not rebuke.
 
 ## The historical background
 

@@ -29,7 +29,7 @@ docType: expl
 appl: /appl/background/history
 ---
 
-Vahiy Kitabı'nın ya da antik Roma'nın Pax Romana'sının bugünkü yaşamınızla hiçbir ilgisi olmadığını düşünebilirsiniz. Yanılıyor olursunuz, işte nedeni.
+Vahiy Kitabı'nın ve antik Roma'nın Pax Romana'sının bugünkü yaşamla hiçbir ilgisi yokmuş gibi görünebilir. Oysa ilgisi çok büyüktür.
 
 ## Pax Romana
 

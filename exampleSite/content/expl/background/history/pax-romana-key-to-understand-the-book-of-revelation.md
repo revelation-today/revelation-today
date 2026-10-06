@@ -29,7 +29,7 @@ docType: expl
 appl: /appl/background/history
 ---
 
-You may think that the book of Revelation, or the Pax Romana of ancient Rome, has nothing to do with your life today. You'd be wrong, and here's why.
+The book of Revelation, and the Pax Romana of ancient Rome, may seem to have nothing to do with life today. They have a great deal to do with it.
 
 ## Pax Romana
 

@@ -29,7 +29,7 @@ docType: expl
 appl: /appl/background/history
 ---
 
-Du denkst vielleicht, dass die Offenbarung oder die Pax Romana des antiken Rom nichts mit deinem Leben heute zu tun haben. Da irrst du dich, und hier ist, warum.
+Die Offenbarung und die Pax Romana des antiken Rom scheinen mit dem Leben heute nichts zu tun zu haben. Sie haben sehr viel damit zu tun.
 
 ## Pax Romana
 

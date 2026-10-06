@@ -20,7 +20,7 @@ sources:
       ref: aune_rev
 ---
 
-Kennst du Smyrna? Solltest du - dort findest du eine tadellose Gemeinde, auch wenn diese Tadellosigkeit vielleicht nicht so einladend wirkt, wie du erwarten würdest.
+In Smyrna findest du eine tadellose Gemeinde, auch wenn diese Tadellosigkeit vielleicht nicht so einladend wirkt, wie du erwarten würdest.
 
 {{% bible val="Smyrna ist eine von nur zwei Gemeinden, die von Jesus keinerlei Tadel erhält." link="rev:2,8-11" lang="de" %}} Was ist also ihr Geheimnis?
 

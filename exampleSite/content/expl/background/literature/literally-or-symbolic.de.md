@@ -12,7 +12,7 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-Die Offenbarung ist voller Bilder, die einer ganz anderen Welt zu entstammen scheinen. Müssen wir uns anstrengen, sie uns wörtlich vorzustellen, oder sind sie einfach nur Symbole? Die Antwort lautet, wie sich zeigen wird: beides — lies weiter, um zu erfahren, warum.
+Die Offenbarung ist voller Bilder, die einer ganz anderen Welt zu entstammen scheinen. Müssen wir uns anstrengen, sie uns wörtlich vorzustellen, oder sind sie einfach nur Symbole? Die Antwort lautet: beides.
 
 ## Keine einfache Antwort
 
@@ -58,7 +58,7 @@ Das spricht dafür, dass das Buch in erster Linie symbolisch zu verstehen ist. E
 ## deiknumi and semaino {#deiknumi}
 
 <a name="dd9c"></a>
-Nein, diese Überschrift ist kein Tippfehler — sie benennt die beiden griechischen Verben, die den vom Buch selbst genannten Zweck offenbaren: „{{% bible val="Die Offenbarung Jesu Christi, die Gott ihm gab, um seinen Knechten zu zeigen (deiknumi), was bald geschehen muss. Er machte es bekannt (semaino), indem er seinen Engel zu seinem Knecht Johannes sandte" link="rev:1,1" lang="de" %}}." Ein genauer Blick auf diese beiden Verben gibt uns wertvolle Einsicht darin, wie Gott den Inhalt dieses Buches zeigen und bekanntmachen wollte.
+Die Überschrift benennt die beiden griechischen Verben, die den vom Buch selbst genannten Zweck offenbaren: „{{% bible val="Die Offenbarung Jesu Christi, die Gott ihm gab, um seinen Knechten zu zeigen (deiknumi), was bald geschehen muss. Er machte es bekannt (semaino), indem er seinen Engel zu seinem Knecht Johannes sandte" link="rev:1,1" lang="de" %}}." Ein genauer Blick auf diese beiden Verben gibt uns wertvolle Einsicht darin, wie Gott den Inhalt dieses Buches zeigen und bekanntmachen wollte.
 
 ### [semaino](https://biblehub.com/greek/4591.htm)
 

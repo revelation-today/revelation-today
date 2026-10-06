@@ -26,7 +26,7 @@ sources:
       ref: bauckham_climax
 ---
 
-Armageddon: Dünyayı yok edecek bir felaket mi? Hayır - çünkü bu ismin ardında ne tür bir gerçek coğrafya olursa olsun, Yuhanna bunu gerçek bir savaş alanını işaret etmek için değil, bir simge olarak kullanıyor. Nedenini mi merak ediyorsunuz? Okumaya devam edin.
+Armageddon: Dünyayı yok edecek bir felaket mi? Hayır - çünkü bu ismin ardında ne tür bir gerçek coğrafya olursa olsun, Yuhanna bunu gerçek bir savaş alanını işaret etmek için değil, bir simge olarak kullanıyor.
 
 ## Çeviri
 

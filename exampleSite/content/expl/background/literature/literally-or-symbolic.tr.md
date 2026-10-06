@@ -12,7 +12,7 @@ docType: expl
 appl: /appl/background/literature
 ---
 
-Vahiy Kitabı, tamamen başka bir dünyaya ait gibi görünen imgelerle doludur. Bunları harfiyen hayal etmek için hayal gücümüzü mü zorlamalıyız, yoksa bunlar sadece semboller mi? Cevap, görüldüğü üzere, her ikisidir de — nedenini öğrenmek için okumaya devam edin.
+Vahiy Kitabı, tamamen başka bir dünyaya ait gibi görünen imgelerle doludur. Bunları harfiyen hayal etmek için hayal gücümüzü mü zorlamalıyız, yoksa bunlar sadece semboller mi? Cevap: her ikisi de.
 
 ## Kolay bir cevap yok
 
@@ -56,7 +56,7 @@ Bu, kitabın öncelikle sembolik olduğuna işaret eder. Ama değerlendirilmeye 
 ## deiknumi ve semaino {#deiknumi}
 
 <a name="0cc8"></a>
-Hayır, bu başlık bir yazım hatası değil — kitabın kendi belirttiği amacını ortaya koyan iki Yunanca fiili adlandırıyor: "{{% bible val="İsa Mesih'in vahyi; Tanrı, kullarına yakında gerçekleşmesi gereken şeyleri göstermesi (deiknumi) için bunu ona verdi. Bunu, meleğini kulu Yuhanna'ya göndererek bildirdi (semaino)" link="rev:1,1" lang="tr" %}}." Bu iki fiile yakından bakmak, Tanrı'nın bu kitabın içeriğini göstermeyi ve bildirmeyi nasıl amaçladığı konusunda bize gerçek bir kavrayış sağlar.
+Başlık, kitabın kendi belirttiği amacını ortaya koyan iki Yunanca fiili adlandırıyor: "{{% bible val="İsa Mesih'in vahyi; Tanrı, kullarına yakında gerçekleşmesi gereken şeyleri göstermesi (deiknumi) için bunu ona verdi. Bunu, meleğini kulu Yuhanna'ya göndererek bildirdi (semaino)" link="rev:1,1" lang="tr" %}}." Bu iki fiile yakından bakmak, Tanrı'nın bu kitabın içeriğini göstermeyi ve bildirmeyi nasıl amaçladığı konusunda bize gerçek bir kavrayış sağlar.
 
 ### [semaino](https://biblehub.com/greek/4591.htm)
 

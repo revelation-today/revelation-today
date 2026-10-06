@@ -22,7 +22,7 @@ deeper:
       link:  /expl/background/israel/the-second-exodus
 ---
 
-"Bu, yedi mühürlü bir kitap" deyimini duydunuz mu — büyük bir gizem anlamına gelir? Bu ifade aslında bu bölümden gelir — ama insanların sandığı anlamı taşımaz.
+"Yedi mühürlü kitap", bazı dillerde büyük bir gizem için kullanılan bir deyimdir. Bu ifade bu bölümden gelir, ama insanların sandığı anlamı taşımaz.
 
 ## Yedi mühürlü kitap
 
