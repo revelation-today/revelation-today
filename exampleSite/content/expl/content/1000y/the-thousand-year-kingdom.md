@@ -117,7 +117,7 @@ If chapter 20 isn't describing a separate future era, what is its storyline actu
 - {{% bible val="38–39" link="ezk:38" lang="en" %}}: the {{% bible val="battle of Gog and Magog" link="rev:20,7-10" lang="en" %}}, corresponding to the second coming of Jesus.
 - {{% bible val="40–48" link="ezk:40" lang="en" %}}: the final vision of a new temple and New Jerusalem, corresponding to {{% bible val="chapter 21" link="rev:21" lang="en" %}} — though it's worth noting Revelation 21:22 explicitly says there is *no* temple in the New Jerusalem "because the Lord God Almighty and the Lamb are its temple," so the correspondence works best if Ezekiel's very physical temple is read as a symbol later fulfilled without a literal building, rather than as a one-to-one match.
 
-## What's about the second death and the first resurrection?
+## What about the second death and the first resurrection?
 
 "{{% bible val="I saw thrones on which were seated those who had been given authority to judge. And I saw the souls of those who had been beheaded because of their testimony about Jesus and because of the word of God. They had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. (The rest of the dead did not come to life until the thousand years were ended.) This is the first resurrection. Blessed and holy are those who share in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ and will reign with him for a thousand years." link="rev:20,4-6" lang="en" %}}"
 

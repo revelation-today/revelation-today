@@ -37,7 +37,7 @@ Jadi bagian belakang koin ini adalah sebuah perayaan langsung atas kekuasaan dan
 
 Perayaan koin itu atas {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} dibalikkan, titik demi titik, menjadi gambaran kehinaan dan kejijikan — sebuah pengingat bagi setiap orang percaya yang memegang koin itu dalam kehidupan sehari-hari bahwa Roma tidak dapat dipercaya. Ini adalah kontra-propaganda yang sungguh efektif.
 
-Ini bukanlah gerakan retoris yang berdiri sendiri. "Babel" sendiri adalah nama sandi yang dikenal luas untuk Roma dalam tulisan-tulisan Yahudi dan Kristen mula-mula pada masa itu — paling jelas dalam 1 Petrus 5:13, dan juga dalam karya-karya seperti 2 Barukh, 4 Ezra, dan Sibylline Oracles 5. Babel telah menghancurkan Bait Salomo pada tahun 586 SM; Roma menghancurkan Bait Kedua pada tahun 70 M. Menyebut Roma sebagai "Babel" menempatkannya dalam pola tipologis yang sama: sebuah kekaisaran kafir yang sombong, yang menghancurkan bait Allah dan, pada gilirannya, menghadapi penghakiman Allah.
+Ini bukanlah gerakan retoris yang berdiri sendiri. "Babel" sendiri adalah nama sandi yang dikenal luas untuk Roma dalam tulisan-tulisan Yahudi dan Kristen mula-mula pada masa itu — paling jelas dalam 1 Petrus 5:13, dan juga dalam karya-karya seperti 2 Barukh, 4 Ezra, dan Sibylline Oracles 5. Babel telah menghancurkan Bait Salomo pada tahun 587 SM; Roma menghancurkan Bait Kedua pada tahun 70 M. Menyebut Roma sebagai "Babel" menempatkannya dalam pola tipologis yang sama: sebuah kekaisaran kafir yang sombong, yang menghancurkan bait Allah dan, pada gilirannya, menghadapi penghakiman Allah.
 
 ## Ekfrasis
 

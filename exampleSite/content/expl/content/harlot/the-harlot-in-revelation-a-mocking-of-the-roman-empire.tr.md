@@ -37,7 +37,7 @@ Yani madalyonun arka yüzü, Roma'nın gücünün ve kalıcılığının açık 
 
 Madalyonun {{% int_link val="Pax Romana'yı" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} kutlaması, adım adım, tiksinti ve hor görü dolu bir imgeye dönüştürülür — bu parayı günlük hayatında elinde tutan her mümine, Roma'ya güvenilemeyeceğini hatırlatan bir uyarı. Bu, olağanüstü etkili bir karşı propagandadır.
 
-Bu, tek başına duran bir retorik hamle değildir. "Babil," dönemin Yahudi ve erken Hristiyan yazınında Roma için tanınmış bir kod addır — en açık biçimde 1. Petrus 5:13'te, ayrıca 2. Baruh, 4. Ezra ve Sibylline Kehanetleri 5 gibi eserlerde de. Babil, MÖ 586'da Süleyman'ın tapınağını yıkmıştı; Roma ise MS 70'te İkinci Tapınağı yıktı. Roma'ya "Babil" demek, onu Tanrı'nın tapınağını yıkan ve buna karşılık Tanrı'nın yargısıyla karşılaşan gururlu bir pagan imparatorluk tipolojisinin aynı örüntüsüne yerleştiriyordu.
+Bu, tek başına duran bir retorik hamle değildir. "Babil," dönemin Yahudi ve erken Hristiyan yazınında Roma için tanınmış bir kod addır — en açık biçimde 1. Petrus 5:13'te, ayrıca 2. Baruh, 4. Ezra ve Sibylline Kehanetleri 5 gibi eserlerde de. Babil, MÖ 587'da Süleyman'ın tapınağını yıkmıştı; Roma ise MS 70'te İkinci Tapınağı yıktı. Roma'ya "Babil" demek, onu Tanrı'nın tapınağını yıkan ve buna karşılık Tanrı'nın yargısıyla karşılaşan gururlu bir pagan imparatorluk tipolojisinin aynı örüntüsüne yerleştiriyordu.
 
 ## Ekphrasis
 

@@ -32,7 +32,7 @@ That never actually happened. When Israel {{% bible val="went into exile, it was
 
 Verse 24 lays out six things these 490 years are meant to accomplish:
 
-- **Finish transgression, for your people and your holy city.** "Transgression" points to the {{% bible val="Jews who supported Antiochus Epiphanes IV" link="dan:9,24-27" lang="en" %}}, described later in {{% bible val="chapter 11" link="dan:11,32" lang="en" %}}.
+- **Finish transgression, for your people and your holy city.** "Transgression" points to the {{% bible val="Jews who supported Antiochus IV Epiphanes" link="dan:9,24-27" lang="en" %}}, described later in {{% bible val="chapter 11" link="dan:11,32" lang="en" %}}.
 - **Put an end to sin** — literally "seal," which in Hebrew shares its consonants with "remove." Either way, it's an ambitious goal.
 - **Atone for all wickedness.** "Atone" points back to the {{% bible val="Day of Atonement" link="lev:16" lang="en" %}}, which in its own context was meant to cover all sins — an atonement intended to be lasting.
 - **Bring in everlasting righteousness.**

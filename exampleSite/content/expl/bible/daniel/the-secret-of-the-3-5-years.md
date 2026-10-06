@@ -33,8 +33,8 @@ In the book of Revelation, chapters 11 through 13, there are five references to 
 | 42 months | {{% bible val="Outer area of the temple is left to the pagans" link="rev:11,2" lang="en" %}} |
 | 1260 days | {{% bible val="witnesses with prophecy" link="rev:11,3" lang="en" %}} |
 | 1260 days | {{% bible val="Woman is protected in the desert" link="rev:12,6" lang="en" %}} |
-| 3,5 times | {{% bible val="Woman is protected in the desert" link="rev:12,14" lang="en" %}} |
-| 42 months | {{% bible val="The first beast blasphems" link="rev:13,5" lang="en" %}} |
+| 3½ times | {{% bible val="Woman is protected in the desert" link="rev:12,14" lang="en" %}} |
+| 42 months | {{% bible val="The first beast blasphemes" link="rev:13,5" lang="en" %}} |
 
 So there are really three distinct time expressions here — the third, "3.5 times," is literally called "time, two times, and half a time." If we assume a 30-day month, all three come out to the same length: 1260 days = 42 months = 3.5 years = 3.5 times.
 

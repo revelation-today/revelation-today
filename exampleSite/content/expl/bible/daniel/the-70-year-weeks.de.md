@@ -32,7 +32,7 @@ Dazu kam es nie. Als Israel {{% bible val="ins Exil ging, geschah das für 70 Ja
 
 Vers 24 legt sechs Dinge dar, die diese 490 Jahre erreichen sollen:
 
-- **Der Übertretung ein Ende machen, für dein Volk und deine heilige Stadt.** „Übertretung“ verweist auf die {{% bible val="Juden, die Antiochus Epiphanes IV. unterstützten" link="dan:9,24-27" lang="de" %}}, die später in {{% bible val="Kapitel 11" link="dan:11,32" lang="de" %}} beschrieben werden.
+- **Der Übertretung ein Ende machen, für dein Volk und deine heilige Stadt.** „Übertretung“ verweist auf die {{% bible val="Juden, die Antiochus IV. Epiphanes unterstützten" link="dan:9,24-27" lang="de" %}}, die später in {{% bible val="Kapitel 11" link="dan:11,32" lang="de" %}} beschrieben werden.
 - **Der Sünde ein Ende setzen** — wörtlich „versiegeln“, was im Hebräischen dieselben Konsonanten hat wie „wegnehmen“. So oder so ist das ein ehrgeiziges Ziel.
 - **Alle Schuld sühnen.** „Sühnen“ verweist zurück auf den {{% bible val="Versöhnungstag" link="lev:16" lang="de" %}}, der in seinem eigenen Kontext alle Sünden bedecken sollte — eine Sühne, die von Dauer sein sollte.
 - **Eine ewige Gerechtigkeit herbeiführen.**

@@ -46,7 +46,7 @@ Let's line up the interpreted elements:
 - another horn = another king
 - three of the horns fell = three kings were subdued
 - Horn is more imposing and speaks boastfully = speaks against the Most High, oppresses His people, tries to change times and laws
-- horn defeats them = holy people are delivered into his hands for 3,5 times
+- horn defeats them = holy people are delivered into his hands for 3½ times
 - The Ancient of Days speaks judgment in favor of the holy people = the king’s power is taken away and he is completely destroyed forever
 - Time comes they possess the kingdom = all kingdoms will be given over to the Holy People, will be everlasting and all rulers will worship and obey Him.
 

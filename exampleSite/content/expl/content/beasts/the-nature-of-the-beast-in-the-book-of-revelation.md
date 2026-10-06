@@ -99,7 +99,7 @@ Let's take a closer look at these two beasts. They act together and support each
 
 There's another interesting chiasmus hidden in that last row. "Here is ... patience and faith" pairs with "he who has ears, let him hear," and "here is wisdom" pairs with "if anyone has understanding, let him calculate" — which sets up an equivalence: hearing (which in Hebrew thought means obeying) is to patience and faith what understanding is to wisdom. In other words, knowledge is only the first step; it's meant to lead to action.
 
-He does this in two ways:
+Satan attacks in two ways:
 
 - By force and intimidation ({{% bible val="conquering the saints" link="rev:13,7" lang="en" %}}, {{% bible val="killing any resistance" link="rev:13,10" lang="en" %}} or {{% bible val="people who don’t want to follow" link="rev:13,15" lang="en" %}}).
 - By deception, which is a little harder to understand, but I will explain. It has two faces. The first beast offers power and control, and backs the offer with violence: "Who is like the beast, and who can fight against it?" (13:4). The second offers wealth and security: it works through signs and wonders, and through a market that is open only to those who take its mark (13:13–17).

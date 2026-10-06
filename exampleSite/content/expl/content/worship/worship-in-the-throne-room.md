@@ -75,7 +75,7 @@ The verse at the end of the previous chapter already mentioned the throne room o
     <td>As the {{% bible val="introduction to the throne room" link="rev:4,1" lang="en" %}}</td>
 </tr>
 <tr>
-    <td>Voice like a trumpet with rapture in the Spirit</td>
+    <td>Voice like a trumpet; John is in the Spirit</td>
     <td>{{% bible val="Start of the vision regarding the churches" link="rev:1,10-12" lang="en" %}}</td>
     <td>{{% bible val="Start of the vision here in the throne room" link="rev:4,1-2" lang="en" %}}</td>
 </tr>

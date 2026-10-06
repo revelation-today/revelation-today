@@ -123,7 +123,7 @@ But otherwise the {{% bible val="witnesses" link="rev:11,3-13" lang="en" %}} and
 | Overcome | {{% bible val="The first" link="rev:13,7" lang="en" %}} and {{% bible val="second" link="rev:13,15" lang="en" %}} beast *kill their enemies*. </br> Each subdues and gives the {{% bible val="first" link="rev:13,8" lang="en" %}} and {{% bible val="second" link="rev:13,16-17" lang="en" %}} beast their loyalty. </br>But *NOT the faithful*. | The saints will be *restored and exalted* {{% bible val="Rev 11:11-12" link="rev:11,11-12" lang="en" %}}</br> All others will *either be judged or give glory to God.* {{% bible val="Rev 11:13-14" link="rev:11,13-14" lang="en" %}} |
 | Attention! | The {{% bible val="first" link="rev:13,9-10" lang="en" %}} and {{% bible val="second beast" link="rev:13,18" lang="en" %}} have *hidden dangers* | *Extensive visible triumph*: God's kingdom is here {{% bible val="Rev 11:15-19" link="rev:11,15-19" lang="en" %}} |
 
-Both, in their own way, try to reflect {{% bible val="Jesus the overcomer" link="rev:12,1-12" lang="en" %}} — but the imitation is hollow. The differences make that plain:
+The beasts, in their own way, try to imitate {{% bible val="Jesus the overcomer" link="rev:12,1-12" lang="en" %}} — but the imitation is hollow. The differences make that plain:
 
 - The source of the witnesses is the {{% bible val="worship of God" link="rev:11,1-2" lang="en" %}}, while the source of the beasts is the {{% bible val="vengeful defeat of the dragon" link="rev:12,5-17" lang="en" %}}.
 - The actions of the witnesses are signs that invite {{% bible val="repentance" link="rev:11,6" lang="en" %}}, while for the beasts they are signs demanding {{% bible val="submission" link="rev:13,4" lang="en" %}}.
